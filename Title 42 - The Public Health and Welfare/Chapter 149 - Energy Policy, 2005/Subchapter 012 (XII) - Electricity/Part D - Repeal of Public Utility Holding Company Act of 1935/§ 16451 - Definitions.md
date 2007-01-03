@@ -54,7 +54,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(ii) a broker or dealer that owns, controls, or holds with the power to vote public utility or public utility holding company securities so long as the securities are—
 
-&emsp;&emsp;&emsp;&emsp;(I) not beneficially owned by the broker or dealer and are subject to anyvoting instructions which may be given by customers or their assigns; or
+&emsp;&emsp;&emsp;&emsp;(I) not beneficially owned by the broker or dealer and are subject to any voting instructions which may be given by customers or their assigns; or
 
 &emsp;&emsp;&emsp;&emsp;(II) acquired within 12 months in the ordinary course of business as a broker, dealer, or underwriter with the bona fide intention of effecting distribution of the specific securities so acquired.
 

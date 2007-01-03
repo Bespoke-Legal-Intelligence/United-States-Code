@@ -10,7 +10,7 @@ Beginning with fiscal year 2004, from funds appropriated under section 6362(b)(1
 
 #### (b) Continuation of performance awards
 
-For any State educational agency that receives a competitive grant under this section, the Secretary shall make an award for each of the succeeding years that the State educational agency demonstrates it is continuing to meet the criteria described in subsection (a) of this section.
+For any State educational agency that receives a competitive grant under this section,the Secretary shall make an award for each of the succeeding years that the State educational agency demonstrates it is continuing to meet the criteria described in subsection (a) of this section.
 
 #### (c) Distribution of targeted assistance grants
 

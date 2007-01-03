@@ -60,7 +60,7 @@ Projects and activities under the programs established pursuant to subsection (a
 
 &emsp;The Secretary of State, in consultation with the Secretary of Commerce and the Administrator of the United States Agency for International Development, shall prepare and transmit to the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a biennial report on—
 
-&emsp;&emsp;(A) projects and activities carried out under programs established under subsection (a) of this section for the preceding two-yearperiod in priority countries identified pursuant to subsection (a)(3) of this section; and
+&emsp;&emsp;(A) projects and activities carried out under programs established under subsection (a) of this section for the preceding two-year period in priority countries identified pursuant to subsection (a)(3) of this section; and
 
 &emsp;&emsp;(B) projects and activities carried out under programs to combat corruption, improve transparency and accountability, and promote other forms of good governance established under other provisions of law for the preceding two-year period in such countries.
 
@@ -132,7 +132,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(10) Independent and accountable legislatures, responsive political parties, and transparent electoral processes, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
 
-&emsp;“(11) Transparent business frameworks, including modern commercial codes and intellectual propertyrights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
+&emsp;“(11) Transparent business frameworks, including modern commercial codes and intellectual property rights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
 
 &emsp;“(12) The United States should attempt to improve accountability in foreign countries, including by—
 

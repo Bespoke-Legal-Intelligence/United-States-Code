@@ -48,7 +48,7 @@ In making its determinations and licensing decisions under subsections (a) and (
 
 #### (d) Independent facilities competition
 
-Nothing in this section shall be construed as precluding COMSAT from investing in or owningsatellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.
+Nothing in this section shall be construed as precluding COMSAT from investing in or owning satellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.
 
 (Pub. L. 87–624, title VI, §601, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 48.)
 

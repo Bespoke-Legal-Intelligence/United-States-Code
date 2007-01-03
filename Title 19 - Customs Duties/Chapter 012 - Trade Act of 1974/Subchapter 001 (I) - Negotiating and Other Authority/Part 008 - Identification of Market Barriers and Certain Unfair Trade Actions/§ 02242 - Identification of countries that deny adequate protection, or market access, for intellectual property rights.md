@@ -120,7 +120,7 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 The Trade Representative shall, by not later than the date by which countries are identified under subsection (a) of this section, transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights.
 
-(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
+(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec.8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Amendments
 

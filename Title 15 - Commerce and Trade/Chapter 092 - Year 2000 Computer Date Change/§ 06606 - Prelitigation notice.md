@@ -92,7 +92,7 @@ Nothing in this section supersedes or otherwise preempts any State law or rule o
 
 #### (i) Provisional remedies unaffected
 
-Nothing in this section interferes with the right of a litigant to provisional remedies otherwise available under Rule 65 of the Federal Rules of Civil Procedure or any State rule of civil procedure providing extraordinary or provisional remedies in any civil action in which the underlying complaint seeks both injunctive and monetary relief.
+Nothing in this section interferes with the right of a litigant to provisional remedies otherwise available under Rule 65 of the Federal Rules of Civil Procedure or any State rule of civil procedure providing extraordinary or provisional remedies in any civil action in which theunderlying complaint seeks both injunctive and monetary relief.
 
 #### (j) Special rule for class actions
 
@@ -102,7 +102,7 @@ For the purpose of applying this section to a Y2K action that is maintained as a
 
 #### References in Text
 
-Section 3(7) of the Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (b)(3), is section 3(7) of Pub. L. 105–271, which is set out in a note under section 1 of this title.
+Section 3(7) of the Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (b)(3), is section 3(7) of Pub. L. 105–271, which was formerly set out in a note under section 1 of this title.
 
 The Federal Rules of Evidence, referred to in subsec. (c)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

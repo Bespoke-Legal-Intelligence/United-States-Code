@@ -6,7 +6,7 @@ The Secretary is authorized to accept lands, buildings, equipment, and other con
 
 #### Codification
 
-Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part ofthe Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
 #### Similar Provisions
 

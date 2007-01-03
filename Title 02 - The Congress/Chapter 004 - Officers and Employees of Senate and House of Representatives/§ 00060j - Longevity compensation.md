@@ -18,7 +18,7 @@ This section shall apply to—
 
 #### (b) Rate of compensation; limitation on increases; computation of service; effective date of payment
 
-(1) Except as provided in paragraph (2), an employee to whom this section applies shall be paid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as “longevity compensation”) at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
+(1) Except as provided in paragraph (2), an employee to whom this section applies shall bepaid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as “longevity compensation”) at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
 
 (2) The amount of longevity compensation which may be paid to an employee, when added to his regular annual compensation, shall not exceed the maximum annual compensation which may be paid to Senate employees generally as prescribed by law or orders of the President pro tempore issued under authority of section 60a–1 of this title.
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 95–391 substituted provisions setting forth requirements 
 
 1974—Subsec. (a)(8). Pub. L. 93–371 added par. (8).
 
-Subsec. (b). Figure “855” deemed to refer to the figure “906”, effective Oct. 1, 1974, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 7, 1974, set out as a note under section 60a–1 of this title.
+Subsec. (b). Figure “855” deemed to refer to the figure “906”, effective Oct. 1, 1974, pursuant to Pub. L. 91–656,§4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 7, 1974, set out as a note under section 60a–1 of this title.
 
 1973—Subsec. (b). Figure “816” deemed to refer to the figure “855”, effective Oct. 1, 1973, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 4, 1973, set out as a note under section 60a–1 of this title.
 

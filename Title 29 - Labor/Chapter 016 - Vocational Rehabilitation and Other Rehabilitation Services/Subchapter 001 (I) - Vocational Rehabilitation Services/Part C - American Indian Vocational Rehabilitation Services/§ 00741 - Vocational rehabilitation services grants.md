@@ -10,7 +10,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 &emsp;(A) is made at such time, in such manner, and contains such information as the Commissioner may require;
 
-&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservationin a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
+&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservation in a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
 
 &emsp;(C) contains assurances that the application was developed in consultation with the designated State unit of the State.
 

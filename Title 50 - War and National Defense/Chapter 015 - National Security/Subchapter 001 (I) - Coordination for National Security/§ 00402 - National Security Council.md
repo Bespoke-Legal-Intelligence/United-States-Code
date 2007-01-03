@@ -6,7 +6,7 @@ There is established a council to be known as the National Security Council (her
 
 The President of the United States shall preside over meetings of the Council: <i>Provided</i>, That in his absence he may designate a member of the Council to preside in his place.
 
-The function of the Council shall be to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the military services and the other departments and agencies of the Government to cooperate more effectively in matters involving the national security.
+The function of the Council shall be to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the military services and the other departments and agencies of the Government to cooperate moreeffectively in matters involving the national security.
 
 The Council shall be composed of—
 
@@ -204,7 +204,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Transfer of Functions
 
-Office of Director for Mutual Security abolished and functions of Director, including those as a member ofNational Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department of State to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
+Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department of State to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
 
 National Security Resources Board, together with Office of Chairman, abolished by section 6 of Reorg. Plan No. 3 of 1953, eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634, set out under section 404 of this title. Functions of Chairman with limited exception, including his functions as a member of National Security Council transferred to Office of Defense Mobilization by section 2(a) of Reorg. Plan No. 3 of 1953. Functions of Director of Office of Defense Mobilization with respect to being a member of National Security Council transferred to Director of Office of Civil and Defense Mobilization by Reorg. Plan No. 1 of 1958, §4, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended by Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861, set out as a note under section 5195 of Title 42, The Public Health and Welfare. For subsequent transfers to Office of Emergency Planning, Office of Emergency Preparedness, and President, see Transfer of Functions notes set out under section 404 of this title.
 
@@ -270,7 +270,7 @@ Duration of Program.—(1) The Director shall terminate the pilot program not la
 
 #### National Security Agency Act of 1959
 
-Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI,§1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat. 2630, 2633; Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
+Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat. 2630, 2633; Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950; Pub. L. 109–364, div. A, title IX, §933, Oct. 17, 2006, 120 Stat. 2363, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
 
 “\[
 
@@ -320,7 +320,7 @@ Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (\[former\] 
 
 “(c) The authority of the Director of the National Security Agency, on behalf of the Secretary of Defense, to make payments under subsections (a) and (b), and under contracts for leases entered into under subsection (a), is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
-“(d) Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37, United States Code, for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
+“(d) Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37,United States Code, for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
 
 “(e) Regulations issued pursuant to subsection (b)(1) shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
@@ -352,7 +352,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 &emsp;“(A) may pay all or part of the tuition and other expenses related to the training of personnel who are assigned or detailed for language and language-related training, orientation, or instruction; and
 
-&emsp;“(B) may pay benefits and allowances to civilian personnel in accordance with chapters 57 and 59 of title 5, United States Code, and to military personnel in accordance with chapter 7 of title 37, United StatesCode, and applicable provisions of title 10, United States Code, when such personnel are assigned to training at sites away from their designated duty station.
+&emsp;“(B) may pay benefits and allowances to civilian personnel in accordance with chapters 57 and 59 of title 5, United States Code, and to military personnel in accordance with chapter 7 of title 37, United States Code, and applicable provisions of title 10, United States Code, when such personnel are assigned to training at sites away from their designated duty station.
 
 “(c)(1) To the extent not inconsistent, in the opinion of the Secretary of Defense, with the operation of military cryptologic reserve units and in order to maintain necessary capability in foreign language skills and related abilities needed by the National Security Agency, the Director may establish a cryptologic linguist reserve. The cryptologic linguist reserve may consist of former or retired civilian or military cryptologic personnel of the National Security Agency and of other qualified individuals, as determined by the Director of the Agency. Each member of the cryptologic linguist reserve shall agree that, during any period of emergency (as determined by the Director), the member shall return to active civilian status with the National Security Agency and shall perform such linguistic or linguistic-related duties as the Director may assign.
 
@@ -382,7 +382,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “(h) Regulations issued pursuant to this section shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
-“(i) The Director of the National Security Agency, on behalf of the Secretary of Defense, may, without regard to section 4109(a)(2)(B) of title 5, United States Code, pay travel, transportation, storage, and subsistence expenses under chapter 57 of such title to civilian and military personnel of the Department of Defense who are assigned to duty outside the United States for a period of one year or longer which involves cryptologic training, language training, or related disciplines. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978, and amended Pub. L. 97–89, title VI, §602, Dec. 4, 1981, 95 Stat. 1154.\]
+“(i) The Director of the National Security Agency, on behalf of the Secretary of Defense, may, without regardto section 4109(a)(2)(B) of title 5, United States Code, pay travel, transportation, storage, and subsistence expenses under chapter 57 of such title to civilian and military personnel of the Department of Defense who are assigned to duty outside the United States for a period of one year or longer which involves cryptologic training, language training, or related disciplines. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978, and amended Pub. L. 97–89, title VI, §602, Dec. 4, 1981, 95 Stat. 1154.\]
 
 “
 
@@ -404,7 +404,7 @@ Sec. 11. (a)(1) The Director of the National Security Agency may authorize agenc
 
 “(c) Agency personnel designated by the Director of the National Security Agency under subsection (a) shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers.
 
-“(d)(1) Notwithstanding any other provision of law, agency personnel designated by the Director of the National Security Agency under subsection (a) shall be considered for purposes of chapter 171 of title 28, UnitedStates Code, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such agency personnel take reasonable action, which may include the use of force, to—
+“(d)(1) Notwithstanding any other provision of law, agency personnel designated by the Director of the National Security Agency under subsection (a) shall be considered for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such agency personnel take reasonable action, which may include the use of force, to—
 
 &emsp;“(A) protect an individual in the presence of such agency personnel from a crime of violence;
 
@@ -500,7 +500,7 @@ Sec. 16. (a) The purpose of this section is to establish an undergraduate traini
 
 “(f) Chapter 41 of title 5 and subsections (a) and (b) of section 3324 of title 31, United States Code, shall not apply with respect to this section.
 
-“(g) The Secretary of Defense may issue such regulations as may be necessary to implement this section. \[Added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200.\]
+“(g) The Secretary of Defense may issue such regulations as may be necessary to implement this section.\[Added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200.\]
 
 “\[
 
@@ -518,7 +518,19 @@ Sec. 19. (a) There is established the National Security Agency Emerging Technolo
 
 “(b) The Panel shall study and assess, and periodically advise the Director on, the research, development, and application of existing and emerging science and technology advances, advances in encryption, and other topics.
 
-“(c) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Panel.” \[Added Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950.\]
+“(c) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Panel. \[Added Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950.\]
+
+“
+
+Sec. 20. (a) The Director may collect charges for evaluating, certifying, or validating information assurance products under the National Information Assurance Program or successor program.
+
+“(b) The charges collected under subsection (a) shall be established through a public rulemaking process in accordance with Office of Management and Budget Circular No. A–25.
+
+“(c) Charges collected under subsection (a) shall not exceed the direct costs of the program referred to in that subsection.
+
+“(d) The appropriation or fund bearing the cost of the service for which charges are collected under the program referred to in subsection (a) may be reimbursed, or the Director may require advance payment subject to such adjustment on completion of the work as may be agreed upon.
+
+“(e) Amounts collected under this section shall be credited to the account or accounts from which costs associated with such amounts have been or will be incurred, to reimburse or offset the direct costs of the program referred to in subsection (a).” \[Added Pub. L. 109–364, div. A, title IX, §933, Oct. 17, 2006, 120 Stat. 2363.\]
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
 
@@ -532,7 +544,7 @@ Ex. Ord. No. 10700, Feb. 25, 1957, 22 F.R. 1111, as amended by Ex. Ord. No. 1077
 
 #### Ex. Ord. No. 13228. Establishing the Office of Homeland Security and the Homeland Security Council
 
-Ex. Ord. No. 13228, Oct. 8, 2001, 66 F.R. 51812, as amended by Ex. Ord. No. 13284, §3, Jan. 23, 2003, 68 F.R.4075; Ex. Ord. No. 13286, §8, Feb. 28, 2003, 68 F.R. 10622, provided:
+Ex. Ord. No. 13228, Oct. 8, 2001, 66 F.R. 51812, as amended by Ex. Ord. No. 13284, §3, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13286, §8, Feb. 28, 2003, 68 F.R. 10622, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -614,7 +626,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 (h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
 
-(i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programs for educating the public about the nature of terrorist threats and appropriate precautions and responses.
+(i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programsfor educating the public about the nature of terrorist threats and appropriate precautions and responses.
 
 (j) <i>Cooperation with State and Local Governments and Private Entities</i>. The Office shall encourage and invite the participation of State and local governments and private entities, as appropriate, in carrying out the Office's functions.
 

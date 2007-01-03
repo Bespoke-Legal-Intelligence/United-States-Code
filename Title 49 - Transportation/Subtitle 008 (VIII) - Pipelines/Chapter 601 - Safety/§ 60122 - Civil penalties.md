@@ -2,7 +2,7 @@
 
 (a)
 
-General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(b) or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $100,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $1,000,000.
+General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(b), 60114(d), or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $100,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $1,000,000.
 
 (2) A person violating a standard or order under section 60103 or 60111 of this title is liable to the Government for a civil penalty of not more than $50,000 for each violation. A penalty under this paragraph may be imposed in addition to penalties imposed under paragraph (1) of this subsection.
 
@@ -44,7 +44,7 @@ Deposit in Treasury.—Amounts collected under this section shall be deposited i
 
 Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 107–355, §§6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, 116 Stat. 2992, 2993, 3010.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 107–355, §§6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, 116 Stat. 2992, 2993, 3010; Pub. L. 109–468, §2(a)(2), Dec. 29, 2006, 120 Stat. 3487.)
 
 Historical and Revision Notes
 
@@ -127,6 +127,8 @@ In subsection (d), the words “imposed or compromised under this section” are
 In subsection (f), the words “Separate penalties . . . prescribed under this chapter . . . may not be imposed under this chapter” are substituted for “Nothing in this title shall be construed to authorize . . . penalties” for clarity.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–468 substituted “60114(b), 60114(d),” for “60114(b)”.
 
 2002—Subsec. (a)(1). Pub. L. 107–355, §21(3), substituted “section 60114(b)” for “section 60114(c)”.
 

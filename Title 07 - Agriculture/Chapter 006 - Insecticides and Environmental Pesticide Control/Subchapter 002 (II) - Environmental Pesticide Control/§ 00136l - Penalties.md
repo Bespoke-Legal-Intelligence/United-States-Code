@@ -12,7 +12,7 @@
 
 #### (3) Hearing
 
-&emsp;No civil penalty shall be assessed unless the person charged shall have been given notice and opportunity for a hearing on such charge in the county, parish, or incorporated city of the residence of the person charged.
+&emsp;No civil penalty shall be assessed unless the person charged shall have been given noticeand opportunity for a hearing on such charge in the county, parish, or incorporated city of the residence of the person charged.
 
 #### (4) Determination of penalty
 

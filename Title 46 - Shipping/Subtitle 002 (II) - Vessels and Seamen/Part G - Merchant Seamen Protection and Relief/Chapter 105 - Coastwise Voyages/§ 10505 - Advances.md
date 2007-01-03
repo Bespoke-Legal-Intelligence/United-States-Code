@@ -40,7 +40,3 @@ Subsec. (b). Pub. L. 103–206, §414(2), substituted “$5,000” for “$500�
 
 1986—Subsec. (d). Pub. L. 99–640 struck out last sentence which read as follows: “However, this section applies to a vessel taking oysters.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10506 of this title.
-

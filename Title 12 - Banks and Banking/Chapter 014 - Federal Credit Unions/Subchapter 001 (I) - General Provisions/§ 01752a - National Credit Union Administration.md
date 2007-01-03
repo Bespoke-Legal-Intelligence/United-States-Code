@@ -22,7 +22,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be six years, except that the termsof the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
+The term of office of each member of the Board shall be six years, except that the terms of the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
 
 #### (d) Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress
 
@@ -30,7 +30,7 @@ The management of the Administration shall be vested in the Board. The Board sha
 
 #### (e) Functions of Chairman
 
-The Chairman of the Board shall be the spokesman for the Board and shall represent the Board and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
+The Chairman of the Board shall be the spokesman for the Board and shall represent theBoard and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
 
 #### (f) Audit by Government Accountability Office
 
@@ -82,7 +82,7 @@ Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, provided that:
 
 Study.—The Secretary \[of the Treasury\] shall conduct a study of—
 
-&emsp;“(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
+&emsp;“(1) the differences between credit unions and other federally insured financial institutions, includingregulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
 
 &emsp;“(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
 

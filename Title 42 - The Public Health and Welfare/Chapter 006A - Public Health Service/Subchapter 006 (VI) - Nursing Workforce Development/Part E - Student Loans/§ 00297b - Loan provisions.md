@@ -8,7 +8,7 @@ The total of the loans for any academic year (or its equivalent, as determined u
 
 Loans from any such student loan fund by any school shall be made on such terms and conditions as the school may determine; subject, however, to such conditions, limitations, and requirements as the Secretary may prescribe (by regulation or in the agreement with the school) with a view to preventing impairment of the capital of such fund to the maximum extent practicable in the light of the objective of enabling the student to complete his course of study; and except that—
 
-&emsp;(1) such a loan may be made only to a student who (A) is in need of the amount of theloan to pursue a full-time or half-time course of study at the school leading to a baccalaureate or associate degree in nursing or an equivalent degree, or a diploma in nursing, or a graduate degree in nursing, (B) is capable, in the opinion of the school, of maintaining good standing in such course of study, and (C) with respect to any student enrolling in the school after June 30, 1986, is of financial need (as defined in regulations issued by the Secretary);; <sup>2</sup>
+&emsp;(1) such a loan may be made only to a student who (A) is in need of the amount of the loan to pursue a full-time or half-time course of study at the school leading to a baccalaureate or associate degree in nursing or an equivalent degree, or a diploma in nursing, or a graduate degree in nursing, (B) is capable, in the opinion of the school, of maintaining good standing in such course of study, and (C) with respect to any student enrolling in the school after June 30, 1986, is of financial need (as defined in regulations issued by the Secretary);; <sup>2</sup>
 
 &emsp;(2) such a loan shall be repayable in equal or graduated periodic installments (with the right of the borrower to accelerate repayment) over the ten-year period which begins nine months after the student ceases to pursue a full-time or half-time course of study at a school of nursing, excluding from such 10-year period all (A) periods (up to three years) of (i) active duty performed by the borrower as a member of a uniformed service, or (ii) service as a volunteer under the Peace Corps Act \[22 U.S.C. 2501 et seq.\], (B) periods (up to ten years) during which the borrower is pursuing a full-time or half-time course of study at a collegiate school of nursing leading to baccalaureate degree in nursing or an equivalent degree, or to graduate degree in nursing, or is otherwise pursuing advanced professional training in nursing (or training to be a nurse anesthetist), and (C) such additional periods under the terms of paragraph (8) of this subsection;
 
@@ -90,7 +90,7 @@ The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 2
 
 Subsection (h) of this section, referred to in subsec. (h), was struck out and subsec. (i) was redesignated (h) by Pub. L. 102–408. See 1992 Amendment note below.
 
-Section 6(b) of the Nurse Training Act of 1971, referred to in subsec. (h), is section 6(b) of Pub. L. 92–158,Nov. 18, 1971, 85 Stat. 477. Section 6(b)(1) amended subsec. (b)(3) of this section, added former subsec. (h) of this section, and enacted the provisions editorially classified to subsec. (i) \[now (h)\] of this section. Section 6(b)(2) enacted section 297i of this title which was transferred and redesignated as subsec. (j) \[now (i)\] of this section pursuant to section 941(h)(5) of Pub. L. 94–63.
+Section 6(b) of the Nurse Training Act of 1971, referred to in subsec. (h), is section 6(b) of Pub. L. 92–158, Nov. 18, 1971, 85 Stat. 477. Section 6(b)(1) amended subsec. (b)(3) of this section, added former subsec. (h) of this section, and enacted the provisions editorially classified to subsec. (i) \[now (h)\] of this section. Section 6(b)(2) enacted section 297i of this title which was transferred and redesignated as subsec. (j) \[now (i)\] of this section pursuant to section 941(h)(5) of Pub. L. 94–63.
 
 #### Codification
 
@@ -150,7 +150,7 @@ Subsecs. (d) to (i). Pub. L. 94–63, §941(h)(1), substituted “subpart” for
 
 Subsec. (j). Pub. L. 94–63, §941(h)(5), added subsec. (j), formerly classified as section 297i of this title pursuant to enactment as section 830 of act July 1, 1944, ch. 373. Section 941(h)(5)(A) of Pub. L. 94–63 transferred such former section to this section and section 941(h)(5)(B) redesignated provision as subsec. (j).
 
-1971—Subsec. (a). Pub. L. 92–158, §6(a), substituted“$2,500” for “$1,500” and “$10,000” for “$60,000”.
+1971—Subsec. (a). Pub. L. 92–158, §6(a), substituted “$2,500” for “$1,500” and “$10,000” for “$60,000”.
 
 Subsec. (b)(1). Pub. L. 92–158, §6(e), substituted “full-time or half-time course of study” for “full-time course of study”.
 

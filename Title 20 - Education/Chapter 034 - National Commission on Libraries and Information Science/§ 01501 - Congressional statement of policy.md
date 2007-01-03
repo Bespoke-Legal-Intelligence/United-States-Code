@@ -1,6 +1,6 @@
 ### §1501. Congressional statement of policy
 
-The Congress hereby affirms that library and information services adequate to meet the needs of the people of the United States are essential to achieve national goals and to utilize most effectively the Nation's educational resources andthat the Federal Government will cooperate with State and local governments and public and private agencies in assuring optimum provision of such services.
+The Congress hereby affirms that library and information services adequate to meet the needs of the people of the United States are essential to achieve national goals and to utilize most effectively the Nation's educational resources and that the Federal Government will cooperate with State and local governments and public and private agencies in assuring optimum provision of such services.
 
 (Pub. L. 91–345, §2, July 20, 1970, 84 Stat. 440.)
 

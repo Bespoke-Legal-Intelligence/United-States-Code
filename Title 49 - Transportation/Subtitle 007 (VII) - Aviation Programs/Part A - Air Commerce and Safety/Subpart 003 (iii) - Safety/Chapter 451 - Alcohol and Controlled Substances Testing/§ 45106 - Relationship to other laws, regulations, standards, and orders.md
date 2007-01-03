@@ -12,7 +12,7 @@ International Obligations and Foreign Laws.—(1) In prescribing regulations und
 
 &emsp;(B) shall consider applicable laws and regulations of foreign countries.
 
-(2) The Secretaries of State and Transportation jointly shall request the governments of foreign countries that are members of the International Civil Aviation Organization to strengthen and enforce existing standards to prohibit crewmembers in international civil aviation from using alcohol or a controlled substance in violation of law or a United States Government regulation.
+(2) The Secretaries of State and Transportation jointly shall request the governments offoreign countries that are members of the International Civil Aviation Organization to strengthen and enforce existing standards to prohibit crewmembers in international civil aviation from using alcohol or a controlled substance in violation of law or a United States Government regulation.
 
 (c)
 

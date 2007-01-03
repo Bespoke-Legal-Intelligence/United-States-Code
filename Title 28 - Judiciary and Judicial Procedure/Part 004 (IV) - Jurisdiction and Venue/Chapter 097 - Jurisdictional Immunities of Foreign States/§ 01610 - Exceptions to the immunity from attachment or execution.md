@@ -56,7 +56,7 @@ Waiver.—The President may waive any provision of paragraph (1) in the interest
 
 #### References in Text
 
-The effective date of this Act, referred to in subsecs. (a) and (b), is 90 days after Oct. 21, 1976, see section 8of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
+The effective date of this Act, referred to in subsecs. (a) and (b), is 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
 
 #### Amendments
 

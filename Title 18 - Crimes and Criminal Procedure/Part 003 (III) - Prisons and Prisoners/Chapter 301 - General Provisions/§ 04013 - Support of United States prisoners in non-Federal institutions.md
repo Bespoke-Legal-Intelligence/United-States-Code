@@ -22,7 +22,7 @@
 
 &emsp;(B) the availability of appropriate Federal, State, and local government detention facilities.
 
-(2) In order to be eligible for a contract for the housing, care, and security of persons held incustody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
+(2) In order to be eligible for a contract for the housing, care, and security of persons held in custody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
 
 &emsp;(A) be located in a district that has been designated as needing additional Federal detention facilities pursuant to paragraph (1);
 
@@ -78,7 +78,7 @@ Notice to prisoners of law.—Each person who is or becomes a prisoner shall be 
 
 &emsp;(4)
 
-Notice to prisoners of state or local implementation.—The implementation of this subsection by the State or local government, and any amendment to that implementation, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of that implementation (or amendment, as the case may be). A fee under this subsection may not be assessed against, or collected from, a prisoner pursuant to such implementation (or amendments, as the case may be) for services provided before the expiration of such period.
+Notice to prisoners of state or local implementation.—The implementation of this subsection by the State or local government, and any amendment to that implementation,shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of that implementation (or amendment, as the case may be). A fee under this subsection may not be assessed against, or collected from, a prisoner pursuant to such implementation (or amendments, as the case may be) for services provided before the expiration of such period.
 
 &emsp;(5)
 

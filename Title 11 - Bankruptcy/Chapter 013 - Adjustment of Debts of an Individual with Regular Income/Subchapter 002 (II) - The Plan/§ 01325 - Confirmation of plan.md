@@ -58,7 +58,7 @@
 
 &emsp;(B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
 
-(3) Amounts reasonably necessary to be expended under paragraph (2) shall be determined in accordance with subparagraphs (A) and (B) of section 707(b)(2), if the debtor has current monthly income, when multiplied by 12, greater than—
+(3) Amounts reasonably necessary to be expended under paragraph (2), other than subparagraph (A)(ii) of paragraph (2), shall be determined in accordance with subparagraphs (A) and (B) of section 707(b)(2), if the debtor has current monthly income, when multiplied by 12, greater than—
 
 &emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
 
@@ -84,13 +84,13 @@
 
 (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129; Pub. L. 109–439, §2, Dec. 20, 2006, 120 Stat. 3285.)
 
 #### Historical and Revision Notes
 
 I74legislative statements
 
-Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate amendment to significantly protect secured creditors in chapter 13. Unless the secured creditor accepts the plan, the plan must provide that the secured creditor retain the lien securing the creditor's allowed secured claim in addition to receiving value, as of the effective date of the plan of property to be distributed under the plan on account of the claim not less than the allowed amount of the claim. To this extent, a secured creditor in a case under chapter 13 is treated identically with a recourse creditor under section 1111(b)(1) of the House amendment except that the secured creditor in a case under chapter13 may receive any property of a value as of the effective date of the plan equal to the allowed amount of the creditor's secured claim rather than being restricted to receiving deferred cash payments. Of course, the secured creditors’ lien only secures the value of the collateral and to the extent property is distributed of a present value equal to the allowed amount of the creditor's secured claim the creditor's lien will have been satisfied in full. Thus the lien created under section 1325(a)(5)(B)(i) is effective only to secure deferred payments to the extent of the amount of the allowed secured claim. To the extent the deferred payments exceed the value of the allowed amount of the secured claim and the debtor subsequently defaults, the lien will not secure unaccrued interest represented in such deferred payments.
+Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate amendment to significantly protect secured creditors in chapter 13. Unless the secured creditor accepts the plan, the plan must provide that the secured creditor retain the lien securing the creditor's allowed secured claim in addition to receiving value, as of the effective date of the plan of property to be distributed under the plan on account of the claim not less than the allowed amount of the claim. To this extent, a secured creditor in a case under chapter 13 is treated identically with a recourse creditor under section 1111(b)(1) of the House amendment except that the secured creditor in a case under chapter 13 may receive any property of a value as of the effective date of the plan equal to the allowed amount of the creditor's secured claim rather than being restricted to receiving deferred cash payments. Of course, the secured creditors’ lien only secures the value of the collateral and to the extent property is distributed of a present value equal to the allowed amount of the creditor's secured claim the creditor's lien will have been satisfied in full. Thus the lien created under section 1325(a)(5)(B)(i) is effective only to secure deferred payments to the extent of the amount of the allowed secured claim. To the extent the deferred payments exceed the value of the allowed amount of the secured claim and the debtor subsequently defaults, the lien will not secure unaccrued interest represented in such deferred payments.
 
 #### senate report no. 95–989
 
@@ -99,6 +99,8 @@ The bankruptcy court must confirm a plan if (1) the plan satisfies the provision
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee. Any governmental unit is an entity subject to such an order.
 
 #### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–439 inserted “, other than subparagraph (A)(ii) of paragraph (2),” after “under paragraph (2)” in introductory provisions.
 
 2005—Subsec. (a). Pub. L. 109–8, §306(b), inserted concluding provisions at end “For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.”
 
@@ -136,7 +138,7 @@ Subsecs. (b), (c). Pub. L. 98–353, §317(2), (3), added subsec. (b) and redesi
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -149,6 +151,10 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

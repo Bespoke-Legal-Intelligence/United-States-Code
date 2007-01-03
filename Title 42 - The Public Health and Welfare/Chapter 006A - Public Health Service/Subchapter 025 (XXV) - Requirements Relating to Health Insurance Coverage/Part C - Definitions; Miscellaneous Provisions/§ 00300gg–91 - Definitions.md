@@ -138,7 +138,7 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 #### (8) Governmental plan
 
-&emsp;(A) The term “governmental plan” has the meaning given such term under section 3(32) ofthe Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(32)\] and any Federal governmental plan.
+&emsp;(A) The term “governmental plan” has the meaning given such term under section 3(32) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(32)\] and any Federal governmental plan.
 
 &emsp;(B)
 
@@ -154,7 +154,7 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (10) Network plan
 
-&emsp;The term “network plan” means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term “network plan” means health insurance coverage of a health insurance issuer under which the financing and delivery ofmedical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (11) Participant
 

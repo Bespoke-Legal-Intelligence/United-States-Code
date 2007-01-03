@@ -18,7 +18,7 @@ Section, insofar as it relates to rights-of-way through public lands, forest, an
 
 #### General Grant National Park Abolished
 
-Act Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, which is classified to section 80a of Title 16, Conservation, abolished the General Grant National Park and added the lands to the Kings Canyon National Park as the General Grant grove section.
+Act Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, which is classified to section 80a of Title 16, Conservation, abolishedthe General Grant National Park and added the lands to the Kings Canyon National Park as the General Grant grove section.
 
 #### Savings Provision
 

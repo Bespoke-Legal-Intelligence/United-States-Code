@@ -25,10 +25,13 @@
 | [1219\.](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md) | Statement of origin of disease or injury: limitations. |
 | \[1220. | Repealed.\] |
 | [1221\.](%C2%A7%2001221%20-%20Effective%20date%20of%20retirement%20or%20placement%20of%20name%20on%20temporary%20disability%20retired%20list.md) | Effective date of retirement or placement of name on temporary disability retired list. |
+| [1222\.](%C2%A7%2001222%20-%20Physical%20evaluation%20boards.md) | Physical evaluation boards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title V, §597(a)(2), Oct. 17, 2006, 120 Stat. 2237, added item 1222.
 
 2004—Pub. L. 108–375, div. A, title V, §§521(b), 555(b)(2), Oct. 28, 2004, 118 Stat. 1888, 1914, added item 1206a and substituted “Academy cadets and midshipmen: applicability of chapter” for “Cadets, midshipmen, and aviation cadets: chapter does not apply to” in item 1217.
 
@@ -72,3 +75,4 @@
 - [&sect; 01219 - Statement of origin of disease or injury limitations](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md)
 - [&sect; 01220 - Repealed. Pub. L. 87&#8211;651, title I, &sect;107(d), Sept. 7, 1962, 76 Stat. 509](%C2%A7%2001220%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93651%2C%20title%20I%2C%20%C2%A7107%28d%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20509.md)
 - [&sect; 01221 - Effective date of retirement or placement of name on temporary disability retired list](%C2%A7%2001221%20-%20Effective%20date%20of%20retirement%20or%20placement%20of%20name%20on%20temporary%20disability%20retired%20list.md)
+- [&sect; 01222 - Physical evaluation boards](%C2%A7%2001222%20-%20Physical%20evaluation%20boards.md)

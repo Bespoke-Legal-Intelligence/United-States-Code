@@ -114,7 +114,7 @@
 
 #### (C) Redesignations
 
-&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerationsset forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
+&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article ifimports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
 
 #### (D) Least-developed beneficiary developing countries and beneficiary sub-Saharan African countries
 
@@ -178,11 +178,17 @@
 
 #### (B) Other waiver limits
 
-&emsp;&emsp;The President may not exercise the waiver authority provided under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
+&emsp;&emsp;(i) The President may not exercise the waiver authority provided under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
 
-&emsp;&emsp;&emsp;(i) had a per capita gross national product (calculated on the basis of the best available information, including that of the International Bank for Reconstruction and Development) of $5,000 or more; or
+&emsp;&emsp;&emsp;(I) had a per capita gross national product (calculated on the basis of the best available information, including that of the International Bank for Reconstruction and Development) of $5,000 or more; or
 
-&emsp;&emsp;&emsp;(ii) had exported (either directly or indirectly) to the United States a quantity of articles that was duty-free under this subchapter that had an aggregate appraised value of more than 10 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during that year.
+&emsp;&emsp;&emsp;(II) had exported (either directly or indirectly) to the United States a quantity of articles that was duty-free under this subchapter that had an aggregate appraised value of more than 10 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during that year.
+
+&emsp;&emsp;(ii) Not later than July 1 of each year, the President should revoke any waiver that has then been in effect with respect to an article for 5 years or more if the beneficiary developing country has exported to the United States (directly or indirectly) during thepreceding calendar year a quantity of the article—
+
+&emsp;&emsp;&emsp;(I) having an appraised value in excess of 1.5 times the applicable amount set forth in subsection (c)(2)(A)(ii) for that calendar year; or
+
+&emsp;&emsp;&emsp;(II) exceeding 75 percent of the appraised value of the total imports of that article into the United States during that calendar year.
 
 #### (C) Calculation of limitations
 
@@ -204,7 +210,7 @@ Before designating articles as eligible articles under subsection (a)(1) of this
 
 No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
-(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579.)
+(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195.)
 
 #### References in Text
 
@@ -215,6 +221,8 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2069; Pub. L. 96–39, title XI, §1111(a)(3), July 26, 1979, 93 Stat. 315; Pub. L. 98–573, title V, §504, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1889(7), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–418, title I, §1903, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–382, title II, §226, Aug. 20, 1990, 104 Stat. 660; Pub. L. 103–465, title IV, §404(e)(3), Dec. 8, 1994, 108 Stat. 4961, related to eligible articles, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+
+2006—Subsec. (d)(4)(B). Pub. L. 109–432 designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
 2004—Subsec. (b)(1)(A). Pub. L. 108–429, §1555(b), substituted “Except as provided in paragraph (4), textile” for “Textile”.
 

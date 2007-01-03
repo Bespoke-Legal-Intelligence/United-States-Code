@@ -10,7 +10,7 @@
 
 (2) No application for a branch or agency shall be approved by the Comptroller or by a State bank supervisory authority, as the case may be, unless the entity making the application has agreed to conduct all of its operations in the United States in full compliance with provisions of any law of the United States or any State thereof which—
 
-&emsp;(A) impose requirements that protect the rights of consumers in financial transactions,to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws;
+&emsp;(A) impose requirements that protect the rights of consumers in financial transactions, to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws;
 
 &emsp;(B) prohibit discrimination against individuals or other persons on the basis of the race, color, religion, sex, marital status, age, or national origin of (i) such individual or other person or (ii) any officer, director, employee, or creditor of, or any owner of any interest in, such individual or other person; and
 

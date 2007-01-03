@@ -58,11 +58,11 @@ Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000
 
 #### Pilot Program on Contributions to Thrift Savings Plan for Initial Enlistees in the Army
 
-Pub. L. 109–163, div. A, title VI, §606, Jan. 6, 2006, 119 Stat. 3287, provided that:
+Pub. L. 109–163, div. A, title VI, §606, Jan. 6, 2006, 119 Stat. 3287, as amended by Pub. L. 109–364, div. A, title VI, §608, title X, §1071(e)(3), Oct. 17, 2006, 120 Stat. 2247, 2401, provided that:
 
 “(a)
 
-Pilot Program Required.—During fiscal year 2006, the Secretary of the Army shall use the authority provided by section 211(d)(1)(B) of title 10, United States Code, as amended by section 605, to carry out within the Army a pilot program in order to assess the extent to which contributions by the Secretary to the Thrift Savings Fund on behalf of members of the Army described in subsection (b) would—
+Pilot Program Required.—During the period beginning on January 6, 2006, and ending on December 31, 2008, the Secretary of the Army shall use the authority provided by section 211(d)(1)(B) of title 37, United States Code, as amended by section 605, to carry out within the Army a pilot program in order to assess the extent to which contributions by the Secretary to the Thrift Savings Fund on behalf of members of the Army described in subsection (b) would—
 
 &emsp;“(1) assist the Army in recruiting efforts; and
 
@@ -90,7 +90,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than February 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program under subsection (a).
+In general.—Not later than February 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program under subsection (a).
 
 &emsp;“(2)
 

@@ -4,5 +4,5 @@ Section, act Feb. 26, 1917, ch. 121, §4, 39 Stat. 938, provided that nothing in
 
 #### Mining Rights Existing Prior to September 28, 1976
 
-Section 3 of Pub. L. 94–429 provided in part that this section was repealed in order to close area to entry andlocation under the Mining Law of 1872, subject to valid existing rights.
+Section 3 of Pub. L. 94–429 provided in part that this section was repealed in order to close area to entry and location under the Mining Law of 1872, subject to valid existing rights.
 

@@ -194,7 +194,7 @@ A Federal agency shall—
 
 &emsp;&emsp;If a State is delinquent in payment of the State's share of administrative expenses of the Authority under this subsection—
 
-&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be provided to the State (including assistance to a political subdivision or a resident of the State); and
+&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be provided to the State (includingassistance to a political subdivision or a resident of the State); and
 
 &emsp;&emsp;&emsp;(ii) no member of the Authority from the State shall participate or vote in any action by the Authority.
 

@@ -32,7 +32,7 @@ As used in this chapter—
 
 #### (8) Grower
 
-&emsp;The term “grower” means any person engaged in the production and sale of pecans in the United States who owns, or who shares the ownership and risk of loss of, such pecans.
+&emsp;The term “grower” means any person engaged in the production and sale of pecans inthe United States who owns, or who shares the ownership and risk of loss of, such pecans.
 
 #### (9) Grower-sheller
 
@@ -84,7 +84,7 @@ As used in this chapter—
 
 #### (20) Research
 
-&emsp;The term “research” means any type of test, study, or analysis designed to advance theimage, desirability, usage, marketability, production, product development, or quality of pecans.
+&emsp;The term “research” means any type of test, study, or analysis designed to advance the image, desirability, usage, marketability, production, product development, or quality of pecans.
 
 #### (21) Secretary
 

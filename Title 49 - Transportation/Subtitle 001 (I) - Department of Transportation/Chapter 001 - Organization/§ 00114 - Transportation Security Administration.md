@@ -40,7 +40,7 @@ Functions.—The Under Secretary shall be responsible for security in all modes 
 
 Screening Operations.—The Under Secretary shall—
 
-&emsp;(1) be responsible for day-to-day Federal security screening operations for passenger airtransportation and intrastate air transportation under sections 44901 and 44935;
+&emsp;(1) be responsible for day-to-day Federal security screening operations for passenger air transportation and intrastate air transportation under sections 44901 and 44935;
 
 &emsp;(2) develop standards for the hiring and retention of security screening personnel;
 
@@ -124,7 +124,7 @@ Management of Security Information.—In consultation with the Transportation Se
 
 (i)
 
-View of NTSB.—In taking any action under this section that could affect safety, the UnderSecretary shall give great weight to the timely views of the National Transportation Safety Board.
+View of NTSB.—In taking any action under this section that could affect safety, the Under Secretary shall give great weight to the timely views of the National Transportation Safety Board.
 
 (j)
 
@@ -146,7 +146,7 @@ In general.—The Under Secretary is authorized—
 
 &emsp;(2)
 
-Title.—Title to any property or interest therein acquired pursuant to this subsection shall be held by the Government of the United States.
+Title.—Title to any property or interest therein acquired pursuant to this subsectionshall be held by the Government of the United States.
 
 (k)
 
@@ -206,7 +206,7 @@ Personnel Management System.—The personnel management system established by th
 
 (<i>o</i>)
 
-Acquisition Management System.—The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions ofequipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.
+Acquisition Management System.—The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.
 
 (p)
 

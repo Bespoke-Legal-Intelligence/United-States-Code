@@ -4,7 +4,7 @@ Whoever knowingly and willfully, with intent to defraud the United States, smugg
 
 Whoever fraudulently or knowingly imports or brings into the United States, any merchandise contrary to law, or receives, conceals, buys, sells, or in any manner facilitates the transportation, concealment, or sale of such merchandise after importation, knowing the same to have been imported or brought into the United States contrary to law—
 
-Shall be fined under this title or imprisoned not more than five years, or both.
+Shall be fined under this title or imprisoned not more than 20 years, or both.
 
 Proof of defendant's possession of such goods, unless explained to the satisfaction of the jury, shall be deemed evidence sufficient to authorize conviction for violation of this section.
 
@@ -12,7 +12,7 @@ Merchandise introduced into the United States in violation of this section, or t
 
 The term “United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
+(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 109–177, title III, §310, Mar. 9, 2006, 120 Stat. 242.)
 
 #### Historical and Revision Notes
 
@@ -33,6 +33,8 @@ The final paragraph was added to conform with section 1709 of title 19, U.S.C., 
 Changes were made in phraseology.
 
 #### Amendments
+
+2006—Pub. L. 109–177, which directed amendment of third par. by substituting “20 years” for “5 years”, was executed by making the substitution for “five years”, to reflect the probable intent of Congress.
 
 1996—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
 
@@ -58,5 +60,5 @@ Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act 
 
 #### Effective Date of 1954 Amendment
 
-Section 2 of act Aug. 24, 1954, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
+Section 2 of act Aug. 24, 1954, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect tooffenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
 

@@ -126,7 +126,7 @@ Definitions.—For the purpose of this section—
 
 &emsp;&emsp;“(B) in chapter 84 of title 5, United States Code, to the extent that this section relates to the Federal Employees’ Retirement System.
 
-“(b) CSRS.—(1) Subject to paragraph (2), any individual who is an employee of the House Child Care Centeron the date of enactment of this Act \[Aug. 11, 1993\] shall be allowed credit under subchapter III of chapter 83 of title 5, United States Code, as a Congressional employee, for any service if—
+“(b) CSRS.—(1) Subject to paragraph (2), any individual who is an employee of the House Child Care Center on the date of enactment of this Act \[Aug. 11, 1993\] shall be allowed credit under subchapter III of chapter 83 of title 5, United States Code, as a Congressional employee, for any service if—
 
 &emsp;“(A) such service was performed before October 1, 1991, as an employee of the House Child Care Center (as constituted before that date); and
 

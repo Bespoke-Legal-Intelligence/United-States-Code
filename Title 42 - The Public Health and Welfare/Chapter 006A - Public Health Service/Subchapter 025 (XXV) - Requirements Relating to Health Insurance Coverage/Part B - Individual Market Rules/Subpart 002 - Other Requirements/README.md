@@ -4,6 +4,8 @@ subpart 2—other requirements
 
 This subpart was, in the original, subpart 3 of part B of title XXVII of act July 1, 1944, and has been redesignated as subpart 2 for purposes of codification. Another subpart 3 of part B of title XXVII of act July 1, 1944, is classified to subpart 3 (§300gg–61 et seq.) of part B of this subchapter.
 
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
 
 ---
 

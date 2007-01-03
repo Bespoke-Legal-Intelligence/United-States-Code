@@ -18,7 +18,7 @@
 
 #### (b) Matters to be considered
 
-(1) In determining whether to award compensation to a petitioner under the Program,the special master or court shall consider, in addition to all other relevant medical and scientific evidence contained in the record—
+(1) In determining whether to award compensation to a petitioner under the Program, the special master or court shall consider, in addition to all other relevant medical and scientific evidence contained in the record—
 
 &emsp;(A) any diagnosis, conclusion, medical judgment, or autopsy or coroner's report which is contained in the record regarding the nature, causation, and aggravation of the petitioner's illness, disability, injury, condition, or death, and
 

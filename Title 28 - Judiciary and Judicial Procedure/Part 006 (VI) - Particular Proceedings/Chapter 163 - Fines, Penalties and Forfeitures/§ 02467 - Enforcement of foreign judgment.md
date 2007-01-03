@@ -110,7 +110,7 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(
 
 2001—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
 
-Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
+Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interestin the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
 
 Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
 

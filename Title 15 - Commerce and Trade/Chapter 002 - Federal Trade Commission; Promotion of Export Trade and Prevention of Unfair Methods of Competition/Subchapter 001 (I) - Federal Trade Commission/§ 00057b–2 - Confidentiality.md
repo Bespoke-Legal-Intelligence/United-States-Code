@@ -38,13 +38,29 @@ For purposes of this section:
 
 > then the custodian shall, upon written request of the person who produced the material, return to the person any such material which has not been received into the record of any such proceeding (other than copies of such material made by the custodian pursuant to paragraph (3)(B)).
 
-(6) The custodian of any documentary material, written reports or answers to questions, and transcripts of oral testimony may deliver to any officers or employees of appropriate Federal law enforcement agencies, in response to a written request, copies of such material for use in connection with an investigation or proceeding under the jurisdiction of any such agency. The custodian of any tangible things may make such things available for inspection to such persons on the same basis. Such materials shall not be made available to any such agency until the custodian received certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes. Such documentary material, results of inspections of tangible things, written reports or answers to questions, and transcripts of oral testimony may be used by any officer or employee of such agency only in such manner and subject to such conditions as apply to the Commission under this section. The custodian may make such materials available to any State law enforcement agency upon the prior certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes.
+(6) The custodian of any documentary material, written reports or answers to questions, and transcripts of oral testimony may deliver to any officers or employees of appropriate Federal law enforcement agencies, in response to a written request, copies of such material for use in connection with an investigation or proceeding under the jurisdiction of any such agency. The custodian of any tangible things may make such things available for inspection to such persons on the same basis. Such materials shall not be made available to any such agency until the custodian received certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes. Such documentary material, results of inspections of tangible things, written reports or answers to questions, and transcripts of oral testimony may be used by any officer or employee of such agency only in such manner and subject to such conditions as apply to the Commission under this section. The custodian may make such materials available to any State law enforcement agency upon the prior certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes. The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—
+
+&emsp;(A) the foreign law enforcement agency has set forth a bona fide legal basis for its authority to maintain the material in confidence;
+
+&emsp;(B) the materials are to be used for purposes of investigating, or engaging in enforcement proceedings related to, possible violations of—
+
+&emsp;&emsp;(i) foreign laws prohibiting fraudulent or deceptive commercial practices, or other practices substantially similar to practices prohibited by any law administered by the Commission;
+
+&emsp;&emsp;(ii) a law administered by the Commission, if disclosure of the material would further a Commission investigation or enforcement proceeding; or
+
+&emsp;&emsp;(iii) with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency's government;
+
+&emsp;(C) the appropriate Federal banking agency (as defined in section 1813(q) of title 12) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in section 57a(f)(3) of this title, or a Federal credit union described in section 57a(f)(4) of this title; and
+
+&emsp;(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+
+> Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of section 6211 of this title) to any officer or employee of a foreign law enforcement agency.
 
 (7) In the event of the death, disability, or separation from service in the Commission of the custodian of any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony produced under any demand issued under this subchapter, or the official relief of the custodian from responsibility for the custody and control of such material, the Commission promptly shall—
 
 &emsp;(A) designate under paragraph (2)(A) another duly authorized agent to serve as custodian of such material; and
 
-&emsp;(B) transmit in writing to the person who produced the material or testimony notice as to the identity and address of the successor so designated.
+&emsp;(B) transmit in writing to the person who produced the material or testimony notice asto the identity and address of the successor so designated.
 
 > Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraph shall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall not be held responsible for any default or dereliction which occurred before his designation.
 
@@ -74,23 +90,49 @@ For purposes of this section:
 
 Nothing in this section shall supersede any statutory provision which expressly prohibits or limits particular disclosures by the Commission, or which authorizes disclosures to any other Federal agency.
 
-#### (f) Exemption from disclosure
+#### (f) Exemption from public disclosure
 
-Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5.
+#### (1) In general
 
-(Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694.)
+&emsp;Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall not be required to be disclosed under section 552 of title 5 or any other provision of law, except as provided in paragraph (2)(B) of this section.
+
+#### (2) Material obtained from a foreign source
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not be required to disclose under section 552 of title 5 or any other provision of law—
+
+&emsp;&emsp;&emsp;(i) any material obtained from a foreign law enforcement agency or other foreign government agency, if the foreign law enforcement agency or other foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
+
+&emsp;&emsp;&emsp;(ii) any material reflecting a consumer complaint obtained from any other foreign source, if that foreign source supplying the material has requested confidential treatment as a condition of providing the material; or
+
+&emsp;&emsp;&emsp;(iii) any material reflecting a consumer complaint submitted to a Commission reporting mechanism sponsored in part by foreign law enforcement agencies or other foreign government agencies.
+
+#### (B) Savings provision
+
+&emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold informationfrom the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
+
+(Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §6, Dec. 22, 2006, 120 Stat. 3376.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
 #### References in Text
 
-Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, GovernmentOrganization and Employees, by section 1802(b) of Pub. L. 99–570.
+Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
 
 Section 3512 of title 44, referred to in subsec. (d)(1)(D), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 
 #### Prior Provisions
 
-A prior section 21 of act Sept. 26, 1914, ch. 311, was renumbered section 25 and is classified to section 58 of this title.
+A prior section 21 of act Sept. 26, 1914, ch. 311, was renumbered section 28 and is classified to section 58 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(6). Pub. L. 109–455, §§6(a), 13, temporarily inserted “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D), and inserted concluding provisions. See Termination Date of 2006 Amendment note below.
+
+Subsec. (f). Pub. L. 109–455, §§6(b), 13, temporarily inserted heading and amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5.” See Termination Date of 2006 Amendment note below.
 
 1994—Subsec. (a)(1). Pub. L. 103–312, §8(1), inserted “tangible things,” after “documentary material,”.
 
@@ -105,6 +147,10 @@ Subsec. (b)(4), (5). Pub. L. 103–312, §8(5), (6), inserted “tangible things
 Subsec. (b)(6). Pub. L. 103–312, §8(7), inserted “The custodian of any tangible things may make such things available for inspection to such persons on the same basis.” after first sentence, and “results of inspections of tangible things,” after “Such documentary material,”.
 
 Subsec. (b)(7). Pub. L. 103–312, §8(8), inserted “tangible things,” after “documentary material,”.
+
+#### Termination Date of 2006 Amendment
+
+Amendment by Pub. L. 109–455 to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1994 Amendment
 

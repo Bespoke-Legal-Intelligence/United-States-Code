@@ -2,7 +2,7 @@
 
 (a) Compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded for a qualifying additional disability or a qualifying death of a veteran in the same manner as if such additional disability or death were service-connected. For purposes of this section, a disability or death is a qualifying additional disability or qualifying death if the disability or death was not the result of the veteran's willful misconduct and—
 
-&emsp;(1) the disability or death was caused by hospital care, medical or surgical treatment, or examination furnished the veteran under any law administered by the Secretary, either by a Department employee or in a Department facility as defined in section 1701(3)(A) of this title, and the proximate cause of the disability or death was—
+&emsp;(1) the disability or death was caused by hospital care, medical or surgical treatment, or examination furnished the veteran under any law administered by the Secretary, either by aDepartment employee or in a Department facility as defined in section 1701(3)(A) of this title, and the proximate cause of the disability or death was—
 
 &emsp;&emsp;(A) carelessness, negligence, lack of proper skill, error in judgment, or similar instance of fault on the part of the Department in furnishing the hospital care, medical or surgical treatment, or examination; or
 
@@ -56,7 +56,7 @@ Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–454, title III, §304(b), Dec. 10, 2004, 118 Stat. 3611, provided that:“Subsection (c) of section 1151 of title 38, United States Code, as added by subsection (a), shall apply with respect to eligibility for benefits and services provided by the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Dec. 10, 2004\].”
+Pub. L. 108–454, title III, §304(b), Dec. 10, 2004, 118 Stat. 3611, provided that: “Subsection (c) of section 1151 of title 38, United States Code, as added by subsection (a), shall apply with respect to eligibility for benefits and services provided by the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Dec. 10, 2004\].”
 
 #### Effective Date of 1996 Amendment
 

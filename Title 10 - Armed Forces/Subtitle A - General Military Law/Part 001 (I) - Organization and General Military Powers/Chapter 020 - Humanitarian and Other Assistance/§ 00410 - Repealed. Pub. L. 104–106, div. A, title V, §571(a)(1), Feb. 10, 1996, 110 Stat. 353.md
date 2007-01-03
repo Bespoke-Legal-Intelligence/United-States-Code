@@ -1,5 +1,7 @@
 ### \[§410. Repealed. Pub. L. 104–106, div. A, title V, §571(a)(1), Feb. 10, 1996, 110 Stat. 353\]
 
+§410
+
 Section, added Pub. L. 102–484, div. A, title X, §1081(b)(1), Oct. 23, 1992, 106 Stat. 2515, related to Civil-Military Cooperative Action Program.
 
 #### Pilot Outreach Program To Reduce Demand for Illegal Drugs

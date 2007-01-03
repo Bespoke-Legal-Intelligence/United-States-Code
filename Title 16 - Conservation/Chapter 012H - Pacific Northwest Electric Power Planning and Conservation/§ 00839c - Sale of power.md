@@ -12,7 +12,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(B) such other resources as such entity determines, pursuant to contracts under this chapter, will be used to serve its firm load in the region.
 
-> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firm load under such subparagraphs shall be treated as continuing to be so used, unless such use isdiscontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
+> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firm load under such subparagraphs shall be treated as continuing to be so used, unless such use is discontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
 
 (2) Contracts with investor-owned utilities shall provide that the Administrator may reduce his obligations under such contracts in accordance with section 5(a) of the Bonneville Project Act of 1937 \[16 U.S.C. 832d(a)\].
 

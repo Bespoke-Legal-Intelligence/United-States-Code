@@ -64,7 +64,7 @@ Mass transit category.—The term “mass transit category” means the followin
 
 &emsp;(D)
 
-Special rule.—(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefensecategory outlays or discretionary category outlays.
+Special rule.—(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefense category outlays or discretionary category outlays.
 
 &emsp;(ii) If the obligation limitations for accounts in the highway or mass transit category provided in an appropriation Act for a fiscal year exceed the obligation limitations set forth in section 8103 of the Transportation Equity Act for the 21st Century for that year, as adjusted, the estimated outlays flowing for each outyear from such excess obligations calculated pursuant to clause (iii) shall be attributed to the discretionary category in that outyear.
 
@@ -136,7 +136,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(10) The term “real economic growth”, with respect to any fiscal year, means the growth in the gross national product during such fiscal year, adjusted for inflation, consistent with Department of Commerce definitions.
 
-&emsp;(11) The term “account” means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget accountidentification code number in the President's budget.
+&emsp;(11) The term “account” means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget account identification code number in the President's budget.
 
 &emsp;(12) The term “budget year” means, with respect to a session of Congress, the fiscal year of the Government that starts on October 1 of the calendar year in which that session begins.
 
@@ -158,7 +158,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out below.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note below.</i>
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Subsec. (c)(17). Pub. L. 105–33, §10202(b)(6), (7), redesignated par. (18) as
 
 Subsec. (c)(18). Pub. L. 105–33, §10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
 
-Subsec. (c)(19). Pub. L. 105–33, §10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
+Subsec. (c)(19). Pub. L. 105–33, §10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law orcontract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
 
 Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19). Former par. (19) redesignated (18).
 
@@ -262,7 +262,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Pub. L. 103–66, title XIV, §14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, §10212(b), Aug. 5, 1997, 111 Stat. 712.
 
-Section 275 of title II of Pub. L. 99–177, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, provided that:
+Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, provided that:
 
 “(a)
 
@@ -286,19 +286,19 @@ OASDI Trust Funds.—The amendments made by part D \[amending section 911 of Tit
 
 #### Short Title of 1997 Amendment
 
-Section 10001(a) of title X of Pub. L. 105–33 provided that: “This title \[enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the ‘Budget Enforcement Act of 1997’.”
+Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: “This title \[enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the ‘Budget Enforcement Act of 1997’.”
 
 #### Short Title of 1990 Amendment
 
-Section 13001(a) of title XIII of Pub. L. 101–508 provided that: “This title \[enacting this section and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title\] may be cited as the ‘Budget Enforcement Act of 1990’.”
+Pub. L. 101–508, title XIII, §13001(a), Nov. 5, 1990, 104 Stat. 1388–573, provided that: “This title \[enacting this section and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title\] may be cited as the ‘Budget Enforcement Act of 1990’.”
 
 #### Short Title of 1987 Amendment
 
-Section 101(b) of title I of Pub. L. 100–119 provided that: “This title \[enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
+Pub. L. 100–119, title I, §101(b), Sept. 29, 1987, 101 Stat. 754, provided that: “This title \[enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
 
 #### Short Title
 
-Section 200(a) of title II of Pub. L. 99–177 provided that: “This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
+Pub. L. 99–177, title II, §200(a), Dec. 12, 1985, 99 Stat. 1038, provided that: “This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
 
 #### Habitat Conservation Activities Considered Within Coastal Assistance Sub-Category
 
@@ -324,15 +324,15 @@ Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: 
 
 #### Waivers and Suspensions in the Senate
 
-Section 271(b) of Pub. L. 99–177, as amended by Pub. L. 100–119, title II, §211, Sept. 29, 1987, 101 Stat. 787, provided that: “Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.This subsection shall not apply to any joint resolution reported or discharged pursuant to section 254(a) of this joint resolution \[section 904(a) of this title\].”
+Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended by Pub. L. 100–119, title II, §211, Sept. 29, 1987, 101 Stat. 787, provided that: “Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. This subsection shall not apply to any joint resolution reported or discharged pursuant to section 254(a) of this joint resolution \[section 904(a) of this title\].”
 
-\[For effective and termination dates of section 271(b) of Pub. L. 99–177, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as a note above.\]
+\[Section 271(b) of Pub. L. 99–177 expired Sept. 30, 2002. See section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note above.\]
 
 #### Appeals of Rulings
 
-Section 271(c) of Pub. L. 99–177, as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
+Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
 
-\[For effective date of section 271(c) of Pub. L. 99–177, see section 275(a)(1) of Pub. L. 99–177, as amended, set out as a note above.\]
+\[For effective date of section 271(c) of Pub. L. 99–177, see section 275(a)(1) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note above.\]
 
 #### Exercise of Congressional Rulemaking Power
 
@@ -358,103 +358,21 @@ Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
+&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the samemanner and to the same extent as in the case of any other rule of such House.”
 
 #### Restoration of Trust Fund Investments; Funds Borrowed or Not Invested During Delays in Raising Public Debt Limit
 
 For provisions restoring various trust and retirement funds administered by the Secretary of the Treasury to the position in which they would have been if debt limit increases had been delayed, including transferring amounts to the funds to compensate those funds for current and prospective losses arising from premature redemption of some long term securities when the debt limit was reached, see notes set out under section 3101 of Title 31, Money and Finance.
 
-#### Ex. Ord. No. 12857. Budget Control
+#### Executive Order No. 12857
 
-Ex. Ord. No. 12857, Aug. 4, 1993, 58 F.R. 42181, provided:
-
-By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including section 1105 of title 31, United States Code, it is hereby ordered as follows:
-
-Section 1. <i>Purpose</i>. The purpose of this order is to create a mechanism to monitor total costs of direct spending programs, and, in the event that actual or projected costs exceed targeted levels, to require that the budget address adjustments in direct spending.
-
-Sec. 2. <i>Establishment of Direct Spending Targets.</i>
-
-(a) <i>In General</i>. The initial direct spending targets for each of fiscal years 1994 through 1997 shall equal total outlays for all direct spending except net interest and deposit insurance as determined by the Director of the Office of Management and Budget (Director) under subsection (b).
-
-(b) <i>Initial Report by Director</i>. (1) Not later than 30 days after the date of enactment of the Omnibus Budget Reconciliation Act of 1993 (OBRA) \[Aug. 10, 1993\], the Director shall submit a report to the Congress setting forth projected direct spending targets for each of fiscal years 1994 through 1997.
-
-(2) The Director's projections shall be based on legislation enacted as of 5 days before the report is submitted under paragraph (1). To the extent feasible, the Director shall use the same economic and technical assumptions used in preparing the concurrent resolution on the budget for fiscal year 1994 (H.Con.Res. 64).
-
-(c) <i>Adjustments</i>. Direct spending targets shall be subsequently adjusted by the Director under Section 6.
-
-Sec. 3. <i>Annual Review of Direct Spending and Receipts by President</i>. As part of each budget submitted under section 1105(a) of title 31, United States Code, the Director shall provide an annual review of direct spending and receipts, which shall include (1) information supporting the adjustment of direct spending targets pursuant to Section 6, (2) information on total outlays for programs covered by the direct spending targets, including actual outlays for the prior fiscal year and projected outlays for the current fiscal year and the 5 succeeding fiscal years, and (3) information on the major categories of Federal receipts, including a comparison between the levels of those receipts and the levels projected as of the date of enactment of OBRA \[Aug. 10, 1993\].
-
-Sec. 4. <i>Special Direct Spending Message by President</i>. (a) <i>Trigger</i>. In the event that the information submitted under Section 3 indicates—
-
-(1) that actual outlays for direct spending in the prior fiscal year exceeded the applicable direct spending target, or
-
-(2) that outlays for direct spending for the current or budget year are projected to exceed the applicable direct spending targets, the Director shall include in the budget a special direct spending message meeting the requirements of subsection (b) of this Section.
-
-(b) <i>Contents</i>. (1) The special direct spending message shall include:
-
-(A) An explanation of any adjustments to the direct spending targets pursuant to Section 6.
-
-(B) An analysis of the variance in direct spending over the adjusted direct spending targets.
-
-(C) The President's recommendations for addressing the direct spending overages, if any, in the prior, current, or budget year.
-
-(2) The recommendations may consist of any of the following:
-
-(A) Proposed legislative changes to reduce outlays, increase revenues, or both, in order to recoup or eliminate the overage for the prior, current, and budget years in the current year, the budget year, and the 4 out-years.
-
-(B) Proposed legislative changes to reduce outlays, increase revenues, or both, in order to recoup or eliminate part of the overage for the prior, current, and budget year in the current year, the budget year, and the 4 out-years, accompanied by a finding by the President that, because of economic conditions or for other specified reasons, only some of the overage should be recouped or eliminated by outlay reductions or revenue increases, or both.
-
-(C) A proposal to make no legislative changes to recoup or eliminate any overage, accompanied by a finding by the President that, because of economic conditions or for other specified reasons, no legislative changes are warranted.
-
-(3) Any proposed legislative change under paragraph (2) to reduce outlays may include reductions in direct spending or in the discretionary spending limits under section 601 of the Congressional Budget Act of 1974 \[former 2 U.S.C. 665\].
-
-Sec. 5. <i>Proposed Special Direct Spending Resolution</i>. If the President recommends reductions consistent with subsection \[Section\] 4 (b)(2)(A) or (B), the special direct spending message shall include the text of a special direct spending resolution implementing the President's recommendations through reconciliation directives instructing the appropriate committees of the House of Representatives and Senate to determine and recommend changes in laws within their jurisdictions to reduce outlays or increase revenues by specified amounts. If the President recommends no reductions pursuant to Section 4 (b)(2)(C), the special direct spending message shall include the text of a special resolution concurring in the President's recommendation of no legislative action.
-
-Sec. 6. <i>Adjustments to Direct Spending Targets.</i>
-
-(a) <i>Required Annual Adjustments</i>. Prior to the submission of the President's budget for each of fiscal years 1995 through 1997, the Director shall adjust the direct spending targets in accordance with this Section. Any such adjustments shall be reflected in the targets used in the report under Section 3 and message (if any) under Section 4.
-
-(b) <i>Adjustment for Increases in Beneficiaries</i>. (1) The Director shall adjust the direct spending targets for increases (if any) in actual or projected numbers of beneficiaries under direct spending programs for which the number of beneficiaries is a variable in determining costs.
-
-(2) The adjustment shall be made by—
-
-(A) computing, for each program under paragraph (1), the percentage change between (i) the annual average number of beneficiaries under that program (including actual numbers of beneficiaries for the prior fiscal year and projections for the budget and subsequent fiscal years) to be used in the President's budget with which the adjustments will be submitted, and (ii) the annual average number of beneficiaries used in the adjustments made by the Director in the previous year (or, in the case of adjustments made in 1994, the annual average number of beneficiaries used in the Director's initial report under Section 2(b));
-
-(B) applying the percentages computed under subparagraph (A) to the projected levels of outlays for each program consistent with the direct spending targets in effect immediately prior to the adjustment; and
-
-(C) adding the results of the calculations required by subparagraph (B) to the direct spending targets in effect immediately prior to the adjustment.
-
-(3) No adjustment shall be made for any program for a fiscal year in which the percentage increase computed under paragraph (2)(A) is less than or equal to zero.
-
-(c) <i>Adjustments for Revenue Legislation</i>. The Director shall adjust the targets as follows:
-
-(1) they shall be increased by the amount of any increase in receipts; or
-
-(2) they shall be decreased by the amount of any decrease in receipts, resulting from receipts legislation enacted after the date of enactment of OBRA \[Aug. 10, 1993\], except legislation enacted in response to the message transmitted under Section 4.
-
-(d) <i>Adjustments To Reflect Congressional Decisions</i>. Upon enactment of a reconciliation bill enacted in response to a message submitted under Section 4, the Director shall adjust direct spending targets for the current year, the budget year, and each outyear through 1997 by—
-
-(1) increasing the target for the current year and the budget year by the amount stated for that year in that reconciliation bill (but if a separate vote was required by Congressional rules, only if that vote has occurred); and
-
-(2) decreasing the target for the current, budget, and outyears through 1997 by the amount of reductions in direct spending enacted in that reconciliation bill.
-
-(e) <i>Designated Emergencies</i>. The Director shall adjust the targets to reflect the costs of legislation that is designated as an emergency by Congress and the President under section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(e)\].
-
-Sec. 7. <i>Relationship to Balanced Budget and Emergency Deficit Control Act</i>. Recommendations pursuant to Section 4 shall include a provision specifying that reductions in outlays or increases in receipts resulting from that legislation shall not be taken into account for purposes of any budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
-
-Sec. 8. <i>Estimating Margin</i>. For any fiscal year for which the overage is less than one-half of 1 percent of the direct spending target for that year, the procedures set forth in Section 4 shall not apply.
-
-Sec. 9. <i>Means-Tested Programs</i>. In making recommendations under Section 4, the Director shall seriously consider all other alternatives before proposing reductions in means-tested programs.
-
-Sec. 10. <i>Effective Date</i>. This order shall take effect upon enactment of OBRA \[Aug. 10, 1993\]. This order shall apply to direct spending targets for fiscal years 1994 through 1997 and shall expire at the end of fiscal year 1997.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12857, Aug. 4, 1993, 58 F.R. 42181, which provided for direct spending targets for fiscal years 1994 through 1997, expired at the end of fiscal year 1997.
 
 #### Ex. Ord. No. 12858. Deficit Reduction Fund
 
 Ex. Ord. No. 12858, Aug. 4, 1993, 58 F.R. 42185, provided:
 
-By the authority vested in me as President of the United States by the Constitution and the laws of theUnited States of America, including sections 1104 and 1105 of title 31, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including sections 1104 and 1105 of title 31, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Purpose</i>. It is essential to guarantee that the net deficit reduction achieved by the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\] is dedicated exclusively to reducing the deficit.
 

@@ -22,7 +22,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—INFORMATION SECURITY
+
+|  |  |
+| :--- | ---: |
+| [5721\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005721%20-%20Purpose.md) | Purpose. |
+| [5722\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005722%20-%20Policy.md) | Policy. |
+| [5723\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005723%20-%20Responsibilities.md) | Responsibilities. |
+| [5724\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005724%20-%20Provision%20of%20credit%20protection%20and%20other%20services.md) | Provision of credit protection and other services. |
+| [5725\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005725%20-%20Contracts%20for%20data%20processing%20or%20maintenance.md) | Contracts for data processing or maintenance. |
+| [5726\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005726%20-%20Reports%20and%20notice%20to%20Congress%20on%20data%20breaches.md) | Reports and notice to Congress on data breaches. |
+| [5727\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005727%20-%20Definitions.md) | Definitions. |
+| [5728\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2005728%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2006—Pub. L. 109–461, title IX, §902(b), Dec. 22, 2006, 120 Stat. 3460, added item for subchapter III and items 5721 to 5728.
 
 1991—Pub. L. 102–54, §14(d)(5)(B), (6)(C), June 13, 1991, 105 Stat. 286, amended table of sections at beginning of chapter as in effect immediately before the enactment of Pub. L. 102–40 by substituting “subpoenas” for “subpenas” in item 3311 and “subpoena” for “subpena” in item 3313.
 
@@ -37,3 +54,4 @@ Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered 
 
 - [Subchapter 001 (I) - Records](Subchapter%20001%20%28I%29%20-%20Records/README.md)
 - [Subchapter 002 (II) - Investigations](Subchapter%20002%20%28II%29%20-%20Investigations/README.md)
+- [Subchapter 003 (III) - Information Security](Subchapter%20003%20%28III%29%20-%20Information%20Security/README.md)

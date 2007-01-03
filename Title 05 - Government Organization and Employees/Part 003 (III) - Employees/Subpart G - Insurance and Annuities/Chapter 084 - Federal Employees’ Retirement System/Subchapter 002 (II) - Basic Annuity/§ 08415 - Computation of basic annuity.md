@@ -44,7 +44,7 @@
 
 (2) Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
 
-(3) If the condition under paragraph (2) is met, then, any amounts received by the individual inthe form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows:
+(3) If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows:
 
 <b>If the total amount of service</b>
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 106–553 effective on the first day of the first applicabl
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17,1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendment
 

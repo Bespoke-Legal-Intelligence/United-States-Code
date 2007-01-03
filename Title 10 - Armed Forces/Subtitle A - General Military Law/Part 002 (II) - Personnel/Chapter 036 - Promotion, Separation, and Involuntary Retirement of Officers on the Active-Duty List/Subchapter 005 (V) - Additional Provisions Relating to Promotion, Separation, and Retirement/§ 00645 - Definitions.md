@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) in the case of officers in the grade of colonel or brigadier general, for officers of the Army, Air Force, and Marine Corps, or captain or rear admiral (lower half), for officers of the Navy, have neither (I) not been recommended for promotion to the next higher grade when considered in the promotion zone, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
 
-&emsp;&emsp;(B) are senior to the officer designated by the Secretary of the military department concerned to be the junior officer in the promotion zone eligible for consideration for promotion to the next higher grade.
+&emsp;&emsp;(B) are senior to the officer designated by the Secretary of the military departmentconcerned to be the junior officer in the promotion zone eligible for consideration for promotion to the next higher grade.
 
 &emsp;(2) The term “officers above the promotion zone” means a group of officers on an active-duty list in the same grade and competitive category who—
 
@@ -28,7 +28,7 @@ In this chapter:
 
 &emsp;&emsp;(C) are junior to the junior officer in the promotion zone for that competitive category.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2867; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §533(a), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99Stat. 628; Pub. L. 102–25, title VII, §701(i)(1), Apr. 6, 1991, 105 Stat. 115.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2867; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §533(a), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 102–25, title VII, §701(i)(1), Apr. 6, 1991, 105 Stat. 115.)
 
 #### Amendments
 

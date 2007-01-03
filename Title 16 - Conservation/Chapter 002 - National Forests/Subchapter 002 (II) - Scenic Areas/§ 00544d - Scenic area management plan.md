@@ -60,7 +60,7 @@ Within three years after the date the Commission is established, it shall adopt 
 
 &emsp;(5) include guidelines for the adoption of land use ordinances for lands within the scenic area. The guidelines—
 
-&emsp;&emsp;(A) shall incorporate without change the guidelines for the development of special management area land use ordinances developed by the Secretary pursuant to section 544f of this title; and
+&emsp;&emsp;(A) shall incorporate without change the guidelines for the development of specialmanagement area land use ordinances developed by the Secretary pursuant to section 544f of this title; and
 
 &emsp;&emsp;(B) shall not apply to urban areas designated in section 544b(e) of this title.
 

@@ -56,3 +56,5 @@ Senior Contracting Officials.—Before a person may be assigned to a critical ac
 
 For provisions relating to development of fulfillment standards for purposes of the training requirements of this section, see section 812(c) of Pub. L. 102–484, set out as a note under section 1723 of this title.
 
+§1736
+

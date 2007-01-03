@@ -44,7 +44,7 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (C) Attributed quantity for handlers
 
-&emsp;&emsp;The quantity of honey and honey products attributed to the vote of a handler shall be the quantity handled in the representative period described in paragraph (2) for which the handler would have owed assessments had the amended order been in effect.
+&emsp;&emsp;The quantity of honey and honey products attributed to the vote of a handler shall be the quantity handled in the representativeperiod described in paragraph (2) for which the handler would have owed assessments had the amended order been in effect.
 
 #### (4) Effectiveness of order
 

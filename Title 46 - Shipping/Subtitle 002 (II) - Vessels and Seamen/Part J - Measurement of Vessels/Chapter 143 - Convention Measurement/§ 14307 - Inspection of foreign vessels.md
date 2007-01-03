@@ -16,7 +16,7 @@
 
 (d) An inspection under this section shall be conducted in a way that does not delay a vessel of a country that is a party to the Convention.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1922.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1922.)
 
 #### Historical and Revision Notes
 

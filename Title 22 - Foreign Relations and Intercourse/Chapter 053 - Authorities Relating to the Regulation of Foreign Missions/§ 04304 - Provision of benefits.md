@@ -34,29 +34,33 @@ For purposes of effectuating a waiver of recourse which is required under this s
 
 #### (e) Secret Service protection
 
-Nothing in this chapter shall be deemed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 202 of title 3 or section 3056 of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service.
+Nothing in this chapter shall be deemed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service.
 
 #### (f) In-kind exchange of properties with foreign government; transfer of funds; reciprocal agreement; regulations
 
-(1) Upon a determination in each specific case by the Secretary of State or the Secretary's designee that the purpose of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5) of this section, the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title. Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5) of this section.
+(1) Upon a determination in each specific case by the Secretary of State or the Secretary's designee that the purpose of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5) of this section, the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in theForeign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title. Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5) of this section.
 
 (2) The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) of this section only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
 
 (3) The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5) of this section.
 
-(4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretaryof State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
+(4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 (5)(A) Proceeds from the disposition of properties acquired pursuant to this subsection shall be credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 300\]).
 
 (B) The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-(Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(<i>o</i>)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302.)
+(Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(<i>o</i>)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 109–177, title VI, §605(d)(2), (e)(2)(B), Mar. 9, 2006, 120 Stat. 255.)
 
 #### References in Text
 
 The Foreign Service Buildings Act, 1926, referred to in subsec. (f)(1), is act May 7, 1926, ch. 250, 44 Stat. 403, as amended, which is classified generally to chapter 8 (§292 et seq.) of this title. For complete classification of this Act to the Code, see section 299 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–177, §605(e)(2)(B), substituted “section 3056 or 3056A of title 18” for “section 202 of title 3 or section 3056 of title 18”.
+
+Pub. L. 109–177, §605(d)(2), which directed amendment of section 204(e) of the State Department Basic Authorities Act by substituting “sections 3056 or 3056A” for “section 202 of title 3 or section 3056”, was not executed, because this section is section 204 of the State Department Basic Authorities Act of 1956 and because of the amendment by Pub. L. 105–277, §605(e)(2)(B). See note above.
 
 1994—Subsecs. (a) to (c)(1). Pub. L. 103–236, §162(<i>o</i>)(3)(A), substituted “Secretary on such terms” for “Director on such terms” in subsecs. (a) and (b) and “Secretary” for “Director” in subsec. (c)(1).
 

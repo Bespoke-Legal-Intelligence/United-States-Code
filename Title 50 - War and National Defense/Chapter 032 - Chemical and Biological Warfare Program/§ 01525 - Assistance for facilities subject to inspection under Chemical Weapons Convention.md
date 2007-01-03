@@ -14,7 +14,7 @@ In this section:
 
 &emsp;(1) The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, ratified by the United States on April 25, 1997, and entered into force on April 29, 1997.
 
-&emsp;(2) The term “facility that is subject to a routine inspection” means a declared facility,as defined in paragraph 15 of part X of the Annex on Implementation and Verification of the Convention.
+&emsp;(2) The term “facility that is subject to a routine inspection” means a declared facility, as defined in paragraph 15 of part X of the Annex on Implementation and Verification of the Convention.
 
 &emsp;(3) The term “challenge inspection” means an inspection conducted under Article IX of the Convention.
 

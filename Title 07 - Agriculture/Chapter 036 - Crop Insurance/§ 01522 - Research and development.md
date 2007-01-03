@@ -44,7 +44,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (i) Amount
 
-&emsp;&emsp;&emsp;Subject to approval by the Board, the amount of the fee that is payable by an approved insurance provider that elects to sell the policy shall be an amount that is determined by the approved insurance provider maintaining the policy.
+&emsp;&emsp;&emsp;Subject to approval by the Board, the amount of the fee that is payable by an approved insurance provider that elects tosell the policy shall be an amount that is determined by the approved insurance provider maintaining the policy.
 
 #### (ii) Approval
 
@@ -144,7 +144,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to authorize the Corporation to enter into partnershipswith public and private entities for the purpose of increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by section 7333 of this title, specialty crops, and underserved agricultural commodities.
+&emsp;The purpose of this subsection is to authorize the Corporation to enter into partnerships with public and private entities for the purpose of increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by section 7333 of this title, specialty crops, and underserved agricultural commodities.
 
 #### (2) Authority
 

@@ -16,13 +16,13 @@
 
 #### References in Text
 
-The Government Performance and Results Act of 1993, referred to in subsec. (c)(1), (3), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of this title, and enacted provisions set out as notes under sections 1101 and 1115 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of this title and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (c)(1), (3), is Pub. L. 103–62,Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of this title, and enacted provisions set out as notes under sections 1101 and 1115 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of this title and Tables.
 
 Section 9703, referred to in subsec. (c)(3), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
 #### Construction
 
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the UnitedStates acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

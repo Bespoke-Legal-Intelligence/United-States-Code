@@ -248,7 +248,7 @@ Specific Authority.—For purposes of section 140 of Public Law 97–92 (28 U.S.
 
 “(d)
 
-Special Rule.—Notwithstanding any other provision of this section, no adjustment in any rate of pay shall become effective, as a result of the enactment of this section, before the first applicable pay period beginning on or after the date as of which the order issued by the President on October 16, 1989, pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901\] is rescinded.”
+Special Rule.—Notwithstanding any other provision of this section, no adjustment in any rate of pay shall become effective, as a result of the enactment of this section, before the first applicable pay period beginning on or after the date as of which the order issued by the President on October 16, 1989, pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] is rescinded.”
 
 Pub. L. 101–194, title XI, §1101(a), Nov. 30, 1989, 103 Stat. 1781, provided that:
 
@@ -330,7 +330,7 @@ Two-percent increase.—Notwithstanding any other provision of law, in the case 
 
 “(2)
 
-Uniform adjustments; delayed effective date.—Each increase in a pay rate or schedule whichtakes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage and shall take effect as of the beginning of the first applicable pay period beginning on or after January 1, 1988.”
+Uniform adjustments; delayed effective date.—Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage and shall take effect as of the beginning of the first applicable pay period beginning on or after January 1, 1988.”
 
 1986—Pub. L. 99–500, §144(a), Oct. 18, 1986, 100 Stat. 1783–350, and Pub. L. 99–591, §144(a), Oct. 30, 1986, 100 Stat. 3341–353, provided that:
 
@@ -398,7 +398,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 1971—Pub. L. 92–210, §3, Dec. 22, 1971, 85 Stat. 753, provided that: “Notwithstanding any provision of section 3(c) of the Federal Pay Comparability Act of 1970 (Public Law 91–656), or of section 5305 of title 5, United States Code, as added by section 3(a) of Public Law 91–656, and the provisions of the alternative plan submitted by the President to the Congress pursuant thereto on August 31, 1971, such comparability adjustments in the rates of pay of each Federal statutory pay system as may be required under such sections 5305 and 3(c), based on the 1971 Bureau of Labor Statistics survey—
 
-&emsp;“(1) shall not be greater than the guidelines established for the wage and salary adjustments for the private sector that may be authorized under authority of any statute of the United States, including theEconomic Stabilization Act of 1970 (Public Law 91–379; 84 Stat. 799), as amended \[formerly set out as a note under section 1904 of Title 12, Banks and Banking\], and that may be in effect on December 31, 1971; and
+&emsp;“(1) shall not be greater than the guidelines established for the wage and salary adjustments for the private sector that may be authorized under authority of any statute of the United States, including the Economic Stabilization Act of 1970 (Public Law 91–379; 84 Stat. 799), as amended \[formerly set out as a note under section 1904 of Title 12, Banks and Banking\], and that may be in effect on December 31, 1971; and
 
 &emsp;“(2) shall be placed into effect on the first day of the first pay period that begins on or after January 1, 1972.
 

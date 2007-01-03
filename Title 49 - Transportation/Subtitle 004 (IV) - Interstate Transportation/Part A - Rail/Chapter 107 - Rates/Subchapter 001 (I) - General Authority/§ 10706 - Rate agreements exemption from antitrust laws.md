@@ -32,7 +32,7 @@
 
 &emsp;(I) was in accordance with an agreement approved under paragraph (2) of this subsection; or
 
-&emsp;(II) concerned an interline movement of the rail carrier, and the discussion or agreement would not, considered by itself, violate the laws referred to in the first sentence of this clause.
+&emsp;(II) concerned an interline movement of the rail carrier, and the discussion or agreementwould not, considered by itself, violate the laws referred to in the first sentence of this clause.
 
 > In any proceeding before a jury, the court shall determine whether the requirements of subclause (I) or (II) are satisfied before allowing the introduction of any such evidence.
 
@@ -78,7 +78,7 @@
 
 #### References in Text
 
-The Sherman Act, referred to in subsec. (a)(2)(A), (4), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+The Sherman Act, referred to in subsec. (a)(2)(A), (4), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended,which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
 The Clayton Act, referred to in subsec. (a)(2)(A), (4), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15 and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 

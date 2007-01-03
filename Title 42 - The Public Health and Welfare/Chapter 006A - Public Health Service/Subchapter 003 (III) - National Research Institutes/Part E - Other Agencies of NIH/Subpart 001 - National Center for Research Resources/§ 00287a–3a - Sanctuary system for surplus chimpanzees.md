@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conductedor supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, and with respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as “surplus chimpanzees”).
+The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, and with respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as “surplus chimpanzees”).
 
 #### (b) Administration of sanctuary system
 
@@ -98,7 +98,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 > &emsp;&emsp;Any fees collected under this subparagraph are available to the Secretary for the costs of operating the system. Any other fees received by the Secretary for the long-term care of chimpanzees (including any Federal fees that are collected for such purpose and are identified in the report under section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act) are available for operating the system, in addition to availability for such other purposes as may be authorized for the use of the fees.
 
-&emsp;&emsp;(B) A provision that the Secretary may deny such chimpanzee acceptance into the system if the capacity of the system is not sufficient to accept the chimpanzee, taking into account the physical capacity of the system; the financial resources of the system; the number of individuals serving as the staff of the system, including the number of professional staff; the necessity of providing for the safety of the staff and of the public; the necessity of caring for accepted chimpanzees in accordance with the standards under paragraph (1); and such other factors as may be appropriate.
+&emsp;&emsp;(B) A provision that the Secretary may deny such chimpanzee acceptance into the system if the capacity of the system is not sufficient to accept the chimpanzee, taking into account the physical capacity of thesystem; the financial resources of the system; the number of individuals serving as the staff of the system, including the number of professional staff; the necessity of providing for the safety of the staff and of the public; the necessity of caring for accepted chimpanzees in accordance with the standards under paragraph (1); and such other factors as may be appropriate.
 
 &emsp;&emsp;(C) A provision that the Secretary may deny such chimpanzee acceptance into the system if a complete history of the health and use in research of the chimpanzee is not available to the Secretary.
 

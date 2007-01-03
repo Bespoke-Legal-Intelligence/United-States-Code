@@ -28,7 +28,7 @@ Pub. L. 96–265 substituted “not less than 24 months” for “not less than 
 
 #### Effective Date of 1989 Amendment
 
-Section 101(d) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section andsections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that the amendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\].”
+Section 101(d) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section and sections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that the amendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\].”
 
 #### Effective Date of 1988 Amendment
 

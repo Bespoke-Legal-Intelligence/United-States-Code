@@ -80,6 +80,8 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 For authority of the President to appoint a retired commissioned officer of a reserve component to a higher retired grade and for recalculation of pay, see section 13(c) of Pub. L. 96–343, set out as a note under section 3962 of this title.
 
+z
+
 #### Retired Grade for Certain General Officers
 
 Extension of privilege granted by subsec. (a) of this section, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946, see section 38 of act Aug. 10, 1956, set out as a note under section 3962 of this title.

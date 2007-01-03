@@ -2,7 +2,7 @@
 
 #### (a) Establishment as independent agency
 
-The Export-Import Bank of the United States shall constitute an independent agency of the United States and neither the Bank nor any of its functions, powers, or duties shall be transferred to or consolidated with any other department, agency, or corporation of the Governmentunless the Congress shall otherwise by law provide.
+The Export-Import Bank of the United States shall constitute an independent agency of the United States and neither the Bank nor any of its functions, powers, or duties shall be transferred to or consolidated with any other department, agency, or corporation of the Government unless the Congress shall otherwise by law provide.
 
 #### (b) President and First Vice President of the Bank; appointment; duties
 
@@ -46,15 +46,19 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;(ii) the end of the 6-month period beginning on the date such director's term expires.
 
+(9) At the request of any 2 members of the Board of Directors, the Chairman of the Board shall place an item pertaining to the policies or procedures of the Bank on the agenda for discussion by the Board. Within 30 days after the date such a request is made, the Chairman shall hold a meeting of the Board at which the item shall be discussed.
+
 #### (d) Advisory Committee; appointment; composition; meetings; advice to Bank; report to Congress
 
-(1)(A) There is established an Advisory Committee to consist of 15 members who shall be appointed by the Board of Directors on the recommendation of the President of the Bank.
+(1)(A) There is established an Advisory Committee to consist of 17 members who shall be appointed by the Board of Directors on the recommendation of the President of the Bank.
 
-(B) Such members shall be broadly representative of production, commerce, finance, agriculture, labor, services, and State government.
+(B) Such members shall be broadly representative of environment, production, commerce, finance, agriculture, labor, services, and State government.
 
 (2)(A) Not less than three members appointed to the Advisory Committee shall be representative of the small business community.
 
 (B) Not less than 2 members appointed to the Advisory Committee shall be representative of the labor community, except that no 2 representatives of the labor community shall be selected from the same labor union.
+
+(C) Not less than 2 members appointed to the Advisory Committee shall be representative of the environmental nongovernmental organization community, except that no 2 of the members shall be from the same environmental organization.
 
 (3) The Advisory Committee shall meet at least once each quarter.
 
@@ -64,15 +68,141 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (1) No director, officer, attorney, agent, or employee of the Bank shall in any manner, directly or indirectly, participate in the deliberation upon or the determination of any question affecting such individual's personal interests, or the interests of any corporation, partnership or association in which such individual is directly or indirectly personally interested.
 
-(2) The General Counsel of the Bank shall ensure that the directors, officers, and employees of the Bank have available appropriate legal counsel for advice on, and oversight of, issues relating to personnel matters and other administrative law matters by designating an attorney to serve as Assistant General Counsel forAdministration, whose duties, under the supervision of the General Counsel, shall be concerned solely or primarily with such issues.
+(2) The General Counsel of the Bank shall ensure that the directors, officers, and employees of the Bank have available appropriate legal counsel for advice on, and oversight of, issues relating to personnel matters and other administrative law matters by designating an attorney to serve as Assistant General Counsel for Administration, whose duties, under the supervision of the General Counsel, shall be concerned solely or primarily with such issues.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709.)
+#### (f) Small Business Division
+
+#### (1) Establishment
+
+&emsp;There is established a Small Business Division (in this subsection referred to as the “Division”) within the Bank in order to—
+
+&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy for small business concerns (as defined in section 632(a) of title 15);
+
+&emsp;&emsp;(B) advise and seek feedback from small business concerns on the opportunities and benefits for small business concerns in the financing products offered by the Bank, with particular emphasis on conducting outreach, enhancing the tailoring of products to small business needs and increasing loans to small business concerns;
+
+&emsp;&emsp;(C) maintain liaison with the Small Business Administration and other departments and agencies in matters affecting small business concerns; and
+
+&emsp;&emsp;(D) provide oversight of the development, implementation, and operation of technology improvements to strengthen small business outreach, including the technology improvement required by section 635(b)(1)(E)(x) of this title.
+
+#### (2) Management
+
+&emsp;The President of the Bank shall appoint an officer, who shall rank not lower than senior vice president and whose sole executive function shall be to manage the Division. The officer shall—
+
+&emsp;&emsp;(A) have substantial recent experience in financing exports by small business concerns; and
+
+&emsp;&emsp;(B) advise the Board, particularly the director appointed under subsection (c)(8)(B) to represent the interests of small business, on matters of interest to, and concern for, small business.
+
+#### (g) Small business specialists
+
+#### (1) Dedicated personnel
+
+&emsp;The President of the Bank shall ensure that each operating division within the Bank has staff that specializes in processing transactions that primarily benefit small business concerns (as defined in section 632(a) of title 15).
+
+#### (2) Responsibilities
+
+&emsp;The small business specialists shall be involved in all aspects of processing applications for loans, guarantees, and insurance to support exports by small business concerns, including the approval or disapproval, or staff recommendations of approval or disapproval, as applicable, of such applications. In carrying out these responsibilities, the small business specialists shall consider the unique business requirements of small businesses and shall develop exporter performance criteria tailored to small business exporters.
+
+#### (3) Approval authority
+
+&emsp;In an effort to maximize the speed and efficiency with which the Bank processes transactions primarily benefitting small business concerns, the small business specialists shall be authorized to approve applications for working capital loans and guarantees, and insurance in accordance with policies and procedures established by the Board. It is the sense of Congress that the policies and procedures should not prohibit, where appropriate, small business specialists from approving applications for working capital loans and guarantees, and for insurance, in support of exports which have a value of less than $10,000,000.
+
+#### (4) Identification
+
+&emsp;The Bank shall prominently identify the small business specialists on its website and in promotional material.
+
+#### (5) Employee evaluations
+
+&emsp;The evaluation of staff designated by the President of the Bank under paragraph (1), including annual reviews of performance of duties related to transactions in support of exports by small business concerns, and any resulting recommendations for salary adjustments, promotions, and other personnel actions, shall address the criteria established pursuant to subsection (h)(2)(B)(iii) and shall be conducted by the manager of the relevant operating division following consultation with the officer appointed to manage the Small Business Division pursuant to subsection (f)(2).
+
+#### (6) Staff recommendations
+
+&emsp;Staff recommendations of denial or withdrawal for medium-term applications, exporter held multi-buyer policies, single buyer policies, and working capital applications processed by the Bank shall be transmitted to the officer appointed to manage the Small Business Division pursuant to subsection (f)(2) not later than 2 business days before a final decision.
+
+#### (7) Rule of interpretation
+
+&emsp;Nothing in this subchapter shall be construed to prevent the delegation to the Division of any authority necessary to carry out subparagraphs (E) and (I) of section 635(b)(1) of this title.
+
+#### (h) Small Business Committee
+
+#### (1) Establishment
+
+&emsp;There is established a management committee to be known as the “Small Business Committee”.
+
+#### (2) Purpose and duties
+
+#### (A) Purpose
+
+&emsp;&emsp;The purpose of the Small Business Committee shall be to coordinate the Bank's initiatives and policies with respect to small business concerns (as defined in section 632(a) of title 15), including the timely processing and underwriting of transactions involving direct exports by small business concerns, and the development and coordination of efforts to implement new or enhanced Bank products and services pertaining to small business concerns.
+
+#### (B) Duties
+
+&emsp;&emsp;The duties of the Small Business Committee shall be determined by the President of the Bank and shall include the following:
+
+&emsp;&emsp;&emsp;(i) Assisting in the development of the Bank's small business strategic plans, including the Bank's plans for carrying out section 635(b)(1)(E) (v) and (x) of this title, and measuring and reporting in writing to the President of the Bank, at least once a year, on the Bank's progress in achieving the goals set forth in the plans.
+
+&emsp;&emsp;&emsp;(ii) Evaluating and reporting in writing to the President of the Bank, at least once a year, with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the performance of each operating division of the Bank in serving small business concerns;
+
+&emsp;&emsp;&emsp;&emsp;(II) the impact of processing and underwriting standards on transactions involving direct exports by small business concerns; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the adequacy of the staffing and resources of the Small Business Division.
+
+&emsp;&emsp;&emsp;(iii) Establishing criteria for evaluating the performance of staff designated by the President of the Bank under subsection (g)(1).
+
+&emsp;&emsp;&emsp;(iv) Coordinating the provision of services with other United States Government departments and agencies to small business concerns.
+
+#### (3) Composition
+
+#### (A) Chairperson
+
+&emsp;&emsp;The Chairperson of the Small Business Committee shall be the officer appointed to manage the Small Business Division pursuant to subsection (f)(2). The Chairperson shall have the authority to call meetings of the Small Business Committee, set the agenda for Committee meetings, and request policy recommendations from the Committee's members.
+
+#### (B) Other members
+
+&emsp;&emsp;Except as otherwise provided in this subsection, the President of the Bank shall determine the composition of the Small Business Committee, and shall appoint or remove the members of the Small Business Committee. In making such appointments, the President of the Bank shall ensure that the Small Business Committee is comprised of—
+
+&emsp;&emsp;&emsp;(i) the senior managing officers responsible for underwriting and processing transactions; and
+
+&emsp;&emsp;&emsp;(ii) other officers and employees of the Bank with responsibility for outreach to small business concerns and underwriting and processing transactions that involve small business concerns.
+
+#### (4) Reporting
+
+&emsp;The Chairperson shall provide to the President of the Bank minutes of each meeting of the Small Business Committee, including any recommendations by the Committee or its individual members.
+
+#### (i) Office of financing for socially and economically disadvantaged small business concerns and small business concerns owned by women
+
+#### (1) Establishment
+
+&emsp;The President of the Bank shall establish in the Small Business Division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15) and small business concerns owned by women.
+
+#### (2) Management
+
+&emsp;The office shall be managed by a Bank officer of appropriate rank who shall report to the Bank officer designated under subsection (f)(2).
+
+#### (3) Staffing
+
+&emsp;To the maximum extent practicable, the President of the Bank shall ensure that qualified minority and women applicants are considered when filling any position in the office.
+
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281.)
 
 #### Codification
 
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2006—Subsec. (c)(9). Pub. L. 109–438, §15, added par. (9).
+
+Subsec. (d)(1)(A). Pub. L. 109–438, §18(a)(1)(A), substituted “17” for “15”.
+
+Subsec. (d)(1)(B). Pub. L. 109–438, §18(a)(1)(B), inserted “environment,” before “production,”.
+
+Subsec. (d)(2)(C). Pub. L. 109–438, §18(a)(2), added subpar. (C).
+
+Subsecs. (f) to (h). Pub. L. 109–438, §6(a), added subsecs. (f) to (h).
+
+Subsec. (i). Pub. L. 109–438, §14(a), added subsec. (i).
 
 2002—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
 
@@ -100,7 +230,7 @@ Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation o
 
 #### Effective Date of 1954 Amendment
 
-Section 4 of act Aug. 9, 1954, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\].”
+Section 4 of act Aug. 9, 1954, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon itsenactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\].”
 
 #### Untied Aid
 
@@ -206,7 +336,7 @@ There is hereby established the office of Managing Director of the Export-Import
 
 #### Sec. 2. Deputy Director
 
-There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. The Deputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
+There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. TheDeputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
 
 #### Sec. 3. Assistant Director
 
@@ -230,7 +360,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 #### Sec. 8. Effective Date
 
-Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Directorfirst appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
+Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
 \[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 

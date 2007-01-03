@@ -10,7 +10,7 @@ Not later than 1 year after August 8, 2005, the United States Trade Representati
 
 #### (b) Annual report
 
-Not later than 1 year after the date on which a report is submitted under subsection (a)(1) and annually thereafter, the United States Trade Representative shall submit to Congress a report that describes any progress made with respect to removing the barriers identified by the United States Trade Representative under subsection (a)(1).
+Not later than 1 year after the date on which a report is submitted under subsection (a)(1) and annually thereafter, the United States TradeRepresentative shall submit to Congress a report that describes any progress made with respect to removing the barriers identified by the United States Trade Representative under subsection (a)(1).
 
 (Pub. L. 101–240, title VII, §734, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1115.)
 

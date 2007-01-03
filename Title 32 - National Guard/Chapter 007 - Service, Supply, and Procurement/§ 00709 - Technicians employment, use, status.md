@@ -2,9 +2,25 @@
 
 (a) Under regulations prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, and subject to subsections (b) and (c), persons may be employed as technicians in—
 
-&emsp;(1) the administration and training of the National Guard; and
+&emsp;(1) the organizing, administering, instructing, or training of the National Guard;
 
-&emsp;(2) the maintenance and repair of supplies issued to the National Guard or the armed forces.
+&emsp;(2) the maintenance and repair of supplies issued to the National Guard or the armed forces; and
+
+&emsp;(3) the performance of the following additional duties to the extent that the performance of those duties does not interfere with the performance of the duties described by paragraphs (1) and (2):
+
+&emsp;&emsp;(A) Support of operations or missions undertaken by the technician's unit at the request of the President or the Secretary of Defense.
+
+&emsp;&emsp;(B) Support of Federal training operations or Federal training missions assigned in whole or in part to the technician's unit.
+
+&emsp;&emsp;(C) Instructing or training in the United States or the Commonwealth of Puerto Rico or possessions of the United States of—
+
+&emsp;&emsp;&emsp;(i) active-duty members of the armed forces;
+
+&emsp;&emsp;&emsp;(ii) members of foreign military forces (under the same authorities and restrictions applicable to active-duty members providing such instruction or training);
+
+&emsp;&emsp;&emsp;(iii) Department of Defense contractor personnel; or
+
+&emsp;&emsp;&emsp;(iv) Department of Defense civilian employees.
 
 (b) Except as authorized in subsection (c), a person employed under subsection (a) must meet each of the following requirements:
 
@@ -46,7 +62,7 @@
 
 (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under section 301 of this title a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L.90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, §525(d), Oct. 17, 2006, 120 Stat. 2195.)
 
 Historical and Revision Notes
 
@@ -111,6 +127,10 @@ In subsection (e), the words “Funds appropriated by Congress” are substitute
 In subsection (f), the words “authorized to be employed under this section” are substituted for the words “authorized to be employed”. The words “person to employ them” are substituted for the words “by whom they shall be employed”. The words “by regulations” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–364, §525(d)(1)(A), substituted “organizing, administering, instructing, or” for “administration and”.
+
+Subsec. (a)(3). Pub. L. 109–364, §525(d)(1)(B)–(3), added par. (3).
 
 1999—Pub. L. 106–65 amended section catchline and text generally, revising and restating provisions relating to employment, use, and status of technicians.
 
@@ -196,7 +216,7 @@ Civil Service Retirement Credit.—A period of service performed under section 7
 
 Covered Individuals.—Subsection (a) applies in the case of an individual who—
 
-&emsp;“(1) before the end of the 14-month period beginning on the date of the enactment of this Act \[Nov. 14, 1986\], files appropriate written application with the Office of Personnel Management in accordance with regulations under subsection (c);
+&emsp;“(1) before the end of the 14-month period beginning on the date of the enactment of this Act \[Nov. 14, 1986\], files appropriate written application with theOffice of Personnel Management in accordance with regulations under subsection (c);
 
 &emsp;“(2) at the time of filing application under paragraph (1), is employed by the United States and is subject to subchapter III of chapter 83 of title 5, United States Code (other than under section 8344 of such title); and
 
@@ -212,7 +232,7 @@ Section 3 of Pub. L. 90–486, as amended by Pub. L. 101–530, §2, Nov. 6, 199
 
 “(a) A claim accrued under section 715 of title 32, United States Code, before the effective date of this Act \[see effective date note above\] by reason of the act or omission of a person employed under section 709 of title 32, United States Code, may, if otherwise allowable, be settled and paid under section 715 of title 32, United States Code.
 
-“(b) Except as provided in this Act and in the amendments made by this Act \[see Short Title note above\] and notwithstanding any law, rule, regulation, or decision to the contrary, the positions of persons employed under section 709 of title 32, United States Code, existing on the day before the effective date of this Act, and the persons holding those positions on that day, shall,on and after that effective date, be considered to be positions in and employees of the Department of the Army or the Department of the Air Force, as the case may be, and employees of the United States to the same extent as other positions in and employees of the Department of the Army or the Department of the Air Force. Such positions shall be outside the competitive service, if, as a condition of employment, the persons employed therein were, on the day before the effective date of this Act, required to be members of the Army National Guard or the Air National Guard.
+“(b) Except as provided in this Act and in the amendments made by this Act \[see Short Title note above\] and notwithstanding any law, rule, regulation, or decision to the contrary, the positions of persons employed under section 709 of title 32, United States Code, existing on the day before the effective date of this Act, and the persons holding those positions on that day, shall, on and after that effective date, be considered to be positions in and employees of the Department of the Army or the Department of the Air Force, as the case may be, and employees of the United States to the same extent as other positions in and employees of the Department of the Army or the Department of the Air Force. Such positions shall be outside the competitive service, if, as a condition of employment, the persons employed therein were, on the day before the effective date of this Act, required to be members of the Army National Guard or the Air National Guard.
 
 “(c) All service under section 709 of title 32, United States Code, or prior corresponding provision of law, performed before the effective date of this Act shall be included and credited in the determination of length of service for the purposes of leave, Federal employees death and disability compensation, group life and health insurance, severance pay, tenure, and status.
 

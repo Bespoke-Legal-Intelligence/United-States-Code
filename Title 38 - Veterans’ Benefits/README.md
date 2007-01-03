@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2005 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2006 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -26,7 +26,7 @@ Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(2), May 7, 1991, 105 Stat. 239
 
 1986—Pub. L. 99–576, title VII, §702(18), Oct. 28, 1986, 100 Stat. 3302, substituted “1401” for “1501” in item for part III.
 
-Table I<br>(Showing Disposition of All Sections of Former Title 38 by 1958 Revision)
+Table I<br>Showing Disposition of All Sections of Former Title 38 by 1958 Revision)
 
 <i>Title 38</i>
 
@@ -5675,6 +5675,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 | [<b>57.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20057%20-%20Records%20and%20Investigations/README.md) | <b>Records and Investigations</b> | <b>5701</b> |
 | [<b>59.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20059%20-%20Agents%20and%20Attorneys/README.md) | <b>Agents and Attorneys</b> | <b>5901</b> |
 | [<b>61.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20061%20-%20Penal%20and%20Forfeiture%20Provisions/README.md) | <b>Penal and Forfeiture Provisions</b> | <b>6101</b> |
+| [<b>63.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20063%20-%20Outreach%20Activities/README.md) | <b>Outreach Activities</b> | <b>6301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -5689,6 +5690,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 | [<b>76.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20076%20-%20Health%20Professionals%20Educational%20Assistance%20Program/README.md) | <b>Health Professionals Educational Assistance Program</b> | <b>7601</b> |
 | [<b>77.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20077%20-%20Veterans%20Benefits%20Administration/README.md) | <b>Veterans Benefits Administration</b> | <b>7701</b> |
 | [<b>78.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20078%20-%20Veterans%E2%80%99%20Canteen%20Service/README.md) | <b>Veterans’ Canteen Service</b> | <b>7801</b> |
+| [<b>79.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20079%20-%20Information%20Security%20Education%20Assistance%20Program/README.md) | <b>Information Security Education Assistance Program</b> | <b>7901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -5709,6 +5711,10 @@ General Savings Provision.—An action taken or an offense committed under a pro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–461, title IX, §903(a)(2), Dec. 22, 2006, 120 Stat. 3464, added item for chapter 79.
+
+Pub. L. 109–233, title IV, §402(d)(3), June 15, 2006, 120 Stat. 411, added item for chapter 63.
 
 2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
 
@@ -5750,7 +5756,7 @@ Pub. L. 97–295, §4(1)(B), Oct. 12, 1982, 96 Stat. 1304, substituted “1651�
 
 Pub. L. 97–295, §4(1)(C), Oct. 12, 1982, 96 Stat. 1304, added item for chapter 82.
 
-1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small BusinessLoans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
+1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
 
 1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
 

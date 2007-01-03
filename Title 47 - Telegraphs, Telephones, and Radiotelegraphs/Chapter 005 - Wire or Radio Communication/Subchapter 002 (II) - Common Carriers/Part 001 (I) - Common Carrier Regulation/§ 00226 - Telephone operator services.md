@@ -52,7 +52,7 @@ As used in this section—
 
 &emsp;&emsp;(G) not knowingly bill for unanswered telephone calls where equal access is not available;
 
-&emsp;&emsp;(H) not engage in call splashing, unless the consumer requests to be transferred to another provider of operator services, the consumer is informed prior to incurring any charges that the rates for the call may not reflect the rates from the actual originatinglocation of the call, and the consumer then consents to be transferred; and
+&emsp;&emsp;(H) not engage in call splashing, unless the consumer requests to be transferred to another provider of operator services, the consumer is informed prior to incurring any charges that the rates for the call may not reflect the rates from the actual originating location of the call, and the consumer then consents to be transferred; and
 
 &emsp;&emsp;(I) except as provided in subparagraph (H), not bill for a call that does not reflect the location of the origination of the call.
 
@@ -138,7 +138,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (A) In general
 
-&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, and shall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
+&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, andshall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
 
 #### (B) Waiver authority
 
@@ -198,7 +198,7 @@ Nothing in this section shall be construed to alter the obligations, powers, or 
 
 #### Amendments
 
-1994—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days afterOctober 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed.”
+1994—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed.”
 
 Subsec. (e)(1). Pub. L. 103–414, §304(a)(8), struck out “within 9 months after October 17, 1990,” after “The Commission,” in introductory provisions.
 

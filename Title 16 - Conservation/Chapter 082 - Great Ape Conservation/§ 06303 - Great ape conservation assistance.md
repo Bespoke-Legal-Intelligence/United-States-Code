@@ -78,9 +78,11 @@ The Secretary may approve a project proposal under this section if the project w
 
 &emsp;&emsp;(B) great ape population numbers and trends; or
 
-&emsp;&emsp;(C) the current and projected threats to the habitat, current and projected numbers, or current and projected trends; or
+&emsp;&emsp;(C) the current and projected threats to the habitat, current and projected numbers, or current and projected trends;
 
-&emsp;(5) promote cooperative projects on the issues described in paragraph (4) among government entities, affected local communities, nongovernmental organizations, or other persons in the private sector.
+&emsp;(5) promote cooperative projects on the issues described in paragraph (4) among government entities, affected local communities, nongovernmental organizations, or other persons in the private sector; or
+
+&emsp;(6) address root causes of threats to great apes in range states, including illegal bushmeat trade, diseases, lack of regional or local capacity for conservation, and habitat loss due to natural disasters.
 
 #### (e) Project sustainability
 
@@ -110,7 +112,23 @@ Amounts provided as a grant under this chapter—
 
 #### (i) Panel
 
-Every 2 years, the Secretary shall convene a panel of experts to identify the greatest needs for the conservation of great apes.
+#### (1) In general
 
-(Pub. L. 106–411, §4, Nov. 1, 2000, 114 Stat. 1791.)
+&emsp;Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.
+
+#### (2) Applicability of FACA
+
+&emsp;The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to a panel convened under paragraph (1).
+
+(Pub. L. 106–411, §4, Nov. 1, 2000, 114 Stat. 1791; Pub. L. 109–363, title VII, §701, Oct. 17, 2006, 120 Stat. 2081.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (i)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2006—Subsec. (d)(6). Pub. L. 109–363, §701(1), added par. (6).
+
+Subsec. (i). Pub. L. 109–363, §701(2), designated existing provisions as par. (1), inserted par. heading, substituted “may convene” for “shall convene”, and added par. (2).
 

@@ -1,10 +1,10 @@
 ### §1827. Reports by Corporation; audit of financial transactions; report on audits; employment of certified public accountants for audits
 
-#### (a) Annual reports on BIF, SAIF, and the FSLIC Resolution Fund
+#### (a) Annual reports on the Deposit Insurance Fund and the FSLIC Resolution Fund
 
 #### (1) In general
 
-&emsp;The Corporation shall annually submit a full report of its operations, activities, budget, receipts, and expenditures for the preceding 12-month period. The report shall include, with respect to the Bank Insurance Fund, the Savings Association Insurance Fund, and the FSLIC Resolution Fund, an analysis by the Corporation of—
+&emsp;The Corporation shall annually submit a full report of its operations, activities, budget, receipts, and expenditures for the preceding 12-month period. The report shall include, with respect to the Deposit Insurance Fund and the FSLIC Resolution Fund, an analysis by the Corporation of—
 
 &emsp;&emsp;(A) the current financial condition of each such fund;
 
@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(C) the extent to which the actual costs of assistance provided to, or for the benefit of, an insured depository institution during the preceding year exceeded the estimated costs of such assistance reported in a previous year under paragraph (A);
 
-&emsp;&emsp;(D) the exposure of each insurance fund to changes in those economic factors most likely to affect the condition of that fund;
+&emsp;&emsp;(D) the exposure of the Deposit Insurance Fund to changes in those economic factors most likely to affect the condition of that fund;
 
-&emsp;&emsp;(E) a current estimate of the resources needed for the Bank Insurance Fund, the Savings Association Insurance Fund, or the FSLIC Resolution Fund to achieve the purposes of this chapter; and
+&emsp;&emsp;(E) a current estimate of the resources needed for the Deposit Insurance Fund or the FSLIC Resolution Fund to achieve the purposes of this chapter; and
 
 &emsp;&emsp;(F) any findings, conclusions, and recommendations for legislative and administrative actions considered appropriate to future resolution activities by the Corporation.
 
@@ -62,11 +62,11 @@
 
 #### (1) Audit required
 
-&emsp;The Comptroller General shall audit annually the financial transactions of the Corporation, the Bank Insurance Fund, the Savings Association Insurance Fund, and the FSLIC Resolution Fund in accordance with generally accepted government auditing standards.
+&emsp;The Comptroller General shall audit annually the financial transactions of the Corporation <sup>1</sup> the Deposit Insurance Fund and the FSLIC Resolution Fund in accordance with generally accepted government auditing standards.
 
 #### (2) Access to books and records
 
-&emsp;All books, records, accounts, reports, files, and property belonging to or used by the Corporation, the Bank Insurance Fund, the Savings Association Insurance Fund, and the FSLIC Resolution Fund, or by an independent certified public accountant retained to audit the Fund's financial statements, shall be made available to the Comptroller General.
+&emsp;All books, records, accounts, reports, files, and property belonging to or used by the Corporation <sup>1</sup> the Deposit Insurance Fund and the FSLIC Resolution Fund, or by an independent certified public accountant retained to audit the Fund's financial statements, shall be made available to the Comptroller General.
 
 #### (e) Audit of Corporation
 
@@ -80,15 +80,7 @@ A report of each audit conducted under subsection (b) of this section shall be m
 
 For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to section 5 of title 41, professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the Government Accountability Office for the cost of any such audit as billed therefor by the Comptroller General, and the Government Accountability Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
 
-(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–173, §8(a)(26), (27), Feb. 15, 2006, 119 Stat. 3614, 3615.)
-
-#### Amendment of Subsections (a) and (d)
-
-<i>Pub. L. 109–173, §8(a)(26), (27), (b), Feb. 15, 2006, 119 Stat. 3614–3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by striking “BIF, SAIF,” and inserting “the Deposit Insurance Fund” in the subsection heading and, in paragraph (1), by striking “the Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “the Deposit Insurance Fund” in introductory provisions and subparagraph (E) and by striking “each insurance fund” and inserting “the Deposit Insurance Fund” in subparagraph (D); and</i>
-
-<i>(2) in subsection (d), by striking “, the Bank Insurance Fund, the Savings Association Insurance Fund,” each place that term appears and inserting “the Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, titleII, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(26), (27), Feb. 15, 2006, 119 Stat. 3614, 3615.)
 
 #### References in Text
 
@@ -100,15 +92,29 @@ Subsec. (a) is derived from subsec. (r) of former section 264 of this title. See
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–173, §8(a)(26)(A), substituted “the Deposit Insurance Fund” for “BIF, SAIF,” in heading.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(S). See 1996 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 109–173, §8(a)(26)(B)(i), substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in introductory provisions.
+
+Subsec. (a)(1)(D). Pub. L. 109–173, §8(a)(26)(B)(ii), substituted “the Deposit Insurance Fund” for “each insurance fund”.
+
+Subsec. (a)(1)(E). Pub. L. 109–173, §8(a)(26)(B)(i), substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,”.
+
+Subsec. (d). Pub. L. 109–173, §8(a)(27), substituted “the Deposit Insurance Fund” for “, the Bank Insurance Fund, the Savings Association Insurance Fund,” in pars. (1) and (2).
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(T). See 1996 Amendment note below.
+
 2004—Subsecs. (e), (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 2000—Subsec. (a)(3). Pub. L. 106–569, §1103(a), added par. (3).
 
 Subsec. (h). Pub. L. 106–569, §1104(b), struck out subsec. (h) which related to additional reports.
 
-1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(S), which directed substitution of “the Deposit Insurance Fund” for “BIF, SAIF,” in heading and “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” wherever appearing in par. (1), was not executed. See Effective Date of 1996 Amendment note below.
+1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(S), which directed substitution of “the Deposit Insurance Fund” for “BIF, SAIF,” in heading and “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” wherever appearing in par. (1), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in two places, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in two places, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1991—Subsec. (h). Pub. L. 102–242 added subsec. (h).
 
@@ -118,15 +124,17 @@ Subsecs. (b) to (g). Pub. L. 101–73, §220(a)(2), (3), added subsecs. (b) to (
 
 1975—Subsec. (b). Pub. L. 93–604, §602(a), inserted provisions that the Corporation shall be audited at least once in every three years.
 
-Subsec. (c). Pub. L. 93–604, §602(b), substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered bysuch audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
+Subsec. (c). Pub. L. 93–604, §602(b), substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered by such audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
 
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Final Reports on RTC and SAIF Funding
 
@@ -155,4 +163,6 @@ Time for Submission.—The reports described in subsection (a) shall be transmit
 #### Report to Congress on Risk-Based Assessments
 
 Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

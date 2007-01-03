@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Attorney General, in consultation with the Secretary of Education, shall provide for a national baseline study to examine the scope of the problem of campus sexual assaults and the effectiveness of institutional and legal policies in addressing such crimes and protecting victims. The Attorney General may utilize the Bureau of Justice Statistics, the National Institute of Justice, and the Office for Victims of Crime in carrying out this section.
+The Attorney General, in consultation with the Secretary of Education, shall provide for a national baseline study to examine the scope ofthe problem of campus sexual assaults and the effectiveness of institutional and legal policies in addressing such crimes and protecting victims. The Attorney General may utilize the Bureau of Justice Statistics, the National Institute of Justice, and the Office for Victims of Crime in carrying out this section.
 
 #### (b) Report
 

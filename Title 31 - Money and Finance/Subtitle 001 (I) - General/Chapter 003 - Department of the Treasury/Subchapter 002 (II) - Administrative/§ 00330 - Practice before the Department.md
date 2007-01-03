@@ -26,7 +26,7 @@
 
 > The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.
 
-(c) After notice and opportunity for a hearing to any appraiser with respect to whom a penalty has been assessed under section 6701(a) of the Internal Revenue Code of 1986, the Secretary may—
+(c) After notice and opportunity for a hearing to any appraiser, the Secretary may—
 
 &emsp;(1) provide that appraisals by such appraiser shall not have any probative effect in any administrative proceeding before the Department of the Treasury or the Internal Revenue Service, and
 
@@ -34,7 +34,7 @@
 
 (d) Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, §156(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, §822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, §156(a), July 18, 1984, 98Stat. 695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, §822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587; Pub. L. 109–280, title XII, §1219(d), Aug. 17, 2006, 120 Stat. 1085.)
 
 Historical and Revision Notes
 
@@ -60,11 +60,9 @@ In subsection (a), before clause (1), the words “Subject to section 500 of tit
 
 In subsection (b), the word “proceeding” is substituted for “hearing” because of subchapter II of chapter 5 of title 5. In clause (3), the words “violates regulations prescribed under this section” are substituted for “who refuses to comply with said rules and regulations” to eliminate unnecessary words. In clause (4), the words “in any manner” are omitted as surplus. The word “deceive” is omitted as being included in the word “mislead”. The words “by word, circular, letter, or by advertisement” are omitted as unnecessary.
 
-#### References in Text
-
-Section 6701(a) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 6701(a) of Title 26, Internal Revenue Code.
-
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–280 struck out “with respect to whom a penalty has been assessed under section 6701(a) of the Internal Revenue Code of 1986” after “any appraiser” in introductory provisions.
 
 2004—Subsec. (b). Pub. L. 108–357, §822(a)(1), inserted “, or censure,” after “Department” in introductory provisions and inserted at end “The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.”
 
@@ -73,6 +71,10 @@ Subsec. (d). Pub. L. 108–357, §822(b), added subsec. (d).
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable to appraisals prepared with respect to returns or submissions filed after Aug. 17, 2006, see section 1219(e)(2) of Pub. L. 109–280, set out as a note under section 170 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2004 Amendment
 

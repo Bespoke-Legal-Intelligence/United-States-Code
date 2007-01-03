@@ -22,7 +22,7 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 91–603 provided: “That this Act \[enacting this section, amending sections 1151, 1152, 1171, and 1223 of Title 46, Appendix, Shipping, and enacting provisions set out as a note under this section\] may be cited as the ‘Seamen's Service Act’.”
+Section 1 of Pub. L. 91–603 provided: “That this Act \[enacting this section, amending sections 1151, 1152,1171, and 1223 of Title 46, Appendix, Shipping, and enacting provisions set out as a note under this section\] may be cited as the ‘Seamen's Service Act’.”
 
 #### Congressional Declaration of Purpose
 

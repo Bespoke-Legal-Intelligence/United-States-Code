@@ -8,7 +8,7 @@ An independent regulatory commission is hereby established, to be known as the C
 
 (1) Except as provided in paragraph (2), (A) the Commissioners first appointed under this section shall be appointed for terms ending three, four, five, six, and seven years, respectively, after October 27, 1972, the term of each to be designated by the President at the time of nomination; and (B) each of their successors shall be appointed for a term of seven years from the date of the expiration of the term for which his predecessor was appointed.
 
-(2) Any Commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A Commissioner may continue to serve after the expiration of this term until his successor has taken office, except that he may not so continue to serve more than one year after the date on which his term would otherwise expire under this subsection.
+(2) Any Commissioner appointed to fill a vacancy occurring prior to the expiration of theterm for which his predecessor was appointed shall be appointed only for the remainder of such term. A Commissioner may continue to serve after the expiration of this term until his successor has taken office, except that he may not so continue to serve more than one year after the date on which his term would otherwise expire under this subsection.
 
 #### (c) Restrictions on Commissioner's outside activities
 
@@ -64,7 +64,7 @@ Subsections (a) and (h) of section 2680 of title 28 do not prohibit the bringing
 
 #### (j) Agenda and priorities; establishment and comments
 
-At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, theCommission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
+At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, the Commission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
 
 (Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111.)
 

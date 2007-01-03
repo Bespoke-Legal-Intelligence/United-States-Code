@@ -20,7 +20,3 @@ No action shall be brought against any individual or person for any violation un
 
 1969—Subsec. (c). Pub. L. 91–161 provided that nothing in this subsection should be construed to apply to administrative action taken by the Commission.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

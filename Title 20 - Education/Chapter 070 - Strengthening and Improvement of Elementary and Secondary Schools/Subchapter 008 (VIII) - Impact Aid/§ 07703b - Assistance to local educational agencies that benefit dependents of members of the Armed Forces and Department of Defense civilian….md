@@ -112,5 +112,57 @@ Section is comprised of section 572 of Pub. L. 109–163. Subsec. (g) of section
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2006, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 
+#### Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments
+
+Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, provided that:
+
+“(a)
+
+Plan Required.—Not later than January 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a plan to provide assistance to local educational agencies that experience growth in the enrollment of military dependent students as a result of any of the following events:
+
+&emsp;“(1) Force structure changes.
+
+&emsp;“(2) The relocation of a military unit.
+
+&emsp;“(3) The closure or realignment of military installations pursuant to defense base closure and realignment under the base closure laws.
+
+“(b)
+
+Elements.—The report required by subsection (a), and each updated report required by subsection (c), shall include the following:
+
+&emsp;“(1) An identification, current as of the date of the report, of the total number of military dependent students who are anticipated to be arriving at or departing from military installations as a result of any event described in subsection (a), including—
+
+&emsp;&emsp;“(A) an identification of the military installations affected by such arrivals and departures;
+
+&emsp;&emsp;“(B) an estimate of the number of such students arriving at or departing from each such installation; and
+
+&emsp;&emsp;“(C) the anticipated schedule of such arrivals and departures.
+
+&emsp;“(2) Such recommendations as the Office of Economic Adjustment of the Department of Defense considers appropriate for means of assisting affected local educational agencies in accommodating increases in enrollment of military dependent students as a result of any such event.
+
+&emsp;“(3) A plan for outreach to be conducted to affected local educational agencies, commanders of military installations, and members of the Armed Forces and civilian personnel of the Department of Defense regarding information on the assistance to be provided under the plan under subsection (a).
+
+“(c)
+
+Updated Reports.—Not later than March 1, 2008, and annually thereafter to coincide with the submission of the budget of the President for a fiscal year under section 1105 of title 31, United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update of the report required by subsection (a).
+
+“(d)
+
+Transition of Military Dependents From Department of Defense Dependent Schools to Other Schools.—During the period beginning on the date of the enactment of this Act \[Oct. 17, 2006\] and ending on September 30, 2011, the Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transition of military dependent students from attendance in Department of Defense dependent schools to attendance in schools of local educational agencies. The Secretary of Defense may use funds of the Department of Defense Education Activity to share expertise and experience of the Activity with local educational agencies as military dependent students make such transition, including such a transition resulting from the closure or realignment of military installations under a base closure law, global rebasing, and force restructuring.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘base closure law’ has the meaning given that term in section 101 of title 10, United States Code.
+
+&emsp;“(2) The term ‘local educational agency’ has the meaning given that term in section 8013(9) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713(9)).
+
+&emsp;“(3) The term ‘military dependent students’ refers to—
+
+&emsp;&emsp;“(A) elementary and secondary school students who are dependents of members of the Armed Forces; and
+
+&emsp;&emsp;“(B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense.”
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

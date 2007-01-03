@@ -74,13 +74,85 @@ If savings in salaries and expenses result from the consolidation of administrat
 
 (3) The total number of employees of the United States Customs Service shall be equivalent to at least 17,174 full-time employees.
 
-(Pub. L. 95–410, title III, §301, Oct. 3, 1978, 92 Stat. 905; Pub. L. 97–456, §2, Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title VII, §702, Oct. 30, 1984, 98 Stat. 3043; Pub. L. 99–272, title XIII, §13022(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 99–509, title VIII, §8102, Oct. 21, 1986, 100 Stat. 1967; Pub. L. 100–203, title IX, §9503(a), (b), Dec. 22, 1987, 101 Stat. 1330–380, 1330–381; Pub. L. 100–690, title VII, §7361(a), (b), Nov. 18, 1988, 102 Stat. 4474; Pub. L. 101–207, §3(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §102, Aug. 20, 1990, 104 Stat. 634; Pub. L. 107–210, div. A, title III, §311(a), (b)(1), (c), (d), Aug. 6, 2002, 116 Stat. 973.)
+#### (h) Resource Allocation Model
+
+#### (1) Resource Allocation Model
+
+&emsp;Not later than June 30, 2007, and every 2 years thereafter, the Commissioner shall prepare and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a Resource Allocation Model to determine the optimal staffing levels required to carry out the commercial operations of United States Customs and Border Protection, including commercial inspection and release of cargo and the revenue functions described in section 212(b)(2) of title 6. The Model shall comply with the requirements of section 212(b)(1) of such title and shall take into account previous staffing models, historic and projected trade volumes, and trends. The Resource Allocation Model shall apply both risk-based and random sampling approaches for determining adequate staffing needs for priority trade functions, including—
+
+&emsp;&emsp;(A) performing revenue functions;
+
+&emsp;&emsp;(B) enforcing antidumping and countervailing duty laws;
+
+&emsp;&emsp;(C) protecting intellectual property rights;
+
+&emsp;&emsp;(D) enforcing provisions of law relating to trade in textiles and apparel;
+
+&emsp;&emsp;(E) conducting agricultural inspections;
+
+&emsp;&emsp;(F) enforcing fines, penalties, and forfeitures; and
+
+&emsp;&emsp;(G) facilitating trade.
+
+#### (2) Personnel
+
+#### (A) In general
+
+&emsp;&emsp;Not later than September 30, 2007, the Commissioner shall ensure that the requirements of section 212(b) of title 6 are fully satisfied and shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives regarding the implementation of this subparagraph.
+
+#### (B) Customs and Border Protection Officers
+
+&emsp;&emsp;The initial Resource Allocation Model required pursuant to paragraph (1) shall provide for the hiring of a minimum of 200 additional Customs and Border Protection Officers per year for each of the fiscal years 2008 through 2012. The Commissioner shall hire such additional Officers subject to the appropriation of funds to pay for the salaries and expenses of such Officers. In assigning the 1,000 additional Officers authorized by this subparagraph, the Commissioner shall—
+
+&emsp;&emsp;&emsp;(i) consider the volume of trade and the incidence of nonvoluntarily disclosed customs and trade law violations in addition to security priorities among United States ports of entry; and
+
+&emsp;&emsp;&emsp;(ii) before October 1, 2010, assign at least 10 additional Officers among each service port and the ports of entry serviced by such service port, except as provided in subparagraph (C).
+
+#### (C) Assignment
+
+&emsp;&emsp;In assigning such Officers pursuant to subparagraph (B), the Commissioner shall consult with the port directors of each service port and the other ports of entry serviced by such service port. The Commissioner shall not assign an Officer to a port of entry pursuant to subparagraph (B)(ii) if the port director of the service port that services such port of entry certifies to the Commissioner that an additional Officer is not needed at such port of entry.
+
+#### (D) Report
+
+&emsp;&emsp;Not later than 60 days after the beginning of each of the fiscal years 2008 through 2012, the Commissioner shall submit a report to the Committee on Finance of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Ways and Means of the House of Representatives, that describes how the additional Officers authorized under subparagraph (B) will be allocated among the ports of entry in the United States in accordance with subparagraph (C).
+
+#### (3) Authorization of appropriations
+
+&emsp;In addition to any monies hereafter appropriated to United States Customs and Border Protection in the Department of Homeland Security, there are authorized to be appropriated for the purpose of meeting the requirements of paragraph (2)(B), to remain available until expended—
+
+&emsp;&emsp;(A) $36,000,000 for fiscal year 2008;
+
+&emsp;&emsp;(B) $75,000,000 for fiscal year 2009;
+
+&emsp;&emsp;(C) $118,000,000 for fiscal year 2010;
+
+&emsp;&emsp;(D) $165,000,000 for fiscal year 2011; and
+
+&emsp;&emsp;(E) $217,000,000 for fiscal year 2012.
+
+#### (4) Report
+
+&emsp;Not later than 30 days after the end of each fiscal year, the Commissioner shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives on the resources directed to commercial and trade facilitation functions within the Office of Field Operations for the preceding fiscal year. Such information shall be reported for each category of personnel within the Office of Field Operations.
+
+#### (5) Regulations to implement trade agreements
+
+&emsp;Not later than 30 days after October 13, 2006, the Commissioner shall designate and maintain not less than 5 attorneys within the Office of International Trade established pursuant to section 2072 of this title, with responsibility for the prompt development and promulgation of regulations necessary to implement any trade agreement entered into by the United States, in addition to any other responsibilities assigned by the Commissioner.
+
+#### (6) Definition
+
+&emsp;In this subsection, the term “Commissioner” means the Commissioner responsible for United States Customs and Border Protection in the Department of Homeland Security.
+
+(Pub. L. 95–410, title III, §301, Oct. 3, 1978, 92 Stat. 905; Pub. L. 97–456, §2, Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title VII, §702, Oct. 30, 1984, 98 Stat. 3043; Pub. L. 99–272, title XIII, §13022(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 99–509, title VIII, §8102, Oct. 21, 1986, 100 Stat. 1967; Pub. L. 100–203, title IX, §9503(a), (b), Dec. 22, 1987, 101 Stat. 1330–380, 1330–381; Pub. L. 100–690, title VII, §7361(a), (b), Nov. 18, 1988, 102 Stat. 4474; Pub. L. 101–207, §3(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §102, Aug. 20, 1990, 104 Stat. 634; Pub. L. 107–210, div. A, title III, §311(a), (b)(1), (c), (d), Aug. 6, 2002, 116 Stat. 973; Pub. L. 109–347, title IV, §403, Oct. 13, 2006, 120 Stat. 1926.)
 
 #### References in Text
 
 The Federal Pay Comparability Act of 1970, referred to in subsec. (e), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, Government Organization and Employees, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
 
+Hereafter, referred to in subsec. (h)(3), probably means on and after the date of enactment of Pub. L. 109–347 which enacted subsec. (h) and was approved Oct. 13, 2006.
+
 #### Amendments
+
+2006—Subsec. (h). Pub. L. 109–347 added subsec. (h).
 
 2002—Subsec. (a)(3). Pub. L. 107–210, §311(d), added par. (3).
 

@@ -14,7 +14,7 @@ After March 31, 2012, each institution with which the Secretary has made an agre
 
 #### (c) Distribution of excess capital
 
-(1) Upon a finding by the institution or the Secretary prior to October 1, 2004, that the liquid assets of a student loan fund established pursuant to an agreement under this part exceed the amount required for loans or otherwise in the foreseeable future, and upon notice to such institution or to the Secretary, as the case may be, there shall be, subject to such limitations as may be included in regulations of the Secretary or in such agreement, a capital distribution from such fund. Such capital distribution shall be made as follows:
+(1) Upon a finding by the institution or the Secretary prior to October 1, 2004, that the liquid assets of a student loan fund established pursuant to an agreement under this part exceed the amount required for loans or otherwise in the foreseeable future, and upon notice to such institution or to the Secretary, as the case maybe, there shall be, subject to such limitations as may be included in regulations of the Secretary or in such agreement, a capital distribution from such fund. Such capital distribution shall be made as follows:
 
 &emsp;(A) The Secretary shall first be paid an amount which bears the same ratio to the total to be distributed as the Federal capital contributions by the Secretary to the student loan fund prior to such distribution bear to the sum of such Federal capital contributions and the capital contributions to the fund made by the institution.
 
@@ -26,7 +26,7 @@ After March 31, 2012, each institution with which the Secretary has made an agre
 
 #### Prior Provisions
 
-A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds,prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;&emsp;(C) in the case of a structure used or intended for such use with respect to natural gas, includes all components and equipment, including pipelines, pumping or compressor stations, service platforms, buoys, mooring lines, and similar facilities that are proposed or approved for construction and operation as part of a deepwater port, to the extent that they are located seaward of the high water mark and do not include interconnecting facilities; and
 
-&emsp;&emsp;(D) shall be considered a “new source” for purposes of the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
+&emsp;&emsp;(D) shall be considered a “new source” for purposes of the Clean Air Act (42 U.S.C. 7401et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
 
 &emsp;(10) “Governor” means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter;
 
@@ -44,7 +44,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(17) “Secretary” means the Secretary of Transportation;
 
-&emsp;(18) “State” includes each of the States of the United States, the District of Columbia,the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+&emsp;(18) “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
 
 &emsp;(19) “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 

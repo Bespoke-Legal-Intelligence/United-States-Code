@@ -2,13 +2,13 @@
 
 #### (a) Payments
 
-The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
+The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005 and each of fiscal years 2007 through 2011, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
 
 #### (b) Amount of payments
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the amounts payable under this section to a children's hospital for an approved graduate medical residency training program for a fiscal year are each of the following amounts:
+&emsp;Subject to paragraphs (2) and (3), the amounts payable under this section to a children's hospital for an approved graduate medical residency training program for a fiscal year are each of the following amounts:
 
 #### (A) Direct expense amount
 
@@ -27,6 +27,58 @@ The Secretary shall make two payments under this section to each children's hosp
 #### (B) Pro rata reductions of payments for direct expenses
 
 &emsp;&emsp;If the Secretary determines that the amount of funds appropriated under subsection (f)(1) of this section for a fiscal year is insufficient to provide the total amount of payments otherwise due for such periods under paragraph (1)(A), the Secretary shall reduce the amounts so payable on a pro rata basis to reflect such shortfall.
+
+#### (3) Annual reporting required
+
+#### (A) Reduction in payment for failure to report
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The amount payable under this section to a children's hospital for a fiscal year (beginning with fiscal year 2008 and after taking into account paragraph (2)) shall be reduced by 25 percent if the Secretary determines that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the hospital has failed to provide the Secretary, as an addendum to the hospital's application under this section for such fiscal year, the report required under subparagraph (B) for the previous fiscal year; or
+
+&emsp;&emsp;&emsp;&emsp;(II) such report fails to provide the information required under any clause of such subparagraph.
+
+#### (ii) Notice and opportunity to provide missing information
+
+&emsp;&emsp;&emsp;Before imposing a reduction under clause (i) on the basis of a hospital's failure to provide information described in clause (i)(II), the Secretary shall providenotice to the hospital of such failure and the Secretary's intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
+
+#### (B) Annual report
+
+&emsp;&emsp;The report required under this subparagraph for a children's hospital for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:
+
+&emsp;&emsp;&emsp;(i) The types of resident training programs that the hospital provided for residents described in subparagraph (C), such as general pediatrics, internal medicine/pediatrics, and pediatric subspecialties, including both medical subspecialties certified by the American Board of Pediatrics (such as pediatric gastroenterology) and non-medical subspecialties approved by other medical certification boards (such as pediatric surgery).
+
+&emsp;&emsp;&emsp;(ii) The number of training positions for residents described in subparagraph (C), the number of such positions recruited to fill, and the number of such positions filled.
+
+&emsp;&emsp;&emsp;(iii) The types of training that the hospital provided for residents described in subparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
+
+&emsp;&emsp;&emsp;(iv) The changes in residency training for residents described in subparagraph (C) which the hospital has made during such residency academic year (except that the first report submitted by the hospital under this subparagraph shall be for such changes since the first year in which the hospital received payment under this section), including—
+
+&emsp;&emsp;&emsp;&emsp;(I) changes in curricula, training experiences, and types of training programs, and benefits that have resulted from such changes; and
+
+&emsp;&emsp;&emsp;&emsp;(II) changes for purposes of training the residents in the measurement and improvement of the quality and safety of patient care.
+
+&emsp;&emsp;&emsp;(v) The numbers of residents described in subparagraph (C) who completed their residency training at the end of such residency academic year and care for children within the borders of the service area of the hospital or within the borders of the State in which the hospital is located. Such numbers shall be disaggregated with respect to residents who completed residencies in general pediatrics or internal medicine/pediatrics, subspecialty residencies, and dental residencies.
+
+#### (C) Residents
+
+&emsp;&emsp;The residents described in this subparagraph are those who—
+
+&emsp;&emsp;&emsp;(i) are in full-time equivalent resident training positions in any training program sponsored by the hospital; or
+
+&emsp;&emsp;&emsp;(ii) are in a training program sponsored by an entity other than the hospital, but who spend more than 75 percent of their training time at the hospital.
+
+#### (D) Report to Congress
+
+&emsp;&emsp;Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+
+&emsp;&emsp;&emsp;(i) summarizing the information submitted in reports to the Secretary under subparagraph (B);
+
+&emsp;&emsp;&emsp;(ii) describing the results of the program carried out under this section; and
+
+&emsp;&emsp;&emsp;(iii) making recommendations for improvements to the program.
 
 #### (c) Amount of payment for direct graduate medical education
 
@@ -70,7 +122,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applying the proportion determined under subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor described in subparagraph (C)(ii) for the hospital's area; and
+&emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year for the hospital's area; and
 
 &emsp;&emsp;&emsp;(iii) by adding the non-wage-related portion to the amount computed under clause (ii).
 
@@ -96,15 +148,15 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (1) Interim payments
 
-&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 26 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
+&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
 
 #### (2) Withholding
 
-&emsp;The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1). The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis.
+&emsp;The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis.
 
 #### (3) Reconciliation
 
-&emsp;Prior to the end of each fiscal year, the Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpaymentsmade to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395<i>oo</i> of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) <sup>1</sup> of this title is subject to review under such section.
+&emsp;Prior to the end of each fiscal year, the Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made and pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395<i>oo</i> of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) <sup>1</sup> of this title is subject to review under such section.
 
 #### (f) Authorization of appropriations
 
@@ -116,9 +168,11 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2000, $90,000,000;
 
-&emsp;&emsp;&emsp;(ii) for fiscal year 2001, $95,000,000; and
+&emsp;&emsp;&emsp;(ii) for fiscal year 2001, $95,000,000;
 
-&emsp;&emsp;&emsp;(iii) for each of the fiscal years 2002 through 2005, such sums as may be necessary.
+&emsp;&emsp;&emsp;(iii) for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+
+&emsp;&emsp;&emsp;(iv) for each of fiscal years 2007 through 2011, $110,000,000.
 
 #### (B) Carryover of excess
 
@@ -126,13 +180,15 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (2) Indirect medical education
 
-&emsp;There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(A) of this section—
+&emsp;There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(B) of this section—
 
 &emsp;&emsp;(A) for fiscal year 2000, $190,000,000;
 
-&emsp;&emsp;(B) for fiscal year 2001, $190,000,000; and
+&emsp;&emsp;(B) for fiscal year 2001, $190,000,000;
 
-&emsp;&emsp;(C) for each of the fiscal years 2002 through 2005, such sums as may be necessary.
+&emsp;&emsp;(C) for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+
+&emsp;&emsp;(D) for each of fiscal years 2007 through 2011, $220,000,000.
 
 #### (g) Definitions
 
@@ -150,13 +206,33 @@ In this section:
 
 &emsp;The term “direct graduate medical education costs” has the meaning given such term in section 1395ww(h)(5)(C) of this title.
 
-(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972.)
+(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721.)
 
 #### References in Text
 
 Section 1395ww(d) of this title, referred to in subsec. (e)(3), was in the original “section 1186(d) of such Act” and was translated as reading “section 1886(d) of such Act”, meaning section 1886(d) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1186 and section 1395ww(d) of this title relates to review of inpatient hospital service payments.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–307, §2(a)(1), inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
+
+Subsec. (b)(1). Pub. L. 109–307, §2(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 109–307, §2(b)(2), added par. (3).
+
+Subsec. (c)(2)(E)(ii). Pub. L. 109–307, §2(c)(1), substituted “applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year” for “described in subparagraph (C)(ii)”.
+
+Subsec. (e)(1). Pub. L. 109–307, §2(a)(2), substituted “12” for “26”.
+
+Subsec. (e)(2). Pub. L. 109–307, §2(c)(2), struck out first sentence which read as follows: “The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1).”
+
+Subsec. (e)(3). Pub. L. 109–307, §2(c)(3), substituted “made and pay” for “made to pay”.
+
+Subsec. (f)(1)(A)(iv). Pub. L. 109–307, §2(a)(3), added cl. (iv).
+
+Subsec. (f)(2). Pub. L. 109–307, §2(a)(4)(A), substituted “subsection (b)(1)(B)” for “subsection (b)(1)(A)” in introductory provisions.
+
+Subsec. (f)(2)(D). Pub. L. 109–307, §2(a)(4)(B)–(D), added subpar. (D).
 
 2004—Subsec. (d)(1). Pub. L. 108–490, §1(a)(1), substituted “costs associated with” for “costs related to”.
 

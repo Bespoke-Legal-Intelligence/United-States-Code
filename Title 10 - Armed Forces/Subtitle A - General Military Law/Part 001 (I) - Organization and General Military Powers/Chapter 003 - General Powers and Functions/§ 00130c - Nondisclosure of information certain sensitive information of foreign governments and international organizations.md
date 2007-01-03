@@ -74,7 +74,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “international organization” means the following:
 
-&emsp;&emsp;(A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act (59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
+&emsp;&emsp;(A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act\(59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
 
 &emsp;&emsp;(B) A public international organization created pursuant to a treaty or other international agreement as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
 

@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) this Nation historically has recognized the importance of protecting special areas of its public domain, but these efforts have been directed almost exclusively to land areas above the high-water mark;
 
-&emsp;(2) certain areas of the marine environment possess conservation, recreational, ecological, historical, scientific, educational, cultural, archeological, or esthetic qualities which give them special national, and in some cases international, significance;
+&emsp;(2) certain areas of the marine environment possess conservation, recreational, ecological,historical, scientific, educational, cultural, archeological, or esthetic qualities which give them special national, and in some cases international, significance;
 
 &emsp;(3) while the need to control the effects of particular activities has led to enactment of resource-specific legislation, these laws cannot in all cases provide a coordinated and comprehensive approach to the conservation and management of special areas of the marine environment; and
 
@@ -106,7 +106,7 @@ Pub. L. 106–513, §1, Nov. 13, 2000, 114 Stat. 2381, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–283 provided that: “This Act \[amending this section and sections 1432, 1434, 1437, 1442, 1443, 1444, 1445a, and 1445b of this title, renumbering provisions set out as a note under section 1442 of this title as section 1445b of this title, enacting provisions set out as notes under this section and sections 1433 and 1445 of this title, and amending provisions set out as anote under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Preservation Act’.”
+Section 1 of Pub. L. 104–283 provided that: “This Act \[amending this section and sections 1432, 1434, 1437, 1442, 1443, 1444, 1445a, and 1445b of this title, renumbering provisions set out as a note under section 1442 of this title as section 1445b of this title, enacting provisions set out as notes under this section and sections 1433 and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Preservation Act’.”
 
 #### Short Title of 1992 Amendment
 

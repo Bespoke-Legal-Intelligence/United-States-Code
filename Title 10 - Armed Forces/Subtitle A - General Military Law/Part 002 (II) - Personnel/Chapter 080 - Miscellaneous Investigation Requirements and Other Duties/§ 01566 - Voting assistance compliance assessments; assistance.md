@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, and Marine Corps ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
+Regulations.—The Secretary of Defense shall prescribe regulations to require that theArmy, Navy, Air Force, and Marine Corps ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
 
 (b)
 
@@ -28,25 +28,7 @@ Annual Effectiveness and Compliance Reviews.—(1) The Inspector General of each
 
 &emsp;(B) the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, and Marine Corps.
 
-(d)
-
-Inspector General Assessments.—(1) The Inspector General of the Department of Defense shall periodically conduct at Department of Defense installations unannounced assessments of the compliance at those installations with—
-
-&emsp;(A) the requirements of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.);
-
-&emsp;(B) Department of Defense regulations regarding that Act and the Federal Voting Assistance Program carried out under that Act; and
-
-&emsp;(C) other requirements of law regarding voting by members of the armed forces.
-
-(2) The Inspector General shall conduct an assessment under paragraph (1) at not less than 10 Department of Defense installations each calendar year.
-
-(3) Each assessment under paragraph (1) shall include a review of such compliance—
-
-&emsp;(A) within units to which are assigned, in the aggregate, not less than 20 percent of the personnel assigned to duty at that installation;
-
-&emsp;(B) within a representative survey of members of the armed forces assigned to that installation and their dependents; and
-
-&emsp;(C) within unit voting assistance officers to measure program effectiveness.
+\[(d) Repealed. Pub. L. 109–364, div. A, title V, §596(a), Oct. 17, 2006, 120 Stat. 2235.\]
 
 (e)
 
@@ -62,7 +44,7 @@ Voting Assistance Officers.—(1) Voting assistance officers shall be appointed 
 
 Delivery of Mail From Overseas Preceding Federal Elections.—(1) During the four months preceding a general Federal election month, the Secretary of Defense shall periodically conduct surveys of all overseas locations and vessels at sea with military units responsible for collecting mail for return shipment to the United States and all port facilities in the United States and overseas where military-related mail is collected for shipment to overseas locations or to the United States. The purpose of each survey shall be to determine if voting materials are awaiting shipment at any such location and, if so, the length of time that such materials have been held at that location. During the fourth and third months before a general Federal election month, such surveys shall be conducted biweekly. During the second and first months before a general Federal election month, such surveys shall be conducted weekly.
 
-(2) The Secretary shall ensure that voting materials are transmitted expeditiously by military postal authorities at all times. The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.
+(2) The Secretary shall ensure that voting materials are transmitted expeditiously by military postal authorities at all times. The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held.
 
 (3) In this section, the term “general Federal election month” means November in an even-numbered year.
 
@@ -74,17 +56,21 @@ Notice of Deadlines and Requirements.—The Secretary of each military departmen
 
 Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
 
-(2) The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
+(2) The Secretary of each military department shall make the national voter registration formprepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
 
 (3) Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
 
-(Added Pub. L. 107–107, div. A, title XVI, §1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, §701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, §1084(d)(13), Oct. 28, 2004, 118 Stat. 2062.)
+(Added Pub. L. 107–107, div. A, title XVI, §1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, §701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, §1084(d)(13), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §596(a), (d), Oct. 17, 2006, 120 Stat. 2235, 2236.)
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (d)(1)(A), (B), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
+
+Subsec. (g)(2). Pub. L. 109–364, §596(d), struck out at end “Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
 
 2004—Subsec. (g)(2). Pub. L. 108–375, §1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
 
@@ -100,5 +86,5 @@ Subsec. (i). Pub. L. 107–252, §701(d), added subsec. (i).
 
 #### Initial Report
 
-Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, provided that: “The first report under section 1566(c)(3) of title 10, United States Code,as added by subsection (a), shall be submitted not later than March 31, 2003.”
+Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
 

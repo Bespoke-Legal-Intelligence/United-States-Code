@@ -58,3 +58,5 @@ Section is based on Pub. L. 99–661, div. A, title XII, §1223, Nov. 14, 1986, 
 
 2006—Pub. L. 109–163, amended section catchline and text generally. Prior to amendment, section required the Secretary of Defense to contract for certain supplies and services when cost was lower than cost at which Department of Defense could provide same.
 
+§2463
+

@@ -4,7 +4,3 @@ For service on a fish processing vessel, an individual may be rated as able seam
 
 (Added Pub. L. 98–364, title IV, §402(9)(D), July 17, 1984, 98 Stat. 448.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7312 of this title.
-

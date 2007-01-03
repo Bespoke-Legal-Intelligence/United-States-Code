@@ -12,7 +12,7 @@ Pub. L. 102–512, title I, §101, Oct. 24, 1992, 106 Stat. 3363, provided that:
 
 Pub. L. 102–512, title II, §201, Oct. 24, 1992, 106 Stat. 3364, provided that: “This title \[amending section 1786 of this title and enacting provisions set out as notes under section 1786 of this title\] may be cited as the ‘WIC Infant Formula Procurement Act of 1992’.”
 
-Pub. L. 102–314, §1, July 2, 1992, 106 Stat. 280, provided that: “This Act \[amending section 1786 of this title and enacting provisions set out as notes under section 1786 of this title\] may be cited as the ‘WIC Farmers’ Market Nutrition Act of 1992’.”
+Pub. L. 102–314, §1, July 2, 1992, 106 Stat. 280, provided that: “This Act \[amending section 1786 of this title andenacting provisions set out as notes under section 1786 of this title\] may be cited as the ‘WIC Farmers’ Market Nutrition Act of 1992’.”
 
 #### Short Title
 

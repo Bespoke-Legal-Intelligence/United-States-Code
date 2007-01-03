@@ -24,7 +24,7 @@
 
 (B) If the agency and exclusive representative reach an impasse in collective bargaining with respect to terminating such schedule, the impasse shall be presented to the Panel.
 
-(C) The Panel shall promptly consider any case presented under subparagraph (B), and shall rule on such impasse not later than 60 days after the date the Panel is presented the impasse. The Panel shall take final action in favor of the agency's determination to terminate a scheduleif the finding on which the determination is based is supported by evidence that the schedule has caused an adverse agency impact.
+(C) The Panel shall promptly consider any case presented under subparagraph (B), and shall rule on such impasse not later than 60 days after the date the Panel is presented the impasse. The Panel shall take final action in favor of the agency's determination to terminate a schedule if the finding on which the determination is based is supported by evidence that the schedule has caused an adverse agency impact.
 
 (D) Any such schedule may not be terminated until—
 

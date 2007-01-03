@@ -4,7 +4,7 @@ For the sport that it governs, a national governing body shall—
 
 &emsp;(1) develop interest and participation throughout the United States and be responsible to the persons and amateur sports organizations it represents;
 
-&emsp;(2) minimize, through coordination with other amateur sports organizations, conflictsin the scheduling of all practices and competitions;
+&emsp;(2) minimize, through coordination with other amateur sports organizations, conflicts in the scheduling of all practices and competitions;
 
 &emsp;(3) keep amateur athletes informed of policy matters and reasonably reflect the views of the athletes in its policy decisions;
 

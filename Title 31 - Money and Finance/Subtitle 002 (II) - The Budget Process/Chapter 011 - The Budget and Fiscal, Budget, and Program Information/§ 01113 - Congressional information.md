@@ -30,7 +30,7 @@
 
 &emsp;(C) monitor recurring reporting requirements of Congress and committees; and
 
-&emsp;(D) make recommendations to Congress and committees for changes and improvements in those reporting requirements to meet information needs identified by the Comptroller General, to improve their usefulness to congressional users, and to eliminate unnecessary reporting.
+&emsp;(D) make recommendations to Congress and committees for changes and improvements inthose reporting requirements to meet information needs identified by the Comptroller General, to improve their usefulness to congressional users, and to eliminate unnecessary reporting.
 
 (2) Before September 2 of each year, the Comptroller General shall report to Congress on—
 
@@ -140,7 +140,7 @@ Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as ame
 
 #### Termination of Reporting Requirements
 
-Pub. L. 108–203, title IV, §413, Mar. 2, 2004, 118 Stat. 529, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L.104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 108–203, title IV, §413, Mar. 2, 2004, 118 Stat. 529, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1)(A) Section 201(c)(2) of the Social Security Act (42 U.S.C. 401(c)(2)).
 
@@ -210,7 +210,7 @@ Summary of marine casualties reported during prior fiscal year.—Section 6307(c
 
 &emsp;“(3)
 
-User fee activities and amounts.—Section 664 of title 46, United States Code.
+User fee activities and amounts.—Section 664 of title 46 \[14\], United States Code.
 
 &emsp;“(4)
 
@@ -218,7 +218,7 @@ Conditions of public ports of the united states.—Section 308(c) of title 49, U
 
 &emsp;“(5)
 
-Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1118).
+Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118) \[see 46 U.S.C. 306(a), 50111(a)\].
 
 &emsp;“(6)
 
@@ -536,7 +536,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763
 
 &emsp;&emsp;“(D) Section 4215 (42 U.S.C. 1396r note).
 
-&emsp;“(27) The following provisions of the Inspector General Act of 1978 \[5 App. U.S.C.\] (Public Law 95–452):
+&emsp;“(27) The following provisions of the Inspector General Act of 1978 \[5 U.S.C. App.\] (Public Law 95–452):
 
 &emsp;&emsp;“(A) Section 5(b).
 
@@ -624,7 +624,7 @@ Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: �
 
 &emsp;“(3) Section 47131 of such title.”
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report requiredto be submitted under any of the following provisions of law:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1) Section 1205 of the International Security and Development Cooperation Act of 1985 (Public Law 99–83; 22 U.S.C. 2346 note) (relating to annual reports on economic conditions in Egypt, Israel, Turkey, and Portugal).
 
@@ -706,9 +706,9 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;“(21) Section 3135 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 7274g).
 
-&emsp;“(22) Section 12 of the Act of March 9, 1920 (popularly known as the ‘Suits in Admiralty Act’) (46 App. U.S.C. 752).
+&emsp;“(22) Section 12 of the Act of March 9, 1920 (popularly known as the ‘Suits in Admiralty Act’) (46 App. U.S.C. 752) \[now 46 U.S.C. 30918\].
 
-&emsp;“(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1118, 1241(b)(2), 1291).
+&emsp;“(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118, 1241(b)(2), 1291) \[see 46 U.S.C. 306(a), 50111(a), 55305(d)\].
 
 &emsp;“(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–2, 98h–5).
 
@@ -756,7 +756,7 @@ Identification of Wasteful Reports.—The President shall include in the first a
 
 “(c)
 
-List of Reports.—The list referred to under subsection (a) is the list prepared by the Clerk of the House of Representatives for the first session of the One Hundred Third Congress under clause 2 of rule III of the Rules of the House of Representatives (House Document No. 103–7).
+List of Reports.—The list referred to under subsection (a) is the list prepared by the Clerk of the House of Representatives for the first session of the One Hundred Third Congress under clause 2 of rule III \[now cl. 2(b) of rule II\] of the Rules of the House of Representatives (House Document No. 103–7).
 
 “(d)
 

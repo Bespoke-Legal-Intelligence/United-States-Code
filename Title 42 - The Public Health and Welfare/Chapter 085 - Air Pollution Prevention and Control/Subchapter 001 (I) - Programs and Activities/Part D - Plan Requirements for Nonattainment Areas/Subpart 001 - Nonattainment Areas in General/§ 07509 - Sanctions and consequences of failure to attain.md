@@ -6,7 +6,7 @@ For any implementation plan or plan revision required under this part (or requir
 
 &emsp;(1) finds that a State has failed, for an area designated nonattainment under section 7407(d) of this title, to submit a plan, or to submit 1 or more of the elements (as determined by the Administrator) required by the provisions of this chapter applicable to such an area, or has failed to make a submission for such an area that satisfies the minimum criteria established in relation to any such element under section 7410(k) of this title,
 
-&emsp;(2) disapproves a submission under section 7410(k) of this title, for an area designatednonattainment under section 7407 of this title, based on the submission's failure to meet one or more of the elements required by the provisions of this chapter applicable to such an area,
+&emsp;(2) disapproves a submission under section 7410(k) of this title, for an area designated nonattainment under section 7407 of this title, based on the submission's failure to meet one or more of the elements required by the provisions of this chapter applicable to such an area,
 
 &emsp;(3)(A) determines that a State has failed to make any submission as may be required under this chapter, other than one described under paragraph (1) or (2), including an adequate maintenance plan, or has failed to make any submission, as may be required under this chapter, other than one described under paragraph (1) or (2), that satisfies the minimum criteria established in relation to such submission under section 7410(k)(1)(A) of this title, or
 
@@ -22,7 +22,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 #### (1) Highway sanctions
 
-&emsp;(A) The Administrator may impose a prohibition, applicable to a nonattainment area, on the approval by the Secretary of Transportation of any projects or the awarding by the Secretary of any grants, under title 23 other than projects or grants for safety where the Secretary determines, based on accident or other appropriate data submitted by the State, that the principal purpose of the project is an improvement in safety to resolve a demonstrated safety problem and likely will result in a significant reduction in, or avoidance of, accidents. Such prohibition shall become effective upon the selection by the Administrator of this sanction.
+&emsp;(A) The Administrator may impose a prohibition, applicable to a nonattainment area, on the approval by the Secretary of Transportation of any projects or the awarding by theSecretary of any grants, under title 23 other than projects or grants for safety where the Secretary determines, based on accident or other appropriate data submitted by the State, that the principal purpose of the project is an improvement in safety to resolve a demonstrated safety problem and likely will result in a significant reduction in, or avoidance of, accidents. Such prohibition shall become effective upon the selection by the Administrator of this sanction.
 
 &emsp;(B) In addition to safety, projects or grants that may be approved by the Secretary, notwithstanding the prohibition in subparagraph (A), are the following—
 

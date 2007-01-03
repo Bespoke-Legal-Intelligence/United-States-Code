@@ -28,7 +28,7 @@ The Secretary of the Army is authorized to allot from any appropriations hereaft
 
 #### Codification
 
-Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
+Section was enacted as part of the Flood Control Act of 1968, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
 

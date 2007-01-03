@@ -14,7 +14,7 @@
 
 (c) After the expiration of five years from the date of cancellation of the charter of a Federal credit union the Board may, in its discretion, destroy any or all books and records of such Federal credit union in its possession or under its control.
 
-(d) The Board is authorized and empowered to execute any and all functions and perform anyand all duties vested in it hereby, through such persons as it shall designate or employ; and it may delegate to any person or persons, including any institution operating under the general supervision of the Administration, the performance and discharge of any authority, power, or function vested in it by this chapter.
+(d) The Board is authorized and empowered to execute any and all functions and perform any and all duties vested in it hereby, through such persons as it shall designate or employ; and it may delegate to any person or persons, including any institution operating under the general supervision of the Administration, the performance and discharge of any authority, power, or function vested in it by this chapter.
 
 (e) All books and records of Federal credit unions shall be kept and reports shall be made in accordance with forms approved by the Board.
 
@@ -28,7 +28,7 @@
 
 (g) Any officer or employee of the Administration is authorized, when designated for the purpose by the Board, to administer oaths and affirmations and to take affidavits and depositions touching upon any matter within the jurisdiction of the Administration.
 
-(h) The Board is authorized, empowered, and directed to require that every person appointed or elected by any Federal credit union to any position requiring the receipt, payment, or custody of money or other personal property owned by a Federal credit union, or in its custody or control as collateral or otherwise, give bond in a corporate surety company holding a certificate of authority from the Secretary of the Treasury under sections 9304–9308 of title 31, as an acceptable surety on Federal bonds. Any such bond or bonds shall be in a form approved by the Board with a view to providing surety coverage to the Federal credit union with reference to loss by reason of acts of fraud or dishonesty including forgery, theft, embezzlement, wrongful abstraction, or misapplication on the part of the person, directly or through connivance with others, and such other surety coverages as the Board may determine to be reasonably appropriate or as elsewhere required by this chapter. Any such bond or bonds shall be in such an amount in relation to the money or other personal property involved or in relation to the assets of the Federal credit union as the Board may from time to time prescribe by regulation for the purpose of requiring reasonable coverage. In lieu of individual bonds the Board may approve the use of a form of schedule or blanket bond which covers all of the officers and employees of a Federal credit union whose duties include the receipt, payment, or custody of money or other personal property for or on behalf of the Federal credit union. The Board may also approve the use of a form of excess coverage bond whereby a Federal credit union may obtain an amount of coverage in excess of the basic surety coverage.
+(h) The Board is authorized, empowered, and directed to require that every person appointed or elected by any Federal credit union to any position requiring the receipt, payment, or custody of money or other personal property owned by a Federal credit union, or in its custody or control as collateral or otherwise, give bond in a corporate surety company holding a certificate of authority from the Secretary of the Treasury under chapter 93 of title 31, as an acceptable surety on Federal bonds. Any such bond or bonds shall be in a form approved by the Board with a view to providing surety coverage to the Federal credit union with reference to loss by reason of acts of fraud or dishonesty including forgery, theft, embezzlement, wrongful abstraction, or misapplication on the part of the person, directly or through connivance with others, and such other surety coverages as the Board may determine to be reasonably appropriate or as elsewhere required by this chapter. Any such bond or bonds shall be in such an amount in relation to the money or other personal property involved or in relation to the assets of the Federal credit union as the Board may from time to time prescribe by regulation for the purpose of requiring reasonable coverage. In lieu of individual bonds the Board may approve the use of a form of schedule or blanket bond which covers all of the officers and employees of a Federal credit union whose duties include the receipt, payment, or custody of money or other personal property for or on behalf of the Federal credit union. The Board may also approve the use of a form of excess coverage bond whereby a Federal credit union may obtain an amount of coverage in excess of the basic surety coverage.
 
 (i) In addition to the authority conferred upon it by other sections of this chapter, the Board is authorized in carrying out its functions under this chapter—
 
@@ -48,23 +48,21 @@ Appointment and compensation.—The Board shall fix the compensation and number 
 
 &emsp;(2)
 
-Additional compensation and benefits.—The Board may provide additional compensation and benefits to employees of the Board if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Board, the Board shall seek to maintain comparability with other Federal bank regulatory agencies.
+Additional compensation and benefits.—The Board may provide additional compensation and benefits to employees of the Board if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Board, the Board shallseek to maintain comparability with other Federal bank regulatory agencies.
 
 &emsp;(3)
 
 Funding.—The salaries and expenses of the Board and employees of the Board shall be paid from fees and assessments (including income earned on insurance deposits) levied on insured credit unions under this chapter.
 
-(June 26, 1934, ch. 750, title I, §120, formerly §16, 48 Stat. 1221; Dec. 6, 1937, ch. 3, §3, 51 Stat. 4; July 31, 1946, ch. 711, §8, 60 Stat. 745; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; June 30, 1954, ch. 426, §2, 68 Stat. 336; Aug. 24, 1954, ch. 905, §3, 68 Stat. 792; renumbered §21 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 635; Pub. L. 90–375, §2(a), July 5, 1968, 82 Stat. 285; Pub. L. 91–206, §§2(1), (3), 4, Mar. 10, 1970, 84 Stat. 49, 50; renumbered title I, §120, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–22, title III, §306, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §526, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 100–86, title VII, §707, Aug. 10, 1987, 101 Stat. 653; Pub. L. 101–73, title XII, §1203, Aug. 9, 1989, 103 Stat. 520; Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 864; Pub. L. 103–325, title I, §120(a), Sept. 23, 1994, 108 Stat. 2188.)
+(June 26, 1934, ch. 750, title I, §120, formerly §16, 48 Stat. 1221; Dec. 6, 1937, ch. 3, §3, 51 Stat. 4; July 31, 1946, ch. 711, §8, 60 Stat. 745; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; June 30, 1954, ch. 426, §2, 68 Stat. 336; Aug. 24, 1954, ch. 905, §3, 68 Stat. 792; renumbered §21 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 635; Pub. L. 90–375, §2(a), July 5, 1968, 82 Stat. 285; Pub. L. 91–206, §§2(1), (3), 4, Mar. 10, 1970, 84 Stat. 49, 50; renumbered title I, §120, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–22, title III, §306, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §526, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 100–86, title VII, §707, Aug. 10, 1987, 101 Stat. 653; Pub. L. 101–73, title XII, §1203, Aug. 9, 1989, 103 Stat. 520; Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 864; Pub. L. 103–325, title I, §120(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 109–351, title VII, §726(10), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### References in Text
 
 The Economic Opportunity Act of 1964, referred to in subsec. (f)(2)(B), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-#### Codification
-
-In subsec. (h), “sections 9304–9308 of title 31” substituted for “the Act approved July 30, 1947 (6 U.S.C., secs. 6–13)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
-
 #### Amendments
+
+2006—Subsec. (h). Pub. L. 109–351 substituted “chapter 93 of title 31” for “the Act approved July 30, 1947 (6 U.S.C., secs. 6–13)”.
 
 1994—Subsec. (k). Pub. L. 103–325 struck out subsec. (k) which read as follows: “Notwithstanding any other provision of law, the Board may exercise the authority granted it by the Community Development Credit Union Revolving Loan Fund Transfer Act (Public Law 99–609, sec. 1, Nov. 6, 1986, 100 Stat. 3475) subject only to the rules and regulations prescribed by the Board.”
 
@@ -103,10 +101,4 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 #### Effective Date of 1968 Amendment
 
 Section 2(b) of Pub. L. 90–375 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective July 1, 1968.”
-
-#### Transfer of Functions
-
-Transfer of functions of Farm Credit Administration and Governor thereof, generally, see notes set out under section 1751 of this title.
-
-Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 

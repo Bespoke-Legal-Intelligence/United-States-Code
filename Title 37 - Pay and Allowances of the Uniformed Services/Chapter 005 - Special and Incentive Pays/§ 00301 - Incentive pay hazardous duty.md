@@ -72,7 +72,7 @@ $150&nbsp;&nbsp;
 
 &nbsp;&nbsp;O–1
 
-150&nbsp;&nbsp;
+150  
 
 &nbsp;&nbsp;W–5
 
@@ -195,9 +195,9 @@ $150&nbsp;&nbsp;
 
 (B) A member who qualifies for entitlement under this paragraph is entitled to the increase for each day in the relevant month in which he is entitled to basic pay pursuant to section 204 of this title or to compensation under section 206 of this title.
 
-(C) In this paragraph, the term,<sup>1</sup> “units” means the significant increments of performance prescribed as qualifying standards in regulations promulgated by the President pursuant to this section.
+(C) In this paragraph, the term “units” means the significant increments of performance prescribed as qualifying standards in regulations promulgated by the President pursuant to this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub. L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361; Pub. L. 105–85, div. A, title VI, §614, Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §614(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 107–107, div. A, title VI, §615(a), (b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 108–136, div. A, title VI, §615(a)–(c), Nov. 24, 2003, 117 Stat. 1502; Pub. L. 108–375, div. A, title VI, §615, Oct. 28, 2004, 118 Stat. 1948.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub. L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361; Pub. L. 105–85, div. A, title VI, §614, Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §614(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 107–107, div. A, title VI, §615(a), (b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 108–136, div. A, title VI, §615(a)–(c), Nov. 24, 2003, 117 Stat. 1502; Pub. L. 108–375, div. A, title VI, §615, Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–364, div. A, title X, §1071(c)(2), Oct. 17, 2006, 120 Stat. 2400.)
 
 Historical and Revision Notes
 
@@ -254,6 +254,8 @@ In subsection (f), the words “a member of a reserve component of a uniformed s
 In subsection (g), the words “entitled to incentive pay under section 301(a)(1) of this title” are substituted for the words “flight pay”. At the time of the enactment of the source statute, additional pay was authorized as “flight pay”. However, the Career Compensation Act of 1949 did not authorize “flight pay” but provided incentive pay in section 204(a)(1) \[now section 301(a)(1) of this revised title\] for “duty as a crew member . . . involving frequent and regular participation in aerial flight”. The words “before January 2 of each year” are substituted for the words “On or before January 1, annually”. The word “grade” is substituted for the word “rank” to conform to the definition in section 101(15) of this revised title.
 
 #### Amendments
+
+2006—Subsec. (f)(2)(C). Pub. L. 109–364 struck out comma after “the term”.
 
 2004—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d), redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
 
@@ -317,7 +319,7 @@ Subsec. (f)(2)(C). Pub. L. 100–26, §8(e)(2)(B), substituted “paragraph, the
 
 Subsec. (a)(10). Pub. L. 99–145, §635(a)(1)(B), in amending cl. (10) generally, designated existing provisions as cls. (A) and (B) and added cl. (C).
 
-Subsec. (b). Pub. L. 99–145, §635(a)(2), amended table generally, striking out differentiation in pay ratesbased upon years of service and reflect an upward adjustment in the monthly incentive pay with respect to pay grades E–9 through E–1, and inserted provisions relating to monthly incentive pay for pay grades O–10 through O–1 and W–4 through W–1, respectively.
+Subsec. (b). Pub. L. 99–145, §635(a)(2), amended table generally, striking out differentiation in pay rates based upon years of service and reflect an upward adjustment in the monthly incentive pay with respect to pay grades E–9 through E–1, and inserted provisions relating to monthly incentive pay for pay grades O–10 through O–1 and W–4 through W–1, respectively.
 
 Subsec. (c)(1). Pub. L. 99–145, §1303(b)(2), directed the substitution of “(10),” for “(10),,”. See amendment note below.
 
@@ -391,7 +393,7 @@ Pub. L. 107–107, div. A, title VI, §615(c), Dec. 28, 2001, 115 Stat. 1136, pr
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VI, §614(b), Oct. 17, 1998, 112 Stat. 2040, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date.”
+Pub. L. 105–261, div. A, title VI, §614(b), Oct. 17, 1998, 112 Stat. 2040, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1991 Amendment
 
@@ -467,7 +469,7 @@ Relationship to Other Incentives.—Incentives provided under this section are i
 
 Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
 
-“(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the Armed Forces, the incentives that are to be provided under this section.”
+“(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the ArmedForces, the incentives that are to be provided under this section.”
 
 #### Persons Entitled To Receive Incentive Pay for Duty Involving Contact With Persons Afflicted With Leprosy
 
@@ -479,7 +481,7 @@ Ex. Ord. No. 10152, Aug. 17, 1950, 15 F.R. 5489, as amended by Ex. Ord. No. 1061
 
 #### Executive Order No. 11157
 
-Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No.12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
+Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
 
 #### Ex. Ord. No. 13294. Regulations Relating to Hazardous Duty Incentive Pay, Aviation Career Incentive Pay, and Submarine Duty Incentive Pay
 
@@ -494,6 +496,4 @@ Sec. 2. Executive Order 11157 of June 22, 1964, as amended, and Executive Order 
 Sec. 3. This order is not intended to create, nor does it create, any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, officers, employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

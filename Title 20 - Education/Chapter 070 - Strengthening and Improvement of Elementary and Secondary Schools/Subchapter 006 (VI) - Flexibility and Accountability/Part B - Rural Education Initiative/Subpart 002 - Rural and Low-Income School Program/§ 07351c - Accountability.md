@@ -30,13 +30,13 @@ The Secretary shall prepare and submit to the Committee on Education and the Wor
 
 #### (d) Academic achievement assessment
 
-Each local educational agency or specially qualified agency that receives a grant under this subpart for a fiscal year shall administer an assessment that is consistent with section 6311(b)(3) of this title.
+Each local educational agency or specially qualified agency that receives a grant under thissubpart for a fiscal year shall administer an assessment that is consistent with section 6311(b)(3) of this title.
 
 #### (e) Determination regarding continuing participation
 
 Each State educational agency or specially qualified agency that receives a grant under this subpart shall—
 
-&emsp;(1) after the third year that a local educational agency or specially qualified agencyin the State receives funds under this subpart, and on the basis of the results of the assessments described in subsection (d) of this section—
+&emsp;(1) after the third year that a local educational agency or specially qualified agency in the State receives funds under this subpart, and on the basis of the results of the assessments described in subsection (d) of this section—
 
 &emsp;&emsp;(A) in the case of a local educational agency, determine whether the local educational agency made adequate yearly progress, as described in section 6311(b)(2) of this title; and
 

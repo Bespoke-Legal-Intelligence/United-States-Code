@@ -56,7 +56,7 @@ Qualifying Highways.—The Secretary by regulation shall designate as qualifying
 
 (f)
 
-Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate andDefense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
+Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
 
 (2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
 
@@ -148,7 +148,7 @@ Subsection (b)(1) is substituted for 49 App.:2311(a) and (b) (2d–last sentence
 
 Subsection (b)(2) is substituted for 49 App.:2311(b) (1st sentence) because of the restatement.
 
-In subsection (d), the words “such as rear view mirrors, turn signal lamps, marker lamps, steps and handholds for entry and egress, flexible fender extensions,mudflaps and splash and spray suppressant devices, load-induced tire bulge, refrigeration units or air compressors and other devices” are omitted as unnecessary and because most items listed relate to width rather than length.
+In subsection (d), the words “such as rear view mirrors, turn signal lamps, marker lamps, steps and handholds for entry and egress, flexible fender extensions, mudflaps and splash and spray suppressant devices, load-induced tire bulge, refrigeration units or air compressors and other devices” are omitted as unnecessary and because most items listed relate to width rather than length.
 
 In subsection (e), the words “by regulation” are added for clarity. The words “subject to the provisions of subsections (a) and (c) of this section” are omitted as surplus. The text of 49 App.:2311(e)(2) and (3) is omitted as executed.
 

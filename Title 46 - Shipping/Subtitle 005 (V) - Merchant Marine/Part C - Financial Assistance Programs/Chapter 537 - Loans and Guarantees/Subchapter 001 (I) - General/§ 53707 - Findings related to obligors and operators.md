@@ -1,0 +1,78 @@
+### §53707. Findings related to obligors and operators
+
+(a)
+
+Responsible Obligor.—The Secretary may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary finds that the obligor is responsible and has the ability, experience, financial resources, and other qualifications necessary for the adequate operation and maintenance of each vessel that will serve as security for the guarantee.
+
+(b)
+
+Operators of Liner Vessels.—The Secretary of Transportation may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a liner vessel under this chapter unless the Chairman of the Federal Maritime Commission certifies that the operator of the vessel has not been found by the Commission to have committed, within the previous 5 years—
+
+&emsp;(1) a violation of part A of subtitle IV of this title that involves unjust or unfair discriminatory treatment or undue or unreasonable prejudice or disadvantage with respect to a United States shipper, ocean transportation intermediary, ocean common carrier, or port; or
+
+&emsp;(2) a violation of part B of subtitle IV of this title.
+
+(c)
+
+Operators of Fishing Vessels.—The Secretary of Commerce may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a fishing vessel under this chapter if the operator of the vessel has been—
+
+&emsp;(1) held liable, or the vessel has been held liable in rem, for a civil penalty under section 308 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858) and the operator has not paid the penalty;
+
+&emsp;(2) found guilty of an offense under section 309 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1859) and not paid the assessed fine or served the assessed sentence;
+
+&emsp;(3) held liable for a civil or criminal penalty under section 105 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1375) and not paid the assessed fine or served the assessed sentence; or
+
+&emsp;(4) held liable for a civil penalty by the Coast Guard under this title or title 33 and not paid the assessed fine.
+
+(d)
+
+Waivers Concerning Financial Condition.—The Secretary shall prescribe regulations concerning circumstances under which waivers of, or exceptions to, otherwise applicable regulatory requirements concerning financial condition can be made. The regulations shall require that—
+
+&emsp;(1) the economic soundness requirements in section 53708(a) of this title are met after the waiver of the financial condition requirement; and
+
+&emsp;(2) the waiver shall provide for the imposition of other requirements on the obligor designed to compensate for the increased risk associated with the obligor's failure to meet regulatory requirements applicable to financial condition.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1607; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1), Jan. 6, 2006, 119 Stat. 3555, 3556.)
+
+#### Amendments Not Shown in Text
+
+<i>Subsec. (a) of this section was derived from section 1274(b)(1) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. Section 1274(b)(1) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+
+<i>Subsec. (b) of this section was derived from section 1273a(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(c)(1), Jan. 6, 2006, 119 Stat. 3556. Section 1273a(a) of the former Appendix to this title was amended by striking “Secretary of Transportation” and inserting “Administrator of the Maritime Administration”.</i>
+
+<i>Subsec. (d)(2) of this section was derived from section 1274(d)(4)(B) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(b)(3)(B), (C), Jan. 6, 2006, 119 Stat. 3556. Section 1274(d)(4)(B) of the former Appendix to this title was amended by striking “the waiver” and inserting “if deemed necessary by the Secretary or Administrator, the waiver” and by striking “the increased” and inserting “any significant increase in”.</i>
+
+<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53707(a)
+
+46 App.:1274(b)(1).
+
+June 29, 1936, ch. 858, title XI, §1104A(b)(1) \[§1104A formerly §1104\], as added June 23, 1938, ch. 600, §46, 52 Stat. 970; Aug. 4, 1939, ch. 417, §14, 53 Stat. 1187; Sept. 28, 1950, ch. 1093, §4, 64 Stat. 1078; Aug. 15, 1953, ch. 513, §2, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §4, 68 Stat. 1269; Pub. L. 86–123, §§1(3), 2, July 31, 1959, 73 Stat. 269, 271; Pub. L. 86–127, §1(3), (4), July 31, 1959, 73 Stat. 273; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 86–685, §§2, 3, Sept. 2, 1960, 74 Stat. 733; Pub. L. 90–341, June 15, 1968, 82 Stat. 180; Pub. L. 91–469, §§31, 32, Oct. 21, 1970, 84 Stat. 1035; restated Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 911; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; §1104 renumbered as §1104A, Pub. L. 101–380, title IV, §4115(f)(1), Aug. 18, 1990, 104 Stat. 521.
+
+53707(b)
+
+46 App.:1273a(a).
+
+Pub. L. 105–258, title IV, §401, Oct. 14, 1998, 112 Stat. 1916.
+
+53707(c)
+
+46 App.:1273a(b).
+
+53707(d)
+
+46 App.:1274(d)(4).
+
+June 29, 1936, ch. 858, title XI, §1104A(d)(4), as added Pub. L. 108–136, title XXXV, §3522, Nov. 24, 2003, 117 Stat. 1800.
+

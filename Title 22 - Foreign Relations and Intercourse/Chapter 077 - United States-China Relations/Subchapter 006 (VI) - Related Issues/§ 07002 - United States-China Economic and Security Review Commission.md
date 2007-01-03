@@ -84,7 +84,7 @@ The purposes of this section are as follows:
 
 &emsp;Each report under paragraph (1) shall include, at a minimum, a full discussion of the following:
 
-&emsp;&emsp;(A) The portion of trade in goods and services with the United States that the People's Republic of China dedicates to military systems or systems of a dual nature that could be used for military purposes.
+&emsp;&emsp;(A) The portion of trade in goods and services with the United States that the People'sRepublic of China dedicates to military systems or systems of a dual nature that could be used for military purposes.
 
 &emsp;&emsp;(B) The acquisition by the People's Republic of China of advanced military or dual-use technologies from the United States by trade (including procurement) and other technology transfers, especially those transfers, if any, that contribute to the proliferation of weapons of mass destruction or their delivery systems, or that undermine international agreements or United States laws with respect to nonproliferation.
 
@@ -92,7 +92,7 @@ The purposes of this section are as follows:
 
 &emsp;&emsp;(D) An analysis of the statements and writing of the People's Republic of China officials and officially-sanctioned writings that bear on the intentions, if any, of the Government of the People's Republic of China regarding the pursuit of military competition with, and leverage over, or cooperation with, the United States and the Asian allies of the United States.
 
-&emsp;&emsp;(E) The military actions taken by the Government of the People's Republic of Chinaduring the preceding year that bear on the national security of the United States and the regional stability of the Asian allies of the United States.
+&emsp;&emsp;(E) The military actions taken by the Government of the People's Republic of China during the preceding year that bear on the national security of the United States and the regional stability of the Asian allies of the United States.
 
 &emsp;&emsp;(F) The effects, if any, on the national security interests of the United States of the use by the People's Republic of China of financial transactions and capital flow and currency manipulations.
 
@@ -142,7 +142,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employeesunder section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 
@@ -160,7 +160,7 @@ The purposes of this section are as follows:
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to the Commission for fiscal year 2001, and for eachfiscal year thereafter, such sums as may be necessary to enable the Commission to carry out its functions under this section.
+&emsp;There is authorized to be appropriated to the Commission for fiscal year 2001, and for each fiscal year thereafter, such sums as may be necessary to enable the Commission to carry out its functions under this section.
 
 #### (2) Availability
 
@@ -244,7 +244,7 @@ Economic reforms and united states economic transfers.—The Commission shall an
 
 &emsp;“(C)
 
-Energy.—The Commission shall evaluate and assess how China's large and growing economy will impact upon world energy supplies and the role theUnited States can play, including joint R\&D efforts and technological assistance, in influencing China's energy policy.
+Energy.—The Commission shall evaluate and assess how China's large and growing economy will impact upon world energy supplies and the role the United States can play, including joint R\&D efforts and technological assistance, in influencing China's energy policy.
 
 &emsp;“(D)
 

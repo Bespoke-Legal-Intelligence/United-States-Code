@@ -20,5 +20,6 @@
 - [Part L - Strengthening America's Families by Preventing Violence Against Women and Children](Part%20L%20-%20Strengthening%20America%27s%20Families%20by%20Preventing%20Violence%20Against%20Women%20and%20Children/README.md)
 - [Part M - Addressing the Housing Needs of Victims of Domestic Violence, Dating Violence, Sexual Assault, and Stalking](Part%20M%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/README.md)
 - [Part N - National Resource Center](Part%20N%20-%20National%20Resource%20Center/README.md)
+- [Part N&#8211;1 - Sexual Assault Services](Part%20N%E2%80%931%20-%20Sexual%20Assault%20Services/README.md)
 - [Part O - Combatting Domestic Trafficking in Persons](Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/README.md)
 - [Part P - Miscellaneous Authorities](Part%20P%20-%20Miscellaneous%20Authorities/README.md)

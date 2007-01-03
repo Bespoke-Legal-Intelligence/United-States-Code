@@ -2,7 +2,7 @@
 
 (a) Whoever, being a fiduciary (as defined in section 5506 of this title) for the benefit of a minor, incompetent, or other beneficiary under laws administered by the Secretary, shall lend, borrow, pledge, hypothecate, use, or exchange for other funds or property, except as authorized by law, or embezzle or in any manner misappropriate any such money or property derived therefrom in whole or in part and coming into such fiduciary's control in any manner whatever in the execution of such fiduciary's trust, or under color of such fiduciary's office or service as such fiduciary, shall be fined in accordance with title 18, or imprisoned not more than five years, or both.
 
-(b) Any willful neglect or refusal to make and file proper accountings or reports concerning such money or property as required by law shallbe taken to be sufficient evidence prima facie of such embezzlement or misappropriation.
+(b) Any willful neglect or refusal to make and file proper accountings or reports concerning such money or property as required by law shall be taken to be sufficient evidence prima facie of such embezzlement or misappropriation.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1239, §3501; Pub. L. 99–576, title VII, §701(82), Oct. 28, 1986, 100 Stat. 3298; renumbered §6101, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(d)(7), June 13, 1991, 105 Stat. 286; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 103–446, title XII, §1201(e)(17), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 108–454, title V, §501(c), Dec. 10, 2004, 118 Stat. 3618.)
 

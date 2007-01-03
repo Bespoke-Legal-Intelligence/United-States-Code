@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B)(i) the Corporation does not submit a capital restoration plan that is approved by the Director; or
 
-&emsp;&emsp;(ii) the Director determines that the Corporation has failed to make, in good faith, reasonable efforts necessary to comply with such a capital restoration plan and fulfillthe schedule for the plan approved by the Director.
+&emsp;&emsp;(ii) the Director determines that the Corporation has failed to make, in good faith, reasonable efforts necessary to comply with such a capital restoration plan and fulfill the schedule for the plan approved by the Director.
 
 #### (b) Discretionary supervisory actions
 

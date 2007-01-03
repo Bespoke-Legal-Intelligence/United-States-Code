@@ -16,9 +16,13 @@ For purposes of sections 242q to 242q–5 of this title:
 
 &emsp;The term “Task Force” means the Task Force on Aging Research established under section 242q(a) of this title.
 
-(Pub. L. 101–557, title III, §305, Nov. 15, 1990, 104 Stat. 2770.)
+(Pub. L. 101–557, title III, §304, formerly §305, Nov. 15, 1990, 104 Stat. 2770; renumbered §304, Pub. L. 109–482, title I, §104(b)(3)(B), Jan. 15, 2007, 120 Stat. 3694.)
 
 #### Codification
 
 Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Prior Provisions
+
+A prior section 304 of Pub. L. 101–557 was classified to section 242q–3 of this title, prior to repeal by Pub. L. 109–482.
 

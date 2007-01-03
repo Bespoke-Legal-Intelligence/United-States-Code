@@ -6,5 +6,5 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### Effective Date
 
-Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992,see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
+Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
 

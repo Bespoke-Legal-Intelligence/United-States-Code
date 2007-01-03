@@ -1,8 +1,28 @@
 ### §2320. Trafficking in counterfeit goods or services
 
-(a) Whoever intentionally traffics or attempts to traffic in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services shall, if an individual, be fined not more than $2,000,000 or imprisoned not more than 10 years, or both, and, if a person other than an individual, be fined not more than $5,000,000. In the case of an offense by a person under this section that occurs after that person is convicted of another offense under this section, the person convicted, if an individual, shall be fined not more than $5,000,000 or imprisoned not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
+(a) Whoever intentionally traffics or attempts to traffic in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services, or intentionallytraffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive, shall, if an individual, be fined not more than $2,000,000 or imprisoned not more than 10 years, or both, and, if a person other than an individual, be fined not more than $5,000,000. In the case of an offense by a person under this section that occurs after that person is convicted of another offense under this section, the person convicted, if an individual, shall be fined not more than $5,000,000 or imprisoned not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
 
-(b) Upon a determination by a preponderance of the evidence that any articles in the possession of a defendant in a prosecution under this section bear counterfeit marks, the United States may obtain an order for the destruction of such articles.
+(b)(1) The following property shall be subject to forfeiture to the United States and no property right shall exist in such property:
+
+&emsp;(A) Any article bearing or consisting of a counterfeit mark used in committing a violation of subsection (a).
+
+&emsp;(B) Any property used, in any manner or part, to commit or to facilitate the commission of a violation of subsection (a).
+
+(2) The provisions of chapter 46 of this title relating to civil forfeitures, including section 983 of this title, shall extend to any seizure or civil forfeiture under this section. At the conclusion of the forfeiture proceedings, the court, unless otherwise requested by an agency of the United States, shall order that any forfeited article bearing or consisting of a counterfeit mark be destroyed or otherwise disposed of according to law.
+
+(3)(A) The court, in imposing sentence on a person convicted of an offense under this section, shall order, in addition to any other sentence imposed, that the person forfeit to the United States—
+
+&emsp;(i) any property constituting or derived from any proceeds the person obtained, directly or indirectly, as the result of the offense;
+
+&emsp;(ii) any of the person's property used, or intended to be used, in any manner or part, to commit, facilitate, aid, or abet the commission of the offense; and
+
+&emsp;(iii) any article that bears or consists of a counterfeit mark used in committing the offense.
+
+(B) The forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the procedures set forth in section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), other than subsection (d) of that section. Notwithstanding section 413(h) of that Act, at the conclusion of the forfeiture proceedings, the court shall order that any forfeited article or component of an article bearing or consisting of a counterfeit mark be destroyed.
+
+(4) When a person is convicted of an offense under this section, the court, pursuant to sections 3556, 3663A, and 3664, shall order the person to pay restitution to the owner of the mark and any other victim of the offense as an offense against property referred to in section 3663A(c)(1)(A)(ii).
+
+(5) The term “victim”, as used in paragraph (4), has the meaning given that term in section 3663A(a)(2).
 
 (c) All defenses, affirmative defenses, and limitations on remedies that would be applicable in an action under the Lanham Act shall be applicable in a prosecution under this section. In a prosecution under this section, the defendant shall have the burden of proof, by a preponderance of the evidence, of any such affirmative defense.
 
@@ -22,21 +42,27 @@
 
 &emsp;&emsp;(A) a spurious mark—
 
-&emsp;&emsp;&emsp;(i) that is used in connection with trafficking in goods or services;
+&emsp;&emsp;&emsp;(i) that is used in connection with trafficking in any goods, services, labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature;
 
-&emsp;&emsp;&emsp;(ii) that is identical with, or substantially indistinguishable from, a mark registered for those goods or services on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered; and
+&emsp;&emsp;&emsp;(ii) that is identical with, or substantially indistinguishable from, a mark registered on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered;
 
-&emsp;&emsp;&emsp;(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
+&emsp;&emsp;&emsp;(iii) that is applied to or used in connection with the goods or services for which the mark is registered with the United States Patent and Trademark Office, or is applied to or consists of a label, patch, sticker, wrapper, badge, emblem, medallion, charm, box, container, can, case, hangtag, documentation, or packaging of any type or nature that is designed, marketed, or otherwise intended to be used on or in connection with the goods or services for which the mark is registered in the United States Patent and Trademark Office; and
+
+&emsp;&emsp;&emsp;(iv) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
 
 &emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220506 of title 36;
 
-> &emsp;but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
+> &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied to labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation.<sup>1</sup>
 
-&emsp;(2) the term “traffic” means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and
+&emsp;(2) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of;
 
-&emsp;(3) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
+&emsp;(3) the term “financial gain” includes the receipt, or expected receipt, of anything of value; and
 
-(f)(1) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28, an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of this title), criminal infringement of copyrights (as defined in section 2319 of this title), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of this title), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of this title):
+&emsp;(4) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
+
+(f) Nothing in this section shall entitle the United States to bring a criminal cause of action under this section for the repackaging of genuine goods or services not intended to deceive or confuse.
+
+(g)(1) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28, an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of this title), criminal infringement of copyrights (as defined in section 2319 of this title), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of this title), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of this title):
 
 &emsp;(A) The number of open investigations.
 
@@ -64,21 +90,41 @@
 
 (C) The information required under subparagraph (A) shall be submitted in the report required in fiscal year 2005 and thereafter.
 
-(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778.)
+(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288.)
 
 #### References in Text
 
-The Lanham Act, referred to in subsecs. (c) and (e)(1)(B), (3), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Lanham Act, referred to in subsecs. (c) and (e)(1)(B), (4), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
 
-The date of enactment of this subsection, referred to in subsec. (f), is date of enactment of Pub. L. 104–153, which was approved July 2, 1996.
+The date of enactment of this subsection, referred to in subsec. (g)(1), is date of enactment of Pub. L. 104–153, which was approved July 2, 1996.
 
 #### Codification
 
 Another section 2320 was renumbered section 2321 of this title.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–181, §1(b)(1), inserted “, or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,” after “such goods or services”.
+
+Subsec. (b). Pub. L. 109–181, §1(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon a determination by a preponderance of the evidence that any articles in the possession of a defendant in a prosecution under this section bear counterfeit marks, the United States may obtain an order for the destruction of such articles.”
+
+Subsec. (e)(1). Pub. L. 109–181, §1(b)(3)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;”.
+
+Subsec. (e)(1)(A). Pub. L. 109–181, §1(b)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “a spurious mark—
+
+&emsp;“(i) that is used in connection with trafficking in goods or services;
+
+&emsp;“(ii) that is identical with, or substantially indistinguishable from, a mark registered for those goods or services on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered; and
+
+&emsp;“(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or”.
+
+Subsec. (e)(2). Pub. L. 109–181, §2(b)(1), added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and”.
+
+Subsec. (e)(3), (4). Pub. L. 109–181, §2(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+
+Subsecs. (f), (g). Pub. L. 109–181, §1(b)(4), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2002—Subsec. (e)(1)(B). Pub. L. 107–140 substituted “section 220506 of title 36” for “section 220706 of title 36”.
 
@@ -107,4 +153,24 @@ Pub. L. 105–354, §2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amend
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Findings
+
+Pub. L. 109–181, §1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that: “The Congress finds that—
+
+&emsp;“(A) the United States economy is losing millions of dollars in tax revenue and tens of thousands of jobs because of the manufacture, distribution, and sale of counterfeit goods;
+
+&emsp;“(B) the Bureau of Customs and Border Protection estimates that counterfeiting costs the United States $200 billion annually;
+
+&emsp;“(C) counterfeit automobile parts, including brake pads, cost the auto industry alone billions of dollars in lost sales each year;
+
+&emsp;“(D) counterfeit products have invaded numerous industries, including those producing auto parts, electrical appliances, medicines, tools, toys, office equipment, clothing, and many other products;
+
+&emsp;“(E) ties have been established between counterfeiting and terrorist organizations that use the sale of counterfeit goods to raise and launder money;
+
+&emsp;“(F) ongoing counterfeiting of manufactured goods poses a widespread threat to public health and safety; and
+
+&emsp;“(G) strong domestic criminal remedies against counterfeiting will permit the United States to seek stronger anticounterfeiting provisions in bilateral and international agreements with trading partners.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

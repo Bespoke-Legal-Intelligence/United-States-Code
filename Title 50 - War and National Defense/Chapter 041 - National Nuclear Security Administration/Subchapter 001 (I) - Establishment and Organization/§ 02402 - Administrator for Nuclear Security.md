@@ -124,7 +124,7 @@ Project Requirements.—A project may not be approved for the pilot program unle
 
 &emsp;“(ii) No funds or other resources expended before the start of the project or outside the project's scope of work may be credited toward the costs provided by non-Federal sources to the project.
 
-&emsp;“(3) The project (other than in the case of a project under which the participating laboratory or facilityreceives funding under this section) shall be competitively selected by that laboratory or facility using procedures determined to be appropriate by the Administrator.
+&emsp;“(3) The project (other than in the case of a project under which the participating laboratory or facility receives funding under this section) shall be competitively selected by that laboratory or facility using procedures determined to be appropriate by the Administrator.
 
 &emsp;“(4) No Federal funds shall be made available under this section for—
 

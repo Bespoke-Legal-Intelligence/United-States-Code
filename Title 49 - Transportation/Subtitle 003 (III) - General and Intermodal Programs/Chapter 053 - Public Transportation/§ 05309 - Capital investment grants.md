@@ -60,7 +60,7 @@ Certification.—An applicant that has submitted the certifications required und
 
 &emsp;(3)
 
-Grantee requirements.—The Secretary shall require that any grant awarded under this section to a recipient be subject to allterms, conditions, requirements, and provisions that the Secretary determines to be necessary or appropriate for the purposes of this section, including requirements for the disposition of net increases in the value of real property resulting from the project assisted under this section.
+Grantee requirements.—The Secretary shall require that any grant awarded under this section to a recipient be subject to all terms, conditions, requirements, and provisions that the Secretary determines to be necessary or appropriate for the purposes of this section, including requirements for the disposition of net increases in the value of real property resulting from the project assisted under this section.
 
 (d)
 
@@ -162,7 +162,7 @@ Evaluation criteria.—In assessing the stability, reliability, and availability
 
 &emsp;&emsp;(C)
 
-Consideration of fiscal capacity of state and local governments.—If the Secretary gives priority to financing projects under this subsection that include more than the non-Federal share required under subsection (h), the Secretary shall giveequal consideration to differences in the fiscal capacity of State and local governments.
+Consideration of fiscal capacity of state and local governments.—If the Secretary gives priority to financing projects under this subsection that include more than the non-Federal share required under subsection (h), the Secretary shall give equal consideration to differences in the fiscal capacity of State and local governments.
 
 &emsp;(5)
 
@@ -266,7 +266,7 @@ Evaluation.—In making the findings under subparagraph (A), the Secretary shall
 
 &emsp;(7)
 
-Contents of project construction grant agreement.—A project construction grant agreement under this subsection shall specify the scope of the project to be constructed, the estimated net project cost of the project, the schedule under which the projectshall be constructed, the maximum amount of funding to be obtained under this subsection, the proposed schedule for obligation of future Federal grants, and the sources of funding from other than the Government. The agreement may include a commitment on the part of the Secretary to provide funding for the project in future fiscal years.
+Contents of project construction grant agreement.—A project construction grant agreement under this subsection shall specify the scope of the project to be constructed, the estimated net project cost of the project, the schedule under which the project shall be constructed, the maximum amount of funding to be obtained under this subsection, the proposed schedule for obligation of future Federal grants, and the sources of funding from other than the Government. The agreement may include a commitment on the part of the Secretary to provide funding for the project in future fiscal years.
 
 &emsp;(8)
 
@@ -290,7 +290,7 @@ Impact report.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2005, the Federal Transit Administration shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the methodology to be used in evaluating the land use and economic development impacts of non-fixed guideway or partial fixed guideway projects.
+In general.—Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2005, the Federal Transit Administration shall submit tothe Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the methodology to be used in evaluating the land use and economic development impacts of non-fixed guideway or partial fixed guideway projects.
 
 &emsp;&emsp;(B)
 
@@ -382,7 +382,7 @@ Contents of plan.—The plan submitted under subclause (I) shall provide for—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) documentation of the predicted scope, service levels, capital costs, operating costs, and ridership of the project;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) collection of data on the transit system 2 years after the opening of the new fixed guideway capital project, including analogous information on transit service levels and ridership patterns and information on the as-built scope and capital costs of the project; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) collection of data on the transit system 2 years after the opening of the new fixed guideway capital project, including analogous information on transit service levels and ridership patterns and information on the as-builtscope and capital costs of the project; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) analysis of the consistency of predicted project characteristics with the after data.
 
@@ -432,7 +432,7 @@ Major capital investment grants contingent commitment authority.—The total est
 
 &emsp;&emsp;(B)
 
-Other contingent commitment authority.—The total estimated amount of future obligations of the Government and contingent commitments to incur obligationscovered by all project construction grant agreements and early system work agreements under this subsection for small capital projects described in subsection (e) may be not more than the greater of the amount allocated under subsection (m)(2)(A)(i) for such projects or an amount equivalent to the last fiscal year of funding allocated under such subsection for such projects, less an amount the Secretary reasonably estimates is necessary for grants under this section for those of such projects that are not covered by an agreement. The total amount covered by new contingent commitments included in project construction grant agreements and early systems work agreements for such projects may be not more than a limitation specified in law.
+Other contingent commitment authority.—The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all project construction grant agreements and early system work agreements under this subsection for small capital projects described in subsection (e) may be not more than the greater of the amount allocated under subsection (m)(2)(A)(i) for such projects or an amount equivalent to the last fiscal year of funding allocated under such subsection for such projects, less an amount the Secretary reasonably estimates is necessary for grants under this section for those of such projects that are not covered by an agreement. The total amount covered by new contingent commitments included in project construction grant agreements and early systems work agreements for such projects may be not more than a limitation specified in law.
 
 &emsp;&emsp;(C)
 
@@ -536,7 +536,7 @@ Annual report on funding recommendations.—Not later than the first Monday in F
 
 &emsp;&emsp;(B) evaluations and ratings, as required under subsections (d) and (e), for each such project that is authorized by the Federal Public Transportation Act of 2005; and
 
-&emsp;&emsp;(C) recommendations of such projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscal years based on information currently available to the Secretary.
+&emsp;&emsp;(C) recommendations of such projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscalyears based on information currently available to the Secretary.
 
 &emsp;(2)
 
@@ -616,7 +616,7 @@ Fixed guideway modernization.—The amounts made available under section 5338(b)
 
 &emsp;&emsp;(C)
 
-Buses and bus-related equipment and facilities.—The amounts made availableunder section 5338(b)(2)(E) shall be allocated for capital projects for buses and bus-related equipment and facilities.
+Buses and bus-related equipment and facilities.—The amounts made available under section 5338(b)(2)(E) shall be allocated for capital projects for buses and bus-related equipment and facilities.
 
 &emsp;(3)
 
@@ -928,7 +928,7 @@ Section 3039 of the Federal Public Transportation Act of 2005, referred to in su
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted ofsubsecs. (a) to (p) providing for grants and loans to assist State and local governmental authorities in financing capital projects related to fixed guideway systems, capital projects needed for an efficient and coordinated mass transportation system, the capital costs of coordinating mass transportation with other transportation, the introduction of new technology, and mass transportation projects to meet the special needs of elderly individuals and individuals with disabilities.
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (p) providing for grants and loans to assist State and local governmental authorities in financing capital projects related to fixed guideway systems, capital projects needed for an efficient and coordinated mass transportation system, the capital costs of coordinating mass transportation with other transportation, the introduction of new technology, and mass transportation projects to meet the special needs of elderly individuals and individuals with disabilities.
 
 Subsec. (m)(1). Pub. L. 109–40, §7(a)(1), substituted “July 30, 2005” for “July 27, 2005” in introductory provisions.
 
@@ -1222,7 +1222,7 @@ Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by
 
 #### Encouragement of Adversely Affected Industries To Compete for Contracts
 
-Pub. L. 91–453, §10, Oct. 15, 1970, 84 Stat. 968, as amended by Pub. L. 102–240, title III, §3003(b), Dec. 18,1991, 105 Stat. 2088, provided that: “The Secretary of Transportation shall in all ways (including the provision of technical assistance) encourage industries adversely affected by reductions in Federal Government spending on space, military, and other Federal projects to compete for the contracts provided for under sections 3 and 6 of the Federal Transit Act (49 U.S.C. 1602 and 1605) \[now 49 U.S.C. 5309 and 5312\], as amended by this Act.”
+Pub. L. 91–453, §10, Oct. 15, 1970, 84 Stat. 968, as amended by Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, provided that: “The Secretary of Transportation shall in all ways (including the provision of technical assistance) encourage industries adversely affected by reductions in Federal Government spending on space, military, and other Federal projects to compete for the contracts provided for under sections 3 and 6 of the Federal Transit Act (49 U.S.C. 1602 and 1605) \[now 49 U.S.C. 5309 and 5312\], as amended by this Act.”
 
 <i><sup>1</sup></i><i> See References in text note below.</i>
 

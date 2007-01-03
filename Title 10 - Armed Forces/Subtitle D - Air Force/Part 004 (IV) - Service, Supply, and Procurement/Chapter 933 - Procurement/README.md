@@ -30,3 +30,8 @@
 - [&sect; 09537, 9538 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;823(6), (7), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2009537%2C%209538%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7823%286%29%2C%20%287%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
 - [&sect; 09540 - Architectural and engineering services](%C2%A7%2009540%20-%20Architectural%20and%20engineering%20services.md)
 - [&sect; 09541 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;822(d)(2), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2009541%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7822%28d%29%282%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
+- [&sect; 09561 - Rations](%C2%A7%2009561%20-%20Rations.md)
+- [&sect; 09562 - Clothing](%C2%A7%2009562%20-%20Clothing.md)
+- [&sect; 09563 - Clothing replacement when destroyed to prevent contagion](%C2%A7%2009563%20-%20Clothing%20replacement%20when%20destroyed%20to%20prevent%20contagion.md)
+- [&sect; 09564 - Navy and Marine Corps camp equipment and transportation; when on shore duty with Air Force](%C2%A7%2009564%20-%20Navy%20and%20Marine%20Corps%20camp%20equipment%20and%20transportation%3B%20when%20on%20shore%20duty%20with%20Air%20Force.md)
+- [&sect; 09565 - Colors, standards, and guidons of demobilized organizations disposition](%C2%A7%2009565%20-%20Colors%2C%20standards%2C%20and%20guidons%20of%20demobilized%20organizations%20disposition.md)

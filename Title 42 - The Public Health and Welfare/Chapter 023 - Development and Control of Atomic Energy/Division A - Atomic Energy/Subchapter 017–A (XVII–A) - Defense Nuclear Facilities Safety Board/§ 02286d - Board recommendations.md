@@ -6,7 +6,7 @@ Subject to subsections (g) and (h) of this section and after receipt by the Secr
 
 #### (b) Response by Secretary
 
-(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whether the Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under section 2286a of this title, a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energy shall transmit his response to the Board within 45 days after the date of the publication, under subsection (a) of this section, of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
+(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whether the Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under section 2286a of this title, a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energyshall transmit his response to the Board within 45 days after the date of the publication, under subsection (a) of this section, of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
 
 (2) At the same time as the Secretary of Energy transmits his response to the Board under paragraph (1), the Secretary, subject to subsection (h) of this section, shall publish such response, together with a request for public comment on his response, in the Federal Register.
 
@@ -30,7 +30,7 @@ The Secretary of Energy shall prepare a plan for the implementation of each Boar
 
 (1) Subject to paragraph (2), not later than one year after the date on which the Secretary of Energy transmits an implementation plan with respect to a recommendation (or part thereof) under subsection (e) of this section, the Secretary shall carry out and complete the implementation plan. If complete implementation of the plan takes more than 1 year, the Secretary of Energy shall submit a report to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives setting forth the reasons for the delay and when implementation will be completed.
 
-(2) If the Secretary of Energy determines that the implementation of a Board recommendation\(or part thereof) is impracticable because of budgetary considerations, or that the implementation would affect the Secretary's ability to meet the annual nuclear weapons stockpile requirements established pursuant to section 2121 of this title, the Secretary shall submit to the President, to the Committees on Armed Services and on Appropriations of the Senate, and to the Speaker of the House of Representatives a report containing the recommendation and the Secretary's determination.
+(2) If the Secretary of Energy determines that the implementation of a Board recommendation (or part thereof) is impracticable because of budgetary considerations, or that the implementation would affect the Secretary's ability to meet the annual nuclear weapons stockpile requirements established pursuant to section 2121 of this title, the Secretary shall submit to the President, to the Committees on Armed Services and on Appropriations of the Senate, and to the Speaker of the House of Representatives a report containing the recommendation and the Secretary's determination.
 
 #### (g) Imminent or severe threat
 

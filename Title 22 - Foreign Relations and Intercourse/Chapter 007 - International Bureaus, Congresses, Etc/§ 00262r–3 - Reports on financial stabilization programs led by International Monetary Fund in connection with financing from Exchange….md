@@ -6,7 +6,7 @@ The Secretary of the Treasury, in consultation with the Secretary of Commerce an
 
 &emsp;(1) A description of the condition of the economies of countries requiring the financial stabilization programs, including the monetary, fiscal, and exchange rate policies of the countries.
 
-&emsp;(2) A description of the degree to which the countries requiring the financial stabilizationprograms have fully implemented financial sector restructuring and reform measures required by the International Monetary Fund, including—
+&emsp;(2) A description of the degree to which the countries requiring the financial stabilization programs have fully implemented financial sector restructuring and reform measures required by the International Monetary Fund, including—
 
 &emsp;&emsp;(A) ensuring full respect for the commercial orientation of commercial bank lending;
 

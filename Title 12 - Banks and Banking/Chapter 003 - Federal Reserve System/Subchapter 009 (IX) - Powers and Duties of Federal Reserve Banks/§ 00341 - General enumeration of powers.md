@@ -44,5 +44,5 @@ Section 201 of act Aug. 23, 1935, provided that the amendment made by that secti
 
 #### Transfer of Functions
 
-For transfer of functions to Secretary of the Treasury, see note under section 121 of this title.
+For transfer of functions to Secretary of the Treasury, see note under section 55 of this title.
 

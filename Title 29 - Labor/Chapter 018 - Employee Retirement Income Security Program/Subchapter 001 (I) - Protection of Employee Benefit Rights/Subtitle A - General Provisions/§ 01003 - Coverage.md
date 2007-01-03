@@ -32,10 +32,6 @@ If a pension plan allows an employee to elect to make voluntary employee contrib
 
 (Pub. L. 93–406, title I, §4, Sept. 2, 1974, 88 Stat. 839; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–191, title I, §101(d), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(A), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 107–16, title VI, §602(b), June 7, 2001, 115 Stat. 96; Pub. L. 107–147, title IV, §411(i)(2), Mar. 9, 2002, 116 Stat. 47.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 Part 5 of subtitle B of this subchapter, referred to in subsec. (c), was in the original a reference to “part 5” and was translated as meaning part 5 of subtitle B of title I of Pub. L. 93–406, to reflect the probable intent of Congress.
@@ -44,9 +40,9 @@ Part 5 of subtitle B of this subchapter, referred to in subsec. (c), was in the 
 
 2002—Subsec. (c). Pub. L. 107–147 inserted “and part 5 of subtitle B of this subchapter (relating to administration and enforcement)” after “co-fiduciary responsibilities)” and “Such provisions shall apply to such accounts and annuities in a manner similar to their application to a simplified employee pension under section 408(k) of title 26.” at end.
 
-2001—Subsec. (a). Pub. L. 107–16, §§602(b)(2), 901, temporarily inserted “or (c)” after “subsection (b)” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a). Pub. L. 107–16, §602(b)(2), inserted “or (c)” after “subsection (b)” in introductory provisions.
 
-Subsec. (c). Pub. L. 107–16, §§602(b)(1), 901, temporarily added subsec. (c). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c). Pub. L. 107–16, §602(b)(1), added subsec. (c).
 
 1996—Subsec. (b). Pub. L. 104–204, in concluding provisions, made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 
@@ -58,11 +54,9 @@ Pub. L. 104–191 inserted at end “The provisions of part 7 of subtitle B of t
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2002, see section 602(c) of Pub. L. 107–16, set out as a note under section 408 of Title 26, Internal Revenue Code.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendments
 
@@ -72,5 +66,5 @@ Amendment by Pub. L. 104–191 applicable with respect to group health plans for
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

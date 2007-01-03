@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §311 (July 26, 1935, ch. 417, §11, 49 Stat. 503; June 19, 1937, ch. 369, 50 Stat. 304; 1939 Reorg. Plan No. II, §202, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1435; Dec. 10, 1942, ch. 717, §2, 56 Stat. 1045; June 30, 1949, ch. 288, title I, §104(b), 63 Stat. 381; Aug. 5, 1953, ch. 333, 67 Stat. 388; Dec. 2, 1963, Pub. L. 88–190, §1, 77 Stat. 343).
+Based on 44 U.S. Code, 1964 ed., §311 (July 26, 1935, ch. 417, §11, 49 Stat. 503; June 19, 1937, ch. 369, 50 Stat. 304;1939 Reorg. Plan No. II, §202, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1435; Dec. 10, 1942, ch. 717, §2, 56 Stat. 1045; June 30, 1949, ch. 288, title I, §104(b), 63 Stat. 381; Aug. 5, 1953, ch. 333, 67 Stat. 388; Dec. 2, 1963, Pub. L. 88–190, §1, 77 Stat. 343).
 
 #### Retroactive and Prospective Application
 

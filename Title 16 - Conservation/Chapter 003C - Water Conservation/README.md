@@ -15,24 +15,13 @@
 | 590y. | Authorization and purpose of investigation, construction, and maintenance of projects; title to projects; limitation on costs. |
 | 590z. | Utilization of services, materials, funds, etc., of Federal, State, or municipal agencies, or of individuals. |
 | 590z–1. | Prerequisites for construction of project. |
-| (a) | Investigation and report to President. |
-| (b) | Construction of physical features. |
-| (c) | Division of project. |
 | 590z–2. | Repayment contracts. |
-| (a) | Necessity. |
-| (b) | “Reimbursable construction costs” defined. |
-| (c) | Terms. |
 | 590z–3. | Settlement of projects on agricultural basis. |
-| (a) | Rehabilitation; stabilization of agricultural economy; maximum utilization of funds. |
-| (b) | Utilization of other agencies. |
-| (c) | Advertisement for purchases or services. |
 | 590z–4. | Cooperative agreements with other agencies. |
 | 590z–5. | Repealed. |
 | 590z–6. | Disposition of receipts from repayment contracts and project operations. |
 | 590z–7. | Provisions for furnishing surplus power and municipal or miscellaneous water supplies. |
 | 590z–8. | Authority of Secretary of the Interior over lands, contracts, water rights, etc. |
-| (a) | Utilization of lands. |
-| (b) | Contracts, land acquisitions, etc. |
 | 590z–9. | Powers and duties of Secretaries of the Interior and Agriculture; rules and regulations. |
 | 590z–10. | Authorization of appropriations. |
 | 590z–11. | Delegation of powers and duties by Secretary of the Interior. |

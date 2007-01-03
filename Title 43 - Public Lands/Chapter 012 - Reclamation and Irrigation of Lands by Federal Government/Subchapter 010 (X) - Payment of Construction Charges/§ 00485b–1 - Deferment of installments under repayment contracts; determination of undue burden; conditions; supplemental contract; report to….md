@@ -1,6 +1,6 @@
 ### §485b–1. Deferment of installments under repayment contracts; determination of undue burden; conditions; supplemental contract; report to Congress
 
-(a) The authority granted in section 485b of this title for modification of existing repayment contracts or other forms of obligations to pay construction charges shall continue through December 31, 1960.
+(a) The authority granted in section 485b of this title for modification of existing repaymentcontracts or other forms of obligations to pay construction charges shall continue through December 31, 1960.
 
 (b) The Secretary is authorized, subject to the provisions of this subsection to defer the time for the payment of such part of any installments of construction charges under any repayment contract or other form of obligation as he deems necessary to adjust such installments to amounts within the probable ability of the water users to pay. Any such deferment shall be effected only after findings by the Secretary that the installments under consideration probably cannot be paid on their due date without undue burden on the water users, considering the various factors which in the Secretary's judgment bear on the ability of the water users so to pay.
 
@@ -16,7 +16,7 @@ The Secretary may effect the deferments hereunder subject to such conditions and
 
 1945—Subsec. (a). Act Apr. 24, 1945, extended authority for modification of existing repayment contracts or other forms of obligations to pay construction charges through Dec. 31, 1950, or Dec. 31 of the fifth full calendar year after the cessation of hostilities of World War II, as determined by proclamation of the President or concurrent resolution of Congress, whichever period was the longer.
 
-Subsec. (b). Act Apr. 24, 1945, authorized Secretary, subject to provisions of this subsection, to defer the time for the payment of such part of any installmentsof construction charges under any repayment contract or other form of obligation that are due and unpaid as of Apr. 24, 1945, or which would become due prior to the expiration of authority under subsec. (a).
+Subsec. (b). Act Apr. 24, 1945, authorized Secretary, subject to provisions of this subsection, to defer the time for the payment of such part of any installments of construction charges under any repayment contract or other form of obligation that are due and unpaid as of Apr. 24, 1945, or which would become due prior to the expiration of authority under subsec. (a).
 
 #### Applicability to Other Irrigation Projects
 

@@ -12,7 +12,7 @@
 
 &emsp;(D) Employ such personnel as may be necessary to conduct the business of the Service.
 
-&emsp;(E) For the period of October 1, 1991 through September 30, 1992, only, retain and use all earned and unearned monies heretofore orhereafter received, including receipts, revenues, and advanced payments and deposits, to fund all obligations and expenses, including inventories and capital equipment.
+&emsp;(E) For the period of October 1, 1991 through September 30, 1992, only, retain and use all earned and unearned monies heretofore or hereafter received, including receipts, revenues, and advanced payments and deposits, tofund all obligations and expenses, including inventories and capital equipment.
 
 > An increase or decrease in the personnel of the Service shall not affect or be affected by any ceilings on the number or grade of personnel.
 
@@ -88,7 +88,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 &emsp;(B) any joint venture or cooperative agreement which involves a financial incentive to the joint venturer or contractor; and
 
-&emsp;(C) any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
+&emsp;(C) any change in the operating plan submitted under paragraph (3)(B) which would resultin a variation from such plan with respect to expense levels of more than 10 percent.
 
 (Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27.)
 

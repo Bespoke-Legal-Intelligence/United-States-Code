@@ -8,7 +8,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(3) The term “public lands” means land situated in Alaska which, after December 2, 1980, are Federal lands, except—
 
-&emsp;&emsp;(A) land selections of the State of Alaska which have been tentatively approved or validly selected under the Alaska Statehood Act and lands which have been confirmed to,validly selected by, or granted to the Territory of Alaska or the State under any other provision of Federal law;
+&emsp;&emsp;(A) land selections of the State of Alaska which have been tentatively approved or validly selected under the Alaska Statehood Act and lands which have been confirmed to, validly selected by, or granted to the Territory of Alaska or the State under any other provision of Federal law;
 
 &emsp;&emsp;(B) land selections of a Native Corporation made under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which have not been conveyed to a Native Corporation, unless any such selection is determined to be invalid or is relinquished; and
 
@@ -58,7 +58,7 @@ The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964
 
 #### Amendments
 
-1997—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or otherprivate ownership.”, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.”, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 

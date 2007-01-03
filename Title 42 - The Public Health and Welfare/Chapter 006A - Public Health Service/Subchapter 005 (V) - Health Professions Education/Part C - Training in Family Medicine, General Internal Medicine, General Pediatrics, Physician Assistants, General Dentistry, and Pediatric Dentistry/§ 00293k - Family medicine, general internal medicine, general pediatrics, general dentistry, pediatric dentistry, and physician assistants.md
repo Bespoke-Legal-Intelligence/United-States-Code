@@ -10,7 +10,7 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 &emsp;(3) to plan, develop, and operate a program for the training of physicians who plan to teach in family medicine (including geriatrics), general internal medicine or general pediatrics training programs;
 
-&emsp;(4) to provide financial assistance (in the form of traineeships and fellowships) to physicians who are participants in any such program and who plan to teach in a family medicine (including geriatrics), general internalmedicine or general pediatrics training program;
+&emsp;(4) to provide financial assistance (in the form of traineeships and fellowships) to physicians who are participants in any such program and who plan to teach in a family medicine (including geriatrics), general internal medicine or general pediatrics training program;
 
 &emsp;(5) to meet the costs of projects to plan, develop, and operate or maintain programs for the training of physician assistants (as defined in section 295p of this title), and for the training of individuals who will teach in programs to provide such training; and
 
@@ -58,7 +58,7 @@ The period during which payments are made to an entity from an award of a grant 
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this section, there is authorized to be appropriated $78,300,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
+&emsp;For the purpose of carrying out this section, there is authorized to be appropriated$78,300,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
 
 #### (2) Allocation
 

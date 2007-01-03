@@ -114,11 +114,11 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (C) Exception for derivative actions
 
-&emsp;&emsp;Notwithstanding subparagraph (B), the term “covered class action” does not includean exclusively derivative action brought by one or more shareholders on behalf of a corporation.
+&emsp;&emsp;Notwithstanding subparagraph (B), the term “covered class action” does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
 
 #### (D) Counting of certain class members
 
-&emsp;&emsp;For purposes of this paragraph, a corporation, investment company, pension plan, partnership, or other entity, shall be treated as one person or prospective class member, but only if the entity is not established for the purpose of participating in the action.
+&emsp;&emsp;For purposes of this paragraph, a corporation, investment company, pension plan, partnership, or other entity, shall be treated as one person or prospective class member,but only if the entity is not established for the purpose of participating in the action.
 
 #### (E) Covered security
 

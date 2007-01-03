@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY
 
-<i><sup>1</sup></i><i> So in original. The word “is” probably should not appear.</i>
-
 
 ---
 

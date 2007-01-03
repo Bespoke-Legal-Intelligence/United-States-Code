@@ -14,7 +14,13 @@
 
 (e) Except to the extent that the Office may prescribe by regulation, nothing in section 7351 shall apply to any solicitation, donation, or acceptance of leave under this section.
 
-(f) The Office shall prescribe regulations necessary for the administration of this section.
+(f) After consultation with the Administrative Office of the United States Courts, the Office of Personnel Management shall provide for the participation of employees in the judicial branch in any emergency leave transfer program under this section.
 
-(Added Pub. L. 105–18, title II, §9004(a), June 12, 1997, 111 Stat. 196.)
+(g) The Office shall prescribe regulations necessary for the administration of this section.
+
+(Added Pub. L. 105–18, title II, §9004(a), June 12, 1997, 111 Stat. 196; amended Pub. L. 109–229, §1, May 31, 2006, 120 Stat. 390.)
+
+#### Amendments
+
+2006—Subsecs. (f), (g). Pub. L. 109–229 added subsec. (f) and redesignated former subsec. (f) as (g).
 

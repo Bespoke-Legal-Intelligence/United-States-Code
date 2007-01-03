@@ -4,7 +4,17 @@
 
 (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
-(c) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from his pay in monthly installments. However, after the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized by law to be withheld, the deductions authorized by this section may not reduce the pay actually received for any month to less than one-third of his pay for that month.
+(c)(1) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from the member's pay in monthly installments.
+
+(2) After the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized by law to be withheld, the deductions authorized by this section may not reduce the pay actually received by a member of the uniformed services for any month to less than one-third of the member's pay for that month.
+
+(3) If the indebtedness of a member of the uniformed services to the United States is due to the overpayment of pay or allowances to the member through no fault of the member, the amount of the overpayment shall be recovered in monthly installments. The amount deducted from the pay of the member for a month to recover the overpayment amount may not exceed 20 percent of the member's pay for that month unless the member requests or consents to collection of the overpayment at an accelerated rate.
+
+(4) If a member of the uniformed services is injured or wounded under the circumstances described in section 310(a)(2)(C) of this title or, while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
+
+&emsp;(A) the end of the 90-day period beginning on the date on which the member is notified of the overpayment; or
+
+&emsp;(B) such earlier date as may be requested or agreed to by the member.
 
 (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
 
@@ -32,7 +42,7 @@
 
 (5) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109–364, div. A, title VI, §674, Oct. 17, 2006, 120 Stat. 2272.)
 
 Historical and Revision Notes
 
@@ -131,6 +141,8 @@ Historical and Revision Notes
 Provisions similar to those in subsec. (i) of this section were contained in section 44c of Title 24, Hospitals and Asylums, prior to repeal by Pub. L. 101–189, §347(4).
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–364 designated existing provisions as pars. (1) and (2), in pars. (1) and (2) substituted “the member's pay” for “his pay”, in par. (2) substituted “After” for “However, after” and inserted “by a member of the uniformed services” after “actually received”, and added pars. (3) and (4).
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 

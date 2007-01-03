@@ -36,7 +36,7 @@ The Panel is authorized to appoint as many administrative law judges as are nece
 
 (2) The Panel shall make an annual report, in writing, to the Secretary for transmittal by him to the Congress concerning the achievement of its purposes, and any other relevant information (including any recommendations) which it deems appropriate.
 
-(Pub. L. 91–173, §5, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, §102(d), Nov. 9, 1977, 91 Stat. 1291; Pub. L. 95–251, §2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 91–173, §5, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, §102(d), Nov. 9, 1977, 91 Stat.1291; Pub. L. 95–251, §2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Amendments
 

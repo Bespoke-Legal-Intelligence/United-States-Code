@@ -6,7 +6,7 @@ Place of Primary Use.—A home service provider shall be responsible for obtaini
 
 &emsp;(1) allow a home service provider to rely on the applicable residential or business street address supplied by the home service provider's customer; and
 
-&emsp;(2) not hold a home service provider liable for any additional taxes, charges, or fees based on a different determination of the place of primary use for taxes, charges, or fees that are customarily passed on to the customer as a separate itemized charge.
+&emsp;(2) not hold a home service provider liable for any additional taxes, charges, or fees basedon a different determination of the place of primary use for taxes, charges, or fees that are customarily passed on to the customer as a separate itemized charge.
 
 (b)
 

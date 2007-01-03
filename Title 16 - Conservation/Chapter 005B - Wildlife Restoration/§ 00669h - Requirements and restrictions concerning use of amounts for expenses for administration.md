@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
+&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that availableamounts under section 669c(a)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
 
 &emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
@@ -58,7 +58,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of the Interior shall procure the performance ofbiennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
+&emsp;The Inspector General of the Department of the Interior shall procure the performance of biennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
 
 #### (2) Auditor
 

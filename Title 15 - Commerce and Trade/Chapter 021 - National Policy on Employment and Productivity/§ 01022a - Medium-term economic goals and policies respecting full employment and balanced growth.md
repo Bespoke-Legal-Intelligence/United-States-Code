@@ -6,7 +6,7 @@ In each Economic Report after October 27, 1978, the President shall incorporate 
 
 #### (b) Interim numerical goals for initial Economic Reports
 
-The medium-term goals in the first three Economic Reports and, subject to the provisions of subsection (d) of this section, in each Economic Report thereafter shall include (as part of the five-year goals in each Economic Report) interim numerical goals for—
+The medium-term goals in the first three Economic Reports and, subject to the provisions of subsection (d) of this section, in each EconomicReport thereafter shall include (as part of the five-year goals in each Economic Report) interim numerical goals for—
 
 &emsp;(1) reducing the rate of unemployment, as set forth pursuant to section 1022(d) of this title, to not more than 3 per centum among individuals aged twenty and over and 4 per centum among individuals aged sixteen and over within a period not extending beyond the fifth calendar year after the first such Economic Report;
 

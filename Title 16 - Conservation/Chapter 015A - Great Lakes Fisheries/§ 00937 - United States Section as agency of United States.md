@@ -1,6 +1,6 @@
 ### §937. United States Section as agency of United States
 
-The United States Section shall, for the purposes of these <sup>1</sup> provisions of title 28, relating toclaims against the United States and tort claims procedure, be deemed to be an agency of the United States.
+The United States Section shall, for the purposes of these <sup>1</sup> provisions of title 28, relating to claims against the United States and tort claims procedure, be deemed to be an agency of the United States.
 
 (June 4, 1956, ch. 358, §8, 70 Stat. 243.)
 

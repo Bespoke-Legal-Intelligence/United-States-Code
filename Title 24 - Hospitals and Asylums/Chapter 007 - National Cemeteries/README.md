@@ -4,16 +4,13 @@
 | :--- | ---: |
 | 271 to 295. Repealed or Omitted. |  |
 | [295a.](%C2%A7%2000295a%20-%20Arlington%20Memorial%20Amphitheater.md) | Arlington Memorial Amphitheater. |
-| (a) | Recommendations of Secretary of Defense for memorials and entombments. |
-| (b) | Specific authorization from Congress. |
-| (c) | Character of memorials. |
 | [296\.](%C2%A7%2000296%20-%20Repealed.%20Pub.%20L.%2093%E2%80%9343%2C%20%C2%A77%28a%29%289%29%2C%20June%2018%2C%201973%2C%2087%20Stat.%2082.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Transfer of Functions
 
-Section 2 of Ex. Ord. No. 6166, June 10, 1933, as amended by Ex. Ord. No. 6229, July 27, 1934; Ex. Ord. No. 6614, Feb. 26, 1934; Ex. Ord. No. 6690, Apr. 25, 1934, set out as a note to section 901 of Title 5, Government Organization and Employees, transferred all functions of administrator of certain historical national cemeteries located within the continental limits of the United States, including certain cemeteries administered by the War Department to the Director of National Parks, Buildings, and Reservations in the Department of the Interior.
+Section 2 of Ex. Ord. No. 6166, June 10, 1933, as amended by Ex. Ord. No. 6229, July 27, 1934; Ex. Ord. No. 6614, Feb. 26, 1934; Ex. Ord. No. 6690, Apr. 25, 1934, set out as a note to section 901 of Title 5, Government Organization and Employees, transferred all functions of administrator of certain historical national cemeteries located within the continental limits of the United States, including certain cemeteries administered by the War Department to the Director of National Parks,Buildings, and Reservations in the Department of the Interior.
 
 By Ex. Ord. No. 6228, July 28, 1933, also set out as a note to section 901 of Title 5, the operation of Executive Order No. 6166 as to the transfer of the specified national cemeteries was postponed until further order, except with regard to the following cemeteries located within the continental limits of the United States:
 

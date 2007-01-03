@@ -4,7 +4,7 @@
 
 The Commission shall insure that the management of any byproduct material, as defined in section 2014(e)(2) of this title, is carried out in such manner as—
 
-&emsp;(1) the Commission deems appropriate to protect the public health and safety and theenvironment from radiological and non-radiological hazards associated with the processing and with the possession and transfer of such material, taking into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate,,<sup>1</sup>
+&emsp;(1) the Commission deems appropriate to protect the public health and safety and the environment from radiological and non-radiological hazards associated with the processing and with the possession and transfer of such material, taking into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate,,<sup>1</sup>
 
 &emsp;(2) conforms with applicable general standards promulgated by the Administrator of the Environmental Protection Agency under section 2022 of this title, and
 
@@ -39,8 +39,4 @@ Subsec. (c). Pub. L. 97–415, §20, added subsec. (c).
 #### Effective Date
 
 Section effective Nov. 8, 1978, see section 208 of Pub. L. 95–604, set out as an Effective Date of 1978 Amendment note under section 2014 of this title.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

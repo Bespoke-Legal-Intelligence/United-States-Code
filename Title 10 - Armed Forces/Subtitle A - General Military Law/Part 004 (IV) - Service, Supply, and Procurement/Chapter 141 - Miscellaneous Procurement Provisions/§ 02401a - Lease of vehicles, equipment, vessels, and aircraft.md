@@ -68,7 +68,7 @@ Multiyear Aircraft Lease Pilot Program Defined.—In this section, the term ‘m
 
 “(e)
 
-Sense of Congress.—It is the sense of Congress that, in budgeting for a program to acquire new tanker aircraft for the Air Force, the President should ensure that sufficient budgetary resources are provided to theDepartment of Defense to fully execute the program and to further ensure that all other critical defense programs are fully and properly funded.
+Sense of Congress.—It is the sense of Congress that, in budgeting for a program to acquire new tanker aircraft for the Air Force, the President should ensure that sufficient budgetary resources are provided to the Department of Defense to fully execute the program and to further ensure that all other critical defense programs are fully and properly funded.
 
 “(f)
 
@@ -118,7 +118,7 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as
 
 “(f) The authority provided under this section may be used to lease not more than a total of 100 Boeing 767 aircraft and 4 Boeing 737 aircraft for the purposes specified herein.
 
-“(g) Notwithstanding any other provision of law, any payments required for a lease entered into under this Section, or any payments made pursuant to subsection (c)(3) above, may be made from appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the lease takes effect; appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the payment is due; or funds appropriated for those payments.”
+“(g) Notwithstanding any other provision of law, any payments required for a lease entered into under thisSection, or any payments made pursuant to subsection (c)(3) above, may be made from appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the lease takes effect; appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the payment is due; or funds appropriated for those payments.”
 
 Pub. L. 106–79, title VIII, §8133, Oct. 25, 1999, 113 Stat. 1267, provided that:
 
@@ -172,33 +172,5 @@ Pub. L. 105–262, title VIII, §8126, Oct. 17, 1998, 112 Stat. 2333, provided t
 
 #### Pilot Program for Leasing Commercial Utility Cargo Vehicles
 
-Section 807(c) of Pub. L. 104–106, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
-
-“(1) The Secretary of the Army may conduct a pilot program for leasing commercial utility cargo vehicles in accordance with this subsection.
-
-“(2) Under the pilot program—
-
-&emsp;“(A) the Secretary may trade existing commercial utility cargo vehicles of the Army for credit against the costs of leasing new replacement commercial utility cargo vehicles for the Army;
-
-&emsp;“(B) the quantities and trade-in value of commercial utility cargo vehicles to be traded in shall be subject to negotiation between the Secretary and the lessors of the new replacement commercial utility cargo vehicles;
-
-&emsp;“(C) the lease agreement for a new commercial utility cargo vehicle may be executed with or without an option to purchase at the end of the lease period;
-
-&emsp;“(D) the lease period for a new commercial utility cargo vehicle may not exceed the warranty period for the vehicle; and
-
-&emsp;“(E) up to 40 percent of the validated requirement for commercial utility cargo vehicles may be satisfied by leasing such vehicles, except that one or more options for satisfying the remainder of the validated requirement may be provided for and exercised (subject to the requirements of paragraph (6)).
-
-“(3) In awarding contracts under the pilot program, the Secretary shall comply with section 2304 of title 10, United States Code.
-
-“(4) The pilot program may not be commenced until—
-
-&emsp;“(A) the Secretary submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report that contains the plans of the Secretary for implementing the program and that sets forth in detail the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles; and
-
-&emsp;“(B) a period of 30 calendar days has elapsed after submission of such report.
-
-“(5) Not later than one year after the date on which the first lease under the pilot program is entered into, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the status of the pilot program. Such report shall be based on at least six months of experience in operating the pilot program.
-
-“(6) The Secretary may exercise an option provided for under paragraph (2) only after a period of 60 days has elapsed after the submission of the report.
-
-“(7) No lease of commercial utility cargo vehicles may be entered into under the pilot program after September 30, 2000.”
+Pub. L. 104–106, div. A, title VIII, §807(c), Feb. 10, 1996, 110 Stat. 392, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, authorized the Secretary of the Army to conduct a pilot program for leasing commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report prior to commencement of the program containing plans for its implementation and setting forth the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report on the status of the program not later than one year after the date on which the first lease under the program had been entered into, and provided that no lease could be entered into under the program after Sept. 30, 2000.
 

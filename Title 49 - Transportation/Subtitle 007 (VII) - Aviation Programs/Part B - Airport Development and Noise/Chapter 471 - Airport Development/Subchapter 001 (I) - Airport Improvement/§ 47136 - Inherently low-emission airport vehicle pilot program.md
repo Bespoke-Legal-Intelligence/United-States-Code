@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall carry out a pilot program at notmore than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding any other provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
+In General.—The Secretary of Transportation shall carry out a pilot program at not more than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding anyother provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
 
 (b)
 

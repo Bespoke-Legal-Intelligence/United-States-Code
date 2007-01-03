@@ -2,7 +2,7 @@
 
 (a) The notice required by section 342 of this title to customers shall instruct each customer—
 
-&emsp;(1) to file a proof of such customer's claim promptly, and to specify in such claim anyspecifically identifiable security, property, or commodity contract; and
+&emsp;(1) to file a proof of such customer's claim promptly, and to specify in such claim any specifically identifiable security, property, or commodity contract; and
 
 &emsp;(2) to instruct the trustee of such customer's desired disposition, including transfer under section 766 of this title or liquidation, of any commodity contract specifically identified to such customer.
 

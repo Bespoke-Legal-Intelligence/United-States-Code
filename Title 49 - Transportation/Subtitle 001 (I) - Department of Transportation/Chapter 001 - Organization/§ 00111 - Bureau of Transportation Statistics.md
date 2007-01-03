@@ -88,7 +88,7 @@ Information Needs Assessment.—
 
 &emsp;(1)
 
-In general.—Not later than 60 days after the date of enactment of the SAFETEA–LU, the Secretary shall enter into an agreement with the National Research Council to develop and publish a National<sup>1</sup> transportation information needs assessment (referred to in this subsection as the “assessment”). The assessment shall be submitted to the Secretary and the appropriate committees of Congress not later than 24 months after such agreement is entered into.
+In general.—Not later than 60 days after the date of enactment of the SAFETEA–LU, the Secretary shall enter into an agreement with the National Research Council to develop and publish a National <sup>1</sup> transportation information needs assessment (referred to in this subsection as the “assessment”). The assessment shall be submitted to the Secretary and the appropriate committees of Congress not later than 24 months after such agreement is entered into.
 
 &emsp;(2)
 
@@ -226,7 +226,7 @@ Copies of reports.—
 
 &emsp;&emsp;(A)
 
-In general.—No department, bureau, agency, officer, or employee of the UnitedStates (except the Director in carrying out this section) may require, for any reason, a copy of any report that has been filed under subsection (c) with the Bureau or retained by an individual respondent.
+In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this section) may require, for any reason, a copy of any report that has been filed under subsection (c) with the Bureau or retained by an individual respondent.
 
 &emsp;&emsp;(B)
 
@@ -308,7 +308,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (c)(8
 
 The date of enactment of the SAFETEA–LU, referred to in subsecs. (d)(1) and (<i>o</i>)(4)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -412,7 +412,7 @@ Membership.—The advisory council established under this section shall be compo
 
 “(d)
 
-Applicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App. U.S.C.\] shall apply to the advisory council established under this section, except that section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee established under this section.”
+Applicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 U.S.C. App.\] shall apply to the advisory council established under this section, except that section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee established under this section.”
 
 #### Study of Data Collection Procedures and Capabilities of Department of Transportation
 

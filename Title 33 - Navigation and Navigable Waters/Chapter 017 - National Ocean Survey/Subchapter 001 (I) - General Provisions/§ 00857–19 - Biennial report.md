@@ -38,7 +38,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206,
 
 &emsp;&emsp;“(D) enhancement of partnerships with State and local governments with respect to ocean and coastal activities, including the management of ocean and coastal resources and identification of appropriate opportunities for policy-making and decision-making at the State and local level; and
 
-&emsp;“(8) the preservation of the role of the United States as a leader in ocean and coastal activities, and, when it is in the national interest, the cooperation by the United States with other nations and international organizations in ocean and coastal activities.
+&emsp;“(8) the preservation of the role of the United States as a leader in ocean and coastal activities,and, when it is in the national interest, the cooperation by the United States with other nations and international organizations in ocean and coastal activities.
 
 #### “SEC. 3. COMMISSION ON OCEAN POLICY.
 
@@ -142,7 +142,7 @@ Required matter.—The final report of the Commission shall include the followin
 
 &emsp;&emsp;“(B) A review of existing and planned ocean and coastal activities of Federal entities, recommendations for changes in such activities necessary to improve efficiency and effectiveness and to reduce duplication of Federal efforts.
 
-&emsp;&emsp;“(C) A review of the cumulative effect of Federal laws and regulations on United States ocean and coastal activities and resources and an examination of those laws and regulations for inconsistencies and contradictions that might adversely affect those ocean and coastal activities and resources, and recommendations for resolving such inconsistencies to the extent practicable. Such review shall also consider conflicts with State ocean and coastal management regimes.
+&emsp;&emsp;“(C) A review of the cumulative effect of Federal laws and regulations on United States ocean and coastal activities and resources and an examination of those laws and regulations for inconsistencies and contradictions that might adversely affectthose ocean and coastal activities and resources, and recommendations for resolving such inconsistencies to the extent practicable. Such review shall also consider conflicts with State ocean and coastal management regimes.
 
 &emsp;&emsp;“(D) A review of the known and anticipated supply of, and demand for, ocean and coastal resources of the United States.
 
@@ -262,7 +262,7 @@ Sec. 3. <i>Establishment of Committee on Ocean Policy</i>.
 
 (i) the Chairman of the Council on Environmental Quality, who shall be the Chairman of the Committee;
 
-(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce, Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the Office of Science and Technology Policy, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
+(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce,Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the Office of Science and Technology Policy, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
 
 (iii) the Assistants to the President for National Security Affairs, Homeland Security, Domestic Policy, and Economic Policy;
 

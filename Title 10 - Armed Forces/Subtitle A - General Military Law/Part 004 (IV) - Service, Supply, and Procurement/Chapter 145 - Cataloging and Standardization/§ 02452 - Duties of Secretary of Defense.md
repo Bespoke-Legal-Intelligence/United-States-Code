@@ -72,7 +72,7 @@ Pub. L. 98–94, title XII, §1215, Sept. 24, 1983, 97 Stat. 688, as amended by 
 
 “(b)(1) The Secretary shall publish the regulations issued under this section in the Federal Register.
 
-“(2) The Secretary may provide in such regulations for the waiver of the prohibition in subsection (a)(1) and compliance with the requirements of subsection (a)(2) in the case of a purchase of any spare part or replacement equipment made or to be made through competitive procedures.
+“(2) The Secretary may provide in such regulations for the waiver of the prohibition in subsection (a)(1) and compliance with the requirements of subsection\(a)(2) in the case of a purchase of any spare part or replacement equipment made or to be made through competitive procedures.
 
 “(c) Not less than 30 days before the Secretary publishes such regulations in accordance with subsection (b), the Secretary shall submit the text of the proposed regulations to the Committees on Armed Services of the Senate and House of Representatives.”
 

@@ -2,7 +2,7 @@ Part B—General Provisions
 
 #### Prior Provisions
 
-A prior part B consisted of sections 1103 to 1103g and related to National Teacher Academies prior to thegeneral amendment of this subchapter by Pub. L. 105–244.
+A prior part B consisted of sections 1103 to 1103g and related to National Teacher Academies prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 
 ---

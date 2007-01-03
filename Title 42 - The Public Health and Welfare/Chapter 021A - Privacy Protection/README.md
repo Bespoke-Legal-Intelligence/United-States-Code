@@ -10,61 +10,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(a)
-
-Work product materials.
-
-(b)
-
-Other documents.
-
-(c)
-
-Objections to court ordered subpoenas; affidavits.
-
 #### Part B—Remedies, Exceptions, and Definitions
 
 |  |  |
 | :--- | ---: |
 | 2000aa–5. | Border and customs searches. |
 | 2000aa–6. | Civil actions by aggrieved persons. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Right of action.
-
-(b)
-
-Good faith defense.
-
-(c)
-
-Official immunity.
-
-(d)
-
-Exclusive nature of remedy.
-
-(e)
-
-Admissibility of evidence.
-
-(f)
-
-Damages; costs and attorneys’ fees.
-
-(g)
-
-Attorney General; claims settlement; regulations.
-
-(h)
-
-Jurisdiction.
-
-|  |  |
-| :--- | ---: |
 | 2000aa–7. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,19 +25,6 @@ Jurisdiction.
 |  |  |
 | :--- | ---: |
 | 2000aa–11. | Guidelines for Federal officers and employees. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Procedures to obtain documentary evidence; protection of certain privacy interests.
-
-(b)
-
-Use of search warrants; reports to Congress.
-
-|  |  |
-| :--- | ---: |
 | 2000aa–12. | Binding nature of guidelines; disciplinary actions for violations; legal proceedings for non-compliance prohibited. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

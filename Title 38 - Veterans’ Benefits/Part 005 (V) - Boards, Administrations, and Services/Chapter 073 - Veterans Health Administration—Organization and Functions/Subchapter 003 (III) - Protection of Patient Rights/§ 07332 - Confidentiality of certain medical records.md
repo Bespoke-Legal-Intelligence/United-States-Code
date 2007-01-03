@@ -2,7 +2,7 @@
 
 (a)(1) Records of the identity, diagnosis, prognosis, or treatment of any patient or subject which are maintained in connection with the performance of any program or activity (including education, training, treatment, rehabilitation, or research) relating to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia which is carried out by or for the Department under this title shall, except as provided in subsections (e) and (f), be confidential, and (section 5701 of this title to the contrary notwithstanding) such records may be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
-(2) Paragraph (1) prohibits the disclosure to any person or entity other than the patient orsubject concerned of the fact that a special written consent is required in order for such records to be disclosed.
+(2) Paragraph (1) prohibits the disclosure to any person or entity other than the patient or subject concerned of the fact that a special written consent is required in order for such records to be disclosed.
 
 (b)(1) The content of any record referred to in subsection (a) may be disclosed by the Secretary in accordance with the prior written consent of the patient or subject with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed by the Secretary.
 
@@ -17,6 +17,8 @@
 &emsp;(ii) A person to whom a record is disclosed under this paragraph may not redisclose or use such record for a purpose other than that for which the disclosure was made.
 
 &emsp;(D) If authorized by an appropriate order of a court of competent jurisdiction granted after application showing good cause therefor. In assessing good cause the court shall weigh the public interest and the need for disclosure against the injury to the patient or subject, to the physician-patient relationship, and to the treatment services. Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
+
+&emsp;(E) To an entity described in paragraph (1)(B) of section 5701(k) of this title, but only to the extent authorized by such section.
 
 (3) In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the next of kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to section 7334 of this title.
 
@@ -34,13 +36,15 @@
 
 (2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, after making reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
 
-(B) A disclosure under such paragraph may be made by a physician or counselor other than the physician or counselor referred to in subparagraph (A) if such physician or counselor is unavailable by reason of absence or termination of employment to make the disclosure.
+(B) A disclosure under such paragraph may be made by a physician or counselor other than thephysician or counselor referred to in subparagraph (A) if such physician or counselor is unavailable by reason of absence or termination of employment to make the disclosure.
 
 (g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
 
-(Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239.)
+(Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, §204(b), Dec. 22, 2006, 120 Stat. 3411.)
 
 #### Amendments
+
+2006—Subsec. (b)(2)(E). Pub. L. 109–461 added subpar. (E).
 
 1991—Pub. L. 102–40, §401(a)(4)(A), renumbered section 4132 of this title as this section.
 

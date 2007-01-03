@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—On or after the last day of the 2-year period beginning on the date on which the Under Secretary transmits to Congress the certification required by section 110(c) of the Aviation and Transportation Security Act, an operator of an airport may submit to the Under Secretary an application to have the screening of passengers and property at the airport under section 44901 to be carried out by the screeningpersonnel of a qualified private screening company under a contract entered into with the Under Secretary.
+In General.—On or after the last day of the 2-year period beginning on the date on which the Under Secretary transmits to Congress the certification required by section 110(c) of the Aviation and Transportation Security Act, an operator of an airport may submit to the Under Secretary an application to have the screening of passengers and property at the airport under section 44901 to be carried out by the screening personnel of a qualified private screening company under a contract entered into with the Under Secretary.
 
 (b)
 

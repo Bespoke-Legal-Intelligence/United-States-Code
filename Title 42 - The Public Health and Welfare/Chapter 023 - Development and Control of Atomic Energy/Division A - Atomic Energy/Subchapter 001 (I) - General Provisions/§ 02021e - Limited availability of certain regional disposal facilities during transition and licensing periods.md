@@ -100,7 +100,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 &emsp;&emsp;&emsp;(i)
 
-July 1, 1986.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) of this section is met by the State in which such waste originated.
+July 1, 1986.—The twenty-five per centum of any amount collected by aState under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) of this section is met by the State in which such waste originated.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -188,7 +188,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 &emsp;&emsp;(E) The Nuclear Regulatory Commission shall transmit any certification received under subparagraph (C) to the Congress and publish any such certification in the Federal Register.
 
-&emsp;&emsp;(F) Any State may, subject to all applicable provisions, if any, of any applicable compact, enter into an agreement with the compact commission of a region in which a regional disposal facility is located to provide for the disposal of all low-level radioactive waste generated within such State, and, byvirtue of such agreement, may, with the approval of the State in which the regional disposal facility is located, be deemed to be in compliance with subparagraphs (A), (B), (C), and (D).
+&emsp;&emsp;(F) Any State may, subject to all applicable provisions, if any, of any applicable compact, enter into an agreement with the compact commission of a region in which a regional disposal facility is located to provide for the disposal of all low-level radioactive waste generated within such State, and, by virtue of such agreement, may, with the approval of the State in which the regional disposal facility is located, be deemed to be in compliance with subparagraphs (A), (B), (C), and (D).
 
 #### (2) Penalties for failure to comply
 

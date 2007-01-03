@@ -40,7 +40,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Change of Name
 
-Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 202 of Title 3, The President.
+Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 3056a of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1968 Amendment
 

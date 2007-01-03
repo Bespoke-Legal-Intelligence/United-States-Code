@@ -120,11 +120,11 @@ Powers of members and agents.—Any member or agent of the Commission may, if au
 
 &emsp;“(3)
 
-Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enableit to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
 &emsp;“(4)
 
-Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises ofmoney and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
+Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
 
 &emsp;“(5)
 

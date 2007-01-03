@@ -1,6 +1,6 @@
 ### §1975c. Authorization of appropriations
 
-There are authorized to be appropriated,<sup>1</sup> to carry out this chapter $9,500,000 for fiscal year 1995. None of the sums authorized to be appropriated for fiscal year 1995 may be used to create additional regional offices.
+There are authorized to be appropriated,<sup>1</sup> to carry out this chapter $9,500,000 for fiscal year1995. None of the sums authorized to be appropriated for fiscal year 1995 may be used to create additional regional offices.
 
 (Pub. L. 98–183, §5, Nov. 30, 1983, 97 Stat. 1304; Pub. L. 102–167, §2, Nov. 26, 1991, 105 Stat. 1101; Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat. 4341.)
 

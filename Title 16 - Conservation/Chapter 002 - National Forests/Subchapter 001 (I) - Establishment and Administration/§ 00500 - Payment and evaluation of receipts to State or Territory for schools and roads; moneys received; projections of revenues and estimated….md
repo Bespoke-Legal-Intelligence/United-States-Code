@@ -106,7 +106,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(10) This decline in shared revenues has affected educational funding and road maintenance for many counties.
 
-&emsp;“(11) In the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\], Congress recognized this trend and ameliorated itsadverse consequences by providing an alternative annual safety net payment to 72 counties in Oregon, Washington, and northern California in which Federal timber sales had been restricted or prohibited by administrative and judicial decisions to protect the northern spotted owl.
+&emsp;“(11) In the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\], Congress recognized this trend and ameliorated its adverse consequences by providing an alternative annual safety net payment to 72 counties in Oregon, Washington, and northern California in which Federal timber sales had been restricted or prohibited by administrative and judicial decisions to protect the northern spotted owl.
 
 &emsp;“(12) The authority for these particular safety net payments is expiring and no comparable authority has been granted for alternative payments to counties elsewhere in the United States that have suffered similar losses in shared revenues from the Federal lands and in the funding for schools and roads those revenues provide.
 
@@ -348,7 +348,7 @@ Treatment of title iii funds.—Funds reserved by an eligible county under parag
 
 &emsp;“(3)
 
-Election.—An eligible county shall notify the Secretary of the Interior of its election under this subsection not later than September 30 of each fiscal year. If the eligible county fails to make an election by that date, the county is deemed to have elected to expend 85 percent of the funds received under subsection (a)(2) in the same manner in which the 50-percent payments are required to be expended and shallremit the balance to the Treasury of the United States in accordance with section 402(b).
+Election.—An eligible county shall notify the Secretary of the Interior of its election under this subsection not later than September 30 of each fiscal year. If the eligible county fails to make an election by that date, the county is deemed to have elected to expend 85 percent of the funds received under subsection (a)(2) in the same manner in which the 50-percent payments are required to be expended and shall remit the balance to the Treasury of the United States in accordance with section 402(b).
 
 “(d)
 
@@ -724,13 +724,13 @@ Condition on project commencement.—The unit of National Forest System lands or
 
 &emsp;“(3)
 
-Subsequent transfers for multiyear projects.—For the second and subsequent fiscal years of a multiyear project to be funded in whole or in part using project funds, the unit of National Forest System lands or BLM District concerned shall use the amount of project funds required to continue the project in that fiscal year according to the agreement entered into under subsection (a). The Secretary concerned shall suspend work on the project if the project funds required by the agreement in the second and subsequent fiscal years are not available.
+Subsequent transfers for multiyear projects.—For the second and subsequent fiscal years of a multiyear project to be funded in whole or in part using project funds, the unit of National Forest System lands or BLM District concerned shall use the amount of project funds required to continue the project in that fiscal year according to the agreemententered into under subsection (a). The Secretary concerned shall suspend work on the project if the project funds required by the agreement in the second and subsequent fiscal years are not available.
 
 #### “SEC. 207. AVAILABILITY OF PROJECT FUNDS.
 
 “(a)
 
-Submission of Proposed Projects To Obligate Funds.—By September 30 of each fiscal year through fiscal year 2006, a resource advisory committee shall submit to the Secretary concerned pursuant to section 203(a)(1) a sufficient number of project proposals that, if approved, would result in the obligation of at leastthe full amount of the project funds reserved by the participating county in the preceding fiscal year.
+Submission of Proposed Projects To Obligate Funds.—By September 30 of each fiscal year through fiscal year 2006, a resource advisory committee shall submit to the Secretary concerned pursuant to section 203(a)(1) a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
 
 “(b)
 
@@ -852,7 +852,7 @@ Advisory committee.—The term ‘Advisory Committee’ means the Forest Countie
 
 &emsp;“(2)
 
-Committees of jurisdiction.—The term ‘committees of jurisdiction’ means the Committee on Agriculture, the Committee on Resources, and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
+Committees of jurisdiction.—The term ‘committees of jurisdiction’ means the Committee on Agriculture, the Committee on Resources, and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition,and Forestry, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
 
 &emsp;“(3)
 
@@ -938,7 +938,7 @@ Committee rules.—The Advisory Committee may establish such procedural and admi
 
 &emsp;“(6)
 
-Federal agency cooperation.—The heads of the departments, agencies, and instrumentalities of the executive branch of the Federal Government shall cooperate with the Advisory Committee in the performance of its functions under this section and should furnish, as practicable, to the Advisory Committee information which the Advisory Committee deems necessary to carry out such functions.
+Federal agency cooperation.—The heads of the departments, agencies, and instrumentalities ofthe executive branch of the Federal Government shall cooperate with the Advisory Committee in the performance of its functions under this section and should furnish, as practicable, to the Advisory Committee information which the Advisory Committee deems necessary to carry out such functions.
 
 “(c)
 
@@ -950,7 +950,7 @@ Development of recommendations.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Advisory Committee shall develop recommendations for policy or legislative initiatives (or both) regarding alternatives for, or substitutes to, the payments required to be made toeligible States and eligible counties under the provisions of law referred to in paragraphs (3) and (4) of subsection (a) in order to provide a long-term method to generate annual payments to eligible States and eligible counties.
+In general.—The Advisory Committee shall develop recommendations for policy or legislative initiatives (or both) regarding alternatives for, or substitutes to, the payments required to be made to eligible States and eligible counties under the provisions of law referred to in paragraphs (3) and (4) of subsection (a) in order to provide a long-term method to generate annual payments to eligible States and eligible counties.
 
 &emsp;&emsp;“(B)
 

@@ -40,19 +40,19 @@
 
 &emsp;(19) notwithstanding any other law, enter into cooperative agreements with States, local governments, non-governmental organizations, and individuals, to accept and utilize voluntary services for the maintenance and improvement of natural and historic resources on, or to benefit natural and historic research on, Coast Guard facilities, subject to the requirement that—
 
-&emsp;&emsp;(1) the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
+&emsp;&emsp;(A) the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
 
-&emsp;&emsp;(2) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
+&emsp;&emsp;(B) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
 
 &emsp;(20) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
 
-&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available to the Commandant under section 30305(a) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
+&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available tothe Commandant under section 30305(a) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
 
 &emsp;(22) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
 
 &emsp;(23) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery; and
 
-&emsp;(y) <sup>1</sup> after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
+&emsp;(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
 
 (b)(1) Notwithstanding subsection (a)(14), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) to an entity with which the Commandant has a cooperative agreement under section 4(e) of the Ports and Waterways Safety Act, and for which a term longer than 5 years is necessary to carry out the agreement.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L.102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564.)
 
 #### Historical and Revision Notes
 
@@ -114,6 +114,10 @@ Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2
 
 #### Amendments
 
+2006—Subsec. (a)(19). Pub. L. 109–241, §901(a), redesignated subpars. (1) and (2) as (A) and (B), respectively.
+
+Subsec. (a)(24). Pub. L. 109–241, §901(c), redesignated par. (y) as (24).
+
 2004—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (j) and (<i>l</i>) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
 
 Pub. L. 108–293, §217, which directed amendment of this section by striking out “and” after semicolon at end of “paragraph (w)”, substituting “; and” for period at end of “paragraph (x)”, and adding a paragraph designated “(y)” at the end, was executed to this section prior to the amendment by Pub. L. 108–293, §201, to reflect the probable intent of Congress. See above.
@@ -154,6 +158,10 @@ Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Marine Vessel and Cold Water Safety Education
+
+Pub. L. 109–241, title IV, §405, July 11, 2006, 120 Stat. 535, provided that: “The Coast Guard shall continue cooperative agreements and partnerships with organizations in effect on the date of enactment of this Act \[July 11, 2006\] that provide marine vessel safety training and cold water immersion education and outreach programs for fishermen and children.”
+
 #### Redistricting Notification Requirement
 
 Pub. L. 108–293, title II, §215, Aug. 9, 2004, 118 Stat. 1038, provided that: “The Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at least 180 days before—
@@ -167,6 +175,28 @@ Pub. L. 108–293, title II, §215, Aug. 9, 2004, 118 Stat. 1038, provided that:
 Pub. L. 108–293, title II, §222, Aug. 9, 2004, 118 Stat. 1040, provided that: “The Commandant of the Coast Guard may consult with the Office of Naval Research and other Federal agencies with research and development programs that may provide innovative construction alternatives for the Integrated Deepwater System.”
 
 #### Icebreaking Services
+
+Pub. L. 109–241, title II, §210, July 11, 2006, 120 Stat. 523, provided that:
+
+“(a)
+
+Operation and Maintenance Plan.—Not later than 90 days after the date of enactment of this Act \[July 11, 2006\], the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan—
+
+&emsp;“(1) for operation and maintenance after fiscal year 2006 of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY, that does not rely on the transfer of funds to the Coast Guard by any other Federal agency; and
+
+&emsp;“(2) for the long-term recapitalization of these assets.
+
+“(b)
+
+Necessary Measures.—The Secretary shall take all necessary measures to ensure that the Coast Guard maintains, at a minimum, its current vessel capacity for carrying out ice breaking in the Arctic and Antarctic, Great Lakes, and New England regions, including the necessary funding for operation and maintenance of such vessels, until it has implemented the long-term recapitalization of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan submitted under subsection (a).
+
+“(c)
+
+Reimbursement.—Nothing in this section shall preclude the Secretary from seeking reimbursement for operation and maintenance costs of such polar icebreakers from other Federal agencies and entities, including foreign countries, that benefit from the use of the icebreakers.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 2006 to the Secretary of the department in which the Coast Guard is operating $100,000,000 to carry out this section with respect to the polar icebreakers referred to in subsection (a).”
 
 Pub. L. 107–295, title IV, §429, Nov. 25, 2002, 116 Stat. 2127, provided that: “The Commandant of the Coast Guard shall not plan, implement, or finalize any regulation or take any other action which would result in the decommissioning of any WYTL-class harbor tugs unless and until the Commandant certifies in writing to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that sufficient replacement capability has been procured by the Coast Guard to remediate any degradation in current icebreaking services that would be caused by such decommissioning.”
 
@@ -197,6 +227,4 @@ Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided t
 #### Small Waterplane Area Twin Hull (SWATH) Technology
 
 Pub. L. 105–383, title IV, §425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Commandant of the Coast Guard shall, within 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels.”
-
-<i><sup>1</sup></i><i> So in original. See 2004 Amendment note below.</i>
 

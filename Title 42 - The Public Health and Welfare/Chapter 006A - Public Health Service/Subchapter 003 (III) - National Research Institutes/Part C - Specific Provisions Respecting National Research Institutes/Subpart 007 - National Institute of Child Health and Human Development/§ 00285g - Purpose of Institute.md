@@ -10,7 +10,7 @@ The general purpose of the National Institute of Child Health and Human Developm
 
 #### Long-Term Child Development Study
 
-Pub. L. 106–310, div. A, title X, §1004, Oct. 17, 2000, 114 Stat. 1130, as amended by Pub. L. 108–446, title III, §301, Dec. 3, 2004, 118 Stat. 2803, provided that:
+Pub. L. 106–310, div. A, title X, §1004, Oct. 17, 2000, 114 Stat. 1130, as amended by Pub. L. 108–446, title III, §301, Dec. 3, 2004, 118 Stat. 2803; Pub. L. 109–482, title I, §104(b)(3)(E), Jan. 15, 2007, 120 Stat. 3694, provided that:
 
 “(a)
 
@@ -36,9 +36,9 @@ Requirement.—The study under subsection (b) shall—
 
 &emsp;“(4) be conducted in compliance with section 444 of the General Education Provisions Act (20 U.S.C. 1232g), including the requirement of prior parental consent for the disclosure of any education records, except without the use of authority or exceptions granted to authorized representatives of the Secretary of Education for the evaluation of Federally-supported education programs or in connection with the enforcement of the Federal legal requirements that relate to such programs.
 
-“(d)
+“\[(d)
 
-Report.—Beginning not later than 3 years after the date of the enactment of this Act \[Oct. 17, 2000\], and periodically thereafter for the duration of the study under this section, the Director of the National Institute of Child Health and Human Development shall prepare and submit to the appropriate committees of Congress a report on the implementation and findings made under the planning and feasibility study conducted under this section.
+Repealed. Pub. L. 109–482, title I, §104(b)(3)(E), Jan. 15, 2007, 120 Stat. 3694.\]
 
 “(e)
 

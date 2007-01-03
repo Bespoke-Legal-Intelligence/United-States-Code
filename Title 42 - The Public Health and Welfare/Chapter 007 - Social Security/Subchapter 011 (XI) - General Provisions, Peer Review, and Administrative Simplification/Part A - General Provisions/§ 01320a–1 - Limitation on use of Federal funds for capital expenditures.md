@@ -8,7 +8,7 @@ The purpose of this section is to assure that Federal funds appropriated under s
 
 The Secretary, after consultation with the Governor (or other chief executive officer) and with appropriate local public officials, shall make an agreement with any State which is able and willing to do so under which a designated planning agency (which shall be an agency described in clause (ii) of subsection (d)(1)(B) of this section that has a governing body or advisory board at least half of whose members represent consumer interests) will—
 
-&emsp;(1) make, and submit to the Secretary together with such supporting materials as hemay find necessary, findings and recommendations with respect to capital expenditures proposed by or on behalf of any health care facility in such State within the field of its responsibilities,
+&emsp;(1) make, and submit to the Secretary together with such supporting materials as he may find necessary, findings and recommendations with respect to capital expenditures proposed by or on behalf of any health care facility in such State within the field of its responsibilities,
 
 &emsp;(2) receive from other agencies described in clause (ii) of subsection (d)(1)(B) of this section, and submit to the Secretary together with such supporting material as he may find necessary, the findings and recommendations of such other agencies with respect to capital expenditures proposed by or on behalf of health care facilities in such State within the fields of their respective responsibilities, and
 
@@ -76,7 +76,7 @@ A capital expenditure made by or on behalf of a health care facility shall not b
 
 &emsp;(5) the purchase of such services is more costly than if the organization provided the services directly.
 
-(Aug. 14, 1935, ch. 531, title XI, §1122, as added Pub. L. 92–603, title II, §221(a), Oct. 30, 1972, 86 Stat. 1386; amended Pub. L. 93–233, §18(z), (z–1), Dec. 31, 1973, 87 Stat. 973; Pub. L. 95–559, §14(b), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 96–32, §2(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title XXI, §2193(c)(3), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(a)(5), Sept. 3, 1982, 96 Stat.376; Pub. L. 98–21, title VI, §607(a), (b)(1), (c), Apr. 20, 1983, 97 Stat. 171, 172; Pub. L. 98–369, div. B, title III, §2354(a)(1), (2), July 18, 1984, 98 Stat. 1100; Pub. L. 105–33, title IV, §4454(c)(1), Aug. 5, 1997, 111 Stat. 431.)
+(Aug. 14, 1935, ch. 531, title XI, §1122, as added Pub. L. 92–603, title II, §221(a), Oct. 30, 1972, 86 Stat. 1386; amended Pub. L. 93–233, §18(z), (z–1), Dec. 31, 1973, 87 Stat. 973; Pub. L. 95–559, §14(b), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 96–32, §2(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title XXI, §2193(c)(3), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(a)(5), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–21, title VI, §607(a), (b)(1), (c), Apr. 20, 1983, 97 Stat. 171, 172; Pub. L. 98–369, div. B, title III, §2354(a)(1), (2), July 18, 1984, 98 Stat. 1100; Pub. L. 105–33, title IV, §4454(c)(1), Aug. 5, 1997, 111 Stat. 431.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ The civil service laws, referred to in subsec. (i)(3), are set out in Title 5, G
 
 1997—Subsec. (h). Pub. L. 105–33 substituted “a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “Christian Science sanatoriums operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts.”
 
-1984—Subsec. (b). Pub. L. 98–369, §2354(a)(1), substituted a comma for the period at end of par. (1), and struck out “(or the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963)” before “to meet the need” in provisions following par. (3).
+1984—Subsec. (b). Pub. L. 98–369, §2354(a)(1), substituted a comma for the period at end of par. (1), and struck out “(or the Mental Retardation Facilities andCommunity Mental Health Centers Construction Act of 1963)” before “to meet the need” in provisions following par. (3).
 
 Subsec. (i)(3). Pub. L. 98–369, §2354(a)(2), substituted “5703” for “5703(b)”.
 
@@ -154,5 +154,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Limitations on Federal Participation
 
-Section 221(d) of Pub. L. 92–603 provided that: “In the case of a health care facility providing health care services as of December 18, 1970, which on such date is committed to a formal plan of expansion or replacement, the amendments made by the preceding provisions of this section \[enacting this section and amending sections 705, 706, 709, 1395x, 1396a, and 1396b of this title\] shall not apply with respect to such expenditures as may be made or obligations incurred for capital items included in such plan where preliminary expenditures toward the plan of expansion or replacement (including payments for studies, surveys, designs, plans, working drawings, specifications, and site acquisition, essential to the acquisition, improvement, expansion, or replacement of the health care facility or equipment concerned) of $100,000 or more, had been made during the three-year period ended December 17, 1970.”
+Section 221(d) of Pub. L. 92–603 provided that: “In the case of a health care facility providing health care services as of December 18, 1970, which on such date is committed to a formal plan of expansion or replacement, the amendments made by the preceding provisions of this section \[enacting this section and amending sections 705, 706, 709, 1395x, 1396a, and 1396b of this title\] shall not apply with respect to such expenditures as may be made or obligations incurred for capital items included in such plan where preliminary expenditures toward the plan of expansion or replacement (including payments for studies, surveys, designs, plans,working drawings, specifications, and site acquisition, essential to the acquisition, improvement, expansion, or replacement of the health care facility or equipment concerned) of $100,000 or more, had been made during the three-year period ended December 17, 1970.”
 

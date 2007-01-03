@@ -4,7 +4,7 @@
 
 Pursuant to section 2903 of this title and section 2191 of this title, the Congress approves—
 
-&emsp;(1) the North American Free Trade Agreement entered into on December 17, 1992, withthe Governments of Canada and Mexico and submitted to the Congress on November 4, 1993; and
+&emsp;(1) the North American Free Trade Agreement entered into on December 17, 1992, with the Governments of Canada and Mexico and submitted to the Congress on November 4, 1993; and
 
 &emsp;(2) the statement of administrative action proposed to implement the Agreement that was submitted to the Congress on November 4, 1993.
 
@@ -16,7 +16,7 @@ The President is authorized to exchange notes with the Government of Canada or M
 
 &emsp;&emsp;(A) determines that such country has implemented the statutory changes necessary to bring that country into compliance with its obligations under the Agreement and has made provision to implement the Uniform Regulations provided for under article 511 of the Agreement regarding the interpretation, application, and administration of the rules of origin, and
 
-&emsp;&emsp;(B) transmits a report to the House of Representatives and the Senate setting forth the determination under subparagraph (A) and including, in the case of Mexico, a description of the specific measures taken by that country to—
+&emsp;&emsp;(B) transmits a report to the House of Representatives and the Senate setting forth the determination under subparagraph (A) andincluding, in the case of Mexico, a description of the specific measures taken by that country to—
 
 &emsp;&emsp;&emsp;(i) bring its laws into conformity with the requirements of the Schedule of Mexico in Annex 1904.15 of the Agreement, and
 

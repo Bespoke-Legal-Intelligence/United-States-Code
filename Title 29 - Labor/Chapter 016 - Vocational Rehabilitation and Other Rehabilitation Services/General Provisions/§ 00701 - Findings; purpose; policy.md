@@ -114,7 +114,7 @@ Pub. L. 94–230, §1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act \
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–516, title I, §100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title \[amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
+Pub. L. 93–516, title I, §100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title \[amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set outas a note under section 702 of this title\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
 
 An identical provision is contained in Pub. L. 93–651, title I, §100, Nov. 21, 1974, 89 Stat. 2–3.
 
@@ -164,7 +164,7 @@ Section 1. Establishment of National Task Force on Employment of Adults with Dis
 
 &emsp;(4) consider statistical and data analysis, cost data, research, and policy studies on public subsidies, employment, employment discrimination, and rates of return-to-work for individuals with disabilities;
 
-&emsp;(5) evaluate and, where appropriate, coordinate and collaborate on, research and demonstration priorities of Task Force member agencies related to employment of adults with disabilities;
+&emsp;(5) evaluate and, where appropriate, coordinate and collaborate on, research and demonstration prioritiesof Task Force member agencies related to employment of adults with disabilities;
 
 &emsp;(6) evaluate whether Federal studies related to employment and training can, and should, include a statistically significant sample of adults with disabilities;
 

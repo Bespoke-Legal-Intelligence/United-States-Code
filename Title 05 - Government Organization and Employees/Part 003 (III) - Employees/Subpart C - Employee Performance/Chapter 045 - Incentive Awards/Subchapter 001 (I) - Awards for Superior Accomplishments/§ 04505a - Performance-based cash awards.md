@@ -10,7 +10,7 @@
 
 (c) The Office of Personnel Management shall prescribe such regulations as it considers necessary for the administration of subsections (a) and (b).
 
-(d) The preceding provisions of this section shall be applicable with respect to any employee to whom subchapter III of chapter 53 applies, and to any category of employees provided for under subsection (e).
+(d) The preceding provisions of this section shall be applicable with respect to any employeeto whom subchapter III of chapter 53 applies, and to any category of employees provided for under subsection (e).
 
 (e) At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within such agency who would not otherwise be covered by this section.
 
@@ -42,5 +42,19 @@ Section effective on such date as the President shall determine, but not earlier
 
 Authority of President under subsec. (e) of this section delegated to Director of Office of Personnel Management by Ex. Ord. No. 12828, §1(2), Jan. 5, 1993, 58 F.R. 2965, set out as a note under section 3502 of this title.
 
-Authority of President under subsec. (d) \[now (e)\] of this section delegated to Office of Personnel Management by section 6(a) of Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.
+#### Ex. Ord. No. 13415. Assignment of Certain Pay-Related Functions
+
+Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Assignment of Functions</i>. The functions of the President under sections 4505a, 5305, and 5377 of title 5, United States Code, are assigned to the Director of the Office of Personnel Management.
+
+Sec. 2. <i>Revocations</i>. (a) \[Amended Ex. Ord. No. 12748, set out as a note under section 5301 of this title.\]
+
+(b) \[Amended Ex. Ord. No. 12828, set out as a note under section 3502 of this title.\]
+
+Sec. 3. <i>General Provision</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity against the United States, its departments, agencies, entities, officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

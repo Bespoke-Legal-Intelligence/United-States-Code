@@ -10,7 +10,7 @@ Activities eligible for assistance under this section include, but are not limit
 
 #### (c) Administration of assistance
 
-Assistance under this section shall be administered by the Secretary of Commerce under guidelines developed by the Secretary. Priority shall be given to projects which support the establishment of long term, stable international markets for American Indian arts and crafts and which are designed to provide the greatest economic benefit to American Indian artisans.
+Assistance under this section shall be administered by the Secretary of Commerce underguidelines developed by the Secretary. Priority shall be given to projects which support the establishment of long term, stable international markets for American Indian arts and crafts and which are designed to provide the greatest economic benefit to American Indian artisans.
 
 #### (d) Technical and other assistance
 
@@ -18,7 +18,7 @@ The Secretary of Commerce shall provide technical assistance and support service
 
 #### (e) Limitation on assistance
 
-No assistance shall be provided under this section in support of any activity which includesthe sale or marketing of any craft items other than authentic arts and crafts hand made or hand crafted by American Indian artisans.
+No assistance shall be provided under this section in support of any activity which includes the sale or marketing of any craft items other than authentic arts and crafts hand made or hand crafted by American Indian artisans.
 
 (Pub. L. 100–418, title II, §2307, Aug. 23, 1988, 102 Stat. 1345.)
 

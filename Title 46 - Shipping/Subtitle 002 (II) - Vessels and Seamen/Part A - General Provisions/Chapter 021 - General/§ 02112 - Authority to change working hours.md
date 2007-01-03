@@ -22,7 +22,3 @@ Historical and Revision Notes
 
 Section 2112 provides the Secretary with the authority to regulate the working hours of civilian officers and employees of the Coast Guard to conform with the prevailing working hours of a port.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5549.
-

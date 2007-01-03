@@ -1,10 +1,10 @@
 ### §1441. Exceptions to vessel entry and clearance requirements
 
-The following vessels shall not be required to make entry under section 1434 of this title or to obtain clearance under section 91 of title 46, Appendix:
+The following vessels shall not be required to make entry under section 1434 of this title or to obtain clearance under section 60105 of title 46:
 
 &emsp;(1) Vessels of war and public vessels employed for the conveyance of letters and dispatches and not permitted by the laws of the nations to which they belong to be employed in the transportation of passengers or merchandise in trade.
 
-&emsp;(2) Passenger vessels making three trips or oftener a week between a port of the United States and a foreign port, or vessels used exclusively as ferryboats, carrying passengers, baggage, or merchandise: <i>Provided</i>, That the master of any such vessel shall be required to report such baggage and merchandise to the appropriate customs officer within twenty-four hours after arrival.
+&emsp;(2) Passenger vessels making three trips or oftener a week between a port of the United States and a foreign port, or vessels used exclusively as ferryboats, carrying passengers,baggage, or merchandise: <i>Provided</i>, That the master of any such vessel shall be required to report such baggage and merchandise to the appropriate customs officer within twenty-four hours after arrival.
 
 &emsp;(3) Any vessel carrying passengers on excursion from the United States Virgin Islands to the British Virgin Islands and returning, if—
 
@@ -24,15 +24,13 @@ The following vessels shall not be required to make entry under section 1434 of 
 
 &emsp;(5) Vessels arriving in distress or for the purpose of taking on bunker coal, bunker oil, sea stores, or ship's stores and which shall depart within twenty-four hours after arrival without having landed or taken on board any passengers, or any merchandise other than bunker coal, bunker oil, sea stores, or ship's stores: <i>Provided</i>, That the master, owner, or agent of such vessel shall report under oath to the appropriate customs officer the hour and date of arrival and departure and the quantity of bunker coal, bunker oil, sea stores, or ship's stores taken on board.
 
-&emsp;(6) Any vessel required to anchor at the Belle Isle Anchorage in the waters of the Detroit River in the State of Michigan, for the purposes of awaiting the availability of cargo or berthing space or for the purpose of taking on a pilot or awaiting pilot services, or at the direction of the Coast Guard, prior to proceeding to the Port of Toledo, Ohio, where the vessel makes entry under section 1434 of this title or obtains clearance under section 91 of title 46, Appendix.
+&emsp;(6) Any vessel required to anchor at the Belle Isle Anchorage in the waters of the Detroit River in the State of Michigan, for the purposes of awaiting the availability of cargo or berthing space or for the purpose of taking on a pilot or awaiting pilot services, or at the direction of the Coast Guard, prior to proceeding to the Port of Toledo, Ohio, where the vessel makes entry under section 1434 of this title or obtains clearance under section 60105 of title 46.
 
 (June 17, 1930, ch. 497, title IV, §441, 46 Stat. 712; Aug. 5, 1935, ch. 438, title III, §302, 49 Stat. 527; Aug. 14, 1937, ch. 620, §1, 50 Stat. 638; Sept. 1, 1954, ch. 1213, title V, §501(b), 68 Stat. 1140; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §204, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 103–182, title VI, §655, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 104–295, §21(e)(5), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–36, title I, §1001(b)(10), June 25, 1999, 113 Stat. 132; Pub. L. 106–476, title I, §1452(b), Nov. 9, 2000, 114 Stat. 2168.)
 
-#### References in Text
+#### Codification
 
-The customs laws of the United States, referred to in pars. (3)(A) and (4)(A), are classified generally to this title.
-
-The navigation laws of the United States, referred to in pars. (3)(A) and (4)(A), are classified generally to Title 33, Navigation and Navigable Waters.
+“Section 60105 of title 46” substituted in introductory provisions for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” and in par. (6) for “section 4197 of the Revised Statutes of the United States” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Prior Provisions
 

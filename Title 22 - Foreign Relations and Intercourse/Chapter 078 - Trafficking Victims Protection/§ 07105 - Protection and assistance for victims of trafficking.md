@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, that has not been denied; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) is a person whose continued presence in the United States the Secretaryof Homeland Security is ensuring in order to effectuate prosecution of traffickers in persons.
+&emsp;&emsp;&emsp;&emsp;(bb) is a person whose continued presence in the United States the Secretary of Homeland Security is ensuring in order to effectuate prosecution of traffickers in persons.
 
 #### (ii) Period of effectiveness
 
@@ -74,7 +74,7 @@
 
 #### (iv) Assistance to investigations
 
-&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
+&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes suchas kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
 
 #### (2) Grants
 
@@ -136,7 +136,7 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section, or in the amendments made by this section, shall be construedas prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e) of this section, for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
+&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e) of this section, for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
 #### (f) Omitted
 
@@ -148,7 +148,7 @@ On or before October 31 of each year, the Secretary of Homeland Security shall s
 
 #### References in Text
 
-Section 1101(a)(15)(T)(ii) of title 8, referred to in subsec. (b)(1)(A), (B), was in the original “section 101(a)(15)(T)(ii)”, and was translated as meaning section 101(a)(15)(T)(ii) of the Immigration and Nationality Act, act June 27, 1952, ch. 477, which is classified to section 1101(a)(15)(T)(ii) of title 8, to reflect the probable intent of Congress. Section 101 of Pub. L. 106–386 does not contain a subsec. (a)(15)(T)(ii), and section 101(a)(15)(T)(ii) of the Immigration and Nationality Act describes certain nonimmigrant aliens.
+Section 1101(a)(15)(T)(ii) of title 8, referred to in subsec. (b)(1)(A), (B), was in the original “section101(a)(15)(T)(ii)”, and was translated as meaning section 101(a)(15)(T)(ii) of the Immigration and Nationality Act, act June 27, 1952, ch. 477, which is classified to section 1101(a)(15)(T)(ii) of title 8, to reflect the probable intent of Congress. Section 101 of Pub. L. 106–386 does not contain a subsec. (a)(15)(T)(ii), and section 101(a)(15)(T)(ii) of the Immigration and Nationality Act describes certain nonimmigrant aliens.
 
 Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is title IV (§400 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, as amended. For complete classification of title IV to the Code, see Tables.
 

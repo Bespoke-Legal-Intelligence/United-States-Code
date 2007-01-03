@@ -6,58 +6,17 @@
 | [902\.](%C2%A7%2000902%20-%20Definitions.md) | Definitions. |
 | [903\.](%C2%A7%2000903%20-%20Sales%20and%20transfers.md) | Sales and transfers. |
 | [904\.](%C2%A7%2000904%20-%20Court%20approved%20abandonments%20and%20sales.md) | Court approved abandonments and sales. |
-| (a) | Abandonment of lines of railroad under section 1170 of title 11. |
-| (b) | Sale or transfer of lines of railroad. |
-| (c) | Effect on priorities and timing of employee protection payments. |
 | [905\.](%C2%A7%2000905%20-%20Employee%20or%20employee-shipper%20ownership%20plan.md) | Employee or employee-shipper ownership plan. |
-| (a) | Submission of plan to Commission; approval; findings. |
-| (b) | Submission of findings to bankruptcy court. |
-| (c) | Implementation of plan. |
-| (d) | Judicial review. |
-| (e) | Furnishing of reports and other information for preparation of plan. |
 | [906\.](%C2%A7%2000906%20-%20Guarantee%20of%20trustee%20certificates.md) | Guarantee of trustee certificates. |
-| (a) | to (c) Omitted. |
-| (d) | Authorization. |
-| (e) | Amount of guarantee. |
-| (f) | Subordination of claims. |
-| (g) | Availability of funds. |
-| (h) | Cancellation of United States obligations. |
 | [907\.](%C2%A7%2000907%20-%20Railroad%20hiring.md) | Railroad hiring. |
 | [908\.](%C2%A7%2000908%20-%20Employee%20protection%20agreements.md) | Employee protection agreements. |
-| (a) | Agreement between Milwaukee Railroad and labor organizations. |
-| (b) | Submission of matter to National Mediation Board. |
-| (c) | Fair and equitable agreements. |
-| (d) | Payment of benefits and allowances. |
 | [909\.](%C2%A7%2000909%20-%20Supplementary%20unemployment%20insurance.md) | Supplementary unemployment insurance. |
-| (a) | Eligible employees. |
-| (b) | Period of payment. |
-| (c) | Amount of payment. |
-| (d) | Filing of application. |
-| (e) | Insurance as compensation. |
-| (f) | Employees not covered. |
-| (g) | Furloughed employees. |
 | [910\.](%C2%A7%2000910%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XI%2C%20%C2%A71144%28b%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20669.md) | Repealed. |
 | [911\.](%C2%A7%2000911%20-%20New%20career%20training%20assistance.md) | New career training assistance. |
-| (a) | Eligible employees. |
-| (b) | Commencement of training as condition. |
-| (c) | Filing of application; Board determination. |
-| (d) | Assistance prohibited after April 1, 1984. |
-| (e) | Definitions. |
 | [912\.](%C2%A7%2000912%20-%20Election.md) | Election. |
 | [913\.](%C2%A7%2000913%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [914\.](%C2%A7%2000914%20-%20Obligation%20guarantees.md) | Obligation guarantees. |
-| (a) | Authorization. |
-| (b) | Obligations as administrative expense. |
-| (c) | Limit on aggregate unpaid principal amount. |
-| (d) | Limit on total liability. |
-| (e) | Liability of United States respecting section 908 agreements. |
-| (f) | Applicability of section 836 of this title. |
 | [915\.](%C2%A7%2000915%20-%20Court%20approved%20abandonment%20and%20sales%20in%20pending%20cases.md) | Court approved abandonment and sales in pending cases. |
-| (a) | Abandonment of lines of railroad under Bankruptcy Act. |
-| (b) | Sale or transfer of lines of railroad under Bankruptcy Act. |
-| (c) | Judicial review. |
-| (d) | Authority of bankruptcy court. |
-| (e) | Effect on priorities and timing of employee protection payments. |
 | [916\.](%C2%A7%2000916%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9388%2C%20title%20III%2C%20%C2%A7328%2C%20Dec.%2029%2C%201995%2C%20109%20Stat.%20952.md) | Repealed. |
 | [917\.](%C2%A7%2000917%20-%20Applicability%20of%20National%20Environmental%20Policy%20Act.md) | Applicability of National Environmental Policy Act. |
 | [918\.](%C2%A7%2000918%20-%20Authority%20of%20Railroad%20Retirement%20Board.md) | Authority of Railroad Retirement Board. |

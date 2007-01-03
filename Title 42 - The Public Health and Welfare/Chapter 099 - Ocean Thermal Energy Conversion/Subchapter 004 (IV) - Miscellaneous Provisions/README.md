@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 09161 - Law of the sea treaty](%C2%A7%2009161%20-%20Law%20of%20the%20sea%20treaty.md)
+- [&sect; 09161 - Law of the Sea Treaty](%C2%A7%2009161%20-%20Law%20of%20the%20Sea%20Treaty.md)
 - [&sect; 09162 - International negotiations](%C2%A7%2009162%20-%20International%20negotiations.md)
 - [&sect; 09163 - Relationship to other laws](%C2%A7%2009163%20-%20Relationship%20to%20other%20laws.md)
 - [&sect; 09164 - Submarine electric transmission cable and equipment safety](%C2%A7%2009164%20-%20Submarine%20electric%20transmission%20cable%20and%20equipment%20safety.md)

@@ -16,7 +16,7 @@
 
 #### (2) Prohibition
 
-&emsp;Nothing in this subchapter or the Settlement Agreement may alter, diminish, disturb, or cause to be divested any right, title, or interest of any person or entity in any land, coal, oil, gas, coal methane, or mineral within parcel number 1 that is based on the 1891 survey line, except for the specific rights that are vested in the United States for the sole use and benefit of the Crow Tribe pursuant to subparagraphs (B) through (D) of paragraph (1).
+&emsp;Nothing in this subchapter or the Settlement Agreement may alter, diminish, disturb, or cause to be divested any right, title, or interest of any person or entity in any land, coal, oil, gas, coal methane, or mineral within parcel number 1 that is based on the 1891 survey line, except for the specific rights that arevested in the United States for the sole use and benefit of the Crow Tribe pursuant to subparagraphs (B) through (D) of paragraph (1).
 
 #### (3) Waivers and releases
 
@@ -44,7 +44,7 @@
 
 &emsp;The following waivers and releases shall be included in the Settlement Agreement:
 
-&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, includingall rights appurtenant to such land and minerals.
+&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, including all rights appurtenant to such land and minerals.
 
 &emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, the Northern Cheyenne Tribe, the Northern Cheyenne allottees and their successors in interest, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 2.
 

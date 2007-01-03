@@ -16,7 +16,7 @@ Vocational rehabilitation services provided under this subchapter are any servic
 
 &emsp;(6) to the extent that financial support is not readily available from a source (such as through health insurance of the individual or through comparable services and benefits consistent with section 721(a)(8)(A) of this title), other than the designated State unit, diagnosis and treatment of physical and mental impairments, including—
 
-&emsp;&emsp;(A) corrective surgery or therapeutic treatment necessary to correct or substantially modify a physical or mental condition that constitutes a substantial impediment to employment, but is of such a nature that such correction or modification may reasonably be expected to eliminate or reduce such impediment to employment within a reasonable length of time;
+&emsp;&emsp;(A) corrective surgery or therapeutic treatment necessary to correct or substantially modify a physical or mental condition that constitutes a substantial impediment to employment, but is of such a nature thatsuch correction or modification may reasonably be expected to eliminate or reduce such impediment to employment within a reasonable length of time;
 
 &emsp;&emsp;(B) necessary hospitalization in connection with surgery or treatment;
 

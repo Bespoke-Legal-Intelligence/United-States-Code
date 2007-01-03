@@ -2,7 +2,7 @@
 
 (a)
 
-Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—Themonthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4, as modified by the applicable footnotes.
+Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4, as modified by the applicable footnotes.
 
 &nbsp;
 
@@ -14,7 +14,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—Themon
 |  |  |  |  |  |  |
 | 4 | 580126312931305 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
 |  |  |  |  |  |  |
-| 5 | 63363463563612511252 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
+| 5 | 633634635636125112521253 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
 
 <sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—Themon
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,9 @@ In footnote 3, the words “and disregard a part of a year that is less than six
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 in table inserted “1252” after “1251” in column under heading “For sections”.
+2006—Subsec. (a). Pub. L. 109–364 in table inserted “1253” after “1252” in column under heading “For sections”.
+
+Pub. L. 109–163 in table inserted “1252” after “1251” in column under heading “For sections”.
 
 1994—Subsec. (a). Pub. L. 103–337 in table struck out formula number 3 which provided formula for computing retired pay under former section 1331 of this title.
 
@@ -128,7 +130,7 @@ Pub. L. 99–348, §201(a)(4), substituted in column 2 of table a multiplier of 
 
 Pub. L. 99–348, §201(a)(5), in columns 3 and 4 substituted “retired pay base” for “pay” wherever appearing.
 
-Pub. L. 99–348, §201(a)(6), redesignated footnote 3 as 1, and struck out former footnote 1 which provided computation at rates applicable on date of retirement or date when the member's name was placed on temporary disability retired list, as the case may be, footnote 2 which provided computation at rates applicable on the date when retired pay is granted, footnote 4 which provided computation at the highest rates of basic pay applicable to an officer who served as Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard, while so serving in that office and computation at the highest rate of basic pay applicable to an enlisted person who has served as sergeant major of the Army, master chief petty officer of the Navy, chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard, while he served if that rate is higher than the rate authorized by the table, and footnote 5 which provided for purposes of this section that an officer's retired grade be determined as if sections 3962(b) and 8962(b) did not apply.
+Pub. L. 99–348, §201(a)(6), redesignated footnote 3 as 1, and struck out former footnote 1 which provided computation at rates applicable on date of retirement ordate when the member's name was placed on temporary disability retired list, as the case may be, footnote 2 which provided computation at rates applicable on the date when retired pay is granted, footnote 4 which provided computation at the highest rates of basic pay applicable to an officer who served as Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard, while so serving in that office and computation at the highest rate of basic pay applicable to an enlisted person who has served as sergeant major of the Army, master chief petty officer of the Navy, chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard, while he served if that rate is higher than the rate authorized by the table, and footnote 5 which provided for purposes of this section that an officer's retired grade be determined as if sections 3962(b) and 8962(b) did not apply.
 
 Pub. L. 99–348, §201(a)(7), in column 2 of table substituted footnote 1 designation for footnote 3 designation wherever appearing.
 
@@ -155,6 +157,8 @@ Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting
 1963—Pub. L. 88–132 struck out from footnote 1 of table “, and adjust to reflect later changes in applicable permanent rates” after “as the case may be.”
 
 1958—Pub. L. 85–422, §6(7)(A), inserted provisions in Column 1 of formulas 1 and 2 permitting the taking of the monthly basic pay to which a member was entitled on the day before retirement or placement on temporary disability retired list, increased, for members credited with two or less years of service for basic pay purposes, by 6 percent.
+
+z
 
 Pub. L. 85–422, §11(a)(2), substituted “under section 1405 of this title” for “in computing basic pay” in column 2 of formula 4.
 
@@ -196,7 +200,7 @@ Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 8
 
 #### Short Title of 1986 Amendment
 
-Section 1(a) of Pub. L. 99–348 provided that: “This Act \[enacting sections 134a, 1406, 1407, and 1409 to 1412 of this title, redesignating former section 1406 of this title as section 1338 \[now 12738\] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 \[now 12738\], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853<i>o</i> of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare, repealing former section 1407 and section 6328 of this title, enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and section 6330 of this title\] may be cited as the ‘Military Retirement Reform Act of 1986’.”
+Section 1(a) of Pub. L. 99–348 provided that: “This Act \[enacting sections 134a, 1406, 1407, and 1409 to 1412 of this title, redesignating former section 1406 of this title as section 1338 \[now 12738\] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 \[now 12738\], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853<i>o</i> of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare,repealing former section 1407 and section 6328 of this title, enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and section 6330 of this title\] may be cited as the ‘Military Retirement Reform Act of 1986’.”
 
 #### Short Title of 1982 Amendment
 
@@ -238,7 +242,7 @@ Cross reference.—For the effective date of October 1, 1983, for provisions mak
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served,prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
@@ -264,7 +268,7 @@ Section 5(a) of Pub. L. 89–132 provided that: “The retired pay or retainer p
 
 #### Continuation of Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
-Section 7 of Pub. L. 89–132 provided that: “Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act \[Sept. 1, 1965\] shall continue to receive the pay and allowances to which he was entitled on that day:
+Section 7 of Pub. L. 89–132 provided that: “Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act \[Sept. 1, 1965\] shallcontinue to receive the pay and allowances to which he was entitled on that day:
 
 &emsp;“(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59).
 

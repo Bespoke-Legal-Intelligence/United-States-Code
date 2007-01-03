@@ -154,7 +154,7 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;&emsp;The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat.4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
 
 #### Amendments
 

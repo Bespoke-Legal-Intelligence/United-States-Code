@@ -8,7 +8,7 @@
 
 #### Effective Date
 
-Pub. L. 109–58, title VI, §656(c), Aug. 8, 2005, 119 Stat. 814, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect upon the issuance of regulations under subsection (b) \[set out below\], except that the background check requirement shall become effective on a date established by the Commission.”
+Pub. L. 109–58, title VI, §656(c), Aug. 8, 2005, 119 Stat. 814, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect upon the issuance of regulations under subsection (b) \[set out below\], except that the background check requirement shall become effective on a date established by the Commission.” \[For issuance of regulations effective Feb. 23, 2007, see 72 F.R. 3025.\]
 
 #### Regulations
 

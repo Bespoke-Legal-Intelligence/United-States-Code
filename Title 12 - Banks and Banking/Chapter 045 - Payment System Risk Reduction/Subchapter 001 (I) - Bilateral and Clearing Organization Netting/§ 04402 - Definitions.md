@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 &emsp;The term “broker or dealer” means—
 
-&emsp;&emsp;(A) any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting, or dealing in securities in the United States; and
+&emsp;&emsp;(A) any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting,or dealing in securities in the United States; and
 
 &emsp;&emsp;(B) to the extent consistent with this title,<sup>1</sup> as determined by the Board of Governors of the Federal Reserve System, any company that is an affiliate of a company described in subparagraph (A) and that is engaged in the business of entering into netting contracts.
 
@@ -102,7 +102,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;The term “netting contract”—
 
-&emsp;&emsp;&emsp;(i) means a contract or agreement between 2 or more financial institutions,clearing organizations, or members that provides for netting present or future payment obligations or payment entitlements (including liquidation or close out values relating to such obligations or entitlements) among the parties to the agreement; and
+&emsp;&emsp;&emsp;(i) means a contract or agreement between 2 or more financial institutions, clearing organizations, or members that provides for netting present or future payment obligations or payment entitlements (including liquidation or close out values relating to such obligations or entitlements) among the parties to the agreement; and
 
 &emsp;&emsp;&emsp;(ii) includes the rules of a clearing organization.
 

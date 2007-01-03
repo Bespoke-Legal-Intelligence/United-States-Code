@@ -22,7 +22,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 &emsp;(E) in consultation with the advisory council for the Institute and with the approval of the Director of NIH—
 
-&emsp;&emsp;(i) establish technical and scientific peer review groups in addition to those appointed under section 282(b)(6) of this title; and
+&emsp;&emsp;(i) establish technical and scientific peer review groups in addition to those appointed under section 282(b)(16) of this title; and
 
 &emsp;&emsp;(ii) appoint the members of peer review groups established under subparagraph (A); and
 
@@ -44,9 +44,9 @@ The general purpose of the Center is the conduct and support of research and res
 
 (3)(A) Not later than 18 months after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shall submit the Plan to the President and the Congress.
 
-(B) Subparagraph (A) shall be carried out independently of the process of reporting that is required in sections 283 and 284b of this title.
+(B) Subparagraph (A) shall be carried out independently of the process of reporting that is required in sections 283 and 284b <sup>1</sup> of this title.
 
-(4) The Director of the Institute shall periodically revise and update the Research Plan as appropriate, after consultation with the Director of the Center, the coordinating committee established under subsection (e) of this section, and the advisory board established under subsection (f) of this section. A description of any revisions in the Research Plan shall be contained in each report prepared under section 284b of this title by the Director of the Institute.
+(4) The Director of the Institute shall periodically revise and update the Research Plan as appropriate, after consultation with the Director of the Center, the coordinating committee established under subsection (e) of this section, and the advisory board established under subsection (f) of this section. A description of any revisions in the Research Plan shall be contained in each report prepared under section 284b <sup>1</sup> of this title by the Director of the Institute.
 
 #### (e) Medical Rehabilitation Coordinating Committee
 
@@ -92,17 +92,25 @@ The general purpose of the Center is the conduct and support of research and res
 
 (4) The members of the Advisory Board shall, from among the members appointed under paragraph (3)(A), designate an individual to serve as the chair of the Advisory Board.
 
-(July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985.)
+(July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, referred to in subsecs. (d)(3)(A) and (f)(1), probably means the date of enactment of the National Institutes of Health Amendments of 1990, Pub. L. 101–613, which was approved Nov. 16, 1990.
 
+Section 284b of this title, referred to in subsec. (d)(3)(B), (4), was repealed by Pub. L. 109–482, title I, §104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
+
 #### Amendments
 
+2007—Subsec. (c)(1)(E)(i). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
+
 1992—Subsec. (f)(3)(B)(xi). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Preventing Duplicative Programs of Medical Rehabilitation Research
 
@@ -129,4 +137,6 @@ Definition of medical rehabilitation.—For purposes of this subsection, the ter
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

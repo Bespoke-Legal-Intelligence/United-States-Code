@@ -6,7 +6,7 @@ The Secretary acting through the Institute may designate National Alcohol Resear
 
 &emsp;(1) the application contains or is supported by reasonable assurances that—
 
-&emsp;&emsp;(A) the applicant has the experience, or capability, to conduct, through biomedical, behavioral, social, and related disciplines, long-term research on alcoholism and other alcohol problems and to provide coordination of such research among such disciplines;
+&emsp;&emsp;(A) the applicant has the experience, or capability, to conduct, through biomedical, behavioral, social, and related disciplines,long-term research on alcoholism and other alcohol problems and to provide coordination of such research among such disciplines;
 
 &emsp;&emsp;(B) the applicant has available to it sufficient facilities (including laboratory, reference, and data analysis facilities) to carry out the research plan contained in the application;
 

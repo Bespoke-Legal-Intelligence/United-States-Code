@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapterII of this chapter that are made by lending institutions certified by the Secretary.
+&emsp;The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapter II of this chapter that are made by lending institutions certified by the Secretary.
 
 #### (2) Certification requirements
 
@@ -80,7 +80,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (e) Administration of Certified Lenders and Preferred Certified Lenders programs
 
-The Secretary may administer the loan guarantee programs under subsections (c) and (d) ofthis section through central offices established in States or in multi-State areas.
+The Secretary may administer the loan guarantee programs under subsections (c) and (d) of this section through central offices established in States or in multi-State areas.
 
 (Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, §5309, May 13, 2002, 116 Stat. 346.)
 
@@ -118,7 +118,7 @@ Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that:
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that:
 
-“Hereafter, funds appropriated or available to the Farmers Home Administration under this or any other Act to make or to service farm loans shall be available for continuing assistance to delinquent borrowers on the basis of the policies contained in Farmers Home Administration Announcement Number 1113–1960, dated November 30, 1984.
+“Hereafter, funds appropriated or available to the Farmers Home Administration under this or any other Act to make or to service farm loans shall be availablefor continuing assistance to delinquent borrowers on the basis of the policies contained in Farmers Home Administration Announcement Number 1113–1960, dated November 30, 1984.
 
 “Hereafter, none of the funds appropriated or made available by this or any other Act, or otherwise made available to the Secretary of Agriculture or the Farmers Home Administration, may be used to implement section 1944.16(c)(1) of title 7, Code of Federal Regulations, as published in 52 Federal Register 11983 (April 14, 1987) or any other regulation that would have the same effect as such regulation.”
 

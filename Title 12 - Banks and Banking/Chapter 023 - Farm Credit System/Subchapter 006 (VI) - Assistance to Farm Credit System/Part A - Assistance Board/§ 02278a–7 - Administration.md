@@ -6,7 +6,7 @@ The Financial Assistance Corporation shall pay the necessary and reasonable admi
 
 #### (b) Interim funding
 
-Before the availability of funding from the Assistance Fund, the Assistance Board may use the revolving fund established under section 2151 of this title. Such amounts used shall be repaid to the revolving fund out of the Assistance Fund within the same fiscal year that such funds were received by the Assistance Board.
+Before the availability of funding from the Assistance Fund, the Assistance Board may usethe revolving fund established under section 2151 of this title. Such amounts used shall be repaid to the revolving fund out of the Assistance Fund within the same fiscal year that such funds were received by the Assistance Board.
 
 #### (c) Assistance operations
 

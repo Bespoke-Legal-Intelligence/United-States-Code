@@ -116,7 +116,41 @@ A prior section 1173 of act Aug. 14, 1935, was classified to section 1320c–22 
 
 #### Recommendations With Respect to Privacy of Certain Health Information
 
-Section 264 of Pub. L. 104–191 directed Secretary of Health and Human Services, in consultation with the National Committee on Vital and Health Statistics and the Attorney General, to submit to Congress, not later than the date that is 12 months after Aug. 21, 1996, detailed recommendations on standards with respect to the privacy of individually identifiable health information, which recommendations were to address at least the rights that an individual who is a subject of individually identifiable health information should have, the procedures that should be established for the exercise of such rights, and the uses and disclosures of such information that should be authorized or required, further provided that if legislation governing such standards was not enacted by the date that is 36 months after Aug. 21, 1996, the Secretary was to promulgate final regulations containing such standards not later than the date that is 42 months after Aug. 21, 1996, and further provided for preemption of regulations.
+Pub. L. 104–191, title II, §264, Aug. 21, 1996, 110 Stat. 2033, provided that:
+
+“(a)
+
+In General.—Not later than the date that is 12 months after the date of the enactment of this Act \[Aug. 21, 1996\], the Secretary of Health and Human Services shall submit to the Committee on Labor and Human Resources and the Committee on Finance of the Senate and the Committee on Commerce and the Committee on Ways and Means of the House of Representatives detailed recommendations on standards with respect to the privacy of individually identifiable health information.
+
+“(b)
+
+Subjects for Recommendations.—The recommendations under subsection (a) shall address at least the following:
+
+&emsp;“(1) The rights that an individual who is a subject of individually identifiable health information should have.
+
+&emsp;“(2) The procedures that should be established for the exercise of such rights.
+
+&emsp;“(3) The uses and disclosures of such information that should be authorized or required.
+
+“(c)
+
+Regulations.—
+
+&emsp;“(1)
+
+In general.—If legislation governing standards with respect to the privacy of individually identifiable health information transmitted in connection with the transactions described in section 1173(a) of the Social Security Act \[subsec. (a) of this section\] (as added by section 262) is not enacted by the date that is 36 months after the date of the enactment of this Act \[Aug. 21, 1996\], the Secretary of Health and Human Services shall promulgate final regulations containing such standards not later than the date that is 42 months after the date of the enactment of this Act. Such regulations shall address at least the subjects described in subsection (b).
+
+&emsp;“(2)
+
+Preemption.—A regulation promulgated under paragraph (1) shall not supercede a contrary provision of State law, if the provision of State law imposes requirements, standards, or implementation specifications that are more stringent than the requirements, standards, or implementation specifications imposed under the regulation.
+
+“(d)
+
+Consultation.—In carrying out this section, the Secretary of Health and Human Services shall consult with—
+
+&emsp;“(1) the National Committee on Vital and Health Statistics established under section 306(k) of the Public Health Service Act (42 U.S.C. 242k(k)); and
+
+&emsp;“(2) the Attorney General.”
 
 #### Ex. Ord. No. 13181. To Protect the Privacy of Protected Health Information in Oversight Investigations
 
@@ -126,7 +160,7 @@ By the authority vested in me as President of the United States by the Constitut
 
 Section 1. <i>Policy.</i>
 
-It shall be the policy of the Government of the United States that law enforcement may not use protected health information concerning an individual that is discovered during the course of health oversight activities for unrelated civil, administrative, or criminal investigations of a non-health oversight matter, except when the balance of relevant factors weighs clearly in favor of its use. That is, protected health information may not be so used unless the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services. Protecting the privacy of patients’ protected health information promotes trust in the health care system. It improves the quality of health care by fostering an environment in which patients can feel more comfortable in providing health care professionals with accurate and detailed information about their personal health. In order to provide greater protections to patients’ privacy, the Department of Health and Human Services is issuing final regulations concerning the confidentiality of individually identifiable health information under the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, see Tables for classification\] (HIPAA). HIPAA applies only to “covered entities,” such as health care plans, providers, and clearinghouses. HIPAA regulations therefore do not apply to other organizations and individuals that gain access to protected health information, including Federal officials who gain access to health records during health oversight activities.
+It shall be the policy of the Government of the United States that law enforcement may not use protected health information concerning an individual that is discovered during the course of health oversight activities for unrelated civil, administrative, or criminal investigations of a non-health oversight matter, except when the balance of relevant factors weighs clearly in favor of its use. That is, protected health information may not be so used unless the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services. Protecting the privacy of patients’ protected health information promotes trust in the health care system. It improves thequality of health care by fostering an environment in which patients can feel more comfortable in providing health care professionals with accurate and detailed information about their personal health. In order to provide greater protections to patients’ privacy, the Department of Health and Human Services is issuing final regulations concerning the confidentiality of individually identifiable health information under the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, see Tables for classification\] (HIPAA). HIPAA applies only to “covered entities,” such as health care plans, providers, and clearinghouses. HIPAA regulations therefore do not apply to other organizations and individuals that gain access to protected health information, including Federal officials who gain access to health records during health oversight activities.
 
 Under the new HIPAA regulations, health oversight investigators will appropriately have ready access to medical records for oversight purposes. Health oversight investigators generally do not seek access to the medical records of a particular patient, but instead review large numbers of records to determine whether a health care provider or organization is violating the law, such as through fraud against the Medicare system. Access to many health records is often necessary in order to gain enough evidence to detect and bring enforcement actions against fraud in the health care system. Stricter rules apply under the HIPAA regulations, however, when law enforcement officials seek protected health information in order to investigate criminal activity outside of the health oversight realm.
 

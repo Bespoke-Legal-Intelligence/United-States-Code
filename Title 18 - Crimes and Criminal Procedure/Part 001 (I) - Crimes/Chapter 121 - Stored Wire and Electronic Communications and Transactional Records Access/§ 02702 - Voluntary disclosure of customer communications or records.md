@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibitions.—Except as provided in subsection (b)—
+Prohibitions.—Except as provided in subsection (b) or (c)—
 
 &emsp;(1) a person or entity providing an electronic communication service to the public shall not knowingly divulge to any person or entity the contents of a communication while in electronic storage by that service; and
 
@@ -40,7 +40,7 @@ Exceptions for disclosure of communications.—A provider described in subsectio
 
 &emsp;&emsp;\[(B) Repealed. Pub. L. 108–21, title V, §508(b)(1)(A), Apr. 30, 2003, 117 Stat. 684\]
 
-&emsp;(8) to a Federal, State, or local governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
+&emsp;(8) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
 
 (c)
 
@@ -52,19 +52,35 @@ Exceptions for Disclosure of Customer Records.—A provider described in subsect
 
 &emsp;(3) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
 
-&emsp;(4) to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;
+&emsp;(4) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of information relating to the emergency;
 
 &emsp;(5) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032); or
 
 &emsp;(6) to any person other than a governmental entity.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat.2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157; Pub. L. 108–21, title V, §508(b), Apr. 30, 2003, 117 Stat. 684.)
+(d)
 
-#### Amendment of Section
+Reporting of Emergency Disclosures.—On an annual basis, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing—
 
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
+&emsp;(1) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8); and
+
+&emsp;(2) a summary of the basis for disclosure in those instances where—
+
+&emsp;&emsp;(A) voluntary disclosures under subsection (b)(8) were made to the Department of Justice; and
+
+&emsp;&emsp;(B) the investigation pertaining to those disclosures was closed without the filing of criminal charges.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157; Pub. L. 108–21, title V, §508(b), Apr. 30, 2003, 117 Stat. 684; Pub. L. 109–177, title I, §107(a), (b)(1), (c), Mar. 9, 2006, 120 Stat. 202, 203.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–177, §107(c), inserted “or (c)” after “Except as provided in subsection (b)”.
+
+Subsec. (b)(8). Pub. L. 109–177, §107(b)(1)(A), struck out “Federal, State, or local” before “governmental entity”.
+
+Subsec. (c)(4). Pub. L. 109–177, §107(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;”.
+
+Subsec. (d). Pub. L. 109–177, §107(a), added subsec. (d).
 
 2003—Subsec. (b)(5). Pub. L. 108–21, §508(b)(1)(C), which directed amendment of par. (5) by striking “or” at the end, could not be executed because “or” did not appear at the end. See 2002 Amendment note below.
 
@@ -84,15 +100,15 @@ Subsec. (b)(6)(C). Pub. L. 107–296, §225(d)(1)(C), struck out subpar. (C) whi
 
 Subsec. (b)(7). Pub. L. 107–296, §225(d)(1)(D), added par. (7).
 
-2001—Pub. L. 107–56, §§212(a)(1)(A), 224, temporarily substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline. See Termination Date of 2001 Amendment note below.
+2001—Pub. L. 107–56, §212(a)(1)(A), substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline.
 
-Subsec. (a)(3). Pub. L. 107–56, §§212(a)(1)(B), 224, temporarily added par. (3). See Termination Date of 2001 Amendment note below.
+Subsec. (a)(3). Pub. L. 107–56, §212(a)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 107–56, §§212(a)(1)(C), 224, temporarily substituted “Exceptions for disclosure of communications” for “Exceptions” in heading and “A provider described in subsection (a)” for “A person or entity” in introductory provisions. See Termination Date of 2001 Amendment note below.
+Subsec. (b). Pub. L. 107–56, §212(a)(1)(C), substituted “Exceptions for disclosure of communications” for “Exceptions” in heading and “A provider described in subsection (a)” for “A person or entity” in introductory provisions.
 
-Subsec. (b)(6)(C). Pub. L. 107–56, §§212(a)(1)(D), 224, temporarily added subpar. (C). See Termination Date of 2001 Amendment note below.
+Subsec. (b)(6)(C). Pub. L. 107–56, §212(a)(1)(D), added subpar. (C).
 
-Subsec. (c). Pub. L. 107–56, §§212(a)(1)(E), 224, temporarily added subsec. (c). See Termination Date of 2001 Amendment note below.
+Subsec. (c). Pub. L. 107–56, §212(a)(1)(E), added subsec. (c).
 
 1998—Subsec. (b)(6). Pub. L. 105–314 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to a law enforcement agency, if such contents—
 
@@ -105,8 +121,4 @@ Subsec. (c). Pub. L. 107–56, §§212(a)(1)(E), 224, temporarily added subsec. 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
-
-#### Termination Date of 2001 Amendment
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
 

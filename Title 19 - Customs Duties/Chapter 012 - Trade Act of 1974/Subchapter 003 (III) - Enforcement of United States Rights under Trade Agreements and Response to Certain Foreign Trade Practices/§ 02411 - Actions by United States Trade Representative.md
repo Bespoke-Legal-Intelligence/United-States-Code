@@ -50,7 +50,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(1) an act, policy, or practice of a foreign country is unreasonable or discriminatory and burdens or restricts United States commerce, and
 
-&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of thatact, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 #### (c) Scope of authority
 
@@ -120,7 +120,7 @@ For purposes of this subchapter—
 
 &emsp;(2) An act, policy, or practice of a foreign country that burdens or restricts United States commerce may include the provision, directly or indirectly, by that foreign country of subsidies for the construction of vessels used in the commercial transportation by water of goods between foreign countries and the United States.
 
-&emsp;(3)(A) An act, policy, or practice is unreasonable if the act, policy, or practice, while notnecessarily in violation of, or inconsistent with, the international legal rights of the United States, is otherwise unfair and inequitable.
+&emsp;(3)(A) An act, policy, or practice is unreasonable if the act, policy, or practice, while not necessarily in violation of, or inconsistent with, the international legal rights of the United States, is otherwise unfair and inequitable.
 
 &emsp;(B) Acts, policies, and practices that are unreasonable include, but are not limited to, any act, policy, or practice, or any combination of acts, policies, or practices, which—
 
@@ -160,7 +160,7 @@ For purposes of this subchapter—
 
 &emsp;(E) The term “export targeting” means any government plan or scheme consisting of a combination of coordinated actions (whether carried out severally or jointly) that are bestowed on a specific enterprise, industry, or group thereof, the effect of which is to assist the enterprise, industry, or group to become more competitive in the export of a class or kind of merchandise.
 
-&emsp;(F)(i) For the purposes of subparagraph (B)(i)(II), adequate and effective protection of intellectual property rights includes adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such country to secure, exercise, and enforce rights and enjoy commercial benefits relating to patents, trademarks, copyrights and related rights, mask works, trade secrets, and plant breeder's rights.
+&emsp;(F)(i) For the purposes of subparagraph (B)(i)(II), adequate and effective protection of intellectual property rights includes adequateand effective means under the laws of the foreign country for persons who are not citizens or nationals of such country to secure, exercise, and enforce rights and enjoy commercial benefits relating to patents, trademarks, copyrights and related rights, mask works, trade secrets, and plant breeder's rights.
 
 &emsp;(ii) For purposes of subparagraph (B)(i)(IV), the denial of fair and equitable nondiscriminatory market access opportunities includes restrictions on market access related to the use, exploitation, or enjoyment of commercial benefits derived from exercising intellectual property rights in protected works or fixations or products embodying protected works.
 
@@ -178,7 +178,7 @@ For purposes of this subchapter—
 
 &emsp;(9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b) of this section.
 
-(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI,§621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### Prior Provisions
 
@@ -280,7 +280,7 @@ Sec. 2. <i>Rationale</i>: (a) This order finds that:
 
 (9) individual countries should have the ability to take measures to address the HIV/AIDS epidemic, provided that such measures are consistent with their international obligations; and
 
-(10) successful initiatives will require effective partnerships and cooperation among governments, international organizations, nongovernmental organizations, and the private sector, and greater consideration should be given to financial, legal, and other incentives that will promote improved prevention and treatment actions.
+(10) successful initiatives will require effective partnerships and cooperation among governments, international organizations, nongovernmental organizations, and the private sector, and greater considerationshould be given to financial, legal, and other incentives that will promote improved prevention and treatment actions.
 
 Sec. 3. <i>Scope</i>. (a) This order prohibits the United States Government from taking action pursuant to section 301(b) of the Trade Act of 1974 \[19 U.S.C. 2411(b)\] with respect to any law or policy in beneficiary sub-Saharan African countries that promotes access to HIV/AIDS pharmaceuticals or medical technologies and that provides adequate and effective intellectual property protection consistent with the TRIPS Agreement. However, this order does not prohibit United States Government officials from evaluating, determining, or expressing concern about whether such a law or policy promotes access to HIV/AIDS pharmaceuticals or medical technologies or provides adequate and effective intellectual property protection consistent with the TRIPS Agreement. In addition, this order does not prohibit United States Government officials from consulting with or otherwise discussing with sub-Saharan African governments whether such law or policy meets the conditions set forth in section 1(a) of this order. Moreover, this order does not prohibit the United States Government from invoking the dispute settlement procedures of the World Trade Organization to examine whether any such law or policy is consistent with the Uruguay Round Agreements, referred to in section 101(d) of the Uruguay Round Agreements Act \[19 U.S.C. 3511(d)\].
 

@@ -38,7 +38,7 @@ Provisions similar to those in this section were contained in House Resolution 4
 
 “Sec. 2. (a) The first section of this resolution shall not affect or change the appointments or continuity of employment of those employees who hold such positions on the date of adoption of this resolution \[June 17, 1969\].
 
-“(b) In accordance with the authority of the House of Representatives under subparagraph (3) of the first section of this resolution, the respective per annum grossrates of pay of those positions for which position titles are provided by clauses (C), (D), (E), and (F) of subparagraph (1) of the first section of this resolution are as follows:
+“(b) In accordance with the authority of the House of Representatives under subparagraph (3) of the first section of this resolution, the respective per annum gross rates of pay of those positions for which position titles are provided by clauses (C), (D), (E), and (F) of subparagraph (1) of the first section of this resolution are as follows:
 
 &emsp;“(1) for the position subject to clause (C)—$29,160;
 

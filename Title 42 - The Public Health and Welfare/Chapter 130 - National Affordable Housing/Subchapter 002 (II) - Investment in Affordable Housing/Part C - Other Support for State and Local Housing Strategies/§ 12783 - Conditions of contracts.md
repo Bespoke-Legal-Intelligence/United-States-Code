@@ -8,7 +8,7 @@ The Secretary shall carry out this part insofar as is practicable through contra
 
 &emsp;(2) a public purpose organization established pursuant to State or local legislation and responsible to the chief elected official of a participating jurisdiction;
 
-&emsp;(3) an agency or authority established by two or more participating jurisdictions to carry out activities consistent with the purposes of this subchapter;
+&emsp;(3) an agency or authority established by two or more participating jurisdictions tocarry out activities consistent with the purposes of this subchapter;
 
 &emsp;(4) a national or regional nonprofit organization that has a membership comprised predominantly of entities or officials of entities that qualify under paragraph (1), (2), or (3); or
 
@@ -16,7 +16,7 @@ The Secretary shall carry out this part insofar as is practicable through contra
 
 #### (b) Contract terms
 
-Contracts under this part shall be for not more than 3 years and shall provide not more than 20percent of the operating budget of the contracting organization in any one year. Within any fiscal year, contracts with any one organization may not be entered into for a total of more than 20 percent of the funds appropriated under this part in that fiscal year.
+Contracts under this part shall be for not more than 3 years and shall provide not more than 20 percent of the operating budget of the contracting organization in any one year. Within any fiscal year, contracts with any one organization may not be entered into for a total of more than 20 percent of the funds appropriated under this part in that fiscal year.
 
 (Pub. L. 101–625, title II, §243, Nov. 28, 1990, 104 Stat. 4118.)
 

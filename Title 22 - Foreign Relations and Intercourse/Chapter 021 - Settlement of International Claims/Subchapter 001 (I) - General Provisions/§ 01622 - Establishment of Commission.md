@@ -52,7 +52,7 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 #### Sec. 2. Transfer of Functions
 
-(a) All functions of the War Claims Commission and of the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
+(a) All functions of the War Claims Commission and of the members, officers, and employees thereof arehereby transferred to the Foreign Claims Settlement Commission of the United States.
 
 (b) All functions of the International Claims Commission of the United States (hereinafter referred to as the International Claims Commission) and the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
 
@@ -62,11 +62,11 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 #### Sec. 3. Certain Functions of Chairman
 
-There are hereby vested in the Chairman all functions of the Commission with respect to the internalmanagement of the affairs of the Commission, including but not limited to functions with respect to: (a) the appointment of personnel employed under the Commission, (b) the direction of employees of the Commission and the supervision of their official activities, (c) the distribution of business among employees and organizational units under the Commission, (d) the preparation of budget estimates, and (e) the use and expenditure of funds of the Commission available for expenses of administration.
+There are hereby vested in the Chairman all functions of the Commission with respect to the internal management of the affairs of the Commission, including but not limited to functions with respect to: (a) the appointment of personnel employed under the Commission, (b) the direction of employees of the Commission and the supervision of their official activities, (c) the distribution of business among employees and organizational units under the Commission, (d) the preparation of budget estimates, and (e) the use and expenditure of funds of the Commission available for expenses of administration.
 
 #### Sec. 4. Abolitions
 
-(a) The War Claims Commission provided for in the War Claims Act of 1948, 62, Stat. 1240, as amended \[50 App. U.S.C. 2001 et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1621–1627\], including the offices of the members of each of the said commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
+(a) The War Claims Commission provided for in the War Claims Act of 1948, 62 Stat. 1240, as amended \[50 U.S.C. App. 2001 et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1621–1627\], including the offices of the members of each of the said commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
 
 (b) The functions of the Secretary of State under the third and fourth sentences of section 3(c) of the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1622(c)\], are hereby abolished.
 

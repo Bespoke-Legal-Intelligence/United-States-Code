@@ -16,7 +16,7 @@ The Secretary shall accept nominations of land to be leased at any time from qua
 
 #### (3) Lands subject to mining claims
 
-&emsp;Lands that are subject to a mining claim for which a plan of operations has been approved by the relevant Federal land managementagency may be available for noncompetitive leasing under this section to the mining claim holder.
+&emsp;Lands that are subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency may be available for noncompetitive leasing under this section to the mining claim holder.
 
 #### (c) Noncompetitive leasing
 

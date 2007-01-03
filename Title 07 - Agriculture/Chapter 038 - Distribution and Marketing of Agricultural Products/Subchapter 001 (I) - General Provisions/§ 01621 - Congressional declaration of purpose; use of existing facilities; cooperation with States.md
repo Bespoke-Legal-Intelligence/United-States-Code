@@ -58,7 +58,7 @@ Purpose.—It is the purpose of this Act \[see Short Title of 2004 Amendment not
 
 “(a)
 
-Availability and Purpose of Grants.—Subject to the appropriation of funds to carry out this section,the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2009 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
+Availability and Purpose of Grants.—Subject to the appropriation of funds to carry out this section, the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2009 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
 
 “(b)
 
@@ -332,7 +332,9 @@ Amount of grant.—
 
 In general.—The total amount provided under this subsection to a grant recipient shall not exceed $500,000.
 
-&emsp;&emsp;“(B) Majority-controlled producer-based business ventures.—The amount of grants provided to majority-controlled producer-based business ventures under paragraph (1)(B) for a fiscal year may not exceed 10 percent of the amount of funds that are used to make grants for the fiscal year under this subsection.
+&emsp;&emsp;“(B)
+
+Majority-controlled producer-based business ventures.—The amount of grants provided to majority-controlled producer-based business ventures under paragraph (1)(B) for a fiscal year may not exceed 10 percent of the amount of funds that are used to make grants for the fiscal year under this subsection.
 
 &emsp;“(3)
 

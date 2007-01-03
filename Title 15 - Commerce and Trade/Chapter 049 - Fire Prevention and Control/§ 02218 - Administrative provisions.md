@@ -28,7 +28,7 @@ All property rights with respect to inventions and discoveries, which are made i
 
 #### (e) Coordination
 
-To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs offire prevention and control and with private and other Federal organizations and offices so concerned.
+To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.
 
 (Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, §110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302.)
 
@@ -44,7 +44,9 @@ In subsec. (b)(2), “section 1342 of title 31” substituted for “section 367
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

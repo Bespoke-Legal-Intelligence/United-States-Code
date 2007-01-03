@@ -44,7 +44,7 @@ Qualified period.—For purposes of this subsection, the term ‘qualified perio
 
 #### Termination Date
 
-Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §111(c), Aug. 6, 2002, 116 Stat. 936, provided that:
+Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13,1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §111(c), Aug. 6, 2002, 116 Stat. 936, provided that:
 
 “(a)
 
@@ -99,5 +99,7 @@ Exception.—Notwithstanding subparagraph (A), an agricultural commodity produce
 
 - [Subpart a - Petitions and Determinations](Subpart%20a%20-%20Petitions%20and%20Determinations/README.md)
 - [Subpart b - Program Benefits](Subpart%20b%20-%20Program%20Benefits/README.md)
+- [Division 001 (I) - Trade Readjustment Allowances](Division%20001%20%28I%29%20-%20Trade%20Readjustment%20Allowances/README.md)
+- [Division 002 (II) - Training, Other Employment Services, and Allowances](Division%20002%20%28II%29%20-%20Training%2C%20Other%20Employment%20Services%2C%20and%20Allowances/README.md)
 - [Subpart c - General Provisions](Subpart%20c%20-%20General%20Provisions/README.md)
 - [Subpart d - NAFTA Transitional Adjustment Assistance Program](Subpart%20d%20-%20NAFTA%20Transitional%20Adjustment%20Assistance%20Program/README.md)

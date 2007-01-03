@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam,American Samoa, or the Commonwealth of the Northern Mariana Islands.
+&emsp;(1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
 
 &emsp;(2) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
 
@@ -22,7 +22,7 @@ Disability.—The term “disability” has the meaning given the term in the Re
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in par. (7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended,which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Codification
 

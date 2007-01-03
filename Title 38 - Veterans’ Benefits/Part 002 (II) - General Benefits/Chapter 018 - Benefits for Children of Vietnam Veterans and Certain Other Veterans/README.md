@@ -58,6 +58,8 @@
 
 1997—Pub. L. 105–114, title IV, §404(b)(2), Nov. 21, 1997, 111 Stat. 2295, substituted “Applicability of certain administrative provisions” for “Effective date of awards” in item 1806.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

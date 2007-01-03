@@ -26,6 +26,7 @@
 | [40726\.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040726%20-%20Allowances%20for%20junior%20competitors.md) | Allowances for junior competitors. |
 | [40727\.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040727%20-%20Army%20support.md) | Army support. |
 | [40728\.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040728%20-%20Transfer%20of%20firearms%2C%20ammunition%2C%20and%20parts.md) | Transfer of firearms, ammunition, and parts. |
+| [40728A.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040728A%20-%20Recovery%20of%20excess%20firearms%2C%20ammunition%2C%20and%20parts%20granted%20to%20foreign%20countries%20and%20transfer%20to%20corporation.md) | Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation. |
 | [40729\.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040729%20-%20Reservation%20of%20firearms%2C%20ammunition%2C%20and%20parts.md) | Reservation of firearms, ammunition, and parts. |
 | [40730\.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040730%20-%20Surplus%20property.md) | Surplus property. |
 | [40731\.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040731%20-%20Issuance%20or%20loan%20of%20firearms%20and%20supplies.md) | Issuance or loan of firearms and supplies. |
@@ -33,6 +34,10 @@
 | [40733\.](Subchapter%20002%20%28II%29%20-%20Civilian%20Marksmanship%20Program/%C2%A7%2040733%20-%20Applicability%20of%20other%20law.md) | Applicability of other law. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2006—Pub. L. 109–364, div. A, title III, §354(b), Oct. 17, 2006, 120 Stat. 2162, added item 40728A.
 
 
 ---

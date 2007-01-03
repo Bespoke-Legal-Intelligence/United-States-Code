@@ -42,7 +42,7 @@ Each such report shall include the following with respect to preceding <sup>1</
 
 &emsp;(9) An explanation of United States policy regarding the transfer of MTCR equipment or technology to foreign missile programs, including programs involving launches of space vehicles.
 
-&emsp;(10) A description of each transfer by any person or government during the preceding 12-month period which is subject to sanctionsunder the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484).
+&emsp;(10) A description of each transfer by any person or government during the preceding 12-month period which is subject to sanctions under the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484).
 
 #### (d) Exclusions
 

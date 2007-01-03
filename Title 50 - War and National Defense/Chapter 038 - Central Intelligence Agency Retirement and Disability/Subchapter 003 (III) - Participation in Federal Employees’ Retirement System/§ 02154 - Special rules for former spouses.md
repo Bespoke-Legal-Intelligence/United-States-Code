@@ -134,7 +134,7 @@ For purposes of this section:
 
 &emsp;(A) The survivor benefits payable under this subsection to a qualified former spouse shall include the amount payable under section 8442(b)(1)(A) of title 5 and any supplementary annuity under section 8442(f) of such title that would be payable if such former spouse were a widow or widower entitled to an annuity under such section.
 
-&emsp;(B) Any calculation under section 8442(f) of title 5 of the supplementary annuity payableto a widow or widower of an employee referred to in section 2152(a) of this title shall be based on an “assumed CIARDS annuity” rather than an “assumed CSRS annuity” as stated in section 8442(f) of such title. For the purpose of this subparagraph, the term “assumed CIARDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under subchapter II of this chapter based on the service of the deceased annuitant determined under section 8442(f)(5) of such title.
+&emsp;(B) Any calculation under section 8442(f) of title 5 of the supplementary annuity payable to a widow or widower of an employee referred to in section 2152(a) of this title shall be based on an “assumed CIARDS annuity” rather than an “assumed CSRS annuity” as stated in section 8442(f) of such title. For the purpose of this subparagraph, the term “assumed CIARDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under subchapter II of this chapter based on the service of the deceased annuitant determined under section 8442(f)(5) of such title.
 
 #### (3) Disqualification upon remarriage before age 55
 

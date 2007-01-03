@@ -32,13 +32,13 @@
 
 #### (5) Clarification
 
-&emsp;Nothing in this section shall be construed as authorizing the Attorney General to deny temporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
+&emsp;Nothing in this section shall be construed as authorizing the Attorney General to denytemporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
 
 #### (b) Designations
 
 #### (1) In general
 
-&emsp;The Attorney General, after consultation with appropriate agencies of the Government,may designate any foreign state (or any part of such foreign state) under this subsection only if—
+&emsp;The Attorney General, after consultation with appropriate agencies of the Government, may designate any foreign state (or any part of such foreign state) under this subsection only if—
 
 &emsp;&emsp;(A) the Attorney General finds that there is an ongoing armed conflict within the state and, due to such conflict, requiring the return of aliens who are nationals of that state to that state (or to the part of the state) would pose a serious threat to their personal safety;
 
@@ -156,7 +156,7 @@
 
 #### (5) Construction
 
-&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to apply for temporary protected status under this section.
+&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to,or to be admitted to, the United States in order to apply for temporary protected status under this section.
 
 #### (6) Confidentiality of information
 
@@ -310,7 +310,7 @@ The Attorney General may not suspend deportation and adjust status under this se
 
 Section 304(c) of Pub. L. 102–232, as amended by Pub. L. 104–208, div. C, title III, §308(g)(1), (8)(A)(ii), (C), Sept. 30, 1996, 110 Stat. 3009–622, 3009–624, provided that:
 
-“(1) In the case of an alien described in paragraph (2) whom the Attorney General authorizes to travel abroad temporarily and who returns to the United States in accordance with such authorization—
+“(1) In the case of an alien described in paragraph (2) whom the Attorney General authorizes to travel abroadtemporarily and who returns to the United States in accordance with such authorization—
 
 &emsp;“(A) the alien shall be inspected and admitted in the same immigration status the alien had at the time of departure if—
 

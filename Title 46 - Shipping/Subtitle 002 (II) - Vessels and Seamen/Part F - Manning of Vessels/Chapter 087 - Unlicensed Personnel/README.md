@@ -17,10 +17,6 @@ Chapter 87 prescribes certain requirements for unlicensed personnel on vessels o
 
 1988—Pub. L. 100–239, §5(f)(2), Jan. 11, 1988, 101 Stat. 1781, added item 8704.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2102 of this title.
-
 
 ---
 

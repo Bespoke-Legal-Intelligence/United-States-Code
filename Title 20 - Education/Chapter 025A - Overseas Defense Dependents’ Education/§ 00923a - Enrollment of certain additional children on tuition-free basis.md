@@ -2,11 +2,27 @@
 
 #### (a) Enrollment authorized
 
-Under regulations to be prescribed by the Secretary of Defense, the Secretary may authorize the enrollment in schools of the defense dependents’ education system on a tuition-free basis of the children of full-time, locally-hired employees of the Department of Defense in an overseas area if such employees are citizens or nationals of the United States.
+Under regulations to be prescribed by the Secretary of Defense, the Secretary may authorize the enrollment in schools of the defense dependents’ education system on a tuition-free basis of—
+
+&emsp;(1) the children of full-time, locally-hired employees of the Department of Defense in an overseas area if such employees are citizens or nationals of the United States; and
+
+&emsp;(2) the children of a foreign military member assigned to the Supreme Headquarters Allied Powers, Europe, but only in a school of the defense dependents’ education system in Mons, Belgium, and only through the 2010–2011 school year.
 
 #### (b) Funding
 
-The Secretary may use funds available for the defense dependents’ education system to provide for the education of children enrolled in the defense dependents’ education system under subsection (a) of this section.
+The Secretary may use funds available for the defense dependents’ education system to provide for the education of children enrolled in the defense dependents’ education system under subsection (a).
 
-(Pub. L. 95–561, title XIV, §1404A, as added Pub. L. 109–163, div. A, title V, §571, Jan. 6, 2006, 119 Stat. 3270.)
+#### (c) Special rules regarding enrollment of dependents of foreign military members assigned to Supreme Headquarters Allied Powers, Europe
+
+(1) In the regulations required by subsection (a), the Secretary shall prescribe a methodology based on the estimated total number of dependents of sponsors under section 932(2) of this title enrolled in schools of the defense dependents’ education system in Mons, Belgium, to determine the number of children described in paragraph (2) of subsection (a) who will be authorized to enroll under such subsection.
+
+(2) If the number of children described in paragraph (2) of subsection (a) who seek enrollment in schools of the defense dependents’ education system in Mons, Belgium, exceeds the number authorized by the Secretary under paragraph (1), the Secretary may enroll the additional children on a space-available, tuition-free basis notwithstanding section 923(d)(2) of this title.
+
+(Pub. L. 95–561, title XIV, §1404A, as added Pub. L. 109–163, div. A, title V, §571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, §571(a), Oct. 17, 2006, 120 Stat. 2225.)
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–364, §571(a)(1), substituted “basis of—” for “basis of”, designated part of existing provisions as par. (1), substituted “; and” for period at end, and added par. (2).
+
+Subsec. (c). Pub. L. 109–364, §571(a)(2), added subsec. (c).
 

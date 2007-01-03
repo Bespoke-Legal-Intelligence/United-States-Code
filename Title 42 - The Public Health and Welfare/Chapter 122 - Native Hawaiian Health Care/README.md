@@ -4,46 +4,13 @@
 | :--- | ---: |
 | [11701\.](%C2%A7%2011701%20-%20Findings.md) | Findings. |
 | [11702\.](%C2%A7%2011702%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
-| (a) | Congress. |
-| (b) | Intent of Congress. |
-| (c) | Report. |
 | [11703\.](%C2%A7%2011703%20-%20Comprehensive%20health%20care%20master%20plan%20for%20Native%20Hawaiians.md) | Comprehensive health care master plan for Native Hawaiians. |
-| (a) | Development. |
-| (b) | Authorization of appropriations. |
 | [11704\.](%C2%A7%2011704%20-%20Functions%20of%20Papa%20Ola%20Lokahi.md) | Functions of Papa Ola Lokahi. |
-| (a) | Responsibility. |
-| (b) | Special project funds. |
-| (c) | Clearinghouse. |
-| (d) | Coordination of programs and services. |
-| (e) | Technical support. |
-| (f) | Relationships with other agencies. |
 | [11705\.](%C2%A7%2011705%20-%20Native%20Hawaiian%20health%20care%20systems.md) | Native Hawaiian health care systems. |
-| (a) | Comprehensive health promotion, disease prevention, and primary health services. |
-| (b) | Qualified entity. |
-| (c) | Services to be provided. |
-| (d) | Limitation of number of entities. |
-| (e) | Matching funds. |
-| (f) | Restriction on use of grant and contract funds. |
-| (g) | Limitation on charges for services. |
-| (h) | Authorization of appropriations. |
 | [11706\.](%C2%A7%2011706%20-%20Administrative%20grant%20for%20Papa%20Ola%20Lokahi.md) | Administrative grant for Papa Ola Lokahi. |
-| (a) | In general. |
-| (b) | Authorization of appropriations. |
 | [11707\.](%C2%A7%2011707%20-%20Administration%20of%20grants%20and%20contracts.md) | Administration of grants and contracts. |
-| (a) | Terms and conditions. |
-| (b) | Periodic review. |
-| (c) | Administrative requirements. |
-| (d) | Contract evaluation. |
-| (e) | Limitation on use of funds for administrative expenses. |
-| (f) | Report. |
-| (g) | Annual private audit. |
 | [11708\.](%C2%A7%2011708%20-%20Assignment%20of%20personnel.md) | Assignment of personnel. |
-| (a) | In general. |
-| (b) | Applicable Federal personnel provisions. |
 | [11709\.](%C2%A7%2011709%20-%20Native%20Hawaiian%20health%20scholarships.md) | Native Hawaiian health scholarships. |
-| (a) | Eligibility. |
-| (b) | Terms and conditions. |
-| (c) | Authorization of appropriations. |
 | [11710\.](%C2%A7%2011710%20-%20Report.md) | Report. |
 | [11711\.](%C2%A7%2011711%20-%20Definitions.md) | Definitions. |
 | [11712\.](%C2%A7%2011712%20-%20Rule%20of%20construction.md) | Rule of construction. |

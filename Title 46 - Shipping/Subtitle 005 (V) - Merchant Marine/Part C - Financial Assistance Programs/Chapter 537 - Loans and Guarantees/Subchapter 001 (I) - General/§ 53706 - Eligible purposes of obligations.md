@@ -1,0 +1,124 @@
+### §53706. Eligible purposes of obligations
+
+(a)
+
+In General.—To be eligible for a guarantee under this chapter, an obligation must aid in any of the following:
+
+&emsp;(1)(A) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
+
+&emsp;&emsp;(i) in the coastwise or intercoastal trade;
+
+&emsp;&emsp;(ii) on the Great Lakes, or on bays, sounds, rivers, harbors, or inland lakes of the United States;
+
+&emsp;&emsp;(iii) in foreign trade as defined in section 109(b) of this title;
+
+&emsp;&emsp;(iv) as an ocean thermal energy conversion facility or plantship;
+
+&emsp;&emsp;(v) as a floating drydock in the construction, reconstruction, reconditioning, or repair of vessels; or
+
+&emsp;&emsp;(vi) as an eligible export vessel in worldwide trade.
+
+&emsp;(B) A guarantee under subparagraph (A) may not be made more than one year after delivery of the vessel (or redelivery if the vessel was reconstructed or reconditioned) unless the proceeds of the obligation are used to finance the construction, reconstruction, or reconditioning of a vessel or of facilities or equipment related to marine operations.
+
+&emsp;(2) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, reconditioning, or purchase of a vessel owned by citizens of the United States and designed principally for research, or for commercial use in the fishing industry.
+
+&emsp;(3) Financing the purchase, reconstruction, or reconditioning of a vessel or fishery facility—
+
+&emsp;&emsp;(A) for which an obligation was guaranteed under this chapter; and
+
+&emsp;&emsp;(B) that, under subchapter II of this chapter—
+
+&emsp;&emsp;&emsp;(i) is a vessel or fishery facility for which an obligation was accelerated and paid;
+
+&emsp;&emsp;&emsp;(ii) was acquired by the Federal Ship Financing Fund or successor account under section 53717 of this title; or
+
+&emsp;&emsp;&emsp;(iii) was sold at foreclosure begun or intervened in by the Secretary.
+
+&emsp;(4) Financing any part of the repayment to the United States Government of any amount of a construction-differential subsidy paid for a vessel.
+
+&emsp;(5) Refinancing an existing obligation (regardless of whether guaranteed under this chapter) issued for a purpose described in paragraphs (1)–(4), including a short-term obligation incurred to obtain temporary funds with the intention of refinancing.
+
+&emsp;(6) Financing or refinancing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, reconditioning, or purchase of a fishery facility.
+
+&emsp;(7) Financing or refinancing—
+
+&emsp;&emsp;(A) the purchase of individual fishing quotas in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act (including the reimbursement of obligors for expenditures previously made for such a purchase);
+
+&emsp;&emsp;(B) activities that assist in the transition to reduced fishing capacity; or
+
+&emsp;&emsp;(C) technologies or upgrades designed to improve collection and reporting of fishery-dependent data, to reduce bycatch, to improve selectivity or reduce adverse impacts of fishing gear, or to improve safety.
+
+(b)
+
+Non-Vessels Treated as Vessels.—An obligation guaranteed under subsection (a)(6) or (7) shall be treated, for purposes of this chapter, in the same manner and to the same extent as an obligation that aids in financing the construction, reconstruction, reconditioning, or purchase of a vessel, except with respect to provisions that by their nature can only be applied to vessels.
+
+(c)
+
+Priorities for Certain Vessels.—In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Secretary shall give priority to—
+
+&emsp;(1) a vessel that is otherwise eligible for a guarantee and is constructed with assistanceunder subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
+
+&emsp;(2) after applying paragraph (1), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
+
+&emsp;&emsp;(A) is suitable for service as a naval auxiliary in time of war or national emergency; and
+
+&emsp;&emsp;(B) meets a shortfall in sealift capacity or capability.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1606; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(A), (B), (b)(2), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 109–479, title II, §209, Jan. 12, 2007, 120 Stat. 3617.)
+
+#### Amendments Not Shown in Text
+
+<i>Subsecs. (a) and (b) of this section were derived from section 1274(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. Section 1274(a) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+
+<i>Subsec. (c) of this section was derived from subsecs. (i) and (j) of section 1273 of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(A), (B), (b)(2), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1273(i) of the former Appendix to this title was amended by striking “Secretary” and inserting “Administrator”. Section 1273(j) of the former Appendix to this title was amended by striking “Secretary” the first place it appears and inserting “Administrator” and by adding at the end the following:</i>
+
+> <i>“The Secretary of Defense shall determine whether a vessel satisfies paragraphs (1) and (2) \[now subpars. (A) and (B) of subsec. (c)(2) of this section\] by not later than 30 days after receipt of a request from the Administrator for such a determination.”</i>
+
+<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53706(a)
+
+46 App.:1274(a) (less last sentence).
+
+June 29, 1936, ch. 858, title XI, §1104A(a) \[§1104A formerly §1104\], as added June 23, 1938, ch. 600, §46, 52 Stat. 970; Aug. 4, 1939, ch. 417, §14, 53 Stat. 1187; Sept. 28, 1950, ch. 1093, §4, 64 Stat. 1078; Aug. 15, 1953, ch. 513, §2, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §4, 68 Stat. 1269; Pub. L. 86–123, §§1(3), 2, July 31, 1959, 73 Stat. 269, 271; Pub. L. 86–127, §1(3), (4), July 31, 1959, 73 Stat. 273; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 86–685, §§2, 3, Sept. 2, 1960, 74 Stat. 733; Pub. L. 90–341, June 15, 1968, 82 Stat. 180; Pub. L. 91–469, §§31, 32, Oct. 21, 1970, 84 Stat. 1035; restated Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 910; Pub. L. 96–320, title II, §202(b), Aug. 3, 1980, 94 Stat. 992; Pub. L. 96–561, title II, §220(3)(A), Dec. 22, 1980, 94 Stat. 3292; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 98–595, §1(2)–(5), Oct. 30, 1984, 98 Stat. 3130; §1104 renumbered as §1104A, Pub. L. 101–380, title IV, §4115(f)(1), Aug. 18, 1990, 104 Stat. 521; Pub. L. 103–160, title XIII, §1356(3)(A), Nov. 30, 1993, 107 Stat. 1813; Pub. L. 104–208, title I, §101 \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009–41; Pub. L. 104–297, title III, §302(a)(1)–(4), Oct. 11, 1996, 110 Stat. 3615.
+
+53706(b)
+
+46 App.:1274(a) (last sentence).
+
+53706(c)
+
+46 App.:1273(i), (j).
+
+June 29, 1936, ch. 858, title XI, §1103(i), (j), as added Pub. L. 108–136, title X, §1014(a), title XXXV, §3544, Nov. 24, 2003, 117 Stat. 1591, 1822.
+
+In subsection (a), before paragraph (1), the words “To be eligible for a guarantee under this chapter, an obligation must aid in any of the following” are substituted for “Pursuant to the authority granted under section 1273(a) of this Appendix, the Secretary, upon such terms as he shall prescribe, may guarantee or make a commitment to guarantee, payment of the principal of and interest on an obligation which aids in” to eliminate unnecessary words.
+
+In subsection (a)(2), the words “citizens of the United States” are substituted for “citizens or nationals of the United States or citizens of the Northern Mariana Islands” because of the definition of “citizen of the United States” in chapter 1 of the revised title. Citizens of the Northern Mariana Islands became citizens or non-citizen nationals of the United States (either of which is a “citizen of the United States” as defined in chapter 1 of the revised title) when the Covenant establishing the Commonwealth of the Northern Mariana Islands became effective November 4, 1986.
+
+#### References in Text
+
+Section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(7)(A), is section 303(d)(4) of Pub. L. 94–265, which is classified to section 1853(d)(4) of Title 16, Conservation.
+
+The Maritime Security Act of 2003, referred to in subsec. (c)(1), is title XXXV of div. C of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1788. Subtitle D of the Act amended section 1273 of the former Appendix to this title and enacted provisions set out as a note under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 101 of this title and Tables.
+
+#### Amendments
+
+2007—Subsec. (a)(7). Pub. L. 109–479 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Financing or refinancing (including reimbursement of an obligor for expenditures previously made for) the purchase of an individual fishing quota in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853(d)(4)).”
+
+#### Prohibition of New Loans for Construction of Fishing Vessels Under Certain Conditions
+
+Pub. L. 104–297, title III, §302(b)(2), Oct. 11, 1996, 110 Stat. 3615, as amended by Pub. L. 105–277, div. C, title II, §212, Oct. 21, 1998, 112 Stat. 2681–635; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, provided that: “No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in section 2101 of title 46, United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery or in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty.”
+
+\[Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, which directed the amendment of title II of division C of Public Law 105–277 by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than 750 gross registered tons”, was executed to section 302(b)(2) of Pub. L. 104–297, set out above, as amended by section 212 of Pub. L. 105–277, to reflect the probable intent of Congress.\]
+

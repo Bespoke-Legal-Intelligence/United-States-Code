@@ -2,7 +2,7 @@
 
 On and after March 4, 1915 the Secretary of Agriculture, under regulations to be prescribed by him, is authorized to permit the Navy Department to take from the national forests such earth, stone, and timber for the use of the Navy as may be compatible with the administration of the national forests for the purposes for which they are established, and also in the same manner to permit the taking of earth, stone, and timber from the national forests for the construction of Government railways and other Government works in Alaska. He is authorized also to permit the Department of the Army to take earth, stone, and timber from the national forests for use in the construction of river and harbor and other works in charge of that department, subject to such regulations and restrictions as he may prescribe.
 
-(Mar. 4, 1915, ch. 144, 38 Stat. 1100; Mar. 3, 1925, ch. 467, §13, 43 Stat. 1197; May 29, 1928, ch. 901, §1(98), 45 Stat. 993; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+(Mar. 4, 1915, ch. 144, 38 Stat. 1100; Mar. 3, 1925, ch. 467, §13, 43 Stat. 1197; May 29, 1928, ch. 901,§1(98), 45 Stat. 993; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
 #### Codification
 

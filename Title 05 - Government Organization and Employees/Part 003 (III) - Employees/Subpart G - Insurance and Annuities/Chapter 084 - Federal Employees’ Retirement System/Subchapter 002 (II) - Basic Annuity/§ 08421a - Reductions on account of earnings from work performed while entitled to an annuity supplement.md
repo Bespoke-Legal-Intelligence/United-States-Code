@@ -1,6 +1,6 @@
 ### §8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
 
-(a) The amount of the annuity supplement to which an individual is entitled under section8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
+(a) The amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
 
 (b) The amount of an individual's excess earnings shall be charged to months as follows:
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) shall be equal to 50 percent of so much of such individual's earnings for the immediately preceding year as exceeds the applicable exempt amount for such preceding year; but
 
-&emsp;&emsp;(B) may not exceed the total amount of the annuity supplement payments to which such individual was entitled for such preceding year under section 8421 (determined without regard to subsection (c) of such section, and without regard to this section).
+&emsp;&emsp;(B) may not exceed the total amount of the annuity supplement payments to whichsuch individual was entitled for such preceding year under section 8421 (determined without regard to subsection (c) of such section, and without regard to this section).
 
 &emsp;(3)(A) Subject to subparagraph (B), the number of an individual's supplement entitlement months for a year shall be 12.
 

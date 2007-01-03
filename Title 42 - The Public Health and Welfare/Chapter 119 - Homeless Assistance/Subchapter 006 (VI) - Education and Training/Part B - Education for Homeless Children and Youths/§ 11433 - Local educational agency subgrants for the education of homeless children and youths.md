@@ -42,7 +42,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 &emsp;(2) A description of the services and programs for which assistance is sought to address the needs identified in paragraph (1).
 
-&emsp;(3) An assurance that the local educational agency's combined fiscal effort per student, or the aggregate expenditures of that agency and the State with respect to the provision of free public education by such agency for the fiscal year preceding the fiscal year for which the determination is made, was not less than 90percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
+&emsp;(3) An assurance that the local educational agency's combined fiscal effort per student, or the aggregate expenditures of that agency andthe State with respect to the provision of free public education by such agency for the fiscal year preceding the fiscal year for which the determination is made, was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
 
 &emsp;(4) An assurance that the applicant complies with, or will use requested funds to comply with, paragraphs (3) through (7) of section 11432(g) of this title.
 

@@ -12,7 +12,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### (1) In general
 
-&emsp;Not later than March 31, 1988, the Administrator shall promulgate revisions of the criteria promulgated under paragraph (1) of section 6944(a) of this title and under section 6907(a)(3) of this title for facilities that may receive hazardous household wastes or hazardous wastes from small quantity generators under section 6921(d) of this title. The criteria shall be those necessary to protect human health and the environment and may take into account the practicable capability of such facilities. At a minimum such revisions for facilities potentially receiving such wastes should require ground water monitoring as necessary to detect contamination, establish criteria for the acceptable location of new or existing facilities, and provide for corrective action as appropriate.
+&emsp;Not later than March 31, 1988, the Administrator shall promulgate revisions of the criteria promulgated under paragraph (1) of section 6944(a) of this title and under section 6907(a)(3) of this title for facilities that may receive hazardous household wastes or hazardous wastes from small quantity generators under section 6921(d) of this title. The criteriashall be those necessary to protect human health and the environment and may take into account the practicable capability of such facilities. At a minimum such revisions for facilities potentially receiving such wastes should require ground water monitoring as necessary to detect contamination, establish criteria for the acceptable location of new or existing facilities, and provide for corrective action as appropriate.
 
 #### (2) Additional revisions
 

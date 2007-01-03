@@ -120,9 +120,9 @@ Special Operations Activities.—For purposes of this section, special operation
 
 Budget Support for Reserve Elements.—(1) Before the budget proposal for the special operations command for any fiscal year is submitted to the Secretary of Defense, the commander of the command shall consult with the Secretaries of the military departments concerning funding for reserve component special operations units. If the Secretary of a military department does not concur in the recommended level of funding with respect to any such unit that is under the jurisdiction of the Secretary, the commander shall include with the budget proposal submitted to the Secretary of Defense the views of the Secretary of the military department concerning such funding.
 
-(2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect toreserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
+(2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832.)
+(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L.102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832.)
 
 #### References in Text
 
@@ -178,18 +178,6 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 Section 101(c) \[§9115(i)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(i) of Pub. L. 99–661, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
-#### Grade of Certain Commanders of Special Operations Forces
-
-Pub. L. 102–484, div. A, title IX, §936(a), (b), Oct. 23, 1992, 106 Stat. 2479, provided that:
-
-“(a)
-
-Grade for Certain Regional SOF Commanders.—During the period beginning on February 1, 1993, and ending on February 1, 1995, the provisions of section 1311(e) of the National Defense Authorization Act for Fiscal Year 1987 \[Pub. L. 99–661\] (10 U.S.C. 167 note) shall apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section.
-
-“(b)
-
-Report.—Not later than March 1, 1994, the Secretary of Defense shall submit to Congress a report setting forth the Secretary's recommendations for the grade structure for the special operations forces component commander for each unified command, particularly as to whether each such commander should be of general or flag officer grade.”
-
 #### Resources for CINCSOF
 
 Section 1211(b) of Pub. L. 100–180, as amended by Pub. L. 104–106, div. A, title IX, §903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617, provided that: “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
@@ -200,19 +188,11 @@ Section 1211(b) of Pub. L. 100–180, as amended by Pub. L. 104–106, div. A, t
 
 &emsp;“(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e)).”
 
-#### Resources and Programming
-
-Section 1211(e) of Pub. L. 100–180 provided that:
-
-“(1) The major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense, to be created pursuant to section 1311(c) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661) \[set out below\], shall be created not later than 30 days after the date of the enactment of this Act \[Dec. 4, 1987\].
-
-“(2) On the date that such major force program category is created, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
-
-&emsp;“(A) a certification that all program recommendations and budget proposals for special operations forces are included in such category; and
-
-&emsp;“(B) a report explaining the program recommendations and budget proposals that have been included in such category.”
-
 #### Major Force Program Category; Program and Budget Execution; Grade for Commanders of Certain Area Special Operations Commands
+
+Pub. L. 102–484, div. A, title IX, §936(a), (b), Oct. 23, 1992, 106 Stat. 2479, provided that, during the period beginning on Feb. 1, 1993, and ending on Feb. 1, 1995, the provisions of Pub. L. 99–661, §1311(e), set out below, would apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section, and required the Secretary of Defense to submit to Congress a report setting forth the Secretary's recommendations for the grade structure for the special operations forces component commander for each unified command not later than Mar. 1, 1994.
+
+Pub. L. 100–180, div. A, title XII, §1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, §1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
 
 Section 1311(c)–(e) of Pub. L. 99–661 provided that:
 
@@ -228,7 +208,7 @@ Program and Budget Execution.—To the extent that there is authority to revise 
 
 Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
 
-\[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
+\[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, whichwas repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 

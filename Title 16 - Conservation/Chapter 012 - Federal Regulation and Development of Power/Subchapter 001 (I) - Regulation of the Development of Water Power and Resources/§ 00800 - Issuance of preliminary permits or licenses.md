@@ -28,5 +28,5 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
+Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under thischapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 

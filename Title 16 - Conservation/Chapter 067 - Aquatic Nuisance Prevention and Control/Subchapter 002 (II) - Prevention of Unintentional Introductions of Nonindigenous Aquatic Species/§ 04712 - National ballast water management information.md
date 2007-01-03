@@ -16,7 +16,7 @@
 
 #### (3) Shipping study
 
-&emsp;The Secretary shall conduct a study to determine the need for controls on vessels entering waters of the United States, other than the Great Lakes, to minimize the risk of unintentional introduction and dispersal of aquaticnuisance species in those waters. The study shall include an examination of—
+&emsp;The Secretary shall conduct a study to determine the need for controls on vessels entering waters of the United States, other than the Great Lakes, to minimize the risk of unintentional introduction and dispersal of aquatic nuisance species in those waters. The study shall include an examination of—
 
 &emsp;&emsp;(A) the degree to which shipping may be a major pathway of transmission of aquatic nuisance species in those waters;
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) examine the rate of, and trends in, ballast water discharge in the waters that are the subject of the survey; and
 
-&emsp;&emsp;&emsp;(ii) assess the effectiveness of voluntary guidelines issued, and regulations promulgated, under this subchapter in altering ballast water discharge practices to reduce the probability of accidental introductions of aquatic nuisance species.
+&emsp;&emsp;&emsp;(ii) assess the effectiveness of voluntary guidelines issued, and regulations promulgated, under this subchapter in alteringballast water discharge practices to reduce the probability of accidental introductions of aquatic nuisance species.
 
 #### (3) Columbia River
 

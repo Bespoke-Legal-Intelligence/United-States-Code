@@ -6,7 +6,7 @@ In this part—
 
 &emsp;&emsp;(A) means any form of nonhighway ground transportation that runs on rails or electromagnetic guideways, including—
 
-&emsp;&emsp;&emsp;(i) commuter or other short-haul railroad passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979; and
+&emsp;&emsp;&emsp;(i) commuter or other short-haul railroad passenger service in a metropolitanor suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979; and
 
 &emsp;&emsp;&emsp;(ii) high speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads; but
 

@@ -4,8 +4,6 @@
 | :--- | ---: |
 | [375\.](%C2%A7%2000375%20-%20Definitions.md) | Definitions. |
 | [376\.](%C2%A7%2000376%20-%20Reports%20to%20State%20tobacco%20tax%20administrator.md) | Reports to State tobacco tax administrator. |
-| (a) | Contents. |
-| (b) | Presumptive evidence. |
 | [377\.](%C2%A7%2000377%20-%20Penalties.md) | Penalties. |
 | [378\.](%C2%A7%2000378%20-%20Jurisdiction%20to%20prevent%20and%20restrain%20violations.md) | Jurisdiction to prevent and restrain violations. |
 

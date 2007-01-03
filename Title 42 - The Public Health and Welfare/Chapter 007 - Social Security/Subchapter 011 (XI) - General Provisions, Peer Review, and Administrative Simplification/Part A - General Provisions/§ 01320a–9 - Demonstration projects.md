@@ -30,7 +30,7 @@
 
 The Secretary may waive compliance with any requirement of part B or E of subchapter IV of this chapter which (if applied) would prevent a State from carrying out a demonstration project under this section or prevent the State from effectively achieving the purpose of such a project, except that the Secretary may not waive—
 
-&emsp;(1) any provision of section 627 of this title (as in effect before April 1, 1996), section 622(b)(9) of this title (as in effect after such date), or section 679 of this title; or
+&emsp;(1) any provision of section 622(b)(8) of this title,<sup>1</sup> or section 679 of this title; or
 
 &emsp;(2) any provision of such part E, to the extent that the waiver would impair the entitlement of any qualified child or family to benefits under a State plan approved under such part E.
 
@@ -78,13 +78,11 @@ Each State authorized to conduct a demonstration project under this section shal
 
 The Secretary may not authorize a State to conduct a demonstration project under this section unless the Secretary determines that the total amount of Federal funds that will be expended under (or by reason of) the project over its approved term (or such portion thereof or other period as the Secretary may find appropriate) will not exceed the amount of such funds that would be expended by the State under the State plans approved under parts B and E of subchapter IV of this chapter if the project were not conducted.
 
-(Aug. 14, 1935, ch. 531, title XI, §1130, as added Pub. L. 103–432, title II, §208, Oct. 31, 1994, 108 Stat. 4457; amended Pub. L. 105–89, title III, §301(a), (c), Nov. 19, 1997, 111 Stat. 2127, 2128; Pub. L. 108–40, §5, June 30, 2003, 117 Stat. 837.)
+(Aug. 14, 1935, ch. 531, title XI, §1130, as added Pub. L. 103–432, title II, §208, Oct. 31, 1994, 108 Stat. 4457; amended Pub. L. 105–89, title III, §301(a), (c), Nov. 19, 1997, 111 Stat. 2127, 2128; Pub. L. 108–40, §5, June 30, 2003, 117 Stat. 837; Pub. L. 109–288, §6(f)(8), Sept. 28, 2006, 120 Stat. 1248.)
 
 #### References in Text
 
 Parts B and E of subchapter IV of this chapter, referred to in subsecs. (a) to (c) and (g), are classified to sections 620 et seq. and 670 et seq., respectively, of this title.
-
-Section 627 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 103–432, title II, §202(c), Oct. 31, 1994, 108 Stat. 4454.
 
 #### Prior Provisions
 
@@ -92,11 +90,17 @@ A prior section 1130 of act Aug. 14, 1935, was classified to section 1320b of th
 
 #### Amendments
 
+2006—Subsec. (b)(1). Pub. L. 109–288 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any provision of section 627 of this title (as in effect before April 1, 1996), section 622(b)(9) of this title (as in effect after such date), or section 679 of this title; or”.
+
 2003—Subsec. (a)(2). Pub. L. 108–40 substituted “2003” for “2002”.
 
 1997—Subsec. (a). Pub. L. 105–89, §301(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.”
 
 Subsec. (d). Pub. L. 105–89, §301(c), inserted before period at end “, unless in the judgment of the Secretary, the demonstration project should be allowed to continue”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of this chapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -109,4 +113,6 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 #### Construction of 1997 Amendment
 
 Section 301(b) of Pub. L. 105–89 provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting the terms and conditions of any demonstration project approved under section 1130 of the Social Security Act (42 U.S.C. 1320a–9) before the date of the enactment of this Act \[Nov. 19, 1997\].”
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -42,5 +42,5 @@ In subsection (a), the word “President” is substituted for “Office of Mana
 
 In subsection (b), before clause (1), the words “budget program” are substituted for “budget program shall be a business-type budget, or plan of operation” for consistency and to eliminate unnecessary words. In clause (1), the words “actual” and “completed” are omitted as surplus. In clause (2), the words “as are necessary or desirable”, “types of”, “together with”, and “funds” are omitted as surplus. In clause (3), the words “as authorized by law” are omitted as surplus.
 
-In subsection (c), the words “as changed” are substituted for “as modified, amended, or revised” to eliminate unnecessary words. The word “submit” is substituted for “transmitted” for consistency. The word “annual” is omitted as surplus. The word “thereafter” is added for clarity. The text of 31:848 (last par.) is omitted as unnecessary.
+In subsection (c), the words “as changed” are substituted for “as modified, amended, or revised” toeliminate unnecessary words. The word “submit” is substituted for “transmitted” for consistency. The word “annual” is omitted as surplus. The word “thereafter” is added for clarity. The text of 31:848 (last par.) is omitted as unnecessary.
 

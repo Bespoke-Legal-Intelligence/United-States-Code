@@ -16,7 +16,7 @@ Federal grant programs.—In this section, the term “federal grant programs”
 
 &emsp;&emsp;&emsp;(iii) the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001 et seq.);
 
-&emsp;&emsp;&emsp;(iv) the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2301 et seq.);
+&emsp;&emsp;&emsp;(iv) the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
 
 &emsp;&emsp;&emsp;(v) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) (known as the Clean Water Act);
 
@@ -40,7 +40,7 @@ Certain sewage treatment works deemed constructed with federal grant assistance.
 
 (b)
 
-Purpose.—To enable the people, States, and local communities of the Appalachian region, including local development districts, to take maximum advantage of federal grant programs for which they are eligible but for which, because of their economic situation, they cannot supply the required matching share, or forwhich there are insufficient amounts available under the federal law authorizing the programs to meet pressing needs of the region, the Federal Cochairman may use amounts made available to carry out this section—
+Purpose.—To enable the people, States, and local communities of the Appalachian region, including local development districts, to take maximum advantage of federal grant programs for which they are eligible but for which, because of their economic situation, they cannot supply the required matching share, or for which there are insufficient amounts available under the federal law authorizing the programs to meet pressing needs of the region, the Federal Cochairman may use amounts made available to carry out this section—
 
 &emsp;(1) for any part of the basic federal contribution to projects or activities under the federal grant programs authorized by federal laws; and
 
@@ -78,7 +78,7 @@ In general.—Subject to paragraph (2), the Commission may contribute not more t
 
 Distressed counties.—The maximum Commission contribution for a project or activity to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title may be increased to 80 percent.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1272.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1272; Pub. L. 109–270, §2(j), Aug. 12, 2006, 120 Stat. 748.)
 
 Historical and Revision Notes
 
@@ -136,13 +136,17 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(1)(
 
 The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)(A)(iii), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2), is act June 30, 1948, ch. 758,as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(1)(A)(vi), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VI of the Act is classified generally to subchapter IV (§291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(A)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Part IV of title III of the Act is classified generally to part IV (§390 et seq.) of subchapter III of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+
+#### Amendments
+
+2006—Subsec. (a)(1)(A)(iv). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 

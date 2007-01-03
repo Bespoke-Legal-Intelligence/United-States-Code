@@ -33,11 +33,6 @@
 | [1405\.](Subchapter%20002%20%28II%29%20-%20Civil%20Government/%C2%A7%2001405%20-%20Geographical%20application%20of%20subchapter%3B%20land%20and%20waters%20included%20in%20term%20%E2%80%9CVirgin%20Islands%E2%80%9D.md) | Geographical application of subchapter; land and waters included in term “Virgin Islands”. |
 | 1405a, 1405b. Repealed. |  |
 | [1405c.](Subchapter%20002%20%28II%29%20-%20Civil%20Government/%C2%A7%2001405c%20-%20Transfer%20of%20property%20to%20government.md) | Transfer of property to government. |
-| (a) | Property not reserved. |
-| (b) | Applicability of United States law. |
-| (c) | Applicability of tonnage duties. |
-| (d) | Presidential determination of applicable laws. |
-| (e) | Existing powers of United States officers unaffected. |
 | 1405d to 1405p. Repealed. |  |
 | [1405q.](Subchapter%20002%20%28II%29%20-%20Civil%20Government/%C2%A7%2001405q%20-%20Laws%20continued%20in%20force%20until%20modified%3B%20patent%2C%20trade%20mark%2C%20and%20copyright%20laws%20extended%20to%20Virgin%20Islands%3B%20jurisdiction%20of%20district%20court.md) | Laws continued in force until modified; patent, trade mark, and copyright laws extended to Virgin Islands; jurisdiction of district court. |
 | 1405r to 1406e. Repealed or Omitted. |  |

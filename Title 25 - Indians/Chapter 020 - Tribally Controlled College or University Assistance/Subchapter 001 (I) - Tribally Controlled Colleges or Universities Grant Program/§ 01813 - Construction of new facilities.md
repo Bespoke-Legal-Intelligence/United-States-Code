@@ -60,7 +60,7 @@ Subsec. (c)(2). Pub. L. 105–244, §901(b)(5), (7), (12), in introductory provi
 
 1986—Subsec. (a). Pub. L. 99–428 substituted “Secretary under” for “Administrator of General Services under”.
 
-1983—Pub. L. 98–192 amended section generally, substituting provision authorizing grants for construction of new facilities, establishing eligibility requirements for grants, maximum amounts of grants, waiver of amount restriction, results of failure to use facilities in an approved manner, and prohibition of religious use of such facilities, and defining “construction” and “academic facilities” for provision requiring Secretary of the Interior to conduct a detailed survey and study of academic facilities needs of tribally controlled community colleges and report to Congress not later than Nov. 1, 1979, the results of such survey and study.
+1983—Pub. L. 98–192 amended section generally, substituting provision authorizing grants for construction of new facilities, establishing eligibility requirementsfor grants, maximum amounts of grants, waiver of amount restriction, results of failure to use facilities in an approved manner, and prohibition of religious use of such facilities, and defining “construction” and “academic facilities” for provision requiring Secretary of the Interior to conduct a detailed survey and study of academic facilities needs of tribally controlled community colleges and report to Congress not later than Nov. 1, 1979, the results of such survey and study.
 
 #### Effective Date of 1998 Amendment
 

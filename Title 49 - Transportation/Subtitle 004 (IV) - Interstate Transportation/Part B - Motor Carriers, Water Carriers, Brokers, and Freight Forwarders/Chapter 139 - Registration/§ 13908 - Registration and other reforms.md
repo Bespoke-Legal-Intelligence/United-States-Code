@@ -44,7 +44,7 @@ Exceptions.—There shall be no fee charged under this paragraph—
 
 &emsp;&emsp;&emsp;(i) to any agency of the Federal Government or a State government or any political subdivision of any such government for the access to or retrieval of information and data from the Unified Carrier Registration System for its own use; or
 
-&emsp;&emsp;&emsp;(ii) to any representative of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder (as each is defined in section 14504a) for the access to or retrieval of the individual information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
+&emsp;&emsp;&emsp;(ii) to any representative of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder (as eachis defined in section 14504a) for the access to or retrieval of the individual information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
 
 (e)
 

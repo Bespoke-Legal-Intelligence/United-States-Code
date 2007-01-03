@@ -28,7 +28,7 @@
 
 #### (3) Termination of deemed approval of exemption regarding supplemental applications
 
-&emsp;If under section 360aaa–3(d)(3) of this title the Secretary terminates a deemed approval of an exemption, the Secretary may order the manufacturer involved to cease disseminating the information. A manufacturer shall comply with an order under the preceding sentence not later than 60 days after the receipt of the order.
+&emsp;If under section 360aaa–3(d)(3) of this title the Secretary terminates a deemed approval of an exemption, the Secretary may order the manufacturer involved to cease disseminating the information. A manufacturer shall complywith an order under the preceding sentence not later than 60 days after the receipt of the order.
 
 #### (c) Corrective actions by manufacturers
 

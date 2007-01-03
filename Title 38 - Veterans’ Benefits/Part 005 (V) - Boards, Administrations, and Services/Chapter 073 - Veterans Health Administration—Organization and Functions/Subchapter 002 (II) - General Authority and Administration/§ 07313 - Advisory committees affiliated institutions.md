@@ -6,7 +6,7 @@
 
 (c) Members of each such advisory committee shall be appointed by the Secretary and shall include personnel of the Department (including appropriate representation from the full-time staff) and of the entity with which the Secretary has entered into the contract or agreement. The number of members, and terms of members, of each advisory committee shall be prescribed by the Secretary.
 
-(d) The Secretary shall require that the Chief of the Nursing Service (or the designee of the Chief) at each Department health-care facility be included in the membership of each policymaking committee at that facility. Such committees include: (1) committees relating to matters such as budget, education, position management, clinical executive issues, planning, and resource allocation, and (2) the dean's committee or other advisory committee established under subsection (a).
+(d) The Secretary shall require that the Chief of the Nursing Service (or the designee of theChief) at each Department health-care facility be included in the membership of each policymaking committee at that facility. Such committees include: (1) committees relating to matters such as budget, education, position management, clinical executive issues, planning, and resource allocation, and (2) the dean's committee or other advisory committee established under subsection (a).
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 

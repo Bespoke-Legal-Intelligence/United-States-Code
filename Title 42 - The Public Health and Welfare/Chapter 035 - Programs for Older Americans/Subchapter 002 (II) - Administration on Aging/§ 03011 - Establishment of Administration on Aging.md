@@ -20,7 +20,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(ii) include a description of the results of such evaluation and recommendations in the annual report required by section 3018(a) of this title to be submitted by the Assistant Secretary;
 
-&emsp;(B) serve as the effective and visible advocate in behalf of older individuals who are Native Americans within the Department of Health and Human Services and with other departments and agencies of the Federal Government regarding all Federal policies affecting such individuals, with particular attention to services provided to Native Americans by the Indian Health Service;
+&emsp;(B) serve as the effective and visible advocate in behalf of older individuals who are Native Americans within the Department of Health and Human Services and with other departments and agencies of the Federal Government regarding all Federal policies affectingsuch individuals, with particular attention to services provided to Native Americans by the Indian Health Service;
 
 &emsp;(C) coordinate activities between other Federal departments and agencies to assure a continuum of improved services through memoranda of agreements or through other appropriate means of coordination;
 
@@ -92,7 +92,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(E) review, and make recommendations to the Secretary and the Assistant Secretary regarding, existing and proposed Federal legislation, regulations, and policies regarding the operation of State Long-Term Care Ombudsman programs;
 
-&emsp;(F) make recommendations to the Assistant Secretary and the Secretary regarding the policies of the Administration, and coordinate the activities of the Administration with the activities of other Federal entities, State and local entities, and nongovernmental entities, relating to State Long-Term Care Ombudsman programs;
+&emsp;(F) make recommendations to the Assistant Secretary and the Secretary regarding the policies of the Administration, and coordinatethe activities of the Administration with the activities of other Federal entities, State and local entities, and nongovernmental entities, relating to State Long-Term Care Ombudsman programs;
 
 &emsp;(G) supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
 
@@ -106,13 +106,57 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(L) not later than 180 days after September 30, 1992, establish standards applicable to the training required by section 3058g(h)(4) of this title.
 
-(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291.)
+#### (e) Elder abuse prevention and services
+
+(1) The Assistant Secretary is authorized to designate within the Administration a person to have responsibility for elder abuse prevention and services.
+
+(2) It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services—
+
+&emsp;(A) to develop objectives, priorities, policy, and a long-term plan for—
+
+&emsp;&emsp;(i) facilitating the development, implementation, and continuous improvement of a coordinated, multidisciplinary elder justice system in the United States;
+
+&emsp;&emsp;(ii) providing Federal leadership to support State efforts in carrying out elder justice programs and activities relating to—
+
+&emsp;&emsp;&emsp;(I) elder abuse prevention, detection, treatment, intervention, and response;
+
+&emsp;&emsp;&emsp;(II) training of individuals regarding the matters described in subclause (I); and
+
+&emsp;&emsp;&emsp;(III) the development of a State comprehensive elder justice system, as defined in section 3058aa–1(b) of this title;
+
+&emsp;&emsp;(iii) establishing Federal guidelines and disseminating best practices for uniform data collection and reporting by States;
+
+&emsp;&emsp;(iv) working with States, the Department of Justice, and other Federal entities to annually collect, maintain, and disseminate data relating to elder abuse, neglect, and exploitation, to the extent practicable;
+
+&emsp;&emsp;(v) establishing an information clearinghouse to collect, maintain, and disseminate information concerning best practices and resources for training, technical assistance, and other activities to assist States and communities to carry out evidence-based programs to prevent and address elder abuse, neglect, and exploitation;
+
+&emsp;&emsp;(vi) conducting research related to elder abuse, neglect, and exploitation;
+
+&emsp;&emsp;(vii) providing technical assistance to States and other eligible entities that provide or fund the provision of the services described in subchapter XI;
+
+&emsp;&emsp;(viii) carrying out a study to determine the national incidence and prevalence of elder abuse, neglect, and exploitation in all settings; and
+
+&emsp;&emsp;(ix) promoting collaborative efforts and diminishing duplicative efforts in the development and carrying out of elder justice programs at the Federal, State and local levels; and
+
+&emsp;(B) to assist States and other eligible entities under subchapter XI to develop strategic plans to better coordinate elder justice activities, research, and training.
+
+(3) The Secretary, acting through the Assistant Secretary, may issue such regulations as may be necessary to carry out this subsection and section 3058aa–1 of this title.
+
+#### (f) Mental health services
+
+(1) The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental health services authorized under this chapter.
+
+(2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer's disease and related neurological disorders with neurological and organic brain dysfunction.
+
+(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527.)
 
 #### References in Text
 
 Section 3012(a)(21) of this title, referred to in subsec. (d)(3)(H), was redesignated section 3012(a)(18) of this title and section 3012(a)(24) was redesignated section 3012(a)(21) by Pub. L. 106–501, title II, §201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
 
 #### Amendments
+
+2006—Subsecs. (e), (f). Pub. L. 109–365 added subsecs. (e) and (f).
 
 2000—Subsec. (d)(3)(C)(ii), (J). Pub. L. 106–501 substituted “3027(a)(9)” for “3027(a)(12)”.
 
@@ -126,7 +170,7 @@ Subsec. (c)(3). Pub. L. 103–171, §3(a)(2)(B)(ii), (D), substituted “Directo
 
 Subsec. (d)(2). Pub. L. 103–171, §3(a)(2)(C), (D), substituted “a Director of the Office of Long-Term Care Ombudsman Programs” for “an Associate Commissioner for Ombudsman Programs” in subpar. (A), “Director” for “Associate Commissioner” wherever appearing, and “Assistant Secretary” for “Commissioner” in two places in subpar. (A).
 
-Subsec. (d)(3). Pub. L. 103–171, §3(a)(2)(C)(ii), (D), substituted “Director” for “Associate Commissioner” inintroductory provisions and “Assistant Secretary” for “Commissioner” in subpars. (B) to (F) and (H).
+Subsec. (d)(3). Pub. L. 103–171, §3(a)(2)(C)(ii), (D), substituted “Director” for “Associate Commissioner” in introductory provisions and “Assistant Secretary” for “Commissioner” in subpars. (B) to (F) and (H).
 
 1992—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out “(hereinafter in this chapter referred to as the ‘Administration’)” after “Administration on Aging” and “(hereinafter in this chapter referred to as the ‘Commissioner’)” after “Commissioner on Aging” and inserted “(including the functions of the Commissioner carried out through regional offices)” after “functions of the Commissioner”.
 

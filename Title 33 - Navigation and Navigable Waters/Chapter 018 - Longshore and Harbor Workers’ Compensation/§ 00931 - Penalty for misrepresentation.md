@@ -4,7 +4,7 @@
 
 (1) Any claimant or representative of a claimant who knowingly and willfully makes a false statement or representation for the purpose of obtaining a benefit or payment under this chapter shall be guilty of a felony, and on conviction thereof shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both.
 
-(2) The United States attorney for the district in which the injury is alleged to have occurred shall make every reasonable effort to promptly investigate each complaint made under this subsection.
+(2) The United States attorney for the district in which the injury is alleged to have occurredshall make every reasonable effort to promptly investigate each complaint made under this subsection.
 
 #### (b) List of persons disqualified from representing claimants
 
@@ -26,7 +26,7 @@
 
 (D) A determination under subparagraph (A) shall remain in effect for a period of not less than three years and until the Secretary finds and gives notice to the public that there is reasonable assurance that the basis for the determination will not reoccur.
 
-(3) No employee shall be liable to pay a representation fee to any representative whose feehas been disallowed by reason of the operation of this paragraph.
+(3) No employee shall be liable to pay a representation fee to any representative whose fee has been disallowed by reason of the operation of this paragraph.
 
 (4) The Secretary shall issue such rules and regulations as are necessary to carry out this section.
 

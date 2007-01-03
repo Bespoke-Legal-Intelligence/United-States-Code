@@ -12,7 +12,7 @@
 
 #### (b) Increase in monthly premium
 
-In the case of an individual whose coverage period began pursuant to an enrollment after his initial enrollment period (determined pursuant to subsection (c) or (d) of section 1395p of this title) and not pursuant to a special enrollment period under section 1395p(i)(4) of this title, the monthly premium determined under subsection (a) of this section (without regard to any adjustment under subsection (i) of this section) shall be increased by 10 percent of the monthly premium so determined for each full 12 months (in the same continuous period of eligibility) in which he could have been but was not enrolled. For purposes of the preceding sentence, there shall be taken into account (1) the months which elapsed between the close of his initial enrollment period and the close of the enrollment period in which he enrolled, plus (in the case of an individual who reenrolls) (2) the months which elapsed between the date of termination of a previous coverage period and the close of the enrollment period in which he reenrolled, but there shall not be taken into account months for which the individual can demonstrate that the individual was enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status or months during which the individual has not attained the age of 65 and for which the individual can demonstrate that the individual was enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual). Any increase in an individual's monthly premium under the first sentence of this subsection with respect to a particular continuous period of eligibility shall not be applicable with respect to any other continuous period of eligibility which such individual may have. No increase in the premium shall be effected for a month in the case of an individual who enrolls under this part during 2001, 2002, 2003, or 2004 and who demonstrates to the Secretary before December 31, 2004, that the individual is a covered beneficiary (as defined in section 1072(5) of title 10). The Secretary of Health and Human Services shall consult with the Secretary of Defense in identifying individuals described in the previous sentence.
+In the case of an individual whose coverage period began pursuant to an enrollment after his initial enrollment period (determined pursuant to subsection (c) or (d) of section 1395p of this title) and not pursuant to a special enrollment period under section 1395p(i)(4) of this title, the monthly premium determined under subsection (a) of this section (without regard to any adjustment under subsection (i) of this section) shall be increased by 10 percent of the monthly premium so determined for each full 12 months (in the same continuous period of eligibility) in which he could have been but was not enrolled. For purposes of the preceding sentence, there shall be taken into account (1) the months which elapsed between the close of his initial enrollment period and the close of the enrollment period in which he enrolled, plus (in the case of an individual who reenrolls) (2) the months which elapsed between the date of termination of a previous coverage period and the close of the enrollment period in which he reenrolled, but there shall not be taken into account months for which the individual can demonstrate that the individual was enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status or months during which the individual has not attained the age of 65 and for which the individual can demonstrate that the individual was enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or thecurrent employment status of a family member of the individual) or months for which the individual can demonstrate that the individual was an individual described in section 1395p(k)(3) of this title. Any increase in an individual's monthly premium under the first sentence of this subsection with respect to a particular continuous period of eligibility shall not be applicable with respect to any other continuous period of eligibility which such individual may have. No increase in the premium shall be effected for a month in the case of an individual who enrolls under this part during 2001, 2002, 2003, or 2004 and who demonstrates to the Secretary before December 31, 2004, that the individual is a covered beneficiary (as defined in section 1072(5) of title 10). The Secretary of Health and Human Services shall consult with the Secretary of Defense in identifying individuals described in the previous sentence.
 
 #### (c) Premiums rounded to nearest multiple of ten cents
 
@@ -26,7 +26,7 @@ For purposes of subsection (b) of this section (and section 1395p(g)(1) of this 
 
 (1) Upon the request of a State (or any appropriate State or local governmental entity specified by the Secretary), the Secretary may enter into an agreement with the State (or such entity) under which the State (or such entity) agrees to pay on a quarterly or other periodic basis to the Secretary (to be deposited in the Treasury to the credit of the Federal Supplementary Medical Insurance Trust Fund) an amount equal to the amount of the part B late enrollment premium increases with respect to the premiums for eligible individuals (as defined in paragraph (3)(A)).
 
-(2) No part B late enrollment premium increase shall apply to an eligible individual for premiums for months for which the amount ofsuch an increase is payable under an agreement under paragraph (1).
+(2) No part B late enrollment premium increase shall apply to an eligible individual for premiums for months for which the amount of such an increase is payable under an agreement under paragraph (1).
 
 (3) In this subsection:
 
@@ -54,7 +54,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### (2) No effect on late enrollment penalty or income-related adjustment in subsidies
 
-&emsp;Nothing in this subsection or section 1395w–29(f) of this title shall be construed as affecting the amount of any premium adjustment under subsection (b) or (i) of this section. Subsection (f) of this section shall be applied without regard to any premium adjustment referred to in paragraph (1).
+&emsp;Nothing in this subsection or section 1395w–29(f) of this title shall be construed asaffecting the amount of any premium adjustment under subsection (b) or (i) of this section. Subsection (f) of this section shall be applied without regard to any premium adjustment referred to in paragraph (1).
 
 #### (3) Implementation
 
@@ -92,17 +92,13 @@ In estimating the benefits and administrative costs which will be payable from t
 
 &emsp;&emsp;&emsp;200 percent of the monthly actuarial rate for enrollees age 65 and over (as determined under subsection (a)(1) of this section for the year).
 
-#### (B) 5-year phase in
+#### (B) 3-year phase in
 
-&emsp;&emsp;The monthly adjustment amount specified in this paragraph for an individual for amonth in a year before 2011 is equal to the following percentage of the monthly adjustment amount specified in subparagraph (A):
+&emsp;&emsp;The monthly adjustment amount specified in this paragraph for an individual for a month in a year before 2009 is equal to the following percentage of the monthly adjustment amount specified in subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) For 2007, 20 percent.
+&emsp;&emsp;&emsp;(i) For 2007, 33 percent.
 
-&emsp;&emsp;&emsp;(ii) For 2008, 40 percent.
-
-&emsp;&emsp;&emsp;(iii) For 2009, 60 percent.
-
-&emsp;&emsp;&emsp;(iv) for 2010, 80 percent.
+&emsp;&emsp;&emsp;(ii) For 2008, 67 percent.
 
 #### (C) Applicable percentage
 
@@ -172,7 +168,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### (ii) Temporary use of other data
 
-&emsp;&emsp;&emsp;If, as of October 15 before a calendar year, the Secretary of the Treasury does not have adequate data for an individual in appropriate electronic form for the taxable year referred to in clause (i), the individual's modified adjusted gross income shall be determined using the data in such form from the previous taxable year. Except as provided in regulations prescribed by the Commissioner of Social Security in consultation with the Secretary, the preceding sentence shall cease to apply when adequate data in appropriate electronic form are available for the individual for the taxable year referred to in clause (i), and proper adjustments shall be made to the extent that the premium adjustments determined under the preceding sentence were inconsistent with those determined using such taxable year.
+&emsp;&emsp;&emsp;If, as of October 15 before a calendar year, the Secretary of the Treasury doesnot have adequate data for an individual in appropriate electronic form for the taxable year referred to in clause (i), the individual's modified adjusted gross income shall be determined using the data in such form from the previous taxable year. Except as provided in regulations prescribed by the Commissioner of Social Security in consultation with the Secretary, the preceding sentence shall cease to apply when adequate data in appropriate electronic form are available for the individual for the taxable year referred to in clause (i), and proper adjustments shall be made to the extent that the premium adjustments determined under the preceding sentence were inconsistent with those determined using such taxable year.
 
 #### (iii) Non-filers
 
@@ -218,7 +214,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 &emsp;For purposes of this subsection, the term “joint return” has the meaning given to such term by section 7701(a)(38) of the Internal Revenue Code of 1986.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1839, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(d), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, 86 Stat. 1373, 1376, 1377; Pub. L. 94–182, title I, §104(a), Dec. 31, 1975, 89 Stat. 1052; Pub. L. 95–216, title II, §205(e), Dec. 20, 1977, 91 Stat. 1529; Pub. L. 96–499, title IX, §945(c)(2), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(4), Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §124(a), (b), Sept. 3, 1982, 96 Stat. 364; Pub. L. 97–448, title III, §309(b)(8), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §606(a)(1)–(3)(C), Apr. 20, 1983, 97 Stat. 169, 170; Pub. L. 98–369, div. B, title III, §§2302(a), (b), 2338(a), July 18, 1984, 98 Stat. 1063, 1091; Pub. L. 98–617, §3(b)(4), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9219(a)(1), 9313, Apr. 7, 1986, 100 Stat. 182, 194; Pub. L. 99–509, title IX, §§9001(c), 9319(c)(4), Oct. 21, 1986, 100 Stat. 1970, 2012; Pub. L. 100–203, title IV, §4080, Dec. 22, 1987, 101 Stat. 1330–126; Pub. L. 100–360, title II, §211(a)–(c)(1), July 1, 1988, 102 Stat. 733, 738; Pub. L. 100–485, title VI, §608(d)(9), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, 103 Stat. 2233, 2234, 2258; Pub. L. 101–508, title IV, §4301, Nov. 5, 1990, 104 Stat. 1388–125; Pub. L. 103–66, title XIII, §13571, Aug. 10, 1993, 107 Stat. 609; Pub. L. 103–432, title I, §§144, 151(c)(3), Oct. 31, 1994, 108 Stat. 4427, 4435; Pub. L. 105–33, title IV, §§4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, 111 Stat. 464, 465, 486; Pub. L. 105–277, div. J, title V, §5101(e), Oct. 21, 1998, 112 Stat. 2681–915; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title I, §105(a), title II, §§222(<i>l</i>)(2)(A), 241(b)(2)(A), title VI, §625(a)(1), title VII, §736(b)(7), title VIII, §811(a), (b)(1), Dec. 8, 2003, 117 Stat. 2166, 2206, 2220, 2317, 2356, 2364, 2367.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1839, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(d), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, 86 Stat. 1373, 1376, 1377; Pub. L. 94–182, title I, §104(a), Dec. 31, 1975, 89 Stat. 1052; Pub. L. 95–216, title II, §205(e), Dec. 20, 1977, 91 Stat. 1529; Pub. L. 96–499, title IX, §945(c)(2), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(4), Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §124(a), (b), Sept. 3, 1982, 96 Stat. 364; Pub. L. 97–448, title III, §309(b)(8), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §606(a)(1)–(3)(C), Apr. 20, 1983, 97 Stat. 169, 170; Pub. L. 98–369, div. B, title III, §§2302(a), (b), 2338(a), July 18, 1984, 98 Stat. 1063, 1091; Pub. L. 98–617, §3(b)(4), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9219(a)(1), 9313, Apr. 7, 1986, 100 Stat. 182, 194; Pub. L. 99–509, title IX, §§9001(c), 9319(c)(4), Oct. 21, 1986, 100 Stat. 1970, 2012; Pub. L. 100–203, title IV, §4080, Dec. 22, 1987, 101 Stat. 1330–126; Pub. L. 100–360, title II, §211(a)–(c)(1), July 1, 1988, 102 Stat. 733, 738; Pub. L. 100–485, title VI, §608(d)(9), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, 103 Stat. 2233, 2234, 2258; Pub. L. 101–508, title IV, §4301,Nov. 5, 1990, 104 Stat. 1388–125; Pub. L. 103–66, title XIII, §13571, Aug. 10, 1993, 107 Stat. 609; Pub. L. 103–432, title I, §§144, 151(c)(3), Oct. 31, 1994, 108 Stat. 4427, 4435; Pub. L. 105–33, title IV, §§4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, 111 Stat. 464, 465, 486; Pub. L. 105–277, div. J, title V, §5101(e), Oct. 21, 1998, 112 Stat. 2681–915; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title I, §105(a), title II, §§222(<i>l</i>)(2)(A), 241(b)(2)(A), title VI, §625(a)(1), title VII, §736(b)(7), title VIII, §811(a), (b)(1), Dec. 8, 2003, 117 Stat. 2166, 2206, 2220, 2317, 2356, 2364, 2367; Pub. L. 109–171, title V, §§5111, 5115(a)(1), Feb. 8, 2006, 120 Stat. 43, 45.)
 
 #### References in Text
 
@@ -229,6 +225,20 @@ Part C of this subchapter, referred to in subsec. (h)(1), is classified to secti
 The Internal Revenue Code of 1986, referred to in subsec. (i)(3)(C)(iii)(I), (4)(A), (6), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–171, §5115(a)(1), inserted “or months for which the individual can demonstrate that the individual was an individual described in section 1395p(k)(3) of this title” before period at end of second sentence.
+
+Subsec. (i)(3)(B). Pub. L. 109–171, §5111(1), (2), substituted “3-year” for “5-year” in heading and “2009” for “2011” in introductory provisions.
+
+Subsec. (i)(3)(B)(i). Pub. L. 109–171, §5111(3), substituted “33 percent” for “20 percent”.
+
+Subsec. (i)(3)(B)(ii). Pub. L. 109–171, §5111(4), substituted “67 percent” for “40 percent”.
+
+Subsec. (i)(3)(B)(iii), (iv). Pub. L. 109–171, §5111(5), struck out cls. (iii) and (iv), which read as follows:
+
+“(iii) For 2009, 60 percent.
+
+“(iv) for 2010, 80 percent.”
 
 2003—Subsec. (a)(2). Pub. L. 108–173, §811(b)(1)(A), substituted “(f), and (i)” for “and (f)”.
 
@@ -248,7 +258,7 @@ Subsec. (h). Pub. L. 108–173, §241(b)(2)(A), added subsec. (h).
 
 Subsec. (i). Pub. L. 108–173, §811(a), added subsec. (i).
 
-2000—Subsec. (a)(2). Pub. L. 106–554 substituted “shall be the amount determined under paragraph (3), adjusted as required in accordance with subsections (b), (c), and (f) of this section, and to reflect 80 percent ofany reduction elected under section 1395w–24(f)(1)(E) of this title.” for “shall, except as provided in subsections (b), (c), and (f) of this section, be the amount determined under paragraph (3).”
+2000—Subsec. (a)(2). Pub. L. 106–554 substituted “shall be the amount determined under paragraph (3), adjusted as required in accordance with subsections (b), (c), and (f) of this section, and to reflect 80 percent of any reduction elected under section 1395w–24(f)(1)(E) of this title.” for “shall, except as provided in subsections (b), (c), and (f) of this section, be the amount determined under paragraph (3).”
 
 1998—Subsec. (a)(3). Pub. L. 105–277, §5101(e)(1), inserted “(except as provided in subsection (g) of this section)” after “year that”.
 
@@ -398,7 +408,7 @@ Subsec. (g). Pub. L. 97–248, §124(b), added subsec. (g).
 
 1980—Subsec. (d). Pub. L. 96–499 substituted “who reenrolls) (2) the months which elapsed between the date of termination of a previous coverage period and the month after the month in which he reenrolled” for “who enrolls for a second time) (2) the months which elapsed between the date of the termination of his first coverage period and the close of the enrollment period in which he enrolled for the second time”.
 
-1977—Subsec. (c)(3)(B). Pub. L. 95–216 substituted “the monthly premium rate most recently promulgated by the Secretary under this paragraph, increased by a percentage determined as follows: The Secretary shall ascertain the primary insurance amount computed under section 415(a)(1) of this title, based upon average indexed monthly earnings of $900, that applied to individuals who became eligible for and entitled to old-age insurance benefits on May 1 of the year of the promulgation” for “the monthly premium rate most recently promulgated by the Secretary under this paragraph or, in the case of the determination made in December 1971, such rate promulgated under subsection (b)(2) of this section multiplied by the ratio of (i) the amount in column IV of the table which, by reason of the law in effect at the time the promulgation is made, will be in effect as of May 1 next following such determination appears (or is deemed to appear) in section 415(a) of this title on the line which includes the figure ‘750’ in column III of such table to (ii) the amount in column IVof the table which appeared (or was deemed to appear) in section 415(a) of this title on the line which included the figure ‘750’ in column III as of May 1 of the year in which such determination is made” and inserted “He shall increase the monthly premium rate by the same percentage by which that primary insurance amount is increased when, by reason of the law in effect at the time the promulgation is made, it is so computed to apply to those individuals on the following May 1.”
+1977—Subsec. (c)(3)(B). Pub. L. 95–216 substituted “the monthly premium rate most recently promulgated by the Secretary under this paragraph, increased by a percentage determined as follows: The Secretary shall ascertain the primary insurance amount computed under section 415(a)(1) of this title, based upon average indexed monthly earnings of $900, that applied to individuals who became eligible for and entitled to old-age insurance benefits on May 1 of the year of the promulgation” for “the monthly premium rate most recently promulgated by the Secretary under this paragraph or, in the case of the determination made in December 1971, such rate promulgated under subsection (b)(2) of this section multiplied by the ratio of (i) the amount in column IV of the table which, by reason of the law in effect at the time the promulgation is made, will be in effect as of May 1 next following such determination appears (or is deemed to appear) in section 415(a) of this title on the line which includes the figure ‘750’ in column III of such table to (ii) the amount in column IV of the table which appeared (or was deemed to appear) in section 415(a) of this title on the line which included the figure ‘750’ in column III as of May 1 of the year in which such determination is made” and inserted “He shall increase the monthly premium rate by the same percentage by which that primary insurance amount is increased when, by reason of the law in effect at the time the promulgation is made, it is so computed to apply to those individuals on the following May 1.”
 
 1975—Subsec. (c)(3). Pub. L. 94–182 substituted “May 1” for “June 1” wherever appearing.
 
@@ -418,6 +428,10 @@ Subsec. (f). Pub. L. 92–603, §203(c), (d)(2), redesignated former subsec. (e)
 
 1968—Subsec. (b)(2). Pub. L. 90–248 required Secretary, during December of each year, beginning in 1968, to determine and announce amount (whether or not such amount was applicable for premiums for any prior month) of supplementary medical insurance premium for 12-month period beginning on July 1 of each following year, which premium is to be such that aggregate premiums will equal one-half estimated benefit and administrative expenses of supplementary medical insurance program for such 12-month period, and that at time of announcement of premium amount, Secretary must make public actuarial assumptions and bases used in deciding amount of premium.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by section 5115(a)(1) of Pub. L. 109–171 applicable to months beginning with Jan. 2007, see section 5115(b) of Pub. L. 109–171, set out as a note under section 1395p of this title.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by section 222(<i>l</i>)(2)(A) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
@@ -426,7 +440,7 @@ Pub. L. 108–173, title VI, §625(a)(2), Dec. 8, 2003, 117 Stat. 2318, provided
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §606(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, provided that: “The amendments made by subsection (a) \[amending this section and sections 1395s, 1395w, 1395w–21, 1395w–23, and 1395w–24 of this title\] shall apply to years beginning with 2003.”
+Pub. L. 106–554, §1(a)(6) \[title VI, §606(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, provided that: “Theamendments made by subsection (a) \[amending this section and sections 1395s, 1395w, 1395w–21, 1395w–23, and 1395w–24 of this title\] shall apply to years beginning with 2003.”
 
 #### Effective Date of 1997 Amendment
 
@@ -472,7 +486,7 @@ Section 606(c) of Pub. L. 98–21 provided that: “The amendments made by this 
 
 &emsp;“(1) the monthly premiums under part A and under part B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] for individuals enrolled under each respective part shall be the monthly premium under that part for the month of June 1983, and
 
-&emsp;“(2) the amount of the Government contributions under section 1844(a)(1) of such Act \[section1395w(a)(1) of this title\] shall be computed on the basis of the actuarially adequate rate which would have been in effect under part B of title XVIII of such Act for such months without regard to the amendments made by this section, but using the amount of the premium in effect for the month of June 1983.”
+&emsp;“(2) the amount of the Government contributions under section 1844(a)(1) of such Act \[section 1395w(a)(1) of this title\] shall be computed on the basis of the actuarially adequate rate which would have been in effect under part B of title XVIII of such Act for such months without regard to the amendments made by this section, but using the amount of the premium in effect for the month of June 1983.”
 
 Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was amended by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
 
@@ -506,5 +520,5 @@ Pub. L. 90–97, §2, Sept. 30, 1967, 81 Stat. 249, provided that: “Notwithsta
 
 #### Persons Enrolling Before April 1, 1968, Who Did Not Enroll During Their Initial Enrollment Period
 
-Pub. L. 90–97, §3(b), Sept. 30, 1967, 81 Stat. 250, provided that: “In the case of any individual who did not enroll in the insurance program established under part B of title XVIII of the Social Security Act \[this part\] in his initial enrollment period, but does so enroll before April 1, 1968, the enrollment period in which he so enrolls shall, for purposes of section 1839(c) of such Act \[subsec. (c) of this section\], be deemed to have closed on December 31, 1967.”
+Pub. L. 90–97, §3(b), Sept. 30, 1967, 81 Stat. 250, provided that: “In the case of any individual who did notenroll in the insurance program established under part B of title XVIII of the Social Security Act \[this part\] in his initial enrollment period, but does so enroll before April 1, 1968, the enrollment period in which he so enrolls shall, for purposes of section 1839(c) of such Act \[subsec. (c) of this section\], be deemed to have closed on December 31, 1967.”
 

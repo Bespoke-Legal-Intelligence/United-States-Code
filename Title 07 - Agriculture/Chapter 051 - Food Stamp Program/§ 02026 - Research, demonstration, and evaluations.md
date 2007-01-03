@@ -4,7 +4,7 @@
 
 (1) The Secretary may enter into contracts with or make grants to public or private organizations or agencies under this section to undertake research that will help improve the administration and effectiveness of the food stamp program in delivering nutrition-related benefits. The waiver authority of the Secretary under subsection (b) of this section shall extend to all contracts and grants under this section.
 
-(2) The Secretary may, on application, permit not more than two State agencies to establish procedures that allow households whose monthly food stamp benefits do not exceed $20, at their option, to receive, in lieu of their food stamp benefits for the initial period under section 2017 of this title and their regular allotment in following months, and at intervals of up to 3 months thereafter, aggregate allotments not to exceed $60 and covering not more than 3 months’ benefits. The allotments shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title (except that no household shall begin to receive combined allotments under this section until it has complied with all applicable verification requirements of section 2020(e)(3) of this title) and (with respect to the first aggregate allotment so issued) within 40 days of the last coupon issuance.
+(2) The Secretary may, on application, permit not more than two State agencies to establish procedures that allow households whose monthly food stamp benefits do not exceed $20, at their option, to receive, in lieu of their food stamp benefits for the initial period under section 2017 of this title and their regular allotment in following months, and at intervals of up to 3 months thereafter, aggregate allotments not to exceed $60 and covering not more than 3 months’ benefits. The allotments shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title (except that no household shall begin to receive combined allotments under this section until it has complied with all applicable verification requirements of section 2020(e)(3) of this title) and (with respect to thefirst aggregate allotment so issued) within 40 days of the last coupon issuance.
 
 #### (b) Pilot projects
 
@@ -36,7 +36,7 @@ Permissible projects.—The Secretary may conduct a project under subparagraph (
 
 &emsp;(iii)
 
-Restrictions on permissible projects.—If the Secretary finds that a projectunder subparagraph (A) would reduce benefits by more than 20 percent for more than 5 percent of households in the area subject to the project (not including any household whose benefits are reduced due to a failure to comply with work or other conduct requirements), the project—
+Restrictions on permissible projects.—If the Secretary finds that a project under subparagraph (A) would reduce benefits by more than 20 percent for more than 5 percent of households in the area subject to the project (not including any household whose benefits are reduced due to a failure to comply with work or other conduct requirements), the project—
 
 &emsp;&emsp;(I) may not include more than 15 percent of the State's food stamp households; and
 
@@ -94,7 +94,7 @@ Cash payment pilot projects.—Any pilot or experimental project implemented und
 
 (C)(i) No waiver or demonstration program shall be approved under this chapter after November 28, 1990, unless—
 
-&emsp;(I) any household whose food assistance is issued in a form other than coupons has its allotment increased to the extent necessary to compensate for any State or local sales tax that may be collected in all or part of the area covered by the demonstration project, the tax on purchases of food by any such household is waived, or the Secretary determines on the basis of information provided by the State agency that the increase is unnecessary on the basis of the limited nature of the items subject to the State or local sales tax; and
+&emsp;(I) any household whose food assistance is issued in a form other than coupons has its allotment increased to the extent necessary to compensate for any State or local sales tax that may be collected in all or part of the areacovered by the demonstration project, the tax on purchases of food by any such household is waived, or the Secretary determines on the basis of information provided by the State agency that the increase is unnecessary on the basis of the limited nature of the items subject to the State or local sales tax; and
 
 &emsp;(II) the State agency conducting the demonstration project pays the cost of any increased allotments.
 
@@ -128,7 +128,7 @@ Notice of denial.—On denial of a waiver request under clause (i)(III), the Sec
 
 (3)(A) The Secretary may conduct demonstration projects to test improved consistency or coordination between the food stamp employment and training program and the Job Opportunities and Basic Skills program under title IV of the Social Security Act (42 U.S.C. 601 et seq.).
 
-(B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for food stamp recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F <sup>1</sup> of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) <sup>1</sup> of such Act (42 U.S.C. 682(f)).
+(B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for food stamp recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F <sup>1</sup> of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the projectshall be conducted in conformity with section 482(f) <sup>1</sup> of such Act (42 U.S.C. 682(f)).
 
 (C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to “aid to families with dependent children” in such sections shall be deemed to be a reference to food stamps for purposes of the demonstration project.
 
@@ -138,7 +138,7 @@ Notice of denial.—On denial of a waiver request under clause (i)(III), the Sec
 
 (F) At least 60 days prior to granting final approval of a project under this paragraph, the Secretary shall publish the terms and conditions for any demonstration project conducted under the paragraph for public comment in the Federal Register and shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(G) Waivers may be granted under this paragraph to conduct projects at any one time in a total of up to 60 project areas (or parts of projectareas), as such areas are defined in regulations in effect on January 1, 1990.
+(G) Waivers may be granted under this paragraph to conduct projects at any one time in a total of up to 60 project areas (or parts of project areas), as such areas are defined in regulations in effect on January 1, 1990.
 
 (H) A waiver for a change in program rules may be granted under this paragraph only for a demonstration project that has been approved by the Secretary, that will be evaluated according to criteria prescribed by the Secretary, and that will be in operation for no more than 4 years.
 
@@ -176,7 +176,7 @@ The Secretary shall develop and implement measures for evaluating, on an annual 
 
 &emsp;&emsp;&emsp;(i) cash assistance under this subsection shall be considered to be an allotment; and
 
-&emsp;&emsp;&emsp;(ii) each household receiving cash benefits under this subsection shall not receive any other food stamp benefit during the period for which the cash assistance is provided.
+&emsp;&emsp;&emsp;(ii) each household receiving cash benefits under this subsection shall not receiveany other food stamp benefit during the period for which the cash assistance is provided.
 
 #### (D) Additional payments
 
@@ -196,7 +196,7 @@ The Secretary shall develop and implement measures for evaluating, on an annual 
 
 &emsp;&emsp;(C)(i) is receiving benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); or
 
-&emsp;&emsp;(ii) was receiving benefits under a State program funded under part A of title IV ofthe Social Security Act (42 U.S.C. 601 et seq.) at the time the member first received cash benefits under this subsection and is no longer eligible for the State program because of earned income;
+&emsp;&emsp;(ii) was receiving benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) at the time the member first received cash benefits under this subsection and is no longer eligible for the State program because of earned income;
 
 &emsp;&emsp;(D) is continuing to earn not less than $350 per month from the employment referred to in subparagraph (A); and
 
@@ -226,7 +226,7 @@ In order to assess the effectiveness of the employment and training programs est
 
 #### (h) Demonstration projects for vehicle exclusion limits
 
-The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) of this title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
+The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) ofthis title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
 
 &emsp;(1) any licensed vehicle that is used to produce earned income, necessary for transportation of an elderly or physically disabled household member, or used as the household's home; and
 
@@ -238,7 +238,7 @@ The Secretary shall conduct, under such terms and conditions as the Secretary sh
 
 #### (j) Demonstration projects directed at food coupon trafficking
 
-The Secretary shall use up to $4,000,000 of the funds provided in advance in appropriations Acts for projects authorized by this section to conduct demonstration projects in which State or local food stamp agencies test innovativeideas for working with State or local law enforcement agencies to investigate and prosecute coupon trafficking.
+The Secretary shall use up to $4,000,000 of the funds provided in advance in appropriations Acts for projects authorized by this section to conduct demonstration projects in which State or local food stamp agencies test innovative ideas for working with State or local law enforcement agencies to investigate and prosecute coupon trafficking.
 
 (Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, \[(b)\], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(C), (f)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324.)
 
@@ -270,7 +270,7 @@ Subsec. (b)(1)(B)(vi). Pub. L. 107–171, §4122(b), substituted “2007” for 
 
 Subsecs. (i) to (k). Pub. L. 107–171, §4116(b), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to grants to improve food stamp participation.
 
-1998—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(C)\], in second sentence, struck out “the Job Training Partnership Act or” before “title I of the Workforce”.
+1998—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(C)\], in second sentence, struck out “the JobTraining Partnership Act or” before “title I of the Workforce”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(C)\], in second sentence, substituted “to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “to accept an offer of employment from a political subdivision or a prime sponsor pursuant to the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812),” and substituted “, if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program.” for “: <i>Provided</i>, That all of the political subdivision's or prime sponsor's public service jobs supported under the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812), are filled before such subdivision or sponsor can extend a job offer pursuant to this paragraph: <i>Provided further</i>, That the sponsor of each such project shall provide the assurances required of prime sponsors under section 205(c)(7), (8), (15), (19), and (24) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 845(c)), and the Secretary shall require such sponsors to comply with the conditions contained in sections 208(a)(1), (4), and (5) and (c) and 703(4) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 848(a) and (c) and 983).”
 
@@ -336,7 +336,7 @@ Subsecs. (d) to (f). Pub. L. 99–198, §1540(b), (c), struck out subsec. (d) wh
 
 1982—Subsec. (d). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (f) as (d), and struck out former subsec. (d), which provided that notwithstanding any other provision of law, the Secretary has required, in consultation with the Secretary of the Treasury, to conduct a study, through the use of Federal income tax data, of the feasibility, alternative methods of implementation, and the effects of a program to recover food stamp benefits from members of eligible households in which the adjusted gross income of members of such households for a calendar year (as defined by the Internal Revenue Code of 1954) exceeded twice the income poverty guidelines set forth in section 2014(c) of this title, and that such study had to be conducted in rural and urban areas only on a voluntary basis by food stamp recipients, and that the Secretary was required, no later than twelve months and eighteen months from September 29, 1977, to report the results of the study to the Committees on Agriculture and Ways and Means of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Finance of the Senate, together with such recommendations as the Secretary deemed appropriate.
 
-Subsec. (e). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (g) as (e) and struck out former subsec. (e) which provided for a study of the Consumer Price Index and other alternative consumer price or cost-of-living indices.
+Subsec. (e). Pub. L. 97–253, §§152(c), 190(d), redesignated subsec. (g) as (e) and struck out former subsec.\(e) which provided for a study of the Consumer Price Index and other alternative consumer price or cost-of-living indices.
 
 Subsec. (f). Pub. L. 97–253, §190(d), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 

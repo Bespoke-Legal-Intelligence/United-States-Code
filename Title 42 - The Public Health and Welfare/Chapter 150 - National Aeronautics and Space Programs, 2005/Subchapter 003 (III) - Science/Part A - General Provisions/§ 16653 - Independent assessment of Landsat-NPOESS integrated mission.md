@@ -8,7 +8,7 @@ In view of the importance of ensuring continuity of Landsat data and in view of 
 
 #### (1) Deadline
 
-&emsp;The Administrator shall transmit the independent assessment to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of enactment of this chapter unless, prior to that date, NASA cancels plans to fly the Landsat instrument on the first National Polar-Orbiting Operational Environmental Satellite System spacecraft.
+&emsp;The Administrator shall transmit the independent assessment to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of enactment of this chapter unless, prior to that date, NASA cancels plans to fly the Landsat instrument onthe first National Polar-Orbiting Operational Environmental Satellite System spacecraft.
 
 #### (2) Cancellation
 

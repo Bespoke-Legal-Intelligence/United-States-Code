@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+Unlawful conduct.—Whoever knowingly provides material support or resources to aforeign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 &emsp;(2)
 
@@ -216,10 +216,6 @@ Exception.—No person may be prosecuted under this section in connection with t
 
 (Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 6603(g) of Pub. L. 108–458, see Termination Date of 2004 Amendment note below.</i>
-
 #### References in Text
 
 Section 212(a)(3)(B) of the Immigration and Nationality Act, referred to in subsecs. (a)(1) and (j), is classified to section 1182(a)(3)(B) of Title 8, Aliens and Nationality.
@@ -234,19 +230,15 @@ Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §6603(c), (g), temporarily struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).” See Termination Date of 2004 Amendment note below.
+2004—Subsec. (a)(1). Pub. L. 108–458, §6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
 
-Subsec. (d). Pub. L. 108–458, §6603(d), (g), temporarily designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1). See Termination Date of 2004 Amendment note below.
+Subsec. (d). Pub. L. 108–458, §6603(d), designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
 
-Subsec. (g)(4). Pub. L. 108–458, §6603(e), (g), temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”. See Termination Date of 2004 Amendment note below.
+Subsec. (g)(4). Pub. L. 108–458, §6603(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”.
 
-Subsecs. (h) to (j). Pub. L. 108–458, §6603(f), (g), temporarily added subsecs. (h) to (j). See Termination Date of 2004 Amendment note below.
+Subsecs. (h) to (j). Pub. L. 108–458, §6603(f), added subsecs. (h) to (j).
 
 2001—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
-
-#### Termination Date of 2004 Amendment
-
-Amendment by Pub. L. 108–458 to cease to be effective Dec. 31, 2006, with exception for certain offenses that began or occurred before such date, see section 6603(g) of Pub. L. 108–458, set out as a note under section 2332b of this title.
 
 #### Findings and Purpose
 

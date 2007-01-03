@@ -10,7 +10,7 @@
 
 (e) The Secretary shall prescribe by regulation the detailed procedures whereby officers in a continuation zone will be selected for continuation on active duty.
 
-(f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
+(f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings inrevision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
 
 (g) Each officer who is considered but not recommended for continuation on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which the report of the continuation board convened under this section is approved, or the last day of the month in which he completes twenty years of active service, whichever is later.
 

@@ -24,7 +24,7 @@ For the purpose of carrying out part A of this subchapter, there are authorized 
 
 #### (2) Early Reading First
 
-&emsp;For the purpose of carrying out subpart 2 of part B of this subchapter, there are authorized to be appropriated $75,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+&emsp;For the purpose of carrying out subpart 2 of part B of this subchapter, there are authorizedto be appropriated $75,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
 #### (3) Even Start
 
@@ -36,7 +36,7 @@ For the purpose of carrying out part A of this subchapter, there are authorized 
 
 #### (c) Education of migratory children
 
-For the purpose of carrying out part C of this subchapter, there are authorized to be appropriated $410,000,000 for fiscal year 2002 and suchsums as may be necessary for each of the 5 succeeding fiscal years.
+For the purpose of carrying out part C of this subchapter, there are authorized to be appropriated $410,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
 #### (d) Prevention and intervention programs for youth who are neglected, delinquent, or at risk
 

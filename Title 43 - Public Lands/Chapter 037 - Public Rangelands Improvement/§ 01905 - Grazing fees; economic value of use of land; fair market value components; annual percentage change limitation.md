@@ -16,7 +16,7 @@ Sec. 2. <i>Definitions</i>. As used in this Order, the term:
 
 (a) “Public rangelands” has the same meaning as in the Public Rangelands Improvement Act of 1978 (Public Law 95–514) \[this chapter\];
 
-(b) “Forage Value Index” means the weighted average estimate of the annual rental charge per head per month for pasturing cattle on private rangelands in the 11 Western States (Montana, Idaho, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Washington, Oregon, and California) (computed by the Statistical Reporting Service from the June Enumerative Survey) divided by $3.65 and multiplied by 100;
+(b) “Forage Value Index” means the weighted average estimate of the annual rental charge per head per month for pasturing cattle on private rangelands in the 11 Western States (Montana, Idaho, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Washington,Oregon, and California) (computed by the Statistical Reporting Service from the June Enumerative Survey) divided by $3.65 and multiplied by 100;
 
 (c) “Beef Cattle Price Index” means the weighted average annual selling price for beef cattle (excluding calves) in the 11 Western States (Montana, Idaho, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada, Washington, Oregon, and California) for November through October (computed by the Statistical Reporting Service) divided by $22.04 per hundred weight and multiplied by 100; and
 

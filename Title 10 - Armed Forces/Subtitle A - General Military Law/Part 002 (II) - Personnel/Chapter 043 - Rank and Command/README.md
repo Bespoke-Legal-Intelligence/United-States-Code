@@ -27,8 +27,6 @@ Pub. L. 96–513, title V, §501(10)(B), Dec. 12, 1980, 94 Stat. 2908, added ite
 
 1958—Pub. L. 85–861, §1(19), Sept. 2, 1958, 72 Stat. 1442, struck out item 742 “Rank: officers of regular and reserve components”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

@@ -6,31 +6,55 @@ There is established in the Executive Office of the President an Office of Natio
 
 &emsp;(1) develop national drug control policy;
 
-&emsp;(2) coordinate and oversee the implementation of that national drug control policy;
+&emsp;(2) coordinate and oversee the implementation of the national drug control policy;
 
-&emsp;(3) assess and certify the adequacy of national drug control programs and the budget for those programs; and
+&emsp;(3) assess and certify the adequacy of National Drug Control Programs and the budget for those programs; and
 
-&emsp;(4) evaluate the effectiveness of the national drug control programs.
+&emsp;(4) evaluate the effectiveness of the national drug control policy and the National Drug Control Program agencies’ programs, by developing and applying specific goals and performance measurements.
 
-#### (b) Director and Deputy Directors
+> When developing the national drug control policy, any policy of the Director relating to syringe exchange programs for intravenous drug users shall be based on the best available medical and scientific evidence regarding their effectiveness in promoting individual health and preventing the spread of infectious disease, and their impact on drug addiction and use. In making any policy relating to syringe exchange programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.
+
+#### (b) Director of National Drug Control Policy and Deputy Directors
 
 #### (1) Director
 
-&emsp;There shall be at the head of the Office a Director of National Drug Control Policy.
+&emsp;There shall be a Director of National Drug Control Policy who shall head the Office (referred to in this chapter as the “Director”) and shall hold the same rank and status as the head of an executive department listed in section 101 of title 5.
 
-#### (2) Deputy Director of National Drug Control Policy
+#### (2) Deputy Director
 
-&emsp;There shall be in the Office a Deputy Director of National Drug Control Policy, who shall assist the Director in carrying out the responsibilities of the Director under this chapter.
+&emsp;There shall be a Deputy Director of National Drug Control Policy who shall report directly to the Director (referred to in this chapter as the “Deputy Director”).
 
 #### (3) Other Deputy Directors
 
-&emsp;There shall be in the Office—
+#### (A) In general
 
-&emsp;&emsp;(A) a Deputy Director for Demand Reduction, who shall be responsible for the activities described in subparagraphs (A) through (G) of section 1701(1) of this title;
+&emsp;&emsp;There shall be a Deputy Director for Demand Reduction, a Deputy Director for Supply Reduction, and a Deputy Director for State, Local, and Tribal Affairs.
 
-&emsp;&emsp;(B) a Deputy Director for Supply Reduction, who shall be responsible for the activities described in subparagraphs (A) through (C) of section 1701(11) of this title; and
+#### (B) Reporting
 
-&emsp;&emsp;(C) a Deputy Director for State and Local Affairs, who shall be responsible for the activities described in subparagraphs (A) through (C) of section 1701(10) of this title and subparagraph (D) of section 1701(11) of this title.
+&emsp;&emsp;The Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State, Local, and Tribal Affairs shall report directly to the Deputy Director of the Office of National Drug Control Policy.
+
+#### (C) Deputy Director for Demand Reduction
+
+&emsp;&emsp;The Deputy Director for Demand Reduction shall be responsible for the activities in subparagraphs (A) through (H) of section 1701(1) <sup>1</sup> of this title.
+
+#### (D) Deputy Director for Supply Reduction
+
+&emsp;&emsp;The Deputy Director for Supply Reduction shall—
+
+&emsp;&emsp;&emsp;(i) have substantial experience and expertise in drug interdiction and other supply reduction activities; and
+
+&emsp;&emsp;&emsp;(ii) be responsible for the activities in subparagraphs (A) through (C) in section 1701(11) of this title.
+
+#### (E) Deputy Director for State, Local, and Tribal Affairs
+
+&emsp;&emsp;The Deputy Director for State, Local, and Tribal Affairs shall be responsible for the activities—
+
+&emsp;&emsp;&emsp;(i) in subparagraphs (A) through (D) of section 1701(10) of this title;
+
+&emsp;&emsp;&emsp;(ii) in section 1706 of this title, the High Intensity Drug Trafficking Areas Program; and
+
+&emsp;&emsp;&emsp;(iii) in section 1707 of this title, the Counterdrug Technology Assessment Center.
 
 #### (c) Access by Congress
 
@@ -54,11 +78,25 @@ The location of the Office in the Executive Office of the President shall not be
 
 &emsp;Amounts deposited in the Fund are authorized to be appropriated, to remain available until expended for authorized purposes at the discretion of the Director.
 
-(Pub. L. 105–277, div. C, title VII, §703, Oct. 21, 1998, 112 Stat. 2681–672.)
+(Pub. L. 105–277, div. C, title VII, §703, Oct. 21, 1998, 112 Stat. 2681–672; Pub. L. 109–469, title I, §102, title XI, §1120, Dec. 29, 2006, 120 Stat. 3505, 3548.)
 
 #### Repeal of Section
 
-<i>For repeal of section on Sept. 30, 2003, see section 1712 of this title.</i>
+<i>For repeal of section on Sept. 30, 2010, see section 1712 of this title.</i>
+
+#### References in Text
+
+This chapter, referred to in subsec. (b)(1), (2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+Section 1701(1) of this title, referred to in subsec. (b)(3)(C), was in the original “section 702(l)”, and was translated as reading “section 702(1)”, meaning section 702(1) of Pub. L. 105–277, to reflect the probable intent of Congress, because section 702 of Pub. L. 105–277 does not contain a subsec. (l).
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–469, §1120, inserted concluding provisions.
+
+Pub. L. 109–469, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment of Office of National Drug Control Policy.
+
+Subsec. (b). Pub. L. 109–469, §102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
 
 #### Gifts to Office of National Drug Control Policy
 
@@ -115,4 +153,6 @@ Sec. 2. The seal shall be of the design that is attached hereto and made a part 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [Image not captured: t211702.gif]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

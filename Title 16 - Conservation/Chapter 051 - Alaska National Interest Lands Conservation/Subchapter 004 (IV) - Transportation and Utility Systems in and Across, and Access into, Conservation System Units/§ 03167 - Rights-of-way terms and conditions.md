@@ -18,7 +18,7 @@ The Secretary, or the Secretary of Agriculture where national forest wilderness 
 
 &emsp;&emsp;(C) hazards to public health and safety;
 
-&emsp;(5) requirements to protect the interests of individuals living in the general area of theright-of-way who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes; and
+&emsp;(5) requirements to protect the interests of individuals living in the general area of the right-of-way who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes; and
 
 &emsp;(6) requirements to employ measures to avoid or minimize adverse environmental, social or economic impacts.
 

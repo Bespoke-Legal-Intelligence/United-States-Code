@@ -6,7 +6,7 @@ No person acting under color of law shall fail or refuse to permit any person to
 
 #### (b) Intimidation, threats, or coercion
 
-No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under section 1973a(a), 1973d, 1973f, 1973g, 1973h, or 1973j(e) of this title.
+No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under section 1973a(a), 1973d,<sup>1</sup> 1973f, 1973g,<sup>1</sup> 1973h, or 1973j(e) of this title.
 
 #### (c) False information in registering or voting; penalties
 
@@ -26,6 +26,10 @@ Whoever, in any matter within the jurisdiction of an examiner or hearing officer
 
 (Pub. L. 89–110, title I, §11, Aug. 6, 1965, 79 Stat. 443; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 91–405, title II, §204(e), Sept. 22, 1970, 84 Stat. 853; Pub. L. 94–73, title IV, §§404, 409, Aug. 6, 1975, 89 Stat. 404, 405.)
 
+#### References in Text
+
+Sections 1973d and 1973g of this title, referred to in subsec. (b), were repealed by Pub. L. 109–246, §3(c), July 27, 2006, 120 Stat. 580.
+
 #### Amendments
 
 1975—Subsec. (c). Pub. L. 94–73, §404, inserted reference to Guam and Virgin Islands.
@@ -37,4 +41,6 @@ Subsec. (e). Pub. L. 94–73, §409, added subsec. (e).
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pub. L. 91–405, set out as an Effective Date note under section 25a of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

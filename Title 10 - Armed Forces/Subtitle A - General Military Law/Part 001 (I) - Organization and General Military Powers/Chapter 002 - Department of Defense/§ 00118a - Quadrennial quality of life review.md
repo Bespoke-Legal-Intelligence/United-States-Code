@@ -62,5 +62,5 @@ Submission to Congressional Committees.—(1) The Secretary shall submit a repor
 
 #### First Quadrennial Quality of Life Review
 
-Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, provided that: “The first quadrennial quality of life review under section 118a of title 10, United States Code, as added by subsection (a), shall be conducted during 2003, and the report on that review required to be submitted to Congress under subsection (d) of such section shall be submitted not later than the date on which the President submits the budget for fiscal year 2005 to Congress.”
+Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
 

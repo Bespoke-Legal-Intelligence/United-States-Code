@@ -128,7 +128,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 &emsp;&emsp;&emsp;(iii) demonstrated a pattern or practice of defalcation regarding obligations to insured depository institutions; or
 
-&emsp;&emsp;&emsp;(iv) caused a substantial loss to Federal deposit insurance funds;
+&emsp;&emsp;&emsp;(iv) caused a substantial loss to the Deposit Insurance Fund (or any predecessor deposit insurance fund);
 
 > &emsp;&emsp;from performing any service on behalf of the Corporation.
 
@@ -144,19 +144,17 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (6) Priority of FDIC rules
 
-&emsp;To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
+&emsp;To the extent that the regulations under this subsection conflict with rules of otheragencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
 
 (Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613.)
-
-#### Amendment of Subsection (f)(4)(E)(iv)
-
-<i>Pub. L. 109–173, §8(a)(18), (b), Feb. 15, 2006, 119 Stat. 3613, 3616, provided that, effective Mar. 31, 2006, subsection (f)(4)(E)(iv) of this section is amended by striking “Federal deposit insurance funds” and inserting “the Deposit Insurance Fund (or any predecessor deposit insurance fund)”.</i>
 
 #### Prior Provisions
 
 Section is derived from subsec. (m) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2006—Subsec. (f)(4)(E)(iv). Pub. L. 109–173 substituted “the Deposit Insurance Fund (or any predecessor deposit insurance fund)” for “Federal deposit insurance funds”.
 
 1996—Subsec. (f)(3). Pub. L. 104–179 struck out “, with the concurrence of the Office of Government Ethics,” after “The Board of Directors”.
 

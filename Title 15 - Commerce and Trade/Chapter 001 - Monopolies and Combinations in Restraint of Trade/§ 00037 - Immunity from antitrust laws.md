@@ -16,7 +16,7 @@ Any annuity treated as a charitable gift annuity, or any trust treated as a char
 
 &emsp;(2) in any schedule, form, or written document provided by or on behalf of the donee to the donor;
 
-> shall be conclusively presumed for the purposes of this section and section 37a of this title to be respectively a charitable gift annuity or a charitable remainder trust, unless there has been a final determination by the Internal Revenue Service that, for fraud or otherwise, the donor'sannuity or trust did not qualify respectively as a charitable gift annuity or charitable remainder trust when created.
+> shall be conclusively presumed for the purposes of this section and section 37a of this title to be respectively a charitable gift annuity or a charitable remainder trust, unless there has been a final determination by the Internal Revenue Service that, for fraud or otherwise, the donor's annuity or trust did not qualify respectively as a charitable gift annuity or charitable remainder trust when created.
 
 #### (d) Limitation
 
@@ -38,7 +38,7 @@ Section 3 of Pub. L. 105–26 provided that: “This Act \[see Short Title of 19
 
 #### Effective Date
 
-Section 4 of Pub. L. 104–63 provided that: “This Act \[enacting this section, section 37a of this title, and provisions set out as a note under section 1 of this title\] shall apply with respect to conduct occurring before, on, or after the date of the enactment of this Act \[Dec. 8, 1995\].”
+Section 4 of Pub. L. 104–63 provided that: “This Act \[enacting this section, section 37a of this title, and provisions set out as a note under section 1 of this title\] shall apply with respect to conduct occurring before,on, or after the date of the enactment of this Act \[Dec. 8, 1995\].”
 
 #### Study and Report
 

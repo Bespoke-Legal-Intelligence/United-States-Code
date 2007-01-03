@@ -28,7 +28,7 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 #### Effective Date of Higher Grade and Increased Pay and Allowances
 
-Section 2 of Pub. L. 86–474 provided that: “The increased grade of admiral for the Commandant and vice admiral for the Assistant Commandant \[now Vice Commandant\], including the pay and allowances applicable to such grades, shall be effective on the first day of the month following enactment of this Act \[May 14, 1960\].”
+Section 2 of Pub. L. 86–474 provided that: “The increased grade of admiral for the Commandant and vice admiral for the Assistant Commandant \[now Vice Commandant\], including the pay and allowances applicableto such grades, shall be effective on the first day of the month following enactment of this Act \[May 14, 1960\].”
 
 #### Savings Provision
 

@@ -12,7 +12,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [118\.](%C2%A7%2000118%20-%20Interference%20with%20certain%20protective%20functions.md) | Interference with certain protective functions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2007—Pub. L. 109–472, §4(b), Jan. 11, 2007, 120 Stat. 3555, added item 118.
 
 1996—Pub. L. 104–208, div. C, title VI, §645(b)(2), Sept. 30, 1996, 110 Stat. 3009–709, added item 116.
 
@@ -38,3 +46,4 @@
 - [&sect; 00115 - Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member](%C2%A7%2000115%20-%20Influencing%2C%20impeding%2C%20or%20retaliating%20against%20a%20Federal%20official%20by%20threatening%20or%20injuring%20a%20family%20member.md)
 - [&sect; 00116 - Female genital mutilation](%C2%A7%2000116%20-%20Female%20genital%20mutilation.md)
 - [&sect; 00117 - Domestic assault by an habitual offender](%C2%A7%2000117%20-%20Domestic%20assault%20by%20an%20habitual%20offender.md)
+- [&sect; 00118 - Interference with certain protective functions](%C2%A7%2000118%20-%20Interference%20with%20certain%20protective%20functions.md)

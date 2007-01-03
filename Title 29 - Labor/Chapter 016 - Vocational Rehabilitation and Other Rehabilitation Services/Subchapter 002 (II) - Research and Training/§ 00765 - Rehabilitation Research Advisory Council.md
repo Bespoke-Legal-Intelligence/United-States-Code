@@ -10,7 +10,7 @@ The Council shall advise the Director with respect to research priorities and th
 
 #### (c) Qualifications
 
-Members of the Council shall be generally representative of the community of rehabilitation professionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the individuals’ representatives. At least one-half of the members shall be individuals with disabilities or the individuals’ representatives.
+Members of the Council shall be generally representative of the community of rehabilitationprofessionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the individuals’ representatives. At least one-half of the members shall be individuals with disabilities or the individuals’ representatives.
 
 #### (d) Terms of appointment
 

@@ -48,17 +48,27 @@ When any such retired participant is reemployed, the employer shall send a notic
 
 In the event of any overpayment under this section, such overpayment shall be recovered by withholding the amount involved from the salary payable to such reemployed participant or from any other moneys, including annuity payments, payable under this subchapter.
 
-#### (g) Waiver
+#### (g) Waiver of annuity limitations
 
-The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
+(1) To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Secretary of State may waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis, or grant authority to the head of an Executive agency to waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis—
+
+&emsp;(A) if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances; or
+
+&emsp;(B) if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee.
+
+(2) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under subparagraphs (A) or (B) of such paragraph, shall terminate on October 1, 2008. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+
+(3) The Secretary should prescribe procedures for the exercise of any authority under paragraph (1), including criteria for any exercise of authority and procedures for a delegation of authority.
 
 #### (h) Effects of waiver
 
 A reemployed annuitant as to whom a waiver under subsection (g) of this section is in effect shall not be considered a participant for purposes of this part or part II of this subchapter, or an employee for purposes of chapter 83 or 84 of title 5.
 
-(Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585.)
+(Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, §1602(a), June 15, 2006, 120 Stat. 440.)
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–234 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.”
 
 1998—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting “or in the case of a waiver under subsection (g) of this section” after “subsection (b) of this section”, and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
@@ -66,7 +76,7 @@ A reemployed annuitant as to whom a waiver under subsection (g) of this section 
 
 Pub. L. 99–335, §402(a)(2), substituted “this part” for “this subchapter” in three places.
 
-Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When any such retired member of the Service isreemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving.”
+Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving.”
 
 Subsec. (b)(3). Pub. L. 99–556, §403, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The sum of—
 

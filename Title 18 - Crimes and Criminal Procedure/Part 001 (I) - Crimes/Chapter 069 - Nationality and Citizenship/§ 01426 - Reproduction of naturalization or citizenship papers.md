@@ -38,7 +38,7 @@ References to persons causing, procuring, aiding, abetting, or assisting were om
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, seesection 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Transfer of Functions
 
@@ -46,5 +46,5 @@ Functions of all other officers of Department of Justice and functions of all ag
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

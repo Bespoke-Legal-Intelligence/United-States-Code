@@ -208,7 +208,7 @@ Fraud alert; active duty alert.—The terms “fraud alert” and “active duty
 
 &emsp;(3)
 
-Identity theft.—The term “identity theft” means a fraud committed using the identifying information of another person, subject to such further definition as the Commission may prescribe, by regulation.
+Identity theft.—The term “identity theft” means a fraud committed using theidentifying information of another person, subject to such further definition as the Commission may prescribe, by regulation.
 
 &emsp;(4)
 
@@ -274,7 +274,7 @@ Commission.—The term “Commission” means the Federal Trade Commission.
 
 (w)
 
-Nationwide Specialty Consumer Reporting Agency.—The term “nationwide specialtyconsumer reporting agency” means a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis relating to—
+Nationwide Specialty Consumer Reporting Agency.—The term “nationwide specialty consumer reporting agency” means a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis relating to—
 
 &emsp;(1) medical records or payments;
 
@@ -322,7 +322,7 @@ Subsequent disclosure.—After taking any adverse action based in whole or in pa
 
 &emsp;(3)
 
-Self-regulatory organization defined.—For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
+Self-regulatory organization defined.—For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-OxleyAct of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
 (Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010.)
 

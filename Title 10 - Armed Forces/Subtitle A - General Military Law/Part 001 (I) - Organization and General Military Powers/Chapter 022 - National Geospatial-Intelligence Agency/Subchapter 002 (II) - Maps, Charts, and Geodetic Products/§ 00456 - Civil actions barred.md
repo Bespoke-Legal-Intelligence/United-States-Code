@@ -22,5 +22,5 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 #### Effective Date
 
-Section 1074(d) of Pub. L. 103–337 provided that: “Section 2798 \[now 456\] of title 10, United States Code, asadded by subsection (b), shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply with respect to (1) civil actions brought before such date that are pending adjudication on such date, and (2) civil actions brought on or after such date.”
+Section 1074(d) of Pub. L. 103–337 provided that: “Section 2798 \[now 456\] of title 10, United States Code, as added by subsection (b), shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply with respect to (1) civil actions brought before such date that are pending adjudication on such date, and (2) civil actions brought on or after such date.”
 

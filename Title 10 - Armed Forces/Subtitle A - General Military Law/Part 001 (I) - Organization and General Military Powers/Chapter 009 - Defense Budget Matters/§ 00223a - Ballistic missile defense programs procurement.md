@@ -26,5 +26,5 @@ Testing Progress.—The Director of Operational Test and Evaluation shall make a
 
 #### Implementation of Requirement for Availability of Test Plans
 
-Pub. L. 108–136, div. A, title II, §223(b), Nov. 24, 2003, 117 Stat. 1420, provided that: “Subsection (d) of section 223a of title 10, United States Code, as added by subsection (a), shall be implemented not later than March 1, 2004.”
+Pub. L. 108–136, div. A, title II, §223(b), Nov. 24, 2003, 117 Stat. 1420, directed that subsec. (d) of this section was to be implemented not later than Mar. 1, 2004.
 

@@ -16,7 +16,7 @@
 
 (e) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review any final determination of the Secretary of the Treasury under section 305(b)(1) of the Trade Agreements Act of 1979.
 
-(f) The Court of International Trade shall have exclusive jurisdiction of any civil action involving an application for an order directing the administering authority or the International Trade Commission to make confidential information available under section 777(c)(2) of the Tariff Act of 1930.
+(f) The Court of International Trade shall have exclusive jurisdiction of any civil action involving an application for an order directing the administering authority or the InternationalTrade Commission to make confidential information available under section 777(c)(2) of the Tariff Act of 1930.
 
 (g) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review—
 
@@ -84,7 +84,7 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
 
-1988—Subsec. (i). Pub. L. 100–449 inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
+1988—Subsec. (i). Pub. L. 100–449 inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which isreviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
 
 1986—Subsec. (g)(1). Pub. L. 99–514 substituted “(3)” for “(3) or (c)”.
 

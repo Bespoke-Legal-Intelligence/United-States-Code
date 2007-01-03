@@ -62,7 +62,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 &emsp;(D)(i) When a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, the Defense Intelligence Agency shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsible records currently perform the functions set forth in subsection (b) of this section.
 
-&emsp;(ii) The court may not order the Defense Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under clause\(i), unless the complainant disputes the Defense Intelligence Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
+&emsp;(ii) The court may not order the Defense Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under clause (i), unless the complainant disputes the Defense Intelligence Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
 
 &emsp;(E) In proceedings under subparagraphs (C) and (D), the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36.
 

@@ -10,7 +10,7 @@ It is declared to be the policy of Congress, as a measure of national security, 
 
 #### Effective Date of 1989 Amendment
 
-Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments madeby this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
 
 #### Short Title of 2004 Amendment
 
@@ -72,7 +72,7 @@ Pub. L. 108–265, title II, §204, June 30, 2004, 118 Stat. 780, as amended by 
 
 “(a)
 
-In General.—Not later than the first day of the school year beginning after June 30, 2006, each localeducational agency participating in a program authorized by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall establish a local school wellness policy for schools under the local educational agency that, at a minimum—
+In General.—Not later than the first day of the school year beginning after June 30, 2006, each local educational agency participating in a program authorized by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall establish a local school wellness policy for schools under the local educational agency that, at a minimum—
 
 &emsp;“(1) includes goals for nutrition education, physical activity, and other school-based activities that are designed to promote student wellness in a manner that the local educational agency determines is appropriate;
 

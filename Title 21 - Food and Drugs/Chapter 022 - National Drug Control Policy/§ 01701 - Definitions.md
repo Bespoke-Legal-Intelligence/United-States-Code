@@ -16,9 +16,15 @@ In this chapter:
 
 &emsp;&emsp;(E) drug abuse rehabilitation;
 
-&emsp;&emsp;(F) drug-free workplace programs; and
+&emsp;&emsp;(F) drug-free workplace programs;
 
-&emsp;&emsp;(G) drug testing.
+&emsp;&emsp;(G) drug testing, including the testing of employees;
+
+&emsp;&emsp;(H) interventions for drug abuse and dependence;
+
+&emsp;&emsp;(I) international drug control coordination and cooperation with respect to activities described in this paragraph; and
+
+&emsp;&emsp;(J) international drug abuse education, prevention, treatment, research, rehabilitation activities, and interventions for drug abuse and dependence.
 
 #### (2) Director
 
@@ -38,11 +44,11 @@ In this chapter:
 
 #### (6) National Drug Control Program
 
-&emsp;The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy.
+&emsp;The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
 
 #### (7) National Drug Control Program agency
 
-&emsp;The term “National Drug Control Program agency” means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Foreign Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, unless such agency has been designated—
+&emsp;The term “National Drug Control Program agency” means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28, unless such agency has been designated—
 
 &emsp;&emsp;(A) by the President; or
 
@@ -54,43 +60,103 @@ In this chapter:
 
 #### (9) Office
 
-&emsp;Unless the context clearly implicates otherwise, the term “Office” means the Office of National Drug Control Policy established under section 1702(a) of this title.
+&emsp;Unless the context clearly indicates otherwise, the term “Office” means the Office of National Drug Control Policy established under section 1702(a) of this title.
 
-#### (10) State and local affairs
+#### (10) State, local, and tribal affairs
 
-&emsp;The term “State and local affairs” means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of drugs, including—
+&emsp;The term “State, local, and tribal affairs” means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
 
-&emsp;&emsp;(A) coordination and facilitation of Federal, State, and local law enforcement drug control efforts;
+&emsp;&emsp;(A) coordination and enhancement of Federal, State, local, and tribal law enforcement drug control efforts;
 
-&emsp;&emsp;(B) promotion of coordination and cooperation among the drug supply reduction and demand reduction agencies of the various States, territories, and units of local government; and
+&emsp;&emsp;(B) coordination and enhancement of efforts among National Drug Control Program agencies and State, local, and tribal demand reduction and supply reduction agencies;
 
-&emsp;&emsp;(C) such other cooperative governmental activities which promote a comprehensive approach to drug control at the national, State, territory, and local levels.
+&emsp;&emsp;(C) coordination and enhancement of Federal, State, local, and tribal law enforcement initiatives to gather, analyze, and disseminate information and law enforcement intelligence relating to drug control among domestic law enforcement agencies; and
+
+&emsp;&emsp;(D) other coordinated and joint initiatives among Federal, State, local, and tribal agencies to promote comprehensive drug control strategies designed to reduce the demand for, and the availability of, illegal drugs.
 
 #### (11) Supply reduction
 
-&emsp;The term “supply reduction” means any activity of a program conducted by a National Drug Control Program agency that is intended to reduce the availability or use of drugs in the United States and abroad, including—
+&emsp;The term “supply reduction” means any activity or program conducted by a National Drug Control Program agency that is intended to reduce the availability or use of illegal drugs in the United States or abroad, including—
 
-&emsp;&emsp;(A) international drug control;
+&emsp;&emsp;(A) law enforcement outside the United States;
 
-&emsp;&emsp;(B) foreign and domestic drug intelligence;
+&emsp;&emsp;(B) source country programs, including economic development programs primarily intended to reduce the production or trafficking of illicit drugs;
 
-&emsp;&emsp;(C) interdiction; and
+&emsp;&emsp;(C) activities to control international trafficking in, and availability of, illegal drugs, including—
 
-&emsp;&emsp;(D) domestic drug law enforcement, including law enforcement directed at drug users.
+&emsp;&emsp;&emsp;(i) accurate assessment and monitoring of international drug production and interdiction programs and policies; and
 
-(Pub. L. 105–277, div. C, title VII, §702, Oct. 21, 1998, 112 Stat. 2681–670.)
+&emsp;&emsp;&emsp;(ii) coordination and promotion of compliance with international treaties relating to the production, transportation, or interdiction of illegal drugs;
+
+&emsp;&emsp;(D) activities to conduct and promote international law enforcement programs and policies to reduce the supply of drugs; and
+
+&emsp;&emsp;(E) activities to facilitate and enhance the sharing of domestic and foreign intelligence information among National Drug Control Program agencies, relating to the production and trafficking of drugs in the United States and in foreign countries.
+
+#### (12) Appropriate congressional committees
+
+&emsp;Except where otherwise provided, the term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Appropriations, and the Caucus on International Narcotics Control of the Senate and the Committee on Government Reform, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives.
+
+#### (13) Law enforcement
+
+&emsp;The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.
+
+(Pub. L. 105–277, div. C, title VII, §702, Oct. 21, 1998, 112 Stat. 2681–670; Pub. L. 109–469, title I, §101, Dec. 29, 2006, 120 Stat. 3503.)
 
 #### Repeal of Section
 
-<i>For repeal of section on Sept. 30, 2003, see section 1712 of this title.</i>
+<i>For repeal of section on Sept. 30, 2010, see section 1712 of this title.</i>
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, known as Office of National Drug Control Policy Reauthorization Act of 1998, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out below and Tables.
+
+#### Codification
+
+The repeal of this chapter and of the amendments made by this chapter, effective Sept. 30, 2003, by section 1712 of this title, as in effect on Sept. 30, 2003, has not been given effect in the Code, to reflect the probable intent of Congress, because of the amendment to section 1712 of this title by Pub. L. 109–469 which substituted “September 30, 2010” for “September 30, 2003” as the effective date of the repeal.
+
+#### Amendments
+
+2006—(1)(G). Pub. L. 109–469, §101(a)(2), substituted “, including the testing of employees;” for period at end.
+
+Par. (1)(H) to (J). Pub. L. 109–469, §101(a)(1), (3), added subpars. (H) to (J).
+
+Par. (6). Pub. L. 109–469, §101(b), inserted “, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs” before period at end.
+
+Par. (7). Pub. L. 109–469, §101(c), in introductory provisions, substituted “National Intelligence Program,” for “National Foreign Intelligence Program,” and inserted “or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28,” after “Related Activities,”.
+
+Par. (9). Pub. L. 109–469, §101(d), substituted “indicates” for “implicates”.
+
+Par. (10). Pub. L. 109–469, §101(e), amended par. (10) generally. Prior to amendment, text defined the term “State and local affairs”.
+
+Par. (11). Pub. L. 109–469, §101(f), amended par. (11) generally. Prior to amendment, text defined the term “supply reduction”.
+
+Pars. (12), (13). Pub. L. 109–469, §101(g), added pars. (12) and (13).
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–469, §1(a), Dec. 29, 2006, 120 Stat. 3502, provided that: “This Act \[enacting sections 1708a, 1714, 2001 to 2003, and 2011 to 2014 of this title, amending this section, sections 823, 1524, 1532, 1702 to 1708, 1710 to 1712 of this title, and section 458 of Title 6, Domestic Security, repealing sections 1509, 1709, and 1801 to 1804 of this title, enacting provisions set out as notes under this section, sections 1532, 1705, 1706, and 2001 of this title, and section 112 of Title 32, National Guard, amending provisions set out as a note under section 1521 of this title, and repealing provisions set out as a note under section 1801 of this title\] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 2006’.”
+
+Pub. L. 109–469, title III, §302(a), Dec. 29, 2006, 120 Stat. 3524, provided that: “This section \[amending section 1706 of this title and enacting provisions set out as a note under section 1706 of this title\] may be cited as the ‘Dawson Family Community Protection Act’.”
 
 #### Short Title
 
 Pub. L. 105–277, div. C, title VII, §701, Oct. 21, 1998, 112 Stat. 2681–670, provided that: “This title \[enacting this chapter, amending section 1509 of this title, sections 5312 to 5314 of Title 5, Government Organization and Employees, section 1105 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense\] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 1998’.”
+
+#### Model Acts
+
+Pub. L. 109–469, title XI, §1105, Dec. 29, 2006, 120 Stat. 3541, provided that:
+
+“(a)
+
+In General.—The Director of the Office of National Drug Control Policy shall provide for or shall enter into an agreement with a non-profit corporation that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from tax under section 501(a) of such Code to—
+
+&emsp;“(1) advise States on establishing laws and policies to address alcohol and other drug issues, based on the model State drug laws developed by the President's Commission on Model State Drug Laws in 1993; and
+
+&emsp;“(2) revise such model State drug laws and draft supplementary model State laws to take into consideration changes in the alcohol and drug abuse problems in the State involved.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this subsection \[probably should be “section”\] $1,500,000 for each of fiscal years 2007 through 2011.”
 
 #### Ex. Ord. No. 13165. White House Task Force on Drug Use in Sports and United States Representative on the Board of the World Anti-Doping Agency
 
@@ -98,7 +164,7 @@ Ex. Ord. No. 13165, Aug. 9, 2000, 65 F.R. 49469, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Office of National Drug Control \[Policy\] Reauthorization Act of 1998, (21 U.S.C. 1701 <i>et seq</i>.), and in order to develop recommendations for Federal agency actions to address the use of drugs in sports, in particular among young people, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The use of drugs in sports has reached a level that endangers not just the legitimacy of athletic competition but also the lives and health of athletes—from the elite ranks to youth leagues. The National Household Survey on Drug Abuse issued in 1999 found that in just 1 year's time the rate of steroid use among young people rose roughly 50 percent among both sexes and across all age groups. It is the policy of my Administration to take the steps needed to help eliminate illicit or otherwise banned drug use and doping in sports at the State, national, and international level.
+Section 1. <i>Policy</i>. The use of drugs in sports has reached a level that endangers not just the legitimacy of athletic competition but also the lives and health of athletes—from the elite ranks to youth leagues. The National Household Survey on Drug Abuse issued in 1999 found that in just 1 year's time the rate of steroiduse among young people rose roughly 50 percent among both sexes and across all age groups. It is the policy of my Administration to take the steps needed to help eliminate illicit or otherwise banned drug use and doping in sports at the State, national, and international level.
 
 Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. (a) There is established a White House Task Force on Drug Use in Sports (Task Force). The Task Force shall comprise the co-vice chairs of the White House Olympic Task Force (the “Olympic Task Force Vice Chairs”), and representatives designated by the Office of National Drug Control Policy, the Department of Health and Human Services, the Department of Labor, the President's Council on Physical Fitness and Sports, the Office of Management and Budget, the National Security Council, the Department of State, the Department of the Treasury, the Department of Education, the Department of Justice, the Department of Transportation, the Department of Homeland Security, the National Institute on Drug Abuse, and the Substance Abuse and Mental Health Services Administration.
 

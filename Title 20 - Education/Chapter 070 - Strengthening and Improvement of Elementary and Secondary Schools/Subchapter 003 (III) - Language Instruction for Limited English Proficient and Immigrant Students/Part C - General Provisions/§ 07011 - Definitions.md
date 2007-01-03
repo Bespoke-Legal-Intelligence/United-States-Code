@@ -108,7 +108,7 @@ Except as otherwise provided, in this subchapter:
 
 The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (3), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688,as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 

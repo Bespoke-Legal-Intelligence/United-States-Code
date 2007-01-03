@@ -12,7 +12,7 @@
 
 #### (3) Minimum period of service required
 
-&emsp;Payment of a bonus under this subsection shall be contingent upon the individual entering into an agreement with the Capitol Police to complete a period of employment with the Capitol Police, with the required period determined pursuant to regulations of the Board. If the individual voluntarily fails to completesuch period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the individual shall repay the bonus on a pro rata basis.
+&emsp;Payment of a bonus under this subsection shall be contingent upon the individual entering into an agreement with the Capitol Police to complete a period of employment with the Capitol Police, with the required period determined pursuant to regulations of the Board. If the individual voluntarily fails to complete such period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the individual shall repay the bonus on a pro rata basis.
 
 #### (4) Bonus not considered part of basic pay
 
@@ -66,7 +66,7 @@ Upon the approval of the Chief—
 
 #### (1) In general
 
-&emsp;The payment of bonuses, allowances, step increases, compensation, and other payments pursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
+&emsp;The payment of bonuses, allowances, step increases, compensation, and other paymentspursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
 
 #### (2) Repealed. Pub. L. 108–7, div. H, title I, §1004(2), Feb. 20, 2003, 117 Stat. 358
 

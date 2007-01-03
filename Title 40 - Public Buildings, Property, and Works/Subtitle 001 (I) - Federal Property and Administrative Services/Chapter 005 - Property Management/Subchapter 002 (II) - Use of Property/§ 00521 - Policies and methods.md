@@ -38,7 +38,7 @@ Pub. L. 106–504, §1, Nov. 13, 2000, 114 Stat. 2309, as amended by Pub. L. 109
 
 Transfer of Excess Real Property.—(1) Except as provided in subsection (d), before screening excess real property located on Guam for further Federal utilization under section 202 \[now 40 U.S.C. 521 et seq.\] of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) \[now 40 U.S.C. 101 et seq.\] (hereinafter the ‘Property Act’), the Administrator shall notify the Government of Guam that the property is available for transfer pursuant to this section.
 
-“(2) If the Government of Guam, within 180 days after receiving notification under paragraph (1), notifies the Administrator that the Government of Guam intends to acquire the property under this section, the Administrator shall transfer such property in accordance with subsection (b). Otherwise, the property shall be screened for further Federal use and then, if there is no other Federal use, shall be disposed of in accordance with the Property Act.
+“(2) If the Government of Guam, within 180 days after receiving notification under paragraph (1), notifies the Administrator that the Government of Guam intends to acquire the property under this section, the Administrator shall transfer such property in accordance with subsection (b). Otherwise, the property shall bescreened for further Federal use and then, if there is no other Federal use, shall be disposed of in accordance with the Property Act.
 
 “(b)
 

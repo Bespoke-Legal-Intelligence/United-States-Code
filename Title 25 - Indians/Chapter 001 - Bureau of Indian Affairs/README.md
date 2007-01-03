@@ -24,9 +24,6 @@
 | [13d.](%C2%A7%2000013d%20-%20Limits%20on%20use%20of%20appropriated%20funds%20by%20Bureau%20for%20general%20or%20other%20welfare%20assistance.md) | Limits on use of appropriated funds by Bureau for general or other welfare assistance. |
 | 13d–1. | Standards of need as basis for general assistance payments by Bureau of Indian Affairs; ratable reductions. |
 | 13d–2. | Enrollment and general assistance payments. |
-| (a) | In general. |
-| (b) | Factors not to be considered. |
-| (c) | No effect on other eligibility requirements. |
 | 13d–3. | Tribal authority to change eligibility for, or amount of, general assistance payments. |
 | [13e.](%C2%A7%2000013e%20-%20Expenses%20of%20exhibits%3B%20advance%20payments%20for%20services%3B%20termination%20of%20Federal%20supervision%3B%20treaty%20expenses.md) | Expenses of exhibits; advance payments for services; termination of Federal supervision; treaty expenses. |
 | [13f.](%C2%A7%2000013f%20-%20Tribal%20priority%20allocations%20in%20Alaska.md) | Tribal priority allocations in Alaska. |
@@ -36,9 +33,6 @@
 | [15\.](%C2%A7%2000015%20-%20Utility%20facilities%20used%20in%20administration%20of%20Bureau%3B%20contracts%20for%20sale%2C%20operation%2C%20maintenance%2C%20repair%20or%20relocation%20of%20facilities%3B%20terms%E2%80%A6.md) | Utility facilities used in administration of Bureau; contracts for sale, operation, maintenance, repair or relocation of facilities; terms and conditions; exception; Congressional approval. |
 | [16\.](%C2%A7%2000016%20-%20Transportation%20of%20Indians%20in%20Bureau%20vehicles.md) | Transportation of Indians in Bureau vehicles. |
 | [17\.](%C2%A7%2000017%20-%20Use%20of%20Bureau%20facilities.md) | Use of Bureau facilities. |
-| (a) | In general. |
-| (b) | Scope of authority. |
-| (c) | Limitation of liability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Adulteration or misbranding prohibition; compliance with inspection, building construction standards, and other provisions; humane methods of slaughter; treatment as domestic articles subject to this chapter and food, drug, and cosmetic provisions; marking and labeling; personal consumption exemption
 
-No carcasses, parts of carcasses, meat or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines which are capable of use as human food, shall be imported into the United States if such articles are adulterated or misbranded and unless they comply with all the inspection, building, construction standards, and all other provisions of this chapter and regulations issued thereunder applicable to such articles in commerce within the United States.No such carcasses, parts of carcasses, meat or meat food products shall be imported into the United States unless the livestock from which they were produced was slaughtered and handled in connection with slaughter in accordance with the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1901–1906). All such imported articles shall, upon entry into the United States, be deemed and treated as domestic articles subject to the other provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]: <i>Provided</i>, That they shall be marked and labeled as required by such regulations for imported articles: <i>Provided further</i>, That nothing in this section shall apply to any individual who purchases meat or meat products outside the United States for his own consumption except that the total amount of such meat or meat products shall not exceed fifty pounds.
+No carcasses, parts of carcasses, meat or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines which are capable of use as human food, shall be imported into the United States if such articles are adulterated or misbranded and unless they comply with all the inspection, building, construction standards, and all other provisions of this chapter and regulations issued thereunder applicable to such articles in commerce within the United States. No such carcasses, parts of carcasses, meat or meat food products shall be imported into the United States unless the livestock from which they were produced was slaughtered and handled in connection with slaughter in accordance with the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1901–1906). All such imported articles shall, upon entry into the United States, be deemed and treated as domestic articles subject to the other provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]: <i>Provided</i>, That they shall be marked and labeled as required by such regulations for imported articles: <i>Provided further</i>, That nothing in this section shall apply to any individual who purchases meat or meat products outside the United States for his own consumption except that the total amount of such meat or meat products shall not exceed fifty pounds.
 
 #### (b) Terms and conditions for destruction
 
@@ -52,7 +52,7 @@ The Secretary may prescribe terms and conditions under which amenable species th
 
 Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, §5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat.1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
 
 #### Codification
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force ofthe World Trade Organization Agreement with respect to the United States \[Jan. 1, 1995\], see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force of the World Trade Organization Agreement with respect to the United States \[Jan. 1, 1995\], see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Effective Date of 1981 Amendment
 

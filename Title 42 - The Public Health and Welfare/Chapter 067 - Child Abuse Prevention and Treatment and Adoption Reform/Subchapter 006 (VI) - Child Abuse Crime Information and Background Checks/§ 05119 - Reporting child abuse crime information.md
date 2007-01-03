@@ -62,6 +62,10 @@ Subsec. (b)(2)(A). Pub. L. 103–322, §320928(i), substituted “5 years after�
 
 Subsec. (f)(2). Pub. L. 103–322, §320928(h), substituted “2 years” for “1 year”.
 
+#### Short Title
+
+For short title of this subchapter as the “National Child Protection Act of 1993”, see section 1 of Pub. L. 103–209, set out as a note under section 5101 of this title.
+
 #### Guidelines for Adoption of Safeguards by Care Providers and States for Protecting Children, the Elderly, or Individuals With Disabilities From Abuse
 
 Section 320928(g) of Pub. L. 103–322 provided that:

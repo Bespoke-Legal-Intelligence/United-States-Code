@@ -8,7 +8,7 @@ Establishment.—There is established in the Treasury an account to be known as 
 
 Funds Available for Account.—The Defense Modernization Account shall consist of the following:
 
-&emsp;(1) Amounts appropriated to the Defense Modernization Account for the costs of commencing projects described in subsection (d)(1), and amounts reimbursed to the Defense Modernization Account under subsections <sup>1</sup> (c)(1)(B)(iii) out of savings derived from such projects.
+&emsp;(1) Amounts appropriated to the Defense Modernization Account for the costs of commencing projects described in subsection (d)(1), and amounts reimbursed to the Defense Modernization Account under subsection (c)(1)(B)(iii) out of savings derived from such projects.
 
 &emsp;(2) Amounts transferred to the Defense Modernization Account under subsection (c).
 
@@ -120,7 +120,7 @@ Expiration of Authority and Account.—(1) The authority under subsection (c) to
 
 (2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
-(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611.)
+(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X,§§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### Codification
 
@@ -131,6 +131,8 @@ Another section 2216 was renumbered section 2216a of this title and subsequently
 A prior section 2216, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to annual reports on budgeting for inflation, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(8), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–364 substituted “subsection (c)(1)(B)(iii)” for “subsections (c)(1)(B)(iii)”.
 
 2003—Subsec. (b). Pub. L. 108–136, §1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -176,5 +178,5 @@ Pub. L. 104–106, div. A, title IX, §912(c), Feb. 10, 1996, 110 Stat. 410, as 
 
 Pub. L. 104–106, div. A, title IX, §912(d), Feb. 10, 1996, 110 Stat. 410, required Comptroller General of the United States to conduct two reviews of the administration of the Defense Modernization Account, prior to repeal by Pub. L. 107–314, div. A, title VIII, §825(a)(2), Dec. 2, 2002, 116 Stat. 2615.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+§2216a
 

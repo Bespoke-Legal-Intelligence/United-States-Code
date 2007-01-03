@@ -10,7 +10,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(3) Reimburse other Government agencies for services of personnel assigned to the Agency, and such other Government agencies are authorized, without regard to provisions of law to the contrary, so to assign or detail any officer or employee for duty with the Agency;
 
-&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices;
+&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within theUnited States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices;
 
 &emsp;(5) Make alterations, improvements, and repairs on premises rented by the Agency, and pay rent therefor;
 
@@ -30,7 +30,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(A) such lease shall include a clause that provides that the contract shall be terminated if budget authority (as defined by section 622(2) of title 2) is not provided specifically for that project in an appropriations Act in advance of an obligation of funds in respect thereto;
 
-&emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying terminationcosts with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
+&emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying termination costs with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
 
 &emsp;(C) funds available for termination liability shall remain available to satisfy rental obligations with respect to such lease in subsequent fiscal years in the event such lease is not terminated early, but only to the extent those funds are in excess of the amount of termination liability at the time of their use to satisfy such rental obligations; and
 
@@ -96,9 +96,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 109–148, div. A, title VIII, §8052(b), Dec. 30, 2005, 119 Stat. 2710, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 109–289, div. A, title VIII, §8045(b), Sept. 29, 2006, 120 Stat. 1283, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–148, div. A, title VIII, §8052(b), Dec. 30, 2005, 119 Stat. 2710.
 
 Pub. L. 108–287, title VIII, §8057(b), Aug. 5, 2004, 118 Stat. 983.
 

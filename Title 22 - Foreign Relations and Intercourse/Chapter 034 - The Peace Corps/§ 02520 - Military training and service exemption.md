@@ -1,6 +1,6 @@
 ### §2520. Military training and service exemption
 
-Notwithstanding the provisions of any other law or regulation, service in the Peace Corps as a volunteer shall not in any way exempt such volunteer from the performance of any obligations or duties under the provisions of the Universal Military Training and Service Act \[50 App. U.S.C. 451 et seq.\].
+Notwithstanding the provisions of any other law or regulation, service in the Peace Corps as a volunteer shall not in any way exempt such volunteer from the performance of any obligations or duties under the provisions of the Universal Military Training and Service Act \[50 U.S.C. App. 451 et seq.\].
 
 (Pub. L. 87–293, title I, §23, Sept. 22, 1961, 75 Stat. 624.)
 

@@ -85,22 +85,6 @@
 | :--- | ---: |
 | 291 to 298. Repealed. |  |
 | [299\.](Subchapter%20010%20%28X%29%20-%20Stock-Raising%20Homestead/%C2%A7%2000299%20-%20Reservation%20of%20coal%20and%20mineral%20rights.md) | Reservation of coal and mineral rights. |
-| (a) | General provisions. |
-| (b) | Exploration; location of mining claims; notices. |
-| (c) | Consent. |
-| (d) | Authorized mineral activities. |
-| (e) | Bond. |
-| (f) | Plan of operations. |
-| (g) | Fee. |
-| (h) | Reclamation. |
-| (i) | State law. |
-| (j) | Inspections. |
-| (k) | Damages for failure to comply. |
-| (<i>l</i>) | Payment of financial guarantee. |
-| (m) | Bond release. |
-| (n) | Conveyance to surface owner. |
-| (<i>o</i>) | Definitions. |
-| (p) | Minerals covered. |
 | [300\.](Subchapter%20010%20%28X%29%20-%20Stock-Raising%20Homestead/%C2%A7%2000300%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93579%2C%20title%20VII%2C%20%C2%A7704%28a%29%2C%20Oct.%2021%2C%201976%2C%2090%20Stat.%202792.md) | Repealed. |
 | [301\.](Subchapter%20010%20%28X%29%20-%20Stock-Raising%20Homestead/%C2%A7%2000301%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [302\.](Subchapter%20010%20%28X%29%20-%20Stock-Raising%20Homestead/%C2%A7%2000302%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93579%2C%20title%20VII%2C%20%C2%A7702%2C%20Oct.%2021%2C%201976%2C%2090%20Stat.%202787.md) | Repealed. |

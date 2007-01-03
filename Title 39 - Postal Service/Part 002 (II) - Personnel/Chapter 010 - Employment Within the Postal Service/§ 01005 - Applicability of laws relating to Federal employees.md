@@ -28,9 +28,9 @@
 
 (c) Officers and employees of the Postal Service shall be covered by subchapter I of chapter 81 of title 5, relating to compensation for work injuries.
 
-(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
+(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The PostalService shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
 
-(2) The provisions of subsection (g) of section 5532,<sup>1</sup> subsections (i) and (<i>l</i>)(2) of section 8344, and subsections (f) and (i)(2) of section 8468 of title 5 shall apply with respect to the Postal Service. For purposes of so applying such provisions—
+(2) The provisions of subsections (i) and (<i>l</i>)(2) of section 8344 and subsections (f) and (i)(2) of section 8468 of title 5 shall apply with respect to the Postal Service. For purposes of so applying such provisions—
 
 &emsp;(A) any reference in such provisions to the head of an Executive agency shall be considered a reference to the Postmaster General; and
 
@@ -40,15 +40,15 @@
 
 (f) Compensation, benefits, and other terms and conditions of employment in effect immediately prior to the effective date of this section, whether provided by statute or by rules and regulations of the former Post Office Department or the executive branch of the Government of the United States, shall continue to apply to officers and employees of the Postal Service, until changed by the Postal Service in accordance with this chapter and chapter 12 of this title. Subject to the provisions of this chapter and chapter 12 of this title, the provisions of subchapter I of chapter 85 and chapters 87, 89, 89A, and 89B of title 5 shall apply to officers and employees of the Postal Service, unless varied, added to, or substituted for, under this subsection. No variation, addition, or substitution with respect to fringe benefits shall result in a program of fringe benefits which on the whole is less favorable to the officers and employees than fringe benefits in effect on the effective date of this section, and as to officers and employees for whom there is a collective-bargaining representative, no such variation, addition, or substitution shall be made except by agreement between the collective-bargaining representative and the Postal Service.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 93–349, §2, July 12, 1974, 88 Stat. 354; Pub. L. 99–335, title III, §306, June 6, 1986, 100 Stat. 607; Pub. L. 100–90, §1(a), Aug. 18, 1987, 101 Stat. 673; Pub. L. 103–336, §3, Oct. 3, 1994, 108 Stat. 2661; Pub. L. 108–496, §5, Dec. 23, 2004, 118 Stat. 4011.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 93–349, §2, July 12, 1974, 88 Stat. 354; Pub. L. 99–335, title III, §306, June 6, 1986, 100 Stat. 607; Pub. L. 100–90, §1(a), Aug. 18, 1987, 101 Stat. 673; Pub. L. 103–336, §3, Oct. 3, 1994, 108 Stat. 2661; Pub. L. 108–496, §5, Dec. 23, 2004, 118 Stat. 4011; Pub. L. 109–435, title X, §1010(g)(1), Dec. 20, 2006, 120 Stat. 3262.)
 
 #### References in Text
-
-Section 5532 of title 5, referred to in subsec. (d)(2), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 The effective date of this section, referred to in subsec. (f), is July 1, 1971. See Effective Date note below.
 
 #### Amendments
+
+2006—Subsec. (d)(2). Pub. L. 109–435 struck out “subsection (g) of section 5532,” after “The provisions of” and substituted “8344” for “8344,”.
 
 2004—Subsec. (f). Pub. L. 108–496 substituted “chapters 87, 89, 89A, and 89B” for “chapters 87 and 89” in second sentence.
 
@@ -82,7 +82,5 @@ Functions vested by statute in United States Civil Service Commission or Chairma
 
 #### Abatement of Actions
 
-Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenced under section 1005(a)(1)(B)of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
 

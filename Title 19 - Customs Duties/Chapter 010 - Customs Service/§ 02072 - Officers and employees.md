@@ -12,11 +12,101 @@ The Secretary of the Treasury is authorized to designate an officer of the Unite
 
 The personnel of the United States Customs Service shall perform such duties as the Secretary of the Treasury may prescribe.
 
-(Mar. 3, 1927, ch. 348, §2, 44 Stat. 1381; May 27, 1930, ch. 342, §8, 46 Stat. 430; June 17, 1930, ch. 497, title IV, §650, 46 Stat. 762; Ex. Ord. No. 6639, §1a, Mar. 10, 1934; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Sept. 3, 1954, ch. 1263, §9, 68 Stat. 1228.)
+#### (d) Office of International Trade
+
+#### (1) Establishment
+
+&emsp;There is established within the United States Customs and Border Protection an Office of International Trade that shall be headed by an Assistant Commissioner.
+
+#### (2) Transfer of assets, functions, and personnel; elimination of offices
+
+#### (A) Office of Strategic Trade
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 90 days after October 13, 2006, the Commissioner shall transfer the assets, functions, and personnel of the Office of Strategic Trade to the Office of International Trade established pursuant to paragraph (1) and the Office of Strategic Trade shall be abolished.
+
+#### (ii) Limitation on funds
+
+&emsp;&emsp;&emsp;No funds appropriated to the United States Customs and Border Protection may be used to transfer the assets, functions, or personnel of the Office of Strategic Trade, to an office other than the office established pursuant to paragraph (1) of this subsection.
+
+#### (B) Office of regulations and rulings
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 90 days after October 13, 2006, the Commissioner shall transfer the assets, functions, and personnel of the Office of Regulations and Rulings to the Office of International Trade establishedpursuant to paragraph (1) and the Office of Regulations and Rulings shall be abolished.
+
+#### (ii) Limitation on funds
+
+&emsp;&emsp;&emsp;No funds appropriated to the United States Customs and Border Protection may be used to transfer the assets, functions, or personnel of the Office of Regulations and Rulings, to an office other than the office established pursuant to paragraph (1) of this subsection.
+
+#### (C) Other transfers
+
+&emsp;&emsp;The Commissioner is authorized to transfer any other assets, functions, or personnel within the United States Customs and Border Protection to the Office of International Trade established pursuant to paragraph (1). Not less than 45 days prior to each such transfer, the Commissioner shall notify the Committee on Appropriations, the Committee on Finance, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Appropriations, the Committee on Homeland Security, and the Committee on Ways and Means of the House of Representatives of the specific assets, functions, or personnel to be transferred, and the reason for such transfer. Such notification shall also include—
+
+&emsp;&emsp;&emsp;(i) an explanation of how trade enforcement functions will be impacted by the reorganization;
+
+&emsp;&emsp;&emsp;(ii) an explanation of how the reorganization meets the requirements of section 212(b) of title 6 that the Department of Homeland Security not diminish the customs revenue and trade facilitation functions formerly performed by the United States Customs Service; and
+
+&emsp;&emsp;&emsp;(iii) any comments or recommendations provided by the Commercial Operations Advisory Committee regarding such reorganization.
+
+#### (D) Report
+
+&emsp;&emsp;Not later than 1 year after any reorganization pursuant to subparagraph (C) takes place, the Commissioner, in consultation with the Commercial Operations Advisory Committee, shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Such report shall include an assessment of the impact of, and any suggested modifications to, such reorganization.
+
+#### (E) Limitation on authority
+
+&emsp;&emsp;Notwithstanding any other provision of law, the Commissioner shall not transfer any assets, functions, or personnel from United States ports of entry, associated with the enforcement of laws relating to trade in textiles and apparel, to the Office of International Trade established pursuant to paragraph (1), until the following conditions are met:
+
+&emsp;&emsp;&emsp;(i) The Commissioner submits the initial Resource Allocation Model required by section 2075(h) of this title and includes in such Resource Allocation Model a section addressing the allocation of assets, functions, and personnel associated with the enforcement of laws relating to trade in textiles and apparel.
+
+&emsp;&emsp;&emsp;(ii) The Commissioner consults with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives regarding any subsequent transfer of assets, functions, or personnel associated with the enforcement of laws relating to trade in textiles and apparel, not less than 45 days prior to such transfer.
+
+#### (F) Limitation on appropriations
+
+&emsp;&emsp;No funds appropriated to the United States Customs and Border Protection may be used to transfer the assets, functions, or personnel associated with the enforcement of laws relating to trade in textiles and apparel, before the Commissioner consults with the congressional committees pursuant to subparagraph (E)(ii).
+
+#### (e) International Trade Committee
+
+#### (1) Establishment
+
+&emsp;The Commissioner shall establish an International Trade Committee, to be chaired by the Commissioner, and to include the Deputy Commissioner, the Assistant Commissioner in the Office of Field Operations, the Assistant Commissioner in the Office of Finance, the Assistant Commissioner in the Office of International Affairs, the Assistant Commissioner in the Office of International Trade, the Director of the Office of Trade Relations, and any other official determined by the Commissioner to be important to the work of the Committee.
+
+#### (2) Responsibilities
+
+&emsp;The International Trade Committee shall—
+
+&emsp;&emsp;(A) be responsible for advising the Commissioner with respect to the commercial customs and trade facilitation functions of the United States Customs and Border Protection;
+
+&emsp;&emsp;(B) assist the Commissioner in coordinating with the Secretary regarding commercial customs and trade facilitation functions; and
+
+&emsp;&emsp;(C) oversee the operation of all programs and systems that are involved in the assessment and collection of duties, bonds, and other charges or penalties associated with the entry of cargo into the United States, or the export of cargo from the United States, including the administration of duty drawback and the collection of antidumping and countervailing duties.
+
+#### (3) Annual report
+
+&emsp;Not later than 30 days after the end of each fiscal year, the International Trade Committee shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. The report shall—
+
+&emsp;&emsp;(A) detail the activities of the International Trade Committee during the preceding fiscal year; and
+
+&emsp;&emsp;(B) identify the priorities of the International Trade Committee for the fiscal year in which the report is filed.
+
+#### (f) Definition
+
+In this section:
+
+#### (1) Commissioner
+
+&emsp;The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
+
+#### (2) Commercial Operations Advisory Committee
+
+&emsp;The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) or any successor committee.
+
+(Mar. 3, 1927, ch. 348, §2, 44 Stat. 1381; May 27, 1930, ch. 342, §8, 46 Stat. 430; June 17, 1930, ch. 497, title IV, §650, 46 Stat. 762; Ex. Ord. No. 6639, §1a, Mar. 10, 1934; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Sept. 3, 1954, ch. 1263, §9, 68 Stat. 1228; Pub. L. 109–347, title IV, §402, Oct. 13, 2006, 120 Stat. 1924.)
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (f)(2), is section 9503(c) of Pub. L. 100–203, which is set out as a note under section 2071 of this title.
 
 #### Codification
 
@@ -26,6 +116,8 @@ Section was formerly classified to section 281a of Title 5 prior to the general 
 
 #### Amendments
 
+2006—Subsecs. (d) to (f). Pub. L. 109–347 added subsecs. (d) to (f).
+
 1954—Subsec. (c). Act Sept. 3, 1954, struck out references to the National Prohibition Act.
 
 1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
@@ -34,7 +126,7 @@ Section was formerly classified to section 281a of Title 5 prior to the general 
 
 Bureau of Prohibition and Commissioner of Prohibition redesignated Bureau of Industrial Alcohol and Commissioner of Industrial Alcohol, respectively, by act May 27, 1930.
 
-“United States Customs Service” substituted for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+“United States Customs Service” substituted for “Bureau of Customs” in subsecs. (a) to (c) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 
 #### Repeals
 

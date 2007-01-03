@@ -10,7 +10,7 @@ Section 5652b, added Pub. L. 85–861, §1(123)(A), Sept. 2, 1958, 72 Stat. 1495
 
 Section 5652c, added Pub. L. 85–861, §1(123)(A), Sept. 2, 1958, 72 Stat. 1496, related to assignment of running mates to officers appointed to active list of Navy in a staff corps under section 5573a of this title.
 
-Section 5653, acts Aug. 10, 1056, ch. 1041, 70A Stat. 333; Sept. 2, 1958, Pub. L. 85–861, §1(124), 72 Stat. 1496, related to assignment of running mates to officers originally appointed to active list of Navy in a staff corps in a grade of lieutenant or above.
+Section 5653, acts Aug. 10, 1056, ch. 1041, 70A Stat. 333; Sept. 2, 1958, Pub. L. 85–861, §1(124), 72 Stat. 1496, relatedto assignment of running mates to officers originally appointed to active list of Navy in a staff corps in a grade of lieutenant or above.
 
 Section 5654, act Aug. 10, 1956, ch. 1041, 70A Stat. 333, related to assignment of running mates to officers on active list in line of Navy transferred to a staff corps in grade of lieutenant (junior grade) or above.
 

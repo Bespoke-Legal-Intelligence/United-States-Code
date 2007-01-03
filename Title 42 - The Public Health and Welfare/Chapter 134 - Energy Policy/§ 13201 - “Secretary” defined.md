@@ -30,7 +30,7 @@ Sec. 2. <i>Preparation of a Statement of Energy Effects</i>. (a) To the extent p
 
 (c) The Administrator of the Office of Information and Regulatory Affairs shall provide guidance to the agencies on the implementation of this order and shall consult with other agencies as appropriate in the implementation of this order.
 
-Sec. 3. <i>Submission and Publication of Statements</i>. (a) Agencies shall submit their Statements of Energy Effects to the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, whenever they present the related submission under Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], or any successor order.
+Sec. 3. <i>Submission and Publication of Statements</i>. (a) Agencies shall submit their Statements of Energy Effects to the Administrator of the Office of Informationand Regulatory Affairs, Office of Management and Budget, whenever they present the related submission under Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], or any successor order.
 
 (b) Agencies shall publish their Statements of Energy Effects, or a summary thereof, in each related Notice of Proposed Rulemaking and in any resulting Final Rule.
 
@@ -66,7 +66,7 @@ Sec. 3. <i>Interagency Task Force</i>. (a) There is established, within the Depa
 
 (i) monitor and assist the agencies in their efforts to expedite their reviews of permits or similar actions, as necessary, to accelerate the completion of energy-related projects (including pipeline safety projects), increase energy production and conservation, and improve the transmission of energy;
 
-(ii) monitor and assist agencies in setting up appropriate mechanisms to coordinate Federal, State, tribal,and local permitting in geographic areas where increased permitting activity is expected; and
+(ii) monitor and assist agencies in setting up appropriate mechanisms to coordinate Federal, State, tribal, and local permitting in geographic areas where increased permitting activity is expected; and
 
 (iii) perform the functions of the interagency committee for which section 60133 of title 49, United States Code, provides.
 

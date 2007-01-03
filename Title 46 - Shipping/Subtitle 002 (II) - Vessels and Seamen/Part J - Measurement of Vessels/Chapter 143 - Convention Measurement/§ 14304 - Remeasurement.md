@@ -8,7 +8,7 @@
 
 (b) Except as provided in this chapter or section 14504 of this title, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921.)
 
 #### Historical and Revision Notes
 

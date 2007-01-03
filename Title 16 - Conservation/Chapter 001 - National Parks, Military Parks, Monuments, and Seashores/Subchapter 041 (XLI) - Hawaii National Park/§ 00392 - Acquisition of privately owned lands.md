@@ -6,7 +6,7 @@ The governor of the Territory of Hawaii is authorized to acquire, at the expense
 
 #### References in Text
 
-Section 73 of an Act approved April 30, 1900, as amended, referred to in text, was classified to sections 663, 664, 665 to 677b, 1509 to 1512 of Title 48, Territories and Insular Possessions. Sections 663, 664, and 665 to 677b of Title 48 were omitted from the Code as obsolete.
+Section 73 of an Act approved April 30, 1900, as amended, referred to in text, was classified to sections 663, 664, 665 to 677b, 1509 to 1512 of Title 48, Territories and Insular Possessions. Those sections were omitted from the Code as obsolete.
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section 1 of act Feb. 27, 1920, is the source of that portion of this section pr
 
 #### Admission of Hawaii as State
 
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug.21, 1959, 24 FR 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 FR 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 
 #### Hawai‘i Volcanoes National Park
 

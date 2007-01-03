@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Comptroller of the Currency may, by regulation or order, impose restrictions or requirements on relationships or transactions between a national bank and a subsidiary of the national bank that the Comptroller finds are—
+&emsp;The Comptroller of the Currency may, by regulation or order, impose restrictions or requirements on relationships or transactions between a national bank and a subsidiary ofthe national bank that the Comptroller finds are—
 
 &emsp;&emsp;(A) consistent with the purposes of this Act, title LXII of the Revised Statutes of the United States, and other Federal law applicable to national banks; and
 
-&emsp;&emsp;(B) appropriate to avoid any significant risk to the safety and soundness of insured depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+&emsp;&emsp;(B) appropriate to avoid any significant risk to the safety and soundness of insured depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 
 #### (2) Review
 
@@ -34,9 +34,9 @@
 
 &emsp;The Board of Governors of the Federal Reserve System may exercise authority under paragraph (1) if the Board finds that the exercise of such authority is—
 
-&emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956\[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
+&emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
 
-&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 
 #### (3) Review
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956, the Federal Reserve Act, and other Federal law applicable to foreign banks and their affiliates in the United States; and
 
-&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 
 #### (c) Federal Deposit Insurance Corporation
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) consistent with the purposes of this Act, the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or other Federal law applicable to State nonmember banks; and
 
-&emsp;&emsp;(B) appropriate to avoid any significant risk to the safety and soundness of depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+&emsp;&emsp;(B) appropriate to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 
 #### (2) Review
 
@@ -74,13 +74,9 @@
 
 (Pub. L. 106–102, title I, §114, Nov. 12, 1999, 113 Stat. 1369; Pub. L. 109–173, §9(i), Feb. 15, 2006, 119 Stat. 3618.)
 
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §9(i), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, this section is amended by striking “any Federal deposit insurance fund” in subsections (a)(1)(B), (b)(2)(B), (4)(B), and (c)(1)(B), each place that term appears, and inserting “the Deposit Insurance Fund”.</i>
-
 #### References in Text
 
-This Act and the Act, referred to in text, probably are references to Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+This Act and the Act, referred to in text, probably are references to Pub. L. 106–102, Nov. 12, 1999, 113 Stat.1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
 Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), consists of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
@@ -93,6 +89,10 @@ The Federal Deposit Insurance Act, referred to in subsec. (c)(1)(A), is act Sept
 #### Codification
 
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+#### Amendments
+
+2006—Subsecs. (a)(1)(B), (b)(2)(B), (4)(B), (c)(1)(B). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “any Federal deposit insurance fund”.
 
 #### Effective Date of 2006 Amendment
 

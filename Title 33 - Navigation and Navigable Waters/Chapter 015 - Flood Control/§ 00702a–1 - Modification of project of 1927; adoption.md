@@ -4,6 +4,12 @@ The project for the control of floods of the Mississippi River and its tributari
 
 (June 15, 1936, ch. 548, §1, 49 Stat. 1508; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### Prior Provisions
+
+A prior section 702a–11/2, act June 28, 1938, ch. 795, §4, 52 Stat. 1220, which related to further modification of 1927 project, was transferred to section 702a–1a of this title.
+
+A prior section 702a–13/4, act Aug. 18, 1941, ch. 377, §3, 55 Stat. 642, which related to further modificiation and adoption of Lower Mississippi River flood control project, was transferred to section 702a–1b of this title.
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.

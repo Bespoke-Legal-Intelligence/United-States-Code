@@ -4,7 +4,7 @@
 
 #### (1) Information
 
-&emsp;The Secretary, in cooperation and after consultation with the Secretary of Commerce, shall assist workers, worker organizations, and employers in successfully adopting advanced workplace technologies, and advanced workplace practices by identifying, collecting, and disseminating information on best workplace practices and workplace assessment tools, including—
+&emsp;The Secretary, in cooperation and after consultation with the Secretary of Commerce,shall assist workers, worker organizations, and employers in successfully adopting advanced workplace technologies, and advanced workplace practices by identifying, collecting, and disseminating information on best workplace practices and workplace assessment tools, including—
 
 &emsp;&emsp;(A) methods, techniques, and successful models of labor-management cooperation and of worker and worker organization participation in the development, evaluation, selection, and implementation of new and advanced workplace technologies, and advanced workplace practices;
 

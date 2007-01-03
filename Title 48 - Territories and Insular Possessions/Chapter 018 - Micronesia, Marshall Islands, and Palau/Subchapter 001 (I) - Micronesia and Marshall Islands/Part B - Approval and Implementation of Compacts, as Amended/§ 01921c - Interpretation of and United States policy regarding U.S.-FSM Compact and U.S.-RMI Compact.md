@@ -16,7 +16,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the c
 
 #### (3) Information-sharing
 
-&emsp;It is the sense of Congress that the governments of the Federated States of Micronesia and the Republic of the Marshall Islands develop, prior to October 1, 2004, the capabilityto provide reliable and timely information as may reasonably be required by the Government of the United States in enforcing criminal and security-related grounds of inadmissibility and deportability under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\], and shall provide such information to the Government of the United States.
+&emsp;It is the sense of Congress that the governments of the Federated States of Micronesia and the Republic of the Marshall Islands develop, prior to October 1, 2004, the capability to provide reliable and timely information as may reasonably be required by the Government of the United States in enforcing criminal and security-related grounds of inadmissibility and deportability under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\], and shall provide such information to the Government of the United States.
 
 #### (4) Transition; construction of sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and U.S.-RMI Compact
 
@@ -68,7 +68,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (6) Authorization for health care reimbursement
 
-&emsp;There are hereby authorized to be appropriated to the Secretary of the Interior suchsums as may be necessary to reimburse health care institutions in the affected jurisdictions for costs resulting from the migration of citizens of the Republic of the Marshall Islands, the Federated States of Micronesia and the Republic of Palau to the affected jurisdictions as a result of the implementation of the Compact of Free Association, approved by Public Law 99–239, or the approval of the U.S.-FSM Compact and the U.S.-RMI Compact by this resolution.
+&emsp;There are hereby authorized to be appropriated to the Secretary of the Interior such sums as may be necessary to reimburse health care institutions in the affected jurisdictions for costs resulting from the migration of citizens of the Republic of the Marshall Islands, the Federated States of Micronesia and the Republic of Palau to the affected jurisdictions as a result of the implementation of the Compact of Free Association, approved by Public Law 99–239, or the approval of the U.S.-FSM Compact and the U.S.-RMI Compact by this resolution.
 
 #### (7) Use of DOD medical facilities and National Health Service Corps
 
@@ -78,7 +78,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (B) National Health Service Corps
 
-&emsp;&emsp;The Secretary of Health and Human Services shall continue to make the services of the National Health Service Corps available to the residents of the Federated States of Micronesia and the Republic of the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
+&emsp;&emsp;The Secretary of Health and Human Services shall continue to make the services ofthe National Health Service Corps available to the residents of the Federated States of Micronesia and the Republic of the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
 
 #### (C) Authorization of appropriations
 
@@ -122,7 +122,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (10) Authorization of appropriations for grants
 
-&emsp;There are hereby authorized to the Secretary of the Interior for each of fiscal years 2004 through 2023 such sums as may be necessary for grants to the governments of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and AmericanSamoa, as a result of increased demands placed on educational, social, or public safety services or infrastructure related to service due to the presence in Guam, Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa of qualified nonimmigrants from the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+&emsp;There are hereby authorized to the Secretary of the Interior for each of fiscal years 2004 through 2023 such sums as may be necessary for grants to the governments of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa, as a result of increased demands placed on educational, social, or public safety services or infrastructure related to service due to the presence in Guam, Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa of qualified nonimmigrants from the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
 #### (f) Foreign loans
 
@@ -166,7 +166,7 @@ As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Pri
 
 #### (k) Participation by secondary schools in the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program
 
-In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs are available to Department of Defense Dependent Schools located in foreign jurisdictions.
+In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs areavailable to Department of Defense Dependent Schools located in foreign jurisdictions.
 
 (Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737.)
 

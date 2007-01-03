@@ -32,7 +32,7 @@ There is hereby established within the Environmental Protection Agency an Asbest
 
 &emsp;(iv) the extent to which the corrective action proposed by the applicant uses the least burdensome methods which protect human health and the environment.
 
-(3) In determining whether an applicant is eligible for assistance, and the nature and amount of financial assistance, the Administrator shall consider the financial resources available to the applicant as certified by the Governor pursuant to section 4013(b)(4) of this title.
+(3) In determining whether an applicant is eligible for assistance, and the nature and amountof financial assistance, the Administrator shall consider the financial resources available to the applicant as certified by the Governor pursuant to section 4013(b)(4) of this title.
 
 #### (d) Limitation
 

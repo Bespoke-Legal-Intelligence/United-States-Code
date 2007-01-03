@@ -6,7 +6,7 @@
 
 (c) A regular warrant officer who is promoted is appointed in the regular grade to which promoted, and a reserve warrant officer who is promoted is appointed in the reserve grade to which promoted. The date of appointment in that grade and date of rank shall be prescribed by the Secretary concerned. A warrant officer is entitled to the pay and allowances for the grade to which appointed from the date specified in the appointment order.
 
-(d) Promotions shall be made in the order in which the names of warrant officers appear on the promotion list and after warrant officers previously selected for promotion in the applicable grade (or grade and competitive category) have been promoted.
+(d) Promotions shall be made in the order in which the names of warrant officers appear onthe promotion list and after warrant officers previously selected for promotion in the applicable grade (or grade and competitive category) have been promoted.
 
 (e) A warrant officer who is appointed to a higher grade under this section is considered to have accepted such appointment on the date on which the appointment is made unless the officer expressly declines the appointment.
 

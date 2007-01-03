@@ -2,7 +2,7 @@
 
 #### (a) Conditions on location, entry, and settlement
 
-No individual, corporation, partnership, or association, which had any part, directly or indirectly, in the development of the atomic energy program, may benefit by any location, entry, orsettlement upon the public domain made after such individual, corporation, partnership, or association took part in such project, if such individual, corporation, partnership, or association, by reason of having had such part in the development of the atomic energy program, acquired confidential official information as to the existence of deposits of such uranium, thorium, or other materials in the specific lands upon which such location, entry, or settlement is made, and subsequent to August 30, 1954, made such location, entry, or settlement or caused the same to be made for his, or its, or their benefit.
+No individual, corporation, partnership, or association, which had any part, directly or indirectly, in the development of the atomic energy program, may benefit by any location, entry, or settlement upon the public domain made after such individual, corporation, partnership, or association took part in such project, if such individual, corporation, partnership, or association, by reason of having had such part in the development of the atomic energy program, acquired confidential official information as to the existence of deposits of such uranium, thorium, or other materials in the specific lands upon which such location, entry, or settlement is made, and subsequent to August 30, 1954, made such location, entry, or settlement or caused the same to be made for his, or its, or their benefit.
 
 #### (b) Reservation of mineral rights; release
 
@@ -32,9 +32,5 @@ Provisions similar to this section were contained in section 1805(b)(7) of this 
 
 #### Amendments
 
-1958—Subsec. (b). Pub. L. 85–681 provided a general release of reservations of fissionable materials or source materials under acquired lands of the United States as well as public lands.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+1958—Subsec. (b). Pub. L. 85–681 provided a general release of reservations of fissionable materials or sourcematerials under acquired lands of the United States as well as public lands.
 

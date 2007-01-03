@@ -44,7 +44,7 @@
 
 (d)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners convicted by general courts-martial and confined in any institution under the jurisdiction of any department or agency comprising the Department of Defense, to the extent and under terms and conditions agreed upon by the Secretary of Defense, the Attorney General and the Board of Directors of Federal Prison Industries.
 
-(2) Any department or agency of the Department of Defense may, without exchange of funds, transfer to Federal Prison Industries any property or equipment suitable for use in performing the functions and duties covered by agreement entered into under paragraph (1) of this subsection.
+(2) Any department or agency of the Department of Defense may, without exchange offunds, transfer to Federal Prison Industries any property or equipment suitable for use in performing the functions and duties covered by agreement entered into under paragraph (1) of this subsection.
 
 (e)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners confined in any penal or correctional institution under the direction of the Commissioner of the District of Columbia to the extent and under terms and conditions agreed upon by the Commissioner, the Attorney General, and the Board of Directors of Federal Prison Industries.
 
@@ -96,5 +96,5 @@ Office of Commissioner of District of Columbia, as established by Reorg. Plan No
 
 #### Utilization of Surplus Property
 
-Act June 29, 1948, ch. 719, §4, 62 Stat. 1100, provided that: “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 \[former sections 1611 to 1646 of Appendix to Title 50, War and National Defense, may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
+Act June 29, 1948, ch. 719, §4, 62 Stat. 1100, provided that: “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 \[former sections 1611 to 1646 of Appendix to Title 50, War and National Defense\], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
 

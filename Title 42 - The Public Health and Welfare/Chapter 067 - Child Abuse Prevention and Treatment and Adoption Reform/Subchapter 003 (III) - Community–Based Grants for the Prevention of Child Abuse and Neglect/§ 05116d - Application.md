@@ -18,7 +18,7 @@ A grant may not be made to a State under this subchapter unless an application t
 
 &emsp;(8) a description of outreach activities that the entity and the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect will undertake to maximize the participation of racial and ethnic minorities, children and adults with disabilities, homeless families and those at risk of homelessness, and members of other underserved or underrepresented groups;
 
-&emsp;(9) a plan for providing operational support, training and technical assistance to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect for development, operation, expansion and enhancement activities;
+&emsp;(9) a plan for providing operational support, training and technical assistance to community-based and prevention-focused programsand activities designed to strengthen and support families to prevent child abuse and neglect for development, operation, expansion and enhancement activities;
 
 &emsp;(10) a description of how the applicant entity's activities and those of the network and its members (where appropriate) will be evaluated;
 
@@ -30,7 +30,7 @@ A grant may not be made to a State under this subchapter unless an application t
 
 #### Prior Provisions
 
-A prior section 5116d, Pub. L. 93–247, title II, §205, formerly Pub. L. 98–473, title IV, §406, Oct. 12, 1984, 98 Stat.2198; renumbered §205 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), (2), 4(e), Oct. 25, 1989, 103 Stat. 764, 766, 767; Pub. L. 102–295, title I, §124, May 28, 1992, 106 Stat. 198, related to grant allotments, required use of grants, and grant application requirements, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
+A prior section 5116d, Pub. L. 93–247, title II, §205, formerly Pub. L. 98–473, title IV, §406, Oct. 12, 1984, 98 Stat. 2198; renumbered §205 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), (2), 4(e), Oct. 25, 1989, 103 Stat. 764, 766, 767; Pub. L. 102–295, title I, §124, May 28, 1992, 106 Stat. 198, related to grant allotments, required use of grants, and grant application requirements, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
 #### Amendments
 

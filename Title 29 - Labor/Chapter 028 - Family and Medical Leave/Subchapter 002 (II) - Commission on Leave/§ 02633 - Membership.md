@@ -46,7 +46,7 @@ The Commission shall elect a chairperson and a vice chairperson from among the m
 
 #### (d) Quorum
 
-Eight members of the Commission shall constitute a quorum for all purposes, except that alesser number may constitute a quorum for the purpose of holding hearings.
+Eight members of the Commission shall constitute a quorum for all purposes, except that a lesser number may constitute a quorum for the purpose of holding hearings.
 
 (Pub. L. 103–3, title III, §303, Feb. 5, 1993, 107 Stat. 24.)
 

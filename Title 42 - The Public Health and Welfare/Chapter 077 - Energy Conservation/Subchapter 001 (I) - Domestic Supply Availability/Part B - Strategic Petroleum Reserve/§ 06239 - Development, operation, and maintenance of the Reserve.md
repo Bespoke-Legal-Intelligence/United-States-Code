@@ -34,7 +34,7 @@ If the Secretary determines expansion beyond 700,000,000 barrels of petroleum pr
 
 #### (k) Exemption from subtitle IV of title 49
 
-A storage or related facility of the Strategic Petroleum Reserve owned by or leased to theUnited States is not subject to the Interstate Commerce Act.
+A storage or related facility of the Strategic Petroleum Reserve owned by or leased to the United States is not subject to the Interstate Commerce Act.
 
 #### (<i>l</i>) Rulemaking during drawdown and sale
 
@@ -68,7 +68,7 @@ Subsec. (k). Pub. L. 101–383, §9, added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l</i>).
 
-1985—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of this section not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
+1985—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of thissection not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
 
 1982—Subsec. (f)(5). Pub. L. 97–229, §4(b)(1), added par. (5).
 

@@ -2,7 +2,7 @@
 
 #### (a) Good Samaritan protections regarding AEDs
 
-Except as provided in subsection (b) of this section, any person who uses or attempts to use an automated external defibrillator device on a victim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
+Except as provided in subsection (b) of this section, any person who uses or attempts to usean automated external defibrillator device on a victim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
 
 &emsp;(1) to notify local emergency response personnel or other appropriate entities of the most recent placement of the device within a reasonable period of time after the device was placed;
 

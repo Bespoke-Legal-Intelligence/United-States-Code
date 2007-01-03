@@ -4,13 +4,15 @@
 
 (b) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount approved for that project, construction, improvement, or acquisition by Congress.
 
-(c) The limitation on cost variations in subsection (a) or the limitation on scope reduction in subsection (b) does not apply if—
+(c) The limitation on cost variations in subsection (a) or the limitation on scope reduction in subsection (b) does not apply if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—
 
-&emsp;(1) the variation in cost or reduction in scope is approved by the Secretary concerned;
+&emsp;(1) in the case of a cost increase or a reduction in the scope of work—
 
-&emsp;(2) the Secretary concerned notifies the appropriate committees of Congress in writing of the variation or reduction and the reasons therefor, including a description of the funds proposed to be used to finance any increased costs; and
+&emsp;&emsp;(A) the Secretary concerned notifies the appropriate committees of Congress in writing of the cost increase or reduction in scope and the reasons therefor, including a description of the funds proposed to be used to finance any increased costs; and
 
-&emsp;(3) a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
+&emsp;&emsp;(B) a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title; or
+
+&emsp;(2) in the case of a cost decrease, the Secretary concerned notifies the appropriate committees of Congress in writing not later than 14 days after the date funds are obligated in connection with the military construction project or military family housing project.
 
 (d) The limitation on cost variations in subsection (a) does not apply to the following:
 
@@ -18,7 +20,7 @@
 
 &emsp;(2) The costs associated with the required remediation of an environmental hazard in connection with a military construction project or military family housing project, such as asbestos removal, radon abatement, lead-based paint removal or abatement, or any other legally required environmental hazard remediation, if the required remediation could not have reasonably been anticipated at the time the project was approved originally by Congress.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468.)
 
 #### Amendments
 
@@ -26,7 +28,15 @@
 
 Subsec. (a). Pub. L. 109–163, §2804(a)(1), substituted “may be increased or decreased by not more than 25 percent” for “may be increased by not more than 25 percent” and “if the Secretary concerned determines that such revised cost is required” for “if the Secretary concerned determines that such an increase in cost is required”.
 
-Subsec. (c). Pub. L. 109–163, §2804(a)(2), (b), substituted “limitation on cost variations” for “limitation on cost increase” in introductory provisions, “the variation” for “the increase” in pars. (1) and (2), and inserted “, including a description of the funds proposed to be used to finance any increased costs” after “the reasons therefor” in par. (2).
+Subsec. (c). Pub. L. 109–364 substituted “if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—” for “if—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+
+“(1) the variation in cost or reduction in scope is approved by the Secretary concerned;
+
+“(2) the Secretary concerned notifies the appropriate committees of Congress in writing of the variation or reduction and the reasons therefor, including a description of the funds proposed to be used to finance any increased costs; and
+
+“(3) a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
+
+Pub. L. 109–163, §2804(a)(2), (b), substituted “limitation on cost variations” for “limitation on cost increase” in introductory provisions, “the variation” for “the increase” in pars. (1) and (2), and inserted “, including a description of the funds proposed to be used to finance any increased costs” after “the reasons therefor” in par. (2).
 
 Subsec. (d). Pub. L. 109–163, §2804(a)(3), substituted “limitation on cost variations” for “limitation on cost increases” in introductory provisions.
 

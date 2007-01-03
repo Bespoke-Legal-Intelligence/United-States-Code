@@ -32,7 +32,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) The amateur astronomer or group of amateur astronomers who in the preceding calendar year discovered the intrinsically brightest near-Earth asteroid among the near-Earth asteroids that were discovered during that year by amateur astronomers or groups of amateur astronomers.
 
-&emsp;&emsp;(B) The amateur astronomer or group of amateur astronomers who made the greatest contribution to the Minor Planet Center's mission of cataloguing near-Earth asteroids during the preceding year.
+&emsp;&emsp;(B) The amateur astronomer or group of amateur astronomers who made the greatestcontribution to the Minor Planet Center's mission of cataloguing near-Earth asteroids during the preceding year.
 
 #### (4) Award amount
 

@@ -24,7 +24,7 @@
 
 (1) Whenever the Secretary of the Interior or the Secretary of Commerce prescribes a fishway under section 811 of this title, the license applicant or any other party to the license proceeding may propose an alternative to such prescription to construct, maintain, or operate a fishway.
 
-(2) Notwithstanding section 811 of this title, the Secretary of the Interior or the Secretary of Commerce, as appropriate, shall accept and prescribe, and the Commission shall require, the proposed alternative referred to in paragraph (1), if the Secretary of the appropriate department determines, based on substantial evidence provided by the license applicant, any other party to the proceeding, or otherwise available to the Secretary, that such alternative—
+(2) Notwithstanding section 811 of this title, the Secretary of the Interior or the Secretary ofCommerce, as appropriate, shall accept and prescribe, and the Commission shall require, the proposed alternative referred to in paragraph (1), if the Secretary of the appropriate department determines, based on substantial evidence provided by the license applicant, any other party to the proceeding, or otherwise available to the Secretary, that such alternative—
 
 &emsp;(A) will be no less protective than the fishway initially prescribed by the Secretary; and
 

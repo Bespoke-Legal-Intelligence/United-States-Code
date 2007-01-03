@@ -42,7 +42,7 @@
 
 &emsp;&emsp;Subject to subparagraph (B), a candidate and the candidate's authorized committee shall not accept any contribution, and a party committee shall not make any expenditure, under the increased limit under paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) until the candidate has received notification of the opposition personal fundsamount under subsection (b)(1) of this section; and
+&emsp;&emsp;&emsp;(i) until the candidate has received notification of the opposition personal funds amount under subsection (b)(1) of this section; and
 
 &emsp;&emsp;&emsp;(ii) to the extent that such contribution, when added to the aggregate amount of contributions previously accepted and party expenditures previously made under the increased limits under this subsection for the election cycle, exceeds 100 percent of the opposition personal funds amount.
 
@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The aggregate amount of contributions accepted by a candidate or a candidate's authorized committee under the increased limit under paragraph (1) and not otherwise expended in connection with the election with respect to which such contributions relate shall, not later than 50 days after the date of such election, be used in the manner described in subparagraph (B).
+&emsp;&emsp;The aggregate amount of contributions accepted by a candidate or a candidate's authorized committee under the increasedlimit under paragraph (1) and not otherwise expended in connection with the election with respect to which such contributions relate shall, not later than 50 days after the date of such election, be used in the manner described in subparagraph (B).
 
 #### (B) Return to contributors
 

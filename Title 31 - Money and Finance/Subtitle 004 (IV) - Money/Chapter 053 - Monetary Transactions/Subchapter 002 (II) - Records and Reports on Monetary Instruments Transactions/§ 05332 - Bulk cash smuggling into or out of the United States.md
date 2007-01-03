@@ -46,7 +46,7 @@ Procedure.—The seizure and forfeiture shall be governed by the procedures gove
 
 &emsp;(3)
 
-Treatment of certain property as involved in the offense.—For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
+Treatment of certain property as involved in the offense.—For purposes of thissubsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
 
 (Added Pub. L. 107–56, title III, §371(c), Oct. 26, 2001, 115 Stat. 337; amended Pub. L. 108–458, title VI, §6203(h), Dec. 17, 2004, 118 Stat. 3747.)
 
@@ -84,7 +84,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(4) The intentional transportation into or out of the United States of large amounts of currency or monetary instruments, in a manner designed to circumvent the mandatory reporting provisions of subchapter II of chapter 53 of title 31, United States Code,, \[sic\] is the equivalent of, and creates the same harm as, the smuggling of goods.
 
-&emsp;“(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement's effortto stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part.
+&emsp;“(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement's effort to stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part.
 
 &emsp;“(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense.
 

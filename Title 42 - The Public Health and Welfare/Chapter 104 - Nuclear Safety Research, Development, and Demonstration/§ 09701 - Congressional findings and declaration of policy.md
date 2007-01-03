@@ -22,5 +22,5 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 96–567 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Nuclear Safety Research, Development, and Demonstration Act of 1980’.”
+Section 1 of Pub. L. 96–567 provided: “That this Act \[enacting this chapter\] may be cited as the ‘NuclearSafety Research, Development, and Demonstration Act of 1980’.”
 

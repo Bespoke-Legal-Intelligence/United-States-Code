@@ -18,11 +18,11 @@ When authorized by treaty, agreement or foreign law, merchandise which is subjec
 
 #### (e) Stationing of foreign customs and agriculture inspection officers in the United States
 
-The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
+The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of ensuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
 
 #### (f) Application of certain laws
 
-When customs officials of a foreign country are stationed in the United States in accordancewith subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
+When customs officials of a foreign country are stationed in the United States in accordance with subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
 
 &emsp;(1) sections 111 and 1114 of title 18 shall apply as if the officials were designated in those sections; and
 
@@ -32,13 +32,65 @@ When customs officials of a foreign country are stationed in the United States i
 
 Any person designated to perform the duties of an officer of the Customs Service pursuant to section 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.
 
-(June 17, 1930, ch. 497, title IV, §629, as added Pub. L. 99–570, title III, §3128, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 108–7, div. J, title I, §127(c), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(b), (c), Dec. 3, 2004, 118 Stat. 2581, 2582.)
+#### (h) Customs procedures and commitments
 
-#### References in Text
+#### (1) In general
 
-The customs laws of the United States and the customs law, referred to in subsecs. (c) and (d), are classified generally to this title.
+&emsp;The Secretary of Homeland Security, the United States Trade Representative, and other appropriate Federal officials shall work through appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
+
+#### (2) United States Trade Representative
+
+#### (A) In general
+
+&emsp;&emsp;The United States Trade Representative shall seek commitments in negotiations in the WTO regarding the articles of GATT 1994 that are described in subparagraph (B) that make progress in achieving—
+
+&emsp;&emsp;&emsp;(i) harmonization of import and export data collected by WTO members for customs purposes, to the extent practicable;
+
+&emsp;&emsp;&emsp;(ii) enhanced procedural fairness and transparency with respect to the regulation of imports and exports by WTO members;
+
+&emsp;&emsp;&emsp;(iii) transparent standards for the efficient release of cargo by WTO members, to the extent practicable; and
+
+&emsp;&emsp;&emsp;(iv) the protection of confidential commercial data.
+
+#### (B) Articles described
+
+&emsp;&emsp;The articles of the GATT 1994 described in this subparagraph are the following:
+
+&emsp;&emsp;&emsp;(i) Article V (relating to transit).
+
+&emsp;&emsp;&emsp;(ii) Article VIII (relating to fees and formalities associated with importation and exportation).
+
+&emsp;&emsp;&emsp;(iii) Article X (relating to publication and administration of trade regulations).
+
+#### (C) GATT 1994
+
+&emsp;&emsp;The term “GATT 1994” means the General Agreement on Tariff and Trade annexed to the WTO Agreement.
+
+#### (3) Customs
+
+&emsp;The Secretary of Homeland Security, acting through the Commissioner and in consultation with the United States Trade Representative, shall work with the WCO to facilitate the efficient flow of international trade, taking into account existing international agreements and the negotiating objectives of the WTO. The Commissioner shall work to—
+
+&emsp;&emsp;(A) harmonize, to the extent practicable, import data collected by WCO members for customs purposes;
+
+&emsp;&emsp;(B) automate and harmonize, to the extent practicable, the collection and storage of commercial data by WCO members;
+
+&emsp;&emsp;(C) develop, to the extent practicable, transparent standards for the release of cargo by WCO members;
+
+&emsp;&emsp;(D) develop and harmonize, to the extent practicable, standards, technologies, and protocols for physical or nonintrusive examinations that will facilitate the efficient flow of international trade; and
+
+&emsp;&emsp;(E) ensure the protection of confidential commercial data.
+
+#### (4) Definition
+
+&emsp;In this subsection, the term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
+
+(June 17, 1930, ch. 497, title IV, §629, as added Pub. L. 99–570, title III, §3128, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 108–7, div. J, title I, §127(c), Feb. 20, 2003, 117 Stat. 441; Pub. L.108–429, title I, §1561(b), (c), Dec. 3, 2004, 118 Stat. 2581, 2582; Pub. L. 109–280, title XIV, §1635(f)(1), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–347, title IV, §404, Oct. 13, 2006, 120 Stat. 1928.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–280 substituted “ensuring” for “insuring”.
+
+Subsec. (h). Pub. L. 109–347 added subsec. (h).
 
 2004—Pub. L. 108–429, §1561(c), repealed Pub. L. 108–7, §127(c). See 2003 Amendment notes below.
 
@@ -57,6 +109,10 @@ Subsec. (c). Pub. L. 108–7, §127(c)(2), which directed insertion of “or exp
 Subsec. (e). Pub. L. 108–7, §127(c)(3), which directed substitution of “such functions,” for “such functions and” and “by treaty, agreement or law” for “under reciprocal agreement”, and insertion of “and agriculture inspection” after “States of customs” and “foreign customs”, “and the Secretary of Agriculture” after “in coordination with the Secretary”, “or that have gone directly from that country to the United States” after “to that country from the United States”, “or exportation” after “governing the importation”, “, and enjoy such privileges and immunities” after “such duties”, and “or are afforded” after “authorized to perform”, in section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
 
 Subsec. (g). Pub. L. 108–7, §127(c)(4), which directed addition of subsec. (g) to section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border
 
@@ -94,7 +150,7 @@ Elements of the program.—Using the authority granted by this section and under
 
 &emsp;&emsp;“(B) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border are vested with the maximum authority to carry out their duties and enforce United States law;
 
-&emsp;&emsp;“(C) ensure that United States Customs officers stationed in any such IBIA on the Canadian side ofthe border shall possess the same immunity that they would possess if they were stationed in the United States; and
+&emsp;&emsp;“(C) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border shall possess the same immunity that they would possess if they were stationed in the United States; and
 
 &emsp;&emsp;“(D) encourage appropriate officials of the United States to enter into an agreement with Canada permitting Canadian Customs officers stationed in any such IBIA on the United States side of the border to enjoy such immunities as permitted in Canada.”
 

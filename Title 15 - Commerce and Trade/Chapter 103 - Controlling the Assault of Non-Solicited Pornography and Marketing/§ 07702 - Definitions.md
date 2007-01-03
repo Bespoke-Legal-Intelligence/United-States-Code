@@ -110,7 +110,7 @@ In this chapter:
 
 &emsp;&emsp;&nbsp;a subscription, membership, account, loan, or comparable ongoing commercial relationship involving the ongoing purchase or use by the recipient of products or services offered by the sender;
 
-&emsp;&emsp;&emsp;(iv) to provide information directly related to an employment relationship or related benefit plan in which the recipient iscurrently involved, participating, or enrolled; or
+&emsp;&emsp;&emsp;(iv) to provide information directly related to an employment relationship or related benefit plan in which the recipient is currently involved, participating, or enrolled; or
 
 &emsp;&emsp;&emsp;(v) to deliver goods or services, including product updates or upgrades, that the recipient is entitled to receive under the terms of a transaction that the recipient has previously agreed to enter into with the sender.
 

@@ -4,7 +4,7 @@
 
 Notwithstanding any provision of State law, a guaranty agency, or the Secretary in the case of loans made, insured or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42 that are held by the Secretary, may garnish the disposable pay of an individual to collect the amount owed by the individual, if he or she is not currently making required repayment under a repayment agreement with the Secretary, or, in the case of a loan guaranteed under part B of this subchapter on which the guaranty agency received reimbursement from the Secretary under section 1078(c) of this title, with the guaranty agency holding the loan, as appropriate, provided that—
 
-&emsp;(1) the amount deducted for any pay period may not exceed 10 percent of disposable pay, except that a greater percentage may be deducted with the written consent of the individual involved;
+&emsp;(1) the amount deducted for any pay period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted with the written consent of the individual involved;
 
 &emsp;(2) the individual shall be provided written notice, sent by mail to the individual's last known address, a minimum of 30 days prior to the initiation of proceedings, from the guaranty agency or the Secretary, as appropriate, informing such individual of the nature and amount of the loan obligation to be collected, the intention of the guaranty agency or the Secretary, as appropriate, to initiate proceedings to collect the debt through deductions from pay, and an explanation of the rights of the individual under this section;
 
@@ -36,11 +36,17 @@ Except as authorized in this section, notwithstanding any other provision of Fed
 
 For the purpose of this section, the term “disposable pay” means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by law to be withheld.
 
-(Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066; amended Pub. L. 105–244, title IV, §490A, Oct. 7, 1998, 112 Stat. 1753.)
+(Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066; amended Pub. L. 105–244, title IV, §490A, Oct. 7, 1998, 112 Stat. 1753; Pub. L. 109–171, title VIII, §8024, Feb. 8, 2006, 120 Stat. 180.)
 
 #### Amendments
 
+2006—Subsec. (a)(1). Pub. L. 109–171 substituted “15 percent” for “10 percent”.
+
 1998—Subsecs. (d), (e). Pub. L. 105–244 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

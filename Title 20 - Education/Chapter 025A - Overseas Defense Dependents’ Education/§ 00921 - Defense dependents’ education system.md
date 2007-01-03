@@ -58,7 +58,7 @@ Section 1415 of title XIV of Pub. L. 95–561 provided that:
 
 “(2) Section 1407(b) \[enacting section 926(b) of this title\] and the amendments made by section 1407(c) \[enacting section 429 of Title 37, Pay and Allowances of the Uniformed Services\], 1408(a) \[enacting section 1769b of Title 42, The Public Health and Welfare\], and 1408(b) \[amending sections 1773 and 1789 of Title 42\] shall take effect on October 1, 1978.
 
-“(b) Notwithstanding subsection (a) or any other provision of this title no provision of this title shall beconstrued to impair or prevent the taking effect of the provision of any other Act providing for the transfer of the functions described in this title to an executive department having responsibility for education.”
+“(b) Notwithstanding subsection (a) or any other provision of this title no provision of this title shall be construed to impair or prevent the taking effect of the provision of any other Act providing for the transfer of the functions described in this title to an executive department having responsibility for education.”
 
 #### Short Title
 

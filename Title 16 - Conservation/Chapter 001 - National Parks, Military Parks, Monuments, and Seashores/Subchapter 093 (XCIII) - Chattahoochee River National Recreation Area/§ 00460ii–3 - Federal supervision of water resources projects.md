@@ -20,7 +20,7 @@ The Secretary is directed to proceed as expeditiously as possible to acquire the
 
 (3) If lands as described in paragraph (2) are not available for acquisition, other lands within the State of Georgia may be acquired as replacement lands under paragraph (1) if such lands are transferred to the State of Georgia for permanent management for public outdoor recreation.
 
-(Pub. L. 95–344, title I, §104, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(d), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 106–154, §2(e)(2), (3), Dec. 9, 1999, 113 Stat. 1739.)
+(Pub. L. 95–344, title I, §104, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(d), Oct. 30, 1984, 98Stat. 2928; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 106–154, §2(e)(2), (3), Dec. 9, 1999, 113 Stat. 1739.)
 
 #### References in Text
 

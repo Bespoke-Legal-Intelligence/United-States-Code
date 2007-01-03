@@ -22,7 +22,7 @@ If any word, statement, or other information required by or under authority of t
 
 &emsp;(i) the established name (as defined in subparagraph (3)) of the drug, if there is such a name;
 
-&emsp;(ii) the established name and quantity or, if determined to be appropriate by the Secretary, the proportion of each active ingredient, including the quantity, kind, and proportion of any alcohol, and also including whether active or not the established name and quantity or if determined to be appropriate by the Secretary, the proportion of any bromides, ether, chloroform, acetanilide, acetophenetidin, amidopyrine, antipyrine, atropine, hyoscine, hyoscyamine, arsenic, digitalis, digitalis glucosides, mercury, ouabain, strophanthin, strychnine, thyroid, or any derivative or preparation of any such substances, contained therein, except that the requirement for stating the quantity of the active ingredients, other than the quantity of those specifically named in this subclause, shall not apply to nonprescription drugs not intended for human use; and
+&emsp;(ii) the established name and quantity or, if determined to be appropriate by the Secretary, the proportion of each active ingredient, including the quantity, kind, and proportion of any alcohol, and also including whether active or not the established name and quantity or if determined to be appropriate bythe Secretary, the proportion of any bromides, ether, chloroform, acetanilide, acetophenetidin, amidopyrine, antipyrine, atropine, hyoscine, hyoscyamine, arsenic, digitalis, digitalis glucosides, mercury, ouabain, strophanthin, strychnine, thyroid, or any derivative or preparation of any such substances, contained therein, except that the requirement for stating the quantity of the active ingredients, other than the quantity of those specifically named in this subclause, shall not apply to nonprescription drugs not intended for human use; and
 
 &emsp;(iii) the established name of each inactive ingredient listed in alphabetical order on the outside container of the retail package and, if determined to be appropriate by the Secretary, on the immediate container, as prescribed in regulation promulgated by the Secretary, except that nothing in this subclause shall be deemed to require that any trade secret be divulged, and except that the requirements of this subclause with respect to alphabetical order shall apply only to nonprescription drugs that are not also cosmetics and that this subclause shall not apply to nonprescription drugs not intended for human use.
 
@@ -32,7 +32,7 @@ If any word, statement, or other information required by or under authority of t
 
 (3) As used in subparagraph (1), the term “established name”, with respect to a drug or ingredient thereof, means (A) the applicable official name designated pursuant to section 358 of this title, or (B), if there is no such name and such drug, or such ingredient, is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then the common or usual name, if any, of such drug or of such ingredient, except that where clause (B) of this subparagraph applies to an article recognized in the United States Pharmacopeia and in the Homoeopathic Pharmacopoeia under different official titles, the official title used in the United States Pharmacopeia shall apply unless it is labeled and offered for sale as a homoeopathic drug, in which case the official title used in the Homoeopathic Pharmacopoeia shall apply.
 
-(4) As used in subparagraph (2), the term “established name” with respect to a device means\(A) the applicable official name of the device designated pursuant to section 358 of this title, (B) if there is no such name and such device is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then any common or usual name of such device.
+(4) As used in subparagraph (2), the term “established name” with respect to a device means (A) the applicable official name of the device designated pursuant to section 358 of this title, (B) if there is no such name and such device is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then any common or usual name of such device.
 
 #### (f) Directions for use and warnings on label
 
@@ -44,7 +44,7 @@ If it purports to be a drug the name of which is recognized in an official compe
 
 #### (h) Deteriorative drugs; packing and labeling
 
-If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of such compendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
+If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of suchcompendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
 
 #### (i) Drug; misleading container; imitation; offer for sale under another name
 
@@ -82,7 +82,7 @@ In the case of any restricted device distributed or offered for sale in any Stat
 
 #### (s) Devices subject to performance standards not bearing requisite labeling
 
-If it is a device subject to a performance standard established under section 360d of this title, unless it bears such labeling as may be prescribed in such performance standard.
+If it is a device subject to a performance standard established under section 360d of thistitle, unless it bears such labeling as may be prescribed in such performance standard.
 
 #### (t) Devices for which there has been a failure or refusal to give required notification or to furnish required material or information
 
@@ -106,9 +106,15 @@ If it is a new animal drug—
 
 &emsp;(2) that is indexed under section 360ccc–1 of this title and its labeling does not conform with the index listing under section 360ccc–1(e) of this title or 360ccc–1(h) of this title, or that has not been indexed under section 360ccc–1 of this title and its label bears the statement set forth in section 360ccc–1(h) of this title.
 
-(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673,renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441.)
+#### (x) Nonprescription drugs
+
+If it is a nonprescription drug (as defined in section 379aa of this title) that is marketed in the United States, unless the label of such drug includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa of this title) may receive a report of a serious adverse event (as defined in section 379aa of this title) with such drug.
+
+(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472.)
 
 #### Amendments
+
+2006—Par. (x). Pub. L. 109–462 added par. (x).
 
 2005—Par. (u). Pub. L. 109–43 amended par. (u) generally. Prior to amendment, par. (u) read as follows: “If it is a device, unless it, or an attachment thereto, prominently and conspicuously bears the name of the manufacturer of the device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, except that the Secretary may waive any requirement under this paragraph for the device if the Secretary determines that compliance with the requirement is not feasible for the device or would compromise the provision of reasonable assurance of the safety or effectiveness of the device.”
 
@@ -122,7 +128,7 @@ Par. (u). Pub. L. 107–250, §301(a), which directed amendment of section by ad
 
 Par. (v). Pub. L. 107–250, §302(a)(1), added par. (v).
 
-1997—Par. (a). Pub. L. 105–115, §114(a), inserted at end “Health care economic information provided to a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managed care or other similar organizations, shall not be considered to be false or misleading under this paragraph if the health care economic information directly relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug and is based on competent and reliable scientific evidence. The requirements set forth in section 355(a) of this title or in section 262(a) of title 42 shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request. In this paragraph, the term ‘health care economic information’ means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.”
+1997—Par. (a). Pub. L. 105–115, §114(a), inserted at end “Health care economic information provided to a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managed care or other similar organizations, shall not be considered to be false or misleading under this paragraph ifthe health care economic information directly relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug and is based on competent and reliable scientific evidence. The requirements set forth in section 355(a) of this title or in section 262(a) of title 42 shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request. In this paragraph, the term ‘health care economic information’ means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.”
 
 Par. (d). Pub. L. 105–115, §126(b), struck out par. (d) which read as follows: “If it is for use by man and contains any quantity of the narcotic or hypnotic substance alpha eucaine, barbituric acid, betaeucaine, bromal, cannabis, carbromal, chloral, coca, cocaine, codeine, heroin, marihuana, morphine, opium, paraldehyde, peyote, or sulphonmethane; or any chemical derivative of such substance, which derivative has been by the Secretary, after investigation, found to be, and by regulations designated as, habit forming; unless its label bears the name and quantity or proportion of such substance or derivative and in juxtaposition therewith the statement ‘Warning—May be habit forming.’ ”
 
@@ -183,6 +189,18 @@ Par. (<i>o</i>). Pub. L. 87–781, §305, added par. (<i>o</i>).
 1941—Par. (k). Act Dec. 22, 1941, added par. (k).
 
 1939—Par. (d). Act June 29, 1939, substituted “name, and quality or proportion” for “name, quantity, and percentage”.
+
+#### Effective Dates of 2006 Amendment
+
+Pub. L. 109–462, §2(e)(1), (2), Dec. 22, 2006, 120 Stat. 3472, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 379aa of this title and amending this section and section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\].
+
+“(2)
+
+Misbranding.—Section 502(x) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(x)\] (as added by this section) shall apply to any nonprescription drug (as defined in such section 502(x)) labeled on or after the date that is 1 year after the date of enactment of this Act \[Dec. 22, 2006\].”
 
 #### Effective Date of 2002 Amendment
 

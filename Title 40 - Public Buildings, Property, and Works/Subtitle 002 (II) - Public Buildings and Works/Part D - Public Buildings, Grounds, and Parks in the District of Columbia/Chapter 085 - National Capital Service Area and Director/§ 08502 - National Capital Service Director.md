@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Compensation.—There is in the Executive Office of the President the National Capital Service Director who shall be appointed by the President. The Director shall receive compensation at the maximum rate established for level IV of the Executive Schedule under section 5314 <sup>1</sup> of title 5.
+Establishment and Compensation.—There is in the Executive Office of the President the National Capital Service Director who shall be appointed by the President. The Director shall receive compensation at the maximum rate established for level IV of the Executive Schedule under section 5315 of title 5.
 
 (b)
 
@@ -18,9 +18,9 @@ President.—The President, through the Director and using District of Columbia 
 
 &emsp;(2)
 
-Director.—Except with respect to that part of the National Capital Service Area comprising the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102, the Supreme Court Building and grounds as described in section 6101 of this title, and the Library of Congress buildings and grounds as defined in section 11 of the Act of August 4, 1950 (2 U.S.C. 167j), the Director shall ensure that there is provided in the remainder of the area described in section 8501(a) of this title adequate police protection and maintenance of streets and highways.
+Director.—Except with respect to that part of the National Capital Service Area comprising the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102 of this title, the Supreme Court Building and grounds as described in section 6101 of this title, and the Library of Congress buildings and grounds as defined in section 11 of the Act of August 4, 1950 (2 U.S.C. 167j), the Director shall ensure that there is provided in the remainder of the area described in section 8501(a) of this title adequate police protection and maintenance of streets and highways.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1215.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1215; Pub. L. 109–284, §6(25), (26), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -49,4 +49,10 @@ Pub. L. 93–198, title VII, §739(b), (c), Dec. 24, 1973, 87 Stat. 825.
 In subsection (a), the words “from time to time” and “of section 5314 \[sic\] of title 5” are omitted as unnecessary. \[The words “of section 5314 of title 5” were not omitted.\]
 
 In subsection (b), the reference to chapter 33 of title 5 is substituted for “the provisions of title 5 governing appointments in the competitive service” for clarity and for consistency in the revised title and with other titles of the United States Code. The words “subchapter III” are substituted for “subchapter 3” to correct an error in the source provision.
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–284, §6(25), substituted “5315” for “5314”.
+
+Subsec. (c)(2). Pub. L. 109–284, §6(26), inserted “of this title” after “sections 5101 and 5102”.
 

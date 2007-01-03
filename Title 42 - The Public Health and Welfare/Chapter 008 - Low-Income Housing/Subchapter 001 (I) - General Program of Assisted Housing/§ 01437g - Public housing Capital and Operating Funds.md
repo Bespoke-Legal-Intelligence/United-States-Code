@@ -28,7 +28,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (B) Operating Fund
 
-&emsp;&emsp;For allocations of assistance from the Operating Fund, $2,900,000,000 for fiscal year 1999, and such sums as may be necessary for each of fiscal years 2000, 2001, 2002, and 2003.
+&emsp;&emsp;For allocations of assistance from the Operating Fund, $2,900,000,000 for fiscal year1999, and such sums as may be necessary for each of fiscal years 2000, 2001, 2002, and 2003.
 
 #### (d) Capital Fund
 
@@ -96,7 +96,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;The Secretary shall establish an Operating Fund for the purpose of making assistance available to public housing agencies for the operation and management of public housing, including—
 
-&emsp;&emsp;(A) procedures and systems to maintain and ensure the efficient management and operation of public housing units (including amounts sufficient to pay for the reasonable costs of review by an independent auditor of the documentation or other information maintained pursuant to section 1437d(j)(6) of this title by a public housing agency or resident management corporation to substantiate the performance of that agency or corporation);
+&emsp;&emsp;(A) procedures and systems to maintain and ensure the efficient management and operation of public housing units (including amounts sufficient to pay for the reasonablecosts of review by an independent auditor of the documentation or other information maintained pursuant to section 1437d(j)(6) of this title by a public housing agency or resident management corporation to substantiate the performance of that agency or corporation);
 
 &emsp;&emsp;(B) activities to ensure a program of routine preventative maintenance;
 
@@ -130,7 +130,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;&emsp;(iii) the number of public housing dwelling units owned, assisted, or operated by the public housing agency that are chronically vacant and the amount of assistance appropriate for those units;
 
-&emsp;&emsp;&emsp;(iv) to the extent quantifiable, the extent to which the public housing agencyprovides programs and activities designed to promote the economic self-sufficiency and management skills of public housing residents;
+&emsp;&emsp;&emsp;(iv) to the extent quantifiable, the extent to which the public housing agency provides programs and activities designed to promote the economic self-sufficiency and management skills of public housing residents;
 
 &emsp;&emsp;&emsp;(v) the need of the public housing agency to carry out anti-crime and anti-drug activities, including providing adequate security for public housing residents;
 
@@ -158,7 +158,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (3) Condition on use
 
-&emsp;No portion of any public housing project operated using amounts provided under this subsection, or under this section as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, may be disposed of before the expiration of the 10-year period beginning upon the conclusion of the fiscal year for which such amounts were provided, except as otherwise provided in this chapter.
+&emsp;No portion of any public housing project operated using amounts provided under this subsection, or under this section as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, may be disposed of before the expiration of the 10-year period beginning uponthe conclusion of the fiscal year for which such amounts were provided, except as otherwise provided in this chapter.
 
 #### (f) Negotiated rulemaking procedure
 
@@ -186,7 +186,7 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 #### (C) Exception regarding formulas
 
-&emsp;&emsp;Subject to reasonable limitations set by the Secretary, the formulas establishedunder subsections (d)(2) and (e)(2) of this section may provide additional funding for the operation and modernization costs (but not the initial development costs) of housing in excess of amounts otherwise permitted under this paragraph, and such amounts may be so used, if—
+&emsp;&emsp;Subject to reasonable limitations set by the Secretary, the formulas established under subsections (d)(2) and (e)(2) of this section may provide additional funding for the operation and modernization costs (but not the initial development costs) of housing in excess of amounts otherwise permitted under this paragraph, and such amounts may be so used, if—
 
 &emsp;&emsp;&emsp;(i) such units are part of a mixed-finance project or otherwise leverage significant additional private or public investment; and
 
@@ -270,7 +270,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (B) Withholding of assistance
 
-&emsp;&emsp;During any fiscal year described in subparagraph (A), the Secretary shall withhold all assistance that would otherwise be provided to the public housing agency. If thepublic housing agency cures its failure to comply during the year, it shall be provided with the share attributable to the months remaining in the year.
+&emsp;&emsp;During any fiscal year described in subparagraph (A), the Secretary shall withhold all assistance that would otherwise be provided to the public housing agency. If the public housing agency cures its failure to comply during the year, it shall be provided with the share attributable to the months remaining in the year.
 
 #### (C) Redistribution
 
@@ -360,7 +360,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 &emsp;This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5),Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648.)
 
 #### References in Text
 

@@ -138,7 +138,7 @@ Authorization of appropriation.—In addition to amounts authorized under sectio
 
 “(c)
 
-Additional Purposes of Rulemaking Proceeding and Study.—Additional purposes of the rulemaking proceeding initiated under subsection (a) with respectto a central reporting system and computerized telecommunications data center described in subsection (b) and the study conducted under subsection (b) are—
+Additional Purposes of Rulemaking Proceeding and Study.—Additional purposes of the rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center described in subsection (b) and the study conducted under subsection (b) are—
 
 &emsp;“(1) to determine whether such a system and center should be established and operated by the United States Government or by a private entity, either on its own initiative or under contract with the United States;
 

@@ -20,7 +20,7 @@ The President may lend or advance to an eligible applicant or a State the portio
 
 #### (2) Interest
 
-&emsp;Loans and advances under this section shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period of the loan or advance.
+&emsp;Loans and advances under this section shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current market yields on outstanding marketable obligations of the United States with remaining periods to maturitycomparable to the reimbursement period of the loan or advance.
 
 #### (c) Regulations
 

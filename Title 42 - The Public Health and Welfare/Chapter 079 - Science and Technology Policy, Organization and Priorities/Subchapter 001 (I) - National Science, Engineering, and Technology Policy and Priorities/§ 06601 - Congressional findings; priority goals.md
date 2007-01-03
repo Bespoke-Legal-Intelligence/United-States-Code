@@ -156,7 +156,7 @@ Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 129
 
 #### Executive Order No. 12975
 
-Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, which provided for the protection of human research subjects and created the National Bioethics Advisory Commission,was revoked by Ex. Ord. No. 13316, §3(b), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
+Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, which provided for the protection of human research subjects and created the National Bioethics Advisory Commission, was revoked by Ex. Ord. No. 13316, §3(b), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
 #### Ex. Ord. No. 13226. President's Council of Advisors on Science and Technology
 
@@ -252,7 +252,7 @@ Sec. 4. <i>Administration.</i>
 
 Sec. 5. <i>General Provisions.</i>
 
-(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
+(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, exceptthat of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 (b) The Council shall terminate 2 years from the date of this order unless extended by the President prior to that date.
 
@@ -306,7 +306,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (d) The agencies shall jointly propose to require that in classified research involving human subjects, two additional elements of information be provided to potential subjects when consent is sought from subjects:
 
-(i) the identity of the sponsoring Federal agency. Exceptions are allowed if the head of the sponsoring agency determines that providing this information could compromise intelligence sources or methods and that the research involves no more than minimal risk to subjects. The determination about sources and methods is to be made in consultation with the Director of Central Intelligence and the Assistant to the President for National Security Affairs. The determination about risk is to be made in consultation with the Director of the White House Office of Science and Technology Policy.
+(i) the identity of the sponsoring Federal agency. Exceptions are allowed if the head of the sponsoring agency determines that providing this information could compromise intelligence sources or methods and that the research involves no more than minimal risk tosubjects. The determination about sources and methods is to be made in consultation with the Director of Central Intelligence and the Assistant to the President for National Security Affairs. The determination about risk is to be made in consultation with the Director of the White House Office of Science and Technology Policy.
 
 (ii) a statement that the project is “classified” and an explanation of what classified means.
 

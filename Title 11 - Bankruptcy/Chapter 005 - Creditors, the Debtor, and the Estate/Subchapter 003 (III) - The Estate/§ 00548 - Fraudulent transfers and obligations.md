@@ -152,7 +152,7 @@ Amendment by section 907 of Pub. L. 109–8 effective 180 days after Apr. 20, 20
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title that is pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
+Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title thatis pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
 
 #### Effective Date of 1994 Amendment
 

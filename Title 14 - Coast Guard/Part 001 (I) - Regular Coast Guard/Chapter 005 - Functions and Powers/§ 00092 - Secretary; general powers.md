@@ -68,6 +68,22 @@ Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered th
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Implementation of International Agreements
+
+Pub. L. 109–241, title VIII, §801, July 11, 2006, 120 Stat. 562, provided that: “In consultation with appropriate Federal agencies, the Secretary of the department in which the Coast Guard is operating shall work with the responsible officials and agencies of other nations to accelerate efforts at the International Maritime Organization to enhance oversight and enforcement of security, environmental, and other agreements adopted within the International Maritime Organization by flag States on whom such agreements are binding, including implementation of—
+
+&emsp;“(1) a code outlining flag State responsibilities and obligations;
+
+&emsp;“(2) an audit regime for evaluating flag State performance;
+
+&emsp;“(3) measures to ensure that responsible organizations, acting on behalf of flag States, meet established performance standards; and
+
+&emsp;“(4) cooperative arrangements to improve enforcement on a bilateral, regional, or international basis.”
+
+#### Voluntary Measures for Reducing Pollution From Recreational Boats
+
+Pub. L. 109–241, title VIII, §802, July 11, 2006, 120 Stat. 563, provided that: “In consultation with appropriate Federal, State, and local government agencies, the Secretary of the department in which the Coast Guard is operating shall undertake outreach programs for educating the owners and operators of boats using two-stroke engines about the pollution associated with such engines and support voluntary programs that reduce such pollution and encourage the early replacement of older two-stroke engines.”
+
 #### Great Lakes Lighthouses
 
 Pub. L. 107–295, title III, §345, Nov. 25, 2002, 116 Stat. 2106, provided that:
@@ -174,7 +190,7 @@ Authorized pay.—(A) Retired members employed under paragraph (1) of this subse
 
 #### Consideration of Maritime Administration Vessels
 
-Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: “Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1271–1279c), to determine whether any of those vessels are suitable for use by the Coast Guard.”
+Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: “Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1271–1279c) \[see 46 U.S.C. 53701 et seq.\], to determine whether any of those vessels are suitable for use by the Coast Guard.”
 
 #### Lifesaving Equipment on Passenger Ferries
 

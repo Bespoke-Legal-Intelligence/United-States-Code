@@ -1,0 +1,52 @@
+### §6696. Rules applicable with respect to sections 6694, 6695, and 6695A
+
+#### (a) Penalties to be additional to any other penalties
+
+The penalties provided by section <sup>1</sup> 6694, 6695, and 6695A shall be in addition to any other penalties provided by law.
+
+#### (b) Deficiency procedures not to apply
+
+Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply with respect to the assessment or collection of the penalties provided by sections 6694, 6695, and 6695A.
+
+#### (c) Procedure for claiming refund
+
+Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall be filed in accordance with regulations prescribed by the Secretary.
+
+#### (d) Periods of limitation
+
+#### (1) Assessment
+
+&emsp;The amount of any penalty under section 6694(a) or under section 6695 shall be assessed within 3 years after the return or claim for refund with respect to which the penalty is assessed was filed, and no proceeding in court without assessment for the collection of such tax shall be begun after the expiration of such period. In the case of any penalty under section 6694(b), the penalty may be assessed, or a proceeding in court for the collection of the penalty may be begun without assessment, at any time.
+
+#### (2) Claim for refund
+
+&emsp;Except as provided in section 6694(d), any claim for refund of an overpayment of any penalty assessed under section 6694, 6695, or 6695A shall be filed within 3 years from the time the penalty was paid.
+
+#### (e) Definitions
+
+For purposes of sections 6694, 6695, and 6695A—
+
+#### (1) Return
+
+&emsp;The term “return” means any return of any tax imposed by subtitle A.
+
+#### (2) Claim for refund
+
+&emsp;The term “claim for refund” means a claim for refund of, or credit against, any tax imposed by subtitle A.
+
+(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 109–280, title XII, §1219(b)(2), Aug. 17, 2006, 120 Stat. 1084.)
+
+#### Codification
+
+Section 1219(b)(2) of Pub. L. 109–280, which directed the amendment of section 6696 without specifying the act to be amended, was executed to this section, which is section 6696 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment note below.
+
+#### Amendments
+
+2006—Pub. L. 109–280 substituted “6694, 6695, and 6695A” for “6694 and 6695” wherever appearing in section catchline and text and “6694, 6695, or 6695A” for “6694 or 6695” wherever appearing in text. See Codification note above.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable to appraisals prepared with respect to returns or submissions filed after Aug. 17, 2006, with special rule for certain easements, see section 1219(e)(2), (3) of Pub. L. 109–280, set out as a note under section 170 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+

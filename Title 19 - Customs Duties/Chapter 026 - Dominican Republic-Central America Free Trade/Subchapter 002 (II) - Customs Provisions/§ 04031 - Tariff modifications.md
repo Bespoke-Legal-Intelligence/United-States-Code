@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) sections 1677(7)(G)(ii)(III) and 1677(7)(H) of this title;
 
-&emsp;&emsp;&emsp;(ii) the duty-free treatment provided under paragraph 12 of Appendix I of the General Notes to the Schedule of theUnited States to Annex 3.3 of the Agreement; and
+&emsp;&emsp;&emsp;(ii) the duty-free treatment provided under paragraph 12 of Appendix I of the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement; and
 
 &emsp;&emsp;&emsp;(iii) section 274(h)(6)(B) of title 26.
 

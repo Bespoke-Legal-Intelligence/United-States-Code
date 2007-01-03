@@ -24,7 +24,7 @@ In carrying out the purposes of this chapter, the Administrator shall—
 
 &emsp;(2) assist operating agencies which have direct responsibilities for the prevention and treatment of juvenile delinquency in the development and promulgation of regulations, guidelines, requirements, criteria, standards, procedures, and budget requests in accordance with the policies, priorities, and objectives the Administrator establishes;
 
-&emsp;(3) conduct and support evaluations and studies of the performance and resultsachieved by Federal juvenile delinquency programs and activities;
+&emsp;(3) conduct and support evaluations and studies of the performance and results achieved by Federal juvenile delinquency programs and activities;
 
 &emsp;(4) implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
 
@@ -82,7 +82,7 @@ Subsec. (i). Pub. L. 107–273, §12205(4), struck out subsec. (i) which read as
 
 “(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
 
-“(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislationwhich significantly affects juvenile delinquency prevention and treatment.”
+“(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment.”
 
 1992—Subsec. (a). Pub. L. 102–586, §2(c)(1), designated existing provisions as par. (1), substituted “develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan,” for “implement overall policy and develop objectives and priorities”, and added par. (2).
 

@@ -1,0 +1,138 @@
+### §247b–17. Human papillomavirus (Johanna's Law)
+
+#### (a) Surveillance
+
+#### (1) In general
+
+&emsp;The Secretary, acting through the Centers for Disease Control and Prevention, shall—
+
+&emsp;&emsp;(A) enter into cooperative agreements with States and other entities to conduct sentinel surveillance or other special studiesthat would determine the prevalence in various age groups and populations of specific types of human papillomavirus (referred to in this section as “HPV”) in different sites in various regions of the United States, through collection of special specimens for HPV using a variety of laboratory-based testing and diagnostic tools; and
+
+&emsp;&emsp;(B) develop and analyze data from the HPV sentinel surveillance system described in subparagraph (A).
+
+#### (2) Report
+
+&emsp;The Secretary shall make a progress report to the Congress with respect to paragraph (1) no later than 1 year after the effective date of this section.
+
+#### (b) Prevention activities; education program
+
+#### (1) In general
+
+&emsp;The Secretary, acting through the Centers for Disease Control and Prevention, shall conduct prevention research on HPV, including—
+
+&emsp;&emsp;(A) behavioral and other research on the impact of HPV-related diagnosis on individuals;
+
+&emsp;&emsp;(B) formative research to assist with the development of educational messages and information for the public, for patients, and for their partners about HPV;
+
+&emsp;&emsp;(C) surveys of physician and public knowledge, attitudes, and practices about genital HPV infection; and
+
+&emsp;&emsp;(D) upon the completion of and based on the findings under subparagraphs (A) through (C), develop and disseminate educational materials for the public and health care providers regarding HPV and its impact and prevention.
+
+#### (2) Report; final proposal
+
+&emsp;The Secretary shall make a progress report to the Congress with respect to paragraph (1) not later than 1 year after the effective date of this section, and shall develop a final report not later than 3 years after such effective date, including a detailed summary of the significant findings and problems and the best strategies to prevent future infections, based on available science.
+
+#### (c) HPV education and prevention
+
+#### (1) In general
+
+&emsp;The Secretary shall prepare and distribute educational materials for health care providers and the public that include information on HPV. Such materials shall address—
+
+&emsp;&emsp;(A) modes of transmission;
+
+&emsp;&emsp;(B) consequences of infection, including the link between HPV and cervical cancer;
+
+&emsp;&emsp;(C) the available scientific evidence on the effectiveness or lack of effectiveness of condoms in preventing infection with HPV; and
+
+&emsp;&emsp;(D) the importance of regular Pap smears, and other diagnostics for early intervention and prevention of cervical cancer purposes in preventing cervical cancer.
+
+#### (2) Medically accurate information
+
+&emsp;Educational material under paragraph (1), and all other relevant educational and prevention materials prepared and printed from this date forward for the public and health care providers by the Secretary (including materials prepared through the Food and Drug Administration, the Centers for Disease Control and Prevention, and the Health Resources and Services Administration), or by contractors, grantees, or subgrantees thereof, that are specifically designed to address STDs including HPV shall contain medically accurate information regarding the effectiveness or lack of effectiveness of condoms in preventing the STD the materials are designed to address. Such requirement only applies to materials mass produced for the public and health care providers, and not to routine communications.
+
+#### (d) Johanna's Law
+
+#### (1) National public awareness campaign
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall carry out a national campaign to increase the awareness and knowledge of health care providers and women with respect to gynecologic cancers.
+
+#### (B) Written materials
+
+&emsp;&emsp;Activities under the national campaign under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;(i) maintaining a supply of written materials that provide information to the public on gynecologic cancers; and
+
+&emsp;&emsp;&emsp;(ii) distributing the materials to members of the public upon request.
+
+#### (C) Public service announcements
+
+&emsp;&emsp;Activities under the national campaign under subparagraph (A) shall, in accordance with applicable law and regulations, include developing and placing, in telecommunications media, public service announcements intended to encourage women to discuss with their physicians their risks of gynecologic cancers. Such announcements shall inform the public on the manner in which the written materials referred to in subparagraph (B) can be obtained upon request, and shall call attention to early warning signs and risk factors based on the best available medical information.
+
+#### (2) Report and strategy
+
+#### (A) Report
+
+&emsp;&emsp;Not later than 6 months after January 12, 2007, the Secretary shall submit to the Congress a report including the following:
+
+&emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
+
+&emsp;&emsp;&emsp;(ii) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of health care providers with respect to different types of cancer, including gynecologic cancers.
+
+&emsp;&emsp;&emsp;(iii) For each activity described pursuant to clause (i) or (ii), a description of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The funding for such activity for fiscal year 2006 and the cumulative funding for such activity for previous fiscal years.
+
+&emsp;&emsp;&emsp;&emsp;(II) The background and history of such activity, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the goals of such activity;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the communications objectives of such activity;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the identity of each agency within the Department of Health and Human Services responsible for any aspect of the activity; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) how such activity is or was expected to result in change.
+
+&emsp;&emsp;&emsp;&emsp;(III) How long the activity lasted or is expected to last.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The outcomes observed and the evaluation methods, if any, that have been, are being, or will be used with respect to such activity.
+
+&emsp;&emsp;&emsp;&emsp;(V) For each such outcome or evaluation method, a description of the associated results, analyses, and conclusions.
+
+#### (B) Strategy
+
+#### (i) Development; submission to Congress
+
+&emsp;&emsp;&emsp;Not later than 3 months after submitting the report required by subparagraph (A), the Secretary shall develop and submit to the Congress a strategy for improving efforts to increase awareness and knowledge of the public and health care providers with respect to different types of cancer, including gynecological cancers.
+
+#### (ii) Consultation
+
+&emsp;&emsp;&emsp;In developing the strategy under clause (i), the Secretary should consult with qualified private sector groups, including nonprofit organizations.
+
+#### (3) Full compliance
+
+&emsp;(A)
+
+In general.—Not later than March 1, 2008, the Secretary shall ensure that all provisions of this section, including activities directed to be carried out by the Centers for Disease Control and Prevention and the Food and Drug Administration, are fully implemented and being complied with. Not later than April 30, 2008, the Secretary shall submit to Congress a report that certifies compliance with the preceding sentence and that contains a description of all activities undertaken to achieve such compliance.
+
+&emsp;(B) If the Secretary fails to submit the certification as provided for under subparagraph (A), the Secretary shall, not later than 3 months after the date on which the report is to be submitted under subparagraph (A), and every 3 months thereafter, submit to Congress an explanation as to why the Secretary has not yet complied with the first sentence of subparagraph (A), a detailed description of all actions undertaken within the month for which the report is being submitted to bring the Secretary into compliance with such sentence, and the anticipated date the Secretary expects to be in full compliance with such sentence.
+
+#### (4) Authorization of appropriations
+
+&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated $16,500,000 for the period of fiscal years 2007 through 2009.
+
+(July 1, 1944, ch. 373, title III, §317P, as added Pub. L. 106–554, §1(a)(1) \[title V, §516(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72; amended Pub. L. 109–475, §2, Jan. 12, 2007, 120 Stat. 3565.)
+
+#### References in Text
+
+Johanna's Law, referred to in section catchline and subsec. (d), is Pub. L. 109–475, Jan. 12, 2007, 120 Stat. 3565, also known as the Gynecologic Cancer Education and Awareness Act of 2005, which amended this section. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 201 of this title and Tables.
+
+The effective date of this section, referred to in subsecs. (a)(2) and (b)(2), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
+
+#### Amendments
+
+2007—Pub. L. 109–475, §2(1), inserted “(Johanna's Law)” after “papillomavirus” in section catchline.
+
+Subsec. (d). Pub. L. 109–475, §2(2), added subsec. (d).
+

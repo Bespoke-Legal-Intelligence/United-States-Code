@@ -6,46 +6,17 @@
 | [2602\.](%C2%A7%2002602%20-%20Definitions.md) | Definitions. |
 | [2603\.](%C2%A7%2002603%20-%20Uniform%20settlement%20statement.md) | Uniform settlement statement. |
 | [2604\.](%C2%A7%2002604%20-%20Special%20information%20booklets.md) | Special information booklets. |
-| (a) | Distribution by Secretary to lenders to help borrowers. |
-| (b) | Form and detail; cost elements, standard settlement form, escrow accounts, selection of persons for settlement services; consideration of differences in settlement procedures. |
-| (c) | Estimate of charges. |
-| (d) | Distribution by lenders to loan applicants at time of receipt or preparation of applications. |
-| (e) | Printing and distribution by lenders of booklets approved by Secretary. |
 | [2605\.](%C2%A7%2002605%20-%20Servicing%20of%20mortgage%20loans%20and%20administration%20of%20escrow%20accounts.md) | Servicing of mortgage loans and administration of escrow accounts. |
-| (a) | Disclosure to applicant relating to assignment, sale, or transfer of loan servicing. |
-| (b) | Notice by transferor of loan servicing at time of transfer. |
-| (c) | Notice by transferee of loan servicing at time of transfer. |
-| (d) | Treatment of loan payments during transfer period. |
-| (e) | Duty of loan servicer to respond to borrower inquiries. |
-| (f) | Damages and costs. |
-| (g) | Administration of escrow accounts. |
-| (h) | Preemption of conflicting State laws. |
-| (i) | Definitions. |
-| (j) | Transition. |
 | [2606\.](%C2%A7%2002606%20-%20Exempted%20transactions.md) | Exempted transactions. |
-| (a) | In general. |
-| (b) | Interpretation. |
 | [2607\.](%C2%A7%2002607%20-%20Prohibition%20against%20kickbacks%20and%20unearned%20fees.md) | Prohibition against kickbacks and unearned fees. |
-| (a) | Business referrals. |
-| (b) | Splitting charges. |
-| (c) | Fees, salaries, compensation, or other payments. |
-| (d) | Penalties for violations; joint and several liability; treble damages; actions for injunction by Secretary and by State officials; costs and attorney fees; construction of State laws. |
 | [2608\.](%C2%A7%2002608%20-%20Title%20companies%3B%20liability%20of%20seller.md) | Title companies; liability of seller. |
 | [2609\.](%C2%A7%2002609%20-%20Limitation%20on%20requirement%20of%20advance%20deposits%20in%20escrow%20accounts.md) | Limitation on requirement of advance deposits in escrow accounts. |
-| (a) | In general. |
-| (b) | Notification of shortage in escrow account. |
-| (c) | Escrow account statements. |
-| (d) | Penalties. |
 | [2610\.](%C2%A7%2002610%20-%20Prohibition%20of%20fees%20for%20preparation%20of%20truth-in-lending%2C%20uniform%20settlement%2C%20and%20escrow%20account%20statements.md) | Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements. |
 | 2611 to 2613. Repealed. |  |
 | [2614\.](%C2%A7%2002614%20-%20Jurisdiction%20of%20courts%3B%20limitations.md) | Jurisdiction of courts; limitations. |
 | [2615\.](%C2%A7%2002615%20-%20Contracts%20and%20liens%3B%20validity.md) | Contracts and liens; validity. |
 | [2616\.](%C2%A7%2002616%20-%20State%20laws%20unaffected%3B%20inconsistent%20Federal%20and%20State%20provisions.md) | State laws unaffected; inconsistent Federal and State provisions. |
 | [2617\.](%C2%A7%2002617%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
-| (a) | Issuance of regulations; exemptions. |
-| (b) | Liability for acts done in good faith in conformity with rule, regulation, or interpretation. |
-| (c) | Investigations; hearings; failure to obey order; contempt. |
-| (d) | Delay of effectiveness of recent final regulation relating to payments to employees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

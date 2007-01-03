@@ -60,7 +60,7 @@ That Act, referred to in subsec. (b)(6), is title IV of Pub. L. 99–660, Nov. 1
 
 #### Prior Provisions
 
-A prior section 1921 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
+A prior section 1921 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
 

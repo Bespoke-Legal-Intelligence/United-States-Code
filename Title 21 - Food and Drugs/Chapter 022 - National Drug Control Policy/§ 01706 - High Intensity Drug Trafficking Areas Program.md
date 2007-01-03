@@ -2,41 +2,279 @@
 
 #### (a) Establishment
 
-There is established in the Office a program to be known as the High Intensity Drug Trafficking Areas Program.
+#### (1) In general
+
+&emsp;There is established in the Office a program to be known as the High Intensity Drug Trafficking Areas Program (in this section referred to as the “Program”).
+
+#### (2) Purpose
+
+&emsp;The purpose of the Program is to reduce drug trafficking and drug production in the United States by—
+
+&emsp;&emsp;(A) facilitating cooperation among Federal, State, local, and tribal law enforcement agencies to share information and implement coordinated enforcement activities;
+
+&emsp;&emsp;(B) enhancing law enforcement intelligence sharing among Federal, State, local, and tribal law enforcement agencies;
+
+&emsp;&emsp;(C) providing reliable law enforcement intelligence to law enforcement agencies needed to design effective enforcement strategies and operations; and
+
+&emsp;&emsp;(D) supporting coordinated law enforcement strategies which maximize use of available resources to reduce the supply of illegal drugs in designated areas and in the United States as a whole.
 
 #### (b) Designation
 
-The Director, upon consultation with the Attorney General, the Secretary of the Treasury, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area. After making such a designation and in order to provide Federal assistance to the area so designated, the Director may—
+#### (1) In general
 
-&emsp;(1) obligate such sums as appropriated for the High Intensity Drug Trafficking Areas Program;
+&emsp;The Director, in consultation with the Attorney General, the Secretary of the Treasury, the Secretary of Homeland Security, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area.
 
-&emsp;(2) direct the temporary reassignment of Federal personnel to such area, subject to the approval of the head of the department or agency that employs such personnel;
+#### (2) Activities
 
-&emsp;(3) take any other action authorized under section 1703 of this title to provide increased Federal assistance to those areas;
+&emsp;After making a designation under paragraph (1) and in order to provide Federal assistance to the area so designated, the Director may—
 
-&emsp;(4) coordinate activities under this subsection (specifically administrative, recordkeeping, and funds management activities) with State and local officials.
+&emsp;&emsp;(A) obligate such sums as are appropriated for the Program;
 
-#### (c) Factors for consideration
+&emsp;&emsp;(B) direct the temporary reassignment of Federal personnel to such area, subject to the approval of the head of the department or agency that employs such personnel;
+
+&emsp;&emsp;(C) take any other action authorized under section 1703 of this title to provide increased Federal assistance to those areas; and
+
+&emsp;&emsp;(D) coordinate activities under this section (specifically administrative, recordkeeping, and funds management activities) with State, local, and tribal officials.
+
+#### (c) Petitions for designation
+
+The Director shall establish regulations under which a coalition of interested law enforcement agencies from an area may petition for designation as a high intensity drug trafficking area. Such regulations shall provide for a regular review by the Director of the petition, including a recommendation regarding the merit of the petition to the Director by a panel of qualified, independent experts.
+
+#### (d) Factors for consideration
 
 In considering whether to designate an area under this section as a high intensity drug trafficking area, the Director shall consider, in addition to such other criteria as the Director considers to be appropriate, the extent to which—
 
-&emsp;(1) the area is a center of illegal drug production, manufacturing, importation, or distribution;
+&emsp;(1) the area is a significant center of illegal drug production, manufacturing, importation, or distribution;
 
-&emsp;(2) State and local law enforcement agencies have committed resources to respond to the drug trafficking problem in the area, thereby indicating a determination to respond aggressively to the problem;
+&emsp;(2) State, local, and tribal law enforcement agencies have committed resources to respond to the drug trafficking problem in the area, thereby indicating a determination to respond aggressively to the problem;
 
-&emsp;(3) drug-related activities in the area are having a harmful impact in other areas of the country; and
+&emsp;(3) drug-related activities in the area are having a significant harmful impact in the area, and in other areas of the country; and
 
 &emsp;(4) a significant increase in allocation of Federal resources is necessary to respond adequately to drug-related activities in the area.
 
-#### (d) Use of funds
+#### (e) Organization of high intensity drug trafficking areas
 
-The Director shall ensure that no Federal funds appropriated for the High Intensity Drug Trafficking Program are expended for the establishment or expansion of drug treatment programs.
+#### (1) Executive Board and officers
 
-(Pub. L. 105–277, div. C, title VII, §707, Oct. 21, 1998, 112 Stat. 2681–686.)
+&emsp;To be eligible for funds appropriated under this section, each high intensity drug trafficking area shall be governed by an Executive Board. The Executive Board shall designate a chairman, vice chairman, and any other officers to the Executive Board that it determines are necessary.
+
+#### (2) Responsibilities
+
+&emsp;The Executive Board of a high intensity drug trafficking area shall be responsible for—
+
+&emsp;&emsp;(A) providing direction and oversight in establishing and achieving the goals of the high intensity drug trafficking area;
+
+&emsp;&emsp;(B) managing the funds of the high intensity drug trafficking area;
+
+&emsp;&emsp;(C) reviewing and approving all funding proposals consistent with the overall objective of the high intensity drug trafficking area; and
+
+&emsp;&emsp;(D) reviewing and approving all reports to the Director on the activities of the high intensity drug trafficking area.
+
+#### (3) Board representation
+
+&emsp;None of the funds appropriated under this section may be expended for any high intensity drug trafficking area, or for a partnership or region of a high intensity drug trafficking area, if the Executive Board for such area, region, or partnership, does not apportion an equal number of votes between representatives of participating Federal agencies and representatives of participating State, local, and tribal agencies. Where it is impractical for an equal number of representatives of Federal agencies and State, local, and tribal agencies to attend a meeting of an Executive Board in person, the Executive Board may use a system of proxy votes or weighted votes to achieve the voting balance required by this paragraph.
+
+#### (4) No agency relationship
+
+&emsp;The eligibility requirements of this section are intended to ensure the responsible use of Federal funds. Nothing in this section is intended to create an agency relationship between individual high intensity drug trafficking areas and the Federal Government.
+
+#### (f) Use of funds
+
+The Director shall ensure that no Federal funds appropriated for the Program are expended for the establishment or expansion of drug treatment programs, and shall ensure that not more than 5 percent of the Federal funds appropriated for the Program are expended for the establishment of drug prevention programs.
+
+#### (g) Counterterrorism activities
+
+#### (1) Assistance authorized
+
+&emsp;The Director may authorize use of resources available for the Program to assist Federal, State, local, and tribal law enforcement agencies in investigations and activities related to terrorism and prevention of terrorism, especially but not exclusively with respect to such investigations and activities that are also related to drug trafficking.
+
+#### (2) Limitation
+
+&emsp;The Director shall ensure—
+
+&emsp;&emsp;(A) that assistance provided under paragraph (1) remains incidental to the purpose of the Program to reduce drug availabilityand carry out drug-related law enforcement activities; and
+
+&emsp;&emsp;(B) that significant resources of the Program are not redirected to activities exclusively related to terrorism, except on a temporary basis under extraordinary circumstances, as determined by the Director.
+
+#### (h) Role of Drug Enforcement Administration
+
+The Director, in consultation with the Attorney General, shall ensure that a representative of the Drug Enforcement Administration is included in the Intelligence Support Center for each high intensity drug trafficking area.
+
+#### (i) Annual HIDTA Program budget submissions
+
+As part of the documentation that supports the President's annual budget request for the Office, the Director shall submit to Congress a budget justification that includes—
+
+&emsp;(1) the amount proposed for each high intensity drug trafficking area, conditional upon a review by the Office of the request submitted by the HIDTA and the performance of the HIDTA, with supporting narrative descriptions and rationale for each request;
+
+&emsp;(2) a detailed justification that explains—
+
+&emsp;&emsp;(A) the reasons for the proposed funding level; how such funding level was determined based on a current assessment of the drug trafficking threat in each high intensity drug trafficking area;
+
+&emsp;&emsp;(B) how such funding will ensure that the goals and objectives of each such area will be achieved; and
+
+&emsp;&emsp;(C) how such funding supports the National Drug Control Strategy; and
+
+&emsp;(3) the amount of HIDTA funds used to investigate and prosecute organizations and individuals trafficking in methamphetamine in the prior calendar year, and a description of how those funds were used.
+
+#### (j) Emerging threat response fund
+
+#### (1) In general
+
+&emsp;Subject to the availability of appropriations, the Director may expend up to 10 percent of the amounts appropriated under this section on a discretionary basis, to respond to any emerging drug trafficking threat in an existing high intensity drug trafficking area, or to establish a new high intensity drug trafficking area or expand an existing high intensity drug trafficking area, in accordance with the criteria established under paragraph (2).
+
+#### (2) Consideration of impact
+
+&emsp;In allocating funds under this subsection, the Director shall consider—
+
+&emsp;&emsp;(A) the impact of activities funded on reducing overall drug traffic in the United States, or minimizing the probability that an emerging drug trafficking threat will spread to other areas of the United States; and
+
+&emsp;&emsp;(B) such other criteria as the Director considers appropriate.
+
+#### (k) Evaluation
+
+#### (1) Initial report
+
+&emsp;Not later than 90 days after December 29, 2006, the Director shall, after consulting with the Executive Boards of each designated high intensity drug trafficking area, submit a report to Congress that describes, for each designated high intensity drug trafficking area—
+
+&emsp;&emsp;(A) the specific purposes for the high intensity drug trafficking area;
+
+&emsp;&emsp;(B) the specific long-term and short-term goals and objectives for the high intensity drug trafficking area;
+
+&emsp;&emsp;(C) the measurements that will be used to evaluate the performance of the high intensity drug trafficking area in achieving the long-term and short-term goals; and
+
+&emsp;&emsp;(D) the reporting requirements needed to evaluate the performance of the high intensity drug trafficking area in achieving the long-term and short-term goals.
+
+#### (2) Evaluation of HIDTA Program as part of National Drug Control Strategy
+
+&emsp;For each designated high intensity drug trafficking area, the Director shall submit, as part of the annual National Drug Control Strategy report, a report that—
+
+&emsp;&emsp;(A) describes—
+
+&emsp;&emsp;&emsp;(i) the specific purposes for the high intensity drug trafficking area; and
+
+&emsp;&emsp;&emsp;(ii) the specific long-term and short-term goals and objectives for the high intensity drug trafficking area; and
+
+&emsp;&emsp;(B) includes an evaluation of the performance of the high intensity drug trafficking area in accomplishing the specific long-term and short-term goals and objectives identified under paragraph (1)(B).
+
+#### (<i>l</i>) Assessment of drug enforcement task forces in high intensity drug trafficking areas
+
+Not later than 1 year after December 29, 2006, and as part of each subsequent annual National Drug Control Strategy report, the Director shall submit to Congress a report—
+
+&emsp;(1) assessing the number and operation of all federally funded drug enforcement task forces within each high intensity drug trafficking area; and
+
+&emsp;(2) describing—
+
+&emsp;&emsp;(A) each Federal, State, local, and tribal drug enforcement task force operating in the high intensity drug trafficking area;
+
+&emsp;&emsp;(B) how such task forces coordinate with each other, with any high intensity drug trafficking area task force, and with investigations receiving funds from the Organized Crime and Drug Enforcement Task Force;
+
+&emsp;&emsp;(C) what steps, if any, each such task force takes to share information regarding drug trafficking and drug production with other federally funded drug enforcement task forces in the high intensity drug trafficking area;
+
+&emsp;&emsp;(D) the role of the high intensity drug trafficking area in coordinating the sharing of such information among task forces;
+
+&emsp;&emsp;(E) the nature and extent of cooperation by each Federal, State, local, and tribal participant in ensuring that such information is shared among law enforcement agencies and with the high intensity drug trafficking area;
+
+&emsp;&emsp;(F) the nature and extent to which information sharing and enforcement activitiesare coordinated with joint terrorism task forces in the high intensity drug trafficking area; and
+
+&emsp;&emsp;(G) any recommendations for measures needed to ensure that task force resources are utilized efficiently and effectively to reduce the availability of illegal drugs in the high intensity drug trafficking areas.
+
+#### (m) Assessment of law enforcement intelligence sharing in High Intensity Drug Trafficking Areas Program
+
+Not later than 180 days after December 29, 2006, and as part of each subsequent annual National Drug Control Strategy report, the Director, in consultation with the Director of National Intelligence, shall submit to Congress a report—
+
+&emsp;(1) evaluating existing and planned law enforcement intelligence systems supported by each high intensity drug trafficking area, or utilized by task forces receiving any funding under the Program, including the extent to which such systems ensure access and availability of law enforcement intelligence to Federal, State, local, and tribal law enforcement agencies within the high intensity drug trafficking area and outside of it;
+
+&emsp;(2) the extent to which Federal, State, local, and tribal law enforcement agencies participating in each high intensity drug trafficking area are sharing law enforcement intelligence information to assess current drug trafficking threats and design appropriate enforcement strategies; and
+
+&emsp;(3) the measures needed to improve effective sharing of information and law enforcement intelligence regarding drug trafficking and drug production among Federal, State, local, and tribal law enforcement participating in a high intensity drug trafficking area, and between such agencies and similar agencies outside the high intensity drug trafficking area.
+
+#### (n) Coordination of Law enforcement intelligence sharing with Organized Crime Drug Enforcement Task Force program
+
+The Director, in consultation with the Attorney General, shall ensure that any drug enforcement intelligence obtained by the Intelligence Support Center for each high intensity drug trafficking area is shared, on a timely basis, with the drug intelligence fusion center operated by the Organized Crime Drug Enforcement Task Force of the Department of Justice.
+
+#### (<i>o</i>) Use of funds to combat methamphetamine trafficking
+
+#### (1) Requirement
+
+&emsp;As part of the documentation that supports the President's annual budget request for the Office, the Director shall submit to Congress a report describing the use of HIDTA funds to investigate and prosecute organizations and individuals trafficking in methamphetamine in the prior calendar year.
+
+#### (2) Contents
+
+&emsp;The report shall include—
+
+&emsp;&emsp;(A) the number of methamphetamine manufacturing facilities discovered through HIDTA-funded initiatives in the previous fiscal year;
+
+&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized by HIDTA-funded initiatives in the area during the previous year; and
+
+&emsp;&emsp;(C) law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in methamphetamine and listed chemicals.
+
+#### (3) Certification
+
+&emsp;Before the Director awards any funds to a high intensity drug trafficking area, the Director shall certify that the law enforcement entities participating in that HIDTA are providing laboratory seizure data to the national clandestine laboratory database at the El Paso Intelligence Center.
+
+#### (p) Authorization of appropriations
+
+There is authorized to be appropriated to the Office of National Drug Control Policy to carry out this section—
+
+&emsp;(1) $240,000,000 for fiscal year 2007;
+
+&emsp;(2) $250,000,000 for fiscal year 2008;
+
+&emsp;(3) $260,000,000 for fiscal year 2009;
+
+&emsp;(4) $270,000,000 for fiscal year 2010; and
+
+&emsp;(5) $280,000,000 for each of <sup>2</sup> fiscal year 2011.
+
+#### (q) Specific purposes
+
+#### (1) In general
+
+&emsp;The Director shall ensure that, of the amounts appropriated for a fiscal year for the Program, at least $7,000,000 is used in high intensity drug trafficking areas with severe neighborhood safety and illegal drug distribution problems.
+
+#### (2) Required uses
+
+&emsp;The funds used under paragraph (1) shall be used—
+
+&emsp;&emsp;(A) to ensure the safety of neighborhoods and the protection of communities, including the prevention of the intimidation of potential witnesses of illegal drug distribution and related activities; and
+
+&emsp;&emsp;(B) to combat illegal drug trafficking through such methods as the Director considers appropriate, such as establishing or operating (or both) a toll-free telephone hotline for use by the public to provide information about illegal drug-related activities.
+
+(Pub. L. 105–277, div. C, title VII, §707, Oct. 21, 1998, 112 Stat. 2681–686; Pub. L. 109–469, title III, §§301, §302(c), Dec. 29, 2006, 120 Stat. 3518, 3525.)
 
 #### Repeal of Section
 
-<i>For repeal of section on Sept. 30, 2003, see section 1712 of this title.</i>
+<i>For repeal of section on Sept. 30, 2010, see section 1712 of this title.</i>
+
+#### References in Text
+
+December 29, 2006, referred to in subsecs. (k)(1), (<i>l</i>), and (m) was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2006—Pub. L. 109–469, §301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
+
+Subsec. (q). Pub. L. 109–469, §302(c), added subsec. (q).
+
+#### Findings
+
+Pub. L. 109–469, title III, §302(b), Dec. 29, 2006, 120 Stat. 3524, provided that: “Congress finds the following:
+
+&emsp;“(1) In the early morning hours of October 16, 2002, the home of Carnell and Angela Dawson was firebombed in apparent retaliation for Mrs. Dawson's notification to police about persistent drug distribution activity in their East Baltimore City neighborhood.
+
+&emsp;“(2) The arson claimed the lives of Mr. and Mrs. Dawson and their 5 young children, aged 9 to 14.
+
+&emsp;“(3) The horrific murder of the Dawson family is a stark example of domestic narco-terrorism.
+
+&emsp;“(4) In all phases of counternarcotics law enforcement—from prevention to investigation to prosecution to reentry—the voluntary cooperation of ordinary citizens is a critical component.
+
+&emsp;“(5) Voluntary cooperation is difficult for law enforcement officials to obtain when citizens feel that cooperation carries the risk of violent retaliation by illegal drug trafficking organizations and their affiliates.
+
+&emsp;“(6) Public confidence that law enforcement is doing all it can to make communities safe is a prerequisite for voluntary cooperation among people who may be subject to intimidation or reprisal (or both).
+
+&emsp;“(7) Witness protection programs are insufficient on their own to provide security because many individuals and families who strive every day to make distressed neighborhoods livable for their children, other relatives, and neighbors will resist or refuse offers of relocation by local, State, and Federal prosecutorial agencies and because, moreover, the continued presence of strong individuals and families is critical to preserving and strengthening the social fabric in such communities.
+
+&emsp;“(8) Where (as in certain sections of Baltimore City) interstate trafficking of illegal drugs has severe ancillary local consequences within areas designated as high intensity drug trafficking areas, it is important that supplementary High Intensity Drug Trafficking Areas Program funds be committed to support initiatives aimed at making the affected communities safe for the residents of those communities and encouraging their cooperation with tribal, local, State, and Federal law enforcement efforts to combat illegal drug trafficking.”
 
 #### Combating Methamphetamine and Amphetamine in High Intensity Drug Trafficking Areas
 
@@ -91,4 +329,8 @@ Limitation on Administrative Costs.—Not more than 5 percent of the amount appr
 #### Funding for High Intensity Drug Trafficking Areas Program
 
 Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 448, provided in part: “That, hereafter, of the amount appropriated for fiscal year 2000 or any succeeding fiscal year for the High Intensity Drug Trafficking Areas Program, the funds to be obligated or expended during such fiscal year for programs addressing the treatment or prevention of drug use as part of the approved strategy for a designated High Intensity Drug Trafficking Area (HIDTA) shall not be less than the funds obligated or expended for such programs during fiscal year 1999 for each designated HIDTA without the prior approval of the Committees on Appropriations”.
+
+<i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

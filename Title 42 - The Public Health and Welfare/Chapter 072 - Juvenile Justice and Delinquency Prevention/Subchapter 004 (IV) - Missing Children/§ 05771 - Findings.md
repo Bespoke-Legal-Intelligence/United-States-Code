@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) works in partnership with the Department of Justice, the Federal Bureau of Investigation, the Department of the Treasury, the Department of State, and many other agencies in the effort to find missing children and prevent child victimization; and
 
-&emsp;&emsp;(C) operates a national and increasingly worldwide network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing children to law enforcement across the United States and around the world instantly.
+&emsp;&emsp;(C) operates a national and increasingly worldwide network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing children to law enforcement acrossthe United States and around the world instantly.
 
 (Pub. L. 93–415, title IV, §402, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125; amended Pub. L. 106–71, §2(a), Oct. 12, 1999, 113 Stat. 1032; Pub. L. 108–96, title II, §201, Oct. 10, 2003, 117 Stat. 1171.)
 

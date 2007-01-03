@@ -34,6 +34,10 @@ Par. (5). Pub. L. 103–238, §3(2), inserted “and their habitats” before �
 
 Section 4 of Pub. L. 92–522 provided that: “The provisions of this Act \[enacting this chapter\] shall take effect upon the expiration of the sixty-day period following the date of its enactment \[Oct. 21, 1972\].”
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 109–479, title IX, §901, Jan. 12, 2007, 120 Stat. 3660, provided that: “This title \[enacting subchapter VI of this chapter and amending section 1377 of this title\] may be cited as the ‘United States-Russia Polar Bear Conservation and Management Act of 2006’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–555, §1, Dec. 21, 2000, 114 Stat. 2765, provided that: “This Act \[enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, 1434, 5101 to 5103, 5106, 5107a to 5108, and 5156 of this title, enacting provisions set out as notes under this section and sections 917a, 1433, 5101, and 5107 of this title, and amending provisions set out as a note under section 1855 of this title\] may be cited as the ‘Striped Bass Conservation, Atlantic Coastal Fisheries Management, and Marine Mammal Rescue Assistance Act of 2000’.”
@@ -42,7 +46,7 @@ Pub. L. 106–555, title II, §201, Dec. 21, 2000, 114 Stat. 2767, provided that
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of thistitle, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title\] may be cited as the ‘International Dolphin Conservation Program Act’.”
+Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title\] may be citedas the ‘International Dolphin Conservation Program Act’.”
 
 #### Short Title of 1994 Amendment
 
@@ -110,7 +114,7 @@ Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Sec
 
 #### Study on Mortality of Atlantic Dolphin
 
-Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributed to epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of theHouse of Representatives a plan for conducting the study.
+Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributed to epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of the House of Representatives a plan for conducting the study.
 
 #### International Discussion To Advance Understanding of Cetacean Life
 

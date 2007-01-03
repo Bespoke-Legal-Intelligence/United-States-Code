@@ -64,7 +64,7 @@ There are authorized to be appropriated to the Secretary to carry out section 13
 
 #### (e) Applicability
 
-No technology, or level of emission reduction, shall be treated as adequately demonstrated for purpose <sup>1</sup> of section 7411 of this title, achievable for purposes of section 7479 of this title, or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(1) of this title.
+No technology, or level of emission reduction, shall be treated as adequately demonstrated for purpose <sup>1</sup> of section 7411 of this title, achievablefor purposes of section 7479 of this title, or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(1) of this title.
 
 (Pub. L. 102–486, title XXXI, §3103, as added Pub. L. 109–58, title IV, §421(a), Aug. 8, 2005, 119 Stat. 758.)
 

@@ -78,7 +78,7 @@ In subsection (b)(2), the words “baggage or other” are omitted as surplus.
 
 In subsection (b)(3), the words “bomb or similar” are omitted as surplus.
 
-In subsection (d)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus.
+In subsection (d)(1), the words “State or political subdivision of a State” are substituted for “municipal orState government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus.
 
 In subsection (d)(3), the word “contained” is omitted as surplus.
 

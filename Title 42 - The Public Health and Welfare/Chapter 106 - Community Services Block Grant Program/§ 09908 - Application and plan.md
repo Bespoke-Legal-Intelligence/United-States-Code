@@ -48,7 +48,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;(B) to address the needs of youth in low-income communities through youth development programs that support the primary role of the family, give priority to the prevention of youth problems and crime, and promote increased community coordination and collaboration in meeting the needs of youth, and support development and expansion of innovative community-based youth development programs that have demonstrated success in preventing or reducing youth crime, such as—
 
-&emsp;&emsp;&emsp;(i) programs for the establishment of violence-free zones that would involve youth development and intervention models (such as models involving youth mediation, youth mentoring, life skills training, job creation, and entrepreneurship programs); and
+&emsp;&emsp;&emsp;(i) programs for the establishment of violence-free zones that would involveyouth development and intervention models (such as models involving youth mediation, youth mentoring, life skills training, job creation, and entrepreneurship programs); and
 
 &emsp;&emsp;&emsp;(ii) after-school child care programs; and
 
@@ -82,7 +82,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;(11) an assurance that the State will secure from each eligible entity in the State, as a condition to receipt of funding by the entity through a community services block grant made under this chapter for a program, a community action plan (which shall be submitted to the Secretary, at the request of the Secretary, with the State plan) that includes a community-needs assessment for the community served, which may be coordinated with community-needs assessments conducted for other programs;
 
-&emsp;(12) an assurance that the State and all eligible entities in the State will, not later than fiscal year 2001, participate in the Results Oriented Management and Accountability System, another performance measure system forwhich the Secretary facilitated development pursuant to section 9917(b) of this title, or an alternative system for measuring performance and results that meets the requirements of that section, and a description of outcome measures to be used to measure eligible entity performance in promoting self-sufficiency, family stability, and community revitalization; and
+&emsp;(12) an assurance that the State and all eligible entities in the State will, not later than fiscal year 2001, participate in the Results Oriented Management and Accountability System, another performance measure system for which the Secretary facilitated development pursuant to section 9917(b) of this title, or an alternative system for measuring performance and results that meets the requirements of that section, and a description of outcome measures to be used to measure eligible entity performance in promoting self-sufficiency, family stability, and community revitalization; and
 
 &emsp;(13) information describing how the State will carry out the assurances described in this subsection.
 

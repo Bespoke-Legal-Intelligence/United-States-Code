@@ -76,7 +76,7 @@ Calendar year 2008.—For a month during 2008, the amount of retired pay payable
 
 &emsp;&emsp;(A) the amount determined under paragraph (4) for that qualified retiree; and
 
-&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) theamount determined under paragraph (4) for that qualified retiree.
+&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (4) for that qualified retiree.
 
 &emsp;(6)
 

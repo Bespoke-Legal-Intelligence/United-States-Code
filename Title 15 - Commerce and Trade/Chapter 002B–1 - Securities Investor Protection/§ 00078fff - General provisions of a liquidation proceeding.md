@@ -26,7 +26,7 @@ In a liquidation proceeding under this chapter, whenever a person has acted with
 
 #### (d) Apportionment
 
-In a liquidation proceeding under this chapter, any cash or securities remaining after the liquidation of a lien or pledge made by a debtor shall be apportioned between his general estate and customer property in the proportion in which the general property of the debtor and the cash and securities of the customers of such debtor contributed to such lien or pledge. Securities apportioned to the general estate under this subsection shall be subject to the provisions of section 78<i>lll</i>(5)(A) of this title.
+In a liquidation proceeding under this chapter, any cash or securities remaining after the liquidation of a lien or pledge made by a debtor shall be apportioned between his general estate and customer property in the proportion in which the general property of the debtor and the cash and securities of the customers of such debtor contributed to such lien or pledge. Securities apportioned to the general estate underthis subsection shall be subject to the provisions of section 78<i>lll</i>(5)(A) of this title.
 
 #### (e) Costs and expenses of administration
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 95–598, §308(h), substituted in first sentence “sectio
 
 Pub. L. 95–283 in heading substituted “Costs and expense of administration” for “Notice”, and in text substituted provisions relating to costs and expenses of administration of the estate of the debtor and of the liquidation proceeding, for provisions relating to notice requirements for the trustee subsequent to appointment as trustee. See section 78fff–2(a)(l) of this title.
 
-Subsec. (f). Pub. L. 95–283 struck out subsec. (f) requiring advances by the SIPC to the trustee for customers’ claims and completion of open contractual commitments, and authorizing discretionary advancesto the trustee for compensation of personnel deemed necessary for the liquidation proceeding. See section 78fff–3 of this title.
+Subsec. (f). Pub. L. 95–283 struck out subsec. (f) requiring advances by the SIPC to the trustee for customers’ claims and completion of open contractual commitments, and authorizing discretionary advances to the trustee for compensation of personnel deemed necessary for the liquidation proceeding. See section 78fff–3 of this title.
 
 Subsec. (g). Pub. L. 95–283 struck out subsec. (g) setting forth provisions relating to payments to customers by the trustee, and provisions respecting the quantum of proof of claim required for such payment. See section 78fff–2(a)(2) and (b) of this title.
 

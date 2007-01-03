@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
+With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to whichthe need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
 
 #### (b) Federal contribution; maximum amount; exceptions
 
@@ -32,7 +32,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 &emsp;&emsp;&emsp;(ii) conduct such studies as Congress requires under applicable laws; and
 
-&emsp;&emsp;&emsp;(iii) report the results of the studies to the Committee on Environment and PublicWorks of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;&emsp;&emsp;(iii) report the results of the studies to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 #### (B) Recommendations for shore protection projects
 

@@ -6,7 +6,7 @@ If an appropriate international forum finds that a standards-related activity be
 
 #### (b) Cross reference
 
-&emsp;&emsp;<b>For provisions of law regarding remedies available to domestic persons alleging that standards activities engaged in by Parties to the Agreement</b><b>(other than the United States) violate the obligations of the Agreement, see section 2411 of this title.</b>
+&emsp;&emsp;<b>For provisions of law regarding remedies available to domestic persons alleging that standards activities engaged in by Parties to the Agreement (other than the United States) violate the obligations of the Agreement, see section 2411 of this title.</b>
 
 (Pub. L. 96–39, title IV, §424, July 26, 1979, 93 Stat. 248.)
 

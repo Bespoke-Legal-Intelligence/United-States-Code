@@ -8,9 +8,6 @@
 | [194\.](%C2%A7%2000194%20-%20Advisory%20council.md) | Advisory council. |
 | [195\.](%C2%A7%2000195%20-%20Gifts%2C%20bequests%2C%20or%20devises%20for%20benefit%20of%20National%20Arboretum%3B%20separate%20fund%20in%20the%20Treasury.md) | Gifts, bequests, or devises for benefit of National Arboretum; separate fund in the Treasury. |
 | [196\.](%C2%A7%2000196%20-%20Concessions%2C%20fees%2C%20and%20voluntary%20services.md) | Concessions, fees, and voluntary services. |
-| (a) | In general. |
-| (b) | Use of funds. |
-| (c) | Acceptance of voluntary services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

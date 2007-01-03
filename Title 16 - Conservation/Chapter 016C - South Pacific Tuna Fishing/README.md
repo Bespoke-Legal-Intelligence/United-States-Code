@@ -8,44 +8,13 @@
 | [973c.](%C2%A7%2000973c%20-%20Prohibited%20acts.md) | Prohibited acts. |
 | [973d.](%C2%A7%2000973d%20-%20Exceptions.md) | Exceptions. |
 | [973e.](%C2%A7%2000973e%20-%20Criminal%20offenses.md) | Criminal offenses. |
-| (a) | Prohibited acts. |
-| (b) | Sentence and fine. |
-| (c) | Jurisdiction. |
 | [973f.](%C2%A7%2000973f%20-%20Civil%20penalties.md) | Civil penalties. |
-| (a) | Determination of liability; amount; participation by Secretary of State in assessment proceeding. |
-| (b) | Judicial review of assessment; procedures applicable. |
-| (c) | Failure to pay assessment of civil penalty; recovery by Attorney General. |
-| (d) | In rem liability for civil penalty; jurisdiction; maritime lien on vessel. |
-| (e) | Compromise, etc., of civil penalty. |
-| (f) | Conduct of hearings. |
-| (g) | Waiver of referral to Attorney General. |
 | [973g.](%C2%A7%2000973g%20-%20Licenses.md) | Licenses. |
-| (a) | Issuance; establishment of procedures; designation of agent for service of legal process in license application; reception and response to process. |
-| (b) | Forwarding and transmittal of vessel license application. |
-| (c) | Fees and fee schedules. |
-| (d) | Period of validity. |
-| (e) | Allocation system. |
-| (f) | Minimum fees required to be received in initial year of implementation for forwarding and transmittal of license applications. |
-| (g) | Grounds for denial of forwarding of license application. |
-| (h) | Grandfathering of vessels documented before November 3, 1995. |
 | [973h.](%C2%A7%2000973h%20-%20Enforcement.md) | Enforcement. |
-| (a) | Federal responsibilities; utilization of personnel, etc., of other Federal and State agencies. |
-| (b) | Investigation and report of alleged Treaty infringement involving U.S. vessel; notice requirements to operator of vessel; comments, information, or evidence by operator. |
-| (c) | Notice requirements to Pacific Island Party concerning institution and outcome of legal proceedings. |
-| (d) | Searches and seizures by Authorized Officers; limitations on powers. |
-| (e) | Exclusive jurisdiction. |
 | [973i.](%C2%A7%2000973i%20-%20Findings%20by%20Secretary.md) | Findings by Secretary. |
-| (a) | Order of vessel to leave waters upon failure to submit to jurisdiction of Pacific Island Party; procedure applicable. |
-| (b) | Order of vessel to leave waters where Pacific Island Party investigating alleged Treaty infringement. |
-| (c) | Rescission of orders. |
-| (d) | Prohibition on judicial review of orders. |
-| (e) | Enforcement of orders by Attorney General. |
 | [973j.](%C2%A7%2000973j%20-%20Reporting%20requirements%3B%20disclosure%20of%20information.md) | Reporting requirements; disclosure of information. |
 | [973k.](%C2%A7%2000973k%20-%20Closed%20Area%20stowage%20requirements.md) | Closed Area stowage requirements. |
 | 973<i>l.</i> | Observers. |
-| (a) | Required access and assistance; scope of authorities. |
-| (b) | Free provision of food, etc., while on vessel. |
-| (c) | Removal of fish samples and gathering of other information relating to fisheries. |
 | [973m.](%C2%A7%2000973m%20-%20Technical%20assistance.md) | Technical assistance. |
 | [973n.](%C2%A7%2000973n%20-%20Arbitration.md) | Arbitration. |
 | 973<i>o.</i> | Disposition of fees, penalties, forfeitures, and other moneys. |

@@ -14,10 +14,6 @@
 | :--- | ---: |
 | [1621\.](Subchapter%20002%20%28II%29%20-%20Declarations%20of%20Future%20National%20Emergencies/%C2%A7%2001621%20-%20Declaration%20of%20national%20emergency%20by%20President%3B%20publication%20in%20Federal%20Register%3B%20effect%20on%20other%20laws%3B%20superseding%20legislation.md) | Declaration of national emergency by President; publication in Federal Register; effect on other laws; superseding legislation. |
 | [1622\.](Subchapter%20002%20%28II%29%20-%20Declarations%20of%20Future%20National%20Emergencies/%C2%A7%2001622%20-%20National%20emergencies.md) | National emergencies. |
-| (a) | Termination methods. |
-| (b) | Termination review of national emergencies by Congress. |
-| (c) | Joint resolution; referral to Congressional committees; conference committee in event of disagreement; filing of report; termination procedure deemed part of rules of House and Senate. |
-| (d) | Automatic termination of national emergency; continuation notice from President to Congress; publication in Federal Register. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,9 +30,6 @@
 |  |  |
 | :--- | ---: |
 | [1641\.](Subchapter%20004%20%28IV%29%20-%20Accountability%20and%20Reporting%20Requirements%20of%20President/%C2%A7%2001641%20-%20Accountability%20and%20reporting%20requirements%20of%20President.md) | Accountability and reporting requirements of President. |
-| (a) | Maintenance of file and index of Presidential orders, rules and regulations during national emergency. |
-| (b) | Presidential orders, rules and regulations; transmittal to Congress. |
-| (c) | Expenditures during national emergency; Presidential reports to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

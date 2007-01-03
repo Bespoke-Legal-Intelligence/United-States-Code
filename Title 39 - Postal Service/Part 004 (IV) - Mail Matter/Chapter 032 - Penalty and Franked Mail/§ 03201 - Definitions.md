@@ -8,19 +8,21 @@ As used in this chapter—
 
 &emsp;(3) “frank” means the autographic or facsimile signature of persons authorized by sections 3210–3216 and 3218 of this title to transmit matter through the mail without prepayment of postage or other indicia contemplated by sections 733 and 907 of title 44;
 
-&emsp;(4) “franked mail” means mail which is transmitted in the mail under a frank; and
+&emsp;(4) “franked mail” means mail which is transmitted in the mail under a frank;
 
-&emsp;(5) “Members of Congress” includes Senators, Representatives, Delegates, and Resident Commissioners.
+&emsp;(5) “Members of Congress” includes Senators, Representatives, Delegates, and Resident Commissioners; and
+
+&emsp;(6) “missing child” has the meaning provided by section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 99–87, §1(b), Aug. 9, 1985, 99 Stat. 291.)
 
+#### References in Text
+
+Section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (6), is classified to section 5772(1) of Title 42, The Public Health and Welfare.
+
 #### Amendments
 
-1985—Par. (6). Pub. L. 99–87 temporarily added par. (6) which read as follows: “ ‘missing child’ has the meaning provided by section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974.”. See Termination Date of 1985 Amendment note below.
-
-#### Termination Date of 1985 Amendment
-
-Amendment by Pub. L. 99–87 not effective after Dec. 31, 2002, see section 5 of Pub. L. 99–87, as amended, set out as a Termination Date note under former section 3220 of this title.
+1985—Par. (6). Pub. L. 99–87 added par. (6).
 
 #### Effective Date
 

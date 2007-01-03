@@ -16,7 +16,7 @@
 
 (c) The Secretary shall immediately invest, in interest-bearing securities of the United States such currently available portions of the Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
-(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with dueregard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
+(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with due regard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
 
 (e) The Secretary may purchase other interest-bearing obligations of the United States, or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price only if he determines that the purchases are in the public interest.
 
@@ -32,39 +32,29 @@
 
 (g) At the end of each fiscal year, the Office shall notify the Secretary of the Treasury of the amount equivalent to (1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and (2) that portion of disbursement for annuities for that year which the Office estimates is attributable to credit allowed for military service, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title. Before closing the accounts for each fiscal year, the Secretary shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the following percentages of such amounts; 10 percent for 1971; 20 percent for 1972; 30 percent for 1973; 40 percent for 1974; 50 percent for 1975; 60 percent for 1976; 70 percent for 1977; 80 percent for 1978; 90 percent for 1979; and 100 percent for 1980 and for each fiscal year thereafter.
 
-(h)(1)(A) For purposes of this subsection, “Postal supplemental liability” means the estimated excess, as determined by the Office, of—
+(h)(1) In this subsection, the term “Postal surplus or supplemental liability” means the estimated difference, as determined by the Office, between—
 
-&emsp;(i) the actuarial present value of all future benefits payable from the Fund under this subchapter attributable to the service of current or former employees of the United States Postal Service, over
+&emsp;(A) the actuarial present value of all future benefits payable from the Fund under this subchapter to current or former employees of the United States Postal Service and attributable to civilian employment with the United States Postal Service; and
 
-&emsp;(ii) the sum of—
+&emsp;(B) the sum of—
 
-&emsp;&emsp;(I) the actuarial present value of deductions to be withheld from the future basic pay of employees of the United States Postal Service currently subject to this subchapter pursuant to section 8334;
+&emsp;&emsp;(i) the actuarial present value of deductions to be withheld from the future basic pay of employees of the United States Postal Service currently subject to this subchapter under section 8334;
 
-&emsp;&emsp;(II) the actuarial present value of the future contributions to be made pursuant to section 8334 with respect to employees of the United States Postal Service currently subject to this subchapter;
+&emsp;&emsp;(ii) that portion of the Fund balance, as of the date the Postal surplus or supplemental liability is determined, attributable to payments to the Fund by the United States Postal Service and its employees, minus benefit payments attributable to civilian employment with the United States Postal Service, plus the earnings on such amounts while in the Fund; and
 
-&emsp;&emsp;(III) that portion of the Fund balance, as of the date the Postal supplemental liability is determined, attributable to payments to the Fund by the United States Postal Service and its employees, including earnings on those payments; and
+&emsp;&emsp;(iii) any other appropriate amount, as determined by the Office in accordance with generally accepted actuarial practices and principles.
 
-&emsp;&emsp;(IV) any other appropriate amount, as determined by the Office in accordance with generally accepted actuarial practices and principles.
+(2)(A) Not later than June 15, 2007, the Office shall determine the Postal surplus or supplemental liability, as of September 30, 2006. If that result is a surplus, the amount of the surplus shall be transferred to the Postal Service Retiree Health Benefits Fund established under section 8909a by June 30, 2007.
 
-(B)(i) In computing the actuarial present value of future benefits, the Office shall include the full value of benefits attributable to military and volunteer service for United States Postal Service employees first employed after June 30, 1971, and a prorated share of the value of benefits attributable to military and volunteer service for United States Postal Service employees first employed before July 1, 1971.
+(B) The Office shall redetermine the Postal surplus or supplemental liability as of the close of the fiscal year, for each fiscal year beginning after September 30, 2007, through the fiscal year ending September 30, 2038. If the result is a surplus, that amount shall remain in the Fund until distribution is authorized under subparagraph (C). Beginning June 15, 2017, if the result is a supplemental liability, the Office shall establish an amortization schedule, including a series of annual installments commencing on September 30 of the subsequent fiscal year, which provides for the liquidation of such liability by September 30, 2043.
 
-(ii) Military service so included shall not be included in the computation of any amount under subsection (g)(2).
+(C) As of the close of the fiscal years ending September 30, 2015, 2025, 2035, and 2039, if the result is a surplus, that amount shall be transferred to the Postal Service Retiree Health Benefits Fund, and any prior amortization schedule for payments shall be terminated.
 
-(2)(A) Not later than June 30, 2004, the Office shall determine the Postal supplemental liability as of September 30, 2003. The Office shall establish an amortization schedule, including a series of equal annual installments commencing September 30, 2004, which provides for the liquidation of such liability by September 30, 2043.
-
-(B) The Office shall redetermine the Postal supplemental liability as of the close of the fiscal year, for each fiscal year beginning after September 30, 2003, through the fiscal year ending September 30, 2038, and shall establish a new amortization schedule, including a series of equal annual installments commencing on September 30 of the subsequent fiscal year, which provides for the liquidation of such liability by September 30, 2043.
-
-(C) The Office shall redetermine the Postal supplemental liability as of the close of the fiscal year for each fiscal year beginning after September 30, 2038, and shall establish a new amortization schedule, including a series of equal annual installments commencing on September 30 of the subsequent fiscal year, which provides for the liquidation of such liability over 5 years.
-
-(D) Amortization schedules established under this paragraph shall be set in accordance with generally accepted actuarial practices and principles, with interest computed at the rate used in the most recent dynamic actuarial valuation of the Civil Service Retirement System.
+(D) Amortization schedules established under this paragraph shall be set in accordance with generally accepted actuarial practices and principles, with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System.
 
 (E) The United States Postal Service shall pay the amounts so determined to the Office, with payments due not later than the date scheduled by the Office.
 
-(F) An amortization schedule established under subparagraph (B) or (C) shall supersede any amortization schedule previously established under this paragraph.
-
 (3) Notwithstanding any other provision of law, in computing the amount of any payment under any other subsection of this section that is based upon the amount of the unfunded liability, such payment shall be computed disregarding that portion of the unfunded liability that the Office determines will be liquidated by payments under this subsection.
-
-(4) Notwithstanding any other provision of this subsection, any determination or redetermination made by the Office under this subsection shall, upon request of the Postal Service, be subject to reconsideration and review (including adjustment by the Board of Actuaries of the Civil Service Retirement System) to the same extent and in the same manner as provided under section 8423(c).
 
 (i)(1) Notwithstanding any other provision of law, the Panama Canal Commission shall be liable for that portion of any estimated increase in the unfunded liability of the fund which is attributable to any benefits payable from the Fund to or on behalf of employees and their survivors to the extent attributable to the amendments made by sections 1241 and 1242, and the provisions of sections 1231(b) and 1243(a)(1), of the Panama Canal Act of 1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991.
 
@@ -100,7 +90,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g),Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249.)
 
 Historical and Revision Notes<br>1966
 
@@ -166,6 +156,8 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 #### Amendments
 
+2006—Subsec. (h). Pub. L. 109–435 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
+
 2003—Subsec. (h). Pub. L. 108–18, §2(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
 “(h)(1) Notwithstanding any other statute, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to active and retired Postal Service officers and employees, and to their survivors, when the increase results from an employee-management agreement under title 39, or any administrative action by the Postal Service taken pursuant to law, which authorizes increases in pay on which benefits are computed.
@@ -198,7 +190,7 @@ Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted “July 1, 1971” for
 
 1987—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
 
-1986—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV ofchapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
+1986—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 99–509 added subsecs. (j) to (<i>l</i>).
 
@@ -223,6 +215,10 @@ Subsec. (g). Pub. L. 97–253, §306(f), inserted “, less an amount determine
 Subsec. (f). Pub. L. 91–93, §103(a)(2), added subsec. (f) and struck out former subsec. (f) which required the Commission to submit estimates of appropriations necessary to finance the Fund on a normal cost plus interest basis and to carry out this subchapter.
 
 Subsec. (g). Pub. L. 91–93, §103(a)(2), added subsec. (g) and struck out former subsec. (g) which contained restriction against use of Fund money to pay an increase in annuity benefits or a new annuity benefit under this subchapter or an earlier statute without an appropriation being made to the Fund in a sufficient amount to prevent an immediate increase in the unfunded accrued liability of the Fund.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–435 effective Oct. 1, 2006, see section 805(a) of Pub. L. 109–435, set out as a note under section 8334 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -270,6 +266,26 @@ Amendment by Pub. L. 93–349 effective July 1, 1971, except that the Postal Ser
 
 Section 103(b)(1) of Pub. L. 91–93 provided that: “The provisions of subsection (g) of section 8348 of title 5, United States Code, as contained in the amendment made by subsection (a)(2) of this section, shall become effective at the beginning of the fiscal year which ends on June 30, 1971.”
 
+#### Review by Postal Regulatory Commission
+
+Pub. L. 109–435, title VIII, §802(c), Dec. 20, 2006, 120 Stat. 3250, provided that:
+
+“(1)
+
+In general.—
+
+&emsp;“(A)
+
+Request for review.—Notwithstanding any other provision of this section \[amending this section and section 8334 of this title\] (including any amendment made by this section), any determination or redetermination made by the Office of Personnel Management under this section (including any amendment made by this section) shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this subsection.
+
+&emsp;“(B)
+
+Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
+
+“(2)
+
+Reconsideration.—Upon receiving the report from the Commission under paragraph (1), the Office of Personnel Management shall reconsider its determination or redetermination in light of such report, and shall make any appropriate adjustments. The Office shall submit a report containing the results of its reconsideration to the Commission, the Postal Service, and Congress.”
+
 #### Payments To Reimburse Fund for Increase in Unfunded Liability
 
 Pub. L. 105–261, div. C, title XXXI, §3154(<i>l</i>), Oct. 17, 1998, 112 Stat. 2256, provided that:
@@ -298,7 +314,7 @@ Pub. L. 101–508, title VII, §7101(c), Nov. 5, 1990, 104 Stat. 1388–331, as 
 
 #### Payments Relating to Amounts Which Would Have Been Due Before Fiscal Year 1987
 
-Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service to pay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
+Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service topay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
 
 #### Certain Postal Service Annuitants; Size of Annual Installments To Fund Previous Years’ COLAs
 

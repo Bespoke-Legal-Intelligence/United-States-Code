@@ -24,45 +24,9 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 #### Implementation of Compensation Reform Plan
 
-Pub. L. 108–177, title IV, §405(c), Dec. 13, 2003, 117 Stat. 2633, provided that:
+Pub. L. 108–177, title IV, §405(c), Dec. 13, 2003, 117 Stat. 2633, required the Director of Central Intelligence to submit to the congressional intelligence committees a report on the compensation of Central Intelligence Agency employees participating in the pilot project under section 402(b) of Pub. L. 107–306, formerly set out below.
 
-“(1) The Director of Central Intelligence shall submit to the congressional intelligence committees a report on the amount of compensation (including basic pay, bonuses, and employer contributions to the Thrift Savings Plan) of each employee of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2403; 50 U.S.C. 403–4 note), and on the amount that each such employee would have received had such employee received compensation under the existing system of compensation used by the Agency.
-
-“(2) The report required by paragraph (1) shall be submitted together with the report required by paragraph (3) of such section 402(b).
-
-“(3) In this subsection, the term ‘congressional intelligence committees’ has the meaning given that term in section 402(d) of the Intelligence Authorization Act for Fiscal Year 2003.”
-
-Pub. L. 107–306, title IV, §402, Nov. 27, 2002, 116 Stat. 2403, as amended by Pub. L. 108–177, title IV, §405(a), Dec. 13, 2003, 117 Stat. 2632, provided that:
-
-“(a)
-
-Delay on Implementation on Compensation Reform Plan.—(1) The Director of Central Intelligencemay not implement before the implementation date (described in paragraph (2)) a plan for the compensation of employees of the Central Intelligence Agency that differs from the plan in effect on October 1, 2002.
-
-“(2) The implementation date referred to in paragraph (1) is the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2005 \[Dec. 23, 2004\].
-
-“(3) It is the sense of Congress that an employee performance evaluation mechanism with evaluation training for managers and employees of the Central Intelligence Agency should be phased in before the implementation of any new compensation plan.
-
-“(b)
-
-Pilot Project.—(1) The Director shall conduct a pilot project to test the efficacy and fairness of a plan for the compensation of employees of the Central Intelligence Agency that differs from the plan in effect on October 1, 2002, within any one component of the Central Intelligence Agency selected by the Director, other than a component for which a pilot project on employee compensation has been previously conducted.
-
-“(2) The pilot project under paragraph (1) shall be conducted for a period of at least 1 year.
-
-“(3) Not later than the date that is 45 days after the completion of the pilot project under paragraph (1), the Director shall submit to the congressional intelligence committees a report that contains an evaluation of the project and such recommendations as the Director considers appropriate for the modification of the plans for the compensation of employees throughout the Agency which are in effect on such date.
-
-“(c)
-
-Sense of Congress on Implementation of Compensation Reform Plan for the National Security Agency.—It is the sense of Congress that—
-
-&emsp;“(1) the Director of the National Security Agency should not implement before February 1, 2004, a plan for the compensation of employees of the National Security Agency that differs from the plan in effect on October 1, 2002; and
-
-&emsp;“(2) an employee performance evaluation mechanism with evaluation training for managers and employees of the National Security Agency should be phased in before the implementation of any new compensation plan.
-
-“(d)
-
-Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
-
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
+Pub. L. 107–306, title IV, §402, Nov. 27, 2002, 116 Stat. 2403, as amended by Pub. L. 108–177, title IV, §405(a), Dec. 13, 2003, 117 Stat. 2632, delayed implementation of a compensation reform plan for Central Intelligence Agency employees, required the Director of Central Intelligence to conduct a pilot project to test the efficacy and fairness of the plan and to submit a report on the project to the congressional intelligence committees, and expressed the sense of Congress that the Director of the National Security Agency should delay implementation of a compensation reform plan for National Security Agency employees and that an employee performance evaluation mechanism should be phased in before implementation of any new compensation plan at either Agency.
 
 #### Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence
 

@@ -82,9 +82,9 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) One individual, appointed by the Secretary, to represent the National Park Service.
 
-&emsp;&emsp;(B) One individual, appointed by the Secretary of Transportation, to represent the United States Coast Guard.
+&emsp;&emsp;(B) One individual, appointed by the Commandant of the Coast Guard <sup>1</sup>
 
-&emsp;&emsp;(C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
+&emsp;&emsp;(C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of EnvironmentalManagement and the Metropolitan District Commission.
 
 &emsp;&emsp;(D) One individual, appointed by the Secretary, after consideration of recommendations by the Chair, to represent the Massachusetts Port Authority.
 
@@ -140,7 +140,7 @@ For the purposes of this section—
 
 #### (11) Donations
 
-&emsp;Nothwithstanding <sup>1</sup> any other provision of law, the Partnership may seek and accept donations of funds, property, or services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out this section.
+&emsp;Nothwithstanding <sup>2</sup> any other provision of law, the Partnership may seek and accept donations of funds, property, or services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out this section.
 
 #### (12) Use of funds to obtain money
 
@@ -162,7 +162,7 @@ For the purposes of this section—
 
 #### (1) In general
 
-&emsp;Within three years after November 12, 1996, the Partnership shall submit to the Secretary a management plan for the recreation area to be developed and implemented by the Partnership.
+&emsp;Within three years after November 12, 1996, the Partnership shall submit to the Secretarya management plan for the recreation area to be developed and implemented by the Partnership.
 
 #### (2) Contents of plan
 
@@ -244,13 +244,15 @@ For the purposes of this section—
 
 &emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
-(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397.)
+(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567.)
 
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2006—Subsec. (e)(2)(B). Pub. L. 109–241, which directed amendment of section 1029(e)(2)(B) of the Bisti/De-Na-Zin Wilderness Expansion and Fossil Protection Act of 1996 by substituting “Commandant of the Coast Guard” for “Secretary of Transportation, to represent the United States Coast Guard.”, was executed to this section, which is section 1029 of Pub. L. 104–333, the Omnibus Parks and Public Lands Management Act of 1996, to reflect the probable intent of Congress.
 
 2004—Subsec. (c)(2)(B)(i). Pub. L. 108–352, §12(1), substituted “referenced” for “reference”.
 
@@ -269,8 +271,4 @@ Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted “and revenue-raising 
 Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted “ratio” for “ration”.
 
 1998—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

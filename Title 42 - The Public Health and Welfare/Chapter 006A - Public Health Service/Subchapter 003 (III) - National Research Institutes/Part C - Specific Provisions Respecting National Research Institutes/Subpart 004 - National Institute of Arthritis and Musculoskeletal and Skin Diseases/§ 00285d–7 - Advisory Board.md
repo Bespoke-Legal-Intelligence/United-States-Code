@@ -36,7 +36,7 @@ The members of the Advisory Board shall select a chairman from among the appoint
 
 #### (f) Executive director, professional and clerical staff; administrative support services and facilities
 
-The Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, and (through contracts or other arrangements) with such administrative support services and facilities, such information, and such services of consultants, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
+The Secretary shall, after consultation with and consideration of the recommendations ofthe Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, and (through contracts or other arrangements) with such administrative support services and facilities, such information, and such services of consultants, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
 
 #### (g) Meetings
 
@@ -56,27 +56,15 @@ The Advisory Board shall—
 
 In carrying out its functions, the Advisory Board may establish subcommittees, convene workshops and conferences, and collect data. Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
 
-#### (j) Annual report
-
-The Advisory Board shall prepare an annual report for the Secretary which—
-
-&emsp;(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
-
-&emsp;(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to arthritis, musculoskeletal diseases, and skin diseases;
-
-&emsp;(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such diseases in such fiscal year for which the report is made;
-
-&emsp;(4) contains the Advisory Board's recommendations (if any) for changes in the plan prepared under section 285d–1 of this title; and
-
-&emsp;(5) contains recommendations for expanding the Institute's funding of research directly applicable to the cause, diagnosis, early detection, prevention, control, and treatment of, and rehabilitation of children with arthritis and musculoskeletal diseases.
-
-#### (k) Termination of predecessor board; time within which to appoint members
+#### (j) Termination of predecessor board; time within which to appoint members
 
 The National Arthritis Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Board established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The member of the Board in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Advisory Board established under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §442, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 852; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(7), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), June 10, 1993, 107 Stat. 162, 211.)
+(July 1, 1944, ch. 373, title IV, §442, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 852; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(7), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), June 10, 1993, 107 Stat. 162, 211; Pub. L. 109–482, title I, §104(b)(1)(I), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### Amendments
+
+2007—Subsecs. (j), (k). Pub. L. 109–482 redesignated subsec. (k) as (j) and struck out former subsec. (j) which required the Advisory Board to prepare an annual report for the Secretary and set out the subjects for report.
 
 1993—Subsec. (a). Pub. L. 103–43, §701(d)(1), inserted “and Musculoskeletal and Skin Diseases” after “Arthritis”.
 
@@ -87,6 +75,10 @@ Subsec. (j)(5). Pub. L. 103–43, §701(d)(3), added par. (5).
 1992—Subsec. (b)(2)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Termination of Advisory Boards
 

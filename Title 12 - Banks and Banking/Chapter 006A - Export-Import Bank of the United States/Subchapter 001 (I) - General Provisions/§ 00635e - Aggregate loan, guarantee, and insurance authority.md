@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) during fiscal year 2005, $95,000,000,000; and
 
-&emsp;&emsp;(E) during fiscal year 2006, $100,000,000,000.
+&emsp;&emsp;(E) during fiscal year 2006, and each fiscal year thereafter through fiscal year 2011,<sup>1</sup>
 
 #### (3) Subject to appropriations
 
@@ -46,13 +46,15 @@
 
 &emsp;&emsp;The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title VI, §§615, 620(d), Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699.)
+(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title VI, §§615, 620(d), Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275.)
 
 #### Prior Provisions
 
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to section 635d of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “during fiscal year 2006, $100,000,000,000.”
 
 2002—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
@@ -62,7 +64,7 @@ A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is
 
 Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank.”
 
-1991—Subsec. (b). Pub. L. 102–145, §121(1), as added by Pub. L. 102–266, struck out subsec. (b) which read as follows: “After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of suchaggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination.”
+1991—Subsec. (b). Pub. L. 102–145, §121(1), as added by Pub. L. 102–266, struck out subsec. (b) which read as follows: “After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of such aggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination.”
 
 1986—Subsec. (a)(1). Pub. L. 99–472, §17, substituted “All spending and credit authority” for “All spending authority”.
 
@@ -101,4 +103,6 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 #### Effective Date of 1954 Amendment
 
 For effective date of amendment by act Aug. 9, 1954, see note set out under section 635a of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be followed by a dollar amount and a period.</i>
 

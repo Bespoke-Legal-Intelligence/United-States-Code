@@ -1,0 +1,144 @@
+### §300gg–45. Relief for high risk pools
+
+#### (a) Seed grants to States
+
+The Secretary shall provide from the funds appropriated under subsection (d)(1)(A) a grant of up to $1,000,000 to each State that has not created a qualified high risk pool as of February 10, 2006, for the State's costs of creation and initial operation of such a pool.
+
+#### (b) Grants for operational losses
+
+#### (1) In general
+
+&emsp;In the case of a State that has established a qualified high risk pool that—
+
+&emsp;&emsp;(A) restricts premiums charged under the pool to no more than 200 percent of the premium for applicable standard risk rates;
+
+&emsp;&emsp;(B) offers a choice of two or more coverage options through the pool; and
+
+&emsp;&emsp;(C) has in effect a mechanism reasonably designed to ensure continued funding of losses incurred by the State in connection with operation of the pool after the end of the last fiscal year for which a grant is provided under this paragraph;
+
+> &emsp;the Secretary shall provide, from the funds appropriated under paragraphs (1)(B)(i) and (2)(A) of subsection (d) and allotted to the State under paragraph (2), a grant for the losses incurred by the State in connection with the operation of the pool.
+
+#### (2) Allotment
+
+&emsp;Subject to paragraph (4), the amounts appropriated under paragraphs (1)(B)(i) and (2)(A) of subsection (d) for a fiscal year shall be allotted and made available to the States (or the entities that operate the high risk pool under applicable State law) that qualify for a grant under paragraph (1) as follows:
+
+&emsp;&emsp;(A) An amount equal to 40 percent of such appropriated amount for the fiscal year shall be allotted in equal amounts to each qualifying State that is one of the 50 States or the District of Columbia and that applies for a grant under this subsection.
+
+&emsp;&emsp;(B) An amount equal to 30 percent of such appropriated amount for the fiscal year shall be allotted among qualifying States that apply for such a grant so that the amount allotted to such a State bears the same ratio to such appropriated amount as the number of uninsured individuals in the State bears to the total number of uninsured individuals (as determined by the Secretary) in all qualifying States that so apply.
+
+&emsp;&emsp;(C) An amount equal to 30 percent of such appropriated amount for the fiscal year shall be allotted among qualifying States that apply for such a grant so that the amount allotted to a State bears the same ratio to such appropriated amount as the number of individuals enrolled in health care coverage through the qualified high risk pool of the State bears to the total number of individuals so enrolled through qualified high risk pools (as determined by the Secretary) in all qualifying States that so apply.
+
+#### (3) Special rule for pools charging higher premiums
+
+&emsp;In the case of a qualified high risk pool of a State which charges premiums that exceed 150 percent of the premium for applicable standard risks, the State shall use at least 50 percent of the amount of the grant provided to the State to carry out this subsection to reduce premiums for enrollees.
+
+#### (4) Limitation for territories
+
+&emsp;In no case shall the aggregate amount allotted and made available under paragraph (2) for a fiscal year to States that are not the 50 States or the District of Columbia exceed $1,000,000.
+
+#### (c) Bonus grants for supplemental consumer benefits
+
+#### (1) In general
+
+&emsp;In the case of a State that is one of the 50 States or the District of Columbia, that has established a qualified high risk pool, and that is receiving a grant under subsection (b)(1), the Secretary shall provide, from the funds appropriated under paragraphs (1)(B)(ii) and (2)(B) of subsection (d) and allotted to the State under paragraph (3), a grant to be used to provide supplemental consumer benefits to enrollees or potential enrollees (or defined subsets of such enrollees or potential enrollees) in qualified high risk pools.
+
+#### (2) Benefits
+
+&emsp;A State shall use amounts received under a grant under this subsection to provide one or more of the following benefits:
+
+&emsp;&emsp;(A) Low-income premium subsidies.
+
+&emsp;&emsp;(B) A reduction in premium trends, actual premiums, or other cost-sharing requirements.
+
+&emsp;&emsp;(C) An expansion or broadening of the pool of individuals eligible for coverage, such as through eliminating waiting lists, increasing enrollment caps, or providing flexibility in enrollment rules.
+
+&emsp;&emsp;(D) Less stringent rules, or additional waiver authority, with respect to coverage of pre-existing conditions.
+
+&emsp;&emsp;(E) Increased benefits.
+
+&emsp;&emsp;(F) The establishment of disease management programs.
+
+#### (3) Allotment; limitation
+
+&emsp;The Secretary shall allot funds appropriated under paragraphs (1)(B)(ii) and (2)(B) of subsection (d) among States qualifying for a grant under paragraph (1) in a manner specified by the Secretary, but in no case shall the amount so allotted to a State for a fiscal year exceed 10 percent of the funds so appropriated for the fiscal year.
+
+#### (4) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to prohibit a State that, on February 10, 2006, is in the process of implementing a program to provide benefits of the type described in paragraph (2), from being eligible for a grant under this subsection.
+
+#### (d) Funding
+
+#### (1) Appropriation for fiscal year 2006
+
+&emsp;There are authorized to be appropriated for fiscal year 2006—
+
+&emsp;&emsp;(A) $15,000,000 to carry out subsection (a); and
+
+&emsp;&emsp;(B) $75,000,000, of which, subject to paragraph (4)—
+
+&emsp;&emsp;&emsp;(i) two-thirds of the amount appropriated shall be made available for allotments under subsection (b)(2); and
+
+&emsp;&emsp;&emsp;(ii) one-third of the amount appropriated shall be made available for allotments under subsection (c)(3).
+
+#### (2) Authorization of appropriations for fiscal years 2007 through 2010
+
+&emsp;There are authorized to be appropriated $75,000,000 for each of fiscal years 2007 through 2010, of which, subject to paragraph (4)—
+
+&emsp;&emsp;(A) two-thirds of the amount appropriated for a fiscal year shall be made available for allotments under subsection (b)(2); and
+
+&emsp;&emsp;(B) one-third of the amount appropriated for a fiscal year shall be made available for allotments under subsection (c)(3).
+
+#### (3) Availability
+
+&emsp;Funds appropriated for purposes of carrying out this section for a fiscal year shall remain available for obligation through the end of the following fiscal year.
+
+#### (4) Reallotment
+
+&emsp;If, on June 30 of each fiscal year for which funds are appropriated under paragraph (1)(B) or (2), the Secretary determines that all the amounts so appropriated are not allotted or otherwise made available to States, such remaining amounts shall be allotted and made available under subsection (b) among States receiving grants under subsection (b) for the fiscal year based upon the allotment formula specified in such subsection.
+
+#### (5) No entitlement
+
+&emsp;Nothing in this section shall be construed as providing a State with an entitlement to a grant under this section.
+
+#### (e) Applications
+
+To be eligible for a grant under this section, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (f) Annual report
+
+The Secretary shall submit to Congress an annual report on grants provided under this section. Each such report shall include information on the distribution of such grants among States and the use of grant funds by States.
+
+#### (g) Definitions
+
+In this section:
+
+#### (1) Qualified high risk pool
+
+#### (A) <sup>1</sup> In general
+
+&emsp;&emsp;The term “qualified high risk pool” has the meaning given such term in section 300gg–44(c)(2) of this title, except that a State may elect to meet the requirement of subparagraph (A) of such section (insofar as it requires the provision of coverage to all eligible individuals) through providing for the enrollment of eligible individuals through an acceptable alternative mechanism (as defined for purposes of section 300gg–44 of this title) that includes a high risk pool as a component.
+
+#### (2) Standard risk rate
+
+&emsp;The term “standard risk rate” means a rate—
+
+&emsp;&emsp;(A) determined under the State high risk pool by considering the premium rates charged by other health insurers offering health insurance coverage to individuals in the insurance market served;
+
+&emsp;&emsp;(B) that is established using reasonable actuarial techniques; and
+
+&emsp;&emsp;(C) that reflects anticipated claims experience and expenses for the coverage involved.
+
+#### (3) State
+
+&emsp;The term “State” means any of the 50 States and the District of Columbia and includes Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+
+(July 1, 1944, ch. 373, title XXVII, §2745, as added Pub. L. 107–210, div. A, title II, §201(b), Aug. 6, 2002, 116 Stat. 959; amended Pub. L. 109–172, §2, Feb. 10, 2006, 120 Stat. 185.)
+
+#### Amendments
+
+2006—Pub. L. 109–172 amended section generally, substituting provisions relating to relief for high risk pools for provisions relating to promotion of qualified high risk pools.
+
+#### Construction
+
+Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
+

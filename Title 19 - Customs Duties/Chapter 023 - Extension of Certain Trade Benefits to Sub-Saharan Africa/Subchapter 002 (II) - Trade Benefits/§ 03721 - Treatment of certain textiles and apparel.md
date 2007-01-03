@@ -6,7 +6,7 @@ Textile and apparel articles described in subsection (b) of this section that ar
 
 #### (b) Products covered
 
-The preferential treatment described in subsection (a) of this section shall apply only to the following textile and apparel products:
+Subject to subsection (c), the preferential treatment described in subsection (a) of this section shall apply only to the following textile and apparel products:
 
 #### (1) Apparel articles assembled in one or more beneficiary sub-Saharan African countries
 
@@ -38,43 +38,7 @@ The preferential treatment described in subsection (a) of this section shall app
 
 &emsp;&emsp;&emsp;&emsp;(II) for each succeeding 1-year period until September 30, 2015, not to exceed 7 percent.
 
-#### (B) Special rule for lesser developed countries
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Preferential treatment under this paragraph shall be extended though September 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
-
-#### (ii) Applicable percentage
-
-&emsp;&emsp;&emsp;For purposes of the subparagraph, the term “applicable percentage” means—
-
-&emsp;&emsp;&emsp;&emsp;(I) 2.3571 percent for the 1-year period beginning October 1, 2003;
-
-&emsp;&emsp;&emsp;&emsp;(II) 2.6428 percent for the 1-year period beginning October 1, 2004;
-
-&emsp;&emsp;&emsp;&emsp;(III) 2.9285 percent for the 1-year period beginning October 1, 2005; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) 1.6071 percent for the 1-year period beginning October 1, 2006.
-
-#### (iii) Lesser developed beneficiary sub-Saharan African country
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “lesser developed beneficiary sub-Saharan African country” means—
-
-&emsp;&emsp;&emsp;&emsp;(I) a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 in 1998, as measured by the International Bank for Reconstruction and Development;
-
-&emsp;&emsp;&emsp;&emsp;(II) Botswana; and
-
-&emsp;&emsp;&emsp;&emsp;(III) Namibia.
-
-#### (iv) Separate limitation for Mauritius
-
-&emsp;&emsp;&emsp;For the 1-year period beginning October 1, 2004—
-
-&emsp;&emsp;&emsp;&emsp;(I) the term “lesser developed beneficiary sub-Saharan African country” includes Mauritius; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the applicable percentage with respect to Mauritius shall be 5 percent of the applicable percentage described in clause (ii)(II).
-
-#### (C) Surge mechanism
+#### (B) Surge mechanism
 
 #### (i) Import monitoring
 
@@ -82,7 +46,7 @@ The preferential treatment described in subsection (a) of this section shall app
 
 #### (ii) Determination of damage or threat thereof
 
-&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
+&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as tocause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
 
 #### (iii) Factors to consider
 
@@ -144,6 +108,10 @@ The preferential treatment described in subsection (a) of this section shall app
 
 &emsp;&emsp;&emsp;(v) the President has consulted with such committees regarding the proposed action during the period referred to in clause (iii).
 
+#### (C) Removal of designation of fabrics or yarns not available in commercial quantities
+
+&emsp;&emsp;If the President determines that any fabric or yarn was determined to be eligible for preferential treatment under subparagraph (A) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
+
 #### (6) Handloomed, handmade, folklore articles and ethnic printed fabrics
 
 #### (A) In general
@@ -170,7 +138,113 @@ The preferential treatment described in subsection (a) of this section shall app
 
 &emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States from components cut in the United States and one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, or from components knit-to-shape in the United States and one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States).
 
-#### (c) Treatment of quotas on textile and apparel imports from Kenya and Mauritius
+#### (8) Textile articles originating entirely in one or more lesser developed beneficiary sub-Saharan African countries
+
+&emsp;Textile and textile articles classifiable under chapters 50 through 60 or chapter 63 of the Harmonized Tariff Schedule of the United States that are products of a lesser developed beneficiary sub-Saharan African country and are wholly formed in one or more such countries from fibers, yarns, fabrics, fabric components, or components knit-to-shape that are the product of one or more such countries.
+
+#### (c) Lesser developed countries
+
+#### (1) Preferential treatment of products through September 30, 2012
+
+#### (A) Products covered
+
+&emsp;&emsp;In addition to the products described in subsection (b), and subject to paragraph (2), the preferential treatment described in subsection (a) shall apply through September 30, 2012, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
+
+#### (B) Applicable percentage
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means—
+
+&emsp;&emsp;&emsp;(i) 2.9285 percent for the 1-year period beginning on October 1, 2005; and
+
+&emsp;&emsp;&emsp;(ii) 3.5 percent for the 1-year period beginning on October 1, 2006, and each 1-year period thereafter through September 30, 2012.
+
+#### (2) Special rules for products in commercial quantities in Africa
+
+#### (A) Petition process
+
+&emsp;&emsp;Upon a petition filed by an interested party (which may include a foreign manufacturer), the Commission shall determine whether a fabric or yarn produced in beneficiary sub-Saharan African countries is available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries.
+
+#### (B) Effect of affirmative determination
+
+#### (i) Determination of quantity available
+
+&emsp;&emsp;&emsp;If the Commission determines under subparagraph (A) that a fabric or yarn produced in beneficiary sub-Saharan African countries is available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries, the Commission shall determine the quantity of the fabric or yarn that will be so available in lesser developed beneficiary sub-Saharan African countries in the applicable 1-year period beginning after the determination is made.
+
+#### (ii) Determinations
+
+&emsp;&emsp;&emsp;In each case in which the Commission determines that a fabric or yarn is available in commercial quantities under subparagraph (A) for an applicable 1-year period, the Commission shall determine, before the end of that applicable 1-year period—
+
+&emsp;&emsp;&emsp;&emsp;(I) whether the fabric or yarn produced in beneficiary sub-Saharan African countries will be available in commercial quantities in the succeeding applicable 1-year period; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if so, the quantity of the fabric or yarn that will be so available in that succeeding 1-year period, subject to clause (iii).
+
+#### (iii) Determination regarding imported articles
+
+&emsp;&emsp;&emsp;After the end of each applicable 1-year period for which a determination under clause (i) is in effect, the Commission shall determine to what extent the quantity of the fabric or yarn determined under clause (i) to be available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries was used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period. To the extent that the quantity so determined was not so used, then the Commission shall add to the quantity of that fabric or yarn determined to be available in the next applicable 1-year period the quantity not so used in the preceding applicable 1-year period.
+
+#### (C) Denim
+
+&emsp;&emsp;Denim articles provided for in subheading 5209.42.00 of the Harmonized Tariff Schedule of the United States shall be deemed to have been determined to be in abundant supply under subparagraph (A) in an amount of 30,000,000 square meter equivalents for the 1-year period beginning October 1, 2006.
+
+#### (D) Presidential authority to restrict imports
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the President may by proclamation provide that apparel articles otherwise eligible for preferential treatment under paragraph (1) that contain a fabric or yarn determined to be available in commercial quantities under subparagraph (A) may not receive such preferential treatment in an applicable 1-year period unless—
+
+&emsp;&emsp;&emsp;&emsp;(I) the fabric or yarn in such articles was produced in 1 or more beneficiary sub-Saharan African countries; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the Commission has determined that the quantity of the fabric or yarn determined under subparagraph (B) (or (C), as the case may be) to be available in lesser developed beneficiary sub-Saharan African countries for that applicable 1-year period has already been used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period.
+
+#### (ii) Mandatory restriction
+
+&emsp;&emsp;&emsp;If a fabric or yarn is determined to be available in commercial quantities under subparagraph (A) in an applicable 1-year period, and for 2 consecutive applicable 1-year periods the quantities determined to be so available are not used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered during those 2 applicable 1-year periods, then beginning in the succeeding applicable 1-year period, apparel articles containing that fabric or yarn are ineligible for preferential treatment under paragraph (1) in any succeeding applicable 1-year period unless the Commission has determined that the quantity of the fabric or yarn determined under subparagraph (B) (or (C), as the case may be) to be available in lesser developed beneficiary sub-Saharan African countries for that applicable 1-year period has already been used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period.
+
+#### (E) Procedures
+
+&emsp;&emsp;The Commission shall use the procedures prescribed in subsection (b)(3)(C)(iv) for the Secretary of Commerce in making determinations under this paragraph.
+
+#### (3) Removal of designation of fabrics or yarns not available in commercial quantities
+
+&emsp;If the President determines that—
+
+&emsp;&emsp;(A) any fabric or yarn described in paragraph (2)(A) was determined to be eligible for preferential treatment, or
+
+&emsp;&emsp;(B) any fabric or yarn described in paragraph (2)(B) was designated as not being available in commercial quantities,
+
+> &emsp;on the basis of fraud, the President may remove the eligibility or designation (as the case may be) of that fabric or yarn with respect to articles entered after such removal.
+
+#### (4) Applicability of other provisions
+
+&emsp;Subsection (b)(3)(C) applies to apparel articles eligible for preferential treatment under this subsection to the same extent as that subsection applies to apparel articles eligible for preferential treatment under subsection (b)(3).
+
+#### (5) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Applicable 1-year period
+
+&emsp;&emsp;The term “applicable 1-year period” means each of the 12-month periods beginning on October 1 of each year and ending on September 30 of the following year.
+
+#### (B) Commission
+
+&emsp;&emsp;The term “Commission” means the United States International Trade Commission.
+
+#### (C) Enter; entry
+
+&emsp;&emsp;The terms “enter” and “entry” refer to the entry, or withdrawal from warehouse for consumption, in the customs territory of the United States.
+
+#### (D) Lesser developed beneficiary sub-Saharan African country
+
+&emsp;&emsp;The term “lesser developed beneficiary sub-Saharan African country” means—
+
+&emsp;&emsp;&emsp;(i) a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 in 1998, as measured by the International Bank for Reconstruction and Development;
+
+&emsp;&emsp;&emsp;(ii) Botswana; and
+
+&emsp;&emsp;&emsp;(iii) Namibia.
+
+#### (d) Treatment of quotas on textile and apparel imports from Kenya and Mauritius
 
 The President shall eliminate the existing quotas on textile and apparel articles imported into the United States—
 
@@ -178,9 +252,9 @@ The President shall eliminate the existing quotas on textile and apparel article
 
 &emsp;(2) from Mauritius within 30 days after that country adopts such a visa system.
 
-> The Customs Service shall provide the necessary technical assistance to Kenya and Mauritius inthe development and implementation of the visa systems.
+> The Customs Service shall provide the necessary technical assistance to Kenya and Mauritius in the development and implementation of the visa systems.
 
-#### (d) Special rules
+#### (e) Special rules
 
 #### (1) Findings and trimmings
 
@@ -228,9 +302,9 @@ The President shall eliminate the existing quotas on textile and apparel article
 
 &emsp;&emsp;(G) elbow patches,
 
-> &emsp;that do not meet the requirements set forth in subsection (b) of this section, regardless of the country of origin of the item referred to in the applicable subparagraph of this paragraph.
+> &emsp;that do not meet the requirements set forth in subsections (b) and (c) of this section, regardless of the country of origin of the item referred to in the applicable subparagraph of this paragraph.
 
-#### (e) Definitions
+#### (f) Definitions
 
 In this section and section 3722 of this title:
 
@@ -248,21 +322,47 @@ In this section and section 3722 of this title:
 
 #### (4) Former sub-Saharan African country
 
-&emsp;The term “former <sup>2</sup> sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter <sup>3</sup>, ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
+&emsp;The term “former <sup>2</sup> sub-Saharan African country” means a country that, after beingdesignated as a beneficiary sub-Saharan African country under this chapter <sup>3</sup>, ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
 
-#### (f) Effective date
+#### (5) Enter; entered
 
-This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2008.
+&emsp;The terms “enter” and “entered” refer to the entry, or withdrawal from warehouse for consumption, in the customs territory of the United States.
 
-(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595.)
+#### (g) Effective date
+
+This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2015.
+
+(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1) to (4), (6), (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b)(1) to (4), (6), (7), (8) and (c)(2)(C), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-This chapter, referred to in subsec. (e)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
+This chapter, referred to in subsec. (f)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–432, §6002(a)(2)(A), substituted “Subject to subsection (c), the” for “The” in introductory provisions.
+
+Subsec. (b)(3)(B), (C). Pub. L. 109–432, §6002(a)(2)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
+
+Subsec. (b)(5)(C). Pub. L. 109–432, §6003(1), added subpar. (C).
+
+Subsec. (b)(8). Pub. L. 109–432, §6002(b), added par. (8).
+
+Subsecs. (c), (d). Pub. L. 109–432, §6002(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 109–432, §6002(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(3). Pub. L. 109–432, §6002(c), substituted “subsections (b) and (c)” for “subsection (b)” in concluding provisions.
+
+Subsec. (f). Pub. L. 109–432, §6002(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(5). Pub. L. 109–432, §6003(2), added par. (5).
+
+Subsec. (g). Pub. L. 109–432, §6004, substituted “2015” for “2008”.
+
+Pub. L. 109–432, §6002(a)(1), redesignated subsec. (f) as (g).
 
 2004—Subsec. (b)(1). Pub. L. 108–274, §7(b)(1), substituted “or both (including” for “(including”.
 
@@ -334,7 +434,7 @@ Pub. L. 107–210, div. C, title XXXI, §3108(b), Aug. 6, 2002, 116 Stat. 1039, 
 
 #### Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences
 
-Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the United States Trade Representative is authorized to determine whether Kenya and Mauritius have satisfied the requirements of section 3721(c) of this title, is directed to set forth the determination in a notice to be published in the Federal Register and to cause the existing quotas on textile and apparel articles imported into the United States from such country to be eliminated within 30 days after the determination, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the Harmonized Tariff Schedule of the United States.
+Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the United States Trade Representative is authorized to determine whether Kenya and Mauritius have satisfied the requirements of section 3721(c)\[d\] of this title, is directed to set forth the determination in a notice to be published in the Federal Register and to cause the existing quotas on textile and apparel articles imported into the United States from such country to be eliminated within 30 days after the determination, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the Harmonized Tariff Schedule of the United States.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ethnic”.</i>
 

@@ -36,9 +36,11 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 (3)(A) The Secretary concerned shall determine the appropriate portion of the acquisition costs to be borne by the United States in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B).
 
-(B) The portion of acquisition costs borne by the United States in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B) may not exceed an amount equal to the fair market value of any property or interest to be transferred to the United States upon the request of the Secretary concerned under paragraph (4).
+(B) In lieu of or in addition to making a monetary contribution toward the cost of acquiring a parcel of real property, or an interest therein, pursuant to an agreement under this section, the Secretary concerned may convey, using the authority provided by section 2869 of this title, real property described in paragraph (2) of subsection (a) of such section, subject to the limitation in paragraph (3) of such subsection.
 
-(C) The contribution of an entity or entities to the acquisition costs of real property, or an interest in real property, under paragraph (1)(B) may include, with the approval of the Secretary concerned, the following or any combination of the following:
+(C) The portion of acquisition costs borne by the United States under subparagraph (A), either through the contribution of funds or excess real property, or both, may not exceed an amount equal to the fair market value of any property or interest to be transferred to the United States upon the request of the Secretary concerned under paragraph (4).
+
+(D) The contribution of an entity or entities to the acquisition costs of real property, or an interest in real property, under paragraph (1)(B) may include, with the approval of the Secretary concerned, the following or any combination of the following:
 
 &emsp;(i) The provision of funds, including funds received by such entity or entities from a Federal agency outside the Department of Defense or a State or local government in connection with a Federal, State, or local program.
 
@@ -90,7 +92,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473.)
 
 #### Amendments
 
@@ -102,7 +104,9 @@ Subsec. (d)(1)(A). Pub. L. 109–163, §2822(a)(2)(A)(ii), inserted “or entiti
 
 Subsec. (d)(1)(B). Pub. L. 109–163, §2822(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “the sharing by the United States and the entity of the acquisition costs.”
 
-Subsec. (d)(3). Pub. L. 109–163, §2822(b)(3), added par. (3). Former par. (3) redesignated (4).
+Subsec. (d)(3). Pub. L. 109–364 added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and in subpar. (C) substituted “under subparagraph (A), either through the contribution of funds or excess real property, or both,” for “in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B)”.
+
+Pub. L. 109–163, §2822(b)(3), added par. (3). Former par. (3) redesignated (4).
 
 Pub. L. 109–163, §2822(a)(2)(B), inserted “or entities” after “the entity”.
 

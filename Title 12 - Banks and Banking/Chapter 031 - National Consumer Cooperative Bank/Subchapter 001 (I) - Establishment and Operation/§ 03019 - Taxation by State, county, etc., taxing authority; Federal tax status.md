@@ -28,5 +28,5 @@ Subchapter T of chapter 1 of title 26, referred to in subsec. (b), is set out as
 
 #### Effective Date of 1981 Amendment
 
-Section 392(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Section 392(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 

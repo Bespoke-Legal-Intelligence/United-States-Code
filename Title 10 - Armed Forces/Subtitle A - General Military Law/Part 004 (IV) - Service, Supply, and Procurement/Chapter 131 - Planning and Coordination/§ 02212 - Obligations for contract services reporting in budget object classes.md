@@ -30,7 +30,7 @@ Proper Classification of Advisory and Assistance Services.—Before the submissi
 
 (d)
 
-Report to Congress.—The Secretary shall submit to Congress each year, not later than 30days after the date on which the budget for the next fiscal year is submitted pursuant to section 1105 of title 31, a report containing the information derived from the review under subsection (c).
+Report to Congress.—The Secretary shall submit to Congress each year, not later than 30 days after the date on which the budget for the next fiscal year is submitted pursuant to section 1105 of title 31, a report containing the information derived from the review under subsection (c).
 
 (e)
 
@@ -50,7 +50,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “advisory and assistance services object class” means those contract services constituting the budget object class that is denominated “Advisory and Assistance Service” and designated (as of October 17, 1998) as Object Class 25.1 (or any similar object class established after October 17, 1998, for the reporting of obligations for advisory and assistance contract services).
 
-&emsp;(3) The term “miscellaneous services object class” means those contract services constituting the budget object class that is denominated “Other Services (services not otherwise specified in the 25 series)” and designated (as of October 17, 1998) as Object Class 25.2 (or any similar object class established after October 17, 1998, for the reporting of obligations for miscellaneous or unspecified contract services).
+&emsp;(3) The term “miscellaneous services object class” means those contract services constituting the budget object class that is denominated “Other Services (services not otherwise specified in the 25 series)” and designated (as of October 17, 1998) as Object Class25.2 (or any similar object class established after October 17, 1998, for the reporting of obligations for miscellaneous or unspecified contract services).
 
 &emsp;(4) The term “authorized exemptions” means those exemptions authorized (as of October 17, 1998) under Department of Defense Directive 4205.2, captioned “Acquiring and Managing Contracted Advisory and Assistance Services (CAAS)” and issued by the Under Secretary of Defense for Acquisition and Technology on February 10, 1992, such exemptions being set forth in Enclosure 3 to that directive (captioned “CAAS Exemptions”).
 
@@ -74,5 +74,5 @@ Reference to Under Secretary of Defense for Acquisition and Technology deemed to
 
 #### Transition
 
-Pub. L. 105–261, div. A, title IX, §911(b), Oct. 17, 1998, 112 Stat. 2099, provided that: “For the budget for fiscal year 2000, and the reporting of information to the Office of Management and Budget in connection with the preparation of that budget, section 2212 of title 10, United States Code, as added by subsection (a), shall be applied by substituting ‘30 percent’ in subsection (a) for ‘15 percent’.”
+Pub. L. 105–261, div. A, title IX, §911(b), Oct. 17, 1998, 112 Stat. 2099, provided that for the budget for fiscal year 2000, and the reporting of information to the Office of Management and Budget in connection with the preparation of that budget, this section would be applied by substituting “30 percent” in subsec. (a) for “15 percent”.
 

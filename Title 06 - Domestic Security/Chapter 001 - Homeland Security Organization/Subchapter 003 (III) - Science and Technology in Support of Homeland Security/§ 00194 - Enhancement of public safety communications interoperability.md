@@ -4,7 +4,7 @@
 
 #### (1) Program
 
-&emsp;The Secretary of Homeland Security, in consultation with the Secretary of Commerce andthe Chairman of the Federal Communications Commission, shall establish a program to enhance public safety interoperable communications at all levels of government. Such program shall—
+&emsp;The Secretary of Homeland Security, in consultation with the Secretary of Commerce and the Chairman of the Federal Communications Commission, shall establish a program to enhance public safety interoperable communications at all levels of government. Such program shall—
 
 &emsp;&emsp;(A) establish a comprehensive national approach to achieving public safety interoperable communications;
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) carry out Department of Homeland Security responsibilities and authorities relating to the SAFECOM Program; and
 
-&emsp;&emsp;&emsp;(ii) carry out section 321 of this title.
+&emsp;&emsp;&emsp;(ii) carry out section 321 <sup>1</sup> of this title.
 
 #### (3) Authorization of appropriations
 
@@ -102,7 +102,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 #### (B) Schedule
 
-&emsp;&emsp;A letter of intent under this paragraph shall establish a schedule under which theSecretary will reimburse the applicant for the Federal Government's share of the project's costs, as amounts become available, if the applicant, after the Secretary issues the letter, carries out the project before receiving amounts under a grant issued by the Secretary.
+&emsp;&emsp;A letter of intent under this paragraph shall establish a schedule under which the Secretary will reimburse the applicant for the Federal Government's share of the project's costs, as amounts become available, if the applicant, after the Secretary issues the letter, carries out the project before receiving amounts under a grant issued by the Secretary.
 
 #### (C) Notice to Secretary
 
@@ -120,7 +120,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 &emsp;&emsp;Nothing in this subsection shall be construed—
 
-&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued; or
+&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under thissubsection in the same fiscal year as the letter of intent is issued; or
 
 &emsp;&emsp;&emsp;(ii) to apply to, or replace, Federal assistance intended for interoperable communications that is not provided pursuant to a commitment under this subsection.
 
@@ -168,6 +168,10 @@ In this section:
 
 (Pub. L. 108–458, title VII, §7303, Dec. 17, 2004, 118 Stat. 3843.)
 
+#### References in Text
+
+Section 321 of this title, referred to in subsec. (a)(2)(B)(ii), was in the original a reference to section 510 of the Homeland Security Act of 2002, as added by section 7303(d) of Pub. L. 108–458, which was repealed by Pub. L. 109–295, title VI, §611(5), Oct. 4, 2006, 120 Stat. 1395.
+
 #### Codification
 
 Section is comprised of section 7303 of Pub. L. 108–458. Subsec. (d) of section 7303 of Pub. L. 108–458 enacted section 321 of this title. Subsec. (h) of section 7303 of Pub. L. 108–458 amended sections 238 and 312 of this title.
@@ -178,43 +182,13 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 Pub. L. 108–458, title VII, §7308, Dec. 17, 2004, 118 Stat. 3849, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle C (§§7301–7308) of title VII of Pub. L. 108–458, enacting this section and section 321 of this title, amending sections 238 and 312 of this title, and enacting provisions set out as notes under this section and section 5196 of Title 42, The Public Health and Welfare\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
 
+#### Transfer of Functions
+
+For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Director for Emergency Communications, see section 571(d)(1) of this title.
+
 #### Regional Model Strategic Plan Pilot Projects
 
-Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, provided that:
+Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, directed the Secretary of Homeland Security, not later than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan to foster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
 
-“(a)
-
-Pilot Projects.—Consistent with sections 302 and 430 of the Homeland Security Act of 2002 (6 U.S.C. 182, 238), not later than 90 days after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall establish not fewer than 2 pilot projects in high threat urban areas or regions that are likely to implement a national model strategic plan.
-
-“(b)
-
-Purposes.—The purposes of the pilot projects required by this section shall be to develop a regional strategic plan to foster interagency communication in the area in which it is established and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security.
-
-“(c)
-
-Selection Criteria.—In selecting urban areas for the location of pilot projects under this section, the Secretary shall consider—
-
-&emsp;“(1) the level of risk to the area, as determined by the Department of Homeland Security;
-
-&emsp;“(2) the number of Federal, State, and local law enforcement agencies located in the area;
-
-&emsp;“(3) the number of potential victims from a large scale terrorist attack in the area; and
-
-&emsp;“(4) such other criteria reflecting a community's risk and vulnerability as the Secretary determines is appropriate.
-
-“(d)
-
-Interagency Assistance.—The Secretary of Homeland Security shall consult with the Secretary of Defense as necessary for the development of the pilot projects required by this section, including examining relevant standards, equipment, and protocols in order to improve interagency communication among first responders.
-
-“(e)
-
-Reports to Congress.—The Secretary of Homeland Security shall submit to Congress—
-
-&emsp;“(1) an interim report regarding the progress of the interagency communications pilot projects required by this section 6 months after the date of enactment of this Act \[Dec. 17, 2004\]; and
-
-&emsp;“(2) a final report 18 months after that date of enactment \[Dec. 17, 2004\].
-
-“(f)
-
-Funding.—There are authorized to be made available to the Secretary of Homeland Security, such sums as may be necessary to carry out this section.”
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

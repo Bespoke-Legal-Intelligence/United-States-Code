@@ -92,7 +92,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 #### (4) Limitation on operation of laboratories
 
-&emsp;No laboratory shall begin operating as the headquarters laboratory of the Department until at least 30 days after the transmittal of the report required by paragraph (3)(E).
+&emsp;No laboratory shall begin operating as the headquarters laboratory of the Departmentuntil at least 30 days after the transmittal of the report required by paragraph (3)(E).
 
 (Pub. L. 107–296, title III, §308, Nov. 25, 2002, 116 Stat. 2170; Pub. L. 108–7, div. L, §101(1), Feb. 20, 2003, 117 Stat. 526.)
 

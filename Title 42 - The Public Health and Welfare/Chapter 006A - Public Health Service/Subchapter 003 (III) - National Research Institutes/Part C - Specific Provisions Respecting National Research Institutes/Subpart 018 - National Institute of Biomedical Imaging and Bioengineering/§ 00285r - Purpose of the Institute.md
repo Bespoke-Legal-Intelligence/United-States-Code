@@ -48,17 +48,15 @@ The establishment under section 284a of this title of an advisory council for th
 
 &emsp;(3) In addition to the ex officio members specified in section 284a(b)(2) of this title, the ex officio members of the advisory council shall include the Director of the Centers for Disease Control and Prevention, the Director of the National Science Foundation, and the Director of the National Institute of Standards and Technology (or the designees of such officers).
 
-#### (d) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §464z, as added Pub. L. 106–580, §3(a), Dec. 29, 2000, 114 Stat. 3089; amended Pub. L. 109–482, title I, §103(b)(37), Jan. 15, 2007, 120 Stat. 3688.)
 
-(1) Subject to paragraph (2), for the purpose of carrying out this section:
+#### Amendments
 
-&emsp;(A) For fiscal year 2001, there is authorized to be appropriated an amount equal to the amount obligated by the National Institutes of Health during fiscal year 2000 for biomedical imaging and bioengineering, except that such amount shall be adjusted to offset any inflation occurring after October 1, 1999.
+2007—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to appropriations for fiscal years 2001 to 2003.
 
-&emsp;(B) For each of the fiscal years 2002 and 2003, there is authorized to be appropriated an amount equal to the amount appropriated under subparagraph (A) for fiscal year 2001, except that such amount shall be adjusted for the fiscal year involved to offset any inflation occurring after October 1, 2000.
+#### Effective Date of 2007 Amendment
 
-(2) The authorization of appropriations for a fiscal year under paragraph (1) is hereby reduced by the amount of any appropriation made for such year for the conduct or support by any other national research institute of any program with respect to biomedical imaging and bioengineering.
-
-(July 1, 1944, ch. 373, title IV, §464z, as added Pub. L. 106–580, §3(a), Dec. 29, 2000, 114 Stat. 3089.)
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date
 

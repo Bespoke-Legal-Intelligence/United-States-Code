@@ -74,25 +74,25 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(II) appoint the members of the Board in accordance with subparagraph (C).
 
-&emsp;(ii) Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.
+&emsp;(ii) Upon the appointment of the appointed members of the Board under clause (i)(II), the terms of service as members of the Board of the ex officio members of the Board described in clauses (i) and (ii) of subparagraph (B) shall terminate. The ex officio members of the Board described in clauses (iii) and (iv) of subparagraph (B) shall continue to serve as ex officio members of the Board.
 
 &emsp;(E) The agreement of not less than three-fifths of the members of the ex officio members of the Board shall be required for the appointment of each member to the initial Board.
 
 &emsp;(F) No employee of the National Institutes of Health shall be appointed as a member of the Board.
 
-&emsp;(G) The Board may, through amendments to the bylaws of the Foundation, provide that the number of members of the Board shall be greater than the number specified in subparagraph (C).
+&emsp;(G) The Board may, through amendments to the bylaws of the Foundation, provide that the number of appointed members of the Board shall be greater than the number specified in subparagraph (C).
 
 #### (2) Chair
 
 &emsp;(A) The ex officio members of the Board under paragraph (1)(B) shall designate an individual to serve as the initial Chair of the Board.
 
-&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect a member of the Board to serve as the Chair of the Board.
+&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect amember of the Board to serve as the Chair of the Board.
 
 #### (3) Terms and vacancies
 
 &emsp;(A) The term of office of each member of the Board appointed under paragraph (1)(C) shall be 5 years, except that the terms of offices for the initial appointed members of the Board shall expire as determined by the ex officio members and the Chair.
 
-&emsp;(B) Any vacancy in the membership of the Board shall be filled in the manner in which the original position was made and shall not affect the power of the remaining members to execute the duties of the Board.
+&emsp;(B) Any vacancy in the membership of the appointed members of the Board shall be filled in accordance with the bylaws of the Foundation established in accordance with paragraph (6), and shall not affect the power of the remaining appointed members to execute the duties of the Board.
 
 &emsp;(C) If a member of the Board does not serve the full term applicable under subparagraph (A), the individual appointed to fill the resulting vacancy shall be appointed for the remainder of the term of the predecessor of the individual.
 
@@ -104,7 +104,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (5) Meetings and quorum
 
-&emsp;A majority of the members of the Board shall constitute a quorum for purposes of conducting the business of the Board.
+&emsp;A majority of the appointed members of the Board shall constitute a quorum for purposes of conducting the business of the Board.
 
 #### (6) Certain bylaws
 
@@ -188,7 +188,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (2) Financial conflicts of interest
 
-&emsp;Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(2)(B)(i)(II)) <sup>1</sup> personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
+&emsp;Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
 
 #### (3) Audits; availability of records
 
@@ -200,11 +200,15 @@ No participant in the program established under this part shall exercise any adm
 
 #### (4) Reports
 
-&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation.
+&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts transferred under subsection (<i>l</i>).
 
 &emsp;(B) With respect to the financial condition of the Foundation, each report under subparagraph (A) shall include the source, and a description of, all gifts or grants to the Foundation of real or personal property, and the source and amount of all gifts or grants to the Foundation of money. Each such report shall include a specification of any restrictions on the purposes for which gifts or grants to the Foundation may be used.
 
-&emsp;(C) The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
+&emsp;(C) The Foundation shall make copies of each report submitted under subparagraph (A) available—
+
+&emsp;&emsp;(i) for public inspection, and shall upon request provide a copy of the report to any individual for a charge that shall not exceed the cost of providing the copy; and
+
+&emsp;&emsp;(ii) to the appropriate committees of Congress.
 
 &emsp;(D) The Board shall annually hold a public meeting to summarize the activities of the Foundation and distribute written reports concerning such activities and the scientific results derived from such activities.
 
@@ -222,7 +226,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>1</sup>
 
 #### (9) Limitation of activities
 
@@ -258,7 +262,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (10) Transfer of funds
 
-&emsp;The Foundation may transfer funds to the National Institutes of Health. Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.
+&emsp;The Foundation may transfer funds to the National Institutes of Health and the National Institutes of Health may accept transfers of funds from the Foundation. Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.
 
 #### (k) Duties of Director
 
@@ -272,15 +276,9 @@ No participant in the program established under this part shall exercise any adm
 
 #### (<i>l</i>) Funding
 
-#### (1) Authorization of appropriations
+From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
 
-&emsp;For the purpose of carrying out this part, there is authorized to be appropriated an aggregate $500,000 for each fiscal year.
-
-#### (2) Limitation regarding other funds
-
-&emsp;Amounts appropriated under any provision of law other than paragraph (1) may not be expended to establish or operate the Foundation.
-
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696.)
 
 #### References in Text
 
@@ -293,6 +291,24 @@ The National Institutes of Health Amendments of 1990, referred to in subsec. (j)
 A prior section 499 of act July 1, 1944, was classified to section 289h of this title prior to repeal by Pub. L. 103–43.
 
 #### Amendments
+
+2007—Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
+
+Subsec. (d)(1)(G). Pub. L. 109–482, §107(1)(A)(ii), inserted “appointed” after “that the number of”.
+
+Subsec. (d)(3)(B). Pub. L. 109–482, §107(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any vacancy in the membership of the Board shall be filled in the manner in which the original position was made and shall not affect the power of the remaining members to execute the duties of the Board.”
+
+Subsec. (d)(5). Pub. L. 109–482, §107(1)(C), inserted “appointed” after “majority of the”.
+
+Subsec. (j)(2). Pub. L. 109–482, §107(2)(A), substituted “subsection (d)(6)” for “subsection (d)(2)(B)(i)(II)”.
+
+Subsec. (j)(4)(A). Pub. L. 109–482, §107(2)(B)(i), inserted “, including an accounting of the use of amounts transferred under subsection (<i>l</i>)” before period at end.
+
+Subsec. (j)(4)(C). Pub. L. 109–482, §107(2)(B)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
+
+Subsec. (j)(10). Pub. L. 109–482, §107(2)(C), substituted “of Health and the National Institutes of Health may accept transfers of funds from the Foundation” for “of Health”.
+
+Subsec. (<i>l</i>). Pub. L. 109–482, §107(3), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to authorization of appropriations and limitation regarding other funds.
 
 2002—Subsec. (b). Pub. L. 107–109, §13(1), inserted “(including collection of funds for pediatric pharmacologic research)” after “mission”.
 
@@ -419,6 +435,10 @@ Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted “5” for “
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1992 Amendment
 

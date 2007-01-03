@@ -10,10 +10,6 @@ The Commission is hereby directed to refuse a station license and/or the permit 
 
 (June 19, 1934, ch. 652, title III, §313, 48 Stat. 1087; Pub. L. 86–752, §5(b), Sept. 13, 1960, 74 Stat. 893.)
 
-#### References in Text
-
-All laws of the United States relating to unlawful restraints and monopolies and to combinations, contracts, or agreements in restraint of trade, referred to in subsec. (a), mean the antitrust laws which are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-
 #### Amendments
 
 1960—Pub. L. 86–752 designated existing provisions as subsec. (a) and added subsec. (b).

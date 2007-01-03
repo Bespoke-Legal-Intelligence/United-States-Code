@@ -6,7 +6,7 @@
 
 (2) An injunction under this subsection does not affect a lien under section 3542(b)(1) of this title. The United States Government is not required to answer in a civil action brought under this subsection.
 
-(3) If the court dissolves the injunction on a finding that the civil action for the injunction was brought only for delay, the court may increase the interest rate imposed on amounts found due against the complainant to not more than 10 percent a year. The judge may grant or dissolve an injunction under this subsection either in or out of court.
+(3) If the court dissolves the injunction on a finding that the civil action for the injunction was brought only for delay, the court may increase the interest rate imposed on amounts found due against the complainant to not more than 10 percent a year. The judge may grant ordissolve an injunction under this subsection either in or out of court.
 
 (c) A person adversely affected by a refusal to grant an injunction or by dissolving an injunction under subsection (b) of this section may petition a judge of a circuit court of appeals in which the district is located or the Supreme Court justice allotted to that circuit by giving the judge or justice a copy of the proceeding held before the district judge. The judge or justice may grant an injunction or allow an appeal if the judge or justice finds the case requires it.
 

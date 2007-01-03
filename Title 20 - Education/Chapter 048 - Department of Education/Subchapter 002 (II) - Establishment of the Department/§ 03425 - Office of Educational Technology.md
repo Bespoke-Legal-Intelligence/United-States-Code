@@ -18,7 +18,7 @@ The Director of the Office of Educational Technology (hereafter in this section 
 
 #### (c) Officers and employees
 
-The Director is authorized to select, appoint, and employ such officers and employees as may be necessary to carry out the functions of the Office, subject to the provisions of title 5 (governing appointments in the competitive service), and the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
+The Director is authorized to select, appoint, and employ such officers and employees as may be necessary to carry out the functions of theOffice, subject to the provisions of title 5 (governing appointments in the competitive service), and the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
 
 #### (d) Experts and consultants
 

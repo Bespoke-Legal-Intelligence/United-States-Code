@@ -42,7 +42,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(7) coordinate Federal policy with respect to the provision of treatment services for substance abuse utilizing anti-addiction medications, including methadone;
 
-&emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agencyfor Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
+&emsp;(8) conduct programs, and assure the coordination of such programs with activities of theNational Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
 
 &emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
 
@@ -156,7 +156,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (1) In general
 
-&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications. Such experts and consultants shall be obtained for the Administration and for each of its agencies.
+&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications.Such experts and consultants shall be obtained for the Administration and for each of its agencies.
 
 #### (2) Compensation and expenses
 

@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction of courts
 
-The district courts of the United States and the United States courts of the Territories shall have jurisdiction, for cause shown <sup>1</sup> to restrainviolations of section 331 of this title, except paragraphs (h), (i), and (j).
+The district courts of the United States and the United States courts of the Territories shall have jurisdiction, for cause shown <sup>1</sup> to restrain violations of section 331 of this title, except paragraphs (h), (i), and (j).
 
 #### (b) Violation of injunction
 

@@ -32,7 +32,7 @@
 
 (c) The Office of Personnel Management may prescribe regulations, subject to the approval of the President, necessary for the administration of this section insofar as this section affects employees in or under an Executive agency.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 514; Pub. L. 90–83, §1(43), Sept. 11, 1967, 81 Stat. 207; Pub. L. 92–392, §6, Aug. 19, 1972, 86 Stat. 573; Pub. L. 94–183, §2(25), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 514; Pub. L. 90–83, §1(43), Sept. 11, 1967, 81 Stat. 207; Pub. L.92–392, §6, Aug. 19, 1972, 86 Stat. 573; Pub. L. 94–183, §2(25), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 Historical and Revision Notes<br>1966
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–221, §1, July 23, 1982, 96 Stat. 227, provided: “That this Act \[enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section andsection 6106 of this title\] may be cited as the ‘Federal Employees Flexible and Compressed Work Schedules Act of 1982’.”
+Pub. L. 97–221, §1, July 23, 1982, 96 Stat. 227, provided: “That this Act \[enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and section 6106 of this title\] may be cited as the ‘Federal Employees Flexible and Compressed Work Schedules Act of 1982’.”
 
 #### Delegation of Functions
 
@@ -214,7 +214,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 &emsp;“(1) any experiment under subsection (a) of this section may be terminated by the Commission if it determines that the experiment is not in the best interest of the public, the Government, or the employees; or
 
-&emsp;“(2) if the head of an agency determines that any organization within the agency which is participatingin an experiment under subsection (a) is being substantially disrupted in carrying out its functions or is incurring additional costs because of such participation, such agency head may—
+&emsp;“(2) if the head of an agency determines that any organization within the agency which is participating in an experiment under subsection (a) is being substantially disrupted in carrying out its functions or is incurring additional costs because of such participation, such agency head may—
 
 &emsp;&emsp;“(A) restrict the employees’ choice of arrival and departure time,
 
@@ -228,7 +228,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “Sec. 103. (a) For purposes of determining compensation for overtime hours in the case of an employee participating in an experiment under section 102—
 
-&emsp;“(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1), 5544(a), and 5550 of title 5, United States Code, section 4107(e)(5) of title 38, United States Code section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], or any other provision of law; or
+&emsp;“(1) the head of an agency may, on request of the employee, grant the employee compensatory time offin lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1), 5544(a), and 5550 of title 5, United States Code, section 4107(e)(5) of title 38, United States Code section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], or any other provision of law; or
 
 &emsp;“(2) the employee shall be compensated for such overtime hours in accordance with such provisions, as applicable.
 

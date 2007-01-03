@@ -86,7 +86,7 @@ Unless the director of the designated State unit and the chairperson of the Coun
 
 &emsp;(2) The director of the designated State unit shall provide for a cost-of-living increase for such existing centers for independent living.
 
-&emsp;(3) The director of the designated State unit shall fund new centers for independent living,as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;(3) The director of the designated State unit shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (f) Nonresidential agencies
 

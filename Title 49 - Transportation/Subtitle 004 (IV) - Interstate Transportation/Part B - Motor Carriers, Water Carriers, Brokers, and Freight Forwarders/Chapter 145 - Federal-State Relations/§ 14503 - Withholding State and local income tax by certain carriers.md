@@ -30,7 +30,7 @@ Water carriers.—A water carrier providing transportation subject to jurisdicti
 
 &emsp;(3)
 
-Applicability to sailors.—This subsection applies to pay of a master, officer, or sailor who is a member of the crew on a vesselengaged in foreign, coastwise, intercoastal, or noncontiguous trade or in the fisheries of the United States.
+Applicability to sailors.—This subsection applies to pay of a master, officer, or sailor who is a member of the crew on a vessel engaged in foreign, coastwise, intercoastal, or noncontiguous trade or in the fisheries of the United States.
 
 (c)
 

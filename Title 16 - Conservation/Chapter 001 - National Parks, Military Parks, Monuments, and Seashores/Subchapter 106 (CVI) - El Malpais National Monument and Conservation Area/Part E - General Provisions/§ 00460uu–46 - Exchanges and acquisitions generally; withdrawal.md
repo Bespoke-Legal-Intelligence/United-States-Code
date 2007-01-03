@@ -24,7 +24,7 @@ The acreages cited in this subchapter are approximate, and in the event of discr
 
 #### (f) Acceptance of lands proposed for donation
 
-The Secretary is authorized to accept any lands contiguous to the boundaries of the Pecos National Monument (as such boundaries were established on December 31, 1987) which may be proposed for donation to the United States. If acceptance of such lands proposed for donation would be in furtherance of the purposes for which the Pecos National Monument was established, the Secretary shall accept such lands, and upon such acceptance such lands shall be incorporated into such monument and managed accordingly.
+The Secretary is authorized to accept any lands contiguous to the boundaries of the Pecos National Monument (as such boundaries were established on December 31, 1987) which may be proposed for donation to the United States. Ifacceptance of such lands proposed for donation would be in furtherance of the purposes for which the Pecos National Monument was established, the Secretary shall accept such lands, and upon such acceptance such lands shall be incorporated into such monument and managed accordingly.
 
 #### (g) Redesignation and revision of boundaries of Capulin Mountain National Monument
 
@@ -40,7 +40,7 @@ The Secretary is authorized to accept any lands contiguous to the boundaries of 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21,1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The public land laws, referred to in subsec. (d)(2), are classified generally to Title 43.
 

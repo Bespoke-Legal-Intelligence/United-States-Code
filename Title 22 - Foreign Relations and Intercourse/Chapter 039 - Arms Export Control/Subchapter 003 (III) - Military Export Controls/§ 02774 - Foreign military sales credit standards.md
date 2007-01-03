@@ -1,6 +1,6 @@
 ### §2774. Foreign military sales credit standards
 
-The President shall establish standards and criteria for credit and guaranty transactionsunder sections 2763 and 2764 of this title in accordance with the foreign, national security, and financial policies of the United States.
+The President shall establish standards and criteria for credit and guaranty transactions under sections 2763 and 2764 of this title in accordance with the foreign, national security, and financial policies of the United States.
 
 (Pub. L. 90–629, ch. 3, §34, Oct. 22, 1968, 82 Stat. 1325.)
 

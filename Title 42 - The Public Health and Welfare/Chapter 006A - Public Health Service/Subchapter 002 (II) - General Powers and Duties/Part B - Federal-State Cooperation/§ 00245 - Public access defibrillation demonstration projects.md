@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribalorganizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
+The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribal organizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
 
 &emsp;(1) provide cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in unique settings;
 
@@ -46,7 +46,7 @@ A recipient of a grant under subsection (a) of this section shall use the funds 
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2002 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
+There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscalyears 2002 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
 
 (July 1, 1944, ch. 373, title III, §313, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 636.)
 

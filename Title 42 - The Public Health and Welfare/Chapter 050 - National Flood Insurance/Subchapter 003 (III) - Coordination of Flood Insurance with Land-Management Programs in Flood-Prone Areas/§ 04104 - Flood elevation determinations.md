@@ -10,11 +10,11 @@ The Director shall publish notification of flood elevation determinations in a p
 
 #### (c) Appeals by private persons; submission of negativing or contradicting data to community; opinion of community respecting justification for appeal by community; transmission of individual appeals to Director; filing of community action with Director
 
-Appeals by private persons shall be made to the chief executive officer of the community, or to such agency as he shall publicly designate, and shall set forth the data that tend to negate or contradict the Director's finding in such form as the chief executive officer may specify. The community shall review and consolidate all such appeals and issue a written opinion stating whether the evidence presented is sufficient to justify an appeal on behalf of such persons by the community in its own name. Whether or not the community decides to appeal the Director's determination, copies of individual appeals shall be sent to the Director as they are received by the community, and the community's appeal or a copy of its decision not to appeal shall be filed with the Director not later than ninety days after the date of the second newspaper publication of the Director's notification.
+Appeals by private persons shall be made to the chief executive officer of the community, or to such agency as he shall publicly designate, and shall set forth the data that tend to negateor contradict the Director's finding in such form as the chief executive officer may specify. The community shall review and consolidate all such appeals and issue a written opinion stating whether the evidence presented is sufficient to justify an appeal on behalf of such persons by the community in its own name. Whether or not the community decides to appeal the Director's determination, copies of individual appeals shall be sent to the Director as they are received by the community, and the community's appeal or a copy of its decision not to appeal shall be filed with the Director not later than ninety days after the date of the second newspaper publication of the Director's notification.
 
 #### (d) Administrative review of appeals by private persons; modification of proposed determinations; decision of Director: form and distribution
 
-In the event the Director does not receive an appeal from the community within the ninety days provided, he shall consolidate and review on their own merits, in accordance with the procedures set forth in subsection (e) of this section, the appeals filed within the community by private persons and shall make such modifications of his proposed determinations as may be appropriate, taking into account the written opinion, if any, issued by the community in not supporting such appeals. The Director's decision shall be in written form, and copies thereof shallbe sent both to the chief executive officer of the community and to each individual appellant.
+In the event the Director does not receive an appeal from the community within the ninety days provided, he shall consolidate and review on their own merits, in accordance with the procedures set forth in subsection (e) of this section, the appeals filed within the community by private persons and shall make such modifications of his proposed determinations as may be appropriate, taking into account the written opinion, if any, issued by the community in not supporting such appeals. The Director's decision shall be in written form, and copies thereof shall be sent both to the chief executive officer of the community and to each individual appellant.
 
 #### (e) Administrative review of appeals by community; agencies for resolution of conflicting data; availability of flood insurance pending such resolution; time for determination of Director; community adoption of local land use and control measures within reasonable time of final determination; public inspection and admissibility in evidence of reports and other administrative information
 
@@ -30,6 +30,10 @@ Any appellant aggrieved by any final determination of the Director upon administ
 
 (Pub. L. 90–448, title XIII, §1363, as added Pub. L. 93–234, title I, §110, Dec. 31, 1973, 87 Stat. 980; amended Pub. L. 95–128, title VII, §704(c), Oct. 12, 1977, 91 Stat. 1146; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (g), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
 #### Amendments
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” and “Director's” for “Secretary's” wherever appearing.
@@ -38,5 +42,7 @@ Any appellant aggrieved by any final determination of the Director upon administ
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -1,0 +1,22 @@
+### §51305. Prohibited basis for appointment
+
+Preference may not be given to an individual for appointment as a cadet at the United StatesMerchant Marine Academy because one or more members of the individual's immediate family are alumni of the Academy.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+51305
+
+46 App.:1295b(b) (3)(E).
+
+June 29, 1936, ch. 858, title XIII, §1303(b)(3)(E), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1999.
+

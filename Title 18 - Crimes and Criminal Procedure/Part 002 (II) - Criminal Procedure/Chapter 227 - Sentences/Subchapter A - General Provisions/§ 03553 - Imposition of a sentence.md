@@ -42,15 +42,17 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 Application of Guidelines in Imposing a Sentence.—
 
-#### (1) In general
+&emsp;(1)
 
-&emsp;Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
+In general.—Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
 
-#### (2) Child crimes and sexual offenses
+&emsp;(2)
 
-#### (A) <sup>2</sup> Sentencing
+Child crimes and sexual offenses.—
 
-&emsp;&emsp;In sentencing a defendant convicted of an offense under section 1201 involving a minor victim, an offense under section 1591, or an offense under chapter 71, 109A, 110, or 117, the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless—
+&emsp;&emsp;(A) <sup>2</sup>
+
+Sentencing.—In sentencing a defendant convicted of an offense under section 1201 involving a minor victim, an offense under section 1591, or an offense under chapter 71, 109A, 110, or 117, the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless—
 
 &emsp;&emsp;&emsp;(i) the court finds that there exists an aggravating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence greater than that described;
 
@@ -72,9 +74,9 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 &emsp;(1) is of the kind, and within the range, described in subsection (a)(4), and that range exceeds 24 months, the reason for imposing a sentence at a particular point within the range; or
 
-&emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
+&emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in the written orderof judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
 
-> If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgment and commitment, to the Probation System andto the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
+> If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgment and commitment, to the Probation System and to the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
 
 (d)
 
@@ -126,7 +128,7 @@ Subsec. (b). Pub. L. 108–21, §401(a), designated existing provisions as par. 
 
 Subsec. (c). Pub. L. 108–21, §401(c)(2), (3), in concluding provisions, inserted “, together with the order of judgment and commitment,” after “the court's statement of reasons” and “and to the Sentencing Commission,” after “to the Probation System”.
 
-Subsec. (c)(2). Pub. L. 108–21, §401(c)(1), substituted “described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements wereso received and that it relied upon the content of such statements” for “described”.
+Subsec. (c)(2). Pub. L. 108–21, §401(c)(1), substituted “described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements” for “described”.
 
 2002—Subsec. (e). Pub. L. 107–273 inserted “a” before “minimum sentence”.
 

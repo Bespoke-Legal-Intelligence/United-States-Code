@@ -10,7 +10,7 @@ For the purposes of this subchapter, the term “eligible bidder” means a pers
 
 #### (c) Acquisition of capital stock of property covered by mortgage
 
-Notwithstanding any other provision of law, the Secretary of Defense or his designee is authorized to acquire the capital stock of mortgagors holding property covered by a mortgage insured under title VIII of the National Housing Act as amended by the Housing Amendments of 1955 \[12 U.S.C. 1748 et seq.\], and to exercise the rights as holder of such capital stock during the life of such mortgage and, upon the termination of the mortgage, to dissolve the corporation; to guarantee the payment of notes or other legalinstruments required by the Secretary of Housing and Urban Development of such mortgagors; to make payments thereon; and to guarantee and indemnify the Armed Services Housing Mortgage Insurance Fund against loss in cases where so required. All housing facilities placed under the control of the Secretary of Defense pursuant to the provisions of this subchapter shall be deemed to be housing facilities under the jurisdiction of the military department to which they are assigned.
+Notwithstanding any other provision of law, the Secretary of Defense or his designee is authorized to acquire the capital stock of mortgagors holding property covered by a mortgage insured under title VIII of the National Housing Act as amended by the Housing Amendments of 1955 \[12 U.S.C. 1748 et seq.\], and to exercise the rights as holder of such capital stock during the life of such mortgage and, upon the termination of the mortgage, to dissolve the corporation; to guarantee the payment of notes or other legal instruments required by the Secretary of Housing and Urban Development of such mortgagors; to make payments thereon; and to guarantee and indemnify the Armed Services Housing Mortgage Insurance Fund against loss in cases where so required. All housing facilities placed under the control of the Secretary of Defense pursuant to the provisions of this subchapter shall be deemed to be housing facilities under the jurisdiction of the military department to which they are assigned.
 
 #### (d) Opinion as to title to property; guarantee; title search and title insurance
 
@@ -26,7 +26,7 @@ Section 1594a(g) of this title, referred to in subsec. (d), was repealed by Pub.
 
 #### Codification
 
-In subsec. (a), “section 3131 of title 40” substituted for “section 1 of the Act of August 24, 1935 (49 Stat. 793)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), “section 3131 of title 40” substituted for “section 1 of the Act of August 24, 1935 (49 Stat.793)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (a), “section 2305 of title 10” substituted for “section 3 of the Armed Forces Procurement Act of 1947” on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to enactment of Title 10, section 3 of the Armed Forces Procurement Act of 1947 was classified to section 152 of Title 41, Public Contracts.
 

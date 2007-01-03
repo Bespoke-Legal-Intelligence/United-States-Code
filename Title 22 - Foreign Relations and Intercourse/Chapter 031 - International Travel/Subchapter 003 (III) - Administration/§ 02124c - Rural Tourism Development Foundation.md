@@ -58,7 +58,7 @@ No compensation shall be paid to the members of the Board for their services as 
 
 #### (1) In general
 
-&emsp;The Foundation is authorized to accept, receive, solicit, hold, administer, and use any gifts, devises, or bequests, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein for the benefit of or in connection with rural tourism, except that the Foundation may not accept any such gift, devise, or bequest which entails any expenditure other than from the resources of the Foundation. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of rural tourism.
+&emsp;The Foundation is authorized to accept, receive, solicit, hold, administer, and use anygifts, devises, or bequests, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein for the benefit of or in connection with rural tourism, except that the Foundation may not accept any such gift, devise, or bequest which entails any expenditure other than from the resources of the Foundation. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of rural tourism.
 
 #### (2) Indians
 
@@ -115,12 +115,6 @@ As used in this section—
 &emsp;(4) the term “rural tourism” has the meaning given that term by the Secretary of Commerce and shall include activities related to travel and tourism that occur on Federal recreational sites, on Indian reservations, and in the territories, possessions, and commonwealths of the United States.
 
 (Pub. L. 102–372, §4, Sept. 30, 1992, 106 Stat. 1171; Pub. L. 104–288, §9(b), Oct. 11, 1996, 110 Stat. 3407.)
-
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (i)(1), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-The civil service classification laws, referred to in subsec. (i)(2), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
 #### Codification
 

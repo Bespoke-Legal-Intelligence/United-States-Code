@@ -6,8 +6,6 @@
 | :--- | ---: |
 | [11801\.](Subchapter%20001%20%28I%29%20-%20Drug%20Education%20and%20Prevention%20Relating%20to%20Youth%20Gangs/%C2%A7%2011801%20-%20Establishment%20of%20drug%20abuse%20education%20and%20prevention%20program%20relating%20to%20youth%20gangs.md) | Establishment of drug abuse education and prevention program relating to youth gangs. |
 | [11802\.](Subchapter%20001%20%28I%29%20-%20Drug%20Education%20and%20Prevention%20Relating%20to%20Youth%20Gangs/%C2%A7%2011802%20-%20Application%20for%20grants%20and%20contracts.md) | Application for grants and contracts. |
-| (a) | Submission of applications. |
-| (b) | Contents of application. |
 | [11803\.](Subchapter%20001%20%28I%29%20-%20Drug%20Education%20and%20Prevention%20Relating%20to%20Youth%20Gangs/%C2%A7%2011803%20-%20Approval%20of%20applications.md) | Approval of applications. |
 | [11804\.](Subchapter%20001%20%28I%29%20-%20Drug%20Education%20and%20Prevention%20Relating%20to%20Youth%20Gangs/%C2%A7%2011804%20-%20Coordination%20with%20juvenile%20justice%20programs.md) | Coordination with juvenile justice programs. |
 | [11805\.](Subchapter%20001%20%28I%29%20-%20Drug%20Education%20and%20Prevention%20Relating%20to%20Youth%20Gangs/%C2%A7%2011805%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -20,20 +18,10 @@
 |  |  |
 | :--- | ---: |
 | [11821\.](Subchapter%20002%20%28II%29%20-%20Program%20for%20Runaway%20and%20Homeless%20Youth/%C2%A7%2011821%20-%20Establishment%20of%20program.md) | Establishment of program. |
-| (a) | Program aims. |
-| (b) | Priority. |
-| (c) | Limitation. |
 | [11822\.](Subchapter%20002%20%28II%29%20-%20Program%20for%20Runaway%20and%20Homeless%20Youth/%C2%A7%2011822%20-%20Annual%20report.md) | Annual report. |
 | [11823\.](Subchapter%20002%20%28II%29%20-%20Program%20for%20Runaway%20and%20Homeless%20Youth/%C2%A7%2011823%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization. |
-| (b) | Limitation. |
 | [11824\.](Subchapter%20002%20%28II%29%20-%20Program%20for%20Runaway%20and%20Homeless%20Youth/%C2%A7%2011824%20-%20Applications.md) | Applications. |
-| (a) | Submission of application. |
-| (b) | Contents of application. |
 | [11825\.](Subchapter%20002%20%28II%29%20-%20Program%20for%20Runaway%20and%20Homeless%20Youth/%C2%A7%2011825%20-%20Review%20of%20applications.md) | Review of applications. |
-| (a) | Consideration of factors. |
-| (b) | Competitive process. |
-| (c) | Expedited review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,18 +30,7 @@
 |  |  |
 | :--- | ---: |
 | [11841\.](Subchapter%20003%20%28III%29%20-%20Community%20Program/%C2%A7%2011841%20-%20Community%20youth%20activity%20program.md) | Community youth activity program. |
-| (a) | Block grant program. |
-| (b) | Application. |
-| (c) | Amount of grant. |
-| (d) | Priority. |
-| (e) | Activities and projects. |
-| (f) | Project evaluations. |
-| (g) | Authorization of appropriations. |
 | [11842\.](Subchapter%20003%20%28III%29%20-%20Community%20Program/%C2%A7%2011842%20-%20Evaluation%20of%20drug%20abuse%20education%20and%20prevention%20efforts.md) | Evaluation of drug abuse education and prevention efforts. |
-| (a) | Method. |
-| (b) | Grants. |
-| (c) | Time of reports. |
-| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

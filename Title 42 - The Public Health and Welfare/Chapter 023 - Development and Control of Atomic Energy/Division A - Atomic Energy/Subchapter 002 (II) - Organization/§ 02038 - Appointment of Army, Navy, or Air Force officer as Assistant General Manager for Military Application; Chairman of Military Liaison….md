@@ -24,7 +24,3 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

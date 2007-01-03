@@ -34,7 +34,7 @@
 
 &emsp;(1) the functioning and efficiency of the Department of the Army;
 
-&emsp;(2) the formulation of policies and programs by the Department of the Army that are fully consistent with national security objectives and policies established by the President or the Secretary of Defense;
+&emsp;(2) the formulation of policies and programs by the Department of the Army that are fullyconsistent with national security objectives and policies established by the President or the Secretary of Defense;
 
 &emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Army;
 
@@ -138,7 +138,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of theArmy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 
@@ -154,7 +154,7 @@ Sources of Training.—The Secretary may enter into a cooperative agreement with
 
 “(c)
 
-Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretarymay lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
+Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
 
 “(d)
 

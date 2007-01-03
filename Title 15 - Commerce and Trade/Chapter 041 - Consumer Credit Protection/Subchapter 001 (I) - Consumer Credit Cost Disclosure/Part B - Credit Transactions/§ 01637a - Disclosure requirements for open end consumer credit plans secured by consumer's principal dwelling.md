@@ -2,7 +2,7 @@
 
 #### (a) Application disclosures
 
-In the case of any open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling, the creditor shall make the following disclosures in accordance with subsection (b) of this section:
+In the case of any open end consumer credit plan which provides for any extension of creditwhich is secured by the consumer's principal dwelling, the creditor shall make the following disclosures in accordance with subsection (b) of this section:
 
 #### (1) Fixed annual percentage rate
 
@@ -98,7 +98,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of any outstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
 
-&emsp;&emsp;(B) the consumer may receive, upon request, more specific information about the conditions under which the creditor may take any action described in subparagraph (A).
+&emsp;&emsp;(B) the consumer may receive, upon request, more specific information about the conditions under which the creditor maytake any action described in subparagraph (A).
 
 #### (8) Repayment options and minimum periodic payments
 

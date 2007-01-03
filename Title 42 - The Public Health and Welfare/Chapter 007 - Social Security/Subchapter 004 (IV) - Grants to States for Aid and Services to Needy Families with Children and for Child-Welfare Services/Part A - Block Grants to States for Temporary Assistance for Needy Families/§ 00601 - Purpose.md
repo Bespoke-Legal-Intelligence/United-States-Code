@@ -8,7 +8,7 @@ The purpose of this part is to increase the flexibility of States in operating a
 
 &emsp;(2) end the dependence of needy parents on government benefits by promoting job preparation, work, and marriage;
 
-&emsp;(3) prevent and reduce the incidence of out-of-wedlock pregnancies and establish annual numerical goals for preventing and reducing the incidence of these pregnancies; and
+&emsp;(3) prevent and reduce the incidence of out-of-wedlock pregnancies and establish annualnumerical goals for preventing and reducing the incidence of these pregnancies; and
 
 &emsp;(4) encourage the formation and maintenance of two-parent families.
 
@@ -40,7 +40,7 @@ Effective Dates.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided in this title \[see Tables for classification\], this title andthe amendments made by this title shall take effect on July 1, 1997.
+In general.—Except as otherwise provided in this title \[see Tables for classification\], this title and the amendments made by this title shall take effect on July 1, 1997.
 
 &emsp;“(2)
 
@@ -108,7 +108,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) for fiscal year 1997, shall be an amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;“(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[section 603(b) of this title\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[section 602(a) of this title\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
+&emsp;&emsp;&emsp;“(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[section 603(b) of this title\] (as amended by section 103(a)(1) of this Act), during the periodbeginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[section 602(a) of this title\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
 
 &emsp;&emsp;&emsp;“(bb) the sum of the State family assistance grant, multiplied by 1/365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996.
 
@@ -218,7 +218,7 @@ Section 101 of Pub. L. 104–193 provided that: “The Congress makes the follow
 
 &emsp;“(8) The negative consequences of an out-of-wedlock birth on the mother, the child, the family, and society are well documented as follows:
 
-&emsp;&emsp;“(A) Young women 17 and under who give birth outside of marriage are more likely to go on public assistance and to spend more years on welfare once enrolled. These combined effects of ‘younger andlonger’ increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
+&emsp;&emsp;“(A) Young women 17 and under who give birth outside of marriage are more likely to go on public assistance and to spend more years on welfare once enrolled. These combined effects of ‘younger and longer’ increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
 
 &emsp;&emsp;“(B) Children born out-of-wedlock have a substantially higher risk of being born at a very low or moderately low birth weight.
 

@@ -54,7 +54,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (C) The Secretary shall establish a toll-free number to provide the public with specific information about properties on such list.
 
-(3) The Secretary shall make available to the public upon request all information (other than valuation information) regardless of format in the possession of the Department of Housing and Urban Development about the properties published under paragraph (1)(A), including environmental assessment data. The Secretary shall maintain a current list of agency contacts for making referrals of inquiries for information about specific properties.
+(3) The Secretary shall make available to the public upon request all information (other than valuation information) regardless of format in the possession of the Department of Housing and Urban Development about the properties published under paragraph (1)(A), including environmental assessment data. The Secretary shall maintain a current list of agency contacts formaking referrals of inquiries for information about specific properties.
 
 (4)(A) On December 31 of each year, the head of each landholding agency shall report to the Secretary the current availability status and the current classification of each property controlled by the agency, that—
 

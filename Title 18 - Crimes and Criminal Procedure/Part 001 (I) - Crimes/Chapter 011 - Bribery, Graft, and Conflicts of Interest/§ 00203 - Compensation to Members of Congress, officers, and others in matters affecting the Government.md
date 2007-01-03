@@ -46,7 +46,7 @@
 
 A prior section 203, act June 25, 1948, ch. 645, 62 Stat. 692, related to the acceptance or demand by district attorneys, or marshals and their assistants of any fee other than provided by law, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
 
-Provisions similar to those comprising this section were contained in section 281 of this title prior to therepeal of such section and the general amendment of this chapter by Pub. L. 87–849.
+Provisions similar to those comprising this section were contained in section 281 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 99–646, §47(a)(1), (2), substituted “indirectly—” 
 
 Subsec. (a)(1). Pub. L. 99–646, §47(a)(1), substituted “(1) demands, seeks, receives, accepts, or agrees to receive or accept any” for “receives or agrees to receive, or asks, demands, solicits, or seeks, any” and “personally or by” for “by himself or”, redesignated former par. (1) as subpar. (A) and substituted “such person” for “he” and “Delegate, Delegate Elect” for “Delegate from the District of Columbia, Delegate Elect from the District of Columbia”, redesignated former par. (2) as subpar. (B) and substituted “such person” for “he”, and in closing provisions substituted “commission; or” for “commission, or”.
 
-Subsec. (a)(2). Pub. L. 99–646, §47(a)(2), redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives” and “employee;” for “employee—”.
+Subsec. (a)(2). Pub. L. 99–646, §47(a)(2), redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of officialduties, directly or indirectly gives” and “employee;” for “employee—”.
 
 Subsecs. (b), (c). Pub. L. 99–646, §47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted “parties—” for “parties”, “such employee” for “he”, “otherwise; or” for “otherwise, or”, and “in which such employee is serving except that paragraph (2) of this subsection” for “in which he is serving: <i>Provided</i>, That clause (2)”. Former subsec. (b) redesignated (a)(2).
 

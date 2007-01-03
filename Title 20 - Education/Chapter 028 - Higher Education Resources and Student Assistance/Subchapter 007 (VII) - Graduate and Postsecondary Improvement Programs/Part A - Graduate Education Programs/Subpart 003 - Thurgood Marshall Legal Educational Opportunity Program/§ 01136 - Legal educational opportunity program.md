@@ -102,7 +102,7 @@ A prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 99�
 
 Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1491, authorized appropriations for fiscal years 1981 to 1985 for urban grant university program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
 
-Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), June 23, 1972, 86 Stat. 323, related to required applications for participation in law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
+Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968,82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), June 23, 1972, 86 Stat. 323, related to required applications for participation in law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
 
 Section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 785, related to applications for urban community service grants. See section 1139b of this title.
 

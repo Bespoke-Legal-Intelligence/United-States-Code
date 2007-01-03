@@ -6,5 +6,5 @@ Funds under this Act (other than those made available for section 7784(f) of thi
 
 #### References in Text
 
-This Act, referred to in text, probably means the Noxious Weed Control and Eradication Act of 2004, subtitle E (§§451–457) of title IV of Pub. L. 106–224, as added by Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, which enacted this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This Act, referred to in text, probably means the Noxious Weed Control and Eradication Act of 2004, subtitle E (§§451–457) of title IV of Pub. L. 106–224, as addedby Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, which enacted this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 

@@ -192,7 +192,7 @@ Sec. 3. The Secretary of Health and Human Services is hereby authorized and empo
 
 Sec. 4. The Secretary of Health and Human Services is hereby authorized to redelegate all or any part of the functions set forth under (a), (b), (c), and (d) of Section 1 hereof to the Surgeon General of the Public Health Service or other official of that Service who is required to be appointed by and with the advice and consent of the Senate.
 
-Sec. 5. All actions heretofore taken by appropriate authority with respect to the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+Sec. 5. All actions heretofore taken by appropriate authority with respect to the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approvedwith respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
 Sec. 6. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
 

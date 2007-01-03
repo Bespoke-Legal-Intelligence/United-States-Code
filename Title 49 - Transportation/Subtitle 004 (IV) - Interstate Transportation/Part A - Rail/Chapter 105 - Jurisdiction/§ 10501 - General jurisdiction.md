@@ -48,7 +48,7 @@
 
 &emsp;(iii) employment, retirement, annuity, and unemployment systems or other provisions related to dealings between employees and employers.
 
-(B) The Board has jurisdiction under sections 11102 and 11103 of this title over transportation provided by a local governmental authority only if the Board finds that such governmental authority meets all of the standards and requirements for being a rail carrier providing transportation subject to the jurisdiction of the Interstate Commerce Commission that were in effect immediately before January 1, 1996. The enactment of the ICC Termination Act of 1995 shall neither expand nor contract coverage of employees and employers by the Railway Labor Act, the Railroad Retirement Act of 1974, the Railroad Retirement Tax Act, and the Railroad Unemployment Insurance Act.
+(B) The Board has jurisdiction under sections 11102 and 11103 of this title over transportation provided by a local governmental authority only if the Board finds that such governmental authority meets all of the standards and requirements for being a rail carrier providing transportation subject to the jurisdiction of theInterstate Commerce Commission that were in effect immediately before January 1, 1996. The enactment of the ICC Termination Act of 1995 shall neither expand nor contract coverage of employees and employers by the Railway Labor Act, the Railroad Retirement Act of 1974, the Railroad Retirement Tax Act, and the Railroad Unemployment Insurance Act.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 807; amended Pub. L. 104–287, §5(21), Oct. 11, 1996, 110 Stat. 3390.)
 

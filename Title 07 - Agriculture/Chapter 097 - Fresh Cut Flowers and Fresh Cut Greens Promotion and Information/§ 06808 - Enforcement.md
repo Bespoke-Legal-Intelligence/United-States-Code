@@ -34,7 +34,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (4) Finality
 
-&emsp;The penalty assessed or cease and desist order issued under this subsection shall be final and conclusive unless the person against whom the penalty is assessed or the order is issued files an appeal with the appropriate district court of the United States in accordance with subsection (d) of this section.
+&emsp;The penalty assessed or cease and desist order issued under this subsection shall be final and conclusive unless the person against whom the penalty is assessed or the order isissued files an appeal with the appropriate district court of the United States in accordance with subsection (d) of this section.
 
 #### (d) Review by district court
 
@@ -42,7 +42,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (A) In general
 
-&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-dayperiod beginning on the date the penalty is assessed or order issued—
+&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-day period beginning on the date the penalty is assessed or order issued—
 
 &emsp;&emsp;&emsp;(i) filing a notice of appeal in the district court of the United States for the district in which the person resides or conducts business, or in the United States District Court for the District of Columbia; and
 

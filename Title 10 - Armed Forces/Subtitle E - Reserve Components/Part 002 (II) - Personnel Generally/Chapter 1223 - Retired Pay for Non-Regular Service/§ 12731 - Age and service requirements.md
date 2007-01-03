@@ -6,7 +6,7 @@
 
 &emsp;(2) has performed at least 20 years of service computed under section 12732 of this title;
 
-&emsp;(3) in the case of a person who completed the service requirements of paragraph (2) before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005, performed the last six years of qualifying service while a member of any category named in section 12732(a)(1) of this title, but not while a member of a regular component, the Fleet Reserve, or the Fleet Marine Corps Reserve, except that in the case of a person who completed the service requirements of paragraph (2) before October 5, 1994, the number of years of such qualifying service under this paragraph shall be eight; and
+&emsp;(3) in the case of a person who completed the service requirements of paragraph (2) before April 25, 2005, performed the last six years of qualifying service while a member of any category named in section 12732(a)(1) of this title, but not while a member of a regular component, the Fleet Reserve, or the Fleet Marine Corps Reserve, except that in the case of a person who completed the service requirements of paragraph (2) before October 5, 1994, the number of years of such qualifying service under this paragraph shall be eight; and
 
 &emsp;(4) is not entitled, under any other provision of law, to retired pay from an armed force or retainer pay as a member of the Fleet Reserve or the Fleet Marine Corps Reserve.
 
@@ -34,7 +34,7 @@
 
 (e) Notwithstanding section 8301 of title 5, the date of entitlement to retired pay under this section shall be the date on which the requirements of subsection (a) have been completed.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 109–364, div. A, title X, §1071(a)(40), Oct. 17, 2006, 120 Stat. 2400.)
 
 Historical and Revision Notes<br>1956
 
@@ -84,13 +84,11 @@ In subsection (c), the words “the Army without component or other category cov
 
 The change makes clear that in the determination of eligibility for retired pay for non–regular service, the service of a Regular serving in a temporary grade (that is, without component) may not be counted. See opinion of the Judge Advocate General of the Army, JAGA 1957/4463, May 13, 1957.
 
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (a)(3), probably means the date of enactment of Pub. L. 108–375, known as the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, which was approved Oct. 28, 2004.
-
 #### Amendments
 
-2004—Subsec. (a)(3). Pub. L. 108–375 inserted after par. (3) designation “in the case of a person who completed the service requirements of paragraph (2) before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005,”.
+2006—Subsec. (a)(3). Pub. L. 109–364 substituted “before April 25, 2005” for “before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005”.
+
+2004—Subsec. (a)(3). Pub. L. 108–375 inserted after par. (3) designation “in the case of a person who completedthe service requirements of paragraph (2) before the end of the 180-day period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2005,”.
 
 2002—Subsec. (a)(3). Pub. L. 107–314, §631(a), substituted “six years” for “eight years” and inserted before semicolon “, except that in the case of a person who completed the service requirements of paragraph (2) before October 5, 1994, the number of years of such qualifying service under this paragraph shall be eight”.
 

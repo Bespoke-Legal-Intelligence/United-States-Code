@@ -24,7 +24,7 @@ An area that meets 1 or more of the criteria of subsection (a) of this section, 
 
 #### (1) In general
 
-&emsp;A determination of eligibility under subsection (a) of this section shall be supportedby the most recent Federal data available (including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate), or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
+&emsp;A determination of eligibility under subsection (a) of this section shall be supported by the most recent Federal data available (including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate), or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
 
 #### (2) Acceptance by Secretary
 

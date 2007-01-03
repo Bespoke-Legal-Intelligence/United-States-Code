@@ -16,7 +16,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 &emsp;&emsp;(A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
 
-&emsp;&emsp;(B) the estimated amount of savings in direct spending programs applicable to budget year resulting from the prior year's sequestration under this section or section 903 of this title, if any, as published in OMB's final sequestration report for that prior year; and
+&emsp;&emsp;(B) the estimated amount of savings in direct spending programs applicable to budgetyear resulting from the prior year's sequestration under this section or section 903 of this title, if any, as published in OMB's final sequestration report for that prior year; and
 
 &emsp;&emsp;(C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
 
@@ -84,7 +84,7 @@ If a provision of direct spending or receipts legislation is enacted that the Pr
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out head
 
 Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted “and direct” after “guaranteed”.
 
-Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of theHouse of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
 
 Subsec. (e). Pub. L. 105–33, §10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
 

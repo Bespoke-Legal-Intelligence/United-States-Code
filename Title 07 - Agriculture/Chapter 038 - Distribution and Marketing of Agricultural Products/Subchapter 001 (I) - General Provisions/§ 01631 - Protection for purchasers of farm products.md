@@ -24,7 +24,7 @@ For the purposes of this section—
 
 &emsp;(2) The term “central filing system” means a system for filing effective financing statements or notice of such financing statements on a statewide basis and which has been certified by the Secretary of the United States Department of Agriculture; the Secretary shall certify such system if the system complies with the requirements of this section; specifically under such system—
 
-&emsp;&emsp;(A) effective financing statements or notice of such financing statements are filed with the office of the Secretary of State of a State;
+&emsp;&emsp;(A) effective financing statements or notice of such financing statements are filedwith the office of the Secretary of State of a State;
 
 &emsp;&emsp;(B) the Secretary of State records the date and hour of the filing of such statements;
 
@@ -52,7 +52,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
 
-&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and sellingagent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
+&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
 
 &emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>2</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
@@ -90,7 +90,7 @@ For the purposes of this section—
 
 &emsp;(7) The term “security interest” means an interest in farm products that secures payment or performance of an obligation.
 
-&emsp;(8) The term “selling agent” means any person, other than a commission merchant, who is engaged in the business of negotiating the sale and purchase of any farm product on behalf of a person engaged in farming operations.
+&emsp;(8) The term “selling agent” means any person, other than a commission merchant, whois engaged in the business of negotiating the sale and purchase of any farm product on behalf of a person engaged in farming operations.
 
 &emsp;(9) The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
 
@@ -162,7 +162,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;&emsp;&emsp;(II) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(III) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
+&emsp;&emsp;&emsp;(III) the social security number, or other approved unique identifier, of the debtoror, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
 
 &emsp;&emsp;&emsp;(IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
 
@@ -268,7 +268,7 @@ Subsec. (g)(2)(A)(iv). Pub. L. 107–171, §10604(c)(3), substituted “notice s
 
 Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted “contains” before “any payment”.
 
-1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a Statewhich (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
+1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
 
 Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
 

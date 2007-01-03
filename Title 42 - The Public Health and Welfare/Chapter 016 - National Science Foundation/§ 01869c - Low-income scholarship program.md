@@ -22,7 +22,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 #### (3) Limitation
 
-The amount of a scholarship awarded under this section shall be determined by the Director, except that the Director shall not award a scholarship in an amount exceeding $10,000 per year. The Director may renew scholarships for up to 4 years.
+The amount of a scholarship awarded under this section shall be determined by the Director,except that the Director shall not award a scholarship in an amount exceeding $10,000 per year. The Director may renew scholarships for up to 4 years.
 
 #### (4) Funding
 

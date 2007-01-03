@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(iii) a statement of the debtor's financial affairs and, if section 342(b) applies, a certificate—
 
-&emsp;&emsp;&emsp;&emsp;(I) of an attorney whose name is indicated on the petition as the attorney forthe debtor, or a bankruptcy petition preparer signing the petition under section 110(b)(1), indicating that such attorney or the bankruptcy petition preparer delivered to the debtor the notice required by section 342(b); or
+&emsp;&emsp;&emsp;&emsp;(I) of an attorney whose name is indicated on the petition as the attorney for the debtor, or a bankruptcy petition preparer signing the petition under section 110(b)(1), indicating that such attorney or the bankruptcy petition preparer delivered to the debtor the notice required by section 342(b); or
 
 &emsp;&emsp;&emsp;&emsp;(II) if no attorney is so indicated, and no bankruptcy petition preparer signed the petition, of the debtor that such notice was received and read by the debtor;
 
@@ -38,7 +38,7 @@
 
 &emsp;(5) appear at the hearing required under section 524(d) of this title;
 
-&emsp;(6) in a case under chapter 7 of this title in which the debtor is an individual, not retain possession of personal property as to which a creditor has an allowed claim for the purchase price secured in whole or in part by an interest in such personal property unless the debtor, not later than 45 days after the first meeting of creditors under section 341(a), either—
+&emsp;(6) in a case under chapter 7 of this title in which the debtor is an individual, not retain possession of personal property as to which a creditor has an allowed claim for the purchaseprice secured in whole or in part by an interest in such personal property unless the debtor, not later than 45 days after the first meeting of creditors under section 341(a), either—
 
 &emsp;&emsp;(A) enters into an agreement with the creditor pursuant to section 524(c) with respect to the claim secured by such property; or
 
@@ -86,7 +86,7 @@
 
 &emsp;(4) in a case under chapter 13—
 
-&emsp;&emsp;(A) on the date that is either 90 days after the end of such tax year or 1 year after the date of the commencement of the case, whichever is later, if a plan is not confirmed before such later date; and
+&emsp;&emsp;(A) on the date that is either 90 days after the end of such tax year or 1 year after thedate of the commencement of the case, whichever is later, if a plan is not confirmed before such later date; and
 
 &emsp;&emsp;(B) annually after the plan is confirmed and until the case is closed, not later than the date that is 45 days before the anniversary of the confirmation of the plan;
 
@@ -114,7 +114,7 @@
 
 (3) Subject to paragraph (4) and upon request of the debtor made within 45 days after the date of the filing of the petition described in paragraph (1), the court may allow the debtor an additional period of not to exceed 45 days to file the information required under subsection (a)(1) if the court finds justification for extending the period for the filing.
 
-(4) Notwithstanding any other provision of this subsection, on the motion of the trustee filed before the expiration of the applicable period of time specified in paragraph (1), (2), or (3), and after notice and a hearing, the court maydecline to dismiss the case if the court finds that the debtor attempted in good faith to file all the information required by subsection (a)(1)(B)(iv) and that the best interests of creditors would be served by administration of the case.
+(4) Notwithstanding any other provision of this subsection, on the motion of the trustee filed before the expiration of the applicable period of time specified in paragraph (1), (2), or (3), and after notice and a hearing, the court may decline to dismiss the case if the court finds that the debtor attempted in good faith to file all the information required by subsection (a)(1)(B)(iv) and that the best interests of creditors would be served by administration of the case.
 
 (j)(1) Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension of the due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
 
@@ -140,7 +140,7 @@ Section 3 of the Employee Retirement Income Security Act of 1974, referred to in
 
 Sections 530(b)(1) and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1) and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
 
-Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
+Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to insubsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
 
 #### Amendments
 

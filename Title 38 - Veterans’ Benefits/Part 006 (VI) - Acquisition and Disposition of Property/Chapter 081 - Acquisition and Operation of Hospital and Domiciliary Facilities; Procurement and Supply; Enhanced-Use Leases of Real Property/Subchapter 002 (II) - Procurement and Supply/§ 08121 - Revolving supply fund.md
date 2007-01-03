@@ -1,6 +1,6 @@
 ### §8121. Revolving supply fund
 
-(a) The revolving supply fund established for the operation and maintenance of a supply system for the Department (including procurement of supplies, equipment, and personal services and the repair and reclamation of used, spent, or excess personal property) shall be—
+(a) The revolving supply fund established for the operation and maintenance of a supply system for the Department (including procurementof supplies, equipment, and personal services and the repair and reclamation of used, spent, or excess personal property) shall be—
 
 &emsp;(1) available without fiscal year limitations for all expenses necessary for the operation and maintenance of such supply system;
 
@@ -14,7 +14,7 @@
 
 (d) An adequate system of accounts for the fund shall be maintained on the accrual method, and financial reports prepared on the basis of such accounts. An annual business type budget shall be prepared for operations under the fund.
 
-(e) The Secretary is authorized to capitalize, at fair and reasonable values as determined bythe Secretary, all supplies and materials and depot stocks of equipment on hand or on order.
+(e) The Secretary is authorized to capitalize, at fair and reasonable values as determined by the Secretary, all supplies and materials and depot stocks of equipment on hand or on order.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, §5011; amended Pub. L. 87–314, Sept. 26, 1961, 75 Stat. 675; Pub. L. 94–581, title II, §210(e)(6), Oct. 21, 1976, 90 Stat. 2865; renumbered §5021, Pub. L. 96–22, title III, §301(b)(1), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, §402(a), Aug. 26, 1980, 94 Stat. 1051; renumbered §8121, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title IV, §403(a), Dec. 6, 2003, 117 Stat. 2062.)
 

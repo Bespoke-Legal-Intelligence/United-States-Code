@@ -22,7 +22,7 @@ Notice.—
 
 In general.—If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A),<sup>1</sup> or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
 
-(B)
+&emsp;&emsp;(B)
 
 Nonapplicability to reporting and recordkeeping violations.—Subparagraph (A) shall not apply to reporting and recordkeeping violations.
 
@@ -32,13 +32,13 @@ Civil Penalty.—
 
 &emsp;(A)
 
-In general.—Except as otherwise provided in this subsection, any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act that is a violation of regulations issued by the Secretary under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title shall be liable to the United States for a civil penalty in an amountnot to exceed $10,000 for each offense. Notwithstanding any other provision of this section (except subparagraph (C)), no civil penalty shall be assessed under this section against an employee for a violation in an amount exceeding $2,500.
+In general.—Except as otherwise provided in this subsection, any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act that is a violation of regulations issued by the Secretary under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each offense. Notwithstanding any other provision of this section (except subparagraph (C)), no civil penalty shall be assessed under this section against an employee for a violation in an amount exceeding $2,500.
 
 &emsp;(B)
 
 Recordkeeping and reporting violations.—A person required to make a report to the Secretary, answer a question, or make, prepare, or preserve a record under section 504 of this title or under any regulation issued by the Secretary pursuant to subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title about transportation by motor carrier, motor carrier of migrant workers, or motor private carrier, or an officer, agent, or employee of that person—
 
-&emsp;&emsp;(i) who does not make that report, does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, or does not make, prepare, or preserve that record in the form and manner prescribed by the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each offense, and each day of the violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses related to any single violation shall not exceed $10,000; or
+&emsp;&emsp;(i) who does not make that report, does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, or does not make, prepare, orpreserve that record in the form and manner prescribed by the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each offense, and each day of the violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses related to any single violation shall not exceed $10,000; or
 
 &emsp;&emsp;(ii) who knowingly falsifies, destroys, mutilates, or changes a required report or record, knowingly files a false report with the Secretary, knowingly makes or causes or permits to be made a false or incomplete entry in that record about an operation or business fact or transaction, or knowingly makes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation, if any such action can be shown to have misrepresented a fact that constitutes a violation other than a reporting or recordkeeping violation.
 
@@ -68,7 +68,7 @@ Criminal Penalties.—
 
 &emsp;(A)
 
-In general.—Any person who knowingly and willfully violates any provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title, or a regulation issued under any of those provisions shall, upon conviction, be subject for each offense to a fine not to exceed $25,000 orimprisonment for a term not to exceed one year, or both, except that, if such violator is an employee, the violator shall only be subject to penalty if, while operating a commercial motor vehicle, the violator's activities have led or could have led to death or serious injury, in which case the violator shall be subject, upon conviction, to a fine not to exceed $2,500.
+In general.—Any person who knowingly and willfully violates any provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title, or a regulation issued under any of those provisions shall, upon conviction, be subject for each offense to a fine not to exceed $25,000 or imprisonment for a term not to exceed one year, or both, except that, if such violator is an employee, the violator shall only be subject to penalty if, while operating a commercial motor vehicle, the violator's activities have led or could have led to death or serious injury, in which case the violator shall be subject, upon conviction, to a fine not to exceed $2,500.
 
 &emsp;(B)
 
@@ -201,7 +201,7 @@ Subsec. (b)(13). Pub. L. 103–272, §5(m)(11)(J), substituted “section 31132 
 
 1990—Subsec. (b)(1). Pub. L. 101–500 designated existing provisions as subpar. (A) and added subpar. (B).
 
-1986—Subsec. (b)(1). Pub. L. 99–570, §12012(a), inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986”after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
+1986—Subsec. (b)(1). Pub. L. 99–570, §12012(a), inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
 
 Subsec. (b)(2). Pub. L. 99–570, §12012(b), (f)(1), inserted heading, designated existing provisions as subpars. (A) and (C) with corresponding headings, added subpar. (B), in subpar. (A) indented such subparagraph and aligned it with subpar. (B), and inserted exception relating to subpar. (B).
 

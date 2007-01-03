@@ -54,7 +54,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;&emsp;(i) the management agency, before implementing any management program decision which would conflict with any local zoning ordinance, decision, or other action, shall send a notice of the management program decision to any local government whose zoning authority is affected;
 
-&emsp;&emsp;&emsp;(ii) within the 30-day period commencing on the date of receipt of that notice, thelocal government may submit to the management agency written comments on the management program decision, and any recommendation for alternatives; and
+&emsp;&emsp;&emsp;(ii) within the 30-day period commencing on the date of receipt of that notice, the local government may submit to the management agency written comments on the management program decision, and any recommendation for alternatives; and
 
 &emsp;&emsp;&emsp;(iii) the management agency, if any comments are submitted to it within the 30-day period by any local government—
 
@@ -88,7 +88,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(B) Direct State land and water use planning and regulation.
 
-&emsp;&emsp;(C) State administrative review for consistency with the management program of all development plans, projects, or land and water use regulations, including exceptions and variances thereto, proposed by any State or local authority or private developer, with power to approve or disapprove after public notice and an opportunity for hearings.
+&emsp;&emsp;(C) State administrative review for consistency with the management program of all development plans, projects, or land andwater use regulations, including exceptions and variances thereto, proposed by any State or local authority or private developer, with power to approve or disapprove after public notice and an opportunity for hearings.
 
 &emsp;(12) The management program contains a method of assuring that local land use and water use regulations within the coastal zone do not unreasonably restrict or exclude land uses and water uses of regional benefit.
 
@@ -134,7 +134,7 @@ Subsec. (g). Pub. L. 99–272, §6043(c), inserted “, and subject to the foll
 
 1980—Subsec. (a). Pub. L. 96–464, §5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
 
-Subsec. (b). Pub. L. 96–464, §5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
+Subsec. (b). Pub. L. 96–464, §5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of$2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
 
 Subsec. (i). Pub. L. 96–464, §5(a)(3), added subsec. (i).
 

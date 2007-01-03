@@ -16,7 +16,7 @@ The Administrator of the Environmental Protection Agency (hereafter referred to 
 
 &emsp;(C) review proposed regulations for the protection of the environmental and public health and suggest revisions that could improve the ability of small towns to comply with such regulations;
 
-&emsp;(D) identify means to promote regionalization of environmental treatment systems andinfrastructure serving small towns to improve the economic condition of such systems and infrastructure; and
+&emsp;(D) identify means to promote regionalization of environmental treatment systems and infrastructure serving small towns to improve the economic condition of such systems and infrastructure; and
 
 &emsp;(E) provide such other assistance to the Administrator as the Administrator deems appropriate.
 
@@ -36,7 +36,7 @@ The Administrator of the Environmental Protection Agency (hereafter referred to 
 
 #### (d) Small Town Ombudsman
 
-The Administrator shall establish and staff an Office of the Small Town Ombudsman. The Office shall provide assistance to small towns in connection with the Small Town Environmental Planning Program and other business with the Agency. Each regional office shall identify a small town contact. The Small Town Ombudsman and the regional contacts also may assist larger communities, but only if first priority is given to providing assistance to small towns.
+The Administrator shall establish and staff an Office of the Small Town Ombudsman. The Office shall provide assistance to small towns in connection with the Small Town Environmental Planning Program and other business with theAgency. Each regional office shall identify a small town contact. The Small Town Ombudsman and the regional contacts also may assist larger communities, but only if first priority is given to providing assistance to small towns.
 
 #### (e) Multi-media permits
 

@@ -2,9 +2,9 @@
 
 #### (a) Civil action
 
-(1) Any person who, on or in connection with any goods or services, or any container forgoods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
+(1) Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
 
-&emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
+&emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation,connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
 
 &emsp;(B) in commercial advertising or promotion, misrepresents the nature, characteristics, qualities, or geographic origin of his or her or another person's goods, services, or commercial activities,
 
@@ -18,37 +18,87 @@
 
 Any goods marked or labeled in contravention of the provisions of this section shall not be imported into the United States or admitted to entry at any customhouse of the United States. The owner, importer, or consignee of goods refused entry at any customhouse under this section may have any recourse by protest or appeal that is given under the customs revenue laws or may have the remedy given by this chapter in cases involving goods refused entry or seized.
 
-#### (c) Remedies for dilution of famous marks
+#### (c) Dilution by blurring; dilution by tarnishment
 
-(1) The owner of a famous mark shall be entitled, subject to the principles of equity and upon such terms as the court deems reasonable, to an injunction against another person's commercial use in commerce of a mark or trade name, if such use begins after the mark has become famous and causes dilution of the distinctive quality of the mark, and to obtain such other relief as is provided in this subsection. In determining whether a mark is distinctive and famous, a court may consider factors such as, but not limited to—
+#### (1) Injunctive relief
 
-&emsp;(A) the degree of inherent or acquired distinctiveness of the mark;
+&emsp;Subject to the principles of equity, the owner of a famous mark that is distinctive, inherently or through acquired distinctiveness, shall be entitled to an injunction against another person who, at any time after the owner's mark has become famous, commences use of a mark or trade name in commerce that is likely to cause dilution by blurring or dilution by tarnishment of the famous mark, regardless of the presence or absence of actual or likely confusion, of competition, or of actual economic injury.
 
-&emsp;(B) the duration and extent of use of the mark in connection with the goods or services with which the mark is used;
+#### (2) Definitions
 
-&emsp;(C) the duration and extent of advertising and publicity of the mark;
+&emsp;(A) For purposes of paragraph (1), a mark is famous if it is widely recognized by the general consuming public of the United States as a designation of source of the goods or services of the mark's owner. In determining whether a mark possesses the requisite degree of recognition, the court may consider all relevant factors, including the following:
 
-&emsp;(D) the geographical extent of the trading area in which the mark is used;
+&emsp;&emsp;(i) The duration, extent, and geographic reach of advertising and publicity of the mark, whether advertised or publicized by the owner or third parties.
 
-&emsp;(E) the channels of trade for the goods or services with which the mark is used;
+&emsp;&emsp;(ii) The amount, volume, and geographic extent of sales of goods or services offered under the mark.
 
-&emsp;(F) the degree of recognition of the mark in the trading areas and channels of trade used by the marks’ owner and the person against whom the injunction is sought;
+&emsp;&emsp;(iii) The extent of actual recognition of the mark.
 
-&emsp;(G) the nature and extent of use of the same or similar marks by third parties; and
+&emsp;&emsp;(iv) Whether the mark was registered under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register.
 
-&emsp;(H) whether the mark was registered under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register.
+&emsp;(B) For purposes of paragraph (1), “dilution by blurring” is association arising from the similarity between a mark or trade name and a famous mark that impairs the distinctiveness of the famous mark. In determining whether a mark or trade name is likely to cause dilution by blurring, the court may consider all relevant factors, including the following:
 
-(2) In an action brought under this subsection, the owner of the famous mark shall be entitled only to injunctive relief as set forth in section 1116 of this title unless the person against whom the injunction is sought willfully intended to trade on the owner's reputation or to cause dilution of the famous mark. If such willful intent is proven, the owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity.
+&emsp;&emsp;(i) The degree of similarity between the mark or trade name and the famous mark.
 
-(3) The ownership by a person of a valid registration under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register shall be a complete bar to an action against that person, with respect to that mark, that is brought by another person under the common law or a statute of a State and that seeks to prevent dilution of the distinctiveness of a mark, label, or form of advertisement.
+&emsp;&emsp;(ii) The degree of inherent or acquired distinctiveness of the famous mark.
 
-(4) The following shall not be actionable under this section:
+&emsp;&emsp;(iii) The extent to which the owner of the famous mark is engaging in substantially exclusive use of the mark.
 
-&emsp;(A) Fair use of a famous mark by another person in comparative commercial advertising or promotion to identify the competing goods or services of the owner of the famous mark.
+&emsp;&emsp;(iv) The degree of recognition of the famous mark.
 
-&emsp;(B) Noncommercial use of a mark.
+&emsp;&emsp;(v) Whether the user of the mark or trade name intended to create an association with the famous mark.
 
-&emsp;(C) All forms of news reporting and news commentary.
+&emsp;&emsp;(vi) Any actual association between the mark or trade name and the famous mark.
+
+&emsp;(C) For purposes of paragraph (1), “dilution by tarnishment” is association arising from the similarity between a mark or trade name and a famous mark that harms the reputation of the famous mark.
+
+#### (3) Exclusions
+
+&emsp;The following shall not be actionable as dilution by blurring or dilution by tarnishment under this subsection:
+
+&emsp;&emsp;(A) Any fair use, including a nominative or descriptive fair use, or facilitation of such fair use, of a famous mark by another person other than as a designation of source for the person's own goods or services, including use in connection with—
+
+&emsp;&emsp;&emsp;(i) advertising or promotion that permits consumers to compare goods or services; or
+
+&emsp;&emsp;&emsp;(ii) identifying and parodying, criticizing, or commenting upon the famous mark owner or the goods or services of the famous mark owner.
+
+&emsp;&emsp;(B) All forms of news reporting and news commentary.
+
+&emsp;&emsp;(C) Any noncommercial use of a mark.
+
+#### (4) Burden of proof
+
+&emsp;In a civil action for trade dress dilution under this chapter for trade dress not registered on the principal register, the person who asserts trade dress protection has the burden of proving that—
+
+&emsp;&emsp;(A) the claimed trade dress, taken as a whole, is not functional and is famous; and
+
+&emsp;&emsp;(B) if the claimed trade dress includes any mark or marks registered on the principal register, the unregistered matter, taken as a whole, is famous separate and apart from any fame of such registered marks.
+
+#### (5) Additional remedies
+
+&emsp;In an action brought under this subsection, the owner of the famous mark shall be entitled to injunctive relief as set forth in section 1116 of this title. The owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity if—
+
+&emsp;&emsp;(A) the mark or trade name that is likely to cause dilution by blurring or dilution by tarnishment was first used in commerce by the person against whom the injunction is sought after October 6, 2006; and
+
+&emsp;&emsp;(B) in a claim arising under this subsection—
+
+&emsp;&emsp;&emsp;(i) by reason of dilution by blurring, the person against whom the injunction is sought willfully intended to trade on the recognition of the famous mark; or
+
+&emsp;&emsp;&emsp;(ii) by reason of dilution by tarnishment, the person against whom the injunction is sought willfully intended to harm the reputation of the famous mark.
+
+#### (6) Ownership of valid registration a complete bar to action
+
+&emsp;The ownership by a person of a valid registration under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register under this chapter shall be a complete bar to an action against that person, with respect to that mark, that—
+
+&emsp;&emsp;(A)(i) is brought by another person under the common law or a statute of a State; and
+
+&emsp;&emsp;(ii) seeks to prevent dilution by blurring or dilution by tarnishment; or
+
+&emsp;&emsp;(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement.
+
+#### (7) Savings clause
+
+&emsp;Nothing in this subsection shall be construed to impair, modify, or supersede the applicability of the patent laws of the United States.
 
 #### (d) Cyberpiracy prevention
 
@@ -82,7 +132,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(VIII) the person's registration or acquisition of multiple domain names which the person knows are identical or confusingly similar to marks of others that are distinctive at the time of registration of such domain names, or dilutive of famous marks of others that are famous at the time of registration of such domain names, without regard to the goods or services of the parties; and
 
-&emsp;(IX) the extent to which the mark incorporated in the person's domain name registration is or is not distinctive and famous within the meaning of subsection (c)(1) of this section.
+&emsp;(IX) the extent to which the mark incorporated in the person's domain name registration is or is not distinctive and famous within the meaning of subsection (c).
 
 (ii) Bad faith intent described under subparagraph (A) shall not be found in any case in which the court determines that the person believed and had reasonable grounds to believe that the use of the domain name was a fair use or otherwise lawful.
 
@@ -126,17 +176,21 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
-(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545.)
+(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545; Pub. L. 109–312, §2, Oct. 6, 2006, 120 Stat. 1730.)
 
 #### References in Text
 
-Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(1)(H), (3), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Prior Provisions
 
 Act Mar. 19, 1920, ch. 104, §3, 41 Stat. 534.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–312, §2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
+
+Subsec. (d)(1)(B)(i)(IX). Pub. L. 109–312, §2(2), substituted “subsection (c)” for “subsection (c)(1)”.
 
 1999—Subsec. (a)(3). Pub. L. 106–43, §5, added par. (3).
 

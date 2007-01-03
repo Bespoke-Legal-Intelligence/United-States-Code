@@ -18,7 +18,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month period beginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term “assistance” includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
 
-&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipientconcurrently with the payment of such amount;
+&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
 
 &emsp;(8) the value of assistance referred to in section 1382a(b)(14) of this title, paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
 
@@ -120,11 +120,11 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(i) the term “benefits under this subchapter” includes payments of the type described in section 1382e(a) of this title and of the type described in section 212(b) of Public Law 93–66;
 
-&emsp;(ii) the term “institutionalized individual” has the meaning given such term in section 1396p(e)(3) of this title; and
+&emsp;(ii) the term “institutionalized individual” has the meaning given such term in section 1396p(e)(3) <sup>1</sup> of this title; and
 
 &emsp;(iii) the term “trust” has the meaning given such term in subsection (e)(6)(A) of this section.
 
-(2)(A) At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, ifany) for such benefits is redetermined, the Commissioner of Social Security shall—
+(2)(A) At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, if any) for such benefits is redetermined, the Commissioner of Social Security shall—
 
 &emsp;(i) inform such individual of the provisions of paragraph (1) and section 1396p(c) of this title providing for a period of ineligibility for benefits under this subchapter and subchapter XIX of this chapter, respectively, for individuals who make certain dispositions of resources for less than fair market value, and inform such individual that information obtained pursuant to clause (ii) will be made available to the State agency administering a State plan under subchapter XIX of this chapter (as provided in subparagraph (B)); and
 
@@ -180,7 +180,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(ii) any resource otherwise excluded by this section; and
 
-&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual'sspouse) is entitled but does not receive or have access to because of action by—
+&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual's spouse) is entitled but does not receive or have access to because of action by—
 
 &emsp;&emsp;&emsp;(I) the individual or spouse;
 
@@ -200,9 +200,11 @@ Section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, re
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
+Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was redesignated section 1396p(h)(3) of this title by Pub. L. 109–171, title VI, §§6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
+
 #### Amendments
 
-2004—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited to the first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
+2004—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited tothe first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
 
 Subsec. (a)(11). Pub. L. 108–203, §431(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
 
@@ -290,7 +292,7 @@ Pub. L. 106–169, title II, §206(c), Dec. 14, 1999, 113 Stat. 1837, provided t
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–306 applicable to gifts made on or after the date that is 2 years before Oct. 28, 1998, see section 7(c) of Pub. L. 105–306, set out as a note under section 1382a of this title.
+Amendment by Pub. L. 105–306 applicable to gifts made on or after the date that is 2 years before Oct. 28,1998, see section 7(c) of Pub. L. 105–306, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -361,4 +363,6 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 #### Puerto Rico, Guam, and Virgin Islands
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

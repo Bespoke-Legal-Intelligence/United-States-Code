@@ -68,7 +68,7 @@
 
 #### (ii) Hearing procedure
 
-&emsp;&emsp;&emsp;If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within 30 days after the date of the decision of thejudge. A final order which takes effect under this paragraph shall be subject to review only as provided under subparagraph (E).
+&emsp;&emsp;&emsp;If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within 30 days after the date of the decision of the judge. A final order which takes effect under this paragraph shall be subject to review only as provided under subparagraph (E).
 
 #### (E) Judicial review
 
@@ -100,7 +100,7 @@
 
 #### (G) Payment of penalties
 
-&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
+&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paidto the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
 
 (July 1, 1944, ch. 373, title XXVII, §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968.)
 

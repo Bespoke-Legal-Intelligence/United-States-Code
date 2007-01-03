@@ -20,7 +20,7 @@ The Foundation is authorized—
 
 &emsp;(8) to rent office space in the District of Columbia or its environs;
 
-&emsp;(9) to conduct programs in addition to or in conjunction with the Fellowship program which shall further the Foundation's purpose of encouraging research and study of constitutionalism in America;
+&emsp;(9) to conduct programs in addition to or in conjunction with the Fellowship programwhich shall further the Foundation's purpose of encouraging research and study of constitutionalism in America;
 
 &emsp;(10) to expend not more than 5 percent of its annual operating budget to pay the costs of fundraising activities, including public and private gatherings; and
 

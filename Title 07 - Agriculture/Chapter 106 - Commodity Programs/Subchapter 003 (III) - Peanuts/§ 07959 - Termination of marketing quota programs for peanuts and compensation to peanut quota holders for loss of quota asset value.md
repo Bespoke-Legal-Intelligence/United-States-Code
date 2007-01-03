@@ -12,7 +12,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall offer to enter into a contract with each person that the Secretary determines is an eligible peanut quota holder under subsection (f) of this section for the purpose of providing compensation for the lost value of the quota on account of the repeal of the marketing quota program for peanuts under subsection (a) of this section.
+&emsp;The Secretary shall offer to enter into a contract with each person that the Secretary determines is an eligible peanut quota holderunder subsection (f) of this section for the purpose of providing compensation for the lost value of the quota on account of the repeal of the marketing quota program for peanuts under subsection (a) of this section.
 
 #### (2) Payment period
 

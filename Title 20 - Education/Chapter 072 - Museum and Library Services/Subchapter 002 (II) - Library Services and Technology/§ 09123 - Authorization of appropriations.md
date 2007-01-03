@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out this subchapter $232,000,00
 
 #### (1) In general
 
-&emsp;To the end of affording the responsible Federal, State, and local officers adequate notice of available Federal financial assistance for carrying out ongoing library activities and projects, appropriations for grants, contracts,or other payments under any program under this subchapter are authorized to be included in the appropriations Act for the fiscal year preceding the fiscal year during which such activities and projects shall be carried out.
+&emsp;To the end of affording the responsible Federal, State, and local officers adequate notice of available Federal financial assistance for carrying out ongoing library activities and projects, appropriations for grants, contracts, or other payments under any program under this subchapter are authorized to be included in the appropriations Act for the fiscal year preceding the fiscal year during which such activities and projects shall be carried out.
 
 #### (2) Additional authorization of appropriations
 

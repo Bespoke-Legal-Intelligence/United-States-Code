@@ -14,7 +14,7 @@ Unauthorized Acts.—Anyone who, without the consent of the performer or perform
 
 (b)
 
-Definition.—As used in this section, the term “traffic in” means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.
+Definition.—In this section, the term “traffic” has the same meaning as in section 2320(e) of title 18.
 
 (c)
 
@@ -24,9 +24,13 @@ Applicability.—This section shall apply to any act or acts that occur on or af
 
 State Law Not Preempted.—Nothing in this section may be construed to annul or limit any rights or remedies under the common law or statutes of any State.
 
-(Added Pub. L. 103–465, title V, §512(a), Dec. 8, 1994, 108 Stat. 4974.)
+(Added Pub. L. 103–465, title V, §512(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 109–181, §2(c)(3), Mar. 16, 2006, 120 Stat. 288.)
 
 #### References in Text
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–181 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “As used in this section, the term ‘traffic in’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.”
 

@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;Except with the prior written consent of the Farm Credit Administration, it shall be unlawful for any person convicted of any criminal offense involving dishonesty or a breach oftrust to serve as a director, officer, or employee of any System institution.
+&emsp;Except with the prior written consent of the Farm Credit Administration, it shall be unlawful for any person convicted of any criminal offense involving dishonesty or a breach of trust to serve as a director, officer, or employee of any System institution.
 
 #### (2) Penalty
 

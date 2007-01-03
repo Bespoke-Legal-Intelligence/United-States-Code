@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the judicial branch;
 
-&emsp;(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
+&emsp;(3) the term “entity of the legislative branch” means the House of Representatives,the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
 
 &emsp;(4) the term “transit pass” means a transit pass as defined by section 132(f)(5) of the Internal Revenue Code of 1986.
 
@@ -72,7 +72,7 @@ Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this sectio
 
 #### Transit Pass Transportation Fringe Benefits
 
-Pub. L. 109–59, title III, §3049(a), Aug. 10, 2005, 119 Stat. 1711, provided that:
+Pub. L. 109–59, title III, §3049(a), Aug. 10, 2005, 119 Stat. 1711, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that:
 
 “(1)
 
@@ -88,7 +88,7 @@ Definitions.—In this subsection—
 
 &emsp;“(A) the term ‘covered agency’ means any agency, to the extent of its facilities in the National Capital Region;
 
-&emsp;“(B) the term ‘agency’ means any agency (as defined by 7905(a)(2) of title 5, United States Code), the Postal Rate Commission, and the Smithsonian Institution;
+&emsp;“(B) the term ‘agency’ means any agency (as defined by 7905(a)(2) of title 5, United States Code), the Postal Regulatory Commission, and the Smithsonian Institution;
 
 &emsp;“(C) the term ‘National Capital Region’ includes the District of Columbia and every county or other geographic area covered by section 2 of Executive Order No. 13150;
 
@@ -108,7 +108,7 @@ Rule of construction.—Nothing in this subsection shall be considered to requir
 
 #### Transportation Subsidy for Employees of the Senate
 
-Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
+Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amountauthorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
 
 #### Transit Subsidies; Appropriations
 

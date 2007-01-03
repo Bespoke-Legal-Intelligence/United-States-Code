@@ -16,5 +16,5 @@ A prior section 608, acts June 25, 1948, ch. 645, 62 Stat. 723; Feb. 7, 1972, Pu
 
 #### Effective Date
 
-Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under section 1973ff of Title 42, The Public Health and Welfare.
+Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L.99–410, set out as a note under section 1973ff of Title 42, The Public Health and Welfare.
 

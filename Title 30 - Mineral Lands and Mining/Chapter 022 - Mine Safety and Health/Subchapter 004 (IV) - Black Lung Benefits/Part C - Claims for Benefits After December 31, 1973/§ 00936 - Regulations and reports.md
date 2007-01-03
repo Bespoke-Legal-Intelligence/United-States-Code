@@ -22,7 +22,7 @@ Section 942 of title 33, referred to in subsec. (b), was in the original “sect
 
 2002—Subsec. (a). Pub. L. 107–275, §2(b)(4)(A), struck out “, the Commissioner of Social Security,” after “The Secretary of Labor”.
 
-Subsec. (b). Pub. L. 107–275, §2(b)(4)(B), amended first sentence generally. Prior to amendment, first sentence read as follows: “At the end of each fiscal year, the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part.”
+Subsec. (b). Pub. L. 107–275, §2(b)(4)(B), amended first sentence generally. Prior to amendment, first sentenceread as follows: “At the end of each fiscal year, the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part.”
 
 1995—Subsec. (b). Pub. L. 104–66 substituted “At the end of each fiscal year, the” for “Within 120 days following the convening of each session of Congress the” and inserted at end “Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.”
 

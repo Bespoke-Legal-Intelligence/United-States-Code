@@ -1,6 +1,6 @@
 ### §323. Withdrawal of Federal recognition
 
-(a) Whenever a member of the National Guard ceases to have the qualifications prescribedunder section 301 of this title or ceases to be a member of a federally recognized unit or organization of the National Guard, his Federal recognition shall be withdrawn.
+(a) Whenever a member of the National Guard ceases to have the qualifications prescribed under section 301 of this title or ceases to be a member of a federally recognized unit or organization of the National Guard, his Federal recognition shall be withdrawn.
 
 (b) Under regulations to be prescribed by the President, the capacity and general fitness of an officer of the National Guard for continued Federal recognition may be investigated at any time by an efficiency board composed of commissioned officers of—
 

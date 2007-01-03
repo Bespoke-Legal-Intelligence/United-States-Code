@@ -42,7 +42,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (3) Mandatory training and education
 
-&emsp;For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency shall also encourage employees to maintain the currencyof their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
+&emsp;For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency shall also encourage employees to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
 
 #### (4) Performance incentives
 
@@ -112,11 +112,41 @@ The programs established by this section shall apply to the acquisition workforc
 
 &emsp;(H) This paragraph shall cease to be effective five years after November 24, 2003.
 
-(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386.)
+#### (i) Provisions relating to reemployment
+
+#### (1) Policies and procedures
+
+&emsp;The head of each executive agency, after consultation with the Administrator and the Director of the Office of Personnel Management, shall establish policies and procedures under which the agency head may reemploy in an acquisition-related position (as described in subsection (g)(1)(A)) an individual receiving an annuity from the Civil Service Retirement and Disability Fund, on the basis of such individual's service, without discontinuing such annuity. The head of each executive agency shall keep the Administrator informed of the agency's use of this authority.
+
+#### (2) Service not subject to CSRS or FERS
+
+&emsp;An individual so reemployed shall not be considered an employee for the purposes of chapter 83 or 84 of title 5.
+
+#### (3) Criteria for exercise of authority
+
+&emsp;Polices <sup>1</sup> and procedures established pursuant to this subsection shall authorize the head of the executive agency, on a case-by-case basis, to continue an annuity if—
+
+&emsp;&emsp;(A) the unusually high or unique qualifications of an individual receiving an annuity from the Civil Service Retirement and Disability Fund on the basis of such individual's service,
+
+&emsp;&emsp;(B) the exceptional difficulty in recruiting or retaining a qualified employee, or
+
+&emsp;&emsp;(C) a temporary emergency hiring need,
+
+> &emsp;makes the reemployment of an individual essential.
+
+#### (4) Reporting requirement
+
+&emsp;The Administrator shall submit annually to the Committee on Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the use of the authority under this subsection, including the number of employees reemployed under authority of this subsection.
+
+#### (5) Sunset provision
+
+&emsp;The authority under this subsection shall expire on December 31, 2011.
+
+(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 109–313, §4, Oct. 6, 2006, 120 Stat. 1737.)
 
 #### References in Text
 
-Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section 5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
+Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
 
 #### Amendments
 
@@ -126,9 +156,13 @@ Subsec. (h)(3)(A). Pub. L. 109–163, §821(a)(1), substituted “, except as p
 
 Subsec. (h)(3)(D) to (H). Pub. L. 109–163, §821(a)(2), added subpar. (D) and redesignated former subpars. (D) to (G) as (E) to (H), respectively.
 
+Subsec. (i). Pub. L. 109–313 added subsec. (i).
+
 2003—Subsec. (h)(3). Pub. L. 108–136 added par. (3).
 
 #### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 
 Pub. L. 109–163, div. A, title VIII, §821(d), Jan. 6, 2006, 119 Stat. 3386, provided that: “The amendments made by this section \[amending this section and repealing provisions set out as a note under this section\] shall apply with respect to fees collected under contracts described in section 37(h)(3)(B) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(h)(3)(B)) after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
@@ -187,4 +221,6 @@ Pub. L. 108–136, div. A, title XIV, §1414, Nov. 24, 2003, 117 Stat. 1666, pro
 &emsp;“(4) develop scopes of work; and
 
 &emsp;“(5) award and administer contracts for such services.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Policies”.</i>
 

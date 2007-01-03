@@ -8,7 +8,7 @@ For the purpose of this part—
 
 &emsp;(3) The term “minority institution” means an institution of higher education whose enrollment of a single minority or a combination of minorities (as defined in paragraph (2)) exceeds 50 percent of the total enrollment. The Secretary shall verify this information from the data on enrollments in the higher education general information surveys (HEGIS) furnished by the institution to the Office for Civil Rights, Department of Education.
 
-&emsp;(4) The term “science” means, for the purpose of this program, the biological, engineering, mathematical, physical, behavioral, and social sciences, and history and philosophy ofscience; also included are interdisciplinary fields which are comprised of overlapping areas among two or more sciences.
+&emsp;(4) The term “science” means, for the purpose of this program, the biological, engineering, mathematical, physical, behavioral, and social sciences, and history and philosophy of science; also included are interdisciplinary fields which are comprised of overlapping areas among two or more sciences.
 
 &emsp;(5) The term “underrepresented in science and engineering” means a minority group whose number of scientists and engineers per 10,000 population of that group is substantially below the comparable figure for scientists and engineers who are white and not of Hispanic origin.
 

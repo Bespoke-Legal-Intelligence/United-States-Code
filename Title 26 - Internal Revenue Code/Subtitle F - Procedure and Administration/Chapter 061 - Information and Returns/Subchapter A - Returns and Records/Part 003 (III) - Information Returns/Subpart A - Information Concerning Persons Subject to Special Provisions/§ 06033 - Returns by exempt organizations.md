@@ -1,0 +1,490 @@
+### §6033. Returns by exempt organizations
+
+#### (a) Organizations required to file
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (3), every organization exempt from taxation under section 501(a) shall file an annual return, stating specifically the items of gross income, receipts, and disbursements, and such other information for the purpose of carrying out the internal revenue laws as the Secretary may by forms or regulations prescribe, and shall keep such records, render under oath such statements, make such other returns, and comply with such rules and regulations as the Secretary may from time to time prescribe; except that, in the discretion of the Secretary, any organization described in section 401(a) may be relieved from stating in its return any information which is reported in returns filed by the employer which established such organization.
+
+#### (2) Being a party to certain reportable transactions
+
+&emsp;Every tax-exempt entity described in section 4965(c) shall file (in such form and manner and at such time as determined by the Secretary) a disclosure of—
+
+&emsp;&emsp;(A) such entity's being a party to any prohibited tax shelter transaction (as defined in section 4965(e)), and
+
+&emsp;&emsp;(B) the identity of any other party to such transaction which is known by such tax-exempt entity.
+
+#### (3) Exceptions from filing
+
+#### (A) Mandatory exceptions
+
+&emsp;&emsp;Paragraph (1) shall not apply to—
+
+&emsp;&emsp;&emsp;(i) churches, their integrated auxiliaries, and conventions or associations of churches,
+
+&emsp;&emsp;&emsp;(ii) any organization (other than a private foundation, as defined in section 509(a)) described in subparagraph (C), the gross receipts of which in each taxable year are normally not more than $5,000, or
+
+&emsp;&emsp;&emsp;(iii) the exclusively religious activities of any religious order.
+
+#### (B) Discretionary exceptions
+
+&emsp;&emsp;The Secretary may relieve any organization required under paragraph (1) (other than an organization described in section 509(a)(3)) to file an information return from filing such a return where he determines that such filing is not necessary to the efficient administration of the internal revenue laws.
+
+#### (C) Certain organizations
+
+&emsp;&emsp;The organizations referred to in subparagraph (A)(ii) are—
+
+&emsp;&emsp;&emsp;(i) a religious organization described in section 501(c)(3);
+
+&emsp;&emsp;&emsp;(ii) an educational organization described in section 170(b)(1)(A)(ii);
+
+&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributed by the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
+
+&emsp;&emsp;&emsp;(iv) an organization described in section 501(c)(3), if such organization is operated, supervised, or controlled by or in connection with a religious organization described in clause (i);
+
+&emsp;&emsp;&emsp;(v) an organization described in section 501(c)(8); and
+
+&emsp;&emsp;&emsp;(vi) an organization described in section 501(c)(1), if such organization is a corporation wholly owned by the United States or any agency or instrumentality thereof, or a wholly-owned subsidiary of such a corporation.
+
+#### (b) Certain organizations described in section 501(c)(3)
+
+Every organization described in section 501(c)(3) which is subject to the requirements of subsection (a) shall furnish annually information, at such time and in such manner as the Secretary may by forms or regulations prescribe, setting forth—
+
+&emsp;(1) its gross income for the year,
+
+&emsp;(2) its expenses attributable to such income and incurred within the year,
+
+&emsp;(3) its disbursements within the year for the purposes for which it is exempt,
+
+&emsp;(4) a balance sheet showing its assets, liabilities, and net worth as of the beginning of such year,
+
+&emsp;(5) the total of the contributions and gifts received by it during the year, and the names and addresses of all substantial contributors,
+
+&emsp;(6) the names and addresses of its foundation managers (within the meaning of section 4946(b)(1)) and highly compensated employees,
+
+&emsp;(7) the compensation and other payments made during the year to each individual described in paragraph (6),
+
+&emsp;(8) in the case of an organization with respect to which an election under section 501(h) is effective for the taxable year, the following amounts for such organization for such taxable year:
+
+&emsp;&emsp;(A) the lobbying expenditures (as defined in section 4911(c)(1)),
+
+&emsp;&emsp;(B) the lobbying nontaxable amount (as defined in section 4911(c)(2)),
+
+&emsp;&emsp;(C) the grass roots expenditures (as defined in section 4911(c)(3)), and
+
+&emsp;&emsp;(D) the grass roots nontaxable amount (as defined in section 4911(c)(4)),
+
+&emsp;(9) such other information with respect to direct or indirect transfers to, and other direct or indirect transactions and relationships with, other organizations described in section 501(c) (other than paragraph (3) thereof) or section 527 as the Secretary may require to prevent—
+
+&emsp;&emsp;(A) diversion of funds from the organization's exempt purpose, or
+
+&emsp;&emsp;(B) misallocation of revenues or expenses,
+
+&emsp;(10) the respective amounts (if any) of the taxes imposed on the organization, or any organization manager of the organization, during the taxable year under any of the following provisions (and the respective amounts (if any) of reimbursements paid by the organization during the taxable year with respect to taxes imposed on any such organization manager under any of such provisions):
+
+&emsp;&emsp;(A) section 4911 (relating to tax on excess expenditures to influence legislation),
+
+&emsp;&emsp;(B) section 4912 (relating to tax on disqualifying lobbying expenditures of certain organizations), and
+
+&emsp;&emsp;(C) section 4955 (relating to taxes on political expenditures of section 501(c)(3) organizations), except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,
+
+&emsp;(11) the respective amounts (if any) of—
+
+&emsp;&emsp;(A) the taxes imposed with respect to the organization on any organization manager, or any disqualified person, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations), and
+
+&emsp;&emsp;(B) reimbursements paid by the organization during the taxable year with respect to taxes imposed under such section,
+
+> &emsp;except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,
+
+&emsp;(12) such information as the Secretary may require with respect to any excess benefit transaction (as defined in section 4958),
+
+&emsp;(13) such information with respect to disqualified persons as the Secretary may prescribe, and
+
+&emsp;(14) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
+
+> For purposes of paragraph (8), if section 4911(f) applies to the organization for the taxable year, such organization shall furnish the amounts with respect to the affiliated group as well as with respect to such organization.
+
+#### (c) Additional provisions relating to private foundations
+
+In the case of an organization which is a private foundation (within the meaning of section 509(a))—
+
+&emsp;(1) the Secretary shall by regulations provide that the private foundation shall include in its annual return under this section such information (not required to be furnished by subsection (b) or the forms or regulations prescribed thereunder) as would have been required to be furnished under section 6056 (relating to annual reports by private foundations) as such section 6056 was in effect on January 1, 1979, and
+
+&emsp;(2) the foundation managers shall furnish copies of the annual return under this section to such State officials, at such times, and under such conditions, as the Secretary may by regulations prescribe.
+
+> Nothing in paragraph (1) shall require the inclusion of the name and address of any recipient (other than a disqualified person within the meaning of section 4946) of 1 or more charitable gifts or grants made by the foundation to such recipient as an indigent or needy person if the aggregate of such gifts or grants made by the foundation to such recipient during the year does not exceed $1,000.
+
+#### (d) Section to apply to nonexempt charitable trusts and nonexempt private foundations
+
+The following organizations shall comply with the requirements of this section in the same manner as organizations described in section 501(c)(3) which are exempt from tax under section 501(a):
+
+#### (1) Nonexempt charitable trusts
+
+&emsp;A trust described in section 4947(a)(1) (relating to nonexempt charitable trusts).
+
+#### (2) Nonexempt private foundations
+
+&emsp;A private foundation which is not exempt from tax under section 501(a).
+
+#### (e) Special rules relating to lobbying activities
+
+#### (1) Reporting requirements
+
+#### (A) In general
+
+&emsp;&emsp;If this subsection applies to an organization for any taxable year, such organization—
+
+&emsp;&emsp;&emsp;(i) shall include on any return required to be filed under subsection (a) for such year information setting forth the total expenditures of the organization to which section 162(e)(1) applies and the total amount of the dues or other similar amounts paid to the organization to which such expenditures are allocable, and
+
+&emsp;&emsp;&emsp;(ii) except as provided in paragraphs (2)(A)(i) and (3), shall, at the time of assessment or payment of such dues or other similar amounts, provide notice to each person making such payment which contains a reasonable estimate of the portion of such dues or other similar amounts to which such expenditures are so allocable.
+
+#### (B) Organizations to which subsection applies
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;This subsection shall apply to any organization which is exempt from taxation under section 501 other than an organization described in section 501(c)(3).
+
+#### (ii) Special rule for in-house expenditures
+
+&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning ofsection 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+
+#### (iii) Coordination with section 527(f)
+
+&emsp;&emsp;&emsp;This subsection shall not apply to any amount on which tax is imposed by reason of section 527(f).
+
+#### (C) Allocation
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Expenditures to which section 162(e)(1) applies shall be treated as paid out of dues or other similar amounts to the extent thereof.
+
+#### (ii) Carryover of lobbying expenditures in excess of dues
+
+&emsp;&emsp;&emsp;If expenditures to which section 162(e)(1) applies exceed the dues or other similar amounts for any taxable year, such excess shall be treated as expenditures to which section 162(e)(1) applies which are paid or incurred by the organization during the following taxable year.
+
+#### (2) Tax imposed where organization does not notify
+
+#### (A) In general
+
+&emsp;&emsp;If an organization—
+
+&emsp;&emsp;&emsp;(i) elects not to provide the notices described in paragraph (1)(A) for any taxable year, or
+
+&emsp;&emsp;&emsp;(ii) fails to include in such notices the amount allocable to expenditures to which section 162(e)(1) applies (determined on the basis of actual amounts rather than the reasonable estimates under paragraph (1)(A)(ii)),
+
+> &emsp;&emsp;then there is hereby imposed on such organization for such taxable year a tax in an amount equal to the product of the highest rate of tax imposed by section 11 for the taxable year and the aggregate amount not included in such notices by reason of such election or failure.
+
+#### (B) Waiver where future adjustments made
+
+&emsp;&emsp;The Secretary may waive the tax imposed by subparagraph (A)(ii) for any taxable year if the organization agrees to adjust its estimates under paragraph (1)(A)(ii) for the following taxable year to correct any failures.
+
+#### (C) Tax treated as income tax
+
+&emsp;&emsp;For purposes of this title, the tax imposed by subparagraph (A) shall be treated in the same manner as a tax imposed by chapter 1 (relating to income taxes).
+
+#### (3) Exception where dues generally nondeductible
+
+&emsp;Paragraph (1)(A) shall not apply to an organization which establishes to the satisfaction of the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
+
+#### (f) Certain organizations described in section 501(c)(4)
+
+Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization.
+
+#### (g) Returns required by political organizations
+
+#### (1) In general
+
+&emsp;This section shall apply to a political organization (as defined by section 527(e)(1)) which has gross receipts of $25,000 or more for the taxable year. In the case of a political organization which is a qualified State or local political organization (as defined in section 527(e)(5)), the preceding sentence shall be applied by substituting “$100,000” for “$25,000”.
+
+#### (2) Annual returns
+
+&emsp;Political organizations described in paragraph (1) shall file an annual return—
+
+&emsp;&emsp;(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), with such modifications as the Secretary considers appropriate to require only information which is necessary for the purposes of carrying out section 527, and
+
+&emsp;&emsp;(B) containing such other information as the Secretary deems necessary to carry out the provisions of this subsection.
+
+#### (3) Mandatory exceptions from filing
+
+&emsp;Paragraph (2) shall not apply to an organization—
+
+&emsp;&emsp;(A) which is a State or local committee of a political party, or political committee of a State or local candidate,
+
+&emsp;&emsp;(B) which is a caucus or association of State or local officials,
+
+&emsp;&emsp;(C) which is an authorized committee (as defined in section 301(6) of the Federal Election Campaign Act of 1971) of a candidate for Federal office,
+
+&emsp;&emsp;(D) which is a national committee (as defined in section 301(14) of the Federal Election Campaign Act of 1971) of a political party,
+
+&emsp;&emsp;(E) which is a United States House of Representatives or United States Senate campaign committee of a political party committee,
+
+&emsp;&emsp;(F) which is required to report under the Federal Election Campaign Act of 1971 as a political committee (as defined in section 301(4) of such Act), or
+
+&emsp;&emsp;(G) to which section 527 applies for the taxable year solely by reason of subsection (f)(1) of such section.
+
+#### (4) Discretionary exception
+
+&emsp;The Secretary may relieve any organization required under paragraph (2) to file an information return from filing such a return if the Secretary determines that such filing is not necessary to the efficient administration of the internal revenue laws.
+
+#### (h) Controlling organizations
+
+Each controlling organization (within the meaning of section 512(b)(13)) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
+
+&emsp;(1) any interest, annuities, royalties, or rents received from each controlled entity (within the meaning of section 512(b)(13)),
+
+&emsp;(2) any loans made to each such controlled entity, and
+
+&emsp;(3) any transfers of funds between such controlling organization and each such controlled entity.
+
+#### (i) Additional notification requirements
+
+Any organization the gross receipts of which in any taxable year result in such organization being referred to in subsection (a)(3)(A)(ii) or (a)(3)(B)—
+
+&emsp;(1) shall furnish annually, in electronic form, and at such time and in such manner as the Secretary may by regulations prescribe, information setting forth—
+
+&emsp;&emsp;(A) the legal name of the organization,
+
+&emsp;&emsp;(B) any name under which such organization operates or does business,
+
+&emsp;&emsp;(C) the organization's mailing address and Internet web site address (if any),
+
+&emsp;&emsp;(D) the organization's taxpayer identification number,
+
+&emsp;&emsp;(E) the name and address of a principal officer, and
+
+&emsp;&emsp;(F) evidence of the continuing basis for the organization's exemption from the filing requirements under subsection (a)(1), and
+
+&emsp;(2) upon the termination of the existence of the organization, shall furnish notice of such termination.
+
+#### (j) Loss of exempt status for failure to file return or notice
+
+#### (1) In general
+
+&emsp;If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization's status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
+
+#### (2) Application necessary for reinstatement
+
+&emsp;Any organization the tax-exempt status of which is revoked under paragraph (1) must apply in order to obtain reinstatement of such status regardless of whether such organization was originally required to make such an application.
+
+#### (3) Retroactive reinstatement if reasonable cause shown for failure
+
+&emsp;If, upon application for reinstatement of status as an organization exempt from tax under section 501(a), an organization described in paragraph (1) can show to the satisfaction of the Secretary evidence of reasonable cause for the failure described in such paragraph, the organization's exempt status may, in the discretion of the Secretary, be reinstated effective from the date of the revocation under such paragraph.
+
+#### (k) Additional provisions relating to sponsoring organizations
+
+Every organization described in section 4966(d)(1) shall, on the return required under subsection (a) for the taxable year—
+
+&emsp;(1) list the total number of donor advised funds (as defined in section 4966(d)(2)) it owns at the end of such taxable year,
+
+&emsp;(2) indicate the aggregate value of assets held in such funds at the end of such taxable year, and
+
+&emsp;(3) indicate the aggregate contributions to and grants made from such funds during such taxable year.
+
+#### (<i>l</i>) Additional provisions relating to supporting organizations
+
+Every organization described in section 509(a)(3) shall, on the return required under subsection (a)—
+
+&emsp;(1) list the supported organizations (as defined in section 509(f)(3)) with respect to which such organization provides support,
+
+&emsp;(2) indicate whether the organization meets the requirements of clause (i), (ii), or (iii) of section 509(a)(3)(B), and
+
+&emsp;(3) certify that the organization meets the requirements of section 509(a)(3)(C).
+
+#### (m) Cross references
+
+&emsp;&emsp;<b>For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001.</b>
+
+&emsp;&emsp;<b>For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c).</b>
+
+&emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108.)
+
+#### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
+
+<i>For adjustment of limitation amount for taxable years beginning in 2007 for determining ap</i><i>plicability of subsection (e)(3) of this section to certain exempt organizations, see section 3.35 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+
+#### References in Text
+
+Section 6056 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 96–603, §1(c), Dec. 28, 1980, 94 Stat. 3504.
+
+The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, as amended, which is classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress. Section 301 of the Act is classified to section 431 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 431 of Title 2 and Tables.
+
+#### Codification
+
+Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–222, §516(b)(1)(B), substituted “paragraph (3)” for “paragraph (2)”.
+
+Subsec. (a)(2). Pub. L. 109–222, §516(b)(1)(A), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 109–222, §516(b)(1)(A), redesignated par. (2) as (3).
+
+Subsec. (a)(3)(B). Pub. L. 109–280, §1245(a), inserted “(other than an organization described in section 509(a)(3))” after “paragraph (1)”. See Codification note above.
+
+Subsec. (h). Pub. L. 109–280, §1205(b)(1), added subsec. (h). Former subsec. (h) redesignated (i). See Codification note above.
+
+Subsec. (i). Pub. L. 109–280, §1223(a), added subsec. (i). Former subsec. (i) redesignated (j). See Codification note above.
+
+Pub. L. 109–280, §1205(b)(1), redesignated subsec. (h) as (i). See Codification note above.
+
+Subsec. (j). Pub. L. 109–280, §1223(b), added subsec. (j). Former subsec. (j) redesignated (k). See Codification note above.
+
+Pub. L. 109–280, §1223(a), redesignated subsec. (i) as (j). See Codification note above.
+
+Subsec. (k). Pub. L. 109–280, §1235(a)(1), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>). See Codification note above.
+
+Pub. L. 109–280, §1223(b), redesignated subsec. (j) as (k). See Codification note above.
+
+Subsec. (<i>l</i>). Pub. L. 109–280, §1245(b), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m). See Codification note above.
+
+Pub. L. 109–280, §1235(a)(1), redesignated subsec. (k) as (<i>l</i>). See Codification note above.
+
+Subsec. (m). Pub. L. 109–280, §1245(b), redesignated subsec. (<i>l</i>) as (m). See Codification note above.
+
+2002—Subsec. (g). Pub. L. 107–276 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of a political organization required to file a return under section 6012(a)(6)—
+
+&emsp;“(1) such organization shall file a return—
+
+&emsp;&emsp;“(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), and
+
+&emsp;&emsp;“(B) containing such other information as the Secretary deems necessary to carry out the provisions of this subsection, and
+
+&emsp;“(2) subsection (a)(2)(B) (relating to discretionary exceptions) shall apply with respect to such return.”
+
+2000—Subsecs. (g), (h). Pub. L. 106–230 added subsec. (g) and redesignated former subsec. (g) as (h).
+
+1998—Subsec. (c). Pub. L. 105–277 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “a copy of the notice required by section 6104(d) (relating to public inspection of private foundations’ annual returns), together with proof of publication thereof, shall be filed by the foundation together with the annual return under this section, and”.
+
+1997—Subsec. (b)(10). Pub. L. 105–34, §1603(b)(1)(A), in introductory provisions, substituted “the respective amounts (if any) of the taxes imposed on the organization, or any organization manager of the organization, during the taxable year under any of the following provisions (and the respective amounts (if any) of reimbursements paid by the organization during the taxable year with respect to taxes imposed on any such organization manager under any of such provisions):” for “the respective amounts (if any) of the taxes paid by the organization during the taxable year under the following provisions:”.
+
+Subsec. (b)(10)(C). Pub. L. 105–34, §1603(b)(1)(B), inserted at end “except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,”.
+
+Subsec. (b)(11). Pub. L. 105–34, §1603(b)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “the respective amounts (if any) of the taxes paid by the organization, or any disqualified person with respect to such organization, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations),”.
+
+1996—Subsec. (b)(10) to (14). Pub. L. 104–168, §1312(a), added pars. (10) to (13) and redesignated former par. (10) as (14).
+
+Subsec. (e)(1)(B)(i). Pub. L. 104–188, §1703(g)(2), substituted “section 501” for “this subtitle”.
+
+Subsec. (e)(1)(B)(iii). Pub. L. 104–188, §1703(g)(1), added subcl. (iii).
+
+Subsecs. (f), (g). Pub. L. 104–168, §1312(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+1993—Subsecs. (e), (f). Pub. L. 103–66 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+1987—Subsec. (b)(9), (10). Pub. L. 100–203 added pars. (9) and (10).
+
+1986—Subsec. (e). Pub. L. 99–514 substituted “section 6652(c)” for “section 6652(d)”.
+
+1980—Subsecs. (c) to (e). Pub. L. 96–603 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+1976—Subsec. (a)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+
+Subsec. (b). Pub. L. 94–455, §§1307(a)(4), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and added par. (8) and sentence at end.
+
+1974—Subsec. (c). Pub. L. 93–406 inserted reference to section 6058 covering provisions relating to information required in connection with certain plans of deferred compensation.
+
+1969—Subsec. (a). Pub. L. 91–172, §101(d)(1), added churches, their integrated auxiliaries, conventions or associations of churches, religious activities of religious orders, and organizations that normally have gross yearly receipts of not more than $5,000, to list of exempt organizations that were excepted from filing information returns, gave the Secretary or his delegate discretion to so except any such organization, and shortened list of educational organizations so excepted.
+
+Subsec. (b)(3). Pub. L. 91–172, §101(d)(2)(A), struck out “out of income” after “its disbursements”.
+
+Subsec. (b)(4). Pub. L. 91–172, §101(d)(2)(B), (j)(30), redesignated par. (7) as (4) and struck out “and” at end. Former par. (4), making accumulation of income within year as an item of information to be furnished, was struck out.
+
+Subsec. (b)(5). Pub. L. 91–172, §101(d)(2)(B), (C), substituted total of contributions and gifts received during year and contributors’ names and addresses for aggregate accumulation of income at beginning of year as item of information to be furnished.
+
+Subsec. (b)(6). Pub. L. 91–172, §101(d)(2)(B), (C), substituted names and addresses of foundation managers for disbursements out of principal in current and prior years as item of information to be furnished.
+
+Subsec. (b)(7). Pub. L. 91–172, §101(d)(2)(B), (C), added par. (7) and redesignated former par. (7) as (4).
+
+Subsec. (b)(8). Pub. L. 91–172, §101(d)(2)(B), struck out par. (8) which made total of contributions and gifts received during year as item of information to be furnished.
+
+Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to section 6043(b) and 6652(d).
+
+1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to returns the due date (determined without regard to extensions) of which is after the date of the enactment of this Act \[Aug. 17, 2006\].”
+
+Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: “The amendments made by this section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006.”
+
+Pub. L. 109–280, title XII, §1235(a)(2), Aug. 17, 2006, 120 Stat. 1101, provided that: “The amendments made by this subsection \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\].”
+
+Pub. L. 109–280, title XII, §1245(c), Aug. 17, 2006, 120 Stat. 1108, provided that: “The amendments made by this section \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\].”
+
+Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, see section 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–276 effective as if included in the amendments made by Pub. L. 106–230, see section 3(d) of Pub. L. 107–276, set out as a note under section 6012 of this title.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–230 applicable to returns for taxable years beginning after June 30, 2000, see section 3(d) of Pub. L. 106–230, set out as a note under section 6012 of this title.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 applicable to requests made after the later of Dec. 31, 1998, or the 60th day after the Secretary of the Treasury first issues the regulations referred to in section 6104(d)(4) of this title, see section 1004(b)(3) of Pub. L. 105–277, set out as a note under section 6104 of this title.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Taxpayer Bill of Rights 2, Pub. L. 104–168, to which such amendment relates, see section 1603(c) of Pub. L. 105–34, set out as a note under section 4962 of this title.
+
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
+Section 1312(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–66 applicable to amounts paid or incurred after Dec. 31, 1993, see section 13222(e) of Pub. L. 103–66, set out as a note under section 162 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Section 10703(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to returns for years beginning after December 31, 1987.”
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Section 1(f) of Pub. L. 96–603 provided that: “The amendments made by this section \[amending this section and sections 6034, 6104, 6652, 6685, and 7207 of this title and repealing section 6056 of this title\] shall apply to taxable years beginning after December 31, 1980.”
+
+#### Effective Date of 1976 Amendment
+
+Amendment by section 1307(a)(4) of Pub. L. 94–455 effective on or after Oct. 4, 1976, see section 1307(e)(6) of Pub. L. 94–455, set out as a note under section 501 of this title.
+
+#### Effective Date of 1974 Amendment
+
+Amendment by Pub. L. 93–406 effective Sept. 2, 1974, see section 1034 of Pub. L. 93–406, set out as an Effective Date note under section 6057 of this title.
+
+#### Effective Date of 1969 Amendment
+
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+
+#### Effective Date of 1958 Amendment
+
+Amendment by Pub. L. 85–866 applicable to taxable years ending on or after Dec. 31, 1958, see section 75(c) of Pub. L. 85–866, set out as a note under section 6104 of this title.
+
+#### Secretarial Outreach Requirements
+
+Pub. L. 109–280, title XII, §1223(e), Aug. 17, 2006, 120 Stat. 1091, provided that:
+
+“(1)
+
+Notice requirement.—The Secretary of the Treasury shall notify in a timely manner every organization described in section 6033(i) of the Internal Revenue Code of 1986 (as added by this section) of the requirement under such section 6033(i) and of the penalty established under section 6033(j) of such Code—
+
+&emsp;“(A) by mail, in the case of any organization the identity and address of which is included in the list of exempt organizations maintained by the Secretary, and
+
+&emsp;“(B) by Internet or other means of outreach, in the case of any other organization.
+
+“(2)
+
+Loss of status penalty for failure to file return.—The Secretary of the Treasury shall publicize, in a timely manner in appropriate forms and instructions and through other appropriate means, the penalty established under section 6033(j) of such Code for the failure to file a return under subsection (a)(1) or (i) of section 6033 of such Code.”
+

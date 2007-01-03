@@ -50,7 +50,7 @@ Within 45 days of November 9, 2000, the Secretary shall transmit to the Presiden
 
 &emsp;(6) actions to ensure quality of the petroleum distillate in the Reserve.
 
-(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat. 2035; amended Pub. L. 109–58, title III, §301(d), Aug. 8, 2005, 119 Stat. 684.)
+(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat.2035; amended Pub. L. 109–58, title III, §301(d), Aug. 8, 2005, 119 Stat. 684.)
 
 #### Amendments
 

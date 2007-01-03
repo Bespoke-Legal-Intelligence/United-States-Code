@@ -38,7 +38,7 @@ A prior section 2635, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 1993—Subsec. (a). Pub. L. 103–182 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(1) Upon service of the summons on the Secretary of the Treasury in any civil action contesting the denial of a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the appropriate customs officer shall forthwith transmit to the clerk of the Court of International Trade, as prescribed by its rules, and as a part of the official record—
+“(1) Upon service of the summons on the Secretary of the Treasury in any civil action contesting the denialof a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the appropriate customs officer shall forthwith transmit to the clerk of the Court of International Trade, as prescribed by its rules, and as a part of the official record—
 
 &emsp;“(A) the consumption or other entry and the entry summary;
 

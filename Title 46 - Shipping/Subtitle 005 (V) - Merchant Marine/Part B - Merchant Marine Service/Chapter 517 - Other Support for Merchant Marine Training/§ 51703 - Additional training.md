@@ -1,0 +1,36 @@
+### §51703. Additional training
+
+(a)
+
+General Authority.—The Secretary of Transportation may provide additional training on maritime subjects to supplement other training opportunities and make the training available to the personnel of the merchant marine of the United States and individuals preparing for a career in the merchant marine of the United States.
+
+(b)
+
+Equipment, Supplies, and Contracts.—The Secretary may—
+
+&emsp;(1) prepare or buy equipment or supplies required for the additional training; and
+
+&emsp;(2) without regard to section 3709 of the Revised Statutes (41 U.S.C. 5), make contracts for services the Secretary considers necessary to prepare the equipment and supplies and to supervise and administer the additional training.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1583.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+51703
+
+46 App.:1295d(a), (b).
+
+June 29, 1936, ch. 858, title XIII, §1305(a), (b), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2006.
+
+In subsection (a), before paragraph (1), the words “as the Secretary deems necessary” are omitted as unnecessary.
+
+In subsection (b), the words “with any person, partnership, firm, association, or corporation” and “the performance of” are omitted as unnecessary.
+

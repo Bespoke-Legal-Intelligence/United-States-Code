@@ -42,7 +42,7 @@ The lien imposed by subsection (a) of this section arises on the date of termina
 
 #### (e) Release or subordination
 
-If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adversely affect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporationfrom the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
+If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adversely affect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporation from the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
 
 #### (f) Definitions
 
@@ -60,7 +60,7 @@ A former subsec. (f) of this section was originally subsec. (e) of section 1362 
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
+1989—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons describedin section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
 
 Pub. L. 101–239, §7881(f)(3)(B), struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
 

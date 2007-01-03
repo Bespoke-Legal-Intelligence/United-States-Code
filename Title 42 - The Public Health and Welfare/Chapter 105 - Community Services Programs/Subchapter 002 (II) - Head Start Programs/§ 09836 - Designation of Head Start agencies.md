@@ -60,7 +60,7 @@ If no entity in a community is entitled to the priority specified in subsection 
 
 &emsp;(8) the plan of such applicant to meet the needs of children with disabilities;
 
-&emsp;(9) the plan of such applicant who chooses to assist younger siblings of children who willparticipate in the proposed Head Start program to obtain health services from other sources; and
+&emsp;(9) the plan of such applicant who chooses to assist younger siblings of children who will participate in the proposed Head Start program to obtain health services from other sources; and
 
 &emsp;(10) the plan of such applicant to collaborate with other entities carrying out early childhood education and child care programs in the community.
 
@@ -140,7 +140,7 @@ Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding pro
 
 &emsp;“(A) to the maximum extent practicable, carry out such review by using employees of the Department of Health and Human Services who are knowledgeable about Head Start programs;
 
-&emsp;“(B) ensure that an employee of the Department of Health and Human Services who is knowledgeable about Head Start programs supervises such review at the site of such agency;
+&emsp;“(B) ensure that an employee of the Department of Health and Human Services who is knowledgeableabout Head Start programs supervises such review at the site of such agency;
 
 &emsp;“(C) measure the compliance of the programs of such agency with the performance standards in effect under section 9846(b) of this title; and
 

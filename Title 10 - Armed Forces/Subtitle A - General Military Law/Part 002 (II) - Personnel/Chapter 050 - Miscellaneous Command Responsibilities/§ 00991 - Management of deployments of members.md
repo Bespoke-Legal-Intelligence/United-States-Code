@@ -136,11 +136,5 @@ Dual-Military Family Defined.—In this section, the term ‘dual-military famil
 
 #### Review of Management of Deployments of Individual Members
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, provided that: “Not later than March 31, 2002, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of section 991 of title 10, United States Code, during fiscal year 2001. The report shall include—
-
-&emsp;“(1) a discussion of the experience in tracking and recording the deployments of members of the Armed Forces and the payment of the per diem allowance for lengthy or numerous deployments in accordance with section 436 of title 37, United States Code;
-
-&emsp;“(2) specific comments regarding the effect of section 991 of title 10, United States Code, and section 436 of title 37, United States Code, on the readiness of the Navy and Marine Corps given the deployment intensive mission of these services; and
-
-&emsp;“(3) any recommendations for revision of section 991 of title 10, United States Code, or section 436 of title 37, United States Code, that the Secretary considers appropriate.”
+Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
 

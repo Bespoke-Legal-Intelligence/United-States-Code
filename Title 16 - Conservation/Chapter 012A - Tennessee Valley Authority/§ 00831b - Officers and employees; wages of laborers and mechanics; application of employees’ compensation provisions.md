@@ -12,7 +12,7 @@ In the event any dispute arises as to what are the prevailing rates of wages, th
 
 Where such work as is described in the two preceding paragraphs is done directly by the Corporation the prevailing rate of wages shall be paid in the same manner as though such work had been let by contract.
 
-Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend topersons given employment under the provisions of this chapter.
+Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend to persons given employment under the provisions of this chapter.
 
 (May 18, 1933, ch. 32, §3, 48 Stat. 59; Pub. L. 92–310, title II, §225(a), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, §602, Dec. 8, 2004, 118 Stat. 2966.)
 
@@ -26,7 +26,7 @@ In the last par. of subsec. (b), “subchapter I of chapter 81 of title 5” sub
 
 #### Amendments
 
-2004—Pub. L. 108–447 added subsec. (a), designated existing provisions as subsec. (b) and inserted heading, and struck out former first undesignated par. which read as follows: “The board shall without regard to the provisions of Civil Service laws applicable to officers and employees of the United States, appoint such managers, assistant managers, officers, employees, attorneys, and agents as are necessary for the transaction of its business, fix their compensation, define their duties, and provide a system of organization to fix responsibility and promote efficiency. Any appointee of the board may be removed in the discretion of the board. No regular officer or employee of the Corporation shall receive a salary in excess of that received by the members of the board.”
+2004—Pub. L. 108–447 added subsec. (a), designated existing provisions as subsec. (b) and inserted heading, and struck out former first undesignated par. which read as follows: “The board shall without regard to theprovisions of Civil Service laws applicable to officers and employees of the United States, appoint such managers, assistant managers, officers, employees, attorneys, and agents as are necessary for the transaction of its business, fix their compensation, define their duties, and provide a system of organization to fix responsibility and promote efficiency. Any appointee of the board may be removed in the discretion of the board. No regular officer or employee of the Corporation shall receive a salary in excess of that received by the members of the board.”
 
 1972—Pub. L. 92–310 struck out provisions which permitted the board to require bonds from managers, assistant managers, officers, employees, attorneys, and agents.
 

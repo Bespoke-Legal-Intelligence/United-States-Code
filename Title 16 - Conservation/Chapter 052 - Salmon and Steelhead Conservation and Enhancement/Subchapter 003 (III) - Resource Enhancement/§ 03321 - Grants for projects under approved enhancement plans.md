@@ -16,7 +16,7 @@ Each comprehensive enhancement plan, and any revisions, or modifications of such
 
 Each comprehensive enhancement plan shall include such standards, restrictions, or conditions as are necessary, to assure that any project included in the plans contributes to the balanced and integrated development of the salmon and steelhead resources of the area. Such standards shall include, but not be limited to provisions designed to—
 
-&emsp;(1) assure that all commercial and recreational fishermen and the treaty tribes shallhave a reasonable opportunity to participate in the benefits, considered as a whole, of the salmon and steelhead resources development;
+&emsp;(1) assure that all commercial and recreational fishermen and the treaty tribes shall have a reasonable opportunity to participate in the benefits, considered as a whole, of the salmon and steelhead resources development;
 
 &emsp;(2) minimize, to the extent practicable, significant adverse interaction between naturally spawning and artifically <sup>1</sup> propagated stocks;
 
@@ -44,7 +44,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 &emsp;(D) provide a copy of the plan to and consult with the Secretary of State and the Secretary of Commerce, with respect to the effect of such plan on any international fisheries; and
 
-&emsp;(E) determine whether the State of Washington or the State of Oregon, as appropriate, and the treaty tribes, acting through their chosen agency or agencies, have the authority to carry out the plan in accordance with this chapter, and in accordance with standards included within the plan.
+&emsp;(E) determine whether the State of Washington or the State of Oregon, as appropriate, andthe treaty tribes, acting through their chosen agency or agencies, have the authority to carry out the plan in accordance with this chapter, and in accordance with standards included within the plan.
 
 (3) The Secretary, in consultation with the Secretary of Commerce, shall not approve a comprehensive enhancement plan unless the State of Washington or the State of Oregon, or both, as appropriate, and the treaty tribes, acting through the appropriate tribal coordinating body, agree not to undertake any salmon or steelhead enhancement project, using funds provided pursuant to this subchapter or otherwise, that would be inconsistent with the plan.
 

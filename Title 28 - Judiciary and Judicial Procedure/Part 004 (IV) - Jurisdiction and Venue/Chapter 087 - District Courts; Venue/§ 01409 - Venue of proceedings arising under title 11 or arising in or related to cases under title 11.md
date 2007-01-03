@@ -1,6 +1,6 @@
 ### §1409. Venue of proceedings arising under title 11 or arising in or related to cases under title 11
 
-(a) Except as otherwise provided in subsections (b) and (d), a proceeding arising under title 11 or arising in or related to a case under title 11 may be commenced in the district court in which such case is pending.
+(a) Except as otherwise provided in subsections (b) and (d), a proceeding arising undertitle 11 or arising in or related to a case under title 11 may be commenced in the district court in which such case is pending.
 
 (b) Except as provided in subsection (d) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case to recover a money judgment of or property worth less than $1,000 or a consumer debt of less than $15,000, or a debt (excluding a consumer debt) against a noninsider of less than $10,000, only in the district court for the district in which the defendant resides.
 
@@ -23,4 +23,8 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 #### Effective Date
 
 Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as a note under section 151 of this title.
+
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b) of this section by the Judicial Conference of the United States, see note set out under section 104 of Title 11, Bankruptcy.
 

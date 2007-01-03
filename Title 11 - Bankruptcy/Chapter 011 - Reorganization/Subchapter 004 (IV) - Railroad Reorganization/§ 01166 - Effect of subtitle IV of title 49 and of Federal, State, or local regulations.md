@@ -16,7 +16,7 @@ Section 1166 of the House amendment is derived from sections 1164 and 1165 of th
 
 #### senate report no. 95–989
 
-Section 1168 \[enacted as section 1166\] makes the trustee subject to the Interstate Commerce Act \[49U.S.C. 10101 et seq.\] and to lawful orders of the Interstate Commerce Commission, the U.S. Department of Transportation, and State and regulatory bodies. The approval of the court is required, however, if the order requires the expenditure of money or the incurring of an expenditure other than the payment of certain interline accounts. The limitation of “lawful orders” of State commissions to those involving “safety, location of tracks, and terminal facilities,” which is contained in present section 77(c)(2) \[section 205(c)(2) of former title 11\], is eliminated.
+Section 1168 \[enacted as section 1166\] makes the trustee subject to the Interstate Commerce Act \[49 U.S.C. 10101 et seq.\] and to lawful orders of the Interstate Commerce Commission, the U.S. Department of Transportation, and State and regulatory bodies. The approval of the court is required, however, if the order requires the expenditure of money or the incurring of an expenditure other than the payment of certain interline accounts. The limitation of “lawful orders” of State commissions to those involving “safety, location of tracks, and terminal facilities,” which is contained in present section 77(c)(2) \[section 205(c)(2) of former title 11\], is eliminated.
 
 Subsection (1) further provides that the debtor must pay in cash all amounts owed other carriers for current balances owed for interline freight, passenger and per diem, including incentive per diem, for periods both prior and subsequent to the filing of the petition, without the necessity of court approval.
 

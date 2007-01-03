@@ -10,7 +10,7 @@
 
 (d) If an eligible person cannot qualify to operate an automobile or other conveyance, the Secretary shall provide or assist in providing an automobile or other conveyance to such person, as provided in subsection (a) of this section, if the automobile or other conveyance is to be operated for the eligible person by another person.
 
-(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030;Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, §402(b), Dec. 16, 2003, 117 Stat. 2664.)
+(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, §402(b), Dec. 16, 2003, 117 Stat. 2664.)
 
 #### Amendments
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec. 22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
+Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec.22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
 

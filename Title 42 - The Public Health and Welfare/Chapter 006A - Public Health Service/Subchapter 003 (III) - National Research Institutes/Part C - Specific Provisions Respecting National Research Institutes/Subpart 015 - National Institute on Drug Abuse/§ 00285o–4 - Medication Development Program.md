@@ -46,7 +46,7 @@ In carrying out the activities described in subsection (a) of this section, the 
 
 #### (d) “Pharmacotherapeutics” defined
 
-For purposes of this section, the term “pharmacotherapeutics” means medicationsused to treat the symptoms and disease of drug abuse, including medications to—
+For purposes of this section, the term “pharmacotherapeutics” means medications used to treat the symptoms and disease of drug abuse, including medications to—
 
 &emsp;(1) block the effects of abused drugs;
 
@@ -58,11 +58,7 @@ For purposes of this section, the term “pharmacotherapeutics” means medicati
 
 &emsp;(5) prevent relapse in persons who have been detoxified from drugs of abuse.
 
-#### (e) Authorization of appropriations
-
-For the purpose of carrying out this section, there are authorized to be appropriated $85,000,000 for fiscal year 1993, and $95,000,000 for fiscal year 1994.
-
-(July 1, 1944, ch. 373, title IV, §464P, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 362; amended Pub. L. 103–43, title XX, §2008(b)(10), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §464P, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 362; amended Pub. L. 103–43, title XX, §2008(b)(10), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §103(b)(35), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### References in Text
 
@@ -70,7 +66,13 @@ Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by
 
 #### Amendments
 
+2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $85,000,000 for fiscal year 1993, and $95,000,000 for fiscal year 1994.”
+
 1993—Subsec. (b)(6). Pub. L. 103–43 substituted “Institute” for “Administration”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date
 

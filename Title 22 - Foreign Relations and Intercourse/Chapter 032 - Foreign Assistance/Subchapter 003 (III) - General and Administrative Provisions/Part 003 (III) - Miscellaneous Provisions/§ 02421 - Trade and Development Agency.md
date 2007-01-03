@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The Trade and Development Agency shall be an agency of the United States under the foreign policy guidance of the Secretary of State. The purpose of the Trade and Development Agency is to promote United States private sector participation in development projects in developing and middle-income countries, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment.
+The Trade and Development Agency shall be an agency of the United States under the foreignpolicy guidance of the Secretary of State. The purpose of the Trade and Development Agency is to promote United States private sector participation in development projects in developing and middle-income countries, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment.
 
 #### (b) Authority to provide assistance
 
@@ -12,7 +12,7 @@ The Trade and Development Agency shall be an agency of the United States under t
 
 #### (2) Use of funds
 
-&emsp;Funds under this section may be used to provide support for feasibility studies for the planning, development, and management of,and procurement for, bilateral and multilateral development projects, including training activities undertaken in connection with a project, for the purpose of promoting the use of United States goods and services in such projects. Funds under this section may also be used for architectural and engineering design, including—
+&emsp;Funds under this section may be used to provide support for feasibility studies for the planning, development, and management of, and procurement for, bilateral and multilateral development projects, including training activities undertaken in connection with a project, for the purpose of promoting the use of United States goods and services in such projects. Funds under this section may also be used for architectural and engineering design, including—
 
 &emsp;&emsp;(A) concept design, which establishes the basic technical and operational criteria for a project, such as architectural drawings for a proposed facility, evaluation of site constraints, procurement requirements, and equipment specifications; and
 
@@ -64,7 +64,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (2) Independent audit
 
-&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 61/2 months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
+&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not laterthan 61/2 months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
 
 #### (3) Audit by Comptroller General
 
@@ -78,7 +78,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (1) Authorization
 
-&emsp;(A) There are authorized to be appropriated for purposes of this section, in addition tofunds otherwise available for such purposes, $48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter.
+&emsp;(A) There are authorized to be appropriated for purposes of this section, in addition to funds otherwise available for such purposes, $48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter.
 
 &emsp;(B) Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
 

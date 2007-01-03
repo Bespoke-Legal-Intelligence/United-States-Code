@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State that receives funds to carry out this subchapter shall collect the information described in subparagraph (B) on a monthly basis.
+&emsp;&emsp;A State that receives funds to carry out this subchapter shall collect the informationdescribed in subparagraph (B) on a monthly basis.
 
 #### (B) Required information
 
@@ -100,7 +100,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II)(aa), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II)(aa), is act Aug. 14, 1935, ch. 531, 49 Stat.620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(1)(B)(v)(IV), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 

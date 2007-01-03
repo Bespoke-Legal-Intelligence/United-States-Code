@@ -32,7 +32,7 @@ Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–4
 
 1994—Subsec. (a)(2). Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1990—Subsec. (c)(2). Pub. L. 101–365 amended first sentence generally. Prior to amendment, first sentence read as follows: “There is hereby authorized to be appropriated for fiscal year 1983 and subsequent fiscal years such sums as may be necessary to implement the provisions of this chapter relating to the trails designated by paragraphs (9), (10), (11), (12), (13), (15), and (16) of section 1244(a) of this title.”
+1990—Subsec. (c)(2). Pub. L. 101–365 amended first sentence generally. Prior to amendment, first sentence read as follows: “There is hereby authorized to be appropriated for fiscal year 1983 and subsequent fiscal years such sums as may be necessary to implement theprovisions of this chapter relating to the trails designated by paragraphs (9), (10), (11), (12), (13), (15), and (16) of section 1244(a) of this title.”
 
 1987—Subsec. (c)(2). Pub. L. 100–192 substituted “, (10), (11), (12), (13), (15), and (16)” for “through (13) and (15)”.
 

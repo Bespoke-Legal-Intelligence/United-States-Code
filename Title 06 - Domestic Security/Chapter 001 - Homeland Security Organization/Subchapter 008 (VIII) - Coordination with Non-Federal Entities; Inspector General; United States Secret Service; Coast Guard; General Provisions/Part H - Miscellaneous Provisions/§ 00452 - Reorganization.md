@@ -6,7 +6,7 @@ The Secretary may allocate or reallocate functions among the officers of the Dep
 
 &emsp;(1) pursuant to section 542(b) of this title; or
 
-&emsp;(2) after the expiration of 60 days after providing notice of such action to the appropriate congressional committees, which shall include an explanation of the rationale for the action.
+&emsp;(2) after the expiration of 60 days after providing notice of such action to the appropriatecongressional committees, which shall include an explanation of the rationale for the action.
 
 #### (b) Limitations
 

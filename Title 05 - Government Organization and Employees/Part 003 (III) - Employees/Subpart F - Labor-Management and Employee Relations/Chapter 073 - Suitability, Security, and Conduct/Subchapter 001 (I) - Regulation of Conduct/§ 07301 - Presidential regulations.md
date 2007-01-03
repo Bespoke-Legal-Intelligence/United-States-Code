@@ -458,35 +458,9 @@ Sec. 503. <i>Definitions</i>. For purposes of this order, the term:
 
 Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
-#### Ex. Ord. No. 12820. Facilitating Federal Employees’ Participation in Community Service Activities
+#### Executive Order No. 12820
 
-Ex. Ord. No. 12820, Nov. 5, 1992, 57 F.R. 53429, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 101–610, as amended \[42 U.S.C. 12501 et seq.\], and in order to ensure that the Federal Government encourages its employees’ participation in community service, it is hereby ordered as follows:
-
-Section 1. <i>Charge to the Cabinet and Members of the Executive Branch Departments and Agencies.</i>
-
-(a) The head of each Executive department and agency shall encourage agency employees to participate voluntarily in direct and consequential community service. Community service participation may include, among other things, participation in programs, activities and initiatives designed to address problems such as drug abuse, crime, homelessness, illiteracy, AIDS, teenage pregnancy, and hunger, and problems associated with low-income housing, education, health care and the environment. The White House Office of National Service and the Commission on National and Community Service shall serve as a resource to provide information and support.
-
-(b) The head of each Executive department and agency shall designate a senior official of his or her department or agency to provide leadership in and support for the Federal commitment to community service through employee awareness and participation within his or her department and agency. The senior official shall report to his or her department or agency head to ensure that community service activities receive a high level of visibility and promotion.
-
-(c) The head of each Executive department and agency shall designate an existing office in his or her department or agency to perform the functions listed below. The office shall serve as the Office of Community Service and will be responsible for:
-
-(1) Providing information to employees of the department or agency concerning community service opportunities;
-
-(2) Working with the White House Office of National Service and the Office of Personnel Management to consider any appropriate changes in department or agency policies or practices that would encourage employee participation in community service activities; and
-
-(3) Acting as a liaison with the White House Office of National Service and the Commission on National and Community Service.
-
-Sec. 2. <i>Administrative Provisions.</i>
-
-The White House Office of National Service and the Commission on National and Community Service shall provide such information with respect to community service programs and activities and such advice and assistance as may be required by the departments and agencies for the purpose of carrying out their functions under this order.
-
-Sec. 3. <i>Reporting Provisions.</i>
-
-The head of each Executive department or agency, or his or her designee, shall submit an annual report on the actions the department or agency has taken to encourage its employees to participate in community service to the White House Office of National Service not later than December 30 each year.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12820, Nov. 5, 1992, 57 F.R. 53429, which facilitated Federal employees’ participation in community service activities, was revoked by Ex. Ord. No. 13401, §3(b), Apr. 27, 2006, 71 F.R. 25738.
 
 #### Executive Order No. 12834
 
@@ -520,9 +494,59 @@ Sec. 6. <i>Phase-In of Implementation</i>. Implementation of the policy set fort
 
 Sec. 7. <i>Consistency with Other Laws</i>. The provisions of this order shall be implemented consistent with applicable law, including the Federal Service Labor-Management Relations Act (5 U.S.C. 7101 <i>et seq</i>.) and the National Labor Relations Act (29 U.S.C. 151 <i>et seq</i>.)\[.\] Provisions of existing collective bargaining agreements shall be honored and agencies shall consult with employee labor representatives about the implementation of this order. Nothing herein shall be construed to impair or alter the powers and duties of Federal agencies established under law. Nothing herein shall be construed to replace any agency policy currently in effect, if such policy is legally established, in writing, and consistent with the terms of this order. Agencies shall review their current policy to confirm that agency policy comports with this order, and policy found not in compliance shall be revised to comply with the terms of this order.
 
-Sec. 8. <i>Cause of Action</i>. This order does not create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person or affect in any way the liability of the executive branch under the Federal Tort Claims Act \[28 U.S.C. 2671 et seq.\].
+Sec. 8. <i>Cause of Action</i>. This order does not create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person or affect in any way the liability of the executive branch under the Federal Tort Claims Act \[see Short Title note set out under section 2671 of Title 28, Judiciary and Judicial Procedure\].
 
 Sec. 9. <i>Construction</i>. Nothing in this order shall limit an agency head from establishing more protective policies on smoking in the Federal workplace for employees and members of the public visiting or using Federal facilities.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13401. Responsibilities of Federal Departments and Agencies With Respect to Volunteer Community Service
+
+Ex. Ord. No. 13401, Apr. 27, 2006, 71 F.R. 25737, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to help ensure that the Federal Government supports and encourages volunteer community service, it is hereby ordered as follows:
+
+Section 1. <i>Designation of a Liaison for Volunteer Community Service</i>. (a) The head of each agency shall, within 20 days after the date of this order, designate an officer or employee of such agency compensated at a level at or above the minimum level of pay of a member of the Senior Executive Service to serve under the authority of the head of the agency as the agency liaison for volunteer community service (Liaison).
+
+(b) The Liaison in each agency shall promote and support community service on a voluntary basis among Federal employees, including those approaching retirement; promote the use of skilled volunteers; and facilitate public recognition for volunteer community service.
+
+(c) The head of each agency shall prescribe arrangements within the agency for support and supervision of the Liaison that ensure high priority and substantial visibility for the function of the Liaison within the agency under this order.
+
+(d) Each executive agency shall provide its Liaison with appropriate administrative support and other resources to meet the responsibilities of the Liaison under this order.
+
+Sec. 2. <i>Goals and Responsibilities of the Liaison</i>. The Liaison shall foster within the Liaison's agency a culture of taking responsibility, service to others, and good citizenship. Toward that end, the Liaison shall:
+
+(a) identify, catalog, and review all activities of the agency that relate to volunteer community service, including, but not limited to rules, orders, grant programs, external relations, and other policies and practices, and make such recommendations to the head of the agency for adjustments as may be appropriate;
+
+(b) actively work with USA Freedom Corps to promote volunteer community service among agency employees by providing information about community service opportunities;
+
+(c) coordinate within the agency actions to facilitate public recognition for volunteer community service;
+
+(d) promote, expand, and enhance skilled volunteer community service opportunities;
+
+(e) work with the USA Freedom Corps and the Director of the Office of Personnel Management (OPM) to consider any appropriate changes in agency policies or practices that are not currently consistent with OPM guidance;
+
+(f) coordinate the awarding of the President's Volunteer Service Award to recognize outstanding volunteer service by employees within the agency; and
+
+(g) act as a liaison with the USA Freedom Corps.
+
+Sec. 3. <i>Administrative Provisions</i>. (a) The USA Freedom Corps shall provide such information with respect to volunteer community service programs and activities and such advice and assistance as may be required by agencies in performing their functions under this order.
+
+(b) Executive Order 12820 of November 5, 1992, is revoked.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) As used in this order:
+
+&emsp;(i) “agency” has the meaning of “executive agency” as defined in section 105 of title 5, United States Code; and
+
+&emsp;(ii) “USA Freedom Corps” means the Director of the USA Freedom Corps Office established by section 4 of Executive Order 13254 of January 29, 2002.
+
+Sec. 4. <i>Reporting Provisions</i>. (a) Not later than 180 days from the date of this order and annually thereafter, each agency Liaison shall prepare and submit a report to the USA Freedom Corps that includes a description of the agency's activities in performing its functions under this order.
+
+(b) A Liaison's first report under subsection (a) shall include annual performance indicators and measurable objectives for agency action approved by the head of the agency. Each report filed thereafter under subsection (a) shall measure the agency's performance against the indicators and objectives approved by the head of the agency.
+
+Sec. 5. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable by any party at law or in equity against the United States, its departments, agencies, entities, officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

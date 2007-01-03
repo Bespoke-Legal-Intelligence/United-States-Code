@@ -12,7 +12,7 @@
 
 &emsp;(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
 
-&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at thelowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
+&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
 
 &emsp;(iv) by a permittee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay such permittee the reasonable cost of processing and reproducing such data and information for the Secretary,
 
@@ -34,7 +34,7 @@ The Secretary shall prescribe regulations to (1) assure that the confidentiality
 
 (1) The Secretary shall transmit to any affected State—
 
-&emsp;(A) an index, and upon request copies of, all relevant actual or proposed programs, plans, reports, environmental impact statements, tract nominations (including negative nominations) and other lease sale information, any similar type of relevant information, and all modifications and revisions thereof and comments thereon, prepared or obtained by the Secretary pursuant to this subchapter, but no information transmitted by the Secretary under this subsection shall identify any particular tract with the name or names of any particular party so as not to compromise the competitive position of any party or parties participating in the nominations;
+&emsp;(A) an index, and upon request copies of, all relevant actual or proposed programs, plans, reports, environmental impact statements, tract nominations (including negative nominations) and other lease sale information, any similar type of relevant information, and all modifications and revisions thereof and comments thereon, prepared or obtained by the Secretary pursuant to this subchapter, but no information transmitted by the Secretaryunder this subsection shall identify any particular tract with the name or names of any particular party so as not to compromise the competitive position of any party or parties participating in the nominations;
 
 &emsp;(B)(i) the summary of data prepared by the Secretary pursuant to subsection (b)(2) of this section, and (ii) any other processed, analyzed, or interpreted data prepared by the Secretary pursuant to subsection (b)(1) of this section, unless the Secretary determines that transmittal of such data prepared pursuant to subsection (b)(1) of this section would unduly damage the competitive position of the lessee or permittee who provided the Secretary with the information which the Secretary had processed, analyzed, or interpreted; and
 

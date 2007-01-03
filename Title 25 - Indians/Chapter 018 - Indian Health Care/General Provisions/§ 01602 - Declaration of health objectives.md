@@ -1,6 +1,6 @@
 ### §1602. Declaration of health objectives
 
-(a) The Congress hereby declares that it is the policy of this Nation, in fulfillment of its special responsibilities and legal obligation to the American Indian people, to assure the highest possible health status for Indians and urban Indians and to provide all resources necessary to effect that policy.
+(a) The Congress hereby declares that it is the policy of this Nation, in fulfillment of its specialresponsibilities and legal obligation to the American Indian people, to assure the highest possible health status for Indians and urban Indians and to provide all resources necessary to effect that policy.
 
 (b) It is the intent of the Congress that the Nation meet the following health status objectives with respect to Indians and urban Indians by the year 2000:
 

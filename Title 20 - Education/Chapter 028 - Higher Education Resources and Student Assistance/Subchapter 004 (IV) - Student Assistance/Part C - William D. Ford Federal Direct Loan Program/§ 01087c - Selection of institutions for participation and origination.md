@@ -48,7 +48,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 #### (d) Eligible institutions
 
-The Secretary may not select an institution of higher education for participation under this section unless such institution is an eligible institution under section 1085(a) of this title.
+The Secretary may not select an institution of higher education for participation under thissection unless such institution is an eligible institution under section 1085(a) of this title.
 
 #### (e) Consortia
 

@@ -32,7 +32,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–314, §1041(a)(12), struck out designations for pars. (1) and (2) and text of par. (1). Prior to amendment par. (1) read as follows: “In the documents provided to Congress by the Secretary of Defense in support of the budget submitted by the President under section 1105 of title 31 for any fiscal year, the Secretary shall set forth the proposed amount of the man-years of effort to be funded by the Department of Defense for each federally funded research and development center for the fiscal year covered by that budget.”
+2002—Subsec. (d). Pub. L. 107–314, §1041(a)(12), struck out designations for pars. (1) and (2) and text of par. (1). Prior to amendment par. (1) read as follows: “In thedocuments provided to Congress by the Secretary of Defense in support of the budget submitted by the President under section 1105 of title 31 for any fiscal year, the Secretary shall set forth the proposed amount of the man-years of effort to be funded by the Department of Defense for each federally funded research and development center for the fiscal year covered by that budget.”
 
 1999—Subsec. (d)(2). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -51,4 +51,6 @@ Section 256(a)(2) of Pub. L. 102–190 provided that:
 #### GAO Study; Report
 
 Section 101(c) \[title X, §912(b), (c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 912(b), (c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, directed Comptroller General to conduct a study of national defense role of federally funded research and development centers and submit a report to Congress not later than one year after Oct. 18, 1986.
+
+§2368
 

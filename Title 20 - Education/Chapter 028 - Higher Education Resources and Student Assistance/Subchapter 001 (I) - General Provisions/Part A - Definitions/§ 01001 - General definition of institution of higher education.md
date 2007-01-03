@@ -56,7 +56,7 @@ Pub. L. 102–325, §2, July 23, 1992, 106 Stat. 458, provided that: “Except a
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–50, §27, June 3, 1987, 101 Stat. 363, provided that: “The amendments made by this Act \[see Short Title of 1987 Amendment note below\] shall take effect as if enacted as part of the Higher Education Amendments of 1986 \[Pub. L. 99–498, see Short Title of 1986 Amendments note below\].”
+Pub. L. 100–50, §27, June 3, 1987, 101 Stat. 363, provided that: “The amendments made by this Act \[see ShortTitle of 1987 Amendment note below\] shall take effect as if enacted as part of the Higher Education Amendments of 1986 \[Pub. L. 99–498, see Short Title of 1986 Amendments note below\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -88,6 +88,16 @@ Pub. L. 94–482, title V, §532, Oct. 12, 1976, 90 Stat. 2241, provided that: �
 
 &emsp;“(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–292, §1, Sept. 30, 2006, 120 Stat. 1340, provided that: “This Act \[amending sections 1085, 1087h, 1101a, and 1101c of this title, enacting provisions set out as notes under this section and section 1085 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Third Higher Education Extension Act of 2006’.”
+
+Pub. L. 109–238, §1, June 30, 2006, 120 Stat. 507, provided that: “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Second Higher Education Extension Act of 2006’.”
+
+Pub. L. 109–212, §1, Apr. 1, 2006, 120 Stat. 321, provided that: “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Higher Education Extension Act of 2006’.”
+
+Pub. L. 109–171, title VIII, §8001(a), Feb. 8, 2006, 120 Stat. 155, provided that: “This subtitle \[subtitle A (§§8001–8024) of title VIII of Pub. L. 109–171, enacting sections 1070a–1 and 1092e of this title, amending sections 1002, 1071, 1074, 1075, 1077a, 1078 to 1078–3, 1078–6 to 1078–10, 1082, 1085, 1087, 1087–1, 1087e, 1087h, 1087j, 1087dd, 1087<i>ll</i>, 1087<i>oo</i> to 1087ss, 1087vv, 1088, 1091, 1091b, and 1095a of this title, enacting provisions set out as notes under sections 1002, 1075, 1078, 1087–1, 1087<i>oo</i> to 1087qq, and 1087ss of this title, and amending provisions set out as a note under section 1078–10 of this title\] may be cited as the ‘Higher Education Reconciliation Act of 2005’.”
+
 #### Short Title of 2005 Amendments
 
 Pub. L. 109–150, §1, Dec. 30, 2005, 119 Stat. 2884, provided that: “This Act \[amending section 1087–1 of this title, enacting provisions set out as a note under section 1087–1 of this title, and amending provisions set out as notes under this section and section 1078–10 of this title\] may be cited as the ‘Second Higher Education Extension Act of 2005’.”
@@ -96,7 +106,7 @@ Pub. L. 109–67, §1, Sept. 21, 2005, 119 Stat. 2001, provided that: “This Ac
 
 Pub. L. 109–66, §1, Sept. 21, 2005, 119 Stat. 1999, provided that: “This Act \[amending section 1091b of this title\] may be cited as the ‘Pell Grant Hurricane and Disaster Relief Act’.”
 
-#### Short Title of 2004 Amendments
+#### Short Title of 2004 Amendment
 
 Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: “This Act \[amending sections 1078–10, 1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the ‘Taxpayer-Teacher Protection Act of 2004’.”
 
@@ -116,7 +126,7 @@ Pub. L. 105–78, title VI, §609(a), Nov. 13, 1997, 111 Stat. 1522, provided in
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §601\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–275, provided that: “This title \[enacting sections 1087–3, 1087–4, and 1132f–10 of this title, amending sections 1078–3, 1085, and 1087–2 of this title, repealing sections 1087–2, 1087–3, and 1132f to 1132f–9 of this title, and enacting provisions set out as notes under sections 1078–3 and 1087–2 of this title\] may be cited as the ‘Student Loan Marketing Association Reorganization Act of 1996’.”
+Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §601\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–275, provided that:“This title \[enacting sections 1087–3, 1087–4, and 1132f–10 of this title, amending sections 1078–3, 1085, and 1087–2 of this title, repealing sections 1087–2, 1087–3, and 1132f to 1132f–9 of this title, and enacting provisions set out as notes under sections 1078–3 and 1087–2 of this title\] may be cited as the ‘Student Loan Marketing Association Reorganization Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -152,7 +162,7 @@ Pub. L. 101–239, title II, §2001, Dec. 19, 1989, 103 Stat. 2111, provided tha
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–50, §1(a), June 3, 1987, 101 Stat. 335, provided that: “This Act \[enacting sections 1059a, 1087tt, 1087uu, 1087uu–1, and 1145d–1 of this title, amending sections 1057, 1058, 1062, 1063a to 1063c, 1065, 1066, 1067, 1069a, 1070a to 1070a–4, 1070a–6, 1070b–3, 1070c–4, 1070d–1b, 1070d–2, 1070e–1, 1070f, 1075, 1077, 1077a, 1078 to 1078–3, 1078–5, 1078–6, 1080a, 1081 to 1083, 1085, 1087–1, 1087–2, 1087d, 1087bb, 1087cc, 1087cc–1, 1087dd, 1087ee, 1087<i>oo</i> to 1087ss, 1087vv, 1088, 1089 to 1091, 1092 to 1092b, 1095, 1096, 1098, 1109 to 1109d, 1111, 1111b, 1111f, 1111g, 1122, 1132a, 1132a–1, 1132d, 1132d–2, 1132g–3, 1132i–1, 1134h to 1134j, 1141, 1145e, 1221e, and 1221e–1 of this title, section 4604 of Title 22, Foreign Relations and Intercourse, and sections 2752, 2753, and 2756 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 2752 of Title 42, and amending provisions set outas notes under sections 1011, 1071, 1087dd, 1087kk, 1091, 1121, 1145d, 1221–1, and 1221e–1 of this title and section 2753 of Title 42\] may be cited as the ‘Higher Education Technical Amendments Act of 1987’.”
+Pub. L. 100–50, §1(a), June 3, 1987, 101 Stat. 335, provided that: “This Act \[enacting sections 1059a, 1087tt, 1087uu, 1087uu–1, and 1145d–1 of this title, amending sections 1057, 1058, 1062, 1063a to 1063c, 1065, 1066, 1067, 1069a, 1070a to 1070a–4, 1070a–6, 1070b–3, 1070c–4, 1070d–1b, 1070d–2, 1070e–1, 1070f, 1075, 1077, 1077a, 1078 to 1078–3, 1078–5, 1078–6, 1080a, 1081 to 1083, 1085, 1087–1, 1087–2, 1087d, 1087bb, 1087cc, 1087cc–1, 1087dd, 1087ee, 1087<i>oo</i> to 1087ss, 1087vv, 1088, 1089 to 1091, 1092 to 1092b, 1095, 1096, 1098, 1109 to 1109d, 1111, 1111b, 1111f, 1111g, 1122, 1132a, 1132a–1, 1132d, 1132d–2, 1132g–3, 1132i–1, 1134h to 1134j, 1141, 1145e, 1221e, and 1221e–1 of this title, section 4604 of Title 22, Foreign Relations and Intercourse, and sections 2752, 2753, and 2756 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 2752 of Title 42, and amending provisions set out as notes under sections 1011, 1071, 1087dd, 1087kk, 1091, 1121, 1145d, 1221–1, and 1221e–1 of this title and section 2753 of Title 42\] may be cited as the ‘Higher Education Technical Amendments Act of 1987’.”
 
 #### Short Title of 1986 Amendments
 
@@ -198,7 +208,7 @@ Pub. L. 94–328, §1, June 30, 1976, 90 Stat. 727, provided: “That this joint
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–318, §1, June 23, 1972, 86 Stat. 235, provided: “That this Act \[enacting chapter 36 (§1601 et seq.), chapter 37 (§1651 et seq.), chapter 38 (§1681 et seq.), and sections 241aa to 241ff, 887c, 887d, 900 to 900a–5, 1005a, 1021, 1031, 1042, 1070 to 1070e, 1070e–1, 1087–1, 1087–2, 1087aa to 1087ff, 1088d to 1088g, 1119a, 1132a to 1132e–1, 1134 to 1134s, 1135, 1135a, 1135b to 1135c, 1135c–1, 1142a, 1142b, 1144a, 1145a, 1211a, 1221a to 1221h, 1227 of this title, and section 326a of Title 7, Agriculture, and 2756a of Title 42, The Public Health and Welfare, amending this section and sections 240, 241c, 241e, 331a, 332, 421, 441, 511, 513, 822, 823, 842, 843, 863, 880b–3a, 1003, 1011, 1021, 1022 to 1024, 1027, 1031, 1033, 1041, 1051 to 1056, 1061, 1068, 1070, 1074, 1075, 1077, 1078, 1078a, 1080, 1083, 1084, 1087, 1087a, 1087c, 1088, 1088c, 1091, 1091a to 1091c, 1101, 1102, 1108 to 1111, 1115, 1116, 1118, 1119, 1119a, 1119b–2, 1121, 1129, 1133, 1133a, 1134j, 1136, 1136a, 1136b, 1141, 1176, 1231, 1231a, 1232a, 1232c, 1242, 1244, 1248, 1302, 1321 to 1323, 1341, 1352, 1371, 1391, and 1412 of this title, and sections 329, 331, 343, 349, 361, and 1626 of Title 7, sections 24, 84, 1464, and 1757 of Title 12, Banks and Banking, sections 203 and 213 of Title 29, Labor, and sections 2751, 2752, and 2754 ofTitle 42, repealing sections 1, 2, 426, 711 to 721, 731, 732, 746, 1021, 1031, 1032, 1060, 1118, 1119a, 1119b–2, and 1119c–4 of this title, and enacting provisions set out as notes under this section and sections 241a, 241e, 241aa, 331a, 425, 821, 887d, 1005a, 1009, 1070, 1070e, 1074, 1075, 1087–2, 1087aa, 1091a, 1132a, 1132c–3, 1135c, 1231, and 1232 of this title, sections 301 and 326a of Title 7, and section 3501 of Title 42\] may be cited as the ‘Education Amendments of 1972’.”
+Pub. L. 92–318, §1, June 23, 1972, 86 Stat. 235, provided: “That this Act \[enacting chapter 36 (§1601 et seq.), chapter 37 (§1651 et seq.), chapter 38 (§1681 et seq.), and sections 241aa to 241ff, 887c, 887d, 900 to 900a–5, 1005a, 1021, 1031, 1042, 1070 to 1070e, 1070e–1, 1087–1, 1087–2, 1087aa to 1087ff, 1088d to 1088g, 1119a, 1132a to 1132e–1, 1134 to 1134s, 1135, 1135a, 1135b to 1135c, 1135c–1, 1142a, 1142b, 1144a, 1145a, 1211a, 1221a to 1221h, 1227 of this title, and section 326a of Title 7, Agriculture, and 2756a of Title 42, The Public Health and Welfare, amending this section and sections 240, 241c, 241e, 331a, 332, 421, 441, 511, 513, 822, 823, 842, 843, 863, 880b–3a, 1003, 1011, 1021, 1022 to 1024, 1027, 1031, 1033, 1041, 1051 to 1056, 1061, 1068, 1070, 1074, 1075, 1077, 1078, 1078a, 1080, 1083, 1084, 1087, 1087a, 1087c, 1088, 1088c, 1091, 1091a to 1091c, 1101, 1102, 1108 to 1111, 1115, 1116, 1118, 1119, 1119a, 1119b–2, 1121, 1129, 1133, 1133a, 1134j, 1136, 1136a, 1136b, 1141, 1176, 1231, 1231a, 1232a, 1232c, 1242, 1244, 1248, 1302, 1321 to 1323, 1341, 1352, 1371, 1391, and 1412 of this title, and sections 329, 331, 343, 349, 361, and 1626 of Title 7, sections 24, 84, 1464, and 1757 of Title 12, Banks and Banking, sections 203 and 213 of Title 29, Labor, and sections 2751, 2752, and 2754 of Title 42, repealing sections 1, 2, 426, 711 to 721, 731, 732, 746, 1021, 1031, 1032, 1060, 1118, 1119a, 1119b–2, and 1119c–4 of this title, and enacting provisions set out as notes under this section and sections 241a, 241e, 241aa, 331a, 425, 821, 887d, 1005a, 1009, 1070, 1070e, 1074, 1075, 1087–2, 1087aa, 1091a, 1132a, 1132c–3, 1135c, 1231, and 1232 of this title, sections 301 and 326a of Title 7, and section 3501 of Title 42\] may be cited as the ‘Education Amendments of 1972’.”
 
 #### Short Title of 1968 Amendment
 
@@ -218,7 +228,7 @@ For short title of section 1092(f) of this title as the Jeanne Clery Disclosure 
 
 #### Higher Education Extension
 
-Pub. L. 109–81, Sept. 30, 2005, 119 Stat. 2048, as amended by Pub. L. 109–150, §2(a), Dec. 30, 2005, 119 Stat. 2884, provided that:
+Pub. L. 109–81, Sept. 30, 2005, 119 Stat. 2048, as amended by Pub. L. 109–150, §2(a), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–212, §2, Apr. 1, 2006, 120 Stat. 321; Pub. L. 109–238, §2, June 30, 2006, 120 Stat. 507; Pub. L. 109–292, §2, Sept. 30, 2006, 120 Stat. 1340, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -228,7 +238,7 @@ Pub. L. 109–81, Sept. 30, 2005, 119 Stat. 2048, as amended by Pub. L. 109–15
 
 “(a)
 
-Extension of Duration.—The authorization of appropriations for, and the duration of, each program authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) shall be extended through March 31, 2006.
+Extension of Duration.—The authorization of appropriations for, and the duration of, each program authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) shall be extended through June 30, 2007.
 
 “(b)
 
@@ -254,6 +264,12 @@ Additional Extension not Permitted.—Section 422 of the General Education Provi
 
 Exception.—The programs described in subsection (a) for which the authorization of appropriations, or the duration of which, is extended by this section include provisions applicable to institutions in, and students in or from, the Freely Associated States, except that those provisions shall be applicable with respect to institutions in, and students in or from, the Federated States of Micronesia and the Republic of the Marshall Islands only to the extent specified in Public Law 108–188 \[48 U.S.C. 1921 et seq.\].”
 
+\[Pub. L. 109–292, §7, Sept. 30, 2006, 120 Stat. 1343, provided that: “Nothing in this Act \[see Short Title of 2006 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (P.L. 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
+
+\[Pub. L. 109–238, §3, June 30, 2006, 120 Stat. 507, provided that: “Nothing in this Act \[see Short Title of 2006 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
+
+\[Pub. L. 109–212, §3, Apr. 1, 2006, 120 Stat. 321, provided that: “Nothing in this Act \[see Short Title of 2006 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\].”\]
+
 Similar provisions were contained in Pub. L. 108–366, Oct. 25, 2004, 118 Stat. 1741.
 
 #### Study of Opportunities for Participation in Athletics Programs
@@ -266,7 +282,7 @@ Pub. L. 103–208, §2(m), Dec. 20, 1993, 107 Stat. 2486, provided that: “The 
 
 #### Terms Defined for Purposes of Titles XIII, XIV, and XV of Pub. L. 102–325
 
-Pub. L. 102–325, §1(c), July 23, 1992, 106 Stat. 448, as amended by Pub. L. 105–244, title I, §102(a)(6)(A), Oct. 7, 1998, 112 Stat. 1618, provided that: “Unless otherwise provided therein, terms used in titles XIII, XIV, and XV \[enacting sections 1145h and 4426 of this title, sections3301 to 3371 of Title 25, Indians, and sections 2401 to 2405 of Title 29, Labor, amending sections 1221e–1, 1232g, 3412, 4412, 4414, 4416, 4417, 4418, 4421, 4422, 4423, 4424, 4425, 5381, and 5411 of this title, section 5315 of Title 5, Government Organization and Employees, sections 4604 and 4609 of Title 22, Foreign Relations and Intercourse, sections 640c–1, 1810, 1836, and 1852 of Title 25, and sections 295g–8 and 12576 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1070, 1070a–11, 1070a–21, 1071, 1080, 1088, 1101, 1132a, 1134, 1221–1, 1221e, 1232g, 1452, and 9003 of this title, amending provisions set out as a note under section 1091a of this title, and repealing provisions set out as a note under section 362 of Title 11, Bankruptcy\] shall have the same meaning given to such terms in section 101 of the Higher Education Act of 1965 \[this section\].”
+Pub. L. 102–325, §1(c), July 23, 1992, 106 Stat. 448, as amended by Pub. L. 105–244, title I, §102(a)(6)(A), Oct. 7, 1998, 112 Stat. 1618, provided that: “Unless otherwise provided therein, terms used in titles XIII, XIV, and XV \[enacting sections 1145h and 4426 of this title, sections 3301 to 3371 of Title 25, Indians, and sections 2401 to 2405 of Title 29, Labor, amending sections 1221e–1, 1232g, 3412, 4412, 4414, 4416, 4417, 4418, 4421, 4422, 4423, 4424, 4425, 5381, and 5411 of this title, section 5315 of Title 5, Government Organization and Employees, sections 4604 and 4609 of Title 22, Foreign Relations and Intercourse, sections 640c–1, 1810, 1836, and 1852 of Title 25, and sections 295g–8 and 12576 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1070, 1070a–11, 1070a–21, 1071, 1080, 1088, 1101, 1132a, 1134, 1221–1, 1221e, 1232g, 1452, and 9003 of this title, amending provisions set out as a note under section 1091a of this title, and repealing provisions set out as a note under section 362 of Title 11, Bankruptcy\] shall have the same meaning given to such terms in section 101 of the Higher Education Act of 1965 \[this section\].”
 
 #### General Provisions of 1972 Amendment
 

@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 104–29, §7(b), added subsec. (f).
 
 1994—Subsec. (d). Pub. L. 103–325 added subsec. (d).
 
-1980—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under section 1640(d) of this title.
+1980—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of thestatement”, and struck out exception for actions under section 1640(d) of this title.
 
 #### Effective Date of 1980 Amendment
 

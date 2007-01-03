@@ -8,7 +8,7 @@
 
 &emsp;(2) the names of all other members of the Navajo Tribe, and other members of the Hopi Tribe, who are eligible for benefits provided under this subchapter and who have not received all the benefits for which such members are eligible under this subchapter; and
 
-&emsp;(3) the fair market value of the habitations and improvements owned by the heads of households identified by the Commissioner is <sup>1</sup> being among the persons named in clause (1) of this subsection.
+&emsp;(3) the fair market value of the habitations and improvements owned by the heads of households identified by the Commissioner is <sup>1</sup>being among the persons named in clause (1) of this subsection.
 
 (Pub. L. 93–531, §13, Dec. 22, 1974, 88 Stat. 1717; Pub. L. 96–305, §6, July 8, 1980, 94 Stat. 932; Pub. L. 100–666, §4(d), Nov. 16, 1988, 102 Stat. 3931; Pub. L. 101–121, title I, §120, Oct. 23, 1989, 103 Stat. 722.)
 

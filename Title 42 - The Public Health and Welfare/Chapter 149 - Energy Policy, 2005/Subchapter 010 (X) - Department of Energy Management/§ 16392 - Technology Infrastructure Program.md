@@ -132,7 +132,7 @@ Not later than July 1, 2008, the Secretary shall submit to Congress a report on 
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for activities under this section $10,000,000 for each of fiscal years 2006 through 2008.
+There are authorized to be appropriated to the Secretary for activities under this section$10,000,000 for each of fiscal years 2006 through 2008.
 
 (Pub. L. 109–58, title X, §1002, Aug. 8, 2005, 119 Stat. 927.)
 

@@ -28,5 +28,5 @@ Section 2 of the Diplomatic Relations Act, referred to in par. (2), is classifie
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–393 effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 95–393 effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
 

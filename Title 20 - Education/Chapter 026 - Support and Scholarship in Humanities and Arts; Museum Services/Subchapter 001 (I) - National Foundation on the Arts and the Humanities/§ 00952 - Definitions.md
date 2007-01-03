@@ -8,7 +8,7 @@ As used in this subchapter—
 
 (c) The term “production” means plays (with or without music), ballet, dance and choral performances, concerts, recitals, operas, exhibitions, readings, motion pictures, television, radio, film, video, and tape and sound recordings, and any other activities involving the execution or rendition of the arts and meeting such standards as may be approved by the National Endowment for the Arts established by section 954 of this title.
 
-(d) The term “project” means programs organized to carry out the purposes of this subchapter, including programs to foster American artistic creativity, to commission works of art, to create opportunities for individuals to develop artistic talents when carried on as a partof a program otherwise included in this definition, and to develop and enhance the widest public knowledge and understanding of the arts, and includes, where appropriate, rental or purchase of facilities, purchase or rental of land, and acquisition of equipment. Such term also includes—
+(d) The term “project” means programs organized to carry out the purposes of this subchapter, including programs to foster American artistic creativity, to commission works of art, to create opportunities for individuals to develop artistic talents when carried on as a part of a program otherwise included in this definition, and to develop and enhance the widest public knowledge and understanding of the arts, and includes, where appropriate, rental or purchase of facilities, purchase or rental of land, and acquisition of equipment. Such term also includes—
 
 &emsp;(1) the renovation of facilities if (A) the amount of the expenditure of Federal funds for such purpose in the case of any project does not exceed $250,000, or (B) two-thirds of the members of the National Council on the Arts or the National Council on the Humanities, as the case may be (who are present and voting) approve of the grant or contract involving an expenditure for such purpose; and
 
@@ -28,7 +28,7 @@ As used in this subchapter—
 
 &emsp;(2) has the potential to develop artistically and institutionally to broaden public access to the arts in rural and innercity areas and other areas that are underserved artistically.
 
-(j) The term “determined to be obscene” means determined, in a final judgment of a court of record and of competent jurisdiction in the United States, to be obscene.
+(j) The term “determined to be obscene” means determined, in a final judgment of acourt of record and of competent jurisdiction in the United States, to be obscene.
 
 (k) The term “final judgment” means a judgment that is either—
 

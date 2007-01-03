@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—NORTHERN PACIFIC HALIBUT ACT OF 1924
 
+<i><sup>1</sup></i><i> So in original. No subsec. (d) has been enacted.</i>
+
 
 ---
 

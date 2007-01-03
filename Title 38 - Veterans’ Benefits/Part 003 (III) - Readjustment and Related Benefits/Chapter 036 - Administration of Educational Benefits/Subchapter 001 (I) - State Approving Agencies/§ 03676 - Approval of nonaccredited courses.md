@@ -48,13 +48,17 @@
 
 &emsp;(9) The institution is financially sound and capable of fulfilling its commitments for training.
 
-&emsp;(10) The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
+&emsp;(10) The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not bedeemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
 
 &emsp;(11) The institution does not exceed its enrollment limitations as established by the State approving agency.
 
 &emsp;(12) The institution's administrators, directors, owners, and instructors are of good reputation and character.
 
-&emsp;(13) The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time prior to completion and such policy mustprovide that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length.
+&emsp;(13) The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time before completion and—
+
+&emsp;&emsp;(A) in the case of an institution (other than (i) a Federal, State, or local Government institution or (ii) an institution described in subparagraph (B)), such policy provides that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length; or
+
+&emsp;&emsp;(B) in the case of an institution that is a nonaccredited public educational institution, the institution has and maintains a refund policy regarding the unused portion of tuition, fees, and other charges that is substantially the same as the refund policy followed by accredited public educational institutions located within the same State as such institution.
 
 &emsp;(14) Such additional criteria as may be deemed necessary by the State approving agency.
 
@@ -72,9 +76,11 @@
 
 (e) Notwithstanding any other provision of this title, a course of education shall not be approved under this section if it is to be pursued in whole or in part by independent study.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, §303, Dec. 22, 2006, 120 Stat. 3428.)
 
 #### Amendments
+
+2006—Subsec. (c)(13). Pub. L. 109–461 substituted “before completion and—” and subpars. (A) and (B) for “prior to completion and such policy must provide that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length.”
 
 1992—Subsec. (e). Pub. L. 102–568 added subsec. (e).
 

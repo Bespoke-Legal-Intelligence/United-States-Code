@@ -130,7 +130,7 @@ Not later than 180 days after the date on which the Committee is established und
 
 #### (2) Composition
 
-&emsp;The Advisory Committee shall be composed of the following members, to be appointed bythe Secretary, in consultation with the Committee:
+&emsp;The Advisory Committee shall be composed of the following members, to be appointed by the Secretary, in consultation with the Committee:
 
 &emsp;&emsp;(A) 1 representative shall be appointed from each National Laboratory.
 
@@ -178,7 +178,7 @@ Not later than 180 days after the date on which the Committee is established und
 
 &emsp;Not later than 18 months after August 8, 2005, the Committee shall submit to the President and Congress a report that—
 
-&emsp;&emsp;(A) identifies, based on the report submitted under subsection (f)(3) of this section, any barriers to, and commercial risks associated with, the deployment of greenhouse gas intensity reducing technologies; and
+&emsp;&emsp;(A) identifies, based on the report submitted under subsection (f)(3) of this section,any barriers to, and commercial risks associated with, the deployment of greenhouse gas intensity reducing technologies; and
 
 &emsp;&emsp;(B) includes a plan for carrying out demonstration projects.
 
@@ -226,7 +226,7 @@ In carrying out greenhouse gas intensity reduction research and technology deplo
 
 #### References in Text
 
-Section 15801(3) of this title, referred to in subsec. (a)(7), was in the original “section 3(3) of the EnergyPolicy Act of 2005” and was translated as meaning section 2(3) of that Act to reflect the probable intent of Congress, because the Energy Policy Act of 2005 does not contain a section 3 and section 2(3) defines “National Laboratory”.
+Section 15801(3) of this title, referred to in subsec. (a)(7), was in the original “section 3(3) of the Energy Policy Act of 2005” and was translated as meaning section 2(3) of that Act to reflect the probable intent of Congress, because the Energy Policy Act of 2005 does not contain a section 3 and section 2(3) defines “National Laboratory”.
 
 This subtitle, referred to in subsec. (j), appearing in the original, is unidentifiable because title XVI of Pub. L. 102–486, of which this section is a part, does not contain subtitles.
 

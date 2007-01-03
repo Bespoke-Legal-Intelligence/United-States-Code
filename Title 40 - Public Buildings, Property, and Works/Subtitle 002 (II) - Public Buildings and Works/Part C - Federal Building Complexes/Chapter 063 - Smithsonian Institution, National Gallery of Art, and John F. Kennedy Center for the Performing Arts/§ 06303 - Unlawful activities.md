@@ -2,7 +2,7 @@
 
 (a)
 
-Displays and Solicitations.—It is unlawful for anyone other than an authorized employee or concessionaire to carry out any of thefollowing activities within the specified buildings and grounds:
+Displays and Solicitations.—It is unlawful for anyone other than an authorized employee or concessionaire to carry out any of the following activities within the specified buildings and grounds:
 
 &emsp;(1) Offer or expose any article for sale.
 

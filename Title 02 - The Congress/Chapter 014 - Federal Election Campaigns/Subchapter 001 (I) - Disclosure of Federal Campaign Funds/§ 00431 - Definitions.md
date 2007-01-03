@@ -16,7 +16,7 @@ When used in this Act:
 
 &emsp;(A) if such individual has received contributions aggregating in excess of $5,000 or has made expenditures aggregating in excess of $5,000; or
 
-&emsp;(B) if such individual has given his or her consent to another person to receive contributions or make expenditures on behalf of suchindividual and if such person has received such contributions aggregating in excess of $5,000 or has made such expenditures aggregating in excess of $5,000.
+&emsp;(B) if such individual has given his or her consent to another person to receive contributions or make expenditures on behalf of such individual and if such person has received such contributions aggregating in excess of $5,000 or has made such expenditures aggregating in excess of $5,000.
 
 (3) The term “Federal office” means the office of President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress.
 
@@ -66,7 +66,7 @@ When used in this Act:
 
 &emsp;&emsp;(I) any political committee of a political party if the person paying for such services is the regular employer of the person rendering such services and if such services are not attributable to activities which directly further the election of any designated candidate to Federal office; or
 
-&emsp;&emsp;(II) an authorized committee of a candidate or any other political committee, if the person paying for such services is the regular employer of the individual rendering such services and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
+&emsp;&emsp;(II) an authorized committee of a candidate or any other political committee, if the person paying for such services is the regular employer of the individual rendering such services and if such services are solely for the purpose of ensuring compliance withthis Act or chapter 95 or chapter 96 of title 26,
 
 > &emsp;but amounts paid or incurred by the regular employer for such legal or accounting services shall be reported in accordance with section 434(b) of this title by the committee receiving such services;
 
@@ -108,11 +108,11 @@ When used in this Act:
 
 &emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination for election, or election, of any individual to Federal office, except that the costs incurred by a membership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
 
-&emsp;(iv) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held inthe State in which such committee is organized, except that this clause shall not apply to costs incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
+&emsp;(iv) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to costs incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
 &emsp;(v) any payment made or obligation incurred by a corporation or a labor organization which, under section 441b(b) of this title, would not constitute an expenditure by such corporation or labor organization;
 
-&emsp;(vi) any costs incurred by an authorized committee or candidate in connection with the solicitation of contributions on behalf of such candidate, except that this clause shall not apply with respect to costs incurred by an authorized committee of a candidate in excess of an amount equal to 20 percent of the expenditure limitation applicable to such candidate under section 441a(b) of this title, but all such costs shall be reported in accordance with section 434(b) of this title;
+&emsp;(vi) any costs incurred by an authorized committee or candidate in connection with the solicitation of contributions on behalf ofsuch candidate, except that this clause shall not apply with respect to costs incurred by an authorized committee of a candidate in excess of an amount equal to 20 percent of the expenditure limitation applicable to such candidate under section 441a(b) of this title, but all such costs shall be reported in accordance with section 434(b) of this title;
 
 &emsp;(vii) the payment of compensation for legal or accounting services—
 
@@ -186,7 +186,7 @@ In general.—The term “Federal election activity” means—
 
 &emsp;&emsp;(i) voter registration activity during the period that begins on the date that is 120 days before the date a regularly scheduled Federal election is held and ends on the date of the election;
 
-&emsp;&emsp;(ii) voter identification, get-out-the-vote activity, or generic campaign activity conducted in connection with an election in which a candidate for Federal office appears on the ballot (regardless of whether a candidate for State or local office also appears on the ballot);
+&emsp;&emsp;(ii) voter identification, get-out-the-vote activity, or generic campaign activity conducted in connection with an election inwhich a candidate for Federal office appears on the ballot (regardless of whether a candidate for State or local office also appears on the ballot);
 
 &emsp;&emsp;(iii) a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned or identified) and that promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate); or
 
@@ -260,9 +260,9 @@ The Federal Election Campaign Act of 1971, as amended, referred to in par. (19),
 
 #### Amendments
 
-2002—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv),respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
+2002—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv), respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
 
-Par. (17). Pub. L. 107–155, §211, added par. (17) and struck out former par. (17) which read as follows: “The term ‘independent expenditure’ means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or any authorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.”
+Par. (17). Pub. L. 107–155, §211, added par. (17) and struck out former par. (17) which read as follows: “The term ‘independent expenditure’ means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or anyauthorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.”
 
 Pars. (20) to (24). Pub. L. 107–155, §101(b), added pars. (20) to (24).
 
@@ -336,7 +336,7 @@ Soft Money of National Political Parties.—
 
 &emsp;“(1)
 
-In general.—Except for subsection (b) of such section, section 323 of the Federal Election CampaignAct of 1971 \[2 U.S.C. 441i\] (as added by section 101(a)) shall take effect on November 6, 2002.
+In general.—Except for subsection (b) of such section, section 323 of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i\] (as added by section 101(a)) shall take effect on November 6, 2002.
 
 &emsp;“(2)
 
@@ -344,7 +344,7 @@ Transitional rules for the spending of soft money of national political parties.
 
 &emsp;&emsp;“(A)
 
-In general.—Notwithstanding section 323(a) of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i(a)\] (as added by section 101(a)), if a national committee of a political party described in such section (including any person who is subject to such section under paragraph (2) of such section), has received funds described in such section prior to November 6, 2002, the rules described in subparagraph (B) shall apply with respect to the spending of the amount of such funds in the possession of such committee as of such date.
+In general.—Notwithstanding section 323(a) of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i(a)\] (as added by section 101(a)), if a national committee of a political party described in such section (including any person who is subject to such section under paragraph (2) of such section), has received funds described in such section prior to November 6, 2002, the rules described in subparagraph (B) shall apply with respect to the spendingof the amount of such funds in the possession of such committee as of such date.
 
 &emsp;&emsp;“(B)
 
@@ -416,11 +416,11 @@ Section 1 of Pub. L. 96–187 provided: “That this Act \[amending this section
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–283 provided that: “This Act \[enacting sections 441a to 441j of this title, amending this section and sections 432, 434, 436, 437b to 439c, and455 of this title, section 591 of Title 18, Crimes and Criminal Procedure, and sections 9002, 9003, 9004, 9006, 9007, 9008, 9009, 9012, 9032, 9033, 9034, 9035, and 9039 of Title 26, Internal Revenue Code, repealing sections 437a, 441, and 456 of this title and sections 608, 610, 611, 612, 613, 614, 615, 616, and 617 of Title 18, and enacting provisions set out as notes under sections 437c, 437f, and 441 of this title and sections 9002, 9004, and 9035 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1976’.”
+Section 1 of Pub. L. 94–283 provided that: “This Act \[enacting sections 441a to 441j of this title, amending this section and sections 432, 434, 436, 437b to 439c, and 455 of this title, section 591 of Title 18, Crimes and Criminal Procedure, and sections 9002, 9003, 9004, 9006, 9007, 9008, 9009, 9012, 9032, 9033, 9034, 9035, and 9039 of Title 26, Internal Revenue Code, repealing sections 437a, 441, and 456 of this title and sections 608, 610, 611, 612, 613, 614, 615, 616, and 617 of Title 18, and enacting provisions set out as notes under sections 437c, 437f, and 441 of this title and sections 9002, 9004, and 9035 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1976’.”
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–443 provided: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456 of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47; and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
+Section 1 of Pub. L. 93–443 provided: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47; and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
 
 #### Short Title
 

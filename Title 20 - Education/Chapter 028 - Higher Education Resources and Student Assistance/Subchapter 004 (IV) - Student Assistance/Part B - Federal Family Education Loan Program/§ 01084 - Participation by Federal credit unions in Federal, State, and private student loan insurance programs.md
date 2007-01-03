@@ -1,6 +1,6 @@
 ### §1084. Participation by Federal credit unions in Federal, State, and private student loan insurance programs
 
-Notwithstanding any other provision of law, Federal credit unions shall, pursuant to regulations of the National Credit Union Administration, have power to make insured loans to student members in accordance with the provisions of this part relating to federally insured loans, or in accordance with the provisions of anyState or nonprofit private student loan insurance program which meets the requirements of section 1078(a)(1)(B) of this title.
+Notwithstanding any other provision of law, Federal credit unions shall, pursuant to regulations of the National Credit Union Administration, have power to make insured loans to student members in accordance with the provisions of this part relating to federally insured loans, or in accordance with the provisions of any State or nonprofit private student loan insurance program which meets the requirements of section 1078(a)(1)(B) of this title.
 
 (Pub. L. 89–329, title IV, §434, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408.)
 

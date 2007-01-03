@@ -110,7 +110,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (6) 5-year plan and program
 
-&emsp;The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrientsintroduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
+&emsp;The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrients introduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
 
 #### (7) 5-year study and demonstration projects
 
@@ -174,7 +174,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;(C) The plan shall identify the anticipated use and management of the site over the following twenty-year period including the expected termination of dumping at the site, the anticipated need for site management, including pollution control, following the termination of the use of the site.
 
-&emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall notbe less frequent than five years after adoption of the plan and every five years thereafter.
+&emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
 
 #### (12) Remediation of sediment contamination in areas of concern
 
@@ -304,7 +304,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;Each plan prepared under paragraph (1) shall—
 
-&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
+&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under theGreat Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
 
 &emsp;&emsp;(B) include the Agency's assessment of priorities for research needed to fulfill the terms of such Agreement; and
 
@@ -372,7 +372,7 @@ Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Funds Contributed by a Non-Federal Sponsor
 

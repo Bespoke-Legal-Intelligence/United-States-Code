@@ -10,7 +10,7 @@ In this chapter—
 
 &emsp;&emsp;(A) for which the building contract is placed after June 1, 1979;
 
-&emsp;&emsp;(B) in the absence of a building contract, the keel of which is laid, or which is at asimilar stage of construction, after January 1, 1980;
+&emsp;&emsp;(B) in the absence of a building contract, the keel of which is laid, or which is at a similar stage of construction, after January 1, 1980;
 
 &emsp;&emsp;(C) the delivery of which is after June 1, 1982; or
 

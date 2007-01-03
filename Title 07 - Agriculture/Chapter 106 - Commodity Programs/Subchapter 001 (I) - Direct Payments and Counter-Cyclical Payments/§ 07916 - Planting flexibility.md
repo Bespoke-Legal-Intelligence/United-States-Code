@@ -28,11 +28,11 @@ Subject to subsection (b) of this section, any commodity or crop may be planted 
 
 Paragraphs (1) and (2) of subsection (b) of this section shall not limit the planting of an agricultural commodity specified in paragraph (3) of that subsection—
 
-&emsp;(1) in any region in which there is a history of double-cropping of covered commodities with agricultural commodities specified in subsection (b)(3) of this section, as determinedby the Secretary, in which case the double-cropping shall be permitted;
+&emsp;(1) in any region in which there is a history of double-cropping of covered commodities with agricultural commodities specified in subsection (b)(3) of this section, as determined by the Secretary, in which case the double-cropping shall be permitted;
 
 &emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) of this section on base acres, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
 
-&emsp;(3) by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3) of this section, except that—
+&emsp;(3) by the producers on a farm that the Secretary determines has an established plantinghistory of a specific agricultural commodity specified in subsection (b)(3) of this section, except that—
 
 &emsp;&emsp;(A) the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998 through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
 

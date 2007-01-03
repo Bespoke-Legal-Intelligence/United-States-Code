@@ -2,7 +2,7 @@
 
 #### (a) Funding
 
-(1) In recognition of the direct contributions to the national security interests of the United States of the activities specified in section 5902 of this title, funds transferred under sections 108 and 109 of Public Law 102–229 (105 Stat. 1708) are authorized to be made available to carry out this chapter. Of the amount available to carry out this chapter—
+(1) In recognition of the direct contributions to the national security interests of the United States of the activities specified in section 5902 of this title, funds transferred under sections 108and 109 of Public Law 102–229 (105 Stat. 1708) are authorized to be made available to carry out this chapter. Of the amount available to carry out this chapter—
 
 &emsp;(A) not more than $40,000,000 may be made available for programs referred to in section 5902(b)(4) of this title relating to demilitarization of defense industries;
 

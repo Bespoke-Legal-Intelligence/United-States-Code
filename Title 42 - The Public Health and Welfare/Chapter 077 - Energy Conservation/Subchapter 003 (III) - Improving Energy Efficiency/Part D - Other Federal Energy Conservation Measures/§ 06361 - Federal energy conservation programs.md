@@ -58,7 +58,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Responsibilities of Executive Agencies
 
-1–101. Executive agencies shall promote the use of ridesharing (carpools, vanpools, privately leased buses, public transportation, and other multi-occupancy modes of travel) by personnel working at Federal facilities. Agency actions pursuant to this Order shall be consistent with Circular A–118 issued by the Office of Management and Budget.
+1–101. Executive agencies shall promote the use of ridesharing (carpools, vanpools, privately leased buses, public transportation, and other multi-occupancy modes of travel) by personnel working at Federal facilities. Agency actions pursuant to this Order shall beconsistent with Circular A–118 issued by the Office of Management and Budget.
 
 1–102. Agencies shall establish an annual ridesharing goal tailored to each facility, and expressed as a percentage of fulltime personnel working at that facility who use ridesharing in the commute between home and work. Agencies that share facilities or that are within easy walking distance of one another should coordinate their efforts to develop and implement ridesharing opportunities.
 
@@ -80,7 +80,7 @@ Responsibilities of the Administrator of General Services
 
 1–205. The Administrator shall take into consideration the advice of the Environmental Protection Agency under the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\] in performing his responsibilities under this Order.
 
-1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) acomparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
+1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) a comparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,6 +1,6 @@
 ### §2203. Undertaking of runoff retardation and soil-erosion preventive measures; cooperation with landowners and land users; criteria
 
-The Secretary of Agriculture is authorized to undertake emergency measures, including the purchase of floodplain easements, for runoff retardation and soil-erosion prevention, in cooperation with landowners and land users, as the Secretary deems necessary to safeguard lives and property from floods, drought, and the products of erosion on any watershed whenever fire, flood, or any other natural occurrence is causing or has caused a sudden impairment of that watershed.
+The Secretary of Agriculture is authorized to undertake emergency measures, including the purchase of floodplain easements, for runoff retardation and soil-erosion prevention, in cooperation with landowners and land users, as the Secretary deems necessary to safeguard livesand property from floods, drought, and the products of erosion on any watershed whenever fire, flood, or any other natural occurrence is causing or has caused a sudden impairment of that watershed.
 
 (Pub. L. 95–334, title IV, §403, Aug. 4, 1978, 92 Stat. 434; Pub. L. 104–127, title III, §382, Apr. 4, 1996, 110 Stat. 1016.)
 

@@ -44,7 +44,7 @@ As used in this section:
 
 &emsp;&emsp;(ii) local agricultural conditions (including natural and economic conditions), in at least 2 calendar years during the 6-year period preceding the calendar year in which the application is made;
 
-&emsp;(C) have received from farming or ranching operations at least 60 percent of the gross annual income of the borrower-owner and anyspouse of the borrower-owner in at least 2 calendar years during any 6-year period described in subparagraph (B);
+&emsp;(C) have received from farming or ranching operations at least 60 percent of the gross annual income of the borrower-owner and any spouse of the borrower-owner in at least 2 calendar years during any 6-year period described in subparagraph (B);
 
 &emsp;(D) have continuously occupied the homestead property during the 6-year period described in subparagraph (B), except that such requirement may be waived if a borrower-owner has, due to circumstances beyond the control of the borrower-owner, had to leave the homestead property for a period of time not to exceed 12 months during the 6-year period;
 
@@ -62,7 +62,7 @@ As used in this section:
 
 (B) At any time during the period of occupancy, the borrower-owner shall have a right of first refusal to reacquire the homestead property on such terms and conditions as the Secretary shall determine, except that the Secretary may not demand a payment for the homestead property that is in excess of the current market value of the homestead property as established by an independent appraisal. The independent appraisal shall be conducted by an appraiser selected by the borrower-owner from a list of three appraisers approved by the county supervisor.
 
-(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
+(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the caseof death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
 
 (6) Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996), the Secretary shall notify the borrower-owner from whom the property was acquired of the availability of homestead protection rights under this section.
 

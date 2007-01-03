@@ -88,7 +88,7 @@ Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 #### Publication in Federal Register
 
-Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2)of the Act of March 3, 1901, \[15 U.S.C. 278k(c)(2)\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
+Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2) of the Act of March 3, 1901, \[15 U.S.C. 278k(c)(2)\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

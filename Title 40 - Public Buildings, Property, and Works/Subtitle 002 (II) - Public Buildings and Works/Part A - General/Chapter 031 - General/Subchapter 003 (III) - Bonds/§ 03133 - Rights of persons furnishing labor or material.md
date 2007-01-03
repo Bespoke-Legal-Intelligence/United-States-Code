@@ -2,11 +2,11 @@
 
 (a)
 
-Right of Person Furnishing Labor or Material to Copy of Bond.—The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bond and the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract andpayment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
+Right of Person Furnishing Labor or Material to Copy of Bond.—The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bond and the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract and payment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
 
 (b)
 
-Right to Bring a Civil Action.—
+Right To Bring a Civil Action.—
 
 &emsp;(1)
 
@@ -36,7 +36,9 @@ Period in which action must be brought.—An action brought under this subsectio
 
 Liability of federal government.—The Government is not liable for the payment of any costs or expenses of any civil action brought under this subsection.
 
-(c) A waiver of the right to bring a civil action on a payment bond required under this subchapter is void unless the waiver is—
+(c)
+
+Waiver of Right to Civil Action.—A waiver of the right to bring a civil action on a payment bond required under this subchapter is void unless the waiver is—
 
 &emsp;(1) in writing;
 
@@ -44,7 +46,7 @@ Liability of federal government.—The Government is not liable for the payment 
 
 &emsp;(3) executed after the person whose right is waived has furnished labor or material for use in the performance of the contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1148.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1148; Pub. L. 109–284, §6(9), (10), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -83,4 +85,10 @@ In subsection (b)(1), the words “may bring a civil action” are substituted f
 In subsection (b)(2), the words “to the contractor at any place he maintains an office or conducts his business, or his residence, or in any manner in which the United States marshal of the district in which the public improvement is situated is authorized by law to serve summons” are restated to reflect the probable intent of Congress. See H. Rept. 106–277, Part 1, 106th Cong., 1st Sess., pp. 4, 7.
 
 In subsection (c), the words “bring a civil action” are substituted for “sue” for consistency in the revised title and with other titles of the United States Code.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–284, §6(9), substituted “To” for “to” in heading.
+
+Subsec. (c). Pub. L. 109–284, §6(10), inserted heading.
 

@@ -12,7 +12,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(5) The term “Department” means the Department of Homeland Security.
 
-&emsp;(6) The term “emergency response providers” includes Federal, State, and local emergency public safety, law enforcement, emergency response, emergency medical (including hospital emergency facilities), and related personnel, agencies, and authorities.
+&emsp;(6) The term “emergency response providers” includes Federal, State, and local governmental and nongovernmental emergency public safety, fire, law enforcement, emergency response, emergency medical (including hospital emergency facilities), and related personnel, agencies, and authorities.
 
 &emsp;(7) The term “executive agency” means an executive agency and a military department, as defined, respectively, in sections 105 and 102 of title 5.
 
@@ -56,7 +56,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(B) Nothing in this paragraph or any other provision of this chapter shall be construed to modify the definition of “United States” for the purposes of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] or any other immigration or nationality law.
 
-(Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140.)
+(Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140; Pub. L. 109–295, title VI, §612(d), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title VI, §613, Oct. 13, 2006, 120 Stat. 1943.)
 
 #### References in Text
 
@@ -64,9 +64,19 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Immigration and Nationality Act, referred to in par. (16)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
+#### Amendments
+
+2006—Par. (6). Pub. L. 109–347 inserted “governmental and nongovernmental” after “local”.
+
+Pub. L. 109–295 inserted “fire,” after “safety,”.
+
 #### Effective Date
 
-Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
+Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\]shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–295, title VI, §671(a), Oct. 4, 2006, 120 Stat. 1433, provided that: “This section \[enacting subchapter XIII of this chapter\] may be cited as the ‘21st Century Emergency Communications Act of 2006’.”
 
 #### Short Title of 2004 Amendments
 
@@ -90,7 +100,7 @@ Pub. L. 107–296, title VIII, §861, Nov. 25, 2002, 116 Stat. 2238, provided th
 
 For short title of part I of subchapter VIII of this chapter as the “Homeland Security Information Sharing Act”, see section 481(a) of this title.
 
-Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out asnotes under section 3531 of Title 44\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
+Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out as notes under section 3531 of Title 44\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
 
 \[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
 

@@ -44,7 +44,7 @@
 
 #### (ii) Sustaining burden
 
-&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony, such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
+&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony,such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
 
 #### (iii) Credibility determination
 
@@ -90,7 +90,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title)of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
 
 #### (B) Continued classification of certain aliens as children
 
@@ -154,7 +154,7 @@
 
 &emsp;&emsp;The procedure established under paragraph (1) shall provide that—
 
-&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, includingthe Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
+&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, including the Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
 
 &emsp;&emsp;&emsp;(ii) in the absence of exceptional circumstances, the initial interview or hearing on the asylum application shall commence not later than 45 days after the date an application is filed;
 
@@ -170,7 +170,7 @@
 
 #### (6) Frivolous applications
 
-&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
+&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefitsunder this chapter, effective as of the date of a final determination on such application.
 
 #### (7) No private right of action
 

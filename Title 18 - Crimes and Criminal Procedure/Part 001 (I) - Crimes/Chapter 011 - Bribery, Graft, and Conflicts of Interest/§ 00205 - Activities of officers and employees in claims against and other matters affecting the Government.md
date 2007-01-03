@@ -50,7 +50,7 @@
 
 (g) Nothing in this section prevents an officer or employee from giving testimony under oath or from making statements required to be made under penalty for perjury or contempt.
 
-(h) For the purpose of this section, the term “covered matter” means any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter.
+(h) For the purpose of this section, the term “covered matter” means any judicial or other proceeding, application, request for a ruling orother determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter.
 
 (i) Nothing in this section prevents an employee from acting pursuant to—
 

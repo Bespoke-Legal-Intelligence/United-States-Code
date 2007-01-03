@@ -23,3 +23,4 @@ Part C—Specific Provisions Respecting National Research Institutes
 - [Subpart 016 - National Institute of Mental Health](Subpart%20016%20-%20National%20Institute%20of%20Mental%20Health/README.md)
 - [Subpart 017 - National Institute of Nursing Research](Subpart%20017%20-%20National%20Institute%20of%20Nursing%20Research/README.md)
 - [Subpart 018 - National Institute of Biomedical Imaging and Bioengineering](Subpart%20018%20-%20National%20Institute%20of%20Biomedical%20Imaging%20and%20Bioengineering/README.md)
+- [Subpart 019 - National Human Genome Research Institute](Subpart%20019%20-%20National%20Human%20Genome%20Research%20Institute/README.md)

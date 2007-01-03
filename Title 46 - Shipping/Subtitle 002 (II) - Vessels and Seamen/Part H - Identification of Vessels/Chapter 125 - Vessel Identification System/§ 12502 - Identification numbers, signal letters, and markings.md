@@ -18,7 +18,7 @@
 
 (e) A person may not tamper with or falsify a number or other marking required under this section.
 
-(Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4736.)
+(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4736.)
 
 #### Historical and Revision Notes
 
@@ -32,13 +32,9 @@ This section consolidates the requirements of sections 12114, 12115, 12116, and 
 
 #### Vessels Not Having Unique Number; Applicability of Provisions for Number Assignment
 
-Section 104(f) of Pub. L. 100–710 provided that: “Section 12502(a)(1) of title 46, United States Code (as enacted by section 101 of this Act), applies to a vessel of the United States that does not have a unique number as prescribed by the Secretary of Transportation under that section until the earlier of the following:
+Pub. L. 100–710, title I, §104(f), Nov. 23, 1988, 102 Stat. 4751, provided that: “Section 12502(a)(1) of title 46, United States Code (as enacted by section 101 of this Act), applies to a vessel of the United States that does not have a unique number as prescribed by the Secretary of Transportation under that section until the earlier of the following:
 
 &emsp;“(1) the next time the vessel is documented, numbered, or titled.
 
 &emsp;“(2) January 1, 1995.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12507 of this title; title 33 section 2602.
 

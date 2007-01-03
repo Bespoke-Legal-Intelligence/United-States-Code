@@ -28,7 +28,7 @@ Not later than 30 days after the date of final approval within the Department of
 
 #### (e) “Biological agent” defined
 
-In this section, the term “biological agent” means any micro-organism (including bacteria,viruses, fungi, rickettsiac, or protozoa), pathogen, or infectious substance, and any naturally occurring, bioengineered, or synthesized component of any such micro-organism, pathogen, or infectious substance, whatever its origin or method of production, that is capable of causing—
+In this section, the term “biological agent” means any micro-organism (including bacteria, viruses, fungi, rickettsiac, or protozoa), pathogen, or infectious substance, and any naturally occurring, bioengineered, or synthesized component of any such micro-organism, pathogen, or infectious substance, whatever its origin or method of production, that is capable of causing—
 
 &emsp;(1) death, disease, or other biological malfunction in a human, an animal, a plant, or another living organism;
 

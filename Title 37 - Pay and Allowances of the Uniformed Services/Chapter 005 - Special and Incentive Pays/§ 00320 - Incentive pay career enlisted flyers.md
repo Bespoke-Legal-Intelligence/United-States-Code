@@ -36,7 +36,7 @@ Monthly Maximum Rates.—The monthly rate of any career enlisted flyer incentive
 
 | Years of aviation service | Monthly rate |
 | :--- | ---: |
-| 4 or less | $150&nbsp;&nbsp;&nbsp; |
+| 4 or less | $150    |
 | Over 4 | $225&nbsp;&nbsp;&nbsp; |
 | Over 8 | $350&nbsp;&nbsp;&nbsp; |
 | Over 14 | $400.&nbsp; |
@@ -51,7 +51,7 @@ Relation to Hazardous Duty Incentive Pay or Diving Duty Special Pay.—A member 
 
 (g)
 
-Save Pay Provision.—If, immediately before a member receives incentive pay under this section, the member was entitled to incentive pay under section 301(a) of this title, the rate atwhich the member is paid incentive pay under this section shall be equal to the higher of the monthly amount applicable under subsection (d) or the rate of incentive pay the member was receiving under subsection (b) or (c)(2)(A) of section 301 of this title.
+Save Pay Provision.—If, immediately before a member receives incentive pay under this section, the member was entitled to incentive pay under section 301(a) of this title, the rate at which the member is paid incentive pay under this section shall be equal to the higher of the monthly amount applicable under subsection (d) or the rate of incentive pay the member was receiving under subsection (b) or (c)(2)(A) of section 301 of this title.
 
 (h)
 

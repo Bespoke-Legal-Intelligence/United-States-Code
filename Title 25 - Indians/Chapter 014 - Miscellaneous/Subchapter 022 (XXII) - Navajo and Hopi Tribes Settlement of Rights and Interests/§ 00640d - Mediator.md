@@ -30,7 +30,7 @@ Pub. L. 102–180, §1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–666, §1, Nov. 16, 1988, 102 Stat. 3929, provided that: “This Act \[enacting sections 640d–29 and 640d–30 of this title, amending sections 640d–7, 640d–9 to 640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacting provisions set out as a note under section 640d–11 of this title\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments of 1988’.”
+Pub. L. 100–666, §1, Nov. 16, 1988, 102 Stat. 3929, provided that: “This Act \[enacting sections 640d–29 and640d–30 of this title, amending sections 640d–7, 640d–9 to 640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacting provisions set out as a note under section 640d–11 of this title\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments of 1988’.”
 
 #### Short Title of 1980 Amendment
 
@@ -52,7 +52,7 @@ Pub. L. 104–301, Oct. 11, 1996, 110 Stat. 3649, as amended by Pub. L. 105–25
 
 &emsp;“(2) it is in the best interest of the Tribe and the United States that there be a fair and final settlement of certain issues remaining in connection with the Navajo-Hopi Land Settlement Act of 1974, including the full and final settlement of the multiple claims that the Tribe has against the United States;
 
-&emsp;“(3) this Act, together with the Settlement Agreement executed on December 14, 1995, and the Accommodation Agreement (as incorporated by the Settlement Agreement), provide the authority for the Tribeto enter agreements with eligible Navajo families in order for those families to remain residents of the Hopi Partitioned Lands for a period of 75 years, subject to the terms and conditions of the Accommodation Agreement;
+&emsp;“(3) this Act, together with the Settlement Agreement executed on December 14, 1995, and the Accommodation Agreement (as incorporated by the Settlement Agreement), provide the authority for the Tribe to enter agreements with eligible Navajo families in order for those families to remain residents of the Hopi Partitioned Lands for a period of 75 years, subject to the terms and conditions of the Accommodation Agreement;
 
 &emsp;“(4) the United States acknowledges and respects—
 
@@ -266,7 +266,7 @@ Statutory Construction with Respect to Water Rights of Other Federally Recognize
 
 “(h)
 
-Statutory Construction.—Nothing in this section shall be construed to determine the law applicable to water use on lands owned by the United States, other than on the newly acquired trust lands. The granting of the right to make beneficial use of unappropriated surface water on the newly acquired trust lands with a priority date such lands are taken into trust shall not be construed to imply that such right is a Federal reserved water right. Nothing in this section or any other provision of this Act shall be construed to establish any Federal reserved right to groundwater. Authority for the Secretary to take land into trust for the Tribe pursuant to the Settlement Agreement and thisAct shall be construed as having been provided solely by the provisions of this Act.”
+Statutory Construction.—Nothing in this section shall be construed to determine the law applicable to water use on lands owned by the United States, other than on the newly acquired trust lands. The granting of the right to make beneficial use of unappropriated surface water on the newly acquired trust lands with a priority date such lands are taken into trust shall not be construed to imply that such right is a Federal reserved water right. Nothing in this section or any other provision of this Act shall be construed to establish any Federal reserved right to groundwater. Authority for the Secretary to take land into trust for the Tribe pursuant to the Settlement Agreement and this Act shall be construed as having been provided solely by the provisions of this Act.”
 
 #### Executive Order No. 11829
 

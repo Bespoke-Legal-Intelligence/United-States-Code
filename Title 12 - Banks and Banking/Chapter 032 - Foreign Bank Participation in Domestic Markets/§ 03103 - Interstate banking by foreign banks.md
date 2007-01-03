@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a Federal or State branch, the branch receives only such deposits as would be permitted for a corporation organized under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]; or
 
-&emsp;&emsp;(B) with the approval of the Board and the relevant licensing authority (the Comptroller in the case of a Federal branch or the appropriate State supervisor in the case of a State branch), upgrade an agency, or a branch of the type referred to in subparagraph (A)(ii), located in a State outside the foreign bank's home State, into a Federal or State branch if—
+&emsp;&emsp;(B) with the approval of the Board and the relevant licensing authority (the Comptroller in the case of a Federal branch or the appropriate State supervisor in the case of a State branch), upgrade an agency, or abranch of the type referred to in subparagraph (A)(ii), located in a State outside the foreign bank's home State, into a Federal or State branch if—
 
 &emsp;&emsp;&emsp;(i) the establishment and operation of such branch is permitted by such State; and
 

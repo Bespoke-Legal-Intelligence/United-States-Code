@@ -10,7 +10,7 @@ Planning and Evaluation.—The environmental technology investment control proce
 
 &emsp;(1) The active participation by end-users of environmental technology, including the officials responsible for the environmental security programs of the Department of Defense and the military departments, in the selection and prioritization of environmental technologies.
 
-&emsp;(2) The development of measurable performance goals and objectives for the management and development of environmental technologies and specific mechanisms for assuring the achievement of the goals and objectives.
+&emsp;(2) The development of measurable performance goals and objectives for the management and development of environmental technol- ogies and specific mechanisms for assuring the achievement of the goals and objectives.
 
 &emsp;(3) Annual performance reviews to determine whether the goals and objectives have been achieved and to take appropriate action in the event that they are not achieved.
 

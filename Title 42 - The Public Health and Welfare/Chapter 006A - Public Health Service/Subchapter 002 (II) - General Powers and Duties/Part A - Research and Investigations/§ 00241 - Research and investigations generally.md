@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary shall conduct in the Service, and encourage, cooperate with, and render assistance to other appropriate public authorities, scientific institutions, and scientists in the conduct of, and promote the coordination of, research, investigations, experiments, demonstrations, and studies relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and impairments of man, including water purification, sewage treatment, and pollution of lakes and streams. In carrying out the foregoing the Secretary is authorized to—
+The Secretary shall conduct in the Service, and encourage, cooperate with, and render assistance to other appropriate public authorities, scientific institutions, and scientists in the conduct of, and promote the coordination of, research, investigations, experiments, demonstrations, and studies relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and impairments of man, including water purification, sewagetreatment, and pollution of lakes and streams. In carrying out the foregoing the Secretary is authorized to—
 
 &emsp;(1) collect and make available through publications and other appropriate means, information as to, and the practical application of, such research and other activities;
 
@@ -24,7 +24,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
-(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon requestof such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
+(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
 
 (2)(A) The Secretary shall establish a comprehensive program of research into the biological effects of low-level ionizing radiation under which program the Secretary shall conduct such research and may support such research by others through grants and contracts.
 
@@ -58,9 +58,15 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 The Secretary may authorize persons engaged in biomedical, behavioral, clinical, or other research (including research on mental health, including research on the use and effect of alcohol and other psychoactive drugs) to protect the privacy of individuals who are the subject of such research by withholding from all persons not connected with the conduct of such research the names or other identifying characteristics of such individuals. Persons so authorized to protect the privacy of such individuals may not be compelled in any Federal, State, or local civil, criminal, administrative, legislative, or other proceedings to identify such individuals.
 
-(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213.)
+#### (e) Preterm labor and delivery and infant mortality
+
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
+
+(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–450 added subsec. (e).
 
 1993—Subsec. (b)(4). Pub. L. 103–43 substituted “a biennial report” for “an annual report” in introductory provisions.
 
@@ -78,7 +84,7 @@ Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted “recommendations o
 
 1976—Subsecs. (c), (h). Pub. L. 94–278 substituted “heart, blood vessel, lung, and blood diseases and blood resources” for “heart diseases” and “National Heart, Lung and Blood Advisory Council” for “National Heart and Lung Advisory Council”.
 
-1974—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted “research projects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
+1974—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted “researchprojects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
 
 Subsec. (d). Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (e) as (d).
 
@@ -122,7 +128,7 @@ Subsec. (g). Act July 3, 1946, gave National Advisory Health Council the right t
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(7), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L.96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(7), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1978 Amendment
 
@@ -184,21 +190,19 @@ Section 632 of Pub. L. 100–607 provided that with respect to any program of re
 
 #### Continuing Care for Psychiatric Patients in Former Clinical Research Center at National Institute on Drug Abuse
 
-Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health andHuman Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
+Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
 
 #### Analysis of Thyroid Cancer; Creation and Publication of Radioepidemiological Tables
 
-Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, provided that:
+Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, as amended by Pub. L. 109–482, title I, §104(b)(3)(A), Jan. 15, 2007, 120 Stat. 3694, provided that:
 
 “(a) In carrying out section 301 of the Public Health Service Act \[this section\], the Secretary of Health and Human Services shall—
 
 &emsp;“(1) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the risks of thyroid cancer that are associated with thyroid doses of Iodine 131;
 
-&emsp;“(2) conduct scientific research and prepare analyses necessary to develop valid and credible methods to estimate the thyroid doses of Iodine 131 that are received by individuals from nuclear bomb fallout;
+&emsp;“(2) conduct scientific research and prepare analyses necessary to develop valid and credible methods to estimate the thyroid doses of Iodine 131 that are received by individuals from nuclear bomb fallout; and
 
-&emsp;“(3) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the exposure to Iodine 131 that the American people received from the Nevada atmospheric nuclear bomb tests; and
-
-&emsp;“(4) prepare and transmit to the Congress within one year after the date of enactment of this Act \[Jan. 4, 1983\] a report with respect to the activities conducted in carrying out paragraphs (1), (2), and (3).
+&emsp;“(3) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the exposure to Iodine 131 that the American people received from the Nevada atmospheric nuclear bomb tests.
 
 “(b)(1) Within one year after the date of enactment of this Act \[Jan. 4, 1983\], the Secretary of Health and Human Services shall devise and publish radioepidemiological tables that estimate the likelihood that persons who have or have had any of the radiation related cancers and who have received specific doses prior to the onset of such disease developed cancer as a result of these doses. These tables shall show a probability of causation of developing each radiation related cancer associated with receipt of doses ranging from 1 millirad to 1,000 rads in terms of sex, age at time of exposure, time from exposure to the onset of the cancer in question, and such other categories as the Secretary, after consulting with appropriate scientific experts, determines to be relevant. Each probability of causation shall be calculated and displayed as a single percentage figure.
 
@@ -208,9 +212,9 @@ Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, provided that:
 
 &emsp;“(B) a compilation of the formulas that yielded the probabilities of causation listed in such tables. Such formulas shall be published in such a manner and together with information necessary to determine the probability of causation of any individual who has or has had a radiation related cancer and has received any given dose.
 
-“(3) The tables specified in paragraph (1) and the formulas specified in paragraph (2) shall be devised from the best available data that are most applicable to the United States, and shall be devised in accordance with the best available scientific procedures and expertise. The Secretary of Health and Human Services shall update these tables and formulas every four years, or whenever he deems it necessary to insure that they continue to represent the best available scientific data and expertise.”
+“(3) The tables specified in paragraph (1) and the formulas specified in paragraph (2) shall be devised from the best available data that are most applicable to the United States, and shall be devised in accordance with the best available scientific procedures and expertise.”
 
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that anadvisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

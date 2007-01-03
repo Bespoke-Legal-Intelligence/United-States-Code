@@ -36,11 +36,11 @@ Definition.—In this subsection, the term “work being prepared for commercial
 
 (b)
 
-Forfeiture and Destruction.—When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty thereinprescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords.
+Forfeiture and Destruction.—When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords.
 
 (c)
 
-Fraudulent Copyright Notice.—Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500.
+Fraudulent Copyright Notice.—Any person who, with fraudulent intent, places on any article a notice of copyright or words of thesame purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500.
 
 (d)
 

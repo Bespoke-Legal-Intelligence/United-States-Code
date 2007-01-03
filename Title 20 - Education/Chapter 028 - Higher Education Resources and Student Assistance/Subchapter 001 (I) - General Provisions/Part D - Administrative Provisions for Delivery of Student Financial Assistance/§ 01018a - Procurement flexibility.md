@@ -144,11 +144,11 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (A) Publication
 
-&emsp;&emsp;Not less than 30 days before issuing a solicitation for offers for a contract for a module for a system under procedures authorized under subparagraph (A) or (B) of paragraph (4), the PBO shall publish in the Commerce Business Daily a notice of the intent to use such procedures to enter into the contract.
+&emsp;&emsp;Not less than 30 days before issuing a solicitation for offers for a contract for a modulefor a system under procedures authorized under subparagraph (A) or (B) of paragraph (4), the PBO shall publish in the Commerce Business Daily a notice of the intent to use such procedures to enter into the contract.
 
 #### (B) Exception
 
-&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use of procedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module forthe system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
+&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use of procedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
 
 #### (C) Content of notice
 

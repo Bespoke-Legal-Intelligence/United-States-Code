@@ -4,7 +4,7 @@
 
 (b) Every witness subpoenaed or testifying shall be allowed the fees and traveling expenses allowed to witnesses attending the United States district courts.
 
-(c) A judge of a court whose clerk issued a subpoena may enforce obedience to the process or punish disobedience as in other like cases, on proof that a witness, served with such subpoena, neglected or refused to appear or to testify. No witness shall be deemed guilty of contempt for disobeying such subpoena unless the fees and traveling expenses of the witness in going to, and returning from, one day's attendance at the place of examination, are paid or tendered the witness at the time of the service of the subpoena; nor for refusing to disclose any secret matter except upon appropriate order of the court which issued the subpoena or of the Secretary.
+(c) A judge of a court whose clerk issued a subpoena may enforce obedience to the process or punish disobedience as in other like cases, on proof that a witness, served with such subpoena,neglected or refused to appear or to testify. No witness shall be deemed guilty of contempt for disobeying such subpoena unless the fees and traveling expenses of the witness in going to, and returning from, one day's attendance at the place of examination, are paid or tendered the witness at the time of the service of the subpoena; nor for refusing to disclose any secret matter except upon appropriate order of the court which issued the subpoena or of the Secretary.
 
 (Pub. L. 91–577, title I, §24, Dec. 24, 1970, 84 Stat. 1544; Pub. L. 103–349, §13(d), Oct. 6, 1994, 108 Stat. 3143.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization and establishment
 
-To carry out the purposes of this chapter, the Director of the Federal Emergency Management Agency is authorized to establish and carry out a national flood insurance program which will enable interested persons to purchase insurance against loss resulting from physical damage to or loss of real property or personal property related thereto arising from any flood occurring in the United States.
+To carry out the purposes of this chapter, the Administrator of the Federal Emergency Management Agency is authorized to establish and carry out a national flood insurance program which will enable interested persons to purchase insurance against loss resulting from physical damage to or loss of real property or personal property related thereto arising from any flood occurring in the United States.
 
 #### (b) Additional coverage for compliance with land use and control measures
 
@@ -24,7 +24,7 @@ The national flood insurance program established pursuant to subsection (a) of t
 
 &emsp;&emsp;(D) the Predisaster Hazard Mitigation Program under section 5133 of this title; and
 
-&emsp;&emsp;(E) any programs authorized or for which funds are appropriated to address any unmetneeds or for which supplemental funds are made available.
+&emsp;&emsp;(E) any programs authorized or for which funds are appropriated to address any unmet needs or for which supplemental funds are made available.
 
 > The Director shall impose a surcharge on each insured of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of this subsection.
 
@@ -38,11 +38,11 @@ In carrying out the flood insurance program the Director shall, to the maximum e
 
 > in accordance with the provisions of subchapter II of this chapter.
 
-(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title IV, §451(d)(1), (2), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat. 2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723.)
+(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title IV, §451(d)(1), (2), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat. 2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, known as the National Flood Insurance Act of 1968, which enacted this chapter, amended section 2414 of this title, repealed sections 2401 to 2413 and 2415 to 2421 of this title, and enacted provisions set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
@@ -62,13 +62,19 @@ Subsec. (b)(4). Pub. L. 108–264, §105(a)(4), added par. (4).
 
 Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Effective Date of 1994 Amendment
 
 Section 555(b) of Pub. L. 103–325 provided that: “The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\].”
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Findings
 
@@ -104,11 +110,11 @@ Pub. L. 108–264, §2, June 30, 2004, 118 Stat. 712, provided that: “The Cong
 
 &emsp;“(11) the method for addressing repetitive-loss properties should be flexible enough to take into consideration legitimate circumstances that may prevent an owner from taking a mitigation action; and
 
-&emsp;“(12) focusing the mitigation and buy-out of repetitive loss properties upon communities and propertyowners that choose to voluntarily participate in a mitigation and buy-out program will maximize the benefits of such a program, while minimizing any adverse impact on communities and property owners.”
+&emsp;“(12) focusing the mitigation and buy-out of repetitive loss properties upon communities and property owners that choose to voluntarily participate in a mitigation and buy-out program will maximize the benefits of such a program, while minimizing any adverse impact on communities and property owners.”
 
 #### Miscellaneous Flood Insurance Provisions
 
-Pub. L. 108–264, title II, June 30, 2004, 118 Stat. 725, provided that:
+Pub. L. 108–264, title II, June 30, 2004, 118 Stat. 725, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
 
 #### “SEC. 201. DEFINITIONS.
 
@@ -116,7 +122,7 @@ Pub. L. 108–264, title II, June 30, 2004, 118 Stat. 725, provided that:
 
 &emsp;“(1)
 
-Director.—The term ‘Director’ means the Director of the Federal Emergency Management Agency.
+Director.—The term ‘Director’ means the Administrator of the Federal Emergency Management Agency.
 
 &emsp;“(2)
 
@@ -194,7 +200,7 @@ Distribution.—The handbook developed under subsection (a) shall be made availa
 
 #### “SEC. 206. STUDY AND REPORT ON USE OF COST COMPLIANCE COVERAGE.
 
-“Not later than 1 year after the date of enactment of this Act \[June 30, 2004\], the Director of the Federal Emergency Management Agency shall submit to Congress a report that sets forth—
+“Not later than 1 year after the date of enactment of this Act \[June 30, 2004\], the Administrator of the Federal Emergency Management Agency shall submit to Congress a report that sets forth—
 
 &emsp;“(1) the use of cost of compliance coverage under section 1304(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4011(b)) in connection with flood insurance policies;
 
@@ -204,7 +210,7 @@ Distribution.—The handbook developed under subsection (a) shall be made availa
 
 #### “SEC. 207. MINIMUM TRAINING AND EDUCATION REQUIREMENTS.
 
-“The Director of the Federal Emergency Management Agency shall, in cooperation with the insurance industry, State insurance regulators, and other interested parties—
+“The Administrator of the Federal Emergency Management Agency shall, in cooperation with the insurance industry, State insurance regulators, and other interested parties—
 
 &emsp;“(1) establish minimum training and education requirements for all insurance agents who sell flood insurance policies; and
 
@@ -232,7 +238,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[June 3
 
 #### “SEC. 210. REPORT ON CHANGES TO FEE SCHEDULE OR FEE PAYMENT ARRANGEMENTS.
 
-“Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit areport on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
+“Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
 
 &emsp;“(1) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
 
@@ -292,7 +298,7 @@ Study of compliance assistance.—Conduct a study of the extent to which Federal
 
 &emsp;“(3)
 
-Study of compliance model.—Conduct a study of the extent to which existing programs of Federal agencies and corporations for compliance with the requirements under the national flood insurance program can serve as a model for other Federal agencies responsible for enforcing compliance, and submit to the Congress a report describing the study and any conclusions.
+Study of compliance model.—Conduct a study of the extent to which existing programs of Federal agencies and corporations for compliance with the requirements under the national flood insurance program can serve as a model for other Federal agencies responsible for enforcing compliance, and submit tothe Congress a report describing the study and any conclusions.
 
 &emsp;“(4)
 

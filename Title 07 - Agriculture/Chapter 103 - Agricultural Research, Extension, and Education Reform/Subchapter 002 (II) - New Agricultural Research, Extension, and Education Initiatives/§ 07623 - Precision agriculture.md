@@ -150,7 +150,7 @@ A grant made under this section may not be used for the planning, repair, rehabi
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this sectionfor each of fiscal years 1999 through 2007, of which, for each fiscal year—
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007, of which, for each fiscal year—
 
 &emsp;&emsp;(A) not less than 30 percent shall be available to make grants for research to be conducted by multidisciplinary teams; and
 

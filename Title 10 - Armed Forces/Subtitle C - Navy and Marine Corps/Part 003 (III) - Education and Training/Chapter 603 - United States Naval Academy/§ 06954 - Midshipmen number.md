@@ -52,7 +52,7 @@
 
 (e) The Secretary of the Navy may limit the number of midshipmen appointed under subsection (b)(5). When he does so, if the total number of midshipmen, upon admission of a new class at the Academy, will be more than 3,737, no appointments may be made under subsection (b)(2) or (3) of this section or section 6956 of this title.
 
-(f) The Superintendent of the Naval Academy shall furnish to any Member of Congress, uponthe written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
+(f) The Superintendent of the Naval Academy shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
 (g) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of the Brigade of Midshipmen, the Secretary of the Navy may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
@@ -64,7 +64,7 @@
 
 (4) In this subsection, the term “midshipmen strength limit” means the authorized maximum strength of the Brigade of Midshipmen.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, §1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–107, div. A, title X, §1048(g)(1), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 107–314, div. A, title V, §532(b), Dec. 2, 2002, 116 Stat. 2545; Pub. L. 108–136, div. A, title V, §524(b), title X, §1031(a)(55), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–163, div. A, title V, §515(b)(1)(Q), Jan. 6, 2006, 119 Stat. 3233.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X,§1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–107, div. A, title X, §1048(g)(1), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 107–314, div. A, title V, §532(b), Dec. 2, 2002, 116 Stat. 2545; Pub. L. 108–136, div. A, title V, §524(b), title X, §1031(a)(55), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–163, div. A, title V, §515(b)(1)(Q), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes<br>1956
 
@@ -134,7 +134,7 @@ All provisions of law authorizing appointments to the Naval Academy from various
 
 In subsection (a)(1) the words “armed forces” are substituted for the description of the land and naval forces. The words “including male and female members of” and “of all components thereof” are omitted as surplusage.
 
-In subsection (a)(1)(B), the date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation orconcurrent resolution of the Congress under section 745 of title 38”.
+In subsection (a)(1)(B), the date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”.
 
 In subsection (b)(1) the qualification that appointees must be from the sons of members of the various “regular” components of the armed forces is added, as “Army, Navy, Air Force, Marine Corps, and Coast Guard” are so interpreted in this statute.
 
@@ -182,7 +182,7 @@ Subsec. (g). Pub. L. 106–65, §531(b)(2)(B), added subsec. (g).
 
 1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
-1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
+1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532 (b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
 
 Subsec. (d). Pub. L. 101–510, §532(b)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
 
@@ -218,7 +218,7 @@ Subsec. (a)(5). Pub. L. 90–623 substituted “Commissioner” for “Commissio
 
 Subsec. (a)(2). Pub. L. 89–650, §1(2), provided for nominations to the Naval Academy by the President pro tempore of the Senate if there is no Vice President.
 
-Subsec. (b)(1). Pub. L. 89–650, §1(3), increased the number of Presidential appointments to the Naval Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components,and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
+Subsec. (b)(1). Pub. L. 89–650, §1(3), increased the number of Presidential appointments to the Naval Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
 
 1964—Subsec. (a). Pub. L. 88–276, §2(1), inserted “Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate a principal candidate and five alternates for each vacancy that is available to him under this section”.
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 
-Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after 1994, and any reduction in number of appointments not to be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
+Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after 1994, and any reduction in number of appointments notto be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and other Standards to Male and Female Individuals
 

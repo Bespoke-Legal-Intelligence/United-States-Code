@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [661\.](%C2%A7%2000661%20-%20Management%20policies%20for%20joint%20specialty%20officers.md) | Management policies for joint specialty officers. |
+| [661\.](%C2%A7%2000661%20-%20Management%20policies%20for%20officers%20who%20are%20joint%20qualified.md) | Management policies for officers who are joint qualified. |
 | [662\.](%C2%A7%2000662%20-%20Promotion%20policy%20objectives%20for%20joint%20officers.md) | Promotion policy objectives for joint officers. |
 | [663\.](%C2%A7%2000663%20-%20Joint%20duty%20assignments%20after%20completion%20of%20joint%20professional%20military%20education.md) | Joint duty assignments after completion of joint professional military education. |
 | [664\.](%C2%A7%2000664%20-%20Length%20of%20joint%20duty%20assignments.md) | Length of joint duty assignments. |
@@ -15,6 +15,8 @@
 
 #### Amendments
 
+2006—Pub. L. 109–364, div. A, title V, §516(e)(2), Oct. 17, 2006, 120 Stat. 2189, substituted “officers who are joint qualified” for “joint specialty officers” in item 661.
+
 2004—Pub. L. 108–375, div. A, title V, §532(c)(2)(B), Oct. 28, 2004, 118 Stat. 1900, substituted “Joint duty assignments after completion of joint professional military education” for “Education” in item 663.
 
 
@@ -22,7 +24,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00661 - Management policies for joint specialty officers](%C2%A7%2000661%20-%20Management%20policies%20for%20joint%20specialty%20officers.md)
+- [&sect; 00661 - Management policies for officers who are joint qualified](%C2%A7%2000661%20-%20Management%20policies%20for%20officers%20who%20are%20joint%20qualified.md)
 - [&sect; 00662 - Promotion policy objectives for joint officers](%C2%A7%2000662%20-%20Promotion%20policy%20objectives%20for%20joint%20officers.md)
 - [&sect; 00663 - Joint duty assignments after completion of joint professional military education](%C2%A7%2000663%20-%20Joint%20duty%20assignments%20after%20completion%20of%20joint%20professional%20military%20education.md)
 - [&sect; 00664 - Length of joint duty assignments](%C2%A7%2000664%20-%20Length%20of%20joint%20duty%20assignments.md)

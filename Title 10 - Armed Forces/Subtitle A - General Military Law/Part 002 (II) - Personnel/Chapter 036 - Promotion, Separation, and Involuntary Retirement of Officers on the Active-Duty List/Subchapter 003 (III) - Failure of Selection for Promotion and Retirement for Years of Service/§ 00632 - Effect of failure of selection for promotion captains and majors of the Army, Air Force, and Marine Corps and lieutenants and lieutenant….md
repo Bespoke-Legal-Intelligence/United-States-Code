@@ -34,5 +34,5 @@ Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substit
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §505(c), Nov. 24, 2003, 117 Stat. 1457, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply in the case of an officer who as of the date of the enactment of this Act \[Nov. 24, 2003\] is required to be discharged under section 632(a)(1) of title 10, UnitedStates Code, by reason of having failed of selection for promotion to the next higher regular grade a second time.”
+Pub. L. 108–136, div. A, title V, §505(c), Nov. 24, 2003, 117 Stat. 1457, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply in the case of an officer who as of the date of the enactment of this Act \[Nov. 24, 2003\] is required to be discharged under section 632(a)(1) of title 10, United States Code, by reason of having failed of selection for promotion to the next higher regular grade a second time.”
 

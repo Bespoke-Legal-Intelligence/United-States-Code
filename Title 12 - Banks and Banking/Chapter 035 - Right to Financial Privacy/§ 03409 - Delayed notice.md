@@ -24,7 +24,7 @@ Upon application of the Government authority, the customer notice required under
 
 #### (b) Grant of delay order; duration and specifications; extensions; copy of request and notice to customer
 
-(1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a) of this section, it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the records have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\], the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\], or section 287c of title 22, and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
+(1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a) of this section, it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the records have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[12 U.S.C. 95a, 50 U.S.C. App. 5(b)\], the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\], or section 287c of title 22, and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
 
 (2) Extensions of the delay of notice provided in paragraph (1) of up to ninety days each may be granted by the court upon application, but only in accordance with this subsection.
 
@@ -48,7 +48,7 @@ Any memorandum, affidavit, or other paper filed in connection with a request for
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Right to Financial Privacy Act of 1978, referred to in subsecs. (b)(3) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generallyto this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsecs. (b)(3) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 #### Change of Name
 

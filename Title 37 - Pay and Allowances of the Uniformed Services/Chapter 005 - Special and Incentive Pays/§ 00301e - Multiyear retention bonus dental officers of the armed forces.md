@@ -16,7 +16,7 @@ Officers Automatically Eligible.—Subsection (a) applies to an officer of the a
 
 &emsp;(3) is in a pay grade below pay grade O–7;
 
-&emsp;(4) has at least eight years of creditable service (computed as described in section302b(g) <sup>1</sup> of this title) or has completed any active-duty service commitment incurred for dental education and training; and
+&emsp;(4) has at least eight years of creditable service (computed as described in section 302b(g) <sup>1</sup> of this title) or has completed any active-duty service commitment incurred for dental education and training; and
 
 &emsp;(5) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
 

@@ -2,7 +2,7 @@
 
 #### (a) Force and effect
 
-Subject to the provisions of this chapter and to any valid intervening rights acquired under laws of the United States, any mining claim located under the mining laws of the United States subsequent to July 31, 1939, and prior to January 1, 1953, on lands of the United States which were, at the time of such location—
+Subject to the provisions of this chapter and to any valid intervening rights acquired under laws of the United States, any mining claim located under the mining laws of the UnitedStates subsequent to July 31, 1939, and prior to January 1, 1953, on lands of the United States which were, at the time of such location—
 
 &emsp;(1) included in a permit or lease issued under the mineral leasing laws; or
 

@@ -4,7 +4,7 @@
 
 (b) The provisions of this chapter shall not apply with respect to—
 
-&emsp;(1) any individual who has performed service of a type described in subparagraph (C), (D),\(E), or (F) of section 210(a)(5) of the Social Security Act continuously since December 31, 1983 (determined in accordance with the provisions of section 210(a)(5)(B) of the Social Security Act, relating to continuity of employment); or
+&emsp;(1) any individual who has performed service of a type described in subparagraph (C), (D), (E), or (F) of section 210(a)(5) of the Social Security Act continuously since December 31, 1983 (determined in accordance with the provisions of section 210(a)(5)(B) of the Social Security Act, relating to continuity of employment); or
 
 &emsp;(2)(A) any employee or Member who has separated from the service after—
 
@@ -30,7 +30,7 @@
 
 > except to the extent provided for under subsection (d) of this section or title III of the Federal Employees’ Retirement System Act of 1986 pursuant to an election under such title to become subject to this chapter.
 
-(c)(1) The Office may exclude from the operation of this chapter an employee or group of employees in or under an Executive agency, the United States Postal Service, or the Postal Rate Commission, whose employment is temporary or intermittent, except an employee whose employment is part-time career employment (as defined in section 3401(2)).
+(c)(1) The Office may exclude from the operation of this chapter an employee or group of employees in or under an Executive agency, the United States Postal Service, or the Postal Regulatory Commission, whose employment is temporary or intermittent, except an employee whose employment is part-time career employment (as defined in section 3401(2)).
 
 (2) The Architect of the Capitol may exclude from the operation of this chapter an employee under the Office of the Architect of the Capitol whose employment is temporary or of uncertain duration.
 
@@ -62,13 +62,13 @@
 
 &emsp;(2) subsequently enters a position in which, but for paragraph (2) of subsection (b), such individual would be subject to this chapter.
 
-(e) A bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Actof 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate judge shall be entitled to a lump-sum credit under section 8424 of this title.
+(e) A bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (f) A judge who is covered by section 7296 of title 38 shall be excluded from the operation of this chapter if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (g) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§306(e)(3),321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### References in Text
 
@@ -83,6 +83,8 @@ Section 10 of the Federal Reserve Act, referred to in subsecs. (b)(2)(A)(i)(III)
 Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (e), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1999—Subsec. (b)(2)(A). Pub. L. 106–168, §202(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any employee or Member who has separated from the service after—
 
@@ -132,7 +134,7 @@ In general.—Subject to succeeding provisions of this subsection, this section 
 
 “(2)
 
-Provisions relating to creditability and certain former employees.—The amendments made by subsection (a) \[amending section 8411 of this title\] andthe provisions of subsection (c) \[set out as a note below\] shall apply only to individuals who separate from service subject to chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Dec. 12, 1999\].
+Provisions relating to creditability and certain former employees.—The amendments made by subsection (a) \[amending section 8411 of this title\] and the provisions of subsection (c) \[set out as a note below\] shall apply only to individuals who separate from service subject to chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Dec. 12, 1999\].
 
 “(3)
 
@@ -148,7 +150,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990,see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -12,7 +12,7 @@ The committees utilized or appointed pursuant to this section may examine applic
 
 #### Amendments
 
-1974—Subsec. (b). Pub. L. 93–383 substituted provisions relating to examination of applications under section 1471(a)(1) and (2) of this title, and certification to the Secretary with respect to amount of any loan, for provisions relating to examination of applications under provisions of this subchapter, certification to theSecretary with respect to the amount of the loan or grant, and requiring performance of such other duties as the Secretary requests.
+1974—Subsec. (b). Pub. L. 93–383 substituted provisions relating to examination of applications under section 1471(a)(1) and (2) of this title, and certification to the Secretary with respect to amount of any loan, for provisions relating to examination of applications under provisions of this subchapter, certification to the Secretary with respect to the amount of the loan or grant, and requiring performance of such other duties as the Secretary requests.
 
 1970—Subsec. (b). Pub. L. 91–609 substituted “may” for “shall” in first and second sentences where reading “shall examine”, “shall submit”, and “shall also certify”.
 

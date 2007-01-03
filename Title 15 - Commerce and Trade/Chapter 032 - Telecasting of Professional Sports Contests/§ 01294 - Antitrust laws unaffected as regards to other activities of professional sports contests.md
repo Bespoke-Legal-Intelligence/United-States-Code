@@ -4,7 +4,3 @@ Nothing contained in this chapter shall be deemed to change, determine, or other
 
 (Pub. L. 87–331, §4, Sept. 30, 1961, 75 Stat. 732.)
 
-#### References in Text
-
-The antitrust laws, referred to in text, are classified generally to chapter 1 (§1 et seq.) of this title.
-

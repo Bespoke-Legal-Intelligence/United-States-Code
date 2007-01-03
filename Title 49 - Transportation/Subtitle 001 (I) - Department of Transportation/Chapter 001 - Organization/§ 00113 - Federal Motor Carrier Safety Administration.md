@@ -90,7 +90,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Administration, any other authorized official, a court of competent jurisdiction, or operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revokedin accordance with law by the Administration, any other authorized official, a court of competent jurisdiction, or operation of law.
 
 “(c)
 

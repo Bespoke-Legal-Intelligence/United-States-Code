@@ -16,7 +16,7 @@ Specified Provisions.—The provisions of this title referred to in subsection (
 
 &emsp;(4) Subsection (a) and paragraphs (1), (6), (9), and (10) of subsection (b) of section 5112.
 
-(Added Pub. L. 106–419, title IV, §401(b), Nov. 1, 2000, 114 Stat. 1859, §1822; renumbered §1832, Pub.L. 108–183, title I, §102(a)(1), Dec. 16, 2003, 117 Stat. 2653.)
+(Added Pub. L. 106–419, title IV, §401(b), Nov. 1, 2000, 114 Stat. 1859, §1822; renumbered §1832, Pub. L. 108–183, title I, §102(a)(1), Dec. 16, 2003, 117 Stat. 2653.)
 
 #### Prior Provisions
 

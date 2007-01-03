@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) terminate payments under this chapter to the recipient;
 
-&emsp;&emsp;(B) reduce payments under this chapter to the recipient by an amount equal to the amount of such payments that were not expended in accordance with this chapter;
+&emsp;&emsp;(B) reduce payments under this chapter to the recipient by an amount equal to theamount of such payments that were not expended in accordance with this chapter;
 
 &emsp;&emsp;(C) limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply; or
 
@@ -86,13 +86,13 @@
 
 #### (2) Procedure
 
-&emsp;The Secretary shall file in the court a record of the proceeding on which the Secretary based the action, as provided in section 2112 of title 28. No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.
+&emsp;The Secretary shall file in the court a record of the proceeding on which the Secretarybased the action, as provided in section 2112 of title 28. No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.
 
 #### (3) Disposition
 
 #### (A) Court proceedings
 
-&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or toset it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
+&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or to set it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
 
 #### (B) Secretary
 

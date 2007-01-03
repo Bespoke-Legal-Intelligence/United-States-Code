@@ -10,7 +10,7 @@ Assistance Authorized.—The Secretary of Defense may provide technical and othe
 
 (c)
 
-Financial Commitment of Non-Federal Government Participants.—(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
+Financial Commitment of Non-Federal Government Participants.—(1) The totalamount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
 
 (2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
 
@@ -116,7 +116,7 @@ Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secret
 
 “(2) The report for a fiscal year shall contain, at a minimum, the following:
 
-&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amountappropriated for the applied research programs in the Department of Defense for that fiscal year.
+&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research programs in the Department of Defense for that fiscal year.
 
 &emsp;“(B) For each military department, the value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research program of the military department for that fiscal year.
 
@@ -151,4 +151,6 @@ Definitions.—In this section:
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
 Section 1315(g) of Pub. L. 103–160 provided that in the case of projects funded under section 2511, 2512, 2513, 2523, or 2524 of this title with funds appropriated for a fiscal year beginning before Oct. 1, 1993, the amendments made by section 1315 of Pub. L. 103–160 would not alter the financial commitment requirements in effect on Nov. 30, 1993, for the non-Federal Government participants in the project.
+
+§2512
 

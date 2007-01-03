@@ -24,19 +24,21 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(C) the capacity and extent to which United States fish processors, on an annual basis, will process that portion of such optimum yield that will be harvested by fishing vessels of the United States;
 
-&emsp;(5) specify the pertinent data which shall be submitted to the Secretary with respect to commercial, recreational, and charter fishing in the fishery, including, but not limited to, information regarding the type and quantity of fishing gear used, catch by species in numbers of fish or weight thereof, areas in which fishing was engaged in, time of fishing, number of hauls, and the estimated processing capacity of, and the actual processing capacity utilized by, United States fish processors,<sup>1</sup>
+&emsp;(5) specify the pertinent data which shall be submitted to the Secretary with respect to commercial, recreational,<sup>1</sup> charter fishing, and fish processing in the fishery, including, but not limited to, information regarding the type and quantity of fishing gear used, catch by species in numbers of fish or weight thereof, areas in which fishing was engaged in, time of fishing, number of hauls, economic information necessary to meet the requirements of this chapter, and the estimated processing capacity of, and the actual processing capacity utilized by, United States fish processors,<sup>2</sup>
 
-&emsp;(6) consider and provide for temporary adjustments, after consultation with the CoastGuard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safe conduct of the fishery; except that the adjustment shall not adversely affect conservation efforts in other fisheries or discriminate among participants in the affected fishery;
+&emsp;(6) consider and provide for temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safe conduct of the fishery; except that the adjustment shall not adversely affect conservation efforts in other fisheries or discriminate among participants in the affected fishery;
 
 &emsp;(7) describe and identify essential fish habitat for the fishery based on the guidelines established by the Secretary under section 1855(b)(1)(A) of this title, minimize to the extent practicable adverse effects on such habitat caused by fishing, and identify other actions to encourage the conservation and enhancement of such habitat;
 
 &emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
 
-&emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and describe the likely effects, if any, of the conservation and management measures on—
+&emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—
 
-&emsp;&emsp;(A) participants in the fisheries and fishing communities affected by the plan or amendment; and
+&emsp;&emsp;(A) participants in the fisheries and fishing communities affected by the plan or amendment;
 
-&emsp;&emsp;(B) participants in the fisheries conducted in adjacent areas under the authority of another Council, after consultation with such Council and representatives of those participants;
+&emsp;&emsp;(B) participants in the fisheries conducted in adjacent areas under the authority of another Council, after consultation with such Council and representatives of those participants; and
+
+&emsp;&emsp;(C) the safety of human life at sea, including whether and to what extent such measures may affect the safety of participants in the fishery;
 
 &emsp;(10) specify objective and measurable criteria for identifying when the fishery to which the plan applies is overfished (with an analysis of how the criteria were determined and the relationship of the criteria to the reproductive potential of stocks of fish in that fishery) and, in the case of a fishery which the Council or the Secretary has determined is approaching an overfished condition or is overfished, contain conservation and management measures to prevent overfishing or end overfishing and rebuild the fishery;
 
@@ -48,9 +50,11 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(12) assess the type and amount of fish caught and released alive during recreational fishing under catch and release fishery management programs and the mortality of such fish, and include conservation and management measures that, to the extent practicable, minimize mortality and ensure the extended survival of such fish;
 
-&emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors; and
+&emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery, including its economic impact, and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors;
 
-&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery.
+&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector, any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery and; <sup>3</sup>
+
+&emsp;(15) establish a mechanism for specifying annual catch limits in the plan (including a multiyear plan), implementing regulations, or annual specifications, at a level such that overfishing does not occur in the fishery, including measures to ensure accountability.
 
 #### (b) Discretionary provisions
 
@@ -64,7 +68,19 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(C) any United States fish processor who first receives fish that are subject to the plan;
 
-&emsp;(2) designate zones where, and periods when, fishing shall be limited, or shall not be permitted, or shall be permitted only by specified types of fishing vessels or with specified types and quantities of fishing gear;
+&emsp;(2)(A) designate zones where, and periods when, fishing shall be limited, or shall not be permitted, or shall be permitted only by specified types of fishing vessels or with specified types and quantities of fishing gear;
+
+&emsp;(B) designate such zones in areas where deep sea corals are identified under section 1884 of this title, to protect deep sea corals from physical damage from fishing gear or to prevent loss or damage to such fishing gear from interactions with deep sea corals, after considering long-term sustainable uses of fishery resources in such areas; and
+
+&emsp;(C) with respect to any closure of an area under this chapter that prohibits all fishing, ensure that such closure—
+
+&emsp;&emsp;(i) is based on the best scientific information available;
+
+&emsp;&emsp;(ii) includes criteria to assess the conservation benefit of the closed area;
+
+&emsp;&emsp;(iii) establishes a timetable for review of the closed area's performance that is consistent with the purposes of the closed area; and
+
+&emsp;&emsp;(iv) is based on an assessment of the benefits and impacts of the closure, including its size, in relation to other management measures (either alone or in combination with such measures), including the benefits and impacts of limiting access to: users of the area, overall fishing activity, fishery science, and fishery and marine conservation;
 
 &emsp;(3) establish specified limitations which are necessary and appropriate for the conservation and management of the fishery on the—
 
@@ -76,33 +92,37 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(4) prohibit, limit, condition, or require the use of specified types and quantities of fishing gear, fishing vessels, or equipment for such vessels,, including devices which may be required to facilitate enforcement of the provisions of this chapter;
 
-&emsp;(5) incorporate (consistent with the national standards, the other provisions of this chapter, and any other applicable law) the relevant fishery conservation and management measures of the coastal States nearest to the fishery;
+&emsp;(5) incorporate (consistent with the national standards, the other provisions of this chapter, and any other applicable law) the relevant fishery conservation and management measures of the coastal States nearest to the fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;
 
 &emsp;(6) establish a limited access system for the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
 
-&emsp;&emsp;(A) present participation in the fishery,
+&emsp;&emsp;(A) present participation in the fishery;
 
-&emsp;&emsp;(B) historical fishing practices in, and dependence on, the fishery,
+&emsp;&emsp;(B) historical fishing practices in, and dependence on, the fishery;
 
-&emsp;&emsp;(C) the economics of the fishery,
+&emsp;&emsp;(C) the economics of the fishery;
 
-&emsp;&emsp;(D) the capability of fishing vessels used in the fishery to engage in other fisheries,
+&emsp;&emsp;(D) the capability of fishing vessels used in the fishery to engage in other fisheries;
 
-&emsp;&emsp;(E) the cultural and social framework relevant to the fishery and any affected fishing communities, and
+&emsp;&emsp;(E) the cultural and social framework relevant to the fishery and any affected fishing communities;
 
-&emsp;&emsp;(F) any other relevant considerations;
+&emsp;&emsp;(F) the fair and equitable distribution of access privileges in the fishery; and
 
-&emsp;(7) require fish processors who first receive fish that are subject to the plan to submit data (other than economic data) which are necessary for the conservation and management of the fishery;
+&emsp;&emsp;(G) any other relevant considerations;
 
-&emsp;(8) require that one or more observers be carried on board a vessel of the United States engaged in fishing for species that are subject to the plan, for the purpose of collecting data necessary for the conservation and management of the fishery; except that such a vessel shall not be required to carry an observer on board if the facilities of the vessel for the quartering of an observer, or for carrying out observer functions, are so inadequate or unsafe that the health or safety of the observer or the safe operation of the vessel would be jeopardized;
+&emsp;(7) require fish processors who first receive fish that are subject to the plan to submit data which are necessary for the conservation and management of the fishery;
+
+&emsp;(8) require that one or more observers be carried on board a vessel of the United Statesengaged in fishing for species that are subject to the plan, for the purpose of collecting data necessary for the conservation and management of the fishery; except that such a vessel shall not be required to carry an observer on board if the facilities of the vessel for the quartering of an observer, or for carrying out observer functions, are so inadequate or unsafe that the health or safety of the observer or the safe operation of the vessel would be jeopardized;
 
 &emsp;(9) assess and specify the effect which the conservation and management measures of the plan will have on the stocks of naturally spawning anadromous fish in the region;
 
 &emsp;(10) include, consistent with the other provisions of this chapter, conservation and management measures that provide harvest incentives for participants within each gear group to employ fishing practices that result in lower levels of bycatch or in lower levels of the mortality of bycatch;
 
-&emsp;(11) reserve a portion of the allowable biological catch of the fishery for use in scientific research; and
+&emsp;(11) reserve a portion of the allowable biological catch of the fishery for use in scientific research;
 
-&emsp;(12) prescribe such other measures, requirements, or conditions and restrictions as are determined to be necessary and appropriate for the conservation and management of the fishery.
+&emsp;(12) include management measures in the plan to conserve target and non-target species and habitats, considering the variety of ecological factors affecting fishery populations; and
+
+&emsp;(14) <sup>4</sup> prescribe such other measures, requirements, or conditions and restrictions as are determined to be necessary and appropriate for the conservation and management of the fishery.
 
 #### (c) Proposed regulations
 
@@ -112,43 +132,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 &emsp;(2) making modifications to regulations implementing a fishery management plan or plan amendment may be submitted to the Secretary at any time after the plan or amendment is approved under section 1854 of this title.
 
-#### (d) Individual fishing quotas
-
-(1)(A) A Council may not submit and the Secretary may not approve or implement before October 1, 2002, any fishery management plan, plan amendment, or regulation under this chapter which creates a new individual fishing quota program.
-
-(B) Any fishery management plan, plan amendment, or regulation approved by the Secretary on or after January 4, 1995, which creates any new individual fishing quota program shall be repealed and immediately returned by the Secretary to the appropriate Council and shall not be resubmitted, reapproved, or implemented during the moratorium set forth in subparagraph (A).
-
-(2)(A) No provision of law shall be construed to limit the authority of a Council to submit and the Secretary to approve the termination or limitation, without compensation to holders of any limited access system permits, of a fishery management plan, plan amendment, or regulation that provides for a limited access system, including an individual fishing quota program.
-
-(B) This subsection shall not be construed to prohibit a Council from submitting, or the Secretary from approving and implementing, amendments to the North Pacific halibut and sablefish, South Atlantic wreckfish, or Mid-Atlantic surf clam and ocean (including mahogany) quahog individual fishing quota programs.
-
-(3) An individual fishing quota or other limited access system authorization—
-
-&emsp;(A) shall be considered a permit for the purposes of sections 1857, 1858, and 1859 of this title;
-
-&emsp;(B) may be revoked or limited at any time in accordance with this chapter;
-
-&emsp;(C) shall not confer any right of compensation to the holder of such individual fishing quota or other such limited access system authorization if it is revoked or limited; and
-
-&emsp;(D) shall not create, or be construed to create, any right, title, or interest in or to any fish before the fish is harvested.
-
-(4)(A) A Council may submit, and the Secretary may approve and implement, a program which reserves up to 25 percent of any fees collected from a fishery under section 1854(d)(2) of this title to be used, pursuant to section 1274(a)(7) of title 46, Appendix, to issue obligations that aid in financing the—
-
-&emsp;(i) purchase of individual fishing quotas in that fishery by fishermen who fish from small vessels; and
-
-&emsp;(ii) first-time purchase of individual fishing quotas in that fishery by entry level fishermen.
-
-(B) A Council making a submission under subparagraph (A) shall recommend criteria, consistent with the provisions of this chapter, that a fisherman must meet to qualify for guarantees under clauses (i) and (ii) of subparagraph (A) and the portion of funds to be allocated for guarantees under each clause.
-
-(5) In submitting and approving any new individual fishing quota program on or after October 1, 2002, the Councils and the Secretary shall consider the report of the National Academy of Sciences required under section 108(f) of the Sustainable Fisheries Act, and any recommendations contained in such report, and shall ensure that any such program—
-
-&emsp;(A) establishes procedures and requirements for the review and revision of the terms of any such program (including any revisions that may be necessary once a national policy with respect to individual fishing quota programs is implemented), and, if appropriate, for the renewal, reallocation, or reissuance of individual fishing quotas;
-
-&emsp;(B) provides for the effective enforcement and management of any such program, including adequate observer coverage, and for feesunder section 1854(d)(2) of this title to recover actual costs directly related to such enforcement and management; and
-
-&emsp;(C) provides for a fair and equitable initial allocation of individual fishing quotas, prevents any person from acquiring an excessive share of the individual fishing quotas issued, and considers the allocation of a portion of the annual harvest in the fishery for entry-level fishermen, small vessel owners, and crew members who do not hold or qualify for individual fishing quotas.
-
-(Pub. L. 94–265, title III, §303, Apr. 13, 1976, 90 Stat. 351; Pub. L. 95–354, §5(2), (3), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–453, §6, Jan. 12, 1983, 96 Stat. 2486; Pub. L. 99–659, title I, §§101(c)(2), 105(a)(1), (b), Nov. 14, 1986, 100 Stat. 3707, 3711; Pub. L. 101–627, title I, §109, Nov. 28, 1990, 104 Stat. 4447; Pub. L. 102–251, title III, §301(g), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §108(a), (c)–(e), Oct. 11, 1996, 110 Stat. 3574–3576; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238.)
+(Pub. L. 94–265, title III, §303, Apr. 13, 1976, 90 Stat. 351; Pub. L. 95–354, §5(2), (3), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–453, §6, Jan. 12, 1983, 96 Stat. 2486; Pub. L. 99–659, title I, §§101(c)(2), 105(a)(1), (b), Nov. 14, 1986, 100 Stat. 3707, 3711; Pub. L. 101–627, title I, §109, Nov. 28, 1990, 104 Stat. 4447; Pub. L. 102–251, title III, §301(g), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §108(a), (c)–(e), Oct. 11, 1996, 110 Stat. 3574–3576; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, title I, §§101(b), 104(a), 105, 106(a)(1), Jan. 12, 2007, 120 Stat. 3579, 3584–3586.)
 
 #### Amendment of Subsection (b)(1)(A)
 
@@ -156,9 +140,45 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 #### References in Text
 
-Section 108(f) of the Sustainable Fisheries Act, referred to in subsec. (d)(5), is section 108(f) of Pub. L. 104–297, which enacted provisions set out as a note below and repealed provisions formerly set out as a note under section 1851 of this title.
+This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (10), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(5). Pub. L. 109–479, §104(a)(1), (2), substituted “charter fishing, and fish processing” for “and charter fishing” and inserted “economic information necessary to meet the requirements of this chapter,” after “number of hauls,”.
+
+Subsec. (a)(9). Pub. L. 109–479, §101(b), in introductory provisions, substituted “analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—” for “describe the likely effects, if any, of the conservation and management measures on—”.
+
+Subsec. (a)(9)(C). Pub. L. 109–479, §104(a)(3)–(5), added subpar. (C).
+
+Subsec. (a)(13). Pub. L. 109–479, §104(a)(6), (7), substituted “in the fishery, including its economic impact,” for “in the fishery” and struck out “and” after semicolon at end.
+
+Subsec. (a)(14). Pub. L. 109–479, §104(a)(8), (9), substituted “allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector,” for “allocate” and “fishery and;” for “fishery.”
+
+Subsec. (a)(15). Pub. L. 109–479, §104(a)(10), added par. (15).
+
+Subsec. (b)(2). Pub. L. 109–479, §105(1), (2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+
+Subsec. (b)(5). Pub. L. 109–479, §105(3), substituted “fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;” for “fishery;”.
+
+Subsec. (b)(6). Pub. L. 109–479, §105(4), added par. (6) and struck out former par. (6) which read as follows: “establish a limited access system for the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
+
+&emsp;“(A) present participation in the fishery,
+
+&emsp;“(B) historical fishing practices in, and dependence on, the fishery,
+
+&emsp;“(C) the economics of the fishery,
+
+&emsp;“(D) the capability of fishing vessels used in the fishery to engage in other fisheries,
+
+&emsp;“(E) the cultural and social framework relevant to the fishery and any affected fishing communities, and
+
+&emsp;“(F) any other relevant considerations;”.
+
+Subsec. (b)(7). Pub. L. 109–479, §105(5), struck out “(other than economic data)” after “submit data”.
+
+Subsec. (b)(12), (14). Pub. L. 109–479, §105(6), (7), added par. (12) and redesignated former par. (12) as (14).
+
+Subsec. (d). Pub. L. 109–479, §106(a)(1), struck out subsec. (d) which related to individual fishing quotas.
 
 2000—Subsec. (d)(1)(A), (5). Pub. L. 106–554 substituted “October 1, 2002,” for “October 1, 2000,”.
 
@@ -210,13 +230,27 @@ Subsec. (d). Pub. L. 99–659, §105(b), amended first sentence generally. Prior
 
 1983—Subsec. (b)(7), (8). Pub. L. 97–453, §6(1), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (c). Pub. L. 97–453, §6(2), substituted provision that the proposed regulation which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to theSecretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title, for provision that any Council could prepare any proposed regulations which it deemed necessary and appropriate to carry out any fishery management plan, or any amendment to any fishery management plan, which was prepared by it, and that such proposed regulations would be submitted to the Secretary, together with such plan or amendment, for action by the Secretary pursuant to sections 1854 and 1855 of this title.
+Subsec. (c). Pub. L. 97–453, §6(2), substituted provision that the proposed regulation which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title, for provision that any Council could prepare any proposed regulations which it deemed necessary and appropriate to carry out any fishery management plan, or any amendment to any fishery management plan, which was prepared by it, and that such proposed regulations would be submitted to the Secretary, together with such plan or amendment, for action by the Secretary pursuant to sections 1854 and 1855 of this title.
 
 Subsec. (e). Pub. L. 97–453, §6(3), added subsec. (e).
 
 1978—Subsec. (a)(4)(C). Pub. L. 95–354, §5(2), added subpar. (C).
 
 Subsec. (a)(5). Pub. L. 95–354, §5(3), inserted provisions relating to estimated processing capacity of, and the actual processing utilized by, United States fish processors.
+
+#### Effective Date of 2007 Amendment; Applicability
+
+Pub. L. 109–479, title I, §104(b), Jan. 12, 2007, 120 Stat. 3584, provided that: “The amendment made by subsection (a)(10) \[amending this section\]—
+
+&emsp;“(1) shall, unless otherwise provided for under an international agreement in which the United States participates, take effect—
+
+&emsp;&emsp;“(A) in fishing year 2010 for fisheries determined by the Secretary to be subject to overfishing; and
+
+&emsp;&emsp;“(B) in fishing year 2011 for all other fisheries; and
+
+&emsp;“(2) shall not apply to a fishery for species that have a life cycle of approximately 1 year unless the Secretary has determined the fishery is subject to overfishing of that species; and
+
+&emsp;“(3) shall not limit or otherwise affect the requirements of section 301(a)(1) or 304(e) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851(a)(1) or 1854(e), respectively).”
 
 #### Effective Date of 1992 Amendment
 
@@ -250,13 +284,13 @@ Section 108(b) of Pub. L. 104–297 provided that: “Not later than 24 months a
 
 #### Individual Fishing Quota Report
 
-Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 104–297, title I, §108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3579, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 “(1) Not later than October 1, 1998, the National Academy of Sciences, in consultation with the Secretary of Commerce and the Regional Fishery Management Councils, shall submit to the Congress a comprehensive final report on individual fishing quotas, which shall include recommendations to implement a national policy with respect to individual fishing quotas. The report shall address all aspects of such quotas, including an analysis of—
 
 &emsp;“(A) the effects of limiting or prohibiting the transferability of such quotas;
 
-&emsp;“(B) mechanisms to prevent foreign control of the harvest of United States fisheries under individual fishing quota programs, including mechanisms to prohibit persons who are not eligible to be deemed a citizen of the United States for the purpose of operating a vessel in the coastwise trade under section 2(a) and section 2(c) of the Shipping Act, 1916 (46 \[App.\] U.S.C. 802(a) and (c)) from holding individual fishing quotas;
+&emsp;“(B) mechanisms to prevent foreign control of the harvest of United States fisheries under individual fishing quota programs, including mechanisms to prohibit persons who are not eligible to be deemed a citizen of the United States for the purpose of operating a vessel in the coastwise trade under section 2(a) and section 2(c) of the Shipping Act, 1916 (\[former\] 46 U.S.C. \[App.\] 802(a) and (c)) \[see 46 U.S.C. 50501(a), (d)\] from holding individual fishing quotas;
 
 &emsp;“(C) the impact of limiting the duration of individual fishing quota programs;
 
@@ -276,7 +310,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 &emsp;“(K) such other matters as the National Academy of Sciences deems appropriate.
 
-“(2) The report shall include a detailed analysis of individual fishing quota programs already implemented in the United States, including the impacts: of any limits on transferability, on past and present participants, on fishing communities, on the rate and total amount of bycatch (including economic and regulatory discards) in the fishery, on the safety of life and vessels in the fishery, on any excess harvesting or processing capacity in the fishery, on any gear conflicts in the fishery, on product quality from the fishery, on the effectiveness of enforcement in the fishery, on the size and composition of fishing vessel fleets, on the economic value created by individual fishing quotas for initial recipients and non-recipients, on conservation of the fishery resource, on fishermen who rely on participation in several fisheries, on the success in meeting any fishery management plan goals, and the fairness and effectiveness of the methods used for allocating quotas and controlling transferability. The report shall also include any information about individual fishing quota programs in other countries that may be useful.
+“(2) The report shall include a detailed analysis of individual fishing quota programs already implemented in the United States, including the impacts: of any limits on transferability, on past and present participants, on fishing communities, on the rate and total amount of bycatch (including economic and regulatory discards) in the fishery, on the safety of life and vessels in the fishery, on any excess harvesting or processing capacity in the fishery, on any gear conflicts in the fishery, on product quality from the fishery, on the effectiveness of enforcement in the fishery, on the size andcomposition of fishing vessel fleets, on the economic value created by individual fishing quotas for initial recipients and non-recipients, on conservation of the fishery resource, on fishermen who rely on participation in several fisheries, on the success in meeting any fishery management plan goals, and the fairness and effectiveness of the methods used for allocating quotas and controlling transferability. The report shall also include any information about individual fishing quota programs in other countries that may be useful.
 
 “(3) The report shall identify and analyze alternative conservation and management measures, including other limited access systems such as individual transferable effort systems, that could accomplish the same objectives as individual fishing quota programs, as well as characteristics that are unique to individual fishing quota programs.
 
@@ -288,5 +322,11 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 Section 108(i) of Pub. L. 104–297 provided that: “Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “fishery; and”.</i>
+
+<i><sup>4</sup></i><i> So in original. No par. (13) has been enacted.</i>
 

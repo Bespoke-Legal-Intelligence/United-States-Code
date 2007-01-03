@@ -14,7 +14,7 @@ In this section:
 
 &emsp;&emsp;(A) are identified in an appraisal or home inspection completed in conjunction with a home purchase; or
 
-&emsp;&emsp;(B) are completed within 1 year of the purchase of a home, and are necessary to bring the housing into compliance with health and safety housing codes of the unit of general local government in which the housing is located, including the remediation of lead paint or other home health hazards.
+&emsp;&emsp;(B) are completed within 1 year of the purchase of a home, and are necessary to bringthe housing into compliance with health and safety housing codes of the unit of general local government in which the housing is located, including the remediation of lead paint or other home health hazards.
 
 #### (3) Participating jurisdiction
 
@@ -98,7 +98,7 @@ If any amounts allocated to a participating jurisdiction under this section beco
 
 &emsp;In applying the requirements of part A of this subchapter referred to in paragraph (2)—
 
-&emsp;&emsp;(A) any references to funds under part A of this subchapter shall be considered to refer to amounts made available for assistance under this section; and
+&emsp;&emsp;(A) any references to funds under part A of this subchapter shall be considered to referto amounts made available for assistance under this section; and
 
 &emsp;&emsp;(B) any references to funds allocated or reallocated under section 12747 or 12747(d) of this title shall be considered to refer to amounts allocated or reallocated under subsection (d) or (e) of this section, respectively.
 
@@ -108,7 +108,7 @@ To be eligible to receive a grant under this section in any fiscal year, a parti
 
 &emsp;(1) a description of the anticipated use of any grant received under this section;
 
-&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing,trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
+&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing, trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
 
 &emsp;(3) a description of the actions to be taken to ensure the suitability of families receiving downpayment assistance under this section to undertake and maintain homeownership.
 

@@ -8,7 +8,7 @@ It shall be unlawful for any registered investment company to pay any dividend, 
 
 &emsp;(2) such company's net income so determined for the current or preceding fiscal year;
 
-> unless such payment is accompanied by a written statement which adequately discloses thesource or sources of such payment. The Commission may prescribe the form of such statement by rules and regulations in the public interest and for the protection of investors.
+> unless such payment is accompanied by a written statement which adequately discloses the source or sources of such payment. The Commission may prescribe the form of such statement by rules and regulations in the public interest and for the protection of investors.
 
 #### (b) Long-term capital gains; limitation
 

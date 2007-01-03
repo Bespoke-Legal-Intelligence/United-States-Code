@@ -8,7 +8,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;&emsp;(A) 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption, or
 
-&emsp;&emsp;(B) in the case of merchandise not sold prior to its importation into the UnitedStates, 12 months after the end of the annual accounting period of the manufacturer or exporter within which it is sold in the United States to a person who is not the exporter of that merchandise,
+&emsp;&emsp;(B) in the case of merchandise not sold prior to its importation into the United States, 12 months after the end of the annual accounting period of the manufacturer or exporter within which it is sold in the United States to a person who is not the exporter of that merchandise,
 
 &emsp;(2) includes a description of the subject merchandise, in such detail as the administering authority deems necessary, and
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -30,11 +30,11 @@
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–590, §1, Nov. 4, 1978, 92 Stat. 2513, provided: “That this Act \[enacting subchapter III of this chapter\] may be cited as the ‘Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978’.”
+Pub. L. 95–590, §1, Nov. 4, 1978, 92 Stat. 2513, provided: “That this Act \[enacting subchapter III of this chapter\]may be cited as the ‘Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 93–409 provided: “That this Act \[enacting this subchapter and amending section 2473 of this title\] may be cited as the ‘Solar Heating and Cooling Demonstration Act of 1974’.”
 
-Pub. L. 93–473, §1, Oct. 26, 1974, 88 Stat. 1431, provided: “That this Act \[enacting subchapter II of this chapter\]may be cited as the ‘Solar Energy Research, Development, and Demonstration Act of 1974’.”
+Pub. L. 93–473, §1, Oct. 26, 1974, 88 Stat. 1431, provided: “That this Act \[enacting subchapter II of this chapter\] may be cited as the ‘Solar Energy Research, Development, and Demonstration Act of 1974’.”
 

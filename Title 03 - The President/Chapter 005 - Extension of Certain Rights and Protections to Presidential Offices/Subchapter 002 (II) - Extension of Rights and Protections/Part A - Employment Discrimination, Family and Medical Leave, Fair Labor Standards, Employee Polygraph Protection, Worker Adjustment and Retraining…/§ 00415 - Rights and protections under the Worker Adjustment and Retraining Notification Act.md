@@ -22,7 +22,7 @@ In general.—In the event that a President (hereinafter in this paragraph refer
 
 &emsp;&emsp;(B)
 
-Description of individuals.—An individual described in this subparagraph is any covered employee serving pursuant to an appointment made during—
+Description of individuals.—An individual described in this subparagraph is anycovered employee serving pursuant to an appointment made during—
 
 &emsp;&emsp;&emsp;(i) the term of office of the previous President; or
 

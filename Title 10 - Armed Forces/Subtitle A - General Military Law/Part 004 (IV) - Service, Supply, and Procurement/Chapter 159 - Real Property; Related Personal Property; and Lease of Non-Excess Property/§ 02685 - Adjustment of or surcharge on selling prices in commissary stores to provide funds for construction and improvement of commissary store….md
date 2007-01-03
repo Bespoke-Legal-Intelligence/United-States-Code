@@ -2,11 +2,11 @@
 
 (a)
 
-Adjustment or Surcharge Authorized.—Notwithstanding any other provision of law, the Secretary of Defense may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
+Adjustment or Surcharge Authorized.—Notwithstanding any other provision of law, theSecretary of Defense may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
 
 (b)
 
-Use for Construction, Repair, Improvement, and Maintenance.—(1) The Secretary ofDefense may use the proceeds from the adjustments or surcharges authorized by subsection (a) only—
+Use for Construction, Repair, Improvement, and Maintenance.—(1) The Secretary of Defense may use the proceeds from the adjustments or surcharges authorized by subsection (a) only—
 
 &emsp;(A) to acquire (including acquisition by lease), construct, convert, expand, improve, repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
 

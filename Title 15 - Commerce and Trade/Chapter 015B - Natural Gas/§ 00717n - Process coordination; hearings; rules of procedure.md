@@ -16,7 +16,7 @@ In this section, the term “Federal authorization”—
 
 #### (2) Other agencies
 
-&emsp;Each Federal and State agency considering an aspect of an application for Federal authorization shall cooperate with the Commissionand comply with the deadlines established by the Commission.
+&emsp;Each Federal and State agency considering an aspect of an application for Federal authorization shall cooperate with the Commission and comply with the deadlines established by the Commission.
 
 #### (c) Schedule
 

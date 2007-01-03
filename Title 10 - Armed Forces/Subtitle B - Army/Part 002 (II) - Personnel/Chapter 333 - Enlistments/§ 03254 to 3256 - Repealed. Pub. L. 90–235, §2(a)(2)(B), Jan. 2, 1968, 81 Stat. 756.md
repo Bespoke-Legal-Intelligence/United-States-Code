@@ -1,5 +1,7 @@
 ### \[§§3254 to 3256. Repealed. Pub. L. 90–235, §2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756\]
 
+§3256
+
 Section 3254, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, provided for temporary enlistments in the Army during war or emergency.
 
 Section 3255, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, provided for recruiting campaigns to obtain enlistments in the Regular Army.

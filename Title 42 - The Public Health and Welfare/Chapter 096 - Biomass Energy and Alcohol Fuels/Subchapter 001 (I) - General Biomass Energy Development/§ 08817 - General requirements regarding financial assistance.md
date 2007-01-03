@@ -66,7 +66,7 @@ All contracts and instruments of the Secretary concerned to provide, or providin
 
 #### (f) Contestability of contracts
 
-Subject to the conditions of any contract for financial assistance, such contract shall be incontestable in the hands of the holder, except as to fraud or material misrepresentation on the part of the holder.
+Subject to the conditions of any contract for financial assistance, such contract shall be incontestable in the hands of the holder, except asto fraud or material misrepresentation on the part of the holder.
 
 #### (g) Fees for loan guarantees, etc.
 
@@ -76,7 +76,7 @@ Subject to the conditions of any contract for financial assistance, such contrac
 
 #### (h) Deposit of amounts received by Secretary concerned
 
-All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activitiesunder this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title.
+All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activities under this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title.
 
 (Pub. L. 96–294, title II, §217, June 30, 1980, 94 Stat. 693.)
 

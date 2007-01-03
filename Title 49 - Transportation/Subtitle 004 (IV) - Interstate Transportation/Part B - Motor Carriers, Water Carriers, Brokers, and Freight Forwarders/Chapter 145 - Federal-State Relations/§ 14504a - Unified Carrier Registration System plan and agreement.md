@@ -46,7 +46,7 @@ Leasing company.—The term “leasing company” means a lessor that is engaged
 
 &emsp;(5)
 
-Motor carrier.—The term “motor carrier” includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.
+Motor carrier.—The term “motor carrier” includes all carriers that are otherwise exempt from this part under subchapter I ofchapter 135 or exemption actions by the former Interstate Commerce Commission under this title.
 
 &emsp;(6)
 
@@ -90,7 +90,7 @@ Unreasonable Burden.—For purposes of this section, it shall be considered an u
 
 &emsp;&emsp;&emsp;&emsp;(I) intrastate service provided by motor carriers of passengers that is not subject to the preemption provisions of section 14501(a);
 
-&emsp;&emsp;&emsp;&emsp;(II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2).
+&emsp;&emsp;&emsp;&emsp;(II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2).<sup>3</sup>
 
 &emsp;&emsp;&emsp;&emsp;(III) the intrastate transportation of waste or recyclable materials by any carrier; or
 
@@ -178,7 +178,7 @@ Compensation and expenses.—
 
 &emsp;&emsp;(A)
 
-In general.—Except for the representative of the Department appointed under paragraph (1)(B)(iv), no director shall receive any compensation or other benefits from theFederal Government for serving on the board or be considered a Federal employee as a result of such service.
+In general.—Except for the representative of the Department appointed under paragraph (1)(B)(iv), no director shall receive any compensation or other benefits from the Federal Government for serving on the board or be considered a Federal employee as a result of such service.
 
 &emsp;&emsp;(B)
 
@@ -280,7 +280,7 @@ State plan.—No State shall be eligible to participate in the unified carrier r
 
 &emsp;(2)
 
-Amended plans.—A State that submits a plan under this subsection may change theagency designated in the plan by filing an amended plan with the Secretary and the chairperson of the board of directors.
+Amended plans.—A State that submits a plan under this subsection may change the agency designated in the plan by filing an amended plan with the Secretary and the chairperson of the board of directors.
 
 &emsp;(3)
 
@@ -320,7 +320,7 @@ Fees.—(A) Fees charged—
 
 &emsp;(2)
 
-Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
+Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, orfreight forwarder under a long term lease during a vehicle registration year.
 
 &emsp;(3)
 
@@ -348,7 +348,7 @@ Distribution of UCR Agreement Revenues.—
 
 &emsp;(1)
 
-Eligibility.—Each State that is in compliance with subsection (e) shall be entitled under this section to a portion of the revenuesderived from the UCR Agreement in accordance with subsection (g).
+Eligibility.—Each State that is in compliance with subsection (e) shall be entitled under this section to a portion of the revenues derived from the UCR Agreement in accordance with subsection (g).
 
 &emsp;(2)
 
@@ -411,4 +411,6 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

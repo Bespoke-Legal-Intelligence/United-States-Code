@@ -6,11 +6,11 @@
 
 (3) For the purpose of this subsection:
 
-&emsp;(A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $7,000,000, but such term does not include an acquisition by exchange.
+&emsp;(A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $10,000,000, but such term does not include an acquisition by exchange.
 
 &emsp;(B) The term “major medical facility lease” means a lease for space for use as a new medical facility at an average annual rental of more than $600,000.
 
-(b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+(b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), theSecretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
 &emsp;(1) A detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title.
 
@@ -28,7 +28,7 @@
 
 &emsp;(8) In the case of a prospectus proposing the construction of a new or replacement medical facility, a description of each alternative to construction of the facility that was considered.
 
-(c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intentionto do so and the reasons for the specified amount being exceeded.
+(c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
 (d) In any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
 
@@ -42,9 +42,11 @@
 
 (g) The limitation in subsection (f) does not apply to a project for which funds have been authorized by law in accordance with subsection (a)(2).
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447.)
 
 #### Amendments
+
+2006—Subsec. (a)(3)(A). Pub. L. 109–461 substituted “$10,000,000” for “$7,000,000”.
 
 2004—Subsec. (g). Pub. L. 108–422 added subsec. (g).
 
@@ -106,7 +108,7 @@ Subsec. (a)(3), (4). Pub. L. 100–322, §422(b), added par. (3) and struck out 
 
 “(4) For the purpose of this subsection, the term ‘major medical facility project’ means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $2,000,000. Such term does not include an acquisition by exchange.”
 
-Subsec. (c). Pub. L. 100–322, §422(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The estimated cost of any construction, alteration, lease, or other acquisition that is approved under this section, as set forth in the pertinent resolutions described in subsection (a) of this section, may be increased by the Administrator in the contract for such construction, alteration, lease, or other acquisition byan amount equal to the percentage increase, if any, as determined by the Administrator, in construction, alteration, lease, or other acquisition costs, as the case may be, from the date of such approval to the date of contract, but in no event may the amount of such increase exceed 10 per centum of such estimated cost.”
+Subsec. (c). Pub. L. 100–322, §422(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The estimated cost of any construction, alteration, lease, or other acquisition that is approved under this section, as set forth in the pertinent resolutions described in subsection (a) of this section, may be increased by the Administrator in the contract for such construction, alteration, lease, or other acquisition by an amount equal to the percentage increase, if any, as determined by the Administrator, in construction, alteration, lease, or other acquisition costs, as the case may be, from the date of such approval to the date of contract, but in no event may the amount of such increase exceed 10 per centum of such estimated cost.”
 
 Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “In the case of any medical facility approved for construction, alteration, lease, or other acquisition by each committee under subsection (a) of this section for which funds have not been appropriated within one year after the date of such approval, either such committee may by resolution rescind its approval at any time thereafter before such funds are appropriated.”
 

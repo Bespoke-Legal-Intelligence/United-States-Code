@@ -58,7 +58,7 @@ Annual Report.—Not later than March 15 of each year, the Secretary of Defense 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “senior procurement executive”, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).<sup>1</sup>
+&emsp;(1) The term “senior procurement executive”, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)).
 
 &emsp;(2) The term “simplified acquisition threshold” has the meaning given the term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).
 
@@ -68,13 +68,11 @@ Definitions.—In this section:
 
 &emsp;(5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640.)
-
-#### References in Text
-
-Section 16 of the Office of Federal Procurement Policy Act, referred to in subsec. (f)(1), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of Title 41, Public Contracts.
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
 
 #### Amendments
+
+2006—Subsec. (f)(1). Pub. L. 109–364 substituted “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” for “section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
 
 2003—Subsec. (b)(9). Pub. L. 108–178 substituted “sections 11312 and 11313 of title 40” for “sections 5122 and 5123 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1422, 1423)”.
 
@@ -92,7 +90,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(b)\], Oct. 30, 2000, 114 
 
 #### GAO Report
 
-Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, provided that: “Not later than 15 months after the date of the enactment of this Act \[Oct. 30, 2000\], the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the collection of data under such section 2225. The report shall include the Comptroller General's assessment of the extent to which the collection of data meets the requirements of that section.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, directed the Comptroller General to submit to committees of Congress a report on the collection of data under this section not later than 15 months after Oct. 30, 2000.
 

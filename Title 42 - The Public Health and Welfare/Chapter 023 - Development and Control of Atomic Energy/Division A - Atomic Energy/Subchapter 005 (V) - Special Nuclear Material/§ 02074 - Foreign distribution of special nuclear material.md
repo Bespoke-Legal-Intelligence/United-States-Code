@@ -50,7 +50,3 @@ Subsec. (e). Pub. L. 95–242, §303(b)(1), added subsec. (e).
 
 Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provided and regardless of any requirement for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as an Effective Date note under section 3201 of Title 22, Foreign Relations and Intercourse.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

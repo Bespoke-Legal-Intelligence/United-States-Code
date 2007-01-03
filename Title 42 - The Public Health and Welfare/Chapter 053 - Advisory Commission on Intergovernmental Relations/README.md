@@ -5,23 +5,9 @@
 | [4271\.](%C2%A7%2004271%20-%20Establishment.md) | Establishment. |
 | [4272\.](%C2%A7%2004272%20-%20Declaration%20of%20purpose.md) | Declaration of purpose. |
 | [4273\.](%C2%A7%2004273%20-%20Membership%20of%20Commission%3B%20appointment%20of%20members%3B%20term.md) | Membership of Commission; appointment of members; term. |
-| (a) | Number of members; appointment; qualifications. |
-| (b) | Political and geographical composition. |
-| (c) | Term of office; reappointment; period of service. |
 | [4274\.](%C2%A7%2004274%20-%20Organization%20of%20Commission.md) | Organization of Commission. |
-| (a) | Initial meeting. |
-| (b) | Chairman and Vice Chairman. |
-| (c) | Vacancies in membership. |
-| (d) | Termination of service in official position from which originally appointed. |
-| (e) | Quorum. |
 | [4275\.](%C2%A7%2004275%20-%20Duties%20of%20Commission.md) | Duties of Commission. |
 | [4276\.](%C2%A7%2004276%20-%20Powers%20and%20administrative%20provisions.md) | Powers and administrative provisions. |
-| (a) | Hearings; oaths and affirmations. |
-| (b) | Cooperation by Federal agencies. |
-| (c) | Executive director. |
-| (d) | Appointment and compensation of other personnel; temporary and intermittent services. |
-| (e) | Applicability of other laws to employees. |
-| (f) | Maximum compensation of employees. |
 | [4277\.](%C2%A7%2004277%20-%20Compensation%20of%20members.md) | Compensation of members. |
 | [4278\.](%C2%A7%2004278%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [4279\.](%C2%A7%2004279%20-%20Receipt%20of%20funds%3B%20consideration%20by%20Congress.md) | Receipt of funds; consideration by Congress. |

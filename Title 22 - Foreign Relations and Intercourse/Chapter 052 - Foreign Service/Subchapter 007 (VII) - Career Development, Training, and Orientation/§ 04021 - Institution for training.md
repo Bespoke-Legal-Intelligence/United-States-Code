@@ -24,7 +24,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 (1) The Secretary may provide appropriate training or related services, except foreign language training, through the institution to any United States person (or any employee or family member thereof) that is engaged in business abroad.
 
-(2) The Secretary may provide job-related training or related services, including foreign language training, through the institution to a United States person under contract to provide services to the United States Government or to any employee thereof that is performing such services.
+(2) The Secretary may provide job-related training or related services, including foreignlanguage training, through the institution to a United States person under contract to provide services to the United States Government or to any employee thereof that is performing such services.
 
 (3) Training under this subsection may be provided only to the extent that space is available and only on a reimbursable or advance-of-funds basis. Reimbursements and advances shall be credited to the currently available applicable appropriation account.
 
@@ -50,7 +50,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 The authorities of section 4024 of this title shall apply to training and instruction provided under this section.
 
-(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, §1(a), Jan. 16, 2002, 115 Stat. 2412; Pub. L.107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.)
+(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, §1(a), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.)
 
 #### References in Text
 

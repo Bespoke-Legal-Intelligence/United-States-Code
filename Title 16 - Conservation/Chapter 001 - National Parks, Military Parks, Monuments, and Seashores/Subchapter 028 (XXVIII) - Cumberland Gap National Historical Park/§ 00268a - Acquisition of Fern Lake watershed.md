@@ -54,7 +54,7 @@ This section may be cited as the “Fern Lake Conservation and Recreation Act”
 
 #### (3) Boundary adjustment and administration
 
-&emsp;Subject to paragraph (4), the Secretary shall revise the boundaries of the park to include the land acquired under paragraph (2). TheSecretary shall administer the acquired lands as part of the park in accordance with the laws and regulations applicable to the park.
+&emsp;Subject to paragraph (4), the Secretary shall revise the boundaries of the park to include the land acquired under paragraph (2). The Secretary shall administer the acquired lands as part of the park in accordance with the laws and regulations applicable to the park.
 
 #### (4) Conveyance of Fern Lake
 

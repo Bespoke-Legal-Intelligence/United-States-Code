@@ -6,7 +6,7 @@ The Secretary of State shall institute a supplemental program of training in dis
 
 #### (b) Training improvements
 
-(1) In expanding the training program under subsection (a) of this section, the Secretary of State shall consult with death and bereavement counselors concerning the particular demands posed by aviation tragedies and terrorist activities.
+(1) In expanding the training program under subsection (a) of this section, the Secretary ofState shall consult with death and bereavement counselors concerning the particular demands posed by aviation tragedies and terrorist activities.
 
 (2) In providing such additional training under subsection (a) of this section the Secretary of State shall consider supplementing the current training program through—
 

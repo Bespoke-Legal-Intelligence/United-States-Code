@@ -26,7 +26,7 @@ The Secretary shall expand the capabilities of and construct additional faciliti
 
 &emsp;&emsp;(D) the study of biological control of non-native species that degrade or destroy native forest ecosystems;
 
-&emsp;&emsp;(E) achieving a better understanding of global climate change and the significance of achieving a reduction of greenhouse gases through research associated with the unique atmospheric conditions found in Hawaii and the Pacific Ocean;
+&emsp;&emsp;(E) achieving a better understanding of global climate change and the significanceof achieving a reduction of greenhouse gases through research associated with the unique atmospheric conditions found in Hawaii and the Pacific Ocean;
 
 &emsp;&emsp;(F) a review of the extent to which existing Federal forestry programs can be utilized to achieve the purposes of the plan; and
 
@@ -66,7 +66,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Hawaii Tropical Forest Recovery Task Force
 
-Section 4 of Pub. L. 102–574 provided that:
+Pub. L. 102–574, §4, Oct. 29, 1992, 106 Stat. 4597, provided that:
 
 “(a)
 
@@ -172,7 +172,7 @@ Report.—The action plan required under subsection (b) shall be submitted to—
 
 “(<i>l</i>)
 
-Nonapplicability of Certain Provisions of Law.—Sections 7(d), 10(f), and 14 of the Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 App. U.S.C.\] shall not apply to the Task Force.
+Nonapplicability of Certain Provisions of Law.—Sections 7(d), 10(f), and 14 of the Federal Advisory Committee Act (5 U.S.C. App. 2 \[sic\]) \[5 U.S.C. App.\] shall not apply to the Task Force.
 
 “(m)
 

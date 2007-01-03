@@ -38,7 +38,7 @@
 
 (g) If the Federal Government makes a payment to a recipient under a Federal program, and a portion of the payment is an amount which the Federal Government is paying to such recipient on behalf of a State, such amount shall be considered to be a transfer of funds between the Federal Government and the State for purposes of this section.
 
-(h) A State may not be required by a law or regulation of the United States to deposit funds received by it in a separate bank account. However, a State shall account for funds made available to the State as United States Government funds in the accounts of the State. The head of the State agency concerned shall make periodic authenticated reports to the head of the appropriate Federal executive agency on the status and the application of the funds, the liabilities and obligations on hand, and other information required by the head of the executive agency. Records related to the funds received by theState shall be made available to the head of the executive agency, the Inspector General of the executive agency, and the Comptroller General for necessary audits.
+(h) A State may not be required by a law or regulation of the United States to deposit funds received by it in a separate bank account. However, a State shall account for funds made available to the State as United States Government funds in the accounts of the State. The head of the State agency concerned shall make periodic authenticated reports to the head of the appropriate Federal executive agency on the status and the application of the funds, the liabilities and obligations on hand, and other information required by the head of the executive agency. Records related to the funds received by the State shall be made available to the head of the executive agency, the Inspector General of the executive agency, and the Comptroller General for necessary audits.
 
 (i) The Secretary shall prescribe methods for the payment of interest under this section between the Federal Government and the States, including provisions for offsetting amounts owed by the respective parties. Such methods of payment shall require payment of interest on an annual basis and shall provide for comparable treatment in manner, technique, and timing for both the States and the Federal Government.
 
@@ -88,7 +88,7 @@ Section 5(d) of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(2)(A), (
 
 “(1)
 
-Secretary's efforts to enter agreements.—The Secretary of the Treasury shall make all reasonable efforts to enter into an agreement with each State under section 6503(b) of title 31, United States Code, as added by this section (relating to procedures and requirements for transfers of funds between executive agencies and States), by July 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.
+Secretary's efforts to enter agreements.—The Secretary of the Treasury shall make all reasonable efforts to enter into an agreement with each State under section 6503(b) of title 31, United States Code, as added by this section (relating to procedures and requirements for transfers of funds between executiveagencies and States), by July 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.
 
 “(2)
 

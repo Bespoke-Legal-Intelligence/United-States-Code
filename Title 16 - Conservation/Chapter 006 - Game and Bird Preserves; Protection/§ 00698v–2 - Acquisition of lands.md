@@ -12,7 +12,7 @@
 
 #### (3) Basis of sale
 
-&emsp;The acquisition under paragraph (1) shall be based on an appraisal done in conformity withthe Uniform Appraisal Standards for Federal Land Acquisitions and—
+&emsp;The acquisition under paragraph (1) shall be based on an appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions and—
 
 &emsp;&emsp;(A) in the case of purchase, such purchase shall be on a willing seller basis for no more than the fair market value of the land or interests therein acquired; and
 
@@ -46,7 +46,7 @@ Upon acquisition of the Baca ranch under subsection (a) of this section, the Sec
 
 #### (5) Public availability
 
-&emsp;The plat and maps referred to in the <sup>1</sup> subsection shall be kept and made available for public inspection in the offices of the Chief, Forest Service, and Director, National Park Service, in Washington, D.C., and Supervisor, Santa Fe National Forest, and Superintendent, Bandelier National Monument, in the State of New Mexico.
+&emsp;The plat and maps referred to in the <sup>1</sup> subsection shall be kept and made available for public inspection in the offices of the Chief,Forest Service, and Director, National Park Service, in Washington, D.C., and Supervisor, Santa Fe National Forest, and Superintendent, Bandelier National Monument, in the State of New Mexico.
 
 #### (d) Watershed management report
 
@@ -98,7 +98,7 @@ For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Bac
 
 #### (1) In general
 
-&emsp;The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair marketvalue portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
+&emsp;The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair market value portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
 
 #### (2) Status of land acquired
 

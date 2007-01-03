@@ -24,7 +24,7 @@
 
 > shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5).
 
-(2)(a)(i) It shall not be unlawful under this chapter for an operator of a switchboard, or an officer, employee, or agent of a provider of wire or electronic communication service, whose facilities are used in the transmission of a wire or electronic communication, to intercept, disclose, or use that communication in the normal course of his employment while engaged in any activity which is a necessary incident to the rendition of his service or to the protection of the rights or property of the provider of that service, except that a provider of wire communication service to the public shall not utilize service observing or random monitoring except for mechanical or service quality control checks.
+(2)(a)(i) It shall not be unlawful under this chapter for an operator of a switchboard, or an officer, employee, or agent of a provider of wire or electronic communication service, whose facilities are used in the transmission of a wire or electronic communication, to intercept, disclose, or use that communication in the normal course of his employment while engaged in any activity which is a necessary incident to the rendition of his service or to the protection of the rights or property of the provider of that service, except that a provider of wire communication service to the public shall not utilize service observing or random monitoring exceptfor mechanical or service quality control checks.
 
 (ii) Notwithstanding any other law, providers of wire or electronic communication service, their officers, employees, and agents, landlords, custodians, or other persons, are authorized to provide information, facilities, or technical assistance to persons authorized by law to intercept wire, oral, or electronic communications or to conduct electronic surveillance, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978, if such provider, its officers, employees, or agents, landlord, custodian, or other specified person, has been provided with—
 
@@ -66,7 +66,7 @@
 
 &emsp;(iv) to intercept any wire or electronic communication the transmission of which is causing harmful interference to any lawfully operating station or consumer electronic equipment, to the extent necessary to identify the source of such interference; or
 
-&emsp;(v) for other users of the same frequency to intercept any radio communication made through a system that utilizes frequencies monitored by individuals engaged in the provision or the use of such system, if such communication is not scrambled or encrypted.
+&emsp;(v) for other users of the same frequency to intercept any radio communication made through a system that utilizes frequenciesmonitored by individuals engaged in the provision or the use of such system, if such communication is not scrambled or encrypted.
 
 (h) It shall not be unlawful under this chapter—
 
@@ -124,13 +124,9 @@
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, §211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, §6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, §320901, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, §604(b)(42), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–56, title II, §§204, 217(2), Oct. 26, 2001, 115 Stat. 281, 291; Pub. L. 107–296, title II, §225(h)(2), (j)(1), Nov. 25, 2002, 116 Stat. 2158.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
-
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Section 101 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), is classified to section 1801 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Section 101 of the Foreign Intelligence SurveillanceAct of 1978, referred to in par. (2)(a)(ii), (e), and (f), is classified to section 1801 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, respectively.
 
@@ -144,9 +140,9 @@ Par. (4)(b), (c). Pub. L. 107–296, §225(j)(1), redesignated subpar. (c) as (b
 
 &emsp;“(ii) if the communication is the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, the offender shall be fined under this title.”
 
-2001—Par. (2)(f). Pub. L. 107–56, §§204, 224, temporarily substituted “this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934” for “this chapter or chapter 121, or section 705 of the Communications Act of 1934” and “wire, oral, and electronic communications” for “wire and oral communications”. See Termination Date of 2001 Amendment note below.
+2001—Par. (2)(f). Pub. L. 107–56, §204, substituted “this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934” for “this chapter or chapter 121, or section 705 of the Communications Act of 1934” and “wire, oral, and electronic communications” for “wire and oral communications”.
 
-Par. (2)(i). Pub. L. 107–56, §§217(2), 224, temporarily added subpar. (i). See Termination Date of 2001 Amendment note below.
+Par. (2)(i). Pub. L. 107–56, §217(2), added subpar. (i).
 
 1996—Par. (1)(e)(i). Pub. L. 104–294 substituted “sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter” for “sections 2511(2)(A)(ii), 2511(b)–(c), 2511(e), 2516, and 2518 of this subchapter”.
 
@@ -164,7 +160,7 @@ Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for 
 
 1986—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-Par. (1). Pub. L. 99–508, §101(c)(1)(A), (d)(1), (f)\[(1)\], substituted “intentionally” for “willfully” in subpars.\(a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
+Par. (1). Pub. L. 99–508, §101(c)(1)(A), (d)(1), (f)\[(1)\], substituted “intentionally” for “willfully” in subpars. (a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
 
 Par. (2)(a)(i). Pub. L. 99–508, §101(c)(5), substituted “a provider of wire or electronic communication service” for “any communication common carrier” and “of the provider of that service, except that a provider of wire communication service to the public” for “of the carrier of such communication: <i>Provided</i>, That said communication common carriers”.
 
@@ -200,17 +196,13 @@ Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that no
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-#### Termination Date of 2001 Amendment
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
-
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to courtorder or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 
 #### Effective Date of 1984 Amendment
 

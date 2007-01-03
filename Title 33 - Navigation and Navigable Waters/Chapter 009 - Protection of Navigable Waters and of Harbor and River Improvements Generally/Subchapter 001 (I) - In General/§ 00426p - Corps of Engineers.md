@@ -26,7 +26,7 @@ The Secretary of the Army may—
 
 &emsp;&emsp;(B) section 1344 of this title;
 
-> &emsp;for any activity carried out with assistance under this title, the Secretary of the Armyshall take account of flooding and erosion of other property which may be caused by such activity.
+> &emsp;for any activity carried out with assistance under this title, the Secretary of the Army shall take account of flooding and erosion of other property which may be caused by such activity.
 
 #### (2) Bank stabilization
 
@@ -46,11 +46,11 @@ This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 100–707 provided that: “This title \[enacting this section, amending sections 3501 to 3503 of Title 16, Conservation, and enacting provisions set out as notes under this section and sections 3501 and 3505 of Title 16\] may be cited as the ‘Great Lakes Planning Assistance Act of 1988’.”
+Pub. L. 100–707, title II, §201, Nov. 23, 1988, 102 Stat. 4711, provided that: “This title \[enacting this section, amending sections 3501 to 3503 of Title 16, Conservation, and enacting provisions set out as notes under this section and sections 3501 and 3505 of Title 16\] may be cited as the ‘Great Lakes Planning Assistance Act of 1988’.”
 
 #### Great Lakes Damage Assistance and Prevention; Damage Assistance Program
 
-Section 202 of Pub. L. 100–707 provided that:
+Pub. L. 100–707, title II, §202, Nov. 23, 1988, 102 Stat. 4711, provided that:
 
 “(a)
 
@@ -82,11 +82,11 @@ Authorization.—There are authorized to be appropriated for making grants under
 
 #### Great Lakes Damage Assistance and Prevention; Definitions
 
-Section 205 of Pub. L. 100–707 provided that: “For purposes of this title \[see Short Title note above\]—
+Pub. L. 100–707, title II, §205, Nov. 23, 1988, 102 Stat. 4715, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: “For purposes of this title \[see Short Title note above\]—
 
 &emsp;“(1)
 
-Director.—The term ‘Director’ means the Director of the Federal Emergency Management Agency.
+Director.—The term ‘Director’ means the Administrator of the Federal Emergency Management Agency.
 
 &emsp;“(2)
 

@@ -52,7 +52,7 @@ The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), 
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -67,6 +67,10 @@ Subsec. (b)(1). Pub. L. 107–308, §3(b)(1), substituted “and habitats associ
 Subsec. (b)(2). Pub. L. 107–308, §3(b)(2), inserted “wetland associated” before “migratory bird”.
 
 Subsec. (b)(3). Pub. L. 107–308, §3(b)(3), inserted “wetland associated” before “migratory birds” and “, the United States Shorebird Conservation Plan, the North American Waterbird Conservation Plan, the Partners In Flight Conservation Plans,” after “North American Waterfowl Management Plan”.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–322, §1, Oct. 11, 2006, 120 Stat. 1756, provided that: “This Act \[amending section 4406 of this title\] may be cited as the ‘North American Wetlands Conservation Reauthorization Act of 2006’.”
 
 #### Short Title of 2002 Amendment
 

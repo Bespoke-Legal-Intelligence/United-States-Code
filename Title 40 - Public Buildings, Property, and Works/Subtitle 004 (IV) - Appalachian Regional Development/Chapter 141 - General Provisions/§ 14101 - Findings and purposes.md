@@ -60,7 +60,7 @@ Purpose.—In addition to the purposes stated in subsections (a) and (b), it is 
 
 &emsp;&emsp;&emsp;(ii) adapting and applying new technologies for the region's businesses, including eco-industrial development technologies; and
 
-&emsp;&emsp;&emsp;(iii) improving the access of the region's businesses to the technical and financial resources necessary to development of the businesses; and
+&emsp;&emsp;&emsp;(iii) improving the access of the region's businesses to the technical and financialresources necessary to development of the businesses; and
 
 &emsp;&emsp;(C) to address the needs of severely and persistently distressed areas of the Appalachian region and focus special attention on the areas of greatest need so as to provide a fairer opportunity for the people of the region to share the quality of life generally enjoyed by citizens across the United States.
 

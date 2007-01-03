@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 > &emsp;unless the alien has been convicted of a crime or crimes listed in section 241(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
-&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) <sup>3</sup> of such Act \[8 U.S.C. 1154(a)(1)(A)(iii), (iv), (B)(ii), (iii), 1186a(c)(4)(C), 1101(a)(15)(U), 1229b(b)(2)\] as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty.
+&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under paragraph (15)(T), (15)(U), or (51) of section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T), (U), (51)\] or section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\].
 
 > The limitation under paragraph (2) ends when the application for relief is denied and all opportunities for appeal of the denial have been exhausted.
 
@@ -48,7 +48,7 @@ Anyone who willfully uses, publishes, or permits information to be disclosed in 
 
 The Attorney General and the Secretary of Homeland Security shall provide guidance to officers and employees of the Department of Justice or the Department of Homeland Security who have access to information covered by this section regarding the provisions of this section, including the provisions to protect victims of domestic violence from harm that could result from the inappropriate disclosure of covered information.
 
-(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641; Pub. L. 106–386, div. B, title V, §1513(d), Oct. 28, 2000, 114 Stat. 1536; Pub. L. 109–162, title VIII, §817, Jan. 5, 2006, 119 Stat. 3060.)
+(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641; Pub. L. 106–386, div. B, title V, §1513(d), Oct. 28, 2000, 114 Stat. 1536; Pub. L. 109–162, title VIII, §817, Jan. 5, 2006, 119 Stat. 3060; Pub. L. 109–271, §6(h), Aug. 12, 2006, 120 Stat. 763.)
 
 #### References in Text
 
@@ -66,6 +66,8 @@ Section is comprised of section 384 of div. C of Pub. L. 104–208. Another subs
 
 Subsec. (a)(1)(F). Pub. L. 109–162, §817(1)(B), added subpar. (F).
 
+Subsec. (a)(2). Pub. L. 109–271 substituted “paragraph (15)(T), (15)(U), or (51) of section 101(a) of the Immigration and Nationality Act or section 240A(b)(2) of such Act” for “clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) of such Act as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty”.
+
 Subsec. (b)(6), (7). Pub. L. 109–162, §817(2), added pars. (6) and (7).
 
 Subsec. (c). Pub. L. 109–162, §817(3), inserted “or who knowingly makes a false certification under section 239(e) of the Immigration and Nationality Act” after “in violation of this section”.
@@ -82,7 +84,7 @@ Subsec. (a)(2). Pub. L. 106–386, §1513(d)(4), inserted “section 101(a)(15)(
 
 #### Effective Date of 1997 Amendment
 
-Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments madeby this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -95,6 +97,4 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be section “240A(b)(2)”.</i>
 

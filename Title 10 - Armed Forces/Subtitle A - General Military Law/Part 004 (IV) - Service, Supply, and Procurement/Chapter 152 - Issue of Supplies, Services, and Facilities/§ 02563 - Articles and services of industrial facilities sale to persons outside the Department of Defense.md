@@ -70,7 +70,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) in the case of services, the extent of the services sold.
 
-(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718, §2553; amended Pub. L. 106–65, div. A, title III, §331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered §2563, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, §343(a), Dec. 28, 2001, 115 Stat. 1061.)
+(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718, §2553;amended Pub. L. 106–65, div. A, title III, §331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered §2563, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, §343(a), Dec. 28, 2001, 115 Stat. 1061.)
 
 #### Amendments
 

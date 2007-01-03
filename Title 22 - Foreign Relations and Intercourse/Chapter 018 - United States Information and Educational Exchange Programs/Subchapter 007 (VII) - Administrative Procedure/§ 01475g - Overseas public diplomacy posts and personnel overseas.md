@@ -16,7 +16,7 @@ This section shall not apply to any overseas public diplomacy post closed—
 
 &emsp;(2) where there is a real and present threat to United States diplomats in the city where the post is located and where a travel advisory warning against travel by United States citizens to the city has been issued by the Department of State.
 
-(Jan. 27, 1948, ch. 36, title VIII, §812, as added Pub. L. 102–138, title II, §206(a), Oct. 28, 1991, 105 Stat. 693; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(5), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Jan. 27, 1948, ch. 36, title VIII, §812, as added Pub. L. 102–138, title II, §206(a), Oct. 28, 1991, 105Stat. 693; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(5), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 #### Prior Provisions
 

@@ -32,7 +32,7 @@ No action may be commenced—
 
 (3)
 
-Protection of interests of united states.—Whenever any action is brought under this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General and the Administrator. No consent judgment shall be entered in an action in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator.
+Protection of interests of united states.—Whenever any action is brought underthis section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General and the Administrator. No consent judgment shall be entered in an action in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator.
 
 #### (d) Litigation costs
 

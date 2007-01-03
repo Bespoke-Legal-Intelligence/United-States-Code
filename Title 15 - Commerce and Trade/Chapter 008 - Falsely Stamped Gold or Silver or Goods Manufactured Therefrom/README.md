@@ -9,14 +9,7 @@
 | [295\.](%C2%A7%2000295%20-%20Standard%20of%20fineness%20of%20gold%20articles%3B%20deviation.md) | Standard of fineness of gold articles; deviation. |
 | [296\.](%C2%A7%2000296%20-%20Standard%20of%20fineness%20of%20silver%20articles%3B%20deviation.md) | Standard of fineness of silver articles; deviation. |
 | [297\.](%C2%A7%2000297%20-%20Stamping%20plated%20articles.md) | Stamping plated articles. |
-| (a) | Words “sterling” or “coin” forbidden. |
-| (b) | Identifying trademark. |
 | [298\.](%C2%A7%2000298%20-%20Violations%20of%20law.md) | Violations of law. |
-| (a) | Criminal prosecutions; penalties; jurisdiction. |
-| (b) | Suits by competitors, customers, or subsequent purchasers for injunctive relief; damages and costs. |
-| (c) | Suits by jewelry trade associations for injunctive relief; damages and costs. |
-| (d) | Award of costs to defendant. |
-| (e) | Jurisdiction of civil actions. |
 | [299\.](%C2%A7%2000299%20-%20Definitions.md) | Definitions. |
 | [300\.](%C2%A7%2000300%20-%20Application%20of%20State%20laws.md) | Application of State laws. |
 

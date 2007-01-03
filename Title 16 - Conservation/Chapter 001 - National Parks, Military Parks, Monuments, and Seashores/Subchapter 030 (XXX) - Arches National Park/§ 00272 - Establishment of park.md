@@ -26,5 +26,5 @@ The Arches National Monument is hereby abolished, and any funds available for pu
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–329, §1, Oct. 30, 1998, 112 Stat. 3060, provided that: “This Act \[enacting section 272g of this title, amending this section and sections 272a, 272b, and 272d of this title, and enacting provisions set out as a note under section 272g of this title\] may be cited as the ‘Arches National Park Expansion Act of 1998’.”
+Pub. L. 105–329, §1, Oct. 30, 1998, 112 Stat. 3060, provided that: “This Act \[enacting section 272g of thistitle, amending this section and sections 272a, 272b, and 272d of this title, and enacting provisions set out as a note under section 272g of this title\] may be cited as the ‘Arches National Park Expansion Act of 1998’.”
 

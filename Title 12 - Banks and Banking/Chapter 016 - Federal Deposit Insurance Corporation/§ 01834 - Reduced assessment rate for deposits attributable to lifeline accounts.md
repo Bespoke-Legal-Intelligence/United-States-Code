@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation shall establish minimum requirements for accounts providing basic transaction services for consumers at insured depository institutions in order for such accounts to qualify as lifeline accounts for purposes of this section and section 1817(b)(2)(H) of this title.
+&emsp;The Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation shall establish minimum requirements for accounts providing basic transaction services for consumers at insured depository institutions in order for such accounts to qualify as lifeline accounts for purposes of this section and section 1817(b)(2)(H) <sup>1</sup> of this title.
 
 #### (2) Factors to be considered
 
-&emsp;In determining the minimum requirements under paragraph (1) for lifeline accounts at insured depository institutions, the Board and the Corporation shall consider the following factors:
+&emsp;In determining the minimum requirements under paragraph (1) for lifeline accounts at insured depository institutions, the Corporation shall consider the following factors:
 
 &emsp;&emsp;(A) Whether the account is available to provide basic transaction services for individuals who maintain a balance of less than $1,000 or such other amount which the Board may determine to be appropriate.
 
@@ -28,15 +28,15 @@
 
 &emsp;&emsp;(I) Whether individuals are required to meet any prerequisite which discriminates against low-income individuals in order to open such account.
 
-&emsp;&emsp;(J) Such other factors as the Board may determine to be appropriate.
+&emsp;&emsp;(J) Such other factors as the Corporation may determine to be appropriate.
 
 #### (3) Definitions
 
 &emsp;For purposes of this subsection—
 
-#### (A) Board
+#### (A) Corporation
 
-&emsp;&emsp;The term “Board” means the Board of Governors of the Federal Reserve System.
+&emsp;&emsp;The term “Corporation” means the Federal Deposit Insurance Corporation.
 
 #### (B) Insured depository institution
 
@@ -44,7 +44,7 @@
 
 #### (C) Lifeline account
 
-&emsp;&emsp;The term “lifeline account” means any transaction account (as defined in section 461(b)(1)(C) of this title) which meets the minimum requirements established by the Board under this subsection.
+&emsp;&emsp;The term “lifeline account” means any transaction account (as defined in section 461(b)(1)(C) of this title) which meets the minimum requirements established by the Corporation under this subsection.
 
 #### (b) Omitted
 
@@ -52,23 +52,11 @@
 
 The provisions of this section shall not take effect until appropriations are specifically provided in advance. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–242, title II, §232, Dec. 19, 1991, 105 Stat. 2308; Pub. L. 102–550, title XVI, §§1604(b)(1), 1605(a)(3), Oct. 28, 1992, 106 Stat. 4083, 4085; Pub. L. 102–558, title III, §§303(b)(1), (4), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 104–208, div. A, title II, §2704(d)(16), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 109–173, §3(a)(9), Feb. 15, 2006, 119 Stat. 3606.)
+(Pub. L. 102–242, title II, §232, Dec. 19, 1991, 105 Stat. 2308; Pub. L. 102–550, title XVI, §§1604(b)(1), 1605(a)(3), Oct. 28, 1992, 106 Stat. 4083, 4085; Pub. L. 102–558, title III, §§303(b)(1), (4), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 104–208, div. A, title II, §2704(d)(16), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §3(a)(9), Feb. 15, 2006, 119 Stat. 3606.)
 
-#### Amendment of Subsection (a)
+#### References in Text
 
-<i>Pub. L. 109–173, §3(a)(9), (b), Feb. 15, 2006, 119 Stat. 3606, provided that, effective Jan. 1, 2007, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (2), by striking “the Board and” in introductory provisions and by striking “the Board” and inserting “the Corporation” in subparagraph (J); and</i>
-
-<i>(2) in paragraph (3):</i>
-
-<i>(A) by striking subparagraph (A) and inserting the following new subparagraph:</i>
-
-#### <i>“(A) Corporation</i>
-
-&emsp;&emsp;<i>“The term ‘Corporation’ means the Federal Deposit Insurance Corporation.”; and</i>
-
-<i>(B) in subparagraph (C), by striking “Board” and inserting “Corporation”.</i>
+Section 1817(b)(2)(H) of this title, referred to in subsec. (a)(1), was redesignated section 1817(b)(2)(E) by Pub. L. 109–173, §3(a)(3)(C), Feb. 15, 2006, 119 Stat. 3605.
 
 #### Codification
 
@@ -78,7 +66,17 @@ Section is comprised of section 232 of Pub. L. 102–242. Subsec. (b) of section
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–208, which directed substitution of “section 1817(b)(2)(G) of this title” for “section 1817(b)(2)(H) of this title”, was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (a)(1). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(16). See 1996 Amendment note below.
+
+Subsec. (a)(2). Pub. L. 109–173, §3(a)(9)(A), struck out “the Board and” before “the Corporation” in introductory provisions.
+
+Subsec. (a)(2)(J). Pub. L. 109–173, §3(a)(9)(B), substituted “the Corporation” for “the Board”.
+
+Subsec. (a)(3)(A). Pub. L. 109–173, §3(a)(9)(C), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
+
+Subsec. (a)(3)(C). Pub. L. 109–173, §3(a)(9)(D), substituted “Corporation” for “Board”.
+
+1996—Subsec. (a)(1). Pub. L. 104–208, §2704(d)(16), which directed substitution of “section 1817(b)(2)(G) of this title” for “section 1817(b)(2)(H) of this title”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 1992—Subsec. (a)(1). Pub. L. 102–558, §303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. Pub. L. 102–550, §1605(a)(3), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
@@ -88,13 +86,17 @@ Subsec. (b). Pub. L. 102–558, §303(b)(1), made technical correction to direct
 
 Amendment by Pub. L. 109–173 effective Jan. 1, 2007, see section 3(b) of Pub. L. 109–173, set out as a note under section 1817 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendments
 
 Section 303(b)(4) of Pub. L. 102–558 provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(a) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
 
 Section 1605(a)(3) of Pub. L. 102–550, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

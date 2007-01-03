@@ -1,10 +1,10 @@
 ### §2313. Sale or receipt of stolen vehicles
 
-(a) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any motor vehicle or aircraft, which has crossed a State or United States boundary after being stolen, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
+(a) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any motorvehicle, vessel, or aircraft, which has crossed a State or United States boundary after being stolen, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
 
 (b) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 98–547, title II, §203, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 101–647, title XII, §1205(<i>l</i>), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 102–519, title I, §103, Oct. 25, 1992, 106 Stat. 3385.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 98–547, title II, §203, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 101–647, title XII, §1205(<i>l</i>), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 102–519, title I, §103, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 109–177, title III, §307(b)(2)(B), Mar. 9, 2006, 120 Stat. 240.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,8 @@ The first sentence of said section 408, providing the short title, and the fifth
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–177 substituted “motor vehicle, vessel, or aircraft” for “motor vehicle or aircraft”.
 
 1992—Subsec. (a). Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $5,000 or imprisoned not more than five years”.
 

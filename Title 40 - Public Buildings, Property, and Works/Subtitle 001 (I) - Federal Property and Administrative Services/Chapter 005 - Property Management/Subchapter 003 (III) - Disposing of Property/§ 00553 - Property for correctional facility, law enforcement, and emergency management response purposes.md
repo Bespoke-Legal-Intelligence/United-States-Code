@@ -12,7 +12,7 @@ Authority To Transfer Property.—The Administrator of General Services, in the 
 
 &emsp;(2) the Attorney General determines is required by the transferee or grantee for law enforcement purposes; or
 
-&emsp;(3) the Director of the Federal Emergency Management Agency determines is required by the transferee or grantee for emergency management response purposes including fire and rescue services.
+&emsp;(3) the Administrator of the Federal Emergency Management Agency determines is required by the transferee or grantee for emergency management response purposes including fire and rescue services.
 
 (c)
 
@@ -30,7 +30,7 @@ Deed of Conveyance.—The deed of conveyance of any surplus real and related per
 
 Enforcement and Revision of Instruments Transferring Property Under This Section.—The Administrator shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Administrator shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Administrator shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the transferee (or other eligible user) any right or interest reserved to the Government by the instrument, if the Administrator determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Administrator considers necessary to protect or advance the interests of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,17 @@ In subsection (a), the words “Trust Territory of the Pacific Islands” are om
 
 In subsection (c), the text of 40:484(p)(1)(A) (last sentence) is omitted as executed and obsolete.
 
+#### References in Text
+
+The “Administrator”, referred to in subsecs. (d)(2) and (e), is the Administrator of General Services.
+
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (b)(3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

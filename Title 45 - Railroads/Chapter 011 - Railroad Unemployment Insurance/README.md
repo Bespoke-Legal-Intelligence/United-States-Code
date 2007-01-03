@@ -4,87 +4,18 @@
 | :--- | ---: |
 | [351\.](%C2%A7%2000351%20-%20Definitions.md) | Definitions. |
 | [352\.](%C2%A7%2000352%20-%20Benefits.md) | Benefits. |
-| (a) | Days for which benefits payable; determination of amount. |
-| (b) | Time of payments. |
-| (c) | Maximum number of days for benefits. |
-| (d) | Overpayment of benefits; recovery; liability of officers. |
-| (e) | Assignment, taxation, garnishment, attachment, etc., of benefits. |
-| (f) | Effect of payment of benefits for remunerable period; payment of surplus remuneration to Board. |
-| (g) | Payment of accrued benefits upon death. |
 | [353\.](%C2%A7%2000353%20-%20Qualifying%20condition.md) | Qualifying condition. |
 | [354\.](%C2%A7%2000354%20-%20Disqualifying%20conditions.md) | Disqualifying conditions. |
-| (a–1) | Day of unemployment or day of sickness. |
-| (a–2) | Day of unemployment. |
-| (b) | Participation, interest, or financial assistance in labor dispute. |
-| (c) | Unsuitable work. |
-| (d) | Factors in determination of suitable work. |
-| (e) | Voluntarily leaving unsuitable work. |
 | [355\.](%C2%A7%2000355%20-%20Claims%20for%20benefits.md) | Claims for benefits. |
-| (a) | Publication of Board's regulations. |
-| (b) | Findings, hearings, investigations, etc., by Board. |
-| (c) | Hearing and review of decisions on claims. |
-| (d) | Decisions of reviewing bodies; review and finality. |
-| (e) | Application of rules of evidence in law and equity; notice of findings. |
-| (f) | Review of final decision of Board by Courts of Appeals; costs. |
-| (g) | Finality of Board decisions. |
-| (h) | Benefits payable prior to final decision of Board. |
-| (i) | Fees for presenting claims; penalties. |
 | [355a.](%C2%A7%2000355a%20-%20Acceptance%20of%20claims%20for%20benefits.md) | Acceptance of claims for benefits. |
 | [356\.](%C2%A7%2000356%20-%20Returns%20of%20compensation%3B%20conclusiveness%3B%20failure%20to%20make.md) | Returns of compensation; conclusiveness; failure to make. |
 | [357\.](%C2%A7%2000357%20-%20Free%20transportation.md) | Free transportation. |
 | [358\.](%C2%A7%2000358%20-%20Contributions.md) | Contributions. |
-| (a) | Employer contribution. |
-| (b) | Employee representative contribution. |
-| (c) | Board proclamation of balance. |
-| (d) | Notifications by Board. |
-| (e) | Information to verify accuracy to be made available. |
-| (f) | Fractional parts of a cent. |
-| (g) | Adjustments for improper payments. |
-| (h) | Refunding overpayment; collecting underpayment. |
-| (i) | Collection and deposit of contributions. |
-| (j) | Time for payment; failure to pay promptly. |
-| (k) | Application of other laws; authority of Board. |
 | [359\.](%C2%A7%2000359%20-%20Penalties.md) | Penalties. |
-| (a) | Failure to make report or furnish information; false or fraudulent statement or claim. |
-| (b) | Agreement by employee to bear employer's contribution. |
-| (c) | Punishments not specifically provided. |
-| (d) | Payment and disposition of fines or penalties. |
 | [360\.](%C2%A7%2000360%20-%20Railroad%20unemployment%20insurance%20account.md) | Railroad unemployment insurance account. |
-| (a) | Funds constituting account; availability for benefits or refunds. |
-| (b) | Payment of benefits or refunds. |
-| (c) | Annual report to Congress. |
-| (d) | Transfer and retransfer of funds; interest. |
 | [361\.](%C2%A7%2000361%20-%20Railroad%20unemployment%20insurance%20administration%20fund.md) | Railroad unemployment insurance administration fund. |
-| (a) | Maintenance of account; amounts constituting fund. |
-| (b) | Authorization of appropriations; advance of sums; repayment. |
-| (c) | Availability for administrative expenses. |
-| (d) | Transfer of excess to insurance account. |
 | [362\.](%C2%A7%2000362%20-%20Duties%20and%20powers%20of%20Board.md) | Duties and powers of Board. |
-| (a) | Witnesses; subpenas, service, fees, etc. |
-| (b) | Enforcement of subpenas by courts; contempts; service of orders, writs, or processes. |
-| (c) | Repealed. |
-| (d) | Information as confidential. |
-| (e) | Certification of claims; authorization of employee to make payments; bond. |
-| (f) | Cooperation with other agencies administering unemployment or sickness compensation laws; agreements. |
-| (g) | Benefits also subject to a State law; mutual reimbursement. |
-| (h) | Assistance from employers and labor organizations; compensation. |
-| (i) | Free employment offices; registration of unemployed; statements of sickness; reemployment. |
-| (j) | Advisory councils; members’ remuneration. |
-| (k) | Reduction of unemployment; training and reemployment of unemployed employees, etc. |
-| (<i>l</i>) | Necessary and incidental powers; employees of Board, employment, remuneration, civil-service laws, registration of unemployed, and detail. |
-| (m) | Delegation of powers. |
-| (n) | Sickness benefits; examinations; information and reports; contracts and expenses for examinations. |
-| (<i>o</i>) | Liability of third party for sickness; reimbursement of Board. |
-| (p) | Disqualification to execute statements of sickness or receive fees. |
-| (q) | Investigations and research with respect to accidents and disabilities. |
-| (r) | Duty of Board to make certain computations. |
 | [363\.](%C2%A7%2000363%20-%20Exclusiveness%20of%20provisions%3B%20transfers%20from%20State%20unemployment%20compensation%20accounts%20to%20railroad%20unemployment%20insurance%20account.md) | Exclusiveness of provisions; transfers from State unemployment compensation accounts to railroad unemployment insurance account. |
-| (a) | Omitted. |
-| (b) | Effect on State unemployment compensation laws. |
-| (c) | Determination of “preliminary amount” for States. |
-| (d) | Withholding amounts from certification to States; transfers to railroad unemployment compensation account. |
-| (e) | Transfers and withdrawals, effect upon social security provisions. |
-| (f) | Payments to railroad unemployment insurance account; transfers from unemployment trust fund of States. |
 | [363a.](%C2%A7%2000363a%20-%20Refunds%20of%20State%20unemployment%20contributions%20by%20employees%3B%20amount%3B%20application%20period%3B%20definitions.md) | Refunds of State unemployment contributions by employees; amount; application period; definitions. |
 | [364\.](%C2%A7%2000364%20-%20District%20of%20Columbia%20account%2C%20transfer%20of%20funds%20to%20railroad%20unemployment%20insurance%20account.md) | District of Columbia account, transfer of funds to railroad unemployment insurance account. |
 | [365\.](%C2%A7%2000365%20-%20Omitted.md) | Omitted. |

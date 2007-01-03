@@ -17,12 +17,7 @@
 | [406a.](%C2%A7%2000406a%20-%20Travel%20and%20transportation%20allowances%20authorized%20for%20travel%20performed%20under%20orders%20that%20are%20canceled%2C%20revoked%2C%20or%20modified.md) | Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified. |
 | [406b.](%C2%A7%2000406b%20-%20Travel%20and%20transportation%20allowances%20members%20of%20the%20uniformed%20services%20attached%20to%20a%20ship%20overhauling%20or%20inactivating.md) | Travel and transportation allowances: members of the uniformed services attached to a ship overhauling or inactivating. |
 | [406c.](%C2%A7%2000406c%20-%20Travel%20and%20transportation%20allowances%20members%20assigned%20to%20a%20vessel%20under%20construction.md) | Travel and transportation allowances: members assigned to a vessel under construction. |
-| [407\.](%C2%A7%2000407%20-%20Travel%20and%20transportation%20allowances%20dislocation%20allowance.md) | Travel and transportation allowances: dislocation allowances.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [407\.](%C2%A7%2000407%20-%20Travel%20and%20transportation%20allowances%20dislocation%20allowance.md) | Travel and transportation allowances: dislocation allowance. |
 | [408\.](%C2%A7%2000408%20-%20Travel%20and%20transportation%20allowances%20travel%20within%20limits%20of%20duty%20station.md) | Travel and transportation allowances: travel within limits of duty station. |
 | [409\.](%C2%A7%2000409%20-%20Travel%20and%20transportation%20allowances%20house%20trailers%20and%20mobile%20homes.md) | Travel and transportation allowances: house trailers and mobile homes. |
 | [410\.](%C2%A7%2000410%20-%20Travel%20and%20transportation%20allowances%20miscellaneous%20categories.md) | Travel and transportation allowances: miscellaneous categories. |
@@ -50,7 +45,7 @@
 | [422\.](%C2%A7%2000422%20-%20Cadets%20and%20midshipmen.md) | Cadets and midshipmen. |
 | [423\.](%C2%A7%2000423%20-%20Validity%20of%20allowance%20payments%20based%20on%20purported%20marriages.md) | Validity of allowance payments based on purported marriages. |
 | [424\.](%C2%A7%2000424%20-%20Band%20leaders.md) | Band leaders. |
-| [425\.](%C2%A7%2000425%20-%20United%20States%20Navy%20Band%3B%20United%20States%20Marine%20Corps%20Band%20allowances%20while%20on%20concert%20tour.md) | United States Navy Band; United States Marine Band: allowances while on concert tour.<sup>1</sup> |
+| [425\.](%C2%A7%2000425%20-%20United%20States%20Navy%20Band%3B%20United%20States%20Marine%20Corps%20Band%20allowances%20while%20on%20concert%20tour.md) | United States Navy Band; United States Marine Corps Band: allowances while on concert tour. |
 | \[426. | Repealed.\] |
 | [427\.](%C2%A7%2000427%20-%20Family%20separation%20allowance.md) | Family separation allowance. |
 | [428\.](%C2%A7%2000428%20-%20Allowance%20for%20recruiting%20expenses.md) | Allowance for recruiting expenses. |
@@ -62,13 +57,15 @@
 | [434\.](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
 | [435\.](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
 | [436\.](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md) | High-deployment allowance: lengthy or numerous deployments; frequent mobilizations. |
-| [437\.](%C2%A7%2000437%20-%20Allowance%20to%20cover%20portion%20of%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%E2%80%A6.md) | Allowance to cover portion of monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom. |
+| [437\.](%C2%A7%2000437%20-%20Allowance%20to%20cover%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%20Operation%E2%80%A6.md) | Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title VI, §§613(b), 651(b)(2), 653(b) Jan. 6, 2006, 119 Stat. 3292, 3311, 3313, added items 411j and 437 and substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in item 404b.
+2006—Pub. L. 109–364, div. A, title VI, §606(c), title X, §1071(c)(5), Oct. 17, 2006, 120 Stat. 2246, 2401, substituted “dislocation allowance” for “dislocation allowances” in item 407, inserted “Corps” after “United States Marine” in item 425, and struck out “portion of” before “monthly” in item 437.
+
+Pub. L. 109–163, div. A, title VI, §§613(b), 651(b)(2), 653(b) Jan. 6, 2006, 119 Stat. 3292, 3311, 3313, added items 411j and 437 and substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in item 404b.
 
 2005—Pub. L. 109–13, div. A, title I, §1026(b)(2), May 11, 2005, 119 Stat. 254, substituted “illness or injury of members” for “the serious illness or injury of members” in item 411h.
 
@@ -140,8 +137,6 @@ Pub. L. 93–170, §1(2), Nov. 29, 1973, 87 Stat. 689, substituted “overhaulin
 
 Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -202,4 +197,4 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00434 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md)
 - [&sect; 00435 - Funeral honors duty allowance](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md)
 - [&sect; 00436 - High-deployment allowance lengthy or numerous deployments; frequent mobilizations](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md)
-- [&sect; 00437 - Allowance to cover portion of monthly premium for Servicemembers&#8217; Group Life Insurance members serving in Operation Enduring Freedom or&#8230;](%C2%A7%2000437%20-%20Allowance%20to%20cover%20portion%20of%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%E2%80%A6.md)
+- [&sect; 00437 - Allowance to cover monthly premium for Servicemembers&#8217; Group Life Insurance members serving in Operation Enduring Freedom or Operation&#8230;](%C2%A7%2000437%20-%20Allowance%20to%20cover%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%20Operation%E2%80%A6.md)

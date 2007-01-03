@@ -8,7 +8,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (2) Consumer information
 
-&emsp;The term “consumer information” means any action taken to provide information to,and broaden the understanding of, the general public regarding the consumption, use, nutritional attributes, and care of kiwifruit.
+&emsp;The term “consumer information” means any action taken to provide information to, and broaden the understanding of, the general public regarding the consumption, use, nutritional attributes, and care of kiwifruit.
 
 #### (3) Exporter
 
@@ -52,7 +52,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (13) Research
 
-&emsp;The term “research” means any type of research relating to the use, nutritional value, and marketing of kiwifruit conducted for the purpose of advancing the image, desirability, marketability, or quality of kiwifruit.
+&emsp;The term “research” means any type of research relating to the use, nutritional value,and marketing of kiwifruit conducted for the purpose of advancing the image, desirability, marketability, or quality of kiwifruit.
 
 #### (14) Secretary
 

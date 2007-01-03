@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), a merger transaction may not be approved pursuantto paragraph (1) if the transaction involves a bank the home State of which has enacted a law after September 29, 1994, and before June 1, 1997, that—
+&emsp;&emsp;Notwithstanding paragraph (1), a merger transaction may not be approved pursuant to paragraph (1) if the transaction involves a bank the home State of which has enacted a law after September 29, 1994, and before June 1, 1997, that—
 
 &emsp;&emsp;&emsp;(i) applies equally to all out-of-State banks; and
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;Any bank which files an application for an interstate merger transaction shall—
 
-&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which will result from such transaction to the extent that the requirement—
+&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which willresult from such transaction to the extent that the requirement—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks or out-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
 

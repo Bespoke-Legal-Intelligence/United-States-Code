@@ -48,6 +48,10 @@ Except as provided in subsection (c) of this section, the Secretary of the Treas
 
 (Pub. L. 93–406, title I, §306, as added Pub. L. 99–272, title XI, §11015(a)(1)(A)(ii), Apr. 7, 1986, 100 Stat. 264; amended Pub. L. 100–203, title IX, §9306(e)(2), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, provided that, applicable to plan years beginning after 2007, this section is repealed.</i>
+
 #### Prior Provisions
 
 A prior section 306 of Pub. L. 93–406 was renumbered section 308 and is classified to section 1086 of this title.
@@ -58,9 +62,13 @@ A prior section 306 of Pub. L. 93–406 was renumbered section 308 and is classi
 
 1987—Subsec. (c)(1). Pub. L. 100–203, §9306(e)(2), substituted “$1,000,000” for “$2,000,000”.
 
+#### Effective Date of Repeal
+
+Repeal applicable to plan years beginning after 2007, see section 101(d) of Pub. L. 109–280, set out as an Effective Date note under section 1082 of this title.
+
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -69,4 +77,8 @@ Amendment by Pub. L. 100–203 applicable in the case of any application submitt
 #### Effective Date
 
 Section 11015(a)(3) of Pub. L. 99–272 provided that: “The amendments made by this subsection \[enacting this section and amending section 1061 of this title and section 412 of Title 26, Internal Revenue Code\] shall apply with respect to applications for waivers, extensions, and modifications filed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+
+#### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
+
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 

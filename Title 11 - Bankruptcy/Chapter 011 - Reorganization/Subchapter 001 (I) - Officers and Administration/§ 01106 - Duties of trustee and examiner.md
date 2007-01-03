@@ -110,7 +110,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Payment of Certain Benefits to Retired Former Employees
 
-Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, §101(b) \[title VI, §608\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, §3(a), June 16, 1988, 102 Stat. 613, provided that:
+Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, §101(b) \[titleVI, §608\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, §3(a), June 16, 1988, 102 Stat. 613, provided that:
 
 “(a)(1) Subject to paragraphs (2), (3), (4), and (5), and notwithstanding title 11 of the United States Code, the trustee shall pay benefits to retired former employees under a plan, fund, or program maintained or established by the debtor prior to filing a petition (through the purchase of insurance or otherwise) for the purpose of providing medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death.
 
@@ -126,7 +126,7 @@ Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–
 
 &emsp;“(A) the dismissal of the case involved; or
 
-&emsp;“(B) the effective date of a plan confirmed under section 1129 of such title which provides for the continued payment after confirmation of the plan of all such benefits at the level established under paragraph (2) of this subsection, at any time prior to the confirmation of the plan, for the duration of the periodthe debtor (as defined in such title) has obligated itself to provide such benefits.
+&emsp;“(B) the effective date of a plan confirmed under section 1129 of such title which provides for the continued payment after confirmation of the plan of all such benefits at the level established under paragraph (2) of this subsection, at any time prior to the confirmation of the plan, for the duration of the period the debtor (as defined in such title) has obligated itself to provide such benefits.
 
 “(4) No such benefits paid between the filing of a petition in a case covered by this section and the time a plan confirmed under section 1129 of such title with respect to such case becomes effective shall be deducted or offset from the amount allowed as claims for any benefits which remain unpaid, or from the amount to be paid under the plan with respect to such claims for unpaid benefits, whether such claims for unpaid benefits are based upon or arise from a right to future benefits or from any benefit not paid as a result of modifications allowed pursuant to this section.
 

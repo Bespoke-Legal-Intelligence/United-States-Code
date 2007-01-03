@@ -40,7 +40,7 @@ Subsec. (c)(2). Pub. L. 105–366, §2(d)(3), amended par. (2) generally. Prior 
 
 “(C) Any officer, director, employee, or agent of an issuer, or stockholder acting on behalf of such issuer, who violates section 78dd–1(a) of this title shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Commission.”
 
-1988—Subsec. (a). Pub. L. 100–704 substituted “$1,000,000” for “$100,000”, “10 years” for “five years”,“is a person other than a natural person” for “is an exchange”, and “$2,500,000” for “$500,000”.
+1988—Subsec. (a). Pub. L. 100–704 substituted “$1,000,000” for “$100,000”, “10 years” for “five years”, “is a person other than a natural person” for “is an exchange”, and “$2,500,000” for “$500,000”.
 
 Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment
 
 “(2) Any officer or director of an issuer, or any stockholder acting on behalf of such issuer, who willfully violates section 78dd–1(a) of this title shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
 
-“(3) Whenever an issuer is found to have violated section 78dd–1(a) of this title, any employee or agent of such issuer who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, or stockholder of such issuer), and who willfully carried out the act or practice constituting such violation shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
+“(3) Whenever an issuer is found to have violated section 78dd–1(a) of this title, any employee or agent of such issuer who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, orstockholder of such issuer), and who willfully carried out the act or practice constituting such violation shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
 
 “(4) Whenever a fine is imposed under paragraph (2) or (3) of this subsection upon any officer, director, stockholder, employee, or agent of an issuer, such fine shall not be paid, directly or indirectly, by such issuer.”
 

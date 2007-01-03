@@ -34,7 +34,3 @@ Section 7503 provides that the issuance of a license, certificate, or document m
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 1133.
-

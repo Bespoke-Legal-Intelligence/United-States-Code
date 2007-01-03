@@ -18,7 +18,7 @@ In creating the Forum, the President shall meet the following requirements:
 
 &emsp;(B) The President, in consultation with the Congress, shall encourage United States representatives of the private sector to host annual meetings with representatives of the private sector from sub-Saharan Africa in conjunction with the annual meetings of the Forum for the purpose of discussing the issues described in paragraph (1).
 
-&emsp;(3) The President shall, to the extent practicable, meet with the heads of governments of sub-Saharan African countries eligible under section 3703 of this title, and those sub-Saharan African countries that the President determines are taking substantial positive steps toward meeting the eligibility requirements in section 3703 of this title, not less than once every 2 years for the purpose of discussing the issues described in paragraph (1). The first such meeting should take place not later than 12 months after May 18, 2000.
+&emsp;(3) The President shall, to the extent practicable, meet with the heads of governments of sub-Saharan African countries eligible undersection 3703 of this title, and those sub-Saharan African countries that the President determines are taking substantial positive steps toward meeting the eligibility requirements in section 3703 of this title, not less than once every 2 years for the purpose of discussing the issues described in paragraph (1). The first such meeting should take place not later than 12 months after May 18, 2000.
 
 #### (d) Dissemination of information by USIS
 

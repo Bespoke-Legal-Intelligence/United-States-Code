@@ -22,7 +22,7 @@ In carrying out this chapter, the Secretary, in consultation with the Secretary 
 
 &emsp;(5) may accept funds from other Federal agencies to supplement or fully fund grants made, and contracts entered into, by the Secretaries;
 
-&emsp;(6) may support a program of internships for qualified individuals at the undergraduate andgraduate levels to carry out the educational and training objectives of this chapter;
+&emsp;(6) may support a program of internships for qualified individuals at the undergraduate and graduate levels to carry out the educational and training objectives of this chapter;
 
 &emsp;(7) shall encourage professional education and public information activities relating to the purposes of this chapter; and
 

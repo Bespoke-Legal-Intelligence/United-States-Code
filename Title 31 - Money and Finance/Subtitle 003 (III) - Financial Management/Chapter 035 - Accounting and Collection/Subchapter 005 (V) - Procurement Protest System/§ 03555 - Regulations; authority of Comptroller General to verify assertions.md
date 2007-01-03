@@ -14,7 +14,7 @@
 
 (c) The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.
 
-(d) The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.
+(d) The Comptroller General may use any authority available under chapter 7 of this titleand this chapter to verify assertions made by parties in protests under this subchapter.
 
 (Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 103–355, title I, §1404, Oct. 13, 1994, 108 Stat. 3291; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

@@ -6,5 +6,5 @@ Nothing in this chapter shall be construed so as to interfere with the ability o
 
 #### References in Text
 
-The Single Audit Act of 1984, referred to in text, is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in text, is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended,which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 

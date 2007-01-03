@@ -52,7 +52,7 @@ Authorization of Appropriations.—There are authorized to be appropriated, out 
 
 Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—No funds may be appropriated to the Merit Systems Protection Board or the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] (5 U.S.C. 5509 note).”
 
-\[Pub. L. 107–304, §2(c), Nov. 27, 2002, 116 Stat. 2364, provided that: This section \[amending section 8(a) of Pub. L. 101–12, set out above\] shall be effective as of October 1, 2002.”\]
+\[Pub. L. 107–304, §2(c), Nov. 27, 2002, 116 Stat. 2364, provided that: This section \[amending section 8(a) of Pub.L. 101–12, set out above\] shall be effective as of October 1, 2002.”\]
 
 \[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§641(b), 642(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that the amendments made by section 101(f) \[title VI, §§641(a), 642(a)\] of Pub. L. 104–208 \[amending section 8(a) of Pub. L. 101–12, set out above\] were to be effective on Oct. 1, 1998.\]
 

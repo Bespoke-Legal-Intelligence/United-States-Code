@@ -92,7 +92,7 @@ Subsec. (h). Pub. L. 104–330, §506(a)(8)(B), struck out “or Indian housing 
 
 Subsec. (j)(1). Pub. L. 104–330, §506(a)(8)(C), struck out “, Indian housing authority” after “public housing agency”.
 
-1992—Subsec. (a). Pub. L. 102–550, §1405(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The budget authority available under section 1437c(c) of this title for assistance under section 1437f(e)(2) of this title is authorized to be increased by $79,000,000 on or after October 1, 1990, and by $82,400,000 on or after October 1, 1991.”
+1992—Subsec. (a). Pub. L. 102–550, §1405(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The budget authority available under section 1437c(c) of this title for assistance under section 1437f(e)(2) of this title is authorized to be increased by$79,000,000 on or after October 1, 1990, and by $82,400,000 on or after October 1, 1991.”
 
 Subsec. (b). Pub. L. 102–550, §1405(b)(1), inserted before period at end “, and except that the Secretary may provide amounts available under this section to private nonprofit organizations that submit applications for such assistance that are approved by the Secretary”.
 

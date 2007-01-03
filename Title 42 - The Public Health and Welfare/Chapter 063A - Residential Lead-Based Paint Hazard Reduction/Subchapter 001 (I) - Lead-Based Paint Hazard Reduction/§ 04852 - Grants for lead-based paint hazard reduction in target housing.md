@@ -122,7 +122,7 @@ Effective 2 years after the date of promulgation of regulations under section 26
 
 #### (1) In general
 
-&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>2</sup> Act, established under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall be subject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
+&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>2</sup> Act, established under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall be subject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
 
 #### (2) Applicability
 
@@ -140,7 +140,7 @@ For the purposes of carrying out this chapter, there are authorized to be approp
 
 #### References in Text
 
-Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
+Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
 
 This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
 

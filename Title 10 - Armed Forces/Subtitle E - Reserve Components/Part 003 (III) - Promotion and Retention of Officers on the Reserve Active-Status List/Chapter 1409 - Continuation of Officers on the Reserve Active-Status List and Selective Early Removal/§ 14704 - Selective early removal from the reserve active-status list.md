@@ -2,7 +2,7 @@
 
 (a)
 
-Boards To Recommend Officers for Removal From Reserve Active-Status List.—Whenever the Secretary of the military department concerned determines that there are in any reserve component under the jurisdiction of the Secretary too many officers in any grade and competitive category who have at least 30 years of service computed under section 14706 of this title or at least 20 years of service computed under section 12732 of this title, the Secretary may convene a selection board under section 14101(b) of this title to consider all officers on that list who are in that grade and competitive category, and who have that amount ofservice, for the purpose of recommending officers by name for removal from the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.
+Boards To Recommend Officers for Removal From Reserve Active-Status List.—Whenever the Secretary of the military department concerned determines that there are in any reserve component under the jurisdiction of the Secretary too many officers in any grade and competitive category who have at least 30 years of service computed under section 14706 of this title or at least 20 years of service computed under section 12732 of this title, the Secretary may convene a selection board under section 14101(b) of this title to consider all officers on that list who are in that grade and competitive category, and who have that amount of service, for the purpose of recommending officers by name for removal from the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.
 
 (b)
 

@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00191 - Appointment of Federal Deposit Insurance Corporation as receiver](%C2%A7%2000191%20-%20Appointment%20of%20Federal%20Deposit%20Insurance%20Corporation%20as%20receiver.md)
+- [&sect; 00191 - Appointment of receiver for a national bank](%C2%A7%2000191%20-%20Appointment%20of%20receiver%20for%20a%20national%20bank.md)
 - [&sect; 00192 - Default in payment of circulating notes](%C2%A7%2000192%20-%20Default%20in%20payment%20of%20circulating%20notes.md)
 - [&sect; 00193 - Notice to present claims](%C2%A7%2000193%20-%20Notice%20to%20present%20claims.md)
 - [&sect; 00194 - Dividends on adjusted claims; distribution of assets](%C2%A7%2000194%20-%20Dividends%20on%20adjusted%20claims%3B%20distribution%20of%20assets.md)

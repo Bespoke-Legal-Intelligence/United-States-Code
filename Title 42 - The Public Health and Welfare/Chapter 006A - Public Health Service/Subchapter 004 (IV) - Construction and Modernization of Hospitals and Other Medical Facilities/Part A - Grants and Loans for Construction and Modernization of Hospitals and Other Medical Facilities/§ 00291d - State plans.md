@@ -28,7 +28,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;(7) provide minimum standards (to be fixed in the discretion of the State) for the maintenance and operation of facilities providing inpatient care which receive aid under this part and, effective July 1, 1966, provide for enforcement of such standards with respect to projects approved by the Surgeon General under this part after June 30, 1964;
 
-&emsp;(8) provide such methods of administration of the State plan, including methods relating to the establishment and maintenance of personnel standards on a merit basis (except that the Surgeon General shall exercise no authority with respect to the selection, tenure of office, or compensation of any individual employed in accordance with such methods), as are found by the Surgeon General to be necessary for the proper and efficient operation of the plan;
+&emsp;(8) provide such methods of administration of the State plan, including methods relatingto the establishment and maintenance of personnel standards on a merit basis (except that the Surgeon General shall exercise no authority with respect to the selection, tenure of office, or compensation of any individual employed in accordance with such methods), as are found by the Surgeon General to be necessary for the proper and efficient operation of the plan;
 
 &emsp;(9) provide for affording to every applicant for a construction or modernization project an opportunity for a hearing before the State agency;
 

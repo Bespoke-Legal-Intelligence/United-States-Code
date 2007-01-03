@@ -34,7 +34,7 @@ The President may waive the requirements of this section, and any parts thereof,
 
 #### (e) Sense of Congress
 
-It is the sense of Congress that a central feature of counter proliferation activities, consistent with the President's Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
+It is the sense of Congress that a central feature of counter proliferation activities, consistent with the President's Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and relatedmaterials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
 
 (July 26, 1947, ch. 343, title I, §119A, as added Pub. L. 108–458, title I, §1022, Dec. 17, 2004, 118 Stat. 3675.)
 

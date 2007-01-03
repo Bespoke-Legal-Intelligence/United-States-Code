@@ -24,6 +24,10 @@ Congress finds that—
 
 (Pub. L. 106–200, title I, §102, May 18, 2000, 114 Stat. 252.)
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–432, div. D, title VI, §6001, Dec. 20, 2006, 120 Stat. 3190, provided that: “This title \[amending section 3721 of this title\] may be referred to as the ‘Africa Investment Incentive Act of 2006’.”
+
 #### Short Title
 
 Pub. L. 106–200, §1(a), May 18, 2000, 114 Stat. 251, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Trade and Development Act of 2000’.”

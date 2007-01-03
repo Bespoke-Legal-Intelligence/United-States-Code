@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) all right, title, and interest of any Indian nation or tribe other than any Indian Nation defined in section 1779b of this title (referred to in this section and section 1779g of this title as a “claimant tribe”) in or to the Disclaimed Drybed Lands, and any such right, title, or interest held by the United States on behalf of such a claimant tribe, shall be considered to be extinguished in accordance with section 177 of title 25;
 
-&emsp;&emsp;(B) if any party other than a claimant tribe holds transferred interests in or to theDisclaimed Drybed Lands in violation of section 177 of title 25, Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
+&emsp;&emsp;(B) if any party other than a claimant tribe holds transferred interests in or to the Disclaimed Drybed Lands in violation of section 177 of title 25, Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
 
 &emsp;&emsp;(C) the documents described in section 1779c(b)(1)(D) of this title shall serve to identify the geographic scope of the interests extinguished by subparagraph (A).
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;If a claim under paragraph (1)(A) is filed by the deadline specified in that paragraph, on final adjudication of that claim—
 
-&emsp;&emsp;&emsp;(i) if the final judgment awards to a claimant an amount that does not exceed the amount of funds in the special holding account under paragraph (2) attributable to the Indian Nation from the allocation of which under section 1779c(d) of this title the funds in the special holding account are derived—
+&emsp;&emsp;&emsp;(i) if the final judgment awards to a claimant an amount that does not exceed the amount of funds in the special holding account under paragraph (2) attributable to the Indian Nation from the allocation of which under section 1779c(d) of this titlethe funds in the special holding account are derived—
 
 &emsp;&emsp;&emsp;&emsp;(I) that amount shall be distributed from the special holding account to the claimant tribe that filed the claim; and
 

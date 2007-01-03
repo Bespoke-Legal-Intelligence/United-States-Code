@@ -11,25 +11,10 @@
 | [1421d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421d%20-%20Salaries%20and%20allowances%20of%20officers%20and%20employees.md) | Salaries and allowances of officers and employees. |
 | [1421e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421e%20-%20Duty%20on%20articles.md) | Duty on articles. |
 | [1421f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421f%20-%20Title%20to%20property%20transferred.md) | Title to property transferred. |
-| (a) | Property employed by naval government of Guam. |
-| (b) | Other property not reserved. |
-| (c) | Secretary of the Interior; sale or lease. |
 | 1421f–1. | Acknowledgement of deeds. |
 | [1421g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421g%20-%20Establishment%20and%20maintenance%20of%20public%20bodies%20and%20offices.md) | Establishment and maintenance of public bodies and offices. |
-| (a) | Public health services. |
-| (b) | Public educational system. |
-| (c) | Office of Public Prosecutor; Office of Public Auditor. |
-| (d) | Attorney General. |
 | [1421h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421h%20-%20Duties%2C%20taxes%2C%20and%20fees%3B%20proceeds%20collected%20to%20constitute%20fund%20for%20benefit%20of%20Guam%3B%20prerequisites%2C%20amount%2C%20etc.%2C%20remitted%20prior%20to%E2%80%A6.md) | Duties, taxes, and fees; proceeds collected to constitute fund for benefit of Guam; prerequisites, amount, etc., remitted prior to commencement of next fiscal year. |
 | [1421i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421i%20-%20Income%20tax.md) | Income tax. |
-| (a) | Applicability of Federal laws; separate tax. |
-| (b) | Guam Territorial income tax. |
-| (c) | Enforcement of tax. |
-| (d) | “Income-tax laws” defined; administration and enforcement; rules and regulations. |
-| (e) | Substitution of terms. |
-| (f) | Criminal offenses; prosecution. |
-| (g) | Liens. |
-| (h) | Jurisdiction of District Court; suits for recovery or collection of taxes; payment of judgment. |
 | [1421j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1421k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421k%20-%20Designation%20of%20naval%20or%20military%20reservations%3B%20closed%20port.md) | Designation of naval or military reservations; closed port. |
 | 1421k–1 to 1421m. Repealed. |  |
@@ -48,21 +33,8 @@
 | [1422\.](Subchapter%20002%20%28II%29%20-%20The%20Executive%20Branch/%C2%A7%2001422%20-%20Governor%20and%20Lieutenant%20Governor%3B%20term%20of%20office%3B%20qualifications%3B%20powers%20and%20duties%3B%20annual%20report%20to%20Congress.md) | Governor and Lieutenant Governor; term of office; qualifications; powers and duties; annual report to Congress. |
 | [1422a.](Subchapter%20002%20%28II%29%20-%20The%20Executive%20Branch/%C2%A7%2001422a%20-%20Removal%20of%20Governor%2C%20Lieutenant%20Governor%2C%20or%20member%20of%20legislature%3B%20referendum%20election.md) | Removal of Governor, Lieutenant Governor, or member of legislature; referendum election. |
 | [1422b.](Subchapter%20002%20%28II%29%20-%20The%20Executive%20Branch/%C2%A7%2001422b%20-%20Vacancy%20in%20office%20of%20Governor%20or%20Lieutenant%20Governor.md) | Vacancy in office of Governor or Lieutenant Governor. |
-| (a) | Temporary disability or temporary absence of Governor. |
-| (b) | Permanent vacancy in office of Governor. |
-| (c) | Temporary disability or temporary absence of Lieutenant Governor. |
-| (d) | Permanent vacancy in office of Lieutenant Governor. |
-| (e) | Temporary disability or temporary absence of both Governor and Lieutenant Governor. |
-| (f) | Additional compensation. |
 | [1422c.](Subchapter%20002%20%28II%29%20-%20The%20Executive%20Branch/%C2%A7%2001422c%20-%20Executive%20agencies%20and%20instrumentalities.md) | Executive agencies and instrumentalities. |
-| (a) | Appointment of heads; establishment of merit system; Civil Service Commission. |
-| (b) | Powers and duties of officers. |
-| (c) | Reorganization. |
-| (d) | Continuation in office of incumbents. |
 | [1422d.](Subchapter%20002%20%28II%29%20-%20The%20Executive%20Branch/%C2%A7%2001422d%20-%20Transfer%20of%20functions%20from%20government%20comptroller%20for%20Guam%20to%20Inspector%20General%2C%20Department%20of%20the%20Interior.md) | Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior. |
-| (a) | Functions, powers, and duties transferred. |
-| (b) | Scope of authority transferred. |
-| (c) | Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -71,10 +43,6 @@
 |  |  |
 | :--- | ---: |
 | [1423\.](Subchapter%20003%20%28III%29%20-%20The%20Legislature/%C2%A7%2001423%20-%20Legislature%20of%20Guam.md) | Legislature of Guam. |
-| (a) | Unicameral nature; power. |
-| (b) | Size of legislature; prohibition against denial of equal protection; at large and district representation. |
-| (c) | Reapportionment; Federal census base. |
-| (d) | Timing of biennial elections. |
 | [1423a.](Subchapter%20003%20%28III%29%20-%20The%20Legislature/%C2%A7%2001423a%20-%20Power%20of%20legislature%3B%20limitation%20on%20indebtedness%20of%20Guam%3B%20bond%20issues%3B%20guarantees%20for%20purchase%20by%20Federal%20Financing%20Bank%20of%20Guam%20Power%E2%80%A6.md) | Power of legislature; limitation on indebtedness of Guam; bond issues; guarantees for purchase by Federal Financing Bank of Guam Power Authority bonds or other obligations; interest rates; default. |
 | [1423b.](Subchapter%20003%20%28III%29%20-%20The%20Legislature/%C2%A7%2001423b%20-%20Selection%20and%20qualification%20of%20members%3B%20officers%3B%20rules%20and%20regulations%3B%20quorum.md) | Selection and qualification of members; officers; rules and regulations; quorum. |
 | [1423c.](Subchapter%20003%20%28III%29%20-%20The%20Legislature/%C2%A7%2001423c%20-%20Privileges%20of%20members.md) | Privileges of members. |
@@ -95,32 +63,13 @@
 |  |  |
 | :--- | ---: |
 | [1424\.](Subchapter%20004%20%28IV%29%20-%20The%20Judiciary/%C2%A7%2001424%20-%20District%20Court%20of%20Guam%3B%20local%20courts%3B%20jurisdiction.md) | District Court of Guam; local courts; jurisdiction. |
-| (a) | District Court of Guam; unified court system. |
-| (b) | Jurisdiction. |
-| (c) | Original jurisdiction. |
 | 1424–1. | Jurisdiction and powers of local courts. |
-| (a) | Supreme Court of Guam. |
-| (b) | Chief Justice of Supreme Court of Guam. |
-| (c) | Orders of Chief Justice with respect to appeals. |
-| (d) | Other local courts. |
-| (e) | Qualifications and duties of justices and judges. |
 | 1424–2. | Relations between courts of United States and courts of Guam. |
 | 1424–3. | Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court. |
-| (a) | Appellate jurisdiction of District Court. |
-| (b) | Appellate division of District Court; quorum; presiding judge; designation of judges; decisions. |
-| (c) | United States Court of Appeals for Ninth Circuit; jurisdiction; appeals; rules. |
-| (d) | Appeals to appellate court; effect on District Court. |
 | 1424–4. | Criminal offenses; procedure; definitions. |
 | [1424a.](Subchapter%20004%20%28IV%29%20-%20The%20Judiciary/%C2%A7%2001424a%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20655%2C%20%C2%A756%28e%29%2C%2065%20Stat.%20729.md) | Repealed. |
 | [1424b.](Subchapter%20004%20%28IV%29%20-%20The%20Judiciary/%C2%A7%2001424b%20-%20Judge%20of%20District%20Court%3B%20appointment%2C%20tenure%2C%20removal%2C%20and%20compensation%3B%20appointment%20of%20United%20States%20attorney%20and%20marshal.md) | Judge of District Court; appointment, tenure, removal, and compensation; appointment of United States attorney and marshal. |
 | [1424c.](Subchapter%20004%20%28IV%29%20-%20The%20Judiciary/%C2%A7%2001424c%20-%20Review%20of%20claims%20respecting%20land%20on%20Guam.md) | Review of claims respecting land on Guam. |
-| (a) | Jurisdiction. |
-| (b) | Acquisitions effected through condemnation proceedings. |
-| (c) | Fair compensation. |
-| (d) | Employment of special masters or judges. |
-| (e) | Awards. |
-| (f) | Limitation on attorney's fees; violation; penalty. |
-| (g) | Availability of documents, records, and writings to court. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

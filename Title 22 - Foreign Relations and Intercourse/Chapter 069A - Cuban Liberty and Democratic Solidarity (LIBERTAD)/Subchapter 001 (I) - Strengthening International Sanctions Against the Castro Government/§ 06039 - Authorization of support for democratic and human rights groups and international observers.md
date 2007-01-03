@@ -16,7 +16,7 @@ Notwithstanding any other provision of law (including section 6032 of this title
 
 #### (1) For support of human rights and elections
 
-&emsp;The President shall take the necessary steps to encourage the Organization of American States to create a special emergency fund for the explicit purpose of deploying human rights observers, election support, and election observation in Cuba.
+&emsp;The President shall take the necessary steps to encourage the Organization of American States to create a special emergency fund forthe explicit purpose of deploying human rights observers, election support, and election observation in Cuba.
 
 #### (2) Action of other member states
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision of law (including section 6032 of this title
 
 #### (c) Denial of funds to Cuban Government
 
-In implementing this section, the President shall take all necessary steps to ensure that nofunds or other assistance is provided to the Cuban Government.
+In implementing this section, the President shall take all necessary steps to ensure that no funds or other assistance is provided to the Cuban Government.
 
 (Pub. L. 104–114, title I, §109, Mar. 12, 1996, 110 Stat. 799.)
 

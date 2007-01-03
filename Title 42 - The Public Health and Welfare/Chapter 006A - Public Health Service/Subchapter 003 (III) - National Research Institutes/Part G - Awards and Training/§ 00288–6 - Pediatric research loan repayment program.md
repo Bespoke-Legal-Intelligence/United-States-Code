@@ -4,7 +4,7 @@
 
 The Secretary, in consultation with the Director of NIH, may establish a pediatric research loan repayment program. Through such program—
 
-&emsp;(1) the Secretary shall enter into contracts with qualified health professionals under which such professionals will agree to conduct pediatric research, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such professionals; and
+&emsp;(1) the Secretary shall enter into contracts with qualified health professionals underwhich such professionals will agree to conduct pediatric research, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such professionals; and
 
 &emsp;(2) the Secretary shall, for the purpose of providing reimbursements for tax liability resulting from payments made under paragraph (1) on behalf of an individual, make payments, in addition to payments under such paragraph, to the individual in an amount equal to 39 percent of the total amount of loan repayments made for the taxable year involved.
 

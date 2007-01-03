@@ -4,7 +4,7 @@
 
 #### (1) Judicial actions by Commission authorized
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this chapter or the rules or regulations thereunder by purchasing or selling a security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options or security futures products, the Commission—
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision ofthis chapter or the rules or regulations thereunder by purchasing or selling a security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options or security futures products, the Commission—
 
 &emsp;&emsp;(A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
@@ -64,7 +64,7 @@ Notwithstanding the provisions of subsection (d)(1) of this section, there shall
 
 #### (f) Definition
 
-For purposes of this section, “profit gained” or “loss avoided” is the difference between thepurchase or sale price of the security and the value of that security as measured by the trading price of the security a reasonable period after public dissemination of the nonpublic information.
+For purposes of this section, “profit gained” or “loss avoided” is the difference between the purchase or sale price of the security and the value of that security as measured by the trading price of the security a reasonable period after public dissemination of the nonpublic information.
 
 #### (g) Limitation on Commission authority
 

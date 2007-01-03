@@ -24,6 +24,10 @@ The Congress finds and declares the following:
 
 &emsp;(10) Pacific Insular Areas contain unique historical, cultural, legal, political, and geographical circumstances which make fisheries resources important in sustaining their economic growth.
 
+&emsp;(11) A number of the Fishery Management Councils have demonstrated significant progress in integrating ecosystem considerations in fisheries management using the existing authorities provided under this chapter.
+
+&emsp;(12) International cooperation is necessary to address illegal, unreported, and unregulated fishing and other fishing practices which may harm the sustainability of living marine resources and disadvantage the United States fishing industry.
+
 #### (b) Purposes
 
 It is therefore declared to be the purposes of the Congress in this chapter—
@@ -60,7 +64,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 &emsp;(7) to ensure that the fishery resources adjacent to a Pacific Insular Area, including resident or migratory stocks within the exclusive economic zone adjacent to such areas, be explored, developed, conserved, and managed for the benefit of the people of such area and of the United States.
 
-(Pub. L. 94–265, §2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, §2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, §233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, §101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §101, Nov. 28, 1990, 104 Stat. 4437; Pub. L. 102–251, title III, §301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §101, Oct. 11, 1996, 110 Stat. 3560.)
+(Pub. L. 94–265, §2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, §2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, §233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, §101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §101, Nov. 28, 1990, 104 Stat. 4437; Pub. L. 102–251, title III, §301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §101, Oct. 11, 1996, 110 Stat. 3560; Pub. L. 109–479, §3(a), title IV, §402, Jan. 12, 2007, 120 Stat. 3577, 3626.)
 
 #### Amendment of Subsection (b)(1)
 
@@ -68,11 +72,15 @@ It is further declared to be the policy of the Congress in this chapter—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under section 1453 of this title.
 
 #### Amendments
+
+2007—Subsec. (a)(11). Pub. L. 109–479, §3(a), added par. (11).
+
+Subsec. (a)(12). Pub. L. 109–479, §402, added par. (12).
 
 1996—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
 
@@ -120,7 +128,7 @@ References to the Magnuson-Stevens Fishery Conservation and Management Act or an
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, providedthat: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
 
 #### References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act
 
@@ -128,7 +136,11 @@ Section 238(b) of title II of Pub. L. 96–561 provided that: “Effective 15 da
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union ofSoviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+
+#### Short Title of 2007 Amendment
+
+Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: “This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006’.”
 
 #### Short Title of 1996 Amendment
 
@@ -186,7 +198,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent p
 
 (g) establishing cost-share programs, under existing authorities, that match or exceed Federal funds with nonfederal contributions;
 
-(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems andrecreational fisheries and document those effects relative to the purpose of this order; and
+(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems and recreational fisheries and document those effects relative to the purpose of this order; and
 
 (i) assisting private landowners to conserve and enhance aquatic resources on their lands.
 

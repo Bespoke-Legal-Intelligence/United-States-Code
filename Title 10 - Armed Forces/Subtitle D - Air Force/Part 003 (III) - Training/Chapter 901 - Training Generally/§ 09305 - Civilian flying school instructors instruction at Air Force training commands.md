@@ -36,7 +36,7 @@ Apr. 3, 1939, ch. 35, §3, 53 Stat. 556.
 
 10:292c–1 (last proviso).
 
-In subsection (a), the words “under such rules and regulations as he may prescribe” are omitted, since the Secretary has inherent authority to issue regulationsappropriate to exercising his statutory functions. The words “Air Force training commands” are substituted for the words “the Air Corps Training Center”, since those commands now perform the functions formerly performed by the Air Corps Training Center. The words “in his discretion”, “experience”, and “upon their own applications” are omitted as surplusage. The words “and may provide for the instruction and training” are substituted for the words “is authorized to enroll as students \* \* \* for the pursuit of such courses of instruction as may be prescribed therefor”.
+In subsection (a), the words “under such rules and regulations as he may prescribe” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “Air Force training commands” are substituted for the words “the Air Corps Training Center”, since those commands now perform the functions formerly performed by the Air Corps Training Center. The words “in his discretion”, “experience”, and “upon their own applications” are omitted as surplusage. The words “and may provide for the instruction and training” are substituted for the words “is authorized to enroll as students \* \* \* for the pursuit of such courses of instruction as may be prescribed therefor”.
 
 In subsection (b), the words “the furnishing of such” are omitted as surplusage. The words “mate�AE1riel, or equipment” are omitted as covered by the word “supplies”, as defined in section 101(26) of this title.
 

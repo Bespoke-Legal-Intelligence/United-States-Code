@@ -14,11 +14,11 @@
 
 #### (c) Postal Service Board of Contract Appeals
 
-There is established an agency board of contract appeals to be known as the “Postal Service Board of Contract Appeals”. Such board shall have jurisdiction to decide any appeal from a decision of a contracting officer of the United States Postal Service or the Postal Rate Commission relative to a contract made by either agency. Such board shall consist of judges appointed by the Postmaster General who shall meet the qualifications of and serve in the same manner as members of the Civilian Board of Contract Appeals. This chapter shall apply to contract disputes before the Postal Service Board of Contract Appeals in the same manner as they apply to contract disputes before the Civilian Board.
+There is established an agency board of contract appeals to be known as the “Postal Service Board of Contract Appeals”. Such board shall have jurisdiction to decide any appeal from a decision of a contracting officer of the UnitedStates Postal Service or the Postal Regulatory Commission relative to a contract made by either agency. Such board shall consist of judges appointed by the Postmaster General who shall meet the qualifications of and serve in the same manner as members of the Civilian Board of Contract Appeals. This chapter shall apply to contract disputes before the Postal Service Board of Contract Appeals in the same manner as they apply to contract disputes before the Civilian Board.
 
 #### (d) Jurisdiction
 
-The Armed Services Board shall have jurisdiction to decide any appeal from a decision of a contracting officer of the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, or the National Aeronautics and Space Administration relative to a contract made by that department or agency. The Civilian Board shall have jurisdiction to decide any appeal from a decision of a contracting officer of any executive agency (other than the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the National Aeronautics and Space Administration, the United States Postal Service, the Postal Rate Commission, or the Tennessee Valley Authority) relative to a contract made by that agency. Each other agency board shall have jurisdiction to decide any appeal from a decision of a contracting officer relative to a contract made by its agency. In exercising this jurisdiction, the agency board is authorized to grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims.
+The Armed Services Board shall have jurisdiction to decide any appeal from a decision of a contracting officer of the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, or the National Aeronautics and Space Administration relative to a contract made by that department or agency. The Civilian Board shall have jurisdiction to decide any appeal from a decision of a contracting officer of any executive agency (other than the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the National Aeronautics and Space Administration, the United States Postal Service, the Postal Regulatory Commission, or the Tennessee Valley Authority) relative to a contract made by that agency. Each other agency board shall have jurisdiction to decide any appeal from a decision of a contracting officer relative to a contract made by its agency. In exercising this jurisdiction, the agency board is authorized to grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims.
 
 #### (e) Decisions
 
@@ -44,7 +44,7 @@ The rules of each agency board shall include a procedure for the accelerated dis
 
 (3) An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 through 13 of title 9, except that the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
 
-(Pub. L. 95–563, §8, Nov. 1, 1978, 92 Stat. 2385; Pub. L. 97–164, title I, §§156, 160(a)(15), Apr. 2, 1982, 96 Stat. 47, 48; Pub. L. 101–509, title V, §529 \[title I, §104(d)(4)\], Nov. 5, 1990, 104 Stat. 1427, 1447; Pub. L. 101–552, §6(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 103–355, title II, §2351(c), Oct. 13, 1994, 108 Stat. 3322; Pub. L. 109–163, div. A, title VIII, §847(d)(2)–(4), Jan. 6, 2006, 119 Stat. 3393, 3394.)
+(Pub. L. 95–563, §8, Nov. 1, 1978, 92 Stat. 2385; Pub. L. 97–164, title I, §§156, 160(a)(15), Apr. 2, 1982, 96 Stat. 47, 48; Pub. L. 101–509, title V, §529 \[title I, §104(d)(4)\], Nov. 5, 1990, 104 Stat. 1427, 1447; Pub. L. 101–552, §6(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 103–355, title II, §2351(c), Oct. 13, 1994, 108 Stat. 3322; Pub. L. 109–163, div. A, title VIII, §847(d)(2)–(4), Jan. 6, 2006, 119 Stat. 3393, 3394; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -60,9 +60,13 @@ In subsec. (b)(1), “administrative law judges” substituted for “hearing ex
 
 Subsec. (b)(1). Pub. L. 109–163, §847(d)(3)(B), substituted “The members of the Armed Services Board of Contract Appeals” for “Except as provided in paragraph (2), the members of agency boards” in first sentence, “such Board” for “agency boards” in second sentence, “such Board” for “each board” and “the Secretary of Defense” for “the agency head” in third sentence, and “such Board” for “an agency board” in fourth sentence.
 
-Subsec. (c). Pub. L. 109–163, §847(d)(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “If the volume of contract claims is not sufficient to justify an agency board under subsection (a) of this section or if he otherwise considers it appropriate, any agency head shall arrange for appeals from decisions by contracting officers of his agency to be decided by a board of contract appeals of another executive agency. In the event an agency head is unable to make such an arrangement with another agency, he shall submit the case to the Administrator for placement with an agency board. The provisions of this subsection shall not apply to the Tennessee Valley Authority.”
+Subsec. (c). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-Subsec. (d). Pub. L. 109–163, §847(d)(2)(A)(ii), substituted “Court of Federal Claims” for “Claims Court”.
+Pub. L. 109–163, §847(d)(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “If the volume of contract claims is not sufficient to justify an agency board under subsection (a) of this section or if he otherwise considers it appropriate, any agency head shall arrange for appeals from decisions by contracting officers of his agency to be decided by a board of contract appeals of another executive agency. In the event an agency head is unable to make such an arrangement with another agency, he shall submit the case to the Administrator for placement with an agency board. The provisions of this subsection shall not apply to the Tennessee Valley Authority.”
+
+Subsec. (d). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
+Pub. L. 109–163, §847(d)(2)(A)(ii), substituted “Court of Federal Claims” for “Claims Court”.
 
 Pub. L. 109–163, §847(d)(2)(A)(i), substituted three sentences relating to the jurisdiction of the Armed Services Board, the Civilian Board, and other agency boards for “Each agency board shall have jurisdiction to decide any appeal from a decision of a contracting officer (1) relative to a contract made by its agency, and (2) relative to a contract made by any other agency when such agency or the Administrator has designated the agency board to decide the appeal.”
 
@@ -118,7 +122,7 @@ Termination of Boards of Contract Appeals.—
 
 &emsp;“(1)
 
-Termination.—Effective on the effective date described in subsection (g), the agency boards of contract appeals established pursuant to section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607) (as in effect on the day before such effective date), other than the Armed Services Board of Contract Appeals, theboard of contract appeals of the Tennessee Valley Authority, and the Postal Service Board of Contract Appeals, shall terminate.
+Termination.—Effective on the effective date described in subsection (g), the agency boards of contract appeals established pursuant to section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607) (as in effect on the day before such effective date), other than the Armed Services Board of Contract Appeals, the board of contract appeals of the Tennessee Valley Authority, and the Postal Service Board of Contract Appeals, shall terminate.
 
 &emsp;“(2)
 
@@ -128,5 +132,5 @@ Savings provision.—(A) This section \[enacting section 438 of this title, amen
 
 “(e)
 
-References.—Any reference to an agency board of contract appeals other than the Armed Services Board of Contract Appeals, the board of contract appeals of the Tennessee Valley Authority, or the Postal Service Board of Contract Appeals in any provision of law or in any rule, regulation, or other paper of the United States shall be treated as referring to the Civilian Board of Contract Appeals established under section 42 of the Office of Federal Procurement Policy Act \[41 U.S.C. 438\].”
+References.—Any reference to an agency board of contract appeals other than the Armed ServicesBoard of Contract Appeals, the board of contract appeals of the Tennessee Valley Authority, or the Postal Service Board of Contract Appeals in any provision of law or in any rule, regulation, or other paper of the United States shall be treated as referring to the Civilian Board of Contract Appeals established under section 42 of the Office of Federal Procurement Policy Act \[41 U.S.C. 438\].”
 

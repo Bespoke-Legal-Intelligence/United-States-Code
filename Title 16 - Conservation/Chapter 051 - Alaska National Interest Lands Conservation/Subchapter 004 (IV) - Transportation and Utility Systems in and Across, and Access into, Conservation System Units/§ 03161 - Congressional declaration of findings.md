@@ -6,7 +6,7 @@ Congress finds that—
 
 (b) the existing authorities to approve or disapprove applications for transportation and utility systems through public lands in Alaska are diverse, dissimilar, and, in some cases, absent; and
 
-(c) to minimize the adverse impacts of siting transportation and utility systems within units established or expanded by this Act and to insure the effectiveness of the decisionmaking process, a single comprehensive statutory authority for the approval or disapproval of applications for such systems must be provided in this Act.
+(c) to minimize the adverse impacts of siting transportation and utility systems within unitsestablished or expanded by this Act and to insure the effectiveness of the decisionmaking process, a single comprehensive statutory authority for the approval or disapproval of applications for such systems must be provided in this Act.
 
 (Pub. L. 96–487, title XI, §1101, Dec. 2, 1980, 94 Stat. 2457.)
 

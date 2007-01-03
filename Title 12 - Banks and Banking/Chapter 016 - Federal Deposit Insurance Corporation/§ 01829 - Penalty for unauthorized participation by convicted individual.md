@@ -6,7 +6,7 @@
 
 &emsp;Except with the prior written consent of the Corporation—
 
-&emsp;&emsp;(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such offense, may not—
+&emsp;&emsp;(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversionor similar program in connection with a prosecution for such offense, may not—
 
 &emsp;&emsp;&emsp;(i) become, or continue as, an institution-affiliated party with respect to any insured depository institution;
 
@@ -36,7 +36,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreementof a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
+&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
 
 #### (ii) Period for filing
 
@@ -46,13 +46,37 @@
 
 Whoever knowingly violates subsection (a) of this section shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
-(Sept. 21, 1950, ch. 967, §2\[19\], 64 Stat. 893; Pub. L. 101–73, title IX, §910(a), Aug. 9, 1989, 103 Stat. 477; Pub. L. 101–647, title XXV, §2502(a), Nov. 29, 1990, 104 Stat. 4860; Pub. L. 102–550, title XV, §1505, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–322, title XXXII, §320605, Sept. 13, 1994, 108 Stat. 2119.)
+#### (d) <sup>2</sup> Bank holding companies
+
+#### (1) In general
+
+&emsp;Subsections (a) and (b) shall apply to any company (other than a foreign bank) that is a bank holding company and any organization organized and operated under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] or operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], as if such bank holding company or organization were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
+
+#### (2) Authority of Board
+
+&emsp;The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
+
+#### (e) Savings and loan holding companies
+
+#### (1) In general
+
+&emsp;Subsections (a) and (b) shall apply to any savings and loan holding company as if such savings and loan holding company were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Director of the Office of Thrift Supervision” for “Corporation” each place that term appears in such subsections.
+
+#### (2) Authority of Director
+
+&emsp;The Director of the Office of Thrift Supervision may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
+
+(Sept. 21, 1950, ch. 967, §2\[19\], 64 Stat. 893; Pub. L. 101–73, title IX, §910(a), Aug. 9, 1989, 103 Stat. 477; Pub. L. 101–647, title XXV, §2502(a), Nov. 29, 1990, 104 Stat. 4860; Pub. L. 102–550, title XV, §1505, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–322, title XXXII, §320605, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 109–351, title VII, §710(a), Oct. 13, 2006, 120 Stat. 1990.)
 
 #### References in Text
 
 Section 1008 of title 18, referred to in subsec. (a)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of this title.
+
 #### Amendments
+
+2006—Subsecs. (d), (e). Pub. L. 109–351 added subsecs. (d) and (e).
 
 1994—Subsec. (a)(2)(A)(i)(I). Pub. L. 103–322 substituted “1517, 1956, or 1957” for “or 1956”.
 
@@ -64,11 +88,13 @@ Section 1008 of title 18, referred to in subsec. (a)(2)(A)(i)(I), was repealed b
 
 &emsp;“(2) an insured depository institution may not permit such participation.”
 
-1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Except with the written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use.”
+1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Except withthe written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use.”
 
 #### Provisions Not Repealed, Modified or Affected
 
 Nothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending sections 1813 and 1817 to 1820 and repealing section 77 of this title to be construed as repealing, modifying, or affecting this section, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. No subsec. (c) has been enacted.</i>
 

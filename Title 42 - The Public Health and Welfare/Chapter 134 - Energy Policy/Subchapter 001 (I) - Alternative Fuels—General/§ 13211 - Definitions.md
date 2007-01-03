@@ -4,7 +4,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;(1) the term “Administrator” means the Administrator of the Environmental Protection Agency;
 
-&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas, including liquid fuels domestically produced from natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
+&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas, including liquid fuels domestically produced from natural gas; liquefied petroleum gas; hydrogen; coal-derived liquidfuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
 
 &emsp;(3) the term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
 
@@ -36,7 +36,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that is capable of operating on alternative fuel and is capable of operating on gasoline or diesel fuel;
 
-&emsp;(9) the term “fleet” means a group of 20 or more light duty motor vehicles, used primarily in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, orotherwise controlled by a governmental entity or other person who owns, operates, leases, or otherwise controls 50 or more such vehicles, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person, except that such term does not include—
+&emsp;(9) the term “fleet” means a group of 20 or more light duty motor vehicles, used primarily in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by a governmental entity or other person who owns, operates, leases, or otherwise controls 50 or more such vehicles, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person, except that such term does not include—
 
 &emsp;&emsp;(A) motor vehicles held for lease or rental to the general public;
 
@@ -74,7 +74,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title” meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title.
+This subchapter, referred to in text, was in the original “this title” meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter,amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title.
 
 Subchapter II of this chapter, referred to in text, was in the original “title IV” meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II of this chapter, amended sections 6374a to 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under sections 79b and 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15.
 

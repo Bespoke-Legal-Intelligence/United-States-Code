@@ -34,7 +34,7 @@ Definition.—In this section, the term ‘appropriate congressional committees�
 
 “(b)
 
-Study of Contract With a Private Entity.—Not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], the Comptroller General shallconduct a study and submit to the appropriate congressional committees and the Architect of the Capitol a report that—
+Study of Contract With a Private Entity.—Not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], the Comptroller General shall conduct a study and submit to the appropriate congressional committees and the Architect of the Capitol a report that—
 
 &emsp;“(1) analyzes the costs, cost effectiveness, benefits, and feasibility of the Architect of the Capitol entering into a contract with a private entity for the management and operation of the Capitol Power Plant; and
 

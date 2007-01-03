@@ -48,9 +48,9 @@ Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(
 
 (h)
 
-Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites.—In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), the sole source of funds for services procured under subsection 2701(d)(1) of this title shall be the applicable Department of Defense base closure account. The limitation in this subsection shall expire upon the closure of the applicable base closure account.
+Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites.—In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the applicable Department of Defense base closure account. The limitation in this subsection shall expire upon the closure of the applicable base closure account.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, §1084(d)(26), Oct. 28, 2004,118 Stat. 2063; Pub. L. 109–163, div. A, title III, §312(b), title X, §1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, §1084(d)(26), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title III, §312(b), title X, §1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(23), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### Amendments
 
@@ -58,7 +58,9 @@ Sole Source of Funds for Environmental Remediation at Certain Base Realignment a
 
 Subsec. (g)(1). Pub. L. 109–163, §312(b)(1), substituted “Except as provided in subsection (h), the sole source” for “The sole source”.
 
-Subsec. (h). Pub. L. 109–163, §312(b)(2), added subsec. (h).
+Subsec. (h). Pub. L. 109–364 substituted “section 2701(d)(1)” for “subsection 2701(d)(1)”.
+
+Pub. L. 109–163, §312(b)(2), added subsec. (h).
 
 2004—Subsec. (b). Pub. L. 108–375 substituted “For purposes of the preceding sentence, the terms” for “The terms”.
 
@@ -142,7 +144,7 @@ Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, p
 
 #### References to Defense Environmental Restoration Account
 
-Section 322(b) of Pub. L. 104–201 provided that: “Any reference to the Defense Environmental RestorationAccount in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
+Section 322(b) of Pub. L. 104–201 provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
 
 #### Unobligated Balances in Defense Environmental Restoration Account
 

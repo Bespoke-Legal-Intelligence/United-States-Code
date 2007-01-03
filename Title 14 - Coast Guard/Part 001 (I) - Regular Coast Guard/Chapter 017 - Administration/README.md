@@ -59,12 +59,19 @@
 | :--- | ---: |
 | [675\.](%C2%A7%2000675%20-%20Small%20boat%20station%20closures.md) | Small boat station closures. |
 | [676\.](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md) | Search and rescue center standards. |
+| [677\.](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md) | Turnkey selection procedures <sup>3</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2004—Pub. L. 108–293, title II, §§205(e)(2), 212(b), Aug. 9, 2004, 118 Stat. 1033, 1037, substituted “indemnity” for “immunity” in item 637 and “Long-term lease of special purpose facilities” for “Long-term lease authority for navigation and communications systems sites” in item 672.
+2006—Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, amended Pub. L. 108–293,§212(b), effective Aug. 9, 2004. See 2004 Amendment note below.
+
+Pub. L. 109–241, title II, §205(b), July 11, 2006, 120 Stat. 521, added item 677.
+
+2004—Pub. L. 108–293, title II, §212(b), Aug. 9, 2004, 118 Stat. 1037, as amended by Pub. L. 109–241, title IX, §901(b), July 11, 2006, 120 Stat. 564, substituted “Long-term lease of special purpose facilities” for “Long-term lease authority for navigation and communications systems sites” in item 672.
+
+Pub. L. 108–293, title II, §205(e)(2), Aug. 9, 2004, 118 Stat. 1033, substituted “indemnity” for “immunity” in item 637.
 
 2002—Pub. L. 107–296, title XVII, §1704(f)(2), Nov. 25, 2002, 116 Stat. 2316, which directed the redesignation of item 673 “Small boat station rescue capability” as item 673a, could not be executed because of prior amendment by Pub. L. 107–295, §405(c), see below.
 
@@ -115,6 +122,8 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 <i><sup>1</sup></i><i> So in original. Capitalization does not conform to section catchline.</i>
 
 <i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -168,3 +177,4 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00674 - Small boat station rescue capability](%C2%A7%2000674%20-%20Small%20boat%20station%20rescue%20capability.md)
 - [&sect; 00675 - Small boat station closures](%C2%A7%2000675%20-%20Small%20boat%20station%20closures.md)
 - [&sect; 00676 - Search and rescue center standards](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md)
+- [&sect; 00677 - Turnkey selection procedures](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md)

@@ -5,22 +5,9 @@
 | [2101\.](%C2%A7%2002101%20-%20Findings.md) | Findings. |
 | [2102\.](%C2%A7%2002102%20-%20Definitions.md) | Definitions. |
 | [2103\.](%C2%A7%2002103%20-%20Rights%20of%20access.md) | Rights of access. |
-| (a) | Access rights. |
-| (b) | Parks and protected areas. |
 | [2104\.](%C2%A7%2002104%20-%20Preparation%20of%20guidelines.md) | Preparation of guidelines. |
-| (a) | Purposes of guidelines; publication in Federal Register. |
-| (b) | Consultation. |
-| (c) | Use of guidelines in developing legislation and regulations. |
 | [2105\.](%C2%A7%2002105%20-%20Rights%20of%20ownership.md) | Rights of ownership. |
-| (a) | United States title. |
-| (b) | Notice of shipwreck location; eligibility determination for inclusion in National Register of Historic Places. |
-| (c) | Transfer of title to States. |
-| (d) | Exception. |
-| (e) | Reservation of rights. |
 | [2106\.](%C2%A7%2002106%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
-| (a) | Law of salvage and law of finds. |
-| (b) | Laws of United States. |
-| (c) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

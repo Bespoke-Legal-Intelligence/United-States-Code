@@ -14,7 +14,7 @@
 
 #### Effective Date of 1974 Amendment
 
-Section 29(a) of Pub. L. 93–259 provided that: “Except as otherwise specifically provided, the amendments made by this Act \[see Short Title of 1974 Amendment note set out under section 201 of this title\] shall take effect on May 1, 1974.”
+Section 29(a) of Pub. L. 93–259 provided that: “Except as otherwise specifically provided, the amendments made by this Act \[see Short Title of 1974 Amendmentnote set out under section 201 of this title\] shall take effect on May 1, 1974.”
 
 #### Effective Date of 1949 Amendment
 

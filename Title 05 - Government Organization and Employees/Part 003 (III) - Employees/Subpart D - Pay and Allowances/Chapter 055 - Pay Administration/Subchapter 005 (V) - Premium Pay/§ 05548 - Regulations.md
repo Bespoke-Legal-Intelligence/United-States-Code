@@ -4,7 +4,7 @@
 
 (b) The Office shall prescribe regulations necessary for the administration of section 5545(d).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(32), Sept. 11, 1967, 81 Stat. 201; Pub. L. 92–392, §12, Aug. 19, 1972, 86 Stat. 575; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(44)(C), Oct. 2, 1992, 106 Stat. 1352.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(32), Sept. 11, 1967, 81 Stat. 201; Pub. L.92–392, §12, Aug. 19, 1972, 86 Stat. 575; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(44)(C), Oct. 2, 1992, 106 Stat. 1352.)
 
 Historical and Revision Notes<br>1966
 

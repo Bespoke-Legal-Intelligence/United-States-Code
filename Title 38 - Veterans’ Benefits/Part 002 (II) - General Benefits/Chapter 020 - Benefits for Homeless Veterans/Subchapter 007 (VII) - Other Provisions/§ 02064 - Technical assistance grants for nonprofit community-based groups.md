@@ -6,7 +6,11 @@ Grant Program.—The Secretary shall carry out a program to make grants to entit
 
 (b)
 
-Funding.—There is authorized to be appropriated $750,000 for each of fiscal years 2002 through 2005 to carry out the program under this section.
+Authorization of Appropriations.—There are authorized to be appropriated $1,000,000 for each of fiscal years 2007 through 2012 to carry out the program under this section.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 109–461, title VII, §707, Dec. 22, 2006, 120 Stat. 3440.)
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–461 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated $750,000 for each of fiscal years 2002 through 2005 to carry out the program under this section.”
 

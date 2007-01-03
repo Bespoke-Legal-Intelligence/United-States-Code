@@ -16,7 +16,7 @@ Notwithstanding any other provision of this chapter, the Secretary may, with res
 
 #### (c) Insurance of mortgage as obligation of General Insurance Fund
 
-Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be theobligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
+Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
 
 #### (d) “Native Hawaiian” and “Hawaiian home lands” defined
 

@@ -12,7 +12,7 @@
 
 &emsp;(A) the Secretary determines that such an action will not adversely affect the ability of the Department—
 
-&emsp;&emsp;(i) to fulfill its statutory missions with respect to the Department loan guaranty program and the short- and long-term solvency of the Veterans Housing Benefit Program Fund under this chapter; <sup>1</sup> or
+&emsp;&emsp;(i) to fulfill its statutory missions with respect to the Department loan guaranty program and the short- and long-term solvency of the Veterans Housing Benefit Program Fund established under section 3722 of this title; or
 
 &emsp;&emsp;(ii) to carry out other functions and administer other programs authorized by law;
 
@@ -44,15 +44,19 @@
 
 &emsp;(C) may waive the collection of a fee under section 3729 of this title in any case in which the Secretary determines that such a waiver would be appropriate.
 
-(c) The Secretary may not enter into agreements under subsection (a) after December 31, 2008.
+(c) The Secretary may not enter into agreements under subsection (a) after December 31, 2011.
 
-(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063.)
-
-#### References in Text
-
-The Veterans Housing Benefit Program Fund under this chapter, referred to in subsec. (a)(3)(A)(i), probably means the Veterans Housing Benefit Program Fund under chapter 37 of this title. This section formerly appeared as section 3735 of this title. The Veterans Housing Benefit Program Fund was established by section 3722 of this title.
+(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468.)
 
 #### Amendments
+
+2006—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §1004(a)(5), substituted “established under section 3722 of this title” for “under this chapter”.
+
+Pub. L. 109–444, which substituted “established under section 3722 of this title” for “under this chapter”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (c). Pub. L. 109–461, §705, substituted “December 31, 2011” for “December 31, 2008”.
 
 2003—Subsec. (c). Pub. L. 108–170 substituted “December 31, 2008” for “December 31, 2003”.
 
@@ -88,7 +92,5 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during periodbeginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 

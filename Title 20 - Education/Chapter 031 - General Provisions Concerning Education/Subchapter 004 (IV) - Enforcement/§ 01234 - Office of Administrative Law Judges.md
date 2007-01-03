@@ -46,7 +46,7 @@ The judge shall review and may require that evidence be taken on the sufficiency
 
 > The judge shall set a time limit of 90 days on the discovery period. The judge may extend this period for good cause shown. At the request of any party, the judge may establish a specific schedule for the conduct of discovery.
 
-(2) In order to carry out the provisions of subsections (f)(1) and (g)(1) of this section, the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
+(2) In order to carry out the provisions of subsections (f)(1) and (g)(1) of this section, the judgeis authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
 
 #### (h) Mediation of disputes
 
@@ -72,7 +72,7 @@ Section 3501(b) of Pub. L. 100–297 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall be effective 180 days after the date of enactment of this Act \[Apr. 28, 1988\].
 
-“(2) The amendments made by this part \[part D (§3501) of title III of Pub. L. 100–297, enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall not apply to any case in which the recipient, prior to the effective date of this part, received a written noticethat such recipient must return funds to the Department.”
+“(2) The amendments made by this part \[part D (§3501) of title III of Pub. L. 100–297, enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall not apply to any case in which the recipient, prior to the effective date of this part, received a written notice that such recipient must return funds to the Department.”
 
 #### Effective Date
 

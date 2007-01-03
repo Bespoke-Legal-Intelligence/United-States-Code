@@ -12,7 +12,7 @@ The Secretary of Commerce shall encourage, promote, and develop travel within th
 
 Section 2 of Pub. L. 93–193, Dec. 19, 1973, 87 Stat. 765, provided that:
 
-“(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other officesand officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d).
+“(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d).
 
 “(b) The assets, liabilities, contracts, property, records, authorizations, and allocations, employed, held, used, rising from, available or to be made available in connection with the functions, powers, and duties transferred by subsection (a) of this section are hereby transferred to the Secretary of Commerce.”
 

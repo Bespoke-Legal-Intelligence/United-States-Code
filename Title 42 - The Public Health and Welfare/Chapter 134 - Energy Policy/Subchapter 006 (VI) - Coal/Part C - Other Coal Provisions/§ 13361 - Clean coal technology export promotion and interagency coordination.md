@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established within the Trade Promotion Coordinating Committee (established by the President on May 23, 1990) a Clean CoalTechnology Subgroup (in this part referred to as the “CCT Subgroup”) to focus interagency efforts on clean coal technologies. The CCT Subgroup shall seek to expand the export and use of clean coal technologies, particularly in those countries which can benefit from gains in the efficiency of, and the control of environmental emissions from, coal utilization.
+There shall be established within the Trade Promotion Coordinating Committee (established by the President on May 23, 1990) a Clean Coal Technology Subgroup (in this part referred to as the “CCT Subgroup”) to focus interagency efforts on clean coal technologies. The CCT Subgroup shall seek to expand the export and use of clean coal technologies, particularly in those countries which can benefit from gains in the efficiency of, and the control of environmental emissions from, coal utilization.
 
 #### (b) Membership
 
@@ -50,7 +50,7 @@ The Secretary, acting through the CCT Subgroup, shall—
 
 (2) The Secretary, acting through the CCT Subgroup, shall assess and prioritize foreign markets that have the most potential for the export of clean coal technologies that are developed, manufactured, or controlled by United States firms. Such assessment shall include—
 
-&emsp;(A) an analysis of the financing requirements for clean coal technology projects inforeign countries and whether such projects are dependent upon financial assistance from foreign countries or multilateral institutions;
+&emsp;(A) an analysis of the financing requirements for clean coal technology projects in foreign countries and whether such projects are dependent upon financial assistance from foreign countries or multilateral institutions;
 
 &emsp;(B) the availability of other fuel or energy resources that may be available to meet the energy requirements intended to be met by the clean coal technology projects;
 

@@ -20,7 +20,7 @@
 
 #### (5) Notice of denial of application for insurance
 
-&emsp;If the Board of Directors votes to deny any application for insurance by any depository institution, the Board of Directors shall promptly notify the appropriate Federal banking agency and, in the case of any State depository institution, the appropriate State banking supervisor of the denial of such application, giving specific reasons in writing for the Board of Directors’ determination with reference to the factors described in section 1816 of this title.
+&emsp;If the Board of Directors votes to deny any application for insurance by any depositoryinstitution, the Board of Directors shall promptly notify the appropriate Federal banking agency and, in the case of any State depository institution, the appropriate State banking supervisor of the denial of such application, giving specific reasons in writing for the Board of Directors’ determination with reference to the factors described in section 1816 of this title.
 
 #### (6) Nondelegation requirement
 
@@ -38,7 +38,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;(4) the general character and fitness of its management, including but not limited to the management of the branch proposed to be insured,
 
-&emsp;(5) the risk presented to the Bank Insurance Fund or the Savings Association Insurance Fund,
+&emsp;(5) the risk presented to the Deposit Insurance Fund,
 
 &emsp;(6) the convenience and needs of the community to be served by the branch,
 
@@ -46,7 +46,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;(8) the probable adequacy and reliability of information supplied and to be supplied by the bank to the Corporation to enable it to carry out its functions under this chapter.
 
-#### (c) Protection to deposit insurance fund; surety bond, pledge of assets, etc.; injunction
+#### (c) Protection to Deposit Insurance Fund; surety bond, pledge of assets, etc.; injunction
 
 (1) Before any branch of a foreign bank becomes an insured branch, the bank shall deliver to the Corporation or as the Corporation may direct a surety bond, a pledge of assets, or both, in such amounts and of such types as the Corporation may require or approve, for the purpose set forth in paragraph (4) of this subsection.
 
@@ -54,213 +54,23 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
 
-(4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the deposit insurance fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
+(4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the Deposit Insurance Fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
 (5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only as provided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
 
 #### (d) Insurance fees
 
-#### (1) Uninsured institutions
+#### (1) In general
 
-#### (A) In general
+&emsp;&emsp;Any institution that becomes insured by the Corporation, and any noninsured branch that becomes insured by the Corporation, shall pay the Corporation any fee which the Corporation may by regulation prescribe, after giving due consideration to the need to establish and maintain the reserve ratio of the Deposit Insurance Fund.
 
-&emsp;&emsp;Any institution that becomes insured by the Corporation, and any noninsured branch that becomes insured by the Corporation, shall pay the Corporation any fee which the Corporation may by regulation prescribe, after giving due consideration to the need to establish and maintain reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund as required by section 1817 of this title.
+#### (2) Fee credited to the Deposit Insurance Fund
 
-#### (B) Fee credited to appropriate fund
+&emsp;The fee paid by the depository institution under paragraph (1) shall be credited to the Deposit Insurance Fund.
 
-&emsp;&emsp;The fee paid by the depository institution shall be credited to the Bank Insurance Fund if the depository institution becomes a Bank Insurance Fund member, and to the Savings Association Insurance Fund if the depository institution becomes a Savings Association Insurance Fund member.
-
-#### (C) Exception for certain depository institutions
+#### (3) Exception for certain depository institutions
 
 &emsp;&emsp;Any depository institution that becomes an insured depository institution by operation of section 1814(a) of this title shall not pay any fee.
-
-#### (2) Conversions
-
-#### (A) In general
-
-#### (i) Prior approval required
-
-&emsp;&emsp;&emsp;No insured depository institution may participate in a conversion transaction without the prior approval of the Corporation.
-
-#### (ii) 5-year moratorium on conversions
-
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Corporation may not approve any conversion transaction before the later of the end of the 5-year period beginning on August 9, 1989, or the date on which the Savings Association Insurance Fund first meets or exceeds the designated reserve ratio for such fund.
-
-#### (B) “Conversion transaction” defined
-
-&emsp;&emsp;For purposes of this paragraph, the term “conversion transaction” means—
-
-&emsp;&emsp;&emsp;(i) the change of status of an insured depository institution from a Bank Insurance Fund member to a Savings Association Insurance Fund member or from a Savings Association Insurance Fund member to a Bank Insurance Fund member;
-
-&emsp;&emsp;&emsp;(ii) the merger or consolidation of a Bank Insurance Fund member with a Savings Association Insurance Fund member;
-
-&emsp;&emsp;&emsp;(iii) the assumption of any liability by—
-
-&emsp;&emsp;&emsp;&emsp;(I) any Bank Insurance Fund member to pay any deposits of a Savings Association Insurance Fund member; or
-
-&emsp;&emsp;&emsp;&emsp;(II) any Savings Association Insurance Fund member to pay any deposits of a Bank Insurance Fund member;
-
-&emsp;&emsp;&emsp;(iv) the transfer of assets of—
-
-&emsp;&emsp;&emsp;&emsp;(I) any Bank Insurance Fund member to any Savings Association Insurance Fund member in consideration of the assumption of liabilities for any portion of the deposits of such Bank Insurance Fund member; or
-
-&emsp;&emsp;&emsp;&emsp;(II) any Savings Association Insurance Fund member to any Bank Insurance Fund member in consideration of the assumption of liabilities for any portion of the deposits of such Savings Association Insurance Fund member; and
-
-&emsp;&emsp;&emsp;(v) the transfer of deposits—
-
-&emsp;&emsp;&emsp;&emsp;(I) from a Bank Insurance Fund member to a Savings Association Insurance Fund member; or
-
-&emsp;&emsp;&emsp;&emsp;(II) from a Savings Association Insurance Fund member to a Bank Insurance Fund member;
-
-&emsp;&emsp;&nbsp;in a transaction in which the deposit is received from a depositor at an insured depository institution for which a receiver has been appointed and the receiving insured depository institution is acting as agent for the Corporation in connection with the payment of such deposit to the depositor at the institution for which a receiver has been appointed.
-
-#### (C) Approval during moratorium
-
-&emsp;&emsp;The Corporation may approve a conversion transaction at any time if—
-
-&emsp;&emsp;&emsp;(i) the conversion transaction affects an insubstantial portion, as determined by the Corporation, of the total deposits of each depository institution participating in the conversion transaction;
-
-&emsp;&emsp;&emsp;(ii) the conversion occurs in connection with the acquisition of a Savings Association Insurance Fund member in default or in danger of default, and the Corporation determines that the estimated financial benefits to the Savings Association Insurance Fund or Resolution Trust Corporation equal or exceed the Corporation's estimate of loss of assessment income to such insurance fund over the remaining balance of the moratorium period established by subparagraph (A), and the Resolution Trust Corporation concurs in the Corporation's determination; or
-
-&emsp;&emsp;&emsp;(iii) the conversion occurs in connection with the acquisition of a Bank Insurance Fund member in default or in danger of default and the Corporation determines thatthe estimated financial benefits to the Bank Insurance Fund equal or exceed the Corporation's estimate of the loss of assessment income to the insurance fund over the remaining balance of the moratorium period established by subparagraph (A).
-
-#### (D) Certain transfers deemed to affect insubstantial portion of total deposits
-
-&emsp;&emsp;For purposes of subparagraph (C)(i), any conversion transaction shall be deemed to affect an insubstantial portion of the total deposits of an insured depository institution, to the extent the aggregate amount of the total deposits transferred in such transaction and in all conversion transactions occurring after August 9, 1989, does not exceed 35 percent of the lesser of—
-
-&emsp;&emsp;&emsp;(i) the amount which is equal to the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the total deposits of such insured depository institution on May 1, 1989; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the total amount of net interest credited to the depository institution's deposits during the period beginning on May 1, 1989, and ending on the date of the transfer of deposits in connection with such transaction; or
-
-&emsp;&emsp;&emsp;(ii) the amount which is equal to the total deposits of such insured depository institution on the date of the transfer of deposits in connection with such transaction.
-
-#### (E) Exit and entrance fees
-
-&emsp;&emsp;Each insured depository institution participating in a conversion transaction shall pay—
-
-&emsp;&emsp;&emsp;(i) in the case of a conversion transaction in which the resulting or acquiring depository institution is not a Savings Association Insurance Fund member, an exit fee (in an amount to be determined and assessed in accordance with subparagraph (F)) which—
-
-&emsp;&emsp;&emsp;&emsp;(I) shall be deposited in the Savings Association Insurance Fund; or
-
-&emsp;&emsp;&emsp;&emsp;(II) shall be paid to the Financing Corporation, if the Secretary of the Treasury determines that the Financing Corporation has exhausted all other sources of funding for interest payments on the obligations of the Financing Corporation and orders that such fees be paid to the Financing Corporation;
-
-&emsp;&emsp;&emsp;(ii) in the case of a conversion transaction in which the resulting or acquiring depository institution is not a Bank Insurance Fund member, an exit fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)) which shall be deposited in the Bank Insurance Fund; and
-
-&emsp;&emsp;&emsp;(iii) an entrance fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)), except that—
-
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Bank Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Bank Insurance Fund, and shall be paid to the Bank Insurance Fund; and
-
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Savings Association Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Savings Association Insurance Fund, and shall be paid to the Savings Association Insurance Fund.
-
-#### (F) Assessment of exit and entrance fees
-
-#### (i) Determination of amount of exit fees
-
-#### (I) Conversions before January 1, 1997
-
-&emsp;&emsp;&emsp;&emsp;In the case of any exit fee assessed under subparagraph (E)(i) for any conversion transaction consummated before January 1, 1997, the amount of such fee shall be determined jointly by the Corporation and the Secretary of the Treasury.
-
-#### (II) Assessments after December 31, 1996
-
-&emsp;&emsp;&emsp;&emsp;In the case of any exit fee assessed under subparagraph (E)(i) for any conversion transaction consummated after December 31, 1996, the amount of such fee shall be determined by the Corporation.
-
-#### (ii) Procedures
-
-&emsp;&emsp;&emsp;The Corporation shall prescribe, by regulation, procedures for assessing any exit or entrance fee under subparagraph (E).
-
-#### (G) Charter conversion of SAIF members
-
-&emsp;&emsp;This subsection shall not be construed as prohibiting any savings association which is a Savings Association Insurance Fund member from converting to a bank charter during the period described in subparagraph (A)(ii) if the resulting bank remains a Savings Association Insurance Fund member.
-
-#### (3) Optional conversions subject to special rules on deposit insurance payments
-
-#### (A) Conversions allowed
-
-&emsp;&emsp;Notwithstanding paragraph (2)(A), and subject to the requirements of this paragraph, any insured depository institution may participate in a transaction described in clause (ii), (iii), or (iv) of paragraph (2)(B) if the transaction is approved by the responsible agency under section 1828(c)(2) of this title.
-
-#### (B) Assessments on deposits attributable to former depository institution
-
-#### (i) Assessments by SAIF
-
-&emsp;&emsp;&emsp;In the case of any acquiring, assuming, or resulting depository institution which is a Bank Insurance Fund member, that portion of the deposits of such member for any semiannual period which is equal to the adjusted attributable deposit amount\(determined under subparagraph (C) with respect to the transaction) shall be treated as deposits which are insured by the Savings Association Insurance Fund.
-
-#### (ii) Assessments by BIF
-
-&emsp;&emsp;&emsp;In the case of any acquiring, assuming, or resulting depository institution which is a Savings Association Insurance Fund member, that portion of the deposits of such member for any semiannual period which is equal to the adjusted attributable deposit amount (determined under subparagraph (C) with respect to the transaction) shall be treated as deposits which are insured by the Bank Insurance Fund.
-
-#### (C) Determination of adjusted attributable deposit amount
-
-&emsp;&emsp;Except as provided in subparagraph (K), the adjusted attributable deposit amount which shall be taken into account for purposes of determining the amount of the assessment under subparagraph (B) for any semiannual period by any acquiring, assuming, or resulting depository institution in connection with a transaction under subparagraph (A) is the amount which is equal to the sum of—
-
-&emsp;&emsp;&emsp;(i) the amount of any deposits acquired by the institution in connection with the transaction (as determined at the time of such transaction);
-
-&emsp;&emsp;&emsp;(ii) the total of the amounts determined under clause (iii) for semiannual periods preceding the semiannual period for which the determination is being made under this subparagraph; and
-
-&emsp;&emsp;&emsp;(iii) the amount by which the sum of the amounts described in clauses (i) and (ii) would have increased during the preceding semiannual period (other than any semiannual period beginning before the date of such transaction) if such increase occurred at a rate equal to the annual rate of growth of deposits of the acquiring, assuming, or resulting depository institution minus the amount of any deposits acquired through the acquisition, in whole or in part, of another insured depository institution.
-
-#### (D) Deposit of assessment
-
-&emsp;&emsp;That portion of any assessment under section 1817 of this title which—
-
-&emsp;&emsp;&emsp;(i) is determined in accordance with subparagraph (B)(i) shall be deposited in the Savings Association Insurance Fund; and
-
-&emsp;&emsp;&emsp;(ii) is determined in accordance with subparagraph (B)(ii) shall be deposited in the Bank Insurance Fund.
-
-#### (E) Conditions for approval, generally
-
-#### (i) Information required
-
-&emsp;&emsp;&emsp;An application to engage in any transaction under this paragraph shall contain such information relating to the factors to be considered for approval as the responsible agency may require, by regulation or by specific request, in connection with any particular application.
-
-#### (ii) No transfer of deposit insurance permitted
-
-&emsp;&emsp;&emsp;This paragraph shall not be construed as authorizing transactions which result in the transfer of any insured depository institution's Federal deposit insurance from 1 Federal deposit insurance fund to the other Federal deposit insurance fund.
-
-#### (iii) Capital requirements
-
-&emsp;&emsp;&emsp;A transaction described in this paragraph shall not be approved under section 1828(c)(2) of this title unless the acquiring, assuming, or resulting depository institution will meet all applicable capital requirements upon consummation of the transaction.
-
-#### (F) Certain interstate transactions
-
-&emsp;&emsp;A Bank Insurance Fund member which is a subsidiary of a bank holding company may not be the acquiring, assuming, or resulting depository institution in a transaction under subparagraph (A) unless the transaction would comply with the requirements of section 1842(d) of this title if, at the time of such transaction, the Savings Association Insurance Fund member involved in such transaction was a State bank that the bank holding company was applying to acquire.
-
-#### (G) Allocation of costs in event of default
-
-&emsp;&emsp;If any acquiring, assuming, or resulting depository institution is in default or danger of default at any time before this paragraph ceases to apply, any loss incurred by the Corporation shall be allocated between the Bank Insurance Fund and the Savings Association Insurance Fund, in amounts reflecting the amount of insured deposits of such acquiring, assuming, or resulting depository institution assessed by the Bank Insurance Fund and the Savings Association Insurance Fund, respectively, under subparagraph (B).
-
-#### (H) Subsequent approval of conversion transaction
-
-&emsp;&emsp;This paragraph shall cease to apply if—
-
-&emsp;&emsp;&emsp;(i) after the end of the moratorium period established by paragraph (2)(A), the Corporation approves an application by any acquiring, assuming, or resulting depository institution to treat the transaction described in subparagraph (A) as a conversion transaction; and
-
-&emsp;&emsp;&emsp;(ii) the acquiring, assuming, or resulting depository institution pays the amount of any exit and entrance fee assessed by the Corporation under subparagraph (E) of paragraph (2) with respect to such transaction.
-
-#### (I) “Acquiring, assuming, or resulting depository institution” defined
-
-&emsp;&emsp;For purposes of this paragraph, the term “acquiring, assuming, or resulting depository institution” means any insured depository institution which—
-
-&emsp;&emsp;&emsp;(i) results from any transaction described in paragraph (2)(B)(ii) and approved under this paragraph;
-
-&emsp;&emsp;&emsp;(ii) in connection with a transaction described in paragraph (2)(B)(iii) and approved under this paragraph, assumes any liability to pay deposits of another insured depository institution; or
-
-&emsp;&emsp;&emsp;(iii) in connection with a transaction described in paragraph (2)(B)(iv) and approved under this paragraph, acquires assets from any insured depository institution in consideration of the assumption of liability for any deposits of such institution.
-
-#### (J) Redesignated (I)
-
-#### (K) Adjustment of adjusted attributable deposit amount
-
-&emsp;&emsp;The amount determined under subparagraph (C)(i) for deposits acquired by March 31, 1995, shall be reduced by 20 percent for purposes of computing the adjusted attributable deposit amount for the payment of any assessment for any semiannual period that begins after September 30, 1996 (other than the special assessment imposed under section 2702(a) of such Act), for a Bank Insurance Fund member bank that, as of June 30, 1995—
-
-&emsp;&emsp;&emsp;(i) had an adjusted attributable deposit amount that was less than 50 percent of the total deposits of that member bank; or
-
-&emsp;&emsp;&emsp;(ii)(I) had an adjusted attributable deposit amount equal to less than 75 percent of the total assessable deposits of that member bank;
-
-&emsp;&emsp;&emsp;(II) had total assessable deposits greater than $5,000,000,000; and
-
-&emsp;&emsp;&emsp;(III) was owned or controlled by a bank holding company that owned or controlled insured depository institutions having an aggregate amount of deposits insured or treated as insured by the Bank Insurance Fund greater than the aggregate amount of deposits insured or treated as insured by the Savings Association Insurance Fund.
 
 #### (e) Liability of commonly controlled depository institutions
 
@@ -364,7 +174,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation, in its discretion, may exempt any insured depository institution from the provisions of this subsection if the Corporation determines that such exemption is in the best interests of the Bank Insurance Fund or the Savings Association Insurance Fund.
+&emsp;&emsp;The Corporation, in its discretion, may exempt any insured depository institution from the provisions of this subsection if the Corporation determines that such exemption is in the best interests of the Deposit Insurance Fund.
 
 #### (B) Condition
 
@@ -380,23 +190,15 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;Within 10 business days after the date of submission of any request for an exemption under this subparagraph together with such information as shall be reasonably requested by the Corporation, the Corporation shall make a determination on the request and shall so advise the applicant.
 
-#### (6) 5-year transition rule
+#### (6) Exclusion for institutions acquired in debt collections
 
-&emsp;During the 5-year period beginning on August 9, 1989—
-
-&emsp;&emsp;(A) no Savings Association Insurance Fund member shall have any liability to the Corporation under this subsection arising out of assistance provided by the Corporation or any loss incurred by the Corporation as a result of the default of a Bank Insurance Fund member which was acquired by such Savings Association Insurance Fund member or any affiliate of such member before August 9, 1989; and
-
-&emsp;&emsp;(B) no Bank Insurance Fund member shall have such liability with respect to assistance provided by or loss incurred by the Corporation as a result of the default of a Savings Association Insurance Fund member which was acquired by such Bank Insurance Fund member or any affiliate of such member before August 9, 1989.
-
-#### (7) Exclusion for institutions acquired in debt collections
-
-&emsp;Any depository institution shall not be treated as commonly controlled, for purposes of this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period asthe Corporation may determine after written application by the acquirer, if—
+&emsp;Any depository institution shall not be treated as commonly controlled, for purposes of this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period as the Corporation may determine after written application by the acquirer, if—
 
 &emsp;&emsp;(A) 1 depository institution controls another by virtue of ownership of voting shares acquired in securing or collecting a debt previously contracted in good faith; and
 
 &emsp;&emsp;(B) during the period beginning on August 9, 1989, and ending upon the expiration of the exclusion, the controlling bank and all other insured depository institution affiliates of such controlling bank comply fully with the restrictions of sections 371c and 371c–1 of this title, without regard to section 371c(d)(1) of this title, in transactions with the acquired insured depository institution.
 
-#### (8) Exception for certain FSLIC assisted institutions
+#### (7) Exception for certain FSLIC assisted institutions
 
 &emsp;No depository institution shall have any liability to the Corporation under this subsection as the result of the default of, or assistance provided with respect to, an insured depository institution which is an affiliate of such depository institution if—
 
@@ -410,47 +212,15 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(ii) is not otherwise in breach of the terms of any assistance agreement or note which would authorize the Federal Savings and Loan Insurance Corporation or such other successor entity, pursuant to the terms of such assistance agreement or note, to refuse to make such payments.
 
-#### (9) Commonly controlled defined
+#### (8) Commonly controlled defined
 
 &emsp;For purposes of this subsection, depository institutions are commonly controlled if—
 
-&emsp;&emsp;(A) such institutions are controlled by the same depository institution holding company (including any company required to file reports pursuant to section 1843(f)(6) of this title); or
+&emsp;&emsp;(A) such institutions are controlled by the same company; or
 
 &emsp;&emsp;(B) 1 depository institution is controlled by another depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491; Pub. L. 109–173, §8(a)(2)–(6), Feb. 15, 2006, 119 Stat. 3610, 3611.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §8(a)(2)–(6), (b), Feb. 15, 2006, 119 Stat. 3610, 3611, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)(5), by striking “the Bank Insurance Fund or the Savings Association Insurance Fund,” and inserting “the Deposit Insurance Fund,”;</i>
-
-<i>(2) in subsection (c)(4), by striking “deposit insurance fund” and inserting “Deposit Insurance Fund”;</i>
-
-<i>(3) in subsection (d), by striking paragraphs (2) and (3) and in paragraph (1):</i>
-
-<i>(A) in subparagraph (A), by striking “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund as required by section 1817 of this title” and inserting “the reserve ratio of the Deposit Insurance Fund”;</i>
-
-<i>(B) by striking subparagraph (B) and inserting the following:</i>
-
-#### <i>“(2) Fee credited to the Deposit Insurance Fund.—</i>
-
-&emsp;<i>“The fee paid by the depository institution under paragraph (1) shall be credited to the Deposit Insurance Fund.”;</i>
-
-<i>(C) by striking “(1) Uninsured institutions”; and</i>
-
-<i>(D) by redesignating subparagraphs (A) and (C) as paragraphs (1) and (3), respectively, and realigning the margins; and</i>
-
-<i>(4) in subsection (e):</i>
-
-<i>(A) in paragraph (5)(A), by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”; and</i>
-
-<i>(B) by striking paragraph (6) and by redesignating paragraphs (7), (8), and (9) as paragraphs (6), (7), and (8), respectively.</i>
-
-#### References in Text
-
-Section 2702(a) of the Deposit Insurance Funds Act of 1996, referred to in subsec. (d)(3)(K), is section 2702(a) of Pub. L. 104–208, which is set out as a note under section 1817 of this title.
+(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288;Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(2)–(6), Feb. 15, 2006, 119 Stat. 3610, 3611; Pub. L. 109–351, title VII, §703, Oct. 13, 2006, 120 Stat. 1986.)
 
 #### Prior Provisions
 
@@ -458,9 +228,37 @@ Section is derived from subsec. (f)(2) of former section 264 of this title. See 
 
 #### Amendments
 
-1996—Subsec. (b)(5). Pub. L. 104–208, §2704(d)(14)(B), which directed substitution of “Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund;”, was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (b)(5). Pub. L. 109–173, §8(a)(2), substituted “the Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund,”.
 
-Subsec. (d). Pub. L. 104–208, §2704(d)(14)(C) and (D), which directed the amendment of subsec. (d) by striking out par. (1) designation and heading, redesignating subpar. (A) of par. (1) as par. (1), realigning margin, and substituting “the reserve ratio of the Deposit Insurance Fund” for “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund”, striking out subpar. (B) of par. (1) and pars. (2) and (3) and adding new par. (2), and redesignating subpar. (C) of par. (1) as par. (3) and realigning margin, was not executed. See Effective Date of 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(B). See 1996 Amendment note below.
+
+Subsec. (c)(4). Pub. L. 109–173, §8(a)(3), substituted “Deposit Insurance Fund” for “deposit insurance fund”.
+
+Subsec. (d). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(C), (D). See 1996 Amendment note below.
+
+Subsec. (d)(1). Pub. L. 109–173, §8(a)(5) substituted, “the reserve ratio of the Deposit Insurance Fund” for “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund as required by section 1817 of this title” in subpar. (A), struck out par. (1) designation and heading, redesignated subpar. (A) as par. (1) and realigned margin, and struck out subpar. (B), the text of which read as follows: “The fee paid by the depository institution shall be credited to the Bank Insurance Fund if the depository institution becomes a Bank Insurance Fund member, and to the Savings Association Insurance Fund if the depository institution becomes a Savings Association Insurance Fund member.” Former subpar. (C) redesignated par. (3).
+
+Subsec. (d)(2). Pub. L. 109–173, §8(a)(4), (5)(B), added par. (2) and struck out former par. (2) which related to conversion transactions by insured depository institutions.
+
+Subsec. (d)(3). Pub. L. 109–173, §8(a)(4), (5)(D), redesignated par. (1)(C) of subsec. (d) as (3), realigned margin, and struck out former par. (3) which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments.
+
+Subsec. (e)(5)(A). Pub. L. 109–173, §8(a)(6)(A), substituted “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(E)(i). See 1996 Amendment note below.
+
+Subsec. (e)(6) to (9). Pub. L. 109–173, §8(a)(6)(B), (C), redesignated pars. (7) to (9) as (6) to (8), respectively, and struck out heading and text of former par. (6). Text read as follows: “During the 5-year period beginning on August 9, 1989—
+
+&emsp;“(A) no Savings Association Insurance Fund member shall have any liability to the Corporation under this subsection arising out of assistance provided by the Corporation or any loss incurred by the Corporation as a result of the default of a Bank Insurance Fund member which was acquired by such Savings Association Insurance Fund member or any affiliate of such member before August 9, 1989; and
+
+&emsp;“(B) no Bank Insurance Fund member shall have such liability with respect to assistance provided by or loss incurred by the Corporation as a result of the default of a Savings Association Insurance Fund member which was acquired by such Bank Insurance Fund member or any affiliate of such member before August 9, 1989.”
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(E)(ii), (iii). See 1996 Amendment note below.
+
+Subsec. (e)(8)(A). Pub. L. 109–351, §703, which directed general amendment of par. (9)(A) of subsec. (e), was executed by making the amendment to par. (8)(A) to reflect the probable intent of Congress and amendment by 109–173, §8(a)(6)(B), (C). Prior to amendment, subpar. (A) read as follows: “such institutions are controlled by the same depository institution holding company (including any company required to file reports pursuant to section 1843(f)(6) of this title); or”.
+
+1996—Subsec. (b)(5). Pub. L. 104–208, §2704(d)(14)(B), which directed substitution of “Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund;”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(C) and (D), which directed the amendment of subsec. (d) by striking out par. (1) designation and heading, redesignating subpar. (A) of par. (1) as par. (1), realigning margin, and substituting “the reserve ratio of the Deposit Insurance Fund” for “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund”, striking out subpar. (B) of par. (1) and pars. (2) and (3) and adding new par. (2), and redesignating subpar. (C) of par. (1) as par. (3) and realigning margin, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (d)(3)(A). Pub. L. 104–208, §2201(a)(1), substituted “if the transaction is approved by” for “with the prior written approval of”.
 
@@ -472,9 +270,9 @@ Subsec. (d)(3)(G) to (J). Pub. L. 104–208, §2201(a)(3), (4), redesignated sub
 
 Subsec. (d)(3)(K). Pub. L. 104–208, §2702(i)(2), added subpar. (K).
 
-Subsec. (e)(5)(A). Pub. L. 104–208, §2704(d)(14)(E)(i), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (e)(5)(A). Pub. L. 104–208, §2704(d)(14)(E)(i), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (e)(6) to (9). Pub. L. 104–208, §2704(d)(14)(E)(ii), (iii), which directed striking out par. (6) and redesignating pars. (7) to (9) as (6) to (8), respectively, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (e)(6) to (9). Pub. L. 104–208, §2704(d)(14)(E)(ii), (iii), which directed striking out par. (6) and redesignating pars. (7) to (9) as (6) to (8), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (b)(5). Pub. L. 103–325, §602(a)(2), substituted comma for semicolon at end.
 
@@ -484,7 +282,7 @@ Subsec. (d)(3)(E)(i). Pub. L. 103–325, §319(b)(2)(A), struck out “(and, in 
 
 Subsec. (d)(3)(E)(ii). Pub. L. 103–325, §319(b)(2)(B), struck out “or Board” after “responsible agency”.
 
-Subsec. (d)(3)(E)(iv). Pub. L. 103–325, §319(b)(2)(C), struck out “, and the appropriate Federal banking agency for any depository institution holding company,” after “responsible agency”, “each” before “such agency determines”, and “, and any depository institution holding company which controls such institution,” after “resulting depository institution”.
+Subsec. (d)(3)(E)(iv). Pub. L. 103–325, §319(b)(2)(C), struck out “, and the appropriate Federal bankingagency for any depository institution holding company,” after “responsible agency”, “each” before “such agency determines”, and “, and any depository institution holding company which controls such institution,” after “resulting depository institution”.
 
 Subsec. (d)(3)(F). Pub. L. 103–325, §319(b)(3), substituted “A Bank” for “The Board may not approve any transaction under subparagraph (A) in which the acquiring, assuming, or resulting depository institution is a Bank” and “may not be the acquiring, assuming, or resulting depository institution in a transaction under subparagraph (A) unless” for “unless the Board determines that”.
 
@@ -542,9 +340,11 @@ Subsecs. (d), (e). Pub. L. 101–73, §206(a)(7), added subsecs. (d) and (e).
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by section 2704(d)(14)(B)–(E) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by section 2704(d)(14)(B)–(E) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendments
 
@@ -560,7 +360,7 @@ Section 501(b) of Pub. L. 102–242 provided that: “The amendment made by subs
 
 #### Repeal of Duplicative Provisions
 
-Section 305 of Pub. L. 102–558 provided that: “In the event of the enactment of H.R. 5334 (An Act to amend and extend certain laws relating to housing and community development, and for other purposes) \[enacted as Pub. L. 102–550\], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act \[Oct. 28, 1992\]:
+Section 305 of Pub. L. 102–558 provided that: “In the event of the enactment of H.R. 5334 (An Act to amendand extend certain laws relating to housing and community development, and for other purposes) \[enacted as Pub. L. 102–550\], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act \[Oct. 28, 1992\]:
 
 &emsp;“(1) Section 1603(a)(3) of such Act \[amending section 1817 of this title and enacting provisions set out as a note under section 1817 of this title\].
 

@@ -26,5 +26,5 @@ Subsecs. (c), (d). Pub. L. 106–419, §401(c)(2), struck out subsecs. (c) and (
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–419 effective on the first day of the first month beginning more than one yearafter Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as an Effective Date note under section 1811 of this title.
+Amendment by Pub. L. 106–419 effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as an Effective Date note under section 1811 of this title.
 

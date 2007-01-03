@@ -19,24 +19,9 @@
 | [1511\.](%C2%A7%2001511%20-%20Bureaus%20in%20Department.md) | Bureaus in Department. |
 | [1511a.](%C2%A7%2001511a%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93219%2C%20%C2%A73%28a%29%282%29%2C%20Dec.%2028%2C%201977%2C%2091%20Stat.%201613.md) | Repealed. |
 | [1511b.](%C2%A7%2001511b%20-%20United%20States%20fishery%20trade%20officers.md) | United States fishery trade officers. |
-| (a) | Appointment. |
-| (b) | Assignment. |
-| (c) | Functions of fishery trade officers. |
-| (d) | Administration. |
 | [1511c.](%C2%A7%2001511c%20-%20Estuarine%20Programs%20Office.md) | Estuarine Programs Office. |
-| (a) | Establishment. |
-| (b) | Functions. |
-| (c) | Authorization. |
 | [1511d.](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Office.md) | Chesapeake Bay Office. |
-| (a) | Establishment. |
-| (b) | Functions. |
-| (c) | Chesapeake Bay fishery and habitat restoration small watershed grants program. |
-| (d) | Chesapeake Executive Council. |
-| (e) | Authorization of appropriations. |
 | [1511e.](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md) | Office of Space Commercialization. |
-| (a) | Establishment. |
-| (b) | Director. |
-| (c) | Functions of Office; duties of Director. |
 | [1512\.](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md) | Powers and duties of Department. |
 | [1513\.](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md) | Duties and powers vested in Department. |
 | [1513a.](%C2%A7%2001513a%20-%20Cost%20estimates%20for%20National%20Oceanic%20and%20Atmospheric%20Administration%20programs%20included%20in%20Department%20budget%20justification.md) | Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification. |
@@ -64,34 +49,14 @@
 | [1532\.](%C2%A7%2001532%20-%20Telecommunications%3B%20electromagnetic%20radiation%3B%20research%2C%20analysis%2C%20dissemination%20of%20information%3B%20other%20functions%20of%20Secretary.md) | Telecommunications; electromagnetic radiation; research, analysis, dissemination of information; other functions of Secretary. |
 | [1533\.](%C2%A7%2001533%20-%20Commerce%2C%20Science%2C%20and%20Technology%20Fellowship%20Program.md) | Commerce, Science, and Technology Fellowship Program. |
 | [1534\.](%C2%A7%2001534%20-%20Assessment%20of%20fees%20for%20access%20to%20environmental%20data.md) | Assessment of fees for access to environmental data. |
-| (a) | Basis of assessment. |
-| (b) | Eligible recipients; waiver of fees in cases of foreign governments and international organizations. |
-| (c) | Publication of fee schedules in Federal Register; initial schedule effective for three-year period. |
-| (d) | Effective date of assessments; progressive increments. |
-| (e) | Data archive center operations; availability of fees for expenses of centers. |
-| (f) | Report to Congressional committees. |
-| (g) | Other assessment authorities unaffected. |
 | [1535\.](%C2%A7%2001535%20-%20Office%20of%20Space%20Commerce%3B%20report%20of%20activities.md) | Office of Space Commerce; report of activities. |
 | [1536\.](%C2%A7%2001536%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md) | Prohibition against fraudulent use of “Made in America” labels. |
 | [1537\.](%C2%A7%2001537%20-%20Needs%20assessment%20for%20data%20management%2C%20archival%2C%20and%20distribution.md) | Needs assessment for data management, archival, and distribution. |
 | [1538\.](%C2%A7%2001538%20-%20Notice%20of%20reprogramming.md) | Notice of reprogramming. |
-| (a) | In general. |
-| (b) | Notice of reorganization. |
 | [1539\.](%C2%A7%2001539%20-%20Financial%20assistance.md) | Financial assistance. |
-| (a) | Processing of applications. |
-| (b) | Notification of applicant. |
-| (c) | Exemption. |
-| (d) | “Nondiscretionary assistance program” defined. |
 | [1540\.](%C2%A7%2001540%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 | [1541\.](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md) | Administrative Law Judges. |
 | [1542\.](%C2%A7%2001542%20-%20Establishment%20of%20the%20Ernest%20F.%20Hollings%20Scholarship%20Program.md) | Establishment of the Ernest F. Hollings Scholarship Program. |
-| (a) | Establishment. |
-| (b) | Purposes. |
-| (c) | Award. |
-| (d) | Eligibility. |
-| (e) | Distribution of funds. |
-| (f) | Funding. |
-| (g) | Scholarship repayment requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

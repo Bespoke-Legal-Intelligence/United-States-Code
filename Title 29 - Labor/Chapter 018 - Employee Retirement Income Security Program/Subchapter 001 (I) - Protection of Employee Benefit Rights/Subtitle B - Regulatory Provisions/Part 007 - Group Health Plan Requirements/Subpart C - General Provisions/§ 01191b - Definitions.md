@@ -82,7 +82,7 @@ For purposes of this part, the term “excepted benefits” means benefits under
 
 #### (4) Benefits not subject to requirements if offered as separate insurance policy
 
-&emsp;Medicare supplemental health insurance (as defined under section 1395ss(g)(1) of title 42), coverage supplemental to the coverage provided under chapter 55 of title 10, and similarsupplemental coverage provided to coverage under a group health plan.
+&emsp;Medicare supplemental health insurance (as defined under section 1395ss(g)(1) of title 42), coverage supplemental to the coverage provided under chapter 55 of title 10, and similar supplemental coverage provided to coverage under a group health plan.
 
 #### (d) Other definitions
 
@@ -114,7 +114,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, asamended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Effective Date
 

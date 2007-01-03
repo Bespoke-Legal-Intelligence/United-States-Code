@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director and in consultation with the Commissioner ofFood and Drugs, shall establish a program for the purpose of making one or more grants for the establishment and operation of one or more centers to carry out the activities specified in paragraph (2).
+&emsp;The Secretary, acting through the Director and in consultation with the Commissioner of Food and Drugs, shall establish a program for the purpose of making one or more grants for the establishment and operation of one or more centers to carry out the activities specified in paragraph (2).
 
 #### (2) Required activities
 

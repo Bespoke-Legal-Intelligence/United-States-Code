@@ -10,42 +10,23 @@
 | [1469b.](%C2%A7%2001469b%20-%20Auditing%20of%20transactions%20of%20Territorial%20and%20local%20governments.md) | Auditing of transactions of Territorial and local governments. |
 | [1469c.](%C2%A7%2001469c%20-%20Availability%20of%20services%2C%20facilities%2C%20and%20equipment%20of%20agencies%20and%20instrumentalities%20of%20United%20States%3B%20reimbursement%20requirements.md) | Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements. |
 | [1469d.](%C2%A7%2001469d%20-%20General%20technical%20assistance.md) | General technical assistance. |
-| (a) | Assistance with matters generally within responsibility of governments; methods of assistance. |
-| (b) | Agricultural plantings and physical facilities, assistance for peoples of Enewetak Atoll and Bikini Atoll. |
-| (c) | Extension of programs administered by Department of Agriculture to Guam, Northern Mariana Islands, etc. |
-| (d) | Authorization of appropriations. |
 | [1469e.](%C2%A7%2001469e%20-%20Insular%20government%20purchases.md) | Insular government purchases. |
 | 1470 to 1488. Repealed or Omitted. |  |
 | [1489\.](%C2%A7%2001489%20-%20Loss%20of%20title%20of%20United%20States%20to%20lands%20in%20territories%20through%20adverse%20possession%20or%20prescription%20forbidden.md) | Loss of title of United States to lands in territories through adverse possession or prescription forbidden. |
 | [1490\.](%C2%A7%2001490%20-%20Repealed.%20Mar.%203%2C%201933%2C%20ch.%20202%2C%20%C2%A71%2C%2047%20Stat.%201428.md) | Repealed. |
 | [1491\.](%C2%A7%2001491%20-%20License%2C%20permit%2C%20etc.%2C%20for%20transportation%20for%20storage%20or%20storage%20of%20spent%20nuclear%20fuel%20or%20high-level%20radioactive%20waste%3B%20prerequisites%E2%80%A6.md) | License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; “territory or possession” defined. |
 | [1492\.](%C2%A7%2001492%20-%20Energy%20resources%20of%20Caribbean%20and%20Pacific%20insular%20areas.md) | Energy resources of Caribbean and Pacific insular areas. |
-| (a) | Congressional findings. |
-| (b) | Congressional declaration of policy. |
-| (c) | Comprehensive energy plan. |
-| (d) | Demonstration of cost effective renewable energy technologies. |
-| (e) | Updating of plans; submission to Congress. |
-| (f) | Authorization of appropriations. |
-| (g) | Financial assistance. |
 | [1493\.](%C2%A7%2001493%20-%20Prosecution%3B%20authorization%20to%20seek%20review%3B%20local%20or%20Federal%20appellate%20courts%3B%20decisions%2C%20judgments%20or%20orders.md) | Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders. |
 | [1494\.](%C2%A7%2001494%20-%20Purposes.md) | Purposes. |
 | [1494a.](%C2%A7%2001494a%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
-| (a) | In general. |
-| (b) | Transmission date. |
 | [1494b.](%C2%A7%2001494b%20-%20Enforcement%20and%20administration%20in%20insular%20areas.md) | Enforcement and administration in insular areas. |
-| (a) | American Samoa. |
-| (b) | Guam. |
-| (c) | Northern Mariana Islands. |
-| (d) | Puerto Rico. |
-| (e) | Virgin Islands. |
-| (f) | Palau. |
 | [1494c.](%C2%A7%2001494c%20-%20Drug%20Enforcement%20Agency%20personnel%20assignments.md) | Drug Enforcement Agency personnel assignments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Codification
 
-The source of most sections of this chapter is the Revised Statutes enacted in 1873 and other early statutes. The Revised Statutes can no longer apply to contiguous territory because no such territory now exists. Asto noncontiguous territory, Guam, Puerto Rico, and the Virgin Islands each has its own organic act, providing a complete system of government, legislative, executive, and judicial. The Canal Zone has its own code of laws. The independence of the Philippine Islands was recognized by Proc. No. 2695, eff. July 4, 1946, set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse. The other possessions, such as Samoa, are covered by special provisions set out elsewhere in this title.
+The source of most sections of this chapter is the Revised Statutes enacted in 1873 and other early statutes. The Revised Statutes can no longer apply to contiguous territory because no such territory now exists. As to noncontiguous territory, Guam, Puerto Rico, and the Virgin Islands each has its own organic act, providing a complete system of government, legislative, executive, and judicial. The Canal Zone has its own code of laws. The independence of the Philippine Islands was recognized by Proc. No. 2695, eff. July 4, 1946, set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse. The other possessions, such as Samoa, are covered by special provisions set out elsewhere in this title.
 
 #### Ex. Ord. No. 13299. Interagency Group on Insular Areas
 

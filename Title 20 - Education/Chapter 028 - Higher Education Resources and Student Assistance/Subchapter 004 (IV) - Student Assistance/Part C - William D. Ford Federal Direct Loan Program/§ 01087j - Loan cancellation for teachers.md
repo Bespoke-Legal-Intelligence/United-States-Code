@@ -14,7 +14,7 @@ It is the purpose of this section to encourage individuals to enter and continue
 
 &emsp;&emsp;&emsp;(i) in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools; and
 
-&emsp;&emsp;&emsp;(ii) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title; and
+&emsp;&emsp;&emsp;(ii) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title, or meets the requirements of subsection (g)(3); and
 
 &emsp;&emsp;(B) is not in default on a loan for which the borrower seeks forgiveness.
 
@@ -76,17 +76,25 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 &emsp;No borrower may, for the same volunteer service, receive a benefit under both this section and subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
+#### (3) Private school teachers
+
+&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(A)(ii), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+
 #### (h) “Year” defined
 
 For the purpose of this section, the term “year” where applied to service as a teacher means an academic year as defined by the Secretary.
 
-(Pub. L. 89–329, title IV, §460, as added Pub. L. 105–244, title IV, §456, Oct. 7, 1998, 112 Stat. 1719; Pub. L. 108–409, §3(a)(1)(B), (b)(2), Oct. 30, 2004, 118 Stat. 2300, 2301.)
+(Pub. L. 89–329, title IV, §460, as added Pub. L. 105–244, title IV, §456, Oct. 7, 1998, 112 Stat. 1719; Pub. L. 108–409, §3(a)(1)(B), (b)(2), Oct. 30, 2004, 118 Stat. 2300, 2301; Pub. L. 109–171, title VIII, §8013(e)(2), Feb. 8, 2006, 120 Stat. 167.)
 
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–171, §8013(e)(2)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
+
+Subsec. (g)(3). Pub. L. 109–171, §8013(e)(2)(B), added par. (3).
 
 2004—Subsec. (b)(1)(A). Pub. L. 108–409, §3(a)(1)(B), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
 
@@ -96,9 +104,13 @@ The National and Community Service Act of 1990, referred to in subsec. (g)(2), i
 
 Subsec. (c)(3). Pub. L. 108–409, §3(b)(2), added par. (3).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
 #### Effective Date of 2004 Amendment; Transition Rule
 
-Amendment by section 3(b)(2) of Pub. L. 108–409 applicable only with respect to eligible individuals who are new borrowers (as defined in section 1003 of this title) on or after Oct. 1, 1998, and before June 30, 2007, see section 3(b)(3) of Pub. L. 108–409, as amended, set out as a note under section 1078–10 of this title.
+Amendment by section 3(b)(2) of Pub. L. 108–409 applicable only with respect to eligible individuals who are new borrowers (as defined in section 1003 of this title) on or after Oct. 1, 1998, see section 3(b)(3) of Pub. L. 108–409, as amended, set out as a note under section 1078–10 of this title.
 
 For transition rules relating to amendments made by section 3(a)(1)(B) of Pub. L. 108–409, see section 3(a)(2) of Pub. L. 108–409, set out as a note under section 1078–10 of this title.
 

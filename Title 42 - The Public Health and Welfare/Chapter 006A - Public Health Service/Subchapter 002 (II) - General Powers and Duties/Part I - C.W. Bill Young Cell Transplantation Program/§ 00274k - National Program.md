@@ -22,7 +22,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;(5) Members of the Advisory Council shall be chosen so as to ensure objectivity and balance and reduce the potential for conflicts of interest. The Secretary shall establish bylaws and procedures—
 
-&emsp;&emsp;(A) to prohibit any member of the Advisory Council who has an employment, governance, or financial affiliation with a donor center, recruitment organization, transplant center, or cord blood bank from participating in any decision that materially affectsthe center, recruitment organization, transplant center, or cord blood bank; and
+&emsp;&emsp;(A) to prohibit any member of the Advisory Council who has an employment, governance, or financial affiliation with a donor center, recruitment organization, transplant center, or cord blood bank from participating in any decision that materially affects the center, recruitment organization, transplant center, or cord blood bank; and
 
 &emsp;&emsp;(B) to limit the number of members of the Advisory Council with any such affiliation.
 
@@ -224,7 +224,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 &emsp;&emsp;(C) The Office shall operate a system for patient advocacy, which shall be separate from mechanisms for donor advocacy, and which shall serve patients for whom the Program is conducting, or has been requested to conduct, a search for a bone marrow donor or cord blood unit.
 
-&emsp;&emsp;(D) In the case of such a patient, the Office shall serve as an advocate for the patient by directly providing to the patient (or family members, physicians, or other individuals acting on behalf of the patient) individualized services with respect to efficiently utilizing the system under paragraphs (1) and\(2) of subsection (d) of this section to conduct an ongoing search for a bone marrow donor or cord blood unit and assist with information regarding third party payor matters.
+&emsp;&emsp;(D) In the case of such a patient, the Office shall serve as an advocate for the patient by directly providing to the patient (or family members, physicians, or other individuals acting on behalf of the patient) individualized services with respect to efficiently utilizing the system under paragraphs (1) and (2) of subsection (d) of this section to conduct an ongoing search for a bone marrow donor or cord blood unit and assist with information regarding third party payor matters.
 
 &emsp;&emsp;(E) In carrying out subparagraph (D), the Office shall monitor the system under paragraphs (1) and (2) of subsection (d) of this section to determine whether the search needs of the patient involved are being met, including with respect to the following:
 
@@ -292,13 +292,13 @@ Entities eligible to receive a contract under this section shall include private
 
 #### (2) Examination of records
 
-&emsp;The Secretary and the Comptroller General of the United States shall have access to any books, documents, papers, and records of the recipient of a contract or subcontract entered into under this section that are pertinent to the contract, for the purpose of conducting audits and examinations.
+&emsp;The Secretary and the Comptroller General of the United States shall have access to anybooks, documents, papers, and records of the recipient of a contract or subcontract entered into under this section that are pertinent to the contract, for the purpose of conducting audits and examinations.
 
 #### (n) Penalties for disclosure
 
 Any person who discloses the content of any record referred to in subsection (d)(4)(D) or (f)(5)(A) of this section without the prior written consent of the donor or potential donor with respect to whom the record is maintained, or in violation of the standards described in subsection (f)(5)(B) of this section, shall be imprisoned for not more than 2 years or fined in accordance with title 18, or both.
 
-(July 1, 1944, ch. 373, title III, §379, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279; amended Pub. L. 105–196, §2(a), (b)(1),\(c)–(g), July 16, 1998, 112 Stat. 631–635; Pub. L. 109–129, §3(a), Dec. 20, 2005, 119 Stat. 2553.)
+(July 1, 1944, ch. 373, title III, §379, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279; amended Pub. L. 105–196, §2(a), (b)(1), (c)–(g), July 16, 1998, 112 Stat. 631–635; Pub. L. 109–129, §3(a), Dec. 20, 2005, 119 Stat. 2553.)
 
 #### Amendments
 
@@ -384,7 +384,7 @@ Requirements.—The Secretary shall require each recipient of a contract under t
 
 &emsp;“(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research;
 
-&emsp;“(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
+&emsp;“(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of thePublic Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
 
 &emsp;“(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[section 274<i>l</i> of this title\], as amended by this Act.
 
@@ -394,7 +394,7 @@ Related Cord Blood Donors.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall establish a 3-year demonstration project under which qualified cord blood banks receiving a contract under this section may use a portion of the funding under such contract for the collection and storage of cord blood units for a family where a first-degree relative has been diagnosed with a condition that will benefit from transplantation (including selected blood disorders, malignancies, metabolic storage disorders, hemoglobinopathies, and congenitalimmunodeficiencies) at no cost to such family. Qualified cord blood banks collecting cord blood units under this paragraph shall comply with the requirements of paragraphs (1), (2), (3), and (5) of subsection (b).
+In general.—The Secretary shall establish a 3-year demonstration project under which qualified cord blood banks receiving a contract under this section may use a portion of the funding under such contract for the collection and storage of cord blood units for a family where a first-degree relative has been diagnosed with a condition that will benefit from transplantation (including selected blood disorders, malignancies, metabolic storage disorders, hemoglobinopathies, and congenital immunodeficiencies) at no cost to such family. Qualified cord blood banks collecting cord blood units under this paragraph shall comply with the requirements of paragraphs (1), (2), (3), and (5) of subsection (b).
 
 &emsp;“(2)
 
@@ -488,5 +488,5 @@ Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptrol
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 
-Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that with respect to requirements for the office ofpatient advocacy under subsec. (d) of this section, the Secretary of Health and Human Services was to ensure that, not later than 180 days after Oct. 1, 1998, such office was in compliance with all requirements that were additional to the requirements under this section in effect with respect to patient advocacy on the day before July 16, 1998.
+Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that with respect to requirements for the office of patient advocacy under subsec. (d) of this section, the Secretary of Health and Human Services was to ensure that, not later than 180 days after Oct. 1, 1998, such office was in compliance with all requirements that were additional to the requirements under this section in effect with respect to patient advocacy on the day before July 16, 1998.
 

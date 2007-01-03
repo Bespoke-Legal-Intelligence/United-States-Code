@@ -114,7 +114,7 @@ Boundaries.—The National Capital Service Area is in the District of Columbia a
 
 &emsp;(2)
 
-Streets and sidewalks included.—Where the area in paragraph (1) is bounded by a street, the street, and any sidewalk of the street, are included in the area.
+Streets and sidewalks included.—Where the area in paragraph (1) is bounded bya street, the street, and any sidewalk of the street, are included in the area.
 
 &emsp;(3)
 
@@ -132,7 +132,7 @@ Applicability of Other Provisions.—
 
 Provisions covering buildings and grounds in area not affected.—Except to the extent specifically provided by this section, this section does not—
 
-&emsp;&emsp;(A) apply to the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102, any other buildings and grounds under the care of the Architect of the Capitol, the Supreme Court Building and grounds as described in section 6101 of this title, and the Library of Congress buildings and grounds as defined in section 11 of the Act of August 4, 1950 (2 U.S.C. 167j); and
+&emsp;&emsp;(A) apply to the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102 of this title, any other buildings and grounds under the care of the Architect of the Capitol, the Supreme Court Building and grounds as described in section 6101 of this title, and the Library of Congress buildings and grounds as defined in section 11 of the Act of August 4, 1950 (2 U.S.C. 167j); and
 
 &emsp;&emsp;(B) repeal, amend, alter, modify, or supersede—
 
@@ -152,7 +152,7 @@ Availability of Services and Facilities.—As far as practicable, any service or
 
 Right To Participate in Election Not Affected by Residency.—An individual may not be denied the right to vote or otherwise participate in any manner in any election in the District of Columbia solely because the individual resides in the National Capital Service Area.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1211.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1211; Pub. L. 109–284, §6(24), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -198,7 +198,11 @@ In subsection (c), the words “Notwithstanding the foregoing provisions of this
 
 #### References in Text
 
-Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in subsec. (b)(1)(B)(i), are classified to sections 1961, 1966, 1967, 1922, and 1969, respectively, of Title 2, The Congress.
+Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in subsec. (b)(1)(B)(i), are classified tosections 1961, 1966, 1967, 1922, and 1969, respectively, of Title 2, The Congress.
 
 The District of Columbia Home Rule Act, referred to in subsec. (c), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2006—Subsec. (b)(1)(A). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
 

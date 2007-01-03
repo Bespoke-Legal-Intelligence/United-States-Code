@@ -12,7 +12,7 @@ The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792
 
 #### Codification
 
-Section was enacted as part of the Agricultural Act of 1954, and not as part of the Agricultural Act of 1949which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Agricultural Act of 1954, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Report of Dairy Product Purchases
 

@@ -44,7 +44,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(ii) the demand in that market is not supplied, to any substantial degree, by producers of the product in question located elsewhere in the United States.
 
-> &emsp;&emsp;In such appropriate circumstances, material injury, the threat of material injury, or material retardation of the establishment of an industry may be found to exist with respect to an industry even if the domestic industry as a whole, or those producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of that product, is not injured, if there is a concentration of dumpedimports or imports of merchandise benefiting from a countervailable subsidy into such an isolated market and if the producers of all, or almost all, of the production within that market are being materially injured or threatened by material injury, or if the establishment of an industry is being materially retarded, by reason of the dumped imports or imports of merchandise benefiting from a countervailable subsidy. The term “regional industry” means the domestic producers within a region who are treated as a separate industry under this subparagraph.
+> &emsp;&emsp;In such appropriate circumstances, material injury, the threat of material injury, or material retardation of the establishment of an industry may be found to exist with respect to an industry even if the domestic industry as a whole, or those producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of that product, is not injured, if there is a concentration of dumped imports or imports of merchandise benefiting from a countervailable subsidy into such an isolated market and if the producers of all, or almost all, of the production within that market are being materially injured or threatened by material injury, or if the establishment of an industry is being materially retarded, by reason of the dumped imports or imports of merchandise benefiting from a countervailable subsidy. The term “regional industry” means the domestic producers within a region who are treated as a separate industry under this subparagraph.
 
 #### (D) Product lines
 
@@ -104,7 +104,7 @@ For purposes of this subtitle—
 
 #### (C) Other factors
 
-&emsp;&emsp;The determination of whether a subsidy exists shall be made without regard to whether the recipient of the subsidy is publicly or privately owned and without regard to whether the subsidy is provided directly or indirectly on the manufacture, production, or export of merchandise. The administering authority is not required to considerthe effect of the subsidy in determining whether a subsidy exists under this paragraph.
+&emsp;&emsp;The determination of whether a subsidy exists shall be made without regard to whether the recipient of the subsidy is publicly or privately owned and without regard to whether the subsidy is provided directly or indirectly on the manufacture, production, or export of merchandise. The administering authority is not required to consider the effect of the subsidy in determining whether a subsidy exists under this paragraph.
 
 #### (D) Financial contribution
 
@@ -304,7 +304,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(i) Subparagraphs (B), (C), (D), and (E) shall not apply on or after the first day of the month that is 66 months after the WTO Agreement enters into force, unless the provisions of such subparagraphs are extended pursuant to section 3572(c) of this title.
 
-&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at the end of the 9-year period beginning on January 1, 1995. The Trade Representative shalldetermine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
+&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at the end of the 9-year period beginning on January 1, 1995. The Trade Representative shall determine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
 
 #### (6) Net countervailable subsidy
 
@@ -384,7 +384,7 @@ For purposes of this subtitle—
 
 #### (D) Special rules for agricultural products
 
-&emsp;&emsp;(i) The Commission shall not determine that there is no material injury or threat ofmaterial injury to United States producers of an agricultural commodity merely because the prevailing market price is at or above the minimum support price.
+&emsp;&emsp;(i) The Commission shall not determine that there is no material injury or threat of material injury to United States producers of an agricultural commodity merely because the prevailing market price is at or above the minimum support price.
 
 &emsp;&emsp;(ii) In the case of agricultural products, the Commission shall consider any increased burden on government income or price support programs.
 
@@ -820,7 +820,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country's status as a developing or least developed country with respect to any other law.
 
-(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat.176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### References in Text
 
@@ -878,7 +878,7 @@ Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of c
 
 > For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the product of any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
 
-Par. (7)(E)(i). Pub. L. 103–465, §266, amended heading and text of cl. (i) generally. Prior to amendment, textread as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
+Par. (7)(E)(i). Pub. L. 103–465, §266, amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
 
 Par. (7)(F)(i), (ii). Pub. L. 103–465, §222(c), amended cls. (i) and (ii) generally, substituting present provisions for provisions which listed factors in determining as well as basis for determining that an industry is threatened with material injury by reason of imports (or sales for importation) of the subject merchandise.
 

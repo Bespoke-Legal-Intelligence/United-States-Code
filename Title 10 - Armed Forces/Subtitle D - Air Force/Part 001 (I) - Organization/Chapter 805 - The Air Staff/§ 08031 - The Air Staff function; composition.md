@@ -52,7 +52,7 @@ Sept. 19, 1951, ch. 407, §201, 65 Stat. 327.
 
 10:1811(d).
 
-In subsection (a), the words “an Air Staff consisting of—” are substituted for the words “a staff, which shall be known as the Air Staff, and which shall consist of—”. The words “under regulations prescribed by the Secretary of the Air Force” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
+In subsection (a), the words “an Air Staff consisting of—” are substituted for the words “a staff, which shall be  known  as  the  Air  Staff,  and  which  shall  consist of—”. The words “under regulations prescribed by the Secretary of the Air Force” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
 In subsection (b), 10:1811(b) (proviso) is omitted as superseded by section 264(c) of this title.
 

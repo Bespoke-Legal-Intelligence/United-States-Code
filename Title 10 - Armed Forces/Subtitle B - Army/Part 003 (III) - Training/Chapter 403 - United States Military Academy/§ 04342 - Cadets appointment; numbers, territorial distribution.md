@@ -2,7 +2,7 @@
 
 (a) The authorized strength of the Corps of Cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,000 or such higher number as may be prescribed by the Secretary of the Army under subsection (j). Subject to that limitation, cadets are selected as follows:
 
-&emsp;(1) 65 cadets selected in order of merit as established by competitive examinations from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from, wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Army.
+&emsp;(1) 65 cadets selected in order of merit as established by competitive examinations from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from, wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability,and the percentage at which the disability is rated, is binding upon the Secretary of the Army.
 
 &emsp;(2) Five cadets nominated at large by the Vice President or, if there is no Vice President, by the President pro tempore of the Senate.
 
@@ -18,7 +18,7 @@
 
 &emsp;(8) Three cadets from Guam, nominated by the Delegate in Congress from Guam.
 
-&emsp;(9) Two cadet <sup>1</sup> from American Samoa, nominated by the Delegate in Congress from American Samoa.
+&emsp;(9) Two cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 &emsp;(10) One cadet from the Commonwealth of the Northern Mariana Islands, nominated by the resident representative from the commonwealth.
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) are, or who died while they were, retired with pay or granted retired or retainer pay;
 
-&emsp;&emsp;(C) are serving as members of reserve components and are credited with at least eightyears of service computed under section 12733 of this title; or
+&emsp;&emsp;(C) are serving as members of reserve components and are credited with at least eight years of service computed under section 12733 of this title; or
 
 &emsp;&emsp;(D) would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
 
@@ -90,7 +90,7 @@
 
 (4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of the Corps of Cadets of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, §532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, §524(a), title X, §1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, §532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, §524(a), title X, §1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, §1071(a)(28), Oct. 17, 2006, 120 Stat. 2399.)
 
 Historical and Revision Notes
 
@@ -173,6 +173,8 @@ In subsection (g), the words “(National Guard of the United States, the Air Na
 In subsection (h), the words “or shall hereafter be” are omitted as surplusage.
 
 #### Amendments
+
+2006—Subsec. (a)(9). Pub. L. 109–364 substituted “cadets” for “cadet”.
 
 2003—Subsec. (a)(6), (8). Pub. L. 108–136, §524(a)(1), substituted “Three” for “Two”.
 
@@ -294,21 +296,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Strength Limitations at United States Military Academy
 
-Pub. L. 106–65, div. A, title V, §531(a), Oct. 5, 1999, 113 Stat. 601, provided that:
-
-“(1) The Secretary of the Army shall take such action as necessary to ensure that the United States Military Academy is in compliance with the USMA cadet strength limit not later than the day before the last day of the 2001–2002 academic year.
-
-“(2) The Secretary of the Army may provide for a variance to the USMA cadet strength limit—
-
-&emsp;“(A) as of the day before the last day of the 1999–2000 academic year of not more than 5 percent; and
-
-&emsp;“(B) as of the day before the last day of the 2000–2001 academic year of not more than 21/2 percent.
-
-“(3) For purposes of this subsection—
-
-&emsp;“(A) the USMA cadet strength limit is the maximum of 4,000 cadets established for the Corps of Cadets at the United States Military Academy by section 511 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; \[former\] 10 U.S.C. 4342 note), reenacted in section 4342(a) of title 10, United States Code, by the amendment made by subsection (b)(1); and
-
-&emsp;“(B) the last day of an academic year is graduation day.”
+Pub. L. 106–65, div. A, title V, §531(a), Oct. 5, 1999, 113 Stat. 601, required the Secretary of the Army to take such action as necessary to ensure that the United States Military Academy was in compliance with the USMA cadet strength limit not later than the day before the last day of the 2001–2002 academic year.
 
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 
@@ -323,6 +311,4 @@ Section 803(a) of Pub. L. 94–106 provided that: “Notwithstanding any other p
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 
 Section 803(c) of Pub. L. 94–106 provided that: “It is the sense of Congress that, subject to the provisions of subsection (a) \[note set out above\], the Secretaries of the military departments shall, under the direction of the Secretary of Defense, continue to exercise the authority granted them in chapters 403, 603 and 903 of title 10, United States Code, but such authority must be exercised within a program providing for the orderly and expeditious admission of women to the academies, consistent with the needs of the services, with the implementation of such program upon enactment of this Act \[Oct. 7, 1975\].”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “cadets”.</i>
 

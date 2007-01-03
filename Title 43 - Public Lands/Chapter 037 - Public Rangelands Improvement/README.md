@@ -6,16 +6,10 @@
 | [1902\.](%C2%A7%2001902%20-%20Definitions.md) | Definitions. |
 | [1903\.](%C2%A7%2001903%20-%20Rangelands%20inventory%20and%20management%3B%20public%20availability.md) | Rangelands inventory and management; public availability. |
 | [1904\.](%C2%A7%2001904%20-%20Range%20improvement%20funding.md) | Range improvement funding. |
-| (a) | Authorization of additional appropriations. |
-| (b) | Availability of unappropriated funds for subsequent fiscal years. |
-| (c) | Fund limitations for prescribed uses; distribution, consultation and coordination; public hearings and meetings; interested parties; priority of cooperative agreements with range users. |
-| (d) | Environmental assessment record and environmental impact statement requirements. |
 | [1905\.](%C2%A7%2001905%20-%20Grazing%20fees%3B%20economic%20value%20of%20use%20of%20land%3B%20fair%20market%20value%20components%3B%20annual%20percentage%20change%20limitation.md) | Grazing fees; economic value of use of land; fair market value components; annual percentage change limitation. |
 | [1906\.](%C2%A7%2001906%20-%20Authority%20for%20cooperative%20agreements%20and%20payments%20effective%20as%20provided%20in%20appropriations.md) | Authority for cooperative agreements and payments effective as provided in appropriations. |
 | [1907\.](%C2%A7%2001907%20-%20National%20Grasslands%3B%20exemptions.md) | National Grasslands; exemptions. |
 | [1908\.](%C2%A7%2001908%20-%20Experimental%20stewardship%20program.md) | Experimental stewardship program. |
-| (a) | Scope of program. |
-| (b) | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

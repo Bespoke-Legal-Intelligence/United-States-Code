@@ -66,7 +66,7 @@ Oct. 30, 1970, Pub. L. 91–518, §304(d), (e), 84 Stat. 1332; restated Aug. 13,
 
 45:544(e)(1).
 
-In subsection (a), before clause (1), the words “issue and” are omitted because they are included in “have outstanding”. The words “in such amounts as it shall determine” are omitted as surplus. The words “oneissue of common stock and one issue of preferred stock” are substituted for “two issues of capital stock, a common and a preferred” for clarity. In clause (1), the word “designated” is omitted as surplus.
+In subsection (a), before clause (1), the words “issue and” are omitted because they are included in “have outstanding”. The words “in such amounts as it shall determine” are omitted as surplus. The words “one issue of common stock and one issue of preferred stock” are substituted for “two issues of capital stock, a common and a preferred” for clarity. In clause (1), the word “designated” is omitted as surplus.
 
 In subsection (b)(1)(A), the words “may not hold” are substituted for “may be issued and held only by any person other than” to eliminate unnecessary words.
 

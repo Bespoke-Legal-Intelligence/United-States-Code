@@ -146,7 +146,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (27) Target housing
 
-&emsp;The term “target housing” means any housing constructed prior to 1978, except housingfor the elderly or persons with disabilities (unless any child who is less than 6 years of age resides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary's discretion, may designate an earlier date.
+&emsp;The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities (unless any child who is less than 6 years of age resides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary, at the Secretary's discretion, may designate an earlier date.
 
 (Pub. L. 102–550, title X, §1004, Oct. 28, 1992, 106 Stat. 3898.)
 

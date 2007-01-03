@@ -4,6 +4,14 @@ This subchapter may be cited as the “Railroad Retirement Act of 1974”.
 
 (Aug. 29, 1935, ch. 812, §21, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1351.)
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 109–478, §1, Jan. 12, 2007, 120 Stat. 3573, provided that: “This Act \[amending section 231a of this title and enacting provisions set out as a note under section 231a of this title\] may be cited as the ‘Railroad Retirement Disability Earnings Act’.”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–305, §1, Oct. 6, 2006, 120 Stat. 1719, provided that: “This Act \[amending section 231f of this title\] may be cited as the ‘Railroad Retirement Technical Improvement Act of 2006’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–90, §1(a), Dec. 21, 2001, 115 Stat. 878, provided that: “This Act \[enacting section 231v of this title and subchapter E of chapter 22 of Title 26, Internal Revenue Code, amending sections 231a to 231f, 231n, 231n–1, 231q, 231r, and 231u of this title, sections 24, 72, 501, 3201, 3211, 3221, and 3231 of Title 26, and section 405 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 231b, 231c, and 231n of this title, sections 24 and 3211 of Title 26, and section 405 of Title 42\] may be cited as the ‘Railroad Retirement and Survivors’ Improvement Act of 2001’.”

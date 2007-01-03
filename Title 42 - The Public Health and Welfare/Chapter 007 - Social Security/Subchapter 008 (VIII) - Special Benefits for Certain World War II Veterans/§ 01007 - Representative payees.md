@@ -60,7 +60,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (2) Exemptions
 
-&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant anexemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
+&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant an exemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
 
 &emsp;(B) Paragraph (1)(C) shall not apply with respect to any person who is a creditor referred to in such paragraph if the creditor is—
 
@@ -110,7 +110,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a) of this section, the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to the legal guardian or legal representative of the qualified individual.
+&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit toa representative payee under subsection (a) of this section, the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to the legal guardian or legal representative of the qualified individual.
 
 #### (2) Specific requirements
 
@@ -126,7 +126,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment,the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
+&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment, the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
 
 #### (2) Special reports
 

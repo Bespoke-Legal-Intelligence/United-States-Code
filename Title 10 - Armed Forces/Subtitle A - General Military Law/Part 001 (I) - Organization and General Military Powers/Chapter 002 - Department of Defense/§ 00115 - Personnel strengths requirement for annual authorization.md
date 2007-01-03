@@ -46,7 +46,7 @@ Limitation on Appropriations for Military Personnel.—No funds may be appropria
 
 (d)
 
-Military Technician (Dual Status) End Strengths To Be Authorized by Law.—Congress shall authorize for each fiscal year the end strength for military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) duringthat fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.
+Military Technician (Dual Status) End Strengths To Be Authorized by Law.—Congress shall authorize for each fiscal year the end strength for military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.
 
 (e)
 
@@ -82,7 +82,7 @@ Authority for Service Secretary Variances for Active-Duty End Strengths.—Upon 
 
 Adjustment When Coast Guard is Operating as a Service in the Navy.—The authorized strength of the Navy under subsection (a)(1) is increased by the authorized strength of the Coast Guard during any period when the Coast Guard is operating as a service in the Navy.
 
-(i) <sup>1</sup>
+(i)
 
 Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In counting personnel for the purpose of the end strengths authorized pursuant to subsection (a)(1), persons in the following categories shall be excluded:
 
@@ -110,11 +110,9 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(12) Members of the National Guard on full-time National Guard duty for the purpose of providing command, administrative, training, or support services for the National Guard Challenge Program authorized by section 509 of title 32.
 
-(i) <sup>1</sup>
+&emsp;(13) Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
 
-Certain Full-Time National Guard Duty Personnel Excluded From Counting for Full-Time National Guard Duty End Strengths.—In counting full-time National Guard duty personnel for the purpose of end-strengths authorized pursuant to subsection (a)(1), persons involuntarily performing homeland defense activities under chapter 9 of title 32 shall be excluded.
-
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402.)
 
 #### Prior Provisions
 
@@ -122,7 +120,13 @@ A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973
 
 #### Amendments
 
-2004—Subsec. (a)(1)(A). Pub. L. 108–375, §416(a)(1), which directed insertion of “unless on active duty pursuant to subsection (b)” after “active-duty personnel”, was executed by making the insertion after “active-duty personnel” the second time appearing to reflect the probable intent of Congress.
+2006—Subsec. (a)(1)(A). Pub. L. 109–364, §1071(g)(1)(A), made technical correction to directory language of Pub. L. 108–375, §416(a)(1). See 2004 Amendment note below.
+
+Subsec. (i). Pub. L. 109–364, §1071(a)(1)(A), struck out heading and text of subsec. (i) enacted by Pub. L. 108–375, §512(b). Text read as follows: “In counting full-time National Guard duty personnel for the purpose of end-strengths authorized pursuant to subsection (a)(1), persons involuntarily performing homeland defense activities under chapter 9 of title 32 shall be excluded.”
+
+Subsec. (i)(13). Pub. L. 109–364, §1071(a)(1)(B), added par. (13).
+
+2004—Subsec. (a)(1)(A). Pub. L. 108–375, §416(a)(1), as amended by Pub. L. 109–364, §1071(g)(1)(A), inserted “unless on active duty pursuant to subsection (b)” after “funds appropriated for active-duty personnel”.
 
 Subsec. (a)(1)(B). Pub. L. 108–375, §416(a)(2), inserted “unless on active duty or full-time National Guard duty pursuant to subsection (b)” after “reserve personnel”.
 
@@ -218,6 +222,10 @@ Subsec. (g). Pub. L. 104–106, §513(a)(1), added subsec. (g).
 
 Subsec. (b)(2) to (4). Pub. L. 102–190, §312(a)(2), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the use of the civilian personnel of any component of the Department of Defense unless the end strength for civilian personnel of that component for that fiscal year has been authorized by law.”
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(1)(A) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–136, div. A, title IV, §403(d), Nov. 24, 2003, 117 Stat. 1452, provided that: “Subsection (d) of section 115 of title 10, United States Code, as added by subsection (a)(3), shall apply with respect to the budget request for fiscal year 2005 and thereafter.”
@@ -236,9 +244,9 @@ Pub. L. 108–375, div. A, title IV, §416(m), Oct. 28, 2004, 118 Stat. 1869, pr
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Additional Authority for Increases of Army Active Duty Personnel End Strengths for Fiscal Years 2005 Through 2009
+#### Additional Authority for Increases of Army Active Duty Personnel End Strengths for Fiscal Years 2008 and 2009
 
-Pub. L. 108–375, div. A, title IV, §403, Oct. 28, 2004, 118 Stat. 1863, as amended by Pub. L. 109–163, div. A, title IV, §403, Jan. 6, 2006, 119 Stat. 3219, provided that:
+Pub. L. 108–375, div. A, title IV, §403, Oct. 28, 2004, 118 Stat. 1863, as amended by Pub. L. 109–163, div. A, title IV, §403, Jan. 6, 2006, 119 Stat. 3219; Pub. L. 109–364, div. A, title IV, §403, Oct. 17, 2006, 120 Stat. 2169, provided that:
 
 “(a)
 
@@ -246,11 +254,11 @@ Authority.—
 
 &emsp;“(1)
 
-Army.—For each of fiscal years 2007, 2008, and 2009, the Secretary of Defense may, as the Secretary determines necessary for the purposes specified in paragraph (3), establish the active-duty end strength for the Army at a number greater than the number otherwise authorized by law up to the number equal to the fiscal-year 2006 baseline plus 20,000.
+Army.—For each of fiscal years 2008 and 2009, the Secretary of Defense may, as the Secretary determines necessary for the purposes specified in paragraph (3), establish the active-duty end strength for the Army at a number greater than the number otherwise authorized by law up to the number equal to the fiscal-year 2007 baseline plus 20,000.
 
 &emsp;“(2)
 
-Marine corps.—For each of fiscal years 2007, 2008, and 2009, the Secretary of Defense may, as the Secretary determines necessary for the purposes specified in paragraph (3), establish the active-duty end strength for the Marine Corps at a number greater than the number otherwise authorized by law up to the number equal to the fiscal-year 2006 baseline plus 5,000.
+Marine corps.—For each of fiscal years 2008 and 2009, the Secretary of Defense may, as the Secretary determines necessary for the purposes specified in paragraph (3), establish the active-duty end strength for the Marine Corps at a number greater than the number otherwise authorized by law up to the number equal to the fiscal-year 2007 baseline plus 4,000.
 
 &emsp;“(3)
 
@@ -262,11 +270,11 @@ Purpose of increases.—The purposes for which increases may be made in Army and
 
 &emsp;“(4)
 
-Fiscal-year 2006 baseline.—In this subsection, the term ‘fiscal-year 2006 baseline’, with respect to the Army and Marine Corps, means the active-duty end strength authorized for those services in section 401 of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163, set out below\].
+Fiscal-year 2007 baseline.—In this subsection, the term ‘fiscal-year 2007 baseline’, with respect to the Army and Marine Corps, means the active-duty end strength authorized for those services in section 401 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 120 Stat. 2168\].
 
 &emsp;“(5)
 
-Active-duty end strength.—In this subsection, the term ‘active-duty end strength’ means the strength for active-duty personnel of one \[of\] the Armed Forces as of the last day of a fiscal year.
+Active-duty end strength.—In this subsection, the term ‘active-duty end strength’ means the strength for active-duty personnel of one of the Armed Forces as of the last day of a fiscal year.
 
 “(b)
 
@@ -282,39 +290,23 @@ Budget Treatment.—
 
 &emsp;“(1)
 
-Fiscal year 2007 budget.—The budget for the Department of Defense for fiscal year 2007 as submitted to Congress shall comply, with respect to funding, with subsections (c) and (d) of section 691 of title 10, United States Code.
+Fiscal year 2008 budget.—The budget for the Department of Defense for fiscal year 2008 as submitted to Congress shall comply, with respect to funding, with subsections (c) and (d) of section 691 of title 10, United States Code.
 
 &emsp;“(2)
 
-Other increases.—If the Secretary of Defense plans to increase the Army or Marine Corps active duty end strength for a fiscal year under subsection (a), then the budget for the Department of Defensefor that fiscal year as submitted to Congress shall include the amounts necessary for funding that active duty end strength in excess of the fiscal year 2006 active duty end strength authorized for that service under section 401 of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163, set out below\].”
+Other increases.—If the Secretary of Defense plans to increase the Army or Marine Corps active duty end strength for a fiscal year under subsection (a), then the budget for the Department of Defense for that fiscal year as submitted to Congress shall include the amounts necessary for funding that active duty end strength in excess of the fiscal year 2007 active duty end strength authorized for that service under section 401 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 120 Stat. 2168\].”
+
+\[Pub. L. 109–364, div. A, title IV, §403, Oct. 17, 2006, 120 Stat. 2169, provided that the amendment made by that section to section 403 of Pub. L. 108–375, set out above, is effective Oct. 1, 2007.\]
 
 \[Pub. L. 109–163, div. A, title IV, §403, Jan. 6, 2006, 119 Stat. 3219, provided that the amendment made by that section to section 403 of Pub. L. 108–375, set out above, is effective Oct. 1, 2006.\]
 
 #### Authorization for Increase in Active-Duty End Strengths for Fiscal Year 1996
 
-Section 432 of Pub. L. 104–106 provided that:
-
-“(a)
-
-Authorization.—There is hereby authorized to be appropriated to the Department of Defense for fiscal year 1996 for military personnel the sum of $112,000,000. Any amount appropriated pursuant to this section shall be allocated, in such manner as the Secretary of Defense prescribes, among appropriations for active-component military personnel for that fiscal year and shall be available only to increase the number of members of the Armed Forces on active duty during that fiscal year (compared to the number of members that would be on active duty but for such appropriation).
-
-“(b)
-
-Effect on End Strengths.—The end-strength authorizations in section 401 \[set out below\] shall each be deemed to be increased by such number as necessary to take account of additional members of the Armed Forces authorized by the Secretary of Defense pursuant to subsection (a).”
+Pub. L. 104–106, div. A, title IV, §432, Feb. 10, 1996, 110 Stat. 290, authorized $112,000,000 to be appropriated to the Department of Defense for fiscal year 1996 to increase the number of active-component military personnel for that fiscal year and provided that end-strength authorizations would each be deemed to be increased as necessary.
 
 #### End Strengths for Military Technicians (Dual Status)
 
-Pub. L. 109–163, div. A, title IV, §413, Jan. 6, 2006, 119 Stat. 3221, provided that: “The minimum number of military technicians (dual status) as of the last day of fiscal year 2006 for the reserve components of the Army and the Air Force (notwithstanding section 129 of title 10, United States Code) shall be the following:
-
-&emsp;“(1) For the Army Reserve, 7,649.
-
-&emsp;“(2) For the Army National Guard of the United States, 25,563.
-
-&emsp;“(3) For the Air Force Reserve, 9,852.
-
-&emsp;“(4) For the Air National Guard of the United States, 22,971.”
-
-Similar provisions were contained in the following prior authorization acts:
+Pub. L. 109–163, div. A, title IV, §413, Jan. 6, 2006, 119 Stat. 3221, which authorized the minimum number of military technicians (dual status) as of the last day of a fiscal year for each of the reserve components of the Army and the Air Force, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 108–375, div. A, title IV, §413, Oct. 28, 2004, 118 Stat. 1865.
 
@@ -338,41 +330,15 @@ Pub. L. 104–106, div. A, title V, §513(b), Feb. 10, 1996, 110 Stat. 305.
 
 #### Comptroller General Review of Proposed Army End Strength Allocations
 
-Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001, the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Army through the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit to Congress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
+Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001, the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Army through the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit toCongress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
 
 #### Effect of Reserve Component on Computation of End Strength Limitation for Active Forces for Fiscal Year 1995
 
-Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, provided that a member of a reserve component who is on active duty under a call or order to active duty for 180 days or more for activities under section 168 of this title shall not be counted (under section 115(a)(1) of this title) against the applicable end strength limitation for members of the Armed Forces on active duty for fiscal year 1995 prescribed in section 401 of Pub. L. 103–337, formerly set out below.
+Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, provided that a member of a reserve component who is on active duty under a call or order to active duty for 180 days or more for activities under section 168 of this title shall not be counted (under subsec. (a)(1) of this section) against the applicable end strength limitation for members of the Armed Forces on active duty for fiscal year 1995 prescribed in section 401 of Pub. L. 103–337, formerly set out below.
 
 #### End Strengths for Active Forces
 
-Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, provided that:
-
-“(a)
-
-In General.—The Armed Forces are authorized strengths for active duty personnel as of September 30, 2006, as follows:
-
-&emsp;“(1) The Army, 512,400.
-
-&emsp;“(2) The Navy, 352,700.
-
-&emsp;“(3) The Marine Corps, 179,000.
-
-&emsp;“(4) The Air Force, 357,400.
-
-“(b)
-
-Limitation.—
-
-&emsp;“(1)
-
-Army.—The authorized strength for the Army provided in paragraph (1) of subsection (a) for active duty personnel for fiscal year 2006 is subject to the condition that costs of active duty personnel of the Army for that fiscal year in excess of 482,400 shall be paid out of funds authorized to be appropriated for that fiscal year for a contingent emergency reserve fund or as an emergency supplemental appropriation.
-
-&emsp;“(2)
-
-Marine corps.—The authorized strength for the Marine Corps provided in paragraph (3) of subsection (a) for active duty personnel for fiscal year 2006 is subject to the condition that costs of active duty personnel of the Marine Corps for that fiscal year in excess of 175,000 shall be paid out of funds authorized to be appropriated for that fiscal year for a contingent emergency reserve fund or as an emergency supplemental appropriation.”
-
-Similar provisions were contained in the following prior authorization acts:
+Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, which authorized specified strengths for Armed Forces active duty personnel as of Sept. 30, 2006, and provided that costs for that fiscal year of active duty personnel of the Army and the Marine Corps in excess of specified amounts would be paid out of funds authorized to be appropriated for that fiscal year for a contingent emergency reserve fund or as an emergency supplemental appropriation, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 108–375, div. A, title IV, §401, Oct. 28, 2004, 118 Stat. 1862.
 
@@ -451,6 +417,4 @@ Section 711 of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title
 #### Operation Desert Shield Increase in End Strengths of Active Duty Personnel; Authority; Certification
 
 Section 1117 of Pub. L. 101–510, authorized Secretary of Defense, after determining that operational requirements of Operation Desert Shield so require, to increase the end strengths of active duty personnel for fiscal year 1991 by an amount not greater than 0.5 percent of the total end strengths authorized by section 401 of Pub. L. 101–510, set out above, and required certification by Secretary to Committees on Armed Services of Senate and House of Representatives of necessity of such increase, prior to repeal by Pub. L. 102–25, title II, §204, Apr. 6, 1991, 105 Stat. 80.
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

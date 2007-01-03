@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–36, §1(a), June 25, 2003, 117 Stat. 800, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Keeping Children and Families Safe Act of 2003’.”
+Pub. L. 108–36, §1(a), June 25, 2003, 117 Stat. 800, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Keeping Children and Families Safe Act of 2003’.”
 
 #### Short Title of 1998 Amendment
 
@@ -64,13 +64,13 @@ Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections
 
 For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, as the “Howard M. Metzenbaum Multiethnic Placement Act of 1994”, see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
 
-#### Short Title of 1993 Amendment
-
-Pub. L. 103–209, §1, Dec. 20, 1993, 107 Stat. 2490, provided that: “This Act \[enacting sections 5119 to 5119c of this title and amending section 3759 of this title\] may be cited as the ‘National Child Protection Act of 1993’.”
-
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–295, §1(a), May 28, 1992, 106 Stat. 187, provided that: “This Act \[enacting sections 5106f–1, 10414, and 10415 of this title, amending sections 5102, 5105, 5106, 5106a, 5106a–1, 5106c, 5106h, 5111, 5113, 5115, 5116, 5116b to 5116d, 5117c, 5117d, 5118e, 10401 to 10405, 10407 to 10410, 10412, and 10413 of this title, repealing section 5112 of this title, and enacting provisions set out as notes under this section and sections 5106a, 5106h, 5117, 10401, and 10402 of this title\] may be cited as the ‘Child Abuse, Domestic Violence, Adoption and Family Services Act of 1992’.”
+
+#### Short Title of 1991 Amendment
+
+Pub. L. 102–236, §1, Dec. 12, 1991, 105 Stat. 1812, provided that: “This Act \[amending sections 5117aa to 5117aa–12 and 5117aa–22 of this title and provisions set out as a note under section 623 of Title 29, Labor\] may be cited as the ‘Abandoned Infants Assistance Act Amendments of 1991’.”
 
 #### Short Title of 1989 Amendment
 
@@ -86,8 +86,6 @@ Section 1 of Pub. L. 99–401 provided that: “This Act \[enacting subchapter I
 
 Section 101 of title I of Pub. L. 99–401 provided that: “This title \[enacting section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Children's Justice Act’.”
 
-For short title of title II of Pub. L. 99–401, which enacted subchapter IV of this chapter, as the “Temporary Child Care for Handicapped Children and Crisis Nurseries Act of 1986”, see section 201 of Pub. L. 99–401, set out as a Short Title note under section 5117 of this title.
-
 #### Short Title of 1984 Amendment
 
 Section 1 of Pub. L. 98–457 provided: “That this Act \[enacting chapter 110 of this title, amending this section and sections 5102 to 5106, 5111 to 5113, and 5115 of this title, and enacting provisions set out as notes under this section and sections 5102, 5103, and 10401 of this title\] may be cited as the ‘Child Abuse Amendments of 1984’.”
@@ -98,7 +96,13 @@ Section 1 of Pub. L. 95–266 provided: “That this Act \[enacting subchapter I
 
 #### Short Title
 
-Section 1(a), formerly §1, of Pub. L. 93–247, as renumbered §1(a) and amended by Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 102, provided that: “This Act \[enacting this subchapter and subchapters III and V of this chapter\] may be cited as the ‘Child Abuse Prevention and Treatment Act’.”
+Pub. L. 93–247, §1(a), formerly §1, Jan. 31, 1974, 88 Stat. 4, as renumbered §1(a) and amended by Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 102, provided that: “This Act \[enacting this subchapter and subchapters III and V of this chapter\] may be cited as the ‘Child Abuse Prevention and Treatment Act’.”
+
+For short title of title II of Pub. L. 99–401, which enacted subchapter IV of this chapter, as the “Temporary Child Care for Handicapped Children and Crisis Nurseries Act of 1986”, see section 201 of Pub. L. 99–401, formerly set out as a note under section 5117 of this title.
+
+Pub. L. 100–505, §1, Oct. 18, 1988, 102 Stat. 2533, provided that: “This Act \[enacting subchapter IV–A of this chapter and provisions formerly set out as a note under section 670 of this title\] may be cited as the ‘Abandoned Infants Assistance Act of 1988’.”
+
+Pub. L. 103–209, §1, Dec. 20, 1993, 107 Stat. 2490, provided that: “This Act \[enacting subchapter VI of this chapter and amending section 3759 of this title\] may be cited as the ‘National Child Protection Act of 1993’.”
 
 #### Regulations
 
@@ -122,7 +126,7 @@ Section 127 of Pub. L. 98–457 provided that:
 
 #### Presidential Commission on Child and Youth Deaths
 
-Section 106 of Pub. L. 100–294 established a National Commission on Child and Youth Deaths to study and evaluate comprehensively Federal, State, and local public and private resources which affect child andyouth deaths and to prepare and transmit to President and appropriate committees of Congress a report within 12 months after appointment of the Commission, and provided that the Commission terminates 90 days after transmitting the report.
+Section 106 of Pub. L. 100–294 established a National Commission on Child and Youth Deaths to study and evaluate comprehensively Federal, State, and local public and private resources which affect child and youth deaths and to prepare and transmit to President and appropriate committees of Congress a report within 12 months after appointment of the Commission, and provided that the Commission terminates 90 days after transmitting the report.
 
 #### Acquisition of Statistical Data
 

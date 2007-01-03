@@ -62,7 +62,7 @@ Nonhub Airports.—With respect to a project at a commercial service airport whi
 
 (d)
 
-Determination of Passenger Boarding at Commercial Service Airports.—For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection\(b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or the preceding calendar year, whichever is more beneficial to the airport.
+Determination of Passenger Boarding at Commercial Service Airports.—For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection (b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or thepreceding calendar year, whichever is more beneficial to the airport.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 103–305, title I, §117, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(69), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §152(b), Apr. 5, 2000, 114 Stat. 87; Pub. L. 108–176, title I, §§149(d), 166, Dec. 12, 2003, 117 Stat. 2505, 2514.)
 

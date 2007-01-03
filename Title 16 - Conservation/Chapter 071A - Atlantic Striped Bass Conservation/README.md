@@ -3,33 +3,13 @@
 | Sec. |  |
 | :--- | ---: |
 | [5151\.](%C2%A7%2005151%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purpose. |
 | [5152\.](%C2%A7%2005152%20-%20Definitions.md) | Definitions. |
 | [5153\.](%C2%A7%2005153%20-%20Monitoring%20of%20implementation%20and%20enforcement%20by%20coastal%20States.md) | Monitoring of implementation and enforcement by coastal States. |
-| (a) | Determination. |
-| (b) | Satisfactory State enforcement. |
-| (c) | Notification of Secretaries. |
 | [5154\.](%C2%A7%2005154%20-%20Moratorium.md) | Moratorium. |
-| (a) | Secretarial action after notification. |
-| (b) | Prohibited acts during moratorium. |
-| (c) | Civil penalties. |
-| (d) | Enforcement. |
-| (e) | Regulations. |
 | [5155\.](%C2%A7%2005155%20-%20Continuing%20studies%20of%20striped%20bass%20populations.md) | Continuing studies of striped bass populations. |
-| (a) | In general. |
-| (b) | Socio-economic study. |
-| (c) | Reports. |
 | [5156\.](%C2%A7%2005156%20-%20Authorization%20of%20appropriations%3B%20cooperative%20agreements.md) | Authorization of appropriations; cooperative agreements. |
-| (a) | Authorization. |
-| (b) | Cooperative agreements. |
 | [5157\.](%C2%A7%2005157%20-%20Public%20participation%20in%20preparation%20of%20management%20plans%20and%20amendments.md) | Public participation in preparation of management plans and amendments. |
-| (a) | Standards and procedures. |
-| (b) | Application. |
 | [5158\.](%C2%A7%2005158%20-%20Protection%20of%20striped%20bass%20in%20the%20exclusive%20economic%20zone.md) | Protection of striped bass in the exclusive economic zone. |
-| (a) | Regulation of fishing in exclusive economic zone. |
-| (b) | Consultation; periodic review of regulations. |
-| (c) | Applicability of Magnuson Act provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

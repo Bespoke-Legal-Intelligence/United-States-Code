@@ -22,7 +22,7 @@
 
 #### (B) Waiver for mentally incompetent participant
 
-&emsp;&emsp;The time limitation may be waived by the Director for a participant who, at the date ofseparation from the Agency or within one year thereafter, is mentally incompetent, if the application is filed with the Agency within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
+&emsp;&emsp;The time limitation may be waived by the Director for a participant who, at the date of separation from the Agency or within one year thereafter, is mentally incompetent, if the application is filed with the Agency within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
 
 #### (b) Computation of disability annuity
 

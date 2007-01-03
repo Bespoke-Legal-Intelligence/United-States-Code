@@ -28,7 +28,7 @@ R.S. §3709 derived from act Mar. 2, 1861, ch. 84, §10, 12 Stat. 220.
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+Amendment by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Exemption of Functions
 

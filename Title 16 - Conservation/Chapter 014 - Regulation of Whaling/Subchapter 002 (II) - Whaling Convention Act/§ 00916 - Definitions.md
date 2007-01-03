@@ -20,7 +20,7 @@ When used in this subchapter—
 
 (i) Whale products: The words “whale products” mean any unprocessed part of a whale and blubber, meat, bones, whale oil, sperm oil, spermaceti, meal, and baleen.
 
-(j) Whaling: The word “whaling” means the scouting for, hunting, killing, taking, towing,holding onto, and flensing of whales, and the possession, treatment, or processing of whales or of whale products.
+(j) Whaling: The word “whaling” means the scouting for, hunting, killing, taking, towing, holding onto, and flensing of whales, and the possession, treatment, or processing of whales or of whale products.
 
 (k) Regulations of the Commission: The words “regulations of the Commission” mean the whaling regulations in the schedule annexed to and constituting a part of the convention in their original form or as modified, revised, or amended by the Commission from time to time, in pursuance of article V of the convention.
 

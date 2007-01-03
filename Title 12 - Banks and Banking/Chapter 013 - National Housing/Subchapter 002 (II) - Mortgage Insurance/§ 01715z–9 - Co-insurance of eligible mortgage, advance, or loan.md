@@ -42,7 +42,7 @@ Notwithstanding any other provision of this section, in the case of a mortgage i
 
 &emsp;(1) insurance benefits shall equal the sum of (A) 90 per centum of the mortgage on the date of institution of foreclosure proceedings (or on the date of acquisition of the property otherwise after default), and (B) 90 per centum of interest arrears on the date benefits are paid;
 
-&emsp;(2) the mortgagee shall remit to the Secretary, for credit to the General Insurance Fund, 90 per centum of any proceeds of the property, including sale proceeds, net of the mortgagee's actual and reasonable costs related to the property and the enforcement of security;
+&emsp;(2) the mortgagee shall remit to the Secretary, for credit to the General InsuranceFund, 90 per centum of any proceeds of the property, including sale proceeds, net of the mortgagee's actual and reasonable costs related to the property and the enforcement of security;
 
 &emsp;(3) payment of such benefits shall be made in cash unless the mortgagee submits a written request for debenture payment; and
 

@@ -4,47 +4,17 @@
 | :--- | ---: |
 | [831\.](%C2%A7%2000831%20-%20Creation%3B%20short%20title.md) | Creation; short title. |
 | [831a.](%C2%A7%2000831a%20-%20Membership%2C%20operation%2C%20and%20duties%20of%20the%20Board%20of%20Directors.md) | Membership, operation, and duties of the Board of Directors. |
-| (a) | Membership. |
-| (b) | Qualifications. |
-| (c) | Recommendations. |
-| (d) | Terms. |
-| (e) | Quorum. |
-| (f) | Compensation. |
-| (g) | Duties. |
-| (h) | Chief executive officer. |
-| (i) | Compensation plan. |
 | [831b.](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%E2%80%99%20compensation%20provisions.md) | Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions. |
-| (a) | Appointment by the chief executive officer. |
-| (b) | Wage rates. |
 | 831b–1. | Acceptance of services of volunteers. |
 | [831c.](%C2%A7%2000831c%20-%20Corporate%20powers%20generally%3B%20eminent%20domain%3B%20construction%20of%20dams%2C%20transmission%20lines%2C%20etc.md) | Corporate powers generally; eminent domain; construction of dams, transmission lines, etc. |
 | 831c–1. | Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacements, etc. |
-| (a) | Structures on Tennessee River or tributaries. |
-| (b) | Suit on contracts. |
 | 831c–2. | Civil actions for injury or loss of property or personal injury or death. |
-| (a) | Exclusiveness of remedy. |
-| (b) | Representation and removal. |
 | 831c–3. | Law enforcement. |
-| (a) | Designation of law enforcement agents. |
-| (b) | Duties and powers. |
-| (c) | Area of jurisdiction. |
-| (d) | Federal investigative jurisdiction and State civil and criminal jurisdiction not preempted. |
-| (e) | Determination of adjoining areas. |
-| (f) | Qualifications and training. |
-| (g) | Relation to other law. |
-| (h) | Relationship with Attorney General. |
 | [831d.](%C2%A7%2000831d%20-%20Directors%3B%20maintenance%20and%20operation%20of%20plant%20for%20production%2C%20sale%2C%20and%20distribution%20of%20fertilizer%20and%20power.md) | Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power. |
 | [831e.](%C2%A7%2000831e%20-%20Officers%20and%20employees%3B%20nonpolitical%20appointment%3B%20removal%20for%20violation.md) | Officers and employees; nonpolitical appointment; removal for violation. |
 | [831f.](%C2%A7%2000831f%20-%20Control%20of%20plants%20and%20property%20vested%20in%20Corporation%3B%20transfer%20of%20other%20property%20to%20Corporation.md) | Control of plants and property vested in Corporation; transfer of other property to Corporation. |
 | [831g.](%C2%A7%2000831g%20-%20Principal%20office%20of%20Corporation%3B%20books%3B%20directors%E2%80%99%20oath.md) | Principal office of Corporation; books; directors’ oath. |
-| (a) | Location. |
-| (b) | Account books. |
-| (c) | Oath of office. |
 | [831h.](%C2%A7%2000831h%20-%20Annual%20financial%20statement%3B%20purchases%20and%20contracts%3B%20audit%20by%20Comptroller%20General.md) | Annual financial statement; purchases and contracts; audit by Comptroller General. |
-| (a) | Financial statement and report. |
-| (b) | Bids. |
-| (c) | Audits. |
-| (d) | Administrative accounts and business documents. |
 | 831h–1. | Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity. |
 | 831h–2. | Repealed. |
 | [831i.](%C2%A7%2000831i%20-%20Sale%20of%20surplus%20power%3B%20preferences%3B%20experimental%20work%3B%20acquisition%20of%20existing%20electric%20facilities.md) | Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities. |
@@ -54,33 +24,17 @@
 | 831<i>l.</i> | Financial assistance to States and local governments in lieu of taxation; apportionment; limitation on contracts for sale of power to municipalities; report to Congress. |
 | [831m.](%C2%A7%2000831m%20-%20Allocation%20and%20charge%20of%20value%20and%20cost%20of%20plants%20to%20particular%20objects%3B%20cost%20accounting%3B%20reports%20of%20costs%20of%20operation%3B%20sale%20of%20surplus%E2%80%A6.md) | Allocation and charge of value and cost of plants to particular objects; cost accounting; reports of costs of operation; sale of surplus power at profit. |
 | 831m–1. | Tennessee Valley Authority least-cost planning program. |
-| (a) | In general. |
-| (b) | Conduct of program. |
-| (c) | Participation by distributors. |
-| (d) | Public review and comment. |
-| (e) | Exemption from certain requirements. |
 | [831n.](%C2%A7%2000831n%20-%20Bonds%20for%20future%20construction%3B%20amount%2C%20terms%2C%20and%20conditions.md) | Bonds for future construction; amount, terms, and conditions. |
 | 831n–1. | Bonds to carry out provisions of section 831k–1; amount, terms, and conditions. |
 | 831n–2. | Bonds; limitation of issuance under sections 831n and 831n–1. |
 | 831n–3. | Use of funds; limitation of issuance. |
 | 831n–4. | Bonds for financing power program. |
-| (a) | Authorization; amount; use of proceeds; restriction on contracts for sale or delivery of power; exchange power arrangements; payment of principal and interest; bond contracts. |
-| (b) | Bonds not obligations of or guaranteed by United States; apportionment of proceeds. |
-| (c) | Sale; terms and conditions; method; limitation on amount; statement in annual report. |
-| (d) | Lawful investment; exemption from taxation. |
-| (e) | Payment of excess power proceeds into Treasury; deferral. |
-| (f) | Rates for sale of power; application of net proceeds. |
-| (g) | Power property; lease and lease-purchase agreements. |
-| (h) | Congressional declaration of intent. |
 | 831<i>o.</i> | Completion of unfinished plants authorized. |
 | [831p.](%C2%A7%2000831p%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20648.md) | Repealed. |
 | [831q.](%C2%A7%2000831q%20-%20Eminent%20domain%3B%20contracts%20for%20relocation%20of%20railroads%2C%20highways%2C%20industrial%20plants%2C%20etc.md) | Eminent domain; contracts for relocation of railroads, highways, industrial plants, etc. |
 | [831r.](%C2%A7%2000831r%20-%20Patents%3B%20access%20to%20Patent%20and%20Trademark%20Office%20and%20right%20to%20copy%20patents%3B%20compensation%20to%20patentees.md) | Patents; access to Patent and Trademark Office and right to copy patents; compensation to patentees. |
 | [831s.](%C2%A7%2000831s%20-%20Possession%20by%20Government%20in%20time%20of%20war%3B%20damages%20to%20contract%20holders.md) | Possession by Government in time of war; damages to contract holders. |
 | [831t.](%C2%A7%2000831t%20-%20Offenses%3B%20fines%20and%20punishment.md) | Offenses; fines and punishment. |
-| (a) | Larceny, embezzlement and conversion. |
-| (b) | False entry, report or statement. |
-| (c) | Conspiracy to defraud. |
 | [831u.](%C2%A7%2000831u%20-%20Surveys%3B%20cooperation%20with%20States%20or%20other%20agencies.md) | Surveys; cooperation with States or other agencies. |
 | [831v.](%C2%A7%2000831v%20-%20Legislation%20to%20carry%20out%20purposes%20of%20chapter%3B%20recommendation%20by%20President.md) | Legislation to carry out purposes of chapter; recommendation by President. |
 | [831w.](%C2%A7%2000831w%20-%20Acquisition%20of%20real%20or%20personal%20property%3B%20payment%20by%20delivery%20of%20power%3B%20sale%20or%20lease%20of%20vacant%20land%20for%20industrial%20purposes.md) | Acquisition of real or personal property; payment by delivery of power; sale or lease of vacant land for industrial purposes. |

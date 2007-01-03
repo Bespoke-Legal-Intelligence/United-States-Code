@@ -8,7 +8,7 @@ In order to assure continuous operation of all projects and project facilities g
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, asamended, which is classified generally to subchapter IV (§422a et seq.) of this chapter. For complete classification of this Act to the Code, see section 422k of this title and Tables.
+The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of this chapter. For complete classification of this Act to the Code, see section 422k of this title and Tables.
 
 The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), referred to in text, probably means act July 4, 1955, ch. 271, 69 Stat. 244, as amended, which is classified generally to sections 421a to 421h of this title. Act May 14, 1956, ch. 268, 70 Stat. 155, amended section 421c of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -32,7 +32,7 @@ Pub. L. 100–387, title IV, subtitle B, Aug. 11, 1988, 102 Stat. 957, provided 
 
 #### “SEC. 412. ASSISTANCE DURING DROUGHT.
 
-“The Secretary of the Interior, acting under the authorities of the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388), and Acts supplementary thereto and amendatory thereof) \[43 U.S.C. 371 et seq.\] and other appropriate authorities of the Secretary shall—
+“The Secretary of the Interior, acting under the authorities of the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388) \[see Short Title note under section 371 of this title\], and Acts supplementary thereto and amendatory thereof) and other appropriate authorities of the Secretary shall—
 
 &emsp;“(1)(A) perform studies to identify opportunities to augment, make use of, or conserve water supplies available to Federal reclamation projects and Indian water resource developments, which studies shall be completed no later than March 1, 1990; and
 
@@ -50,7 +50,7 @@ General Authority.—The Secretary of the Interior may make available, by contra
 
 Contracts.—Any contract signed under this section shall provide that—
 
-&emsp;“(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in section 202(3)(A) of Public Law 97–293, 43 U.S.C. 390bb) for those acres in excess of 960 acres or 320 acres, as appropriate;
+&emsp;“(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in section 202(3)(A) of Public Law97–293, 43 U.S.C. 390bb) for those acres in excess of 960 acres or 320 acres, as appropriate;
 
 &emsp;“(2) the lands not now subject to reclamation law that receive temporary irrigation water supplies under this section shall not become subject to the ownership limitations of Federal reclamation law because of the delivery of such temporary water supplies;
 

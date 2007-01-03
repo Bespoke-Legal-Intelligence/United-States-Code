@@ -6,7 +6,7 @@
 
 (2) For the purposes of this chapter, except as provided in subsection (b) of this section, the jurisdiction and authority of a State shall extend—
 
-&emsp;(A) to any pocket of waters that is adjacent to the State and totally enclosed by lines delimiting the territorial sea of the United States pursuant to the Geneva Convention on the Territorial Sea and Contiguous Zone or any successor convention to which the United States is a party;
+&emsp;(A) to any pocket of waters that is adjacent to the State and totally enclosed by lines delimiting the territorial sea of the United States pursuant to the Geneva Convention on the Territorial Sea and Contiguous Zone orany successor convention to which the United States is a party;
 
 &emsp;(B) with respect to the body of water commonly known as Nantucket Sound, to the pocket of water west of the seventieth meridian west of Greenwich; and
 
@@ -34,7 +34,7 @@
 
 > the Secretary shall promptly notify such State and the appropriate Council of such finding and of his intention to regulate the applicable fishery within the boundaries of such State (other than its internal waters), pursuant to such fishery management plan and the regulations promulgated to implement such plan.
 
-(2) If the Secretary, pursuant to this subsection, assumes responsibility for the regulation of any fishery, the State involved may atany time thereafter apply to the Secretary for reinstatement of its authority over such fishery. If the Secretary finds that the reasons for which he assumed such regulation no longer prevail, he shall promptly terminate such regulation.
+(2) If the Secretary, pursuant to this subsection, assumes responsibility for the regulation of any fishery, the State involved may at any time thereafter apply to the Secretary for reinstatement of its authority over such fishery. If the Secretary finds that the reasons for which he assumed such regulation no longer prevail, he shall promptly terminate such regulation.
 
 (3) If the State involved requests that a hearing be held pursuant to paragraph (1), the Secretary shall conduct such hearing prior to taking any action under paragraph (1).
 
@@ -70,6 +70,10 @@
 
 (Pub. L. 94–265, title III, §306, Apr. 13, 1976, 90 Stat. 355; Pub. L. 97–191, §1, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §9, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 98–623, title IV, §404(4), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §112, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 104–297, title I, §112(a)–(c), Oct. 11, 1996, 110 Stat. 3595, 3596.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1), (2), (3)(C) and (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
 #### Amendments
 
 1996—Subsec. (a)(3). Pub. L. 104–297, §112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
@@ -98,7 +102,7 @@ Section 3 of Pub. L. 97–191 provided that: “This Act \[amending this section
 
 #### Authority of States of Washington, Oregon, and California To Manage Dungeness Crab Fishery
 
-Pub. L. 105–384, title II, §203, Nov. 13, 1998, 112 Stat. 3453, as amended by Pub. L. 107–77, title VI, §624, Nov. 28, 2001, 115 Stat. 803, provided that:
+Pub. L. 105–384, title II, §203, Nov. 13, 1998, 112 Stat. 3453, as amended by Pub. L. 107–77, title VI, §624, Nov. 28, 2001, 115 Stat. 803; Pub. L. 109–479, title III, §302(e), Jan. 12, 2007, 120 Stat. 3624, provided that:
 
 “(a)
 
@@ -108,7 +112,7 @@ In General.—Subject to the provisions of this section and notwithstanding sect
 
 Requirements for State Management.—Any law or regulation adopted by a State under this section for a Dungeness crab fishery—
 
-&emsp;“(1) except as provided in paragraph (2), shall apply equally to vessels engaged in the fishery in the exclusive economic zone and vessels engaged in the fisheryin the waters of the State, and without regard to the State that issued the permit under which a vessel is operating;
+&emsp;“(1) except as provided in paragraph (2), shall apply equally to vessels engaged in the fishery in the exclusive economic zone and vessels engaged in the fishery in the waters of the State, and without regard to the State that issued the permit under which a vessel is operating;
 
 &emsp;“(2) shall not apply to any fishing by a vessel in exercise of tribal treaty rights except as provided in United States v. Washington, D.C. No. CV–70–09213, United States District Court for the Western District of Washington; and
 
@@ -128,7 +132,7 @@ State Authority Otherwise Preserved.—Except as expressly provided in this sect
 
 “(f)
 
-Termination of Authority.—The authority of the States of Washington, Oregon, and California under this section with respect to a Dungeness crab fishery shall expire on the effective date of a fishery management plan for the fishery under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
+Termination of Authority.—The authority of the States of Washington, Oregon, and California under this section with respect to a Dungeness crab fisheryshall expire on the effective date of a fishery management plan for the fishery under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
 
 “(g)
 
@@ -140,9 +144,15 @@ Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fi
 
 “(i)
 
-Sunset.—This section shall have no force or effect on and after September 30, 2006.
+Sunset.—This section shall have no force or effect on and after September 30, 2016.
 
-“(j) Not later than December 31, 2001, and every 2 years thereafter, the Pacific State Marine Fisheries Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report on the health and management of the Dungeness Crab fishery located off the coasts of the States of Washington, Oregon, and California.”
+“(j) Not later than December 31, 2001, and every 2 years thereafter, the Pacific State Marine Fisheries Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report on the status and management of the Dungeness Crab fishery located off the coasts of the States of Washington, Oregon, and California, including—
+
+&emsp;“(1) stock status and trends throughout its range;
+
+&emsp;“(2) a description of applicable research and scientific review processes used to determine stock status and trends; and
+
+&emsp;“(3) measures implemented or planned that are designed to prevent or end overfishing in the fishery.”
 
 Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
 

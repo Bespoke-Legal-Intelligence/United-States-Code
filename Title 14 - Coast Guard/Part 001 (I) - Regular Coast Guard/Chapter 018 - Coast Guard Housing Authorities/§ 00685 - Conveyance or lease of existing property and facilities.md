@@ -24,7 +24,7 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30,1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(3), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 

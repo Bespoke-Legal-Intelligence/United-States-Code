@@ -44,9 +44,19 @@ The Attorney General may evaluate the grants funded under this section through c
 
 #### (A) Tribal programs
 
-&emsp;&emsp;Of the amount made available under this subsection in each fiscal year, not less than 10 percent shall be used for grants for programs that assist adult and youth victims of domestic violence, dating violence, stalking, and sexual assault on lands within the jurisdiction of an Indian tribe.
+&emsp;&emsp;Of the amount made available under this subsection in each fiscal year, not less than 3 percent shall be used for grants for programs that assist adult and youth victims of domestic violence, dating violence, stalking, and sexual assault on lands within the jurisdiction of an Indian tribe.
 
-#### (B) Victims of sexual assault
+#### (B) Tribal government program
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not less than 7 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+
+#### (ii) Applicability of subchapter
+
+&emsp;&emsp;&emsp;The requirements of this section shall not apply to funds allocated for the program described in clause (i).
+
+#### (C) Victims of sexual assault
 
 &emsp;&emsp;Of the amount made available under this subsection in each fiscal year, not less than 25 percent shall be used for direct services, training, and technical assistance to support projects focused solely or primarily on providing legal assistance to victims of sexual assault.
 
@@ -54,13 +64,7 @@ The Attorney General may evaluate the grants funded under this section through c
 
 &emsp;Amounts made available under this section shall be used to supplement and not supplant other Federal, State, and local funds expended to further the purpose of this section.
 
-&emsp;(4) Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 <sup>1</sup> of this title. The requirements of this paragraph shall not apply to funds allocated for such program.
-
-(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, §103, title IX, §906(g), Jan. 5, 2006, 119 Stat. 2978, 3082.)
-
-#### References in Text
-
-Section 3796gg–10 of this title, referred to in subsec. (f)(4), was in the original a reference to section 2007 of Pub. L. 90–351, the Omnibus Crime Control and Safe Streets Act of 1968, and was translated as meaning the section 2007 of Pub. L. 90–351, as added by Pub. L. 109–162, §906(a), to reflect the probable intent of Congress. Another section 2007 of Pub. L. 90–351, as added by Pub. L. 103–322, §40121(a)(3), is classified to section 3796gg–1 of this title.
+(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, §103, title IX, §906(f), formerly §906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered §906(f), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §7(d)(1), Aug. 12, 2006, 120 Stat. 765.)
 
 #### Codification
 
@@ -80,9 +84,15 @@ Subsec. (e). Pub. L. 109–162, §103(5), which directed amendment identical to 
 
 Subsec. (f)(1). Pub. L. 109–162, §103(6)(A), added par. (1) and struck out former par. (1). Former text read as follows: “There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005.”
 
-Subsec. (f)(2)(A). Pub. L. 109–162, §103(6)(B), substituted “10 percent” for “5 percent” and inserted “adult and youth” after “that assist”.
+Subsec. (f)(2)(A). Pub. L. 109–271, §7(d)(1)(A)(i), substituted “3 percent” for “10 percent”.
 
-Subsec. (f)(4). Pub. L. 109–162, §906(g), added par. (4).
+Pub. L. 109–162, §103(6)(B), substituted “10 percent” for “5 percent” and inserted “adult and youth” after “that assist”.
+
+Subsec. (f)(2)(B), (C). Pub. L. 109–271, §7(d)(1)(A)(ii), (iii), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (f)(4). Pub. L. 109–271, §7(d)(1)(B), struck out par. (4) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.”
+
+Pub. L. 109–162, §906(f), formerly §906(g), as renumbered by Pub. L. 109–271, §7(b)(2)(B), added par. (4).
 
 2004—Subsec. (a). Pub. L. 108–405, §205(1), inserted “dating violence,” after “domestic violence,”.
 
@@ -92,7 +102,7 @@ Subsec. (c)(1). Pub. L. 108–405, §205(3)(A), inserted “, dating violence,�
 
 Subsec. (c)(2), (3). Pub. L. 108–405, §205(3)(B), (C), inserted “dating violence,” after “domestic violence,”.
 
-Subsec. (d)(1) to (3). Pub. L. 108–405, §205(4)(A)–(C), inserted “, dating violence,” afer “domestic violence”.
+Subsec. (d)(1) to (3). Pub. L. 108–405, §205(4)(A)–(C), inserted “, dating violence,” after “domestic violence”.
 
 Subsec. (d)(4). Pub. L. 108–405, §205(4)(D), inserted “dating violence,” after “domestic violence,”.
 
@@ -100,5 +110,7 @@ Subsec. (e). Pub. L. 108–405, §205(5), inserted “dating violence,” after 
 
 Subsec. (f)(2)(A). Pub. L. 108–405, §205(6), inserted “dating violence,” after “domestic violence,”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
 

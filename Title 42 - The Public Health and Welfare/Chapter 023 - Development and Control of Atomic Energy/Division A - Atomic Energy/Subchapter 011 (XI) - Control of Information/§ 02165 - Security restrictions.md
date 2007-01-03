@@ -2,7 +2,7 @@
 
 #### (a) On contractors and licensees
 
-No arrangement shall be made under section 2051 of this title, no contract shall be made or continued in effect under section 2061 of this title, and no license shall be issued under section 2133 or 2134 of this title, unless the person with whom such arrangement is made, the contractor or prospective contractor, or the prospective licensee agrees in writing not to permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to RestrictedData will not endanger the common defense and security.
+No arrangement shall be made under section 2051 of this title, no contract shall be made or continued in effect under section 2061 of this title, and no license shall be issued under section 2133 or 2134 of this title, unless the person with whom such arrangement is made, the contractor or prospective contractor, or the prospective licensee agrees in writing not to permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
 
 #### (b) Employment of personnel; access to Restricted Data
 
@@ -93,6 +93,4 @@ Report.—(1) Not later than six months after the date of the enactment of this 
 #### Transfer of Functions
 
 “Director of the Office of Personnel Management” and “his” substituted for “Civil Service Commission” and “its”, respectively, in subsecs. (a) to (d), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

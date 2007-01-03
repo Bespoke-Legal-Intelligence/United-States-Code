@@ -26,7 +26,7 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 #### (c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials
 
-(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of this section of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of this section of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
+(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of this section of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of this section of materials from, thestockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
 
 (2) Materials in the stockpile (the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law) shall be available for transfer at fair market value as payment for expenses (including transportation and other incidental expenses) of acquisition of materials, or of upgrading, refining, processing, or rotating materials, under this subchapter.
 
@@ -44,7 +44,7 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
-(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, titleXXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775.)
+(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775.)
 
 #### Prior Provisions
 

@@ -18,7 +18,7 @@ Emergencies Involving Chemical and Biological Agents.—(1) In addition to equip
 
 &emsp;(D) Antidotes.
 
-(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 104–106, div. A, title III, §378, Feb. 10,1996, 110 Stat. 284; Pub. L. 104–201, div. A, title XIV, §1416(b), Sept. 23, 1996, 110 Stat. 2723.)
+(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 104–106, div. A, title III, §378, Feb. 10, 1996, 110 Stat. 284; Pub. L. 104–201, div. A, title XIV, §1416(b), Sept. 23, 1996, 110 Stat. 2723.)
 
 #### Amendments
 

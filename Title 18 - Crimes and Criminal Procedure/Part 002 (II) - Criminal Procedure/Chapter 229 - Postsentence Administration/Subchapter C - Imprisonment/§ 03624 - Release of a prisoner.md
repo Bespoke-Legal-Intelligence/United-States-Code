@@ -68,7 +68,7 @@ For a prior section 3624, applicable to offenses committed prior to Nov. 1, 1987
 
 1996—Subsec. (b)(1). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(A)\], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
 
-Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime of violence,” after “1 year”, and struck out “such” after “compliance with”.
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime ofviolence,” after “1 year”, and struck out “such” after “compliance with”.
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(C)\], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
 
@@ -82,7 +82,7 @@ Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(2)\], ame
 
 1994—Subsec. (a). Pub. L. 103–322, §20405(2), substituted “the prisoner's” for “his” after “the expiration of” and “toward the service of”.
 
-Subsec. (b). Pub. L. 103–322, §20412(1), (2), designated existing provisions as par. (1), substituted “Credit thathas not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
+Subsec. (b). Pub. L. 103–322, §20412(1), (2), designated existing provisions as par. (1), substituted “Credit that has not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
 
 Pub. L. 103–322, §20405, inserted “(other than a prisoner serving a sentence for a crime of violence)” after “A prisoner” in first sentence, substituted “the prisoner” for “he” before “has not satisfactorily complied with” in first sentence and before “shall receive no such credit toward” in third sentence and “the prisoner's” for “his” wherever appearing in first and third sentences, and inserted after first sentence “A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of the prisoner's life, may receive credit toward the service of the prisoner's sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations.”
 

@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;(i) is identified in the report described in paragraph (5)(C); and
 
-&emsp;&emsp;&emsp;(ii) fails to be accredited for reasons that are beyond the control of the school board, as determined by the Secretary, including, but not limited to—
+&emsp;&emsp;&emsp;(ii) fails to be accredited for reasons that are beyond the control of the school board,as determined by the Secretary, including, but not limited to—
 
 &emsp;&emsp;&emsp;&emsp;(I) a significant decline in financial resources;
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;If the corrective action described in clause (i) does not result in accreditation of the school, the Secretary, in conjunction with the tribal governing body, may contract with an outside entity to operate the school in order to achieve accreditation of the school within 2 school years. Prior to entering into such a contract, the Secretary shall develop a proposal for such operation which shall include, at a minimum, the following elements:
 
-&emsp;&emsp;&emsp;&emsp;(I) The identification of one or more outside entities each of which has demonstrated to the Secretary its ability to develop a satisfactory plan for achieving accreditation and its willingness and availability to undertake such a plan.
+&emsp;&emsp;&emsp;&emsp;(I) The identification of one or more outside entities each of which has demonstrated to the Secretary its ability to develop a satisfactory plan for achievingaccreditation and its willingness and availability to undertake such a plan.
 
 &emsp;&emsp;&emsp;&emsp;(II) A plan for implementing operation of the school by such an outside entity, including the methodology for oversight and evaluation of the performance of the outside entity by the Secretary and the tribe.
 
@@ -242,7 +242,7 @@
 
 #### (3) Regulations
 
-&emsp;The Secretary shall, by regulation, promulgate standards and procedures for the closure, transfer to another authority, consolidation, or substantial curtailment of Bureau schools, in accordance with the requirements of this subsection.
+&emsp;The Secretary shall, by regulation, promulgate standards and procedures for the closure,transfer to another authority, consolidation, or substantial curtailment of Bureau schools, in accordance with the requirements of this subsection.
 
 #### (4) Notice
 
@@ -406,11 +406,11 @@ Funds received by Bureau-funded schools from the Bureau of Indian Affairs, and u
 
 This section, referred to in subsec. (b)(4) and the second place appearing in subsec. (c)(1), mean section 1121 of Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110. See Prior Provisions notes below.
 
-The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II ofchapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to part A (§450 et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Prior Provisions
 
@@ -420,7 +420,7 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 
 #### Amendments
 
-2005—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: “The Secretary may, with the approval of the tribal governing body, terminate, contract,transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
+2005—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: “The Secretary may, with the approval of the tribal governing body, terminate, contract, transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
 
 &emsp;“(A) any Bureau-funded school that is operated on or after January 1, 1999;
 

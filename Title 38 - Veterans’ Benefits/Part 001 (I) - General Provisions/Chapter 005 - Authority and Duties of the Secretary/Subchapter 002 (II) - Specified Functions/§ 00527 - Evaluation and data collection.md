@@ -1,6 +1,6 @@
 ### §527. Evaluation and data collection
 
-(a) The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services. Such information as the Secretary may consider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
+(a) The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services. Such information as the Secretary mayconsider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
 
 (b) In carrying out this section, the Secretary shall collect, collate, and analyze on a continuing basis full statistical data regarding participation (including the duration thereof), provision of services, categories of beneficiaries, planning and construction of facilities, acquisition of real property, proposed excessing of land, accretion and attrition of personnel, and categorized expenditures attributable thereto, under all programs carried out under this title.
 
@@ -92,7 +92,7 @@ Covered Veterans.—(1) In accordance with subsection (a)(1)(A), the Secretary s
 
 Study.—The Director of the Office of Technology Assessment shall, in a manner consistent with the Technology Assessment Act of 1972 (2 U.S.C. 472(d) \[2 U.S.C. 471 et seq.\]), assess—
 
-&emsp;“(1) the potential utility of each of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry for scientific study and assessment of the intermediate and long-term health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War;
+&emsp;“(1) the potential utility of each of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry for scientific study and assessment of the intermediate and long-term health consequences ofmilitary service in the Persian Gulf theater of operations during the Persian Gulf War;
 
 &emsp;“(2) the extent to which each registry meets the requirements of the provisions of law under which the registry is established;
 
@@ -106,7 +106,7 @@ Study.—The Director of the Office of Technology Assessment shall, in a manner 
 
 &emsp;“(5) the extent to which the Department of Defense or the Department of Veterans Affairs, as the case may be, is assembling and maintaining information on the Persian Gulf theater of operations (including information on troop locations and atmospheric and weather conditions) in a manner that facilitates the usefulness of, maintenance of, and retrieval of information from, the applicable registry; and
 
-&emsp;“(6) the adequacy and compatibility of protocols for the health examinations and counseling providedunder section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War.
+&emsp;“(6) the adequacy and compatibility of protocols for the health examinations and counseling provided under section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(b)
 
@@ -176,7 +176,7 @@ Research Review and Development of Medical Education Curriculum.—(1) In order 
 
 &emsp;“(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and
 
-&emsp;“(B) on an ongoing basis, periodically review and provide recommendations regarding the research plans and research strategies of the Departments relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+&emsp;“(B) on an ongoing basis, periodically review and provide recommendations regarding the research plans and research strategies of the Departments relating to the health consequences of military servicein the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(2) Recommendations to be provided under paragraph (1)(B) include any recommendations that the Academy considers appropriate for additional scientific studies (including studies related to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of any aspects of such military service. In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 

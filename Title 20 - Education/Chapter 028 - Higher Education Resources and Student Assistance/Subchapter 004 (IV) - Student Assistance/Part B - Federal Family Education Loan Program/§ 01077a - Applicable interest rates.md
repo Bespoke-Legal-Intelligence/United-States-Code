@@ -286,7 +286,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (4) Consolidation loans
 
-&emsp;With respect to any consolidation loan under section 1078–3 of this title for which theapplication is received by an eligible lender on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;(A) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of 1 percent; or
 
@@ -304,7 +304,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) PLUS loans
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
+&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 8.5 percent on the unpaid principal balance of the loan.
 
 #### (3) Consolidation loans
 
@@ -326,7 +326,7 @@ For the purpose of subsections (a) and (d) of this section—
 
 &emsp;(2) the term “period of enrollment” shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
 
-(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9.)
+(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9; Pub. L. 109–171, title VIII, §8006(a), Feb. 8, 2006, 120 Stat. 159.)
 
 #### References in Text
 
@@ -341,6 +341,8 @@ Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective 
 A prior section 1077a, Pub. L. 89–329, title IV, §427A, as added Pub. L. 96–374, title IV, §415(a)(1), Oct. 3, 1980, 94 Stat. 1419; amended Pub. L. 97–35, title V, §534(a)(1), Aug. 13, 1981, 95 Stat. 454; Pub. L. 98–79, §5(a), (b)(1), Aug. 15, 1983, 97 Stat. 481, 482, prescribed applicable interest rates on loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2006—Subsec. (<i>l</i>)(2). Pub. L. 109–171 substituted “8.5 percent” for “7.9 percent”.
 
 2002—Subsec. (k). Pub. L. 107–139, §1(c), substituted “2006” for “2003” in heading and “July 1, 2006,” for “July 1, 2003,” wherever appearing in text.
 
@@ -401,6 +403,10 @@ Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck
 &emsp;“(i) the average of the bond equivalent rates of 91-day Treasury bills auctioned during the 12 months ending on November 30 preceding such calendar year; plus
 
 &emsp;“(ii) 3.75 percent.”
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

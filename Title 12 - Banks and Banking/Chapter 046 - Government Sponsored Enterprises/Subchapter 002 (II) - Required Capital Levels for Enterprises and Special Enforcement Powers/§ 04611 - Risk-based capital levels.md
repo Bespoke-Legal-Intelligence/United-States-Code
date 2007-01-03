@@ -168,7 +168,7 @@ For purposes of this section:
 
 #### (2) Contents
 
-&emsp;The regulations under this subsection shall contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, and prepayment rates). The regulations shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
+&emsp;The regulations under this subsection shall contain specific requirements, definitions,methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, and prepayment rates). The regulations shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
 
 #### (3) Confidentiality of information
 

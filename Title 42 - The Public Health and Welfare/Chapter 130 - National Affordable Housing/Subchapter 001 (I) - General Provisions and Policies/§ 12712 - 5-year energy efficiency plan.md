@@ -80,7 +80,7 @@ Promotion of pilot program.—The Secretary shall encourage participation in the
 
 &emsp;“(5)
 
-Training program.—Not later than 9 months after the date of enactment of this Act \[Oct. 28, 1992\],the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel at relevant lending agencies, real estate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
+Training program.—Not later than 9 months after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel at relevant lending agencies, real estate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
 
 &emsp;“(6)
 

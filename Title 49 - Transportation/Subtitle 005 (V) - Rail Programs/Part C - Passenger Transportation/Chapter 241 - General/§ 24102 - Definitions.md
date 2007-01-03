@@ -138,7 +138,7 @@ Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and ins
 
 Pars. (8) to (10). Pub. L. 105–134, §407(2), redesignated pars. (8) to (10) as (7) to (9), respectively.
 
-Par. (11). Pub. L. 105–134, §407(1), struck out par. (11) which read as follows: “ ‘route and service criteria’ means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act.”
+Par. (11). Pub. L. 105–134, §407(1), struck out par. (11) which read as follows: “ ‘route and service criteria’means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

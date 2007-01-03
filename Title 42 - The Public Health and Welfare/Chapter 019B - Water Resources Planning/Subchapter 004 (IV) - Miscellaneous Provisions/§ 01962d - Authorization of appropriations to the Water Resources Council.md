@@ -22,11 +22,11 @@ There are authorized to be appropriated to the Water Resources Council:
 
 Subsec. (b). Pub. L. 95–404, §1(b), substituted “the sum of $2,668,000 for fiscal year 1979” for “not to exceed $2,000,000 for fiscal year 1978”.
 
-Subsec. (c). Pub. L. 95–404, §1(c), substituted “The sum of $3,179,900 for fiscal year 1979” for “not to exceed the sum of $3,905,000 for fiscal year 1978” and inserted provisions making available the sums of $828,900 for the Columbia River Estuary Special Study, $308,000 for the New England Port and Harbor Study, $135,000 for the Hudson River Basin Level B Study, and $150,000 for the Case Studies of the Application of Cost Sharing Policy Options for Flood Plan Management in the Connecticut River Basin.
+Subsec. (c). Pub. L. 95–404, §1(c), substituted “The sum of $3,179,900 for fiscal year 1979” for “not to exceed the sum of $3,905,000 for fiscal year 1978” and inserted provisions making available the sums of $828,900 for the Columbia River Estuary Special Study, $308,000 for theNew England Port and Harbor Study, $135,000 for the Hudson River Basin Level B Study, and $150,000 for the Case Studies of the Application of Cost Sharing Policy Options for Flood Plan Management in the Connecticut River Basin.
 
 1977—Subsecs. (a), (b). Pub. L. 95–41, §1(b), (c), substituted “for fiscal year 1978” for “annually”.
 
-Subsec. (c). Pub. L. 95–41, §1(a), substituted “not to exceed the sum of $3,905,000 for fiscal year 1978” for“not to exceed a total of $10,000,000 for fiscal years 1976 and 1977”.
+Subsec. (c). Pub. L. 95–41, §1(a), substituted “not to exceed the sum of $3,905,000 for fiscal year 1978” for “not to exceed a total of $10,000,000 for fiscal years 1976 and 1977”.
 
 1976—Subsec. (b). Pub. L. 94–285 substituted “$2,000,000” for “$1,500,000”.
 

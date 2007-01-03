@@ -2,7 +2,7 @@
 
 #### Codification
 
-This subchapter was in the original title VII of Pub. L. 94–437, as added by Pub. L. 102–573. Former title VII was renumbered VIII by Pub. L. 102–573 and is classified to subchapter VI of this chapter. Titles IV, V, and VI of Pub. L. 102–437 are classified to subchapters III–A, IV, and V of this chapter, respectively.
+This subchapter was in the original title VII of Pub. L. 94–437, as added by Pub. L. 102–573. Former title VII was renumbered VIII by Pub. L. 102–573 and is classifiedto subchapter VI of this chapter. Titles IV, V, and VI of Pub. L. 102–437 are classified to subchapters III–A, IV, and V of this chapter, respectively.
 
 
 ---

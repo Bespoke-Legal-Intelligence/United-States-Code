@@ -1,6 +1,6 @@
 ### §7502. Audit requirements; exemptions
 
-(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall haveeither a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
+(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
 
 (B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) perform tests of controls unless the controls are deemed to be ineffective; and
 
-&emsp;(4) determine whether the non-Federal entity has complied with the provisions of laws, regulations, and contracts or grants pertaining to Federal awards that have a direct and material effect on each major program.
+&emsp;(4) determine whether the non-Federal entity has complied with the provisions of laws,regulations, and contracts or grants pertaining to Federal awards that have a direct and material effect on each major program.
 
 (f)(1) Each Federal agency which provides Federal awards to a recipient shall—
 

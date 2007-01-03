@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;Before the producers on a farm may receive direct payments or counter-cyclical paymentswith respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+&emsp;Before the producers on a farm may receive direct payments or counter-cyclical payments with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
 
 &emsp;&emsp;(A) to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.);
 

@@ -40,7 +40,7 @@
 
 &emsp;An entity receiving a grant, contract, or cooperative agreement under this section shall consult with the Secretary and the Secretary of Health and Human Services—
 
-&emsp;&emsp;(A) to maximize the utilization of quality educational programming by preschool and elementary school children, and make such programming widely available to federally funded programs serving such populations; and
+&emsp;&emsp;(A) to maximize the utilization of quality educational programming by preschool andelementary school children, and make such programming widely available to federally funded programs serving such populations; and
 
 &emsp;&emsp;(B) to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act (42 U.S.C. 9831 et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
 
@@ -52,7 +52,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 #### (1) Annual report to the Secretary
 
-&emsp;An entity receiving a grant, contract, or cooperative agreement under this section shallprepare and submit to the Secretary an annual report that contains such information as the Secretary may require. At a minimum, the report shall describe the program activities undertaken with funds received under the grant, contract, or cooperative agreement, including each of the following:
+&emsp;An entity receiving a grant, contract, or cooperative agreement under this section shall prepare and submit to the Secretary an annual report that contains such information as the Secretary may require. At a minimum, the report shall describe the program activities undertaken with funds received under the grant, contract, or cooperative agreement, including each of the following:
 
 &emsp;&emsp;(A) The programming that has been developed, directly or indirectly, by the eligible entity, and the target population of the programs developed.
 

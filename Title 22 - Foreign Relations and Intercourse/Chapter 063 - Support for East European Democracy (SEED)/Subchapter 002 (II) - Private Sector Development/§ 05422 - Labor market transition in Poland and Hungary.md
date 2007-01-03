@@ -16,7 +16,7 @@ In carrying out subsection (a) of this section, the Secretary is authorized to p
 
 In carrying out subsection (a) of this section, the Secretary is authorized to do the following:
 
-&emsp;(1) Solicit and accept in the name of the Department of Labor, and employ or dispose of infurtherance of the purposes of this section, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise. Gifts and donations of property which are no longer required for the discharge of the purposes of this section shall be reported to the Administrator of General Services for transfer, donation, or other disposal in accordance with the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+&emsp;(1) Solicit and accept in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this section, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise. Gifts and donations of property which are no longer required for the discharge of the purposes of this section shall be reported to the Administrator of General Services for transfer, donation, or other disposal in accordance with the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 &emsp;(2) Solicit and accept voluntary and uncompensated services notwithstanding section 1342 of title 31. A volunteer under this paragraph shall not be deemed to be an employee of the United States except for the purposes of—
 

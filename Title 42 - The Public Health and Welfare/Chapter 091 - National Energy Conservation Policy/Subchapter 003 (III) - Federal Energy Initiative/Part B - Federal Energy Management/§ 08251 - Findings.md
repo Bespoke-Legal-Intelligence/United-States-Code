@@ -50,7 +50,7 @@ Sec. 301. <i>Annual Budget Submission</i>. Each agency's budget submission to OM
 
 Sec. 302. <i>Annual Implementation Plan</i>. Each agency shall develop an annual implementation plan for fulfilling the requirements of this order. Such plans shall be included in the annual reports to the President under section 303 of this order.
 
-Sec. 303. <i>Annual Reports to the President</i>. (a) Each agency shall measure and report its progress in meeting the goals and requirements of this order on an annual basis. Agencies shall follow reporting guidelines as developed under section 306(b) of this order. In order to minimize additional reporting requirements, theguidelines will clarify how the annual report to the President should build on each agency's annual Federal energy reports submitted to DOE and the Congress. Annual reports to the President are due on January 1 of each year beginning in the year 2000.
+Sec. 303. <i>Annual Reports to the President</i>. (a) Each agency shall measure and report its progress in meeting the goals and requirements of this order on an annual basis. Agencies shall follow reporting guidelines as developed under section 306(b) of this order. In order to minimize additional reporting requirements, the guidelines will clarify how the annual report to the President should build on each agency's annual Federal energy reports submitted to DOE and the Congress. Annual reports to the President are due on January 1 of each year beginning in the year 2000.
 
 (b) Each agency's annual report to the President shall describe how the agency is using each of the strategies described in Part 4 of this order to help meet energy and greenhouse gas reduction goals. The annual report to the President shall explain why certain strategies, if any, have not been used. It shall also include a listing and explanation of exempt facilities.
 
@@ -84,7 +84,7 @@ Sec. 402. <i>Facility Energy Audits</i>. Agencies shall continue to conduct ener
 
 Sec. 403. <i>Energy Management Strategies and Tools</i>. Agencies shall use a variety of energy management strategies and tools, where life-cycle cost-effective, to meet the goals of this order. An agency's use of these strategies and tools shall be taken into account in assessing the agency's progress and formulating its scorecard.
 
-(a) <i>Financing Mechanisms</i>. Agencies shall maximize their use of available alternative financing contractingmechanisms, including Energy-Savings Performance Contracts and utility energy-efficiency service contracts, when life-cycle cost-effective, to reduce energy use and cost in their facilities and operations. Energy-Savings Performance Contracts, which are authorized under the National Energy Conservation Policy Act, as modified by the Energy Policy Act of 1992, and utility energy-efficiency service contracts provide significant opportunities for making Federal facilities more energy efficient at no net cost to taxpayers.
+(a) <i>Financing Mechanisms</i>. Agencies shall maximize their use of available alternative financing contracting mechanisms, including Energy-Savings Performance Contracts and utility energy-efficiency service contracts, when life-cycle cost-effective, to reduce energy use and cost in their facilities and operations. Energy-Savings Performance Contracts, which are authorized under the National Energy Conservation Policy Act, as modified by the Energy Policy Act of 1992, and utility energy-efficiency service contracts provide significant opportunities for making Federal facilities more energy efficient at no net cost to taxpayers.
 
 (b) <i>ENERGY STAR</i>G6G1 <i>and Other Energy Efficient Products.</i>
 
@@ -108,7 +108,7 @@ Sec. 403. <i>Energy Management Strategies and Tools</i>. Agencies shall use a va
 
 (h) <i>Off-Grid Generation</i>. Agencies shall use off-grid generation systems, including solar hot water, solar electric, solar outdoor lighting, small wind turbines, fuel cells, and other off-grid alternatives, where such systems are life-cycle cost-effective and offer benefits including energy efficiency, pollution prevention, source energy reductions, avoided infrastructure costs, or expedited service.
 
-Sec. 404. <i>Electricity Use</i>. To advance the greenhouse gas and renewable energy goals of this order, and reduce source energy use, each agency shall strive to use electricity from clean, efficient, and renewable energy sources. An agency's efforts in purchasing electricity from efficient and renewable energy sources shall be taken into account in assessing the agency's progress and formulating its score card.
+Sec. 404. <i>Electricity Use</i>. To advance the greenhouse gas and renewable energy goals of this order, and reduce source energy use, each agency shall strive to use electricity from clean, efficient, and renewable energy sources. An agency's efforts in purchasing electricityfrom efficient and renewable energy sources shall be taken into account in assessing the agency's progress and formulating its score card.
 
 (a) <i>Competitive Power</i>. Agencies shall take advantage of competitive opportunities in the electricity and natural gas markets to reduce costs and enhance services. Agencies are encouraged to aggregate demand across facilities or agencies to maximize their economic advantage.
 
@@ -120,7 +120,7 @@ Sec. 404. <i>Electricity Use</i>. To advance the greenhouse gas and renewable en
 
 (2) In evaluating opportunities to comply with this section, agencies should consider: my Administration's goal of tripling nonhydroelectric renewable energy capacity in the United States by 2010; the renewable portfolio standard specified in the restructuring guidelines for the State in which the facility is located; GSA's efforts to make electricity from renewable energy sources available to Federal electricity purchasers; and EPA's guidelines on crediting renewable energy power in implementation of Clean Air Act \[42 U.S.C. 7401 et seq.\] standards.
 
-Sec. 405. <i>Mobile Equipment</i>. Each agency shall seek to improve the design, construction, and operation of itsmobile equipment, and shall implement all life-cycle cost-effective energy efficiency measures that result in cost savings while improving mission performance. To the extent that such measures are life-cycle cost-effective, agencies shall consider enhanced use of alternative or renewable-based fuels.
+Sec. 405. <i>Mobile Equipment</i>. Each agency shall seek to improve the design, construction, and operation of its mobile equipment, and shall implement all life-cycle cost-effective energy efficiency measures that result in cost savings while improving mission performance. To the extent that such measures are life-cycle cost-effective, agencies shall consider enhanced use of alternative or renewable-based fuels.
 
 Sec. 406. <i>Management and Government Performance</i>. Agencies shall use the following management strategies in meeting the goals of this order.
 
@@ -194,7 +194,7 @@ Sec. 505. Within 180 days of this order, the Administrator of GSA, in collaborat
 
 Sec. 601. <i>Compliance by Independent Agencies</i>. Independent agencies are encouraged to comply with the provisions of this order.
 
-Sec. 602. <i>Waivers</i>. If an agency determines that a provision in this order is inconsistent with its mission, theagency may ask DOE for a waiver of the provision. DOE will include a list of any waivers it grants in its Federal Energy Management Programs annual report to the Congress.
+Sec. 602. <i>Waivers</i>. If an agency determines that a provision in this order is inconsistent with its mission, the agency may ask DOE for a waiver of the provision. DOE will include a list of any waivers it grants in its Federal Energy Management Programs annual report to the Congress.
 
 Sec. 603. <i>Scope</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable by law by a party against the United States, its agencies, its officers, or any other person.
 
@@ -228,7 +228,7 @@ Sec. 709. “Mobile equipment” means all Federally owned ships, aircraft, and 
 
 Sec. 710. “Renewable energy” means energy produced by solar, wind, geothermal, and biomass power.
 
-Sec. 711. “Renewable energy technology” means technologies that use renewable energy to provide light, heat, cooling, or mechanical or electrical energy for use in facilities or other activities. The term also means the use of integrated whole-building designs that rely upon renewable energy resources, including passive solar design.
+Sec. 711. “Renewable energy technology” means technologies that use renewable energy to provide light, heat, cooling, or mechanical or electrical energy for use in facilities or other activities. The term alsomeans the use of integrated whole-building designs that rely upon renewable energy resources, including passive solar design.
 
 Sec. 712. “Source energy” means the energy that is used at a site and consumed in producing and in delivering energy to a site, including, but not limited to, power generation, transmission, and distribution losses, and that is used to perform a specific function, such as space conditioning, lighting, or water heating.
 
@@ -242,7 +242,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13221, July 31, 2001, 66 F.R. 40571, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Energy Conservation Policy Act (Public Law 95–619, 92 Stat. 3206, 42 U.S.C. 8252 <i>et seq</i>.), as amended by the Energy Policy Act of 1992 (EPACT) (Public Law 102–486, 106 Stat. 2776), and section 301 of title 3, United States Code, and in orderto further encourage energy conservation by the Federal Government, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Energy Conservation Policy Act (Public Law 95–619, 92 Stat. 3206, 42 U.S.C. 8252 <i>et seq</i>.), as amended by the Energy Policy Act of 1992 (EPACT) (Public Law 102–486, 106 Stat. 2776), and section 301 of title 3, United States Code, and in order to further encourage energy conservation by the Federal Government, it is hereby ordered as follows:
 
 Section 1. <i>Energy Efficient Standby Power Devices</i>. Each agency, when it purchases commercially available, off-the-shelf products that use external standby power devices, or that contain an internal standby power function, shall purchase products that use no more than one watt in their standby power consuming mode. If such products are not available, agencies shall purchase products with the lowest standby power wattage while in their standby power consuming mode. Agencies shall adhere to these requirements, when life-cycle cost-effective and practicable and where the relevant product's utility and performance are not compromised as a result. By December 31, 2001, and on an annual basis thereafter, the Department of Energy, in consultation with the Department of Defense and the General Services Administration, shall compile a preliminary list of products to be subject to these requirements. The Department of Energy shall finalize the list and may remove products deemed inappropriate for listing.
 

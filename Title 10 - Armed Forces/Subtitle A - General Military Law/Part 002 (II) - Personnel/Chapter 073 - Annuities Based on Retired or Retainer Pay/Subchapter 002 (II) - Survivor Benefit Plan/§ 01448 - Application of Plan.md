@@ -58,7 +58,7 @@ Exception when spouse unavailable.—A person may make an election described in 
 
 &emsp;&emsp;&emsp;(i) that the spouse's whereabouts cannot be determined; or
 
-&emsp;&emsp;&emsp;(ii) that, due to exceptional circumstances, requiring the person to seek the spouse's consent would otherwise be inappropriate.
+&emsp;&emsp;&emsp;(ii) that, due to exceptional circumstances, requiring the person to seek thespouse's consent would otherwise be inappropriate.
 
 &emsp;&emsp;(D)
 
@@ -90,7 +90,7 @@ Election to participate in plan.—A person who is not married and has no depend
 
 &emsp;&emsp;(B)
 
-Manner and time of election.—Such an election must be written, signed by the person making the election, and received by the Secretary concerned within one yearafter the date on which that person marries or acquires that dependent child.
+Manner and time of election.—Such an election must be written, signed by the person making the election, and received by the Secretary concerned within one year after the date on which that person marries or acquires that dependent child.
 
 &emsp;&emsp;(C)
 
@@ -176,7 +176,7 @@ Withdrawal of request for discontinuation.—The Secretary concerned shall furni
 
 &emsp;&emsp;(E)
 
-Consequences of discontinuation.—Once participation is discontinued, benefits may not be paid in conjunction with the earlier participation in the Plan and premiums paid may not be refunded. Participation in the Plan may not later be resumed except through a qualified election under paragraph (5) of subsection (a).
+Consequences of discontinuation.—Once participation is discontinued, benefits may not be paid in conjunction with the earlier participation in the Plan and premiums paid may not be refunded. Participation in the Plan may not later be resumed except through a qualified election under paragraph (5) of subsection (a) or under subparagraph (G) of this paragraph.
 
 &emsp;&emsp;(F)
 
@@ -185,6 +185,28 @@ Vitiation of election by disability retiree who dies of disability-related cause
 &emsp;&emsp;&emsp;(i) an election made by the member under paragraph (1) to provide an annuity under the Plan to any person other than a dependent of that member (as defined in section 1072(2) of this title) is vitiated; and
 
 &emsp;&emsp;&emsp;(ii) the amounts by which the member's retired pay was reduced under section 1452 of this title shall be refunded and paid to the person to whom the annuity under the Plan would have been paid pursuant to such election.
+
+&emsp;&emsp;(G)
+
+Election of new beneficiary upon death of previous beneficiary.—
+
+&emsp;&emsp;&emsp;(i)
+
+Authority for election.—If the reason for discontinuation in the Plan is the death of the beneficiary, the participant in the Plan may elect a new beneficiary. Any such beneficiary must be a natural person with an insurable interest in the participant. Such an election may be made only during the 180-day period beginning on the date of the death of the previous beneficiary.
+
+&emsp;&emsp;&emsp;(ii)
+
+Procedures.—Such an election shall be in writing, signed by the participant, and made in such form and manner as the Secretary concerned may prescribe. Such an election shall be effective the first day of the first month following the month in which the election is received by the Secretary.
+
+&emsp;&emsp;&emsp;(iii)
+
+Vitiation of election by participant who dies within two years of election.—If a person providing an annuity under a election under clause (i) dies before the end of the two-year period beginning on the effective date of the election—
+
+&emsp;&emsp;&emsp;&emsp;(I) the election is vitiated; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount by which the person's retired pay was reduced under section 1452 of this title that is attributable to the election shall be paid in a lump sum to the person who would have been the deceased person's beneficiary under the vitiated election if the deceased person had died after the end of such two-year period.
+
+z
 
 &emsp;(2)
 
@@ -196,7 +218,7 @@ General rule.—A person who has a former spouse upon becoming eligible to parti
 
 &emsp;&emsp;(B)
 
-Effect of former spouse election on spouse or dependent child.—In the case ofa person with a spouse or a dependent child, such an election prevents payment of an annuity to that spouse or child (other than a child who is a beneficiary under an election under paragraph (4)), including payment under subsection (d).
+Effect of former spouse election on spouse or dependent child.—In the case of a person with a spouse or a dependent child, such an election prevents payment of an annuity to that spouse or child (other than a child who is a beneficiary under an election under paragraph (4)), including payment under subsection (d).
 
 &emsp;&emsp;(C)
 
@@ -300,7 +322,7 @@ Annuity when no eligible surviving spouse.—In the case of a member described i
 
 &emsp;&emsp;(B)
 
-Optional annuity when there is an eligible surviving spouse.—In the case of a member described in paragraph (1) who dies after November 23, 2003, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member's dependent children under section1450(a)(3) of this title, if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
+Optional annuity when there is an eligible surviving spouse.—In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member's dependent children under section 1450(a)(3) of this title, if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
 
 &emsp;(3)
 
@@ -324,7 +346,7 @@ Deemed election.—
 
 &emsp;&emsp;(A)
 
-Annuity for dependent.—In the case of a member described in paragraph (1) who dies after November 23, 2003,,<sup>1</sup> the Secretary concerned may, if no other annuity is payable on behalf of the member under this subchapter, pay an annuity to a natural person who has an insurable interest in such member as if the annuity were elected by the member under subsection (b)(1). The Secretary concerned may pay such an annuity under this paragraph only in the case of a person who is a dependent of that member (as defined in section 1072(2) of this title).
+Annuity for dependent.—In the case of a member described in paragraph (1) who dies after November 23, 2003, the Secretary concerned may, if no other annuity is payable on behalf of the member under this subchapter, pay an annuity to a natural person who has an insurable interest in such member as if the annuity were elected by the member under subsection (b)(1). The Secretary concerned may pay such an annuity under this paragraph only in the case of a person who is a dependent of that member (as defined in section 1072(2) of this title).
 
 &emsp;&emsp;(B)
 
@@ -404,9 +426,17 @@ Manner of making election.—An election under paragraph (1) shall be made in su
 
 Disposition of payments.—A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152; Pub. L. 108–136, div. A, title VI, §§644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1517–1519; Pub. L. 108–375, div. A, title X, §1084(d)(10), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152; Pub. L. 108–136, div. A, title VI, §§644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1517–1519; Pub. L. 108–375, div. A, title X, §1084(d)(10), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–364, div. A, title VI, §§643(a), 644(a), title X, §1071(a)(8), Oct. 17, 2006, 120 Stat. 2260, 2261, 2398.)
 
 #### Amendments
+
+2006—Subsec. (b)(1)(E). Pub. L. 109–364, §643(a)(1), inserted “or under subparagraph (G) of this paragraph” before period at end.
+
+Subsec. (b)(1)(G). Pub. L. 109–364, §643(a)(2), added subpar. (G).
+
+Subsec. (d)(2)(B). Pub. L. 109–364, §644(a), substituted “October 7, 2001” for “November 23, 2003”.
+
+Subsec. (d)(6)(A). Pub. L. 109–364, §1071(a)(8), struck out second comma after “November 23, 2003”.
 
 2004—Subsecs. (b)(1)(F), (d)(2)(B), (6)(A). Pub. L. 108–375 substituted “after November 23, 2003,” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2004”.
 
@@ -494,7 +524,7 @@ Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or r
 
 Subsec. (a)(3). Pub. L. 99–145, §721(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
-“(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
+“(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, orelects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
 
 “(B) If a person who is eligible under paragraph (1)(B) to participate in the Plan and who is married does not elect to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that action.”
 
@@ -546,6 +576,10 @@ Subsec. (e). Pub. L. 95–397, §202(c), added subsec. (e).
 
 1976—Subsec. (a). Pub. L. 94–496 inserted “or elects to provide an annuity for a dependent child but not for his spouse” after “maximum level”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title VI, §644(b), Oct. 17, 2006, 120 Stat. 2261, provided that: “Any annuity payable to a dependent child under subchapter II of chapter 73 of title 10, United States Code, by reason of the amendment made by subsection (a) \[amending this section\] shall be payable only for months beginning on or after the date of the enactment of this Act \[Oct. 17, 2006\].”
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–136, div. A, title VI, §644(c), Nov. 24, 2003, 117 Stat. 1518, provided that: “Subparagraph (B) of section 1448(f)(1) of title 10, United States Code, as added by subsection (a), shall take effect as of September 10, 2001, and shall apply with respect to performance of inactive-duty training (as defined in section 101(d) of title 10, United States Code) on or after that date.”
@@ -592,9 +626,25 @@ Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L.
 
 Section 645(c) of Pub. L. 105–85 provided that: “The amendments made by this section \[amending section 4(e)(1) of Pub. L. 92–425 and section 653(d) of Pub. L. 100–456, set out below\] take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to payments of benefits for months beginning on or after that date, except that the Secretary of Veterans Affairs may provide, if necessary for administrative implementation, that such amendments shall apply beginning with a later month, not later than the first month beginning more than 180 days after the date of the enactment of this Act.”
 
+#### Transition
+
+Pub. L. 109–364, div. A, title VI, §643(c), Oct. 17, 2006, 120 Stat. 2261, provided that:
+
+“(1)
+
+Transition period.—In the case of a participant in the Survivor Benefit Plan who made a covered insurable-interest election (as defined in paragraph (2)) and whose designated beneficiary under that election dies before the date of the enactment of this Act \[Oct. 17, 2006\] or during the 18-month period beginning on such date, the time period applicable for purposes of the limitation in the third sentence of subparagraph (G)(i) of section 1448(b)(1) of title 10, United States Code, as added by subsection (a), shall be the two-year period beginning on the date of the enactment of this Act (rather than the 180-day period specified in that sentence).
+
+“(2)
+
+Covered insurable-interest elections.—For purposes of paragraph (1), a covered insurable-interest election is an election under section 1448(b)(1) of title 10, United States Code, made before the date of the enactment of this Act \[Oct. 17, 2006\], or during the 18-month period beginning on such date, by a participant in the Survivor Benefit Plan to provide an annuity under that plan to a natural person with an insurable interest in that person.
+
+“(3)
+
+Survivor benefit plan.—For purposes of this subsection, the term ‘Survivor Benefit Plan’ means the program under subchapter II of chapter 73 of title 10, United States Code.”
+
 #### One-Year Open Enrollment Period for Survivor Benefit Plan Commencing October 1, 2005
 
-Pub. L. 108–375, div. A, title VI, §645, Oct. 28, 2004, 118 Stat. 1962, provided that:
+Pub. L. 108–375, div. A, title VI, §645, Oct. 28, 2004, 118 Stat. 1962, as amended by Pub. L. 109–364, div. A, title X, §1071(g)(5), Oct. 17, 2006, 120 Stat. 2402, provided that:
 
 “(a)
 
@@ -690,7 +740,7 @@ Premiums to be charged.—The Secretary of Defense shall prescribe in regulation
 
 Premiums to be credited to retirement fund.—Premiums paid under the regulations under paragraph (1) shall be credited to the Department of Defense Military Retirement Fund.
 
-“(h) \[(j)\]
+“(j)
 
 Definitions.—In this section:
 
@@ -706,103 +756,7 @@ Definitions.—In this section:
 
 #### Open Enrollment Period for Survivor Benefit Plan Commencing March 1, 1999
 
-Pub. L. 105–261, div. A, title VI, §642, Oct. 17, 1998, 112 Stat. 2045, as amended by Pub. L. 106–65, div. A, title VI, §654, Oct. 5, 1999, 113 Stat. 667, provided that:
-
-“(a)
-
-Persons Not Currently Participating in Survivor Benefit Plan.—
-
-&emsp;“(1)
-
-Election of sbp coverage.—An eligible retired or former member may elect to participate in the Survivor Benefit Plan during the open enrollment period specified in subsection (d).
-
-&emsp;“(2)
-
-Election of supplemental annuity coverage.—An eligible retired or former member who elects under paragraph (1) to participate in the Survivor Benefit Plan may also elect during the open enrollment period to participate in the Supplemental Survivor Benefit Plan.
-
-&emsp;“(3)
-
-Eligible retired or former member.—For purposes of paragraphs (1) and (2), an eligible retired or former member is a member or former member of the uniformed services who on the day before the first day of the open enrollment period is not a participant in the Survivor Benefit Plan and—
-
-&emsp;&emsp;“(A) is entitled to retired pay; or
-
-&emsp;&emsp;“(B) would be entitled to retired pay under chapter 1223 of title 10, United States Code (or chapter 67 \[now 1223\] of such title as in effect before October 5, 1994), but for the fact that such member or former member is under 60 years of age.
-
-&emsp;“(4)
-
-Status under sbp of persons making elections.—
-
-&emsp;&emsp;“(A)
-
-Standard annuity.—A person making an election under paragraph (1) by reason of eligibility under paragraph (3)(A) shall be treated for all purposes as providing a standard annuity under the Survivor Benefit Plan.
-
-&emsp;&emsp;“(B)
-
-Reserve-component annuity.—A person making an election under paragraph (1) by reason of eligibility under paragraph (3)(B) shall be treated for all purposes as providing a reserve-component annuity under the Survivor Benefit Plan.
-
-“(b)
-
-Manner of Making Elections.—
-
-&emsp;“(1)
-
-In general.—An election under this section must be made in writing, signed by the person making the election, and received by the Secretary concerned before the end of the open enrollment period. Except as provided in paragraph (2), any such election shall be made subject to the same conditions, and with the same opportunities for designation of beneficiaries and specification of base amount, that apply under the Survivor Benefit Plan or the Supplemental Survivor Benefit Plan, as the case may be. A person making an election under subsection (a) to provide a reserve-component annuity shall make a designation described in section 1448(e) of title 10, United States Code.
-
-&emsp;“(2)
-
-Election must be voluntary.—An election under this section is not effective unless the person making the election declares the election to be voluntary. An election to participate in the Survivor Benefit Plan under this section may not be required by any court. An election to participate or not to participate in the Survivor Benefit Plan is not subject to the concurrence of a spouse or former spouse of the person.
-
-“(c)
-
-Effective Date for Elections.—Any such election shall be effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
-
-“(d)
-
-Open Enrollment Period Defined.—The open enrollment period is the 1-year period beginning on March 1, 1999.
-
-“(e)
-
-Effect of Death of Person Making Election Within Two Years of Making Election.—If a person making an election under this section dies before the end of the 2-year period beginning on the effective date of the election, the election is void and the amount of any reduction in retired pay of the person that is attributable to the election shall be paid in a lump sum to the person who would have been the deceased person's beneficiary under the voided election if the deceased person had died after the end of such 2-year period.
-
-“(f)
-
-Applicability of Certain Provisions of Law.—The provisions of sections 1449, 1453, and 1454 of title 10, United States Code, are applicable to a person making an election, and to an election, under this section in the same manner as if the election were made under the Survivor Benefit Plan or the Supplemental Survivor Benefit Plan, as the case may be.
-
-“(g)
-
-Premiums for Open Enrollment Election.—
-
-&emsp;“(1)
-
-Premiums to be charged.—The Secretary of Defense shall prescribe in regulations premiums which a person electing under this section shall be required to pay for participating in the Survivor Benefit Plan pursuant to the election. The total amount of the premiums to be paid by a person under the regulations shall be equal to the sum of—
-
-&emsp;&emsp;“(A) the total amount by which the retired pay of the person would have been reduced before the effective date of the election if the person had elected to participate in the Survivor Benefit Plan (for the same base amount specified in the election) at the first opportunity that was afforded the member to participate under chapter 73 of title 10, United States Code;
-
-&emsp;&emsp;“(B) interest on the amounts by which the retired pay of the person would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable; and
-
-&emsp;&emsp;“(C) any additional amount that the Secretary determines necessary to protect the actuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
-
-&emsp;“(2)
-
-Premiums to be credited to retirement fund.—Premiums paid under the regulations shall be credited to the Department of Defense Military Retirement Fund.
-
-“(h)
-
-Credit Toward Paid-Up Coverage.—Upon payment of the total amount of the premiums charged a person under subsection (g), the retired pay of a person participating in the Survivor Benefit Plan pursuant to an election under this section shall be treated, for the purposes of subsection (j) of section 1452 of title 10, United States Code, as having been reduced under such section 1452 for the months in the period for which the person's retired pay would have been reduced if the person had elected to participate in the Survivor Benefit Plan at the first opportunity that was afforded the person to participate.
-
-“(i)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘Survivor Benefit Plan’ means the program established under subchapter II of chapter 73 of title 10, United States Code.
-
-&emsp;“(2) The term ‘Supplemental Survivor Benefit Plan’ means the program established under subchapter III of chapter 73 of title 10, United States Code.
-
-&emsp;“(3) The term ‘retired pay’ includes retainer pay paid under section 6330 of title 10, United States Code.
-
-&emsp;“(4) The terms ‘uniformed services’ and ‘Secretary concerned’ have the meanings given those terms in section 101 of title 37, United States Code.
-
-&emsp;“(5) The term ‘Department of Defense Military Retirement Fund’ means the Department of Defense Military Retirement Fund established under section 1461(a) of title 10, United States Code.”
+Pub. L. 105–261, div. A, title VI, §642, Oct. 17, 1998, 112 Stat. 2045, as amended by Pub. L. 106–65, div. A, title VI, §654, Oct. 5, 1999, 113 Stat. 667, provided for a one-year open enrollment period beginning on Mar. 1, 1999, during which an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan.
 
 #### Annuities for Certain Military Surviving Spouses
 
@@ -854,115 +808,11 @@ Prospective Applicability.—(1) Annuities under this section shall be paid for 
 
 #### Authority for Relief From Previous Overpayments Under Minimum Income Widows Program
 
-Pub. L. 104–106, div. A, title VI, §635, Feb. 10, 1996, 110 Stat. 366, provided that:
-
-“(a)
-
-Authority.—The Secretary of Defense may waive recovery by the United States of any overpayment by the United States described in subsection (b). In the case of any such waiver, any debt to the United States arising from such overpayment is forgiven.
-
-“(b)
-
-Covered Overpayments.—Subsection (a) applies in the case of an overpayment by the United States that—
-
-&emsp;“(1) was made before the date of the enactment of this Act \[Feb. 10, 1996\] under section 4 of Public Law 92–425 (10 U.S.C. 1448 note); and
-
-&emsp;“(2) is attributable to failure by the Department of Defense to apply the eligibility provisions of subsection (a) of such section in the case of the person to whom the overpayment was made.”
+Pub. L. 104–106, div. A, title VI, §635, Feb. 10, 1996, 110 Stat. 366, authorized the Secretary of Defense to waive recovery by the United States of any overpayment by the United States that had been made before Feb. 10, 1996, under section 4 of Public Law 92–425, set out below, and that was attributable to failure by the Department of Defense to apply the eligibility provisions of subsection (a) of such section in the case of the person to whom the overpayment had been made.
 
 #### Open Enrollment Period for Survivor Benefit Plan Commencing April 1, 1992
 
-Section 1405 of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, title VI, §631(2), title XIV, §1484(<i>l</i>)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425, provided that:
-
-“(a)
-
-Persons Not Currently Participating in Survivor Benefit Plan.—
-
-&emsp;“(1)
-
-Election of sbp coverage.—An eligible retired or former member may elect to participate in the Survivor Benefit Plan during the open enrollment period specified in subsection (f).
-
-&emsp;“(2)
-
-Election of supplemental annuity coverage.—An eligible retired or former member who elects under paragraph (1) to participate in the Survivor Benefit Plan at the maximum level may also elect during the open enrollment period to participate in the Supplemental Survivor Benefit Plan established under subchapter III of chapter 73 of title 10, United States Code, as added by section 1404.
-
-&emsp;“(3)
-
-Eligible retired or former member.—For purposes of paragraphs (1) and (2), an eligible retired or former member is a member or former member of the uniformed services who on the day before the first day of the open enrollment period is not a participant in the Survivor Benefit Plan and—
-
-&emsp;&emsp;“(A) is entitled to retired pay; or
-
-&emsp;&emsp;“(B) would be entitled to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, but for the fact that such member or former member is under 60 years of age.
-
-&emsp;“(4)
-
-Status under sbp of persons making elections.—
-
-&emsp;&emsp;“(A)
-
-Standard annuity.—A person making an election under paragraph (1) by reason of eligibility under paragraph (3)(A) shall be treated for all purposes as providing a standard annuity under the Survivor Benefit Plan.
-
-&emsp;&emsp;“(B)
-
-Reserve-component annuity.—A person making an election under paragraph (1) by reason of eligibility under paragraph (3)(B) shall be treated for all purposes as providing a reserve-component annuity under the Survivor Benefit Plan.
-
-“(b)
-
-Election To Increase Coverage Under SBP.—A person who on the day before the first day of the open enrollment period is a participant in the Survivor Benefit Plan but is not participating at the maximum base amount or is providing coverage under the Plan for a dependent child and not for the person's spouse or former spouse may, during the open enrollment period elect to—
-
-&emsp;“(1) participate in the Plan at a higher base amount (not in excess of the participant's retired pay); or
-
-&emsp;“(2) provide annuity coverage under the Plan for the person's spouse or former spouse at a base amount not less than the base amount provided for the dependent child.
-
-“(c)
-
-Election for Current SBP Participants To Participate in Supplemental SBP.—
-
-&emsp;“(1)
-
-Election.—A person who is eligible to make an election under this paragraph may elect during the open enrollment period to participate in the Supplemental Survivor Benefit Plan established under subchapter III of chapter 73 of title 10, United States Code, as added by section 1404.
-
-&emsp;“(2)
-
-Persons eligible.—Except as provided in paragraph (3), a person is eligible to make an election under paragraph (1) if on the day before the first day of the open enrollment period the person is a participant in the Survivor Benefit Plan at the maximum level, or during the open enrollment period the person increases the level of such participation to the maximum level under subsection (b) of this section, and under that Plan is providing annuity coverage for the person's spouse or a former spouse.
-
-&emsp;“(3)
-
-Limitation on eligibility for certain sbp participants not affected by two-tier annuity computation.—A person is not eligible to make an election under paragraph (1) if (as determined by the Secretary concerned) the annuity of a spouse or former spouse beneficiary of that person under the Survivor Benefit Plan will be computed under section 1451(e) of title 10, United States Code. However, such a person may during the open enrollment period waive the right to have that annuity computed under such section. Any such election is irrevocable. A person making such a waiver may make an election under paragraph (1) as in the case of any other participant in the Survivor Benefit Plan.
-
-“(d)
-
-Manner of Making Elections.—An election under this section must be made in writing, signed by the person making the election, and received by the Secretary concerned before the end of the open enrollment period. Any such election shall be made subject to the same conditions, and with the same opportunities for designation of beneficiaries and specification of base amount, that apply under the Survivor Benefit Plan or the Supplemental Survivor Benefit Plan, as the case may be. A person making an election under subsection (a) to provide a reserve-component annuity shall make a designation described in section 1448(e) of title 10, United States Code.
-
-“(e)
-
-Effective Date for Elections.—Any such election shall be effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
-
-“(f)
-
-Open Enrollment Period Defined.—The open enrollment period is the one-year period beginning on April 1, 1992.
-
-“(g)
-
-Effect of Death of Person Making Election Within Two Years of Making Election.—(1) If a person making an election under this section dies before the end of the two-year period beginning on the effective date of the election, the election is void and the amount of any reduction in retired pay of the person that is attributable to the election shall be paid in a lump sum to the person who would have been the deceased person's beneficiary under the voided election ifthe deceased person had died after the end of such two-year period.
-
-“(2) Paragraph (1) does not apply in the case of the death of a person making an election under subsection (a) if the beneficiary of that person under the election is the person's spouse and that spouse was entitled, before November 1, 1990, to receive dependency and indemnity compensation benefits from the Department of Veterans Affairs based on a previous marriage to another member or former member of the uniformed services.
-
-“(h)
-
-Applicability of Certain Provisions of Law.—The provisions of sections 1449, 1453, and 1454 of title 10, United States Code, are applicable to a person making an election, and to an election, under this section in the same manner as if the election were made under the Survivor Benefit Plan or the Supplemental Survivor Benefit Plan, as the case may be.
-
-“(i)
-
-Report Concerning Open Season.—Not later than June 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the open season authorized by this section for the Survivor Benefit Plan. The report shall include—
-
-&emsp;“(1) a description of the Secretary's plans for implementation of the open season;
-
-&emsp;“(2) the Secretary's estimates of the costs associated with the open season, including any anticipated effect of the open season on the actuarial status of the Department of Defense Military Retirement Fund; and
-
-&emsp;“(3) any recommendation by the Secretary for further legislative action.
-
-“(j)
-
-Additional Premium.—The Secretary of Defense may require that the SBP premium for a person making an election under subsection (a)(1) or (b) include, in addition to the amount required under section 1452(a) of title 10, United States Code, an amount determined under regulations prescribed by the Secretary of Defense for the purposes of this subsection. Any such amount shall be stated as a percentage of the base amount of the person making the election and shall reflect the number of years that have elapsed since the person retired, but may not exceed 4.5 percent of that person's base amount.”
+Pub. L. 101–189, div. A, title XIV, §1405, Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(2), title XIV, §1484(<i>l</i>)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425, provided for a one-year open enrollment period beginning on Apr. 1, 1992, during which: (1) an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan, (2) a current participant in the Survivor Benefit Plan who was not participating at the maximum base amount could elect to participate in the Plan at a higher base amount or provide coverage for a previously uncovered spouse or former spouse, and (3) a participant in the Survivor Benefit Plan at the maximum level who was providing annuity coverage for a spouse or former spouse could elect to participate in the Supplemental Survivor Benefit Plan, and directed the Secretary of Defense to submit to committees of Congress a report on the open season not later than June 1, 1990.
 
 #### Definitions for 1989 Amendments
 
@@ -1154,7 +1004,7 @@ Section 4 of Pub. L. 92–425, as amended by Pub. L. 94–496, §2, Oct. 14, 197
 
 &emsp;“(3) whose annual income, as determined in establishing that eligibility, is less than the maximum annual rate of pension in effect under section 1541(b) of title 38, United States Code;
 
-> shall be paid an annuity by the Secretary concerned unless she is eligible to receive an annuity under the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\]. However, such a person who is the widow of a retired officer of the Public Health Service or the National Oceanic and Atmospheric Administration, and who would otherwise be eligible for an annuity under this section except that she does not qualify for the pensiondescribed in clause (2) of this subsection because the service of her deceased spouse is not considered active duty under section 101(21) of title 38, United States Code, is entitled to an annuity under this section.
+> shall be paid an annuity by the Secretary concerned unless she is eligible to receive an annuity under the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\]. However, such a person who is the widow of a retired officer of the Public Health Service or the National Oceanic and Atmospheric Administration, and who would otherwise be eligible for an annuity under this section except that she does not qualify for the pension described in clause (2) of this subsection because the service of her deceased spouse is not considered active duty under section 101(21) of title 38, United States Code, is entitled to an annuity under this section.
 
 “(b) The annuity under subsection (a) of this section shall be in an amount which when added to the widow's income determined under subsection (a)(3) of this section, plus the amount of any annuity being received under sections 1431–1436 of title 10, United States Code, but exclusive of a pension described in subsection (a)(2) of this section, equals the maximum annual rate of pension in effect under section 1541(b) of title 38, United States Code. In addition, the Secretary concerned shall pay to the widow, described in the last sentence of subsection (a) of this section, an amount equal to the pension she would otherwise have been eligible to receive under subchapter III of chapter 15 of title 38, United States Code, if the service of her deceased spouse was considered active duty under section 101(21) of that title.
 
@@ -1175,6 +1025,4 @@ Section 4 of Pub. L. 92–425, as amended by Pub. L. 94–496, §2, Oct. 14, 197
 #### End of 90-Day Period With Respect to Certain Individuals
 
 The 90-day period, referred to in subsec. (a)(2), (4)(B), with respect to certain individuals shall be considered to end on Mar. 31, 1980, see section 208 of Pub. L. 95–397, set out as a note under section 1447 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

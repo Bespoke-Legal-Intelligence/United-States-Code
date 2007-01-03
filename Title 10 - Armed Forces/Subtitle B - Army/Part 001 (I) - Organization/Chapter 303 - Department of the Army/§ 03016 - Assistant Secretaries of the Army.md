@@ -8,7 +8,7 @@
 
 (3) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Civil Works. He shall have as his principal duty the overall supervision of the functions of the Department of the Army relating to programs for conservation and development of the national water resources, including flood control, navigation, shore protection, and related purposes.
 
-(4) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Army, including financial managementfunctions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Army and shall advise the Secretary of the Army on financial management.
+(4) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Army, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Army and shall advise the Secretary of the Army on financial management.
 
 (Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1038; amended Pub. L. 100–456, div. A, title VII, §702(a)(1), Sept. 29, 1988, 102 Stat. 1992.)
 

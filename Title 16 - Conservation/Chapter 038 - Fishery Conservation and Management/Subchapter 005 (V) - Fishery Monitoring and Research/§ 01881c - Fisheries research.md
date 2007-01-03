@@ -22,23 +22,31 @@ Within one year after October 11, 1996, and at least every 3 years thereafter, t
 
 Areas of research are as follows:
 
-&emsp;(1) Research to support fishery conservation and management, including but not limited to, biological research concerning the abundance and life history parameters of stocks of fish, the interdependence of fisheries or stocks of fish, the identification of essential fishhabitat, the impact of pollution on fish populations, the impact of wetland and estuarine degradation, and other factors affecting the abundance and availability of fish.
+&emsp;(1) Research to support fishery conservation and management, including but not limited to, biological research concerning the abundance and life history parameters of stocks of fish, the interdependence of fisheries or stocks of fish, the identification of essential fish habitat, the impact of pollution on fish populations, the impact of wetland and estuarine degradation, and other factors affecting the abundance and availability of fish.
 
 &emsp;(2) Conservation engineering research, including the study of fish behavior and the development and testing of new gear technology and fishing techniques to minimize bycatch and any adverse effects on essential fish habitat and promote efficient harvest of target species.
 
 &emsp;(3) Research on the fisheries, including the social, cultural, and economic relationships among fishing vessel owners, crew, United States fish processors, associated shoreside labor, seafood markets and fishing communities.
 
-&emsp;(4) Information management research, including the development of a fishery information base and an information management system under section 1881 of this title that will permit the full use of information in the support of effective fishery conservation and management.
+&emsp;(4) Information management research, including the development of a fishery information base and an information management system that will permit the full use of information in the support of effective fishery conservation and management.
 
 #### (d) Public notice
 
 In developing the plan required under subsection (a) of this section, the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
-(Pub. L. 94–265, title IV, §404, as added Pub. L. 104–297, title II, §205, Oct. 11, 1996, 110 Stat. 3609.)
+(Pub. L. 94–265, title IV, §404, as added Pub. L. 104–297, title II, §205, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 109–479, title II, §203(b), Jan. 12, 2007, 120 Stat. 3614.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 404 of Pub. L. 94–265, amended section 1362 of this title and enacted provisions formerly set out as a note under section 1362 of this title, prior to being amended generally by Pub. L. 104–297.
+
+#### Amendments
+
+2007—Subsec. (c)(4). Pub. L. 109–479 struck out “under section 1881 of this title” after “system”.
 
 #### Study of Contribution of Bycatch to Charitable Organizations
 

@@ -4,7 +4,7 @@
 
 (1) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support which has been assigned to such State pursuant to section 608(a)(3) or section 671(a)(17) of this title, the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to the past-due support, shall concurrently send notice to such individual that the withholding has been made (including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund), and shall pay such amount to the State agency (together with notice of the individual's home address) for distribution in accordance with section 657 of this title. This subsection may be executed by the disbursing official of the Department of the Treasury.
 
-(2)(A) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support (as that term is defined for purposes of this paragraph under subsection (c) of this section) which such State has agreed to collect under section 654(4)(A)(ii) of this title, and that the State agency has sent notice to such individual in accordance with paragraph (3)(A), the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to such past-due support, and shall concurrently send notice to such individual that the withholding has been made, including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund. The Secretary of the Treasury shall pay the amount withheld to the State agency, and the State shall pay to the Secretary of the Treasury any fee imposed by the Secretary of the Treasury to cover the costs of the withholding and any required notification. The State agency shall, subject to paragraph (3)(B), distribute such amount to or on behalf of the child to whom the support was owed in accordance with section 657 of this title. This subsection may be executed by the Secretary of the Department of the Treasury or his designee.
+(2)(A) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support which such State has agreed to collect under section 654(4)(A)(ii) of this title, and that the State agency has sent notice to such individual in accordance with paragraph (3)(A), the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to such past-due support, and shall concurrently send notice to such individual that the withholding has been made, including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund. The Secretary of the Treasury shall pay the amount withheld to the State agency, and the State shall pay to the Secretary of the Treasury any fee imposed by the Secretary of the Treasury to cover the costs of the withholding and any required notification. The State agency shall, subject to paragraph (3)(B), distribute such amount to or on behalf of the child to whom the support was owed in accordance with section 657 of this title. This subsection may be executed by the Secretary of the Department of the Treasury or his designee.
 
 (B) This paragraph shall apply only with respect to refunds payable under section 6402 of the Internal Revenue Code of 1986 after December 31, 1985.
 
@@ -28,25 +28,19 @@
 
 #### (c) “Past-due support” defined
 
-(1) Except as provided in paragraph (2), as used in this part the term “past-due support” means the amount of a delinquency, determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a child, or of a child and the parent with whom the child is living.
+In this part the term “past-due support” means the amount of a delinquency, determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a child (whether or not a minor), or of a child (whether or not a minor) and the parent with whom the child is living.
 
-(2) For purposes of subsection (a)(2) of this section, the term “past-due support” means only past-due support owed to or on behalf of a qualified child (or a qualified child and the parent with whom the child is living if the same support order includes support for the child and the parent).
-
-(3) For purposes of paragraph (2), the term “qualified child” means a child—
-
-&emsp;(A) who is a minor; or
-
-&emsp;(B)(i) who, while a minor, was determined to be disabled under subchapter II or XVI of this chapter; and
-
-&emsp;(ii) for whom an order of support is in force.
-
-(Aug. 14, 1935, ch. 531, title IV, §464, as added Pub. L. 97–35, title XXIII, §2331(a), Aug. 13, 1981, 95 Stat. 860; amended Pub. L. 98–378, §§11(d), 21(a)–(c), Aug. 16, 1984, 98 Stat. 1318, 1322–1324; Pub. L. 99–514, §2, title XVIII, §1883(b)(8), Oct. 22, 1986, 100 Stat. 2095, 2917; Pub. L. 101–508, title V, §5011(a), (b), Nov. 5, 1990, 104 Stat. 1388–220; Pub. L. 104–134, title III, §31001(v)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title III, §302(b)(1), Aug. 22, 1996, 110 Stat. 2204; Pub. L. 105–33, title V, §§5513(a)(4), 5531(b), 5532(i)(1), Aug. 5, 1997, 111 Stat. 620, 626, 627.)
+(Aug. 14, 1935, ch. 531, title IV, §464, as added Pub. L. 97–35, title XXIII, §2331(a), Aug. 13, 1981, 95 Stat. 860; amended Pub. L. 98–378, §§11(d), 21(a)–(c), Aug. 16, 1984, 98 Stat. 1318, 1322–1324; Pub. L. 99–514, §2, title XVIII, §1883(b)(8), Oct. 22, 1986, 100 Stat. 2095, 2917; Pub. L. 101–508, title V, §5011(a), (b), Nov. 5, 1990, 104 Stat. 1388–220; Pub. L. 104–134, title III, §31001(v)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title III, §302(b)(1), Aug. 22, 1996, 110 Stat. 2204; Pub. L. 105–33, title V, §§5513(a)(4), 5531(b), 5532(i)(1), Aug. 5, 1997, 111 Stat. 620, 626, 627; Pub. L. 109–171, title VII, §7301(f)(1), Feb. 8, 2006, 120 Stat. 144.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Subsec. (a)(2)(A). Pub. L. 109–171, §7301(f)(1)(A), struck out “(as that term is defined for purposes of this paragraph under subsection (c) of this section)” after “owes past-due support”.
+
+Subsec. (c). Pub. L. 109–171, §7301(f)(1)(B), substituted “In this part” for “(1) Except as provided in paragraph (2), as used in this part”, inserted “(whether or not a minor)” after “a child” in two places, and struck out pars. (2) and (3) defining “past-due support” and “qualified child”, respectively.
 
 1997—Subsec. (a)(1). Pub. L. 105–33, §5513(a)(4), substituted “section 608(a)(3)” for “section 602(a)(26)”.
 
@@ -58,7 +52,7 @@ Pub. L. 105–33, §5532(i)(1), inserted “in accordance with section 657 of th
 
 Pub. L. 104–193 substituted “section 657” for “section 657(b)(4) or (d)(3)”.
 
-Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by theSecretary of the Department of the Treasury or his designee.”
+Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by the Secretary of the Department of the Treasury or his designee.”
 
 1990—Subsec. (a)(2)(B). Pub. L. 101–508, §5011(a), struck out “, and before January 1, 1991” after “1985”.
 
@@ -77,6 +71,10 @@ Pub. L. 98–378, §11(d), inserted “or section 671(a)(17)” and substituted 
 Subsec. (b)(1). Pub. L. 98–378, §21(b)(2), designated existing provisions as par. (1), substituted “The regulations shall be consistent with the provisions of subsection (a)(3) of this section, shall specify” for “The regulations shall specify”, substituted “and shall provide” for “and provide”, inserted provision that any fee paid to the Secretary of the Treasury pursuant to subsec. (b) may be used to reimburse appropriations which bore all or part of the cost of applying such procedure, and added par. (2).
 
 Subsec. (c)(1). Pub. L. 98–378, §21(c), designated existing provisions as par. (1), inserted reference to par. (2), and added par. (2).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VII, §7301(f)(2), Feb. 8, 2006, 120 Stat. 145, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 2007.”
 
 #### Effective Date of 1997 Amendment
 

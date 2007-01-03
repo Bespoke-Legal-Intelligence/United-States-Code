@@ -4,7 +4,7 @@
 
 #### (1) Submission
 
-&emsp;A State educational agency that desires to receive a grant under this part shall submit tothe Secretary an application at such time, in such manner, and including such information as the Secretary may require.
+&emsp;A State educational agency that desires to receive a grant under this part shall submit to the Secretary an application at such time, in such manner, and including such information as the Secretary may require.
 
 #### (2) State plan
 

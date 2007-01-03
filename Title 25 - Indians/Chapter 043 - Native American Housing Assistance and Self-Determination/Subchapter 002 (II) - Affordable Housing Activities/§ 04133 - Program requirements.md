@@ -16,7 +16,7 @@ Each recipient who owns or operates (or is responsible for funding any entity th
 
 #### (c) Insurance coverage
 
-Each recipient shall maintain adequate insurance coverage for housing units that are owned or operated or assisted with grant amounts provided under this chapter.
+Each recipient shall maintain adequate insurance coverage for housing units that are ownedor operated or assisted with grant amounts provided under this chapter.
 
 #### (d) Eligibility for admission
 

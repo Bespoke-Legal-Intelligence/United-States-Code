@@ -52,11 +52,7 @@ With respect to an identified set of AIDS activities carried out with amounts in
 
 The purposes for which amounts in the Fund may be expended include the employment of individuals necessary to carry out identified sets of AIDS activities approved under subsection (a) of this section. Any individual employed under the preceding sentence may not be included in any determination of the number of full-time equivalent employees for the Department of Health and Human Services for the purpose of any limitation on the number of such employees established by law prior to, on, or after June 10, 1993.
 
-#### (e) Report to Congress
-
-Not later than February 1 of each fiscal year, the Director of the Office shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report on the identified sets of AIDS activities carried out during the preceding fiscal year with amounts in the Fund. The report shall provide a description of each such set of activities and an explanation of the reasons underlying the use of the Fund for the set.
-
-#### (f) Definitions
+#### (e) Definitions
 
 For purposes of this section:
 
@@ -64,7 +60,7 @@ For purposes of this section:
 
 &emsp;(2) The term “identified set of AIDS activities” means a particular set of AIDS activities identified under subsection (a)(2)(A) of this section.
 
-#### (g) Funding
+#### (f) Funding
 
 #### (1) Authorization of appropriations
 
@@ -74,11 +70,13 @@ For purposes of this section:
 
 &emsp;Amounts appropriated for the Fund are available until expended.
 
-(July 1, 1944, ch. 373, title XXIII, §2356, as added Pub. L. 103–43, title XVIII, §1802, June 10, 1993, 107 Stat. 196.)
+(July 1, 1944, ch. 373, title XXIII, §2356, as added Pub. L. 103–43, title XVIII, §1802, June 10, 1993, 107 Stat. 196; amended Pub. L. 109–482, title I, §104(b)(2)(E), Jan. 15, 2007, 120 Stat. 3693.)
 
-#### Change of Name
+#### Amendments
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+2007—Subsecs. (e) to (g). Pub. L. 109–482 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than February 1 of each fiscal year, the Director of the Office shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report on the identified sets of AIDS activities carried out during the preceding fiscal year with amounts in the Fund. The report shall provide a description of each such set of activities and an explanation of the reasons underlying the use of the Fund for the set.”
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

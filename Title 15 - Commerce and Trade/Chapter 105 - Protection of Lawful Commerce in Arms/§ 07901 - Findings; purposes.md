@@ -28,7 +28,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(2) To preserve a citizen's access to a supply of firearms and ammunition for all lawful purposes, including hunting, self-defense, collecting, and competitive or recreational shooting.
 
-&emsp;(3) To guarantee a citizen's rights, privileges, and immunities, as applied to theStates, under the Fourteenth Amendment to the United States Constitution, pursuant to section 5 of that Amendment.
+&emsp;(3) To guarantee a citizen's rights, privileges, and immunities, as applied to the States, under the Fourteenth Amendment to the United States Constitution, pursuant to section 5 of that Amendment.
 
 &emsp;(4) To prevent the use of such lawsuits to impose unreasonable burdens on interstate and foreign commerce.
 
@@ -42,7 +42,7 @@ The purposes of this chapter are as follows:
 
 #### References in Text
 
-The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1213, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1213, asamended. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 The National Firearms Act, referred to in subsec. (a)(4), is classified generally to chapter 53 (§5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26.
 

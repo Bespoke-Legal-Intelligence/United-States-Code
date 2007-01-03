@@ -22,13 +22,21 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 (B) If the violator is a common carrier subject to the provisions of this chapter or an applicant for any common carrier license, permit, certificate, or other instrument of authorization issued by the Commission, the amount of any forfeiture penalty determined under this subsection shall not exceed $100,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act described in paragraph (1) of this subsection.
 
-(C) In any case not covered in subparagraph (A) or (B), the amount of any forfeiture penalty determined under this subsection shall not exceed $10,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $75,000 for any single act or failure to act described in paragraph (1) of this subsection.
+(C) Notwithstanding subparagraph (A), if the violator is—
 
-(D) The amount of such forfeiture penalty shall be assessed by the Commission, or its designee, by written notice. In determining the amount of such a forfeiture penalty, the Commission or its designee shall take into account the nature, circumstances, extent, and gravity of the violation and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+&emsp;(i)(I) a broadcast station licensee or permittee; or
+
+&emsp;(II) an applicant for any broadcast license, permit, certificate, or other instrument or authorization issued by the Commission; and
+
+&emsp;(ii) determined by the Commission under paragraph (1) to have broadcast obscene, indecent, or profane language,<sup>1</sup> the amount of any forfeiture penalty determined under this subsection shall not exceed $325,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $3,000,000 for any single act or failure to act.
+
+(D) In any case not covered in subparagraph (A), (B), or (C), the amount of any forfeiture penalty determined under this subsection shall not exceed $10,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $75,000 for any single act or failure to act described in paragraph (1) of this subsection.
+
+(E) The amount of such forfeiture penalty shall be assessed by the Commission, or its designee, by written notice. In determining the amount of such a forfeiture penalty, the Commission or its designee shall take into account the nature, circumstances, extent, and gravity of the violation and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
 (3)(A) At the discretion of the Commission, a forfeiture penalty may be determined against a person under this subsection after notice and an opportunity for a hearing before the Commission or an administrative law judge thereof in accordance with section 554 of title 5. Any person against whom a forfeiture penalty is determined under this paragraph may obtain review thereof pursuant to section 402(a) of this title.
 
-(B) If any person fails to pay an assessment of a forfeiture penalty determined under subparagraph (A) of this paragraph, after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Commission, the Commission shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the forfeiture penalty shall not be subject to review.
+(B) If any person fails to pay an assessment of a forfeiture penalty determined under subparagraph (A) of this paragraph, after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Commission, the Commission shallrefer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the forfeiture penalty shall not be subject to review.
 
 (4) Except as provided in paragraph (3) of this subsection, no forfeiture penalty shall be imposed under this subsection against any person unless and until—
 
@@ -56,13 +64,19 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 > For purposes of this paragraph, “date of commencement of the current term of such license” means the date of commencement of the last term of license for which the licensee has been granted a license by the Commission. A separate license term shall not be deemed to have commenced as a result of continuing a license in effect under section 307(c) of this title pending decision on an application for renewal of the license.
 
-(June 19, 1934, ch. 652, title V, §503, 48 Stat. 1101; Pub. L. 86–752, §7(a), Sept. 13, 1960, 74 Stat. 894; Pub. L. 95–234, §2, Feb. 21, 1978, 92 Stat. 33; Pub. L. 96–507, §2(b), Dec. 8, 1980, 94 Stat. 2747; Pub. L. 97–259, title I, §124, Sept. 13, 1982, 96 Stat. 1098; Pub. L. 98–214, §4(b), Dec. 8, 1983, 97 Stat. 1468; Pub. L. 101–239, title III, §3002(i), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 101–396, §10, Sept. 28, 1990, 104 Stat. 851; Pub. L. 102–538, title II, §§206, 210(b), Oct. 27, 1992, 106 Stat. 3543, 3544.)
+(June 19, 1934, ch. 652, title V, §503, 48 Stat. 1101; Pub. L. 86–752, §7(a), Sept. 13, 1960, 74 Stat. 894; Pub. L. 95–234, §2, Feb. 21, 1978, 92 Stat. 33; Pub. L. 96–507, §2(b), Dec. 8, 1980, 94 Stat. 2747; Pub. L. 97–259, title I, §124, Sept. 13, 1982, 96 Stat. 1098; Pub. L. 98–214, §4(b), Dec. 8, 1983, 97 Stat. 1468; Pub. L. 101–239, title III, §3002(i), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 101–396, §10, Sept. 28, 1990, 104 Stat. 851; Pub. L. 102–538, title II, §§206, 210(b), Oct. 27, 1992, 106 Stat. 3543, 3544; Pub. L. 109–235, §2, June 15, 2006, 120 Stat. 491.)
 
 #### References in Text
 
 Parts II and III of subchapter III of this chapter, referred to in subsec. (b)(1), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(2)(C). Pub. L. 109–235, §2(2), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(2)(D). Pub. L. 109–235, §2(1), (3), redesignated subpar. (C) as (D) and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”. Former subpar. (D) redesignated (E).
+
+Subsec. (b)(2)(E). Pub. L. 109–235, §(2)(1), redesignated subpar. (D) as (E).
 
 1992—Subsec. (b)(5). Pub. L. 102–538, §210(b), substituted “system operator,” for “system operator or” and inserted “, or in the case of violations of section 303(q) of this title, if the person involved is a nonlicensee tower owner who has previously received notice of the obligations imposed by section 303(q) of this title from the Commission or the permittee or licensee who uses that tower” after “section 307(e) of this title”.
 
@@ -78,7 +92,7 @@ Subsec. (b)(6)(A). Pub. L. 102–538, §206(1), struck out “so long as such vi
 
 1982—Subsec. (b)(5). Pub. L. 97–259 inserted “, or is a cable television system operator” after “other authorization is required”.
 
-1980—Subsec. (b). Pub. L. 96–507 conformed references in first paragraph to sections 509(a) and 507 of this titleto reflect renumbering of those sections which required no change in text.
+1980—Subsec. (b). Pub. L. 96–507 conformed references in first paragraph to sections 509(a) and 507 of this title to reflect renumbering of those sections which required no change in text.
 
 1978—Subsec. (b). Pub. L. 95–234 substituted provisions relating to activities making persons liable for forfeiture penalties, amounts of forfeiture penalties, procedures applicable for imposition of forfeiture penalties, and exemptions from liability from imposition of forfeiture penalties, for provisions relating to activities of licensees or permittees constituting violations and authorizing forfeiture to the United States of a sum not to exceed $1,000 for each separate offense, procedures applicable for imposition of forfeiture liability, and limitations on imposition of forfeiture liability.
 
@@ -87,4 +101,6 @@ Subsec. (b)(6)(A). Pub. L. 102–538, §206(1), struck out “so long as such vi
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–234 effective on thirtieth day after Feb. 21, 1978, except that the provisions of subsec. (b) of this section, as in effect on Feb. 21, 1978, shall continue to constitute the applicable law with respect to any act or omission which occurs prior to such thirtieth day, see section 7 of Pub. L. 95–234, set out as a note under section 152 of this title.
+
+<i><sup>1</sup></i><i> So in original. Following provision probably should be set flush with subpar. (C).</i>
 

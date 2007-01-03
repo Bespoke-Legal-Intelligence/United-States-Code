@@ -30,7 +30,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (c) Discretionary appropriations
 
-For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b) of this section:
+For the budget year and each outyear, the baseline shall be calculated using the followingassumptions regarding all amounts other than those covered by subsection (b) of this section:
 
 #### (1) Inflation of current-year appropriations
 
@@ -42,7 +42,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Social insurance administrative expenses
 
-&emsp;Budgetary resources for the administrative expenses of the following trust funds shall beadjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
+&emsp;Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
 
 #### (4) Pay annualization; offset to pay absorption
 
@@ -68,7 +68,7 @@ Amounts realized from the sale of an asset shall not be included in estimates un
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 

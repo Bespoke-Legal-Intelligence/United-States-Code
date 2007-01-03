@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the event no applicants are approved for the conveyance of a historic light station pursuant to section 470w–7 of this title, the historic light station shall be offered for sale. Terms of such sales shall be developed by the Administrator of General Services and consistent with the requirements of section 470w–7, subparagraphs (A) through (D) and (H) of subsection (c)(1), and subsection (c)(2), of this title. Conveyance documents shall include all necessary covenants to protect the historical integrity of the historic light station and ensure that any Federal aid to navigation located at the historic light station is operated and maintained by the United States for as long as needed for that purpose.
+In the event no applicants are approved for the conveyance of a historic light station pursuant to section 470w–7 of this title, the historic light station shall be offered for sale. Terms of such sales shall be developed by the Administrator of General Services and consistent with the requirements of section 470w–7, subparagraphs (A) through (D) and (H) of subsection (c)(1), and subsection (c)(2), of this title. Conveyance documents shall include all necessary covenants toprotect the historical integrity of the historic light station and ensure that any Federal aid to navigation located at the historic light station is operated and maintained by the United States for as long as needed for that purpose.
 
 #### (b) Net sale proceeds
 

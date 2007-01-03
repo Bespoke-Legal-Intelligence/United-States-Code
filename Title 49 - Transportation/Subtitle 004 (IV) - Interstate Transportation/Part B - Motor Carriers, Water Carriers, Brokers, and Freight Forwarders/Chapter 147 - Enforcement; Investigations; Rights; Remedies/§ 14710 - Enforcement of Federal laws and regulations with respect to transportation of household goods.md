@@ -2,11 +2,11 @@
 
 (a)
 
-Enforcement by States.—Notwithstanding any other provision of this title, a State authority other than the attorney general of the state <sup>1</sup> may, as parens patriae, enforce the consumer protection provisions of this title that apply to individual shippers, as determined by the Secretary, and are related to the delivery and transportation of household goods in interstate commerce. Any civil action for injunctive relief to enjoin such delivery or transportation or to compel a person to pay a fine or penalty assessed under chapter 149 shall be brought in an appropriate district court of the United States. Any fine or penalty imposed on a carrier in a proceeding under this subsection shall be paid, notwithstanding any other provision of law, to and retained by the State.
+Enforcement by States.—Notwithstanding any other provision of this title, a State authority may enforce the consumer protection provisions of this title that apply to individual shippers, as determined by the Secretary, and are related to the delivery and transportation of household goods in interstate commerce. Any fine or penalty imposed on a carrier in a proceeding under this subsection shall be paid, notwithstanding any other provision of law, to and retained by the State.
 
 (b)
 
-Exercise of Enforcement Authority.—The authority of this section shall be exercised subject to the requirements of sections 14711(b)–(f) of this title.
+Notice.—The State shall serve written notice to the Secretary or the Board, as the case may be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide the notice immediately upon instituting such civil action.
 
 (c)
 
@@ -14,21 +14,17 @@ Enforcement Assistance Outreach Plan.—The Federal Motor Carrier Safety Adminis
 
 (d)
 
-State Authority Defined.—In this section, the term “State authority” means an agency of a State that has authority under the laws of the State to regulate the intrastate movement of household goods.
+State Authority Defined.—In this section, the term “State authority” means anagency of a State that has authority under the laws of the State to regulate the intrastate movement of household goods.
 
 (Added Pub. L. 109–59, title IV, §4206(b)(1), Aug. 10, 2005, 119 Stat. 1754; amended Pub. L. 109–115, div. A, title I, §173(a), (b), Nov. 30, 2005, 119 Stat. 2426.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 173(e) of Pub. L. 109–115, see Termination Date of 2005 Amendment note below.</i>
-
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–115, §173(a), (e), temporarily substituted “a State authority other than the attorney general of the state may, as parens patriae,” for “a State authority may” in first sentence and inserted second sentence. See Termination Date of 2005 Amendment note below.
+2005—Subsec. (a). Pub. L. 109–115, §173(a), (e), temporarily substituted “a State authority other than the attorney general of the state may, as parens patriae,” for “a State authority may” in first sentence and inserted second sentence which read as follows: “Any civil action for injunctive relief to enjoin such delivery or transportation or to compel a person to pay a fine or penalty assessed under chapter 149 shall be brought in an appropriate district court of the United States.” See Termination Date of 2005 Amendment note below.
 
-Subsec. (b). Pub. L. 109–115, §173(b), (e), temporarily amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
+Subsec. (b). Pub. L. 109–115, §173(b), (e), temporarily amended subsec. (b) to read as follows: “
 
-Notice.—The State shall serve written notice to the Secretary or the Board, as the case may be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide the notice immediately upon instituting such civil action.” See Termination Date of 2005 Amendment note below.
+Exercise of Enforcement Authority.—The authority of this section shall be exercised subject to the requirements of sections 14711(b)–(f) of this title.” See Termination Date of 2005 Amendment note below.
 
 #### Termination Date of 2005 Amendment
 
@@ -55,6 +51,4 @@ Federal Advisory Committee Act Exemption.—The Federal Advisory Committee Act (
 Termination Date.—The working group shall remain in effect until September 30, 2009.”
 
 \[For definitions of “household goods”, “Secretary”, and “transportation” as used in section 4213 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

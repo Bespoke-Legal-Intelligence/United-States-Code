@@ -2,7 +2,7 @@
 
 #### (a) Mandatory registration
 
-Beginning 180 days after the date of the determination of the Commission under section7211(d) of this title, it shall be unlawful for any person that is not a registered public accounting firm to prepare or issue, or to participate in the preparation or issuance of, any audit report with respect to any issuer.
+Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it shall be unlawful for any person that is not a registered public accounting firm to prepare or issue, or to participate in the preparation or issuance of, any audit report with respect to any issuer.
 
 #### (b) Applications for registration
 

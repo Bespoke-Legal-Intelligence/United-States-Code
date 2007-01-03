@@ -12,3 +12,4 @@
 - [&sect; 01105 - Liaison with internal security officers; data exchange](%C2%A7%2001105%20-%20Liaison%20with%20internal%20security%20officers%3B%20data%20exchange.md)
 - [&sect; 01105a - Employment authorization for battered spouses of certain nonimmigrants](%C2%A7%2001105a%20-%20Employment%20authorization%20for%20battered%20spouses%20of%20certain%20nonimmigrants.md)
 - [&sect; 01106 - Repealed. Pub. L. 91&#8211;510, title IV, &sect;422(a), Oct. 26, 1970, 84 Stat. 1189](%C2%A7%2001106%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93510%2C%20title%20IV%2C%20%C2%A7422%28a%29%2C%20Oct.%2026%2C%201970%2C%2084%20Stat.%201189.md)
+- [&sect; 01107 - Additional report](%C2%A7%2001107%20-%20Additional%20report.md)

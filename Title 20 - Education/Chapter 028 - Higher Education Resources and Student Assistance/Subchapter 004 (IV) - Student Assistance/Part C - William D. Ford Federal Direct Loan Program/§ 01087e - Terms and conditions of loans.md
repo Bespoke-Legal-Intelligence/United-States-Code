@@ -4,7 +4,7 @@
 
 #### (1) Parallel terms, conditions, benefits, and amounts
 
-&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, and 1078–8 of this title.
+&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loansmade to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
 
 #### (2) Designation of loans
 
@@ -12,9 +12,11 @@
 
 &emsp;&emsp;(A) section 1078 of this title shall be known as “Federal Direct Stafford Loans”;
 
-&emsp;&emsp;(B) section 1078–2 of this title shall be known as “Federal Direct PLUS Loans”; and
+&emsp;&emsp;(B) section 1078–2 of this title shall be known as “Federal Direct PLUS Loans”;
 
-&emsp;&emsp;(C) section 1078–8 of this title shall be known as “Federal Direct Unsubsidized Stafford Loans”.
+&emsp;&emsp;(C) section 1078–3 of this title shall be known as “Federal Direct Consolidation Loans”; and
+
+&emsp;&emsp;(D) section 1078–8 of this title shall be known as “Federal Direct Unsubsidized Stafford Loans”.
 
 #### (b) Interest rate
 
@@ -172,7 +174,7 @@
 
 #### (C) Consolidation loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaidprincipal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
@@ -182,7 +184,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this part, the Secretary is authorized to prescribe by regulation such reductions in the interest rate paid by a borrower of a loan made under this part as the Secretary determines appropriate to encourage on-time repayment of the loan. Such reductions may be offered only if the Secretary determines the reductions are cost neutral and in the best financial interest of the Federal Government. Any increase in subsidy costs resulting from such reductions shall be completely offset by corresponding savings in funds available for the William D. Ford Federal Direct Loan Program in that fiscal year from section 1087h of this title and other administrative accounts.
+&emsp;&emsp;Notwithstanding any other provision of this part, the Secretary is authorized to prescribe by regulation such reductions in the interest rate or origination fee paid by a borrower of a loan made under this part as the Secretary determines appropriate to encourage on-time repayment of the loan. Such reductions may be offered only if the Secretary determines the reductions are cost neutral and in the best financial interest of the Federal Government. Any increase in subsidy costs resulting from such reductions shall be completely offset by corresponding savings in funds available for the William D. Ford Federal Direct Loan Program in that fiscal year from section 1087h of this title and other administrative accounts.
 
 #### (B) Accountability
 
@@ -190,11 +192,27 @@
 
 #### (9) Publication
 
-&emsp;The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of theTreasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+&emsp;The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (c) Loan fee
 
-The Secretary shall charge the borrower of a loan made under this part an origination fee of 4.0 percent of the principal amount of loan.
+#### (1) In general
+
+&emsp;The Secretary shall charge the borrower of a loan made under this part an origination fee of 4.0 percent of the principal amount of loan.
+
+#### (2) Subsequent reduction
+
+&emsp;Paragraph (1) shall be applied to loans made under this part, other than Federal Direct Consolidation loans and Federal Direct PLUS loans—
+
+&emsp;&emsp;(A) by substituting “3.0 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after February 8, 2006, and before July 1, 2007;
+
+&emsp;&emsp;(B) by substituting “2.5 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2007, and before July 1, 2008;
+
+&emsp;&emsp;(C) by substituting “2.0 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2008, and before July 1, 2009;
+
+&emsp;&emsp;(D) by substituting “1.5 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2009, and before July 1, 2010; and
+
+&emsp;&emsp;(E) by substituting “1.0 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2010.
 
 #### (d) Repayment plans
 
@@ -202,11 +220,11 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 &emsp;Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower's loans under this part. The borrower may choose—
 
-&emsp;&emsp;(A) a standard repayment plan, with a fixed annual repayment amount paid over a fixed period of time, consistent with subsection (a)(1) of this section;
+&emsp;&emsp;(A) a standard repayment plan, consistent with subsection (a)(1) of this section and with section 1078(b)(9)(A)(i) of this title;
 
-&emsp;&emsp;(B) an extended repayment plan, with a fixed annual repayment amount paid over an extended period of time, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
+&emsp;&emsp;(B) a graduated repayment plan, consistent with section 1078(b)(9)(A)(ii) of this title;
 
-&emsp;&emsp;(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and
+&emsp;&emsp;(C) an extended repayment plan, consistent with section 1078(b)(9)(A)(v) of this title, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title; and
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan.
 
@@ -220,7 +238,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 #### (4) Alternative repayment plans
 
-&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1) are not adequate to accommodate the borrower's exceptional circumstances. In designing such alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
+&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1) are not adequate to accommodate the borrower's exceptional circumstances. In designingsuch alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
 
 #### (5) Repayment after default
 
@@ -288,7 +306,13 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 &emsp;&emsp;(B) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
-&emsp;&emsp;(C) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(<i>o</i>) of this title, that the borrower has experienced or will experience an economic hardship.
+&emsp;&emsp;(C) not in excess of 3 years during which the borrower—
+
+&emsp;&emsp;&emsp;(i) is serving on active duty during a war or other military operation or national emergency; or
+
+&emsp;&emsp;&emsp;(ii) is performing qualifying National Guard duty during a war or other military operation or national emergency; or
+
+&emsp;&emsp;(D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(<i>o</i>) of this title, that the borrower has experienced or will experience an economic hardship.
 
 #### (3) “Borrower” defined
 
@@ -300,7 +324,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 #### (g) Federal Direct Consolidation Loans
 
-A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title. Loans made under this subsection shall be known as “Federal Direct Consolidation Loans”.
+A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.
 
 #### (h) Borrower defenses
 
@@ -314,7 +338,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (1) In general
 
-&emsp;Proceeds of loans to students under this part shall be applied to the student's account for tuition and fees, and, in the case of institutionally owned housing, to room and board.Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
+&emsp;Proceeds of loans to students under this part shall be applied to the student's account for tuition and fees, and, in the case of institutionally owned housing, to room and board. Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
 
 #### (2) Payment periods
 
@@ -344,15 +368,35 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Forbearance
 
-&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than thepayments of interest on the loan that are made under that paragraph.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–171, §8009(d)(1), inserted “1078–3,” after “1078–2,”.
+
+Subsec. (a)(2)(C), (D). Pub. L. 109–171, §8009(d)(2), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (b)(8)(A). Pub. L. 109–171, §8008(c)(3), inserted “or origination fee” after “reductions in the interest rate”.
+
+Subsec. (c). Pub. L. 109–171, §8008(c)(2), designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+
+Subsec. (d)(1)(A) to (C). Pub. L. 109–171, §8008(b), added subpars. (A) to (C) and struck out former subpars. (A) to (C), which read as follows:
+
+“(A) a standard repayment plan, with a fixed annual repayment amount paid over a fixed period of time, consistent with subsection (a)(1) of this section;
+
+“(B) an extended repayment plan, with a fixed annual repayment amount paid over an extended period of time, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
+
+“(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and”.
+
+Subsec. (f)(2)(C), (D). Pub. L. 109–171, §8007(b), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.” for “Loans made under this subsection shall be known as ‘Federal Direct Consolidation Loans’.”
 
 2002—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted “
 
@@ -392,6 +436,12 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal 
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
+Amendment by section 8007(b) of Pub. L. 109–171 applicable with respect to loans for which the first disbursement is made on or after July 1, 2001, see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–314 applicable with respect to interest, and any special allowance under section 1087–1 of this title, that accrue for months beginning on or after Oct. 1, 2003, on student loans described in section 2174(c) of Title 10, Armed Forces, that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of Title 10) on or after that date, see section 651(e) of Pub. L. 107–314, set out as an Effective Date note under section 2174 of Title 10.
@@ -405,6 +455,10 @@ Pub. L. 105–244, title IV, §452(d), Oct. 7, 1998, 112 Stat. 1717, provided th
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
+
+#### Construction of 2006 Amendment
+
+Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to authorize any refunding of any repayment of a loan, see section 8007(e) of Pub. L. 109–171, set out as a note under section 1078 of this title.
 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 

@@ -60,7 +60,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### (1) Requirement
 
-&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds from the portionspecified in section 9835(a)(6) of this title to monitor the operation of such programs, evaluate their effectiveness, and provide training and technical assistance tailored to the particular needs of such programs.
+&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds from the portion specified in section 9835(a)(6) of this title to monitor the operation of such programs, evaluate their effectiveness, and provide training and technical assistance tailored to the particular needs of such programs.
 
 #### (2) Training and technical assistance account
 
@@ -78,7 +78,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;&emsp;(iii) providing ongoing training and technical assistance for existing recipients (as of the date of such training or assistance) of grants under subsection (a) of this section and support and program planning and implementation assistance for new recipients of such grants; and
 
-&emsp;&emsp;&emsp;(iv) providing professional development and personnel enhancement activities, including the provision of funds to recipients of grants under subsection (a) of this section for the recruitment and retention of qualified staff with an appropriate level of education and experience.
+&emsp;&emsp;&emsp;(iv) providing professional development and personnel enhancement activities, including the provision of funds to recipientsof grants under subsection (a) of this section for the recruitment and retention of qualified staff with an appropriate level of education and experience.
 
 (Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638; amended Pub. L. 105–285, title I, §113, Oct. 27, 1998, 112 Stat. 2719.)
 

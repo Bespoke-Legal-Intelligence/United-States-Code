@@ -30,7 +30,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Supplemental funds
 
-&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease on a building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
+&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease ona building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
 
 #### (3) Exemption
 
@@ -68,7 +68,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Endowment trust for supportive services
 
-&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to providesupportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shall be invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
+&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shall be invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
 
 #### (e) Application and selection
 
@@ -200,7 +200,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (2) Technical assistance and program oversight
 
-&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods <sup>3</sup> Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the costof necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
+&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods <sup>3</sup> Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
 
 #### (3) Set-aside for main street housing grants
 
@@ -288,7 +288,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (B) Smaller community
 
-&emsp;&emsp;The term “smaller community” means a unit of general local government (as suchterm is defined in section 5302 of this title) that—
+&emsp;&emsp;The term “smaller community” means a unit of general local government (as such term is defined in section 5302 of this title) that—
 
 &emsp;&emsp;&emsp;(i) has a population of 50,000 or fewer; and
 
@@ -368,7 +368,7 @@ Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 199
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequentlyamended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Study of Elderly and Disabled Public Housing Needs
 

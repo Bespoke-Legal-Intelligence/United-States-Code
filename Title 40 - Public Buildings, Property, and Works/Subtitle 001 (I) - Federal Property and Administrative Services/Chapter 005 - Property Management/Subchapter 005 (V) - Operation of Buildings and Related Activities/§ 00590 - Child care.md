@@ -18,7 +18,7 @@ Child care provider.—The term “child care provider” means an individual or
 
 &emsp;&emsp;(B)
 
-Allotment officer.—The term “allotment officer” means an officer or agency of the Federal Government charged with the allotment of space in federal buildings.
+Allotment officer.—The term “allotment officer” means an officer or agency ofthe Federal Government charged with the allotment of space in federal buildings.
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ Definition.—For purposes of this subsection, the term “Executive agency” h
 
 &emsp;(2)
 
-In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal orleased facility, or through contract, for civilian employees of the agency.
+In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal or leased facility, or through contract, for civilian employees of the agency.
 
 &emsp;(3)
 

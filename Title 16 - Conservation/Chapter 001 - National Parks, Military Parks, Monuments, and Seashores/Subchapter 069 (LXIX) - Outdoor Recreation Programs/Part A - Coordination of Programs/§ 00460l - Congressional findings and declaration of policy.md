@@ -1,6 +1,6 @@
 ### §460<i>l</i>. Congressional findings and declaration of policy
 
-The Congress finds and declares it to be desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and that it is desirable for all levels of government and private interests totake prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people.
+The Congress finds and declares it to be desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and that it is desirable for all levels of government and private interests to take prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people.
 
 (Pub. L. 88–29, §1, May 28, 1963, 77 Stat. 49.)
 

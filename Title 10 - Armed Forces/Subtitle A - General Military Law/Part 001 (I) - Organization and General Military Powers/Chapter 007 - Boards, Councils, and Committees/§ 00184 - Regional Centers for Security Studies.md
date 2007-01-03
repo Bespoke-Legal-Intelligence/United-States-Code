@@ -1,0 +1,94 @@
+### §184. Regional Centers for Security Studies
+
+(a)
+
+In General.—The Secretary of Defense shall administer the Department of Defense Regional Centers for Security Studies in accordance with this section as international venues for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
+
+(b)
+
+Regional Centers Specified.—(1) A Department of Defense Regional Center for Security Studies is a Department of Defense institution that—
+
+&emsp;(A) is operated, and designated as such, by the Secretary of Defense for the study of security issues relating to a specified geographic region of the world; and
+
+&emsp;(B) serves as a forum for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
+
+(2) The Department of Defense Regional Centers for Security Studies are the following:
+
+&emsp;(A) The George C. Marshall European Center for Security Studies, established in 1993 and located in Garmisch-Partenkirchen, Germany.
+
+&emsp;(B) The Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
+
+&emsp;(C) The Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
+
+&emsp;(D) The Africa Center for Strategic Studies, established in 1999 and located in Washington, D.C.
+
+&emsp;(E) The Near East South Asia Center for Strategic Studies, established in 2000 and located in Washington, D.C.
+
+(3) No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2), except as specifically provided by law after the date of the enactment of this section.
+
+(c)
+
+Regulations.—The administration of the Regional Centers under this section shall be carried out under regulations prescribed by the Secretary.
+
+(d)
+
+Participation.—Participants in activities of the Regional Centers may include United States and foreign military, civilian, and nongovernmental personnel.
+
+(e)
+
+Employment and Compensation of Faculty.—At each Regional Center, the Secretary may, subject to the availability of appropriations—
+
+&emsp;(1) employ a Director, a Deputy Director, and as many civilians as professors, instructors, and lecturers as the Secretary considers necessary; and
+
+&emsp;(2) prescribe the compensation of such persons, in accordance with Federal guidelines.
+
+(f)
+
+Payment of Costs.—(1) Participation in activities of a Regional Center shall be on a reimbursable basis (or by payment in advance), except in a case in which reimbursement is waived in accordance with paragraph (3).
+
+(2) For a foreign national participant, payment of costs may be made by the participant, the participant's own government, by a Department or agency of the United States other than the Department of Defense, or by a gift or donation on behalf of one or more Regional Centers accepted under section 2611 of this title on behalf of the participant's government.
+
+(3) The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security civilian government officials from a developing country if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest of the United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
+
+(4) Funds accepted for the payment of costs shall be credited to the appropriation then currently available to the Department of Defense for the Regional Center that incurred the costs. Funds so credited shall be merged with the appropriation to which credited and shall be available to that Regional Center for the same purposes and same period as the appropriation with which merged.
+
+(5) Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.
+
+(g)
+
+Support to Other Agencies.—The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
+
+(h)
+
+Annual Report.—Not later than February 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the operation of the Regional Centers for security studies during the preceding fiscal year. The annual report shall include, for each Regional Center, the following information:
+
+&emsp;(1) The status and objectives of the center.
+
+&emsp;(2) The budget of the center, including the costs of operating the center.
+
+&emsp;(3) A description of the extent of the international participation in the programs of the center, including the costs incurred by the United States for the participation of each foreign nation.
+
+&emsp;(4) A description of the foreign gifts and donations, if any, accepted under section 2611 of this title.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351.)
+
+#### References in Text
+
+The date of the enactment of this section, referred to in subsec. (b)(3), probably means the date of enactment of Pub. L. 109–364, which amended this section generally and was approved Oct. 17, 2006.
+
+#### Amendments
+
+2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to notification to Congress of the establishment of new regional centers, annual report on the operation of such centers, and definition of “regional center for security studies”.
+
+Subsec. (b)(4). Pub. L. 109–163 substituted “under section 2611 of this title.” for “under any of the following provisions of law:
+
+&emsp;“(A) Section 2611 of this title.
+
+&emsp;“(B) Section 1306 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2892).
+
+&emsp;“(C) Section 1065 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2653; 10 U.S.C. 113 note).”
+
+2003—Subsec. (b)(4). Pub. L. 108–136 struck out “foreign” before “gifts”.
+
+2001—Subsec. (a). Pub. L. 107–107 substituted “October 30, 2000,” for “the date of the enactment of this section,” in introductory provisions.
+

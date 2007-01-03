@@ -72,7 +72,7 @@
 
 (2)(A) The holder of a claim described in subsection (a)(10) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
 
-(B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a lastknown address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
+(B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, §102(c), title II, §219(a), title IV, §446(b), title XI, §1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192.)
 
@@ -84,7 +84,7 @@ Section 704(8) of the Senate amendment is deleted in the House amendment. Truste
 
 #### senate report no. 95–989
 
-The essential duties of the trustee are enumerated in this section. Others, or elaborations on these, may be prescribed by the Rules of Bankruptcy Procedure to the extent not inconsistent with those prescribed by this section. The duties are derived from section 47a of the Bankruptcy Act \[section 75(a) of former title 11\].
+The essential duties of the trustee are enumerated in this section. Others, or elaborations on these, may be prescribed by the Rules of Bankruptcy Procedure to theextent not inconsistent with those prescribed by this section. The duties are derived from section 47a of the Bankruptcy Act \[section 75(a) of former title 11\].
 
 The trustee's principal duty is to collect and reduce to money the property of the estate for which he serves, and to close up the estate as expeditiously as is compatible with the best interests of parties in interest. He must be accountable for all property received, and must investigate the financial affairs of the debtor. If a purpose would be served (such as if there are assets that will be distributed), the trustee is required to examine proofs of claims and object to the allowance of any claim that is improper. If advisable, the trustee must oppose the discharge of the debtor, which is for the benefit of general unsecured creditors whom the trustee represents.
 

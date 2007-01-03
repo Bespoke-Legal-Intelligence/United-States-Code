@@ -20,7 +20,7 @@ The Secretary may not guarantee a loan for a United States commercial provider u
 
 #### (2) Periodic disbursements
 
-&emsp;In the case of a loan guarantee in which proceeds of the loan are disbursed over time, the Secretary shall collect the amount requiredunder this subsection on a pro rata basis, as determined by the Secretary, at the time of each disbursement.
+&emsp;In the case of a loan guarantee in which proceeds of the loan are disbursed over time, the Secretary shall collect the amount required under this subsection on a pro rata basis, as determined by the Secretary, at the time of each disbursement.
 
 #### (e) Other terms and conditions
 

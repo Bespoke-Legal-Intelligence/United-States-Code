@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) The illegality of domestic violence, sexual assault, and child abuse in the United States and the dynamics of domestic violence.
 
-&emsp;&emsp;(C) Domestic violence and sexual assault services in the United States, including theNational Domestic Violence Hotline and the National Sexual Assault Hotline.
+&emsp;&emsp;(C) Domestic violence and sexual assault services in the United States, including the National Domestic Violence Hotline and the National Sexual Assault Hotline.
 
 &emsp;&emsp;(D) The legal rights of immigrant victims of abuse and other crimes in immigration, criminal justice, family law, and other matters, including access to protection orders.
 
@@ -288,7 +288,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vii) the annual number of fiance�AE1(e) and spousal K nonimmigrant visa petitions or family-based immigration petitions filed by petitioners or applicants who have concurrently filed other fiance�AE1(e) or spousal K nonimmigrant visa petitioners or family-based immigration petitions; and
 
-&emsp;&emsp;&emsp;(viii) the annual and cumulative number of petitioners and applicants tracked in the multiple filings database establishedunder paragraph (4) of section 1184(r) of this title;
+&emsp;&emsp;&emsp;(viii) the annual and cumulative number of petitioners and applicants tracked in the multiple filings database established under paragraph (4) of section 1184(r) of this title;
 
 &emsp;&emsp;(B) regarding the number of international marriage brokers doing business in the United States, the number of marriages resulting from the services provided, and the extent of compliance with the applicable requirements of this section;
 

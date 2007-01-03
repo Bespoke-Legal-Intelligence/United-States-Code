@@ -22,7 +22,7 @@ Additional requirements.—When awarding a contract described in paragraph (1), 
 
 &emsp;&emsp;(A)
 
-Performance of audits.—Any contract or subcontract awarded under this chapter shall be performed and audited in compliance with cost principles contained in part 31 of title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation).
+Performance of audits.—Any contract or subcontract awarded under thischapter shall be performed and audited in compliance with cost principles contained in part 31 of title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation).
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ Pub. L. 105–178, §3022(a)(1), (2), redesignated subsec. (d) as (b) and struck
 
 &emsp;“(2) with a party selected through a competitive procurement process.”
 
-Subsec. (c). Pub. L. 105–178, §3022(a)(1), (3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A recipient of a grantunder section 5307 of this title procuring an associated capital maintenance item under section 5307(b) may make a contract directly with the original manufacturer or supplier of the item to be replaced, without receiving prior approval of the Secretary, if the recipient first certifies in writing to the Secretary that—
+Subsec. (c). Pub. L. 105–178, §3022(a)(1), (3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A recipient of a grant under section 5307 of this title procuring an associated capital maintenance item under section 5307(b) may make a contract directly with the original manufacturer or supplier of the item to be replaced, without receiving prior approval of the Secretary, if the recipient first certifies in writing to the Secretary that—
 
 &emsp;“(1) the manufacturer or supplier is the only source for the item; and
 

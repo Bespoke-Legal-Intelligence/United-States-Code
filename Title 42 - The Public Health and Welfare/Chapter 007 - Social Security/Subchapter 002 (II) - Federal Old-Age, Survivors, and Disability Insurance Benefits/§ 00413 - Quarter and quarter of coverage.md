@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 95–216, §352(b), added subsec. (d).
 
 Pub. L. 93–66 substituted “$12,600” for “$12,000”, in cls. (ii) and (iii).
 
-1972—Subsec. (a)(2)(ii). Pub. L. 92–336, §203(a)(3)(A), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution andbenefit base in the case of any calendar year after 1974 with respect to which such contribution and benefit base is effective.
+1972—Subsec. (a)(2)(ii). Pub. L. 92–336, §203(a)(3)(A), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base in the case of any calendar year after 1974 with respect to which such contribution and benefit base is effective.
 
 Subsec. (a)(2)(iii). Pub. L. 92–336, §203(a)(3)(B), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974.
 
@@ -164,7 +164,7 @@ Amendment by section 203(a)(3)(A) of Pub. L. 92–336 applicable only with respe
 
 #### Effective Date of 1971 Amendment
 
-Amendment by section 203(a)(3)(A) of Pub. L. 92–5 applicable only with respect to remuneration paid afterDecember 1971, and amendment by section 203(a)(3)(B) of Pub. L. 92–5 applicable only with respect to taxable years beginning after 1971, see section 203(c) of Pub. L. 92–5, set out as a note under section 409 of this title.
+Amendment by section 203(a)(3)(A) of Pub. L. 92–5 applicable only with respect to remuneration paid after December 1971, and amendment by section 203(a)(3)(B) of Pub. L. 92–5 applicable only with respect to taxable years beginning after 1971, see section 203(c) of Pub. L. 92–5, set out as a note under section 409 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -194,7 +194,7 @@ Section 206(b) of Pub. L. 86–778 provided that:
 
 &emsp;“(D) who dies in or after the month in which this Act is enacted \[September 1960\] and whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[section 415(f)(6) of this title\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act; or
 
-&emsp;“(E) who dies prior to the month in which this Act is enacted \[September 1960\] and (i) whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act, be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act \[section 415(f)(4)(A) of this title\], and (ii) on the basis of whose wages and self-employment income no individual was entitled to survivor's benefits or a lump-sum death payment under section 202 of such Act \[section 402 of this title\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\] (and no individual was entitled to such a benefit, without the filing of an application, for any month prior to the month in which this Act is enacted \[September 1960\]); or
+&emsp;“(E) who dies prior to the month in which this Act is enacted \[September 1960\] and (i) whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act, be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act \[section 415(f)(4)(A) of this title\], and (ii) on the basis of whose wages and self-employment income no individual wasentitled to survivor's benefits or a lump-sum death payment under section 202 of such Act \[section 402 of this title\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\] (and no individual was entitled to such a benefit, without the filing of an application, for any month prior to the month in which this Act is enacted \[September 1960\]); or
 
 &emsp;“(F) who files an application for a recomputation under section 102(f)(2)(B) of the Social Security Amendments of 1954 \[set out as a note under section 415 of this title\] in or after the month in which this Act is enacted \[September 1960\] and is (or would, but for the fact that such recomputation would not result in a higher primary insurance amount, be) entitled to have his primary insurance amount recomputed under such subparagraph; or
 

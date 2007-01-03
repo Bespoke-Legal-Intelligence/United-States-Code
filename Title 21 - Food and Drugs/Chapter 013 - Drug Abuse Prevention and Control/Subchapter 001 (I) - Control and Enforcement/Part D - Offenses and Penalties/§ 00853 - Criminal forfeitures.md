@@ -64,7 +64,7 @@ Failure to comply.—Failure to comply with an order under this subsection, or a
 
 #### (f) Warrant of seizure
 
-The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in thesame manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
+The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
 
 #### (g) Execution
 
@@ -112,7 +112,7 @@ In order to facilitate the identification and location of property declared forf
 
 (1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
-(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier,petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
+(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
 (3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
@@ -160,15 +160,15 @@ The provisions of this section shall be liberally construed to effectuate its re
 
 #### (q) Restitution for cleanup of clandestine laboratory sites
 
-The court, when sentencing a defendant convicted of an offense under this subchapter or subchapter II of this chapter involving the manufacture of amphetamine or methamphetamine, shall—
+The court, when sentencing a defendant convicted of an offense under this subchapter or subchapter II of this chapter involving the manufacture, the possession, or the possession with intent to distribute, of amphetamine or methamphetamine, shall—
 
 &emsp;(1) order restitution as provided in sections 3612 and 3664 of title 18;
 
-&emsp;(2) order the defendant to reimburse the United States, the State or local government concerned, or both the United States and the State or local government concerned for the costs incurred by the United States or the State or local government concerned, as the case may be, for the cleanup associated with the manufacture of amphetamine or methamphetamine by the defendant; and
+&emsp;(2) order the defendant to reimburse the United States, the State or local government concerned, or both the United States and the State or local government concerned for the costs incurred by the United States or the State or local government concerned, as the case may be, for the cleanup associated with the manufacture of amphetamine or methamphetamine by the defendant, or on premises or in property that the defendant owns, resides, or does business in; and
 
 &emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
-(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314.)
+(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, §743(a), Mar. 9, 2006, 120 Stat. 272.)
 
 #### References in Text
 
@@ -177,6 +177,10 @@ The Federal Rules of Evidence, referred to in subsec. (e)(3), are set out in the
 The Federal Rules of Criminal Procedure, referred to in subsec. (m), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2006—Subsec. (q). Pub. L. 109–177, §743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
+
+Subsec. (q)(2). Pub. L. 109–177, §743(a)(2), inserted “, or on premises or in property that the defendant owns, resides, or does business in” after “by the defendant”.
 
 2001—Subsec. (e)(4). Pub. L. 107–56, §319(d)(2), added par. (4).
 
@@ -219,4 +223,8 @@ Subsec. (d). Pub. L. 98–473, §2301(e), struck out subsec. (d) which related t
 Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (<i>l</i>), (m), (n), (<i>o</i>), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (<i>l</i>), (m), (n), and (<i>o</i>), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (<i>o</i>), respectively, to give effect to the probable intent of Congress.
 
 Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
+
+#### Savings Clause
+
+Pub. L. 109–177, title VII, §743(b), Mar. 9, 2006, 120 Stat. 273, provided that: “Nothing in this section \[amending this section\] shall be interpreted or construed to amend, alter, or otherwise affect the obligations, liabilities and other responsibilities of any person under any Federal or State environmental laws.”
 

@@ -8,7 +8,7 @@ There is established an Office of Minority Health within the Office of Public He
 
 With respect to improving the health of racial and ethnic minority groups, the Secretary, acting through the Deputy Assistant Secretary for Minority Health (in this section referred to as the “Deputy Assistant Secretary”), shall carry out the following:
 
-&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all otheractivities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
+&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all other activities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
 
 &emsp;(2) Enter into interagency agreements with other agencies of the Public Health Service.
 
@@ -20,7 +20,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 &emsp;(6) Ensure that the National Center for Health Statistics collects data on the health status of each minority group.
 
-&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of the individuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
+&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of theindividuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
 
 &emsp;(8) Support a national minority health resource center to carry out the following:
 
@@ -80,7 +80,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (B) Health professions education regarding health disparities
 
-&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10)of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
+&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
 
 #### (2) Equitable allocation regarding activities
 
@@ -94,7 +94,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the Secretary acting through the Deputy Assistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
+&emsp;In carrying out subsection (b) of this section, the Secretary acting through the DeputyAssistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
 
 #### (2) Process for making awards
 

@@ -6,7 +6,7 @@ Fees for calibration services, standard reference materials, and other comparabl
 
 #### References in Text
 
-The amendments made by subsection (a), referred to in text, mean the amendments made by subsec. (a) of section 5 of Pub. L. 99–73, which amended section 278b(f) of this title.
+The amendments made by subsection (a), referred to in text, mean the amendments made by subsec. (a) ofsection 5 of Pub. L. 99–73, which amended section 278b(f) of this title.
 
 #### Codification
 

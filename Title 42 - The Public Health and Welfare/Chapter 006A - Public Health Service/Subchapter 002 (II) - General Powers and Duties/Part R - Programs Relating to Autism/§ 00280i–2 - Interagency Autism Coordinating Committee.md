@@ -1,0 +1,70 @@
+### §280i–2. Interagency Autism Coordinating Committee
+
+#### (a) Establishment
+
+The Secretary shall establish a committee, to be known as the “Interagency Autism Coordinating Committee” (in this section referred to as the “Committee”), to coordinate all efforts within the Department of Health and Human Services concerning autism spectrum disorder.
+
+#### (b) Responsibilities
+
+In carrying out its duties under this section, the Committee shall—
+
+&emsp;(1) develop and annually update a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, intervention, and access to services and supports for individuals with autism spectrum disorder;
+
+&emsp;(2) monitor Federal activities with respect to autism spectrum disorder;
+
+&emsp;(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including recommendations to the Director of NIH with respect to the strategic plan developed under paragraph (5);
+
+&emsp;(4) make recommendations to the Secretary regarding public participation in decisions relating to autism spectrum disorder;
+
+&emsp;(5) develop and annually update a strategic plan for the conduct of, and support for, autism spectrum disorder research, including proposed budgetary requirements; and
+
+&emsp;(6) submit to the Congress such strategic plan and any updates to such plan.
+
+#### (c) Membership
+
+#### (1) In general
+
+&emsp;The Committee shall be composed of—
+
+&emsp;&emsp;(A) the Director of the Centers for Disease Control and Prevention;
+
+&emsp;&emsp;(B) the Director of the National Institutes of Health, and the Directors of such national research institutes of the National Institutes of Health as the Secretary determines appropriate;
+
+&emsp;&emsp;(C) the heads of such other agencies as the Secretary determines appropriate;
+
+&emsp;&emsp;(D) representatives of other Federal Governmental agencies that serve individuals with autism spectrum disorder such as the Department of Education; and
+
+&emsp;&emsp;(E) the additional members appointed under paragraph (2).
+
+#### (2) Additional members
+
+&emsp;Not fewer than 6 members of the Committee, or 1/3 of the total membership of the Committee, whichever is greater, shall be composed of non-Federal public members to be appointed by the Secretary, of which—
+
+&emsp;&emsp;(A) at least one such member shall be an individual with a diagnosis of autism spectrum disorder;
+
+&emsp;&emsp;(B) at least one such member shall be a parent or legal guardian of an individual with an autism spectrum disorder; and
+
+&emsp;&emsp;(C) at least one such member shall be a representative of leading research, advocacy, and service organizations for individuals with autism spectrum disorder.
+
+#### (d) Administrative support; terms of service; other provisions
+
+The following provisions shall apply with respect to the Committee:
+
+&emsp;(1) The Committee shall receive necessary and appropriate administrative support from the Secretary.
+
+&emsp;(2) Members of the Committee appointed under subsection (c)(2) shall serve for a term of 4 years, and may be reappointed for one or more additional 4 year term. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office.
+
+&emsp;(3) The Committee shall meet at the call of the chairperson or upon the request of the Secretary. The Committee shall meet not fewer than 2 times each year.
+
+&emsp;(4) All meetings of the Committee shall be public and shall include appropriate time periods for questions and presentations by the public.
+
+#### (e) Subcommittees; establishment and membership
+
+In carrying out its functions, the Committee may establish subcommittees and convene workshops and conferences. Such subcommittees shall be composed of Committee members and may hold such meetings as are necessary to enable the subcommittees to carry out their duties.
+
+#### (f) Sunset
+
+This section shall not apply after September 30, 2011, and the Committee shall be terminated on such date.
+
+(July 1, 1944, ch. 373, title III, §399CC, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2827.)
+

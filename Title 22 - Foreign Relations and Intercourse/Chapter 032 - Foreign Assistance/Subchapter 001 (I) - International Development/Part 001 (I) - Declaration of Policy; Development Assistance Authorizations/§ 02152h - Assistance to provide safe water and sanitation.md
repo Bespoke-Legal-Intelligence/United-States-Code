@@ -82,11 +82,11 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, provided that:
 
 &emsp;“(10) Access to safe water and sanitation and improved hygiene are significant factors in controlling the spread of disease in the developing world and positively affecting worker productivity and economic development.
 
-&emsp;“(11) Increasing access to safe water and sanitation advances efforts toward other development objectives, such as fighting poverty and hunger, promoting primary education and gender equality, reducing child mortality, promoting environmental stability, improving the lives of slum dwellers, and strengthening national security.
+&emsp;“(11) Increasing access to safe water and sanitation advances efforts toward other development objectives, such as fighting poverty and hunger, promotingprimary education and gender equality, reducing child mortality, promoting environmental stability, improving the lives of slum dwellers, and strengthening national security.
 
 &emsp;“(12) Providing safe supplies of water and sanitation and hygiene improvements would save millions of lives by reducing the prevalence of water-borne diseases, water-based diseases, water-privation diseases, and water-related vector diseases.
 
-&emsp;“(13) Because women and girls in developing countries are often the carriers of water, lack of access to safe water and sanitation disproportionately affectswomen and limits women's opportunities at education, livelihood, and financial independence.
+&emsp;“(13) Because women and girls in developing countries are often the carriers of water, lack of access to safe water and sanitation disproportionately affects women and limits women's opportunities at education, livelihood, and financial independence.
 
 &emsp;“(14) Between 20 percent and 50 percent of existing water systems in developing countries are not operating or are operating poorly.
 
@@ -166,7 +166,7 @@ Conforming Amendment.—\[Amended section 1704 of Title 7, Agriculture.\]
 
 “(a)
 
-Strategy.—The President, acting through the Secretary of State, shall develop a strategy to further the United States foreign assistance objective to provide affordable and equitable access to safe water and sanitation in developing countries, as described in section 135 of the Foreign Assistance Act of 1961 \[this section\], as added by section 5(a) of this Act.
+Strategy.—The President, acting through the Secretary of State, shall develop a strategy to furtherthe United States foreign assistance objective to provide affordable and equitable access to safe water and sanitation in developing countries, as described in section 135 of the Foreign Assistance Act of 1961 \[this section\], as added by section 5(a) of this Act.
 
 “(b)
 

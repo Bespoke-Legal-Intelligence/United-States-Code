@@ -10,7 +10,7 @@
 
 &emsp;(C) the Secretary of Commerce and the Director of the National Science Foundation, in consultation with the Secretary of State, may furnish facilities and personnel to the Commission in order to assist the Commission in carrying out its functions.
 
-(2)(A) The Secretary of Commerce, in consultation with the Secretary of State, the Director of the National Science Foundation, and other appropriate Federal officials, shall prepare a plan, which shall be updated annually, for conducting the directed research program required under paragraph (1)(B) for each period of threeconsecutive fiscal years occurring during the period beginning on October 1, 1985, and ending on September 30, 1991. The plan shall—
+(2)(A) The Secretary of Commerce, in consultation with the Secretary of State, the Director of the National Science Foundation, and other appropriate Federal officials, shall prepare a plan, which shall be updated annually, for conducting the directed research program required under paragraph (1)(B) for each period of three consecutive fiscal years occurring during the period beginning on October 1, 1985, and ending on September 30, 1991. The plan shall—
 
 &emsp;(i) describe priority directed research needs for the implementation of the Convention;
 
@@ -28,11 +28,11 @@ In carrying out their functions under this section, the Secretary of State, the 
 
 #### (c) Icebreaking
 
-The Department of Transportation shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers needed to provide a platform for Antarctic research. All funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, shall be allocated to the United States Coast Guard.
+The Department of Homeland Security shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers needed to provide a platform for Antarctic research. All funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, shall be allocated to the United States Coast Guard.
 
-(Pub. L. 98–623, title III, §312, Nov. 8, 1984, 98 Stat. 3405.)
+(Pub. L. 98–623, title III, §312, Nov. 8, 1984, 98 Stat. 3405; Pub. L. 109–241, title IX, §902(h)(2), July 11, 2006, 120 Stat. 567.)
 
-#### Transfer of Functions
+#### Amendments
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+2006—Subsec. (c). Pub. L. 109–241 substituted “of Homeland Security” for “of Transportation”.
 

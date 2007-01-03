@@ -22,7 +22,7 @@ The nongovernmental organization referred to in subsection (a) of this section s
 
 &emsp;&emsp;(C) is knowledgeable regarding Federal nutrition programs;
 
-&emsp;(5) be experienced in communicating the purpose of the clearinghouse through the media, including the radio and print media, and be able to provide access to the clearinghouse information through computer or telecommunications technology, as well as through the mails; and
+&emsp;(5) be experienced in communicating the purpose of the clearinghouse through themedia, including the radio and print media, and be able to provide access to the clearinghouse information through computer or telecommunications technology, as well as through the mails; and
 
 &emsp;(6) be able to provide examples, advice, and guidance to States, counties, cities, communities, antihunger groups, and local organizations regarding means of assisting individuals and communities to reduce reliance on government programs, reduce hunger, improve nutrition, and otherwise assist low-income individuals and communities become more self-sufficient.
 

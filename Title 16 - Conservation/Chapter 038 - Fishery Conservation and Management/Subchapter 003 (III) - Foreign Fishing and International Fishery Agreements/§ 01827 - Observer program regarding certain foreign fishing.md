@@ -30,7 +30,7 @@ United States observers, while aboard foreign fishing vessels as required under 
 
 #### (d) Fees
 
-There is imposed for each year after 1980 on the owner or operator of each foreign fishingvessel that, in the judgment of the Secretary, will engage in fishing in waters described in subsection (b)(1) of this section during that year which may result in the incidental taking of billfish a fee in an amount sufficient to cover all of the costs of providing an observer aboard that vessel under the program established under subsection (a) of this section. The fees imposed under this subsection for any year shall be paid to the Secretary before that year begins. All fees collected by the Secretary under this subsection shall be deposited in the Fund established by subsection (e) of this section.
+There is imposed for each year after 1980 on the owner or operator of each foreign fishing vessel that, in the judgment of the Secretary, will engage in fishing in waters described in subsection (b)(1) of this section during that year which may result in the incidental taking of billfish a fee in an amount sufficient to cover all of the costs of providing an observer aboard that vessel under the program established under subsection (a) of this section. The fees imposed under this subsection for any year shall be paid to the Secretary before that year begins. All fees collected by the Secretary under this subsection shall be deposited in the Fund established by subsection (e) of this section.
 
 #### (e) Fund
 
@@ -46,7 +46,7 @@ There is established in the Treasury of the United States the Foreign Fishing Ob
 
 &emsp;(C) to refuse to permit an individual who is authorized to act as an observer under this section with respect to that vessel to board the vessel for purposes of carrying out observer functions.
 
-(2) Section 308 of the Act of 1976 \[16 U.S.C. 1858\] (relating to civil penalties) applies to any act that is unlawful under paragraph (1), and for purposes of such application the commission of any such act shall be treated as an act the commission of which is unlawful under section 307 of the Act of 1976 \[16 U.S.C. 1857\].
+(2) Section 308 of the Act of 1976 \[16 U.S.C. 1858\] (relating to civil penalties) applies to any actthat is unlawful under paragraph (1), and for purposes of such application the commission of any such act shall be treated as an act the commission of which is unlawful under section 307 of the Act of 1976 \[16 U.S.C. 1857\].
 
 #### (g) Regulations
 
@@ -77,4 +77,6 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 #### Effective Date of 1980 Amendment
 
 Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

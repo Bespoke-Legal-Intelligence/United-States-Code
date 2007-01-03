@@ -2,7 +2,7 @@
 
 After consultation with the States, the Secretary of Transportation shall prescribe regulations on minimum uniform standards for the issuance of commercial drivers’ licenses and learner's permits by the States and for information to be contained on each of the licenses and permits. The standards shall require at a minimum that—
 
-&emsp;(1) an individual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;
+&emsp;(1) an individual issued a commercial driver's license pass written and driving tests forthe operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;
 
 &emsp;(2) before a commercial driver's license learner's permit may be issued to an individual, the individual must pass a written test, that complies with the minimum standards prescribed by the Secretary under section 31305(a), on the operation of the commercial motor vehicle that the individual will be operating under the permit;
 

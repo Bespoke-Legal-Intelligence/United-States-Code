@@ -56,5 +56,5 @@ Subsec. (g). Pub. L. 97–468, §235(b), substituted “this section, section 79
 
 #### Effective Date of 1986 Amendment
 
-Section 4011(d) of Pub. L. 99–272 provided that: “The amendments made by subsections (a) and (c) \[amending this section and enacting provisions set out as a note under section 797b of this title\] shall take effect on the date of enactment of this Act \[Apr. 7, 1986\], and the amendment made by subsection (b) \[amending this section\] shall be effective as of August 1, 1985.”
+Section 4011(d) of Pub. L. 99–272 provided that: “The amendments made by subsections (a) and (c) \[amending this section and enacting provisions set out as a note under section 797b of this title\] shall take effect on the date of enactment of this Act \[Apr. 7, 1986\], and theamendment made by subsection (b) \[amending this section\] shall be effective as of August 1, 1985.”
 

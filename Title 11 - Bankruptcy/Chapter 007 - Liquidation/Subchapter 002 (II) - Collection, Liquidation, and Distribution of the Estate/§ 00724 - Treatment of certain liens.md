@@ -8,7 +8,7 @@
 
 &emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1) (except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title), 507(a)(2), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
 
-&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed taxclaim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
+&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
 &emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is junior to such tax lien;
 
@@ -62,7 +62,7 @@ Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), i
 
 2005—Subsec. (b). Pub. L. 109–8, §701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 109–8, §701(a)(2), inserted “(except that such expenses, other than claims for wages,salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
+Subsec. (b)(2). Pub. L. 109–8, §701(a)(2), inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
 
 Subsecs. (e), (f). Pub. L. 109–8, §701(a)(3), added subsecs. (e) and (f).
 

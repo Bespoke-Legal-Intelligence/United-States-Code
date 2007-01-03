@@ -28,7 +28,7 @@
 
 &emsp;(1) The number of positions that require warrant officers or commissioned officers serving on active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.
 
-&emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and theestimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
+&emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
 
 &emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscal years of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
 
@@ -120,7 +120,7 @@ Pub. L. 104–106, §1061(d)(2), struck out subsec. (d) which read as follows: �
 
 Subsec. (e). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: “In each such report, the Secretary shall also include recommendations for theaverage student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.”
+Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: “In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.”
 
 Subsec. (g). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e).
 
@@ -131,4 +131,6 @@ Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 #### Assessment of Structure and Mix of Active and Reserve Forces
 
 Section 402 of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
+
+§115b
 

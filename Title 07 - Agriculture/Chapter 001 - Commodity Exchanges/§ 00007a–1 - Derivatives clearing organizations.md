@@ -22,7 +22,7 @@ A derivatives clearing organization that clears agreements, contracts, or transa
 
 #### (A) In general
 
-&emsp;&emsp;To be registered and to maintain registration as a derivatives clearing organization,an applicant shall demonstrate to the Commission that the applicant complies with the core principles specified in this paragraph. The applicant shall have reasonable discretion in establishing the manner in which it complies with the core principles.
+&emsp;&emsp;To be registered and to maintain registration as a derivatives clearing organization, an applicant shall demonstrate to the Commission that the applicant complies with the core principles specified in this paragraph. The applicant shall have reasonable discretion in establishing the manner in which it complies with the core principles.
 
 #### (B) Financial resources
 
@@ -114,7 +114,7 @@ A derivatives clearing organization shall be deemed to be registered under this 
 
 #### (1) In general
 
-&emsp;If a proceeding under section 7b of this title results in the suspension or revocation of theregistration of a derivatives clearing organization, or if a derivatives clearing organization withdraws from registration, the Commission, on notice to the derivatives clearing organization, may apply to the appropriate United States district court where the derivatives clearing organization is located for the appointment of a trustee.
+&emsp;If a proceeding under section 7b of this title results in the suspension or revocation of the registration of a derivatives clearing organization, or if a derivatives clearing organization withdraws from registration, the Commission, on notice to the derivatives clearing organization, may apply to the appropriate United States district court where the derivatives clearing organization is located for the appointment of a trustee.
 
 #### (2) Assumption of jurisdiction
 
@@ -122,7 +122,7 @@ A derivatives clearing organization shall be deemed to be registered under this 
 
 &emsp;&emsp;(A) the court may take exclusive jurisdiction over the derivatives clearing organization and the records and assets of the derivatives clearing organization, wherever located; and
 
-&emsp;&emsp;(B) if the court takes jurisdiction under subparagraph (A), the court shall appoint the Commission, or a person designated by the Commission, as trustee with power to take possession and continue to operate or terminate the operations of the derivatives clearing organization in an orderly manner for the protection of participants, subject to such terms and conditions as the court may prescribe.
+&emsp;&emsp;(B) if the court takes jurisdiction under subparagraph (A), the court shall appoint the Commission, or a person designated by the Commission, as trustee with power to take possession and continue to operate or terminate the operations of the derivatives clearing organization in an orderly manner for the protection of participants, subject tosuch terms and conditions as the court may prescribe.
 
 #### (f) Linking of regulated clearing facilities
 

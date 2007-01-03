@@ -34,7 +34,7 @@ Designation by secretary.—The Secretary, after taking into consideration the f
 
 &emsp;(2)
 
-Case-by-case determination in consultation with the attorney general.—In addition to the factors specified in subsection (d), any designation of any area under paragraph (1) shall be made on the basis of a determination by the Secretary, in consultationwith the Attorney General, that the particular area, industry, sector, or institution is being victimized by, or is particularly vulnerable to, money laundering and related financial crimes.
+Case-by-case determination in consultation with the attorney general.—In addition to the factors specified in subsection (d), any designation of any area under paragraph (1) shall be made on the basis of a determination by the Secretary, in consultation with the Attorney General, that the particular area, industry, sector, or institution is being victimized by, or is particularly vulnerable to, money laundering and related financial crimes.
 
 &emsp;(3)
 

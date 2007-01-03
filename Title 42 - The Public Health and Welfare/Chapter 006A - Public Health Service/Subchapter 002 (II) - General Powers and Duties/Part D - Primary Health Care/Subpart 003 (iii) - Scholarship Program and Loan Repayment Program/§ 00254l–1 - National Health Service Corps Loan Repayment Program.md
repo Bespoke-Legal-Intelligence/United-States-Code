@@ -122,7 +122,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $35,000 on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
 
-&emsp;&emsp;&emsp;(i) affects the ability of the Secretary to maximize the number of contracts that can be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
+&emsp;&emsp;&emsp;(i) affects the ability of the Secretary to maximize the number of contracts thatcan be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
 
 &emsp;&emsp;&emsp;(ii) provides an incentive to serve in health professional shortage areas with the greatest such shortages; and
 
@@ -136,7 +136,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;For the purpose of providing reimbursements for tax liability resulting from payments under paragraph (2) on behalf of an individual—
 
-&emsp;&emsp;(A) the Secretary shall, in addition to such payments, make payments to the individualin an amount equal to 39 percent of the total amount of loan repayments made for the taxable year involved; and
+&emsp;&emsp;(A) the Secretary shall, in addition to such payments, make payments to the individual in an amount equal to 39 percent of the total amount of loan repayments made for the taxable year involved; and
 
 &emsp;&emsp;(B) may make such additional payments as the Secretary determines to be appropriate with respect to such purpose.
 

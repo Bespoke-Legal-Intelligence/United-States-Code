@@ -64,7 +64,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 (1) Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of section 5082 of this title, for each fiscal year there shall be available to the Director such sums as may be necessary to make grants under subsection (a) of this section.
 
-(2) No funds shall be available to the Director to make grants under subsection (a) of this section for a fiscal year unless the amounts appropriated under subsections (a), (b), and (c) of section 5082 of this title and available for such fiscal year to carry out parts A, B, and C of this subchapter (without regard to this section) are sufficient to maintain the number of projects and volunteers funded under parts A, B, and C of this subchapter, respectively, in the preceding fiscal year.
+(2) No funds shall be available to the Director to make grants under subsection (a) of this section for a fiscal year unless the amounts appropriated under subsections (a), (b), and (c) of section 5082 of this title and available for such fiscal year to carry out parts A, B, and C of this subchapter (without regard to this section) aresufficient to maintain the number of projects and volunteers funded under parts A, B, and C of this subchapter, respectively, in the preceding fiscal year.
 
 #### (e) Dissemination of information respecting grants
 

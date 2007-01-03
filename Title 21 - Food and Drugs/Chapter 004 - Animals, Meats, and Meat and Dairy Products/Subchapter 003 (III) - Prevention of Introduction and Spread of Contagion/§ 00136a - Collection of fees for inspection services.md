@@ -84,7 +84,7 @@
 
 #### (ii) Excess proceeds
 
-&emsp;&emsp;&emsp;If the sale proceeds under clause (i) exceed the fees due, any late payment penalty assessed, any accrued interest on such, and the expenses associated with thesale, such excess shall be paid to the owner of the animal, article, means of conveyance, or facility if such owner submits an application for such excess together with proof of ownership not later than 6 months after the date of such sale. If no such application is made, such excess shall be credited to accounts that incur the costs associated with the fees collected and shall remain available until expended, without fiscal year limitation. The Secretary shall suspend performance of services to persons who have failed to pay fees, late payment penalty, or accrued interest under this section.
+&emsp;&emsp;&emsp;If the sale proceeds under clause (i) exceed the fees due, any late payment penalty assessed, any accrued interest on such, and the expenses associated with the sale, such excess shall be paid to the owner of the animal, article, means of conveyance, or facility if such owner submits anapplication for such excess together with proof of ownership not later than 6 months after the date of such sale. If no such application is made, such excess shall be credited to accounts that incur the costs associated with the fees collected and shall remain available until expended, without fiscal year limitation. The Secretary shall suspend performance of services to persons who have failed to pay fees, late payment penalty, or accrued interest under this section.
 
 #### (d) Regulations
 
@@ -174,7 +174,7 @@ Subsec. (f)(1)(B) to (O). Pub. L. 107–171, §10418(b)(5)(B), added subpars. (B
 
 1991—Subsec. (a)(1). Pub. L. 102–237, §1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
 
-Subsec. (a)(3)(B)(ii). Pub. L. 102–237, §1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows:“The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
+Subsec. (a)(3)(B)(ii). Pub. L. 102–237, §1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
 
 Subsec. (a)(4). Pub. L. 102–237, §1015(3), substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director, through the Research, Evaluation and Communication Division of the Education and Human Resources Directorate of the Foundation, shall evaluate the effectiveness of all undergraduate science, mathematics, engineering, or technology education activities supported by the Foundation in increasing the number and quality of students, including individuals identified in section 1885a or 1885b of this title studying toward andcompleting associate's or baccalaureate degrees in science, mathematics, engineering, and technology. In conducting the evaluation, the Director shall consider information on—
+&emsp;The Director, through the Research, Evaluation and Communication Division of the Education and Human Resources Directorate of the Foundation, shall evaluate the effectiveness of all undergraduate science, mathematics, engineering, or technology education activities supported by the Foundation in increasing the number and quality of students, including individuals identified in section 1885a or 1885b of this title studying toward and completing associate's or baccalaureate degrees in science, mathematics, engineering, and technology. In conducting the evaluation, the Director shall consider information on—
 
 &emsp;&emsp;(A) the number of students enrolled in undergraduate science, mathematics, engineering, and technology programs;
 

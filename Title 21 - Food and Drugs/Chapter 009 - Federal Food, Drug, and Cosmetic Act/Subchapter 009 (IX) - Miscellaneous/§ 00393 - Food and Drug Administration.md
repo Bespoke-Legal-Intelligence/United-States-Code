@@ -162,7 +162,7 @@ Study.—The Secretary of Health and Human Services, acting through the Food and
 
 &emsp;“(2)
 
-Regulations.—If, in the opinion of the Secretary, the use of elemental, organic, or inorganicmercury offered for sale as a drug or dietary supplement poses a threat to human health, the Secretary shall promulgate regulations restricting the sale of mercury intended for such use. At a minimum, such regulations shall be designed to protect the health of children and other sensitive populations from adverse effects resulting from exposure to, or ingestion or inhalation of, mercury. Such regulations, to the extent feasible, should not unnecessarily interfere with the availability of mercury for use in religious ceremonies.”
+Regulations.—If, in the opinion of the Secretary, the use of elemental, organic, or inorganic mercury offered for sale as a drug or dietary supplement poses a threat to human health, the Secretary shall promulgate regulations restricting the sale of mercury intended for such use. At a minimum, such regulations shall be designed to protect the health of children and other sensitive populations from adverse effects resulting from exposure to, or ingestion or inhalation of, mercury. Such regulations, to the extent feasible, should not unnecessarily interfere with the availability of mercury for use in religious ceremonies.”
 
 #### Management Activities Study
 

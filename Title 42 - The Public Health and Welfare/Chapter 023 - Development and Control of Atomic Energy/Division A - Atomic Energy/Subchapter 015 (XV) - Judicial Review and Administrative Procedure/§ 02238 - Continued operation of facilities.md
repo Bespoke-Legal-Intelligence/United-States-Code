@@ -4,7 +4,3 @@ Whenever the Commission finds that the public convenience and necessity or the p
 
 (Aug. 1, 1946, ch. 724, title I, §188, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 955; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
-

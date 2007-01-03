@@ -20,3 +20,4 @@ Part B—Advisory Council on Historic Preservation
 - [&sect; 00470u - Report by Secretary to Council](%C2%A7%2000470u%20-%20Report%20by%20Secretary%20to%20Council.md)
 - [&sect; 00470v - Exemption for Federal programs or undertakings; regulations](%C2%A7%2000470v%20-%20Exemption%20for%20Federal%20programs%20or%20undertakings%3B%20regulations.md)
 - [&sect; 00470v&#8211;1 - Reimbursements from State and local agencies](%C2%A7%2000470v%E2%80%931%20-%20Reimbursements%20from%20State%20and%20local%20agencies.md)
+- [&sect; 00470v&#8211;2 - Effectiveness of Federal grant and assistance programs](%C2%A7%2000470v%E2%80%932%20-%20Effectiveness%20of%20Federal%20grant%20and%20assistance%20programs.md)

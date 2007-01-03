@@ -132,7 +132,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1655(c)(1).
 
-In subsections (a)–(c)(1), the word “Administrator” in section 603 of the Federal Aviation Act of 1958 (PublicLaw 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
+In subsections (a)–(c)(1), the word “Administrator” in section 603 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
 
 In subsection (a)(1), the text of 49 App.:1423(a)(2) (1st sentence 1st–16th words) and the words “in regulations” are omitted as surplus. The words “properly designed and manufactured, performs properly” are substituted for “of proper design, material, specification, construction, and performance for safe operation” to eliminate unnecessary words. The word “rules” is omitted as being synonymous with “regulations”. The words “under section 44701(a) of this title” and “for a type certificate” are added for clarity. The words “including flight tests and tests of raw materials or any part or appurtenance of such aircraft, aircraft engine, propeller, or appliance” are omitted as surplus.
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Plan for Development and Oversight of System for Certification of Design Organizations
 

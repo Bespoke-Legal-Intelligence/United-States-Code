@@ -70,7 +70,7 @@ Every establishment in any State registered with the Secretary pursuant to this 
 
 &emsp;(C) in the case of any drug contained in an applicable list which is described in subparagraph (B), a quantitative listing of its active ingredient or ingredients, except that with respect to a particular drug product the Secretary may require the submission of a quantitative listing of all ingredients if he finds that such submission is necessary to carry out the purposes of this chapter; and
 
-&emsp;(D) if the registrant filing a list has determined that a particular drug product or device contained in such list is not subject to section 355 or 360b of this title, or the particular device contained in such list is not subject to a performance standard established under section 360d of this title or to section 360e of this title or is not a restricted device a brief statement of the basis upon which the registrantmade such determination if the Secretary requests such a statement with respect to that particular drug product or device.
+&emsp;(D) if the registrant filing a list has determined that a particular drug product or device contained in such list is not subject to section 355 or 360b of this title, or the particular device contained in such list is not subject to a performance standard established under section 360d of this title or to section 360e of this title or is not a restricted device a brief statement of the basis upon which the registrant made such determination if the Secretary requests such a statement with respect to that particular drug product or device.
 
 (2) Each person who registers with the Secretary under this section shall report to the Secretary once during the month of June of each year and once during the month of December of each year the following information:
 
@@ -132,7 +132,7 @@ The Secretary shall review the report required in subsection (k) of this section
 
 #### (p) Electronic registration
 
-Registrations under subsections (b), (c), (d), and (i) of this section (including the submissionof updated information) shall be submitted to the Secretary by electronic means, upon a finding by the Secretary that the electronic receipt of such registrations is feasible, unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
+Registrations under subsections (b), (c), (d), and (i) of this section (including the submission of updated information) shall be submitted to the Secretary by electronic means, upon a finding by the Secretary that the electronic receipt of such registrations is feasible, unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
 
 (June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576.)
 
@@ -190,7 +190,7 @@ Subsec. (j)(1)(A). Pub. L. 94–295, §4(a)(8)(B), substituted “the applicable
 
 Subsec. (j)(1)(B). Pub. L. 94–295, §4(a)(8)(C), in introductory provisions substituted “drug or device contained in an applicable list” for “drug contained in such list”.
 
-Subsec. (j)(1)(B)(i). Pub. L. 94–295, §4(a)(8)(D), substituted “which drug is subject to section 353(b)(1) of this title, or which device is a restricted device, a copy of all labeling for such drug or device, a representative sampling of advertisements for such drug or device, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product or device, or” for “which is subject to section 353(b)(1) of this title, a copy of all labeling for suchdrug, a representative sampling of advertisements for such drug, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product, or”.
+Subsec. (j)(1)(B)(i). Pub. L. 94–295, §4(a)(8)(D), substituted “which drug is subject to section 353(b)(1) of this title, or which device is a restricted device, a copy of all labeling for such drug or device, a representative sampling of advertisements for such drug or device, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product or device, or” for “which is subject to section 353(b)(1) of this title, a copy of all labeling for such drug, a representative sampling of advertisements for such drug, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product, or”.
 
 Subsec. (j)(1)(B)(ii). Pub. L. 94–295, §4(a)(8)(E), substituted “which drug is not subject to section 353(b)(1) of this title or which device is not a restricted device, the label and package insert for such drug or device and a representative sampling of any other labeling for such drug or device” for “which is not subject to section 353(b)(1) of this title, the label and package insert for such drug and a representative sampling of any other labeling for such drug”.
 
@@ -224,7 +224,7 @@ Subsec. (a)(2), (3). Pub. L. 89–74, §4(a), added par. (2) and redesignated fo
 
 Subsecs. (b), (c). Pub. L. 89–74, §4(b), (c), inserted “or in the wholesaling, jobbing, or distributing of any depressant or stimulant drug” after “drug or drugs” and inserted requirement that establishment indicate activity in depressant or stimulant drugs at time of registration.
 
-Subsec. (d). Pub. L. 89–74 §4(d), designated existing provisions as par. (1), inserted “or the wholesaling, jobbing, or distributing of any depressant or stimulant drug” and the requirement that the additional establishment indicate activity in depressant or stimulant drugs at time of registration, and added par. (2).
+Subsec. (d). Pub. L. 89–74 §4(d), designated existing provisions as par. (1), inserted “or the wholesaling, jobbing, or distributing of any depressant or stimulantdrug” and the requirement that the additional establishment indicate activity in depressant or stimulant drugs at time of registration, and added par. (2).
 
 #### Effective Date of 2002 Amendment
 

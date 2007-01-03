@@ -1,6 +1,6 @@
 ### §31327. Forfeiture of mortgagee interest
 
-The interest of a mortgagee in a documented vessel or a vessel covered by a preferred mortgage under section 31322(d) of this title may be terminated by a forfeiture of the vessel for a violation of a law of the United States only if the mortgagee authorized, consented, or conspired to do the act, failure, or omission that is the basis of the violation.
+The interest of a mortgagee in a documented vessel or a vessel covered by a preferred mortgage under section 31322(d) of this title may be terminated by a forfeiture of the vessel for a violation of a law of the United States only ifthe mortgagee authorized, consented, or conspired to do the act, failure, or omission that is the basis of the violation.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4746.)
 

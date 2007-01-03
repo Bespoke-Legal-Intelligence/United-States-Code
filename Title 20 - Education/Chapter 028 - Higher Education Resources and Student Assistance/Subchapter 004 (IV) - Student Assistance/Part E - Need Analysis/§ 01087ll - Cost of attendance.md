@@ -14,7 +14,13 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;&emsp;(C) for all other students shall be an allowance based on the expenses reasonably incurred by such students for room and board;
 
-&emsp;(4) for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));
+&emsp;(4) for less than half-time students (as determined by the institution), tuition and fees and an allowance for only—
+
+&emsp;&emsp;(A) books, supplies, and transportation (as determined by the institution);
+
+&emsp;&emsp;(B) dependent care expenses (determined in accordance with paragraph (8)); and
+
+&emsp;&emsp;(C) room and board costs (determined in accordance with paragraph (3)), except that a student may receive an allowance for such costs under this subparagraph for not more than 3 semesters or the equivalent, of which not more than 2 semesters or the equivalent may be consecutive;
 
 &emsp;(5) for a student engaged in a program of study by correspondence, only tuition and fees and, if required, books and supplies, travel, and room and board costs incurred specifically in fulfilling a required period of residential training;
 
@@ -32,13 +38,19 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;(10) for a student receiving all or part of the student's instruction by means of telecommunications technology, no distinction shall be made with respect to the mode of instruction in determining costs;
 
-&emsp;(11) for a student engaged in a work experience under a cooperative education program, an allowance for reasonable costs associated with such employment (as determined by the institution); and
+&emsp;(11) for a student engaged in a work experience under a cooperative education program,an allowance for reasonable costs associated with such employment (as determined by the institution);
 
-&emsp;(12) for a student who receives a loan under this or any other Federal law, or, at the option of the institution, a conventional student loan incurred by the student to cover a student's cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or such parent on such loan, or the average cost of any such fee or premium charged by the Secretary, lender, or guaranty agency making or insuring such loan, as the case may be.
+&emsp;(12) for a student who receives a loan under this or any other Federal law, or, at the option of the institution, a conventional student loan incurred by the student to cover a student's cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or such parent on such loan, or the average cost of any such fee or premium charged by the Secretary, lender, or guaranty agency making or insuring such loan, as the case may be; and
 
-(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729.)
+&emsp;(13) at the option of the institution, for a student in a program requiring professional licensure or certification, the one-time cost of obtaining the first professional credentials (as determined by the institution).
+
+(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172.)
 
 #### Amendments
+
+2006—Par. (4). Pub. L. 109–171, §8016(1), added par. (4) and struck out former par. (4), which read as follows: “for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));”.
+
+Par. (13). Pub. L. 109–171, §8016(2)–(4), added par. (13).
 
 1998—Par. (2). Pub. L. 105–244, §471(1), inserted “, including a reasonable allowance for the documented rental or purchase of a personal computer,” after “personal expenses”.
 
@@ -53,6 +65,10 @@ Par. (11). Pub. L. 105–244, §471(4), substituted “engaged” for “placed�
 1993—Par. (12). Pub. L. 103–208 added par. (12).
 
 1992—Pub. L. 102–325 amended section generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (9).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

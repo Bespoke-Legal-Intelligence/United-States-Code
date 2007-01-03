@@ -12,7 +12,7 @@
 
 (B) If an annuitant who is subject to the deductions referred to in subparagraph (A) dies while still reemployed, after having been reemployed for at least 5 years of full-time service (or the equivalent thereof in the case of part-time employment), any person entitled to a survivor annuity under section 8442 or 8445 based on the service of such annuitant shall be permitted to elect, in accordance with regulations prescribed by the Office of Personnel Management, to have such person's rights under subchapter IV redetermined. A redetermined survivor annuity elected under this subparagraph shall be in lieu of an increased annuity which would otherwise be payable in accordance with paragraph (1)(B)(ii).
 
-(3) If an annuitant subject to deductions under the second sentence of subsection (a) serves on afull-time basis for a period of less than 1 year, or on a part-time basis for periods equivalent to less than 1 year of full-time service, the total amount withheld under section 8422(a) from the annuitant's basic pay for the period or periods involved shall, upon written application to the Office, be payable to the annuitant (or the appropriate survivor or survivors, determined in the order set forth in section 8424(d)).
+(3) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for a period of less than 1 year, or on a part-time basis for periods equivalent to less than 1 year of full-time service, the total amount withheld under section 8422(a) from the annuitant's basic pay for the period or periods involved shall, upon written application to the Office, be payable to the annuitant (or the appropriate survivor or survivors, determined in the order set forth in section 8424(d)).
 
 (c) This section does not apply to an individual appointed to serve as a Governor of the Board of Governors of the United States Postal Service.
 
@@ -22,7 +22,7 @@
 
 (f)(1) The Director of the Office of Personnel Management may, at the request of the head of an Executive agency—
 
-&emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+&emsp;(A) waive the application of the preceding provisions of this section on a case-by-casebasis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
 &emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
 
@@ -68,7 +68,7 @@ Subsec. (h)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House O
 
 Subsecs. (g) to (i). Pub. L. 102–190, §655(c)(1), added subsecs. (g) to (i).
 
-1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L.101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
+1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
 
 Pub. L. 101–509 added subsec. (f).
 

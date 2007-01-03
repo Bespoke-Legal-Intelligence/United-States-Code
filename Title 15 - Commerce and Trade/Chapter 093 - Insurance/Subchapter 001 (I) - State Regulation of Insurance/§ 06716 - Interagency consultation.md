@@ -8,7 +8,7 @@ It is the intention of the Congress that the Board of Governors of the Federal R
 
 #### (1) Information of the Board
 
-&emsp;Upon the request of the appropriate insurance regulator of any State, the Board may provide any information of the Board regarding the financial condition, risk management policies, and operations of any financial holding company that controls a company that is engaged in insurance activities and is regulated by such State insurance regulator, and regarding any transaction or relationship between such an insurance company and any affiliated depository institution. The Board may provide any other information to the appropriate State insurance regulator that the Board believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
+&emsp;Upon the request of the appropriate insurance regulator of any State, the Board mayprovide any information of the Board regarding the financial condition, risk management policies, and operations of any financial holding company that controls a company that is engaged in insurance activities and is regulated by such State insurance regulator, and regarding any transaction or relationship between such an insurance company and any affiliated depository institution. The Board may provide any other information to the appropriate State insurance regulator that the Board believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
 
 #### (2) Banking agency information
 
@@ -38,7 +38,7 @@ Nothing in this section shall limit in any respect the authority of the appropri
 
 #### (2) Privilege
 
-&emsp;The provision pursuant to this section of information or material by a Federal bankingagency or State insurance regulator shall not constitute a waiver of, or otherwise affect, any privilege to which the information or material is otherwise subject.
+&emsp;The provision pursuant to this section of information or material by a Federal banking agency or State insurance regulator shall not constitute a waiver of, or otherwise affect, any privilege to which the information or material is otherwise subject.
 
 #### (f) Definitions
 

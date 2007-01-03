@@ -20,7 +20,7 @@
 
 #### (b) Sales practices
 
-The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of section 1972 of this title, is conditional upon—
+The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice thatwould lead a customer to believe an extension of credit, in violation of section 1972 of this title, is conditional upon—
 
 &emsp;(1) the purchase of an insurance product from the institution or any of its affiliates; or
 

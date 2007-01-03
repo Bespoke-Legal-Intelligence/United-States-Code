@@ -72,7 +72,3 @@ Subsec. (a)(9). Pub. L. 104–324, §1104(e), added par. (9).
 
 Subsec. (a)(6), (7). Pub. L. 98–364, §402(12)(A)(ii)– (iv), added pars. (6) and (7).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10103, 10306, 10503 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Composition of Board
 
-The Commission shall be supervised by a Board composed of nine members, one of whom shall be an officer of the Department of Defense. The officer of the Department of Defense who shall serve on the Board shall be designated by the Secretary of Defense and may continue to serve on the Board only while continuing to serve as an officer of the Department of Defense. Not less than five members of the Board shall be nationals of the United States and the remaining members of the Board shall be nationals of the Republic of Panama. Three members of the Board who are nationals of the United States shall hold no other office in, and shall not beemployed by, the Government of the United States, and shall be chosen for the independent perspective they can bring to the Commission's affairs. Members of the Board who are nationals of the United States shall cast their votes as directed by the the <sup>1</sup> officer of the Department of Defense designated by the Secretary of Defense to be a member of the Board.
+The Commission shall be supervised by a Board composed of nine members, one of whom shall be an officer of the Department of Defense. The officer of the Department of Defense who shall serve on the Board shall be designated by the Secretary of Defense and may continue to serve on the Board only while continuing to serve as an officer of the Department of Defense. Not less than five members of the Board shall be nationals of the United States and the remaining members of the Board shall be nationals of the Republic of Panama. Three members of the Board who are nationals of the United States shall hold no other office in, and shall not be employed by, the Government of the United States, and shall be chosen for the independent perspective they can bring to the Commission's affairs. Members of the Board who are nationals of the United States shall cast their votes as directed by the the <sup>1</sup> officer of the Department of Defense designated by the Secretary of Defense to be a member of the Board.
 
 #### (b) Membership of Board; appointing authority; compensation and travel expenses; compensation for non-Government Board members
 
@@ -28,7 +28,7 @@ The Board shall hold meetings as provided in regulations adopted by the Commissi
 
 1985—Subsec. (b). Pub. L. 99–223 inserted provisions relating to compensation of members of the Board who hold no other office with either the Government of the United States or the Republic of Panama for which they receive pay.
 
-1984—Subsec. (c). Pub. L. 98–217 inserted provisions under which the Secretary of Defense or the officer of the Department of Defense designated by the Secretary may act by proxy for other members of the Board.
+1984—Subsec. (c). Pub. L. 98–217 inserted provisions under which the Secretary of Defense or the officer ofthe Department of Defense designated by the Secretary may act by proxy for other members of the Board.
 
 #### Effective Date of 1988 Amendment
 

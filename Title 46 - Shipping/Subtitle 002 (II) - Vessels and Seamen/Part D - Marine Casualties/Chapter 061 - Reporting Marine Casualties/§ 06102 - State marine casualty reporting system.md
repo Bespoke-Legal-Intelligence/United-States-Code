@@ -28,7 +28,3 @@ Subsection (b) requires the Secretary to analyze the information that is receive
 
 Pub. L. 104–324, title III, §314(a), Oct. 19, 1996, 110 Stat. 3922, provided that: “Not later than one year after enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall, in consultation with appropriate State agencies, submit to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to increase reporting of vessel accidents to appropriate State law enforcement officials.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 13102 of this title.
-

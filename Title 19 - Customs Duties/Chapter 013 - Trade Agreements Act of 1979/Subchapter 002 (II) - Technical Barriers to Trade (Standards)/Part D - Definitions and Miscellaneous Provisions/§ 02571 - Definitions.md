@@ -70,7 +70,7 @@ As used in this subchapter—
 
 #### (13) Standard
 
-&emsp;The term “standard” means a document approved by a recognized body, that provides, for common and repeated use, rules, guidelines, or characteristics for products or related processes and production methods, with which compliance is not mandatory. Such term may also include or deal exclusively with terminology, symbols, packaging, marking, or labeling requirements as they apply to a product, process, or production method.
+&emsp;The term “standard” means a document approved by a recognized body, that provides, for common and repeated use, rules, guidelines, or characteristics for products or related processes and production methods, with which compliance is not mandatory. Such term mayalso include or deal exclusively with terminology, symbols, packaging, marking, or labeling requirements as they apply to a product, process, or production method.
 
 #### (14) Standards-related activity
 

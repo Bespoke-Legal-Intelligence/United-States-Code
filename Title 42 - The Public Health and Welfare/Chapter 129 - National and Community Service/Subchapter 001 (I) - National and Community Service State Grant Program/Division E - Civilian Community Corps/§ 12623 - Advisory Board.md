@@ -30,11 +30,11 @@ The Advisory Board shall be composed of the following members:
 
 Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
 
-(Pub. L. 101–610, title I, §163, formerly §195L, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §163 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(3), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920.)
+(Pub. L. 101–610, title I, §163, formerly §195L, as added Pub. L. 102–484, div. A, title X, §1092(a)(1),Oct. 23, 1992, 106 Stat. 2532; renumbered §163 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(3), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920.)
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

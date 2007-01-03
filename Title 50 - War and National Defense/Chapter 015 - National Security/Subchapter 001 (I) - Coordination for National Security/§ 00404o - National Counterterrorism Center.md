@@ -86,7 +86,7 @@ The Director of the National Counterterrorism Center shall establish and maintai
 
 (1) The Director of the National Counterterrorism Center shall establish and maintain within the National Counterterrorism Center a Directorate of Strategic Operational Planning which shall provide strategic operational plans for counterterrorism operations conducted by the United States Government.
 
-(2) Strategic operational planning shall include the mission, objectives to be achieved,tasks to be performed, interagency coordination of operational activities, and the assignment of roles and responsibilities.
+(2) Strategic operational planning shall include the mission, objectives to be achieved, tasks to be performed, interagency coordination of operational activities, and the assignment of roles and responsibilities.
 
 (3) The Director of the National Counterterrorism Center shall monitor the implementation of strategic operational plans, and shall obtain information from each element of the intelligence community, and from each other department, agency, or element of the United States Government relevant for monitoring the progress of such entity in implementing such plans.
 
@@ -180,7 +180,7 @@ Sec. 6. <i>Duties of the Heads of Agencies</i>. (a) To implement the policy set 
 
 Sec. 7. <i>Definitions</i>. As used in this order:
 
-(a) the term “agency” has the meaning set forth for the term “executive agency” in section 105 of title 5, United States Code, together with the Department of Homeland Security, but includes the Postal Rate Commission and the United States Postal Service and excludes the Government Accountability Office;
+(a) the term “agency” has the meaning set forth for the term “executive agency” in section 105 of title 5,United States Code, together with the Department of Homeland Security, but includes the Postal Rate Commission and the United States Postal Service and excludes the Government Accountability Office;
 
 (b) the term “Intelligence Community” has the meaning set forth for that term in section 3.4(f) of Executive Order 12333 of December 4, 1981, as amended \[50 U.S.C. 401 note\];
 

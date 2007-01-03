@@ -34,13 +34,9 @@ The authority of this section shall continue through September 30, 1988.
 
 #### (i) Excess foreign currencies; use
 
-Notwithstanding the limitation in subsection (c) of this section, foreign currencies owned by the United States and determined by the Secretary of the Treasury to be excess to the needs of the United States may be utilized to carry out the purposes of this section, including the discharge of liabilities under this subsection. The authority conferred by this subsection shall be in addition to authority conferred by any other provision of law to implement guaranty programs utilizing excess local currency.
+Notwithstanding the limitation in subsection (c) of this section, foreign currencies owned by the United States and determined by the Secretary of the Treasury to be excess to the needs of the United States may be utilized to carry out the purposes of this section, including the discharge of liabilities under this subsection. The authority conferred by this subsection shallbe in addition to authority conferred by any other provision of law to implement guaranty programs utilizing excess local currency.
 
 (Pub. L. 87–195, pt. I, §222A, as added Pub. L. 93–559, §8(a)(2), Dec. 30, 1974, 88 Stat. 1796; amended Pub. L. 95–88, title I, §117(b)(1), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(b), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 951, 959; Pub. L. 96–53, title I, §112(b), Aug. 14, 1979, 93 Stat. 364; Pub. L. 97–438, Jan. 8, 1983, 96 Stat. 2286; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §313(d), Aug. 8, 1985, 99 Stat. 217; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120.)
-
-#### Repeal of Subsection (d)
-
-<i>For repeal of subsection (d) of this section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, see Abolition of the Inter-American Foundation note set out under section 290f of this title.</i>
 
 #### References in Text
 
@@ -51,6 +47,8 @@ Section 2200 of this title, referred to in subsecs. (e) and (g), was in the orig
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
+
+Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
 
 Amendment by Pub. L. 98–473 is based on section 312 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 

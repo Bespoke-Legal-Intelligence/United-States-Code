@@ -24,13 +24,13 @@ There is allocated to the Secretary of Commerce for each fiscal year, beginning 
 
 #### (g) Duty of Secretary
 
-It shall be the duty of the Secretary to use available funds to stimulate and widen the use of all farm commodities in the United States and to increase in every practical way the flow of such commodities and the products thereof into the markets of the world.
+It shall be the duty of the Secretary to use available funds to stimulate and widen the useof all farm commodities in the United States and to increase in every practical way the flow of such commodities and the products thereof into the markets of the world.
 
 (Feb. 16, 1938, ch. 30, title II, §202, 52 Stat. 37; Aug. 30, 1954, ch. 1076, §1(3), 68 Stat. 966.)
 
 #### Amendments
 
-1954—Subsec. (e). Act Aug. 30, 1954, repealed subsec. (e) which required reports to Congress of the activitiesof, expenditures by, and donations to, the laboratories established pursuant to subsec. (a).
+1954—Subsec. (e). Act Aug. 30, 1954, repealed subsec. (e) which required reports to Congress of the activities of, expenditures by, and donations to, the laboratories established pursuant to subsec. (a).
 
 #### Wheat Research and Promotion Act
 

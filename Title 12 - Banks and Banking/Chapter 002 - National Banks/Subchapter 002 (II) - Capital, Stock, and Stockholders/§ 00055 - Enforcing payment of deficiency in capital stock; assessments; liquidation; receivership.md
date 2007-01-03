@@ -8,9 +8,9 @@ Every association which shall have failed to pay up its capital stock, as requir
 
 R.S. §5205 derived from act Mar. 3, 1873, ch. 269, §1, 17 Stat. 603.
 
-#### Exception as to Transfer of Functions
+#### Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, formerly set out in the Appendix to Title 5, Government Organization and Employees. See section 321(c) of Title 31, Money and Finance. The Comptroller of the Currency and the Treasurer of the United States, both referred to in this section, are officers of the Treasury Department, but such Plan excepted, from the transfer, any function vested by law in the Comptroller of the Currency.
 
 #### Application to District of Columbia
 

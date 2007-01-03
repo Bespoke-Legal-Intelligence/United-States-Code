@@ -100,11 +100,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;In no case shall an MA local area that is within an MSA be included as part of a CCA area unless for 2010 (and, except as provided in subparagraph (B), for a subsequent year) there is offered in each part of such MA local area at least 2 MA local plans described in section 1395w–21(a)(2)(A)(i) of this title each of which is offered by a different MA organization.
+&emsp;&emsp;In no case shall an MA local area that is within an MSA be included as part of a CCA area unless for 2010 (and, except as providedin subparagraph (B), for a subsequent year) there is offered in each part of such MA local area at least 2 MA local plans described in section 1395w–21(a)(2)(A)(i) of this title each of which is offered by a different MA organization.
 
 #### (B) Continuation
 
-&emsp;&emsp;If an MA local area meets the requirement of subparagraph (A) and is included in a CCA area for 2010, such local area shall continue to be included in such CCA area for a subsequent year notwithstanding that it nolonger meets such requirement so long as there is at least one MA local plan described in section 1395w–21(a)(2)(A)(i) of this title that is offered in such local area.
+&emsp;&emsp;If an MA local area meets the requirement of subparagraph (A) and is included in a CCA area for 2010, such local area shall continue to be included in such CCA area for a subsequent year notwithstanding that it no longer meets such requirement so long as there is at least one MA local plan described in section 1395w–21(a)(2)(A)(i) of this title that is offered in such local area.
 
 #### (3) Phase-in of CCA benchmark
 
@@ -240,7 +240,7 @@
 
 #### (C) Phase-in of adjustment
 
-&emsp;&emsp;The amount of an adjustment under subparagraph (A) for a CCA area and year may not exceed the product of the phase-in fraction for the year under subsection (d)(3)(B) of this section multiplied by the amount of the adjustment otherwise computed under subparagraph (A) for the area and year, determined without regard to this subparagraph and subparagraph (D).
+&emsp;&emsp;The amount of an adjustment under subparagraph (A) for a CCA area and year maynot exceed the product of the phase-in fraction for the year under subsection (d)(3)(B) of this section multiplied by the amount of the adjustment otherwise computed under subparagraph (A) for the area and year, determined without regard to this subparagraph and subparagraph (D).
 
 #### (D) 5-percent limitation on adjustment
 

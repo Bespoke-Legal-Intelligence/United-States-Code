@@ -10,15 +10,11 @@ The Commission shall follow the provisions of section 558(c) of title 5 in revok
 
 #### (c) Repossession of material
 
-Upon revocation of the license, the Commission may immediately retake possession of all special nuclear material held by the licensee. In cases found by the Commission to be of extreme importance to the national defense and security or to the health and safety of the public, the Commission may recapture any special nuclear material held by the licensee or may enter upon and operate the facility prior to any of the procedures provided under subchapter II of chapter 5 and chapter 7 of title 5. Just compensation shall be paid for the use of the facility.
+Upon revocation of the license, the Commission may immediately retake possession of all special nuclear material held by the licensee. In cases found by the Commission to be of extreme importance to the national defense and security or to the health and safety of the public, the Commission may recapture any special nuclear material held by the licensee or may enter upon and operate the facility prior to any of the procedures provided under subchapter II of chapter5 and chapter 7 of title 5. Just compensation shall be paid for the use of the facility.
 
 (Aug. 1, 1946, ch. 724, title I, §186, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 955; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Codification
 
 In subsecs. (b) and (c), “section 558(c) of title 5” and “subchapter II of chapter 5 and chapter 7 of title 5” substituted for “section 9(b) of the Administrative Procedure Act \[5 U.S.C. 1008(b)\]” and “the Administration Procedure Act \[5 U.S.C. 1001–1011\]”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

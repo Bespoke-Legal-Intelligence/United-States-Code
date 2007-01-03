@@ -22,9 +22,6 @@
 | [413\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000413%20-%20Duty%20of%20United%20States%20attorneys%20and%20other%20Federal%20officers%20in%20enforcement%20of%20provisions%3B%20arrest%20of%20offenders.md) | Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders. |
 | [414\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000414%20-%20Removal%20by%20Secretary%20of%20the%20Army%20of%20sunken%20water%20craft%20generally%3B%20liability%20of%20owner%2C%20lessee%2C%20or%20operator.md) | Removal by Secretary of the Army of sunken water craft generally; liability of owner, lessee, or operator. |
 | [415\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000415%20-%20Summary%20removal%20of%20water%20craft%20obstructing%20navigation%3B%20liability%20of%20owner%2C%20lessee%2C%20or%20operator.md) | Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator. |
-| (a) | Removal authority. |
-| (b) | Removal requirement. |
-| (c) | Liability of owner, lessee, or operator. |
 | [416\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000416%20-%20Appropriations%20for%20removal%20of%20sunken%20water%20craft.md) | Appropriations for removal of sunken water craft. |
 | [417\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000417%20-%20Expenses%20of%20investigations%20by%20Department%20of%20the%20Army.md) | Expenses of investigations by Department of the Army. |
 | [418\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000418%20-%20Provisions%20for%20protection%20of%20New%20York%20Harbor%20unaffected.md) | Provisions for protection of New York Harbor unaffected. |
@@ -46,63 +43,23 @@
 | [426c.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426c%20-%20Report%20by%20Coastal%20Engineering%20Research%20Center.md) | Report by Coastal Engineering Research Center. |
 | [426d.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426d%20-%20Payment%20of%20expenses.md) | Payment of expenses. |
 | [426e.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426e%20-%20Federal%20aid%20in%20protection%20of%20shores.md) | Federal aid in protection of shores. |
-| (a) | Declaration of policy. |
-| (b) | Federal contribution; maximum amount; exceptions. |
-| (c) | Periodic beach nourishment; “construction” defined. |
-| (d) | Shores other than public. |
-| (e) | Authorization of projects. |
 | [426f.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426f%20-%20Reimbursements.md) | Reimbursements. |
-| (a) | In general. |
-| (b) | Agreements. |
 | [426g.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426g%20-%20Authorization%20of%20small%20projects%20not%20specifically%20authorized%3B%20expenditures%3B%20local%20cooperation%3B%20work%20to%20be%20complete%3B%20exceptions.md) | Authorization of small projects not specifically authorized; expenditures; local cooperation; work to be complete; exceptions. |
 | 426g–1. | State and regional plans. |
 | [426h.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426h%20-%20National%20shoreline%20erosion%20control%20development%20and%20demonstration%20program.md) | National shoreline erosion control development and demonstration program. |
-| (a) | Establishment of erosion control program. |
-| (b) | Requirements. |
-| (c) | Consultation. |
-| (d) | Report. |
-| (e) | Funding. |
 | 426h–1. | Definitions. |
 | [426i.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426i%20-%20Shore%20damage%20prevention%20or%20mitigation.md) | Shore damage prevention or mitigation. |
-| (a) | In general. |
-| (b) | Cost sharing. |
-| (c) | Requirement for specific authorization. |
-| (d) | Coordination. |
 | 426i–1. | Construction of shoreline protection projects by non-Federal interests. |
-| (a) | Authority. |
-| (b) | Studies and engineering. |
-| (c) | Completion of studies. |
-| (d) | Authority to carry out improvement. |
-| (e) | Reimbursement. |
 | 426i–2. | National coastal data bank. |
 | [426j.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426j%20-%20Placement%20on%20State%20beaches%20of%20sand%20dredged%20in%20constructing%20and%20maintaining%20navigation%20inlets%20and%20channels%20adjacent%20to%20such%20beaches.md) | Placement on State beaches of sand dredged in constructing and maintaining navigation inlets and channels adjacent to such beaches. |
 | [426k.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426k%20-%20Five%20year%20demonstration%20program%20to%20temporarily%20increase%20diversion%20of%20water%20from%20Lake%20Michigan%20at%20Chicago%2C%20Illinois.md) | Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois. |
-| (a) | Authorization of Secretary of the Army; purpose; amounts of increase; incremental accomplishment; effects on Illinois Waterway; responsibilities for development, implementation, and supervision. |
-| (b) | Establishment of monthly controllable diversion rates; average annual level of Lake Michigan and total diversion for succeeding accounting year. |
-| (c) | River stages approaching bankfull conditions on Illinois Waterway or Mississippi River or further increased diversion adversely affecting St. Lawrence Seaway water levels: limitation on diversion. |
-| (d) | Additional study and demonstration program: determination of effects on Great Lakes levels and Illinois Waterway water quality and susceptibility to additional flooding and investigation of other adverse or beneficial impacts; report and recommendations to Congress. |
-| (e) | “Controllable diversion” defined. |
 | 426<i>l.</i> | Protection of Lake Ontario. |
-| (a) | Plan for shoreline protection and beach erosion control; report to Congress. |
-| (b) | Minimization of damage and erosion to Lake Ontario shoreline. |
-| (c) | Authorization of appropriations. |
-| (d) | Short title. |
 | [426m.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426m%20-%20Collection%20and%20removal%20of%20drift%20and%20debris%20from%20publicly%20maintained%20commercial%20boat%20harbors%20and%20adjacent%20land%20and%20water%20areas.md) | Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas. |
-| (a) | Congressional findings. |
-| (b) | Responsibility of Secretary of the Army for development of projects; project undertakings exempt from specific Congressional approval. |
-| (c) | Federal share of costs; responsibility of non-Federal interests in future project development to recover cost or repair sources. |
-| (d) | Responsibility for providing lands, easements, and right-of-way necessary for projects; agreement to maintain projects and hold United States free from damages; regulation of project area following project completion; technical advice. |
-| (e) | Definitions. |
-| (f) | Authorization of appropriations. |
 | [426n.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426n%20-%20Technical%20assistance%20to%20States%20and%20local%20governments%3B%20cost%20sharing.md) | Technical assistance to States and local governments; cost sharing. |
 | 426<i>o.</i> | Great Lakes material disposal. |
 | 426<i>o</i>–1. | Great Lakes dredging levels adjustment. |
-| (a) | Definition of Great Lake. |
-| (b) | Dredging levels. |
 | [426p.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426p%20-%20Corps%20of%20Engineers.md) | Corps of Engineers. |
-| (a) | Technical and other assistance. |
-| (b) | Issuance of permits. |
-| 427 to 430. Repealed. |  |
+| 427 to 430. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -110,7 +67,7 @@
 
 |  |
 | :--- |
-| 431 to 437. Repealed. |
+| 431 to 437. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -141,7 +98,7 @@
 
 |  |
 | :--- |
-| 461 to 464. Repealed. |
+| 461 to 464. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -157,12 +114,8 @@
 
 |  |  |
 | :--- | ---: |
-| 466 to 466g. Transferred. |  |
+| 466 to 466g. Transferred. |  |
 | 466g–1. | Controversies involving construction or application of interstate compacts and pollution of waters. |
-| (a) | Jurisdiction of actions by States. |
-| (b) | Amount in controversy; residence, situs or citizenship; nature, character, or legal status of parties. |
-| (c) | Suits between States signatory to interstate compact. |
-| (d) | Venue. |
 | 466h to 466n. Transferred or Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -173,34 +126,16 @@
 | :--- | ---: |
 | [467\.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467%20-%20Definitions.md) | Definitions. |
 | [467a.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467a%20-%20Inspection%20of%20dams.md) | Inspection of dams. |
-| (a) | In general. |
-| (b) | State participation. |
 | [467b.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467b%20-%20Investigation%20reports%20to%20Governors.md) | Investigation reports to Governors. |
 | [467c.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467c%20-%20Determination%20of%20danger%20to%20human%20life%20and%20property.md) | Determination of danger to human life and property. |
 | [467d.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467d%20-%20National%20dam%20inventory.md) | National dam inventory. |
 | [467e.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467e%20-%20Interagency%20Committee%20on%20Dam%20Safety.md) | Interagency Committee on Dam Safety. |
-| (a) | Establishment. |
-| (b) | Duties. |
 | [467f.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467f%20-%20National%20dam%20safety%20program.md) | National dam safety program. |
-| (a) | In general. |
-| (b) | Duties. |
-| (c) | Objectives. |
-| (d) | Components. |
-| (e) | Assistance for State dam safety programs. |
-| (f) | Board. |
 | [467g.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467g%20-%20Research.md) | Research. |
-| (a) | In general. |
-| (b) | Consultation. |
 | 467g–1. | Dam safety training. |
 | [467h.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467h%20-%20Reports.md) | Reports. |
 | [467i.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467i%20-%20Statutory%20construction.md) | Statutory construction. |
 | [467j.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | National dam safety program. |
-| (b) | National dam inventory. |
-| (c) | Research. |
-| (d) | Dam safety training. |
-| (e) | Staff. |
-| (f) | Limitation on use of amounts. |
 | 467k to 467m. Repealed. |  |
 | [467n.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467n%20-%20Recovery%20of%20dam%20modification%20costs%20required%20for%20safety%20purposes.md) | Recovery of dam modification costs required for safety purposes. |
 

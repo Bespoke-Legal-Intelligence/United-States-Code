@@ -7,25 +7,12 @@
 | [2283\.](%C2%A7%2002283%20-%20Creation%20of%20Federal%20Financing%20Bank.md) | Creation of Federal Financing Bank. |
 | [2284\.](%C2%A7%2002284%20-%20Board%20of%20Directors.md) | Board of Directors. |
 | [2285\.](%C2%A7%2002285%20-%20Functions.md) | Functions. |
-| (a) | Purchase and sale of obligations issued, sold, or guaranteed by Federal agencies. |
-| (b) | Yield. |
-| (c) | Fees. |
 | [2285a.](%C2%A7%2002285a%20-%20Acquisition%20of%20obligations%20involving%20loan%20guarantees%20for%20New%20York%20City.md) | Acquisition of obligations involving loan guarantees for New York City. |
 | [2286\.](%C2%A7%2002286%20-%20Approval%20of%20financing%20plans%20by%20Secretary%20of%20the%20Treasury.md) | Approval of financing plans by Secretary of the Treasury. |
-| (a) | Method, source, timing, terms, and conditions of sale of obligations issued or sold by Federal agencies. |
-| (b) | Grant or denial of approval by Secretary. |
-| (c) | Time and form for submission of financing plans. |
 | [2287\.](%C2%A7%2002287%20-%20Initial%20capital.md) | Initial capital. |
 | [2288\.](%C2%A7%2002288%20-%20Bank%20obligations.md) | Bank obligations. |
-| (a) | Maximum amount of obligations issued publicly and outstanding at any one time. |
-| (b) | Purchase and sale of obligations of Federal Financing Bank by Secretary of the Treasury as public debt transactions. |
-| (c) | Authority of Federal Financing Bank to require Secretary of the Treasury to purchase obligations of the Bank. |
-| (d) | Bank obligations as lawful investments. |
 | [2289\.](%C2%A7%2002289%20-%20General%20powers.md) | General powers. |
 | [2290\.](%C2%A7%2002290%20-%20Exemptions.md) | Exemptions. |
-| (a) | Federal, State, and local taxes. |
-| (b) | Exempt securities. |
-| (c) | Budget status of Federal agencies; restrictions. |
 | [2291\.](%C2%A7%2002291%20-%20Preparation%20of%20obligations.md) | Preparation of obligations. |
 | [2292\.](%C2%A7%2002292%20-%20Annual%20report%20to%20the%20President%20and%20Congress.md) | Annual report to the President and Congress. |
 | [2293\.](%C2%A7%2002293%20-%20Budget%20and%20audit%20provisions%20of%20Government%20corporation%20control%20law%20applicable.md) | Budget and audit provisions of Government corporation control law applicable. |

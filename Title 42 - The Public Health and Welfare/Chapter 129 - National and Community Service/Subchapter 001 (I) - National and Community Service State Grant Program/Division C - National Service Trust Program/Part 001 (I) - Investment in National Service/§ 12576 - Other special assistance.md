@@ -16,7 +16,7 @@
 
 #### (b) Disaster service
 
-The Corporation may undertake activities, including activities carried out through part A oftitle I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws.
+The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws.
 
 #### (c) Challenge grants for national service programs
 

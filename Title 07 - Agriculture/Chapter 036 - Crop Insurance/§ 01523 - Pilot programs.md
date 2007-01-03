@@ -178,7 +178,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In addition to counties otherwise included in the pilot program, the Corporation shall include in the pilot program for the 2003 reinsurance year at least 8 counties in the State of California and at least 8 counties in the State of Pennsylvania.
+&emsp;&emsp;In addition to counties otherwise included in the pilot program, the Corporation shallinclude in the pilot program for the 2003 reinsurance year at least 8 counties in the State of California and at least 8 counties in the State of Pennsylvania.
 
 #### (B) Selection criteria
 

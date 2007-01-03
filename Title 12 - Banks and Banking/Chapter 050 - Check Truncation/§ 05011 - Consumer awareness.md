@@ -34,13 +34,13 @@ Each bank shall provide, in accordance with subsection (b), a brief notice about
 
 #### (1) In general
 
-&emsp;Before the end of the 9-month period beginning on October 28, 2003, the Board shall publish model forms and clauses that a bank may use to describe each of the elements required by subsection (a).
+&emsp;Before the end of the 9-month period beginning on October 28, 2003, the Board shall publish model forms and clauses that a bank mayuse to describe each of the elements required by subsection (a).
 
 #### (2) Safe harbor
 
 #### (A) In general
 
-&emsp;&emsp;A bank shall be treated as being in compliance with the requirements of subsection (a)if the bank's substitute check notice uses a model form or clause published by the Board and such model form or clause accurately describes the bank's policies and practices.
+&emsp;&emsp;A bank shall be treated as being in compliance with the requirements of subsection (a) if the bank's substitute check notice uses a model form or clause published by the Board and such model form or clause accurately describes the bank's policies and practices.
 
 #### (B) Deletion or rearrangement
 

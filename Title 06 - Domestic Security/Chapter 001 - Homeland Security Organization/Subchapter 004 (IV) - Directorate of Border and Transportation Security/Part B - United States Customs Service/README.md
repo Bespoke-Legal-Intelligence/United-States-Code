@@ -13,3 +13,4 @@ Part B—United States Customs Service
 - [&sect; 00216 - GAO report to Congress](%C2%A7%2000216%20-%20GAO%20report%20to%20Congress.md)
 - [&sect; 00217 - Allocation of resources by the Secretary](%C2%A7%2000217%20-%20Allocation%20of%20resources%20by%20the%20Secretary.md)
 - [&sect; 00218 - Reports to Congress](%C2%A7%2000218%20-%20Reports%20to%20Congress.md)
+- [&sect; 00220 - Methamphetamine and methamphetamine precursor chemicals](%C2%A7%2000220%20-%20Methamphetamine%20and%20methamphetamine%20precursor%20chemicals.md)

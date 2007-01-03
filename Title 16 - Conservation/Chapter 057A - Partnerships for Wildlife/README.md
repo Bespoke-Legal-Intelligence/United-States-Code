@@ -6,14 +6,6 @@
 | [3742\.](%C2%A7%2003742%20-%20Purposes.md) | Purposes. |
 | [3743\.](%C2%A7%2003743%20-%20Definitions.md) | Definitions. |
 | [3744\.](%C2%A7%2003744%20-%20Wildlife%20partnership%20program.md) | Wildlife partnership program. |
-| (a) | In general. |
-| (b) | Eligible projects. |
-| (c) | Project standards. |
-| (d) | Limitations on Federal payment. |
-| (e) | Non-Federal share of projects. |
-| (f) | Eligibility of designated State agencies. |
-| (g) | Establishment of Fund. |
-| (h) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

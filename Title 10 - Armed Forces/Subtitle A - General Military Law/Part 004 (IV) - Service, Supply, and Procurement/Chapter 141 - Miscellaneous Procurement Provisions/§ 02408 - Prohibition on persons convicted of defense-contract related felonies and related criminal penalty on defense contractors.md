@@ -12,7 +12,7 @@ Prohibition.—(1) An individual who is convicted of fraud or any other felony a
 
 &emsp;(D) Being involved in any other way, as determined under regulations prescribed by the Secretary of Defense, with a defense contract or first tier subcontract of a defense contract.
 
-(2) Except as provided in paragraph (3), the prohibition in paragraph (1) shall apply for a period, as determined by the Secretary of Defense,of not less than five years after the date of the conviction.
+(2) Except as provided in paragraph (3), the prohibition in paragraph (1) shall apply for a period, as determined by the Secretary of Defense, of not less than five years after the date of the conviction.
 
 (3) The prohibition in paragraph (1) may apply with respect to an individual for a period of less than five years if the Secretary determines that the five-year period should be waived in the interests of national security.
 
@@ -82,9 +82,9 @@ Section 831(b) of Pub. L. 100–456 provided that: “Section 2408(a) of title 1
 
 #### Effective Date
 
-Section 101(c) \[title X, §941(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 941(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2408 of title 10, United States Code (as added by subsection (a)(1)), shall apply with respect to employment or service on a board of directors after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §941(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 941(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:“Section 2408 of title 10, United States Code (as added by subsection (a)(1)), shall apply with respect to employment or service on a board of directors after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Deadline for Single Point of Contact
 
-Section 815(b) of Pub. L. 102–484 provided that: “The single point of contact required by section 2408(c) of title 10, United States Code, as added by subsection (a), shall be established not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title VIII, §815(b), Oct. 23, 1992, 106 Stat. 2454, directed that the single point of contact required by subsec. (c) of this section be established not later than 120 days after Oct. 23, 1992.
 

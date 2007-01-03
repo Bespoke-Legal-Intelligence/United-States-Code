@@ -6,7 +6,7 @@ On and after January 1, 1974, any claim for benefits for death or total disabili
 
 #### (b) Adequacy of compensation; listing of States providing adequate compensation; requisites for listing
 
-(1) For purposes of this section, a State workmen's compensation law shall not be deemed to provide adequate coverage for pneumoconiosis during any period unless it is included in the list of State laws found by the Secretary to provide such adequate coverage during such period. The Secretary shall, no later than October 1, 1972, publish in the Federal Register a list of Stateworkmen's compensation laws which provide adequate coverage for pneumoconiosis and shall revise and republish in the Federal Register such list from time to time, as may be appropriate to reflect changes in such State laws due to legislation or judicial or administrative interpretation.
+(1) For purposes of this section, a State workmen's compensation law shall not be deemed to provide adequate coverage for pneumoconiosis during any period unless it is included in the list of State laws found by the Secretary to provide such adequate coverage during such period. The Secretary shall, no later than October 1, 1972, publish in the Federal Register a list of State workmen's compensation laws which provide adequate coverage for pneumoconiosis and shall revise and republish in the Federal Register such list from time to time, as may be appropriate to reflect changes in such State laws due to legislation or judicial or administrative interpretation.
 
 (2) The Secretary shall include a State workmen's compensation law on such list during any period only if he finds that during such period under such law—
 

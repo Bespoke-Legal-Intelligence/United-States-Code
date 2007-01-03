@@ -16,12 +16,15 @@
 | [983\.](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md) | Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies. |
 | [985\.](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md) | Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits. |
 | [986\.](%C2%A7%2000986%20-%20Security%20clearances%20limitations.md) | Security clearances: limitations. |
+| [987\.](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md) | Terms of consumer credit extended to members and dependents: limitations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title VI, §662(c)(2), Jan. 6, 2006, 119 Stat. 3315, substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in item 985.
+2006—Pub. L. 109–364, div. A, title VI, §670(b), Oct. 17, 2006, 120 Stat. 2269, which directed amendment of the table of sections for this title by adding item 987, was executed to the table of sections for this chapter to reflect the probable intent of Congress.
+
+Pub. L. 109–163, div. A, title VI, §662(c)(2), Jan. 6, 2006, 119 Stat. 3315, substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in item 985.
 
 2004—Pub. L. 108–375, div. A, title VI, §651(f)(1), Oct. 28, 2004, 118 Stat. 1972, struck out item 977 “Operation of commissary stores: assignment of active duty members generally prohibited”.
 
@@ -89,3 +92,4 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00983 - Institutions of higher education that prevent ROTC access or military recruiting on campus denial of grants and contracts from Department&#8230;](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md)
 - [&sect; 00985 - Persons convicted of capital crimes; certain other persons denial of specified burial-related benefits](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md)
 - [&sect; 00986 - Security clearances limitations](%C2%A7%2000986%20-%20Security%20clearances%20limitations.md)
+- [&sect; 00987 - Terms of consumer credit extended to members and dependents limitations](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md)

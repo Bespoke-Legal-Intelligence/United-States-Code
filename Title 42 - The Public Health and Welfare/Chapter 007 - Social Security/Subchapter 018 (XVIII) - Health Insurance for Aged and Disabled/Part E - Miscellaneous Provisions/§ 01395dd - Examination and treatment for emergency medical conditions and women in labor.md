@@ -528,7 +528,7 @@ State.—The term ‘State’ means the 50 States and the District of Columbia.�
 
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 
-Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
+Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examinationand treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

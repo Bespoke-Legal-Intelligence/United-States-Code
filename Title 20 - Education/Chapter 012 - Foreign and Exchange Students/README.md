@@ -7,16 +7,6 @@
 | 222 to 224. Repealed. |  |
 | [225\.](%C2%A7%2000225%20-%20Fund%20for%20education%20of%20Iranian%20students%20in%20United%20States.md) | Fund for education of Iranian students in United States. |
 | [226\.](%C2%A7%2000226%20-%20Cooperative%20public%20and%20private%20sector%20program%20for%20providing%20scholarships%20to%20students%20from%20the%20Caribbean%20and%20Central%20America.md) | Cooperative public and private sector program for providing scholarships to students from the Caribbean and Central America. |
-| (a) | Statement of purpose. |
-| (b) | Establishment of scholarship program. |
-| (c) | Grants to States. |
-| (d) | Agreement with States. |
-| (e) | Federal share. |
-| (f) | Non-Federal share. |
-| (g) | Forgiveness of scholarship assistance. |
-| (h) | Private sector participation. |
-| (i) | Funding. |
-| (j) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

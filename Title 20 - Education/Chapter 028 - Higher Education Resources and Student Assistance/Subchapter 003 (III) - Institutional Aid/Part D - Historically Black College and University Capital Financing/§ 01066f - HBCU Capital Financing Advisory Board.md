@@ -32,7 +32,7 @@ There is established within the Department of Education, the Historically Black 
 
 &emsp;&emsp;(C) a member may continue to serve after the expiration of a term until a successor is appointed.
 
-(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746; renumbered title III, §347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647.)
+(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 746; renumbered title III, §347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647.)
 
 #### Codification
 
@@ -48,7 +48,7 @@ A prior section 347 of Pub. L. 89–329 was classified to section 1069c of this 
 
 Subsec. (b)(1)(E). Pub. L. 105–244, §306(e)(1)(B), inserted “, or the designee of the Association” before the period.
 
-Subsec. (c). Pub. L. 105–244, §306(e)(2), struck out heading and text of subsec. (c). Text read as follows:“There are authorized to be appropriated $50,000 for fiscal year 1993 and each of the 4 succeeding fiscal years to carry out this section.”
+Subsec. (c). Pub. L. 105–244, §306(e)(2), struck out heading and text of subsec. (c). Text read as follows: “There are authorized to be appropriated $50,000 for fiscal year 1993 and each of the 4 succeeding fiscal years to carry out this section.”
 
 #### Effective Date of 1998 Amendment
 

@@ -28,7 +28,7 @@ Each institution or consortium desiring a grant under this section shall submit 
 
 #### (d) Match required
 
-The Federal share of the total cost of carrying out a program supported by a grant under thissection shall not be more than 662/3 percent. The non-Federal share of such cost may be provided either in-kind or in cash, and may include contributions from private sector corporations or foundations.
+The Federal share of the total cost of carrying out a program supported by a grant under this section shall not be more than 662/3 percent. The non-Federal share of such cost may be provided either in-kind or in cash, and may include contributions from private sector corporations or foundations.
 
 (Pub. L. 89–329, title VI, §606, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1781.)
 

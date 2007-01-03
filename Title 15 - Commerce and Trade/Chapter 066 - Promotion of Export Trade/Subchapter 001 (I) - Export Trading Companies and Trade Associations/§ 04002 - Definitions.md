@@ -8,7 +8,7 @@
 
 &emsp;(3) the term “export trade services” includes, but is not limited to, consulting, international market research, advertising, marketing, insurance, product research and design, legal assistance, transportation, including trade documentation and freight forwarding, communication and processing of foreign orders to and for exporters and foreign purchasers, warehousing, foreign exchange, financing, and taking title to goods, when provided in order to facilitate the export of goods or services produced in the United States;
 
-&emsp;(4) the term “export trading company” means a person, partnership, association, or similar organization, whether operated forprofit or as a nonprofit organization, which does business under the laws of the United States or any State and which is organized and operated principally for purposes of—
+&emsp;(4) the term “export trading company” means a person, partnership, association, or similar organization, whether operated for profit or as a nonprofit organization, which does business under the laws of the United States or any State and which is organized and operated principally for purposes of—
 
 &emsp;&emsp;(A) exporting goods or services produced in the United States; or
 

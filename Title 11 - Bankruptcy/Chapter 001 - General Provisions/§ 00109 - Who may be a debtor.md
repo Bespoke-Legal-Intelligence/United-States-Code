@@ -16,7 +16,7 @@
 
 &emsp;(1) is a municipality;
 
-&emsp;(2) is specifically authorized, in its capacity as a municipality or by name, to be a debtor under such chapter by State law, or by a governmental officer or organization empowered by State law to authorize such entity to be a debtor under such chapter;
+&emsp;(2) is specifically authorized, in its capacity as a municipality or by name, to be a debtor under such chapter by State law, or by a governmental officer or organization empoweredby State law to authorize such entity to be a debtor under such chapter;
 
 &emsp;(3) is insolvent;
 
@@ -60,7 +60,7 @@
 
 (4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141,4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193.)
 
 #### Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Section 109(e) represents a compromise between H.R. 8200 as passed by the House 
 
 #### senate report no. 95–989
 
-This section specifies eligibility to be a debtor under the bankruptcy laws. The first criterion, found in the current Bankruptcy Act section 2a(1) \[section 11(a)(1) offormer title 11\] requires that the debtor reside or have a domicile, a place of business, or property in the United States.
+This section specifies eligibility to be a debtor under the bankruptcy laws. The first criterion, found in the current Bankruptcy Act section 2a(1) \[section 11(a)(1) of former title 11\] requires that the debtor reside or have a domicile, a place of business, or property in the United States.
 
 Subsection (b) defines eligibility for liquidation under chapter 7. All persons are eligible except insurance companies, and certain banking institutions. These exclusions are contained in current law. However, the banking institution exception is expanded in light of changes in various banking laws since the current law was last amended on this point. A change is also made to clarify that the bankruptcy laws cover foreign banks and insurance companies not engaged in the banking or insurance business in the United States but having assets in the United States. Banking institutions and insurance companies engaged in business in this country are excluded from liquidation under the bankruptcy laws because they are bodies for which alternate provision is made for their liquidation under various State or Federal regulatory laws. Conversely, when a foreign bank or insurance company is not engaged in the banking or insurance business in the United States, then those regulatory laws do not apply, and the bankruptcy laws are the only ones available for administration of any assets found in United States.
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (e) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (e) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

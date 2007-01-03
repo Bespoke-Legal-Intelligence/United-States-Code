@@ -26,13 +26,19 @@ The National Science Foundation is designated as the lead agency responsible for
 
 &emsp;(H) the Department of Health and Human Services;
 
-&emsp;(I) the National Aeronautics and Space Administration;
+&emsp;(I) the Department of Homeland Security;
 
-&emsp;(J) the Environmental Protection Agency; and
+&emsp;(J) the National Aeronautics and Space Administration;
 
-&emsp;(K) any other agency or office deemed appropriate.
+&emsp;(K) the Environmental Protection Agency; and
+
+&emsp;(L) any other agency or office deemed appropriate.
 
 (3) The representative of the National Science Foundation shall serve as the Chairperson of the Interagency Committee.
 
-(Pub. L. 98–373, title I, §107, July 31, 1984, 98 Stat. 1246.)
+(Pub. L. 98–373, title I, §107, July 31, 1984, 98 Stat. 1246; Pub. L. 109–241, title IX, §902(g), July 11, 2006, 120 Stat. 567.)
+
+#### Amendments
+
+2006—Subsec. (b)(2)(I) to (L). Pub. L. 109–241 added subpar. (I) and redesignated former subpars. (I) to (K) as (J) to (L), respectively.
 

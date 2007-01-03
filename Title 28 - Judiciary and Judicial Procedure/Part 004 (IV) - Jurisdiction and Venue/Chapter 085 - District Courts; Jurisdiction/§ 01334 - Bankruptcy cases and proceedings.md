@@ -4,7 +4,7 @@
 
 (b) Except as provided in subsection (e)(2), and notwithstanding any Act of Congress that confers exclusive jurisdiction on a court or courts other than the district courts, the district courts shall have original but not exclusive jurisdiction of all civil proceedings arising under title 11, or arising in or related to cases under title 11.
 
-(c)(1) Except with respect to a case under chapter 15 of title 11, nothing in this section prevents a district court in the interest of justice, or in the interest of comity with State courts or respect for State law, from abstaining from hearing a particular proceeding arising under title 11 or arising in or related to a case under title 11.
+(c)(1) Except with respect to a case under chapter 15 of title 11, nothing in this section prevents a district court in the interest of justice,or in the interest of comity with State courts or respect for State law, from abstaining from hearing a particular proceeding arising under title 11 or arising in or related to a case under title 11.
 
 (2) Upon timely motion of a party in a proceeding based upon a State law claim or State law cause of action, related to a case under title 11 but not arising under title 11 or arising in a case under title 11, with respect to which an action could not have been commenced in a court of the United States absent jurisdiction under this section, the district court shall abstain from hearing such proceeding if an action is commenced, and can be timely adjudicated, in a State forum of appropriate jurisdiction.
 
@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 103–394, §104(b)(1), redesignated subsec. (d) as (e).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–8, title III, §324(b), Apr. 20, 2005, 119 Stat. 98, provided that: “This section \[amending this section\]shall only apply to cases filed after the date of enactment of this Act \[Apr. 20, 2005\].”
+Pub. L. 109–8, title III, §324(b), Apr. 20, 2005, 119 Stat. 98, provided that: “This section \[amending this section\] shall only apply to cases filed after the date of enactment of this Act \[Apr. 20, 2005\].”
 
 Amendment by sections 802(c)(2) and 1219 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
@@ -72,7 +72,7 @@ Section 115 of Pub. L. 98–353 provided that:
 
 &emsp;“(1) cases, and matters and proceedings in cases, under the Bankruptcy Act \[former Title 11, Bankruptcy\] that are pending immediately before such date in the bankruptcy courts continued by section 404(a) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687) \[formerly set out as a note preceding section 151 of this title\], and
 
-&emsp;“(2) cases under title 11 of the United States Code, and proceedings arising under title 11 of the United States Code or arising in or related to cases under title 11 of the United States Code, that are pending immediately before such date in the bankruptcy courts continued by section 404(a) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687).
+&emsp;“(2) cases under title 11 of the United States Code, and proceedings arising under title 11 of the UnitedStates Code or arising in or related to cases under title 11 of the United States Code, that are pending immediately before such date in the bankruptcy courts continued by section 404(a) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687).
 
 “(b) On the date of the enactment of this Act \[July 10, 1984\], there shall be transferred to the appropriate district court of the United States appeals from final judgments, orders, and decrees of the bankruptcy courts pending immediately before such date in the bankruptcy appellate panels appointed under section 405(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2685) \[formerly set out as a note preceding section 1471 of this title\].”
 

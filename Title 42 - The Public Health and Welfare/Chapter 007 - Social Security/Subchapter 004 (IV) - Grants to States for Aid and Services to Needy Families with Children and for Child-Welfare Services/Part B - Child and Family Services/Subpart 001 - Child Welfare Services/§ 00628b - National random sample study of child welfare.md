@@ -48,7 +48,11 @@ In conducting the study required by subsection (a) of this section, the Secretar
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for each of fiscal years 1996 through 2002 $6,000,000 to carry out this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §429A, as added Pub. L. 104–193, title V, §503, Aug. 22, 1996, 110 Stat. 2277; amended Pub. L. 105–33, title V, §§5591(a), 5592(a)(1)(C), Aug. 5, 1997, 111 Stat. 643, 644.)
+(Aug. 14, 1935, ch. 531, title IV, §429, formerly §429A, as added Pub. L. 104–193, title V, §503, Aug. 22, 1996, 110 Stat. 2277; amended Pub. L. 105–33, title V, §§5591(a), 5592(a)(1)(C), Aug. 5, 1997, 111 Stat. 643, 644; renumbered §429, Pub. L. 109–288, §6(f)(3), Sept. 28, 2006, 120 Stat. 1247.)
+
+#### Prior Provisions
+
+A prior section 429 of act Aug. 14, 1935, was renumbered section 426(c) and is classified to section 626(c) of this title.
 
 #### Amendments
 

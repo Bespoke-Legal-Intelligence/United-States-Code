@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Federally administered lands
 
-&emsp;The term “federally administered lands” means lands, waters, or interests therein, administered by Federal agencies, except for thelands, waters, or interests therein that are owned by, or for the benefit of, Indian tribes or individual Indians.
+&emsp;The term “federally administered lands” means lands, waters, or interests therein, administered by Federal agencies, except for the lands, waters, or interests therein that are owned by, or for the benefit of, Indian tribes or individual Indians.
 
 #### (2) Fund
 

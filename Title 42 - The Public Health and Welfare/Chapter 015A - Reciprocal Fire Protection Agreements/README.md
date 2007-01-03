@@ -19,10 +19,6 @@
 | :--- | ---: |
 | [1856m.](Subchapter%20002%20%28II%29%20-%20Wildfire%20Suppression%20with%20Foreign%20Fire%20Organization/%C2%A7%2001856m%20-%20Definitions.md) | Definitions. |
 | [1856n.](Subchapter%20002%20%28II%29%20-%20Wildfire%20Suppression%20with%20Foreign%20Fire%20Organization/%C2%A7%2001856n%20-%20Implementation.md) | Implementation. |
-| (a) | Reciprocal agreement; waiver of claims; termination of agreement; reimbursement. |
-| (b) | Emergency wildfire protection resources; furnishing or accepting in absence of agreement. |
-| (c) | Reimbursement of Canada. |
-| (d) | Service in line of duty. |
 | 1856<i>o.</i> | Funds. |
 | [1856p.](Subchapter%20002%20%28II%29%20-%20Wildfire%20Suppression%20with%20Foreign%20Fire%20Organization/%C2%A7%2001856p%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9311%2C%20%C2%A72%2C%20Apr.%207%2C%201989%2C%20103%20Stat.%2015.md) | Repealed. |
 

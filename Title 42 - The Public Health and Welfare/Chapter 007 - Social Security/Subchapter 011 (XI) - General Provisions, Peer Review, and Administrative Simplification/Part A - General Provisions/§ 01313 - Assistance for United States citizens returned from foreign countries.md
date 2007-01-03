@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to provide temporary assistance to citizens of the United States and to dependents of citizens of the United States, if they (A) are identified by the Department of State as having returned, or been brought, from a foreign country to the United States because of the destitution of the citizen of the United States or the illness of such citizen or any of his dependents or because of war, threat of war, invasion, or similar crisis, and (B) are without available resources.
 
-(2) Except in such cases or classes of cases as are set forth in regulations of the Secretary, provision shall be made for reimbursement to the United States by the recipients of the temporary assistance to cover the cost thereof.
+(2) Except in such cases or classes of cases as are set forth in regulations of the Secretary,provision shall be made for reimbursement to the United States by the recipients of the temporary assistance to cover the cost thereof.
 
 (3) The Secretary may provide assistance under paragraph (1) directly or through utilization of the services and facilities of appropriate public or private agencies and organizations, in accordance with agreements providing for payment, in advance or by way of reimbursement, as may be determined by the Secretary, of the cost thereof. Such cost shall be determined by such statistical, sampling, or other method as may be provided in the agreement.
 
@@ -18,7 +18,7 @@ For purposes of this section, the term “temporary assistance” means money pa
 
 #### (d) Maximum total amount of temporary assistance
 
-The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2003.
+The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2003, except that, in the case of fiscal year 2006, the total amount of such assistance provided during that fiscal year shall not exceed $6,000,000.
 
 #### (e) Authority of Secretary to accept gifts
 
@@ -26,9 +26,11 @@ The total amount of temporary assistance provided under this section shall not e
 
 (2) Gifts accepted under paragraph (1) shall be available for obligation or other use by the United States only to the extent and in the amounts provided in appropriation Acts.
 
-(Aug. 14, 1935, ch. 531, title XI, §1113, as added Pub. L. 87–64, title III, §302, June 30, 1961, 75 Stat. 142; amended Pub. L. 87–543, title I, §133, July 25, 1962, 76 Stat. 196; Pub. L. 88–347, June 30, 1964, 78 Stat. 236; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title V, §503, Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–41, §4, July 9, 1969, 83 Stat. 45; Pub. L. 92–40, July 1, 1971, 85 Stat. 96; Pub. L. 94–44, §§1, 2, June 28, 1975, 89 Stat. 235; Pub. L. 101–382, title I, §140, Aug. 20, 1990, 104 Stat. 654; Pub. L. 101–508, title V, §5056(a), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 108–11, title I, §1701, Apr. 16, 2003, 117 Stat. 585.)
+(Aug. 14, 1935, ch. 531, title XI, §1113, as added Pub. L. 87–64, title III, §302, June 30, 1961, 75 Stat. 142; amended Pub. L. 87–543, title I, §133, July 25, 1962, 76 Stat. 196; Pub. L. 88–347, June 30, 1964, 78 Stat. 236; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title V, §503, Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–41, §4, July 9, 1969, 83 Stat. 45; Pub. L. 92–40, July 1, 1971, 85 Stat. 96; Pub. L. 94–44, §§1, 2, June 28, 1975, 89 Stat. 235; Pub. L. 101–382, title I, §140, Aug. 20, 1990, 104 Stat. 654; Pub. L. 101–508, title V, §5056(a), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 108–11, title I, §1701, Apr. 16, 2003, 117 Stat. 585; Pub. L. 109–250, §1(a), July 27, 2006, 120 Stat. 652.)
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–250 inserted “, except that, in the case of fiscal year 2006, the total amount of such assistance provided during that fiscal year shall not exceed $6,000,000” after “2003”.
 
 2003—Subsec. (d). Pub. L. 108–11 substituted “2003” for “1991”.
 

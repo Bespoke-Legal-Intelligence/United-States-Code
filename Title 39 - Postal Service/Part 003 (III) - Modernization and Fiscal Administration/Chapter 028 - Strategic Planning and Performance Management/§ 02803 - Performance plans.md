@@ -1,6 +1,6 @@
 ### §2803. Performance plans
 
-(a) The Postal Service shall prepare an annual performance plan covering each program activity set forth in the Postal Service budget, which shall be included in the comprehensive statement presented under section 2401(g) of this title. Such plan shall—
+(a) The Postal Service shall prepare an annual performance plan covering each program activity set forth in the Postal Service budget, which shall be included in the comprehensive statement presented under section 2401(e) of this title. Such plan shall—
 
 &emsp;(1) establish performance goals to define the level of performance to be achieved by a program activity;
 
@@ -34,5 +34,9 @@
 
 &emsp;(2) matters otherwise exempt from public disclosure under section 410(c) of this title.
 
-(Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 293.)
+(Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 293; amended Pub. L. 109–435, title X, §1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–435 substituted “section 2401(e)” for “section 2401(g)” in introductory provisions.
 

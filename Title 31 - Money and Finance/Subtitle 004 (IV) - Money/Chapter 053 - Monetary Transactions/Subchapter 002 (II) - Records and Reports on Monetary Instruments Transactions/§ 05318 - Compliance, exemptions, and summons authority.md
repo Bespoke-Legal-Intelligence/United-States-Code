@@ -180,7 +180,7 @@ In general.—In order to guard against money laundering through financial insti
 
 &emsp;(2)
 
-Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
+Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code ofFederal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
 
 &emsp;(3)
 
@@ -352,7 +352,7 @@ Termination upon receipt of notice.—A covered financial institution shall term
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on liability.—A covered financial institution shall not be liable to any person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
+Limitation on liability.—A covered financial institution shall not be liable toany person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -374,7 +374,7 @@ Minimum requirements.—The regulations shall, at a minimum, require financial i
 
 &emsp;&emsp;(B) maintaining records of the information used to verify a person's identity, including name, address, and other identifying information; and
 
-&emsp;&emsp;(C) consulting lists of known or suspected terrorists or terrorist organizations providedto the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list.
+&emsp;&emsp;(C) consulting lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list.
 
 &emsp;(3)
 
@@ -422,9 +422,9 @@ Feasibility report.—
 
 &emsp;&emsp;(A)
 
-In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the National Intelligence Reform Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
+In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
 
-&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
+&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of fundsthat may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
 
 &emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of the reports that may be required under such regulations;
 
@@ -442,13 +442,13 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), the regulations required by paragraph (1) shall be prescribed in final form by theSecretary, in consultation with the Board of Governors of the Federal Reserve System, before the end of the 3-year period beginning on the date of enactment of the National Intelligence Reform Act of 2004.
+In general.—Subject to subparagraph (B), the regulations required by paragraph (1) shall be prescribed in final form by the Secretary, in consultation with the Board of Governors of the Federal Reserve System, before the end of the 3-year period beginning on the date of enactment of the National Intelligence Reform Act of 2004.
 
 &emsp;&emsp;(B)
 
 Technological feasibility.—No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245.)
 
 Historical and Revision Notes
 
@@ -488,11 +488,15 @@ Section 4(k) of the Bank Holding Company Act of 1956, referred to in subsec. (<i
 
 The date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001, referred to in subsec. (<i>l</i>)(6), is the date of enactment of title III of Pub. L. 107–56, which was approved Oct. 26, 2001.
 
-The date of enactment of the National Intelligence Reform Act of 2004, referred to in subsec. (n)(4)(A), (5)(A), probably means the date of enactment of the National Security Intelligence Reform Act of 2004, title I of Pub. L. 108–458, which was approved Dec. 17, 2004.
+The date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, referred to in subsec. (n)(4)(A), is the date of enactment of Pub. L. 108–458, which was approved Dec. 17, 2004.
+
+The date of enactment of the National Intelligence Reform Act of 2004, referred to in subsec. (n)(5)(A), probably means the date of enactment of the National Security Intelligence Reform Act of 2004, title I of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
 For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under section 5311 of this title.
 
 #### Amendments
+
+2006—Subsec. (n)(4)(A). Pub. L. 109–177 substituted “Intelligence Reform and Terrorism Prevention Act of2004” for “National Intelligence Reform Act of 2004” in introductory provisions.
 
 2004—Subsec. (h)(3). Pub. L. 108–458, §6202(h), made technical correction to directory language of Pub. L. 107–56, §325. See 2001 Amendment note below.
 
@@ -518,7 +522,7 @@ Subsec. (g)(2). Pub. L. 107–56, §351(b), reenacted heading without change and
 
 Subsec. (g)(3). Pub. L. 107–56, §351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure.”
 
-Subsec. (g)(4)(B). Pub. L. 107–56, §358(b), substituted “, supervisory agency, or United States intelligenceagency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” for “or supervisory agency”.
+Subsec. (g)(4)(B). Pub. L. 107–56, §358(b), substituted “, supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” for “or supervisory agency”.
 
 Subsec. (h). Pub. L. 107–56, §352(a), reenacted heading without change and amended text of subsec. (h) generally. Prior to amendment, text read as follows:
 
@@ -614,7 +618,7 @@ Pub. L. 107–56, title III, §319(c), Oct. 26, 2001, 115 Stat. 314, provided th
 
 #### “Federal Functional Regulator” Includes Commodity Futures Trading Commission
 
-Pub. L. 107–56, title III, §321(c), Oct. 26, 2001, 115 Stat. 315, provided that: “For purposes of this Act \[probably should be “title”, see Short Title of 2001 Amendment note set out under section 5301 of this title\] and any amendment made by this Act to any other provision oflaw, the term ‘Federal functional regulator’ includes the Commodity Futures Trading Commission.”
+Pub. L. 107–56, title III, §321(c), Oct. 26, 2001, 115 Stat. 315, provided that: “For purposes of this Act \[probably should be “title”, see Short Title of 2001 Amendment note set out under section 5301 of this title\] and any amendment made by this Act to any other provision of law, the term ‘Federal functional regulator’ includes the Commodity Futures Trading Commission.”
 
 #### Reporting of Suspicious Activities by Securities Brokers and Dealers; Investment Company Study
 

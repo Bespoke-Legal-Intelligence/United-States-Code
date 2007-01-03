@@ -50,7 +50,7 @@ Subsection (b) contains precatory language directing the court to appoint the pe
 
 Paragraph (2) of subsection (b) requires similar treatment for equity security holders’ committees. The seven largest holders are normally to be appointed, but the language is only precatory.
 
-Subsection (c) authorizes the court, on request of a party in interest, to change the size or the membership of a creditors’ or equity security holders’ committee if the membership of the committee is not representative of the different kinds of claims or interests to be represented. This subsection is intended, along with the nonbinding nature of subsection (b), to afford the courtlatitude in appointing a committee that is manageable and representative in light of the circumstances of the case.
+Subsection (c) authorizes the court, on request of a party in interest, to change the size or the membership of a creditors’ or equity security holders’ committee if the membership of the committee is not representative of the different kinds of claims or interests to be represented. This subsection is intended, along with the nonbinding nature of subsection (b), to afford the court latitude in appointing a committee that is manageable and representative in light of the circumstances of the case.
 
 #### References in Text
 

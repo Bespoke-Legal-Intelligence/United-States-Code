@@ -20,7 +20,7 @@ For each fiscal year, the Secretary shall (to the extent amounts are made availa
 
 #### (c) Use of funds for affordable housing activities under plan
 
-Except as provided in subsection (e) of this section, amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under section 4224 of this title.
+Except as provided in subsection (e) of this section, amounts provided under a grant underthis section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under section 4224 of this title.
 
 #### (d) Administrative expenses
 
@@ -38,7 +38,7 @@ Except as provided in subsection (e) of this section, amounts provided under a g
 
 #### (e) Public-private partnerships
 
-The Director shall make all reasonable efforts, consistent with the purposes of this subchapter,to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing a housing plan that has been approved by the Secretary under section 4223 of this title.
+The Director shall make all reasonable efforts, consistent with the purposes of this subchapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing a housing plan that has been approved by the Secretary under section 4223 of this title.
 
 (Pub. L. 104–330, title VIII, §802, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2877, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2971.)
 

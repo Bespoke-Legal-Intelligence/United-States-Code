@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§225, 226, 66 Stat. 488.
 
-In subsection (a), the words “Each \* \* \* who is not on active duty” are substituted for the words “when not on active duty all”. The words “examined as to his physical fitness” are substituted for the words “given physical examinations”. The words “be required to” are omitted as surplusage. The words “execute and” are inserted for clarity.
+In subsection (a), the words “Each \* \* \* who is not on active duty” are substituted for the words “when not on active duty all”. The words “examined as to hisphysical fitness” are substituted for the words “given physical examinations”. The words “be required to” are omitted as surplusage. The words “execute and” are inserted for clarity.
 
 In subsection (c), the words “under his jurisdiction” are inserted for clarity.
 

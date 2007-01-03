@@ -38,7 +38,7 @@ All royalty accruing to the United States shall, on the demand of the Secretary,
 
 #### (4) Retention by the Secretary
 
-&emsp;The Secretary may, notwithstanding section 3302 of title 31, retain and use a portion of the revenues from the sale of oil and gas taken in-kind that otherwise would be deposited to miscellaneous receipts, without regard to fiscal year limitation, or may use oil or gas received as royalty taken in-kind (referred to in this paragraph as “royalty production”) to pay the cost of—
+&emsp;The Secretary may, notwithstanding section 3302 of title 31, retain and use a portion of the revenues from the sale of oil and gas taken in-kind that otherwise would be deposited to miscellaneous receipts, without regard to fiscal year limitation, or may use oil or gas receivedas royalty taken in-kind (referred to in this paragraph as “royalty production”) to pay the cost of—
 
 &emsp;&emsp;(A) transporting the royalty production;
 
@@ -100,7 +100,7 @@ The Secretary may receive oil or gas royalties in-kind only if the Secretary det
 
 #### (2) Accounting for deductions
 
-&emsp;When the Secretary allows the lessee to deduct transportation or processing costs under subsection (c), the Secretary may not reduceany payments to recipients of revenues derived from any other Federal oil and gas lease as a consequence of that deduction.
+&emsp;When the Secretary allows the lessee to deduct transportation or processing costs under subsection (c), the Secretary may not reduce any payments to recipients of revenues derived from any other Federal oil and gas lease as a consequence of that deduction.
 
 #### (g) Consultation with States
 

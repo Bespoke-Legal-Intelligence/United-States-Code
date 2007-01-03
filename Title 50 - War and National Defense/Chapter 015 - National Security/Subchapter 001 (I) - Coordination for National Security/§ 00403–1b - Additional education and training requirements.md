@@ -46,41 +46,43 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 #### Pilot Project on Civilian Linguist Reserve Corps
 
+Pub. L. 109–364, div. A, title IX, §944(a)(1), Oct. 17, 2006, 120 Stat. 2366, provided that: “Administration of the pilot project on the establishment of a Civilian Linguist Reserve Corps required by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 (Public Law 108–487; 118 Stat. 3959; 50 U.S.C. 403–1b note) is hereby transferred from the Director of National Intelligence to the Secretary of Defense.”
+
 Pub. L. 109–163, div. A, title XI, §1124, Jan. 6, 2006, 119 Stat. 3454, provided that: “Subject to the availability of appropriated funds, the Secretary of Defense may support implementation of the Civilian Linguist Reserve Corps pilot project authorized by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 (Public Law 108–487; 118 Stat. 3959; 50 U.S.C. 403–1b note).”
 
-Pub. L. 108–487, title VI, §613, Dec. 23, 2004, 118 Stat. 3959, provided that:
+Pub. L. 108–487, title VI, §613, Dec. 23, 2004, 118 Stat. 3959, as amended by Pub. L. 109–364, div. A, title IX, §944(a)(2), (b)–(e), Oct. 17, 2006, 120 Stat. 2366, provided that:
 
 “(a)
 
-Pilot Project.—The Director of National Intelligence shall conduct a pilot project to assess the feasibility and advisability of establishing a Civilian Linguist Reserve Corps comprised of United States citizens with advanced levels of proficiency in foreign languages who would be available upon the call of the Director to perform such service or duties with respect to such foreign languages in the intelligence community as the Director may specify.
+Pilot Project.—(1) The Secretary of Defense shall conduct a pilot project to assess the feasibility and advisability of establishing a Civilian Linguist Reserve Corps comprised of United States citizens with advanced levels of proficiency in foreign languages who would be available upon the call of the Secretary to perform such service or duties with respect to such foreign languages in the intelligence community as the Secretary may specify.
+
+“(2) The Secretary shall conduct the pilot project in coordination with the Director of National Intelligence.
+
+“(3) The Secretary shall conduct the pilot project through the National Security Education Program.
 
 “(b)
 
-Conduct of Project.—Taking into account the findings and recommendations contained in the report required under section 325 of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2393), in conducting the pilot project under subsection (a) the Director of National Intelligence shall—
+Conduct of Project.—Taking into account the findings and recommendations contained in the report required under section 325 of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2393), in conducting the pilot project under subsection (a) the Secretary of Defense shall—
 
 &emsp;“(1) identify several foreign languages that are critical for the national security of the United States;
 
 &emsp;“(2) identify United States citizens with advanced levels of proficiency in the foreign languages identified under paragraph (1) who would be available to perform the services and duties referred to in subsection (a); and
 
-&emsp;“(3) when considered necessary by the Director, implement a call for the performance of such services and duties.
+&emsp;“(3) when considered necessary by the Secretary, implement a call for the performance of such services and duties.
 
 “(c)
 
-Duration of Project.—The pilot project under subsection (a) shall be conducted for a three-year period.
+Duration of Project.—The pilot project under subsection (a) shall be conducted for a five-year period.
 
 “(d)
 
-Authority To Enter Into Contracts.—The Director of National Intelligence may enter into contracts with appropriate agencies or entities to carry out the pilot project under subsection (a).
+Authority To Enter Into Contracts.—The Secretary of Defense may enter into contracts with appropriate agencies or entities to carry out the pilot project under subsection (a).
 
 “(e)
 
-Reports.—(1) The Director of National Intelligence shall submit to Congress an initial and a final report on the pilot project conducted under subsection (a).
+Reports.—(1) The Secretary of Defense shall submit to Congress an initial and a final report on the pilot project conducted under subsection (a).
 
 “(2) Each report required under paragraph (1) shall contain information on the operation of the pilot project, the success of the pilot project in carrying out the objectives of the establishment of a Civilian Linguist Reserve Corps, and recommendations for the continuation or expansion of the pilot project.
 
-“(3) The final report shall be submitted not later than six months after the completion of the pilot project.
-
-“(f)
-
-Authorization of Appropriations.—There is authorized to be appropriated to the Director of National Intelligence for each of fiscal years 2005, 2006, and 2007 in order to carry out the pilot project under subsection (a) such sums as are specified in the classified Schedule of Authorizations referred to in section 102 \[118 Stat. 3940\].”
+“(3) The final report shall be submitted not later than six months after the completion of the pilot project.”
 

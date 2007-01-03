@@ -1,7 +1,5 @@
 subpart i—congregate nutrition services
 
-<i><sup>1</sup></i><i> So in original. The period probably should be “; or”.</i>
-
 
 ---
 

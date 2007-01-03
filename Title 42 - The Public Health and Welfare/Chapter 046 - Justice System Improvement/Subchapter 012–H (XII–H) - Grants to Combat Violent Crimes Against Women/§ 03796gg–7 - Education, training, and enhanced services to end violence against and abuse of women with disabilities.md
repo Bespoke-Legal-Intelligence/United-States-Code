@@ -74,6 +74,10 @@ Section was enacted as part of the Violence Against Women Act of 2000 and also a
 
 2006—Pub. L. 109–162 substituted “Education, training, and enhanced services to end violence against and abuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
+
 #### Definitions
 
 For definitions of terms used in this section, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.

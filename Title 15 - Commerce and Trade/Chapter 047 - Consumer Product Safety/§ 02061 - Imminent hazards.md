@@ -12,7 +12,7 @@ The Commission may file in a United States district court an action (1) against 
 
 #### (c) Consumer product safety rule
 
-Where appropriate, concurrently with the filing of such action or as soon thereafter as maybe practicable, the Commission shall initiate a proceeding to promulgate a consumer product safety rule applicable to the consumer product with respect to which such action is filed.
+Where appropriate, concurrently with the filing of such action or as soon thereafter as may be practicable, the Commission shall initiate a proceeding to promulgate a consumer product safety rule applicable to the consumer product with respect to which such action is filed.
 
 #### (d) Jurisdiction and venue; process; subpena
 

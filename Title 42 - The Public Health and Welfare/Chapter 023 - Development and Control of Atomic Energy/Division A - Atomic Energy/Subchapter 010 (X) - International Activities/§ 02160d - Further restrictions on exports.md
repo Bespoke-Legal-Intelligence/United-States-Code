@@ -92,7 +92,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 #### (5) Second report to Congress
 
-&emsp;If the study of the National Academy of Sciences determines under paragraph (4)(A)(i)that the procurement of supplies of medical isotopes from commercial sources that do not use highly enriched uranium is feasible, but the Secretary is unable to report the existence of commitments under paragraph (4)(C)(ii), not later than the date that is 6 years after August 8, 2005, the Secretary shall submit to Congress a report that describes options for developing domestic supplies of medical isotopes in quantities that are adequate to meet domestic demand without the use of highly enriched uranium consistent with the cost increase described in paragraph (4)(B)(iii).
+&emsp;If the study of the National Academy of Sciences determines under paragraph (4)(A)(i) that the procurement of supplies of medical isotopes from commercial sources that do not use highly enriched uranium is feasible, but the Secretary is unable to report the existence of commitments under paragraph (4)(C)(ii), not later than the date that is 6 years after August 8, 2005, the Secretary shall submit to Congress a report that describes options for developing domestic supplies of medical isotopes in quantities that are adequate to meet domestic demand without the use of highly enriched uranium consistent with the cost increase described in paragraph (4)(B)(iii).
 
 #### (6) Certification
 

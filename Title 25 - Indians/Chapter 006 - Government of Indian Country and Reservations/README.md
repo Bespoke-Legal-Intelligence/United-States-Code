@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [211\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000211%20-%20Creation%20of%20Indian%20reservations.md) | Creation of Indian reservations. |
-| 212 to 228. Repealed. |  |
+| 212 to 228. Repealed. |  |
 | [229\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000229%20-%20Injuries%20to%20property%20by%20Indians.md) | Injuries to property by Indians. |
 | [230\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000230%20-%20Depositions%20by%20agents%20touching%20depredations.md) | Depositions by agents touching depredations. |
 | [231\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000231%20-%20Enforcement%20of%20State%20laws%20affecting%20health%20and%20education%3B%20entry%20of%20State%20employees%20on%20Indian%20lands.md) | Enforcement of State laws affecting health and education; entry of State employees on Indian lands. |
@@ -18,7 +18,7 @@
 
 |  |  |
 | :--- | ---: |
-| 241 to 250. Repealed. |  |
+| 241 to 250. Repealed. |  |
 | [251\.](Subchapter%20002%20%28II%29%20-%20Traffic%20in%20Intoxicating%20Liquors/%C2%A7%2000251%20-%20Setting%20up%20distillery.md) | Setting up distillery. |
 | [252\.](Subchapter%20002%20%28II%29%20-%20Traffic%20in%20Intoxicating%20Liquors/%C2%A7%2000252%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862.md) | Repealed. |
 | [253\.](Subchapter%20002%20%28II%29%20-%20Traffic%20in%20Intoxicating%20Liquors/%C2%A7%2000253%20-%20Wines%20for%20sacramental%20purposes.md) | Wines for sacramental purposes. |

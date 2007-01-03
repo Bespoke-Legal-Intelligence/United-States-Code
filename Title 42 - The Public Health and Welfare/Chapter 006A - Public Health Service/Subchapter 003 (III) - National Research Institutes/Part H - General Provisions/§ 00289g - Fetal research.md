@@ -18,7 +18,7 @@ In administering the regulations for the protection of human research subjects w
 
 &emsp;(3) are published in section 46.208 of part 46 of title 45 of the Code of Federal Regulations;
 
-> or any successor to such regulations, the Secretary shall require that the risk standard (published in section 46.102(g) of such part 46 or any successor to such regulations) be the same forfetuses which are intended to be aborted and fetuses which are intended to be carried to term.
+> or any successor to such regulations, the Secretary shall require that the risk standard (published in section 46.102(g) of such part 46 or any successor to such regulations) be the same for fetuses which are intended to be aborted and fetuses which are intended to be carried to term.
 
 (July 1, 1944, ch. 373, title IV, §498, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 877; amended Pub. L. 100–607, title I, §§156, 157(b), Nov. 4, 1988, 102 Stat. 3059; Pub. L. 103–43, title I, §121(b)(1), June 10, 1993, 107 Stat. 133.)
 

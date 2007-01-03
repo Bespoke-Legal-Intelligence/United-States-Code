@@ -4,11 +4,7 @@
 
 (1) Except as provided in sections 1490, 1498, 1552, and 1553 of this title, one of the parties qualifying as “importer of record” under paragraph (2)(B), either in person or by an agent authorized by the party in writing, shall, using reasonable care—
 
-&emsp;(A) make entry therefor by filing with the Customs Service—
-
-&emsp;&emsp;(i) such documentation or, pursuant to an electronic data interchange system, such information as is necessary to enable the Customs Service to determine whether the merchandise may be released from customs custody, and
-
-&emsp;&emsp;(ii) notification whether an import activity summary statement will be filed; and
+&emsp;(A) make entry therefor by filing with the Bureau of Customs and Border Protection such documentation or, pursuant to an authorized electronic data interchange system, such information as is necessary to enable the Bureau of Customs and Border Protection to determine whether the merchandise may be released from custody of the Bureau of Customs and Border Protection; <sup>1</sup>
 
 &emsp;(B) complete the entry, or substitute 1 or more reconfigured entries on an import activity summary statement, by filing with the Customs Service the declared value, classification and rate of duty applicable to the merchandise, and such other documentation or, pursuant to an electronic data interchange system, such other information as is necessary to enable the Customs Service to—
 
@@ -18,7 +14,7 @@
 
 &emsp;&emsp;(iii) determine whether any other applicable requirement of law (other than a requirement relating to release from customs custody) is met.
 
-(2)(A) The documentation or information required under paragraph (1) with respect to any imported merchandise shall be filed or transmitted in such manner and within such time periods as the Secretary shall by regulation prescribe. Such regulations shall provide for the filing of import activity summary statements, and permit the filing of reconfigured entries, covering entries or warehouse withdrawals made during a calendar month, within such time period as is prescribed in regulations but not to exceed the 20th day following such calendar month. Entries filed under paragraph (1)(A) shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.
+(2)(A) The documentation or information required under paragraph (1) with respect to any imported merchandise shall be filed or transmitted in such manner and within such time periods as the Secretary shall by regulation prescribe. Such regulations shall provide for the filing of import activity summary statements, and permit the filing of reconfigured entries, covering merchandise released under a special delivery permit pursuant to section 1448(b) of this title and entries or warehouse withdrawals made during a calendar month, within such time period as is prescribed in regulations but not to exceed the 20th day following such calendar month. Entries filed under paragraph (1)(A) shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.
 
 (B) When an entry of merchandise is made under this section, the required documentation or information shall be filed or electronically transmitted either by the owner or purchaser of the merchandise or, when appropriately designated by the owner, purchaser, or consignee of the merchandise, a person holding a valid license under section 1641 of this title. When a consignee declares on entry that he is the owner or purchaser of merchandise the Customs Service may, without liability, accept the declaration. For the purposes of this chapter, the importer of record must be one of the parties who is eligible to file the documentation or information required by this section.
 
@@ -28,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but notlater than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
+&emsp;A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
 
 #### (2) Regulations regarding AD/CV duties
 
@@ -54,7 +50,7 @@ The Secretary, the Secretary of Commerce, and the United States International Tr
 
 #### (g) Statement of cost of production
 
-Under such regulations as the Secretary may prescribe, the Customs Service may require a verified statement from the manufacturer or producer showing the cost of producing the imported merchandise, if the Customs Service considers such verification necessary for the appraisement of such merchandise.
+Under such regulations as the Secretary may prescribe, the Customs Service may require a verified statement from the manufacturer orproducer showing the cost of producing the imported merchandise, if the Customs Service considers such verification necessary for the appraisement of such merchandise.
 
 #### (h) Admissibility of data electronically transmitted
 
@@ -80,7 +76,7 @@ Any entry or other information transmitted by means of an authorized electronic 
 
 #### (3) Exception
 
-&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which isprohibited by law or merchandise for which the filing of an entry summary is required before the merchandise is released from customs custody.
+&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which is prohibited by law or merchandise for which the filing of an entry summary is required before the merchandise is released from customs custody.
 
 #### (4) Foreign trade zone; zone
 
@@ -96,7 +92,7 @@ In the case of merchandise that is purchased and invoiced as a single entity but
 
 > the Customs Service may, upon application by an importer in advance, treat such separate shipments for entry purposes as a single transaction.
 
-(June 17, 1930, ch. 497, title IV, §484, 46 Stat. 722; June 25, 1938, ch. 679, §12, 52 Stat. 1083; Aug. 8, 1953, ch. 397, §§3(b), 16(b), (c), 67 Stat. 509, 517; Pub. L. 91–271, title III, §301(i), June 2, 1970, 84 Stat. 288; Pub. L. 93–618, title VI, §608(a), Jan. 3, 1975, 88 Stat. 2073; Pub. L. 95–106, §4, Aug. 17, 1977, 91 Stat. 869; Pub. L. 95–410, title I, §102(a), Oct. 3, 1978, 92 Stat. 888; Pub. L. 97–446, title II, §201(d), Jan. 12, 1983, 96 Stat. 2349; Pub. L. 103–182, title VI, §637(a), Dec. 8, 1993, 107 Stat. 2200; Pub. L. 104–153, §12, July 2, 1996, 110 Stat. 1389; Pub. L. 104–295, §§18(b), 21(e)(6), Oct. 11, 1996, 110 Stat. 3524, 3531; Pub. L. 106–200, title IV, §410(a), May 18, 2000, 114 Stat. 297; Pub. L. 106–476, title I, §1460(a), Nov. 9, 2000, 114 Stat. 2171; Pub. L. 108–429, title II, §2101, Dec. 3, 2004, 118 Stat. 2597.)
+(June 17, 1930, ch. 497, title IV, §484, 46 Stat. 722; June 25, 1938, ch. 679, §12, 52 Stat. 1083; Aug. 8, 1953, ch. 397, §§3(b), 16(b), (c), 67 Stat. 509, 517; Pub. L. 91–271, title III, §301(i), June 2, 1970, 84 Stat. 288; Pub. L. 93–618, title VI, §608(a), Jan. 3, 1975, 88 Stat. 2073; Pub. L. 95–106, §4, Aug. 17, 1977, 91 Stat. 869; Pub. L. 95–410, title I, §102(a), Oct. 3, 1978, 92 Stat. 888; Pub. L. 97–446, title II, §201(d), Jan. 12, 1983, 96 Stat. 2349; Pub. L. 103–182, title VI, §637(a), Dec. 8, 1993, 107 Stat. 2200; Pub. L. 104–153, §12, July 2, 1996, 110 Stat. 1389; Pub. L. 104–295, §§18(b), 21(e)(6), Oct. 11, 1996, 110 Stat. 3524, 3531; Pub. L. 106–200, title IV, §410(a), May 18, 2000, 114 Stat. 297; Pub. L. 106–476, title I, §1460(a), Nov. 9, 2000, 114 Stat. 2171; Pub. L. 108–429, title II, §2101, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–280, title XIV, §1635(a), Aug. 17, 2006, 120 Stat. 1170.)
 
 #### References in Text
 
@@ -121,6 +117,14 @@ A provision relating to statistical enumeration of merchandise, except that the 
 Prior provisions on the subject of subsequent entry of part of merchandise and separate entry of packages contained in packages for delivery to others were contained in act May 1, 1876, ch. 89, §1, 19 Stat. 49, which was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989; and in act Oct. 3, 1913, ch. 16, §III, F, 38 Stat. 182, amending Customs Administrative Act of June 10, 1890, ch. 407, §5, 26 Stat. 132, as previously amended by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95. Said section III, F, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(A). Pub. L. 109–280, §1635(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “make entry therefor by filing with the Customs Service—
+
+&emsp;“(i) such documentation or, pursuant to an electronic data interchange system, such information as is necessary to enable the Customs Service to determine whether the merchandise may be released from customs custody, and
+
+&emsp;“(ii) notification whether an import activity summary statement will be filed; and”.
+
+Subsec. (a)(2)(A). Pub. L. 109–280, §1635(a)(2), inserted “merchandise released under a special delivery permit pursuant to section 1448(b) of this title and” after “covering” in second sentence.
 
 2004—Subsec. (a)(1)(B). Pub. L. 108–429, §2101(a)(1), inserted “, or substitute 1 or more reconfigured entries on an import activity summary statement,” after “entry” in introductory provisions.
 
@@ -177,6 +181,10 @@ Subsec. (b). Act Aug. 8, 1953, §16(c), granted the Secretary of the Treasury di
 Subsec. (f). Act Aug. 8, 1953, §3(b), inserted provision relating to acceptance at port of entry designated by consignee or his agent in cases of articles not subject to a quantitative or tariff-rate quota.
 
 1938—Subsec. (f). Act June 25, 1938, inserted provision relating to authorization by the Secretary for inclusion of portions of merchandise in separate entries under such rules and regulations as he may prescribe.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -243,4 +251,6 @@ Section 608(c) of Pub. L. 93–618 authorized an investigation by the United Sta
 #### Cooperation of Governmental Agencies With Secretary of Commerce and United States International Trade Commission in Studies and Investigations
 
 Section 608(d) of Pub. L. 93–618 provided that: “The President is requested to direct the appropriate agencies to cooperate fully with the Secretary of Commerce and the United States International Trade Commission in carrying out their responsibilities under subsections (a) \[amending this section\], (b), and (c) \[see notes set out above\].”
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should appear at end.</i>
 

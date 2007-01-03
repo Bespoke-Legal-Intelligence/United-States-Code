@@ -40,7 +40,7 @@ For the purposes of this section, Job Corps members shall be considered as the u
 
 #### (e) Regulations
 
-The Secretary shall issue regulations necessary to implement this section not later than one year after August 7, 1998. Such regulations shall adopt standards for determining discrimination and procedures for enforcement that are consistent with the Acts referred to in a <sup>1</sup> subsection (a)(1) of this section, as well as procedures to ensure that complaints filed under this section and such Acts are processed in a manner that avoids duplication of effort.
+The Secretary shall issue regulations necessary to implement this section not later than one year after August 7, 1998. Such regulations shall adopt standards for determining discrimination and procedures for enforcement that are consistent with the Acts referred to in a <sup>1</sup> subsection (a)(1) of this section, as well as procedures to ensure that complaints filed under thissection and such Acts are processed in a manner that avoids duplication of effort.
 
 (Pub. L. 105–220, title I, §188, Aug. 7, 1998, 112 Stat. 1049.)
 

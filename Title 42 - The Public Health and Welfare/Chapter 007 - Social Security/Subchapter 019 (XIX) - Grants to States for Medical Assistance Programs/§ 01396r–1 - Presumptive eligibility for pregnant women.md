@@ -86,7 +86,7 @@ The Indian Self-Determination Act (Public Law 93–638), referred to in subsec. 
 
 #### Prior Provisions
 
-A prior section 1920 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
+A prior section 1920 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
 
@@ -118,7 +118,7 @@ Subsec. (d)(1)(B). Pub. L. 100–360, §411(k)(16)(A), substituted “by a provi
 
 Section 4605(c) of Pub. L. 101–508 provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+“(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendarquarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\].”
 

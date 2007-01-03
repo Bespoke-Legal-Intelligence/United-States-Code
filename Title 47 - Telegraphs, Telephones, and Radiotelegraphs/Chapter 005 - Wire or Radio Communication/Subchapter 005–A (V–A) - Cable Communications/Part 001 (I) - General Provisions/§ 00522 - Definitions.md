@@ -50,7 +50,7 @@ For purposes of this subchapter—
 
 &emsp;(20) the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 
-(June 19, 1934, ch. 652, title VI, §602, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2780;amended Pub. L. 102–385, §2(c), Oct. 5, 1992, 106 Stat. 1463; Pub. L. 104–104, title III, §§301(a), 302(b)(2), Feb. 8, 1996, 110 Stat. 114, 124.)
+(June 19, 1934, ch. 652, title VI, §602, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2780; amended Pub. L. 102–385, §2(c), Oct. 5, 1992, 106 Stat. 1463; Pub. L. 104–104, title III, §§301(a), 302(b)(2), Feb. 8, 1996, 110 Stat. 114, 124.)
 
 #### Amendments
 

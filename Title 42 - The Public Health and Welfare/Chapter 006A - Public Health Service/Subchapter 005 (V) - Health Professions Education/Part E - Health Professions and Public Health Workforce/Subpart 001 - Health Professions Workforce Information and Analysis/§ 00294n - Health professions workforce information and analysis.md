@@ -28,7 +28,7 @@ The Secretary may award grants or contracts to State or local governments, healt
 
 #### (2) Reservation
 
-&emsp;Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretary shall reserve not less than $600,000 for conducting health professions research and for carrying out data collection and analysis in accordance with section 295k of this title.
+&emsp;Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretary shall reserve not less than $600,000for conducting health professions research and for carrying out data collection and analysis in accordance with section 295k of this title.
 
 #### (3) Availability of additional funds
 

@@ -14,6 +14,30 @@ The purpose of this subchapter is to ensure that the Secretary, States, and othe
 
 (Added Pub. L. 105–178, title IV, §4002(a), June 9, 1998, 112 Stat. 395.)
 
+#### Trucking Security
+
+Pub. L. 109–347, title VII, §703, Oct. 13, 2006, 120 Stat. 1944, provided that:
+
+“(a)
+
+Legal Status Verification for Licensed United States Commercial Drivers.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of Transportation, in cooperation with the Secretary \[of Homeland Security\], shall issue regulations to implement the recommendations contained in the memorandum of the Inspector General of the Department of Transportation issued on June 4, 2004 (Control No. 2004–054).
+
+“(b)
+
+Commercial Driver's License Antifraud Programs.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of Transportation, in cooperation with the Secretary \[of Homeland Security\], shall issue a regulation to implement the recommendations contained in the Report on Federal Motor Carrier Safety Administration Oversight of the Commercial Driver's License Program (MH–2006–037).
+
+“(c)
+
+Verification of Commercial Motor Vehicle Traffic.—
+
+&emsp;“(1)
+
+Guidelines.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary \[of Homeland Security\], in consultation with the Secretary of Transportation, shall draft guidelines for Federal, State, and local law enforcement officials, including motor carrier safety enforcement personnel, on how to identify noncompliance with Federal laws uniquely applicable to commercial motor vehicles and commercial motor vehicle operators engaged in cross-border traffic and communicate such noncompliance to the appropriate Federal authorities. Such guidelines shall be coordinated with the training and outreach activities of the Federal Motor Carrier Safety Administration under section 4139 of SAFETEA-LU (Public Law 109–59) \[set out below\].
+
+&emsp;“(2)
+
+Verification.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Administrator of the Federal Motor Carrier Safety Administration shall modify the final rule regarding the enforcement of operating authority (DocketNo. FMCSA–2002–13015) to establish a system or process by which a carrier's operating authority can be verified during a roadside inspection.”
+
 #### Outreach and Education
 
 Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, provided that:
@@ -162,7 +186,7 @@ Resource needs.—In addition, the strategy and annual plans shall include estim
 
 &emsp;“(3)
 
-Savings clause.—In developing and assessing progress toward meeting the measurable goals setforth in this subsection, the Secretary and the Federal Motor Carrier Safety Administrator shall not take any action that would impinge on the due process rights of motor carriers and drivers.
+Savings clause.—In developing and assessing progress toward meeting the measurable goals set forth in this subsection, the Secretary and the Federal Motor Carrier Safety Administrator shall not take any action that would impinge on the due process rights of motor carriers and drivers.
 
 “(c)
 
@@ -242,7 +266,7 @@ Pub. L. 106–159, title II, §224, Dec. 9, 1999, 113 Stat. 1770, provided that:
 
 “(a)
 
-Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercial motor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States’ ability to—
+Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercialmotor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States’ ability to—
 
 &emsp;“(1) evaluate future crashes involving commercial motor vehicles;
 

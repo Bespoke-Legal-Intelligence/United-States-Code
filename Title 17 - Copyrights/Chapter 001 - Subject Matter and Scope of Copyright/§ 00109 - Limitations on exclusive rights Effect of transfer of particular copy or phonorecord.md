@@ -8,7 +8,7 @@
 
 > whichever occurs first.
 
-(b)(1)(A) Notwithstanding the provisions of subsection (a), unless authorized by the ownersof copyright in the sound recording or the owner of copyright in a computer program (including any tape, disk, or other medium embodying such program), and in the case of a sound recording in the musical works embodied therein, neither the owner of a particular phonorecord nor any person in possession of a particular copy of a computer program (including any tape, disk, or other medium embodying such program), may, for the purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord or computer program (including any tape, disk, or other medium embodying such program) by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution. The transfer of possession of a lawfully made copy of a computer program by a nonprofit educational institution to another nonprofit educational institution or to faculty, staff, and students does not constitute rental, lease, or lending for direct or indirect commercial purposes under this subsection.
+(b)(1)(A) Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording or the owner of copyright in a computer program (including any tape, disk, or other medium embodying such program), and in the case of a sound recording in the musical works embodied therein, neither the owner of a particular phonorecord nor any person in possession of a particular copy of a computer program (including any tape, disk, or other medium embodying such program), may, for the purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord or computer program (including any tape, disk, or other medium embodying such program) by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution. The transfer of possession of a lawfully made copy of a computer program by a nonprofit educational institution to another nonprofit educational institution or to faculty, staff, and students does not constitute rental, lease, or lending for direct or indirect commercial purposes under this subsection.
 
 (B) This subsection does not apply to—
 
@@ -30,7 +30,7 @@
 
 (d) The privileges prescribed by subsections (a) and (c) do not, unless authorized by the copyright owner, extend to any person who has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, without acquiring ownership of it.
 
-(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
+(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronicaudiovisual game is not also the copyright owner of the work of authorship.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, §12(a)(5), Nov. 13, 1997, 111 Stat. 1534.)
 
@@ -62,7 +62,7 @@ The committee's intention is to preserve the traditional privilege of the owner 
 
 #### References in Text
 
-The date of the enactment of the Computer Software Rental Amendments Act of 1990, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
+The date of the enactment of the Computer Software Rental Amendments Act of 1990, referred to in subsec.\(b)(2)(B), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
 
 The first section of the Clayton Act, referred to in subsec. (b)(3), is classified to section 12 of Title 15, Commerce and Trade.
 
@@ -80,7 +80,7 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is
 
 > whichever occurs first.”
 
-1990—Subsec. (b)(1). Pub. L. 101–650, §802(2), added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord fornonprofit purposes by a nonprofit library or nonprofit educational institution.”
+1990—Subsec. (b)(1). Pub. L. 101–650, §802(2), added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution.”
 
 Subsec. (b)(2), (3). Pub. L. 101–650, §802(1), (2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

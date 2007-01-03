@@ -10,11 +10,13 @@ If a Governor referred to in subsection (a) of this section is the Governor of t
 
 #### (c) Termination of authority
 
-The authorities established under this subchapter shall terminate on September 30, 2005.
+The authorities established under this subchapter shall terminate on September 30, 2010.
 
-(Pub. L. 102–250, title I, §104, Mar. 5, 1992, 106 Stat. 56; Pub. L. 106–566, title II, §201(a), Dec. 23, 2000, 114 Stat. 2820.)
+(Pub. L. 102–250, title I, §104, Mar. 5, 1992, 106 Stat. 56; Pub. L. 106–566, title II, §201(a), Dec. 23, 2000, 114 Stat. 2820; Pub. L. 109–234, title II, §2306(a), June 15, 2006, 120 Stat. 456.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–234 substituted “September 30, 2010” for “September 30, 2005”.
 
 2000—Subsec. (a). Pub. L. 106–566, §201(a)(1), inserted “and in the State of Hawaii” after “Reclamation State”.
 

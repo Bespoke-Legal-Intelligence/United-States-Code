@@ -88,7 +88,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
 
-(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual whois the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
+(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 
@@ -138,13 +138,13 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29
 
 &emsp;“(4) the provisions of section 2302(b)(8) of title 5 (relating to whistleblower protection);
 
-&emsp;“(5) rule 6(e) of the Federal Rules of Criminal Procedure \[18 App. U.S.C.\] (relating to the protection of grand jury information); or
+&emsp;“(5) rule 6(e) of the Federal Rules of Criminal Procedure \[18 U.S.C. App.\] (relating to the protection of grand jury information); or
 
 &emsp;“(6) any statute or executive order pertaining to the protection of classified information.”
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 129 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66,as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 129 of House Document No. 103–7.
 
 #### No Grievance or Right of Action
 

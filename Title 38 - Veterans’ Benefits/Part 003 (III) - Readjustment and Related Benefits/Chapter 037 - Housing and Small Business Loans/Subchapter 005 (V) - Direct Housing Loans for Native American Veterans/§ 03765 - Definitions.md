@@ -1,0 +1,48 @@
+### §3765. Definitions
+
+For the purposes of this subchapter—
+
+&emsp;(1) The term “trust land” means any land that—
+
+&emsp;&emsp;(A) is held in trust by the United States for Native Americans;
+
+&emsp;&emsp;(B) is subject to restrictions on alienation imposed by the United States on Indian lands (including native Hawaiian homelands);
+
+&emsp;&emsp;(C) is owned by a Regional Corporation or a Village Corporation, as such terms are defined in section 3(g) and 3(j) of the Alaska Native Claims Settlement Act, respectively (43 U.S.C. 1602(g), (j)); or
+
+&emsp;&emsp;(D) is on any island in the Pacific Ocean if such land is, by cultural tradition, communally-owned land, as determined by the Secretary.
+
+&emsp;(2) The term “Native American veteran” means any veteran who is a Native American.
+
+&emsp;(3) The term “Native American” means—
+
+&emsp;&emsp;(A) an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d));
+
+&emsp;&emsp;(B) a native Hawaiian, as that term is defined in section 201(a)(7) of the Hawaiian Homes Commission Act, 1920 (Public Law 67–34; 42 Stat. 108);
+
+&emsp;&emsp;(C) an Alaska Native, within the meaning provided for the term “Native” in section 3(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(b)); and
+
+&emsp;&emsp;(D) a Pacific Islander, within the meaning of the Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.).
+
+&emsp;(4) The term “tribal organization” shall have the meaning given such term in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(<i>l</i>)) and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
+
+&emsp;(5) The term “qualified non-Native American veteran” means a veteran who—
+
+&emsp;&emsp;(A) is the spouse of a Native American, but
+
+&emsp;&emsp;(B) is not a Native American.
+
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3639, §3764; renumbered §3765 and amended Pub. L. 109–233, title I, §104(a)(1), (b), June 15, 2006, 120 Stat. 401, 402.)
+
+#### References in Text
+
+Section 201(a)(7) of the Hawaiian Homes Commission Act, 1920, referred to in par. (3)(B), was classified to section 692 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+
+The Native American Programs Act of 1974, referred to in par. (3)(D), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
+
+#### Amendments
+
+2006—Pub. L. 109–233, §104(a)(1), renumbered section 3764 of this title as this section.
+
+Par. (5). Pub. L. 109–233, §104(b), added par. (5).
+

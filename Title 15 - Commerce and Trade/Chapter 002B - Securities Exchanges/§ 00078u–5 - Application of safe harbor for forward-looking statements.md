@@ -56,7 +56,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, in any private action arising underthis chapter that is based on an untrue statement of a material fact or omission of a material fact necessary to make the statement not misleading, a person referred to in subsection (a) of this section shall not be liable with respect to any forward-looking statement, whether written or oral, if and to the extent that—
+&emsp;Except as provided in subsection (b) of this section, in any private action arising under this chapter that is based on an untrue statement of a material fact or omission of a material fact necessary to make the statement not misleading, a person referred to in subsection (a) of this section shall not be liable with respect to any forward-looking statement, whether written or oral, if and to the extent that—
 
 &emsp;&emsp;(A) the forward-looking statement is—
 
@@ -136,7 +136,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) a statement of the plans and objectives of management for future operations, including plans or objectives relating to the products or services of the issuer;
 
-&emsp;&emsp;(C) a statement of future economic performance, including any such statementcontained in a discussion and analysis of financial condition by the management or in the results of operations included pursuant to the rules and regulations of the Commission;
+&emsp;&emsp;(C) a statement of future economic performance, including any such statement contained in a discussion and analysis of financial condition by the management or in the results of operations included pursuant to the rules and regulations of the Commission;
 
 &emsp;&emsp;(D) any statement of the assumptions underlying or relating to any statement described in subparagraph (A), (B), or (C);
 

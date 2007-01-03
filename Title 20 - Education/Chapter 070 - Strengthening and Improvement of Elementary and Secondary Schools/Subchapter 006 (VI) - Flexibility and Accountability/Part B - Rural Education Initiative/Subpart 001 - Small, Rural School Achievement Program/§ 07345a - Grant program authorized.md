@@ -32,7 +32,7 @@ The Secretary is authorized to award grants to eligible local educational agenci
 
 #### (B) Additional amounts
 
-&emsp;&emsp;If additional funds become available for making payments under paragraph (1) for such fiscal year, payments that were reduced under subparagraph (A) shall be increased on the same basis as such payments were reduced.
+&emsp;&emsp;If additional funds become available for making payments under paragraph (1) forsuch fiscal year, payments that were reduced under subparagraph (A) shall be increased on the same basis as such payments were reduced.
 
 #### (c) Disbursement
 
@@ -40,7 +40,7 @@ The Secretary shall disburse the funds awarded to a local educational agency und
 
 #### (d) Special eligibility rule
 
-A local educational agency that is eligible to receive a grant under this subpart for a fiscalyear is not eligible to receive funds for such fiscal year under subpart 2 of this part.
+A local educational agency that is eligible to receive a grant under this subpart for a fiscal year is not eligible to receive funds for such fiscal year under subpart 2 of this part.
 
 (Pub. L. 89–10, title VI, §6212, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1892.)
 

@@ -110,7 +110,7 @@ It shall be the policy of the United States to conduct research, development, de
 
 &emsp;&emsp;(B) a report describing the management structure of the ITER and providing a fixed dollar estimate of the cost of United States participation in the construction of the ITER, and 120 days have elapsed since that submission;
 
-&emsp;&emsp;(C) a report describing how United States participation in the ITER will be funded without reducing funding for other programs in the Office of Science (including other fusion programs), and 60 days have elapsed since that submission; and
+&emsp;&emsp;(C) a report describing how United States participation in the ITER will be funded without reducing funding for other programsin the Office of Science (including other fusion programs), and 60 days have elapsed since that submission; and
 
 &emsp;&emsp;(D) the plan required by paragraph (4) (but not the National Academy of Sciences review of that plan), and 60 days have elapsed since that submission.
 

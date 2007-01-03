@@ -6,7 +6,7 @@ Making Slots Available for Essential Air Service.—
 
 &emsp;(1)
 
-Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected toprovide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
+Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
 &emsp;(2)
 
@@ -212,7 +212,7 @@ This amends 49:41714(d)(1) to make a conforming cross-reference necessary becaus
 
 2000—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end “; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots”.
 
-Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted “at Chicago O'Hare International Airport” after “a slot” and struck out before period at end “if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993”.
+Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted “at Chicago O'Hare International Airport” after “a slot” and struck out before period at end “if the withdrawal of that slot would result in the withdrawal of slotsfrom an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993”.
 
 Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “This subsection and exemptions issued under this subsection shall cease to be in effect when the final rules issued under subsection (f) become effective.”
 

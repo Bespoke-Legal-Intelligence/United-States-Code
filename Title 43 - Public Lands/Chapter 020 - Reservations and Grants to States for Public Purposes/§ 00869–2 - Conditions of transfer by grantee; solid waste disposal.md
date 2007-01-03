@@ -6,7 +6,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 #### (b) New disposal sites
 
-(1) Notwithstanding the provisions of subsection (a) of this section, if the Secretary receives an application for conveyance of land under sections 869 to 869–4 of this title for the express purpose of solid waste disposal or for another purpose which the Secretary finds may include the disposal, placement, or release of any hazardous substance, the Secretary may conveysuch land subject only to the provisions of this subsection.
+(1) Notwithstanding the provisions of subsection (a) of this section, if the Secretary receives an application for conveyance of land under sections 869 to 869–4 of this title for the express purpose of solid waste disposal or for another purpose which the Secretary finds may include the disposal, placement, or release of any hazardous substance, the Secretary may convey such land subject only to the provisions of this subsection.
 
 (2) Prior to issuance of any conveyance of land under this subsection the Secretary shall investigate the land covered by an application for such conveyance to determine whether or not any hazardous substance is present on such land. Such investigation shall include a review of any available records as to the use of such land and all appropriate analysis of the soil, water and air associated with such land. No land shall be conveyed under this subsection if such investigation indicates that any hazardous substance is present on such land.
 
@@ -30,7 +30,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 #### (c) Existing disposal sites
 
-(1) Upon the application or with the concurrence of any party to whom the Secretary, prior to November 10, 1988, conveyed land under sections 869 to 869–4 of this title, the Secretary may renounce the reversionary interests of the United States in such land, or portion thereof, if the Secretary finds that such land, or portion thereof, has been used for solid waste disposal or for any other purpose which the Secretary finds may result in the disposal, placement, or release of any hazardous substance, and the Secretary may rescind any portion of any patent or other instrument of conveyance inconsistent with such renunciation. After such renunciation, affected lands shall not under any circumstances revert to the United States by the operation of law, and shall cease to be subject to the provisions of subsection (a) of this section.
+(1) Upon the application or with the concurrence of any party to whom the Secretary, prior to November 10, 1988, conveyed land under sections 869 to 869–4 of this title, the Secretary may renounce the reversionary interests of the United States in such land, or portion thereof, if the Secretary finds that such land, or portion thereof, has been used for solid waste disposal orfor any other purpose which the Secretary finds may result in the disposal, placement, or release of any hazardous substance, and the Secretary may rescind any portion of any patent or other instrument of conveyance inconsistent with such renunciation. After such renunciation, affected lands shall not under any circumstances revert to the United States by the operation of law, and shall cease to be subject to the provisions of subsection (a) of this section.
 
 (2) Upon the application or with the concurrence of a party to whom the Secretary, prior to November 10, 1988, leased lands pursuant to sections 869 to 869–4 of this title, the Secretary may convey in fee the lands covered by such lease or any portion thereof which have been used for solid waste disposal or for any other purpose that the Secretary finds may result in the disposal, placement, or release of any hazardous substance. Notwithstanding any other provision of sections 869 to 869–4 of this title, a patent issued pursuant to this paragraph shall not contain a reverter provision and the lands covered by such patent shall not under any circumstances revert to the United States by operation of law after the issuance of such patent and shall not be subject to the provisions of subsection (a) of this section.
 
@@ -38,7 +38,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec.\(b)(7), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(7), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Prior Provisions
 

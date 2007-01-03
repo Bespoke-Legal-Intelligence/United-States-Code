@@ -26,5 +26,25 @@ The Congress finds that—
 
 Section 8 of Pub. L. 99–552, as added by Pub. L. 100–653, title VI, §604, Nov. 14, 1988, 102 Stat. 3830, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Klamath River Basin Fishery Resources Restoration Act’.”
 
+#### Salmon Plan and Study
+
+Pub. L. 109–479, title I, §113(b), Jan. 12, 2007, 120 Stat. 3602, provided that:
+
+“(1)
+
+Recovery plan.—Not later than 6 months after the date of enactment of this Act \[Jan. 12, 2007\], the Secretary of Commerce shall complete a recovery plan for Klamath River Coho salmon and make it available to the public.
+
+“(2)
+
+Annual report.—Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources on—
+
+&emsp;“(A) the actions taken under the recovery plan and other law relating to recovery of Klamath River Coho salmon, and how those actions are specifically contributing to its recovery;
+
+&emsp;“(B) the progress made on the restoration of salmon spawning habitat, including water conditions as they relate to salmon health and recovery, with emphasis on the Klamath River and its tributaries below Iron Gate Dam;
+
+&emsp;“(C) the status of other Klamath River anadromous fish populations, particularly Chinook salmon; and
+
+&emsp;“(D) the actions taken by the Secretary to address the calendar year 2003 National Research Council recommendations regarding monitoring and research on Klamath River Basin salmon stocks.”
+
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

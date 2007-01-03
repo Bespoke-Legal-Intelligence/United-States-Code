@@ -54,7 +54,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;In carrying out paragraph (1)(A), the Secretary shall support not less than 1 of the following activities:
 
-&emsp;&emsp;(A) Assisting effective existing, improving existing, or developing new, collaborative personnel preparation activities undertaken by institutions of higher education, local educational agencies, and other local entities that incorporate best practices and scientifically based research, where applicable, in providing special education and general education teachers, principals, administrators, and related services personnel with the knowledge and skills to effectively support students with disabilities, including—
+&emsp;&emsp;(A) Assisting effective existing, improving existing, or developing new, collaborative personnel preparation activities undertakenby institutions of higher education, local educational agencies, and other local entities that incorporate best practices and scientifically based research, where applicable, in providing special education and general education teachers, principals, administrators, and related services personnel with the knowledge and skills to effectively support students with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) working collaboratively in regular classroom settings;
 

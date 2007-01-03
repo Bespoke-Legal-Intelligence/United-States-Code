@@ -26,7 +26,7 @@ The report under subsection (a) of this section in a year shall set forth the fo
 
 &emsp;&emsp;(D) a description of the United States private sector participation in the portion of such activities that were supported by the obligation and expenditure of funds for Cooperative Threat Reduction programs; and
 
-&emsp;&emsp;(E) such other information as the Secretary of Defense considers appropriate to inform Congress fully of the operation of Cooperative Threat Reduction programs andactivities, including with respect to proposed demilitarization or conversion projects, information on the progress toward demilitarization of facilities and the conversion of the demilitarized facilities to civilian activities.
+&emsp;&emsp;(E) such other information as the Secretary of Defense considers appropriate to inform Congress fully of the operation of Cooperative Threat Reduction programs and activities, including with respect to proposed demilitarization or conversion projects, information on the progress toward demilitarization of facilities and the conversion of the demilitarized facilities to civilian activities.
 
 &emsp;(4) A description of the means (including program management, audits, examinations, and other means) used by the United States during the fiscal year ending in the year preceding the year of the report to ensure that assistance provided under Cooperative Threat Reduction programs is fully accounted for, that such assistance is being used for its intended purpose, and that such assistance is being used efficiently and effectively, including—
 
@@ -102,7 +102,7 @@ Section 1205 of the National Defense Authorization Act for Fiscal Year 1995, ref
 
 #### Codification
 
-Section is comprised of section 1 \[\[div. A\], title XIII, §1308\] of Pub. L. 106–398. Section 1 \[\[div. A\], title XIII, §1308(g)\] of Pub. L. 106–398 repealed section 5956 of this title, repealed section 1206 of Pub. L. 104–106 which was set out in a note under section 5955 of this title, repealed, effective on the date the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 as described in subsec. (h) of this section, section 1205 of Pub. L. 103–337, 108 Stat. 2883, which is set out in part as a note under section 5952 of this title, amended section 1312 of Pub. L. 106–65 which is set out as a note under section 5955 of this title, and repealed sections 1203 of Pub. L. 103–337, 108 Stat. 2882, and 1307 of Pub. L. 106–65, 113 Stat. 795, which are not classified to the Code.
+Section is comprised of section 1 \[\[div. A\], title XIII, §1308\] of Pub. L. 106–398. Section 1 \[\[div. A\], title XIII,§1308(g)\] of Pub. L. 106–398 repealed section 5956 of this title, repealed section 1206 of Pub. L. 104–106 which was set out in a note under section 5955 of this title, repealed, effective on the date the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 as described in subsec. (h) of this section, section 1205 of Pub. L. 103–337, 108 Stat. 2883, which is set out in part as a note under section 5952 of this title, amended section 1312 of Pub. L. 106–65 which is set out as a note under section 5955 of this title, and repealed sections 1203 of Pub. L. 103–337, 108 Stat. 2882, and 1307 of Pub. L. 106–65, 113 Stat. 795, which are not classified to the Code.
 
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
 
@@ -176,7 +176,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1301(a), (b)\], Oct. 30, 2000
 
 “(a)
 
-Specification of CTR Programs.—For purposes of section 301 \[114 Stat. 1654A–52\] and other provisions of this Act \[H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification\], CooperativeThreat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
+Specification of CTR Programs.—For purposes of section 301 \[114 Stat. 1654A–52\] and other provisions of this Act \[H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
 
 “(b)
 

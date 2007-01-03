@@ -28,7 +28,7 @@ Pecuniary Liability.—(1) The Secretary of Defense may subject a departmental a
 
 Certifying Official Defined.—In this section, the term “certifying official” means an employee who has the responsibilities specified in section 3528(a) of title 31.
 
-(Added Pub. L. 107–314, div. A, title X, §1005(a), Dec. 2, 2002, 116 Stat. 2631; amended Pub. L.109–163, div. A, title X, §1056(c)(8), Jan. 6, 2006, 119 Stat. 3440.)
+(Added Pub. L. 107–314, div. A, title X, §1005(a), Dec. 2, 2002, 116 Stat. 2631; amended Pub. L. 109–163, div. A, title X, §1056(c)(8), Jan. 6, 2006, 119 Stat. 3440.)
 
 #### Amendments
 

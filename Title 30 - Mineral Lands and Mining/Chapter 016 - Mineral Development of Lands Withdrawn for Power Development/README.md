@@ -3,9 +3,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [621\.](%C2%A7%2000621%20-%20Entry%20to%20lands%20reserved%20for%20power%20development.md) | Entry to lands reserved for power development. |
-| (a) | Conditions of entry. |
-| (b) | Placer claims; notice; hearing; order; rules and regulations. |
-| (c) | Validity of withdrawals unaffected. |
 | [622\.](%C2%A7%2000622%20-%20Liability%20for%20damage%2C%20destruction%2C%20or%20loss%20of%20claim.md) | Liability for damage, destruction, or loss of claim. |
 | [623\.](%C2%A7%2000623%20-%20Recording%20and%20reporting%20of%20unpatented%20claims%3B%20time.md) | Recording and reporting of unpatented claims; time. |
 | [624\.](%C2%A7%2000624%20-%20Protection%20of%20existing%20valid%20claims.md) | Protection of existing valid claims. |

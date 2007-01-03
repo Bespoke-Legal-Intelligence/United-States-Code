@@ -142,7 +142,7 @@ The Secretary shall—
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “excess number” means, used with respect to the excess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
+&emsp;&emsp;&emsp;In this subparagraph, the term “excess number” means, used with respect to theexcess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
 
 #### (3) Definitions
 
@@ -172,7 +172,7 @@ The Secretary shall—
 
 #### (4) Eligibility
 
-&emsp;For purposes of this subsection, an eligible State means a State that has obligated atleast 80 percent of the State allotment under this section for such activities for the program year prior to the program year for which the determination under paragraph (2) is made.
+&emsp;For purposes of this subsection, an eligible State means a State that has obligated at least 80 percent of the State allotment under this section for such activities for the program year prior to the program year for which the determination under paragraph (2) is made.
 
 #### (5) Procedures
 

@@ -84,7 +84,7 @@ Application of other law.—The forfeiture of property under this section, inclu
 
 (e)
 
-Construction With Other Law.—This section does not preempt or displace any other remedy, civil or criminal, provided by Federal or State law for the fraudulent importation, sale, trade, installation, or introduction into commerce of an aircraft or space vehicle part.
+Construction With Other Law.—This section does not preempt or displace any other remedy, civil or criminal, provided by Federal or State law for the fraudulent importation, sale,trade, installation, or introduction into commerce of an aircraft or space vehicle part.
 
 (f)
 

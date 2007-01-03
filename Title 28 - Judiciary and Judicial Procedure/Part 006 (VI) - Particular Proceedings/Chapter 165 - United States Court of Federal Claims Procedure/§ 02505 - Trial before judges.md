@@ -6,7 +6,7 @@ Any judge of the United States Court of Federal Claims may sit at any place with
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§275 and 275a (Mar. 3, 1911, ch. 231, §167, 36 Stat. 1140; Feb. 24, 1925, ch. 301,§2, 43 Stat. 965; June 23, 1930, ch. 573, §1, 46 Stat. 799; Oct. 16, 1941, ch. 443, 55 Stat. 741).
+Based on title 28, U.S.C., 1940 ed., §§275 and 275a (Mar. 3, 1911, ch. 231, §167, 36 Stat. 1140; Feb. 24, 1925, ch. 301, §2, 43 Stat. 965; June 23, 1930, ch. 573, §1, 46 Stat. 799; Oct. 16, 1941, ch. 443, 55 Stat. 741).
 
 Changes were made in phraseology.
 

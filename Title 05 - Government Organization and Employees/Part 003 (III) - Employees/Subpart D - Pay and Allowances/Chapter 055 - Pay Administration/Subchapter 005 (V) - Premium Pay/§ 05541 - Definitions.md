@@ -134,7 +134,7 @@ In paragraph (2)(xii), the reference to former section 946 is omitted as unneces
 
 In paragraph (2)(xiii), the words “as defined by section 901 of title 20” are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
 
-The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3)is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
+The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -218,7 +218,7 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §115\], Nov. 29, 1999, 113 S
 
 “(a) None of the funds made available by this or any other Act may be used to pay premium pay under title 5, United States Code, sections 5542–5549, to any individual employed as an attorney, including an Assistant United States Attorney, in the Department of Justice for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\].
 
-“(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay undertitle 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney.”
+“(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay under title 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney.”
 
 \[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: “Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter.”\]
 

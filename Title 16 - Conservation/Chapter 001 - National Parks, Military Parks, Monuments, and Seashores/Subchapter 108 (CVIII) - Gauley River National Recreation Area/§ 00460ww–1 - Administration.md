@@ -36,7 +36,7 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 &emsp;(B) If necessary, in the discretion of the Secretary, in order to minimize environmental impacts, including visual impacts, within portions of the recreation area immediately adjacent to the river, the Secretary may, by contract or otherwise, provide transportation services for noncommercial visitors, at reasonable cost, between such parking facilities and the river.
 
-&emsp;(C) Nothing in subparagraph (A) shall affect the rights of any person to continue to utilize,pursuant to a lease in effect on April 1, 1993, any right of way acquired pursuant to such lease which authorizes such person to use an existing road referred to in subparagraph (A). Except as provided under paragraph (2) relating to access immediately downstream of the Summersville project, until there is compliance with this paragraph the Secretary is prohibited from acquiring or developing any other river access points within the recreation area.
+&emsp;(C) Nothing in subparagraph (A) shall affect the rights of any person to continue to utilize, pursuant to a lease in effect on April 1, 1993, any right of way acquired pursuant to such lease which authorizes such person to use an existing road referred to in subparagraph (A). Except as provided under paragraph (2) relating to access immediately downstream of the Summersville project, until there is compliance with this paragraph the Secretary is prohibited from acquiring or developing any other river access points within the recreation area.
 
 #### (f) Properties and facilities of Federal agencies
 

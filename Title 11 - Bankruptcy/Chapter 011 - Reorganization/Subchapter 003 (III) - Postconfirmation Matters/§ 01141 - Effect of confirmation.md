@@ -66,7 +66,7 @@ Section 1141(d) of the House amendment is derived from a comparable provision co
 
 #### senate report no. 95–989
 
-Subsection (a) of this section makes the provisions of a confirmed plan binding on the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan, and any creditor, equity security holder, or general partner in the debtor, whether or not the claim or interest of the creditor, equity security holder, or partner is impaired under the plan and whether or not he has accepted the plan. There are two exceptions, enumerated in paragraph (2) and (3) of subsection (d).
+Subsection (a) of this section makes the provisions of a confirmed plan binding on the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan, and any creditor, equity security holder, or general partner in the debtor, whetheror not the claim or interest of the creditor, equity security holder, or partner is impaired under the plan and whether or not he has accepted the plan. There are two exceptions, enumerated in paragraph (2) and (3) of subsection (d).
 
 Unless the plan or the order confirming the plan provides otherwise, the confirmation of a plan vests all of the property of the estate in the debtor and releases it from all claims and interests of creditors, equity security holders and general partners.
 

@@ -114,7 +114,7 @@ Executive branch agencies may conduct programs and activities and provide servic
 
 #### (m) Independent private audits
 
-The accounts of each Enterprise Fund shall be audited annually in accordance with generallyaccepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by this section.
+The accounts of each Enterprise Fund shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by this section.
 
 #### (n) GAO audits
 
@@ -136,7 +136,7 @@ The Enterprise Funds shall ensure—
 
 #### (p) Annual reports
 
-Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund's operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
+Each Enterprise Fund shall publish an annual report, which shall include a comprehensive anddetailed description of the Enterprise Fund's operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
 
 (Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, \[(v)\], Feb. 12, 1996, 110 Stat. 714; Pub. L. 105–118, title V, §588, Nov. 26, 1997, 111 Stat. 2438; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

@@ -36,11 +36,11 @@ Notwithstanding any other provision of law, any structure existing on December 3
 
 #### (e) Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress
 
-Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Director, on the construction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Director, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Director shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has beenappropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.
+Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Director, on the construction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Director, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Director shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
-Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Director of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Director for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
+Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed thosewhich would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Director for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
 
 &emsp;(1) the flood protection system has been deemed restorable by a Federal agency in consultation with the local project sponsor;
 
@@ -48,11 +48,15 @@ Notwithstanding any other provision of law, this subsection shall only apply in 
 
 &emsp;(3) restoration of the flood protection system is scheduled to occur within a designated time period and in accordance with a progress plan negotiated between the community and the Federal Emergency Management Agency.
 
-> Communities that the Director of the Federal Emergency Management Agency determines to meet the criteria set forth in paragraphs (1) and (2) as of January 1, 1992, shall not be subject to revised Flood Insurance Rate Maps that contravene the intent of this subsection. Such communities shall remain eligible for C zone rates for properties located in zone AR for any policy written prior to promulgation of final regulations for this section. Floodplain management criteria for such communities shall not require the elevation of improvements to existing structures and shall not exceed 3 feet above existing grade for new construction, provided the base flood elevation based on the disaccredited flood control system does not exceed five feet above existing grade, or the remaining new construction in such communities is limited to infill sites, rehabilitation of existing structures, or redevelopment of previously developed areas.
+> Communities that the Administrator of the Federal Emergency Management Agency determines to meet the criteria set forth in paragraphs (1) and (2) as of January 1, 1992, shall not be subject to revised Flood Insurance Rate Maps that contravene the intent of this subsection. Such communities shall remain eligible for C zone rates for properties located in zone AR for any policy written prior to promulgation of final regulations for this section. Floodplain management criteria for such communities shall not require the elevation of improvements to existing structures and shall not exceed 3 feet above existing grade for new construction, provided the base flood elevation based on the disaccredited flood control system does not exceed five feet above existing grade, or the remaining new construction in such communities is limited to infill sites, rehabilitation of existing structures, or redevelopment of previously developed areas.
 
-> The Director of the Federal Emergency Management Agency shall develop and promulgate regulations to implement this subsection, including minimum floodplain management criteria, within 24 months after October 28, 1992.
+> The Administrator of the Federal Emergency Management Agency shall develop and promulgate regulations to implement this subsection, including minimum floodplain management criteria, within 24 months after October 28, 1992.
 
-(Pub. L. 90–448, title XIII, §1307, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §109, Dec. 31, 1973, 87 Stat. 980; Pub. L. 93–383, title VIII, §816(b), Aug. 22, 1974, 88 Stat. 739; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(1), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 102–550, title IX, §928, Oct. 28, 1992, 106 Stat. 3886.)
+(Pub. L. 90–448, title XIII, §1307, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §109, Dec. 31, 1973, 87 Stat. 980; Pub. L. 93–383, title VIII, §816(b), Aug. 22, 1974, 88 Stat. 739; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(1), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 102–550, title IX, §928, Oct. 28, 1992, 106 Stat. 3886; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2), (d), and (e), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
@@ -68,9 +72,15 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon �
 
 1973—Subsec. (d). Pub. L. 93–234 added subsec. (d).
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (f) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Fees
 
@@ -78,35 +88,7 @@ Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in pa
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 
-Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, provided that:
-
-“(a)
-
-Study.—The Director of the Federal Emergency Management Agency (in this section referred to as the ‘Director’) shall conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage made available under the national flood insurance program for pre-FIRM structures to the full actuarial risk based premium rate determined under section 1307(a)(1) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4014(a)(1)\] for the area in which the property is located. In conducting the study, the Director shall—
-
-&emsp;“(1) determine each area that would be subject to such increased premium rates; and
-
-&emsp;“(2) for each such area, determine—
-
-&emsp;&emsp;“(A) the amount by which premium rates would be increased;
-
-&emsp;&emsp;“(B) the number and types of properties affected and the number and types of properties covered by flood insurance under this title \[probably means title XIII of Pub. L. 90–448 which enacted this chapter see Short Title note set out under section 4001 of this title and Tables\] likely to cancel such insurance if the rate increases were made;
-
-&emsp;&emsp;“(C) the effects that the increased premium rates would have on land values and property taxes; and
-
-&emsp;&emsp;“(D) any other effects that the increased premium rates would have on the economy and homeowners.
-
-“(b)
-
-Definition of Pre-FIRM Structure.—For purposes of subsection (a), the term ‘pre-FIRM structure’ means a structure that was not constructed or substantially improved after the later of—
-
-&emsp;“(1) December 31, 1974; or
-
-&emsp;“(2) the effective date of the initial rate map published by the Director under section 1360(a)(2) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4101(a)(2)\] for the area in which such structure is located.
-
-“(c)
-
-Report.—The Director shall submit a report to the Congress describing and explaining the findings of the study conducted under this section. The report shall be submitted not later than 12 months after the date of enactment of this Act \[Sept. 23, 1994\].”
+Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, required the Director of the Federal Emergency Management Agency to conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage for pre-FIRM structures and submit a report to Congress no later than 12 months after Sept. 23, 1994.
 
 #### Sea Level Rise Study
 

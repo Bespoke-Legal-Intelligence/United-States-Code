@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(K) Parenting education for parents and caregivers of Alaska Native children to improve parenting and caregiving skills (including skills relating to discipline and cognitive development), including parenting education provided through in-home visitation of new mothers.
 
-&emsp;&emsp;(L) Cultural education programs operated by the Alaska Native Heritage Center anddesigned to share the Alaska Native culture with students.
+&emsp;&emsp;(L) Cultural education programs operated by the Alaska Native Heritage Center and designed to share the Alaska Native culture with students.
 
 &emsp;&emsp;(M) A cultural exchange program operated by the Alaska Humanities Forum and designed to share Alaska Native culture with urban students in a rural setting, which shall be known as the Rose Cultural Exchange Program.
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, and unless the head of the departmen
 
 #### Amendments
 
-1994—Pub. L. 103–355 inserted at end “This section shall not apply to manufactured articles, materials, orsupplies procured under any contract the award value of which is less than or equal to the micro-purchase threshold under section 428 of this title.”
+1994—Pub. L. 103–355 inserted at end “This section shall not apply to manufactured articles, materials, or supplies procured under any contract the award value of which is less than or equal to the micro-purchase threshold under section 428 of this title.”
 
 1988—Pub. L. 100–418, §§7004, 7005(b), temporarily substituted “Federal agency” for “department or independent establishment”. See Effective and Termination Dates of 1988 Amendment note below.
 

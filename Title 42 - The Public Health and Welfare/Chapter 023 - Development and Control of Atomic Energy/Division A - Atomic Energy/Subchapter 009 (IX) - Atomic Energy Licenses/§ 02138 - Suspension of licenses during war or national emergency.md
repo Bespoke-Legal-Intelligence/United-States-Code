@@ -8,7 +8,3 @@ Whenever the Congress declares that a state of war or national emergency exists,
 
 1959—Pub. L. 86–373 struck out “distributed under the provisions of section 2073(a) of this title,” before “or to order”.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

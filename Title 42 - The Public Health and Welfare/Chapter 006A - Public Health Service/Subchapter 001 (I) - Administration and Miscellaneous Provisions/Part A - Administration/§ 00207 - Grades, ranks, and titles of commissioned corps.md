@@ -42,7 +42,7 @@ In computing the maximum number of commissioned officers of the Public Health Se
 
 In computing the maximum number of commissioned officers of the Public Health Service authorized by law or administrative determination to serve on active duty, there may be excluded from such computation officers who are assigned to duty in the Department of Defense.
 
-(July 1, 1944, ch. 373, title II, §206, 58 Stat. 684; Feb. 28, 1948, ch. 83, §4, 62 Stat. 39; Oct. 31, 1951, ch. 653, 65 Stat. 700; July 17, 1952, ch. 931, 66 Stat. 758; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 87–649, §11(1), Sept. 7, 1962, 76 Stat. 497; Pub. L. 95–215, §8(b), Dec. 19, 1977, 91 Stat. 1507; Pub. L. 96–76, title III, §304, Sept. 29, 1979, 93 Stat. 584; Pub. L. 99–117, §9, Oct. 7, 1985, 99 Stat. 494; Pub. L. 101–93, §5(p), Aug. 16, 1989, 103 Stat. 614; Pub. L. 101–502, §5(k)(1), Nov. 3, 1990, 104 Stat. 1289; Pub. L.104–201, div. A, title V, §582, Sept. 23, 1996, 110 Stat. 2538.)
+(July 1, 1944, ch. 373, title II, §206, 58 Stat. 684; Feb. 28, 1948, ch. 83, §4, 62 Stat. 39; Oct. 31, 1951, ch. 653, 65 Stat. 700; July 17, 1952, ch. 931, 66 Stat. 758; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 87–649, §11(1), Sept. 7, 1962, 76 Stat. 497; Pub. L. 95–215, §8(b), Dec. 19, 1977, 91 Stat. 1507; Pub. L. 96–76, title III, §304, Sept. 29, 1979, 93 Stat. 584; Pub. L. 99–117, §9, Oct. 7, 1985, 99 Stat. 494; Pub. L. 101–93, §5(p), Aug. 16, 1989, 103 Stat. 614; Pub. L. 101–502, §5(k)(1), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 104–201, div. A, title V, §582, Sept. 23, 1996, 110 Stat. 2538.)
 
 #### Amendments
 

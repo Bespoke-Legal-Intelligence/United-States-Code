@@ -6,7 +6,7 @@ The Commission may, for the purpose of carrying out its duties under this subcha
 
 #### (b) Information from Federal agencies
 
-The Commission may secure directly from any Federal department or agency such informationas the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission, subject to applicable law.
+The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission, subject to applicable law.
 
 #### (c) Postal services
 
@@ -18,7 +18,7 @@ The Commission may adopt such rules and regulations, relating to administrative 
 
 #### (e) Views of the Commission
 
-The Members of the Commission may speak in their capacity as private citizens. Statements on behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description.
+The Members of the Commission may speak in their capacity as private citizens. Statementson behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description.
 
 #### (f) Travel
 

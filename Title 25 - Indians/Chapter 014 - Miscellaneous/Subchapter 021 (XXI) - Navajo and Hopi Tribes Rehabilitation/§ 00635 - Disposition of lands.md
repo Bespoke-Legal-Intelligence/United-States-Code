@@ -6,7 +6,7 @@ Any restricted Indian lands owned by the Navajo Tribe, members thereof, or assoc
 
 #### (b) Lease, sale, or other disposition of lands owned in fee simple by Navajo Tribe
 
-Notwithstanding any other provision of law, land owned in fee simple by the Navajo Tribe may be leased, sold, or otherwise disposed of by the sole authority of the Navajo Tribal Council, in any manner that similar land in the State in which such land is situated may be leased, sold, or otherwise disposed of by private landowners, and such disposition shall create no liability on the part of the United States.
+Notwithstanding any other provision of law, land owned in fee simple by the Navajo Tribemay be leased, sold, or otherwise disposed of by the sole authority of the Navajo Tribal Council, in any manner that similar land in the State in which such land is situated may be leased, sold, or otherwise disposed of by private landowners, and such disposition shall create no liability on the part of the United States.
 
 #### (c) Transfer of unallotted lands to tribally owned or municipal corporations
 

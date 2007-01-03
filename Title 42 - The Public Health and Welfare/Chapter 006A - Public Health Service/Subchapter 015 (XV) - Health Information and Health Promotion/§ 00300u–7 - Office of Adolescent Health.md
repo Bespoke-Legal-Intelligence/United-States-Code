@@ -30,7 +30,7 @@ With respect to adolescent health, the Secretary shall—
 
 #### (2) Authorization of appropriations
 
-&emsp;For the purpose of carrying out paragraph (1), there are authorized to be appropriated $5,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1997.
+&emsp;For the purpose of carrying out paragraph (1), there are authorized to be appropriated$5,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1997.
 
 #### (d) Information clearinghouse
 

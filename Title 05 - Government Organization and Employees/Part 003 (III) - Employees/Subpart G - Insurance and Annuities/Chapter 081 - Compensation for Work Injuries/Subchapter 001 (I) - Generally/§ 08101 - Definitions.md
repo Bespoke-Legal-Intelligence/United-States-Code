@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 monthsafter the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -46,7 +46,7 @@ For the purpose of this subchapter—
 
 &emsp;(11) “widower” means the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause or because of her desertion;
 
-&emsp;(12) “compensation” includes the money allowance payable to an employee or his dependents and any other benefits paid for from theEmployees’ Compensation Fund, but this does not in any way reduce the amount of the monthly compensation payable for disability or death;
+&emsp;(12) “compensation” includes the money allowance payable to an employee or his dependents and any other benefits paid for from the Employees’ Compensation Fund, but this does not in any way reduce the amount of the monthly compensation payable for disability or death;
 
 &emsp;(13) “war-risk hazard” means a hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war or armed conflict between military forces of any origin, occurring in the country in which an individual to whom this subchapter applies is serving; from—
 
@@ -264,7 +264,7 @@ Section 28(a) of Pub. L. 93–416 provided that: “Except as otherwise provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act \[amending section 8111 of thistitle and enacting provisions set out as a note under section 8111 of this title\] may be cited as the ‘Attendant Allowance Adjustment Act’.”
+Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act \[amending section 8111 of this title and enacting provisions set out as a note under section 8111 of this title\] may be cited as the ‘Attendant Allowance Adjustment Act’.”
 
 #### Transfer of Functions
 

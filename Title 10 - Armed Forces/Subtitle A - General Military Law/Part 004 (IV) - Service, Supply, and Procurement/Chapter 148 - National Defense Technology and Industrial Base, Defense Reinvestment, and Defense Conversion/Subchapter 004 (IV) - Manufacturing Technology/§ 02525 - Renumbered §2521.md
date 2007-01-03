@@ -1,5 +1,7 @@
 ### \[§2525. Renumbered §2521\]
 
+§2525
+
 #### Prior Provisions
 
 A prior section 2525 was renumbered section 2517 of this title.

@@ -8,7 +8,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (1) Advisory rulings and final determinations
 
-&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for the prompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
+&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for theprompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
 
 #### (2) Penalties for fraudulent conduct
 

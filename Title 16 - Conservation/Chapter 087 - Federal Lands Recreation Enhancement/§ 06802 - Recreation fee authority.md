@@ -158,7 +158,7 @@ Except as limited by subsection (d), the Secretary may charge a standard amenity
 
 &emsp;&emsp;(B) Use of highly developed boat launches with specialized facilities or services such as mechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
 
-&emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-useor overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
+&emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-use or overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
 
 &emsp;&emsp;(D) Use of hookups for electricity, cable, or sewer.
 

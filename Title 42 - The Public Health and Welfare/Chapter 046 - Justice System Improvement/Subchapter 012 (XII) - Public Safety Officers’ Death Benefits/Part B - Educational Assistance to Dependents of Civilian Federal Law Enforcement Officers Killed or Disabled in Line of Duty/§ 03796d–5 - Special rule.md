@@ -10,7 +10,7 @@ The Attorney General may provide retroactive assistance to dependents eligible u
 
 #### (c) Prospective assistance
 
-The Attorney General may provide prospective assistance to dependents eligible under this section on the same basis as assistance to dependents otherwise eligible. In applying the limitations on assistance under this part, the Attorney General shall include assistance provided retroactively. A dependent eligible under this section may waive retroactive assistance and apply only for prospective assistance on the same basis as dependents otherwise eligible.
+The Attorney General may provide prospective assistance to dependents eligible under thissection on the same basis as assistance to dependents otherwise eligible. In applying the limitations on assistance under this part, the Attorney General shall include assistance provided retroactively. A dependent eligible under this section may waive retroactive assistance and apply only for prospective assistance on the same basis as dependents otherwise eligible.
 
 (Pub. L. 90–351, title I, §1216, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 105–390, §2(5), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 106–276, §1(a), Oct. 2, 2000, 114 Stat. 812.)
 

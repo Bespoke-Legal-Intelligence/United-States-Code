@@ -16,21 +16,17 @@ The Secretary may conduct the study required in subsection (a) of this section i
 
 The Secretary shall, during each of the fiscal years 1993 and 1994, develop a plan for conducting the study required in subsection (a) of this section. The study shall be initiated by the Secretary not later than fiscal year 1994, and the collection of data under the study may continue through fiscal year 1998.
 
-#### (e) Report
-
-Not later than September 30, 1999, the Secretary shall complete the study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings and recommendations made as a result of the study.
-
-(July 1, 1944, ch. 373, title III, §399E, formerly §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399E and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (C), Oct. 17, 2000, 114 Stat. 1115.)
+(July 1, 1944, ch. 373, title III, §399E, formerly §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399E and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (C), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 109–482, title I, §104(b)(2)(A), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### Amendments
 
+2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “Not later than September 30, 1999, the Secretary shall complete the study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings and recommendations made as a result of the study.”
+
 2000—Subsec. (c). Pub. L. 106–310, §502(2)(C), made technical amendment to reference in original act which appears in text as reference to section 280e(a) of this title.
 
-#### Change of Name
+#### Effective Date of 2007 Amendment
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Potential Environmental and Other Risks Contributing to Incidence of Breast Cancer
 

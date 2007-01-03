@@ -24,11 +24,21 @@ Federal payments made under a cooperative agreement or grant under subsection (a
 
 Support of a center under subsection (a) of this section may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-(July 1, 1944, ch. 373, title IV, §414, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 835; amended Pub. L. 100–607, title I, §123, Nov. 4, 1988, 102 Stat. 3055; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
+#### (d) Construction
+
+Research centers under this section may not be considered centers of excellence for purposes of section 282(b)(10) of this title.
+
+(July 1, 1944, ch. 373, title IV, §414, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 835; amended Pub. L. 100–607, title I, §123, Nov. 4, 1988, 102 Stat. 3055; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874; Pub. L. 109–482, title I, §108(b), Jan. 15, 2007, 120 Stat. 3697.)
 
 #### Amendments
+
+2007—Subsec. (d). Pub. L. 109–482 added subsec. (d).
 
 2002—Subsec. (b). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards” in concluding provisions.
 
 1988—Subsec. (a)(1). Pub. L. 100–607 inserted “control,” after “prevention,”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

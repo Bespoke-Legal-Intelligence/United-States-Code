@@ -28,7 +28,7 @@ Any failure to obey such order of the court may be punished by such court as a c
 
 #### (e) Process
 
-Process in any such case may be served in the judicial district in which such person resides orconducts business or wherever such person may be found.
+Process in any such case may be served in the judicial district in which such person resides or conducts business or wherever such person may be found.
 
 #### (f) Hearing site
 

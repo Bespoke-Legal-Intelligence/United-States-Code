@@ -5,22 +5,8 @@
 | [10301\.](%C2%A7%2010301%20-%20Congressional%20findings%20and%20declarations.md) | Congressional findings and declarations. |
 | [10302\.](%C2%A7%2010302%20-%20Congressional%20declaration%20of%20purpose.md) | Congressional declaration of purpose. |
 | [10303\.](%C2%A7%2010303%20-%20Water%20resources%20research%20and%20technology%20institutes.md) | Water resources research and technology institutes. |
-| (a) | Establishment; designation of site by State legislature or Governor. |
-| (b) | Scope of research; other activities; cooperation and coordination. |
-| (c) | Grants; matching funds. |
-| (d) | Submission and approval of water research program; requisite assurances. |
-| (e) | Evaluation of water resources research program. |
-| (f) | Authorization of appropriations in general. |
-| (g) | Additional appropriations where research focused on water problems of interstate nature. |
-| (h) | Coordination. |
 | [10304\.](%C2%A7%2010304%20-%20Research%20concerning%20water%20resource-related%20problems%20deemed%20to%20be%20in%20national%20interest.md) | Research concerning water resource-related problems deemed to be in national interest. |
-| (a) | Grants; matching funds. |
-| (b) | Applications for grants. |
-| (c) | Authorization of appropriations. |
 | [10305\.](%C2%A7%2010305%20-%20Development%20of%20water-related%20technology.md) | Development of water-related technology. |
-| (a) | Grants; matching funds. |
-| (b) | Applications for grants. |
-| (c) | Authorization of appropriations. |
 | [10306\.](%C2%A7%2010306%20-%20Administrative%20costs.md) | Administrative costs. |
 | [10307\.](%C2%A7%2010307%20-%20Types%20of%20research%20and%20development.md) | Types of research and development. |
 | [10308\.](%C2%A7%2010308%20-%20Patent%20policy.md) | Patent policy. |

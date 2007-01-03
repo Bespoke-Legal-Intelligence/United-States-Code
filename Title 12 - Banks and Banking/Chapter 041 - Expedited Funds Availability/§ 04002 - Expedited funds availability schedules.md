@@ -132,7 +132,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not more than 4 business days shall intervene between the business day a deposit described in subparagraph (B) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on which funds from such deposit are available for withdrawal.
+&emsp;&emsp;Not more than 4 business days shall intervene between the business day a deposit described in subparagraph (B) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on whichfunds from such deposit are available for withdrawal.
 
 #### (B) Deposits described in this paragraph <sup>1</sup>
 

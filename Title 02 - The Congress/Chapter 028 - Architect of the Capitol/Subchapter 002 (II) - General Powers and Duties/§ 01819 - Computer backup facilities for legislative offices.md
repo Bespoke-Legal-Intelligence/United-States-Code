@@ -12,7 +12,7 @@ The acquisition of a building or facility under subsection (a) of this section s
 
 &emsp;(2) the Committee on Rules and Administration of the Senate, in the case of a building or facility acquired for the use of an office of the Senate; or
 
-&emsp;(3) the House Office Building Commission in the case of a building or facility acquired for the use of any other office in the legislativebranch as part of a joint facility with (1) above, or the Committee on Rules and Administration of the Senate, in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (2) above.
+&emsp;(3) the House Office Building Commission in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (1) above, or the Committee on Rules and Administration of the Senate, in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (2) above.
 
 #### (c) United States Capitol grounds provisions applicable
 

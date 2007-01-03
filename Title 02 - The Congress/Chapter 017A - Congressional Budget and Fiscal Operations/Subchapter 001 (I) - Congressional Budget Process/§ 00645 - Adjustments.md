@@ -44,7 +44,7 @@ The adjustment referred to in subsection (a) of this section shall be—
 
 &emsp;&emsp;(E) with respect to fiscal year 2002, $146,000,000 in new budget authority; or
 
-&emsp;(6) in the case of an amount for adoption incentive payments (as defined in section901(b)(2)(G) of this title) for fiscal year 1999, 2000, 2001, 2002, or 2003 for the Department of Health and Human Services, an amount not to exceed $20,000,000.
+&emsp;(6) in the case of an amount for adoption incentive payments (as defined in section 901(b)(2)(G) of this title) for fiscal year 1999, 2000, 2001, 2002, or 2003 for the Department of Health and Human Services, an amount not to exceed $20,000,000.
 
 #### (c) Application of adjustments
 

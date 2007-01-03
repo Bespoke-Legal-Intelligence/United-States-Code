@@ -8,7 +8,3 @@ The Commission, acting on behalf of the United States, is authorized to consider
 
 1961—Pub. L. 87–206 substituted “any program undertaken by the Commission involving the detonation of an explosive device” for “the Commission's program for testing atomic weapons” and authorized the Commission to report meritorious claims in excess of $5,000 to the Congress.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
-

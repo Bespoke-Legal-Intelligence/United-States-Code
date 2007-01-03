@@ -13,17 +13,10 @@
 |  |  |
 | :--- | ---: |
 | [2011\.](Subchapter%20002%20%28II%29%20-%20Basic%20Authorities/%C2%A7%2002011%20-%20Implementation%20of%20the%20Agreement.md) | Implementation of the Agreement. |
-| (a) | Modification of Harmonized Tariff Schedule. |
-| (b) | Duty-free treatment of Canadian motor-vehicle equipment. |
 | [2012\.](Subchapter%20002%20%28II%29%20-%20Basic%20Authorities/%C2%A7%2002012%20-%20Omitted.md) | Omitted. |
 | [2013\.](Subchapter%20002%20%28II%29%20-%20Basic%20Authorities/%C2%A7%2002013%20-%20Effective%20date%20of%20proclamations.md) | Effective date of proclamations. |
-| (a) | Retroactive effect; authority of President. |
-| (b) | Filing of request with customs officer. |
 | [2014\.](Subchapter%20002%20%28II%29%20-%20Basic%20Authorities/%C2%A7%2002014%20-%20Termination%20of%20proclamations.md) | Termination of proclamations. |
 | [2015\.](Subchapter%20002%20%28II%29%20-%20Basic%20Authorities/%C2%A7%2002015%20-%20Special%20reports%20to%20Congress.md) | Special reports to Congress. |
-| (a) | Report on required comprehensive review. |
-| (b) | Report on increase on Canadian value added. |
-| (c) | Recommendations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

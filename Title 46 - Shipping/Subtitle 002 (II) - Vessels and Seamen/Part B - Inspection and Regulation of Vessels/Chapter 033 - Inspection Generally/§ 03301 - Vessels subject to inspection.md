@@ -30,7 +30,9 @@ The following categories of vessels are subject to inspection under this part:
 
 &emsp;(14) oil spill response vessels.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445;Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct. 19, 1996, 110 Stat. 3967.)
+&emsp;(15) towing vessels.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct. 19, 1996, 110 Stat. 3967; Pub. L. 108–293, title IV, §415(a), Aug. 9, 2004, 118 Stat. 1047.)
 
 Historical and Revision Notes
 
@@ -90,9 +92,11 @@ Section 3301 lists all classes of vessels that are subject to inspection and cer
 
 It is important to note that while the classes of vessels are now limited to ten, there is no prohibition against developing regulations to meet the special needs of various size vessels within any one category. For example, it is expected that the Coast Guard will continue the practice of establishing standards for freight vessels of not more than 100 gross tons and other standards for larger freight vessels.
 
-It should also be noted that a particular vessel can, when engaged in various types of operations, be subject to varying inspection laws. For example, an offshore supply vessel could be classed as a small passenger vessel or a passenger vessel when it operates as a crew boat carrying individuals other than those defined in section 2101(21). If the offshore supply vessel is 500 gross tons and over it would then be subject to inspection as a seagoing motor vessel, a freight vessel, or a passenger vessel.
+It should also be noted that a particular vessel can, when engaged in various types of operations, be subject to varying inspection laws. For example, an offshore supply vessel could be classed as a small passenger vessel or a passenger vessel when it operates as a crew boat carrying individuals other than those defined insection 2101(21). If the offshore supply vessel is 500 gross tons and over it would then be subject to inspection as a seagoing motor vessel, a freight vessel, or a passenger vessel.
 
 #### Amendments
+
+2004—Par. (15). Pub. L. 108–293 added par. (15).
 
 1996—Par. (14). Pub. L. 104–324 added par. (14).
 
@@ -107,10 +111,6 @@ Amendment by Pub. L. 102–587 effective Nov. 4, 1992, for Great Lakes barges pl
 #### Effective Date
 
 Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
-
-#### Short Title of 1984 Amendment
-
-Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: “This subtitle \[subtitle A (§§210–214) of title II of Pub. L. 98–498, enacting section 2306 of this title, amending sections 2301, 3309, 3311, 3318, 6101, and 6103 of this title and section 183 of the Appendix to this title, and enacting provisions set out as notes under section 2306 of this title and section 183 of the Appendix to this title\] may be cited as the ‘Maritime Safety Act of 1984’.”
 
 #### Pilot Program
 
@@ -132,7 +132,7 @@ Expiration of authority.—The authority to grant the exemptions under this subs
 
 #### Small Passenger Vessel Pilot Inspection Program With State of Minnesota
 
-Section 1122 of Pub. L. 104–324 provided that:
+Pub. L. 104–324, title XI, §1122, Oct. 19, 1996, 110 Stat. 3979, provided that:
 
 “(a)
 
@@ -167,8 +167,4 @@ State.—The term ‘State’ means the State of Minnesota.
 Small passenger vessel.—The term ‘small passenger vessel’ means a small passenger vessel (as defined in section 2101(35) of title 46, United States Code) of not more than 40 feet overall in length.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2101, 3302 of this title.
 

@@ -6,7 +6,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 #### (b) Grant applications
 
-(1) In submitting an application under this section, a State may consolidate and coordinate an application that consists of parts prepared by more than one agency or department of such State.
+(1) In submitting an application under this section, a State may consolidate and coordinatean application that consists of parts prepared by more than one agency or department of such State.
 
 (2) As part of an application for a grant under this section, a State shall submit a plan for a State-wide health insurance information, counseling, and assistance program. Such program shallâ€”
 
@@ -14,7 +14,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 &emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims under this subchapter and subchapter XIX of this chapter;
 
-&emsp;&emsp;(ii) policy comparison information for medicare supplemental policies (as describedin section 1395ss(g)(1) of this title) and information that may assist individuals in filing claims under such medicare supplemental policies;
+&emsp;&emsp;(ii) policy comparison information for medicare supplemental policies (as described in section 1395ss(g)(1) of this title) and information that may assist individuals in filing claims under such medicare supplemental policies;
 
 &emsp;&emsp;(iii) information regarding long-term care insurance; and
 

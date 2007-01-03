@@ -28,7 +28,7 @@ The Attorney General shall establish a process through which a State may apply f
 
 &emsp;&emsp;(E) assurances that Federal funds received under this part shall be—
 
-&emsp;&emsp;&emsp;(i) used to supplement and not supplant non-Federal funds that would otherwise be available for activities funded under this part; and
+&emsp;&emsp;&emsp;(i) used to supplement and not supplant non-Federal funds that would otherwise beavailable for activities funded under this part; and
 
 &emsp;&emsp;&emsp;(ii) allocated in accordance with section 14163e(b) of this title.
 

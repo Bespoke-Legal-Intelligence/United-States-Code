@@ -2,7 +2,7 @@
 
 #### (a) Formula for allocation
 
-(1) If the sums appropriated for any fiscal year pursuant to section 1810(a)(2) of this title for grants under section 1807 of this title are not sufficient to pay in full the total amount which approved applicants are eligible to receive under such section for such fiscal year—
+(1) If the sums appropriated for any fiscal year pursuant to section 1810(a)(2) of this title forgrants under section 1807 of this title are not sufficient to pay in full the total amount which approved applicants are eligible to receive under such section for such fiscal year—
 
 &emsp;(A) the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 percent of the payment received by such applicant under section 1808 of this title;
 

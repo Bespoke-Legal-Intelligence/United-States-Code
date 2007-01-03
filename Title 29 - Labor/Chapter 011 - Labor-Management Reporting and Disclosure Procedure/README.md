@@ -5,9 +5,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [401\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000401%20-%20Congressional%20declaration%20of%20findings%2C%20purposes%2C%20and%20policy.md) | Congressional declaration of findings, purposes, and policy. |
-| (a) | Standards for labor-management relations. |
-| (b) | Protection of rights of employees and the public. |
-| (c) | Necessity to eliminate or prevent improper practices. |
 | [402\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000402%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,12 +14,6 @@
 |  |  |
 | :--- | ---: |
 | [411\.](Subchapter%20002%20%28II%29%20-%20Bill%20of%20Rights%20of%20Members%20of%20Labor%20Organizations/%C2%A7%2000411%20-%20Bill%20of%20rights%3B%20constitution%20and%20bylaws%20of%20labor%20organizations.md) | Bill of rights; constitution and bylaws of labor organizations. |
-| (a)(1) | Equal rights. |
-| (2) | Freedom of speech and assembly. |
-| (3) | Dues, initiation fees, and assessments. |
-| (4) | Protection of the right to sue. |
-| (5) | Safeguards against improper disciplinary action. |
-| (b) | Invalidity of constitution and bylaws. |
 | [412\.](Subchapter%20002%20%28II%29%20-%20Bill%20of%20Rights%20of%20Members%20of%20Labor%20Organizations/%C2%A7%2000412%20-%20Civil%20action%20for%20infringement%20of%20rights%3B%20jurisdiction.md) | Civil action for infringement of rights; jurisdiction. |
 | [413\.](Subchapter%20002%20%28II%29%20-%20Bill%20of%20Rights%20of%20Members%20of%20Labor%20Organizations/%C2%A7%2000413%20-%20Retention%20of%20existing%20rights%20of%20members.md) | Retention of existing rights of members. |
 | [414\.](Subchapter%20002%20%28II%29%20-%20Bill%20of%20Rights%20of%20Members%20of%20Labor%20Organizations/%C2%A7%2000414%20-%20Right%20to%20copies%20of%20collective%20bargaining%20agreements.md) | Right to copies of collective bargaining agreements. |
@@ -35,34 +26,14 @@
 |  |  |
 | :--- | ---: |
 | [431\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000431%20-%20Report%20of%20labor%20organizations.md) | Report of labor organizations. |
-| (a) | Adoption and filing of constitution and bylaws; contents of report. |
-| (b) | Annual financial report; filing; contents. |
-| (c) | Availability of information to members; examination of books, records, and accounts. |
 | [432\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000432%20-%20Report%20of%20officers%20and%20employees%20of%20labor%20organizations.md) | Report of officers and employees of labor organizations. |
-| (a) | Filing; contents of report. |
-| (b) | Report of certain bona fide investments. |
-| (c) | Exemption from filing requirement. |
 | [433\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000433%20-%20Report%20of%20employers.md) | Report of employers. |
-| (a) | Filing and contents of report of payments, loans, promises, agreements, or arrangements. |
-| (b) | Persuasive activities relating to the right to organize and bargain collectively; supplying information of activities in connection with labor disputes; filing and contents of report of agreement or arrangement. |
-| (c) | Advisory or representative services exempt from filing requirements. |
-| (d) | Exemption from filing requirements generally. |
-| (e) | Services by and payments to regular officers, supervisors, and employees of employer. |
-| (f) | Rights protected by section 158(c) of this title. |
-| (g) | “Interfere with, restrain, or coerce” defined. |
 | [434\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000434%20-%20Exemption%20of%20attorney-client%20communications.md) | Exemption of attorney-client communications. |
 | [435\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000435%20-%20Reports%20and%20documents%20as%20public%20information.md) | Reports and documents as public information. |
-| (a) | Publication; statistical and research purposes. |
-| (b) | Inspection and examination of information and data. |
-| (c) | Copies of reports or documents; availability to State agencies. |
 | [436\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000436%20-%20Retention%20of%20records.md) | Retention of records. |
 | [437\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000437%20-%20Time%20for%20making%20reports.md) | Time for making reports. |
 | [438\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000438%20-%20Rules%20and%20regulations%3B%20simplified%20reports.md) | Rules and regulations; simplified reports. |
 | [439\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000439%20-%20Violations%20and%20penalties.md) | Violations and penalties. |
-| (a) | Willful violations of provisions of subchapter. |
-| (b) | False statements or representations of fact with knowledge of falsehood. |
-| (c) | False entry in or willful concealment, etc., of books and records. |
-| (d) | Personal responsibility of individuals required to sign reports. |
 | [440\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000440%20-%20Civil%20action%20for%20enforcement%20by%20Secretary%3B%20jurisdiction.md) | Civil action for enforcement by Secretary; jurisdiction. |
 | [441\.](Subchapter%20003%20%28III%29%20-%20Reporting%20by%20Labor%20Organizations%2C%20Officers%20and%20Employees%20of%20Labor%20Organizations%2C%20and%20Employers/%C2%A7%2000441%20-%20Surety%20company%20reports%3B%20contents%3B%20waiver%20or%20modification%20of%20requirements%20respecting%20contents%20of%20reports.md) | Surety company reports; contents; waiver or modification of requirements respecting contents of reports. |
 
@@ -73,17 +44,9 @@
 |  |  |
 | :--- | ---: |
 | [461\.](Subchapter%20004%20%28IV%29%20-%20Trusteeships/%C2%A7%2000461%20-%20Reports.md) | Reports. |
-| (a) | Filing and contents; annual financial report. |
-| (b) | Applicability of other laws. |
-| (c) | Penalty for violations. |
-| (d) | False statements and entries; failure to disclose material facts; withholding, concealing or destroying documents, books, records, reports, or statements; penalty. |
-| (e) | Personal liability. |
 | [462\.](Subchapter%20004%20%28IV%29%20-%20Trusteeships/%C2%A7%2000462%20-%20Purposes%20for%20establishment%20of%20trusteeship.md) | Purposes for establishment of trusteeship. |
 | [463\.](Subchapter%20004%20%28IV%29%20-%20Trusteeships/%C2%A7%2000463%20-%20Unlawful%20acts%20relating%20to%20labor%20organization%20under%20trusteeship.md) | Unlawful acts relating to labor organization under trusteeship. |
 | [464\.](Subchapter%20004%20%28IV%29%20-%20Trusteeships/%C2%A7%2000464%20-%20Civil%20action%20for%20enforcement.md) | Civil action for enforcement. |
-| (a) | Complaint; investigation; commencement of action by Secretary, member or subordinate body of labor organization; jurisdiction. |
-| (b) | Venue. |
-| (c) | Presumptions of validity or invalidity of trusteeship. |
 | [465\.](Subchapter%20004%20%28IV%29%20-%20Trusteeships/%C2%A7%2000465%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [466\.](Subchapter%20004%20%28IV%29%20-%20Trusteeships/%C2%A7%2000466%20-%20Additional%20rights%20and%20remedies%3B%20exclusive%20jurisdiction%20of%20district%20court%3B%20res%20judicata.md) | Additional rights and remedies; exclusive jurisdiction of district court; res judicata. |
 
@@ -94,20 +57,7 @@
 |  |  |
 | :--- | ---: |
 | [481\.](Subchapter%20005%20%28V%29%20-%20Elections/%C2%A7%2000481%20-%20Terms%20of%20office%20and%20election%20procedures.md) | Terms of office and election procedures. |
-| (a) | Officers of national or international labor organizations; manner of election. |
-| (b) | Officers of local labor organizations; manner of election. |
-| (c) | Requests for distribution of campaign literature; civil action for enforcement; jurisdiction; inspection of membership lists; adequate safeguards to insure fair election. |
-| (d) | Officers of intermediate bodies; manner of election. |
-| (e) | Nomination of candidates; eligibility; notice of election; voting rights; counting and publication of results; preservation of ballots and records. |
-| (f) | Election of officers by convention of delegates; manner of conducting convention; preservation of records. |
-| (g) | Use of dues, assessments or similar levies, and funds of employer for promotion of candidacy of person. |
-| (h) | Removal of officers guilty of serious misconduct. |
-| (i) | Rules and regulations for determining adequacy of removal procedures. |
 | [482\.](Subchapter%20005%20%28V%29%20-%20Elections/%C2%A7%2000482%20-%20Enforcement.md) | Enforcement. |
-| (a) | Filing of complaint; presumption of validity of challenged election. |
-| (b) | Investigation of complaint; commencement of civil action by Secretary; jurisdiction; preservation of assets. |
-| (c) | Declaration of void election; order for new election; certification of election to court; decree; certification of result of vote for removal of officers. |
-| (d) | Review of orders; stay of order directing election. |
 | [483\.](Subchapter%20005%20%28V%29%20-%20Elections/%C2%A7%2000483%20-%20Application%20of%20other%20laws%3B%20existing%20rights%20and%20remedies%3B%20exclusiveness%20of%20remedy%20for%20challenging%20election.md) | Application of other laws; existing rights and remedies; exclusiveness of remedy for challenging election. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -117,19 +67,9 @@
 |  |  |
 | :--- | ---: |
 | [501\.](Subchapter%20006%20%28VI%29%20-%20Safeguards%20for%20Labor%20Organizations/%C2%A7%2000501%20-%20Fiduciary%20responsibility%20of%20officers%20of%20labor%20organizations.md) | Fiduciary responsibility of officers of labor organizations. |
-| (a) | Duties of officers; exculpatory provisions and resolutions void. |
-| (b) | Violation of duties; action by member after refusal or failure by labor organization to commence proceedings; jurisdiction; leave of court; counsel fees and expenses. |
-| (c) | Embezzlement of assets; penalty. |
 | [502\.](Subchapter%20006%20%28VI%29%20-%20Safeguards%20for%20Labor%20Organizations/%C2%A7%2000502%20-%20Bonding%20of%20officers%20and%20employees%20of%20labor%20organizations%3B%20amount%2C%20form%2C%20and%20placement%20of%20bonds%3B%20penalty%20for%20violation.md) | Bonding of officers and employees of labor organizations; amount, form, and placement of bonds; penalty for violation. |
 | [503\.](Subchapter%20006%20%28VI%29%20-%20Safeguards%20for%20Labor%20Organizations/%C2%A7%2000503%20-%20Financial%20transactions%20between%20labor%20organization%20and%20officers%20and%20employees.md) | Financial transactions between labor organization and officers and employees. |
-| (a) | Direct and indirect loans. |
-| (b) | Direct or indirect payment of fines. |
-| (c) | Penalty for violations. |
 | [504\.](Subchapter%20006%20%28VI%29%20-%20Safeguards%20for%20Labor%20Organizations/%C2%A7%2000504%20-%20Prohibition%20against%20certain%20persons%20holding%20office.md) | Prohibition against certain persons holding office. |
-| (a) | Membership in Communist Party; persons convicted of robbery, bribery, etc. |
-| (b) | Penalty for violations. |
-| (c) | Definitions. |
-| (d) | Salary of person barred from labor organization office during appeal of conviction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

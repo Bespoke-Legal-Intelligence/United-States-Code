@@ -42,7 +42,7 @@ The proceeds from a sale of qualified debt under this section shall be deposited
 
 #### (g) Debtor consultation
 
-Before any sale of qualified debt may occur under this section, the President should consult with the eligible country's government concerning such sale. The topics addressed in the consultation shall include the amount of qualifieddebt involved in the transaction and the uses to which funds made available as a result of the sale shall be applied.
+Before any sale of qualified debt may occur under this section, the President should consult with the eligible country's government concerning such sale. The topics addressed in the consultation shall include the amount of qualified debt involved in the transaction and the uses to which funds made available as a result of the sale shall be applied.
 
 (July 10, 1954, ch. 469, title VI, §616, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509.)
 

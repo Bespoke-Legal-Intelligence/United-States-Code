@@ -18,7 +18,41 @@ Compliance Orders.—The Secretary of Transportation may issue orders directing 
 
 (c)
 
-Waivers by Secretary.—On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.
+Waivers by Secretary.—
+
+&emsp;(1)
+
+Nonemergency waivers.—
+
+&emsp;&emsp;(A)
+
+In general.—On application of an owner or operator of a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter with respect to such facility on terms the Secretary considers appropriate if the Secretary determines that the waiver is not inconsistent with pipeline safety.
+
+&emsp;&emsp;(B)
+
+Hearing.—The Secretary may act on a waiver under this paragraph only after notice and an opportunity for a hearing.
+
+&emsp;(2)
+
+Emergency waivers.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate without prior notice and comment if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) it is in the public interest to grant the waiver;
+
+&emsp;&emsp;&emsp;(ii) the waiver is not inconsistent with pipeline safety; and
+
+&emsp;&emsp;&emsp;(iii) the waiver is necessary to address an actual or impending emergency involving pipeline transportation, including an emergency caused by a natural or manmade disaster.
+
+&emsp;&emsp;(B)
+
+Period of waiver.—A waiver under this paragraph may be issued for a period of not more than 60 days and may be renewed upon application to the Secretary only after notice and an opportunity for a hearing on the waiver. The Secretary shall immediately revoke the waiver if continuation of the waiver would not be consistent with the goals and objectives of this chapter.
+
+&emsp;(3)
+
+Statement of reasons.—The Secretary shall state in an order issued under this subsection the reasons for granting the waiver.
 
 (d)
 
@@ -32,7 +66,7 @@ Operator Assistance in Investigations.—If the Secretary or the National Transp
 
 Limitation on Statutory Construction.—Nothing in this section may be construed to infringe upon the constitutional rights of an operator or its employees.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802; Pub. L. 107–355, §§10(a), (c), 14(c), Dec. 17, 2002, 116 Stat. 2995, 2996, 3005.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802; Pub. L. 107–355, §§10(a), (c), 14(c), Dec. 17, 2002, 116 Stat. 2995, 2996, 3005; Pub. L. 109–468, §10, Dec. 29, 2006, 120 Stat. 3494.)
 
 Historical and Revision Notes
 
@@ -48,7 +82,7 @@ Historical and Revision Notes
 
 49 App.:1677(a).
 
-Aug. 12, 1968, Pub. L. 90–481, §10(a), 82 Stat. 725; Nov. 30, 1979, Pub. L. 96–129, §105(b), 109(h)(4), 152(a), 93 Stat. 994, 996, 999.
+Aug. 12, 1968, Pub. L. 90–481, §10(a), 82 Stat. 725; Nov. 30, 1979, Pub. L. 96–129, §\[§\] 105(b), 109(h)(4), 152(a), 93 Stat. 994, 996, 999.
 
 &nbsp;
 
@@ -70,7 +104,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §10(b)(1); added Nov. 30, 1979, 
 
 49 App.:1672(d) (1st, 2d sentences).
 
-Aug. 12, 1968, Pub. L. 90–481, §3(d), 82 Stat. 721; Nov. 30, 1979, Pub. L. 96–129, §104(d), 109(c), 152(b)(2), 93 Stat. 994, 996, 1001.
+Aug. 12, 1968, Pub. L. 90–481, §3(d), 82 Stat. 721; Nov. 30, 1979, Pub. L. 96–129, §\[§\] 104(d), 109(c), 152(b)(2), 93 Stat. 994, 996, 1001.
 
 &nbsp;
 
@@ -95,6 +129,8 @@ In subsection (c), the words “any part of” are substituted for “in whole o
 In subsection (d), the words “to which the certification or agreement applies” are added for clarity. The words “to the granting of the waiver” and “any State agency action granting” are omitted as surplus. The words “shall provide a prompt opportunity for a hearing” are substituted for “shall afford such agency a prompt opportunity to present its request for waiver, with opportunity for hearing” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–468 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.”
 
 2002—Subsec. (a)(4). Pub. L. 107–355, §14(c), added par. (4).
 

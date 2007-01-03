@@ -142,13 +142,9 @@ Pub. L. 105–261, div. A, title III, §373(d)(1), Oct. 17, 1998, 112 Stat. 1992
 
 #### Implementation Plan To Examine Readiness Indicators
 
-Section 322(b) of Pub. L. 105–85 provided that: “Not later than January 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan—
-
-&emsp;“(1) specifying the manner in which the Secretary will implement the additional reporting requirement of subsection (d) of section 482 of title 10, United States Code, as added by this section; and
-
-&emsp;“(2) specifying the criteria proposed to be used to evaluate the readiness indicators identified in such subsection (d).”
+Pub. L. 105–85, div. A, title III, §322(b), Nov. 18, 1997, 111 Stat. 1675, directed the Secretary of Defense, not later than Jan. 15, 1998, to submit to the congressional defense committees a plan specifying the manner in which the additional reporting requirement of subsec. (d) of this section would be implemented and the criteria proposed to be used to evaluate the readiness indicators identified in subsec. (d).
 
 #### Transition To Complete Report
 
-Section 322(d) of Pub. L. 105–85 provided that: “Until the report under section 482 of title 10, United States Code, as amended by subsection (a), for the third quarter of 1998 is submitted, the Secretary of Defense may omit the information required by subsection (d) of such section if the Secretary determines that it is impracticable to comply with such subsection with regard to the preceding reports.”
+Pub. L. 105–85, div. A, title III, §322(d), Nov. 18, 1997, 111 Stat. 1675, provided that until the report under this section for the third quarter of 1998 was submitted, the Secretary of Defense was authorized to omit the information required by subsec. (d) of this section if the Secretary determined that it was impracticable to comply.
 

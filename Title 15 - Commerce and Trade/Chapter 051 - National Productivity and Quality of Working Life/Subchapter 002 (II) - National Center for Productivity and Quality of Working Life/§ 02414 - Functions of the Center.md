@@ -12,7 +12,7 @@ The Center shall—
 
 > &emsp;in efforts to improve the rate of productivity growth in all sectors of the Nation's economy;
 
-&emsp;(3) seek, stimulate, and encourage maximum active participation of the public agencies andprivate organizations identified in clause (2) of this section through identification and encouragement of selected research and demonstration programs implemented by public agencies and qualified private organizations which will—
+&emsp;(3) seek, stimulate, and encourage maximum active participation of the public agencies and private organizations identified in clause (2) of this section through identification and encouragement of selected research and demonstration programs implemented by public agencies and qualified private organizations which will—
 
 &emsp;&emsp;(A) increase the rate of productivity growth in the public and private sectors of the national economy through improved and innovative utilization of technological and human resources; and
 
@@ -32,7 +32,7 @@ The Center shall—
 
 &emsp;(5) recommend to the President, the Congress, the appropriate agencies and departments of the Federal Government, and State and local governments, any legislation, revisions of regulations, policies, practices, and procedures which result from the activities carried out under clause (4) of this section;
 
-&emsp;(6) encourage, support, and initiate efforts in the public or private sector specifically designed to improve cooperation between labor and management in the achievement of continued productivity growth: <i>Provided, however</i>, That no activities of the Center involving consideration of issues included in a specific labor-management agreement shall be undertaken without the consent and cooperation of the parties to that agreement;
+&emsp;(6) encourage, support, and initiate efforts in the public or private sector specifically designed to improve cooperation between laborand management in the achievement of continued productivity growth: <i>Provided, however</i>, That no activities of the Center involving consideration of issues included in a specific labor-management agreement shall be undertaken without the consent and cooperation of the parties to that agreement;
 
 &emsp;(7) encourage departments and agencies of the Federal Government to initiate, stimulate, and support efforts in both the public and private sectors of the United States to improve the rate of productivity growth;
 

@@ -1,6 +1,6 @@
 ### §7086. Physical disability retirement
 
-(a) Each civilian member who has served not less than five years, and who, before reaching the age of 65, becomes totally disabled for useful and efficient service in his position, by reason of disease or injury not due to his own vicious habits, intemperance, or willful misconduct shall, upon his application or upon the request of the Secretary of the Navy, be retired with a life annuity computed under section 7085 of this title.
+(a) Each civilian member who has served not less than five years, and who, before reaching the age of 65, becomes totally disabled for useful and efficient service in his position, by reason of disease or injury not due to his own vicious habits, intemperance, or willful misconduct shall,upon his application or upon the request of the Secretary of the Navy, be retired with a life annuity computed under section 7085 of this title.
 
 (b) The amount that the Secretary shall pay annually under this section is the difference between the total amount to which the retired member is entitled under subsection (a) and the immediate life annuity to which he is entitled at the time of his disability retirement under the annuity policy required by section 7082 of this title.
 
@@ -12,7 +12,7 @@
 
 (f) Each civilian member retired under this section who is reemployed as a civilian member of the teaching staff of the Naval Academy or the Naval Postgraduate School shall, upon his later retirement, be paid annually by the Secretary the difference between the total annual amount computed under section 7085 of this title and the immediate life annuity which the total premiums paid on his annuity contracts would buy.
 
-(g) No person may receive payments from the Secretary of the Navy under this chapter and,for the same period of time, compensation under chapter 81 of title 5.
+(g) No person may receive payments from the Secretary of the Navy under this chapter and, for the same period of time, compensation under chapter 81 of title 5.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 439; Pub. L. 89–718, §40, Nov. 2, 1966, 80 Stat. 1120.)
 

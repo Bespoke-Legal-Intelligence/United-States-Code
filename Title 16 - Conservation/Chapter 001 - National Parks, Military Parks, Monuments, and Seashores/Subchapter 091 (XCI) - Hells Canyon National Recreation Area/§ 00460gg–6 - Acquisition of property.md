@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; manner of acquisition
 
-The Secretary is authorized to acquire such lands or interests in land (including, but notlimited to, scenic easements) as he deems necessary to accomplish the purposes of this subchapter by purchase with donated or appropriated funds with the consent of the owner, donation, or exchange.
+The Secretary is authorized to acquire such lands or interests in land (including, but not limited to, scenic easements) as he deems necessary to accomplish the purposes of this subchapter by purchase with donated or appropriated funds with the consent of the owner, donation, or exchange.
 
 #### (b) Acquisition without consent of owners; limitations; scenic easements
 

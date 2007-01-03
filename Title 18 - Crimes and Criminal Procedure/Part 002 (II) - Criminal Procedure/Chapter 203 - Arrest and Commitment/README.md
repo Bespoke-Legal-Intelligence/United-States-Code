@@ -28,6 +28,7 @@
 | \[3054. | Repealed.\] |
 | [3055\.](%C2%A7%2003055%20-%20Officers%E2%80%99%20powers%20to%20suppress%20Indian%20liquor%20traffic.md) | Officers’ powers to suppress Indian liquor traffic. |
 | [3056\.](%C2%A7%2003056%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service.md) | Powers, authorities, and duties of United States Secret Service. |
+| [3056A.](%C2%A7%2003056A%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service%20Uniformed%20Division.md) | Powers, authorities, and duties of United States Secret Service Uniformed Division. |
 | [3057\.](%C2%A7%2003057%20-%20Bankruptcy%20investigations.md) | Bankruptcy investigations. |
 | [3058\.](%C2%A7%2003058%20-%20Interned%20belligerent%20nationals.md) | Interned belligerent nationals. |
 | 3059\. | Rewards and appropriations therefor.<sup>3</sup> |
@@ -48,7 +49,9 @@
 
 #### Amendments
 
-2006—Pub. L. 109–162, title XI, §1172(a), Jan. 5, 2006, 119 Stat. 3123, added item 3051.
+2006—Pub. L. 109–177, title VI, §605(b), Mar. 9, 2006, 120 Stat. 255, added item 3056A.
+
+Pub. L. 109–162, title XI, §1172(a), Jan. 5, 2006, 119 Stat. 3123, added item 3051.
 
 2005—Pub. L. 109–59, title IV, §4143(c)(2), Aug. 10, 2005, 119 Stat. 1748, added item 3064.
 
@@ -60,9 +63,9 @@
 
 Pub. L. 101–647, title XXV, §2587(b), Nov. 29, 1990, 104 Stat. 4905, as amended, effective as of date section 2587(b) of Pub. L. 101–647 took effect, by Pub. L. 103–322, title XXXIII, §330011(a), Sept. 13, 1994, 108 Stat. 2144, added item 3059A.
 
-1988—Pub. L. 100–582, §4(b), Nov. 1, 1988, 102 Stat. 2959, added item 3063.
+1988—Pub. L. 100–690, title VI, §6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in item 3061.
 
-Pub. L. 100–690, title VI, §6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in item 3061.
+Pub. L. 100–582, §4(b), Nov. 1, 1988, 102 Stat. 2959, added item 3063.
 
 1984—Pub. L. 98–587, §1(b), Oct. 30, 1984, 98 Stat. 3111, substituted “Powers, authorities, and duties of United States Secret Service” for “Secret Service powers” in item 3056.
 
@@ -103,6 +106,7 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 - [&sect; 03054 - Repealed. Pub. L. 97&#8211;79, &sect;9(b)(3), Nov. 16, 1981, 95 Stat. 1079](%C2%A7%2003054%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9379%2C%20%C2%A79%28b%29%283%29%2C%20Nov.%2016%2C%201981%2C%2095%20Stat.%201079.md)
 - [&sect; 03055 - Officers&#8217; powers to suppress Indian liquor traffic](%C2%A7%2003055%20-%20Officers%E2%80%99%20powers%20to%20suppress%20Indian%20liquor%20traffic.md)
 - [&sect; 03056 - Powers, authorities, and duties of United States Secret Service](%C2%A7%2003056%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service.md)
+- [&sect; 03056A - Powers, authorities, and duties of United States Secret Service Uniformed Division](%C2%A7%2003056A%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service%20Uniformed%20Division.md)
 - [&sect; 03057 - Bankruptcy investigations](%C2%A7%2003057%20-%20Bankruptcy%20investigations.md)
 - [&sect; 03058 - Interned belligerent nationals](%C2%A7%2003058%20-%20Interned%20belligerent%20nationals.md)
 - [&sect; 03059 to 3059B - Repealed. Pub. L. 107&#8211;273, div. A, title III, &sect;301(c)(2), Nov. 2, 2002, 116 Stat. 1781](%C2%A7%2003059%20to%203059B%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7301%28c%29%282%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201781.md)

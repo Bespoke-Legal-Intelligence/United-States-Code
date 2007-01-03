@@ -72,7 +72,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A period of creditable coverage shall not be counted, with respect to enrollment of an individual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
+&emsp;&emsp;A period of creditable coverage shall not be counted, with respect to enrollment of anindividual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
 
 #### (B) Waiting period not treated as a break in coverage
 
@@ -272,7 +272,7 @@ Period of coverage.—
 
 &emsp;&emsp;“(i)
 
-In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into accountunder part A of title XXVII of the Public Health Service Act \[this part\] (as added by this section) in determining creditable coverage.
+In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part A of title XXVII of the Public Health Service Act \[this part\] (as added by this section) in determining creditable coverage.
 
 &emsp;&emsp;“(ii)
 

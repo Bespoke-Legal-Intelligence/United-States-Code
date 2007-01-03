@@ -2,7 +2,7 @@
 
 #### (a) “Commodity promotion law” defined
 
-In this section, the term “commodity promotion law” means a Federal law that provides for the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
+In this section, the term “commodity promotion law” means a Federal law that providesfor the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
 
 &emsp;(1) the marketing promotion provisions under section 608c(6)(I) of this title;
 
@@ -74,7 +74,7 @@ Congress finds the following:
 
 #### (c) Independent evaluation of promotion program effectiveness
 
-Except as otherwise provided by law, each commodity board established under the supervision and oversight of the Secretary of Agriculture pursuant to a commodity promotion law shall, not less often than every 5 years, authorize and fund, from funds otherwise available to the board, an independent evaluation of the effectiveness of the generic commodity promotion programs and other programs conducted by the board pursuant to a commodity promotion law. The board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this subsection.
+Except as otherwise provided by law, each commodity board established under the supervision and oversight of the Secretary of Agriculture pursuant to a commodity promotion law shall, not less often than every 5 years, authorize and fund, from funds otherwise available tothe board, an independent evaluation of the effectiveness of the generic commodity promotion programs and other programs conducted by the board pursuant to a commodity promotion law. The board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this subsection.
 
 #### (d) Administrative costs
 
@@ -104,7 +104,7 @@ Public Law 94–294, referred to in subsec. (a)(5), is Pub. L. 94–294, May 28,
 
 Public Law 98–180, referred to in subsec. (a)(6), is Pub. L. 98–180, Nov. 29, 1983, 97 Stat. 1128, as amended. Title I of Pub. L. 98–180 is known as the Dairy Production Stabilization Act of 1983. Subtitle B of title I is classified generally to subchapter I (§4501 et seq.) of chapter 76 of this title. For complete classification of title I to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-Public Law 98–590, referred to in subsec. (a)(7), is Pub. L. 98–590, Oct. 30, 1984, 98 Stat. 3115, as amended, knownas the Honey Research, Promotion, and Consumer Information Act, which is classified generally to chapter 77 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+Public Law 98–590, referred to in subsec. (a)(7), is Pub. L. 98–590, Oct. 30, 1984, 98 Stat. 3115, as amended, known as the Honey Research, Promotion, and Consumer Information Act, which is classified generally to chapter 77 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 Public Law 99–198, referred to in subsec. (a)(8), (9), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended, known as the Food Security Act of 1985. Subtitle B of title XVI of Pub. L. 99–198, known as the Pork Promotion, Research, and Consumer Information Act of 1985, is classified generally to chapter 79 (§4801 et seq.) of this title. Subtitle C of title XVI of Pub. L. 99–198, known as the Watermelon Research and Promotion Act, is classified generally to chapter 80 (§4901 et seq.) of this title. For complete classification of subtitles B and C to the Code, see Short Title notes set out under sections 4801 and 4901, respectively, of this title and Tables.
 
@@ -128,5 +128,5 @@ Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[su
 
 Section 551 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 
-Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
+Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub.L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
 

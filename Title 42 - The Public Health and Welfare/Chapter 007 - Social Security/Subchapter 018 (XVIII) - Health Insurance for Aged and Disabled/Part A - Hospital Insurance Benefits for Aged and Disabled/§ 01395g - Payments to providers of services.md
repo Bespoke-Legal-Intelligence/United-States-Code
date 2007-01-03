@@ -14,7 +14,7 @@ No payment which may be made to a provider of services under this subchapter for
 
 #### (d) Accrual of interest on balance of excess or deficit not paid
 
-Whenever a final determination is made that the amount of payment made under this part to a provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on thebalance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
+Whenever a final determination is made that the amount of payment made under this part to a provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
 
 #### (e) Periodic interim payments
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 97–248, §117(a)(1), added subsec. (d).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: “The amendments made byparagraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004.”
+Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004.”
 
 #### Effective Date of 1997 Amendment
 

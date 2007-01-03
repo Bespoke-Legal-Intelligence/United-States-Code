@@ -30,7 +30,7 @@
 
 (d)(1) Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action to preserve the availability of property described in subsection (a) for forfeiture under this section—
 
-&emsp;(A) upon the filing of an indictment or information charging a violation of section 1962 of this chapter and alleging that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section; or
+&emsp;(A) upon the filing of an indictment or information charging a violation of section 1962 ofthis chapter and alleging that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section; or
 
 &emsp;(B) prior to the filing of such an indictment or information, if, after notice to persons appearing to have an interest in the property and opportunity for a hearing, the court determines that—
 

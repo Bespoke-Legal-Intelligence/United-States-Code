@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programs carried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers, infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
 
-&emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors, for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(<i>l</i>)(1) of this title and, once identified, to assist them in applying for such assistance.
+&emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors,for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(<i>l</i>)(1) of this title and, once identified, to assist them in applying for such assistance.
 
 > The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.
 

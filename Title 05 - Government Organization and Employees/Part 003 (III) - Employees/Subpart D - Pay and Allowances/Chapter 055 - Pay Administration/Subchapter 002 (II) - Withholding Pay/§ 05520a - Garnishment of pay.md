@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) an executive agency, except for the Government Accountability Office;
 
-&emsp;&emsp;(B) the United States Postal Service and the Postal Rate Commission;
+&emsp;&emsp;(B) the United States Postal Service and the Postal Regulatory Commission;
 
 &emsp;&emsp;(C) any agency of the judicial branch of the Government; and
 
@@ -44,7 +44,7 @@
 
 (g) Neither the United States, an agency, nor any disbursing officer shall be liable with respect to any payment made from payments due or payable to an employee pursuant to legal process regular on its face, provided such payment is made in accordance with this section and the regulations issued to carry out this section. In determining the amount of any payment due from, or payable by, an agency to an employee, there shall be excluded those amounts which would be excluded under section 462(g) of the Social Security Act (42 U.S.C. 662(g)).
 
-(h)(1) Subject to the provisions of paragraph (2), if an agency is served under this section with more than one legal process with respect to thesame payments due or payable to an employee, then such payments shall be available, subject to section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673), to satisfy such processes in priority based on the time of service, with any such process being satisfied out of such amounts as remain after satisfaction of all such processes which have been previously served.
+(h)(1) Subject to the provisions of paragraph (2), if an agency is served under this section with more than one legal process with respect to the same payments due or payable to an employee, then such payments shall be available, subject to section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673), to satisfy such processes in priority based on the time of service, with any such process being satisfied out of such amounts as remain after satisfaction of all such processes which have been previously served.
 
 (2) A legal process to which an agency is subject under section 459 of the Social Security Act (42 U.S.C. 659) for the enforcement of the employee's legal obligation to provide child support or make alimony payments, shall have priority over any legal process to which an agency is subject under this section.
 
@@ -58,7 +58,7 @@
 
 &emsp;(C) by the Chief Justice of the United States or his designee for the judicial branch of the Government.
 
-(2) Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
+(2) Such regulations shall provide that an agency's administrative costs in executing agarnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
 
 (k)(1) No later than 180 days after the date of the enactment of this Act, the Secretaries of the Executive departments concerned shall promulgate regulations to carry out the purposes of this section with regard to members of the uniformed services.
 
@@ -68,9 +68,9 @@
 
 &emsp;(B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
-(3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Transportation with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
+(3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
 
-(Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246; Pub. L. 105–85, div. A, title XI, §1105, Nov. 18, 1997, 111 Stat. 1923; Pub. L. 108–189, §2(b)(1), Dec. 19, 2003, 117 Stat. 2865; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246; Pub. L. 105–85, div. A, title XI, §1105, Nov. 18, 1997, 111 Stat. 1923; Pub. L. 108–189, §2(b)(1), Dec. 19, 2003, 117 Stat. 2865; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -79,6 +79,10 @@ The date of the enactment of this Act, referred to in subsec. (k)(1), probably m
 The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
+Subsec. (k)(3). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 2004—Subsec. (a)(1)(A), (D). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -106,11 +110,7 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 #### Effective Date; Savings Provision
 
-Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which chargeswere filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
 
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 

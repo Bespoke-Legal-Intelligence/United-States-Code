@@ -1,6 +1,6 @@
 ### §8432. Contributions
 
-(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
+(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect,be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
 
 (2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
 
@@ -180,7 +180,7 @@
 
 (3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8,1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891.)
 
 #### References in Text
 
@@ -194,7 +194,7 @@ Section 204 of the Federal Employees’ Retirement Contribution Temporary Adjust
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–469, §1(b), designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
+2004—Subsec. (b)(1)(A). Pub. L. 108–469, §1(b), designated existing provisions as cl. (i), substituted “may”for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
 
 Subsec. (b)(2)(A), (C). Pub. L. 108–469, §1(d)(2)(A), (B), substituted “until the date” for “until the second period”.
 

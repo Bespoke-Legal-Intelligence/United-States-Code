@@ -50,7 +50,3 @@ Section 3706(d) requires existing product carriers of 20,000 deadweight tons or 
 
 Section 3706(e) requires existing product carriers of 40,000 deadweight tons or above, or to existing product carriers, fitted with high-capacity tank washing machines, of 20,000 deadweight tons but less than 40,000 deadweight tons, to install an inert gas system.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3709 of this title; section 1185 of Appendix to this title.
-

@@ -16,7 +16,7 @@ In this part:
 
 &emsp;&emsp;(A) with respect to drugs, prevention, early intervention, rehabilitation referral, or education related to the illegal use of drugs;
 
-&emsp;&emsp;(B) with respect to violence, the promotion of school safety, such that students and school personnel are free from violent and disruptive acts, including sexual harassment and abuse, and victimization associated with prejudice and intolerance, on school premises, going to and from school, and at school-sponsored activities, through the creation and maintenance of a school environment that is free of weapons and fosters individualresponsibility and respect for the rights of others.
+&emsp;&emsp;(B) with respect to violence, the promotion of school safety, such that students and school personnel are free from violent and disruptive acts, including sexual harassment and abuse, and victimization associated with prejudice and intolerance, on school premises, going to and from school, and at school-sponsored activities, through the creation and maintenance of a school environment that is free of weapons and fosters individual responsibility and respect for the rights of others.
 
 #### (4) Hate crime
 

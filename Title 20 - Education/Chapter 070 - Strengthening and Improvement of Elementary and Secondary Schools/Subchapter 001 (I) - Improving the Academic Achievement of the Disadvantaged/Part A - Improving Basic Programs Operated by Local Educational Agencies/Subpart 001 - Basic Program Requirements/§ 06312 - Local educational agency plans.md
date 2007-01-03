@@ -4,7 +4,7 @@
 
 #### (1) Subgrants
 
-&emsp;A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\], the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], and other Acts, as appropriate.
+&emsp;A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], and other Acts, as appropriate.
 
 #### (2) Consolidated application
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(C) a description of how the local educational agency will provide additional educational assistance to individual students assessed as needing help in meeting the State's challenging student academic achievement standards;
 
-&emsp;&emsp;(D) a description of the strategy the local educational agency will use to coordinate programs under this part with programs under subchapter II of this chapter to provide professional development for teachers and principals, and, if appropriate, pupil services personnel, administrators, parents and other staff, including local educational agency level staff in accordance with sections 6318 and 6319 of this title;
+&emsp;&emsp;(D) a description of the strategy the local educational agency will use to coordinate programs under this part with programs under subchapter II of this chapter to provide professional development for teachersand principals, and, if appropriate, pupil services personnel, administrators, parents and other staff, including local educational agency level staff in accordance with sections 6318 and 6319 of this title;
 
 &emsp;&emsp;(E) a description of how the local educational agency will coordinate and integrate services provided under this part with other educational services at the local educational agency or individual school level, such as—
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) services for children with limited English proficiency, children with disabilities, migratory children, neglected or delinquent youth, Indian children served under part A of subchapter VII of this chapter, homeless children, and immigrant children in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
 
-&emsp;&emsp;(F) an assurance that the local educational agency will participate, if selected, in the State National Assessment of EducationalProgress in 4th and 8th grade reading and mathematics carried out under section 9622(b)(2) of this title;
+&emsp;&emsp;(F) an assurance that the local educational agency will participate, if selected, in the State National Assessment of Educational Progress in 4th and 8th grade reading and mathematics carried out under section 9622(b)(2) of this title;
 
 &emsp;&emsp;(G) a description of the poverty criteria that will be used to select school attendance areas under section 6313 of this title;
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(C) work in consultation with schools as the schools develop the schools’ plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section 6315 of this title so that each school can make adequate yearly progress toward meeting the State student academic achievement standards;
 
-&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 of this title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
+&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 ofthis title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
 
 &emsp;&emsp;(E) provide services to eligible children attending private elementary schools and secondary schools in accordance with section 6320 of this title, and timely and meaningful consultation with private school officials regarding such services;
 
@@ -140,7 +140,7 @@
 
 #### (2) Approval
 
-&emsp;The State educational agency shall approve a local educational agency's plan only if the State educational agency determines that the local educational agency's plan—
+&emsp;The State educational agency shall approve a local educational agency's plan only if theState educational agency determines that the local educational agency's plan—
 
 &emsp;&emsp;(A) enables schools served under this part to substantially help children served under this part meet the academic standards expected of all children described in section 6311(b)(1) of this title; and
 
@@ -160,7 +160,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 #### (A) Notice
 
-&emsp;&emsp;Each local educational agency using funds under this part to provide a language instruction educational program as determined in part C of subchapter III of thischapter shall, not later than 30 days after the beginning of the school year, inform a parent or parents of a limited English proficient child identified for participation or participating in, such a program of—
+&emsp;&emsp;Each local educational agency using funds under this part to provide a language instruction educational program as determined in part C of subchapter III of this chapter shall, not later than 30 days after the beginning of the school year, inform a parent or parents of a limited English proficient child identified for participation or participating in, such a program of—
 
 &emsp;&emsp;&emsp;(i) the reasons for the identification of their child as limited English proficient and in need of placement in a language instruction educational program;
 
@@ -188,7 +188,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 #### (B) Separate notification
 
-&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for any fiscal year for which part A <sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
+&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for any fiscal year for which part A<sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
 
 #### (2) Notice
 
@@ -206,15 +206,15 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 &emsp;A student shall not be admitted to, or excluded from, any federally assisted education program on the basis of a surname or language-minority status.
 
-(Pub. L. 89–10, title I, §1112, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1462; amended Pub. L. 107–279, title IV, §404(d)(2), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 89–10, title I, §1112, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1462; amended Pub. L. 107–279, title IV, §404(d)(2), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 109–270, §2(f)(2), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (a)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987,101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Education Flexibility Partnership Act of 1999, referred to in subsec. (c)(1)(J), is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41, as amended, which enacted sections 5891a and 5891b of this title, amended section 1415 of this title, and enacted provisions set out as notes under sections 1415 and 5891a of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 5801 of this title and Tables.
 
@@ -223,6 +223,8 @@ The Education Flexibility Partnership Act of 1999, referred to in subsec. (c)(1)
 A prior section 6312, Pub. L. 89–10, title I, §1112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3529, related to local educational agency plans, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
 2002—Subsec. (b)(1)(F). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
 

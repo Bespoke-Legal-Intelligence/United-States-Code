@@ -10,7 +10,7 @@ For purposes of sections 58a–1 to 58a–3 of this title, telephone equipment a
 
 #### (c) Establishment of reasonable charges
 
-Subject to the approval of the Committee on Rules and Administration, the Sergeant at Arms may establish reasonable charges for telephone equipment and services provided to any user which may be in addition to that regularly authorized by the Committee.
+Subject to the approval of the Committee on Rules and Administration, the Sergeant at Armsmay establish reasonable charges for telephone equipment and services provided to any user which may be in addition to that regularly authorized by the Committee.
 
 #### (d) Disposition of moneys received
 

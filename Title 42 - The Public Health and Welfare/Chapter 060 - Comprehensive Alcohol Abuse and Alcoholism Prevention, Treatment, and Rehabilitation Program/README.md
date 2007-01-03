@@ -39,9 +39,6 @@
 | :--- | ---: |
 | [4576\.](Subchapter%20003%20%28III%29%20-%20Technical%20Assistance%20and%20Federal%20Grants%20and%20Contracts/Part%20B%20-%20Implementation%20and%20Project%20Grants%20and%20Contracts/%C2%A7%2004576%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20IX%2C%20%C2%A7962%28b%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20593.md) | Repealed. |
 | [4577\.](Subchapter%20003%20%28III%29%20-%20Technical%20Assistance%20and%20Federal%20Grants%20and%20Contracts/Part%20B%20-%20Implementation%20and%20Project%20Grants%20and%20Contracts/%C2%A7%2004577%20-%20Grants%20and%20contracts%20for%20demonstration%20of%20new%20and%20more%20effective%20drug%20and%20alcohol%20abuse%20prevention%2C%20treatment%2C%20and%20rehabilitation%20programs.md) | Grants and contracts for demonstration of new and more effective drug and alcohol abuse prevention, treatment, and rehabilitation programs. |
-| (a) | Projects and programs. |
-| (b) | Community participation. |
-| (c) | Application, coordination of applications in State, evaluation of projects and programs; review and recommendation by Council; criteria for approval; special consideration for underserved populations; authorization from chief executive officer required; maximum amount and duration of grants; applicant to provide proposed performance standards; drug abuse programs included. |
 | [4578\.](Subchapter%20003%20%28III%29%20-%20Technical%20Assistance%20and%20Federal%20Grants%20and%20Contracts/Part%20B%20-%20Implementation%20and%20Project%20Grants%20and%20Contracts/%C2%A7%2004578%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

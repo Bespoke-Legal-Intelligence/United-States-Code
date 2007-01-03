@@ -58,7 +58,7 @@ For purposes of any amount of funds appropriated to carry out this section for f
 
 #### (f) Report
 
-The Secretary shall submit to the Congress before the end of each fiscal year a report on the grants awarded and the contracts entered into under this section. Each such report shall identify the overall number of such grants and contracts and provide an explanation of why each such grant or contract will meet the priority need of the nursing workforce.
+The Secretary shall submit to the Congress before the end of each fiscal year a report on the grants awarded and the contracts entered into under this section. Each such report shall identify the overall number of such grants and contracts and provide an explanation of why eachsuch grant or contract will meet the priority need of the nursing workforce.
 
 #### (g) Eligible entity
 

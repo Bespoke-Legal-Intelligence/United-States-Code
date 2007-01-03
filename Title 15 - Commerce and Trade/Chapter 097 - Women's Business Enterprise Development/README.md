@@ -4,39 +4,14 @@
 | :--- | ---: |
 | [7101\.](%C2%A7%2007101%20-%20Establishment%20of%20the%20Interagency%20Committee.md) | Establishment of the Interagency Committee. |
 | [7102\.](%C2%A7%2007102%20-%20Duties%20of%20the%20Interagency%20Committee.md) | Duties of the Interagency Committee. |
-| (a) | In general. |
-| (b) | Meetings. |
-| (c) | Interaction with Council. |
 | [7103\.](%C2%A7%2007103%20-%20Membership%20of%20the%20Interagency%20Committee.md) | Membership of the Interagency Committee. |
-| (a) | In general. |
-| (b) | Appointment of chairperson. |
-| (c) | Noncompensation. |
-| (d) | Detail of Federal employees. |
 | [7104\.](%C2%A7%2007104%20-%20Reports%20from%20the%20Interagency%20Committee.md) | Reports from the Interagency Committee. |
 | [7105\.](%C2%A7%2007105%20-%20Establishment%20of%20the%20National%20Women%27s%20Business%20Council.md) | Establishment of the National Women's Business Council. |
 | [7106\.](%C2%A7%2007106%20-%20Duties%20of%20the%20Council.md) | Duties of the Council. |
-| (a) | In general. |
-| (b) | Meetings. |
-| (c) | Recommendations. |
-| (d) | Other duties. |
-| (e) | Form of transmittal. |
 | [7107\.](%C2%A7%2007107%20-%20Membership%20of%20the%20Council.md) | Membership of the Council. |
-| (a) | Chairperson. |
-| (b) | Other members. |
-| (c) | Diversity. |
-| (d) | Terms. |
-| (e) | Other Federal service. |
-| (f) | Vacancies. |
-| (g) | Reimbursements. |
-| (h) | Executive director. |
-| (i) | Rates of pay. |
 | [7108\.](%C2%A7%2007108%20-%20Definitions.md) | Definitions. |
 | [7109\.](%C2%A7%2007109%20-%20Studies%20and%20other%20research.md) | Studies and other research. |
-| (a) | In general. |
-| (b) | Contract authority. |
 | [7110\.](%C2%A7%2007110%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Budget review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

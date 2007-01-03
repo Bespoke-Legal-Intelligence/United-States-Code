@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shall not apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
 
-&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
+&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determinedwithout regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
 
 &emsp;(2) any individual who—
 
@@ -128,7 +128,7 @@
 
 &emsp;(A) to any individual who—
 
-&emsp;&emsp;(i) if subparagraphs (A) and (C) of paragraph (10) of section 8901 were disregarded,would be eligible to be considered a former spouse within the meaning of such paragraph; but
+&emsp;&emsp;(i) if subparagraphs (A) and (C) of paragraph (10) of section 8901 were disregarded, would be eligible to be considered a former spouse within the meaning of such paragraph; but
 
 &emsp;&emsp;(ii) would not, but for this subsection, be eligible to be so considered; and
 
@@ -142,7 +142,7 @@
 
 &emsp;(C) provisions relating to the termination of continued coverage, except that continued coverage under this section may not (subject to paragraph (3)) extend beyond the date which is 36 months after the date on which the qualifying event under this subsection (the date of divorce, annulment, or legal separation, as the case may be) occurs; and
 
-&emsp;(D) provisions designed to ensure that any coverage pursuant to this subsection does not adversely affect any eligibility for coverage which the individual involved might otherwise have under this chapter (including as a result of any change in personal circumstances) if this subsection had not been enacted.
+&emsp;(D) provisions designed to ensure that any coverage pursuant to this subsection does not adversely affect any eligibility for coverage which the individual involved might otherwisehave under this chapter (including as a result of any change in personal circumstances) if this subsection had not been enacted.
 
 (3) In the case of an individual—
 

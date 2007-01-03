@@ -10,7 +10,7 @@ The responsible persons shall attempt to correct the deficiencies as soon as pra
 
 #### (c) Review
 
-If the corrective action is not fully implemented not later than 1 year after the responsible persons receive the information, the Secretary may conduct a review of the status of compliance of the persons with the conservation plan and this subchapter.
+If the corrective action is not fully implemented not later than 1 year after the responsible persons receive the information, the Secretary may conduct a review of the status ofcompliance of the persons with the conservation plan and this subchapter.
 
 (Pub. L. 99–198, title XII, §1215, as added Pub. L. 104–127, title III, §316, Apr. 4, 1996, 110 Stat. 985.)
 

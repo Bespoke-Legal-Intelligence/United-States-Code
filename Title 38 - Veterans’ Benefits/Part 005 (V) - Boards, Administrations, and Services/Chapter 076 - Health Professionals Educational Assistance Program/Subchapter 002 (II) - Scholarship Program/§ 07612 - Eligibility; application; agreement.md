@@ -1,6 +1,6 @@
 ### §7612. Eligibility; application; agreement
 
-(a)(1) Except as provided in paragraph (2) of this subsection, an individual must be acceptedfor enrollment or be enrolled (as described in section 7602 of this title) as a full-time student to be eligible to participate in the Scholarship Program.
+(a)(1) Except as provided in paragraph (2) of this subsection, an individual must be accepted for enrollment or be enrolled (as described in section 7602 of this title) as a full-time student to be eligible to participate in the Scholarship Program.
 
 (2) An individual who is an eligible Department employee may be accepted as a participant if accepted for enrollment or enrolled (as described in section 7602 of this title) for study on less than a full-time but not less than a half-time basis. (Such a participant is hereinafter in this subchapter referred to as a “part-time student”.)
 
@@ -16,7 +16,7 @@
 
 (3) The Secretary may designate additional fields of education or training as qualifying fields of education or training if the education or training leads to employment in a position which would qualify the individual for increased basic pay under subsection (a)(1) of section 7455 of this title for personnel described in subsection (a)(2)(B) of such section.
 
-(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify the Committees on Veterans’ Affairs of the Senate and House of Representatives of the Secretary's intent to award a scholarship in such course of education or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education or training is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
+(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify the Committees on Veterans’ Affairs of the Senate and House of Representatives of the Secretary's intent to award a scholarship in such course of education or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education ortraining is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
 
 (5) In selecting applicants for the Scholarship Program, the Secretary—
 

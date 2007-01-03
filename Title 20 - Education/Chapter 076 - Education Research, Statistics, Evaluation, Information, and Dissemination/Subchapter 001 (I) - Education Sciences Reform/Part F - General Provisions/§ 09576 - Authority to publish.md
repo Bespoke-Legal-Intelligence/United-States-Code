@@ -6,7 +6,7 @@ The Director may prepare and publish (including through oral presentation) such 
 
 #### (b) Advance copies
 
-The Director shall provide the Secretary and other relevant offices with an advance copy ofany information to be published under this section before publication.
+The Director shall provide the Secretary and other relevant offices with an advance copy of any information to be published under this section before publication.
 
 #### (c) Peer review
 

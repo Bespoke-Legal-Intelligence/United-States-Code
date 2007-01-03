@@ -12,9 +12,29 @@ If the funds appropriated to carry out this part in a fiscal year subsequent to 
 
 &emsp;(2) an amount the Assistant Secretary considers to be sufficient if the tribal organization did not receive a grant under this part for either fiscal year 1980 or fiscal year 1991.
 
-(Pub. L. 89–73, title VI, §614A, as added Pub. L. 102–375, title VI, §602, Sept. 30, 1992, 106 Stat. 1270; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+#### (c) Clarification
+
+#### (1) Definition
+
+&emsp;In this subsection, the term “covered year” means fiscal year 2006 or a subsequent fiscal year.
+
+#### (2) Consortia of tribal organizations
+
+&emsp;If a tribal organization received a grant under this part for fiscal year 1991 as part of a consortium, the Assistant Secretary shall consider the tribal organization to have received a grant under this part for fiscal year 1991 for purposes of subsections (a) and (b), and shall apply the provisions of subsections (a) and (b)(1) (under the conditions described in subsection (b)) to the tribal organization for each covered year for which the tribal organization submits an application under this part, even if the tribal organization submits—
+
+&emsp;&emsp;(A) a separate application from the remaining members of the consortium; or
+
+&emsp;&emsp;(B) an application as 1 of the remaining members of the consortium.
+
+(Pub. L. 89–73, title VI, §614A, as added Pub. L. 102–375, title VI, §602, Sept. 30, 1992, 106 Stat. 1270; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 109–365, title VI, §601(a), Oct. 17, 2006, 120 Stat. 2590.)
 
 #### Amendments
 
+2006—Subsec. (c). Pub. L. 109–365 added subsec. (c).
+
 1993—Subsec. (b). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in pars. (1) and (2).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–365, title VI, §601(b), Oct. 17, 2006, 120 Stat. 2590, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to grants awarded under part A of title VI of the Older Americans Act of 1965 (42 U.S.C. 3057b et seq.) during the grant period beginning April 1, 2008, and all subsequent grant periods.”
 

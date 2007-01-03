@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with the Task Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
+&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with theTask Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
 
 #### (2) Content of regulations
 
@@ -214,7 +214,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (3) Revocation of clearance
 
-&emsp;Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by section 91 of title 46, Appendix, if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
+&emsp;Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by section 60105 of title 46, if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
 
 #### (4) Exception to sanctions
 
@@ -234,7 +234,7 @@ In developing the guidelines issued and regulations promulgated under this secti
 
 #### (j) International cooperation
 
-The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implementan effective international program for preventing the unintentional introduction and spread of nonindigenous species.
+The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
 
 #### (k) Safety exemption
 
@@ -271,6 +271,8 @@ The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (
 This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (<i>l</i>), was in the original “this Act” or “the Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
 #### Codification
+
+In subsec. (g)(3), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 October 26, 1996, referred to in subsec. (k)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–332, which amended this section generally, to reflect the probable intent of Congress.
 

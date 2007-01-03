@@ -4,15 +4,8 @@
 | :--- | ---: |
 | [2001\.](%C2%A7%2002001%20-%20Findings.md) | Findings. |
 | [2002\.](%C2%A7%2002002%20-%20Reports.md) | Reports. |
-| (a) | Submission. |
-| (b) | Contents. |
 | [2003\.](%C2%A7%2002003%20-%20Conference.md) | Conference. |
-| (a) | Meeting. |
-| (b) | Participants. |
-| (c) | Written comments. |
 | [2004\.](%C2%A7%2002004%20-%20Administrative%20matters.md) | Administrative matters. |
-| (a) | Administrative support. |
-| (b) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

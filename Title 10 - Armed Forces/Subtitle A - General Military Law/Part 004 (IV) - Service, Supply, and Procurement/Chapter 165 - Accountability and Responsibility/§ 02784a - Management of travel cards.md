@@ -4,7 +4,7 @@
 
 Disbursement of Travel Allowances Directly to Creditors.—(1) The Secretary of Defense shall require that any part of a travel or transportation allowance of an employee of the Department of Defense or a member of the armed forces be disbursed directly to the issuer of a Defense travel card if the amount is disbursed to the issuer in payment of amounts of expenses of official travel that are charged by the employee or member on the Defense travel card.
 
-(2) The Secretary of Defense may waive the requirement for a direct payment to a travel care <sup>1</sup> issuer under paragraph (1) in any case the Secretary determines appropriate.
+(2) The Secretary of Defense may waive the requirement for a direct payment to a travel card issuer under paragraph (1) in any case the Secretary determines appropriate.
 
 (3) For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under section 5702 of title 5 or a member of the armed forces is entitled under section 404 of title 37.
 
@@ -24,7 +24,7 @@ Offsets for Delinquent Travel Card Charges.—(1) The Secretary of Defense may r
 
 (c)
 
-Offsets of Retired Pay.—In the case of a former employee of the Department of Defense or a retired member of the armed forces who is receiving retired pay and who owes an amount to a creditor by reason of one or more charges on a Defense travel card that were made before the retirement of the employee or member, the Secretary may require amounts to be deducted and withheld from any retired pay of the former employee or retired member in the same manner and subject to the same conditions as the Secretary deducts and withholds amounts from basic pay payable to an employee or member under subsection (b).
+Offsets of Retired Pay.—In the case of a former employee of the Department of Defense or a retired member of the armed forces who is receiving retired pay and who owes an amount to a creditor by reason of one or more charges on a Defense travel card that were made before the retirement of the employee or member, the Secretary may require amounts to be deducted and withheld from any retired pay of the formeremployee or retired member in the same manner and subject to the same conditions as the Secretary deducts and withholds amounts from basic pay payable to an employee or member under subsection (b).
 
 (d)
 
@@ -64,9 +64,11 @@ Definitions.—In this section:
 
 Exclusion of Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588.)
+(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, §1071(a)(25), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### Amendments
+
+2006—Subsec. (a)(2). Pub. L. 109–364 substituted “card” for “care”.
 
 2003—Subsec. (a)(1). Pub. L. 108–136, §1009(a)(1), substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
 
@@ -77,6 +79,4 @@ Subsecs. (d) to (g). Pub. L. 108–136, §1009(b), (c)(1), added subsecs. (d) an
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “card”.</i>
 

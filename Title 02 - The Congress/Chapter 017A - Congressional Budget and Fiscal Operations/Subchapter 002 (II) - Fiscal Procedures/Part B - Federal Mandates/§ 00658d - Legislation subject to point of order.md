@@ -8,7 +8,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;(2) any bill, joint resolution, amendment, motion, or conference report that would increase the direct costs of Federal intergovernmental mandates by an amount that causes the thresholds specified in section 658c(a)(1) of this title to be exceeded, unless—
 
-&emsp;&emsp;(A) the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or direct spending authority in the Senate for each fiscal year for such mandates included in thebill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
+&emsp;&emsp;(A) the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or direct spending authority in the Senate for each fiscal year for such mandates included in the bill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
 
 &emsp;&emsp;(B) the bill, joint resolution, amendment, motion, or conference report includes an authorization for appropriations in an amount equal to or exceeding the direct costs of such mandate, and—
 

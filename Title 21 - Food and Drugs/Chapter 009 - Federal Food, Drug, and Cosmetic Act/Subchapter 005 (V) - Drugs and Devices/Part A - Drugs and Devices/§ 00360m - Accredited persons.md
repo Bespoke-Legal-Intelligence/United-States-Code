@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accredited person shall notify the Secretary in writing of the reasons for the recommendation.
+&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accreditedperson shall notify the Secretary in writing of the reasons for the recommendation.
 
 #### (B) Time period for review
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretaryshall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
+&emsp;&emsp;Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
 
 #### (B) Withdrawal of accreditation
 
@@ -162,5 +162,5 @@ Evaluation of program.—Not later than 6 months prior to the date on which, pur
 
 “(2)
 
-Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class II devices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
+Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee onCommerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class II devices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
 

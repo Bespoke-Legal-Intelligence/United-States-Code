@@ -72,7 +72,7 @@ In subsection (b), the words “if any” are substituted for words “of the se
 
 #### Amendments
 
-2000—Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(a)\], struck out “and the recommendation forwhose appointment or promotion was approved by the Secretary concerned” after “commissioned grade”.
+2000—Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(a)\], struck out “and the recommendation for whose appointment or promotion was approved by the Secretary concerned” after “commissioned grade”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(b)\], substituted “official recommendation” for “approval” in two places.
 

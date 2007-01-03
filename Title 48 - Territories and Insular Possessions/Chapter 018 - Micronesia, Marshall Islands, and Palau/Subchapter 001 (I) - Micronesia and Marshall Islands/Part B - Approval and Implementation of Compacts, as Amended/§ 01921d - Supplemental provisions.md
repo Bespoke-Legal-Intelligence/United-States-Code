@@ -22,7 +22,7 @@ Interagency group on freely associated states’ affairs.—
 
 &emsp;(A)
 
-In general.—The President is hereby authorized to appoint an Interagency Group on Freely Associated States’ Affairs to provide policy guidance and recommendations on implementation of the U.S.-FSM Compact and the U.S.-RMI Compact to Federal departments and agencies.
+In general.—The President is hereby authorized to appoint an Interagency Group on Freely Associated States’ Affairs to providepolicy guidance and recommendations on implementation of the U.S.-FSM Compact and the U.S.-RMI Compact to Federal departments and agencies.
 
 &emsp;(B)
 
@@ -106,7 +106,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;&emsp;“Paragraph (a)(6) of section 221 of the U.S.-FSM Compact and paragraph (a)(5) of section 221 of the U.S.-RMI Compact shall each be construed and applied as if each provision reads as follows:
 
-&emsp;&emsp;&emsp;“The U.S. Agency for International Development shall be responsible for the provision of emergency and disaster relief assistance in accordance with its statutory authorities, regulations and policies. The Republic of the Marshall Islands and the Federated States of Micronesia may additionally request that the President make an emergency or major disaster declaration. If the President declares an emergency or major disaster, the Department of Homeland Security (DHS), the Federal Emergency Management Agency (FEMA) and the U.S. Agency for International Development shall jointly (a) assess the damage caused by the emergency or disaster and (b) prepare a reconstruction plan including an estimate of the total amount of Federal resources that are needed for reconstruction. Pursuant to an interagency agreement, FEMA shall transfer funds from the Disaster Relief Fund in the amount of the estimate, together with an amount to be determined for administrative expenses, to the U.S. Agency for International Development, which shall carry out reconstruction activities in the Republic of the Marshall Islands and the Federated States of Micronesia in accordance with the reconstruction plan. For purposes of Disaster Relief Fund appropriations, the funding of the activities to be carried out pursuant to this paragraph shall be deemed to be necessary expenses in carrying out the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+&emsp;&emsp;&emsp;“The U.S. Agency for International Development shall be responsible for the provision of emergency and disaster relief assistance in accordance with its statutory authorities, regulations and policies. The Republic of the Marshall Islands and the Federated States of Micronesia may additionally request that the President make an emergency or major disaster declaration. If the President declares an emergency or major disaster, the Department of Homeland Security (DHS), the Federal Emergency Management Agency (FEMA) and the U.S. Agency for International Development shall jointly (a) assess the damage caused by the emergency or disaster and (b) prepare a reconstruction plan including an estimate of the total amount ofFederal resources that are needed for reconstruction. Pursuant to an interagency agreement, FEMA shall transfer funds from the Disaster Relief Fund in the amount of the estimate, together with an amount to be determined for administrative expenses, to the U.S. Agency for International Development, which shall carry out reconstruction activities in the Republic of the Marshall Islands and the Federated States of Micronesia in accordance with the reconstruction plan. For purposes of Disaster Relief Fund appropriations, the funding of the activities to be carried out pursuant to this paragraph shall be deemed to be necessary expenses in carrying out the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 &emsp;&emsp;&emsp;“DHS may provide to the Republic of the Marshall Islands and the Federated States of Micronesia preparedness grants to the extent that such assistance is available to the States of the United States. Funding for this assistance may be made available from appropriations made to DHS for preparedness activities.”.
 
@@ -126,7 +126,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iii) Supplemental education grants
 
-&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known as the Adult Education and Family Literacy Act), title I of the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
+&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known as the Adult Education and Family Literacy Act), title I of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
 
 &emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
 
@@ -140,7 +140,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (v) Formula education grants
 
-&emsp;&emsp;&emsp;For fiscal years 2005 through 2023, except as provided in clause (ii) and the exception provided under clause (iii), the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands shall not receive any grant under any formula-grant program administered by the Secretary of Education or the Secretary of Labor, nor any grant provided through the Head Start Act (42 U.S.C. 9831 et seq.) administered by the Secretary of Health and Human Services.
+&emsp;&emsp;&emsp;For fiscal years 2005 through 2023, except as provided in clause (ii) and the exceptionprovided under clause (iii), the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands shall not receive any grant under any formula-grant program administered by the Secretary of Education or the Secretary of Labor, nor any grant provided through the Head Start Act (42 U.S.C. 9831 et seq.) administered by the Secretary of Health and Human Services.
 
 #### (vi) Transition
 
@@ -218,7 +218,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (1) In general
 
-&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the TrustFund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
+&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the Trust Fund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
 
 #### (2) Method of establishment
 
@@ -230,13 +230,13 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (3) Obligations
 
-&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume any obligations of an existing legal entity and take assignment of any contract or other agreement to which the existing legal entity is party.
+&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume any obligations of an existing legal entity andtake assignment of any contract or other agreement to which the existing legal entity is party.
 
 #### (4) Assistance
 
 &emsp;Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744.)
+(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(<i>l</i>), Aug. 12, 2006, 120 Stat. 749.)
 
 #### References in Text
 
@@ -258,9 +258,17 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1
 
 The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Subtitle C of title I of the Act is classified generally to subchapter III (§2881 et seq.) of chapter 30 of Title 29. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended. Title I of the Act is classified generally to subchapter I (§2321 et seq.) of chapter 44 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683. Title I of the Act is classified generally to subchapter I (§2321 et seq.) of chapter 44 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Head Start Act, referred to in subsec. (f)(1)(B)(iii), (v), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (j), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+
+#### Amendments
+
+2006—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+
+#### Transfer of Functions
+
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

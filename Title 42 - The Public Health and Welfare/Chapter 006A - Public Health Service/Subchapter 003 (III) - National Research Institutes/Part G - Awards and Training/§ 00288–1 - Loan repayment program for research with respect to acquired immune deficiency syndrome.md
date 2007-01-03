@@ -6,21 +6,23 @@ The Secretary shall carry out a program of entering into agreements with appropr
 
 #### (b) Applicability of certain provisions
 
-With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter, the provisions of such subpart shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection (a) of this section in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program established in such subpart.
+With respect to the National Health Service Corps Loan Repayment Program established insubpart III of part D of subchapter II of this chapter, the provisions of such subpart shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection (a) of this section in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program established in such subpart.
 
-#### (c) Authorization of appropriations
-
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 2001.
-
-(July 1, 1944, ch. 373, title IV, §487A, as added Pub. L. 100–607, title VI, §634(a), Nov. 4, 1988, 102 Stat. 3148; amended Pub. L. 103–43, title XVI, §1611(a), June 10, 1993, 107 Stat. 181; Pub. L. 105–392, title IV, §410(a), Nov. 13, 1998, 112 Stat. 3589.)
+(July 1, 1944, ch. 373, title IV, §487A, as added Pub. L. 100–607, title VI, §634(a), Nov. 4, 1988, 102 Stat. 3148; amended Pub. L. 103–43, title XVI, §1611(a), June 10, 1993, 107 Stat. 181; Pub. L. 105–392, title IV, §410(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 109–482, title I, §103(b)(48), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 2001.”
 
 1998—Subsec. (a). Pub. L. 105–392, §410(a)(1), substituted “$35,000” for “$20,000”.
 
 Subsec. (c). Pub. L. 105–392, §410(a)(2), substituted “2001” for “1996”.
 
 1993—Pub. L. 103–43 amended section generally, in subsec. (a) redesignating former par. (1) as entire subsec., striking out provisions setting a deadline for implementation of the program and former par. (2) containing a limitation that the health professional have a substantial amount of educational loans relative to income and not have been employed at the National Institutes of Health during the 1-year period preceding Nov. 4, 1988, reenacting subsec. (b) without change, and in subsec. (c) redesignating former par. (1) as entire subsec., substituting authorization of appropriations for fiscal years 1994 through 1996 for authorization of appropriations for fiscal years 1989 through 1991, and striking out former par. (2) relating to continued availability of appropriated amounts.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1993 Amendment
 

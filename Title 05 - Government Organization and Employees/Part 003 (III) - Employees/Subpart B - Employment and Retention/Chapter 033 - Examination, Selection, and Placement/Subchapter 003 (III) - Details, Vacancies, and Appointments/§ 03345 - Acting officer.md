@@ -70,7 +70,7 @@ Immediate application of time limitation.—Notwithstanding subparagraph (A), fo
 
 &emsp;“(C)
 
-Certain nominations.—If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section).”
+Certain nominations.—If the President submits to the Senate the nomination of any personafter the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section).”
 
 #### Order of Succession Within Department of Homeland Security
 
@@ -152,7 +152,7 @@ Section 1. <i>Succession To Act as the Secretary of the Army.</i>
 
 &emsp;(3) The Chief of Staff of the Army.
 
-(b) In the event of the absence or temporary disability of the Secretary of the Army, the incumbents holding the Department of the Army positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Army.
+(b) In the event of the absence or temporary disability of the Secretary of the Army, the incumbents holding the Department of the Army positions designated in paragraph (a) of this section, in the order indicated,shall act for and exercise the powers of the Secretary of the Army.
 
 &emsp;(1) The designation of an Acting Secretary of the Army under this subsection applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of the Secretary's office.
 
@@ -622,7 +622,7 @@ Ex. Ord. No. 13370, Jan. 13, 2005, 70 F.R. 3137, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America and pursuant to the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
 
-Section 1. During any period when the Director of the Office of Management and Budget (Director) and the Deputy Director of the Office of Management and Budget (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers of the Office of Management and Budget, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Director:
+Section 1. During any period when the Director of the Office of Management and Budget (Director) and the Deputy Director of the Office of Management and Budget (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and dutiesof the office of Director, the following officers of the Office of Management and Budget, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Director:
 
 &emsp;Deputy Director for Management;
 
@@ -702,41 +702,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation of Officers of the Federal Emergency Management Agency To Act as Director of the Federal Emergency Management Agency
 
-Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, provided:
-
-Memorandum for the Director of the Federal Emergency Management Agency
-
-By the authority vested in me as President under the Constitution and laws of the United States of America and pursuant to the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., I hereby order that:
-
-Section 1. <i>Order of Succession.</i>
-
-During any period when both the Director of the Federal Emergency Management Agency (Director) and the Deputy Director of the Federal Emergency Management Agency (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers of the Federal Emergency Management Agency, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as the Director or Deputy Director is able to perform the functions and duties of the office of Director:
-
-Administrator of the United States Fire Administration;
-
-Administrator of the Federal Insurance and Mitigation Administration;
-
-Assistant Director, Administration and Resource Planning Directorate; and
-
-Regional Director, Region IV.
-
-Section 2. <i>Exceptions.</i>
-
-(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Director pursuant to this memorandum.
-
-(b) Not withstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345–3349d, to depart from this order in designating an acting Director.
-
-Section 3. <i>Termination.</i>
-
-This memorandum shall terminate immediately upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
-
-Section 4. <i>Publication.</i>
-
-The Director is authorized and directed to publish this memorandum in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, which provided for an order of succession within the Federal Emergency Management Agency, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
 
 #### Designation of Officers of the Department of Veterans Affairs To Act as Secretary of Veterans Affairs
 
@@ -814,7 +780,7 @@ Sec. 2. <i>Exceptions.</i>
 
 Sec. 3. <i>Prior Memorandum Superceded.</i>
 
-This memorandum supercedes the Presidential Memorandum of March 11, 2003 \[formerly set out above\], entitled, “Designation of Officers of the Officeof Personnel Management to Act as Director of the Office of Personnel Management.”
+This memorandum supercedes the Presidential Memorandum of March 11, 2003 \[formerly set out above\], entitled, “Designation of Officers of the Office of Personnel Management to Act as Director of the Office of Personnel Management.”
 
 Sec. 4. <i>Publication.</i>
 
@@ -859,6 +825,68 @@ Sec. 4. Exceptions.
 Sec. 5. Publication.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Social Security Administration
+
+Memorandum of President of the United States, Apr. 17, 2006, 71 F.R. 20333, provided:
+
+Memorandum for the Commissioner of Social Security
+
+By the authority vested in me as President under the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., I hereby order that:
+
+Section 1. <i>Order of Succession.</i>
+
+During any period when both the Commissioner of Social Security (Commissioner) and the Deputy Commissioner of Social Security (Deputy Commissioner) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Commissioner, the following officers of the Social Security Administration, in the order listed, shall perform the functions and duties of the office of Commissioner, if they are eligible to act as Commissioner under the provisions of the Federal Vacancies Reform Act of 1998, until such time as the Commissioner or Deputy Commissioner is able to perform the functions and duties of the office of Commissioner:
+
+Chief of Staff;
+
+Deputy Commissioner for Operations;
+
+Regional Commissioner, Philadelphia; and
+
+Regional Commissioner, Dallas.
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Commissioner pursuant to this memorandum.
+
+(b) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., to depart from this memorandum in designating an acting Commissioner.
+
+Sec. 3. <i>Prior Memorandum Superseded.</i>
+
+This memorandum supersedes the Presidential Memorandum of May 9, 2002, entitled “Designation of Officers of the Social Security Administration.”
+
+Sec. 4. <i>Publication.</i>
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Department of Justice
+
+Memorandum of President of the United States, Dec. 8, 2006, 71 F.R. 74753, provided:
+
+Memorandum for the Attorney General
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., I hereby order that:
+
+Section 1. <i>Order of Succession</i>. During any period when the Attorney General, the Deputy Attorney General, the Associate Attorney General, and the officers designated by the Attorney General pursuant to 28 U.S.C. 508 to act as Attorney General have died, resigned, or otherwise become unable to perform the functions and duties of the office of Attorney General, the following officers of the Department of Justice, in the order listed, shall perform the functions and duties of the office of Attorney General, if they are eligible to act as Attorney General under the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Attorney General:
+
+United States Attorney for the Southern District of New York;
+
+United States Attorney for the Eastern District of Virginia; and
+
+United States Attorney for the Western District of Texas.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Attorney General pursuant to this memorandum.
+
+(b) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., to depart from this memorandum in designating an acting Attorney General.
+
+Sec. 3. The Memorandum for the Attorney General of March 19, 2002, entitled “Designation of Officers of the Department of Justice,” is hereby revoked.
+
+Sec. 4. The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

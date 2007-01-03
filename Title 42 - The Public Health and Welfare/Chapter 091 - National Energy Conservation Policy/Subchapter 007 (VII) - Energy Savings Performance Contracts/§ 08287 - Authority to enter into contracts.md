@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years.Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
+(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
 
 (2)(A) Contracts under this subchapter shall be energy savings performance contracts and shall require an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) request statements of qualifications, which shall, at a minimum, include prior experience and capabilities of contractors to perform the proposed types of energy savings services and financial and performance information, from firms engaged in providing energy savings services; and
 
-&emsp;&emsp;(ii) from the statements received, designate and prepare a list, with an update at least annually, of those firms that are qualified to provide energy savings services;
+&emsp;&emsp;(ii) from the statements received, designate and prepare a list, with an update atleast annually, of those firms that are qualified to provide energy savings services;
 
 &emsp;(B) require each agency to use the list prepared by the Secretary pursuant to subparagraph (A)(ii) unless the agency elects to develop an agency list of firms qualified to provide energy savings performance services using the same selection procedures and methods as are required of the Secretary in preparing such lists; and
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
-(3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by theboard of contract appeals of the General Services Administration.
+(3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
 #### (c) Sunset requirements
 

@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(5) Some commercial electronic mail contains material that many recipients may consider vulgar or pornographic in nature.
 
-&emsp;(6) The growth in unsolicited commercial electronic mail imposes significant monetarycosts on providers of Internet access services, businesses, and educational and nonprofit institutions that carry and receive such mail, as there is a finite volume of mail that such providers, businesses, and institutions can handle without further investment in infrastructure.
+&emsp;(6) The growth in unsolicited commercial electronic mail imposes significant monetary costs on providers of Internet access services, businesses, and educational and nonprofit institutions that carry and receive such mail, as there is a finite volume of mail that such providers, businesses, and institutions can handle without further investment in infrastructure.
 
 &emsp;(7) Many senders of unsolicited commercial electronic mail purposefully disguise the source of such mail.
 
@@ -26,7 +26,7 @@ The Congress finds the following:
 
 &emsp;(11) Many States have enacted legislation intended to regulate or reduce unsolicited commercial electronic mail, but these statutes impose different standards and requirements. As a result, they do not appear to have been successful in addressing the problems associated with unsolicited commercial electronic mail, in part because, since an electronic mail address does not specify a geographic location, it can be extremely difficult for law-abiding businesses to know with which of these disparate statutes they are required to comply.
 
-&emsp;(12) The problems associated with the rapid growth and abuse of unsolicited commercial electronic mail cannot be solved by Federal legislation alone. The development and adoption of technological approaches and the pursuit of cooperative efforts with other countries will be necessary as well.
+&emsp;(12) The problems associated with the rapid growth and abuse of unsolicited commercialelectronic mail cannot be solved by Federal legislation alone. The development and adoption of technological approaches and the pursuit of cooperative efforts with other countries will be necessary as well.
 
 #### (b) Congressional determination of public policy
 

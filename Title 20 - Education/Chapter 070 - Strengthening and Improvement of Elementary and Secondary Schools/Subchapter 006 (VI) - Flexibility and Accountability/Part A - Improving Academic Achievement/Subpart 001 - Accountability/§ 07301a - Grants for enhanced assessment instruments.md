@@ -14,7 +14,7 @@ From funds made available to carry out this subpart, the Secretary shall award, 
 
 #### (b) Application
 
-Each State wishing to apply for funds under this section shall include in its State plan under part A of subchapter I of this chapter such information as the Secretary may require.
+Each State wishing to apply for funds under this section shall include in its State plan underpart A of subchapter I of this chapter such information as the Secretary may require.
 
 #### (c) Annual report
 

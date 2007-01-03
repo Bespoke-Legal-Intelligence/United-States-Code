@@ -92,7 +92,7 @@ Deadline for comments.—All comments with respect to any request for an exempti
 
 “(3)
 
-Deadline for final decision.—Not later than the 90th day following the date of the enactment of thisAct, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).”
+Deadline for final decision.—Not later than the 90th day following the date of the enactment of this Act, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).”
 
 Subsec. (f). Pub. L. 108–176, §426(a), added subsec. (f).
 

@@ -30,7 +30,7 @@ In order to avoid or minimize the need for involuntary separations due to downsi
 
 #### (2) Penalty
 
-&emsp;An employee who violates an agreement under this subsection shall be liable to the United States in the amount of the separation pay paid to the employee pursuant to this section times the proportion of the 12-month period during which the employee was in violation of the agreement.
+&emsp;An employee who violates an agreement under this subsection shall be liable to the United States in the amount of the separationpay paid to the employee pursuant to this section times the proportion of the 12-month period during which the employee was in violation of the agreement.
 
 #### (d) Limitations
 
@@ -70,7 +70,7 @@ The Director shall prescribe such regulations as may be necessary to carry out t
 
 &emsp;At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.
 
-(Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104; Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118;Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616; Pub. L. 107–108, title IV, §402, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title IV, §401, Nov. 27, 2002, 116 Stat. 2403; Pub. L. 108–458, title I, §1071(d), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 108–487, title IV, §401(a), (b)(1), Dec. 23, 2004, 118 Stat. 3945, 3946.)
+(Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104; Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118; Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616; Pub. L. 107–108, title IV, §402, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title IV, §401, Nov. 27, 2002, 116 Stat. 2403; Pub. L. 108–458, title I, §1071(d), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 108–487, title IV, §401(a), (b)(1), Dec. 23, 2004, 118 Stat. 3945, 3946.)
 
 #### Codification
 

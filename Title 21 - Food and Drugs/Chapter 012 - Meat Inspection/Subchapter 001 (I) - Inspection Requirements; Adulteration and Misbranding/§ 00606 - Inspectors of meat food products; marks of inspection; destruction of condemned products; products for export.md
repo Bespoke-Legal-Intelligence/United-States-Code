@@ -26,7 +26,7 @@ General Effective Date.—Except as provided in subsection (b) of this section, 
 
 “(b)
 
-Temporary Application of Existing Law.—Sections 6, 9, and 21 of the Federal Meat Inspection Act (21 U.S.C. 606, 609, and 621), as in effect immediately before the date of the enactment of this Act \[Nov. 10, 1986\], shall apply with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) \[amending this section\].”
+Temporary Application of Existing Law.—Sections 6, 9, and 21 of the Federal Meat Inspection Act (21 U.S.C. 606, 609, and 621), as in effect immediately before the date of the enactment of this Act \[Nov. 10, 1986\],shall apply with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) \[amending this section\].”
 
 #### Effective Date of 1967 Amendment
 

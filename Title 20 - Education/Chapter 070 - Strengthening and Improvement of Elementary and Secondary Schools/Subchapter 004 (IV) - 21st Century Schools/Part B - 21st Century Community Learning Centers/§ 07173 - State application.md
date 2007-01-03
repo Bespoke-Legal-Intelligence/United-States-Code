@@ -40,7 +40,7 @@ In order to receive an allotment under section 7172 of this title for any fiscal
 
 &emsp;(10) contains an assurance that the State educational agency will require eligible entities to describe in their applications under section 7174(b) of this title how the transportation needs of participating students will be addressed;
 
-&emsp;(11) provides an assurance that the application was developed in consultation and coordination with appropriate State officials, including the chief State school officer, and otherState agencies administering before and after school (or summer school) programs, the heads of the State health and mental health agencies or their designees, and representatives of teachers, parents, students, the business community, and community-based organizations;
+&emsp;(11) provides an assurance that the application was developed in consultation and coordination with appropriate State officials, including the chief State school officer, and other State agencies administering before and after school (or summer school) programs, the heads of the State health and mental health agencies or their designees, and representatives of teachers, parents, students, the business community, and community-based organizations;
 
 &emsp;(12) describes the results of the State's needs and resources assessment for before and after school activities, which shall be based on the results of on-going State evaluation activities;
 

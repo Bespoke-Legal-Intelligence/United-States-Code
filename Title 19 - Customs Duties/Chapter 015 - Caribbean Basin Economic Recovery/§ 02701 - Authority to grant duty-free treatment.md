@@ -12,6 +12,10 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 2000—Pub. L. 106–200 inserted “(or other preferential treatment)” after “treatment”.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–432, div. D, title V, §5001, Dec. 20, 2006, 120 Stat. 3181, provided that: “This title \[enacting section 2703a of this title, amending sections 2703 and 3203 of this title, and enacting provisions set out as a note under section 2703 of this title\] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–200, title II, §201, May 18, 2000, 114 Stat. 275, provided that: “This title \[amending this section and sections 2702 to 2704, 3202, and 3204 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘United States-Caribbean Basin Trade Partnership Act’.”
@@ -22,7 +26,7 @@ Pub. L. 101–382, title II, §201, Aug. 20, 1990, 104 Stat. 655, provided that:
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–67 provided that: “This title \[enacting this chapter, amending section 1202 of this title and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing section 2582 of this title, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Caribbean Basin Economic Recovery Act’.”
+Section 201 of title II of Pub. L. 98–67 provided that: “This title \[enacting this chapter, amending section 1202 of this title and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing section 2582 of thistitle, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Caribbean Basin Economic Recovery Act’.”
 
 #### Findings and Policy
 

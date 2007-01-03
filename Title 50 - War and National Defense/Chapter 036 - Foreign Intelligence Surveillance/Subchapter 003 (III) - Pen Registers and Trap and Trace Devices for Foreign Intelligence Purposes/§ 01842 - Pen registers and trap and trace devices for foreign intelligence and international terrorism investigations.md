@@ -32,9 +32,9 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;&emsp;(i) the identity, if known, of the person who is the subject of the investigation;
 
-&emsp;&emsp;(ii) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied;
+&emsp;&emsp;(ii) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied; and
 
-&emsp;&emsp;(iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order.<sup>1</sup>
+&emsp;&emsp;(iii) the attributes of the communications to which the order applies, such as the number or other identifier, and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied and, in the case of a trap and trace device, the geographic limits of the trap and trace order;
 
 &emsp;(B) shall direct that—
 
@@ -44,13 +44,43 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;&emsp;&emsp;(I) shall not disclose the existence of the investigation or of the pen register or trap and trace device to any person unless or until ordered by the court; and
 
-&emsp;&emsp;&emsp;(II) shall maintain, under security procedures approved by the Attorney General and the Director of National Intelligence pursuant to section 1805(b)(2)(C) <sup>2</sup> of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
+&emsp;&emsp;&emsp;(II) shall maintain, under security procedures approved by the Attorney General and the Director of National Intelligence pursuant to section 1805(b)(2)(C) <sup>1</sup> of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
 
-&emsp;&emsp;(iii) the applicant shall compensate such provider, landlord, custodian, or other person for reasonable expenses incurred by such provider, landlord, custodian, or other person in providing such information, facilities, or technical assistance.
+&emsp;&emsp;(iii) the applicant shall compensate such provider, landlord, custodian, or other person for reasonable expenses incurred by such provider, landlord, custodian, or other person in providing such information, facilities, or technical assistance; and
+
+&emsp;(C) shall direct that, upon the request of the applicant, the provider of a wire or electronic communication service shall disclose to the Federal officer using the pen register or trap and trace device covered by the order—
+
+&emsp;&emsp;(i) in the case of the customer or subscriber using the service covered by the order (for the period specified by the order)—
+
+&emsp;&emsp;&emsp;(I) the name of the customer or subscriber;
+
+&emsp;&emsp;&emsp;(II) the address of the customer or subscriber;
+
+&emsp;&emsp;&emsp;(III) the telephone or instrument number, or other subscriber number or identifier, of the customer or subscriber, including any temporarily assigned network address or associated routing or transmission information;
+
+&emsp;&emsp;&emsp;(IV) the length of the provision of service by such provider to the customer or subscriber and the types of services utilized by the customer or subscriber;
+
+&emsp;&emsp;&emsp;(V) in the case of a provider of local or long distance telephone service, any local or long distance telephone records of the customer or subscriber;
+
+&emsp;&emsp;&emsp;(VI) if applicable, any records reflecting period of usage (or sessions) by the customer or subscriber; and
+
+&emsp;&emsp;&emsp;(VII) any mechanisms and sources of payment for such service, including the number of any credit card or bank account utilized for payment for such service; and
+
+&emsp;&emsp;(ii) if available, with respect to any customer or subscriber of incoming or outgoing communications to or from the service covered by the order—
+
+&emsp;&emsp;&emsp;(I) the name of such customer or subscriber;
+
+&emsp;&emsp;&emsp;(II) the address of such customer or subscriber;
+
+&emsp;&emsp;&emsp;(III) the telephone or instrument number, or other subscriber number or identifier, of such customer or subscriber, including any temporarily assigned network address or associated routing or transmission information; and
+
+&emsp;&emsp;&emsp;(IV) the length of the provision of service by such provider to such customer or subscriber and the types of services utilized by such customer or subscriber.
 
 #### (e) Time limitation
 
-An order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d) of this section. The period of extension shall be for a period not to exceed 90 days.
+(1) Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d) of this section. The period of extension shall be for a period not to exceed 90 days.
+
+(2) In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extensionof an order, under this section may be for a period not to exceed one year.
 
 #### (f) Cause of action barred
 
@@ -60,11 +90,7 @@ No cause of action shall lie in any court against any provider of a wire or elec
 
 Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
 
-(Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
+(Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§105(c), 128(a), Mar. 9, 2006, 120 Stat. 195, 228.)
 
 #### References in Text
 
@@ -72,31 +98,29 @@ Executive Order No. 12333, referred to in subsec. (a)(1), is set out as a note u
 
 Section 1805(b)(2)(C) of this title, referred to in subsec. (d)(2)(B)(ii)(II), was redesignated section 1805(c)(2)(C) of this title by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
 
-The criminal laws of the United States, referred to in subsec. (c)(3), are classified generally to Title 18, Crimes and Criminal Procedure.
-
 #### Amendments
+
+2006—Subsec. (d)(2)(A). Pub. L. 109–177, §128(a)(1), inserted “and” at end of cl. (ii) and substituted semicolon for period at end of cl. (iii).
+
+Subsec. (d)(2)(C). Pub. L. 109–177, §128(a)(2), (3), added subpar. (C).
+
+Subsec. (e). Pub. L. 109–177, §105(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order issued” for “An order issued”, and added par. (2).
 
 2004—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2001—Subsec. (a)(1). Pub. L. 107–56, §§214(a)(1), 224, temporarily substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”. See Termination Date of 2001 Amendment note below.
+2001—Subsec. (a)(1). Pub. L. 107–56, §214(a)(1), substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”.
 
 Subsec. (c)(1). Pub. L. 107–108, §314(a)(5)(A), inserted “and” after semicolon at end.
 
-Subsec. (c)(2). Pub. L. 107–56, §§214(a)(2), 224, temporarily amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a certification by the applicant that the information likely to be obtained is relevant to an ongoing foreign intelligence or international terrorism investigation being conducted by the Federal Bureau of Investigation under guidelines approved by the Attorney General; and”. See Termination Date of 2001 Amendment note below.
+Subsec. (c)(2). Pub. L. 107–56, §214(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a certification by the applicant that the information likely to be obtained is relevant to an ongoing foreign intelligence or international terrorism investigation being conducted by the Federal Bureau of Investigation under guidelines approved by the Attorney General; and”.
 
-Subsec. (c)(3). Pub. L. 107–56, §§214(a)(3), 224, temporarily struck out par. (3) which read as follows:
-
-“(3) information which demonstrates that there is reason to believe that the telephone line to which the pen register or trap and trace device is to be attached, or the communication instrument or device to be covered by the pen register or trap and trace device, has been or is about to be used in communication with—
+Subsec. (c)(3). Pub. L. 107–56, §214(a)(3), struck out par. (3) which read as follows: “information which demonstrates that there is reason to believe that the telephone line to which the pen register or trap and trace device is to be attached, or the communication instrument or device to be covered by the pen register or trap and trace device, has been or is about to be used in communication with—
 
 &emsp;“(A) an individual who is engaging or has engaged in international terrorism or clandestine intelligence activities that involve or may involve a violation of the criminal laws of the United States; or
 
 &emsp;“(B) a foreign power or agent of a foreign power under circumstances giving reason to believe that the communication concerns or concerned international terrorism or clandestine intelligence activities that involve or may involve a violation of the criminal laws of the United States.”
 
-> See Termination Date of 2001 Amendment note below.
-
-Subsec. (d)(2)(A). Pub. L. 107–56, §§214(a)(4), 224, temporarily amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
-
-“(A) shall specify—
+Subsec. (d)(2)(A). Pub. L. 107–56, §214(a)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall specify—
 
 &emsp;“(i) the identity, if known, of the person who is the subject of the foreign intelligence or international terrorism investigation;
 
@@ -112,8 +136,6 @@ Subsec. (d)(2)(A). Pub. L. 107–56, §§214(a)(4), 224, temporarily amended sub
 
 &emsp;&emsp;“(II) the number of the instrument or device; and”.
 
-> See Termination Date of 2001 Amendment note below.
-
 Subsec. (f). Pub. L. 107–108, §314(a)(5)(B), substituted “terms of an order issued” for “terms of a court”.
 
 #### Effective Date of 2004 Amendment
@@ -122,11 +144,5 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
-#### Termination Date of 2001 Amendment
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

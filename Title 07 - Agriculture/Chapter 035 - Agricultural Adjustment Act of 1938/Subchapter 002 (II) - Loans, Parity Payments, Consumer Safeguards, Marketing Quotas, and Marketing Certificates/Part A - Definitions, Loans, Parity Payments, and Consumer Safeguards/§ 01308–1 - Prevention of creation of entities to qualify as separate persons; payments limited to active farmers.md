@@ -6,11 +6,11 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (1) In general
 
-&emsp;A person (as defined in section 1308(e)(2)(A) of this title) that receives farm program payments (as described in paragraphs (1) and (2) of this section as being subject to limitation) for a crop year may not also hold, directly or indirectly, substantial beneficial interests in more than two entities (as defined in section 1308(e)(2)(A)(ii) of this title) engaged in farm operations that also receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title. A person that does not receive such payments for a crop year may not hold, directly or indirectly, substantial beneficial interests in more than three entities that receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title.
+&emsp;A person (as defined in section 1308(e)(2)(A) of this title) that receives farm program payments (as described in paragraphs (1) and (2) of this section as being subject to limitation) for a crop year may not also hold, directly or indirectly, substantial beneficial interests in more than two entities (as defined in section 1308(e)(2)(A)(ii) of this title) engaged in farm operations that also receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title. A person that does not receive suchpayments for a crop year may not hold, directly or indirectly, substantial beneficial interests in more than three entities that receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title.
 
 #### (2) Minimal beneficial interests
 
-&emsp;For the purpose of this subsection, a beneficial interest in any entity that is less than 10 percent of all beneficial interests in such entity combined shall not be considered a substantial beneficial interest, unless the Secretary determines, on a case-by-case basis,that a smaller percentage should apply to one or more beneficial interests to ensure that the purpose of this subsection is achieved.
+&emsp;For the purpose of this subsection, a beneficial interest in any entity that is less than 10 percent of all beneficial interests in such entity combined shall not be considered a substantial beneficial interest, unless the Secretary determines, on a case-by-case basis, that a smaller percentage should apply to one or more beneficial interests to ensure that the purpose of this subsection is achieved.
 
 #### (3) Notification by entities
 
@@ -64,7 +64,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (C) Entities making significant contributions
 
-&emsp;&emsp;If a general partnership, joint venture, or similar entity (as determined by the Secretary) separately makes a significant contribution (based on the total value of the farming operation involved) of capital, equipment, or land, and the standards provided in clauses (ii) and (iii) of paragraph (A), as applied to the entity, are met by the entity, the partners or members making a significant contribution of personal labor or active personal management shall be considered to be actively engaged in farming with respect to the farming operation involved.
+&emsp;&emsp;If a general partnership, joint venture, or similar entity (as determined by the Secretary) separately makes a significant contribution (based on the total value of the farming operation involved) of capital, equipment, or land, and the standards provided in clauses (ii) and (iii) of paragraph (A), as applied to the entity, are met by theentity, the partners or members making a significant contribution of personal labor or active personal management shall be considered to be actively engaged in farming with respect to the farming operation involved.
 
 #### (D) Equipment and personal labor
 

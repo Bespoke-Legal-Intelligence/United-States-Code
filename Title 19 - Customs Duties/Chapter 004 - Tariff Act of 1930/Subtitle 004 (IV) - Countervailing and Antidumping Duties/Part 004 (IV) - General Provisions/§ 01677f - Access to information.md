@@ -8,7 +8,7 @@
 
 #### (2) Progress of investigation reports
 
-&emsp;The administering authority and the Commission shall, from time to time upon request, inform the parties to an investigation of the progress of that investigation.
+&emsp;The administering authority and the Commission shall, from time to time upon request,inform the parties to an investigation of the progress of that investigation.
 
 #### (3) Ex parte meetings
 
@@ -152,7 +152,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (4) Sanctions for violation of protective orders
 
-&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title, who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civilpenalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title).
+&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title, who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title).
 
 #### (5) Review of sanctions
 
@@ -190,7 +190,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (E) Fees and mileage of witnesses
 
-&emsp;&emsp;Witnesses summoned before the administering authority or the Commission shallbe paid the same fees and mileage that are paid witnesses in the courts of the United States.
+&emsp;&emsp;Witnesses summoned before the administering authority or the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
 
 #### (g) Information relating to violations of protective orders and sanctions
 
@@ -318,7 +318,7 @@ Subsec. (c)(1)(A). Pub. L. 98–573, §619(4), inserted “(before or after rece
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapterafter such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1993 Amendment
 

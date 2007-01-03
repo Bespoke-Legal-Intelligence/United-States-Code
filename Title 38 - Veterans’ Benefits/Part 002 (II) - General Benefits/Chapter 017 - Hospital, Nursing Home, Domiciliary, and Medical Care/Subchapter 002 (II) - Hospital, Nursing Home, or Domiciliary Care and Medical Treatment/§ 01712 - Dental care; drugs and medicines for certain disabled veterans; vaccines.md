@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) the dental condition or disability is shown to have been in existence at the time of the veteran's discharge or release from active military, naval, or air service;
 
-&emsp;&emsp;(ii) the veteran had served on active duty for a period of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 daysimmediately before such discharge or release;
+&emsp;&emsp;(ii) the veteran had served on active duty for a period of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days immediately before such discharge or release;
 
 &emsp;&emsp;(iii) application for treatment is made within 90 days after such discharge or release, except that (I) in the case of a veteran who reentered active military, naval, or air service within 90 days after the date of such veteran's prior discharge or release from such service, application may be made within 90 days from the date of such veteran's subsequent discharge or release from such service, and (II) if a disqualifying discharge or release has been corrected by competent authority, application may be made within 90 days after the date of correction; and
 
@@ -80,7 +80,7 @@ Subsec. (j). Pub. L. 104–262, §101(c)(1)(B), redesignated subsec. (j) as (e).
 
 1994—Subsec. (a)(1)(D). Pub. L. 103–452, §103(a)(2), substituted “December 31, 1995” for “December 31, 1994”.
 
-Subsec. (i)(1). Pub. L. 103–452, §101(e)(1), inserted “(A)” after “To a veteran” and inserted before period at end “, or (B) who is eligible for counseling and careand services under section 1720D of this title, for the purposes of such counseling and care and services”.
+Subsec. (i)(1). Pub. L. 103–452, §101(e)(1), inserted “(A)” after “To a veteran” and inserted before period at end “, or (B) who is eligible for counseling and care and services under section 1720D of this title, for the purposes of such counseling and care and services”.
 
 Subsec. (i)(2). Pub. L. 103–452, §101(e)(2), substituted “or (B)” for “, (B)” and struck out before period at end “, or (C) who is eligible for counseling under section 1720D of this title, for the purposes of such counseling”.
 
@@ -246,7 +246,7 @@ Subsec. (f)(2). Pub. L. 99–576, §202(1), substituted “Subject to subsection
 
 Subsec. (f)(4)(D) to (G). Pub. L. 99–576, §237(b)(2), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-Subsec. (g). Pub. L. 99–272, §19011(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In the case of any veteran who is a veteran of the Mexican border period or of World War I or who is in receipt of increased pension or additional compensation or allowance based on the need of regular aid and attendance or by reason of being permanently housebound, or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance, the Administrator, within the limits of Veterans’ Administration facilities, may furnish the veteran such medical services as the Administrator finds to be reasonably necessary. The Administrator may also furnish to any such veteran home health services under the terms and conditions set forth in subsection (f) of this section.”
+Subsec. (g). Pub. L. 99–272, §19011(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In the case of any veteran who is a veteran of the Mexican border period or of World War I or who is in receipt of increased pension or additional compensation or allowance based on the need of regular aid and attendance or by reason of being permanently housebound, or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance, the Administrator, within the limits of Veterans’ Administration facilities, may furnish the veteran such medical services as the Administrator finds to be reasonably necessary. The Administrator may also furnish to any such veteran home health servicesunder the terms and conditions set forth in subsection (f) of this section.”
 
 Subsec. (i)(6). Pub. L. 99–272, §19011(b)(4), added par. (6).
 
@@ -312,7 +312,7 @@ Subsec. (h). Pub. L. 94–581, §210(a)(3)(D), substituted “such veteran's ann
 
 Subsecs. (i), (j). Pub. L. 94–581, §103(a)(8), added subsecs. (i) and (j).
 
-1973—Subsec. (f). Pub. L. 93–82 substituted provisions relating to the furnishing of medical services for any disability on an outpatient or ambulatory basis to veterans eligible for hospital care where such services are necessary in preparation for, or to obviate the need of, hospital admission, or where such veteran has been granted hospital care and such medical services are reasonably necessary to complete treatment incident to such hospital care and to veterans who have a service-connected disability rated at 80 per centum or more for provisions relating to the furnishing of medical services for a non-service connected disability where such care is reasonably necessary in preparation for admission of a veteran who has been determined to need hospital care and who has been scheduled for admission, where a veteran has been granted hospital care, and outpatient care is reasonably necessary to complete treatment incident to such hospital care, and where a veteran of any war has a total disability permanent in nature resulting from a service-connected disability.
+1973—Subsec. (f). Pub. L. 93–82 substituted provisions relating to the furnishing of medical services for any disability on an outpatient or ambulatory basis to veterans eligible for hospital care where such services are necessary in preparation for, or to obviate the need of, hospital admission, or where such veteran has been granted hospital care and such medical services are reasonably necessary to complete treatment incident to such hospital care and to veterans who have a service-connected disability rated at 80 per centum or more for provisions relating to the furnishing of medical services for a non-service connected disability where such care is reasonably necessary in preparation for admission of a veteran who has been determined to need hospital care and who has been scheduled for admission, where a veteran has been granted hospital care,and outpatient care is reasonably necessary to complete treatment incident to such hospital care, and where a veteran of any war has a total disability permanent in nature resulting from a service-connected disability.
 
 1970—Subsec. (g). Pub. L. 91–500, §2, extended the authority of the Administrator to furnish medical services as he finds necessary to veterans permanently housebound or receiving pension or compensation based on need of regular aid and attendance and struck out conditions limiting such medical care to veterans hospitalized or suffering from one or more of the six specific conditions or diseases enumerated.
 
@@ -404,7 +404,7 @@ Provisions of subsec. (a) of this section, as in effect on Oct. 8, 1996, to cont
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended bytitle I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Disability of Veterans of Spanish-American War
 

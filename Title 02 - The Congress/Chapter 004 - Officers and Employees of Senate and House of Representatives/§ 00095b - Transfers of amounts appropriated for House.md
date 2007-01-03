@@ -8,7 +8,7 @@ allowances and expenses” may be transferred among the various categories of al
 
 #### (b) Transfers among offices and activities
 
-Amounts appropriated for any fiscal year for the House of Representatives under the heading “
+Amounts appropriated for any fiscal year for the House of Representatives under the heading“
 
 salaries, officers and employees” may be transferred among the various offices and activities under such heading, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 

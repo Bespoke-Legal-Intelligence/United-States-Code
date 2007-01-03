@@ -48,7 +48,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 &emsp;&emsp;&emsp;(vi) criteria for access to the database, and procedures to ensure that information in the database is accurate;
 
-&emsp;&emsp;&emsp;(vii) criteria for the use and disclosure of information, including a description of the certification process to be applied to requests for information under subsection (f) of this section;
+&emsp;&emsp;&emsp;(vii) criteria for the use and disclosure of information, including a description of thecertification process to be applied to requests for information under subsection (f) of this section;
 
 &emsp;&emsp;&emsp;(viii) penalties for the unauthorized use and disclosure of information maintained in the State controlled substance monitoring program in violation of applicable State law or regulation;
 
@@ -68,7 +68,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 #### (2) State legislation
 
-&emsp;As part of an application under paragraph (1), the Secretary shall require a State to demonstrate that the State has enacted legislation or regulations to permit the implementation of the State controlled substance monitoring program and the imposition of appropriate penalties for the unauthorized use anddisclosure of information maintained in such program.
+&emsp;As part of an application under paragraph (1), the Secretary shall require a State to demonstrate that the State has enacted legislation or regulations to permit the implementation of the State controlled substance monitoring program and the imposition of appropriate penalties for the unauthorized use and disclosure of information maintained in such program.
 
 #### (3) Interoperability
 
@@ -118,7 +118,7 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;&emsp;(J) Such other information as may be required by State law to be reported under this subsection.
 
-&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
+&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified bythe Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
 
 #### (e) Database
 
@@ -188,7 +188,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 #### (4) Federal privacy requirements
 
-&emsp;Nothing in this section shall be construed to supersede any Federal privacy or confidentiality requirement, including the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033) and section 290dd–2 of this title.
+&emsp;Nothing in this section shall be construed to supersede any Federal privacy or confidentiality requirement, including the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Actof 1996 (Public Law 104–191; 110 Stat. 2033) and section 290dd–2 of this title.
 
 #### (5) No Federal private cause of action
 
@@ -260,7 +260,7 @@ For purposes of this section:
 
 &emsp;(2) The term “controlled substance” means a drug that is included in schedule II, III, or IV of section 812(c) of title 21.
 
-&emsp;(3) The term “dispense” means to deliver a controlled substance to an ultimate user by, or pursuant to the lawful order of, a practitioner, irrespective of whether the dispenser uses the Internet or other means to effect such delivery.
+&emsp;(3) The term “dispense” means to deliver a controlled substance to an ultimate user by, or pursuant to the lawful order of, a practitioner, irrespective of whether the dispenseruses the Internet or other means to effect such delivery.
 
 &emsp;(4) The term “dispenser” means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
 
@@ -286,11 +286,11 @@ To carry out this section, there are authorized to be appropriated—
 
 #### References in Text
 
-Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(4), is section 264(c) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2033, which was formerly set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(4), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
-#### Codification
+#### Prior Provisions
 
-Another section 399O of act July 1, 1944, is classified to section 280g–4 of this title.
+Another section 399O of act July 1, 1944, was renumbered section 399P and is classified to section 280g–4 of this title.
 
 #### Purpose
 

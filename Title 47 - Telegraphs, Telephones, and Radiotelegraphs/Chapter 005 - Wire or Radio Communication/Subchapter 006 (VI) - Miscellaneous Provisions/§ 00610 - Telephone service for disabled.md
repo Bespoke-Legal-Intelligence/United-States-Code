@@ -12,7 +12,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(B) all telephones manufactured in the United States (other than for export) more than one year after August 16, 1988, or imported for use in the United States more than one year after August 16, 1988,
 
-> provide internal means for effective use with hearing aids that are designed to be compatible with telephones which meet established technical standards for hearing aid compatibility.
+> provide internal means for effective use with hearing aids that are designed to be compatiblewith telephones which meet established technical standards for hearing aid compatibility.
 
 (2)(A) The initial regulations prescribed by the Commission under paragraph (1) of this subsection after August 16, 1988, shall exempt from the requirements established pursuant to paragraph (1)(B) of this subsection only—
 
@@ -36,7 +36,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(iv) compliance with the requirements of paragraph (1)(B) would not increase costs to such an extent that the telephones to which the exemption applies could not be successfully marketed.
 
-(3) The Commission may, upon the application of any interested person, initiate a proceeding to waive the requirements of paragraph (1)(B) of this subsection with respect to new telephones, or telephones associated with a new technology or service. The Commission shall not grant sucha waiver unless the Commission determines, on the basis of evidence in the record of such proceeding, that such telephones, or such technology or service, are in the public interest, and that (A) compliance with the requirements of paragraph (1)(B) is technologically infeasible, or (B) compliance with such requirements would increase the costs of the telephones, or of the technology or service, to such an extent that such telephones, technology, or service could not be successfully marketed. In any proceeding under this paragraph to grant a waiver from the requirements of paragraph (1)(B), the Commission shall consider the effect on hearing-impaired individuals of granting the waiver. The Commission shall periodically review and determine the continuing need for any waiver granted pursuant to this paragraph.
+(3) The Commission may, upon the application of any interested person, initiate a proceeding to waive the requirements of paragraph (1)(B) of this subsection with respect to new telephones, or telephones associated with a new technology or service. The Commission shall not grant such a waiver unless the Commission determines, on the basis of evidence in the record of such proceeding, that such telephones, or such technology or service, are in the public interest, and that (A) compliance with the requirements of paragraph (1)(B) is technologically infeasible, or (B) compliance with such requirements would increase the costs of the telephones, or of the technology or service, to such an extent that such telephones, technology, or service could not be successfully marketed. In any proceeding under this paragraph to grant a waiver from the requirements of paragraph (1)(B), the Commission shall consider the effect on hearing-impaired individuals of granting the waiver. The Commission shall periodically review and determine the continuing need for any waiver granted pursuant to this paragraph.
 
 (4) For purposes of this subsection—
 
@@ -72,7 +72,7 @@ Any common carrier or connecting carrier may provide specialized terminal equipm
 
 The Commission shall delegate to each State commission the authority to enforce within such State compliance with the specific regulations that the Commission issues under subsections (a) and (b) of this section, conditioned upon the adoption and enforcement of such regulations by the State commission.
 
-(June 19, 1934, ch. 652, title VII, §710, formerly title VI, §610, as added Pub. L. 97–410, §3, Jan. 3, 1983, 96 Stat. 2043; renumbered title VII, §710, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 100–394, §3, Aug. 16, 1988, 102 Stat. 976; Pub. L. 103–414, title III, §304(a)(16), Oct. 25, 1994, 108 Stat. 4297.)
+(June 19, 1934, ch. 652, title VII, §710, formerly title VI, §610, as added Pub. L. 97–410, §3, Jan. 3, 1983, 96 Stat. 2043; renumbered title VII, §710, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 100–394, §3, Aug. 16, 1988, 102Stat. 976; Pub. L. 103–414, title III, §304(a)(16), Oct. 25, 1994, 108 Stat. 4297.)
 
 #### Amendments
 

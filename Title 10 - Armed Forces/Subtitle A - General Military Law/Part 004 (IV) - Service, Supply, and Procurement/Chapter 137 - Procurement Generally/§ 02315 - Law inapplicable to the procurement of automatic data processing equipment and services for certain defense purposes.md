@@ -1,22 +1,12 @@
 ### §2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes
 
-(a) For the purposes of subtitle III of title 40, the term “national security systems” means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which—
+For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3542(b)(2) of title 44.
 
-&emsp;(1) involves intelligence activities;
-
-&emsp;(2) involves cryptologic activities related to national security;
-
-&emsp;(3) involves the command and control of military forces;
-
-&emsp;(4) involves equipment that is an integral part of a weapon or weapons system; or
-
-&emsp;(5) subject to subsection (b), is critical to the direct fulfillment of military or intelligence missions.
-
-(b) Subsection (a)(5) does not include procurement of automatic data processing equipment or services to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
-
-(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25),Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, §5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title X, §1073(a)(49), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–217, §3(b)(5), Aug. 21, 2002, 116 Stat. 1295.)
+(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, §5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title X, §1073(a)(49), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–217, §3(b)(5), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, §906(c), Oct. 17, 2006, 120 Stat. 2354.)
 
 #### Amendments
+
+2006—Pub. L. 109–364 amended text generally. Prior to amendment, section consisted of subsecs. (a) and (b) defining “national security systems” as meaning telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which involves intelligence or cryptologic activities, command and control of military forces, or equipment that is an integral part of a weapons system or is critical to military or intelligence missions but is not equipment or services to be used for routine administrative and business applications.
 
 2002—Subsec. (a). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” in introductory provisions.
 

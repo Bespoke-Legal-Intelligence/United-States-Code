@@ -12,7 +12,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 &emsp;(4) systems change grants including statewide family network grants and client-oriented and consumer run self-help activities.
 
-> The Secretary may carry out the activities described in this subsection directly or through grants or cooperative agreements with States, political subdivisions of States, Indian tribes and tribal organizations, other public or private nonprofit entities.
+> The Secretary may carry out the activities described in this subsection directly or throughgrants or cooperative agreements with States, political subdivisions of States, Indian tribes and tribal organizations, other public or private nonprofit entities.
 
 #### (b) Priority mental health needs
 
@@ -40,7 +40,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 #### (4) Maintenance of effort
 
-&emsp;With respect to activities for which a grant, contract or cooperative agreement is awardedunder this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
+&emsp;With respect to activities for which a grant, contract or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
 
 #### (d) Evaluation
 

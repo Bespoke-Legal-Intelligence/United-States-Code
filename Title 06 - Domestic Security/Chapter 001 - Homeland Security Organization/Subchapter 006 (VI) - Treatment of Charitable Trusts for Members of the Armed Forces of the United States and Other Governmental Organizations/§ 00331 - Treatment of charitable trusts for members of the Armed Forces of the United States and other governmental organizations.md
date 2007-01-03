@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(2) Members of the Armed Forces of the United States have lost their lives while battling the evils of terrorism around the world.
 
-&emsp;(3) Personnel of the Central Intelligence Agency (CIA) charged with the responsibility of covert observation of terrorists around theworld are often put in harm's way during their service to the United States.
+&emsp;(3) Personnel of the Central Intelligence Agency (CIA) charged with the responsibility of covert observation of terrorists around the world are often put in harm's way during their service to the United States.
 
 &emsp;(4) Personnel of the Central Intelligence Agency have also lost their lives while battling the evils of terrorism around the world.
 
@@ -60,7 +60,7 @@ The requirements described in this subsection are as follows:
 
 &emsp;(9)(A) When determining the amount of a distribution to any beneficiary described in paragraph (1), a Johnny Micheal Spann Patriot Trust should take into account the amount of any collateral source compensation that the beneficiary has received or is entitled to receive as a result of the death of an individual described in paragraph (1).
 
-&emsp;(B) Collateral source compensation includes all compensation from collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to thedeath of an individual described in paragraph (1).
+&emsp;(B) Collateral source compensation includes all compensation from collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the death of an individual described in paragraph (1).
 
 #### (d) Treatment of Johnny Micheal Spann Patriot Trusts
 

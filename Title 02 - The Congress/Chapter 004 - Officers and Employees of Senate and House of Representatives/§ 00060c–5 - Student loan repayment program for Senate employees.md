@@ -128,7 +128,7 @@ In this section:
 
 #### (5) Crediting of amounts
 
-&emsp;Any amount repaid by, or recovered from, an eligible employee under this section shall becredited to the subaccount for the employing office from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such subaccount for the employing office and shall be available for the same purposes, and subject to the same limitations (if any), as the sums with which such amount is merged.
+&emsp;Any amount repaid by, or recovered from, an eligible employee under this section shall be credited to the subaccount for the employing office from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such subaccount for the employing office and shall be available for the same purposes, and subject to the same limitations (if any), as the sums with which such amount is merged.
 
 #### (e) Records and reports
 
@@ -148,7 +148,7 @@ In this section:
 
 #### (2) Confidentiality
 
-&emsp;Such report shall not include any information which is considered confidential or could disclose the identity of individual employees or employing offices. Information required to be contained in the report of the Secretary under section 104a of this title shall not be considered to be personal information for purposes of this paragraph.
+&emsp;Such report shall not include any information which is considered confidential or coulddisclose the identity of individual employees or employing offices. Information required to be contained in the report of the Secretary under section 104a of this title shall not be considered to be personal information for purposes of this paragraph.
 
 #### (f) Other administrative matters
 
@@ -226,7 +226,7 @@ In this section:
 
 &emsp;&emsp;(A) the maximum amount for that employing office for that fiscal year; or
 
-&emsp;&emsp;(B) if the total amount is not sufficient to provide the maximum amount to each employing office, an amount that bears the same relationship to the total amount as the maximum amount for that employing office for that fiscal year bears to the total of the maximum amounts for all employing offices for that fiscal year.
+&emsp;&emsp;(B) if the total amount is not sufficient to provide the maximum amount to each employing office, an amount that bears the same relationship to the total amount as the maximum amount for that employing office for that fiscal year bears to the total of themaximum amounts for all employing offices for that fiscal year.
 
 #### (3) Apportionment
 

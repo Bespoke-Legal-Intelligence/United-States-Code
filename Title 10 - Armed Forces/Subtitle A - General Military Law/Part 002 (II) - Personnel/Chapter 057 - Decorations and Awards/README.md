@@ -47,6 +47,30 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 1965—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
+#### Report on Department of Defense Process for Awarding Decorations
+
+Pub. L. 109–364, div. A, title V, §557, Oct. 17, 2006, 120 Stat. 2219, provided that:
+
+“(a)
+
+Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
+
+“(b)
+
+Time Periods.—As part of the review under subsection (a), the Secretary shall compare the time frames of the awards process between active duty and reserve components—
+
+&emsp;“(1) from the time a recommendation for the award of a decoration is submitted until the time the award of the decoration is approved; and
+
+&emsp;“(2) from the time the award of a decoration is approved until the time when the decoration is presented to the recipient.
+
+“(c)
+
+Reserve Components.—If the Secretary, in conducting the review under subsection (a), finds that the timeliness of the awards process for members of the reserve components is not the same as, or similar to, that for members of the active components, the Secretary shall take appropriate steps to address the discrepancy.
+
+“(d)
+
+Report.—Not later than August 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the Secretary's findings as a result of the review under subsection (a), together with a plan for implementing whatever changes are determined to be appropriate to the process for awarding decorations in order to ensure that decorations are awarded in a timely manner, to the extent practicable.”
+
 #### Separate Military Campaign Medals To Recognize Service in Operation Enduring Freedom and Service in Operation Iraqi Freedom
 
 Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: “For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001.”
@@ -71,7 +95,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(1) During the period of the Cold War, from the end of World War II until the collapse of the Soviet Union in 1991, the United States and the Soviet Union engaged in a global military rivalry.
 
-&emsp;“(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, has come to a close without a direct superpower military conflict.
+&emsp;“(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, hascome to a close without a direct superpower military conflict.
 
 &emsp;“(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
 
@@ -115,7 +139,7 @@ Section 1. There is hereby established a Defense Superior Service Medal with acc
 
 Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Superior Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal and the Silver Star Medal, but before the Legion of Merit.
 
-Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for eachsucceeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
+Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for each succeeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
 
 Sec. 4. The Defense Superior Service Medal or device may be awarded posthumously, and when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
 
@@ -163,7 +187,7 @@ By virtue of the authority vested in me as President of the United States of Ame
 
 Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
-Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be ofappropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
+Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 
 Sec. 3. No more than one Defense Meritorious Service Medal shall be awarded to any one person, but for each succeeding outstanding meritorious achievement or service justifying such an award a suitable device to be worn with that medal may be awarded under such regulations as the Secretary of Defense may prescribe.
 
@@ -179,7 +203,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate (“Certificate”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President (“EOP”). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
 
-Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge (“Badge”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
+Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge (“Badge”) is hereby continued, the design of which accompanies and is hereby made a part ofthis order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
 Sec. 3. Only one Certificate may be awarded to an individual.
 

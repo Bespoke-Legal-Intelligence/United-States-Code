@@ -38,7 +38,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;&emsp;&emsp;(ii) 50 percent of the amount established under clause (i) in the case of a loan made during the 2-year period beginning on October 1, 2002, for the life of the loan; and
 
-&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (c) Commercial loan interest rate
 
@@ -64,7 +64,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (e) “Qualified State or local development company” defined; exception for rural company; authority
 
-(1) For purposes of this section, the term “qualified State or local development company”means any State or local development company which, as determined by the Administration, has—
+(1) For purposes of this section, the term “qualified State or local development company” means any State or local development company which, as determined by the Administration, has—
 
 &emsp;(A) a full-time professional staff;
 

@@ -9,32 +9,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—VETERANS OUTREACH SERVICES PROGRAM
+#### SUBCHAPTER II—QUALITY ASSURANCE
 
 |  |  |
 | :--- | ---: |
-| [7721\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007721%20-%20Purpose%3B%20definitions.md) | Purpose; definitions. |
-| [7722\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007722%20-%20Outreach%20services.md) | Outreach services. |
-| [7723\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007723%20-%20Veterans%20assistance%20offices.md) | Veterans assistance offices. |
-| [7724\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007724%20-%20Outstationing%20of%20counseling%20and%20outreach%20personnel.md) | Outstationing of counseling and outreach personnel. |
-| [7725\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007725%20-%20Use%20of%20other%20agencies.md) | Use of other agencies. |
-| [7726\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007726%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
-| [7727\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007727%20-%20Outreach%20for%20eligible%20dependents.md) | Outreach for eligible dependents. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER III—QUALITY ASSURANCE
-
-|  |  |
-| :--- | ---: |
-| [7731\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007731%20-%20Establishment.md) | Establishment. |
-| [7732\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007732%20-%20Functions.md) | Functions. |
-| [7733\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007733%20-%20Personnel.md) | Personnel. |
-| [7734\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007734%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [7731\.](Subchapter%20002%20%28II%29%20-%20Quality%20Assurance/%C2%A7%2007731%20-%20Establishment.md) | Establishment. |
+| [7732\.](Subchapter%20002%20%28II%29%20-%20Quality%20Assurance/%C2%A7%2007732%20-%20Functions.md) | Functions. |
+| [7733\.](Subchapter%20002%20%28II%29%20-%20Quality%20Assurance/%C2%A7%2007733%20-%20Personnel.md) | Personnel. |
+| [7734\.](Subchapter%20002%20%28II%29%20-%20Quality%20Assurance/%C2%A7%2007734%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–233, title IV, §402(d)(2), June 15, 2006, 120 Stat. 411, substituted “QUALITY ASSURANCE” for “VETERANS OUTREACH SERVICES PROGRAM” in item for subchapter II and struck out former items 7721 “Purpose; definitions”, 7722 “Outreach services”, 7723 “Veterans assistance offices”, 7724 “Outstationing of counseling and outreach personnel”, 7725 “Use of other agencies”, 7726 “Annual report to Congress”, 7727 “Outreach for eligible dependents”, and subchapter III “QUALITY ASSURANCE”.
 
 2001—Pub. L. 107–14, §6(b)(2), June 5, 2001, 115 Stat. 31, added item 7727.
 
@@ -46,5 +34,4 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - Organization; General](Subchapter%20001%20%28I%29%20-%20Organization%3B%20General/README.md)
-- [Subchapter 002 (II) - Veterans Outreach Services Program](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/README.md)
-- [Subchapter 003 (III) - Quality Assurance](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/README.md)
+- [Subchapter 002 (II) - Quality Assurance](Subchapter%20002%20%28II%29%20-%20Quality%20Assurance/README.md)

@@ -1,6 +1,6 @@
 ### §1395w–2. Intermediate sanctions for providers or suppliers of clinical diagnostic laboratory tests
 
-(a) If the Secretary determines that any provider or clinical laboratory approved for participation under this subchapter no longer substantially meets the conditions of participation or for coverage specified under this subchapter with respect to the provision of clinical diagnostic laboratory tests under this part, the Secretary may (for a period not to exceed one year)impose intermediate sanctions developed pursuant to subsection (b) of this section, in lieu of terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory.
+(a) If the Secretary determines that any provider or clinical laboratory approved for participation under this subchapter no longer substantially meets the conditions of participation or for coverage specified under this subchapter with respect to the provision of clinical diagnostic laboratory tests under this part, the Secretary may (for a period not to exceed one year) impose intermediate sanctions developed pursuant to subsection (b) of this section, in lieu of terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory.
 
 (b)(1) The Secretary shall develop and implement—
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
+Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) ofPub. L. 100–485, set out as a note under section 704 of this title.
 
 Amendment by section 203(e)(4) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 

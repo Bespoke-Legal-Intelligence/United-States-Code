@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedialaction if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
 
 &emsp;(3)
 
@@ -62,7 +62,7 @@ In general.—Subject to paragraph (3), the Secretary may enter into agreements 
 
 &emsp;(2)
 
-Cross-fiscal year agreements.—An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years.
+Cross-fiscal year agreements.—An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years. This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 &emsp;(3)
 
@@ -92,7 +92,7 @@ Use of Appropriated Funds at Former DOD Sites.—Appropriations available to the
 
 (g)
 
-Removal of Unsafe Buildings and Debris Before Release From Federal Control.—In the case of property formerly used by the Department of Defense which is to be released from Federal Government control and at which there are unsafe buildings or debris of the Department of Defense, all actions necessary to comply with regulations of the General Services Administration on the transfer of property in a safe condition shall be completed before the property is released from Federal Government control, except in the case of property to be conveyed to anentity of State or local government or to a native corporation.
+Removal of Unsafe Buildings and Debris Before Release From Federal Control.—In the case of property formerly used by the Department of Defense which is to be released from Federal Government control and at which there are unsafe buildings or debris of the Department of Defense, all actions necessary to comply with regulations of the General Services Administration on the transfer of property in a safe condition shall be completed before the property is released from Federal Government control, except in the case of property to be conveyed to an entity of State or local government or to a native corporation.
 
 (h)
 
@@ -104,7 +104,7 @@ Surety Bonds.—
 
 &emsp;(1)
 
-Applicability of miller act.—If under sections 3131 and 3133 of title 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to section 3134 of title 40, the surety bonds shall be issued in accordance with sections 3131 and 3133.
+Applicability of sections 3131 and 3133 of title 40.—If under sections 3131 and 3133 of title 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to section 3134 of title 40, the surety bonds shall be issued in accordance with sections 3131 and 3133.
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ Limitation of accrual of rights of action under bonds.—If, under applicable Fe
 
 &emsp;(3)
 
-Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
+Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement ofany response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
 &emsp;(4)
 
@@ -126,13 +126,19 @@ Applicability.—(1) Subsections (h) and (i) shall not apply to bonds executed b
 
 (k) UXO
 
-Program Manager.—(1) The Secretary of Defense shall establish a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 <sup>2</sup> of this title) that pose a threat to human health or safety.
+Program Manager.—(1) The Secretary of Defense shall designate a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, research, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 <sup>2</sup> of this title) that pose a threat to human health or safety.
 
-(2) The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.
+(2) The position of program manager shall be filled by—
 
-(3) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>2</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
+&emsp;(A) an employee in a position that is equivalent to pay grade O–6 or above; or
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190.)
+&emsp;(B) a member of the armed forces who is serving in the grade of colonel or, in the case of the Navy, captain, or in a higher grade.
+
+(3) The program manager shall report to the Deputy Under Secretary of Defense for Installations and Environment.
+
+(4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>2</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
+
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137.)
 
 #### References in Text
 
@@ -148,11 +154,19 @@ A prior section 2701 was renumbered section 2721 of this title.
 
 2006—Subsec. (d)(1). Pub. L. 109–163, §312(a)(1), inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
 
+Subsec. (d)(2). Pub. L. 109–364, §312, inserted at end “This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
+
 Subsec. (d)(3). Pub. L. 109–163, §312(a)(2), inserted “An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.” at end.
 
 Subsec. (d)(4)(C). Pub. L. 109–163, §312(a)(3), added subpar. (C).
 
 Subsec. (d)(5). Pub. L. 109–163, §312(a)(4), added par. (5).
+
+Subsec. (i)(1). Pub. L. 109–284 substituted “sections 3131 and 3133 of title 40” for “miller act” in heading.
+
+Subsec. (k)(1). Pub. L. 109–364, §311(1), substituted “designate” for “establish” and inserted “research,” after “characterization,”.
+
+Subsec. (k)(2) to (4). Pub. L. 109–364, §311(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.”.
 
 2004—Subsec. (a)(2). Pub. L. 108–375, §1084(d)(24)(A), inserted “(42 U.S.C. 9620)” before period at end.
 
@@ -222,6 +236,10 @@ Section 1504(a) of Pub. L. 104–106 provided that the amendment made by that se
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Purpose of Pub. L. 109–284
+
+Pub. L. 109–284, §1, Sept. 27, 2006, 120 Stat. 1211, provided that: “The purpose of this Act \[amending this section, sections 107 and 210 of Title 23, Highways, section 1499 of Title 28, Judiciary and Judicial Procedure, sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works\] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters.”
+
 #### Formerly Utilized Sites Remedial Action Program
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3138\], Oct. 30, 2000, 114 Stat. 1654, 1654A–461, provided that:
@@ -246,7 +264,7 @@ Effective Date.—The limitation in subsection (a) shall not take effect if befo
 
 Termination.—If the limitation in subsection (a) takes effect, the limitation shall cease to be in effect when both certifications referred to in subsection (b) have been submitted to the congressional defense committees.”
 
-Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated asa site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
+Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 Pub. L. 106–60, title VI, §611, Sept. 29, 1999, 113 Stat. 502, provided that:
 
@@ -318,63 +336,9 @@ Definition.—In this section, the term ‘cost-recovery and cost-sharing activi
 
 #### Pilot Program for Sale of Air Pollution Emission Reduction Incentives
 
-Pub. L. 107–107, div. A, title III, §316(b), Dec. 28, 2001, 115 Stat. 1053, provided that:
+Pub. L. 107–107, div. A, title III, §316(b), Dec. 28, 2001, 115 Stat. 1053, directed the Secretary of Defense to prepare a report concerning the operation of the pilot program for the sale of economic incentives for the reduction of emission of air pollutants attributable to military facilities, as authorized by section 351 of Pub. L. 105–85, formerly set out below, and to submit the report to the Congress not later than Mar. 1, 2003.
 
-“(1) The Secretary of Defense shall prepare a report concerning the operation of the pilot program for the sale of economic incentives for the reduction of emission of air pollutants attributable to military facilities, as authorized by section 351 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 10 U.S.C. 2701 note). The report shall—
-
-&emsp;“(A) detail all transactions that have been completed under the pilot program, the dollar amount of each transaction, and the number and type of air pollutants involved in each transaction;
-
-&emsp;“(B) evaluate the extent to which retention of the proceeds of sales under the pilot program, as required by subsection (c) of such section, has provided incentives for such sales;
-
-&emsp;“(C) evaluate the extent of any loss to the United States Treasury associated with the pilot program; and
-
-&emsp;“(D) evaluate the environmental impact of the pilot program.
-
-“(2) Not later than March 1, 2003, the Secretary shall submit the report required by paragraph (1) to the Committee on Energy and Commerce and the Committee on Armed Services of the House of Representatives and the Committee on Environment and Public Works and the Committee on Armed Services of the Senate.”
-
-Pub. L. 105–85, div. A, title III, §351, Nov. 18, 1997, 111 Stat. 1692, as amended by Pub. L. 106–65, div. A, title III, §325, Oct. 5, 1999, 113 Stat. 563; Pub. L. 107–107, div. A, title III, §316(a), Dec. 28, 2001, 115 Stat. 1053, provided that:
-
-“(a)
-
-Authority.—(1) The Secretary of Defense may, in consultation with the Administrator of General Services, carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
-
-“(2) The Secretary may not carry out the pilot program after September 30, 2003.
-
-“(b)
-
-Incentives Available for Sale.—(1) Under the pilot program, the Secretary may sell economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department only if such incentives are not otherwise required for the activities or operations of the military department.
-
-“(2) The Secretary may not, under the pilot program, sell economic incentives attributable to the closure or realignment of a military installation under a base closure law.
-
-“(3) If the Secretary determines that additional sales of economic incentives are likely to result in amounts available for allocation under subsection (c)(2) in a fiscal year in excess of the limitation set forth in subparagraph (B) of that subsection, the Secretary shall not carry out such additional sales in that fiscal year.
-
-“(c)
-
-Use of Proceeds.—(1) The proceeds of sale of economic incentives attributable to a facility of a military department shall be credited to the funds available to the facility for the costs of identifying, quantifying, or valuing economic incentives for the reduction of emission of air pollutants. The amount credited shall be equal to the cost incurred in identifying, quantifying, or valuing the economic incentives sold.
-
-“(2)(A)(i) If after crediting under paragraph (1) a balance remains, the amount of such balance shall be available to the Department of Defense for allocation by the Secretary to the military departments for programs, projects, and activities necessary for compliance with Federal environmental laws, including the purchase of economic incentives for the reduction of emission of air pollutants.
-
-“(ii) To the extent practicable, amounts allocated to the military departments under this subparagraph shall be made available to the facilities that generated the economic incentives providing the basis for the amounts.
-
-“(B) The total amount allocated under this paragraph in a fiscal year from sales of economic incentives may not equal or exceed $500,000.
-
-“(3) If after crediting under paragraph (1) a balance remains in excess of an amount equal to the limitation set forth in paragraph (2)(B), the amount of the excess shall be covered over into the Treasury as miscellaneous receipts.
-
-“(4) Funds credited under paragraph (1) or allocated under paragraph (2) shall be merged with the funds to which credited or allocated, as the case may be, and shall be available for the same purposes and for the same period as the funds with which merged.
-
-“(d)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘base closure law’ means the following:
-
-&emsp;&emsp;“(A) Section 2687 of title 10, United States Code.
-
-&emsp;&emsp;“(B) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
-
-&emsp;&emsp;“(C) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-&emsp;“(2) The term ‘economic incentives for the reduction of emission of air pollutants’ means any transferable economic incentives (including marketable permits and emission rights) necessary or appropriate to meet air quality requirements under the Clean Air Act (42 U.S.C. 7401 et seq.).”
+Pub. L. 105–85, div. A, title III, §351, Nov. 18, 1997, 111 Stat. 1692, as amended by Pub. L. 106–65, div. A, title III, §325, Oct. 5, 1999, 113 Stat. 563; Pub. L. 107–107, div. A, title III, §316(a), Dec. 28, 2001, 115 Stat. 1053, authorized the Secretary of Defense, until Sept. 30, 2003, to carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
 
 #### Authority To Develop and Implement Land Use Plans for Defense Environmental Restoration Program
 
@@ -390,7 +354,7 @@ Selection of Sites.—The Secretary may select up to 10 defense sites, from amon
 
 “(c)
 
-Requirement To Consult With Review Committee or Advisory Board.—In developing a land use plan under this section, the Secretary shall consult with a technical review committee established pursuant to section 2705(c) of title 10, United States Code, a restoration advisory board established pursuant to section 2705(d) of such title, a local land use redevelopment authority, or another appropriate State agency.
+Requirement To Consult With Review Committee or Advisory Board.—In developing a land use plan under this section, the Secretary shall consult with a technical review committee established pursuant to section 2705(c) of title 10, United States Code, a restoration advisory board established pursuant to section2705(d) of such title, a local land use redevelopment authority, or another appropriate State agency.
 
 “(d) 50-
 
@@ -429,6 +393,8 @@ Section 321(a)(2) of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, 
 &emsp;“(i) the Secretary certifies to Congress that the payment of the amount under this subparagraph is essential for the management of the Defense Environmental Restoration Program under chapter 160 of title 10, United States Code; and
 
 &emsp;“(ii) a period of 60 days has expired after the date on which the certification is received by Congress.”
+
+z
 
 #### Environmental Education and Training Program for Defense Personnel
 
@@ -512,7 +478,7 @@ Elements of Education and Training Program.—In establishing or conducting an e
 
 &emsp;“(5) To the extent practicable, the institution of higher education shall select instructors for the education and training program from institutions of higher education, appropriate community programs, and industry and labor.
 
-&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose ofachieving coordination between such programs and the education and training program conducted by the consortium.
+&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs and the education and training program conducted by the consortium.
 
 “(f)
 
@@ -726,7 +692,7 @@ Employment of Graduates.—In the case of eligible civilian employees of the Dep
 
 “(c)
 
-Eligible Employees.—Eligibility for selection to participate in the training program under subsection (a) shall be limited to those civilian employees of theDepartment of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
+Eligible Employees.—Eligibility for selection to participate in the training program under subsection (a) shall be limited to those civilian employees of the Department of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
 
 “(d)
 
@@ -770,7 +736,7 @@ Selection of Installations and Facilities.—(1) For participation in the pilot 
 
 “(2)(A) Except as provided in subparagraph (B), the selections under paragraph (1) shall be made not later than 60 days after the date of the enactment of this Act.
 
-“(B) The selections under paragraph (1) of military installations described in subparagraph (B)(ii) of such paragraph shall be made not later than 60 days after the date on which the deadline (set forth in section 2904(b) of such Act) for enacting a joint resolution of disapproval with respect to the report transmitted by the President has passed.
+“(B) The selections under paragraph (1) of military installations described in subparagraph (B)(ii) of suchparagraph shall be made not later than 60 days after the date on which the deadline (set forth in section 2904(b) of such Act) for enacting a joint resolution of disapproval with respect to the report transmitted by the President has passed.
 
 “(3) The installations and facilities selected under paragraph (1) shall be representative of—
 
@@ -928,57 +894,7 @@ Section 344 of Pub. L. 101–510 directed Secretary of Defense to establish a pr
 
 #### Use of Ozone Depleting Substances Within Department of Defense
 
-Pub. L. 102–484, div. A, title III, §325, Oct. 23, 1992, 106 Stat. 2367, provided that:
-
-“(a)
-
-Evaluation of Use of Class I Substances.—The Director of the Defense Logistics Agency shall evaluate the use of class I substances by the military departments and Defense Agencies. In carrying out the evaluation, the Director shall—
-
-&emsp;“(1) determine the quantity of each class I substance that—
-
-&emsp;&emsp;“(A) is held in the inventory of each military department and Defense Agency on December 31, 1992;
-
-&emsp;&emsp;“(B) will be used by each military department and Defense Agency during 1992; and
-
-&emsp;&emsp;“(C) will be used by each military department and Defense Agency in each of 1993, 1994, and 1995;
-
-&emsp;“(2) determine the quantity of each class I substance in the inventory of the military departments and Defense Agencies in each of 1993, 1994, and 1995 that can be reclaimed or recycled and reused by the military departments and Defense Agencies;
-
-&emsp;“(3) determine the type and quantity of class I substances whose use will be critical to the missions of the military departments and Defense Agencies after 1995;
-
-&emsp;“(4) determine the type and quantity of class I substances that must be stockpiled after 1995 in order to ensure the availability of such substances, including the availability of used, reclaimed, or recycled class I substances for the missions referred to in paragraph (3);
-
-&emsp;“(5) review the plans, if any, to reclaim, recycle, reuse, and maintain the stockpile referred to in paragraph (4); and
-
-&emsp;“(6) identify each specific site, facility, or vessel in connection with which the Secretary of Defense will seek an exemption pursuant to section 604(f) of the Clean Air Act (42 U.S.C. 7671c(f)) to permit the continued production or use of class I substances, and the type and quantity of each class I substance that will be produced or used in connection with the site, facility, or vessel.
-
-“(b)
-
-Evaluation of Use of Class II Substances.—The Director of the Defense Logistics Agency shall evaluate the use of class II substances by the military departments and Defense Agencies. In carrying out the evaluation, the Director shall—
-
-&emsp;“(1) determine the quantity of each class II substance that—
-
-&emsp;&emsp;“(A) is held in the inventory of each military department and Defense Agency on December 31, 1992;
-
-&emsp;&emsp;“(B) will be used by each military department and Defense Agency during 1992; and
-
-&emsp;&emsp;“(C) will be used by each military department and Defense Agency in each of 1993, 1994, and 1995; and
-
-&emsp;“(2) determine the quantity of each class II substance in the inventory of the military departments and Defense Agencies in each of 1993, 1994, and 1995 that can be reclaimed or recycled and reused by the military departments and Defense Agencies.
-
-“(c)
-
-Report.—(1) The Director of the Defense Logistics Agency shall submit to the congressional defense committees a report on the status of the evaluation required under subsection (a) not later than April 1, 1993.
-
-“(2) The Director of the Defense Logistics Agency shall submit to the congressional defense committees a report on the status of the evaluation required under subsection (b) not later than October 1, 1993.
-
-“(d)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘class I substance’ means any substance listed under section 602(a) of the Clean Air Act (42 U.S.C. 7671a(a)).
-
-&emsp;“(2) The term ‘class II substance’ means any substance listed under section 602(b) of the Clean Air Act (42 U.S.C. 7671a(b)).”
+Pub. L. 102–484, div. A, title III, §325, Oct. 23, 1992, 106 Stat. 2367, required the Director of the Defense Logistics Agency to evaluate the use of class I and class II substances, listed under 42 U.S.C. 7671a, by the military departments and Defense Agencies for the years 1992 to 1995 and to submit to the congressional defense committees a report on the status of the evaluation in 1993.
 
 Section 345 of Pub. L. 101–510 provided that:
 
@@ -1018,47 +934,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 #### Funding for Waste Minimization Programs for Certain Industrial-Type Activities of Department of Defense
 
-Pub. L. 101–189, div. A, title III, §354, Nov. 29, 1989, 103 Stat. 1424, as amended by Pub. L. 102–190, div. A, title III, §332, Dec. 5, 1991, 105 Stat. 1340, provided that:
-
-“(a)
-
-Requirement To Establish Waste Minimization Program.—The Secretary of Defense shall require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that is a depot maintenance installation and for which a working-capital fund has been established under section 2208 of title 10, United States Code.
-
-“(b)
-
-Funding.—Funding for the waste minimization program in each military department shall come out of payments received by the working-capital funds established for industrial-type and commercial-type activities of the department. The level of funding for each of fiscal years 1992, 1993, and 1994 shall be not less than 1/2 of 1 percent of the amount of such payments received during fiscal year 1988 that were used for depot maintenance installation functions at industrial-type activities. The required level of funding for fiscal year 1992 may be reduced by amounts expended for waste minimization during fiscal years 1990 and 1991. In any case in which a military department fails to spend funds at the level required by this subsection for the waste minimization program, the Secretary concerned shall submit to Congress a report explaining the reasons for the failure.
-
-“(c)
-
-Notice of Excluded Activities.—Not later than 90 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to Congress the name of each industrial-type or commercial-type activity of each military department which is not covered by the waste minimization program because the activity does not carry out depot maintenance installation functions.
-
-“(d)
-
-Use of Funds.—Funds available for the waste minimization programs established pursuant to this section shall be used to carry out waste minimization projects at depot maintenance installations. The types of expenses for which such funds may be used include the following (if such expense is related to a waste minimization project):
-
-&emsp;“(1) Operating expenses (including salaries).
-
-&emsp;“(2) Equipment purchase expenses.
-
-&emsp;“(3) Facility modification expenses.
-
-&emsp;“(4) Process change expenses.
-
-&emsp;“(5) Product substitution expenses.
-
-&emsp;“(6) Military construction expenses.
-
-&emsp;“(7) Research, development, test, and evaluation expenses.
-
-&emsp;“(8) Expenses for the lease of equipment or facilities.
-
-“(e)
-
-Recovery of Costs.—Each project carried out at an industrial-type activity as part of a waste minimization program established pursuant to this section shall be designed to achieve, over the expected useful life of the project, reductions in the cost of the disposal of solid and hazardous wastes generated by the activity in an amount which is not less than the cost of the project. The Secretary of a military department may provide funds for a project that does not meet the requirement of the preceding sentence if the Secretary certifies to Congress that—
-
-&emsp;“(1) the project will result in a reduction of solid or hazardous waste disposed of, or hazardous materials used by, the activity; or
-
-&emsp;“(2) the project will eliminate or reduce the likelihood of harm to human health or the environment.”
+Pub. L. 101–189, div. A, title III, §354, Nov. 29, 1989, 103 Stat. 1424, as amended by Pub. L. 102–190, div. A, title III, §332, Dec. 5, 1991, 105 Stat. 1340, directed the Secretary of Defense to require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that was a depot maintenance installation and for which a working-capital fund had been established under section 2208 of this title, and to submit to Congress, not later than 90 days after Nov. 29, 1989, the name of each industrial-type or commercial-type activity of each military department which was not covered by the waste minimization program because the activity did not carry out depot maintenance installation functions.
 
 #### Use of Chlorofluorocarbons and Halons in Department of Defense
 
@@ -1072,7 +948,7 @@ Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formula
 
 Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
 
-“(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph,the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
+“(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph, the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
 
 “(c)
 
@@ -1108,23 +984,7 @@ Pub. L. 101–189, div. A, title III, §358, Nov. 29, 1989, 103 Stat. 1427, dire
 
 #### Study of Waste Recycling
 
-Pub. L. 101–189, div. A, title III, §361, Nov. 29, 1989, 103 Stat. 1429, as amended by Pub. L. 101–510, div. A, title III, §343, Nov. 5, 1990, 104 Stat. 1538, provided that:
-
-“(a)
-
-Study.—The Secretary of Defense shall conduct a study of the following:
-
-&emsp;“(1) Current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste is generated, including commissary and exchange stores, cafeterias, and mess halls.
-
-&emsp;“(2) The feasibility of such Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities.
-
-“(b)
-
-Postconsumer Waste Defined.—For purposes of this section, the term ‘postconsumer waste’ means garbage and refuse, including items that have passed through their end use as consumer items.
-
-“(c)
-
-Report.—Not later than March 1, 1991, the Secretary of Defense shall submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study.”
+Pub. L. 101–189, div. A, title III, §361, Nov. 29, 1989, 103 Stat. 1429, as amended by Pub. L. 101–510, div. A, title III, §343, Nov. 5, 1990, 104 Stat. 1538, required the Secretary of Defense to conduct a study of current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste was generated and the feasibility of such Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities, and to submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study not later than Mar. 1, 1991.
 
 #### Use of Department of Defense Appropriations for Removal of Unsafe Buildings or Debris
 

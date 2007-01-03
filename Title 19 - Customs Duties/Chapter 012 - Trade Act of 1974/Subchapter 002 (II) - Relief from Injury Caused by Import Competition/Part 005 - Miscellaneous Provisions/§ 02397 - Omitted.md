@@ -48,7 +48,7 @@ Training Requirement.—The amendments made by subsections (a), (b)(2), and (c)(
 
 “(g)
 
-Limitation on Period for Which Trade Readjustment Allowances May Be Made.—The amendment made by section 1425(a) \[amending section 2293 of this title\] shall not apply with respect to any total separation of a worker from adversely affected employment (within the meaning of section 247 of such Act \[19 U.S.C. 2319\]) that occurs before the date of enactment of this Act \[Aug. 23, 1988\] if the application of such amendment with respect to such total separation would reduce the period for which such worker would (but for such amendment) be allowed to receive trade readjustment allowances under part I of subchapter B of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 to 2294\].”
+Limitation on Period for Which Trade Readjustment Allowances May Be Made.—The amendment made by section 1425(a) \[amending section 2293 of this title\] shall not apply with respect to any total separation of a worker from adversely affected employment (within the meaning of section 247 of such Act \[19 U.S.C. 2319\]) that occurs before the date of enactment of this Act \[Aug. 23, 1988\] if the application of such amendment with respect to such total separation would reduce the period for which such worker would (but for such amendment) be allowed to receive trade readjustment allowances under part I of subchapter B of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\].”
 
 #### Imposition of Small Uniform Fee on All Imports
 

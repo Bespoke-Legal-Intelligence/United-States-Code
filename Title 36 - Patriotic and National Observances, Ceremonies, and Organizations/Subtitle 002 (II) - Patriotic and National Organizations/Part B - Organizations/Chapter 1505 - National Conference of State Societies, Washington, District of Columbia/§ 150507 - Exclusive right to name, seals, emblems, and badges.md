@@ -1,6 +1,6 @@
 ### §150507. Exclusive right to name, seals, emblems, and badges
 
-The corporation has the exclusive right to use the name “National Conference of State Societies, Washington, District of Columbia” and seals, emblems, and badges the corporation adopts.
+The corporation has the exclusive right to use the name “National Conference of State Societies, Washington, District of Columbia” andseals, emblems, and badges the corporation adopts.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1390.)
 

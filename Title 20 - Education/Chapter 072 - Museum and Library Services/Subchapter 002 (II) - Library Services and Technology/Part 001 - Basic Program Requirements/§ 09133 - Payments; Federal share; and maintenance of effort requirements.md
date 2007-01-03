@@ -42,7 +42,7 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### (3) Waiver
 
-&emsp;The Director may waive the requirements of paragraph (1) if the Director determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
+&emsp;The Director may waive the requirements of paragraph (1) if the Director determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such asa natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
 
 (Pub. L. 94–462, title II, §223, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–299; amended Pub. L. 105–128, §5, Dec. 1, 1997, 111 Stat. 2549.)
 

@@ -10,7 +10,7 @@ Allowance for Family Members and Certain Others.—(1) Under uniform regulations
 
 &emsp;(B) no other family member who is eligible for travel and transportation under subsection (a) is able to serve as an attendant for the family member.
 
-(3) If no family member of an employee described in subsection (b) is able to travel to the repatriation site of the employee, travel and transportation described in subsection (d) may be provided to not more than 2 persons related to and selected by the employee.
+(3) If no family member of an employee described in subsection (b) is able to travel to therepatriation site of the employee, travel and transportation described in subsection (d) may be provided to not more than 2 persons related to and selected by the employee.
 
 (b)
 

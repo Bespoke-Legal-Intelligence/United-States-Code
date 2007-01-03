@@ -1,6 +1,6 @@
 ### §747. Subordination of certain customer claims
 
-Except as provided in section 510 of this title, unless all other customer net equity claims have been paid in full, the trustee may not pay in full or pay in part, directly or indirectly, any net equity claim of a customer that was, on the date the transaction giving rise to such claim occurred—
+Except as provided in section 510 of this title, unless all other customer net equity claims havebeen paid in full, the trustee may not pay in full or pay in part, directly or indirectly, any net equity claim of a customer that was, on the date the transaction giving rise to such claim occurred—
 
 &emsp;(1) an insider;
 

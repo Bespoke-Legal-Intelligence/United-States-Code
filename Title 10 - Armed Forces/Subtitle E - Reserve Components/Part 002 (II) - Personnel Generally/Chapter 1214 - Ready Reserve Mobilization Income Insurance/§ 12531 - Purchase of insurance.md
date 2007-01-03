@@ -2,7 +2,7 @@
 
 (a)
 
-Purchase Authorized.—The Secretary may, instead of or in addition to underwritingthe insurance program through the Fund, purchase from one or more insurance companies a policy or policies of group insurance in order to provide the benefits required under this chapter. The Secretary may waive any requirement for full and open competition in order to purchase an insurance policy under this subsection.
+Purchase Authorized.—The Secretary may, instead of or in addition to underwriting the insurance program through the Fund, purchase from one or more insurance companies a policy or policies of group insurance in order to provide the benefits required under this chapter. The Secretary may waive any requirement for full and open competition in order to purchase an insurance policy under this subsection.
 
 (b)
 

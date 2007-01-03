@@ -48,7 +48,7 @@ Sec. 6. The Secretary of the Navy is authorized and directed, with the approval 
 
 “
 
-Sec. 7. \[Amended section 202 of this title\].
+Sec. 7. \[Amended former section 202 of this title\].
 
 “
 

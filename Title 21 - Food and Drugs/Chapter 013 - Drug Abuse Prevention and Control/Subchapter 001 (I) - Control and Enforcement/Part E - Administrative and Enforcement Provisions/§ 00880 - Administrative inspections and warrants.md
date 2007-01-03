@@ -38,7 +38,7 @@ A warrant under this section shall not be required for the inspection of books a
 
 &emsp;(2) in situations presenting imminent danger to health or safety;
 
-&emsp;(3) in situations involving inspection of conveyances where there is reasonable cause to believe that the mobility of the conveyance makes it impracticable to obtain a warrant;
+&emsp;(3) in situations involving inspection of conveyances where there is reasonable cause tobelieve that the mobility of the conveyance makes it impracticable to obtain a warrant;
 
 &emsp;(4) in any other exceptional or emergency circumstance where time or opportunity to apply for a warrant is lacking; or
 

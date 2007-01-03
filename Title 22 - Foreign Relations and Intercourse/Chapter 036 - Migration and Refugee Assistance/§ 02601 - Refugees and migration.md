@@ -28,7 +28,7 @@ The President shall keep the appropriate committees of Congress currently inform
 
 #### (e) Continued availability of certain funds
 
-Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of thissection and may be consolidated with appropriations authorized by this section.
+Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
 
 #### (f) Restrictions on foreign assistance not applicable to migration and refugee assistance
 
@@ -80,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §251\], Nov. 29, 19
 
 “(a)
 
-In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28,1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
 “(b)
 
@@ -148,7 +148,7 @@ Investigation of Reports.—Upon receipt of credible reports of abuses under sub
 
 Multilateral Implementation of the 1991
 
-UNHCR ‘Guidelines on the Protection of Refugee Women’.—The Secretary of State should work to ensure that multilateral organizations fully incorporate the needs of refugee women and children into all elements of refugee assistance programs and work to encourage other governments that provide refugee assistance to adopt refugee assistance policies designed to encourage full implementation of the 1991 UNHCR's ‘Guidelines on the Protection of Refugee Women’.”
+UNHCR ‘Guidelines on the Protection of Refugee Women’.—The Secretary of State should work to ensurethat multilateral organizations fully incorporate the needs of refugee women and children into all elements of refugee assistance programs and work to encourage other governments that provide refugee assistance to adopt refugee assistance policies designed to encourage full implementation of the 1991 UNHCR's ‘Guidelines on the Protection of Refugee Women’.”
 
 #### United States Membership in Intergovernmental Committee for European Migration
 
@@ -160,7 +160,7 @@ Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June
 
 #### Availability of Funds for Continuation of Activities
 
-Section 7 of Pub. L. 87–510 provided that: “Until the enactment of legislation appropriating funds for activities under this Act \[see Short Title note above\], suchactivities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended \[section 2261(a) of this title\].”
+Section 7 of Pub. L. 87–510 provided that: “Until the enactment of legislation appropriating funds for activities under this Act \[see Short Title note above\], such activities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended \[section 2261(a) of this title\].”
 
 #### Executive Order No. 12244
 

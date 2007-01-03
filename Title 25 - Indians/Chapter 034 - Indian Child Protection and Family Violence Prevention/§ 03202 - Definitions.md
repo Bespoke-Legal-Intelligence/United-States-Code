@@ -60,7 +60,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(15) “related assistance”—
 
-&emsp;&emsp;(A) includes counseling and self-help services to abusers, victims, and dependents in family violence situations (which shall include counseling of all family members tothe extent feasible) and referrals for appropriate health-care services (including alcohol and drug abuse treatment), and
+&emsp;&emsp;(A) includes counseling and self-help services to abusers, victims, and dependents in family violence situations (which shall include counseling of all family members to the extent feasible) and referrals for appropriate health-care services (including alcohol and drug abuse treatment), and
 
 &emsp;&emsp;(B) may include food, clothing, child care, transportation, and emergency services for victims of family violence and their dependents;
 

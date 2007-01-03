@@ -160,7 +160,7 @@ In this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable sharein escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c) of this section.
+&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c) of this section.
 
 #### (c) Coastal impact assistance plan
 

@@ -1,6 +1,6 @@
 ### §131. Collections composing Library; location
 
-The Library of Congress, composed of the books, maps, and other publications which on December 1, 1873, remained in existence, from the collections theretofore united under authority of law and those added from time to time by purchase, exchange, donation, reservation from publications ordered by Congress, acquisition of material under the copyright law, and otherwise, shall be preserved in the Library Building.
+The Library of Congress, composed of the books, maps, and other publications which on December 1, 1873, remained in existence, from the collections theretofore united under authority of law and those added from time to time by purchase, exchange, donation, reservation from publications ordered by Congress, acquisition ofmaterial under the copyright law, and otherwise, shall be preserved in the Library Building.
 
 (R.S. §80; Feb. 19, 1897, ch. 265, §1, 29 Stat. 545, 546; Pub. L. 94–553, title I, §105(g), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 100–202, §101(i) \[title III, §310\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310.)
 

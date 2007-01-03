@@ -28,7 +28,7 @@ Each community parent resource center assisted under this section shall—
 
 &emsp;(1) provide training and information that meets the training and information needs of parents of children with disabilities proposed to be served by the grant, contract, or cooperative agreement;
 
-&emsp;(2) carry out the activities required of parent training and information centers under paragraphs (2) through (9) of section 1471(b) of this title;
+&emsp;(2) carry out the activities required of parent training and information centers underparagraphs (2) through (9) of section 1471(b) of this title;
 
 &emsp;(3) establish cooperative partnerships with the parent training and information centers funded under section 1471 of this title; and
 
@@ -40,5 +40,5 @@ Each community parent resource center assisted under this section shall—
 
 A prior section 1472, Pub. L. 91–230, title VI, §672, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 136, related to research and innovation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1472, Pub. L. 91–230, title VI, §672, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1146; amended Pub. L. 100–630, title I, §108(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VIII, §801, title IX, §901(b)(162), (163), Oct. 30, 1990, 104 Stat.1141, 1149; Pub. L. 102–119, §§12, 25(b), Oct. 7, 1991, 105 Stat. 595, 607, related to definitions, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1472, Pub. L. 91–230, title VI, §672, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1146; amended Pub. L. 100–630, title I, §108(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VIII, §801, title IX, §901(b)(162), (163), Oct. 30, 1990, 104 Stat. 1141, 1149; Pub. L. 102–119, §§12, 25(b), Oct. 7, 1991, 105 Stat. 595, 607, related to definitions, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 

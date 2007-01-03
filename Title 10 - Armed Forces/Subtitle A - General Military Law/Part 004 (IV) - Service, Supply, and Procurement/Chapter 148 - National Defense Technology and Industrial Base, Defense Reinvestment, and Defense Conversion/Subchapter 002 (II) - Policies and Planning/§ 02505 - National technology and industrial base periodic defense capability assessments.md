@@ -2,7 +2,7 @@
 
 (a)
 
-Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selected assessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
+Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selectedassessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
 
 (b)
 
@@ -40,27 +40,7 @@ A prior section 2505 was renumbered section 2532 of this title.
 
 #### Study of Beryllium Industrial Base
 
-Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, provided that:
-
-“(a)
-
-Requirement for Study.—The Secretary of Defense shall conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium.
-
-“(b)
-
-Report.—Not later than March 31, 2005, the Secretary shall submit a report on the results of the study to Congress. The report shall contain, at a minimum, the following information:
-
-&emsp;“(1) A discussion of the issues identified with respect to the long-term supply of beryllium.
-
-&emsp;“(2) An assessment of the need, if any, for modernization of the primary sources of production of beryllium.
-
-&emsp;“(3) A discussion of the advisability of, and concepts for, meeting the future defense requirements of the United States for beryllium and maintaining a stable domestic industrial base of sources of beryllium through—
-
-&emsp;&emsp;“(A) cooperative arrangements commonly referred to as public-private partnerships;
-
-&emsp;&emsp;“(B) the administration of the National Defense Stockpile under the Strategic and Critical Materials Stock Piling Act \[50 U.S.C. 98 et seq.\]; and
-
-&emsp;&emsp;“(C) any other means that the Secretary identifies as feasible.”
+Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
 
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Assessment
 

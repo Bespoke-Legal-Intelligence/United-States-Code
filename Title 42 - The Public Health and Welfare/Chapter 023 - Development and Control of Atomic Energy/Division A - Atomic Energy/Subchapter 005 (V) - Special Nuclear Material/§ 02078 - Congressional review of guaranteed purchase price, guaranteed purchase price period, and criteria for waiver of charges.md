@@ -10,7 +10,3 @@ Before the Commission establishes any guaranteed purchase price or guaranteed pu
 
 1964—Pub. L. 88–489 substituted “guaranteed purchase” and “purchase” for “fair” wherever appearing, “licensed and distributed” for “licensed or distributed”, and provided that the Joint Committee resolution waiving the conditions of the forty-five-day period must be in writing.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

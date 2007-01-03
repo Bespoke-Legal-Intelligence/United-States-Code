@@ -56,7 +56,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with theFinancial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
 
 #### (2) Federal agency lenders
 
@@ -88,7 +88,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (A) In general
 
-&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile homemay jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
+&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile home may jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
 
 #### (B) Effect of determination
 
@@ -228,7 +228,9 @@ Amendment by section 582(c) of Pub. L. 103–325 applicable to disasters declare
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ The Secretary of Defense shall fix the basic compensation for teachers and teach
 
 The Secretary of Defense may prescribe and issue such regulations as he deems appropriate to carry out his functions under this chapter.
 
-(Pub. L. 86–91, §5, July 17, 1959, 73 Stat. 214; Pub. L. 86–370, §6(b), Sept. 23, 1959, 73 Stat. 652; Pub. L. 89–391, §1(b), (c), Apr. 14, 1966, 80 Stat. 117; Pub. L. 96–470, title I, §104(b), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 104–201, div. A, title XVI, §1606(b), Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title X, §1073(c)(9)(B), (C), Nov. 18, 1997, 111 Stat. 1904.)
+(Pub. L. 86–91, §5, July 17, 1959, 73 Stat. 214; Pub. L. 86–370, §6(b), Sept. 23, 1959, 73 Stat. 652; Pub. L. 89–391, §1(b), (c), Apr. 14, 1966, 80 Stat. 117; Pub. L. 96–470, title I, §104(b), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 104–201, div. A, title XVI,§1606(b), Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title X, §1073(c)(9)(B), (C), Nov. 18, 1997, 111 Stat. 1904.)
 
 #### Codification
 

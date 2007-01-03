@@ -10,7 +10,7 @@ With respect to conditional leases and sales of minerals heretofore or hereafter
 
 #### (c) Patents; royalties: reservation of percentage of gross value of produced or removed minerals and of rentals and bonuses from disposition of minerals
 
-Each patent hereafter issued to the State under the Alaska Statehood Act, including a patent of lands heretofore selected and tentatively approved, shall reserve for the benefit of the Natives, and for payment into the Alaska Native Fund, (1) a royalty of 2 per centum upon the gross value (as such gross value is determined for royalty purposes under any disposition by the State) of the minerals thereafter produced or removed from such lands, and (2) 2per centum of all revenues thereafter derived by the State from rentals and bonuses from the disposition of such minerals.
+Each patent hereafter issued to the State under the Alaska Statehood Act, including a patent of lands heretofore selected and tentatively approved, shall reserve for the benefit of the Natives, and for payment into the Alaska Native Fund, (1) a royalty of 2 per centum upon the gross value (as such gross value is determined for royalty purposes under any disposition by the State) of the minerals thereafter produced or removed from such lands, and (2) 2 per centum of all revenues thereafter derived by the State from rentals and bonuses from the disposition of such minerals.
 
 #### (d) Distribution of bonuses, rentals, and royalties from Federal disposition of minerals in public lands; payments into Alaska Native Fund based on percentage of gross value of produced minerals and of rentals and bonuses; Federal and State share calculation on remaining balance
 
@@ -22,7 +22,7 @@ The provisions of this section shall be enforceable by the United States for the
 
 #### (f) Oil and gas revenues; amount payable equal to Federal or State royalties in cash or kind
 
-Revenues received by the United States or the State as compensation for estimated drainage of oil or gas shall, for the purposes of this section, be regarded as revenues from the disposition of oil and gas. In the event the United States or the State elects to take royalties in kind, there shall be paid into the Fund on account thereof an amount equal to the royalties that would have been paid into the Fund under the provisions of this section had the royalty been taken in cash.
+Revenues received by the United States or the State as compensation for estimated drainage of oil or gas shall, for the purposes of this section, be regarded as revenues from the disposition ofoil and gas. In the event the United States or the State elects to take royalties in kind, there shall be paid into the Fund on account thereof an amount equal to the royalties that would have been paid into the Fund under the provisions of this section had the royalty been taken in cash.
 
 #### (g) Alaska Native Fund payments; cessation; reimbursement for advance payments
 

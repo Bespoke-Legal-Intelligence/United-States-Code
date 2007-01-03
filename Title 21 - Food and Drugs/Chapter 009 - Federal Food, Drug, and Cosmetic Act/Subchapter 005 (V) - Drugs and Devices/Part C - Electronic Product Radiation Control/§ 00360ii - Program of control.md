@@ -42,7 +42,7 @@ Section was classified to section 263d of Title 42, The Public Health and Welfar
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section263d of Title 42, The Public Health and Welfare, as this section.
+1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263d of Title 42, The Public Health and Welfare, as this section.
 
 1990—Subsec. (a)(1), (6). Pub. L. 101–629, §19(a)(2)(A)(i), substituted “section 360kk” for “section 263f”.
 

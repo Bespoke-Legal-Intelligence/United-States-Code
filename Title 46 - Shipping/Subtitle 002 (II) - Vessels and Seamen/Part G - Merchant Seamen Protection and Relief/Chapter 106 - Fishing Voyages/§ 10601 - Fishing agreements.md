@@ -36,9 +36,7 @@ Subsecs. (b), (c). Pub. L. 107–295, §441(b)(2), (3), redesignated subsec. (c)
 
 #### Agreements Deemed Compliant
 
-Pub. L. 107–295, title IV, §441(c), Nov. 25, 2002, 116 Stat. 2131, provided that: “An agreement that complies with the requirements of section 10601(a) of title 46, United States Code, as herein amended, and that is not the subject of an action prior to June 20, 2002, alleging a breach of subsections (a) or (b) of section 10601 as in effect on such date, is hereby deemed to have been in compliance with such subsections.”
+Pub. L. 107–295, title IV, §441(c), Nov. 25, 2002, 116 Stat. 2131, as amended by Pub. L. 108–199, div. H, §137(a), Jan. 23, 2004, 118 Stat. 442, provided that: “An agreement that complies with the requirements of section 10601(a) of title 46, United States Code, as herein amended, is hereby deemed to have been in compliance with subsections (a) and (b) of section 10601 of title 46, United States Code, as in effect prior to November 25, 2002.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10602 of this title.
+\[Pub. L. 108–199, div. H, §137(b), Jan. 23, 2004, 118 Stat. 442, provided that: “The amendments made by subsection (a) \[amending section 441(c) of Pub. L. 107–295, set out above\] apply to all proceedings pending on or commenced after the date of enactment of this Act \[Jan. 23, 2004\].”\]
 

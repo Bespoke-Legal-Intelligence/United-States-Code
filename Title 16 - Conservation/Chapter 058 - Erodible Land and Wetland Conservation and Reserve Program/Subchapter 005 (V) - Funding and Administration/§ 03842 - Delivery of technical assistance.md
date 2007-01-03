@@ -6,7 +6,7 @@ The Secretary shall provide technical assistance under this chapter to a produce
 
 &emsp;(1) directly; or
 
-&emsp;(2) at the option of the producer, through a payment, as determined by the Secretary, tothe producer for an approved third party, if available.
+&emsp;(2) at the option of the producer, through a payment, as determined by the Secretary, to the producer for an approved third party, if available.
 
 #### (b) Certification of third-party providers
 

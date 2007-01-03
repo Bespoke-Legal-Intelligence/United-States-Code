@@ -22,7 +22,7 @@ Determination and Disposition.—If, after the hearing, the court fails to find 
 
 &emsp;(1) such a State will assume such responsibility; or
 
-&emsp;(2) the person's mental condition is such that his release, or his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, would not create a substantial risk of bodily injury to another person or serious damage to property of another;
+&emsp;(2) the person's mental condition is such that his release, or his conditional releaseunder a prescribed regimen of medical, psychiatric, or psychological care or treatment, would not create a substantial risk of bodily injury to another person or serious damage to property of another;
 
 > whichever is earlier. The Attorney General shall continue periodically to exert all reasonable efforts to cause such a State to assume such responsibility for the person's custody, care, and treatment.
 
@@ -76,7 +76,7 @@ Notice.—The Attorney General shall, by any means reasonably designed to do so,
 
 &emsp;&emsp;(C)
 
-Order.—Upon application of the Attorney General, the court shall order the person transferred to the custody of the Attorney General, unless, pursuant to a hearing under this paragraph, the court finds that the proposed transfer would violate a right of such person under the United States Constitution.
+Order.—Upon application of the Attorney General, the court shall order the person transferred to the custody of the Attorney General, unless, pursuant to a hearing underthis paragraph, the court finds that the proposed transfer would violate a right of such person under the United States Constitution.
 
 &emsp;&emsp;(D)
 

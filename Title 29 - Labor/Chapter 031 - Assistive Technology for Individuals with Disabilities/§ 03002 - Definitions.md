@@ -62,7 +62,7 @@ In this chapter:
 
 &emsp;&emsp;(A) with regard to policies, means that the policies are consistent with the principles of—
 
-&emsp;&emsp;&emsp;(i) respect for individual dignity, personal responsibility, self-determination,and pursuit of meaningful careers, based on informed choice, of individuals with disabilities;
+&emsp;&emsp;&emsp;(i) respect for individual dignity, personal responsibility, self-determination, and pursuit of meaningful careers, based on informed choice, of individuals with disabilities;
 
 &emsp;&emsp;&emsp;(ii) respect for the privacy, rights, and equal access (including the use of accessible formats) of such individuals;
 
@@ -180,7 +180,7 @@ In this chapter:
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Part C of title VII of the Act is classified generally to subpart 3 (§796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87Stat. 355, as amended. Part C of title VII of the Act is classified generally to subpart 3 (§796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in pars. (2) and (12)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 

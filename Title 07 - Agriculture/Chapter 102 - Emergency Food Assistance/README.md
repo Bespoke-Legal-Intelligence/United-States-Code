@@ -4,50 +4,20 @@
 | :--- | ---: |
 | [7501\.](%C2%A7%2007501%20-%20Definitions.md) | Definitions. |
 | [7502\.](%C2%A7%2007502%20-%20Availability%20of%20CCC%20commodities.md) | Availability of CCC commodities. |
-| (a) | In general. |
-| (b) | Repealed. |
-| (c) | Additional commodities. |
-| (d) | Varieties of commodities. |
-| (e) | Report to Congress. |
-| (f) | Relation to other programs. |
-| (g) | Donations to emergency feeding organizations. |
 | [7503\.](%C2%A7%2007503%20-%20State%20plan.md) | State plan. |
-| (a) | In general. |
-| (b) | Requirements. |
-| (c) | State advisory board. |
 | [7504\.](%C2%A7%2007504%20-%20Initial%20processing%20costs.md) | Initial processing costs. |
 | [7505\.](%C2%A7%2007505%20-%20Federal%20and%20State%20responsibilities.md) | Federal and State responsibilities. |
-| (a) | Federal responsibility; optional State priority. |
-| (b) | Distribution by State agencies; priority; rural areas. |
-| (c) | Distribution to needy persons. |
-| (d) | Cooperative agreements with adjoining States. |
 | [7506\.](%C2%A7%2007506%20-%20Assurances%3B%20anticipated%20use.md) | Assurances; anticipated use. |
 | [7507\.](%C2%A7%2007507%20-%20State%20and%20local%20supplementation%20of%20commodities.md) | State and local supplementation of commodities. |
-| (a) | Authorization. |
-| (b) | Use of funds and facilities. |
-| (c) | Volunteer workers. |
 | [7508\.](%C2%A7%2007508%20-%20Authorization%20and%20appropriations.md) | Authorization and appropriations. |
 | [7509\.](%C2%A7%2007509%20-%20Relationship%20to%20other%20programs.md) | Relationship to other programs. |
 | [7510\.](%C2%A7%2007510%20-%20Commodities%20not%20income.md) | Commodities not income. |
 | [7511\.](%C2%A7%2007511%20-%20Prohibition%20against%20certain%20State%20charges.md) | Prohibition against certain State charges. |
 | [7512\.](%C2%A7%2007512%20-%20Regulations.md) | Regulations. |
-| (a) | Issuance. |
-| (b) | Minimization of regulatory requirements. |
-| (c) | Publication in Federal Register. |
-| (d) | Standards of liability for commodity losses. |
-| (e) | Final regulations. |
 | [7513\.](%C2%A7%2007513%20-%20Finality%20of%20determinations.md) | Finality of determinations. |
 | [7514\.](%C2%A7%2007514%20-%20Incorporation%20of%20additional%20commodities.md) | Incorporation of additional commodities. |
-| (a) | In general. |
-| (b) | Supplement commodities available. |
 | [7515\.](%C2%A7%2007515%20-%20Allotment%20and%20delivery%20of%20commodities.md) | Allotment and delivery of commodities. |
-| (a) | Mandatory allotments. |
-| (b) | Reallocation. |
-| (c) | Administration. |
-| (d) | Maintenance of effort. |
 | [7516\.](%C2%A7%2007516%20-%20Settlement%20and%20adjustment%20of%20claims.md) | Settlement and adjustment of claims. |
-| (a) | In general. |
-| (b) | Litigation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

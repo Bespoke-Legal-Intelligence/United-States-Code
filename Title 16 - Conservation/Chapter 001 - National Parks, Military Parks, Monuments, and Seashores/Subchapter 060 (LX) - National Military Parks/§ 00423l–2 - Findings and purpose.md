@@ -14,13 +14,13 @@ The Congress finds the following:
 
 &emsp;(5) The Commonwealth of Virginia and its local units of government have authority to prevent or minimize adverse uses of these historic resources and can play a significant role in the protection of the historic resources related to the campaigns against and in defense of Richmond.
 
-&emsp;(6) The preservation of the New Market Heights Battlefield in the vicinity of the City of Richmond is an important aspect of American history that can be interpreted to the public. The Battle of New Market Heights represents a premier landmark in black military history as 14 black Union soldiers were awarded the Medal of Honor in recognition of their valor during the battle. According to National Park Service historians, the sacrifices of the United States Colored Troops in this battle helped to ensure the passage of the Thirteenth Amendment to the United States Constitution to abolish slavery.
+&emsp;(6) The preservation of the New Market Heights Battlefield in the vicinity of the City of Richmond is an important aspect of American history that can be interpreted to the public. The Battle of New Market Heights represents a premier landmark in black militaryhistory as 14 black Union soldiers were awarded the Medal of Honor in recognition of their valor during the battle. According to National Park Service historians, the sacrifices of the United States Colored Troops in this battle helped to ensure the passage of the Thirteenth Amendment to the United States Constitution to abolish slavery.
 
 #### (b) Purpose
 
 It is the purpose of sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title—
 
-&emsp;(1) to revise the boundaries for the Richmond National Battlefield Park based on thefindings of the Civil War Sites Advisory Committee and the National Park Service; and
+&emsp;(1) to revise the boundaries for the Richmond National Battlefield Park based on the findings of the Civil War Sites Advisory Committee and the National Park Service; and
 
 &emsp;(2) to direct the Secretary of the Interior to work in cooperation with the Commonwealth of Virginia, the City of Richmond, other political subdivisions of the Commonwealth, other public entities, and the private sector in the management, protection, and interpretation of the resources associated with the Civil War and the Civil War battles in and around the City of Richmond, Virginia.
 

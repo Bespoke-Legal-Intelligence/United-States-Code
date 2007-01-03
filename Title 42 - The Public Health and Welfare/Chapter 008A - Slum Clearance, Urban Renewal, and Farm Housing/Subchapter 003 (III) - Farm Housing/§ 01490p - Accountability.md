@@ -8,7 +8,7 @@
 
 #### (2) Publication of application procedures
 
-&emsp;The Secretary shall publish in the Federal Register a description of the form and procedures by which application for the assistance may be made, and any deadlines relating to the award or allocation of the assistance. Such description shall be sufficient to enable any eligible applicant to apply for such assistance.
+&emsp;The Secretary shall publish in the Federal Register a description of the form and procedures by which application for the assistance may be made, and any deadlines relating to the award or allocation of the assistance. Suchdescription shall be sufficient to enable any eligible applicant to apply for such assistance.
 
 #### (3) Publication of selection criteria
 

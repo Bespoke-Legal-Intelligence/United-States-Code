@@ -110,7 +110,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 At the request of an authorized representative referred to in subsection (a)(6)(C) of this section, the Secretary of the Treasury may:
 
-&emsp;(1) withhold the clearance required by section 91 of title 46, Appendix for a vessel if the master, owner, or operator of a vessel subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation or ordinance issued hereunder; and
+&emsp;(1) withhold the clearance required by section 60105 of title 46 for a vessel if the master, owner, or operator of a vessel subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation or ordinance issued hereunder; and
 
 &emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation, or ordinance issued hereunder.
 
@@ -127,6 +127,10 @@ Subsection (b) of this section, referred to in subsec. (a)(6)(B), which related 
 Subsection (c) of this section, referred to in subsec. (a)(6)(D), which related to jurisdiction, was redesignated as subsec. (b) by Pub. L. 104–66.
 
 The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+
+#### Codification
+
+In subsec. (d)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 

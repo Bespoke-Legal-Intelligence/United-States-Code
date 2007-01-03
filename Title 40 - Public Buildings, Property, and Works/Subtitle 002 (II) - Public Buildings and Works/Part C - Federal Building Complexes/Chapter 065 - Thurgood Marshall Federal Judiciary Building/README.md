@@ -2,12 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 6581\.<sup>1</sup> | Definition. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [6501\.](%C2%A7%2006501%20-%20Definition.md) | Definition. |
 | [6502\.](%C2%A7%2006502%20-%20Thurgood%20Marshall%20Federal%20Judiciary%20Building.md) | Thurgood Marshall Federal Judiciary Building. |
 | [6503\.](%C2%A7%2006503%20-%20Commission%20for%20the%20Judiciary%20Office%20Building.md) | Commission for the Judiciary Office Building. |
 | [6504\.](%C2%A7%2006504%20-%20Lease%20of%20building.md) | Lease of building. |
@@ -17,7 +12,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “6501”.</i>
+#### Amendments
+
+2006—Pub. L. 109–284, §6(19), Sept. 27, 2006, 120 Stat. 1213, renumbered item 6581 as 6501.
 
 
 ---

@@ -66,7 +66,7 @@ The Secretary may make payments under subsection (a) of this section on behalf o
 
 #### (1) In general
 
-&emsp;In the case of any program under this section under which an individual makes an agreement to provide health services for a period of time in accordance with such program in consideration of receiving an award of Federal funds regarding education as a nurse (including an award for the repayment of loans), the following applies if the agreement provides that this subsection is applicable:
+&emsp;In the case of any program under this section under which an individual makes anagreement to provide health services for a period of time in accordance with such program in consideration of receiving an award of Federal funds regarding education as a nurse (including an award for the repayment of loans), the following applies if the agreement provides that this subsection is applicable:
 
 &emsp;&emsp;(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a “nursing program”), the individual is liable to the Federal Government for the amount of such award (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
 
@@ -144,7 +144,7 @@ A prior section 846 of act July 1, 1944, was classified to section 297k of this 
 
 2002—Pub. L. 107–205, §103(b)(1), substituted “Loan repayment and scholarship programs” for “Loan repayment program” in section catchline.
 
-Subsec. (a). Pub. L. 107–205, §103(a)(2), inserted at end of concluding provisions “After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.”
+Subsec. (a). Pub. L. 107–205, §103(a)(2), inserted at end of concluding provisions “After fiscal year 2007, theSecretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.”
 
 Subsec. (a)(3). Pub. L. 107–205, §103(a)(1), substituted “at a health care facility with a critical shortage of nurses” for “in an Indian Health Service health center, in a Native Hawaiian health center, in a public hospital, in a migrant health center, in a community health center, in a rural health clinic, or in a public or nonprofit private health facility determined by the Secretary to have a critical shortage of nurses”.
 

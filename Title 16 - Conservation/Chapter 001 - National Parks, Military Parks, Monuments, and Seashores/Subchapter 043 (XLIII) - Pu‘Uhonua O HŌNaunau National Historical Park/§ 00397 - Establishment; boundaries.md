@@ -8,7 +8,7 @@ parcel 1
 
 Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 9470 to Muki, and portions of R. P. 7874, L. C. Aw. 11216 Apana 34 to M. Kekauonohi (Ahupuaa of Honaunau), and R. P. 6852, L. C. Aw. 7712 Apana 1 to M. Kekuanaoa (Ahupuaa of Keokea).
 
-Beginning at a one and one-half-inch pipe in concrete monument called “Kalani”, at the southeast corner of this parcel, the northeast corner of parcel 3, and on the common boundaryof the lands of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station “Lae-O-Kanoni” being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east, and running by azimuths measured clockwise from true south:
+Beginning at a one and one-half-inch pipe in concrete monument called “Kalani”, at the southeast corner of this parcel, the northeast corner of parcel 3, and on the common boundary of the lands of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station “Lae-O-Kanoni” being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east, and running by azimuths measured clockwise from true south:
 
 1\. Seventy-nine degrees thirty-three minutes fifteen seconds six hundred and eighty feet along the land of Kiilae, L. C. Aw. 8521–B to G. D. Hueu and passing over a rock called “Kuwaia”, marked K+K at six hundred seventy-three and two-tenths feet to high-water mark; thence along high-water mark, along seacoast for the next three courses, the direct azimuths and distances between points at seacoast being:
 
@@ -58,7 +58,7 @@ Beginning at a pipe in concrete at the northeast corner of this parcel, the coor
 
 1\. Three hundred fifty-eight degrees twenty-three minutes two hundred sixty and four-tenths feet along the remainder of L. C. Aw. 11216:34 to M. Kekauonohi;
 
-2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same, along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
+2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same,along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
 
 3\. Eighty-two degrees no minutes three hundred and eighteen feet along same to the east side of fifty-foot road;
 
@@ -74,7 +74,7 @@ Beginning at the east end of this right-of-way on the common boundary of the lan
 
 1\. Eighty degrees thirty-six minutes five seconds one hundred and seventeen feet along L. C. Aw. 7712:1 to M. Kekuanaoa, to the Triangulation Station “Ahupuaa” of the B. P. Bishop estate;
 
-2\. Eighty-two degrees twenty minutes seven thousand two hundred eighty-nine and one-tenth feet along same to a one and one-fourth-inch pipe in concrete monument on the east boundary of parcel 1 the coordinates of said point ofthe end of this six-foot right-of-way referred to Government Triangulation Station “Lae-O-Kanoni” being four thousand one hundred eighty-two and four-tenths feet south and three thousand seven hundred thirty-nine and four-tenths feet east.
+2\. Eighty-two degrees twenty minutes seven thousand two hundred eighty-nine and one-tenth feet along same to a one and one-fourth-inch pipe in concrete monument on the east boundary of parcel 1 the coordinates of said point of the end of this six-foot right-of-way referred to Government Triangulation Station “Lae-O-Kanoni” being four thousand one hundred eighty-two and four-tenths feet south and three thousand seven hundred thirty-nine and four-tenths feet east.
 
 Area, one and two one-hundredths acres.
 
@@ -122,5 +122,5 @@ Pub. L. 107–340, §1, Dec. 16, 2002, 116 Stat. 2889, provided that: “This Ac
 
 #### Admission of Hawaii as State
 
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug.21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 

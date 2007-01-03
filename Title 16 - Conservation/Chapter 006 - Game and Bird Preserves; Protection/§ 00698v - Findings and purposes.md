@@ -26,7 +26,7 @@ Congress finds that—
 
 &emsp;(11) the unique nature of the Valles Caldera and the potential uses of its resources with different resulting impacts warrants a management regime uniquely capable of developing an operational program for appropriate preservation and development of the land and resources of the Baca ranch in the interest of the public;
 
-&emsp;(12) an experimental management regime should be provided by the establishment of aTrust capable of using new methods of public land management that may prove to be cost-effective and environmentally sensitive; and
+&emsp;(12) an experimental management regime should be provided by the establishment of a Trust capable of using new methods of public land management that may prove to be cost-effective and environmentally sensitive; and
 
 &emsp;(13) the Secretary may promote more efficient management of the Valles Caldera and the watershed of the Santa Clara Creek through the assignment of purchase rights of such watershed to the Pueblo of Santa Clara.
 

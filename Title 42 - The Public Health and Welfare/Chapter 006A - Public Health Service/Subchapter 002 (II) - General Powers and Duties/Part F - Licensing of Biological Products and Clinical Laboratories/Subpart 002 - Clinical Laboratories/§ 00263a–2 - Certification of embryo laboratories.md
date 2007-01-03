@@ -4,7 +4,7 @@
 
 #### (1) Development
 
-&emsp;Not later than 2 years after October 24, 1992, the Secretary, through the Centers for Disease Control, shall develop a model program for the certification of embryo laboratories (referred to in this section as a “certification program”) to be carried out by the States.
+&emsp;Not later than 2 years after October 24, 1992, the Secretary, through the Centers for Disease Control, shall develop a model program for thecertification of embryo laboratories (referred to in this section as a “certification program”) to be carried out by the States.
 
 #### (2) Consultation
 
@@ -102,7 +102,7 @@ A State which has adopted the certification program may use accreditation organi
 
 &emsp;&emsp;(B) which have been certified by an accreditation organization approved by the Secretary under section 263a–3 of this title,
 
-> &emsp;for the purpose of determining whether the laboratory is being operated in accordancewith the standards in subsection (d) of this section.
+> &emsp;for the purpose of determining whether the laboratory is being operated in accordance with the standards in subsection (d) of this section.
 
 #### (2) Access to facilities and records
 

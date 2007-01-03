@@ -18,7 +18,7 @@ This section was included to make clear that the provisions of this chapter are 
 
 1978—Pub. L. 95–598 struck out “Alaska,” after “Application to” in section catchline.
 
-1958—Pub. L. 85–508 struck out provisions which made sections 452 to 459 applicable to the District Court forthe Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Pub. L. 85–508 struck out provisions which made sections 452 to 459 applicable to the District Court for the Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
 1951—Act Oct. 31, 1951, inserted “, Guam” in section catchline, and inserted reference to the District Court of Guam in text.
 

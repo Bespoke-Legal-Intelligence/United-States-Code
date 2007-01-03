@@ -22,7 +22,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 (B) At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine), dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:
 
-&emsp;(i) No period of internship, residency, or other advanced clinical training shall be counted as satisfying any period of obligated service that is required under this section.
+&emsp;(i) No period of internship, residency, or other advanced clinical training shall becounted as satisfying any period of obligated service that is required under this section.
 
 &emsp;(ii) The active duty service obligation of that individual shall commence not later than 90 days after the completion of that advanced clinical training (or by a date specified by the Secretary).
 

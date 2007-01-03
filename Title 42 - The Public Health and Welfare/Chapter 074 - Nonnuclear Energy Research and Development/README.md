@@ -12,52 +12,19 @@
 | [5904\.](%C2%A7%2005904%20-%20Research%2C%20development%2C%20and%20demonstration%20program%20governing%20principles.md) | Research, development, and demonstration program governing principles. |
 | [5905\.](%C2%A7%2005905%20-%20Comprehensive%20planning%20and%20programming.md) | Comprehensive planning and programming. |
 | [5906\.](%C2%A7%2005906%20-%20Federal%20assistance%20and%20participation%20in%20programs.md) | Federal assistance and participation in programs. |
-| (a) | Forms of activities authorized. |
-| (b) | Proposed joint Federal-industry corporations; operational guidelines; powers, duties, and functions; composition; scope of Federal assistance and participation; specific authorization. |
-| (c) | Proposed competitive systems of price supports for demonstration facilities; guidelines. |
-| (d) | Support for joint university-industry research efforts. |
 | [5907\.](%C2%A7%2005907%20-%20Demonstration%20projects.md) | Demonstration projects. |
-| (a) | Scope of authority of Secretary. |
-| (b) | Criteria applicable in reviewing potential projects. |
-| (c) | Federal and non-Federal share of costs. |
-| (d) | Regulations. |
-| (e) | Amount of estimate of Federal investment requiring Congressional authorization for appropriation. |
-| (f) | Amount of estimated Federal contribution; necessity for report. |
 | [5907a.](%C2%A7%2005907a%20-%20Small%20grant%20program.md) | Small grant program. |
-| (a) | Establishment. |
-| (b) | Limitation. |
-| (c) | Systems and technologies to be developed and demonstrated. |
-| (d) | Eligible participants; simplified application procedures; report to Secretary; allocation criteria; guidelines. |
-| (e) | Reports to Congress. |
 | [5908\.](%C2%A7%2005908%20-%20Patents%20and%20inventions.md) | Patents and inventions. |
-| (a) | Vesting of title to invention and issuance of patents to United States; prerequisites. |
-| (b) | Contract as requiring report to Department of invention, etc., made in course of contract. |
-| (c) | Waiver by Secretary of rights of United States; regulations prescribing procedures; record of waiver determinations; objectives. |
-| (d) | Considerations applicable at time of contracting for waiver determination by Secretary. |
-| (e) | Considerations applicable to identified invention for waiver determination by Secretary. |
-| (f) | Rights subject to reservation where title to invention vested in United States. |
-| (g) | to (i) Repealed. |
-| (j) | Small business status of applicant for waiver or licenses. |
-| (k) | Protection of invention, etc., rights by Secretary. |
-| (<i>l</i>) | Department as defense agency of United States for purpose of maintaining secrecy of inventions. |
-| (m) | Definitions. |
-| (n) | Report concerning applicability of existing patent policies to energy programs; time for submission to President and appropriate Congressional committees. |
 | [5909\.](%C2%A7%2005909%20-%20Relationship%20to%20antitrust%20laws.md) | Relationship to antitrust laws. |
 | [5910\.](%C2%A7%2005910%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20II%2C%20%C2%A72021%28i%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20727.md) | Repealed. |
 | [5911\.](%C2%A7%2005911%20-%20Acquisition%20of%20essential%20materials.md) | Acquisition of essential materials. |
 | [5912\.](%C2%A7%2005912%20-%20Water%20resource%20assessments.md) | Water resource assessments. |
-| (a) | Assessments by Water Resources Council of water resource requirements and water supply availability for nonnuclear energy technologies; preparation requirements. |
-| (b) | Request by Secretary that Water Resources Council prepare assessment of availability of adequate water resources for proposed demonstration projects; report; publication. |
-| (c) | Assessment by Water Resources Council of availability of adequate water resources as precondition for Federal assistance for commercial application of nonnuclear energy technologies. |
-| (d) | Publication of reports of assessments and evaluations by Water Resources Council in Federal Register; public review and comments. |
-| (e) | Inclusion of survey and analysis of regional and national water resource availability in biennial assessment by Water Resources Council. |
-| (f) | Secretary as member of Water Resources Council. |
 | [5913\.](%C2%A7%2005913%20-%20Evaluation%20by%20National%20Institute%20of%20Standards%20and%20Technology%20of%20energy-related%20inventions%20prior%20to%20awarding%20of%20grants%20by%20Secretary%E2%80%A6.md) | Evaluation by National Institute of Standards and Technology of energy-related inventions prior to awarding of grants by Secretary; promulgation of regulations. |
 | [5914\.](%C2%A7%2005914%20-%20Omitted.md) | Omitted. |
 | [5915\.](%C2%A7%2005915%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5915a.](%C2%A7%2005915a%20-%20Expiration%20of%20initial%20authorization%20to%20construct%20fossil%20energy%20demonstration%20plants.md) | Expiration of initial authorization to construct fossil energy demonstration plants. |
 | [5916\.](%C2%A7%2005916%20-%20Central%20source%20of%20nonnuclear%20energy%20information.md) | Central source of nonnuclear energy information. |
-| 5917 to 5920. | Repealed. |
+| 5917 to 5920. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

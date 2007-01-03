@@ -42,7 +42,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;&emsp;&emsp;(ii) that is part of a voyage to another State or to a foreign country; and
 
-&emsp;&emsp;&emsp;(iii) in which the vessel reaches the other State or foreign country within 3days after leaving the State in which it begins.
+&emsp;&emsp;&emsp;(iii) in which the vessel reaches the other State or foreign country within 3 days after leaving the State in which it begins.
 
 #### (c) Exception for Alaska
 

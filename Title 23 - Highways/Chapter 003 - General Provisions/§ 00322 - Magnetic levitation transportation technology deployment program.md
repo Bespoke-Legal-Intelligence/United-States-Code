@@ -20,7 +20,7 @@ Full project costs.—The term “full project costs” means the total capital 
 
 &emsp;(4)
 
-Partnership potential.—The term “partnership potential” has the meaninggiven the term in the commercial feasibility study of high-speed ground transportation conducted under section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1978).
+Partnership potential.—The term “partnership potential” has the meaning given the term in the commercial feasibility study of high-speed ground transportation conducted under section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1978).
 
 (b)
 
@@ -28,7 +28,7 @@ Financial Assistance.—
 
 &emsp;(1)
 
-In general.—The Secretary shall make available financial assistance to pay the Federal share of full project costs of eligible projects selected under this section. Financial assistance made available under this section and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
+In general.—The Secretary shall make available financial assistance to pay the Federal share of full project costs of eligible projects selected under this section. Financialassistance made available under this section and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
 
 &emsp;(2)
 

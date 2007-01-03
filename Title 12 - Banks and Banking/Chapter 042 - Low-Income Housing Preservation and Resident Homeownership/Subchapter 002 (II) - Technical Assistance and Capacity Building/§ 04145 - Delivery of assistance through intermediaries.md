@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall approve and disburse assistance under section 4143 of this title through eligible intermediaries selected by the Secretary under subsection (b) of this section. If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
+The Secretary shall approve and disburse assistance under section 4143 of this title through eligible intermediaries selected by the Secretaryunder subsection (b) of this section. If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
 
 #### (b) Selection of eligible intermediaries
 
@@ -56,7 +56,7 @@ For purposes of this section, the term “eligible intermediary” means a State
 
 &emsp;(4) in the case of a regional or State nonprofit organization, has been in existence for at least 3 years prior to the date of application and has been classified by the Internal Revenue Service as an exempt organization under section 501(c)(3) of title 26 or is otherwise a tax-exempt entity;
 
-&emsp;(5) has a record of service to low-income individuals or community-based nonprofit housing developers in multiple communities and, with respect to intermediaries administeringassistance under section 4143 of this title, has experience with the allocation or administration of grant or loan funds; and
+&emsp;(5) has a record of service to low-income individuals or community-based nonprofit housing developers in multiple communities and, with respect to intermediaries administering assistance under section 4143 of this title, has experience with the allocation or administration of grant or loan funds; and
 
 &emsp;(6) meets standards of fiscal responsibility established by the Secretary.
 

@@ -32,7 +32,7 @@
 
 (11)(A) There are authorized to be appropriated to carry out subchapter XII–E of this chapter, to remain available until expended $1,047,119,000 for each of fiscal years 2006 through 2009.
 
-(B) Of funds available under subchapter XII–E of this chapter in any fiscal year, up to 3 percent may be used for technical assistance under section 3796dd(d) of this title or for evaluations or studies carried out or commissioned by the Attorney General in furtherance of the purposes of subchapter XII–E of this chapter. Of the remaining funds, 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations exceeding 150,000 or by public and private entities that serve areas with populations exceeding 150,000, and 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations 150,000 or less or by public and private entities that serve areas with populations 150,000 or less. In view of the extraordinary need for law enforcement assistance in Indian country, an appropriate amount of funds available under subchapter XII–E of this chapter shall be made available for grants to Indian tribal governments or tribal law enforcement agencies.
+(B) Of funds available under subchapter XII–E of this chapter in any fiscal year, up to 3 percentmay be used for technical assistance under section 3796dd(d) of this title or for evaluations or studies carried out or commissioned by the Attorney General in furtherance of the purposes of subchapter XII–E of this chapter. Of the remaining funds, 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations exceeding 150,000 or by public and private entities that serve areas with populations exceeding 150,000, and 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations 150,000 or less or by public and private entities that serve areas with populations 150,000 or less. In view of the extraordinary need for law enforcement assistance in Indian country, an appropriate amount of funds available under subchapter XII–E of this chapter shall be made available for grants to Indian tribal governments or tribal law enforcement agencies.
 
 (16) <sup>6</sup> There are authorized to be appropriated to carry out projects under subchapter XII–F of this chapter—
 
@@ -118,9 +118,11 @@
 
 &emsp;(iii) $58,000,000 for fiscal year 2004; and <sup>8</sup>
 
-&emsp;(iv) $60,000,000 for fiscal year 2005. <sup>9</sup>
+&emsp;(iv) $60,000,000 for fiscal year 2005.<sup>9</sup>
 
-&emsp;(v) $70,000,000 for each of fiscal years 2007 and 2008.
+&emsp;(v) <sup>10</sup> $70,000,000 for each of fiscal years 2007 and 2008.<sup>11</sup>
+
+&emsp;(v) <sup>10</sup> $70,000,000 for fiscal year 2006.
 
 (B) The Attorney General shall reserve not less than 1 percent and not more than 4.5 percent of the sums appropriated for this program in each fiscal year for research and evaluation of this program.
 
@@ -130,7 +132,7 @@
 
 (c) Notwithstanding any other provision of law, no funds appropriated under this section for subchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
 
-(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§1103(a), 1104, title III, §1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, §3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, §3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, §2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–273, div. B, title II, §2302, Nov. 2, 2002, 116 Stat. 1798; Pub. L. 108–372, §4, Oct. 25, 2004, 118 Stat. 1755; Pub. L. 108–405, title III, §311(c), (d), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 109–162, title I, §§101(a), 102(a), title XI, §§1116, 1142(b), 1163(c), Jan. 5, 2006, 119 Stat. 2972, 2975, 3104, 3110, 3120.)
+(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat.1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§1103(a), 1104, title III, §1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, §3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, §3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, §2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–273, div. B, title II, §2302, Nov. 2, 2002, 116 Stat. 1798; Pub. L. 108–372, §4, Oct. 25, 2004, 118 Stat. 1755; Pub. L. 108–405, title III, §311(c), (d), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 109–162, title I, §§101(a), 102(a), title XI, §§1116, 1142(b), 1163(c), Jan. 5, 2006, 119 Stat. 2972, 2975, 3104, 3110, 3120; Pub. L. 109–177, title VII, §752, Mar. 9, 2006, 120 Stat. 273.)
 
 #### References in Text
 
@@ -158,7 +160,9 @@ Subsec. (a)(19). Pub. L. 109–162, §102(a), substituted “$75,000,000 for eac
 
 Subsec. (a)(23). Pub. L. 109–162, §1116, substituted “2009” for “2007”.
 
-Subsec. (a)(25)(A)(v). Pub. L. 109–162, §1142(b), which directed amendment of par. (25)(A) of this section by adding cl. (v) at end, was executed by adding cl. (v) at end of subsec. (a)(25)(A) of this section to reflect the probable intent of Congress.
+Subsec. (a)(25)(A)(v). Pub. L. 109–177, which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal year 2006, at end, was executed by adding that cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
+
+Pub. L. 109–162, §1142(b), which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal years 2007 and 2008, at end, was executed by adding cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
 
 2004—Subsec. (a)(23). Pub. L. 108–372 substituted “2007” for “2004”.
 
@@ -332,6 +336,10 @@ Subsec. (b). Pub. L. 99–570, §1552(c)(2), inserted reference to subchapter XI
 
 1984—Pub. L. 98–473, in amending section generally, designated existing provisions as subsec. (a), substituted appropriations authorization of necessary sums for fiscal years 1984 through 1988 for authorizations for fiscal years ending Sept. 30, 1980, through 1983, struck out provisions authorizing appropriations for subchapter VIII and for carrying out remaining functions of the Law Enforcement Assistance Administration, and added subsec. (b).
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–162, §4, as added by Pub. L. 109–271, §1(b), Aug. 12, 2006, 120 Stat. 750, provided that: “Notwithstanding any other provision of this Act or any other law, sections 101, 102 (except the amendment to section 2101(d) of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796hh(d)\] included in that section), 103, 121, 203, 204, 205, 304, 306, 602, 906, and 907 of this Act \[enacting sections 3796gg–8, 3796gg–10, 3796gg–11, 3796hh–5, 14045a, and 14045b of this title, amending this section and sections 3796gg, 3796gg–1, 3796gg–4, 3796gg–6, 3796gg–7, 3796hh, 3796hh–1, 10420, 13971, 13975, 14041a, and 14041b, of this title, and repealing section 1152 of Title 20, Education\] shall not take effect until the beginning of fiscal year 2007.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 210302(c)(3) of Pub. L. 103–322 effective 60 days after Sept. 13, 1994, see section 210302(c)(4) of Pub. L. 103–322, set out as an Effective Date note under section 3796kk of this title.
@@ -374,5 +382,9 @@ Pub. L. 96–132, §20(a), Nov. 30, 1979, 93 Stat. 1049, provided that: “The N
 
 <i><sup>8</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>9</sup></i><i> So in original. The period probably should be “; and”.</i>
+<i><sup>9</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>10</sup></i><i> So in original. Two cls. (v) have been enacted.</i>
+
+<i><sup>11</sup></i><i> So in original. The period probably should be “; and”.</i>
 

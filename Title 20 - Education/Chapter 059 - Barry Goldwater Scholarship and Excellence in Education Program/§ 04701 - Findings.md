@@ -8,7 +8,7 @@ The Congress makes the following findings:
 
 &emsp;(3) Senator Goldwater has long maintained a special interest in the education of America's youth, particularly in the fields of science and mathematics.
 
-&emsp;(4) It would, therefore, be a fitting tribute to the leadership, courage, and vision of Senator Goldwater to establish in his name a scholarship program to foster and encourage excellence in science and mathematics.
+&emsp;(4) It would, therefore, be a fitting tribute to the leadership, courage, and vision of SenatorGoldwater to establish in his name a scholarship program to foster and encourage excellence in science and mathematics.
 
 (Pub. L. 99–661, div. A, title XIV, §1402, Nov. 14, 1986, 100 Stat. 4008.)
 

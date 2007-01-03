@@ -90,7 +90,7 @@
 
 #### (6) Treatment of distinct units of hospitals
 
-&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall not be considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
+&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall notbe considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
 
 #### (7) Certification of certain covered entities
 

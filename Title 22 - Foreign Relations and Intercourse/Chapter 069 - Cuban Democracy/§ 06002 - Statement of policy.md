@@ -6,7 +6,7 @@ It should be the policy of the United States—
 
 &emsp;(2) to seek the cooperation of other democratic countries in this policy;
 
-&emsp;(3) to make clear to other countries that, in determining its relations with them, the United States will take into account their willingness to cooperate in such a policy;
+&emsp;(3) to make clear to other countries that, in determining its relations with them, theUnited States will take into account their willingness to cooperate in such a policy;
 
 &emsp;(4) to seek the speedy termination of any remaining military or technical assistance, subsidies, or other forms of assistance to the Government of Cuba from any of the independent states of the former Soviet Union;
 

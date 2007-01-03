@@ -18,7 +18,7 @@ Use of funds paid to States may include, in addition to the purchase price of ag
 
 #### (e) Limitation
 
-In no event shall such disbursement for food to any school for any fiscal year exceed an amountdetermined by multiplying the number of lunches served in the school in the school lunch program under this chapter during such year by the maximum per meal reimbursement rate for the State, for the type of lunch served, as prescribed by the Secretary.
+In no event shall such disbursement for food to any school for any fiscal year exceed an amount determined by multiplying the number of lunches served in the school in the school lunch program under this chapter during such year by the maximum per meal reimbursement rate for the State, for the type of lunch served, as prescribed by the Secretary.
 
 #### (f) Increase in meal reimbursement
 
@@ -38,7 +38,7 @@ Lunch assistance disbursements to schools under this section and under section 1
 
 Pub. L. 101–147, §304, which directed the amendment of subsec. (d) by substituting “individuals” for “persons”, “to have 1 or more mental or physical handicaps” for “to be mentally or physically handicapped”, and “for individuals with mental or physical handicaps” for “for mentally or physically handicapped”, was executed by making the substitutions in the undesignated text before the proviso as the probable intent of Congress because the section contains no subsection designations.
 
-Pub. L. 101–147, §201, inserted after first sentence “The agreements described in the preceding sentence shall be permanent agreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.”
+Pub. L. 101–147, §201, inserted after first sentence “The agreements described in the preceding sentenceshall be permanent agreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.”
 
 1981—Pub. L. 97–35 substituted references to per meal reimbursement rate, for references to Federal food-cost contribution rate wherever appearing, and struck out reference to section 1754 of this title, and food service equipment assistance.
 

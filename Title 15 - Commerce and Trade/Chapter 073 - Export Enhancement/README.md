@@ -22,8 +22,6 @@
 | :--- | ---: |
 | 4711\. | Repealed. |
 | 4712\. | Barter and countertrade. |
-| (a) | Interagency group. |
-| (b) | Office of Barter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,73 +30,16 @@
 |  |  |
 | :--- | ---: |
 | 4721\. | United States and Foreign Commercial Service. |
-| (a) | Establishment. |
-| (b) | Statement of purpose. |
-| (c) | Offices. |
-| (d) | Rank of Commercial Services Officers in foreign missions. |
-| (e) | Information dissemination. |
-| (f) | Cooperation in Federal financing and insurance programs. |
-| (g) | Audits. |
-| (h) | Report by Secretary. |
-| (i) | Omitted. |
-| (j) | Definitions. |
 | 4722\. | Transferred. |
 | 4723\. | Market Development Cooperator Program. |
-| (a) | Authority of Secretary of Commerce. |
-| (b) | Implementation of Program. |
-| (c) | Cooperator partnership program. |
-| (d) | Budget Act. |
 | 4723a. | United States Commercial Centers. |
-| (a) | Establishment. |
-| (b) | Purpose of Centers. |
-| (c) | Functions of Centers. |
-| (d) | Specific services to be provided. |
-| (e) | Other trade promotion activities. |
-| (f) | Staffing of Centers. |
-| (g) | Center facilities and their relationship to United States Department of Commerce operations in host countries. |
-| (h) | Use of Market Development Cooperator Program. |
-| (i) | Authorization of appropriations. |
-| (j) | Repealed. |
-| (k) | Definitions. |
 | 4724\. | Trade shows. |
-| (a) | Authority of Secretary of Commerce. |
-| (b) | Recipients of assistance. |
-| (c) | Assistance to small businesses. |
-| (d) | Uses of assistance. |
-| (e) | Definitions. |
 | 4725\. | United States and Foreign Commercial Service Pacific Rim initiative. |
-| (a) | In general. |
-| (b) | Reports to Congress. |
-| (c) | “United States person” defined. |
 | 4726\. | Indian tribes export promotion. |
-| (a) | Assistance authorized. |
-| (b) | Activities eligible for assistance. |
-| (c) | Administration of assistance. |
-| (d) | Technical and other assistance. |
-| (e) | Limitation on assistance. |
 | 4727\. | Trade Promotion Coordinating Committee. |
-| (a) | Establishment and purpose. |
-| (b) | Duties. |
-| (c) | Strategic plan. |
-| (d) | Membership. |
-| (e) | Member qualifications. |
-| (f) | Report to Congress. |
 | 4727a. | Implementation of primary objectives of TPCC. |
 | 4728\. | Environmental trade promotion. |
-| (a) | Statement of policy. |
-| (b) | Environmental Trade Working Group of Trade Promotion Coordination Committee. |
-| (c) | Environmental Technologies Trade Advisory Committee. |
-| (d) | Export plans for priority countries. |
-| (e) | Trade information. |
-| (f) | Environmental technologies specialists in United States and Foreign Commercial Service. |
-| (g) | Environmental training in one-stop shops. |
-| (h) | International regional environmental initiatives. |
-| (i) | Environmental technologies project advocacy calendar and information dissemination program. |
-| (j) | Environmental technology export alliances. |
-| (k) | “Environmental business” defined. |
 | 4729\. | Report on export policy. |
-| (a) | In general. |
-| (b) | Contents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the Stateinvolved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than $1 for each $3 of Federal funds provided in the grant;
 
@@ -122,7 +122,7 @@ No grant may be made under this section after the aggregate amounts appropriated
 
 #### References in Text
 
-Section 254c of this title, referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Section 254c of this title, referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996,110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Prior Provisions
 

@@ -22,7 +22,7 @@ In applying the cost sharing requirements under section 16352 of this title to a
 
 #### (f) Information sharing
 
-All results of the research administered by the program consortium shall be made available tothe public consistent with Department policy and practice on information sharing and intellectual property agreements.
+All results of the research administered by the program consortium shall be made available to the public consistent with Department policy and practice on information sharing and intellectual property agreements.
 
 (Pub. L. 109–58, title IX, §999C, Aug. 8, 2005, 119 Stat. 921.)
 

@@ -52,7 +52,7 @@ Inspector General Investigation of Allegations of Prohibited Personnel Actions.�
 
 (d)
 
-Inspector General Investigation of Underlying Allegations.—Upon receiving an allegation under subsection (c), the Inspector General receiving the allegation shall conduct a separate investigation of the information that the member making the allegation believes constitutes evidence of wrongdoing (as described in subparagraph (A) or (B) of subsection (c)(2)) if there previously has not been such an investigation or if the Inspector General determines that the original investigation was biased or otherwise inadequate. In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.
+Inspector General Investigation of Underlying Allegations.—Upon receiving an allegation under subsection (c), the Inspector General receiving the allegation shall conduct a separate investigation of the information that the member making the allegation believes constitutes evidence of wrongdoing (as described insubparagraph (A) or (B) of subsection (c)(2)) if there previously has not been such an investigation or if the Inspector General determines that the original investigation was biased or otherwise inadequate. In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.
 
 (e)
 
@@ -90,7 +90,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;&emsp;(iii) the member is not represented by outside counsel chosen by the member; and
 
-&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request theproduction of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
+&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request the production of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
 
 (4) The Secretary concerned shall issue a final decision with respect to an application described in paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
 
@@ -100,7 +100,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 (g)
 
-Review by Secretary of Defense.—Upon the completion of all administrative review under subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
+Review by Secretary of Defense.—Upon the completion of all administrative reviewunder subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
 
 (h)
 
@@ -168,7 +168,7 @@ Subsec. (i)(2)(C) to (G). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(b
 
 1998—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, §933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
 
-Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General ofthe Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
 Subsec. (c)(2)(B). Pub. L. 105–261, §933(b), substituted “Gross mismanagement” for “Mismanagement”.
 
@@ -194,7 +194,7 @@ Subsec. (j)(2). Pub. L. 105–261, §933(e), substituted “means the following:
 
 1994—Pub. L. 103–337, §531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
 
-Subsec. (b). Pub. L. 103–337, §531(a), inserted “(1)” before “No person may take”, substituted “or preparing—” for “or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.”, added subpars. (A) and (B), inserted “(2)” before “Any action prohibited”, and substituted “paragraph (1)” for “the preceding sentence”.
+Subsec. (b). Pub. L. 103–337, §531(a), inserted “(1)” before “No person may take”, substituted “or prepar- ing—” for “or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.”, added subpars. (A) and (B), inserted “(2)” before “Any action prohibited”, and substituted “paragraph (1)” for “the preceding sentence”.
 
 Subsec. (c). Pub. L. 103–337, §531(b)(3), substituted “Allegations of Prohibited Personnel Actions” for “Certain Allegations” in heading.
 

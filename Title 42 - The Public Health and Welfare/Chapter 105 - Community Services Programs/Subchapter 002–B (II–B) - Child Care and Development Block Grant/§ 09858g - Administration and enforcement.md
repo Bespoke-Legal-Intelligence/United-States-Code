@@ -26,7 +26,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(ii) in the operation of any program for which assistance is provided under this subchapter there is a failure by the State to comply substantially with any provision of this subchapter;
 
-> &emsp;&emsp;the Secretary shall notify the State of the finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options.
+> &emsp;&emsp;the Secretary shall notify the State of the finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that isless than or equal to any improperly expended funds, or a combination of such options.
 
 #### (B) Additional sanctions
 

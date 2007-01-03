@@ -6,7 +6,7 @@ Subject to the availability of appropriations, the Secretary of the Interior sha
 
 #### (2) Volunteer coordinator
 
-Each project shall provide for the employment of a full-time volunteer coordinator for the refuge or complex of geographically related refuges. The volunteer coordinator shall be responsible for recruiting, training, and supervising volunteers. The volunteer coordinator may be responsible for assisting partner organizationsin developing projects and programs under cooperative agreements under section 742f(d) of this title and coordinating volunteer activities with partner organizations to carry out the projects and programs.
+Each project shall provide for the employment of a full-time volunteer coordinator for the refuge or complex of geographically related refuges. The volunteer coordinator shall be responsible for recruiting, training, and supervising volunteers. The volunteer coordinator may be responsible for assisting partner organizations in developing projects and programs under cooperative agreements under section 742f(d) of this title and coordinating volunteer activities with partner organizations to carry out the projects and programs.
 
 #### (3) Report
 

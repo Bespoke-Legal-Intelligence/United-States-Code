@@ -92,7 +92,7 @@
 
 #### (1) In general
 
-&emsp;Not later than June 30 of each year, the Attorney General shall submit a report on the activities of the Bureau and the Review Panel, with respect to prison rape, for the preceding calendar year to—
+&emsp;Not later than June 30 of each year, the Attorney General shall submit a report on theactivities of the Bureau and the Review Panel, with respect to prison rape, for the preceding calendar year to—
 
 &emsp;&emsp;(A) Congress; and
 

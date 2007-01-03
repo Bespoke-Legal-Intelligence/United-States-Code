@@ -2,11 +2,11 @@
 
 #### (a) General authority
 
-The Secretary may provide extraordinary protective services for foreign missions directly, by contract, or through State or local authority to the extent deemed necessary by the Secretary in carrying out this chapter, except that the Secretary may not provide under this section any protective services for which authority exists to provide such services under sections 202(7) <sup>1</sup> and 208 of title 3.
+The Secretary may provide extraordinary protective services for foreign missions directly, by contract, or through State or local authority to the extent deemed necessary by the Secretary in carrying out this chapter, except that the Secretary may not provide under this section any protective services for which authority exists to provide such services under subsections (a)(7) and (d) of section 3056A of title 18.
 
 #### (b) Requirement of extraordinary circumstances
 
-The Secretary may provide funds to a State or local authority for protective services under this section only if the Secretary has determined that a threat of violence, or other circumstances, exists which requires extraordinary security measures which exceed those whichlocal law enforcment <sup>2</sup> agencies can reasonably be expected to take.
+The Secretary may provide funds to a State or local authority for protective services under this section only if the Secretary has determined that a threat of violence, or other circumstances, exists which requires extraordinary security measures which exceed those which local law enforcment <sup>1</sup> agencies can reasonably be expected to take.
 
 #### (c) Repealed. Pub. L. 103–236, title I, §139(2), Apr. 30, 1994, 108 Stat. 397
 
@@ -32,13 +32,13 @@ Contracts may be entered into in carrying out this section only to such extent o
 
 Amounts used to carry out this section shall not be subject to section 4308(h) of this title.
 
-(Aug. 1, 1956, ch. 841, title II, §214, as added Pub. L. 99–93, title I, §126(a), Aug. 16, 1985, 99 Stat. 417; amended Pub. L. 103–236, title I, §139(2), Apr. 30, 1994, 108 Stat. 397.)
-
-#### References in Text
-
-Section 202(7) of title 3, referred to in subsec. (a), was redesignated section 202(8) of title 3 by Pub. L. 99–500 and Pub. L. 99–591.
+(Aug. 1, 1956, ch. 841, title II, §214, as added Pub. L. 99–93, title I, §126(a), Aug. 16, 1985, 99 Stat. 417; amended Pub. L. 103–236, title I, §139(2), Apr. 30, 1994, 108 Stat. 397; Pub. L. 109–177, title VI, §605(d)(3), (e)(2)(C), Mar. 9, 2006, 120 Stat. 255.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–177, §605(e)(2)(C), substituted “subsections (a)(7) and (d) of section 3056A of title 18” for “sections 202(7) and 208 of title 3”.
+
+Pub. L. 109–177, §605(d)(3), which directed amendment of section 214(a) of the State Department Basic Authorities Act by substituting “section 3056A(a)(7) and (d) of title 18” for “sections 202(8) and 208 of title 3”, was not executed because this section, which is section 214 of the State Department Basic Authorities Act of 1956, did not contain the words “sections 202(8) and 208 of title 3” and because of the amendment by Pub. L. 109–177, §605(e)(2)(C). See note above.
 
 1994—Subsec. (c). Pub. L. 103–236 struck out subsec. (c) which read as follows: “Funds may be obligated under this section only after regulations to implement this section have been issued by the Secretary after consultation with appropriate committees of the Congress.”
 
@@ -46,7 +46,5 @@ Section 202(7) of title 3, referred to in subsec. (a), was redesignated section 
 
 Section 126(e) of Pub. L. 99–93 provided that: “The amendments made by this section \[enacting this section and amending section 4304 of this title and section 208 of Title 3, The President\] shall take effect on October 1, 1985.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “enforcement”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “enforcement”.</i>
 

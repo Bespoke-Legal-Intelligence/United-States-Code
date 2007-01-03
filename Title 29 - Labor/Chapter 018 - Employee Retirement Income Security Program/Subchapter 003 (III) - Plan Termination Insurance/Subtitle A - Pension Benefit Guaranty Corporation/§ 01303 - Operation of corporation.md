@@ -6,7 +6,7 @@ The corporation may make such investigations as it deems necessary to enforce an
 
 #### (b) Discovery powers vested in board members or officers designated by the chairman
 
-For the purpose of any such investigation, or any other proceeding under this subchapter, any member of the board of directors of the corporation, or any officer designated by the chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
+For the purpose of any such investigation, or any other proceeding under this subchapter, the Director, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
 
 #### (c) Contempt
 
@@ -20,7 +20,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 (1) Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1082(f)(1)(A) and (B) of this title or section 412(n)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26.
 
-(2) Except as otherwise provided in this subchapter, where such an action is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
+(2) Except as otherwise provided in this subchapter, where such an action is brought in adistrict court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
 (3) The district courts of the United States shall have jurisdiction of actions brought by the corporation under this subchapter without regard to the amount in controversy in any such action.
 
@@ -42,7 +42,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 #### (f) Civil actions against corporation; appropriate court; award of costs and expenses; limitation on actions; jurisdiction; removal of actions
 
-(1) Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a fiduciary, employer, contributing sponsor, member of a contributing sponsor's controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, orwho is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
+(1) Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a fiduciary, employer, contributing sponsor, member of a contributing sponsor's controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
 
 (2) For purposes of this subsection, the term “appropriate court” means—
 
@@ -72,13 +72,19 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
-(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048.)
+(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935.)
+
+#### Amendment of Subsection (e)(1)
+
+<i>Pub. L. 109–280, title I, §107(b)(2), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (e)(1) of this section is amended by substituting “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.</i>
 
 #### References in Text
 
 Section 1349 of this title, referred to in subsec. (f)(4), was repealed by Pub. L. 100–203, title IX, §9312(a), Dec. 22, 1987, 101 Stat. 1330–361.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–280, §411(a)(2), substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
 
 1994—Subsec. (a). Pub. L. 103–465, §776(b)(1), inserted “and whether section 1350(a) of this title has been satisfied” before period at end of second sentence.
 
@@ -97,6 +103,10 @@ Subsec. (f). Pub. L. 99–272, §11014(b)(1), amended subsec. (f) generally. Pri
 Subsec. (e)(1). Pub. L. 96–364, §402(a)(2)(B), substituted “enforce” for “redress violations of”.
 
 Subsec. (f). Pub. L. 96–364, §§402(a)(2)(C), 403(k), substituted “Except as provided in section 1451(a)(2) of the title, any” for “Any” and inserted provisions relating to removal of actions.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 107(b)(2) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -117,6 +127,10 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
+
+#### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
+
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ Compliance with any requirements imposed under this subchapter shall be enforced
 
 &emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;
 
-&emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Board with respect to any Federal credit union;
+&emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the Administrator of the National Credit Union Administration with respect to any Federal credit union;
 
 &emsp;(4) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
 
@@ -36,7 +36,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter.
 
-(Pub. L. 90–321, title VIII, §814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, §1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §316, Dec. 29, 1995, 109 Stat. 949.)
+(Pub. L. 90–321, title VIII, §814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, §1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §316, Dec. 29, 1995, 109 Stat. 949.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Transfer of Functions
 
-“National Credit Union Administration Board” substituted for “Administrator of the National Credit Union Administration” in subsec. (b)(3) pursuant to section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which vested authority for management of National Credit Union Administration in National Credit Union Administration Board.
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,33 +4,41 @@
 
 There are authorized to be appropriated to the Board to carry out section 76j(a)(1)(H) of this title—
 
-&emsp;(1) $17,000,000 for fiscal year 2004; and
+&emsp;(1) $17,000,000 for fiscal year 2004;
 
-&emsp;(2) $18,000,000 for each of fiscal years 2005, 2006, and 2007.
+&emsp;(2) $18,000,000 for each of fiscal years 2005 and 2006; and
+
+&emsp;(3) $19,100,000 for fiscal year 2007.
 
 #### (b) Capital projects
 
 There are authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of section 76j(a)(1) of this title—
 
-&emsp;(1) $16,000,000 for fiscal year 2004; and
+&emsp;(1) $16,000,000 for fiscal year 2004;
 
-&emsp;(2) $18,000,000 for each of fiscal years 2005, 2006, and 2007.
+&emsp;(2) $18,000,000 for each of fiscal years 2005 and 2006; and
+
+&emsp;(3) $20,000,000 for fiscal year 2007.
 
 #### (c) John F. Kennedy Center Plaza
 
-There is authorized to be appropriated to the Secretary of Transportation for capital costs incurred in the planning, design, engineering, and construction of the project authorized by section 76q–1 of this title (including roadway improvements related to the North and South Interchanges and construction of the John F. Kennedy Center Plaza, but not including construction of any buildings on the plaza) a total of $400,000,000 for fiscal years 2003 through 2010. Such sums shall remain available until expended.
+There is authorized to be appropriated to the Secretary of Transportation for capital costs incurred in the planning, design, engineering, and construction of the project authorized by section 76q–1 of this title (including roadway improvements related to the North and South Interchanges and construction of the John F. Kennedy Center Plaza, but not including construction of any buildings on the plaza) a totalof $400,000,000 for fiscal years 2003 through 2010. Such sums shall remain available until expended.
 
 #### (d) Limitation on use of funds
 
 No funds appropriated pursuant to this section may be used for any direct expense incurred in the production of a performing arts attraction, for personnel who are involved in performing arts administration (including any supply or equipment used by the personnel), or for production, staging, public relations, marketing, fundraising, ticket sales, or education. Funds appropriated directly to the Board shall not affect nor diminish other Federal funds sought for any performing arts function and may be used to reimburse the Board for that portion of costs that are Federal costs reasonably allocated to building services and theater maintenance and repair.
 
-(Pub. L. 85–874, §13, formerly §12, as added Pub. L. 103–279, §7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, §5, Aug. 12, 1998, 112 Stat. 1513; renumbered §13 and amended Pub. L. 107–224, §§2(1), 3, Sept. 18, 2002, 116 Stat. 1340, 1342; Pub. L. 108–410, §2, Oct. 30, 2004, 118 Stat. 2303.)
+(Pub. L. 85–874, §13, formerly §12, as added Pub. L. 103–279, §7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, §5, Aug. 12, 1998, 112 Stat. 1513; renumbered §13 and amended Pub. L. 107–224, §§2(1), 3, Sept. 18, 2002, 116 Stat. 1340, 1342; Pub. L. 108–410, §2, Oct. 30, 2004, 118 Stat. 2303; Pub. L. 109–306, §1, Oct. 6, 2006, 120 Stat. 1720.)
 
 #### Prior Provisions
 
 A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classified to section 76s of this title.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–306, §1(a), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
+
+Subsec. (b). Pub. L. 109–306, §1(b), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
 
 2004—Subsecs. (a), (b). Pub. L. 108–410 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 

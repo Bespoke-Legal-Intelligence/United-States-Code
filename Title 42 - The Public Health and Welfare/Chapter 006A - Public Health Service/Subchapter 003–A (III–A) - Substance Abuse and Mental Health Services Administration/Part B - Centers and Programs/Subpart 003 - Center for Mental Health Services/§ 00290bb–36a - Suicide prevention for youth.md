@@ -36,7 +36,7 @@ A public organization, private nonprofit organization, political subdivision, co
 
 #### (d) Use of funds
 
-Amounts provided under a grant or cooperative agreement under this section shall be usedto supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this section. Applicants shall provide financial information to demonstrate compliance with this section.
+Amounts provided under a grant or cooperative agreement under this section shall be used to supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this section. Applicants shall provide financial information to demonstrate compliance with this section.
 
 #### (e) Condition
 

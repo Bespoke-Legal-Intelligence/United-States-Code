@@ -42,7 +42,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and6723 of this title and section 7704 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the ‘Arms Control and Nonproliferation Act of 1999’.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and 6723 of this title and section 7704 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the ‘Arms Control and Nonproliferation Act of 1999’.”
 
 #### Short Title of 1994 Amendment
 
@@ -96,7 +96,7 @@ Promotes democracy.—The government of the country—
 
 &emsp;&emsp;“(C) promotes the rule of law and provides its nationals the same rights that they would be afforded under the United States Constitution if they were United States citizens; and
 
-&emsp;&emsp;“(D) promotes the strengthening of political, legislative, and civil institutions of democracy, as well as autonomous institutions to monitor the conduct of public officials and to combat corruption.
+&emsp;&emsp;“(D) promotes the strengthening of political, legislative, and civil institutions of democracy, as wellas autonomous institutions to monitor the conduct of public officials and to combat corruption.
 
 &emsp;“(2)
 

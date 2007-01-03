@@ -58,7 +58,7 @@
 
 #### (B) Application of MA rules
 
-&emsp;&emsp;In establishing such process, the Secretary shall use rules similar to (and coordinated with) the rules for enrollment, disenrollment, termination, and change of enrollment with an MA–PD plan under the following provisions of section 1395w–21 of this title:
+&emsp;&emsp;In establishing such process, the Secretary shall use rules similar to (and coordinatedwith) the rules for enrollment, disenrollment, termination, and change of enrollment with an MA–PD plan under the following provisions of section 1395w–21 of this title:
 
 #### (i) Residence requirements
 
@@ -70,7 +70,7 @@
 
 #### (iii) Coverage election periods
 
-&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B) and (C) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initialperiods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
+&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), and (E) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
 
 #### (iv) Coverage periods
 
@@ -142,7 +142,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law but subject to subparagraph (B), the Secretary may provide to each PDP sponsor and MA organization such identifying information about part D eligible individuals as the Secretary determines to be necessary to facilitate efficient marketing of prescriptiondrug plans and MA–PD plans to such individuals and enrollment of such individuals in such plans.
+&emsp;&emsp;Notwithstanding any other provision of law but subject to subparagraph (B), the Secretary may provide to each PDP sponsor and MA organization such identifying information about part D eligible individuals as the Secretary determines to be necessary to facilitate efficient marketing of prescription drug plans and MA–PD plans to such individuals and enrollment of such individuals in such plans.
 
 #### (B) Limitation
 
@@ -218,13 +218,17 @@
 
 &emsp;The information disseminated under paragraph (1) shall include information concerning the methodology for determining the late enrollment penalty under section 1395w–113(b) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990.)
 
 #### References in Text
 
 Part A of this subchapter, referred to in subsecs. (a)(3)(A) and (b)(2)(B), is classified to section 1395c et seq. of this title.
 
 Part B of this subchapter, referred to in subsecs. (a)(3)(A) and (b)(2)(B), (3)(B), is classified to section 1395j et seq. of this title.
+
+#### Amendments
+
+2006—Subsec. (b)(1)(B)(iii). Pub. L. 109–432 substituted “subparagraphs (B), (C), and (E)” for “subparagraphs (B) and (C)”.
 
 #### Submission of Legislative Proposal
 
@@ -236,7 +240,7 @@ Pub. L. 108–173, title I, §101(c), Dec. 8, 2003, 117 Stat. 2150, provided tha
 
 #### Report on Progress in Implementation of Prescription Drug Benefit
 
-Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submita report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
+Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
 
 #### State Pharmaceutical Assistance Transition Commission
 

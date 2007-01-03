@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the PLO covenant specifically states that “armed struggle is the only way to liberate Palestine, thus it is an overall strategy, not merely a tactical phase”;
 
-&emsp;(6) the PLO rededicated itself to the “continuing struggle in all its armed forms” at the Palestine National Council meeting in April 1987; and
+&emsp;(6) the PLO rededicated itself to the “continuing struggle in all its armed forms” at thePalestine National Council meeting in April 1987; and
 
 &emsp;(7) the Attorney General has stated that “various elements of the Palestine Liberation Organization and its allies and affiliates are in the thick of international terror”.
 

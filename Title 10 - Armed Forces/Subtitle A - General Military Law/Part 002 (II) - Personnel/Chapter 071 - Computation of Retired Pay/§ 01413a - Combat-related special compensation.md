@@ -10,7 +10,7 @@ Amount.—
 
 &emsp;(1)
 
-Determination of monthly amount.—Subject to paragraphs (2) and (3), the monthly amount to be paid an eligible combat-related disabled uniformed services retiree under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determinedwithout regard to any disability of the retiree that is not a combat-related disability.
+Determination of monthly amount.—Subject to paragraphs (2) and (3), the monthly amount to be paid an eligible combat-related disabled uniformed services retiree under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Other Definitions.—In this section:
 
 2003—Pub. L. 108–136, §642(e)(1), substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in section catchline.
 
-Subsec. (b)(1). Pub. L. 108–136, §642(c), substituted “under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.” for “for a combat-related disability under subsection (a) is the monthly amount of compensation to which the retiree would be entitled solely for the combat-related disability consistent with chapter 11 of title 38.”
+Subsec. (b)(1). Pub. L. 108–136, §642(c), substituted “under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.” for “for a combat-related disabilityunder subsection (a) is the monthly amount of compensation to which the retiree would be entitled solely for the combat-related disability consistent with chapter 11 of title 38.”
 
 Subsec. (c)(1). Pub. L. 108–136, §642(b), inserted before semicolon at end “or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title)”.
 
@@ -104,7 +104,7 @@ Subsec. (h). Pub. L. 108–136, §641(c)(1), inserted first sentence and inserte
 
 Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: “The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003.”
 
-Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d)\[amending this section\] shall take effect on January 1, 2004.”
+Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004.”
 
 #### Effective Date
 

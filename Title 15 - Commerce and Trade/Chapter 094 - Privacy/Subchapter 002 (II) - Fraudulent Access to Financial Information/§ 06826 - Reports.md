@@ -6,7 +6,7 @@ Before the end of the 18-month period beginning on November 12, 1999, the Comptr
 
 &emsp;(1) The efficacy and adequacy of the remedies provided in this subchapter in addressing attempts to obtain financial information by fraudulent means or by false pretenses.
 
-&emsp;(2) Any recommendations for additional legislative or regulatory action to address threats to the privacy of financial informationcreated by attempts to obtain information by fraudulent means or false pretenses.
+&emsp;(2) Any recommendations for additional legislative or regulatory action to address threats to the privacy of financial information created by attempts to obtain information by fraudulent means or false pretenses.
 
 #### (b) Annual report by administering agencies
 

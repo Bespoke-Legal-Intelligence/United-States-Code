@@ -1,0 +1,62 @@
+### §57b–2b. Protection for voluntary provision of information
+
+#### (a) In general
+
+#### (1) No liability for providing certain material
+
+&emsp;An entity described in paragraphs (2) or (3) of subsection (d) that voluntarily provides material to the Commission that such entity reasonably believes is relevant to—
+
+&emsp;&emsp;(A) a possible unfair or deceptive act or practice, as defined in section 45(a) of this title; or
+
+&emsp;&emsp;(B) assets subject to recovery by the Commission, including assets located in foreign jurisdictions;
+
+> &emsp;shall not be liable to any person under any law or regulation of the United States, or under the constitution, or any law or regulation, of any State, political subdivision of a State, territory of the United States, or the District of Columbia, for such provision of material or for any failure to provide notice of such provision of material or of intention to so provide material.
+
+#### (2) Limitations
+
+&emsp;Nothing in this subsection shall be construed to exempt any such entity from liability—
+
+&emsp;&emsp;(A) for the underlying conduct reported; or
+
+&emsp;&emsp;(B) to any Federal agency for providing such material or for any failure to comply with any obligation the entity may have to notify a Federal agency prior to providing such material to the Commission.
+
+#### (b) Certain financial institutions
+
+An entity described in paragraph (1) of subsection (d) shall, in accordance with section 5318(g)(3) of title 31, be exempt from liability for making a voluntary disclosure to the Commission of any possible violation of law or regulation, including—
+
+&emsp;(1) a disclosure regarding assets, including assets located in foreign jurisdictions—
+
+&emsp;&emsp;(A) related to possibly fraudulent or deceptive commercial practices;
+
+&emsp;&emsp;(B) related to persons involved in such practices; or
+
+&emsp;&emsp;(C) otherwise subject to recovery by the Commission; or
+
+&emsp;(2) a disclosure regarding suspicious chargeback rates related to possibly fraudulent or deceptive commercial practices.
+
+#### (c) Consumer complaints
+
+Any entity described in subsection (d) that voluntarily provides consumer complaints sent to it, or information contained therein, to the Commission shall not be liable to any person under any law or regulation of the United States, or under the constitution, or any law or regulation, of any State, political subdivision of a State, territory of the United States, or the District of Columbia, for such provision of material or for any failure to provide notice of such provision of material or of intention to so provide material. This subsection shall not provide any exemption from liability for the underlying conduct.
+
+#### (d) Application
+
+This section applies to the following entities, whether foreign or domestic:
+
+&emsp;(1) A financial institution as defined in section 5312 of title 31.
+
+&emsp;(2) To the extent not included in paragraph (1), a bank or thrift institution, a commercial bank or trust company, an investment company, a credit card issuer, an operator of a credit card system, and an issuer, redeemer, or cashier of travelers’ checks, money orders, or similar instruments.
+
+&emsp;(3) A courier service, a commercial mail receiving agency, an industry membership organization, a payment system provider, a consumer reporting agency, a domain name registrar or registry acting as such, and a provider of alternative dispute resolution services.
+
+&emsp;(4) An Internet service provider or provider of telephone services.
+
+(Sept. 26, 1914, ch. 311, §21B, as added Pub. L. 109–455, §8, Dec. 22, 2006, 120 Stat. 3380.)
+
+#### Termination of Section
+
+<i>For termination of section by section 13 of Pub. L. 109–455, see Termination Date note below.</i>
+
+#### Termination Date
+
+Section to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
+

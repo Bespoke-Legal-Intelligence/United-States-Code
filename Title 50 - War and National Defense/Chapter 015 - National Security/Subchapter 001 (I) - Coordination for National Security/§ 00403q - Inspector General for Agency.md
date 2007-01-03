@@ -10,7 +10,7 @@ In order to—
 
 &emsp;(3) provide a means for keeping the Director fully and currently informed about problems and deficiencies relating to the administration of such programs and operations, and the necessity for and the progress of corrective actions; and
 
-&emsp;(4) in the manner prescribed by this section, ensure that the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence (hereafter in thissection referred to collectively as the “intelligence committees”) are kept similarly informed of significant problems and deficiencies as well as the necessity for and the progress of corrective actions,
+&emsp;(4) in the manner prescribed by this section, ensure that the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence (hereafter in this section referred to collectively as the “intelligence committees”) are kept similarly informed of significant problems and deficiencies as well as the necessity for and the progress of corrective actions,
 
 > there is hereby established in the Agency an Office of Inspector General (hereafter in this section referred to as the “Office”).
 
@@ -54,7 +54,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(E) a description of the exercise of the subpoena authority under subsection (e)(5) of this section by the Inspector General during the reporting period; and
 
-&emsp;(F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect andeliminate fraud and abuse in such programs and operations.
+&emsp;(F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect and eliminate fraud and abuse in such programs and operations.
 
 (2) The Inspector General shall report immediately to the Director whenever he becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of programs or operations. The Director shall transmit such report to the intelligence committees within seven calendar days, together with any comments he considers appropriate.
 
@@ -94,7 +94,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
-(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or information to Congress by contacting either or both of the intelligence committees directly.
+(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or informationto Congress by contacting either or both of the intelligence committees directly.
 
 (ii) The employee may contact the intelligence committees directly as described in clause (i) only if the employee—
 
@@ -116,7 +116,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;&emsp;(II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
-&emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of thissection in response to an employee's reporting an urgent concern in accordance with this paragraph.
+&emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of this section in response to an employee's reporting an urgent concern in accordance with this paragraph.
 
 &emsp;(ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
@@ -142,7 +142,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (D) In the case of contumacy or refusal to obey a subpoena issued under this paragraph, the subpoena shall be enforceable by order of any appropriate district court of the United States.
 
-(6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
+(6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together withsuch equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
 
 (7) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
 
@@ -192,7 +192,7 @@ Subsec. (e)(8). Pub. L. 106–567, §402(b), substituted “Government” for �
 
 1998—Subsec. (d). Pub. L. 105–272 inserted “; reports to Congress on urgent concerns” after “functional problems” in heading and added par. (5).
 
-1997—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
+1997—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or completesuch audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
 
 Subsec. (e)(5) to (8). Pub. L. 105–107, §402(a), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 

@@ -20,7 +20,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;&emsp;(A) One representative appointed by each of the Commissioners of Fish and Game, Environmental Conservation, and Natural Resources of the State of Alaska, all of whom shall be State employees.
 
-&emsp;&emsp;(B) One representative appointed by each of the Secretaries of Commerce, the Interior, and Transportation, who shall be Federal employees.
+&emsp;&emsp;(B) One representative appointed by each of the Secretaries of Commerce and the Interior and the Commandant of the Coast Guard, who shall be Federal employees.
 
 &emsp;&emsp;(C) Two representatives from the fishing industry appointed by the Governor of the State of Alaska from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill, who shall serve terms of 2 years each. Interested organizations from within the fishing industry may submit the names of qualified individuals for consideration by the Governor.
 
@@ -88,9 +88,11 @@ The Institute shall publish and make available to any person upon request the re
 
 In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.
 
-(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, §427, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 109–58, title III, §389(1), Aug. 8, 2005, 119 Stat. 747.)
+(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, §427, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 109–58, title III, §389(1), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–241, title IX, §902(<i>l</i>)(1), July 11, 2006, 120 Stat. 568.)
 
 #### Amendments
+
+2006—Subsec. (c)(1)(B). Pub. L. 109–241 substituted “Commerce and the Interior and the Commandant of the Coast Guard,” for “Commerce, the Interior, and Transportation,”.
 
 2005—Subsec. (i). Pub. L. 109–58 substituted “1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased” for “September 30, 2012”.
 

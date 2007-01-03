@@ -26,7 +26,7 @@
 
 #### Historical and Revision Notes
 
-Subsection (a) is based on title 14, U.S.C., 1946 ed., §43a (Apr. 10, 1936, ch. 179, 49 Stat. 1195). The authorization is enlarged to include any public body or privateorganization not organized for profit, and the authority to make disposal is placed in the Commandant rather than in the Secretary.
+Subsection (a) is based on title 14, U.S.C., 1946 ed., §43a (Apr. 10, 1936, ch. 179, 49 Stat. 1195). The authorization is enlarged to include any public body or private organization not organized for profit, and the authority to make disposal is placed in the Commandant rather than in the Secretary.
 
 Subsection (b) is based on title 33, U.S.C., 1946 ed., §752a (May 22, 1926, ch. 371, §5, 44 Stat. 626).
 

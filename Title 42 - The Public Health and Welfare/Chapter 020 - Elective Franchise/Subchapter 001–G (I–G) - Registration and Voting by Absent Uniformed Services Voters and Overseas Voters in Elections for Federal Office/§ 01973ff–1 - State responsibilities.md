@@ -18,7 +18,7 @@ Each State shall—
 
 #### (1) In general
 
-&emsp;Each State shall designate a single office which shall be responsible for providing information regarding voter registration procedures and absentee ballot procedures to be used by absent uniformed services voters and overseas voters with respect to elections for Federal office (including procedures relating to the use of the Federal write-in absentee ballot) to all absent uniformed services voters and overseas voters who wish to register to vote or vote in any jurisdiction in the State.
+&emsp;Each State shall designate a single office which shall be responsible for providing information regarding voter registration procedures and absentee ballot procedures to be used by absent uniformed services voters andoverseas voters with respect to elections for Federal office (including procedures relating to the use of the Federal write-in absentee ballot) to all absent uniformed services voters and overseas voters who wish to register to vote or vote in any jurisdiction in the State.
 
 #### (2) Recommendation regarding use of office to accept and process materials
 

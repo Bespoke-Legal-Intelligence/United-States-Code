@@ -4,7 +4,7 @@
 
 Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
-&emsp;(1) have completed all contracting courses required for a contracting officer (A) in thecase of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
+&emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
 
 &emsp;(2) have at least two years of experience in a contracting position;
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 108–375, §1084(d)(14), substituted “the decision of th
 
 2003—Subsec. (d). Pub. L. 108–136 substituted “The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines” for “The acquisition career program board concerned may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the board certifies” in first sentence and “the Secretary” for “the board” in second sentence, and struck out third sentence which read “Such document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.”
 
-2001—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, a person must—”.
+2001—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts  above  the  simplified  acquisition  threshold referred to in section 2304(g) of this title, a person must—”.
 
 Subsec. (a)(1). Pub. L. 107–107, §824(a)(1)(B), struck out “mandatory” before “contracting courses” and substituted cls. (A) and (B) for “at the grade level, or in the position within the grade of the General Schedule (in the case of an employee), that the person is serving in;”.
 
@@ -128,5 +128,5 @@ For provisions relating to development of fulfillment standards for purposes of 
 
 #### Credit for Experience in Certain Positions
 
-Section 1209(i) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and section 1732(c)(1) of suchtitle, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
+Section 1209(i) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and section 1732(c)(1) of such title, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
 

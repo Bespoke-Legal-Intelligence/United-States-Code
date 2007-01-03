@@ -16,7 +16,7 @@ Whoever—
 
 &emsp;&emsp;&emsp;(iii) a spouse or intimate partner of that person;
 
-> &emsp;&emsp;uses the mail, any interactive computer service, or any facility of interstate or foreign commerce to engage in a course of conduct that causes substantial emotional distress to that person or places that person in reasonable fear of the death of, or seriousbodily injury to, any of the persons described in clauses (i) through (iii) of subparagraph (B); <sup>2</sup>
+> &emsp;&emsp;uses the mail, any interactive computer service, or any facility of interstate or foreign commerce to engage in a course of conduct that causes substantial emotional distress to that person or places that person in reasonable fear of the death of, or serious bodily injury to, any of the persons described in clauses (i) through (iii) of subparagraph (B); <sup>2</sup>
 
 > shall be punished as provided in section 2261(b) of this title.
 

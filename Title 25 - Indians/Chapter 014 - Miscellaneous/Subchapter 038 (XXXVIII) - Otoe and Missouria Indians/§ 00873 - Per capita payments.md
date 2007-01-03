@@ -6,7 +6,7 @@ The Secretary shall make per capita payments directly to a living enrollee, exce
 
 #### (b) Minors and persons under legal disability
 
-Per capita payments due persons under twenty-one years of age or persons under legal disability shall be made in accordance with the laws of the place of domicile of such person, orin accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
+Per capita payments due persons under twenty-one years of age or persons under legal disability shall be made in accordance with the laws of the place of domicile of such person, or in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
 
 #### (c) Payments not subject to debts; tax exemption
 

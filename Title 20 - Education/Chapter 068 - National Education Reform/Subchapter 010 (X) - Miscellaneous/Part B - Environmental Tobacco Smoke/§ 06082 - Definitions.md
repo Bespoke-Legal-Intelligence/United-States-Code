@@ -22,7 +22,7 @@ As used in this part:
 
 #### (3) Person
 
-&emsp;The term “person” means any State or local subdivision thereof, agency of such State orsubdivision, corporation, or partnership that owns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
+&emsp;The term “person” means any State or local subdivision thereof, agency of such State or subdivision, corporation, or partnership that owns or operates or otherwise controls and provides children's services or any individual who owns or operates or otherwise controls and provides such services.
 
 #### (4) Indoor facility
 

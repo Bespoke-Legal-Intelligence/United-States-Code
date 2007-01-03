@@ -36,7 +36,7 @@
 
 &emsp;The right provided by paragraph (2) to bring an action by or on behalf of any employee shall terminate—
 
-&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of theamount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
+&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
 
 &emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) of this section in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
 

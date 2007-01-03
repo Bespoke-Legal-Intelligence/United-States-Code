@@ -20,7 +20,7 @@ Congress declares that—
 
 #### References in Text
 
-This chapter, referred to in par. (g), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, known as the Federal Coal Mine Health and Safety Act of 1969 which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290. The Federal Mine Safety and Health Act of 1977 enacted this chapter, amended sections 633 and 636 of Title 15, Commerce and Trade, repealed sections 451 to 460 and 471 to 483 of this title, and enacted provisions set out as notes under this section and section 636 of Title 15. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in par. (g), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -40,6 +40,10 @@ Section 307 of Pub. L. 95–164 provided that: “Except as otherwise provided, 
 
 Section 509 of Pub. L. 91–173 provided that: “Except to the extent an earlier date is specifically provided in this Act \[see Short Title note below\], the provisions of titles I and III of this Act \[subchapters I and III of this chapter\] shall become operative ninety days after the date of enactment of this Act \[Dec. 30, 1969\], and the provisions of title II of this Act \[subchapter II of this chapter\] shall become operative six months after the date of enactment of this Act. The provisions of the Federal Coal Mine Safety Act, as amended \[section 451 et seq. of this title\], are repealed on the operative date of titles I and III of this Act except that such provisions shall continue to apply to any order, notice, decision, or finding issued under that Act prior to such operative date and to any proceedings related to such order, notice, decision or findings. All other provisions of this Act, shall be effective on the date of enactment of this Act \[Dec. 30, 1969\].”
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–236, §1, June 15, 2006, 120 Stat. 493, provided that: “This Act \[enacting sections 826 and 963 to 965 of this title, amending sections 813, 818, 820, 825, and 876 of this title and section 671 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 811 and 820 of this title\] may be cited as the ‘Mine Improvement and New Emergency Response Act of 2006’ or the ‘MINER Act’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–275, §1, Nov. 2, 2002, 116 Stat. 1925, provided that: “This Act \[amending sections 902, 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 902 and 921 of this title\] may be cited as the ‘Black Lung Consolidation of Administrative Responsibility Act’.”
@@ -54,7 +58,7 @@ Pub. L. 95–239, §1, Mar. 1, 1978, 92 Stat. 95, provided that: “This Act \[e
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–164 provided: “That this Act \[enacting sections 822 to 825 and 961 of this title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the ‘Federal Mine Safety and Health Amendments Act of 1977’.”
+Section 1 of Pub. L. 95–164 provided: “That this Act \[enacting sections 822 to 825 and 961 of this title andsection 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the ‘Federal Mine Safety and Health Amendments Act of 1977’.”
 
 #### Short Title of 1972 Amendment
 
@@ -69,4 +73,14 @@ For short title of subchapter IV of this chapter as the “Black Lung Benefits A
 #### Separability
 
 Section 510 of Pub. L. 91–173 provided that: “If any provision of this Act \[see Short Title note set out above\], or the application of such provision to any person or circumstance shall be held invalid, the remainder of this Act, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+
+#### Requirement Concerning Family Liaisons
+
+Pub. L. 109–236, §7, June 15, 2006, 120 Stat. 500, provided that: “The Secretary of Labor shall establish a policy that—
+
+&emsp;“(1) requires the temporary assignment of an individual Department of Labor official to be a liaison between the Department and the families of victims of mine tragedies involving multiple deaths;
+
+&emsp;“(2) requires the Mine Safety and Health Administration to be as responsive as possible to requests from the families of mine accident victims for information relating to mine accidents; and
+
+&emsp;“(3) requires that in such accidents, that the Mine Safety and Health Administration shall serve as the primary communicator with the operator, miners’ families, the press and the public.”
 

@@ -14,7 +14,7 @@ No compensation shall be payable if the injury was occasioned solely by the into
 
 #### (d) Small vessels
 
-(1) No compensation shall be payable to an employee employed at a facility of an employer if, as certified by the Secretary, the facility is engaged in the business of building, repairing, or dismantling exclusively small vessels (as defined in paragraph (3) of this subsection), unless the injury occurs while upon the navigable waters ofthe United States or while upon any adjoining pier, wharf, dock, facility over land for launching vessels, or facility over land for hauling, lifting, or drydocking vessels.
+(1) No compensation shall be payable to an employee employed at a facility of an employer if, as certified by the Secretary, the facility is engaged in the business of building, repairing, or dismantling exclusively small vessels (as defined in paragraph (3) of this subsection), unless the injury occurs while upon the navigable waters of the United States or while upon any adjoining pier, wharf, dock, facility over land for launching vessels, or facility over land for hauling, lifting, or drydocking vessels.
 
 (2) Notwithstanding paragraph (1), compensation shall be payable to an employee—
 
@@ -30,9 +30,13 @@ No compensation shall be payable if the injury was occasioned solely by the into
 
 #### (e) Credit for benefits paid under other laws
 
-Notwithstanding any other provision of law, any amounts paid to an employee for the same injury, disability, or death for which benefits are claimed under this chapter pursuant to any other workers’ compensation law or section 688 of title 46, Appendix (relating to recovery for injury to or death of seamen), shall be credited against any liability imposed by this chapter.
+Notwithstanding any other provision of law, any amounts paid to an employee for the same injury, disability, or death for which benefits are claimed under this chapter pursuant to any other workers’ compensation law or section 30104 of title 46 shall be credited against any liability imposed by this chapter.
 
 (Mar. 4, 1927, ch. 509, §3, 44 Stat. 1426; Pub. L. 92–576, §§2(c), 21, Oct. 27, 1972, 86 Stat. 1251, 1265; Pub. L. 98–426, §3, Sept. 28, 1984, 98 Stat. 1640; Pub. L. 104–324, title VII, §703, Oct. 19, 1996, 110 Stat. 3933.)
+
+#### Codification
+
+In subsec. (e), “section 30104 of title 46” substituted for “section 20 of the Act of March 4, 1915 (38 Stat. 1185, chapter 153; 46 U.S.C. 688) (relating to recovery for injury to or death of seamen)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30104 of Title 46, Shipping.
 
 #### Amendments
 
@@ -44,7 +48,7 @@ Subsec. (b). Pub. L. 98–426, §3(a), redesignated as subsec. (b) provisions fo
 
 Subsecs. (c) to (e). Pub. L. 98–426, §3(a), (b), redesignated former subsec. (b) as (c) and added subsecs. (d) and (e).
 
-1972—Subsec. (a). Pub. L. 92–576, §2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and if recovery for the disability or death through workmen's compensation proceedings may not validly be provided by State law.
+1972—Subsec. (a). Pub. L. 92–576, §2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and ifrecovery for the disability or death through workmen's compensation proceedings may not validly be provided by State law.
 
 Subsec. (a)(1). Pub. L. 92–576, §21, substituted “or” for “nor” before “any person engaged by the master”.
 

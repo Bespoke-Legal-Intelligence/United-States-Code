@@ -86,9 +86,11 @@ Subsec. (g). Pub. L. 101–624, §1220(c), added subsec. (g).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R.41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

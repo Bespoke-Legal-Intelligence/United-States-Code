@@ -52,6 +52,10 @@ Addition to Annual Report.—In the annual report required under section 4107(c)
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+#### Department of Labor Implementation of Regulations for Priority of Service
+
+Pub. L. 109–461, title VI, §605, Dec. 22, 2006, 120 Stat. 3439, provided that: “Not later than two years after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Labor shall prescribe regulations to implement section 4215 of title 38, United States Code.”
+
 #### Requirement To Promptly Establish One-Stop Employment Services
 
 Pub. L. 107–288, §4(c), Nov. 7, 2002, 116 Stat. 2044, provided that: “By not later than 18 months after the date of the enactment of this Act \[Nov. 7, 2002\], the Secretary of Labor shall provide one-stop services and assistance to covered persons electronically by means of the Internet, as defined in section 231(e)(3) of the Communications Act of 1934 \[47 U.S.C. 231(e)(3)\], and such other electronic means to enhance the delivery of such services and assistance.”

@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 2005 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 2006 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -54,7 +54,7 @@
 | [<b>41.</b>](Chapter%20041%20-%20National%20Reading%20Improvement%20Program/README.md) | <b>National Reading Improvement Program \[Repealed\]</b> | <b>1901</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Harry%20S%20Truman%20Memorial%20Scholarships/README.md) | <b>Harry S Truman Memorial Scholarships</b> | <b>2001</b> |
 | [<b>43.</b>](Chapter%20043%20-%20American%20Folklife%20Preservation/README.md) | <b>American Folklife Preservation</b> | <b>2101</b> |
-| [<b>44.</b>](Chapter%20044%20-%20Vocational%20and%20Technical%20Education/README.md) | <b>Vocational and Technical Education</b> | <b>2301</b> |
+| [<b>44.</b>](Chapter%20044%20-%20Career%20and%20Technical%20Education/README.md) | <b>Career and Technical Education</b> | <b>2301</b> |
 | [<b>45.</b>](Chapter%20045%20-%20Career%20Education%20and%20Career%20Development/README.md) | <b>Career Education and Career Development</b> | <b>2501</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Career%20Education%20Incentive/README.md) | <b>Career Education Incentive \[Repealed or Omitted\]</b> | <b>2601</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools \[Omitted, Transferred, or Repealed\]</b> | <b>2701</b> |
@@ -79,7 +79,7 @@
 | [<b>66.</b>](Chapter%20066%20-%20Morris%20K.%20Udall%20Scholarship%20and%20Excellence%20in%20National%20Environmental%20Policy%20Foundation/README.md) | <b>Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation</b> | <b>5601</b> |
 | [<b>67.</b>](Chapter%20067%20-%20Christopher%20Columbus%20Fellowship%20Foundation/README.md) | <b>Christopher Columbus Fellowship Foundation</b> | <b>5701</b> |
 | [<b>68.</b>](Chapter%20068%20-%20National%20Education%20Reform/README.md) | <b>National Education Reform</b> | <b>5801</b> |
-| [<b>69.</b>](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md) | <b>School-to-Work Opportunities</b> | <b>6101</b> |
+| [<b>69.</b>](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md) | <b>School-to-Work Opportunities \[Omitted\]</b> | <b>6101</b> |
 | [<b>70.</b>](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |
 | [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics \[Repealed or Transferred\]</b> | <b>9001</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
@@ -145,7 +145,7 @@
 - [Chapter 041 - National Reading Improvement Program](Chapter%20041%20-%20National%20Reading%20Improvement%20Program/README.md)
 - [Chapter 042 - Harry S Truman Memorial Scholarships](Chapter%20042%20-%20Harry%20S%20Truman%20Memorial%20Scholarships/README.md)
 - [Chapter 043 - American Folklife Preservation](Chapter%20043%20-%20American%20Folklife%20Preservation/README.md)
-- [Chapter 044 - Vocational and Technical Education](Chapter%20044%20-%20Vocational%20and%20Technical%20Education/README.md)
+- [Chapter 044 - Career and Technical Education](Chapter%20044%20-%20Career%20and%20Technical%20Education/README.md)
 - [Chapter 045 - Career Education and Career Development](Chapter%20045%20-%20Career%20Education%20and%20Career%20Development/README.md)
 - [Chapter 046 - Career Education Incentive](Chapter%20046%20-%20Career%20Education%20Incentive/README.md)
 - [Chapter 047 - Strengthening and Improvement of Elementary and Secondary Schools](Chapter%20047%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md)

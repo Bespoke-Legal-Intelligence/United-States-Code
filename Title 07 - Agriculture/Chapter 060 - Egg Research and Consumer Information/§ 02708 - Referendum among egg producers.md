@@ -24,7 +24,7 @@ The Secretary shall conduct a referendum among egg producers not exempt hereunde
 
 &emsp;(ii) if the Director of the Office of Management and Budget determines that the change in the assessment rate is a significant action that requires review by the Director, 170 days after receipt of the request from the Egg Board.
 
-(4) Notwithstanding any other provision of this chapter, if an increase in the assessment rate and the authority for additional increases is approved by producers in a referendum conducted under this subsection, the Secretary shall amend the order to reflect the vote of theproducers. The amendment to the order shall become effective on the date of issuance of the amendment.
+(4) Notwithstanding any other provision of this chapter, if an increase in the assessment rate and the authority for additional increases is approved by producers in a referendum conducted under this subsection, the Secretary shall amend the order to reflect the vote of the producers. The amendment to the order shall become effective on the date of issuance of the amendment.
 
 #### (c) Nonapproval of amendments as not invalidating order
 

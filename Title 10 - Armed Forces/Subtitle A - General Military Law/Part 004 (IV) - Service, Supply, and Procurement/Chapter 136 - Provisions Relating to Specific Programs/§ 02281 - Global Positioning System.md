@@ -82,7 +82,13 @@ Subsec. (d)(2). Pub. L. 108–136, §914(b), inserted “(C),” after “under 
 
 #### Authorization of Interagency Support for Global Positioning System
 
-Pub. L. 106–405, §8, Nov. 1, 2000, 114 Stat. 1753, provided that: “The use of interagency funding and other forms of support is hereby authorized by Congress for the functions and activities of the Interagency Global Positioning System Executive Board, including an Executive Secretariat to be housed at the Department of Commerce.”
+Pub. L. 106–405, §8, Nov. 1, 2000, 114 Stat. 1753, as amended by Pub. L. 109–364, div. A, title IX, §911, Oct. 17, 2006, 120 Stat. 2354, provided that: “The use of multi-agency funding and other forms of support is hereby authorized for the functions and activities of the following organizations established pursuant to the United States Space-Based Position, Navigation, and Timing Policy issued December 8, 2004 (and any successor organization, to the extent the successor organization performs the functions of the specified organization):
+
+&emsp;“(1) The interagency committee known as the National Space-Based Positioning, Navigation, and Timing Executive Committee.
+
+&emsp;“(2) The support office for the committee specified in paragraph (1) known as the National Space-Based Positioning, Navigation, and Timing Coordination Office.
+
+&emsp;“(3) The Federal advisory committee known as the National Space-Based Positioning, Navigation, and Timing Advisory Board.”
 
 #### Enhanced Global Positioning System Program
 
@@ -154,7 +160,7 @@ Findings.—Congress makes the following findings:
 
 “(b)
 
-International Cooperation.—Congress urges the President to promote the security of the UnitedStates and its allies, the public safety, and commercial interests by taking the following steps:
+International Cooperation.—Congress urges the President to promote the security of the United States and its allies, the public safety, and commercial interests by taking the following steps:
 
 &emsp;“(1) Undertaking a coordinated effort within the executive branch to seek to establish the Global Positioning System, and augmentations to the system, as a worldwide resource.
 

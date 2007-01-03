@@ -88,7 +88,7 @@
 
 #### Amendments
 
-1998—Subsec. (a)(7). Pub. L. 105–383 substituted “beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States” for “on the high seas”.
+1998—Subsec. (a)(7). Pub. L. 105–383 substituted “beyond 3 nautical miles from the baselines from whichthe territorial sea of the United States is measured, and which are owned in the United States” for “on the high seas”.
 
 1996—Subsec. (a)(7). Pub. L. 104–324 inserted “or beyond 3 nautical miles from the coastline of the Great Lakes” after “high seas”.
 
@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 101–595, §602(c)(2), amended subsec. (f) generally. Prio
 
 #### Effective Date of 1990 Amendment
 
-Section 602(f) of Pub. L. 101–595, provided that: “This section \[amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under section 7306 of this title\] is effective on the date of enactment of this section \[Nov. 16, 1990\] except as follows:
+Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: “This section \[amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under section 7306 of this title\] is effective on the date of enactment of this section \[Nov. 16, 1990\] except as follows:
 
 &emsp;“(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act.
 
@@ -156,15 +156,11 @@ Section 602(f) of Pub. L. 101–595, provided that: “This section \[amending t
 
 #### Studies Regarding Safety of Fishing Vessels
 
-Section 5(a) of Pub. L. 100–424 directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whether a vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
+Pub. L. 100–424, §5(a), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whether a vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
 
-Section 5(b) of Pub. L. 100–424 directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
+Pub. L. 100–424, §5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
 
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4506 of this title.
 

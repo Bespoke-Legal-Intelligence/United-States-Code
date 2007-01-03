@@ -72,6 +72,10 @@ Except as otherwise provided, in this Act:
 
 This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–375, §1, Dec. 1, 2006, 120 Stat. 2656, provided that: “This Act \[amending section 15855 of this title\] may be cited as the ‘Sierra National Forest Land Exchange Act of 2006’.”
+
 #### Short Title
 
 Pub. L. 109–58, §1(a), Aug. 8, 2005, 119 Stat. 594, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Energy Policy Act of 2005’.”

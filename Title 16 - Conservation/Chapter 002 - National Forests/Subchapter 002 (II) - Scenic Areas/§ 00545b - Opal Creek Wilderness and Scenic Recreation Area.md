@@ -56,7 +56,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;&emsp;(III) Morning Star Lode, mineral survey number 993, as described in patent number 36–91–0011, dated February 12, 1991;
 
-&emsp;&emsp;&emsp;(ii) all right, title, and interest held by any entity other than the Times Mirror Land and Timber Company, its successors and assigns, in and to lands located in section 18, township 8 south, range 5 east,Marion County, Oregon, Eureka numbers 6, 7, 8, and 13 mining claims; and
+&emsp;&emsp;&emsp;(ii) all right, title, and interest held by any entity other than the Times Mirror Land and Timber Company, its successors and assigns, in and to lands located in section 18, township 8 south, range 5 east, Marion County, Oregon, Eureka numbers 6, 7, 8, and 13 mining claims; and
 
 &emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
 

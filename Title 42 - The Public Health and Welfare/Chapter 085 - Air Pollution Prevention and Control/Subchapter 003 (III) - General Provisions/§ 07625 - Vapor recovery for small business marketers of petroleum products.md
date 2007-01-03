@@ -16,9 +16,9 @@ Nothing in subsection (a) of this section shall be construed to prohibit any Sta
 
 #### (c) Refiners
 
-For purposes of this section, an independent small business marketer of gasoline is a person engaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 of this title or under regulations of the Administrator, unless such person—
+For purposes of this section, an independent small business marketer of gasoline is a person engaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 <sup>1</sup> of this title or under regulations of the Administrator, unless such person—
 
-&emsp;(1)(A) is a refiner, or <sup>1</sup>
+&emsp;(1)(A) is a refiner, or <sup>2</sup>
 
 &emsp;(B) controls, is controlled by, or is under common control with, a refiner,
 
@@ -30,6 +30,10 @@ For purposes of this section, an independent small business marketer of gasoline
 
 (July 14, 1955, ch. 360, title III, §324, formerly §325, as added Pub. L. 95–95, title III, §314(b), Aug. 7, 1977, 91 Stat. 789; renumbered §324, Pub. L. 96–300, §1(c), July 2, 1980, 94 Stat. 831.)
 
+#### References in Text
+
+Section 7624 of this title, referred to in subsec. (c), was in the original “section 324 of this Act”, meaning section 324 of the Act July 14, 1955. Sections 324 and 325 of that Act, were renumbered sections 323 and 324, respectively, by Pub. L. 96–300, §1(b), July 2, 1980, 94 Stat. 831, and are classified to sections 7624 and 7625, respectively, of this title.
+
 #### Prior Provisions
 
 A prior section 324 of act July 14, 1955, was renumbered section 323 by Pub. L. 96–300 and is classified to section 7624 of this title.
@@ -38,5 +42,7 @@ A prior section 324 of act July 14, 1955, was renumbered section 323 by Pub. L. 
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “or” probably should appear at the end of subpar. (B).</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “or” probably should appear at the end of subpar. (B).</i>
 

@@ -6,7 +6,7 @@ The Secretary of Commerce, in coordination with the Secretary of the Department 
 
 #### Amendments
 
-1986—Pub. L. 99–272 struck out provision which had required the Secretary of Commerce to report from time to time, not less frequently than annually, his findings under this section (including an evaluation of the short-term ecological effects and the social and economic factors involved) to the Congress.
+1986—Pub. L. 99–272 struck out provision which had required the Secretary of Commerce to report fromtime to time, not less frequently than annually, his findings under this section (including an evaluation of the short-term ecological effects and the social and economic factors involved) to the Congress.
 
 #### Transfer of Functions
 

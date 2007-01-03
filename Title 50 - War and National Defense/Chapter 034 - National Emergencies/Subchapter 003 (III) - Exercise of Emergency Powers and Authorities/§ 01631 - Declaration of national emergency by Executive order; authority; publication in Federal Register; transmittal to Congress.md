@@ -6,5 +6,5 @@ When the President declares a national emergency, no powers or authorities made 
 
 #### Release of American Hostages in Iran
 
-For provisions relating to the release of the American hostages in Iran, see Ex. Ord. Nos. 12276 to 12285, Jan. 19, 1981, 46 F.R. 7913 to 7932, set out under section 1701 of this title.
+For provisions relating to the release of the American hostages in Iran, see Ex. Ord. Nos. 12276 to 12285, Jan. 19, 1981, 46 F.R. 7913 to 7932, listed in a table under section 1701 of this title.
 

@@ -32,11 +32,11 @@ The determination of said court of appeals upon said questions shall be final, a
 
 #### Seventh. Judgment where petitioner's contentions are sustained
 
-If the petitioner's contentions are finally sustained, judgment shall be entered setting aside the award in whole or, if the parties so agree, in part; but in such case the parties may agreeupon a judgment to be entered disposing of the subject matter of the controversy, which judgment when entered shall have the same force and effect as judgment entered upon an award.
+If the petitioner's contentions are finally sustained, judgment shall be entered setting aside the award in whole or, if the parties so agree, in part; but in such case the parties may agree upon a judgment to be entered disposing of the subject matter of the controversy, which judgment when entered shall have the same force and effect as judgment entered upon an award.
 
 #### Eighth. Duty of employee to render service without consent; right to quit
 
-Nothing in this chapter shall be construed to require an individual employee to render labor or service without his consent, nor shall anything in this chapter be construed to make the quitting of his labor or service by an individual employee an illegal act; nor shall any court issue any process to compel the performance by an individual employee of such labor or service, without his consent.
+Nothing in this chapter shall be construed to require an individual employee to render laboror service without his consent, nor shall anything in this chapter be construed to make the quitting of his labor or service by an individual employee an illegal act; nor shall any court issue any process to compel the performance by an individual employee of such labor or service, without his consent.
 
 (May 20, 1926, ch. 347, §9, 44 Stat. 585; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 

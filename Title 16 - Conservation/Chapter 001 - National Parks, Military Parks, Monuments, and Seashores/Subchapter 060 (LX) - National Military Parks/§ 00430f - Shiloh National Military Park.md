@@ -24,5 +24,5 @@ Act June 25, 1947, ch. 126, 61 Stat. 173, provided: “That the Secretary of the
 
 “
 
-Sec. 2. For the purpose of consolidating Federal holdings within the park, the Secretary of the Interior is authorized, in his discretion and under such terms and conditions as he may deem necessary, to accept any non-Federal real or personal property within the authorized boundaries of the park. In exchange for such properties, he may, in his discretion, convey to the grantors of such properties any Federally owned lands or interests in lands within the authorized boundariesof the park which are of approximately equal value, as determined by the Secretary, to the properties being acquired in each case.”
+Sec. 2. For the purpose of consolidating Federal holdings within the park, the Secretary of the Interior is authorized, in his discretion and under such terms and conditions as he may deem necessary, to accept any non-Federal real or personal property within the authorized boundaries of the park. In exchange for such properties, he may, in his discretion, convey to the grantors of such properties any Federally owned lands or interests in lands within the authorized boundaries of the park which are of approximately equal value, as determined by the Secretary, to the properties being acquired in each case.”
 

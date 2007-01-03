@@ -30,11 +30,11 @@ Additional Procedure for Developments and Projects Within Environs.—
 
 &emsp;(1)
 
-Submission to commission.—Within the environs, general plans showing the location, character, and extent of, and intensity of usefor, proposed federal and District developments and projects involving the acquisition of land shall be submitted to the Commission for report and recommendations before a final commitment to the acquisition is made, unless the matter specifically has been approved by law.
+Submission to commission.—Within the environs, general plans showing the location, character, and extent of, and intensity of use for, proposed federal and District developments and projects involving the acquisition of land shall be submitted to the Commission for report and recommendations before a final commitment to the acquisition is made, unless the matter specifically has been approved by law.
 
 &emsp;(2)
 
-Commission action.—Before acting on any general plan, the Commission shall advise and consult with the appropriate planning agency having jurisdiction over the affected part of the environs. When the Commission decides that proposed developments or projects submitted to the Commission under subsection (b) involve a major change in the character or intensity of an existing use in the environs, the Commission shall advise and consult with the planning agency. The report and recommendations shall be submitted within 60 days and shall be accompanied by any reports or recommendations of the planning agency.
+Commission action.—Before acting on any general plan, the Commission shall advise and consult with the appropriate planning agency having jurisdiction over the affected part of the environs. When the Commission decides that proposed developments or projects submitted to the Commission under subsection (b) involve a major change in the character or intensity of an existing use in the environs, the Commission shall advise and consult with the planning agency. The report andrecommendations shall be submitted within 60 days and shall be accompanied by any reports or recommendations of the planning agency.
 
 &emsp;(3)
 
@@ -42,13 +42,13 @@ Working with state or local authority or agency.—In carrying out its planning 
 
 (d)
 
-Approval of Federal Public Buildings.—The provisions of the Act of June 20, 1938 (ch. 534, 52 Stat. 802) shall not apply to federal public buildings. In order to ensure the orderly development of the National Capital, the location, height, bulk, number of stories, and size of federal public buildings in the District of Columbia and the provision for open space in and around federal public buildings in the District of Columbia is subject to the approval of the Commission.
+Approval of Federal Public Buildings.—The provisions of the Act of June 20, 1938 (ch. 534, 52 Stat. 797) shall not apply to federal public buildings. In order to ensure the orderly development of the National Capital, the location, height, bulk, number of stories, and size of federal public buildings in the District of Columbia and the provision for open space in and around federal public buildings in the District of Columbia are subject to the approval of the Commission.
 
 (e)
 
 Approval of District Government Buildings in Central Area.—Subsection (d) is extended to include public buildings erected by any agency of the Government of the District of Columbia in the central area of the District (as defined by concurrent action of the Commission and the Council of the District of Columbia), except that the Commission shall transmit its approval or disapproval within 30 days after the day the proposal was submitted to the Commission.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1221.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1221; Pub. L. 109–284, §6(29), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -113,4 +113,8 @@ In subsection (e), the words “the boundaries of” and “and from time to tim
 #### References in Text
 
 The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797, as amended. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
+
+#### Amendments
+
+2006—Subsec. (d). Pub. L. 109–284 substituted “52 Stat. 797” for “52 Stat. 802” and “are subject” for “is subject”.
 

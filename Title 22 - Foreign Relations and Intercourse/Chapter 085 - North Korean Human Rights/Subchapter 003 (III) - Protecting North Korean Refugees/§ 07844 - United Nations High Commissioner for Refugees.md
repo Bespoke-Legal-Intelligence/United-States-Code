@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(2) the United States, other UNHCR donor governments, and UNHCR should persistently and at the highest levels continue to urge the Government of China to abide by its previous commitments to allow UNHCR unimpeded access to North Korean refugees inside China;
 
-&emsp;(3) the UNHCR, in order to effectively carry out its mandate to protect refugees, should liberally employ as professionals or Experts on Mission persons with significant experience in humanitarian assistance work among displaced North Koreans in China;
+&emsp;(3) the UNHCR, in order to effectively carry out its mandate to protect refugees, should liberally employ as professionals or Experts on Mission persons with significant experience inhumanitarian assistance work among displaced North Koreans in China;
 
 &emsp;(4) the UNHCR, in order to effectively carry out its mandate to protect refugees, should liberally contract with appropriate nongovernmental organizations that have a proven record of providing humanitarian assistance to displaced North Koreans in China;
 

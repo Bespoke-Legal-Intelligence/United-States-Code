@@ -2,7 +2,7 @@
 
 Whenever there is no surviving spouse entitled to pension under section 1536 of this title, the Secretary shall pay to the children of each Spanish-American War veteran who met the service requirements of section 1512(a) of this title a pension at the monthly rate of $73.13 for one child, plus $8.13 for each additional child, with the total amount equally divided.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §537; Pub. L. 94–169, title I, §106(39), Dec. 23, 1975, 89Stat. 1019; renumbered §1537 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §537; Pub. L. 94–169, title I, §106(39), Dec. 23, 1975, 89 Stat. 1019; renumbered §1537 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

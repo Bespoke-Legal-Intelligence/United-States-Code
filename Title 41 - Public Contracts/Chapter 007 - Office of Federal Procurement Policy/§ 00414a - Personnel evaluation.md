@@ -1,6 +1,6 @@
 ### §414a. Personnel evaluation
 
-The head of each executive agency that is subject to the provisions of title III of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\] shall ensure, with respect to the employees of that agency whose primary duties and responsibilities pertain to the award of contracts subject to the provisions of this Act, that the performance appraisal system applicable to such employees affords appropriate recognition to, among other factors, efforts—
+The head of each executive agency that is subject to the provisions of title III of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\] shall ensure, with respect to the employees of that agency whose primary duties and responsibilities pertain to the award of contracts subject to the provisions of this Act, that the performance appraisal systemapplicable to such employees affords appropriate recognition to, among other factors, efforts—
 
 &emsp;(1) to increase competition and achieve cost savings through the elimination of procedures that unnecessarily inhibit full and open competition;
 

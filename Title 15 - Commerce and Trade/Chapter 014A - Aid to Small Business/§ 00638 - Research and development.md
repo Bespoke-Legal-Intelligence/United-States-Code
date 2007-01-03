@@ -26,7 +26,7 @@ It shall be the duty of the Administration, and it is empowered—
 
 #### (c) Consultation and cooperation with Government agencies; studies and recommendations
 
-The Administration is authorized to consult and cooperate with all Government agencies and to make studies and recommendations to such agencies, and such agencies are authorized and directed to cooperate with the Administration in order to carry out and to accomplish the purposes of this section.
+The Administration is authorized to consult and cooperate with all Government agencies andto make studies and recommendations to such agencies, and such agencies are authorized and directed to cooperate with the Administration in order to carry out and to accomplish the purposes of this section.
 
 #### (d) Joint programs; approval of agreements; withdrawal of approval; publication in Federal Register
 
@@ -74,7 +74,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(C) where appropriate, a third phase—
 
-&emsp;&emsp;&emsp;(i) in which commercial applications of SBIR-funded research or research and development are funded by non-Federal sources of capital or, for products or services intended for use by the Federal Government, by follow-on non-SBIR Federal funding awards; or
+&emsp;&emsp;&emsp;(i) in which commercial applications of SBIR-funded research or research and development are funded by non-Federalsources of capital or, for products or services intended for use by the Federal Government, by follow-on non-SBIR Federal funding awards; or
 
 &emsp;&emsp;&emsp;(ii) for which awards from non-SBIR Federal funding sources are used for the continuation of research or research and development that has been competitively selected using peer review or scientific review criteria;
 
@@ -182,7 +182,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 &emsp;&emsp;(A) simplified, standardized, and timely SBIR solicitations;
 
-&emsp;&emsp;(B) a simplified, standardized funding process which provides for (i) the timely receipt and review of proposals; (ii) outside peer review for at least phase two proposals, if appropriate; (iii) protection of proprietary information provided in proposals; (iv) selection of awardees; (v) retention of rights in data generated in the performance of the contract by the small business concern; (vi)transfer of title to property provided by the agency to the small business concern if such a transfer would be more cost effective than recovery of the property by the agency; (vii) cost sharing; and (viii) cost principles and payment schedules;
+&emsp;&emsp;(B) a simplified, standardized funding process which provides for (i) the timely receipt and review of proposals; (ii) outside peer review for at least phase two proposals, if appropriate; (iii) protection of proprietary information provided in proposals; (iv) selection of awardees; (v) retention of rights in data generated in the performance of the contract by the small business concern; (vi) transfer of title to property provided by the agency to the small business concern if such a transfer would be more cost effective than recovery of the property by the agency; (vii) cost sharing; and (viii) cost principles and payment schedules;
 
 &emsp;&emsp;(C) exemptions from the regulations under paragraph (2) <sup>4</sup> if national security or intelligence functions clearly would be jeopardized;
 
@@ -228,7 +228,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 &emsp;&emsp;(B) to provide for the requirement of a succinct commercialization plan with each application for a second phase award that is moving toward commercialization;
 
-&emsp;&emsp;(C) to require agencies to report to the Administration, not less frequently than annually, all instances in which an agency pursued research, development, or production of a technology developed by a small business concern using an award made under the SBIR program of that agency, and determined that it was not practicable to enter into a follow-on non-SBIR program fundingagreement with the small business concern, which report shall include, at a minimum—
+&emsp;&emsp;(C) to require agencies to report to the Administration, not less frequently than annually, all instances in which an agency pursued research, development, or production of a technology developed by a small business concern using an award made under the SBIR program of that agency, and determined that it was not practicable to enter into a follow-on non-SBIR program funding agreement with the small business concern, which report shall include, at a minimum—
 
 &emsp;&emsp;&emsp;(i) the reasons why the follow-on funding agreement with the small business concern was not practicable;
 
@@ -310,7 +310,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 #### (4) Protection of information
 
-&emsp;Information provided under paragraph (2) shall be considered privileged and confidential and not subject to disclosure pursuant to section 552 of title 5.
+&emsp;Information provided under paragraph (2) shall be considered privileged and confidentialand not subject to disclosure pursuant to section 552 of title 5.
 
 #### (5) Rule of construction
 
@@ -382,7 +382,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(6) administer its own STTR funding agreements (or delegate such administration to another agency);
 
-&emsp;(7) make payments to recipients of STTR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of the completion of such requirements;
+&emsp;(7) make payments to recipients of STTR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreementsin full, subject to audit, on or before the last day of the 12-month period beginning on the date of the completion of such requirements;
 
 &emsp;(8) include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31, a section on its STTR program, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
 
@@ -608,7 +608,7 @@ The Administrator shall work with the Federal agencies required by this section 
 
 #### (4) Funding
 
-&emsp;For payment of expenses incurred to administer the Commercialization Pilot Programunder this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds—
+&emsp;For payment of expenses incurred to administer the Commercialization Pilot Program under this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds—
 
 &emsp;&emsp;(A) shall not be subject to the limitations on the use of funds in subsection (f)(2) of this section; and
 
@@ -633,8 +633,6 @@ The Administrator shall work with the Federal agencies required by this section 
 #### References in Text
 
 Executive Order 13329, referred to in subsecs. (b)(8), (g)(11), and (<i>o</i>)(16), is set out as a note under this section.
-
-The antitrust laws, referred to in subsec. (d)(3), are classified generally to chapter 1 (§1 et seq.) of this title.
 
 The Federal Trade Commission Act, referred to in subsec. (d)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
@@ -688,7 +686,7 @@ Subsec. (<i>o</i>)(14). Pub. L. 107–50, §4, added par. (14).
 
 Subsec. (<i>o</i>)(15). Pub. L. 107–50, §6(a), added par. (15).
 
-Subsec. (p)(2)(B)(ix). Pub. L. 107–50, §3, substituted “$750,000” for “$500,000” and inserted “, and shorter or longer periods of time to be approved at the discretion of the awarding agency where appropriate for a particular project” before the semicolon at the end.
+Subsec. (p)(2)(B)(ix). Pub. L. 107–50, §3, substituted “$750,000” for “$500,000” and inserted “, and shorter orlonger periods of time to be approved at the discretion of the awarding agency where appropriate for a particular project” before the semicolon at the end.
 
 Subsec. (p)(3). Pub. L. 107–50, §5, added par. (3).
 
@@ -768,7 +766,7 @@ Subsec. (f)(2). Pub. L. 102–484, §4237(d)(2)(B), (h)(2), temporarily struck o
 
 Subsec. (g)(3), (4). Pub. L. 102–564, §103(d), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (g)(5). Pub. L. 102–564, §103(d)(1), (h)(2), (i), redesignated par. (4) as (5) and inserted “subject to subsection (<i>l</i>) of this section,” before “unilaterally” and “and inform each awardee under such an agreement, to the extent possible, of the expenses of the awardee that will be allowable under the funding agreement” before semicolon at end. Former par. (5) redesignated (6).
+Subsec. (g)(5). Pub. L. 102–564, §103(d)(1), (h)(2), (i), redesignated par. (4) as (5) and inserted “subject to subsection (<i>l</i>) of this section,” before “unilaterally” and “and inform each awardee under such an agreement, tothe extent possible, of the expenses of the awardee that will be allowable under the funding agreement” before semicolon at end. Former par. (5) redesignated (6).
 
 Subsec. (g)(6). Pub. L. 102–564, §103(d)(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 

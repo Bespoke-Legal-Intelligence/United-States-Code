@@ -24,47 +24,11 @@ A prior section 191 was renumbered section 202 of this title and subsequently re
 
 #### Comptroller General Review of Operations of Defense Logistics Agency
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §917\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, provided that:
-
-“(a)
-
-Comptroller General Review Required.—The Comptroller General shall review the operations of the Defense Logistics Agency—
-
-&emsp;“(1) to assess—
-
-&emsp;&emsp;“(A) the efficiency of those operations;
-
-&emsp;&emsp;“(B) the effectiveness of those operations in meeting customer requirements; and
-
-&emsp;&emsp;“(C) the flexibility of those operations to adopt best business practices; and
-
-&emsp;“(2) to identify alternative approaches for improving the operations of that agency.
-
-“(b)
-
-Report.—Not later than February 1, 2002, the Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives one or more reports setting forth the Comptroller General's findings resulting from the review under subsection (a).”
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §917\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Logistics Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General's findings not later than Feb. 1, 2002.
 
 #### Comptroller General Review of Operations of Defense Information Systems Agency
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §918\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, provided that:
-
-“(a)
-
-Comptroller General Review Required.—The Comptroller General shall review the operations of the Defense Information Systems Agency—
-
-&emsp;“(1) to assess—
-
-&emsp;&emsp;“(A) the efficiency of those operations;
-
-&emsp;&emsp;“(B) the effectiveness of those operations in meeting customer requirements; and
-
-&emsp;&emsp;“(C) the flexibility of those operations to adopt best business practices; and
-
-&emsp;“(2) to identify alternative approaches for improving the operations of that agency.
-
-“(b)
-
-Report.—Not later than February 1, 2002, the Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives one or more reports setting forth the Comptroller General's findings resulting from the review under subsection (a).”
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §918\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Information Systems Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General's findings not later than Feb. 1, 2002.
 
 #### Reassessment of Defense Agencies and Department of Defense Field Activities
 

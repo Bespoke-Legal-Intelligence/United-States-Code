@@ -9,8 +9,6 @@
 | [1154\.](%C2%A7%2001154%20-%20Reference%20of%20data%20to%20armed%20services%20and%20other%20Government%20agencies.md) | Reference of data to armed services and other Government agencies. |
 | [1155\.](%C2%A7%2001155%20-%20General%20standards%20and%20limitations%3B%20preservation%20of%20security%20classification.md) | General standards and limitations; preservation of security classification. |
 | [1156\.](%C2%A7%2001156%20-%20Use%20of%20existing%20facilities.md) | Use of existing facilities. |
-| (a) | Available assistance. |
-| (b) | Cooperation of other agencies. |
 | [1157\.](%C2%A7%2001157%20-%20Relation%20to%20other%20provisions.md) | Relation to other provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

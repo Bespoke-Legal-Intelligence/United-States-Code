@@ -10,7 +10,7 @@ In this subpart:
 
 &emsp;The term “eligible entity” includes any of the following that is organized on a Statewide or multistate basis:
 
-&emsp;&emsp;(A) A public agency or corporation established for the purpose of developing and operating telecommunications networks to enhance educational opportunities provided by educational institutions, teacher training centers, and other entities, except that any such agency or corporation shall representthe interests of elementary schools and secondary schools that are eligible to participate in the program under part A of subchapter I of this chapter.
+&emsp;&emsp;(A) A public agency or corporation established for the purpose of developing and operating telecommunications networks to enhance educational opportunities provided by educational institutions, teacher training centers, and other entities, except that any such agency or corporation shall represent the interests of elementary schools and secondary schools that are eligible to participate in the program under part A of subchapter I of this chapter.
 
 &emsp;&emsp;(B) A partnership that will provide telecommunications services and that includes three or more of the following entities, at least one of which shall be an agency described in clause (i) or (ii):
 

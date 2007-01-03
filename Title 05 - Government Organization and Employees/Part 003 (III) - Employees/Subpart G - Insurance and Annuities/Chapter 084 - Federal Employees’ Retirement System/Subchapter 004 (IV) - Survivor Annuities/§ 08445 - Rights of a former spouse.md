@@ -1,6 +1,6 @@
 ### §8445. Rights of a former spouse
 
-(a) Subject to subsections (b) through (e), a former spouse of a deceased employee, Member, or annuitant (or of a former employee or Member who dies after having separated from the service with title to a deferred annuity under section 8413 but before having established a valid claim for annuity) is entitled to an annuity under this section, if and to the extent expressly provided for in an election under section 8417(b), or in the terms of any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
+(a) Subject to subsections (b) through (e), a former spouse of a deceased employee, Member,or annuitant (or of a former employee or Member who dies after having separated from the service with title to a deferred annuity under section 8413 but before having established a valid claim for annuity) is entitled to an annuity under this section, if and to the extent expressly provided for in an election under section 8417(b), or in the terms of any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
 
 (b)(1) The annuity payable to a former spouse under this section may not exceed the difference between—
 

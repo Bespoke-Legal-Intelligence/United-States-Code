@@ -70,7 +70,7 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;(A) to a public agency for use in carrying out or promoting, for residents of a given political area, a public purpose, including conservation, economic development, education, parks and recreation, public health, and public safety; or
 
-&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofiteducational or public health institution or organization that is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
+&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofit educational or public health institution or organization that is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
 
 &emsp;&emsp;&emsp;(i) a medical institution, hospital, clinic, health center, or drug abuse treatment center;
 
@@ -84,9 +84,11 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;&emsp;(vi) a radio or television station licensed by the Federal Communications Commission as an educational radio or educational television station;
 
-&emsp;&emsp;&emsp;(vii) a museum attended by the public; or
+&emsp;&emsp;&emsp;(vii) a museum attended by the public;
 
-&emsp;&emsp;&emsp;(viii) a library serving free all residents of a community, district, State, or region.
+&emsp;&emsp;&emsp;(viii) a library serving free all residents of a community, district, State, or region; or
+
+&emsp;&emsp;&emsp;(ix) a historic light station as defined under section 308(e)(2) of the National Historic Preservation Act (16 U.S.C. 470w–7(e)(2)), including a historic light station conveyed under subsection (b) of that section, notwithstanding the number of hours that the historic light station is open to the public.
 
 &emsp;(4)
 
@@ -162,7 +164,7 @@ Request by recipient.—The state plan of operation shall require the state agen
 
 &emsp;&emsp;(F)
 
-Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs ofits activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
+Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
 
 &emsp;&emsp;(G)
 
@@ -230,7 +232,7 @@ Surplus property transferred to state agency.—
 
 &emsp;&emsp;(A)
 
-In general.—Under the cooperative agreement, surplus property transferred to a state agency for distribution pursuant to subsection (c) may be retained by the state agency for use in performing its functions. Unless otherwise directed by the Administrator, title to the retained property vests in the state agency.
+In general.—Under the cooperative agreement, surplus property transferred to a state agency for distribution pursuant tosubsection (c) may be retained by the state agency for use in performing its functions. Unless otherwise directed by the Administrator, title to the retained property vests in the state agency.
 
 &emsp;&emsp;(B)
 
@@ -242,7 +244,7 @@ Conditions.—Retention of surplus property under this paragraph is subject to c
 
 &emsp;&emsp;&emsp;(iii) the Secretary of Health and Human Services, for property transferred under section 550(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, §5, Oct. 6, 2006, 120 Stat. 1737.)
 
 Historical and Revision Notes
 
@@ -289,6 +291,14 @@ In subsection (d), the words “Secretary of Defense” are substituted for “N
 In subsection (e)(2)(B), the words “In the event that a State legislature has not developed, according to State law, a State plan within two hundred and seventy calendar days after October 17, 1976, the chief executive officer of the State shall approve, and submit to the Administrator, a temporary State plan” are omitted as obsolete.
 
 In subsection (f)(1)(B)–(D) and (4)(B), the words “Secretary of Education” and “Secretary of Health and Human Services” are substituted for “Secretary of Health, Education, and Welfare” because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
+
+#### Amendments
+
+2006—Subsec. (c)(3)(B)(ix). Pub. L. 109–313 added cl. (ix).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

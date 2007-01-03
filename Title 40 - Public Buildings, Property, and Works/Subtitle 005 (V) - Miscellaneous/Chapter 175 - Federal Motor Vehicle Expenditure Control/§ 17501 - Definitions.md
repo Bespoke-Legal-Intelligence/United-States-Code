@@ -38,5 +38,5 @@ Pub. L. 99–272, title XV, §15313, Apr. 7, 1986, 100 Stat. 338.
 
 In this section, the text of 40:913(2)–(4) is omitted as unnecessary because the complete names of the Director of the Office of Management and Budget, the Administrator of General Services, and the Comptroller General of the United States are used the first time the terms appear in a section.
 
-Before clause (1), the words “this chapter” were in the original “this title”, meaning title XV (§§15101 to 15313) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272, 100 Stat. 330). In clause (2)(B), the words “this chapter” are substitutedfor “this part” as the probable intent of Congress because title XV of the Act does not contain part designations and the intention was probably to refer to title XV, which is restated as this chapter.
+Before clause (1), the words “this chapter” were in the original “this title”, meaning title XV (§§15101 to 15313) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272, 100 Stat. 330). In clause (2)(B), the words “this chapter” are substituted for “this part” as the probable intent of Congress because title XV of the Act does not contain part designations and the intention was probably to refer to title XV, which is restated as this chapter.
 

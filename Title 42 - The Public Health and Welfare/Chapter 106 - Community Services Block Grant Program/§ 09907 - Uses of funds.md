@@ -18,7 +18,7 @@
 
 #### (B) Redistribution
 
-&emsp;&emsp;In redistributing funds recaptured in accordance with this paragraph, States shall redistribute such funds to an eligible entity, or require the original recipient of the funds to redistribute the funds to a private, nonprofit organization, located within the community served by the original recipient of the funds, for activities consistent with the purposes of this chapter.
+&emsp;&emsp;In redistributing funds recaptured in accordance with this paragraph, States shallredistribute such funds to an eligible entity, or require the original recipient of the funds to redistribute the funds to a private, nonprofit organization, located within the community served by the original recipient of the funds, for activities consistent with the purposes of this chapter.
 
 #### (b) Statewide activities
 
@@ -86,7 +86,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A contribution to a collection organization shall be treated as a contributionto a qualified charity if the donor designates in writing that the contribution is for the qualified charity.
+&emsp;&emsp;&emsp;&emsp;A contribution to a collection organization shall be treated as a contribution to a qualified charity if the donor designates in writing that the contribution is for the qualified charity.
 
 #### (II) Collection organization
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) that solicits and collects gifts and grants that, by agreement, are distributed to qualified charities;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that distributes to qualified charities at least 90 percent of the gifts and grants the organization receives that are designated for such qualified charities; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that distributes to qualified charities at least 90 percent of the giftsand grants the organization receives that are designated for such qualified charities; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) that meets the requirements of clause (vi).
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) no generally available exemptions or deductions to individuals;
 
-&emsp;&emsp;&nbsp;the requirement of paragraph (2) shall be treated as met if the amount of the credit described in paragraph (2) is limited to auniform percentage (but not greater than 25 percent) of State personal income tax liability (determined without regard to credits).
+&emsp;&emsp;&nbsp;the requirement of paragraph (2) shall be treated as met if the amount of the credit described in paragraph (2) is limited to a uniform percentage (but not greater than 25 percent) of State personal income tax liability (determined without regard to credits).
 
 #### (4) Limitation on use of funds for startup and administrative activities
 

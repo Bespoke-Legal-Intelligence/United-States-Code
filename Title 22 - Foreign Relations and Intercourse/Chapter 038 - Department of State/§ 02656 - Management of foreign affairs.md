@@ -12,7 +12,7 @@ Section was formerly classified to section 156 of Title 5 prior to the general r
 
 #### Delegation of Functions
 
-Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
+Functions of President respecting certain facilities constructed and maintained on United States bordersdelegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
 
 #### Presidential Directive
 
@@ -56,7 +56,7 @@ Sense of congress.—It is the sense of Congress that the President—
 
 &emsp;&emsp;“(A) should seek to engage the leaders of the governments of other countries in a process of advancing beyond separate and uncoordinated national counterterrorism strategies to develop with those other governments a comprehensive multilateral strategy to fight terrorism; and
 
-&emsp;&emsp;“(B) to that end, should seek to establish an international counterterrorism policy contact group with the leaders of governments providing leadership in global counterterrorism efforts andgovernments of countries with sizable Muslim populations, to be used as a ready and flexible international means for discussing and coordinating the development of important counterterrorism policies by the participating governments.
+&emsp;&emsp;“(B) to that end, should seek to establish an international counterterrorism policy contact group with the leaders of governments providing leadership in global counterterrorism efforts and governments of countries with sizable Muslim populations, to be used as a ready and flexible international means for discussing and coordinating the development of important counterterrorism policies by the participating governments.
 
 &emsp;“(2)
 
@@ -94,7 +94,7 @@ International Agreements To Track and Curtail Terrorist Travel.—
 
 &emsp;“(1)
 
-International agreement on lost, stolen, or falsified documents.—The President should lead efforts to track and curtail the travel of terrorists by supporting the drafting, adoption, and implementation of international agreements, and relevant United Nations Security Council resolutions to track and stop international travel by terrorists and other criminals through the use of lost, stolen, or falsified documents to augment United Nations and other international anti-terrorism efforts.
+International agreement on lost, stolen, or falsified documents.—The President should lead efforts to track and curtail the travel of terrorists bysupporting the drafting, adoption, and implementation of international agreements, and relevant United Nations Security Council resolutions to track and stop international travel by terrorists and other criminals through the use of lost, stolen, or falsified documents to augment United Nations and other international anti-terrorism efforts.
 
 &emsp;“(2)
 
@@ -228,7 +228,7 @@ In general.—There are authorized to be appropriated to the Trade and Developme
 
 &emsp;&emsp;“(B)
 
-Availability.—Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
+Availability.—Amounts appropriated pursuant to the authorization of appropriations undersubparagraph (A) are authorized to remain available until expended.
 
 “(c)
 
@@ -526,7 +526,7 @@ Information of the tribunal.—The Secretary of State shall request that the Tri
 
 &emsp;“(4)
 
-Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 6, 2000\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality,if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
+Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 6, 2000\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality, if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
 
 &emsp;“(5)
 
@@ -672,7 +672,7 @@ Establishment.—(1) None of the funds authorized to be appropriated by this Act
 
 “(b)
 
-Purpose.—The purpose of the Office shall be to support, through organizations and individuals with whom the Secretary of State may contract to carry out the operations of the Office, as appropriate, efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979, including—
+Purpose.—The purpose of the Office shall be to support, through organizations and individuals with whom the Secretary of State may contract to carry outthe operations of the Office, as appropriate, efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979, including—
 
 &emsp;“(1) to investigate crimes against humanity committed by national Khmer Rouge leaders during that period;
 
@@ -808,7 +808,7 @@ Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress re
 
 &emsp;“(4) instructions to express concern in individual cases of torture brought to the attention of a United States diplomatic mission including, whenever feasible, sending United States observers to trials when there is reason to believe that torture has been used against the accused.
 
-“(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
+“(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\].
 
 “(d) The heads of the appropriate departments of the United States Government that furnish military and law enforcement training to foreign personnel, particularly personnel from countries where the practice of torture has been a documented concern, shall include in such training, when relevant, instruction regarding international human rights standards and the policy of the United States with respect to torture.”
 
@@ -816,7 +816,7 @@ Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress re
 
 #### United States Diplomatic Relations With the Vatican
 
-Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: “In order to provide for the establishment of United States diplomatic relations with the Vatican, the Act entitled ‘An Act making Appropriations for the Consular and Diplomatic Expenses of the Government for the Year ending thirtieth June, eighteen hundred and sixty-eight, and for other purposes’, approved February 28, 1867, is amended by repealing the following sentence (14 Stat. 413): ‘And no money hereby or otherwise appropriated shall be paid for the support of an American legation at Rome, from and after the thirtieth day of June, eighteen hundred and sixty-seven.’.”
+Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: “In order to provide for the establishment of United States diplomatic relations with the Vatican, the Act entitled ‘An Act making Appropriations for the Consular and Diplomatic Expenses of theGovernment for the Year ending thirtieth June, eighteen hundred and sixty-eight, and for other purposes’, approved February 28, 1867, is amended by repealing the following sentence (14 Stat. 413): ‘And no money hereby or otherwise appropriated shall be paid for the support of an American legation at Rome, from and after the thirtieth day of June, eighteen hundred and sixty-seven.’.”
 
 #### Reopening Certain United States Consulates
 

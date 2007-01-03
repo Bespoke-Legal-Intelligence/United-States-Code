@@ -1,6 +1,6 @@
 ### §6n. Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account
 
-(1) Any commodity trading advisor or commodity pool operator, or any person who contemplates becoming a commodity trading advisor or commodity pool operator, may register under this chapter by filing an application with the Commission. Such application shall contain such information, in such form and detail, as the Commission may, by rules and regulations,prescribe as necessary or appropriate in the public interest, including the following:
+(1) Any commodity trading advisor or commodity pool operator, or any person who contemplates becoming a commodity trading advisor or commodity pool operator, may register under this chapter by filing an application with the Commission. Such application shall contain such information, in such form and detail, as the Commission may, by rules and regulations, prescribe as necessary or appropriate in the public interest, including the following:
 
 &emsp;(A) the name and form of organization, including capital structure, under which the applicant engages or intends to engage in business; the name of the State under the laws of which he is organized; the location of his principal business office and branch offices, if any; the names and addresses of all partners, officers, directors, and persons performing similar functions or, if the applicant be an individual, of such individual; and the number of employees;
 

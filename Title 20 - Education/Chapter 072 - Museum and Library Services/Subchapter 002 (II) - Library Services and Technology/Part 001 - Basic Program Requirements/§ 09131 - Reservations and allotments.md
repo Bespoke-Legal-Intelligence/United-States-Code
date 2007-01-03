@@ -46,7 +46,7 @@
 
 #### (ii) Insufficient funds to award alternative minimum
 
-&emsp;&emsp;&emsp;If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2003 yet isinsufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $340,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $40,000.
+&emsp;&emsp;&emsp;If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2003 yet is insufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $340,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $40,000.
 
 #### (D) Special rule
 
@@ -78,7 +78,7 @@ In general.—For the purposes of this subsection, the minimum allotment for eac
 
 “(B)
 
-Ratable reductions.—If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year is insufficient to fully satisfy the aggregate of the minimum allotments for all States for that purpose for such year, each of such minimum allotments shall be reduced ratably.
+Ratable reductions.—If the sum appropriated under the authority of section 9123 of this title and notreserved under subsection (a) of this section for any fiscal year is insufficient to fully satisfy the aggregate of the minimum allotments for all States for that purpose for such year, each of such minimum allotments shall be reduced ratably.
 
 “(C)
 

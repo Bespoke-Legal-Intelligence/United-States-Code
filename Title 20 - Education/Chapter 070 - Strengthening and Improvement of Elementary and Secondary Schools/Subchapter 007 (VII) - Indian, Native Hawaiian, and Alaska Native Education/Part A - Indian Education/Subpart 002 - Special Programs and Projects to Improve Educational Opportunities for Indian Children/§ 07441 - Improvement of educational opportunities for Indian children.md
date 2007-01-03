@@ -32,7 +32,7 @@ In this section, the term “eligible entity” means a State educational agency
 
 &emsp;&emsp;(D) special health and nutrition services, and other related activities, that address the special health, social, and psychological problems of Indian children;
 
-&emsp;&emsp;(E) special compensatory and other programs and projects designed to assist and encourage Indian children to enter, remain in, or reenter school, and to increase the rate of high school graduation for Indian children;
+&emsp;&emsp;(E) special compensatory and other programs and projects designed to assist and encourage Indian children to enter, remain in,or reenter school, and to increase the rate of high school graduation for Indian children;
 
 &emsp;&emsp;(F) comprehensive guidance, counseling, and testing services;
 

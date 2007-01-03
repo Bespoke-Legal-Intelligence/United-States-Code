@@ -10,7 +10,7 @@ It is the policy of Congress that Federal pay fixing for employees under the Gen
 
 &emsp;(4) any existing pay disparities between Federal and non-Federal employees should be completely eliminated.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, §2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L.96–465, title II, §2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, §2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L. 96–465, title II, §2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429.)
 
 Historical and Revision Notes
 
@@ -70,7 +70,7 @@ Generally.—Except as otherwise provided in this Act, this Act and the amendmen
 
 “(b)
 
-Special Rule.—The first calendar year in which comparability payments under section 5304 of title 5, United States Code (as amended by this Act), are paid shall be the calendar year beginning on January 1, 1994.”
+Special Rule.—The first calendar year in which comparability payments under section 5304 of title 5, United States Code (as amended by this Act), are paidshall be the calendar year beginning on January 1, 1994.”
 
 #### Effective Date of 1980 Amendment
 
@@ -98,7 +98,7 @@ Rules of Construction.—(1) Except as otherwise expressly provided, any referen
 
 “(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
 
-Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\]shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
+Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
 
 #### Short Title
 
@@ -176,7 +176,7 @@ Section 529 \[title III, §303\] of Pub. L. 101–509 provided that: “Nothing 
 
 #### Ex. Ord. No. 12748. Providing for Federal Pay Administration
 
-Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281; Ex. Ord. No. 13106, §8, Dec. 7, 1998, 63 F.R. 68152, provided:
+Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281; Ex. Ord. No. 13106, §8, Dec. 7, 1998, 63 F.R. 68152; Ex. Ord. No. 13415, §2(a), Dec. 1, 2006, 71 F.R. 70641, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Employees Pay Comparability Act of 1990 (hereinafter “FEPCA”), as incorporated in section 529 of Public Law 101–509 \[see Short Title of 1990 Amendment note above\], and sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
 
@@ -194,31 +194,19 @@ Sec. 2. <i>Locality-based Comparability Payments</i>. (a) The Secretary of Labor
 
 (c) The President's Pay Agent, as designated in subsection (a), is hereby authorized and designated to exercise the authorities of the President under section 5304(g)–(h) \[5 U.S.C. 5304(g), (h)\] concerning the extension of locality-based comparability payments to certain categories of positions not otherwise covered.
 
-Sec. 3. <i>Special Pay Authority</i>. (a) The Office of Personnel Management is hereby authorized and designated, pursuant to section 5305(a) of title 5, United States Code, as amended by section 101 of FEPCA, to exercise the authorities of the President under section 5305 of title 5, United States Code, concerning higher rates of pay.
+Sec. 3. <i>Previous Order Revoked</i>. Executive Order No. 11721, as amended, is revoked.
 
-(b) Before exercising the delegated authorities under subsection (a) regarding employees in positions other than those covered by the General Schedule, the Office of Personnel Management shall consult with the head of the agency employing such employees.
-
-Sec. 4. <i>Previous Order Revoked</i>. Executive Order No. 11721, as amended, is revoked.
-
-Sec. 5. <i>Advance Payments for New Appointees</i>. Section 2(b) of Executive Order No. 10982, as amended \[5 U.S.C. 5527 note\], is further amended to read as follows:
+Sec. 4. <i>Advance Payments for New Appointees</i>. Section 2(b) of Executive Order No. 10982, as amended \[5 U.S.C. 5527 note\], is further amended to read as follows:
 
 “(b) The Office of Personnel Management is hereby designated and empowered to perform the functions conferred upon the President by the provisions of section 5527 of title 5, United States Code, with respect to allotments and assignments authorized by section 5525 of title 5, United States Code, and advance payments to new appointees authorized by section 5524a of title 5, United States Code, as added by section 107(a) of the Federal Employees Pay Comparability Act of 1990, as incorporated in section 529 of Public Law 101–509.”
 
-Sec. 6. <i>Extension of Cash Awards, Recruitment and Relocation Bonuses, and Retention Allowances</i>. The Office of Personnel Management is hereby designated and empowered to exercise the authority of the President under:
+Sec. 5. <i>Staffing Differentials</i>. The Office of Personnel Management is hereby designated and empowered to exercise the authority of the President under section 209 of FEPCA \[5 U.S.C. 5305 note\] to establish staffing differentials.
 
-(a) section 4505a(d) of title 5, United States Code, as added by section 207(a) of FEPCA, concerning the application of performance-based cash awards to noncovered categories of employees;
-
-(b) section 5753(e) of title 5, United States Code, as added by section 208 of FEPCA, concerning the application of recruitment and relocation bonuses to noncovered categories of employees; and
-
-(c) section 5754(e) of title 5, United States Code, as added by section 208 of FEPCA, concerning the application of retention allowances to noncovered categories of employees.
-
-Sec. 7. <i>Staffing Differentials</i>. The Office of Personnel Management is hereby designated and empowered to exercise the authority of the President under section 209 of FEPCA \[5 U.S.C. 5305 note\] to establish staffing differentials.
-
-Sec. 8. <i>Executive Assignment System</i>. (a) Civil Service Rule 9 (5 CFR Part 9), as established by Executive Order No. 11315, as amended \[5 U.S.C. 3301 note\], is revoked.
+Sec. 6. <i>Executive Assignment System</i>. (a) Civil Service Rule 9 (5 CFR Part 9), as established by Executive Order No. 11315, as amended, is revoked.
 
 (b) The Office of Personnel Management shall take such actions as the Office may determine to be necessary to provide for the orderly termination of the Executive Assignment System.
 
-Sec. 9. <i>Effective Dates</i>. (a) Except as otherwise provided by Public Law 101–509, the provisions of subchapter I of chapter 53 of title 5, United States Code, as amended by section 101 of FEPCA \[this subchapter\], and the provisions of sections 1 through 4 of this order shall take effect on February 3, 1991.
+Sec. 7. <i>Effective Dates</i>. (a) Except as otherwise provided by Public Law 101–509, the provisions of subchapter I of chapter 53 of title 5, United States Code, as amended by section 101 of FEPCA \[this subchapter\], and the provisions of sections 1 through 4 of this order shall take effect on February 3, 1991.
 
 (b) Except as otherwise provided by Public Law 101–509, the remaining provisions of FEPCA and of this order shall take effect on May 4, 1991, except that the Office of Personnel Management may establish an earlier effective date, but not earlier than February 3, 1991, for any such provisions with respect to which the Office determines an earlier effective date is appropriate. \[For effective dates of certain provisions of FEPCA as established by the Office of Personnel Management, see notices and rules issued by the Office of Personnel Management and published in the Federal Register at 56 F.R. 6212, 11059, 12833, 20339, and 20343.\]
 

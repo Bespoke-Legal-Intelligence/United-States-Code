@@ -24,5 +24,5 @@ Non-NATO Agreements.—For purposes of this section, a non-NATO cross-servicing 
 
 #### Effective Date
 
-Section applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as an Effective Date of 1994 Amendment note under section 2341 of this title.
+Section applicable with regard to any acquisition or transfer of logistic support, supplies, and services underauthority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as an Effective Date of 1994 Amendment note under section 2341 of this title.
 

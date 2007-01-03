@@ -16,7 +16,7 @@ The purposes of this part are the following:
 
 #### (b) State and local responsibility
 
-The State educational agency shall bear the basic responsibility for the administration of funds made available under this part, but it is the intent of Congress that the responsibility be carried out with a minimum of paperwork and that the responsibility for the design and implementation of programs assisted under this part be mainly that of local educational agencies, school superintendents and principals, and classroom teachers and supporting personnel, because local educational agencies and individualshave the most direct contact with students and are most likely to be able to design programs to meet the educational needs of students in their own school districts.
+The State educational agency shall bear the basic responsibility for the administration of funds made available under this part, but it is the intent of Congress that the responsibility be carried out with a minimum of paperwork and that the responsibility for the design and implementation of programs assisted under this part be mainly that of local educational agencies, school superintendents and principals, and classroom teachers and supporting personnel, because local educational agencies and individuals have the most direct contact with students and are most likely to be able to design programs to meet the educational needs of students in their own school districts.
 
 (Pub. L. 89–10, title V, §5101, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1776.)
 

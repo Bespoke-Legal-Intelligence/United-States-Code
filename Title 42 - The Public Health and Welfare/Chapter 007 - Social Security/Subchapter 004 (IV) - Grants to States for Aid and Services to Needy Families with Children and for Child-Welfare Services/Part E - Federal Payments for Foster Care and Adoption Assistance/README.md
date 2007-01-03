@@ -11,6 +11,7 @@ Part E—Federal Payments for Foster Care and Adoption Assistance
 - [&sect; 00673 - Adoption assistance program](%C2%A7%2000673%20-%20Adoption%20assistance%20program.md)
 - [&sect; 00673a - Interstate compacts](%C2%A7%2000673a%20-%20Interstate%20compacts.md)
 - [&sect; 00673b - Adoption incentive payments](%C2%A7%2000673b%20-%20Adoption%20incentive%20payments.md)
+- [&sect; 00673c - Timely interstate home study incentive payments](%C2%A7%2000673c%20-%20Timely%20interstate%20home%20study%20incentive%20payments.md)
 - [&sect; 00674 - Payments to States](%C2%A7%2000674%20-%20Payments%20to%20States.md)
 - [&sect; 00675 - Definitions](%C2%A7%2000675%20-%20Definitions.md)
 - [&sect; 00676 - Administration](%C2%A7%2000676%20-%20Administration.md)

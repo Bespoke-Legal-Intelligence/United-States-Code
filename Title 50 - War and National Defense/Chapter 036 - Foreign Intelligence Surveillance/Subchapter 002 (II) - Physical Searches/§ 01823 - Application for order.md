@@ -62,15 +62,11 @@ The judge may require the applicant to furnish such other information as may be 
 
 (Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
-
 #### Amendments
 
 2004—Subsec. (d)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2001—Subsec. (a)(7)(B). Pub. L. 107–56, §§218, 224, temporarily substituted “a significant purpose” for “the purpose”. See Termination Date of 2001 Amendment note below.
+2001—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
 
 2000—Subsec. (d). Pub. L. 106–567 added subsec. (d).
 
@@ -80,11 +76,7 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
-#### Termination Date of 2001 Amendment
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
-
 #### Officials Designated To Make Certifications
 
-For provisions listing officials designated by President to make certifications required by subsec. (a)(7) of this section, see Ex. Ord. No. 12949, §3, Feb. 9, 1995, 60 F.R. 8169, set out as a note under section 1822 of this title.
+For provisions listing officials designated by President to make certifications required by subsec. (a)(7) ofthis section, see Ex. Ord. No. 12949, §3, Feb. 9, 1995, 60 F.R. 8169, set out as a note under section 1822 of this title.
 

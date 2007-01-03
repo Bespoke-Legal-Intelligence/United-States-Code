@@ -52,7 +52,7 @@ Not later than 120 days after August 8, 2005, the President shall establish an i
 
 #### (c) Agency cooperation
 
-The heads of all agencies, including those whose agencies are not represented on the Task Force, shall cooperate with and furnish information to the Task Force, the Technical Advisory Committee, and the Department.
+The heads of all agencies, including those whose agencies are not represented on the TaskForce, shall cooperate with and furnish information to the Task Force, the Technical Advisory Committee, and the Department.
 
 (Pub. L. 109–58, title VIII, §806, Aug. 8, 2005, 119 Stat. 848.)
 

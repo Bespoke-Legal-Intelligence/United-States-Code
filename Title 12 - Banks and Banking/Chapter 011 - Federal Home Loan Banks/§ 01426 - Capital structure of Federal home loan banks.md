@@ -18,7 +18,7 @@
 
 #### (B) Treatment of stock and retained earnings
 
-&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5, and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that a Federal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
+&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5,and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that a Federal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
 
 #### (3) Risk-based capital standards
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Finance Board, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
 
-&emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by thebank that the Finance Board determines by regulation to be appropriate to include in determining total capital.
+&emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by the bank that the Finance Board determines by regulation to be appropriate to include in determining total capital.
 
 #### (6) Transition period
 
@@ -88,7 +88,7 @@
 
 #### (2) Approval of modifications
 
-&emsp;The board of directors of a Federal home loan bank shall submit to the Finance Board for approval any modifications that the bank proposes to make to an approved capital structure plan.
+&emsp;The board of directors of a Federal home loan bank shall submit to the Finance Board for approval any modifications that the bankproposes to make to an approved capital structure plan.
 
 #### (c) Contents of plan
 
@@ -216,7 +216,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (2) Excess stock
 
-&emsp;Shares of stock held by a member shall not be deemed to be “excess stock” for purposes ofthis subsection by virtue of a member's submission of a notice of intent to withdraw from membership or termination of its membership in any other manner.
+&emsp;Shares of stock held by a member shall not be deemed to be “excess stock” for purposes of this subsection by virtue of a member's submission of a notice of intent to withdraw from membership or termination of its membership in any other manner.
 
 #### (3) Priority
 
@@ -230,7 +230,7 @@ If the Finance Board or the board of directors of a Federal home loan bank deter
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), and notwithstanding any other provision of this chapter, an institution that divests all shares of stock in a Federal home loan bank may not, after such divestiture, acquire shares of any Federal home loan bank before the end of the 5-year period beginning on the date of the completion of such divestiture, unless the divestiture is a consequence of a transfer of membership on an uninterrupted basis between banks.
+&emsp;Except as provided in paragraph (2), and notwithstanding any other provision of this chapter, an institution that divests all shares of stock in a Federal home loan bank may not, after such divestiture, acquire shares of any Federal home loan bank before the end of the 5-year period beginning on the date of the completion of such divestiture, unless the divestiture is a consequence of a transfer ofmembership on an uninterrupted basis between banks.
 
 #### (2) Exception for withdrawals from membership before 1998
 

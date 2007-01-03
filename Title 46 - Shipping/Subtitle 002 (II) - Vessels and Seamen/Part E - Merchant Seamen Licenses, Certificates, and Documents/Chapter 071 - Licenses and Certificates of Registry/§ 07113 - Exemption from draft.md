@@ -18,5 +18,5 @@ Section 7113 exempts licensed masters, mates, pilots, and engineers of inspected
 
 This section also provides that, while serving in that capacity during war, they shall be entitled to the highest rate of pay paid in the U.S. merchant marine for similar services.
 
-If a master, mate, pilot, or engineer is killed or wounded when performing those duties during a war,these individuals, their heirs or legal representatives, are entitled to all the privileges provided to members of the Armed Forces under the pension laws of the United States.
+If a master, mate, pilot, or engineer is killed or wounded when performing those duties during a war, these individuals, their heirs or legal representatives, are entitled to all the privileges provided to members of the Armed Forces under the pension laws of the United States.
 

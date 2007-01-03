@@ -40,7 +40,7 @@ The head of each executive agency shall ensure that procurement officials in tha
 
 &emsp;(B) before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold.
 
-(2) The head of an executive agency shall use the results of market research to determine whether there are commercial items or, to theextent that commercial items suitable to meet the executive agency's needs are not available, nondevelopmental items other than commercial items available that—
+(2) The head of an executive agency shall use the results of market research to determine whether there are commercial items or, to the extent that commercial items suitable to meet the executive agency's needs are not available, nondevelopmental items other than commercial items available that—
 
 &emsp;(A) meet the executive agency's requirements;
 

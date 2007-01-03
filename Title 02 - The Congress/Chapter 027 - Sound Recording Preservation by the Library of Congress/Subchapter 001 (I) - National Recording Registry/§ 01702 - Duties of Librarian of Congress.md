@@ -12,7 +12,7 @@ For purposes of carrying out this subchapter, the Librarian shall—
 
 #### (b) Publication of sound recordings in the Registry
 
-The Librarian shall publish in the Federal Register the name of each sound recording thatis selected for inclusion in the National Recording Registry.
+The Librarian shall publish in the Federal Register the name of each sound recording that is selected for inclusion in the National Recording Registry.
 
 (Pub. L. 106–474, title I, §102, Nov. 9, 2000, 114 Stat. 2085.)
 

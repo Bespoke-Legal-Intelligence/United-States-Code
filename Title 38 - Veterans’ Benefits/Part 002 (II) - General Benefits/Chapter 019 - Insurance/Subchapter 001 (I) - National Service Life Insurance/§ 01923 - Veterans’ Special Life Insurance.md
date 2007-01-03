@@ -12,7 +12,7 @@
 
 (3) This subsection shall be in effect only with respect to fiscal year 1996.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1157, §723; Pub. L. 85–896, Sept. 2, 1958, 72 Stat. 1716; Pub. L.87–223, Sept. 13, 1961, 75 Stat. 495; Pub. L. 93–289, §2(a), May 24, 1974, 88 Stat. 165; renumbered §1923 and amended Pub. L. 102–83, §§4(b)(1), (2)(C), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, §201(b), Jan. 26, 1996, 110 Stat. 36.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1157, §723; Pub. L. 85–896, Sept. 2, 1958, 72 Stat. 1716; Pub. L. 87–223, Sept. 13, 1961, 75 Stat. 495; Pub. L. 93–289, §2(a), May 24, 1974, 88 Stat. 165; renumbered §1923 and amended Pub. L. 102–83, §§4(b)(1), (2)(C), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, §201(b), Jan. 26, 1996, 110 Stat. 36.)
 
 #### References in Text
 

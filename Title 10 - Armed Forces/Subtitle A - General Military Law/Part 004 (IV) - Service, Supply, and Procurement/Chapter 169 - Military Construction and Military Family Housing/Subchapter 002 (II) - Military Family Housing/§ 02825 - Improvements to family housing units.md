@@ -34,7 +34,7 @@
 
 &emsp;(C) the Secretary submits to the committees referred to in subsection (b)(1) a notice containing—
 
-&emsp;&emsp;(i) an economic analysis demonstrating that the improvement project would exceed 70 percent of the cost of constructing replacement housing units intended for members of the armed forces in the same pay grade or grades as those members who occupy the existing housing units; and
+&emsp;&emsp;(i) an economic analysis demonstrating that the improvement project would exceed70 percent of the cost of constructing replacement housing units intended for members of the armed forces in the same pay grade or grades as those members who occupy the existing housing units; and
 
 &emsp;&emsp;(ii) if the replacement housing units are intended for members of the armed forces in a different pay grade or grades, a justification of the need for the replacement housing units based upon the long-term requirements of the armed forces in the location concerned; and
 
@@ -77,6 +77,14 @@ Subsec. (b)(1). Pub. L. 100–180 substituted “$40,000” for “$30,000”.
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Provision of Adequate Storage Space To Secure Personal Property Outside of Assigned Military Family Housing Unit
+
+Pub. L. 109–364, div. A, title III, §362, Oct. 17, 2006, 120 Stat. 2167, provided that: “The Secretary of a military department shall ensure that a member of the Armed Forces under the jurisdiction of the Secretary who occupies a unit of military family housing is provided with adequate storage space to secure personal property that the member is unable to secure within the unit whenever—
+
+&emsp;“(1) the member is assigned to duty in an area for which special pay under section 310 of title 37, United States Code, is available and the assignment is pursuant to orders specifying an assignment of 180 days or more; and
+
+&emsp;“(2) the dependents of the member who otherwise occupy the unit of military family housing are absent from the unit for more than 30 consecutive days during the period of the assignment of the member.”
 
 #### Initial Establishment of Certain Amounts Required To Be Specified by Law
 

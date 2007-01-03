@@ -50,7 +50,7 @@
 
 #### (3) Special rule
 
-&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) of paragraph (1) if the number of such children equals or exceeds 1,000 or such number equals or exceeds 10 percent of the total number of students in average daily attendance in the schools of such agency.
+&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) of paragraph (1) if the number of such children equals or exceeds 1,000 or such number equals or exceeds 10 percent of the total number ofstudents in average daily attendance in the schools of such agency.
 
 #### (4) Military installation and Indian housing undergoing renovation or rebuilding
 
@@ -94,7 +94,7 @@
 
 #### (B) Eligibility
 
-&emsp;&emsp;A local educational agency is eligible to receive a basic support payment under subparagraph (A) for a fiscal year with respect to a number of children determined under subsection (a)(1) of this section only if the number of children so determined with respect to such agency amounts to the lesser of—
+&emsp;&emsp;A local educational agency is eligible to receive a basic support payment under subparagraph (A) for a fiscal year with respect to a number of children determined undersubsection (a)(1) of this section only if the number of children so determined with respect to such agency amounts to the lesser of—
 
 &emsp;&emsp;&emsp;(i) at least 400 such children; or
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) is a local educational agency whose boundaries are the same as a Federal military installation;
 
-&emsp;&emsp;&emsp;&emsp;(bb) has an enrollment of children described in subsection (a)(1) of this section that constitutes a percentage of the total student enrollment of the agency which is not less than 35 percent, has a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located or the average per-pupil expenditure of all States (whichever average per-pupil expenditure is greater), except that a local educational agency with a total student enrollment of less than 350 students shall be deemed to have satisfied such per-pupil expenditure requirement, and has a tax rate for general fund purposes which is not less than 95 percent of the average tax rate for general fund purposes of local educational agencies in the State;
+&emsp;&emsp;&emsp;&emsp;(bb) has an enrollment of children described in subsection (a)(1) of this section that constitutes a percentage of the total student enrollment of the agency which is not less than 35 percent, has a per-pupil expenditure that is less than the average per-pupil expenditure of theState in which the agency is located or the average per-pupil expenditure of all States (whichever average per-pupil expenditure is greater), except that a local educational agency with a total student enrollment of less than 350 students shall be deemed to have satisfied such per-pupil expenditure requirement, and has a tax rate for general fund purposes which is not less than 95 percent of the average tax rate for general fund purposes of local educational agencies in the State;
 
 &emsp;&emsp;&emsp;&emsp;(cc) has an enrollment of children described in subsection (a)(1) of this section that constitutes a percentage of the total student enrollment of the agency which is not less than 30 percent, and has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for general fund purposes for comparable local educational agencies in the State;
 
@@ -198,7 +198,7 @@
 
 #### (D) Maximum amount for regular heavily impacted local educational agencies
 
-&emsp;&emsp;(i) Except as provided in subparagraph (E), the maximum amount that a heavily impacted local educational agency is eligibleto receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) of this section and subject to clause (ii), multiplied by the greater of—
+&emsp;&emsp;(i) Except as provided in subparagraph (E), the maximum amount that a heavily impacted local educational agency is eligible to receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) of this section and subject to clause (ii), multiplied by the greater of—
 
 &emsp;&emsp;&emsp;(I) four-fifths of the average per-pupil expenditure of the State in which the local educational agency is located for the third fiscal year preceding the fiscal year for which the determination is made; or
 
@@ -246,7 +246,7 @@
 
 #### (iii) Conversion of military housing units to private housing described
 
-&emsp;&emsp;&emsp;For purposes of clause (i), “conversion of military housing units to private housing”means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
+&emsp;&emsp;&emsp;For purposes of clause (i), “conversion of military housing units to private housing” means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
 
 #### (3) Payments with respect to fiscal years in which insufficient funds are appropriated
 
@@ -284,7 +284,7 @@
 
 #### (B) Computation of maximum amount of basic support payment and threshold payment
 
-&emsp;&emsp;In computing the maximum payment amount under paragraph (1)(C) or subparagraph (D) or (E) of paragraph (2), as the case may be, and the learning opportunity threshold payment under subparagraph (B) or (C) of paragraph (3), as the case may be, for an administrative school district described in subparagraph (A)—
+&emsp;&emsp;In computing the maximum payment amount under paragraph (1)(C) or subparagraph (D) or (E) of paragraph (2), as the case may be, and the learning opportunitythreshold payment under subparagraph (B) or (C) of paragraph (3), as the case may be, for an administrative school district described in subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) the Secretary shall first determine the maximum payment amount and the total current expenditures for the State as a whole; and
 
@@ -298,7 +298,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In computing the amount of a basic support payment under this subsection for a fiscal year for a local educational agency described in subparagraph (B), the Secretaryshall meet the additional requirements described in subparagraph (C).
+&emsp;&emsp;In computing the amount of a basic support payment under this subsection for a fiscal year for a local educational agency described in subparagraph (B), the Secretary shall meet the additional requirements described in subparagraph (C).
 
 #### (B) Local educational agency described
 
@@ -354,7 +354,7 @@
 
 #### (2) Maximum amount
 
-&emsp;The total amount provided to a local educational agency under subparagraph (A) or (B) of paragraph (1) for a fiscal year shall not exceed the maximum basic support payment amount for such agency determined under paragraph (1) or (2) of subsection (b) of this section, as the case may be.
+&emsp;The total amount provided to a local educational agency under subparagraph (A) or (B)of paragraph (1) for a fiscal year shall not exceed the maximum basic support payment amount for such agency determined under paragraph (1) or (2) of subsection (b) of this section, as the case may be.
 
 #### (3) Ratable reductions
 
@@ -368,7 +368,7 @@
 
 #### (f) Other funds
 
-Notwithstanding any other provision of law, a local educational agency receiving funds underthis section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section's successor authority.
+Notwithstanding any other provision of law, a local educational agency receiving funds under this section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section's successor authority.
 
 #### (g) Maintenance of effort
 
@@ -414,7 +414,7 @@ Subsec. (b)(2)(C)(ii). Pub. L. 107–110, §802(a)(1)(A), inserted “(or if the
 
 Subsec. (b)(2)(C)(iv). Pub. L. 107–110, §802(a)(1)(B), added cl. (iv).
 
-Subsec. (b)(2)(D)(ii)(III). Pub. L. 107–206, §801, amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “For a local educational agency that has an enrollment of more than 100 but not more than 750 children described in subsection (a)(1) of this section, the Secretary shall calculate the total number of weighted student units for purposes of subsection (a)(2) of this section by multiplying the number of such children by a factor of 1.25.”
+Subsec. (b)(2)(D)(ii)(III). Pub. L. 107–206, §801, amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “For a local educational agencythat has an enrollment of more than 100 but not more than 750 children described in subsection (a)(1) of this section, the Secretary shall calculate the total number of weighted student units for purposes of subsection (a)(2) of this section by multiplying the number of such children by a factor of 1.25.”
 
 Subsec. (b)(2)(H). Pub. L. 107–314 added subpar. (H).
 
@@ -488,7 +488,7 @@ Subsec. (a)(4). Pub. L. 104–195, §3(a), added par. (4).
 
 Subsec. (b)(3). Pub. L. 104–195, §4(a), added par. (3).
 
-Subsec. (f)(2)(A). Pub. L. 104–106, §1074(f)(1)(A), substituted “if such agency is eligible for a supplementary payment in accordance with subparagraph (B) or such agency” for “only if such agency” in introductory provisions.
+Subsec. (f)(2)(A). Pub. L. 104–106, §1074(f)(1)(A), substituted “if such agency is eligible for a supplementary payment in accordance with subparagraph (B) or suchagency” for “only if such agency” in introductory provisions.
 
 Subsec. (f)(2)(D). Pub. L. 104–106, §1074(f)(1)(B), added subpar. (D).
 
@@ -560,7 +560,7 @@ Pub. L. 107–110, title VIII, §802(a)(2), Jan. 8, 2002, 115 Stat. 1949, provid
 
 #### Assistance to Local Educational Agencies That Benefit Dependents of Members of Armed Forces and Department of Defense Civilian Employees
 
-Pub. L. 102–484, div. A, title III, §386, Oct. 23, 1992, 106 Stat. 2394, as amended by Pub. L. 103–160, div. A, title III, §373(a), (b), Nov. 30, 1993, 107 Stat. 1635, 1636; Pub. L. 103–382, title III, §391(d), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title X, §1074(c)–(e), (h), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 105–85, div. A, title III, §381(e), Nov. 18, 1997, 111 Stat. 1709; Pub. L. 106–65, div. A, title III, §351(e), Oct. 5, 1999, 113 Stat. 572, which required the Secretary of Defense, in consultation with the Secretary of Education, to provide financial assistance to certain local educational agencies in States, was repealed by Pub. L. 109–163, div. A, title V, §572(g), Jan. 6, 2006, 119 Stat. 3273. See section 7703b of this title.
+Pub. L. 102–484, div. A, title III, §386, Oct. 23, 1992, 106 Stat. 2394, as amended by Pub. L. 103–160, div. A, titleIII, §373(a), (b), Nov. 30, 1993, 107 Stat. 1635, 1636; Pub. L. 103–382, title III, §391(d), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title X, §1074(c)–(e), (h), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 105–85, div. A, title III, §381(e), Nov. 18, 1997, 111 Stat. 1709; Pub. L. 106–65, div. A, title III, §351(e), Oct. 5, 1999, 113 Stat. 572, which required the Secretary of Defense, in consultation with the Secretary of Education, to provide financial assistance to certain local educational agencies in States, was repealed by Pub. L. 109–163, div. A, title V, §572(g), Jan. 6, 2006, 119 Stat. 3273. See section 7703b of this title.
 
 #### Notice to Local and State Educational Agencies of Enrollment Changes Due to Base Closures and Realignments
 

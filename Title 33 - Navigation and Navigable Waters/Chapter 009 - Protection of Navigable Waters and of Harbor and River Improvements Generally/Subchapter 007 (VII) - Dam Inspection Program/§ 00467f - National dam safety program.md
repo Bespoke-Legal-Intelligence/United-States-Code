@@ -20,7 +20,7 @@ The Director, in consultation with ICODS and State dam safety agencies, and the 
 
 The Director shall prepare a strategic plan—
 
-&emsp;(1) to establish goals, priorities, and target dates to improve the safety of dams in the United States; and
+&emsp;(1) to establish goals, priorities, performance measures, and target dates toward effectively administering this subchapter in order to improve the safety of dams in the United States; and
 
 &emsp;(2) to the extent feasible, to establish cooperation and coordination with, and assistance to, interested governmental entities in all States.
 
@@ -92,7 +92,7 @@ The objectives of the Program are to—
 
 #### (A) Criteria
 
-&emsp;&emsp;A State dam safety program must be authorized by State legislation to include substantially, at a minimum—
+&emsp;&emsp;A State dam safety program must be authorized by State legislation to include, at a minimum—
 
 &emsp;&emsp;&emsp;(i) the authority to review and approve plans and specifications to construct, enlarge, modify, remove, and abandon dams;
 
@@ -100,25 +100,27 @@ The objectives of the Program are to—
 
 &emsp;&emsp;&emsp;(iii) a requirement that, on completion of dam construction, State approval must be given before operation of the dam;
 
-&emsp;&emsp;&emsp;(iv)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would pose a significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and
+&emsp;&emsp;&emsp;(iv) the authority to require or perform periodic evaluations of all dams and reservoirs to determine the extent of the threat to human life and property in case of failure;
+
+&emsp;&emsp;&emsp;(v)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would pose a significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and
 
 &emsp;&emsp;&emsp;(II) a procedure for more detailed and frequent safety inspections;
 
-&emsp;&emsp;&emsp;(v) a requirement that all inspections be performed under the supervision of a State-registered professional engineer with related experience in dam design and construction;
+&emsp;&emsp;&emsp;(vi) a requirement that all inspections be performed under the supervision of a State-registered professional engineer with related experience in dam design and construction;
 
-&emsp;&emsp;&emsp;(vi) the authority to issue notices, when appropriate, to require owners of dams to perform necessary maintenance or remedial work, improve security, revise operating procedures, or take other actions, including breaching dams when necessary;
+&emsp;&emsp;&emsp;(vii) the authority to issue notices, when appropriate, to require owners of dams to perform necessary maintenance or remedial work, install and monitor instrumentation, improve security, revise operating procedures, or take other actions, including breaching dams when necessary;
 
-&emsp;&emsp;&emsp;(vii) regulations for carrying out the legislation of the State described in this subparagraph;
+&emsp;&emsp;&emsp;(viii) regulations for carrying out the legislation of the State described in this subparagraph;
 
-&emsp;&emsp;&emsp;(viii) provision for necessary funds—
+&emsp;&emsp;&emsp;(ix) provision for necessary funds—
 
 &emsp;&emsp;&emsp;&emsp;(I) to ensure timely repairs or other changes to, or removal of, a dam in order to protect human life and property; and
 
 &emsp;&emsp;&emsp;&emsp;(II) if the owner of the dam does not take action described in subclause (I), to take appropriate action as expeditiously as practicable;
 
-&emsp;&emsp;&emsp;(ix) a system of emergency procedures to be used if a dam fails or if the failure of a dam is imminent; and
+&emsp;&emsp;&emsp;(x) a system of emergency procedures to be used if a dam fails or if the failure of a dam is imminent; and
 
-&emsp;&emsp;&emsp;(x) an identification of—
+&emsp;&emsp;&emsp;(xi) an identification of—
 
 &emsp;&emsp;&emsp;&emsp;(I) each dam the failure of which could be reasonably expected to endanger human life;
 
@@ -132,7 +134,7 @@ The objectives of the Program are to—
 
 #### (3) Work plans
 
-&emsp;The Director shall enter into a <sup>1</sup> agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
+&emsp;The Director shall enter into a <sup>1</sup> agreement with each State receiving assistance under paragraph (2) to develop a work plan necessaryfor the State dam safety program to reach a level of program performance specified in the agreement.
 
 #### (4) Maintenance of effort
 
@@ -220,13 +222,13 @@ The objectives of the Program are to—
 
 #### (B) Other individuals
 
-&emsp;&emsp;To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee ofan agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
+&emsp;&emsp;To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
 
 #### (9) Applicability of Federal Advisory Committee Act
 
 &emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
 
-(Pub. L. 92–367, §8, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, §3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451.)
+(Pub. L. 92–367, §8, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, §3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, §1(c), Dec. 22, 2006, 120 Stat. 3401.)
 
 #### References in Text
 
@@ -239,6 +241,16 @@ A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XI
 A prior section 8 of Pub. L. 92–367 was classified to section 467g of this title prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–460, §1(c)(1), substituted “performance measures, and target dates toward effectively administering this subchapter in order to” for “and target dates to”.
+
+Subsec. (e)(2)(A). Pub. L. 109–460, §1(c)(2)(A), struck out “substantially” after “to include” in introductory provisions.
+
+Subsec. (e)(2)(A)(iv) to (vi). Pub. L. 109–460, §1(c)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively. Former cl. (vi) redesignated (vii).
+
+Subsec. (e)(2)(A)(vii). Pub. L. 109–460, §1(c)(2)(B), (D), redesignated cl. (vi) as (vii) and inserted “install and monitor instrumentation,” after “remedial work,”. Former cl. (vii) redesignated (viii).
+
+Subsec. (e)(2)(A)(viii) to (xi). Pub. L. 109–460, §1(c)(2)(B), redesignated cls. (vii) to (x) as (viii) to (xi), respectively.
 
 2002—Subsec. (a)(3)(B). Pub. L. 107–310, §3(a)(1), substituted “strategic plan described in subsection (b)” for “implementation plan described in subsection (e)”.
 
@@ -310,7 +322,9 @@ Subsec. (h). Pub. L. 107–310, §3(e)(1), redesignated subsec. (h) as (f).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

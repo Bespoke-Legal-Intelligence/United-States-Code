@@ -8,6 +8,12 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–452, §1, Dec. 22, 2006, 120 Stat. 3363, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Musconetcong Wild and Scenic Rivers Act’.”
+
+Pub. L. 109–370, §1, Nov. 27, 2006, 120 Stat. 2643, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lower Farmington River and Salmon Brook Wild and Scenic River Study Act of 2005’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–44, §1, Aug. 2, 2005, 119 Stat. 443, provided that: “This Act \[amending section 1274 of this title\] may be cited as the ‘Upper White Salmon Wild and Scenic Rivers Act’.”
@@ -24,7 +30,7 @@ Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \
 
 Pub. L. 106–418, §1, Nov. 1, 2000, 114 Stat. 1817, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Delaware Wild and Scenic Rivers Act’.”
 
-Pub. L. 106–357, §1, Oct. 24, 2000, 114 Stat. 1393, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘White Clay Creek Wild and Scenic Rivers System Act’.”
+Pub. L. 106–357, §1, Oct. 24, 2000, 114 Stat. 1393, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note undersection 1274 of this title\] may be cited as the ‘White Clay Creek Wild and Scenic Rivers System Act’.”
 
 Pub. L. 106–318, §1, Oct. 19, 2000, 114 Stat. 1278, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Taunton River Wild and Scenic River Study Act of 2000’.”
 
@@ -58,7 +64,7 @@ Pub. L. 102–215, §1, Dec. 11, 1991, 105 Stat. 1664, provided that: “This Ac
 
 Pub. L. 102–214, §1, Dec. 11, 1991, 105 Stat. 1663, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lamprey River Study Act of 1991’.”
 
-Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as notes undersections 1a–5 and 1274 of this title\] may be cited as the ‘Niobrara Scenic River Designation Act of 1991’.”
+Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as notes under sections 1a–5 and 1274 of this title\] may be cited as the ‘Niobrara Scenic River Designation Act of 1991’.”
 
 #### Short Title of 1990 Amendments
 

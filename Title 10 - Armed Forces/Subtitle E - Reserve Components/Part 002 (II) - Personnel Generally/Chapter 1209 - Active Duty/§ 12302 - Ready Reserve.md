@@ -14,7 +14,7 @@
 
 (c) Not more than 1,000,000 members of the Ready Reserve may be on active duty, without their consent, under this section at any one time.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L.106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(61), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §514(b), Oct. 28, 2004, 118 Stat. 1883.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(61), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §514(b), Oct. 28, 2004, 118 Stat. 1883.)
 
 Historical and Revision Notes<br>1956
 
@@ -94,7 +94,7 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 
 #### Executive Order No. 12743
 
-Ex. Ord. No. 12743, Jan. 18, 1991, 56 F.R. 2661, as amended by Ex. Ord. No. 13286, §35, Feb. 28, 2003, 68 F.R. 10625, which related to ordering the Ready Reserve of the Armed Forces to active duty, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, set out as a note under section 1701 of Title 50, War and National Defense.
+Ex. Ord. No. 12743, Jan. 18, 1991, 56 F.R. 2661, as amended by Ex. Ord. No. 13286, §35, Feb. 28, 2003, 68 F.R. 10625, which related to ordering the Ready Reserve of the Armed Forces to active duty, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, listed in a table under section 1701 of Title 50, War and National Defense.
 
 #### Ex. Ord. No. 13223. Ordering the Ready Reserve of the Armed Forces To Active Duty and Delegating Certain Authorities to the Secretary of Defense and the Secretary of Homeland Security
 

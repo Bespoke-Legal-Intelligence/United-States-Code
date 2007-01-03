@@ -14,7 +14,7 @@
 
 &emsp;(A) train law enforcement officers and other personnel of the Government of American Samoa, and
 
-&emsp;(B) provide by purchase or lease law enforcement equipment and technical assistance tothe Government of American Samoa to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse laws.
+&emsp;(B) provide by purchase or lease law enforcement equipment and technical assistance to the Government of American Samoa to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse laws.
 
 (3) There are authorized to be appropriated $350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
@@ -50,7 +50,7 @@
 
 #### (d) Puerto Rico
 
-(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
+(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended inaccordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
 
 (2) The United States Customs Service should station an aerostat in Puerto Rico.
 
@@ -66,7 +66,7 @@
 
 (2) The United States Coast Guard shall station a patrol vessel in St. Croix, Virgin Islands.
 
-(3)(A) The Attorney General and the Secretaries of Education and Health and Human Servicesof the United States may provide and, upon request of the Government of the Virgin Islands, shall provide appropriate training, technical assistance and equipment to the Government of the United States Virgin Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse law.
+(3)(A) The Attorney General and the Secretaries of Education and Health and Human Services of the United States may provide and, upon request of the Government of the Virgin Islands, shall provide appropriate training, technical assistance and equipment to the Government of the United States Virgin Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse law.
 
 (B) There are authorized to be appropriated such sums as may be necessary to carry out subparagraph (A). Funds appropriated under this subparagraph shall remain available until expended.
 
@@ -100,7 +100,7 @@ Subsec. (a)(4). Pub. L. 100–690, §9302(3), added par. (4).
 
 Subsec. (b)(1). Pub. L. 100–690, §9303(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of Guam, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
 
-Subsec. (b)(2). Pub. L. 100–690, §9303(2), substituted “$500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to” for “$1,000,000 to carry out paragraph (1). Funds appropriated under this paragraph shall”.
+Subsec. (b)(2). Pub. L. 100–690, §9303(2), substituted “$500,000 for fiscal year 1989 and annually thereafter forgrants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to” for “$1,000,000 to carry out paragraph (1). Funds appropriated under this paragraph shall”.
 
 Subsec. (b)(3). Pub. L. 100–690, §9303(3), added par. (3).
 

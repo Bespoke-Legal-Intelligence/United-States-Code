@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to the Commission for the purpose of carrying out its functions under this Act, and under chapters 95 and 96 of title 26, not to exceed $5,000,000 for the fiscal year ending June 30, 1975. There are authorized to be appropriated to the Commission $6,000,000 for the fiscal year ending June 30, 1976, $1,500,000 for the period beginning July 1, 1976, and ending September 30, 1976, $6,000,000 for the fiscal year ending September 30, 1977, $7,811,500 for the fiscal year ending September 30, 1978, and $9,400,000 (of which not more than $400,000 are authorized to be appropriated for the national clearinghouse function described in section 438(a)(10) <sup>1</sup> of this title) for the fiscal year ending September 30, 1981.
 
-(Pub. L. 92–225, title III, §314, formerly §320, as added Pub. L. 93–443, title II, §210, Oct. 15, 1974, 88 Stat. 1289; renumbered §319 and amended Pub. L. 94–283, title I, §§105, 113, May 11, 1976, 90 Stat. 481, 495; Pub. L. 95–127, Oct. 12, 1977, 91 Stat. 1110;renumbered §314, Pub. L. 96–187, title I, §105(5), Jan. 8, 1980, 93 Stat. 1354; Pub. L. 96–253, May 29, 1980, 94 Stat. 398; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–225, title III, §314, formerly §320, as added Pub. L. 93–443, title II, §210, Oct. 15, 1974, 88 Stat. 1289; renumbered §319 and amended Pub. L. 94–283, title I, §§105, 113, May 11, 1976, 90 Stat. 481, 495; Pub. L. 95–127, Oct. 12, 1977, 91 Stat. 1110; renumbered §314, Pub. L. 96–187, title I, §105(5), Jan. 8, 1980, 93 Stat. 1354; Pub. L. 96–253, May 29, 1980, 94 Stat. 398; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 

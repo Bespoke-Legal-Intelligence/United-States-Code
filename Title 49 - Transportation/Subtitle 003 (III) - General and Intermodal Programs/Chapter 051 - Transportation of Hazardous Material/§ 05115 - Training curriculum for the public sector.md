@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In coordination with the Director of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult withregional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
+In General.—In coordination with the Administrator of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
 
 (b)
 
@@ -36,7 +36,7 @@ Distribution and Publication.—With the National Response Team—
 
 &emsp;(2) the Secretary may publish and distribute a list of programs and courses maintained and updated under this section and of any programs utilizing such courses.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772; Pub. L. 103–429, §6(5), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §§7113, 7126, Aug. 10, 2005, 119 Stat. 1899, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772; Pub. L. 103–429, §6(5), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §§7113, 7126, Aug. 10, 2005, 119 Stat. 1899, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 Historical and Revision Notes
 
@@ -99,6 +99,10 @@ Subsec. (d)(2). Pub. L. 109–59, §7126, substituted “Secretary” for “Sec
 Pub. L. 109–59, §7113(d)(3), inserted “and distribute” after “publish” and substituted “list of programs and courses maintained and updated under this section and of any programs utilizing such courses” for “list of programs that uses a course developed under this section for training public sector employees to respond to an accident or incident involving the transportation of hazardous material”.
 
 1994—Subsec. (b)(1)(C). Pub. L. 103–429 substituted “126(g)” for “126”.
+
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 1994 Amendment
 

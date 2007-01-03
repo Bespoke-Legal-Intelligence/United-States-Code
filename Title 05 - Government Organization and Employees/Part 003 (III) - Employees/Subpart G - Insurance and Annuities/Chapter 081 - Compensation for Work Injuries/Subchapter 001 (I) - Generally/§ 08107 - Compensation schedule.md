@@ -60,7 +60,7 @@
 
 &emsp;(20) In case of loss of use of more than one member or parts of more than one member as enumerated by this schedule, the compensation is for loss of use of each member or part thereof, and the awards run consecutively. However, when the injury affects only two or more digits of the same hand or foot, paragraph (17) of this subsection applies, and when partial bilateral loss of hearing is involved, compensation is computed on the loss as affecting both ears.
 
-&emsp;(21) For serious disfigurement of the face, head, or neck of a character likely to handicap an individual in securing or maintaining employment, proper and equitable compensation not to exceed $3,500 shall be awarded in addition to any other compensation payable under this schedule.
+&emsp;(21) For serious disfigurement of the face, head, or neck of a character likely to handicapan individual in securing or maintaining employment, proper and equitable compensation not to exceed $3,500 shall be awarded in addition to any other compensation payable under this schedule.
 
 &emsp;(22) For permanent loss or loss of use of any other important external or internal organ of the body as determined by the Secretary, proper and equitable compensation not to exceed 312 weeks’ compensation for each organ so determined shall be paid in addition to any other compensation payable under this schedule.
 

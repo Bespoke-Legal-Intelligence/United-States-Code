@@ -8,11 +8,11 @@
 
 #### (2) Implementation
 
-&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which other such aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien's access to counsel and right to counsel under section 1362 of this title are not impaired.
+&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which other such aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien'saccess to counsel and right to counsel under section 1362 of this title are not impaired.
 
 #### (3) Expedited proceedings
 
-&emsp;(A) Notwithstanding any other provision of law, the Attorney General shall provide forthe initiation and, to the extent possible, the completion of removal proceedings, and any administrative appeals thereof, in the case of any alien convicted of an aggravated felony before the alien's release from incarceration for the underlying aggravated felony.
+&emsp;(A) Notwithstanding any other provision of law, the Attorney General shall provide for the initiation and, to the extent possible, the completion of removal proceedings, and any administrative appeals thereof, in the case of any alien convicted of an aggravated felony before the alien's release from incarceration for the underlying aggravated felony.
 
 &emsp;(B) Nothing in this section shall be construed as requiring the Attorney General to effect the removal of any alien sentenced to actual incarceration, before release from the penitentiary or correctional institution where such alien is confined.
 
@@ -72,7 +72,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 &emsp;(ii) The court, for the purposes of determining whether to enter an order described in paragraph (1), shall only consider evidence that would be admissible in proceedings conducted pursuant to section 1229a of this title.
 
-&emsp;(iii) Nothing in this subsection shall limit the information a court of the United States may receive or consider for the purposes of imposing an appropriate sentence.
+&emsp;(iii) Nothing in this subsection shall limit the information a court of the United Statesmay receive or consider for the purposes of imposing an appropriate sentence.
 
 &emsp;(iv) The court may order the alien removed if the Attorney General demonstrates that the alien is deportable under this chapter.
 

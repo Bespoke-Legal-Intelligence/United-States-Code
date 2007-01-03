@@ -2,7 +2,7 @@
 
 #### (a) Pattern or practice cases
 
-Whenever the Attorney General has reasonable cause to believe that any person or group of persons is engaged in a pattern or practice of resistance to the full enjoyment of any of the rights granted by this subchapter, or that any group of persons has been denied any of the rights granted by this subchapter and such denial raises an issue of general public importance, the Attorney General may commence a civil action in any appropriate United States district court.
+Whenever the Attorney General has reasonable cause to believe that any person or group of persons is engaged in a pattern or practice of resistance to the full enjoyment of any of the rights granted by this subchapter, or that any group of persons has been denied any of the rights granted by this subchapter and such denial raises an issue of general public importance, the Attorney General may commence acivil action in any appropriate United States district court.
 
 #### (b) On referral of discriminatory housing practice or conciliation agreement for enforcement
 

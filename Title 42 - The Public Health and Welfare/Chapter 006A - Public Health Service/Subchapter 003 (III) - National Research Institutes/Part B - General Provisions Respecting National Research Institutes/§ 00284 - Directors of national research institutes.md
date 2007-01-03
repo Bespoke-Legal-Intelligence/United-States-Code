@@ -64,7 +64,7 @@ In carrying out subsection (b) of this section, each Director of a national rese
 
 &emsp;(3) may, in consultation with the advisory council for the Institute and with the approval of the Director of NIH—
 
-&emsp;&emsp;(A) establish technical and scientific peer review groups in addition to those appointed under section 282(b)(6) of this title; and
+&emsp;&emsp;(A) establish technical and scientific peer review groups in addition to those appointed under section 282(b)(16) of this title; and
 
 &emsp;&emsp;(B) appoint the members of peer review groups established under subparagraph (A); and
 
@@ -72,13 +72,15 @@ In carrying out subsection (b) of this section, each Director of a national rese
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (3).
 
-(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150.)
+(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2007—Subsec. (c)(3)(A). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
 
 1993—Subsec. (b)(2)(C). Pub. L. 103–43, §301(a)(1), added subpar. (C).
 
@@ -94,7 +96,31 @@ Pub. L. 100–607, §116(2)(A), amended par. (3) generally. Prior to amendment, 
 
 Subsec. (c)(4). Pub. L. 100–607, §116(2)(C), added par. (4).
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+
+#### Enhancing the Clinical and Translational Science Award
+
+Pub. L. 109–482, title I, §106, Jan. 15, 2007, 120 Stat. 3696, provided that:
+
+“(a)
+
+In General.—In administering the Clinical and Translational Science Award, the Director of NIH shall establish a mechanism to preserve independent funding and infrastructure for pediatric clinical research centers by—
+
+&emsp;“(1) allowing the appointment of a secondary principal investigator under a single Clinical and Translational Science Award, such that a pediatric principal investigator may be appointed with direct authority over a separate budget and infrastructure for pediatric clinical research; or
+
+&emsp;“(2) otherwise securing institutional independence of pediatric clinical research centers with respect to finances, infrastructure, resources, and research agenda.
+
+“(b)
+
+Report.—As part of the biennial report under section 403 of the Public Health Service Act \[section 283 of this title\], the Director of NIH shall provide an evaluation and comparison of outcomes and effectiveness of training programs under subsection (a).
+
+“(c)
+
+Definition.—For purposes of this section, the term ‘Director of NIH’ has the meaning given such term in section 401 of the Public Health Service Act \[section 281 of this title\].”
 

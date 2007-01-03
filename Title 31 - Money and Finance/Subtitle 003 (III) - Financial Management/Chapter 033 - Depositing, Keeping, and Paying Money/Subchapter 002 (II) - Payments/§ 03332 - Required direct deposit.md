@@ -4,11 +4,11 @@
 
 (2) Each recipient of Federal wage, salary, or retirement payments shall designate one or more financial institutions or other authorized payment agents and provide the payment certifying or authorizing agency information necessary for the recipient to receive electronic funds transfer payments through each institution so designated.
 
-(b)(1) The head of each agency shall waive the requirements of subsection (a) of this section for a recipient of Federal wage, salary, or retirement payments authorized or certified by the agency upon written request by such recipient.
+(b)(1) The head of each agency shall waive the requirements of subsection (a) of this section fora recipient of Federal wage, salary, or retirement payments authorized or certified by the agency upon written request by such recipient.
 
 (2) Federal wage, salary, or retirement payments shall be paid to any recipient granted a waiver under paragraph (1) of this subsection by any method determined appropriate by the Secretary of the Treasury.
 
-(c)(1) The Secretary of the Treasury may waive the requirements of subsection (a) of thissection for any group of recipients upon request by the head of an agency under standards prescribed by the Secretary of the Treasury.
+(c)(1) The Secretary of the Treasury may waive the requirements of subsection (a) of this section for any group of recipients upon request by the head of an agency under standards prescribed by the Secretary of the Treasury.
 
 (2) Federal wage, salary, or retirement payments shall be paid to any member of a group granted a waiver under paragraph (1) of this subsection by any method determined appropriate by the Secretary of the Treasury.
 
@@ -124,7 +124,7 @@ R.S. §3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.
 
 31:492(note).
 
-In subsection (a), the definition of “agency” is omitted because of section 101 of the revised title. Thewords “and the municipal government of the District of Columbia” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words “savings bank” are omitted as surplus.
+In subsection (a), the definition of “agency” is omitted because of section 101 of the revised title. The words “and the municipal government of the District of Columbia” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words “savings bank” are omitted as surplus.
 
 In subsections (b)–(f), the words “officer or employee” are substituted for “employee” for consistency in the revised title and with other titles of the United States Code.
 

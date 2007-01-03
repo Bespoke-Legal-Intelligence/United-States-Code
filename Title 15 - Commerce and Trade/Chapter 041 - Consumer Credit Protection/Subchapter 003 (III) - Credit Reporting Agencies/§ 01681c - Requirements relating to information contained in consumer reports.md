@@ -48,7 +48,7 @@ The provisions of paragraphs (1) through (5) of subsection (a) of this section a
 
 #### (2) Key factor in credit score information
 
-&emsp;Any consumer reporting agency that furnishes a consumer report that contains anycredit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
 
 #### (e) Indication of closure of account by consumer
 
@@ -56,7 +56,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(4) o
 
 #### (f) Indication of dispute by consumer
 
-If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who <sup>1</sup> was furnished to the agency is disputed by the consumer, the agency shall indicate that fact in each consumer report that includes the disputed information.
+If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who <sup>1</sup> was furnished to the agency is disputed by the consumer, the agency shall indicate that fact ineach consumer report that includes the disputed information.
 
 #### (g) Truncation of credit card and debit card numbers
 
@@ -110,7 +110,7 @@ Subsec. (a)(2). Pub. L. 108–159, §811(c)(2)(A), made technical correction to 
 
 Subsec. (a)(6). Pub. L. 108–159, §412(b), added par. (6).
 
-Subsec. (b). Pub. L. 108–159, §412(c), substituted “The provisions of paragraphs (1) through (5) of subsection\(a)” for “The provisions of subsection (a)” in introductory provisions.
+Subsec. (b). Pub. L. 108–159, §412(c), substituted “The provisions of paragraphs (1) through (5) of subsection (a)” for “The provisions of subsection (a)” in introductory provisions.
 
 Subsec. (d). Pub. L. 108–159, §212(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -138,7 +138,7 @@ Subsecs. (e), (f). Pub. L. 104–208, §2406(d), added subsecs. (e) and (f).
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 Amendment by section 412 of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
 

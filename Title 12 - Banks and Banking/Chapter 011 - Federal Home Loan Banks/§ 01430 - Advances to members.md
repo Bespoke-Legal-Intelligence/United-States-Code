@@ -64,7 +64,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Before the end of the 2-year period beginning on August 9, 1989, the Board shall adopt regulations establishing standards of community investment or service for members of Banks tomaintain continued access to long-term advances.
+&emsp;Before the end of the 2-year period beginning on August 9, 1989, the Board shall adopt regulations establishing standards of community investment or service for members of Banks to maintain continued access to long-term advances.
 
 #### (2) Factors to be included
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
+&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bankshall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
 
 #### (2) Community-oriented mortgage lending
 
@@ -230,7 +230,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (D) Affordable for very-low income households
 
-&emsp;&emsp;For purposes of paragraph (2)(B) the term “affordable for very-low income households” means that rents charged to tenants for units made available for occupancy by low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the income for the area (as determined by the Secretary of Housing and Urban Development) with adjustment for family size.
+&emsp;&emsp;For purposes of paragraph (2)(B) the term “affordable for very-low income households”means that rents charged to tenants for units made available for occupancy by low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the income for the area (as determined by the Secretary of Housing and Urban Development) with adjustment for family size.
 
 (July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455.)
 
@@ -262,7 +262,7 @@ Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 
 Subsec. (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
-Subsec. (e). Pub. L. 101–73, §714(b), which directed the general amendment of subsec. (e), was executed to the subsec. (e) added by section 105 of Pub. L. 100–86, as theprobable intent of Congress. As thus executed, the amendment substituted provisions relating to qualified thrift lender status for provisions relating to reduced eligibility for advances for certain members which were not qualified thrift lenders.
+Subsec. (e). Pub. L. 101–73, §714(b), which directed the general amendment of subsec. (e), was executed to the subsec. (e) added by section 105 of Pub. L. 100–86, as the probable intent of Congress. As thus executed, the amendment substituted provisions relating to qualified thrift lender status for provisions relating to reduced eligibility for advances for certain members which were not qualified thrift lenders.
 
 Subsec. (g). Pub. L. 101–73, §710(c), added subsec. (g).
 
@@ -280,7 +280,7 @@ Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for a
 
 &emsp;“(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
 
-&emsp;“(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
+&emsp;“(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of theunpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
 
 &emsp;“(4) If secured by obligations of the United States, or obligations fully guaranteed by the United States, the advance shall not be for an amount in excess of the face value of such obligations.”
 
@@ -334,7 +334,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (j)(12)(A) of 
 
 Pub. L. 91–351, title I, §101, July 24, 1970, 84 Stat. 450, provided that:
 
-“(a) There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as may be prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have beenadjusted pursuant to the provisions of this section to make any loan, if—
+“(a) There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as may be prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have been adjusted pursuant to the provisions of this section to make any loan, if—
 
 &emsp;“(1) the effective rate of interest on such loan exceeds the effective rate of interest on such funds payable by such member by a percentile amount which is in excess of such amount as the Board determines to be appropriate in furtherance of the purposes of this section; or
 

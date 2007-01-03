@@ -46,7 +46,3 @@ Subsec. (d). Pub. L. 88–72 struck out “hereafter” after “Funds” and in
 
 Section 107 of Pub. L. 88–72 provided that the amendment made by that section is effective Jan. 1, 1964.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

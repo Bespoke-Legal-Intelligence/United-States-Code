@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) in an Executive agency; or
 
-&emsp;&emsp;&emsp;(ii) in the United States Postal Service or Postal Rate Commission; and
+&emsp;&emsp;&emsp;(ii) in the United States Postal Service or Postal Regulatory Commission; and
 
 &emsp;&emsp;(C) an individual in the excepted service (other than a preference eligible)—
 
@@ -52,7 +52,7 @@
 
 &emsp;(7) whose position is within the Central Intelligence Agency or the Government Accountability Office;
 
-&emsp;(8) whose position is within the United States Postal Service, the Postal Rate Commission, the Panama Canal Commission, the Tennessee Valley Authority, the Federal Bureau of Investigation, an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10, unless subsection (a)(1)(B) of this section or section 1005(a) of title 39 is the basis for this subchapter's applicability;
+&emsp;(8) whose position is within the United States Postal Service, the Postal Regulatory Commission, the Panama Canal Commission, the Tennessee Valley Authority, the Federal Bureau of Investigation, an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10, unless subsection (a)(1)(B) of this section or section 1005(a) of title 39 is the basis for this subchapter's applicability;
 
 &emsp;(9) who is described in section 5102(c)(11) of this title; or
 
@@ -60,7 +60,7 @@
 
 (c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242.)
 
 #### References in Text
 
@@ -71,6 +71,10 @@ Section 103 of the Foreign Service Act of 1980, referred to in subsec. (b)(6), i
 A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94–183, §2(30), Dec. 31, 1975, 89 Stat. 1058, defined “preference eligible employee” and “adverse action” for purposes of this subchapter, prior to repeal by Pub. L. 95–454, §204(a).
 
 #### Amendments
+
+2006—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, §604(b), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
+Subsec. (b)(8). Pub. L. 109–435, §604(f), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2004—Subsec. (b)(7). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

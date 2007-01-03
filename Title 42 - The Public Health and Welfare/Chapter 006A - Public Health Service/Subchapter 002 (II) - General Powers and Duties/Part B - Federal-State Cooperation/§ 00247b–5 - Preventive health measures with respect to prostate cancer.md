@@ -36,7 +36,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to anysignificant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
 

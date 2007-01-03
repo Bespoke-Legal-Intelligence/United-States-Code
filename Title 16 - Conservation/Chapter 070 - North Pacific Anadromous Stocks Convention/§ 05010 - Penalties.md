@@ -24,7 +24,7 @@
 
 (1) Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or a fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 5009 of this title shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
-(2) Any district court of the United States shall have jurisdiction, upon application of theAttorney General on behalf of the United States, to order any forfeiture authorized under paragraph (1) and any action provided for under paragraph (4).
+(2) Any district court of the United States shall have jurisdiction, upon application of the Attorney General on behalf of the United States, to order any forfeiture authorized under paragraph (1) and any action provided for under paragraph (4).
 
 (3) If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this chapter or for which security has not previously been obtained. The provisions of the customs laws relating to—
 

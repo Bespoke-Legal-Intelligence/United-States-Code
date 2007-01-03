@@ -28,7 +28,7 @@ There is established within the National Agricultural Library of the Department 
 
 #### (c) Authorization of appropriations
 
-Funds are authorized to be appropriated annually in such amounts as Congress may determine necessary to support the purposes of this section. The Secretary is authorized to carry out this section with existing facilities through the use of grants, contracts, or such othermeans as the Secretary deems appropriate and to require matching of funds. No funds appropriated to support the purposes of this section shall be used to purchase additional equipment unless specifically authorized by law subsequent to September 29, 1977.
+Funds are authorized to be appropriated annually in such amounts as Congress may determine necessary to support the purposes of this section. The Secretary is authorized to carry out this section with existing facilities through the use of grants, contracts, or such other means as the Secretary deems appropriate and to require matching of funds. No funds appropriated to support the purposes of this section shall be used to purchase additional equipment unless specifically authorized by law subsequent to September 29, 1977.
 
 (Pub. L. 95–113, title XIV, §1411, Sept. 29, 1977, 91 Stat. 990; Pub. L. 97–98, title XIV, §1412, Dec. 22, 1981, 95 Stat. 1302.)
 

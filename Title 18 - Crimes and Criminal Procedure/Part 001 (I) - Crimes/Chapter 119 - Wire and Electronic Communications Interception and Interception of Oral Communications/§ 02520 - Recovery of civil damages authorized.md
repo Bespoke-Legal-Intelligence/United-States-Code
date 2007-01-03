@@ -54,17 +54,13 @@ Improper Disclosure Is Violation.—Any willful disclosure or use by an investig
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, §223(a), Oct. 26, 2001, 115 Stat. 293; Pub. L. 107–296, title II, §225(e), Nov. 25, 2002, 116 Stat. 2157.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
-
 #### Amendments
 
 2002—Subsec. (d)(3). Pub. L. 107–296 inserted “or 2511(2)(i)” after “2511(3)”.
 
-2001—Subsec. (a). Pub. L. 107–56, §§223(a)(1), 224, temporarily inserted “, other than the United States,” after “person or entity”. See Termination Date of 2001 Amendment note below.
+2001—Subsec. (a). Pub. L. 107–56, §223(a)(1), inserted “, other than the United States,” after “person or entity”.
 
-Subsecs. (f), (g). Pub. L. 107–56, §§223(a)(2), (3), 224, temporarily added subsecs. (f) and (g). See Termination Date of 2001 Amendment note below.
+Subsecs. (f), (g). Pub. L. 107–56, §223(a)(2), (3), added subsecs. (f) and (g).
 
 1986—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: “Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
 
@@ -81,10 +77,6 @@ Subsecs. (f), (g). Pub. L. 107–56, §§223(a)(2), (3), 224, temporarily added 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
-
-#### Termination Date of 2001 Amendment
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
 
 #### Effective Date of 1986 Amendment
 

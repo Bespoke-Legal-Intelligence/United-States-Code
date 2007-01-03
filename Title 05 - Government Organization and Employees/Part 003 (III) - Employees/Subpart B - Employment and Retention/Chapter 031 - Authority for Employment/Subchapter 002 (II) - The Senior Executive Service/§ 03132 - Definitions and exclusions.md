@@ -60,7 +60,7 @@
 
 > shall be designated as a career reserved position if the position entails direct responsibility to the public for the management or operation of particular government programs or functions.
 
-(4) Not later than March 1 of each year, the head of each agency shall publish in the Federal Register a list of positions in the agency which were career reserved positions during the preceding calendar year.
+(4) Not later than March 1 of each year, the head of each agency shall publish in the FederalRegister a list of positions in the agency which were career reserved positions during the preceding calendar year.
 
 (c) An agency may file an application with the Office setting forth reasons why it, or a unit thereof, should be excluded from the coverage of this subchapter. The Office shall—
 

@@ -18,7 +18,7 @@ No political test or political qualification shall be used in selecting, appoint
 
 #### (e) Employee status; applicability of administrative and cost standards of Office of Management and Budget
 
-Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall notbe considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
+Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative andcost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
 
 (Pub. L. 95–557, title VI, §605, Oct. 31, 1978, 92 Stat. 2116; Pub. L. 108–199, div. G, title III,\[(1), (2)\], Jan. 23, 2004, 118 Stat. 413.)
 

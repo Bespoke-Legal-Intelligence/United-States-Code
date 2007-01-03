@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(G) boats which could be subjected to safety regulation under chapter 43 of title 46; vessels, and appurtenances to vessels (other than such boats), which could be subjected to safety regulation under title 52 of the Revised Statutes or other marine safety statutes administered by the department in which the Coast Guard is operating; and equipment (including associated equipment, as defined in section 2101(1) of title 46) to the extent that a risk of injury associated with the use of such equipment on boats or vessels could be eliminated or reduced by actions taken under any statute referred to in this subparagraph,
 
-&emsp;&emsp;(H) drugs, devices, or cosmetics (as such terms are defined in sections 201(g), (h), and\(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(g), (h), and (i)\]), or
+&emsp;&emsp;(H) drugs, devices, or cosmetics (as such terms are defined in sections 201(g), (h), and (i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(g), (h), and (i)\]), or
 
 &emsp;&emsp;(I) food. The term “food”, as used in this subparagraph means all “food”, as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(f)\], including poultry and poultry products (as defined in sections 4(e) and (f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e) and (f)\]), meat, meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
 

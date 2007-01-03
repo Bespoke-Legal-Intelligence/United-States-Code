@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as definedin the first sentence of section 1396d(b) of this title)) of expenditures in the quarter—
+&emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title)) of expenditures in the quarter—
 
 &emsp;&emsp;(A) for child health assistance under the plan for targeted low-income children in the form of providing medical assistance for which payment is made on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title;
 
@@ -42,7 +42,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (1) General limitations
 
-&emsp;Funds provided to a State under this subchapter shall only be used to carry out the purposes of this subchapter (as described in section 1397aa of this title), and any health insurance coverage provided with such funds may include coverage of abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest.
+&emsp;Funds provided to a State under this subchapter shall only be used to carry out the purposes of this subchapter (as described in section 1397aa of this title) and may not include coverage of a nonpregnant childless adult, and any health insurance coverage provided with such funds may include coverage of abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest. For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.
 
 #### (2) Limitation on expenditures not used for medicaid or health insurance assistance
 
@@ -140,13 +140,13 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, a qualifying State (as defined in paragraph (2)) may elect to use not more than 20 percent of any allotment under section 1397dd of this title for fiscal year 1998, 1999, 2000, or 2001 (insofar as it is available under subsections (e) and (g) of such section) for payments under subchapter XIX of this chapter in accordance with subparagraph (B), instead of for expenditures under this subchapter.
+&emsp;&emsp;Notwithstanding any other provision of law, a qualifying State (as defined in paragraph (2)) may elect to use not more than 20 percent of any allotment under section 1397dd of this title for fiscal year 1998, 1999, 2000, 2001, 2004, 2005, 2006, or 2007 (insofar as it is available under subsections (e) and (g) of such section) for payments under subchapter XIX of this chapter in accordance with subparagraph (B), instead of for expenditures under this subchapter.
 
 #### (B) Payments to States
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a qualifying State that has elected the option described in subparagraph (A), subject to the availability of funds under such subparagraph with respect to the State, the Secretary shall pay the State an amount each quarter equal to the additional amount that would havebeen paid to the State under subchapter XIX of this chapter with respect to expenditures described in clause (ii) if the enhanced FMAP (as determined under subsection (b) of this section) had been substituted for the Federal medical assistance percentage (as defined in section 1396d(b) of this title).
+&emsp;&emsp;&emsp;In the case of a qualifying State that has elected the option described in subparagraph (A), subject to the availability of funds under such subparagraph with respect to the State, the Secretary shall pay the State an amount each quarter equal to the additional amount that would have been paid to the State under subchapter XIX of this chapter with respect to expenditures described in clause (ii) if the enhanced FMAP (as determined under subsection (b) of this section) had been substituted for the Federal medical assistance percentage (as defined in section 1396d(b) of this title).
 
 #### (ii) Expenditures described
 
@@ -154,7 +154,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (iii) No impact on determination of budget neutrality for waivers
 
-&emsp;&emsp;&emsp;In the case of a qualifying State that uses amounts paid under this subsection for expenditures described in clause (ii) that are incurred under a waiver approved for the State, any budget neutrality determinations with respect to such waiver shall be determined without regard to such amounts paid.
+&emsp;&emsp;&emsp;In the case of a qualifying State that uses amounts paid under this subsectionfor expenditures described in clause (ii) that are incurred under a waiver approved for the State, any budget neutrality determinations with respect to such waiver shall be determined without regard to such amounts paid.
 
 #### (2) Qualifying State
 
@@ -164,9 +164,15 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 &emsp;Nothing in paragraphs (1) and (2) shall be construed as modifying the requirements applicable to States implementing State child health plans under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354.)
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701.)
 
 #### Amendments
+
+2007—Subsec. (g)(1)(A). Pub. L. 109–482 substituted “2005, 2006, or 2007” for “or 2005”.
+
+2006—Subsec. (c)(1). Pub. L. 109–171, §6102(b), inserted “and may not include coverage of a nonpregnant childless adult” after “section 1397aa of this title)” and “For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.” at end.
+
+Subsec. (g)(1)(A). Pub. L. 109–171 substituted “2001, 2004, or 2005” for “or 2001”.
 
 2003—Subsec. (g). Pub. L. 108–74 added subsec. (g).
 
@@ -188,13 +194,19 @@ Subsec. (d)(2)(B)(ii). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(e)\], su
 
 1999—Subsec. (d)(2)(B)(iii). Pub. L. 106–113 inserted “in” after “described”.
 
-1997—Subsec. (c)(2)(A). Pub. L. 105–100, §162(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in this paragraph, payment shall not be made under subsection (a) of this section for expenditures for items described in subsection (a) of this section (other than paragraph (1)) for a quarter in a fiscal year to the extent the total of such expenditures exceeds 10 percent of the sum of—
+1997—Subsec. (c)(2)(A). Pub. L. 105–100, §162(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in this paragraph, payment shall not be made under subsection (a) of this section for expenditures for items described in subsection (a) of this section (other than paragraph (1)) for a quarter in a fiscalyear to the extent the total of such expenditures exceeds 10 percent of the sum of—
 
 &emsp;“(i) the total Federal payments made under subsection (a) of this section for such quarter in the fiscal year, and
 
 &emsp;“(ii) the total Federal payments made under section 1396b(a)(1) of this title based on an enhanced FMAP described in section 1396d(u)(2) of this title for such quarter.”
 
 Subsec. (f). Pub. L. 105–100, §162(7), added subsec. (f).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 6102(b) of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, and applicable to any waiver, experimental, pilot, or demonstration project that is approved on or after that date, see section 6102(d) of Pub. L. 109–171, set out as a note under section 1397gg of this title.
+
+Pub. L. 109–171, title VI, §6103(b), Feb. 8, 2006, 120 Stat. 132, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to expenditures made under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) on or after October 1, 2005.”
 
 #### Effective Date of 2003 Amendment
 

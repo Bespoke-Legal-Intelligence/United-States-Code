@@ -2,13 +2,13 @@
 
 #### (a) Withdrawal of merchandise; time; payment of charges
 
-(1) Any merchandise subject to duty (including international travel merchandise), with the exception of perishable articles and explosive substances other than firecrackers, may be entered for warehousing and be deposited in a bonded warehouse at the expense and risk of the owner <sup>1</sup> purchaser, importer, or consignee. Such merchandise may be withdrawn, at any time within 5 years from the date of importation, for consumption upon payment of the duties and charges accruing thereon at the rate of duty imposed by law upon such merchandise at the date of withdrawal; or may be withdrawn for exportation or for transportation and exportation to a foreign country, or for shipment or for transportation and shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, without the payment of duties thereon, or for transportation and rewarehousing at another port or elsewhere, or for transfer to another bonded warehouse at the same port; except that—
+(1) Any merchandise subject to duty (including international travel merchandise), with the exception of perishable articles and explosive substances other than firecrackers, may be entered for warehousing and be deposited in a bonded warehouse at the expense and risk of the owner <sup>1</sup> purchaser, importer, or consignee. Such merchandise may be withdrawn, at any time within 5 years from the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, for consumption upon payment of the duties and charges accruing thereon at the rate of duty imposed by law upon such merchandise at the date of withdrawal; or may be withdrawn for exportation or for transportation and exportation to a foreign country, or for shipment or for transportation and shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, without the payment of duties thereon, or for transportation and rewarehousing at another port or elsewhere, or for transfer to another bonded warehouse at the same port; except that—
 
-&emsp;(A) the total period of time for which such merchandise may remain in bonded warehouse shall not exceed 5 years from the date of importation; and
+&emsp;(A) the total period of time for which such merchandise may remain in bonded warehouse shall not exceed 5 years from the date of importation or such longer period of time as theBureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown; and
 
 &emsp;(B) turbine fuel may be withdrawn for use under section 1309 of this title without the payment of duty if an amount equal to the quantity of fuel withdrawn is shown to be used within 30 days after the day of withdrawal, but duties (together with interest payable from the date of the withdrawal at the rate of interest established under section 6621 of title 26) shall be deposited by the 40th day after the day of withdrawal on fuel that was withdrawn in excess of the quantity shown to have been so used during such 30-day period.
 
-(2) Merchandise upon which the duties have been paid and which shall have remained continuously in bonded warehouse or otherwise in the custody and under the control of customs officers, may be entered or withdrawn at any time within 5 years after the date of importation for exportation or for transportation and exportation to a foreign country, or for shipment or for transportation and shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, under such regulations as the Secretary of the Treasury shall prescribe, and upon such entry or withdrawal, and exportation or shipment, the duties thereon shall be refunded.
+(2) Merchandise upon which the duties have been paid and which shall have remained continuously in bonded warehouse or otherwise in the custody and under the control of customs officers, may be entered or withdrawn at any time within 5 years after the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, for exportation or for transportation and exportation to a foreign country, or for shipment or for transportation and shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, under such regulations as the Secretary of the Treasury shall prescribe, and upon such entry or withdrawal, and exportation or shipment, the duties thereon shall be refunded.
 
 #### (b) Transferal of right of withdrawal
 
@@ -16,13 +16,13 @@ The right to withdraw any merchandise entered in accordance with subsection (a) 
 
 #### (c) Destruction of merchandise at request of consignee
 
-Merchandise entered under bond, under any provision of law, may, upon payment of allcharges other than duty on the merchandise, be destroyed, at the request and at the expense of the consignee, within the bonded period under customs supervision, in lieu of exportation, and upon such destruction the entry of such merchandise shall be liquidated without payment of duty and any duties collected shall be refunded.
+Merchandise entered under bond, under any provision of law, may, upon payment of all charges other than duty on the merchandise, be destroyed, at the request and at the expense of the consignee, within the bonded period under customs supervision, in lieu of exportation, and upon such destruction the entry of such merchandise shall be liquidated without payment of duty and any duties collected shall be refunded.
 
 #### (d) Withdrawal before payment
 
 Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
-(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171.)
+(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
 
 #### Prior Provisions
 
@@ -39,6 +39,12 @@ R.S. §2962, authorizing the deposit of merchandise, with specified exceptions, 
 R.S. §2967, which provided that merchandise imported into the port of Louisville, and destined for Jeffersonville, might be landed and warehoused at Jeffersonville, was superseded by the Plan of Reorganization of the Customs Service set out in a note to section 1 of this title, and repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–280, §1635(c)(1)(A), inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation” in second sentence of introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 109–280, §1635(c)(1)(B), inserted “or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation”.
+
+Subsec. (a)(2). Pub. L. 109–280, §1635(c)(2), inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown,” after “date of importation”.
 
 1999—Subsec. (a)(1). Pub. L. 106–36 inserted “(including international travel merchandise)” after “Any merchandise subject to duty” in first sentence of introductory provisions.
 
@@ -58,9 +64,13 @@ Subsec. (d). Pub. L. 95–410, §108(a), added subsec. (d).
 
 1955—Subsec. (a). Act June 30, 1955, inserted “Johnston Island” in two places.
 
-1953—Subsec. (b). Act Aug. 8, 1953, provided that all transfers shall be irrevocable; that in the case of eachtransfer the transferee shall file a bond undertaking to pay all unpaid duties, taxes, charges, and exactions on the merchandise the subject of the transfer; and that a transferee shall have no right to file a protest under section 1514 of this title, or to a separate liquidation in his behalf, unless the rate of duty, tax, charge, or exaction has been changed pursuant to statute or proclamation after the right to withdraw the merchandise was transferred to him.
+1953—Subsec. (b). Act Aug. 8, 1953, provided that all transfers shall be irrevocable; that in the case of each transfer the transferee shall file a bond undertaking to pay all unpaid duties, taxes, charges, and exactions on the merchandise the subject of the transfer; and that a transferee shall have no right to file a protest under section 1514 of this title, or to a separate liquidation in his behalf, unless the rate of duty, tax, charge, or exaction has been changed pursuant to statute or proclamation after the right to withdraw the merchandise was transferred to him.
 
 1938—Act June 25, 1938, amended section generally, and among other changes, inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam,” and struck out “(or ten months in the case of grain)” wherever appearing.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -84,7 +94,7 @@ Amendment by act June 30, 1955, effective July 1, 1955, see note set out under s
 
 #### Effective Date of 1953 Amendment
 
-Section 21(b) of act Aug. 8, 1953, provided that: “Notwithstanding any other provision of this Act \[amending this section and sections 258, 1001, 1201, 1304, 1308, 1309, 1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
+Section 21(b) of act Aug. 8, 1953, provided that: “Notwithstanding any other provision of this Act \[amendingthis section and sections 258, 1001, 1201, 1304, 1308, 1309, 1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
 
 #### Effective Date of 1938 Amendment
 

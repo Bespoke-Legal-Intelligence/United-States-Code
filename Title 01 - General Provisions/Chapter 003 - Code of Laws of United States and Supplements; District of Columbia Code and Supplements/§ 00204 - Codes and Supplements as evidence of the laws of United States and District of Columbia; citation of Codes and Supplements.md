@@ -10,7 +10,7 @@ In all courts, tribunals, and public offices of the United States, at home or ab
 
 (d) Supplements to Codes; citation.—Supplements to the Code of Laws of the United States and to the Code of the District of Columbia may be cited, respectively, as “U.S.C., Sup.  ”, and “D.C. Code, Sup.  ”, the blank in each case being filled with Roman figures denoting the number of the supplement.
 
-(e) New edition of Codes; citation.—New editions of each of such codes may be cited, respectively, as “U.S.C.,  ed.”, and “D.C. Code,   ed.”, the blank in each case being filled with figures denoting the last year the legislation of which is included in whole or in part.
+(e) New edition of Codes; citation.—New editions of each of such codes may be cited, respectively, as “U.S.C.,  ed.”, and “D.C. Code,     ed.”, the blank in each case being filled with figures denoting the last year the legislation of which is included in whole or in part.
 
 (July 30, 1947, ch. 388, 61 Stat. 638.)
 
@@ -64,7 +64,7 @@ Title 40, Public Buildings, Property, and Works—Pub. L. 107–217, §1, Aug. 2
 
 Title 44, Public Printing and Documents—Pub. L. 90–620, §1, Oct. 22, 1968, 82 Stat. 1238.
 
-Title 46, Shipping—Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500; Pub. L. 99–509, title V, subtitle B, §5101, Oct. 21, 1986, 100 Stat. 1913; Pub. L. 100–710, title I, §102, Nov. 23, 1988, 102 Stat. 4739.
+Title 46, Shipping—Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500; Pub. L. 99–509, title V, subtitle B, §5101, Oct. 21, 1986, 100 Stat. 1913; Pub. L. 100–424, §6, Sept. 9, 1988, 102 Stat. 1591; Pub. L. 100–710, title I, §102, Nov. 23, 1988, 102 Stat. 4738; Pub. L. 109–304, Oct. 6, 2006, 120 Stat. 1485.
 
 Title 49, Transportation—Pub. L. 95–473, §1, Oct. 17, 1978, 92 Stat. 1337; Pub. L. 97–449, §1, Jan. 12, 1983, 96 Stat. 2413; Pub. L. 103–272, §1, July 5, 1994, 108 Stat. 745.
 

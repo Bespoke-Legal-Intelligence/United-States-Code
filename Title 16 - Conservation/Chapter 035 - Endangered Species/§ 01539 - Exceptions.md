@@ -64,7 +64,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(B) any non-native permanent resident of an Alaskan native village;
 
-> if such taking is primarily for subsistence purposes. Non-edible byproducts of species taken pursuant to this section may be sold in interstate commerce when made into authentic native articles of handicrafts and clothing; except that the provisions of this subsection shall not apply to any non-native resident of an Alaskan native village found by the Secretary to be not primarily dependent upon the taking of fish and wildlife for consumption or for the creation and sale of authentic native articles of handicrafts and clothing.
+> if such taking is primarily for subsistence purposes. Non-edible byproducts of species takenpursuant to this section may be sold in interstate commerce when made into authentic native articles of handicrafts and clothing; except that the provisions of this subsection shall not apply to any non-native resident of an Alaskan native village found by the Secretary to be not primarily dependent upon the taking of fish and wildlife for consumption or for the creation and sale of authentic native articles of handicrafts and clothing.
 
 (2) Any taking under this subsection may not be accomplished in a wasteful manner.
 
@@ -236,7 +236,7 @@ Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the subs
 
 Subsec. (f)(9). Pub. L. 97–304, §6(3)(B), added par. (9).
 
-Subsec. (h)(1). Pub. L. 97–304, §6(4)(A), struck out “(other than scrimshaw)” after “do not apply to any article” in provisions preceding subpar. (A) and in subpar. (A) substituted “is not less than 100 years of age” for “was made before 1830”.
+Subsec. (h)(1). Pub. L. 97–304, §6(4)(A), struck out “(other than scrimshaw)” after “do not apply to anyarticle” in provisions preceding subpar. (A) and in subpar. (A) substituted “is not less than 100 years of age” for “was made before 1830”.
 
 Subsec. (i). Pub. L. 97–304, §6(5), substituted provisions covering noncommercial transshipments of fish or wildlife for provisions that had related to exemptions from the provisions of this title of the Tellico Dam and Reservoir Project and the Grayrocks Dam and Reservoir Project and to the operation of the Missouri Basin Power Project.
 

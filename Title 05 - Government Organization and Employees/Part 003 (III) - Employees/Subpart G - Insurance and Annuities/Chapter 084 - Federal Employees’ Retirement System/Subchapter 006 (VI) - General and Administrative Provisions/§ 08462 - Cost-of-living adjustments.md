@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a survivor of a deceased annuitant whose annuity has not been so increased, since the annuity was first payable to the deceased annuitant.
 
-&emsp;(2) Effective from its commencing date, an annuity payable from the Fund to an annuitant's survivor (other than a widow or widower whose annuity is computed under section8442(g) or a child under section 8443) shall be increased by the total percentage by which the deceased annuitant's annuity had been increased under this section during the period beginning on the date the deceased annuitant's annuity commenced and ending on the date of the deceased annuitant's death.
+&emsp;(2) Effective from its commencing date, an annuity payable from the Fund to an annuitant's survivor (other than a widow or widower whose annuity is computed under section 8442(g) or a child under section 8443) shall be increased by the total percentage by which the deceased annuitant's annuity had been increased under this section during the period beginning on the date the deceased annuitant's annuity commenced and ending on the date of the deceased annuitant's death.
 
 &emsp;(3)(A) An adjustment under subsection (b) for any year shall not be effective with respect to the annuity of an annuitant who is under 62 years of age as of the date on which such adjustment would otherwise first take effect.
 

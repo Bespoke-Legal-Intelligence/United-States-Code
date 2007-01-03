@@ -3,51 +3,16 @@
 | Sec. |  |
 | :--- | ---: |
 | [6101\.](%C2%A7%2006101%20-%20Findings%20and%20declaration%20of%20policy.md) | Findings and declaration of policy. |
-| (a) | Findings. |
-| (b) | Policy. |
-| (c) | Construction. |
 | [6102\.](%C2%A7%2006102%20-%20Definitions.md) | Definitions. |
 | [6103\.](%C2%A7%2006103%20-%20Issuance%20of%20orders.md) | Issuance of orders. |
-| (a) | In general. |
-| (b) | Procedures. |
-| (c) | Amendments. |
 | [6104\.](%C2%A7%2006104%20-%20Required%20terms%20in%20orders.md) | Required terms in orders. |
-| (a) | In general. |
-| (b) | Mushroom Council. |
-| (c) | Powers and duties of Council. |
-| (d) | Plans and budgets. |
-| (e) | Contracts and agreements. |
-| (f) | Books and records of Council. |
-| (g) | Assessments. |
-| (h) | Prohibition. |
-| (i) | Books and records. |
-| (j) | Other terms and conditions. |
 | [6105\.](%C2%A7%2006105%20-%20Referenda.md) | Referenda. |
-| (a) | Initial referendum. |
-| (b) | Succeeding referenda. |
-| (c) | Manner. |
 | [6106\.](%C2%A7%2006106%20-%20Petition%20and%20review.md) | Petition and review. |
-| (a) | Petition. |
-| (b) | Review. |
 | [6107\.](%C2%A7%2006107%20-%20Enforcement.md) | Enforcement. |
-| (a) | Jurisdiction. |
-| (b) | Referral to Attorney General. |
-| (c) | Civil penalties and orders. |
-| (d) | Review by district court. |
-| (e) | Failure to obey orders. |
-| (f) | Failure to pay penalties. |
 | [6108\.](%C2%A7%2006108%20-%20Investigations%20and%20power%20to%20subpoena.md) | Investigations and power to subpoena. |
-| (a) | Investigations. |
-| (b) | Subpoenas, oaths, and affirmations. |
-| (c) | Aid of courts. |
-| (d) | Contempt. |
-| (e) | Process. |
-| (f) | Hearing site. |
 | [6109\.](%C2%A7%2006109%20-%20Savings%20provision.md) | Savings provision. |
 | [6110\.](%C2%A7%2006110%20-%20Suspension%20or%20termination%20of%20orders.md) | Suspension or termination of orders. |
 | [6111\.](%C2%A7%2006111%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Administrative expenses. |
 | [6112\.](%C2%A7%2006112%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

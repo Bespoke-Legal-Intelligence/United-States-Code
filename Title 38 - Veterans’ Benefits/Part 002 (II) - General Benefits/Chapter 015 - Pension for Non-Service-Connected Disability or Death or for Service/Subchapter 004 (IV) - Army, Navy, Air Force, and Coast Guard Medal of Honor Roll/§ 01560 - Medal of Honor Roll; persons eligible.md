@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1562” for “562”.
 
 &emsp;“(2) while engaged in military operations involving conflict with an opposing foreign force; or
 
-&emsp;“(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.”
+&emsp;“(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armedforce in which the United States is not a belligerent party.”
 
 1963—Subsec. (a). Pub. L. 88–77 inserted references to Department of the Treasury and to Coast Guard.
 

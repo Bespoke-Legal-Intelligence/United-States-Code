@@ -1,14 +1,28 @@
 ### §1803. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for the purposes of carrying out the provisions of this chapter, not to exceed the following sums:
+There are authorized to be appropriated to the Secretary to carry out the provisions of this chapter—
 
-&emsp;(1) $147,000,000 for fiscal year 1996;
+&emsp;(1) $337,844,000 for fiscal year 2007;
 
-&emsp;(2) $151,000,000 for fiscal year 1997;
+&emsp;(2) $347,684,000 for fiscal year 2008;
 
-&emsp;(3) $155,000,000 for fiscal year 1998; and
+&emsp;(3) $357,524,000 for fiscal year 2009;
 
-&emsp;(4) $159,000,000 for fiscal year 1999.
+&emsp;(4) $367,364,000 for fiscal year 2010;
 
-(Pub. L. 94–265, §4, as added Pub. L. 104–297, title I, §103, Oct. 11, 1996, 110 Stat. 3563.)
+&emsp;(5) $377,204,000 for fiscal year 2011;
+
+&emsp;(6) $387,044,000 for fiscal year 2012; and
+
+&emsp;(7) $396,875,000 for fiscal year 2013.
+
+(Pub. L. 94–265, §4, as added Pub. L. 104–297, title I, §103, Oct. 11, 1996, 110 Stat. 3563; amended Pub. L. 109–479, §7, Jan. 12, 2007, 120 Stat. 3579.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+2007—Pub. L. 109–479 reenacted section catchline without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2013 for provisions authorizing appropriations for fiscal years 1996 to 1999.
 

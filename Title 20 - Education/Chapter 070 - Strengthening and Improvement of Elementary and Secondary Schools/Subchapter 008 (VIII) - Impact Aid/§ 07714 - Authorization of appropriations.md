@@ -28,7 +28,7 @@ For the purpose of carrying out section 7708 of this title, there are authorized
 
 2002—Subsecs. (a) to (c). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”.
 
-Subsec. (e). Pub. L. 107–110, §805(b), substituted “for fiscal year 2001, $150,000,000 for fiscal year 2002, and suchsums as may be necessary for each of the five succeeding fiscal years” for “for each of the three succeeding fiscal years”.
+Subsec. (e). Pub. L. 107–110, §805(b), substituted “for fiscal year 2001, $150,000,000 for fiscal year 2002, and such sums as may be necessary for each of the five succeeding fiscal years” for “for each of the three succeeding fiscal years”.
 
 Subsec. (f). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”.
 

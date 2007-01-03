@@ -34,7 +34,7 @@ Except as provided in subsection (e) of this section, any individual—
 
 &emsp;(A) who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or the Federal Employees Retirement System Special Category;
 
-&emsp;(B) who was married to such participant for not less than ten years during the participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title; and
+&emsp;(B) who was married to such participant for not less than ten years during the participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Directoras a participant under section 2013 of this title; and
 
 &emsp;(C) who was enrolled in a health benefits plan as a family member at any time during the 18-month period before the date of dissolution of the marriage to such participant;
 
@@ -50,7 +50,7 @@ Notwithstanding subsections (a), (b), and (c) of this section and except as prov
 
 (1) Any former spouse who remarries before age fifty-five is not eligible to make an election under subsection (b)(1) of this section.
 
-(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section or to subsection (d) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of thethirty-one-day period beginning on the date of remarriage.
+(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section or to subsection (d) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of the thirty-one-day period beginning on the date of remarriage.
 
 (3)(A) A former spouse who is not eligible to enroll or to continue enrollment in a health benefits plan under this section solely because of remarriage before age fifty-five shall be restored to such eligibility on the date such remarriage is dissolved by death, annulment, or divorce.
 

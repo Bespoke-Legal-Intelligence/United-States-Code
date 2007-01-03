@@ -1,6 +1,6 @@
 ### §142a. Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian
 
-From and after June 10, 1928, the office of administrative assistant and disbursing officer ofthe Library of Congress, created by section 142 of this title, is abolished and thereafter the duties required to be performed by the administrative assistant and disbursing officer shall be performed, under the direction of the Librarian of Congress, by such persons as the Librarian may appoint for those purposes.
+From and after June 10, 1928, the office of administrative assistant and disbursing officer of the Library of Congress, created by section 142 of this title, is abolished and thereafter the duties required to be performed by the administrative assistant and disbursing officer shall be performed, under the direction of the Librarian of Congress, by such persons as the Librarian may appoint for those purposes.
 
 (May 11, 1928, ch. 521, 45 Stat. 497; Pub. L. 92–310, title II, §220(h), June 6, 1972, 86 Stat. 205.)
 

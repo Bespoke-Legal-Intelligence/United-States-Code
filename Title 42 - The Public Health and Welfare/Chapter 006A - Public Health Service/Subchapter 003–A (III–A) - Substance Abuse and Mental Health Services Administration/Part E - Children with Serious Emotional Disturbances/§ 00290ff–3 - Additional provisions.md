@@ -34,7 +34,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that, if
 
 #### (d) Relationship to items and services under other programs
 
-A funding agreement for a grant under section 290ff(a) of this title is that the grant, and the non-Federal contributions made with respect to the grant, will not be expended to make payment for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+A funding agreement for a grant under section 290ff(a) of this title is that the grant, and the non-Federal contributions made with respect to the grant, will not be expended to make payment for any item or service to the extent thatpayment has been made, or can reasonably be expected to be made, with respect to such item or service—
 
 &emsp;(1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 

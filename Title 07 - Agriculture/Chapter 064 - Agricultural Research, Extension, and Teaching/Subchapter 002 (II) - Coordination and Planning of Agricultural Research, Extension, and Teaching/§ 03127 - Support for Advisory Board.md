@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 105–185, §606(c)(1)(B), substituted “its recommendatio
 
 1996—Pub. L. 104–127, §§852(b)(3)(A), 853(b)(4)(A), in section catchline, substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
 
-Subsec. (a). Pub. L. 104–127, §§852(b)(3)(B)(i), (ii), 853(b)(4)(B)(i), in introductory provisions, substituted “To assist the Advisory Board in” for “To assist the Joint Council, the Advisory Board, and the Technology Board in” and “with the chairperson of the Advisory Board” for “with the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
+Subsec. (a). Pub. L. 104–127, §§852(b)(3)(B)(i), (ii), 853(b)(4)(B)(i), in introductory provisions, substituted“To assist the Advisory Board in” for “To assist the Joint Council, the Advisory Board, and the Technology Board in” and “with the chairperson of the Advisory Board” for “with the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
 
 Subsec. (a)(1). Pub. L. 104–127, §§852(b)(3)(B)(ii), 853(b)(4)(B)(i), substituted “the chairperson of the Advisory Board” for “the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
 

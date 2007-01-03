@@ -62,7 +62,7 @@ Members of the Board shall serve without pay but may be compensated for reasonab
 
 #### (f) Meetings
 
-The Board shall meet at least twice a year at the call of the Chairman (with at least onemeeting in the District of Columbia) and at such other times as the Chairman may determine to be appropriate. The Chairman shall call a meeting of the Board whenever one-third of the members of the Board submit written requests for such a meeting.
+The Board shall meet at least twice a year at the call of the Chairman (with at least one meeting in the District of Columbia) and at such other times as the Chairman may determine to be appropriate. The Chairman shall call a meeting of the Board whenever one-third of the members of the Board submit written requests for such a meeting.
 
 #### (g) Chairman and Vice Chairman
 
@@ -116,7 +116,7 @@ Subsec. (c)(2) to (4). Pub. L. 99–161, §2(3), struck out par. (2) limiting te
 
 Subsec. (f). Pub. L. 99–161, §4(d), substituted “meet at least twice a year at the call of the Chairman (with at least one meeting in the District of Columbia)” for “meet annually at the call of the Chairman”.
 
-Subsec. (i). Pub. L. 99–161, §4(e), inserted requirement that bylaws and other regulations include provisions preventing conflict of interest, and include appropriate fiscal control, funds accountability, etc., to comply with section 806 of this title, and inserted provisions requiring transmittal of a copy of such bylaws to each House of Congress within specified periods of time.
+Subsec. (i). Pub. L. 99–161, §4(e), inserted requirement that bylaws and other regulations include provisions preventing conflict of interest, and include appropriate fiscal control, funds accountability, etc., to complywith section 806 of this title, and inserted provisions requiring transmittal of a copy of such bylaws to each House of Congress within specified periods of time.
 
 1983—Subsec. (a)(1). Pub. L. 98–33, §1(a)(1), (2), substituted “thirty-three” for “seventeen” in the matter preceding subpar. (A), and substituted “Eight” for “Four” in each of subpars. (A) through (D).
 

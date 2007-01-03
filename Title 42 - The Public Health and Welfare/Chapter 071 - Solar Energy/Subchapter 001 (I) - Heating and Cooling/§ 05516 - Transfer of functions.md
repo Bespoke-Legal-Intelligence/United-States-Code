@@ -8,5 +8,5 @@ Within sixty days after the effective date of the law creating the Energy Resear
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
-functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development transferred to Administrator of Energy Research and Development Administration by section 5814(f) of this title.
+Functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development transferred to Administrator of Energy Research and Development Administration by section 5814(f) of this title.
 

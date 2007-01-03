@@ -24,7 +24,7 @@ The summons and complaint in such an action shall be served as provided by the F
 
 (g) A civil action in which jurisdiction of the district court is based upon section 1369 of this title may be brought in any district in which any defendant resides or in which a substantial part of the accident giving rise to the action took place.
 
-(June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 87–748, §2, Oct. 5, 1962, 76 Stat. 744; Pub. L. 88–234, Dec.23, 1963, 77 Stat. 473; Pub. L. 89–714, §§1, 2, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 94–574, §3, Oct. 21, 1976, 90 Stat. 2721; Pub. L. 94–583, §5, Oct. 21, 1976, 90 Stat. 2897; Pub. L. 100–702, title X, §1013(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §311, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §3, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 102–572, title V, §504, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 104–34, §1, Oct. 3, 1995, 109 Stat. 293; Pub. L. 107–273, div. C, title I, §11020(b)(2), Nov. 2, 2002, 116 Stat. 1827.)
+(June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 87–748, §2, Oct. 5, 1962, 76 Stat. 744; Pub. L. 88–234, Dec. 23, 1963, 77 Stat. 473; Pub. L. 89–714, §§1, 2, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 94–574, §3, Oct. 21, 1976, 90 Stat. 2721; Pub. L. 94–583, §5, Oct. 21, 1976, 90 Stat. 2897; Pub. L. 100–702, title X, §1013(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §311, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §3, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 102–572, title V, §504, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 104–34, §1, Oct. 3, 1995, 109 Stat. 293; Pub. L. 107–273, div. C, title I, §11020(b)(2), Nov. 2, 2002, 116 Stat. 1827.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of erosion control program
 
-The Secretary shall establish and conduct a national shoreline erosion control development and demonstration program for a period of 6 years beginning on the date that funds are made available to carry out this section.
+The Secretary shall establish and conduct a national shoreline erosion control development and demonstration program for a period of 7 years beginning on the date that funds are made available to carry out this section.
 
 #### (b) Requirements
 
@@ -108,13 +108,13 @@ Not later than 60 days after the conclusion of the erosion control program, the 
 
 #### (1) Responsibility
 
-&emsp;The cost of and responsibility for operation and maintenance (excluding monitoring) of ademonstration project under the erosion control program shall be borne by non-Federal interests on completion of construction of the demonstration project.
+&emsp;The cost of and responsibility for operation and maintenance (excluding monitoring) of a demonstration project under the erosion control program shall be borne by non-Federal interests on completion of construction of the demonstration project.
 
 #### (2) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated $21,000,000 to carry out this section.
+&emsp;There is authorized to be appropriated $25,000,000 to carry out this section.
 
-(Aug. 13, 1946, ch. 960, §5, as added Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700; amended Pub. L. 106–53, title V, §581, Aug. 17, 1999, 113 Stat. 375.)
+(Aug. 13, 1946, ch. 960, §5, as added Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700; amended Pub. L. 106–53, title V, §581, Aug. 17, 1999, 113 Stat. 375; Pub. L. 109–234, title II, §2305, June 15, 2006, 120 Stat. 456.)
 
 #### References in Text
 
@@ -125,6 +125,8 @@ The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. 
 A prior section 426h, acts Aug. 13, 1946, ch. 960, §5, formerly §4, 60 Stat. 1057; July 28, 1956, ch. 768, 70 Stat. 703; renumbered §5, Oct. 12, 1996, Pub. L. 104–303, title II, §227(d)(1), 110 Stat. 3700, defined the word “shores” as used in sections 426e to 426h of this title, prior to repeal by Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700.
 
 #### Amendments
+
+2006—Pub. L. 109–234, which directed that section 227 of Pub. L. 104–303 be modified by substituting “7” for “6” in section 5(a) and “$25,000,000” for “$21,000,000” in section 5(e)(2), was executed by making the substitutions in subsecs. (a) and (e)(2), respectively, of this section, which is section 5 of act Aug. 13, 1946, as added by section 227(e)(1) of Pub. L. 104–303, to reflect the probable intent of Congress.
 
 1999—Subsec. (b)(3)(C)(i). Pub. L. 106–53 inserted “, including the city of Miami Beach, Florida” after “Pacific coasts”.
 

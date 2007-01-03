@@ -32,7 +32,7 @@
 
 #### (i) Initial report
 
-&emsp;&emsp;&emsp;The Secretary of State shall use the initial report submitted under subparagraph\(A) to establish baselines for the developing countries identified in the report with respect to the information provided under clauses (i) and (ii) of that subparagraph.
+&emsp;&emsp;&emsp;The Secretary of State shall use the initial report submitted under subparagraph (A) to establish baselines for the developing countries identified in the report with respect to the information provided under clauses (i) and (ii) of that subparagraph.
 
 #### (ii) Annual reports
 

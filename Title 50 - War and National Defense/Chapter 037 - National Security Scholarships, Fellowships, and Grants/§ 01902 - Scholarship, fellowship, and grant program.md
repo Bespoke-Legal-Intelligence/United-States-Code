@@ -52,7 +52,7 @@
 
 #### (4) Contract authority
 
-&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, area studies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 5 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods upto one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
+&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, area studies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 5 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
 
 #### (b) Service agreement
 
@@ -60,11 +60,17 @@ In awarding a scholarship or fellowship under the program, the Secretary or cont
 
 &emsp;(1) will maintain satisfactory academic progress, as determined in accordance with regulations issued by the Secretary, and agrees that failure to maintain such progress shall constitute grounds upon which the Secretary or contract organization referred to in subsection (a)(4) of this section may terminate such assistance;
 
-&emsp;(2) will—
+&emsp;(2)(A) will (in accordance with regulations prescribed by the Secretary of Defense in coordination with the heads of the other Federal departments and agencies concerned) begin work not later than three years after the recipient's completion of degree study during which scholarship assistance was provided under the program—
 
-&emsp;&emsp;(A) in the case of a recipient of a scholarship, after the recipient's completion of the study for which scholarship assistance was provided under the program, work in a position in the Department of Defense or other element of the intelligence community that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall include one year of service for each year, or portion thereof, for which such scholarship assistance was provided; or
+&emsp;&emsp;(i) for not less than one year in a position certified by the Secretary of Defense, in coordination with the Director of National Intelligence, the Secretary of Homeland Security, and the Secretary of State (as appropriate), as contributing to the national security of the United States in the Department of Defense, any element of the intelligence community, the Department of Homeland Security, or the Department of State; or
 
-&emsp;&emsp;(B) in the case of a recipient of a fellowship, after the recipient's completion of the study for which the fellowship assistance was provided under the program, work in a position described in subparagraph (A) that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall (at the discretion of the Secretary) include not less than one nor more than three years for each year, or portion thereof, for which such fellowship assistance was provided; and
+&emsp;&emsp;(ii) for not less than one year in a position in a Federal agency or office that is identified by the Secretary of Defense under subsection (g) as having national security responsibilities if the recipient demonstrates to the Secretary that no position is available in the departments and agencies covered by clause (i); or
+
+&emsp;(B) will (in accordance with such regulations) begin work not later than two yearsafter the recipient's completion or termination of study for which fellowship assistance was provided under the program—
+
+&emsp;&emsp;(i) for not less than one year in a position certified by the Secretary of Defense, in coordination with the Director of National Intelligence, the Secretary of Homeland Security, and the Secretary of State (as appropriate), as contributing to the national security of the United States in the Department of Defense, any element of the intelligence community, the Department of Homeland Security, or the Department of State; or
+
+&emsp;&emsp;(ii) for not less than one year in a position in a Federal agency or office that is identified by the Secretary of Defense under subsection (g) as having national security responsibilities if the recipient demonstrates to the Secretary that no position is available in the departments and agencies covered by clause (i); and
 
 &emsp;(3) if the recipient fails to meet either of the obligations set forth in paragraph (1) or (2), will reimburse the United States Government for the amount of the assistance provided the recipient under the program, together with interest at a rate determined in accordance with regulations issued by the Secretary.
 
@@ -90,11 +96,25 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (2) Notwithstanding section 1904 of this title, funds may not be made available from the Fund to carry out this chapter for fiscal year 1997 until 30 days after the date on which the Secretary of Defense submits to the Congress the first such list required by paragraph (1).
 
-#### (h) Use of awards to attend the Foreign Language Center of the Defense Language Institute
+#### (h) Temporary employment and retention of certain participants
+
+#### (1) In general
+
+&emsp;The Secretary of Defense may—
+
+&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
+
+&emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event the service agreement of the person under subsection (b) shall terminate.
+
+#### (2) Treatment of certain service
+
+&emsp;The period of service of a person covered by paragraph (1) in a position on an interim basis under that paragraph shall, after completion of the degree, be treated as a period of service for purposes of satisfying the obligated service requirements of the person under the service agreement of the person under subsection (b).
+
+#### (i) Use of awards to attend the Foreign Language Center of the Defense Language Institute
 
 (1) The Secretary shall provide for the admission of award recipients to the Foreign Language Center of the Defense Language Institute (hereinafter in this subsection referred to as the “Center”). An award recipient may apply a portion of the applicable scholarship or fellowship award for instruction at the Center on a space-available basis as a Department of Defense sponsored program to defray the additive instructional costs.
 
-(2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the sameregulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
+(2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the same regulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
 
 (3) In this subsection, the term “award recipient” means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section who—
 
@@ -104,7 +124,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;(C) would benefit from instruction provided at the Center.
 
-#### (i) National Flagship Language Initiative
+#### (j) National Flagship Language Initiative
 
 (1) Under the National Flagship Language Initiative, institutions of higher education shall establish, operate, or improve activities designed to train students in programs in a range of disciplines to achieve advanced levels of proficiency in those foreign languages that the Secretary identifies as being the most critical in the interests of the national security of the United States.
 
@@ -130,9 +150,17 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (D) The head of the element of the intelligence community concerned may release an employee, in whole or in part, from the obligation to reimburse the United States under an agreement under subparagraph (A) when, in the discretion of the head of the element, the head of the element determines that equity or the interests of the United States so require.
 
-(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954.)
+(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367.)
 
 #### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–364, §945(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “will—
+
+&emsp;“(A) in the case of a recipient of a scholarship, after the recipient's completion of the study for which scholarship assistance was provided under the program, work in a position in the Department of Defense or other element of the intelligence community that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall include one year of service for each year, or portion thereof, for which such scholarship assistance was provided; or
+
+&emsp;“(B) in the case of a recipient of a fellowship, after the recipient's completion of the study for which thefellowship assistance was provided under the program, work in a position described in subparagraph (A) that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall (at the discretion of the Secretary) include not less than one nor more than three years for each year, or portion thereof, for which such fellowship assistance was provided; and”.
+
+Subsecs. (h) to (j). Pub. L. 109–364, §945(b), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 2004—Subsec. (a)(1)(E). Pub. L. 108–487, §603(a)(1), added subpar. (E).
 
@@ -188,7 +216,7 @@ Subsecs. (e), (f). Pub. L. 102–496, §404(c), redesignated subsec. (f) as (e) 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to training under section 802(i) of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\].”
+Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to training under section 802(i) \[now 802(j)\] of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i), now 1902(j)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
 Amendment by Pub. L. 108–487 effective Dec. 23, 2004, except as otherwise provided, see section 801 of Pub. L. 108–487, set out as a note under section 2656f of Title 22, Foreign Relations and Intercourse.
 
@@ -208,7 +236,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Construction
 
-Pub. L. 107–306, title III, §333(d), Nov. 27, 2002, 116 Stat. 2397, provided that: “Nothing in this section \[enacting section 1911 of this title, amending this section and section 1903 of this title, and enacting provisionsset out as notes under this section\] shall be construed as affecting any program or project carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] as in effect on the date that precedes the date of the enactment of this Act \[Nov. 27, 2002\].”
+Pub. L. 107–306, title III, §333(d), Nov. 27, 2002, 116 Stat. 2397, provided that: “Nothing in this section \[enacting section 1911 of this title, amending this section and section 1903 of this title, and enacting provisions set out as notes under this section\] shall be construed as affecting any program or project carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] as in effect on the date that precedes the date of the enactment of this Act \[Nov. 27, 2002\].”
 
 #### Increase in Number of Participating Educational Institutions
 

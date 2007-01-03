@@ -54,7 +54,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (3) Actions brought by individuals and businesses
 
-&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
+&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution orany Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
 
 #### (e) Recoupment
 
@@ -80,7 +80,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (ii) Sanctions under Export Administration Act of 1979
 
-&emsp;&emsp;&emsp;The authorities under section 6 of the Export Administration Act of 1979 \[50 App. U.S.C. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 App. U.S.C. 2404(c)(1)\] to a person described in subparagraph (A).
+&emsp;&emsp;&emsp;The authorities under section 6 of the Export Administration Act of 1979 \[50 U.S.C. App. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. App. 2404(c)(1)\] to a person described in subparagraph (A).
 
 #### (iii) International financial assistance
 
@@ -120,11 +120,11 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (iii) Denial of assistance
 
-&emsp;&emsp;&emsp;No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, or extending military credits or making guarantees to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, orextending military credits or making guarantees to a country described in subparagraph (A).
 
 #### (iv) Sanctions under Export Administration Act of 1979
 
-&emsp;&emsp;&emsp;The authorities of section 6 of the Export Administration Act of 1979 \[50 App. U.S.C. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 App. U.S.C. 2404(c)(1)\] to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The authorities of section 6 of the Export Administration Act of 1979 \[50 U.S.C. App. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. App. 2404(c)(1)\] to a country described in subparagraph (A).
 
 #### (v) International financial assistance
 
@@ -166,7 +166,7 @@ The Secretary of State shall deny a visa to, and the Attorney General shall excl
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 
-&emsp;(3) is a corporate officer, principal, shareholder with a controlling interest of an entitywhich has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or
+&emsp;(3) is a corporate officer, principal, shareholder with a controlling interest of an entity which has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or
 
 &emsp;(4) is a spouse, minor child, or agent of a person excludable under paragraph (1), (2), or (3).
 

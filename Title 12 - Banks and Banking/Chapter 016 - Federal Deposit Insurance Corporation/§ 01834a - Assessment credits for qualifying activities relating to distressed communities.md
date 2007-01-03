@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) the amount, during such period, of new originations of qualified loans and other assistance provided for low- and moderate-income persons in distressed communities, or enterprises integrally involved with such neighborhoods, which the Board determines are qualified to be taken into account for purposes of this subsection;
 
-&emsp;&emsp;(B) the amount, during such period, of deposits accepted from persons domiciled in the distressed community, at any office of the institution (including any branch) located in any qualified distressed community, and new originations of any loans and other financial assistance made within that community, except that in no case shall the credit for deposits at any institution or branch exceed the credit for loans and other financial assistance by the bank or branch in the distressed community; and
+&emsp;&emsp;(B) the amount, during such period, of deposits accepted from persons domiciled inthe distressed community, at any office of the institution (including any branch) located in any qualified distressed community, and new originations of any loans and other financial assistance made within that community, except that in no case shall the credit for deposits at any institution or branch exceed the credit for loans and other financial assistance by the bank or branch in the distressed community; and
 
 &emsp;&emsp;(C) any increase during the period in the amount of new equity investments in community development financial institutions.
 
@@ -188,7 +188,7 @@
 
 #### (B) Interim appointment
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term to which such member's predecessor was appointed shall be appointed only for the remainder of such term.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the termto which such member's predecessor was appointed shall be appointed only for the remainder of such term.
 
 #### (C) Continuation of service
 
@@ -238,7 +238,7 @@ No community development financial institution may receive a community enterpris
 
 #### (A) In general
 
-&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) of this section for any semiannual period for which such appropriationis available, determine which institutions shall receive an award.
+&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
 
 #### (B) Priority for support of efforts of CDFI
 
@@ -320,7 +320,7 @@ The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C),
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(D), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is Pub. L.101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§12871 et seq.) and B (§12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§12871 et seq.) and B (§12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (a)(4)(F), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. Title III of the Act is classified generally to subchapter II–A (§1437aaa et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 

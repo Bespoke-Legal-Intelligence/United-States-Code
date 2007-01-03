@@ -4,17 +4,8 @@
 | :--- | ---: |
 | [661\.](%C2%A7%2000661%20-%20Definitions.md) | Definitions. |
 | [662\.](%C2%A7%2000662%20-%20Guarantee%20of%20certificates.md) | Guarantee of certificates. |
-| (a) | Authority of Secretary; prerequisites; procedures; waiver. |
-| (b) | Conditions to guarantee. |
-| (c) | Certificate as administrative expense; priority of certificate. |
-| (d) | Interest rate; date of maturity; other terms and conditions. |
-| (e) | Maximum aggregate principal amount outstanding. |
-| (f) | Rules and regulations. |
 | [663\.](%C2%A7%2000663%20-%20Inspection%20of%20accounts%2C%20books%2C%20etc.%2C%20of%20railroad%20receiving%20financial%20assistance.md) | Inspection of accounts, books, etc., of railroad receiving financial assistance. |
 | [664\.](%C2%A7%2000664%20-%20Issuance%20of%20obligations%20to%20Secretary%20of%20the%20Treasury.md) | Issuance of obligations to Secretary of the Treasury. |
-| (a) | Forms and denominations; maturity dates; terms and conditions; interest rate; purchase and sale of obligations by Secretary of the Treasury; authorization of appropriations. |
-| (b) | Revocation of guarantee; legal effect of guarantee; validity and incontestability of guaranteed certificate. |
-| (c) | Enforcement by Attorney General of rights accruing to United States because of guarantee. |
 | [665\.](%C2%A7%2000665%20-%20Utilization%20of%20services%20and%20facilities%20of%20Federal%20departments%20and%20agencies%3B%20reimbursement%3B%20consultation%20with%20Board%3B%20coordination%20of%E2%80%A6.md) | Utilization of services and facilities of Federal departments and agencies; reimbursement; consultation with Board; coordination of activities with Federal departments and agencies. |
 | [666\.](%C2%A7%2000666%20-%20Court%20supervision%20of%20expenditures%3B%20findings%3B%20report%20to%20Secretary.md) | Court supervision of expenditures; findings; report to Secretary. |
 | [667\.](%C2%A7%2000667%20-%20Audit%20by%20Comptroller%20General%3B%20report%20to%20Congress.md) | Audit by Comptroller General; report to Congress. |

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture may, on the application of the borrower of a loan or loans made under sections 488 to 494 of this title, reduce the unpaid principal balance of such loan or loans to the current fair market value of the land purchased with the proceeds of the loan or loans if—
+The Secretary of Agriculture may, on the application of the borrower of a loan or loans made under sections 488 to 494 of this title, reduce theunpaid principal balance of such loan or loans to the current fair market value of the land purchased with the proceeds of the loan or loans if—
 
 &emsp;(1) the fair market value of the land has declined by at least 25 percent since such land was purchased by the borrower;
 
@@ -14,7 +14,7 @@ The Secretary of Agriculture may, on the application of the borrower of a loan o
 
 #### (1) Appraisal
 
-&emsp;Current fair market value under subsection (a) of this section shall be determined throughan appraisal by an independent qualified fee appraiser, selected by mutual agreement between the borrower and the Secretary of Agriculture.
+&emsp;Current fair market value under subsection (a) of this section shall be determined through an appraisal by an independent qualified fee appraiser, selected by mutual agreement between the borrower and the Secretary of Agriculture.
 
 #### (2) Costs
 

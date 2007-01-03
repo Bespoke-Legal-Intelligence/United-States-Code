@@ -52,7 +52,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (C) Noncompliance
 
-&emsp;&emsp;If an agency determines that a resident subject to the requirement under paragraph\(1) has not complied with the requirement, the agency—
+&emsp;&emsp;If an agency determines that a resident subject to the requirement under paragraph (1) has not complied with the requirement, the agency—
 
 &emsp;&emsp;&emsp;(i) shall notify the resident—
 

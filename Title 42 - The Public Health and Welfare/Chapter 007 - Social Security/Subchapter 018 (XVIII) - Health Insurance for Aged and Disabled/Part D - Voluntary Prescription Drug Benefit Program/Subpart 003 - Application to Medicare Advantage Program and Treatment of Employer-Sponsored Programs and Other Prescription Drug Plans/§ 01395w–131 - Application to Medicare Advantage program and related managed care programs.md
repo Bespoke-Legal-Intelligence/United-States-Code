@@ -6,7 +6,7 @@
 
 &emsp;An MA organization on and after January 1, 2006—
 
-&emsp;&emsp;(A) may not offer an MA plan described in section 1395w–21(a)(2)(A) of this title in an area unless either that plan (or another MA plan offered by the organization in that same service area) includes required prescription drug coverage (as defined in paragraph (2)); and
+&emsp;&emsp;(A) may not offer an MA plan described in section 1395w–21(a)(2)(A) of this title in an area unless either that plan (or another MA plan offered by the organization in thatsame service area) includes required prescription drug coverage (as defined in paragraph (2)); and
 
 &emsp;&emsp;(B) may not offer prescription drug coverage (other than that required under parts A and B of this subchapter) to an enrollee—
 
@@ -38,7 +38,7 @@
 
 #### (3) Discontinuance of MA–PD election during first year of eligibility
 
-&emsp;In applying the second sentence of section 1395w–21(e)(4) of this title in the case of an individual who is electing to discontinue enrollment in an MA–PD plan, the individual shallbe permitted to enroll in a prescription drug plan under part D at the time of the election of coverage under the original medicare fee-for-service program.
+&emsp;In applying the second sentence of section 1395w–21(e)(4) of this title in the case of an individual who is electing to discontinue enrollment in an MA–PD plan, the individual shall be permitted to enroll in a prescription drug plan under part D at the time of the election of coverage under the original medicare fee-for-service program.
 
 #### (4) Rules regarding enrollees in MA plans not providing qualified prescription drug coverage
 
@@ -76,7 +76,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (2) Modification of pharmacy access standard and disclosure requirement
 
-&emsp;If the plan provides coverage for drugs purchased from all pharmacies, without charging additional cost-sharing, and without regard to whether they are participating pharmacies in a network or have entered into contracts or agreements with pharmacies to provide drugs to enrollees covered by the plan, subsections (b)(1)(C) and (k) of section 1395w–104 of this title shall not apply to the plan.
+&emsp;If the plan provides coverage for drugs purchased from all pharmacies, without charging additional cost-sharing, and without regard towhether they are participating pharmacies in a network or have entered into contracts or agreements with pharmacies to provide drugs to enrollees covered by the plan, subsections (b)(1)(C) and (k) of section 1395w–104 of this title shall not apply to the plan.
 
 #### (3) Drug utilization management program and medication therapy management program not required
 

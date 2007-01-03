@@ -108,19 +108,7 @@ Disbursement.—All penalties collected under authority of this subsection shall
 
 Regulations.—The Comptroller of the Currency, the Board, and the Federal Deposit Insurance Corporation shall prescribe regulations establishing such procedures as may be necessary to carry out this subparagraph.
 
-(G)(i) Each executive officer and each stockholder of record who directly or indirectly owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of an insured bank shall make a written report to the board of directors of such bank for any year during which such executive officer or shareholder has outstanding an extension of credit from a bank which maintains a corresponding account in the name of such bank. Such report shall include the following information:
-
-&emsp;(1) the maximum amount of indebtedness to the bank maintaining the correspondent account during such year of (a) such executive officer or stockholder of record, (b) each company controlled by such executive officer or stockholder, or (c) each political or campaign committee the funds or services of which will benefit such executive officer or stockholder, or which is controlled by such executive officer or stockholder;
-
-&emsp;(2) the amount of indebtedness to the bank maintaining the correspondent account outstanding as of a date not more than ten days prior to the date of filing of such report of (a) such executive officer or stockholder of record, (b) each company controlled by such executive officer or stockholder, or (c) each political or campaign committee the funds or services of which will benefit such executive officer or stockholder;
-
-&emsp;(3) the range of interest rates charged on such indebtedness of such executive officer or stockholder of record; and
-
-&emsp;(4) the terms and conditions of such indebtedness of such executive officer or stockholder of record.
-
-(ii) The appropriate Federal banking agencies are authorized to issue rules and regulations, including definitions of terms, to require the reporting and public disclosure of information by any bank or executive officer or principal shareholder thereof concerning any extension of credit by a correspondent bank to the reporting bank's executive officers or principal shareholders, or the related interests of such persons.
-
-(H) For the purpose of this paragraph—
+(G) For the purpose of this paragraph—
 
 &emsp;(i) the term “bank” includes a mutual savings bank, a savings bank, and a savings association (as those terms are defined in section 1813 of this title);
 
@@ -128,13 +116,15 @@ Regulations.—The Comptroller of the Currency, the Board, and the Federal Depos
 
 &emsp;(iii) the terms “control of a company” and “company” have the same meaning as under section 375b of this title.
 
-(I)
+(H)
 
 Notice Under This Section After Separation From Service.—The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such a bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413.)
+(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413; Pub. L. 109–351, title VI, §601(b), Oct. 13, 2006, 120 Stat. 1978.)
 
 #### Amendments
+
+2006—Par. (2)(G) to (I). Pub. L. 109–351 redesignated subpars. (H) and (I) as (G) and (H), respectively, and struck out former subpar. (G) which related to written reporting requirements relating to bank loans to executive officers or stockholders with power to vote more than 10 per centum of any class of voting securities of an insured bank.
 
 1996—Par. (1). Pub. L. 104–208, in concluding provisions, inserted “and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title” after “prohibition”.
 

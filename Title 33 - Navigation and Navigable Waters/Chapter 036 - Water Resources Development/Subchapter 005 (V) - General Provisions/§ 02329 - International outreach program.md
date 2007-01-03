@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to engage in activities to inform the United States maritimeindustry and port authorities of technological innovations abroad that could significantly improve waterborne transportation in the United States, both inland and deep draft. Such activities may include—
+The Secretary is authorized to engage in activities to inform the United States maritime industry and port authorities of technological innovations abroad that could significantly improve waterborne transportation in the United States, both inland and deep draft. Such activities may include—
 
 &emsp;(1) development, monitoring, assessment, and dissemination of information about foreign water transportation and port facilities that could significantly improve water transportation in the United States;
 

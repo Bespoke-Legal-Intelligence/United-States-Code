@@ -10,7 +10,7 @@ A certificate of registration of a mark upon the principal register provided by 
 
 #### (c) Application to register mark considered constructive use
 
-Contingent on the registration of a mark on the principal register provided by this chapter, the filing of the application to register such mark shall constitute constructive use of the mark, conferring a right of priority, nationwide in effect, on or in connection with the goods or services specified in the registration against any other person except for a person whose mark hasnot been abandoned and who, prior to such filing—
+Contingent on the registration of a mark on the principal register provided by this chapter, the filing of the application to register such mark shall constitute constructive use of the mark, conferring a right of priority, nationwide in effect, on or in connection with the goods or services specified in the registration against any other person except for a person whose mark has not been abandoned and who, prior to such filing—
 
 &emsp;(1) has used the mark;
 
@@ -70,7 +70,7 @@ Subsec. (h). Pub. L. 100–667, §109(2), (6), redesignated former subsec. (g) a
 
 1975—Subsecs. (a), (c) to (f). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by theCommissioner, together with printed copies of the drawing and statement of the applicant, to be kept in books for that purpose.
+1962—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of the drawing and statement of the applicant, to be kept in books for that purpose.
 
 Subsec. (d). Pub. L. 87–772, among other charges, removed the requirement of a fee in connection with the voluntary surrender or cancellation of a registration.
 

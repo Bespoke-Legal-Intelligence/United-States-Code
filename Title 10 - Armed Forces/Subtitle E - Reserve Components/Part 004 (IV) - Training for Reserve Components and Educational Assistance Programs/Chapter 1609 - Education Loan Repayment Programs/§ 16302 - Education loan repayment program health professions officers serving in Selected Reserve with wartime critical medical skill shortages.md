@@ -10,7 +10,7 @@
 
 &emsp;(4) a health professions education loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part B of title VIII of such Act (42 U.S.C. 297 et seq.); and
 
-&emsp;(5) a loan made, insured, or guaranteed through a recognized financial or educational institution if that loan was used to finance education regarding a basic professional qualifying degree (as determined under regulationsprescribed by the Secretary of Defense) or graduate education in a health profession that the Secretary of Defense determines to be critically needed in order to meet identified wartime combat medical skill shortages.
+&emsp;(5) a loan made, insured, or guaranteed through a recognized financial or educational institution if that loan was used to finance education regarding a basic professional qualifying degree (as determined under regulations prescribed by the Secretary of Defense) or graduate education in a health profession that the Secretary of Defense determines to be critically needed in order to meet identified wartime combat medical skill shortages.
 
 (b) The Secretary concerned may repay loans described in subsection (a) only in the case of a person who—
 
@@ -24,9 +24,9 @@
 
 (3) The total amount that may be repaid on behalf of any person under this section may not exceed $50,000.
 
-(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before January 1, 2007.
+(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before January 1, 2008.
 
-(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, §613(h), title X, §1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, §613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §611(h), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §§611(h), 654, Oct. 17, 1998, 112 Stat. 2039, 2052; Pub. L. 106–65, div. A, title VI, §611(h), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(h), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §612(b), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §612(b), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §§612(b), 662, Oct. 28, 2004, 118 Stat. 1947, 1974; Pub. L. 109–163, div. A, title VI, §622(b), Jan. 6, 2006, 119 Stat. 3294.)
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, §613(h), title X, §1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, §613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §611(h), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §§611(h), 654, Oct. 17, 1998, 112 Stat. 2039, 2052; Pub. L. 106–65, div. A, title VI, §611(h), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(h), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §612(b), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §612(b), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §§612(b), 662, Oct. 28, 2004, 118 Stat. 1947, 1974; Pub. L. 109–163, div. A, title VI, §622(b), Jan. 6, 2006, 119 Stat. 3294; Pub. L. 109–364, div. A, title VI, §612(b), Oct. 17, 2006, 120 Stat. 2248.)
 
 #### References in Text
 
@@ -36,7 +36,9 @@ The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 194
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–163 substituted “January 1, 2007” for “January 1, 2006”.
+2006—Subsec. (d). Pub. L. 109–364 substituted “January 1, 2008” for “January 1, 2007”.
+
+Pub. L. 109–163 substituted “January 1, 2007” for “January 1, 2006”.
 
 2004—Subsec. (a)(5). Pub. L. 108–375, §662, inserted “a basic professional qualifying degree (as determined under regulations prescribed by the Secretary of Defense) or graduate education in” after “regarding”.
 

@@ -26,7 +26,7 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall have as his principal responsibility the overall supervision (including oversight of policy and resources) within the Department of State of all matters relating to verification and compliance with international arms control, nonproliferation, and disarmament agreements or commitments.
+&emsp;The Assistant Secretary shall have as his principal responsibility the overall supervision (including oversight of policy and resources) within the Department of State of all mattersrelating to verification and compliance with international arms control, nonproliferation, and disarmament agreements or commitments.
 
 #### (2) Participation of the Assistant Secretary
 
@@ -62,11 +62,17 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 &emsp;&emsp;(A) all reports required pursuant to section 2577 of this title;
 
-&emsp;&emsp;(B) so much of the report required under paragraphs (4) through (6) of section 2593a(a) of this title as relates to verification or compliance matters; and
+&emsp;&emsp;(B) so much of the report required under paragraphs (4) through (6) of section 2593a(a) of this title as relates to verification or compliance matters;
 
-&emsp;&emsp;(C) other reports being prepared by the Department of State as of November 29, 1999, relating to arms control, nonproliferation, or disarmament verification or compliance matters.
+&emsp;&emsp;(C) so much of the reports required under section 8003 of this title as relates to verification or compliance matters; and
 
-(Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1112\], Nov. 29, 1999, 113 Stat. 1536, 1501A–486.)
+&emsp;&emsp;(D) other reports being prepared by the Department of State as of November 29, 1999, relating to arms control, nonproliferation, or disarmament verification or compliance matters.
+
+(Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1112\], Nov. 29, 1999, 113 Stat. 1536, 1501A–486; Pub. L. 109–401, title I, §108, Dec. 18, 2006, 120 Stat. 2738.)
+
+#### Amendments
+
+2006—Subsec. (c)(4)(C), (D). Pub. L. 109–401 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 #### Change of Name
 

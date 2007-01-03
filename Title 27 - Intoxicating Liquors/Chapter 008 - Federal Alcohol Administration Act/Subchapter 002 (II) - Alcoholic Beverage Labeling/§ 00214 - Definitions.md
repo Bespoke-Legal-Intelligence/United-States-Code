@@ -20,7 +20,7 @@ As used in this subchapter—
 
 &emsp;(6) The term “health” includes, but is not limited to, the prevention of accidents.
 
-&emsp;(7) The term “person” means an individual, partnership, joint stock company, business trust, association, corporation, or any otherbusiness or legal entity, including a receiver, trustee, or liquidating agent, and also includes any State, any State agency, or any officer or employee thereof.
+&emsp;(7) The term “person” means an individual, partnership, joint stock company, business trust, association, corporation, or any other business or legal entity, including a receiver, trustee, or liquidating agent, and also includes any State, any State agency, or any officer or employee thereof.
 
 &emsp;(8) The term <sup>1</sup> “sale” and “distribution” include sampling or any other distribution not for sale.
 

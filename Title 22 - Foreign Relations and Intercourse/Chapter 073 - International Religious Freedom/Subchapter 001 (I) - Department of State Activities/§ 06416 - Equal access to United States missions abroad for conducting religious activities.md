@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to this section, the Secretary of State shall permit, on terms no less favorable than that accorded other nongovernmental activities unrelated to the conduct of the diplomatic mission, access to the premises of any United States diplomatic mission or consular post by any United States citizen seeking to conduct an activity for religious purposes.
+Subject to this section, the Secretary of State shall permit, on terms no less favorable than that accorded other nongovernmental activities unrelated to the conduct of the diplomatic mission, access to the premises of any United States diplomatic mission or consular post byany United States citizen seeking to conduct an activity for religious purposes.
 
 #### (b) Timing and location
 

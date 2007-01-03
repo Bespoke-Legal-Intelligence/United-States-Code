@@ -54,10 +54,6 @@ Plan.—No Federal agency shall grant any license under a patent or patent appli
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905.)
 
-#### References in Text
-
-The Federal antitrust laws, referred to in subsecs. (a)(4) and (d)(3)(D), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-
 #### Amendments
 
 2002—Subsecs. (d)(2), (f). Pub. L. 107–273 struck out “of the United States Code” after “title 5”.

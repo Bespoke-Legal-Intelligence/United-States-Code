@@ -10,7 +10,7 @@ In addition to the powers and duties vested in him by this chapter, the Director
 
 #### (c) Deputy Director; appointment; functions; compensation
 
-The Director may appoint with the approval of the Board, a Deputy Director who shall performsuch functions as the Director may prescribe and who shall be Acting Director during the absence or incapacity of the Director or in the event of a vacancy in the office of Director. The Deputy Director shall receive basic pay at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+The Director may appoint with the approval of the Board, a Deputy Director who shall perform such functions as the Director may prescribe and who shall be Acting Director during the absence or incapacity of the Director or in the event of a vacancy in the office of Director. The Deputy Director shall receive basic pay at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (d) Restrictions on outside employment activities of Director and Deputy Director
 

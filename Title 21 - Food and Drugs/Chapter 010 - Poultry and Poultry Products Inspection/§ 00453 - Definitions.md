@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
-&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in thejudgment of the Secretary, make such article unfit for human food;
+&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
 &emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title;
 
@@ -50,7 +50,7 @@ For purposes of this chapter—
 
 &emsp;(5) unless it bears a label showing (A) the name and the place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the product in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages or articles not in packages or other containers may be established by regulations prescribed by the Secretary;
 
-&emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;(6) if any word, statement, or other information required by or under authority of thischapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 

@@ -36,7 +36,7 @@ This subchapter, referred to in subsec. (a) after “the provisions of” in two
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (c)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (c)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally tosubchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
+The National Historic Preservation Act, referred to in subsec. (c)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
 
 #### Amendments
 

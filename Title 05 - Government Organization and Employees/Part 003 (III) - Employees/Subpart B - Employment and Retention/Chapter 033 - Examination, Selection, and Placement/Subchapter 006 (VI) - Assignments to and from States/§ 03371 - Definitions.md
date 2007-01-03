@@ -14,9 +14,9 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) any general or special purpose agency of such a political subdivision, instrumentality, or authority; and
 
-&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, includingany Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
+&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of theIndian Self-Determination and Education Assistance Act;
 
-&emsp;(3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Rate Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+&emsp;(3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 
 &emsp;(4) “other organization” means—
 
@@ -28,7 +28,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(D) a federally funded research and development center.
 
-(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1920; amended Pub. L. 93–638, title I, §104(a), formerly §105(a), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(a), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(a), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 100–472, title II, §203(b), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(c), May 24, 1990, 104 Stat. 207; Pub. L. 103–337, div. A, title X, §1068(a), Oct. 5, 1994, 108 Stat. 2852.)
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1920; amended Pub. L. 93–638, title I, §104(a), formerly §105(a), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(a), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(a), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 100–472, title II, §203(b), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(c), May 24, 1990, 104 Stat. 207; Pub. L. 103–337, div. A, title X, §1068(a), Oct. 5, 1994, 108 Stat. 2852; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### References in Text
 
@@ -37,6 +37,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 
 Section 4 of the Indian Self-Determination and Education Assistance Act, referred to in par. (2)(C), is classified to section 450b of Title 25, Indians.
 
 #### Amendments
+
+2006—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1994—Par. (4)(D). Pub. L. 103–337 added subpar. (D).
 

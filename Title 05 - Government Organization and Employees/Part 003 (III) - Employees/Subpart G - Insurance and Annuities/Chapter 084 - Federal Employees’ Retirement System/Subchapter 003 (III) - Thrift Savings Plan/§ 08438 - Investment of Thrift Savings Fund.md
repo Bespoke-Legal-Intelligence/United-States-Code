@@ -12,7 +12,7 @@
 
 &emsp;(5) the term “International Stock Index Investment Fund” means the International Stock Index Investment Fund established under subsection (b)(1)(E);
 
-&emsp;(6) the term “net worth” means capital, paid-in and contributed surplus, unassigned surplus, contingency reserves, group contingency reserves, and special reserves;
+&emsp;(6) the term “net worth” means capital, paid-in and contributed surplus, unassignedsurplus, contingency reserves, group contingency reserves, and special reserves;
 
 &emsp;(7) the term “plan” means an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3));
 
@@ -76,7 +76,7 @@
 
 (2)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which is a reasonably complete representation of the United States equity markets.
 
-(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares ofthat stock by the aggregate market value of all shares of all stocks included in such index.
 
 (3)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which represents the United States equity markets excluding the common stocks included in the Common Stock Index Investment Fund.
 
@@ -106,7 +106,7 @@
 
 (2) Any issuances of obligations to the Government Securities Investment Fund which, solely by reason of the public debt limit are not issued, shall be issued under subsection (e) by the Secretary of the Treasury as soon as such issuances can be issued without exceeding the public debt limit.
 
-(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then beheld by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
+(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then be held by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
 
 (4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
 

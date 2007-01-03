@@ -21,15 +21,6 @@
 |  |  |
 | :--- | ---: |
 | [11221\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Panel%20on%20Alzheimer%27s%20Disease/%C2%A7%2011221%20-%20Establishment%20of%20Panel.md) | Establishment of Panel. |
-| (a) | Composition; nonvoting ex officio members. |
-| (b) | Appointment of members. |
-| (c) | Chairman. |
-| (d) | Term of office; vacancy. |
-| (e) | Quorum; establishment of subcommittees. |
-| (f) | Meetings. |
-| (g) | Executive Secretary; administrative staff and support. |
-| (h) | Compensation; travel expenses. |
-| (i) | Abolishment of Panel; termination. |
 | [11222\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Panel%20on%20Alzheimer%27s%20Disease/%C2%A7%2011222%20-%20Functions%20of%20Panel.md) | Functions of Panel. |
 | [11223\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Panel%20on%20Alzheimer%27s%20Disease/%C2%A7%2011223%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -49,8 +40,6 @@
 |  |  |
 | :--- | ---: |
 | [11251\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20001%20-%20Responsibilities%20of%20National%20Institute%20of%20Mental%20Health/%C2%A7%2011251%20-%20Research%20program%20and%20plan.md) | Research program and plan. |
-| (a) | Grants for research. |
-| (b) | Preparation of plan; contents; revision. |
 | [11252\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20001%20-%20Responsibilities%20of%20National%20Institute%20of%20Mental%20Health/%C2%A7%2011252%20-%20Dissemination.md) | Dissemination. |
 | [11253\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20001%20-%20Responsibilities%20of%20National%20Institute%20of%20Mental%20Health/%C2%A7%2011253%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -61,8 +50,6 @@
 |  |  |
 | :--- | ---: |
 | [11261\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Healthcare%20Research%20and%20Quality/%C2%A7%2011261%20-%20Research%20program.md) | Research program. |
-| (a) | Grants for research. |
-| (b) | Research subjects. |
 | [11262\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Healthcare%20Research%20and%20Quality/%C2%A7%2011262%20-%20Dissemination.md) | Dissemination. |
 | [11263\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Healthcare%20Research%20and%20Quality/%C2%A7%2011263%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -73,9 +60,6 @@
 |  |  |
 | :--- | ---: |
 | [11271\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services/%C2%A7%2011271%20-%20Research%20program%20and%20plan.md) | Research program and plan. |
-| (a) | Grants for research. |
-| (b) | Preparation of plan; contents; revision. |
-| (c) | Consultation for preparation and revision of plan. |
 | [11272\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services/%C2%A7%2011272%20-%20Dissemination.md) | Dissemination. |
 | [11273\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services/%C2%A7%2011273%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 11281 to 11283. Repealed or Transferred. |  |
@@ -88,11 +72,6 @@
 | :--- | ---: |
 | [11291\.](Subchapter%20005%20%28V%29%20-%20Educational%20Activities/%C2%A7%2011291%20-%20Providing%20information%20for%20personnel%20of%20Social%20Security%20Administration.md) | Providing information for personnel of Social Security Administration. |
 | [11292\.](Subchapter%20005%20%28V%29%20-%20Educational%20Activities/%C2%A7%2011292%20-%20Education%20of%20public%2C%20individuals%20with%20Alzheimer%27s%20disease%20and%20their%20families%2C%20and%20health%20and%20long-term%20care%20providers.md) | Education of public, individuals with Alzheimer's disease and their families, and health and long-term care providers. |
-| (a) | Training models grants. |
-| (b) | Educational grants. |
-| (c) | Award of grants. |
-| (d) | Application. |
-| (e) | Coordination. |
 | [11293\.](Subchapter%20005%20%28V%29%20-%20Educational%20Activities/%C2%A7%2011293%20-%20Education%20programs%20for%20safety%20and%20transportation%20personnel.md) | Education programs for safety and transportation personnel. |
 | [11294\.](Subchapter%20005%20%28V%29%20-%20Educational%20Activities/%C2%A7%2011294%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

@@ -1,26 +1,48 @@
 ### §1881a. Information collection
 
-#### (a) Council requests
+#### (a) Collection programs
 
-If a Council determines that additional information (other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations) would be beneficial for developing, implementing, or revising a fishery management plan or for determining whether a fishery is in need of management, the Council may request that the Secretary implement an information collection program for the fishery which would provide the types of information (other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations) specified by the Council. The Secretary shall undertake such an information collection program if he determines that the need is justified, and shall promulgate regulations to implement the program within 60 days after such determination is made. If the Secretary determines that the need for an information collection program is not justified, the Secretary shall inform the Council of the reasons for such determination in writing. The determinations of the Secretary under this subsection regarding a Council request shall be made within a reasonable period of time after receipt of that request.
+#### (1) Council requests
+
+&emsp;If a Council determines that additional information would be beneficial for developing, implementing, or revising a fishery management plan or for determining whether a fishery is in need of management, the Council may request that the Secretary implement an information collection program for the fishery which would provide the types of information specified by the Council. The Secretary shall undertake such an information collection program if he determines that the need is justified, and shall promulgate regulations to implement the program within 60 days after such determination is made. If the Secretary determines that the need for an information collection program is not justified, the Secretary shall inform the Council of the reasons for such determination in writing. The determinations of the Secretary under this paragraph regarding a Council request shall be made within a reasonable period of time after receipt of that request.
+
+#### (2) Secretarial initiation
+
+&emsp;If the Secretary determines that additional information is necessary for developing, implementing, revising, or monitoring a fishery management plan, or for determining whether a fishery is in need of management, the Secretary may, by regulation, implement an information collection or observer program requiring submission of such additional information for the fishery.
 
 #### (b) Confidentiality of information
 
-(1) Any information submitted to the Secretary by any person in compliance with any requirement under this chapter shall be confidential and shall not be disclosed, except—
+(1) Any information submitted to the Secretary, a State fishery management agency, or a marine fisheries commission by any person in compliance with the requirements of this chapter shall be confidential and shall not be disclosed except—
 
-&emsp;(A) to Federal employees and Council employees who are responsible for fishery management plan development and monitoring;
+&emsp;(A) to Federal employees and Council employees who are responsible for fishery management plan development, monitoring, or enforcement;
 
-&emsp;(B) to State or Marine Fisheries Commission employees pursuant to an agreement with the Secretary that prevents public disclosure of the identity or business of any person;
+&emsp;(B) to State or Marine Fisheries Commission employees as necessary to further the Department's mission, subject to a confidentiality agreement that prohibits public disclosure of the identity of business of any person;
 
-&emsp;(C) when required by court order;
+&emsp;(C) to State employees who are responsible for fishery management plan enforcement, if the States employing those employees have entered into a fishery enforcement agreement with the Secretary and the agreement is in effect;
 
-&emsp;(D) when such information is used to verify catch under an individual fishing quota program;
+&emsp;(D) when required by court order;
 
-&emsp;(E) that observer information collected in fisheries under the authority of the North Pacific Council may be released to the public as specified in a fishery management plan or regulation for weekly summary bycatch information identified by vessel, and for haul-specific bycatch information without vessel identification; or
+&emsp;(E) when such information is used by State, Council, or Marine Fisheries Commission employees to verify catch under a limited access program, but only to the extent that such use is consistent with subparagraph (B);
 
-&emsp;(F) when the Secretary has obtained written authorization from the person submitting such information to release such information to persons for reasons not otherwise provided for in this subsection, and such release does not violate other requirements of this chapter.
+&emsp;(F) when the Secretary has obtained written authorization from the person submitting such information to release such information to persons for reasons not otherwise provided for in this subsection, and such release does not violate other requirements of this chapter;
 
-(2) The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this chapter, except that the Secretary may release or make public any such information in any aggregate or summary form which does not directly or indirectly disclose the identity or business of any person who submits such information. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any information submitted in compliance with any requirement or regulation under this chapter or the use, release, or publication of bycatch information pursuant to paragraph (1)(E).
+&emsp;(G) when such information is required to be submitted to the Secretary for any determination under a limited access program; or
+
+&emsp;(H) in support of homeland and national security activities, including the Coast Guard's homeland security missions as defined in section 468(a)(2) of title 6.
+
+(2) Any observer information shall be confidential and shall not be disclosed, except in accordance with the requirements of subparagraphs (A) through (H) of paragraph (1), or—
+
+&emsp;(A) as authorized by a fishery management plan or regulations under the authority of the North Pacific Council to allow disclosure to the public of weekly summary bycatch information identified by vessel or for haul-specific bycatch information without vessel identification;
+
+&emsp;(B) when such information is necessary in proceedings to adjudicate observer certifications; or
+
+&emsp;(C) as authorized by any regulations issued under paragraph (3) allowing the collection of observer information, pursuant to a confidentiality agreement between the observers, observer employers, and the Secretary prohibiting disclosure of the information by the observers or observer employers, in order—
+
+&emsp;&emsp;(i) to allow the sharing of observer information among observers and between observers and observer employers as necessary to train and prepare observers for deployments on specific vessels; or
+
+&emsp;&emsp;(ii) to validate the accuracy of the observer information collected.
+
+(3) The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this chapter, except that the Secretary may release or make public any such information in any aggregate or summary form which does not directly or indirectly disclose the identity or business of any person who submits such information. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any information submitted in compliance with any requirement or regulation under this chapter or the use, release, or publication of bycatch information pursuant to paragraph (2)(A).
 
 #### (c) Restriction on use of certain information
 
@@ -50,9 +72,11 @@ Notwithstanding any other provision of law, the Secretary may provide a grant, c
 
 (3) The Secretary shall undertake efforts to expand annual fishery resource assessments in all regions of the Nation.
 
-(Pub. L. 94–265, title IV, §402, as added Pub. L. 104–297, title II, §203, Oct. 11, 1996, 110 Stat. 3607.)
+(Pub. L. 94–265, title IV, §402, as added Pub. L. 104–297, title II, §203, Oct. 11, 1996, 110 Stat. 3607; amended Pub. L. 109–479, §3(d)(1)(A), title II, §§202, 203(a), Jan. 12, 2007, 120 Stat. 3578, 3612, 3613.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (b)(1), (3) and (c)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (c)(1), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
@@ -61,4 +85,14 @@ The Endangered Species Act, referred to in subsec. (c)(1), probably means the En
 #### Prior Provisions
 
 A prior section 402 of Pub. L. 94–265 repealed former sections 1081 to 1086 and 1091 to 1094 of this title, prior to being amended generally by Pub. L. 104–297.
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 109–479, §202, substituted “Collection programs” for “Council requests” in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out “(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)” after “additional information” and “types of information”, in last sentence, substituted “paragraph” for “subsection”, and added par. (2).
+
+Subsec. (b). Pub. L. 109–479, §203(a)(1), (2), added pars. (1) and (2), redesignated former par. (2) as (3) and realigned margins, and struck out former par. (1) which related to confidentiality of information submitted to the Secretary and exceptions.
+
+Subsec. (b)(1)(D). Pub. L. 109–479, §3(d)(1)(A), substituted “a limited access privilege” for “an individual fishing quota”.
+
+Subsec. (b)(3). Pub. L. 109–479, §203(a)(3), substituted “(2)(A).” for “(1)(E).”
 

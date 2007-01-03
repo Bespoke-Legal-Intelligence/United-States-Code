@@ -6,7 +6,3 @@ The purchasers of lands sold under the provisions of this section, or the heirs 
 
 (Pub. L. 91–310, §2, July 7, 1970, 84 Stat. 411.)
 
-#### References in Text
-
-The reclamation law, referred to in text, includes the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
-

@@ -30,37 +30,14 @@
 | :--- | ---: |
 | 773\. | Definitions. |
 | 773a. | International Pacific Halibut Commission. |
-| (a) | United States Commissioners. |
-| (b) | Alternate United States Commissioners. |
 | 773b. | Acceptance or rejection of Commission recommendations. |
 | 773c. | General responsibility. |
-| (a) | Secretary of Commerce. |
-| (b) | Adoption of regulations; cooperation with Canadian officials. |
-| (c) | Regional Fishery Management Council involvement. |
 | 773d. | Cooperation of Federal agencies. |
 | 773e. | Prohibited acts. |
 | 773f. | Civil penalties. |
-| (a) | Liability; continuing violations; notice; determination of amount. |
-| (b) | Judicial review. |
-| (c) | Recovery of assessed penalties by Attorney General. |
-| (d) | Compromise, modification, and remission of penalties. |
 | 773g. | Crimes and criminal penalties. |
-| (a) | Offenses. |
-| (b) | Fines; imprisonment. |
-| (c) | Federal jurisdiction. |
 | 773h. | Forfeitures. |
-| (a) | Civil forfeiture proceeding. |
-| (b) | United States district court jurisdiction. |
-| (c) | Seizure of forfeited property. |
-| (d) | Bond or other security; disposal of seized fish. |
-| (e) | Presumption of violation. |
 | 773i. | Administration and enforcement. |
-| (a) | Secretary of Commerce and Secretary of department in which Coast Guard is operating. |
-| (b) | Arrest, search and inspection, seizure; execution of warrants or other process. |
-| (c) | Citation of owner or operator of offending vessel. |
-| (d) | United States district court jurisdiction. |
-| (e) | Witnesses; records and files. |
-| (f) | Investigations by Secretary of Commerce; powers; process. |
 | 773j. | Authorization of appropriations. |
 | 773k. | Location of office space and other facilities on or near University of Washington campus in State of Washington. |
 

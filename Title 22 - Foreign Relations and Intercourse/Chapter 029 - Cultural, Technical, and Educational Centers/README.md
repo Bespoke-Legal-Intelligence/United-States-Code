@@ -8,9 +8,6 @@
 | [2054\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002054%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
 | [2055\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002055%20-%20Duties%20of%20Secretary%20of%20State%3B%20establishment%20and%20operation%20of%20educational%20institution%3B%20grants%2C%20fellowships%2C%20and%20scholarships%3B%20availability%E2%80%A6.md) | Duties of Secretary of State; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities. |
 | [2056\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002056%20-%20Administration.md) | Administration. |
-| (a) | Authority. |
-| (b) | Gifts, bequests, and devises. |
-| (c) | Report to Congress. |
 | [2057\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002057%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,11 +25,6 @@
 |  |  |
 | :--- | ---: |
 | [2075\.](Subchapter%20003%20%28III%29%20-%20Dante%20B.%20Fascell%20North-South%20Center/%C2%A7%2002075%20-%20Center%20for%20Cultural%20and%20Technical%20Interchange%20Between%20North%20and%20South.md) | Center for Cultural and Technical Interchange Between North and South. |
-| (a) | Short title. |
-| (b) | Purpose. |
-| (c) | Dante B. Fascell North-South Center. |
-| (d) | Authorities. |
-| (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,11 +33,6 @@
 |  |  |
 | :--- | ---: |
 | [2077\.](Subchapter%20004%20%28IV%29%20-%20International%20University/%C2%A7%2002077%20-%20International%20University%20for%20the%20Americas.md) | International University for the Americas. |
-| (a) | Purpose. |
-| (b) | Establishment. |
-| (c) | Faculty, students, and curriculum. |
-| (d) | Annual report. |
-| (e) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,11 +41,6 @@
 |  |  |
 | :--- | ---: |
 | [2078\.](Subchapter%20005%20%28V%29%20-%20International%20Center%20for%20Middle%20Eastern-Western%20Dialogue/%C2%A7%2002078%20-%20International%20Center%20for%20Middle%20Eastern-Western%20Dialogue%20Trust%20Fund.md) | International Center for Middle Eastern-Western Dialogue Trust Fund. |
-| (a) | Establishment. |
-| (b) | Duties of Secretary of State; investments. |
-| (c) | Authorization of appropriations. |
-| (d) | Authorization of additional appropriations. |
-| (e) | Ownership of Center location. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

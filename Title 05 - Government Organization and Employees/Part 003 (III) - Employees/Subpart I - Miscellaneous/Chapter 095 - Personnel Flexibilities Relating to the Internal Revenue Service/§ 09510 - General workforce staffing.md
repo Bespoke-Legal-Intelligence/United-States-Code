@@ -8,7 +8,7 @@
 
 &emsp;(C) the employee's performance under such term appointment or appointments met established retention standards, or, if not covered by a performance management system established under section 9508, was rated at the fully successful level or higher (or equivalent thereof); and
 
-&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential for subsequent conversion to a permanent appointment.
+&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential forsubsequent conversion to a permanent appointment.
 
 (2) An appointment under this section may be made only to a position in the same line of work as a position to which the employee received a term appointment under competitive procedures.
 

@@ -28,7 +28,7 @@ Pub. L. 102–580, title II, §217, Oct. 31, 1992, 106 Stat. 4833, provided that
 
 “(a)
 
-In General.—The Secretary is authorized to provide assistance to non-Federal interests for carryingout projects described in subsection (c) for the beneficial reuse of waste water. Such assistance may be in the form of technical and planning and design assistance. If the Secretary is to provide any design or engineering assistance to carry out a project under this section, the Secretary shall obtain by procurement from private sources all services necessary for the Secretary to provide such assistance, unless the Secretary finds that—
+In General.—The Secretary is authorized to provide assistance to non-Federal interests for carrying out projects described in subsection (c) for the beneficial reuse of waste water. Such assistance may be in the form of technical and planning and design assistance. If the Secretary is to provide any design or engineering assistance to carry out a project under this section, the Secretary shall obtain by procurement from private sources all services necessary for the Secretary to provide such assistance, unless the Secretary finds that—
 
 &emsp;“(1) the service would require the use of a new technology unavailable in the private sector; or
 

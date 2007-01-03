@@ -10,7 +10,7 @@ Of the total amount appropriated under this subchapter in any fiscal year—
 
 #### (b) Federal share
 
-The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
+The Federal share of a grant made under this subchapter may not exceed 75 percent of thetotal costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
 
 #### (c) Local allocation
 
@@ -33,4 +33,8 @@ In this section, the term “residential substance abuse treatment program” me
 2006—Subsec. (d). Pub. L. 109–162 added subsec. (d).
 
 2002—Subsec. (c). Pub. L. 107–273 added subsec. (c).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 effective Oct. 1, 2006, see section 1147 of Pub. L. 109–162, set out as a note under section 3796ff–1 of this title.
 

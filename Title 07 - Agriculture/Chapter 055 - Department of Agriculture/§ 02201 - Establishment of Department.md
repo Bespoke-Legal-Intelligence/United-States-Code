@@ -54,7 +54,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(g) The functions of the Secretary of the Interior under the Act of June 15, 1926 (44 Stat. 746), with respect to exchanges of State lands for national forest lands in New Mexico.
 
-“(h) The functions of the Secretary of the Interior under the Act of December 7, 1942 (56 Stat. 1042), with respect to exchange transactions in which lands underthe jurisdiction of the Secretary of Agriculture are exchanged for State lands in Minnesota which are to be under the jurisdiction of the Secretary of Agriculture after their acquisition by the United States.
+“(h) The functions of the Secretary of the Interior under the Act of December 7, 1942 (56 Stat. 1042), with respect to exchange transactions in which lands under the jurisdiction of the Secretary of Agriculture are exchanged for State lands in Minnesota which are to be under the jurisdiction of the Secretary of Agriculture after their acquisition by the United States.
 
 “(i) The function of the Secretary of the Interior (originally vested in the Commissioner of the General Land Office) under section 6 of the Act of April 28, 1930 (46 Stat. 257; 43 U.S.C. 872), with respect to execution of quitclaim deeds for lands conveyed to the United States in connection with exchange transactions involving lands under the jurisdiction of the Secretary of Agriculture.
 
@@ -62,7 +62,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(k) The functions of the Secretary of the Interior under section 10 of the Act of March 1, 1911 (36 Stat. 962; 16 U.S.C. 519), with respect to sales of small tracts of acquired national forest lands found chiefly valuable for agriculture.
 
-“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of 1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950 (64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
+“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950 (64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
 
 “
 
@@ -96,7 +96,7 @@ I74Section 1. Transfer of Functions to the Secretary
 
 #### Sec. 3. Administrative Assistant Secretary
 
-\[Repealed. Pub. L. 97–325, §8(d), Oct. 15, 1982, 96 Stat. 1606. Section authorized the appointment of an Administrative Assistant Secretary of Agriculture. See section 2212c of this title.
+\[Repealed. Pub. L. 97–325, §8(d), Oct. 15, 1982, 96 Stat. 1606. Section authorized the appointment of an Administrative Assistant Secretary of Agriculture. See section 2212c of this title.\]
 
 #### Sec. 4. Delegation of Functions
 

@@ -18,7 +18,7 @@ An identical provision is contained in Pub. L. 93–651, title II, §208(a), Nov
 
 #### Preference to Blind in Selecting Personnel
 
-Pub. L. 93–516, title II, §208(c), Dec. 7, 1974, 88 Stat. 1629, provided that: “In selecting personnel to fill any position under this section \[authorizing assignment of11 additional full-time personnel to the Office for the Blind and Visually Handicapped of the Rehabilitation Service Administration of the Department of Health, Education, and Welfare under subsecs. (a) and (b) of Pub. L. 93–516\], the Secretary of Health, Education, and Welfare \[now Secretary of Education\] shall give preference to blind individuals.”
+Pub. L. 93–516, title II, §208(c), Dec. 7, 1974, 88 Stat. 1629, provided that: “In selecting personnel to fill any position under this section \[authorizing assignment of 11 additional full-time personnel to the Office for the Blind and Visually Handicapped of the Rehabilitation Service Administration of the Department of Health, Education, and Welfare under subsecs. (a) and (b) of Pub. L. 93–516\], the Secretary of Health, Education, and Welfare \[now Secretary of Education\] shall give preference to blind individuals.”
 
 An identical provision is contained in Pub. L. 93–651, title II, §208(c), Nov. 21, 1974, 89 Stat. 2–14.
 

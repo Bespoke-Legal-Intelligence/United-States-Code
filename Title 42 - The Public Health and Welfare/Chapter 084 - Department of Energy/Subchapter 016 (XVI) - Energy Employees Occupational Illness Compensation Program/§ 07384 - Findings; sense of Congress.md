@@ -64,7 +64,7 @@ Elements.—The update shall—
 
 &emsp;“(1) for each facility for which such report found that insufficient information was available to determine whether significant residual contamination was present, determine whether significant residual contamination was present;
 
-&emsp;“(2) for each facility for which such report found that significant residual contamination remained present as of the date of the report, determine thedate on which such contamination ceased to be present;
+&emsp;“(2) for each facility for which such report found that significant residual contamination remained present as of the date of the report, determine the date on which such contamination ceased to be present;
 
 &emsp;“(3) for each facility for which such report found that significant residual contamination was present but for which the Director has been unable to determine the extent to which such contamination is attributable to atomic weapons-related activities, identify the specific dates of coverage attributable to such activities and, in so identifying, presume that such contamination is attributable to such activities until there is evidence of decontamination of residual contamination identified with atomic weapons-related activities;
 
@@ -174,7 +174,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (d) <i>Attorney General</i>. The Attorney General shall:
 
-(i) Develop procedures to notify, to the extent possible, each claimant (or the survivor of that claimant if deceased) whose claim for compensation under section 5 of the Radiation Exposure Compensation Act \[Pub. L. 101–426, 42 U.S.C. 2210 note\] has been or is approved by the Department of Justice, of the availability of supplemental compensation and benefits under the Energy Employees Occupational Illness Compensation Program;
+(i) Develop procedures to notify, to the extent possible, each claimant (or the survivor of that claimant if deceased) whose claim for compensation under section 5 of the Radiation Exposure Compensation Act\[Pub. L. 101–426, 42 U.S.C. 2210 note\] has been or is approved by the Department of Justice, of the availability of supplemental compensation and benefits under the Energy Employees Occupational Illness Compensation Program;
 
 (ii) Identify and notify eligible covered uranium employees or their survivors of the availability of supplemental compensation under the Program; and
 

@@ -8,133 +8,19 @@ Property Subject to Criminal Forfeiture.—A person who is convicted of an offen
 
 &emsp;(2) any property, real or personal, constituting or traceable to gross profits or other proceeds obtained from such offense; and
 
-&emsp;(3) any property, real or personal, used or intended to be used to commit or to promote thecommission of such offense, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.
+&emsp;(3) any property, real or personal, used or intended to be used to commit or to promote the commission of such offense.
 
-(b)
+(b) The provisions of section 413 of the Controlled Substances Act (21 U.S.C. 853), with the exception of subsections (a) and (d), shall apply to the criminal forfeiture of property pursuant to subsection (a).
 
-Third Party Transfers.—All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (m) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
+(c) Any property subject to forfeiture pursuant to subsection (a) may be forfeited to the United States in a civil case in accordance with the procedures set forth in chapter 46 of this title.
 
-(c)
-
-Protective Orders.—(1) Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action to preserve the availability of property described in subsection (a) of this section for forfeiture under this section—
-
-&emsp;(A) upon the filing of an indictment or information charging a violation of this chapter for which criminal forfeiture may be ordered under this section and alleging that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section; or
-
-&emsp;(B) prior to the filing of such an indictment or information, if, after notice to persons appearing to have an interest in the property and opportunity for a hearing, the court determines that—
-
-&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
-
-&emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered;
-
-> &emsp;except that an order entered under subparagraph (B) shall be effective for not more than 90 days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
-
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 10 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
-
-(3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
-
-(d)
-
-Warrant of Seizure.—The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (c) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
-
-(e)
-
-Order of Forfeiture.—The court shall order forfeiture of property referred to in subsection (a) if—
-
-&emsp;(1) the trier of fact determines, beyond a reasonable doubt, that such property is subject to forfeiture; and
-
-&emsp;(2) with respect to property referred to in subsection (a)(3), if the court exercises the court's discretion under that subsection.
-
-(f)
-
-Execution.—Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the court shall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may be used to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
-
-(g)
-
-Disposition of Property.—Following the seizure of property ordered forfeited under this section, the Attorney General shall destroy or retain for official use any property described in paragraph (1) of subsection (a) and shall direct the disposition of any property described in paragraph (2) or (3) of subsection (a) by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or person acting in concert with him or on his behalf, the court may restrain or stay the sale ordisposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
-
-(h)
-
-Authority of Attorney General.—With respect to property ordered forfeited under this section, the Attorney General is authorized to—
-
-&emsp;(1) grant petitions for mitigation or remission of forfeiture, restore forfeited property to victims of a violation of this chapter, or take any other action to protect the rights of innocent persons which is in the interest of justice and which is not inconsistent with the provisions of this section;
-
-&emsp;(2) comprise claims arising under this section;
-
-&emsp;(3) award compensation to persons providing information resulting in a forfeiture under this section;
-
-&emsp;(4) direct the disposition by the United States, under section 616 of the Tariff Act of 1930, of all property ordered forfeited under this section by public sale or any other commercially feasible means, making due provision for the rights of innocent persons; and
-
-&emsp;(5) take appropriate measures necessary to safeguard and maintain property ordered forfeited under this section pending its disposition.
-
-(i)
-
-Bar on Intervention.—Except as provided in subsection (<i>l</i>) of this section, no party claiming an interest in property subject to forfeiture under this section may—
-
-&emsp;(1) intervene in a trial or appeal of a criminal case involving the forfeiture of such property under this section; or
-
-&emsp;(2) commence an action at law or equity against the United States concerning the validity of his alleged interest in the property subsequent to the filing of an indictment or information alleging that the property is subject to forfeiture under this section.
-
-(j)
-
-Jurisdiction To Enter Orders.—The district courts of the United States shall have jurisdiction to enter orders as provided in this section without regard to the location of any property which may be subject to forfeiture under this section or which has been ordered forfeited under this section.
-
-(k)
-
-Depositions.—In order to facilitate the identification and location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring property forfeited to the United States, the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, or other material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
-
-(<i>l</i>)
-
-Third Party Interests.—(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
-
-(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within 30 days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
-
-(3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
-
-(4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within 30 days of the filing of the petition. The court may consolidate the hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
-
-(5) At the hearing, the petitioner may testify and present evidence and witnesses on his own behalf, and cross-examine witnesses who appear at the hearing. The United States may present evidence and witnesses in rebuttal and in defense of its claim to the property and cross-examine witnesses who appear at the hearing. In addition to testimony and evidence presented at the hearing, the court shall consider the relevant portions of the record of the criminal case which resulted in the order of forfeiture.
-
-(6) If, after the hearing, the court determines that the petitioner has established by a preponderance of the evidence that—
-
-&emsp;(A) the petitioner has a legal right, title, or interest in the property, and such right, title, or interest renders the order of forfeiture invalid in whole or in part because the right, title, or interest was vested in the petitioner rather than the defendant or was superior to any right, title, or interest of the defendant at the time of the commission of the acts which gave rise to the forfeiture of the property under this section; or
-
-&emsp;(B) the petitioner is a bona fide purchaser for value of the right, title, or interest in the property and was at the time of purchase reasonably without cause to believe that the property was subject to forfeiture under this section;
-
-> the court shall amend the order of forfeiture in accordance with its determination.
-
-(7) Following the court's disposition of all petitions filed under this subsection, or if no such petitions are filed following the expiration of the period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
-
-(m)
-
-Construction.—This section shall be liberally construed to effectuate its remedial purposes.
-
-(n)
-
-Substitute Assets.—If any of the property described in subsection (a), as a result of any act or omission of the defendant—
-
-&emsp;(1) cannot be located upon the exercise of due diligence;
-
-&emsp;(2) has been transferred or sold to, or deposited with, a third party;
-
-&emsp;(3) has been placed beyond the jurisdiction of the court;
-
-&emsp;(4) has been substantially diminished in value; or
-
-&emsp;(5) has been commingled with other property which cannot be divided without difficulty;
-
-> the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).
-
-(Added Pub. L. 100–690, title VII, §7522(a), Nov. 18, 1988, 102 Stat. 4490; amended Pub. L. 101–647, title XXXV, §3549, Nov. 29, 1990, 104 Stat. 4926.)
-
-#### References in Text
-
-The Federal Rules of Evidence, referred to in subsec. (c)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-Section 616 of the Tariff Act of 1930, referred to in subsec. (h)(4), is classified to section 1616a of Title 19, Customs Duties.
-
-The Federal Rules of Criminal Procedure, referred to in subsec. (k), are set out in the Appendix to this title.
+(Added Pub. L. 100–690, title VII, §7522(a), Nov. 18, 1988, 102 Stat. 4490; amended Pub. L. 101–647, title XXXV, §3549, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, §505(a), July 27, 2006, 120 Stat. 629.)
 
 #### Amendments
+
+2006—Subsec. (a)(3). Pub. L. 109–248, §505(a)(1), substituted period at end for “, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.”
+
+Subsecs. (b) to (n). Pub. L. 109–248, §505(a)(2), added subsecs. (b) and (c) and struck out former subsecs. (b) to (n) which related, respectively, to third party transfers, protective orders, warrant of seizure, order of forfeiture, execution of order, disposition of property, authority of Attorney General, bar on intervention, jurisdiction to enter orders, depositions, third party interests, construction of section, and substitute assets.
 
 1990—Subsec. (h)(4). Pub. L. 101–647 substituted “under section 616 of the Tariff Act of 1930” for “in accordance with the provisions of section 1616, title 19, United States Code”.
 

@@ -26,7 +26,7 @@
 
 #### (2) Nature of relief
 
-&emsp;The relief that the President is authorized to provide under this subsection with respect to imports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
+&emsp;The relief that the President is authorized to provide under this subsection with respect toimports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
 
 &emsp;&emsp;(A) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
 

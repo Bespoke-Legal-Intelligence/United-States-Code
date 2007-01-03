@@ -42,7 +42,7 @@ Demonstration Projects Authorized.—To promote efficiencies through the use of 
 
 &emsp;(2) in implementing such a demonstration project, shall utilize, to the maximum extent possible, the contracting authority of the Small Business Administration's section 8(a) program;
 
-&emsp;(3) shall, to the maximum extent possible, acquire or construct such housing throughcontracts with small business concerns qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)) that have their principal place of business in the State of Alaska; and
+&emsp;(3) shall, to the maximum extent possible, acquire or construct such housing through contracts with small business concerns qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)) that have their principal place of business in the State of Alaska; and
 
 &emsp;(4) shall report to Congress by September 1 of each year on the progress of activities under such demonstration projects.
 

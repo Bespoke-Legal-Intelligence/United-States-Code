@@ -10,7 +10,7 @@ Ombudsman.—
 
 &emsp;(1) The corporation shall hire and provide salary, benefits, and administrative expenses for an ombudsman for athletes, who shall—
 
-&emsp;&emsp;(A) provide independent advice to athletes at no cost about the applicable provisions of this chapter and the constitution and bylaws of the corporation, national governing bodies, a <sup>1</sup> paralympic sports organizations, international sports federations, the International Olympic Committee, the International Paralympic Committee, and the Pan-American Sports Organization, and with respect to the resolution of any dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, world championship competition or other protected competition as defined in the constitution and bylaws of the corporation;
+&emsp;&emsp;(A) provide independent advice to athletes at no cost about the applicable provisions of this chapter and the constitution and bylaws of the corporation, national governing bodies, paralympic sports organizations, international sports federations, the International Olympic Committee, the International Paralympic Committee, and the Pan-American Sports Organization, and with respect to the resolution of any dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, world championship competition or other protected competition as defined inthe constitution and bylaws of the corporation;
 
 &emsp;&emsp;(B) assist in mediating any such disputes; and
 
@@ -34,7 +34,7 @@ Ombudsman.—
 
 &emsp;&emsp;(iii) the corporation's executive committee fully considers the advice and counsel of the Athletes’ Advisory Council prior to deciding whether or not to terminate the employment of such individual.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 105–277, div. C, title I, §142(h), 112 Stat. 2681–605.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 105–277, div. C, title I, §142(h), 112 Stat. 2681–605; Pub. L. 109–284, §5(17), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -54,6 +54,8 @@ Sept. 21, 1950, ch. 975, title I, §114, as added Nov. 8, 1978, Pub. L. 95–606
 
 #### Amendments
 
+2006—Subsec. (b)(1)(A). Pub. L. 109–284 struck out “a” before “paralympic sports organizations”.
+
 1998—Subsec. (a). Pub. L. 105–277, §142(h)(1), designated existing provisions as subsec. (a), and inserted heading.
 
 Pub. L. 105–277, §142(h)(2), inserted “the Paralympic Games,” before “the Pan-American Games”.
@@ -61,6 +63,4 @@ Pub. L. 105–277, §142(h)(2), inserted “the Paralympic Games,” before “t
 Pub. L. 105–277, §142(h)(3), inserted at end “In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, or the Pan-American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes’ Advisory Council, has provided a sworn statement in writing executed by an officer of the corporation to such court that its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.”
 
 Subsec. (b). Pub. L. 105–277, §142(h)(4), added subsec. (b).
-
-<i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
 

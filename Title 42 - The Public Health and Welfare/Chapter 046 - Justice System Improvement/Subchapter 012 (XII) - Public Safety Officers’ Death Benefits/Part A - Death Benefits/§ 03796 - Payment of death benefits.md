@@ -18,7 +18,7 @@ In any case in which the Bureau of Justice Assistance (hereinafter in this subch
 
 &emsp;(5) if none of the above, to the parent or parents of such officer in equal shares.
 
-&emsp;(6) The public safety agency, organization, or unit responsible for maintaining on file anexecuted designation of beneficiary or recently executed life insurance policy pursuant to paragraph (4) shall maintain the confidentiality of such designation or policy in the same manner as it maintains personnel or other similar records of the officer.
+&emsp;(6) The public safety agency, organization, or unit responsible for maintaining on file an executed designation of beneficiary or recently executed life insurance policy pursuant to paragraph (4) shall maintain the confidentiality of such designation or policy in the same manner as it maintains personnel or other similar records of the officer.
 
 #### (b) Benefits for permanent and total disability
 
@@ -90,7 +90,7 @@ For purposes of subsection (k) of this section, “nonroutine stressful or stren
 
 The Bureau may suspend or end collection action on an amount disbursed pursuant to a statute enacted retroactively or otherwise disbursed in error under subsection (a) or (c) of this section, where such collection would be impractical, or would cause undue hardship to a debtor who acted in good faith.
 
-(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098;amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, §2(b), June 24, 2002, 116 Stat. 719; Pub. L. 108–182, §2, Dec. 15, 2003, 117 Stat. 2649; Pub. L. 109–162, title XI, §1164(c)–(e), Jan. 5, 2006, 119 Stat. 3120, 3121.)
+(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, §2(b), June 24, 2002, 116 Stat. 719; Pub. L. 108–182, §2, Dec. 15, 2003, 117 Stat. 2649; Pub. L. 109–162, title XI, §1164(c)–(e), Jan. 5, 2006, 119 Stat. 3120, 3121.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236
 
 2006—Subsec. (a)(4). Pub. L. 109–162, §1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer's most recently executed life insurance policy, provided that such individual survived such officer; or”.
 
-Subsec. (a)(6). Pub. L. 109–162, §1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
+Subsec. (a)(6). Pub. L. 109–162, §1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a))by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
 
 Subsec. (m). Pub. L. 109–162, §1164(c), added subsec. (m).
 

@@ -18,7 +18,7 @@
 
 #### (2) Advisory Board
 
-&emsp;There is established an Advisory Board to assist and advise the Board with respect to itsduties under this subchapter, that shall consist of 15 members appointed—
+&emsp;There is established an Advisory Board to assist and advise the Board with respect to its duties under this subchapter, that shall consist of 15 members appointed—
 
 &emsp;&emsp;(A) in the case of the initial such members of the Advisory Board, by the leaders of the Senate and House of Representatives making the appointments under paragraph (1), from recommendations received from organizations and entities involved in the arts such as businesses, civic and cultural organizations, and the Arts Education Partnership steering committee; and
 

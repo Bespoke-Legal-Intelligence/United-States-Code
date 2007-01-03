@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 109–8, §437, added subsec. (e) and struck out former sub
 
 &emsp;&emsp;“(A) reduce the 100-day period or the 160-day period specified in paragraph (1) or (2) for cause; and
 
-&emsp;&emsp;“(B) increase the 100-day period specified in paragraph (1) if the debtor shows that the need for anincrease is caused by circumstances for which the debtor should not be held accountable.”
+&emsp;&emsp;“(B) increase the 100-day period specified in paragraph (1) if the debtor shows that the need for an increase is caused by circumstances for which the debtor should not be held accountable.”
 
 1994—Subsec. (e). Pub. L. 103–394 added subsec. (e).
 

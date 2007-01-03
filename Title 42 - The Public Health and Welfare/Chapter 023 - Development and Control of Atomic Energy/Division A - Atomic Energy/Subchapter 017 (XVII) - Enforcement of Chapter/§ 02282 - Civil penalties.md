@@ -20,7 +20,3 @@ On the request of the Commission, the Attorney General is authorized to institut
 
 1980—Subsec. (a). Pub. L. 96–295 substituted $100,000 penalty limitation per violation for $5,000 limit per violation and $25,000 limit for all violations taking place within any thirty consecutive day period.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

@@ -24,7 +24,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (2) Discretionary application to additional facilities
 
-&emsp;The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwiseuses a toxic chemical listed under subsection (c) of this section if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
+&emsp;The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwise uses a toxic chemical listed under subsection (c) of this section if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
 
 #### (c) Toxic chemicals covered
 
@@ -64,7 +64,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;&emsp;&emsp;(iii) its toxicity and tendency to bioaccumulate in the environment,
 
-> &emsp;&emsp;a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described in subsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
+> &emsp;&emsp;a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described insubsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
 
 > &emsp;A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or other population studies, available to the Administrator.
 
@@ -74,7 +74,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (4) Effective date
 
-&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender <sup>1</sup> year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (e) Petitions
 
@@ -136,7 +136,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Use of available data
 
-&emsp;In order to provide the information required under this section, the owner or operator of a facility may use readily available data (including monitoring data) collected pursuant to other provisions of law, or, where such data are not readily available, reasonable estimates of the amounts involved. Nothing in this section requires the monitoring or measurement of the quantities, concentration, or frequency of any toxic chemical released into the environment beyond that monitoring and measurement required under other provisions of law or regulation. In order to assure consistency, the Administrator shall require that data be expressed in common units.
+&emsp;In order to provide the information required under this section, the owner or operator of afacility may use readily available data (including monitoring data) collected pursuant to other provisions of law, or, where such data are not readily available, reasonable estimates of the amounts involved. Nothing in this section requires the monitoring or measurement of the quantities, concentration, or frequency of any toxic chemical released into the environment beyond that monitoring and measurement required under other provisions of law or regulation. In order to assure consistency, the Administrator shall require that data be expressed in common units.
 
 #### (h) Use of release form
 

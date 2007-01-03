@@ -16,7 +16,7 @@ The report described in subsection (a) of this section shall be exempt from any 
 
 2002—Subsec. (a). Pub. L. 107–306, §811(b)(1)(E)(i), inserted at end “The date for the submittal of the report shall be the date provided in section 415b of this title.”
 
-Pub. L. 107–306, §353(b)(1)(B), substituted “congressional intelligence committees” for “Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives”.
+Pub. L. 107–306, §353(b)(1)(B), substituted “congressional intelligence committees” for “Select Committeeon Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives”.
 
 Subsec. (b). Pub. L. 107–306, §811(b)(1)(E)(ii), struck out at end “The first such report shall be submitted no later than February 1, 1983.”
 

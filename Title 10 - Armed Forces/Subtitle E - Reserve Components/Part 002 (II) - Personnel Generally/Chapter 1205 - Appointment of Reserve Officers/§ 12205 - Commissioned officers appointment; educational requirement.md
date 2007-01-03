@@ -36,7 +36,7 @@ Waiver Authority for Army OCS Graduates and Certain Marine Corps Officers.—(1)
 
 (3) Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than two years after the waiver is granted. The Secretary concerned may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
 
-(Added Pub. L. 102–484, div. A, title V, §515(a), Oct. 23, 1992, 106 Stat. 2406, §596; renumbered §12205 and amended Pub. L. 103–337, div. A, title V, §§519, 520, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, title V, §§504, 505, title X, §1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660; Pub. L. 107–107, div. A, title V, §512(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 109–163, div. A, title V, §515(b)(1)(KK), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 102–484, div. A, title V, §515(a), Oct. 23, 1992, 106 Stat. 2406, §596; renumbered §12205 and amended Pub. L. 103–337, div. A, title V, §§519, 520, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, titleV, §§504, 505, title X, §1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660; Pub. L. 107–107, div. A, title V, §512(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 109–163, div. A, title V, §515(b)(1)(KK), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Prior Provisions
 

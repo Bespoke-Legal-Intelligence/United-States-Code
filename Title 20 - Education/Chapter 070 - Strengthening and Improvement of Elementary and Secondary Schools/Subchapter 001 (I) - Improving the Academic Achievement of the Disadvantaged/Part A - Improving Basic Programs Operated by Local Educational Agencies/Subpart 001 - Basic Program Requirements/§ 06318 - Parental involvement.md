@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;Each school served under this part shall jointly develop with, and distribute to, parents of participating children a written parental involvement policy, agreed on by such parents, that shall describe the means for carrying out the requirements of subsections (c) through (f) of this section. Parents shall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
+&emsp;Each school served under this part shall jointly develop with, and distribute to, parents of participating children a written parental involvement policy, agreed on by such parents, that shall describe the means for carrying outthe requirements of subsections (c) through (f) of this section. Parents shall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
 
 #### (2) Special rule
 
@@ -62,7 +62,7 @@ Each school served under this part shall—
 
 &emsp;(2) offer a flexible number of meetings, such as meetings in the morning or evening, and may provide, with funds provided under this part, transportation, child care, or home visits, as such services relate to parental involvement;
 
-&emsp;(3) involve parents, in an organized, ongoing, and timely way, in the planning, review, and improvement of programs under this part, including the planning, review, and improvement of the school parental involvement policy and the joint development of the schoolwide program plan under section 6314(b)(2) of this title, except that if a schoolhas in place a process for involving parents in the joint planning and design of the school's programs, the school may use that process, if such process includes an adequate representation of parents of participating children;
+&emsp;(3) involve parents, in an organized, ongoing, and timely way, in the planning, review, and improvement of programs under this part, including the planning, review, and improvement of the school parental involvement policy and the joint development of the schoolwide program plan under section 6314(b)(2) of this title, except that if a school has in place a process for involving parents in the joint planning and design of the school's programs, the school may use that process, if such process includes an adequate representation of parents of participating children;
 
 &emsp;(4) provide parents of participating children—
 
@@ -114,7 +114,7 @@ To ensure effective involvement of parents and to support a partnership among th
 
 &emsp;(11) may adopt and implement model approaches to improving parental involvement;
 
-&emsp;(12) may establish a districtwide parent advisory council to provide advice on all mattersrelated to parental involvement in programs supported under this section;
+&emsp;(12) may establish a districtwide parent advisory council to provide advice on all matters related to parental involvement in programs supported under this section;
 
 &emsp;(13) may develop appropriate roles for community-based organizations and businesses in parent involvement activities; and
 

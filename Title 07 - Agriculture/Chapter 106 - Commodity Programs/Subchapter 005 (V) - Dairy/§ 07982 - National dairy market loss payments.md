@@ -44,7 +44,11 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 &emsp;&emsp;(B) the Class I milk price per hundredweight in Boston under the applicable Federal milk marketing order; by
 
-&emsp;(3) 45 percent.
+&emsp;(3)(A) during the period beginning on the first day of the month the producers on a dairy farm enter into a contract under this section and ending on September 30, 2005, 45 percent;
+
+&emsp;(B) during the period beginning on October 1, 2005, and ending on August 31, 2007, 34 percent; and
+
+&emsp;(C) during the period beginning on September 1, 2007, 0 percent.
 
 #### (d) Payment quantity
 
@@ -54,7 +58,7 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 #### (2) Limitation
 
-&emsp;The payment quantity for all producers on a single dairy operation during the months of the applicable fiscal year for which the producers receive payments under subsection (b) of this section shall not exceed 2,400,000 pounds. For purposes of determining whether producers are producers on separate dairy operations or a single dairy operation, the Secretary shall apply the same standards as were applied in implementing the dairy program under section 805 of the Agriculture, Rural Development, Food and Drug Administration,and Related Agencies Appropriations Act, 2001 (as enacted into law by Public Law 106–387; 114 Stat. 1549A–50).
+&emsp;The payment quantity for all producers on a single dairy operation during the months of the applicable fiscal year for which the producers receive payments under subsection (b) of this section shall not exceed 2,400,000 pounds. For purposes of determining whether producers are producers on separate dairy operations or a single dairy operation, the Secretary shall apply the same standards as were applied in implementing the dairy program under section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (as enacted into law by Public Law 106–387; 114 Stat. 1549A–50).
 
 #### (3) Reconstitution
 
@@ -66,13 +70,13 @@ A payment under a contract under this section shall be made on a monthly basis n
 
 #### (f) Signup
 
-The Secretary shall offer to enter into contracts under this section during the period beginning on the date that is 60 days after May 13, 2002, and ending on September 30, 2005.
+The Secretary shall offer to enter into contracts under this section during the period beginning on the date that is 60 days after May 13, 2002, and ending on September 30, 2007.
 
 #### (g) Duration of contract
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and subsection (h) of this section, any contract entered into by producers on a dairy farm under this section shall cover eligible production marketed by the producers on the dairy farm during the period starting with the first day of month the producers on the dairy farm enter into the contract and ending on September 30, 2005.
+&emsp;Except as provided in paragraph (2), any contract entered into by producers on a dairy farm under this section shall cover eligibleproduction marketed by the producers on the dairy farm during the period starting with the first day of month the producers on the dairy farm enter into the contract and ending on September 30, 2007.
 
 #### (2) Violations
 
@@ -82,13 +86,19 @@ The Secretary shall offer to enter into contracts under this section during the 
 
 &emsp;&emsp;(B) allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
 
-#### (h) Transition rule
-
-In addition to any payment that is otherwise available under this section, if the producers on a dairy farm enter into a contract under this section, the Secretary shall make a payment in accordance with the formula specified in subsection (c) of this section on the quantity of eligible production of the producer marketed during the period beginning on December 1, 2001, and ending on the last day of the month preceding the month the producers on the dairy farm entered into the contract.
-
-(Pub. L. 107–171, title I, §1502, May 13, 2002, 116 Stat. 205.)
+(Pub. L. 107–171, title I, §1502, May 13, 2002, 116 Stat. 205; Pub. L. 109–171, title I, §1101, Feb. 8, 2006, 120 Stat. 4.)
 
 #### References in Text
 
 Section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(2), is section 805 of Pub. L. 106–387, §1(a) \[title VIII\], Oct. 28, 2000, 114 Stat. 1549, 1549A–50, which is not classified to the Code.
+
+#### Amendments
+
+2006—Subsec. (c)(3). Pub. L. 109–171, §1101(a), added par. (3) and struck out former par. (3) which read as follows: “45 percent.”
+
+Subsec. (f). Pub. L. 109–171, §1101(b), substituted “2007” for “2005”.
+
+Subsec. (g)(1). Pub. L. 109–171, §1101(b), (c)(1), struck out “and subsection (h) of this section” after “paragraph (2)” and substituted “2007” for “2005”.
+
+Subsec. (h). Pub. L. 109–171, §1101(c)(2), struck out subsec. (h), which related to transition rule.
 

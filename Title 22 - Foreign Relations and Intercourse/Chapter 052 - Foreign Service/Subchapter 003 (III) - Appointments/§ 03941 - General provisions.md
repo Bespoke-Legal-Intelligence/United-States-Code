@@ -6,7 +6,7 @@ Only citizens of the United States may be appointed to the Service, other than f
 
 #### (b) Examinations
 
-The Secretary shall prescribe, as appropriate, written, oral, physical, foreign language, andother examinations for appointment to the Service (other than as a chief of mission or ambassador at large).
+The Secretary shall prescribe, as appropriate, written, oral, physical, foreign language, and other examinations for appointment to the Service (other than as a chief of mission or ambassador at large).
 
 #### (c) Veteran or disabled veteran
 

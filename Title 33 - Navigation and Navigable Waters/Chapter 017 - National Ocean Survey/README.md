@@ -6,7 +6,7 @@
 | :--- | ---: |
 | 851 to 852b. Repealed or Omitted. |  |
 | [853\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853%20-%20Power%20to%20settle%20claims.md) | Power to settle claims. |
-| 853a to 853<i>o. Repealed.</i> |  |
+| 853a to 853<i>o</i>. Repealed. |  |
 | 853<i>o–</i>1. | Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay. |
 | 853p to 854. Repealed. |  |
 | [854a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000854a%20-%20Service%20credit%20as%20deck%20officer%20or%20junior%20engineer%20for%20promotion%20purposes.md) | Service credit as deck officer or junior engineer for promotion purposes. |
@@ -15,19 +15,9 @@
 | 854b to 857–12. Repealed. |  |
 | 857–13. | National Advisory Committee on Oceans and Atmosphere. |
 | 857–14. | Membership. |
-| (a) | Appointment and qualifications. |
-| (b) | Terms. |
-| (c) | Chairman. |
-| (d) | Duties. |
 | 857–15. | Reports. |
-| (a) | In general. |
-| (b) | Review by Secretary. |
-| (c) | Annual report submittal. |
 | 857–16. | Compensation and travel expenses. |
 | 857–17. | Interagency cooperation and assistance. |
-| (a) | Liaison. |
-| (b) | Agency assistance. |
-| (c) | Administrative assistance. |
 | 857–18. | Authorization of appropriations. |
 | 857–19. | Biennial report. |
 | 857–20. | Coordination. |
@@ -45,7 +35,7 @@
 
 |  |  |
 | :--- | ---: |
-| 881 to 883. Repealed. |  |
+| 881 to 883. Repealed. |  |
 | [883a.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883a%20-%20Surveys%20and%20other%20activities.md) | Surveys and other activities. |
 | [883b.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883b%20-%20Dissemination%20of%20data%3B%20further%20activities.md) | Dissemination of data; further activities. |
 | [883c.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883c%20-%20Geomagnetic%20data%3B%20collection%2C%20correlation%2C%20and%20dissemination.md) | Geomagnetic data; collection, correlation, and dissemination. |
@@ -70,27 +60,12 @@
 | [891\.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891%20-%20Definitions.md) | Definitions. |
 | [891a.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891a%20-%20Fleet%20replacement%20and%20modernization%20program.md) | Fleet replacement and modernization program. |
 | [891b.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891b%20-%20Fleet%20replacement%20and%20modernization%20Plan.md) | Fleet replacement and modernization Plan. |
-| (a) | In general. |
-| (b) | Timing. |
-| (c) | Plan elements. |
-| (d) | Contracting limitation. |
 | [891c.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891c%20-%20Design%20of%20NOAA%20vessels.md) | Design of NOAA vessels. |
-| (a) | Design requirement. |
-| (b) | Exception. |
 | [891d.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891d%20-%20Contract%20authority.md) | Contract authority. |
-| (a) | Multiyear contracts. |
-| (b) | Service contracts. |
-| (c) | Bonding authority. |
 | [891e.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891e%20-%20Restriction%20with%20respect%20to%20certain%20shipyard%20subsidies.md) | Restriction with respect to certain shipyard subsidies. |
-| (a) | In general. |
-| (b) | “Significant subsidy” defined. |
 | [891f.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891f%20-%20Use%20of%20vessels.md) | Use of vessels. |
-| (a) | Vessel agreements. |
-| (b) | Report to Congress. |
 | [891g.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891g%20-%20Interoperability.md) | Interoperability. |
 | [891h.](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/%C2%A7%2000891h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Limitation on fleet modernization activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -100,22 +75,8 @@
 | :--- | ---: |
 | [892\.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892%20-%20Definitions.md) | Definitions. |
 | [892a.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892a%20-%20Functions%20of%20the%20Administrator.md) | Functions of the Administrator. |
-| (a) | Responsibilities. |
-| (b) | Authorities. |
-| (c) | Conservation and management of coastal and ocean resources. |
 | [892b.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892b%20-%20Quality%20assurance%20program.md) | Quality assurance program. |
-| (a) | Definition. |
-| (b) | Program. |
-| (c) | Limitation on liability. |
-| (d) | Hydrographic Services Account. |
-| (e) | Limitation on new fees and increases in existing fees for hydrographic services. |
 | [892c.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892c%20-%20Hydrographic%20Services%20Review%20Panel.md) | Hydrographic Services Review Panel. |
-| (a) | Establishment. |
-| (b) | Duties. |
-| (c) | Membership. |
-| (d) | Compensation. |
-| (e) | Meetings. |
-| (f) | Powers. |
 | [892d.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

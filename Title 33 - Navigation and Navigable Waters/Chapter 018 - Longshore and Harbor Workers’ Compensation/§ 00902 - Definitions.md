@@ -86,7 +86,7 @@ The phrase “a student as defined in paragraph (19) of this section”, referre
 
 Par. (6). Pub. L. 98–426, §27(a)(1), substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
 
-Par. (10). Pub. L. 98–426, §2(b), inserted “; but such term shall mean permanent impairment, determined\(to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title”.
+Par. (10). Pub. L. 98–426, §2(b), inserted “; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title”.
 
 Par. (13). Pub. L. 98–426, §2(c), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “ ‘Wages’ means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the injury, including the reasonable value of board, rent, housing, lodging, or similar advantage received from the employer, and gratuities received in the course of employment from others than the employer”.
 

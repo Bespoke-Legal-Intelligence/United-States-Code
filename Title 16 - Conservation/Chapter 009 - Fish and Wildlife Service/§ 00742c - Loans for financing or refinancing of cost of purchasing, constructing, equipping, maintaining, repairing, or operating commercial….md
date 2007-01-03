@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary of the Interior is authorized, under such rules and regulations and under such terms and conditions as he may prescribe, to make loans for financing or refinancing of the cost of purchasing, constructing, equipping,maintaining, repairing, or operating new or used commercial fishing vessels or gear.
+The Secretary of the Interior is authorized, under such rules and regulations and under such terms and conditions as he may prescribe, to make loans for financing or refinancing of the cost of purchasing, constructing, equipping, maintaining, repairing, or operating new or used commercial fishing vessels or gear.
 
 #### (b) Conditions
 
@@ -10,7 +10,7 @@ Any loans made under the provisions of this section shall be subject to the foll
 
 &emsp;(1) Bear an interest rate of not less than (a) a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus (b) such additional charge, if any, toward covering other costs of the program as the Secretary may determine to be consistent with its purpose.
 
-&emsp;(2) Mature in not more than ten years, except that where a loan is for all or part of the costs of constructing a new fishing vessel, such period may be fourteen years.
+&emsp;(2) Mature in not more than ten years, except that where a loan is for all or part of thecosts of constructing a new fishing vessel, such period may be fourteen years.
 
 &emsp;(3) No financial assistance shall be extended pursuant to this section unless reasonable financial assistance applied for is not otherwise available on reasonable terms.
 
@@ -22,7 +22,7 @@ Any loans made under the provisions of this section shall be subject to the foll
 
 &emsp;(7) An applicant for a fishery loan must be a citizen or national of the United States.
 
-&emsp;(8) Within the meaning of this section, a corporation, partnership, or association shall not be deemed to be a citizen of the United States unless the Secretary determines that it satisfactorily meets all of the requirements set forth in sections 802 and 803 of title 46, Appendix, for determining the United States citizenship of a corporation, partnership, or association operating a vessel in the coastwise trade.
+&emsp;(8) Within the meaning of this section, a corporation, partnership, or association shall not be deemed to be a citizen of the United States unless the Secretary determines that it satisfactorily meets all of the requirements set forth in section 50501 of title 46 for determining the United States citizenship of a corporation, partnership, or association operating a vessel in the coastwise trade.
 
 &emsp;(9)(A) The nationality of an applicant shall be established to the satisfaction of the Secretary. Within the meaning of this section, no corporation, partnership, or association organized under the laws of American Samoa shall be deemed a national of the United States unless 75 per centum of the interest therein is owned by nationals of the United States, citizens of the United States, or both, and in the case of a corporation, unless its president or other chief executive officer and the chairman of its board are nationals or citizens of the United States and unless no more of its directors than a minority of the number necessary to constitute a quorum are nonnationals and noncitizens.
 
@@ -41,6 +41,10 @@ The Secretary, subject to the specific limitations in this section, may consent 
 The Secretary is authorized under such terms and conditions and pursuant to regulations prescribed by him to use the funds appropriated under this section to make loans to commercial fishermen for the purpose of chartering fishing vessels pending the construction or repair of vessels lost, destroyed, or damaged by the earthquake of March 27, 1964, and subsequent tidal waves related thereto: <i>Provided</i>, That any loans made under this subsection shall only be repaid from the net profits of the operations of such chartered vessels, which profits shall be reduced by such reasonable amount as determined by the Secretary for the salary of the fishermen chartering such vessels. The funds authorized herein shall not be available for such loans after June 30, 1966.
 
 (Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Pub. L. 85–888, Sept. 2, 1958, 72 Stat. 1710; Pub. L. 88–309, §9, May 20, 1964, 78 Stat. 199; Pub. L. 89–85, §§1–4, July 24, 1965, 79 Stat. 262; Pub. L. 91–279, §9, June 12, 1970, 84 Stat. 309; Pub. L. 91–387, §§1, 2, Aug. 24, 1970, 84 Stat. 829; Pub. L. 94–273, §2(8), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–478, §16(a), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 97–347, §1, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(1), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(1), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 99–659, title IV, §409, Nov. 14, 1986, 100 Stat. 3740.)
+
+#### Codification
+
+In subsec. (b)(8), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916, as amended,”on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
 
 #### Amendments
 
@@ -94,31 +98,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 #### Loans Under Fish and Wildlife Act of 1956
 
-Pub. L. 96–561, title II, §221, Dec. 22, 1980, 94 Stat. 3295, as amended by Pub. L. 98–44, title I, §103(b), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §431, Oct. 19, 1984, 98 Stat. 2310, provided that:
-
-“(a)
-
-Loan Authority.—During the period beginning on the date of the enactment of this title \[Dec. 22, 1980\] and ending at the close of September 30, 1986, the Secretary of Commerce (hereinafter in this section referred to as the ‘Secretary’) may make loans from the fisheries loan fund established under subsection (c) of section 4 of the Fish and Wildlife Act of 1956 (16 U.S.C. 742c) only for the purposes set forth in subsections (b) and (c) of this section. Except to the extent that they are inconsistent with, or contrary to, this section, the provisions of such section 4 shall apply with respect to loans made for such purposes.
-
-“(b)
-
-Loans To Avoid Default on Obligations Covering Fishing Vessels.—(1) The Secretary may make loans for the purpose of assisting obligors to avoid default on obligations that are issued with respect to the construction, reconstruction, reconditioning or purchase of fishing vessels and that—
-
-&emsp;“(A) are guaranteed by the United States under title XI of the Merchant Marine Act, 1936 (46 U.S.C.1271–1280, relating to Federal ship mortgage insurance); or
-
-&emsp;“(B) are not guaranteed under such title XI, but the fishing vessels concerned meet the use and documentation requirements, and the obligors meet the citizenship requirements, that would apply if the obligations were guaranteed under that title.
-
-“(2)(A) Within the 30-day period beginning on the date of the enactment of this title \[Dec. 22, 1980\] in the case of fiscal year 1981, and before the beginning of each of fiscal years 1982, 1983, 1984, 1985, and 1986, the Secretary shall estimate the number, and the aggregate amount, of loans described in paragraph (1)(A) for which application will likely be made during each of such fiscal years and shall reserve that amount in the fisheries loan fund for the purpose of making such loans during such year (or if such amount is larger than the fund balance, the Secretary shall reserve the whole fund for such purpose).
-
-“(B) If any moneys are available in the fisheries loan fund for each such fiscal year after subparagraph (A) is complied with for that year, the Secretary shall use such moneys for the purpose of making loans described in paragraph (1)(B) during that year.
-
-“(C) At an appropriate time during each of fiscal years 1981, 1982, 1983, 1984, 1985, and 1986, the Secretary shall compare the actual loan experience during that year with the estimate made for that year under subparagraph (A) and if the Secretary determines, on the basis of such comparison, that the demand for loans described in paragraph (1)(A) will be less than estimated, the Secretary shall, for the fiscal year concerned, apply moneys reserved for such loans for the purpose of making loans described in paragraph (1)(B) and, to the extent not utilized for loans described in paragraph (1)(B), for the purpose of making loans under subsection (c).
-
-“(3) The Secretary may make loans under this subsection only to owners or operators who, in the judgment of the Secretary, have substantial experience and proven ability in the management and financing of fishing operations, and only if (A) loans for the purpose described in paragraph (1) are not otherwise available at reasonable rates which permit continued operations, and (B) the loans are likely to result in the financial viability of the fishing operations of the owners or operators. Each such loan shall be subject to such terms and conditions as the Secretary deems necessary or appropriate to protect the interests of the United States and to carry out the purpose of this subsection. In establishing such terms and conditions, the Secretary shall take into account, among such other factors he deems pertinent, the extent to which the obligations concerned have been retired, and the overall financial condition of the obligors. The interest rate on loans made under the authority of this subsection shall not exceed that rate determined by the Secretary to be sufficient to cover the costs incurred in processing and servicing of such loans.
-
-“(c)
-
-Loans To Cover Operating Losses.—(1) If the Secretary determines that moneys will be available in such fisheries loan fund for any of fiscal years 1981, 1982, 1983, 1984, 1985, and 1986, after loans under subsection (b) are provided for for that year, the Secretary may make loans for the purpose of assisting owners and operators of fishing vessels to cover vessel operating expenses in cases where an owner or operator incurs, or may incur, a net operating loss within such fiscal year.
-
-“(2) Each loan made by the Secretary under this subsection shall be subject to such terms and conditions as the Secretary deems necessary or appropriate to protect the interests of the United States and to carry out the purposes of this subsection. The Secretary may make loans under this subsection only to owners or operators who, in the judgment of the Secretary, have substantial experience and proven ability in the management and financing of fishing operations, and only if (A) loans for the purpose described in paragraph (1) are not otherwise available at reasonable rates which permit continued operation, and (B) the loans are likely to result in the financial viability of the fishing operations of the owners or operators. The interest rate on loans made under this subsection shall be the rate prevailing for loans made under the Emergency Agricultural Credit Act of 1978 (7 U.S.C. preceding 1961 note).”
+Pub. L. 96–561, title II, §221, Dec. 22, 1980, 94 Stat. 3295, as amended by Pub. L. 98–44, title I, §103(b), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §431, Oct. 19, 1984, 98 Stat. 2310, provided that during the period beginning Dec. 22, 1980, through the close of Sept. 30, 1986, the Secretary of Commerce could make loans from the fisheries loan fund established under subsec. (c) of this section only for the purpose of assisting obligors to avoid default on obligations covering fishing vessels and to cover operating losses.
 

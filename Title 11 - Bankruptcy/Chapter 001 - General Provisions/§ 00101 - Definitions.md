@@ -218,13 +218,13 @@ In this title the following definitions shall apply:
 
 &emsp;(22) The term “financial institution” means—
 
-&emsp;&emsp;(A) a Federal reserve bank, or an entity (domestic or foreign) that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, federally-insured credit union, or receiver, liquidating agent, or conservator for such entity and, when any such Federal reserve bank, receiver, liquidating agent, conservator or entity is acting as agent or custodian for a customer in connection with a securities contract (as defined in section 741) such customer; or
+&emsp;&emsp;(A) a Federal reserve bank, or an entity that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, federally-insured credit union, or receiver, liquidating agent, or conservator for such entity and, when any such Federal reserve bank, receiver, liquidating agent, conservator or entity is acting as agent or custodian for a customer (whether or not a “customer”, as defined in section 741) in connection with a securities contract (as defined in section 741) such customer; or
 
 &emsp;&emsp;(B) in connection with a securities contract (as defined in section 741) an investment company registered under the Investment Company Act of 1940.
 
 &emsp;(22A) The term “financial participant” means—
 
-&emsp;&emsp;(A) an entity that, at the time it enters into a securities contract, commodity contract, swap agreement, repurchase agreement, or forward contract, or at the time of the date of the filing of the petition, has one or more agreements or transactions described in paragraph (1), (2), (3), (4), (5), or (6) of section 561(a) with the debtor or any other entity (other than an affiliate) of a total gross dollar value of not less than $1,000,000,000 in notional or actual principal amount outstanding on any day during the previous 15-month period, or has gross mark-to-market positions of not less than $100,000,000 (aggregated across counterparties) in one or more such agreements or transactions with the debtor or any other entity (other than an affiliate) on any day during the previous 15-month period; or
+&emsp;&emsp;(A) an entity that, at the time it enters into a securities contract, commodity contract, swap agreement, repurchase agreement, or forward contract, or at the time of the date of the filing of the petition, has one or more agreements or transactions described in paragraph (1), (2), (3), (4), (5), or (6) of section 561(a) with the debtor or any other entity (other than an affiliate) of a total gross dollar value of not less than $1,000,000,000 in notional or actual principal amount outstanding (aggregated across counterparties) at such time or on any day during the 15-month period preceding the date of the filing of the petition, or has gross mark-to-market positions of not less than $100,000,000 (aggregated across counterparties) in one or more such agreements or transactions with the debtor or any other entity (other than an affiliate) at such time or on any day during the 15-month period preceding the date of the filing of the petition; or
 
 &emsp;&emsp;(B) a clearing organization (as defined in section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991).
 
@@ -234,7 +234,7 @@ In this title the following definitions shall apply:
 
 &emsp;(25) The term “forward contract” means—
 
-&emsp;&emsp;(A) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+&emsp;&emsp;(A) a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in this section) <sup>1</sup> consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
 &emsp;&emsp;(B) any combination of agreements or transactions referred to in subparagraphs (A) and (C);
 
@@ -242,7 +242,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(D) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), or (C), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a forward contract under this paragraph, except that such master agreement shall be considered to be a forward contract under this paragraph only with respect to each agreement or transaction under such master agreement that is referred to in subparagraph (A), (B), or (C); or
 
-&emsp;&emsp;(E) any security agreement or arrangement, or other credit enhancement related to any agreement or transaction referred to in subparagraph (A), (B), (C), or (D), including any guarantee or reimbursement obligation by or to a forward contract merchant or financial participant in connection with any agreement or transaction referred to in any such subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562.
+&emsp;&emsp;(E) any security agreement or arrangement, or other credit enhancement related to any agreement or transaction referred toin subparagraph (A), (B), (C), or (D), including any guarantee or reimbursement obligation by or to a forward contract merchant or financial participant in connection with any agreement or transaction referred to in any such subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562.
 
 &emsp;(26) The term “forward contract merchant” means a Federal reserve bank, or an entity the business of which consists in whole or in part of entering into forward contracts as or with merchants in a commodity (as defined in section 761) or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade.
 
@@ -442,7 +442,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(A) if provided by an individual to the debtor in connection with obtaining a product or a service from the debtor primarily for personal, family, or household purposes—
 
-&emsp;&emsp;&emsp;(i) the first name (or initial) and last name of such individual, whether given atbirth or time of adoption, or resulting from a lawful change of name;
+&emsp;&emsp;&emsp;(i) the first name (or initial) and last name of such individual, whether given at birth or time of adoption, or resulting from a lawful change of name;
 
 &emsp;&emsp;&emsp;(ii) the geographical address of a physical place of residence of such individual;
 
@@ -460,7 +460,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
 
-&emsp;(42) The term “petition” means petition filed under section 301, 302, 303, or 304 <sup>1</sup> of this title, as the case may be, commencing a case under this title.
+&emsp;(42) The term “petition” means petition filed under section 301, 302, 303, or 304 <sup>2</sup> of this title, as the case may be, commencing a case under this title.
 
 &emsp;(42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
 
@@ -494,7 +494,7 @@ In this title the following definitions shall apply:
 
 &emsp;(48) The term “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.
 
-&emsp;(48A) The term “securities self regulatory organization” means either a securities association registered with the Securities and Exchange Commission under section 15A of the Securities Exchange Act of 1934 or a nationalsecurities exchange registered with the Securities and Exchange Commission under section 6 of the Securities Exchange Act of 1934.
+&emsp;(48A) The term “securities self regulatory organization” means either a securities association registered with the Securities and Exchange Commission under section 15A of the Securities Exchange Act of 1934 or a national securities exchange registered with the Securities and Exchange Commission under section 6 of the Securities Exchange Act of 1934.
 
 &emsp;(49) The term “security”—
 
@@ -584,7 +584,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(I) an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap;
 
-&emsp;&emsp;&emsp;&emsp;(II) a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement;
+&emsp;&emsp;&emsp;&emsp;(II) a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement;
 
 &emsp;&emsp;&emsp;&emsp;(III) a currency swap, option, future, or forward agreement;
 
@@ -594,15 +594,19 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(VI) a total return, credit spread or credit swap, option, future, or forward agreement;
 
-&emsp;&emsp;&emsp;&emsp;(VII) a commodity index or a commodity swap, option, future, or forward agreement; or
+&emsp;&emsp;&emsp;&emsp;(VII) a commodity index or a commodity swap, option, future, or forward agreement;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) a weather swap, weather derivative, or weather option;
+&emsp;&emsp;&emsp;&emsp;(VIII) a weather swap, option, future, or forward agreement;
+
+&emsp;&emsp;&emsp;&emsp;(IX) an emissions swap, option, future, or forward agreement; or
+
+&emsp;&emsp;&emsp;&emsp;(X) an inflation swap, option, future, or forward agreement;
 
 &emsp;&emsp;&emsp;(ii) any agreement or transaction that is similar to any other agreement or transaction referred to in this paragraph and that—
 
-&emsp;&emsp;&emsp;&emsp;(I) is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap markets (including terms and conditions incorporated by reference therein); and
+&emsp;&emsp;&emsp;&emsp;(I) is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference therein); and
 
-&emsp;&emsp;&emsp;&emsp;(II) is a forward, swap, future, or option on one or more rates, currencies, commodities, equity securities, or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+&emsp;&emsp;&emsp;&emsp;(II) is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities, or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
 
 &emsp;&emsp;&emsp;(iii) any combination of agreements or transactions referred to in this subparagraph;
 
@@ -612,11 +616,11 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(vi) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in clause (i) through (v), including any guarantee or reimbursement obligation by or to a swap participant or financial participant in connection with any agreement or transaction referred to in any such clause, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
-&emsp;&emsp;(B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000.
+&emsp;&emsp;(B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act.
 
 &emsp;(53C) The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor.
 
-&emsp;(56A) <sup>2</sup> The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
+&emsp;(56A) <sup>3</sup> The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
 
 &emsp;(53D) The term “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
 
@@ -636,9 +640,9 @@ In this title the following definitions shall apply:
 
 &emsp;(54A) The term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation.
 
-&emsp;(55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the UnitedStates extends, including territories and possessions of the United States.
+&emsp;(55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695.)
 
 #### Historical and Revision Notes
 
@@ -672,7 +676,7 @@ Section 101(20) contains a definition of “foreign representative”. It clarif
 
 Section 101(35) defines “security” as contained in the Senate amendment. H.R. 8200 as adopted by the House excluded certain commercial notes from the definition of “security”, and that exclusion is deleted.
 
-Section 101(40) defines “transfer” as in the Senate amendment. The definition contained in H.R. 8200 as passed by the House included “setoff” in the definitionof “transfer”. Inclusion of “setoff” is deleted. The effect is that a “setoff” is not subject to being set aside as a preferential “transfer” but will be subject to special rules.
+Section 101(40) defines “transfer” as in the Senate amendment. The definition contained in H.R. 8200 as passed by the House included “setoff” in the definition of “transfer”. Inclusion of “setoff” is deleted. The effect is that a “setoff” is not subject to being set aside as a preferential “transfer” but will be subject to special rules.
 
 #### senate report no. 95–989
 
@@ -710,7 +714,7 @@ Paragraph (11) \[enacted as (10)\] defines “custodian.” There is no similar 
 
 Paragraph (13) \[enacted as (12)\] defines “debtor.” Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the “bankrupt”, and a person or municipality that is proceeding under a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a “debtor.” The term “debtor” is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
 
-Paragraph (14) \[enacted as (13)\] defines “disinterested person.” The definition is adapted from section 158 of chapter X of current law \[section 558 of former title 11\], though it is expanded and modified in some respects. A person is a disinterested person if the person is not a creditor, equity security holder, or insider; is not and was not an investment banker of the debtor for any outstanding security of the debtor (the change from underwriter in current law to investment banker is to make the term more descriptive and to avoid conflictwith the definition of underwriter in section 2(11) of the Securities Act of 1933 (15 U.S.C. 77b(11)); has not been an investment banker for a security of the debtor within 3 years before the date of the filing of the petition (the change from five years to three years here conforms the definition with the statute of limitations in the Securities Act of 1933) \[15 U.S.C. 77m\], or an attorney for such an investment banker; is not an insider of the debtor or of such an investment banker; and does not have an interest materially adverse to the estate.
+Paragraph (14) \[enacted as (13)\] defines “disinterested person.” The definition is adapted from section 158 of chapter X of current law \[section 558 of former title 11\], though it is expanded and modified in some respects. A person is a disinterested person if the person is not a creditor, equity security holder, or insider; is not and was not an investment banker of the debtor for any outstanding security of the debtor (the change from underwriter in current law to investment banker is to make the term more descriptive and to avoid conflict with the definition of underwriter in section 2(11) of the Securities Act of 1933 (15 U.S.C. 77b(11)); has not been an investment banker for a security of the debtor within 3 years before the date of the filing of the petition (the change from five years to three years here conforms the definition with the statute of limitations in the Securities Act of 1933) \[15 U.S.C. 77m\], or an attorney for such an investment banker; is not an insider of the debtor or of such an investment banker; and does not have an interest materially adverse to the estate.
 
 “Entity” is defined, for convenience, in paragraph (15) \[enacted as (14)\], to include person, estate, trust, and governmental unit. It is the most inclusive of the various defined terms relating to bodies or units.
 
@@ -772,7 +776,7 @@ Section 3 of the Federal Deposit Insurance Act, referred to in pars. (12A)(D), (
 
 Sections 101 and 206(r) of the Federal Credit Union Act, referred to in pars. (12A)(D), (33)(B), and (34), are classified to sections 1752 and 1786(r), respectively, of Title 12, Banks and Banking.
 
-The Investment Company Act of 1940, referred to in pars. (22)(B) and (53B)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (22)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 Section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22A)(B), is classified to section 4402 of Title 12, Banks and Banking.
 
@@ -780,23 +784,31 @@ Section 304 of this title, referred to in par. (42), was repealed by Pub. L. 109
 
 The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78<i>o</i>–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Securities Act of 1933, referred to in pars. (49)(A)(xii) and (53B)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
-
-The Public Utility Holding Company Act of 1935, referred to in par. (53B)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
-
-The Trust Indenture Act of 1939, referred to in par. (53B)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
-
-The Investment Advisers Act of 1940, referred to in par. (53B)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification ofthis Act to the Code, see section 80b–20 of Title 15 and Tables.
-
-The Securities Investor Protection Act of 1970, referred to in par. (53B)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
-
-The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+
+The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
+
+2006—Par. (22)(A). Pub. L. 109–390, §5(a)(1)(A), struck out “(domestic or foreign)” after “an entity” and inserted “(whether or not a ‘customer’, as defined in section 741)” after “custodian for a customer”.
+
+Par. (22A)(A). Pub. L. 109–390, §5(a)(1)(B), inserted “(aggregated across counterparties)” after “principal amount outstanding” and substituted “at such time or on any day during the 15-month period preceding the date of the filing of the petition” for “on any day during the previous 15-month period” in two places.
+
+Par. (25)(A). Pub. L. 109–390, §5(a)(1)(C), inserted “, as defined in section 761” after “commodity contract” and substituted “repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in this section)” for “repurchase transaction, reverse repurchase transaction,”.
+
+Par. (53B)(A)(i)(II). Pub. L. 109–390, §5(a)(1)(D)(i)(I), substituted “, precious metals, or other commodity” for “or precious metals”.
+
+Par. (53B)(A)(i)(VIII). Pub. L. 109–390, §5(a)(1)(D)(i)(III), substituted “option, future, or forward agreement” for “weather derivative, or weather option”.
+
+Par. (53B)(A)(i)(IX), (X). Pub. L. 109–390, §5(a)(1)(D)(i)(II), (IV), added subcls. (IX) and (X).
+
+Par. (53B)(A)(ii). Pub. L. 109–390, §5(a)(1)(D)(ii), inserted “or other derivatives” after “dealings in the swap” in subcl. (I) and substituted “future, option, or spot transaction” for “future, or option” in subcl. (II).
+
+Par. (53B)(B). Pub. L. 109–390, §5(a)(1)(E), substituted “the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act” for “the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000”.
 
 2005—Pub. L. 109–8, §1201(1), substituted “In this title the following definitions shall apply:” for “In this title—” in introductory provisions.
 
@@ -1200,7 +1212,7 @@ Par. (38). Pub. L. 98–353, §§391(2), 421(j)(2), added par. (35) and redesign
 
 Par. (39). Pub. L. 98–353, §§391(2), 421(j)(2), added par. (36) and redesignated such par. (36) as (39). Former par. (39) redesignated successively as (41) and again as (45).
 
-Par. (40). Pub. L. 98–353, §§391(1), 421(j)(2), redesignated successively former par. (35) as (37) and again as (40). Former par. (40) redesignated successively as (42) and again as (46).
+Par. (40). Pub. L. 98–353, §§391(1), 421(j)(2), redesignated successively former par. (35) as (37) and again as\(40). Former par. (40) redesignated successively as (42) and again as (46).
 
 Par. (41). Pub. L. 98–353, §§391(1), 401(1), 421(h), (j)(2), redesignated successively former par. (36) as (38) and again as (41), and, in subpar. (B)(vi), substituted “certificate of a kind specified in subparagraph (A)(xii)” for “certificate specified in clause (xii) of subparagraph (A)” and substituted “required to be the subject of a registration statement” for “the subject of such registration statement”. Former par. (41) redesignated successively as (43), again as (44), and again as (48).
 
@@ -1227,6 +1239,10 @@ Par. (36). Pub. L. 97–222, §1(a)(1), (b), (c), redesignated par. (35) as (36)
 Pars. (37) to (39). Pub. L. 97–222, §1(a)(1), redesignated pars. (36) to (38) as (37) to (39), respectively. Former par. (39) redesignated (40).
 
 Pars. (40), (41). Pub. L. 97–222, §1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–390, §7, Dec. 12, 2006, 120 Stat. 2700, provided that: “The amendments made by this Act \[see Short Title of 2006 Amendment note set out under this section\] shall not apply to any cases commenced under title 11, United States Code, or appointments made under any Federal or State law, before the date of the enactment of this Act \[Dec. 12, 2006\].”
 
 #### Effective Date of 2005 Amendment
 
@@ -1316,11 +1332,17 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–439, §1, Dec. 20, 2006, 120 Stat. 3285, provided that: “This Act \[amending section 1325 of this title\] may be cited as the ‘Religious Liberty and Charitable Donation Clarification Act of 2006’.”
+
+Pub. L. 109–390, §1, Dec. 12, 2006, 120 Stat. 2692, provided that: “This Act \[amending this section, sections 362, 546, and 741 of this title, sections 1787, 1821, 4403, and 4404 of Title 12, Banks and Banking, and section 78eee of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section\] may be cited as the ‘Financial Netting Improvements Act of 2006’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–8, §1(a), Apr. 20, 2005, 119 Stat. 23, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Bankruptcy Abuse Prevention and Consumer Protection Act of 2005’.”
 
-Pub. L. 109–8, title III, §332(a), Apr. 20, 2005, 119 Stat. 103, provided that: “This section \[amending section 303of this title and section 157 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Involuntary Bankruptcy Improvement Act of 2005’.”
+Pub. L. 109–8, title III, §332(a), Apr. 20, 2005, 119 Stat. 103, provided that: “This section \[amending section 303 of this title and section 157 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Involuntary Bankruptcy Improvement Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -1354,6 +1376,10 @@ Pub. L. 100–334, §1, June 16, 1988, 102 Stat. 610, provided that: “This Act
 
 Section 361 of subtitle C (§§361–363) of title III of Pub. L. 98–353 provided that: “This subtitle \[amending sections 362, 365, and 541 of this title\] may be cited as the ‘Leasehold Management Bankruptcy Amendments Act of 1983’.”
 
+#### Savings Provision
+
+Pub. L. 109–8, title IX, §912, as added Pub. L. 109–390, §5(d), Dec. 12, 2006, 120 Stat. 2698, provided that: “The meanings of terms used in this title \[see Tables for classification\] are applicable for the purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act \[Pub. L. 106–102, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking\], the Legal Certainty for Bank Products Act of 2000 \[7 U.S.C. 27 to 27f\], the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\]), and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].”
+
 #### Separability
 
 Section 701 of Pub. L. 103–394 provided that: “If any provision of this Act \[see Tables for classification\] or amendment made by this Act or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remaining provisions of and amendments made by this Act and the application of such other provisions and amendments to any person or circumstance shall not be affected thereby.”
@@ -1374,7 +1400,13 @@ Pub. L. 109–8, title I, §102(e), Apr. 20, 2005, 119 Stat. 33, provided that: 
 
 Pub. L. 109–8, title XII, §1226, Apr. 20, 2005, 119 Stat. 199, provided that: “The Director of the Federal Judicial Center, in consultation with the Director of the Executive Office for United States Trustees, shall develop materials and conduct such training as may be useful to courts in implementing this Act \[see Short Title of 2005 Amendment note above\] and the amendments made by this Act, including the requirements relating to the means test under section 707(b), and reaffirmation agreements under section 524, of title 11 of the United States Code, as amended by this Act.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Adjustment of Dollar Amounts
 
-<i><sup>2</sup></i><i> So in original.</i>
+For adjustment of dollar amounts specified in pars. (3), (18), (19A), and (51D) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

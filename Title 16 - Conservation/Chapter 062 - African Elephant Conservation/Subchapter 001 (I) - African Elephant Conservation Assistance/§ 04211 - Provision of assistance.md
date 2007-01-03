@@ -22,7 +22,7 @@ Any African government agency responsible for African elephant conservation and 
 
 #### (c) Project review and approval
 
-The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) of this section and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to each country within which the project is proposed to be conducted.
+The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) of this section and otherwise merits assistance under this chapter. Not later than six months after receiving a projectproposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to each country within which the project is proposed to be conducted.
 
 #### (d) Criteria for approval
 

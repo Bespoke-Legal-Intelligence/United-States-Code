@@ -22,7 +22,7 @@ All the general penal statutes relating to crimes and offenses against the Unite
 
 #### (f) Use of words “Commodity Credit Corporation”
 
-No individual, association, partnership, or corporation shall use the words “Commodity Credit Corporation” or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of a misdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
+No individual, association, partnership, or corporation shall use the words “Commodity Credit Corporation” or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of amisdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
 
 (June 29, 1948, ch. 704, §15, 62 Stat. 1074; June 7, 1949, ch. 175, §6, 63 Stat. 157; Aug. 1, 1956, ch. 815, §2, 70 Stat. 783.)
 

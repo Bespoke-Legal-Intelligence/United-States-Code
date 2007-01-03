@@ -2,7 +2,7 @@
 
 Section 1601, Pub. L. 92–318, title VII, §702, June 23, 1972, 86 Stat. 354, related to Congressional findings and purpose with respect to this chapter.
 
-Section 1602, Pub. L. 92–318, title VII, §703, June 23, 1972, 86 Stat. 354, related to policy of the United Stateswith respect to application of certain provisions of Federal laws.
+Section 1602, Pub. L. 92–318, title VII, §703, June 23, 1972, 86 Stat. 354, related to policy of the United States with respect to application of certain provisions of Federal laws.
 
 Section 1603, Pub. L. 92–318, title VII, §704, June 23, 1972, 86 Stat. 355; Pub. L. 93–380, title VI, §§641(a), 642(a), Aug. 21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §321(a)–(c)(1), Oct. 12, 1976, 90 Stat. 2216; Pub. L. 95–561, title VI, §601(b)(1), Nov. 1, 1978, 92 Stat. 2268, authorized appropriations for purpose of carrying out this chapter.
 

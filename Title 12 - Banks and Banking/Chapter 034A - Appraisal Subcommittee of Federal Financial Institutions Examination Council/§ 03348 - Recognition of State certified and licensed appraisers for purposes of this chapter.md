@@ -8,7 +8,7 @@
 
 #### (2) Extension of effective date
 
-&emsp;Subject to the approval of the council, the Appraisal Subcommittee may extend, until December 31, 1991, the effective date for the use of certified or licensed appraisers if it makes a written finding that a State has made substantial progress in establishing a State certification and licensing system that appears to conform to the provisions of this chapter.
+&emsp;Subject to the approval of the council, the Appraisal Subcommittee may extend, until December 31, 1991, the effective date for the use of certified or licensed appraisers if it makes a written finding that a State has madesubstantial progress in establishing a State certification and licensing system that appears to conform to the provisions of this chapter.
 
 #### (b) Temporary waiver of appraiser certification or licensing requirements for State having scarcity of qualified appraisers
 

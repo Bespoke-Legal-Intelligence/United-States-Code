@@ -2,12 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [7081\.](%C2%A7%2007081%20-%20Civilian%20member%20definition%3B%20exceptions.md) | Civilian member; definition; exceptions.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [7081\.](%C2%A7%2007081%20-%20Civilian%20member%20definition%3B%20exceptions.md) | Civilian member: definition; exceptions. |
 | [7082\.](%C2%A7%2007082%20-%20Deferred%20annuity%20policy%20required.md) | Deferred annuity policy required. |
 | [7083\.](%C2%A7%2007083%20-%20Annuity%20premium%20to%20be%20paid%20by%20monthly%20installments%3B%20government%20reimbursement.md) | Annuity premium to be paid by monthly installments; government reimbursement. |
 | [7084\.](%C2%A7%2007084%20-%20Age%20of%20retirement.md) | Age of retirement. |
@@ -18,7 +13,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+#### Amendments
+
+2006—Pub. L. 109–364, div. A, title X, §1071(a)(35), Oct. 17, 2006, 120 Stat. 2400, substituted “Civilian member:” for “Civilian member;” in item 7081.
 
 
 ---

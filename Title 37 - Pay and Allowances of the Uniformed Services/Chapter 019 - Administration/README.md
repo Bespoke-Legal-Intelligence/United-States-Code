@@ -11,21 +11,23 @@
 | [1007\.](%C2%A7%2001007%20-%20Deductions%20from%20pay.md) | Deductions from pay. |
 | [1008\.](%C2%A7%2001008%20-%20Presidential%20recommendations%20concerning%20adjustments%20and%20changes%20in%20pay%20and%20allowances.md) | Presidential recommendations concerning adjustments and changes in pay and allowances. |
 | [1009\.](%C2%A7%2001009%20-%20Adjustments%20of%20monthly%20basic%20pay.md) | Adjustments of monthly basic pay. |
-| [1010\.](%C2%A7%2001010%20-%20Commissioned%20officers%20promotion%3B%20effective%20date%20for%20pay%20and%20allowances.md) | Commissioned officers: promotions; effective date for pay and allowances.<sup>1</sup> |
+| [1010\.](%C2%A7%2001010%20-%20Commissioned%20officers%20promotions%3B%20effective%20date%20for%20pay%20and%20allowances.md) | Commissioned officers: promotions; effective date for pay and allowances. |
+| [1011\.](%C2%A7%2001011%20-%20Mess%20operation%20reimbursement%20of%20expenses.md) | Mess operations: reimbursement of expenses.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
-| [1011\.](%C2%A7%2001011%20-%20Mess%20operation%20reimbursement%20of%20expenses.md) | Mess operations: reimbursement of expenses.<sup>1</sup> |
 | [1012\.](%C2%A7%2001012%20-%20Disbursement%20and%20accounting%20pay%20of%20enlisted%20members%20of%20the%20National%20Guard.md) | Disbursement and accounting: pay of enlisted members of the National Guard. |
 | [1013\.](%C2%A7%2001013%20-%20Payment%20of%20compensation%20for%20victims%20of%20terrorism.md) | Payment of compensation for victims of terrorism. |
 | [1014\.](%C2%A7%2001014%20-%20Payment%20date%20for%20pay%20and%20allowances.md) | Payment date for pay and allowances. |
-| [1015\.](%C2%A7%2001015%20-%20Annual%20report%20on%20effects%20of%20recruitment%20and%20retention%20initiatives.md) | Annual report on effects of recruitment and retention initiatives. |
+| \[1015. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title X, §1046(b)(2), Oct. 17, 2006, 120 Stat. 2394, struck out item 1015 “Annual report on effects of recruitment and retention initiatives”.
 
 1999—Pub. L. 106–65, div. A, title VI, §673(a)(2), Oct. 5, 1999, 113 Stat. 674, added item 1015.
 
@@ -65,9 +67,9 @@ Pub. L. 99–399, title VIII, §806(e)(2), Aug. 27, 1986, 100 Stat. 889, added i
 - [&sect; 01007 - Deductions from pay](%C2%A7%2001007%20-%20Deductions%20from%20pay.md)
 - [&sect; 01008 - Presidential recommendations concerning adjustments and changes in pay and allowances](%C2%A7%2001008%20-%20Presidential%20recommendations%20concerning%20adjustments%20and%20changes%20in%20pay%20and%20allowances.md)
 - [&sect; 01009 - Adjustments of monthly basic pay](%C2%A7%2001009%20-%20Adjustments%20of%20monthly%20basic%20pay.md)
-- [&sect; 01010 - Commissioned officers promotion; effective date for pay and allowances](%C2%A7%2001010%20-%20Commissioned%20officers%20promotion%3B%20effective%20date%20for%20pay%20and%20allowances.md)
+- [&sect; 01010 - Commissioned officers promotions; effective date for pay and allowances](%C2%A7%2001010%20-%20Commissioned%20officers%20promotions%3B%20effective%20date%20for%20pay%20and%20allowances.md)
 - [&sect; 01011 - Mess operation reimbursement of expenses](%C2%A7%2001011%20-%20Mess%20operation%20reimbursement%20of%20expenses.md)
 - [&sect; 01012 - Disbursement and accounting pay of enlisted members of the National Guard](%C2%A7%2001012%20-%20Disbursement%20and%20accounting%20pay%20of%20enlisted%20members%20of%20the%20National%20Guard.md)
 - [&sect; 01013 - Payment of compensation for victims of terrorism](%C2%A7%2001013%20-%20Payment%20of%20compensation%20for%20victims%20of%20terrorism.md)
 - [&sect; 01014 - Payment date for pay and allowances](%C2%A7%2001014%20-%20Payment%20date%20for%20pay%20and%20allowances.md)
-- [&sect; 01015 - Annual report on effects of recruitment and retention initiatives](%C2%A7%2001015%20-%20Annual%20report%20on%20effects%20of%20recruitment%20and%20retention%20initiatives.md)
+- [&sect; 01015 - Repealed. Pub. L. 109&#8211;364, div. A, title X, &sect;1046(b)(1), Oct. 17, 2006, 120 Stat. 2393](%C2%A7%2001015%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71046%28b%29%281%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202393.md)

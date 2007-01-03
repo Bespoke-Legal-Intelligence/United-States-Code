@@ -1,6 +1,6 @@
 ### §18236. Contributions to States; other use permitted by States
 
-(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
+(a) Contributions under section 18233 of this title are subject to such terms as the Secretaryof Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
 
 (b) A contribution made for an armory or readiness center under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
 
@@ -16,7 +16,7 @@
 
 &emsp;(2) apply amounts received under those leases or agreements to the cost of maintaining the facility.
 
-(d) Except as otherwise agreed when the contribution is made, and except as the agreementis later changed, a State may not permit any use or disposition of the facility that would interfere with its use—
+(d) Except as otherwise agreed when the contribution is made, and except as the agreement is later changed, a State may not permit any use or disposition of the facility that would interfere with its use—
 
 &emsp;(1) for administering and training the reserve components of the armed forces; or
 
@@ -130,5 +130,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and toconstruction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 

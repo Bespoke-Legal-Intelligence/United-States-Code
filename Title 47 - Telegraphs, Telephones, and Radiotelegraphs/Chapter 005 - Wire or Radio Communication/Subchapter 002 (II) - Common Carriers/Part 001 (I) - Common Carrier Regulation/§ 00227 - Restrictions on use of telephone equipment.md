@@ -152,7 +152,7 @@ As used in this section—
 
 #### (3) Use of database permitted
 
-&emsp;The regulations required by paragraph (2) may require the establishment and operation of a single national database to compile a list of telephone numbers of residential subscribers who object to receiving telephone solicitations, and to make that compiled list and parts thereof available for purchase. If the Commission determines to require such a database, such regulations shall—
+&emsp;The regulations required by paragraph (2) may require the establishment and operationof a single national database to compile a list of telephone numbers of residential subscribers who object to receiving telephone solicitations, and to make that compiled list and parts thereof available for purchase. If the Commission determines to require such a database, such regulations shall—
 
 &emsp;&emsp;(A) specify a method by which the Commission will select an entity to administer such database;
 

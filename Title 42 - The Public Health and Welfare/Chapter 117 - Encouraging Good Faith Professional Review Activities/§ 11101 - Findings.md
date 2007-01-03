@@ -14,10 +14,6 @@ The Congress finds the following:
 
 (Pub. L. 99–660, title IV, §402, Nov. 14, 1986, 100 Stat. 3784.)
 
-#### References in Text
-
-The Federal antitrust laws, referred to in par. (4), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-
 #### Short Title
 
 Section 401 of title IV of Pub. L. 99–660 provided that: “This title \[enacting this chapter and provisions set out as a note under section 11111 of this title\] may be cited as the ‘Health Care Quality Improvement Act of 1986’.”

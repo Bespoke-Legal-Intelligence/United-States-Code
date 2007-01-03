@@ -1,0 +1,148 @@
+### §53511. Tax treatment of nonqualified withdrawals
+
+(a)
+
+In General.—Except as provided in section 53513 of this title, a withdrawal from a fund that is not a qualified withdrawal shall be treated as a nonqualified withdrawal.
+
+(b)
+
+Order of Withdrawals.—A nonqualified withdrawal shall be treated as made—
+
+&emsp;(1) first from the ordinary income account;
+
+&emsp;(2) second from the capital gain account; and
+
+&emsp;(3) third from the capital account.
+
+(c)
+
+Tax Treatment.—For purposes of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.)—
+
+&emsp;(1) a nonqualified withdrawal from the ordinary income account shall be included in income as an item of ordinary income for the taxable year in which the withdrawal is made;
+
+&emsp;(2) a nonqualified withdrawal from the capital gain account shall be included in income for the taxable year in which the withdrawal is made as an item of gain realized during that year from the disposition of an asset held for more than 6 months; and
+
+&emsp;(3) for the period through the last date prescribed for payment of tax for the taxable year in which the withdrawal is made—
+
+&emsp;&emsp;(A) no interest shall be payable under section 6601 of such Code (26 U.S.C. 6601) and no addition to the tax shall be payable under section 6651 of such Code (26 U.S.C. 6651);
+
+&emsp;&emsp;(B) interest on the amount of the additional tax attributable to an amount treated as a nonqualified withdrawal from the ordinary income account or the capital gain account shall be paid at the rate determined under subsection (d) from the last date prescribed for payment of the tax for the taxable year for which the amount was deposited in the fund; and
+
+&emsp;&emsp;(C) no interest shall be payable on amounts treated as withdrawn on a last-in-first-out basis under section 53512 of this title.
+
+(d)
+
+Interest Rate.—The rate of interest under subsection (c)(3)(B) for a nonqualified withdrawal made in a taxable year beginning after 1971 shall be determined and published jointly by the Secretary and the Secretary of the Treasury. The rate shall be such that its relationship to 8 percent is comparable, as determined by the Secretaries under joint regulations, to the relationship between—
+
+&emsp;(1) the money rates and investment yields for the calendar year immediately before the beginning of the taxable year; and
+
+&emsp;(2) the money rates and investment yields for the calendar year 1970.
+
+(e)
+
+Nonqualified Withdrawals.—
+
+&emsp;(1)
+
+In general.—The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal:
+
+<b>If the amount remains in the fund at</b>
+
+<b>The applicable</b>
+
+<b>  the close of the—</b>
+
+<b>percentage is—</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;26th taxable year
+
+&nbsp;&nbsp;20 percent&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;27th taxable year
+
+&nbsp;&nbsp;40 percent&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;28th taxable year
+
+&nbsp;&nbsp;60 percent&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;29th taxable year
+
+&nbsp;&nbsp;80 percent&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;30th taxable year
+
+&nbsp;&nbsp;100 percent.
+
+&emsp;(2)
+
+Earnings.—The earnings of a capital construction fund for any taxable year (except net gains) shall be treated under this subsection as an amount deposited for the taxable year.
+
+&emsp;(3)
+
+Contract for qualified withdrawal.—Under paragraph (1), an amount shall not be treated as remaining in a capital construction fund at the close of a taxable year to the extent there is a binding contract at the close of the taxable year for a qualified withdrawal of the amount for an identified item for which the withdrawal may be made.
+
+&emsp;(4)
+
+Excess earnings.—If the Secretary determines that the balance in a capital construction fund exceeds the amount appropriate to meet the vessel construction program objectives of the person that established the fund, the amount of the excess shall be treated as a nonqualified withdrawal under paragraph (1) unless the person develops appropriate program objectives within 3 years to dissipate the excess.
+
+&emsp;(5)
+
+Amounts in fund on january 1, 1987.—Under this subsection, amounts in a capital construction fund on January 1, 1987, shall be treated as having been deposited in that fund on that date.
+
+(f)
+
+Tax Determinations.—
+
+&emsp;(1)
+
+In general.—For a taxable year for which there is a nonqualified withdrawal (including an amount treated as a nonqualified withdrawal under subsection (e)), the tax imposed by chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. ch. 1) shall be determined by—
+
+&emsp;&emsp;(A) excluding the withdrawal from gross income; and
+
+&emsp;&emsp;(B) increasing the tax imposed by chapter 1 of such Code by the product of the amount of the withdrawal and the highest tax rate specified in section 1 (or section 11 for a corporation) of such Code (26 U.S.C. 1, 11).
+
+&emsp;(2)
+
+Maximum tax rate.—For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code (26 U.S.C. 1(h), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 15 percent (or 34 percent for a corporation).
+
+&emsp;(3)
+
+Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attributable to deposits (except earnings on deposits) made by the taxpayer in a taxable year that did not reduce the taxpayer's liability for tax under chapter 1 of such Code (26 U.S.C. ch. 1) for a taxable year before the taxable year in which the withdrawal occurs—
+
+&emsp;&emsp;(A) that portion shall not be taken into account under paragraph (1); and
+
+&emsp;&emsp;(B) an amount equal to that portion shall be allowed as a deduction under section 172 of such Code (26 U.S.C. 172) for the taxable year in which the withdrawal occurs.
+
+&emsp;(4)
+
+Coordination with deduction for net operating losses.—A nonqualified withdrawal excluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (26 U.S.C. 172(b)(2)).
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1597.)
+
+#### Amendment of Subsection (f)(2)
+
+<i>Subsection (f)(2) of this section was derived from the last paragraph of section 1177(h)(6)(A) of the former Appendix to this title, which was amended by section 301(a)(2)(E) of Pub. L. 108–27 by substituting “15 percent” for “20 percent”. Section 303 of Pub. L. 108–27, as amended by section 102 of Pub. L. 109–222, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of Title 26, Internal Revenue Code, provided that such amendment shall not apply to taxable years beginning after December 31, 2010, and that the Internal Revenue Code of 1986 shall be applied and administered to such years as if the amendment had never been enacted. For applicability of section 303 of Pub. L. 108–27 to subsection (f)(2) of this section, see section 18(c), (d) of Pub. L. 109–304, set out as a note preceding section 101 of this title.</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53511
+
+46 App.:1177(h) (less (2) (last sentence)).
+
+June 29, 1936, ch. 858, title VI, §607(h) (less (2) (last sentence)), 49 Stat. 2005; June 23, 1938, ch. 600, §§23–28, 52 Stat. 960; Aug. 4, 1939, ch. 417, §10, 53 Stat. 1185; July 17, 1952, ch. 939, §§17–19, 66 Stat. 764; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 216; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, §6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; restated Pub. L. 91–469, §21(a), Oct. 21, 1970, 84 Stat. 1030; Pub. L. 97–31, §12(97)(A), Aug. 6, 1981, 95 Stat. 162; Pub. L. 99–514, title II, §261(e)(6), Oct. 22, 1986, 100 Stat. 2215; Pub. L. 100–647, title I, §1002(m)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11101(d)(7)(B), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(E), May 28, 2003, 117 Stat. 758.
+
+In subsection (c)(3)(C), the words “or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 1176(5) of this Appendix as in effect on December 31, 1969” are omitted as obsolete.
+
+In subsection (d), the words “made in a taxable year beginning in 1970 or 1971 is 8 percent” are omitted as obsolete.
+

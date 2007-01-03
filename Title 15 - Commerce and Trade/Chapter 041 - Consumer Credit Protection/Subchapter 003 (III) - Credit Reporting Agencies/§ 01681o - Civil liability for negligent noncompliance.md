@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 104–208, §2412(e)(2), added subsec. (b).
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -18,7 +18,7 @@ The option fee for each option agreement shall be applied to the agreed purchase
 
 #### (e) Retention of option payment
 
-The payment for each option may be retained by the party granting the option if the property transfer contemplated by the option agreement is not completed in accordance with the terms of the option agreement.
+The payment for each option may be retained by the party granting the option if the propertytransfer contemplated by the option agreement is not completed in accordance with the terms of the option agreement.
 
 (Pub. L. 95–395, §5, Sept. 30, 1978, 92 Stat. 814.)
 

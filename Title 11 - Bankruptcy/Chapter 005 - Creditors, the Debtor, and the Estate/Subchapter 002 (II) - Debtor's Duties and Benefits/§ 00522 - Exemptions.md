@@ -6,7 +6,7 @@
 
 &emsp;(2) “value” means fair market value as of the date of the filing of the petition or, with respect to property that becomes property of the estate after such date, as of the date such property becomes property of the estate.
 
-(b)(1) Notwithstanding section 541 of this title, an individual debtor may exempt from property of the estate the property listed in either paragraph (2) or, in the alternative, paragraph (3) of this subsection. In joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Federal Rules of Bankruptcy Procedure, one debtor may not elect to exempt property listed in paragraph (2) and the other debtor elect to exempt property listed in paragraph (3) of this subsection. If the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (2), where such election is permitted under the law of the jurisdiction where the case is filed.
+(b)(1) Notwithstanding section 541 of this title, an individual debtor may exempt from property of the estate the property listed in either paragraph (2) or, in the alternative, paragraph (3) of this subsection. In joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Federal Rules of Bankruptcy Procedure, one debtor may not elect to exempt property listed in paragraph (2) and the other debtor elect to exempt property listed in paragraph (3) of this subsection. If the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph\(2), where such election is permitted under the law of the jurisdiction where the case is filed.
 
 (2) Property listed in this paragraph is property that is specified under subsection (d), unless the State law that is applicable to the debtor under paragraph (3)(A) specifically does not so authorize.
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(II) the retirement fund fails to be in substantial compliance with the applicable requirements of the Internal Revenue Code of 1986 and the debtor is not materially responsible for that failure.
 
-&emsp;(C) A direct transfer of retirement funds from 1 fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of1986, under section 401(a)(31) of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such direct transfer.
+&emsp;(C) A direct transfer of retirement funds from 1 fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under section 401(a)(31) of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such direct transfer.
 
 &emsp;(D)(i) Any distribution that qualifies as an eligible rollover distribution within the meaning of section 402(c) of the Internal Revenue Code of 1986 or that is described in clause (ii) shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such distribution.
 
@@ -216,7 +216,7 @@
 
 &emsp;(2) any costs and expenses of avoiding a transfer under subsection (f) or (h) of this section, or of recovery of property under subsection (i)(1) of this section, that the debtor has not paid.
 
-(<i>l</i>) The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
+(<i>l</i>) The debtor shall file a list of property that the debtor claims as exempt under subsection\(b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
@@ -400,7 +400,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(1), are se
 
 The Internal Revenue Code of 1986, referred to in subsecs. (b)(3)(C), (4), (d)(10)(E)(iii), (12), and (n), is classified generally to Title 26, Internal Revenue Code.
 
-Sections 3(a)(47), 12, and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (q)(1)(B)(i),\(ii), are classified to sections 78c(a)(47), 78<i>l</i>, and 78<i>o</i>(d), respectively, of Title 15, Commerce and Trade.
+Sections 3(a)(47), 12, and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (q)(1)(B)(i), (ii), are classified to sections 78c(a)(47), 78<i>l</i>, and 78<i>o</i>(d), respectively, of Title 15, Commerce and Trade.
 
 Section 6 of the Securities Exchange Act of 1933, referred to in subsec. (q)(1)(B)(ii), is classified to section 77f of Title 15, Commerce and Trade.
 
@@ -452,7 +452,7 @@ Subsecs. (p), (q). Pub. L. 109–8, §322(a), added subsecs. (p) and (q).
 
 1994—Subsec. (b). Pub. L. 103–394, §501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
 
-Subsec. (d)(1) to (6). Pub. L. 103–394, §108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for “$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
+Subsec. (d)(1) to (6). Pub. L. 103–394, §108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for“$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
 
 Subsec. (d)(8). Pub. L. 103–394, §108(d)(7), substituted “$8,000” for “$4,000”.
 
@@ -528,7 +528,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (d)(1) to (6), (8), (11)(D) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsecs. (d)(1) to (6), (8), (11)(D), (f)(3), (4), (n), (p), and (q) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 <i><sup>1</sup></i><i> Replaced by 22 U.S.C. 4060(c).</i>
 

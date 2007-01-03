@@ -86,7 +86,7 @@ I transmit herewith Reorganization Plan No. 3 of 1950, prepared in accordance wi
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 3 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
-I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions forthe appointment and compensation of an Assistant Secretary of the Interior and an Administrative Assistant Secretary of the Interior. The rate of compensation fixed for these officers is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
+I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Assistant Secretary of the Interior and an Administrative Assistant Secretary of the Interior. The rate of compensation fixed for these officers is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
 
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 

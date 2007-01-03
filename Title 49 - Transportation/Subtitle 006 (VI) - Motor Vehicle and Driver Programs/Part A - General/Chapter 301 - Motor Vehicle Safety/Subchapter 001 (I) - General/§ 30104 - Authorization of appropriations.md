@@ -1,6 +1,6 @@
 ### §30104. Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary $98,313,500 for the National HighwayTraffic Safety Administration to carry out this part in each fiscal year beginning in fiscal year 1999 and ending in fiscal year 2001.
+There is authorized to be appropriated to the Secretary $98,313,500 for the National Highway Traffic Safety Administration to carry out this part in each fiscal year beginning in fiscal year 1999 and ending in fiscal year 2001.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 944; Pub. L. 105–178, title VII, §7102(a), June 9, 1998, 112 Stat. 465; Pub. L. 106–39, §1(a), July 28, 1999, 113 Stat. 206.)
 

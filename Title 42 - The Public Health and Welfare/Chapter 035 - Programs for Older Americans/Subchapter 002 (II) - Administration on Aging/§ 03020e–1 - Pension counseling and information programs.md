@@ -44,7 +44,7 @@ The Assistant Secretary shall establish a citizen advisory panel to advise the A
 
 #### (e) Application
 
-To be eligible to receive a grant under this section, an entity shall submit an application tothe Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
+To be eligible to receive a grant under this section, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
 
 &emsp;(1) a plan to establish a pension counseling and information program that—
 
@@ -66,7 +66,7 @@ To be eligible to receive a grant under this section, an entity shall submit an 
 
 &emsp;&emsp;(I) makes recommendations to the Administration, the Department of Labor and other Federal, State, and local agencies concerning issues for older individuals related to pension and other retirement benefits; and
 
-&emsp;&emsp;(J) establishes or continues an outreach program to provide information, counseling, referral and assistance regarding pension and other retirement benefits, with particular emphasis on outreach to women, minorities, older individuals residing in rural areas and low income retirees; and
+&emsp;&emsp;(J) establishes or continues an outreach program to provide information, counseling, referral and assistance regarding pension and other retirement benefits, with particular emphasis on outreach to women, minorities, older individuals residing in rural areas, low-income retirees, and older individuals with limited English proficiency; and
 
 &emsp;(2) an assurance that staff members (including volunteer staff members) have no conflict of interest in providing the services described in the plan described in paragraph (1).
 
@@ -76,7 +76,7 @@ The Assistant Secretary shall consider the following criteria in awarding grants
 
 &emsp;(1) Evidence of a commitment by the entity to carry out a proposed pension counseling and information program.
 
-&emsp;(2) The ability of the entity to perform effective outreach to affected populations, particularly populations that are identified in need of special outreach.
+&emsp;(2) The ability of the entity to perform effective outreach to affected populations, particularly populations with limited English proficiency and other populations that are identified as in need of special outreach.
 
 &emsp;(3) Reliable information that the population to be served by the entity has a demonstrable need for the services proposed to be provided under the program.
 
@@ -104,7 +104,7 @@ The Assistant Secretary shall consider the following criteria in awarding grants
 
 #### (2) Content
 
-&emsp;Such hotline described in paragraph (1) shall provide information for individuals seeking outreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
+&emsp;Such hotline described in paragraph (1) shall provide information for individuals (including individuals with limited English proficiency) seeking outreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
 
 #### (3) Agreements
 
@@ -126,7 +126,7 @@ Not later than 30 months after November 13, 2000, the Assistant Secretary shall 
 
 Of the funds appropriated under section 3020f of this title to carry out this section for a fiscal year, not more than $100,000 may be used by the Administration for administrative expenses.
 
-(Pub. L. 89–73, title II, §215, as added Pub. L. 106–501, title II, §202(5), Nov. 13, 2000, 114 Stat. 2231.)
+(Pub. L. 89–73, title II, §215, as added Pub. L. 106–501, title II, §202(5), Nov. 13, 2000, 114 Stat. 2231; amended Pub. L. 109–365, title II, §209, Oct. 17, 2006, 120 Stat. 2537.)
 
 #### References in Text
 
@@ -138,7 +138,11 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(B), is act Au
 
 A prior section 215 of Pub. L. 89–73 was renumbered section 216 and is classified to section 3020f of this title.
 
-#### Termination of Advisory Panels
+#### Amendments
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+2006—Subsec. (e)(1)(J). Pub. L. 109–365, §209(1), substituted “, low-income retirees, and older individuals with limited English proficiency” for “and low income retirees”.
+
+Subsec. (f)(2). Pub. L. 109–365, §209(2), added par. (2) and struck out former par. (2) which read as follows: “The ability of the entity to perform effective outreach to affected populations, particularly populations that are identified in need of special outreach.”
+
+Subsec. (h)(2). Pub. L. 109–365, §209(3), inserted “(including individuals with limited English proficiency)” after “for individuals”.
 

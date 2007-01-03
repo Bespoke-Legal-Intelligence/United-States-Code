@@ -2,7 +2,7 @@
 
 #### (a) Appointment, compensation and status of president of Institute and other officers
 
-The Board shall appoint the president of the Institute and such other officers as the Board determines to be necessary. The president of the Institute shall be a nonvoting ex officio member of the Board. All officers shall serve at the pleasure of the Board. The president shall be appointed for an explicit term of years. Notwithstanding any other provision of law limiting the payment of compensation, the president and other officers appointed by the Board shall becompensated at rates determined by the Board, but no greater than that payable for level I of the Executive Schedule under chapter 53 of title 5.
+The Board shall appoint the president of the Institute and such other officers as the Board determines to be necessary. The president of the Institute shall be a nonvoting ex officio member of the Board. All officers shall serve at the pleasure of the Board. The president shall be appointed for an explicit term of years. Notwithstanding any other provision of law limiting the payment of compensation, the president and other officers appointed by the Board shall be compensated at rates determined by the Board, but no greater than that payable for level I of the Executive Schedule under chapter 53 of title 5.
 
 #### (b) Authorization of activities
 
@@ -36,15 +36,13 @@ No part of the financial resources, income, or assets of the Institute or of any
 
 The Institute shall not make loans to its directors, officers, employees, or agents, or to any legal entity created by the Institute. A director, officer, employee, or agent who votes for or assents to the making of a loan or who participates in the making of a loan shall be jointly and severally liable to the Institute for the amount of the loan until repayment thereof.
 
-(Pub. L. 98–525, title XVII, §1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, §301(b), Oct. 31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, §319(c), Nov. 5, 1990, 104 Stat. 2285; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
+(Pub. L. 98–525, title XVII, §1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, §301(b), Oct.31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, §319(c), Nov. 5, 1990, 104 Stat. 2285; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### References in Text
 
 Level I of the Executive Schedule, referred to in subsec. (a), is set out in section 5312 of Title 5, Government Organization and Employees.
 
 The provisions of title 5 relating to classification and General Schedule pay rates, referred to in subsec. (c), are set out in chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
-The provisions of title 28 which relate to Federal tort claims liability, referred to in subsec. (f)(1), are the provisions of the Federal Tort Claims Act, which is classified generally to section 1346(b) and to chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 
@@ -56,7 +54,7 @@ The provisions of title 28 which relate to Federal tort claims liability, referr
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1998 Amendment
 

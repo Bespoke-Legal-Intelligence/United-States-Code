@@ -6,7 +6,7 @@ The Director may require the applicant to disclaim an unregistrable component of
 
 #### (b) Prejudice of rights
 
-No disclaimer, including those made under subsection (e) of section 1057 of this title, shall prejudice or affect the applicant's or registrant's rights then existing or thereafter arising in the disclaimed matter, or his right of registration on another application if the disclaimed matter be or shall have become distinctive of his goods or services.
+No disclaimer, including those made under subsection (e) of section 1057 of this title, shallprejudice or affect the applicant's or registrant's rights then existing or thereafter arising in the disclaimed matter, or his right of registration on another application if the disclaimed matter be or shall have become distinctive of his goods or services.
 
 (July 5, 1946, ch. 540, title I, §6, 60 Stat. 429; Pub. L. 87–772, §3, Oct. 9, 1962, 76 Stat. 769; Pub. L. 100–667, title I, §108, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 

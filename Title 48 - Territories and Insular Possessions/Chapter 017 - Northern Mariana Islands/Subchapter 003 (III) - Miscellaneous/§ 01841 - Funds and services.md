@@ -8,13 +8,13 @@ There is hereby authorized to be appropriated for expenditure after October 1, 1
 
 (1) The government of the Northern Marianas in carrying out the purposes of this Act, Public Law 95–134, or Public Law 94–241 \[48 U.S.C. 1801 et seq.\], may utilize, to the extent practicable, the available services and facilities of agencies and instrumentalities of the Federal Government on a reimbursable basis. Such amounts may be credited to the appropriation or fund which provided the services and facilities. Agencies and instrumentalities of the Federal Government may, when practicable, make available to the government of the Northern Marianas, upon request of the Secretary, such services and facilities as they are equipped to render or furnish, and they may do so without reimbursement if otherwise authorized by law.
 
-(2) Any funds made available to the Northern Mariana Islands under grant-in-aid programs bysection 502 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (Public Law 94–241), or pursuant to any other Act of Congress enacted after March 24, 1976, are hereby authorized to remain available until expended.
+(2) Any funds made available to the Northern Mariana Islands under grant-in-aid programs by section 502 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (Public Law 94–241), or pursuant to any other Act of Congress enacted after March 24, 1976, are hereby authorized to remain available until expended.
 
 (3) Any amount authorized by the Covenant described in paragraph (2) or by any other Act of Congress enacted after March 24, 1976, which authorizes appropriations for the Northern Mariana Islands, but not appropriated for a fiscal year is authorized to be available for appropriation in succeeding fiscal years.
 
 #### (c) Food stamps and distribution of donated foods
 
-Notwithstanding the provisions of the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], the Secretary of Agriculture is authorized, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with section 5 and 7 of article II of the Constitution of the Northern Mariana Islands, and for the period during which such legislation is effective, (1) to implement a food stamp program in part or all of the Northern Mariana Islands with such income and household standards of eligibility, deductions, and allotment values as the Secretary determines, after consultation with the Governor, to be suited to the economic and social circumstances of such islands: <i>Provided</i>, That in no event shall such income standards of eligibility exceed those in the forty-eight contiguous States, and (2) to distribute or permit a distribution of federally donated foods in any part of the Northern Mariana Islands for which the Governor has not requested that the food stamp program be implemented. This authority shall remain in effect through September 30, 1981, and shall not apply to section 1421q–1 or 1574–1 <sup>1</sup> of this title.
+Notwithstanding the provisions of the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], the Secretary of Agriculture is authorized, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with section 5 and 7 of article II of the Constitution of the Northern Mariana Islands, and for the period during which such legislation is effective, (1) to implement a food stamp program in part or all of the Northern Mariana Islands with such income and household standards of eligibility, deductions, and allotment values as the Secretary determines, after consultation with the Governor, to be suited to the economic and social circumstances of such islands: <i>Provided</i>, That in no event shallsuch income standards of eligibility exceed those in the forty-eight contiguous States, and (2) to distribute or permit a distribution of federally donated foods in any part of the Northern Mariana Islands for which the Governor has not requested that the food stamp program be implemented. This authority shall remain in effect through September 30, 1981, and shall not apply to section 1421q–1 or 1574–1 <sup>1</sup> of this title.
 
 #### (d) Administration and enforcement of revenue and taxation provisions of Covenant
 
@@ -34,7 +34,7 @@ Public Law 95–134, referred to in subsec. (b)(1), is Pub. L. 95–134, Oct. 15
 
 Public Law 94–241, referred to in subsecs. (b)(1), (2) and (d)(1), (2), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
-The Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in subsecs. (b)(2),\(3) and (d), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
+The Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in subsecs. (b)(2), (3) and (d), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
 
 The Food Stamp Act of 1977, referred to in subsec. (c), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -50,7 +50,7 @@ March 12, 1980, referred to in subsec. (d)(2), was in the original “the date o
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 96–205 designated existing provisions as par. (1), inserted “or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter of request from either the Governor or the Lieutenant Governor of the Northern Mariana Islands,” after “Constitution of the Northern Mariana Islands,” the first place appearing, and added pars. (2) and (3).
+1980—Subsec. (d). Pub. L. 96–205 designated existing provisions as par. (1), inserted “or upon receipt of a resolution adopted by both houses of the legislature of theNorthern Mariana Islands accompanied by a letter of request from either the Governor or the Lieutenant Governor of the Northern Mariana Islands,” after “Constitution of the Northern Mariana Islands,” the first place appearing, and added pars. (2) and (3).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

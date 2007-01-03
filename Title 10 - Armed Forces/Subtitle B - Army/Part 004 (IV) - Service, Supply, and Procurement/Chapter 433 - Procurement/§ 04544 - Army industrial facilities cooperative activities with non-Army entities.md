@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity amilitary or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c).
+Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c).
 
 (b)
 
@@ -50,7 +50,7 @@ Conditions.—An activity authorized by subsection (b) may be carried out at an 
 
 (d)
 
-Arangement <sup>1</sup> Methods and Authorities.—To establish a cooperative arrangement under subsection (a) with a non-Army entity, the approval authority described in subsection (f) for an Army industrial facility may—
+Arrangement Methods and Authorities.—To establish a cooperative arrangement under subsection (a) with a non-Army entity, the approval authority described in subsection (f) for an Army industrial facility may—
 
 &emsp;(1) enter into a firm, fixed-price contract (or, if agreed to by the non-Army entity, a cost reimbursement contract) for a sale of articles or services or use of equipment or facilities;
 
@@ -116,11 +116,13 @@ Definitions.—In this section:
 
 Expiration of Authority.—The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2009.
 
-(Added Pub. L. 108–375, div. A, title III, §353(a), Oct. 28, 2004, 118 Stat. 1859; amended Pub. L. 109–163, div. A, title III, §321, Jan. 6, 2006, 119 Stat. 3191.)
+(Added Pub. L. 108–375, div. A, title III, §353(a), Oct. 28, 2004, 118 Stat. 1859; amended Pub. L. 109–163, div. A, title III, §321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, §1071(a)(29), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–163, §321(b)(1), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
+2006—Subsec. (d). Pub. L. 109–364 substituted “Arrangement” for “Arangement” in heading.
+
+Pub. L. 109–163, §321(b)(1), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
 
 Subsecs. (e), (f). Pub. L. 109–163, §321(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 

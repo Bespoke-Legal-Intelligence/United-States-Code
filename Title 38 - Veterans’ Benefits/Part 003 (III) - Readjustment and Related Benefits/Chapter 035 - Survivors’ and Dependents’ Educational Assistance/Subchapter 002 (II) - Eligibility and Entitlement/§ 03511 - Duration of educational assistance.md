@@ -1,6 +1,6 @@
 ### §3511. Duration of educational assistance
 
-(a)(1) Each eligible person shall be entitled to educational assistance under this chapter for a period not in excess of 45 months (or to the equivalent thereof in part-time training). In no event may the aggregate educational assistance afforded to a spouse made eligible under both 3501(a)(1)(D)(i) <sup>1</sup> and 3501(a)(1)(D)(ii) of this title exceed 45 months.
+(a)(1) Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title, shall be entitled to educational assistance under this chapter for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training).
 
 (2)(A) Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall not—
 
@@ -10,7 +10,7 @@
 
 (B) The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
 
-&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; and
+&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10 or of being involuntarily ordered to full-time National Guard duty under section 502(f) of title 32; and
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) of this subparagraph, his or her course pursuit.
 
@@ -20,17 +20,43 @@
 
 &emsp;(1) the parent or spouse from whom eligibility is derived is found no longer to have a “total disability permanent in nature”, as defined in section 3501(a)(8) of this title,
 
-&emsp;(2) the parent or spouse from whom eligibility is derived based upon the provisions of section 3501(a)(1)(A)(iii) or 3501(a)(1)(C) of this title is no longer listed in one of the categories specified therein, or
+&emsp;(2) the parent or spouse from whom eligibility is derived based upon section 3501(a)(1)(C) of this title is no longer listed in one of the categories specified therein,
 
-&emsp;(3) the spouse, as an eligible person under section 3501(a)(1)(D) of this title, is divorced, without fault on such person's part, from the person upon whose disability such person's eligibility is based,
+&emsp;(3) the spouse, as an eligible person under subparagraph (D) or (E) of section 3501(a)(1) of this title, is divorced, without fault on such person's part, from the person upon whose disability such person's eligibility is based, or
+
+&emsp;(4) the parent or spouse from whom such eligibility is derived based upon subparagraph (E) of section 3501(a)(1) of this title no longer meets a requirement under clause (i), (ii), or (iii) of that subparagraph,
 
 > then such eligible person (if such person has sufficient remaining entitlement) may, nevertheless, be afforded educational assistance under this chapter until the end of the quarter or semester for which enrolled if the educational institution in which such person is enrolled is operated on a quarter or semester system, or if the educational institution is not so operated until the end of the course, or until 12 weeks have expired, whichever first occurs.
 
-(c) Any entitlement used by an eligible person as a result of eligibility under section 3501(a)(1)(A)(iii), 3501(a)(1)(C), or 3501(a)(1)(D)(i) of this title shall be deducted from any entitlement to which such person may subsequently be entitled under this chapter.
-
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620; Pub. L. 107–103, title I, §§103(a), 108(b)(1), (c)(1), Dec. 27, 2001, 115 Stat. 979, 985.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620; Pub. L. 107–103, title I, §§103(a), 108(b)(1), (c)(1), Dec. 27, 2001, 115 Stat. 979, 985; Pub. L. 109–233, title V, §503(7), June 15, 2006, 120 Stat. 416; Pub. L. 109–444, §3(b)(2), Dec. 21, 2006, 120 Stat. 3306; Pub. L. 109–461, title III, §§301(b)(2), 302(a), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3428, 3468.)
 
 #### Amendments
+
+2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Subsec. (a)(1). Pub. L. 109–461, §301(b)(2)(A), substituted “Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title,” for “Each eligible person” and “an aggregate period” for “a period” in first sentence and struck out second sentence, which read as follows: “In no event may the aggregate educational assistance afforded to a spouse made eligible under both sections 3501(a)(1)(D)(i) and 3501(a)(1)(D)(ii) of this title exceed 45 months.”
+
+Pub. L. 109–444, §3(b)(2)(A), which substituted “Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title,” for “Each eligible person” and “an aggregate period” for “a period” in first sentence and struck out second sentence, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Pub. L. 109–233 inserted “sections” after “under both”.
+
+Subsec. (a)(2)(B)(i). Pub. L. 109–461, §302(a), inserted “or of being involuntarily ordered to full-time National Guard duty under section 502(f) of title 32” after “title 10”.
+
+Subsec. (b)(2). Pub. L. 109–461, §301(b)(2)(B)(i), substituted “section” for “the provisions of section 3501(a)(1)(A)(iii) or” and struck out “or” at end.
+
+Pub. L. 109–444, §3(b)(2)(B)(i), which substituted “section” for “the provisions of section 3501(a)(1)(A)(iii) or” and struck out “or” at end, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (b)(3). Pub. L. 109–461, §301(b)(2)(B)(ii), substituted “subparagraph (D) or (E) of section 3501(a)(1)” for “section 3501(a)(1)(D)” and inserted “or” after comma at end.
+
+Pub. L. 109–444, §3(b)(2)(B)(ii), which substituted “subparagraph (D) or (E) of section 3501(a)(1)” for “section 3501(a)(1)(D)” and inserted “or” after comma at end, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (b)(4). Pub. L. 109–461, §301(b)(2)(B)(iii), added par. (4).
+
+Pub. L. 109–444, §3(b)(2)(B)(iii), which added par. (4) identical to that added by Pub. L. 109–461, §301(b)(2)(B)(iii), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (c). Pub. L. 109–461, §301(b)(2)(C), struck out subsec. (c), which read as follows: “Any entitlement used by an eligible person as a result of eligibility under section 3501(a)(1)(A)(iii), 3501(a)(1)(C), or 3501(a)(1)(D)(i) of this title shall be deducted from any entitlement to which such person may subsequently be entitled under this chapter.”
+
+Pub. L. 109–444, §3(b)(2)(C), which struck out subsec. (c), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2001—Subsec. (a)(1). Pub. L. 107–103, §108(c)(1), inserted at end “In no event may the aggregate educational assistance afforded to a spouse made eligible under both 3501(a)(1)(D)(i) and 3501(a)(1)(D)(ii) of this title exceed 45 months.”
 
@@ -62,6 +88,12 @@ Subsec. (d). Pub. L. 90–631, §1(c), redesignated subsec. (d) as (b).
 
 1964—Subsec. (d). Pub. L. 88–361 added subsec. (d).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by section 301(b)(2) of Pub. L. 109–461 applicable with respect to a payment of educational assistance for a course of education pursued after Dec. 22, 2006, see section 301(d) of Pub. L. 109–461, set out as a note under section 3501 of this title.
+
+Pub. L. 109–461, title III, §302(b), Dec. 22, 2006, 120 Stat. 3428, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a payment of educational assistance allowance made after September 11, 2001.”
+
 #### Effective Date of 2001 Amendment
 
 Amendment by section 103(a) of Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of Pub. L. 107–103, set out as a note under section 3013 of this title.
@@ -75,6 +107,4 @@ Amendment by sections 303 and 310(6) of Pub. L. 94–502 effective Oct. 1, 1976,
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–631 effective first day of second calendar month which begins after Oct. 23, 1968, see section 6(a) of Pub. L. 90–631, set out as an Effective Date note under section 3500 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “sections”.</i>
 

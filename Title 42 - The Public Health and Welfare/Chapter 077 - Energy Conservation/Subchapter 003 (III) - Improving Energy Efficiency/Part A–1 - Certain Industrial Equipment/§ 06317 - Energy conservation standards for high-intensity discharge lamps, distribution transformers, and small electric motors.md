@@ -42,7 +42,7 @@ Beginning on the date which occurs six months after the date on which a labeling
 
 #### Amendments
 
-1992—Pub. L. 102–486 amended section generally, substituting provisions requiring energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors, for provisions authorizing appropriations for fiscal years 1978 and 1979.
+1992—Pub. L. 102–486 amended section generally, substituting provisions requiring energy conservationstandards for high-intensity discharge lamps, distribution transformers, and small electric motors, for provisions authorizing appropriations for fiscal years 1978 and 1979.
 
 #### Study of Utility Distribution Transformers; Report to Congress
 

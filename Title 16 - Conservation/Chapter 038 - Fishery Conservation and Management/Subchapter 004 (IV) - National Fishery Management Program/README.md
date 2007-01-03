@@ -1,7 +1,5 @@
 ### SUBCHAPTER IV—NATIONAL FISHERY MANAGEMENT PROGRAM
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
@@ -10,6 +8,7 @@
 - [&sect; 01851 - National standards for fishery conservation and management](%C2%A7%2001851%20-%20National%20standards%20for%20fishery%20conservation%20and%20management.md)
 - [&sect; 01852 - Regional Fishery Management Councils](%C2%A7%2001852%20-%20Regional%20Fishery%20Management%20Councils.md)
 - [&sect; 01853 - Contents of fishery management plans](%C2%A7%2001853%20-%20Contents%20of%20fishery%20management%20plans.md)
+- [&sect; 01853a - Limited access privilege programs](%C2%A7%2001853a%20-%20Limited%20access%20privilege%20programs.md)
 - [&sect; 01854 - Action by Secretary](%C2%A7%2001854%20-%20Action%20by%20Secretary.md)
 - [&sect; 01855 - Other requirements and authority](%C2%A7%2001855%20-%20Other%20requirements%20and%20authority.md)
 - [&sect; 01856 - State jurisdiction](%C2%A7%2001856%20-%20State%20jurisdiction.md)
@@ -22,3 +21,9 @@
 - [&sect; 01861b - Fisheries enforcement plans and reporting](%C2%A7%2001861b%20-%20Fisheries%20enforcement%20plans%20and%20reporting.md)
 - [&sect; 01862 - North Pacific fisheries conservation](%C2%A7%2001862%20-%20North%20Pacific%20fisheries%20conservation.md)
 - [&sect; 01863 - Northwest Atlantic Ocean Fisheries Reinvestment Program](%C2%A7%2001863%20-%20Northwest%20Atlantic%20Ocean%20Fisheries%20Reinvestment%20Program.md)
+- [&sect; 01864 - Regional coastal disaster assistance, transition, and recovery program](%C2%A7%2001864%20-%20Regional%20coastal%20disaster%20assistance%2C%20transition%2C%20and%20recovery%20program.md)
+- [&sect; 01865 - Bycatch reduction engineering program](%C2%A7%2001865%20-%20Bycatch%20reduction%20engineering%20program.md)
+- [&sect; 01866 - Shark feeding](%C2%A7%2001866%20-%20Shark%20feeding.md)
+- [&sect; 01867 - Cooperative research and management program](%C2%A7%2001867%20-%20Cooperative%20research%20and%20management%20program.md)
+- [&sect; 01868 - Herring study](%C2%A7%2001868%20-%20Herring%20study.md)
+- [&sect; 01869 - Restoration study](%C2%A7%2001869%20-%20Restoration%20study.md)

@@ -8,7 +8,7 @@
 
 &emsp;(A) promote the modernization of graduate academic science and engineering research laboratories and related facilities so as to facilitate and support research in the scientific and engineering disciplines;
 
-&emsp;(B) assist those academic institutions that historically have received relatively little Federal research and development funds to improve their academic science and engineering infrastructures and broaden and strengthen the Nation's science and engineering base; and
+&emsp;(B) assist those academic institutions that historically have received relatively little Federal research and development funds to improve their academic science and engineeringinfrastructures and broaden and strengthen the Nation's science and engineering base; and
 
 &emsp;(C) promote the modernization of undergraduate academic science and engineering research laboratories and related facilities so as to facilitate and support research in the scientific and engineering disciplines.
 

@@ -6,7 +6,7 @@ In recognition of the increasing use and development of the flood plains of the 
 
 #### (b) Flood prevention coordination
 
-The Secretary shall coordinate with the Director of the Federal Emergency Management Agency and the heads of other Federal agencies to ensure that flood control projects and plans are complementary and integrated to the extent practicable and appropriate.
+The Secretary shall coordinate with the Administrator of the Federal Emergency Management Agency and the heads of other Federal agencies to ensure that flood control projects and plans are complementary and integrated to the extent practicable and appropriate.
 
 #### (c) Fees
 
@@ -16,7 +16,7 @@ The Secretary of the Army is authorized to establish and collect fees from Feder
 
 The Secretary of the Army is authorized to expend not to exceed $15,000,000 per fiscal year for the compilation and dissemination of information under this section.
 
-(Pub. L. 86–645, title II, §206, July 14, 1960, 74 Stat. 500; Pub. L. 89–298, title II, §220, Oct. 27, 1965, 79 Stat. 1089; Pub. L. 89–789, title II, §206, Nov. 7, 1966, 80 Stat. 1422; Pub. L. 91–611, title II, §225, Dec. 31, 1970, 84 Stat. 1832; Pub. L. 93–251, title I, §64, Mar. 7, 1974, 88 Stat. 30; Pub. L. 101–640, title III, §321, Nov. 28, 1990, 104 Stat. 4643; Pub. L. 106–53, title II, §§202, 216, Aug. 17, 1999, 113 Stat. 285, 293.)
+(Pub. L. 86–645, title II, §206, July 14, 1960, 74 Stat. 500; Pub. L. 89–298, title II, §220, Oct. 27, 1965, 79 Stat. 1089; Pub. L. 89–789, title II, §206, Nov. 7, 1966, 80 Stat. 1422; Pub. L. 91–611, title II, §225, Dec. 31, 1970, 84 Stat. 1832; Pub. L. 93–251, title I, §64, Mar. 7, 1974, 88 Stat. 30; Pub. L. 101–640, title III, §321, Nov. 28, 1990, 104 Stat. 4643; Pub. L. 106–53, title II, §§202, 216, Aug. 17, 1999, 113 Stat. 285, 293; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Amendments
 
@@ -34,11 +34,11 @@ Subsecs. (c), (d). Pub. L. 106–53, §216(1), redesignated subsecs. (b) and (c)
 
 1966—Subsec. (a). Pub. L. 89–789, in amending subsec. (a) generally, substituted “political subdivisions thereof” for “municipalities” and “advice” for “engineering advice”, inserted provision “to assure that Federal departments and agencies may take proper cognizance of flood hazards”, provided for guidance of Federal and non-Federal interests and agencies and advice to other Federal agencies, and for surveys and guides upon request of a State or political subdivision in lieu of surveys and studies for specific localities upon request of a State or responsible local governmental agency.
 
-Subsec. (b). Pub. L. 89–789 substituted “expend not to exceed $7,000,000 per fiscal year for the compilation and dissemination of information under this section” for“allot, from any appropriations hereafter made for flood control, sums not to exceed $2,500,000 in any one fiscal year for the compilation and dissemination of such information”.
+Subsec. (b). Pub. L. 89–789 substituted “expend not to exceed $7,000,000 per fiscal year for the compilation and dissemination of information under this section” for “allot, from any appropriations hereafter made for flood control, sums not to exceed $2,500,000 in any one fiscal year for the compilation and dissemination of such information”.
 
 1965—Subsec. (b). Pub. L. 89–298 substituted “$2,500,000” for “$1,000,000”.
 
-#### Transfer of Functions
+#### Change of Name
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the FederalEmergency Management Agency” in subsec. (b) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 

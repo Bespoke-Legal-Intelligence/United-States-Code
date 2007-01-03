@@ -28,7 +28,7 @@ The Secretary shall develop and implement a program for acute detoxification and
 
 &emsp;(B) establish guidelines for determining the suitability of any such federally owned structure to be used as a local residential or regional alcohol and substance abuse treatment center for Indian youth.
 
-(2) Any structure described in paragraph (1) may be used under such terms and conditions asmay be agreed upon by the Secretary and the agency having responsibility for the structure.
+(2) Any structure described in paragraph (1) may be used under such terms and conditions as may be agreed upon by the Secretary and the agency having responsibility for the structure.
 
 #### (d) Rehabilitation and aftercare services
 

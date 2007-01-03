@@ -1,10 +1,10 @@
 ### §1217. Academy cadets and midshipmen: applicability of chapter
 
-(a) This chapter applies to cadets at the United States Military Academy, the United States Air Force Academy, and the United States Coast Guard Academy and midshipmen of the United States Naval Academy, but only with respect to physical disabilities incurred after the date of the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005.
+(a) This chapter applies to cadets at the United States Military Academy, the United States Air Force Academy, and the United States Coast Guard Academy and midshipmen of the United States Naval Academy, but only with respect to physical disabilities incurred after October 28, 2004.
 
-(b) Monthly cadet pay and monthly midshipman pay under section 203(c) of title 37 shall be considered to be basic pay for purposes of this chapter and the computation of retired pay and severance and separation pay to which entitlement is established under this chapter.
+(b) Monthly cadet pay and monthly midshipman pay under section 203(c) of title 37 shall be considered to be basic pay for purposes of thischapter and the computation of retired pay and severance and separation pay to which entitlement is established under this chapter.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 85–861, §33(a)(7), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 108–375, div. A, title V, §555(b)(1), Oct. 28, 2004, 118 Stat. 1914.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 85–861, §33(a)(7), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 108–375, div. A, title V, §555(b)(1), Oct. 28, 2004, 118 Stat. 1914; Pub. L. 109–364, div. A, title X, §1071(a)(6), Oct. 17, 2006, 120 Stat. 2398.)
 
 Historical and Revision Notes<br>1956
 
@@ -28,11 +28,9 @@ The revised section is inserted to reflect the limited definition of the word �
 
 Aviation cadets were omitted from chapter 61 because Title IV of the Career Compensation Act of 1949 (formerly 37 U.S.C. 271 et seq.), which was the source law for this chapter, covered only members entitled to basic pay and it was believed that aviation cadets were not so entitled. However, the Comptroller General has ruled that aviation cadets are entitled to basic pay (30 Comp. Gen. 431). Accordingly, aviation cadets were covered by Title IV and should not be excepted from chapter 61.
 
-#### References in Text
-
-The date of the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (a), is the date of enactment of Pub. L. 108–375, which was approved Oct. 28, 2004.
-
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–364 substituted “October 28, 2004” for “the date of the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005”.
 
 2004—Pub. L. 108–375 amended section catchline and text generally. Prior to amendment, text read as follows: “This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or to midshipmen of the Navy.”
 

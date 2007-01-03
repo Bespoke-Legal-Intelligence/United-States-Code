@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—For any sport which is included on the program of the Olympic Games, the Paralympic Games, or the Pan-American Games, the corporation is authorized to recognize as a national governing body (in the case of a sport on the program of the Olympic Games or Pan-American Games) or as a paralympic sports organization (in the case of a sport on the program of the Paralympic Games for which a national governing body has not been designated under section 220522(b)) an amateur sports organization which files an application and is eligible for such recognition in accordance with the provisions of subsections <sup>1</sup> (a) or (b) of section 220522. The corporation may recognize only one national governing body for each sport for which an application is made and approved, except as provided in section 220522(b) with respect to a paralympic sports organization.
+General Authority.—For any sport which is included on the program of the Olympic Games, the Paralympic Games, or the Pan-American Games, the corporation is authorized to recognize as a national governing body (in the case of a sport on the program of the Olympic Games or Pan-American Games) or as a paralympic sports organization (in the case of a sport on the program of the Paralympic Games for which a national governing body has not been designated under section 220522(b)) an amateur sports organization which files an application and is eligible for such recognition in accordance with the provisions of subsection (a) or (b) of section 220522. The corporation may recognize only one national governing body for each sport for which an application is made and approved, except as provided in section 220522(b) with respect to a paralympic sports organization.
 
 (b)
 
@@ -16,7 +16,7 @@ Recommendation to International Sports Federation.—Within 61 days after recogn
 
 Review of Recognition.—The corporation may review all matters related to the continued recognition of an organization as a national governing body and may take action it considers appropriate, including placing conditions on the continued recognition.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, §142(<i>l</i>), 112 Stat. 2681–607.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, §142(<i>l</i>), 112 Stat. 2681–607; Pub. L. 109–284, §5(20), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -58,11 +58,11 @@ In subsection (c), the words “in accordance with subsection (a) of this sectio
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–284 substituted “subsection” for “subsections”.
+
 1998—Subsec. (a). Pub. L. 105–277, §142(<i>l</i>)(1), inserted first sentence and struck out former first sentence which read as follows: “For any sport that is included on the program of the Olympic Games or the Pan-American Games, the corporation may recognize as a national governing body an amateur sports organization that files an application and is eligible under section 220522 of this title.”
 
 Pub. L. 105–277, §142(<i>l</i>)(2), substituted “approved, except as provided in section 220522(b) with respect to a paralympic sports organization.” for “approved.”
 
 Subsec. (b). Pub. L. 105–277, §142(<i>l</i>)(3)–(5), substituted “hold at least 2 public hearings” for “hold a public hearing”, substituted “hearings.” for “hearing.” in two places, and inserted at end “The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

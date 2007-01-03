@@ -22,7 +22,7 @@ Regulations.—The authority provided by subsection (a) shall be exercised under
 
 2004—Pub. L. 108–375, §556(c)(1), substituted “conferral of degrees” for “graduate-level degrees” in section catchline.
 
-Subsec. (a). Pub. L. 108–375, §556(a), substituted “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars. (1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
+Subsec.  (a).  Pub.  L.  108–375,  §556(a),  substituted  “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars. (1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
 
 1999—Pub. L. 106–65, §543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
 

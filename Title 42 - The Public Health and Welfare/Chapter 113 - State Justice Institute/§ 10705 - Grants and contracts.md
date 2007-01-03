@@ -70,7 +70,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(10) to support studies of court rules and procedures, discovery devices, and evidentiary standards, to identify problems with the operation of such rules, procedures, devices, and standards, to devise alternative approaches to better reconcile the requirements of due process with the need for swift and certain justice, and to test the utility of those alternative approaches;
 
-&emsp;(11) to support studies of the outcomes of cases in selected subject matter areas to identify instances in which the substance of justice meted out by the courts diverges from public expectations of fairness, consistency, or equity, to propose alternative approaches to the resolving of cases in problem areas, and to test and evaluate those alternatives;
+&emsp;(11) to support studies of the outcomes of cases in selected subject matter areas to identify instances in which the substance of justice meted out by the courts diverges frompublic expectations of fairness, consistency, or equity, to propose alternative approaches to the resolving of cases in problem areas, and to test and evaluate those alternatives;
 
 &emsp;(12) to support programs to increase court responsiveness to the needs of citizens through citizen education, improvement of court treatment of witnesses, victims, and jurors, and development of procedures for obtaining and using measures of public satisfaction with court processes to improve court performance;
 

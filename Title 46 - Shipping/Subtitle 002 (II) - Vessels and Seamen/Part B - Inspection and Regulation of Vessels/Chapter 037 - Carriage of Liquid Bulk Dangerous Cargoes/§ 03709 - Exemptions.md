@@ -16,7 +16,3 @@ Historical and Revision Notes
 
 Section 3709 provides the Secretary with the authority to exempt certain minimum tanker requirements of sections 3704, 3705, and 3706 when shorebased reception facilities are a better way of handling ballast and when the facilities are adequate and readily available.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1185 of Appendix to this title.
-

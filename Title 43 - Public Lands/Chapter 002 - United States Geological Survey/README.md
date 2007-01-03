@@ -3,30 +3,14 @@
 | Sec. |  |
 | :--- | ---: |
 | [31\.](%C2%A7%2000031%20-%20Director%20of%20United%20States%20Geological%20Survey.md) | Director of United States Geological Survey. |
-| (a) | Establishment of office; appointment and duties; examination of geological structure, mineral resources, and products of national domain; prohibitions in respect to lands and surveys. |
-| (b) | Examination of geological structure, mineral resources, and products outside national domain. |
 | [31a.](%C2%A7%2000031a%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| (a) | Findings. |
-| (b) | Purpose. |
 | [31b.](%C2%A7%2000031b%20-%20Definitions.md) | Definitions. |
 | [31c.](%C2%A7%2000031c%20-%20Geologic%20mapping%20program.md) | Geologic mapping program. |
-| (a) | Establishment. |
-| (b) | Responsibilities of the Survey. |
-| (c) | Program objectives. |
-| (d) | Program components. |
 | [31d.](%C2%A7%2000031d%20-%20Advisory%20committee.md) | Advisory committee. |
-| (a) | Establishment. |
-| (b) | Duties. |
 | [31e.](%C2%A7%2000031e%20-%20Geologic%20mapping%20program%205-year%20plan.md) | Geologic mapping program 5-year plan. |
-| (a) | In general. |
-| (b) | Requirements. |
 | [31f.](%C2%A7%2000031f%20-%20National%20geologic%20map%20database.md) | National geologic map database. |
-| (a) | Establishment. |
-| (b) | Standardization. |
 | [31g.](%C2%A7%2000031g%20-%20Biennial%20report.md) | Biennial report. |
 | [31h.](%C2%A7%2000031h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Allocation of appropriations. |
 | [31i.](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md) | Report on resource research activities. |
 | [31j.](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md) | Biological research activity of Survey; review and report by National Academy of Sciences. |
 | [32\.](%C2%A7%2000032%20-%20Acting%20Director.md) | Acting Director. |

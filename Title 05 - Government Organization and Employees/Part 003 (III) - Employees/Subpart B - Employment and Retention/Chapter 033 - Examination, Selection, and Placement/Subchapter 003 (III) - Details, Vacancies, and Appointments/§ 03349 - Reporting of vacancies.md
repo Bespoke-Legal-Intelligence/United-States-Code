@@ -10,7 +10,7 @@
 
 &emsp;(4) the date of a rejection, withdrawal, or return of any nomination immediately upon such rejection, withdrawal, or return.
 
-(b) If the Comptroller General of the United States makes a determination that an officer is serving longer than the 210-day period including the applicable exceptions to such period under section 3346 or section 3349a, the Comptroller General shall report such determination immediately to—
+(b) If the Comptroller General of the United States makes a determination that an officer isserving longer than the 210-day period including the applicable exceptions to such period under section 3346 or section 3349a, the Comptroller General shall report such determination immediately to—
 
 &emsp;(1) the Committee on Governmental Affairs of the Senate;
 

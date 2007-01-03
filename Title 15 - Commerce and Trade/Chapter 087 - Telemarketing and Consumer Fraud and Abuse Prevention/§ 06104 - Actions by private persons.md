@@ -10,7 +10,7 @@ The plaintiff shall serve prior written notice of the action upon the Commission
 
 #### (c) Action by Commission
 
-Whenever a civil action has been instituted by or on behalf of the Commission for violation of any rule prescribed under section 6102 of this title, no person may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
+Whenever a civil action has been instituted by or on behalf of the Commission for violation ofany rule prescribed under section 6102 of this title, no person may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
 #### (d) Cost and fees
 

@@ -86,7 +86,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 &emsp;&emsp;(A) the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the President's designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives, or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section; and
 
-&emsp;&emsp;(B) notwithstanding subsection (a)(2) of section 14 of the Federal Advisory Committee Act, any committee established under subsection (b) or (c) of this section may, in the discretion of the President or the President's designee, terminate not later than the expiration of the 4-year period beginning on the date of their establishment.
+&emsp;&emsp;(B) notwithstanding subsection (a)(2) of section 14 of the Federal Advisory Committee Act, any committee established under subsection (b) or (c) of this section may, in the discretion of the President or the President's designee, terminate not later than the expiration of the 4-year period beginning on the date of its establishment.
 
 #### (g) Trade secrets and confidential information
 
@@ -128,7 +128,7 @@ In addition to any advisory committee established under this section, the Presid
 
 #### (k) Scope of participation by members of advisory committees
 
-Nothing contained in this section shall be construed to authorize or permit any individual toparticipate directly in any negotiation of any matters referred to in subsection (a) of this section. To the maximum extent practicable, the members of the committees established under subsections (b) and (c) of this section, and other appropriate parties, shall be informed and consulted before and during any such negotiations. They may be designated as advisors to a negotiating delegation, and may be permitted to participate in international meetings to the extent the head of the United States delegation deems appropriate. However, they may not speak or negotiate for the United States.
+Nothing contained in this section shall be construed to authorize or permit any individual to participate directly in any negotiation of any matters referred to in subsection (a) of this section. To the maximum extent practicable, the members of the committees established under subsections (b) and (c) of this section, and other appropriate parties, shall be informed and consulted before and during any such negotiations. They may be designated as advisors to a negotiating delegation, and may be permitted to participate in international meetings to the extent the head of the United States delegation deems appropriate. However, they may not speak or negotiate for the United States.
 
 #### (<i>l</i>) Advisory committees established by Department of Agriculture
 
@@ -142,7 +142,7 @@ As used in this section, the term “non-Federal government” means—
 
 &emsp;(2) any agency or instrumentality of any entity described in paragraph (1).
 
-(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B), Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595.)
+(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B), Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595; Pub. L. 109–280, title XIV, §1635(f)(2), Aug. 17, 2006, 120 Stat. 1171.)
 
 #### References in Text
 
@@ -155,6 +155,8 @@ The Federal Advisory Committee Act, referred to in subsec (f), is Pub. L. 92–4
 The Food and Agriculture Act of 1977, referred to in subsec. (<i>l</i>), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
 #### Amendments
+
+2006—Subsec. (f)(2)(B). Pub. L. 109–280 substituted “its establishment” for “their establishment”.
 
 2004—Subsec. (b)(1). Pub. L. 108–429, §2004(i)(2), substituted “4 years or until the committee is scheduled to expire” for “2 years”.
 
@@ -188,7 +190,7 @@ Subsec. (n). Pub. L. 98–573, §306(c)(2)(B)(v), added subsec. (n).
 
 Subsec. (b)(1). Pub. L. 96–39, §1103(3), substituted “matters referred to in subsection (a) of this section” for “any trade agreement referred to in section 2111 or 2112 of this title”.
 
-Subsec. (b)(2). Pub. L. 96–39, §1103(4), substituted requirement that the members elect the Chairman of the Committee from among its membership for provisiondesignating the Special Representative as Chairman and struck out provision for termination of the Committee upon submission of its report to Congress as soon as practical after the end of the period which ends 5 years after Jan. 3, 1975.
+Subsec. (b)(2). Pub. L. 96–39, §1103(4), substituted requirement that the members elect the Chairman of the Committee from among its membership for provision designating the Special Representative as Chairman and struck out provision for termination of the Committee upon submission of its report to Congress as soon as practical after the end of the period which ends 5 years after Jan. 3, 1975.
 
 Subsec. (c)(1). Pub. L. 96–39, §1103(5), inserted a comma after “initiative”, included references to “services”, and substituted “general policy advice on matters referred to in subsection (a) of this section” for “general policy advice on any trade agreement referred to in section 2111 or 2112 of this title”, “Special Representative for Trade Negotiations” for “President acting through the Special Representative for Trade Negotiations” and “or Agriculture” for “and Agriculture”.
 
@@ -210,6 +212,10 @@ Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred 
 
 Subsec. (<i>l</i>). Pub. L. 96–39, §1103(21), added subsec. (<i>l</i>).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–429, title II, §2004(i)(3), Dec. 3, 2004, 118 Stat. 2595, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on February 1, 2006.”
@@ -228,7 +234,7 @@ For delegation of functions of President under div. B of Pub. L. 107–210, amen
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Ex. Ord. No. 12905. Trade and Environment Policy Advisory Committee
 
@@ -262,7 +268,7 @@ Sec. 4. <i>Administration</i>. (a) The Trade Representative, or his designee, wi
 
 (e) The Committee shall meet as needed at the call of the Trade Representative or his designee, depending on various factors such as the level of activity of trade negotiations and the needs of the Trade Representative, or at the call of two-thirds of the members of the Committee.
 
-Sec. 5. <i>General</i>. The Committee shall function for such period as may be necessary. In accordance with the Federal Advisory Committee Act \[5 App. U.S.C.\], the Committee shall terminate after 2 years from the date of this order unless otherwise extended.
+Sec. 5. <i>General</i>. The Committee shall function for such period as may be necessary. In accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\], the Committee shall terminate after 2 years from the date of this order unless otherwise extended.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Commissioner, subject to the provisions of section 776 of this title, may make grants to eligible entities to pay up to 90 percent of the cost of projects or demonstration programs for the provision of vocational rehabilitationservices to individuals with disabilities who are migrant or seasonal farmworkers, as determined in accordance with rules prescribed by the Secretary of Labor, and to the family members who are residing with such individuals (whether or not such family members are individuals with disabilities).
+&emsp;The Commissioner, subject to the provisions of section 776 of this title, may make grants to eligible entities to pay up to 90 percent of the cost of projects or demonstration programs for the provision of vocational rehabilitation services to individuals with disabilities who are migrant or seasonal farmworkers, as determined in accordance with rules prescribed by the Secretary of Labor, and to the family members who are residing with such individuals (whether or not such family members are individuals with disabilities).
 
 #### (2) Eligible entities
 
@@ -54,5 +54,5 @@ Provisions similar to this section were contained in section 777b of this title 
 
 A prior section 774, Pub. L. 93–112, title III, §304, formerly title II, §203, Sept. 26, 1973, 87 Stat. 376, renumbered and amended, which related to Federal grants, contracts, and programs for training in rehabilitation services, was renumbered section 302 of Pub. L. 93–112, by Pub. L. 102–569, title III, §301(b)(3), Oct. 29, 1992, 106 Stat. 4411, and transferred to section 771a of this title, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 774, Pub. L. 93–112, title III, §304, Sept. 26, 1973, 87 Stat. 381; Pub. L. 93–516, title I, §§106, 111(i)–(k), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L. 93–651, title I, §§106, 111(i)–(k), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§6, 11(b)(9), Mar. 15, 1976, 90 Stat. 212, 213, related to special projects and demonstrations, prior to repeal by Pub. L. 95–602, title I, §109(1), Nov. 6, 1978, 92 Stat. 2962.
+Another prior section 774, Pub. L. 93–112, title III, §304, Sept. 26, 1973, 87 Stat. 381; Pub. L. 93–516, title I, §§106, 111(i)–(k), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L.93–651, title I, §§106, 111(i)–(k), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§6, 11(b)(9), Mar. 15, 1976, 90 Stat. 212, 213, related to special projects and demonstrations, prior to repeal by Pub. L. 95–602, title I, §109(1), Nov. 6, 1978, 92 Stat. 2962.
 

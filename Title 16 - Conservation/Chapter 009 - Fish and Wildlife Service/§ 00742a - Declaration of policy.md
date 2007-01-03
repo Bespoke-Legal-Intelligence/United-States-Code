@@ -8,7 +8,7 @@ The Congress further declares that the fishing industry, in its several branches
 
 &emsp;(2) Protection of opportunity—maintenance of an economic atmosphere in which domestic production and processing can prosper; protection from subsidized competing products; protection of opportunity to fish on the high seas in accordance with international law;
 
-&emsp;(3) Assistance—assistance consistent with that provided by the Government for industry generally, such as is involved in promoting good industrial relations, fair trade standards, harmonious labor relations, better health standards and sanitation; and including, but not limited to—
+&emsp;(3) Assistance—assistance consistent with that provided by the Government for industry generally, such as is involved in promoting good industrial relations, fair trade standards,harmonious labor relations, better health standards and sanitation; and including, but not limited to—
 
 &emsp;&emsp;(a) services to provide current information on production and trade, market promotion and development, and an extension service,
 

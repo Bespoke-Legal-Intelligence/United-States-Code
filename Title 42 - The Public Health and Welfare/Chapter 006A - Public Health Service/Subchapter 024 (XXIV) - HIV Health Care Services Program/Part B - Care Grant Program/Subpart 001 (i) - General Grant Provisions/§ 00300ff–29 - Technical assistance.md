@@ -4,6 +4,10 @@ The Secretary shall provide technical assistance in administering and coordinati
 
 (July 1, 1944, ch. 373, title XXVI, §2619, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 597; amended Pub. L. 104–146, §3(c)(6), May 20, 1996, 110 Stat. 1356.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+
 #### Amendments
 
 1996—Pub. L. 104–146 substituted “shall” for “may” and inserted “, including technical assistance for the development and implementation of statewide coordinated statements of need” before period at end.

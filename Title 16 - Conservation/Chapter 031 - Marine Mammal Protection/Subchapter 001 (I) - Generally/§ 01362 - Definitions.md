@@ -36,7 +36,7 @@ For the purposes of this chapter—
 
 &emsp;(ii) the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
-(B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter (other than section 1421f–1 ofthis title) the term “Secretary” means the Secretary of Commerce.
+(B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter (other than section 1421f–1 of this title) the term “Secretary” means the Secretary of Commerce.
 
 (13) The term “take” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal.
 
@@ -104,7 +104,7 @@ For the purposes of this chapter—
 
 &emsp;(C) are likely to identify, evaluate, or resolve conservation problems.
 
-(23) The term “Alaska Native organization” means a group designated by law or formally chartered which represents or consists of Indians, Aleuts, or Eskimos residing in Alaska.
+(23) The term “Alaska Native organization” means a group designated by law or formallychartered which represents or consists of Indians, Aleuts, or Eskimos residing in Alaska.
 
 (24) The term “take reduction plan” means a plan developed under section 1387 of this title.
 

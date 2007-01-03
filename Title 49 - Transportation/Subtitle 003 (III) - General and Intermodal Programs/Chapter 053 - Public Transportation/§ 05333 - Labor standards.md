@@ -2,7 +2,7 @@
 
 (a)
 
-Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. The Secretaryof Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 3145 of title 40.
+Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 3145 of title 40.
 
 (b)
 
@@ -28,7 +28,7 @@ Employee Protective Arrangements.—(1) As a condition of financial assistance u
 
 (5) When the Secretary is called upon to issue fair and equitable determinations involving assurances of employment when one private transit bus service contractor replaces another through competitive bidding, such decisions shall be based on the principles set forth in the Department of Labor's decision of September 21, 1994, as clarified by the supplemental ruling of November 7, 1994, with respect to grant NV–90–X021. This paragraph shall not serve as a basis for objections under section 215.3(d) of title 29, Code of Federal Regulations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372; Pub. L. 107–217, §3(n)(3), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §§3002(b)(4), 3031, Aug. 10, 2005, 119 Stat. 1545, 1625.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372; Pub. L. 107–217, §3(n)(3), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §§3002(b)(4), 3031, Aug. 10, 2005, 119 Stat. 1545, 1625.)
 
 Historical and Revision Notes
 

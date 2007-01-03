@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary concerned may pay incentive pay under this section to a member of a uniformed service who performs service, while entitled to basic pay, in an assignment designated by the Secretary concerned. Incentive pay payable under this section may be paid on a monthly basis, in a lump sum, or in installments.
+Authority.—The Secretary concerned may pay incentive pay under this section to a member of a uniformed service who performs service,while entitled to basic pay, in an assignment designated by the Secretary concerned. Incentive pay payable under this section may be paid on a monthly basis, in a lump sum, or in installments.
 
 (b)
 
@@ -46,9 +46,9 @@ Status Not Affected by Temporary Duty or Leave.—The service of a member in an 
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2007.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2008.
 
-(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329.)
+(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248.)
 
 #### Amendments
 
@@ -74,7 +74,9 @@ Subsec. (f). Pub. L. 109–163, §628(c)(1), redesignated subsec. (e) as (f). Fo
 
 Pub. L. 109–163, §624(b), substituted “December 31, 2007” for “December 31, 2006”.
 
-Subsec. (g). Pub. L. 109–163, §628(c)(1), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 109–364 substituted “December 31, 2008” for “December 31, 2007”.
+
+Pub. L. 109–163, §628(c)(1), redesignated subsec. (f) as (g).
 
 2004—Subsec. (b). Pub. L. 108–375, §617(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The period for which incentive pay will be provided under this section and the monthly rate of the incentive pay for a member shall be specified in a written agreement between the Secretary concerned and the member. Agreements entered into by the Secretary of a military department shall require the concurrence of the Secretary of Defense.”
 

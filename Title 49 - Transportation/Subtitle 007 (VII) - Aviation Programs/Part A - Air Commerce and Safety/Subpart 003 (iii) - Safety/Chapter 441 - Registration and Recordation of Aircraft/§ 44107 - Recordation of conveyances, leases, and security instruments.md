@@ -8,7 +8,7 @@ Establishment of System.—The Administrator of the Federal Aviation Administrat
 
 &emsp;(2) leases and instruments executed for security purposes, including conditional sales contracts, assignments, and amendments, that affect an interest in—
 
-&emsp;&emsp;(A) a specifically identified aircraft engine having at least 750 rated takeoff horsepower or its equivalent;
+&emsp;&emsp;(A) a specifically identified aircraft engine having at least 550 rated takeoff horsepower or its equivalent;
 
 &emsp;&emsp;(B) a specifically identified aircraft propeller capable of absorbing at least 750 rated takeoff shaft horsepower;
 
@@ -16,7 +16,7 @@ Establishment of System.—The Administrator of the Federal Aviation Administrat
 
 &emsp;&emsp;(D) spare parts maintained by or for an air carrier holding a certificate issued under section 44705 of this title; and
 
-&emsp;(3) releases, cancellations, discharges, and satisfactions related to a conveyance, lease, or instrument recorded under clause (1) or (2) of this subsection.
+&emsp;(3) releases, cancellations, discharges, and satisfactions related to a conveyance, lease, or instrument recorded under paragraph (1) or (2).
 
 (b)
 
@@ -42,35 +42,37 @@ Records and Indexes.—The Administrator shall—
 
 &emsp;&emsp;(B) the names of the parties to each conveyance, lease, and instrument.
 
+(e)
+
+International Registry.—
+
+&emsp;(1)
+
+Designation of united states entry point.—As permitted under the Cape Town Treaty, the Federal Aviation Administration Civil Aviation Registry is designated as the United States Entry Point to the International Registry relating to—
+
+&emsp;&emsp;(A) civil aircraft of the United States;
+
+&emsp;&emsp;(B) an aircraft for which a United States identification number has been assigned but only with regard to a notice filed under paragraph (2); and
+
+&emsp;&emsp;(C) aircraft engines.
+
+&emsp;(2)
+
+System for filing notice of prospective interests.—
+
+&emsp;&emsp;(A)
+
+Establishment.—The Administrator shall establish a system for filing notices of prospective assignments and prospective international interests in, and prospective sales of, aircraft or aircraft engines described in paragraph (1) under the Cape Town Treaty.
+
+&emsp;&emsp;(B)
+
+Maintenance of validity.—A filing of a notice of prospective assignment, interest, or sale under this paragraph and the registration with the International Registry relating to such assignment, interest, or sale shall not be valid after the 60th day following the date of the filing unless documents eligible for recording under subsection (a) relating to such notice are filed for recordation on or before such 60th day.
+
+&emsp;(3)
+
+Authorization for registration of aircraft.—A registration with the International Registry relating to an aircraft described in paragraph (1) (other than subparagraph (C)) is valid only if (A) the person seeking the registration first files documents eligible for recording under subsection (a) and relating to the registration with the United States Entry Point, and (B) the United States Entry Point authorizes the registration.
+
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1164; Pub. L. 108–297, §3, Aug. 9, 2004, 118 Stat. 1096.)
-
-#### Amendment of Section
-
-<i>Pub. L. 108–297, §§3, 7, Aug. 9, 2004, 118 Stat. 1096, 1097, provided that, effective Mar. 1, 2006, this section is amended—</i>
-
-<i>(1) in subsection (a)(2)(A), by striking “750” and inserting “550”;</i>
-
-<i>(2) in subsection (a)(3), by striking “clause (1) or (2) of this subsection” and inserting “paragraph (1) or (2)”; and</i>
-
-<i>(3) by adding at the end the following new subsection:</i>
-
-<i>(e) INTERNATIONAL REGISTRY.—</i>
-
-&emsp;<i>(1) DESIGNATION OF UNITED STATES ENTRY POINT.—As permitted under the Cape Town Treaty, the Federal Aviation Administration Civil Aviation Registry is designated as the United States Entry Point to the International Registry relating to—</i>
-
-&emsp;&emsp;<i>(A) civil aircraft of the United States;</i>
-
-&emsp;&emsp;<i>(B) an aircraft for which a United States identification number has been assigned but only with regard to a notice filed under paragraph (2); and</i>
-
-&emsp;&emsp;<i>(C) aircraft engines.</i>
-
-&emsp;<i>(2) SYSTEM FOR FILING NOTICE OF PROSPECTIVE INTERESTS.—</i>
-
-&emsp;&emsp;<i>(A) ESTABLISHMENT.—The Administrator shall establish a system for filing notices of prospective assignments and prospective international interests in, and prospective sales of, aircraft or aircraft engines described in paragraph (1) under the Cape Town Treaty.</i>
-
-&emsp;&emsp;<i>(B) MAINTENANCE OF VALIDITY.—A filing of a notice of prospective assignment, interest, or sale under this paragraph and the registration with the International Registry relating to such assignment, interest, or sale shall not be valid after the 60th day following the date of the filing unless documents eligible for recording under subsection (a) relating to such notice are filed for recordation on or before such 60th day.</i>
-
-&emsp;<i>(3) AUTHORIZATION FOR REGISTRATION OF AIRCRAFT.—A registration with the International Registry relating to an aircraft described in paragraph (1) (other than subparagraph (C)) is valid only if (A) the person seeking the registration first files documents eligible for recording under subsection (a) and relating to the registration with the United States Entry Point, and (B) the United States Entry Point authorizes the registration.</i>
 
 Historical and Revision Notes
 
@@ -158,7 +160,15 @@ In subsection (b), the words “recorded under subsection (a)(2)(C) or (D) of th
 
 In subsection (c), before clause (1), the words “by regulation” are omitted because of 49:322(a). In clause (2), the words “possession of the United States” are substituted for “possession thereof” for clarity.
 
-In subsection (d), the words “lease, and instrument” are substituted for “other instruments” for clarity and consistency in this subchapter. In clause (1), the words “of the time and date of” before “recordation” are omitted as unnecessary because of the restatement. In clause (2), before subclause (A), the words “in files to be kept for that purpose” are omitted as unnecessary. In subclause (A), the words “location specified in a lease or instrument recorded under subsection (a)(2)(C) or (D) of this section” are substituted for “in the case of an instrument referred to in subsection (a)(3) of this section, the location or locations specified therein” for clarity and consistency in this subchapter.
+In subsection (d), the words “lease, and instrument” are substituted for “other instruments” for clarity and consistency in this subchapter. In clause (1), the words “of the time and date of” before “recordation” areomitted as unnecessary because of the restatement. In clause (2), before subclause (A), the words “in files to be kept for that purpose” are omitted as unnecessary. In subclause (A), the words “location specified in a lease or instrument recorded under subsection (a)(2)(C) or (D) of this section” are substituted for “in the case of an instrument referred to in subsection (a)(3) of this section, the location or locations specified therein” for clarity and consistency in this subchapter.
+
+#### Amendments
+
+2004—Subsec. (a)(2)(A). Pub. L. 108–297, §3(a)(1), substituted “550” for “750”.
+
+Subsec. (a)(3). Pub. L. 108–297, §3(a)(2), substituted “paragraph (1) or (2)” for “clause (1) or (2) of this subsection”.
+
+Subsec. (e). Pub. L. 108–297, §3(b), added subsec. (e).
 
 #### Effective Date of 2004 Amendment
 

@@ -4,7 +4,3 @@ Any amounts collected from defaulting contractors or their sureties, including c
 
 (June 6, 1930, ch. 410, 46 Stat. 522.)
 
-#### References in Text
-
-The reclamation law, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which isclassified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
-

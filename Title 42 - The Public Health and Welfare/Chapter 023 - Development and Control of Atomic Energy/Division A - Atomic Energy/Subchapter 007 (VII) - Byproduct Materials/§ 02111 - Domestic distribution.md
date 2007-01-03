@@ -42,7 +42,7 @@ The Low-Level Radioactive Waste Policy Act, referred to in subsec. (c)(2)(A), is
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1805(c)(2) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1805(c)(2) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 

@@ -22,11 +22,13 @@
 
 (e) The functions and activities of this section shall be considered to be inherently Governmental functions. The drafting of strategic plans under this section shall be performed only by Federal employees.
 
-(f) For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the Panama Canal Commission, the United States Postal Service, and the Postal Rate Commission.
+(f) For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the Panama Canal Commission, the United States Postal Service, and the Postal Regulatory Commission.
 
-(Added Pub. L. 103–62, §3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, §902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 103–62, §3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, §902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

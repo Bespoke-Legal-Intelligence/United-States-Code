@@ -12,7 +12,7 @@ In General.—The authority of the head of an executive agency to acquire inform
 
 (b) FTS 2000
 
-Program.—The Administrator of General Services shall continue to manage theFTS 2000 program, and to coordinate the follow-on to that program, for and with the advice of the heads of executive agencies.
+Program.—The Administrator of General Services shall continue to manage the FTS 2000 program, and to coordinate the follow-on to that program, for and with the advice of the heads of executive agencies.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1241.)
 

@@ -36,13 +36,41 @@ The Bank shall estimate on the basis of an annual survey or tabulation the numbe
 
 The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of outreach efforts made by the Bank to any socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees.
 
-(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat.47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title VI, §§618(b), 623, Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704.)
+#### (f) Additional reports
+
+Not later than March 31 of each year, the Bank shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate reports on—
+
+&emsp;(1) the extent to which the Bank has been able to use the authority provided, and has complied with the mandates contained, in section 635(b)(1)(E) of this title, and to the extent the Bank has been unable to fully use such authority and comply with such mandates, a report on the reasons for the Bank's inability to do so and the steps the Bank is taking to remedy such inability;
+
+&emsp;(2) the extent to which financing has been made available to small business concerns (described in subsection (e)) to enable them to participate in exports by major contractors, including through access to the supply chains of the contractors through direct or indirect funding;
+
+&emsp;(3) the specific measures the Bank will take in the upcoming year to achieve the small business objectives of the Bank, including expanded outreach, product improvements, and related actions;
+
+&emsp;(4) the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (defined in section 637(a)(4) of title 15) and small business concerns (as defined in section 632(a) of title 15) owned by women, including estimates of the amounts made available to finance exports directly by such small business concerns, a comparison of these amounts with the amounts made available to all small business concerns, and a comparison of such amounts with the amounts so made available during the 2 preceding years;
+
+&emsp;(5) with respect to each type of transaction, the interest and fees charged by the Bank to exporters (including a description of fees and interest, if any, charged to small business concerns), buyers, and other applicants in connection with each financing program of the Bank, and the highest, lowest, and average fees charged by the Bank for short term insurance transactions;
+
+&emsp;(6) the effects of the fees on the ability of the Bank to achieve the objectives of the Bank relating to small business;
+
+&emsp;(7) the fee structure of the Bank as compared with those of foreign export credit agencies; and
+
+&emsp;(8)(A) the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 635(b)(1) of this title, including the total amount expended by the Bank to do so; and
+
+&emsp;(B) if the Bank has been unable to comply with such subparagraphs—
+
+&emsp;&emsp;(i) an analysis of the reasons therefor; and
+
+&emsp;&emsp;(ii) what the Bank is doing to achieve, and the date by which the Bank expects to have achieved, such compliance.
+
+(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336;Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title VI, §§618(b), 623, Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282.)
 
 #### Prior Provisions
 
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to section 635f of this title.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–438 added subsec. (f).
 
 2002—Subsecs. (c) to (e). Pub. L. 107–189 added subsecs. (c) to (e).
 

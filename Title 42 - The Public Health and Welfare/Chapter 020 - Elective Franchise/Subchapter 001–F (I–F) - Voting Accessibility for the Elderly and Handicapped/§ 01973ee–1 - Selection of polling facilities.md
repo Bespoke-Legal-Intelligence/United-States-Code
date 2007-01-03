@@ -2,7 +2,7 @@
 
 #### (a) Accessibility to all polling places as responsibility of each political subdivision
 
-Within each State, except as provided in subsection (b) of this section, each political subdivision responsible for conducting elections shallassure that all polling places for Federal elections are accessible to handicapped and elderly voters.
+Within each State, except as provided in subsection (b) of this section, each political subdivision responsible for conducting elections shall assure that all polling places for Federal elections are accessible to handicapped and elderly voters.
 
 #### (b) Exception
 

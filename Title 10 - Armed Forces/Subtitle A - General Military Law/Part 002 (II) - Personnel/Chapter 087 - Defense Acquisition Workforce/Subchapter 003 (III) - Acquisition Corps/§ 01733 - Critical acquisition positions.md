@@ -50,5 +50,5 @@ Pub. L. 101–510, div. A, title XII, §1209(f), Nov. 5, 1990, 104 Stat. 1666, a
 
 #### Publication of List of Critical Acquisition Positions
 
-Section 1209(g) of Pub. L. 101–510 provided that: “The Secretary of Defense shall publish the first list of positions designated as critical acquisition positions under section 1733(b)(2) of title 10, United States Code (as added by section 1202), not later than October 1, 1992.”
+Pub. L. 101–510, div. A, title XII, §1209(g), Nov. 5, 1990, 104 Stat. 1666, directed the Secretary of Defense to publish the first list of positions designated as critical acquisition positions under subsec. (b)(2) of this section not later than Oct. 1, 1992.
 

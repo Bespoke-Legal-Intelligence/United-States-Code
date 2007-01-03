@@ -28,7 +28,7 @@ Section was classified to section 166b–3b of former Title 40, prior to the ena
 
 2002—Subsec. (c). Pub. L. 107–117 added subsec. (c).
 
-2001—Subsec. (a). Pub. L. 107–68, §129(c)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Effective as of the first day of the first applicable pay period beginning on or after November 5, 1990, the compensation of the Director of Engineering (under the Architect of the Capitol) shall be equal to such rate as the Architect considers appropriate, not to exceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved.”
+2001—Subsec. (a). Pub. L. 107–68, §129(c)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Effective as of the first day of the first applicable pay period beginning on or after November 5, 1990, the compensation of the Director of Engineering (under the Architect of the Capitol) shall be equal to such rate as the Architect considers appropriate, not toexceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved.”
 
 Subsecs. (b), (c). Pub. L. 107–68, §129(c)(1), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 

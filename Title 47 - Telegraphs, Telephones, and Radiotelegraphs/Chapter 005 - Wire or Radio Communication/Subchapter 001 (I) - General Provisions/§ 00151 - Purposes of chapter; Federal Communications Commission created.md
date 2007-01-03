@@ -26,7 +26,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 
 “(a)
 
-Moratorium.—No State or political subdivision thereof may impose any of the following taxes duringthe period beginning November 1, 2003, and ending November 1, 2007:
+Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2007:
 
 &emsp;“(1) Taxes on Internet access.
 
@@ -34,7 +34,7 @@ Moratorium.—No State or political subdivision thereof may impose any of the fo
 
 “(b)
 
-Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
+Preservation of State and Local Taxing Authority.—Except as provided in this section, nothingin this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
 
 “(c)
 
@@ -262,7 +262,7 @@ National Tax Association Communications and Electronic Commerce Tax Project.—T
 
 #### “SEC. 1103. REPORT.
 
-“Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shalltransmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
+“Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shall transmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remotecommerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
 
 #### “SEC. 1104. GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.
 
@@ -488,7 +488,7 @@ Pub. L. 97–259, title II, §202, Sept. 13, 1982, 96 Stat. 1099, provided that:
 
 #### Commission on Governmental Use of International Telecommunications
 
-Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt developmentof techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations on or before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
+Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt development of techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations on or before Dec. 31, 1954, and the Commission ceased toexist 90 days after submission of its report to the Congress.
 
 #### Communication Privileges to Participants in World Telecommunication Conferences
 

@@ -1,6 +1,6 @@
 ### §1973. Denial or abridgement of right to vote on account of race or color through voting qualifications or prerequisites; establishment of violation
 
-(a) No voting qualification or prerequisite to voting or standard, practice, or procedure shallbe imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title, as provided in subsection (b) of this section.
+(a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title, as provided in subsection (b) of this section.
 
 (b) A violation of subsection (a) of this section is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) of this section in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: <i>Provided</i>, That nothing in this section establishes a right to have members of a protected class elected in numbers equal to their proportion in the population.
 
@@ -19,6 +19,44 @@ Section 6 of Pub. L. 97–205 provided that: “Except as otherwise provided in 
 #### Short Title
 
 This subchapter and subchapters I–B and I–C of this chapter known as the “Voting Rights Act of 1965”, see Short Title note set out under section 1971 of this title.
+
+#### Congressional Purpose and Findings
+
+Pub. L. 109–246, §2, July 27, 2006, 120 Stat. 577, provided that:
+
+“(a)
+
+Purpose.—The purpose of this Act \[see Short Title of 2006 Amendment note set out under section 1971 of this title\] is to ensure that the right of all citizens to vote, including the right to register to vote and cast meaningful votes, is preserved and protected as guaranteed by the Constitution.
+
+“(b)
+
+Findings.—The Congress finds the following:
+
+&emsp;“(1) Significant progress has been made in eliminating first generation barriers experienced by minority voters, including increased numbers of registered minority voters, minority voter turnout, and minority representation in Congress, State legislatures, and local elected offices. This progress is the direct result of the Voting Rights Act of 1965 \[this subchapter and subchapters I–B and I–C of this chapter\].
+
+&emsp;“(2) However, vestiges of discrimination in voting continue to exist as demonstrated by second generation barriers constructed to prevent minority voters from fully participating in the electoral process.
+
+&emsp;“(3) The continued evidence of racially polarized voting in each of the jurisdictions covered by the expiring provisions of the Voting Rights Act of 1965 demonstrates that racial and language minorities remain politically vulnerable, warranting the continued protection of the Voting Rights Act of 1965.
+
+&emsp;“(4) Evidence of continued discrimination includes—
+
+&emsp;&emsp;“(A) the hundreds of objections interposed, requests for more information submitted followed by voting changes withdrawn from consideration by jurisdictions covered by the Voting Rights Act of 1965, and section 5 \[42 U.S.C. 1973c\] enforcement actions undertaken by the Department of Justice in covered jurisdictions since 1982 that prevented election practices, such as annexation, at-large voting, and the use of multi-member districts, from being enacted to dilute minority voting strength;
+
+&emsp;&emsp;“(B) the number of requests for declaratory judgments denied by the United States District Court for the District of Columbia;
+
+&emsp;&emsp;“(C) the continued filing of section 2 \[42 U.S.C. 1973\] cases that originated in covered jurisdictions; and
+
+&emsp;&emsp;“(D) the litigation pursued by the Department of Justice since 1982 to enforce sections 4(e), 4(f)(4), and 203 of such Act \[42 U.S.C. 1973b(e), (f)(4), 1973aa–1a\] to ensure that all language minority citizens have full access to the political process.
+
+&emsp;“(5) The evidence clearly shows the continued need for Federal oversight in jurisdictions covered by the Voting Rights Act of 1965 since 1982, as demonstrated in the counties certified by the Attorney General for Federal examiner and observer coverage and the tens of thousands of Federal observers that have been dispatched to observe elections in covered jurisdictions.
+
+&emsp;“(6) The effectiveness of the Voting Rights Act of 1965 has been significantly weakened by the United States Supreme Court decisions in Reno v. Bossier Parish II and Georgia v. Ashcroft, which have misconstrued Congress’ original intent in enacting the Voting Rights Act of 1965 and narrowed the protections afforded by section 5 of such Act \[42 U.S.C. 1973c\].
+
+&emsp;“(7) Despite the progress made by minorities under the Voting Rights Act of 1965, the evidence before Congress reveals that 40 years has not been a sufficient amount of time to eliminate the vestiges of discrimination following nearly 100 years of disregard for the dictates of the 15th amendment and to ensure that the right of all citizens to vote is protected as guaranteed by the Constitution.
+
+&emsp;“(8) Present day discrimination experienced by racial and language minority voters is contained in evidence, including the objections interposed by the Department of Justice in covered jurisdictions; the section 2 litigation filed to prevent dilutive techniques from adversely affecting minority voters; the enforcement actions filed to protect language minorities; and the tens of thousands of Federal observers dispatched to monitor polls in jurisdictions covered by the Voting Rights Act of 1965.
+
+&emsp;“(9) The record compiled by Congress demonstrates that, without the continuation of the Voting Rights Act of 1965 protections, racial and language minority citizens will be deprived of the opportunity to exercise their right to vote, or will have their votes diluted, undermining the significant gains made by minorities in the last 40 years.”
 
 #### Separability
 

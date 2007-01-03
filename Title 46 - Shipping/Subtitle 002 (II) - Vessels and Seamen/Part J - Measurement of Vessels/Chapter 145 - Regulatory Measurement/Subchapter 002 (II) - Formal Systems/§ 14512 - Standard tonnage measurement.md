@@ -4,7 +4,7 @@
 
 (b) On application of the owner or master of a vessel of the United States used in foreign trade, the Secretary may attach an appendix to the vessel's register stating the measurement of spaces that may be deducted from gross tonnage under laws and regulations of other countries but not under those of the United States.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
 
 #### Historical and Revision Notes
 
@@ -18,9 +18,5 @@ Section 14512(b) authorizes the Secretary to attach an appendix to a vessel's re
 
 #### References in Text
 
-Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75 and 77 of the Appendix to this title and were repealed by section 5104(b) of Pub. L. 99–509.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14513 of this title.
+Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75and 77, respectively, of the former Appendix to this title and were repealed by Pub. L. 99–509, title V, §5104(b), Oct. 21, 1986, 100 Stat. 1928.
 

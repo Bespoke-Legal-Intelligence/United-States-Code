@@ -26,7 +26,7 @@ Annual review of designations.—The Commission shall—
 
 (b)
 
-Distressed Counties.—In program and project development and implementation and in the allocation of appropriations made available to carry out this subtitle, the Commission shall give special consideration to the needs of counties for which a distressed county designation is in effect under this section.
+Distressed Counties.—In program and project development and implementation and inthe allocation of appropriations made available to carry out this subtitle, the Commission shall give special consideration to the needs of counties for which a distressed county designation is in effect under this section.
 
 (c)
 

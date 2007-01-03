@@ -34,7 +34,7 @@ Another section 1124 was renumbered 1126 of this title.
 
 1980—Subsec. (c). Pub. L. 96–527 authorized payment of awards to retired members of the armed forces, required the basis for awards to have been made when in an active reserve status, and required the member to be ineligible for incentive award under chapter 45 of title 5.
 
-Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary ofTransportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
+Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary of Transportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
 
 Subsec. (h). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 

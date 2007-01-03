@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General, acting through the Director of the Office on Violence Against Women, and in collaboration with the Department of Health and Human Services, shall award grants on a competitive basis to eligible entities for the purpose of developing or enhancing programs related to engaging menand youth in preventing domestic violence, dating violence, sexual assault, and stalking by helping them to develop mutually respectful, nonviolent relationships.
+&emsp;The Attorney General, acting through the Director of the Office on Violence Against Women, and in collaboration with the Department of Health and Human Services, shall award grants on a competitive basis to eligible entities for the purpose of developing or enhancing programs related to engaging men and youth in preventing domestic violence, dating violence, sexual assault, and stalking by helping them to develop mutually respectful, nonviolent relationships.
 
 #### (2) Term
 

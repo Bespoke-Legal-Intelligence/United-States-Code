@@ -26,7 +26,7 @@
 
 &emsp;(3) any other pertinent equitable considerations.
 
-(f) A prosecution of an offense under this section may be commenced any time not later than7 years after the offense is committed, plus any additional time otherwise allowed by law.
+(f) A prosecution of an offense under this section may be commenced any time not later than 7 years after the offense is committed, plus any additional time otherwise allowed by law.
 
 (g)(1) In special circumstances and in his or her sole discretion, the Attorney General is authorized to make payments from funds appropriated to the Department of Justice to persons who furnish information relating to a possible prosecution under this section. The amount of such payment shall not exceed $250,000. Upon application by the Attorney General, the court may order that the Department shall be reimbursed for a payment from a criminal fine imposed under this section.
 
@@ -63,8 +63,4 @@ Subsec. (h). Pub. L. 103–322, §330002(f), redesignated second subsec. (g) as 
 #### Effective Date of 1989 Amendment
 
 Section 2(b) of Pub. L. 101–123 provided that: “The amendment made by this section \[amending this section\] shall apply to contracts entered into on or after the date of the enactment of this Act \[Oct. 23, 1989\].”
-
-#### Sentencing Guidelines
-
-Section 2(b) of Pub. L. 100–700 provided that: “Pursuant to its authority under section 994(p) of title 28, United States Code and section 21 of the Sentencing Act of 1987 \[section 21 of Pub. L. 100–182, set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to provide for appropriate penalty enhancements, where conscious or reckless risk of serious personal injury resulting from the fraud has occurred. The Commission shall consider the appropriateness of assigning to such a defendant an offense level under Chapter Two of the sentencing guidelines that is at least two levels greater than the level that would have been assigned had conscious or reckless risk of serious personal injury not resulted from the fraud.”
 

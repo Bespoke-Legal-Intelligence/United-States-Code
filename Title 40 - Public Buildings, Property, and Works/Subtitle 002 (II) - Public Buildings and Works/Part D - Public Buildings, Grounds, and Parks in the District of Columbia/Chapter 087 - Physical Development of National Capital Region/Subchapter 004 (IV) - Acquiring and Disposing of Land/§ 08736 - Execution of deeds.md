@@ -1,6 +1,6 @@
 ### §8736. Execution of deeds
 
-The Mayor of the District of Columbia may execute deeds of conveyance for real estate soldunder this subchapter. The deeds shall contain a full description of the land sold as required by law.
+The Mayor of the District of Columbia may execute deeds of conveyance for real estate sold under this subchapter. The deeds shall contain a full description of the land sold as required by law.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227.)
 

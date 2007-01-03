@@ -18,7 +18,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from People Who Are Blind or Severely Disabled under section 2(c) of such Act (41 U.S.C. 47(c)).
 
-(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705.)
+(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18,1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705.)
 
 #### Codification
 
@@ -87,4 +87,6 @@ Pub. L. 102–396, title IX, §9077, Oct. 6, 1992, 106 Stat. 1918.
 Pub. L. 102–172, title VIII, §8082, Nov. 26, 1991, 105 Stat. 1190.
 
 Pub. L. 101–511, title VIII, §8117, Nov. 5, 1990, 104 Stat. 1905.
+
+§2410e
 

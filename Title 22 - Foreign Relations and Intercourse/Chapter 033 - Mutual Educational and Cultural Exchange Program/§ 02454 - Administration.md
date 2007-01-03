@@ -138,7 +138,7 @@ Sec. 5. <i>Certain incidental matters</i>. (a) In respect of functions hereinabo
 
 (1) The authority conferred upon the President by Sections 105(d)(2) and (f) and 106(d) and (f) of the Act \[sections 2455(d)(2), (f) and 2456(d), (f) of this title\].
 
-(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the President by Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
+(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the Presidentby Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
 
 (b) The employment, by any department or other executive agency under Section 5(a)(2) of this order, of any of the not to exceed ten persons who may be compensated with regard to the Classification Act of 1949 \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\] under Section 104(b) of the Act \[subsec. (b) of this section\] shall require prior authorization by the Secretary of State concurred in by the Director of the Office of Management and Budget.
 
@@ -180,7 +180,7 @@ Sec. 8. <i>Waivers</i>. (a) It is hereby determined that the performance by any 
 
 (12) Section 3828 of the Revised Statutes (44 U.S.C. 324) \[section 3702 of Title 44\] (advertising).
 
-(13) Section 901(a) of the Merchant Marine Act, 1936 (June 29, 1936, c. 858, 49 Stat. 2015, as amended; 46 U.S.C. 1241(a)) (official travel overseas of United States officers and employees, and transportation of their personal effects, on ships registered under the laws of the United States).
+(13) Section 901(a) of the Merchant Marine Act, 1936 (June 29, 1936, c. 858, 49 Stat. 2015, as amended; 46 U.S.C. \[App.\] 1241(a)) \[now 46 U.S.C. 55302\] (official travel overseas of United States officers and employees, and transportation of their personal effects, on ships registered under the laws of the United States).
 
 (14) Any provision of law or limitation of authority to the extent that such provision or limitation would limit or prohibit construction of buildings by the United States on property not owned by it.
 
@@ -238,7 +238,7 @@ Sec. 2. It is hereby determined that the performance by any department or other 
 
 Sec. 201. Executive Order No. 10903 of January 9, 1961, as amended \[set out as a note under section 5921 of Title 5, Government Organization and Employees\], is hereby further amended by inserting at the end of section 1 thereof a new paragraph (g), reading as follows:
 
-“(g) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat,fuel, and light, in government-owned or rented buildings).”
+“(g) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat, fuel, and light, in government-owned or rented buildings).”
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

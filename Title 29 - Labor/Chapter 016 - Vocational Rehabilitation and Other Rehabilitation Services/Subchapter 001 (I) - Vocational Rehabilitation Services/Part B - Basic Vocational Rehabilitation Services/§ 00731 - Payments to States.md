@@ -26,7 +26,7 @@ The method of computing and paying amounts pursuant to subsection (a) of this se
 
 #### Prior Provisions
 
-A prior section 731, Pub. L. 93–112, title I, §111, Sept. 26, 1973, 87 Stat. 371; Pub. L. 95–602, title I, §122(b)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, §208, title X, §1001(b)(6), Oct. 21, 1986, 100 Stat. 1818, 1842; Pub. L. 100–630, title II, §202(e)(1), (2)(A), (3), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, §132, Oct. 29, 1992, 106 Stat. 4390; Pub. L. 103–73, title I, §107(f), Aug. 11, 1993, 107 Stat. 723, related to payments to States, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 731, Pub. L. 93–112, title I, §111, Sept. 26, 1973, 87 Stat. 371; Pub. L. 95–602, title I, §122(b)(1),Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, §208, title X, §1001(b)(6), Oct. 21, 1986, 100 Stat. 1818, 1842; Pub. L. 100–630, title II, §202(e)(1), (2)(A), (3), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, §132, Oct. 29, 1992, 106 Stat. 4390; Pub. L. 103–73, title I, §107(f), Aug. 11, 1993, 107 Stat. 723, related to payments to States, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 

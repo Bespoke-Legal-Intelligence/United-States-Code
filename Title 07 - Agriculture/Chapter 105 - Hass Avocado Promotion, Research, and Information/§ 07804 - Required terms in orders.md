@@ -52,7 +52,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;&emsp;(i) in the case of producers, through an election process which utilizes existing organizations of avocado producers established pursuant to a State statute, with approval by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) in the case of importers, nominations are submitted by importers under such procedures as the Secretary determines appropriate; and
+&emsp;&emsp;&emsp;(ii) in the case of importers, nominations are submitted by importers under suchprocedures as the Secretary determines appropriate; and
 
 &emsp;&emsp;(C) in any case in which producers or importers fail to nominate individuals for an appointment to the Board, the Secretary may appoint an individual to fill the vacancy on a basis provided in the order or other regulations of the Secretary.
 
@@ -134,7 +134,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;&emsp;The order shall provide—
 
-&emsp;&emsp;&emsp;(i) for the establishment, implementation, administration, and evaluation of appropriate plans and projects for advertising, sales promotion, other promotion, and consumer information with respect to Hass avocados, and for the disbursement of necessary funds for the purposes described in this clause; and
+&emsp;&emsp;&emsp;(i) for the establishment, implementation, administration, and evaluation of appropriate plans and projects for advertising, sales promotion, other promotion, and consumer information with respect to Hassavocados, and for the disbursement of necessary funds for the purposes described in this clause; and
 
 &emsp;&emsp;&emsp;(ii) that any plan or project referred to in clause (i) shall be directed toward increasing the general demand for Hass avocados in the domestic marketplace.
 
@@ -158,7 +158,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (3) Approval by Secretary
 
-&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget,plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
+&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
 
 #### (e) Contracts and agreements
 

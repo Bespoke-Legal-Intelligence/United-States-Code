@@ -22,7 +22,7 @@
 
 (i) Rates charged under health benefits plans described by section 8903 or 8903a of this title shall reasonably and equitably reflect the cost of the benefits provided. Rates under health benefits plans described by section 8903(1) and (2) of this title shall be determined on a basis which, in the judgment of the Office, is consistent with the lowest schedule of basic rates generally charged for new group health benefit plans issued to large employers. The rates determined for the first contract term shall be continued for later contract terms, except that they may be readjusted for any later term, based on past experience and benefit adjustments under the later contract. Any readjustment in rates shall be made in advance of the contract term in which they will apply and on a basis which, in the judgment of the Office, is consistent with the general practice of carriers which issue group health benefit plans to large employers.
 
-(j) Each contract under this chapter shall require the carrier to agree to pay for or provide a health service or supply in an individual case if the Office finds that the employee, annuitant,family member, former spouse, or person having continued coverage under section 8905a of this title is entitled thereto under the terms of the contract.
+(j) Each contract under this chapter shall require the carrier to agree to pay for or provide a health service or supply in an individual case if the Office finds that the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title is entitled thereto under the terms of the contract.
 
 (k)(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
 
@@ -80,7 +80,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (<i>l</i>), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (<i>o</i>), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (<i>o</i>), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 #### Codification
 
@@ -100,7 +100,7 @@ Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former 
 
 “(2) The provisions of this subsection shall not apply to group practice prepayment plans.”
 
-1990—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for “performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
+1990—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for“performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
 
 Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 #### Effective Date of 1980 Amendment
 
-Section 5(b) of Pub. L. 96–179, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services provided after December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
+Section 5(b) of Pub. L. 96–179, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services providedafter December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
 
 #### Effective Date of 1978 Amendments
 

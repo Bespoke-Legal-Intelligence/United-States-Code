@@ -86,5 +86,5 @@ In this chapter, the following definitions apply:
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii), is title III of Pub. L. 89–454 asadded by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 

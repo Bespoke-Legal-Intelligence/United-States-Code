@@ -16,13 +16,15 @@
 
 &emsp;(5) The Master Chief Petty Officer of the Coast Guard.
 
-&emsp;(6) The Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff.
+&emsp;(6) The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
 
-(Added Pub. L. 102–190, div. A, title VI, §606(a), Dec. 5, 1991, 105 Stat. 1374; amended Pub. L. 104–201, div. A, title VI, §603(a), (b)(1), Sept. 23, 1996, 110 Stat. 2540; Pub. L. 109–163, div. A, title VI, §685(b), Jan. 6, 2006, 119 Stat. 3325.)
+(Added Pub. L. 102–190, div. A, title VI, §606(a), Dec. 5, 1991, 105 Stat. 1374; amended Pub. L. 104–201, div. A, title VI, §603(a), (b)(1), Sept. 23, 1996, 110 Stat. 2540; Pub. L. 109–163, div. A, title VI, §685(b), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, §1071(c)(1), Oct. 17, 2006, 120 Stat. 2400.)
 
 #### Amendments
 
-2006—Subsec. (c)(6). Pub. L. 109–163 added par. (6).
+2006—Subsec. (c)(6). Pub. L. 109–364 substituted “Advisor to” for “Advisor for”.
+
+Pub. L. 109–163 added par. (6).
 
 1996—Pub. L. 104–201, §603(b)(1), substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
 

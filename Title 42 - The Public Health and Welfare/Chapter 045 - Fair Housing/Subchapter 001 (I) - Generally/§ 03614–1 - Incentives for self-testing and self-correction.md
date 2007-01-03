@@ -4,7 +4,7 @@
 
 #### (1) Conditions for privilege
 
-&emsp;A report or result of a self-test (as that term is defined by regulation of the Secretary) shallbe considered to be privileged under paragraph (2) if any person—
+&emsp;A report or result of a self-test (as that term is defined by regulation of the Secretary) shall be considered to be privileged under paragraph (2) if any person—
 
 &emsp;&emsp;(A) conducts, or authorizes an independent third party to conduct, a self-test of any aspect of a residential real estate related lending transaction of that person, or any part of that transaction, in order to determine the level or effectiveness of compliance with this subchapter by that person; and
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) the person to whom the self-test relates or any person with lawful access to the report or the results—
 
-&emsp;&emsp;&emsp;(i) voluntarily releases or discloses all, or any part of, the report or results to the aggrieved person, complainant, department, or agency, or to the general public; or
+&emsp;&emsp;&emsp;(i) voluntarily releases or discloses all, or any part of, the report or results to theaggrieved person, complainant, department, or agency, or to the general public; or
 
 &emsp;&emsp;&emsp;(ii) refers to or describes the report or results as a defense to charges of violations of this subchapter against the person to whom the self-test relates; or
 

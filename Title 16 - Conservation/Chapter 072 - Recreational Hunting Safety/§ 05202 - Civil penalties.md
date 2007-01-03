@@ -34,7 +34,7 @@ After deduction of costs attributable to collection, money collected from penalt
 
 &emsp;(2) used in such other manner as the Secretary determines will enhance the funding and implementation of—
 
-&emsp;&emsp;(A) the North American Waterfowl Management Plan signed by the Secretary of the Interior and the Minister of Environment for Canada in May 1986; or
+&emsp;&emsp;(A) the North American Waterfowl Management Plan signed by the Secretary of theInterior and the Minister of Environment for Canada in May 1986; or
 
 &emsp;&emsp;(B) a similar program that the Secretary determines will enhance wildlife management—
 

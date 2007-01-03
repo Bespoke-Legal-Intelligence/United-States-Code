@@ -1,6 +1,6 @@
 ### §4713. Latin American exchanges
 
-Of any funds authorized to be appropriated for activities authorized by this chapter, not lessthan 25 percent shall be allocated to fund grants and exchanges to Latin America and the Caribbean.
+Of any funds authorized to be appropriated for activities authorized by this chapter, not less than 25 percent shall be allocated to fund grants and exchanges to Latin America and the Caribbean.
 
 (Pub. L. 99–93, title VI, §613, Aug. 16, 1985, 99 Stat. 444.)
 

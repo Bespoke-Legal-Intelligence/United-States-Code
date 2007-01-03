@@ -10,7 +10,7 @@ In the administration of each grant program funded by appropriations authorized 
 
 #### (b) Assessment of construction components and designs
 
-The Attorney General may make an assessment of the cost efficiency and utility of using modular, prefabricated, precast, and pre-engineered construction components and designs for housing nonviolent criminals.
+The Attorney General may make an assessment of the cost efficiency and utility of usingmodular, prefabricated, precast, and pre-engineered construction components and designs for housing nonviolent criminals.
 
 (Pub. L. 103–322, title II, §20407, Sept. 13, 1994, 108 Stat. 1826.)
 

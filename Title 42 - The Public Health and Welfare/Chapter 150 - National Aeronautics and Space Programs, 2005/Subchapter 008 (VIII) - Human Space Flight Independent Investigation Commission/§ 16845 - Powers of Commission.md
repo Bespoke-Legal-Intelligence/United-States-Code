@@ -12,7 +12,7 @@ A Commission or, on the authority of the Commission, any subcommittee or member 
 
 #### (b) Contracting
 
-A Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this subchapter.
+A Commission may, to such extent and in such amounts as are provided in appropriation Acts,enter into contracts to enable the Commission to discharge its duties under this subchapter.
 
 #### (c) Information from Federal agencies
 

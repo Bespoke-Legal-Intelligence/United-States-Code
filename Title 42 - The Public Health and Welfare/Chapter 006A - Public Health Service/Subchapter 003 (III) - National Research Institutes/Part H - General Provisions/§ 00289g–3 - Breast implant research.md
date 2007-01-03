@@ -44,5 +44,5 @@ Report.—The Comptroller General shall submit to the Congress a report describi
 
 “(c)
 
-Definition.—For purposes of this section, the term ‘breast implant’ means a breast prosthesis that isimplanted to augment or reconstruct the female breast.”
+Definition.—For purposes of this section, the term ‘breast implant’ means a breast prosthesis that is implanted to augment or reconstruct the female breast.”
 

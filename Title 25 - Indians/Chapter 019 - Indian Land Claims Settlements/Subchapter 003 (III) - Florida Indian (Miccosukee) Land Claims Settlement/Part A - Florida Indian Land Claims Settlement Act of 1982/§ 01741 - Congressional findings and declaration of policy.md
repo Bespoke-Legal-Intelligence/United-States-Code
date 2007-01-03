@@ -2,7 +2,7 @@
 
 Congress finds and declares that—
 
-&emsp;(1) there is pending before the United States District Court for the Southern District of Florida a lawsuit by the Miccosukee Indian Tribe which involves certain lands within the State of Florida;
+&emsp;(1) there is pending before the United States District Court for the Southern District ofFlorida a lawsuit by the Miccosukee Indian Tribe which involves certain lands within the State of Florida;
 
 &emsp;(2) the pendency of such lawsuit may result in economic hardships for residents of the State of Florida by clouding the titles to lands in the State, including lands not now involved in the lawsuits;
 

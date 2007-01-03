@@ -36,7 +36,7 @@ Fees for Health Care Services.—
 
 &emsp;(1)
 
-In general.—The Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee for health care services provided in connectionwith each health care visit requested by a prisoner.
+In general.—The Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee for health care services provided in connection with each health care visit requested by a prisoner.
 
 &emsp;(2)
 

@@ -10,8 +10,10 @@
 | [505\.](%C2%A7%2000505%20-%20Solicitor%20General.md) | Solicitor General. |
 | [506\.](%C2%A7%2000506%20-%20Assistant%20Attorneys%20General.md) | Assistant Attorneys General. |
 | [507\.](%C2%A7%2000507%20-%20Assistant%20Attorney%20General%20for%20Administration.md) | Assistant Attorney General for Administration. |
+| [507A.](%C2%A7%2000507A%20-%20Assistant%20Attorney%20General%20for%20National%20Security.md) | Assistant Attorney General for National Security. |
 | [508\.](%C2%A7%2000508%20-%20Vacancies.md) | Vacancies. |
 | [509\.](%C2%A7%2000509%20-%20Functions%20of%20the%20Attorney%20General.md) | Functions of the Attorney General. |
+| [509A.](%C2%A7%2000509A%20-%20National%20Security%20Division.md) | National Security Division. |
 | [510\.](%C2%A7%2000510%20-%20Delegation%20of%20authority.md) | Delegation of authority. |
 | [511\.](%C2%A7%2000511%20-%20Attorney%20General%20to%20advise%20the%20President.md) | Attorney General to advise the President. |
 | [512\.](%C2%A7%2000512%20-%20Attorney%20General%20to%20advise%20heads%20of%20executive%20departments.md) | Attorney General to advise heads of executive departments. |
@@ -46,6 +48,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–177, title V, §506(c), Mar. 9, 2006, 120 Stat. 249, added items 507A and 509A.
 
 2002—Pub. L. 107–273, div. A, title II, §§201(b), 202(b)(1), div. B, title IV, §4003(b)(5), Nov. 2, 2002, 116 Stat. 1771, 1774, 1811, in item 526, struck out “and” before “trustees”, and added items 530C and 530D.
 
@@ -88,8 +92,10 @@ Pub. L. 95–521, title VI, §603(b), Oct. 26, 1978, 92 Stat. 1875, added items 
 - [&sect; 00505 - Solicitor General](%C2%A7%2000505%20-%20Solicitor%20General.md)
 - [&sect; 00506 - Assistant Attorneys General](%C2%A7%2000506%20-%20Assistant%20Attorneys%20General.md)
 - [&sect; 00507 - Assistant Attorney General for Administration](%C2%A7%2000507%20-%20Assistant%20Attorney%20General%20for%20Administration.md)
+- [&sect; 00507A - Assistant Attorney General for National Security](%C2%A7%2000507A%20-%20Assistant%20Attorney%20General%20for%20National%20Security.md)
 - [&sect; 00508 - Vacancies](%C2%A7%2000508%20-%20Vacancies.md)
 - [&sect; 00509 - Functions of the Attorney General](%C2%A7%2000509%20-%20Functions%20of%20the%20Attorney%20General.md)
+- [&sect; 00509A - National Security Division](%C2%A7%2000509A%20-%20National%20Security%20Division.md)
 - [&sect; 00510 - Delegation of authority](%C2%A7%2000510%20-%20Delegation%20of%20authority.md)
 - [&sect; 00511 - Attorney General to advise the President](%C2%A7%2000511%20-%20Attorney%20General%20to%20advise%20the%20President.md)
 - [&sect; 00512 - Attorney General to advise heads of executive departments](%C2%A7%2000512%20-%20Attorney%20General%20to%20advise%20heads%20of%20executive%20departments.md)

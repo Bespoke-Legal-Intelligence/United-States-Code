@@ -1,16 +1,12 @@
 ### §1305. Thirty years or more: regular warrant officers
 
-(a)(1) Except as provided in paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5) who has at least 30 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114) shall be retired 60 days after he completes that service, except as provided by section 8301 of title 5.
-
-(2)(A) A regular Army warrant officer in the grade of chief warrant officer, W–5, who has at least 30 years of active service as a warrant officer that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114), shall be retired 60 days after the date on which he completes that service, except as provided by section 8301 of title 5.
-
-(B) A regular Army warrant officer in a warrant officer grade below the grade of chief warrant officer, W–5, who completes 24 years of active service as a warrant officer before he is required to be retired under paragraph (1) shall be retired 60 days after the date on which he completes 24 years of active service as a warrant officer, except as provided by section 8301 of title 5.
+(a) A regular warrant officer who has at least 30 years of active service as a warrant officer that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114) shall be retired 60 days after the date on which he completes that service, except as provided by section 8301 of title 5.
 
 (b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
 
 (c) Under such regulations as he may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after he becomes 62 years of age.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 102–190, div. A, title XI, §1116, Dec. 5, 1991, 105 Stat. 1503.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 102–190, div. A, title XI, §1116, Dec. 5, 1991, 105 Stat. 1503; Pub. L. 109–364, div. A, title V, §505(c), Oct. 17, 2006, 120 Stat. 2179.)
 
 Historical and Revision Notes
 
@@ -71,6 +67,12 @@ In subsection (c), the words “the Secretary concerned may defer the retirement
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), is set out as a note under section 580 of this title.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–364 substituted “A regular warrant officer” for “(1) Except as provided in paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5)”, inserted “as a warrant officer” after “years of active service” and “the date on which” after “60 days after”, and struck out par. (2) which read as follows:
+
+“(2)(A) A regular Army warrant officer in the grade of chief warrant officer, W–5, who has at least 30 years of active service as a warrant officer that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114), shall be retired 60 days after the date on which he completesthat service, except as provided by section 8301 of title 5.
+
+“(B) A regular Army warrant officer in a warrant officer grade below the grade of chief warrant officer, W–5, who completes 24 years of active service as a warrant officer before he is required to be retired under paragraph (1) shall be retired 60 days after the date on which he completes 24 years of active service as a warrant officer, except as provided by section 8301 of title 5.”
 
 1991—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5)” for “A permanent regular warrant officer”, and added par. (2).
 

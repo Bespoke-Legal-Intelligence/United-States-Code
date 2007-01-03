@@ -4,7 +4,7 @@
 
 &emsp;(1) obtaining naturalization in a foreign state upon his own application or upon an application filed by a duly authorized agent, after having attained the age of eighteen years; or
 
-&emsp;(2) taking an oath or making an affirmation or other formal declaration of allegiance to a foreign state or a political subdivision thereof, after having attained the age of eighteen years; or
+&emsp;(2) taking an oath or making an affirmation or other formal declaration of allegiance to aforeign state or a political subdivision thereof, after having attained the age of eighteen years; or
 
 &emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or
 
@@ -16,7 +16,7 @@
 
 &emsp;(7) committing any act of treason against, or attempting by force to overthrow, or bearing arms against, the United States, violating or conspiring to violate any of the provisions of section 2383 of title 18, or willfully performing any act in violation of section 2385 of title 18, or violating section 2384 of title 18 by engaging in a conspiracy to overthrow, put down, or to destroy by force the Government of the United States, or to levy war against them, if and when he is convicted thereof by a court martial or by a court of competent jurisdiction.
 
-(b) Whenever the loss of United States nationality is put in issue in any action or proceeding commenced on or after September 26, 1961 under, or by virtue of, the provisions of this chapter or any other Act, the burden shall be upon the person or party claiming that such loss occurred, to establish such claim by a preponderance of theevidence. Any person who commits or performs, or who has committed or performed, any act of expatriation under the provisions of this chapter or any other Act shall be presumed to have done so voluntarily, but such presumption may be rebutted upon a showing, by a preponderance of the evidence, that the act or acts committed or performed were not done voluntarily.
+(b) Whenever the loss of United States nationality is put in issue in any action or proceeding commenced on or after September 26, 1961 under, or by virtue of, the provisions of this chapter or any other Act, the burden shall be upon the person or party claiming that such loss occurred, to establish such claim by a preponderance of the evidence. Any person who commits or performs, or who has committed or performed, any act of expatriation under the provisions of this chapter or any other Act shall be presumed to have done so voluntarily, but such presumption may be rebutted upon a showing, by a preponderance of the evidence, that the act or acts committed or performed were not done voluntarily.
 
 (June 27, 1952, ch. 477, title III, ch. 3, §349, 66 Stat. 267; Sept. 3, 1954, ch. 1256, §2, 68 Stat. 1146; Pub. L. 87–301, §19, Sept. 26, 1961, 75 Stat. 656; Pub. L. 94–412, title V, §501(a), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 95–432, §§2, 4, Oct. 10, 1978, 92 Stat. 1046; Pub. L. 97–116, §18(k)(2), (q), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §§18, 19, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §§8(m), (n), 9(hh), Oct. 24, 1988, 102 Stat. 2618, 2622.)
 
@@ -44,7 +44,7 @@ Subsecs. (b), (c). Pub. L. 99–653, §19, as amended by Pub. L. 100–525, §8(
 
 1981—Subsec. (a). Pub. L. 97–116 struck out “(a)” designation as added by section 4 of Pub. L. 95–432, which was not executed since it would have resulted in a subsec. (a) designation of “(a)(a)”, and substituted in par. (1) “special immigrant” for “nonquota immigrant”.
 
-1978—Subsec. (a)(5). Pub. L. 95–432, §§2, 4, redesignated par. (6) as (5). Former par. (5), which dealt with expatriation of persons who voted in a political election in a foreign state or participated in an election or plebiscite to determine sovereignty over foreign territory, was struck out.
+1978—Subsec. (a)(5). Pub. L. 95–432, §§2, 4, redesignated par. (6) as (5). Former par. (5), which dealt withexpatriation of persons who voted in a political election in a foreign state or participated in an election or plebiscite to determine sovereignty over foreign territory, was struck out.
 
 Subsec. (a)(6), (7). Pub. L. 95–432, §4, redesignated pars. (7) and (9) as (6) and (7), respectively. Former pars. (6) and (7) redesignated (5) and (6), respectively.
 

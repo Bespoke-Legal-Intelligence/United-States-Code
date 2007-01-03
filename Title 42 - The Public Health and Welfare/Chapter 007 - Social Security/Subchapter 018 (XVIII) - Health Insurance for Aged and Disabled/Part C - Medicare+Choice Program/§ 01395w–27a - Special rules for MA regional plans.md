@@ -70,9 +70,9 @@ An MA regional plan shall include the following:
 
 #### (B) Notification of allowable costs under the plan
 
-&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in 2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
+&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
 
-&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrolleesunder the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
+&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
 &emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatable integrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
 
@@ -140,7 +140,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;&emsp;(i) that an MA organization offering an MA regional plan shall provide the Secretary with such information as the Secretary determines is necessary to carry out this subsection; and
 
-&emsp;&emsp;&emsp;(ii) that, pursuant to section 1395w–27(d)(2)(B) of this title, the Secretary has the right to inspect and audit any books and records of the organizationthat pertain to the information regarding costs provided to the Secretary under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) that, pursuant to section 1395w–27(d)(2)(B) of this title, the Secretary has the right to inspect and audit any books and records of the organization that pertain to the information regarding costs provided to the Secretary under paragraph (1)(B).
 
 #### (B) Restriction on use of information
 
@@ -182,7 +182,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There shall be available to the Fund, for expenditures from the Fund during the period beginning on January 1, 2007, and ending on December 31, 2013, a total of $10,000,000,000.
+&emsp;&emsp;&emsp;There shall be available to the Fund, for expenditures from the Fund during the period beginning on January 1, 2012, and ending on December 31, 2013, a total of $3,500,000,000.
 
 #### (ii) Payment from trust funds
 
@@ -298,7 +298,7 @@ An MA regional plan shall include the following:
 
 #### (iii) Percentage enrollment in MA regional plans below national average
 
-&emsp;&emsp;&emsp;For the previous year, the Secretary determines that the average percentage ofMA eligible individuals residing in the region who are enrolled in MA regional plans is less than the average percentage of such individuals in the United States enrolled in such plans.
+&emsp;&emsp;&emsp;For the previous year, the Secretary determines that the average percentage of MA eligible individuals residing in the region who are enrolled in MA regional plans is less than the average percentage of such individuals in the United States enrolled in such plans.
 
 #### (D) Application
 
@@ -362,7 +362,7 @@ An MA regional plan shall include the following:
 
 #### (1) Computation for regions
 
-&emsp;For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e) of this section, the term “MA region-specific non-drug monthly benchmark amount” means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before thebeginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
+&emsp;For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e) of this section, the term “MA region-specific non-drug monthly benchmark amount”means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
 
 #### (2) 2 components
 
@@ -452,7 +452,7 @@ An MA regional plan shall include the following:
 
 #### (g) Election of uniform coverage determination
 
-Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an MA regional plan, the organization offering the plan may elect to have a local coverage determination for the entire MA region be the local coverage determination applied for any part of such region (as selected by the organization).
+Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an MA regional plan,the organization offering the plan may elect to have a local coverage determination for the entire MA region be the local coverage determination applied for any part of such region (as selected by the organization).
 
 #### (h) Assuring network adequacy
 
@@ -486,7 +486,11 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;In this subsection, the term “essential hospital” means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990.)
+
+#### Amendments
+
+2006—Subsec. (e)(2)(A)(i). Pub. L. 109–432 substituted “2012” for “2007” and “$3,500,000,000” for “$10,000,000,000”.
 
 #### Effective Date
 

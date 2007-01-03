@@ -30,7 +30,7 @@
 
 #### (ii) Lowest income dual eligible individuals
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
+&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2)of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
 
 #### (iii) Other individuals
 
@@ -54,7 +54,7 @@
 
 #### (C) Continuation of coverage above the initial coverage limit
 
-&emsp;&emsp;The continuation of coverage from the initial coverage limit (under paragraph (3) ofsection 1395w–102(b) of this title) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced coinsurance described in subparagraph (D).
+&emsp;&emsp;The continuation of coverage from the initial coverage limit (under paragraph (3) of section 1395w–102(b) of this title) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced coinsurance described in subparagraph (D).
 
 #### (D) Reduction in cost-sharing below out-of-pocket threshold
 
@@ -160,7 +160,7 @@
 
 #### (iv) Methodology flexibility
 
-&emsp;&emsp;&emsp;The Secretary may permit a State in making eligibility determinations for premium and cost-sharing subsidies under this section to use the same asset or resource methodologies that are used with respect to eligibility for medical assistance for medicare cost-sharing described in section 1396d(p) of this title so long as the Secretary determines that the use of such methodologies will not result in any significant differences in the number of individuals determined to be subsidy eligible individuals.
+&emsp;&emsp;&emsp;The Secretary may permit a State in making eligibility determinations for premium and cost-sharing subsidies under this section to use the same asset or resource methodologies that are used with respect to eligibility for medical assistance for medicare cost-sharing described in section 1396d(p) of this title so long as the Secretary determines that the use ofsuch methodologies will not result in any significant differences in the number of individuals determined to be subsidy eligible individuals.
 
 #### (F) Treatment of territorial residents
 

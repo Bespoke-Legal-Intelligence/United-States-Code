@@ -80,7 +80,7 @@ Programs for effective alcohol rehabilitation and dwi courts.—A program for ef
 
 Underage drinking program.—An effective strategy, as determined by the Secretary, for preventing operators of motor vehicles under age 21 from obtaining alcoholic beverages and for preventing persons from making alcoholic beverages available to individuals under age 21. Such a strategy may include—
 
-&emsp;&emsp;(A) the issuance of tamper-resistant drivers’ licenses to individuals under age 21 thatare easily distinguishable in appearance from drivers’ licenses issued to individuals age 21 or older; and
+&emsp;&emsp;(A) the issuance of tamper-resistant drivers’ licenses to individuals under age 21 that are easily distinguishable in appearance from drivers’ licenses issued to individuals age 21 or older; and
 
 &emsp;&emsp;(B) a program provided by a nonprofit organization for training point of sale personnel concerning, at a minimum—
 
@@ -258,11 +258,11 @@ Subsec. (d). Pub. L. 102–388, §§601(2), 602, redesignated subsec. (c) as (d)
 
 Subsec. (e). Pub. L. 102–388, §§601(2), 603, redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “
 
-Amount of Basic Grants.—The amount of a basic grant to bemade in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of the amount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
+Amount of Basic Grants.—The amount of a basic grant to be made in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of the amount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 102–388, §§601(2), 604, redesignated subsec. (e) as (f) and substituted “Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title” for “A State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in the fiscal year under this section” in pars. (1) to (7). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 102–388, §§601(1), (2), 605, redesignated subsec. (f) as (g), struck out “, and the remainder shall be apportioned among the several States” before the period at end, and struck out former subsec. (g) which provided for apportionment of the remainder of the funds authorized to be appropriated to carry out this section among the States according to certain formulas.
+Subsec. (g). Pub. L. 102–388, §§601(1), (2), 605, redesignated subsec. (f) as (g), struck out “, and the remainder shall be apportioned among the several States” before the period at end, and struck out former subsec. (g) which provided for apportionment of the remainder of the funds authorized to be appropriated to carry outthis section among the States according to certain formulas.
 
 Subsec. (j). Pub. L. 102–388, §606, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “
 

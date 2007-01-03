@@ -22,13 +22,13 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
 
-&emsp;(2) The person must meet experience requirements prescribed by the Secretary of Defense.Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
+&emsp;(2) The person must meet experience requirements prescribed by the Secretary of Defense. Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
 
 &emsp;(3) The person must meet such other requirements as the Secretary of Defense or the Secretary of the military department concerned prescribes by regulation.
 
 (c)
 
-Exceptions.—(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
+Exceptions.—(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has atleast 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
 (2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
 
@@ -84,7 +84,7 @@ Subsec. (d)(2). Pub. L. 108–136, §831(b)(3)(B), substituted “The Secretary�
 
 Subsec. (e). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps” in pars. (1) and (2).
 
-2001—Subsec. (a). Pub. L. 107–107, §1048(e)(4), as amended by Pub. L. 108–375, §1084(h)(2), struck out atend “Such criteria and procedures shall be in effect on and after October 1, 1993.”
+2001—Subsec. (a). Pub. L. 107–107, §1048(e)(4), as amended by Pub. L. 108–375, §1084(h)(2), struck out at end “Such criteria and procedures shall be in effect on and after October 1, 1993.”
 
 Subsec. (c)(2). Pub. L. 107–107, §824(b), inserted a comma after “business”.
 

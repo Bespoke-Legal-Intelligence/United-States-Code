@@ -1,0 +1,44 @@
+### §50303. Operating property and extending term of notes
+
+(a)
+
+General Authority.—The Secretary of Transportation may—
+
+&emsp;(1) operate or lease docks, wharves, piers, or real property under the Secretary's control; and
+
+&emsp;(2) make extensions and accept renewals of—
+
+&emsp;&emsp;(A) promissory notes and other evidences of indebtedness on property; and
+
+&emsp;&emsp;(B) mortgages and other contracts securing the property.
+
+(b)
+
+Terms of Transactions.—A transaction under subsection (a) shall be on terms the Secretary considers necessary to carry out the purposes of this subtitle, but consistent with sound business practice.
+
+(c)
+
+Availability of Amounts.—Amounts received by the Secretary from a transaction under this section are available for expenditure by the Secretary as provided in this subtitle.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+50303
+
+46 App.:1112.
+
+June 29, 1936, ch. 858, title II, §202, 49 Stat. 1986; Aug. 26, 1937, ch. 822, §1, 50 Stat. 839; June 23, 1938, ch. 600, §1, 52 Stat. 953; Pub. L. 97–31, §12(60), Aug. 6, 1981, 95 Stat. 158.
+
+In subsection (a), the words “Notwithstanding any other provision of law” are omitted as unnecessary. In paragraph (1), the word “lands” is omitted as included in “real property”. In paragraph (2)(A), the word “promissory” is added for clarity. The words “hereby transferred”, referring to the transfer under the first sentence of section 202 of the Merchant Marine Act, 1936 (repealed by section 12(60)(A) of Public Law 97–31), are omitted as obsolete.
+
+Subsection (b) is substituted for “in accordance with good business methods and on such terms and conditions as he determines to effectuate the policy of this chapter” and “upon such terms and conditions as he may prescribe in accordance with sound business practice” for consistency and to eliminate unnecessary words.
+

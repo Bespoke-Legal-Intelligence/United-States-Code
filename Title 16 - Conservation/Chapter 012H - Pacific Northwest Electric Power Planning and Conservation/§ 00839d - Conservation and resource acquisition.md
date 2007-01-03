@@ -98,13 +98,13 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 &emsp;(ii) such investigation subsequently demonstrates, as determined by the Administrator, that such resource does not meet the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or is not acceptable because of environmental impacts, or
 
-&emsp;(iii) after such investigation the Administrator determines not to acquire the resource and the sponsor determines not to construct the resource.
+&emsp;(iii) after such investigation the Administrator determines not to acquire the resourceand the sponsor determines not to construct the resource.
 
 (2) The Administrator may exercise the authority of this subsection only after he determines that the failure to do so would result in inequitable hardship to the consumers of such sponsors. The Administrator may provide reimbursement under this subsection only for expenses incurred after December 5, 1980.
 
 (3) Any agreement under paragraph (1) of this subsection shall provide the Administrator an option to acquire any such resource, including a renewable resource, and shall include such other provisions, as the Administrator deems appropriate, for the Administrator's recovery from such sponsors or any assignee of the sponsors, if such sponsor or assignee continues development of the resource, of any advances made by the Administrator pursuant to such agreement.
 
-(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation ofthe resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
+(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation of the resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
 
 #### (g) Environmental impact statements
 
@@ -138,7 +138,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 #### (i) Contracts
 
-Contracts for the acquisition of resources and for billing credits for major resources, including conservation activities, entered into pursuant to this section shall contain such terms and conditions, applicable after the contract is entered into, as will—
+Contracts for the acquisition of resources and for billing credits for major resources, including conservation activities, entered into pursuant tothis section shall contain such terms and conditions, applicable after the contract is entered into, as will—
 
 &emsp;(1) insure timely construction, scheduling, completion, and operation of resources,
 
@@ -146,7 +146,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 &emsp;(3) insure that the Administrator exercises effective oversight, inspection, audit, and review of all aspects of such construction and operation.
 
-> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator isprovided with such current information as he deems necessary to evaluate such construction and operation.
+> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator is provided with such current information as he deems necessary to evaluate such construction and operation.
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 

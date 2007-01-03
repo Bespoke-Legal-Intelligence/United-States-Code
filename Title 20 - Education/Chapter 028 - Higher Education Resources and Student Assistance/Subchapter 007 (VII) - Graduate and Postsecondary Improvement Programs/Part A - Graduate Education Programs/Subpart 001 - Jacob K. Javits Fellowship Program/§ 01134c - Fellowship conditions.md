@@ -26,5 +26,5 @@ Prior sections 1134c–1 and 1134c–2 were repealed by Pub. L. 105–244, §3, 
 
 Section 1134c–1, Pub. L. 89–329, title IX, §914, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 762, related to information collection.
 
-Section 1134c–2, Pub. L. 89–329, title IX, §915, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 762,authorized appropriations for part A of former subchapter IX of this chapter.
+Section 1134c–2, Pub. L. 89–329, title IX, §915, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 762, authorized appropriations for part A of former subchapter IX of this chapter.
 

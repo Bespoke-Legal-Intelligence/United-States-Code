@@ -84,7 +84,7 @@ Responsibilities
 
 1–104. The Trade Representative shall determine, from time to time, the dollar equivalent of 150,000 Special Drawing Right units and shall publish that determination in the Federal Register. Procurement of less than 150,000 Special Drawing Right units is not subject to the Agreement or this Order (Article I:1(b) of the Agreement).
 
-1–105. In order to ensure coordination of international trade policy with regard to the implementation of the Agreement, agencies shall consult in advance with the Trade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
+1–105. In order to ensure coordination of international trade policy with regard to the implementation of theAgreement, agencies shall consult in advance with the Trade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
 
 #### 1–2.
 

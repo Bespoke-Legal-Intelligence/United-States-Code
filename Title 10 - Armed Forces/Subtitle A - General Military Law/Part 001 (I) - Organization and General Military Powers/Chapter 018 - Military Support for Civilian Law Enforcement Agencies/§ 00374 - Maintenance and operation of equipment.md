@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iii) A law relating to the arrival or departure of merchandise (as defined in section 401 of the Tariff Act of 1930 (19 U.S.C. 1401) into or out of the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) or any other territory or possession of the United States.
 
-&emsp;&emsp;(iv) The Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.).
+&emsp;&emsp;(iv) Chapter 705 of title 46.
 
 &emsp;&emsp;(v) Any law, foreign or domestic, prohibiting terrorist activities.
 
@@ -52,19 +52,19 @@
 
 (c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
 
-(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, §1066(a)(4), Oct. 5, 1999, 113 Stat. 770.)
+(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, §1066(a)(4), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–304, §17(a)(1), Oct. 6, 2006, 120 Stat. 1706.)
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (b)(4)(A)(i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of theAct to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(4)(A)(iii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Maritime Drug Law Enforcement Act, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
-
 #### Amendments
+
+2006—Subsec. (b)(4)(A)(iv). Pub. L. 109–304 substituted “Chapter 705 of title 46” for “The Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
 1999—Subsec. (b)(1)(C), (D). Pub. L. 106–65, §1066(a)(4)(A), realigned margins.
 
@@ -122,9 +122,11 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 #### Funds for Young Marines Program
 
-Pub. L. 109–148, div. A, title VIII, §8033, Dec. 30, 2005, 119 Stat. 2705, provided that: “Notwithstanding any other provision of law, funds available during the current fiscal year and hereafter for ‘Drug Interdiction and Counter-Drug Activities, Defense’ may be obligated for the Young Marines program.”
+Pub. L. 109–289, div. A, title VIII, §8028, Sept. 29, 2006, 120 Stat. 1279, provided that: “Notwithstanding any other provision of law, funds available during the current fiscal year and hereafter for ‘Drug Interdiction and Counter-Drug Activities, Defense’ may be obligated for the Young Marines program.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–148, div. A, title VIII, §8033, Dec. 30, 2005, 119 Stat. 2705.
 
 Pub. L. 108–287, title VIII, §8037, Aug. 5, 2004, 118 Stat. 978.
 
@@ -170,9 +172,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 109–148, div. A, title VIII, §8052(a), Dec. 30, 2005, 119 Stat. 2709, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 109–289, div. A, title VIII, §8045(a), Sept. 29, 2006, 120 Stat. 1283, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–148, div. A, title VIII, §8052(a), Dec. 30, 2005, 119 Stat. 2709.
 
 Pub. L. 108–287, title VIII, §8057(a), Aug. 5, 2004, 118 Stat. 983.
 
@@ -198,11 +202,11 @@ Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Additional Support for Counter-Drug Activities
 
-Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212, provided that:
+Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, §1021, Oct. 17, 2006, 120 Stat. 2382, provided that:
 
 “(a)
 
-Support to Other Agencies.—During fiscal years 2002 through 2006, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
+Support to Other Agencies.—During fiscal years 2002 through 2011, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
 
 &emsp;“(1) by the official who has responsibility for the counter-drug activities of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
 
@@ -260,7 +264,7 @@ Limited Waiver of Prohibition.—Notwithstanding section 376 of title 10, United
 
 “(f)
 
-Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564 \[10 U.S.C. 124 note\])) for the purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant tosection 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564 \[10 U.S.C. 124 note\])) for the purpose of aiding civilian law enforcement agencies.
 
 “(g)
 

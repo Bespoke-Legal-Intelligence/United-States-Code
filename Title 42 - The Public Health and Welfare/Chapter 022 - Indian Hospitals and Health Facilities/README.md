@@ -9,9 +9,6 @@
 | [2003\.](Subchapter%20001%20%28I%29%20-%20Maintenance%20and%20Operation/%C2%A7%2002003%20-%20Regulations.md) | Regulations. |
 | [2004\.](Subchapter%20001%20%28I%29%20-%20Maintenance%20and%20Operation/%C2%A7%2002004%20-%20Transfer%20of%20personnel%2C%20property%2C%20records%2C%20monies.md) | Transfer of personnel, property, records, monies. |
 | [2004a.](Subchapter%20001%20%28I%29%20-%20Maintenance%20and%20Operation/%C2%A7%2002004a%20-%20Sanitation%20facilities.md) | Sanitation facilities. |
-| (a) | Powers of Surgeon General. |
-| (b) | Transfer and reversion of lands. |
-| (c) | Project consultation and participation. |
 | [2004b.](Subchapter%20001%20%28I%29%20-%20Maintenance%20and%20Operation/%C2%A7%2002004b%20-%20Implementation%20of%20education%2C%20hospital%20and%20health%20facility%2C%20etc.%2C%20contracts%20and%20grants%20by%20Public%20Health%20Service%20personnel%3B%20request%20for%E2%80%A6.md) | Implementation of education, hospital and health facility, etc., contracts and grants by Public Health Service personnel; request for detail of personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

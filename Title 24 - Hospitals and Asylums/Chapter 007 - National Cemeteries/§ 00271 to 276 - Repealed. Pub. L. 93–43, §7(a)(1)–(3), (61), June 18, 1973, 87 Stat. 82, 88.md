@@ -32,7 +32,7 @@ Section 7 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as th
 
 #### Functions, Powers, and Duties of Secretaries Unaffected
 
-Section 7(b) of Pub. L. 93–43 provided that: “Nothing in this section \[repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of this title and enacting provisions set out as a note under sections 271 to 276\] shall be deemed to affect in any manner the functions, powers, and duties of—
+Section 7(b) of Pub. L. 93–43 provided that: “Nothing in this section \[repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of this title and enactingprovisions set out as a note under sections 271 to 276\] shall be deemed to affect in any manner the functions, powers, and duties of—
 
 &emsp;“(1) the Secretary of the Interior with respect to those cemeteries, memorials, or monuments under his jurisdiction on the effective date of this section \[see note above\], or
 

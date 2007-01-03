@@ -4,13 +4,13 @@
 
 (b) Interest at a rate prescribed by the President, not to exceed 10 percent a year, will accrue on amounts deposited under this section. However, the maximum amount upon which interest may be paid under this subsection to any member is $10,000, except that such limitation shall not apply to deposits made on or after September 1, 1966, in the case of those members in a missing status during the Vietnam conflict, the Persian Gulf conflict, or a contingency operation. Interest under this subsection shall terminate 90 days after the member's return to the United States or its possessions.
 
-(c) Except as provided in joint regulations prescribed by the Secretaries concerned, paymentsof deposits, and interest thereon, may not be made to the member while he is on duty outside the United States or its possessions.
+(c) Except as provided in joint regulations prescribed by the Secretaries concerned, payments of deposits, and interest thereon, may not be made to the member while he is on duty outside the United States or its possessions.
 
 (d) An amount deposited under this section, with interest thereon, is exempt from liability for the member's debts, including any indebtedness to the United States or any instrumentality thereof, and is not subject to forfeiture by sentence of a court-martial.
 
 (e) The Secretary concerned, or his designee, may in the interest of a member who is in a missing status or his dependents, initiate, stop, modify, and change allotments, and authorize a withdrawal of deposits, made under this section, even though the member had an opportunity to deposit amounts under this section and elected not to do so. Interest may be computed from the day the member entered a missing status, or September 1, 1966, whichever is later.
 
-(f) The Secretary of Defense may authorize a member of the armed forces who is on a temporary duty assignment outside of the United States or its possessions in support of a contingency operation to make deposits of unallotted current pay and allowances during that duty as provided in subsection (a). The Secretary shall prescribe regulations establishing standards and procedures for the administration of this subsection.
+(f) The Secretary of Defense may authorize a member of the armed forces who is on a temporary duty assignment outside of the United States or its possessions in support of a contingency operation to make deposits of unallotted current pay and allowances during that duty as provided in subsection (a). The Secretary shallprescribe regulations establishing standards and procedures for the administration of this subsection.
 
 (g) In this section:
 
@@ -112,15 +112,7 @@ Section 2 of Pub. L. 90–122 provided that: “This Act \[amending this section
 
 #### Savings Program for Overseas Personnel
 
-Pub. L. 101–510, div. A, title XI, §1114, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, §314(1), (3), Apr. 6, 1991, 105 Stat. 86, provided that:
-
-“(a)
-
-Eligibility To Participate.—The Secretary of Defense may authorize a member of the Armed Forces who is serving outside the United States or its possessions under arduous conditions (as determined by the Secretary of Defense) pursuant to an assignment or duty detail as part of the Persian Gulf conflict to make deposits of unallotted current pay and allowances, and to earn interest, under section 1035 of title 10, United States Code.
-
-“(b)
-
-Regulations.—The Secretary of Defense shall prescribe regulations establishing standards and procedures for the administration of this section.”
+Pub. L. 101–510, div. A, title XI, §1114, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, §314(1), (3), Apr. 6, 1991, 105 Stat. 86, directed the Secretary of Defense to prescribe regulations establishing standards and procedures for the administration of a program to authorize members of the Armed Forces serving outside the United States during the Persian Gulf conflict to make deposits of unallotted current pay and allowances and to earn interest under this section.
 
 #### Adjustment of Deposit Accounts of Certain Enlisted Men
 

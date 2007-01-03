@@ -42,7 +42,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 #### (c) Prohibition on conditions for written or implied warranty; waiver by Commission
 
-No warrantor of a consumer product may condition his written or implied warranty of suchproduct on the consumer's using, in connection with such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if—
+No warrantor of a consumer product may condition his written or implied warranty of such product on the consumer's using, in connection with such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if—
 
 &emsp;(1) the warrantor satisfies the Commission that the warranted product will function properly only if the article or service so identified is used in connection with the warranted product, and
 

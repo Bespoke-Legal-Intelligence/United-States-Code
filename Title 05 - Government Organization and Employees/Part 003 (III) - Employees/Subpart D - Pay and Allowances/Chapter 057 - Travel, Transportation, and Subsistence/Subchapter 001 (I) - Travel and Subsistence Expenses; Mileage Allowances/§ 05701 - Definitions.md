@@ -100,7 +100,7 @@ Pub. L. 104–201, div. A, title XVII, §1701, Sept. 23, 1996, 110 Stat. 2752, p
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
+Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
 #### Short Title of 1975 Amendment
 
@@ -188,7 +188,7 @@ Regulations.—Within 270 days after the date of the enactment of this Act \[Oct
 
 &emsp;“(3) provide that any deduction under subsection (d) from pay owed to an employee may occur only after reimbursement of the employee for the expenses of Government travel with respect to which the deduction is made; and
 
-&emsp;“(4) require agencies to promptly reimburse employees for expenses charged on a travel charge card pursuant to this section, and by no later than 30 days after the submission of a claim for reimbursement.
+&emsp;“(4) require agencies to promptly reimburse employees for expenses charged on a travel charge cardpursuant to this section, and by no later than 30 days after the submission of a claim for reimbursement.
 
 “(f)
 

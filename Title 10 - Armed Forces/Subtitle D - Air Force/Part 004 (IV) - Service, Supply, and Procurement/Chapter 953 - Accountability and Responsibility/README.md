@@ -15,13 +15,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 683(c)(3) of Pub. L. 109–163, see Termination Date of 2006 Amendment note set out under section 9837 of this title.</i>
-
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title VI, §683(c)(2), (3), Jan. 6, 2006, 119 Stat. 3324, temporarily struck out “enlisted” before “members” in item 9837. See Termination Date of 2006 Amendment note set out under section 9837 of this title.
+2006—Pub. L. 109–163, div. A, title VI, §683(c)(2), (3), Jan. 6, 2006, 119 Stat. 3324, struck out “enlisted” before “members” in item 9837.
 
 2002—Pub. L. 107–314, div. A, title X, §1006(c)(2), Dec. 2, 2002, 116 Stat. 2633, struck out item 9835 “Reports of survey”.
 

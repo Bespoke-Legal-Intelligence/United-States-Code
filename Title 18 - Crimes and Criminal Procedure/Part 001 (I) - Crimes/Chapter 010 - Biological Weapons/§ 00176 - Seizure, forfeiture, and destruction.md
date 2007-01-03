@@ -22,7 +22,7 @@ Affirmative Defense.—It is an affirmative defense against a forfeiture under s
 
 &emsp;(2) such biological agent, toxin, or delivery system, is of a type and quantity reasonable for that purpose.
 
-(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII, §330010(16), Sept. 13, 1994, 108 Stat. 2144; Pub. L. 107–188, title II, §231(c)(3), June 12, 2002, 116 Stat. 661.)
+(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII,§330010(16), Sept. 13, 1994, 108 Stat. 2144; Pub. L. 107–188, title II, §231(c)(3), June 12, 2002, 116 Stat. 661.)
 
 #### References in Text
 

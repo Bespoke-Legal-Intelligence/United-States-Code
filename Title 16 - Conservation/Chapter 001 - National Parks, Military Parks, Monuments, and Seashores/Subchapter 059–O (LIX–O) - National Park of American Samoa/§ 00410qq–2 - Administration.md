@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including the sections 1, 2, 3, and 4 of this title. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation of wildlife and natural and cultural resources as he deems necessary to carry out the purposes of this subchapter, except that he may not acquire any lands or waters or interests therein for purposes of the park other than by lease.
+The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation of wildlife and natural and cultural resources as he deems necessary to carry out the purposes of this subchapter, except that he may not acquire any lands or waters or interests therein for purposes of the park other than by lease.
 
 #### (b) Traditional subsistence uses
 

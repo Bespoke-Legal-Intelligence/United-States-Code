@@ -50,7 +50,7 @@ Each such application shall also include assurances, satisfactory to the Secreta
 
 &emsp;(4) in planning and carrying out such programs and projects, there has been, and will be, adequate provision for addressing the unmet education needs of preschool migratory children;
 
-&emsp;(5) the effectiveness of such programs and projects will be determined, where feasible, using the same approaches and standards that will be used to assess the performance of students, schools, and local educational agencies under part A of this subchapter;
+&emsp;(5) the effectiveness of such programs and projects will be determined, where feasible,using the same approaches and standards that will be used to assess the performance of students, schools, and local educational agencies under part A of this subchapter;
 
 &emsp;(6) to the extent feasible, such programs and projects will provide for—
 

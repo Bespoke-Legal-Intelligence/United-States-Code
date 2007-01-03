@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—Not later than April 1 of each year, the Secretary of Transportation shallsubmit to Congress a report on activities carried out under this subchapter during the prior fiscal year. The report shall include—
+General Rule.—Not later than April 1 of each year, the Secretary of Transportation shall submit to Congress a report on activities carried out under this subchapter during the prior fiscal year. The report shall include—
 
 &emsp;(1) a detailed statement of airport development completed;
 

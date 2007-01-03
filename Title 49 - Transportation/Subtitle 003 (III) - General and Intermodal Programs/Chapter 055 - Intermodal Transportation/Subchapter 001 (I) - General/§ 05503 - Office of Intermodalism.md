@@ -16,7 +16,7 @@ Duties and Powers.—The Director shall carry out the duties of the Secretary de
 
 Research.—The Director shall—
 
-&emsp;(1) coordinate United States Government research on intermodal transportation as provided in the plan developed under section6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2177); and
+&emsp;(1) coordinate United States Government research on intermodal transportation as provided in the plan developed under section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2177); and
 
 &emsp;(2) carry out additional research needs identified by the Director.
 
@@ -116,7 +116,7 @@ The date of enactment of the Surface Transportation Safety Improvement Act of 20
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–59, §4149(1), inserted at end “Amounts reserved under section 5504(d) notawarded to States as grants may be used by the Director to provide technical assistance under this subsection.”
+2005—Subsec. (e). Pub. L. 109–59, §4149(1), inserted at end “Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.”
 
 Subsecs. (f), (g). Pub. L. 109–59, §4149(2), (3), added subsecs. (f) and (g). Former subsec. (f) redesignated (h) relating to administrative and clerical support.
 

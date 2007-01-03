@@ -10,15 +10,17 @@ A prior section 2001 was renumbered section 4101 of this title.
 
 Another prior section 2001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, related to compensation for veterans under agreements with States, prior to repeal by section 1(a) of Pub. L. 87–675.
 
-#### Definitions in Pub. L. 107–95
-
-Pub. L. 107–95, §2, Dec. 21, 2001, 115 Stat. 903, provided that: “For purposes of this Act \[see Short Title of 2001 Amendments note set out under section 101 of this title\]:
-
-&emsp;“(1) The term ‘homeless veteran’ has the meaning given such term in section 2002 of title 38, United States Code, as added by section 5(a)(1).
-
-&emsp;“(2) The term ‘grant and per diem provider’ means an entity in receipt of a grant under section 2011 or 2012 of title 38, United States Code, as so added.”
-
 #### National Goal To End Homelessness Among Veterans
+
+Pub. L. 109–461, title VII, §701, Dec. 22, 2006, 120 Stat. 3439, provided that:
+
+“(a)
+
+Reaffirmation.—Congress reaffirms the national goal to end chronic homelessness among veterans within a decade of the enactment of the Homeless Veterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903) \[Dec. 21, 2001\].
+
+“(b)
+
+Reaffirmation of Encouragement of Cooperative Efforts.—Congress reaffirms its encouragement, as specified in the Homeless Veterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903), that all departments and agencies of the Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals, work cooperatively to end chronic homelessness among veterans.”
 
 Pub. L. 107–95, §3, Dec. 21, 2001, 115 Stat. 903, provided that:
 
@@ -49,4 +51,12 @@ Pub. L. 107–95, §4, Dec. 21, 2001, 115 Stat. 904, provided that: “It is the
 #### Evaluation Centers for Homeless Veterans Programs
 
 Pub. L. 107–95, §6(a), Dec. 21, 2001, 115 Stat. 919, provided that: “The Secretary of Veterans Affairs shall support the continuation within the Department of Veterans Affairs of at least one center for evaluation to monitor the structure, process, and outcome of programs of the Department of Veterans Affairs that address homeless veterans.”
+
+#### Definitions in Pub. L. 107–95
+
+Pub. L. 107–95, §2, Dec. 21, 2001, 115 Stat. 903, provided that: “For purposes of this Act \[see Short Title of 2001 Amendments note set out under section 101 of this title\]:
+
+&emsp;“(1) The term ‘homeless veteran’ has the meaning given such term in section 2002 of title 38, United States Code, as added by section 5(a)(1).
+
+&emsp;“(2) The term ‘grant and per diem provider’ means an entity in receipt of a grant under section 2011 or 2012 of title 38, United States Code, as so added.”
 

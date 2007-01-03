@@ -16,7 +16,7 @@ Functions of Administrator of General Services transferred to Secretary of Comme
 
 Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, §2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 #### Effective Date of Transfer of Functions
 

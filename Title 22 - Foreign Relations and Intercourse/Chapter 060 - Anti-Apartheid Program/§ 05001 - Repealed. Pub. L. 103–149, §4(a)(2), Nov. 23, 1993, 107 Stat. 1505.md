@@ -110,7 +110,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;“(8)(A) Section 901(j)(2)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 901(j)(2)(C)) is repealed.
 
-&emsp;“(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of the termination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
+&emsp;“(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of thetermination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
 
 &emsp;“(9) The table in section 502(b) of the Trade Act of 1974 (19 U.S.C. 2462(b)) is amended by striking ‘Republic of South Africa’.
 
@@ -176,7 +176,7 @@ Exceptions.—Notwithstanding paragraph (1), assistance may be provided for—
 
 &emsp;&emsp;“(B) South African higher education institutions, particularly those traditionally disadvantaged by apartheid policies; and
 
-&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance wouldpromote the transition to nonracial democracy in South Africa.
+&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance would promote the transition to nonracial democracy in South Africa.
 
 > &emsp;Any determination under subparagraph (C) should be based on consultations with South African individuals and organizations representative of the majority population in South Africa (particularly consultations through the Transitional Executive Council) and consultations with the appropriate congressional committees.
 

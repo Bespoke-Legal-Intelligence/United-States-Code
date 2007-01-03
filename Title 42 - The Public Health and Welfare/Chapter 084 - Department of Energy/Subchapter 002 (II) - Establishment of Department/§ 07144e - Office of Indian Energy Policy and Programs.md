@@ -12,7 +12,7 @@ The Director, in accordance with Federal policies promoting Indian self-determin
 
 &emsp;(2) reduce or stabilize energy costs;
 
-&emsp;(3) enhance and strengthen Indian tribal energy and economic infrastructure relating tonatural resource development and electrification; and
+&emsp;(3) enhance and strengthen Indian tribal energy and economic infrastructure relating to natural resource development and electrification; and
 
 &emsp;(4) bring electrical power and service to Indian land and the homes of tribal members located on Indian lands or acquired, constructed, or improved (in whole or in part) with Federal funds.
 

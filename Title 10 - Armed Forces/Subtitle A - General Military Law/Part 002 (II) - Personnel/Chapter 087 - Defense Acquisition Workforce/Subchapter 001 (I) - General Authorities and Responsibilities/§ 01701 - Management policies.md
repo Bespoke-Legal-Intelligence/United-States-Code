@@ -22,6 +22,40 @@ Section 1201 of title XII of Pub. L. 101–510 provided that: “This title \[en
 
 Section 1210(a) of title XII of Pub. L. 101–510 provided that: “Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
+#### Government Performance of Critical Acquisition Functions
+
+Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, provided that:
+
+“(a)
+
+Goal.—It shall be the goal of the Department of Defense and each of the military departments to ensure that, within five years after the date of the enactment of this Act \[Oct. 17, 2006\], for each major defense acquisition program and each major automated information system program, each of the following positions is performed by a properly qualified member of the Armed Forces or full-time employee of the Department of Defense:
+
+&emsp;“(1) Program manager.
+
+&emsp;“(2) Deputy program manager.
+
+&emsp;“(3) Chief engineer.
+
+&emsp;“(4) Systems engineer.
+
+&emsp;“(5) Cost estimator.
+
+“(b)
+
+Plan of Action.—Not later than six months after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall develop and begin implementation of a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a). The plan of action required by this subsection shall include specific, measurable interim milestones.
+
+“(c)
+
+Reports.—Not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\] and each year thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress made by the Department of Defense and the military departments toward achieving the goal established in subsection (a).
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘major defense acquisition program’ has the meaning given such term in section 2430(a) of title 10, United States Code.
+
+&emsp;“(2) The term ‘major automated information system program’ has the meaning given such term in section 2445a(a) of title 10, United States Code (as added by section 816 of this Act).”
+
 #### Demonstration Project Relating to Certain Personnel Management Policies and Procedures
 
 Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as amended by Pub. L. 105–85, div. A, title VIII, §845, Nov. 18, 1997, 111 Stat. 1845; Pub. L. 107–314, div. A, title VIII, §813(b), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XI, §1112, Nov. 24, 2003, 117 Stat. 1634, provided that:
@@ -70,7 +104,7 @@ Limitation on Number of Participants.—The total number of persons who may part
 
 “(e)
 
-Effect of Reorganizations.—The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
+Effect of Reorganizations.—The applicability of paragraph (2) of subsection (b) to an organization orteam shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
 
 “(f)
 

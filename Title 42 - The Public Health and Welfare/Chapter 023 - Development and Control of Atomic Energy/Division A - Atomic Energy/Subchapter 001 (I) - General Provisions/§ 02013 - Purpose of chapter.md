@@ -24,7 +24,3 @@ Provisions similar to those comprising this section were contained in section 1 
 
 1964—Subsec. (c). Pub. L. 88–489 inserted “whether owned by the Government or others” and “and to provide continued assurance of the Government's ability to enter into and enforce agreements with nations or groups of nations for the control of special nuclear materials and atomic weapons”.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
-

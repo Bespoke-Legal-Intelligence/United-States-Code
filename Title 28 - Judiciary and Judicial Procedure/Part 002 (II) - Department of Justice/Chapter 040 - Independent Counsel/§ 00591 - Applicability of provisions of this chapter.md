@@ -2,7 +2,7 @@
 
 (a)
 
-Preliminary Investigation With Respect to Certain Covered Persons.—The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal lawother than a violation classified as a Class B or C misdemeanor or an infraction.
+Preliminary Investigation With Respect to Certain Covered Persons.—The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (b)
 
@@ -60,7 +60,7 @@ Recusal of Attorney General.—
 
 When recusal is required.—(A) If information received under this chapter involves the Attorney General, the next most senior official in the Department of Justice who is not also recused shall perform the duties assigned under this chapter to the Attorney General.
 
-&emsp;(B) If information received under this chapter involves a person with whom the Attorney General has a personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior official in the Department of Justice who is not also recused to perform the duties assigned under this chapter to the Attorney General.
+&emsp;(B) If information received under this chapter involves a person with whom the AttorneyGeneral has a personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior official in the Department of Justice who is not also recused to perform the duties assigned under this chapter to the Attorney General.
 
 &emsp;(2)
 

@@ -118,7 +118,7 @@ Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 w
 
 #### Effective Date of 1967 Amendment
 
-Section 220(a)(2) of Pub. L. 90–206 provided, except as otherwise expressly provided, that: “Sections 202 \[amending this section and enacting provisions set out as a note under this section\], 203 \[amending section 3301 of Title 39, The Postal Service\], 204 \[enacting section 3512A of Title 39, amending sections 3512, and 3513–3531 of Title 39, and enacting provisions set out as a note under section 3512A of Title 39\], 205 \[amending sections 3542–3544 of Title 39, and enacting provisions set out as notes under sections 3542, 3544, 3552, and 3560 of Title 39\], 206 \[amending sections 3560, 3573, and 3575 of Title 39, and enacting provisions set out as a note under section 3542 of Title 39\], 208 \[amending former section 4107 of Title 38, Veterans’ Benefits\], 209 \[amending sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 867 of Title 22\], 210 \[enacting provisions set out as a note under section 590h of Title 16, Conservation\],211 \[enacting provisions set out as a note under this section and section 548 of Title 28, Judiciary and Judicial Procedure\], 213 (except subsections (d) and (e)) \[enacting provisions set out as notes under sections 603, 604, and 753 of Title 28\], 214 (except subsections (j), (k), (<i>l</i>), (n), and (<i>o</i>)) \[enacting sections 60e–14, 61–2, 74a–2, and 293c of Title 2, The Congress, amending section 1847 of Title 2, and enacting provisions set out as a note under section 8339 of this title\], and 216 \[enacting provisions set out as a note under section 60e–14 of Title 2\] shall become effective as of the beginning of the first pay period which began on or after October 1, 1967.”
+Section 220(a)(2) of Pub. L. 90–206 provided, except as otherwise expressly provided, that: “Sections 202 \[amending this section and enacting provisions set out as a note under this section\], 203 \[amending section 3301 of Title 39, The Postal Service\], 204 \[enacting section 3512A of Title 39, amending sections 3512, and 3513–3531 of Title 39, and enacting provisions set out as a note under section 3512A of Title 39\], 205 \[amending sections 3542–3544 of Title 39, and enacting provisions set out as notes under sections 3542, 3544, 3552, and 3560 of Title 39\], 206 \[amending sections 3560, 3573, and 3575 of Title 39, and enacting provisions set out as a note under section 3542 of Title 39\], 208 \[amending former section 4107 of Title 38, Veterans’ Benefits\], 209 \[amending sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 867 of Title 22\], 210 \[enacting provisions set out as a note under section 590h of Title 16, Conservation\], 211 \[enacting provisions set out as a note under this section and section 548 of Title 28, Judiciary and Judicial Procedure\], 213 (except subsections (d) and (e)) \[enacting provisions set out as notes under sections 603, 604, and 753 of Title 28\], 214 (except subsections (j), (k), (<i>l</i>), (n), and (<i>o</i>)) \[enacting sections 60e–14, 61–2, 74a–2, and 293c of Title 2, The Congress, amending section 1847 of Title 2, and enacting provisions set out as a note under section 8339 of this title\], and 216 \[enacting provisions set out as a note under section 60e–14 of Title 2\] shall become effective as of the beginning of the first pay period which began on or after October 1, 1967.”
 
 #### Short Title
 
@@ -128,7 +128,7 @@ Section 201 of title II of Pub. L. 90–206 provided that: “This title \[see T
 
 #### Adjustment of Pay Rates Effective October 1, 1972
 
-Pub. L. 93–549, Dec. 26, 1974, 88 Stat. 1743, provided that no officer or employee of the United States shall have his or her pay reduced by reason of Ex. Ord. No. 11777, Apr. 12, 1974.
+Pub. L. 93–549, Dec. 26, 1974, 88 Stat. 1743, provided that no officer or employee of the United States shallhave his or her pay reduced by reason of Ex. Ord. No. 11777, Apr. 12, 1974.
 
 #### 1970 Increase in Pay Rates
 
@@ -148,9 +148,9 @@ Pub. L. 90–206, title II, §§211(b)–(d), 220(a)(2), Dec. 16, 1967, 81 Stat.
 
 Pub. L. 90–206, title II, §218, Dec. 16, 1967, 81 Stat. 638, provided for retroactive pay under title II of Pub. L. 90–206 only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
 
-#### Ex. Ord. No. 13393. Adjustments of Certain Rates of Pay
+#### Ex. Ord. No. 13420. Adjustments of Certain Rates of Pay
 
-Ex. Ord. No. 13393, Dec. 22, 2005, 70 F.R. 76655, provided:
+Ex. Ord. No. 13420, Dec. 21, 2006, 71 F.R. 77571, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the laws cited herein, it is hereby ordered as follows:
 
@@ -160,7 +160,7 @@ Section 1. <i>Statutory Pay Systems</i>. The rates of basic pay or salaries of t
 
 (b) The Foreign Service Schedule (22 U.S.C. 3963) at Schedule 2; and
 
-(c) The schedules for the Veterans Health Administration of the Department of Veterans Affairs (38 U.S.C. 7306, 7404; section 301(a) of Public Law 102–40 \[enacting provisions set out as a note under section 7451 of Title 38, Veterans’ Benefits\]; section 3(d) of Public Law 108–445 \[enacting provisions set out as a note under section 7431 of Title 38\]) at Schedule 3.
+(c) The schedules for the Veterans Health Administration of the Department of Veterans Affairs (38 U.S.C. 7306, 7404; section 301(a) of Public Law 102–40) at Schedule 3.
 
 Sec. 2. <i>Senior Executive Service</i>. The ranges of rates of basic pay for senior executives in the Senior Executive Service, as established pursuant to 5 U.S.C. 5382, are set forth on Schedule 4 attached hereto and made a part hereof.
 
@@ -168,27 +168,27 @@ Sec. 3. <i>Certain Executive, Legislative, and Judicial Salaries</i>. The rates 
 
 (a) The Executive Schedule (5 U.S.C. 5312–5318) at Schedule 5;
 
-(b) The Vice President (3 U.S.C. 104) and the Congress (2 U.S.C. 31) at Schedule 6; and
+(b) The Vice President (3 U.S.C. 104) and the Congress (2 U.S.C. 31, and section 137 of Public Law 109–289, division B, as amended by section 7 of Public Law 109–383) at Schedule 6; and
 
-(c) Justices and judges (28 U.S.C. 5, 44(d), 135, 252, and 461(a), section 140 of Public Law 97–92 \[enacting provisions set out as a note under section 461 of Title 28, Judiciary and Judicial Procedure\], and section 405 of Public Law 109–115 \[enacting provisions set out as a note under section 461 of Title 28\]) at Schedule 7.
+(c) Justices and judges (28 U.S.C. 5, 44(d), 135, 252, and 461(a); section 140 of Public Law 97–92), at Schedule 7.
 
-Sec. 4. <i>Uniformed Services</i>. Pursuant to section 601(a)–(b) of Public Law 108–375 \[enacting provisions set out as a note under section 1009 of Title 37, Pay and Allowances of the Uniformed Services\], the rates of monthly basic pay (37 U.S.C. 203(a)) for members of the uniformed services, as adjusted under 37 U.S.C. 1009, and the rate of monthly cadet or midshipman pay (37 U.S.C. 203(c)) are set forth on Schedule 8 attached hereto and made a part hereof.
+Sec. 4. <i>Uniformed Services</i>. Pursuant to section 601(a)–(c) of Public Law 109–364, the rates of monthly basic pay (37 U.S.C. 203(a)) for members of the uniformed services, as adjusted under 37 U.S.C. 1009, and the rate of monthly cadet or midshipman pay (37 U.S.C. 203(c)) are set forth on Schedule 8 attached hereto and made a part hereof.
 
 Sec. 5. <i>Locality-Based Comparability Payments.</i>
 
-(a) Pursuant to section 5304 of title 5, United States Code, and section 843 of Public Law 109–115 \[enacting provisions set out as a note under section 5303 of this title\], locality-based comparability payments shall be paid in accordance with Schedule 9 attached hereto and made a part hereof.
+(a) Pursuant to 5 U.S.C. 5304a, locality-based comparability payments shall be paid in accordance with Schedule 9 attached hereto and made a part hereof.
 
 (b) The Director of the Office of Personnel Management shall take such actions as may be necessary to implement these payments and to publish appropriate notice of such payments in the Federal Register.
 
 Sec. 6. <i>Administrative Law Judges</i>. The rates of basic pay for administrative law judges, as adjusted under 5 U.S.C. 5372(b)(4), are set forth on Schedule 10 attached hereto and made a part hereof.
 
-Sec. 7. <i>Effective Dates</i>. Schedule 8 is effective on January 1, 2006. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2006.
+Sec. 7. <i>Effective Dates</i>. Rates for the Congress, under Schedule 6, are effective on February 16, 2007. Schedule 7 reflects continuation of the pay rates in effect as of the first day of the applicable pay period beginning on or after January 1, 2006. Schedule 8 is effective on January 1, 2007. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2007.
 
-Sec. 8. <i>Prior Order Superseded</i>. Executive Order 13368 of December 30, 2004, is superseded.
+Sec. 8. <i>Prior Order Superseded</i>. Executive Order 13393 of December 22, 2005, is superseded.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2007)
 
 &nbsp;
 
@@ -214,335 +214,335 @@ Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the firs
 
 GS–1
 
-$16,352
+$16,630
 
-$16,898
+$17,185
 
-$17,442
+$17,739
 
-$17,983
+$18,289
 
-$18,527
+$18,842
 
-$18,847
+$19,167
 
-$19,383
+$19,713
 
-$19,925
+$20,264
 
-$19,947
+$20,286
 
-$20,450
+$20,798
 
 GS–2
 
-18,385
+18,698
 
-18,822
+19,142
 
-19,431
+19,761
 
-19,947
+20,286
 
-20,169
+20,512
 
-20,762
+21,115
 
-21,355
+21,718
 
-21,948
+22,321
 
-22,541
+22,924
 
-23,134
+23,527
 
 GS–3
 
-20,060
+20,401
 
-20,729
+21,081
 
-21,398
+21,761
 
-22,067
+22,441
 
-22,736
+23,121
 
-23,405
+23,801
 
-24,074
+24,481
 
-24,743
+25,161
 
-25,412
+25,841
 
-26,081
+26,521
 
 GS–4
 
-22,519
+22,902
 
-23,270
+23,665
 
-24,021
+24,428
 
-24,772
+25,191
 
-25,523
+25,954
 
-26,274
+26,717
 
-27,025
+27,480
 
-27,776
+28,243
 
-28,527
+29,006
 
-29,278
+29,769
 
 GS–5
 
-25,195
+25,623
 
-26,035
+26,477
 
-26,875
+27,331
 
-27,715
+28,185
 
-28,555
+29,039
 
-29,395
+29,893
 
-30,235
+30,747
 
-31,075
+31,601
 
-31,915
+32,455
 
-32,755
+33,309
 
 GS–6
 
-28,085
+28,562
 
-29,021
+29,514
 
-29,957
+30,466
 
-30,893
+31,418
 
-31,829
+32,370
 
-32,765
+33,322
 
-33,701
+34,274
 
-34,637
+35,226
 
-35,573
+36,178
 
-36,509
+37,130
 
 GS–7
 
-31,209
+31,740
 
-32,249
+32,798
 
-33,289
+33,856
 
-34,329
+34,914
 
-35,369
+35,972
 
-36,409
+37,030
 
-37,449
+38,088
 
-38,489
+39,146
 
-39,529
+40,204
 
-40,569
+41,262
 
 GS–8
 
-34,563
+35,151
 
-35,715
+36,323
 
-36,867
+37,495
 
-38,019
+38,667
 
-39,171
+39,839
 
-40,323
+41,011
 
-41,475
+42,183
 
-42,627
+43,355
 
-43,779
+44,527
 
-44,931
+45,699
 
 GS–9
 
-38,175
+38,824
 
-39,448
+40,118
 
-40,721
+41,412
 
-41,994
+42,706
 
-43,267
+44,000
 
-44,540
+45,294
 
-45,813
+46,588
 
-47,086
+47,882
 
-48,359
+49,176
 
-49,632
+50,470
 
 GS–10
 
-42,040
+42,755
 
-43,441
+44,180
 
-44,842
+45,605
 
-46,243
+47,030
 
-47,644
+48,455
 
-49,045
+49,880
 
-50,446
+51,305
 
-51,847
+52,730
 
-53,248
+54,155
 
-54,649
+55,580
 
 GS–11
 
-46,189
+46,974
 
-47,729
+48,540
 
-49,269
+50,106
 
-50,809
+51,672
 
-52,349
+53,238
 
-53,889
+54,804
 
-55,429
+56,370
 
-56,969
+57,936
 
-58,509
+59,502
 
-60,049
+61,068
 
 GS–12
 
-55,360
+56,301
 
-57,205
+58,178
 
-59,050
+60,055
 
-60,895
+61,932
 
-62,740
+63,809
 
-64,585
+65,686
 
-66,430
+67,563
 
-68,275
+69,440
 
-70,120
+71,317
 
-71,965
+73,194
 
 GS–13
 
-65,832
+66,951
 
-68,026
+69,183
 
-70,220
+71,415
 
-72,414
+73,647
 
-74,608
+75,879
 
-76,802
+78,111
 
-78,996
+80,343
 
-81,190
+82,575
 
-83,384
+84,807
 
-85,578
+87,039
 
 GS–14
 
-77,793
+79,115
 
-80,386
+81,752
 
-82,979
+84,389
 
-85,572
+87,026
 
-88,165
+89,663
 
-90,758
+92,300
 
-93,351
+94,937
 
-95,944
+97,574
 
-98,537
+100,211
 
-101,130
+102,848
 
 GS–15
 
-91,507
+93,063
 
-94,557
+96,165
 
-97,607
+99,267
 
-100,657
+102,369
 
-103,707
+105,471
 
-106,757
+108,573
 
-109,807
+111,675
 
-112,857
+114,777
 
-115,907
+117,879
 
-118,957
+120,981
 
-Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2007)
 
 Step
 
@@ -566,285 +566,285 @@ Class 9
 
 1
 
-$91,507
+$93,063
 
-$74,148
+$75,408
 
-$60,081
+$61,102
 
-$48,684
+$49,511
 
-$39,448
+$40,118
 
-$35,265
+$35,864
 
-$31,526
+$32,062
 
-$28,183
+$28,662
 
-$25,195
+$25,623
 
 2
 
-94,252
+95,855
 
-76,372
+77,670
 
-61,883
+62,935
 
-50,145
+50,996
 
-40,631
+41,322
 
-36,323
+36,940
 
-32,472
+33,024
 
-29,028
+29,522
 
-25,951
+26,392
 
 3
 
-97,080
+98,731
 
-78,664
+80,000
 
-63,740
+64,823
 
-51,649
+52,526
 
-41,850
+42,561
 
-37,413
+38,048
 
-33,446
+34,015
 
-29,899
+30,408
 
-26,729
+27,183
 
 4
 
-99,992
+101,692
 
-81,024
+82,400
 
-65,652
+66,768
 
-53,198
+54,102
 
-43,106
+43,838
 
-38,535
+39,190
 
-34,449
+35,035
 
-30,796
+31,320
 
-27,531
+27,999
 
 5
 
-102,992
+104,743
 
-83,454
+84,872
 
-67,622
+68,771
 
-54,794
+55,725
 
-44,399
+45,153
 
-39,691
+40,365
 
-35,483
+36,086
 
-31,720
+32,259
 
-28,357
+28,839
 
 6
 
-106,082
+107,886
 
-85,958
+87,419
 
-69,650
+70,834
 
-56,438
+57,397
 
-45,731
+46,508
 
-40,882
+41,576
 
-36,547
+37,169
 
-32,672
+33,227
 
-29,208
+29,704
 
 7
 
-109,264
+111,122
 
-88,537
+90,041
 
-71,740
+72,959
 
-58,131
+59,119
 
-47,103
+47,903
 
-42,108
+42,823
 
-37,644
+38,284
 
-33,652
+34,224
 
-30,084
+30,595
 
 8
 
-112,542
+114,456
 
-91,193
+92,742
 
-73,892
+75,148
 
-59,875
+60,892
 
-48,516
+49,340
 
-43,372
+44,108
 
-38,773
+39,432
 
-34,662
+35,251
 
-30,987
+31,513
 
 9
 
-115,918
+117,889
 
-93,928
+95,525
 
-76,109
+77,402
 
-61,671
+62,719
 
-49,972
+50,820
 
-44,673
+45,431
 
-39,936
+40,615
 
-35,701
+36,308
 
-31,916
+32,458
 
 10
 
-118,957
+120,981
 
-96,746
+98,390
 
-78,392
+79,724
 
-63,522
+64,601
 
-51,471
+52,345
 
-46,013
+46,794
 
-41,134
+41,834
 
-36,772
+37,397
 
-32,874
+33,432
 
 11
 
-118,957
+120,981
 
-99,649
+101,342
 
-80,744
+82,116
 
-65,427
+66,539
 
-53,015
+53,915
 
-47,393
+48,198
 
-42,368
+43,089
 
-37,876
+38,519
 
-33,860
+34,435
 
 12
 
-118,957
+120,981
 
-102,638
+104,382
 
-83,166
+84,579
 
-67,390
+68,535
 
-54,605
+55,533
 
-48,815
+49,644
 
-43,639
+44,381
 
-39,012
+39,675
 
-34,876
+35,468
 
 13
 
-118,957
+120,981
 
-105,717
+107,514
 
-85,661
+87,117
 
-69,412
+70,591
 
-56,243
+57,199
 
-50,279
+51,133
 
-44,949
+45,713
 
-40,182
+40,865
 
-35,922
+36,532
 
 14
 
-118,957
+120,981
 
-108,889
+110,739
 
-88,231
+89,730
 
-71,494
+72,709
 
-57,931
+58,915
 
-51,788
+52,667
 
-46,297
+47,084
 
-41,388
+42,091
 
-37,000
+37,628
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2007)
 
 &nbsp;
 
@@ -856,7 +856,7 @@ Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) <sup
 
 Assistant Under Secretaries for Health
 
-<sup>2</sup> 144,459
+<sup>2</sup> 146,915
 
 (Only applies to incumbents who are not physicians or dentists)
 
@@ -868,121 +868,121 @@ Maximum
 
 Service Directors
 
-107,320
+109,144
 
-133,284
+135,550
 
 Director, National Center for Preventive Health
 
-91,507
+93,063
 
-133,284
+135,550
 
 Physician and Dentist Base and Longevity Schedule <sup>3</sup>
 
 Physician Grade
 
-$90,000
+$91,530
 
-$132,000
+$134,244
 
 Dentist Grade
 
-90,000
+91,530
 
-132,000
+134,244
 
 Clinical Podiatrist, Chiropractor, and Optometrist Schedule
 
 Chief Grade
 
-$91,507
+$93,063
 
-$118,957
+$120,981
 
 Senior Grade
 
-77,793
+79,115
 
-101,130
+102,848
 
 Intermediate Grade
 
-65,832
+66,951
 
-85,578
+87,039
 
 Full Grade
 
-55,360
+56,301
 
-71,965
+73,194
 
 Associate Grade
 
-46,189
+46,974
 
-60,049
+61,068
 
 Physician Assistant and Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$91,507
+$93,063
 
-$118,957
+$120,981
 
 Assistant Director Grade
 
-77,793
+79,115
 
-101,130
+102,848
 
 Chief Grade
 
-65,832
+66,951
 
-85,578
+87,039
 
 Senior Grade
 
-55,360
+56,301
 
-71,965
+73,194
 
 Intermediate Grade
 
-46,189
+46,974
 
-60,049
+61,068
 
 Full Grade
 
-38,175
+38,824
 
-49,632
+50,470
 
 Associate Grade
 
-32,851
+33,409
 
-42,706
+43,435
 
 Junior Grade
 
-28,085
+28,562
 
-36,509
+37,130
 
-<sup>1</sup> This schedule does not apply to the Deputy Under Secretary for Health, the Associate Deputy Under Secretary for Health, Assistant Under Secretaries for Health who are physicians or dentists, Medical Directors, the Assistant Under Secretary for Nursing Programs, or the Director of Nursing Services. Pay for these positions is set under section 7431 of title 38, United States Code, for physicians and dentists, and under section 7451 of title 38, United States Code, for registered nurses.
+<sup>1</sup> This schedule does not apply to the Deputy Under Secretary for Health, the Associate Deputy Under Secretary for Health, Assistant Under Secretaries for Health who are physicians or dentists, Medical Directors, the Assistant Under Secretary for Nursing Programs, or the Director of Nursing Services. Pay for these positions is set under 38 U.S.C. 7431 for physicians and dentists, and under 38 U.S.C. 7451 for registered nurses.
 
-<sup>2</sup> Pursuant to section 7404(d) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $133,900.
+<sup>2</sup> Pursuant to 38 U.S.C. 7404(d), the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $136,200.
 
-<sup>3</sup> Pursuant to section 3 of Public Law 108–445 \[see Tables for classification\] and section 7431 of title 38, United States Code, Veterans Health Administration physicians and dentists may also be paid market pay and performance pay.
+<sup>3</sup> Pursuant to section 3 of Public Law 108–445 \[see Tables for classification\] and 38 U.S.C. 7431, Veterans Health Administration physicians and dentists may also be paid market pay and performance pay.
 
-<sup>4</sup> Pursuant to section 301(a) of Public Law 102–40 \[38 U.S.C. 7451 note\], these positions are paid according to the Nurse Schedule in section 4107(b) of title 38, United States Code \[former section 4107(b) of Title 38, Veterans’ Benefits\], as in effect on August 14, 1990, with subsequent adjustments.
+<sup>4</sup> Pursuant to section 301(a) of Public Law 102–40 \[38 U.S.C. 7451 note\], these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b), as in effect on August 14, 1990, with subsequent adjustments.
 
-Schedule 4<br><i>Senior Executive Service</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+Schedule 4<br><i>Senior Executive Service</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2007)
 
 &nbsp;
 
@@ -998,41 +998,41 @@ Maximum
 
 Agencies with a Certified SES Performance Appraisal System
 
-$109,808
+$111,676
 
-$165,200
+$168,000
 
 Agencies without a Certified SES Performance Appraisal System
 
-$109,808
+$111,676
 
-$152,000
+$154,600
 
 #### Schedule 5
 
 ##### Executive Schedule
 
-##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2007)
 
 Level I
 
-$183,500
+$186,600
 
 Level II
 
-165,200
+168,000
 
 Level III
 
-152,000
+154,600
 
 Level IV
 
-143,000
+145,400
 
 Level V
 
-133,900
+136,200
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1040,43 +1040,43 @@ Level V
 
 ##### Vice President and Members of Congress
 
-##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+##### (The rate of pay for the Vice President is effective on the first day of the first applicable pay period beginning on or after January 1, 2007, and the rates of pay for Members of Congress are effective February 16, 2007)
 
 Vice President
 
-$212,100
+$215,700
 
 Senators
 
-165,200
+168,000
 
 Members of the House of Representatives
 
-165,200
+168,000
 
 Delegates to the House of Representatives
 
-165,200
+168,000
 
 Resident Commissioner from Puerto Rico
 
-165,200
+168,000
 
 President pro tempore of the Senate
 
-183,500
+186,600
 
 Majority leader and minority leader of the Senate
 
-183,500
+186,600
 
 Majority leader and minority leader of the House of Representatives
 
-183,500
+186,600
 
 Speaker of the House of Representatives
 
-212,100
+215,700
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1108,7 +1108,7 @@ Judges of the United States Court of International Trade
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Schedule 8<br><i>Pay of the Uniformed Services</i><br>(Effective on January 1, 2006)
+Schedule 8<br><i>Pay of the Uniformed Services</i><br>(Effective on January 1, 2007)
 
 part i—monthly basic pay<br>Years of Service (computed under 37 U.S.C. 205)<br>Commissioned Officers
 
@@ -1124,105 +1124,105 @@ Over 4
 
 Over 6
 
-O–10 <sup>1</sup>
+O–10 <sup>2</sup>
 
 O–9
 
 O–8
 
-$8,271.00
+$8,453.10
 
-$8,541.90
+$8,729.70
 
-$8,721.60
+$8,913.60
 
-$8,772.00
+$8,964.90
 
-$8,996.10
+$9,194.10
 
 O–7
 
-6,872.70
+7,023.90
 
-7,191.90
+7,350.00
 
-7,339.80
+7,501.20
 
-7,457.10
+7,621.20
 
-7,669.80
+7,838.40
 
 O–6
 
-5,094.00
+5,206.20
 
-5,596.20
+5,719.20
 
-5,963.40
+6,094.50
 
-5,963.40
+6,094.50
 
-5,985.90
+6,117.60
 
 O–5
 
-4,246.50
+4,339.80
 
-4,783.50
+4,888.80
 
-5,115.00
+5,227.50
 
-5,177.10
+5,291.10
 
-5,383.50
+5,502.00
 
 O–4
 
-3,663.90
+3,744.60
 
-4,241.40
+4,334.70
 
-4,524.30
+4,623.90
 
-4,587.60
+4,688.40
 
-4,850.10
+4,956.90
 
-O–3 <sup>2</sup>
+O–3 <sup>3</sup>
 
-3,221.40
+3,292.20
 
-3,651.90
+3,732.30
 
-3,941.70
+4,028.40
 
-4,297.50
+4,392.00
 
-4,503.00
+4,602.00
 
-O–2 <sup>2</sup>
+O–2 <sup>3</sup>
 
-2,783.10
+2,844.30
 
-3,170.10
+3,239.70
 
-3,651.00
+3,731.40
 
-3,774.30
+3,857.40
 
-3,852.00
+3,936.60
 
-O–1 <sup>2</sup>
+O–1 <sup>3</sup>
 
-2,416.20
+2,469.30
 
-2,514.60
+2,569.80
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
 &nbsp;
 
@@ -1236,105 +1236,105 @@ Over 14
 
 Over 16
 
-O–10 <sup>1</sup>
+O–10 <sup>2</sup>
 
 O–9
 
 O–8
 
-$9,371.10
+$9,577.20
 
-$9,458.10
+$9,666.30
 
-$9,814.20
+$10,030.20
 
-$9,916.20
+$10,134.30
 
-$10,222.80
+$10,447.80
 
 O–7
 
-7,879.50
+8,052.90
 
-8,122.50
+8,301.30
 
-8,364.90
+8,548.80
 
-8,607.90
+8,797.20
 
-9,371.10
+9,577.20
 
 O–6
 
-6,242.70
+6,380.10
 
-6,276.60
+6,414.60
 
-6,276.60
+6,414.60
 
-6,633.30
+6,779.10
 
-7,263.90
+7,423.80
 
 O–5
 
-5,507.40
+5,628.60
 
-5,779.20
+5,906.40
 
-5,978.70
+6,110.10
 
-6,236.10
+6,373.20
 
-6,630.60
+6,776.40
 
 O–4
 
-5,131.80
+5,244.60
 
-5,482.20
+5,602.80
 
-5,755.80
+5,882.40
 
-5,945.40
+6,076.20
 
-6,054.30
+6,187.50
 
-O–3 <sup>2</sup>
+O–3 <sup>3</sup>
 
-4,728.90
+4,833.00
 
-4,875.30
+4,982.70
 
-5,115.90
+5,228.40
 
-5,240.70
+5,355.90
 
-5,240.70
+5,355.90
 
-O–2 <sup>2</sup>
+O–2 <sup>3</sup>
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-O–1 <sup>2</sup>
+O–1 <sup>3</sup>
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
 &nbsp;
 
@@ -1350,173 +1350,173 @@ Over 26
 
 O–10 <sup>1</sup>
 
-\*$13,365.00
+\*$13,659.00
 
-\*$13,430.40
+\*$13,725.90
 
-\*$13,709.70
+\*$14,011.20
 
-\*$14,196.30
+\*$14,508.60
 
 O–9
 
-11,689.50
+11,946.60
 
-11,857.50
+12,118.50
 
-12,101.10
+12,367.20
 
-12,525.60
+12,801.30
 
 O–8
 
-$10,666.20
+$10,900.80
 
-11,075.40
+11,319.00
 
-11,348.70
+11,598.30
 
-11,348.70
+11,598.30
 
-11,348.70
+11,598.30
 
 O–7
 
-10,015.80
+10,236.00
 
-10,015.80
+10,236.00
 
-10,015.80
+10,236.00
 
-10,015.80
+10,236.00
 
-10,066.50
+10,287.90
 
 O–6
 
-7,634.10
+7,802.10
 
-8,004.00
+8,180.10
 
-8,214.60
+8,395.20
 
-8,427.60
+8,613.00
 
-8,841.30
+9,035.70
 
 O–5
 
-6,818.10
+6,968.10
 
-7,003.80
+7,158.00
 
-7,214.40
+7,373.10
 
-7,214.40
+7,373.10
 
-7,214.40
+7,373.10
 
 O–4
 
-6,117.60
+6,252.30
 
-6,117.60
+6,252.30
 
-6,117.60
+6,252.30
 
-6,117.60
+6,252.30
 
-6,117.60
+6,252.30
 
-O–3 <sup>2</sup>
+O–3 <sup>3</sup>
 
-5,240.70
+5,355.90
 
-5,240.70
+5,355.90
 
-5,240.70
+5,355.90
 
-5,240.70
+5,355.90
 
-5,240.70
+5,355.90
 
-O–2 <sup>2</sup>
+O–2 <sup>3</sup>
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-3,852.00
+3,936.60
 
-O–1 <sup>2</sup>
+O–1 <sup>3</sup>
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-3,039.60
+3,106.50
 
-<sup>1</sup>For officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or commander of a unified or specified combatant command (as defined in section 161(c) of title 10, United States Code), basic pay for this grade is calculated to be $15,615.90 per month, regardless of cumulative years of service computed under section 205 of title 37, United States Code. Nevertheless, actual basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,666.60 per month.
+<sup>1</sup> Basic pay is limited to the rate of basic pay for level II of the Executive Schedule, which is $14,000.10 per month for officers at pay grades O–7 through O–10, and limited to the rate of basic pay for level V of the Executive Schedule, which is $11,349.90 per month, for officers at O–6 and below.
 
-<sup>2</sup> Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
+<sup>2</sup> For officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or commander of a unified or specified combatant command (as defined in 10 U.S.C. 161(c)), basic pay for this grade is calculated to be $15,959.40 per month, regardless of cumulative years of service computed under 37 U.S.C. 205. Nevertheless, actual basic pay for these officers is limited to the rate of basic pay for level II of the Executive Schedule, which is $14,000.10 per month.
 
-\* Basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,666.60 per month.
+<sup>3</sup> Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
 
-Commissioned officers with over 4 years active duty service as an enlisted member and/or warrant officer <sup>3</sup>
+Commissioned officers with over 4 years active duty service as an enlisted member and/or warrant officer <sup>4</sup>
 
 | Pay Grade | Over 4 | Over 6 | Over 8 | Over 10 |
 | :--- | :---: | :---: | :---: | ---: |
-| O–3E | $4,297.50 | $4,503.00 | $4,728.90 | $4,875.30 |
-| O–2E | 3,774.30 | 3,852.00 | 3,974.70 | 4,181.40 |
-| O–1E | 3,039.60 | 3,246.30 | 3,366.00 | 3,488.70 |
+| O–3E | $4,392.00 | $4,602.00 | $4,833.00 | $4,982.70 |
+| O–2E | 3,857.40 | 3,936.60 | 4,062.00 | 4,273.50 |
+| O–1E | 3,106.50 | 3,317.70 | 3,440.10 | 3,565.50 |
 |  |  |  |  |  |
 | &nbsp; | Over 12 | Over 14 | Over 16 | Over 18 |
 |  |  |  |  |  |
-| O–3E | $5,115.90 | $5,318.40 | $5,434.50 | $5,592.90 |
-| O–2E | 4,341.60 | 4,460.70 | 4,460.70 | 4,460.70 |
-| O–1E | 3,609.30 | 3,774.30 | 3,774.30 | 3,774.30 |
+| O–3E | $5,228.40 | $5,435.40 | $5,554.20 | $5,715.90 |
+| O–2E | 4,437.00 | 4,558.80 | 4,558.80 | 4,558.80 |
+| O–1E | 3,688.80 | 3,857.40 | 3,857.40 | 3,857.40 |
 |  |  |  |  |  |
 | &nbsp; | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |
-| O–3E | $5,592.90 | $5,592.90 | $5,592.90 | $5,592.90 |
-| O–2E | 4,460.70 | 4,460.70 | 4,460.70 | 4,460.70 |
-| O–1E | 3,774.30 | 3,774.30 | 3,774.30 | 3,774.30 |
+| O–3E | $5,715.90 | $5,715.90 | $5,715.90 | $5,715.90 |
+| O–2E | 4,558.80 | 4,558.80 | 4,558.80 | 4,558.80 |
+| O–1E | 3,857.40 | 3,857.40 | 3,857.40 | 3,857.40 |
 
-<sup>3</sup> Reservists with at least 1,460 points as an enlisted member and/or warrant officer which are creditable toward reserve retirement also qualify for these rates.
+<sup>4</sup> Reservists with at least 1,460 points as an enlisted member and/or warrant officer which are creditable toward reserve retirement also qualify for these rates.
 
 Warrant Officers
 
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | W–5 |  |  |  |  |  |
-| W–4 | $3,328.80 | $3,581.10 | $3,684.00 | $3,785.10 | $3,959.40 |
-| W–3 | 3,039.90 | 3,166.80 | 3,296.40 | 3,339.30 | 3,475.50 |
-| W–2 | 2,673.90 | 2,826.60 | 2,960.40 | 3,057.30 | 3,140.70 |
-| W–1 | 2,361.30 | 2,554.50 | 2,683.80 | 2,767.50 | 2,990.40 |
+| W–4 | $3,402.00 | $3,660.00 | $3,765.00 | $3,868.50 | $4,046.40 |
+| W–3 | 3,106.80 | 3,236.40 | 3,369.00 | 3,412.80 | 3,552.00 |
+| W–2 | 2,732.70 | 2,888.70 | 3,025.50 | 3,124.50 | 3,209.70 |
+| W–1 | 2,413.20 | 2,610.60 | 2,742.90 | 2,828.40 | 3,056.10 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
 | W–5 |  |  |  |  |  |
-| W–4 | $4,131.30 | $4,305.90 | $4,475.70 | $4,651.50 | $4,927.20 |
-| W–3 | 3,631.50 | 3,837.30 | 4,040.40 | 4,256.40 | 4,418.40 |
-| W–2 | 3,369.60 | 3,544.50 | 3,674.40 | 3,801.30 | 3,888.30 |
-| W–1 | 3,124.80 | 3,243.90 | 3,376.80 | 3,465.00 | 3,544.80 |
+| W–4 | $4,222.20 | $4,400.70 | $4,574.10 | $4,753.80 | $5,035.50 |
+| W–3 | 3,711.30 | 3,921.60 | 4,129.20 | 4,350.00 | 4,515.60 |
+| W–2 | 3,443.70 | 3,622.50 | 3,755.10 | 3,885.00 | 3,973.80 |
+| W–1 | 3,193.50 | 3,315.30 | 3,451.20 | 3,541.20 | 3,622.80 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| W–5 |  | $5,720.10 | $5,916.30 | $6,113.10 | $6,311.10 |
-| W–4 | $5,103.60 | 5,276.10 | 5,454.90 | 5,631.00 | 5,811.00 |
-| W–3 | 4,579.80 | 4,649.10 | 4,720.80 | 4,876.80 | 5,032.50 |
-| W–2 | 3,961.50 | 4,100.70 | 4,239.00 | 4,379.10 | 4,379.10 |
-| W–1 | 3,674.70 | 3,773.10 | 3,773.10 | 3,773.10 | 3,773.10 |
+| W–5 |  | $5,845.80 | $6,046.50 | $6,247.50 | $6,450.00 |
+| W–4 | $5,215.80 | 5,392.20 | 5,574.90 | 5,754.90 | 5,938.80 |
+| W–3 | 4,680.60 | 4,751.40 | 4,824.60 | 4,984.20 | 5,143.20 |
+| W–2 | 4,048.80 | 4,191.00 | 4,332.30 | 4,475.40 | 4,475.40 |
+| W–1 | 3,755.40 | 3,856.20 | 3,856.20 | 3,856.20 | 3,856.20 |
 
 Enlisted Members
 
@@ -1524,42 +1524,42 @@ Enlisted Members
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | E–9 <sup>1</sup> |  |  |  |  |  |
 | E–8 |  |  |  |  |  |
-| E–7 | $2,288.70 | $2,498.10 | $2,593.80 | $2,720.70 | $2,819.40 |
-| E–6 | 1,979.70 | 2,178.00 | 2,274.30 | 2,367.60 | 2,465.10 |
-| E–5 | 1,814.10 | 1,935.30 | 2,028.60 | 2,124.60 | 2,273.70 |
-| E–4 | 1,662.90 | 1,748.10 | 1,842.60 | 1,935.90 | 2,018.40 |
-| E–3 | 1,501.20 | 1,595.70 | 1,692.00 | 1,692.00 | 1,692.00 |
-| E–2 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 |
-| E–1 <sup>2</sup> | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 |
-| E–1 <sup>3</sup> | 1,178.10 |  |  |  |  |
+| E–7 | $2,339.10 | $2,553.00 | $2,650.80 | $2,780.70 | $2,881.50 |
+| E–6 | 2,023.20 | 2,226.00 | 2,324.40 | 2,419.80 | 2,519.40 |
+| E–5 | 1,854.00 | 1,977.90 | 2,073.30 | 2,171.40 | 2,323.80 |
+| E–4 | 1,699.50 | 1,786.50 | 1,883.10 | 1,978.50 | 2,062.80 |
+| E–3 | 1,534.20 | 1,630.80 | 1,729.20 | 1,729.20 | 1,729.20 |
+| E–2 | 1,458.90 | 1,458.90 | 1,458.90 | 1,458.90 | 1,458.90 |
+| E–1 <sup>2</sup> | 1,301.40 | 1,301.40 | 1,301.40 | 1,301.40 | 1,301.40 |
+| E–1 <sup>3</sup> | 1,203.90 |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> |  | $4,022.10 | $4,113.30 | $4,228.20 | $4,363.50 |
-| E–8 | $3,292.50 | 3,438.30 | 3,528.30 | 3,636.30 | 3,753.30 |
-| E–7 | 2,989.50 | 3,084.90 | 3,180.30 | 3,350.40 | 3,435.60 |
-| E–6 | 2,685.00 | 2,770.50 | 2,865.30 | 2,948.70 | 2,978.10 |
-| E–5 | 2,402.10 | 2,496.60 | 2,526.60 | 2,526.60 | 2,526.60 |
-| E–4 | 2,018.40 | 2,018.40 | 2,018.40 | 12,018.40 | 2,018.40 |
-| E–3 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 |
-| E–2 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 |
-| E–1 <sup>2</sup> | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 |
+| E–9 <sup>1</sup> |  | $4,110.60 | $4,203.90 | $4,321.20 | $4,459.50 |
+| E–8 | $3,364.80 | 3,513.90 | 3,606.00 | 3,716.40 | 3,835.80 |
+| E–7 | 3,055.20 | 3,152.70 | 3,250.20 | 3,424.20 | 3,511.20 |
+| E–6 | 2,744.10 | 2,831.40 | 2,928.30 | 3,013.50 | 3,043.50 |
+| E–5 | 2,454.90 | 2,551.50 | 2,582.10 | 2,582.10 | 2,582.10 |
+| E–4 | 2,062.80 | 2,062.80 | 2,062.80 | 2,062.80 | 2,062.80 |
+| E–3 | 1,729.20 | 1,729.20 | 1,729.20 | 1,729.20 | 1,729.20 |
+| E–2 | 1,458.90 | 1,458.90 | 1,458.90 | 1,458.90 | 1,458.90 |
+| E–1 <sup>2</sup> | 1,301.40 | 1,301.40 | 1,301.40 | 1,301.40 | 1,301.40 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> | $4,499.40 | $4,717.80 | $4,902.30 | $5,097.00 | $5,394.00 |
-| E–8 | 3,964.50 | 4,071.60 | 4,253.70 | 4,354.80 | 4,603.50 |
-| E–7 | 3,516.30 | 3,565.80 | 3,732.60 | 3,840.60 | 4,113.60 |
-| E–6 | 2,998.50 | 2,998.50 | 2,998.50 | 2,998.50 | 2,998.50 |
-| E–5 | 2,526.60 | 2,526.60 | 2,526.60 | 2,526.60 | 2,526.60 |
-| E–4 | 2,018.40 | 2,018.40 | 2,018.40 | 2,018.40 | 2,018.40 |
-| E–3 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 |
-| E–2 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 |
-| E–1 <sup>2</sup> | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 |
+| E–9 <sup>1</sup> | $4,598.40 | $4,821.60 | $5,010.30 | $5,209.20 | $5,512.80 |
+| E–8 | 4,051.80 | 4,161.30 | 4,347.30 | 4,450.50 | 4,704.90 |
+| E–7 | 3,593.70 | 3,644.10 | 3,814.80 | 3,925.20 | 4,204.20 |
+| E–6 | 3,064.50 | 3,064.50 | 3,064.50 | 3,064.50 | 3,064.50 |
+| E–5 | 2,582.10 | 2,582.10 | 2,582.10 | 2,582.10 | 2,582.10 |
+| E–4 | 2,062.80 | 2,062.80 | 2,062.80 | 2,062.80 | 2,062.80 |
+| E–3 | 1,729.20 | 1,729.20 | 1,729.20 | 1,729.20 | 1,729.20 |
+| E–2 | 1,458.90 | 1,458.90 | 1,458.90 | 1,458.90 | 1,458.90 |
+| E–1 <sup>2</sup> | 1,301.40 | 1,301.40 | 1,301.40 | 1,301.40 | 1,301.40 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 
-<sup>1</sup> For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, or Sergeant Major of the Marine Corps, basic pay for this grade is $6,499.50 per month, regardless of cumulative years of service under section 205 of title 37, United States Code.
+<sup>1</sup> For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, basic pay for this grade is $6,642.60 per month, regardless of cumulative years of service under 37 U.S.C. 205.
 
 <sup>2</sup> Applies to personnel who have served 4 months or more on active duty.
 
@@ -1567,11 +1567,11 @@ Enlisted Members
 
 part ii—rate of monthly cadet or midshipman pay
 
-The rate of monthly cadet or midshipman pay authorized by section 203(c) of title 37, United States Code, is $845.70.
+The rate of monthly cadet or midshipman pay authorized by 37 U.S.C. 203(c), is $864.30.
 
-Note: As a result of the enactment of sections 602–694 \[604\] of Public Law 105–85, the National Defense Authorization Act for Fiscal Year 1998 \[see Tables for classification\], the Secretary of Defense now has the authority to adjust the rates of basic allowances for subsistence and housing. Therefore, these allowances are nolonger adjusted by the President in conjunction with the adjustment of basic pay for members of the uniformed services. Accordingly, the tables of allowances included in previous orders are not included here.
+Note: As a result of the enactment of sections 602–694 \[604\] of Public Law 105–85, the National Defense Authorization Act for Fiscal Year 1998 \[see Tables for classification\], the Secretary of Defense now has the authority to adjust the rates of basic allowances for subsistence and housing. Therefore, these allowances are no longer adjusted by the President in conjunction with the adjustment of basic pay for members of the uniformed services. Accordingly, the tables of allowances included in previous orders are not included here.
 
-Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2007)
 
 Locality Pay Area <sup>1</sup>
 
@@ -1579,131 +1579,131 @@ Rate
 
 Atlanta-Sandy Springs-Gainesville, GA–AL
 
-15\.10%
+15\.89%
 
 Boston-Worcester-Manchester, MA–NH–ME–RI
 
-19\.99%
+20\.97%
 
 Buffalo-Niagara-Cattaraugus, NY
 
-13\.52%
+14\.15%
 
 Chicago-Naperville-Michigan City, IL–IN–WI
 
-21\.15%
+21\.79%
 
 Cincinnati-Middletown-Wilmington, OH–KY–IN
 
-17\.08%
+17\.38%
 
 Cleveland-Akron-Elyria, OH
 
-15\.41%
+15\.96%
 
 Columbus-Marion-Chillicothe, OH
 
-14\.85%
+15\.00%
 
 Dallas-Fort Worth, TX
 
-16\.39%
+17\.34%
 
 Dayton-Springfield-Greenville, OH
 
-13\.83%
+14\.27%
 
 Denver-Aurora-Boulder, CO
 
-19\.49%
+20\.02%
 
 Detroit-Warren-Flint, MI
 
-21\.00%
+21\.53%
 
 Hartford-West Hartford-Willimantic, CT–MA
 
-21\.30%
+22\.44%
 
 Houston-Baytown-Huntsville, TX
 
-26\.37%
+26\.65%
 
 Huntsville-Decatur, AL
 
-13\.35%
+13\.60%
 
 Indianapolis-Anderson-Columbus, IN
 
-12\.85%
+13\.00%
 
 Los Angeles-Long Beach-Riverside, CA
 
-23\.18%
+24\.03%
 
 Miami-Fort Lauderdale-Miami Beach, FL
 
-17\.84%
+18\.30%
 
 Milwaukee-Racine-Waukesha, WI
 
-14\.74%
+15\.54%
 
 Minneapolis-St. Paul-St. Cloud, MN–WI
 
-17\.31%
+18\.17%
 
 New York-Newark-Bridgeport, NY–NJ–CT–PA
 
-22\.97%
+24\.57%
 
 Philadelphia-Camden-Vineland, PA–NJ–DE–MD
 
-18\.04%
+18\.85%
 
 Phoenix-Mesa-Scottsdale, AZ
 
-12\.65%
+13\.22%
 
 Pittsburgh-New Castle, PA
 
-13\.81%
+14\.16%
 
 Portland-Vancouver-Beaverton, OR–WA
 
-17\.16%
+17\.63%
 
 Raleigh-Durham-Cary, NC
 
-15\.57%
+16\.18%
 
 Richmond, VA
 
-14\.15%
+14\.41%
 
 Sacramento–Arden-Arcade–Truckee, CA–NV
 
-17\.91%
+18\.99%
 
 San Diego-Carlsbad-San Marcos, CA
 
-19\.19%
+20\.34%
 
 San Jose-San Francisco-Oakland, CA
 
-28\.68%
+30\.33%
 
 Seattle-Tacoma-Olympia, WA
 
-17\.93%
+18\.58%
 
 Washington-Baltimore-Northern Virginia, DC–MD–PA–VA–WV
 
-17\.50%
+18\.59%
 
 Rest of U.S.
 
-12\.52%
+12\.64%
 
 <sup>1</sup> Locality Pay Areas are defined in 5 CFR 531.603.
 
@@ -1711,43 +1711,45 @@ Rest of U.S.
 
 ##### Administrative Law Judges
 
-##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
+##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2007)
 
 AL–3/A
 
-$95,500
+$97,100
 
 AL–3/B
 
-102,700
+104,400
 
 AL–3/C
 
-110,100
+112,000
 
 AL–3/D
 
-117,400
+119,400
 
 AL–3/E
 
-124,800
+126,900
 
 AL–3/F
 
-132,000
+134,200
 
 AL–2
 
-139,500
+141,900
 
 AL–1
 
-143,000
+145,400
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Prior adjustments of certain rates of pay were contained in the following:
+
+Ex. Ord. No. 13393, Dec. 22, 2005, 70 F.R. 76655, effective Jan. 1, 2006, superseded by Ex. Ord. No. 13420.
 
 Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, effective Jan. 1, 2005, superseded by Ex. Ord. No. 13393.
 

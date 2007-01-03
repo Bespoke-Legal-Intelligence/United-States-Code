@@ -1,12 +1,16 @@
 ### §4705. Liability of barge removal contractors
 
-(a)(1) <sup>1</sup> A barge removal contractor and its subcontractor <sup>2</sup> not liable for damages that result from actions taken or omitted to be taken in the course of removing a barge under this chapter.
+(a) A barge removal contractor and its subcontractor are not liable for damages that result from actions taken or omitted to be taken in the course of removing a barge under this chapter.
 
-(2) Paragraph (1) does not apply—
+(b) Subsection (a) does not apply—
 
-&emsp;(A) with respect to personal injury or wrongful death; or
+&emsp;(1) with respect to personal injury or wrongful death; or
 
-&emsp;(B) if the contractor or subcontractor is grossly negligent or engages in willful misconduct.
+&emsp;(2) if the contractor or subcontractor is grossly negligent or engages in willful misconduct.
 
-(Added Pub. L. 102–587, title V, §5302, Nov. 4, 1992, 106 Stat. 5083.)
+(Added Pub. L. 102–587, title V, §5302, Nov. 4, 1992, 106 Stat. 5083; amended Pub. L. 109–304, §15(19), Oct. 6, 2006, 120 Stat. 1703.)
+
+#### Amendments
+
+2006—Pub. L. 109–304 in subsec. (a) struck out par. (1) designation before “A barge removal” and substituted “subcontractor are not” for “subcontractor not”, redesignated par. (2) as subsec. (b) and subpars. (A) and (B) of former par. (2) as pars. (1) and (2) of subsec. (b), respectively, and substituted “Subsection (a)” for “Paragraph (1)”.
 

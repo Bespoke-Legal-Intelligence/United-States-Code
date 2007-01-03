@@ -5,12 +5,7 @@
 | [330\.](%C2%A7%2000330%20-%20Definitions.md) | Definitions. |
 | [330a.](%C2%A7%2000330a%20-%20Report%20requirement%3B%20form%3B%20information%3B%20time%20of%20submission.md) | Report requirement; form; information; time of submission. |
 | [330b.](%C2%A7%2000330b%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
-| (a) | Records, maintenance; summaries, publication. |
-| (b) | Public availability of reports, documents, and other information. |
-| (c) | Disclosure of confidential information; prohibition; exceptions. |
 | [330c.](%C2%A7%2000330c%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
-| (a) | Information; reports and records; inspection; availability of data from any Federal agency as limitation of authority. |
-| (b) | Noncompliance; application of Attorney General; jurisdiction; orders; contempts. |
 | [330d.](%C2%A7%2000330d%20-%20Violation%3B%20penalty.md) | Violation; penalty. |
 | [330e.](%C2%A7%2000330e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

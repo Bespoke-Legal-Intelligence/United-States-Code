@@ -14,7 +14,7 @@
 
 (6) The Commissioner may establish, alter, consolidate, or discontinue such organizational units or components within the Administration as the Commissioner considers necessary or appropriate, except that this paragraph shall not apply with respect to any unit, component, or provision provided for by this chapter.
 
-(7) The Commissioner may assign duties, and delegate, or authorize successive redelegations of, authority to act and to render decisions, to such officers and employees of the Administration as the Commissioner may find necessary. Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Commissioner.
+(7) The Commissioner may assign duties, and delegate, or authorize successive redelegations of, authority to act and to render decisions, to such officers and employees of the Administration as the Commissioner may find necessary.Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Commissioner.
 
 (8) The Commissioner and the Secretary of Health and Human Services (in this subchapter referred to as the “Secretary”) shall consult, on an ongoing basis, to ensure—
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries
 
-Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: “Effective as soon as possible, but not later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary's work or earnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status.”
+Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: “Effective as soon as possible, butnot later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary's work or earnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status.”
 
 #### Demonstration Projects Relating to Accountability for Telephone Service Center Communications
 
@@ -98,7 +98,7 @@ Required Minimum Level of Access to Local Offices.—In addition to such other a
 
 “(b)
 
-Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilitiesfor each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
+Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilities for each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
 
 “(c)
 

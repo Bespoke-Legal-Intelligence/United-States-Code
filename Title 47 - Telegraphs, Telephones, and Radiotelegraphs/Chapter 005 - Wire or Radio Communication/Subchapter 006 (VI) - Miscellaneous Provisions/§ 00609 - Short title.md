@@ -8,6 +8,12 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–459, §1, Dec. 22, 2006, 120 Stat. 3399, provided that: “This Act \[enacting and repealing provisions set out as notes under section 201 of this title\] may be cited as the ‘Call Home Act of 2006’.”
+
+Pub. L. 109–235, §1, June 15, 2006, 120 Stat. 491, provided that: “This Act \[amending section 503 of thistitle\] may be cited as the ‘Broadcast Decency Enforcement Act of 2005’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–21, §1, July 9, 2005, 119 Stat. 359, provided that: “This Act \[amending section 227 of this title and enacting provisions set out as a note under section 227 of this title\] may be cited as the ‘Junk Fax Prevention Act of 2005’.”
@@ -32,7 +38,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1731\], Dec. 21, 2000, 114 
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594, provided that: “This section \[amending section 336 of this title and enacting provisions set out as a note under section 336 of this title\] may be cited as the ‘Community Broadcasters Protection Act of 1999’.”
 
-Pub. L. 106–81, §1, Oct. 26, 1999, 113 Stat. 1286, provided that: “This Act \[enacting sections 615 to 615b of thistitle, amending sections 222 and 251 of this title, and enacting provisions set out as a note under section 615 of this title\] may be cited as the ‘Wireless Communications and Public Safety Act of 1999’.”
+Pub. L. 106–81, §1, Oct. 26, 1999, 113 Stat. 1286, provided that: “This Act \[enacting sections 615 to 615b of this title, amending sections 222 and 251 of this title, and enacting provisions set out as a note under section 615 of this title\] may be cited as the ‘Wireless Communications and Public Safety Act of 1999’.”
 
 #### Short Title of 1998 Amendment
 
@@ -70,7 +76,7 @@ Pub. L. 101–396, §1, Sept. 28, 1990, 104 Stat. 848, provided: “That this Ac
 
 Pub. L. 100–626, §1, Nov. 7, 1988, 102 Stat. 3207, provided that: “This Act \[amending sections 391, 396, 398, 399, and 605 of this title and enacting provisions set out as notes under sections 391 and 396 of this title\] may be cited as the ‘Public Telecommunications Act of 1988’.”
 
-Pub. L. 100–594, §1, Nov. 3, 1988, 102 Stat. 3021, provided that: “This Act \[amending sections 154 to 156, 158, 204, 208, and 405 of this title and enacting provisions set out as notes under sections 154 and 156 of this title\] may be cited as the ‘Federal Communications Commission Authorization Act of 1988’.”
+Pub. L. 100–594, §1, Nov. 3, 1988, 102 Stat. 3021, provided that: “This Act \[amending sections 154 to 156, 158, 204, 208, and 405 of this title and enacting provisions set out as notes under sections 154 and 156 of this title\]may be cited as the ‘Federal Communications Commission Authorization Act of 1988’.”
 
 Pub. L. 100–394, §1, Aug. 16, 1988, 102 Stat. 976, provided: “That this Act \[amending section 610 of this title and enacting provisions set out as a note under section 610 of this title\] may be cited as the ‘Hearing Aid Compatibility Act of 1988’.”
 
@@ -92,7 +98,7 @@ Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: 
 
 Pub. L. 97–130, §1, Dec 29, 1981, 95 Stat. 1687, provided that: “This Act \[amending section 222 of this title and section 1017 of Title 45, Railroads, and enacting provisions set out as notes under section 222 of this title and section 1017 of Title 45\] may be referred to as the ‘Record Carrier Competition Act of 1981’.”
 
-Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1\(§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amending sections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
+Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1 (§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amending sections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
 
 #### Short Title of 1978 Amendments
 

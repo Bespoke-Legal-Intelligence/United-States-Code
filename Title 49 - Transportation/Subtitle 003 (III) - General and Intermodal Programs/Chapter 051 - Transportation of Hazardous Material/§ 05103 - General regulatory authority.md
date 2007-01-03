@@ -32,7 +32,11 @@ Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulat
 
 Consultation.—When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 109–59, title VII, §§7103, 7126, Aug. 10, 2005, 119 Stat. 1893, 1909.)
+(d)
+
+Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 109–59, title VII, §§7103, 7126, Aug. 10, 2005, 119 Stat. 1893, 1909; Pub. L. 109–177, title VII, §741, Mar. 9, 2006, 120 Stat. 272.)
 
 Historical and Revision Notes
 
@@ -67,6 +71,8 @@ In subsection (b)(1), before clause (A), the words “in accordance with section
 This amends 49:5103(b)(2) to clarify the restatement of 49 App.:1804(a)(2) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 761).
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–177 added subsec. (d).
 
 2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary shall designate” for “Secretary of Transportation shall designate”.
 
@@ -136,7 +142,7 @@ In general.—Within 90 days after the date of the enactment of this Act \[Dec. 
 
 &emsp;“(2)
 
-Completion.—The study shall be completed before March 1, 1997 and shall be transmitted to theCommittee on Commerce, Science, and Transportation of the Senate and the Transportation and Infrastructure Committee of the House of Representatives.
+Completion.—The study shall be completed before March 1, 1997 and shall be transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Transportation and Infrastructure Committee of the House of Representatives.
 
 “(d)
 

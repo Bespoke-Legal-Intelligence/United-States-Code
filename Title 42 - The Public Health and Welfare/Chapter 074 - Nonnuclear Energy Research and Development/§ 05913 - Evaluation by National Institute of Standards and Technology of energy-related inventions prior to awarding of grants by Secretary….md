@@ -1,6 +1,6 @@
 ### §5913. Evaluation by National Institute of Standards and Technology of energy-related inventions prior to awarding of grants by Secretary; promulgation of regulations
 
-The National Institute of Standards and Technology shall give particular attention to the evaluation of all promising energy-related inventions, particularly those submitted by individual inventors and small companies for the purpose of obtaining direct grants from the Secretary. The National Institute of Standards andTechnology is authorized to promulgate regulations in the furtherance of this section.
+The National Institute of Standards and Technology shall give particular attention to the evaluation of all promising energy-related inventions, particularly those submitted by individual inventors and small companies for the purpose of obtaining direct grants from the Secretary. The National Institute of Standards and Technology is authorized to promulgate regulations in the furtherance of this section.
 
 (Pub. L. 93–577, §14, Dec. 31, 1974, 88 Stat. 1894; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 

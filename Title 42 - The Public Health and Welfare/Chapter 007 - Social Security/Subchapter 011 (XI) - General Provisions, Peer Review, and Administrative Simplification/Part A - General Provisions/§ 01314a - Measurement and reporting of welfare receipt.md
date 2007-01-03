@@ -52,7 +52,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 #### (3) Vacancies
 
-&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manner as the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
+&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manneras the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
 
 #### (4) Duties
 

@@ -24,7 +24,7 @@ As used in this chapter—
 
 #### (6) Importer
 
-&emsp;The term “importer” means any person who imports, on average, over 500,000 pounds of mushrooms annually from outside the United States.
+&emsp;The term “importer” means any person who imports, on average, over 500,000 pounds ofmushrooms annually from outside the United States.
 
 #### (7) Industry information
 

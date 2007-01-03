@@ -4,7 +4,7 @@
 
 #### (1) Establishment of Office
 
-&emsp;Not later than 90 days after June 10, 1993, the Secretary shall establish an office to be known as the Office of Research Integrity (referred toin this section as the “Office”), which shall be established as an independent entity in the Department of Health and Human Services.
+&emsp;Not later than 90 days after June 10, 1993, the Secretary shall establish an office to be known as the Office of Research Integrity (referred to in this section as the “Office”), which shall be established as an independent entity in the Department of Health and Human Services.
 
 #### (2) Appointment of Director
 
@@ -76,7 +76,7 @@ June 10, 1993, referred to in subsec. (a)(1), was in the original “the date of
 
 &emsp;“(2) will report to the Secretary any investigation of alleged scientific fraud which appears substantial.
 
-“(b) The Director of NIH shall establish a process for the prompt and appropriate response to information provided the Director of NIH respecting scientific fraud in connection with projects for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of suchinformation from recipients of funds under this chapter and taking appropriate action with respect to such fraud.”
+“(b) The Director of NIH shall establish a process for the prompt and appropriate response to information provided the Director of NIH respecting scientific fraud in connection with projects for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such fraud.”
 
 Subsec. (e). Pub. L. 103–43, §163, added subsec. (e).
 

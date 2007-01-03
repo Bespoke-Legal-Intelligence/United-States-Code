@@ -20,7 +20,7 @@ The Board shall decide protests submitted to it under this subsection by interes
 
 &emsp;(2) the reference to the Comptroller General in section 3553(d)(3)(C)(ii) of such title is deemed to be a reference to both the Board and the Comptroller General;
 
-&emsp;(3) the report required by paragraph (1) of section 3554(e) of such title shall be submitted to the Comptroller General as well as the committees listed in such paragraph;
+&emsp;(3) the report required by paragraph (1) of section 3554(e) of such title shall be submittedto the Comptroller General as well as the committees listed in such paragraph;
 
 &emsp;(4) the report required by paragraph (2) of such section shall be submitted to the Comptroller General as well as Congress; and
 

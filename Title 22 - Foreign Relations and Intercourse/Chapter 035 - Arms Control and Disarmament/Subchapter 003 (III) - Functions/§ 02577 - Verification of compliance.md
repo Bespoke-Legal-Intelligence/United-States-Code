@@ -18,7 +18,7 @@ Upon the request of the chairman or ranking minority member of the Committee on 
 
 #### (c) Standard for verification of compliance
 
-In making determinations under paragraphs (1) and (2) of subsection (a) of this section, the Secretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
+In making determinations under paragraphs (1) and (2) of subsection (a) of this section, theSecretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
 
 #### (d) Rule of construction
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 105–277, §1223(11)(A), substituted “Secretary of State
 
 Subsec. (d). Pub. L. 105–277, §1223(11)(B), struck out heading and text of subsec. (d). Text read as follows: “In order to ensure adherence of the United States to obligations or commitments undertaken in arms control, nonproliferation, and disarmament agreements, and in order for the Director to make the assessment required by section 2593a(a)(5) of this title, the Director, or the Director's designee, shall participate in all interagency groups or organizations within the executive branch of Government that assess, analyze, or review United States planned or ongoing policies, programs, or actions that have a direct bearing on United States adherence to obligations undertaken in arms control, nonproliferation, or disarmament agreements.”
 
-1994—Pub. L. 103–236 substituted “Verification of compliance” for “Verification of Arms Control Agreements” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a)to (c) requiring the Director to report to Congress relating to verification of arms control proposals and agreements.
+1994—Pub. L. 103–236 substituted “Verification of compliance” for “Verification of Arms Control Agreements” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) requiring the Director to report to Congress relating to verification of arms control proposals and agreements.
 
 #### Effective Date of 1998 Amendment
 

@@ -16,7 +16,7 @@ Each report under subsection (a) shall include the following:
 
 &emsp;(4) A plan for actions to secure the nuclear materials identified in paragraph (3) under systems described in paragraph (1), including an estimate of the cost of such actions.
 
-&emsp;(5) The amounts expended through the fiscal year preceding the date of such report to secure nuclear materials described in subsection (a) under systems described in paragraph (1), set forth by total amount per country and by amount per fiscal year per country.
+&emsp;(5) The amounts expended through the fiscal year preceding the date of such report to secure nuclear materials described in subsection (a) under systems described in paragraph (1),set forth by total amount per country and by amount per fiscal year per country.
 
 #### (c) Limitation on use of certain funds
 

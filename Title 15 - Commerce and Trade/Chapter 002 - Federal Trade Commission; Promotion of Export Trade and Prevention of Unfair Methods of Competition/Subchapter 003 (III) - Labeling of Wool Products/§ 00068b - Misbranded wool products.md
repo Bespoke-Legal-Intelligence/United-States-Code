@@ -8,7 +8,7 @@ A wool product shall be misbranded—
 
 &emsp;(2) If a stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, is not on or affixed to the wool product and does not show—
 
-&emsp;&emsp;(A) the percentage of the total fiber weight of the wool product, exclusive of ornamentation not exceeding 5 per centum of said total fiber weight, of (1) wool; (2) recycled wool; (3) each fiber other than wool if said percentage by weight of such fiber is 5 per centum or more; and (4) the aggregate of all other fibers: <i>Provided</i>, That deviation of the fiber contents of the wool product from percentages stated on the stamp, tag, label, or other means of identification, shall not be misbranding under this section if the person charged with misbranding proves such deviation resulted from unavoidable variations in manufacture and despite the exercise of due care to make accurate the statements on such stamp, tag, label, or other means of identification.
+&emsp;&emsp;(A) the percentage of the total fiber weight of the wool product, exclusive of ornamentation not exceeding 5 per centum of said total fiber weight, of (1) wool; (2) recycled wool; (3) each fiber other than wool if said percentage by weight of such fiber is 5 per centum or more; and (4) the aggregate of all other fibers: <i>Provided</i>, That deviation of the fiber contents of the wool product from percentages stated on the stamp, tag, label, or other means of identification, shall not be misbranding under this section if the personcharged with misbranding proves such deviation resulted from unavoidable variations in manufacture and despite the exercise of due care to make accurate the statements on such stamp, tag, label, or other means of identification.
 
 &emsp;&emsp;(B) the maximum percentage of the total weight of the wool product, of any nonfibrous loading, filling, or adulterating matter.
 
@@ -16,9 +16,59 @@ A wool product shall be misbranded—
 
 &emsp;&emsp;(D) the name of the country where processed or manufactured.
 
-&emsp;(3) In the case of a wool product containing a fiber other than wool, if the percentages byweight of the wool contents thereof are not shown in words and figures plainly legible.
+&emsp;(3) In the case of a wool product containing a fiber other than wool, if the percentages by weight of the wool contents thereof are not shown in words and figures plainly legible.
 
 &emsp;(4) In the case of a wool product represented as wool, if the percentages by weight of the wool content thereof are not shown in words and figures plainly legible, or if the total fiber weight of such wool product if not 100 per centum wool exclusive of ornamentation not exceeding 5 per centum of such total fiber weight.
+
+&emsp;(5) In the case of a wool product stamped, tagged, labeled, or otherwise identified as—
+
+&emsp;&emsp;(A) “Super 80's” or “80's”, if the average diameter of wool fiber of such wool product does not average 19.75 microns or finer;
+
+&emsp;&emsp;(B) “Super 90's” or “90's”, if the average diameter of wool fiber of such wool product does not average 19.25 microns or finer;
+
+&emsp;&emsp;(C) “Super 100's” or “100's”, if the average diameter of wool fiber of such wool product does not average 18.75 microns or finer;
+
+&emsp;&emsp;(D) “Super 110's” or “110's”, if the average diameter of wool fiber of such wool product does not average 18.25 microns or finer;
+
+&emsp;&emsp;(E) “Super 120's” or “120's”, if the average diameter of wool fiber of such wool product does not average 17.75 microns or finer;
+
+&emsp;&emsp;(F) “Super 130's” or “130's”, if the average diameter of wool fiber of such wool product does not average 17.25 microns or finer;
+
+&emsp;&emsp;(G) “Super 140's” or “140's”, if the average diameter of wool fiber of such wool product does not average 16.75 microns or finer;
+
+&emsp;&emsp;(H) “Super 150's” or “150's”, if the average diameter of wool fiber of such wool product does not average 16.25 microns or finer;
+
+&emsp;&emsp;(I) “Super 160's” or “160's”, if the average diameter of wool fiber of such wool product does not average 15.75 microns or finer;
+
+&emsp;&emsp;(J) “Super 170's” or “170's”, if the average diameter of wool fiber of such wool product does not average 15.25 microns or finer;
+
+&emsp;&emsp;(K) “Super 180's” or “180's”, if the average diameter of wool fiber of such wool product does not average 14.75 microns or finer;
+
+&emsp;&emsp;(L) “Super 190's” or “190's”, if the average diameter of wool fiber of such wool product does not average 14.25 microns or finer;
+
+&emsp;&emsp;(M) “Super 200's” or “200's”, if the average diameter of wool fiber of such wool product does not average 13.75 microns or finer;
+
+&emsp;&emsp;(N) “Super 210's” or “210's”, if the average diameter of wool fiber of such wool product does not average 13.25 microns or finer;
+
+&emsp;&emsp;(O) “Super 220's” or “220's”, if the average diameter of wool fiber of such wool product does not average 12.75 microns or finer;
+
+&emsp;&emsp;(P) “Super 230's” or “230's”, if the average diameter of wool fiber of such wool product does not average 12.25 microns or finer;
+
+&emsp;&emsp;(Q) “Super 240's” or “240's”, if the average diameter of wool fiber of such wool product does not average 11.75 microns or finer; and
+
+&emsp;&emsp;(R) “Super 250's” or “250's”, if the average diameter of wool fiber of such wool product does not average 11.25 microns or finer.
+
+> &emsp;In each such case, the average fiber diameter of such wool product may be subject to such standards or deviations as adopted by regulation by the Commission.
+
+&emsp;(6) In the case of a wool product stamped, tagged, labeled, or otherwise identified as cashmere, if—
+
+&emsp;&emsp;(A) such wool product is not the fine (dehaired) undercoat fibers produced by a cashmere goat (capra hircus laniger);
+
+&emsp;&emsp;(B) the average diameter of the fiber of such wool product exceeds 19 microns; or
+
+&emsp;&emsp;(C) such wool product contains more than 3 percent (by weight) of cashmere fibers with average diameters that exceed 30 microns.
+
+> &emsp;The average fiber diameter may be subject to a coefficient of variation around the mean that shall not exceed 24 percent.
 
 #### (b) Additional information
 
@@ -32,7 +82,7 @@ If any person subject to section 68a of this title with respect to a wool produc
 
 This section shall not be construed as requiring designation on garments or articles of apparel of fiber content of any linings, paddings, stiffening, trimmings, or facings, except those concerning which express or implied representations of fiber content are customarily made, nor as requiring designation of fiber content of products which have an insignificant or inconsequential textile content: <i>Provided</i>, That if any such article or product purports to contain or in any manner is represented as containing wool, this section shall be applicable thereto and the information required shall be separately set forth and segregated.
 
-The Commission, after giving due notice and opportunity to be heard to interested persons, may determine and publicly announce the classes of such articles concerning which express or implied representations of fiber content are customarily made, and those products which have an insignificant or inconsequential textile content.
+The Commission, after giving due notice and opportunity to be heard to interested persons, may determine and publicly announce the classes of such articles concerning which express or implied representations of fiber content are customarily made, and those products which havean insignificant or inconsequential textile content.
 
 #### (e) False or deceptive advertising in mail order promotions
 
@@ -42,15 +92,21 @@ For the purposes of this subchapter, a wool product shall be considered to be fa
 
 For purposes of this subchapter, any wool product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is on or affixed on the outer side of such product or in the case of hosiery items, on the outer side of such product or package.
 
-(Oct. 14, 1940, ch. 871, §4, 54 Stat. 1129; Pub. L. 96–242, §2, May 5, 1980, 94 Stat. 344; Pub. L. 98–417, title III, §§304, 305, Sept. 24, 1984, 98 Stat. 1604.)
+(Oct. 14, 1940, ch. 871, §4, 54 Stat. 1129; Pub. L. 96–242, §2, May 5, 1980, 94 Stat. 344; Pub. L. 98–417, title III, §§304, 305, Sept. 24, 1984, 98 Stat. 1604; Pub. L. 109–428, §2(a), Dec. 20, 2006, 120 Stat. 2913.)
 
 #### Amendments
+
+2006—Subsec. (a)(5), (6). Pub. L. 109–428 added pars. (5) and (6).
 
 1984—Subsec. (a)(2)(D). Pub. L. 98–417, §304, added subpar. (D).
 
 Subsecs. (e), (f). Pub. L. 98–417, §305, added subsecs. (e) and (f).
 
 1980—Subsec. (a)(2)(A). Pub. L. 96–242 substituted “recycled wool” for “reprocessed wool” as cl. (2), struck out cl. (3) “reused wool”, and redesignated existing cls. (4) and (5) as (3) and (4), respectively.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–428, §2(b), Dec. 20, 2006, 120 Stat. 2915, provided that: “The amendments made by this section \[amending this section\] shall apply to wool products manufactured on or after January 1, 2007.”
 
 #### Effective Date of 1984 Amendment
 

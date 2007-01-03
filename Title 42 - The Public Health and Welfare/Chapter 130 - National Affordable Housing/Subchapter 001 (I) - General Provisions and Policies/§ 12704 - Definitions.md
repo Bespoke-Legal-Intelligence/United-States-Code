@@ -56,7 +56,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;&emsp;(A) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse;
 
-&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as afirst-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
+&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
 
 &emsp;&emsp;(C) an individual shall not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual owns or owned, as a principal residence during such 3-year period, a dwelling unit whose structure is—
 

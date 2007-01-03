@@ -34,7 +34,7 @@
 
 #### (1) Program requirements
 
-&emsp;A local educational agency shall use funds made available under section 7114 of this title to develop, implement, and evaluate comprehensive programs and activities, which are coordinated with other school and community-based services and programs, that shall—
+&emsp;A local educational agency shall use funds made available under section 7114 of this titleto develop, implement, and evaluate comprehensive programs and activities, which are coordinated with other school and community-based services and programs, that shall—
 
 &emsp;&emsp;(A) foster a safe and drug-free learning environment that supports academic achievement;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(ix) Alternative education programs or services for violent or drug abusing students that reduce the need for suspension or expulsion or that serve students who have been suspended or expelled from the regular educational settings, including programs or services to assist students to make continued progress toward meeting the State academic achievement standards and to reenter the regular education setting.
 
-&emsp;&emsp;&emsp;(x) Counseling, mentoring, referral services, and other student assistance practices and programs, including assistance provided by qualified school-based mental health services providers and the training of teachers by school-based mental health services providers in appropriate identification and intervention techniques for students at risk of violent behavior and illegal use of drugs.
+&emsp;&emsp;&emsp;(x) Counseling, mentoring, referral services, and other student assistance practices and programs, including assistance provided by qualified school-based mental health services providers and the training of teachers by school-based mental health services providers in appropriate identification and intervention techniques forstudents at risk of violent behavior and illegal use of drugs.
 
 &emsp;&emsp;&emsp;(xi) Programs that encourage students to seek advice from, and to confide in, a trusted adult regarding concerns about violence and illegal drug use.
 

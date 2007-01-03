@@ -200,7 +200,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in close cooperation with the State administering agency, shall establish procedures for entering into, extending, and terminating PACE program agreements for the operation of PACE programs by entities that meet the requirements for a PACE provider under this section, section 1395eee of this title, and regulations.
+&emsp;&emsp;The Secretary, in close cooperation with the State administering agency, shall establish procedures for entering into, extending, and terminating PACE program agreementsfor the operation of PACE programs by entities that meet the requirements for a PACE provider under this section, section 1395eee of this title, and regulations.
 
 #### (B) Numerical limitation
 
@@ -258,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -392,7 +392,7 @@
 
 With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
-&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs orPACE program services be provided in all areas of a State.
+&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
 
 &emsp;(2) Section 1396a(a)(10) of this title, insofar as such section relates to comparability of services among different population groups.
 
@@ -420,7 +420,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (i) Post-eligibility treatment of income
 
-A State may provide for post-eligibility treatment of income for individuals enrolled in PACE programs under this section in the same manner as a State treats post-eligibility income for individuals receiving services under a waiver under section 1396n(c) of this title.
+A State may provide for post-eligibility treatment of income for individuals enrolled in PACEprograms under this section in the same manner as a State treats post-eligibility income for individuals receiving services under a waiver under section 1396n(c) of this title.
 
 #### (j) Miscellaneous provisions
 
@@ -446,7 +446,7 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 
 #### Prior Provisions
 
-A prior section 1934 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
+A prior section 1934 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
 

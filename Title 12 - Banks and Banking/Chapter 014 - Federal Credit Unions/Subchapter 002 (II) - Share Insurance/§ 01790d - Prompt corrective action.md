@@ -320,7 +320,7 @@ This section does not apply to any insured credit union that—
 
 #### (n) Other authority not affected
 
-This section does not limit any authority of the Board or a State to take action in addition to (but not in derogation of) that is <sup>1</sup> required under this section.
+This section does not limit any authority of the Board or a State to take action in addition to (but not in derogation of) any action that is required under this section.
 
 #### (<i>o</i>) Definitions
 
@@ -334,7 +334,7 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;The term “net worth”—
 
-&emsp;&emsp;(A) with respect to any insured credit union, means retained earnings balance of the credit union, as determined under generally accepted accounting principles; and
+&emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined; and
 
 &emsp;&emsp;(B) with respect to a low-income credit union, includes secondary capital accounts that are—
 
@@ -354,7 +354,13 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;&emsp;(B) has not more than $10,000,000 in total assets.
 
-(June 26, 1934, ch. 750, title II, §216, as added Pub. L. 105–219, title III, §301(a), Aug. 7, 1998, 112 Stat. 923.)
+(June 26, 1934, ch. 750, title II, §216, as added Pub. L. 105–219, title III, §301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, §504, title VII, §726(25), Oct. 13, 2006, 120 Stat. 1975, 2003.)
+
+#### Amendments
+
+2006—Subsec. (n). Pub. L. 109–351, §726(25), inserted “any action” before “that is required”.
+
+Subsec. (<i>o</i>)(2)(A). Pub. L. 109–351, §504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
 
 #### Effective Date
 

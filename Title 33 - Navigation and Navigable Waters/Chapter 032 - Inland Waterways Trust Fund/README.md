@@ -4,15 +4,6 @@
 | :--- | ---: |
 | 1801, 1802. Repealed. |  |
 | [1803\.](%C2%A7%2001803%20-%20Study%20with%20respect%20to%20inland%20waterway%20user%20taxes%20and%20charges.md) | Study with respect to inland waterway user taxes and charges. |
-| (a) | Study directed. |
-| (b) | Considerations relating to the taxing mechanism. |
-| (c) | Considerations relating to economic effects. |
-| (d) | Considerations relating to economic feasibility of waterway improvement projects; level of benefits from waterway expenditures. |
-| (e) | Considerations relating to Federal assistance. |
-| (f) | Considerations relating to policy and future development. |
-| (g) | “Inland waterway user taxes and charges” defined. |
-| (h) | Report. |
-| (i) | Authorization of appropriations. |
 | [1804\.](%C2%A7%2001804%20-%20Inland%20and%20intracoastal%20waterways%20of%20the%20United%20States.md) | Inland and intracoastal waterways of the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

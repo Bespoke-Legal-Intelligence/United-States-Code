@@ -10,7 +10,7 @@
 
 (B)(i) A career appointee may not be reassigned to a Senior Executive Service position outside the career appointee's commuting area unless—
 
-&emsp;(I) before providing notice under subclause (II) of this clause (or seeking or obtaining the consent of the career appointee under clause (ii) of this subparagraph to waive such notice), the agency consults with the career appointeeon the reasons for, and the appointee's preferences with respect to, the proposed reassignment; and
+&emsp;(I) before providing notice under subclause (II) of this clause (or seeking or obtaining the consent of the career appointee under clause (ii) of this subparagraph to waive such notice), the agency consults with the career appointee on the reasons for, and the appointee's preferences with respect to, the proposed reassignment; and
 
 &emsp;(II) the career appointee receives written notice of the reassignment, including a statement of the reasons for the reassignment, at least 60 days before the effective date of the reassignment.
 

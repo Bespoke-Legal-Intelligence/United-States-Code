@@ -16,7 +16,7 @@ The Director is authorized, without the review or approval of the Secretary, to 
 
 &emsp;(4) decisions to appoint conservators for the enterprises;
 
-&emsp;(5) administrative and enforcement actions under subchapter II of this chapter, actions taken under subchapter III of this chapter with respect to enforcement of subchapter II of this chapter, and other matters relating to safety and soundness;
+&emsp;(5) administrative and enforcement actions under subchapter II of this chapter, actionstaken under subchapter III of this chapter with respect to enforcement of subchapter II of this chapter, and other matters relating to safety and soundness;
 
 &emsp;(6) approval of payments of capital distributions by the enterprises under section 1718(c)(2) of this title and section 1452(b)(2) of this title;
 

@@ -6,9 +6,7 @@ Nothing herein contained shall affect any valid claim, location, or entry under 
 
 #### References in Text
 
-Herein, referred to in text, means act Jan. 26, 1915, which is classified to sections 191, and 193 to 195 of this title. For complete classification of this Act to the Code, see Tables.
-
-The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
+Herein, referred to in text, means act Jan. 26, 1915, which is classified to sections 191 and 193 to 195a of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat. 790. For further details, see Codification note set out under section 79 of this title.
 

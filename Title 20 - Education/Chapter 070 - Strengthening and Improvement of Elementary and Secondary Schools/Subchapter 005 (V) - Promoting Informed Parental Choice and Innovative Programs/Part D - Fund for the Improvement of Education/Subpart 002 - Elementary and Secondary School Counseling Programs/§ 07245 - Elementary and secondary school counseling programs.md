@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(F) describe how diverse cultural populations, if applicable, will be served through the program;
 
-&emsp;&emsp;(G) assure that the funds made available under this subpart for any fiscal year will beused to supplement, and not supplant, any other Federal, State, or local funds used for providing school-based counseling and mental health services to students; and
+&emsp;&emsp;(G) assure that the funds made available under this subpart for any fiscal year will be used to supplement, and not supplant, any other Federal, State, or local funds used for providing school-based counseling and mental health services to students; and
 
 &emsp;&emsp;(H) assure that the applicant will appoint an advisory board composed of interested parties, including parents, teachers, school administrators, counseling services providers described in subsection (c)(2)(D) of this section, and community leaders, to advise the local educational agency on the design and implementation of the program.
 

@@ -52,7 +52,7 @@ Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity ca
 
 Congressional Resolutions.—(1) In this subsection, “resolution”—
 
-&emsp;(A) means a joint resolution of Congress the matter after the resolving clause of which is as follows: “That the Congress approves the compensation plan numbered \_\_\_\_\_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_ XX, 20\_\_\_\_.”, with the blank spaces being filled appropriately; but
+&emsp;(A) means a joint resolution of Congress the matter after the resolving clause of which isas follows: “That the Congress approves the compensation plan numbered \_\_\_\_\_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_ XX, 20\_\_\_\_.”, with the blank spaces being filled appropriately; but
 
 &emsp;(B) does not include a resolution that includes more than one compensation plan.
 
@@ -62,7 +62,7 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (4)(A) If the committee of the Senate to which a resolution has been referred does not report the resolution within 20 calendar days after it is referred, a motion is in order to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of the plan.
 
-(B) A motion to discharge may be made only by an individual favoring the resolution and ishighly privileged (except that the motion may not be made after the committee has reported a resolution on the plan). Debate on the motion is limited to one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
+(B) A motion to discharge may be made only by an individual favoring the resolution and is highly privileged (except that the motion may not be made after the committee has reported a resolution on the plan). Debate on the motion is limited to one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed and another motion to discharge the committee from another resolution on the same plan may not be made.
 

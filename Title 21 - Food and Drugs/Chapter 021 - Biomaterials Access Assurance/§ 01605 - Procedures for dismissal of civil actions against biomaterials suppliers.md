@@ -2,7 +2,7 @@
 
 #### (a) Motion to dismiss
 
-A defendant may, at any time during which a motion to dismiss may be filed under applicablelaw, move to dismiss an action against it on the grounds that the defendant is a biomaterials supplier and one or more of the following:
+A defendant may, at any time during which a motion to dismiss may be filed under applicable law, move to dismiss an action against it on the grounds that the defendant is a biomaterials supplier and one or more of the following:
 
 &emsp;(1) The defendant is not liable as a manufacturer, as provided in section 1604(b) of this title.
 
@@ -78,11 +78,11 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) Basis for entry of judgment
 
-&emsp;&emsp;If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) of this section or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of section 1604(d) of this title.
+&emsp;&emsp;If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) of this section or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court findsthere is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of section 1604(d) of this title.
 
 #### (B) Issues of material fact
 
-&emsp;&emsp;With respect to a finding made under subparagraph (A), the court shall consider a genuine issue of material fact to exist onlyif the evidence submitted by the claimant would be sufficient to allow a reasonable jury to reach a verdict for the claimant if the jury found the evidence to be credible.
+&emsp;&emsp;With respect to a finding made under subparagraph (A), the court shall consider a genuine issue of material fact to exist only if the evidence submitted by the claimant would be sufficient to allow a reasonable jury to reach a verdict for the claimant if the jury found the evidence to be credible.
 
 #### (2) Discovery made prior to a ruling on a motion for summary judgment
 

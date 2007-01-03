@@ -1,0 +1,68 @@
+### §300hh–15. Volunteer Medical Reserve Corps
+
+#### (a) In general
+
+Not later than 180 days after December 19, 2006, the Secretary, in collaboration with State, local, and tribal officials, shall build on State, local, and tribal programs in existence on December 19, 2006, to establish and maintain a Medical Reserve Corps (referred to in this section as the “Corps”) to provide for an adequate supply of volunteers in the case of a Federal, State, local, or tribal public health emergency. The Corps shall be headed by a Director who shall be appointed by the Secretary and shall oversee the activities of the Corps chapters that exist at the State, local, and tribal levels.
+
+#### (b) State, local, and tribal coordination
+
+The Corps shall be established using existing State, local, and tribal teams and shall not alter such teams.
+
+#### (c) Composition
+
+The Corps shall be composed of individuals who—
+
+&emsp;(1)(A) are health professionals who have appropriate professional training and expertise as determined appropriate by the Director of the Corps; or
+
+&emsp;(B) are non-health professionals who have an interest in serving in an auxiliary or support capacity to facilitate access to health care services in a public health emergency;
+
+&emsp;(2) are certified in accordance with the certification program developed under subsection (d);
+
+&emsp;(3) are geographically diverse in residence;
+
+&emsp;(4) have registered and carry out training exercises with a local chapter of the Medical Reserve Corps; and
+
+&emsp;(5) indicate whether they are willing to be deployed outside the area in which they reside in the event of a public health emergency.
+
+#### (d) Certification; drills
+
+#### (1) Certification
+
+&emsp;The Director, in collaboration with State, local, and tribal officials, shall establish a process for the periodic certification of individuals who volunteer for the Corps, as determined by the Secretary, which shall include the completion by each individual of the core training programs developed under section 247d–6 of this title, as required by the Director. Such certification shall not supercede State licensing or credentialing requirements.
+
+#### (2) Drills
+
+&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trained volunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level.
+
+#### (e) Deployment
+
+During a public health emergency, the Secretary shall have the authority to activate and deploy willing members of the Corps to areas of need, taking into consideration the public health and medical expertise required, with the concurrence of the State, local, or tribal officials from the area where the members reside.
+
+#### (f) Expenses and transportation
+
+While engaged in performing duties as a member of the Corps pursuant to an assignment by the Secretary (including periods of travel to facilitate such assignment), members of the Corps who are not otherwise employed by the Federal Government shall be allowed travel or transportation expenses, including per diem in lieu of subsistence.
+
+#### (g) Identification
+
+The Secretary, in cooperation and consultation with the States, shall develop a Medical Reserve Corps Identification Card that describes the licensure and certification information of Corps members, as well as other identifying information determined necessary by the Secretary.
+
+#### (h) Intermittent disaster-response personnel
+
+#### (1) In general
+
+&emsp;For the purpose of assisting the Corps in carrying out duties under this section, during a public health emergency, the Secretary may appoint selected individuals to serve as intermittent personnel of such Corps in accordance with applicable civil service laws and regulations. In all other cases, members of the Corps are subject to the laws of the State in which the activities of the Corps are undertaken.
+
+#### (2) Applicable protections
+
+&emsp;Subsections (c)(2), (d), and (e) of section 300hh–11 of this title shall apply to an individual appointed under paragraph (1) in the same manner as such subsections apply to an individual appointed under section 300hh–11(c) of this title.
+
+#### (3) Limitation
+
+&emsp;State, local, and tribal officials shall have no authority to designate a member of the Corps as Federal intermittent disaster-response personnel, but may request the services of such members.
+
+#### (i) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section, $22,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011.
+
+(July 1, 1944, ch. 373, title XXVIII, §2813, as added Pub. L. 109–417, title III, §303(a), Dec. 19, 2006, 120 Stat. 2856.)
+

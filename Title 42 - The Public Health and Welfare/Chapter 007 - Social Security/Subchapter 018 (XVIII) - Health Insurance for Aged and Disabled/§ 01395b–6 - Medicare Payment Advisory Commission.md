@@ -40,7 +40,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;Specifically, the Commission shall review payment policies under parts A and B of this subchapter, including—
 
-&emsp;&emsp;&emsp;(i) the factors affecting expenditures for the efficient provision of services in different sectors, including the process for updating hospital, skilled nursing facility, physician, and other fees,
+&emsp;&emsp;&emsp;(i) the factors affecting expenditures for the efficient provision of services in different sectors, including the process forupdating hospital, skilled nursing facility, physician, and other fees,
 
 &emsp;&emsp;&emsp;(ii) payment methodologies, and
 
@@ -110,7 +110,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (4) Compensation
 
-&emsp;While serving on the business of the Commission (including traveltime), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of the Commission (including traveltime), a member ofthe Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -188,7 +188,7 @@ Subsec. (b)(8). Pub. L. 108–173, §735(a), added par. (8).
 
 Subsec. (c)(2)(B). Pub. L. 108–173, §735(e)(1), inserted “experts in the area of pharmaco-economics or prescription drug benefit programs,” after “other health professionals,”.
 
-Subsec. (c)(2)(D). Pub. L. 108–173, §735(c)(1), inserted at end “Members of the Commission shall be treated as employees of Congress for purposes of applying title Iof the Ethics in Government Act of 1978 (Public Law 95–521).”
+Subsec. (c)(2)(D). Pub. L. 108–173, §735(c)(1), inserted at end “Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).”
 
 2000—Subsec. (b)(1)(D). Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1)\], substituted “June 15 of each year,” for “June 1 of each year (beginning with 1998),”.
 
@@ -260,7 +260,7 @@ Report.—Not later than December 31, 2001, the Commission shall submit to Congr
 
 #### MedPAC Report
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programsin a specialty that require preliminary years of study in another specialty.”
 
 #### MedPAC Study of Rural Providers
 

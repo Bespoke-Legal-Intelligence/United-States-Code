@@ -94,7 +94,7 @@ Pub. L. 105–330, §201(a)(1)(B), which directed the striking out of “and, th
 
 Subsec. (d)(4). Pub. L. 105–330, §103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement of use under this subsection shall result in abandonment of the application.”
 
-1988—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) aspars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
+1988—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
 
 Subsecs. (b), (c). Pub. L. 100–667, §103(3), (9), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
 
@@ -134,6 +134,10 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 Section 46(a) of act July 5, 1946, provided that this chapter shall be in force and take effect one year from July 5, 1946.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–312, §1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act \[amending sections 1052, 1063, 1064, 1092, 1125, and 1127 of this title\] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–482, §1, Dec. 23, 2004, 118 Stat. 3912, provided that: “This Act \[amending section 1117 of this title, section 504 of Title 17, Copyrights, sections 2318 and 3559 of Title 18, Crimes and Criminal Procedure, and sections 85 and 112 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, section 1117 of this title, sections 2311 and 2318 of Title 18, and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28\] may be cited as the ‘Intellectual Property Protection and Courts Amendments Act of 2004’.”
@@ -168,7 +172,7 @@ Section 101 of title I of Pub. L. 100–667 provided that: “This title \[amend
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–620, title I, §101, Nov. 8, 1984, 98 Stat. 3335, provided that: “This title \[amending sections 1064 and1127 of this title and enacting provisions set out as a note under section 1064 of this title\] may be cited as the ‘Trademark Clarification Act of 1984’.”
+Pub. L. 98–620, title I, §101, Nov. 8, 1984, 98 Stat. 3335, provided that: “This title \[amending sections 1064 and 1127 of this title and enacting provisions set out as a note under section 1064 of this title\] may be cited as the ‘Trademark Clarification Act of 1984’.”
 
 #### Short Title
 

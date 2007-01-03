@@ -1,6 +1,6 @@
 ### §283. Regular lieutenants; separation for failure of selection for promotion; continuation
 
-(a) Each officer of the Regular Coast Guard appointed under section 211 of this title who is serving in the grade of lieutenant and who has failed of selection for promotion to the grade of lieutenant commander for the second time shall:
+(a) Each officer of the Regular Coast Guard appointed under section 211 of this title who isserving in the grade of lieutenant and who has failed of selection for promotion to the grade of lieutenant commander for the second time shall:
 
 &emsp;(1) be honorably discharged on June 30 of the promotion year in which his second failure of selection occurs; or
 
@@ -14,7 +14,7 @@
 
 (2) Upon the completion of a term under paragraph (1), an officer shall, unless selected for further continuation—
 
-&emsp;(A) except as provided in subparagraph (B), be honorably discharged with severance pay computed under section 286 of this title;
+&emsp;(A) except as provided in subparagraph (B), be honorably discharged with separation pay computed under section 286 of this title;
 
 &emsp;(B) in the case of an officer who has completed at least 18 years of active service on the date of discharge under subparagraph (A), be retained on active duty and retired on the last day of the month in which the officer completes 20 years of active service, unless earlier removed under another provision of law; or
 
@@ -22,13 +22,11 @@
 
 (c) Each officer who has been continued on active duty under subsection (b) shall, unless earlier removed from active duty, be retired on the last day of the month in which he completes twenty years of active service.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 184; amended Pub. L. 93–283, §1(6), May 14,1974, 88 Stat. 140; Pub. L. 94–546, §1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, §2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 104–324, title II, §205, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, §416(a)(2), Nov. 25, 2002, 116 Stat. 2121.)
-
-#### Amendment of Section
-
-<i>Pub. L. 107–295, title IV, §416(a)(2), (c), Nov. 25, 2002, 116 Stat. 2121, 2122, provided that, effective 4 years after Nov. 25, 2002, subsec. (b)(2)(A) is amended by striking “severance” and inserting “separation”.</i>
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 184; amended Pub. L. 93–283, §1(6), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, §2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 104–324, title II, §205, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, §416(a)(2), Nov. 25, 2002, 116 Stat. 2121.)
 
 #### Amendments
+
+2002—Subsec. (b)(2)(A). Pub. L. 107–295 substituted “separation” for “severance”.
 
 1996—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1), struck out “Upon the completion of such a term he shall, unless selected for further continuation, be honorably discharged with severance pay computed under section 286 of this title, or, if eligible for retirement under any law, be retired.” at end of par. (1), and added par. (2).
 

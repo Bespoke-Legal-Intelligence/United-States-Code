@@ -10,7 +10,7 @@ There is established within the Department an independent regulatory commission 
 
 (2) Notwithstanding the third sentence of paragraph (1), the terms of members first taking office after April 11, 1990, shall expire as follows:
 
-&emsp;(A) In the case of members appointed to succeed members whose terms expire in 1991, one such member's term shall expire on June 30, 1994, and one such member's term shall expire on June 30, 1995, as designated by the President at the time of appointment.
+&emsp;(A) In the case of members appointed to succeed members whose terms expire in 1991, one such member's term shall expire on June 30,1994, and one such member's term shall expire on June 30, 1995, as designated by the President at the time of appointment.
 
 &emsp;(B) In the case of members appointed to succeed members whose terms expire in 1992, one such member's term shall expire on June 30, 1996, and one such member's term shall expire on June 30, 1997, as designated by the President at the time of appointment.
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsecs. (i) and (j), was in the original “this A
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
+1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of threeyears, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
 
 #### Effective Date of 1990 Amendment
 
@@ -80,7 +80,7 @@ Model Regulations.—In conjunction with the study in subsection (b), the Commis
 
 “(d)
 
-Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmentalbenefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
+Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 

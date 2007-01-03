@@ -52,7 +52,7 @@ For purposes of determining whether a child is eligible to be counted for the pu
 
 #### (B) Exception
 
-&emsp;&emsp;A local educational agency may not be held liable to the United States or be subject to any penalty, by reason of the findings of an audit that relates to the date of completion, or the date of submission, of any forms used to establish, before April 28, 1988, the eligibility of a child for an entitlement under the Indian Elementary and Secondary School Assistance Act.
+&emsp;&emsp;A local educational agency may not be held liable to the United States or be subjectto any penalty, by reason of the findings of an audit that relates to the date of completion, or the date of submission, of any forms used to establish, before April 28, 1988, the eligibility of a child for an entitlement under the Indian Elementary and Secondary School Assistance Act.
 
 #### (2) False information
 

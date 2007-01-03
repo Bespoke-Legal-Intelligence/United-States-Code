@@ -26,7 +26,3 @@ Historical and Revision Notes
 
 Section 11106 provides compensation to seamen on United States vessels when a shipping agreement is breached. It does not apply to fishing vessels, whaling vessels or yachts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11503 of this title.
-

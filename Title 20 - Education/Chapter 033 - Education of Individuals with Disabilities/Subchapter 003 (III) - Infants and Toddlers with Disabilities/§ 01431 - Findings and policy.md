@@ -22,7 +22,7 @@ It is the policy of the United States to provide financial assistance to Statesâ
 
 &emsp;(2) to facilitate the coordination of payment for early intervention services from Federal, State, local, and private sources (including public and private insurance coverage);
 
-&emsp;(3) to enhance State capacity to provide quality early intervention services and expandand improve existing early intervention services being provided to infants and toddlers with disabilities and their families; and
+&emsp;(3) to enhance State capacity to provide quality early intervention services and expand and improve existing early intervention services being provided to infants and toddlers with disabilities and their families; and
 
 &emsp;(4) to encourage States to expand opportunities for children under 3 years of age who would be at risk of having substantial developmental delay if they did not receive early intervention services.
 

@@ -1,8 +1,8 @@
 ### §3690. Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements
 
-### Overcharges by Educational Institutions
+(a)
 
-(a) If the Secretary finds that an educational institution has—
+Overcharges by Educational Institutions.—If the Secretary finds that an educational institution has—
 
 &emsp;(1) charged or received from any eligible veteran or eligible person pursuing a program of education under this chapter or chapter 34 or 35 of this title any amount for any course in excess of the charges for tuition and fees which such institution requires similarly circumstanced nonveterans not receiving assistance under such chapters who are enrolled in the same course to pay, or
 
@@ -10,11 +10,11 @@
 
 > the Secretary may disapprove such educational institution for the enrollment of any eligible veteran or eligible person not already enrolled therein under this chapter or chapter 31, 34, or 35 of this title.
 
-### Discontinuance of Allowances
+(b)
 
-(b)(1) The Secretary may discontinue the educational assistance allowance of any eligible veteran or eligible person if the Secretary finds that the program of education or any course in which the veteran or person is enrolled fails to meet any of the requirements of this chapter or chapter 34 or 35 of this title, or if the Secretary finds that the educational institution offering such program or course has violated any provision of this chapter or chapter 34 or 35 of this title, or fails to meet any of the requirements of such chapters.
+Discontinuance of Allowances.—(1) The Secretary may discontinue the educational assistance allowance of any eligible veteran or eligible person if the Secretary finds that the program of education or any course in which the veteran or person is enrolled fails to meet any of the requirements of this chapter or chapter 34 or 35 of this title, or if the Secretary finds that the educational institution offering such program or course has violated any provision of this chapter or chapter 34 or 35 of this title, or fails to meet any of the requirements of such chapters.
 
-(2) Except as provided in paragraph (3) of this subsection, any action by the Secretary under paragraph (1) of this subsection to discontinue (including to suspend) assistance provided to any eligible veteran or eligible person under this chapter or chapter 31, 32, 34, or 35 of this title shall be based upon evidence that the veteran or eligible person is not or was not entitled to such assistance. Whenever the Secretary so discontinues any such assistance, the Secretary shall concurrently provide written notice to such veteran or person of such discontinuance and thatsuch veteran or person is entitled thereafter to a statement of the reasons for such action and an opportunity to be heard thereon.
+(2) Except as provided in paragraph (3) of this subsection, any action by the Secretary under paragraph (1) of this subsection to discontinue (including to suspend) assistance provided to any eligible veteran or eligible person under this chapter or chapter 31, 32, 34, or 35 of this title shall be based upon evidence that the veteran or eligible person is not or was not entitled to such assistance. Whenever the Secretary so discontinues any such assistance, the Secretary shall concurrently provide written notice to such veteran or person of such discontinuance and that such veteran or person is entitled thereafter to a statement of the reasons for such action and an opportunity to be heard thereon.
 
 (3)(A) The Secretary may suspend educational assistance to eligible veterans and eligible persons already enrolled, and may disapprove the enrollment or reenrollment of any eligible veteran or eligible person, in any course as to which the Secretary has evidence showing a substantial pattern of eligible veterans or eligible persons, or both, who are receiving such assistance by virtue of their enrollment in such course but who are not entitled to such assistance because (i) the course approval requirements of this chapter are not being met, or (ii) the educational institution offering such course has violated one or more of the recordkeeping or reporting requirements of this chapter or chapter 30, 32, 34, or 35 of this title.
 
@@ -26,21 +26,23 @@
 
 &emsp;(iii) the Secretary, not less than 30 days before taking action under such subparagraph, provides to each eligible veteran and eligible person already enrolled in such course written notice of the Secretary's intent to take such action (and the reasons therefor) unless such corrective action is taken within such 60 days (or within such longer period as the Secretary has determined is reasonable and appropriate), and of the date on which the Secretary intends to take action under such subparagraph.
 
-### Examination of Records
+(c)
 
-(c) Notwithstanding any other provision of law, the records and accounts of educational institutions pertaining to eligible veterans or eligible persons who received educational assistance under this chapter or chapter 31, 32, 34, or 35 of this title, as well as the records of other students which the Secretary determines necessary to ascertain institutional compliance with the requirements of such chapters, shall be available for examination by duly authorized representatives of the Government.
+Examination of Records.—Notwithstanding any other provision of law, the records and accounts of educational institutions pertaining to eligible veterans or eligible persons who received educational assistance under this chapter or chapter 31, 32, 34, or 35 of this title, as well as the records of other students which the Secretary determines necessary to ascertain institutional compliance with the requirements of such chapters, shall be available for examination by duly authorized representatives of the Government.
 
-### False or Misleading Statements
+(d)
 
-(d) Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
+False or Misleading Statements.—Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
 
-(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1088, §1790; amended Pub. L. 94–502, title V, §§510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, §306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, §801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, §423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3690, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(1), Aug. 14, 1991, 105 Stat. 426.)
+(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1088, §1790; amended Pub. L. 94–502, title V, §§510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, §306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, §801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, §423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3690, Pub. L.102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1684; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, §4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1686; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, §2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, §4(<i>o</i>), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
 
 #### Amendments
+
+2006—Pub. L. 109–233 revised style of subsec. headings.
 
 1991—Pub. L. 102–83 renumbered section 1790 of this title as this section.
 
@@ -70,7 +72,7 @@ Subsec. (b)(3). Pub. L. 97–306, §207(2), added par. (3).
 
 Subsec. (b). Pub. L. 94–502, §513(a)(19), substituted “if the Administrator finds” for “if he finds” in two places.
 
-Subsec. (c). Pub. L. 94–502, §510, substituted “chapter 31, 32, 34, or 35” for “chapter 31, 34, or 35” and requiredthe records of other students which the Administrator determines necessary to ascertain institutional compliance to be available for inspection.
+Subsec. (c). Pub. L. 94–502, §510, substituted “chapter 31, 32, 34, or 35” for “chapter 31, 34, or 35” and required the records of other students which the Administrator determines necessary to ascertain institutional compliance to be available for inspection.
 
 Subsec. (d). Pub. L. 94–502, §513(a)(19), substituted “the Administrator shall make” for “he shall make”.
 

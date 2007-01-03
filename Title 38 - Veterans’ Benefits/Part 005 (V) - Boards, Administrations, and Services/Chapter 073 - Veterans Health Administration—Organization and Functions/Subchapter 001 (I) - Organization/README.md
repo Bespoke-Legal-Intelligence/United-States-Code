@@ -18,3 +18,4 @@ A prior subchapter I of this chapter consisting of sections 4101 to 4120, relate
 - [&sect; 07305 - Divisions of Veterans Health Administration](%C2%A7%2007305%20-%20Divisions%20of%20Veterans%20Health%20Administration.md)
 - [&sect; 07306 - Office of the Under Secretary for Health](%C2%A7%2007306%20-%20Office%20of%20the%20Under%20Secretary%20for%20Health.md)
 - [&sect; 07307 - Office of Research Oversight](%C2%A7%2007307%20-%20Office%20of%20Research%20Oversight.md)
+- [&sect; 07308 - Office of Rural Health](%C2%A7%2007308%20-%20Office%20of%20Rural%20Health.md)

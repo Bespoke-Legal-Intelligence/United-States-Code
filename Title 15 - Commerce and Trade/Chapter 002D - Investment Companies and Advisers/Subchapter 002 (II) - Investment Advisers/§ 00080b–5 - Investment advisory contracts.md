@@ -40,7 +40,7 @@ As used in paragraphs (2) and (3) of subsection (a) of this section, “investme
 
 #### (e) Exempt persons and transactions
 
-The Commission, by rule or regulation, upon its own motion, or by order upon application, may conditionally or unconditionally exempt any person or transaction, or any class or classes of persons or transactions, from subsection (a)(1) of this section, if and to the extent that the exemption relates to an investment advisory contract with any person that the Commission determines does not need the protections of subsection (a)(1) of this section, on the basis of such factors as financial sophistication, net worth, knowledge of and experience in financial matters, amount of assets under management, relationship with a registered investment adviser, and such other factors as the Commission determines are consistent with this section.
+The Commission, by rule or regulation, upon its own motion, or by order upon application, may conditionally or unconditionally exempt any person or transaction, or any class or classes of persons or transactions, from subsection (a)(1) of this section, if and to the extent that the exemption relates to an investment advisorycontract with any person that the Commission determines does not need the protections of subsection (a)(1) of this section, on the basis of such factors as financial sophistication, net worth, knowledge of and experience in financial matters, amount of assets under management, relationship with a registered investment adviser, and such other factors as the Commission determines are consistent with this section.
 
 (Aug. 22, 1940, ch. 686, title II, §205, 54 Stat. 852; Pub. L. 86–750, §7, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–547, §25, Dec. 14, 1970, 84 Stat. 1432; Pub. L. 96–477, title II, §203, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 104–290, title II, §210, Oct. 11, 1996, 110 Stat. 3436.)
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 91–547 effective on expiration of one year after Dec. 14,
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

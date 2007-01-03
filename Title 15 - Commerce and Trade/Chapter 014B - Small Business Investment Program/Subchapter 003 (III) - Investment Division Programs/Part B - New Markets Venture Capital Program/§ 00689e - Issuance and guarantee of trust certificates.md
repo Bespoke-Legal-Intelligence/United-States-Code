@@ -20,7 +20,7 @@ The Administrator may issue trust certificates representing ownership of all or 
 
 #### (c) Full faith and credit of the United States
 
-The full faith and credit of the United States is pledged to pay all amounts that may be required to be paid under any guarantee of a trust certificate issued by the Administrator or its agents under this section.
+The full faith and credit of the United States is pledged to pay all amounts that may be required to be paid under any guarantee of a trustcertificate issued by the Administrator or its agents under this section.
 
 #### (d) Fees
 

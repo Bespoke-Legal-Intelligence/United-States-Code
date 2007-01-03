@@ -10,7 +10,7 @@ Determination to establish committee.—If after considering comments and applic
 
 &emsp;(2)
 
-Determination not to establish committee.—If after considering such comments and applications, the agency decides not to establish a negotiated rulemaking committee, the agency shall promptly publish notice of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of which shall be sent to any person who applied for, or nominated another person for membership on the negotiating <sup>1</sup> rulemaking committee to represent such interests with respect to the proposed rule.
+Determination not to establish committee.—If after considering such comments and applications, the agency decides not to establish a negotiated rulemaking committee, the agency shall promptly publish notice of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of whichshall be sent to any person who applied for, or nominated another person for membership on the negotiating <sup>1</sup> rulemaking committee to represent such interests with respect to the proposed rule.
 
 (b)
 

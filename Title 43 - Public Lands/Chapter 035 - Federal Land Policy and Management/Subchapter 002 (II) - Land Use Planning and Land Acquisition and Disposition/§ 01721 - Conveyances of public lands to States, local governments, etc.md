@@ -46,5 +46,5 @@ Act of May 31, 1962, referred to in subsec. (g), is Pub. L. 87–469, May 31, 19
 
 #### Codification
 
-In subsec. (c)(1), “section 6506 of title 31” substituted for “title IV of the Intergovernmental Cooperation Actof 1968 (82 Stat. 1098, 1103–4) \[42 U.S.C. 4231 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(1), “section 6506 of title 31” substituted for “title IV of the Intergovernmental Cooperation Act of 1968 (82 Stat. 1098, 1103–4) \[42 U.S.C. 4231 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

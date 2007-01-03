@@ -1,6 +1,6 @@
 ### §407p. Establishment of advisory commission; composition, appointment, and duties
 
-The Secretary of the Interior is authorized, in his discretion, to establish a suitable advisory commission of not to exceed eleven members. The members of the advisory commission shall be appointed by the Secretary of the Interior, with three members to be recommended by the Governor of Pennsylvania, three by the mayor of Philadelphia, and one each by the Carpenters’ Company of Philadelphia and the Independence Hall Association.
+The Secretary of the Interior is authorized, in his discretion, to establish a suitable advisorycommission of not to exceed eleven members. The members of the advisory commission shall be appointed by the Secretary of the Interior, with three members to be recommended by the Governor of Pennsylvania, three by the mayor of Philadelphia, and one each by the Carpenters’ Company of Philadelphia and the Independence Hall Association.
 
 The functions of the advisory commission shall be to render advice to the Secretary of the Interior, from time to time, upon matters which the Secretary of the Interior may refer to them for consideration.
 
@@ -8,5 +8,5 @@ The functions of the advisory commission shall be to render advice to the Secret
 
 #### Termination of Advisory Commissions
 
-Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officerof the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

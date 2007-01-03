@@ -8,19 +8,17 @@
 
 &emsp;(B) provide short-term training and technical instruction;
 
-&emsp;(C) conduct research and demonstrations;
+&emsp;(C) conduct research and demonstrations; and
 
-&emsp;(D) collect, prepare, publish, and disseminate special educational or informational materials, including reports of the projects for which funds are provided under this chapter; and
-
-&emsp;(E) provide staff and other technical assistance to the Federal Council on the Aging.
+&emsp;(D) collect, prepare, publish, and disseminate special educational or informational materials, including reports of the projects for which funds are provided under this chapter.
 
 (2)(A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III of this chapter and shall have duties that include—
 
-&emsp;(i) designing, implementing, and evaluating nutrition programs;
+&emsp;(i) designing, implementing, and evaluating evidence-based programs to support improved nutrition and regular physical activity for older individuals;
 
 &emsp;(ii) developing guidelines for nutrition providers concerning safety, sanitary handling of food, equipment, preparation, and food storage;
 
-&emsp;(iii) disseminating information to nutrition service providers about nutrition advancements and developments;
+&emsp;(iii) conducting outreach and disseminating evidence-based information to nutrition service providers about the benefits of healthful diets and regular physical activity, including information about the most current Dietary Guidelines for Americans published under section 5341 of title 7, the Food Guidance System of the Department of Agriculture, and advances in nutrition science;
 
 &emsp;(iv) promoting coordination between nutrition service providers and community-based organizations serving older individuals;
 
@@ -28,15 +26,19 @@
 
 &emsp;(vi) defining a long range role for the nutrition services in community-based care systems;
 
-&emsp;(vii) developing model menus and other appropriate materials for serving special needs populations and meeting cultural meal preferences; and
+&emsp;(vii) developing model menus and other appropriate materials for serving special needs populations and meeting cultural meal preferences;
 
-&emsp;(viii) providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii).
+&emsp;(viii) disseminating guidance that describes strategies for improving the nutritional quality of meals provided under subchapter III, including strategies for increasing the consumption of whole grains, lowfat dairy products, fruits, and vegetables;
+
+&emsp;(ix) developing and disseminating guidelines for conducting nutrient analyses of meals provided under subparts I and II of part C of subchapter III, including guidelines for averaging key nutrients over an appropriate period of time; and
+
+&emsp;(x) providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (ix).
 
 (B) The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III of this chapter.
 
 (C) The officer or employee designated under subparagraph (A) shall—
 
-&emsp;(i) have expertise in nutrition and dietary services and planning; and
+&emsp;(i) have expertise in nutrition, energy balance, and meal planning; and
 
 &emsp;(ii)(I) be a registered dietitian;
 
@@ -52,7 +54,7 @@ In administering the functions of the Administration under this chapter, the Ass
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(Pub. L. 89–73, title II, §205, formerly §206, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 34; amended Pub. L. 95–478, title I, §102(f), Oct. 18, 1978, 92 Stat. 1515; renumbered §205 and amended Pub. L. 97–115, §2(e)(2), (g), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §205, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§109, 110, Nov. 29, 1987, 101 Stat. 932; Pub. L. 102–375, title II, §206, title IX, §904(a)(7), Sept. 30, 1992, 106 Stat. 1212, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title II, §202(3), title VIII, §801(b)(3), Nov. 13, 2000, 114 Stat. 2231, 2292.)
+(Pub. L. 89–73, title II, §205, formerly §206, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 34; amended Pub. L. 95–478, title I, §102(f), Oct. 18, 1978, 92 Stat. 1515; renumbered §205 and amended Pub. L. 97–115, §2(e)(2), (g), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §205, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§109, 110, Nov. 29, 1987, 101 Stat. 932; Pub. L. 102–375, title II, §206, title IX, §904(a)(7), Sept. 30, 1992, 106 Stat. 1212, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title II, §202(3), title VIII, §801(b)(3), Nov. 13, 2000, 114 Stat. 2231, 2292; Pub. L. 109–365, title II, §204, Oct. 17, 2006, 120 Stat. 2535.)
 
 #### Prior Provisions
 
@@ -60,13 +62,23 @@ A prior section 205 of Pub. L. 89–73 was renumbered section 204 and is classif
 
 #### Amendments
 
+2006—Subsec. (a)(1)(C) to (E). Pub. L. 109–365, §204(1)(A), in subpar. (C) inserted “and” at end, in subpar. (D) substituted period for “; and” at end, and struck out subpar. (E) which read as follows: “provide staff and other technical assistance to the Federal Council on the Aging.”
+
+Subsec. (a)(2)(A)(i). Pub. L. 109–365, §204(1)(B)(i)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “designing, implementing, and evaluating nutrition programs;”.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 109–365, §204(1)(B)(i)(II), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “disseminating information to nutrition service providers about nutrition advancements and developments;”.
+
+Subsec. (a)(2)(A)(viii) to (x). Pub. L. 109–365, §204(1)(B)(i)(III), (IV), added cls. (viii) to (x) and struck out former cl. (viii) which read as follows: “providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii).”
+
+Subsec. (a)(2)(C)(i). Pub. L. 109–365, §204(1)(B)(ii), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “have expertise in nutrition and dietary services and planning; and”.
+
 2000—Subsec. (a)(2)(A). Pub. L. 106–501, §801(b)(3), substituted “subparts I and II” for “subparts I, II, and III” in introductory provisions.
 
 Subsecs. (c) to (e). Pub. L. 106–501, §202(3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which read as follows:
 
 “(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
 
-“(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed publiccomment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available.”
+“(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed public comment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available.”
 
 1993—Subsecs. (a), (b), (d). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 

@@ -14,7 +14,7 @@ As used in this chapter—
 
 (f) The term “Government agency” means any executive department of the Government, or any administrative unit or subdivision thereof, any independent agency or any corporation owned or controlled by the United States in the executive branch of the Government, and includes any contracting agency.
 
-(g) The term “contracting agency” means any Government agency, which has been or hereafter may be authorized to make contracts pursuant to section 611 <sup>1</sup> of Appendix to title 50, and includes the Reconstruction Finance Corporation and any corporation organized pursuant to the Reconstruction Finance Corporation Act, and the Secretary of Commerce.
+(g) The term “contracting agency” means any Government agency, which has been or hereaftermay be authorized to make contracts pursuant to section 611 <sup>1</sup> of Appendix to title 50, and includes the Reconstruction Finance Corporation and any corporation organized pursuant to the Reconstruction Finance Corporation Act, and the Secretary of Commerce.
 
 (h) The term “termination claim” means any claim or demand by a war contractor for fair compensation for the termination of any war contract and any other claim under a terminated war contract, which regulations prescribed under this chapter authorize to be asserted and settled in connection with any termination settlement.
 
@@ -28,7 +28,7 @@ As used in this chapter—
 
 (m) The term “final and conclusive”, as applied to any settlement, finding, or decision, means that such settlement, finding, or decision shall not be reopened, annulled, modified, set aside, or disregarded by any officer, employee, or agent of the United States or in any suit, action, or proceeding except as provided in this chapter.
 
-(July 1, 1944, ch. 358, §3, 58 Stat. 650; Ex. Ord. No. 9638, §1, eff. Oct. 4, 1945, 10 F.R. 12591; Ex. Ord.No. 9809, §§1, 8 eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, §§101, 203, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1947, ch. 166, title II, §207, 61 Stat. 209; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
+(July 1, 1944, ch. 358, §3, 58 Stat. 650; Ex. Ord. No. 9638, §1, eff. Oct. 4, 1945, 10 F.R. 12591; Ex. Ord. No. 9809, §§1, 8 eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, §§101, 203, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1947, ch. 166, title II, §207, 61 Stat. 209; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 
 #### References in Text
 

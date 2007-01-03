@@ -56,7 +56,7 @@
 
 (4) Leave under paragraph (1) is in addition to other leave provided under other provisions of this section.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321.)
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321.)
 
 Historical and Revision Notes
 
@@ -154,7 +154,7 @@ Section 1031(b)(1), (2) of Pub. L. 98–94 provided that:
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effectivedate, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
+Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effective date, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
 
 #### Effective Date of 1972 Amendment
 

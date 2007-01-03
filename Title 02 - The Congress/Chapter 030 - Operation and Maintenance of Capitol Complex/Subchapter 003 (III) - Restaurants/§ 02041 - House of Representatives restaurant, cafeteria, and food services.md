@@ -42,7 +42,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Pub. L. 104–53, title I, §107A, Nov. 19, 1995, 109 Stat. 522, as amended by Pub. L. 104–197, title I, §101(a), Sept. 16, 1996, 110 Stat. 2400, provided that:
 
-“(a) Subject to the direction of the Committee on House Oversight of the House of Representatives, the amounts deposited in the account specified in subsection (b) from vending operations of the House of Representatives Restaurant System shall be available to pay the cost of goods sold for such operations.
+“(a) Subject to the direction of the Committee on House Oversight of the House of Representatives, theamounts deposited in the account specified in subsection (b) from vending operations of the House of Representatives Restaurant System shall be available to pay the cost of goods sold for such operations.
 
 “(b) The account referred to in subsection (a) is the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note) \[former 40 U.S.C. 174k\].”
 
@@ -64,7 +64,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 &emsp;“(3) becomes employed to provide such food services under contract, including a successor contract;
 
-> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as suchindividual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
+> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
 
 “(b) The provisions of law referred to in subsection (a) are—
 

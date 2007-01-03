@@ -84,123 +84,17 @@ Subsec. (e). Pub. L. 103–35, §201(d)(1)(B), substituted “on the date” for
 
 #### Pilot Program for Payment of Retraining Expenses
 
-Pub. L. 107–107, div. A, title XI, §1102, Dec. 28, 2001, 115 Stat. 1235, provided that:
-
-“(a)
-
-Authority To Carry Out Pilot Program.—(1) The Secretary of Defense may establish a pilot program to facilitate the reemployment of eligible employees of the Department of Defense who are involuntarily separated due to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station. Under the pilot program, the Secretary may pay retraining incentives to encourage non-Federal employers to hire and retain such eligible employees.
-
-“(2) Under the pilot program, the Secretary may enter into an agreement with a non-Federal employer under which the employer agrees—
-
-&emsp;“(A) to employ an eligible employee for at least 12 months at a salary that is mutually agreeable to the employer and the eligible employee; and
-
-&emsp;“(B) to certify to the Secretary the amount of costs incurred by the employer for any necessary training (as defined by the Secretary) provided to such eligible employee in connection with the employment.
-
-“(3) The Secretary may pay a retraining incentive to the non-Federal employer upon the employee's completion of 12 months of continuous employment with that employer. The Secretary shall determine the amount of the incentive, except that in no event may such amount exceed the lesser of the amount certified with respect to such eligible employee under paragraph (2)(B), or $10,000.
-
-“(4) In a case in which an eligible employee does not remain employed by the non-Federal employer for at least 12 months, the Secretary may pay to the employer a prorated amount of what would have been the full retraining incentive if the eligible employee had remained employed for such 12-month period.
-
-“(b)
-
-Eligible Employees.—For purposes of this section, an eligible employee is an employee of the Department of Defense, serving under an appointment without time limitation, who has been employed by the Department for a continuous period of at least 12 months and who has been given notice of separation pursuant to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station, except that such term does not include—
-
-&emsp;“(1) a reemployed annuitant under the retirement systems described in subchapter III of chapter 83 of title 5, United States Code, or chapter 84 of such title, or another retirement system for employees of the Federal Government;
-
-&emsp;“(2) an employee who, upon separation from Federal service, is eligible for an immediate annuity under subchapter III of chapter 83 of such title, or subchapter II of chapter 84 of such title; or
-
-&emsp;“(3) an employee who is eligible for disability retirement under any of the retirement systems referred to in paragraph (1).
-
-“(c)
-
-Duration.—No incentive may be paid under the pilot program for training commenced after September 30, 2005.
-
-“(d)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘non-Federal employer’ means an employer that is not an Executive agency, as defined in section 105 of title 5, United States Code, or an entity in the legislative or judicial branch of the Federal Government.
-
-&emsp;“(2) The term ‘reduction in force’ has the meaning of that term as used in chapter 35 of such title 5.
-
-&emsp;“(3) The term ‘realignment’ has the meaning given that term in section 2910 of the Defense Base Closure and Realignment Act of 1990 (title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
+Pub. L. 107–107, div. A, title XI, §1102, Dec. 28, 2001, 115 Stat. 1235, authorized the Secretary of Defense to establish a pilot program to facilitate the reemployment of eligible employees of the Department of Defense who were involuntarily separated due to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station, and to pay retraining incentives to encourage non-Federal employers to hire and retain such employees, and provided that no incentive could be paid under such program for training commenced after Sept. 30, 2005.
 
 #### Non-Federal Employment Incentive Pilot Program
 
-Pub. L. 103–337, div. A, title III, §348, Oct. 5, 1994, 108 Stat. 2725, provided that:
-
-“(a)
-
-Authority.—The Secretary of Defense may establish a pilot program for the payment of incentives in accordance with this section to facilitate the reemployment of eligible employees of the Department of Defense whose employment with the Department is being terminated by reason of the closure or realignment of the military installations where such persons are employed. Under the pilot program, the Secretary may pay retraining and relocation incentives to encourage non-Federal employers to hire and retain such employees.
-
-“(b)
-
-Eligible Employees.—For purposes of this section, an eligible employee is an employee of the Department of Defense, serving under an appointment without time limitation, who has been employed by the Department of Defense for a continuous period of at least 12 months and who has been given notice of separation pursuant to a reduction in force, except that such term does not include—
-
-&emsp;“(1) a reemployed annuitant under subchapter III of chapter 83 of title 5, United States Code, chapter 84 of such title, or another retirement system for employees of the Government;
-
-&emsp;“(2) an employee who, upon separation from Federal service, is eligible for an immediate annuity under subchapter III of chapter 83 of title 5, United States Code, or subchapter II of chapter 84 of such title; or
-
-&emsp;“(3) an employee who is eligible for disability retirement under any of the retirement systems referred to in paragraph (1).
-
-“(c)
-
-Retraining Incentive.—(1) Under the pilot program, the Secretary may enter into an agreement with a non-Federal employer under which the non-Federal employer agrees—
-
-&emsp;“(A) to employ a person referred to in subsection (a) for at least 12 months for a salary which is mutually agreeable to the employer and such person; and
-
-&emsp;“(B) to certify to the Secretary the cost incurred by the employer for any necessary training provided to such person in connection with the employment by that employer.
-
-“(2) The Secretary shall pay a retraining incentive to the non-Federal employer upon the employee's completion of 12 months of continuous employment by that employer. Subject to subsection (f), the Secretary shall prescribe the amount of the incentive.
-
-“(3) The Secretary shall pay a prorated amount of the full retraining incentive to the non-Federal employer for an employee who does not remain employed by the non-Federal employer for at least 12 months.
-
-“(4) In no event may the amount of the retraining incentive paid for the training of any one person under the pilot program exceed the amount certified for that person under paragraph (1).
-
-“(d)
-
-Relocation Incentive.—The Secretary may pay a relocation incentive to an eligible employee if it is necessary for the employee to relocate in order to commence employment with a non-Federal employer under the pilot program. Subject to subsection (f), the amount of the incentive shall be equal to the total amount authorized to be paid for travel, transportation, and subsistence expenses under subchapter II of chapter 57 of title 5, United States Code, including the reimbursements authorized under section 5724b of such title, to a Federal employee being transferred between the same locations as the person paid the incentive.
-
-“(e)
-
-Approval of Secretary of Defense.—The Secretary of a military department or the head of a Defense Agency may offer an incentive under the pilot program with the prior approval of the Secretary of Defense or pursuant to a delegation of authority by the Secretary of Defense.
-
-“(f)
-
-Limitation.—The total amount of incentives paid in the case of a person under the pilot program may not exceed $10,000.
-
-“(g)
-
-Duration.—No incentive may be paid under the pilot program for training or relocations commenced after September 30, 1999.
-
-“(h)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘non-Federal employer’ means an employer that is not an Executive agency, as defined in section 105 of title 5, United States Code, or the legislative or judicial branch of the Federal Government.
-
-&emsp;“(2) The term ‘Defense Agency’ has the meaning given such term in section 101(a)(11) of title 10, United States Code.”
+Pub. L. 103–337, div. A, title III, §348, Oct. 5, 1994, 108 Stat. 2725, authorized the Secretary of Defense to establish a pilot program for the payment of incentives to facilitate the reemployment of eligible employees of the Department of Defense whose employment with the Department was being terminated by reason of the closure or realignment of the military installations where such persons were employed, to pay retraining and relocation incentives to encourage non-Federal employers to hire and retain such employees, and to pay a relocation incentive to an eligible employee if it was necessary for the employee to relocate in order to commence employment with a non-Federal employer under such program, and provided that no incentive could be paid under such program for training or relocations commenced after Sept. 30, 1999.
 
 #### Skill Training Programs in Department of Defense
 
-Section 4435 of Pub. L. 102–484 provided that:
-
-“(a)
-
-Authority.—(1) Under regulations prescribed by the Secretary of Defense, the Secretaries of the military departments, and the Secretary of Defense with respect to employees of the Department of Defense other than employees of the military departments, may provide not more than one year of training in training facilities of the Department to civilian employees of the Department of Defense who are separated from employment as a result of a reduction in force or a closure or realignment of a military installation.
-
-“(2) Training may be provided under this subsection during the period beginning on October 1, 1992, and ending on September 30, 1995.
-
-“(b)
-
-Register of Training Programs.—Not later than February 1, 1993, the Secretary of Defense, in consultation with the Secretary of Labor and the Director of the Office of Personnel Management, shall publish a register of the skill training programs carried out by the Department of Defense. The register shall—
-
-&emsp;“(1) include a list of the skill training programs;
-
-&emsp;“(2) provide information on the location of such programs, the training provided under such programs, and the number of persons who may receive training under such programs; and
-
-&emsp;“(3) identify the programs that provide training in skills that are useful to employees in the civilian work force.”
+Pub. L. 102–484, div. D, title XLIV, §4435, Oct. 23, 1992, 106 Stat. 2722, authorized the Secretaries of the military departments and the Secretary of Defense, during the period beginning on Oct. 1, 1992, and ending on Sept. 30, 1995, to provide not more than one year of training in training facilities of the Department of Defense to civilian employees of the Department who were separated from employment as a result of a reduction in force or a closure or realignment of a military installation, and directed the Secretary to publish a register of the skill training programs carried out by the Department not later than Feb. 1, 1993.
 
 #### Involuntary Reductions of Civilian Personnel in Fiscal Year 1991
 
-Section 322(b) of Pub. L. 101–510 provided that: “After the date of the enactment of this Act \[Nov. 5, 1990\], an agency or component of the Department of Defense may not implement any involuntary reductions or furloughs of civilian personnel in industrial-type or commercial-type activities in fiscal year 1991 until 45 days after the date on which the agency or component submits a report to Congress outlining the reasons why such reductions or furloughs are required and including a description of any changes in workload and manpower requirements that will result from those reductions or furloughs.”
+Pub. L. 101–510, div. A, title III, §322(b), Nov. 5, 1990, 104 Stat. 1529, provided that after Nov. 5, 1990, an agency or component of the Department of Defense could not implement any involuntary reductions or furloughs of civilian personnel in industrial-type or commercial-type activities in fiscal year 1991 until 45 days after the date on which the agency or component submitted a report to Congress outlining the reasons why such reductions or furloughs were required.
 

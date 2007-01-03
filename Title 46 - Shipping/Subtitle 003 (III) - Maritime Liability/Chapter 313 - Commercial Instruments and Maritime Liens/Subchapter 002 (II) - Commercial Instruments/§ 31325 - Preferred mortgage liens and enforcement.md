@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) the remedy is allowed under applicable law; and
 
-&emsp;&emsp;(B) the exercise of the remedy will not result in a violation of section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835).
+&emsp;&emsp;(B) the exercise of the remedy will not result in a violation of section 56101 or 56102 of this title.
 
 (c) The district courts have original jurisdiction of a civil action brought under subsection (b)(1) or (2) of this section. However, for a documented vessel, a vessel to be documented under chapter 121 of this title, a vessel titled in a State, or a foreign vessel, this jurisdiction is exclusive of the courts of the States for a civil action brought under subsection (b)(1) of this section.
 
@@ -44,7 +44,7 @@
 
 (3) The Secretary shall prescribe regulations establishing the time and manner for providing notice under this subsection.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1124(a), (b), Oct. 19, 1996, 110 Stat. 3980; Pub. L. 105–383, title IV, §401(c)(5)–(7), Nov. 13, 1998, 112 Stat. 3425; Pub. L. 107–295, title II, §205(b), Nov. 25, 2002, 116 Stat. 2096.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1124(a), (b), Oct. 19, 1996, 110 Stat. 3980; Pub. L. 105–383, title IV, §401(c)(5)–(7), Nov. 13, 1998, 112 Stat. 3425; Pub. L. 107–295, title II, §205(b), Nov. 25, 2002, 116 Stat. 2096; Pub. L. 109–304, §15(30), Oct. 6, 2006, 120 Stat. 1704.)
 
 Historical and Revision Notes
 
@@ -84,7 +84,7 @@ Section 31325 provides for the enforcement of a preferred mortgage lien.
 
 Section 31325(a) makes a “preferred mortgage” a lien on the vessel in the amount of the mortgage indebtedness secured by the vessel outstanding at foreclosure. This subsection makes no substantive change to law.
 
-Section 31325(b) provides that, on default of any term, the mortgagee may enforce the preferred mortgage lienin a civil action <i>in rem</i>, or <i>in personam</i> in admiralty against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This subsection makes a substantive change to law by allowing a nonadmiralty civil action to be brought against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This change allows an action to be brought even when the vessel is outside U.S. jurisdiction. This section will also allow the action to be brought against the comaker or guarantor of the mortgage.
+Section 31325(b) provides that, on default of any term, the mortgagee may enforce the preferred mortgage lien in a civil action <i>in rem</i>, or <i>in personam</i> in admiralty against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This subsection makes a substantive change to law by allowing a nonadmiralty civil action to be brought against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This change allows an action to be brought even when the vessel is outside U.S. jurisdiction. This section will also allow the action to be brought against the comaker or guarantor of the mortgage.
 
 Section 31325(c) provides for original and exclusive jurisdiction by a district court, to the exclusion of the courts of a State for civil actions brought <i>in rem</i>. It also provides for original jurisdiction for civil actions brought <i>in personam</i> in admiralty and civil actions brought under subsection (b)(3). This subsection makes a substantive change to law by broadening the jurisdiction to courts in the territories, as defined in section 31301, as well as giving original jurisdiction to the district courts in nonadmiralty civil actions brought to enforce the preferred mortgage lien.
 
@@ -97,6 +97,8 @@ Subsection (e) provides that, in a civil action <i>in rem</i>, the court may app
 Subsection (c) of this section clarifies that the district courts have original jurisdiction for a civil action under subsection (b) of this section, and exclusive jurisdiction in the case of vessels documented or to be documented under chapter 121 of title 46.
 
 #### Amendments
+
+2006—Subsec. (b)(3)(B). Pub. L. 109–304, which directed substitution of “section 56101 or 56102 of this title” for“section 9 or 37 of the Shipping Act, 1936 (46 App. U.S.C. 808, 835)”, was executed by making the substitution in text which included “Shipping Act, 1916” rather than “Shipping Act, 1936”, to reflect the probable intent of Congress.
 
 2002—Subsec. (d)(1)(B). Pub. L. 107–295, §205(b)(1), substituted “an unexpired notice of a claim” for “a notice of a claim”.
 
@@ -126,13 +128,9 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–295 effective Jan. 1, 2003, see section 205(e) of Pub. L. 107–295, set out as a note under section 12111 of this title.
+Pub. L. 107–295, title II, §205(e), Nov. 25, 2002, 116 Stat. 2096, provided that: “This section \[see Tables for classification\] shall take effect January 1, 2003.”
 
 #### Construction of 1996 Amendments
 
 Section 1124(c) of Pub. L. 104–324 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19, 1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31301, 31326 of this title; title 11 section 362.
 

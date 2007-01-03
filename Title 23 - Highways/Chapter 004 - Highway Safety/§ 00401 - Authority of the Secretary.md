@@ -42,7 +42,7 @@ Pub. L. 94–280, title II, §201, May 5, 1976, 90 Stat. 451, provided that: “
 
 #### Short Title of 1973 Amendment
 
-Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out asnotes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
+Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
 
 #### Short Title of 1970 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: 
 
 #### Short Title
 
-Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
+Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 ofthis title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
 
 #### Wildlife Vehicle Collision Reduction Study
 
@@ -266,7 +266,7 @@ Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
-Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of theStates. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
+Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
 
 \[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.\]
 
@@ -314,7 +314,7 @@ Section 213 of Pub. L. 93–87 authorized the appropriation of $5,000,000 to mak
 
 #### Pedestrian and Bicycle Safety Study
 
-Section 214 of Pub. L. 93–87 authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
+Section 214 of Pub. L. 93–87 authorized the appropriation of $5,000,000 for a study of pedestrian and bicyclesafety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
 
 #### Highway Safety Needs Study
 

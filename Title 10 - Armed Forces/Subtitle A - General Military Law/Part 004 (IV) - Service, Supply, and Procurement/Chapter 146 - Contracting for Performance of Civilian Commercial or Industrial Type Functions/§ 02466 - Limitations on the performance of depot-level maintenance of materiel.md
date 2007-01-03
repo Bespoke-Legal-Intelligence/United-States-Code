@@ -18,17 +18,21 @@ Prohibition on Delegation of Waiver Authority.—The authority to grant a waiver
 
 (d)
 
-Annual Report and Review.—(1) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that was expended during the preceding fiscal year, and are projected to be expended during the current fiscal year and the ensuing fiscal year, for performance of depot-level maintenance and repair workloads by the public and private sectors.
+Annual Report.—(1) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each ofthe armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that was expended during the preceding fiscal year, and are projected to be expended during the current fiscal year and the ensuing fiscal year, for performance of depot-level maintenance and repair workloads by the public and private sectors.
 
-(2) Not later than 90 days after the date on which the Secretary submits a report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General's views on whether—
+(2) Each report required under paragraph (1) shall include as a separate item any expenditure covered by section 2474(f) of this title that was made during the fiscal year covered by the report and shall specify the amount and nature of each such expenditure.
 
-&emsp;(A) the Department of Defense complied with the requirements of subsection (a) during the preceding fiscal year covered by the report; and
-
-&emsp;(B) the expenditure projections for the current fiscal year and the ensuing fiscal year are reasonable.
-
-(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567; Pub. L. 107–107, div. A, title III, §341, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 108–136, div. A, title III, §332, Nov. 24, 2003, 117 Stat. 1442; Pub. L. 108–375, div. A, title III, §321, Oct. 28, 2004, 118 Stat. 1845.)
+(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567; Pub. L. 107–107, div. A, title III, §341, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 108–136, div. A, title III, §332, Nov. 24, 2003, 117 Stat. 1442; Pub. L. 108–375, div. A, title III, §321, Oct. 28, 2004, 118 Stat. 1845; Pub. L. 109–364, div. A, title III, §331(b), Oct. 17, 2006, 120 Stat. 2149.)
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–364, §331(b)(2), struck out “and Review” after “Annual Report” in heading.
+
+Subsec. (d)(2). Pub. L. 109–364, §331(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after the date on which the Secretary submits a report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General's views on whether—
+
+&emsp;“(A) the Department of Defense complied with the requirements of subsection (a) during the preceding fiscal year covered by the report; and
+
+&emsp;“(B) the expenditure projections for the current fiscal year and the ensuing fiscal year are reasonable.”
 
 2004—Subsec. (d). Pub. L. 108–375 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -78,7 +82,7 @@ Subsec. (b). Pub. L. 103–337, §332(b), inserted “and repair” after “mai
 
 Subsec. (e). Pub. L. 103–337, §332(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-“(1) Not later than January 15, 1992, and January 15, 1993, the Secretary of the Army and the Secretary of the Air Force shall jointly submit to Congress a report describing the progress during the preceding fiscal year to achieve and maintain the percentage of depot-level maintenance required to be performed by employees of the Department of Defense pursuant to subsection (a).
+“(1) Not later than January 15, 1992, and January 15, 1993, the Secretary of the Army and the Secretary of the Air Force shall jointly submit to Congress a report describing the progress during the preceding fiscal year to achieve and maintain the percentage of depot-levelmaintenance required to be performed by employees of the Department of Defense pursuant to subsection (a).
 
 “(2) Not later than January 15, 1994, the Secretary of each military department and the Secretary of Defense, with respect to the Defense Agencies, shall jointly submit to Congress a report described in paragraph (1).”
 
@@ -144,23 +148,9 @@ Section 314(a)(3) of Pub. L. 102–190 provided that: “The Secretary of the Ar
 
 #### Competition Pilot Program; Review and Report
 
-Section 314(b)–(d) of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title III, §354, Oct. 23, 1992, 106 Stat. 2379, provided that:
-
-“\[(b) Repealed. Pub. L. 102–484, div. A, title III, §354, Oct. 23, 1992, 106 Stat. 2379.\]
-
-“(c)
-
-Review by Comptroller General.—Not later than February 1, 1994, the Comptroller General shall submit to Congress an evaluation of all depot maintenance workloads of the Department of Defense, including Navy depot maintenance workloads, that are performed by an entity selected pursuant to competitive procedures.
-
-“(d)
-
-Report by Secretary of Defense.—Not later than December 1, 1993, the Secretary of Defense shall submit to Congress a report—
-
-&emsp;“(1) containing a five-year strategy of the Department of Defense to use competitive procedures for the selection of entities to perform depot maintenance workloads; and
-
-&emsp;“(2) describing the cost savings anticipated through the use of those procedures.”
+Pub. L. 102–190, div. A, title III, §314(b)–(d), Dec. 5, 1991, 105 Stat. 1337, as amended by Pub. L. 102–484, div. A, title III, §354, Oct. 23, 1992, 106 Stat. 2379, required the Comptroller General to submit to Congress, not later than Feb. 1, 1994, an evaluation of all depot maintenance workloads of the Department of Defense that were performed by an entity selected pursuant to competitive procedures, and required the Secretary of Defense to submit to Congress, not later than Dec. 1, 1993, a report containing a five-year strategy of the Department of Defense to use competitive procedures for the selection of entities to perform depot maintenance workloads and describing the cost savings anticipated.
 
 #### Pilot Program for Depot Maintenance Workload Competition
 
-Pub. L. 101–510, div. A, title IX, §922, Nov. 5, 1990, 104 Stat. 1627, authorized a depot maintenance workloadcompetition pilot program during fiscal year 1991, outlined elements of the program, and provided for a report not later than Mar. 31, 1992, to congressional defense committees, prior to repeal by Pub. L. 102–190, div. A, title III, §314(b)(2), Dec. 5, 1991, 105 Stat. 1337.
+Pub. L. 101–510, div. A, title IX, §922, Nov. 5, 1990, 104 Stat. 1627, authorized a depot maintenance workload competition pilot program during fiscal year 1991, outlined elements of the program, and provided for a report not later than Mar. 31, 1992, to congressional defense committees, prior to repeal by Pub. L. 102–190, div. A, title III, §314(b)(2), Dec. 5, 1991, 105 Stat. 1337.
 

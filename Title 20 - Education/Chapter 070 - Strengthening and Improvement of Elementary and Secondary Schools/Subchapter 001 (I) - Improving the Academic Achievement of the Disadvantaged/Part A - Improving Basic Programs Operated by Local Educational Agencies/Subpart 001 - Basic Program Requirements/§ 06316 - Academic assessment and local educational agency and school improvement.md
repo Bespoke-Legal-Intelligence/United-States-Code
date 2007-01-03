@@ -50,7 +50,7 @@
 
 #### (F) Transfer
 
-&emsp;&emsp;Students who use the option to transfer under subparagraph (E) and paragraph (5)(A), (7)(C)(i), or (8)(A)(i) or subsection (c)(10)(C)(vii) of this section shall be enrolled in classes and other activities in the public school to which the students transfer in the same manner as all other children at the public school.
+&emsp;&emsp;Students who use the option to transfer under subparagraph (E) and paragraph (5)(A), (7)(C)(i), or (8)(A)(i) or subsection (c)(10)(C)(vii) of this section shall be enrolled in classes and other activities in the publicschool to which the students transfer in the same manner as all other children at the public school.
 
 #### (2) Opportunity to review and present evidence; time limit
 
@@ -70,7 +70,7 @@
 
 #### (A) Revised plan
 
-&emsp;&emsp;After the resolution of a review under paragraph (2), each school identified underparagraph (1) for school improvement shall, not later than 3 months after being so identified, develop or revise a school plan, in consultation with parents, school staff, the local educational agency serving the school, and outside experts, for approval by such local educational agency. The school plan shall cover a 2-year period and—
+&emsp;&emsp;After the resolution of a review under paragraph (2), each school identified under paragraph (1) for school improvement shall, not later than 3 months after being so identified, develop or revise a school plan, in consultation with parents, school staff, the local educational agency serving the school, and outside experts, for approval by such local educational agency. The school plan shall cover a 2-year period and—
 
 &emsp;&emsp;&emsp;(i) incorporate strategies based on scientifically based research that will strengthen the core academic subjects in the school and address the specific academic issues that caused the school to be identified for school improvement, and may include a strategy for the implementation of a comprehensive school reform model that includes each of the components described in part F of this subchapter;
 
@@ -270,7 +270,7 @@
 
 #### (9) Transportation
 
-&emsp;In any case described in paragraph (1)(E) for schools described in paragraphs (1)(A), (5),\(7)(C)(i), and (8)(A), and subsection (c)(10)(C)(vii) of this section, the local educational agency shall provide, or shall pay for the provision of, transportation for the student to the public school the student attends.
+&emsp;In any case described in paragraph (1)(E) for schools described in paragraphs (1)(A), (5), (7)(C)(i), and (8)(A), and subsection (c)(10)(C)(vii) of this section, the local educational agency shall provide, or shall pay for the provision of, transportation for the student to the public school the student attends.
 
 #### (10) Funds for transportation and supplemental educational services
 
@@ -368,7 +368,7 @@
 
 &emsp;&emsp;&emsp;(iii) address the professional development needs of the instructional staff serving the agency by committing to spend not less than 10 percent of the funds received by the local educational agency under subpart 2 of this part for each fiscal year in which the agency is identified for improvement for professional development (including funds reserved for professional development under subsection (b)(3)(A)(iii) of this section), but excluding funds reserved for professional development under section 6319 of this title;
 
-&emsp;&emsp;&emsp;(iv) include specific measurable achievement goals and targets for each of the groups of students identified in the disaggregated data pursuant to section 6311(b)(2)(C)(v) of this title, consistent with adequate yearly progress as defined under section 6311(b)(2) of this title;
+&emsp;&emsp;&emsp;(iv) include specific measurable achievement goals and targets for each of thegroups of students identified in the disaggregated data pursuant to section 6311(b)(2)(C)(v) of this title, consistent with adequate yearly progress as defined under section 6311(b)(2) of this title;
 
 &emsp;&emsp;&emsp;(v) address the fundamental teaching and learning needs in the schools of that agency, and the specific academic problems of low-achieving students, including a determination of why the local educational agency's prior plan failed to bring about increased student academic achievement;
 
@@ -434,7 +434,7 @@
 
 &emsp;&emsp;&emsp;(vi) Abolishing or restructuring the local educational agency.
 
-&emsp;&emsp;&emsp;(vii) Authorizing students to transfer from a school operated by the local educational agency to a higher-performing public school operated by another local educational agency in accordance with subsections (b)(1)(E) and (F) of this section, and providing to such students transportation (or the costs of transportation) to such schools consistent with subsection (b)(9) of this section, in conjunction with carrying out not less than one additional action described under this subparagraph.
+&emsp;&emsp;&emsp;(vii) Authorizing students to transfer from a school operated by the local educational agency to a higher-performing public school operated by another local educational agency in accordance with subsections (b)(1)(E) and (F) of this section, and providing to such students transportation (or the costs of transportation)to such schools consistent with subsection (b)(9) of this section, in conjunction with carrying out not less than one additional action described under this subparagraph.
 
 #### (D) Hearing
 
@@ -454,7 +454,7 @@
 
 #### (d) Construction
 
-Nothing in this section shall be construed to alter or otherwise affect the rights, remedies,and procedures afforded school or school district employees under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
+Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded school or school district employees under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
 
 #### (e) Supplemental educational services
 
@@ -680,7 +680,7 @@ After receiving the notice described in subsection (b)(14)(D) of this section, t
 
 The Higher Education Act of 1965, referred to in subsec. (b)(4)(B)(iv)(II), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-This section on the day preceding January 8, 2002 (as this section was in effect on such day), referred to in subsec. (f), means section 1116 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542, as amended, which was classified to section 6317 of this title prior to the general amendment of this subchapter by Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439.
+This section on the day preceding January 8, 2002 (as this section was in effect on such day), referred to insubsec. (f), means section 1116 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542, as amended, which was classified to section 6317 of this title prior to the general amendment of this subchapter by Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439.
 
 The Indian Self-Determination Act, referred to in subsec. (g)(3)(A), (4)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 

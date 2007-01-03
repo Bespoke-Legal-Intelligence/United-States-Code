@@ -42,7 +42,7 @@ A former spouse is not entitled to an annuity under this section if—
 
 &emsp;&emsp;(A) the annuity of the former spouse shall commence on the date on which the participant would qualify on the basis of the participant's creditable service for an annuity under this subchapter (other than disability annuity) or the date the disability annuity begins, whichever is later; and
 
-&emsp;&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
+&emsp;&emsp;(B) the amount of the annuity of the former spouse shall be calculated on thebasis of the annuity for which the participant would otherwise so qualify.
 
 #### (3) Election of benefits
 

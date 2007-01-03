@@ -6,7 +6,7 @@ Each issue of bonds or other obligations issued under subsection (a) of section 
 
 #### Codification
 
-“Section 7652(b)(3) of title 26” substituted in text for “section 28(b) of the Revised Organic Act of the Virgin Islands \[68 Stat. 508\]”, which was classified to section 3350(c) of former Title 26, Internal Revenue Code, on authority of section 7852(b) of Title 26, Internal Revenue Code, which provided that any reference in any other law to a provision of the Internal Revenue Code of 1939 be deemed a reference to the corresponding provision of the Internal Revenue Code of 1986.
+“Section 7652(b)(3) of title 26” substituted in text for “section 28(b) of the Revised Organic Act of the VirginIslands \[68 Stat. 508\]”, which was classified to section 3350(c) of former Title 26, Internal Revenue Code, on authority of section 7852(b) of Title 26, Internal Revenue Code, which provided that any reference in any other law to a provision of the Internal Revenue Code of 1939 be deemed a reference to the corresponding provision of the Internal Revenue Code of 1986.
 
 Section was not enacted as part of the Revised Organic Act of the Virgin Islands which comprises this chapter.
 

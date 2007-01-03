@@ -26,13 +26,13 @@ The plan shall provide for the establishment by the Secretary of the National Wa
 
 &emsp;(B) the combined total volume of watermelons handled by the producer from the producer's own production and purchases from other producers’ production is more than 50 percent of the producer's own production.
 
-(3)(A) If importers are subject to the plan, the Board shall also include 1 or more representatives of importers, who shall be appointed by the Secretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.
+(3)(A) If importers are subject to the plan, the Board shall also include 1 or more representatives of importers, who shall be appointed by theSecretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.
 
 (B) Importer representation on the Board shall be proportionate to the percentage of assessments paid by importers to the Board, except that at least 1 representative of importers shall serve on the Board.
 
 (C) If importers are subject to the plan and fail to select nominees for appointment to the Board, the Secretary may appoint any importers as the representatives of importers.
 
-(D) Not later than 5 years after the date that importers are subjected to the plan, and every 5years thereafter, the Secretary shall evaluate the average annual percentage of assessments paid by importers during the 3-year period preceding the date of the evaluation and adjust, to the extent practicable, the number of importer representatives on the Board.
+(D) Not later than 5 years after the date that importers are subjected to the plan, and every 5 years thereafter, the Secretary shall evaluate the average annual percentage of assessments paid by importers during the 3-year period preceding the date of the evaluation and adjust, to the extent practicable, the number of importer representatives on the Board.
 
 #### (d) Compensation and expenses of Board
 
@@ -72,7 +72,7 @@ The plan shall provide the following:
 
 #### (i) Submission of programs or projects; approval by Secretary
 
-The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g) of this section, shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
+The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g) of this section, shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotionprogram or project, and that a program or project must be approved by the Secretary before becoming effective.
 
 #### (j) Contract authority
 

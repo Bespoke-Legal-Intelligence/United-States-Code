@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 The term “spell of illness” with respect to any individual means a period of consecutive days—
 
-&emsp;(1) beginning with the first day (not included in a previous spell of illness) (A) on which such individual is furnished inpatient hospital services, inpatient critical access hospital servicesor extended care services, and (B) which occurs in a month for which he is entitled to benefits under part A of this subchapter, and
+&emsp;(1) beginning with the first day (not included in a previous spell of illness) (A) on which such individual is furnished inpatient hospital services, inpatient critical access hospital services or extended care services, and (B) which occurs in a month for which he is entitled to benefits under part A of this subchapter, and
 
 &emsp;(2) ending with the close of the first period of 60 consecutive days thereafter on each of which he is neither an inpatient of a hospital or critical access hospital nor an inpatient of a facility described in section 1396r(a)(2) of this title or subsection (y)(1) of this section.
 
@@ -60,7 +60,7 @@ The term “hospital” (except for purposes of sections 1395f(d), 1395f(f), and
 
 &emsp;&emsp;(C) such institution has made and continues to make a good faith effort to comply with this paragraph, but such compliance is impeded by the lack of qualified nursing personnel in such area;
 
-&emsp;(6)(A) has in effect a hospital utilization review plan which meets the requirements of subsection (k) of this section and (B) has in place a discharge planning process that meetsthe requirements of subsection (ee) of this section;
+&emsp;(6)(A) has in effect a hospital utilization review plan which meets the requirements of subsection (k) of this section and (B) has in place a discharge planning process that meets the requirements of subsection (ee) of this section;
 
 &emsp;(7) in the case of an institution in any State in which State or applicable local law provides for the licensing of hospitals, (A) is licensed pursuant to such law or (B) is approved, by the agency of such State or locality responsible for licensing hospitals, as meeting the standards established for such licensing;
 
@@ -70,7 +70,7 @@ The term “hospital” (except for purposes of sections 1395f(d), 1395f(f), and
 
 > For purposes of subsection (a)(2) of this section, such term includes any institution which meets the requirements of paragraph (1) of this subsection. For purposes of sections 1395f(d) and 1395n(b) of this title (including determination of whether an individual received inpatient hospital services or diagnostic services for purposes of such sections), section 1395f(f)(2) of this title, and subsection (i) of this section, such term includes any institution which (i) meets the requirements of paragraphs (5) and (7) of this subsection, (ii) is not primarily engaged in providing the services described in subsection (j)(1)(A) of this section and (iii) is primarily engaged in providing, by or under the supervision of individuals referred to in paragraph (1) of subsection (r) of this section, to inpatients diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or rehabilitation services for the rehabilitation of injured, disabled, or sick persons. For purposes of section 1395f(f)(1) of this title, such term includes an institution which (i) is a hospital for purposes of sections 1395f(d), 1395f(f)(2), and 1395n(b) of this title and (ii) is accredited by the Joint Commission on Accreditation of Hospitals, or is accredited by or approved by a program of the country in which such institution is located if the Secretary finds the accreditation or comparable approval standards of such program to be essentially equivalent to those of the Joint Commission on Accreditation of Hospitals. Notwithstanding the preceding provisions of this subsection, such term shall not, except for purposes of subsection (a)(2) of this section, include any institution which is primarily for the care and treatment of mental diseases unless it is a psychiatric hospital (as defined in subsection (f) of this section). The term “hospital” also includes a religious nonmedical health care institution (as defined in subsection (ss)(1) of this section), but only with respect to items and services ordinarily furnished by such institution to inpatients, and payment may be made with respect to services provided by or in such an institution only to such extent and under such conditions, limitations, and requirements (in addition to or in lieu of the conditions, limitations, and requirements otherwise applicable) as may be provided in regulations consistent with section 1395i–5 of this title. For provisions deeming certain requirements of this subsection to be met in the case of accredited institutions, see section 1395bb of this title. The term “hospital” also includes a facility of fifty beds or less which is located in an area determined by the Secretary to meet the definition relating to a rural area described in subparagraph (A) of paragraph (5) of this subsection and which meets the other requirements of this subsection, except that—
 
-&emsp;(A) with respect to the requirements for nursing services applicable after December 31, 1978, such requirements shall provide for temporary waiver of the requirements, for such period as the Secretary deems appropriate, where (i) the facility's failure to fully comply with the requirements is attributable to a temporary shortage of qualified nursing personnel in the area in which the facility is located, (ii) a registered professional nurse is present on the premises to render or supervise the nursing service provided during at least the regular daytime shift, and (iii) the Secretary determines that the employment of such nursing personnel as are available to the facility during such temporary period will not adversely affect the health and safety of patients;
+&emsp;(A) with respect to the requirements for nursing services applicable after December 31, 1978, such requirements shall provide for temporary waiver of the requirements, for such period as the Secretary deems appropriate, where (i) the facility's failure to fully complywith the requirements is attributable to a temporary shortage of qualified nursing personnel in the area in which the facility is located, (ii) a registered professional nurse is present on the premises to render or supervise the nursing service provided during at least the regular daytime shift, and (iii) the Secretary determines that the employment of such nursing personnel as are available to the facility during such temporary period will not adversely affect the health and safety of patients;
 
 &emsp;(B) with respect to the health and safety requirements promulgated under paragraph (9), such requirements shall be applied by the Secretary to a facility herein defined in such manner as to assure that personnel requirements take into account the availability of technical personnel and the educational opportunities for technical personnel in the area in which such facility is located, and the scope of services rendered by such facility; and the Secretary, by regulations, shall provide for the continued participation of such a facility where such personnel requirements are not fully met, for such period as the Secretary determines that (i) the facility is making good faith efforts to fully comply with the personnel requirements, (ii) the employment by the facility of such personnel as are available to the facility will not adversely affect the health and safety of patients, and (iii) if the Secretary has determined that because of the facility's waiver under this subparagraph the facility should limit its scope of services in order not to adversely affect the health and safety of the facility's patients, the facility is so limiting the scope of services it provides; and
 
@@ -118,7 +118,7 @@ The term “extended care services” means the following items and services fur
 
 #### (i) Post-hospital extended care services
 
-The term “post-hospital extended care services” means extended care services furnished an individual after transfer from a hospital in which he was an inpatient for not less than 3 consecutive days before his discharge from the hospital in connection with such transfer. For purposes of the preceding sentence, items and services shall be deemed to have been furnished to an individual after transfer from a hospital, and he shall be deemed to have been an inpatient in the hospital immediately before transfer therefrom, if he is admitted to the skilled nursing facility (A) within 30 days after discharge from such hospital, or (B) within such time as it would be medically appropriate to begin an active course of treatment, in the case of an individual whose condition is such that skilled nursing facility care would not be medically appropriate within 30 days after discharge from a hospital; and an individual shall be deemed not to have been discharged from a skilled nursing facility if, within 30 days after discharge therefrom, he is admitted to such facility or any other skilled nursing facility.
+The term “post-hospital extended care services” means extended care services furnished an individual after transfer from a hospital in which he was an inpatient for not less than 3 consecutive days before his discharge from the hospital in connection with such transfer. Forpurposes of the preceding sentence, items and services shall be deemed to have been furnished to an individual after transfer from a hospital, and he shall be deemed to have been an inpatient in the hospital immediately before transfer therefrom, if he is admitted to the skilled nursing facility (A) within 30 days after discharge from such hospital, or (B) within such time as it would be medically appropriate to begin an active course of treatment, in the case of an individual whose condition is such that skilled nursing facility care would not be medically appropriate within 30 days after discharge from a hospital; and an individual shall be deemed not to have been discharged from a skilled nursing facility if, within 30 days after discharge therefrom, he is admitted to such facility or any other skilled nursing facility.
 
 #### (j) Skilled nursing facility
 
@@ -132,7 +132,7 @@ A utilization review plan of a hospital or skilled nursing facility shall be con
 
 &emsp;(2) for such review to be made by either (A) a staff committee of the institution composed of two or more physicians (of which at least two must be physicians described in subsection (r)(1) of this section), with or without participation of other professional personnel, or (B) a group outside the institution which is similarly composed and (i) which is established by the local medical society and some or all of the hospitals and skilled nursing facilities in the locality, or (ii) if (and for as long as) there has not been established such a group which serves such institution, which is established in such other manner as may be approved by the Secretary;
 
-&emsp;(3) for such review, in each case of inpatient hospital services or extended care services furnished to such an individual during a continuous period of extended duration, as of such days of such period (which may differ for different classes of cases) as may be specified inregulations, with such review to be made as promptly as possible, after each day so specified, and in no event later than one week following such day; and
+&emsp;(3) for such review, in each case of inpatient hospital services or extended care services furnished to such an individual during a continuous period of extended duration, as of such days of such period (which may differ for different classes of cases) as may be specified in regulations, with such review to be made as promptly as possible, after each day so specified, and in no event later than one week following such day; and
 
 &emsp;(4) for prompt notification to the institution, the individual, and his attending physician of any finding (made after opportunity for consultation to such attending physician) by the physician members of such committee or group that any further stay in the institution is not medically necessary.
 
@@ -150,7 +150,7 @@ A hospital and a skilled nursing facility shall be considered to have a transfer
 
 #### (m) Home health services
 
-The term “home health services” means the following items and services furnished to an individual, who is under the care of a physician, by a home health agency or by others under arrangements with them made by such agency, under a plan (for furnishing such items and services to such individual) established and periodically reviewed by a physician, which items and services are, except as provided in paragraph (7), provided on a visiting basis in a place of residence used as such individual's home—
+The term “home health services” means the following items and services furnished to an individual, who is under the care of a physician, by a home health agency or by others under arrangements with them made by such agency, under a plan (for furnishing such items and services to such individual) established and periodically reviewed by a physician, which items andservices are, except as provided in paragraph (7), provided on a visiting basis in a place of residence used as such individual's home—
 
 &emsp;(1) part-time or intermittent nursing care provided by or under the supervision of a registered professional nurse;
 
@@ -172,7 +172,7 @@ The term “home health services” means the following items and services furni
 
 > &emsp;but not including transportation of the individual in connection with any such item or service;
 
-> excluding, however, any item or service if it would not be included under subsection (b) of this section if furnished to an inpatient of a hospital. For purposes of paragraphs (1) and (4), the term “part-time or intermittent services” means skilled nursing and home health aide services furnished any number of days per week as long as they are furnished (combined) less than 8 hours each day and 28 or fewer hours each week (or, subject to review on a case-by-casebasis as to the need for care, less than 8 hours each day and 35 or fewer hours per week). For purposes of sections 1395f(a)(2)(C) and 1395n(a)(2)(A) of this title, “intermittent” means skilled nursing care that is either provided or needed on fewer than 7 days each week, or less than 8 hours of each day for periods of 21 days or less (with extensions in exceptional circumstances when the need for additional care is finite and predictable).
+> excluding, however, any item or service if it would not be included under subsection (b) of this section if furnished to an inpatient of a hospital. For purposes of paragraphs (1) and (4), the term “part-time or intermittent services” means skilled nursing and home health aide services furnished any number of days per week as long as they are furnished (combined) less than 8 hours each day and 28 or fewer hours each week (or, subject to review on a case-by-case basis as to the need for care, less than 8 hours each day and 35 or fewer hours per week). For purposes of sections 1395f(a)(2)(C) and 1395n(a)(2)(A) of this title, “intermittent” means skilled nursing care that is either provided or needed on fewer than 7 days each week, or less than 8 hours of each day for periods of 21 days or less (with extensions in exceptional circumstances when the need for additional care is finite and predictable).
 
 #### (n) Durable medical equipment
 
@@ -222,7 +222,7 @@ The term “outpatient physical therapy services” means physical therapy servi
 
 &emsp;&emsp;(A) if furnished by a clinic or rehabilitation agency, or by others under arrangements with such clinic or agency, unless such clinic or rehabilitation agency—
 
-&emsp;&emsp;&emsp;(i) provides an adequate program of physical therapy services for outpatientsand has the facilities and personnel required for such program or required for the supervision of such a program, in accordance with such requirements as the Secretary may specify,
+&emsp;&emsp;&emsp;(i) provides an adequate program of physical therapy services for outpatients and has the facilities and personnel required for such program or required for the supervision of such a program, in accordance with such requirements as the Secretary may specify,
 
 &emsp;&emsp;&emsp;(ii) has policies, established by a group of professional personnel, including one or more physicians (associated with the clinic or rehabilitation agency) and one or more qualified physical therapists, to govern the services (referred to in clause (i)) it provides,
 
@@ -250,7 +250,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(1) physicians’ services;
 
-&emsp;(2)(A) services and supplies (including drugs and biologicals which are not usually self-administered by the patient) furnished as an incident to a physician's professional service, of kinds which are commonly furnished in physicians’ offices and are commonly either rendered without charge or included in the physicians’ bills (or would have been so includedbut for the application of section 1395w–3b of this title);
+&emsp;(2)(A) services and supplies (including drugs and biologicals which are not usually self-administered by the patient) furnished as an incident to a physician's professional service, of kinds which are commonly furnished in physicians’ offices and are commonly either rendered without charge or included in the physicians’ bills (or would have been so included but for the application of section 1395w–3b of this title);
 
 &emsp;(B) hospital services (including drugs and biologicals which are not usually self-administered by the patient) incident to physicians’ services rendered to outpatients and partial hospitalization services incident to such services;
 
@@ -276,7 +276,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(J) prescription drugs used in immunosuppressive therapy furnished, to an individual who receives an organ transplant for which payment is made under this subchapter;
 
-&emsp;(K)(i) services which would be physicians’ services and services described in subsection (ww)(1) of this section if furnished by a physician (as defined in subsection (r)(1) of this section) and which are performed by a physician assistant (as defined in subsection (aa)(5) of this section) under the supervision of a physician (as so defined) and which the physician assistant is legally authorized to perform by the State in which the services are performed, and such services and supplies furnished as incident to such services as would be covered under subparagraph (A) if furnished incident to a physician's professional service, but only if no facility or other provider charges or is paid any amounts with respect to the furnishing of such services,<sup>1</sup>
+&emsp;(K)(i) services which would be physicians’ services and services described in subsection (ww)(1) of this section if furnished by a physician (as defined in subsection (r)(1) of this section) and which are performed by a physician assistant (as defined in subsection (aa)(5) of this section) under the supervision of a physician (as so defined) and which the physician assistant is legally authorized to perform by the State in which the services are performed, and such services and supplies furnished as incident to such services as would be covered under subparagraph (A) if furnished incident to a physician's professional service, but only if no facility or other provider charges or ispaid any amounts with respect to the furnishing of such services,<sup>1</sup>
 
 &emsp;(ii) services which would be physicians’ services and services described in subsection (ww)(1) of this section if furnished by a physician (as defined in subsection (r)(1) of this section) and which are performed by a nurse practitioner or clinical nurse specialist (as defined in subsection (aa)(5) of this section) working in collaboration (as defined in subsection (aa)(6) of this section) with a physician (as defined in subsection (r)(1) of this section) which the nurse practitioner or clinical nurse specialist is legally authorized to perform by the State in which the services are performed, and such services and supplies furnished as an incident to such services as would be covered under subparagraph (A) if furnished incident to a physician's professional service, but only if no facility or other provider charges or is paid any amounts with respect to the furnishing of such services;
 
@@ -316,9 +316,21 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(X) cardiovascular screening blood tests (as defined in subsection (xx)(1) of this section);
 
-&emsp;(Y) diabetes screening tests (as defined in subsection (yy) of this section); and
+&emsp;(Y) diabetes screening tests (as defined in subsection (yy) of this section);
 
-&emsp;(Z) intravenous immune globulin for the treatment of primary immune deficiency diseases in the home (as defined in subsection (zz) of this section);
+&emsp;(Z) intravenous immune globulin for the treatment of primary immune deficiency diseases in the home (as defined in subsection (zz) of this section); and
+
+&emsp;(AA) ultrasound screening for abdominal aortic aneurysm (as defined in subsection (bbb)) for an individual—
+
+&emsp;&emsp;(i) who receives a referral for such an ultrasound screening as a result of an initial preventive physical examination (as defined in subsection (ww)(1));
+
+&emsp;&emsp;(ii) who has not been previously furnished such an ultrasound screening under this subchapter; and
+
+&emsp;&emsp;(iii) who—
+
+&emsp;&emsp;&emsp;(I) has a family history of abdominal aortic aneurysm; or
+
+&emsp;&emsp;&emsp;(II) manifests risk factors included in a beneficiary category recommended for screening by the United States Preventive Services Task Force regarding abdominal aortic aneurysms;
 
 &emsp;(3) diagnostic X-ray tests (including tests under the supervision of a physician, furnished in a place of residence used as the patient's home, if the performance of such tests meets such conditions relating to health and safety as the Secretary may find necessary and including diagnostic mammography if conducted by a facility that has a certificate (or provisional certificate) issued under section 354 of the Public Health Service Act \[42 U.S.C. 263b\]), diagnostic laboratory tests, and other diagnostic tests;
 
@@ -330,7 +342,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(7) ambulance service where the use of other methods of transportation is contraindicated by the individual's condition, but, subject to section 1395m(<i>l</i>)(14) of this title, only to the extent provided in regulations;
 
-&emsp;(8) prosthetic devices (other than dental) which replace all or part of an internal body organ (including colostomy bags and supplies directly related to colostomy care), including replacement of such devices, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens;
+&emsp;(8) prosthetic devices (other than dental) which replace all or part of an internal body organ (including colostomy bags and suppliesdirectly related to colostomy care), including replacement of such devices, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens;
 
 &emsp;(9) leg, arm, back, and neck braces, and artificial legs, arms, and eyes, including replacements if required because of a change in the patient's physical condition;
 
@@ -362,7 +374,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(B) meets such other conditions relating to the health and safety of individuals with respect to whom such tests are performed as the Secretary may find necessary.
 
-> There shall be excluded from the diagnostic services specified in paragraph (2)(C) any item orservice (except services referred to in paragraph (1)) which would not be included under subsection (b) of this section if it were furnished to an inpatient of a hospital. None of the items and services referred to in the preceding paragraphs (other than paragraphs (1) and (2)(A)) of this subsection which are furnished to a patient of an institution which meets the definition of a hospital for purposes of section 1395f(d) of this title shall be included unless such other conditions are met as the Secretary may find necessary relating to health and safety of individuals with respect to whom such items and services are furnished.
+> There shall be excluded from the diagnostic services specified in paragraph (2)(C) any item or service (except services referred to in paragraph (1)) which would not be included under subsection (b) of this section if it were furnished to an inpatient of a hospital. None of the items and services referred to in the preceding paragraphs (other than paragraphs (1) and (2)(A)) of this subsection which are furnished to a patient of an institution which meets the definition of a hospital for purposes of section 1395f(d) of this title shall be included unless such other conditions are met as the Secretary may find necessary relating to health and safety of individuals with respect to whom such items and services are furnished.
 
 #### (t) Drugs and biologicals
 
@@ -374,7 +386,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(i) the drug has been approved by the Food and Drug Administration; and
 
-&emsp;(ii)(I) such use is supported by one or more citations which are included (or approved for inclusion) in one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, the United States Pharmacopoeia-Drug Information, and other authoritative compendia as identified by the Secretary, unless the Secretary has determined that the use is not medically appropriate or the use is identified as not indicated in one or more such compendia, or
+&emsp;(ii)(I) such use is supported by one or more citations which are included (or approved for inclusion) in one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, the United States Pharmacopoeia-Drug Information (or its successor publications), and other authoritative compendia as identified by the Secretary, unless the Secretary has determined that the use is not medically appropriate or the use is identified as not indicated in one or more such compendia, or
 
 &emsp;(II) the carrier involved determines, based upon guidance provided by the Secretary to carriers for determining accepted uses of drugs, that such use is medically accepted based on supportive clinical evidence in peer reviewed medical literature appearing in publications which have been identified for purposes of this subclause by the Secretary.
 
@@ -402,7 +414,7 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (D) Where (i) physicians furnish services which are either inpatient hospital services (including services in conjunction with the teaching programs of such hospital) by reason of paragraph (7) of subsection (b) of this section or for which entitlement exists by reason of clause (II) of section 1395k(a)(2)(B)(i) of this title, and (ii) such hospital (or medical school under arrangement with such hospital) incurs no actual cost in the furnishing of such services, the reasonable cost of such services shall (under regulations of the Secretary) be deemed to be the cost such hospital or medical school would have incurred had it paid a salary to such physicians rendering such services approximately equivalent to the average salary paid to all physicians employed by such hospital (or if such employment does not exist, or is minimal in such hospital, by similar hospitals in a geographic area of sufficient size to assure reasonable inclusion of sufficient physicians in development of such average salary).
 
-(E) Such regulations may, in the case of skilled nursing facilities in any State, provide for the use of rates, developed by the State in which such facilities are located, for the payment of the cost of skilled nursing facility services furnished under the State's plan approved under subchapter XIX of this chapter (and such rates may be increased by the Secretary on a class or size of institution or on a geographical basis by a percentage factor not in excess of 10 percent to take into account determinable items or services or other requirements under this subchapter not otherwise included in the computation of such State rates), if the Secretary finds that such rates are reasonably related to (but not necessarily limited to) analyses undertaken by such State of costs of care in comparable facilities in such State. Notwithstanding the previous sentence, such regulations with respect to skilled nursing facilities shall take into account (in a manner consistent with subparagraph (A) and based on patient-days of services furnished) the costs (including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) of such facilities complying with the requirements of subsections (b), (c), and (d) of section 1395i–3 of this title (including the costs of conducting nurse aide training and competency evaluation programs and competency evaluation programs).
+(E) Such regulations may, in the case of skilled nursing facilities in any State, provide for the use of rates, developed by the State in which such facilities are located, for the payment of the cost of skilled nursing facility services furnished under the State's plan approved under subchapter XIX of this chapter (and such rates may be increased by the Secretary on a class or size of institution or on a geographical basis by a percentage factor not in excess of 10 percent to take into account determinable items or services or other requirements under this subchapter not otherwise included in the computation of such State rates), if the Secretary finds that such rates are reasonably related to (but not necessarily limited to) analyses undertaken by such State of costs of care in comparable facilities in such State. Notwithstanding the previous sentence, such regulations with respect to skilled nursing facilities shall takeinto account (in a manner consistent with subparagraph (A) and based on patient-days of services furnished) the costs (including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) of such facilities complying with the requirements of subsections (b), (c), and (d) of section 1395i–3 of this title (including the costs of conducting nurse aide training and competency evaluation programs and competency evaluation programs).
 
 (F) Such regulations shall require each provider of services (other than a fund) to make reports to the Secretary of information described in section 1320a(a) of this title in accordance with the uniform reporting system (established under such section) for that type of provider.
 
@@ -420,7 +432,7 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (II) If a hospital has a unit which is a skilled nursing facility, the payment rate referred to in clause (i) for the hospital is a rate equal to the lesser of the rate described in subclause (I) or the allowable costs in effect under this subchapter for extended care services provided to patients of such unit.
 
-(iii) Any day on which an individual receives inpatient services for which payment is made under this subparagraph shall, for purposes ofthis chapter (other than this subparagraph), be deemed to be a day on which the individual received inpatient hospital services.
+(iii) Any day on which an individual receives inpatient services for which payment is made under this subparagraph shall, for purposes of this chapter (other than this subparagraph), be deemed to be a day on which the individual received inpatient hospital services.
 
 (iv) In determining under clause (i), in the case of a public hospital, whether or not there is an excess of hospital beds in the area of such hospital, such determination shall be made on the basis of only the public hospitals (including the hospital) which are in the area of the hospital and which are under common ownership with that hospital.
 
@@ -436,7 +448,7 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (I) In determining such reasonable cost, the Secretary may not include any costs incurred by a provider with respect to any services furnished in connection with matters for which payment may be made under this subchapter and furnished pursuant to a contract between the provider and any of its subcontractors which is entered into after December 5, 1980, and the value or cost of which is $10,000 or more over a twelve-month period unless the contract contains a clause to the effect that—
 
-&emsp;(i) until the expiration of four years after the furnishing of such services pursuant to such contract, the subcontractor shall make available, upon written request by the Secretary, or upon request by the Comptroller General, or any of their duly authorized representatives, the contract, and books, documents and records of such subcontractor that are necessary to certify the nature and extent of such costs, and
+&emsp;(i) until the expiration of four years after the furnishing of such services pursuant tosuch contract, the subcontractor shall make available, upon written request by the Secretary, or upon request by the Comptroller General, or any of their duly authorized representatives, the contract, and books, documents and records of such subcontractor that are necessary to certify the nature and extent of such costs, and
 
 &emsp;(ii) if the subcontractor carries out any of the duties of the contract through a subcontract, with a value or cost of $10,000 or more over a twelve-month period, with a related organization, such subcontract shall contain a clause to the effect that until the expiration of four years after the furnishing of such services pursuant to such subcontract, the related organization shall make available, upon written request by the Secretary, or upon request by the Comptroller General, or any of their duly authorized representatives, the subcontract, and books, documents and records of such organization that are necessary to verify the nature and extent of such costs.
 
@@ -528,7 +540,7 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (IV) In applying subclauses (I) and (II) to services for which payment is made on the basis of a blend amount under section 1395<i>l</i>(i)(3)(A)(ii) or 1395<i>l</i>(n)(1)(A)(ii) of this title, the costs reflected in the amounts described in sections 1395<i>l</i>(i)(3)(B)(i)(I) and 1395<i>l</i>(n)(1)(B)(i)(I) of this title, respectively, shall be reduced in accordance with such subclause.<sup>4</sup>
 
-(T) In determining such reasonable costs for hospitals, no reduction in copayments under section 1395<i>l</i>(t)(5)(B) <sup>5</sup> of this title shall be treated as a bad debt and the amount of bad debts otherwise treated as allowable costs which are attributable to the deductibles and coinsurance amounts under this subchapter shall be reduced—
+(T) In determining such reasonable costs for hospitals, no reduction in copayments under section 1395<i>l</i>(t)(8)(B) of this title shall be treated as a bad debt and the amount of bad debts otherwise treated as allowable costs which are attributable to the deductibles and coinsurance amounts under this subchapter shall be reduced—
 
 &emsp;(i) for cost reporting periods beginning during fiscal year 1998, by 25 percent of such amount otherwise allowable,
 
@@ -540,13 +552,19 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (U) In determining the reasonable cost of ambulance services (as described in subsection (s)(7) of this section) provided during fiscal year 1998, during fiscal year 1999, and during so much of fiscal year 2000 as precedes January 1, 2000, the Secretary shall not recognize the costs per trip in excess of costs recognized as reasonable for ambulance services provided on a per trip basis during the previous fiscal year (after application of this subparagraph), increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) as estimated by the Secretary for the 12-month period ending with the midpoint of the fiscal year involved reduced by 1.0 percentage point. For ambulance services provided after June 30, 1998, the Secretary may provide that claims for such services must include a code (or codes) under a uniform coding system specified by the Secretary that identifies the services furnished.
 
+(V) In determining such reasonable costs for skilled nursing facilities with respect to cost reporting periods beginning on or after October 1, 2005, the amount of bad debts otherwise treated as allowed costs which are attributable to the coinsurance amounts under this subchapter for individuals who are entitled to benefits under part A and—
+
+&emsp;(i) are not described in section 1396u–5(c)(6)(A)(ii) of this title shall be reduced by 30 percent of such amount otherwise allowable; and
+
+&emsp;(ii) are described in such section shall not be reduced.
+
 (2)(A) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations more expensive than semi-private accommodations, the amount taken into account for purposes of payment under this subchapter with respect to such services may not exceed the amount that would be taken into account with respect to such services if furnished in such semi-private accommodations unless the more expensive accommodations were required for medical reasons.
 
 (B) Where a provider of services which has an agreement in effect under this subchapter furnishes to an individual items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under part A or part B of this subchapter, as the case may be, the Secretary shall take into account for purposes of payment to such provider of services only the items or services with respect to which such payment may be made.
 
 (3) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations other than, but not more expensive than, semi-private accommodations and the use of such other accommodations rather than semi-private accommodations was neither at the request of the patient nor for a reason which the Secretary determines is consistent with the purposes of this subchapter, the amount of the payment with respect to such bed and board under part A of this subchapter shall be the amount otherwise payable under this subchapter for such bed and board furnished in semi-private accommodations minus the difference between the charge customarily made by the hospital or skilled nursing facility for bed and board in semi-private accommodations and the charge customarily made by it for bed and board in the accommodations furnished.
 
-(4) If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii),<sup>6</sup> of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
+(4) If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii),<sup>5</sup> of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
 
 (5)(A) Where physical therapy services, occupational therapy services, speech therapy services, or other therapy services or services of other health-related personnel (other than physicians) are furnished under an arrangement with a provider of services or other organization, specified in the first sentence of subsection (p) of this section (including through the operation of subsection (g) of this section) the amount included in any payment to such provider or other organization under this subchapter as the reasonable cost of such services (as furnished under such arrangements) shall not exceed an amount equal to the salary which would reasonably have been paid for such services (together with any additional costs that would have been incurred by the provider or other organization) to the person performing them if they had been performed in an employment relationship with such provider or other organization (rather than under such arrangement) plus the cost of such other expenses (including a reasonable allowance for traveltime and other reasonable types of expense related to any differences in acceptable methods of organization for the provision of such therapy) incurred by such person, as the Secretary may in regulations determine to be appropriate.
 
@@ -580,7 +598,7 @@ Items unrelated to patient care.—Reasonable costs do not include costs for the
 
 (1) The term “arrangements” is limited to arrangements under which receipt of payment by the hospital, critical access hospital, skilled nursing facility, home health agency, or hospice program (whether in its own right or as agent), with respect to services for which an individual is entitled to have payment made under this subchapter, discharges the liability of such individual or any other person to pay for the services.
 
-(2) Utilization review activities conducted, in accordance with the requirements of the program established under part B of subchapter XI of this chapter with respect to services furnished by a hospital or critical access hospital to patients insured under part A of this subchapter or entitled to have payment made for such services under part B of this subchapter or under a State plan approved under subchapter XIX of this chapter, by a quality control and peer review organization designated for the area in which such hospital or critical access hospital is located shall be deemed to have been conducted pursuant to arrangements between such hospital or critical access hospital and such organization under which such hospital or critical access hospital is obligated to pay to such organization, as a condition of receiving payment for hospital or critical access hospital services so furnished under this part or under such a State plan, such amount as is reasonably incurred and requested (as determined under regulations of the Secretary) by such organization in conducting such review activities with respect to services furnished by such hospital or critical access hospital to such patients.
+(2) Utilization review activities conducted, in accordance with the requirements of the program established under part B of subchapter XI of this chapter with respect to services furnished by a hospital or critical access hospital to patients insured under part A of this subchapter or entitled to have payment made for such services under part B of this subchapter orunder a State plan approved under subchapter XIX of this chapter, by a quality control and peer review organization designated for the area in which such hospital or critical access hospital is located shall be deemed to have been conducted pursuant to arrangements between such hospital or critical access hospital and such organization under which such hospital or critical access hospital is obligated to pay to such organization, as a condition of receiving payment for hospital or critical access hospital services so furnished under this part or under such a State plan, such amount as is reasonably incurred and requested (as determined under regulations of the Secretary) by such organization in conducting such review activities with respect to services furnished by such hospital or critical access hospital to such patients.
 
 #### (x) State and United States
 
@@ -622,7 +640,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 (1) The term “rural health clinic services” means—
 
-&emsp;(A) physicians’ services and such services and supplies as are covered under subsection (s)(2)(A) of this section if furnished as an incident to a physician's professional service and items and services described in subsection (s)(10) of this section,
+&emsp;(A) physicians’ services and such services and supplies as are covered under subsection (s)(2)(A) of this section if furnished as an incident to a physician's professional service anditems and services described in subsection (s)(10) of this section,
 
 &emsp;(B) such services furnished by a physician assistant or a nurse practitioner (as defined in paragraph (5)), by a clinical psychologist (as defined by the Secretary) or by a clinical social worker (as defined in subsection (hh)(1) of this section), and such services and supplies furnished as an incident to his service as would otherwise be covered if furnished by a physician or as an incident to a physician's service, and
 
@@ -648,27 +666,27 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 &emsp;(H) in compliance with State and Federal law, has available for administering to patients of the clinic at least such drugs and biologicals as are determined by the Secretary to be necessary for the treatment of emergency cases (as defined in regulations) and has appropriate procedures or arrangements for storing, administering, and dispensing any drugs and biologicals;
 
-&emsp;(I) has a quality assessment and performance improvement program, and appropriateprocedures for review of utilization of clinic services, as the Secretary may specify;
+&emsp;(I) has a quality assessment and performance improvement program, and appropriate procedures for review of utilization of clinic services, as the Secretary may specify;
 
 &emsp;(J) has a nurse practitioner, a physician assistant, or a certified nurse-midwife (as defined in subsection (gg) of this section) available to furnish patient care services not less than 50 percent of the time the clinic operates; and
 
 &emsp;(K) meets such other requirements as the Secretary may find necessary in the interest of the health and safety of the individuals who are furnished services by the clinic.
 
-> For the purposes of this subchapter, such term includes only a facility which (i) is located in an area that is not an urbanized area (as defined by the Bureau of the Census) and in which there are insufficient numbers of needed health care practitioners (as determined by the Secretary), and that, within the previous 3-year period, has been designated by the chief executive officer of the State and certified by the Secretary as an area with a shortage of personal health services or designated by the Secretary either (I) as an area with a shortage of personal health services under section 330(b)(3) <sup>7</sup> or 1302(7) \[42 U.S.C. 300e–1(7)\] of the Public Health Service Act, (II) as a health professional shortage area described in section 332(a)(1)(A) of that Act \[42 U.S.C. 254e(a)(1)(A)\] because of its shortage of primary medical care manpower, (III) as a high impact area described in section 329(a)(5) <sup>7</sup> of that Act, or (IV) as an area which includes a population group which the Secretary determines has a health manpower shortage under section 332(a)(1)(B) of that Act \[42 U.S.C. 254e(a)(1)(B)\], (ii) has filed an agreement with the Secretary by which it agrees not to charge any individual or other person for items or services for which such individual is entitled to have payment made under this subchapter, except for the amount of any deductible or coinsurance amount imposed with respect to such items or services (not in excess of the amount customarily charged for such items and services by such clinic), pursuant to subsections (a) and (b) of section 1395<i>l</i> of this title, (iii) employs a physician assistant or nurse practitioner, and (iv) is not a rehabilitation agency or a facility which is primarily for the care and treatment of mental diseases. A facility that is in operation and qualifies as a rural health clinic under this subchapter or subchapter XIX of this chapter and that subsequently fails to satisfy the requirement of clause (i) shall be considered, for purposes of this subchapter and subchapter XIX of this chapter, as still satisfying the requirement of such clause if it is determined, in accordance with criteria established by the Secretary in regulations, to be essential to the delivery of primary care services that would otherwise be unavailable in the geographic area served by the clinic. If a State agency has determined under section 1395aa(a) of this title that a facility is a rural health clinic and the facility has applied to the Secretary for approval as such a clinic, the Secretary shall notify the facility of the Secretary's approval or disapproval not later than 60 days after the date of the State agency determination or the application (whichever is later).
+> For the purposes of this subchapter, such term includes only a facility which (i) is located in an area that is not an urbanized area (as defined by the Bureau of the Census) and in which there are insufficient numbers of needed health care practitioners (as determined by the Secretary), and that, within the previous 3-year period, has been designated by the chief executive officer of the State and certified by the Secretary as an area with a shortage of personal health services or designated by the Secretary either (I) as an area with a shortage of personal health services under section 330(b)(3) or 1302(7) of the Public Health Service Act \[42 U.S.C. 254b(b)(3), 300e–1(7)\], (II) as a health professional shortage area described in section 332(a)(1)(A) of that Act \[42 U.S.C. 254e(a)(1)(A)\] because of its shortage of primary medical care manpower, (III) as a high impact area described in section 329(a)(5) <sup>6</sup> of that Act, or (IV) as an area which includes a population group which the Secretary determines has a health manpower shortage under section 332(a)(1)(B) of that Act \[42 U.S.C. 254e(a)(1)(B)\], (ii) has filed an agreement with the Secretary by which it agrees not to charge any individual or other person for items or services for which such individual is entitled to have payment made under this subchapter, except for the amount of any deductible or coinsurance amount imposed with respect to such items or services (not in excess of the amount customarily charged for such items and services by such clinic), pursuant to subsections (a) and (b) of section 1395<i>l</i> of this title, (iii) employs a physician assistant or nurse practitioner, and (iv) is not a rehabilitation agency or a facility which is primarily for the care and treatment of mental diseases. A facility that is in operation and qualifies as a rural health clinic under this subchapter or subchapter XIX of this chapter and that subsequently fails to satisfy the requirement of clause (i) shall be considered, for purposes of this subchapter and subchapter XIX of this chapter, as still satisfying the requirement of such clause if it is determined, in accordance with criteria established by the Secretary in regulations, to be essential to the delivery of primary care services that would otherwise be unavailable in the geographic area served by the clinic. If a State agency has determined under section 1395aa(a) of this title that a facility is a rural health clinic and the facility has applied to the Secretary for approval as such a clinic, the Secretary shall notify the facility of the Secretary's approval or disapproval not later than 60 days after the date of the State agency determination or the application (whichever is later).
 
 (3) The term “Federally qualified health center services” means—
 
-&emsp;(A) services of the type described in subparagraphs (A) through (C) of paragraph (1), and
+&emsp;(A) services of the type described in subparagraphs (A) through (C) of paragraph (1) and services described in subsections (qq) and (vv); and
 
-&emsp;(B) preventive primary health services that a center is required to provide under sections 329, 330, and 340 <sup>7</sup> of the Public Health Service Act,
+&emsp;(B) preventive primary health services that a center is required to provide under section 330 of the Public Health Service Act \[42 U.S.C. 254b\],
 
-> when furnished to an individual as an outpatient of a Federally qualified health center and, for this purpose, any reference to a rural health clinic or a physician described in paragraph (2)(B) is deemed a reference to a Federally qualified health center or a physician at the center, respectively.
+> when furnished to an individual as an outpatient of a Federally qualified health center by the center or by a health care professional under contract with the center and, for this purpose, any reference to a rural health clinic or a physician described in paragraph (2)(B) is deemed a reference to a Federally qualified health center or a physician at the center, respectively.
 
 (4) The term “Federally qualified health center” means an entity which—
 
-&emsp;(A)(i) is receiving a grant under section 330 (other than subsection (h)) of the Public Health Service Act \[42 U.S.C. 254b\], or
+&emsp;(A)(i) is receiving a grant under section 330 of the Public Health Service Act \[42 U.S.C. 254b\], or
 
-&emsp;(ii)(I) is receiving funding from such a grant under a contract with the recipient of such a grant, and (II) meets the requirements to receive a grant under section 330 (other than subsection (h)) of such Act \[42 U.S.C. 254b\];
+&emsp;(ii)(I) is receiving funding from such a grant under a contract with the recipient of such a grant, and (II) meets the requirements to receive a grant under section 330 of such Act \[42 U.S.C. 254b\];
 
 &emsp;(B) based on the recommendation of the Health Resources and Services Administration within the Public Health Service, is determined by the Secretary to meet the requirements for receiving such a grant;
 
@@ -696,7 +714,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 (1) The term “services of a certified registered nurse anesthetist” means anesthesia services and related care furnished by a certified registered nurse anesthetist (as defined in paragraph (2)) which the nurse anesthetist is legally authorized to perform as such by the State in which the services are furnished.
 
-(2) The term “certified registered nurse anesthetist” means a certified registered nurse anesthetist licensed by the State who meets such education, training, and other requirements relating to anesthesia services and related care as the Secretary may prescribe. In prescribing such requirements the Secretary may use the same requirements as those established by a national organization for the certification of nurse anesthetists. Such term also includes, as prescribed by the Secretary, an anesthesiologist assistant.
+(2) The term “certified registered nurse anesthetist” means a certified registered nurse anesthetist licensed by the State who meets such education, training, and other requirements relating to anesthesia services and related care as the Secretary may prescribe. In prescribing such requirements the Secretary may use the samerequirements as those established by a national organization for the certification of nurse anesthetists. Such term also includes, as prescribed by the Secretary, an anesthesiologist assistant.
 
 #### (cc) Comprehensive outpatient rehabilitation facility services
 
@@ -808,7 +826,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 (3)(A) An individual is considered to be “terminally ill” if the individual has a medical prognosis that the individual's life expectancy is 6 months or less.
 
-(B) The term “attending physician” means, with respect to an individual, the physician (asdefined in subsection (r)(1) of this section) or nurse practitioner (as defined in subsection (aa)(5) of this section), who may be employed by a hospice program, whom the individual identifies as having the most significant role in the determination and delivery of medical care to the individual at the time the individual makes an election to receive hospice care.
+(B) The term “attending physician” means, with respect to an individual, the physician (as defined in subsection (r)(1) of this section) or nurse practitioner (as defined in subsection (aa)(5) of this section), who may be employed by a hospice program, whom the individual identifies as having the most significant role in the determination and delivery of medical care to the individual at the time the individual makes an election to receive hospice care.
 
 (4)(A) An entity which is certified as a provider of services other than a hospice program shall be considered, for purposes of certification as a hospice program, to have met any requirements under paragraph (2) which are also the same requirements for certification as such other type of provider. The Secretary shall coordinate surveys for determining certification under this subchapter so as to provide, to the extent feasible, for simultaneous surveys of an entity which seeks to be certified as a hospice program and as a provider of services of another type.
 
@@ -822,7 +840,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 &emsp;(iii) has demonstrated a good faith effort (as determined by the Secretary) to hire a sufficient number of nurses to provide such nursing care directly.
 
-(B) Any waiver, which is in such form and containing such information as the Secretary may require and which is requested by an agency or organization under subparagraph (A) or (C), shall be deemed to be granted unless such request is denied by the Secretary within 60 days after the date such request is received by the Secretary. The granting of a waiver under subparagraph (A) or (C) shall not preclude the granting of any subsequent waiver request should such a waiver again become necessary.
+(B) Any waiver, which is in such form and containing such information as the Secretary may require and which is requested by an agency or organization under subparagraph (A) or (C), shall be deemed to be granted unless such request is denied by the Secretary within 60 daysafter the date such request is received by the Secretary. The granting of a waiver under subparagraph (A) or (C) shall not preclude the granting of any subsequent waiver request should such a waiver again become necessary.
 
 (C) The Secretary may waive the requirements of paragraph (2)(A)(i) and (2)(A)(ii) for an agency or organization with respect to the services described in paragraph (1)(B) and, with respect to dietary counseling, paragraph (1)(H), if such agency or organization—
 
@@ -864,11 +882,11 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 &emsp;(A) the discharge planning evaluation under paragraph (2)(D) is not required to include information on the availability of home health services through individuals and entities which do not have a contract with the organization; and
 
-&emsp;(B) notwithstanding subparagraph (H)(i) <sup>8</sup>, the plan may specify or limit the provider (or providers) of post-hospital home health services or other post-hospital services under the plan.
+&emsp;(B) notwithstanding subparagraph (H)(i) <sup>7</sup>, the plan may specify or limit the provider (or providers) of post-hospital home health services or other post-hospital services under the plan.
 
 #### (ff) Partial hospitalization services
 
-(1) The term “partial hospitalization services” means the items and services described in paragraph (2) prescribed by a physician and provided under a program described in paragraph (3) under the supervision of a physician pursuant to an individualized, written plan of treatment established and periodically reviewed by a physician (in consultation with appropriate staff participating in such program), which plan sets forth the physician's diagnosis, the type, amount, frequency, and duration of the items and services provided under the plan, and the goals for treatment under the plan.
+(1) The term “partial hospitalization services” means the items and services described in paragraph (2) prescribed by a physician and provided under a program described in paragraph (3) under the supervision of a physician pursuant to an individualized, written plan of treatment established and periodically reviewed by a physician (in consultation with appropriate staff participating in such program), which plan sets forth the physician's diagnosis, the type,amount, frequency, and duration of the items and services provided under the plan, and the goals for treatment under the plan.
 
 (2) The items and services described in this paragraph are—
 
@@ -1110,11 +1128,11 @@ The term “covered osteoporosis drug” means an injectable drug approved for t
 
 &emsp;(B) ending with the close of the first period of 60 consecutive days thereafter on each of which the individual is neither an inpatient of a hospital or critical access hospital nor an inpatient of a facility described in section 1395i–3(a)(1) of this title or subsection (y)(1) of this section nor provided home health services.
 
-#### (uu)Screening for glaucoma
+#### (uu) Screening for glaucoma
 
-The term “screening for glaucoma” means a dilated eye examination with an intraocular pressure measurement, and a direct ophthalmoscopy or a slit-lamp biomicroscopic examination for the early detection of glaucoma which is furnished by or under the direct supervision of an optometrist or ophthalmologist who is legally authorized to furnish such services under State law (or the State regulatory mechanism provided by State law) of the State in which the services are furnished, as would otherwise be covered if furnished by a physician or as an incident to a physician's professional service, if the individual involved has not had such an examination in the preceding year.
+The term “screening for glaucoma” means a dilated eye examination with an intraocular pressure measurement, and a direct ophthalmoscopy or a slit-lamp biomicroscopic examination for the early detection of glaucoma which is furnished by or under the direct supervision of an optometrist or ophthalmologist who is legally authorized to furnish such services under State law (or the State regulatory mechanism provided by State law) of the State in which the services are furnished, as would otherwise be covered if furnished by a physician or as an incident to a physician's professional service, if theindividual involved has not had such an examination in the preceding year.
 
-#### (vv)Medical nutrition therapy services; registered dietitian or nutrition professional
+#### (vv) Medical nutrition therapy services; registered dietitian or nutrition professional
 
 (1) The term “medical nutrition therapy services” means nutritional diagnostic, therapy, and counseling services for the purpose of disease management which are furnished by a registered dietitian or nutrition professional (as defined in paragraph (2)) pursuant to a referral by a physician (as defined in subsection (r)(1) of this section).
 
@@ -1136,27 +1154,29 @@ The term “screening for glaucoma” means a dilated eye examination with an in
 
 (2) The screening and other preventive services described in this paragraph include the following:
 
-&emsp;(A) Pneumococcal, influenza, and hepatitis B vaccine and administration under subsection (s)(10) of this section.
+&emsp;(A) Pneumococcal, influenza, and hepatitis B vaccine and administration under subsection (s)(10).
 
-&emsp;(B) Screening mammography as defined in subsection (jj) of this section.
+&emsp;(B) Screening mammography as defined in subsection (jj).
 
-&emsp;(C) Screening pap smear and screening pelvic exam as defined in subsection (nn) of this section.
+&emsp;(C) Screening pap smear and screening pelvic exam as defined in subsection (nn).
 
-&emsp;(D) Prostate cancer screening tests as defined in subsection (<i>oo</i>) of this section.
+&emsp;(D) Prostate cancer screening tests as defined in subsection (<i>oo</i>).
 
-&emsp;(E) Colorectal cancer screening tests as defined in subsection (pp) of this section.
+&emsp;(E) Colorectal cancer screening tests as defined in subsection (pp).
 
-&emsp;(F) Diabetes outpatient self-management training services as defined in subsection (qq)(1) of this section.
+&emsp;(F) Diabetes outpatient self-management training services as defined in subsection (qq)(1).
 
-&emsp;(G) Bone mass measurement as defined in subsection (rr) of this section.
+&emsp;(G) Bone mass measurement as defined in subsection (rr).
 
-&emsp;(H) Screening for glaucoma as defined in subsection (uu) of this section.
+&emsp;(H) Screening for glaucoma as defined in subsection (uu).
 
-&emsp;(I) Medical nutrition therapy services as defined in subsection (vv) of this section.
+&emsp;(I) Medical nutrition therapy services as defined in subsection (vv).
 
-&emsp;(J) Cardiovascular screening blood tests as defined in subsection (xx)(1) of this section.
+&emsp;(J) Cardiovascular screening blood tests as defined in subsection (xx)(1).
 
-&emsp;(K) Diabetes screening tests as defined in subsection (yy) of this section.
+&emsp;(K) Diabetes screening tests as defined in subsection (yy).
+
+&emsp;(L) Ultrasound screening for abdominal aortic aneurysm as defined in subsection (bbb).
 
 #### (xx) Cardiovascular screening blood test
 
@@ -1164,7 +1184,7 @@ The term “screening for glaucoma” means a dilated eye examination with an in
 
 &emsp;(A) Cholesterol levels and other lipid or triglyceride levels.
 
-&emsp;(B) Such other indications associated with the presence of, or an elevated risk for, cardiovascular disease as the Secretary may approvefor all individuals (or for some individuals determined by the Secretary to be at risk for cardiovascular disease), including indications measured by noninvasive testing.
+&emsp;(B) Such other indications associated with the presence of, or an elevated risk for, cardiovascular disease as the Secretary may approve for all individuals (or for some individuals determined by the Secretary to be at risk for cardiovascular disease), including indications measured by noninvasive testing.
 
 > The Secretary may not approve an indication under subparagraph (B) for any individual unless a blood test for such is recommended by the United States Preventive Services Task Force.
 
@@ -1218,7 +1238,15 @@ The term “intravenous immune globulin” means an approved pooled plasma deriv
 
 &emsp;(ii) after December 31, 2006.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1861, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 89–713, §7, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 90–248, title I, §§127(a), 129(a), (b), (c)(9)(C), (10), (11), 132(a), 133(a), (b), 134(a), 143(a), 144(a)–(d), Jan. 2, 1968, 81 Stat. 846–850, 852, 857, 858; Pub. L. 91–690, Jan. 12, 1971, 84 Stat. 2074; Pub. L. 92–603, title II, §§211(b), (c)(2), 221(c)(4), 223(a)–(d), (f), 227(a), (c), (d)(1), (f), 234(a)–(f), 237(c), 244(c), 246(b), 248, 249(b), 251(a)(1), (b)(1), (c), 252(a), 256(b), 264(a), 265, 267, 273(a), 276(a), 278(a) (4)–(15), (b)(6), (10), (11), (13), 283(a), Oct. 30, 1972, 86 Stat. 1383, 1384, 1389, 1393, 1394, 1404–1407, 1412, 1413, 1416, 1423–1426, 1445–1447, 1449–1454, 1456; Pub. L. 94–182, title I, §§102, 106(a), 112(a)(1), Dec. 31, 1975, 89 Stat. 1051, 1052, 1055; Pub. L. 95–142, §§3(a)(2), 5(m), 19(b)(1), 21(a), Oct. 25, 1977, 91 Stat. 1178, 1191, 1204, 1207; Pub. L. 95–210, §1(d), (g), (h), Dec. 13, 1977, 91 Stat. 1485, 1487, 1488; Pub. L. 95–216, title V, §501(a), Dec. 20, 1977, 91 Stat. 1564; Pub. L. 95–292, §4(d), June 13, 1978, 92 Stat. 315; Pub. L. 96–499, title IX, §§902(a)(1), 915(a), 930(k)–(n), (p), 931(c), (d), 933(c)–(e), 936(a), 937(a), 938(a), 948(a)(1), 949, 950, 951(a), (b), 952(a), formerly 952, Dec. 5, 1980, 94 Stat. 2612, 2623, 2632, 2633, 2635, 2639, 2640, 2643, 2645, 2646; Pub. L. 96–611, §1(a)(1), (b)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2102(a), 2114, 2121(c), (d), 2141(a), 2142(a), 2143(a), 2144(a), 2193(c)(9), Aug. 13, 1981, 95 Stat. 787, 796–799, 828; Pub. L. 97–248, title I, §§101(a)(2), (d), 102(a), 103(a), 105(a), 106(a), 107(a), 108(a)(2), 109(b), 114(b), 122(d), 127(1), 128(a)(1), (d)(2), 148(b), Sept. 3, 1982, 96 Stat. 335–339, 350, 359, 366, 367, 394; Pub. L. 97–448, title III, §309(a)(4), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §§602(d), 607(b)(2), (d), Apr. 20, 1983, 97 Stat. 163, 171, 172; Pub. L. 98–369, div. B, title III, §§2314(a), 2318(a), (b), 2319(a), 2321(e), 2322(a), 2323(a), 2324(a), 2335(b), 2340(a), 2341(a), (c), 2342(a), 2343(a), (b), 2354(b)(18)–(29), July 18, 1984, 98 Stat. 1079, 1081, 1082, 1085, 1086, 1090, 1093, 1094, 1101; Pub. L. 98–617, §3(a)(4), (b)(7), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9107(b), 9110(a), 9202(i)(1), 9219(b)(1)(B), (3)(A), Apr. 7, 1986, 100 Stat. 160, 162, 177, 182, 183; Pub. L. 99–509, title IX, §§9305(c)(1), (2), 9313(a)(2), 9315(a), 9320(b), (c), (f), 9335(c)(1), 9336(a), 9337(d), 9338(a), Oct. 21, 1986, 100 Stat. 1989, 2002, 2005, 2013, 2015, 2030, 2033, 2034; Pub. L. 100–203, title IV, §§4009(e)(1), (f), 4021(a), 4026(a)(1), 4039(b), 4064(e)(1), 4065(a), 4070(b)(1), (2),4071(a), 4072(a), 4073(a), (c), 4074(a), (b), 4075(a), 4076(a), 4077(a)(1), (b)(1), (4), formerly (5), 4078, 4084(c)(1), 4085(i)(9)–(14), 4201(a)(1), (b)(1), (d)(1), (2), (5), formerly (d), Dec. 22, 1987, 101 Stat. 1330–57, 1330–58, 1330–67, 1330–74, 1330–81, 1330–111, 1330–112, 1330–114, 1330–116, 1330–118 to 1330–121, 1330–132, 1330–133, 1330–160, 1330–174, as amended Pub. L. 100–360, title IV, §411(h)(4)(D), (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (<i>l</i>)(1)(B), (C), July 1, 1988, 102 Stat. 787–789, 801, as amended Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(4), title II, §§202(a), 203(b), (e)(1), 204(a), 205(b), 206(a), title IV, §411(d)(1)(B)(i), (5)(A), (g)(3)(H), (h)(1)(B), (2), (3)(A), July 1, 1988, 102 Stat. 689, 702, 721, 725, 730, 731, 773, 774, 785, 786; Pub. L. 100–485, title VI, §608(d)(6)(A), (23)(B), Oct. 13, 1988, 102 Stat. 2414, 2421; Pub. L. 100–647, title VIII, §§8423(a), 8424(a), Nov. 10, 1988, 102 Stat. 3803; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(A), (C)(i), (D)(x), 6110, 6112(e)(1), 6113(a)–(b)(2), 6114(a), (d), 6115(a), 6116(a)(1), 6131(a)(2), 6141(a), 6213(a)–(c), Dec. 19, 1989, 103 Stat. 2151–2153, 2213, 2215–2219, 2221, 2225, 2250, 2251; Pub. L. 101–508, title IV, §§4008(h)(2)(A)(i), 4151(a), (b)(1), 4152(a)(2), 4153(b)(2)(A), 4155(a), (d), 4156(a), 4157(a), 4161(a)(1), (2), (5), (b)(1), (2), 4162(a), 4163(a), 4201(d)(1), 4207(d)(1), formerly 4027(d)(1), Nov. 5, 1990, 104 Stat. 1388–48, 1388–71, 1388–72, 1388–74, 1388–84, 1388–86 to 1388–88, 1388–93 to 1388–96, 1388–104, 1388–120, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13503(c)(1)(A), 13521, 13522, 13553(a), (b), 13554(a), 13556(a), 13564(a)(2), (b)(1), 13565, 13566(b), Aug. 10, 1993, 107 Stat. 578, 586, 591, 592, 607; Pub. L. 103–432, title I, §§102(g)(4), 104, 107(a), 145(b), 146(a), (b), 147(e)(1), (4), (5), (f)(3), (4)(A), (6)(A), (B), (E), 158(a)(1), Oct. 31, 1994, 108 Stat. 4404, 4405, 4407, 4427–4432, 4442; Pub. L. 104–299, §4(b)(1), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4102(a), (c), 4103(a), 4104(a)(1), 4105(a)(1), (b)(1), 4106(a), 4201(c)(1), (2), 4205(b)(1), (c)(1), (d)(1)–(3)(A), 4312(b)(1), (2), (d), (e), 4320, 4321(a), 4404(a), 4432(b)(5)(D), (E), 4444(a), 4445, 4446, 4451, 4454(a)(1), 4511(a)(1)–(2)(B), (d), 4512(a), 4513(a), 4522, 4531(a)(1), 4557(a), 4601(a), 4602(a)–(c), 4604(b), 4611(b), 4612(a), Aug. 5, 1997, 111 Stat. 360–362, 366, 367, 373, 376, 377, 386, 387, 394, 400, 421–426, 442–444, 450, 463, 466, 472, 474; Pub. L. 105–277, div. J, title V, §5101(a), (b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–913, 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(k), 221(b)(1), 227(a), title III, §§303(a), 304(a), 321(k)(7)–(9), title V, §521\], Nov. 29, 1999, 113 Stat. 1536, 1501A–341, 1501A–351, 1501A–354, 1501A–360, 1501A–361, 1501A–367, 1501A–386; Pub. L. 106–554, §1(a)(6) \[title I, §§101(a), 102(a), (b), 103(a), 105(a), (b), 112(a), 113(a), title IV, §§430(b), 431(a), title V, §§502(a), 541\], Dec. 21, 2000, 114 Stat. 2763, 2763A–467, 2763A–468, 2763A–471, 2763A–473, 2763A–525, 2763A–529, 2763A–550; Pub. L. 108–173, title III, §303(i)(2), title IV, §§408(a), 414(g)(2), 415(b), title V, §512(c), title VI, §§611(a), (b), (d)(2), 612(a), (b), 613(a), (b), 642(a), title VII, §§706(b), 736(a)(10), (11), (b)(3), (11), (12), (c)(4), title IX, §§901(b), 926(b)(1), 946(a), Dec. 8, 2003, 117 Stat. 2254, 2270, 2281, 2282, 2299, 2303–2305, 2322, 2339, 2355, 2356, 2374, 2396, 2424.)
+#### (bbb) Ultrasound screening for abdominal aortic aneurysm
+
+The term “ultrasound screening for abdominal aortic aneurysm” means—
+
+&emsp;(1) a procedure using sound waves (or such other procedures using alternative technologies, of commensurate accuracy and cost, that the Secretary may specify) provided for the early detection of abdominal aortic aneurysm; and
+
+&emsp;(2) includes a physician's interpretation of the results of the procedure.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1861, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 89–713, §7, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 90–248, title I, §§127(a), 129(a), (b), (c)(9)(C), (10), (11), 132(a), 133(a), (b), 134(a), 143(a), 144(a)–(d), Jan. 2, 1968, 81 Stat. 846–850, 852, 857, 858; Pub. L. 91–690, Jan. 12, 1971, 84 Stat. 2074; Pub. L. 92–603, title II, §§211(b), (c)(2), 221(c)(4), 223(a)–(d), (f), 227(a), (c), (d)(1), (f), 234(a)–(f), 237(c), 244(c), 246(b), 248, 249(b), 251(a)(1), (b)(1), (c), 252(a), 256(b), 264(a), 265, 267, 273(a), 276(a), 278(a) (4)–(15), (b)(6), (10), (11), (13), 283(a), Oct. 30, 1972, 86 Stat. 1383, 1384, 1389, 1393, 1394, 1404–1407, 1412, 1413, 1416, 1423–1426, 1445–1447, 1449–1454, 1456; Pub. L. 94–182, title I, §§102, 106(a), 112(a)(1), Dec. 31, 1975, 89 Stat. 1051, 1052, 1055; Pub. L. 95–142, §§3(a)(2), 5(m), 19(b)(1), 21(a), Oct. 25, 1977, 91 Stat. 1178, 1191, 1204, 1207; Pub. L. 95–210, §1(d), (g), (h), Dec. 13, 1977, 91 Stat. 1485, 1487, 1488; Pub. L. 95–216, title V, §501(a), Dec. 20, 1977, 91 Stat. 1564; Pub. L. 95–292, §4(d), June 13, 1978, 92 Stat. 315; Pub. L. 96–499, title IX, §§902(a)(1), 915(a), 930(k)–(n), (p), 931(c), (d), 933(c)–(e), 936(a), 937(a), 938(a), 948(a)(1), 949, 950, 951(a), (b), 952(a), formerly 952, Dec. 5, 1980, 94 Stat. 2612, 2623, 2632, 2633, 2635, 2639, 2640, 2643, 2645, 2646; Pub. L. 96–611, §1(a)(1), (b)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2102(a), 2114, 2121(c), (d), 2141(a), 2142(a), 2143(a), 2144(a), 2193(c)(9), Aug. 13, 1981, 95 Stat. 787, 796–799, 828; Pub. L. 97–248, title I, §§101(a)(2), (d), 102(a), 103(a), 105(a), 106(a), 107(a), 108(a)(2), 109(b), 114(b), 122(d), 127(1), 128(a)(1), (d)(2), 148(b), Sept. 3, 1982, 96 Stat. 335–339, 350, 359, 366, 367, 394; Pub. L. 97–448, title III, §309(a)(4), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §§602(d), 607(b)(2), (d), Apr. 20, 1983, 97 Stat. 163, 171, 172; Pub. L. 98–369, div. B, title III, §§2314(a), 2318(a), (b), 2319(a), 2321(e), 2322(a), 2323(a), 2324(a), 2335(b), 2340(a), 2341(a), (c), 2342(a), 2343(a), (b), 2354(b)(18)–(29), July 18, 1984, 98 Stat. 1079, 1081, 1082, 1085, 1086, 1090, 1093, 1094, 1101; Pub. L. 98–617, §3(a)(4), (b)(7), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9107(b), 9110(a), 9202(i)(1), 9219(b)(1)(B), (3)(A), Apr. 7, 1986, 100 Stat. 160, 162, 177, 182, 183; Pub. L. 99–509, title IX, §§9305(c)(1), (2), 9313(a)(2), 9315(a), 9320(b), (c), (f), 9335(c)(1), 9336(a), 9337(d), 9338(a), Oct. 21, 1986, 100 Stat. 1989, 2002, 2005, 2013, 2015, 2030, 2033, 2034; Pub. L. 100–203, title IV, §§4009(e)(1), (f), 4021(a), 4026(a)(1), 4039(b), 4064(e)(1), 4065(a), 4070(b)(1), (2), 4071(a), 4072(a), 4073(a), (c), 4074(a), (b), 4075(a), 4076(a), 4077(a)(1), (b)(1), (4), formerly (5), 4078, 4084(c)(1), 4085(i)(9)–(14), 4201(a)(1), (b)(1), (d)(1), (2), (5), formerly (d), Dec. 22, 1987, 101 Stat. 1330–57, 1330–58, 1330–67, 1330–74, 1330–81, 1330–111, 1330–112, 1330–114, 1330–116, 1330–118 to 1330–121, 1330–132, 1330–133, 1330–160, 1330–174, as amended Pub. L. 100–360, title IV, §411(h)(4)(D), (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (<i>l</i>)(1)(B), (C), July 1, 1988, 102 Stat. 787–789, 801, as amended Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(4), title II, §§202(a), 203(b), (e)(1), 204(a), 205(b), 206(a), title IV, §411(d)(1)(B)(i), (5)(A), (g)(3)(H), (h)(1)(B), (2), (3)(A), July 1, 1988, 102 Stat. 689, 702, 721, 725, 730, 731, 773, 774, 785, 786; Pub. L. 100–485, title VI, §608(d)(6)(A), (23)(B), Oct. 13, 1988, 102 Stat. 2414, 2421; Pub. L. 100–647, title VIII, §§8423(a), 8424(a), Nov. 10, 1988, 102 Stat. 3803; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(A), (C)(i), (D)(x), 6110, 6112(e)(1), 6113(a)–(b)(2), 6114(a), (d), 6115(a), 6116(a)(1), 6131(a)(2), 6141(a), 6213(a)–(c), Dec. 19, 1989, 103 Stat. 2151–2153, 2213, 2215–2219, 2221, 2225, 2250, 2251; Pub. L. 101–508, title IV, §§4008(h)(2)(A)(i), 4151(a), (b)(1), 4152(a)(2), 4153(b)(2)(A), 4155(a), (d), 4156(a), 4157(a), 4161(a)(1), (2), (5), (b)(1), (2), 4162(a), 4163(a), 4201(d)(1), 4207(d)(1), formerly 4027(d)(1), Nov. 5, 1990, 104 Stat. 1388–48, 1388–71, 1388–72, 1388–74, 1388–84, 1388–86 to 1388–88, 1388–93 to 1388–96, 1388–104, 1388–120, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13503(c)(1)(A), 13521, 13522, 13553(a), (b), 13554(a),13556(a), 13564(a)(2), (b)(1), 13565, 13566(b), Aug. 10, 1993, 107 Stat. 578, 586, 591, 592, 607; Pub. L. 103–432, title I, §§102(g)(4), 104, 107(a), 145(b), 146(a), (b), 147(e)(1), (4), (5), (f)(3), (4)(A), (6)(A), (B), (E), 158(a)(1), Oct. 31, 1994, 108 Stat. 4404, 4405, 4407, 4427–4432, 4442; Pub. L. 104–299, §4(b)(1), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4102(a), (c), 4103(a), 4104(a)(1), 4105(a)(1), (b)(1), 4106(a), 4201(c)(1), (2), 4205(b)(1), (c)(1), (d)(1)–(3)(A), 4312(b)(1), (2), (d), (e), 4320, 4321(a), 4404(a), 4432(b)(5)(D), (E), 4444(a), 4445, 4446, 4451, 4454(a)(1), 4511(a)(1)–(2)(B), (d), 4512(a), 4513(a), 4522, 4531(a)(1), 4557(a), 4601(a), 4602(a)–(c), 4604(b), 4611(b), 4612(a), Aug. 5, 1997, 111 Stat. 360–362, 366, 367, 373, 376, 377, 386, 387, 394, 400, 421–426, 442–444, 450, 463, 466, 472, 474; Pub. L. 105–277, div. J, title V, §5101(a), (b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–913, 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(k), 221(b)(1), 227(a), title III, §§303(a), 304(a), 321(k)(7)–(9), title V, §521\], Nov. 29, 1999, 113 Stat. 1536, 1501A–341, 1501A–351, 1501A–354, 1501A–360, 1501A–361, 1501A–367, 1501A–386; Pub. L. 106–554, §1(a)(6) \[title I, §§101(a), 102(a), (b), 103(a), 105(a), (b), 112(a), 113(a), title IV, §§430(b), 431(a), title V, §§502(a), 541\], Dec. 21, 2000, 114 Stat. 2763, 2763A–467, 2763A–468, 2763A–471, 2763A–473, 2763A–525, 2763A–529, 2763A–550; Pub. L. 108–173, title III, §303(i)(2), title IV, §§408(a), 414(g)(2), 415(b), title V, §512(c), title VI, §§611(a), (b), (d)(2), 612(a), (b), 613(a), (b), 642(a), title VII, §§706(b), 736(a)(10), (11), (b)(3), (11), (12), (c)(4), title IX, §§901(b), 926(b)(1), 946(a), Dec. 8, 2003, 117 Stat. 2254, 2270, 2281, 2282, 2299, 2303–2305, 2322, 2339, 2355, 2356, 2374, 2396, 2424; Pub. L. 109–171, title V, §§5004, 5112(a), (b), 5114(a)(1), (b), title VI, §6001(f)(1), Feb. 8, 2006, 120 Stat. 32, 43–45, 58.)
 
 #### References in Text
 
@@ -1230,15 +1258,11 @@ Section 4072(e) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 
 The Public Health Service Act, referred to in subsec. (v)(1)(M), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. Titles VI and XVI of the Public Health Service Act are classified generally to subchapters IV (§291 et seq.) and XIV (§300q et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-Section 1395<i>l</i>(t)(5)(B) of this title, referred to in subsec. (v)(1)(T), was redesignated section 1395<i>l</i>(t)(8)(B) of this title by Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)(1), 202(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336, 1501A–342.
-
 Section 1395cc(a)(2)(B)(ii) of this title, referred to in subsec. (v)(4), was repealed by Pub. L. 101–239, title VI, §6017(2), Dec. 19, 1989, 103 Stat. 2165.
 
 Part B of subchapter XI of this chapter, referred to in subsec. (w)(2), is classified to section 1320c et seq. of this title.
 
-Sections 329 and 330 of the Public Health Service Act, referred to in subsec. (aa)(2), (3)(B), were sections 329 and 330 of act July 1, 1944, which were classified, respectively, to sections 254b and 254c of this title and were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
-
-Section 340 of the Public Health Service Act, referred to in subsec. (aa)(3)(B), was section 340 of act July 1, 1944, which was classified to section 256 of this title prior to repeal by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+Section 329 of the Public Health Service Act, referred to in subsec. (aa)(2), was section 329 of act July 1, 1944, which was classified to section 254b of this title and was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 The Indian Self-Determination Act, referred to in subsec. (aa)(4)(D), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -1248,6 +1272,22 @@ The Internal Revenue Code of 1986, referred to in subsec. (ss)(1)(A), is classif
 
 #### Amendments
 
+2006—Subsec. (s)(2)(AA). Pub. L. 109–171, §5112(a)(1), added subpar. (AA).
+
+Subsec. (t)(2)(B)(ii)(I). Pub. L. 109–171, §6001(f)(1), inserted “(or its successor publications)” after “United States Pharmacopoeia-Drug Information”.
+
+Subsec. (v)(1)(T). Pub. L. 109–171, §5004(b), substituted “section 1395<i>l</i>(t)(8)(B)” for “section 1395<i>l</i>(t)(5)(B)” in introductory provisions.
+
+Subsec. (v)(1)(V). Pub. L. 109–171, §5004(a), added subpar. (V).
+
+Subsec. (aa)(3). Pub. L. 109–171, §5114(a)(1), substituted “and services described in subsections (qq) and (vv); and” for “, and” in subpar. (A) and “section 330” for “sections 329, 330, and 340” in subpar. (B) and inserted “by the center or by a health care professional under contract with the center” after “outpatient of a Federally qualified health center” in concluding provisions.
+
+Subsec. (aa)(4)(A)(i), (ii)(II). Pub. L. 109–171, §5114(b), struck out “(other than subsection (h))” after “section 330”.
+
+Subsec. (ww)(2)(L). Pub. L. 109–171, §5112(b), added subpar. (L).
+
+Subsec. (bbb). Pub. L. 109–171, §5112(a)(2), added subsec. (bbb).
+
 2003—Subsec. (d). Pub. L. 108–173, §901(b), added subsec. (d).
 
 Subsec. (s)(2)(A). Pub. L. 108–173, §303(i)(2), inserted “(or would have been so included but for the application of section 1395w–3b of this title)” after “included in the physicians’ bills”.
@@ -1256,7 +1296,7 @@ Subsec. (s)(2)(K)(i). Pub. L. 108–173, §736(b)(11), substituted “, but” 
 
 Pub. L. 108–173, §611(d)(2), inserted “and services described in subsection (ww)(1) of this section” after “services which would be physicians’ services”.
 
-Subsec. (s)(2)(K)(ii). Pub. L. 108–173, §611(d)(2), inserted “and services described in subsection (ww)(1) ofthis section” after “services which would be physicians’ services”.
+Subsec. (s)(2)(K)(ii). Pub. L. 108–173, §611(d)(2), inserted “and services described in subsection (ww)(1) of this section” after “services which would be physicians’ services”.
 
 Subsec. (s)(2)(W). Pub. L. 108–173, §611(a), added subpar. (W).
 
@@ -1438,7 +1478,7 @@ Subsec. (v)(1)(L)(iv). Pub. L. 105–33, §4601(a), added cl. (iv).
 
 Subsec. (v)(1)(L)(v) to (vii). Pub. L. 105–33, §4602(c), added cls. (v) to (vii).
 
-Subsec. (v)(1)(O)(i). Pub. L. 105–33, §4404(a)(1), struck out “and (if applicable) a return on equity capital” after “capital indebtedness” and substituted “provider of services” for “hospital or skilled nursing facility”, “clause (iii)” for “clause (iv)”, and “the historical cost of the asset, as recognized under this subchapter, less depreciation allowed, to the owner of record as of August 5, 1997 (or, in the case of an asset not in existence as of August 5, 1997, the first owner of record of the asset after August 5, 1997).” for “the lesser of the allowable acquisition cost of such asset to the owner of record as of July 18, 1984 (or, in the case of an asset not in existence as of such date, the first owner of record of the asset after such date), or the acquisition cost of such asset to the new owner.”
+Subsec. (v)(1)(O)(i). Pub. L. 105–33, §4404(a)(1), struck out “and (if applicable) a return on equity capital” after “capital indebtedness” and substituted “provider of services” for “hospital or skilled nursing facility”, “clause (iii)” for “clause (iv)”, and “the historical cost of the asset, as recognized under this subchapter, less depreciation allowed, to the owner of record as of August 5, 1997 (or, in the case of an asset not in existence as of August 5, 1997, the first owner of record of theasset after August 5, 1997).” for “the lesser of the allowable acquisition cost of such asset to the owner of record as of July 18, 1984 (or, in the case of an asset not in existence as of such date, the first owner of record of the asset after such date), or the acquisition cost of such asset to the new owner.”
 
 Subsec. (v)(1)(O)(ii) to (iv). Pub. L. 105–33, §4404(a)(2), (3), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “Such regulations shall provide for recapture of depreciation in the same manner as provided under the regulations in effect on June 1, 1984.”
 
@@ -1746,7 +1786,7 @@ Subsec. (nn). Pub. L. 101–239, §6115(a)(2), added subsec. (nn).
 
 Subsec. (a)(2). Pub. L. 100–360, §411(<i>l</i>)(1)(B)(i), (ii), redesignated and amended Pub. L. 100–203, §4201(d)(1), see 1987 Amendment note below.
 
-Subsec. (e). Pub. L. 100–360, §104(d)(4)(B), substituted “and paragraph (7) of this subsection” for “paragraph\(7) of this subsection, and subsection (i) of this section” in introductory provisions, struck out second sentence which read as follows: “For purposes of subsection (a)(2) of this section, such term includes any institution which meets the requirements of paragraph (1) of this subsection.”, substituted “and section 1395f(f)(2) of this title” for “section 1395f(f)(2) of this title, and subsection (i) of this section” in third sentence, and struck out “, except for purposes of subsection (a)(2) of this section,” after “such term shall not” in fifth sentence.
+Subsec. (e). Pub. L. 100–360, §104(d)(4)(B), substituted “and paragraph (7) of this subsection” for “paragraph (7) of this subsection, and subsection (i) of this section” in introductory provisions, struck out second sentence which read as follows: “For purposes of subsection (a)(2) of this section, such term includes any institution which meets the requirements of paragraph (1) of this subsection.”, substituted “and section 1395f(f)(2) of this title” for “section 1395f(f)(2) of this title, and subsection (i) of this section” in third sentence, and struck out “, except for purposes of subsection (a)(2) of this section,” after “such term shall not” in fifth sentence.
 
 Subsec. (i). Pub. L. 100–360, §104(d)(4)(C), struck out subsec. (i) which defined “post-hospital extended care services”.
 
@@ -2244,7 +2284,7 @@ Subsec. (p). Pub. L. 90–248, §§129(c)(10), 133(b), struck out definition of 
 
 Subsec. (r)(3). Pub. L. 90–248, §127(a), added cl. (3).
 
-Subsec. (s). Pub. L. 90–248, §144(a)–(c), struck out “(unless they would otherwise constitute inpatient hospital services, extended care services, or home health services)” after “items or services” in text preceding par. (1), inserted after “hospital” in sentence following par. (9) “which, for purposes of this sentence, means aninstitution considered a hospital for purposes of section 1395f(d) of this title)”, and inserted sentence following par. (13) providing that medical and other health services (other than physicians’ services and services incident to physicians’ services) furnished a patient of a facility which meets the definition of a hospital for emergency services will be covered under the medical insurance program only if such facility satisfies such health and safety requirements as are appropriate for the item or service furnished as the Secretary may determine are necessary.
+Subsec. (s). Pub. L. 90–248, §144(a)–(c), struck out “(unless they would otherwise constitute inpatient hospital services, extended care services, or home health services)” after “items or services” in text preceding par. (1), inserted after “hospital” in sentence following par. (9) “which, for purposes of this sentence, means an institution considered a hospital for purposes of section 1395f(d) of this title)”, and inserted sentence following par. (13) providing that medical and other health services (other than physicians’ services and services incident to physicians’ services) furnished a patient of a facility which meets the definition of a hospital for emergency services will be covered under the medical insurance program only if such facility satisfies such health and safety requirements as are appropriate for the item or service furnished as the Secretary may determine are necessary.
 
 Subsec. (s)(2)(A) to (C). Pub. L. 90–248, §129(a), designated existing provisions as subpars. (A) and (B) and added subpar. (C).
 
@@ -2265,6 +2305,14 @@ Subsec. (y)(3). Pub. L. 90–248, §129(c)(11), substituted “1395e(a)(3)” fo
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 5112(a), (b) of Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2007, see section 5112(f) of Pub. L. 109–171, set out as a note under section 1395<i>l</i> of this title.
+
+Amendment by section 5114(a)(1), (b) of Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2006, see section 5114(c) of Pub. L. 109–171, set out as a note under section 1395u of this title.
+
+Amendment by section 6001(f)(1) of Pub. L. 109–171 effective Feb. 8, 2006, see section 6001(f)(3) of Pub. L. 109–171, set out as a note under section 1396r–8 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -2390,7 +2438,7 @@ Amendment by Pub. L. 104–299 effective Oct. 1, 1996, see section 5 of Pub. L. 
 
 #### Effective Date of 1994 Amendment
 
-Section 107(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after the first day of the first month beginning more than oneyear after the date of the enactment of this Act \[Oct. 31, 1994\].”
+Section 107(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after the first day of the first month beginning more than one year after the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 Amendment by section 145(b) of Pub. L. 103–432 applicable to mammography furnished by the facility on and after the first date that the certificate requirements of section 263b(b) of this title apply to such mammography conducted by such facility, see section 145(d) of Pub. L. 103–432, set out as a note under section 1395m of this title.
 
@@ -2596,7 +2644,7 @@ Amendment by section 2354(b)(18)–(29) of Pub. L. 98–369 effective July 18, 1
 
 #### Effective Date of 1983 Amendments
 
-Amendment by section 602(d) of Pub. L. 98–21 applicable to items and services furnished by or under arrangement with a hospital beginning with its first cost reporting period that begins on or after Oct. 1, 1983, any change in a hospital's cost reporting period made after November 1982 to be recognized for such purposes only if the Secretary finds good cause therefor, see section 604(a)(1) of Pub. L. 98–21, set out as a note under section 1395ww of this title.
+Amendment by section 602(d) of Pub. L. 98–21 applicable to items and services furnished by or under arrangement with a hospital beginning with its first cost reporting period that begins on or after Oct. 1, 1983, anychange in a hospital's cost reporting period made after November 1982 to be recognized for such purposes only if the Secretary finds good cause therefor, see section 604(a)(1) of Pub. L. 98–21, set out as a note under section 1395ww of this title.
 
 Amendment by Pub. L. 97–448 effective as if originally included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 309(c)(1) of Pub. L. 97–448, set out as a note under section 426 of this title.
 
@@ -2664,7 +2712,7 @@ Section 902(c) of Pub. L. 96–499 provided that: “The amendments made by this
 
 Section 930(s) of Pub. L. 96–499 provided that:
 
-“(1) the amendments made by this section \[amending this section, sections 426, 1395c, 1395d, 1395f, 1395h, 1395k, 1395<i>l</i>, and 1395n of this title, and section 231f of Title 45, Railroads, and repealing section 1395m of this title\] shall become effective with respect to services furnished on or after July 1, 1981, except that the amendments made by subsections (n)(1) and (<i>o</i>) \[amending this section and section 1395h of this title\] shall become effective on the date of the enactment of this Act \[Dec. 5, 1980\].
+“(1) the amendments made by this section \[amending this section, sections 426, 1395c, 1395d, 1395f, 1395h, 1395k, 1395<i>l</i>, and 1395n of this title, and section 231f ofTitle 45, Railroads, and repealing section 1395m of this title\] shall become effective with respect to services furnished on or after July 1, 1981, except that the amendments made by subsections (n)(1) and (<i>o</i>) \[amending this section and section 1395h of this title\] shall become effective on the date of the enactment of this Act \[Dec. 5, 1980\].
 
 “(2) The Secretary of Health and Human Services shall take administrative action to assure that improvements, in accordance with the amendment made by subsection (n)(1) \[amending this section\], will be made not later than June 30, 1981.”
 
@@ -2718,11 +2766,11 @@ Section 246(c) of Pub. L. 92–603 provided that: “The amendments made by this
 
 Section 251(d) of Pub. L. 92–603, as amended by Pub. L. 93–233, §17(a), Dec. 31, 1973, 87 Stat. 967, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section and sections 1395<i>l</i> and 1395k of thistitle\] shall apply with respect to services furnished on or after July 1, 1973.
+“(1) The amendments made by subsection (a) \[amending this section and sections 1395<i>l</i> and 1395k of this title\] shall apply with respect to services furnished on or after July 1, 1973.
 
 “(2) The amendments made by subsection (b) \[amending this section and section 1395n of this title\] shall apply with respect to services furnished on or after the date of enactment of this Act \[Oct. 30, 1972\].
 
-“(3) The amendments made by subsection (c) \[amending this section\] shall be effective with respect to accounting periods beginning after the month in which there are promulgated, by the Secretary of Health, Education, and Welfare, final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[subsec. (v)(5) of this section\].”
+“(3) The amendments made by subsection (c) \[amending this section\] shall be effective with respect to accounting periods beginning after the month in which there are promulgated, by the Secretary of Health, Education, and Welfare, final regulations implementingthe provisions of section 1861(v)(5) of the Social Security Act \[subsec. (v)(5) of this section\].”
 
 Section 252(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to items furnished on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
@@ -2812,7 +2860,7 @@ Report.—Not later than the date that is 1 year after the date on which the dem
 
 “(g)
 
-Definitions.—In this section, the terms ‘hospital’ and ‘critical access hospital’ have the meaningsgiven such terms in subsections (e) and (mm), respectively, of section 1861 of the Social Security Act (42 U.S.C. 1395x).”
+Definitions.—In this section, the terms ‘hospital’ and ‘critical access hospital’ have the meanings given such terms in subsections (e) and (mm), respectively, of section 1861 of the Social Security Act (42 U.S.C. 1395x).”
 
 #### MedPAC Study of Coverage of Surgical First Assisting Services of Certified Registered Nurse First Assistants
 
@@ -3160,7 +3208,7 @@ Costs to program.—The study shall consider the short-term and long-term benefi
 
 “(b)
 
-Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the studyconducted under subsection (a), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
 #### Development of Patient Assessment Instruments
 
@@ -3314,7 +3362,7 @@ Section 4207(d)(2), formerly 4027(d)(2), of Pub. L. 101–508, as renumbered by 
 
 #### Transition Provisions for Determining Reasonable Costs for Home Health Agency Services
 
-Section 4207(d)(3), formerly 4027(d)(3), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that, notwithstanding subsec. (v)(1)(L)(iii) of this section, the Secretary of Health and Human Services was to, in determining the limits of reasonable costs under this subchapter with respect to services furnished by a home health agency, utilize a wage index equal to (1) for cost reporting periods beginning on or after July 1, 1991, and on or before June 30, 1992, a combined area wage index consisting of 67 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 33 percent of the area wage index applicable to hospitals located in the geographic area in which the home health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States, and (2) for cost reporting periods beginning on or after July 1, 1992, and on or before June 30, 1993, a combined area wage index consisting of 33 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 67 percent of the area wage index applicable to hospitals located in the geographic area in which the home health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States.
+Section 4207(d)(3), formerly 4027(d)(3), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that, notwithstanding subsec. (v)(1)(L)(iii) of this section, the Secretary of Health and Human Services was to, in determining the limits of reasonable costs under this subchapter with respect to services furnished by a home health agency, utilize a wage index equal to (1) for cost reporting periods beginning on or after July 1, 1991, and on or before June 30, 1992, a combined area wage index consisting of 67 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 33 percent of the area wage index applicable to hospitals located in the geographic area in which the home health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States, and (2) for cost reporting periods beginning on or after July 1, 1992, and on or before June 30, 1993, a combined area wage index consisting of 33 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 67 percent of the area wage index applicable to hospitals located in the geographic area in which thehome health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States.
 
 #### Permitting Dentist To Serve as Hospital Medical Director
 
@@ -3478,7 +3526,5 @@ Section 245(a)–(c) of Pub. L. 92–603 provided that:
 
 <i><sup>6</sup></i><i> See References in Text note below.</i>
 
-<i><sup>7</sup></i><i> See References in Text note below.</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be “paragraph (2)(H)(i)”.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be “paragraph (2)(H)(i)”.</i>
 

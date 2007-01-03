@@ -26,11 +26,59 @@ The Attorney General may make grants to States, State courts, local courts, unit
 
 Economic sanctions imposed on an offender pursuant to this section shall not be at a level that would interfere with the offender's rehabilitation.
 
-(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, §1143, Jan. 5, 2006, 119 Stat. 3111.)
+#### (c) Mandatory drug testing and mandatory sanctions
+
+#### (1) Mandatory testing
+
+&emsp;Grant amounts under this subchapter may be used for a drug court only if the drug court has mandatory periodic testing as described in subsection (a)(3)(A). The Attorney General shall, by prescribing guidelines or regulations, specify standards for the timing and manner of complying with such requirements. The standards—
+
+&emsp;&emsp;(A) shall ensure that—
+
+&emsp;&emsp;&emsp;(i) each participant is tested for every controlled substance that the participant has been known to abuse, and for any other controlled substance the Attorney General or the court may require; and
+
+&emsp;&emsp;&emsp;(ii) the testing is accurate and practicable; and
+
+&emsp;&emsp;(B) may require approval of the drug testing regime to ensure that adequate testing occurs.
+
+#### (2) Mandatory sanctions
+
+&emsp;The Attorney General shall, by prescribing guidelines or regulations, specify that grant amounts under this subchapter may be used for a drug court only if the drug court imposes graduated sanctions that increase punitive measures, therapeutic measures, or both whenever a participant fails a drug test. Such sanctions and measures may include, but are not limited to, one or more of the following:
+
+&emsp;&emsp;(A) Incarceration.
+
+&emsp;&emsp;(B) Detoxification treatment.
+
+&emsp;&emsp;(C) Residential treatment.
+
+&emsp;&emsp;(D) Increased time in program.
+
+&emsp;&emsp;(E) Termination from the program.
+
+&emsp;&emsp;(F) Increased drug screening requirements.
+
+&emsp;&emsp;(G) Increased court appearances.
+
+&emsp;&emsp;(H) Increased counseling.
+
+&emsp;&emsp;(I) Increased supervision.
+
+&emsp;&emsp;(J) Electronic monitoring.
+
+&emsp;&emsp;(K) In-home restriction.
+
+&emsp;&emsp;(L) Community service.
+
+&emsp;&emsp;(M) Family counseling.
+
+&emsp;&emsp;(N) Anger management classes.
+
+(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, §1143, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 109–177, title VII, §751, Mar. 9, 2006, 120 Stat. 273.)
 
 #### Amendments
 
 2006—Subsec. (a)(1). Pub. L. 109–162 substituted “offenders, and other individuals under the jurisdiction of the court, with substance abuse problems” for “offenders with substance abuse problems”.
+
+Subsec. (c). Pub. L. 109–177 added subsec. (c).
 
 #### Study by the Government Accountability Office
 

@@ -18,7 +18,7 @@ The excess deficit is, if greater than zero, the estimated deficit for the budge
 
 #### (c) Dividing sequestration
 
-To eliminate the excess deficit in a budget year, half of the required outlay reductions shall be obtained from non-exempt defense accounts (accounts designated as function 050 in thePresident's fiscal year 1991 budget submission) and half from non-exempt, non-defense accounts (all other non-exempt accounts).
+To eliminate the excess deficit in a budget year, half of the required outlay reductions shall be obtained from non-exempt defense accounts (accounts designated as function 050 in the President's fiscal year 1991 budget submission) and half from non-exempt, non-defense accounts (all other non-exempt accounts).
 
 #### (d) Defense
 
@@ -68,7 +68,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(A) When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
 
-&emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
+&emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses tomake that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
 
 &emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
 
@@ -108,11 +108,11 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2002. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 
-Section 901 of this title, referred to in subsec. (g)(1)(B), was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, by striking out subsec. (b) and adding a new subsec. (b). In the new subsec. (b), par. (1) does not contain a subpar. (C) and par. (2)(E) relates to allowance for international arrearages. Prior to amendment, section 901(b)(2)(E) related to special allowance for discretionary new budget authority.
+Section 901(b) of this title, referred to in subsec. (g)(1)(B), was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699; Pub. L. 105–178, title VIII, §8101(d), June 9, 1998, 112 Stat. 490; and Pub. L. 109–59, title VIII, §8002, Aug. 10, 2005, 119 Stat. 1916, and as so amended, section 901(b)(1)(C) relates to adjustments in the FY 2007, 2008, and 2009 budgets made by OMB to the limits on outlays for the highway and mass transit categories and section 901(b)(2)(E) relates to allowance for international arrearages.
 
 Section 665 of this title, referred to in subsec. (g)(1), (2)(A), (D), was repealed by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 

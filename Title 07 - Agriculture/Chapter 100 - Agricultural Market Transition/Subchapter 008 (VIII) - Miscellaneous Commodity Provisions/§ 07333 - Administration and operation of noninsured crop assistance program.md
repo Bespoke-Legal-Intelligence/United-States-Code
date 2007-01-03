@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the “Agency”).
+&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agricultureshall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the “Agency”).
 
 #### (2) Eligible crops
 

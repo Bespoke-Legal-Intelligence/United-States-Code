@@ -174,13 +174,13 @@ Applications.—To receive a grant under this subsection, an entity described in
 
 &emsp;(4)
 
-Technology and information transfer.—The Secretary shall take such action asis necessary to ensure that the information and technology resulting from research conducted under paragraph (3) is made available to State and local transportation departments and other interested parties as specified by the Secretary.
+Technology and information transfer.—The Secretary shall take such action as is necessary to ensure that the information and technology resulting from research conducted under paragraph (3) is made available to State and local transportation departments and other interested parties as specified by the Secretary.
 
 (e)
 
 Promotional Authority.—Funds authorized to be appropriated for necessary expenses for administration and operation of the Federal Highway Administration shall be available to purchase promotional items of nominal value for use in the recruitment of individuals and to promote the programs of the Federal Highway Administration.
 
-(Added Pub. L. 105–178, title V, §5103, June 9, 1998, 112 Stat. 427; amended Pub. L. 109–59, title V, §§5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, 119 Stat. 1786–1789.)
+(Added Pub. L. 105–178, title V, §5103, June 9, 1998, 112 Stat. 427; amended Pub. L. 109–59, titleV, §§5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, 119 Stat. 1786–1789.)
 
 #### References in Text
 

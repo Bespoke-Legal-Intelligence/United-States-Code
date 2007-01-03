@@ -20,7 +20,7 @@ The words “district court” were substituted for “circuit court,” upon in
 
 1983—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
 
-1982—Subsec. (a). Pub. L. 97–322, §108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall “willfully” fail to comply with lawful orders, and struck out “shall bedeemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections” after “sections 491 to 498 of this title,”.
+1982—Subsec. (a). Pub. L. 97–322, §108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall “willfully” fail to comply with lawful orders, and struck out “shall be deemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections” after “sections 491 to 498 of this title,”.
 
 Subsec. (b). Pub. L. 97–322, §108(c)(4), added subsec. (b).
 

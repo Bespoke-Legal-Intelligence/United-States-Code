@@ -54,7 +54,7 @@ The Chairperson of the National Endowment for the Arts shall utilize advisory pa
 
 &emsp;(6) to require that the membership of each panel change substantially from year to year and to provide that each individual is ineligible to serve on a panel for more than 3 consecutive years.
 
-> In making appointments to panels, the Chairperson shall ensure that an individual who has a pending application for financial assistance under this subchapter, or who is an employee or agent of an organization with a pending application, does not serve as a member of any panel before which such application is pending. The prohibition described in the preceding sentence shall commence with respect to such individual beginning on the date such application is submitted and shall continue for so long as such application is pending.
+> In making appointments to panels, the Chairperson shall ensure that an individual who has a pending application for financial assistance under this subchapter, or who is an employee or agent of an organization with a pending application, does not serve as a member of any panel before which such application is pending. Theprohibition described in the preceding sentence shall commence with respect to such individual beginning on the date such application is submitted and shall continue for so long as such application is pending.
 
 #### (d) Endowment activities reports
 
@@ -78,7 +78,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 (B) Such recipient shall comply with the requirements of this paragraph not later than 90 days after the end of the period for which such financial assistance is provided. The Chairperson may extend the 90-day period only if the recipient shows good cause why such an extension should be granted.
 
-(3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified insubsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
+(3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
 
 &emsp;(A) for purposes of determining whether to provide any subsequent financial assistance, take into consideration the results of the post-award evaluation conducted under this subsection;
 

@@ -8,7 +8,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (1) In general
 
-&emsp;The order shall provide for the establishment of, and appointment of members to, a United Soybean Board to administer the order. Members of the Board shall be soybean producers appointed by the Secretary, on a geographic basis, from State or combined units, as provided in this subsection. The cumulative number of seats on the Board shall be thetotal number of seats to which all the units are entitled.
+&emsp;The order shall provide for the establishment of, and appointment of members to, a United Soybean Board to administer the order. Members of the Board shall be soybean producers appointed by the Secretary, on a geographic basis, from State or combined units, as provided in this subsection. The cumulative number of seats on the Board shall be the total number of seats to which all the units are entitled.
 
 #### (2) Seats
 
@@ -68,7 +68,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (I) State units
 
-&emsp;&emsp;&emsp;&emsp;Nominations for each subsequent appointment to a seat on the Board to which a State unit is entitled shall be made by the qualified State soybean board in the unit. If no such organization exists in the unit, the Secretary shall solicit nominations for such appointmentin such manner as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;&emsp;Nominations for each subsequent appointment to a seat on the Board to which a State unit is entitled shall be made by the qualified State soybean board in the unit. If no such organization exists in the unit, the Secretary shall solicit nominations for such appointment in such manner as the Secretary determines appropriate.
 
 #### (II) Combined units
 
@@ -90,7 +90,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (A) Appointment
 
-&emsp;&emsp;Notwithstanding paragraphs (1) through (5), the Secretary, under procedures established by the Secretary, shall appoint to the initially-established Board up to three temporary members to serve in addition to the members appointed as otherwise provided in this subsection, as the Secretary determines appropriate for transition purposes under the criteria set out in subparagraph (B). Each such temporary member shall be appointed for a single term not to exceed 3 years.
+&emsp;&emsp;Notwithstanding paragraphs (1) through (5), the Secretary, under procedures established by the Secretary, shall appoint to the initially-established Board up to three temporary members to serve in addition to themembers appointed as otherwise provided in this subsection, as the Secretary determines appropriate for transition purposes under the criteria set out in subparagraph (B). Each such temporary member shall be appointed for a single term not to exceed 3 years.
 
 #### (B) Representation of certain States
 
@@ -234,7 +234,7 @@ The order shall provide that the Board shall review or, on its own initiative, d
 
 #### (6) Quorum
 
-&emsp;A quorum of the Committee shall consist of the number of members of the Committeeequal to three-fourths of the total membership of the Committee.
+&emsp;A quorum of the Committee shall consist of the number of members of the Committee equal to three-fourths of the total membership of the Committee.
 
 #### (h) Powers and duties of Committee
 
@@ -302,7 +302,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 &emsp;&emsp;(A) the Board may enter into contracts or agreements with qualified State soybean boards that apply therefor and agree to the terms thereof, for the implementation of plans or projects to coordinate and facilitate communications to producers regarding the conduct of activities under the order and for the payment of the costs of the plans or projects with funds received by the Board under the order; and
 
-&emsp;&emsp;(B) to facilitate the funding of plans or projects described in subparagraph (A), if theorder does not authorize the payment of refunds, the Board shall allocate for such funding each year an amount not less than the cumulative amount of all producer contributions to qualified State soybean boards during the previous year that the State boards were unable to retain, and forwarded to the Board, because producers received refunds on such State contributions, as determined by the Board based on information submitted by the qualified State soybean boards.
+&emsp;&emsp;(B) to facilitate the funding of plans or projects described in subparagraph (A), if the order does not authorize the payment of refunds, the Board shall allocate for such funding each year an amount not less than the cumulative amount of all producer contributions to qualified State soybean boards during the previous year that the State boards were unable to retain, and forwarded to the Board, because producers received refunds on such State contributions, as determined by the Board based on information submitted by the qualified State soybean boards.
 
 #### (5) Apportionment of funds to qualified State soybean boards
 
@@ -376,7 +376,7 @@ The order shall require the Board to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In each State in which a qualified State soybean board collects assessments, as provided in paragraph (1)(A)(i), producers shall submit demands for refunds of assessments to the qualified State soybean board. Such board shall provide notice to producers, in a manner prescribed by the Board, of their right to such refunds, and shall process such submissions under procedures established by State law applicable to refunds of assessments on soybeans, except that if no refunds are allowed underState law, such submissions shall be processed under procedures established under this paragraph.
+&emsp;&emsp;&emsp;In each State in which a qualified State soybean board collects assessments, as provided in paragraph (1)(A)(i), producers shall submit demands for refunds of assessments to the qualified State soybean board. Such board shall provide notice to producers, in a manner prescribed by the Board, of their right to such refunds, and shall process such submissions under procedures established by State law applicable to refunds of assessments on soybeans, except that if no refunds are allowed under State law, such submissions shall be processed under procedures established under this paragraph.
 
 #### (ii) No qualified State soybean board
 
@@ -398,7 +398,7 @@ The order shall require the Board to—
 
 #### (ii) Availability
 
-&emsp;&emsp;&emsp;Effective for the period beginning on the date the Secretary determines the result of the initial referendum under section 6305(a) of this title and ending on a date (not later than 18 months thereafter) established by the Secretary, the qualified State soybean board and, where no qualified State soybean board exists, the Board shall make refunds available to soybean producers at the end of the fiscal year from escrowed funds, as provided for in clause (vii). Such refunds shall be made available, under the procedures specified in subparagraphs (A) through (D) to the extent not inconsistent with this subparagraph, to producers who have requested refunds during such period.
+&emsp;&emsp;&emsp;Effective for the period beginning on the date the Secretary determines the result of the initial referendum under section 6305(a) of this title and ending on a date (not later than 18 months thereafter) established by the Secretary, the qualified State soybean board and, where no qualified State soybean board exists, the Board shall make refunds available to soybeanproducers at the end of the fiscal year from escrowed funds, as provided for in clause (vii). Such refunds shall be made available, under the procedures specified in subparagraphs (A) through (D) to the extent not inconsistent with this subparagraph, to producers who have requested refunds during such period.
 
 #### (iii) Poll
 
@@ -428,7 +428,7 @@ The order shall require the Board to—
 
 #### (III) Deposits
 
-&emsp;&emsp;&emsp;&emsp;The qualified State soybean board and, where no qualified State soybean board exists, the Board shall deposit into its escrow account for refunds under clause (ii), (v), or (vi), as appropriate, 10 percentof the total assessment collected by the qualified State soybean board and, where no qualified State soybean board exists, the Board (including the assessment provided under paragraph (2) and contributions by producers to qualified State soybean boards under paragraph (4)), during the time period involved.
+&emsp;&emsp;&emsp;&emsp;The qualified State soybean board and, where no qualified State soybean board exists, the Board shall deposit into its escrow account for refunds under clause (ii), (v), or (vi), as appropriate, 10 percent of the total assessment collected by the qualified State soybean board and, where no qualified State soybean board exists, the Board (including the assessment provided under paragraph (2) and contributions by producers to qualified State soybean boards under paragraph (4)), during the time period involved.
 
 #### (IV) Refunds made from escrow account
 

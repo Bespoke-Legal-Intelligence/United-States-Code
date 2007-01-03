@@ -32,7 +32,7 @@ The Director of the National Nanotechnology Coordination Office shall enter into
 
 #### (b) Study on molecular self-assembly
 
-As part of the first triennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time study to determine the technical feasibility of molecular self-assembly for the manufacture of materials and devices at the molecular scale.
+As part of the first triennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time studyto determine the technical feasibility of molecular self-assembly for the manufacture of materials and devices at the molecular scale.
 
 #### (c) Study on the responsible development of nanotechnology
 

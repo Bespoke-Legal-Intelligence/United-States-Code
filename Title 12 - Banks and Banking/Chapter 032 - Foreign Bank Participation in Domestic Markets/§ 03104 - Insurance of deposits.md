@@ -4,13 +4,13 @@
 
 In implementing this section, the Comptroller and the Federal Deposit Insurance Corporation shall each, by affording equal competitive opportunities to foreign and United States banking organizations in their United States operations, ensure that foreign banking organizations do not receive an unfair competitive advantage over United States banking organizations.
 
-#### (b) Deposits of less than $100,000
+#### (b) Deposits of less than amount equal to the standard maximum deposit insurance amount
 
-No foreign bank may establish or operate a Federal branch which receives deposits of less than $100,000 unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the Comptroller determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
+No foreign bank may establish or operate a Federal branch which receives deposits of less than an amount equal to the standard maximum deposit insurance amount unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the Comptroller determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
 
 #### (c) Deposits required to be insured under State law
 
-(1) After September 17, 1978, no foreign bank may establish a branch, and after one year following such date no foreign bank may operate a branch, in any State in which the deposits of a bank organized and existing under the laws of that State would be required to be insured, unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the branch will not thereafter accept deposits of less than $100,000, or unless the Federal Deposit Insurance Corporation determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
+(1) After September 17, 1978, no foreign bank may establish a branch, and after one year following such date no foreign bank may operate a branch, in any State in which the deposits of a bank organized and existing under the laws of that State would be required to be insured, unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the branch will not thereafter accept deposits of less than an amount equal to the standard maximum deposit insurance amount, or unless the Federal Deposit Insurance Corporation determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
 
 (2) Notwithstanding the previous paragraph, a branch of a foreign bank in operation on September 17, 1978, which has applied for Federal deposit insurance pursuant to section 5 of the Federal Deposit Insurance Act \[12 U.S.C. 1815\] by September 17, 1979, and has not had such application denied, may continue to accept domestic retail deposits until January 31, 1980.
 
@@ -18,7 +18,7 @@ No foreign bank may establish or operate a Federal branch which receives deposit
 
 #### (1) In general
 
-&emsp;After December 19, 1991, notwithstanding any other provision of this chapter or any provision of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], in order to accept or maintain domestic retail deposit accounts havingbalances of less than $100,000, and requiring deposit insurance protection, a foreign bank shall—
+&emsp;After December 19, 1991, notwithstanding any other provision of this chapter or any provision of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], in order to accept or maintain domestic retail deposit accounts having balances of less than an amount equal to the standard maximum deposit insurance amount, and requiring deposit insurance protection, a foreign bank shall—
 
 &emsp;&emsp;(A) establish 1 or more banking subsidies in the United States for that purpose; and
 
@@ -26,25 +26,17 @@ No foreign bank may establish or operate a Federal branch which receives deposit
 
 #### (2) Exception
 
-&emsp;Domestic retail deposit accounts with balances of less than $100,000 that require deposit insurance protection may be accepted or maintained in a branch of a foreign bank only if such branch was an insured branch on December 19, 1991.
+&emsp;Domestic retail deposit accounts with balances of less than an amount equal to the standard maximum deposit insurance amount that require deposit insurance protection may be accepted or maintained in a branch of a foreign bank only if such branch was an insured branch on December 19, 1991.
 
 #### (3) Insured banks in U.S. territories
 
 &emsp;For purposes of this subsection, the term “foreign bank” does not include any bank organized under the laws of any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands the deposits of which are insured by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
 
+#### (e) Standard maximum deposit insurance amount defined
+
+For purposes of this section, the term “standard maximum deposit insurance amount” means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(a)(1)\].
+
 (Pub. L. 95–369, §6, Sept. 17, 1978, 92 Stat. 614; Pub. L. 96–64, Sept. 14, 1979, 93 Stat. 412; Pub. L. 102–242, title II, §214(a), Dec. 19, 1991, 105 Stat. 2303; Pub. L. 102–550, title XVI, §1604(a)(10), (11), Oct. 28, 1992, 106 Stat. 4082, 4083; Pub. L. 102–558, title III, §§302(a), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–328, title I, §107(a), (d), Sept. 29, 1994, 108 Stat. 2358, 2360; Pub. L. 109–173, §2(c)(4), Feb. 15, 2006, 119 Stat. 3602.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §2(c)(4), (e), Feb. 15, 2006, 119 Stat. 3602, 3605, provided that, effective Apr. 1, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsections (b), (c)(1), and (d)(1), (2), by striking “$100,000” and inserting “an amount equal to the standard maximum deposit insurance amount”; and</i>
-
-<i>(2) by adding at the end the following new subsection:</i>
-
-#### <i>“(e) Standard maximum deposit insurance amount defined</i>
-
-<i>“For purposes of this section, the term ‘standard maximum deposit insurance amount’ means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(a)(1)\].”</i>
 
 #### References in Text
 
@@ -53,6 +45,10 @@ For definition of “this chapter”, referred to in subsec. (d)(1), see Referen
 The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 #### Amendments
+
+2006—Subsecs. (b), (c)(1), (d)(1), (2). Pub. L. 109–173, §2(c)(4)(A), substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
+
+Subsec. (e). Pub. L. 109–173, §2(c)(4)(B), added subsec. (e).
 
 1994—Subsecs. (a) to (d). Pub. L. 103–328, §107(a), added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
 

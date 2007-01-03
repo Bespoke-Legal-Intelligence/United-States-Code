@@ -1,0 +1,82 @@
+### §12111. Registry endorsement
+
+(a)
+
+Requirements.—A registry endorsement may be issued for a vessel that satisfies the requirements of section 12103 of this title.
+
+(b)
+
+Authorized Activity.—A vessel for which a registry endorsement is issued may engage in foreign trade or trade with Guam, American Samoa, Wake, Midway, or Kingman Reef.
+
+(c)
+
+Certain Vessels Owned by Trusts.—
+
+&emsp;(1)
+
+Nonapplication of beneficiary citizenship requirement.—For the issuance of a certificate of documentation with only a registry endorsement, the beneficiaries of a trust are not required to be citizens of the United States if the trust qualifies under paragraph (2) and the vessel is subject to a charter to a citizen of the United States.
+
+&emsp;(2)
+
+Requirements for trust to qualify.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to subparagraph (B), a trust qualifies under this paragraph with respect to a vessel only if—
+
+&emsp;&emsp;&emsp;(i) each trustee is a citizen of the United States; and
+
+&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+
+&emsp;&emsp;(B)
+
+Authority of non-citizens.—If any person that is not a citizen of the United States has authority to direct or participate in directing a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee.
+
+&emsp;&emsp;(C)
+
+Ownership by non-citizens.—Subparagraphs (A) and (B) do not prohibit a person that is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
+
+&emsp;(3)
+
+Citizenship of person chartering vessel.—If a person chartering a vessel from a trust that qualifies under paragraph (2) is a citizen of the United States under section 50501 of this title, the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except chapter 531 of this title.
+
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1494; Pub. L. 109–241, title III, §310, July 11, 2006, 120 Stat. 529.)
+
+#### Amendment Not Shown in Text
+
+<i>This section was derived in part from former section 12105 of this title, which was amended by Pub. L. 109–241, title III, §310, July 11, 2006, 120 Stat. 529. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Former section 12105 was amended by adding a new subsection which read as follows:</i>
+
+<i>“(c)(1) Only a vessel for which a certificate of documentation with a registry endorsement is issued may engage in—</i>
+
+&emsp;<i>“(A) the setting, relocation, or recovery of the anchors or other mooring equipment of a mobile offshore drilling unit that is located over the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a))); or</i>
+
+&emsp;<i>“(B) the transportation of merchandise or personnel to or from a point in the United States from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.</i>
+
+<i>“(2) Nothing in paragraph (1) authorizes the employment in the coastwise trade of a vessel that does not meet the requirements of section 12106 \[now principally 12112\] of this title.”</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+12111(a)
+
+46:12105(a).
+
+12111(b)
+
+46:12105(b).
+
+12111(c)
+
+46:12102(d).
+
+#### Prior Provisions
+
+A prior section 12111, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 107–295, title II, §205(c), Nov. 25, 2002, 116 Stat. 2096, originally derived from section 65<i>o</i> of former Title 46, Shipping, related to surrender and invalidation of certificates of documentation, prior to the general amendment of this chapter by Pub. L. 109–304. See sections 12135 and 12136 of this title.
+

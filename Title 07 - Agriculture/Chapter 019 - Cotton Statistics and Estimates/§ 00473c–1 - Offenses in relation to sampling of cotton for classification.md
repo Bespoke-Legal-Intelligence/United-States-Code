@@ -10,7 +10,7 @@ It shall be unlawful—
 
 &emsp;(d) for any person knowingly to cause, or attempt to cause, the issuance of a false or misleading certificate or memorandum of classification under this chapter by deceptive baling, handling, or sampling of cotton, or by any other means, or by submitting samples of such cotton for classification knowing that the cotton has been so baled, handled, or sampled;
 
-&emsp;(e) for any person knowingly to submit more than one sample from the same bale of cottonfor classification under this chapter, except a second sample submitted for review classification;
+&emsp;(e) for any person knowingly to submit more than one sample from the same bale of cotton for classification under this chapter, except a second sample submitted for review classification;
 
 &emsp;(f) for any person knowingly to operate or adjust a mechanical cotton sampler in such a manner that a representative sample is not drawn from each bale; and
 

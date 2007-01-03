@@ -44,7 +44,7 @@
 
 &emsp;(C) for an individual whose date of birth is after December 31, 1952, and before January 1, 1965, 56 years of age;
 
-&emsp;(D) for an individual whose date of birth is after December 31, 1964, and before January 1, 1970, 56 years of age plus the number of months in the age increase factor determined under paragraph (2)(B); and
+&emsp;(D) for an individual whose date of birth is after December 31, 1964, and before January 1,1970, 56 years of age plus the number of months in the age increase factor determined under paragraph (2)(B); and
 
 &emsp;(E) for an individual whose date of birth is after December 31, 1969, 57 years of age.
 

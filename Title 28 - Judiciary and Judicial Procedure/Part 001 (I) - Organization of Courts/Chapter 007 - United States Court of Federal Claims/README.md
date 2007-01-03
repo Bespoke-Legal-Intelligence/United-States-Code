@@ -31,10 +31,6 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(b)(2)\], Oct. 30, 2000, 114
 
 1954—Act Sept. 3, 1954, ch. 1263, §38, 68 Stat. 1240, inserted “; character of court” in item 171.
 
-#### Rules of the United States Court of Federal Claims
-
-See Appendix to this title.
-
 
 ---
 

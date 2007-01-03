@@ -50,7 +50,7 @@
 
 #### (3) Report
 
-&emsp;Not later than 4 years after June 25, 2003, the Secretary shall prepare and submit to theCommittee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that contains the results of the research conducted under paragraph (2).
+&emsp;Not later than 4 years after June 25, 2003, the Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that contains the results of the research conducted under paragraph (2).
 
 #### (4) Priorities
 
@@ -206,7 +206,7 @@ Subsec. (a)(1)(D). Pub. L. 104–235, §105(a)(1)(B), (E), redesignated subpar. 
 
 Subsec. (a)(2). Pub. L. 104–235, §105(a)(2), struck out “and demonstration” after “research”, substituted “paragraph (1)” for “paragraph (1)(A) and activities under section 5106 of this title” in subpar. (A) and struck out “and demonstration” after “research” in introductory provisions of subpar. (B).
 
-Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out“, through the Center,” after “Secretary shall”, inserted “State and local” before “public and nonprofit” and “assessment,” before “identification”, added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
+Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out “, through the Center,” after “Secretary shall”, inserted “State and local” before “public and nonprofit” and “assessment,” before “identification”, added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
 
 Subsec. (c). Pub. L. 104–235, §105(d), redesignated subsec. (d) as (c) and in par. (2) struck out at end “The Secretary shall review each such grant at least annually, utilizing peer review mechanisms to assure the quality and progress of research conducted under such grant.” Former subsec. (c) redesignated (b).
 
@@ -254,7 +254,7 @@ Subsecs. (b), (c). Pub. L. 98–457, §105(c), redesignated subsec. (c) as (b) a
 
 Subsec. (b). Pub. L. 95–266, §105(3), substituted provisions relating to review of the plan by the Advisory Board and submission to the President and Congress of a final plan, for provisions relating to a report by the Advisory Board on assisted programs, etc., and submission to the President and Congress.
 
-Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, for provisions authorizing use of appropriated funds for required report.
+Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, forprovisions authorizing use of appropriated funds for required report.
 
 #### Child Abuse and Disability
 

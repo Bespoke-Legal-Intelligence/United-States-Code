@@ -106,7 +106,7 @@ In subsection (f), the words “may not be collected” are substituted for “s
 
 In subsection (g), the words “Secretary concerned, or his designee,” are substituted for “head of the department concerned, or such subordinate as he may designated,”.
 
-In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 33 words, as applicable to§1009). The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(b). The words “This subsection does not entitle” are substituted for “<i>Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
+In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 33 words, as applicable to §1009). The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(b). The words “This subsection does not entitle” are substituted for “<i>Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
 
 #### Amendments
 

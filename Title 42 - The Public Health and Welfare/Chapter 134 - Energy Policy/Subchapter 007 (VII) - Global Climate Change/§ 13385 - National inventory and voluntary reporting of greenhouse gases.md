@@ -32,7 +32,7 @@ Not later than one year after October 24, 1992, the Secretary, through the Energ
 
 #### (2) Reporting procedures
 
-&emsp;The Administrator of the Energy Information Administration shall develop forms forvoluntary reporting under the guidelines established under paragraph (1), and shall make such forms available to entities wishing to report such information. Persons reporting under this subsection shall certify the accuracy of the information reported.
+&emsp;The Administrator of the Energy Information Administration shall develop forms for voluntary reporting under the guidelines established under paragraph (1), and shall make such forms available to entities wishing to report such information. Persons reporting under this subsection shall certify the accuracy of the information reported.
 
 #### (3) Confidentiality
 

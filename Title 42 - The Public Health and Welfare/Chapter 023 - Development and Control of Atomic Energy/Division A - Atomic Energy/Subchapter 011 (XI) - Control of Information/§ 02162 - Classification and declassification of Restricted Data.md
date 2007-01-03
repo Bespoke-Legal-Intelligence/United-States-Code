@@ -38,10 +38,6 @@ Subsec. (f). Pub. L. 103–337, §3155(c)(3), struck out subsec. (f) which read 
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
 #### Review of Certain Documents Before Declassification and Release
 
 Pub. L. 104–106, div. C, title XXXI, §3155, Feb. 10, 1996, 110 Stat. 625, which was formerly set out as a note under this section, was renumbered section 4521 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(11), Nov. 24, 2003, 117 Stat. 1774, and is classified to section 2671 of Title 50, War and National Defense.
@@ -52,7 +48,7 @@ Ex. Ord. No. 10899, eff. Dec. 9, 1960, 25 F.R. 12729, provided:
 
 By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 <i>et seq</i>.), and as President of the United States, it is ordered as follows:
 
-The Central Intelligence Agency is hereby authorized to communicate for intelligence purposes, in accordance with the terms and conditions of any agreement for cooperation arranged pursuant to subsections 144a, b, or c of the act (42 U.S.C. 2162 (a), (b), or (c)), such restricted data and data removed from the restricted data category under subsection 142d of the Act (42 U.S.C. 2162(d)) as is determined
+The Central Intelligence Agency is hereby authorized to communicate for intelligence purposes, in accordance with the terms and conditions of any agreementfor cooperation arranged pursuant to subsections 144a, b, or c of the act (42 U.S.C. 2162 (a), (b), or (c)), such restricted data and data removed from the restricted data category under subsection 142d of the Act (42 U.S.C. 2162(d)) as is determined
 
 (i) by the President, pursuant to the provisions of the Act, or
 

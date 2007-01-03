@@ -116,23 +116,27 @@
 
 &emsp;&emsp;&emsp;(iv) available to the local educational agency, parents, and the public, and the information contained in such plan shall be in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand; and
 
-&emsp;&emsp;&emsp;(v) if appropriate, developed in coordination with programs under Reading First, Early Reading First, Even Start, Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\], and the Head Start Act \[42 U.S.C. 9831 et seq.\].
+&emsp;&emsp;&emsp;(v) if appropriate, developed in coordination with programs under Reading First, Early Reading First, Even Start, the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], and the Head Start Act \[42 U.S.C. 9831 et seq.\].
 
 #### (c) Prekindergarten program
 
 A school that is eligible for a schoolwide program under this section may use funds made available under this part to establish or enhance prekindergarten programs for children below the age of 6, such as Even Start programs or Early Reading First programs.
 
-(Pub. L. 89–10, title I, §1114, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1471.)
+(Pub. L. 89–10, title I, §1114, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1471; amended Pub. L. 109–270, §2(f)(3), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(2)(B)(v), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2)(B)(v), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Head Start Act, referred to in subsec. (b)(2)(B)(v), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 6314, Pub. L. 89–10, title I, §1114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3534; amended Pub. L. 105–332, §3(c)(1), Oct. 31, 1998, 112 Stat. 3125, related to schoolwide programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+2006—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted “the Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 

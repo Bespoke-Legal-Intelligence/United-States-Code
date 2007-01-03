@@ -8,7 +8,7 @@ When used in this section—
 
 &emsp;(2) The term “head of the Agency concerned” means the Chief of Engineers or the Commissioner, Bureau of Reclamation, or their respective designees.
 
-&emsp;(3) The term “water resources projects to be constructed in the future” includes all projects not yet actually under construction, and, to the extent of work remaining to be completed, includes projects presently under construction where road relocations or identifiable components thereof are not complete as of the date of this section.
+&emsp;(3) The term “water resources projects to be constructed in the future” includes all projects not yet actually under construction, and, to the extent of work remaining to becompleted, includes projects presently under construction where road relocations or identifiable components thereof are not complete as of the date of this section.
 
 &emsp;(4) The term “time of the taking” is the date of the relocation agreement, the date of the filing of a condemnation proceeding, or a date agreed upon between the parties as the date of taking.
 

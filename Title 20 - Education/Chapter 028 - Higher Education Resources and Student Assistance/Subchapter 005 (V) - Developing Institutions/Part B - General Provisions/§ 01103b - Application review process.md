@@ -6,7 +6,7 @@ All applications submitted under this subchapter by Hispanic-serving institution
 
 #### (b) Instruction
 
-All readers selected by the Secretary shall receive thorough instruction from the Secretary regarding the evaluation process for applications submitted under this subchapter that are consistent with the provisions of this subchapter, including—
+All readers selected by the Secretary shall receive thorough instruction from the Secretary regarding the evaluation process for applications submitted under this subchapter that areconsistent with the provisions of this subchapter, including—
 
 &emsp;(1) an enumeration of the factors to be used to determine the quality of applications submitted under this subchapter; and
 

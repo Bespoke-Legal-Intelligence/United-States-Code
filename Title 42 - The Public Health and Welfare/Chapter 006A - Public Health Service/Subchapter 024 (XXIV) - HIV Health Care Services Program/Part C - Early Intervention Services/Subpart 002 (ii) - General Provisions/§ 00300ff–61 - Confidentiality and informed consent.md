@@ -6,19 +6,17 @@ The Secretary may not make a grant under this part unless, in the case of any en
 
 #### (b) Informed consent
 
-#### (1) In general
+The Secretary may not make a grant under this part unless the applicant for the grant agrees that, in testing an individual for HIV/AIDS, the applicant will test an individual only after the individual confirms that the decision of the individual with respect to undergoing such testing is voluntarily made.
 
-&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, in testing an individual for HIV disease, the applicant will test an individual only after obtaining from the individual a statement, made in writing and signed by the individual, declaring that the individual has undergone the counseling described in section 300ff–62(a) of this title and that the decision of the individual with respect to undergoing such testing is voluntarily made.
+(July 1, 1944, ch. 373, title XXVI, §2661, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 609; amended Pub. L. 106–345, title III, §301(b)(2), Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §304, Dec. 19, 2006, 120 Stat. 2807.)
 
-#### (2) Provisions regarding anonymous testing
+#### Repeal of Section
 
-&emsp;(A) If, pursuant to section 300ff–64(b) of this title, an individual will undergo testing pursuant to this part through the use of a pseudonym, a grantee under such section shall be considered to be in compliance with the agreement made under paragraph (1) if the individual signs the statement described in such subsection using the pseudonym.
-
-&emsp;(B) If, pursuant to section 300ff–64(b) of this title, an individual will undergo testing pursuant to this part without providing any information relating to the identity of the individual, a grantee under such section shall be considered to be in compliance with the agreement made under paragraph (1) if the individual orally provides the declaration described in such paragraph.
-
-(July 1, 1944, ch. 373, title XXVI, §2661, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 609; amended Pub. L. 106–345, title III, §301(b)(2), Oct. 20, 2000, 114 Stat. 1345.)
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### Amendments
+
+2006—Pub. L. 109–415 reenacted section catchline without change and amended text generally, substituting provisions relating to confidentiality and informed consent for provisions relating to confidentiality, informed written consent, and anonymous testing.
 
 2000—Subsec. (a). Pub. L. 106–345 struck out par. (1) and par. (2) designation. Prior to amendment, par. (1) read as follows: “in the case of any State applying for a grant under section 300ff–41 of this title, the State agrees to ensure that information regarding the receipt of early intervention services is maintained confidentially pursuant to law or regulations in a manner not inconsistent with applicable law; and”.
 

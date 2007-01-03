@@ -64,7 +64,7 @@ This Act, referred to in subsec. (b), is Pub. L. 99–662, Nov. 17, 1986, 100 St
 
 Subsec. (a)(2). Pub. L. 104–303, §203(a)(2), inserted heading.
 
-1990—Subsec. (b). Pub. L. 101–640 inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.”
+1990—Subsec. (b). Pub. L. 101–640 inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent ofthe cost of the feasibility study shall be treated as costs of construction.”
 
 #### Effective Date of 1996 Amendment
 

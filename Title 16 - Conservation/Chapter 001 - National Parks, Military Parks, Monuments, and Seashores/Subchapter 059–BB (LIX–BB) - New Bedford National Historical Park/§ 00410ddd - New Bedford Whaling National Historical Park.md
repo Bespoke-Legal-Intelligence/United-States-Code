@@ -118,7 +118,7 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 &emsp;&emsp;(A) not more than $5,000,000 may be appropriated for construction, restoration, and rehabilitation of visitor and interpretive facilities, and directional and visitor orientation signage;
 
-&emsp;&emsp;(B) none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
+&emsp;&emsp;(B) none of the funds authorized to be appropriated by this section may be used forthe operation or maintenance of the Schooner Ernestina; and
 
 &emsp;&emsp;(C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.
 

@@ -14,7 +14,7 @@ Notwithstanding section 3504 of this title, the appropriate Federal officer, aft
 
 &emsp;(5) The construction, operation, maintenance, and rehabilitation of Coast Guard facilities and access thereto.
 
-&emsp;(6) Any of the following actions or projects, if a particular expenditure or the makingavailable of particular assistance for the action or project is consistent with the purposes of this chapter:
+&emsp;(6) Any of the following actions or projects, if a particular expenditure or the making available of particular assistance for the action or project is consistent with the purposes of this chapter:
 
 &emsp;&emsp;(A) Projects for the study, management, protection, and enhancement of fish and wildlife resources and habitats, including acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
 
@@ -76,7 +76,7 @@ The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is titl
 
 #### Amendments
 
-1990—Pub. L. 101–591 amended section generally, substituting substantially similar provisions in subsec. (a), substituting “a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System” for “a channel improvement or a related structure shall be treated as an existing improvement or an existing related structure only if all, or a portion, of the moneys for such improvementor structure was appropriated before October 18, 1982” in subsec. (b), and adding subsecs. (c) and (d).
+1990—Pub. L. 101–591 amended section generally, substituting substantially similar provisions in subsec. (a), substituting “a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System” for “a channel improvement or a related structure shall be treated as an existing improvement or an existing related structure only if all, or a portion, of the moneys for such improvement or structure was appropriated before October 18, 1982” in subsec. (b), and adding subsecs. (c) and (d).
 
 1988—Subsec. (a)(6)(E). Pub. L. 100–707 substituted reference to sections 5170a, 5170b, and 5192 of title 42 for reference to sections 5145 and 5146 of title 42.
 

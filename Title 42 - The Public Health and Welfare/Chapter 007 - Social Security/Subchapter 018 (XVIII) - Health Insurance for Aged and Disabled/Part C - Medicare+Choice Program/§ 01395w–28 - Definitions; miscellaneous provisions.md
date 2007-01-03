@@ -34,7 +34,7 @@ In this part—
 
 &emsp;&emsp;The term “MSA plan” means a Medicare+�Choice plan that—
 
-&emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year but only after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
+&emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year butonly after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
 
 &emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
 

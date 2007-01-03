@@ -14,11 +14,11 @@ Sections 12705a to 12705d of this title, referred to in text, were in the origin
 
 #### Codification
 
-Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, and also as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
+Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, andalso as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
 
 #### Short Title
 
-Section 1201 of title XII of Pub. L. 102–550 provided that: “This title \[enacting this section and sections12705b to 12705d of this title, amending sections 5306 and 12705 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Removal of Regulatory Barriers to Affordable Housing Act of 1992’.”
+Section 1201 of title XII of Pub. L. 102–550 provided that: “This title \[enacting this section and sections 12705b to 12705d of this title, amending sections 5306 and 12705 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Removal of Regulatory Barriers to Affordable Housing Act of 1992’.”
 
 #### Report by Secretary
 

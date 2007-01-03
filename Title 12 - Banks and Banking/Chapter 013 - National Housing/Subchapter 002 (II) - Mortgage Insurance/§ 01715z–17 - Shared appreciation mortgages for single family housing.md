@@ -22,7 +22,7 @@ In the event of a default, the mortgagee shall be entitled to receive the benefi
 
 #### (d) Inapplicability of State constitution, statute, etc., limiting or prohibiting increases in outstanding loan balance
 
-Mortgages insured pursuant to this section which contain provisions for sharing appreciation or which otherwise require or permit increases in the outstanding loan balance which are authorized under this section or under applicable regulations shall not be subject to any State constitution, statute, court decree, common law, rule, or public policy limiting or prohibiting increases in the outstanding loan balance after execution of the mortgage.
+Mortgages insured pursuant to this section which contain provisions for sharing appreciation or which otherwise require or permit increases in the outstanding loan balance which are authorized under this section or under applicable regulations shall not be subject to anyState constitution, statute, court decree, common law, rule, or public policy limiting or prohibiting increases in the outstanding loan balance after execution of the mortgage.
 
 #### (e) Encouraged use of insurance by low and moderate income families
 

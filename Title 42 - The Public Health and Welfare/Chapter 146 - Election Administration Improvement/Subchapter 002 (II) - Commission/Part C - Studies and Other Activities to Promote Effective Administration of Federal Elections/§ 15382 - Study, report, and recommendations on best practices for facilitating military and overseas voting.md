@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(H) The use of a single application by absent uniformed services voters and overseas voters for absentee ballots for all Federal elections occurring during a year.
 
-&emsp;&emsp;(I) The use of a single application for voter registration and absentee ballots by absent uniformed services voters and overseas voters.
+&emsp;&emsp;(I) The use of a single application for voter registration and absentee ballots by absentuniformed services voters and overseas voters.
 
 &emsp;&emsp;(J) The use of facsimile machines and electronic means of transmission of absentee ballot applications and absentee ballots to absent uniformed services voters and overseas voters.
 

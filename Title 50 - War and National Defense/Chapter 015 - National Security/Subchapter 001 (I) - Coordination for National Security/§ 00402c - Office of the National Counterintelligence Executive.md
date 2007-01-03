@@ -30,7 +30,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (1) National threat identification and prioritization assessment
 
-&emsp;Subject to subsection (f) of this section, in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce on an annual basis a strategic planning assessment of the counterintelligence requirements of theUnited States to be known as the National Threat Identification and Prioritization Assessment.
+&emsp;Subject to subsection (f) of this section, in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce on an annual basis a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
 
 #### (2) National Counterintelligence Strategy
 
@@ -98,7 +98,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 (1) Personnel of the Office of the National Counterintelligence Executive may consist of personnel employed by the Office or personnel on detail from any other department, agency, or element of the Federal Government. Any such detail may be on a reimbursable or nonreimbursable basis, at the election of the head of the agency detailing such personnel.
 
-(2) Notwithstanding section 104(d) <sup>1</sup> or any other provision of law limiting the period of thedetail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the National Counterintelligence Executive and the head of the department, agency, or element concerned consider appropriate.
+(2) Notwithstanding section 104(d) <sup>1</sup> or any other provision of law limiting the period of the detail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the National Counterintelligence Executive and the head of the department, agency, or element concerned consider appropriate.
 
 (3) The employment of personnel by the Office, including the appointment, compensation and benefits, management, and separation of such personnel, shall be governed by the provisions of law on such matters with respect to the personnel of the Central Intelligence Agency, except that, for purposes of the applicability of such provisions of law to personnel of the Office, the National Counterintelligence Executive shall be treated as the head of the Office.
 
@@ -120,7 +120,7 @@ The National Counterintelligence Executive may, from amounts available for the O
 
 (1) Subject to paragraph (2), the National Counterintelligence Executive may enter into any contract, lease, cooperative agreement, or other transaction that the Executive considers appropriate to carry out the functions of the Office of the National Counterintelligence Executive under this section.
 
-(2) The authority under paragraph (1) to enter into contracts, leases, cooperative agreements, and other transactions shall be subject to any terms, conditions, and limitations applicable to the Central Intelligence Agency under law with respect to similar contracts, leases, cooperative agreements, and other transactions.
+(2) The authority under paragraph (1) to enter into contracts, leases, cooperative agreements, and other transactions shall be subject to any terms, conditions, and limitations applicable to the Central Intelligence Agency under law withrespect to similar contracts, leases, cooperative agreements, and other transactions.
 
 #### (k) Treatment of activities under certain administrative laws
 

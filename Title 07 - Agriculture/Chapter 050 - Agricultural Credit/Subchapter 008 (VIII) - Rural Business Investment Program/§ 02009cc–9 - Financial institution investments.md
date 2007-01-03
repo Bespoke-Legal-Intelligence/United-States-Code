@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this section and notwithstanding any other provision of law, the following banks, associations, and institutions are eligible both to establish and invest in any rural business investment company or in any entity established to invest solely in rural business investment companies:
+Except as otherwise provided in this section and notwithstanding any other provision of law, the following banks, associations, and institutions are eligible both to establish and invest inany rural business investment company or in any entity established to invest solely in rural business investment companies:
 
 &emsp;(1) Any bank or savings association the deposits of which are insured under the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.).
 

@@ -24,7 +24,7 @@
 
 &emsp;(ii) by a port only on the grounds that such port individually will be harmed because the proposed contract will result in unreasonable discrimination against such port.
 
-(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph,a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
+(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph, a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
 
 &emsp;(i) the rail carrier has unreasonably discriminated by refusing to enter into a contract with such shipper for rates and services for the transportation of the same type of commodity under similar conditions to the contract at issue, and that shipper was ready, willing, and able to enter into such a contract at a time essentially contemporaneous with the period during which the contract at issue was offered; or
 
@@ -38,7 +38,7 @@
 
 (B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
 
-(h)(1) Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier's owned or leased equipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
+(h)(1) Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier's owned or leasedequipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
 
 (2) The Board may, on request of a rail carrier or other party or on its own initiative, grant such relief from the limitations of paragraph (1) of this subsection as the Board considers appropriate, if it appears that additional equipment may be made available without impairing the rail carrier's ability to meet its common carrier obligations under section 11101 of this title.
 

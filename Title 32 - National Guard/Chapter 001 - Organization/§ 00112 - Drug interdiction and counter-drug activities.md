@@ -192,5 +192,87 @@ Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
+#### National Guard Counterdrug Schools
+
+Pub. L. 109–469, title IX, §901, Dec. 29, 2006, 120 Stat. 3536, provided that:
+
+“(a)
+
+Authority To Operate.—Under such regulations as the Secretary of Defense may prescribe, the Chief of the National Guard Bureau may establish and operate, or provide financial assistance to the States to establish and operate, not more than 5 schools (to be known generally as ‘National Guard counterdrug schools’).
+
+“(b)
+
+Purpose.—The purpose of the National Guard counterdrug schools shall be the provision by the National Guard of training in drug interdiction and counterdrug activities and drug demand reduction activities to personnel of the following:
+
+&emsp;“(1) Federal agencies.
+
+&emsp;“(2) State, local, and tribal law enforcement agencies.
+
+&emsp;“(3) Community-based organizations engaged in such activities.
+
+&emsp;“(4) Other non-Federal governmental and private entities and organizations engaged in such activities.
+
+“(c)
+
+Counterdrug Schools Specified.—The National Guard counterdrug schools operated under the authority in subsection (a) are as follows:
+
+&emsp;“(1) The National Interagency Civil-Military Institute (NICI), San Luis Obispo, California.
+
+&emsp;“(2) The Multi-Jurisdictional Counterdrug Task Force Training (MCTFT), St. Petersburg, Florida.
+
+&emsp;“(3) The Midwest Counterdrug Training Center (MCTC), Johnston, Iowa.
+
+&emsp;“(4) The Regional Counterdrug Training Academy (RCTA), Meridian, Mississippi.
+
+&emsp;“(5) The Northeast Regional Counterdrug Training Center (NCTC), Fort Indiantown Gap, Pennsylvania.
+
+“(d)
+
+Use of National Guard Personnel.—
+
+&emsp;“(1)
+
+In general.—To the extent provided for in the State drug interdiction and counterdrug activities plan of a State in which a National Guard counterdrug school is located, personnel of the National Guard of that State who are ordered to perform full-time National Guard duty authorized under section 112(b) of that \[sic\] title 32, United States Code, may provide training referred to in subsection (b) at that school.
+
+&emsp;“(2)
+
+Definition.—In this subsection, the term ‘State drug interdiction and counterdrug activities plan’, in the case of a State, means the current plan submitted by the Governor of the State to the Secretary of Defense under section 112 of title 32, United States Code.
+
+“(e)
+
+Treatment Under Authority To Provide Counterdrug Support.—The provisions of section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 374 note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
+
+“(f)
+
+Annual Reports on Activities.—
+
+&emsp;“(1)
+
+In general.—Not later than February 1 each year, the Secretary of Defense shall submit to Congress a report on the activities of the National Guard counterdrug schools during the preceding year.
+
+&emsp;“(2)
+
+Contents.—Each report under paragraph (1) shall set forth the following:
+
+&emsp;&emsp;“(A)
+
+Funding.—The amount made available for each National Guard counterdrug school during the fiscal year ending in the year preceding the year in which such report is submitted.
+
+&emsp;&emsp;“(B)
+
+Activities.—A description of the activities of each National Guard counterdrug school during the year preceding the year in which such report is submitted.
+
+“(g)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There is hereby authorized to be appropriated for the Department of Defense for the National Guard for each of fiscal years 2006 through 2010, $30,000,000 for purposes of the National Guard counterdrug schools in such fiscal year.
+
+&emsp;“(2)
+
+Construction.—The amount authorized to be appropriated by paragraph (1) for a fiscal year is in addition to any other amount authorized to be appropriated for the Department of Defense for the National Guard for such fiscal year.”
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

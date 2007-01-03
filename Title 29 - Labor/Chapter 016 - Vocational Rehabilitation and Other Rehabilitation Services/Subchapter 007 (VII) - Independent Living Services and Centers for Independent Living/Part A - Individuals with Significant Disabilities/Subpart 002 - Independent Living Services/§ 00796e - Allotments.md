@@ -32,7 +32,7 @@
 
 #### (b) Proportional reduction
 
-To provide allotments to States in accordance with subsection (a)(1)(B) of this section, to provide minimum allotments to States (as increased under subsection (a)(3) of this section) under subsection (a)(1)(C) of this section, or to provide minimum allotments to States under subsection (a)(2)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B) of this section.
+To provide allotments to States in accordance with subsection (a)(1)(B) of this section, to provide minimum allotments to States (as increased under subsection (a)(3) of this section) under subsection (a)(1)(C) of this section, or to provide minimum allotments to States under subsection (a)(2)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A) of this section, with such adjustments as may be necessary to prevent the allotment ofany such remaining State from being reduced to less than the amount required by subsection (a)(1)(B) of this section.
 
 #### (c) Reallotment
 

@@ -82,7 +82,7 @@ Cooperation With Department of Defense.—(1) The Secretary of Veterans Affairs 
 
 &emsp;(B) making available, in a manner that the Secretary of Veterans Affairs considers appropriate, blind rehabilitation specialists of the Department of Veterans Affairs to such facilities to consult with the medical staff of such facilities on the special needs of such members who have visual impairment as a consequence of combat injury.
 
-(2) Assistance shall be provided under this subsection through agreements for the sharing of health-care resources under section 8111 of this title.
+(2) Assistance shall be provided under this subsection through agreements for the sharing ofhealth-care resources under section 8111 of this title.
 
 (f)
 

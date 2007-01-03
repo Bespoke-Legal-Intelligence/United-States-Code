@@ -56,7 +56,7 @@ In this section:
 
 #### (i) Producers of less than 65,000,000 gallons
 
-&emsp;&emsp;&emsp;An eligible producer that produces less than 65,000,000 gallons of bioenergy shall be reimbursed 1 feedstock unit for every 2.5 feedstock units of eligible commodity used for increased production.
+&emsp;&emsp;&emsp;An eligible producer that produces less than 65,000,000 gallons of bioenergy shall bereimbursed 1 feedstock unit for every 2.5 feedstock units of eligible commodity used for increased production.
 
 #### (ii) Producers of 65,000,000 or more gallons
 

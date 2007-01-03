@@ -26,7 +26,3 @@ Section is comprised of third par. of section 16 of act Dec. 23, 1913. For class
 
 Section 203(a) of Act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Transfer of Functions
-
-For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
-

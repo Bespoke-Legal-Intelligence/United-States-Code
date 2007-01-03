@@ -26,11 +26,23 @@
 
 &emsp;(B) a finding described in subsection (b)(3) of such section shall be made by an appropriate official of such State.
 
-(e) Amounts appropriated to carry out this section shall remain available until expended. Ifall funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
+(e) Amounts appropriated to carry out this section shall remain available until expended. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
 
-(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667.)
+(f)(1) The Secretary may make grants under this subsection to any tribal organization to assist the tribal organization in establishing, expanding, or improving veterans’ cemeteries on trust land owned by, or held in trust for, the tribal organization.
+
+(2) Grants under this subsection shall be made in the same manner, and under the same conditions, as grants to States are made under the preceding provisions of this section.
+
+(3) For purposes of this subsection:
+
+&emsp;(A) The term “tribal organization” has the meaning given that term in section 3765(4) of this title.
+
+&emsp;(B) The term “trust land” has the meaning given that term in section 3765(1) of this title.
+
+(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, §403, Dec. 22, 2006, 120 Stat. 3430.)
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–461 added subsec. (f).
 
 2003—Subsec. (a). Pub. L. 108–183, §503(a), struck out par. (1) designation before “Subject to” and struck out par. (2) which authorized amounts for fiscal years 1999 through 2004 for grants.
 

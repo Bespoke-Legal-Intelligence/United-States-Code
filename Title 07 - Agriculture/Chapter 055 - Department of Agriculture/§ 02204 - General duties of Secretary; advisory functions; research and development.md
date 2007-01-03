@@ -46,7 +46,7 @@ Delegation of authority to Secretary with respect to nation's food program durin
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Secretary of Agriculture, see Parts 1, 2, and 3 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Secretary of Agriculture, see Parts 1, 2,and 3 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Report on Geographically Disadvantaged Farmers and Ranchers
 
@@ -156,7 +156,7 @@ Maintenance of standards and preparedness.—In making recommendations to transf
 
 &emsp;“(5)
 
-Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress theresults of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
+Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress the results of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
 
 “(b)
 

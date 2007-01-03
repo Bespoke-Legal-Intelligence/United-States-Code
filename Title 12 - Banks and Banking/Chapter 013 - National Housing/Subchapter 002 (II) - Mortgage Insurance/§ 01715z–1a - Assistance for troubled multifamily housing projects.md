@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certain projects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
+The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certain projects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
 
 #### (b) Availability of financial assistance
 
@@ -58,7 +58,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 (1) The Secretary may, with respect to any year, provide assistance under this section, and make commitments to provide such assistance, with respect to any project (except a project assisted only for capital improvements) in any amount which the Secretary determines is consistent with the project's management-improvement-and-operating plan described in subsection (d)(6) of this section and which does not exceed the sum of—
 
-&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in theproject which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs or the failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
+&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in the project which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs or the failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
 
 &emsp;(B) an amount determined by the Secretary to be necessary to maintain the low- and moderate-income character of the project by reducing deficiencies, which exist at the beginning of the first year with respect to which assistance is made available for the project under this section and for which payment has not previously been made, in the reserve funds established by the project owner for the purpose of replacing capital items;
 
@@ -86,7 +86,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 (3) In order to carry out the purposes of this section, the Secretary may, notwithstanding the provisions of section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\], provide that, for purposes of establishing a rental charge under such section, there may be excluded from the computation of the cost of operating a project an amount equivalent to the amount of assistance payments made for the project under this section.
 
-(4) Any assistance payments made pursuant to this section with respect to any project shall be made on an annual basis, payable at such intervals, but at least quarterly, as the Secretary may determine, and may be in any amount (which the Secretary determines to be consistent with the purpose of this section), except that the sum of such assistance payments for any year for a project (other than a project receiving assistance only for capital improvements) may not exceed the amount computed pursuant to paragraph (1) of this subsection. The Secretary shall review the operations of the project at the time of such payments to determine that such operations are consistent with the management-improvement-and-operating plan.
+(4) Any assistance payments made pursuant to this section with respect to any project shall be made on an annual basis, payable at such intervals, but at least quarterly, as the Secretary may determine, and may be in any amount\(which the Secretary determines to be consistent with the purpose of this section), except that the sum of such assistance payments for any year for a project (other than a project receiving assistance only for capital improvements) may not exceed the amount computed pursuant to paragraph (1) of this subsection. The Secretary shall review the operations of the project at the time of such payments to determine that such operations are consistent with the management-improvement-and-operating plan.
 
 #### (g) Rules and regulations
 
@@ -178,7 +178,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (3) Exceptions
 
-&emsp;The Secretary may make exceptions to selection criteria set forth in paragraph (2)(B) to permit the provision of assistance to eligible projects based upon—
+&emsp;The Secretary may make exceptions to selection criteria set forth in paragraph (2)(B) topermit the provision of assistance to eligible projects based upon—
 
 &emsp;&emsp;(A) the extent to which such assistance is necessary to prevent the imminent foreclosure or default of a project whose owner has not submitted a comprehensive needs assessment pursuant to title IV of the Housing and Community Development Act of 1992;
 
@@ -582,7 +582,7 @@ Section 204(c) of Pub. L. 101–235, as amended by Pub. L. 101–625, title V, �
 
 #### National Commission on Severely Distressed Public Housing
 
-Title V of Pub. L. 101–235, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to be most severely distressed, provided for membership, functions, and powers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
+Title V of Pub. L. 101–235, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to be most severely distressed, provided for membership, functions, andpowers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
 
 #### Multifamily Housing Capital Improvements Assistance; Regulations for Implementation of Program
 

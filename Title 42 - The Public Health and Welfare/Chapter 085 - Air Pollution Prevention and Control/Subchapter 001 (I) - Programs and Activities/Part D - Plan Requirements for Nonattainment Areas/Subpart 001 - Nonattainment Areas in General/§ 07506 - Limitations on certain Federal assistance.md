@@ -18,7 +18,7 @@
 
 > The determination of conformity shall be based on the most recent estimates of emissions, and such estimates shall be determined from the most recent population, employment, travel and congestion estimates as determined by the metropolitan planning organization or other agency authorized to make such estimates.
 
-(2) Any transportation plan or program developed pursuant to title 23 or chapter 53 of title 49 shall implement the transportation provisions of any applicable implementation plan approved under this chapter applicable to all or part ofthe area covered by such transportation plan or program. No Federal agency may approve, accept or fund any transportation plan, program or project unless such plan, program or project has been found to conform to any applicable implementation plan in effect under this chapter. In particular—
+(2) Any transportation plan or program developed pursuant to title 23 or chapter 53 of title 49 shall implement the transportation provisions of any applicable implementation plan approved under this chapter applicable to all or part of the area covered by such transportation plan or program. No Federal agency may approve, accept or fund any transportation plan, program or project unless such plan, program or project has been found to conform to any applicable implementation plan in effect under this chapter. In particular—
 
 &emsp;(A) no transportation plan or transportation improvement program may be adopted by a metropolitan planning organization designated under title 23 or chapter 53 of title 49, or be found to be in conformity by a metropolitan planning organization until a final determination has been made that emissions expected from implementation of such plans and programs are consistent with estimates of emissions from motor vehicles and necessary emissions reductions contained in the applicable implementation plan, and that the plan or program will conform to the requirements of paragraph (1)(B);
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(iii) the design concept and scope of such project at the time of the conformity determination for the program was adequate to determine emissions.
 
-&emsp;(D) Any project not referred to in subparagraph (C) shall be treated as conforming to the applicable implementation plan only if it is demonstrated that the projected emissions from such project, when considered together with emissions projected for the conforming transportation plans and programs within the nonattainment area, do not cause such plans and programs to exceed the emission reduction projections and schedules assigned to such plans and programs in the applicable implementation plan.
+&emsp;(D) Any project not referred to in subparagraph (C) shall be treated as conforming to the applicable implementation plan only if it is demonstrated that the projected emissions from such project, when considered togetherwith emissions projected for the conforming transportation plans and programs within the nonattainment area, do not cause such plans and programs to exceed the emission reduction projections and schedules assigned to such plans and programs in the applicable implementation plan.
 
 &emsp;(E) The appropriate metropolitan planning organization shall redetermine conformity of existing transportation plans and programs not later than 2 years after the date on which the Administrator—
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) promulgates an implementation plan that establishes or revises a motor vehicle emissions budget.
 
-(3) Until such time as the implementation plan revision referred to in paragraph (4)(C) is approved, conformity of such plans, programs, and projects will be demonstrated if—
+(3) Until such time as the implementation plan revision referred to in paragraph (4)(C) <sup>1</sup> is approved, conformity of such plans, programs, and projects will be demonstrated if—
 
 &emsp;(A) the transportation plans and programs—
 
@@ -102,7 +102,7 @@ Applicability.—This subsection shall apply only with respect to—
 
 &emsp;(B) an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainment area and that is required to develop a maintenance plan under section 7505a of this title with respect to the specific pollutant for which the area was designated nonattainment.
 
-(6) Notwithstanding paragraph 5,<sup>1</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>2</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
+(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
 
 (7)
 
@@ -132,7 +132,7 @@ Effect of election.—Any election by a metropolitan planning organization under
 
 &emsp;(E)
 
-Air pollution control agency defined.—In this paragraph, the term “air pollution control agency” means an air pollution control agency (as defined in section 7602(b) ofthis title) that is responsible for developing plans or controlling air pollution within the area covered by a transportation plan.
+Air pollution control agency defined.—In this paragraph, the term “air pollution control agency” means an air pollution control agency (as defined in section 7602(b) of this title) that is responsible for developing plans or controlling air pollution within the area covered by a transportation plan.
 
 (8)
 
@@ -206,6 +206,8 @@ Each department, agency, or instrumentality of the Federal Government having aut
 
 #### References in Text
 
+Paragraph (4) of subsec. (c), referred to in subsec. (c)(3), was amended by Pub. L. 109–59, title VI, §6011(f), Aug. 10, 2005, 119 Stat. 1881, to redesignate subpar. (C) as (E), strike it out, and add new subpars. (C) and (E). See 2005 Amendment notes below.
+
 Section 7505a of this title, referred to in subsec. (c)(6), was in the original “section 175(A)” and was translated as reading “section 175A”, meaning section 175A of act July 14, 1955, which is classified to section 7505a of this title, to reflect the probable intent of Congress.
 
 The Housing and Urban Development Act, referred to in subsec. (d), may be the name for a series of acts sharing the same name but enacted in different years by Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451; Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, Dec. 24, 1969, 83 Stat. 379; and Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1770, respectively. For complete classification of these Acts to the Code, see Short Title notes set out under section 1701 of Title 12, Banks and Banking, and Tables.
@@ -220,7 +222,7 @@ In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the 
 
 Subsec. (c)(4). Pub. L. 109–59, §6011(f)(1)–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted “The Administrator shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator shall promulgate”, designated second sentence as subpar. (B), inserted heading, substituted “The Administrator, with the concurrence of the Secretary of Transportation, shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate”, designated third sentence as subpar. (C), inserted heading, substituted “A civil action” for “A suit”, and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
 
-Subsec. (c)(4)(B)(ii). Pub. L. 109–59, §6011(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “address the appropriate frequency for making conformity determinations, but in no case shall such determinations for transportation plans and programs be less frequent than every three years; and”.
+Subsec. (c)(4)(B)(ii). Pub. L. 109–59, §6011(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: “address the appropriate frequency for making conformity determinations, but in no case shall such determinations for transportation plans and programs be less frequent than every three years; and”.
 
 Subsec. (c)(4)(E). Pub. L. 109–59, §6011(f)(4), added subpar. (E) and struck out former subpar. (E) which read as follows: “Such procedures shall also include a requirement that each State shall submit to the Administrator and the Secretary of Transportation within 24 months of November 15, 1990, a revision to its implementation plan that includes criteria and procedures for assessing the conformity of any plan, program, or project subject to the conformity requirements of this subsection.”
 
@@ -242,9 +244,9 @@ Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par.
 
 Pub. L. 109–59, title VI, §6011(g), Aug. 10, 2005, 119 Stat. 1882, provided that: “Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Administrator of the Environmental Protection Agency shall promulgate revised regulations to implement the changes made by this section \[amending this section\].”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (5),”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (5),”.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be “Notwithstanding”.</i>
 

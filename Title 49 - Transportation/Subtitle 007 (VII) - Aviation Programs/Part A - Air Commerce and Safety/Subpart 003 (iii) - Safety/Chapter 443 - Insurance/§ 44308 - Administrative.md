@@ -86,7 +86,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1307(f), 72 Stat. 804; Jan. 2, 1975, Pub. L. 
 
 49 App.:1537(f) (last sentence).
 
-In subsection (a), the words “may carry out this chapter” are substituted for “in administering thissubchapter, may exercise his powers, perform his duties and functions, and make his expenditures” to eliminate unnecessary words.
+In subsection (a), the words “may carry out this chapter” are substituted for “in administering this subchapter, may exercise his powers, perform his duties and functions, and make his expenditures” to eliminate unnecessary words.
 
 In subsection (b)(1), the word “insurance” is added for clarity. The words “rules, and regulations” are omitted as unnecessary because of 49:322(a). The words “as he deems proper” and “subject to the following provisions of this subsection” are omitted as surplus. The words “and change” and “fix, adjust, and change” are omitted as being included in “prescribe”. The words “under the policies” are added for clarity. The word “charged” is substituted for “provided for in this subchapter” for consistency in this subchapter.
 

@@ -18,5 +18,5 @@ Section was formerly classified to section 43 of Title 8, Aliens and Nationality
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–170 applicable with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after Dec. 29, 1979, see section 3 of Pub. L. 96–170, set out as a note under section 1343 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–170 applicable with respect to any deprivation of rights, privileges, or immunitiessecured by the Constitution and laws occurring after Dec. 29, 1979, see section 3 of Pub. L. 96–170, set out as a note under section 1343 of Title 28, Judiciary and Judicial Procedure.
 

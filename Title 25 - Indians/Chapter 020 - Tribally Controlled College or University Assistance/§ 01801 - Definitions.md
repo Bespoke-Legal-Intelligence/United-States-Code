@@ -10,7 +10,7 @@
 
 &emsp;(4) “tribally controlled college or university” means an institution of higher education which is formally controlled, or has been formally sanctioned, or chartered, by the governing body of an Indian tribe or tribes, except that no more than one such institution shall be recognized with respect to any such tribe;
 
-&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
+&emsp;(5) “institution of higher education” means an institution of higher education as definedby section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
 
 &emsp;(6) “national Indian organization” means an organization which the Secretary finds is nationally based, represents a substantial Indian constituency, and has expertise in the field of Indian education;
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title of 1990 Amendment
 
-Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
+Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat.804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
 
 #### Short Title of 1986 Amendment
 

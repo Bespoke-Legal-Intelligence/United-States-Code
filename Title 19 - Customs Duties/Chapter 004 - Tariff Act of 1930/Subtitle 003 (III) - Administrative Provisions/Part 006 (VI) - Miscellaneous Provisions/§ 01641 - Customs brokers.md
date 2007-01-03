@@ -6,7 +6,7 @@ As used in this section:
 
 &emsp;(1) The term “customs broker” means any person granted a customs broker's license by the Secretary under subsection (b) of this section.
 
-&emsp;(2) The term “customs business” means those activities involving transactions with the Customs Service concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by the Customs Service upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtheranceof such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
+&emsp;(2) The term “customs business” means those activities involving transactions with the Customs Service concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by the Customs Service upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
 
 &emsp;(3) The term “Secretary” means the Secretary of the Treasury.
 
@@ -18,7 +18,7 @@ As used in this section:
 
 #### (2) Licenses for individuals
 
-&emsp;The Secretary may grant an individual a customs broker's license only if that individual is a citizen of the United States. Before granting the license, the Secretary may require an applicant to show any facts deemed necessary to establish that the applicant is of good moral character and qualified to render valuable service to others in the conduct of customs business. In assessing the qualifications of an applicant, the Secretary may conduct an examination to determine the applicant's knowledge of customs and related laws, regulations and procedures, bookkeeping, accounting, and all other appropriate matters.
+&emsp;The Secretary may grant an individual a customs broker's license only if that individual is a citizen of the United States. Before granting the license, the Secretary may require an applicant to show any facts deemed necessary to establish that the applicant is ofgood moral character and qualified to render valuable service to others in the conduct of customs business. In assessing the qualifications of an applicant, the Secretary may conduct an examination to determine the applicant's knowledge of customs and related laws, regulations and procedures, bookkeeping, accounting, and all other appropriate matters.
 
 #### (3) Licenses for corporations, etc.
 
@@ -104,13 +104,13 @@ As used in this section:
 
 #### (4) Limitation of actions
 
-&emsp;Notwithstanding section 1621 of this title, no proceeding under this subsection or subsection (b)(6) of this section shall be commenced unless such proceeding is instituted by the appropriate service of written notice within 5 years from the date the alleged violation wascommitted; except that if the alleged violation consists of fraud, the 5-year period of limitation shall commence running from the time such alleged violation was discovered.
+&emsp;Notwithstanding section 1621 of this title, no proceeding under this subsection or subsection (b)(6) of this section shall be commenced unless such proceeding is instituted by the appropriate service of written notice within 5 years from the date the alleged violation was committed; except that if the alleged violation consists of fraud, the 5-year period of limitation shall commence running from the time such alleged violation was discovered.
 
 #### (e) Judicial appeal
 
 #### (1) In general
 
-&emsp;A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c) of this section, or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by the clerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in section 2635(d) of title 28.
+&emsp;A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c) of this section, or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by theclerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in section 2635(d) of title 28.
 
 #### (2) Consideration of objections
 
@@ -158,9 +158,9 @@ The Secretary may prescribe such rules and regulations relating to the customs b
 
 #### (h) Fees and charges
 
-The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of thissection, including, but not limited to, a fee for licenses issued under subsection (b) of this section and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
+The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) of this section and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
 
-(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916.)
+(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat.3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916.)
 
 #### Prior Provisions
 
@@ -210,7 +210,7 @@ Subsec. (e). Act Aug. 26, 1935, §5, repealed subsec. (e) which related to licen
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–258 effective May 1, 1999, except as otherwise provided, see section 2 of Pub. L. 105–258, set out as a note under section 1701 of Title 46, Appendix, Shipping.
+Pub. L. 105–258, §2, Oct. 14, 1998, 112 Stat. 1902, provided that: “Except as otherwise expressly provided in this Act \[see Tables for classification\], this Act and the amendments made by this Act take effect May 1, 1999.”
 
 #### Effective Date of 1984 Amendment
 

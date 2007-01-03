@@ -64,7 +64,7 @@
 
 &emsp;&emsp;At the option of the State, a State shall be considered to meet the requirements of subparagraph (A) in the case of an individual residing in a rural area, if the State requires the individual to enroll with a managed care entity if such entity—
 
-&emsp;&emsp;&emsp;(i) permits the individual to receive such assistance through not less than two physicians or case managers (to the extent that at least two physicians or case managers are available to provide such assistance in the area), and
+&emsp;&emsp;&emsp;(i) permits the individual to receive such assistance through not less than two physicians or case managers (to the extentthat at least two physicians or case managers are available to provide such assistance in the area), and
 
 &emsp;&emsp;&emsp;(ii) permits the individual to obtain such assistance from any other provider in appropriate circumstances (as established by the State under regulations of the Secretary).
 
@@ -144,7 +144,7 @@
 
 #### (C) Comparative information
 
-&emsp;&emsp;A State that requires individuals to enroll with managed care entities under paragraph (1)(A) shall annually (and upon request) provide, directly or through the managed care entity, to such individuals a list identifying the managed care entities that are (or will be) available and information (presented in a comparative, chart-like form) relating to the following for each such entity offered:
+&emsp;&emsp;A State that requires individuals to enroll with managed care entities under paragraph\(1)(A) shall annually (and upon request) provide, directly or through the managed care entity, to such individuals a list identifying the managed care entities that are (or will be) available and information (presented in a comparative, chart-like form) relating to the following for each such entity offered:
 
 #### (i) Benefits and cost-sharing
 
@@ -198,6 +198,10 @@
 
 &emsp;&emsp;&emsp;(iii) serious dysfunction of any bodily organ or part.
 
+#### (D) Emergency services furnished by non-contract providers
+
+&emsp;&emsp;Any provider of emergency services that does not have in effect a contract with a Medicaid managed care entity that establishes payment amounts for services furnished to a beneficiary enrolled in the entity's Medicaid managed care plan must accept as payment in full no more than the amounts (less any payments for indirect costs of medical education and direct costs of graduate medical education) that it could collect if the beneficiary received medical assistance under this subchapter other than through enrollment in such an entity. In a State where rates paid to hospitals under the State plan are negotiated by contract and not publicly released, the payment amount applicable under this subparagraph shall be the average contract rate that would apply under the State plan for general acute care hospitals or the average contract rate that would apply under such plan for tertiary hospitals.
+
 #### (3) Protection of enrollee-provider communications
 
 #### (A) In general
@@ -232,7 +236,7 @@
 
 #### (6) Protecting enrollees against liability for payment
 
-&emsp;Each medicaid managed care organization shall provide that an individual eligible for medical assistance under the State plan underthis subchapter who is enrolled with the organization may not be held liable—
+&emsp;Each medicaid managed care organization shall provide that an individual eligible for medical assistance under the State plan under this subchapter who is enrolled with the organization may not be held liable—
 
 &emsp;&emsp;(A) for the debts of the organization, in the event of the organization's insolvency,
 
@@ -378,7 +382,7 @@
 
 #### (E) Prohibition of “cold-call” marketing
 
-&emsp;&emsp;Each managed care entity shall not, directly or indirectly, conduct door-to-door,telephonic, or other “cold-call” marketing of enrollment under this subchapter.
+&emsp;&emsp;Each managed care entity shall not, directly or indirectly, conduct door-to-door, telephonic, or other “cold-call” marketing of enrollment under this subchapter.
 
 #### (3) State conflict-of-interest safeguards in medicaid risk contracting
 
@@ -400,7 +404,7 @@
 
 &emsp;&emsp;&emsp;(ii) imposes premiums or charges on enrollees in excess of the premiums or charges permitted under this subchapter;
 
-&emsp;&emsp;&emsp;(iii) acts to discriminate among enrollees on the basis of their health status or requirements for health care services, including expulsion or refusal to reenroll an individual, except as permitted by this subchapter, or engaging in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment with the organization by eligible individuals whose medical condition or history indicates a need for substantial future medical services;
+&emsp;&emsp;&emsp;(iii) acts to discriminate among enrollees on the basis of their health status or requirements for health care services, including expulsion or refusal to reenroll an individual, except as permitted by this subchapter, or engaging in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment with the organization by eligible individuals whose medical condition orhistory indicates a need for substantial future medical services;
 
 &emsp;&emsp;&emsp;(iv) misrepresents or falsifies information that is furnished—
 
@@ -444,7 +448,7 @@
 
 &emsp;&emsp;(C) Permitting individuals enrolled with the managed care entity to terminate enrollment without cause, and notifying such individuals of such right to terminate enrollment.
 
-&emsp;&emsp;(D) Suspension or default of all enrollment of individuals under this subchapter afterthe date the Secretary or the State notifies the entity of a determination of a violation of any requirement of section 1396b(m) of this title or this section.
+&emsp;&emsp;(D) Suspension or default of all enrollment of individuals under this subchapter after the date the Secretary or the State notifies the entity of a determination of a violation of any requirement of section 1396b(m) of this title or this section.
 
 &emsp;&emsp;(E) Suspension of payment to the entity under this subchapter for individuals enrolled after the date the Secretary or State notifies the entity of such a determination and until the Secretary or State is satisfied that the basis for such determination has been corrected and is not likely to recur.
 
@@ -486,7 +490,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;(2) to include a sponsorship code in the identification card issued to individuals covered under this subchapter in order that a hospital may identify a patient as being entitled to benefits under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121.)
 
 #### References in Text
 
@@ -508,9 +512,11 @@ Executive Order No. 12549, referred to in subsec. (d)(1)(C)(i), is set out as a 
 
 #### Prior Provisions
 
-A prior section 1932 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
+A prior section 1932 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(2)(D). Pub. L. 109–171 added subpar. (D).
 
 2000—Subsec. (g). Pub. L. 106–554 added subsec. (g).
 
@@ -532,6 +538,10 @@ Subsec. (f). Pub. L. 105–33, §4708(c), added subsec. (f).
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VI, §6085(b), Feb. 8, 2006, 120 Stat. 121, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2007.”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(3)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts as of January 1, 2001.”
@@ -550,7 +560,7 @@ GAO study and report on quality assurance and accreditation standards.—
 
 &emsp;“(A)
 
-Study.—The Comptroller General of the United States shall conduct a study and analysis of the quality assurance programs and accreditation standards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
+Study.—The Comptroller General of the United States shall conduct a study and analysis of the quality assurance programs and accreditationstandards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
 
 &emsp;&emsp;“(i) if such programs and standards include consideration of the accessibility and quality of the health care items and services delivered under such contracts to low-income individuals; and
 

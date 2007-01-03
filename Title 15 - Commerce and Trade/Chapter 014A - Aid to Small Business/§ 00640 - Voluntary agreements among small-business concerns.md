@@ -20,8 +20,6 @@ Upon withdrawal of any request or finding hereunder, or upon withdrawal by the A
 
 #### References in Text
 
-The antitrust laws, referred to in subsec. (b), are classified generally to chapter 1 (§1 et seq.) of this title.
-
 The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Prior Provisions

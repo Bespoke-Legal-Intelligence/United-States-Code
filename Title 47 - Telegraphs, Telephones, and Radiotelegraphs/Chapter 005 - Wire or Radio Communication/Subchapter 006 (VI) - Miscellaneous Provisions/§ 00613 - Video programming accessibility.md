@@ -2,7 +2,7 @@
 
 #### (a) Commission inquiry
 
-Within 180 days after February 8, 1996, the Federal Communications Commission shall complete an inquiry to ascertain the level at which video programming is closed captioned. Such inquiry shall examine the extent to which existing or previously published programming is closed captioned, the size of the video programming provider or programming owner providing closed captioning, the size of the market served, the relative audience shares achieved, or any other related factors. The Commission shall submit to the Congress a report on the results of such inquiry.
+Within 180 days after February 8, 1996, the Federal Communications Commission shallcomplete an inquiry to ascertain the level at which video programming is closed captioned. Such inquiry shall examine the extent to which existing or previously published programming is closed captioned, the size of the video programming provider or programming owner providing closed captioning, the size of the market served, the relative audience shares achieved, or any other related factors. The Commission shall submit to the Congress a report on the results of such inquiry.
 
 #### (b) Accountability criteria
 

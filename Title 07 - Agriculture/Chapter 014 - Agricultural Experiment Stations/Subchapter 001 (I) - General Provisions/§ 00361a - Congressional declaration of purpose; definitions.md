@@ -36,7 +36,7 @@ Section was formerly classified to section 362 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–471 effective July 1, 1975, unless Pub. L. 93–471 repealed by District of Columbia Council after Jan. 2, 1975, and prior to July 1, 1975; orsuch amendment by Pub. L. 93–471, as amended by the District Council, also effective July 1, 1975, or some other date prescribed by the Council as authorized under provisions of section 407 of Pub. L. 93–471.
+Amendment by Pub. L. 93–471 effective July 1, 1975, unless Pub. L. 93–471 repealed by District of Columbia Council after Jan. 2, 1975, and prior to July 1, 1975; or such amendment by Pub. L. 93–471, as amended by the District Council, also effective July 1, 1975, or some other date prescribed by the Council as authorized under provisions of section 407 of Pub. L. 93–471.
 
 #### Effective Date of 1972 Amendment
 

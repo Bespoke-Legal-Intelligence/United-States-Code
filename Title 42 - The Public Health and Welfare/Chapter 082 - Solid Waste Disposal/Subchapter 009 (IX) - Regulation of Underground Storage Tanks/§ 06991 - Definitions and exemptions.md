@@ -14,7 +14,7 @@ In general.—The term “Indian tribe” means any Indian tribe, band, nation, 
 
 Inclusions.—The term “Indian tribe” includes an Alaska Native village, as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and <sup>1</sup>
 
-&emsp;(2) The term “nonoperational storage tank” means any underground storage tank in which regulated substances will not be deposited or from which regulated substances will not be dispensed after November 8, 1984.
+&emsp;(2) The term “nonoperational storage tank” means any underground storage tank in whichregulated substances will not be deposited or from which regulated substances will not be dispensed after November 8, 1984.
 
 &emsp;(3) The term “operator” means any person in control of, or having responsibility for, the daily operation of the underground storage tank.
 

@@ -6,7 +6,7 @@ When title to lands and interests in lands in an amount sufficient to constitute
 
 #### Amendments
 
-1974—Pub. L. 93–477 substituted “in an amount sufficient to constitute an efficiently administerable \[sic\] unit for the purposes of sections 459g to 459g–7 of this title” for “which under section 459g–1(a) of this title may be acquired for the purposes of the seashore by donation only”, and “establishment of the seashore by publication” for “establishment of the Cape Lookout National Seashore by publication”.
+1974—Pub. L. 93–477 substituted “in an amount sufficient to constitute an efficiently administerable \[sic\] unit for the purposes of sections 459g to 459g–7 of this title” for “which under section 459g–1(a) of this titlemay be acquired for the purposes of the seashore by donation only”, and “establishment of the seashore by publication” for “establishment of the Cape Lookout National Seashore by publication”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “administrable”.</i>
 

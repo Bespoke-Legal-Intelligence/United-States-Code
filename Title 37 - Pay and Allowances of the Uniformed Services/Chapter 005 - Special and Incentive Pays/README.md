@@ -19,6 +19,8 @@
 | [302h.](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md) | Special pay: accession bonus for dental officers. |
 | [302i.](%C2%A7%2000302i%20-%20Special%20pay%20pharmacy%20officers.md) | Special pay: pharmacy officers. |
 | [302j.](%C2%A7%2000302j%20-%20Special%20pay%20accession%20bonus%20for%20pharmacy%20officers.md) | Special pay: accession bonus for pharmacy officers. |
+| [302k.](%C2%A7%2000302k%20-%20Special%20pay%20accession%20bonus%20for%20medical%20officers%20in%20critically%20short%20wartime%20specialties.md) | Special pay: accession bonus for medical officers in critically short wartime specialties. |
+| 302<i>l.</i> | Special pay: accession bonus for dental specialist officers in critically short wartime specialties. |
 | [303\.](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md) | Special pay: veterinarians. |
 | [303a.](%C2%A7%2000303a%20-%20Special%20pay%20general%20provisions.md) | Special pay: general provisions. |
 | [303b.](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md) | Waiver of board certification requirements. |
@@ -64,12 +66,16 @@
 | [326\.](%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md) | Incentive bonus: conversion to military occupational specialty to ease personnel shortage. |
 | [327\.](%C2%A7%2000327%20-%20Incentive%20bonus%20transfer%20between%20armed%20forces.md) | Incentive bonus: transfer between armed forces. |
 | [328\.](%C2%A7%2000328%20-%20Combat-related%20injury%20rehabilitation%20pay.md) | Combat-related injury rehabilitation pay. |
+| [329\.](%C2%A7%2000329%20-%20Incentive%20bonus%20retired%20members%20and%20reserve%20component%20members%20volunteering%20for%20high-demand%2C%20low-density%20assignments.md) | Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments. |
+| [330\.](%C2%A7%2000330%20-%20Special%20pay%20accession%20bonus%20for%20officer%20candidates.md) | Special pay: accession bonus for officer candidates. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title VI, §§629(d)(2), 631(c), 632(c)(2), 634(c)(2), 639(e)(2), 640(f)(2), 641(b), 642(c), 687(e)(2), Jan. 6, 2006, 119 Stat. 3297, 3299, 3300, 3302, 3303, 3305, 3306, 3336, added items 327 and 328, substituted “Special pay: general provisions” for “Special pay: health professionals; general provisions” in item 303a, “Special pay: bonus for affiliation or enlistment in the Selected Reserve” for “Special pay: bonus for enlistment in the Selected Reserve” in item 308c, “Special pay: members of the Selected Reserve assigned to certain high priority units” for “Special pay: enlisted members of the Selected Reserve assigned to certain high priority units” in item 308d, “Special pay: affiliation bonus for officers in the Selected Reserve” for “Special pay: bonus for certain initial service of officers in the Selected Reserve” in item 308j, “Special pay: bonus for members with foreign language proficiency” for “Special pay and bonus for members with foreign language proficiency” in item 316, and “Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units” for “Special pay: retention incentives for members qualified in a critical military skill” in item 323, and struck out item 308e “Special pay: bonus for reserve affiliation agreement” and item 312a “Special pay: nuclear-trained and qualified enlisted members”.
+2006—Pub. L. 109–364, div. A, title VI, §§617(d), 621(d)(1), 622(a)(2), Oct. 17, 2006, 120 Stat. 2251, 2255, 2256, added items 302k, 302<i>l</i>, 329, and 330.
+
+Pub. L. 109–163, div. A, title VI, §§629(d)(2), 631(c), 632(c)(2), 634(c)(2), 639(e)(2), 640(f)(2), 641(b), 642(c), 687(e)(2), Jan. 6, 2006, 119 Stat. 3297, 3299, 3300, 3302, 3303, 3305, 3306, 3336, added items 327 and 328, substituted “Special pay: general provisions” for “Special pay: health professionals; general provisions” in item 303a, “Special pay: bonus for affiliation or enlistment in the Selected Reserve” for “Special pay: bonus for enlistment in the Selected Reserve” in item 308c, “Special pay: members of the Selected Reserve assigned to certain high priority units” for “Special pay: enlisted members of the Selected Reserve assigned to certain high priority units” in item 308d, “Special pay: affiliation bonus for officers in the Selected Reserve” for “Special pay: bonus for certain initial service of officers in the Selected Reserve” in item 308j, “Special pay: bonus for members with foreign language proficiency” for “Special pay and bonus for members with foreign language proficiency” in item 316, and “Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units” for “Special pay: retention incentives for members qualified in a critical military skill” in item 323, and struck out item 308e “Special pay: bonus for reserve affiliation agreement” and item 312a “Special pay: nuclear-trained and qualified enlisted members”.
 
 2004—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, added item 308j, substituted “Special pay and bonus for members with foreign language proficiency” for “Special pay: foreign language proficiency pay” in item 316, and struck out item 316a “Waiver of certification requirement”.
 
@@ -121,7 +127,7 @@ Pub. L. 96–284, §§2(b), 3(a)(2), (b)(6), 4(d)(4), 5(b), June 28, 1980, 94 St
 
 1979—Pub. L. 96–107, title IV, §404(a)(2), Nov. 9, 1979, 93 Stat. 808, struck out item 309 “Reserves; members of National Guard: additional pay for performance of administrative duty.”
 
-1978—Pub. L. 95–485, title IV, §404(b), title VIII, §804(b)(2), Oct. 20, 1978, 92 Stat. 1615, 1621, substituted“on duty” for “on sea duty or duty” in item 305, and added items 305a and 308c.
+1978—Pub. L. 95–485, title IV, §404(b), title VIII, §804(b)(2), Oct. 20, 1978, 92 Stat. 1615, 1621, substituted “on duty” for “on sea duty or duty” in item 305, and added items 305a and 308c.
 
 1977—Pub. L. 95–79, title IV, §403(a)(2), July 30, 1977, 91 Stat. 331, added item 308b.
 
@@ -163,6 +169,8 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted �
 - [&sect; 00302h - Special pay accession bonus for dental officers](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md)
 - [&sect; 00302i - Special pay pharmacy officers](%C2%A7%2000302i%20-%20Special%20pay%20pharmacy%20officers.md)
 - [&sect; 00302j - Special pay accession bonus for pharmacy officers](%C2%A7%2000302j%20-%20Special%20pay%20accession%20bonus%20for%20pharmacy%20officers.md)
+- [&sect; 00302k - Special pay accession bonus for medical officers in critically short wartime specialties](%C2%A7%2000302k%20-%20Special%20pay%20accession%20bonus%20for%20medical%20officers%20in%20critically%20short%20wartime%20specialties.md)
+- [&sect; 00302l - Special pay accession bonus for dental specialist officers in critically short wartime specialties](%C2%A7%2000302l%20-%20Special%20pay%20accession%20bonus%20for%20dental%20specialist%20officers%20in%20critically%20short%20wartime%20specialties.md)
 - [&sect; 00303 - Special pay veterinarians](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md)
 - [&sect; 00303a - Special pay general provisions](%C2%A7%2000303a%20-%20Special%20pay%20general%20provisions.md)
 - [&sect; 00303b - Waiver of board certification requirements](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md)
@@ -209,3 +217,5 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted �
 - [&sect; 00326 - Incentive bonus conversion to military occupational specialty to ease personnel shortage](%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md)
 - [&sect; 00327 - Incentive bonus transfer between armed forces](%C2%A7%2000327%20-%20Incentive%20bonus%20transfer%20between%20armed%20forces.md)
 - [&sect; 00328 - Combat-related injury rehabilitation pay](%C2%A7%2000328%20-%20Combat-related%20injury%20rehabilitation%20pay.md)
+- [&sect; 00329 - Incentive bonus retired members and reserve component members volunteering for high-demand, low-density assignments](%C2%A7%2000329%20-%20Incentive%20bonus%20retired%20members%20and%20reserve%20component%20members%20volunteering%20for%20high-demand%2C%20low-density%20assignments.md)
+- [&sect; 00330 - Special pay accession bonus for officer candidates](%C2%A7%2000330%20-%20Special%20pay%20accession%20bonus%20for%20officer%20candidates.md)

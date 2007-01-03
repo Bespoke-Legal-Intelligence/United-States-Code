@@ -32,3 +32,4 @@ Part H—Miscellaneous Provisions
 - [&sect; 00467 - Coordination with the Department of Health and Human Services under the Public Health Service Act](%C2%A7%2000467%20-%20Coordination%20with%20the%20Department%20of%20Health%20and%20Human%20Services%20under%20the%20Public%20Health%20Service%20Act.md)
 - [&sect; 00468 - Preserving Coast Guard mission performance](%C2%A7%2000468%20-%20Preserving%20Coast%20Guard%20mission%20performance.md)
 - [&sect; 00469 - Fees for credentialing and background investigations in transportation](%C2%A7%2000469%20-%20Fees%20for%20credentialing%20and%20background%20investigations%20in%20transportation.md)
+- [&sect; 00470 - Disclosures regarding homeland security grants](%C2%A7%2000470%20-%20Disclosures%20regarding%20homeland%20security%20grants.md)

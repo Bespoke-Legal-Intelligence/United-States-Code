@@ -6,9 +6,9 @@ Expenditures shall not be made for carrying out the purposes of the reclamation 
 
 #### References in Text
 
-The reclamation law, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+The reclamation law, referred to in text, is defined in section 472 of this title.
 
 #### Codification
 
-Words “there shall annually, in the Budget, be submitted to Congress” substituted for “the Secretary of the Interior shall annually in the regular Book of Estimates, submit to Congress” in view of the Budget and Accounting Act, 1921, act June 10, 1921, ch. 18, 42 Stat. 20, as amended. See sections 1104 and 1105 of Title 31, Money and Finance.
+Words “there shall annually, in the Budget, be submitted to Congress” substituted for “the Secretary of the Interior shall annually in the regular Book of Estimates, submit to Congress” in view of the Budget and Accounting Act, 1921, act June 10, 1921, ch. 18, 42 Stat. 20. See sections 1104 and 1105 of Title 31, Money and Finance.
 

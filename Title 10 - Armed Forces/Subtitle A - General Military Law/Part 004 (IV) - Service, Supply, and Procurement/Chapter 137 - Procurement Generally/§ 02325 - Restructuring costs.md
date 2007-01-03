@@ -62,29 +62,5 @@ Section 804(c) of Pub. L. 105–85 provided that: “Section 2325(a) of title 10
 
 #### GAO Reports
 
-Section 804(b) of Pub. L. 105–85 provided that:
-
-“(1) Not later than April 1, 1998, the Comptroller General shall—
-
-&emsp;“(A) in consultation with appropriate officials in the Department of Defense—
-
-&emsp;&emsp;“(i) identify major market areas affected by business combinations of defense contractors since January 1, 1990; and
-
-&emsp;&emsp;“(ii) develop a methodology for determining the savings from business combinations of defense contractors on the prices paid on particular defense contracts; and
-
-&emsp;“(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report describing, for each major market area identified pursuant to subparagraph (A)(i), the changes in numbers of businesses competing for major defense contracts since January 1, 1990.
-
-“(2) Not later than December 1, 1998, the Comptroller General shall submit to the congressional defense committees a report containing the following:
-
-&emsp;“(A) Updated information on—
-
-&emsp;&emsp;“(i) restructuring costs of business combinations paid by the Department of Defense pursuant to certifications under section 818 of the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, set out as a note under section 2324 of this title\], and
-
-&emsp;&emsp;“(ii) savings realized by the Department of Defense as a result of the business combinations for which the payment of restructuring costs was so certified.
-
-&emsp;“(B) An assessment of the savings from business combinations of defense contractors on the prices paid on a meaningful sample of defense contracts, determined in accordance with the methodology developed pursuant to paragraph (1)(A)(ii), as well as a description of the methodology.
-
-&emsp;“(C) Any recommendations that the Comptroller General considers appropriate.
-
-“(3) In this subsection, the term ‘business combination’ has the meaning given that term in section 2325(c) of title 10, United States Code, as added by subsection (a).”
+Pub. L. 105–85, div. A, title VIII, §804(b), Nov. 18, 1997, 111 Stat. 1832, directed the Comptroller General, not later than Apr. 1, 1998, to identify major market areas affected by business combinations of defense contractors since Jan. 1, 1990, and develop a methodology for determining the savings from business combinations of defense contractors on the prices paid on particular defense contracts, and to submit to committees of Congress a report describing the changes in numbers of businesses competing for major defense contracts since Jan. 1, 1990; and directed the Comptroller General, not later than Dec. 1, 1998, to submit to committees of Congress a report containing updated information on restructuring costs of business combinations paid by the Department of Defense pursuant to certifications under Pub. L. 103–337, §818 (set out as a note under section 2324 of this title), savings realized by the Department of Defense as a result of the business combinations for which the payment of restructuring costs was so certified, and an assessment of the savings on the prices paid on a meaningful sample of defense contracts.
 

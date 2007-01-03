@@ -42,5 +42,5 @@ Consideration for Use.—(1) To the extent provided in a contract entered into u
 
 #### Implementation Report
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §344(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, provided that: “Not later than July 1, 2001, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the procedures and controls implemented to carry out section 4554 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 106–398, §1 \[\[div. A\], title III, §344(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, provided that, not later than July 1, 2001, the Secretary of Defense was to submit to the congressional defense committees a report on the procedures and controls implemented to carry out this section.
 

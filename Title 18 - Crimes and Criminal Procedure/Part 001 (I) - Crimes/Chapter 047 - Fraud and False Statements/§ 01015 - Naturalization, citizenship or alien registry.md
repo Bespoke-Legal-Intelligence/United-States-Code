@@ -8,7 +8,7 @@
 
 (d) Whoever knowingly makes any false certificate, acknowledgment or statement concerning the appearance before him or the taking of an oath or affirmation or the signature, attestation or execution by any person with respect to any application, declaration, petition, affidavit, deposition, certificate of naturalization, certificate of citizenship or other paper or writing required or authorized by the laws relating to immigration, naturalization, citizenship, or registry of aliens; or
 
-(e) Whoever knowingly makes any false statement or claim that he is, or at any time has been, a citizen or national of the United States, with the intent to obtain on behalf of himself, or any other person, any Federal or State benefitor service, or to engage unlawfully in employment in the United States; or
+(e) Whoever knowingly makes any false statement or claim that he is, or at any time has been, a citizen or national of the United States, with the intent to obtain on behalf of himself, or any other person, any Federal or State benefit or service, or to engage unlawfully in employment in the United States; or
 
 (f) Whoever knowingly makes any false statement or claim that he is a citizen of the United States in order to register to vote or to vote in any Federal, State, or local election (including an initiative, recall, or referendum)—
 

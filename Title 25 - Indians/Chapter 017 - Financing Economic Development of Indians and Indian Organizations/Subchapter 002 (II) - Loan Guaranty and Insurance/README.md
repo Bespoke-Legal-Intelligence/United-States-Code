@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01481 - Statement of purpose](%C2%A7%2001481%20-%20Statement%20of%20purpose.md)
+- [&sect; 01481 - Loan guaranties and insurance](%C2%A7%2001481%20-%20Loan%20guaranties%20and%20insurance.md)
 - [&sect; 01482 - Premium charges; deposits in Indian Loan Guaranty and Insurance Fund](%C2%A7%2001482%20-%20Premium%20charges%3B%20deposits%20in%20Indian%20Loan%20Guaranty%20and%20Insurance%20Fund.md)
 - [&sect; 01483 - Interest rate](%C2%A7%2001483%20-%20Interest%20rate.md)
 - [&sect; 01484 - Application for loan; approval by Secretary; issuance of certificate; limitations on amount of loans to individual Indians or economic&#8230;](%C2%A7%2001484%20-%20Application%20for%20loan%3B%20approval%20by%20Secretary%3B%20issuance%20of%20certificate%3B%20limitations%20on%20amount%20of%20loans%20to%20individual%20Indians%20or%20economic%E2%80%A6.md)

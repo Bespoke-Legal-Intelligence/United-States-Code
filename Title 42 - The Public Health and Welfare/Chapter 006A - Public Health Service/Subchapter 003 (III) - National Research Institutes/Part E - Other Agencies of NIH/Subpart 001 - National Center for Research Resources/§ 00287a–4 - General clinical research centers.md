@@ -6,15 +6,19 @@ The Director of the National Center for Research Resources shall award grants fo
 
 #### (b) Activities
 
-In carrying out subsection (a) of this section, the Director of National Institutes of Healthshall expand the activities of the general clinical research centers through the increased use of telecommunications and telemedicine initiatives.
+In carrying out subsection (a) of this section, the Director of National Institutes of Health shall expand the activities of the general clinical research centers through the increased use of telecommunications and telemedicine initiatives.
 
-#### (c) Authorization of appropriations
-
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
-
-(July 1, 1944, ch. 373, title IV, §481C, as added Pub. L. 106–505, title II, §204(a), Nov. 13, 2000, 114 Stat. 2327.)
+(July 1, 1944, ch. 373, title IV, §481C, as added Pub. L. 106–505, title II, §204(a), Nov. 13, 2000, 114 Stat. 2327; amended Pub. L. 109–482, title I, §103(b)(42), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### Codification
 
 Another section 481C of act July 1, 1944, is classified to section 287a–3a of this title.
+
+#### Amendments
+
+2007—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

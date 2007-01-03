@@ -2,13 +2,13 @@
 
 (a) The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized,trained, and equipped primarily for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
 
-(b) The naval combat forces of the Navy shall include not less than 12 operational aircraft carriers. For purposes of this subsection, an operational aircraft carrier includes an aircraft carrier that is temporarily unavailable for worldwide deployment due to routine or scheduled maintenance or repair.
+(b) The naval combat forces of the Navy shall include not less than 11 operational aircraft carriers. For purposes of this subsection, an operational aircraft carrier includes an aircraft carrier that is temporarily unavailable for worldwide deployment due to routine or scheduled maintenance or repair.
 
 (c) All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
 
 (d) The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, and the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Pub. L. 99–433, title V, §511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, §126(a), Jan. 6, 2006, 119 Stat. 3159.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Pub. L. 99–433, title V, §511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, §126(a), Jan. 6, 2006, 119 Stat. 3159; Pub. L. 109–364, div. A, title X, §1011(a), Oct. 17, 2006, 120 Stat. 2374.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,11 @@ A prior section 5062, act Aug. 10, 1956, ch. 1041, 70A Stat. 281, prescribed the
 
 #### Amendments
 
-2006—Subsecs. (b) to (d). Pub. L. 109–163 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+2006—Subsec. (b). Pub. L. 109–364 substituted “11” for “12”.
+
+Pub. L. 109–163, §126(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsecs. (c), (d). Pub. L. 109–163, §126(a)(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
 1986—Pub. L. 99–433, §511(b)(3), renumbered section 5012 of this title as this section.
 

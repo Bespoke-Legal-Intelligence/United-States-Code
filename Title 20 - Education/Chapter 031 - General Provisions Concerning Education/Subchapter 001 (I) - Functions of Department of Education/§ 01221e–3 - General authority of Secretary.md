@@ -2,7 +2,7 @@
 
 The Secretary, in order to carry out functions otherwise vested in the Secretary by law or by delegation of authority pursuant to law, and subject to limitations as may be otherwise imposed by law, is authorized to make, promulgate, issue, rescind, and amend rules and regulations governing the manner of operation of, and governing the applicable programs administered by, the Department.
 
-(Pub. L. 90–247, title IV, §410, formerly §408, as added Pub. L. 93–380, title V, §502(a)(1), Aug. 21, 1974, 88 Stat. 559; amended Pub. L. 95–561, title XII, §§1243(b), 1244, Nov. 1, 1978, 92 Stat. 2353; renumbered §410 and amended Pub. L. 103–382, title II, §§212(b)(1), 222, Oct. 20, 1994, 108 Stat. 3913, 3914.)
+(Pub. L. 90–247, title IV, §410, formerly §408, as added Pub. L. 93–380, title V, §502(a)(1), Aug. 21, 1974, 88 Stat. 559; amended Pub. L. 95–561, title XII, §§1243(b), 1244, Nov. 1, 1978, 92 Stat. 2353; renumbered §410 and amended Pub. L. 103–382, titleII, §§212(b)(1), 222, Oct. 20, 1994, 108 Stat. 3913, 3914.)
 
 #### Amendments
 

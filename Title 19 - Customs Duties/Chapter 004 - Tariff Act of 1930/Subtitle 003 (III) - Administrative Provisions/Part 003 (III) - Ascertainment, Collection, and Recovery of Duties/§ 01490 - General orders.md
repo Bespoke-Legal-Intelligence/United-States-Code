@@ -18,7 +18,7 @@
 
 &emsp;(A) entry is made or completed and the proper documents are produced;
 
-&emsp;(B) the information and data necessary for entry are transmitted to the Customs Servicepursuant to an authorized electronic data interchange system; or
+&emsp;(B) the information and data necessary for entry are transmitted to the Customs Service pursuant to an authorized electronic data interchange system; or
 
 &emsp;(C) a bond is given for the production of documents or the transmittal of data.
 

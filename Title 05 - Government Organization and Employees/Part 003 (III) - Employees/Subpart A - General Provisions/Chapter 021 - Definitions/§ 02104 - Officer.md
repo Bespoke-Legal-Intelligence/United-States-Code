@@ -16,15 +16,17 @@
 
 &emsp;(3) subject to the supervision of an authority named by paragraph (1) of this section, or the Judicial Conference of the United States, while engaged in the performance of the duties of his office.
 
-(b) Except as otherwise provided by law, an officer of the United States Postal Service or of the Postal Rate Commission is deemed not an officer for purposes of this title.
+(b) Except as otherwise provided by law, an officer of the United States Postal Service or of the Postal Regulatory Commission is deemed not an officer for purposes of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 91–375, §6(c)(3), Aug. 12, 1970, 84 Stat. 775.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 91–375, §6(c)(3), Aug. 12, 1970, 84 Stat. 775; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### Historical and Revision Notes
 
 The section is supplied for convenience.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1970—Subsec. (a). Pub. L. 91–375, §6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text “as otherwise provided by this section or” after “except”.
 

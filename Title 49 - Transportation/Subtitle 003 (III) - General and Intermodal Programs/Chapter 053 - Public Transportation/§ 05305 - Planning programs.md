@@ -10,7 +10,7 @@ General Authority.—
 
 &emsp;(1)
 
-Grants and agreements.—Under criteria established by the Secretary, the Secretary may award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities, and make agreements with other departments, agencies, or instrumentalities of the Government to—
+Grants and agreements.—Under criteria established by the Secretary, the Secretarymay award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities, and make agreements with other departments, agencies, or instrumentalities of the Government to—
 
 &emsp;&emsp;(A) develop transportation plans and programs;
 

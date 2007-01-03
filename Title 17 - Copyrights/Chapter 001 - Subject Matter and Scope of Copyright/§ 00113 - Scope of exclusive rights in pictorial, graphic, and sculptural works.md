@@ -8,7 +8,7 @@
 
 (d)(1) In a case in which—
 
-&emsp;(A) a work of visual art has been incorporated in or made part of a building in sucha way that removing the work from the building will cause the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), and
+&emsp;(A) a work of visual art has been incorporated in or made part of a building in such a way that removing the work from the building will cause the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), and
 
 &emsp;(B) the author consented to the installation of the work in the building either before the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990, or in a written instrument executed on or after such effective date that is signed by the owner of the building and the author and that specifies that installation of the work may subject the work to destruction, distortion, mutilation, or other modification, by reason of its removal,
 
@@ -34,7 +34,7 @@ Section 113 deals with the extent of copyright protection in “works of applied
 
 The broad language of section 106(1) and of subsection (a) of section 113 raises questions as to the extent of copyright protection for a pictorial, graphic, or sculptural work that portrays, depicts, or represents an image of a useful article in such a way that the utilitarian nature of the article can be seen. To take the example usually cited, would copyright in a drawing or model of an automobile give the artist the exclusive right to make automobiles of the same design?
 
-The 1961 Report of the Register of Copyrights stated, on the basis of judicial precedent, that “copyright in a pictorial, graphic, or sculptural work, portraying a useful article as such, does not extend to the manufacture of the useful article itself,” and recommended specifically that “the distinctions drawn in this area by existing court decisions” not be altered by the statute. The Register's Supplementary Report, at page 48, cited a number of these decisions, and explained the insuperable difficulty of finding “any statutory formulation that would express the distinction satisfactorily.” Section 113(b) reflects the Register's conclusion that “the real need is to make clear that there is no intention to change the present law with respect to the scope of protection in a work portraying a useful article as such.”
+The 1961 Report of the Register of Copyrights stated, on the basis of judicial precedent, that “copyright in a pictorial, graphic, or sculptural work, portraying a useful article as such, does not extend to the manufactureof the useful article itself,” and recommended specifically that “the distinctions drawn in this area by existing court decisions” not be altered by the statute. The Register's Supplementary Report, at page 48, cited a number of these decisions, and explained the insuperable difficulty of finding “any statutory formulation that would express the distinction satisfactorily.” Section 113(b) reflects the Register's conclusion that “the real need is to make clear that there is no intention to change the present law with respect to the scope of protection in a work portraying a useful article as such.”
 
 Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articles in advertising, in feature stories about the articles, or in the news reports.
 

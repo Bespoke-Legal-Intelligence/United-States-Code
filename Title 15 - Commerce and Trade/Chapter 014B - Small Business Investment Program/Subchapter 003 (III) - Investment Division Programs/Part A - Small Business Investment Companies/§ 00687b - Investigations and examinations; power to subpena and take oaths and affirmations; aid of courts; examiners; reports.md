@@ -62,7 +62,7 @@ Each small business investment company shall be examined at least every two year
 
 &emsp;&emsp;(B) include appropriate safeguards to ensure that the noncash assets of a licensee are not overvalued.
 
-(Pub. L. 85–699, title III, §310, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, §5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, §208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, §104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016; Pub. L. 104–208, div. D, title II, §208(f), (h)(1)(C), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 105–135, title II, §216, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title IV, §406\], Dec. 21, 2000, 114 Stat. 2763, 2763A–691.)
+(Pub. L. 85–699, title III, §310, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub.L. 89–779, §5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, §208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, §104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016; Pub. L. 104–208, div. D, title II, §208(f), (h)(1)(C), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 105–135, title II, §216, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title IV, §406\], Dec. 21, 2000, 114 Stat. 2763, 2763A–691.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@
 
 (2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
-(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
+(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorizedagency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
 
 #### (b) Guidelines
 
@@ -28,7 +28,7 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;&emsp;(A) to obtain a copy of any background check report; and
 
-&emsp;&emsp;(B) to challenge the accuracy and completeness of any information contained inany such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
+&emsp;&emsp;(B) to challenge the accuracy and completeness of any information contained in any such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
 
 &emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 

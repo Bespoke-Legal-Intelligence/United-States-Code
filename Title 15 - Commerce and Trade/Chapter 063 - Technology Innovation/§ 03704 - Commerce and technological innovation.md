@@ -44,9 +44,9 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 &emsp;(11) encourage and assist the creation of centers and other joint initiatives by State or local governments, regional organizations, private businesses, institutions of higher education, nonprofit organizations, or Federal laboratories to encourage technology transfer, to stimulate innovation, and to promote an appropriate climate for investment in technology-related industries;
 
-&emsp;(12) propose and encourage cooperative research involving appropriate Federal entities, State or local governments, regional organizations, colleges or universities, nonprofit organizations, or private industry to promote the common use of resources, to improve training programs and curricula, to stimulate interest in high technology careers, and to encouragethe effective dissemination of technology skills within the wider community;
+&emsp;(12) propose and encourage cooperative research involving appropriate Federal entities, State or local governments, regional organizations, colleges or universities, nonprofit organizations, or private industry to promote the common use of resources, to improve training programs and curricula, to stimulate interest in high technology careers, and to encourage the effective dissemination of technology skills within the wider community;
 
-&emsp;(13) serve as a focal point for discussions among United States companies on topics of interest to industry and labor, including discussions regarding manufacturing and discussions regarding emerging technologies;
+&emsp;(13) serve as a focal point for discussions among United States companies on topics ofinterest to industry and labor, including discussions regarding manufacturing and discussions regarding emerging technologies;
 
 &emsp;(14) consider government measures with the potential of advancing United States technological innovation and exploiting innovations of foreign origin; and
 
@@ -122,7 +122,7 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 #### (A) In general
 
-&emsp;&emsp;In making awards under this subsection, the Secretary, acting through the UnderSecretary, shall ensure that the awards are awarded on a competitive basis that includes a review of the merits of the activities that are the subject of the award.
+&emsp;&emsp;In making awards under this subsection, the Secretary, acting through the Under Secretary, shall ensure that the awards are awarded on a competitive basis that includes a review of the merits of the activities that are the subject of the award.
 
 #### (B) Matching requirement
 
@@ -208,7 +208,7 @@ Pub. L. 99–382, §2(1), redesignated subsec. (d) as (e).
 
 #### Transition Provision
 
-Section 201(e) of Pub. L. 100–519 provided that: “The individual serving as the Assistant Secretary of Commerce for Productivity, Technology, and Innovation immediately before the date of enactment of this Act \[Oct. 24, 1988\] shall serve as Acting Assistant Secretary of Commerce for Technology Policy until the Assistant Secretary takes office.”
+Section 201(e) of Pub. L. 100–519 provided that: “The individual serving as the Assistant Secretary of Commerce for Productivity, Technology, and Innovation immediately before the date of enactment of this Act\[Oct. 24, 1988\] shall serve as Acting Assistant Secretary of Commerce for Technology Policy until the Assistant Secretary takes office.”
 
 #### Commercial Space Programs
 

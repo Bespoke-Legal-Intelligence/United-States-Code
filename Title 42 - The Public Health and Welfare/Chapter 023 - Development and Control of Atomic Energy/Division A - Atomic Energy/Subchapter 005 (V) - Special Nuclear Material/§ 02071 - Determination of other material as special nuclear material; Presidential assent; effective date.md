@@ -12,7 +12,3 @@ Provisions similar to this section were contained in section 1805(a)(1) of this 
 
 1994—Pub. L. 103–437 substituted “Energy Committees” for “Joint Committee” in two places.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

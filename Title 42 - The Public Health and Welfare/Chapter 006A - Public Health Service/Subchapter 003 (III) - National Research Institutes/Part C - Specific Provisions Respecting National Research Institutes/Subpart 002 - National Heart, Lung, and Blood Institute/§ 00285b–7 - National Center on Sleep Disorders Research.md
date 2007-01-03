@@ -42,7 +42,7 @@ The general purpose of the Center is—
 
 &emsp;(x) The Chief Medical Director of the Veterans’ Administration.
 
-(4) The members of the Advisory Board shall, from among the members of the Advisory Board,designate an individual to serve as the chair of the Advisory Board.
+(4) The members of the Advisory Board shall, from among the members of the Advisory Board, designate an individual to serve as the chair of the Advisory Board.
 
 (5) Except as inconsistent with, or inapplicable to, this section, the provisions of section 284a of this title shall apply to the advisory board <sup>2</sup> established under this section in the same manner as such provisions apply to any advisory council established under such section.
 

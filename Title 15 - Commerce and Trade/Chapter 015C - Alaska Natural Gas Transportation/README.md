@@ -6,48 +6,14 @@
 | [719a.](%C2%A7%2000719a%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [719b.](%C2%A7%2000719b%20-%20Definitions.md) | Definitions. |
 | [719c.](%C2%A7%2000719c%20-%20Federal%20Power%20Commission%20reviews%20and%20reports.md) | Federal Power Commission reviews and reports. |
-| (a) | Proceedings: suspension, vacation or removal of suspension; issuance of certificate of convenience and necessity. |
-| (b) | Recommendation; submittal to President; rule for presentation of data, views, and arguments; Federal agency cooperation. |
-| (c) | Report; public availability; factors to be discussed. |
-| (d) | Recommendation not based upon Canadian pipeline system decision. |
-| (e) | Transportation system: recommendation, submittal to President; environmental impact statement: submittal to President. |
 | [719d.](%C2%A7%2000719d%20-%20Federal%20and%20State%20officer%20or%20agency%20and%20other%20interested%20persons%E2%80%99%20reports.md) | Federal and State officer or agency and other interested persons’ reports. |
-| (a) | Federal officer or agency comments; submittal to President; public availability. |
-| (b) | State officer or agency and other interested persons’ comments; submittal to President. |
-| (c) | Report of Federal officer or agency to the President. |
-| (d) | Report of Council on Environmental Quality to the President. |
 | [719e.](%C2%A7%2000719e%20-%20Presidential%20decision%20and%20report.md) | Presidential decision and report. |
-| (a) | Dateline for decision; transmission to Congress, delay: notice to Congress; contents of decision; chairman, appointment; Federal inspector of construction: duties, including establishment of joint surveillance and monitoring agreement. |
-| (b) | Transmittal to Congress. |
-| (c) | Financial analysis. |
-| (d) | Views and objectives involving intergovernmental and international cooperation. |
-| (e) | Decision effective as provided in section 719f of this title; financing authority unaffected. |
 | [719f.](%C2%A7%2000719f%20-%20Congressional%20review.md) | Congressional review. |
-| (a) | Effectiveness of decision designating transportation system for approval upon enactment of joint resolution. |
-| (b) | New decision: statement of reasons for proposal; transmittal to Congress. |
-| (c) | Sessions of Congress. |
-| (d) | Rules under rulemaking powers of Congress; change of rules; “resolution” defined; referral to Congressional committees; debate limitation; motion for consideration of resolution; debate on resolution; nondebatable motions and appeals from procedural decisions. |
-| (e) | Presidential finding respecting and supplementation or modification of environmental impact statement; submittal to Congressional committees. |
-| (f) | Report of Commission: submittal to Congress; Council on Environmental Quality: hearings, report, submittal to Congress; Congressional committee hearings. |
-| (g) | Waiver; submittal to Congress. |
 | [719g.](%C2%A7%2000719g%20-%20Transportation%20system%20certificates%2C%20rights-of-way%2C%20permits%2C%20leases%2C%20or%20other%20authorizations.md) | Transportation system certificates, rights-of-way, permits, leases, or other authorizations. |
-| (a) | Earliest practicable date for issuance or grant of authorizations. |
-| (b) | Expedition and precedence of actions on applications or requests. |
-| (c) | Required terms and conditions. |
-| (d) | Additions to, and amendment or abrogation of authorizations; exception. |
-| (e) | Appropriate terms and conditions. |
 | [719h.](%C2%A7%2000719h%20-%20Judicial%20review.md) | Judicial review. |
-| (a) | Exclusiveness of remedy. |
-| (b) | Limitations for filing claims. |
-| (c) | Jurisdiction. |
 | [719i.](%C2%A7%2000719i%20-%20Supplemental%20enforcement%20authority.md) | Supplemental enforcement authority. |
-| (a) | Compliance order or civil action. |
-| (b) | Specificity of compliance order. |
-| (c) | Appropriate relief and jurisdiction of civil action. |
 | [719j.](%C2%A7%2000719j%20-%20Export%20limitations.md) | Export limitations. |
 | [719k.](%C2%A7%2000719k%20-%20Equal%20access%20to%20facilities.md) | Equal access to facilities. |
-| (a) | Ownership in transportation system. |
-| (b) | Use within Alaska. |
 | 719<i>l.</i> | Antitrust laws. |
 | [719m.](%C2%A7%2000719m%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [719n.](%C2%A7%2000719n%20-%20Separability.md) | Separability. |

@@ -36,6 +36,8 @@
 | [8124\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008124%20-%20Grant%20of%20easements%20in%20Government-owned%20lands.md) | Grant of easements in Government-owned lands. |
 | [8125\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008125%20-%20Procurement%20of%20health-care%20items.md) | Procurement of health-care items. |
 | [8126\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008126%20-%20Limitation%20on%20prices%20of%20drugs%20procured%20by%20Department%20and%20certain%20other%20Federal%20agencies.md) | Limitation on prices of drugs procured by Department and certain other Federal agencies. |
+| [8127\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008127%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20goals%20and%20preferences.md) | Small business concerns owned and controlled by veterans: contracting goals and preferences. |
+| [8128\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008128%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20priority.md) | Small business concerns owned and controlled by veterans: contracting priority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,6 +52,7 @@
 | [8135\.](Subchapter%20003%20%28III%29%20-%20State%20Home%20Facilities%20for%20Furnishing%20Domiciliary%2C%20Nursing%20Home%2C%20and%20Hospital%20Care/%C2%A7%2008135%20-%20Applications%20with%20respect%20to%20projects%3B%20payments.md) | Applications with respect to projects; payments. |
 | [8136\.](Subchapter%20003%20%28III%29%20-%20State%20Home%20Facilities%20for%20Furnishing%20Domiciliary%2C%20Nursing%20Home%2C%20and%20Hospital%20Care/%C2%A7%2008136%20-%20Recapture%20provisions.md) | Recapture provisions. |
 | [8137\.](Subchapter%20003%20%28III%29%20-%20State%20Home%20Facilities%20for%20Furnishing%20Domiciliary%2C%20Nursing%20Home%2C%20and%20Hospital%20Care/%C2%A7%2008137%20-%20State%20control%20of%20operations.md) | State control of operations. |
+| [8138\.](Subchapter%20003%20%28III%29%20-%20State%20Home%20Facilities%20for%20Furnishing%20Domiciliary%2C%20Nursing%20Home%2C%20and%20Hospital%20Care/%C2%A7%2008138%20-%20Treatment%20of%20certain%20health%20facilities%20as%20State%20homes.md) | Treatment of certain health facilities as State homes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -89,6 +92,8 @@
 <i>Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.</i>
 
 #### Amendments
+
+2006—Pub. L. 109–461, title II, §211(c)(2), title V, §§502(a)(2), 503(a)(2), Dec. 22, 2006, 120 Stat. 3421, 3435, 3436, added items 8127, 8128, and 8138.
 
 2004—Pub. L. 108–422, title IV, §411(a)(2), Nov. 30, 2004, 118 Stat. 2389, added item 8118.
 

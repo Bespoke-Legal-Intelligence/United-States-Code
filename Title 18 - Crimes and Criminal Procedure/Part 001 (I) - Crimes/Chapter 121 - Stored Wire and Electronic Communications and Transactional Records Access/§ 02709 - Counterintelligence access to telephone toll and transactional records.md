@@ -14,7 +14,15 @@ Required Certification.—The Director of the Federal Bureau of Investigation, o
 
 (c)
 
-Prohibition of Certain Disclosure.—No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.
+Prohibition of Certain Disclosure.—
+
+&emsp;(1) If the Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no wire or electronic communications service provider, or officer, employee, or agent thereof, shall disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.
+
+&emsp;(2) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under paragraph (1).
+
+&emsp;(3) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such person of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under paragraph (1).
+
+&emsp;(4) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the Director or such designee of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request under subsection (a).
 
 (d)
 
@@ -24,9 +32,19 @@ Dissemination by Bureau.—The Federal Bureau of Investigation may disseminate i
 
 Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, §601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, §505(a), Oct. 26, 2001, 115 Stat. 365.)
+(f)
+
+Libraries.—A library (as that term is defined in section 213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) (“electronic communication service”) of this title.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, §601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, §505(a), Oct. 26, 2001, 115 Stat. 365; Pub. L. 109–177, title I, §116(a), Mar. 9, 2006, 120 Stat. 213; Pub. L. 109–178, §§4(b), 5, Mar. 9, 2006, 120 Stat. 280, 281.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.”
+
+Subsec. (c)(4). Pub. L. 109–178, §4(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+
+Subsec. (f). Pub. L. 109–178, §5, added subsec. (f).
 
 2001—Subsec. (b). Pub. L. 107–56, §505(a)(1), inserted “at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “Deputy Assistant Director” in introductory provisions.
 

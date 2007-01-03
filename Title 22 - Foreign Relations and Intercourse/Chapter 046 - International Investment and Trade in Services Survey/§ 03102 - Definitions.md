@@ -20,7 +20,7 @@ As used in this chapter, the term—
 
 &emsp;(9) “international investment” means (A) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by foreign persons of any interest in property in the United States, or of stock, other securities, or short- and long-term debt obligations of a United States person, and (B) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by United States persons of any interest in property outside the United States, or of stock, other securities, or short-and long-term debt obligations of a foreign person;
 
-&emsp;(10) “direct investment” means the ownership or control, directly or indirectly, by one person of 10 per centum or more of the voting securities of an incorporated business enterprise or an equivalent interest in an unincorporated business enterprise; and
+&emsp;(10) “direct investment” means the ownership or control, directly or indirectly, by oneperson of 10 per centum or more of the voting securities of an incorporated business enterprise or an equivalent interest in an unincorporated business enterprise; and
 
 &emsp;(11) “portfolio investment” means any international investment which is not direct investment.
 

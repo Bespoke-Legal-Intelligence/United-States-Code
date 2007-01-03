@@ -42,7 +42,7 @@
 
 #### (3) Purpose
 
-&emsp;The Prince William Sound Program shall be responsible for environmental monitoring of the terminal facilities in Prince William Sound and the crude oil tankers operating in Prince William Sound. The Cook Inlet Program shall be responsible for environmental monitoring of the terminal facilities and crude oil tankers operating in Cook Inlet located South of the latitude at Point Possession and North of the latitude at Amatuli Island, including offshore facilities in Cook Inlet.
+&emsp;The Prince William Sound Program shall be responsible for environmental monitoring of the terminal facilities in Prince William Sound and the crude oil tankers operating in Prince William Sound. The Cook Inlet Program shall be responsible for environmental monitoring of the terminal facilities and crudeoil tankers operating in Cook Inlet located South of the latitude at Point Possession and North of the latitude at Amatuli Island, including offshore facilities in Cook Inlet.
 
 #### (4) Suits barred
 
@@ -256,7 +256,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (2) Compensation
 
-&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f) of this section.
+&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter intocontracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f) of this section.
 
 #### (k) Funding
 
@@ -272,7 +272,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 &emsp;&emsp;(B) shall be adjusted annually by the Anchorage Consumer Price Index; and
 
-&emsp;&emsp;(C) may be adjusted periodically upon the mutual consent of the owners or operators ofterminal facilities or crude oil tankers operating in Prince William Sound and the Prince William Sound terminal facilities Council.
+&emsp;&emsp;(C) may be adjusted periodically upon the mutual consent of the owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound and the Prince William Sound terminal facilities Council.
 
 #### (3) Cook Inlet Program
 
@@ -312,7 +312,7 @@ As used in this section, the term—
 
 &emsp;(3) “vicinity of the terminal facilities” means that geographical area surrounding the environment of terminal facilities which is directly affected or may be directly affected by the operation of the terminal facilities; and
 
-&emsp;(4) “Secretary” means the Secretary of Transportation.
+&emsp;(4) “Secretary” means the Secretary of the department in which the Coast Guard is operating.
 
 #### (n) Savings clause
 
@@ -340,15 +340,15 @@ The requirements of subsections (c) through (<i>l</i>) of this section, as such 
 
 &emsp;With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
-(Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544.)
+(Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544; Pub. L. 109–241, title IX, §902(<i>l</i>)(2), July 11, 2006, 120 Stat. 568.)
+
+#### Amendments
+
+2006—Subsec. (m)(4). Pub. L. 109–241 substituted “of the department in which the Coast Guard is operating.” for “of Transportation.”
 
 #### Change of Name
 
 General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 

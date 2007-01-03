@@ -52,15 +52,9 @@ For the purpose of this subchapter:
 
 &emsp;The term “Hispanic-serving institution” means an institution of higher education that—
 
-&emsp;&emsp;(A) is an eligible institution;
+&emsp;&emsp;(A) is an eligible institution; and
 
-&emsp;&emsp;(B) at the time of application, has an enrollment of undergraduate full-time equivalent students that is at least 25 percent Hispanic students; and
-
-&emsp;&emsp;(C) provides assurances that not less than 50 percent of the institution's Hispanic students are low-income individuals, which assurances—
-
-&emsp;&emsp;&emsp;(i) may employ statistical extrapolation using appropriate data from the Bureau of the Census or other appropriate Federal or State sources; and
-
-&emsp;&emsp;&emsp;(ii) the Secretary shall consider as meeting the requirements of this subparagraph, unless the Secretary determines, based on a preponderance of the evidence, that the assurances do not meet the requirements.
+&emsp;&emsp;(B) has an enrollment of undergraduate full-time equivalent students that is at least 25 percent Hispanic students at the end of the award year immediately preceding the date of application.
 
 #### (6) Junior or community college
 
@@ -76,10 +70,6 @@ For the purpose of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) offers a 2-year program in engineering, mathematics, or the physical or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
-#### (7) Low-income individual
-
-&emsp;The term “low-income individual” means an individual from a family whose taxable income for the preceding year did not exceed 150 percent of an amount equal to the poverty level determined by using criteria of poverty established by the Bureau of the Census.
-
 #### (b) Enrollment of needy students
 
 For the purpose of this subchapter, the term “enrollment of needy students” means an enrollment at an institution with respect to which—
@@ -88,7 +78,7 @@ For the purpose of this subchapter, the term “enrollment of needy students” 
 
 &emsp;(2) a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title.
 
-(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766; amended Pub. L. 108–375, div. A, title X, §1087, Oct. 28, 2004, 118 Stat. 2066.)
+(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766; amended Pub. L. 108–375, div. A, title X, §1087, Oct. 28, 2004, 118 Stat. 2066; Pub. L. 109–292, §4(a), Sept. 30, 2006, 120 Stat. 1341.)
 
 #### Prior Provisions
 
@@ -99,6 +89,14 @@ A prior section 502 of Pub. L. 89–329 was classified to section 1102a of this 
 Another prior section 502 of Pub. L. 89–329 was classified to section 1091a of this title, prior to repeal by Pub. L. 94–482.
 
 #### Amendments
+
+2006—Subsec. (a)(5). Pub. L. 109–292, §4(a)(1), inserted “and” at end of subpar. (A), in subpar. (B), struck out “at the time of application,” before “has an enrollment”, substituted “at the end of the award year immediately preceding the date of application.” for “; and”, and struck out subpar. (C) which read as follows: “provides assurances that not less than 50 percent of the institution's Hispanic students are low-income individuals, which assurances—
+
+&emsp;“(i) may employ statistical extrapolation using appropriate data from the Bureau of the Census or other appropriate Federal or State sources; and
+
+&emsp;“(ii) the Secretary shall consider as meeting the requirements of this subparagraph, unless the Secretary determines, based on a preponderance of the evidence, that the assurances do not meet the requirements.”
+
+Subsec. (a)(7). Pub. L. 109–292, §4(a)(2), struck out par. (7) which defined “low-income individual”.
 
 2004—Subsec. (a)(5)(C). Pub. L. 108–375 inserted “, which assurances—” and cls. (i) and (ii) before period at end.
 

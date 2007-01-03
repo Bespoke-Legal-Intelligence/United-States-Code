@@ -8,7 +8,3 @@ Nothing in this chapter shall be construed to affect the authority or regulation
 
 1965—Pub. L. 89–135 inserted “produced through the use of nuclear facilities licensed by the Commission: <i>Provided</i>, That this section shall not be deemed to confer upon any Federal, State, or local agency any authority to regulate, control, or restrict any activities of the Commission.”
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

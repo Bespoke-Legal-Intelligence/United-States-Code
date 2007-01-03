@@ -9,9 +9,6 @@
 | [666\.](%C2%A7%2000666%20-%20Public-availability%20requirement%3B%20national%20defense%3B%20patent%20agreements.md) | Public-availability requirement; national defense; patent agreements. |
 | [667\.](%C2%A7%2000667%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20X%2C%20%C2%A71009%28a%29%281%29%28C%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20934.md) | Repealed. |
 | [668\.](%C2%A7%2000668%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Fiscal year beginning July 1, 1960. |
-| (b) | Fiscal years beginning after June 30, 1961. |
-| (c) | Availability of sums. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

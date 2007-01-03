@@ -48,11 +48,11 @@ The Board may award scholarships in such amounts as the Board determines to be a
 
 #### Codification
 
-Subsection (e), which required the Board to submit an annual report to Congress on the activities of the Congressional Award Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 199 of House Document No. 103–7.
+Subsection (e), which required the Board to submit an annual report to Congress on the activities of the Congressional Award Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 ofTitle 31, Money and Finance. See, also, page 199 of House Document No. 103–7.
 
 #### Amendments
 
-2000—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference tosection 804(g)(1) of this title could not be executed because that reference did not appear in the original. See Codification note above.
+2000—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to section 804(g)(1) of this title could not be executed because that reference did not appear in the original. See Codification note above.
 
 Subsec. (e)(4). Pub. L. 106–533, §1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 806 of this title. See Codification note above.
 

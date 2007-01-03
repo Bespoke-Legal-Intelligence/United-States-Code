@@ -2,7 +2,7 @@
 
 #### (a) Aid, counsel, assistance, etc., to small business concerns
 
-The essence of the American economic system of private enterprise is free competition. Only through full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
+The essence of the American economic system of private enterprise is free competition. Onlythrough full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
 
 #### (b) Assistance to compete in international markets
 
@@ -190,7 +190,7 @@ Section 3 of Pub. L. 105–135 provided that: “This Act \[see Short Title of 1
 
 #### Effective Date of 1989 Amendment
 
-Section 32 of Pub. L. 101–37 provided that: “The amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall apply as if included in the Business Opportunity Development Reform Act of 1988 \[Pub. L. 100–656\].”
+Section 32 of Pub. L. 101–37 provided that: “The amendments made by this Act \[see Short Title of 1989Amendment note below\] shall apply as if included in the Business Opportunity Development Reform Act of 1988 \[Pub. L. 100–656\].”
 
 #### Effective Date of 1988 Amendments
 
@@ -250,7 +250,7 @@ Section 8014 of title VIII of Pub. L. 100–418 provided that: “This title \[a
 
 #### Effective Date of 1981 Amendment
 
-Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 of this title \[amending sections 633, 636, and 696 of this title\] shall be effective October 1, 1981, and section 1910 of this title \[amending section 636of this title\] shall be effective as provided therein \[Oct. 1, 1985\]. All other provisions of this title \[amending sections 632, 633, 636, and 639 of this title, repealing section 636a of this title, enacting provisions set out as notes under this section and section 636 of this title, and amending provisions set out as notes under this section\] shall be effective immediately \[Aug. 13, 1981\] but shall not affect any financing made, obligated, or committed under the Small Business Act \[this chapter\] or the Small Business Investment Act of 1958 \[chapter 14B of this title\] prior to the effective date hereof.”
+Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 of this title \[amending sections 633, 636, and 696 of this title\] shall be effective October 1, 1981, and section 1910 of this title \[amending section 636 of this title\] shall be effective as provided therein \[Oct. 1, 1985\]. All other provisions of this title \[amending sections 632, 633, 636, and 639 of this title, repealing section 636a of this title, enacting provisions set out as notes under this section and section 636 of this title, and amending provisions set out as notes under this section\] shall be effective immediately \[Aug. 13, 1981\] but shall not affect any financing made, obligated, or committed under the Small Business Act \[this chapter\] or the Small Business Investment Act of 1958 \[chapter 14B of this title\] prior to the effective date hereof.”
 
 #### Effective Date of 1980 Amendment
 
@@ -300,7 +300,7 @@ Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. D, §1(a), Sept. 30, 1996, 110 Stat. 3009–724, provided that: “This division \[amending sections 80a–18, 632 to 634, 636, 638, 648, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, 694b, 696, 697, 697b, and 697f of this title and section 1431 of Title 12, Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under this section and sections 632 to 634, 636, 681, 683, 694b, and 695 of this title, amending provisions set out as notes under thissection and section 644 of this title, and repealing provisions set out as a note under section 634 of this title\] may be cited as the ‘Small Business Programs Improvement Act of 1996’.”
+Pub. L. 104–208, div. D, §1(a), Sept. 30, 1996, 110 Stat. 3009–724, provided that: “This division \[amending sections 80a–18, 632 to 634, 636, 638, 648, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, 694b, 696, 697, 697b, and 697f of this title and section 1431 of Title 12, Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under this section and sections 632 to 634, 636, 681, 683, 694b, and 695 of this title, amending provisions set out as notes under this section and section 644 of this title, and repealing provisions set out as a note under section 634 of this title\] may be cited as the ‘Small Business Programs Improvement Act of 1996’.”
 
 #### Short Title of 1995 Amendment
 
@@ -320,7 +320,7 @@ Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: “This
 
 Pub. L. 102–564, title I, §101, Oct. 28, 1992, 106 Stat. 4249, provided that: “This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the ‘Small Business Innovation Research Program Reauthorization Act of 1992’.”
 
-Pub. L. 102–564, title II, §201, Oct. 28, 1992, 106 Stat. 4256, provided that: “This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the ‘Small Business Technology Transfer Act of 1992’.”
+Pub. L. 102–564, title II, §201, Oct. 28, 1992, 106 Stat. 4256, provided that: “This title \[amending section 638 ofthis title and enacting provisions set out as notes under section 638 of this title\] may be cited as the ‘Small Business Technology Transfer Act of 1992’.”
 
 Pub. L. 102–366, §1(a), Sept. 4, 1992, 106 Stat. 986, provided that: “This Act \[amending sections 632, 636, 637, 644, 648, 661, 662, 682, 683, 685, 686, 687, 687b, and 687<i>l</i> of this title, enacting provisions set out as notes under this section and sections 632, 634, 636, 644, 648, 661, 681, 687b, and 694b of this title, and amending provisions set out as notes under this section and sections 633, 636, and 644 of this title\] may be cited as the ‘Small Business Credit and Business Opportunity Enhancement Act of 1992’.”
 
@@ -350,7 +350,7 @@ Section 1(a) of Pub. L. 100–590 provided that: “This Act \[enacting sections
 
 Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub. L. 100–533 “\[enacting chapter 97 of this title and section 417a of Title 41, Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and section 131 of Title 13, Census\] may be cited as the ‘Women's Business Ownership Act of 1988’.”
 
-Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
+Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
 
 #### Short Title of 1984 Amendments
 
@@ -374,7 +374,7 @@ Pub. L. 96–481, title I, §110, Oct. 21, 1980, 94 Stat. 2323, provided that: �
 
 Section 201 of title II of Pub. L. 96–302 provided that: “This title \[enacting section 648, amending section 636, and enacting provisions set out as a note under section 648 of this title\] may be cited as the ‘Small Business Development Center Act of 1980’.”
 
-Section 301 of title III of Pub. L. 96–302 provided that: “This title \[enacting sections 631a and 631b of this title\] may be cited as the ‘Small Business Economic Policy Act of 1980’.”
+Section 301 of title III of Pub. L. 96–302 provided that: “This title \[enacting sections 631a and 631b of this title\]may be cited as the ‘Small Business Economic Policy Act of 1980’.”
 
 Section 501 of title V of Pub. L. 96–302 provided that: “This title \[amending sections 632 and 636 of this title and enacting provisions set out as notes under sections 631 and 636 of this title\] may be cited as the ‘Small Business Employee Ownership Act of 1980’.”
 
@@ -420,7 +420,7 @@ Section 8013 of title VIII of Pub. L. 100–418 provided that: “Notwithstandin
 
 #### Separability
 
-Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this Act \[this chapter\], or the applicationthereof to any person or circumstances, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this Act \[this chapter\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 #### Authorization of Appropriations
 
@@ -492,7 +492,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 &emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $6,000,000,000, of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
 
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter into cooperative agreements for atotal amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
+&emsp;&emsp;“(E) The Administration is authorized to make grants or enter into cooperative agreements for a total amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
 
 &emsp;“(2)
 
@@ -600,7 +600,7 @@ Eligible veteran.—The term ‘eligible veteran’ means a disabled veteran (as
 
 &emsp;“(2)
 
-Small business concern owned and controlled by eligible veterans.—The term ‘small business concern owned and controlled by eligible veterans’ means a small business concern (as definedin section 3 of the Small Business Act \[15 U.S.C. 632\])—
+Small business concern owned and controlled by eligible veterans.—The term ‘small business concern owned and controlled by eligible veterans’ means a small business concern (as defined in section 3 of the Small Business Act \[15 U.S.C. 632\])—
 
 &emsp;&emsp;“(A) that is at least 51 percent owned by 1 or more eligible veterans, or in the case of a publicly owned business, at least 51 percent of the stock of which is owned by 1 or more eligible veterans; and
 
@@ -640,7 +640,7 @@ Conduct of Study.—In carrying out subsection (a), the Administrator—
 
 #### “SEC. 704. INFORMATION COLLECTION.
 
-“After the date of issuance of the report required by section 703(a), the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary for Veterans’ Employment and Training and the Administrator, engage in efforts each fiscal year to identify small business concerns owned and controlled by eligible veterans in the United States. The Secretary shall inform each small business concern identified under this section that information on Federal procurement is available from the Administrator.
+“After the date of issuance of the report required by section 703(a), the Secretary of Veterans Affairs shall,in consultation with the Assistant Secretary for Veterans’ Employment and Training and the Administrator, engage in efforts each fiscal year to identify small business concerns owned and controlled by eligible veterans in the United States. The Secretary shall inform each small business concern identified under this section that information on Federal procurement is available from the Administrator.
 
 #### “SEC. 707. ENTREPRENEURIAL TRAINING, COUNSELING, AND MANAGEMENT ASSISTANCE.
 
@@ -748,7 +748,7 @@ Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of C
 
 Sec. 2. \[Revoked by Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839.\]
 
-Sec. 3. <i>Responsibilities of Other Federal Departments and Agencies</i>. (a) The head of each Federal department and agency, or a representative designated by him, when and in the manner so requested by the Secretary, shall furnish information, assistance, and reports to, and shall otherwise cooperate with, the Secretary in the performance of his functions hereunder.
+Sec. 3. <i>Responsibilities of Other Federal Departments and Agencies</i>. (a) The head of each Federal department and agency, or a representative designated by him, when and in the manner so requested by the Secretary, shall furnish information, assistance, and reports to,and shall otherwise cooperate with, the Secretary in the performance of his functions hereunder.
 
 (b) The head of each Federal department or agency shall, when so requested by the Secretary, designate his Under Secretary or such other similar official to have primary and continuing responsibility for the participation and cooperation of that department or agency in matters concerning minority business enterprise.
 
@@ -784,7 +784,7 @@ Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 1209
 
 #### Executive Order No. 12269
 
-Ex. Ord. No. 12269, Jan. 15, 1981, 46 F.R. 4673, which established a seven member President's Committee on Small Business Policy to advise the President on appropriate responses to the recommendations of the White House Conference on Small Business, designatedthe Administrator of the Small Business Administration to perform the functions of the President under Federal advisory committee provisions, and terminated the Committee on Dec. 31, 1982, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12269, Jan. 15, 1981, 46 F.R. 4673, which established a seven member President's Committee on Small Business Policy to advise the President on appropriate responses to the recommendations of the White House Conference on Small Business, designated the Administrator of the Small Business Administration to perform the functions of the President under Federal advisory committee provisions, and terminated the Committee on Dec. 31, 1982, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 12432. Minority Business Enterprise Development
 
@@ -802,7 +802,7 @@ Section 1. <i>Minority Business Development Plans</i>. (a) Minority business ent
 
 (e) The Secretary of Commerce shall provide an annual report to the President, through the Cabinet Council on Commerce and Trade, on activities under this Order and agency implementation of minority business development programs.
 
-Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by law and consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Order shall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
+Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by law and consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Ordershall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
 
 (b) Each Federal agency shall, to the extent permitted by law and consistent with its primary mission, establish minority business development programs, consistent with Section 211 of Public Law 95–507 \[amending 15 U.S.C. 637(d)\] to develop and implement incentive techniques to encourage greater minority business subcontracting by Federal prime contractors.
 
@@ -968,7 +968,7 @@ Pub. L. 105–135, §2, Dec. 2, 1997, 111 Stat. 2593, provided that: “In this 
 
 &emsp;“(2) the term ‘Administrator’ means the Administrator of the Small Business Administration;
 
-&emsp;“(3) the term ‘Committees’ means the Committees on Small Business of the House of Representativesand the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]; and
+&emsp;“(3) the term ‘Committees’ means the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]; and
 
 &emsp;“(4) the term ‘small business concern’ has the meaning given the term in section 3 of the Small Business Act (15 U.S.C. 632).”
 

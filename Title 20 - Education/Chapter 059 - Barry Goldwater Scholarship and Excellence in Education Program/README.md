@@ -5,32 +5,13 @@
 | [4701\.](%C2%A7%2004701%20-%20Findings.md) | Findings. |
 | [4702\.](%C2%A7%2004702%20-%20Definitions.md) | Definitions. |
 | [4703\.](%C2%A7%2004703%20-%20Establishment%20of%20Barry%20Goldwater%20Scholarship%20and%20Excellence%20in%20Education%20Foundation.md) | Establishment of Barry Goldwater Scholarship and Excellence in Education Foundation. |
-| (a) | Establishment. |
-| (b) | Board of Trustees. |
-| (c) | Term of office. |
-| (d) | Travel and subsistence pay. |
 | [4704\.](%C2%A7%2004704%20-%20Barry%20Goldwater%20scholarship%20and%20excellence%20in%20education%20awards.md) | Barry Goldwater scholarship and excellence in education awards. |
-| (a) | Award of scholarships and fellowships. |
-| (b) | Barry Goldwater Scholars. |
-| (c) | Award of honoraria to volunteers. |
 | [4705\.](%C2%A7%2004705%20-%20Stipends.md) | Stipends. |
 | [4706\.](%C2%A7%2004706%20-%20Scholarship%20conditions.md) | Scholarship conditions. |
-| (a) | In general. |
-| (b) | Reports. |
 | [4707\.](%C2%A7%2004707%20-%20Barry%20Goldwater%20Scholarship%20and%20Excellence%20in%20Education%20Fund.md) | Barry Goldwater Scholarship and Excellence in Education Fund. |
-| (a) | Establishment of fund. |
-| (b) | Investment of fund assets. |
-| (c) | Authority to sell obligations. |
-| (d) | Proceeds from certain transactions credited to fund. |
 | [4708\.](%C2%A7%2004708%20-%20Expenditures%20from%20fund.md) | Expenditures from fund. |
-| (a) | In general. |
-| (b) | Audits by GAO. |
 | [4709\.](%C2%A7%2004709%20-%20Executive%20Secretary.md) | Executive Secretary. |
-| (a) | Appointment by Board. |
-| (b) | Compensation. |
 | [4710\.](%C2%A7%2004710%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | In general. |
-| (b) | Annual report. |
 | [4711\.](%C2%A7%2004711%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

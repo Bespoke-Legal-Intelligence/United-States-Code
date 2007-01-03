@@ -40,10 +40,6 @@ Subsec. (e). Pub. L. 87–206, §9, added subsec. (e).
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
-
 #### Emergency Relief From Postal Situation Affecting Atomic Energy Cases
 
 Excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see note set out under section 111 of Title 35, Patents.

@@ -2,7 +2,7 @@
 
 #### (a) Enforcement authority
 
-The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act \[50 App. U.S.C. 1 et seq.\] in enforcing this chapter. In carrying out this subsection, the Secretary of the Treasury shall take the necessary steps to ensure that activities permitted under section 6004 of this title are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
+The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act \[50 U.S.C. App. 1 et seq.\] in enforcing this chapter. In carrying out this subsection, the Secretary of the Treasury shall take the necessary steps to ensure that activities permitted under section 6004 of this title are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
 
 #### (b) Authorization of appropriations
 
@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Secretary of the Treasury such su
 
 #### (d) Applicability of penalties
 
-The penalties set forth in section 16 of the Trading With the Enemy Act \[50 App. U.S.C. 16\] shall apply to violations of this chapter to the same extent as such penalties apply to violations under that Act \[50 App. U.S.C. 1 et seq.\].
+The penalties set forth in section 16 of the Trading With the Enemy Act \[50 U.S.C. App. 16\] shall apply to violations of this chapter to the same extent as such penalties apply to violations under that Act \[50 U.S.C. App. 1 et seq.\].
 
 #### (e) Office of Foreign Assets Control
 
@@ -26,5 +26,5 @@ The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct.
 
 #### Codification
 
-Section is comprised of section 1710 of Pub. L. 102–484. Subsec. (c) of section 1710 of Pub. L. 102–484 amendedsection 16 of the Appendix to Title 50, War and National Defense.
+Section is comprised of section 1710 of Pub. L. 102–484. Subsec. (c) of section 1710 of Pub. L. 102–484 amended section 16 of the Appendix to Title 50, War and National Defense.
 

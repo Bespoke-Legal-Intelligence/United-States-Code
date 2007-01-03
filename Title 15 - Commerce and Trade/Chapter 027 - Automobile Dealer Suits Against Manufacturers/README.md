@@ -8,8 +8,6 @@
 | [1224\.](%C2%A7%2001224%20-%20Antitrust%20laws%20as%20affected.md) | Antitrust laws as affected. |
 | [1225\.](%C2%A7%2001225%20-%20State%20laws%20as%20affected.md) | State laws as affected. |
 | [1226\.](%C2%A7%2001226%20-%20Motor%20vehicle%20franchise%20contract%20dispute%20resolution%20process.md) | Motor vehicle franchise contract dispute resolution process. |
-| (a) | Election of arbitration. |
-| (b) | Application. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

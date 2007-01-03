@@ -64,7 +64,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (5) Compliance
 
-&emsp;For the purpose of determining compliance with paragraph (1), a local educational agency may exclude State and local funds expended for—
+&emsp;For the purpose of determining compliance with paragraph (1), a local educational agencymay exclude State and local funds expended for—
 
 &emsp;&emsp;(A) language instruction educational programs; and
 

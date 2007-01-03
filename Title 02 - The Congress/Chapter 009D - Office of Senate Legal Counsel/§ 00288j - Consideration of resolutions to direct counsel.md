@@ -2,7 +2,7 @@
 
 #### (a) Procedure; rules
 
-(1) A resolution introduced pursuant to section 288b of this title shall not be referred to a committee, except as otherwise required under section 288d(c) of this title. Upon introduction, or upon being reported if required under section 288d(c) of this title, whichever is later, it shall at any time thereafter be in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of such resolution. A motion to proceed to the consideration of a resolution shall be highly privileged and not debatable. An amendment to such motion shall not be in order, and it shall not be in order to move to reconsider the vote by which such motion is agreed to.
+(1) A resolution introduced pursuant to section 288b of this title shall not be referred to a committee, except as otherwise required under section 288d(c) of this title. Upon introduction, or upon being reported if required under section 288d(c) of this title, whichever is later, it shall at any time thereafter be in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of such resolution. A motion to proceed to the consideration of a resolution shall be highlyprivileged and not debatable. An amendment to such motion shall not be in order, and it shall not be in order to move to reconsider the vote by which such motion is agreed to.
 
 (2) With respect to a resolution pursuant to section 288b(a) of this title, the following rules apply:
 

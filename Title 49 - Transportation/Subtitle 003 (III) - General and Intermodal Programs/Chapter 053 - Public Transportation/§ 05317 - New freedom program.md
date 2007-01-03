@@ -144,7 +144,7 @@ Operating assistance.—A grant made under this section for operating assistance
 
 Remainder.—The remainder of the net project costs—
 
-&emsp;&emsp;(A) may be provided from an undistributed cash surplus, a replacement or depreciationcash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital; and
+&emsp;&emsp;(A) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital; and
 
 &emsp;&emsp;(B) may be derived from amounts appropriated to or made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation.
 

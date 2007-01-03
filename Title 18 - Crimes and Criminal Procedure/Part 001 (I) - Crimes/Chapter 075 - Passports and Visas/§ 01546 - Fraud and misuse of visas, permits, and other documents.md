@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 103–322, §130009(a)(5), in concluding provisions, substi
 
 1988—Pub. L. 100–525 amended Pub. L. 99–603. See 1986 Amendment note below.
 
-1986—Pub. L. 99–603, as amended by Pub. L. 100–525, substituted “other documents” for “other entry documents” in section catchline, designated existing provisions as subsec. (a), substituted “permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States” for “or other document required for entry into the United States” and for “or document” in first par., substituted “in accordance with this title” for “not more than $2,000” in concluding par., and added subsecs. (b) and (c).
+1986—Pub. L. 99–603, as amended by Pub. L. 100–525, substituted “other documents” for “other entry documents” in section catchline, designated existing provisions as subsec. (a), substituted “permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States” for “or other document required for entry into the United States” and for “or document” infirst par., substituted “in accordance with this title” for “not more than $2,000” in concluding par., and added subsecs. (b) and (c).
 
 1976—Pub. L. 94–550 inserted “, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true,” after “Whoever knowingly makes under oath” in fourth par.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### Transfer of Functions
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency ofthat Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

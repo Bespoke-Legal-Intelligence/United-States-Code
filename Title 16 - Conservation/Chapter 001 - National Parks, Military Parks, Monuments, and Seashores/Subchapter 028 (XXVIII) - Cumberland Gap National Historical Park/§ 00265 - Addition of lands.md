@@ -10,7 +10,7 @@ Thence north 82 degrees 51 minutes west, 271.55 feet; thence leaving the park bo
 
 Thence along the said highway right-of-way south 82 degrees 09 minutes west, 317 feet, more or less, to its intersection with the north right-of-way of Clydesdale Avenue; thence along the north right-of-way of Clydesdale Avenue north 70 degrees 09 minutes east, 423 feet, more or less, to a point on the park boundary;
 
-Thence with the park boundary the following courses and distances: south 86 degrees 39 minutes west, 261.44 feet; thence south 81 degrees 26 minutes west, 147.66 feet; thence north 6 degrees 55 minutes west, 49.23 feet; thence south 83 degrees 04 minutes west, 980 feet; thence north 6 degrees 55 minutes west, 135 feet, more or less, to a point in the middle of Little Yellow Creek;
+Thence with the park boundary the following courses and distances: south 86 degrees 39 minutes west, 261.44 feet; thence south 81 degrees 26 minutes west, 147.66 feet; thence north 6 degrees55 minutes west, 49.23 feet; thence south 83 degrees 04 minutes west, 980 feet; thence north 6 degrees 55 minutes west, 135 feet, more or less, to a point in the middle of Little Yellow Creek;
 
 Thence leaving the park boundary and up the center of the meanders of Little Yellow Creek, 2,562 feet, more or less, to a point in the middle of Little Yellow Creek which is also a point in the middle of Davis Branch;
 

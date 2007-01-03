@@ -2,7 +2,7 @@
 
 (a)
 
-Payment of Expenses.—The Secretary concerned may pay the expenses incident to thedeath of a civilian employee who dies of injuries incurred in connection with the employee's service with an armed force in a contingency operation, or who dies of injuries incurred in connection with a terrorist incident occurring during the employee's service with an armed force, as follows:
+Payment of Expenses.—The Secretary concerned may pay the expenses incident to the death of a civilian employee who dies of injuries incurred in connection with the employee's service with an armed force in a contingency operation, or who dies of injuries incurred in connection with a terrorist incident occurring during the employee's service with an armed force, as follows:
 
 &emsp;(1) Round-trip transportation and prescribed allowances for one person to escort the remains of the employee to the place authorized under section 5742(b)(1) of title 5.
 
@@ -12,7 +12,7 @@ Payment of Expenses.—The Secretary concerned may pay the expenses incident to 
 
 (b)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement this section with regard to civilian employees of the Department of Homeland Security. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
+Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement this section with regard to civilian employees of the Department of Homeland Security. Regulationsunder this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
 
 (c)
 

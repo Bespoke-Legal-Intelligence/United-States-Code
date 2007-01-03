@@ -1,6 +1,6 @@
 ### §5383. Setting individual senior executive pay
 
-(a) Each appointing authority shall determine, in accordance with criteria established by the Office of Personnel Management, which of the rates within a range established under section 5382 shall be paid to each senior executive under such appointing authority.
+(a) Each appointing authority shall determine, in accordance with criteria established by theOffice of Personnel Management, which of the rates within a range established under section 5382 shall be paid to each senior executive under such appointing authority.
 
 (b) Members of the Senior Executive Service shall be subject to the limitation under section 5307.
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 98–615 effective following expiration of 90-day period be
 
 #### Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report
 
-Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to studyand, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
+Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to study and, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
 

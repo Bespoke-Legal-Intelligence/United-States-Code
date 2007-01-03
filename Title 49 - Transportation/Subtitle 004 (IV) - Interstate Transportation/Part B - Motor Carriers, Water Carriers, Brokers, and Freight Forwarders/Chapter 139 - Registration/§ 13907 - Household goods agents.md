@@ -14,7 +14,7 @@ Enforcement.—
 
 &emsp;(1)
 
-Complaint.—Whenever the Secretary has reason to believe from a complaint or investigation that an agent providing household goods transportation services (including accessorial and terminal services) under the authority of a motor carrier providing transportation of household goods has violated section 14901(e) or 14912 or is consistently not fit, willing, and able to provide adequate household goods transportation services (including accessorial and terminal services), the Secretary may issue to such agent a complaint stating the charges and containing notice of the timeand place of a hearing which shall be held no later than 60 days after service of the complaint to such agent.
+Complaint.—Whenever the Secretary has reason to believe from a complaint or investigation that an agent providing household goods transportation services (including accessorial and terminal services) under the authority of a motor carrier providing transportation of household goods has violated section 14901(e) or 14912 or is consistently not fit, willing, and able to provide adequate household goods transportation services (including accessorial and terminal services), the Secretary may issue to such agent a complaint stating the charges and containing notice of the time and place of a hearing which shall be held no later than 60 days after service of the complaint to such agent.
 
 &emsp;(2)
 

@@ -10,7 +10,7 @@ Authority.—The Administrator of General Services may enter into a lease agreem
 
 &emsp;(2)
 
-Terms.—A lease agreement under this subsection shall be on terms the Administrator considers to be in the interest of the Federal Government and necessary for the accommodation of the federal agency. However, the lease agreement may not bind the Government for more than 20 years and the obligation of amounts for a lease under this subsection is limited to the current fiscal year for which payments are due without regard to section 1341(a)(1)(B) of title 31.
+Terms.—A lease agreement under this subsection shall be on terms the Administrator considers to be in the interest of the Federal Government and necessary for the accommodation of the federal agency. However, the lease agreement may not bind the Government for more than 20 years and the obligation of amounts for a lease under this subsection is limited to the current fiscal year forwhich payments are due without regard to section 1341(a)(1)(B) of title 31.
 
 (b)
 

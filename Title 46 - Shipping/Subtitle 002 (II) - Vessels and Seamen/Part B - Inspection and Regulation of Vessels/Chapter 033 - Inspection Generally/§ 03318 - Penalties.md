@@ -16,7 +16,7 @@
 
 (e) A person that alters, defaces, obliterates, removes, or destroys any plans or specifications required by and approved under a regulation prescribed under section 3306 of this title, with intent to deceive or impede any official of the United States in carrying out that official's duties, commits a class A misdemeanor.
 
-(f) A person commits a class D felony.<sup>1</sup> if the person—
+(f) A person commits a class D felony if the person—
 
 &emsp;(1) forges or counterfeits with intent to make it appear genuine any mark or stamp prescribed for material to be tested and approved under section 3306 of this title or a regulation prescribed under section 3306;
 
@@ -36,7 +36,7 @@
 
 &emsp;(4) is an officer or member of the board of directors of a school, organization, association, partnership, or corporation owning a nautical school vessel operated in violation of a regulation prescribed for a nautical school vessel.
 
-(h) An owner, charterer, managing operator, agent, master, or individual in charge of a vesselthat fails to give the notice required by section 3304(b) of this title is liable to the Government for a civil penalty of not more than $1,000. The vessel also is liable in rem for the penalty.
+(h) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel that fails to give the notice required by section 3304(b) of this title is liable to the Government for a civil penalty of not more than $1,000. The vessel also is liable in rem for the penalty.
 
 (i) A person violating section 3309(c) of this title is liable to the Government for a civil penalty of not more than $1,000.
 
@@ -54,7 +54,7 @@
 
 (<i>l</i>) A person committing an act described by subsections (b)–(f) of this section is liable to the Government for a civil penalty of not more than $5,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 517; Pub. L. 98–498, title II, §211(c), Oct. 19, 1984, 98 Stat. 2304; Pub. L. 99–307, §1(6), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §4302(b), Aug. 18, 1990, 104 Stat. 538; Pub. L. 104–324, title III, §310, title VII, §713, Oct. 19, 1996, 110 Stat. 3919, 3936.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 517; Pub. L. 98–498, title II, §211(c), Oct. 19, 1984, 98 Stat. 2304; Pub. L. 99–307, §1(6), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §4302(b), Aug. 18, 1990, 104 Stat. 538; Pub. L. 104–324, title III, §310, title VII, §713, Oct. 19, 1996, 110 Stat. 3919, 3936; Pub. L. 109–304, §15(13), Oct. 6, 2006, 120 Stat. 1703.)
 
 Historical and Revision Notes
 
@@ -89,6 +89,8 @@ Historical and Revision Notes
 Section 3318 provides for a number of specific civil and criminal penalties.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–304 struck out period after “felony”.
 
 1996—Subsec. (a). Pub. L. 104–324, §713(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 

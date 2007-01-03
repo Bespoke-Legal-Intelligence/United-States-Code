@@ -2,77 +2,21 @@
 
 #### (a) In general
 
-Any loan guaranteed or insured under this subchapter, including the security given for such loan, may be sold or assigned by the lender to any person.
+All or any portion of a loan guaranteed or insured under this subchapter, including the security given for the loan—
 
-#### (b) Initial transfers
+&emsp;(1) may be transferred by the lender by sale or assignment to any person; and
 
-#### (1) In general
+&emsp;(2) may be retransferred by the transferee.
 
-&emsp;The lender of a loan guaranteed or insured under this subchapter may transfer to any individual or legal entity—
+#### (b) Transfers of loans
 
-&emsp;&emsp;(A) all rights and obligations of the lender in the loan or in the unguaranteed or uninsured portion of the loan; and
+With respect to a transfer described in subsection (a)—
 
-&emsp;&emsp;(B) any security given for the loan.
+&emsp;(1) the transfer shall be consistent with such regulations as the Secretary shall promulgate under subsection (h); and
 
-#### (2) Additional requirements
+&emsp;(2) the transferee shall give notice of the transfer to the Secretary.
 
-&emsp;With respect to a transfer described in paragraph (1)—
-
-&emsp;&emsp;(A) the transfer shall be consistent with such regulations as the Secretary shall promulgate under subsection (i) of this section; and
-
-&emsp;&emsp;(B) the lender shall give notice of the transfer to the Secretary.
-
-#### (3) Responsibilities of transferee
-
-&emsp;On any transfer under paragraph (1), the transferee shall—
-
-&emsp;&emsp;(A) be deemed to be the lender for the purpose of this subchapter;
-
-&emsp;&emsp;(B) become the secured party of record; and
-
-&emsp;&emsp;(C) be responsible for—
-
-&emsp;&emsp;&emsp;(i) performing the duties of the lender; and
-
-&emsp;&emsp;&emsp;(ii) servicing the loan in accordance with the terms of the guarantee by the Secretary of the loan.
-
-#### (c) Secondary transfers
-
-#### (1) In general
-
-&emsp;Any transferee under subsection (b) of this section of a loan guaranteed or insured under this subchapter may transfer to any individual or legal entity—
-
-&emsp;&emsp;(A) all rights and obligations of the transferee in the loan or in the unguaranteed or uninsured portion of the loan; and
-
-&emsp;&emsp;(B) any security given for the loan.
-
-#### (2) Additional requirements
-
-&emsp;With respect to a transfer described in paragraph (1)—
-
-&emsp;&emsp;(A) the transfer shall be consistent with such regulations as the Secretary shall promulgate under subsection (i) of this section; and
-
-&emsp;&emsp;(B) the transferor shall give notice of the transfer to the Secretary.
-
-#### (3) Acknowledgment by Secretary
-
-&emsp;On receipt of a notice of a transfer under paragraph (2)(B), the Secretary shall issue to the transferee an acknowledgment by the Secretary of—
-
-&emsp;&emsp;(A) the transfer; and
-
-&emsp;&emsp;(B) the interest of the transferee in the guaranteed or insured portion of the loan.
-
-#### (4) Responsibilities of lender
-
-&emsp;Notwithstanding any transfer permitted by this subsection, the lender shall—
-
-&emsp;&emsp;(A) remain obligated on the guarantee agreement or insurance agreement between the lender and the Secretary;
-
-&emsp;&emsp;(B) continue to be responsible for servicing the loan in a manner consistent with that guarantee agreement or insurance agreement; and
-
-&emsp;&emsp;(C) remain the secured creditor of record.
-
-#### (d) Full faith and credit
+#### (c) Full faith and credit
 
 #### (1) In general
 
@@ -80,25 +24,25 @@ Any loan guaranteed or insured under this subchapter, including the security giv
 
 #### (2) Validity
 
-#### (A) In general
+&emsp;Except as provided in regulations in effect on the date on which a loan is made, the validity of a guarantee or insurance of a loan under this subchapter shall be incontestable.
 
-&emsp;&emsp;Except as provided in subparagraph (B), the validity of a guarantee or insurance of a loan under this subchapter shall be incontestable if the obligations of the guarantee or insurance held by a transferee have been acknowledged under subsection (c)(3) of this section.
-
-#### (B) Exception for fraud or misrepresentation
-
-&emsp;&emsp;Subparagraph (A) shall not apply in a case in which a transferee has actual knowledge of fraud or misrepresentation, or participates in or condones fraud or misrepresentation, in connection with a loan.
-
-#### (e) Damages
+#### (d) Damages
 
 Notwithstanding section 3302 of title 31, the Secretary may recover from a lender of a loan under this subchapter any damages suffered by the Secretary as a result of a material breach of the obligations of the lender with respect to a guarantee or insurance by the Secretary of the loan.
 
-#### (f) Fees
+#### (e) Fees
 
-The Secretary may collect a fee for any loan or guaranteed or insured portion of a loan that is transferred in accordance with this section.
+#### (1) In general
 
-#### (g) Central registration of loans
+&emsp;The Secretary may collect a fee for any loan or guaranteed or insured portion of a loan that is transferred in accordance with this section.
 
-On promulgation of final regulations under subsection (i) of this section, the Secretary shall—
+#### (2) Compensation of fiscal transfer agent
+
+&emsp;A fiscal transfer agent designated under subsection (f) may be compensated through any of the fees assessed under this section and any interest earned on any funds or fees collected by the fiscal transfer agent while the funds or fees are in the control of the fiscal transfer agent and before the time at which the fiscal transfer agent is contractually required to transfer such funds to the Secretary or to transferees or other holders.
+
+#### (f) Central registration of loans
+
+On promulgation of final regulations under subsection (h), the Secretary shall—
 
 &emsp;(1) provide for a central registration of all guaranteed or insured loans transferred under this section; and
 
@@ -106,9 +50,9 @@ On promulgation of final regulations under subsection (i) of this section, the S
 
 &emsp;&emsp;(A) to act as the designee of the Secretary under this section; and
 
-&emsp;&emsp;(B) to carry out on behalf of the Secretary the central registration and fiscal transfer agent functions, and issuance of acknowledgments, under this section.
+&emsp;&emsp;(B) to carry out on behalf of the Secretary the central registration and fiscal transfer agent functions under this section.
 
-#### (h) Pooling of loans
+#### (g) Pooling of loans
 
 #### (1) In general
 
@@ -116,15 +60,39 @@ On promulgation of final regulations under subsection (i) of this section, the S
 
 #### (2) Regulations
 
-&emsp;In promulgating regulations under subsection (i) of this section, the Secretary may include such regulations to effect orderly and efficient pooling procedures as the Secretary determines to be necessary.
+&emsp;In promulgating regulations under subsection (i),<sup>1</sup> the Secretary may include such regulations to effect orderly and efficient pooling procedures as the Secretary determines to be necessary.
 
-#### (i) Regulations
+#### (h) Regulations
 
 Not later than 180 days after December 13, 2002, the Secretary shall develop such procedures and promulgate such regulations as are necessary to facilitate, administer, and promote transfers of loans and guaranteed and insured portions of loans under this section.
 
-(Pub. L. 93–262, title II, §205, Apr. 12, 1974, 88 Stat. 80; Pub. L. 100–442, §2, Sept. 22, 1988, 102 Stat. 1763; Pub. L. 107–331, title I, §103(b), Dec. 13, 2002, 116 Stat. 2836.)
+(Pub. L. 93–262, title II, §205, Apr. 12, 1974, 88 Stat. 80; Pub. L. 100–442, §2, Sept. 22, 1988, 102 Stat. 1763; Pub. L. 107–331, title I, §103(b), Dec. 13, 2002, 116 Stat. 2836; Pub. L. 109–221, title IV, §401(b), May 12, 2006, 120 Stat. 342.)
+
+#### References in Text
+
+Subsection (i), referred to in subsec. (g)(2), was redesignated as subsection (h) of this section by Pub. L. 109–221, title IV, §401(b)(3), May 12, 2006, 120 Stat. 342.
 
 #### Amendments
+
+2006—Pub. L. 109–221, §401(b)(1), inserted section catchline.
+
+Subsecs. (a), (b). Pub. L. 109–221, §401(b)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which authorized loan sale or assignment and set forth parameters for initial transfers.
+
+Subsec. (c). Pub. L. 109–221, §401(b)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which set forth requirements for secondary transfers under this subchapter.
+
+Subsec. (c)(2). Pub. L. 109–221, §401(b)(4), added par. (2) and struck out former par (2) which provided for the incontestability of a guarantee or insurance of a loan under this subchapter with an exception for fraud or misrepresentation.
+
+Subsec. (d). Pub. L. 109–221, §401(b)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (e). Pub. L. 109–221, §401(b)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Pub. L. 109–221, §401(b)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 109–221, §401(b)(6), substituted “subsection (h)” for “subsection (i)” in introductory provisions and struck out “, and issuance of acknowledgments,” after “agent functions” in par. (2)(B).
+
+Pub. L. 109–221, §401(b)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g) to (i). Pub. L. 109–221, §401(b)(3), redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
 
 2002—Pub. L. 107–331 designated existing provisions as subsec. (a), inserted heading and substituted “Any loan guaranteed or insured” for “Any loan guaranteed”, and added subsecs. (b) to (i).
 
@@ -140,7 +108,7 @@ Findings.—Congress finds that—
 
 &emsp;“(1) the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) was intended to provide Native American borrowers with access to commercial sources of capital that otherwise would not be available through the guarantee or insurance of loans by the Secretary of the Interior;
 
-&emsp;“(2) although the Secretary of the Interior has made loan guarantees and insurance available, use of those guarantees and that insurance by lenders to benefit Native American business borrowers has been limited;
+&emsp;“(2) although the Secretary of the Interior has made loan guarantees and insurance available, use ofthose guarantees and that insurance by lenders to benefit Native American business borrowers has been limited;
 
 &emsp;“(3) twenty-seven years after the date of enactment of the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) \[Pub. L. 93–262, which was approved Apr. 12, 1974\], the promotion and development of Native American-owned business remains an essential foundation for growth of economic and social stability of Native Americans;
 
@@ -167,4 +135,6 @@ Purpose.—The purpose of this Act \[see Short Title of 2002 Amendment note set 
 &emsp;“(5)(A) authorize the Secretary to promulgate regulations to encourage and expand a secondary market program for loans guaranteed or insured by the Secretary; and
 
 &emsp;“(B) allow the pooling of those loans as the secondary market develops.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

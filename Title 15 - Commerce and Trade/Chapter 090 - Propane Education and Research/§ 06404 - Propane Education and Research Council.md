@@ -38,7 +38,7 @@ Not less than 5 percent of the funds collected through assessments pursuant to t
 
 #### (h) Priorities
 
-Issues related to research and development, safety, education, and training shall be givenpriority by the Council in the development of its programs and projects.
+Issues related to research and development, safety, education, and training shall be given priority by the Council in the development of its programs and projects.
 
 #### (i) Administration
 

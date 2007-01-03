@@ -2,7 +2,7 @@
 
 (a) The Secretary of the Treasury shall determine the fineness, weight, and value of each deposit and bar under section 5121 of this title. The value and the amount of charges under subsection (b) of this section shall be based on the fineness and weight of the bullion. The Secretary shall give the depositor a statement of the charges and the net amount of the deposit to be paid in money or bars of the same species of bullion as that deposited.
 
-(b) The Secretary shall impose a charge equal to the average cost of material, labor, waste,and use of machinery of a United States mint or assay office for—
+(b) The Secretary shall impose a charge equal to the average cost of material, labor, waste, and use of machinery of a United States mint or assay office for—
 
 &emsp;(1) melting and refining bullion;
 

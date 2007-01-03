@@ -11,7 +11,7 @@
 | [2436\.](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md) | Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States. |
 | [2437\.](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md) | Development of major defense acquisition programs: sustainment of system to be replaced. |
 | \[2438, 2439. Repealed.\] |  |
-| [2440\.](%C2%A7%2002440%20-%20Technology%20and%20Industrial%20Base%20Plans.md) | Technology and industrial base plans.<sup>1</sup> |
+| [2440\.](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md) | Technology and industrial base plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,8 +35,6 @@ Pub. L. 99–500, §101(c) \[title X, §§904(a)(2), 905(a)(2), 906(a)(2)\], Oct
 
 Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 144, consisting of sections 2431 to 2434.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -51,4 +49,4 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 - [&sect; 02436 - Major defense acquisition programs incentive program for contractors to purchase capital assets manufactured in United States](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md)
 - [&sect; 02437 - Development of major defense acquisition programs sustainment of system to be replaced](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md)
 - [&sect; 02438, 2439 - Repealed. Pub. L. 103&#8211;355, title III, &sect;&sect;3006(a), 3007(a), Oct. 13, 1994, 108 Stat. 3331](%C2%A7%2002438%2C%202439%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A7%C2%A73006%28a%29%2C%203007%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203331.md)
-- [&sect; 02440 - Technology and Industrial Base Plans](%C2%A7%2002440%20-%20Technology%20and%20Industrial%20Base%20Plans.md)
+- [&sect; 02440 - Technology and industrial base plans](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md)

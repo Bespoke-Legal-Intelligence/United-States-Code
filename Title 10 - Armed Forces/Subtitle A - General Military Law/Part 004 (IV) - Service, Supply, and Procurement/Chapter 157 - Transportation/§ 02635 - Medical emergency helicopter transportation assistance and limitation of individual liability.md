@@ -8,7 +8,7 @@
 
 &emsp;(3) The provision of assistance shall not cause any increase in funds required for the operation of the Department of Defense.
 
-(b) No individual (or his estate) who is authorized by the Department of Defense to perform services under a program established pursuant to subsection (a), and who is acting within the scope of his duties, shall be liable for injury to, or loss of property or personal injury or death which may be caused incident to providing such services.
+(b) No individual (or his estate) who is authorized by the Department of Defense to perform services under a program established pursuant to subsection (a), and who is acting within the scope of his duties, shall be liable for injury to,or loss of property or personal injury or death which may be caused incident to providing such services.
 
 (Added Pub. L. 93–155, title VIII, §814(a), Nov. 16, 1973, 87 Stat. 620; amended Pub. L. 96–513, title V, §511(88), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 

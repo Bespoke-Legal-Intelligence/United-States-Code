@@ -28,7 +28,7 @@ The Secretary shall provide each operator and (in an appropriate case, as determ
 
 #### (f) Donations
 
-The Secretary may accept on behalf of the Job Corps or individual Job Corps centers charitabledonations of cash or other assistance, including equipment and materials, if such donations are available for appropriate use for the purposes set forth in this subchapter.
+The Secretary may accept on behalf of the Job Corps or individual Job Corps centers charitable donations of cash or other assistance, including equipment and materials, if such donations are available for appropriate use for the purposes set forth in this subchapter.
 
 #### (g) Sale of property
 

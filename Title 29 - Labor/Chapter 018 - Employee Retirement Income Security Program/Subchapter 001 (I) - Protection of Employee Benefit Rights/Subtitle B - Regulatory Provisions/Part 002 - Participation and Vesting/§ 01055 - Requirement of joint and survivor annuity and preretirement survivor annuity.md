@@ -70,7 +70,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(iv) the right to make, and the effect of, a revocation of an election under paragraph (1).
 
-(B)(i) Each plan shall provide to each participant, within the applicable period with respect to such participant (and consistent with such regulations as the Secretary may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).
+(B)(i) Each plan shall provide to each participant, within the applicable period with respect to such participant (and consistent with such regulations as the Secretary may prescribe), awritten explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).
 
 (ii) For purposes of clause (i), the term “applicable period” means, with respect to a participant, whichever of the following periods ends last:
 
@@ -104,7 +104,7 @@ Each pension plan to which this section applies shall provide that—
 
 (7) For purposes of this subsection, the term “applicable election period” means—
 
-&emsp;(A) in the case of an election to waive the qualified joint and survivor annuity form of benefit, the 90-day period ending on the annuity starting date, or
+&emsp;(A) in the case of an election to waive the qualified joint and survivor annuity form of benefit, the 180-day period ending on the annuity starting date, or
 
 &emsp;(B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of the plan year in which the participant attains age 35 and ends on the date of the participant's death.
 
@@ -250,9 +250,65 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–280, title X, §1004(b), (c), Aug. 17, 2006, 120 Stat. 1054, 1055, provided that, applicable to plan years beginning after Dec. 31, 2007, with special rule for collectively bargained plans, this section is amended as follows:</i>
+
+<i>(1) in subsection (c)(1)(A), by substituting a comma for “, and” in clause (i), by redesignating clause (ii) as (iii), and by adding a new clause (ii) to read as follows:</i>
+
+&emsp;&emsp;<i>“(ii) if the participant elects a waiver under clause (i), may elect the qualified optional survivor annuity at any time during the applicable election period, and”;</i>
+
+<i>(2) in subsection (c)(3)(A)(i), by inserting “and of the qualified optional survivor annuity” after “annuity”; and</i>
+
+<i>(3) in subsection (d), by inserting “(1)” after “(d)”, by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and by adding paragraph (2) to read as follows:</i>
+
+<i>(2)(A) For purposes of this section, the term “qualified optional survivor annuity” means an annuity—</i>
+
+&emsp;<i>(i) for the life of the participant with a survivor annuity for the life of the spouse which is equal to the applicable percentage of the amount of the annuity which is payable during the joint lives of the participant and the spouse, and</i>
+
+&emsp;<i>(ii) which is the actuarial equivalent of a single annuity for the life of the participant.</i>
+
+> <i>Such term also includes any annuity in a form having the effect of an annuity described in the preceding sentence.</i>
+
+<i>(B)(i) For purposes of subparagraph (A), if the survivor annuity percentage—</i>
+
+&emsp;<i>(I) is less than 75 percent, the applicable percentage is 75 percent, and</i>
+
+&emsp;<i>(II) is greater than or equal to 75 percent, the applicable percentage is 50 percent.</i>
+
+<i>(ii) For purposes of clause (i), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.</i>
+
+<i>Pub. L. 109–280, title III, §302(a), (c), Aug. 17, 2006, 120 Stat. 920, 921, provided that, applicable with respect to plan years beginning after Dec. 31, 2007, subsection (g)(3) of this section is amended to read as follows:</i>
+
+<i>(3)(A) For purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.</i>
+
+<i>(B) For purposes of subparagraph (A)—</i>
+
+&emsp;<i>(i) The term “applicable mortality table” means a mortality table, modified as appropriate by the Secretary of the Treasury, based on the mortality table specified for the plan year under subparagraph (A) of section 1083(h)(3) of this title (without regard to subparagraph (C) or (D) of such section).</i>
+
+&emsp;<i>(ii) The term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 1083(h)(2)(C) of this title for the month before the date of the distribution or such other time as the Secretary of the Treasury may by regulations prescribe.</i>
+
+&emsp;<i>(iii) For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 1083(h)(2)(C) of this title if—</i>
+
+&emsp;&emsp;<i>(I) section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,</i>
+
+&emsp;&emsp;<i>(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “section 1055(g)(3)(B)(iii)(II) of this title” for “section 1082(b)(5)(B)(ii)(II) of this title”, and</i>
+
+&emsp;&emsp;<i>(III) the applicable percentage under section 1083(h)(2)(G) of this title were determined in accordance with the following table:</i>
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| <i>“In the case of plan years beginning in:</i> | <i>The applicable percentage is:</i> |
+| 2008 | 20 percent |
+| 2009 | 40 percent |
+| 2010 | 60 percent |
+| 2011 | 80 percent.” |
 
 #### Amendments
+
+2006—Subsec. (c)(7)(A). Pub. L. 109–280, §1102(a)(2)(A), substituted “180-day” for “90-day”.
 
 2002—Subsec. (g)(1). Pub. L. 107–147, §411(r)(2)(A), substituted “exceed the amount that can be distributed without the participant's consent under section 1053(e) of this title” for “exceed the dollar limit under section 1053(e)(1) of this title”.
 
@@ -358,7 +414,7 @@ Subsec. (d). Pub. L. 98–397 substituted provisions defining “qualified joint
 
 Subsec. (e). Pub. L. 98–397 substituted provisions defining “qualified preretirement survivor annuity” for former provisions relating to election to take annuity.
 
-Subsec. (f). Pub. L. 98–397 substituted provisions to the effect that plans may provide that annuities will not be provided unless the participant and spouse hadbeen married for a certain 1-year period, for former provisions relating to plan provisions which render election or revocation ineffective if participant dies within period of up to 2 years following the date of election or revocation.
+Subsec. (f). Pub. L. 98–397 substituted provisions to the effect that plans may provide that annuities will not be provided unless the participant and spouse had been married for a certain 1-year period, for former provisions relating to plan provisions which render election or revocation ineffective if participant dies within period of up to 2 years following the date of election or revocation.
 
 Subsec. (g). Pub. L. 98–397 substituted provisions relating to plan provisions for immediate distribution of present value if such value does not exceed $3,500 and for written consent from the participant and spouse for former provisions setting forth definitions. See subsec. (h) of this section.
 
@@ -367,6 +423,14 @@ Subsec. (h). Pub. L. 98–397 substituted provisions setting forth definitions f
 Subsec. (i). Pub. L. 98–397 substituted provisions relating to increased costs resulting from providing annuities under applicable plans for former provisions setting forth the effective date of this section.
 
 Subsec. (j). Pub. L. 98–397 added subsec. (j).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 302(a) of Pub. L. 109–280 applicable with respect to plan years beginning after Dec. 31, 2007, see section 302(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
+
+Amendment by section 1004(b) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, with special rule for collectively bargained plans, see section 1004(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
+
+Amendments and modifications made or required by section 1102(a)(2)(A) of Pub. L. 109–280 applicable to years beginning after Dec. 31, 2006, see section 1102(a)(3) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2002 Amendment
 
@@ -396,7 +460,7 @@ Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: “The amendment made 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning afterDec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 1145(b) of Pub. L. 99–514 applicable as if included in the amendments made by the Retirement Equity Act of 1984, Pub. L. 98–397, see section 1145(d) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 

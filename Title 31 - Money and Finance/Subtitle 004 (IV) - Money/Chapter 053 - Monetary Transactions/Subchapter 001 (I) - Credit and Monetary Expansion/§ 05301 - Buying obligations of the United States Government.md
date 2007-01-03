@@ -1,6 +1,6 @@
 ### §5301. Buying obligations of the United States Government
 
-(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
+(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when thePresident decides that the foreign commerce of the United States is affected adversely because—
 
 &emsp;(1) the value of coins and currency of a foreign country compared to the present standard value of gold is depreciating;
 
@@ -41,6 +41,10 @@ May 12, 1933, ch. 25, §43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30, 19
 In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) is omitted as obsolete because clause (1) is omitted as executed, and clause (2) is omitted as expired. The text of 31:821(b)(matter after (2)) is omitted as obsolete because silver is no longer coined. The words “in his discretion” and “several” are omitted as surplus. The words “Board of Governors of the Federal Reserve System” are substituted for “Federal Reserve Board” because of 12:241. The words “upon investigation” are omitted as surplus. In clause (1), the word “foreign” is substituted for “of any other government or governments” to eliminate unnecessary words. The words “coins and” are added for consistency. In clause (2), the words “United States coins and currency” are substituted for “currency issues of the United States” for consistency. In clause (4), the words “so that the United States Government and the governments of other countries can stabilize” are substituted for “to secure by international agreement a stabilization” for clarity. The words “at proper levels” are omitted as surplus.
 
 In subsection (b), before clause (1), the words “(and the Board is authorized to permit the banks notwithstanding another law)” are substituted for “notwithstanding any provisions of law or rules and regulations to the contrary” for clarity. In clause (1), the words “pursuant to existing law” are omitted as surplus. The words “through each entire” are substituted for “throughout” for clarity. In clause (2), the words “in portfolio”, “or periods of time Treasury bills or other” and “in an aggregate sum of” are omitted as surplus.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–347, title VIII, §801, Oct. 13, 2006, 120 Stat. 1952, provided that: “This title \[enacting sections 5361 to 5367 of this title and provisions set out as a note under section 5361 of this title\] may be cited as the ‘Unlawful Internet Gambling Enforcement Act of 2006’.”
 
 #### Short Title of 2004 Amendment
 

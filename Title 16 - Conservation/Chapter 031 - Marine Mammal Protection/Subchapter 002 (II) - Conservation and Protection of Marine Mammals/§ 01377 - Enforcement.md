@@ -18,7 +18,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 &emsp;(1) with or without warrant or other process, arrest any person committing in his presence or view a violation of this subchapter or the regulations issued thereunder;
 
-&emsp;(2) with a warrant or other process, or without a warrant if he has reasonable cause to believe that a vessel or other conveyance subject to the jurisdiction of the United States or any person on board is in violation of any provision of this subchapter or the regulations issued thereunder, search such vessel or conveyance and arrest such person;
+&emsp;(2) with a warrant or other process, or without a warrant if he has reasonable cause to believe that a vessel, other conveyance, or container subject to the jurisdiction of the United States or any person on board is in violation of any provision of this subchapter or the regulations issued thereunder, search such vessel or conveyance and arrest such person;
 
 &emsp;(3) seize the cargo of any vessel or other conveyance subject to the jurisdiction of the United States used or employed contrary to the provisions of this subchapter or the regulations issued hereunder or which reasonably appears to have been so used or employed; and
 
@@ -40,7 +40,11 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 &emsp;(B) no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with <sup>1</sup> thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title.
 
-(Pub. L. 92–522, title I, §107, Oct. 21, 1972, 86 Stat. 1037; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 92–522, title I, §107, Oct. 21, 1972, 86 Stat. 1037; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–479, title IX, §902(c), Jan. 12, 2007, 120 Stat. 3665.)
+
+#### Amendments
+
+2007—Subsec. (d)(2). Pub. L. 109–479 substituted “vessel, other conveyance, or container” for “vessel or other conveyance”.
 
 #### Change of Name
 

@@ -56,7 +56,7 @@ Generally.—Effective the first day of the first applicable pay period that beg
 
 &emsp;&emsp;“(B)
 
-Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for a Senator, thePresident pro tempore of the Senate, or the majority leader or the minority leader of the Senate.
+Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for a Senator, the President pro tempore of the Senate, or the majority leader or the minority leader of the Senate.
 
 &emsp;“(3)
 
@@ -64,7 +64,7 @@ Judicial positions.—Effective the first day of the first applicable pay period
 
 “(b)
 
-Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
+Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affectingsuch office or position, the adjustment under subsection (a) shall be made first.”
 
 #### Revision in Method by Which Annual Pay Adjustments for Certain Executive, Legislative, and Judicial Positions Are To Be Made
 
@@ -138,7 +138,7 @@ Section 305(a), (b), and (d) of H.R. 4120, as reported July 9, 1981, made applic
 
 Similar provisions were contained in Pub. L. 97–51, §101(c), Oct. 1, 1981, 95 Stat. 959, as amended by Pub. L. 97–85, Nov. 23, 1981, 95 Stat. 1098.
 
-Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31,1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
+Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31, 1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
 
 #### Fiscal Year 1981 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 

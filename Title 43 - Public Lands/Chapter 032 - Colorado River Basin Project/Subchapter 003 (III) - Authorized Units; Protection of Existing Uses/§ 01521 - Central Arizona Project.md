@@ -30,7 +30,7 @@ Sections 1301 and 1302 of Pub. L. 102–575 provided that:
 
 #### “SEC. 1302. REFERENCES.
 
-“Any reference in any law, regulation, document, record, map, or other paper of the United States to the aqueduct referred to in section 1301 hereby is deemed to be a reference to the ‘Fannin-McFarland Aqueduct’.”
+“Any reference in any law, regulation, document, record, map, or other paper of the United States to theaqueduct referred to in section 1301 hereby is deemed to be a reference to the ‘Fannin-McFarland Aqueduct’.”
 
 #### Designation of Granite Reef Aqueduct as Hayden-Rhodes Aqueduct
 

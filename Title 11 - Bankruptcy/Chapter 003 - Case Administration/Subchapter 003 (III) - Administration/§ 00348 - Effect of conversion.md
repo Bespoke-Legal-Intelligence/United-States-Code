@@ -32,7 +32,7 @@ I74legislative statements
 
 The House amendment adopts section 348(b) of the Senate amendment with slight modifications, as more accurately reflecting sections to which this particular effect of conversion should apply.
 
-Section 348(e) of the House amendment is a stylistic revision of similar provisions contained in H.R. 8200 aspassed by the House and in the Senate amendment. Termination of services is expanded to cover any examiner serving in the case before conversion, as done in H.R. 8200 as passed by the House.
+Section 348(e) of the House amendment is a stylistic revision of similar provisions contained in H.R. 8200 as passed by the House and in the Senate amendment. Termination of services is expanded to cover any examiner serving in the case before conversion, as done in H.R. 8200 as passed by the House.
 
 #### senate report no. 95–989
 

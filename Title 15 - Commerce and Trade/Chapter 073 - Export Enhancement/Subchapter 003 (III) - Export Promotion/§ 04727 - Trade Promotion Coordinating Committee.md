@@ -84,7 +84,7 @@ To carry out subsection (b) of this section, the TPCC shall develop and implemen
 
 #### (e) Member qualifications
 
-Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
+Members of the TPCC shall be appointed by the heads of their respective departments oragencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
 
 #### (f) Report to Congress
 
@@ -94,7 +94,7 @@ The chairperson of the TPCC shall prepare and submit to the Committee on Banking
 
 &emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199;amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
 
 #### References in Text
 
@@ -196,7 +196,7 @@ Sec. 5. <i>Strategic Plan</i>. To carry out section 4 of this order, the TPCC sh
 
 (c) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 
-(d) propose, through the Director of the Office of Management and Budget, to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (b) of this section and eliminates funding for the areas of overlap and duplication identified under paragraph (c) of this section; and
+(d) propose, through the Director of the Office of Management and Budget, to the President an annualunified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (b) of this section and eliminates funding for the areas of overlap and duplication identified under paragraph (c) of this section; and
 
 (e) review efforts by the States to promote U.S. exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data.
 

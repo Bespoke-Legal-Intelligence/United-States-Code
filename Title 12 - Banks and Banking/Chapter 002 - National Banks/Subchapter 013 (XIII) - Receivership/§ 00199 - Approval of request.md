@@ -6,7 +6,7 @@ Such request, if approved by the Comptroller of the Currency, shall be, together
 
 #### Transfer of Functions
 
-For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
+For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
 #### Application to District of Columbia
 

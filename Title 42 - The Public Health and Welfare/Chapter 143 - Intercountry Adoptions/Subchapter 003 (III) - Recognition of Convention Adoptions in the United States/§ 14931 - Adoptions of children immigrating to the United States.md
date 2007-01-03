@@ -26,9 +26,9 @@ In the case of a child who has entered the United States from another Convention
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6,2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
 #### Effective Date
 
-Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
+Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, setout as an Effective Dates; Transition Rule note under section 14901 of this title.
 

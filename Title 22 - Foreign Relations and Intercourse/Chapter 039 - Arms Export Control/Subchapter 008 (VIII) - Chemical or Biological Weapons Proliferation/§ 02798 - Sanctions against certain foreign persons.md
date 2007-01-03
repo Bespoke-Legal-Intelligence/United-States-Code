@@ -4,13 +4,13 @@
 
 #### (1) Determination by the President
 
-&emsp;Except as provided in subsection (b)(2) of this section, the President shall impose both of the sanctions described in subsection (c) of this section if the President determines that aforeign person, on or after October 28, 1991, has knowingly and materially contributed—
+&emsp;Except as provided in subsection (b)(2) of this section, the President shall impose both of the sanctions described in subsection (c) of this section if the President determines that a foreign person, on or after October 28, 1991, has knowingly and materially contributed—
 
 &emsp;&emsp;(A) through the export from the United States of any goods or technology that are subject to the jurisdiction of the United States,
 
 &emsp;&emsp;(B) through the export from any other country of any goods or technology that would be, if they were United States goods or technology, subject to the jurisdiction of the United States, or
 
-&emsp;&emsp;(C) through any other transaction not subject to sanctions pursuant to the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\],
+&emsp;&emsp;(C) through any other transaction not subject to sanctions pursuant to the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\],
 
 > &emsp;to the efforts by any foreign country, project, or entity described in paragraph (2) to use, develop, produce, stockpile, or otherwise acquire chemical or biological weapons.
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(iii) made substantial preparations to engage in the activities described in clause (i) or (ii);
 
-&emsp;&emsp;(B) any foreign country whose government is determined for purposes of section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\] to be a government that has repeatedly provided support for acts of international terrorism; or
+&emsp;&emsp;(B) any foreign country whose government is determined for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\] to be a government that has repeatedly provided support for acts of international terrorism; or
 
 &emsp;&emsp;(C) any other foreign country, project, or entity designated by the President for purposes of this section.
 
@@ -60,7 +60,7 @@
 
 #### (1) Description of sanctions
 
-&emsp;The sanctions to be imposed pursuant to subsection (a)(1) of this section are, except as provided in paragraph (2) of this subsection, the following:
+&emsp;The sanctions to be imposed pursuant to subsection (a)(1) of this section are, except asprovided in paragraph (2) of this subsection, the following:
 
 #### (A) Procurement sanction
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(ii) if the President determines that the person or other entity to which the sanctions would otherwise be applied is a sole source supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
 
-&emsp;&emsp;&emsp;(iii) if the President determines that such articles or services are essential tothe national security under defense coproduction agreements;
+&emsp;&emsp;&emsp;(iii) if the President determines that such articles or services are essential to the national security under defense coproduction agreements;
 
 &emsp;&emsp;(B) to products or services provided under contracts entered into before the date on which the President publishes his intention to impose sanctions;
 

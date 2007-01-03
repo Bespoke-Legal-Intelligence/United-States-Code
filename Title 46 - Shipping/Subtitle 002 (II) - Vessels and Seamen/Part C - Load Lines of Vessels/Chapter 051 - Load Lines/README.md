@@ -29,14 +29,6 @@ Chapter 51 provides for the assignment of load lines and issuance of load line c
 
 1990—Pub. L. 101–595, title VI, §603(5)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 5115 “Regulations”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2102 of this title; title 30 section 1422.
-
-<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “are”.</i>
-
 
 ---
 

@@ -44,7 +44,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that the head of an agency described in paragraph (1) cannot find an appropriately efficient and reliable fuel cell vehicle or hydrogen energy system in accordance with paragraph (1), that agency shall be excepted from compliance with paragraph (1).
+&emsp;&emsp;If the Secretary determines that the head of an agency described in paragraph (1) cannot find an appropriately efficient and reliable fuel cell vehicle or hydrogen energy system in accordance with paragraph (1), thatagency shall be excepted from compliance with paragraph (1).
 
 #### (B) Consideration
 

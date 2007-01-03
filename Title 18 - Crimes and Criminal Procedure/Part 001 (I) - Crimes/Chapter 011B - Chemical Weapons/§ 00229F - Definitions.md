@@ -80,11 +80,15 @@ United states.—The term “United States” means the several States of the Un
 
 &emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>1</sup> respectively, of section 40102 of title 49, United States Code; and
 
-&emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b)).
+&emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 70502(b) of title 46, United States Code.
 
-(Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
+(Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–869; amended Pub. L. 109–304, §17(d)(1), Oct. 6, 2006, 120 Stat. 1707.)
 
 #### References in Text
 
 Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
+
+#### Amendments
+
+2006—Par. (9)(C). Pub. L. 109–304 substituted “section 70502(b) of title 46, United States Code” for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”.
 

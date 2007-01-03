@@ -39,6 +39,8 @@
 
 2006—Pub. L. 109–163, div. A, title VIII, §801(b), Jan. 6, 2006, 119 Stat. 3367, added item 2366a.
 
+&nbsp;
+
 2004—Pub. L. 108–375, div. A, title X, §1005(b), Oct. 28, 2004, 118 Stat. 2036, struck out item 2370a “Medical countermeasures against biowarfare threats: allocation of funding between near-term and other threats”.
 
 2003—Pub. L. 108–136, div. A, title II, §§231(b), 232(b), Nov. 24, 2003, 117 Stat. 1422, 1423, added items 2352 and 2365.

@@ -6,7 +6,7 @@ Subject to regulations under section 121 of title 40, the Secretary of the Air F
 
 &emsp;(2) surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Pub. L. 96–513, title V, §514(18), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 107–217, §3(b)(38), Aug. 21, 2002, 116 Stat. 1298.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Pub. L. 96–513, title V, §514(18), Dec. 12, 1980, 94 Stat.2936; Pub. L. 107–217, §3(b)(38), Aug. 21, 2002, 116 Stat. 1298.)
 
 Historical and Revision Notes
 

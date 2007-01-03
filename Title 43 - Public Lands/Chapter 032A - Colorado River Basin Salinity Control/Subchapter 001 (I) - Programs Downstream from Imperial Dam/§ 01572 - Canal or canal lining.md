@@ -28,7 +28,7 @@ The Secretary is authorized and directed to cede the following land to the Cocop
 
 &emsp;&emsp;Section 27: Lot 3; and all accretion to the above described lands.
 
-> The Secretary is authorized and directed to construct three bridges, one of which shall be capable of accommodating heavy vehicular traffic, over the portion of the bypass drain which crosses the reservation of the Cocopah Tribe of Indians. The transfer of lands to the Cocopah Indian Reservation and the construction of bridges across the bypass drain shall constitute full and complete payment to said tribe for the rights-of-way required for construction of the bypass drain and electrical transmission lines for works authorized by this subchapter.
+> The Secretary is authorized and directed to construct three bridges, one of which shall be capable of accommodating heavy vehicular traffic, over the portion of the bypass drain whichcrosses the reservation of the Cocopah Tribe of Indians. The transfer of lands to the Cocopah Indian Reservation and the construction of bridges across the bypass drain shall constitute full and complete payment to said tribe for the rights-of-way required for construction of the bypass drain and electrical transmission lines for works authorized by this subchapter.
 
 (Pub. L. 93–320, title I, §102, June 24, 1974, 88 Stat. 268.)
 

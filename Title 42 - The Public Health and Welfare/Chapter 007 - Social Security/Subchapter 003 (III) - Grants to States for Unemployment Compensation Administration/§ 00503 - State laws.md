@@ -36,7 +36,7 @@ Whenever the Secretary of Labor, after reasonable notice and opportunity for hea
 
 &emsp;(2) a failure to comply substantially with any provision specified in subsection (a) of this section;
 
-> the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such denial or failure to comply. Until he is so satisfied he shall make no further certification to the Secretary of the Treasury with respect to such State: <i>Provided</i>, That there shall be no finding under clause (1) until the question of entitlement shall have been decided by the highest judicial authority given jurisdiction under such State law: <i>Provided further</i>, That any costs may be paid with respect to any claimant by a State and included as costs of administration of its law.
+> the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such denial or failure to comply. Until he is so satisfied he shall make no further certification to the Secretary of the Treasury with respect to such State: <i>Provided</i>, That there shall be no finding under clause (1) until the question of entitlement shall have been decided by the highest judicial authority given jurisdiction under suchState law: <i>Provided further</i>, That any costs may be paid with respect to any claimant by a State and included as costs of administration of its law.
 
 #### (c) Denial of certification; availability of records to Railroad Retirement Board; cooperation with Federal agencies
 
@@ -56,7 +56,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(i) wage information,
 
-&emsp;&emsp;(ii) whether an individual is receiving, has received, or has made application for, unemployment compensation, and the amount ofany such compensation being received (or to be received) by such individual,
+&emsp;&emsp;(ii) whether an individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received (or to be received) by such individual,
 
 &emsp;&emsp;(iii) the current (or most recent) home address of such individual, and
 
@@ -88,7 +88,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 (3) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until he is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he shall make no further certification to the Secretary of the Treasury with respect to such State.
 
-(4) For purposes of this subsection, the term “State food stamp agency” means any agency described in section 3(n)(1) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(n)(1)\] which administers the food stamp program established under such Act.
+(4) For purposes of this subsection, the term “State food stamp agency” means any agencydescribed in section 3(n)(1) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(n)(1)\] which administers the food stamp program established under such Act.
 
 #### (e) Disclosure of wage information; non-compliance of State agency
 
@@ -110,7 +110,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(I) the amount specified by the individual to the State agency to be deducted and withheld under this clause,
 
-&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the Stateagency under section 654(19)(B)(i) of this title, or
+&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the State agency under section 654(19)(B)(i) of this title, or
 
 &emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>2</sup> of this title), and
 
@@ -154,7 +154,7 @@ The State agency charged with the administration of the State law shall provide 
 
 &emsp;(C) establish such safeguards as the Secretary of Labor determines are necessary to insure that information disclosed under subparagraph (A) is used only for purposes of subsections (i)(1), (i)(3), and (j) of section 653 of this title.
 
-(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Laborshall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, the Secretary shall make no future certification to the Secretary of the Treasury with respect to the State.
+(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, the Secretary shall make no future certification to the Secretary of the Treasury with respect to the State.
 
 (3) For purposes of this subsection—
 
@@ -350,7 +350,7 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to payments made after Dec. 31, 1996, see section 702(d) of Pub. L. 103–465, set out as a note under section 3304 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 103–465 applicable to payments made after Dec. 31, 1996, see section 702(d) ofPub. L. 103–465, set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1993 Amendment
 
@@ -378,7 +378,7 @@ Amendment by section 2663(b)(2)–(5) of Pub. L. 98–369 effective July 18, 198
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 523(b) of Pub. L. 98–21 effective Apr. 20, 1983, see section 523(c) of Pub. L. 98–21 setout as a note under section 3304 of Title 26, Internal Revenue Code.
+Amendment by section 523(b) of Pub. L. 98–21 effective Apr. 20, 1983, see section 523(c) of Pub. L. 98–21 set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1982 Amendment
 

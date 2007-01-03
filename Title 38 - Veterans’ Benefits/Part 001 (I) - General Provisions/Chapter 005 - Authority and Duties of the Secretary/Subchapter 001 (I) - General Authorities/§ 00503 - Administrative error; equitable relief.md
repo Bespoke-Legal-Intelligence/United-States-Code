@@ -4,9 +4,9 @@
 
 (b) If the Secretary determines that a veteran, surviving spouse, child of a veteran, or other person has suffered loss as a consequence of reliance upon a determination by the Department of eligibility or entitlement to benefits, without knowledge that it was erroneously made, the Secretary may provide such relief on account of such error as the Secretary determines is equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
-(c) Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2004.
+(c) Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2009.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 386; amended Pub. L. 106–419, title IV, §403(c)(1), Nov. 1, 2000, 114 Stat. 1864.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 386; amended Pub. L. 106–419, title IV, §403(c)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–233, title IV, §403, June 15, 2006, 120 Stat. 411.)
 
 #### Prior Provisions
 
@@ -15,6 +15,8 @@ Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title,
 Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, §2(a).
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–233 substituted “December 31, 2009” for “December 31, 2004”.
 
 2000—Subsec. (c). Pub. L. 106–419 inserted at end “No report shall be required under this subsection after December 31, 2004.”
 

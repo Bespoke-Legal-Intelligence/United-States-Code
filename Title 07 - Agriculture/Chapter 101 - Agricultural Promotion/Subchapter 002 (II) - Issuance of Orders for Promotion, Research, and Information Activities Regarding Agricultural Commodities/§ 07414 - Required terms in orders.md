@@ -18,7 +18,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (B) Appointment
 
-&emsp;&emsp;The Secretary shall appoint the members and any alternates of a board from among producers of the agricultural commodity and first handlers and others in the marketingchain as appropriate. If imports of the agricultural commodity covered by an order are subject to assessment under section 7415(f) of this title, the Secretary shall also appoint importers as members of the board and as alternates if alternates are included on the board. The Secretary may appoint 1 or more members of the general public to each board.
+&emsp;&emsp;The Secretary shall appoint the members and any alternates of a board from among producers of the agricultural commodity and first handlers and others in the marketing chain as appropriate. If imports of the agricultural commodity covered by an order are subject to assessment under section 7415(f) of this title, the Secretary shall also appoint importers as members of the board and as alternates if alternates are included on the board. The Secretary may appoint 1 or more members of the general public to each board.
 
 #### (C) Nominations
 
@@ -96,7 +96,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(9) to pay the cost of the activities with assessments collected under section 7416 of this title, earnings from invested assessments, and other funds;
 
-&emsp;(10) to keep records that accurately reflect the actions and transactions of the board, to keep and report minutes of each meeting ofthe board to the Secretary, and to furnish the Secretary with any information or records the Secretary requests;
+&emsp;(10) to keep records that accurately reflect the actions and transactions of the board, to keep and report minutes of each meeting of the board to the Secretary, and to furnish the Secretary with any information or records the Secretary requests;
 
 &emsp;(11) to receive, investigate, and report to the Secretary complaints of violations of the order; and
 
@@ -134,7 +134,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (4) Payment of expenses
 
-&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
+&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income ofthe board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
 
 #### (5) Limitation on spending
 
@@ -186,7 +186,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (h) Periodic evaluation
 
-In accordance with section 7401(c) of this title, each order shall require the board establishedunder the order to provide for the independent evaluation of all generic promotion, research, and information activities undertaken under the order.
+In accordance with section 7401(c) of this title, each order shall require the board established under the order to provide for the independent evaluation of all generic promotion, research, and information activities undertaken under the order.
 
 #### (i) Books and records of persons covered by order
 

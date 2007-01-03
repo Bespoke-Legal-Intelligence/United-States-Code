@@ -14,7 +14,7 @@
 
 &emsp;(1) accumulates for future use without regard to the limitation in section 6304(b) of this title;
 
-&emsp;(2) may not be made the basis for a lump-sum payment, except that civil service mariners of the Military Sealift Command on temporary promotion aboard ship may be paid the difference between their temporary and permanent rates of pay for leave accrued under this section and section 6303 and not otherwise used during the temporary promotion upon the expiration or termination of the temporary promotion; and
+&emsp;(2) may not be made the basis for a lump-sum payment, except that civil service mariners of the Military Sealift Command on temporary promotion aboard ship may be paid the difference between their temporary and permanent rates of pay for leave accrued underthis section and section 6303 and not otherwise used during the temporary promotion upon the expiration or termination of the temporary promotion; and
 
 &emsp;(3) may not be made the basis for terminal leave except under such special or emergency circumstances as may be prescribed under the regulations of the Office.
 

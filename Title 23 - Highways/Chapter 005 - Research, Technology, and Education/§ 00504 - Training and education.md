@@ -232,7 +232,7 @@ Local educational agency.—The term “local educational agency” has the mean
 
 &emsp;&emsp;(C)
 
-State educational agency.—The term “State educational agency” has the meaninggiven that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+State educational agency.—The term “State educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
 (e)
 
@@ -330,7 +330,7 @@ Federal share.—The Federal share of the cost of an activity carried out under 
 
 &emsp;(6)
 
-Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or makegrants or to <sup>1</sup> and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>1</sup> and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
 (Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794.)
 

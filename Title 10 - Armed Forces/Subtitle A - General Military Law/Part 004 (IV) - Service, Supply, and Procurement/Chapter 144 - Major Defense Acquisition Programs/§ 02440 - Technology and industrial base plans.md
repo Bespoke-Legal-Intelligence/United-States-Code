@@ -1,0 +1,10 @@
+### §2440. Technology and industrial base plans
+
+The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base in the development and implementation of acquisition plans for each major defense acquisition program.
+
+(Added Pub. L. 102–484, div. D, title XLII, §4216(b)(1), Oct. 23, 1992, 106 Stat. 2669; amended Pub. L. 109–364, div. A, title X, §1071(a)(17), Oct. 17, 2006, 120 Stat. 2399.)
+
+#### Amendments
+
+2006—Pub. L. 109–364 substituted “industrial base plans” for “Industrial Base Plans” in section catchline.
+

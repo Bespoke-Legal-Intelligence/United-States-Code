@@ -32,5 +32,5 @@ Aug. 1, 1956, ch. 824, §§5 (2d, 3d sentences), 17, 70 Stat. 796, 797.
 
 &nbsp;
 
-In subsection (b), the words “precedent” and “granted to the Corporation” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary of State, or in the office of another appropriateofficer” for consistency in the revised title. The words “post office” are omitted as unnecessary.
+In subsection (b), the words “precedent” and “granted to the Corporation” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary of State, or in the office of another appropriate officer” for consistency in the revised title. The words “post office” are omitted as unnecessary.
 

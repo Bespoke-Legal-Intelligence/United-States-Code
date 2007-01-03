@@ -70,7 +70,7 @@ The Statistics Commissioner may establish a program to train employees of public
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans
 

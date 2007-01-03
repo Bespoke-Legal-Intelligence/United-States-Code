@@ -32,7 +32,7 @@ Subsection (c) provides an exception to subsections (a) and (b). It protects an 
 
 Subsection (d) protects life insurance companies that are required by contract to make automatic premium loans from property that might otherwise be property of the estate.
 
-Subsection (e) requires an attorney, accountant, or other professional that holds recorded information relating to the debtor's property or financial affairs, to surrender it to the trustee. This duty is subject to anyapplicable claim of privilege, such as attorney-client privilege. It is a new provision that deprives accountants and attorneys of the leverage that they have today, under State law lien provisions, to receive payment in full ahead of other creditors when the information they hold is necessary to the administration of the estate.
+Subsection (e) requires an attorney, accountant, or other professional that holds recorded information relating to the debtor's property or financial affairs, to surrender it to the trustee. This duty is subject to any applicable claim of privilege, such as attorney-client privilege. It is a new provision that deprives accountants and attorneys of the leverage that they have today, under State law lien provisions, to receive payment in full ahead of other creditors when the information they hold is necessary to the administration of the estate.
 
 #### Amendments
 

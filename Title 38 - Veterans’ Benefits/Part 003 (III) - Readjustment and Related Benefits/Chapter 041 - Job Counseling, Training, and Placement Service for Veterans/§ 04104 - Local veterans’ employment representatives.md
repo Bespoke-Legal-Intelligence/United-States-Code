@@ -24,9 +24,13 @@ Requirement for Qualified Veterans and Eligible Persons.—A State shall, to the
 
 (d)
 
-Reporting.—Each local veterans’ employment representative shall be administratively responsible to the manager of the employment service delivery system and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal lawand regulations with respect to special services and priorities for eligible veterans and eligible persons.
+Part-Time Employees.—A part-time local veterans’ employment representative shall perform the functions of a local veterans’ employment representative under this section on a half-time basis.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2013; renumbered §2004, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, §606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered §4104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(10), June 5, 2001, 115 Stat. 35; Pub. L. 107–95, §9(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(2), Nov. 7, 2002, 116 Stat. 2043.)
+(e)
+
+Reporting.—Each local veterans’ employment representative shall be administratively responsible to the manager of the employment service delivery system and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal law and regulations with respect to special services and priorities for eligible veterans and eligible persons.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2013; renumbered §2004, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, §606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered §4104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(10), June 5, 2001, 115 Stat. 35; Pub. L. 107–95, §9(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(2), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, §602(b), Dec. 22, 2006, 120 Stat. 3437.)
 
 #### Prior Provisions
 
@@ -35,6 +39,8 @@ Prior section 4104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 89�
 Provisions similar to those comprising this section were contained in former section 2003 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
+
+2006—Subsecs. (d), (e). Pub. L. 109–461 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 2002—Pub. L. 107–288 amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) relating to appointment, functions, and reporting requirements of local veterans’ employment representatives.
 
@@ -84,6 +90,10 @@ Subsec. (d). Pub. L. 102–16, §10(a)(8)(D), struck out subsec. (d) which read 
 
 1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
 
+#### Effective Date of 2006 Amendment
+
+Subsec. (d) of this section as amended by Pub. L. 109–461 applicable with respect to pay periods beginning after the date that is 180 days after Dec. 22, 2006, see section 602(c) of Pub. L. 109–461, set out as a note under section 4103A of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–288 effective Nov. 7, 2002, and applicable for program years under this chapter beginning on or after such date, see section 4(b)(3) of Pub. L. 107–288, set out as a note under section 4103A of this title.
@@ -106,7 +116,7 @@ Pub. L. 104–275, title III, §303, Oct. 9, 1996, 110 Stat. 3332, as amended by
 
 “(a)
 
-Authority To Conduct Pilot Program.—In order to assess the effects on the timeliness and quality of services to veterans resulting from re-focusing the staff resources of local veterans’ employment representatives, the Secretary of Labor may conduct a pilot program under which the primary responsibilities of local veterans’ employment representatives will becase management and the provision and facilitation of direct employment and training services to veterans.
+Authority To Conduct Pilot Program.—In order to assess the effects on the timeliness and quality of services to veterans resulting from re-focusing the staff resources of local veterans’ employment representatives, the Secretary of Labor may conduct a pilot program under which the primary responsibilities of local veterans’ employment representatives will be case management and the provision and facilitation of direct employment and training services to veterans.
 
 “(b)
 

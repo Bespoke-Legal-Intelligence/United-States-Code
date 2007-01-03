@@ -62,19 +62,19 @@
 
 &emsp;&emsp;&emsp;(ii) collection of amounts of any deductible and coinsurance applicable with respect to such drugs and biologicals shall be the responsibility of such contractor and shall not be collected unless the drug or biological is administered to the individual involved; and
 
-&emsp;&emsp;&emsp;(iii) the payment under this section (and related amounts of any applicable deductible and coinsurance) for such drugs and biologicals—
-
-&emsp;&emsp;&emsp;&emsp;(I) shall be made only to such contractor; and
-
-&emsp;&emsp;&emsp;&emsp;(II) shall be conditioned upon the administration of such drugs and biologicals.
+&emsp;&emsp;&emsp;(iii) the payment under this section (and related amounts of any applicable deductible and coinsurance) for such drugs and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.
 
 #### (B) Process for adjustments
 
-&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case in which payment is made for drugs and biologicals which were billed at the time ofdispensing but which were not actually administered.
+&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case in which payment is made for drugs and biologicals which were billed at the time of dispensing but which were not actually administered.
 
 #### (C) Information for purposes of cost-sharing
 
 &emsp;&emsp;The Secretary shall provide a process by which physicians submit information to contractors for purposes of the collection of any applicable deductible or coinsurance amounts under subparagraph (A)(ii).
+
+#### (D) Post-payment review process
+
+&emsp;&emsp;The Secretary shall establish (by program instruction or otherwise) a post-payment review process (which may include the use of statistical sampling) to assure that payment is made for a drug or biological under this section only if the drug or biological has been administered to a beneficiary. The Secretary shall recoup, offset, or collect any overpayments determined by the Secretary under such process.
 
 #### (4) Contract required
 
@@ -230,7 +230,7 @@
 
 #### (4) Uniformity of bids within area
 
-&emsp;The amount of the bid submitted under a contract offer for any competitively biddable drug or biological for an area shall be thesame for that drug or biological for all portions of that area.
+&emsp;The amount of the bid submitted under a contract offer for any competitively biddable drug or biological for an area shall be the same for that drug or biological for all portions of that area.
 
 #### (5) Confidentiality of bids
 
@@ -320,15 +320,41 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(6) the bidding structure and number of contractors selected under this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847B, as added Pub. L. 108–173, title III, §303(d)(1), Dec. 8, 2003, 117 Stat. 2245.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847B, as added Pub. L. 108–173, title III, §303(d)(1), Dec. 8, 2003, 117 Stat. 2245; amended Pub. L. 109–432, div. B, title I, §108(a), Dec. 20, 2006, 120 Stat. 2983.)
 
 #### References in Text
 
-Section 1395ee(b) of this title, referred to in subsec. (b)(2)(C), was added by section 942(a)(5) of the MedicarePrescription Drug, Improvement, and Modernization Act of 2003, Pub. L. 108–173, not section 923 of that Act, and relates to the Council for Technology and Innovation, not to the Medicare Provider Ombudsman.
+Section 1395ee(b) of this title, referred to in subsec. (b)(2)(C), was added by section 942(a)(5) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, Pub. L. 108–173, not section 923 of that Act, and relates to the Council for Technology and Innovation, not to the Medicare Provider Ombudsman.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. subsec. (b)(4)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Part B of subchapter XVIII of this chapter, referred to in subsec. (c)(5)(C), is classified to section 1395j et seq. of this title.
+
+#### Amendments
+
+2006—Subsec. (a)(3)(A)(iii). Pub. L. 109–432, §108(a)(1), substituted “and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.” for “and biologicals—
+
+&emsp;“(I) shall be made only to such contractor; and
+
+&emsp;“(II) shall be conditioned upon the administration of such drugs and biologicals.”
+
+Subsec. (a)(3)(D). Pub. L. 109–432, §108(a)(2), added subpar. (D).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–432, div. B, title I, §108(c), Dec. 20, 2006, 120 Stat. 2983, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payment for drugs and biologicals supplied under section 1847B of the Social Security Act (42 U.S.C. 1395w–3b)—
+
+&emsp;“(1) on or after April 1, 2007; and
+
+&emsp;“(2) on or after July 1, 2006, and before April 1, 2007, for claims that are unpaid as of April 1, 2007.”
+
+#### Construction of 2006 Amendment
+
+Pub. L. 109–432, div. B, title I, §108(b), Dec. 20, 2006, 120 Stat. 2983, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note above\] shall be construed as—
+
+&emsp;“(1) requiring the conduct of any additional competition under subsection (b)(1) of section 1847B of the Social Security Act (42 U.S.C. 1395w–3b); or
+
+&emsp;“(2) requiring any additional process for elections by physicians under subsection (a)(1)(A)(ii) of such section or additional selection by a selecting physician of a contractor under subsection (a)(5) of such section.”
 
 #### Report
 

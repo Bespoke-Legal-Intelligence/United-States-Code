@@ -22,7 +22,7 @@ The programs referred to in subsection (a) of this section are the following:
 
 &emsp;(7) Programs to provide housing for former military personnel of the former Soviet Union released from military service in connection with the dismantlement of strategic nuclear weapons, when provision of such housing is necessary for dismantlement of strategic nuclear weapons and when no other funds are available for such housing.
 
-&emsp;(8) Other programs as described in section 212(b) of the Soviet Nuclear Threat ReductionAct of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note) and section 5902(b) of this title.
+&emsp;(8) Other programs as described in section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note) and section 5902(b) of this title.
 
 #### (c) United States participation
 
@@ -49,24 +49,6 @@ Assistance authorized by subsection (a) of this section may not be provided to a
 #### Amendments
 
 2002—Subsec. (d). Pub. L. 107–314, §1306(c), formerly §1306(e), as renumbered by Pub. L. 109–163, in introductory provisions, substituted “any fiscal year” for “any year” and “such fiscal year” for “that year”.
-
-#### Delegation of Functions
-
-Memorandum of President of the United States, Jan. 29, 1994, 59 F.R. 5929, provided:
-
-Memorandum for the Secretary of State, the Secretary of Defense, \[and\] the Director of the Office of Management and Budget
-
-By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate:
-
-&emsp;1\. to the Secretary of State the authority and duty vested in the President under section 1203(d) of the Cooperative Threat Reduction Act of 1993, Title XII of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160) \[22 U.S.C. 5952(d)\];
-
-&emsp;2\. to the Secretary of Defense the authorities and duties vested in the President under sections 1203(a), 1204, 1206, and 1207 of Public Law 103–160 \[22 U.S.C. 5952(a), 5953, 5955, former 5956\].
-
-The Secretary of Defense shall not exercise authority delegated by number 2 hereof with respect to any former Soviet republic unless the Secretary of State has exercised his authority and performed the duty delegated by number 1 hereof, as applicable, with respect to that former Soviet republic. The Secretary of Defense shall not obligate funds in exercise of authority delegated by number 2 hereof unless the Director of the Office of Management and Budget has made the determination that expenditures are to be counted as discretionary spending in the national defense function (050), as applicable to the funds to be transferred.
-
-The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Study and Report Relating to Weapons-grade Uranium and Plutonium of the Independent States of the Former Soviet Union
 
@@ -108,7 +90,7 @@ Report Requirement.—Not later than March 15 of 2003 through 2009, the Presiden
 
 &emsp;&emsp;“(D) on the military capabilities of the country receiving such transfers from Russia.
 
-&emsp;“(5) The policy and strategy that the President intends to employ to halt Russian proliferation, the policy tools that the President intends to use to carry out that policy and strategy, the rationale foremploying such tools, and the timeline by which the President expects to see material progress in ending Russian proliferation of direct and dual-use weapons of mass destruction and missile goods, technology, expertise, and information.
+&emsp;“(5) The policy and strategy that the President intends to employ to halt Russian proliferation, the policy tools that the President intends to use to carry out that policy and strategy, the rationale for employing such tools, and the timeline by which the President expects to see material progress in ending Russian proliferation of direct and dual-use weapons of mass destruction and missile goods, technology, expertise, and information.
 
 “(b)
 
@@ -366,7 +348,7 @@ Cost.—The term ‘cost’ has the meaning given that term in section 502(5) of
 
 &emsp;“(3)
 
-Russian federation nonproliferation investment agreement or agreement.—The term ‘RussianFederation Nonproliferation Investment Agreement’ or ‘Agreement’ means the agreement between the United States and the Russian Federation entered into under section 1315(a).
+Russian federation nonproliferation investment agreement or agreement.—The term ‘Russian Federation Nonproliferation Investment Agreement’ or ‘Agreement’ means the agreement between the United States and the Russian Federation entered into under section 1315(a).
 
 &emsp;“(4)
 
@@ -374,7 +356,7 @@ Soviet-era debt.—The term ‘Soviet-era debt’ means debt owed as a result of
 
 &emsp;“(5)
 
-State sponsor of international terrorism.—The term ‘state sponsor of international terrorism’ means those countries that have been determined by the Secretary of State, for the purposes of section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], or section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\], to have repeatedly provided support for acts of international terrorism.
+State sponsor of international terrorism.—The term ‘state sponsor of international terrorism’ means those countries that have been determined by the Secretary of State, for the purposes of section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], or section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], to have repeatedly provided support for acts of international terrorism.
 
 #### “SEC. 1314. AUTHORITY TO REDUCE THE RUSSIAN FEDERATION'S SOVIET-ERA DEBT OBLIGATIONS TO THE UNITED STATES.
 
@@ -458,7 +440,7 @@ Congressional notification.—The President shall notify the appropriate congres
 
 Content of the Agreement.—The Russian Federation Nonproliferation Investment Agreement shall ensure that—
 
-&emsp;“(1) an amount equal to the value of the debt reduced pursuant to this subtitle will be made available by the Russian Federation for agreed nonproliferation programs and projects;
+&emsp;“(1) an amount equal to the value of the debt reduced pursuant to this subtitle will be made availableby the Russian Federation for agreed nonproliferation programs and projects;
 
 &emsp;“(2) each program or project funded pursuant to the Agreement will be approved by the President;
 
@@ -543,6 +525,8 @@ Presidential Waiver.—The President may waive the requirements of subsection (a
 &emsp;“(5) a summary of the results of relevant audits performed in the fiscal year; and
 
 &emsp;“(6) a certification, if appropriate, that the Russian Federation continued to meet the condition required by section 1317(a), and an explanation of why the certification was or was not made.”
+
+\[Functions of President under section 1321 of Pub. L. 107–228, set out in the note above, delegated to Secretary of State by Memorandum of President of the United States, July 18, 2006, 71 F.R. 42747.\]
 
 #### Plan for Securing Nuclear Weapons, Material, and Expertise of the States of the Former Soviet Union
 
@@ -644,11 +628,11 @@ Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting p
 
 #### Limitation on Use of Funds for Certain Purposes
 
-Pub. L. 108–375, div. A, title XIII, §1303, Oct. 28, 2004, 118 Stat. 2093, provided that:
+Pub. L. 108–375, div. A, title XIII, §1303, Oct. 28, 2004, 118 Stat. 2093, as amended by Pub. L. 109–364, div. A, title XIII, §1303, Oct. 17, 2006, 120 Stat. 2432, provided that:
 
 “(a)
 
-Temporary Authority.—Section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 22 U.S.C. 5952 note) shall not apply for a calendar year for which the President submits to Congress a written certification that includes—
+Temporary Authority.—Section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 22 U.S.C. 5952 note) shall not apply for a calendar year to the chemical weapons destruction facility that is (as of 2006) under construction at Shchuch'ye in the Russian Federation, if the President submits to Congress a written certification, for the calendar year concerned, that includes—
 
 &emsp;“(1) a statement as to why a waiver of the conditions described in such section 1305 is important to the national security interests of the United States;
 
@@ -658,7 +642,7 @@ Temporary Authority.—Section 1305 of the National Defense Authorization Act fo
 
 “(b)
 
-Expiration.—The authority in subsection (a) shall expire on December 31, 2006, and no waiver shall remain in effect after that date.”
+Expiration.—The authority in subsection (a) is not effective for calendar years after calendar year 2011.”
 
 Pub. L. 107–314, div. A, title XIII, §1305, Dec. 2, 2002, 116 Stat. 2673, provided that: “No funds authorized to be appropriated for Cooperative Threat Reduction programs for any fiscal year may be used for the design, planning, or construction of a second wing for a storage facility for Russian fissile material.”
 
@@ -848,7 +832,7 @@ Certification of Russia's Commitment to Halt Chemical Separation of Weapon-Grade
 
 “(c)
 
-Sense of Congress on Plutonium Policy.—It is the sense of Congress that a key objective of the UnitedStates with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
+Sense of Congress on Plutonium Policy.—It is the sense of Congress that a key objective of the United States with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
 
 “(d)
 
@@ -856,19 +840,21 @@ Report.—Not later than June 1, 1994, the President shall submit to Congress a 
 
 \[Memorandum of President of the United States, Mar. 10, 1994, 59 F.R. 14079, delegated to Secretary of State authority and duty of President under section 1612(b) and (d) of Public Law 103–160 set out above.\]
 
-#### Waiver of Conditions on Obligation and Expenditure of Funds for Planning, Design, and Construction of a Chemical Weapons Destruction Facility in Russia for Calendar Year 2006
+#### Presidential Determination on Waiver of Conditions on Obligations and Expenditure of Funds for Planning, Design, and Construction of a Chemical Weapons Destruction Facility in Russia for Calendar Year 2007
 
-Determination of President of the United States, No. 2006–6, Dec. 22, 2005, 71 F.R. 1469, provided:
+Determination of President of the United States, No. 2007–6, Dec. 6, 2006, 71 F.R. 77581, provided:
 
 Memorandum for the Secretary of State
 
-Consistent with the authority vested in me by section 1303 of the National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375) (the “Act”) \[set out as a note above\], I hereby certify that waiving the conditions described in section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65), as amended \[set out as a note above\], is important to the national security interests of the United States, and include herein, for submission to the Congress, the statement, justification, and plan \[not set out in the Code\] described in section 1303 of the Act. This waiver shall apply for calendar year 2006.
+Consistent with the authority vested in me by section 1303 of the National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375) (the “Act”), I hereby certify that waiving the conditions described in section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65), as amended, is important to the national security interests of the United States, and include herein, for submission to the Congress, the statement, justification, and plan described in section 1303 of the Act. This waiver shall apply for calendar year 2007.
 
 You are authorized and directed to transmit this certification, including the statement, justification, and plan, to the Congress and to arrange for the publication of this certification in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications for Russia were contained in the following:
+
+Determination of President of the United States, No. 2006–6, Dec. 22, 2005, 71 F.R. 1469.
 
 Determination of President of the United States, No. 2005–07, Nov. 29, 2004, 69 F.R. 72109.
 
@@ -907,4 +893,42 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Prior determinations and certifications for Uzbekistan were contained in the following:
 
 Determination of President of the United States, No. 2004–19, Dec. 30, 2003, 69 F.R. 2479.
+
+#### Delegation of Responsibilities Under Sections 1203–1207 of Title XII of Public Law 103–160
+
+Memorandum of President of the United States, Jan. 29, 1994, 59 F.R. 5929, provided:
+
+Memorandum for the Secretary of State, the Secretary of Defense, \[and\] the Director of the Office of Management and Budget
+
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate:
+
+&emsp;1\. to the Secretary of State the authority and duty vested in the President under section 1203(d) of the Cooperative Threat Reduction Act of 1993, Title XII of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160) \[22 U.S.C. 5952(d)\];
+
+&emsp;2\. to the Secretary of Defense the authorities and duties vested in the President under sections 1203(a), 1204, 1206, and 1207 of Public Law 103–160 \[22 U.S.C. 5952(a), 5953, 5955, former 5956\].
+
+The Secretary of Defense shall not exercise authority delegated by number 2 hereof with respect to any former Soviet republic unless the Secretary of State has exercised his authority and performed the duty delegated by number 1 hereof, as applicable, with respect to that former Soviet republic. The Secretary of Defense shall not obligate funds in exercise of authority delegated by number 2 hereof unless the Director of the Office of Management and Budget has made the determination that expenditures are to be counted as discretionary spending in the national defense function (050), as applicable to the funds to be transferred.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Assignment of Certain Functions Related to the Use of Cooperative Threat Reduction Funds for States Outside the Former Soviet Union
+
+Memorandum of President of the United States, May 26, 2006, 71 F.R. 36435, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Secretary of Energy\[, and\] the Director of National Intelligence
+
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby assign to the Secretary of State the functions of the President under:
+
+(1) subsection 1203(d) of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952(d)), as it relates to section 1308(e) of the National Defense Authorization Act for Fiscal Year 1994 (22 U.S.C. 5963);
+
+(2) subsections 1306(a) and (b) of the National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), as amended (22 U.S.C. 5952 note), as they relate to section 1308(e); and
+
+(3) section 1304 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163).
+
+The Secretary of State shall consult the Secretary of Defense prior to making a determination specified in section 1308(a)(2).
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

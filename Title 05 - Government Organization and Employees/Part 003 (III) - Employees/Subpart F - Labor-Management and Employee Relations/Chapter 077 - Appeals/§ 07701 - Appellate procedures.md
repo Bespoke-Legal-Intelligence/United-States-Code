@@ -8,7 +8,7 @@
 
 > Appeals shall be processed in accordance with regulations prescribed by the Board.
 
-(b)(1) The Board may hear any case appealed to it or may refer the case to an administrative law judge appointed under section 3105 of this title or other employee of the Board designated by the Board to hear such cases, except that in any case involving a removal from the service, the case shall be heard by the Board, an employee experienced in hearing appeals, or an administrative law judge. The Board, administrative law judge, or other employee (as the case may be) shall make a decision after receipt of the written representations of the parties to the appeal and after opportunity for a hearing under subsection (a)(1) of this section. A copy of the decision shall be furnished to each party to the appeal and to the Office of Personnel Management.
+(b)(1) The Board may hear any case appealed to it or may refer the case to an administrativelaw judge appointed under section 3105 of this title or other employee of the Board designated by the Board to hear such cases, except that in any case involving a removal from the service, the case shall be heard by the Board, an employee experienced in hearing appeals, or an administrative law judge. The Board, administrative law judge, or other employee (as the case may be) shall make a decision after receipt of the written representations of the parties to the appeal and after opportunity for a hearing under subsection (a)(1) of this section. A copy of the decision shall be furnished to each party to the appeal and to the Office of Personnel Management.
 
 (2)(A) If an employee or applicant for employment is the prevailing party in an appeal under this subsection, the employee or applicant shall be granted the relief provided in the decision effective upon the making of the decision, and remaining in effect pending the outcome of any petition for review under subsection (e), unless—
 
@@ -22,7 +22,7 @@
 
 (C) Nothing in the provisions of this paragraph may be construed to require any award of back pay or attorney fees be paid before the decision is final.
 
-(3) With respect to an appeal from an adverse action covered by subchapter V of chapter 75, authority to mitigate the personnel action involved shall be available, subject to the samestandards as would apply in an appeal involving an action covered by subchapter II of chapter 75 with respect to which mitigation authority under this section exists.
+(3) With respect to an appeal from an adverse action covered by subchapter V of chapter 75, authority to mitigate the personnel action involved shall be available, subject to the same standards as would apply in an appeal involving an action covered by subchapter II of chapter 75 with respect to which mitigation authority under this section exists.
 
 (c)(1) Subject to paragraph (2) of this subsection, the decision of the agency shall be sustained under subsection (b) only if the agency's decision—
 
@@ -66,7 +66,7 @@
 
 > if the deciding official or officials hearing the cases are of the opinion that the action could result in the appeals’ being processed more expeditiously and would not adversely affect any party.
 
-(g)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case, may require payment by the agency involved of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
+(g)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case, may require payment bythe agency involved of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
 
 (2) If an employee or applicant for employment is the prevailing party and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
 
@@ -74,7 +74,7 @@
 
 (i)(1) Upon the submission of any appeal to the Board under this section, the Board, through reference to such categories of cases, or other means, as it determines appropriate, shall establish and announce publicly the date by which it intends to complete action on the matter. Such date shall assure expeditious consideration of the appeal, consistent with the interests of fairness and other priorities of the Board. If the Board fails to complete action on the appeal by the announced date, and the expected delay will exceed 30 days, the Board shall publicly announce the new date by which it intends to complete action on the appeal.
 
-(2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action duringthat year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
+(2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action during that year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
 
 (3) The Board shall by rule indicate any other category of significant Board action which the Board determines should be subject to the provisions of this subsection.
 

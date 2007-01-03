@@ -14,19 +14,19 @@ The Board of Advisors shall be composed of 37 members appointed as follows:
 
 &emsp;(5) Two members appointed by the National Association of Counties.
 
-&emsp;(6) Two members appointed by the National Association of County Recorders, Election Administrators, and Clerks.
+&emsp;(6) Two members appointed by the National Association of County Recorders, Election Administrators, and Clerks.<sup>1</sup>
 
 &emsp;(7) Two members appointed by the United States Conference of Mayors.
 
 &emsp;(8) Two members appointed by the Election Center.
 
-&emsp;(9) Two members appointed by the International Association of County Recorders, Election Officials, and Treasurers.
+&emsp;(9) Two members appointed by the International Association of County Recorders, Election Officials, and Treasurers.<sup>2</sup>
 
 &emsp;(10) Two members appointed by the United States Commission on Civil Rights.
 
-&emsp;(11) Two members appointed by the Architectural and Transportation Barrier Compliance Board under section 792 of title 29.
+&emsp;(11) Two members appointed by the Architectural and Transportation Barrier <sup>3</sup> Compliance Board under section 792 of title 29.
 
-&emsp;(12) The chief of the Office of Public Integrity of the Department of Justice, or the chief's designee.
+&emsp;(12) The chief of the Office of Public Integrity of the Department of Justice,<sup>4</sup> or the chief's designee.
 
 &emsp;(13) The chief of the Voting Section of the Civil Rights Division of the Department of Justice or the chief's designee.
 
@@ -57,4 +57,12 @@ Members of the Board of Advisors shall serve for a term of 2 years, and may be r
 The Board of Advisors shall elect a Chair from among its members.
 
 (Pub. L. 107–252, title II, §214, Oct. 29, 2002, 116 Stat. 1680.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “National Association of County Recorders, Election Officials and Clerks.”</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “International Association of Clerks, Recorders, Election Officials and Treasurers.”</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “Barriers”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably means the Public Integrity Section of the Criminal Division of the Department of Justice.</i>
 

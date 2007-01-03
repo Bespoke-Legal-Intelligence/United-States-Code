@@ -46,7 +46,7 @@
 
 #### (2) Preservation of existing uses
 
-&emsp;To the extent that it is consistent with applicable law governing the use and disposition of State school trust land, the State shall preserve existing grazing, recreational, and wildlife uses of the acquired lands in existence on October 30, 1998.
+&emsp;To the extent that it is consistent with applicable law governing the use and dispositionof State school trust land, the State shall preserve existing grazing, recreational, and wildlife uses of the acquired lands in existence on October 30, 1998.
 
 #### (3) Activities authorized by management plan
 

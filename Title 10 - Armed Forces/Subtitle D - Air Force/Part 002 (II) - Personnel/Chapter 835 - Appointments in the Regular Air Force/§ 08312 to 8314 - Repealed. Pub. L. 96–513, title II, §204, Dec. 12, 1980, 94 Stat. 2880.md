@@ -1,6 +1,6 @@
 ### \[§§8312 to 8314. Repealed. Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880\]
 
-Section 8312, act Aug. 10, 1956, ch. 1041, 70A Stat. 519, provided that an officer who is promoted in Regular AirForce is considered to have accepted his promotion on date of order announcing it, unless he expressly declines it, without need to take the oath of office upon promotion if his service since last taking it has been continuous. See section 626 of this title.
+Section 8312, act Aug. 10, 1956, ch. 1041, 70A Stat. 519, provided that an officer who is promoted in Regular Air Force is considered to have accepted his promotion on date of order announcing it, unless he expressly declines it, without need to take the oath of office upon promotion if his service since last taking it has been continuous. See section 626 of this title.
 
 Section 8313, act Aug. 10, 1956, ch. 1041, 70A Stat. 519, provided that in time of war or national emergency declared by Congress or President, the President may suspend operation of any provision of law relating to promotion, mandatory retirement, or separation of commissioned officers of Regular Air Force. See section 123(a), (b) of this title.
 

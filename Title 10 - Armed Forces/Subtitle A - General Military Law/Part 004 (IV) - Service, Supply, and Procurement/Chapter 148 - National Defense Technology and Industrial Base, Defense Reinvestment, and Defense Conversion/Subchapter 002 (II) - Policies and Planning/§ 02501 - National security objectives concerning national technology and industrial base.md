@@ -16,7 +16,7 @@ National Security Objectives for National Technology and Industrial Base.—It i
 
 &emsp;(3) Maintaining advanced research and development activities to provide the armed forces with systems capable of ensuring technological superiority over potential adversaries.
 
-&emsp;(4) Reconstituting within a reasonable period the capability to develop and produce supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
+&emsp;(4) Reconstituting within a reasonable period the capability to develop and produce supplies and equipment, including technologicallyadvanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
 
 &emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
 
@@ -62,13 +62,13 @@ Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, pro
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335, provided that:
 
 #### “SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
 “No provision of this subtitle \[subtitle B (§§811–828) of title VIII of div. A of Pub. L. 108–136, enacting section 2436 of this title, amending sections 2533a and 2534 of this title, and enacting provisions set out as notes under sections 2436, 2505, 2521, and 2534 of this title\] or any amendment made by this subtitle shall apply to the extent the Secretary of Defense, in consultation with the Secretary of Commerce, the United States Trade Representative, and the Secretary of State, determines that it is inconsistent with United States obligations under an international agreement.
 
-#### “SEC. 812. ASSESSMENT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES.
+#### “SEC. 812. ASSESSMENT AND ANNUAL REPORT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES AND ACQUISITIONS OF ARTICLES, MATERIALS, AND SUPPLIES MANUFACTURED OUTSIDE THE UNITED STATES.
 
 “(a)
 
@@ -112,6 +112,16 @@ Annual Report.—(1) Not later than February 1 of each year, the Secretary of De
 
 &emsp;“(iv) The total number and value of contracts awarded to foreign contractors through competitive procedures, summarized by country.
 
+&emsp;“(v) The dollar value of any articles, materials, or supplies purchased that were manufactured outside of the United States.
+
+&emsp;“(vi) An itemized list of all waivers granted with respect to such articles, materials, or supplies under the Buy American Act (41 U.S.C. 10a et seq.).
+
+&emsp;“(vii) A summary of—
+
+&emsp;&emsp;“(I) the total procurement funds expended on articles, materials, and supplies manufactured inside the United States; and
+
+&emsp;&emsp;“(II) the total procurement funds expended on articles, materials, and supplies manufactured outside the United States.
+
 “(B) The report also shall include—
 
 &emsp;“(i) the status of the matters described in subparagraphs (A) and (B) of subsection (a)(1);
@@ -119,6 +129,14 @@ Annual Report.—(1) Not later than February 1 of each year, the Secretary of De
 &emsp;“(ii) the status of implementation of successor procurement data management systems; and
 
 &emsp;“(iii) such other matters as the Secretary considers appropriate.
+
+“(d)
+
+Public Availability.—The Secretary of Defense shall make the report submitted under subsection (c) publicly available to the maximum extent practicable.
+
+“(e)
+
+Applicability.—This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
 
 #### “SEC. 813. IDENTIFICATION OF ESSENTIAL ITEMS: MILITARY SYSTEM BREAKOUT LIST.
 
@@ -184,7 +202,7 @@ Report.—(1) Not later than November 1 of each year, beginning with November 1,
 
 “(a)
 
-Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base CapabilitiesFund (hereafter in this section referred to as the ‘Fund’).
+Establishment of Fund.—There is established in the Treasury of the United States a separate fund tobe known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
 
 “(b)
 
@@ -378,39 +396,37 @@ Comptroller General Review.—(1) Not later than 90 days after the Secretary of 
 
 #### Report by Under Secretary of Defense for Acquisition, Technology, and Logistics
 
-Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, provided that:
-
-“(a)
-
-Requirement.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submitto the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions that are necessary to promote the research base and technological development that will be needed for ensuring that the Armed Forces have the military capabilities that are necessary for meeting national security requirements over the next two to three decades.
-
-“(b)
-
-Content.—The report shall include the actions that have been taken or are planned to be taken within the Department of Defense to ensure that—
-
-&emsp;“(1) the Department of Defense laboratories place an appropriate emphasis on revolutionary changes in military operations and the new technologies that will be necessary to support those operations;
-
-&emsp;“(2) the Department helps sustain a high-quality national research base that includes organizations attuned to the needs of the Department, the fostering and creation of revolutionary technologies useful to the Department, and the capability to identify opportunities for new military capabilities in emerging scientific knowledge;
-
-&emsp;“(3) the Department can identify, provide appropriate funding for, and ensure the coordinated development of joint technologies that will serve the needs of more than one of the Armed Forces;
-
-&emsp;“(4) the Department can identify militarily relevant technologies that are developed in the private sector, rapidly incorporate those technologies into defense systems, and effectively utilize technology transfer processes;
-
-&emsp;“(5) the Department can effectively and efficiently manage the transition of new technologies from the applied research and advanced technological development stage through the product development stage in a manner that ensures that maximum advantage is obtained from advances in technology; and
-
-&emsp;“(6) the Department's educational institutions for the officers of the uniformed services incorporate into their officer education and training programs, as appropriate, materials necessary to ensure that the officers have the familiarity with the processes, advances, and opportunities in technology development that is necessary for making decisions that ensure the superiority of United States defense technology in the future.”
+Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit tothe congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
 
 #### Sense of Congress on Defense Science and Technology Program
 
-Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(1), Nov. 24, 2003, 117 Stat. 1604; Pub. L. 109–364, div. A, title II, §217, Oct. 17, 2006, 120 Stat. 2125, provided that:
 
 “(a)
 
-Failure To Comply With Funding Objective.—It is the sense of Congress that the Secretary of Defense has failed to comply with the funding objective for the Defense Science and Technology Program, especially the Air Force Science and Technology Program, as stated in section 214(a) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1948) \[set out as a note below\], thus jeopardizing the stability of the defense technology base and increasing the risk of failure to maintain technological superiority in future weapon systems.
+Failure To Comply With Funding Objective.—It is the sense of Congress that the Secretary of Defense has failed to comply with the funding objective for the Defense Science and Technology Program, as stated in section 214(a) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1948) \[set out as a note below\], thus jeopardizing the stability of the defense technology base and increasing the risk of failure to maintain technological superiority in future weapon systems.
 
 “(b)
 
-Funding Objective.—It is further the sense of Congress that, for each of the fiscal years 2001 through 2009, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program, including the science and technology program within each military department, for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.”
+Funding Objective.—It is further the sense of Congress that, for each of the fiscal years 2001 through 2012, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program, including the science and technology program within each military department, for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.”
+
+“(c)
+
+Actions Following Failure To Comply With Objective.—If the proposed budget for a fiscal year covered by subsection (b) fails to comply with the objective set forth in that subsection, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], at the same time that the Department of Defense budget justification materials for the next fiscal year are submitted to Congress—
+
+&emsp;“(1) a detailed, prioritized list, including estimates of required funding, of highly-rated science and technology projects received by the Department through competitive solicitations and broad agency announcements which—
+
+&emsp;&emsp;“(A) are not funded solely due to lack of resources, but
+
+&emsp;&emsp;“(B) represent science and technology opportunities that support the research and development programs and goals of the military departments and the Defense Agencies; and
+
+&emsp;“(2) a report, in both classified and unclassified form, containing an analysis and evaluation of international research and technology capabilities, including an identification of any technology areas in which the United States may not have global technical leadership within the next 10 years, in each of the technology areas described in the following plans:
+
+&emsp;&emsp;“(A) The most current Joint Warfighting Science and Technology Plan required by section 270 of the National Defense Authorization Act for Fiscal Year 1997 \[Pub. L. 104–201\] (10 U.S.C. 2501 note).
+
+&emsp;&emsp;“(B) The Defense Technology Area Plan of the Department of Defense.
+
+&emsp;&emsp;“(C) The Basic Research Plan of the Department of Defense.”
 
 Pub. L. 105–261, div. A, title II, §214, Oct. 17, 1998, 112 Stat. 1948, provided that:
 
@@ -508,53 +524,7 @@ Pub. L. 103–337, div. A, title XI, §1118, Oct. 5, 1994, 108 Stat. 2870, provi
 
 #### Reports on Defense Conversion, Reinvestment, and Transition Assistance Programs
 
-Section 1303 of Pub. L. 103–160 provided that:
-
-“(a)
-
-Report Required.—During each of the fiscal years 1994, 1995, and 1996, the Secretary of Defense shall prepare a report that assesses the effectiveness of all defense conversion, reinvestment, and transition assistance programs (as defined in section 1302 \[107 Stat. 1783\]) during the preceding fiscal year.
-
-“(b)
-
-Contents of Report.—To the maximum extent practicable, each report required under subsection (a) shall include an assessment of each of the following:
-
-&emsp;“(1) The status of the obligation of appropriated funds for each defense conversion, reinvestment, and transition assistance program.
-
-&emsp;“(2) With respect to each component of the dual-use partnership program element specified in paragraphs (1) through (10) of section 1311(b) \[107 Stat. 1785\]—
-
-&emsp;&emsp;“(A) the extent to which the component meets the objectives set forth in section 2501 of title 10, United States Code;
-
-&emsp;&emsp;“(B) the technology benefits of the component to the national technology and industrial base;
-
-&emsp;&emsp;“(C) any evidence of commercialization of technologies developed under the component;
-
-&emsp;&emsp;“(D) the extent to which the investments under the component have affected levels of employment;
-
-&emsp;&emsp;“(E) the number of defense firms participating in cooperative agreements or other arrangements under the component;
-
-&emsp;&emsp;“(F) the extent to which matching fund requirements of the component were met by cash contributions by the non-Federal Government participants;
-
-&emsp;&emsp;“(G) the extent to which defense technology reinvestment projects under the component have met milestones and financial and technical requirements;
-
-&emsp;&emsp;“(H) the extent to which the component is integrated with technology programs conducted by other Federal agencies; and
-
-&emsp;&emsp;“(I) the number of proposals under the component that were received from small business concerns and the number of awards made to small business concerns.
-
-&emsp;“(3) With respect to each personnel assistance program conducted under subtitle C of this title \[subtitle C, §§1331–1339 of title XIII of div. A of Pub. L. 103–160, enacting sections 1152 and 1153 of this title, amending sections 1142, 1151, 1598, and 2410j of this title and sections 1551 and 1662d–1 of Title 29, Labor, enacting provisions set out as notes under sections 1143, 1151, and 2701 of this title, repealing provisions set out as a note under section 2701 of this title, and amending provisions set out as a note under section 1143 of this title\], title XLIV of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 106 Stat. 2701) \[see Tables for classification\], and the amendments made by that subtitle or title—
-
-&emsp;&emsp;“(A) the extent to which the program meets the objectives set forth in section 2501(b) of title 10, United States Code;
-
-&emsp;&emsp;“(B) the number of individuals eligible for transition assistance under the program;
-
-&emsp;&emsp;“(C) the number of individuals directly receiving transition assistance under the program and the projected number of individuals who will directly receive transition assistance;
-
-&emsp;&emsp;“(D) in the case of a job training program, an estimate of the number of individuals who have secured permanent employment as a result of participation in the program; and
-
-&emsp;&emsp;“(E) the extent to which the transition assistance activities under the program duplicated other transition assistance provided or administered outside the Department of Defense.
-
-“(c)
-
-Submission of Report.—The report required under subsection (a) for a particular fiscal year shall be submitted to Congress at the same time that the Secretary of Defense submits the annual report required under section 113(c) of title 10, United States Code, for that fiscal year.”
+Pub. L. 103–160, div. A, title XIII, §1303, Nov. 30, 1993, 107 Stat. 1784, provided that during each of the fiscal years 1994, 1995, and 1996, the Secretary of Defense was to prepare a report that assessed the effectiveness of all defense conversion, reinvestment, and transition assistance programs, as defined in section 1302 of Pub. L. 103–160, 107 Stat. 1783, during the preceding fiscal year.
 
 #### National Shipbuilding Initiative
 

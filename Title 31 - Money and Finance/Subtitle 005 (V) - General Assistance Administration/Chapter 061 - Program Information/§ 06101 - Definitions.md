@@ -108,6 +108,212 @@ Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
 Section 6(a) of Pub. L. 104–287 provided that the amendment made by that section is effective July 5, 1994.
 
+#### Federal Funding Accountability and Transparency
+
+Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Federal Funding Accountability and Transparency Act of 2006’.
+
+#### “SEC. 2. FULL DISCLOSURE OF ENTITIES RECEIVING FEDERAL FUNDING.
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Entity.—The term ‘entity’—
+
+&emsp;&emsp;“(A) includes, whether for profit or nonprofit—
+
+&emsp;&emsp;&emsp;“(i) a corporation;
+
+&emsp;&emsp;&emsp;“(ii) an association;
+
+&emsp;&emsp;&emsp;“(iii) a partnership;
+
+&emsp;&emsp;&emsp;“(iv) a limited liability company;
+
+&emsp;&emsp;&emsp;“(v) a limited liability partnership;
+
+&emsp;&emsp;&emsp;“(vi) a sole proprietorship;
+
+&emsp;&emsp;&emsp;“(vii) any other legal business entity;
+
+&emsp;&emsp;&emsp;“(viii) any other grantee or contractor that is not excluded by subparagraph (B) or (C); and
+
+&emsp;&emsp;&emsp;“(ix) any State or locality;
+
+&emsp;&emsp;“(B) on and after January 1, 2009, includes any subcontractor or subgrantee; and
+
+&emsp;&emsp;“(C) does not include—
+
+&emsp;&emsp;&emsp;“(i) an individual recipient of Federal assistance; or
+
+&emsp;&emsp;&emsp;“(ii) a Federal employee.
+
+&emsp;“(2)
+
+Federal award.—The term ‘Federal award’—
+
+&emsp;&emsp;“(A) means Federal financial assistance and expenditures that—
+
+&emsp;&emsp;&emsp;“(i) include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;
+
+&emsp;&emsp;&emsp;“(ii) include contracts, subcontracts, purchase orders, task orders, and delivery orders;
+
+&emsp;&emsp;“(B) does not include individual transactions below $25,000; and
+
+&emsp;&emsp;“(C) before October 1, 2008, does not include credit card transactions.
+
+&emsp;“(3)
+
+Searchable website.—The term ‘searchable website’ means a website that allows the public to—
+
+&emsp;&emsp;“(A) search and aggregate Federal funding by any element required by subsection (b)(1);
+
+&emsp;&emsp;“(B) ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(i), by fiscal year;
+
+&emsp;&emsp;“(C) ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(ii), by fiscal year; and
+
+&emsp;&emsp;“(D) download data included in subparagraph (A) included in the outcome from searches.
+
+“(b)
+
+In General.—
+
+&emsp;“(1)
+
+Website.—Not later than January 1, 2008, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 (Public Law 107–347; 44 U.S.C. 3501 note), and the Office of Federal Procurement Policy Act (41 U.S.C. 403 \[401\] et seq.), ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each Federal award—
+
+&emsp;&emsp;“(A) the name of the entity receiving the award;
+
+&emsp;&emsp;“(B) the amount of the award;
+
+&emsp;&emsp;“(C) information on the award including transaction type, funding agency, the North American Industry Classification System code or Catalog of Federal Domestic Assistance number (where applicable), program source, and an award title descriptive of the purpose of each funding action;
+
+&emsp;&emsp;“(D) the location of the entity receiving the award and the primary location of performance under the award, including the city, State, congressional district, and country;
+
+&emsp;&emsp;“(E) a unique identifier of the entity receiving the award and of the parent entity of the recipient, should the entity be owned by another entity; and
+
+&emsp;&emsp;“(F) any other relevant information specified by the Office of Management and Budget.
+
+&emsp;“(2)
+
+Scope of data.—The website shall include data for fiscal year 2007, and each fiscal year thereafter.
+
+&emsp;“(3)
+
+Designation of agencies.—The Director of the Office of Management and Budget is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
+
+&emsp;“(4)
+
+Agency responsibilities.—Federal agencies shall comply with the instructions and guidance issued by the Director of the Office of Management and Budget under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
+
+“(c)
+
+Website.—The website established under this section—
+
+&emsp;“(1) may use as the source of its data the Federal Procurement Data System, Federal Assistance Award Data System, and Grants.gov, if all of these data sources are searchable through the website and can be accessed in a search on the website required by this Act, provided that the user may—
+
+&emsp;&emsp;“(A) specify such search shall be confined to Federal contracts and subcontracts;
+
+&emsp;&emsp;“(B) specify such search shall be confined to include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;
+
+&emsp;“(2) shall not be considered in compliance if it hyperlinks to the Federal Procurement Data System website, Federal Assistance Award Data System website, Grants.gov website, or other existing websites, so that the information elements required by subsection (b)(1) cannot be searched electronically by field in a single search;
+
+&emsp;“(3) shall provide an opportunity for the public to provide input about the utility of the site and recommendations for improvements;
+
+&emsp;“(4) shall be updated not later than 30 days after the award of any Federal award requiring a posting; and
+
+&emsp;“(5) shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii).
+
+“(d)
+
+Subaward Data.—
+
+&emsp;“(1)
+
+Pilot program.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than July 1, 2007, the Director of the Office of Management and Budget shall commence a pilot program to—
+
+&emsp;&emsp;&emsp;“(i) test the collection and accession of data about subgrants and subcontracts; and
+
+&emsp;&emsp;&emsp;“(ii) determine how to implement a subaward reporting program across the Federal Government, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a reporting system under which the entity issuing a subgrant or subcontract is responsible for fulfilling the subaward reporting requirement; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a mechanism for collecting and incorporating agency and public feedback on the design and utility of the website.
+
+&emsp;&emsp;“(B)
+
+Termination.—The pilot program under subparagraph (A) shall terminate not later than January 1, 2009.
+
+&emsp;“(2)
+
+Reporting of subawards.—
+
+&emsp;&emsp;“(A)
+
+In general.—Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director of the Office of Management and Budget—
+
+&emsp;&emsp;&emsp;“(i) shall ensure that data regarding subawards are disclosed in the same manner as data regarding other Federal awards, as required by this Act; and
+
+&emsp;&emsp;&emsp;“(ii) shall ensure that the method for collecting and distributing data about subawards under clause (i)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) minimizes burdens imposed on Federal award recipients and subaward recipients;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) allows Federal award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to State and local governments.
+
+&emsp;&emsp;“(B)
+
+Extension of deadline.—For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director of the Office of Management and Budget may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+
+“(e)
+
+Exception.—Any entity that demonstrates to the Director of the Office of Management and Budget that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
+
+“(f)
+
+Construction.—Nothing in this Act shall prohibit the Office of Management and Budget from including through the website established under this section access to data that is publicly available in any other Federal database.
+
+“(g)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives an annual report regarding the implementation of the website established under this section.
+
+&emsp;“(2)
+
+Contents.—Each report submitted under paragraph (1) shall include—
+
+&emsp;&emsp;“(A) data regarding the usage and public feedback on the utility of the site (including recommendations for improving data quality and collection);
+
+&emsp;&emsp;“(B) an assessment of the reporting burden placed on Federal award and subaward recipients; and
+
+&emsp;&emsp;“(C) an explanation of any extension of the subaward reporting deadline under subsection (d)(2)(B), if applicable.
+
+&emsp;“(3)
+
+Publication.—The Director of the Office of Management and Budget shall make each report submitted under paragraph (1) publicly available on the website established under this section.
+
+#### “SEC. 3. CLASSIFIED INFORMATION.
+
+“Nothing in this Act shall require the disclosure of classified information.
+
+#### “SEC. 4. GOVERNMENT ACCOUNTABILITY OFFICE REPORTING REQUIREMENT.
+
+“Not later than January 1, 2010, the Comptroller General shall submit to Congress a report on compliance with this Act.”
+
 #### Federal Financial Assistance Management Improvement
 
 Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
@@ -158,7 +364,7 @@ Federal financial assistance.—The term ‘Federal financial assistance’ has 
 
 &emsp;“(4)
 
-Local government.—The term ‘local government’ means a political subdivision of a State that isa unit of general local government (as defined under section 7501(a)(11) of title 31, United States Code).
+Local government.—The term ‘local government’ means a political subdivision of a State that is a unit of general local government (as defined under section 7501(a)(11) of title 31, United States Code).
 
 &emsp;“(5)
 
@@ -272,7 +478,7 @@ Deadline.—All actions required under this section shall be carried out not lat
 
 “(a)
 
-In General.—The Government Accountability Office shall evaluate the effectiveness of this Act. Notlater than 6 years after the date of the enactment of this Act \[Nov. 20, 1999\], the evaluation shall be submitted to the lead agency, the Director, and Congress. The evaluation shall be performed with input from State, local, and tribal governments, and nonprofit organizations.
+In General.—The Government Accountability Office shall evaluate the effectiveness of this Act. Not later than 6 years after the date of the enactment of this Act \[Nov. 20, 1999\], the evaluation shall be submitted to the lead agency, the Director, and Congress. The evaluation shall be performed with input from State, local, and tribal governments, and nonprofit organizations.
 
 “(b)
 
@@ -346,7 +552,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelinesissued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 

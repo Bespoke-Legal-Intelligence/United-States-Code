@@ -16,7 +16,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 &emsp;(A) Accelerated efforts to secure, remove, or eliminate proliferation-attractive fissile materials or radiological materials in research reactors, other reactors, and other facilities worldwide.
 
-&emsp;(B) Arrangements for the secure shipment of proliferation-attractive fissile materials, radiological materials, and related equipment to other countries willing to accept such materials and equipment, or to the United States if such countries cannot be identified, and the provision of secure storage or disposition ofsuch materials and equipment following shipment.
+&emsp;(B) Arrangements for the secure shipment of proliferation-attractive fissile materials, radiological materials, and related equipment to other countries willing to accept such materials and equipment, or to the United States if such countries cannot be identified, and the provision of secure storage or disposition of such materials and equipment following shipment.
 
 &emsp;(C) The transportation of proliferation-attractive fissile materials, radiological materials, and related equipment from sites identified as proliferation risks to secure facilities in other countries or in the United States.
 
@@ -66,7 +66,55 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 Amounts authorized to be appropriated to the Secretary of Energy for defense nuclear nonproliferation activities shall be available for purposes of the program under this section.
 
-#### (f) Definitions
+#### (f) Participation by other governments and organizations
+
+#### (1) In general
+
+&emsp;The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the programs described in paragraph (2).
+
+#### (2) Programs covered
+
+&emsp;The programs described in this paragraph are the following international programs within the Global Threat Reduction Initiative:
+
+&emsp;&emsp;(A) The International Radiological Threat Reduction program.
+
+&emsp;&emsp;(B) The Emerging Threats and Gap Materials program.
+
+&emsp;&emsp;(C) The Reduced Enrichment for Research and Test Reactors program.
+
+&emsp;&emsp;(D) The Russian Research Reactor Fuel Return program.
+
+&emsp;&emsp;(E) The Global Research Reactor Security program.
+
+&emsp;&emsp;(F) The Kazakhstan Spent Fuel program.
+
+#### (3) Retention and use of amounts
+
+&emsp;Notwithstanding section 3302 of title 31, the Secretary of Energy may retain and use amounts contributed under an agreementunder paragraph (1) for purposes of the programs described in paragraph (2). Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
+
+#### (4) Return of amounts not used within 5 years
+
+&emsp;If an amount contributed under an agreement under paragraph (1) is not used under this subsection within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it.
+
+#### (5) Notice to congressional defense committees
+
+&emsp;Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.
+
+#### (6) Annual report
+
+&emsp;Not later than October 31 of each year, the Secretary of Energy shall submit to the congressional defense committees a report on the receipt and use of amounts under this subsection during the preceding fiscal year. Each report for a fiscal year shall set forth—
+
+&emsp;&emsp;(A) a statement of any amounts received under this subsection, including, for each such amount, the value of the contribution and the person who contributed it;
+
+&emsp;&emsp;(B) a statement of any amounts used under this subsection, including, for each such amount, the purposes for which the amount was used; and
+
+&emsp;&emsp;(C) a statement of the amounts retained but not used under this subsection, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount.
+
+#### (7) Expiration
+
+&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2013.
+
+#### (g) Definitions
 
 In this section:
 
@@ -82,9 +130,17 @@ In this section:
 
 &emsp;(6) The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
 
-(Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166.)
+(Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504.)
 
 #### Codification
 
 Section was enacted as part of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+
+#### Amendments
+
+2006—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### “Congressional Defense Committees” Defined
+
+Congressional defense committees has the meaning given that term in section 101(a)(16) of Title 10, Armed Forces, see section 3 of Pub. L. 108–375, Oct. 28, 2004, 118 Stat. 1825. See note under section 101 of Title 10.
 

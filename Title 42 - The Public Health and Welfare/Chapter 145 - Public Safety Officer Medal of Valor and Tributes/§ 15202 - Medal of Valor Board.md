@@ -8,7 +8,7 @@ There is established a Medal of Valor Review Board (hereinafter in this chapter 
 
 #### (1) Members
 
-&emsp;The members of the Board shall be individuals with knowledge or expertise, whether by experience or training, in the field of public safety, of which—
+&emsp;The members of the Board shall be individuals with knowledge or expertise, whether byexperience or training, in the field of public safety, of which—
 
 &emsp;&emsp;(A) two shall be appointed by the majority leader of the Senate;
 

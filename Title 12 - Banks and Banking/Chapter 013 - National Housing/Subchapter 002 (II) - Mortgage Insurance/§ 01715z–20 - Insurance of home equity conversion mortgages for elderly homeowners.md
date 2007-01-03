@@ -124,7 +124,7 @@ The Secretary shall provide or cause to be provided by entities other than the l
 
 #### (g) Limitation on insurance authority
 
-The aggregate number of mortgages insured under this section may not exceed 250,000. In no case may the benefits of insurance under this section exceed the maximum dollar amount established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located.
+The aggregate number of mortgages insured under this section may not exceed 275,000. In no case may the benefits of insurance under this section exceed the maximum dollar amount established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located.
 
 #### (h) Administrative authority
 
@@ -202,7 +202,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (1) In general
 
-&emsp;In the case of any mortgage insured under this section under which the total amount (except as provided in paragraph (2)) of all future payments described in subsection (b)(3) of this section will be used only for costs of a qualified long-term care insurance contract that covers the mortgagor or members of the household residing in the property that is subject to the mortgage, notwithstanding section 1709(c)(2) of this title, the Secretary shall notcharge or collect the single premium payment otherwise required under subparagraph (A) of such section to be paid at the time of insurance.
+&emsp;In the case of any mortgage insured under this section under which the total amount (except as provided in paragraph (2)) of all future payments described in subsection (b)(3) of this section will be used only for costs of a qualified long-term care insurance contract that covers the mortgagor or members of the household residing in the property that is subject to the mortgage, notwithstanding section 1709(c)(2) of this title, the Secretary shall not charge or collect the single premium payment otherwise required under subparagraph (A) of such section to be paid at the time of insurance.
 
 #### (2) Authority to refinance existing mortgage and finance closing costs
 
@@ -228,9 +228,11 @@ Of any amounts made available for any of fiscal years 2000 through 2003 for hous
 
 &emsp;For transfer to the departmental salaries and expenses account for consumer education and outreach activities.
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300.)
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316.)
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–289 substituted “275,000” for “250,000”.
 
 2005—Subsec. (g). Pub. L. 109–13 substituted “250,000” for “150,000”.
 
@@ -314,7 +316,7 @@ Pub. L. 105–276, title V, §593(e)(2), Oct. 21, 1998, 112 Stat. 2655, provided
 
 “(A)
 
-Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement the amendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
+Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement theamendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
 
 “(B)
 

@@ -6,7 +6,7 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 &emsp;(1) has, before December 8, 2004, been determined by the Federal Communications Commission to be a signal a cable operator may carry as significantly viewed in such community, except to the extent that such signal is prevented from being carried by a cable system in such community under the Commission's network nonduplication and syndicated exclusivity rules; or
 
-&emsp;(2) is, after December 8, 2004, determined by the Commission to be significantly viewed in such community in accordance with the same standards and procedures concerning shares of viewing hours and audience surveys as are applicable under the rules, regulations, and authorizations of the Commission to determining with respect to a cable system whether signals are significantly viewed in a community.
+&emsp;(2) is, after December 8, 2004, determined by the Commission to be significantly viewed insuch community in accordance with the same standards and procedures concerning shares of viewing hours and audience surveys as are applicable under the rules, regulations, and authorizations of the Commission to determining with respect to a cable system whether signals are significantly viewed in a community.
 
 #### (b) Limitations
 
@@ -138,7 +138,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 &emsp;&emsp;&emsp;&emsp;(II) for each such affiliate, the communities into which the satellite carrier reserves the right to make such retransmissions.
 
-&emsp;&emsp;&emsp;(ii) In any local market in which the satellite carrier commences service pursuant to section 338 of this title after December 8, 2004, the carrier may notify a station in that market, at least 60 days prior to the introduction of such service in that market, and thereafter at least 60 days prior to any date on which the station must thereafter make an election under section 76.66 of the Commission's regulations (47 CFR 76.66), of each affiliate of the same television network that the carrier reserves the right to retransmit into that station's local market during the next electioncycle under such section of such regulations.
+&emsp;&emsp;&emsp;(ii) In any local market in which the satellite carrier commences service pursuant to section 338 of this title after December 8, 2004, the carrier may notify a station inthat market, at least 60 days prior to the introduction of such service in that market, and thereafter at least 60 days prior to any date on which the station must thereafter make an election under section 76.66 of the Commission's regulations (47 CFR 76.66), of each affiliate of the same television network that the carrier reserves the right to retransmit into that station's local market during the next election cycle under such section of such regulations.
 
 &emsp;&emsp;&emsp;(iii) Beginning with the 2005 election cycle, a satellite carrier may only retransmit pursuant to this section during the pertinent election period a signalâ€”
 

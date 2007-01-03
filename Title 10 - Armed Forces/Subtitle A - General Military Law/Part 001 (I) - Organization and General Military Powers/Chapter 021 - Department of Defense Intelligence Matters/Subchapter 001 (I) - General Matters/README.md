@@ -8,10 +8,13 @@
 | [424\.](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md) | Disclosure of organizational and personnel information: exemption for specified intelligence agencies. |
 | [425\.](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md) | Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies. |
 | [426\.](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md) | Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities. |
+| [427\.](%C2%A7%2000427%20-%20Intelligence%20oversight%20activities%20of%20Department%20of%20Defense%20annual%20reports.md) | Intelligence oversight activities of Department of Defense: annual reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title IX, §932(b), Oct. 17, 2006, 120 Stat. 2363, added item 427.
 
 2003—Pub. L. 108–136, div. A, title IX, §§921(d)(5)(B)(ii), 923(c)(2), Nov. 24, 2003, 117 Stat. 1569, 1576, substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in item 424 and added item 426.
 
@@ -40,3 +43,4 @@
 - [&sect; 00424 - Disclosure of organizational and personnel information exemption for specified intelligence agencies](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md)
 - [&sect; 00425 - Prohibition of unauthorized use of name, initials, or seal specified intelligence agencies](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md)
 - [&sect; 00426 - Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md)
+- [&sect; 00427 - Intelligence oversight activities of Department of Defense annual reports](%C2%A7%2000427%20-%20Intelligence%20oversight%20activities%20of%20Department%20of%20Defense%20annual%20reports.md)

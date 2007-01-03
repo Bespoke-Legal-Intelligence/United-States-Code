@@ -18,7 +18,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
-&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
+&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulationof less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
 
 &emsp;(9) Repealed. Pub. L. 93–259, §23(a)(1), Apr. 8, 1974, 88 Stat. 69.
 
@@ -78,7 +78,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
-&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used in the operation of a farm, if no more than five employees are employed in the establishment in such operations; or
+&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used inthe operation of a farm, if no more than five employees are employed in the establishment in such operations; or
 
 &emsp;(15) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
 
@@ -200,7 +200,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 (vi) The reporting requirements of this subparagraph shall expire 2 years after August 6, 1996.
 
-(6) In the administration and enforcement of the child labor provisions of this chapter, employees who are under 17 years of age may not drive automobiles or trucks on public roadways. Employees who are 17 years of age may drive automobiles or trucks on public roadways only if—
+(6) In the administration and enforcement of the child labor provisions of this chapter, employees who are under 17 years of age may not drive automobiles or trucks on public roadways.Employees who are 17 years of age may drive automobiles or trucks on public roadways only if—
 
 &emsp;(A) such driving is restricted to daylight hours;
 
@@ -356,7 +356,7 @@ Subsec. (b)(30). Pub. L. 103–329, §633(d)(2), added par. (30).
 
 Subsec. (a)(4). Pub. L. 101–157, §3(c)(1), struck out par. (4) which related to employees employed by an establishment which qualified as an exempt retail establishment under clause (2) of this subsection and was recognized as a retail establishment in the particular industry notwithstanding that such establishment made or processed at the retail establishment the goods that it sold.
 
-Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted “provided by paragraph (6) of subsection (a) of this section” for “provided by paragraphs (2) and (6) of subsection (a) of this section” and struck out before period at end “, except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishmentdescribed in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) of this section if it were in an enterprise described in section 203(s) of this title”.
+Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted “provided by paragraph (6) of subsection (a) of this section” for “provided by paragraphs (2) and (6) of subsection (a) of this section” and struck out before period at end “, except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) of this section if it were in an enterprise described in section 203(s) of this title”.
 
 1979—Subsec. (f). Pub. L. 96–70 struck out “; and the Canal Zone” after “Johnston Island”.
 
@@ -400,7 +400,7 @@ Subsec. (b)(4). Pub. L. 93–259, §11(a), effective May 1, 1974, inserted “wh
 
 Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
 
-Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
+Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee\(other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
 
 Subsec. (b)(10). Pub. L. 93–259, §14, incorporated existing paragraph in provisions designated as subpar. (A), struck out from the list references to trailers and aircraft, inserted reference to implements, and added subpar. (B) incorporating references to trailers and aircraft.
 
@@ -480,7 +480,7 @@ Subsec. (b)(1). Pub. L. 89–670 substituted “Secretary of Transportation” f
 
 Subsec. (b)(7). Pub. L. 89–601, §206(c), narrowed the scope of the exemption from any employee of the covered transportation companies to drivers, operators, and conductors only and narrowed the range of covered transportation companies from any street, suburban, or interurban electric railway, or local trolley or motorbus carrier to only those of such named enterprises as have their rates and service subject to regulation by a state or local agency.
 
-Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shall not apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employeeswho receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than a hospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
+Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shall not apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employees who receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than a hospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
 
 Subsec. (b)(10). Pub. L. 89–601, §§209(b), 212(a), repealed par. (10) which granted an unlimited overtime exemption relating to petroleum distribution employees and enacted a new par. (10) relating to salesmen, partsmen, or mechanics primarily engaged in selling or servicing automobiles, trailers, trucks, farm implements, or aircraft if employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles to ultimate purchasers. See subsec. (b)(3) of this section.
 
@@ -654,7 +654,7 @@ Section 23(c) of Pub. L. 93–259 provided in part for amendment of subsec. (b)(
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602of Pub. L. 89–601, set out as a note under section 203 of this title.
+Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
 
 #### Study of Agricultural Handling and Processing Exemptions and Rates of Pay in Exempt Food Service Enterprises
 

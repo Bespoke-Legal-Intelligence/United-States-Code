@@ -16,7 +16,7 @@ Pub. L. 109–102, title V, §577, Nov. 14, 2005, 119 Stat. 2231, provided that:
 
 “(a)
 
-Authority.—Up to $75,000,000 of the funds made available in this Act \[see Tables for classification\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
+Authority.—Up to $75,000,000 of the funds made available in this Act \[see Tables for classification\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basispursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
 
 “(b)
 

@@ -62,7 +62,3 @@ Subsection (a) of this section adds criminal and civil penalties for a preferred
 
 1996—Subsec. (b). Pub. L. 104–324 struck out “31328 or” before “31329” in pars. (1) to (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31323 of this title.
-

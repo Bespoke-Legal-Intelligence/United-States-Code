@@ -40,7 +40,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (e) Funding
 
-On October 1, 2003, and each October 1 thereafter through October 1, 2007, out of any funds inthe Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $3,000,000 to the Secretary of Agriculture for this section.
+On October 1, 2003, and each October 1 thereafter through October 1, 2007, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $3,000,000 to the Secretary of Agriculture for this section.
 
 (Pub. L. 101–624, title XVI, §1672B, as added Pub. L. 105–185, title II, §244, June 23, 1998, 112 Stat. 555; amended Pub. L. 107–171, title VII, §7218, May 13, 2002, 116 Stat. 449.)
 

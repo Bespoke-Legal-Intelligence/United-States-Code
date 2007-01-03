@@ -50,7 +50,7 @@
 
 (d)(1) A lease agreement by the Postal Service for rent of net interior space in excess of 6,500 square feet in any building or facility, or part of a building or facility, to be occupied for purposes of the Postal Service shall include a provision that all laborers and mechanics employed in the construction, modification, alteration, repair, painting, decoration, or other improvement of the building or space covered by the agreement, or improvement at the site of such building or facility, shall be paid wages at not less than those prevailing for similar work in the locality as determined by the Secretary of Labor under section 3142 of title 40.
 
-(2) The authority and functions of the Secretary of Labor with respect to labor standardsenforcement under Reorganization Plan numbered 14 of 1950 (title 5, appendix), and regulations for contractors and subcontractors under section 3145 of title 40, shall apply to the work under paragraph (1) of this subsection.
+(2) The authority and functions of the Secretary of Labor with respect to labor standards enforcement under Reorganization Plan numbered 14 of 1950 (title 5, appendix), and regulations for contractors and subcontractors under section 3145 of title 40, shall apply to the work under paragraph (1) of this subsection.
 
 (3) Paragraph (2) of this subsection shall not be construed to give the Secretary of Labor authority to direct the cancellation of the lease agreement referred to in paragraph (1) of this subsection.
 
@@ -72,7 +72,7 @@ Section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668), re
 
 The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
 
@@ -122,7 +122,7 @@ Subsec. (b)(9). Pub. L. 100–504, §104(b)(5), added par. (9) relating to secti
 
 Pub. L. 100–496 added par. (9) relating to chapter 39 of title 31.
 
-1980—Subsec. (b)(1). Pub. L. 96–523 substituted “section 3102 (employment of personal assistants for blind,deaf, or otherwise handicapped” for “3102 (employment of reading assistants for blind employees and interpreting assistants for deaf”.
+1980—Subsec. (b)(1). Pub. L. 96–523 substituted “section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped” for “3102 (employment of reading assistants for blind employees and interpreting assistants for deaf”.
 
 1978—Subsec. (b)(1). Pub. L. 95–454 inserted provisions relating to reading and interpreting assistants, and substituted provisions respecting applicability of chapter 72 of title 5, for provisions respecting applicability of chapter 71 of title 5.
 
@@ -178,7 +178,7 @@ Subsecs. (a), (b)(2) to (6), and (c)(1) to (3), (5), (6) of this section effecti
 
 #### Applicability of Hatch Act Reform Amendments of 1993 to Postal Employees
 
-Section 7 of Pub. L. 103–94 provided that: “The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Rate Commission, pursuant to sections 410(b) and 3604(e) of title 39, United States Code.”
+Pub. L. 103–94, §7, Oct. 6, 1993, 107 Stat. 1005, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: “The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Regulatory Commission, pursuant to sections 410(b) and 3604(e) \[now 504(e)\] of title 39, United States Code.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

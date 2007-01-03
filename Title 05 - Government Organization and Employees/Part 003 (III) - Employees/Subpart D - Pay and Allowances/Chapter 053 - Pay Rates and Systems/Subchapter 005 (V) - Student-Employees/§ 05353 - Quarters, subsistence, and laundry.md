@@ -1,6 +1,6 @@
 ### §5353. Quarters, subsistence, and laundry
 
-An agency may provide living quarters, subsistence, and laundering to student-employees while at the hospitals, clinics, or laboratories.The reasonable value of the accommodations, when furnished, shall be deducted from the stipend of the student-employee. The head of the agency concerned, and the District of Columbia Council with respect to the government of the District of Columbia, shall fix the reasonable value of the accommodations at an amount not less than the lowest deduction applicable to regular employees at the same hospital, clinic, or laboratory for similar accommodations.
+An agency may provide living quarters, subsistence, and laundering to student-employees while at the hospitals, clinics, or laboratories. The reasonable value of the accommodations, when furnished, shall be deducted from the stipend of the student-employee. The head of the agency concerned, and the District of Columbia Council with respect to the government of the District of Columbia, shall fix the reasonable value of the accommodations at an amount not less than the lowest deduction applicable to regular employees at the same hospital, clinic, or laboratory for similar accommodations.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 90–623, §1(8), Oct. 22, 1968, 82 Stat. 1312.)
 

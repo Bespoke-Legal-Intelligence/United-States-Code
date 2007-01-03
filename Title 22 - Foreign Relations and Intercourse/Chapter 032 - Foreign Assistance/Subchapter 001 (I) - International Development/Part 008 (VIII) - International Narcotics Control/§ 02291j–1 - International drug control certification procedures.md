@@ -72,6 +72,8 @@ During any fiscal year, funds that would otherwise be withheld from obligation o
 
 &emsp;(B) Notwithstanding paragraphs (1) through (5)(A) of this section, the President may apply the procedures set forth in section 2291j(a) through (h) of this title during any fiscal year with respect to any country determined to be a major drug transit country or major illicit drug producing country as defined in section 2291(e) of this title.
 
+&emsp;(C) Nothing in this section shall affect the requirements of section 2291j of this title with respect to countries identified pursuant to section <sup>1</sup> clause (i) or (ii) of 2291h(a)(8)(A) of this title.
+
 #### (6) Statutory construction
 
 &emsp;Nothing in this section supersedes or modifies the requirement in section 2291h(a) of this title (with respect to the International Narcotics Control Strategy Report) for the transmittal of a report not later than March 1, each fiscal year under that section.
@@ -84,45 +86,53 @@ During any fiscal year, funds that would otherwise be withheld from obligation o
 
 &emsp;This section shall take effect September 30, 2002, and shall remain in effect thereafter unless Congress enacts subsequent legislation repealing such section.
 
-(Pub. L. 107–228, div. A, title VI, §706, Sept. 30, 2002, 116 Stat. 1424.)
+(Pub. L. 107–228, div. A, title VI, §706, Sept. 30, 2002, 116 Stat. 1424; Pub. L. 109–177, title VII, §722(c), Mar. 9, 2006, 120 Stat. 269.)
 
 #### Codification
 
 Section was enacted as part of the Department of State Authorization Act, Fiscal Year 2003, and also as part of the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
-#### Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2006
+#### Amendments
 
-Determination of President of the United States, No. 2005–36, Sept. 14, 2005, 70 F.R. 56807, provided:
+2006—Par. (5)(C). Pub. L. 109–177 added subpar. (C).
+
+#### Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2007
+
+Determination of President of the United States, No. 2006–24, Sept. 15, 2006, 71 F.R. 57865, provided:
 
 Memorandum for the Secretary of State
 
-Pursuant to section 706(1) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228) (FRAA) \[22 U.S.C. 2291j–1(1)\], I hereby identify the following countries as major drug transit or major illicit drug producing countries: Afghanistan, The Bahamas, Bolivia, Brazil, Burma, Columbia, Dominican Republic, Ecuador, Guatemala, Haiti, India, Jamaica, Laos, Mexico, Nigeria, Pakistan, Panama, Paraguay, Peru, and Venezuela.
+Pursuant to section 706(1) of the Foreign Relations Authorization Act, FY03 (Public Law 107–228) (FRAA), I hereby identify the following countries as major drug transit or major illicit drug producing countries: Afghanistan, The Bahamas, Bolivia, Brazil, Burma, Colombia, Dominican Republic, Ecuador, Guatemala, Haiti, India, Jamaica, Laos, Mexico, Nigeria, Pakistan, Panama, Paraguay, Peru, and Venezuela.
 
-A country's presence on the Majors List is not necessarily an adverse reflection of its government's counternarcotics efforts or level of cooperation with the United States. Consistent with the statutory definition of a major drug-transit or drug-producing country set fourth \[sic\] in section 481(e)(2) and (5) of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2291(e)(2), (5)\], one of the reasons that major drug transit or illicit drug producing countries are placed on the list is the combination of geographical, commercial, and economic factors that allow drugs to transit or be produced despite the concerned government's most assiduous enforcement measures.
+A country's presence on the Majors List is not necessarily an adverse reflection of its government's counternarcotics efforts or level of cooperation with the United States. Consistent with the statutory definition of a major drug transit or drug producing country set forth in section 481(e)(2) and (5) of the Foreign Assistance Act of 1961, as amended (FAA), one of the reasons that major drug transit or illicit drug producing countries are placed on the list is the combination of geographical, commercial, and economic factors that allow drugs to transit or be produced despite the concerned government's most assiduous enforcement measures.
 
-Pursuant to section 706(2)(A) of the FRAA \[22 U.S.C. 2291j–1(2)(A)\], I hereby designated \[sic\] Burma and Venezuela as countries that have failed demonstrably during the previous 12 months to adhere to their obligations under international counternarcotics agreements and take the measures set fourth \[sic\] in section 489(a)(1) of the FAA \[22 U.S.C. 2291h(a)(1)\]. Attached to this report (Tab A) are justifications for the determinations on Burma and Venezuela \[not set out in the Code\], as required by section 706(2)(B).
+Pursuant to section 706(2)(A) of the FRAA, I hereby designate Burma and Venezuela as countries that have failed demonstrably during the previous 12 months to adhere to their obligations under international counternarcotics agreements and take the measures set forth in section 489(a)(1) of the FAA. Attached to this report (Tab A) are justifications for the determinations on Burma and Venezuela, as required by section 706(2)(B).
 
-I have also determined, in accordance with provisions of section 706(3)(A) of the FRAA \[22 U.S.C. 2291j–1(3)(A)\], that support for program \[sic\] to aid Venezuela's democratic institutions, establish selected community development projects, and strengthen Venezuela's political party system is vital to the national interests of the United States.
+I have also determined, in accordance with provisions of section 706(3)(A) of the FRAA, that support for programs to aid Venezuela's democratic institutions is vital to the national interests of the United States.
 
-I have removed China and Vietnam from the list of major drug transit or major illicit drug producing countries because there is insufficient evidence to suggest that China is a major source zone or transit country for illicit narcotics that significantly affects the United States. There is insufficient evidence to refute claims by the Government of Vietnam that they have virtually eliminated opium poppy production. Additionally, although cooperation with United States law enforcement is limited, there are no indications of a significant Vietnam-based drug threat to the United States.
+Although President Karzai has strongly attacked narcotrafficking as the greatest threat to Afghanistan, one third of the Afghan economy remains opium-based, which contributes to widespread public corruption. The government at all levels must be held accountable to deter and eradicate poppy cultivation; remove and prosecute corrupt officials; and investigate, prosecute, or extradite narcotraffickers and those financing their activities. We are concerned that failure to act decisively now could undermine security, compromise democratic legitimacy, and imperil international support for vital assistance.
 
-Despite the Government of Afghanistan's counternarcotics efforts, we remain concerned about the disturbing magnitude of the drug trade and the prospect that opium poppy cultivation will likely increase in 2006. We are also concerned about government corruption, especially at the regional and local levels, impending \[sic\] counternarcotics efforts. For these efforts to be effective, government corruption with respect to the opium economy must be seriously addressed-by both local and central government authorities.
+My Administration is concerned with the decline in Bolivian counternarcotics cooperation since October 2005. Bolivia, the world's third largest producer of cocaine, has undertaken policies that have allowed the expansion of coca cultivation and slowed the pace of eradication until mid-year, when it picked up. The Government of Bolivia's (GOB) policy of “zero cocaine, but not zero coca” has focused primarily on interdiction, to the near exclusion of its necessary complements, eradication and alternative development. However, the GOB has been supportive of interdiction initiatives and has had positive results in seizing cocaine and decommissioning rustic labs. We would encourage the GOB to refocus its efforts on eliminating excess coca, the source of cocaine. This would include eradicating at least 5,000 hectares, including in the Chapare region; eliminating the “cato” exemption to Bolivian law; rescinding Ministerial Resolution 112, Administrative Resolution 083, and establishing tight controls on the sale of licit coca leaf for traditional use; and implementing strong precursor chemical control measures to prevent conversion of coca to cocaine. My Administration plans to review Bolivia's performance in these specific areas within 6 months.
 
-The Government of Canada has made real progress in curbing the diversion into the United States of pseudoephedrine, which fuels the production of methamphetamine. There are indications, however, that Canadian-based criminal groups are increasingly involved in the production of MDMA (Ecstasy) destined for the United States. Large scale cross-border trafficking of Canadian-grown marijuana remains a serious concern. The United States appreciates the excellent law enforcement cooperation with Canada in combating these shared threats.
+The Government of Canada (GOC) continued to effectively curb the diversion of precursor chemicals that are required for methamphetamine production to feed U.S. illegal markets. The GOC also continued to seize laboratories that produce MDMA/Ecstasy consumed in both Canada and the United States. The principal drug concern was the continuing large-scale production of high-potency, indoor-grown marijuana for export to the United States. The United States enjoyed excellent cooperation with Canada across a broad range of law enforcement issues and shared goals.
 
-While Haiti made efforts this year to improve its performance, we reiterate our concerns from last year about the Interim Government of Haiti's inability to effectively organize Haitian law enforcement resources to permit sustained counternarcotics efforts. Further, the national criminal justice system must be significantly strengthened in order to be effective and gain public confidence.
+The Government of Ecuador (GOE) has made considerable progress in combating narcotics trafficking destined for the United States. However, a dramatic increase in the quantity of cocaine transported toward the United States using Ecuadorian-flagged ships and indications of increased illegal armed group activity along Ecuador's northern border with Colombia remain areas of serious concern. Effective cooperation and streamlined maritime operational procedures between the U.S. Coast Guard and the Ecuadorian Navy are resulting in an increase in the amount of cocaine interdicted. Building on that cooperation, we will work with Ecuador to change the circumstances that make Ecuadorian-flagged vessels and Ecuadorian citizenship so attractive to drug traffickers.
 
-The Government of The Netherlands has achieved considerable success in countering the production and flow of MDMA (Ecstasy) to the United States, and The Netherlands is commended for its enhanced efforts. In the coming year, the United States would like to build upon our law enforcement cooperation with the Dutch government through advancements in mutual legal assistance and direct engagement between our respective police agencies.
+As a result of the elections in Haiti, the new government now has a clear mandate from the Haitian people to bring crime, violent gangs, and drug trafficking under control. We urge the new government to strengthen and accelerate ongoing efforts to rebuild and reform Haiti's law enforcement and judicial institutions and to consult closely with the United States to define achievable and verifiable steps to accomplish these goals.
 
-Drug trafficking, money laundering, and other organized criminal activity in Nigeria remain major sources of concern to the United States. Progress over the past year on anti-money laundering controls is welcome, but much remains to be done to make such controls effective. Implementing anti-corruption policies must advance more quickly, as corruption at all levels of government continues to hamper effective narcotics law enforcement. In addition, measures similar to those taken to improve drug law enforcement at Nigeria's main airport need to be expanded to, and replicated at, Nigeria's seaports, where drug trafficking is a growing concern. Finally, the National Drug Law Enforcement Agency (NDLEA) and other counternarcotics institutions should work towards developing the mindset and capacity to pursue investigations, and prosecutions of major drug traffickers based in the country.
+While the Government of Nigeria continues to take substantive steps to curb official corruption, it remains a major challenge in Nigeria. We strongly encourage the government to continue to adequately fund and support the anti-corruption bodies that have been established there in order to fully address Nigeria's ongoing fight against corruption. We urge Nigeria to continue improving the effectiveness of the National Drug and Law Enforcement Agency and, in particular, improve enforcement operations at major airports/seaports and against major drug kingpins, to include targeting their financial assets. We look forward to working with Nigerian officials to increase extraditions and assisting in drug enforcement operations.
 
-We remain concerned with the continued involvement by the Democratic People's Republic of Korea (DPRK) in criminal activity, including drug production and drug trafficking. Given the close relationship between Japanese and Chinese criminal elements and DPRK drug traffickers in past smuggling incidents, there is a real possibility of continuing DPRK involvement in drug trafficking, even when a given incident appears only to involve ethnic Chinese or other organized Asian criminal groups.
+Although there have not been any drug seizures or apprehensions of drug traffickers with a connection to the Democratic People's Republic of Korea (DPRK) since 2004, we remain concerned about DPRK state-directed criminal activity. The United States Government has made clear to the DPRK that an end to all involvement in criminal activity is a necessary prerequisite to entry into the international community.
 
-You are hereby authorized and directed to submit this determination to the Congress and to publish it in the Federal Register.
+Under provisions of the Combat Methamphetamine Epidemic Act (CMEA), which modified section 489(a) of the Foreign Assistance Act of 1961, as amended, and section 490(a) of the FAA, a report will be made to the Congress on March 1, 2007, naming the five countries that legally exported the largest amount of methamphetamine precursor chemicals, as well as the top five methamphetamine precursor importers with the highest rate of diversion for illicit drug production. This report will be sent concurrently with the International Narcotics Control Strategy Report, which will also contain additional reporting on methamphetamine precursor chemicals pursuant to the CMEA.
+
+You are hereby authorized and directed to submit this report under section 706 of the FRAA, transmit it to the Congress, and publish it in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior identifications of major drug transit or major illicit drug producing countries were contained in the following:
+
+Determination of President of the United States, No. 2005–36, Sept. 14, 2005, 70 F.R. 56807.
 
 Determination of President of the United States, No. 2004–47, Sept. 15, 2004, 69 F.R. 57809.
 
@@ -133,4 +143,6 @@ Determination of President of the United States, No. 2003–14, Jan. 30, 2003, 6
 #### Definitions
 
 For definition of “appropriate congressional committees” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “section” probably should appear after “clause (i) or (ii) of”.</i>
 

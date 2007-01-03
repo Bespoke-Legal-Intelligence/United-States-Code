@@ -26,7 +26,7 @@ The Federal Coordinator shall be responsible for—
 
 #### (1) Expedited reviews and actions
 
-&emsp;All reviews conducted and actions taken by any Federal agency relating to an Alaska natural gas transportation project authorizedunder this section shall be expedited, in a manner consistent with completion of the necessary reviews and approvals by the deadlines under this chapter.
+&emsp;All reviews conducted and actions taken by any Federal agency relating to an Alaska natural gas transportation project authorized under this section shall be expedited, in a manner consistent with completion of the necessary reviews and approvals by the deadlines under this chapter.
 
 #### (2) Prohibition of certain terms and conditions
 
@@ -46,7 +46,7 @@ The Federal Coordinator shall be responsible for—
 
 &emsp;&emsp;&emsp;(ii) an order by the Commission to expand the project under section 720c of this title; or
 
-&emsp;&emsp;(B) impose any terms, conditions, or requirements in addition to those imposed by the Commission or any agency with respect to construction and operation, or an expansion of, the project.
+&emsp;&emsp;(B) impose any terms, conditions, or requirements in addition to those imposed bythe Commission or any agency with respect to construction and operation, or an expansion of, the project.
 
 #### (e) State coordination
 

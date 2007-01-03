@@ -20,7 +20,7 @@ An order issued pursuant to subsection (a) of this section shall become effectiv
 
 #### (1) Temporary order
 
-&emsp;If a notice of charges served under section 4631(a) or (b) of this title specifies on the basis of particular facts and circumstances that the books and records of the enterprise served areso incomplete or inaccurate that the Director is unable, through the normal supervisory process, to determine the financial condition of the enterprise or the details or the purpose of any transaction or transactions that may have a material effect on the financial condition of that enterprise, the Director may issue a temporary order requiring—
+&emsp;If a notice of charges served under section 4631(a) or (b) of this title specifies on the basis of particular facts and circumstances that the books and records of the enterprise served are so incomplete or inaccurate that the Director is unable, through the normal supervisory process, to determine the financial condition of the enterprise or the details or the purpose of any transaction or transactions that may have a material effect on the financial condition of that enterprise, the Director may issue a temporary order requiring—
 
 &emsp;&emsp;(A) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
 
@@ -44,7 +44,7 @@ An enterprise, executive officer, or director that has been served with a tempor
 
 #### (e) Enforcement by Attorney General
 
-In the case of violation or threatened violation of, or failure to obey, a temporary order issued pursuant to this section, the Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for an injunction to enforce such order or may, under the direction and control of the Attorney General, bring such an action. If the court finds any such violation, threatened violation, or failure to obey, the court shall issue such injunction.
+In the case of violation or threatened violation of, or failure to obey, a temporary order issued pursuant to this section, the Director mayrequest the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for an injunction to enforce such order or may, under the direction and control of the Attorney General, bring such an action. If the court finds any such violation, threatened violation, or failure to obey, the court shall issue such injunction.
 
 (Pub. L. 102–550, title XIII, §1372, Oct. 28, 1992, 106 Stat. 3988.)
 

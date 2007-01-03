@@ -3,20 +3,10 @@
 | Sec. |  |
 | :--- | ---: |
 | [14401\.](%C2%A7%2014401%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| (a) | Findings. |
-| (b) | Purpose. |
 | [14402\.](%C2%A7%2014402%20-%20Restriction%20on%20use%20of%20Federal%20funds%20under%20health%20care%20programs.md) | Restriction on use of Federal funds under health care programs. |
-| (a) | Restriction on Federal funding of health care services. |
-| (b) | Construction and treatment of certain services. |
-| (c) | Limitation on Federal facilities and employees. |
-| (d) | List of programs to which restrictions apply. |
 | [14403\.](%C2%A7%2014403%20-%20Restriction%20on%20use%20of%20Federal%20funds%20under%20certain%20grant%20programs.md) | Restriction on use of Federal funds under certain grant programs. |
 | [14404\.](%C2%A7%2014404%20-%20Restriction%20on%20use%20of%20Federal%20funds%20by%20advocacy%20programs.md) | Restriction on use of Federal funds by advocacy programs. |
-| (a) | In general. |
-| (b) | List of programs to which restrictions apply. |
 | [14405\.](%C2%A7%2014405%20-%20Restriction%20on%20use%20of%20other%20Federal%20funds.md) | Restriction on use of other Federal funds. |
-| (a) | In general. |
-| (b) | Nonduplication. |
 | [14406\.](%C2%A7%2014406%20-%20Clarification%20with%20respect%20to%20advance%20directives.md) | Clarification with respect to advance directives. |
 | [14407\.](%C2%A7%2014407%20-%20Application%20to%20District%20of%20Columbia.md) | Application to District of Columbia. |
 | [14408\.](%C2%A7%2014408%20-%20Relation%20to%20other%20laws.md) | Relation to other laws. |

@@ -28,9 +28,13 @@ Federal payments made under a cooperative agreement or grant under subsection (a
 
 Support of a center under subsection (a) of this section may be for a period of not to exceed 5 years. Such period may be extended by the Director for additional periods of not more than 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-#### (e) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §404G, as added Pub. L. 107–280, §4, Nov. 6, 2002, 116 Stat. 1990; amended Pub. L. 109–482, title I, §103(b)(6), Jan. 15, 2007, 120 Stat. 3687.)
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $20,000,000 for each of the fiscal years 2003 through 2006.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §404G, as added Pub. L. 107–280, §4, Nov. 6, 2002, 116 Stat. 1990.)
+2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $20,000,000 for each of the fiscal years 2003 through 2006.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

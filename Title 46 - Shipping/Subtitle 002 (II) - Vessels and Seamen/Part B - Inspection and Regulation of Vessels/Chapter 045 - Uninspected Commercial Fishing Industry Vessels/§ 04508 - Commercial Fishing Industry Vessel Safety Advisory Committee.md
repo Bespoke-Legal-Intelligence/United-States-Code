@@ -56,17 +56,21 @@
 
 (4) The provisions of this section relating to an officer or employee of the United States or a member of the Armed Forces do not apply to a member of a reserve component of the Armed Forces unless that member is in an active status.
 
-(e)(1) The Federal Advisory Committee Act (5 App. U.S.C.) applies to the Committee, except that the Committee terminates on September 30, 2005.
+(e)(1) The Federal Advisory Committee Act (5 App. U.S.C.) applies to the Committee, except that the Committee terminates on September 30, 2010.
 
 (2) Two years prior to the termination date referred to in paragraph (1) of this subsection, the Committee shall submit to Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
-(Added Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1588; amended Pub. L. 101–225, title I, §106, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 102–241, §25, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, §304(b), Oct. 19, 1996, 110 Stat. 3917; Pub. L.107–295, title III, §331(a), Nov. 25, 2002, 116 Stat. 2105.)
+(Added Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1588; amended Pub. L. 101–225, title I, §106, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 102–241, §25, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, §304(b), Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title III, §331(a), Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, §418(a), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 109–241, title IX, §901(g), July 11, 2006, 120 Stat. 564.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsecs. (b)(5) and (e)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2006—Subsec. (e)(1). Pub. L. 109–241 amended directory language of Pub. L. 108–293, §418(a). See 2004 Amendment note below.
+
+2004—Subsec. (e)(1). Pub. L. 108–293, §418(a), as amended by Pub. L. 109–241, substituted “on September 30, 2010” for “on September 30, 2005”.
 
 2002—Pub. L. 107–295, §331(a)(1), inserted “Safety” after “Vessel” in section catchline.
 
@@ -82,13 +86,17 @@ Pub. L. 107–295, §331(a)(3), which directed the substitution of “(5 App. U.
 
 1989—Subsec. (b)(2). Pub. L. 101–225 inserted provision that Secretary not seek or use information concerning political affiliation in making appointments.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–241, title IX, §901(g), July 11, 2006, 120 Stat. 564, provided that the amendment made by section 901(g) is effective Aug. 9, 2004.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Initial Appointments to Commercial Fishing Industry Advisory Committee
 
-Section 2(b) of Pub. L. 100–424 provided that:
+Pub. L. 100–424, §2(b), Sept. 9, 1988, 102 Stat. 1589, provided that:
 
 “(1)
 

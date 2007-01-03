@@ -44,7 +44,7 @@ Whoever—
 
 &emsp;(C) any amount paid by a vendor of goods or services to a person authorized to act as a purchasing agent for a group of individuals or entities who are furnishing services reimbursed under a Federal health care program if—
 
-&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, whichamount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
+&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
 
 &emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received from each such vendor with respect to purchases made by or on behalf of the entity;
 
@@ -226,11 +226,11 @@ Amendment by section 4164(b)(2) of Pub. L. 101–508 applicable with respect to 
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendments
 
-Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, setout as an Effective Date note under section 1396r of this title.
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
@@ -328,7 +328,7 @@ Final committee report.—If the committee is not terminated under paragraph (6)
 
 “(8)
 
-Interim, final effect.—The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connectionwith such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
+Interim, final effect.—The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
 
 “(9)
 
@@ -336,7 +336,7 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 
 #### Anti-Kickback Regulations
 
-Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
+Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18,1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

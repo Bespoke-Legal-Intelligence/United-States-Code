@@ -4,7 +4,7 @@
 
 &emsp;(1) provide multistate regional agencies, States, counties, cities, multicounty planning and development districts, businesses, industries, Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups and others involved with public services and investments in rural areas or that provide or may provide employment in these areas the best available scientific, technical, economic, organizational, environmental, and management information and knowledge useful to them, and to assist and encourage them in the interpretation and application of this information to practical problems and needs in rural development;
 
-&emsp;(2) provide research and investigations in all fields that have as their purpose the development of useful knowledge and information to assist those planning, carrying out, managing, or investing in facilities, services, businesses, or other enterprises, public and private, that may contribute to rural development;
+&emsp;(2) provide research and investigations in all fields that have as their purpose the development of useful knowledge and information toassist those planning, carrying out, managing, or investing in facilities, services, businesses, or other enterprises, public and private, that may contribute to rural development;
 
 &emsp;(3) increase the capabilities of, and encourage, colleges and universities to perform the vital public service roles of research, and the transfer and practical application of knowledge, in support of rural development;
 

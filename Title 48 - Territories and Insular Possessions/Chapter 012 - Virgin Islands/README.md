@@ -5,9 +5,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [1541\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001541%20-%20Organization%20and%20status.md) | Organization and status. |
-| (a) | Composition and territorial designation. |
-| (b) | Powers and legal status of government; capital and seat of government. |
-| (c) | Administrative supervision by Secretary of the Interior. |
 | [1542\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001542%20-%20Voting%20franchise%3B%20discrimination%20prohibited.md) | Voting franchise; discrimination prohibited. |
 | [1543\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001543%20-%20United%20States%20citizenship%20requirement%20for%20government%20officials.md) | United States citizenship requirement for government officials. |
 | [1544\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001544%20-%20Reports%20by%20Governor%3B%20jurisdiction%20of%20Secretary%20of%20the%20Interior%3B%20exceptions.md) | Reports by Governor; jurisdiction of Secretary of the Interior; exceptions. |
@@ -29,47 +26,15 @@
 |  |  |
 | :--- | ---: |
 | [1571\.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001571%20-%20Legislature.md) | Legislature. |
-| (a) | Designation and unicameral character. |
-| (b) | Composition; legislative districts; method of elections. |
 | [1572\.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001572%20-%20Legislators.md) | Legislators. |
-| (a) | Terms of office. |
-| (b) | Qualifications of members. |
-| (c) | Appointment of electoral officers; popular election of members of boards of election. |
-| (d) | Immunity of members. |
-| (e) | Compensation and allowances. |
-| (f) | Limitations on holding other office. |
-| (g) | General powers; parliamentary rules. |
-| (h) | Vacancies. |
 | [1573\.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001573%20-%20Time%2C%20frequency%2C%20and%20duration%20of%20regular%20sessions%3B%20special%20sessions%3B%20place%20of%20holding.md) | Time, frequency, and duration of regular sessions; special sessions; place of holding. |
 | [1574\.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001574%20-%20Legislative%20powers%20and%20activities.md) | Legislative powers and activities. |
-| (a) | Scope of authority; limitation on enactments and taxation. |
-| (b) | Government bonds; maximum amount; sale, interest, etc. |
-| (c) | Applicability of laws and ordinances; amendment or repeal. |
-| (d), | (e) Repealed. |
-| (f) | Customs duty; duty-free importation; effect on other customs laws. |
 | 1574–1. | Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands. |
 | [1574a.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001574a%20-%20Revenue%20bonds%20or%20other%20obligations.md) | Revenue bonds or other obligations. |
-| (a) | Authorization for issuance; use of proceeds; legislative initiative and binding referendum vote. |
-| (b) | Federal guarantee. |
-| (c) | Limitations on issuance. |
 | [1574b.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001574b%20-%20Federal%20guarantee%20for%20issuance%20of%20revenue%20bonds%20or%20other%20obligations.md) | Federal guarantee for issuance of revenue bonds or other obligations. |
-| (a) | Application to Secretary of the Interior; contents. |
-| (b) | Terms and conditions of guarantee or commitment to guarantee; determination by Secretary of approval. |
-| (c) | Administrative costs; deposit of fees. |
-| (d) | Conclusiveness and incontestability; pledge of full faith and credit. |
-| (e) | Interest on guaranteed obligations taxable. |
-| (f) | Maximum amount guaranteed; time limitations on commitments to guarantee, obligation of guaranteed but unobligated funds, and repayment of unobligated proceeds of bonds or other obligations. |
-| (g) | Revolving fund; establishment; submission of budget to Congress; payments; transfers from fund to general fund of Treasury; issuance and sale of notes or other obligations for guarantees. |
 | [1574c.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001574c%20-%20Priority%20for%20payment%20of%20principal%20and%20interest%20of%20revenue%20bonds%20or%20other%20obligations.md) | Priority for payment of principal and interest of revenue bonds or other obligations. |
 | [1574d.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001574d%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93357%2C%20title%20III%2C%20%C2%A7308%28g%29%2C%20Oct.%2019%2C%201982%2C%2096%20Stat.%201710.md) | Repealed. |
 | [1575\.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001575%20-%20Legislative%20procedure.md) | Legislative procedure. |
-| (a) | Quorum and method of voting on bills. |
-| (b) | Enacting clause of acts. |
-| (c) | Governor's message and budget. |
-| (d) | Approval and disapproval of bills. |
-| (e) | Use of prior appropriations upon failure to pass appropriation bills. |
-| (f) | Journal of proceedings; contents. |
-| (g) | Transmittal of laws to Congress. |
 | [1576\.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001576%20-%20General%20elections%3B%20time%3B%20transfer%20of%20Council%20functions%2C%20property%2C%20etc.md) | General elections; time; transfer of Council functions, property, etc. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,28 +46,12 @@
 | [1591\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001591%20-%20Governor%20and%20Lieutenant%20Governor%3B%20election%3B%20eligibility%3B%20official%20residence%3B%20powers%20and%20duties%3B%20report.md) | Governor and Lieutenant Governor; election; eligibility; official residence; powers and duties; report. |
 | [1592\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001592%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20657.md) | Repealed. |
 | [1593\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001593%20-%20Initiative%20and%20recall.md) | Initiative and recall. |
-| (a) | Grant of rights. |
-| (b) | Initiative. |
-| (c) | Recall. |
-| (d) | “Law” and “voter” defined. |
 | [1594\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001594%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93496%2C%20%C2%A76%2C%20Aug.%2023%2C%201968%2C%2082%20Stat.%20839.md) | Repealed. |
 | [1595\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001595%20-%20Vacancy%20in%20office%20of%20Governor%20or%20Lieutenant%20Governor.md) | Vacancy in office of Governor or Lieutenant Governor. |
-| (a) | Temporary disability or temporary absence of Governor. |
-| (b) | Permanent vacancy in office of Governor; Lieutenant Governor as Governor; term of office. |
-| (c) | Temporary disability or temporary absence of Lieutenant Governor; president of legislature as Lieutenant Governor. |
-| (d) | Permanent vacancy in office of Lieutenant Governor; Governor to appoint new Lieutenant Governor with advice and consent of legislature; term of office. |
-| (e) | Temporary disability or temporary absence of Governor and Lieutenant Governor; appointment of Acting Governor; permanent vacancies in offices of Governor and Lieutenant Governor; appointment of Governor. |
-| (f) | Additional compensation. |
 | [1596\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001596%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7224%283%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201752.md) | Repealed. |
 | [1597\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001597%20-%20Reorganization%20of%20government.md) | Reorganization of government. |
-| (a) | Consolidation of departments, bureaus, etc.; popular election of school board members. |
-| (b) | Changes after examination from time to time. |
-| (c) | Appointment of department heads; tenure; removal; powers and duties; appointments to boards, etc. |
 | [1598\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001598%20-%20Omitted.md) | Omitted. |
 | [1599\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001599%20-%20Transfer%20of%20functions%20from%20government%20comptroller%20for%20Virgin%20Islands%20to%20Inspector%20General%2C%20Department%20of%20the%20Interior.md) | Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior. |
-| (a) | Functions, powers, and duties transferred. |
-| (b) | Scope of authority transferred. |
-| (c) | Transfer of personnel, assets, etc., of office of government comptroller for Virgin Islands to Office of Inspector General, Department of the Interior. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -111,23 +60,10 @@
 |  |  |
 | :--- | ---: |
 | [1611\.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001611%20-%20District%20Court%20of%20Virgin%20Islands%3B%20local%20courts%3B%20jurisdiction%3B%20practice%20and%20procedure.md) | District Court of Virgin Islands; local courts; jurisdiction; practice and procedure. |
-| (a) | District Court of Virgin Islands; local courts. |
-| (b) | Jurisdiction. |
-| (c) | Practice and procedure. |
 | [1612\.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001612%20-%20Jurisdiction%20of%20District%20Court.md) | Jurisdiction of District Court. |
-| (a) | Jurisdiction. |
-| (b) | General jurisdiction; limitations. |
-| (c) | Criminal offenses; concurrent jurisdiction with local courts. |
 | [1613\.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001613%20-%20Relations%20between%20courts%20of%20United%20States%20and%20courts%20of%20Virgin%20Islands%3B%20review%20by%20United%20States%20Court%20of%20Appeals%20for%20Third%20Circuit%E2%80%A6.md) | Relations between courts of United States and courts of Virgin Islands; review by United States Court of Appeals for Third Circuit; reports to Congress; rules. |
 | [1613a.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001613a%20-%20Appellate%20jurisdiction%20of%20District%20Court%3B%20procedure%3B%20review%20by%20United%20States%20Court%20of%20Appeals%20for%20Third%20Circuit%3B%20rules%3B%20appeals%20to%E2%80%A6.md) | Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to appellate court. |
-| (a) | Appellate jurisdiction of District Court. |
-| (b) | Appellate division of District Court; quorum; presiding judge; designation of judges; decisions. |
-| (c) | United States Court of Appeals for Third Circuit; jurisdiction; appeals; rules. |
-| (d) | Appeals to appellate court; effect on District Court. |
 | [1614\.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001614%20-%20Judges%20of%20District%20Court.md) | Judges of District Court. |
-| (a) | Appointment; tenure; removal; chief judge; compensation. |
-| (b) | Criminal offenses; procedure; definitions; indictment and information. |
-| (c) | United States marshal. |
 | [1615\.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001615%20-%20Judicial%20divisions.md) | Judicial divisions. |
 | [1616\.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001616%20-%20Trial%20by%20jury.md) | Trial by jury. |
 | [1617\.](Subchapter%20005%20%28V%29%20-%20Judicial%20Branch/%C2%A7%2001617%20-%20United%20States%20attorney%3B%20appointment%3B%20duties.md) | United States attorney; appointment; duties. |

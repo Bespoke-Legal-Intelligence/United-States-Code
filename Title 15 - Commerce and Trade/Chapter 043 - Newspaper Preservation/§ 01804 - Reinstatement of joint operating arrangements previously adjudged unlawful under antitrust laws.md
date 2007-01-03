@@ -6,7 +6,3 @@
 
 (Pub. L. 91–353, §5, July 24, 1970, 84 Stat. 467.)
 
-#### References in Text
-
-Any antitrust law, referred to in subsecs. (a) and (b), are the antitrust laws defined in section 1802 of this title.
-

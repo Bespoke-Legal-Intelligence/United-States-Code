@@ -24,7 +24,7 @@
 
 (2) Except as otherwise provided in paragraph (1), the definitions provided in section 551 of this title apply to this section.
 
-(c)(1) After consultation with the Chairman of the Administrative Conference of the United States, each agency shall by rule establish uniform procedures for the submission and consideration of applications for an award of fees and other expenses. If a court reviews the underlying decision of the adversary adjudication, an award for fees and other expenses may be made onlypursuant to section 2412(d)(3) of title 28, United States Code.
+(c)(1) After consultation with the Chairman of the Administrative Conference of the United States, each agency shall by rule establish uniform procedures for the submission and consideration of applications for an award of fees and other expenses. If a court reviews the underlying decision of the adversary adjudication, an award for fees and other expenses may be made only pursuant to section 2412(d)(3) of title 28, United States Code.
 
 (2) If a party other than the United States is dissatisfied with a determination of fees and other expenses made under subsection (a), that party may, within 30 days after the determination is made, appeal the determination to the court of the United States having jurisdiction to review the merits of the underlying decision of the agency adversary adjudication. The court's determination on any appeal heard under this paragraph shall be based solely on the factual record made before the agency. The court may modify the determination of fees and other expenses only if the court finds that the failure to make an award of fees and other expenses, or the calculation of the amount of the award, was unsupported by substantial evidence.
 
@@ -32,7 +32,7 @@
 
 (e) The Chairman of the Administrative Conference of the United States, after consultation with the Chief Counsel for Advocacy of the Small Business Administration, shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this section. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards. Each agency shall provide the Chairman with such information as is necessary for the Chairman to comply with the requirements of this subsection.
 
-(f) No award may be made under this section for costs, fees, or other expenses which may be awarded under section 7430 of the Internal Revenue Code of 1986.
+(f) No award may be made under this section for costs, fees, or other expenses which may beawarded under section 7430 of the Internal Revenue Code of 1986.
 
 (Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862.)
 
@@ -76,7 +76,7 @@ Subsec. (c)(2). Pub. L. 99–80, §1(d), amended par. (2) generally. Prior to am
 
 Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(1) Fees and other expenses awarded under this section may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of finaljudgments is made pursuant to section 2414 of title 28, United States Code.
+“(1) Fees and other expenses awarded under this section may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made pursuant to section 2414 of title 28, United States Code.
 
 “(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years.”
 

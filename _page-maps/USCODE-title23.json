@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title23",
- "package": "USCODE-2005-title23",
+ "package": "USCODE-2006-title23",
  "pieces": [
   {
    "id": "23_",
@@ -624,14 +624,10 @@
    "id": "23_108",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       188,
-       "[Page 65]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 65]",
+     true
     ],
     [
      "I",
@@ -2517,7 +2513,7 @@
      14,
      [
       [
-       189,
+       285,
        "[Page 212]"
       ]
      ]
@@ -2543,7 +2539,7 @@
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 213]",
      true
     ]
@@ -2576,10 +2572,14 @@
    "id": "23_215",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 214]",
-     true
+     "I",
+     64,
+     [
+      [
+       223,
+       "[Page 214]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00215 - Territorial highway program.md",
@@ -2592,14 +2592,10 @@
    "id": "23_216",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       317,
-       "[Page 215]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 215]",
+     true
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00216 - Darien Gap Highway.md",
@@ -2613,20 +2609,20 @@
    "marks": [
     [
      "I",
-     74,
+     76,
      [
       [
-       123,
+       101,
        "[Page 216]"
       ]
      ]
     ],
     [
      "I",
-     148,
+     152,
      [
       [
-       368,
+       98,
        "[Page 217]"
       ]
      ]
@@ -2643,10 +2639,10 @@
    "marks": [
     [
      "I",
-     18,
+     22,
      [
       [
-       317,
+       109,
        "[Page 218]"
       ]
      ]
@@ -2669,26 +2665,30 @@
   },
   {
    "id": "23_-ch3",
-   "marks": [
-    [
-     "L",
-     54,
-     "[Page 219]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - General Provisions/README.md",
    "printed_pages": [
     218,
-    219
+    218
    ]
   },
   {
    "id": "23_301",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       97,
+       "[Page 219]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - General Provisions/§ 00301 - Freedom from tolls.md",
    "printed_pages": [
-    219,
+    218,
     219
    ]
   },
@@ -2705,10 +2705,14 @@
    "id": "23_303",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 220]",
-     true
+     "I",
+     64,
+     [
+      [
+       174,
+       "[Page 220]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00303 - Management systems.md",
@@ -2730,14 +2734,10 @@
    "id": "23_305",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 221]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 221]",
+     true
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00305 - Archeological and paleontological salvage.md",
@@ -2778,7 +2778,7 @@
    "marks": [
     [
      "L",
-     6,
+     14,
      "[Page 222]",
      true
     ]
@@ -2821,7 +2821,7 @@
    "marks": [
     [
      "L",
-     4,
+     10,
      "[Page 223]",
      true
     ]
@@ -2837,7 +2837,7 @@
    "marks": [
     [
      "L",
-     6,
+     10,
      "[Page 224]",
      true
     ]
@@ -2889,10 +2889,10 @@
    "marks": [
     [
      "I",
-     12,
+     16,
      [
       [
-       124,
+       127,
        "[Page 225]"
       ]
      ]
@@ -2912,20 +2912,16 @@
      2,
      [
       [
-       1379,
+       1791,
        "[Page 226]"
       ]
      ]
     ],
     [
-     "I",
-     14,
-     [
-      [
-       264,
-       "[Page 227]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 227]",
+     true
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00320 - Bridges on Federal dams.md",
@@ -2948,23 +2944,23 @@
    "marks": [
     [
      "I",
-     22,
+     30,
      [
       [
-       71,
+       174,
        "[Page 228]"
       ]
      ]
     ],
     [
      "L",
-     126,
+     134,
      "[Page 229]",
      true
     ],
     [
      "L",
-     226,
+     234,
      "[Page 230]",
      true
     ]
@@ -2979,10 +2975,14 @@
    "id": "23_323",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 231]",
-     true
+     "I",
+     50,
+     [
+      [
+       83,
+       "[Page 231]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00323 - Donations and credits.md",
@@ -2993,18 +2993,11 @@
   },
   {
    "id": "23_324",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 232]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - General Provisions/§ 00324 - Prohibition of discrimination on the basis of sex.md",
    "printed_pages": [
     231,
-    232
+    231
    ]
   },
   {
@@ -3012,27 +3005,38 @@
    "marks": [
     [
      "I",
-     110,
+     16,
      [
       [
-       115,
-       "[Page 233]"
+       81,
+       "[Page 232]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00325 - State assumption of responsibilities for certain programs and projects.md",
    "printed_pages": [
-    232,
-    233
+    231,
+    232
    ]
   },
   {
    "id": "23_326",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       219,
+       "[Page 233]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - General Provisions/§ 00326 - State assumption of responsibility for categorical exclusions.md",
    "printed_pages": [
-    233,
+    232,
     233
    ]
   },
@@ -3040,20 +3044,20 @@
    "id": "23_327",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 234]",
-     true
-    ],
-    [
      "I",
-     138,
+     36,
      [
       [
-       81,
-       "[Page 235]"
+       77,
+       "[Page 234]"
       ]
      ]
+    ],
+    [
+     "L",
+     152,
+     "[Page 235]",
+     true
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00327 - Surface transportation project delivery pilot program.md",
@@ -3073,26 +3077,30 @@
   },
   {
    "id": "23_329",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 236]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - General Provisions/§ 00329 - Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species.md",
    "printed_pages": [
     235,
-    236
+    235
    ]
   },
   {
    "id": "23_-ch4",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       50,
+       "[Page 236]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Highway Safety/README.md",
    "printed_pages": [
-    236,
+    235,
     236
    ]
   },
@@ -3101,36 +3109,32 @@
    "marks": [
     [
      "I",
-     44,
+     52,
      [
       [
-       225,
+       112,
        "[Page 237]"
       ]
      ]
     ],
     [
      "L",
-     182,
+     194,
      "[Page 238]",
      true
     ],
     [
-     "I",
-     268,
-     [
-      [
-       757,
-       "[Page 239]"
-      ]
-     ]
+     "L",
+     272,
+     "[Page 239]",
+     true
     ],
     [
      "I",
-     308,
+     316,
      [
       [
-       268,
+       109,
        "[Page 240]"
       ]
      ]
@@ -3150,7 +3154,7 @@
      2,
      [
       [
-       892,
+       1531,
        "[Page 241]"
       ]
      ]
@@ -3160,24 +3164,20 @@
      38,
      [
       [
-       90,
+       773,
        "[Page 242]"
       ]
      ]
     ],
     [
-     "I",
-     56,
-     [
-      [
-       169,
-       "[Page 243]"
-      ]
-     ]
+     "L",
+     66,
+     "[Page 243]",
+     true
     ],
     [
      "I",
-     106,
+     118,
      [
       [
        112,
@@ -3190,75 +3190,79 @@
      156,
      [
       [
-       761,
+       1771,
        "[Page 245]"
       ]
      ]
     ],
     [
      "I",
-     196,
+     198,
      [
       [
-       209,
+       165,
        "[Page 246]"
       ]
      ]
     ],
     [
-     "L",
-     236,
-     "[Page 247]",
-     true
-    ],
-    [
-     "L",
-     376,
-     "[Page 248]",
-     true
-    ],
-    [
      "I",
-     526,
+     250,
      [
       [
-       258,
-       "[Page 249]"
+       101,
+       "[Page 247]"
       ]
      ]
     ],
     [
      "I",
-     658,
+     402,
      [
       [
-       151,
-       "[Page 250]"
+       94,
+       "[Page 248]"
       ]
      ]
     ],
     [
      "L",
-     772,
-     "[Page 251]",
+     544,
+     "[Page 249]",
+     true
+    ],
+    [
+     "L",
+     674,
+     "[Page 250]",
      true
     ],
     [
      "I",
-     870,
+     790,
      [
       [
-       254,
+       113,
+       "[Page 251]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     886,
+     [
+      [
+       104,
        "[Page 252]"
       ]
      ]
     ],
     [
      "I",
-     942,
+     948,
      [
       [
-       534,
+       535,
        "[Page 253]"
       ]
      ]
@@ -3274,43 +3278,43 @@
    "id": "23_403",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 254]",
-     true
+     "I",
+     26,
+     [
+      [
+       88,
+       "[Page 254]"
+      ]
+     ]
     ],
     [
      "I",
-     74,
+     88,
      [
       [
-       167,
+       110,
        "[Page 255]"
       ]
      ]
     ],
     [
-     "I",
-     144,
-     [
-      [
-       203,
-       "[Page 256]"
-      ]
-     ]
+     "L",
+     158,
+     "[Page 256]",
+     true
     ],
     [
      "L",
-     280,
+     296,
      "[Page 257]",
      true
     ],
     [
      "I",
-     394,
+     398,
      [
       [
-       117,
+       103,
        "[Page 258]"
       ]
      ]
@@ -3327,7 +3331,7 @@
    "marks": [
     [
      "L",
-     20,
+     28,
      "[Page 259]",
      true
     ]
@@ -3342,24 +3346,16 @@
    "id": "23_405",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       138,
-       "[Page 260]"
-      ]
-     ]
+     "L",
+     82,
+     "[Page 260]",
+     true
     ],
     [
-     "I",
-     176,
-     [
-      [
-       314,
-       "[Page 261]"
-      ]
-     ]
+     "L",
+     202,
+     "[Page 261]",
+     true
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00405 - Occupant protection incentive grants.md",
@@ -3373,10 +3369,10 @@
    "marks": [
     [
      "I",
-     50,
+     66,
      [
       [
-       441,
+       221,
        "[Page 262]"
       ]
      ]
@@ -3390,18 +3386,11 @@
   },
   {
    "id": "23_407",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 263]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Highway Safety/§ 00407 - Innovative project grants.md",
    "printed_pages": [
     262,
-    263
+    262
    ]
   },
   {
@@ -3409,18 +3398,24 @@
    "marks": [
     [
      "I",
-     72,
+     4,
      [
       [
-       78,
-       "[Page 264]"
+       86,
+       "[Page 263]"
       ]
      ]
+    ],
+    [
+     "L",
+     82,
+     "[Page 264]",
+     true
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00408 - State traffic safety information system improvements.md",
    "printed_pages": [
-    263,
+    262,
     264
    ]
   },
@@ -3437,50 +3432,42 @@
    "id": "23_410",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       302,
-       "[Page 265]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 265]",
+     true
+    ],
+    [
+     "L",
+     98,
+     "[Page 266]",
+     true
+    ],
+    [
+     "L",
+     178,
+     "[Page 267]",
+     true
     ],
     [
      "I",
-     82,
+     264,
      [
       [
-       99,
-       "[Page 266]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     164,
-     [
-      [
-       82,
-       "[Page 267]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     260,
-     [
-      [
-       57,
+       327,
        "[Page 268]"
       ]
      ]
     ],
     [
-     "L",
-     342,
-     "[Page 269]",
-     true
+     "I",
+     356,
+     [
+      [
+       94,
+       "[Page 269]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00410 - Alcohol-impaired driving countermeasures.md",
@@ -3494,7 +3481,7 @@
    "marks": [
     [
      "L",
-     68,
+     82,
      "[Page 270]",
      true
     ]
@@ -3509,10 +3496,14 @@
    "id": "23_412",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 271]",
-     true
+     "I",
+     44,
+     [
+      [
+       169,
+       "[Page 271]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00412 - Agency accountability.md",
@@ -3544,102 +3535,98 @@
    "marks": [
     [
      "L",
-     20,
+     40,
      "[Page 272]",
      true
     ],
     [
      "I",
-     130,
+     138,
      [
       [
-       77,
+       122,
        "[Page 273]"
       ]
      ]
     ],
     [
-     "I",
-     210,
-     [
-      [
-       387,
-       "[Page 274]"
-      ]
-     ]
+     "L",
+     218,
+     "[Page 274]",
+     true
     ],
     [
      "L",
-     316,
+     332,
      "[Page 275]",
      true
     ],
     [
+     "L",
+     422,
+     "[Page 276]",
+     true
+    ],
+    [
      "I",
-     404,
+     534,
      [
       [
-       156,
-       "[Page 276]"
+       205,
+       "[Page 277]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     668,
+     [
+      [
+       164,
+       "[Page 278]"
       ]
      ]
     ],
     [
      "L",
-     514,
-     "[Page 277]",
+     790,
+     "[Page 279]",
      true
     ],
     [
      "L",
-     658,
-     "[Page 278]",
-     true
-    ],
-    [
-     "I",
-     772,
-     [
-      [
-       235,
-       "[Page 279]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     896,
+     900,
      "[Page 280]",
      true
     ],
     [
-     "I",
-     1022,
-     [
-      [
-       96,
-       "[Page 281]"
-      ]
-     ]
+     "L",
+     1034,
+     "[Page 281]",
+     true
     ],
     [
      "L",
-     1130,
+     1140,
      "[Page 282]",
      true
     ],
     [
-     "L",
-     1268,
-     "[Page 283]",
-     true
+     "I",
+     1282,
+     [
+      [
+       92,
+       "[Page 283]"
+      ]
+     ]
     ],
     [
      "I",
-     1384,
+     1390,
      [
       [
-       351,
+       221,
        "[Page 284]"
       ]
      ]
@@ -3656,16 +3643,16 @@
    "marks": [
     [
      "L",
-     84,
+     98,
      "[Page 285]",
      true
     ],
     [
      "I",
-     176,
+     182,
      [
       [
-       76,
+       98,
        "[Page 286]"
       ]
      ]
@@ -3682,35 +3669,27 @@
    "marks": [
     [
      "L",
-     16,
+     38,
      "[Page 287]",
      true
     ],
     [
      "L",
-     130,
+     146,
      "[Page 288]",
      true
     ],
     [
-     "I",
-     234,
-     [
-      [
-       77,
-       "[Page 289]"
-      ]
-     ]
+     "L",
+     248,
+     "[Page 289]",
+     true
     ],
     [
-     "I",
-     332,
-     [
-      [
-       254,
-       "[Page 290]"
-      ]
-     ]
+     "L",
+     336,
+     "[Page 290]",
+     true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00504 - Training and education.md",
@@ -3723,10 +3702,14 @@
    "id": "23_505",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 291]",
-     true
+     "I",
+     30,
+     [
+      [
+       83,
+       "[Page 291]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00505 - State planning and research.md",
@@ -3740,7 +3723,7 @@
    "marks": [
     [
      "L",
-     26,
+     44,
      "[Page 292]",
      true
     ]
@@ -3756,10 +3739,10 @@
    "marks": [
     [
      "I",
-     48,
+     52,
      [
       [
-       110,
+       568,
        "[Page 293]"
       ]
      ]
@@ -3776,56 +3759,56 @@
    "marks": [
     [
      "L",
-     86,
+     102,
      "[Page 294]",
-     true
-    ],
-    [
-     "L",
-     170,
-     "[Page 295]",
      true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00508 - Transportation research and development strategic planning.md",
    "printed_pages": [
     293,
-    295
+    294
    ]
   },
   {
    "id": "23_509",
    "marks": [
     [
-     "L",
-     134,
-     "[Page 296]",
-     true
+     "I",
+     12,
+     [
+      [
+       174,
+       "[Page 295]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00509 - National cooperative freight transportation research program.md",
    "printed_pages": [
-    295,
-    296
+    294,
+    295
    ]
   },
   {
    "id": "23_510",
    "marks": [
     [
-     "I",
-     98,
-     [
-      [
-       131,
-       "[Page 297]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 296]",
+     true
+    ],
+    [
+     "L",
+     104,
+     "[Page 297]",
+     true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00510 - Future strategic highway research program.md",
    "printed_pages": [
-    296,
+    295,
     297
    ]
   },
@@ -3842,30 +3825,30 @@
    "id": "23_512",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 298]",
-     true
-    ],
-    [
-     "L",
-     170,
-     "[Page 299]",
-     true
-    ],
-    [
      "I",
-     296,
+     60,
      [
       [
-       137,
-       "[Page 300]"
+       100,
+       "[Page 298]"
       ]
      ]
     ],
     [
      "L",
-     436,
+     190,
+     "[Page 299]",
+     true
+    ],
+    [
+     "L",
+     322,
+     "[Page 300]",
+     true
+    ],
+    [
+     "L",
+     456,
      "[Page 301]",
      true
     ]
@@ -3878,30 +3861,30 @@
   },
   {
    "id": "23_513",
+   "marks": [],
+   "path": "Chapter 005 - Research, Technology, and Education/§ 00513 - Use of funds for ITS activities.md",
+   "printed_pages": [
+    301,
+    301
+   ]
+  },
+  {
+   "id": "23_-ch6",
    "marks": [
     [
      "I",
-     14,
+     13,
      [
       [
-       110,
+       44,
        "[Page 302]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Research, Technology, and Education/§ 00513 - Use of funds for ITS activities.md",
-   "printed_pages": [
-    301,
-    302
-   ]
-  },
-  {
-   "id": "23_-ch6",
-   "marks": [],
    "path": "Chapter 006 - Infrastructure Finance/README.md",
    "printed_pages": [
-    302,
+    301,
     302
    ]
   },
@@ -3910,19 +3893,19 @@
    "marks": [
     [
      "L",
-     84,
+     96,
      "[Page 303]",
      true
     ],
     [
      "L",
-     192,
+     196,
      "[Page 304]",
      true
     ],
     [
      "I",
-     312,
+     316,
      [
       [
        109,
@@ -3932,7 +3915,7 @@
     ],
     [
      "I",
-     410,
+     414,
      [
       [
        106,
@@ -4091,6 +4074,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2005-title23 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2006-title23 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 23 - Highways"
 }

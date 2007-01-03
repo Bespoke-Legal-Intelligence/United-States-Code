@@ -252,7 +252,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Short Title of 2004 Amendment
 
@@ -320,7 +320,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: “Congres
 
 &emsp;“(1) The United States has revolutionized the way people travel, developing new technologies and aircraft to move people more efficiently and more safely.
 
-&emsp;“(2) Past Federal investment in aeronautics research and development has benefited the economyand national security of the United States and the quality of life of its citizens.
+&emsp;“(2) Past Federal investment in aeronautics research and development has benefited the economy and national security of the United States and the quality of life of its citizens.
 
 &emsp;“(3) The total impact of civil aviation on the United States economy exceeds $900,000,000,000 annually and accounts for 9 percent of the gross national product and 11,000,000 jobs in the national workforce. Civil aviation products and services generate a significant surplus for United States trade accounts, and amount to significant numbers of the Nation's highly skilled, technologically qualified work force.
 
@@ -606,7 +606,7 @@ Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided 
 
 #### Air Transportation Safety and System Stabilization
 
-Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201,Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286, provided that:
+Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -800,7 +800,7 @@ Secretarial Oversight.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, the Secretary is authorized to require an air carrier receiving direct financial assistance under this Act to maintain scheduled air service to any point served by that carrier before September 11, 2001.
+In general.—Notwithstanding any other provision of law, the Secretary is authorized to require an air carrier receiving direct financial assistance underthis Act to maintain scheduled air service to any point served by that carrier before September 11, 2001.
 
 &emsp;“(2)
 
@@ -864,7 +864,7 @@ Conforming Amendment.—\[Amended section 44305(b) of this title.\]
 
 #### “SEC. 202. EXTENSION OF PROVISIONS TO VENDORS, AGENTS, AND SUBCONTRACTORS OF AIR CARRIERS.
 
-“Notwithstanding any other provision of this title, the Secretary may extend any provision of chapter 443 of title 49, United States Code, as amended by this title, and the provisions of this title, to vendors, agents, and subcontractors of air carriers. For the 180-day period beginning on the date of enactment of thisAct \[Sept. 22, 2001\], the Secretary may extend or amend any such provisions so as to ensure that the entities referred to in the preceding sentence are not responsible in cases of acts of terrorism for losses suffered by third parties that exceed the amount of such entities’ liability coverage, as determined by the Secretary.
+“Notwithstanding any other provision of this title, the Secretary may extend any provision of chapter 443 of title 49, United States Code, as amended by this title, and the provisions of this title, to vendors, agents, and subcontractors of air carriers. For the 180-day period beginning on the date of enactment of this Act \[Sept. 22, 2001\], the Secretary may extend or amend any such provisions so as to ensure that the entities referred to in the preceding sentence are not responsible in cases of acts of terrorism for losses suffered by third parties that exceed the amount of such entities’ liability coverage, as determined by the Secretary.
 
 #### “TITLE III—TAX PROVISIONS
 
@@ -1078,7 +1078,7 @@ In general.—Upon the submission of a claim under this title, the claimant waiv
 
 &emsp;&emsp;&emsp;“(ii)
 
-Pending actions.—In the case of an individual who is a party to a civil action described in clause (i), such individual may not submit a claim under this title unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407.
+Pending actions.—In the case of an individual who is a party to a civil action described in clause (i), such individual may not submit aclaim under this title unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407.
 
 #### “SEC. 406. PAYMENTS TO ELIGIBLE INDIVIDUALS.
 
@@ -1128,7 +1128,7 @@ Liability limited to insurance coverage.—Notwithstanding any other provision o
 
 &emsp;“(2)
 
-Willful defaults on rebuilding obligation.—Paragraph (1) does not apply to any such person with a property interest in the World Trade Center if the Attorney General determines, after notice and an opportunity for a hearing on the record, that the person has defaulted willfully on a contractualobligation to rebuild, or assist in the rebuilding of, the World Trade Center.
+Willful defaults on rebuilding obligation.—Paragraph (1) does not apply to any such person with a property interest in the World Trade Center if the Attorney General determines, after notice and an opportunity for a hearing on the record, that the person has defaulted willfully on a contractual obligation to rebuild, or assist in the rebuilding of, the World Trade Center.
 
 &emsp;“(3)
 
@@ -1418,7 +1418,7 @@ Contents.—The report submitted by the aviation funding task force under clause
 
 &emsp;&emsp;“(B)
 
-Recommendations.—The aviation funding task force shall make such recommendations under subparagraph (A)(ii)(III) as the task force deems appropriate. Those recommendations may include—
+Recommendations.—The aviation funding task force shall make such recommendations undersubparagraph (A)(ii)(III) as the task force deems appropriate. Those recommendations may include—
 
 &emsp;&emsp;&emsp;“(i) proposals for off-budget treatment of the Airport and Airway Trust Fund;
 
@@ -1800,7 +1800,7 @@ Application of Act.—This Act shall not apply with respect to civil actions com
 
 #### National Commission to Ensure a Strong Competitive Airline Industry
 
-Pub. L. 102–581, title II, §204, Oct. 31, 1992, 106 Stat. 4891, as amended Pub. L. 103–13, §1, Apr. 7, 1993, 107Stat. 43, provided for establishment of National Commission to Ensure a Strong Competitive Airline Industry to make a complete investigation and study of financial condition of the airline industry, adequacy of competition in the airline industry, and legal impediments to a financially strong and competitive airline industry, to report to President and Congress not later than 90 days after the date on which initial appointments of members to the Commission were completed, and to terminate on the 30th day following transmission of report.
+Pub. L. 102–581, title II, §204, Oct. 31, 1992, 106 Stat. 4891, as amended Pub. L. 103–13, §1, Apr. 7, 1993, 107 Stat. 43, provided for establishment of National Commission to Ensure a Strong Competitive Airline Industry to make a complete investigation and study of financial condition of the airline industry, adequacy of competition in the airline industry, and legal impediments to a financially strong and competitive airline industry, to report to President and Congress not later than 90 days after the date on which initial appointments of members to the Commission were completed, and to terminate on the 30th day following transmission of report.
 
 #### Definitions of Terms in Pub. L. 107–71
 

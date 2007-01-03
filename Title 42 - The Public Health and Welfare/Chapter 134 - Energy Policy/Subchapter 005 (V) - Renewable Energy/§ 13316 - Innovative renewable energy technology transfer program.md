@@ -34,7 +34,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 (1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
 
-&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies,and services related thereto, in developing countries;
+&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies, and services related thereto, in developing countries;
 
 &emsp;(B) utilize available financial assistance authorized by this section to counterbalance assistance provided by foreign governments to non-United States firms; and
 
@@ -64,7 +64,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (f) Assistance to United States firms
 
-Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms underthis section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
 
 #### (g) Other program requirements
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (m) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+There are authorized to be appropriated to the Secretary to carry out the program required bythis section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
 
 (Pub. L. 102–486, title XII, §1211, Oct. 24, 1992, 106 Stat. 2965.)
 

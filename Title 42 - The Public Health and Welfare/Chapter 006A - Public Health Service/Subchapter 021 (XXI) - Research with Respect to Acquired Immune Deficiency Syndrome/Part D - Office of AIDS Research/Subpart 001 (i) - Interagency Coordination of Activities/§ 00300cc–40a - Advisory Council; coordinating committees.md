@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in addition to the ex officio members specified in section 284a(b)(2) of this title, there shall serve as such members of the Advisory Council a representative from the advisory council of each of the National Cancer Institute and the National Institute on Allergy and Infectious Diseases; and
 
-&emsp;&emsp;(B) with respect to the other national research institutes, there shall serve as ex officio members of such Council, in addition tosuch members specified in subparagraph (A), a representative from the advisory council of each of the 2 institutes that receive the greatest funding for AIDS activities.
+&emsp;&emsp;(B) with respect to the other national research institutes, there shall serve as ex officio members of such Council, in addition to such members specified in subparagraph (A), a representative from the advisory council of each of the 2 institutes that receive the greatest funding for AIDS activities.
 
 #### (b) Individual coordinating committees regarding research disciplines
 

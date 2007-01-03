@@ -8,7 +8,7 @@
 
 &emsp;(C) that provides adequate protection directly to a creditor holding an allowed claim secured by personal property to the extent the claim is attributable to the purchase of such property by the debtor for that portion of the obligation that becomes due after the order for relief, reducing the payments under subparagraph (A) by the amount so paid and providing the trustee with evidence of such payment, including the amount and date of payment.
 
-(2) A payment made under paragraph (1)(A) shall be retained by the trustee until confirmation or denial of confirmation. If a plan is confirmed, the trustee shall distribute any suchpayment in accordance with the plan as soon as is practicable. If a plan is not confirmed, the trustee shall return any such payments not previously paid and not yet due and owing to creditors pursuant to paragraph (3) to the debtor, after deducting any unpaid claim allowed under section 503(b).
+(2) A payment made under paragraph (1)(A) shall be retained by the trustee until confirmation or denial of confirmation. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as is practicable. If a plan is not confirmed, the trustee shall return any such payments not previously paid and not yet due and owing to creditors pursuant to paragraph (3) to the debtor, after deducting any unpaid claim allowed under section 503(b).
 
 (3) Subject to section 363, the court may, upon notice and a hearing, modify, increase, or reduce the payments required under this subsection pending confirmation of a plan.
 
@@ -48,7 +48,7 @@ Section 1326(a)(2) of the House amendment adopts a comparable provision containe
 
 #### senate report no. 95–989
 
-Section 1326 supplements the priorities provisions of section 507. Subsection (a) requires accrued costs of administration and filing fees, as well as fees due the chapter 13 trustee, to be disbursed before payments to creditors under the plan. Subsection (b) makes it clear that the chapter 13 trustee is normally to make distribution to creditors of the payments made under the plan by the debtor.
+Section 1326 supplements the priorities provisions of section 507. Subsection (a) requires accrued costs of administration and filing fees, as well as fees due the chapter 13 trustee, to be disbursed before payments tocreditors under the plan. Subsection (b) makes it clear that the chapter 13 trustee is normally to make distribution to creditors of the payments made under the plan by the debtor.
 
 #### house report no. 95–595
 
@@ -99,4 +99,8 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b)(3) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 

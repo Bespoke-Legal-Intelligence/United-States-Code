@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 96–513, §506(6)(B), (C), struck out reference to section
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VI, §687(a)(2), Jan. 6, 2006, 119 Stat. 3327, provided that: “In the case of a provision of law amended by subsection (b), (c), or (d) of this section \[amending sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of this title, sections 510, 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of Title 10, Armed Forces, and section 182 of Title 14, Coast Guard\], paragraph (3) of subsection (a)\[e\] of section 303a of title 37, United States Code, as added by this subsection, shall apply to any case commenced under title 11, United States Code, after March 30, 2006.”
+Pub. L. 109–163, div. A, title VI, §687(a)(2), Jan. 6, 2006, 119 Stat. 3327, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(6), Oct. 17, 2006, 120 Stat. 2401, provided that: “In the case of a provision of law amended by subsection (b), (c), or (d) of this section \[amending sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of this title, sections 510, 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of Title 10, Armed Forces, and section 182 of Title 14, Coast Guard\], paragraph (3) of subsection (e) of section 303a of title 37, United States Code, as added by this subsection, shall apply to any case commenced under title 11, United States Code, after March 30, 2006.”
 
 #### Effective Date of 1987 Amendment
 

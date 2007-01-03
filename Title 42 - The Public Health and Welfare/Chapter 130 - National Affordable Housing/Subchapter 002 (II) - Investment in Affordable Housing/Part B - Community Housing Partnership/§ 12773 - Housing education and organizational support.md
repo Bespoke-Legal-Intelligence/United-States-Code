@@ -50,7 +50,7 @@ The Secretary shall provide this assistance only through contract—
 
 &emsp;&emsp;(A) customarily provides, in more than one community, services related to the provision of decent housing that is affordable to low-income and moderate-income persons or the revitalization of deteriorating neighborhoods;
 
-&emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing,technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
+&emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing, technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
 
 &emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training for community-based developers of affordable housing;
 

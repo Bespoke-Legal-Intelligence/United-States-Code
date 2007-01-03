@@ -16,7 +16,7 @@ The Secretary shall establish a program, including a uniform health professions 
 
 #### (3) Grants and contracts regarding States
 
-&emsp;The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in any State) for the purpose of participating in the program established under subsection (a) of this section. The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
+&emsp;The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in anyState) for the purpose of participating in the program established under subsection (a) of this section. The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
 
 &emsp;&emsp;(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) of this section who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
 
@@ -42,7 +42,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 &emsp;&emsp;(B) upon request, inform any individual if he is the subject of personal data secured or maintained by the Secretary or program entity, as the case may be, and make the data available to him in a form comprehensible to him;
 
-&emsp;&emsp;(C) assure that no use is made of personal data which use is not within the purposes ofthis section unless an informed consent has been obtained from the individual who is the subject of such data; and
+&emsp;&emsp;(C) assure that no use is made of personal data which use is not within the purposes of this section unless an informed consent has been obtained from the individual who is the subject of such data; and
 
 &emsp;&emsp;(D) upon request, inform any individual of the use being made of personal data respecting such individual and of the identity of the individuals and entities which will use the data and their relationship to the programs under this section.
 
@@ -104,7 +104,7 @@ Section 301 of Pub. L. 102–408, as amended by Pub. L. 102–531, title III, §
 
 #### Commission on Allied Health
 
-Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a finalreport due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
+Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
 
 #### Study Regarding Shortage of Clinical Laboratory Technologists for Medically Underserved and Rural Communities
 

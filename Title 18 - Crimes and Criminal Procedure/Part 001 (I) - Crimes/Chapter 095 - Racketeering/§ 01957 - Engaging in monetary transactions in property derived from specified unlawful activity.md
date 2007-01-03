@@ -12,9 +12,9 @@
 
 &emsp;(1) that the offense under this section takes place in the United States or in the special maritime and territorial jurisdiction of the United States; or
 
-&emsp;(2) that the offense under this section takes place outside the United States and such special jurisdiction, but the defendant is a UnitedStates person (as defined in section 3077 of this title, but excluding the class described in paragraph (2)(D) of such section).
+&emsp;(2) that the offense under this section takes place outside the United States and such special jurisdiction, but the defendant is a United States person (as defined in section 3077 of this title, but excluding the class described in paragraph (2)(D) of such section).
 
-(e) Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.
+(e) Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate, and, with respect to offenses over which the Department of Homeland Security has jurisdiction, by such components of the Department of Homeland Security as the Secretary of Homeland Security may direct, and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury, the Secretary of Homeland Security, and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Secretary of Homeland Security, the Postal Service, and the Attorney General.
 
 (f) As used in this section—
 
@@ -24,9 +24,11 @@
 
 &emsp;(3) the term “specified unlawful activity” has the meaning given that term in section 1956 of this title.
 
-(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690, title VI, §§6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, §330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §413(c)(2), Sept. 23, 1994, 108 Stat. 2255.)
+(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690, title VI, §§6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, §330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §413(c)(2), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–177, title IV, §403(c)(2), Mar. 9, 2006, 120 Stat. 243.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–177 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.”
 
 1994—Subsec. (f)(1). Pub. L. 103–322, §330020, and Pub. L. 103–325, §413(c)(2), amended par. (1) identically, striking out second comma after “(as defined in section 1956 of this title)”.
 

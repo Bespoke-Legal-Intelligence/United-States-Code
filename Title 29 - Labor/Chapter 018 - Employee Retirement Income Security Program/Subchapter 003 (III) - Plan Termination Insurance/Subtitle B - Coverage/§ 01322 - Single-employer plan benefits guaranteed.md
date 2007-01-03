@@ -2,7 +2,7 @@
 
 #### (a) Nonforfeitable benefits
 
-Subject to the limitations contained in subsection (b) of this section, the corporation shall guarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under asingle-employer plan which terminates at a time when this subchapter applies to it.
+Subject to the limitations contained in subsection (b) of this section, the corporation shall guarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under a single-employer plan which terminates at a time when this subchapter applies to it.
 
 #### (b) Exceptions
 
@@ -20,7 +20,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act \[42 U.S.C. 430\]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
 
-> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
+> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulationsthereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
 
 (4)(A) The actuarial value of a benefit, for purposes of this subsection, shall be determined in accordance with regulations prescribed by the corporation.
 
@@ -32,23 +32,21 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(iii) any non-basic benefit shall be disregarded.
 
-(5)(A) For purposes of this subchapter, the term “substantial owner” means an individual who—
+(5)(A) For purposes of this paragraph, the term “majority owner” means an individual who, at any time during the 60-month period ending on the date the determination is being made—
 
 &emsp;(i) owns the entire interest in an unincorporated trade or business,
 
-&emsp;(ii) in the case of a partnership, is a partner who owns, directly or indirectly, more than 10 percent of either the capital interest or the profits interest in such partnership, or
+&emsp;(ii) in the case of a partnership, is a partner who owns, directly or indirectly, 50 percent or more of either the capital interest or the profits interest in such partnership, or
 
-&emsp;(iii) in the case of a corporation, owns, directly or indirectly, more than 10 percent in value of either the voting stock of that corporation or all the stock of that corporation.
+&emsp;(iii) in the case of a corporation, owns, directly or indirectly, 50 percent or more in value of either the voting stock of that corporation or all the stock of that corporation.
 
-> For purposes of clause (iii) the constructive ownership rules of section 1563(e) of title 26 shall apply (determined without regard to section 1563(e)(3)(C)). For purposes of this subchapter an individual is also treated as a substantial owner with respect to a plan if, at any time within the 60 months preceding the date on which the determination is made, he was a substantial owner under the plan.
+> For purposes of clause (iii), the constructive ownership rules of section 1563(e) of title 26 (other than paragraph (3)(C) thereof) shall apply, including the application of such rules under section 414(c) of title 26.
 
-(B) In the case of a participant in a plan under which benefits have not been increased by reason of any plan amendments and who is covered by the plan as a substantial owner, the amount of benefits guaranteed under this section shall not exceed the product of—
+(B) In the case of a participant who is a majority owner, the amount of benefits guaranteed under this section shall equal the product of—
 
-&emsp;(i) a fraction (not to exceed 1) the numerator of which is the number of years the substantial owner was an active participant in the plan, and the denominator of which is 30, and
+&emsp;(i) a fraction (not to exceed 1) the numerator of which is the number of years from the later of the effective date or the adoption date of the plan to the termination date, and the denominator of which is 10, and
 
-&emsp;(ii) the amount of the substantial owner's monthly benefits guaranteed under subsection (a) of this section (as limited under paragraph (3) of this subsection).
-
-(C) In the case of a participant in a plan, other than a plan described in subparagraph (B), who is covered by the plan as a substantial owner, the amount of the benefit guaranteed under this section shall, under regulations prescribed by the corporation, treat each benefit increase attributable to a plan amendment as if it were provided under a new plan. The benefits guaranteed under this section with respect to all such amendments shall not exceed the amount which would be determined under subparagraph (B) if subparagraph (B) applied.
+&emsp;(ii) the amount of benefits that would be guaranteed under this section if the participant were not a majority owner.
 
 (6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that such trust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
 
@@ -62,6 +60,8 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 > multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect for purposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
 
+(8) If an unpredictable contingent event benefit (as defined in section 1056(g)(1) of this title) is payable by reason of the occurrence of any event, this section shall be applied as if a plan amendment had been adopted on the date such event occurred.
+
 #### (c) Payment by corporation to participants and beneficiaries of recovery percentage of outstanding amount of benefit liabilities
 
 (1) In addition to benefits paid under the preceding provisions of this section with respect to a terminated plan, the corporation shall pay the portion of the amount determined under paragraph (2) which is allocated with respect to each participant under section 1344(a) of this title. Such payment shall be made to such participant or to such participant's beneficiaries (including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
@@ -72,17 +72,19 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(B) the applicable recovery ratio.
 
-(3)(A) Except as provided in subparagraph (C), for purposes of this subsection, the term “recovery ratio” means the average ratio, with respect to prior plan terminations described in subparagraph (B), of—
+(3)(A)
 
-&emsp;(i) the value of the recovery of the corporation under section 1362, 1363, or 1364 of this title in connection with such prior terminations, to
+In general.—Except as provided in subparagraph (C), the term “recovery ratio” means the ratio which—
 
-&emsp;(ii) the amount of unfunded benefit liabilities under such plans as of the termination date in connection with such prior terminations.
+&emsp;(i) the sum of the values of all recoveries under section 1362, 1363, or 1364 of this title, determined by the corporation in connection with plan terminations described under subparagraph (B), bears to
+
+&emsp;(ii) the sum of all unfunded benefit liabilities under such plans as of the termination date in connection with any such prior termination.
 
 (B) A plan termination described in this subparagraph is a termination with respect to which—
 
 &emsp;(i) the corporation has determined the value of recoveries under section 1362, 1363, or 1364 of this title, and
 
-&emsp;(ii) notices of intent to terminate were provided after December 17, 1987, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined.
+&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
 
 (C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term “recovery ratio” means, with respect to the termination of such plan, the ratio of—
 
@@ -104,13 +106,51 @@ For purposes of subsection (a) of this section, a qualified preretirement surviv
 
 For purposes of this section, the effective date of a plan amendment described in section 1054(i)(1) of this title shall be the effective date of the plan of reorganization of the employer described in section 1054(i)(1) of this title or, if later, the effective date stated in such amendment.
 
-(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049.)
+#### (g) Bankruptcy filing substituted for termination date
+
+If a contributing sponsor of a plan has filed or has had filed against such person a petition seeking liquidation or reorganization in a case under title 11 or under any similar Federal law or law of a State or political subdivision, and the case has not been dismissed as of the termination date of the plan, then this section shall be applied by treating the date such petition was filed as the termination date of the plan.
+
+#### (h) Special rule for plans electing certain funding requirements
+
+If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006 and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
+
+&emsp;(1) this section shall be applied—
+
+&emsp;&emsp;(A) by treating the first day of the first applicable plan year as the termination date of the plan, and
+
+&emsp;&emsp;(B) by determining the amount of guaranteed benefits on the basis of plan assets and liabilities as of such assumed termination date, and
+
+&emsp;(2) notwithstanding section 1344(a) of this title, plan assets shall first be allocated to pay the amount, if any, by which—
+
+&emsp;&emsp;(A) the amount of guaranteed benefits under this section (determined without regard to paragraph (1) and on the basis of plan assets and liabilities as of the actual date of plan termination), exceeds
+
+&emsp;&emsp;(B) the amount determined under paragraph (1).
+
+(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049; Pub. L. 109–280, title IV, §§402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, 120 Stat. 926, 928, 929, 931.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+Section 402(a)(1) of the Pension Protection Act of 2006, referred to in subsec. (h), is section 402(a)(1) of Pub. L. 109–280, which is set out as a note under section 430 of Title 26, Internal Revenue Code.
+
 #### Amendments
+
+2006—Subsec. (b)(5). Pub. L. 109–280, §407(a), amended par. (5) generally. Prior to amendment, par. (5) related to the amount of benefits guaranteed under this section in the case of a participant in a plan who was covered by the plan as a substantial owner.
+
+Subsec. (b)(8). Pub. L. 109–280, §403(a), added par. (8).
+
+Subsec. (c)(3)(A). Pub. L. 109–280, §408(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Except as provided in subparagraph (C), for purposes of this subsection, the term ‘recovery ratio’ means the average ratio, with respect to prior plan terminations described in subparagraph (B), of—
+
+&emsp;“(i) the value of the recovery of the corporation under section 1362, 1363, or 1364 of this title in connection with such prior terminations, to
+
+&emsp;“(ii) the amount of unfunded benefit liabilities under such plans as of the termination date in connection with such prior terminations.”
+
+Subsec. (c)(3)(B)(ii). Pub. L. 109–280, §408(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “notices of intent to terminate were provided after December 17, 1987, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined.”
+
+Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this section, as amended by Pub. L. 109–280, by adding subsec. (g) at the end, was executed by adding subsec. (g) after subsec. (f) and before subsec. (h) to reflect the probable intent of Congress.
+
+Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
 1994—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end “The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.”
 
@@ -138,6 +178,18 @@ Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
 Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted “(7)” for “(8)”, struck out par. (5) relating to receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by section 402(g)(2)(A) of Pub. L. 109–280 applicable to plan years ending after Aug. 17, 2006, see section 402(j) of Pub. L. 109–280, set out as a Special Funding Rules for Certain Plans Maintained by Commercial Airlines note under section 430 of Title 26, Internal Revenue Code.
+
+Pub. L. 109–280, title IV, §403(b), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendment made by this section \[amending this section\] shall apply to benefits that become payable as a result of an event which occurs after July 26, 2005.”
+
+Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendments made this section \[amending this section and section 1344 of this title\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\].”
+
+Amendment by section 407(a) of Pub. L. 109–280 applicable to plan terminations under section 1341(c) of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 31, 2005, and under section 1342 of this title with respect to which notices of determination are provided under such section after such date, see section 407(d)(1) of Pub. L. 109–280, set out as a note under section 1321 of this title.
+
+Pub. L. 109–280, title IV, §408(c), Aug. 17, 2006, 120 Stat. 932, provided that: “The amendments made by this section \[amending this section and section 1344 of this title\] shall apply for any termination for which notices of intent to terminate are provided (or in the case of a termination by the corporation, a notice of determination under section 4042 under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1342\] is issued) on or after the date which is 30 days after the date of enactment of this section \[Aug. 17, 2006\].”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8, 1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
@@ -150,7 +202,7 @@ Amendment by section 7881(f)(4), (5), (11) of Pub. L. 101–239 effective, excep
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7894(g)(1), (3)(B) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7894(g)(1), (3)(B) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) ofPub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1987 Amendment
 

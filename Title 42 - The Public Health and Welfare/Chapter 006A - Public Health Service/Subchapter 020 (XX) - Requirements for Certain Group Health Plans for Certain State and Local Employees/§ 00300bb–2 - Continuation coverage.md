@@ -110,7 +110,7 @@ Par. (2)(A). Pub. L. 99–514, §1895(d)(2)(C), amended subpar. (A) generally. P
 
 Maximum period.—In the case of—
 
-&emsp;“(i) a qualifying event described in section 300bb–3(2) of this title (relating to terminations and reduced hours), the date which is 18 months after the date of the qualifying event, and
+&emsp;“(i) a qualifying event described in section 300bb–3(2) of this title (relating to terminations andreduced hours), the date which is 18 months after the date of the qualifying event, and
 
 &emsp;“(ii) any qualifying event not described in clause (i), the date which is 36 months after the date of the qualifying event.”
 

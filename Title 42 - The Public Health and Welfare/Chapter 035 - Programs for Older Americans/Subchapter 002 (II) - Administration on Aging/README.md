@@ -18,7 +18,7 @@
 - [&sect; 03020 - Advance funding](%C2%A7%2003020%20-%20Advance%20funding.md)
 - [&sect; 03020a - Application of other laws; costs of projects under this chapter not treated as income or benefits under other laws](%C2%A7%2003020a%20-%20Application%20of%20other%20laws%3B%20costs%20of%20projects%20under%20this%20chapter%20not%20treated%20as%20income%20or%20benefits%20under%20other%20laws.md)
 - [&sect; 03020b - Reduction of paperwork](%C2%A7%2003020b%20-%20Reduction%20of%20paperwork.md)
-- [&sect; 03020c - Contracting and grant authority](%C2%A7%2003020c%20-%20Contracting%20and%20grant%20authority.md)
+- [&sect; 03020c - Contracting and grant authority; private pay relationships; appropriate use of funds](%C2%A7%2003020c%20-%20Contracting%20and%20grant%20authority%3B%20private%20pay%20relationships%3B%20appropriate%20use%20of%20funds.md)
 - [&sect; 03020d - Surplus property eligibility](%C2%A7%2003020d%20-%20Surplus%20property%20eligibility.md)
 - [&sect; 03020e - Nutrition education](%C2%A7%2003020e%20-%20Nutrition%20education.md)
 - [&sect; 03020e&#8211;1 - Pension counseling and information programs](%C2%A7%2003020e%E2%80%931%20-%20Pension%20counseling%20and%20information%20programs.md)

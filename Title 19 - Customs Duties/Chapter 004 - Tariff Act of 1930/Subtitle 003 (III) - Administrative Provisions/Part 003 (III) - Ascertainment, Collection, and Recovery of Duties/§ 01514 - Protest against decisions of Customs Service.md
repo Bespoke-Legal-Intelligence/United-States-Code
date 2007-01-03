@@ -36,7 +36,7 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(D) any other matter required by the Secretary by regulation.
 
-> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515of this title at any time prior to the disposition of the protest in accordance with that section.
+> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
 
 (2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) of this section by—
 
@@ -86,7 +86,7 @@ If the Bureau of Customs and Border Protection or the Bureau of Immigration and 
 
 If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin set out in section 4033 of this title, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the Dominican Republic-Central America-United States Free Trade Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until the Bureau of Customs and Border Protection determines that representations of that person are in conformity with such section 4033 of this title.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171.)
 
 #### Amendment of Section
 
@@ -115,6 +115,8 @@ Provisions that the decision of the collector as to duties, including dutiable c
 Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, 26 Stat. 141.
 
 #### Amendments
+
+2006—Subsec. (c)(3). Pub. L. 109–280 realigned margins of concluding provisions.
 
 2005—Subsec. (h). Pub. L. 109–53, §§107(d), 206(b), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
 
@@ -180,6 +182,10 @@ Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) a
 
 1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+
 #### Effective and Termination Dates of 2005 Amendment
 
 Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
@@ -228,7 +234,7 @@ Amendment by section 208 of Pub. L. 103–182 to be made after amendment by sect
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
@@ -258,7 +264,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

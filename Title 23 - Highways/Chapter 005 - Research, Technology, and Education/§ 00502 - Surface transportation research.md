@@ -136,7 +136,7 @@ Federal share.—
 
 &emsp;&emsp;(A)
 
-In general.—The Federal share of the cost of activities carried out under a cooperative research and development agreement entered into under this subsection shall not exceed 50 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
+In general.—The Federal share of the cost of activities carried out under a cooperative research and development agreemententered into under this subsection shall not exceed 50 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
 
 &emsp;&emsp;(B)
 
@@ -392,10 +392,6 @@ Subsec. (i). Pub. L. 109–59, §5201(<i>l</i>), added subsec. (i).
 
 Subsec. (j). Pub. L. 109–59, §5202(a)(1), added subsec. (j).
 
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
 #### Transportation Safety Information Management System Project
 
 Pub. L. 109–59, title V, §5501, Aug. 10, 2005, 119 Stat. 1820, provided that:
@@ -536,7 +532,7 @@ Program Stages.—
 
 &emsp;“(1)
 
-First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatial information technologies in national transportation infrastructure development and construction.
+First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatialinformation technologies in national transportation infrastructure development and construction.
 
 &emsp;“(2)
 
@@ -670,7 +666,7 @@ Objectives.—The objectives of the program are—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to aggregate data into reports for multipoint data distribution techniques; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by an entity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by anentity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
 
 &emsp;&emsp;“(C)
 
@@ -1020,7 +1016,7 @@ Special rule.—Any survey, questionnaire, or interview that the Secretary consi
 
 “(k)
 
-Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3)and 5117(b)(6) \[set out above\] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety.
+Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3) and 5117(b)(6) \[set out above\] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety.
 
 #### “SEC. 5205. NATIONAL ITS PROGRAM PLAN.
 
@@ -1284,7 +1280,7 @@ In general.—The Secretary shall continue to support the Urban Consortium's ITS
 
 &emsp;“(2)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
 
 “(c)
 
@@ -1342,7 +1338,7 @@ Reports.—The advisory committee shall, within 1 year after the date of establi
 
 “(i)
 
-Termination.—Section 14 of the Federal Advisory Committee Act \[5 App. U.S.C.\] shall not apply to the advisory committee established under this section.”
+Termination.—Section 14 of the Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the advisory committee established under this section.”
 
 #### Fundamental Properties of Asphalts and Modified Asphalts
 
@@ -1382,7 +1378,7 @@ Funding.—For the purposes of construction activities related to this test stri
 
 &emsp;“(3)
 
-Report to congress.—Not later than November 30, 1995, the Administrator shall transmit to Congress as part of a report under subsection (e) the Administrator's findings on activities conducted under this subsection, including an evaluation of the test strip implemented under this subsection and recommendations for legislation to establish a nationalprogram to support United States transportation and energy security requirements.
+Report to congress.—Not later than November 30, 1995, the Administrator shall transmit to Congress as part of a report under subsection (e) the Administrator's findings on activities conducted under this subsection, including an evaluation of the test strip implemented under this subsection and recommendations for legislation to establish a national program to support United States transportation and energy security requirements.
 
 “(e)
 
@@ -1392,7 +1388,7 @@ Annual Report to Congress.—Not later than 180 days after the date of the enact
 
 Authorization of Appropriations.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title \[probably means section 104(a) of Title 23, Highways\] at least $3,000,000 for each of fiscal years 1992, 1993, 1994, 1995, and 1996 to carry out subsection (b).”
 
-\[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 139 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title31, Money and Finance, and page 139 of House Document No. 103–7.\]
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 

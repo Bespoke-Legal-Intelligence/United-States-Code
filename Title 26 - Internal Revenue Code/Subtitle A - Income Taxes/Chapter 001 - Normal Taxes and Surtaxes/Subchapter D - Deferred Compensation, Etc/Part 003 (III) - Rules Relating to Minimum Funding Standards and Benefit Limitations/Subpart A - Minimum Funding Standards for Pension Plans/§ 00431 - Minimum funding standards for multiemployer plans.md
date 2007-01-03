@@ -1,0 +1,378 @@
+### §431. Minimum funding standards for multiemployer plans
+
+#### (a) In general
+
+For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is—
+
+&emsp;(1) except as provided in paragraph (2), the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years, and
+
+&emsp;(2) if the multiemployer plan is in reorganization for any plan year, the accumulated funding deficiency of the plan determined under section 4243 of the Employee Retirement Income Security Act of 1974.
+
+#### (b) Funding standard account
+
+#### (1) Account required
+
+&emsp;Each multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
+
+#### (2) Charges to account
+
+&emsp;For a plan year, the funding standard account shall be charged with the sum of—
+
+&emsp;&emsp;(A) the normal cost of the plan for the plan year,
+
+&emsp;&emsp;(B) the amounts necessary to amortize in equal annual installments (until fully amortized)—
+
+&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
+
+&emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
+
+&emsp;&emsp;&emsp;(iii) separately, with respect to each plan year, the net experience loss (if any) under the plan, over a period of 15 plan years, and
+
+&emsp;&emsp;&emsp;(iv) separately, with respect to each plan year, the net loss (if any) resulting from changes in actuarial assumptions used under the plan, over a period of 15 plan years,
+
+&emsp;&emsp;(C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 412(c)(3)) for each prior plan year in equal annual installments (until fully amortized) over a period of 15 plan years,
+
+&emsp;&emsp;(D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under section 412(b)(3)(D) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006), and
+
+&emsp;&emsp;(E) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of section 412(c)(7)(A)(i)(I) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006).
+
+#### (3) Credits to account
+
+&emsp;For a plan year, the funding standard account shall be credited with the sum of—
+
+&emsp;&emsp;(A) the amount considered contributed by the employer to or under the plan for the plan year,
+
+&emsp;&emsp;(B) the amount necessary to amortize in equal annual installments (until fully amortized)—
+
+&emsp;&emsp;&emsp;(i) separately, with respect to each plan year, the net decrease (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
+
+&emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net experience gain (if any) under the plan, over a period of 15 plan years, and
+
+&emsp;&emsp;&emsp;(iii) separately, with respect to each plan year, the net gain (if any) resulting from changes in actuarial assumptions used under the plan, over a period of 15 plan years,
+
+&emsp;&emsp;(C) the amount of the waived funding deficiency (within the meaning of section 412(c)(3)) for the plan year, and
+
+&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard under section 412(g) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006), the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
+
+#### (4) Special rule for amounts first amortized in plan years before 2008
+
+&emsp;In the case of any amount amortized under section 412(b) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006) over any period beginning with a plan year beginning before 2008 in lieu of the amortization described in paragraphs (2)(B) and (3)(B), such amount shall continue to be amortized under such section as so in effect.
+
+#### (5) Combining and offsetting amounts to be amortized
+
+&emsp;Under regulations prescribed by the Secretary, amounts required to be amortized under paragraph (2) or paragraph (3), as the case may be—
+
+&emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
+
+&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
+
+#### (6) Interest
+
+&emsp;The funding standard account (and items therein) shall be charged or credited (as determined under regulations prescribed by the Secretary of the Treasury) with interest at the appropriate rate consistent with the rate or rates of interest used under the plan to determine costs.
+
+#### (7) Special rules relating to charges and credits to funding standard account
+
+&emsp;For purposes of this part—
+
+#### (A) Withdrawal liability
+
+&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 shall be considered an amount contributed by the employer to or under the plan. The Secretary may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
+
+#### (B) Adjustments when a multiemployer plan leaves reorganization
+
+&emsp;&emsp;If a multiemployer plan is not in reorganization in the plan year but was in reorganization in the immediately preceding plan year, any balance in the funding standard account at the close of such immediately preceding plan year—
+
+&emsp;&emsp;&emsp;(i) shall be eliminated by an offsetting credit or charge (as the case may be), but
+
+&emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized in equal annual installments (until fully amortized) over 30 plan years.
+
+> &emsp;&emsp;The preceding sentence shall not apply to the extent of any accumulated funding deficiency under section 4243(a) of such Act as of the end of the last plan year that the plan was in reorganization.
+
+#### (C) Plan payments to supplemental program or withdrawal liability payment fund
+
+&emsp;&emsp;Any amount paid by a plan during a plan year to the Pension Benefit Guaranty Corporation pursuant to section 4222 of such Act or to a fund exempt under section 501(c)(22) pursuant to section 4223 of such Act shall reduce the amount of contributions considered received by the plan for the plan year.
+
+#### (D) Interim withdrawal liability payments
+
+&emsp;&emsp;Any amount paid by an employer pending a final determination of the employer's withdrawal liability under part 1 of subtitle E of title IV of such Act and subsequently refunded to the employer by the plan shall be charged to the funding standard account in accordance with regulations prescribed by the Secretary.
+
+#### (E) Election for deferral of charge for portion of net experience loss
+
+&emsp;&emsp;If an election is in effect under section 412(b)(7)(F) (as in effect on the day before thedate of the enactment of the Pension Protection Act of 2006) for any plan year, the funding standard account shall be charged in the plan year to which the portion of the net experience loss deferred by such election was deferred with the amount so deferred (and paragraph (2)(B)(iii) shall not apply to the amount so charged).
+
+#### (F) Financial assistance
+
+&emsp;&emsp;Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section and section 412 in such manner as is determined by the Secretary.
+
+#### (G) Short-term benefits
+
+&emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for “15”.
+
+#### (c) Additional rules
+
+#### (1) Determinations to be made under funding method
+
+&emsp;For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
+
+#### (2) Valuation of assets
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this part, the value of the plan's assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary.
+
+#### (B) Election with respect to bonds
+
+&emsp;&emsp;The value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary.
+
+#### (3) Actuarial assumptions must be reasonable
+
+&emsp;For purposes of this section, all costs, liabilities, rates of interest, and other factors under the plan shall be determined on the basis of actuarial assumptions and methods—
+
+&emsp;&emsp;(A) each of which is reasonable (taking into account the experience of the plan and reasonable expectations), and
+
+&emsp;&emsp;(B) which, in combination, offer the actuary's best estimate of anticipated experience under the plan.
+
+#### (4) Treatment of certain changes as experience gain or loss
+
+&emsp;For purposes of this section, if—
+
+&emsp;&emsp;(A) a change in benefits under the Social Security Act or in other retirement benefits created under Federal or State law, or
+
+&emsp;&emsp;(B) a change in the definition of the term “wages” under section 3121, or a change in the amount of such wages taken into account under regulations prescribed for purposes of section 401(a)(5),
+
+> &emsp;results in an increase or decrease in accrued liability under a plan, such increase or decrease shall be treated as an experience loss or gain.
+
+#### (5) Full funding
+
+&emsp;If, as of the close of a plan year, a plan would (without regard to this paragraph) have an accumulated funding deficiency in excess of the full funding limitation—
+
+&emsp;&emsp;(A) the funding standard account shall be credited with the amount of such excess, and
+
+&emsp;&emsp;(B) all amounts described in subparagraphs (B), (C), and (D) of subsection (b)(2) and subparagraph (B) of subsection (b)(3) which are required to be amortized shall be considered fully amortized for purposes of such subparagraphs.
+
+#### (6) Full-funding limitation
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (5), the term “full-funding limitation” means the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
+
+&emsp;&emsp;&emsp;(ii) the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the fair market value of the plan's assets, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the value of such assets determined under paragraph (2).
+
+#### (B) Minimum amount
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In no event shall the full-funding limitation determined under subparagraph (A) be less than the excess (if any) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 90 percent of the current liability of the plan (including the expected increase in current liability due to benefits accruing during the plan year), over
+
+&emsp;&emsp;&emsp;&emsp;(II) the value of the plan's assets determined under paragraph (2).
+
+#### (ii) Assets
+
+&emsp;&emsp;&emsp;For purposes of clause (i), assets shall not be reduced by any credit balance in the funding standard account.
+
+#### (C) Full funding limitation
+
+&emsp;&emsp;For purposes of this paragraph, unless otherwise provided by the plan, the accrued liability under a multiemployer plan shall not include benefits which are not nonforfeitable under the plan after the termination of the plan (taking into consideration section 411(d)(3)).
+
+#### (D) Current liability
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “current liability” means all liabilities to employees and their beneficiaries under the plan.
+
+#### (ii) Treatment of unpredictable contingent event benefits
+
+&emsp;&emsp;&emsp;For purposes of clause (i), any benefit contingent on an event other than—
+
+&emsp;&emsp;&emsp;&emsp;(I) age, service, compensation, death, or disability, or
+
+&emsp;&emsp;&emsp;&emsp;(II) an event which is reasonably and reliably predictable (as determined by the Secretary),
+
+> &emsp;&emsp;shall not be taken into account until the event on which the benefit is contingent occurs.
+
+#### (iii) Interest rate used
+
+&emsp;&emsp;&emsp;The rate of interest used to determine current liability under this paragraph shall be the rate of interest determined under subparagraph (E).
+
+#### (iv) Mortality tables
+
+#### (I) Commissioners’ standard table
+
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on January 1, 1993.
+
+#### (II) Secretarial authority
+
+&emsp;&emsp;&emsp;&emsp;The Secretary may by regulation prescribe for plan years beginning after December 31, 1999, mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
+
+#### (v) Separate mortality tables for the disabled
+
+&emsp;&emsp;&emsp;Notwithstanding clause (iv)—
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall establish mortality tables which may be used (in lieu of the tables under clause (iv)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
+
+#### (II) Special rule for disabilities occurring after 1994
+
+&emsp;&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under subclause (I) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act and the regulations thereunder.
+
+#### (vi) Periodic review
+
+&emsp;&emsp;&emsp;The Secretary shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+
+#### (E) Required change of interest rate
+
+&emsp;&emsp;For purposes of determining a plan's current liability for purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If any rate of interest used under the plan under subsection (b)(6) to determine cost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
+
+#### (ii) Permissible range
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term “permissible range” means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
+
+#### (II) Secretarial authority
+
+&emsp;&emsp;&emsp;&emsp;If the Secretary finds that the lowest rate of interest permissible under subclause (I) is unreasonably high, the Secretary may prescribe a lower rate of interest, except that such rate may not be less than 80 percent of the average rate determined under such subclause.
+
+#### (iii) Assumptions
+
+&emsp;&emsp;&emsp;Notwithstanding paragraph (3)(A), the interest rate used under the plan shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) determined without taking into account the experience of the plan and reasonable expectations, but
+
+&emsp;&emsp;&emsp;&emsp;(II) consistent with the assumptions which reflect the purchase rates which would be used by insurance companies to satisfy the liabilities under the plan.
+
+#### (7) Annual valuation
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once everyyear, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
+
+#### (B) Valuation date
+
+#### (i) Current year
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the valuation referred to in subparagraph (A) shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
+
+#### (ii) Use of prior year valuation
+
+&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
+
+#### (iii) Adjustments
+
+&emsp;&emsp;&emsp;Information under clause (ii) shall, in accordance with regulations, be actuarially adjusted to reflect significant differences in participants.
+
+#### (iv) Limitation
+
+&emsp;&emsp;&emsp;A change in funding method to use a prior year valuation, as provided in clause (ii), may not be made unless as of the valuation date within the prior plan year, the value of the assets of the plan are not less than 125 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
+
+#### (8) Time when certain contributions deemed made
+
+&emsp;For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary.
+
+#### (d) Extension of amortization periods for multiemployer plans
+
+#### (1) Automatic extension upon application by certain plans
+
+#### (A) In general
+
+&emsp;&emsp;If the plan sponsor of a multiemployer plan—
+
+&emsp;&emsp;&emsp;(i) submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), and
+
+&emsp;&emsp;&emsp;(ii) includes with the application a certification by the plan's actuary described in subparagraph (B),
+
+> &emsp;&emsp;the Secretary shall extend the amortization period for the period of time (not in excess of 5 years) specified in the application. Such extension shall be in addition to any extension under paragraph (2).
+
+#### (B) Criteria
+
+&emsp;&emsp;A certification with respect to a multiemployer plan is described in this subparagraph if the plan's actuary certifies that, based on reasonable assumptions—
+
+&emsp;&emsp;&emsp;(i) absent the extension under subparagraph (A), the plan would have an accumulated funding deficiency in the current plan year or any of the 9 succeeding plan years,
+
+&emsp;&emsp;&emsp;(ii) the plan sponsor has adopted a plan to improve the plan's funding status,
+
+&emsp;&emsp;&emsp;(iii) the plan is projected to have sufficient assets to timely pay expected benefits and anticipated expenditures over the amortization period as extended, and
+
+&emsp;&emsp;&emsp;(iv) the notice required under paragraph (3)(A) has been provided.
+
+#### (C) Termination
+
+&emsp;&emsp;The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.
+
+#### (2) Alternative extension
+
+#### (A) In general
+
+&emsp;&emsp;If the plan sponsor of a multiemployer plan submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
+
+#### (B) Determination
+
+&emsp;&emsp;The Secretary may grant an extension under subparagraph (A) if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) such extension would carry out the purposes of this Act <sup>1</sup> and would provide adequate protection for participants under the plan and their beneficiaries, and
+
+&emsp;&emsp;&emsp;(ii) the failure to permit such extension would—
+
+&emsp;&emsp;&emsp;&emsp;(I) result in a substantial risk to the voluntary continuation of the plan, or a substantial curtailment of pension benefit levels or employee compensation, and
+
+&emsp;&emsp;&emsp;&emsp;(II) be adverse to the interests of plan participants in the aggregate.
+
+#### (C) Action by Secretary
+
+&emsp;&emsp;The Secretary shall act upon any application for an extension under this paragraph within 180 days of the submission of such application. If the Secretary rejects the application for an extension under this paragraph, the Secretary shall provide notice to the plan detailing the specific reasons for the rejection, including references to the criteria set forth above.
+
+#### (3) Advance notice
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall, before granting an extension under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such extension to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974) with respect to the affected plan. Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of such Act and for benefit liabilities.
+
+#### (B) Consideration of relevant information
+
+&emsp;&emsp;The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
+
+(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890.)
+
+#### References in Text
+
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(2), (b)(7)(A)–(D), and (d)(3)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 4001, 4222, 4223, and 4243 of the Act are classified to sections 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
+
+The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Effective Date
+
+Pub. L. 109–280, title II, §211(b), Aug. 17, 2006, 120 Stat. 898, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[enacting this section\] shall apply to plan years beginning after 2007.
+
+“(2)
+
+Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code.”
+
+#### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
+
+For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “title”.</i>
+

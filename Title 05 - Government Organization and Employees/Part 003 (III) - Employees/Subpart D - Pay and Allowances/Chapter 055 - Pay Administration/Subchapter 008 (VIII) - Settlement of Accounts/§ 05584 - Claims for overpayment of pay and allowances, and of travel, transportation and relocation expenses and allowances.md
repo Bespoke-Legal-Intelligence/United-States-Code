@@ -20,7 +20,7 @@
 
 &emsp;(3) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
 
-&emsp;(4) in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
+&emsp;(4) in the case of employees of the Government Printing Office, the Library of Congress,the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
 
 &emsp;(5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 

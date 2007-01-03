@@ -28,7 +28,11 @@ The Secretary of Agriculture may make grants to units of general local governmen
 
 #### (c) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $10,000,000 for each of fiscal years 2003 through 2007, to remain available until expended.
+Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $10,000,000 for each of fiscal years 2003 through 2006, to remain available until expended.
 
-(Pub. L. 107–171, title VI, §6405, May 13, 2002, 116 Stat. 430.)
+(Pub. L. 107–171, title VI, §6405, May 13, 2002, 116 Stat. 430; Pub. L. 109–171, title I, §1405(a), Feb. 8, 2006, 120 Stat. 7.)
+
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–171 substituted “2006” for “2007”.
 

@@ -14,7 +14,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatability <sup>1</sup> program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;
 
-&emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) and if the cost is incurred—
+&emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs\(1) and (2) of section 47114(c) or section 47114(d)(3)(A) and if the cost is incurred—
 
 &emsp;&emsp;(i) after September 30, 1996;
 
@@ -76,7 +76,7 @@ Letters of Intent.—(1) The Secretary may issue a letter of intent to the spons
 
 (3) A letter of intent issued under paragraph (1) of this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation laws.
 
-(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
+(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by theSecretary to be needed for grants under section 48103 that are not covered by a letter.
 
 (5)
 
@@ -247,13 +247,13 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provided that:
 
-“(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter,carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
+“(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter, carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
 
 “(b) The airport shall notify the Under Secretary of the airport's intent to carry out the airport security improvement project before the project begins.
 
 “(c) A letter of intent may be issued under this section only if—
 
-&emsp;“(1) The airport security improvement project to which the letter applies involves the replacement of baggage conveyer systems or the reconfiguration of terminal baggage areas in order to install explosive detection systems; and
+&emsp;“(1) The airport security improvement project to which the letter applies involves the replacement ofbaggage conveyer systems or the reconfiguration of terminal baggage areas in order to install explosive detection systems; and
 
 &emsp;“(2) The Under Secretary determines that the project will improve security or will improve the efficiency of the airport without lessening security.
 

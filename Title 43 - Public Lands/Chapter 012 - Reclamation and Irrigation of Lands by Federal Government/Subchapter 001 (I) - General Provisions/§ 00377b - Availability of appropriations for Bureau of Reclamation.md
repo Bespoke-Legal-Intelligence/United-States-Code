@@ -12,8 +12,6 @@ None of the funds made available by this or any other Act or by any subsequent A
 
 #### References in Text
 
-The reclamation laws, referred to in text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
-
 The Interior Department Appropriations Act 1945, referred to in text, is act June 28, 1944, ch. 298, 58 Stat. 463, which is not classified to the Code. The heading “Operation and maintenance administration” appears at 58 Stat. 487 following the heading “Bureau of Reclamation” which appears at 58 Stat. 486.
 
 Act of August 21, 1935, referred to in text, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, popularly known as the Historic Sites, Buildings and Antiquities Act, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 16 and Tables.

@@ -14,7 +14,7 @@ The Secretary may, in accordance with subsection (a) of this section, obtain the
 
 #### (c) Consultation
 
-The Secretary shall consult with the Administrator of the National Aeronautics and SpaceAdministration, the Administrator of the Environmental Protection Agency, the Secretary of Transportation, and the Hydrogen Technical Advisory Panel established under section 12407 of this title in carrying out his authorities pursuant to this chapter.
+The Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Administrator of the Environmental Protection Agency, the Secretary of Transportation, and the Hydrogen Technical Advisory Panel established under section 12407 of this title in carrying out his authorities pursuant to this chapter.
 
 (Pub. L. 101–566, §107, Nov. 15, 1990, 104 Stat. 2800.)
 

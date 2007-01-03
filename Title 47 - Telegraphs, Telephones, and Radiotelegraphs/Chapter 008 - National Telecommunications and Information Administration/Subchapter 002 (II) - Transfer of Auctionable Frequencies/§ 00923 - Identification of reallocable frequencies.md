@@ -120,7 +120,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (3) Comment and recommendations from Commission
 
-&emsp;The Commission shall, within 90 days after the conclusion of the period for comment provided pursuant to paragraph (2), submit to the Secretary the Commission's analysis of suchcomments and the Commission's recommendations for responses to such comments, together with such other comments and recommendations as the Commission deems appropriate.
+&emsp;The Commission shall, within 90 days after the conclusion of the period for comment provided pursuant to paragraph (2), submit to the Secretary the Commission's analysis of such comments and the Commission's recommendations for responses to such comments, together with such other comments and recommendations as the Commission deems appropriate.
 
 #### (4) Direct discussions
 
@@ -136,7 +136,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (A) Required reallocation
 
-&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1) of this section, specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
+&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1) of this section,specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
 
 #### (B) Permitted reallocation
 
@@ -220,7 +220,7 @@ Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–494 added pars. (1) to (6) and struck out former pars. (1) to (3) which related torelocation of Federal Government stations in general, process for relocation, and right to reclaim.
+2004—Subsec. (g). Pub. L. 108–494 added pars. (1) to (6) and struck out former pars. (1) to (3) which related to relocation of Federal Government stations in general, process for relocation, and right to reclaim.
 
 1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “12 megahertz” for “20 megahertz”.
 

@@ -26,7 +26,7 @@ Pub. L. 102–586, §2(f)(1)(B), made technical amendment to reference to sectio
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub.L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1988 Amendment
 

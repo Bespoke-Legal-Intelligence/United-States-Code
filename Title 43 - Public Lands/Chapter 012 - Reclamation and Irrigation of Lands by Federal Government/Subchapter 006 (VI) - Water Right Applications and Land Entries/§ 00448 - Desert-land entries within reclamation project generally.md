@@ -6,9 +6,7 @@ Where any bona fide desert-land entry has been or may be embraced within the ext
 
 #### References in Text
 
-The desert-land law, referred to in text, is classified generally to chapter 9 (§321 et seq.) of this title.
-
-Act of June 17, 1902, and the reclamation Act, referred to in text, mean act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act of June 17, 1902, and said reclamation Act, referred to in text, are act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Amendments
 

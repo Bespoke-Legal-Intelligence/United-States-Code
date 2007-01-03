@@ -10,7 +10,7 @@ Any person who—
 
 &emsp;(3) omits from a statement or representation for such use, or otherwise withholds disclosure of, a fact which the person knows or should know is material to the determination of any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter XVI of this chapter, if the person knows, or should know, that the statement or representation with such omission is false or misleading or that the withholding of such disclosure is misleading,
 
-> shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security.
+> shall be subject to, in addition to any other penalties that may be prescribed by law, a penaltydescribed in subsection (b) of this section to be imposed by the Commissioner of Social Security.
 
 #### (b) Penalty
 

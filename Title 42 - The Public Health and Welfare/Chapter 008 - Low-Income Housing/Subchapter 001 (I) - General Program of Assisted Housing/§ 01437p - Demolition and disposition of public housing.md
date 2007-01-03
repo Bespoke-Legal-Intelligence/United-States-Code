@@ -116,7 +116,7 @@ Nothing in this section may be construed to prevent a public housing agency from
 
 #### (f) De minimis exception to demolition requirements
 
-Notwithstanding any other provision of this section, in any 5-year period a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
+Notwithstanding any other provision of this section, in any 5-year period a public housingagency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
 
 #### (g) Uniform Relocation and Real Property Acquisition Act
 
@@ -212,7 +212,7 @@ Pub. L. 105–276, title V, §531(c), Oct. 21, 1998, 112 Stat. 2574, provided th
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion tohomeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
+Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
 
 #### Effective Date of 1990 Amendment
 

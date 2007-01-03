@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 107–107, §1410(b)(2), struck out heading and text of sub
 
 &emsp;“(A) amounts collected as monthly fees paid by residents of the Naval Home and amounts referred to in subsections (a)(4) and (a)(5) of this section derived from enlisted members, warrant officers, and limited duty officers of the Navy, Marine Corps, and Coast Guard shall be credited to the account relating to that establishment; and
 
-&emsp;“(B) amounts collected as monthly fees paid by residents of the United States Soldiers’ and Airmen's Home and amounts referred to in subsections (a)(4) and (a)(5) of this section derived from members and warrant officers of the Army and Air Force shall be credited to the account relating to that establishment.”
+&emsp;“(B) amounts collected as monthly fees paid by residents of the United States Soldiers’ and Airmen's Home and amounts referred to in subsections (a)(4)and (a)(5) of this section derived from members and warrant officers of the Army and Air Force shall be credited to the account relating to that establishment.”
 
 #### Effective Date
 

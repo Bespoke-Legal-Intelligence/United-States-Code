@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) not less frequently than once every year for purposes of voting on the voluntary voting system guidelines referred to it under section 15362 of this title;
 
-&emsp;&emsp;(B) in the case of the Standards Board, not less frequently than once every 2 years forpurposes of selecting the Executive Board; and
+&emsp;&emsp;(B) in the case of the Standards Board, not less frequently than once every 2 years for purposes of selecting the Executive Board; and
 
 &emsp;&emsp;(C) at such other times as it considers appropriate for purposes of conducting such other business as it considers appropriate consistent with this subchapter.
 
@@ -26,7 +26,7 @@ The Standards Board and the Board of Advisors may use the United States mails in
 
 #### (d) Administrative support services
 
-Upon the request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the Administrator of the General Services Administration shall provide to the Board, on a reimbursable basis, the administrative support services that are necessary to enable the Board to carry out its duties under this subchapter.
+Upon the request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the Administrator of the General Services Administration shall provide to the Board, on a reimbursablebasis, the administrative support services that are necessary to enable the Board to carry out its duties under this subchapter.
 
 #### (e) No compensation for service
 

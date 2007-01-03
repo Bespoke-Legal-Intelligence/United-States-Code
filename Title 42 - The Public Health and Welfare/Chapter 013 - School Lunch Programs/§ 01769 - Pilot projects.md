@@ -6,7 +6,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (b) Extension of eligibility of certain school districts to receive cash or commodity letters of credit assistance for school lunch programs
 
-(1) Upon request to the Secretary, any school district that on January 1, 1987, was receivingall cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program beginning July 1, 1987. The Secretary, directly or through contract, shall administer the project under this subsection.
+(1) Upon request to the Secretary, any school district that on January 1, 1987, was receiving all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program beginning July 1, 1987. The Secretary, directly or through contract, shall administer the project under this subsection.
 
 (2) Any school district that elects under paragraph (1) to receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive bonus commodities in the same manner as if such school district was receiving all entitlement commodities for its school lunch program.
 
@@ -38,7 +38,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (d) Fortified fluid milk
 
-(1) Subject to the availability of appropriations to carry out this subsection, the Secretary shall establish pilot projects in at least 25 school districts under which the milk offered by schools meets the fortification requirements of paragraph (3) for lowfat, skim, and other forms of fluid milk.
+(1) Subject to the availability of appropriations to carry out this subsection, the Secretaryshall establish pilot projects in at least 25 school districts under which the milk offered by schools meets the fortification requirements of paragraph (3) for lowfat, skim, and other forms of fluid milk.
 
 (2) The Secretary shall make available to school districts information that compares the nutritional benefits of fluid milk that meets the fortification requirements of paragraph (3) and the nutritional benefits of other milk that is made available through the school lunch program established under this chapter.
 
@@ -80,7 +80,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (7)(A) Each pilot project established under this subsection shall terminate on the last day of the third year after the establishment of the pilot project.
 
-(B) The Secretary shall advise representatives of each district participating in a pilot projectthat the district may continue to offer the fortified forms of milk described in paragraph (3) after the project terminates.
+(B) The Secretary shall advise representatives of each district participating in a pilot project that the district may continue to offer the fortified forms of milk described in paragraph (3) after the project terminates.
 
 #### (e) Breakfast pilot projects
 
@@ -460,7 +460,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shall conduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
+&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shallconduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
 
 #### (B) Impact assessment
 
@@ -498,7 +498,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, titleIII, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161.)
 
 #### References in Text
 

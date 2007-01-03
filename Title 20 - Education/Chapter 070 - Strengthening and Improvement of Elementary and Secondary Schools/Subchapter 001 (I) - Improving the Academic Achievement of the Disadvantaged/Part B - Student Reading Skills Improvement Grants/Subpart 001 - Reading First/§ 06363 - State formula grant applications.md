@@ -8,7 +8,7 @@
 
 #### (2) Special application provisions
 
-&emsp;For those State educational agencies that have received a grant under part C of title II (as such part was in effect on the day before January 8, 2002), the Secretary shall establish a modified set of requirements for an application under this section that takes into account the information already submitted and approved under that program and minimizes the duplication of effort on the part of such State educational agencies.
+&emsp;For those State educational agencies that have received a grant under part C of title II (as such part was in effect on the day beforeJanuary 8, 2002), the Secretary shall establish a modified set of requirements for an application under this section that takes into account the information already submitted and approved under that program and minimizes the duplication of effort on the part of such State educational agencies.
 
 #### (b) Contents
 
@@ -82,7 +82,7 @@ An application under this section shall contain the following:
 
 #### (C) Recommendations
 
-&emsp;&emsp;The panel shall recommend grant applications from State educational agencies under this section to the Secretary for funding or for disapproval.
+&emsp;&emsp;The panel shall recommend grant applications from State educational agencies underthis section to the Secretary for funding or for disapproval.
 
 #### (d) Reading and literacy partnerships
 
@@ -116,7 +116,7 @@ An application under this section shall contain the following:
 
 &emsp;The reading and literacy partnership may include additional participants, who shall be selected jointly by the Governor and the chief State school officer, and who may include a representative of—
 
-&emsp;&emsp;(A) an institution of higher education operating a program of teacher preparation inthe State that is based on scientifically based reading research;
+&emsp;&emsp;(A) an institution of higher education operating a program of teacher preparation in the State that is based on scientifically based reading research;
 
 &emsp;&emsp;(B) a local educational agency;
 

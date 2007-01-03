@@ -14,7 +14,3 @@ The Secretary shall take such steps as may be necessary to assure compliance wit
 
 (Pub. L. 96–345, §12, Sept. 8, 1980, 94 Stat. 1146.)
 
-#### References in Text
-
-The antitrust laws, referred to in subsec. (c), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-

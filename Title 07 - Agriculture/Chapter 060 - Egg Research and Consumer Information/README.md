@@ -8,40 +8,14 @@
 | [2704\.](%C2%A7%2002704%20-%20Notice%20and%20hearing%20upon%20proposed%20orders.md) | Notice and hearing upon proposed orders. |
 | [2705\.](%C2%A7%2002705%20-%20Findings%20and%20issuance%20of%20orders.md) | Findings and issuance of orders. |
 | [2706\.](%C2%A7%2002706%20-%20Permissive%20terms%20and%20conditions%20in%20orders.md) | Permissive terms and conditions in orders. |
-| (a) | Advertising, sales promotion, and consumer education plans or projects; prohibition on reference to private brand or trade name and use of unfair or deceptive acts or practices. |
-| (b) | Research, marketing, and development projects and studies. |
-| (c) | Recordkeeping and reporting requirements; disclosure of confidential information; violations; penalties. |
-| (d) | Incidental and necessary terms and conditions. |
 | [2707\.](%C2%A7%2002707%20-%20Required%20terms%20and%20conditions%20in%20orders.md) | Required terms and conditions in orders. |
-| (a) | Egg Board; establishment; appointment and terms of membership; powers and duties. |
-| (b) | Composition of Board. |
-| (c) | Advertising, sales promotion, consumer education, and research and development plans or projects; development and submittal to Secretary by Board. |
-| (d) | Budgets; submittal to Secretary by Board. |
-| (e) | Assessment payments by egg producers to egg handlers; implementation pursuant to order of Board; determination of amount; collection of assessment; rate limitation; maintenance of suit for collection. |
-| (f) | Recordkeeping and reporting requirements; accounting by Board. |
-| (g) | Contracts or agreements by Board for implementation of orders and payment of costs; required provisions. |
-| (h) | Restriction on use of funds collected by Board for political purposes. |
-| (i) | Compensation and expenses of members of Board. |
-| (j) | Reasonable costs limitation for collection of assessments and for an administrative staff. |
 | [2708\.](%C2%A7%2002708%20-%20Referendum%20among%20egg%20producers.md) | Referendum among egg producers. |
-| (a) | Producer approval of order. |
-| (b) | Request by Egg Board for referendum. |
-| (c) | Nonapproval of amendments as not invalidating order. |
 | [2709\.](%C2%A7%2002709%20-%20Termination%20or%20suspension%20of%20orders.md) | Termination or suspension of orders. |
-| (a) | Authority of Secretary. |
-| (b) | Referendum to terminate or suspend; eligible voters; requirements for approval; termination or suspension date. |
-| (c) | Termination or suspension not to be considered as order. |
 | [2710\.](%C2%A7%2002710%20-%20Applicability%20of%20provisions%20to%20amendments%20to%20orders.md) | Applicability of provisions to amendments to orders. |
 | [2711\.](%C2%A7%2002711%20-%20Exempted%20egg%20producers%20and%20breeding%20hen%20flocks%3B%20conditions%20and%20procedures.md) | Exempted egg producers and breeding hen flocks; conditions and procedures. |
-| (a) | In general. |
-| (b) | Number of laying hens. |
 | [2712\.](%C2%A7%2002712%20-%20Refund%20of%20assessment%20from%20Egg%20Board.md) | Refund of assessment from Egg Board. |
-| (a) | Procedures. |
-| (b) | Amendment of order to eliminate producer refund: effective date; refund referendum; escrow account; requirements for one-time refund; proration of refunds. |
 | [2713\.](%C2%A7%2002713%20-%20Administrative%20review%20of%20orders%3B%20petition%3B%20hearing%3B%20judicial%20review.md) | Administrative review of orders; petition; hearing; judicial review. |
 | [2714\.](%C2%A7%2002714%20-%20Civil%20enforcement%20proceedings.md) | Civil enforcement proceedings. |
-| (a) | Enforcement of orders by district court; referral of civil actions to Attorney General. |
-| (b) | Civil penalty; review by court of appeals; noncompliance with final order; referral to Attorney General. |
 | [2715\.](%C2%A7%2002715%20-%20Certification%20of%20organizations%3B%20required%20contents%20of%20report%20as%20criteria.md) | Certification of organizations; required contents of report as criteria. |
 | [2716\.](%C2%A7%2002716%20-%20Regulations.md) | Regulations. |
 | [2717\.](%C2%A7%2002717%20-%20Investigations%20by%20Secretary%3B%20oaths%20and%20affirmations%3B%20subpenas%3B%20judicial%20enforcement%3B%20contempt%20proceedings%3B%20service%20of%20process.md) | Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process. |

@@ -14,7 +14,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;&emsp;&emsp;(i) by an office or other entity that is not under the supervision, direction, or control of the military department, Defense Agency, or other component of the Department of Defense that is directly responsible for carrying out the development or acquisition of the program; or
 
-&emsp;&emsp;&emsp;(ii) if the decision authority for the program has been delegated to an official of a military department, Defense Agency, or other component of the Department of Defense, by an office or other entity that is not directly responsible for carrying outthe development or acquisition of the program; and
+&emsp;&emsp;&emsp;(ii) if the decision authority for the program has been delegated to an official of a military department, Defense Agency, or other component of the Department of Defense, by an office or other entity that is not directly responsible for carrying out the development or acquisition of the program; and
 
 &emsp;&emsp;(B) include all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control; and
 
@@ -96,7 +96,7 @@ Section 1203(b) of Pub. L. 98–94 provided that: “Section 139c \[now 2434\] o
 
 Pub. L. 99–145, title IX, §952, Nov. 8, 1985, 99 Stat. 701, directed Secretary of Defense, not later than Apr. 1, 1986, to submit to Congress a report on the continued use of independent cost estimates in the planning, programing, budgeting, and selection process for major defense acquisition programs of the Department.
 
-Section 1203(c) of Pub. L. 98–94 directed Secretary of Defense, not later than May 1, 1984, to submit a written report to Congress on use of independent cost estimates in planning, programing, budgeting, and selection process for major defense acquisition programs in Department, such report to include an overall assessment ofextent to which such estimates were adopted by Department in making decisions on the FY 1985 budget and a general explanation of why such estimates might have been modified or rejected, and a discussion of current and future initiatives to make greater or more productive use of independent cost estimates in the Department.
+Section 1203(c) of Pub. L. 98–94 directed Secretary of Defense, not later than May 1, 1984, to submit a written report to Congress on use of independent cost estimates in planning, programing, budgeting, and selection process for major defense acquisition programs in Department, such report to include an overall assessment of extent to which such estimates were adopted by Department in making decisions on the FY 1985 budget and a general explanation of why such estimates might have been modified or rejected, and a discussion of current and future initiatives to make greater or more productive use of independent cost estimates in the Department.
 
 #### Allocation of Adequate Personnel and Financial Resources in Developing or Assessing Independent Estimates of Costs
 

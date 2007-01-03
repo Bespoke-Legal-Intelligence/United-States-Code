@@ -20,7 +20,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§301. Voluntary cases</i>. Application of this section makes clear, as under current chapter IX \[chapter 9 of former title 11\], that a municipal case can be commenced only by the municipality itself. There are no involuntary chapter 9 cases.
 
-<i>§344. Self-incrimination; immunity</i>. Application of this section is of no substantive effect for the administration of the case, but merely provides that the generalrules in part V \[§6001 et seq.\] of title 18 govern immunity.
+<i>§344. Self-incrimination; immunity</i>. Application of this section is of no substantive effect for the administration of the case, but merely provides that the general rules in part V \[§6001 et seq.\] of title 18 govern immunity.
 
 <i>§347(b). Unclaimed property</i>. This provision currently appears in section 96(d) of chapter IX \[section 416(d) of former title 11\].
 
@@ -52,7 +52,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§510. Subordination of claims</i>. This section permits the court to subordinate, on equitable grounds, any claim, and requires enforcement of contractual subordination agreements, and subordination of securities rescission claims. The section recognizes the inherent equitable power of the court under current law, and the practice followed with respect to contractual provisions.
 
-<i>§547. Preferences</i>. Incorporation of section 547 will permit the debtor to recover preferences. This power will be used primarily when those who gave the preferences have been replaced by new municipal officers or when creditors coerced preferential payments. Unlike Bankruptcy Act §85(h) \[section 405(h) of former title 11\], the section does not permit the appointment of a trustee for the purpose of pursuing preferences. Moreover, this bill does not incorporate the other avoiding powers of a trustee for chapter 9, found in current section 85(h).
+<i>§547. Preferences</i>. Incorporation of section 547 will permit the debtor to recover preferences. This power willbe used primarily when those who gave the preferences have been replaced by new municipal officers or when creditors coerced preferential payments. Unlike Bankruptcy Act §85(h) \[section 405(h) of former title 11\], the section does not permit the appointment of a trustee for the purpose of pursuing preferences. Moreover, this bill does not incorporate the other avoiding powers of a trustee for chapter 9, found in current section 85(h).
 
 <i>§550. Liability of transfers</i>. Incorporation of this section is made necessary by the incorporation of the preference section, and permits recovery by the debtor from a transferee of an avoided preference.
 

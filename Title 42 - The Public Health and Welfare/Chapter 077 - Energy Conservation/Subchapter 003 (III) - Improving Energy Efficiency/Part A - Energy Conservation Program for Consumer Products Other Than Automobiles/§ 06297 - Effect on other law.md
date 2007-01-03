@@ -116,7 +116,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 (1) A regulation or other requirement enacted or prescribed before January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed under section 6295 of this title for such covered product.
 
-(2) A regulation or other requirement, or revision thereof, enacted or prescribed on or after January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed under section 6295 of this title for such covered product if the code does not require that the energy efficiency of such covered product exceed—
+(2) A regulation or other requirement, or revision thereof, enacted or prescribed on or after January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed undersection 6295 of this title for such covered product if the code does not require that the energy efficiency of such covered product exceed—
 
 &emsp;(A) the applicable minimum efficiency requirement in a national voluntary consensus standard; or
 
@@ -130,7 +130,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 &emsp;(B) The code does not require that the covered product have an energy efficiency exceeding the applicable energy conservation standard established in or prescribed under section 6295 of this title, except that the required efficiency may exceed such standard up to the level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
 
-&emsp;(C) The credit to the energy consumption or conservation objective allowed by the code for installing covered products having energy efficiencies exceeding such energy conservation standard established in or prescribed under section 6295 of this title or the efficiency levelrequired in a State regulation referred to in subparagraph (B) is on a one-for-one equivalent energy use or equivalent cost basis.
+&emsp;(C) The credit to the energy consumption or conservation objective allowed by the code for installing covered products having energy efficiencies exceeding such energy conservation standard established in or prescribed under section 6295 of this title or the efficiency level required in a State regulation referred to in subparagraph (B) is on a one-for-one equivalent energy use or equivalent cost basis.
 
 &emsp;(D) If the code uses one or more baseline building designs against which all submitted building designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under section 6295 of this title, the baseline building designs are based on the efficiency level for such covered product which meets but does not exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
 
@@ -160,7 +160,7 @@ Subsec. (a)(2). Pub. L. 102–486, §123(h)(1)(D), amended par. (2) generally. P
 
 Subsec. (b). Pub. L. 102–486, §123(h)(2)(A), substituted “, energy use, or water use of the covered product” for “or energy use of the covered product”.
 
-Subsec. (b)(1). Pub. L. 102–486, §123(h)(2)(B), inserted before semicolon at end “, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992”.
+Subsec. (b)(1). Pub. L. 102–486, §123(h)(2)(B), inserted before semicolon at end “, or in the case of any portionof any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992”.
 
 Subsec. (b)(4). Pub. L. 102–486, §123(h)(2)(C), inserted before semicolon at end “, or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which section 6295(i) of this title is applicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which section 6295(j) of this title is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which section 6295(k) of this title is applicable”.
 

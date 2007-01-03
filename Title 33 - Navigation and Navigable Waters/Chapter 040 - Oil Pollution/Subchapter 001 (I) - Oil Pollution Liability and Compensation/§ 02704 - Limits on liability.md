@@ -2,17 +2,27 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section, the total of the liability of a responsible partyunder section 2702 of this title and any removal costs incurred by, or on behalf of, the responsible party, with respect to each incident shall not exceed—
+Except as otherwise provided in this section, the total of the liability of a responsible party under section 2702 of this title and any removal costs incurred by, or on behalf of, the responsible party, with respect to each incident shall not exceed—
 
 &emsp;(1) for a tank vessel the greater of—
 
-&emsp;&emsp;(A) $1,200 per gross ton; or
+&emsp;&emsp;(A) with respect to a single-hull vessel, including a single-hull vessel fitted with double sides only or a double bottom only, $3,000 per gross ton;
 
-&emsp;&emsp;(B)(i) in the case of a vessel greater than 3,000 gross tons, $10,000,000; or
+&emsp;&emsp;(B) with respect to a vessel other than a vessel referred to in subparagraph (A), $1,900 per gross ton; or
 
-&emsp;&emsp;(ii) in the case of a vessel of 3,000 gross tons or less, $2,000,000;
+&emsp;&emsp;(C)(i) with respect to a vessel greater than 3,000 gross tons that is—
 
-&emsp;(2) for any other vessel, $600 per gross ton or $500,000, whichever is greater;
+&emsp;&emsp;&emsp;(I) a vessel described in subparagraph (A), $22,000,000; or
+
+&emsp;&emsp;&emsp;(II) a vessel described in subparagraph (B), $16,000,000; or
+
+&emsp;&emsp;(ii) with respect to a vessel of 3,000 gross tons or less that is—
+
+&emsp;&emsp;&emsp;(I) a vessel described in subparagraph (A), $6,000,000; or
+
+&emsp;&emsp;&emsp;(II) a vessel described in subparagraph (B), $4,000,000;
+
+&emsp;(2) for any other vessel, $950 per gross ton or $800,000,,<sup>1</sup> whichever is greater;
 
 &emsp;(3) for an offshore facility except a deepwater port, the total of all removal costs plus $75,000,000; and
 
@@ -80,7 +90,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (C) Rulemaking proceeding
 
-&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under this <sup>1</sup> subparagraph (A), that the use of deepwater ports in connection with the transportationof oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
+&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under this <sup>2</sup> subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
 
 #### (3) Periodic reports
 
@@ -88,9 +98,9 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (4) Adjustment to reflect Consumer Price Index
 
-&emsp;The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index.
+&emsp;The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429.)
+(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554.)
 
 #### References in Text
 
@@ -100,15 +110,55 @@ The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub.
 
 #### Amendments
 
+2006—Subsec. (a)(1)(A) to (C). Pub. L. 109–241, §603(a)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
+
+“(A) $1,200 per gross ton; or
+
+“(B)(i) in the case of a vessel greater than 3,000 gross tons, $10,000,000; or
+
+“(ii) in the case of a vessel of 3,000 gross tons or less, $2,000,000;”.
+
+Subsec. (a)(2). Pub. L. 109–241, §603(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
+
+Subsec. (d)(4). Pub. L. 109–241, §603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index.”
+
 1998—Subsec. (a)(1). Pub. L. 105–383, §406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” after “tank vessel”.
 
 Subsec. (c)(4). Pub. L. 105–383, §406(2), added par. (4).
 
 1995—Subsec. (a)(1). Pub. L. 104–55 substituted “for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” for “for a tank vessel,”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–241, title VI, §603(a)(3), July 11, 2006, 120 Stat. 554, provided that: “In the case of an incident occurring before the 90th day following the date of enactment of this Act \[July 11, 2006\], section 1004(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(a)(1)) shall apply as in effect immediately before the effective date of this subsection \[July 11, 2006\].”
+
 #### Delegation of Functions
 
 Specific functions of President under subsec. (d) of this section delegated to Administrator of Environmental Protection Agency, Secretary of Transportation, and Secretary of the Interior by section 4 of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54763, set out as a note under section 1321 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “this” probably should not appear.</i>
+#### Report
+
+Pub. L. 109–241, title VI, §603(c), July 11, 2006, 120 Stat. 554, provided that:
+
+“(1)
+
+Initial report.—Not later than 45 days after the date of enactment of this Act \[July 11, 2006\], the Secretary of the department in which the Coast Guard is operating shall submit a report on liability limits described in paragraph (2) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+“(2)
+
+Contents.—The report shall include, at a minimum, the following:
+
+&emsp;“(A) An analysis of the extent to which oil discharges from vessels and nonvessel sources have or are likely to result in removal costs and damages (as defined in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701)) for which no defense to liability exists under section 1003 of such Act \[33 U.S.C. 2703\] and that exceed the liability limits established in section 1004 of such Act \[33 U.S.C. 2704\], as amended by this section.
+
+&emsp;“(B) An analysis of the impacts that claims against the Oil Spill Liability Trust Fund for amounts exceeding such liability limits will have on the Fund.
+
+&emsp;“(C) Based on analyses under this paragraph and taking into account other factors impacting the Fund, recommendations on whether the liability limits need to be adjusted in order to prevent the principal of the Fund from declining to levels that are likely to be insufficient to cover expected claims.
+
+“(3)
+
+Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) on an annual basis.”
+
+<i><sup>1</sup></i><i> So in original. The second comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “this” probably should not appear.</i>
 

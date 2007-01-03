@@ -18,7 +18,9 @@ As used in this chapter:
 
 “Value” means the face, par, or market value, whichever is the greatest, and the aggregate value of all goods, wares, and merchandise, securities, and money referred to in a single indictment shall constitute the value thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808.)
+“Vessel” means any watercraft or other contrivance used or designed for transportation or navigation on, under, or immediately above, water.
+
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, §307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
 
 #### Historical and Revision Notes
 
@@ -37,6 +39,8 @@ In the paragraph defining “value” which came from said section 417 of title 
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2006—Pub. L. 109–177 inserted definition of “Vessel”.
 
 2002—Pub. L. 107–273 substituted semicolon for period at end of third par.
 
@@ -70,7 +74,7 @@ Pub. L. 102–519, §1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Ac
 
 #### Short Title of 1984 Amendments
 
-Section 1(a) of Pub. L. 98–547 provided that: “This Act \[enacting sections 511, 512, 553, and 2320 \[now 2321\] of this title, sections 2021 to 2034 of Title 15, Commerce and Trade, and section 1627 of Title 19, Customs Duties,amending this section, sections 1961 and 2313 of this title, and section 1901 of Title 15, and enacting provisions set out as a note under section 2021 of Title 15\] may be cited as the ‘Motor Vehicle Theft Law Enforcement Act of 1984’.”
+Section 1(a) of Pub. L. 98–547 provided that: “This Act \[enacting sections 511, 512, 553, and 2320 \[now 2321\] of this title, sections 2021 to 2034 of Title 15, Commerce and Trade, and section 1627 of Title 19, Customs Duties, amending this section, sections 1961 and 2313 of this title, and section 1901 of Title 15, and enacting provisions set out as a note under section 2021 of Title 15\] may be cited as the ‘Motor Vehicle Theft Law Enforcement Act of 1984’.”
 
 Section 1501 of chapter XV (§§1501–1503) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting section 2320 of this title and amending sections 1116, 1117, and 1118 of Title 15, Commerce and Trade\] may be cited as the ‘Trademark Counterfeiting Act of 1984’.”
 

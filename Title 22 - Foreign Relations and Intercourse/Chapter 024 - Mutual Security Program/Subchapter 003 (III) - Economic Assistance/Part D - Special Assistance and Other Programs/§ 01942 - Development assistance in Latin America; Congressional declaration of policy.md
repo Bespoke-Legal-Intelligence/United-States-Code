@@ -62,7 +62,7 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 “(e) \[Repealed. Pub. L. 97–113, title VII, §734(a)(9), Dec. 29, 1981, 95 Stat. 1560\].”
 
-\[For amendment of provisions of section 36 of Pub. L. 93–189, set out above, see Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(2), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, set out in an Abolition of the Inter-American Foundation note under section 290f of this title.\]
+\[Amendment of provisions of section 36 of Pub. L. 93–189, set out above, by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.\]
 
 #### Delegation of Responsibilities Related to the Latin American Development Act of 1960
 

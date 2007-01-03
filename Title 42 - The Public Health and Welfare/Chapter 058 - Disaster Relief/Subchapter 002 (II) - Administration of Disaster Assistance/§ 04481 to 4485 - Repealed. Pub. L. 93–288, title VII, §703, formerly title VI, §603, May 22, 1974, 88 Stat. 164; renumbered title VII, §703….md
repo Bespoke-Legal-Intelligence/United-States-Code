@@ -12,5 +12,5 @@ Section 4485, Pub. L. 91–606, title II, §255, as added Pub. L. 92–209, §1,
 
 #### Effective Date of Repeal
 
-Repeal effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, set out as an Effective Date note under section 5121 of this title.
+Repeal effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as an Effective Date note under section 5121 of this title.
 

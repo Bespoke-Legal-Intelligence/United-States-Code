@@ -112,5 +112,5 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### Effective Date
 
-Section effective 90 days after Jan. 5, 2006, see section 1121(c) of Pub. L. 109–162, set out as a note under section 3712a of this title.
+Section effective with respect to appropriations for fiscal year 2007 and for each fiscal year thereafter, see section 1121(c) of Pub. L. 109–162, set out as a note under section 3712a of this title.
 

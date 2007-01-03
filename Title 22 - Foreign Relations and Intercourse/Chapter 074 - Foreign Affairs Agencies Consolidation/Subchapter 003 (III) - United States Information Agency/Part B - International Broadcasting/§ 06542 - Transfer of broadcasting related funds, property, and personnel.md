@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The assets, liabilities (including contingent liabilities arising from suits continued with a substitution or addition of parties under section 6543(d) of this title), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the functions and offices of USIA transferred to the Broadcasting Board of Governors by this part shall be transferred to the Broadcasting Board of Governors for appropriate allocation.
+&emsp;The assets, liabilities (including contingent liabilities arising from suits continued with a substitution or addition of parties under section 6543(d) of this title), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and otherfunds employed, held, used, arising from, available to, or to be made available in connection with the functions and offices of USIA transferred to the Broadcasting Board of Governors by this part shall be transferred to the Broadcasting Board of Governors for appropriate allocation.
 
 #### (2) Additional transfers
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of law—
 
 #### (c) Transfer and allocation of property, appropriations, and personnel associated with Worldnet
 
-USIA personnel responsible for carrying out interactive dialogs with foreign media and othersimilar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
+USIA personnel responsible for carrying out interactive dialogs with foreign media and other similar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
 
 #### (d) Incidental transfers
 

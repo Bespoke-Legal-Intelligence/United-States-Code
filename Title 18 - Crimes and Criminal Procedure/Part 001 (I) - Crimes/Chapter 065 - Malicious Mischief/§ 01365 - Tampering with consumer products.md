@@ -16,7 +16,7 @@
 
 (2) As used in paragraph (1) of this subsection, the term “communicates false information” means communicates information that is false and that the communicator knows is false, under circumstances in which the information may reasonably be expected to be believed.
 
-(d) Whoever knowingly threatens, under circumstances in which the threat may reasonably be expected to be believed, that conduct that, ifit occurred, would violate subsection (a) of this section will occur, shall be fined under this title or imprisoned not more than five years, or both.
+(d) Whoever knowingly threatens, under circumstances in which the threat may reasonably be expected to be believed, that conduct that, if it occurred, would violate subsection (a) of this section will occur, shall be fined under this title or imprisoned not more than five years, or both.
 
 (e) Whoever is a party to a conspiracy of two or more persons to commit an offense under subsection (a) of this section, if any of the parties intentionally engages in any conduct in furtherance of such offense, shall be fined under this title or imprisoned not more than ten years, or both.
 

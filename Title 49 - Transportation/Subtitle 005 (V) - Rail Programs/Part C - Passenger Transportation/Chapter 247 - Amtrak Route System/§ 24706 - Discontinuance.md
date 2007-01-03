@@ -148,7 +148,7 @@ Dispute Resolution.—(1) With respect to the dispute described in subsection (a
 
 “(3) The compensation of individuals selected under paragraph (1) shall be fixed by the National Mediation Board. The second paragraph of section 10 of the Railway Labor Act \[45 U.S.C. 160\] shall apply to the expenses of such individuals as if such individuals were members of a board created under such section 10.
 
-“(4) If the parties to a dispute described in subsection (a) fail to reach agreement within 150 days after the date of the enactment of this Act, the individual selected under paragraph (1) with respect to such dispute shall make recommendations to the parties proposing contract terms to resolve the dispute.
+“(4) If the parties to a dispute described in subsection (a) fail to reach agreement within 150 days after the date of the enactment of this Act, the individual selected under paragraph (1) with respect to such disputeshall make recommendations to the parties proposing contract terms to resolve the dispute.
 
 “(5) If the parties to a dispute described in subsection (a) fail to reach agreement, no change shall be made by either of the parties in the conditions out of which the dispute arose for 30 days after recommendations are made under paragraph (4).
 

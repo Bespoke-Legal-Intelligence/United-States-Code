@@ -32,11 +32,11 @@ Loan guarantees under this section shall be on such terms and conditions as the 
 
 &emsp;(4) in the judgment of the Secretary of Energy, there is reasonable assurance of repayment of the loan by the qualified borrower; and
 
-&emsp;(5) no loan shall be guaranteed by the Secretary of Energy under subsection (b) of this section unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
+&emsp;(5) no loan shall be guaranteed by the Secretary of Energy under subsection (b) of thissection unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
 
 #### (e) Maximum guarantee per loan; maximum of aggregate guarantees; Electric and Hybrid Vehicle Development Fund; establishment, funding, etc.
 
-(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order tocarry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (2) The aggregate amount of guarantees outstanding under this section at any one time shall not exceed $60,000,000.
 
@@ -68,7 +68,7 @@ No loan guarantee shall be made, or interest assistance contracts entered into, 
 
 #### (i) Citizenship of applicant; corporations; waiver
 
-An applicant seeking a guarantee under this section must be a citizen or national of the United States. A corporation, partnership, firm, or association shall not be deemed to be a citizen or national of the United States unless the Secretary of Energy determines that it satisfactorily meets all the requirements of sections 802 and 803 of title 46, Appendix, for determining such citizenship, except that the provisions in section 802(a) of title 46, Appendix, concerning (1) the citizenship of officers or directors of a corporation, and (2) the interest required to be owned in the case of a corporation, association, or partnership operating a vessel in the coastwise trade, shall not be applicable. The Secretary of Energy, in consultation with the Secretary of State, may waive such requirements in the case of a corporation, partnership, firm, or association, controlling interest in which is owned by citizens of countries which are participants in the International Energy Agreement.
+An applicant seeking a guarantee under this section must be a citizen or national of the United States. A corporation, partnership, firm, or association shall not be deemed to be a citizen or national of the United States unless the Secretary of Energy determines that it satisfactorily meets all the requirements of section 50501 of title 46, for determining such citizenship, except that the provisions in subsections (a) and (b) of such section 50501 concerning (1) the citizenship of officers or directors of a corporation, and (2) the interest required to be owned in the case of a corporation, association, or partnership operating a vessel in the coastwise trade, shall not be applicable. The Secretary of Energy, in consultation with the Secretary of State, may waive such requirements in the case of a corporation, partnership, firm, or association, controlling interest in which is owned by citizens of countries which are participants in the International Energy Agreement.
 
 #### (j) Pledge of full faith and credit of United States
 
@@ -79,6 +79,8 @@ The full faith and credit of the United States is pledged to the payment of all 
 #### Codification
 
 In subsec. (e)(3)(C), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+In subsec. (i), “section 50501 of title 46” substituted for “section 2 of the Shipping Act of 1916 (46 U.S.C. 802)” and “subsections (a) and (b) of such section 50501” substituted for “subsection (a) of such section 2” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
 #### Amendments
 

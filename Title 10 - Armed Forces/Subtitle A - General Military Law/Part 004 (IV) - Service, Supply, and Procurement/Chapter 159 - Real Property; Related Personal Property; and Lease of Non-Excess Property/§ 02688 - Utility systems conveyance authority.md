@@ -36,9 +36,9 @@ Consideration.—(1) The Secretary concerned may require as consideration for a 
 
 (d)
 
-Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
+Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract forutility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
 
-(2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective.The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.
+(2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.
 
 (e)
 
@@ -96,7 +96,7 @@ Limitation.—This section shall not apply to projects constructed or operated b
 
 #### Prior Provisions
 
-A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, §804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, §11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, §901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2857 of this title.
+A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, §804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, §11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, §901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2915 of this title.
 
 #### Amendments
 

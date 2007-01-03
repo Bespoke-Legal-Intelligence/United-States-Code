@@ -20,7 +20,7 @@ Any public offering under this section may be made without the consent of the Co
 
 #### (d) Authority to require stock splits
 
-(1) The Secretary of Transportation, in consultation with the co-lead managers and the Chairman of the Board of Directors of the Corporation, may, in connection with the initial public offering described in subsection (a) of this section, before the filing of the registrationstatement referred to in section 1311(c) of this title, require the Corporation to declare a stock split or reverse stock split.
+(1) The Secretary of Transportation, in consultation with the co-lead managers and the Chairman of the Board of Directors of the Corporation, may, in connection with the initial public offering described in subsection (a) of this section, before the filing of the registration statement referred to in section 1311(c) of this title, require the Corporation to declare a stock split or reverse stock split.
 
 (2) The Corporation shall take such action as may be necessary to comply with the Secretary's requirements under this subsection.
 
@@ -56,5 +56,5 @@ This subchapter, referred to in subsec. (f), was in the original “this part”
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 

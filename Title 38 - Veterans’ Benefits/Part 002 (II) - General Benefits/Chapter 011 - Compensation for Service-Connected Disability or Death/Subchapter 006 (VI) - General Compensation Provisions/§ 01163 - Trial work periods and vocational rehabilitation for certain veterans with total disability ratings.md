@@ -72,7 +72,7 @@ Section 2(e) of Pub. L. 102–291 provided that: “The following actions of the
 
 #### Information; Temporary Program; Administrator
 
-Section 111(b) of Pub. L. 98–543 directed Administrator of Veterans’ Affairs to provide, not later thanApr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
+Section 111(b) of Pub. L. 98–543 directed Administrator of Veterans’ Affairs to provide, not later than Apr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
 
 #### Report to Congressional Committees; Trial Program
 

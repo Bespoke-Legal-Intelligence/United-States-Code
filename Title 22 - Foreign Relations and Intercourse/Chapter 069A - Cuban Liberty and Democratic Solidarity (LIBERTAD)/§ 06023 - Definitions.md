@@ -72,7 +72,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (12) Property
 
-&emsp;(A) The term “property” means any property (including patents, copyrights, trademarks, and any other form of intellectual property), whether real, personal, or mixed, and any present, future, or contingent right, security, or other interest therein, including any leasehold interest.
+&emsp;(A) The term “property” means any property (including patents, copyrights, trademarks, and any other form of intellectualproperty), whether real, personal, or mixed, and any present, future, or contingent right, security, or other interest therein, including any leasehold interest.
 
 &emsp;(B) For purposes of subchapter III of this chapter, the term “property” does not include real property used for residential purposes unless, as of March 12, 1996—
 

@@ -48,7 +48,7 @@ Section 202(c) of Pub. L. 103–82 provided that:
 
 “(1)
 
-Definitions.—For purposes of this subsection, unless otherwise provided or indicated by the context, each term specified in section 203(c)(1) \[set out below\] shall have the meaning given the term in such section.
+Definitions.—For purposes of this subsection, unless otherwise provided or indicated by the context,each term specified in section 203(c)(1) \[set out below\] shall have the meaning given the term in such section.
 
 “(2)
 
@@ -132,7 +132,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;“(B)
 
-Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
+Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official,by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
 
 &emsp;“(C)
 
@@ -254,7 +254,7 @@ Duplication of functions.—The business plan shall include a description of the
 
 “(c)
 
-Definition.—The term ‘transition period’ means the period beginning on October 1, 1993 and ending onthe day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\].”
+Definition.—The term ‘transition period’ means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\].”
 
 #### Proc. No. 6662. Transfer of Functions of ACTION Agency to Corporation for National and Community Service
 

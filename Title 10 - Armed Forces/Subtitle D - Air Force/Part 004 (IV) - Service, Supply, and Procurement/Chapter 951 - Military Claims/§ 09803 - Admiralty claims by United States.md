@@ -10,7 +10,7 @@
 
 &emsp;(2) the amount to be received by the United States is not more than $500,000.
 
-(b) In exchange for payment of an amount found to be due the United States under subsection (a), the Secretary of the Air Force may execute a release of the claim on behalf of the United States. Amounts received under this section shall be covered into the Treasury.
+(b) In exchange for payment of an amount found to be due the United States under subsection (a), the Secretary of the Air Force mayexecute a release of the claim on behalf of the United States. Amounts received under this section shall be covered into the Treasury.
 
 (c) In any case where the amount to be received by the United States is not more than $100,000, the Secretary of the Air Force may delegate his authority under subsections (a) and (b) to any person in the Department of the Air Force designated by him.
 

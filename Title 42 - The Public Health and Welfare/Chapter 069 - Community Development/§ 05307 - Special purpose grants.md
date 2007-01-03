@@ -82,7 +82,7 @@ Section 1437<i>o</i> of this title, referred to in subsec. (e)(1), was repealed 
 
 The Civil Rights Act of 1964, referred to in subsec. (e)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, asamended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 Public Law 90–284, referred to in subsec. (e)(2), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. Title II of Pub. L. 90–284 is classified generally to subchapter I (§1301 et seq.) of chapter 15 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 97–35 substituted provisions relating to assurances requi
 
 Subsec. (d). Pub. L. 96–399, §117(b), inserted “under this chapter” after “Indian tribe”.
 
-1978—Subsec. (a)(8). Pub. L. 95–557 substituted “The Secretary may also provide, directly or through contracts, technical assistance under this paragraph tosuch governmental units, or to a group designated by such a governmental unit for the purpose of assisting that governmental unit to carry out its Community Development Program” for “The Secretary may also provide such technical assistance under this paragraph directly or through contracts”.
+1978—Subsec. (a)(8). Pub. L. 95–557 substituted “The Secretary may also provide, directly or through contracts, technical assistance under this paragraph to such governmental units, or to a group designated by such a governmental unit for the purpose of assisting that governmental unit to carry out its Community Development Program” for “The Secretary may also provide such technical assistance under this paragraph directly or through contracts”.
 
 1977—Subsec. (a). Pub. L. 95–128, §107(1), (2), extended provisions to fiscal years 1978 through 1980 and increased rate to 3 from 2 per centum.
 

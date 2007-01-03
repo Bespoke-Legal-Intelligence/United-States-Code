@@ -6,11 +6,13 @@ Except to the extent the appropriate Federal agency or department head determine
 
 &emsp;(1) programs or activities regarding computer systems that process classified information; or
 
-&emsp;(2) computer systems the function, operation, or use of which are those delineated in paragraphs (1) through (5) of section 2315(a) of title 10.
+&emsp;(2) computer systems the function, operation, or use of which are those delineated in paragraphs (1) through (5) of section 2315(a) of title 10.<sup>1</sup>
 
 #### (b) Acquisition of prototype and early production models
 
 In accordance with Federal contracting law, Federal agencies and departments participating in the Program may acquire prototype or early production models of new high-performance computing systems and subsystems to stimulate hardware and software development. Items of computing equipment acquired under this subsection shall be considered research computers for purposes of applicable acquisition regulations.
 
 (Pub. L. 102–194, title II, §207, Dec. 9, 1991, 105 Stat. 1602.)
+
+<i><sup>1</sup></i><i> So in original. Section 2315 of title 10 does not contain a subsec. (a).</i>
 

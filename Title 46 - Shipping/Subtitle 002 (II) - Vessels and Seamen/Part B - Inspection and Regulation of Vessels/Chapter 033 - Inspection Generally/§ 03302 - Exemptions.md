@@ -6,11 +6,15 @@
 
 &emsp;(2) excluded by this section from another category of section 3301 of this title.
 
-(b) Except as provided in subsection (c)(3) of this section, a fishing vessel <sup>1</sup> including a vessel chartered part-time as a fish tender vessel, is exempt from section 3301(1), (7), (11), and (12) of this title.
+(b) Except as provided in subsection (c)(3) of this section, a fishing vessel, including a vessel chartered part-time as a fish tender vessel, is exempt from section 3301(1), (7), (11), and (12) of this title.
 
 (c)(1) Except as provided in paragraph (3) of this subsection, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title is exempt from section 3301(1), (6), (7), (11), and (12) of this title.
 
-(2) Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title is exempt from section 3301(1), (6), (7), (11), and (12) of this title.
+(2) Except as provided in paragraphs (3) and (4) of this subsection, the following fish tender vessels are exempt from section 3301(1), (6), (7), (11), and (12) of this title:
+
+&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+
+&emsp;(B) A vessel engaged in the Aleutian trade that is not more than 2,500 gross tons as measured under section 14302 of this title.
 
 (3)(A) A fishing vessel or fish processing vessel is exempt from section 3301(1), (6), and (7) of this title when transporting cargo (including fisheries-related cargo) to or from a place in Alaska if—
 
@@ -20,7 +24,7 @@
 
 &emsp;(iii) the cargo is proprietary cargo owned by the owner of the vessel or any affiliated entity or subsidiary.
 
-(B) A fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, which is qualified to engage in the Aleutian trade is exempt from section 3301(1), (6), and (7) of this title when transporting cargo (including fisheries-related cargo) to or from a place in Alaska outside the Aleutian trade geographic area if—
+(B) A fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title, which is qualified to engage in the Aleutian trade is exempt from section 3301(1), (6), and (7) of this title when transporting cargo (including fisheries-related cargo) to or from a place in Alaska outside the Aleutian trade geographic area if—
 
 &emsp;(i) that place does not receive weekly common carrier service by water from a place in the United States;
 
@@ -40,7 +44,7 @@
 
 (4) A fish tender vessel is exempt from section 3301(1), (6), and (7) of this title when engaged in the Aleutian trade if the vessel—
 
-&emsp;(A) is not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
+&emsp;(A) is not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title;
 
 &emsp;(B) has an incline test performed by a marine surveyor; and
 
@@ -84,7 +88,7 @@
 
 (3) A permit may be issued for a specific voyage or for not more than one year. The permit may impose specific requirements about the amount or type of cargo to be carried, manning, the areas or specific routes over which the vessel may operate, or other similar matters. The duration of the permit and restrictions contained in the permit shall be at the sole discretion of the Secretary.
 
-(4) A designated Coast Guard official who has reason to believe that a vessel issued a permit is in a condition or is operated in a manner that creates an immediate threat to the safety of life or the environment or is operated in a manner that is inconsistent with the terms of the permit, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
+(4) A designated Coast Guard official who has reason to believe that a vessel issued a permit is in a condition or is operated in a manner that creates an immediate threat to the safety of life or the environment or is operated in a manner that is inconsistent with the terms of the permit, may direct the master or individual in charge to take immediate and reasonable stepsto safeguard life and the environment, including directing the vessel to a port or other refuge.
 
 (5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer, managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
 
@@ -96,7 +100,7 @@
 
 &emsp;&emsp;(A) the United States Merchant Marine Academy; or
 
-&emsp;&emsp;(B) a State maritime academy assisted under section 1304 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295c).
+&emsp;&emsp;(B) a State maritime academy assisted under chapter 515 of this title.
 
 (k) Only the boiler, engine, and other operating machinery of a steam vessel that is a recreational vessel of not more than 65 feet overall in length are subject to inspection under section 3301(9) of this title.
 
@@ -106,7 +110,7 @@
 
 &emsp;(B) The steamship Lane Victory (United States official number 248094), owned by the United States Merchant Marine Veterans of World War II, located in San Pedro, California.
 
-&emsp;(C) The steamship Jeremiah O'Brien (United States official number 243622), owned by the National Liberty Ship Memorial, Inc..<sup>2</sup>
+&emsp;(C) The steamship Jeremiah O'Brien (United States official number 243622), owned by the National Liberty Ship Memorial, Inc.
 
 &emsp;(D) The SS Red Oak Victory (United States official number 249410), owned by the Richmond Museum Association, located in Richmond, California.
 
@@ -124,7 +128,7 @@
 
 &emsp;(2) a flammable or combustible liquid, including oil, in bulk.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969;Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703.)
 
 Historical and Revision Notes
 
@@ -149,6 +153,16 @@ Historical and Revision Notes
 Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–304, §15(11)(A), inserted comma after “fishing vessel”.
+
+Subsec. (c)(2). Pub. L. 109–241, §311(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title is exempt from section 3301(1), (6), (7), (11), and (12) of this title.”
+
+Subsec. (c)(3)(B), (4)(A). Pub. L. 109–241, §311(b), substituted “or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title” for “or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title”.
+
+Subsec. (j)(2)(B). Pub. L. 109–304, §15(11)(B), substituted “chapter 515 of this title” for “section 1304 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295c)”.
+
+Subsec. (<i>l</i>)(1)(C). Pub. L. 109–304, §15(11)(C), substituted “Inc.” for “Inc..”.
 
 2002—Subsec. (<i>l</i>)(1)(D) to (F). Pub. L. 107–295 added subpars. (D) to (F).
 
@@ -216,9 +230,9 @@ Pub. L. 100–418, title X, §10003(b), Aug. 23, 1988, 102 Stat. 1573, provided 
 
 #### Exemption of Certain Fishing and Fish Processing Vessels
 
-Section 403 of Pub. L. 98–364, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat. 68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
+Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat. 68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
 
-“(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type,before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
+“(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type, before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
 
 “(b) A fish processing vessel entered into service before January 1, 1988, and more than 1,600 gross tons or entered into service after December 31, 1987, and having more than 16 individuals on board primarily employed in the preparation of fish or fish products is exempt from section 8702(b) of title 46, United States Code, until 18 months after the date of enactment of this Act \[July 17, 1984\].
 
@@ -226,9 +240,5 @@ Section 403 of Pub. L. 98–364, as amended by Pub. L. 99–36, §3, May 15, 198
 
 #### Offshore Supply Vessels; Transition Period for Compliance With Vessel Inspection Provisions
 
-Section 2(i) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel described in section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+Pub. L. 98–89, §2(i), Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel described in section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes\[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
 

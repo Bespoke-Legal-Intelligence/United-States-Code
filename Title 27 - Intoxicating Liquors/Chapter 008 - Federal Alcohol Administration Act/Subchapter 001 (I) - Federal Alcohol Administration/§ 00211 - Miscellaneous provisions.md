@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(1) The term “United States” means the several States and Territories and the District of Columbia; the term “State” includes a Territory and the District of Columbia; and the term “Territory” means Alaska, Hawaii, and Puerto Rico.
 
-&emsp;(2) The term “interstate or foreign commerce” means commerce between any State and any place outside thereof, or commerce within any Territory or the District of Columbia, or between points within the same State but through any place outside thereof.
+&emsp;(2) The term “interstate or foreign commerce” means commerce between any State and any place outside thereof, or commercewithin any Territory or the District of Columbia, or between points within the same State but through any place outside thereof.
 
 &emsp;(3) The term “person” means individual, partnership, joint stock company, business trust, association, corporation, or other form of business enterprise, including a receiver, trustee, or liquidating agent and including an officer or employee of any agency of a State or political subdivision thereof; and the term “trade buyer” means any person who is a wholesaler or retailer.
 

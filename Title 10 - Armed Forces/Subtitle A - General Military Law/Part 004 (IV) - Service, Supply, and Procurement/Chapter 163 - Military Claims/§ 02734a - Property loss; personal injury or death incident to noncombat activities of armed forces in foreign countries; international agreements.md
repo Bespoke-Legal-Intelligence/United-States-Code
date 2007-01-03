@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 Aug. 31, 1954, ch. 1152, §§1 (less proviso, as applicable to §2), 4 (as applicable to §1), 68 Stat. 1006, 1007.
 
-In subsection (a), the following substitutions are made: “Under” for “Pursuant to the terms”; “country” for “government”; “under its laws and regulations” for “in accordance with the laws and regulations of such foreign government”; “may” for “is authorized”; “amounts” for “sums”; and “spent” for “expended”. The words “now or may hereafter be” are omitted as surplusage.
+In subsection (a), the following substitutions are made: “Under” for “Pursuant to the terms”; “country” for “government”; “under its laws and regulations” for “in accordance with the laws and regulations of such foreign government”; “may” for “is authorized”; “amounts” for “sums”; and “spent” for “expended”.The words “now or may hereafter be” are omitted as surplusage.
 
 In subsection (b), the following substitutions are made: “act” for “action” and “may” for “shall”.
 

@@ -18,7 +18,7 @@ Any State agency designated by the Governor of a State desiring a grant under th
 
 #### (d) Amount of Federal share; equality of distribution of funds
 
-The Federal share for each State grant under subsection (a) of this section may not exceed 90 per centum of the total cost to the State in identifying its needs and developing its plan. In the event the Federal share for all States under such subsection is not the same, the differencesamong the States shall be established on the basis of objective criteria.
+The Federal share for each State grant under subsection (a) of this section may not exceed 90 per centum of the total cost to the State in identifying its needs and developing its plan. In the event the Federal share for all States under such subsection is not the same, the differences among the States shall be established on the basis of objective criteria.
 
 (Pub. L. 93–383, title VI, §624, Aug. 22, 1974, 88 Stat. 713; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641.)
 

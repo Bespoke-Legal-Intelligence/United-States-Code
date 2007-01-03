@@ -26,9 +26,9 @@ Application.—For purposes of section 6102 of this title and subchapters III an
 
 &emsp;&emsp;(D) the north curb of East Capitol Street between First Street Northeast and Second Street Northeast; and
 
-&emsp;(2) comprise any property under the custody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the Federal Government in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the Supreme Court Building.
+&emsp;(2) comprise any property under the custody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the Federal Government in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the Supreme Court Building and that parcel transferred under the Supreme Court Grounds Transfer Act of 2005.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–214, §1(c)(2), Apr. 11, 2006, 120 Stat. 326.)
 
 Historical and Revision Notes
 
@@ -59,6 +59,74 @@ Before clause (1), the words “In this chapter, the following definitions apply
 In clause (2), the words “the Virgin Islands, Guam, the Northern Mariana Islands, the Federal States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States” are substituted for “any territory or possession of the United States” to clarify that the provisions of the source law apply to those jurisdictions.
 
 In subsection (b), before clause (1), the words “In addition to the property referred to in the preceding sentence, for the purposes of sections 13f to 13p of this title, the Supreme Court grounds” are omitted as unnecessary.
+
+#### References in Text
+
+The Supreme Court Grounds Transfer Act of 2005, referred to in subsec. (b)(2), is section 1 of Pub. L. 109–214, Apr. 11, 2006, 120 Stat. 326, which is set out as a note below.
+
+#### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–214 inserted “and that parcel transferred under the Supreme Court Grounds Transfer Act of 2005” before period at end.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–214 applicable to fiscal year 2006 and each fiscal year thereafter, see section 1(d) of Pub. L. 109–214, set out as a note below.
+
+#### Transfer of Jurisdiction Over Certain Real Property to the Supreme Court
+
+Pub. L. 109–214, §1, Apr. 11, 2006, 120 Stat. 326, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘Supreme Court Grounds Transfer Act of 2005’.
+
+“(b)
+
+Transfer of Jurisdiction.—
+
+&emsp;“(1)
+
+In general.—Jurisdiction over the parcel of Federal real property described under paragraph (2) (over which jurisdiction was transferred to the Architect of the Capitol under section 514(b)(2)(B)(i) of the Omnibus Parks and Public Lands Management Act of 1996 (40 U.S.C. 5102 note; Public Law 104–333; 110 Stat. 4165)) is transferred to the Supreme Court of the United States, without consideration.
+
+&emsp;“(2)
+
+Parcel.—The parcel of Federal real property referred to under paragraph (1) is that portion of the triangle of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Architect of the Capitol, including any contiguous sidewalks, bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running in a northeast direction on the west, the major portion of Maryland Avenue, N.E., on the south, and 2nd Street, N.E., on the east, including the contiguous sidewalks.
+
+“(c)
+
+Miscellaneous.—
+
+&emsp;“(1)
+
+Compliance with other laws.—Compliance with this section shall be deemed to satisfy the requirements of all laws otherwise applicable to transfers of jurisdiction over parcels of Federal real property.
+
+&emsp;“(2)
+
+Inclusion in supreme court grounds.—\[Amended section 6101(b)(2) of this title.\]
+
+&emsp;“(3)
+
+United states capitol grounds.—
+
+&emsp;&emsp;“(A)
+
+Definition.—Section 5102 of title 40, United States Code, is amended to exclude within the definition of the United States Capitol Grounds the parcel of Federal real property described in subsection (b)(2).
+
+&emsp;&emsp;“(B)
+
+Jurisdiction of capitol police.—The United States Capitol Police shall not have jurisdiction over the parcel of Federal real property described in subsection (b)(2) by reason of such parcel formerly being part of the United States Capitol Grounds.
+
+&emsp;“(4)
+
+Recording of map of supreme court grounds.—The Architect of the Capitol shall record with the Office of the Surveyor of the District of Columbia a map showing areas comprising the grounds of the Supreme Court of the United States that reflects—
+
+&emsp;&emsp;“(A) the legal boundaries described under section 6101(b)(1) of title 40, United States Code; and
+
+&emsp;&emsp;“(B) any portion of the United States Capitol Grounds as described under section 5102 of title 40, United States Code, which is contiguous to the boundaries or property described under subparagraph (A) of this paragraph.
+
+“(d)
+
+Effective Date.—This Act shall apply to fiscal year 2006 and each fiscal year thereafter.”
 
 #### United States Supreme Court Building; Acquisition of Certain Real Property
 

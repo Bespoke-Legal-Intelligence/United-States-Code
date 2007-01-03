@@ -2,23 +2,29 @@
 
 #### (a) In general
 
-For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration such sums as may be necessary for fiscal years 2001, 2002, 2003, 2004, and 2005 <sup>1</sup>
+For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
 #### (b) Eldercare Locator Service
 
-There are authorized to be appropriated to carry out section 3012(a)(24) <sup>2</sup> of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out section 3012(a)(24) <sup>1</sup> of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
 #### (c) Pension counseling and information programs
 
-There are authorized to be appropriated to carry out section 3020e–1 of this title, such sums as may be necessary for fiscal year 2001 and for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out section 3020e–1 of this title, such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
-(Pub. L. 89–73, title II, §216, formerly §215, as added Pub. L. 102–375, title II, §210, Sept. 30, 1992, 106 Stat. 1215; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; renumbered §216 and amended Pub. L. 106–501, title II, §§202(4), 205, Nov. 13, 2000, 114 Stat. 2231, 2234.)
+(Pub. L. 89–73, title II, §216, formerly §215, as added Pub. L. 102–375, title II, §210, Sept. 30, 1992, 106 Stat. 1215; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; renumbered §216 and amended Pub. L. 106–501, title II, §§202(4), 205, Nov. 13, 2000, 114 Stat. 2231, 2234; Pub. L. 109–365, title II, §210, Oct. 17, 2006, 120 Stat. 2538.)
 
 #### References in Text
 
 Section 3012(a)(24) of this title, referred to in subsec. (b), does not relate to the National Eldercare Locator Service. Provisions relating to that Service are found elsewhere in section 3012.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–365, §210(1), substituted “2007, 2008, 2009, 2010, and 2011.” for “2001, 2002, 2003, 2004, and 2005”.
+
+Subsec. (b). Pub. L. 109–365, §210(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+
+Subsec. (c). Pub. L. 109–365, §210(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001 and for each of the 4 succeeding fiscal years”.
 
 2000—Subsec. (a). Pub. L. 106–501, §205(1), in heading, substituted “In general” for “Administration”, and in text, inserted “administration, salaries, and expenses of” after “appropriated for” and substituted “2001, 2002, 2003, 2004, and 2005” for “1992, 1993, 1994, and 1995.”
 

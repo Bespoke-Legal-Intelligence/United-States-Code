@@ -8,7 +8,7 @@
 - [&sect; 05141 - Waiver of administrative conditions](%C2%A7%2005141%20-%20Waiver%20of%20administrative%20conditions.md)
 - [&sect; 05142 - Repealed. Pub. L. 100&#8211;707, title I, &sect;105(a)(2), Nov. 23, 1988, 102 Stat. 4691](%C2%A7%2005142%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93707%2C%20title%20I%2C%20%C2%A7105%28a%29%282%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204691.md)
 - [&sect; 05143 - Coordinating officers](%C2%A7%2005143%20-%20Coordinating%20officers.md)
-- [&sect; 05144 - Emergency support teams](%C2%A7%2005144%20-%20Emergency%20support%20teams.md)
+- [&sect; 05144 - Emergency support and response teams](%C2%A7%2005144%20-%20Emergency%20support%20and%20response%20teams.md)
 - [&sect; 05145, 5146 - Repealed. Pub. L. 100&#8211;707, title I, &sect;105(d), Nov. 23, 1988, 102 Stat. 4691](%C2%A7%2005145%2C%205146%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93707%2C%20title%20I%2C%20%C2%A7105%28d%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204691.md)
 - [&sect; 05147 - Reimbursement of Federal agencies](%C2%A7%2005147%20-%20Reimbursement%20of%20Federal%20agencies.md)
 - [&sect; 05148 - Nonliability of Federal Government](%C2%A7%2005148%20-%20Nonliability%20of%20Federal%20Government.md)
@@ -33,3 +33,4 @@
 - [&sect; 05165a - Minimum standards for public and private structures](%C2%A7%2005165a%20-%20Minimum%20standards%20for%20public%20and%20private%20structures.md)
 - [&sect; 05165b - Management costs](%C2%A7%2005165b%20-%20Management%20costs.md)
 - [&sect; 05165c - Public notice, comment, and consultation requirements](%C2%A7%2005165c%20-%20Public%20notice%2C%20comment%2C%20and%20consultation%20requirements.md)
+- [&sect; 05165d - Designation of Small State and Rural Advocate](%C2%A7%2005165d%20-%20Designation%20of%20Small%20State%20and%20Rural%20Advocate.md)

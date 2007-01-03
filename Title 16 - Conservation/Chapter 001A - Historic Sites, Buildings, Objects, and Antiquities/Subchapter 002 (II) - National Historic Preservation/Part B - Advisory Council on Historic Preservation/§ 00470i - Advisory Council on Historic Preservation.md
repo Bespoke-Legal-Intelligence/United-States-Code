@@ -10,7 +10,7 @@ There is established as an independent agency of the United States Government an
 
 &emsp;(3) the Architect of the Capitol;
 
-&emsp;(4) the Secretary of Agriculture and the heads of four other agencies of the United States (other than the Department of the Interior) the activities of which affect historic preservation, designated by the President;
+&emsp;(4) the Secretary of Agriculture and the heads of seven other agencies of the United States (other than the Department of the Interior) the activities of which affect historic preservation, designated by the President;
 
 &emsp;(5) one Governor appointed by the President;
 
@@ -28,7 +28,7 @@ There is established as an independent agency of the United States Government an
 
 #### (b) Designation of substitutes
 
-Each member of the Council specified in paragraphs (2) through (8) other than (5) and (6) of subsection (a) of this section may designate another officer of his department, agency, or organization to serve on the Council in his stead, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated.
+Each member of the Council specified in paragraphs (2) through (8) other than (6) of subsection (a) of this section may designate another officer of his department, agency, or organization to serve on the Council in his stead, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated.
 
 #### (c) Term of office
 
@@ -44,17 +44,23 @@ The President shall designate a Vice Chairman, from the members appointed under 
 
 #### (f) Quorum
 
-Nine members of the Council shall constitute a quorum.
+12 members of the Council shall constitute a quorum.
 
-(Pub. L. 89–665, title II, §201, Oct. 15, 1966, 80 Stat. 917; Pub. L. 91–243, §1(b)–(e), May 9, 1970, 84 Stat. 204; Pub. L. 93–54, §1(c), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, §201(5), Sept. 28, 1976, 90 Stat. 1320; Pub. L. 96–515, title III, §301(a)–(f), Dec. 12, 1980, 94 Stat. 2998, 2999; Pub. L. 102–575, title XL, §§4016, 4019(b), Oct. 30, 1992, 106 Stat. 4763, 4765; Pub. L. 104–333, div. I, title V, §509(c)(1), (2), Nov. 12, 1996, 110 Stat. 4157.)
+(Pub. L. 89–665, title II, §201, Oct. 15, 1966, 80 Stat. 917; Pub. L. 91–243, §1(b)–(e), May 9, 1970, 84 Stat. 204; Pub. L. 93–54, §1(c), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, §201(5), Sept. 28, 1976, 90 Stat. 1320; Pub. L. 96–515, title III, §301(a)–(f), Dec. 12, 1980, 94 Stat. 2998, 2999; Pub. L. 102–575, title XL, §§4016, 4019(b), Oct. 30, 1992, 106 Stat. 4763, 4765; Pub. L. 104–333, div. I, title V, §509(c)(1), (2), Nov. 12, 1996, 110 Stat. 4157; Pub. L. 109–453, §1(d), Dec. 22, 2006, 120 Stat. 3367.)
 
 #### Amendments
+
+2006—Subsec. (a)(4). Pub. L. 109–453, §1(d)(1), substituted “seven” for “four”.
+
+Subsec. (b). Pub. L. 109–453, §1(d)(2), struck out “(5) and” before “(6)”.
+
+Subsec. (f). Pub. L. 109–453, §1(d)(3), substituted “12” for “Nine”.
 
 1996—Subsec. (a)(4). Pub. L. 104–333, §509(c)(1), substituted “designated by the President” for “appointed by the President”.
 
 Subsec. (c). Pub. L. 104–333, §509(c)(2), which directed substitution of “through (11)” for “and 10”, was executed by making the substitution for “and (10)” to reflect the probable intent of Congress.
 
-1992—Subsec. (a). Pub. L. 102–575, §4019(b), which directed amendment of subsec. (a) by striking “(hereafter referred to as the ‘Council’)”, was executed by striking“(hereinafter referred to as the ‘Council’)” after “Historic Preservation” in introductory provisions to reflect the probable intent of Congress.
+1992—Subsec. (a). Pub. L. 102–575, §4019(b), which directed amendment of subsec. (a) by striking “(hereafter referred to as the ‘Council’)”, was executed by striking “(hereinafter referred to as the ‘Council’)” after “Historic Preservation” in introductory provisions to reflect the probable intent of Congress.
 
 Subsec. (a)(11). Pub. L. 102–575, §4016, added par. (11).
 
@@ -62,7 +68,7 @@ Subsec. (a)(11). Pub. L. 102–575, §4016, added par. (11).
 
 Subsec. (b). Pub. L. 96–515, §301(b), substituted “(2) through (8) (other than (5) and (6))” and “(1) through (17)” and inserted “, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated” following “in his stead”.
 
-Subsec. (c). Pub. L. 96–515, §301(c), substituted provision that the Chairman appointed by the President from the general public, each of the four experts appointed by the President, and each of the three at-large members appointed by the President from the general public serve a term of four years from the expiration of his predecessor's term, except that the members first appointed serve terms of one to four years in such a manner as to insure that the terms of not more than two of them expire in any one year, the one Governor and the one mayor appointed by the President serve for the term of their elected office but not in excess of four years, an appointed member not serve for more than two terms, and an appointed member whose term expired serve until his successor has been appointed for provision that each of the twelve members appointed by the President from outside the Federal Government serve for a term of five years from expiration of his predecessor's term, except that the members first appointed serve for terms of one to five years in such a manner as to insure that the terms of not less than one nor more than two of them expire in any one year.
+Subsec. (c). Pub. L. 96–515, §301(c), substituted provision that the Chairman appointed by the Presidentfrom the general public, each of the four experts appointed by the President, and each of the three at-large members appointed by the President from the general public serve a term of four years from the expiration of his predecessor's term, except that the members first appointed serve terms of one to four years in such a manner as to insure that the terms of not more than two of them expire in any one year, the one Governor and the one mayor appointed by the President serve for the term of their elected office but not in excess of four years, an appointed member not serve for more than two terms, and an appointed member whose term expired serve until his successor has been appointed for provision that each of the twelve members appointed by the President from outside the Federal Government serve for a term of five years from expiration of his predecessor's term, except that the members first appointed serve for terms of one to five years in such a manner as to insure that the terms of not less than one nor more than two of them expire in any one year.
 
 Subsec. (d). Pub. L. 96–515, §301(d), inserted provision that a vacancy be filled not later than sixty days after it commences, members of the Council appointed by the President before Dec. 12, 1980 remain in office until all members of the Council, as specified by this section, have been appointed, and members first appointed be appointed not later than 180 days after Dec. 12, 1980.
 

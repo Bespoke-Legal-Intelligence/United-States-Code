@@ -14,7 +14,7 @@ Except as provided in sections 4705 and 4712 of this title, the Fund shall requi
 
 &emsp;&emsp;(A) a business plan of not less than 5 years in duration that demonstrates that the applicant will be properly managed and will have the capacity to operate as a community development financial institution that will not be dependent upon assistance from the Fund for continued viability;
 
-&emsp;&emsp;(B) an analysis of the needs of the investment area or targeted population and a strategy for how the applicant will attempt to meet those needs;
+&emsp;&emsp;(B) an analysis of the needs of the investment area or targeted population and astrategy for how the applicant will attempt to meet those needs;
 
 &emsp;&emsp;(C) a plan to coordinate use of assistance from the Fund with existing Federal, State, local, and tribal government assistance programs, and private sector financial services;
 

@@ -3,33 +3,17 @@
 | Sec. |  |
 | :--- | ---: |
 | [2901\.](%C2%A7%2002901%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
-| (a) | Findings. |
-| (b) | Purpose. |
 | [2902\.](%C2%A7%2002902%20-%20Definitions.md) | Definitions. |
 | [2903\.](%C2%A7%2002903%20-%20Conservation%20plans.md) | Conservation plans. |
 | [2904\.](%C2%A7%2002904%20-%20Approval%20of%20conservation%20plans%20and%20certain%20nongame%20fish%20and%20wildlife%20conservation%20actions.md) | Approval of conservation plans and certain nongame fish and wildlife conservation actions. |
-| (a) | Approval by Secretary of plans. |
-| (b) | Effect of approval of plans. |
-| (c) | Conservation actions. |
-| (d) | Nongame conservation actions in the absence of an approved plan. |
 | [2905\.](%C2%A7%2002905%20-%20Reimbursement%20of%20State%20costs%20for%20developing%2C%20revising%2C%20and%20implementing%20conservation%20plans%20and%20implementing%20certain%20nongame%20fish%20and%E2%80%A6.md) | Reimbursement of State cost for developing, revising, and implementing conservation plans and implementing certain nongame fish and wildlife conservation actions. |
-| (a) | In general. |
-| (b) | Applications. |
-| (c) | Eligibility. |
-| (d) | Reimbursement. |
-| (e) | Limitations. |
 | [2906\.](%C2%A7%2002906%20-%20Terms%20and%20conditions%20of%20reimbursement.md) | Terms and conditions of reimbursement. |
 | [2907\.](%C2%A7%2002907%20-%20Allocation%20of%20funds%20for%20administration%20and%20reimbursement%20of%20States.md) | Allocation of funds for administration and reimbursement of States. |
-| (a) | In general. |
-| (b) | Allocation formula. |
-| (c) | Treatment of amounts allocated but not used for any fiscal year. |
 | [2908\.](%C2%A7%2002908%20-%20Other%20Federal%20assistance%20and%20actions.md) | Other Federal assistance and actions. |
 | [2909\.](%C2%A7%2002909%20-%20Disclaimers.md) | Disclaimers. |
 | [2910\.](%C2%A7%2002910%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2911\.](%C2%A7%2002911%20-%20Study%20on%20most%20equitable%20and%20effective%20mechanism%20for%20funding%20State%20conservation%20plans%3B%20report%20to%20Congressional%20committees.md) | Study on most equitable and effective mechanism for funding State conservation plans; report to Congressional committees. |
 | [2912\.](%C2%A7%2002912%20-%20Federal%20conservation%20of%20migratory%20nongame%20birds.md) | Federal conservation of migratory nongame birds. |
-| (a) | Conservation activities. |
-| (b) | Reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

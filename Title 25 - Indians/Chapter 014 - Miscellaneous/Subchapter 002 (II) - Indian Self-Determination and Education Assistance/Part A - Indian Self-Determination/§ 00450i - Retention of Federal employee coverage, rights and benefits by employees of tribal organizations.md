@@ -20,7 +20,7 @@ Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of tit
 
 #### (f) Deposit by tribal organization of employee deductions and agency contributions in appropriate funds
 
-During the period an employee is entitled to the coverage, rights, and benefits pursuant to the preceding subsection, the tribal organizationemploying such employee shall deposit currently in the appropriate funds the employee deductions and agency contributions required by paragraphs (2), (3), and (4) of such preceding subsection.
+During the period an employee is entitled to the coverage, rights, and benefits pursuant to the preceding subsection, the tribal organization employing such employee shall deposit currently in the appropriate funds the employee deductions and agency contributions required by paragraphs (2), (3), and (4) of such preceding subsection.
 
 #### (g) Election for retention by employee and tribal organization before date of employment by tribal organization; transfer of employee to another tribal organization
 

@@ -2,45 +2,49 @@
 
 In this chapter—
 
-&emsp;(1) the term “Administrator” means the Administrator of the Environmental Protection Agency;
+&emsp;(1) the term “Committee” means the Great Lakes Fish and Wildlife Restoration Proposal Review Committee established by section 941c(c) of this title;
 
-&emsp;(2) the term “Committee” means the Great Lakes Fish and Wildlife Restoration Proposal Review Committee established by section 941c(c) of this title;
+&emsp;(2) the term “Director” means the Director of the United States Fish and Wildlife Service;
 
-&emsp;(3) the term “Director” means the Director of the United States Fish and Wildlife Service;
+&emsp;(3) the term “Great Lakes Basin” means the air, land, water, and living organisms within the drainage basin of the Saint LawrenceRiver at or upstream from the point at which the river becomes the international boundary between Canada and the United States;
 
-&emsp;(4) the term “fish stock” means—
+&emsp;(4) the term “Indian Tribe” means any Indian tribe, band, village, nation, or other organized group or community that is recognized by the Bureau of Indian Affairs as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin;
 
-&emsp;&emsp;(A) a taxonomically distinct species or subspecies of fish; or
+&emsp;(5) the term “lower Great Lakes” means the region in which is located that portion of the Great Lakes Basin which is downstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan;
 
-&emsp;&emsp;(B) any other aggregation of fish that are geographically, ecologically, behaviorally, or otherwise limited from breeding with individuals from other groups of fish and are capable of management as a unit;
+&emsp;(6) the term “non-Federal source” includes a State government, local government, Indian tribe, other non-Federal governmental entity, private entity, and individual;
 
-&emsp;(5) the term “Great Lakes Basin” means the air, land, water, and living organisms within the drainage basin of the Saint Lawrence River at or upstream from the point at which the river becomes the international boundary between Canada and the United States;
+&emsp;(7) the term “nonindigenous species” means a species of plant, animal, or other organism that did not occur in the Great Lakes Basin before European colonization of North America;
 
-&emsp;(6) the term “Indian Tribe” means any Indian tribe, band, village, nation, or other organized group or community that is recognized by the Bureau of Indian Affairs as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+&emsp;(8) the term “regional project” means authorized activities of the United States Fish and Wildlife Service related to fish and wildlife resource protection, restoration, maintenance, and enhancement impacting multiple States or Indian Tribes with fish and wildlife management authority in the Great Lakes basin;
 
-&emsp;(7) the term “lower Great Lakes” means the region in which is located that portion of the Great Lakes Basin which is downstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan;
+&emsp;(9) the term “Report” means the United States Fish and Wildlife Service report entitled “Great Lakes Fishery Resources Restoration Study”, submitted to the President of the Senate and the Speaker of the House of Representatives on September 13, 1995;
 
-&emsp;(8) the term “non-Federal source” includes a State government, local government, Indian tribe, other non-Federal governmental entity, private entity, and individual;
+&emsp;(10) the term “restoration” means rehabilitation and maintenance of the structure, function, diversity, and dynamics of a biological system, including reestablishment of self-sustaining populations of fish and wildlife;
 
-&emsp;(9) the term “nonindigenous species” means a species of plant, animal, or other organism that did not occur in the Great Lakes Basinbefore European colonization of North America;
+&emsp;(11) the term “State Director” means the head of the agency, department, board, commission, or other governmental entity of each of the States of New York, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, and the Commonwealth of Pennsylvania which is responsible for the management and conservation of the fish and wildlife resources of that State; and
 
-&emsp;(10) the term “Report” means the United States Fish and Wildlife Service report entitled “Great Lakes Fishery Resources Restoration Study”, submitted to the President of the Senate and the Speaker of the House of Representatives on September 13, 1995;
+&emsp;(12) the term “upper Great Lakes” means that portion of the Great Lakes Basin which is upstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan.
 
-&emsp;(11) the term “restoration” means rehabilitation and maintenance of the structure, function, diversity, and dynamics of a biological system, including reestablishment of self-sustaining populations of fish and wildlife;
-
-&emsp;(12) the term “Secretary” means the Secretary of the Army;
-
-&emsp;(13) the term “State Director” means the head of the agency, department, board, commission, or other governmental entity of each of the States of New York, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, and the Commonwealth of Pennsylvania which is responsible for the management and conservation of the fish and wildlife resources of that State; and
-
-&emsp;(14) the term “upper Great Lakes” means that portion of the Great Lakes Basin which is upstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan.
-
-(Pub. L. 101–537, title I, §1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 5, Oct. 19, 1998, 112 Stat. 2358, 2359.)
+(Pub. L. 101–537, title I, §1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 5, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, §3, Oct. 11, 2006, 120 Stat. 1761.)
 
 #### Codification
 
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, §3(b).
 
 #### Amendments
+
+2006—Pars. (1) to (3). Pub. L. 109–326, §3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, and struck out former par. (1) which defined the term “Administrator”.
+
+Par. (4). Pub. L. 109–326, §3(3), inserted before semicolon at end “, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin”.
+
+Pub. L. 109–326, §3(1), (2), redesignated par. (6) as (4) and struck out former par. (4) which defined the term “fish stock”.
+
+Pars. (5) to (7). Pub. L. 109–326, §3(2), redesignated pars. (7) to (9) as (5) to (7), respectively.
+
+Par. (8). Pub. L. 109–326, §3(2), (4), added par. (8) and redesignated former par. (8) as (6).
+
+Pars. (9) to (14). Pub. L. 109–326, §3(1), (2), redesignated pars. (10), (11), (13), and (14) as (9) to (12), respectively, and struck out former par. (12) which defined the term “Secretary”.
 
 1998—Pub. L. 105–265, §5(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
 

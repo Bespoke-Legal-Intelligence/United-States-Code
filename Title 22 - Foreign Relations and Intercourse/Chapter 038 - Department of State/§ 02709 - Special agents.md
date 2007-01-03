@@ -42,9 +42,9 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 #### (c) Secret Service not affected
 
-Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 202 of title 3 or section 3056 of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
+Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
 
-(Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1), Apr. 30, 1994, 108 Stat. 397; Pub. L. 106–553, §1(a)(2) \[title IV, §406, formerly §407\], Dec. 21, 2000, 114 Stat. 2762, 2762A–97, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–228, div. A, title II, §202(a), (b), Sept. 30, 2002, 116 Stat. 1362.)
+(Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1), Apr. 30, 1994, 108 Stat. 397; Pub. L. 106–553, §1(a)(2) \[title IV, §406, formerly §407\], Dec. 21, 2000, 114 Stat. 2762, 2762A–97, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–228, div. A, title II, §202(a), (b), Sept. 30, 2002, 116 Stat. 1362; Pub. L. 109–177, title VI, §605(e)(2)(A), Mar. 9, 2006, 120 Stat. 255.)
 
 #### References in Text
 
@@ -55,6 +55,8 @@ Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently a
 A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125(a) of Pub. L. 99–93, and subsequently renumbered, and was set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–177 substituted “section 3056 or 3056A of title 18” for “section 202 of title 3 or section 3056 of title 18”.
 
 2002—Subsec. (a)(2). Pub. L. 107–228, §202(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for the purpose of conducting such investigations—
 
@@ -84,7 +86,7 @@ Subsec. (b). Pub. L. 107–228, §202(b), substituted “Agreements with Attorne
 
 1990—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting “970, or 1028” for “911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546”.
+Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting “970, or1028” for “911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546”.
 
 #### Transfer of Functions
 

@@ -20,7 +20,7 @@ The Congress finds with respect to the environment and health, that—
 
 &emsp;(2) disposal of solid waste and hazardous waste in or on the land without careful planning and management can present a danger to human health and the environment;
 
-&emsp;(3) as a result of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], and other Federal and State laws respecting public health and the environment, greater amounts of solid waste (in the form of sludge and other pollutiontreatment residues) have been created. Similarly, inadequate and environmentally unsound practices for the disposal or use of solid waste have created greater amounts of air and water pollution and other problems for the environment and for health;
+&emsp;(3) as a result of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], and other Federal and State laws respecting public health and the environment, greater amounts of solid waste (in the form of sludge and other pollution treatment residues) have been created. Similarly, inadequate and environmentally unsound practices for the disposal or use of solid waste have created greater amounts of air and water pollution and other problems for the environment and for health;
 
 &emsp;(4) open dumping is particularly harmful to health, contaminates drinking water from underground and surface supplies, and pollutes the air and the land;
 
@@ -94,7 +94,7 @@ Pub. L. 100–582, §1, Nov. 1, 1988, 102 Stat. 2950, provided that: “This Act
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b,and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
+Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b, and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
 
 #### Short Title of 1980 Amendments
 

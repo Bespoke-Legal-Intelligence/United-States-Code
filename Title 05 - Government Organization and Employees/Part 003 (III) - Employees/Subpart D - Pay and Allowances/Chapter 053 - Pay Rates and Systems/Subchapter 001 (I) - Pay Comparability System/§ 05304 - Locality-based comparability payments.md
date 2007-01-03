@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the percentage for the second calendar year in which any amounts are payable under this section may not be less than 3/10 of the amount needed to reduce the pay disparity of the locality involved to 5 percent;
 
-&emsp;&emsp;(C) the percentage for the third calendar year in which any amounts are payable under this section may not be less than 2/5 ofthe amount needed to reduce the pay disparity of the locality involved to 5 percent;
+&emsp;&emsp;(C) the percentage for the third calendar year in which any amounts are payable under this section may not be less than 2/5 of the amount needed to reduce the pay disparity of the locality involved to 5 percent;
 
 &emsp;&emsp;(D) the percentage for the fourth calendar year in which any amounts are payable under this section may not be less than 1/2 of the amount needed to reduce the pay disparity of the locality involved to 5 percent;
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) identify each pay locality;
 
-&emsp;&emsp;(B) specify which localities have pay disparities in excess of 5 percent, and the size of the disparity existing in each of those localities, according to the pay agent's most recent report under paragraph (1) (before andafter taking into consideration any comparability payments payable); and
+&emsp;&emsp;(B) specify which localities have pay disparities in excess of 5 percent, and the size of the disparity existing in each of those localities, according to the pay agent's most recent report under paragraph (1) (before and after taking into consideration any comparability payments payable); and
 
 &emsp;&emsp;(C) indicate the size of the respective comparability payments (expressed as percentages) which will be in effect under paragraph (2) for the various pay localities specified under subparagraph (B) for the applicable calendar year.
 
@@ -136,7 +136,7 @@
 
 &emsp;(v) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151; or
 
-&emsp;(vi) a position in a system equivalent to the system in clause (iv), as determined by thePresident's Pay Agent designated under subsection (d).
+&emsp;(vi) a position in a system equivalent to the system in clause (iv), as determined by the President's Pay Agent designated under subsection (d).
 
 (2)(A) Notwithstanding subsection (c)(4) or any other provision of this section, but subject to subparagraph (B) and paragraph (3), upon the request of the head of an Executive agency with respect to 1 or more categories of positions, the President may provide that each employee of such agency who holds a position within such category, and within the particular locality involved, shall be entitled to receive comparability payments.
 
@@ -288,7 +288,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 &emsp;“(3) the term ‘pay locality’ has the meaning given such term by section 5302(5) of such title.
 
-“(b) Notwithstanding any provision of section 5304 of title 5, United States Code, for purposes of determining appropriate pay localities and making comparability payment recommendations, the President's pay agent may, in accordance with succeeding provisions of this section, make comparisons of General Schedule pay and non-Federal pay within any of the metropolitan statistical areas described in subsection (d)(3), using—
+“(b) Notwithstanding any provision of section 5304 of title 5, United States Code, for purposes of determining appropriate pay localities and making comparabilitypayment recommendations, the President's pay agent may, in accordance with succeeding provisions of this section, make comparisons of General Schedule pay and non-Federal pay within any of the metropolitan statistical areas described in subsection (d)(3), using—
 
 &emsp;“(1) data from surveys of the Bureau of Labor Statistics;
 
@@ -452,7 +452,7 @@ Sec. 3. <i>Administration</i>. (a) Members of the Council shall receive no pay b
 
 (b) To the extent permitted by law and subject to the availability of appropriations, the Office of Personnel Management (the “Office”) shall provide such facilities and administrative support to the Council as the Director of the Office determines appropriate.
 
-(c) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 App. U.S.C.\], except that of reporting to the Congress, which are applicable to the Council, shall be performed by the Director of the Office, in accordance with the guidelines and procedures established by the Administrator of General Services.
+(c) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 U.S.C. App.\], except that of reporting to the Congress, which are applicable to the Council, shall be performed by the Director of the Office, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

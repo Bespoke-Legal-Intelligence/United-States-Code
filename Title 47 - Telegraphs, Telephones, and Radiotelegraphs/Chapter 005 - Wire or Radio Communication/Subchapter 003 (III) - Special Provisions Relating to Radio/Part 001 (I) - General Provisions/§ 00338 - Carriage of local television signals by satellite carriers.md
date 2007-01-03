@@ -44,7 +44,7 @@
 
 #### (d) Channel positioning
 
-No satellite carrier shall be required to provide the signal of a local television broadcaststation to subscribers in that station's local market on any particular channel number or to provide the signals in any particular order, except that the satellite carrier shall retransmit the signal of the local television broadcast stations to subscribers in the stations’ local market on contiguous channels and provide access to such station's signals at a nondiscriminatory price and in a nondiscriminatory manner on any navigational device, on-screen program guide, or menu.
+No satellite carrier shall be required to provide the signal of a local television broadcast station to subscribers in that station's local market on any particular channel number or to provide the signals in any particular order, except that the satellite carrier shall retransmit the signal of the local television broadcast stations to subscribers in the stations’ local market on contiguous channels and provide access to such station's signals at a nondiscriminatory price and in a nondiscriminatory manner on any navigational device, on-screen program guide, or menu.
 
 #### (e) Compensation for carriage
 
@@ -98,7 +98,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;(i) offering to substitute the local network signal for the duplicating distant network signal; and
 
-&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, the subscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
+&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, thesubscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
 
 &emsp;&emsp;(B) if the subscriber—
 
@@ -178,13 +178,13 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (A) Consent to disclosure
 
-&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concernedand shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
 
 #### (B) Exceptions
 
 &emsp;&emsp;A satellite carrier may disclose such information if the disclosure is—
 
-&emsp;&emsp;&emsp;(i) necessary to render, or conduct a legitimate business activity related to, asatellite service or other service provided by the satellite carrier to the subscriber;
+&emsp;&emsp;&emsp;(i) necessary to render, or conduct a legitimate business activity related to, a satellite service or other service provided by the satellite carrier to the subscriber;
 
 &emsp;&emsp;&emsp;(ii) subject to paragraph (9), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
 

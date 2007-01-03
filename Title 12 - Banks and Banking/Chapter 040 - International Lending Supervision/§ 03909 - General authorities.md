@@ -4,9 +4,9 @@
 
 (1) The appropriate Federal banking agencies are authorized to interpret and define the terms used in this chapter, and each appropriate Federal banking agency shall prescribe rules or regulations or issue orders as necessary to effectuate the purposes of this chapter and to prevent evasions thereof.
 
-(2) The appropriate Federal banking agency is authorized to apply the provisions of this chapter to any affiliate of an insured bank, but only to affiliates for which it is the appropriate Federal banking agency, in order to promote uniform application of this chapter or to prevent evasions thereof.
+(2) The appropriate Federal banking agency is authorized to apply the provisions of this chapter to any affiliate of an insured depository institution, but only to affiliates for which it is the appropriate Federal banking agency, in order to promote uniform application of this chapter or to prevent evasions thereof.
 
-(3) For purposes of this section, the term “affiliate” shall have the same meaning as in section 371c of this title, except that the term “member bank” in such section shall be deemed to refer to an “insured bank”, as such term is used in section 1813(h) of this title.
+(3) For purposes of this section, the term “affiliate” shall have the same meaning as in section 371c of this title, except that the term “member bank” in such section shall be deemed to refer to an “insured depository institution”, as such term is defined in section 1813(c)(2) of this title.
 
 #### (b) Systems uniformity
 
@@ -24,5 +24,11 @@ The appropriate Federal banking agencies shall establish uniform systems to impl
 
 (2) Such violations shall be deemed to be a violation of a final order under section 1818(i)(2) of this title and the penalty shall be assessed and collected by the appropriate Federal banking agency under the procedures established by, and subject to the rights afforded to parties in, such section.
 
-(Pub. L. 98–181, title IX, §910, Nov. 30, 1983, 97 Stat. 1282.)
+(Pub. L. 98–181, title IX, §910, Nov. 30, 1983, 97 Stat. 1282; Pub. L. 109–351, title VII, §713(b), Oct. 13, 2006, 120 Stat. 1995.)
+
+#### Amendments
+
+2006—Subsec. (a)(2). Pub. L. 109–351, §713(b)(1), substituted “insured depository institution” for “insured bank”.
+
+Subsec. (a)(3). Pub. L. 109–351, §713(b)(2), substituted “an ‘insured depository institution’, as such term is defined in section 1813(c)(2)” for “an ‘insured bank’, as such term is used in section 1813(h)”.
 

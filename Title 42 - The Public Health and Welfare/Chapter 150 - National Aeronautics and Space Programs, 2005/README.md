@@ -93,7 +93,7 @@
 | :--- | ---: |
 | [16721\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20B%20-%20High%20Priority%20Aeronautics%20Research%20and%20Development%20Programs/%C2%A7%2016721%20-%20Fundamental%20research%20program.md) | Fundamental research program. |
 | [16722\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20B%20-%20High%20Priority%20Aeronautics%20Research%20and%20Development%20Programs/%C2%A7%2016722%20-%20Research%20and%20technology%20programs.md) | Research and technology programs. |
-| [16723\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20B%20-%20High%20Priority%20Aeronautics%20Research%20and%20Development%20Programs/%C2%A7%2016723%20-%20Airspace%20systems%20research.md) | Airspace systems research. |
+| [16723\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20B%20-%20High%20Priority%20Aeronautics%20Research%20and%20Development%20Programs/%C2%A7%2016723%20-%20Airspace%20Systems%20Research.md) | Airspace Systems Research. |
 | [16724\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20B%20-%20High%20Priority%20Aeronautics%20Research%20and%20Development%20Programs/%C2%A7%2016724%20-%20Aviation%20Safety%20and%20Security%20Research.md) | Aviation Safety and Security Research. |
 | [16725\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20B%20-%20High%20Priority%20Aeronautics%20Research%20and%20Development%20Programs/%C2%A7%2016725%20-%20Aviation%20weather%20research.md) | Aviation weather research. |
 | [16726\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20B%20-%20High%20Priority%20Aeronautics%20Research%20and%20Development%20Programs/%C2%A7%2016726%20-%20Assessment%20of%20wake%20turbulence%20research%20and%20development%20program.md) | Assessment of wake turbulence research and development program. |
@@ -171,7 +171,7 @@
 
 |  |  |
 | :--- | ---: |
-| [16821\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20National%20Aeronautics%20and%20Space%20Administration/%C2%A7%2016821%20-%20Small%20business%20contracting.md) | Small Business contracting. |
+| [16821\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20National%20Aeronautics%20and%20Space%20Administration/%C2%A7%2016821%20-%20Small%20business%20contracting.md) | Small business contracting. |
 | [16822\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20National%20Aeronautics%20and%20Space%20Administration/%C2%A7%2016822%20-%20NASA%20healthcare%20program.md) | NASA healthcare program. |
 | [16823\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20National%20Aeronautics%20and%20Space%20Administration/%C2%A7%2016823%20-%20Offshore%20performance%20of%20contracts%20for%20the%20procurement%20of%20goods%20and%20services.md) | Offshore performance of contracts for the procurement of goods and services. |
 | [16824\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20National%20Aeronautics%20and%20Space%20Administration/%C2%A7%2016824%20-%20Study%20on%20enhanced%20use%20leasing.md) | Study on enhanced use leasing. |

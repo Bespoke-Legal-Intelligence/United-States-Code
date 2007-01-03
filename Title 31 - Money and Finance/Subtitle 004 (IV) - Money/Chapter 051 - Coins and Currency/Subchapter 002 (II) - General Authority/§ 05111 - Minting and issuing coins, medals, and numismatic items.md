@@ -168,6 +168,14 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 109–395, Dec. 14, 2006, 120 Stat. 2708, recognizing Dr. Norman E. Borlaug.
+
+Pub. L. 109–357, Oct. 16, 2006, 120 Stat. 2044, recognizing Byron Nelson.
+
+Pub. L. 109–287, Sept. 27, 2006, 120 Stat. 1231, recognizing the Fourteenth Dalai Lama.
+
+Pub. L. 109–213, Apr. 11, 2006, 120 Stat. 322, recognizing the Tuskegee Airmen.
+
 Pub. L. 108–447, div. B, title I, §124, Dec. 8, 2004, 118 Stat. 2871, as amended by Pub. L. 109–13, div. A, title VI, §6060, May 11, 2005, 119 Stat. 297, recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
 
 Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746, recognizing Reverend Doctor Martin Luther King, Jr. and his widow Coretta Scott King.

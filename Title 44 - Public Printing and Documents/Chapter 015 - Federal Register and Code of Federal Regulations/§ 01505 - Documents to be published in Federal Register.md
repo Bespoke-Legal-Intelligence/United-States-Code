@@ -18,7 +18,7 @@ Documents Authorized To Be Published by Regulations; Comments and News Items Exc
 
 (c)
 
-Suspension of Requirements for Filing of Documents; Alternate Systems for Promulgating, Filing, or Publishing Documents;Preservation of Originals. In the event of an attack or threatened attack upon the continental United States and a determination by the President that as a result of an attack or threatened attack—
+Suspension of Requirements for Filing of Documents; Alternate Systems for Promulgating, Filing, or Publishing Documents; Preservation of Originals. In the event of an attack or threatened attack upon the continental United States and a determination by the President that as a result of an attack or threatened attack—
 
 &emsp;(1) publication of the Federal Register or filing of documents with the Office of the Federal Register is impracticable, or
 
@@ -38,7 +38,7 @@ For delegation of functions vested in President by section 5(a) of Federal Regis
 
 #### Ex. Ord. No. 11030. Preparation, Presentation, Filing, and Publication of Executive Orders and Proclamations
 
-Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. 11354, May 23, 1967, 32 F.R. 7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. 11354, May 23, 1967, 32 F.R. 7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13403, §1, May 12, 2006, 71 F.R. 28543, provided:
 
 By virtue of the authority vested in me by the Federal Register Act (49 Stat. 500, as amended; 44 U.S.C. 301 <i>et seq</i>.) \[now this chapter\], and as President of the United States, I hereby prescribe the following regulations governing the preparation, presentation, filing, and publication of Executive orders and proclamations:
 
@@ -54,33 +54,29 @@ Section 1. <i>Form</i>. Proposed Executive orders and proclamations shall be pre
 
 (e) Descriptions of tracts of land shall conform, so far as practicable, to the most recent edition of the “Specifications for Descriptions of Tracts of Land for Use in Executive Orders and Proclamations,” prepared by the Bureau of Land Management, Department of the Interior.
 
-(f) Proposed Executive orders and proclamations shall be typewritten on paper approximately 8 �0A 13 inches, shall have a left-hand margin of approximately 11/2 inches and a right-hand margin of approximately 1 inch, and shall be double-spaced, except that quotations, tabulations, and descriptions of land may be single-spaced.
+(f) Proposed Executive orders and proclamations shall be prepared on paper approximately 8.5 �0A 14 inches, shall have a left-hand margin of approximately 1 inches \[sic\] and a right-hand margin of approximately 1 inch, and shall be double-spaced, except that quotations, tabulations, and descriptions of land may be single-spaced.
 
 (g) Proclamations issued by the President shall conclude with the following described recitation—
 
 IN WITNESS WHEREOF, I have hereunto set my hand this \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, in the year of our lord \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, and of the Independence of the United States of America, the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Sec. 2. <i>Routing and approval of drafts</i>. (a) A proposed Executive order or proclamation shall first be submitted, with seven copies thereof, to the Director of the Office of Management and Budget, together with a letter, signed by the head or other properly authorized officer of the originating Federal agency, explaining the nature, purpose, background, and effect of the proposed Executive order or proclamation and its relationship, if any, to pertinent laws and other Executive orders or proclamations.
+Sec. 2. <i>Routing and approval of drafts</i>. (a) A proposed Executive order or proclamation shall first be submitted to the Director of the Office of Management and Budget, together with a letter, signed by the head or other properly authorized officer of the originating Federal agency, explaining the nature, purpose, background, and effect of the proposed Executive order or proclamation and its relationship, if any, to pertinent laws and other Executive orders or proclamations.
 
 (b) If the Director of the Office of Management and Budget approves the proposed Executive order or proclamation, he shall transmit it to the Attorney General for his consideration as to both form and legality.
 
-(c) If the Attorney General approves the proposed Executive order or proclamation, he shall transmit it to the Director of the Office of the Federal Register, National Archives and Records Administration: <i>Provided</i>, that in cases involving sufficient urgency the Attorney General may transmit it directly to the President; and <i>provided further</i>, that the authority vested in the Attorney General by this section may be delegated by him, in whole or in part, to the Deputy Attorney General, Solicitor General, or to such Assistant Attorney General as he may designate.
-
-(d) After determining that the proposed Executive order or proclamation conforms to the requirements of Section 1 of this order and is free from typographical or clerical errors, the Director of the Office of the Federal Register shall transmit it and three copies thereof to the President.
-
-(e) If the proposed Executive order or proclamation is disapproved by the Director of the Office of Management and Budget or by the Attorney General, it shall not thereafter be presented to the President unless it is accompanied by a statement of the reasons for such disapproval.
+(c) If the proposed Executive order or proclamation is disapproved by the Director of the Office of Management and Budget or by the Attorney General, it shall not thereafter be presented to the President unless it is accompanied by a statement of the reasons for such disapproval.
 
 Sec. 3. <i>Routing and certification of originals and copies</i>. (a) If the order or proclamation is signed by the President, the original and two copies thereof shall be forwarded to the Director of the Office of the Federal Register for publication in the
 
 Federal Register.
 
-(b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders and proclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: “Certified to be a true copy of the original.”
+(b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders andproclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: “Certified to be a true copy of the original.”
 
 Sec. 4. <i>Proclamations calling for the observance of special days or events</i>. Except as may be otherwise provided by law, responsibility for the preparation and presentation of proposed proclamations calling for the observance of special days, or other periods of time, or events shall be assigned by the Director of the Office of Management and Budget to such agencies as he may consider appropriate. Such proposed proclamations shall be submitted to the Director at least sixty days before the date of the specified observance. Notwithstanding the provisions of Section 2, the Director shall transmit any approved commemorative proclamations to the President.
 
-Sec. 5. <i>Proclamations of treaties excluded</i>. Consonant with the provisions of section 12 of the Federal Register Act (49 Stat. 503; 44 U.S.C. 1511), nothing in this order shall be construed to apply to treaties, conventions, protocols, or other international agreements, or proclamations thereof by the President.
+Sec. 5. <i>Proclamations of treaties excluded</i>. Consonant with the provisions of section 1511 of title 44, United States Code (49 Stat. 503 \[sic\]; 44 U.S.C. 1511), nothing in this order shall be construed to apply to treaties, conventions, protocols, or other international agreements, or proclamations thereof by the President.
 
-Sec. 6. <i>Definition</i>. The term “Presidential proclamations and Executive orders,” as used in Section 5(a) of the Federal Register Act (44 U.S.C. 1505(a)), shall, except as the President or his representative may hereafter otherwise direct, be deemed to include such attachments thereto as are referred to in the respective proclamations or orders.
+Sec. 6. <i>Definition</i>. The term “Presidential proclamations and Executive orders,” as used in subsection 1505(a) of title 44, United States Code (44 U.S.C. 1505(a)), shall, except as the President or his representative may hereafter otherwise direct, be deemed to include such attachments thereto as are referred to in the respective proclamations or orders.
 
 Sec. 7. <i>Prior order</i>. Upon its publication in the
 

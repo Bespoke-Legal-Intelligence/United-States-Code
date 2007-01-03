@@ -122,7 +122,7 @@ Application of More Stringent Standards.—The head of an executive agency may e
 
 “(f)
 
-Decisions on Promulgation of Standards.—The decision by the Secretary regarding the promulgation of any standard under this section shall occur not later than 6 months after the submission of the proposed standard to the Secretary by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
+Decisions on Promulgation of Standards.—The decision by the Secretary regarding the promulgationof any standard under this section shall occur not later than 6 months after the submission of the proposed standard to the Secretary by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
 
 “(g)
 

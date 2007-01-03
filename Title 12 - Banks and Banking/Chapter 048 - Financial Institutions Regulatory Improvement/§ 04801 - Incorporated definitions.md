@@ -142,7 +142,7 @@ Study.—The Secretary of the Treasury, in consultation with the Board of Govern
 
 &emsp;“(1) reducing the amount of credit available for such purposes or the number of persons eligible for such credit;
 
-&emsp;“(2) increasing the level of consumer inconvenience, cost, and time delays in connection with the extension of consumer and small business creditwithout corresponding benefit with respect to the protection of consumers or small businesses or the safety and soundness of insured depository institutions; and
+&emsp;“(2) increasing the level of consumer inconvenience, cost, and time delays in connection with the extension of consumer and small business credit without corresponding benefit with respect to the protection of consumers or small businesses or the safety and soundness of insured depository institutions; and
 
 &emsp;“(3) increasing costs and burdens on insured depository institutions, insured credit unions, and other lenders without corresponding benefit with respect to the protection of consumers or small business concerns or to the safety and soundness of insured institutions.
 

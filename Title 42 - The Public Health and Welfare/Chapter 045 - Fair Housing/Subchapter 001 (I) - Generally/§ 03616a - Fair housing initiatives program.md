@@ -32,7 +32,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (1) In general
 
-&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing tobuild their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation of initiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
+&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing to build their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation of initiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
 
 #### (2) Capacity enhancement
 
@@ -146,7 +146,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 &emsp;(5) any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
 
-(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX,§905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
+(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Section was formerly set out as a note under section 3616 of this title.
 
 1992—Subsecs. (b) to (f). Pub. L. 102–550, §905(b)(1), (2), added subsecs. (b) to (d) and redesignated former subsecs. (b) and (c) as (e) and (f), respectively.
 
-Subsec. (g). Pub. L. 102–550, §905(b)(1), (3), redesignated subsec. (d) as (g) and, in first sentence, substituted “$21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—” and pars. (1) to (4) for “including any program evaluations, $6,000,000 for fiscal year 1991 and $6,300,000 for fiscal year 1992, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
+Subsec. (g). Pub. L. 102–550, §905(b)(1), (3), redesignated subsec. (d) as (g) and, in first sentence, substituted “$21,000,000 for fiscal year 1993 and $26,000,000for fiscal year 1994, of which—” and pars. (1) to (4) for “including any program evaluations, $6,000,000 for fiscal year 1991 and $6,300,000 for fiscal year 1992, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
 
 Subsec. (h). Pub. L. 102–550, §905(b)(4), added subsec. (h) and struck out former subsec. (h) which provided that the demonstration period authorized by this section would end Sept. 30, 1992.
 

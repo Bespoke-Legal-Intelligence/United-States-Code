@@ -3,13 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [4201\.](%C2%A7%2004201%20-%20General%20provisions.md) | General provisions. |
-| (a) | Congressional statement of findings. |
-| (b) | Statement of purpose. |
-| (c) | Definitions. |
 | [4202\.](%C2%A7%2004202%20-%20Identifying%20effects%20of%20Federal%20programs%20on%20conversion%20of%20farmland%20to%20nonagricultural%20uses.md) | Identifying effects of Federal programs on conversion of farmland to nonagricultural uses. |
-| (a) | Development of criteria to identify. |
-| (b) | Use of criteria to identify. |
-| (c) | Availability of restorative, etc., information. |
 | [4203\.](%C2%A7%2004203%20-%20Existing%20policies%20and%20procedures%3B%20review%2C%20etc.md) | Existing policies and procedures; review, etc. |
 | [4204\.](%C2%A7%2004204%20-%20Technical%20assistance.md) | Technical assistance. |
 | [4205\.](%C2%A7%2004205%20-%20Farmland%20resource%20information.md) | Farmland resource information. |

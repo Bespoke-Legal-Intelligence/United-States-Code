@@ -16,7 +16,7 @@ The Secretary may enter into such contracts, agreements, and financial undertaki
 
 #### (d) Investigations and analysis of data; publication and distribution of reports
 
-The Secretary may make such investigations and analyses of data, and publish and distribute such reports, as he determines to be necessary or desirable to assure the most beneficial use ofthe data and information to be acquired as a result of this section.
+The Secretary may make such investigations and analyses of data, and publish and distribute such reports, as he determines to be necessary or desirable to assure the most beneficial use of the data and information to be acquired as a result of this section.
 
 #### (e) Entitlement to insurance benefits
 
@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 90–448, §309(2), substituted “the section or subchapte
 
 Subsec. (g). Pub. L. 89–117, §1108(n)(3), repealed subsec. (g) which created the Experimental Housing Insurance Fund, provided for transfer of funds thereto, and authorized the charging of expenses thereto.
 
-1964—Subsec. (a). Pub. L. 88–560, §118(a), substituted “home improvement loans, and including advances on mortgages” for “, in the case of mortgages insured under subsection (b)(2) of this section, advances on such mortgages”.
+1964—Subsec. (a). Pub. L. 88–560, §118(a), substituted “home improvement loans, and including advances onmortgages” for “, in the case of mortgages insured under subsection (b)(2) of this section, advances on such mortgages”.
 
 Subsec. (b). Pub. L. 88–560, §118(b), substituted provisions which make insurance available for mortgages meeting the requirements of any other sections of subchapter II of this chapter for provisions which made insurance available for mortgages meeting the requirements of section 1709(b) or 1713(b), (c) of this title and made the Commissioner's estimate of replacement cost of the property applicable to mortgages meeting the requirements of any section of subchapter II of this chapter in lieu of determining the appraised value or the replacement cost of the property in new construction or estimated cost of repair and rehabilitation or improvement for existing properties.
 

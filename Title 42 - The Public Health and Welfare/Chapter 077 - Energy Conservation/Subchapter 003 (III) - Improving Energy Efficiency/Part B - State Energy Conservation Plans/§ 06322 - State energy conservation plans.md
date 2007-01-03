@@ -28,7 +28,7 @@ Each proposed State energy conservation plan to be eligible for Federal assistan
 
 &emsp;(4) mandatory thermal efficiency standards and insulation requirements for new and renovated buildings (except buildings owned or leased by the United States);
 
-&emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
+&emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop lightafter stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
 
 &emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
 
@@ -54,7 +54,7 @@ Each proposed State energy conservation plan may include—
 
 &emsp;(7) programs to promote the adoption of integrated energy plans which provide for—
 
-&emsp;&emsp;(A) periodic evaluation of a State's energy needs, available energy resources (includinggreater energy efficiency), and energy costs; and
+&emsp;&emsp;(A) periodic evaluation of a State's energy needs, available energy resources (including greater energy efficiency), and energy costs; and
 
 &emsp;&emsp;(B) utilization of adequate and reliable energy supplies, including greater energy efficiency, that meet applicable safety, environmental, and policy requirements at the lowest cost;
 
@@ -112,7 +112,7 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 (3) Each State energy technology commercialization services program shall develop and maintain a data base of engineering and scientific experts in energy technologies and product commercialization interested in participating in the service. Such data base shall, at a minimum, include faculty of institutions of higher education, retired manufacturing experts, and national laboratory personnel.
 
-(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, which shall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient forthe services; and (C) the ability of the recipient to pay for the services.
+(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, which shall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
 
 (5) For the purposes of this subsection, the term—
 

@@ -62,7 +62,7 @@ To the extent only that this section applies to service coordinators for covered
 
 #### References in Text
 
-This subtitle, referred to in subsecs. (b) and (d), means subtitle E of title VI of Pub. L. 102–550, Oct. 28,1992, 106 Stat. 3826, which enacted this subchapter, amended sections 1437f, 1437g, and 8011 of this title and section 1701q of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1701q of Title 12.
+This subtitle, referred to in subsecs. (b) and (d), means subtitle E of title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3826, which enacted this subchapter, amended sections 1437f, 1437g, and 8011 of this title and section 1701q of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1701q of Title 12.
 
 #### Amendments
 

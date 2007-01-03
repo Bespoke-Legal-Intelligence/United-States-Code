@@ -10,7 +10,7 @@ Any person who—
 
 &emsp;(3) maliciously causes the death or harassment of any wild free-roaming horse or burro, or
 
-&emsp;(4) except as provided in section 1333(e) of this title, processes or permits to be processedinto commercial products the remains of a wild free-roaming horse or burro, or
+&emsp;(4) except as provided in section 1333(e) of this title, processes or permits to be processed into commercial products the remains of a wild free-roaming horse or burro, or
 
 &emsp;(5) sells, directly or indirectly, a wild free-roaming horse or burro maintained on private or leased land pursuant to section 1334 of this title, or the remains thereof, or
 

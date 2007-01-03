@@ -7,12 +7,7 @@
 | [2303\.](%C2%A7%2002303%20-%20Compensation%3B%20travel%20expenses%3B%20full-time%20officers%20or%20employees%20of%20United%20States%20or%20Members%20of%20Congress.md) | Compensation; travel expenses; full-time officers or employees of United States or Members of Congress. |
 | [2304\.](%C2%A7%2002304%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [2305\.](%C2%A7%2002305%20-%20Staff.md) | Staff. |
-| [2306\.](%C2%A7%2002306%20-%20Insurance%20for%20Museum.md) | Insurance for museum.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2306\.](%C2%A7%2002306%20-%20Insurance%20for%20Museum.md) | Insurance for Museum. |
 | [2307\.](%C2%A7%2002307%20-%20Gifts%2C%20bequests%2C%20and%20devises%20of%20property%3B%20tax%20treatment.md) | Gifts, bequests, and devises of property; tax treatment. |
 | [2308\.](%C2%A7%2002308%20-%20Annual%20report.md) | Annual report. |
 | [2309\.](%C2%A7%2002309%20-%20Audit%20of%20financial%20transactions.md) | Audit of financial transactions. |
@@ -24,7 +19,9 @@
 
 A prior chapter 23, consisting of sections 2301 to 2309, related to the United States Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292, §1.
 
-<i><sup>1</sup></i><i> So in original. Capitalization does not conform to section catchline.</i>
+#### Amendments
+
+2006—Pub. L. 109–284, §5(3), Sept. 27, 2006, 120 Stat. 1211, substituted “Museum” for “museum” in item 2306.
 
 
 ---

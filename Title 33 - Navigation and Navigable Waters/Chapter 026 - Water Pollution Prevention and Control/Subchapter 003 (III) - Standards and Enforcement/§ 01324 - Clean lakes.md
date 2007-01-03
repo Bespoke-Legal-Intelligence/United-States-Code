@@ -62,11 +62,11 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (2) Geographical requirements
 
-&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia; and Lake Worth, Texas.
+&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon;Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia; and Lake Worth, Texas.
 
 #### (3) Reports
 
-&emsp;Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31U.S.C. 1113 note; 109 Stat. 734–736), by January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
+&emsp;Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; 109 Stat. 734–736), by January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
 
 #### (4) Authorization of appropriations
 
@@ -124,7 +124,7 @@ Subsec. (b). Pub. L. 100–4, §315(d)(1), substituted “subsection (a) of this
 
 Subsec. (c)(1). Pub. L. 100–4, §315(d)(2), substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
-Subsec. (c)(2). Pub. L. 100–4, §§101(g), 315(d)(3), struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”, and substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
+Subsec. (c)(2). Pub. L. 100–4, §§101(g), 315(d)(3), struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years1986 through 1990” after “1982”, and substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
 Subsec. (d). Pub. L. 100–4, §315(b), added subsec. (d).
 
@@ -132,7 +132,7 @@ Subsec. (d). Pub. L. 100–4, §315(b), added subsec. (d).
 
 1977—Subsec. (b). Pub. L. 95–217, §62(a), inserted provision directing the Administrator to provide financial assistance to States to prepare the identification and classification surveys required in subsec. (a)(1) of this section.
 
-Subsec. (c)(2). Pub. L. 95–217, §4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscalyear 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
+Subsec. (c)(2). Pub. L. 95–217, §4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
 
 #### Effective Date of 2002 Amendment
 

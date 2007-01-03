@@ -11,7 +11,7 @@
 | [12207\.](%C2%A7%2012207%20-%20Commissioned%20officers%20service%20credit%20upon%20original%20appointment.md) | Commissioned officers: service credit upon original appointment. |
 | [12208\.](%C2%A7%2012208%20-%20Officers%20appointment%20upon%20transfer.md) | Officers: appointment upon transfer. |
 | [12209\.](%C2%A7%2012209%20-%20Officer%20candidates%20enlisted%20Reserves.md) | Officer candidates: enlisted Reserves. |
-| [12210\.](%C2%A7%2012210%20-%20Attending%20Physician%20to%20the%20Congress%20reserve%20grade%20while%20so%20serving.md) | Attending Physician to the Congress: reserve grade while so serving. |
+| [12210\.](%C2%A7%2012210%20-%20Attending%20Physician%20to%20the%20Congress%20reserve%20grade.md) | Attending Physician to the Congress: reserve grade. |
 | [12211\.](%C2%A7%2012211%20-%20Officers%20Army%20National%20Guard%20of%20the%20United%20States.md) | Officers: Army National Guard of the United States. |
 | [12212\.](%C2%A7%2012212%20-%20Officers%20Air%20National%20Guard%20of%20the%20United%20States.md) | Officers: Air National Guard of the United States. |
 | [12213\.](%C2%A7%2012213%20-%20Officers%3B%20Army%20Reserve%20transfer%20from%20Army%20National%20Guard%20of%20the%20United%20States.md) | Officers; Army Reserve: transfer from Army National Guard of the United States. |
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title V, §507(a)(2)(C), Oct. 17, 2006, 120 Stat. 2180, struck out “while so serving” after “reserve grade” in item 12210.
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(11)(B), (13)(B), Feb. 10, 1996, 110 Stat. 496, substituted “Reserve officers: qualifications” for “Qualifications” in item 12201 and inserted “the” after “National Guard of” in items 12211, 12212, 12213, and 12214.
 
@@ -38,7 +40,7 @@
 - [&sect; 12207 - Commissioned officers service credit upon original appointment](%C2%A7%2012207%20-%20Commissioned%20officers%20service%20credit%20upon%20original%20appointment.md)
 - [&sect; 12208 - Officers appointment upon transfer](%C2%A7%2012208%20-%20Officers%20appointment%20upon%20transfer.md)
 - [&sect; 12209 - Officer candidates enlisted Reserves](%C2%A7%2012209%20-%20Officer%20candidates%20enlisted%20Reserves.md)
-- [&sect; 12210 - Attending Physician to the Congress reserve grade while so serving](%C2%A7%2012210%20-%20Attending%20Physician%20to%20the%20Congress%20reserve%20grade%20while%20so%20serving.md)
+- [&sect; 12210 - Attending Physician to the Congress reserve grade](%C2%A7%2012210%20-%20Attending%20Physician%20to%20the%20Congress%20reserve%20grade.md)
 - [&sect; 12211 - Officers Army National Guard of the United States](%C2%A7%2012211%20-%20Officers%20Army%20National%20Guard%20of%20the%20United%20States.md)
 - [&sect; 12212 - Officers Air National Guard of the United States](%C2%A7%2012212%20-%20Officers%20Air%20National%20Guard%20of%20the%20United%20States.md)
 - [&sect; 12213 - Officers; Army Reserve transfer from Army National Guard of the United States](%C2%A7%2012213%20-%20Officers%3B%20Army%20Reserve%20transfer%20from%20Army%20National%20Guard%20of%20the%20United%20States.md)

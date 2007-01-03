@@ -10,7 +10,7 @@ Section 1 of Pub. L. 92–70 provided that: “This Act \[enacting this chapter\
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat.1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315, provided that:
 
 #### “CHAPTER 1
 
@@ -144,7 +144,7 @@ In general.—Except as provided in subparagraphs (B) and (C), any loan guarante
 
 Increased level one.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 90 percent, of the amount of principal of the loan, if—
 
-&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
+&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under thissection at any one time does not exceed $100,000,000; and
 
 &emsp;&emsp;&emsp;“(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
@@ -276,7 +276,7 @@ Authority.—
 
 &emsp;“(1)
 
-In general.—The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
+In general.—The Program may guarantee loans provided to qualified oil and gas companies byprivate banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
 
 &emsp;“(2)
 

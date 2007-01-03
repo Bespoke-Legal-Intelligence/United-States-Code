@@ -3,12 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [5201\.](%C2%A7%2005201%20-%20Findings%3B%20determinations.md) | Findings; determinations. |
-| (a) | Findings. |
-| (b) | Determinations. |
 | [5202\.](%C2%A7%2005202%20-%20Prohibitions%20regarding%20PLO.md) | Prohibitions regarding PLO. |
 | [5203\.](%C2%A7%2005203%20-%20Enforcement.md) | Enforcement. |
-| (a) | Attorney General. |
-| (b) | Relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

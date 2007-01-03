@@ -6,7 +6,7 @@ Appropriations for any fiscal year for grants, loans, contracts, or other paymen
 
 #### (b) Succeeding fiscal year
 
-(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year, which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscal year for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
+(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year, which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscalyear for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
 
 (2) Any funds under any applicable program which, pursuant to paragraph (1), are available for obligation and expenditure in the year succeeding the fiscal year for which they were appropriated shall be obligated and expended in accordance with—
 

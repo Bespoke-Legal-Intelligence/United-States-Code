@@ -4,7 +4,7 @@
 
 (2) For purposes of this subsection, the average number of senior executives employed in Senior Executive Service positions in the Department during a fiscal year shall be equal to 25 percent of the sum of the total number of senior executives employed in Senior Executive Service positions in the Department on the last day of each quarter of such fiscal year.
 
-(b) The number of positions in the Department which may be excepted from the competitive service, on a temporary or permanent basis, because of their confidential or policy-determining character may not at any time exceed the equivalent of 15 positions.
+(b) The number of positions in the Department which may be excepted from the competitive service, on a temporary or permanent basis, because of their confidential or policy-determiningcharacter may not at any time exceed the equivalent of 15 positions.
 
 (c)(1) Political affiliation or activity may not be taken into account in connection with the appointment of any person to any position in or to perform any service for the Department or in the assignment or advancement of any employee in the Department.
 

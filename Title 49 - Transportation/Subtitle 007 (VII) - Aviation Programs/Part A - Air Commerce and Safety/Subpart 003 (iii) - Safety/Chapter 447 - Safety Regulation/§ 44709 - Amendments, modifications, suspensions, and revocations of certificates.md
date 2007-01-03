@@ -2,7 +2,7 @@
 
 (a)
 
-Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder,air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
+Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
 
 (b)
 
@@ -186,5 +186,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 

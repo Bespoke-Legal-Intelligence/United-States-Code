@@ -52,7 +52,7 @@ An institution of higher education desiring a grant under this section shall pre
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant, toward the costs of activities carried out with the grant (as described in subsection (b) of this section) and other activities by the institution to reduce student mental and behavioral health problems.
+&emsp;The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant,toward the costs of activities carried out with the grant (as described in subsection (b) of this section) and other activities by the institution to reduce student mental and behavioral health problems.
 
 #### (2) Determination of amount contributed
 
@@ -76,7 +76,7 @@ In this section, the term “institution of higher education” has the meaning 
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007.
+For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007.
 
 (July 1, 1944, ch. 373, title V, §520E–2, as added Pub. L. 108–355, §3(d), Oct. 21, 2004, 118 Stat. 1413.)
 

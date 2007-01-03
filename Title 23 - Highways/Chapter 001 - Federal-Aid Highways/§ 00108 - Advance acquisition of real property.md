@@ -38,7 +38,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 &emsp;&emsp;(D) the acquisition is determined in advance by the Governor to be consistent with the State transportation planning process pursuant to section 135 of this title;
 
-&emsp;&emsp;(E) the alternative for which the right-of-way is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration ofthe environmental impacts of various alternatives;
+&emsp;&emsp;(E) the alternative for which the right-of-way is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
 
 &emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the right-of-way was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
 

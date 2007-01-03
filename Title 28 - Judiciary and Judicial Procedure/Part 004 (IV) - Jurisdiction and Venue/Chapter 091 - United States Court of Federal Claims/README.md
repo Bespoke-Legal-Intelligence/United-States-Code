@@ -10,7 +10,7 @@
 | [1496\.](%C2%A7%2001496%20-%20Disbursing%20officers%E2%80%99%20claims.md) | Disbursing officers’ claims. |
 | [1497\.](%C2%A7%2001497%20-%20Oyster%20growers%E2%80%99%20damages%20from%20dredging%20operations.md) | Oyster growers’ damages from dredging operations. |
 | [1498\.](%C2%A7%2001498%20-%20Patent%20and%20copyright%20cases.md) | Patent and copyright cases. |
-| [1499\.](%C2%A7%2001499%20-%20Liquidated%20damages%20withheld%20from%20contractors%20under%20Contract%20Work%20Hours%20and%20Safety%20Standards%20Act%201.md) | Liquidated damages withheld from contractors under Contract Work Hours and Safety Standards Act. |
+| [1499\.](%C2%A7%2001499%20-%20Liquidated%20damages%20withheld%20from%20contractors%20under%20chapter%2037%20of%20title%2040.md) | Liquidated damages withheld from contractors under chapter 37 of title 40. |
 | [1500\.](%C2%A7%2001500%20-%20Pendency%20of%20claims%20in%20other%20courts.md) | Pendency of claims in other courts. |
 | [1501\.](%C2%A7%2001501%20-%20Pensions.md) | Pensions. |
 | [1502\.](%C2%A7%2001502%20-%20Treaty%20cases.md) | Treaty cases. |
@@ -32,7 +32,9 @@ This section inserts in the analysis of chapter 91 of title 28, U.S.C., item 150
 
 #### Amendments
 
-1992—Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURTOF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
+2006—Pub. L. 109–284, §4(1), Sept. 27, 2006, 120 Stat. 1211, substituted “chapter 37 of title 40” for “Contract Work Hours and Safety Standards Act” in item 1499.
+
+1992—Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
 
 1984—Pub. L. 98–369, div. A, title VII, §714(g)(3), July 18, 1984, 98 Stat. 962, added item 1509.
 
@@ -50,10 +52,6 @@ Pub. L. 86–726, §4, Sept. 8, 1960, 74 Stat. 856, substituted “Patent and co
 
 1949—Act May 24, 1949, ch. 139, §86, 63 Stat. 102, added item 1505.
 
-#### Rules of the United States Court of Federal Claims
-
-See Appendix to this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “77p(f)(3)”.</i>
 
 
@@ -69,7 +67,7 @@ See Appendix to this title.
 - [&sect; 01496 - Disbursing officers&#8217; claims](%C2%A7%2001496%20-%20Disbursing%20officers%E2%80%99%20claims.md)
 - [&sect; 01497 - Oyster growers&#8217; damages from dredging operations](%C2%A7%2001497%20-%20Oyster%20growers%E2%80%99%20damages%20from%20dredging%20operations.md)
 - [&sect; 01498 - Patent and copyright cases](%C2%A7%2001498%20-%20Patent%20and%20copyright%20cases.md)
-- [&sect; 01499 - Liquidated damages withheld from contractors under Contract Work Hours and Safety Standards Act 1](%C2%A7%2001499%20-%20Liquidated%20damages%20withheld%20from%20contractors%20under%20Contract%20Work%20Hours%20and%20Safety%20Standards%20Act%201.md)
+- [&sect; 01499 - Liquidated damages withheld from contractors under chapter 37 of title 40](%C2%A7%2001499%20-%20Liquidated%20damages%20withheld%20from%20contractors%20under%20chapter%2037%20of%20title%2040.md)
 - [&sect; 01500 - Pendency of claims in other courts](%C2%A7%2001500%20-%20Pendency%20of%20claims%20in%20other%20courts.md)
 - [&sect; 01501 - Pensions](%C2%A7%2001501%20-%20Pensions.md)
 - [&sect; 01502 - Treaty cases](%C2%A7%2001502%20-%20Treaty%20cases.md)

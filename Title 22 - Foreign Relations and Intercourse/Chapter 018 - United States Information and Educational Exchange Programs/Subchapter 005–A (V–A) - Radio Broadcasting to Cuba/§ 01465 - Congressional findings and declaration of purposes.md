@@ -8,7 +8,7 @@ The Congress finds and declares—
 
 &emsp;(3) that such broadcasting to Cuba, operated in a manner not inconsistent with the broad foreign policy of the United States and in accordance with high professional standards, would be in the national interest; and
 
-&emsp;(4) that the Voice of America already broadcasts to Cuba information that represents America, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions but that there is a need for broadcasts to Cuba which provide news, commentary and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
+&emsp;(4) that the Voice of America already broadcasts to Cuba information that representsAmerica, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions but that there is a need for broadcasts to Cuba which provide news, commentary and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
 
 (Pub. L. 98–111, §2, Oct. 4, 1983, 97 Stat. 749.)
 

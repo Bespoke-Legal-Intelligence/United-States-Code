@@ -36,7 +36,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) a person who volunteers for assignment to the Ready Reserve of a uniformed service and is assigned to a unit or position in which such person may be required to perform active duty, or active duty for training, and each year will be scheduled to perform at least twelve periods of inactive duty training that is creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
-&emsp;&emsp;(C) a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) of title 10; and
+&emsp;&emsp;(C) a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) <sup>1</sup> of title 10; and
 
 &emsp;&emsp;(D) a member, cadet, or midshipman of the Reserve Officers Training Corps while attending field training or practice cruises.
 
@@ -54,27 +54,29 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) The member's child, as defined in the first sentence of section 101(4)(A) of this title.
 
-&emsp;(11) The term “activities of daily living” means the inability to independently perform 2 of the 6 following functions:
-
-&emsp;&emsp;(A) Bathing.
-
-&emsp;&emsp;(B) Continence.
-
-&emsp;&emsp;(C) Dressing.
-
-&emsp;&emsp;(D) Eating.
-
-&emsp;&emsp;(E) Toileting.
-
-&emsp;&emsp;(F) Transferring.
-
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §765; amended Pub. L. 91–291, §1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, §1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, §701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, §14(b)(16), June 13, 1991, 105 Stat. 284; renumbered §1965 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, §651(a), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, §402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, §313(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 107–14, §4(a)(1), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1032(a)(1), May 11, 2005, 119 Stat. 257.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §765; amended Pub. L. 91–291, §1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, §1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, §701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, §14(b)(16), June 13, 1991, 105 Stat. 284; renumbered §1965 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, §651(a), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, §402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, §313(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 107–14, §4(a)(1), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1032(a)(1), May 11, 2005, 119 Stat. 257; Pub. L. 109–233, title V, §501(c)(1), June 15, 2006, 120 Stat. 415.)
 
 #### References in Text
 
 Chapter 67 of title 10 as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
+Section 12304(i)(1) of title 10, referred to in par. (5)(C), was redesignated section 12304(j)(1) of title 10 by Pub. L. 109–364, div. A, title V, §522(b), Oct. 17, 2006, 120 Stat. 2192.
+
 #### Amendments
+
+2006—Par. (11). Pub. L. 109–233 struck out par. (11) which read as follows: “The term ‘activities of daily living’ means the inability to independently perform 2 of the 6 following functions:
+
+&emsp;“(A) Bathing.
+
+&emsp;“(B) Continence.
+
+&emsp;“(C) Dressing.
+
+&emsp;“(D) Eating.
+
+&emsp;“(E) Toileting.
+
+&emsp;“(F) Transferring.”
 
 2005—Par. (11). Pub. L. 109–13 added par. (11).
 
@@ -159,4 +161,6 @@ Section 405(a) of Pub. L. 104–275 provided that: “The program of insurance o
 #### References to Servicemen's Group Life Insurance or Advisory Council on Servicemen's Group Life Insurance
 
 Section 405(d) of Pub. L. 104–275 provided that: “Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers’ Group Life Insurance or the Advisory Council on Servicemembers’ Group Life Insurance, respectively.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

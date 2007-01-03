@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Each recipient shall be required to supplement the assistance provided under this part with an equal amount of funds for supportive services from sources other than this part. Each recipient shall certify to the Secretary its compliance with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
+&emsp;Each recipient shall be required to supplement the assistance provided under this partwith an equal amount of funds for supportive services from sources other than this part. Each recipient shall certify to the Secretary its compliance with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
 
 #### (2) Determination of matching amounts
 
-&emsp;In calculating the amount of supplemental funds provided under this part, a recipientmay include the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers to carry out the program of the recipient at a rate determined by the Secretary.
+&emsp;In calculating the amount of supplemental funds provided under this part, a recipient may include the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers to carry out the program of the recipient at a rate determined by the Secretary.
 
 #### (b) Recapture
 

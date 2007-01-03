@@ -74,11 +74,51 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(B) any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
 
-(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51.)
+(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980.)
 
-#### Amendment of Section
+#### Amendment of Subsection (c)
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>Pub. L. 109–280, title VI, §621, Aug. 17, 2006, 120 Stat. 978, provided that, applicable to plan years beginning after Dec. 31, 2007, with special rule for collectively bargained agreements, subsection (c) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by designating existing provisions as subparagraph (A), by redesignating former subparagraphs (A) and (B) as clauses (i) and (ii), respectively, in clause (ii), by inserting “, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary” before the period at the end, and by adding subparagraphs (B) and (C) to read as follows:</i>
+
+<i>“(B) If a person referred to in subparagraph (A)(ii) meets the requirements of this subchapter in connection with authorizing and implementing the blackout period, any person who is otherwise a fiduciary shall not be liable under this subchapter for any loss occurring during such period.</i>
+
+<i>“(C) For purposes of this paragraph, the term ‘blackout period’ has the meaning given such term by section 1021(i)(7) of this title.”; and</i>
+
+<i>(2) by adding paragraph (4) at the end to read as follows:</i>
+
+<i>(4)(A) In any case in which a qualified change in investment options occurs in connection with an individual account plan, a participant or beneficiary shall not be treated for purposes of paragraph (1) as not exercising control over the assets in his account in connection with such change if the requirements of subparagraph (C) are met in connection with such change.</i>
+
+<i>(B) For purposes of subparagraph (A), the term “qualified change in investment options” means, in connection with an individual account plan, a change in the investment options offered to the participant or beneficiary under the terms of the plan, under which—</i>
+
+&emsp;<i>(i) the account of the participant or beneficiary is reallocated among one or more remaining or new investment options which are offered in lieu of one or more investment options offered immediately prior to the effective date of the change, and</i>
+
+&emsp;<i>(ii) the stated characteristics of the remaining or new investment options provided under clause (i), including characteristics relating to risk and rate of return, are, as of immediately after the change, reasonably similar to those of the existing investment options as of immediately before the change.</i>
+
+<i>(C) The requirements of this subparagraph are met in connection with a qualified change in investment options if—</i>
+
+&emsp;<i>(i) at least 30 days and no more than 60 days prior to the effective date of the change, the plan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),</i>
+
+&emsp;<i>(ii) the participant or beneficiary has not provided to the plan administrator, in advance of the effective date of the change, affirmative investment instructions contrary to the change, and</i>
+
+&emsp;<i>(iii) the investments under the plan of the participant or beneficiary as in effect immediately prior to the effective date of the change were the product of the exercise by such participant or beneficiary of control over the assets of the account within the meaning of paragraph (1).</i>
+
+<i>Pub. L. 109–280, title VI, §624(a), (b)(1), Aug. 17, 2006, 120 Stat. 980, provided that, applicable to plan years beginning after Dec. 31, 2006, subsection (c) of this section is amended by adding paragraph (5) at the end to read as follows:</i>
+
+<i>(5) DEFAULT INVESTMENT ARRANGEMENTS.—</i>
+
+&emsp;<i>(A) IN GENERAL.—For purposes of paragraph (1), a participant in an individual account plan meeting the notice requirements of subparagraph (B) shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which, in the absence of an investment election by the participant, are invested by the plan in accordance with regulations prescribed by the Secretary. The regulations under this subparagraph shall provide guidance on the appropriateness of designating default investments that include a mix of asset classes consistent with capital preservation or long-term capital appreciation, or a blend of both.</i>
+
+&emsp;<i>(B) NOTICE REQUIREMENTS.—</i>
+
+&emsp;&emsp;<i>(i) IN GENERAL.—The requirements of this subparagraph are met if each participant—</i>
+
+&emsp;&emsp;&emsp;<i>(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant, such contributions and earnings will be invested, and</i>
+
+&emsp;&emsp;&emsp;<i>(II) has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.</i>
+
+&emsp;&emsp;<i>(ii) FORM OF NOTICE.—The requirements of clauses (i) and (ii) of section 401(k)(12)(D) of title 26 shall apply with respect to the notices described in this subparagraph.</i>
 
 #### References in Text
 
@@ -90,7 +130,7 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 
 Subsec. (c)(3)(B). Pub. L. 107–147, §411(t)(2), substituted “a transfer that” for “if the transfer”.
 
-2001—Subsec. (c)(3). Pub. L. 107–16, §§657(c)(1), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (c)(3). Pub. L. 107–16 added par. (3).
 
 1996—Subsec. (c). Pub. L. 104–188 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -100,15 +140,43 @@ Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title VI, §621(b), Aug. 17, 2006, 120 Stat. 979, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2007.
+
+“(2)
+
+Special rule for collectively bargained agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act \[Aug. 17, 2006\], paragraph (1) shall be applied to benefits pursuant to, and individuals covered by, any such agreement by substituting for ‘December 31, 2007’ the earlier of—
+
+&emsp;“(A) the later of—
+
+&emsp;&emsp;“(i) December 31, 2008, or
+
+&emsp;&emsp;“(ii) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after such date of enactment), or
+
+&emsp;“(B) December 31, 2009.”
+
+Pub. L. 109–280, title VI, §624(b), Aug. 17, 2006, 120 Stat. 980, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2006.
+
+“(2)
+
+Regulations.—Final regulations under section 404(c)(5)(A) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1104(c)(5)(A)\] (as added by this section) shall be issued no later than 6 months after the date of the enactment of this Act \[Aug. 17, 2006\].”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to distributions made after Mar. 28, 2005, see section 657(d) of Pub. L. 107–16, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendment
 
@@ -123,6 +191,20 @@ Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
 #### Regulations
+
+Pub. L. 109–280, title VI, §625, Aug. 17, 2006, 120 Stat. 980, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall issue final regulations clarifying that the selection of an annuity contract as an optional form of distribution from an individual account plan to a participant or beneficiary—
+
+&emsp;“(1) is not subject to the safest available annuity standard under Interpretive Bulletin 95–1 (29 CFR 2509.95–1), and
+
+&emsp;“(2) is subject to all otherwise applicable fiduciary standards.
+
+“(b)
+
+Effective Date.—This section shall take effect on the date of enactment of this Act \[Aug. 17, 2006\].”
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
 

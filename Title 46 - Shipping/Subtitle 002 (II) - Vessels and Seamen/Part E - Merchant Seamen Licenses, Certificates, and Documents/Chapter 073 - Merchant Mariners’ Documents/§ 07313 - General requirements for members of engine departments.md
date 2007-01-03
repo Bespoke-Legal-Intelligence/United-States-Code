@@ -34,7 +34,3 @@ Subsection (c) establishes the minimum qualifications individuals must meet in o
 
 1996—Subsec. (a). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7314 of this title.
-

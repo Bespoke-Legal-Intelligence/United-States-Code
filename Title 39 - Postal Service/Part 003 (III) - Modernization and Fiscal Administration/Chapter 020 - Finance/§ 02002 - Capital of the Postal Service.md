@@ -6,9 +6,9 @@
 
 &emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations made to, held or used by, or available to the former Post Office Department and all liabilities chargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
 
-(b) The capital of the Postal Service at any time shall consist of its assets, including the balance in the Fund, less its liabilities.
+(b) The capital of the Postal Service at any time shall consist of its assets, including the balance in the Fund and the balance in the Competitive Products Fund, less its liabilities.
 
-(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine which Federal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the United States upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
+(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine whichFederal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the United States upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
 
 &emsp;(1) the mail equipment shops located in Washington, District of Columbia;
 
@@ -24,11 +24,15 @@
 
 (d) After the commencement of operations of the Postal Service, the President is authorized to transfer to the Postal Service, and the Postal Service is authorized to transfer to other departments, agencies, or independent establishments of the Government of the United States, with or without reimbursement, any property of that department, agency, or independent establishment and the Postal Service, respectively, when the public interest would be served by such transfer.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738; Pub. L. 109–435, title IV, §401(b)(2), Dec. 20, 2006, 120 Stat. 3225.)
 
 #### References in Text
 
 The effective date of this section, referred to in subsec. (c)(3), (4), is July 1, 1971. See Effective Date note set out under section 2001 of this title.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–435 substituted “Fund and the balance in the Competitive Products Fund,” for “Fund,”.
 
 #### Assets of Postal Service
 

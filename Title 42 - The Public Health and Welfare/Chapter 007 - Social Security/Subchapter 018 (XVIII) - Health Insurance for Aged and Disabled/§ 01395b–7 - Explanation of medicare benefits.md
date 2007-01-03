@@ -44,7 +44,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (5) Recovery of amounts
 
-&emsp;The Secretary shall take all appropriate measures to recover amounts unnecessarily paid under this subchapter with respect to a statement described in paragraph (4).
+&emsp;The Secretary shall take all appropriate measures to recover amounts unnecessarilypaid under this subchapter with respect to a statement described in paragraph (4).
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1806, as added Pub. L. 105–33, title IV, §4311(b)(1), Aug. 5, 1997, 111 Stat. 385.)
 
@@ -58,7 +58,7 @@ Statement by secretary.—Paragraph (1) of section 1806(a) of the Social Securit
 
 “(B)
 
-Itemized statement.—Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act\[subsecs. (a)(2) and (b) of this section\], as so added, shall take effect not later than January 1, 1999.”
+Itemized statement.—Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act \[subsecs. (a)(2) and (b) of this section\], as so added, shall take effect not later than January 1, 1999.”
 
 #### Inclusion of Additional Information in Notices to Beneficiaries About Skilled Nursing Facility Benefits
 

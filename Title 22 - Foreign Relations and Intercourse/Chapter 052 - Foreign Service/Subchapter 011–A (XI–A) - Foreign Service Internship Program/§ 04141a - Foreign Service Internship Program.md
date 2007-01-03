@@ -40,7 +40,7 @@ Interns shall be compensated at a rate determined by the Secretary which shall n
 
 #### (h) Study of Foreign Service examination
 
-The Secretary of State shall study the feasibility of administering the Foreign Service examination in separate segments over severalyears. Not later than 180 days after February 16, 1990, the Secretary shall submit a report summarizing the findings of such a study to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+The Secretary of State shall study the feasibility of administering the Foreign Service examination in separate segments over several years. Not later than 180 days after February 16, 1990, the Secretary shall submit a report summarizing the findings of such a study to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 (Pub. L. 96–465, title I, §1202, as added Pub. L. 101–246, title I, §149(b), Feb. 16, 1990, 104 Stat. 40; amended Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 

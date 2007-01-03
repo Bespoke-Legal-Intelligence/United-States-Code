@@ -14,5 +14,5 @@ Pub. L. 103–325, §602(g)(8)(A)(i), substituted “Whenever any Federal Reserv
 
 #### Transfer of Functions
 
-For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
+For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 

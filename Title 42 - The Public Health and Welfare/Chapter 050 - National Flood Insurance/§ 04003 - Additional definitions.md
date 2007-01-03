@@ -12,7 +12,7 @@
 
 &emsp;(5) “Federal entity for lending regulation” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Office of Thrift Supervision, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
 
-&emsp;(6) “Director” means the Director of the Federal Emergency Management Agency;
+&emsp;(6) “Director” means the Administrator of the Federal Emergency Management Agency;
 
 &emsp;(7) “Federal agency lender” means a Federal agency that makes direct loans secured by improved real estate or a mobile home, to the extent such agency acts in such capacity;
 
@@ -26,7 +26,7 @@
 
 (b) The Director is authorized to define or redefine, by rules and regulations, any scientific or technical term used in this Act, insofar as such definition is not inconsistent with the purposes of this Act.
 
-(Pub. L. 93–234, §3, Dec. 31, 1973, 87 Stat. 976; Pub. L. 95–128, title VII, §703(b), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(e), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–707, title I, §109(t), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–325, title V, §511(a), Sept. 23, 1994, 108 Stat. 2255.)
+(Pub. L. 93–234, §3, Dec. 31, 1973, 87 Stat. 976; Pub. L. 95–128, title VII, §703(b), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(e), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–707, title I, §109(t), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–325, title V, §511(a), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -52,7 +52,13 @@ Subsec. (b). Pub. L. 98–181, §451(e)(1), substituted “Director” for “Se
 
 1977—Subsec. (a)(4). Pub. L. 95–128 substituted “assistance pursuant to the Disaster Relief Act of 1974 (other than assistance under such Act in connection with a flood)” for “assistance for emergency work essential for the protection and preservation of life and property performed pursuant to the Disaster Relief Act of 1970 or any subsequent Act of Congress which supersedes or modifies the Disaster Relief Act of 1970”.
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a)(6) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

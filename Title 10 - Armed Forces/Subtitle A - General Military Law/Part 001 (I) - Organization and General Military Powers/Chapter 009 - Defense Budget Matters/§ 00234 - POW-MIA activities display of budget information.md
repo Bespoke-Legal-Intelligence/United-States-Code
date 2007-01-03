@@ -1,0 +1,44 @@
+### §234. POW/MIA activities: display of budget information
+
+(a)
+
+Submission With Annual Budget Justification Documents.—The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for a fiscal year, a consolidated budget justification display, in classified and unclassified form, that covers all programs and activities of Department of Defense POW/MIA accounting and recovery organizations.
+
+(b)
+
+Requirements for Budget Display.—The budget display under subsection (a) for a fiscal year shall include for each such organization the following:
+
+&emsp;(1) A statement of what percentage of the requirements originally requested by the organization in the budget review process that the budget requests funds for.
+
+&emsp;(2) A summary of actual or estimated expenditures by that organization for the fiscal year during which the budget is submitted and for the fiscal year preceding that year.
+
+&emsp;(3) The amount in the budget for that organization.
+
+&emsp;(4) A detailed explanation of the shortfalls, if any, in the funding of any requirement shown pursuant to paragraph (1), when compared to the amount shown pursuant to paragraph (3).
+
+&emsp;(5) The budget estimate for that organization for the five fiscal years after the fiscal year for which the budget is submitted.
+
+(c)
+
+Department of Defense POW/MIA Accounting and Recovery Organizations.—In this section, the term “Department of Defense POW/MIA accounting and recovery organization” means any of the following (and any successor organization):
+
+&emsp;(1) The Defense Prisoner of War/Missing Personnel Office (DPMO).
+
+&emsp;(2) The Joint POW/MIA Accounting Command (JPAC).
+
+&emsp;(3) The Armed Forces DNA Identification Laboratory (AFDIL).
+
+&emsp;(4) The Life Sciences Equipment Laboratory (LSEL) of the Air Force.
+
+&emsp;(5) Any other element of the Department of Defense the mission of which (as designated by the Secretary of Defense) involves the accounting for and recovery of members of the armed forces who are missing in action or prisoners of war or who are unaccounted for.
+
+(d)
+
+Other Definitions.—In this section:
+
+&emsp;(1) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+&emsp;(2) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+
+(Added Pub. L. 109–364, div. A, title V, §563(a), Oct. 17, 2006, 120 Stat. 2221.)
+

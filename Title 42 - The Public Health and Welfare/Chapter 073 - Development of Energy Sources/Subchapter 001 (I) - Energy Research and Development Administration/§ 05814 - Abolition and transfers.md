@@ -6,7 +6,7 @@ The Atomic Energy Commission is hereby abolished. Sections 2031 and 2032 of this
 
 #### (b) Transfer or lapse of functions of Atomic Energy Commission
 
-All other functions of the Commission, the Chairman and members of the Commission, and the officers and components of the Commissionare hereby transferred or allowed to lapse pursuant to the provisions of this chapter.
+All other functions of the Commission, the Chairman and members of the Commission, and the officers and components of the Commission are hereby transferred or allowed to lapse pursuant to the provisions of this chapter.
 
 #### (c) Functions of Atomic Energy Commission transferred to Administrator
 
@@ -292,7 +292,7 @@ Section 281 \[42 U.S.C. 2011 note\] (“Separability”) and Section 291 \[42 U.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee establishedby the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ Definition.—In this section, “law enforcement personnel” means individuals
 
 (b)
 
-Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
+Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property onan aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -64,7 +64,7 @@ Exclusive Responsibility Over Passenger Safety.—The Under Secretary has the ex
 
 (f)
 
-Government and Industry Consortia.—The Under Secretary may establish at airports such consortia of government and aviation industry representatives as the Under Secretary may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+Government and Industry Consortia.—The Under Secretary may establish at airportssuch consortia of government and aviation industry representatives as the Under Secretary may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (g)
 
@@ -218,7 +218,7 @@ In general.—If the Under Secretary, after receiving the recommendations of the
 
 &emsp;(2)
 
-Usage.—If the Under Secretary grants authority under paragraph (1) for flight deck crew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Under Secretary shall—
+Usage.—If the Under Secretary grants authority under paragraph (1) for flight deckcrew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Under Secretary shall—
 
 &emsp;&emsp;(A) prescribe rules requiring that any such crew member be trained in the proper use of the weapon; and
 
@@ -430,7 +430,7 @@ In this section, the word “passengers” is substituted for “persons” for 
 
 In subsection (a)(2), the words “the degree of” are substituted for “such” for clarity.
 
-In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” are omitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and“any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
+In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” are omitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and “any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
 
 In subsection (c)(1), the words “traveling in air transportation or intrastate air transportation from acts of criminal violence and aircraft piracy” and “whose services are made available by their employers” are omitted as surplus. The words “department, agency, or instrumentality of the Government” are substituted for “Federal department or agency” for consistency in the revised title and with other titles of the Code. The word “When” is substituted for “In any case in which” to eliminate unnecessary words. The words “receipt of”, “by order”, “the services of”, “directly”, and “at the airport concerned in such numbers and for such period of time as the Administrator may deem necessary” are omitted as surplus. The words “When deciding whether additional personnel are needed” are substituted for “In making the determination referred to in the preceding sentence” for clarity.
 
@@ -464,7 +464,7 @@ Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to
 
 2003—Subsec. (<i>l</i>). Pub. L. 108–176 added subsec. (<i>l</i>).
 
-2002—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
+2002—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability foracts to thwart criminal violence or aircraft piracy, as (k).
 
 Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
@@ -606,7 +606,7 @@ Implementation of Other Methods.—As soon as possible after such date of enactm
 
 “(c)
 
-Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportationor intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regions where there is minimal threat to aviation security or national security.”
+Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportation or intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regions where there is minimal threat to aviation security or national security.”
 
 #### Small and Medium Airports
 
@@ -692,7 +692,7 @@ In General.—In order to ensure physical security at Federal Aviation Administr
 
 “(b)
 
-Reports.—Not later than April 30, 2001, and annually thereafter through April 30, 2004, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress beingmade in improving the physical security of air traffic control facilities, including the percentage of such facilities that have been granted physical security accreditation.”
+Reports.—Not later than April 30, 2001, and annually thereafter through April 30, 2004, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress being made in improving the physical security of air traffic control facilities, including the percentage of such facilities that have been granted physical security accreditation.”
 
 #### Deputizing of State and Local Law Enforcement Officers
 

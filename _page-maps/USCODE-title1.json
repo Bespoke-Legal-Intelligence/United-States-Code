@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title1",
- "package": "USCODE-2005-title1",
+ "package": "USCODE-2006-title1",
  "pieces": [
   {
    "id": "1_",
@@ -73,30 +73,26 @@
   },
   {
    "id": "1_5",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 3]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Rules of Construction/§ 00005 - “Company” or “association” as including successors and assigns.md",
    "printed_pages": [
     2,
-    2
+    3
    ]
   },
   {
    "id": "1_6",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       383,
-       "[Page 3]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Rules of Construction/§ 00006 - Limitation of term “products of American fisheries”.md",
    "printed_pages": [
-    2,
+    3,
     3
    ]
   },
@@ -167,14 +163,10 @@
    "id": "1_105",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       108,
-       "[Page 4]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 4]",
+     true
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00105 - Title of appropriation Acts.md",
@@ -187,27 +179,23 @@
    "id": "1_106",
    "marks": [
     [
-     "I",
-     60,
-     [
-      [
-       143,
-       "[Page 5]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 5]",
+     true
     ],
     [
      "L",
-     170,
+     162,
      "[Page 6]",
      true
     ],
     [
      "I",
-     276,
+     268,
      [
       [
-       256,
+       272,
        "[Page 7]"
       ]
      ]
@@ -223,10 +211,14 @@
    "id": "1_106a",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 8]",
-     true
+     "I",
+     2,
+     [
+      [
+       235,
+       "[Page 8]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00106a - Promulgation of laws.md",
@@ -285,7 +277,7 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 9]",
      true
     ]
@@ -304,7 +296,7 @@
      40,
      [
       [
-       397,
+       116,
        "[Page 10]"
       ]
      ]
@@ -333,35 +325,30 @@
      2,
      [
       [
-       773,
+       643,
        "[Page 11]"
       ]
      ]
+    ],
+    [
+     "L",
+     68,
+     "[Page 12]",
+     true
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements; transmission to Congress.md",
    "printed_pages": [
     10,
-    11
+    12
    ]
   },
   {
    "id": "1_113",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 12]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00113 - “Little and Brown's” edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence.md",
    "printed_pages": [
-    11,
+    12,
     12
    ]
   },
@@ -388,7 +375,7 @@
    "marks": [
     [
      "L",
-     18,
+     12,
      "[Page 13]",
      true
     ]
@@ -422,7 +409,7 @@
    "marks": [
     [
      "L",
-     24,
+     16,
      "[Page 14]",
      true
     ]
@@ -474,7 +461,7 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 15]",
      true
     ]
@@ -522,6 +509,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2005-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2006-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 01 - General Provisions"
 }

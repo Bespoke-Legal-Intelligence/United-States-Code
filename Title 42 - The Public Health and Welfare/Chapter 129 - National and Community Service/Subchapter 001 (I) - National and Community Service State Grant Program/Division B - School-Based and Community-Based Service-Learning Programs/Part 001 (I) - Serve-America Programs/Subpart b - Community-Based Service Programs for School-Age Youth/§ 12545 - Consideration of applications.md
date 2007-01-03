@@ -10,7 +10,7 @@ In evaluating such an application with respect to a program under this subpart, 
 
 #### (c) Application to subgrants
 
-A State Commission or grantmaking entity shall apply the criteria described in subsection (b) of this section in determining whether to approve an application under section 12544(c) of this title and to make a grant under section 12542(b)(1) of this title to the applicant on the basis of the application.
+A State Commission or grantmaking entity shall apply the criteria described in subsection (b) of this section in determining whether to approve an application under section 12544(c) ofthis title and to make a grant under section 12542(b)(1) of this title to the applicant on the basis of the application.
 
 (Pub. L. 101–610, title I, §117D, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 835.)
 

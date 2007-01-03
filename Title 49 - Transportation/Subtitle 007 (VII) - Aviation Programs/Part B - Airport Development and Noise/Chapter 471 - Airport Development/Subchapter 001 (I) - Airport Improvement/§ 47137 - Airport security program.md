@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—To improve security at public airports in the United States, the Secretary of Transportation shall carry out not less than one project to test and evaluate innovative aviation security systems and related technology.
+General Authority.—To improve security at public airports in the United States, the Secretary of Transportation shall carry out not less than one project to test and evaluate innovativeaviation security systems and related technology.
 
 (b)
 

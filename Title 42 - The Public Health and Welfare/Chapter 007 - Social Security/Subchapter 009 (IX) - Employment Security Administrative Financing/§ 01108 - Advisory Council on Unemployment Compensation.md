@@ -16,7 +16,7 @@ It shall be the function of each Council to evaluate the unemployment compensati
 
 &emsp;&emsp;(A) 5 members appointed by the President, to include representatives of business, labor, State government, and the public.
 
-&emsp;&emsp;(B) 3 members appointed by the President pro tempore of the Senate, in consultation with the Chairman and ranking member of the Committee on Finance of the Senate.
+&emsp;&emsp;(B) 3 members appointed by the President pro tempore of the Senate, in consultationwith the Chairman and ranking member of the Committee on Finance of the Senate.
 
 &emsp;&emsp;(C) 3 members appointed by the Speaker of the House of Representatives, in consultation with the Chairman and ranking member of the Committee on Ways and Means of the House of Representatives.
 
@@ -46,7 +46,7 @@ It shall be the function of each Council to evaluate the unemployment compensati
 
 #### (2) Assistance from Secretary of Labor
 
-&emsp;The Secretary of Labor shall provide each Council with any staff, office facilities, andother assistance, and any data prepared by the Department of Labor, required by the Council to carry out its functions under this section.
+&emsp;The Secretary of Labor shall provide each Council with any staff, office facilities, and other assistance, and any data prepared by the Department of Labor, required by the Council to carry out its functions under this section.
 
 #### (e) Compensation
 

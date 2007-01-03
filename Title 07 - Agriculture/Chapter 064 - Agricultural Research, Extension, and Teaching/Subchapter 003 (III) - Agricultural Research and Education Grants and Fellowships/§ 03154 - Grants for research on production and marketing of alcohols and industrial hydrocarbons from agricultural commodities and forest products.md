@@ -16,7 +16,7 @@ The Secretary may award grants under this section to colleges, universities, and
 
 #### (b) Set aside of funds for certain grant projects
 
-Of the amounts appropriated in any fiscal year pursuant to the authorization contained in subsection (d) of this section, not less than 50 percent of those amounts shall be made available for grants for research relating to the development of technologies for increasing the energy efficiency and commercial feasibility of alcohol production, including—
+Of the amounts appropriated in any fiscal year pursuant to the authorization contained in subsection (d) of this section, not less than 50 percent of those amounts shall be made availablefor grants for research relating to the development of technologies for increasing the energy efficiency and commercial feasibility of alcohol production, including—
 
 &emsp;(1) processes of cellulose conversion and membrane technology,
 

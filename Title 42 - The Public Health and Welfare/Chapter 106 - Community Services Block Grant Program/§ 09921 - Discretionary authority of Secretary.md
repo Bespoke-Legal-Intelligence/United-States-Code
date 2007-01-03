@@ -10,7 +10,7 @@
 
 #### (A) Economic development activities
 
-&emsp;&emsp;The Secretary shall make grants described in paragraph (1) on a competitive basis to private, nonprofit organizations that arecommunity development corporations to provide technical and financial assistance for economic development activities designed to address the economic needs of low-income individuals and families by creating employment and business development opportunities.
+&emsp;&emsp;The Secretary shall make grants described in paragraph (1) on a competitive basis to private, nonprofit organizations that are community development corporations to provide technical and financial assistance for economic development activities designed to address the economic needs of low-income individuals and families by creating employment and business development opportunities.
 
 #### (B) Consultation
 
@@ -18,7 +18,7 @@
 
 #### (C) Governing boards
 
-&emsp;&emsp;For a community development corporation to receive funds to carry out this paragraph, the corporation shall be governed by a board that shall consist of residents of the community and business and civic leaders and shall have as a principal purpose planning, developing, or managing low-income housing or community development projects.
+&emsp;&emsp;For a community development corporation to receive funds to carry out this paragraph,the corporation shall be governed by a board that shall consist of residents of the community and business and civic leaders and shall have as a principal purpose planning, developing, or managing low-income housing or community development projects.
 
 #### (D) Geographic distribution
 

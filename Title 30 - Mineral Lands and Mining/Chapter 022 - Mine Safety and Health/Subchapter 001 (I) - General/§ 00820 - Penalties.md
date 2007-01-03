@@ -2,11 +2,21 @@
 
 #### (a) Civil penalty for violation of mandatory health or safety standards
 
-The operator of a coal or other mine in which a violation occurs of a mandatory health orsafety standard or who violates any other provision of this chapter, shall be assessed a civil penalty by the Secretary which penalty shall not be more than $50,000 for each such violation. Each occurrence of a violation of a mandatory health or safety standard may constitute a separate offense.
+(1) The operator of a coal or other mine in which a violation occurs of a mandatory health or safety standard or who violates any other provision of this chapter, shall be assessed a civil penalty by the Secretary which penalty shall not be more than $50,000 for each such violation. Each occurrence of a violation of a mandatory health or safety standard may constitute a separate offense.
+
+(2) The operator of a coal or other mine who fails to provide timely notification to the Secretary as required under section 813(j) of this title (relating to the 15 minute requirement) shall be assessed a civil penalty by the Secretary of not less than $5,000 and not more than $60,000.
+
+(3)(A) The minimum penalty for any citation or order issued under section 814(d)(1) of this title shall be $2,000.
+
+(B) The minimum penalty for any order issued under section 814(d)(2) of this title shall be $4,000.
+
+(4) Nothing in this subsection shall be construed to prevent an operator from obtaining a review, in accordance with section 816 of this title, of an order imposing a penalty described in this subsection. If a court, in making such review, sustains the order, the court shall apply at least the minimum penalties required under this subsection.
 
 #### (b) Civil penalty for failure to correct violation for which citation has been issued
 
-Any operator who fails to correct a violation for which a citation has been issued under section 814(a) of this title within the period permitted for its correction may be assessed a civil penalty of not more than $$5,000 <sup>1</sup> for each day during which such failure or violation continues.
+(1) Any operator who fails to correct a violation for which a citation has been issued under section 814(a) of this title within the period permitted for its correction may be assessed a civil penalty of not more than $$5,000 <sup>1</sup> for each day during which such failure or violation continues.
+
+(2) Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term “flagrant” with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.
 
 #### (c) Liability of corporate directors, officers, and agents
 
@@ -14,7 +24,7 @@ Whenever a corporate operator violates a mandatory health or safety standard or 
 
 #### (d) Criminal penalties
 
-Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a) of this section or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $50,000, or by imprisonment for not more than five years, or both.
+Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a)(1) or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $250,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $500,000, or by imprisonment for not more than five years, or both.
 
 #### (e) Unauthorized advance notice of inspections
 
@@ -34,7 +44,7 @@ Whoever knowingly distributes, sells, offers for sale, introduces, or delivers i
 
 #### (i) Authority to assess civil penalties
 
-The Commission shall have authority to assess all civil penalties provided in this chapter. In assessing civil monetary penalties, the Commission shall consider the operator's history of previous violations, the appropriateness of such penalty to the size of the business of the operator charged, whether the operator was negligent, the effect on the operator's ability to continue in business, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of a violation. In proposing civil penalties under this chapter, the Secretary may rely upon a summary review of the information available to him and shall not be required to make findings of fact concerning the above factors.
+The Commission shall have authority to assess all civil penalties provided in this chapter. In assessing civil monetary penalties, the Commission shall consider the operator's history ofprevious violations, the appropriateness of such penalty to the size of the business of the operator charged, whether the operator was negligent, the effect on the operator's ability to continue in business, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of a violation. In proposing civil penalties under this chapter, the Secretary may rely upon a summary review of the information available to him and shall not be required to make findings of fact concerning the above factors.
 
 #### (j) Payment of penalties; interest
 
@@ -48,9 +58,23 @@ No proposed penalty which has been contested before the Commission under section
 
 The provisions of this section shall not be applicable with respect to subchapter IV of this chapter.
 
-(Pub. L. 91–173, title I, §110, Dec. 30, 1969, 83 Stat. 758; Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1311; Pub. L. 101–508, title III, §3102, Nov. 5, 1990, 104 Stat. 1388–29.)
+(Pub. L. 91–173, title I, §110, Dec. 30, 1969, 83 Stat. 758; Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1311; Pub. L. 101–508, title III, §3102, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 109–236, §5(b), §8(a), June 15, 2006, 120 Stat. 498, 500; Pub. L. 109–280, title XIII, §1301, Aug. 17, 2006, 120 Stat. 1108.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–280, §1301(2), substituted “(1) The operator” for “(1)(1) The operator” in par. (1), substituted “subsection (a)(1)” for “paragraph (1)” in par. (2), relating to criminal penalties, and redesignated that par. as subsec. (d).
+
+Pub. L. 109–236, §8(a)(1), inserted “(1)” after subsec. heading, added par. (2), relating to criminal penalties, and added pars. (3) and (4).
+
+Pub. L. 109–236, §5(b), designated existing provisions as par. (1) and added par. (2), relating to civil penalties.
+
+Subsec. (b). Pub. L. 109–280, §1301(3), inserted par. (1) and (2) designations.
+
+Pub. L. 109–236, §8(a)(2), inserted at end “Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term ‘flagrant’ with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.”
+
+Subsec. (d). Pub. L. 109–280, §1301(2)(B)(ii), redesignated subsec. (a)(2), relating to criminal penalties, as (d).
+
+Pub. L. 109–280, §1301(1), struck out subsec. (d) which read as follows: “Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a) of this section or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $50,000, or by imprisonment for not more than five years, or both.”
 
 1990—Subsec. (a). Pub. L. 101–508, §3102(1), substituted “$50,000” for “$10,000”.
 
@@ -61,6 +85,10 @@ Subsec. (b). Pub. L. 101–508, §3102(2), substituted “$5,000” for “1,000
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+
+#### Regulations
+
+Pub. L. 109–236, §8(b), June 15, 2006, 120 Stat. 501, provided that: “Not later than December 30, 2006, the Secretary of Labor shall promulgate final regulations with respect to penalties.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

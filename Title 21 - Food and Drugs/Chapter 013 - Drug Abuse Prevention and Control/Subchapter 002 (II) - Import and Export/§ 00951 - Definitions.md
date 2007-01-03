@@ -2,7 +2,7 @@
 
 (a) For purposes of this subchapter—
 
-&emsp;(1) The term “import” means, with respect to any article, any bringing in or introductionof such article into any area (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
+&emsp;(1) The term “import” means, with respect to any article, any bringing in or introduction of such article into any area (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
 
 &emsp;(2) The term “customs territory of the United States” has the meaning assigned to such term by general note 2 of the Harmonized Tariff Schedule of the United States.
 

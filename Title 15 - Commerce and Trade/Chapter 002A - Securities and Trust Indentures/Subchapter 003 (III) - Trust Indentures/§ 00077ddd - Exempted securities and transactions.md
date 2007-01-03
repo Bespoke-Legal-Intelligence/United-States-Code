@@ -30,7 +30,7 @@ The provisions of this subchapter shall not apply to any of the following securi
 
 #### (b) Application of sections 77eee and 77fff
 
-The provisions of sections 77eee and 77fff of this title shall not apply (1) to any of the transactions exempted from the provisions of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] by section 4 thereof \[15 U.S.C. 77d\] or (2) to any transaction which would be so exempted but for the last sentence of paragraph (11) of section 2 of such Act <sup>1</sup> \[15 U.S.C. 77b\].
+The provisions of sections 77eee and 77fff of this title shall not apply (1) to any of the transactions exempted from the provisions of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] by section 4 thereof \[15 U.S.C. 77d\] or (2) to anytransaction which would be so exempted but for the last sentence of paragraph (11) of section 2 of such Act <sup>1</sup> \[15 U.S.C. 77b\].
 
 #### (c) Securities issued or proposed to be issued under indenture
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 101–550, §403(2), added subsec. (d) and struck out forme
 
 1980—Subsec. (a)(8). Pub. L. 96–477, §302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
 
-Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
+Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amountas the Commission may establish by its rules and regulations” after “same issuer”.
 
 1970—Subsec. (a)(4). Pub. L. 91–567 designated existing provisions as cl. (A) and added cl. (B).
 

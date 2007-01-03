@@ -2,7 +2,7 @@
 
 (a)
 
-Internet Tax Freedom Act.—Nothing in sections 116 through this section of this titleshall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
+Internet Tax Freedom Act.—Nothing in sections 116 through this section of this title shall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
 
 (b)
 

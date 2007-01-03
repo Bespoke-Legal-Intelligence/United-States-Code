@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 &emsp;(7) The term “estuary” means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
 
-&emsp;(8) The term “estuarine sanctuary” means a research area which may include any part or all of an estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes to the extent feasible a natural unit, set aside to provide scientists and students the opportunity to examine over a period of time the ecological relationships within the area.
+&emsp;(8) The term “estuarine sanctuary” means a research area which may include any part orall of an estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes to the extent feasible a natural unit, set aside to provide scientists and students the opportunity to examine over a period of time the ecological relationships within the area.
 
 &emsp;(9) The term “Fund” means the Coastal Zone Management Fund established under section 1456a(b) of this title.
 
@@ -50,7 +50,7 @@ For purposes of this chapter—
 
 &emsp;(16) The term “Secretary” means the Secretary of Commerce.
 
-&emsp;(17) The term “special area management plan” means a comprehensive plan providing for natural resource protection and reasonablecoastal-dependent economic growth containing a detailed and comprehensive statement of policies; standards and criteria to guide public and private uses of lands and waters; and mechanisms for timely implementation in specific geographic areas within the coastal zone.
+&emsp;(17) The term “special area management plan” means a comprehensive plan providing for natural resource protection and reasonable coastal-dependent economic growth containing a detailed and comprehensive statement of policies; standards and criteria to guide public and private uses of lands and waters; and mechanisms for timely implementation in specific geographic areas within the coastal zone.
 
 &emsp;(18) The term “water use” means a use, activity, or project conducted in or on waters within the coastal zone.
 
@@ -82,7 +82,7 @@ Par. (9). Pub. L. 102–587, §2205(b)(7), amended par. (9) generally. Prior to 
 
 1990—Par. (1). Pub. L. 101–508, §6204(a)(1), as amended by Pub. L. 102–587, §2205(b)(3), inserted “, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise” before period at end of third sentence.
 
-Pub. L. 101–508, §6204(a)(2), as amended by Pub. L. 102–587, §2205(b)(3), substituted “the outer limit of State title and ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48 U.S.C. 749), the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 (48 U.S.C. 1681 note), or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705, as applicable.” for “the United States territorial sea.” at end of second sentence.
+Pub. L. 101–508, §6204(a)(2), as amended by Pub. L. 102–587, §2205(b)(3), substituted “the outer limit of State title and ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48U.S.C. 749), the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 (48 U.S.C. 1681 note), or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705, as applicable.” for “the United States territorial sea.” at end of second sentence.
 
 Par. (6a). Pub. L. 101–508, §6204(b), as amended by Pub. L. 102–587, §2205(b)(4), added par. (6a).
 
@@ -130,7 +130,7 @@ Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, provided:
 
 WHEREAS the Government of the United States of America desires to facilitate the wise development and use of the oceans consistent with international law;
 
-WHEREAS international law recognizes that, in a zone beyond its territory and adjacent to its territorialsea, known as the Exclusive Economic Zone, a coastal State may assert certain sovereign rights over natural resources and related jurisdiction; and
+WHEREAS international law recognizes that, in a zone beyond its territory and adjacent to its territorial sea, known as the Exclusive Economic Zone, a coastal State may assert certain sovereign rights over natural resources and related jurisdiction; and
 
 WHEREAS the establishment of an Exclusive Economic Zone by the United States will advance the development of ocean resources and promote the protection of the marine environment, while not affecting other lawful uses of the zone, including the freedoms of navigation and overflight, by other States;
 

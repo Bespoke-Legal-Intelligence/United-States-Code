@@ -24,13 +24,15 @@
 
 &emsp;(2) in the case of an officer, has completed the officer's initial period of obligated service on active duty.
 
-(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 105–85, div. A, title VI, §603(d)(2)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §554, Oct. 28, 2004, 118 Stat. 1913.)
+(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 105–85, div. A, title VI, §603(d)(2)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §554, Oct. 28, 2004, 118 Stat. 1913; Pub. L. 109–364, div. A, title X, §1071(g)(3), Oct. 17, 2006, 120 Stat. 2402.)
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, §554(1). See 2004 Amendment note below.
+
 2004—Subsec. (a). Pub. L. 108–375, §554(2), inserted at end “The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.”
 
-Pub. L. 108–375, §554(1), which directed striking out “for a period not to exceed two years”, was executed by striking out “for a period of not to exceed two years” after “leave of absence” to reflect the probable intent of Congress.
+Pub. L. 108–375, §554(1), as amended by Pub. L. 109–364, struck out “for a period of not to exceed two years” after “leave of absence”.
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -42,9 +44,13 @@ Pub. L. 108–375, §554(1), which directed striking out “for a period not to 
 
 Subsec. (e). Pub. L. 100–26, §7(k)(3), inserted “the term” after “In this section,”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(3) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1997 Amendment
 

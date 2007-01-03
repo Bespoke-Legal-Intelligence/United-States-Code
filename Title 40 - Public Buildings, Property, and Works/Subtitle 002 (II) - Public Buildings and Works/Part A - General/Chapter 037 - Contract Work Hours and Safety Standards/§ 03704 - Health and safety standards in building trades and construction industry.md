@@ -6,11 +6,11 @@ Condition of Contracts.—
 
 &emsp;(1)
 
-In general.—Each contract in an amount greater than $100,000 that is entered into under legislation subject to Reorganization Plan Numbered 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and is for construction, alteration, and repair, including painting and decorating, must provide that no contractor or subcontractor contracting for any part of the contract work shall require any laborer or mechanic employed in the performance of the contract to work in surroundings or under working conditions that are unsanitary, hazardous, or dangerous to health or safety, as established under construction safety and health standards the Secretary of Labor prescribes by regulation based on proceedings pursuant to section 553 of title 5, provided that the proceedings include a hearing similar in nature to that authorized by section 553.
+In general.—Each contract in an amount greater than $100,000 that is entered into under legislation subject to Reorganization Plan Numbered 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and is for construction, alteration, and repair, including painting and decorating, must provide that no contractor or subcontractor contracting for any part of the contract work shall require any laborer or mechanic employed in the performance of the contract to work in surroundings or under working conditions that are unsanitary, hazardous, or dangerous to health or safety, as established under construction safety and health standards the Secretary of Labor prescribes by regulation based on proceedings pursuant to section 553 of title 5, provided that the proceedings include a hearing similar in nature to that authorized by section 553 of title 5.
 
 &emsp;(2)
 
-Consultation.—In formulating standards under this section, the Secretary shall consult with the Advisory Committee created by subsection (d) of this section.
+Consultation.—In formulating standards under this section, the Secretary shall consult with the Advisory Committee created by subsection (d).
 
 (b)
 
@@ -46,7 +46,7 @@ Ban on awarding contracts.—The Comptroller General shall distribute each name 
 
 &emsp;(3)
 
-Judicial review.—A person aggrieved by the Secretary's action under this subsection or subsection (b) may file with the appropriate United States court of appeals a petition for review of the Secretary's action within 60 days after receiving notice of the Secretary's action. The clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary then shall file with the court the record on which the action is based. The findings of fact by the Secretary, if supported by substantial evidence, are final. The court may enter a decree enforcing, modifying, modifying and enforcing, or setting aside any part of, the order of the Secretary or the appropriate Government agency. The judgment of the court may be reviewed by the Supreme Court as provided in section 1254 of title 28.
+Judicial review.—A person aggrieved by the Secretary's action under this subsection or subsection (b) may file with the appropriateUnited States court of appeals a petition for review of the Secretary's action within 60 days after receiving notice of the Secretary's action. The clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary then shall file with the court the record on which the action is based. The findings of fact by the Secretary, if supported by substantial evidence, are final. The court may enter a decree enforcing, modifying, modifying and enforcing, or setting aside any part of, the order of the Secretary or the appropriate Government agency. The judgment of the court may be reviewed by the Supreme Court as provided in section 1254 of title 28.
 
 (d)
 
@@ -86,7 +86,7 @@ Experts and consultants.—The Secretary may appoint special advisory and techni
 
 Compensation and expenses.—Committee members are entitled to receive compensation at rates the Secretary fixes, but not more than $100 a day, including traveltime, when performing Committee business, and expenses under section 5703 of title 5.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172; Pub. L. 109–284, §6(16), (17), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -131,6 +131,12 @@ In subsection (d)(6), the words “expenses under section 5703 of title 5” are
 #### References in Text
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(1), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–284, §6(16), inserted “of title 5” after “authorized by section 553”.
+
+Subsec. (a)(2). Pub. L. 109–284, §6(17), struck out “of this section” after “subsection (d)”.
 
 #### Termination of Advisory Committees
 

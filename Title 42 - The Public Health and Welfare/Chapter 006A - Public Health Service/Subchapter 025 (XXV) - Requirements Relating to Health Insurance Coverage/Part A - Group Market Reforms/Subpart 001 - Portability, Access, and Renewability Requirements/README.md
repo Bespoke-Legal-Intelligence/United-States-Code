@@ -1,7 +1,5 @@
 subpart 1—portability, access, and renewability requirements
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

@@ -26,7 +26,7 @@ In this part—
 
 &emsp;&emsp;(D) making a voyage between a place within a territory or possession of the United States and another place under the jurisdiction of the United States not within that territory or possession.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1919.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1919.)
 
 #### Historical and Revision Notes
 

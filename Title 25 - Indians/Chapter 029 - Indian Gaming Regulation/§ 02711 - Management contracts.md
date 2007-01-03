@@ -6,7 +6,7 @@
 
 &emsp;(A) the name, address, and other additional pertinent background information on each person or entity (including individuals comprising such entity) having a direct financial interest in, or management responsibility for, such contract, and, in the case of a corporation, those individuals who serve on the board of directors of such corporation and each of its stockholders who hold (directly or indirectly) 10 percent or more of its issued and outstanding stock;
 
-&emsp;(B) a description of any previous experience that each person listed pursuant to subparagraph (A) has had with other gaming contracts with Indian tribes or with the gaming industry generally, including specifically the name and address of any licensing or regulatory agency with which such person has had a contract relating to gaming; and
+&emsp;(B) a description of any previous experience that each person listed pursuant to subparagraph (A) has had with other gaming contracts with Indian tribes or with the gaming industrygenerally, including specifically the name and address of any licensing or regulatory agency with which such person has had a contract relating to gaming; and
 
 &emsp;(C) a complete financial statement of each person listed pursuant to subparagraph (A).
 

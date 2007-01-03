@@ -20,7 +20,3 @@ Section 7311 establishes the minimum service requirements for an individual to q
 
 Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7315 of this title.
-

@@ -11,6 +11,7 @@
 | [1405\.](%C2%A7%2001405%20-%20Years%20of%20service.md) | Years of service. |
 | [1406\.](%C2%A7%2001406%20-%20Retired%20pay%20base%20for%20members%20who%20first%20became%20members%20before%20September%208%2C%201980%20final%20basic%20pay.md) | Retired pay base for members who first became members before September 8, 1980: final basic pay. |
 | [1407\.](%C2%A7%2001407%20-%20Retired%20pay%20base%20for%20members%20who%20first%20became%20members%20after%20September%207%2C%201980%20high-36%20month%20average.md) | Retired pay base for members who first became members after September 7, 1980: high-36 month average. |
+| [1407a.](%C2%A7%2001407a%20-%20Retired%20pay%20base%20officers%20retired%20in%20general%20or%20flag%20officer%20grades.md) | Retired pay base: officers retired in general or flag officer grades. |
 | [1408\.](%C2%A7%2001408%20-%20Payment%20of%20retired%20or%20retainer%20pay%20in%20compliance%20with%20court%20orders.md) | Payment of retired or retainer pay in compliance with court orders. |
 | [1409\.](%C2%A7%2001409%20-%20Retired%20pay%20multiplier.md) | Retired pay multiplier. |
 | [1410\.](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md) | Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986. |
@@ -23,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title VI, §641(b), Oct. 17, 2006, 120 Stat. 2259, added item 1407a.
 
 2003—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 “Special compensation for certain severely disabled uniformed services retirees”, and substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in item 1413a and “Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation” for “Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans’ disability compensation; contingent authority” in item 1414.
 
@@ -64,6 +67,7 @@ Pub. L. 89–652, §2(2), Oct. 14, 1966, 80 Stat. 902, added item 1406.
 - [&sect; 01405 - Years of service](%C2%A7%2001405%20-%20Years%20of%20service.md)
 - [&sect; 01406 - Retired pay base for members who first became members before September 8, 1980 final basic pay](%C2%A7%2001406%20-%20Retired%20pay%20base%20for%20members%20who%20first%20became%20members%20before%20September%208%2C%201980%20final%20basic%20pay.md)
 - [&sect; 01407 - Retired pay base for members who first became members after September 7, 1980 high-36 month average](%C2%A7%2001407%20-%20Retired%20pay%20base%20for%20members%20who%20first%20became%20members%20after%20September%207%2C%201980%20high-36%20month%20average.md)
+- [&sect; 01407a - Retired pay base officers retired in general or flag officer grades](%C2%A7%2001407a%20-%20Retired%20pay%20base%20officers%20retired%20in%20general%20or%20flag%20officer%20grades.md)
 - [&sect; 01408 - Payment of retired or retainer pay in compliance with court orders](%C2%A7%2001408%20-%20Payment%20of%20retired%20or%20retainer%20pay%20in%20compliance%20with%20court%20orders.md)
 - [&sect; 01409 - Retired pay multiplier](%C2%A7%2001409%20-%20Retired%20pay%20multiplier.md)
 - [&sect; 01410 - Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md)

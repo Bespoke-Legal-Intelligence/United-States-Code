@@ -26,5 +26,5 @@ A prior section 133a was renumbered section 117 of this title.
 
 1994—Subsec. (b). Pub. L. 103–337 inserted “and Technology” before “in the performance of”.
 
-1993—Pub. L. 103–160 substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for“Deputy Under Secretary of Defense for Acquisition” as section catchline and in subsecs. (a) and (b).
+1993—Pub. L. 103–160 substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for “Deputy Under Secretary of Defense for Acquisition” as section catchline and in subsecs. (a) and (b).
 

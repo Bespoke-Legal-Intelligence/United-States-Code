@@ -18,7 +18,7 @@ The President may prescribe the conditions under which commissioned officers of 
 
 #### (c) Authority of Surgeon General
 
-The authority vested by law in the Department of the Army, the Secretary of the Army, or other officers of the Department of the Army with respect to rights, privileges, immunities,and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Surgeon General.
+The authority vested by law in the Department of the Army, the Secretary of the Army, or other officers of the Department of the Army with respect to rights, privileges, immunities, and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Surgeon General.
 
 #### (d) Active service deemed active military service with respect to laws administered by Secretary of Veterans Affairs
 
@@ -36,7 +36,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 #### References in Text
 
-The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 873, title V, §502(9), 70 Stat. 886.
+The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, §502(9), 70 Stat. 886.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
@@ -56,7 +56,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17,
 
 #### Effective Date of 1956 Amendment; Applicability
 
-Section 501(b)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of this title\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
+Section 501(b)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C)shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of this title\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
 #### Transfer of Functions
 
@@ -76,7 +76,7 @@ Section 501(b)(3) of act Aug. 1, 1956, provided that: “In the case of any indi
 
 &emsp;“(C) any part of whose service described in subparagraph (A) was not included in the computation of his primary insurance amount under section 215 of such act \[section 415 of this title\] but would have been included in such computation if the amendment made by paragraph (1) of this subsection or paragraph (1) of subsection (d) had been effective prior to the date of such computation,
 
-> the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act\[section 415(f)(1) of this title\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by him or (if he dies without filing such an application) by any person entitled to monthly survivor's benefits under section 202 of such act \[section 402 of this title\] on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner, provided in title II of the Social Security Act \[sections 401 to 425 of this title\] as in effect at the time of the last previous computation or recomputation of such individual's primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this paragraph shall be regarded as a recomputation under section 215(f) of the Social Security Act \[section 415(f) of this title\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application was filed, but in no case for any month before January 1957.”
+> the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f)(1) of this title\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by him or (if he dies without filing such an application) by any person entitled to monthly survivor's benefits under section 202 of such act \[section 402 of this title\] on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner, provided in title II of the Social Security Act \[sections 401 to 425 of this title\] as in effect at the time of the last previous computation or recomputation of such individual's primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this paragraph shall be regarded as a recomputation under section 215(f) of the Social Security Act \[section 415(f) of this title\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application was filed, but in no case for any month before January 1957.”
 
 #### Disposition of Remains of Deceased Personnel
 

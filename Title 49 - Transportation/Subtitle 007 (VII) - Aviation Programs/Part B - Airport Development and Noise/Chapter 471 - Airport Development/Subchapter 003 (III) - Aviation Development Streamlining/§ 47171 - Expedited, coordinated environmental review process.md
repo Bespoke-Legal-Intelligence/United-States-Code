@@ -102,7 +102,7 @@ Alternatives Analysis.—The Secretary shall determine the reasonable alternativ
 
 (<i>l</i>)
 
-Solicitation and Consideration of Comments.—In applying subsections (j) and (k), the Secretary shall solicit and consider comments from interested persons and governmental entities in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4371 et seq.).
+Solicitation and Consideration of Comments.—In applying subsections (j) and (k), the Secretary shall solicit and consider comments from interested persons and governmental entities in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4371 <sup>1</sup> et seq.).
 
 (m)
 
@@ -132,7 +132,7 @@ Pub. L. 108–176, title III, §302, Dec. 12, 2003, 117 Stat. 2533, provided tha
 
 &emsp;“(4) airport capacity enhancement projects must include an environmental review process that provides local citizenry an opportunity for consideration of and appropriate action to address environmental concerns; and
 
-&emsp;“(5) the Federal Aviation Administration, airport authorities, communities, and other Federal, State, and local government agencies must work together todevelop a plan, set and honor milestones and deadlines, and work to protect the environment while sustaining the economic vitality that will result from the continued growth of aviation.”
+&emsp;“(5) the Federal Aviation Administration, airport authorities, communities, and other Federal, State, and local government agencies must work together to develop a plan, set and honor milestones and deadlines, and work to protect the environment while sustaining the economic vitality that will result from the continued growth of aviation.”
 
 #### Limitations
 
@@ -147,4 +147,6 @@ Pub. L. 108–176, title III, §308, Dec. 12, 2003, 117 Stat. 2539, provided tha
 #### Relationship to Other Requirements
 
 Pub. L. 108–176, title III, §309, Dec. 12, 2003, 117 Stat. 2540, provided that: “The coordinated review process required under the amendments made by this subtitle \[enacting this subchapter and amending sections 40104, 47106, and 47504 of this title\] shall apply to an airport capacity enhancement project at a congested airport whether or not the project is designated by the Secretary of Transportation as a high-priority transportation infrastructure project under Executive Order 13274 \[49 U.S.C. 301 note\] (67 Fed. Reg. 59449; relating to environmental stewardship and transportation infrastructure project reviews).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “4321”.</i>
 

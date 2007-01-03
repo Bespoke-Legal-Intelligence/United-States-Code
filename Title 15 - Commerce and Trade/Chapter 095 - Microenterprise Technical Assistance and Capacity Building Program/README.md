@@ -7,15 +7,7 @@
 | [6903\.](%C2%A7%2006903%20-%20Uses%20of%20assistance.md) | Uses of assistance. |
 | [6904\.](%C2%A7%2006904%20-%20Qualified%20organizations.md) | Qualified organizations. |
 | [6905\.](%C2%A7%2006905%20-%20Allocation%20of%20assistance%3B%20subgrants.md) | Allocation of assistance; subgrants. |
-| (a) | Allocation of assistance. |
-| (b) | Targeted assistance. |
-| (c) | Subgrants authorized. |
-| (d) | Diversity. |
-| (e) | Prohibition on preferential consideration of certain SBA program participants. |
 | [6906\.](%C2%A7%2006906%20-%20Matching%20requirements.md) | Matching requirements. |
-| (a) | In general. |
-| (b) | Sources of matching funds. |
-| (c) | Exception. |
 | [6907\.](%C2%A7%2006907%20-%20Applications%20for%20assistance.md) | Applications for assistance. |
 | [6908\.](%C2%A7%2006908%20-%20Recordkeeping.md) | Recordkeeping. |
 | [6909\.](%C2%A7%2006909%20-%20Authorization.md) | Authorization. |

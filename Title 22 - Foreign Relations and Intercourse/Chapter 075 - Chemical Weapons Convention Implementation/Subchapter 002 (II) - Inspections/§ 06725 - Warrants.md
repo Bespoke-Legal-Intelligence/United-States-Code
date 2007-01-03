@@ -8,7 +8,7 @@ The United States Government shall seek the consent of the owner or the operator
 
 #### (1) Obtaining administrative search warrants
 
-&emsp;For any routine inspection conducted on the territory of the United States pursuant to Article VI of the Convention, where consent has been withheld, the United States Government shall first obtain an administrative search warrant from a judge of the United States. The United States Government shall provide to the judge of the United States all appropriate information supplied by the Technical Secretariat to the United States National Authority regarding the basis for the selection of the plant site, plant, or other facility or location for the type of inspection sought. The United States Government shall also provide any other appropriate information available to it relating to the reasonableness of the selection of the plant, plant site, or other facility or location for the inspection.
+&emsp;For any routine inspection conducted on the territory of the United States pursuant to Article VI of the Convention, where consent hasbeen withheld, the United States Government shall first obtain an administrative search warrant from a judge of the United States. The United States Government shall provide to the judge of the United States all appropriate information supplied by the Technical Secretariat to the United States National Authority regarding the basis for the selection of the plant site, plant, or other facility or location for the type of inspection sought. The United States Government shall also provide any other appropriate information available to it relating to the reasonableness of the selection of the plant, plant site, or other facility or location for the inspection.
 
 #### (2) Content of affidavits for administrative search warrants
 
@@ -50,7 +50,7 @@ The United States Government shall seek the consent of the owner or the operator
 
 #### (A) Criminal search warrant
 
-&emsp;&emsp;For any challenge inspection conducted on the territory of the United States pursuant to Article IX of the Chemical Weapons Convention, where consent has been withheld, the United States Government shall first obtain from a judge of the United States a criminal search warrant based upon probable cause, supported by oath or affirmation, and describing with particularity the place to be searched and the person or things to be seized.
+&emsp;&emsp;For any challenge inspection conducted on the territory of the United States pursuant to Article IX of the Chemical Weapons Convention, where consent has been withheld, the United States Government shall first obtain from a judge of the United States a criminal search warrant based upon probable cause, supported by oath or affirmation, anddescribing with particularity the place to be searched and the person or things to be seized.
 
 #### (B) Information provided
 

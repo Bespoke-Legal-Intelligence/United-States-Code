@@ -6,7 +6,7 @@ A local educational agency may receive an allocation of funds under this part fo
 
 #### (b) Certification and contents of application
 
-The State educational agency shall certify each application submitted under subsection (a)of this section that includes each of the following:
+The State educational agency shall certify each application submitted under subsection (a) of this section that includes each of the following:
 
 &emsp;(1) A description of locally identified needs relative to the purposes of this part and to the innovative assistance programs described in section 7215 of this title.
 

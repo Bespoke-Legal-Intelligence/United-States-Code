@@ -18,7 +18,7 @@
 
 #### (b) Interest
 
-Such agreements shall provide that interest accrue on the payment deferred under such agreement at a concessional rate as determined appropriate by the Secretary.
+Such agreements shall provide that interest accrue on the payment deferred under suchagreement at a concessional rate as determined appropriate by the Secretary.
 
 #### (c) Duration
 
@@ -114,7 +114,7 @@ Subsec. (m). Pub. L. 89–808 redesignated provisions of former section 1701(g) 
 
 Subsec. (n). Pub. L. 89–808 incorporated in provisions added as subsec. (n) part of former section 1734 of this title requiring the Secretary to take such reasonable precautions as he determines necessary to avoid replacing any sales which the Secretary found and determined would otherwise be made for cash dollars.
 
-1964—Subsec. (a). Pub. L. 88–638, §1(4), directed the President to classify expenditures under this chapter as for international affairs and finance rather than for agriculture and agricultural resources.
+1964—Subsec. (a). Pub. L. 88–638, §1(4), directed the President to classify expenditures under this chapter asfor international affairs and finance rather than for agriculture and agricultural resources.
 
 Subsec. (b). Pub. L. 88–638, §1(5), substituted “1965” for “1962”, “1966” for “1964”, and “$2,700,000,000 plus any amount by which agreements entered into in prior years have called or will call for appropriations to reimburse the Commodity Credit Corporation in amounts less than authorized for such prior years by this chapter as in effect during such years” for “$4,500,000,000”.
 

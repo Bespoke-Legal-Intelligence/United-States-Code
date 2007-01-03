@@ -16,7 +16,7 @@
 
 (c) For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
 
-(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III,§327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, §4409, Aug. 10, 2005, 119 Stat. 1778.)
+(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, §327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, §4409, Aug. 10, 2005, 119 Stat. 1778.)
 
 #### Amendments
 

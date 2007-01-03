@@ -32,7 +32,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 (1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
 
-&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects, and servicesrelated thereto, that substantially reduce environmental pollutants, including greenhouse gases in foreign countries;
+&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects, and services related thereto, that substantially reduce environmental pollutants, including greenhouse gases in foreign countries;
 
 &emsp;(B) utilize available financial assistance authorized by this section to counterbalance assistance provided by foreign governments to non-United States firms; and
 
@@ -62,7 +62,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (f) Assistance to United States firms
 
-Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations forthe project are being conducted by the host country or by a multilateral lending institution.
 
 #### (g) Other program requirements
 

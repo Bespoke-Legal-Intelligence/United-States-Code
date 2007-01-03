@@ -48,7 +48,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of not lessthan 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
+(2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
 (3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
@@ -92,7 +92,7 @@ Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces\(other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
@@ -178,7 +178,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 103–337, §535(b), added subsec. (j) and r
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: “The amendments madeby this section \[amending this section\] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
 Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: “The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 

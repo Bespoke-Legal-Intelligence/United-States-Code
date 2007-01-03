@@ -4,16 +4,6 @@
 | :--- | ---: |
 | [1261\.](%C2%A7%2001261%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93178%2C%20title%20I%2C%20%C2%A71112%28c%29%2C%20June%209%2C%201998%2C%20112%20Stat.%20151.md) | Repealed. |
 | [1262\.](%C2%A7%2001262%20-%20National%20Recreational%20Trails%20Advisory%20Committee.md) | National Recreational Trails Advisory Committee. |
-| (a) | Establishment. |
-| (b) | Members. |
-| (c) | Chairman. |
-| (d) | Support for committee action. |
-| (e) | Terms. |
-| (f) | Duties. |
-| (g) | Annual report. |
-| (h) | Reimbursement for expenses. |
-| (i) | Report to Congress. |
-| (j) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,11 +22,11 @@ In this part:
 
 #### (4) Base market hog
 
-&emsp;The term “base market hog” means a hog for which no discounts are subtracted from and no premiums are added to the base price.
+&emsp;The term “base market hog” means a barrow or gilt for which no discounts are subtracted from and no premiums are added to the base price.
 
-#### (5) Bred female swine
+#### (5) Boar
 
-&emsp;The term “bred female swine” means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.
+&emsp;The term “boar” means a sexually-intact male swine.
 
 #### (6) Formula price
 
@@ -74,9 +74,13 @@ In this part:
 
 &emsp;&emsp;(A) the term includes only a swine processing plant that is federally inspected;
 
-&emsp;&emsp;(B) for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and
+&emsp;&emsp;(B) for any calendar year, the term includes only—
 
-&emsp;&emsp;(C) in the case of a swine processing plant that did not slaughter swine during the immediately preceding 5 calendar years, the Secretary shall consider the plant capacity of the processing plant in determining whether the processing plant should be considered a packer under this part.
+&emsp;&emsp;&emsp;(i) a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding five calendar years; and
+
+&emsp;&emsp;&emsp;(ii) a person that slaughtered an average of at least 200,000 sows, boars, or any combination thereof, per year during the immediately preceding five calendar years; and
+
+&emsp;&emsp;(C) in the case of a swine processing plant or person that did not slaughter swine during the immediately preceding 5 calendar years, the Secretary shall consider the plant capacity of the processing plant or person in determining whether the processing plant or person should be considered a packer under this part.
 
 #### (13) Packer-owned swine
 
@@ -142,9 +146,15 @@ In this part:
 
 &emsp;&emsp;(D) other purchase arrangement.
 
-(Aug. 14, 1946, ch. 966, title II, §231, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1193.)
+(Aug. 14, 1946, ch. 966, title II, §231, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1193; amended Pub. L. 109–296, §2, Oct. 5, 2006, 120 Stat. 1464.)
 
-#### Termination of Section
+#### Amendments
 
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
+2006—Par. (4). Pub. L. 109–296, §2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
+
+Par. (5). Pub. L. 109–296, §2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
+
+Par. (12)(B). Pub. L. 109–296, §2(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and”.
+
+Par. (12)(C). Pub. L. 109–296, §2(c)(2), inserted “or person” after “swine processing plant”, “plant capacity of the processing plant”, and “determining whether the processing plant”.
 

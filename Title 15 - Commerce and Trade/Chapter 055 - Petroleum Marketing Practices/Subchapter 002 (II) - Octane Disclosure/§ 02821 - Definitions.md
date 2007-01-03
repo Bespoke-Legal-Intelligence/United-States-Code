@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;(10) The term “manufacturer” means any person who imports, manufactures, or assembles motor vehicles for sale.
 
-&emsp;(11) The term “automotive fuel requirement” means, with respect to automotive fuel for use in a motor vehicle or a class thereof, imported, manufactured, or assembled by a manufacturer, the minimum automotive fuelrating of such automotive fuel which such manufacturer recommends for the efficient operation of such motor vehicle, or a substantial portion of such class, without knocking.
+&emsp;(11) The term “automotive fuel requirement” means, with respect to automotive fuel for use in a motor vehicle or a class thereof, imported, manufactured, or assembled by a manufacturer, the minimum automotive fuel rating of such automotive fuel which such manufacturer recommends for the efficient operation of such motor vehicle, or a substantial portion of such class, without knocking.
 
 &emsp;(12) The term “model year” means a manufacturer's annual production period (as determined by the Federal Trade Commission) for motor vehicles or a class of motor vehicles. If a manufacturer has no annual production period, the term “model year” means the calendar year.
 

@@ -32,7 +32,7 @@ Whenever a court or other authority is notified pursuant to subsection (c) or (d
 
 #### (g) Suppression of evidence; denial of motion
 
-If the United States district court pursuant to subsection (f) of this section determines that the surveillance was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from electronic surveillance of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the surveillance was lawfully authorized and conducted, it shall denythe motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
+If the United States district court pursuant to subsection (f) of this section determines that the surveillance was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from electronic surveillance of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the surveillance was lawfully authorized and conducted, it shall deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
 
 #### (h) Finality of orders
 
@@ -69,6 +69,8 @@ If an emergency employment of electronic surveillance is authorized under sectio
 (Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §898, Nov. 25, 2002, 116 Stat. 2258.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1805(e) of this title, referred to in subsec. (j), was redesignated section 1805(f) of this title by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
 

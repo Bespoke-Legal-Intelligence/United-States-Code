@@ -4,10 +4,6 @@ Part A—General Provisions
 
 Part A contains general provisions that apply throughout the subtitle and provisions that apply generally to the operation of all vessels.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 14305 of this title.
-
 
 ---
 

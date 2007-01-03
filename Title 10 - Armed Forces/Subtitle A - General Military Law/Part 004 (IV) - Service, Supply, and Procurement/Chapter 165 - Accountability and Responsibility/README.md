@@ -6,6 +6,7 @@
 | [2772\.](%C2%A7%2002772%20-%20Share%20of%20fines%20and%20forfeitures%20to%20benefit%20Armed%20Forces%20Retirement%20Home.md) | Share of fines and forfeitures to benefit Armed Forces Retirement Home. |
 | [2773\.](%C2%A7%2002773%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md) | Designation, powers, and accountability of deputy disbursing officials. |
 | [2773a.](%C2%A7%2002773a%20-%20Departmental%20accountable%20officials.md) | Departmental accountable officials. |
+| [2773b.](%C2%A7%2002773b%20-%20Parking%20of%20funds%20prohibition%3B%20penalties.md) | Parking of funds: prohibition; penalties. |
 | [2774\.](%C2%A7%2002774%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%20and%20of%20travel%20and%20transportation%20allowances.md) | Claims for overpayment of pay and allowances and of travel and transportation allowances. |
 | [2775\.](%C2%A7%2002775%20-%20Liability%20of%20members%20assigned%20to%20military%20housing.md) | Liability of members assigned to military housing. |
 | [2776\.](%C2%A7%2002776%20-%20Use%20of%20receipts%20of%20public%20money%20for%20current%20expenditures.md) | Use of receipts of public money for current expenditures. |
@@ -25,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title X, §1053(a)(2), Oct. 17, 2006, 120 Stat. 2396, added item 2773b.
 
 2002—Pub. L. 107–314, div. A, title X, §§1005(b), 1006(a)(2), 1007(b)(2), 1008(b), Dec. 2, 2002, 116 Stat. 2632–2635, substituted “purchase” for “credit” in item 2784 and added items 2773a, 2784a, and 2787.
 
@@ -71,6 +74,7 @@ Pub. L. 96–418, title V, §506(b), Oct. 10, 1980, 94 Stat. 1766, added item 27
 - [&sect; 02772 - Share of fines and forfeitures to benefit Armed Forces Retirement Home](%C2%A7%2002772%20-%20Share%20of%20fines%20and%20forfeitures%20to%20benefit%20Armed%20Forces%20Retirement%20Home.md)
 - [&sect; 02773 - Designation, powers, and accountability of deputy disbursing officials](%C2%A7%2002773%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md)
 - [&sect; 02773a - Departmental accountable officials](%C2%A7%2002773a%20-%20Departmental%20accountable%20officials.md)
+- [&sect; 02773b - Parking of funds prohibition; penalties](%C2%A7%2002773b%20-%20Parking%20of%20funds%20prohibition%3B%20penalties.md)
 - [&sect; 02774 - Claims for overpayment of pay and allowances and of travel and transportation allowances](%C2%A7%2002774%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%20and%20of%20travel%20and%20transportation%20allowances.md)
 - [&sect; 02775 - Liability of members assigned to military housing](%C2%A7%2002775%20-%20Liability%20of%20members%20assigned%20to%20military%20housing.md)
 - [&sect; 02776 - Use of receipts of public money for current expenditures](%C2%A7%2002776%20-%20Use%20of%20receipts%20of%20public%20money%20for%20current%20expenditures.md)

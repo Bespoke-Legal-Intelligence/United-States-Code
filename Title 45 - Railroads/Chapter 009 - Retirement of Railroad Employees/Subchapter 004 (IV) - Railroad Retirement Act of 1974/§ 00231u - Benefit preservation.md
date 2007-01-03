@@ -8,7 +8,7 @@
 
 &emsp;(C) the amount, if any, of adjustments (stated in terms of percentage of taxable payroll), and any other changes such as cash flow adjustments, necessary to preserve the financial solvency of the Railroad Retirement Account, if such adjustments were effective at the beginning of the next succeeding fiscal year.
 
-(2) Not less than 20 nor more than 30 days after the submission of a written report under this subsection which indicates that, in the absence of any adjustments, the Railroad Retirement Account will contain insufficient funds to pay the full amount of the benefits under this subchapter which are payable from that Account at some time during the five-year period covered by the report, the Board shall publish such report in the Federal Register.
+(2) Not less than 20 nor more than 30 days after the submission of a written report under this subsection which indicates that, in the absenceof any adjustments, the Railroad Retirement Account will contain insufficient funds to pay the full amount of the benefits under this subchapter which are payable from that Account at some time during the five-year period covered by the report, the Board shall publish such report in the Federal Register.
 
 (b) Not later than 180 days after the publication in the Federal Register of any Board report referred to in subsection (a) of this section which states an amount of adjustments (in terms of percentage of taxable payroll) necessary to preserve the financial solvency of the railroad retirement account—
 

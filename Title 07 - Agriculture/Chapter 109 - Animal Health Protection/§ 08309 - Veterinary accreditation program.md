@@ -22,7 +22,7 @@ The Secretary shall consult with State animal health officials and veterinary pr
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may summarily suspend the accreditation of a veterinarian whom theSecretary has reason to believe knowingly violated this chapter.
+&emsp;&emsp;The Secretary may summarily suspend the accreditation of a veterinarian whom the Secretary has reason to believe knowingly violated this chapter.
 
 #### (B) Hearings
 

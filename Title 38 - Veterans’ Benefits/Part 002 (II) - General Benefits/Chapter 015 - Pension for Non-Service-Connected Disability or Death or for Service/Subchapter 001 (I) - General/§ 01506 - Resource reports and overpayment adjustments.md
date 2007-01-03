@@ -22,7 +22,7 @@ As a condition of granting or continuing pension under section 1521, 1541, or 15
 
 Prior section 1506 was renumbered section 3106 of this title.
 
-Another prior section 1506, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173, authorized Administrator to furnish veterans receiving vocational rehabilitation such medical care, treatment, hospitalization, and prosthesis as were necessary to accomplish the purposes of chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1506 continue in effect until Mar. 31, 1981. See section 3104 of this title.
+Another prior section 1506, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173, authorized Administrator to furnish veterans receiving vocational rehabilitation such medical care, treatment, hospitalization, and prosthesis as were necessary to accomplish the purposes of chapter 31 of this title, prior to the general revision of chapter31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1506 continue in effect until Mar. 31, 1981. See section 3104 of this title.
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 1980—Pub. L. 96–466 struck out “(a)” before “As a condition” and struck out subsec. (b) which provided that in the event of an overpayment of pension under section 521, 541, or 542 of this title, the amount thereof be deducted (unless waived) from any future payments made thereunder to the person concerned.
 
-1978—Subsec. (a). Pub. L. 95–588 inserted provision authorizing the Administrator to consider the income ofa spouse or child prior to granting a pension in par. (1), struck out exclusion from filing report for a child or person of 72 years of age or more who has been paid a pension for two consecutive years in par. (2), required changes in income of spouse or dependent child be included in the necessary revised income report in par. (3), and added par. (4).
+1978—Subsec. (a). Pub. L. 95–588 inserted provision authorizing the Administrator to consider the income of a spouse or child prior to granting a pension in par. (1), struck out exclusion from filing report for a child or person of 72 years of age or more who has been paid a pension for two consecutive years in par. (2), required changes in income of spouse or dependent child be included in the necessary revised income report in par. (3), and added par. (4).
 
 1975—Subsec. (a). Pub. L. 94–169 substituted “the Administrator” for “he” in par. (1), “the Administrator” for “him”, “such person” for “he” and “such person's” for “his” wherever appearing, in par. (2), and “such person's” for “his” wherever appearing, in par. (3).
 

@@ -60,7 +60,7 @@
 
 &emsp;(E) allocates organs, within its service area and nationally, in accordance with medical criteria and the policies of the Network; and
 
-&emsp;(F) is designated by the Secretary as an organ procurement organization payments towhich may be treated as organ procurement costs for purposes of reimbursement under such subchapter.
+&emsp;(F) is designated by the Secretary as an organ procurement organization payments to which may be treated as organ procurement costs for purposes of reimbursement under such subchapter.
 
 (2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
 

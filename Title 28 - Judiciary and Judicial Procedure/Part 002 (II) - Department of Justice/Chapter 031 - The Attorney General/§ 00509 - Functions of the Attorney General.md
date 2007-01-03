@@ -46,7 +46,7 @@ Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment mad
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(4) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Emergency Preparedness Functions
 
@@ -54,7 +54,7 @@ For assignment of certain emergency preparedness functions to the Attorney Gener
 
 #### Organized Retail Theft
 
-Pub. L. 109–162, title XI, §1105, Jan. 5, 2006, 119 Stat. 3092, provided that:
+Pub. L. 109–162, title XI, §1105, Jan. 5, 2006, 119 Stat. 3092, as amended by Pub. L. 109–271, §8(a), Aug. 12, 2006, 120 Stat. 766, provided that:
 
 “(a)
 
@@ -62,7 +62,7 @@ National Data.—(1) The Attorney General and the Federal Bureau of Investigatio
 
 “(2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to federal law enforcement agencies participating in the database project.
 
-“(3) The Attorney General through the Bureau of Justice Assistance in the Office of Justice may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base \[sic\] project.
+“(3) The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base \[sic\] project.
 
 “(b)
 
@@ -126,7 +126,7 @@ Review of Privacy Related Functions, Resources, and Report.—Within 120 days of
 
 “(d)
 
-Annual Report.—The privacy official shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on an annual basis on activities of the Department that affect privacy, including a summary of complaints of privacy violations, implementation of section 552a of title 5,United States Code, internal controls, and other relevant matters.”
+Annual Report.—The privacy official shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on an annual basis on activities of the Department that affect privacy, including a summary of complaints of privacyviolations, implementation of section 552a of title 5, United States Code, internal controls, and other relevant matters.”
 
 #### Report to Congress on Status of United States Persons or Residents Detained on Suspicion of Terrorism
 
@@ -1053,6 +1053,98 @@ Sec. 4. <i>Additional Participation for Specified Functions</i>. In the Task For
 Sec. 5. <i>Internal Management Purpose</i>. This order is intended to improve the internal management of the Federal Government. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity or otherwise against the United States, its departments, agencies, entities, instrumentalities, officers, or employees, or any other person.
 
 Sec. 6. <i>Termination</i>. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13402. Strengthening Federal Efforts To Protect Against Identity Theft
+
+Ex. Ord. No. 13402, May 10, 2006, 71 F.R. 27945, as amended by Ex. Ord. No. 13414, Nov. 3, 2006, 71 F.R. 65365, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to strengthen efforts to protect against identity theft, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to use Federal resources effectively to deter, prevent, detect, investigate, proceed against, and prosecute unlawful use by persons of the identifying information of other persons, including through:
+
+(a) increased aggressive law enforcement actions designed to prevent, investigate, and prosecute identity theft crimes, recover the proceeds of such crimes, and ensure just and effective punishment of those who perpetrate identity theft;
+
+(b) improved public outreach by the Federal Government to better (i) educate the public about identity theft and protective measures against identity theft, and (ii) address how the private sector can take appropriate steps to protect personal data and educate the public about identity theft; and
+
+(c) increased safeguards that Federal departments, agencies, and instrumentalities can implement to better secure government-held personal data.
+
+Sec. 2. <i>Establishment of the Identity Theft Task Force.</i>
+
+(a) There is hereby established the Identity Theft Task Force.
+
+(b) The Task Force shall consist exclusively of:
+
+(i) the Attorney General, who shall serve as Chairman of the Task Force;
+
+(ii) the Chairman of the Federal Trade Commission, who shall serve as Co-Chairman of the Task Force;
+
+(iii) the Secretary of the Treasury;
+
+(iv) the Secretary of Commerce;
+
+(v) the Secretary of Health and Human Services;
+
+(vi) the Secretary of Veterans Affairs;
+
+(vii) the Secretary of Homeland Security;
+
+(viii) the Director of the Office of Management and Budget;
+
+(ix) the Commissioner of Social Security;
+
+(x) the following officers of the United States:
+
+&emsp;(A) the Chairman of the Board of Governors of the Federal Reserve System;
+
+&emsp;(B) the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation;
+
+&emsp;(C) the Comptroller of the Currency;
+
+&emsp;(D) the Director of the Office of Thrift Supervision;
+
+&emsp;(E) the Chairman of the National Credit Union Administration Board; and
+
+&emsp;(F) the Postmaster General; and
+
+(xi) such other officers of the United States as the Attorney General may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
+
+(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determine its agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairman may also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
+
+(d) A member of the Task Force, including the Chairman and Co-Chairman, may designate, to perform the Task Force or Task Force subgroup functions of the member, any person who is a part of the member's department, agency, or instrumentality and who has high-level policy or operational duties or responsibilities related to the mission of the Task Force.
+
+Sec. 3. <i>Functions of the Task Force</i>. The Task Force, in implementing the policy set forth in section 1 of this order, shall:
+
+(a) review the activities of executive branch departments, agencies, and instrumentalities relating to the policy set forth in section 1, and building upon these prior activities, prepare and submit in writing to the President by February 9, 2007, or as soon as practicable thereafter as the Chairman and Co-Chairman shall determine, a coordinated strategic plan to further improve the effectiveness and efficiency of the Federal Government's activities in the areas of identity theft awareness, prevention, detection, and prosecution.
+
+(b) coordinate, as appropriate and subject to section 5(a) of this order, Federal Government efforts related to implementation of the policy set forth in section 1 of this order;
+
+(c) obtain information and advice relating to the policy set forth in section 1 from representatives of State, local, and tribal governments, private sector entities, and individuals, in a manner that seeks their individual advice and does not involve collective judgment or consensus advice and deliberation and without giving any such person a vote or a veto over the activities or advice of the Task Force;
+
+(d) promote enhanced cooperation by Federal departments and agencies with State and local authorities responsible for the prevention, investigation, and prosecution of significant identity theft crimes, including through avoiding unnecessary duplication of effort and expenditure of resources; and
+
+(e) provide advice on the establishment, execution, and efficiency of policies and activities to implement the policy set forth in section 1:
+
+(i) to the President in written reports from time to time, including recommendations for administrative action or proposals for legislation; and
+
+(ii) to the heads of departments, agencies, and instrumentalities as appropriate from time to time within the discretion of the Chairman and the Co-Chairman.
+
+Sec. 4. <i>Cooperation</i>. (a) To the extent permitted by law and applicable presidential guidance, executive departments, agencies, and instrumentalities shall provide to the Task Force such information, support, and assistance as the Task Force, through its Chairman and Co-Chairman, may request to implement this order.
+
+(b) The Task Force shall be located in the Department of Justice for administrative purposes, and to the extent permitted by law, the Department of Justice shall provide the funding and administrative support the Task Force needs to implement this order, as determined by the Attorney General.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an executive department, agency, or instrumentality or the head thereof; and
+
+(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+
+Sec. 6. <i>Termination</i>. Unless the Task Force is sooner terminated by the President, the Attorney General may terminate the Task Force by a written notice of its termination published in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

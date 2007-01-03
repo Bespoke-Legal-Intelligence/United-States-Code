@@ -6,7 +6,7 @@ The Board, as hereinafter provided, shall insure the member accounts of all Fede
 
 #### (b) Application; agreement
 
-Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by a State credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
+Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by aState credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
 
 &emsp;(1) to pay the reasonable cost of such examinations as the Board may deem necessary in connection with determining the eligibility of the applicant for insurance: <i>Provided</i>, That examinations required under subchapter I of this chapter shall be so conducted that the information derived therefrom may be utilized for share insurance purposes, and examinations conducted by State regulatory agencies shall be utilized by the Board for such purposes to the maximum extent feasible;
 
@@ -16,7 +16,7 @@ Application for insurance of member accounts shall be made immediately by each F
 
 &emsp;(4) to provide protection and indemnity against burglary, defalcation, and other similar insurable losses, of the type, in the form, and in an amount at least equal to that required by the laws under which the credit union is organized and operates;
 
-&emsp;(5) to maintain such regular reserves as may be required by the laws of the State, district, territory, or other jurisdiction pursuant to which it is organized and operated, in the case of a State-chartered credit union, or as may be required by section 1762 <sup>1</sup> of this title, in the case of a Federal credit union;
+&emsp;(5) to maintain such regular reserves as may be required by the laws of the State, district, territory, or other jurisdiction pursuant to which it is organized and operated, in the case of a State-chartered credit union, or as may be required by this chapter, in the case of a Federal credit union;
 
 &emsp;(6) to maintain such special reserves as the Board, by regulation or in special cases, may require for protecting the interest of members or to assure that all insured credit unions maintain regular reserves which are not less than those required under subchapter I of this chapter;
 
@@ -66,17 +66,17 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 &emsp;No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
 
-(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V,§§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478.)
+(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, §726(11), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Section 1762 of this title, referred to in subsec. (b)(5), was repealed by Pub. L. 105–219, title III, §301(g)(3), Aug. 7, 1998, 112 Stat. 931.
-
 Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (e)(3), is section 1404(e)(1)(A) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(5). Pub. L. 109–351 substituted “this chapter” for “section 1762 of this title”.
 
 1996—Subsec. (e). Pub. L. 104–208 added subsec. (e).
 
@@ -105,6 +105,4 @@ Section 2615(c) of div. A of Pub. L. 104–208 provided that: “The amendments 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

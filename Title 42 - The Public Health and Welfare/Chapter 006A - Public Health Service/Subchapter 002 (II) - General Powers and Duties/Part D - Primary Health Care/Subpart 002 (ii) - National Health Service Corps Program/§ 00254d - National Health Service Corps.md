@@ -62,7 +62,7 @@ Corps members assigned under section 254f of this title to provide health servic
 
 #### (f) Assignment of personnel provisions inapplicable to members whose service obligation incurred under Scholarship Program or Loan Repayment Program
 
-Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program.
+Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program, except when such members are Commissioned Corps officers who entered into a contract with <sup>2</sup> Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to <sup>3</sup> would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services.
 
 #### (g) Conversion from Corps member to commissioned officer; retirement credits
 
@@ -94,7 +94,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254<i>l</i>–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under section 254m of this title; and
 
-&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing less than full-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual'swritten contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
+&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing less than full-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
 
 (3) In evaluating a demonstration project described in paragraph (1), the Secretary shall examine the effect of multidisciplinary teams.
 
@@ -110,13 +110,15 @@ For the purposes of this subpart and subpart III:
 
 &emsp;(4) The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642.)
+(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642; Pub. L. 109–417, title II, §206(c)(2), Dec. 19, 2006, 120 Stat. 2853.)
 
 #### References in Text
 
 Section 294n of this title, referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to section 294n of this title, and subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–417 inserted before period at end “, except when such members are Commissioned Corps officers who entered into a contract with Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services”.
 
 2002—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
 
@@ -170,7 +172,7 @@ Subsec. (b). Pub. L. 97–35, §2701(b), substituted “may” for “shall”.
 
 Subsec. (c). Pub. L. 97–35, §2701(c), inserted provisions respecting a written agreement under section 254n of this title.
 
-Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to member described in subsec. (a)(1)(C) ofthis section, in subpars. (1)(A) and (B) substituted “may” for “shall”, and added par. (3).
+Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to member described in subsec. (a)(1)(C) of this section, in subpars. (1)(A) and (B) substituted “may” for “shall”, and added par. (3).
 
 Subsec. (g). Pub. L. 97–35, §2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
 
@@ -203,4 +205,8 @@ Section 407(c) of Pub. L. 94–484 provided that:
 “(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former section 254b of this title\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[section 254j of this title\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “the” probably should appear.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

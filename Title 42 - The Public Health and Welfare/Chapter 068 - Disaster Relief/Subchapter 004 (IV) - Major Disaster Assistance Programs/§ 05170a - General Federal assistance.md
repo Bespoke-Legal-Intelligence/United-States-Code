@@ -2,9 +2,9 @@
 
 In any major disaster, the President may—
 
-&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical, and advisory services) in support of State and local assistance efforts;
+&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical, and advisory services) in support of State and local assistance response or recovery efforts, including precautionary evacuations;
 
-&emsp;(2) coordinate all disaster relief assistance (including voluntary assistance) provided by Federal agencies, private organizations, and State and local governments;
+&emsp;(2) coordinate all disaster relief assistance (including voluntary assistance) provided by Federal agencies, private organizations, and State and local governments, including precautionary evacuations and recovery;
 
 &emsp;(3) provide technical and advisory assistance to affected State and local governments for—
 
@@ -14,15 +14,33 @@ In any major disaster, the President may—
 
 &emsp;&emsp;(C) public health and safety information, including dissemination of such information;
 
-&emsp;&emsp;(D) provision of health and safety measures; and
+&emsp;&emsp;(D) provision of health and safety measures;
 
 &emsp;&emsp;(E) management, control, and reduction of immediate threats to public health and safety; and
 
-&emsp;(4) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance.
+&emsp;&emsp;(F) recovery activities, including disaster impact assessments and planning;
 
-(Pub. L. 93–288, title IV, §402, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4696.)
+&emsp;(4) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
+
+&emsp;(5) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
+
+&emsp;&emsp;(A) shall, to the fullest extent practicable, promptly notify and coordinate with officials in a State in which such assistance or support is provided; and
+
+&emsp;&emsp;(B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of a major disaster.
+
+(Pub. L. 93–288, title IV, §402, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4696; amended Pub. L. 109–295, title VI, §681(a), Oct. 4, 2006, 120 Stat. 1444.)
 
 #### Prior Provisions
 
 A prior section 402 of Pub. L. 93–288 was classified to section 5172 of this title prior to repeal by Pub. L. 100–707.
+
+#### Amendments
+
+2006—Par. (1). Pub. L. 109–295, §681(a)(1), substituted “response or recovery efforts, including precautionary evacuations” for “efforts”.
+
+Par. (2). Pub. L. 109–295, §681(a)(2), substituted “, including precautionary evacuations and recovery;” for semicolon at end.
+
+Par. (3)(F). Pub. L. 109–295, §681(a)(3), added subpar. (F).
+
+Par. (5). Pub. L. 109–295, §681(a)(4), (5), added par. (5).
 

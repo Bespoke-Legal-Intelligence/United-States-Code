@@ -80,7 +80,7 @@ Nov. 4, 1992, Pub. L. 102–588, §505(c), (d), 106 Stat. 5125.
 
 15:5804(c)(3).
 
-In subsection (a), the words “for one or more projects” are omitted as unnecessary because of the definition of “project” in section 70301 of the revised title.
+In subsection (a), the words “for one or more projects” are omitted as unnecessary because of thedefinition of “project” in section 70301 of the revised title.
 
 In subsection (c)(5), the words “as proposed” are omitted as surplus.
 

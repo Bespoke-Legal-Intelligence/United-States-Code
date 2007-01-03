@@ -1,8 +1,8 @@
 ### §2301. Application
 
-Except as provided in section 2306 of this title, this chapter applies to a vessel operated on waters subject to the jurisdiction of the United States (including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988) and, for a vessel owned in the United States, on the high seas.
+Except as provided in sections 2304 and 2306 of this title, this chapter applies to a vessel operated on waters subject to the jurisdiction of the United States (including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988) and, for a vessel owned in the United States, on the high seas.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 508; Pub. L. 98–498, title II, §212(a)(2), Oct. 19, 1984, 98 Stat. 2305; Pub. L. 105–383, title III, §301(b)(2), Nov. 13, 1998, 112 Stat. 3417.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 508; Pub. L. 98–498, title II, §212(a)(2), Oct. 19, 1984, 98 Stat. 2305; Pub. L. 105–383, title III, §301(b)(2), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 109–304, §15(7), Oct. 6, 2006, 120 Stat. 1702.)
 
 Historical and Revision Notes
 
@@ -21,6 +21,8 @@ Section 2301 provides that this chapter is applicable to all vessels, including 
 Presidential Proclamation No. 5928, referred to in text, is set out under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+2006—Pub. L. 109–304 substituted “sections 2304 and” for “section”.
 
 1998—Pub. L. 105–383 inserted “(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)” after “of the United States”.
 

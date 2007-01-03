@@ -26,7 +26,7 @@ Size of building.—The Building (excluding parking facilities) may not exceed 5
 
 &emsp;(2)
 
-Height of building.—The height of the Building and other improvements shall becompatible with the height of surrounding Government and historic buildings and conform to the provisions of the Act of June 1, 1910 (ch. 263, 36 Stat. 452) (known as the Building Height Act of 1910).
+Height of building.—The height of the Building and other improvements shall be compatible with the height of surrounding Government and historic buildings and conform to the provisions of the Act of June 1, 1910 (ch. 263, 36 Stat. 452) (known as the Building Height Act of 1910).
 
 &emsp;(3)
 

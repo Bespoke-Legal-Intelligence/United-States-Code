@@ -1,6 +1,6 @@
 ### §8116. Nursing home revolving fund
 
-(a)(1) Amounts realized from a transfer pursuant to section 8122(a)(2)(C) <sup>1</sup> of this title shall beadministered as a revolving fund and shall be available without fiscal year limitation.
+(a)(1) Amounts realized from a transfer pursuant to section 8122(a)(2)(C) <sup>1</sup> of this title shall be administered as a revolving fund and shall be available without fiscal year limitation.
 
 (2) The revolving fund shall be deposited in a checking account with the Treasurer of the United States.
 
@@ -12,7 +12,7 @@
 
 #### Repeal of Section
 
-<i>Pub. L. 108–422, title IV, §411(c)(1),(f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title.</i>
+<i>Pub. L. 108–422, title IV, §411(c)(1),(f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Con</i><i>gress that the Secretary is in compliance with section 1710B(b) of this title.</i>
 
 #### References in Text
 

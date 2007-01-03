@@ -18,7 +18,7 @@ All welding, cutting, or soldering with arc or flame in all underground areas of
 
 #### (e) Installation of fire suppression devices on unattended underground equipment; flame-resistant hydraulic fluids
 
-Within one year after the operative date of this subchapter, fire suppression devices meeting specifications prescribed by the Secretaryshall be installed on unattended underground equipment and suitable fire-resistant hydraulic fluids approved by the Secretary shall be used in the hydraulic systems of such equipment. Such fluids shall be used in the hydraulic systems of other underground equipment unless fire suppression devices meeting specifications prescribed by the Secretary are installed on such equipment.
+Within one year after the operative date of this subchapter, fire suppression devices meeting specifications prescribed by the Secretary shall be installed on unattended underground equipment and suitable fire-resistant hydraulic fluids approved by the Secretary shall be used in the hydraulic systems of such equipment. Such fluids shall be used in the hydraulic systems of other underground equipment unless fire suppression devices meeting specifications prescribed by the Secretary are installed on such equipment.
 
 #### (f) Deluge-type water sprays at main and secondary drives
 
@@ -40,5 +40,5 @@ For the operative date of this subchapter, referred to subsecs. (a), (e), (g), a
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a) pursuant to section10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 

@@ -26,7 +26,7 @@
 
 &emsp;(5) provide for the curing of any default within a reasonable time and maintenance of payments while the case is pending on any unsecured claim or secured claim on which the last payment is due after the date on which the final payment under the plan is due;
 
-&emsp;(6) subject to section 365 of this title, provide for the assumption, rejection, or assignment of any executory contract or unexpired lease of the debtor not previously rejected under such section;
+&emsp;(6) subject to section 365 of this title, provide for the assumption, rejection, or assignmentof any executory contract or unexpired lease of the debtor not previously rejected under such section;
 
 &emsp;(7) provide for the payment of all or part of a claim against the debtor from property of the estate or property of the debtor;
 
@@ -44,7 +44,7 @@
 
 (d) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–394, title III, §305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5,§1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §213(3), (4), title X, §§1001(a)(1), 1003(a), Apr. 20, 2005, 119 Stat. 52, 185, 186.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–394, title III, §305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §213(3), (4), title X, §§1001(a)(1), 1003(a), Apr. 20, 2005, 119 Stat. 52, 185, 186.)
 
 #### Codification
 

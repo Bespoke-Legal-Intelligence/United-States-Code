@@ -2,7 +2,7 @@
 
 #### (a) Relative rank; proportion
 
-Of the total authorized number of officers on the lineal list of the commissioned corps, there are authorized numbers in permanent grade, in relative rank with officers of the Navy, in proportions as follows:
+Of the total authorized number of officers on the lineal list of the commissioned corps, thereare authorized numbers in permanent grade, in relative rank with officers of the Navy, in proportions as follows:
 
 &emsp;(1) 8 in the grade of captain.
 

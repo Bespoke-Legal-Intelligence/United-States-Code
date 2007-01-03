@@ -2,7 +2,7 @@
 
 (a) The Army Nurse Corps consists of the Chief and assistant chief of that corps and other officers in grades prescribed by the Secretary of the Army.
 
-(b) The Secretary of the Army shall appoint the Chief from the officers of the Regular Armyin that corps whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed to the same position.
+(b) The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed to the same position.
 
 (c) The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
 
@@ -64,7 +64,7 @@ Section 104 of Pub. L. 85–155 provided that:
 
 “(b) This Act does not affect the retired status or retired pay of a person retired under section 108, Army-Navy Nurses Act of 1947, as amended, or any other law.
 
-“(c) An officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\] does not lose any years of service creditable to her on that date for promotion, computation of basic pay, or other purposes, by the enactment of this Act.
+“(c) An officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\] does not lose any years of servicecreditable to her on that date for promotion, computation of basic pay, or other purposes, by the enactment of this Act.
 
 “(d) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who is on a recommended list for promotion to a higher regular grade on the effective date of this Act \[Aug. 21, 1957\] may, if nominated by the President and confirmed by the Senate, be promoted to that grade.
 
@@ -76,5 +76,5 @@ Section 4(a) of Pub. L. 90–130 authorized the Secretary of the Army to suspend
 
 #### Authority of Military Department Secretaries To Convene Boards To Recommend Deferment of Retirement or Separation of Nurses
 
-Section 4(f) of Pub. L. 90–130. Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 1972, when the needs of the service required, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force to convene annually boards of officers to consider officers of the Army Nurse Corps, officers of the Navy Nurse Corps, or Air Force nurses, respectively, who otherwise would be required to be retired or separatedunder this Act within the calendar or fiscal year in which the board is convened. Upon the recommendation of such a board, the Secretary concerned could defer the separation or retirement of such an officer for a term of not more than five years, unless recommended for further deferment by a subsequent board of officers, and in any case not beyond the month following her attaining age sixty or July 1, 1976, whichever was earlier.
+Section 4(f) of Pub. L. 90–130. Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 1972, when the needs of the service required, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force to convene annually boards of officers to consider officers of the Army Nurse Corps, officers of the Navy Nurse Corps, or Air Force nurses, respectively, who otherwise would be required to be retired or separated under this Act within the calendar or fiscal year in which the board is convened. Upon the recommendation of such a board, the Secretary concerned could defer the separation or retirement of such an officer for a term of not more than five years, unless recommended for further deferment by a subsequent board of officers, and in any case not beyond the month following her attaining age sixty or July 1, 1976, whichever was earlier.
 

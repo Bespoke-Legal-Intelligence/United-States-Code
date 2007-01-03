@@ -20,7 +20,7 @@ There is an Office of Inspector General within the Library of Congress which is 
 
 #### (A) In general
 
-&emsp;&emsp;There shall be at the head of the Office of Inspector General, an Inspector General whoshall be appointed by the Librarian of Congress without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Librarian of Congress.
+&emsp;&emsp;There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Librarian of Congress without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Librarian of Congress.
 
 #### (B) Audits, investigations, and reports
 

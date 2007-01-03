@@ -28,7 +28,7 @@ Apr. 16, 1947, ch. 38, §106 (less 1st sentence), 61 Stat. 44.
 
 In subsection (a), the words “Except as provided in section 94 of this title”, not contained in section 1169 of the Revised Statutes, but contained in the United States Code, are omitted as surplusage, since 10:94 deals exclusively with assignments. The words “except within the categories prescribed in section 8067(a)–(d) of this title” are substituted for the words “in the line or in other staff corps”. Air Force nurses and women medical specialists are not covered by subsection (a), since their command authority is specifically stated in subsection (b).
 
-In subsection (b), the words “may exercise command only” are substituted for the words “shall not be entitled \* \* \* to command except”. The words “by virtue oftheir rank” and “by competent authority” are omitted as surplusage. 10:166(e) (last 22 words of last sentence) is omitted as superseded by section 8012(e) of this title.
+In subsection (b), the words “may exercise command only” are substituted for the words “shall not be entitled \* \* \* to command except”. The words “by virtue of their rank” and “by competent authority” are omitted as surplusage. 10:166(e) (last 22 words of last sentence) is omitted as superseded by section 8012(e) of this title.
 
 1958
 

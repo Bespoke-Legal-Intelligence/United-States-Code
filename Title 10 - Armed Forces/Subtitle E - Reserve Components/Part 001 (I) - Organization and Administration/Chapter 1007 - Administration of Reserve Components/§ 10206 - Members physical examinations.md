@@ -4,7 +4,7 @@
 
 &emsp;(1) have a comprehensive medical readiness health and dental assessment on an annual basis, including routine annual preventive health care screening and periodic comprehensive physical examinations in accordance with regulations prescribed by the Secretary of Defense that reflect morbidity and mortality risks associated with the military service, age, and gender of the member; and
 
-&emsp;(2) execute and submit to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties.
+&emsp;(2) execute and submit to the Secretary concerned on an annual basis documentation ofthe medical and dental readiness of the member to perform military duties.
 
 (b) A member of the Individual Ready Reserve or inactive National Guard shall be examined for physical fitness as necessary to determine the member's physical fitness for—
 
@@ -18,7 +18,7 @@
 
 (d) The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amendedPub. L. 107–107, div. A, title V, §516, Dec. 28, 2001, 115 Stat. 1094; Pub. L. 109–163, div. A, title VII, §732(a), (b), Jan. 6, 2006, 119 Stat. 3351, 3352.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amended Pub. L. 107–107, div. A, title V, §516, Dec. 28, 2001, 115 Stat. 1094; Pub. L. 109–163, div. A, title VII, §732(a), (b), Jan. 6, 2006, 119 Stat. 3351, 3352.)
 
 #### Prior Provisions
 

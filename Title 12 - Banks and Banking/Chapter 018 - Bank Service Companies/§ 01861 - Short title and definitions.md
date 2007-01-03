@@ -16,29 +16,43 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) which is organized to perform services authorized by this chapter; and
 
-&emsp;&emsp;&emsp;(ii) all of the capital stock of which is owned by 1 or more insured banks; and
+&emsp;&emsp;&emsp;(ii) all of the capital stock of which is owned by 1 or more insured depository institutions; and
 
 &emsp;&emsp;(B) any limited liability company—
 
 &emsp;&emsp;&emsp;(i) which is organized to perform services authorized by this chapter; and
 
-&emsp;&emsp;&emsp;(ii) all of the members of which are 1 or more insured banks.
+&emsp;&emsp;&emsp;(ii) all of the members of which are 1 or more insured depository institutions.
 
 &emsp;(3) the term “Board” means the Board of Governors of the Federal Reserve System;
 
-&emsp;(4) the term “depository institution” means an insured bank, financial institution subject to examination by the Federal Home Loan Bank Board or the National Credit Union Administration Board, or a financial institution the accounts or deposits of which are insured or guaranteed under State law and are eligible to be insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration Board;
+&emsp;(4) the term “depository institution” means, except when such term appears in connection with the term “insured depository institution”, an insured bank, financial institution subject to examination by the Director of the Office of Thrift Supervision or the National Credit Union Administration Board, or a financial institution the accounts or deposits of which are insured or guaranteed under State law and are eligible to be insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration Board;
 
-&emsp;(5) the term “insured bank” shall have the meaning provided in section 1813(h) of this title;
+&emsp;(5)
+
+Insured depository institution.—The term “insured depository institution” has the same meaning as in section 1813(c) of this title;
 
 &emsp;(6) the term “invest” includes any advance of funds to a bank service company, whether by the purchase of stock, the making of a loan, or otherwise, except a payment for rent earned, goods sold and delivered, or services rendered prior to the making of such payment;
 
-&emsp;(7) the term “limited liability company” means any company, partnership, trust, or similar business entity organized under the law of a State (as defined in section 1813 of this title) which provides that a member or manager of such company is not personally liable for a debt, obligation, or liability of the company solely by reason of being, or acting as, a member or manager of such company; and
+&emsp;(7) the term “limited liability company” means any company, partnership, trust, or similar business entity organized under the law of a State (as defined in section 1813 of this title) which provides that a member or manager of such company is not personally liable for a debt, obligation, or liability of the company solely by reason of being, or acting as, a member or manager of such company;
 
-&emsp;(8) the term “principal investor” means the insured bank that has the largest dollar amount invested in the equity of a bank service company. In any case where two or more insured banks have equal dollar amounts invested in a bank service company, the company shall, prior to commencing operations, select one of the insured banks as its principal investor and shall notify the bank's appropriate Federal banking agency of that choice within 5 business days of its selection.
+&emsp;(8) the term “principal investor” means the insured depository institution that has the largest dollar amount invested in the equity of a bank service company. In any case where two or more insured depository institutions have equal dollar amounts invested in a bank service company, the company shall, prior to commencing operations, select one of the insured depository institutions as its principal investor and shall notify the depository institution's appropriate Federal banking agency of that choice within 5 business days of its selection; and
 
-(Pub. L. 87–856, §1, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1540; Pub. L. 97–457, §32(a), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(a), (b), Sept. 30, 1996, 110 Stat. 3009–476.)
+&emsp;(9) the terms “State depository institution”, “Federal depository institution”, “State savings association” and “Federal savings association” have the same meanings as in section 1813 of this title.
+
+(Pub. L. 87–856, §1, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1540; Pub. L. 97–457, §32(a), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(a), (b), Sept. 30, 1996, 110 Stat. 3009–476; Pub. L. 109–351, title VI, §602(b)(1), Oct. 13, 2006, 120 Stat. 1979.)
 
 #### Amendments
+
+2006—Subsec. (b)(2)(A)(ii), (B)(ii). Pub. L. 109–351, §602(b)(1)(F), substituted “insured depository institutions” for “insured banks”.
+
+Subsec. (b)(4). Pub. L. 109–351, §602(b)(1)(A), inserted “, except when such term appears in connection with the term ‘insured depository institution’,” after “means” and substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+
+Subsec. (b)(5). Pub. L. 109–351, §602(b)(1)(B), added par. (5) and struck out former par. (5) which defined “insured bank”.
+
+Subsec. (b)(8). Pub. L. 109–351, §602(b)(1)(G), substituted “means the insured depository institution” for “means the insured bank”, “insured depository institutions” for “insured banks” in two places, and “the depository institution's appropriate” for “the bank's appropriate”.
+
+Subsec. (b)(9). Pub. L. 109–351, §602(b)(1)(C)–(E), added par. (9).
 
 1996—Subsec. (a). Pub. L. 104–208, §2613(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “This chapter may be cited as the ‘Bank Service Corporation Act’.”
 
@@ -64,5 +78,5 @@ Subsec. (d). Pub. L. 97–320 redesignated provisions of subsec. (d) as (b)(6).
 
 #### Transfer of Functions
 
-Federal Home Loan Bank Board and Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 

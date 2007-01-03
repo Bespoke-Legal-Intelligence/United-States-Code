@@ -10,7 +10,7 @@ No person shall be eligible to be a member of the legislature who is not a citiz
 
 #### (c) Appointment of electoral officers; popular election of members of boards of election
 
-All officers and employees charged with the duty of directing the administration of the electoral system of the Virgin Islands and its representative districts shall be appointed in such manner as the legislature may by law direct:<i>Provided, however</i>, That members of boards of elections, which entities of government have been duly organized and established by the government of the Virgin Islands, shall be popularly elected.
+All officers and employees charged with the duty of directing the administration of the electoral system of the Virgin Islands and its representative districts shall be appointed in such manner as the legislature may by law direct: <i>Provided, however</i>, That members of boards of elections, which entities of government have been duly organized and established by the government of the Virgin Islands, shall be popularly elected.
 
 #### (d) Immunity of members
 
@@ -40,7 +40,7 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, me
 
 #### Amendments
 
-1973—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provide by law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
+1973—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provideby law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
 
 1972—Subsec. (b). Pub. L. 92–389 reduced the age qualification for membership of legislature from twenty-five years to twenty-one years.
 

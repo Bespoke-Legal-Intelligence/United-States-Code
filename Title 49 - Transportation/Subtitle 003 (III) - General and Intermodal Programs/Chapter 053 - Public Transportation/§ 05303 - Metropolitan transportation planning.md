@@ -376,7 +376,7 @@ Contents.—
 
 &emsp;&emsp;(A)
 
-Priority list.—The TIP shall include a priority list of proposed federally supported projects and strategies to be carried out within each 4-year period after the initial adoption of the TIP.
+Priority list.—The TIP shall include a priority list of proposed federally supported projects and strategies to be carriedout within each 4-year period after the initial adoption of the TIP.
 
 &emsp;&emsp;(B)
 
@@ -552,7 +552,7 @@ In general.—Subject to paragraph (2), in the case of a metropolitan area not d
 
 &emsp;(2)
 
-Nonattainment areas.—The Secretary may not permit abbreviated plans or TIPs fora metropolitan area that is in nonattainment for ozone or carbon monoxide under the Clean Air Act.
+Nonattainment areas.—The Secretary may not permit abbreviated plans or TIPs for a metropolitan area that is in nonattainment for ozone or carbon monoxide under the Clean Air Act.
 
 (m)
 
@@ -576,7 +576,7 @@ Funding.—Funds set aside under section 5305(g) of this title or section 104(f)
 
 (p)
 
-Continuation of Current Review Practice.—Since plans and TIPs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under such Act.
+Continuation of Current Review Practice.—Since plans and TIPs described in this section are subject to a reasonable opportunityfor public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under such Act.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547.)
 
@@ -694,7 +694,7 @@ The date of enactment of the Federal Public Transportation Act of 2005, referred
 
 Public Law 96–551, referred to in subsec. (f)(3)(A), is Pub. L. 96–551, Dec. 19, 1980, 94 Stat. 3233, which is not classified to the Code.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (p), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (p), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

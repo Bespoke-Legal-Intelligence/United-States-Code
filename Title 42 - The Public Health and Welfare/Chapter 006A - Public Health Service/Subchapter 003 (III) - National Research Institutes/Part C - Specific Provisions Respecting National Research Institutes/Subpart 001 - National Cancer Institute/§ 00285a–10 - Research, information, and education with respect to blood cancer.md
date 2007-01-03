@@ -10,10 +10,6 @@
 
 &emsp;The Director of NIH shall carry out this subsection through the Director of the National Cancer Institute and in collaboration with any other agencies that the Director determines to be appropriate.
 
-#### (3) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.
-
 #### (b) Geraldine Ferraro Cancer Education Program
 
 #### (1) In general
@@ -24,15 +20,21 @@
 
 &emsp;The Agency determined by the Secretary under paragraph (1) shall carry out this subsection in collaboration with private health organizations that have national education and patient assistance programs on blood-related cancers.
 
-#### (3) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.
-
-(July 1, 1944, ch. 373, title IV, §417D, as added Pub. L. 107–172, §3, May 14, 2002, 116 Stat. 541.)
+(July 1, 1944, ch. 373, title IV, §417D, as added Pub. L. 107–172, §3, May 14, 2002, 116 Stat. 541; amended Pub. L. 109–482, title I, §103(b)(17), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### Codification
 
 Section 3 of Pub. L. 107–172, which directed that section 417D (this section) be inserted after section 419C of part C of title IV of the Public Health Service Act, was executed by adding section 417D to part C of title IV of the Public Health Service Act, to reflect the probable intent of Congress, notwithstanding that part C does not contain a section 419C.
+
+#### Amendments
+
+2007—Subsec. (a)(3). Pub. L. 109–482, §103(b)(17)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
+
+Subsec. (b)(3). Pub. L. 109–482, §103(b)(17)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Congressional Findings
 

@@ -10,7 +10,7 @@
 
 &emsp;(ii) is serving under a limited appointment,
 
-> the member may not be separated from the Service until the member receives a hearing before the Foreign Service Grievance Board and the Board decides that cause for separation has been established, unless the member waives, in writing, the right to such a hearing, or the member's appointment has expired, whichever is sooner.
+> the member may not be separated from the Service until the member receives a hearing before the Foreign Service Grievance Board andthe Board decides that cause for separation has been established, unless the member waives, in writing, the right to such a hearing, or the member's appointment has expired, whichever is sooner.
 
 (B) The right to a hearing in subparagraph (A) does not apply in the case of an individual who has been convicted of a crime for which a sentence of imprisonment of more than one year may be imposed.
 
@@ -22,7 +22,7 @@
 
 Any participant in the Foreign Service Retirement and Disability System who is separated under subsection (a) of this section shall be entitled to receive a refund as provided in section 4055 of this title of the contributions made by the participant to the Foreign Service Retirement and Disability Fund. Except in cases where the Secretary determines that separation was based in whole or in part on the ground of disloyalty to the United States, a participant who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect, in lieu of such refund, to an annuity, computed under section 4046 of this title, commencing at age 60.
 
-(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987,101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §314(a), Sept. 30, 2002, 116 Stat. 1378.)
+(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §314(a), Sept. 30, 2002, 116 Stat. 1378.)
 
 #### Amendments
 

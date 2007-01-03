@@ -7,8 +7,6 @@
 | [701\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000701%20-%20Omitted.md) | Omitted. |
 | [702\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000702%20-%20Definitions.md) | Definitions. |
 | [703\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000703%20-%20Satellite%20service%20report.md) | Satellite service report. |
-| (a) | Annual report. |
-| (b) | Content. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,9 +20,9 @@
 
 #### SUBCHAPTER III—COMMUNICATIONS SATELLITE CORPORATION
 
-|  |  |
-| :--- | ---: |
-| 731 to 735. | Omitted. |
+|  |
+| :--- |
+| 731 to 735. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,7 +38,7 @@
 
 |  |  |
 | :--- | ---: |
-| 751, 752. Omitted. |  |
+| 751, 752. | Omitted. |
 | [753\.](Subchapter%20005%20%28V%29%20-%20International%20Maritime%20Satellite%20Telecommunications/%C2%A7%2000753%20-%20Implementation%20of%20policy.md) | Implementation of policy. |
 | 754 to 756. Repealed. |  |
 | [757\.](Subchapter%20005%20%28V%29%20-%20International%20Maritime%20Satellite%20Telecommunications/%C2%A7%2000757%20-%20Definitions.md) | Definitions. |
@@ -54,13 +52,7 @@
 |  |  |
 | :--- | ---: |
 | [761\.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20A%20-%20Actions%20to%20Ensure%20Pro-Competitive%20Privatization/%C2%A7%2000761%20-%20Federal%20Communications%20Commission%20licensing.md) | Federal Communications Commission licensing. |
-| (a) | Licensing for separated entities. |
-| (b) | Licensing for INTELSAT, Inmarsat, and successor entities. |
-| (c) | Additional considerations in determinations. |
-| (d) | Independent facilities competition. |
 | [761a.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20A%20-%20Actions%20to%20Ensure%20Pro-Competitive%20Privatization/%C2%A7%2000761a%20-%20Incentives%3B%20limitation%20on%20expansion%20pending%20privatization.md) | Incentives; limitation on expansion pending privatization. |
-| (a) | Limitation. |
-| (b) | Orbital location incentives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,9 +65,6 @@
 | [763b.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763b%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9334%2C%20%C2%A72%2C%20July%2012%2C%202005%2C%20119%20Stat.%20377.md) | Repealed. |
 | [763c.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763c%20-%20Space%20segment%20capacity%20of%20the%20GMDSS.md) | Space segment capacity of the GMDSS. |
 | [763d.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763d%20-%20Encouraging%20market%20access%20and%20privatization.md) | Encouraging market access and privatization. |
-| (a) | NTIA determination. |
-| (b) | Imposition of cost-based settlement rate. |
-| (c) | Settlements policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,25 +73,13 @@
 |  |  |
 | :--- | ---: |
 | [765\.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765%20-%20Access%20to%20INTELSAT.md) | Access to INTELSAT. |
-| (a) | Access permitted. |
-| (b) | Rulemaking. |
-| (c) | Contract preservation. |
 | [765a.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765a%20-%20Signatory%20role.md) | Signatory role. |
-| (a) | Limitation on signatories. |
-| (b) | Clarification of privileges and immunities of COMSAT. |
-| (c) | Parity of treatment. |
 | [765b.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765b%20-%20Elimination%20of%20procurement%20preferences.md) | Elimination of procurement preferences. |
 | [765c.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765c%20-%20ITU%20functions.md) | ITU functions. |
-| (a) | Technical coordination. |
-| (b) | ITU notifying administration. |
 | [765d.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765d%20-%20Termination%20of%20provisions%20of%20this%20chapter.md) | Termination of provisions of this chapter. |
 | [765e.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765e%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| (a) | Annual reports. |
-| (b) | Contents of reports. |
 | [765f.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765f%20-%20Satellite%20auctions.md) | Satellite auctions. |
 | [765g.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765g%20-%20Exclusivity%20arrangements.md) | Exclusivity arrangements. |
-| (a) | In general. |
-| (b) | Exception. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -119,8 +96,6 @@
 |  |  |
 | :--- | ---: |
 | [769\.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20E%20-%20Definitions/%C2%A7%2000769%20-%20Definitions.md) | Definitions. |
-| (a) | In general. |
-| (b) | Common terminology. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

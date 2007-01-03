@@ -42,13 +42,18 @@
 | [1033\.](%C2%A7%2001033%20-%20Crimes%20by%20or%20affecting%20persons%20engaged%20in%20the%20business%20of%20insurance%20whose%20activities%20affect%20interstate%20commerce.md) | Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce. |
 | [1034\.](%C2%A7%2001034%20-%20Civil%20penalties%20and%20injunctions%20for%20violations%20of%20section%201033.md) | Civil penalties and injunctions for violations of section 1033. |
 | [1035\.](%C2%A7%2001035%20-%20False%20statements%20relating%20to%20health%20care%20matters.md) | False statements relating to health care matters. |
-| [1036\.](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport.md) | Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport. |
+| [1036\.](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport%20or%20seaport.md) | Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport. |
 | [1037\.](%C2%A7%2001037%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20electronic%20mail.md) | Fraud and related activity in connection with electronic mail. |
 | [1038\.](%C2%A7%2001038%20-%20False%20information%20and%20hoaxes.md) | False information and hoaxes. |
+| [1039\.](%C2%A7%2001039%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20obtaining%20confidential%20phone%20records%20information%20of%20a%20covered%20entity.md) | Fraud and related activity in connection with obtaining confidential phone records information of a covered entity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 109–476, §3(b), Jan. 12, 2007, 120 Stat. 3571, added item 1039.
+
+2006—Pub. L. 109–177, title III, §302(b), Mar. 9, 2006, 120 Stat. 233, inserted “or seaport” at end of item 1036.
 
 2004—Pub. L. 108–458, title VI, §6702(b), Dec. 17, 2004, 118 Stat. 3766, added item 1038.
 
@@ -85,8 +90,6 @@ Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item
 1951—Act Oct. 31, 1951, ch. 655, §25, 65 Stat. 720, substituted “Public Housing Administration” for “United States Housing Authority” in item 1012.
 
 1949—Act May 24, 1949, ch. 139, §§18, 19, 63 Stat. 92, corrected spelling in item 1012 and substituted “officers” for “offices” in item 1019.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–21 without corresponding amendment of chapter analysis.</i>
 
@@ -130,6 +133,7 @@ Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item
 - [&sect; 01033 - Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce](%C2%A7%2001033%20-%20Crimes%20by%20or%20affecting%20persons%20engaged%20in%20the%20business%20of%20insurance%20whose%20activities%20affect%20interstate%20commerce.md)
 - [&sect; 01034 - Civil penalties and injunctions for violations of section 1033](%C2%A7%2001034%20-%20Civil%20penalties%20and%20injunctions%20for%20violations%20of%20section%201033.md)
 - [&sect; 01035 - False statements relating to health care matters](%C2%A7%2001035%20-%20False%20statements%20relating%20to%20health%20care%20matters.md)
-- [&sect; 01036 - Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport.md)
+- [&sect; 01036 - Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport%20or%20seaport.md)
 - [&sect; 01037 - Fraud and related activity in connection with electronic mail](%C2%A7%2001037%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20electronic%20mail.md)
 - [&sect; 01038 - False information and hoaxes](%C2%A7%2001038%20-%20False%20information%20and%20hoaxes.md)
+- [&sect; 01039 - Fraud and related activity in connection with obtaining confidential phone records information of a covered entity](%C2%A7%2001039%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20obtaining%20confidential%20phone%20records%20information%20of%20a%20covered%20entity.md)

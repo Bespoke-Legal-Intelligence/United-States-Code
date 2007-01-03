@@ -46,7 +46,7 @@ In approving applications for upward bound projects under this division for any 
 
 &emsp;(3) require that there be a determination by the institution, with respect to each participant in such project that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school; and
 
-&emsp;(4) require that such participants be persons who have completed 8 years of elementary education and are at least 13 years of age butnot more than 19 years of age, unless the imposition of any such limitation would defeat the purposes of this section.
+&emsp;(4) require that such participants be persons who have completed 8 years of elementary education and are at least 13 years of age but not more than 19 years of age, unless the imposition of any such limitation would defeat the purposes of this section.
 
 #### (e) Maximum stipends
 

@@ -24,11 +24,25 @@ Application of Other Laws.—Subsections (c) and (d) of section 6957 of this tit
 
 Regulations.—The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 
-(Added Pub. L. 105–85, div. A, title V, §542(b)(1), Nov. 18, 1997, 111 Stat. 1741; amended Pub. L. 106–65, div. A, title V, §535(b), Oct. 5, 1999, 113 Stat. 605.)
+(Added Pub. L. 105–85, div. A, title V, §542(b)(1), Nov. 18, 1997, 111 Stat. 1741; amended Pub. L. 106–65, div. A, title V, §535(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, §531(b), Oct. 17, 2006, 120 Stat. 2199.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–364, div. A, title V, §531(b), (d), Oct. 17, 2006, 120 Stat. 2199, provided that, effective Oct. 1, 2008, this section is amended:</i>
+
+<i>(1) in subsection (b), by striking “24” and inserting “100”; and</i>
+
+<i>(2) in subsection (c), by striking “for the Academy” and all that follows in paragraph (3) and inserting “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” and by adding at the end the following new paragraph:</i>
+
+<i>“(4) Expenditures in support of the exchange program from funds appropriated for the Naval Academy may not exceed $1,000,000 during any fiscal year.”</i>
 
 #### Amendments
 
 1999—Subsec. (b). Pub. L. 106–65, §535(b)(1), substituted “24 midshipmen” for “10 midshipmen”.
 
 Subsec. (c)(3). Pub. L. 106–65, §535(b)(2), substituted “$120,000” for “$50,000”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 effective Oct. 1, 2008, see section 531(d) of Pub. L. 109–364, set out as a note under section 4345 of this title.
 

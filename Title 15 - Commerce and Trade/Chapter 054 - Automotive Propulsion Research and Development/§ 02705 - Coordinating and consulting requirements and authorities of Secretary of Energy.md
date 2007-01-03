@@ -10,7 +10,7 @@ The Secretary of Energy shall have overall management responsibility for carryin
 
 #### (b) Exercise of powers by Secretary of Transportation
 
-The Secretary of Transportation, whenever the expertise of the Department of Transportation is utilized in accordance with subsection (a) of this section, may exercise the powers granted to the Secretary of Energy under subsection (c) of this section and shall enter intocontracts and make grants for such purpose, subject to the overall management responsibility of the Secretary of Energy.
+The Secretary of Transportation, whenever the expertise of the Department of Transportation is utilized in accordance with subsection (a) of this section, may exercise the powers granted to the Secretary of Energy under subsection (c) of this section and shall enter into contracts and make grants for such purpose, subject to the overall management responsibility of the Secretary of Energy.
 
 #### (c) Requests for assistance of Federal departments, etc.
 

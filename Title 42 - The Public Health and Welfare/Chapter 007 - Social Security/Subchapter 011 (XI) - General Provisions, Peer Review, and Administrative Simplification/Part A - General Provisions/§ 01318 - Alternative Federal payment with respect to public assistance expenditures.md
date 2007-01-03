@@ -26,7 +26,7 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDCprogram, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1988 Amendment
 

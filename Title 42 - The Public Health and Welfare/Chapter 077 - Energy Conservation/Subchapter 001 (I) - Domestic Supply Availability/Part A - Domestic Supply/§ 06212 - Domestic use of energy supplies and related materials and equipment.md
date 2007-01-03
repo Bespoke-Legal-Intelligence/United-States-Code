@@ -16,7 +16,7 @@ The President may, by rule, under such terms and conditions as he determines to 
 
 #### (c) Implementing restrictions
 
-In order to implement any rule promulgated under subsection (a) of this section, the President may request and, if so, the Secretary of Commerce shall, pursuant to the procedures established by the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] (but without regard to the phrase “and to reduce the serious inflationary impact of foreign demand” in section 3(2)(C) of such Act \[50 App. U.S.C. 2402(2)(C)\]), impose such restrictions as specified in any rule under subsection (a) of this section on exports of coal, petroleum products, natural gas, or petrochemical feedstocks, and such supplies of materials and equipment.
+In order to implement any rule promulgated under subsection (a) of this section, the President may request and, if so, the Secretary of Commerce shall, pursuant to the procedures established by the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] (but without regard to the phrase “and to reduce the serious inflationary impact of foreign demand” in section 3(2)(C) of such Act \[50 U.S.C. App. 2402(2)(C)\]), impose such restrictions as specified in any rule under subsection (a) of this section on exports of coal, petroleum products, natural gas, or petrochemical feedstocks, and such supplies of materials and equipment.
 
 #### (d) Restrictions and national interest
 

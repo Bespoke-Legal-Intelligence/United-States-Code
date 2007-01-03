@@ -6,7 +6,7 @@
 
 (c) A participant shall be permitted to suspend participation or disenroll from the program at the end of any 12-consecutive-month period of participation. If participation is suspended, the participant shall be eligible to make additional contributions to the program under such terms and conditions as shall be prescribed by regulations issued jointly by the Secretary and the Secretary of Defense.
 
-(d) If a participant disenrolls from the program, such participant forfeits any entitlement to benefits under the program except as provided in subsection (e) of this section. A participant who disenrolls from the program is eligiblefor a refund of such participant's contributions as provided in section 3223 of this title.
+(d) If a participant disenrolls from the program, such participant forfeits any entitlement to benefits under the program except as provided in subsection (e) of this section. A participant who disenrolls from the program is eligible for a refund of such participant's contributions as provided in section 3223 of this title.
 
 (e) A participant who has disenrolled may be permitted to reenroll in the program under such conditions as shall be prescribed jointly by the Secretary and the Secretary of Defense.
 

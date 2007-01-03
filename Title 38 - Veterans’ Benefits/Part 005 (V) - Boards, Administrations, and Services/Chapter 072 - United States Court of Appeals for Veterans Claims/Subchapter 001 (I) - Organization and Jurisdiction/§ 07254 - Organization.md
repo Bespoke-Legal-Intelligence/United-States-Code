@@ -24,7 +24,7 @@ Precedence of Judges.—The chief judge of the Court shall have precedence and p
 
 1991—Pub. L. 102–40 renumbered section 4054 of this title as this section.
 
-Subsecs. (d), (e). Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40, and Pub. L. 102–82 amended section, identically, by redesignating the second subsec. (d), relating to authority to administer oaths as, (e).
+Subsecs. (d), (e). Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L.102–40, and Pub. L. 102–82 amended section, identically, by redesignating the second subsec. (d), relating to authority to administer oaths as, (e).
 
 1989—Subsec. (d). Pub. L. 101–237 added subsec. (d) relating to authority to administer oaths.
 

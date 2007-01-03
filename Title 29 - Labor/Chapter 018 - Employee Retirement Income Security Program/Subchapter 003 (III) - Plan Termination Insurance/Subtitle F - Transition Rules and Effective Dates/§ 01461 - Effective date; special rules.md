@@ -34,7 +34,7 @@
 
 &emsp;(A) may establish requirements for the continuation of payments which commenced before January 2, 1974, with respect to retired participants under the plan,
 
-&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a plan who, on January 1, 1974, was receiving payment of retirement benefits, in excess of theamounts and rates payable with respect to such participant on that date,
+&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a plan who, on January 1, 1974, was receiving payment of retirement benefits, in excess of the amounts and rates payable with respect to such participant on that date,
 
 &emsp;(C) may not make any payments with respect to benefits guaranteed under this subchapter in connection with such a plan which are derived, directly or indirectly, from amounts borrowed under section 1305(c) of this title, and
 
@@ -48,7 +48,7 @@
 
 (B) For purposes of determining withdrawal liability under part 1 of subtitle E of this subchapter, an employer who has withdrawn from a plan shall be considered to have withdrawn from a multiemployer plan if, at the time of the withdrawal, the plan was a multiemployer plan as defined in section 1301(a)(3) of this title as in effect at the time of the withdrawal.
 
-(3) Sections 1421 through 1426 of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+(3) Sections 1421 through 1426 of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, onthe first day of the first plan year beginning on or after the earlier of—
 
 &emsp;(A) the date on which the last collective bargaining agreement providing for employer contributions under the plan, which was in effect on September 26, 1980, expires, without regard to extensions agreed to on or after September 26, 1980, or
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Actions Taken Before Regulations Are Prescribed
 

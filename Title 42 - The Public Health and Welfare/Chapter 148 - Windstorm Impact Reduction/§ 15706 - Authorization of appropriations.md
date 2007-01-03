@@ -44,5 +44,9 @@ There are authorized to be appropriated to the National Oceanic and Atmospheric 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to theCode, see Short Title note set out under section 15701 of this title and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 15701 of this title and Tables.
+
+#### Transfer of Functions
+
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

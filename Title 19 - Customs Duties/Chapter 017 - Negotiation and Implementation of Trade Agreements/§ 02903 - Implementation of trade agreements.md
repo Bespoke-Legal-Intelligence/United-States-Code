@@ -56,7 +56,7 @@
 
 (2) If the President is of the opinion that the fast track procedures should be extended to implementing bills described in paragraph (1)(B), the President must submit to the Congress, no later than March 1, 1991, a written report that contains a request for such extension, together with—
 
-&emsp;(A) a description of all trade agreements that have been negotiated under section 2902(b) or (c) of this title and the anticipated schedule for submitting such agreements to the Congress for approval;
+&emsp;(A) a description of all trade agreements that have been negotiated under section2902(b) or (c) of this title and the anticipated schedule for submitting such agreements to the Congress for approval;
 
 &emsp;(B) a description of the progress that has been made in multilateral and bilateral negotiations to achieve the purposes, policies, and objectives of this title, and a statement that such progress justifies the continuation of negotiations; and
 

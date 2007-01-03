@@ -12,7 +12,7 @@
 
 #### (b) Intermediary countries
 
-The Secretary shall establish a moratorium on the importation of raw and worked ivory froman intermediary country immediately upon making a determination that the country—
+The Secretary shall establish a moratorium on the importation of raw and worked ivory from an intermediary country immediately upon making a determination that the country—
 
 &emsp;(1) is not a party to CITES;
 
@@ -44,7 +44,7 @@ The Secretary shall suspend a moratorium established under this section if, afte
 
 #### (e) Sport-hunted trophies
 
-Individuals may import sport-hunted elephant trophies that they have legally taken in an ivory producing country that has submitted an ivory quota. The Secretary shall not establish any moratorium under this section, pursuant to a petition or otherwise, which prohibits the importation into the United States of sport-hunted trophies from elephants that are legally taken by the importer or the importer's principal in an ivory producing country that has submitted an ivory quota.
+Individuals may import sport-hunted elephant trophies that they have legally taken in anivory producing country that has submitted an ivory quota. The Secretary shall not establish any moratorium under this section, pursuant to a petition or otherwise, which prohibits the importation into the United States of sport-hunted trophies from elephants that are legally taken by the importer or the importer's principal in an ivory producing country that has submitted an ivory quota.
 
 #### (f) Confiscated ivory
 

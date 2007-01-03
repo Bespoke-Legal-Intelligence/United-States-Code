@@ -26,5 +26,5 @@ Pub. L. 102–242, title IV, §436, Dec. 19, 1991, 105 Stat. 2381, provided that
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–320, title III, §301, Oct. 15, 1982, 96 Stat. 1496, provided that: “This title \[enacting section 1701j–3 of this title, amending sections 1425a, 1426, 1428a, 1430, 1464, 1725, 1730a, 1841, and 3503 of this title, enacting provisions set out as a note under section 3503 of this title, and repealing provisions set out as a note under section 461 of this title\] may be cited as the ‘Thrift Institutions Restructuring Act’.”
+Pub. L. 97–320, title III, §301, Oct. 15, 1982, 96 Stat. 1496, provided that: “This title \[enacting section 1701j–3of this title, amending sections 1425a, 1426, 1428a, 1430, 1464, 1725, 1730a, 1841, and 3503 of this title, enacting provisions set out as a note under section 3503 of this title, and repealing provisions set out as a note under section 461 of this title\] may be cited as the ‘Thrift Institutions Restructuring Act’.”
 

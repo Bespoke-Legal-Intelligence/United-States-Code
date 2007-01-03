@@ -26,7 +26,7 @@ The functions of each Chief Acquisition Officer shall include—
 
 &emsp;(7) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections 1105(a)(28), 1115, 1116, and 9703 of title 31—
 
-&emsp;&emsp;(A) assessing the requirements established for agency personnel regarding knowledge and skill in acquisition resources management and the adequacy of such requirementsfor facilitating the achievement of the performance goals established for acquisition management;
+&emsp;&emsp;(A) assessing the requirements established for agency personnel regarding knowledge and skill in acquisition resources management and the adequacy of such requirements for facilitating the achievement of the performance goals established for acquisition management;
 
 &emsp;&emsp;(B) in order to rectify any deficiency in meeting such requirements, developing strategies and specific plans for hiring, training, and professional development; and
 

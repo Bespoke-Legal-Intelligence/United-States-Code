@@ -20,7 +20,7 @@ No action may be commenced—
 
 &emsp;&emsp;(A) prior to 60 days after the plaintiff has given notice of the violation (i) to the Administrator, (ii) to the State in which the violation occurs, and (iii) to any alleged violator of the standard, limitation, or order, or
 
-&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civil action in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right.
+&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civil action in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right.<sup>1</sup>
 
 &emsp;(2) under subsection (a)(2) of this section prior to 60 days after the plaintiff has given notice of such action to the Administrator,
 
@@ -40,7 +40,7 @@ The court, in issuing any final order in any action brought pursuant to subsecti
 
 #### (e) Nonrestriction of other rights
 
-Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any emission standard or limitation or to seek any other relief (including relief against the Administrator or a State agency). Nothing in this section or in any other law of the United States shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—
+Nothing in this section shall restrict any right which any person (or class of persons) may haveunder any statute or common law to seek enforcement of any emission standard or limitation or to seek any other relief (including relief against the Administrator or a State agency). Nothing in this section or in any other law of the United States shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—
 
 &emsp;(1) bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court, or
 
@@ -54,11 +54,11 @@ For purposes of this section, the term “emission standard or limitation under 
 
 &emsp;(1) a schedule or timetable of compliance, emission limitation, standard of performance or emission standard,
 
-&emsp;(2) a control or prohibition respecting a motor vehicle fuel or fuel additive, or <sup>1</sup>
+&emsp;(2) a control or prohibition respecting a motor vehicle fuel or fuel additive, or <sup>2</sup>
 
-&emsp;(3) any condition or requirement of a permit under part C of subchapter I of this chapter (relating to significant deterioration of air quality) or part D of subchapter I of this chapter (relating to nonattainment),,<sup>2</sup> section 7419 of this title (relating to primary nonferrous smelter orders), any condition or requirement under an applicable implementation plan relating to transportation control measures, air quality maintenance plans, vehicle inspection and maintenance programs or vapor recovery requirements, section 7545(e) and (f) of this title (relating to fuels and fuel additives), section 7491 of this title (relating to visibility protection), any condition or requirement under subchapter VI of this chapter (relating to ozone protection), or any requirement under section 7411 or 7412 of this title (without regard to whether such requirement is expressed as an emission standard or otherwise); <sup>3</sup> or
+&emsp;(3) any condition or requirement of a permit under part C of subchapter I of this chapter (relating to significant deterioration of air quality) or part D of subchapter I of this chapter (relating to nonattainment),,<sup>3</sup> section 7419 of this title (relating to primary nonferrous smelter orders), any condition or requirement under an applicable implementation plan relating to transportation control measures, air quality maintenance plans, vehicle inspection and maintenance programs or vapor recovery requirements, section 7545(e) and (f) of this title (relating to fuels and fuel additives), section 7491 of this title (relating to visibility protection), any condition or requirement under subchapter VI of this chapter (relating to ozone protection), or any requirement under section 7411 or 7412 of this title (without regard to whether such requirement is expressed as an emission standard or otherwise); <sup>4</sup> or
 
-&emsp;(4) any other standard, limitation, or schedule established under any permit issued pursuant to subchapter V of this chapter or under any applicable State implementation plan approved by the Administrator, any permit term or condition, and any requirement to obtain a permit as a condition of operations.<sup>4</sup>
+&emsp;(4) any other standard, limitation, or schedule established under any permit issued pursuant to subchapter V of this chapter or under any applicable State implementation plan approved by the Administrator, any permit term or condition, and any requirement to obtain a permit as a condition of operations.<sup>5</sup>
 
 > which is in effect under this chapter (including a requirement applicable by reason of section 7418 of this title) or under an applicable implementation plan.
 
@@ -66,7 +66,7 @@ For purposes of this section, the term “emission standard or limitation under 
 
 (1) Penalties received under subsection (a) of this section shall be deposited in a special fund in the United States Treasury for licensing and other services. Amounts in such fund are authorized to be appropriated and shall remain available until expended, for use by the Administrator to finance air compliance and enforcement activities. The Administrator shall annually report to the Congress about the sums deposited into the fund, the sources thereof, and the actual and proposed uses thereof.
 
-(2) Notwithstanding paragraph (1) the court in any action under this subsection to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.
+(2) Notwithstanding paragraph (1) the court in any action under this subsection <sup>6</sup> to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.
 
 (July 14, 1955, ch. 360, title III, §304, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1706; amended Pub. L. 95–95, title III, §303(a)–(c), Aug. 7, 1977, 91 Stat. 771, 772; Pub. L. 95–190, §14(a) (77), (78), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title III, §302(f), title VII, §707(a)–(g), Nov. 15, 1990, 104 Stat. 2574, 2682, 2683.)
 
@@ -94,7 +94,7 @@ Subsec. (c)(2). Pub. L. 101–549, §707(c), amended par. (2) generally. Prior t
 
 Subsec. (c)(3). Pub. L. 101–549, §707(d), added subsec. (c)(3).
 
-Subsec. (f)(3). Pub. L. 101–549, §707(e), struck out “any condition or requirement of section 7413(d) of this title (relating to certain enforcement orders)” before “, section 7419 of this title”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
+Subsec. (f)(3). Pub. L. 101–549, §707(e), struck out “any condition or requirement of section 7413(d) of this title\(relating to certain enforcement orders)” before “, section 7419 of this title”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
 
 Subsec. (f)(4). Pub. L. 101–549, §707(e), which directed that par. (4) be added at end of subsec. (f), was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
 
@@ -130,11 +130,15 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be “, or”.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>3</sup></i><i> So in original.</i>
 
-<i><sup>4</sup></i><i> So in original. The period probably should be a comma.</i>
+<i><sup>4</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>5</sup></i><i> So in original. The period probably should be a comma.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be “this section”.</i>
 

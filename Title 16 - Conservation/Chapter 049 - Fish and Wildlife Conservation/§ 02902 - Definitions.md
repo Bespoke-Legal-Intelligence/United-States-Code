@@ -30,7 +30,7 @@ As used in this chapter—
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in par. (6)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (6)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884,as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Section 1362(5) of this title, referred to in par. (6)(C), was redesignated section 1362(6), by Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909.
 

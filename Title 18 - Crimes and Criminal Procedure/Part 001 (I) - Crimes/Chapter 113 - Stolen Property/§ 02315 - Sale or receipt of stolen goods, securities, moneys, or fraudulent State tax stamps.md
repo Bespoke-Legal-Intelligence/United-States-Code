@@ -1,6 +1,6 @@
 ### §2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps
 
-Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the valueof $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
+Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the value of $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
 
 Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any falsely made, forged, altered, or counterfeited securities or tax stamps, or pledges or accepts as security for a loan any falsely made, forged, altered, or counterfeited securities or tax stamps, moving as, or which are a part of, or which constitute interstate or foreign commerce, knowing the same to have been so falsely made, forged, altered, or counterfeited; or
 
@@ -34,5 +34,5 @@ Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any f
 
 1986—Pub. L. 99–646 substituted “receives, possesses, conceals” for “receives, conceals” and “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” for “moving as, or which are part of, or which constitute interstate or foreign commerce” in first and second pars.
 
-1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
+1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing,in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
 

@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii), notwithstanding any other provision of law, an application for voter registration for an election for Federal office may not be accepted or processed by a State unless the application includes—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of an applicant who has been issued a current and valid driver's license, the applicant's driver's license number; or
+&emsp;&emsp;&emsp;&emsp;(I) in the case of an applicant who has been issued a current and valid driver'slicense, the applicant's driver's license number; or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any other applicant (other than an applicant to whom clause (ii) applies), the last 4 digits of the applicant's social security number.
 
@@ -146,7 +146,7 @@
 
 &emsp;Paragraph (1) shall not apply in the case of a person—
 
-&emsp;&emsp;(A) who registers to vote by mail under section 6 of the National Voter RegistrationAct of 1993 (42 U.S.C. 1973gg–4) and submits as part of such registration either—
+&emsp;&emsp;(A) who registers to vote by mail under section 6 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–4) and submits as part of such registration either—
 
 &emsp;&emsp;&emsp;(i) a copy of a current and valid photo identification; or
 

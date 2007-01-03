@@ -10,7 +10,17 @@
 
 Additional reports.—The Board of Directors may from time to time require any insured depository institution to file such additional reports as the Corporation, after agreement with the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision, as appropriate, may deem advisable for insurance purposes.
 
-(3) Each insured depository institution shall make to the appropriate Federal banking agency 4 reports of condition annually upon dates which shall be selected by the Chairman of the Board of Directors, the Comptroller of the Currency, and the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision. The dates selected shall be the same for all insured depository institutions, except that when any of said reporting dates is a nonbusiness day for any depository institution, the preceding business day shall be its reporting date. Two dates shallbe selected within the semiannual period of January to June inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in July pursuant to subsection (c) of this section, and two dates shall be selected within the semiannual period of July to December inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in January pursuant to subsection (c) of this section. The deposit liabilities shall be reported in said reports of conditions in accordance with and pursuant to paragraphs (4) and (5) of this subsection, and such other information shall be reported therein as may be required by the respective agencies. Each said report of condition shall contain a declaration by the president, a vice president, the cashier or the treasurer, or by any other officer designated by the board of directors or trustees of the reporting depository institution to make such declaration, that the report is true and correct to the best of his knowledge and belief. The correctness of said report of condition shall be attested by the signatures of at least two directors or trustees of the reporting depository institution other than the officer making such declaration, with a declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct. At the time of making said reports of condition each insured depository institution shall furnish to the Corporation a copy thereof containing such signed declaration and attestations. Nothing herein shall preclude any of the foregoing agencies from requiring the banks or savings associations under its jurisdiction to make additional reports of condition at any time.
+(C)
+
+Data sharing with other agencies and persons.—In addition to reports of examination, reports of condition, and other reports required to be regularly provided to the Corporation (with respect to all insured depository institutions, including a depository institution for which the Corporation has been appointed conservator or receiver) or an appropriate State bank supervisor (with respect to a State depository institution) under subparagraph (A) or (B), a Federal banking agency may, in the discretion of the agency, furnish any report of examination or other confidential supervisory information concerning any depository institution or other entity examined by such agency under authority of any Federal law, to—
+
+&emsp;(i) any other Federal or State agency or authority with supervisory or regulatory authority over the depository institution or other entity;
+
+&emsp;(ii) any officer, director, or receiver of such depository institution or entity; and
+
+&emsp;(iii) any other person that the Federal banking agency determines to be appropriate.
+
+(3) Each insured depository institution shall make to the appropriate Federal banking agency 4 reports of condition annually upon dates which shall be selected by the Chairman of the Board of Directors, the Comptroller of the Currency, and the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision. The dates selected shall be the same for all insured depository institutions, except that when any of said reporting dates is a nonbusiness day for any depository institution, the preceding business day shall be its reporting date. Such reports of condition shall be the basis for the certified statements to be filed pursuant to subsection (c). The deposit liabilities shall be reported in said reports of conditions in accordance with and pursuant to paragraphs (4) and (5) of this subsection, and such other information shall be reported therein as may be required by the respective agencies. Each said report of condition shall contain a declaration by the president, a vice president, the cashier or the treasurer, or by any other officer designated by the board of directors or trustees of the reporting depository institution to make such declaration, that the report is true and correct to the best of his knowledge and belief. The correctness of said report of condition shall be attested by the signatures of at least two directors or trustees of the reporting depository institution other than the officer making such declaration, with a declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct. At the time of making said reports of condition each insured depository institution shall furnish to the Corporation a copy thereof containing such signed declaration and attestations. Nothing herein shall preclude any of the foregoing agencies from requiring the banks or savings associations under its jurisdiction to make additional reports of condition at any time.
 
 (4) In the reports of condition required to be made by paragraph (3) of this subsection, each insured depository institution shall report the total amount of the liability of the depository institution for deposits in the main office and in any branch located in any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, according to the definition of the term “deposit” in and pursuant to subsection (<i>l</i>) of section 1813 of this title without any deduction for indebtedness of depositors or creditors or any deduction for cash items in the process of collection drawn on others than the reporting depository institution: <i>Provided</i>, That the depository institution in reporting such deposits may (i) subtract from the deposit balance due to any depository institution the deposit balance due from the same depository institution (other than trust funds deposited by either depository institution) and any cash items in the process of collection due from or due to such depository institutions shall be included in determining such net balance, except that balances of time deposits of any depository institution and any balances standing to the credit of private depository institutions, of depository institutions in foreign countries, of foreign branches of other American depository institutions, and of American branches of foreign banks shall be reported gross without any such subtraction, and (ii) exclude any deposits received in any office of the depository institution for deposit in any other office of the depository institution: <i>And provided further</i>, That outstanding drafts (including advices and authorizations to charge depository institution's balance in another depository institution) drawn in the regular course of business by the reporting depository institution on depository institutions need not be reported as deposit liabilities. The amount of trust funds held in the depository institution's own trust department, which the reporting depository institution keeps segregated and apart from its general assets and does not use in the conduct of its business, shall not be included in the total deposits in such reports, but shall be separately stated in such reports. Deposits which are accumulated for the payment of personal loans and are assigned or pledged to assure payment of loans at maturity shall not be included in the total deposits in such reports, but shall be deducted from the loans for which such deposits are assigned or pledged to assure repayment.
 
@@ -32,9 +42,21 @@ Data collections.—In addition to or in connection with any other report requir
 
 &emsp;(B) the Corporation receives on a regular basis from such institution,
 
-> information on the total amount of all insured deposits, preferred deposits, and uninsured deposits at the institution. In prescribing reporting and other requirements for the collection of actual and accurate information pursuant to this paragraph, the Corporation shall minimize the regulatory burden imposed upon insured depository institutions that are well capitalized (as defined in section 1831<i>o</i> of this title) whiletaking into account the benefit of the information to the Corporation, including the use of the information to enable the Corporation to more accurately determine the total amount of insured deposits in each insured depository institution for purposes of compliance with this chapter.
+> information on the total amount of all insured deposits, preferred deposits, and uninsured deposits at the institution. In prescribing reporting and other requirements for the collection of actual and accurate information pursuant to this paragraph, the Corporation shall minimize the regulatory burden imposed upon insured depository institutions that are well capitalized (as defined in section 1831<i>o</i> of this title) while taking into account the benefit of the information to the Corporation, including the use of the information to enable the Corporation to more accurately determine the total amount of insured deposits in each insured depository institution for purposes of compliance with this chapter.
 
 (10) A Federal banking agency may not, by regulation or otherwise, designate, or require an insured institution or an affiliate to designate, a corporation as highly leveraged or a transaction with a corporation as a highly leveraged transaction solely because such corporation is or has been a debtor or bankrupt under title 11, if, after confirmation of a plan of reorganization, such corporation would not otherwise be highly leveraged.
+
+(11)
+
+Streamlining reports of condition.—
+
+&emsp;(A)
+
+Review of information and schedules.—Before the end of the 1-year period beginning on October 13, 2006, and before the end of each 5-year period thereafter, each Federal banking agency shall, in conjunction with the other relevant Federal banking agencies, review the information and schedules that are required to be filed by an insured depositoryinstitution in a report of condition required under paragraph (3).
+
+&emsp;(B)
+
+Reduction or elimination of information found to be unnecessary.—After completing the review required by subparagraph (A), a Federal banking agency, in conjunction with the other relevant Federal banking agencies, shall reduce or eliminate any requirement to file information or schedules under paragraph (3) (other than information or schedules that are otherwise required by law) if the agency determines that the continued collection of such information or schedules is no longer necessary or appropriate.
 
 #### (b) Assessments
 
@@ -50,13 +72,13 @@ Data collections.—In addition to or in connection with any other report requir
 
 &emsp;&emsp;&emsp;(i) obtain private reinsurance covering not more than 10 percent of any loss the Corporation incurs with respect to an insured depository institution; and
 
-&emsp;&emsp;&emsp;(ii) base that institution's semiannual assessment (in whole or in part) on the cost of the reinsurance.
+&emsp;&emsp;&emsp;(ii) base that institution's assessment (in whole or in part) on the cost of the reinsurance.
 
 #### (C) “Risk-based assessment system” defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “risk-based assessment system” means a system for calculating a depository institution's semiannual assessment based on—
+&emsp;&emsp;For purposes of this paragraph, the term “risk-based assessment system” means a system for calculating a depository institution's assessment based on—
 
-&emsp;&emsp;&emsp;(i) the probability that the deposit insurance fund will incur a loss with respect to the institution, taking into consideration the risks attributable to—
+&emsp;&emsp;&emsp;(i) the probability that the Deposit Insurance Fund will incur a loss with respect to the institution, taking into consideration the risks attributable to—
 
 &emsp;&emsp;&emsp;&emsp;(I) different categories and concentrations of assets;
 
@@ -66,141 +88,155 @@ Data collections.—In addition to or in connection with any other report requir
 
 &emsp;&emsp;&emsp;(ii) the likely amount of any such loss; and
 
-&emsp;&emsp;&emsp;(iii) the revenue needs of the deposit insurance fund.
+&emsp;&emsp;&emsp;(iii) the revenue needs of the Deposit Insurance Fund.
 
 #### (D) Separate assessment systems
 
-&emsp;&emsp;The Board of Directors may establish separate risk-based assessment systems for large and small members of each deposit insurance fund.
+&emsp;&emsp;The Board of Directors may establish separate risk-based assessment systems for large and small members of the Deposit Insurance Fund.
+
+#### (E) Information concerning risk of loss and economic conditions
+
+#### (i) Sources of information
+
+&emsp;&emsp;&emsp;For purposes of determining risk of losses at insured depository institutions and economic conditions generally affecting depository institutions, the Corporation shall collect information, as appropriate, from all sources the Board of Directors considers appropriate, such as reports of condition, inspection reports, and other information from all Federal banking agencies, any information available from State bank supervisors, State insurance and securities regulators, the Securities and Exchange Commission (including information described in section 1831<i>l</i> of this title), the Secretary of the Treasury, the Commodity Futures Trading Commission, the Farm Credit Administration, the Federal Trade Commission, any Federal reserve bank or Federal home loan bank, and other regulators of financial institutions, and any information available from credit rating entities, and other private economic or business analysts.
+
+#### (ii) Consultation with Federal banking agencies
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), in assessing the risk of loss to the Deposit Insurance Fund with respect to any insured depository institution, the Corporation shall consult with the appropriate Federal banking agency of such institution.
+
+#### (II) Treatment on aggregate basis
+
+&emsp;&emsp;&emsp;&emsp;In the case of insured depository institutions that are well capitalized (as defined in section 1831<i>o</i> of this title) and, in the most recent examination, were found to be well managed, the consultation under subclause (I) concerning the assessment of the risk of loss posed by such institutions may be made on an aggregate basis.
+
+#### (iii) Rule of construction
+
+&emsp;&emsp;&emsp;No provision of this paragraph shall be construed as providing any new authority for the Corporation to require submission of information by insured depository institutions to the Corporation.
+
+#### (F) Modifications to the risk-based assessment system allowed only after notice and comment
+
+&emsp;&emsp;In revising or modifying the risk-based assessment system at any time after February 8, 2006, the Board of Directors may implement such revisions or modification in final form only after notice and opportunity for comment.
 
 #### (2) Setting assessments
 
-#### (A) Achieving and maintaining designated reserve ratio
+#### (A) In general
 
-#### (i) In general
+&emsp;&emsp;The Board of Directors shall set assessments for insured depository institutions in such amounts as the Board of Directors may determine to be necessary or appropriate, subject to subparagraph (D).
 
-&emsp;&emsp;&emsp;The Board of Directors shall set semiannual assessments for insured depository institutions when necessary, and only to the extent necessary—
+#### (B) Factors to be considered
 
-&emsp;&emsp;&emsp;&emsp;(I) to maintain the reserve ratio of each deposit insurance fund at the designated reserve ratio; or
+&emsp;&emsp;In setting assessments under subparagraph (A), the Board of Directors shall consider the following factors:
 
-&emsp;&emsp;&emsp;&emsp;(II) if the reserve ratio is less than the designated reserve ratio, to increase the reserve ratio to the designated reserve ratio as provided in paragraph (3).
+&emsp;&emsp;&emsp;(i) The estimated operating expenses of the Deposit Insurance Fund.
 
-#### (ii) Factors to be considered
+&emsp;&emsp;&emsp;(ii) The estimated case resolution expenses and income of the Deposit Insurance Fund.
 
-&emsp;&emsp;&emsp;In carrying out clause (i), the Board of Directors shall consider the deposit insurance fund's—
+&emsp;&emsp;&emsp;(iii) The projected effects of the payment of assessments on the capital and earnings of insured depository institutions.
 
-&emsp;&emsp;&emsp;&emsp;(I) expected operating expenses,
+&emsp;&emsp;&emsp;(iv) The risk factors and other factors taken into account pursuant to paragraph (1) under the risk-based assessment system, including the requirement under such paragraph to maintain a risk-based system.
 
-&emsp;&emsp;&emsp;&emsp;(II) case resolution expenditures and income,
-
-&emsp;&emsp;&emsp;&emsp;(III) the effect of assessments on members’ earnings and capital, and
-
-&emsp;&emsp;&emsp;&emsp;(IV) any other factors that the Board of Directors may deem appropriate.
-
-#### (iii) Limitation on assessment
-
-&emsp;&emsp;&emsp;Except as provided in clause (v), the Board of Directors shall not set semiannual assessments with respect to a deposit insurance fund in excess of the amount needed—
-
-&emsp;&emsp;&emsp;&emsp;(I) to maintain the reserve ratio of the fund at the designated reserve ratio; or
-
-&emsp;&emsp;&emsp;&emsp;(II) if the reserve ratio is less than the designated reserve ratio, to increase the reserve ratio to the designated reserve ratio.
-
-#### (iv) Designated reserve ratio defined
-
-&emsp;&emsp;&emsp;The designated reserve ratio of each deposit insurance fund for each year shall be—
-
-&emsp;&emsp;&emsp;&emsp;(I) 1.25 percent of estimated insured deposits; or
-
-&emsp;&emsp;&emsp;&emsp;(II) a higher percentage of estimated insured deposits that the Board of Directors determines to be justified for that year by circumstances raising a significant risk of substantial future losses to the fund.
-
-#### (v) Exception to limitation on assessments
-
-&emsp;&emsp;&emsp;The Board of Directors may set semiannual assessments in excess of the amount permitted under clauses (i) and (iii) with respect to insured depository institutions that exhibit financial, operational, or compliance weaknesses ranging from moderately severe to unsatisfactory, or are not well capitalized, as that term is defined in section 1831<i>o</i> of this title.
-
-#### (B) Independent treatment of funds
-
-&emsp;&emsp;The Board of Directors shall—
-
-&emsp;&emsp;&emsp;(i) set semiannual assessments for members of each deposit insurance fund independently from semiannual assessments for members of any other deposit insurance fund; and
-
-&emsp;&emsp;&emsp;(ii) set the designated reserve ratio of each deposit insurance fund independently from the designated reserve ratio of any other deposit insurance fund.
+&emsp;&emsp;&emsp;(v) Any other factors the Board of Directors may determine to be appropriate.
 
 #### (C) Notice of assessments
 
-&emsp;&emsp;The Corporation shall notify each insured depository institution of that institution's semiannual assessment.
+&emsp;&emsp;The Corporation shall notify each insured depository institution of that institution's assessment.
 
-#### (D) Repealed. Pub. L. 104–208, div. A, title II, §2703(b), Sept. 30, 1996, 110 Stat. 3009–485
+#### (D) No discrimination based on size
 
-#### (E) Minimum assessments
+&emsp;&emsp;No insured depository institution shall be barred from the lowest-risk category solely because of size.
 
-&emsp;&emsp;The Corporation shall design the risk-based assessment system for any deposit insurance fund so that, if the Corporation has borrowings outstanding under section 1824 of this title on behalf of that fund or the reserve ratio of that fund remains below the designated reserve ratio, the total amount raised by semiannual assessments on members of that fund shall be not less than the total amount that would have been raised if—
-
-&emsp;&emsp;&emsp;(i) this subsection as in effect on July 15, 1991 remained in effect;
-
-&emsp;&emsp;&emsp;(ii) the assessment rate in effect on July 15, 1991 remained in effect; and
-
-&emsp;&emsp;&emsp;(iii) notwithstanding any other provision of this subsection, during the period beginning on September 30, 1996, and ending on December 31, 1998, the assessment rate for a Savings Association Insurance Fund member may not be less than the assessment rate for a Bank Insurance Fund member that poses a comparable risk to the deposit insurance fund.
-
-#### (F) Transition rule for Savings Association Insurance Fund
-
-&emsp;&emsp;With respect to the Savings Association Insurance Fund, during the period beginning on the effective date of the amendments made by section 302(a) of the Federal Deposit Insurance Corporation Improvement Act of 1991 and ending on December 31, 1997—
-
-&emsp;&emsp;&emsp;(i) subparagraph (A)(i)(II) shall apply as if such subparagraph did not include “as provided in paragraph (3)”; and
-
-&emsp;&emsp;&emsp;(ii) subparagraph (E) shall be applied by substituting “if this subsection as in effect on July 15, 1991 remained in effect.” for “if—” and all that follows through clause (ii).
-
-#### (G) Special rule until the insurance funds achieve the designated reserve ratio
-
-&emsp;&emsp;Until a deposit insurance fund achieves the designated reserve ratio, the Corporation may limit the maximum assessment on insured depository institutions under the risk-based assessment system authorized under paragraph (1) to not less than 10 basis points above the average assessment on insured depository institutions under that system.
-
-#### (H) Bank Enterprise Act requirement
+#### (E) Bank Enterprise Act requirement
 
 &emsp;&emsp;The Corporation shall design the risk-based assessment system so that, insofar as the system bases assessments, directly or indirectly, on deposits, the portion of the deposits of any insured depository institution which are attributable to lifeline accounts established in accordance with the Bank Enterprise Act of 1991 shall be subject to assessment at a rate determined in accordance with such Act.
 
-#### (3) Special rule for recapitalizing undercapitalized funds
+#### (3) Designated reserve ratio
 
-#### (A) In general
+#### (A) Establishment
 
-&emsp;&emsp;Except as provided in paragraph (2)(F), if the reserve ratio of any deposit insurance fund is less than the designated reserve ratio under paragraph (2)(A)(iv), the Board of Directors shall set semiannual assessment rates for members of that fund—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) that are sufficient to increase the reserve ratio for that fund to the designated reserve ratio not later than 1 year after such rates are set; or
+&emsp;&emsp;&emsp;Before the beginning of each calendar year, the Board of Directors shall designate the reserve ratio applicable with respect to the Deposit Insurance Fund and publish the reserve ratio so designated.
 
-&emsp;&emsp;&emsp;(ii) in accordance with a schedule promulgated by the Corporation under subparagraph (B).
+#### (ii) Rulemaking requirement
 
-#### (B) Recapitalization schedules
+&emsp;&emsp;&emsp;Any change to the designated reserve ratio shall be made by the Board of Directors by regulation after notice and opportunity for comment.
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), the Corporation shall by regulation promulgate a schedule that specifies, at semiannual intervals, target reserve ratios for that fund, culminating in a reserve ratio that is equal to the designated reserve ratio not later than 15 years after the date on which the schedule is implemented.
+#### (B) Range
 
-#### (C) Amending schedule
+&emsp;&emsp;The reserve ratio designated by the Board of Directors for any year—
 
-&emsp;&emsp;The Corporation may, by regulation, amend a schedule promulgated under subparagraph (B) and such amendment may extend the date specified in subparagraph (B) to such later date as the Corporation determines will, over time, maximize the amount of semiannual assessments received by the Savings Association Insurance Fund, net of insurance losses incurred by the Fund.
+&emsp;&emsp;&emsp;(i) may not exceed 1.5 percent of estimated insured deposits; and
 
-#### (D) Application to SAIF members
+&emsp;&emsp;&emsp;(ii) may not be less than 1.15 percent of estimated insured deposits.
 
-&emsp;&emsp;This paragraph shall become applicable to Savings Association Insurance Fund members on January 1, 1998.
+#### (C) Factors
 
-#### (4) “Semiannual period” defined
+&emsp;&emsp;In designating a reserve ratio for any year, the Board of Directors shall—
 
-&emsp;For purposes of this section, the term “semiannual period” means a period beginning on January 1 of any calendar year and ending on June 30 of the same year, or a period beginning on July 1 of any calendar year and ending on December 31 of the same year.
+&emsp;&emsp;&emsp;(i) take into account the risk of losses to the Deposit Insurance Fund in such year and future years, including historic experience and potential and estimated losses from insured depository institutions;
 
-#### (5) Records to be maintained
+&emsp;&emsp;&emsp;(ii) take into account economic conditions generally affecting insured depository institutions so as to allow the designated reserve ratio to increase during more favorable economic conditions and to decrease during less favorable economic conditions, notwithstanding the increased risks of loss that may exist during such less favorable conditions, as determined to be appropriate by the Board of Directors;
 
-&emsp;Each insured depository institution shall maintain all records that the Corporation may require for verifying the correctness of the institution's semiannual assessments. No insured depository institution shall be required to retain those records for that purpose for a period of more than 5 years from the date of the filing of any certified statement, except that when there is a dispute between the insured depository institution and the Corporation over the amount of any assessment, the depository institution shall retain the records until final determination of the issue.
+&emsp;&emsp;&emsp;(iii) seek to prevent sharp swings in the assessment rates for insured depository institutions; and
 
-#### (6) Emergency special assessments
+&emsp;&emsp;&emsp;(iv) take into account such other factors as the Board of Directors may determine to be appropriate, consistent with the requirements of this subparagraph.
 
-&emsp;In addition to the other assessments imposed on insured depository institutions under this subsection, the Corporation may impose 1 or more special assessments on insured depository institutions in an amount determined bythe Corporation if the amount of any such assessment—
+#### (D) Publication of proposed change in ratio
 
-&emsp;&emsp;(A) is necessary—
+&emsp;&emsp;In soliciting comment on any proposed change in the designated reserve ratio in accordance with subparagraph (A), the Board of Directors shall include in the published proposal a thorough analysis of the data and projections on which the proposal is based.
 
-&emsp;&emsp;&emsp;(i) to provide sufficient assessment income to repay amounts borrowed from the Secretary of the Treasury under section 1824(a) of this title in accordance with the repayment schedule in effect under section 1824(c) of this title during the period with respect to which such assessment is imposed;
+#### (E) DIF restoration plans
 
-&emsp;&emsp;&emsp;(ii) to provide sufficient assessment income to repay obligations issued to and other amounts borrowed from Bank Insurance Fund members under section 1824(d) of this title; or
+#### (i) In general
 
-&emsp;&emsp;&emsp;(iii) for any other purpose the Corporation may deem necessary; and
+&emsp;&emsp;&emsp;Whenever—
 
-&emsp;&emsp;(B) is allocated between Bank Insurance Fund members and Savings Association Insurance Fund members in amounts which reflect the degree to which the proceeds of the amounts borrowed are to be used for the benefit of the respective insurance funds.
+&emsp;&emsp;&emsp;&emsp;(I) the Corporation projects that the reserve ratio of the Deposit Insurance Fund will, within 6 months of such determination, fall below the minimum amount specified in subparagraph (B)(ii) for the designated reserve ratio; or
 
-#### (7) Community enterprise credits
+&emsp;&emsp;&emsp;&emsp;(II) the reserve ratio of the Deposit Insurance Fund actually falls below the minimum amount specified in subparagraph (B)(ii) for the designated reserve ratio without any determination under subclause (I) having been made,
+
+&emsp;&emsp;&nbsp;the Corporation shall establish and implement a Deposit Insurance Fund restoration plan within 90 days that meets the requirements of clause (ii) and such other conditions as the Corporation determines to be appropriate.
+
+#### (ii) Requirements of restoration plan
+
+&emsp;&emsp;&emsp;A Deposit Insurance Fund restoration plan meets the requirements of this clause if the plan provides that the reserve ratio of the Fund will meet or exceed the minimum amount specified in subparagraph (B)(ii) for the designated reserve ratio before the end of the 5-year period beginning upon the implementation of the plan (or such longer period as the Corporation may determine to be necessary due to extraordinary circumstances).
+
+#### (iii) Restriction on assessment credits
+
+&emsp;&emsp;&emsp;As part of any restoration plan under this subparagraph, the Corporation may elect to restrict the application of assessment credits provided under subsection (e)(3) for any period that the plan is in effect.
+
+#### (iv) Limitation on restriction
+
+&emsp;&emsp;&emsp;Notwithstanding clause (iii), while any restoration plan under this subparagraph is in effect, the Corporation shall apply credits provided to an insured depository institution under subsection (e)(3) against any assessment imposed on the institution for any assessment period in an amount equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the assessment; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount equal to 3 basis points of the institution's assessment base.
+
+#### (v) Transparency
+
+&emsp;&emsp;&emsp;Not more than 30 days after the Corporation establishes and implements a restoration plan under clause (i), the Corporation shall publish in the Federal Register a detailed analysis of the factors considered and the basis for the actions taken with regard to the plan.
+
+#### (4) Depository institution required to maintain assessment-related records
+
+&emsp;Each insured depository institution shall maintain all records that the Corporation may require for verifying the correctness of any assessment on the insured depository institution under this subsection until the later of—
+
+&emsp;&emsp;(A) the end of the 3-year period beginning on the due date of the assessment; or
+
+&emsp;&emsp;(B) in the case of a dispute between the insured depository institution and the Corporation with respect to such assessment, the date of a final determination of any such dispute.
+
+#### (5) Emergency special assessments
+
+&emsp;In addition to the other assessments imposed on insured depository institutions under this subsection, the Corporation may impose 1 or more special assessments on insured depository institutions in an amount determined by the Corporation if the amount of any such assessment is necessary—
+
+&emsp;&emsp;(A) to provide sufficient assessment income to repay amounts borrowed from the Secretary of the Treasury under section 1824(a) of this title in accordance with the repayment schedule in effect under section 1824(c) of this title during the period with respect to which such assessment is imposed;
+
+&emsp;&emsp;(B) to provide sufficient assessment income to repay obligations issued to and other amounts borrowed from insured depository institutions under section 1824(d) of this title; or
+
+&emsp;&emsp;(C) for any other purpose that the Corporation may deem necessary.
+
+#### (6) Community enterprise credits
 
 &emsp;The Corporation shall allow a credit against any semiannual assessment to any insured depository institution which satisfies the requirements of the Community Enterprise Assessment Credit Board under section 233(a)(1) of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a(a)(1)\] in the amount determined by such Board by regulation.
 
@@ -210,7 +246,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution shall file with the Corporation a certified statement containing such information as the Corporation may require for determining the institution's semiannual assessment.
+&emsp;&emsp;Each insured depository institution shall file with the Corporation a certified statement containing such information as the Corporation may require for determining the institution's assessment.
 
 #### (B) Form of certification
 
@@ -224,7 +260,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution shall pay to the Corporation the semiannual assessment imposed under subsection (b) of this section.
+&emsp;&emsp;Each insured depository institution shall pay to the Corporation the assessment imposed under subsection (b) of this section.
 
 #### (B) Form of payment
 
@@ -232,7 +268,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (3) Newly insured institutions
 
-&emsp;To facilitate the administration of this section, the Board of Directors may waive the requirements of paragraphs (1) and (2) for the semiannual period in which a depository institution becomes insured.
+&emsp;To facilitate the administration of this section, the Board of Directors may waive the requirements of paragraphs (1) and (2) for the initial assessment period in which a depository institution becomes insured.
 
 #### (4) Penalty for failure to make accurate certified statement
 
@@ -260,59 +296,171 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (E) Hearing
 
-&emsp;&emsp;Any insured depository institution against which any penalty is assessed under thisparagraph shall be afforded an agency hearing if the institution submits a request for such hearing within 20 days after the issuance of the notice of the assessment. Section 1818(h) of this title shall apply to any proceeding under this subparagraph.
+&emsp;&emsp;Any insured depository institution against which any penalty is assessed under this paragraph shall be afforded an agency hearing if the institution submits a request for such hearing within 20 days after the issuance of the notice of the assessment. Section 1818(h) of this title shall apply to any proceeding under this subparagraph.
 
 #### (d) Corporation exempt from apportionment
 
 Notwithstanding any other provision of law, amounts received pursuant to any assessment under this section and any other amounts received by the Corporation shall not be subject to apportionment for the purposes of chapter 15 of title 31 or under any other authority.
 
-#### (e) Refunds
+#### (e) Refunds, dividends, and credits
 
-#### (1) Overpayments
+#### (1) Refunds of overpayments
 
 &emsp;In the case of any payment of an assessment by an insured depository institution in excess of the amount due to the Corporation, the Corporation may—
 
 &emsp;&emsp;(A) refund the amount of the excess payment to the insured depository institution; or
 
-&emsp;&emsp;(B) credit such excess amount toward the payment of subsequent semiannual assessments until such credit is exhausted.
+&emsp;&emsp;(B) credit such excess amount toward the payment of subsequent assessments until such credit is exhausted.
 
-#### (2) Balance in insurance fund in excess of designated reserve
+#### (2) Dividends from excess amounts in Deposit Insurance Fund
+
+#### (A) Reserve ratio in excess of 1.5 percent of estimated insured deposits
+
+&emsp;&emsp;If, at the end of a calendar year, the reserve ratio of the Deposit Insurance Fund exceeds 1.5 percent of estimated insured deposits, the Corporation shall declare the amount in the Fund in excess of the amount required to maintain the reserve ratio at 1.5 percent of estimated insured deposits, as dividends to be paid to insured depository institutions.
+
+#### (B) Reserve ratio equal to or in excess of 1.35 percent of estimated insured deposits and not more than 1.5 percent
+
+&emsp;&emsp;If, at the end of a calendar year, the reserve ratio of the Deposit Insurance Fund equals or exceeds 1.35 percent of estimated insured deposits and is not more than 1.5 percent of such deposits, the Corporation shall declare the amount in the Fund that is equal to 50 percent of the amount in excess of the amount required to maintain the reserve ratio at 1.35 percent of the estimated insured deposits as dividends to be paid to insured depository institutions.
+
+#### (C) Basis for distribution of dividends
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Solely for the purposes of dividend distribution under this paragraph, the Corporation shall determine each insured depository institution's relative contribution to the Deposit Insurance Fund (or any predecessor deposit insurance fund) for calculating such institution's share of any dividend declared under this paragraph, taking into account the factors described in clause (ii).
+
+#### (ii) Factors for distribution
+
+&emsp;&emsp;&emsp;In implementing this paragraph in accordance with regulations, the Corporation shall take into account the following factors:
+
+&emsp;&emsp;&emsp;&emsp;(I) The ratio of the assessment base of an insured depository institution (including any predecessor) on December 31, 1996, to the assessment base of all eligible insured depository institutions on that date.
+
+&emsp;&emsp;&emsp;&emsp;(II) The total amount of assessments paid on or after January 1, 1997, by an insured depository institution (including any predecessor) to the Deposit Insurance Fund (and any predecessor deposit insurance fund).
+
+&emsp;&emsp;&emsp;&emsp;(III) That portion of assessments paid by an insured depository institution (including any predecessor) that reflects higher levels of risk assumed by such institution.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Such other factors as the Corporation may determine to be appropriate.
+
+#### (D) Notice and opportunity for comment
+
+&emsp;&emsp;The Corporation shall prescribe by regulation, after notice and opportunity for comment, the method for the calculation, declaration, and payment of dividends under this paragraph.
+
+#### (E) Limitation
+
+&emsp;&emsp;The Board of Directors may suspend or limit dividends paid under subparagraph (B), if the Board determines in writing that—
+
+&emsp;&emsp;&emsp;(i) a significant risk of losses to the Deposit Insurance Fund exists over the next 1-year period; and
+
+&emsp;&emsp;&emsp;(ii) it is likely that such losses will be sufficiently high as to justify a finding by the Board that the reserve ratio should temporarily be allowed—
+
+&emsp;&emsp;&emsp;&emsp;(I) to grow without requiring dividends under subparagraph (B); or
+
+&emsp;&emsp;&emsp;&emsp;(II) to exceed the maximum amount established under subsection (b)(3)(B)(i).
+
+#### (F) Considerations
+
+&emsp;&emsp;In making a determination under subparagraph (E), the Board shall consider—
+
+&emsp;&emsp;&emsp;(i) national and regional conditions and their impact on insured depository institutions;
+
+&emsp;&emsp;&emsp;(ii) potential problems affecting insured depository institutions or a specific group or type of depository institution;
+
+&emsp;&emsp;&emsp;(iii) the degree to which the contingent liability of the Corporation for anticipated failures of insured institutions adequately addresses concerns over funding levels in the Deposit Insurance Fund; and
+
+&emsp;&emsp;&emsp;(iv) any other factors that the Board determines are appropriate.
+
+#### (G) Review of determination
+
+#### (i) Annual review
+
+&emsp;&emsp;&emsp;A determination to suspend or limit dividends under subparagraph (E) shall be reviewed by the Board of Directors annually.
+
+#### (ii) Action by Board
+
+&emsp;&emsp;&emsp;Based on each annual review under clause (i), the Board of Directors shall either renew or remove a determination to suspend or limit dividends under subparagraph (E), or shall make a new determination in accordance with this paragraph. Unless justified under the terms of the renewal or new determination, the Corporation shall be required to provide cash dividends under subparagraph (A) or (B), as appropriate.
+
+#### (3) One-time credit based on total assessment base at year-end 1996
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), if, as of the end of any semiannual assessment period beginning after September 30, 1996, the amount of the actual reserves in—
+&emsp;&emsp;Before the end of the 270-day period beginning on February 8, 2006, the Board of Directors shall, by regulation after notice and opportunity for comment, provide for a credit to each eligible insured depository institution (or a successor insured depository institution), based on the assessment base of the institution on December 31, 1996, as compared to the combined aggregate assessment base of all eligible insured depository institutions, taking into account such factors as the Board of Directors may determine to be appropriate.
 
-&emsp;&emsp;&emsp;(i) the Bank Insurance Fund (until the merger of such fund into the Deposit Insurance Fund pursuant to section 2704 of the Deposit Insurance Funds Act of 1996); or
+#### (B) Credit limit
 
-&emsp;&emsp;&emsp;(ii) the Deposit Insurance Fund (after the establishment of such fund),
+&emsp;&emsp;The aggregate amount of credits available under subparagraph (A) to all eligible insured depository institutions shall equal the amount that the Corporation could collect if the Corporation imposed an assessment of 10.5 basis points on the combined assessment base of the Bank Insurance Fund and the Savings Association Insurance Fund as of December 31, 2001.
 
-> &emsp;&emsp;exceeds the balance required to meet the designated reserve ratio applicable with respect to such fund, such excess amount shall be refunded to insured depository institutions by the Corporation on such basis as the Board of Directors determines to be appropriate, taking into account the factors considered under the risk-based assessment system.
+#### (C) Eligible insured depository institution defined
 
-#### (B) Refund not to exceed previous semiannual assessment
+&emsp;&emsp;For purposes of this paragraph, the term “eligible insured depository institution” means any insured depository institution that—
 
-&emsp;&emsp;The amount of any refund under this paragraph to any member of a deposit insurance fund for any semiannual assessment period may not exceed the total amount of assessments paid by such member to the insurance fund with respect to such period.
+&emsp;&emsp;&emsp;(i) was in existence on December 31, 1996, and paid a deposit insurance assessment prior to that date; or
 
-#### (C) Refund limitation for certain institutions
+&emsp;&emsp;&emsp;(ii) is a successor to any insured depository institution described in clause (i).
 
-&emsp;&emsp;No refund may be made under this paragraph with respect to the amount of any assessment paid for any semiannual assessment period by any insured depository institution described in clause (v) of subsection (b)(2)(A) of this section.
+#### (D) Application of credits
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the amount of a credit to any eligible insured depository institution under this paragraph shall be applied by the Corporation, subject to subsection (b)(3)(E), to the assessments imposed on such institution under subsection (b) that become due for assessment periods beginning after the effective date of regulations prescribed under subparagraph (A).
+
+#### (ii) Temporary restriction on use of credits
+
+&emsp;&emsp;&emsp;The amount of a credit to any eligible insured depository institution under this paragraph may not be applied to more than 90 percent of the assessments imposed on such institution under subsection (b) that become due for assessment periods beginning in fiscal years 2008, 2009, and 2010.
+
+#### (iii) Regulations
+
+&emsp;&emsp;&emsp;The regulations prescribed under subparagraph (A) shall establish the qualifications and procedures governing the application of assessment credits pursuant to clause (i).
+
+#### (E) Limitation on amount of credit for certain depository institutions
+
+&emsp;&emsp;In the case of an insured depository institution that exhibits financial, operational, or compliance weaknesses ranging from moderately severe to unsatisfactory, or is not adequately capitalized (as defined in section 1831<i>o</i> of this title) at the beginning of an assessment period, the amount of any credit allowed under this paragraph against the assessment on that depository institution for such period may not exceed the amount calculated by applying to that depository institution the average assessment rate on all insured depository institutions for such assessment period.
+
+#### (F) Successor defined
+
+&emsp;&emsp;The Corporation shall define the term “successor” for purposes of this paragraph, by regulation, and may consider any factors as the Board may deem appropriate.
+
+#### (4) Administrative review
+
+#### (A) In general
+
+&emsp;&emsp;The regulations prescribed under paragraphs (2)(D) and (3) shall include provisions allowing an insured depository institution a reasonable opportunity to challenge administratively the amount of the credit or dividend determined under paragraph (2) or (3) for such institution.
+
+#### (B) Administrative review
+
+&emsp;&emsp;Any review under subparagraph (A) of any determination of the Corporation under paragraph (2) or (3) shall be final and not subject to judicial review.
 
 #### (f) Action against depository institutions failing to file certified statements
 
 Any insured depository institution which fails to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by it in connection with determining the amount of any assessment payable by the depository institution to the Corporation may be compelled to make such report or file such statement by mandatory injunction or other appropriate remedy in a suit brought for such purpose by the Corporation against the depository institution and any officer or officers thereof in any court of the United States of competent jurisdiction in the District or Territory in which such depository institution is located.
 
-#### (g) Action by Corporation to recover assessments
+#### (g) Assessment actions
 
-The Corporation, in a suit brought at law or in equity in any court of competent jurisdiction, shall be entitled to recover from any insured depository institution the amount of any unpaid assessment lawfully payable by such insured depository institution to the Corporation, whether or not such depository institution shall have made any such report of condition under subsection (a) of this section or filed any such certified statement and whether or not suit shall have been brought to compel the depository institution to make any such report or file any such statement. No action or proceeding shall be brought for the recovery of any assessment due to the Corporation, or for the recovery of any amount paid to the Corporation in excess of the amount due to it, unless such action or proceeding shall have been brought within five years after the right accrued for which the claim is made, except where the insured depository institution has made or filed with the Corporation a false or fraudulent certified statement with the intent to evade, in whole or in part, the payment of assessment, in which case the claim shall not be deemed to have accrued until the discovery by the Corporation that the certified statement is false or fraudulent: <i>Provided, however</i>, That where a cause of action has already accrued, and the period herein prescribed within which an action may be brought has expired, or will expire within one year from September 21, 1950, an action may be brought on such cause of action within one year from September 21, 1950: <i>And provided further</i>, That no action or proceeding shall be brought for the recovery of any assessment on deposits alleged to have been omitted from the assessment base of any insured depository institution for any year prior to 1945 except that any claim of the Corporation for the payment of any assessment may be offset by it against any claim of the depository institution for the overpayment of any assessment.
+#### (1) In general
+
+&emsp;The Corporation, in any court of competent jurisdiction, shall be entitled to recover from any insured depository institution the amount of any unpaid assessment lawfully payable by such insured depository institution.
+
+#### (2) Statute of limitations
+
+&emsp;The following provisions shall apply to actions relating to assessments, notwithstanding any other provision in Federal law, or the law of any State:
+
+&emsp;&emsp;(A) Any action by an insured depository institution to recover from the Corporation the overpaid amount of any assessment shall be brought within 3 years after the date the assessment payment was due, subject to the exception in subparagraph (E).
+
+&emsp;&emsp;(B) Any action by the Corporation to recover from an insured depository institution the underpaid amount of any assessment shall be brought within 3 years after the date the assessment payment was due, subject to the exceptions in subparagraphs (C) and (E).
+
+&emsp;&emsp;(C) If an insured depository institution has made a false or fraudulent statement with intent to evade any or all of its assessment, the Corporation shall have until 3 years after the date of discovery of the false or fraudulent statement in which to bring an action to recover the underpaid amount.
+
+&emsp;&emsp;(D) Except as provided in subparagraph (C), assessment deposit information contained in records no longer required to be maintained pursuant to subsection (b)(4) shall be considered conclusive and not subject to change.
+
+&emsp;&emsp;(E) Any action for the underpaid or overpaid amount of any assessment that became due before January 1, 2007, shall be subject to the statute of limitations for assessments in effect at the time the assessment became due.
 
 #### (h) Forfeiture of rights for failure to comply with law
 
-Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failedto make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) of this section shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
+Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) of this section shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
 
 #### (i) Insurance of trust funds
 
 #### (1) In general
 
-&emsp;Trust funds held on deposit by an insured depository institution in a fiduciary capacity as trustee pursuant to any irrevocable trust established pursuant to any statute or written trust agreement shall be insured in an amount not to exceed $100,000 for each trust estate.
+&emsp;Trust funds held on deposit by an insured depository institution in a fiduciary capacity as trustee pursuant to any irrevocable trust established pursuant to any statute or written trust agreement shall be insured in an amount not to exceed the standard maximum deposit insurance amount (as determined under section 1821(a)(1) of this title) for each trust estate.
 
 #### (2) Interbank deposits
 
@@ -320,7 +468,7 @@ Should any national member bank or any insured national nonmember bank fail to m
 
 #### (3) Bank deposit financial assistance program
 
-&emsp;Notwithstanding paragraph (1), funds deposited by an insured depository institution pursuant to the Bank Deposit Financial Assistance Program of the Department of Energy shall be separately insured in an amount not to exceed $100,000 for each insured depository institution depositing such funds.
+&emsp;Notwithstanding paragraph (1), funds deposited by an insured depository institution pursuant to the Bank Deposit Financial Assistance Program of the Department of Energy shall be separately insured in an amount not to exceed the standard maximum deposit insurance amount (as determined under section 1821(a)(1) of this title) for each insured depository institution depositing such funds.
 
 #### (4) Regulations
 
@@ -336,7 +484,11 @@ Should any national member bank or any insured national nonmember bank fail to m
 
 &emsp;(C) the agency has been unable to complete the investigation of an acquiring party under paragraph (2)(B) because of any delay caused by, or the inadequate cooperation of, such acquiring party; or
 
-&emsp;(D) the agency determines that additional time is needed to investigate and determine that no acquiring party has a record of failing to comply with the requirements of subchapter II of chapter 53 of title 31.
+&emsp;(D) the agency determines that additional time is needed—
+
+&emsp;&emsp;(i) to investigate and determine that no acquiring party has a record of failing to comply with the requirements of subchapter II of chapter 53 of title 31; or
+
+&emsp;&emsp;(ii) to analyze the safety and soundness of any plans or proposals described in paragraph (6)(E) or the future prospects of the institution.
 
 > An acquisition may be made prior to expiration of the disapproval period if the agency issues written notice of its intent not to disapprove the action.
 
@@ -376,13 +528,13 @@ Public Comment.—Upon receiving notice of a proposed acquisition, the appropria
 
 &emsp;(A) The identity, personal history, business background and experience of each person by whom or on whose behalf the acquisition is to be made, including his material business activities and affiliations during the past five years, and a description of any material pending legal or administrative proceedings in which he is a party and any criminal indictment or conviction of such person by a State or Federal court.
 
-&emsp;(B) A statement of the assets and liabilities of each person by whom or on whose behalf the acquisition is to be made, as of the end of the fiscal year for each of the five fiscal years immediately preceding the date of the notice, together with related statements of income and source and application of funds for each of the fiscal years then concluded, all prepared in accordance with generally accepted accounting principles consistently applied, and an interim statement of the assets and liabilities for each such person, together with related statements of income and source and application of funds, as of a date not more than ninety days prior to the date of the filing of the notice.
+&emsp;(B) A statement of the assets and liabilities of each person by whom or on whose behalf theacquisition is to be made, as of the end of the fiscal year for each of the five fiscal years immediately preceding the date of the notice, together with related statements of income and source and application of funds for each of the fiscal years then concluded, all prepared in accordance with generally accepted accounting principles consistently applied, and an interim statement of the assets and liabilities for each such person, together with related statements of income and source and application of funds, as of a date not more than ninety days prior to the date of the filing of the notice.
 
 &emsp;(C) The terms and conditions of the proposed acquisition and the manner in which the acquisition is to be made.
 
 &emsp;(D) The identity, source and amount of the funds or other consideration used or to be used in making the acquisition, and if any part of these funds or other consideration has been or is to be borrowed or otherwise obtained for the purpose of making the acquisition, a description of the transaction, the names of the parties, and any arrangements, agreements, or understandings with such persons.
 
-&emsp;(E) Any plans or proposals which any acquiring party making the acquisition may have to liquidate the bank,<sup>3</sup> to sell its assets or merge it with any company or to make any other major change in its business or corporate structure or management.
+&emsp;(E) Any plans or proposals which any acquiring party making the acquisition may have to liquidate the bank,<sup>2</sup> to sell its assets or merge it with any company or to make any other major change in its business or corporate structure or management.
 
 &emsp;(F) The identification of any person employed, retained, or to be compensated by the acquiring party, or by any person on his behalf, to make solicitations or recommendations to stockholders for the purpose of assisting in the acquisition, and a brief description of the terms of such employment, retainer, or arrangement for compensation.
 
@@ -396,13 +548,13 @@ Public Comment.—Upon receiving notice of a proposed acquisition, the appropria
 
 &emsp;(B) the effect of the proposed acquisition of control in any section of the country may be substantially to lessen competition or to tend to create a monopoly or the proposed acquisition of control would in any other manner be in restraint of trade, and the anticompetitive effects of the proposed acquisition of control are not clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served;
 
-&emsp;(C) the financial condition of any acquiring person is such as might jeopardize the financial stability of the bank <sup>3</sup> or prejudice the interests of the depositors of the bank; <sup>3</sup>
+&emsp;(C) either the financial condition of any acquiring person or the future prospects of the institution is such as might jeopardize the financial stability of the bank <sup>2</sup> or prejudice the interests of the depositors of the bank; <sup>2</sup>
 
-&emsp;(D) the competence, experience, or integrity of any acquiring person or of any of the proposed management personnel indicates that it would not be in the interest of the depositors of the bank, or in the interest of the public to permit such person to control the bank; <sup>3</sup>
+&emsp;(D) the competence, experience, or integrity of any acquiring person or of any of the proposed management personnel indicates that it would not be in the interest of the depositors of the bank, or in the interest of the public to permit such person to control the bank; <sup>2</sup>
 
 &emsp;(E) any acquiring person neglects, fails, or refuses to furnish the appropriate Federal banking agency all the information required by the appropriate Federal banking agency; or
 
-&emsp;(F) the appropriate Federal banking agency determines that the proposed transaction would result in an adverse effect on the Bank Insurance Fund or the Savings Association Insurance Fund.
+&emsp;(F) the appropriate Federal banking agency determines that the proposed transaction would result in an adverse effect on the Deposit Insurance Fund.
 
 (8) For the purposes of this subsection, the term—
 
@@ -698,75 +850,35 @@ For purposes of this section:
 
 &emsp;&emsp;(B) the sum of—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount of offsets made before August 9, 1989, by all insured institutions under section 404(e)(2) <sup>4</sup> of the National Housing Act \[12 U.S.C. 1727(e)(2)\] (as in effect before August 9, 1989); and
+&emsp;&emsp;&emsp;(i) the aggregate amount of offsets made before August 9, 1989, by all insured institutions under section 404(e)(2) <sup>3</sup> of the National Housing Act \[12 U.S.C. 1727(e)(2)\] (as in effect before August 9, 1989); and
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount of offsets made by all savings associations under this subsection before the beginning of such calendar year.
 
 #### (7) Savings association's pro rata amount
 
-&emsp;For purposes of this subsection, any savings association's pro rata share of the statutorily prescribed amount is the percentage which is equal to such association's share of the secondary reserve as determined under section 404(e) <sup>4</sup> of the National Housing Act on the day before the date on which the Federal Savings and Loan Insurance Corporation ceased to recognize the secondary reserve (as such Act \[12 U.S.C. 1701 et seq.\] was in effect on the day before such date).
+&emsp;For purposes of this subsection, any savings association's pro rata share of the statutorily prescribed amount is the percentage which is equal to such association's share of the secondary reserve as determined under section 404(e) <sup>3</sup> of the National Housing Act on the day before the date on which the Federal Savings and Loan Insurance Corporation ceased to recognize the secondary reserve (as such Act \[12 U.S.C. 1701 et seq.\] was in effect on the day before such date).
 
 #### (8) Year of enactment rule
 
 &emsp;With respect to the calendar year in which the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 is enacted, the Corporation shall make such adjustments as may be necessary—
 
-&emsp;&emsp;(A) in the computation of the statutorily prescribed amount which shall be applicable for the remainder of such calendar year after taking into account the aggregate amount of offsets by all insured institutions under section 404(e)(2) <sup>4</sup> of the National Housing Act \[12 U.S.C. 1727(e)(2)\] (as in effect before August 9, 1989) after the beginning of such calendar year and before August 9, 1989; and
+&emsp;&emsp;(A) in the computation of the statutorily prescribed amount which shall be applicable for the remainder of such calendar year after taking into account the aggregate amount of offsets by all insured institutions under section 404(e)(2) <sup>3</sup> of the National Housing Act \[12 U.S.C. 1727(e)(2)\] (as in effect before August 9, 1989) after the beginning of such calendar year and before August 9, 1989; and
 
 &emsp;&emsp;(B) in the computation of the maximum amount of any savings association's offset for such calendar year under paragraph (1) after taking into account—
 
-&emsp;&emsp;&emsp;(i) the amount of any offset by such savings association under section 404(e)(2) <sup>4</sup> of the National Housing Act (as in effect before August 9, 1989) after the beginning of such calendar year and before August 9, 1989; and
+&emsp;&emsp;&emsp;(i) the amount of any offset by such savings association under section 404(e)(2) <sup>3</sup> of the National Housing Act (as in effect before August 9, 1989) after the beginning of such calendar year and before August 9, 1989; and
 
-&emsp;&emsp;&emsp;(ii) the change of such association's premium year from the 1-year period applicable under section 404(b) <sup>4</sup> of the National Housing Act (as in effect before August 9, 1989) to a calendar year basis.
+&emsp;&emsp;&emsp;(ii) the change of such association's premium year from the 1-year period applicable under section 404(b) <sup>3</sup> of the National Housing Act (as in effect before August 9, 1989) to a calendar year basis.
 
 #### (n) Collections on behalf of Director of Office of Thrift Supervision
 
 When requested by the Director of the Office of Thrift Supervision, the Corporation shall collect on behalf of the Director assessments on savings associations levied by the Director under section 1467 of this title. The Corporation shall be reimbursed for its actual costs for the collection of such assessments. Any such assessments by the Director shall be in addition to any amounts assessed by the Corporation, the Financing Corporation, and the Resolution Funding Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16,1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–173, §§2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, 119 Stat. 3602, 3605, 3611.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §2(b), (e), Feb. 15, 2006, 119 Stat. 3602, 3605, provided that, effective Apr. 1, 2006, paragraphs (1) and (3) of subsection (i) of this section are each amended by striking “$100,000” and inserting “the standard maximum deposit insurance amount (as determined under section 1821(a)(1) of this title)”.</i>
-
-<i>Pub. L. 109–173, §3(a)(1)–(5), (b), Feb. 15, 2006, 119 Stat. 3605, 3606, provided that, effective Jan. 1, 2007, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(3), by striking the third sentence and inserting the following: “Such reports of condition shall be the basis for the certified statements to be filed pursuant to subsection (c) of this section.”;</i>
-
-<i>(2) in subsection (b):</i>
-
-<i>(A) in paragraph (1), by striking “semiannual” in subparagraphs (B)(ii) and (C);</i>
-
-<i>(B) in paragraph (2), by striking “semiannual” in subparagraph (C), by striking subparagraphs (E), (F), and (G), and by redesignating subparagraph (H) as subparagraph (E); and</i>
-
-<i>(C) by striking paragraph (4) and by redesignating paragraphs (5), (6), and (7) as paragraphs (4), (5), and (6), respectively; and</i>
-
-<i>(3) in subsection (c), by striking “semiannual” in paragraphs (1)(A) and (2)(A) and by striking “semiannual period” and inserting “initial assessment period” in paragraph (3).</i>
-
-<i>Pub. L. 109–173, §8(a)(8), (9), (b), Feb. 15, 2006, 119 Stat. 3611, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)(1), by striking “deposit insurance fund” each place that term appears in subparagraph (C) and inserting “Deposit Insurance Fund” and by striking “each deposit insurance fund” in subparagraph (D) and inserting “the Deposit Insurance Fund”; and</i>
-
-<i>(2) in subsection (b)(5):</i>
-
-<i>(A) in introductory provisions, by striking “any such assessment” and inserting “any such assessment is necessary”;</i>
-
-<i>(B) in subparagraph (A), by striking “(A) is necessary—” and, in clause (ii), by striking “Bank Insurance Fund members” and inserting “insured depository institutions”;</i>
-
-<i>(C) by striking subparagraph (B);</i>
-
-<i>(D) by redesignating clauses (i), (ii), and (iii) as subparagraphs (A), (B), and (C), respectively, and realigning the margins; and</i>
-
-<i>(E) in subparagraph (C) (as so redesignated), by inserting “that” before “the Corporation” and by striking “; and” at the end and inserting a period.</i>
-
-<i>(3) in subsection (j)(7)(F), by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16, 1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2104(a), (b), (d), 2105(a), 2106, 2107(a), 2108, Feb. 8, 2006, 120 Stat. 9, 12–16, 19; Pub. L. 109–173, §§2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, 119 Stat. 3602, 3605, 3611; Pub. L. 109–351, title VI, §604, title VII, §§705, 707(a), Oct. 13, 2006, 120 Stat. 1980, 1987.)
 
 #### References in Text
 
-For effective date of amendments made by section 302(a) of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (b)(2)(F), see section 302(g) of Pub. L. 102–242, set out as an Effective Date of 1991 Amendment note below.
-
-The Bank Enterprise Act of 1991, referred to in subsec. (b)(2)(H), is subtitle C (§§231–234) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2308–2315, which enacted sections 1834 to 1834b of this title, amended this section, and enacted provisions set out as a note under section 1811 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of this title and Tables.
-
-Section 2704 of the Deposit Insurance Funds Act of 1996, referred to in subsec. (e)(2)(A)(i), is section 2704 of Pub. L. 104–208. For complete classification of this section to the Code, see section 2704(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment note under section 1821 of this title and Tables.
+The Bank Enterprise Act of 1991, referred to in subsec. (b)(2)(E), is subtitle C (§§231–234) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2308–2315, which enacted sections 1834 to 1834b of this title, amended this section, and enacted provisions set out as a note under section 1811 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of this title and Tables.
 
 The National Bank Act, referred to in subsec. (h), is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
@@ -774,7 +886,7 @@ The Federal Reserve Act, referred to in subsec. (h), is act Dec. 23, 1913, ch. 6
 
 The Bank Holding Company Act of 1956, referred to in subsec. (j)(9)(E)(i), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-For effective date of the Change in Bank Control Act of 1978 \[title VI of Pub. L. 95–630\], referred to in subsec.\(j)(14), see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+For effective date of the Change in Bank Control Act of 1978 \[title VI of Pub. L. 95–630\], referred to in subsec. (j)(14), see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 The National Housing Act, referred to in subsec. (m)(6) to (8), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. Section 404 of the National Housing Act, is section 1727 of this title, as such section was in effect prior to repeal by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
@@ -786,49 +898,129 @@ Section is derived from subsec. (h) of former section 264 of this title. See Cod
 
 #### Amendments
 
+2006—Subsec. (a)(2)(C). Pub. L. 109–351, §707(a), added subpar. (C).
+
+Subsec. (a)(3). Pub. L. 109–173, §3(a)(1), substituted “Such reports of condition shall be the basis for the certified statements to be filed pursuant to subsection (c).” for “Two dates shall be selected within the semiannual period of January to June inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in July pursuant to subsection (c) of this section, and two dates shall be selected within the semiannual period of July to December inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in January pursuant to subsection (c) of this section.”
+
+Subsec. (a)(11). Pub. L. 109–351, §604, added par. (11).
+
+Subsec. (b)(1)(B)(ii). Pub. L. 109–173, §3(a)(2), struck out “semiannual” before “assessment”.
+
+Subsec. (b)(1)(C). Pub. L. 109–173, §3(a)(2), struck out “semiannual” before “assessment based” in introductory provisions.
+
+Subsec. (b)(1)(C)(i), (iii). Pub. L. 109–173, §8(a)(8)(A), substituted “Deposit Insurance Fund” for “deposit insurance fund”.
+
+Subsec. (b)(1)(D). Pub. L. 109–173, §8(a)(8)(B), substituted “the Deposit Insurance Fund” for “each deposit insurance fund”.
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(14)(G)(i). See 1996 Amendment note below.
+
+Subsec. (b)(1)(E), (F). Pub. L. 109–171, §2106, added subpars. (E) and (F).
+
+Subsec. (b)(2)(A). Pub. L. 109–171, §2104(a)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text related to semiannual assessments for insured depository institutions to achieve or maintain the reserve ratio of each deposit insurance fund at the designated reserve ratio, the factors to be considered by the Board of Directors, and limitations on the assessment amount unless the insured depository institution exhibited financial, operational, or compliance weaknesses ranging from moderately severe to unsatisfactory or was not well capitalized.
+
+Subsec. (b)(2)(A)(i)(I), (iii), (iv). Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(14)(G)(ii)–(iv). See 1996 Amendment note below.
+
+Subsec. (b)(2)(B). Pub. L. 109–171, §2104(a)(1), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The Board of Directors shall—
+
+&emsp;“(i) set semiannual assessments for members of each deposit insurance fund independently from semiannual assessments for members of any other deposit insurance fund; and
+
+&emsp;“(ii) set the designated reserve ratio of each deposit insurance fund independently from the designated reserve ratio of any other deposit insurance fund.”
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(6)(B)(iii). See 1996 Amendment note below.
+
+Subsec. (b)(2)(C). Pub. L. 109–173, §3(a)(3)(B), struck out “semiannual” before “assessment”.
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(v). See 1996 Amendment note below.
+
+Subsec. (b)(2)(D). Pub. L. 109–171, §2104(a)(2), added subpar. (D).
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(vi). See 1996 Amendment note below.
+
+Subsec. (b)(2)(E) to (H). Pub. L. 109–173, §3(a)(3)(A), (C), redesignated subpar. (H) as (E) and struck out former subpars. (E) to (G), which related to minimum assessments, the transition rule for the Savings Association Insurance Fund, and a special rule until insurance funds achieved the designated reserve ratio, respectively.
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(6)(B)(iii). See 1996 Amendment notes below.
+
+Subsec. (b)(3). Pub. L. 109–171, §2105(a), amended par. (3) generally. Prior to amendment, par. (3) related to a special rule for recapitalizing undercapitalized funds.
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(14)(G)(vii). See 1996 Amendment notes below.
+
+Subsec. (b)(3)(E). Pub. L. 109–171, §2108, added subpar. (E) to par. (3), as amended by Pub. L. 109–171, §2105(a). See note above.
+
+Subsec. (b)(4). Pub. L. 109–173, §3(a)(4), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of this section, the term ‘semiannual period’ means a period beginning on January 1 of any calendar year and ending on June 30 of the same year, or a period beginning on July 1 of any calendar year and ending on December 31 of the same year.”
+
+Subsec. (b)(5). Pub. L. 109–173, §8(a)(8)(C), substituted “any such assessment is necessary” for “any such assessment” in introductory provisions, struck out “(A) is necessary—” immediately following introductory provisions, redesignated cls. (i) to (iii) of former subpar. (A) as subpars (A) to (C), respectively, and realigned margins, substituted “insured depository institutions” for “Bank Insurance Fund members” in subpar. (A), inserted “that” before “the Corporation” and substituted period for “; and” at end of subpar. (C), and struck out former subpar. (B) which read: “is allocated between Bank Insurance Fund members and Savings Association Insurance Fund members in amounts which reflect the degree to which the proceeds of the amounts borrowed are to be used for the benefit of the respective insurance funds.”
+
+Pub. L. 109–173, §3(a)(4), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+
+Pub. L. 109–171, §2104(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Each insured depository institution shall maintain all records that the Corporation may require for verifying the correctness of the institution's semiannual assessments. No insured depository institution shall be required to retain those records for that purpose for a period of more than 5 years from the date of the filing of any certified statement, except that when there is a dispute between the insured depository institution and the Corporation over the amount of any assessment, the depository institution shall retain the records until final determination of the issue.”
+
+Subsec. (b)(6). Pub. L. 109–173, §3(a)(4), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(14)(G)(viii). See 1996 Amendment note below.
+
+Subsec. (b)(7). Pub. L. 109–173, §3(a)(4), redesignated par. (7) as (6).
+
+Subsec. (c)(1)(A), (2)(A). Pub. L. 109–173, §3(a)(5)(A), (B), struck out “semiannual” before “assessment”.
+
+Subsec. (c)(3). Pub. L. 109–173, §3(a)(5)(C), substituted “initial assessment period” for “semiannual period”.
+
+Subsec. (e). Pub. L. 109–171, §2107(a), amended heading and text of subsec. (e) generally. Prior to amendment, text related to refunds of any payment of an assessment by an insured depository institution in excess of the amount due to the Corporation and refunds in the event of a balance in the insurance fund in excess of the designated reserve.
+
+Subsec. (g). Pub. L. 109–171, §2104(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) provided that the Corporation was entitled to recover, by suit, any unpaid assessment lawfully payable to it by any insured depository institution, except that no proceeding could be brought after 5 years after the right accrued for which the claim was made unless fraudulent certified statements had been made by the depository institution, with special rules with respect to a cause of action which had expired within one year from Sept. 21, 1950, and with respect to assessments for any year prior to 1945.
+
+Subsec. (i)(1), (3). Pub. L. 109–173, §2(b), substituted “the standard maximum deposit insurance amount (as determined under section 1821(a)(1) of this title)” for “$100,000”.
+
+Subsec. (j)(1)(D). Pub. L. 109–351, §705(1), substituted “is needed—” for “is needed” and “title 31; or” for “title 31.”, inserted cl. (i) designation before “to investigate”, and added cl. (ii).
+
+Subsec. (j)(7)(C). Pub. L. 109–351, §705(2), substituted “either the financial condition of any acquiring person or the future prospects of the institution” for “the financial condition of any acquiring person”.
+
+Subsec. (j)(7)(F). Pub. L. 109–173, §8(a)(9), substituted “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund”.
+
+Subsecs. (<i>l</i>) to (n). Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(6)(B)(i), (ii). See 1996 Amendment note below.
+
 2004—Subsec. (a)(1). Pub. L. 108–386 struck out “(except a District bank)” after “State nonmember bank” in first sentence.
 
 2000—Subsec. (b)(2)(E)(iii). Pub. L. 106–569 amended directory language of Pub. L. 104–208, §2707. See 1996 Amendment note below.
 
-1996—Subsec. (b)(1)(D). Pub. L. 104–208, §2704(d)(14)(G)(i), which directed substitution of “the Deposit Insurance Fund” for “each deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+1996—Subsec. (b)(1)(D). Pub. L. 104–208, §2704(d)(14)(G)(i), which directed substitution of “the Deposit Insurance Fund” for “each deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (b)(2)(A)(i). Pub. L. 104–208, §2708(a), inserted “when necessary, and only to the extent necessary” after “insured depository institutions” in introductory provisions.
 
-Subsec. (b)(2)(A)(i)(I). Pub. L. 104–208, §2704(d)(14)(G)(ii), which directed substitution of “the Deposit Insurance Fund” for “each deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(A)(i)(I). Pub. L. 104–208, §2704(d)(14)(G)(ii), which directed substitution of “the Deposit Insurance Fund” for “each deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 104–208, §2708(b), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: “The semiannual assessment for each member of a deposit insurance fund shall be not less than $1,000.”
 
-Pub. L. 104–208, §2704(d)(14)(G)(iii), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Pub. L. 104–208, §2704(d)(14)(G)(iii), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-Subsec. (b)(2)(A)(iv). Pub. L. 104–208, §2704(d)(14)(G)(ii), (iv), which directed substitution of “the Deposit Insurance Fund” for “each deposit insurance fund” and striking out cl. (iv), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(A)(iv). Pub. L. 104–208, §2704(d)(14)(G)(ii), (iv), which directed substitution of “the Deposit Insurance Fund” for “each deposit insurance fund” and striking out cl. (iv), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 Subsec. (b)(2)(A)(v). Pub. L. 104–208, §2708(c), added cl. (v).
 
-Subsec. (b)(2)(B). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the striking of subpar. (B) and the redesignation of subpar. (C) as (B), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(B). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the striking of subpar. (B) and the redesignation of subpar. (C) as (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-Subsec. (b)(2)(C). Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(v), which directed the redesignation of subpar. (E) as (C) and substitution of “the Deposit Insurance Fund” for “any deposit insurance fund” and “the Deposit Insurance Fund” for “that fund” wherever appearing, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(C). Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(v), which directed the redesignation of subpar. (E) as (C) and substitution of “the Deposit Insurance Fund” for “any deposit insurance fund” and “the Deposit Insurance Fund” for “that fund” wherever appearing, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-Subsec. (b)(2)(D). Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(vi), which directed the redesignation of subpar. (G) as (D) and substitution of “fund achieves” for “funds achieve” in heading and “the Deposit Insurance Fund” for “a deposit insurance fund” in text, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(D). Pub. L. 104–208, §2704(d)(6)(B)(iii), (14)(G)(vi), which directed the redesignation of subpar. (G) as (D) and substitution of “fund achieves” for “funds achieve” in heading and “the Deposit Insurance Fund” for “a deposit insurance fund” in text, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 Pub. L. 104–208, §2703(b), struck out heading and text of subpar. (D). Text read as follows: “Notwithstanding any other provision of this paragraph, amounts assessed by the Financing Corporation under section 1441 of this title against Savings Association Insurance Fund members shall be subtracted from the amounts authorized to be assessed by the Corporation under this paragraph.”
 
-Subsec. (b)(2)(E). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the redesignation of subpar. (H) as (E), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(E). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the redesignation of subpar. (H) as (E), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (b)(2)(E)(iii). Pub. L. 104–208, §2707, as amended by Pub. L. 106–569, added cl. (iii).
 
-Subsec. (b)(2)(F) to (H). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the striking of subpar. (F) and the redesignation of subpars. (G) and (H) as (D) and (E), respectively, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(2)(F) to (H). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the striking of subpar. (F) and the redesignation of subpars. (G) and (H) as (D) and (E), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (b)(3). Pub. L. 104–208, §2704(d)(14)(G)(vii)(I), which directed substitution of “fund” for “funds” in heading, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(3). Pub. L. 104–208, §2704(d)(14)(G)(vii)(I), which directed substitution of “fund” for “funds” in heading, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (b)(3)(A). Pub. L. 104–208, §2704(d)(14)(G)(vii)(II)–(V), which directed substitution of “If” for “Except as provided in paragraph (2)(F), if”, “the Deposit Insurance Fund” for “any deposit insurance fund”, and “insured depository institutions” for “members of that fund” in introductory provisions and directed substitution of “the Deposit Insurance Fund” for “that fund” in cl. (i), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(3)(A). Pub. L. 104–208, §2704(d)(14)(G)(vii)(II)–(V), which directed substitution of “If” for “Except as provided in paragraph (2)(F), if”, “the Deposit Insurance Fund” for “any deposit insurance fund”, and “insured depository institutions” for “members of that fund” in introductory provisions and directed substitution of “the Deposit Insurance Fund” for “that fund” in cl. (i), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (b)(3)(B). Pub. L. 104–208, §2704(d)(14)(G)(vii)(III), which directed substitution of “the Deposit Insurance Fund” for “that fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(3)(B). Pub. L. 104–208, §2704(d)(14)(G)(vii)(III), which directed substitution of “the Deposit Insurance Fund” for “that fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (b)(3)(C), (D). Pub. L. 104–208, §2704(d)(14)(G)(vii)(VI), which directed the striking of subpars. (C) and (D) and the addition of a new subpar. (C), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(3)(C), (D). Pub. L. 104–208, §2704(d)(14)(G)(vii)(VI), which directed the striking of subpars. (C) and (D) and the addition of a new subpar. (C), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (b)(6). Pub. L. 104–208, §2704(d)(14)(G)(viii), which directed the amendment of par. (6) by substituting “any such assessment is necessary” for “any such assessment” in introductory provisions, striking subpar. (A) designation, introductory provisions, and subpar. (B), redesignating cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, realigning margins, and substituting period for “; and” at end of subpar. (C), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b)(6). Pub. L. 104–208, §2704(d)(14)(G)(viii), which directed the amendment of par. (6) by substituting “any such assessment is necessary” for “any such assessment” in introductory provisions, striking subpar. (A) designation, introductory provisions, and subpar. (B), redesignating cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, realigning margins, and substituting period for “; and” at end of subpar. (C), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (e). Pub. L. 104–208, §2706, inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “The Corporation (1) may refund to an insured depository institution any payment of assessment in excess of the amount due to the Corporation or (2) may credit such excess toward the payment of the assessment next becoming due from such depository institution and upon succeeding assessments until the credit is exhausted.”
+Subsec. (e). Pub. L. 104–208, §2706, inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “The Corporation (1) may refund to an insured depository institution any payment of assessment in excess of the amount due to the Corporation or (2) may credit such excess toward the payment of the assessment next becoming due fromsuch depository institution and upon succeeding assessments until the credit is exhausted.”
 
 Subsec. (j)(9)(A). Pub. L. 104–208, §2226(1), substituted “foreign bank, or any affiliate thereof,” for “financial institution and any affiliate of any financial institution” and “by the foreign bank or any affiliate thereof” for “by the financial institution and such institution's affiliates”.
 
@@ -838,7 +1030,7 @@ Subsec. (j)(9)(B)(i). Pub. L. 104–208, §2226(2)(B), added cl. (i) and struck 
 
 Subsec. (j)(9)(B)(iii). Pub. L. 104–208, §2226(2)(C), substituted “foreign bank or any affiliate thereof” for “financial institution” in introductory provisions.
 
-Subsec. (j)(9)(C). Pub. L. 104–208, §2226(3), substituted “foreign bank or any affiliate thereof” for “financialinstitution or any of its affiliates” before “as principal” and for “financial institution or its affiliates” before “has a security interest”.
+Subsec. (j)(9)(C). Pub. L. 104–208, §2226(3), substituted “foreign bank or any affiliate thereof” for “financial institution or any of its affiliates” before “as principal” and for “financial institution or its affiliates” before “has a security interest”.
 
 Subsec. (j)(9)(D)(i). Pub. L. 104–208, §2226(4)(A), substituted “the foreign bank and all affiliates thereof” for “the financial institution and all affiliates of the institution” and “foreign bank or affiliate thereof” for “financial institution or any such affiliate”.
 
@@ -848,7 +1040,7 @@ Subsec. (j)(9)(E)(i). Pub. L. 104–208, §2226(5)(A), substituted “subparagra
 
 Subsec. (j)(9)(E)(ii). Pub. L. 104–208, §2226(5)(B), substituted “foreign bank and any affiliate thereof” for “financial institution and any affiliate of such institution”.
 
-Subsecs. (<i>l</i>) to (n). Pub. L. 104–208, §2704(d)(6)(B)(i), (ii), which directed the striking of subsec. (<i>l</i>) and the redesignation of subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, was not executed. See Effective Date of 1996 Amendment note below.
+Subsecs. (<i>l</i>) to (n). Pub. L. 104–208, §2704(d)(6)(B)(i), (ii), which directed the striking of subsec. (<i>l</i>) and the redesignation of subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (a)(1). Pub. L. 103–325, §308(b), struck out after third sentence “The Board of Directors may require reports of condition to be published in such manner, not inconsistent with any applicable law, as it may direct.”
 
@@ -1186,9 +1378,15 @@ Subsec. (i). Pub. L. 86–671, §3, substituted “in its trust department or he
 
 Amendment by section 2(b) of Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. L. 109–173, set out as a note under section 1785 of this title.
 
-Pub. L. 109–173, §3(b), Feb. 15, 2006, 119 Stat. 3606, provided that: “This section \[amending this section and sections 1818, 1823, and 1834 of this title\] and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(5) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 20\] take effect \[Jan. 1, 2007, see 71 F.R. 69282\].”
+Pub. L. 109–173, §3(b), Feb. 15, 2006, 119 Stat. 3606, provided that: “This section \[amending this section and sections 1818, 1823, and 1834 of this title\] and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(5) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, set out as a Regulations note below\] take effect \[Jan. 1, 2007, see 71 F.R. 69282\].”
 
 Amendment by section 8(a)(8), (9) of Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
+
+Amendment by section 2102(b) of Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
+Pub. L. 109–171, title II, §2104(e), Feb. 8, 2006, 120 Stat. 14, provided that: “This section \[amending this section and section 1828 of this title\] and the amendments made by this section shall take effect on the date that the final regulations required under section 9(a)(5) \[probably means section 2109(a)(5) of Pub. L. 109–171, set out as a Regulations note below\] take effect \[Jan. 1, 2007, see 71 F.R. 69323\].”
+
+Pub. L. 109–171, title II, §2105(b), Feb. 8, 2006, 120 Stat. 15, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect on the date that the final regulations required under section 9(a)(1) \[probably means section 2109(a)(1) of Pub. L. 109–171, set out as a Regulations note below\] take effect \[Jan. 1, 2007, see 71 F.R. 69323\].”
 
 #### Effective Date of 2004 Amendment
 
@@ -1202,7 +1400,7 @@ Pub. L. 106–569, title XII, §1231(b), Dec. 27, 2000, 114 Stat. 3037, provided
 
 Amendment by section 2703(b) of Pub. L. 104–208 applicable with respect to semiannual periods which begin after Dec. 31, 1996, see section 2703(c)(1) of Pub. L. 104–208, set out as an Effective and Termination Dates of 1996 Amendment note under section 1441 of this title.
 
-Amendment by section 2704(d)(6)(B), (14)(G) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by section 2704(d)(6)(B), (14)(G) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -1274,7 +1472,7 @@ For effective date of amendment by section 301(b) of Pub. L. 89–695, see secti
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1813, 1818 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effectiveonly during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1813, 1818 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
 
 #### Effective Date of 1960 Amendment
 
@@ -1285,6 +1483,34 @@ Section 7 of Pub. L. 86–671 provided that: “The amendments made by this Act 
 For short title of title VI of Pub. L. 95–630 as the “Change in Bank Control Act of 1978”, see section 601 of Pub. L. 95–630, set out as a note under section 1811 of this title.
 
 #### Regulations
+
+Pub. L. 109–171, title II, §2109, Feb. 8, 2006, 120 Stat. 20, provided that:
+
+“(a)
+
+In General.—Not later than 270 days after the date of the enactment of this Act \[Feb. 8, 2006\], the Board of Directors of the Federal Deposit Insurance Corporation shall prescribe final regulations, after notice and opportunity for comment—
+
+&emsp;“(1) designating the reserve ratio for the Deposit Insurance Fund in accordance with section 7(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)(3)\] (as amended by section 2105 of this subtitle);
+
+&emsp;“(2) implementing increases in deposit insurance coverage in accordance with the amendments made by section 2103 of this subtitle \[amending 12 U.S.C. 1821\];
+
+&emsp;“(3) implementing the dividend requirement under section 7(e)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(e)(2)\] (as amended by section 2107 of this subtitle);
+
+&emsp;“(4) implementing the 1-time assessment credit to certain insured depository institutions in accordance with section 7(e)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(e)(3)\], as amended by section 2107 of this subtitle, including the qualifications and procedures under which the Corporation would apply assessment credits; and
+
+&emsp;“(5) providing for assessments under section 7(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)\], as amended by this subtitle.
+
+“(b)
+
+Transition Provisions.—
+
+&emsp;“(1)
+
+Continuation of existing assessment regulations.—No provision of this subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title\] or any amendment made by this subtitle shall be construed as affecting the authority of the Corporation to set or collect deposit insurance assessments pursuant to any regulations in effect before the effective date of the final regulations prescribed under subsection (a).
+
+&emsp;“(2)
+
+Treatment of dif members under existing regulations.—As of the date of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund pursuant to section 2102 \[section 2102 of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title\], the assessment regulations in effect immediately before the date of the enactment of this Act \[Feb. 8, 2006\] shall continue to apply to all members of the Deposit Insurance Fund, until such regulations are modified by the Corporation, notwithstanding that such regulations may refer to ‘Bank Insurance Fund members’ or ‘Savings Association Insurance Fund members’.”
 
 Section 302(c) of Pub. L. 102–242 provided that: “To implement the risk-based assessment system required under section 7(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)\] (as amended by subsection (a)), the Federal Deposit Insurance Corporation shall—
 
@@ -1304,7 +1530,7 @@ Pub. L. 109–173, §5, Feb. 15, 2006, 119 Stat. 3606, provided that:
 
 “(a)
 
-Submission.—Any determination under section 7(e)(2)(E) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(e)(2)(E)\], as added by section 2107(a) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 16\], shall be submitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, not later than 270 days after making such determination.
+Submission.—Any determination under section 7(e)(2)(E) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(e)(2)(E)\], as added by section 2107(a) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171\], shall be submitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, not later than 270 days after making such determination.
 
 “(b)
 
@@ -1316,201 +1542,7 @@ Content.—The report submitted under subsection (a) shall include—
 
 #### Special Assessment To Capitalize SAIF
 
-Section 2702 of Pub. L. 104–208 provided that:
-
-“(a)
-
-In General.—Except as provided in subsection (f), the Board of Directors of the Federal Deposit Insurance Corporation shall impose a special assessment on the SAIF-assessable deposits of each insured depository institution in accordance with assessment regulations of the Corporation at a rate applicable to all such institutions that the Board of Directors, in its sole discretion, determines (after taking into account the adjustments described in subsections (g), (h), and (j)) will cause the Savings Association Insurance Fund to achieve the designated reserve ratio on the first business day of the 1st month beginning after the date of the enactment of this Act \[Sept. 30, 1996\].
-
-“(b)
-
-Factors To Be Considered.—In carrying out subsection (a), the Board of Directors shall base its determination on—
-
-&emsp;“(1) the monthly Savings Association Insurance Fund balance most recently calculated;
-
-&emsp;“(2) data on insured deposits reported in the most recent reports of condition filed not later than 70 days before the date of enactment of this Act \[Sept. 30, 1996\] by insured depository institutions; and
-
-&emsp;“(3) any other factors that the Board of Directors deems appropriate.
-
-“(c)
-
-Date of Determination.—For purposes of subsection (a), the amount of the SAIF-assessable deposits of an insured depository institution shall be determined as of March 31, 1995.
-
-“(d)
-
-Date Payment Due.—Except as provided in subsection (g), the special assessment imposed under this section shall be—
-
-&emsp;“(1) due on the first business day of the 1st month beginning after the date of the enactment of this Act \[Sept. 30, 1996\]; and
-
-&emsp;“(2) paid to the Corporation on the later of—
-
-&emsp;&emsp;“(A) the first business day of the 1st month beginning after such date of enactment; or
-
-&emsp;&emsp;“(B) such other date as the Corporation shall prescribe, but not later than 60 days after the date of enactment of this Act.
-
-“(e)
-
-Assessment Deposited in SAIF.—Notwithstanding any other provision of law, the proceeds of the special assessment imposed under this section shall be deposited in the Savings Association Insurance Fund.
-
-“(f)
-
-Exemptions for Certain Institutions.—
-
-&emsp;“(1)
-
-Exemption for weak institutions.—The Board of Directors may, by order, in its sole discretion, exempt any insured depository institution that the Board of Directors determines to be weak, from paying the special assessment imposed under this section if the Board of Directors determines that the exemption would reduce risk to the Savings Association Insurance Fund.
-
-&emsp;“(2)
-
-Guidelines required.—Not later than 30 days after the date of enactment of this Act \[Sept. 30, 1996\], the Board of Directors shall prescribe guidelines setting forth the criteria that the Board of Directors will use in exempting institutions under paragraph (1). Such guidelines shall be published in the Federal Register.
-
-&emsp;“(3)
-
-Exemption for certain newly chartered and other defined institutions.—
-
-&emsp;&emsp;“(A)
-
-In general.—In addition to the institutions exempted from paying the special assessment under paragraph (1), the Board of Directors shall exempt any insured depository institution from payment of the special assessment if the institution—
-
-&emsp;&emsp;&emsp;“(i) was in existence on October 1, 1995, and held no SAIF-assessable deposits before January 1, 1993;
-
-&emsp;&emsp;&emsp;“(ii) is a Federal savings bank which—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) was established de novo in April 1994 in order to acquire the deposits of a savings association which was in default or in danger of default; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) received minority interim capital assistance from the Resolution Trust Corporation under section 21A(w) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(w)\] in connection with the acquisition of any such savings association; or
-
-&emsp;&emsp;&emsp;“(iii) is a savings association, the deposits of which are insured by the Savings Association Insurance Fund, which—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) before January 1, 1987, was chartered as a Federal savings bank insured by the Federal Savings and Loan Insurance Corporation for the purpose of acquiring all or substantially all of the assets and assuming all or substantially all of the deposit liabilities of a national bank in a transaction consummated after July 1, 1986; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) as of the date of that transaction, had assets of less than $150,000,000.
-
-&emsp;&emsp;“(B)
-
-Definition.—For purposes of this paragraph, an institution shall be deemed to have held SAIF-assessable deposits before January 1, 1993, if—
-
-&emsp;&emsp;&emsp;“(i) it directly held SAIF-assessable deposits before that date; or
-
-&emsp;&emsp;&emsp;“(ii) it succeeded to, acquired, purchased, or otherwise holds any SAIF-assessable deposits as of the date of enactment of this Act \[Sept. 30, 1996\] that were SAIF-assessable deposits before January 1, 1993.
-
-&emsp;“(4)
-
-Exempt institutions required to pay assessments at former rates.—
-
-&emsp;&emsp;“(A)
-
-Payments to saif and dif.—Any insured depository institution that the Board of Directors exempts under this subsection from paying the special assessment imposed under this section shall pay semiannual assessments—
-
-&emsp;&emsp;&emsp;“(i) during calendar years 1996, 1997, and 1998, into the Savings Association Insurance Fund, based on SAIF-assessable deposits of that institution, at assessment rates calculated under the schedule in effect for Savings Association Insurance Fund members on June 30, 1995; and
-
-&emsp;&emsp;&emsp;“(ii) during calendar year 1999—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) into the Deposit Insurance Fund, based on SAIF-assessable deposits of that institution as of December 31, 1998, at assessment rates calculated under the schedule in effect for Savings Association Insurance Fund members on June 30, 1995; or
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) in accordance with clause (i), if the Bank Insurance Fund and the Savings Association Insurance Fund are not merged into the Deposit Insurance Fund.
-
-&emsp;&emsp;“(B)
-
-Optional pro rata payment of special assessment.—This paragraph shall not apply with respect to any insured depository institution (or successor insured depository institution) that has paid, during any calendar year from 1997 through 1999, upon such terms as the Corporation may announce, an amount equal to the product of—
-
-&emsp;&emsp;&emsp;“(i) 16.7 percent of the special assessment that the institution would have been required to pay under subsection (a), if the Board of Directors had not exempted the institution; and
-
-&emsp;&emsp;&emsp;“(ii) the number of full semiannual periods remaining between the date of the payment and December 31, 1999.
-
-“(g)
-
-Special Election for Certain Institutions Facing Hardship as a Result of the Special Assessment.—
-
-&emsp;“(1)
-
-Election authorized.—If—
-
-&emsp;&emsp;“(A) an insured depository institution, or any depository institution holding company which, directly or indirectly, controls such institution, is subject to terms or covenants in any debt obligation or preferred stock outstanding on September 13, 1995; and
-
-&emsp;&emsp;“(B) the payment of the special assessment under subsection (a) would pose a significant risk of causing such depository institution or holding company to default or violate any such term or covenant,
-
-> &emsp;the depository institution may elect, with the approval of the Corporation, to pay such special assessment in accordance with paragraphs (2) and (3) in lieu of paying such assessment in the manner required under subsection (a).
-
-&emsp;“(2) 1
-
-st assessment.—An insured depository institution which makes an election under paragraph (1) shall pay an assessment in an amount equal to 50 percent of the amount of the special assessment that would otherwise apply under subsection (a), by the date on which such special assessment is payable under subsection (d).
-
-&emsp;“(3) 2
-
-d assessment.—An insured depository institution which makes an election under paragraph (1) shall pay a 2d assessment, by the date established by the Board of Directors in accordance with paragraph (4), in an amount equal to the product of 51 percent of the rate determined by the Board of Directors under subsection (a) for determining the amount of the special assessment and the SAIF-assessable deposits of the institution on March 31, 1996, or such other date in calendar year 1996 as the Board of Directors determines to be appropriate.
-
-&emsp;“(4)
-
-Due date of 2d assessment.—The date established by the Board of Directors for the payment of the assessment under paragraph (3) by a depository institution shall be the earliest practicable date which the Board of Directors determines to be appropriate, which is at least 15 days after the date used by the Board of Directors under paragraph (3).
-
-&emsp;“(5)
-
-Supplemental special assessment.—An insured depository institution which makes an election under paragraph (1) shall pay a supplemental special assessment, at the same time the payment under paragraph (3) is made, in an amount equal to the product of—
-
-&emsp;&emsp;“(A) 50 percent of the rate determined by the Board of Directors under subsection (a) for determining the amount of the special assessment; and
-
-&emsp;&emsp;“(B) 95 percent of the amount by which the SAIF-assessable deposits used by the Board of Directors for determining the amount of the 1st assessment under paragraph (2) exceeds, if any, the SAIF-assessable deposits used by the Board for determining the amount of the 2d assessment under paragraph (3).
-
-“(h)
-
-Adjustment of Special Assessment for Certain Bank Insurance Fund Member Banks.—
-
-&emsp;“(1)
-
-In general.—For purposes of computing the special assessment imposed under this section with respect to a Bank Insurance Fund member bank, the amount of any deposits of any insured depository institution which section 5(d)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)\] treats as insured by the Savings Association Insurance Fund shall be reduced by 20 percent—
-
-&emsp;&emsp;“(A) if the adjusted attributable deposit amount of the Bank Insurance Fund member bank is less than 50 percent of the total domestic deposits of that member bank as of June 30, 1995; or
-
-&emsp;&emsp;“(B) if, as of June 30, 1995, the Bank Insurance Fund member—
-
-&emsp;&emsp;&emsp;“(i) had an adjusted attributable deposit amount equal to less than 75 percent of the total assessable deposits of that member bank;
-
-&emsp;&emsp;&emsp;“(ii) had total assessable deposits greater than $5,000,000,000; and
-
-&emsp;&emsp;&emsp;“(iii) was owned or controlled by a bank holding company that owned or controlled insured depository institutions having an aggregate amount of deposits insured or treated as insured by the Bank Insurance Fund greater than the aggregate amount of deposits insured or treated as insured by the Savings Association Insurance Fund.
-
-&emsp;“(2)
-
-Adjusted attributable deposit amount.—For purposes of this subsection, the ‘adjusted attributable deposit amount’ shall be determined in accordance with section 5(d)(3)(C) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)(C)\].
-
-“(i)
-
-Adjustment to the Adjusted Attributable Deposit Amount for Certain Bank Insurance Fund Member Banks.—\[Amended section 1815(d)(3) of this title.\]
-
-“(j)
-
-Adjustment of Special Assessment for Certain Savings Associations.—
-
-&emsp;“(1)
-
-Special assessment reduction.—For purposes of computing the special assessment imposed under this section, in the case of any converted association, the amount of any deposits of such association which were insured by the Savings Association InsuranceFund as of March 31, 1995, shall be reduced by 20 percent.
-
-&emsp;“(2)
-
-Converted association.—For purposes of this subsection, the term ‘converted association’ means—
-
-&emsp;&emsp;“(A) any Federal savings association—
-
-&emsp;&emsp;&emsp;“(i) that is a member of the Savings Association Insurance Fund and that has deposits subject to assessment by that fund which did not exceed $4,000,000,000, as of March 31, 1995; and
-
-&emsp;&emsp;&emsp;“(ii) that had been, or is a successor by merger, acquisition, or otherwise to an institution that had been, a State savings bank, the deposits of which were insured by the Federal Deposit Insurance Corporation before August 9, 1989, that converted to a Federal savings association pursuant to section 5(i) of the Home Owners’ Loan Act \[12 U.S.C. 1464(i)\] before January 1, 1985;
-
-&emsp;&emsp;“(B) a State depository institution that is a member of the Savings Association Insurance Fund that had been a State savings bank before October 15, 1982, and was a Federal savings association on August 9, 1989;
-
-&emsp;&emsp;“(C) an insured bank that—
-
-&emsp;&emsp;&emsp;“(i) was established de novo in order to acquire the deposits of a savings association in default or in danger of default;
-
-&emsp;&emsp;&emsp;“(ii) did not open for business before acquiring the deposits of such savings association; and
-
-&emsp;&emsp;&emsp;“(iii) was a Savings Association Insurance Fund member before the date of enactment of this Act \[Sept. 30, 1996\]; and
-
-&emsp;&emsp;“(D) an insured bank that—
-
-&emsp;&emsp;&emsp;“(i) resulted from a savings association before December 19, 1991, in accordance with section 5(d)(2)(G) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(2)(G)\]; and
-
-&emsp;&emsp;&emsp;“(ii) had an increase in its capital in conjunction with the conversion in an amount equal to more than 75 percent of the capital of the institution on the day before the date of the conversion.”
+Pub. L. 104–208, div. A, title II, §2702, Sept. 30, 1996, 110 Stat. 3009–479, provided that the Board of Directors of the Federal Deposit Insurance Corporation was to impose a special assessment on the SAIF-assessable deposits of each insured depository institution in accordance with assessment regulations of the Corporation at a rate applicable to all such institutions that the Board of Directors determined would cause the Savings Association Insurance Fund to achieve the designated reserve ratio on the first business day of the 1st month beginning after Sept. 30, 1996.
 
 #### Small Business and Small Farm Loan Information
 
@@ -1542,7 +1574,5 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
 <i><sup>2</sup></i><i> So in original. Probably should be “depository institution”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “depository institution”.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@
 
 (d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Court under subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
 
-(e) If the prescribing court determines that there is an immediate need for a rule, such courtmay proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
+(e) If the prescribing court determines that there is an immediate need for a rule, such court may proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
 
 (f) No rule may be prescribed by a district court other than under this section.
 
@@ -74,5 +74,5 @@ Section 405 of title IV of Pub. L. 100–702 provided that: “The amendments ma
 
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20,1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
 

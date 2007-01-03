@@ -6,7 +6,7 @@ The Secretary shall establish a national education program which shall include, 
 
 #### (b) Expansion of existing programs
 
-In order to enable low-income individuals and families to engage in nutritionally sound food purchasing and preparation practices, the expanded food and nutrition education programpresently conducted under section 343(d) of this title, shall provide for the employment and training of professional and paraprofessional aides to engage in direct nutrition education of low-income families and in other appropriate nutrition education programs. To the maximum extent practicable, program aides shall be hired from the indigenous target population.
+In order to enable low-income individuals and families to engage in nutritionally sound food purchasing and preparation practices, the expanded food and nutrition education program presently conducted under section 343(d) of this title, shall provide for the employment and training of professional and paraprofessional aides to engage in direct nutrition education of low-income families and in other appropriate nutrition education programs. To the maximum extent practicable, program aides shall be hired from the indigenous target population.
 
 #### (c) Funding requirements
 
@@ -34,7 +34,7 @@ Beginning with the fiscal year ending September 30, 1982—
 
 1998—Subsec. (c)(3). Pub. L. 105–185 substituted “through 2002” for “and 1997”.
 
-1996—Subsec. (c)(3). Pub. L. 104–127 substituted “, $83,000,000 for each of fiscal years 1996 and 1997” for “$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995”.
+1996—Subsec. (c)(3). Pub. L. 104–127 substituted “, $83,000,000 for each of fiscal years 1996 and 1997” for“$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995”.
 
 1990—Subsec. (c)(3). Pub. L. 101–624 added par. (3).
 

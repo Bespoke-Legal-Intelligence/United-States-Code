@@ -10,7 +10,7 @@ Incentive Bonus Authorized.—A bonus under this section may be paid to an eligi
 
 (b)
 
-Eligible Members.—A member is eligible to enter into an agreement under subsection (a)if, as of the date of the agreement, the member—
+Eligible Members.—A member is eligible to enter into an agreement under subsection (a) if, as of the date of the agreement, the member—
 
 &emsp;(1) has not failed to satisfactorily complete any term of enlistment in the armed forces;
 
@@ -24,7 +24,7 @@ Limitation.—A member may enter into an agreement under subsection (a) to trans
 
 (d)
 
-Amount and Payment of Bonus.—(1) A bonus under this section may not exceed $2,500.
+Amount and Payment of Bonus.—(1) A bonus under this section may not exceed $10,000.
 
 (2) A bonus under this section shall be paid by the Secretary having jurisdiction of the armed force to which the member to be paid the bonus is transferring.
 
@@ -48,19 +48,27 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (h)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2006.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2009.
 
-(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333.)
+(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109–364, div. A, title VI, §§614(h), 620(a), Oct. 17, 2006, 120 Stat. 2249, 2252.)
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–163, §687(b)(35), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
+2006—Subsec. (d)(1). Pub. L. 109–364, §620(a), substituted “$10,000” for “$2,500”.
+
+Subsec. (f). Pub. L. 109–163, §687(b)(35), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 
 “(1) A member who is paid a bonus under an agreement under this section and who, voluntarily or because of misconduct, fails to serve for the period covered by such agreement shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid such member as the period which such member failed to serve bears to the total period for which the bonus was paid.
 
 “(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
 “(3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under paragraph (1).”
+
+Subsec. (h). Pub. L. 109–364, §614(h), substituted “2009” for “2006”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title VI, §620(b), Oct. 17, 2006, 120 Stat. 2252, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply to agreements entered into or revised under section 327 of title 37, United States Code, on or after that date.”
 
 #### Savings Provision
 

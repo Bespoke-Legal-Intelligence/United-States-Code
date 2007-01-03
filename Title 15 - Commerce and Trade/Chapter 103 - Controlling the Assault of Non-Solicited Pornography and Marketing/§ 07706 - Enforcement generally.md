@@ -24,7 +24,7 @@ Compliance with this chapter shall be enforced—
 
 &emsp;(4) under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) by the Securities and Exchange Commission with respect to investment companies;
 
-&emsp;(5) under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) by the Securities andExchange Commission with respect to investment advisers registered under that Act;
+&emsp;(5) under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) by the Securities and Exchange Commission with respect to investment advisers registered under that Act;
 
 &emsp;(6) under State insurance law in the case of any person engaged in providing insurance, by the applicable State insurance authority of the State in which the person is domiciled, subject to section 104 of the Gramm-Bliley-Leach Act (15 U.S.C. 6701), except that in any State in which the State insurance authority elects not to exercise this power, the enforcement authority pursuant to this chapter shall be exercised by the Commission in accordance with subsection (a);
 
@@ -38,7 +38,7 @@ Compliance with this chapter shall be enforced—
 
 #### (c) Exercise of certain powers
 
-For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of this chapter is deemed to be a violation of a Federal Trade Commission trade regulation rule. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of this chapter is deemed to be a violationof a Federal Trade Commission trade regulation rule. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (d) Actions by the Commission
 
@@ -98,7 +98,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (5) Rights of Federal regulators
 
-&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Federal Trade Commission or appropriate Federal regulator shall have the right—
+&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The FederalTrade Commission or appropriate Federal regulator shall have the right—
 
 &emsp;&emsp;(A) to intervene in the action;
 
@@ -162,7 +162,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message that is transmitted or attempted to be transmitted over the facilities of the provider of Internet access service, or that is transmitted or attempted to be transmitted to an electronicmail address obtained from the provider of Internet access service in violation of section 7704(b)(1)(A)(i) of this title, treated as a separate violation) by—
+&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message that is transmitted or attempted to be transmitted over the facilities of the provider of Internet access service, or that is transmitted or attempted to be transmitted to an electronic mail address obtained from the provider of Internet access service in violation of section 7704(b)(1)(A)(i) of this title, treated as a separate violation) by—
 
 &emsp;&emsp;&emsp;(i) up to $100, in the case of a violation of section 7704(a)(1) of this title; or
 

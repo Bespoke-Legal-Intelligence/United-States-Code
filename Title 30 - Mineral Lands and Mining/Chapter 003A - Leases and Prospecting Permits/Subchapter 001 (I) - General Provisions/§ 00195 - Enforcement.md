@@ -22,7 +22,7 @@ Any person who knowingly violates the provisions of subsection (a) of this secti
 
 #### (c) Civil actions
 
-Whenever it shall appear that any person is engaged, or is about to engage, in any act which constitutes or will constitute a violation of subsection (a) of this section, the Attorney General may institute a civil action in the district court of the United States for the judicial district in which the defendant resides or in which the violation occurred or in which the lease or land involved is located, for a temporary restraining order, injunction, civil penalty of not more than $100,000 for each violation, or other appropriateremedy, including but not limited to, a prohibition from participation in exploration, leasing, or development of any Federal mineral, or any combination of the foregoing.
+Whenever it shall appear that any person is engaged, or is about to engage, in any act which constitutes or will constitute a violation of subsection (a) of this section, the Attorney General may institute a civil action in the district court of the United States for the judicial district in which the defendant resides or in which the violation occurred or in which the lease or land involved is located, for a temporary restraining order, injunction, civil penalty of not more than $100,000 for each violation, or other appropriate remedy, including but not limited to, a prohibition from participation in exploration, leasing, or development of any Federal mineral, or any combination of the foregoing.
 
 #### (d) Corporations
 
@@ -38,7 +38,7 @@ The remedies, penalties, fines, and imprisonment prescribed in this section shal
 
 (1) A State may commence a civil action under subsection (c) of this section against any person conducting activity within the State in violation of this section. Civil actions brought by a State shall only be brought in the United States district court for the judicial district in which the defendant resides or in which the violation occurred or in which the lease or land involved is located. The district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to order appropriate remedies and penalties as described in subsection (c) of this section.
 
-(2) A State shall notify the Attorney General of the United States of any civil action filed by the State under this subsection within 30 days of filing of the action. The Attorney General of the United States shall notify a State of any civil action arising from activity conducted within that State filed by the Attorney General under this subsection within 30 days of filing of the action.
+(2) A State shall notify the Attorney General of the United States of any civil action filed bythe State under this subsection within 30 days of filing of the action. The Attorney General of the United States shall notify a State of any civil action arising from activity conducted within that State filed by the Attorney General under this subsection within 30 days of filing of the action.
 
 (3) Any civil penalties recovered by a State under this subsection shall be retained by the State and may be expended in such manner and for such purposes as the State deems appropriate. If a civil action is jointly brought by the Attorney General and a State, by more than one State or by the Attorney General and more than one State, any civil penalties recovered as a result of the joint action shall be shared by the parties bringing the action in the manner determined by the court rendering judgment in such action.
 

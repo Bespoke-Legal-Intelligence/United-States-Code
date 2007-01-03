@@ -72,7 +72,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be used for the administrative cost of any of the local workforce investment activities described in subsection (d) or (e) of section 2864 of this title or in section 2854(c) of this title, regardless of whether the funds were allocated under this subsection or section 2863(b) of this title.
+&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be usedfor the administrative cost of any of the local workforce investment activities described in subsection (d) or (e) of section 2864 of this title or in section 2854(c) of this title, regardless of whether the funds were allocated under this subsection or section 2863(b) of this title.
 
 #### (C) Regulations
 

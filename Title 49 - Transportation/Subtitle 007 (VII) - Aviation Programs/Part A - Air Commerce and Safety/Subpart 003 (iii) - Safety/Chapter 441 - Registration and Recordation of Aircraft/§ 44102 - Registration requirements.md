@@ -10,7 +10,7 @@ Eligibility.—An aircraft may be registered under section 44103 of this title o
 
 &emsp;&emsp;(B) an individual citizen of a foreign country lawfully admitted for permanent residence in the United States; or
 
-&emsp;&emsp;(C) a corporation not a citizen of the United States when the corporation is organized and doing business under the laws ofthe United States or a State, and the aircraft is based and primarily used in the United States; or
+&emsp;&emsp;(C) a corporation not a citizen of the United States when the corporation is organized and doing business under the laws of the United States or a State, and the aircraft is based and primarily used in the United States; or
 
 &emsp;(2) an aircraft of—
 

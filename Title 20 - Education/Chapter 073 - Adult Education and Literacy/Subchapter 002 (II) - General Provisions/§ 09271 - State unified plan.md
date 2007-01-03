@@ -14,9 +14,9 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 &emsp;The activities and programs referred to in paragraph (1) are as follows:
 
-&emsp;&emsp;(A) Secondary vocational education programs authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.).
+&emsp;&emsp;(A) career <sup>1</sup> and technical education programs at the secondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
-&emsp;&emsp;(B) Postsecondary vocational education programs authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.).
+&emsp;&emsp;(B) career <sup>1</sup> and technical education programs at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
 &emsp;&emsp;(C) Activities authorized under title I \[29 U.S.C. 2801 et seq.\].
 
@@ -72,17 +72,17 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### (A) In general
 
-&emsp;&emsp;A portion of the State unified plan covering an activity or program described in subsection (b) of this section that is submitted to the appropriate Secretary under this section shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the appropriate Secretary receives the portion, unless the appropriate Secretary makes a written determination, during the 90-day period, that the portion is not consistent with the requirements of the Federal statute authorizing the activity or program including the criteria for approval of a plan or application, if any, under such statute or the plan is not consistent with the requirements of subsection (c)(3) of this section.
+&emsp;&emsp;A portion of the State unified plan covering an activity or program described in subsection (b) of this section that is submitted to the appropriate Secretary under this section shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the appropriate Secretary receives the portion, unless the appropriate Secretary makes a written determination, during the 90-day period, that the portion is not consistent with the requirements of the Federal statute authorizing the activity or program including the criteria for approval of a plan or application,if any, under such statute or the plan is not consistent with the requirements of subsection (c)(3) of this section.
 
 #### (B) Special rule
 
-&emsp;&emsp;In subparagraph (A), the term “criteria for approval of a State plan”, relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretary regarding State performance measures, including levels of performance.
+&emsp;&emsp;In subparagraph (A), the term “criteria for approval of a State plan”, relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretary regarding State performance measures, including levels of performance.
 
-(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
+(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748.)
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(2)(A), (B) and (d)(2)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(2)(A), (B) and (d)(2)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 Title I, referred to in subsec. (b)(2)(C), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
 
@@ -102,5 +102,17 @@ The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is sub
 
 #### Amendments
 
+2006—Subsec. (b)(2)(A). Pub. L. 109–270, §2(h)(7)(B), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+
+Pub. L. 109–270, §2(h)(7)(A), which directed the substitution of “career and technical education programs at the secondary level” for “secondary vocational education programs”, was executed by making the substitution for “Secondary vocational education programs” to reflect the probable intent of Congress.
+
+Subsec. (b)(2)(B). Pub. L. 109–270, §2(h)(8)(B), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+
+Pub. L. 109–270, §2(h)(8)(A), which directed the substitution of “career and technical education programs at the postsecondary level” for “postsecondary vocational education programs”, was executed by making the substitution for “Postsecondary vocational education programs” to reflect the probable intent of Congress.
+
+Subsec. (d)(2)(B). Pub. L. 109–270, §2(h)(9), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+
 1998—Subsec. (b)(1). Pub. L. 105–277 inserted at end “For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

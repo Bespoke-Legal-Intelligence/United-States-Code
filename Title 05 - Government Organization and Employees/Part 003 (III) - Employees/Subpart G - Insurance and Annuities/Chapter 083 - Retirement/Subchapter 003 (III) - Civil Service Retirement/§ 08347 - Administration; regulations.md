@@ -10,7 +10,7 @@
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8337(a) of this title, the procedures under section 7701 of this title shall apply and the decision of the Board shall be subject to judicial review under section 7703 of this title.
 
-(e) The Office shall fix the fees for examinations made under this subchapter by physiciansor surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering this subchapter.
+(e) The Office shall fix the fees for examinations made under this subchapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering this subchapter.
 
 (f) The Office shall select three actuaries, to be known as the Board of Actuaries of the Civil Service Retirement System. The Office shall fix the pay of the members of the Board, except members otherwise in the employ of the United States. The Board shall report annually on the actuarial status of the System and furnish its advice and opinion on matters referred to it by the Office. The Board may recommend to the Office and to Congress such changes as in the Board's judgment are necessary to protect the public interest and maintain the System on a sound financial basis. The Office shall keep, or cause to be kept, such records as it considers necessary for making periodic actuarial valuations of the System. The Board shall make actuarial valuations every 5 years, or oftener if considered necessary by the Office.
 
@@ -88,7 +88,7 @@
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined in section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described in section 2105(c) rather than be subject to this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–106, div. A, title X, §1043(a)(1), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(a), Dec. 28, 2001, 115 Stat. 1242.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L.95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–106, div. A, title X, §1043(a)(1), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(a), Dec. 28, 2001, 115 Stat. 1242.)
 
 Historical and Revision Notes<br>1966
 
@@ -160,7 +160,7 @@ Subsec. (p). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating t
 
 Subsec. (q). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating to employees of Department of Defense and Coast Guard, as (q).
 
-Subsec. (q)(1)(A), (2)(A). Pub. L. 102–378, §2(64)(B), amended subpars. (A) generally. Prior to amendment,subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+Subsec. (q)(1)(A), (2)(A). Pub. L. 102–378, §2(64)(B), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
 1991—Subsec. (m)(2). Pub. L. 102–54 substituted “Secretary” for “Administrator”.
 
@@ -206,7 +206,7 @@ For effective date of amendments by Pub. L. 104–106, see Regulations; Effectiv
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendments
 
@@ -258,7 +258,7 @@ Applicability; Related Provisions.—
 
 &emsp;“(1)
 
-Prospective rules.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 3502 and 8461 of this title\] shall apply with respect to moves occurring on or after the effective date of the regulations under subsection (b). Moves occurring onor after the date of the enactment of this Act \[Feb. 10, 1996\] and before the effective date of such regulations shall be subject to applicable provisions of title 5, United States Code, disregarding the amendments made by this section, except that any individual making an election pursuant to this sentence shall be ineligible to make an election otherwise allowable under paragraph (2).
+Prospective rules.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 3502 and 8461 of this title\] shall apply with respect to moves occurring on or after the effective date of the regulations under subsection (b). Moves occurring on or after the date of the enactment of this Act \[Feb. 10, 1996\] and before the effective date of such regulations shall be subject to applicable provisions of title 5, United States Code, disregarding the amendments made by this section, except that any individual making an election pursuant to this sentence shall be ineligible to make an election otherwise allowable under paragraph (2).
 
 &emsp;“(2)
 
@@ -290,7 +290,7 @@ Transfers of contributions.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
+In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or otherrepository for contributions made under the previous system. For purposes of this section, the term ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
 
 &emsp;&emsp;&emsp;“(ii)
 

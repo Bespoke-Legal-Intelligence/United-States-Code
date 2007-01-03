@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the amount of funds credited in a fiscal year to the Vessel Operations Revolving Fund established by section 1241a of title 46, Appendix, that is attributable to the sale of obsolete vessels in the National Defense Reserve Fleet that are scrapped or sold under section 1158 or 1160(i) of title 46, Appendix, shall be available until expended as follows:
+&emsp;Notwithstanding any other provision of law, the amount of funds credited in a fiscal year to the Vessel Operations Revolving Fund established by section 50301(a) of title 46 that is attributable to the sale of obsolete vessels in the National Defense Reserve Fleet that are scrapped or sold under section 57102, 57103, or 57104 of title 46 shall be available until expended as follows:
 
 &emsp;&emsp;(A) 50 percent shall be available to the Administrator of the Maritime Administration for such acquisition, maintenance, repair, reconditioning, or improvement of vessels in the National Defense Reserve Fleet as is authorized under other Federal law.
 
-&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
+&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility andtraining ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
 &emsp;&emsp;(C) The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.
 
@@ -28,7 +28,7 @@
 
 #### (2) Use for interim projects
 
-&emsp;Amounts available for the Program under subsection (a)(1)(C) of this section that are the proceeds of any of the first 8 obsolete vessels in the National Defense Reserve Fleet that are sold or scrapped after July 1, 1994, under section 1158 or 1160(i) of title 46, Appendix, are available to the Secretary for grants for interim projects approved under section 5403(j) of this title.
+&emsp;Amounts available for the Program under subsection (a)(1)(C) of this section that are the proceeds of any of the first 8 obsolete vessels in the National Defense Reserve Fleet that are sold or scrapped after July 1, 1994, under section 57102, 57103, or 57104 of title 46 are available to the Secretary for grants for interim projects approved under section 5403(j) of this title.
 
 #### (3) Administrative expenses
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) in the manner that provides the best value to the Government, except in any case in which obtaining the best value would require towing a vessel and such towing poses a serious threat to the environment; and
 
-&emsp;&emsp;(C) in accordance with the plan of the Department of Transportation for disposal of those vessels and requirements under sections 1158 and 1160(i) of title 46, Appendix.
+&emsp;&emsp;(C) in accordance with the plan of the Department of Transportation for disposal of those vessels and requirements under sections 57102 to 57104 of title 46.
 
 #### (2) Vessels described
 
@@ -69,6 +69,10 @@
 Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
 
 (Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490.)
+
+#### Codification
+
+“Section 50301(a) of title 46” substituted in subsec. (a)(1) for “Act of June 2, 1951 (46 App. U.S.C. 1241a),”, “section 57102, 57103, or 57104 of title 46” substituted in subsec. (a)(1) for “section 508 or 510(i) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1158 or 1160(i))” and in subsec. (b)(2) for “section 508 or 510(i) of the Merchant Marine Act, 1936 (46 U.S.C. 1158 or 1160(i))”, and “sections 57102 to 57104 of title 46” substituted in subsec. (c)(1)(C) for “sections 508 and 510(i) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1158, 1160(i))”, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 50301 and 57102 to 57104 of Title 46, Shipping.
 
 #### Amendments
 
@@ -100,7 +104,7 @@ Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(
 
 “(3) Activities under the pilot programs under paragraph (1) shall include the following:
 
-&emsp;“(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes of the pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
+&emsp;“(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes ofthe pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
 
 &emsp;“(B) Response by the Maritime Administration to proposals from the international ship recycling industry for innovative and cost-effective disposal solutions for obsolete vessels in the National Defense Reserve Fleet, including an evaluation of the feasibility and advisability of such proposals.
 
@@ -184,7 +188,7 @@ Private management contract for disposal of Maritime Administration vessels.—T
 
 &emsp;“(2)
 
-Application.—This subsection shall apply beginning 180 days after the date of the enactment ofthis subsection \[Jan. 6, 2006\], unless the Secretary of Transportation has submitted to the Congress the comprehensive plan required under subsection (c).
+Application.—This subsection shall apply beginning 180 days after the date of the enactment of this subsection \[Jan. 6, 2006\], unless the Secretary of Transportation has submitted to the Congress the comprehensive plan required under subsection (c).
 
 “(f)
 

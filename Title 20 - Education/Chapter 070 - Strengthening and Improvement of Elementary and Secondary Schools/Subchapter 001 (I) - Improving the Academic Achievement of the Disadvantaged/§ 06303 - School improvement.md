@@ -20,7 +20,7 @@ The State educational agency, in allocating funds to local educational agencies 
 
 &emsp;(2) demonstrate the greatest need for such funds; and
 
-&emsp;(3) demonstrate the strongest commitment to ensuring that such funds are used to enable the lowest-achieving schools to meet the progress goals in school improvement plans under section 6316(b)(3)(A)(v) of this title.
+&emsp;(3) demonstrate the strongest commitment to ensuring that such funds are used to enable the lowest-achieving schools to meet theprogress goals in school improvement plans under section 6316(b)(3)(A)(v) of this title.
 
 #### (d) Unused funds
 
@@ -32,7 +32,7 @@ If, after consultation with local educational agencies in the State, the State e
 
 #### (e) Special rule
 
-Notwithstanding any other provision of this section, the amount of funds reserved by the State educational agency under subsection (a) ofthis section in any fiscal year shall not decrease the amount of funds each local educational agency receives under subpart 2 <sup>1</sup> below the amount received by such local educational agency under such subpart for the preceding fiscal year.
+Notwithstanding any other provision of this section, the amount of funds reserved by the State educational agency under subsection (a) of this section in any fiscal year shall not decrease the amount of funds each local educational agency receives under subpart 2 <sup>1</sup> below the amount received by such local educational agency under such subpart for the preceding fiscal year.
 
 #### (f) Reporting
 

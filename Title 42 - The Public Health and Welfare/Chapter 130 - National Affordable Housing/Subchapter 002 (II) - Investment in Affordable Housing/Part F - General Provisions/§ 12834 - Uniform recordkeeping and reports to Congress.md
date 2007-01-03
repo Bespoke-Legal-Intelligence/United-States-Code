@@ -10,5 +10,5 @@ The Secretary shall develop and establish uniform recordkeeping, performance rep
 
 #### Codification
 
-Subsec. (b) of this section, which required the Secretary to make an annual report to Congress that summarizes and assesses the results of reports provided under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 3rd item on page 102 of House Document No. 103–7.
+Subsec. (b) of this section, which required the Secretary to make an annual report to Congress that summarizes and assesses the results of reports provided under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Moneyand Finance. See, also, the 3rd item on page 102 of House Document No. 103–7.
 

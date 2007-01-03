@@ -20,7 +20,7 @@ Pub. L. 97–62 and Pub. L. 97–67 made identical amendments providing for subs
 
 Pub. L. 97–24 substituted “June 1, 1982” for “June 1, 1978”, “Ninety-seventh Congress” for “Ninety-fifth Congress”, and “October 15, 1981” for “October 15, 1977”.
 
-1977—Pub. L. 95–48 substituted provisions extending the date for the conduct of the referendum with respect to the national marketing for wheat for the marketing year beginning June 1, 1978, by allowing the referendum to be conducted not later than thirty days after the adjournment sine die of the first session of the Ninety-fifth Congress or Oct. 15, 1977, whichever is earlier, for provisions which had set the time limits for the referendums with respect to the national marketing quotas for wheat for the marketing years beginning July 1, 1966, July 1, 1971, and July 1, 1974, respectively.
+1977—Pub. L. 95–48 substituted provisions extending the date for the conduct of the referendum with respectto the national marketing for wheat for the marketing year beginning June 1, 1978, by allowing the referendum to be conducted not later than thirty days after the adjournment sine die of the first session of the Ninety-fifth Congress or Oct. 15, 1977, whichever is earlier, for provisions which had set the time limits for the referendums with respect to the national marketing quotas for wheat for the marketing years beginning July 1, 1966, July 1, 1971, and July 1, 1974, respectively.
 
 1973—Pub. L. 93–68 extended time within which the Secretary of Agriculture is required to conduct a referendum with respect to the 1974 crop of wheat, if marketing quotas are to be in effect for that crop, to the earlier of thirty days after adjournment of the first session of the Ninety-third Congress or Oct. 15, 1973.
 

@@ -56,7 +56,7 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 
@@ -68,7 +68,7 @@ The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2),
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is classified generally to this subchapter. Section 258 of the Act is classified to this section.
+Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), isclassified generally to this subchapter. Section 258 of the Act is classified to this section.
 
 #### Prior Provisions
 

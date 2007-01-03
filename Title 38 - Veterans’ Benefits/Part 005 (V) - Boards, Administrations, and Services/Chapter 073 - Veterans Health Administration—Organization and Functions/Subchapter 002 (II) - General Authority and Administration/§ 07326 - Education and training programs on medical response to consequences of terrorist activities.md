@@ -2,7 +2,7 @@
 
 (a)
 
-Education Program.—The Secretary shall carry out a program to develop and disseminatea series of model education and training programs on the medical responses to the consequences of terrorist activities.
+Education Program.—The Secretary shall carry out a program to develop and disseminate a series of model education and training programs on the medical responses to the consequences of terrorist activities.
 
 (b)
 
@@ -38,5 +38,5 @@ Consultation.—In establishing education and training programs under this secti
 
 #### Implementation
 
-Pub. L. 107–287, §3(b), Nov. 7, 2002, 116 Stat. 2028, provided that: “The Secretary of Veterans Affairs shall implement section 7326 of title 38, United States Code, as added by subsection (a), not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 7, 2002\].”
+Pub. L. 107–287, §3(b), Nov. 7, 2002, 116 Stat. 2028, provided that: “The Secretary of Veterans Affairs shallimplement section 7326 of title 38, United States Code, as added by subsection (a), not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 7, 2002\].”
 

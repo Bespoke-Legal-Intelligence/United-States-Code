@@ -36,7 +36,7 @@ Not later than 180 days after the establishment of the specialty crops committee
 
 #### (d) Consideration by Secretary
 
-In preparing the annual budget recommendations for the Department of Agriculture, the Secretary shall take into consideration those findings and recommendations contained in themost-recent report of the specialty crops committee that are adopted by the Advisory Board.
+In preparing the annual budget recommendations for the Department of Agriculture, the Secretary shall take into consideration those findings and recommendations contained in the most-recent report of the specialty crops committee that are adopted by the Advisory Board.
 
 #### (e) Annual report by Secretary
 

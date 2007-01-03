@@ -1022,7 +1022,7 @@
 | 403–3. | Addition of lands to Shenandoah National Park; administration. |
 | [403a.](Subchapter%20046%20%28XLVI%29%20-%20Shenandoah%20National%20Park%20and%20Great%20Smoky%20Mountains%20National%20Park/%C2%A7%2000403a%20-%20Acceptance%20of%20title%20to%20lands.md) | Acceptance of title to lands. |
 | [403b.](Subchapter%20046%20%28XLVI%29%20-%20Shenandoah%20National%20Park%20and%20Great%20Smoky%20Mountains%20National%20Park/%C2%A7%2000403b%20-%20Administration%2C%20protection%2C%20and%20development%3B%20Federal%20Power%20Act%20inapplicable%3B%20minimum%20area.md) | Administration, protection, and development; Federal Power Act inapplicable; minimum area. |
-| [403c.](Subchapter%20046%20%28XLVI%29%20-%20Shenandoah%20National%20Park%20and%20Great%20Smoky%20Mountains%20National%20Park/%C2%A7%2000403c%20-%20Use%20of%20existing%20commission.md) | Use of existing commission. |
+| [403c.](Subchapter%20046%20%28XLVI%29%20-%20Shenandoah%20National%20Park%20and%20Great%20Smoky%20Mountains%20National%20Park/%C2%A7%2000403c%20-%20Omitted.md) | Use of existing commission. |
 | 403c–1. | Respective jurisdiction of Virginia and United States over lands in Shenandoah Park. |
 | 403c–2. | Repealed. |
 | 403c–3. | Criminal offenses concerning hunting, fishing, and property. |
@@ -1939,7 +1939,7 @@
 | [426j.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426j%20-%20Authorization%20of%20appropriation%3B%20fixing%20of%20boundaries%20as%20condition%20to%20purchase%20of%20lands.md) | Authorization of appropriation; fixing of boundaries as condition to purchase of lands. |
 | [426k.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426k%20-%20Acquisition%20of%20additional%20lands.md) | Acquisition of additional lands. |
 | 426<i>l.</i> | Redesignation; availability of appropriations. |
-| [426m.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426m%20-%20Administration%2C%20protection%20and%20development.md) | Administration, protection and development. |
+| [426m.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426m%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
 | [426n.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426n%20-%20Boundary%20revision%20of%20Stones%20River%20National%20Battlefield.md) | Boundary revision of Stones River National Battlefield. |
 | 426<i>o.</i> | Agreement with Murfreesboro, Tennessee, respecting battlefield. |
 | 426<i>o</i>–1. | Planning. |
@@ -3584,6 +3584,40 @@ I74subpart 1—designation and purposes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER CXXIX—RIO GRANDE NATURAL AREA
+
+|  |  |
+| :--- | ---: |
+| [460rrr.](Subchapter%20129%20%28CXXIX%29%20-%20Rio%20Grande%20Natural%20Area/%C2%A7%2000460rrr%20-%20Definitions.md) | Definitions. |
+| 460rrr–1. | Establishment of Rio Grande Natural Area. |
+| 460rrr–2. | Establishment of the Commission. |
+| 460rrr–3. | Powers of the Commission. |
+| 460rrr–4. | Management plan. |
+| 460rrr–5. | Administration of Natural Area. |
+| 460rrr–6. | Effect. |
+| 460rrr–7. | Authorization of appropriations. |
+| 460rrr–8. | Termination of Commission. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXX—COW MOUNTAIN RECREATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460sss.](Subchapter%20130%20%28CXXX%29%20-%20Cow%20Mountain%20Recreation%20Area/%C2%A7%2000460sss%20-%20Cow%20Mountain%20Recreation%20Area%2C%20Lake%20and%20Mendocino%20Counties%2C%20California.md) | Cow Mountain Recreation Area, Lake and Mendocino Counties, California. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXXI—MOOSALAMOO NATIONAL RECREATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460ttt.](Subchapter%20131%20%28CXXXI%29%20-%20Moosalamoo%20National%20Recreation%20Area/%C2%A7%2000460ttt%20-%20Designation.md) | Designation. |
+| 460ttt–1. | Map and description. |
+| 460ttt–2. | Administration of national recreation area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -3757,3 +3791,6 @@ I74subpart 1—designation and purposes
 - [Subchapter 126 (CXXVI) - Las Cienegas National Conservation Area](Subchapter%20126%20%28CXXVI%29%20-%20Las%20Cienegas%20National%20Conservation%20Area/README.md)
 - [Subchapter 127 (CXXVII) - Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area](Subchapter%20127%20%28CXXVII%29%20-%20Black%20Rock%20Desert-High%20Rock%20Canyon%20Emigrant%20Trails%20National%20Conservation%20Area/README.md)
 - [Subchapter 128 (CXXVIII) - Sloan Canyon National Conservation Area](Subchapter%20128%20%28CXXVIII%29%20-%20Sloan%20Canyon%20National%20Conservation%20Area/README.md)
+- [Subchapter 129 (CXXIX) - Rio Grande Natural Area](Subchapter%20129%20%28CXXIX%29%20-%20Rio%20Grande%20Natural%20Area/README.md)
+- [Subchapter 130 (CXXX) - Cow Mountain Recreation Area](Subchapter%20130%20%28CXXX%29%20-%20Cow%20Mountain%20Recreation%20Area/README.md)
+- [Subchapter 131 (CXXXI) - Moosalamoo National Recreation Area](Subchapter%20131%20%28CXXXI%29%20-%20Moosalamoo%20National%20Recreation%20Area/README.md)

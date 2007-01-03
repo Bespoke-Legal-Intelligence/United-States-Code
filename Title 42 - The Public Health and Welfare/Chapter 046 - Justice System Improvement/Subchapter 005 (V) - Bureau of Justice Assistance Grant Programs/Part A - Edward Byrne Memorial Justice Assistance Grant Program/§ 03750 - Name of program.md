@@ -14,7 +14,7 @@ The grant program established under this part shall be known as the “Edward By
 
 #### References in Text
 
-The Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009, referred to in subsec. (b)(2), probably means the Violence Against Women and Depatment of Justice Reauthorization Act of 2005, Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960, which repealed section 3756 of this title and enacted section 3755 of this title.
+The Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009, referred to in subsec. (b)(2), probably means the Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960, which repealed section 3756 of this title and enacted section 3755 of this title.
 
 #### Prior Provisions
 

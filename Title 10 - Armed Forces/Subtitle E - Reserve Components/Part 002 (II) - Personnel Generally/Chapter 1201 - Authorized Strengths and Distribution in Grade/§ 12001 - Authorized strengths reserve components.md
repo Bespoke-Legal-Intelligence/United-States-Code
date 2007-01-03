@@ -20,55 +20,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
-Pub. L. 109–163, div. A, title IV, §§411, 412, Jan. 6, 2006, 119 Stat. 3220, 3221, provided that:
-
-#### “SEC. 411. END STRENGTHS FOR SELECTED RESERVE.
-
-“(a)
-
-In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2006, as follows:
-
-&emsp;“(1) The Army National Guard of the United States, 350,000.
-
-&emsp;“(2) The Army Reserve, 205,000.
-
-&emsp;“(3) The Navy Reserve, 73,100.
-
-&emsp;“(4) The Marine Corps Reserve, 39,600.
-
-&emsp;“(5) The Air National Guard of the United States, 106,800.
-
-&emsp;“(6) The Air Force Reserve, 74,000.
-
-&emsp;“(7) The Coast Guard Reserve, 10,000.
-
-“(b)
-
-Adjustments.—The end strengths prescribed by subsection (a) for the Selected Reserve of any reserve component shall be proportionately reduced by—
-
-&emsp;“(1) the total authorized strength of units organized to serve as units of the Selected Reserve of such component which are on active duty (other than for training) at the end of the fiscal year; and
-
-&emsp;“(2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty (other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year.
-
-> Whenever such units or such individual members are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be increased proportionately by the total authorized strengths of such units and by the total number of such individual members.
-
-#### “SEC. 412. END STRENGTHS FOR RESERVES ON ACTIVE DUTY IN SUPPORT OF THE RESERVES.
-
-“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 2006, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
-
-&emsp;“(1) The Army National Guard of the United States, 27,396.
-
-&emsp;“(2) The Army Reserve, 15,270.
-
-&emsp;“(3) The Navy Reserve, 13,392.
-
-&emsp;“(4) The Marine Corps Reserve, 2,261.
-
-&emsp;“(5) The Air National Guard of the United States, 13,123.
-
-&emsp;“(6) The Air Force Reserve, 2,290.”
-
-Similar provisions were contained in the following prior authorization acts:
+Pub. L. 109–163, div. A, title IV, §§411, 412, Jan. 6, 2006, 119 Stat. 3220, 3221, which authorized end strengths for Selected Reserve personnel of the reserve components and for Reserves on active duty in support of the Reserves as of the last day of a fiscal year was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 108–375, div. A, title IV, §§411, 412, Oct. 28, 2004, 118 Stat. 1864, 1865.
 
@@ -162,33 +114,11 @@ Definition.—For purposes of this section, the term ‘force structure allowanc
 
 #### Limitation on Reduction in Number of Reserve Component Medical Personnel
 
-Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as amended by Pub. L. 103–337, div. A, title VII, §716, Oct. 5, 1994, 108 Stat. 2803, prohibited Secretary of Defense from reducing number of medical personnel in any reserve component below number of suchpersonnel in that component on Sept. 30, 1992, unless Secretary certified to Congress that number of such personnel to be reduced in particular military department was excess to current and projected needs for personnel in Selected Reserve of that department, and required that assessment of such needs be consistent with wartime requirements for Selected Reserve personnel identified in final report on comprehensive study of military medical care system prepared pursuant to section 733 of Pub. L. 102–190, formerly set out as a note under section 1071 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(3), Feb. 10, 1996, 110 Stat. 327.
+Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as amended by Pub. L. 103–337, div. A, title VII, §716, Oct. 5, 1994, 108 Stat. 2803, prohibited Secretary of Defense from reducing number of medical personnel in any reserve component below number of such personnel in that component on Sept. 30, 1992, unless Secretary certified to Congress that number of such personnel to be reduced in particular military department was excess to current and projected needs for personnel in Selected Reserve of that department, and required that assessment of such needs be consistent with wartime requirements for Selected Reserve personnel identified in final report on comprehensive study of military medical care system prepared pursuant to section 733 of Pub. L. 102–190, formerly set out as a note under section 1071 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(3), Feb. 10, 1996, 110 Stat. 327.
 
 #### Program for Active Component Support of Reserves
 
-Pub. L. 108–375, div. A, title V, §515(b)–(d), Oct. 28, 2004, 118 Stat. 1883, 1884, provided that:
-
-“(b)
-
-Limitation on Reductions.—Notwithstanding the amendment made by subsection (a) \[amending section 414 of Pub. L. 102–190, set out below\], the Secretary of the Army may not reduce the number of active component Reserve support personnel below the number of such personnel as of the date of the enactment of this Act \[Oct. 28, 2004\] until the report required by subsection (c) has been submitted.
-
-“(c)
-
-Report.—Not later than March 31, 2005, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the support by active components of the Army for training and readiness of the Army National Guard and Army Reserve. The report shall include an evaluation and determination of each of the following:
-
-&emsp;“(1) The effect on the ability of the Army to improve such training and readiness resulting from the reduction under the amendment made by subsection (a) in the minimum number of active component Reserve support personnel.
-
-&emsp;“(2) The adequacy of having 3,500 members of the Army (the minimum number required under the law as so amended) assigned as active component Reserve support personnel in order to meet emerging training requirements in the Army reserve components in connection with unit and force structure conversions and preparations for wartime deployment.
-
-&emsp;“(3) The nature and effectiveness of efforts by the Army to reallocate the 3,500 personnel assigned as active component Reserve support personnel to higher priority requirements and to expand the use of reservists on active duty to meet reserve component training needs.
-
-&emsp;“(4) Whether the Army is planning further reductions in the number of active component Reserve support personnel and, if so, the scope and rationale for those reductions.
-
-&emsp;“(5) Whether an increase in Army reserve component full-time support personnel will be required to replace the loss of active component Reserve support personnel.
-
-“(d)
-
-Definition.—In this section, the term ‘active component Reserve support personnel’ means the active component Army personnel assigned as advisers to units of the Selected Reserve of the Ready Reserve of the Army pursuant to section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[Pub. L. 102–190\] (10 U.S.C. 12001 note).”
+Pub. L. 108–375, div. A, title V, §515(b)–(d), Oct. 28, 2004, 118 Stat. 1883, 1884, prohibited the Secretary of the Army from reducing the number of active component Reserve support personnel below the number of such personnel as of Oct. 28, 2004, until the Secretary of the Army submitted to the Committees on Armed Services of the Senate and House of Representatives, not later than Mar. 31, 2005, a report on the support by active components of the Army for training and readiness of the Army National Guard and Army Reserve.
 
 Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, provided that:
 

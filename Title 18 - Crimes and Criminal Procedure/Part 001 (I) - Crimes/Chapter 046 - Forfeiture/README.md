@@ -8,10 +8,13 @@
 | [984\.](%C2%A7%2000984%20-%20Civil%20forfeiture%20of%20fungible%20property.md) | Civil forfeiture of fungible property. |
 | [985\.](%C2%A7%2000985%20-%20Civil%20forfeiture%20of%20real%20property.md) | Civil forfeiture of real property. |
 | [986\.](%C2%A7%2000986%20-%20Subpoenas%20for%20bank%20records.md) | Subpoenas for bank records. |
+| [987\.](%C2%A7%2000987%20-%20Anti-terrorist%20forfeiture%20protection.md) | Anti-terrorist forfeiture protection. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–177, title IV, §406(b)(1)(A), Mar. 9, 2006, 120 Stat. 244, added item 987.
 
 2000—Pub. L. 106–185, §§2(b), 7(b), Apr. 25, 2000, 114 Stat. 210, 215, added items 983 and 985.
 
@@ -30,3 +33,4 @@
 - [&sect; 00984 - Civil forfeiture of fungible property](%C2%A7%2000984%20-%20Civil%20forfeiture%20of%20fungible%20property.md)
 - [&sect; 00985 - Civil forfeiture of real property](%C2%A7%2000985%20-%20Civil%20forfeiture%20of%20real%20property.md)
 - [&sect; 00986 - Subpoenas for bank records](%C2%A7%2000986%20-%20Subpoenas%20for%20bank%20records.md)
+- [&sect; 00987 - Anti-terrorist forfeiture protection](%C2%A7%2000987%20-%20Anti-terrorist%20forfeiture%20protection.md)

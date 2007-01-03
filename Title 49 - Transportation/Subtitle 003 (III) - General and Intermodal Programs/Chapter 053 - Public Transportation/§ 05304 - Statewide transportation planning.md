@@ -6,7 +6,7 @@ General Requirements.—
 
 &emsp;(1)
 
-Development of plans and programs.—To accomplish the objectives stated in section 5303(a), each State shall develop a statewide transportation plan and a statewide transportation improvement program for all areas of the State, subject to section 5303.
+Development of plans and programs.—To accomplish the objectives stated in section5303(a), each State shall develop a statewide transportation plan and a statewide transportation improvement program for all areas of the State, subject to section 5303.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Additional Requirements.—In carrying out planning under this section, each Sta
 
 &emsp;(1) with respect to nonmetropolitan areas, the concerns of affected local officials with responsibility for transportation;
 
-&emsp;(2) the concerns of Indian tribal governments and Federal land management agenciesthat have jurisdiction over land within the boundaries of the State; and
+&emsp;(2) the concerns of Indian tribal governments and Federal land management agencies that have jurisdiction over land within the boundaries of the State; and
 
 &emsp;(3) coordination of transportation plans, the transportation improvement program, and planning activities with related planning activities being carried out outside of metropolitan planning areas and between States.
 
@@ -174,7 +174,7 @@ Metropolitan areas.—With respect to each metropolitan area in the State, the p
 
 &emsp;&emsp;(B)
 
-Nonmetropolitan areas.—With respect to each nonmetropolitan area in theState, the program shall be developed in consultation with affected nonmetropolitan local officials with responsibility for transportation. The Secretary shall not review or approve the specific consultation process in the State.
+Nonmetropolitan areas.—With respect to each nonmetropolitan area in the State, the program shall be developed in consultation with affected nonmetropolitan local officials with responsibility for transportation. The Secretary shall not review or approve the specific consultation process in the State.
 
 &emsp;&emsp;(C)
 
@@ -248,7 +248,7 @@ Project selection for areas of less than 50,000 population.—Projects carried o
 
 &emsp;(6)
 
-Transportation improvement program approval.—Every 4 years, a transportationimprovement program developed under this subsection shall be reviewed and approved by the Secretary if based on a current planning finding.
+Transportation improvement program approval.—Every 4 years, a transportation improvement program developed under this subsection shall be reviewed and approved by the Secretary if based on a current planning finding.
 
 &emsp;(7)
 

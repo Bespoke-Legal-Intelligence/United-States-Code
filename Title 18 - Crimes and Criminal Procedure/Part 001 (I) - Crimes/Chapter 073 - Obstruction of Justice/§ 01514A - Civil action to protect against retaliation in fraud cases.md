@@ -36,7 +36,7 @@ In general.—An action under paragraph (1)(A) shall be governed under the rules
 
 &emsp;&emsp;(B)
 
-Exception.—Notification made under section 42121(b)(1) of title 49, United StatesCode, shall be made to the person named in the complaint and to the employer.
+Exception.—Notification made under section 42121(b)(1) of title 49, United States Code, shall be made to the person named in the complaint and to the employer.
 
 &emsp;&emsp;(C)
 

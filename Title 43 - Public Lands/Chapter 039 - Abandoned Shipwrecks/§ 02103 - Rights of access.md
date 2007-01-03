@@ -8,7 +8,7 @@ In order to—
 
 &emsp;(2) provide that reasonable access by the public to such abandoned shipwrecks be permitted by the State holding title to such shipwrecks pursuant to section 2105 of this title,
 
-> it is the declared policy of the Congress that States carry out their responsibilities under this chapter to develop appropriate and consistent policies so as to—
+> it is the declared policy of the Congress that States carry out their responsibilities under thischapter to develop appropriate and consistent policies so as to—
 
 &emsp;(A) protect natural resources and habitat areas;
 

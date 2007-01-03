@@ -50,7 +50,7 @@ Development of Procedures for Suspension.—The Secretary of Defense shall devel
 
 “(b)
 
-Report to Congress.—The Secretary of Defense shall submit to Congress a report describing the procedures developed under subsection (a). The report shall include recommendations regarding changes to existingprovisions of law (including section 8313 of title 5, United States Code) that the Secretary determines are necessary to fully implement the procedures.
+Report to Congress.—The Secretary of Defense shall submit to Congress a report describing the procedures developed under subsection (a). The report shall include recommendations regarding changes to existing provisions of law (including section 8313 of title 5, United States Code) that the Secretary determines are necessary to fully implement the procedures.
 
 “(c)
 

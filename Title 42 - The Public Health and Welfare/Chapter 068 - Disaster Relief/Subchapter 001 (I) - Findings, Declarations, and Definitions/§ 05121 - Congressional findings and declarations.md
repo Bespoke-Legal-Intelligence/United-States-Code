@@ -36,13 +36,19 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Section 605 of Pub. L. 93–288 provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–308, §1, Oct. 6, 2006, 120 Stat. 1725, provided that: “This Act \[amending sections 5170b, 5196, and 5196b of this title\] may be cited as the ‘Pets Evacuation and Transportation Standards Act of 2006’.”
+
+Pub. L. 109–218, §1, Apr. 20, 2006, 120 Stat. 333, provided that: “This Act \[amending section 5150 of this title\] may be cited as the ‘Local Community Recovery Act of 2006’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–139, §1, Dec. 22, 2005, 119 Stat. 2649, provided that: “This Act \[amending section 5133 of this title and provisions set out as a note under this section\] may be cited as the ‘Predisaster Mitigation Program Reauthorization Act of 2005’.”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
+Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165 to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -50,7 +56,7 @@ Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Section 101(a) of title I of Pub. L. 100–707 provided that: “This title \[enacting sections 5141, 5153 to 5157, 5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title, sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715<i>l</i> of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title, enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as ‘The Disaster Relief and Emergency Assistance Amendments of 1988’.”
+Section 101(a) of title I of Pub. L. 100–707 provided that: “This title \[enacting sections 5141, 5153 to 5157,5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title, sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715<i>l</i> of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title, enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as ‘The Disaster Relief and Emergency Assistance Amendments of 1988’.”
 
 #### Short Title of 1980 Amendment
 
@@ -62,7 +68,9 @@ Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 
@@ -90,225 +98,19 @@ Pub. L. 106–390, title II, §209, Oct. 30, 2000, 114 Stat. 1571, as amended by
 
 #### Study of Participation by Indian Tribes in Emergency Management
 
-Pub. L. 106–390, title III, §308, Oct. 30, 2000, 114 Stat. 1575, provided that:
-
-“(a)
-
-Definition of Indian Tribe.—In this section, the term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
-
-“(b)
-
-Study.—
-
-&emsp;“(1)
-
-In general.—The Director of the Federal Emergency Management Agency shall conduct a study of participation by Indian tribes in emergency management.
-
-&emsp;“(2)
-
-Required elements.—The study shall—
-
-&emsp;&emsp;“(A) survey participation by Indian tribes in training, predisaster and postdisaster mitigation,disaster preparedness, and disaster recovery programs at the Federal and State levels; and
-
-&emsp;&emsp;“(B) review and assess the capacity of Indian tribes to participate in cost-shared emergency management programs and to participate in the management of the programs.
-
-&emsp;“(3)
-
-Consultation.—In conducting the study, the Director shall consult with Indian tribes.
-
-“(c)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 2000\], the Director shall submit a report on the study under subsection (b) to—
-
-&emsp;“(1) the Committee on Environment and Public Works of the Senate;
-
-&emsp;“(2) the Committee on Transportation and Infrastructure of the House of Representatives;
-
-&emsp;“(3) the Committee on Appropriations of the Senate; and
-
-&emsp;“(4) the Committee on Appropriations of the House of Representatives.”
+Pub. L. 106–390, title III, §308, Oct. 30, 2000, 114 Stat. 1575, required the Director of the Federal Emergency Management Agency to conduct a study of participation by Indian tribes in emergency management and submit a report no later than 1 year after Oct. 30, 2000.
 
 #### National Drought Policy
 
-Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat. 1170, provided that:
-
-#### “SECTION 1. SHORT TITLE.
-
-“This Act may be cited as the ‘National Drought Policy Act of 1998’.
-
-#### “SEC. 2. FINDINGS.
-
-“Congress finds that—
-
-&emsp;“(1) the United States often suffers serious economic and environmental losses from severe regional droughts and there is no coordinated Federal strategy to respond to such emergencies;
-
-&emsp;“(2) at the Federal level, even though historically there have been frequent, significant droughts of national consequences, drought is addressed mainly through special legislation and ad hoc action rather than through a systematic and permanent process as occurs with other natural disasters;
-
-&emsp;“(3) there is an increasing need, particularly at the Federal level, to emphasize preparedness, mitigation, and risk management (rather than simply crisis management) when addressing drought and other natural disasters or emergencies;
-
-&emsp;“(4) several Federal agencies have a role in drought from predicting, forecasting, and monitoring of drought conditions to the provision of planning, technical, and financial assistance;
-
-&emsp;“(5) there is no single Federal agency in a lead or coordinating role with regard to drought;
-
-&emsp;“(6) State, local, and tribal governments have had to deal individually and separately with each Federal agency involved in drought assistance; and
-
-&emsp;“(7) the President should appoint an advisory commission to provide advice and recommendations on the creation of an integrated, coordinated Federal policy designed to prepare for, mitigate the impacts of, respond to, and recover from serious drought emergencies.
-
-#### “SEC. 3. ESTABLISHMENT OF COMMISSION.
-
-“(a)
-
-Establishment.—There is established a commission to be known as the National Drought Policy Commission (hereafter in this Act referred to as the ‘Commission’).
-
-“(b)
-
-Membership.—
-
-&emsp;“(1)
-
-Composition.—The Commission shall be composed of 16 members. The members of the Commission shall include—
-
-&emsp;&emsp;“(A) the Secretary of Agriculture, or the designee of the Secretary, who shall chair the Commission;
-
-&emsp;&emsp;“(B) the Secretary of the Interior, or the designee of the Secretary;
-
-&emsp;&emsp;“(C) the Secretary of the Army, or the designee of the Secretary;
-
-&emsp;&emsp;“(D) the Secretary of Commerce, or the designee of the Secretary;
-
-&emsp;&emsp;“(E) the Director of the Federal Emergency Management Agency, or the designee of the Director;
-
-&emsp;&emsp;“(F) the Administrator of the Small Business Administration, or the designee of the Administrator;
-
-&emsp;&emsp;“(G) two governors, who may be represented on the Commission by their respective designees, nominated by the National Governors’ Association and appointed by the President, of whom—
-
-&emsp;&emsp;&emsp;“(i) one shall be the governor of a State east of the Mississippi River; and
-
-&emsp;&emsp;&emsp;“(ii) one shall be a governor of a State west of the Mississippi River;
-
-&emsp;&emsp;“(H) a person nominated by the National Association of Counties and appointed by the President;
-
-&emsp;&emsp;“(I) a person nominated by the United States Conference of Mayors and appointed by the President; and
-
-&emsp;&emsp;“(J) six persons, appointed by the Secretary of Agriculture in coordination with the Secretary of the Interior and the Secretary of the Army, who shall be representative of groups acutely affected by drought emergencies, such as the agricultural production community, the credit community, rural and urban water associations, Native Americans, and fishing and environmental interests.
-
-&emsp;“(2)
-
-Date.—The appointments of the members of the Commission shall be made no later than 60 days after the date of the enactment of this Act \[July 16, 1998\].
-
-“(c)
-
-Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
-
-“(d)
-
-Initial Meeting.—No later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
-
-“(e)
-
-Meetings.—The Commission shall meet at the call of the chair.
-
-“(f)
-
-Quorum.—A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
-
-“(g)
-
-Vice Chair.—The Commission shall select a vice chair from among the members who are not Federal officers or employees.
-
-#### “SEC. 4. DUTIES OF THE COMMISSION.
-
-“(a)
-
-Study and Report.—The Commission shall conduct a thorough study and submit a report on national drought policy in accordance with this section.
-
-“(b)
-
-Content of Study and Report.—In conducting the study and report, the Commission shall—
-
-&emsp;“(1) determine, in consultation with the National Drought Mitigation Center in Lincoln, Nebraska, and other appropriate entities, what needs exist on the Federal, State, local, and tribal levels to prepare for and respond to drought emergencies;
-
-&emsp;“(2) review all existing Federal laws and programs relating to drought;
-
-&emsp;“(3) review State, local, and tribal laws and programs relating to drought that the Commission finds pertinent;
-
-&emsp;“(4) determine what differences exist between the needs of those affected by drought and the Federal laws and programs designed to mitigate the impacts of and respond to drought;
-
-&emsp;“(5) collaborate with the Western Drought Coordination Council and other appropriate entities in order to consider regional drought initiatives and the application of such initiatives at the national level;
-
-&emsp;“(6) make recommendations on how Federal drought laws and programs can be better integrated with ongoing State, local, and tribal programs into a comprehensive national policy to mitigate the impacts of and respond to drought emergencies without diminishing the rights of States to control water through State law and considering the need for protection of the environment;
-
-&emsp;“(7) make recommendations on improving public awareness of the need for drought mitigation, and prevention; and response on developing a coordinatedapproach to drought mitigation, prevention, and response by governmental and nongovernmental entities, including academic, private, and nonprofit interests; and
-
-&emsp;“(8) include a recommendation on whether all Federal drought preparation and response programs should be consolidated under one existing Federal agency and, if so, identify such agency.
-
-“(c)
-
-Submission of Report.—
-
-&emsp;“(1)
-
-In general.—No later than 18 months after the date of the enactment of this Act \[July 16, 1998\], the Commission shall submit a report to the President and Congress which shall contain a detailed statement of the findings and conclusions of the Commission, together with its recommendations for such legislation and administrative actions as it considers appropriate.
-
-&emsp;“(2)
-
-Approval of report.—Before submission of the report, the contents of the report shall be approved by unanimous consent or majority vote. If the report is approved by majority vote, members voting not to approve the contents shall be given the opportunity to submit dissenting views with the report.
-
-#### “SEC. 5. POWERS OF THE COMMISSION.
-
-“(a)
-
-Hearings.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers necessary to carry out the purposes of this Act.
-
-“(b)
-
-Information From Federal Agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this Act. Upon request of the chair of the Commission, the head of such department or agency shall furnish such information to the Commission.
-
-“(c)
-
-Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-
-“(d)
-
-Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property.
-
-#### “SEC. 6. COMMISSION PERSONNEL MATTERS.
-
-“(a)
-
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall not be compensated for service on the Commission, except as provided under subsection (b). All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
-
-“(b)
-
-Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
-
-“(c)
-
-Detail of Government Employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
-
-“(d)
-
-Administrative Support.—The Secretary of Agriculture shall provide all financial, administrative, and staff support services for the Commission.
-
-#### “SEC. 7. TERMINATION OF THE COMMISSION.
-
-“The Commission shall terminate 90 days after the date on which the Commission submits its report under section 4.”
+Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat. 1170, known as the “National Drought Policy Act of 1998”, established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 
-Section 110 of Pub. L. 100–707 provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 23, 1988\], the President shall recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials. Such proposals should include provisions which—
-
-&emsp;“(1) decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies;
-
-&emsp;“(2) provide for more effective utilization of State and local resources in major disaster and emergency relief efforts; and
-
-&emsp;“(3) improve the timeliness of reimbursement of State and local governments after the submission of necessary documentation.”
-
-\[Functions of President under section 110 of Pub. L. 100–707 delegated to Director of Federal Emergency Management Agency by section 4 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
+Pub. L. 100–707, title I, §110, Nov. 23, 1988, 102 Stat. 4710, provided that not later than 1 year after Nov. 23, 1988, the President was to recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials, including provisions which would decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies, provide for more effective utilization of State and local resources in relief efforts, and improve the timeliness of reimbursement.
 
 #### Declared Disasters and Emergencies Not Affected
 
-Section 112 of title I of Pub. L. 100–707 provided that: “This title \[see Short Title of 1988 Amendment note above\] shall not affect the administration of any assistance for a major disaster or emergency declared by the President before the date of the enactment of this Act \[Nov. 23, 1988\].”
+Pub. L. 100–707, title I, §112, Nov. 23, 1988, 102 Stat. 4711, provided that: “This title \[see Short Title of 1988 Amendment note above\] shall not affect the administration of any assistance for a major disaster or emergency declared by the President before the date of the enactment of this Act \[Nov. 23, 1988\].”
 
 #### Executive Order No. 11749
 

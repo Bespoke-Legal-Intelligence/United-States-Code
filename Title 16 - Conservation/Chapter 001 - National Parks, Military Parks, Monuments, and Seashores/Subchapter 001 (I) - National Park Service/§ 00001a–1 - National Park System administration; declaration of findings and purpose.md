@@ -38,7 +38,7 @@ Report.—The Administrator of the Federal Aviation Administration shall submit 
 
 #### Removal of Feral Burros and Horses From Death Valley National Monument
 
-Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384, provided in part: “That in fiscal year 1993 and thereafter,the National Park Service may use helicopters and motorized equipment at Death Valley National Monument for removal of feral burros and horses”.
+Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384, provided in part: “That in fiscal year 1993 and thereafter, the National Park Service may use helicopters and motorized equipment at Death Valley National Monument for removal of feral burros and horses”.
 
 #### Study To Determine Appropriate Minimum Altitude for Aircraft Flying Over National Park System Units
 

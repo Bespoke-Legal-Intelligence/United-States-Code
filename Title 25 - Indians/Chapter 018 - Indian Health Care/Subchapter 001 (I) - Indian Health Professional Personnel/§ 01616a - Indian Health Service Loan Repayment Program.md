@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) The Secretary, acting through the Service, shall establish a program to be known as the Indian Health Service Loan Repayment Program (hereinafter referred to as the “Loan Repayment Program”) in order to assure an adequate supply of trained health professionals necessary to maintain accreditation of, and provide health care services to Indians through, Indian health programs.
+(1) The Secretary, acting through the Service, shall establish a program to be known as the Indian Health Service Loan Repayment Program (hereinafter referred to as the “Loan Repayment Program”) in order to assure an adequate supply of trained health professionals necessary to maintain accreditation of, and provide healthcare services to Indians through, Indian health programs.
 
 (2) For the purposes of this section—
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 #### (i) Recruiting programs
 
-The Secretary shall conduct recruiting programs for the Loan Repayment Program and other health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a) of this section.
+The Secretary shall conduct recruiting programs for the Loan Repayment Program andother health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a) of this section.
 
 #### (j) Prohibition of assignment to other government departments
 

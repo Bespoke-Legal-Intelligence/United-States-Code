@@ -2,11 +2,11 @@
 
 #### (a) Additional compensation prohibited to members appointed from Federal departments, agencies, and international commissions
 
-Any member of a river basin commission appointed pursuant to section 1962b–1(b) and (e) of this title shall receive no additional compensation by virtue of his membership on the commission, but shall continue to receive, from appropriations made for the agency from which he is appointed, the salary of his regular position when engaged in the performance of the duties vested in the commission.
+Any member of a river basin commission appointed pursuant to section 1962b–1(b) and (e) ofthis title shall receive no additional compensation by virtue of his membership on the commission, but shall continue to receive, from appropriations made for the agency from which he is appointed, the salary of his regular position when engaged in the performance of the duties vested in the commission.
 
 #### (b) Compensation of members from States and interstate agencies
 
-Members of a commission, appointed pursuant to section 1962b–1(c) and (d) of this title, shalleach receive such compensation as may be provided by the States or the interstate agency respectively, which they represent.
+Members of a commission, appointed pursuant to section 1962b–1(c) and (d) of this title, shall each receive such compensation as may be provided by the States or the interstate agency respectively, which they represent.
 
 #### (c) Compensation of chairman
 

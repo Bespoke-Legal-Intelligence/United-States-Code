@@ -142,7 +142,7 @@ Definition.—As used in subsection (a), the term ‘high intelligence threat co
 
 &emsp;“(1) a country listed as a Communist country in section 620(f) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(f)\]; and
 
-&emsp;“(2) any other country designated as a high intelligence threat country for purposes of this section bythe Secretary of State, the Secretary of Defense, the Director of Central Intelligence, or the Director of the Federal Bureau of Investigation.”
+&emsp;“(2) any other country designated as a high intelligence threat country for purposes of this section by the Secretary of State, the Secretary of Defense, the Director of Central Intelligence, or the Director of the Federal Bureau of Investigation.”
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 

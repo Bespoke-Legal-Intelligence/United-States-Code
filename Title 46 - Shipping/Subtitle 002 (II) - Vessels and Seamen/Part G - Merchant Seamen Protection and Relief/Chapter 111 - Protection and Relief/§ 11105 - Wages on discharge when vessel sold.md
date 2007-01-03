@@ -1,6 +1,6 @@
 ### §11105. Wages on discharge when vessel sold
 
-(a) When a vessel of the United States is sold in a foreign country, the master shall deliver to the consular officer a certified crew list and the agreement required by this part. The master shall pay each seaman the wages due the seaman and provide the seaman with employment on board another vessel of the United States bound for the port of original engagement of the seaman or to another port agreed on. If employment cannot be provided, the master shall—
+(a) When a vessel of the United States is sold in a foreign country, the master shall deliver to the consular officer a certified crew list and the agreement required by this part. The master shall pay each seaman the wages due the seaman and provide the seaman with employment on board another vessel of the United States bound for the port of original engagement of theseaman or to another port agreed on. If employment cannot be provided, the master shall—
 
 &emsp;(1) provide the seaman with the means to return to the port of original engagement;
 

@@ -38,7 +38,7 @@ On completion of a referendum under subsection (b) of this section, the Secretar
 
 #### (e) Confidentiality
 
-The ballots and other information or reports that reveal, or tend to reveal, the vote of anyperson under this subchapter and the voting list shall be held strictly confidential and shall not be disclosed.
+The ballots and other information or reports that reveal, or tend to reveal, the vote of any person under this subchapter and the voting list shall be held strictly confidential and shall not be disclosed.
 
 (Pub. L. 104–127, title V, §561, Apr. 4, 1996, 110 Stat. 1073.)
 

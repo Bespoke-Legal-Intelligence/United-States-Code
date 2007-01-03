@@ -2,7 +2,7 @@
 
 (a) An eligible person who enlists in a combat or combat support skill of an element (other than the Selected Reserve) of the Ready Reserve of an armed force for a term of enlistment of not less than six years, and who has not previously served in an armed force, may be paid a bonus as provided in subsection (b).
 
-(b) Eligibility for and the amount and method of payment of a bonus under this section shall be determined in accordance with regulations prescribed under subsection (g), except that the amount of such a bonus may not exceed $3,000. A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
+(b) Eligibility for and the amount and method of payment of a bonus under this section shall be determined in accordance with regulations prescribed under subsection (g), except that the amount of such a bonus may not exceed $3,000. A person entitled to a bonus under this sectionwho is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
 (c) A bonus may not be paid under this section for a term of enlistment to any person who fails to complete satisfactorily initial active duty for training or who, upon completion of initial active duty for training, elects to serve the remainder of the term of enlistment in the Selected Reserve or in an active component of an armed force.
 
@@ -14,9 +14,9 @@
 
 &emsp;(1) during the period beginning on October 1, 1992, and ending on September 30, 2005; or
 
-&emsp;(2) after December 31, 2006..<sup>1</sup>
+&emsp;(2) after December 31, 2007.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(d), title X, §1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400.)
 
 #### Amendments
 
@@ -25,6 +25,10 @@
 Subsec. (e). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “An obligation to reimburse the United States imposed under subsection (d) is, for all purposes, a debt owed to the United States.”
 
 Subsec. (f). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (h) as (f) and struck out former subsec. (f) which read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an enlistment for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (d). This subsection applies to any case commenced under title 11 after September 24, 1983.”
+
+Subsec. (f)(2). Pub. L. 109–364, §1071(c)(3), struck out second period at end.
+
+Pub. L. 109–364, §611(d), substituted “December 31, 2007” for “December 31, 2006”.
 
 Subsec. (g). Pub. L. 109–163, §687(b)(17)(C), redesignated subsec. (g) as (e).
 
@@ -48,7 +52,7 @@ Subsec. (h). Pub. L. 99–145, §646(a)(1), substituted “September 30, 1987”
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1985 Amendment
 
@@ -65,6 +69,4 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable
 
 Reserve Forces Readiness provisions, including amendment of subsec. (b) of this section by Pub. L. 98–525 and Individual Ready Reserve Reenlistment Bonuses note above inapplicable to Coast Guard, see section 552(g) of Pub. L. 98–525, set out as a Reserve Forces Readiness note under section 12001 of Title 10, Armed Forces.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

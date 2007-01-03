@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(vii) appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;
 
-&emsp;&emsp;(viii) reducing the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails,and lockups who are members of minority groups;
+&emsp;&emsp;(viii) reducing the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups;
 
 &emsp;&emsp;(ix) evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
 
@@ -90,7 +90,7 @@ The Administrator may—
 
 #### Prior Provisions
 
-A prior section 5661, Pub. L. 93–415, title II, §247, formerly §251, Sept. 7, 1974, 88 Stat. 1128; renumbered §250 and amended Pub. L. 95–115, §§3(a)(3)(B), 5(e)(1), (2)(B), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 96–509, §19(p), Dec. 8, 1980, 94 Stat. 2765; renumbered §249 and amended Pub. L. 98–473, title II, §639, Oct. 12, 1984, 98 Stat. 2120;renumbered §247 and amended Pub. L. 100–690, title VII, §7263(a)(2)(D), (E), Nov. 18, 1988, 102 Stat. 4443, related to participation in training program and State advisory group conferences, prior to repeal by Pub. L. 107–273, div. C, title II, §12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 5661, Pub. L. 93–415, title II, §247, formerly §251, Sept. 7, 1974, 88 Stat. 1128; renumbered §250 and amended Pub. L. 95–115, §§3(a)(3)(B), 5(e)(1), (2)(B), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 96–509, §19(p), Dec. 8, 1980, 94 Stat. 2765; renumbered §249 and amended Pub. L. 98–473, title II, §639, Oct. 12, 1984, 98 Stat. 2120; renumbered §247 and amended Pub. L. 100–690, title VII, §7263(a)(2)(D), (E), Nov. 18, 1988, 102 Stat. 4443, related to participation in training program and State advisory group conferences, prior to repeal by Pub. L. 107–273, div. C, title II, §12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
 #### Effective Date
 

@@ -8,9 +8,9 @@ Whoever maliciously enters any bonded warehouse or any vessel or vehicle laden w
 
 Whoever receives or transports any merchandise or baggage unlawfully removed from any such vessel, vehicle, or warehouse, knowing the same to have been unlawfully removed—
 
-Shall be fined under this title or imprisoned not more than two years, or both.
+Shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title III, §311(e), Mar. 9, 2006, 120 Stat. 242.)
 
 #### Historical and Revision Notes
 
@@ -27,6 +27,8 @@ Forfeiture provision was omitted to conform with current administrative practice
 Changes were made in phraseology.
 
 #### Amendments
+
+2006—Pub. L. 109–177 substituted “10 years” for “two years” in last par.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 

@@ -8,7 +8,7 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 &emsp;(2) the Hubert H. Humphrey Fellowship Program which finances (A) study at American universities and institutions of higher learning, including study in degree granting programs, and (B) participation in fellowships, internships, or other programs in American governmental and nongovernmental institutions for public managers and other individuals from developing countries;
 
-&emsp;(3) the International Visitors Program which provides grants for short-term visits to theUnited States for foreign nationals who are, or have the potential to be, leaders in their respective fields in their own countries;
+&emsp;(3) the International Visitors Program which provides grants for short-term visits to the United States for foreign nationals who are, or have the potential to be, leaders in their respective fields in their own countries;
 
 &emsp;(4) the American Cultural Centers and Libraries which make available at selected foreign locations, books, films, sound recordings, and other materials about the United States, its people and culture, and about other topics;
 
@@ -24,7 +24,7 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 #### (b) Revocation or diminution of grants
 
-(1) All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shall have full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity that would be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
+(1) All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shall have full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity thatwould be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
 
 (2) The J. William Fulbright Foreign Scholarship Board shall formulate a policy on revocation of Fulbright grants which shall be made known to all grantees. Such policy shall fully protect the right to due process as well as the academic and artistic freedom of all grantees.
 
@@ -52,7 +52,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
 
-(2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed whollyor in part, directly or indirectly, with United States Government funds.
+(2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
 (3) The Working Group shall be composed as follows:
 
@@ -108,7 +108,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia andEmerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 105–277 added subsec. (g).
 
 1993—Subsec. (a)(8). Pub. L. 103–199 substituted “independent states of the former Soviet Union” for “Soviet Union” in two places.
 
-1990—Subsec. (a)(8). Pub. L. 101–246, §223, inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
+1990—Subsec. (a)(8). Pub. L. 101–246, §223, inserted “or through other programs designed to promote contactbetween the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
 
 Subsecs. (b) to (d). Pub. L. 101–246, §204(a)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -178,7 +178,7 @@ Sec. 3. The Working Group shall consist of the Associate Director for Educationa
 
 Sec. 4. The Working Group shall have the following responsibilities:
 
-(a) Collect, analyze, and report data provided by all United States Government departments and agenciesconducting international exchanges and training programs;
+(a) Collect, analyze, and report data provided by all United States Government departments and agencies conducting international exchanges and training programs;
 
 (b) Promote greater understanding of and cooperation on, among concerned United States Government departments and agencies, common issues and challenges faced in conducting international exchanges and training programs, including through the establishment of a clearinghouse for information on international exchange and training activities in the governmental and nongovernmental sectors;
 

@@ -12,11 +12,7 @@ In this subtitle—
 
 &emsp;&emsp;(B) does not include radio equipment.
 
-&emsp;(2) “barge” means a non-self-propelled vessel.
-
-&emsp;(3) “Boundary Line” means a line established under section 2(b) of the Act of February 19, 1895 (33 U.S.C. 151).
-
-&emsp;(3a) “citizen of the United States” means a national of the United States as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)) or an individual citizen of the Trust Territory of the Pacific Islands who is exclusively domiciled in the Northern Mariana Islands within the meaning of section 1005(e) of the Covenant to establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America (48 U.S.C. 1681 note).<sup>1</sup>
+&emsp;\[(2) to (3a) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
 &emsp;(4) “Coast Guard” means the organization established and continued under section 1 of title 14.
 
@@ -24,19 +20,27 @@ In this subtitle—
 
 &emsp;(5a) “consideration” means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
 
-&emsp;(6) “consular officer” means an officer or employee of the United States Government designated under regulations to grant visas.
+&emsp;\[(6) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
 &emsp;(7) “crude oil” means a liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes crude oil from which certain distillate fractions may have been removed, and crude oil to which certain distillate fractions may have been added.
 
 &emsp;(8) “crude oil tanker” means a tanker engaged in the trade of carrying crude oil.
 
-&emsp;(8a) “dangerous drug” means a narcotic drug, a controlled substance, or a controlled substance analog (as defined in section 102 of the Comprehensive Drug Abuse <sup>2</sup> and Control Act of 1970 (21 U.S.C. 802)).
+&emsp;(8a) “dangerous drug” means a narcotic drug, a controlled substance, or a controlled substance analog (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)).
 
 &emsp;(9) “discharge”, when referring to a substance discharged from a vessel, includes spilling, leaking, pumping, pouring, emitting, emptying, or dumping, however caused.
 
-&emsp;(10) “documented vessel” means a vessel for which a certificate of documentation has been issued under chapter 121 of this title.
+&emsp;\[(10), (10a) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
-&emsp;(10a) “Exclusive Economic Zone” means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983.
+&emsp;(10b) “ferry” means a vessel that is used on a regular schedule—
+
+&emsp;&emsp;(A) to provide transportation only between places that are not more than 300 miles apart; and
+
+&emsp;&emsp;(B) to transport only—
+
+&emsp;&emsp;&emsp;(i) passengers; or
+
+&emsp;&emsp;&emsp;(ii) vehicles, or railroad cars, that are being used, or have been used, in transporting passengers or goods.
 
 &emsp;(11) “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life, except marine mammals and birds.
 
@@ -46,7 +50,7 @@ In this subtitle—
 
 &emsp;(11c) “fish tender vessel” means a vessel that commercially supplies, stores, refrigerates, or transports fish, fish products, or materials directly related to fishing or the preparation of fish to or from a fishing, fish processing, or fish tender vessel or a fish processing facility.
 
-&emsp;(12) “foreign vessel” means a vessel of foreign registry or operated under the authority of a country except the United States.
+&emsp;\[(12) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
 &emsp;(13) “freight vessel” means a motor vessel of more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that carries freight for hire, except an oceanographic research vessel or an offshore supply vessel.
 
@@ -88,11 +92,11 @@ In this subtitle—
 
 &emsp;(17a) “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
-&emsp;(17b) “numbered vessel” means a vessel for which a number has been issued under chapter 123 of this title.
+&emsp;\[(17b) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
-&emsp;(18) “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including those studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
+&emsp;(18) “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
 
-&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
+&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 &emsp;(20) “oil” includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
 
@@ -156,9 +160,11 @@ In this subtitle—
 
 &emsp;&emsp;(A) carrying more than 12 passengers, including at least one passenger for hire;
 
-&emsp;&emsp;(B) that is chartered and carrying more than 12 passengers; or
+&emsp;&emsp;(B) that is chartered and carrying more than 12 passengers;
 
-&emsp;&emsp;(C) that is a submersible vessel carrying at least one passenger for hire.
+&emsp;&emsp;(C) that is a submersible vessel carrying at least one passenger for hire; or
+
+&emsp;&emsp;(D) that is a ferry carrying a passenger.
 
 &emsp;(23) “product carrier” means a tanker engaged in the trade of carrying oil except crude oil.
 
@@ -175,6 +181,22 @@ In this subtitle—
 &emsp;&emsp;(B) leased, rented, or chartered to another for the latter's pleasure.
 
 &emsp;(26) “recreational vessel manufacturer” means a person engaged in the manufacturing, construction, assembly, or importation of recreational vessels, components, or associated equipment.
+
+&emsp;(26a) “riding gang member” means an individual who—
+
+&emsp;&emsp;(A) has not been issued a merchant mariner document under chapter 73;
+
+&emsp;&emsp;(B) does not perform—
+
+&emsp;&emsp;&emsp;(i) watchstanding, automated engine room duty watch, or personnel safety functions; or
+
+&emsp;&emsp;&emsp;(ii) cargo handling functions, including any activity relating to the loading or unloading of cargo, the operation of cargo-related equipment (whether or not integral to the vessel), and the handling of mooring lines on the dock when the vessel is made fast or let go;
+
+&emsp;&emsp;(C) does not serve as part of the crew complement required under section 8101;
+
+&emsp;&emsp;(D) is not a member of the steward's department; and
+
+&emsp;&emsp;(E) is not a citizen or temporary or permanent resident of a country designated by the United States as a sponsor of terrorism or any other country that the Secretary, inconsultation with the Secretary of State and the heads of other appropriate United States agencies, determines to be a security threat to the United States.
 
 &emsp;(27) “sailing instruction” means teaching, research, and practical experience in operating vessels propelled primarily by sail and may include—
 
@@ -202,7 +224,7 @@ In this subtitle—
 
 &emsp;(33) “seagoing motor vessel” means a motor vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
 
-&emsp;(34) “Secretary”, except in part H, means the head of the department in which the Coast Guard is operating.
+&emsp;(34) “Secretary” means the Secretary of the department in which the Coast Guard is operating.
 
 &emsp;(35) “small passenger vessel” means a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -210,11 +232,13 @@ In this subtitle—
 
 &emsp;&emsp;(B) that is chartered with the crew provided or specified by the owner or the owner's representative and carrying more than 6 passengers;
 
-&emsp;&emsp;(C) that is chartered with no crew provided or specified by the owner or the owner's representative and carrying more than 12 passengers; or
+&emsp;&emsp;(C) that is chartered with no crew provided or specified by the owner or the owner's representative and carrying more than 12 passengers;
 
-&emsp;&emsp;(D) that is a submersible vessel carrying at least one passenger for hire.
+&emsp;&emsp;(D) that is a submersible vessel carrying at least one passenger for hire; or
 
-&emsp;(36) “State” means a State of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands, and any other territory or possession of the United States.
+&emsp;&emsp;(E) that is a ferry carrying more than 6 passengers.
+
+&emsp;\[(36) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
 &emsp;(37) “steam vessel” means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length.
 
@@ -232,7 +256,7 @@ In this subtitle—
 
 &emsp;(40) “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
 
-&emsp;(41) “undocumented” means not having and not required to have a document issued under chapter 121 of this title.
+&emsp;\[(41) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
 &emsp;(42) “uninspected passenger vessel” means an uninspected vessel—
 
@@ -250,11 +274,7 @@ In this subtitle—
 
 &emsp;(43) “uninspected vessel” means a vessel not subject to inspection under section 3301 of this title that is not a recreational vessel.
 
-&emsp;(44) “United States”, when used in a geographic sense, means the States of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands, and any other territory or possession of the United States.
-
-&emsp;(45) “vessel” has the same meaning given that term in section 3 of title 1.
-
-&emsp;(46) “vessel of the United States” means a vessel documented or numbered under thelaws of the United States or titled under the law of a State.
+&emsp;\[(44) to (46) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
 &emsp;(47) “vessel of war” means a vessel—
 
@@ -268,7 +288,7 @@ In this subtitle—
 
 &emsp;(48) “wing-in-ground craft” means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water's surface.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124; Pub. L. 109–241, title III, §§301, 312(b), July 11, 2006, 120 Stat. 526, 533; Pub. L. 109–304, §15(2), Oct. 6, 2006, 120 Stat. 1702.)
 
 #### Historical and Revision Notes
 
@@ -413,13 +433,39 @@ Section 2101(46) defines “vessel of the United States” as a vessel that is d
 
 #### References in Text
 
-Section 1005(e) of the Covenant to establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in par. (3a), is set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
-
-Presidential Proclamation Numbered 5030, referred to in par. (10a), is set out under section 1453 of Title 16, Conservation.
-
 Presidential Proclamation No. 5928, referred to in par. (17a), is set out under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+2006—Pars. (2) to (3a). Pub. L. 109–304, §15(2)(A), struck out pars. (2), (3), and (3a), which defined “barge”, “Boundary Line”, and “citizen of the United States”, respectively. See sections 102, 103, and 104 of this title.
+
+Par. (6). Pub. L. 109–304, §15(2)(A), struck out par. (6) which read as follows: “ ‘consular officer’ means an officer or employee of the United States Government designated under regulations to grant visas.” See section 105 of this title.
+
+Par. (8a). Pub. L. 109–304, §15(2)(B), inserted “Prevention” after “Abuse”.
+
+Pars. (10), (10a). Pub. L. 109–304, §15(2)(A), struck out pars. (10) and (10a) which defined “documented vessel” and “Exclusive Economic Zone”, respectively. See sections 106 and 107 of this title.
+
+Par. (10b). Pub. L. 109–241, §301(a), added par. (10b).
+
+Par. (12). Pub. L. 109–304, §15(2)(A), struck out par. (12) which read as follows: “ ‘foreign vessel’ means a vessel of foreign registry or operated under the authority of a country except the United States.” See section 110 of this title.
+
+Par. (17b). Pub. L. 109–304, §15(2)(A), struck out par. (17b) which read as follows: “ ‘numbered vessel’ means a vessel for which a number has been issued under chapter 123 of this title.” See section 111 of this title.
+
+Par. (18). Pub. L. 109–304, §15(2)(C), struck out “those” after “including”.
+
+Par. (22)(D). Pub. L. 109–241, §301(b), added subpar. (D).
+
+Par. (26a). Pub. L. 109–241, §312(b), added par. (26a).
+
+Par. (34). Pub. L. 109–304, §15(2)(D), struck out “, except in part H,” before “means” and substituted “Secretary of” for “head of”.
+
+Par. (35)(E). Pub. L. 109–241, §301(c), added subpar. (E).
+
+Par. (36). Pub. L. 109–304, §15(2)(A), struck out par. (36) which read as follows: “ ‘State’ means a State of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands, and any other territory or possession of the United States.” See section 112 of this title.
+
+Par. (41). Pub. L. 109–304, §15(2)(A), struck out par. (41) which read as follows: “ ‘undocumented’ means not having and not required to have a document issued under chapter 121 of this title.” See section 113 of this title.
+
+Pars. (44) to (46). Pub. L. 109–304, §15(2)(A), struck out pars. (44) to (46), which defined “United States”, “vessel”, and “vessel of the United States”, respectively. See sections 114, 115, and 116 of this title.
 
 2002—Par. (17). Pub. L. 107–217 substituted “section 558 of title 40” for “section 13 of the Coast Guard Authorization Act of 1986”.
 
@@ -529,7 +575,7 @@ Par. (27). Pub. L. 98–557, §34(a)(2), designated existing provisions as subpa
 
 #### Effective Date of 1992 Amendment
 
-Section 5208(c), (d) of Pub. L. 102–587 provided that:
+Pub. L. 102–587, title V, §5208(c), (d), Nov. 4, 1992, 106 Stat. 5076, provided that:
 
 “(c) For Great Lakes barges placed in operation after the date of enactment of this Act \[Nov. 4, 1992\], the amendments made by this section \[amending this section and section 3301 of this title\] take effect on the date of enactment of this Act.
 
@@ -543,51 +589,15 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 30101 of this title.
-
-#### Short Title of 2002 Amendment
-
-Pub. L. 107–295, §1(a), Nov. 25, 2002, 116 Stat. 2064, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Maritime Transportation Security Act of 2002’.”
-
-Pub. L. 107–295, title II, §201, Nov. 25, 2002, 116 Stat. 2093, provided that: “This title \[enacting section 1902a of Title 33, Navigation and Navigable Waters, amending sections 3302, 12111, 31325, and 31343 of this title, sections 808 and 883 of the Appendix to this title, section 5313 of Title 5, Government Organization and Employees, and section 102 of Title 49, Transportation, enacting provisions set out as notes under sections 12106 and 12111 of this title and section 102 of Title 49, and amending provisions set out as notes under section 12106 of this title\] may be cited as the ‘Maritime Policy Improvement Act of 2002’.”
-
-#### Short Title of 1998 Amendment
-
-Pub. L. 105–277, div. C, title II, §201, Oct. 21, 1998, 112 Stat. 2681–616, provided that: “This title \[amending sections 12102, 12122, and 31322 of this title, enacting provisions set out as notes under section 12102 of this title and section 1851 of Title 16, Conservation, amending provisions set out as a note under section 1274 of the Appendix to this title, and repealing provisions set out as a note under section 12102 of this title\] may be cited as the ‘American Fisheries Act’.”
-
-#### Short Title of 1996 Amendment
-
-Section 601 of title VI of Pub. L. 104–324 provided that: “This title \[enacting sections 3103 and 3201 to 3205 of this title, amending sections 3306 to 3309, 3316, and 3710 of this title, and enacting provisions set out as notes under sections 3201 and 3306 of this title\] may be cited as the ‘Coast Guard Regulatory Reform Act of 1996’.”
-
-#### Short Title of 1993 Amendment
-
-Section 501 of title V of Pub. L. 103–206 provided that: “This title \[amending this section and sections 2113, 3306, and 4105 of this title and enacting provisions set out as notes under this section and section 3306 of this title\] may be cited as the ‘Passenger Vessel Safety Act of 1993’.”
-
-#### Short Title of 1990 Amendment
-
-Section 601 of title VI of Pub. L. 101–595 provided that: “This title \[amending this section and sections 2102, 3302, 4502, 5102, 5114, 8103, 8104, 8702, 12109, 12501, 12503, 12505, and 31308 of this title, repealing sections 4104, 5115, 8105, and 14102 of this title, and enacting provisions set out as notes under sections 4502 and 7306 of this title\] may be cited as the ‘Aleutian Trade Act of 1990’.”
-
-#### Short Title of 1988 Amendments
-
-Section 1 of Pub. L. 100–424 provided that: “This Act \[enacting chapter 106 and sections 4505 to 4508 and 6104 of this title, amending this section and sections 3102, 3701, 4101, 4102, 4501 to 4504, and 6103 of this title, repealing sections 531 to 534 of the Appendix to this title, and enacting provisions set out as notes under sections 4501, 4502, 4508, and 7101 of this title\] may be cited as the ‘Commercial Fishing Industry Vessel Safety Act of 1988’.”
-
-Section 1 of Pub. L. 100–239 provided that: “This Act \[enacting section 8704 of this title, amending this section, sections 8103, 8702, 12101, 12102, 12106 to 12108 of this title, sections 251 and 883 of the Appendix to this title, and section 1802 of title 16, Conservation, and enacting provisions set out as notes under sections 8103, 8704, 12102, 12105, and 12108 of this title and section 883 of the Appendix of this title\] may be cited as the ‘Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987’.”
-
-#### Short Title of 1984 Amendment
-
-Section 401 of title IV of Pub. L. 98–364 provided that: “This title \[enacting sections 4501 to 4504, and 7311a of this title, amending this section and sections 3301, 3302, 3304, 3306, 3702, 7111, 7301, 7306, 7312, 8102, 8104, 8701, 8702, 10101, 11108, 11109, and 12101 of this title and enacting provisions set out as a note under section 3302 of this title\] may be cited as the ‘Commercial Fishing Industry Vessel Act’.”
+Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 31301 of this title.
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Fishing and Fish Tender Vessels
 
-Section 321 of Pub. L. 103–206 provided that:
+Pub. L. 103–206, title III, §321, Dec. 20, 1993, 107 Stat. 2427, provided that:
 
 “(a) In this section, ‘fish tender vessel’, ‘fishing vessel’, and ‘tank vessel’ have the meanings given those terms under section 2101 of title 46, United States Code.
 
@@ -595,11 +605,11 @@ Section 321 of Pub. L. 103–206 provided that:
 
 “(c)(1) This section does not affect the authority of the Secretary of Transportation under chapter 33 of title 46, United States Code, to regulate the operation of the vessels listed in subsection (b) to ensure the safe carriage of oil and hazardous substances.
 
-“(2) This section does not affect the requirement for fish tender vessels engaged in the Aleutian trade to comply with chapters 33, 45, 51, 81, and 87 of title 46, United States Code, as provided in the Aleutian Trade Act of 1990 (Public Law 101–595) \[see Short Title of 1990 Amendment note above\].”
+“(2) This section does not affect the requirement for fish tender vessels engaged in the Aleutian trade to comply with chapters 33, 45, 51, 81, and 87 of title 46, United States Code, as provided in the Aleutian Trade Act of 1990 (Public Law 101–595) \[see Short Title of 1990 Amendment note set out under section 101 of this title\].”
 
 #### Applicability Date for Revised Regulations
 
-Section 513 of Pub. L. 103–206 provided that:
+Pub. L. 103–206, title V, §513, Dec. 20, 1993, 107 Stat. 2443, provided that:
 
 “(a)
 
@@ -649,15 +659,7 @@ Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by 
 
 “(c)(1) This section does not affect the authority of the Secretary of Transportation under chapter 33 of title 46, United States Code, to regulate the operation of the vessels listed in subsection (b) to ensure the safe carriage of oil and hazardous substances.
 
-“(2) This section does not affect the requirement for fish tender vessels engaged in the Aleutian trade to comply with chapters 33, 45, 51, 81, and 87 of title 46, United States Code, as provided in the Aleutian Trade Act of 1990 (\[title VI of\] Public Law 101–595) \[see Short Title of 1990 Amendment note above\].
+“(2) This section does not affect the requirement for fish tender vessels engaged in the Aleutian trade to comply with chapters 33, 45, 51, 81, and 87 of title 46, United States Code, as provided in the Aleutian Trade Act of 1990 (\[title VI of\] Public Law 101–595) \[see Short Title of 1990 Amendment note set out under section 101 of this title\].
 
 “(d) Current regulations governing the vessels in subsection (b) remain in effect.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2102, 2113, 3202, 4105, 53101 of this title; sections 121, 316a, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2704, 2732; title 42 section 7511b; title 49 sections 1101, 5117.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “Abuse Prevention”.</i>
 

@@ -52,7 +52,7 @@ Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secre
 
 Subsec. (c). Pub. L. 104–132, §605(2), added subsec. (c).
 
-1975—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured black powder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
+1975—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured black powder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to beused solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
 
 #### Effective Date of 2002 Amendment
 

@@ -22,7 +22,7 @@ Period of Validity.—When a conveyance, lease, or instrument is recorded under 
 
 Applicable Laws.—(1) The validity of a conveyance, lease, or instrument that may be recorded under section 44107 of this title is subject to the laws of the State, the District of Columbia, or the territory or possession of the United States at which the conveyance, lease, or instrument is delivered, regardless of the place at which the subject of the conveyance, lease, or instrument is located or delivered. If the conveyance, lease, or instrument specifies the place at which delivery is intended, it is presumed that the conveyance, lease, or instrument was delivered at the specified place.
 
-(2) This subsection does not take precedence over the Convention on the International Recognition of Rights in Aircraft (4 U.S.T. 1830).
+(2) This subsection does not take precedence over the Convention on the International Recognition of Rights in Aircraft (4 U.S.T. 1830) or the Cape Town Treaty, as applicable.
 
 (d)
 
@@ -33,10 +33,6 @@ Nonapplication.—This section does not apply to—
 &emsp;(2) a lease or instrument described in section 44107(a)(2) of this title that was made before June 20, 1948.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1165; Pub. L. 108–297, §5, Aug. 9, 2004, 118 Stat. 1097.)
-
-#### Amendment of Subsection (c)(2)
-
-<i>Pub. L. 108–297, §§5, 7, Aug. 9, 2004, 118 Stat. 1097, provided that, effective Mar. 1, 2006, subsection (c)(2) of this section is amended by striking the period at the end and inserting “or the Cape Town Treaty, as applicable.”</i>
 
 Historical and Revision Notes
 
@@ -84,7 +80,11 @@ In subsection (c)(1), the words “conveyance, lease, or” are added for consis
 
 In subsection (d)(2), the words “lease or instrument” are substituted for “instrument” for clarity and consistency in this subchapter.
 
+#### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–297 inserted “or the Cape Town Treaty, as applicable” before period at end.
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–297 effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter or any legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as a note under section 44101 of this title.
+Amendment by Pub. L. 108–297 effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter orany legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as a note under section 44101 of this title.
 

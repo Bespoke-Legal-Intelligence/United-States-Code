@@ -12,8 +12,6 @@
 | [225\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225%20-%20Federal%20reserve%20banks%3B%20title.md) | Federal reserve banks; title. |
 | [225a.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225a%20-%20Maintenance%20of%20long%20run%20growth%20of%20monetary%20and%20credit%20aggregates.md) | Maintenance of long run growth of monetary and credit aggregates. |
 | [225b.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225b%20-%20Appearances%20before%20and%20reports%20to%20the%20Congress.md) | Appearances before and reports to the Congress. |
-| (a) | Appearances before the Congress. |
-| (b) | Congressional report. |
 | [226\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000226%20-%20%E2%80%9CFederal%20Reserve%20Act%E2%80%9D.md) | “Federal Reserve Act.” |
 | [227\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000227%20-%20%E2%80%9CBanking%20Act%20of%201933%E2%80%9D.md) | “Banking Act of 1933.” |
 | [228\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000228%20-%20%E2%80%9CBanking%20Act%20of%201935%E2%80%9D.md) | “Banking Act of 1935.” |
@@ -33,38 +31,13 @@
 | [247\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000247%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [247a.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000247a%20-%20Records%20of%20action%20on%20policy%20relating%20to%20open-market%20operation%20and%20policies%20determined%20generally%3B%20inclusion%20in%20report%20to%20Congress.md) | Records of action on policy relating to open-market operation and policies determined generally; inclusion in report to Congress. |
 | [248\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000248%20-%20Enumerated%20powers.md) | Enumerated powers. |
-| (a) | Examination of accounts and affairs of banks; publication of weekly statements; reports of liabilities and assets of depository institutions; covered institutions. |
-| (b) | Permitting or requiring rediscounting of paper at specified rate. |
-| (c) | Suspending reserve requirements. |
-| (d) | Supervising and regulating issue and retirement of notes. |
-| (e) | Adding to or reclassifying reserve cities. |
-| (f) | Suspending or removing officers or directors of reserve banks. |
-| (g) | Requiring writing off of doubtful or worthless assets of banks. |
-| (h) | Suspending operations of or liquidating or reorganizing banks. |
-| (i) | Requiring bonds of agents; safeguarding property in hands of agents. |
-| (j) | Exercising supervision over reserve banks. |
-| (k) | Delegation of certain functions; power to delegate; review of delegated activities. |
-| (<i>l</i>) | Employing attorneys, experts, assistants, and clerks; salaries and fees. |
-| (m) | Repealed. |
-| (n) | Board's authority to examine depository institutions and affiliates. |
-| (<i>o</i>) | Authority to appoint conservator or receiver. |
-| (p) | Authority. |
-| (q) | Uniform protection authority for Federal reserve facilities. |
-| (r) | Voting; documentation of determinations. |
 | 248–1. | Rules and regulations for transfer of funds and charges therefor among banks; clearing houses. |
 | [248a.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000248a%20-%20Pricing%20of%20services.md) | Pricing of services. |
-| (a) | Publication of pricing principles and proposed schedule of fees; effective date of schedule of fees. |
-| (b) | Covered services. |
-| (c) | Criteria applicable. |
-| (d) | Budgetary consequences of decline in volume of services. |
-| (e) | Parity in clearing. |
 | [248b.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000248b%20-%20Annual%20independent%20audits%20of%20Federal%20reserve%20banks%20and%20Board.md) | Annual independent audits of Federal reserve banks and Board. |
 | [249\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000249%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93412%2C%20title%20V%2C%20%C2%A7501%28c%29%2C%20Sept.%2014%2C%201976%2C%2090%20Stat.%201258.md) | Repealed. |
 | [250\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000250%20-%20Independence%20of%20financial%20regulatory%20agencies.md) | Independence of financial regulatory agencies. |
 | [251\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000251%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28a%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md) | Repealed. |
 | [252\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000252%20-%20Credit%20availability%20assessment.md) | Credit availability assessment. |
-| (a) | Study. |
-| (b) | Use of existing data. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -108,8 +81,6 @@
 | [287\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000287%20-%20Value%20of%20shares%20of%20stock%3B%20increase%20and%20decrease%20of%20stock%3B%20member%20banks%20as%20shareholders%3B%20surrender%20of%20shares.md) | Value of shares of stock; increase and decrease of stock; member banks as shareholders; surrender of shares. |
 | [288\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000288%20-%20Cancellation%20of%20stock%20held%20by%20member%20bank%20on%20insolvency%20or%20discontinuance%20of%20banking%20operations%20for%20sixty%20days%3B%20repayment%20of%20cash-paid%E2%80%A6.md) | Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions. |
 | [289\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000289%20-%20Dividends%20and%20surplus%20funds%20of%20reserve%20banks%3B%20transfer%20for%20fiscal%20year%202000.md) | Dividends and surplus funds of reserve banks; transfer for fiscal year 2000. |
-| (a) | Dividends and surplus funds of reserve banks. |
-| (b) | Transfer for fiscal year 2000. |
 | [290\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000290%20-%20Use%20of%20earnings%20transferred%20to%20Treasury.md) | Use of earnings transferred to Treasury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -154,15 +125,7 @@
 | [338\.](Subchapter%20008%20%28VIII%29%20-%20State%20Banks%20as%20Members%20of%20System/%C2%A7%2000338%20-%20Examination%20of%20affiliates%3B%20forfeiture%20of%20membership%20on%20refusal%20of%20affiliate%20to%20give%20information%20or%20pay%20expense.md) | Examination of affiliates; forfeiture of membership on refusal of affiliate to give information or pay expense. |
 | [338a.](Subchapter%20008%20%28VIII%29%20-%20State%20Banks%20as%20Members%20of%20System/%C2%A7%2000338a%20-%20Investments%20to%20promote%20public%20welfare%20and%20community%20development%3B%20limitation%20on%20investments.md) | Investments to promote public welfare and community development; limitation on investments. |
 | [339\.](Subchapter%20008%20%28VIII%29%20-%20State%20Banks%20as%20Members%20of%20System/%C2%A7%2000339%20-%20Participation%20by%20State%20member%20banks%20in%20lotteries%20and%20related%20activities.md) | Participation by State member banks in lotteries and related activities. |
-| (a) | Prohibited activities. |
-| (b) | Use of banking premises prohibited. |
-| (c) | Definitions. |
-| (d) | Lawful banking services connected with operation of lottery. |
-| (e) | Regulations; enforcement. |
 | [339a.](Subchapter%20008%20%28VIII%29%20-%20State%20Banks%20as%20Members%20of%20System/%C2%A7%2000339a%20-%20Resolution%20of%20clearing%20banks.md) | Resolution of clearing banks. |
-| (a) | Conservatorship or receivership. |
-| (b) | Board authority. |
-| (c) | Bankruptcy proceedings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -179,8 +142,6 @@
 | [347\.](Subchapter%20009%20%28IX%29%20-%20Powers%20and%20Duties%20of%20Federal%20Reserve%20Banks/%C2%A7%2000347%20-%20Advances%20to%20member%20banks%20on%20their%20notes.md) | Advances to member banks on their notes. |
 | [347a.](Subchapter%20009%20%28IX%29%20-%20Powers%20and%20Duties%20of%20Federal%20Reserve%20Banks/%C2%A7%2000347a%20-%20Advances%20to%20member%20bank%20groups%3B%20inadequate%20amounts%20of%20eligible%20and%20acceptable%20assets%3B%20liability%20of%20individual%20banks%20in%20group%E2%80%A6.md) | Advances to member bank groups; inadequate amounts of eligible and acceptable assets; liability of individual banks in group; distribution of loans among banks of group; rate of interest; notes accepted for advances as collateral security for Federal reserve notes; foreign obligations as security for advances. |
 | [347b.](Subchapter%20009%20%28IX%29%20-%20Powers%20and%20Duties%20of%20Federal%20Reserve%20Banks/%C2%A7%2000347b%20-%20Advances%20to%20individual%20member%20banks%20on%20time%20or%20demand%20notes%3B%20maturities%3B%20time%20notes%20secured%20by%20mortgage%20loans%20covering%20one-to-four%20family%E2%80%A6.md) | Advances to individual member banks on time or demand notes; maturities; time notes secured by mortgage loans covering one-to-four family residences. |
-| (a) | In general. |
-| (b) | Limitations on advances. |
 | [347c.](Subchapter%20009%20%28IX%29%20-%20Powers%20and%20Duties%20of%20Federal%20Reserve%20Banks/%C2%A7%2000347c%20-%20Advances%20to%20individuals%2C%20partnerships%2C%20and%20corporations%3B%20security%3B%20interest%20rate.md) | Advances to individuals, partnerships, and corporations; security; interest rate. |
 | [347d.](Subchapter%20009%20%28IX%29%20-%20Powers%20and%20Duties%20of%20Federal%20Reserve%20Banks/%C2%A7%2000347d%20-%20Transactions%20between%20Federal%20Reserve%20banks%20and%20branch%20or%20agency%20of%20foreign%20bank%3B%20matters%20considered.md) | Transactions between Federal Reserve banks and branch or agency of foreign bank; matters considered. |
 | [348\.](Subchapter%20009%20%28IX%29%20-%20Powers%20and%20Duties%20of%20Federal%20Reserve%20Banks/%C2%A7%2000348%20-%20Discount%20of%20obligations%20given%20for%20agricultural%20purposes%20or%20based%20upon%20livestock%3B%20collateral%20security%20for%20Federal%20reserve%20notes.md) | Discount of obligations given for agricultural purposes or based upon livestock; collateral security for Federal reserve notes. |
@@ -209,68 +170,20 @@
 |  |  |
 | :--- | ---: |
 | [371\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371%20-%20Real%20estate%20loans.md) | Real estate loans. |
-| (a) | Authorization to make real estate loans; orders, rules, and regulations of Comptroller of the Currency. |
-| (b) | Eligibility for discount as commercial paper of notes representing loans financing construction of residential or farm buildings; prerequisites. |
 | [371a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371a%20-%20Payment%20of%20interest%20on%20demand%20deposits.md) | Payment of interest on demand deposits. |
 | [371b.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371b%20-%20Rate%20of%20interest%20on%20time%20deposits%3B%20payment%20of%20time%20deposits%20before%20maturity%3B%20waiver%20of%20notice%20requirements%20for%20withdrawal%20of%20savings%E2%80%A6.md) | Rate of interest on time deposits; payment of time deposits before maturity; waiver of notice requirements for withdrawal of savings deposits. |
 | 371b–1. | Repealed. |
 | 371b–2. | Interbank liabilities. |
-| (a) | Purpose. |
-| (b) | Aggregate limits on insured depository institutions’ exposure to other depository institutions. |
-| (c) | “Exposure” defined. |
-| (d) | Insured depository institution. |
-| (e) | Rulemaking authority; enforcement. |
 | [371c.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371c%20-%20Banking%20affiliates.md) | Banking affiliates. |
-| (a) | Restrictions on transactions with affiliates. |
-| (b) | Definitions. |
-| (c) | Collateral for certain transactions with affiliates. |
-| (d) | Exemptions. |
-| (e) | Rules relating to banks with financial subsidiaries. |
-| (f) | Rulemaking and additional exemptions. |
 | 371c–1. | Restrictions on transactions with affiliates. |
-| (a) | In general. |
-| (b) | Prohibited transactions. |
-| (c) | Advertising restriction. |
-| (d) | Definitions. |
-| (e) | Regulations. |
 | [371d.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000371d%20-%20Investment%20in%20bank%20premises%20or%20stock%20of%20corporation%20holding%20premises.md) | Investment in bank premises or stock of corporation holding premises. |
-| (a) | Conditions of investment. |
-| (b) | Definitions. |
 | [372\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000372%20-%20Bankers%E2%80%99%20acceptances.md) | Bankers’ acceptances. |
-| (a) | Institutions; drafts and bills of exchange; types. |
-| (b) | Ratio limit of bills to unimpaired capital stock and surplus. |
-| (c) | Authorization for special ratio limit; foreign banks. |
-| (d) | Ratio limit for domestic transactions. |
-| (e) | Ratio limit for single entity; foreign banks; security. |
-| (f) | Exception for participation agreements. |
-| (g) | Definitions by Board. |
-| (h) | Dollar equivalent of foreign bank paid-up capital stock and surplus. |
 | [373\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000373%20-%20Acceptance%20of%20drafts%20or%20bills%20drawn%20by%20banks%20in%20foreign%20countries%20or%20dependencies%20of%20United%20States%20for%20purpose%20of%20dollar%20exchange.md) | Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange. |
 | [374\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000374%20-%20Acting%20as%20agent%20for%20nonmember%20bank%20in%20getting%20discounts%20from%20reserve%20bank.md) | Acting as agent for nonmember bank in getting discounts from reserve bank. |
 | [374a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000374a%20-%20Acting%20as%20agent%20for%20nonbanking%20borrower%20in%20making%20loans%20on%20securities%20to%20dealers%20in%20stocks%2C%20bonds%2C%20etc.%3B%20penalties.md) | Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties. |
 | [375\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000375%20-%20Purchases%20from%20directors%3B%20sales%20to%20directors.md) | Purchases from directors; sales to directors. |
 | [375a.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000375a%20-%20Loans%20to%20executive%20officers%20of%20banks.md) | Loans to executive officers of banks. |
-| (1) | General prohibition; authorization for extension of credit; conditions for credit. |
-| (2) | Mortgage loans. |
-| (3) | Educational loans. |
-| (4) | General limitation on amount of credit. |
-| (5) | Partnership loans. |
-| (6) | Report of date and amount of credit extensions, security, and uses of proceeds upon excessive extension of credit. |
-| (7) | Endorsement or guarantee of loans or assets; protective indebtedness. |
-| (8) | Continuation of violation. |
-| (9) | Report of loan activity since previous report of condition. |
-| (10) | Rules and regulations; definitions. |
 | [375b.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000375b%20-%20Extensions%20of%20credit%20to%20executive%20officers%2C%20directors%2C%20and%20principal%20shareholders%20of%20member%20banks.md) | Extensions of credit to executive officers, directors, and principal shareholders of member banks. |
-| (1) | In general. |
-| (2) | Preferential terms prohibited. |
-| (3) | Prior approval required. |
-| (4) | Aggregate limit on extensions of credit to any executive officer, director, or principal shareholder. |
-| (5) | Aggregate limit on extensions of credit to all executive officers, directors, and principal shareholders. |
-| (6) | Overdrafts by executive officers and directors prohibited. |
-| (7) | Prohibition on knowingly receiving unauthorized extension of credit. |
-| (8) | Executive officer, director, or principal shareholder of certain affiliates treated as executive officer, director, or principal shareholder of member bank. |
-| (9) | Definitions. |
-| (10) | Board's rulemaking authority. |
 | [376\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000376%20-%20Rate%20of%20interest%20paid%20to%20directors%2C%20etc.md) | Rate of interest paid to directors, etc. |
 | [377\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000377%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93102%2C%20title%20I%2C%20%C2%A7101%28a%29%2C%20Nov.%2012%2C%201999%2C%20113%20Stat.%201341.md) | Repealed. |
 | [378\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000378%20-%20Dealers%20in%20securities%20engaging%20in%20banking%20business%3B%20individuals%20or%20associations%20engaging%20in%20banking%20business%3B%20examinations%20and%20reports%E2%80%A6.md) | Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports; penalties. |
@@ -322,9 +235,6 @@
 |  |  |
 | :--- | ---: |
 | [461\.](Subchapter%20014%20%28XIV%29%20-%20Bank%20Reserves/%C2%A7%2000461%20-%20Reserve%20requirements.md) | Reserve requirements. |
-| (a) | Establishment of applicable definitions, payment of interest, obligations as deposits, and regulations. |
-| (b) | Additional definitions; required amounts of reserves maintained against transaction accounts; waiver of ratio limits in extraordinary circumstances; supplemental reserves; reserves related to foreign obligations or assets; exemption for certain deposits; discount and borrowing; transitional adjustments; additional exemptions and waivers. |
-| (c) | Promulgation of rules and regulations respecting maintenance of balances. |
 | 462 to 462c. Omitted or Repealed. |  |
 | [463\.](Subchapter%20014%20%28XIV%29%20-%20Bank%20Reserves/%C2%A7%2000463%20-%20Limitation%20on%20amount%20of%20balance%20with%20any%20depository%20institution%20without%20access%20to%20Federal%20Reserve%20advances.md) | Limitation on amount of balance with any depository institution without access to Federal Reserve advances. |
 | [464\.](Subchapter%20014%20%28XIV%29%20-%20Bank%20Reserves/%C2%A7%2000464%20-%20Checking%20against%20and%20withdrawal%20of%20reserve%20balance.md) | Checking against and withdrawal of reserve balance. |
@@ -356,26 +266,7 @@
 | [502\.](Subchapter%20016%20%28XVI%29%20-%20Civil%20Liability%20of%20Federal%20Reserve%20and%20Member%20Banks%2C%20Shareholders%2C%20and%20Officers/%C2%A7%2000502%20-%20Liability%20of%20shareholders%20of%20Federal%20reserve%20banks%20on%20contracts%2C%20etc.md) | Liability of shareholders of Federal reserve banks on contracts, etc. |
 | [503\.](Subchapter%20016%20%28XVI%29%20-%20Civil%20Liability%20of%20Federal%20Reserve%20and%20Member%20Banks%2C%20Shareholders%2C%20and%20Officers/%C2%A7%2000503%20-%20Liability%20of%20directors%20and%20officers%20of%20member%20banks.md) | Liability of directors and officers of member banks. |
 | [504\.](Subchapter%20016%20%28XVI%29%20-%20Civil%20Liability%20of%20Federal%20Reserve%20and%20Member%20Banks%2C%20Shareholders%2C%20and%20Officers/%C2%A7%2000504%20-%20Civil%20money%20penalty.md) | Civil money penalty. |
-| (a) | First tier. |
-| (b) | Second tier. |
-| (c) | Third tier. |
-| (d) | Maximum amounts of penalties for any violation described in subsection (c). |
-| (e) | Assessment; etc. |
-| (f) | Hearing. |
-| (g) | Disbursement. |
-| (h) | “Violate” defined. |
-| (i) | Regulations. |
-| (m) | Notice under this section after separation from service. |
 | [505\.](Subchapter%20016%20%28XVI%29%20-%20Civil%20Liability%20of%20Federal%20Reserve%20and%20Member%20Banks%2C%20Shareholders%2C%20and%20Officers/%C2%A7%2000505%20-%20Civil%20money%20penalty.md) | Civil money penalty. |
-| (1) | First tier. |
-| (2) | Second tier. |
-| (3) | Third tier. |
-| (4) | Maximum amounts of penalties for any violation described in paragraph (3). |
-| (5) | Assessment; etc. |
-| (6) | Hearing. |
-| (7) | Disbursement. |
-| (8) | “Violate” defined. |
-| (9) | Regulations. |
 | [506\.](Subchapter%20016%20%28XVI%29%20-%20Civil%20Liability%20of%20Federal%20Reserve%20and%20Member%20Banks%2C%20Shareholders%2C%20and%20Officers/%C2%A7%2000506%20-%20Notice%20after%20separation%20from%20service.md) | Notice after separation from service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -7,11 +7,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1701\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20001%20-%20Policy%20and%20Purpose/%C2%A7%2001701%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| (a) | Entitlement to equal educational opportunity; neighborhood as appropriate basis. |
-| (b) | Purpose. |
 | [1702\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20001%20-%20Policy%20and%20Purpose/%C2%A7%2001702%20-%20Congressional%20findings.md) | Congressional findings. |
-| (a) | Dual school systems as denial of equal protection; depletion of financial resources of local educational agencies; transportation of students; inadequacy of guidelines. |
-| (b) | Necessity of Congress to specify appropriate remedies for elimination of dual school systems. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,9 +40,6 @@
 | [1712\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20004%20-%20Remedies/%C2%A7%2001712%20-%20Formulating%20remedies%3B%20applicability.md) | Formulating remedies; applicability. |
 | [1713\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20004%20-%20Remedies/%C2%A7%2001713%20-%20Priority%20of%20remedies.md) | Priority of remedies. |
 | [1714\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20004%20-%20Remedies/%C2%A7%2001714%20-%20Transportation%20of%20students.md) | Transportation of students. |
-| (a) | Limitation to school closest or next closest to place of residence. |
-| (b) | Health risks; impingement on educational process. |
-| (c) | School population changes resulting from population changes. |
 | [1715\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20004%20-%20Remedies/%C2%A7%2001715%20-%20District%20lines.md) | District lines. |
 | [1716\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20004%20-%20Remedies/%C2%A7%2001716%20-%20Voluntary%20adoption%20of%20remedies.md) | Voluntary adoption of remedies. |
 | [1717\.](Subchapter%20001%20%28I%29%20-%20Equal%20Educational%20Opportunities/Part%20004%20-%20Remedies/%C2%A7%2001717%20-%20Reopening%20proceedings.md) | Reopening proceedings. |
@@ -81,10 +74,6 @@
 | [1755\.](Subchapter%20002%20%28II%29%20-%20Assignment%20and%20Transportation%20of%20Students/%C2%A7%2001755%20-%20Additional%20priority%20of%20remedies%20after%20finding%20of%20de%20jure%20segregation.md) | Additional priority of remedies after finding of de jure segregation. |
 | [1756\.](Subchapter%20002%20%28II%29%20-%20Assignment%20and%20Transportation%20of%20Students/%C2%A7%2001756%20-%20Remedies%20with%20respect%20to%20school%20district%20lines.md) | Remedies with respect to school district lines. |
 | [1757\.](Subchapter%20002%20%28II%29%20-%20Assignment%20and%20Transportation%20of%20Students/%C2%A7%2001757%20-%20Prohibition%20of%20forced%20busing%20during%20school%20year.md) | Prohibition of forced busing during school year. |
-| (a) | Congressional findings. |
-| (b) | Student transportation orders incidental to student transfers pursuant to school desegregation plans effective beginning with academic school year. |
-| (c) | “Academic school year” defined. |
-| (d) | Orders subject to provisions of section. |
 | [1758\.](Subchapter%20002%20%28II%29%20-%20Assignment%20and%20Transportation%20of%20Students/%C2%A7%2001758%20-%20Reasonable%20time%20for%20developing%20voluntary%20school%20desegregation%20plans%20following%20detailed%20notice%20of%20violations.md) | Reasonable time for developing voluntary school desegregation plans following detailed notice of violations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

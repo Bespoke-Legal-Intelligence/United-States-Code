@@ -22,6 +22,82 @@ Staff.—The Office shall have not less than five professional staff members.
 
 Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
 
+#### Joint Family Support Assistance Program
+
+Pub. L. 109–364, div. A, title VI, §675, Oct. 17, 2006, 120 Stat. 2273, provided that:
+
+“(a)
+
+Program Required.—The Secretary of Defense shall carry out a joint family support assistance program for the purpose of providing to families of members of the Armed Forces the following types of assistance:
+
+&emsp;“(1) Financial and material assistance.
+
+&emsp;“(2) Mobile support services.
+
+&emsp;“(3) Sponsorship of volunteers and family support professionals for the delivery of support services.
+
+&emsp;“(4) Coordination of family assistance programs and activities provided by Military OneSource, Military Family Life Consultants, counselors, the Department of Defense, other Federal agencies, State and local agencies, and non-profit entities.
+
+&emsp;“(5) Facilitation of discussion on military family assistance programs, activities, and initiatives between and among the organizations, agencies, and entities referred to in paragraph (4).
+
+&emsp;“(6) Such other assistance that the Secretary considers appropriate.
+
+“(b)
+
+Locations.—The Secretary of Defense shall carry out the program in not more than six areas of the United States selected by the Secretary. Up to three of the areas selected for the program shall be areas that are geographically isolated from military installations.
+
+“(c)
+
+Resources and Volunteers.—The Secretary of Defense shall provide personnel and other resources of the Department of Defense necessary for the implementation and operation of the program and may accept and utilize the services of non-Government volunteers and non-profit entities under the program.
+
+“(d)
+
+Procedures.—The Secretary of Defense shall establish procedures for the operation of the program and for the provision of assistance to families of members of the Armed Forces under the program.
+
+“(e)
+
+Relation to Family Support Centers.—The program is not intended to operate in lieu of existing family support centers, but is instead intended to augment the activities of the family support centers.
+
+“(f)
+
+Implementation Plan.—
+
+&emsp;“(1)
+
+Plan required.—Not later than 90 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a plan for the implementation of the program.
+
+&emsp;“(2)
+
+Elements.—The plan required under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A description of the actions taken to select the areas in which the program will be conducted.
+
+&emsp;&emsp;“(B) A description of the procedures established under subsection (d).
+
+&emsp;&emsp;“(C) A review of proposed actions to be taken under the program to improve coordination of family assistance program and activities between and among the Department of Defense, other Federal agencies, State and local agencies, and non-profit entities.
+
+“(g)
+
+Report.—
+
+&emsp;“(1)
+
+Report required.—Not later than 270 days after the date on which funds are first obligated forthe program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
+
+&emsp;“(2)
+
+Elements.—The report shall include the following:
+
+&emsp;&emsp;“(A) A description of the program, including the areas in which the program is conducted, the procedures established under subsection (d) for operation of the program, and the assistance provided through the program for families of members of the Armed Forces.
+
+&emsp;&emsp;“(B) An assessment of the effectiveness of the program in providing assistance to families of members of the Armed Forces.
+
+&emsp;&emsp;“(C) An assessment of the advisability of extending the program or making it permanent.
+
+“(h)
+
+Duration.—The authority to carry out the program shall expire at the end of the three-year period beginning on the date on which funds are first obligated for the program.”
+
 #### Recognition of Military Families
 
 Pub. L. 108–136, div. A, title V, §581, Nov. 24, 2003, 117 Stat. 1489, provided that:

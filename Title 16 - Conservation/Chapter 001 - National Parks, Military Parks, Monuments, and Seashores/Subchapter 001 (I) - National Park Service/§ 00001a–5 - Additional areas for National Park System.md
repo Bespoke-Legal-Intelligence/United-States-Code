@@ -194,7 +194,7 @@ Pub. L. 102–98, Aug. 17, 1991, 105 Stat. 485, directed Secretary of the Interi
 
 #### Niobrara-Buffalo Prairie National Park Study
 
-Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the Interior to study within 18 months after May 24, 1991, feasibility and suitability of establishing Niobrara-Buffalo Prairie National Park in Nebraska, including assessment of significance of natural, cultural, historic, scenic, and recreational resources and study of feasibility of managing the area by various methods, in consultation with appropriate Federal agencies, Nature Conservancy, and Nebraska Game and Parks Commission, and directed Secretary to submit study to Congress, prior to repeal by Pub. L. 105–362, title IX, §901(g)(1), Nov. 10, 1998, 112 Stat. 3290.
+Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the Interior to study within 18 months after May 24, 1991, feasibility and suitability of establishing Niobrara-Buffalo Prairie National Park in Nebraska, including assessment of significance of natural, cultural, historic, scenic, and recreational resources and study of feasibility of managing the area by various methods, in consultation with appropriate Federal agencies, Nature Conservancy, and Nebraska Game andParks Commission, and directed Secretary to submit study to Congress, prior to repeal by Pub. L. 105–362, title IX, §901(g)(1), Nov. 10, 1998, 112 Stat. 3290.
 
 #### Underground Railroad Study
 
@@ -202,7 +202,7 @@ Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary o
 
 #### Civil War and Other Studies
 
-Pub. L. 101–628, title XII, §§1201–1210, Nov. 28, 1990, 104 Stat. 4503–4507, as amended by Pub. L. 102–166, title V,§501, Nov. 21, 1991, 105 Stat. 1100, provided that title XII of Pub. L. 101–628 could be cited as the “Civil War Sites Study Act of 1990”, directed Secretary of the Interior to prepare a study of Shenandoah Valley Civil War sites in order to obtain information on significance of such sites, threats to their integrity, and alternatives for their preservation, authorized establishment of Civil War Sites Advisory Commission, directed such Commission to prepare a study of historically significant sites other than Shenandoah Valley Civil War sites, and directed Secretary to undertake a complete revision of National Park Service “Thematic Framework” to reflect current scholarship on American history and culture, historic and prehistoric archeology, and architecture.
+Pub. L. 101–628, title XII, §§1201–1210, Nov. 28, 1990, 104 Stat. 4503–4507, as amended by Pub. L. 102–166, title V, §501, Nov. 21, 1991, 105 Stat. 1100, provided that title XII of Pub. L. 101–628 could be cited as the “Civil War Sites Study Act of 1990”, directed Secretary of the Interior to prepare a study of Shenandoah Valley Civil War sites in order to obtain information on significance of such sites, threats to their integrity, and alternatives for their preservation, authorized establishment of Civil War Sites Advisory Commission, directed such Commission to prepare a study of historically significant sites other than Shenandoah Valley Civil War sites, and directed Secretary to undertake a complete revision of National Park Service “Thematic Framework” to reflect current scholarship on American history and culture, historic and prehistoric archeology, and architecture.
 
 #### Report to Congress on Criteria for Inclusion as Affiliated Area of National Park System
 

@@ -4,10 +4,6 @@ The Secretary of the Interior (hereinafter referred to as the Secretary) is auth
 
 (Pub. L. 91–357, §1, July 29, 1970, 84 Stat. 472; Pub. L. 98–540, §1(b), Oct. 24, 1984, 98 Stat. 2718.)
 
-#### References in Text
-
-The civil service classification laws, referred to in text, are set forth in chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
-
 #### Amendments
 
 1984—Pub. L. 98–540 restricted the activities of volunteers except in the case of skilled individuals.

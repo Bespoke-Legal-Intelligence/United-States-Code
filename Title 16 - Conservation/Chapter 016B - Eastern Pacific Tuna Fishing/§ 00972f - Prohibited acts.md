@@ -32,7 +32,7 @@ All designated species of tuna taken or retained in violation of subsection (a)(
 
 #### (d) Application of laws relating to seizures and forfeitures
 
-All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
+All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the salethereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
 (Pub. L. 98–445, §8, Oct. 4, 1984, 98 Stat. 1717.)
 

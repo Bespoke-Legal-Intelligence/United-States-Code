@@ -34,7 +34,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;(iii) immediate relatives or guardians of adults with mentally impairing developmental disabilities who cannot advocate for themselves; and
 
-&emsp;&emsp;(B) not employees of a State agency that receives funds or provides services under this part, and who are not managing employees (as defined in section 1126(b) of the Social Security Act (42 U.S.C. 1320a–5(b)) of any other entity that receives funds or provides services under this part.
+&emsp;&emsp;(B) not employees of a State agency that receives funds or provides services underthis part, and who are not managing employees (as defined in section 1126(b) of the Social Security Act (42 U.S.C. 1320a–5(b)) of any other entity that receives funds or provides services under this part.
 
 #### (4) Representation of agencies and organizations
 
@@ -120,7 +120,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (C) Training
 
-&emsp;&emsp;The Council may support and conduct training for persons who are individuals with developmental disabilities, their families, and personnel (including professionals, paraprofessionals, students, volunteers, and other community members) to enable such persons to obtain access to, or to provide, community services, individualized supports, and other forms of assistance, including special adaptation of generic community services or specialized services for individuals with developmental disabilities and their families. To the extent that the Council supports or conducts training activities under this subparagraph, such activities shall contribute to the achievement of the purpose of this part.
+&emsp;&emsp;The Council may support and conduct training for persons who are individuals withdevelopmental disabilities, their families, and personnel (including professionals, paraprofessionals, students, volunteers, and other community members) to enable such persons to obtain access to, or to provide, community services, individualized supports, and other forms of assistance, including special adaptation of generic community services or specialized services for individuals with developmental disabilities and their families. To the extent that the Council supports or conducts training activities under this subparagraph, such activities shall contribute to the achievement of the purpose of this part.
 
 #### (D) Technical assistance
 
@@ -134,7 +134,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;&emsp;(ii) through education; and
 
-&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals andtheir families access to and use of services, resources, and opportunities.
+&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals and their families access to and use of services, resources, and opportunities.
 
 #### (F) Interagency collaboration and coordination
 
@@ -170,7 +170,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (ii) Sources of funding
 
-&emsp;&emsp;&emsp;The Council may carry out this subparagraph by supporting and conducting demonstration activities through sources of funding other than funding provided under this part, and by assisting entities conducting demonstration activities to develop strategies for securing funding from other sources.
+&emsp;&emsp;&emsp;The Council may carry out this subparagraph by supporting and conducting demonstration activities through sources of funding other than funding provided underthis part, and by assisting entities conducting demonstration activities to develop strategies for securing funding from other sources.
 
 #### (L) Other activities
 

@@ -14,7 +14,7 @@
 
 &emsp;(i) $40,000, in the case of any graduate or professional student (as defined by regulations issued by the Secretary, and including any loans from such funds made to such person before such person became a graduate or professional student);
 
-&emsp;(ii) $20,000, in the case of a student who has successfully completed 2 years of a program ofeducation leading to a bachelor's degree but who has not completed the work necessary for such a degree (determined under regulations issued by the Secretary), and including any loans from such funds made to such person before such person became such a student; and
+&emsp;(ii) $20,000, in the case of a student who has successfully completed 2 years of a program of education leading to a bachelor's degree but who has not completed the work necessary for such a degree (determined under regulations issued by the Secretary), and including any loans from such funds made to such person before such person became such a student; and
 
 &emsp;(iii) $8,000, in the case of any other student.
 
@@ -64,9 +64,15 @@
 
 &emsp;(ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
-&emsp;(iii) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(<i>o</i>) of this title, has caused or will cause the borrower to have an economic hardship; or
+&emsp;(iii) not in excess of 3 years during which the borrower—
 
-&emsp;(iv) during which the borrower is engaged in service described in section 1087ee(a)(2) of this title;
+&emsp;&emsp;(I) is serving on active duty during a war or other military operation or national emergency; or
+
+&emsp;&emsp;(II) is performing qualifying National Guard duty during a war or other military operation or national emergency;
+
+&emsp;(iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(<i>o</i>) of this title, has caused or will cause the borrower to have an economic hardship; or
+
+&emsp;(v) during which the borrower is engaged in service described in section 1087ee(a)(2) of this title;
 
 > and provides that any such period shall not be included in determining the 10-year period described in subparagraph (A) of paragraph (1).
 
@@ -102,11 +108,11 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;(2) the institution determines that the borrower should qualify for forbearance for other reasons; or
 
-&emsp;(3) the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
+&emsp;(3) the borrower is eligible for interest payments to be made on such loan for service inthe Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
 
 #### (f) Special repayment rule authority
 
-(1) Subject to such restrictions as the Secretary may prescribe to protect the interest of the United States, in order to encourage repayment of loans made under this part which are in default, the Secretary may, in the agreement entered into under this part, authorize an institution of higher education to compromise on therepayment of such defaulted loans in accordance with paragraph (2). The Federal share of the compromise repayment shall bear the same relation to the institution's share of such compromise repayment as the Federal capital contribution to the institution's loan fund under this part bears to the institution's capital contribution to such fund.
+(1) Subject to such restrictions as the Secretary may prescribe to protect the interest of the United States, in order to encourage repayment of loans made under this part which are in default, the Secretary may, in the agreement entered into under this part, authorize an institution of higher education to compromise on the repayment of such defaulted loans in accordance with paragraph (2). The Federal share of the compromise repayment shall bear the same relation to the institution's share of such compromise repayment as the Federal capital contribution to the institution's loan fund under this part bears to the institution's capital contribution to such fund.
 
 (2) No compromise repayment of a defaulted loan as authorized by paragraph (1) may be made unless the student borrower pays—
 
@@ -168,13 +174,13 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (1) In general
 
-&emsp;Each institution of higher education may establish, with the approval of the Secretary, an incentive repayment program designed to reduce default and to replenish student loan funds established under this part. Each such incentive repayment program may—
+&emsp;Each institution of higher education may establish, with the approval of the Secretary, anincentive repayment program designed to reduce default and to replenish student loan funds established under this part. Each such incentive repayment program may—
 
 &emsp;&emsp;(A) offer a reduction of the interest rate on a loan on which the borrower has made 48 consecutive, monthly repayments, but in no event may the rate be reduced by more than 1 percent;
 
 &emsp;&emsp;(B) provide for a discount on the balance owed on a loan on which the borrower pays the principal and interest in full prior to the end of the applicable repayment period, but in no event may the discount exceed 5 percent of the unpaid principal balance due on the loan at the time the early repayment is made; and
 
-&emsp;&emsp;(C) include such other incentive repayment options as the institution determineswill carry out the objectives of this subsection.
+&emsp;&emsp;(C) include such other incentive repayment options as the institution determines will carry out the objectives of this subsection.
 
 #### (2) Limitation
 
@@ -190,7 +196,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(3) of this section.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160.)
 
 #### References in Text
 
@@ -201,6 +207,8 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2006—Subsec. (c)(2)(A)(iii) to (v). Pub. L. 109–171 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
 2002—Subsec. (e)(3). Pub. L. 107–314, §651(d)(1), added par. (3).
 
@@ -264,6 +272,12 @@ Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 
 1987—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
+Amendment by Pub. L. 109–171 applicable with respect to loans for which the first disbursement is made on or after July 1, 2001, see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–314 applicable with respect to interest, and any special allowance under section 1087–1 of this title, that accrue for months beginning on or after Oct. 1, 2003, on student loans described in section 2174(c) of Title 10, Armed Forces, that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of Title 10) on or after that date, see section 651(e) of Pub. L. 107–314, set out as an Effective Date note under section 2174 of Title 10.
@@ -313,6 +327,10 @@ Section 405(b) of Pub. L. 99–498, as amended by Pub. L. 100–50, §22(d), Jun
 “(3) Section 463(a)(9) and section 463A of the Act \[20 U.S.C. 1087cc(a)(9), 1087cc–1\] as amended by this section shall apply only to loans made for periods of enrollment beginning on or after July 1, 1987.
 
 “(4) For the purpose of this subsection, the term ‘new borrower’ means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act \[this part\].”
+
+#### Construction of 2006 Amendment
+
+Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refunding of any repayment of a loan, see section 8007(e) of Pub. L. 109–171, set out as a note under section 1078 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

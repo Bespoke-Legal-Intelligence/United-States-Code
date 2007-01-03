@@ -14,6 +14,7 @@
 | [310\.](%C2%A7%2000310%20-%20Chief%20Information%20Officer.md) | Chief Information Officer. |
 | [311\.](%C2%A7%2000311%20-%20General%20Counsel.md) | General Counsel. |
 | [312\.](%C2%A7%2000312%20-%20Inspector%20General.md) | Inspector General. |
+| [312A.](%C2%A7%2000312A%20-%20Director%20of%20Construction%20and%20Facilities%20Management.md) | Director of Construction and Facilities Management. |
 | [313\.](%C2%A7%2000313%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
 | [314\.](%C2%A7%2000314%20-%20Central%20Office.md) | Central Office. |
 | [315\.](%C2%A7%2000315%20-%20Regional%20offices.md) | Regional offices. |
@@ -35,7 +36,7 @@ Section 202, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114, related to seal of 
 
 Section 203, added Pub. L. 94–424, §2(a), Sept. 28, 1976, 90 Stat. 1332; amended Pub. L. 97–258, §2(j), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 98–160, title VII, §702(1), Nov. 21, 1983, 97 Stat. 1009, related to availability of appropriations. See section 313 of this title.
 
-Section 210, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114; Pub. L. 88–426, title III, §305(15), Aug. 14, 1964, 78 Stat. 424; Pub. L. 89–361, §1(a), (b), Mar. 7, 1966, 80 Stat. 29; Pub. L. 89–785, title III, §301, Nov. 7, 1966, 80 Stat. 1376; Pub. L. 92–328, title II, §201, June 30, 1972, 86 Stat. 396; Pub. L. 95–202, title III, §301, Nov. 23, 1977, 91 Stat. 1440; Pub. L. 96–22, title V, §502(a), June 13, 1979, 93 Stat. 64; Pub. L. 97–66, title VI, §601(a)(1), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–452, §2(e)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 99–166, title IV, §403(a), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title V, §501, title VII, §701(9), Oct. 28, 1986, 100 Stat. 3285, 3291; Pub. L. 100–527, §15(a), Oct. 5, 1988, 102 Stat. 2644; Pub. L. 102–40, title III, §303, May 7, 1991, 105 Stat. 208, related to appointment and general authority of Administrator and Deputy Administrator. See sections 303, 304, 501, 503, 510, and 711 of this title.
+Section 210, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114; Pub. L. 88–426, title III, §305(15), Aug. 14, 1964, 78 Stat. 424; Pub. L. 89–361, §1(a), (b), Mar. 7, 1966, 80 Stat. 29; Pub. L. 89–785, title III, §301, Nov. 7, 1966, 80 Stat. 1376; Pub. L. 92–328, title II, §201, June 30, 1972, 86 Stat. 396; Pub. L. 95–202, title III, §301, Nov. 23, 1977, 91 Stat. 1440; Pub. L. 96–22, title V, §502(a), June 13, 1979, 93 Stat. 64; Pub. L. 97–66, title VI, §601(a)(1), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–452, §2(e)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 99–166, title IV, §403(a), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title V, §501, title VII, §701(9), Oct. 28, 1986, 100 Stat. 3285, 3291; Pub. L. 100–527, §15(a), Oct. 5, 1988, 102 Stat. 2644; Pub. L. 102–40, title III, §303, May 7, 1991, 105 Stat. 208, related to appointment and generalauthority of Administrator and Deputy Administrator. See sections 303, 304, 501, 503, 510, and 711 of this title.
 
 Section 211, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–214, §1(b), Sept. 29, 1965, 79 Stat. 886; Pub. L. 89–358, §4(h), Mar. 3, 1966, 80 Stat. 24; Pub. L. 91–376, §8(a), Aug. 12, 1970, 84 Stat. 790; Pub. L. 100–687, div. A, title I, §101(a), Nov. 18, 1988, 102 Stat. 4105, related to decisions of Administrator and opinions of Attorney General. See sections 505 and 511 of this title.
 
@@ -67,7 +68,7 @@ Section 223, added Pub. L. 100–687, div. A, title I, §102(a)(1), Nov. 18, 198
 
 Section 224, added Pub. L. 100–322, title II, §203(b)(1), May 20, 1988, 102 Stat. 509, §223; renumbered §224, Pub. L. 101–94, title III, §302(d)(1), Aug. 16, 1989, 103 Stat. 628, related to administrative settlement of tort claims. See section 515 of this title.
 
-Section 230, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 86–103, July 23, 1959, 73 Stat. 224; Pub. L. 87–815,§5, Oct. 15, 1962, 76 Stat. 927; Pub. L. 91–338, July 16, 1970, 84 Stat. 437; Pub. L. 93–82, title IV, §401, Aug. 2, 1973, 87 Stat. 196; Pub. L. 95–520, §2, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title V, §503(a), June 13, 1979, 93 Stat. 65; Pub. L. 96–385, title V, §501, Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–295, §4(6), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–108, §1, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title IV, §402, Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(13), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 100–689, title V, §501(a), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 101–237, title VI, §603(a), Dec. 18, 1989, 103 Stat. 2095, related to Central Office and regional offices. See sections 314 to 316 of this title.
+Section 230, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 86–103, July 23, 1959, 73 Stat. 224; Pub. L. 87–815, §5, Oct. 15, 1962, 76 Stat. 927; Pub. L. 91–338, July 16, 1970, 84 Stat. 437; Pub. L. 93–82, title IV, §401, Aug. 2, 1973, 87 Stat. 196; Pub. L. 95–520, §2, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title V, §503(a), June 13, 1979, 93 Stat. 65; Pub. L. 96–385, title V, §501, Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–295, §4(6), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–108, §1, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title IV, §402, Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(13), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 100–689, title V, §501(a), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 101–237, title VI, §603(a), Dec. 18, 1989, 103 Stat. 2095, related to Central Office and regional offices. See sections 314 to 316 of this title.
 
 Section 231, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116, related to placement of employees in military installations. See section 701 of this title.
 
@@ -81,21 +82,23 @@ Section 235, added Pub. L. 86–116, §1, July 28, 1959, 73 Stat. 265; amended P
 
 Section 236, added Pub. L. 89–300, §1(a), Oct. 28, 1965, 79 Stat. 1110; amended Pub. L. 99–576, title VII, §701(16), Oct. 28, 1986, 100 Stat. 3292, related to administrative settlement of tort claims arising in foreign countries. See section 515 of this title.
 
-Section 240, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 84; amended Pub. L. 92–540, title IV, §410(a), Oct. 24, 1972, 86 Stat. 1092, described purpose and defined terms for veterans outreach services program. See section 7721 of this title.
+Section 240, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 84; amended Pub. L. 92–540, title IV, §410(a), Oct. 24, 1972, 86 Stat. 1092, described purpose and defined terms for veterans outreach services program.
 
-Section 241, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 84; amended Pub. L. 92–540, title IV, §410(b), Oct. 24, 1972, 86 Stat. 1092; Pub. L. 93–508, title II, §214(1), (2), Dec. 3, 1974, 88 Stat. 1587; Pub. L. 99–576, title VII, §§701(17), 702(4), Oct. 28, 1986, 100 Stat. 3292, 3301, related to outreach services. See section 7722 of this title.
+Section 241, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 84; amended Pub. L. 92–540, title IV, §410(b), Oct. 24, 1972, 86 Stat. 1092; Pub. L. 93–508, title II, §214(1), (2), Dec. 3, 1974, 88 Stat. 1587; Pub. L. 99–576, title VII, §§701(17), 702(4), Oct. 28, 1986, 100 Stat. 3292, 3301, related to outreach services.
 
-Section 242, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 85; amended Pub. L. 93–508, title II, §214(3), Dec. 3, 1974, 88 Stat. 1587; Pub. L. 99–576, title VII, §701(18), Oct. 28, 1986, 100 Stat. 3292, related to veterans assistance offices. See section 7723 of this title.
+Section 242, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 85; amended Pub. L. 93–508, title II, §214(3), Dec. 3, 1974, 88 Stat. 1587; Pub. L. 99–576, title VII, §701(18), Oct. 28, 1986, 100 Stat. 3292, related to veterans assistance offices.
 
-Section 243, added Pub. L. 93–508, title II, §214(4), Dec. 3, 1974, 88 Stat. 1587; amended Pub. L. 97–295, §4(7), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 97–306, title II, §201(a), Oct. 14, 1982, 96 Stat. 1433, related to outstationing of counseling and outreach personnel. See section 7724 of this title.
+Section 243, added Pub. L. 93–508, title II, §214(4), Dec. 3, 1974, 88 Stat. 1587; amended Pub. L. 97–295, §4(7), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 97–306, title II, §201(a), Oct. 14, 1982, 96 Stat. 1433, related to outstationing of counseling and outreach personnel.
 
-Section 244, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 85, §243; renumbered §244 and amended Pub. L. 93–508, title II, §214(4), (5), Dec. 3, 1974, 88 Stat. 1587, 1588; Pub. L. 96–466, title V, §501, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 99–576, title VII, §701(19), Oct. 28, 1986, 100 Stat. 3292, related to utilization of other agencies. See section 7725 of this title.
+Section 244, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 85, §243; renumbered §244 and amended Pub. L. 93–508, title II, §214(4), (5), Dec. 3, 1974, 88 Stat. 1587, 1588; Pub. L. 96–466, title V, §501, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 99–576, title VII, §701(19), Oct. 28, 1986, 100 Stat. 3292, related to utilization of other agencies.
 
-Section 245, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 85, §244; renumbered §245, Pub. L. 93–508, title II, §214(4), Dec. 3, 1974, 88 Stat. 1587, related to an annual report to Congress on the effectiveness of outreach programs. See section 7726 of this title.
+Section 245, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat. 85, §244; renumbered §245, Pub. L.93–508, title II, §214(4), Dec. 3, 1974, 88 Stat. 1587, related to an annual report to Congress on the effectiveness of outreach programs.
 
 Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 Stat. 1446; amended Pub. L. 95–336, §6(b), Aug. 4, 1978, 92 Stat. 453; Pub. L. 97–295, §4(8), Oct. 12, 1982, 96 Stat. 1305, related to veterans cost-of-instruction payments to institutions of higher learning.
 
 #### Amendments
+
+2006—Pub. L. 109–461, title VIII, §811(b), Dec. 22, 2006, 120 Stat. 3447, added item 312A.
 
 2003—Pub. L. 108–136, div. A, title V, §583(a)(2), Nov. 24, 2003, 117 Stat. 1491, added item 320.
 
@@ -128,6 +131,7 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 - [&sect; 00310 - Chief Information Officer](%C2%A7%2000310%20-%20Chief%20Information%20Officer.md)
 - [&sect; 00311 - General Counsel](%C2%A7%2000311%20-%20General%20Counsel.md)
 - [&sect; 00312 - Inspector General](%C2%A7%2000312%20-%20Inspector%20General.md)
+- [&sect; 00312A - Director of Construction and Facilities Management](%C2%A7%2000312A%20-%20Director%20of%20Construction%20and%20Facilities%20Management.md)
 - [&sect; 00313 - Availability of appropriations](%C2%A7%2000313%20-%20Availability%20of%20appropriations.md)
 - [&sect; 00314 - Central Office](%C2%A7%2000314%20-%20Central%20Office.md)
 - [&sect; 00315 - Regional offices](%C2%A7%2000315%20-%20Regional%20offices.md)

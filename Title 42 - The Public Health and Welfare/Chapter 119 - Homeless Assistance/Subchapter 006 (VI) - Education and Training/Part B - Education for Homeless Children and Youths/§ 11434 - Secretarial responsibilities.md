@@ -36,7 +36,7 @@ The Secretary shall develop, issue, and publish in the Federal Register, not lat
 
 #### (1) In general
 
-&emsp;From funds appropriated under section 11435 of this title, the Secretary shall, directly orthrough grants, contracts, or cooperative agreements, periodically collect and disseminate data and information regarding—
+&emsp;From funds appropriated under section 11435 of this title, the Secretary shall, directly or through grants, contracts, or cooperative agreements, periodically collect and disseminate data and information regarding—
 
 &emsp;&emsp;(A) the number and location of homeless children and youths;
 

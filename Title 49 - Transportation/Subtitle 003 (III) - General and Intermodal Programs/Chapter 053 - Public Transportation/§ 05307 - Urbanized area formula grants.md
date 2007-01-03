@@ -68,7 +68,7 @@ Increased flexibility.—The Secretary may award grants under this section, from
 
 Maximum amounts in fiscal year 2005.—In fiscal year 2005—
 
-&emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than the amount apportioned in fiscal year 2002 tothe urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
+&emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
 
 &emsp;&emsp;&emsp;(ii) amounts made available to any urbanized area under subparagraph (A)(iii) shall be not more than the amount apportioned to the urbanized area under this section for fiscal year 2003; and
 
@@ -132,7 +132,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(C) will maintain equipment and facilities;
 
-&emsp;&emsp;(D) will ensure that elderly and handicapped individuals, or an individual presenting a medicare card issued to that individual under title II or XVIII of the Social Security Act (42 U.S.C. 401 et seq., 1395 et seq.), will becharged during non-peak hours for transportation using or involving a facility or equipment of a project financed under this section not more than 50 percent of the peak hour fare;
+&emsp;&emsp;(D) will ensure that elderly and handicapped individuals, or an individual presenting a medicare card issued to that individual under title II or XVIII of the Social Security Act (42 U.S.C. 401 et seq., 1395 et seq.), will be charged during non-peak hours for transportation using or involving a facility or equipment of a project financed under this section not more than 50 percent of the peak hour fare;
 
 &emsp;&emsp;(E) in carrying out a procurement under this section—
 
@@ -214,7 +214,7 @@ Undertaking Projects in Advance.—(1) When a recipient obligates all amounts ap
 
 &emsp;(B) the maximum amount of the apportionment that may be made available for projects for operating expenses under this section.
 
-(3) The cost of carrying out that part of a project includes the amount of interest earned and payable on bonds issued by the recipient to the extent proceeds of the bonds are expended incarrying out the part. However, the amount of interest allowed under this paragraph may not be more than the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+(3) The cost of carrying out that part of a project includes the amount of interest earned and payable on bonds issued by the recipient to the extent proceeds of the bonds are expended in carrying out the part. However, the amount of interest allowed under this paragraph may not be more than the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
 (h)
 
@@ -576,7 +576,7 @@ Subsecs. (m), (n). Pub. L. 109–59, §3009(a)(2), redesignated subsecs. (m) and
 
 2004—Subsec. (b)(2). Pub. L. 108–310 inserted “
 
-and for the period of october 1, 2004, through may 31, 2005” after “
+and for the period of october 1, 2004, through may 31, 2005”after “
 
 2004” in heading and directed the insertion of “and for the period of October 1, 2004, through May 31, 2005” after “2004,” in subpar. (A), which was executed by making the insertion after “2004” in introductory provisions of subpar. (A), to reflect the probable intent of Congress.
 
@@ -642,7 +642,7 @@ Subsec. (g)(3). Pub. L. 105–178, §3007(d), substituted “the most favorable 
 
 Subsec. (i)(2). Pub. L. 105–178, §3007(e), inserted at end “To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.”
 
-Subsec. (k). Pub. L. 105–178, §3007(f), amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “A certification under subsection (d) of this section and any additional certification required by law to be submitted to the Secretary may be consolidated into a single document to be submittedannually as part of the grant application under this section. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2) of this title.”
+Subsec. (k). Pub. L. 105–178, §3007(f), amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “A certification under subsection (d) of this section and any additional certification required by law to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of the grant application under this section. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2) of this title.”
 
 Subsec. (k)(3). Pub. L. 105–178, §3007(h)(2), as added by Pub. L. 105–206, §9009(e), inserted “preceding” before “fiscal year”.
 
@@ -668,7 +668,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Pilot Program for Cooperative Procurement of Major Capital Equipment
 
-Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, provided that: “The Secretary shall continue the pilot program authorized under section 166 of the Consolidated Appropriations Act, 2004, Public Law 108–199; 118 Stat. 309 \[set out below\], for cooperative procurement of major capital equipment under sections 5307, 5309, and 5311 \[of title 49, United States Code\]. The program shall be administered as required under subsections (b) through (g) of section 166, except that there shall be five pilot projects: <i>Provided</i>, That the Secretary shall evaluate all proposals based on selection criteria set forth in the announcement of the program and request for proposals (Federal Register Notice—Vol. 69, No. 120, Page 35127, June 23, 2004). All proposed projects shall be evaluated and the proposing party shall receive notification of acceptance or denial by no later than 90 days after the Secretary receives a request for review of a proposed project: <i>Provided further</i>, That not later than 30 days after delivery of the base order under each of the five pilot projects, the Secretary shall submit to the House and Senate Committees on Appropriations a report on the results of that pilot project. Each report shall evaluate any savings realized through the cooperative procurement and the benefits of incorporating cooperative procurement, as shown by that project, into the mass transit program as a whole.”
+Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, provided that: “The Secretary shall continue the pilot program authorized under section 166 of the Consolidated Appropriations Act, 2004, Public Law 108–199; 118 Stat. 309 \[set out below\], for cooperativeprocurement of major capital equipment under sections 5307, 5309, and 5311 \[of title 49, United States Code\]. The program shall be administered as required under subsections (b) through (g) of section 166, except that there shall be five pilot projects: <i>Provided</i>, That the Secretary shall evaluate all proposals based on selection criteria set forth in the announcement of the program and request for proposals (Federal Register Notice—Vol. 69, No. 120, Page 35127, June 23, 2004). All proposed projects shall be evaluated and the proposing party shall receive notification of acceptance or denial by no later than 90 days after the Secretary receives a request for review of a proposed project: <i>Provided further</i>, That not later than 30 days after delivery of the base order under each of the five pilot projects, the Secretary shall submit to the House and Senate Committees on Appropriations a report on the results of that pilot project. Each report shall evaluate any savings realized through the cooperative procurement and the benefits of incorporating cooperative procurement, as shown by that project, into the mass transit program as a whole.”
 
 Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, provided that:
 
@@ -726,7 +726,7 @@ In General.—Notwithstanding any other provision of law, for fiscal years 1999 
 
 “(b)
 
-Maintenance of Effort.—The Secretary \[of Transportation\] shall approve of the use of the proceeds from the issuance of revenue bonds for the remainder of the net project cost (as defined in section 5302(a) of title 49, United States Code) only if the aggregate amount of financial support for mass transportation inthe urbanized area from the State and affected local governmental authorities during the next 3 fiscal years, as programmed in the State Transportation Improvement Program under section 135 of title 23, United States Code, is not less than the aggregate amount provided by the State and affected local governmental authorities in the urbanized area during the preceding 3 fiscal years.
+Maintenance of Effort.—The Secretary \[of Transportation\] shall approve of the use of the proceeds from the issuance of revenue bonds for the remainder of the net project cost (as defined in section 5302(a) of title 49, United States Code) only if the aggregate amount of financial support for mass transportation in the urbanized area from the State and affected local governmental authorities during the next 3 fiscal years, as programmed in the State Transportation Improvement Program under section 135 of title 23, United States Code, is not less than the aggregate amount provided by the State and affected local governmental authorities in the urbanized area during the preceding 3 fiscal years.
 
 “(c)
 

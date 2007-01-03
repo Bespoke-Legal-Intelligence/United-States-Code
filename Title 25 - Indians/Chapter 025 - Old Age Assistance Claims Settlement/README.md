@@ -4,20 +4,9 @@
 | :--- | ---: |
 | [2301\.](%C2%A7%2002301%20-%20Definitions.md) | Definitions. |
 | [2302\.](%C2%A7%2002302%20-%20Payment%20of%20claims.md) | Payment of claims. |
-| (a) | Authority of Secretary. |
-| (b) | Minimum amount for payment. |
 | [2303\.](%C2%A7%2002303%20-%20Notice.md) | Notice. |
-| (a) | Publication; list of trust estates; unauthorized disbursements; Federal Register. |
-| (b) | Secretary to provide information to affected tribes, bands, or groups. |
-| (c) | Submission of additional unauthorized disbursement claims. |
-| (d) | Publication of additional unauthorized disbursement claims. |
 | [2304\.](%C2%A7%2002304%20-%20Identification%20of%20right%20to%20payment%20and%20expedited%20claim%20payment.md) | Identification of right to payment and expedited claim payment. |
-| (a) | Search of records. |
-| (b) | Payment without filing of claim. |
-| (c) | Notification. |
 | [2305\.](%C2%A7%2002305%20-%20Discharge%20and%20barring%20of%20claims.md) | Discharge and barring of claims. |
-| (a) | Payment and acceptance. |
-| (b) | Claims filed prior to October 19, 1984. |
 | [2306\.](%C2%A7%2002306%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2307\.](%C2%A7%2002307%20-%20Treatment%20of%20funds.md) | Treatment of funds. |
 

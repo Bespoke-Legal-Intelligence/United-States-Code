@@ -90,9 +90,9 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(F) compare the level of securitization versus portfolio activity;
 
-&emsp;(G) assess underwriting standards, business practices, repurchase requirements, pricing, fees, and procedures, that affect the purchase of mortgages for low- and moderate-income families, or that may yield disparate results based on the race of the borrower, includingrevisions thereto to promote affordable housing or fair lending;
+&emsp;(G) assess underwriting standards, business practices, repurchase requirements, pricing, fees, and procedures, that affect the purchase of mortgages for low- and moderate-income families, or that may yield disparate results based on the race of the borrower, including revisions thereto to promote affordable housing or fair lending;
 
-&emsp;(H) describe trends in both the primary and secondary multifamily housing mortgage markets, including a description of the progress made, and any factors impeding progress, toward standardization and securitization of mortgage products for multifamily housing;
+&emsp;(H) describe trends in both the primary and secondary multifamily housing mortgage markets, including a description of the progressmade, and any factors impeding progress, toward standardization and securitization of mortgage products for multifamily housing;
 
 &emsp;(I) describe trends in the delinquency and default rates of mortgages secured by housing for low- and moderate-income families that have been purchased by the Corporation, including a comparison of such trends with delinquency and default information for mortgage products serving households with incomes above the median level that have been purchased by the Corporation, and evaluate the impact of such trends on the standards and levels of risk of mortgage products serving low- and moderate-income families;
 

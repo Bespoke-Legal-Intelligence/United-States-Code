@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) IEEPA was successfully applied to international narcotics traffickers in Colombia and based on that successful case study, Congress believes similar authorities should be applied worldwide.
 
-&emsp;(4) There is a national emergency resulting from the activities of international narcotics traffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
+&emsp;(4) There is a national emergency resulting from the activities of international narcoticstraffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
 
 #### (b) Policy
 
@@ -20,7 +20,7 @@ It shall be the policy of the United States to apply economic and other financia
 
 #### References in Text
 
-Executive Order No. 12978, referred to in subsec. (a)(2), is Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, which is set out as a note under section 1701 of Title 50, War and National Defense.
+Executive Order No. 12978, referred to in subsec. (a)(2), is Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

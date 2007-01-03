@@ -30,7 +30,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 &emsp;(C) if the relocation of such facility results in such owner incurring an extraordinary cost in connection with such relocation;
 
-> the displacing agency may, in accordance with such regulations as the head of the lead agency may issue, provide to such owner a relocation payment which may not exceed the amount of such extraordinary cost (less any increase in the value of the new utility facility above the value of the old utility facility and less any salvage value derived from the old utility facility).
+> the displacing agency may, in accordance with such regulations as the head of the lead agency may issue, provide to such owner a relocation payment which may not exceed the amount ofsuch extraordinary cost (less any increase in the value of the new utility facility above the value of the old utility facility and less any salvage value derived from the old utility facility).
 
 (2) For purposes of this subsection, the term—
 

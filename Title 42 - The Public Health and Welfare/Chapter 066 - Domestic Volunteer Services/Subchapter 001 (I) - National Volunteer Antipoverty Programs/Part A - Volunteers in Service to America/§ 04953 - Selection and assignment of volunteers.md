@@ -56,7 +56,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(B) advertising through the print media, direct mail, and other means;
 
-&emsp;(C) disseminating information about opportunities for service as a volunteer under thispart to relevant entities including institutions of higher education and other educational institutions (including libraries), professional associations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, and other institutions and organizations from or through which potential volunteers may be recruited;
+&emsp;(C) disseminating information about opportunities for service as a volunteer under this part to relevant entities including institutions of higher education and other educational institutions (including libraries), professional associations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, and other institutions and organizations from or through which potential volunteers may be recruited;
 
 &emsp;(D) disseminating such information through presentations made personally by employees of the Corporation or other designees of the Director, to students and faculty at institutions of higher education and to other entities described in subparagraph (C), including presentations made at the facilities, conventions, or other meetings of such entities;
 
@@ -94,7 +94,7 @@ Volunteers under this part shall not be assigned to work in a program or project
 
 The Director is encouraged to enter into agreements with other Federal agencies to use VISTA volunteers in furtherance of program objectives that are consistent with the purposes described in section 4951 of this title.
 
-(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
+(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
 
 #### References in Text
 
@@ -222,7 +222,7 @@ Retroactive effective date.—The amendments made by paragraphs (1) and (2) \[am
 
 Amendment by section 323 of Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of this title.
 
-Amendment by section 405(a)(2) to (4) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L.103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by section 405(a)(2) to (4) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1986 Amendment
 

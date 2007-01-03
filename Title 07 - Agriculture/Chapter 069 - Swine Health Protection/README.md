@@ -6,26 +6,11 @@
 | [3802\.](%C2%A7%2003802%20-%20Definitions.md) | Definitions. |
 | [3803\.](%C2%A7%2003803%20-%20Prohibition%20of%20certain%20garbage%20feeding%3B%20exemption.md) | Prohibition of certain garbage feeding; exemption. |
 | [3804\.](%C2%A7%2003804%20-%20Permits%20to%20operate%20garbage%20treatment%20facility.md) | Permits to operate garbage treatment facility. |
-| (a) | Application; issuance. |
-| (b) | Cease and desist orders; suspension or revocation orders; judicial review. |
-| (c) | Automatic revocation. |
 | [3805\.](%C2%A7%2003805%20-%20Civil%20penalties.md) | Civil penalties. |
-| (a) | Assessment by Secretary. |
-| (b) | Judicial review. |
-| (c) | Collection action by Attorney General. |
-| (d) | Payment into United States Treasury. |
-| (e) | Compromise, modification, or remittance. |
 | [3806\.](%C2%A7%2003806%20-%20Criminal%20penalties.md) | Criminal penalties. |
 | [3807\.](%C2%A7%2003807%20-%20General%20enforcement%20provisions.md) | General enforcement provisions. |
-| (a) | Injunctions. |
-| (b) | Access to premises or facility and books and records; examination; samples. |
-| (c) | Additional powers. |
 | [3808\.](%C2%A7%2003808%20-%20Cooperation%20with%20States.md) | Cooperation with States. |
 | [3809\.](%C2%A7%2003809%20-%20Primary%20enforcement%20responsibility.md) | Primary enforcement responsibility. |
-| (a) | State obligation. |
-| (b) | Inadequate enforcement or administration by State; termination of responsibility by Secretary. |
-| (c) | Request of State official. |
-| (d) | Emergency conditions. |
 | [3810\.](%C2%A7%2003810%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IX%2C%20%C2%A7914%28b%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201186.md) | Repealed. |
 | [3811\.](%C2%A7%2003811%20-%20Issuance%20of%20regulations%3B%20maintenance%20of%20records.md) | Issuance of regulations; maintenance of records. |
 | [3812\.](%C2%A7%2003812%20-%20Authority%20in%20addition%20to%20other%20laws%3B%20effect%20on%20State%20laws.md) | Authority in addition to other laws; effect on State laws. |

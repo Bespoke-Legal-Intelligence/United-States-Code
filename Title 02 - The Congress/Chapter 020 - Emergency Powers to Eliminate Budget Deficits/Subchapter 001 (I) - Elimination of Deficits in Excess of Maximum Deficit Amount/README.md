@@ -2,7 +2,7 @@
 
 #### Termination of Subchapter
 
-<i>For termination of subchapter, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>This subchapter, comprised of part C (§§250–258C) of title II of Pub. L. 99–177 and classified to sections 900 to 907d, has expired. Sections 901, 903, and 907c of this title expired Sept. 30, 2002. Sections 900, 902, 904 to 907b, and 907d of this title expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 
 ---

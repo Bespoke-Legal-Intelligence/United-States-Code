@@ -36,7 +36,7 @@ In this subchapter, the following definitions apply:
 
 #### (3) Director
 
-&emsp;The term “Director” means the Director of FEMA.
+&emsp;The term “Director” means the Administrator of FEMA.
 
 #### (4) Federal agency
 
@@ -78,7 +78,7 @@ In this subchapter, the following definitions apply:
 
 &emsp;The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451.)
+(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Prior Provisions
 
@@ -91,6 +91,14 @@ A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)
 2002—Par. (1). Pub. L. 107–310, §3(e)(2)(A), substituted “section 467f(f)” for “section 467f(h)”.
 
 Par. (12). Pub. L. 107–310, §3(e)(2)(B), substituted “section 467f(e)” for “section 467f(f)”.
+
+#### Change of Name
+
+“Administrator of FEMA” substituted for “Director of FEMA” in par. (3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–460, §1(a), Dec. 22, 2006, 120 Stat. 3401, provided that: “This section \[amending sections 467d, 467f, and 467j of this title\] may be cited as the ‘Dam Safety Act of 2006’.”
 
 #### Short Title of 2002 Amendment
 
@@ -106,7 +114,9 @@ Section 1 of Pub. L. 92–367, as added by Pub. L. 104–303, title II, §215(c)
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Statement of Purpose; National Dam Safety Program
 
@@ -114,5 +124,5 @@ Section 215(a) of Pub. L. 104–303 provided that: “The purpose of this sectio
 
 #### Effect on Other Dam Safety Programs
 
-Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of thistitle and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
+Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
 

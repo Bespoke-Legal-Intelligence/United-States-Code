@@ -8,7 +8,7 @@
 
 #### (2) Issues
 
-&emsp;The Secretary shall provide for a comprehensive discussion and exchange of information concerning the implementation of this subchapter and part C of subchapter I of chapter 34 of title 42, as amended by the Higher Education Amendments of 1998 through such mechanisms as regional meetings and electronic exchanges of information. The Secretary shall take into account the information received through such mechanisms in the development of proposed regulations and shall publish a summary of such information in the Federal Register together with such proposed regulations.
+&emsp;The Secretary shall provide for a comprehensive discussion and exchange of information concerning the implementation of this subchapter and part C of subchapter I of chapter 34 of title 42, as amended by the Higher Education Amendments of 1998 through such mechanisms as regional meetings and electronic exchanges of information. The Secretary shall take into account the informationreceived through such mechanisms in the development of proposed regulations and shall publish a summary of such information in the Federal Register together with such proposed regulations.
 
 #### (b) Draft regulations
 

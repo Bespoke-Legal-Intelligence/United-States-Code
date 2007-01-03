@@ -4,7 +4,7 @@
 
 (2) Paragraph (1) of this subsection applies to a non-service-connected disability—
 
-&emsp;(A) that is incurred incident to the veteran's employment and that is covered under a workers’ compensation law or plan that provides for payment for the cost of health care andservices provided to the veteran by reason of the disability;
+&emsp;(A) that is incurred incident to the veteran's employment and that is covered under a workers’ compensation law or plan that provides for payment for the cost of health care and services provided to the veteran by reason of the disability;
 
 &emsp;(B) that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) that the provision of such care or services to the veteran meets criteria generally applicable under the health-plan contract involved.
 
-(2) A veteran described in this paragraph is a veteran who is a beneficiary of a health-plancontract under which recovery or collection is sought under this section from the third party concerned for the cost of the care or services furnished to the veteran.
+(2) A veteran described in this paragraph is a veteran who is a beneficiary of a health-plan contract under which recovery or collection is sought under this section from the third party concerned for the cost of the care or services furnished to the veteran.
 
 (3) Records shall be made available under this subsection under such conditions to protect the confidentiality of such records as the Secretary shall prescribe in regulations.
 

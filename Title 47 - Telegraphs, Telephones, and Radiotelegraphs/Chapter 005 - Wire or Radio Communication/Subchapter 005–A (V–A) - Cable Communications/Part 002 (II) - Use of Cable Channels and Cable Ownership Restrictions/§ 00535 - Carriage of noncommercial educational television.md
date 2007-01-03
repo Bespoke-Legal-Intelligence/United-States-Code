@@ -20,7 +20,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 &emsp;&emsp;(ii) the selection for carriage of such a signal shall be at the election of the cable operator; and
 
-&emsp;&emsp;(iii) in order to satisfy the requirements for carriage specified in this subsection, the cable operator of the system shall not be required to remove any other programming service actually provided to subscribers onMarch 29, 1990; except that such cable operator shall use the first channel available to satisfy the requirements of this subparagraph.
+&emsp;&emsp;(iii) in order to satisfy the requirements for carriage specified in this subsection, the cable operator of the system shall not be required to remove any other programming service actually provided to subscribers on March 29, 1990; except that such cable operator shall use the first channel available to satisfy the requirements of this subparagraph.
 
 #### (3) Systems with 13 to 36 channels
 

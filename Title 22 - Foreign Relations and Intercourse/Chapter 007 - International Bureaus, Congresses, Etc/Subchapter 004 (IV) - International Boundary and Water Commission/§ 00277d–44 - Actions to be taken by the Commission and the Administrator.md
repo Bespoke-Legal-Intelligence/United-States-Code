@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Coloradoand Tijuana Rivers and of the Rio Grande, dated February 3, 1944, and notwithstanding section 510(b)(2) of the Water Quality Act of 1987 (101 Stat. 81), the Commission is authorized and directed to provide for the secondary treatment of a total of not more than 50 mgd in Mexico—
+&emsp;Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944, and notwithstanding section 510(b)(2) of the Water Quality Act of 1987 (101 Stat. 81), the Commission is authorized and directed to provide for the secondary treatment of a total of not more than 50 mgd in Mexico—
 
 &emsp;&emsp;(A) of effluent from the IWTP if such treatment is not provided for at a facility in the United States; and
 
@@ -16,7 +16,7 @@
 
 #### (b) Comprehensive plan
 
-Not later than 24 months after November 7, 2000, the Administrator shall develop a comprehensive plan with stakeholder involvement to address the transborder sanitation problems in the San Diego-Tijuana border region. The plan shall include, at a minimum—
+Not later than 24 months after November 7, 2000, the Administrator shall develop a comprehensive plan with stakeholder involvement toaddress the transborder sanitation problems in the San Diego-Tijuana border region. The plan shall include, at a minimum—
 
 &emsp;(1) an analysis of the long-term secondary treatment needs of the region;
 
@@ -74,7 +74,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of State shall monitor the implementation of any contract entered into under this section and evaluate the extent to which the owner of the Mexican facility has met the terms of this section and fulfilled the terms of the contract.
+&emsp;The Inspector General of the Department of State shall monitor the implementation ofany contract entered into under this section and evaluate the extent to which the owner of the Mexican facility has met the terms of this section and fulfilled the terms of the contract.
 
 #### (2) Report
 

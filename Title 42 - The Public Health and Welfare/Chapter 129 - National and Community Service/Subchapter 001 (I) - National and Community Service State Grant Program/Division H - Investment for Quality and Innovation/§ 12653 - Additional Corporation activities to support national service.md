@@ -24,7 +24,7 @@ The Corporation may support service programs intended to be carried out between 
 
 #### (d) Community-based agencies
 
-The Corporation may provide training and technical assistance and other assistance toservice sponsors and other community-based agencies that provide volunteer placements in order to improve the ability of such agencies to use participants and other volunteers in a manner that results in high-quality service and a positive service experience for the participants and volunteers.
+The Corporation may provide training and technical assistance and other assistance to service sponsors and other community-based agencies that provide volunteer placements in order to improve the ability of such agencies to use participants and other volunteers in a manner that results in high-quality service and a positive service experience for the participants and volunteers.
 
 #### (e) Improve ability to apply for assistance
 

@@ -1,12 +1,12 @@
 ### §472. Installments on entries or applications made after August 13, 1914, and prior to December 5, 1924
 
-Any person whose lands, after August 13, 1914, and prior to December 5, 1924, became subject to the terms and conditions of the Act approved June 17, 1902, and Acts amendatory thereof or supplementary thereto, and any person who, after August 13, 1914, and prior to December 5, 1924, made entry thereunder shall pay the balance of said charge after the initial payment in fifteen annual installments, the first five of which shall each be 5 per centum of the construction charge and the remainder shall each be 7 per centum until the whole amount shall have been paid.
+Any person whose lands, after August 13, 1914, and prior to December 5, 1924, became subject to the terms and conditions of the Act approved June seventeenth, nineteen hundred and two, entitled “An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands,” and Acts amendatory thereof or supplementary thereto, hereafter to be referred to as the reclamation law, and any person who, after August 13, 1914, and prior to December 5, 1924, made entry thereunder shall pay the balance of said charge after the initial payment in fifteen annual installments, the first five of which shall each be five per centum of the construction charge and the remainder shall each be seven per centum until the whole amount shall have been paid.
 
 (Aug. 13, 1914, ch. 247, §1, 38 Stat. 686.)
 
 #### References in Text
 
-Act approved June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act approved June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Codification
 

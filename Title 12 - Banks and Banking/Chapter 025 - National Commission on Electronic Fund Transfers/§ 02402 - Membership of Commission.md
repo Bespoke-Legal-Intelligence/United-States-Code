@@ -46,5 +46,7 @@ A vacancy in the Commission shall be filled in the manner in which the original 
 
 #### Transfer of Functions
 
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of this title.
+
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 

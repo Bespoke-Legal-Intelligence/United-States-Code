@@ -2,7 +2,7 @@
 
 (a)
 
-Persons Not Considered by Promotion Boards Due to Administrative Error.—(1) If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion by a promotion board was not so considered, or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
+Persons Not Considered by Promotion Boards Due to Administrative Error.—(1) If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion from in or above the promotion zone by a promotion board was not so considered, or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
 
 (2) A special selection board convened under paragraph (1) shall consider the record of the person whose name was referred to it for consideration as that record would have appeared to the board that should have considered him. That record shall be compared with a sampling of the records of those officers of the same competitive category who were recommended for promotion, and those officers who were not recommended for promotion, by the board that should have considered him.
 
@@ -12,7 +12,7 @@ Persons Not Considered by Promotion Boards Due to Administrative Error.—(1) If
 
 Persons Considered by Promotion Boards in Unfair Manner.—(1) If the Secretary of the military department concerned determines, in the case of a person who was considered for selection for promotion by a promotion board but was not selected, that there was material unfairness with respect to that person, the Secretary may convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion. In order to determine that there was material unfairness, the Secretary must determine that—
 
-&emsp;(A) the action of the promotion board that considered the person was contrary to law or involved material error of fact or material administrative error; or
+&emsp;(A) the action of the promotion board that considered the person was contrary to law in a matter material to the decision of the board or involved material error of fact or material administrative error; or
 
 &emsp;(B) the board did not have before it for its consideration material information.
 
@@ -108,9 +108,13 @@ Regulations.—(1) The Secretary of each military department shall prescribe reg
 
 Promotion Board Defined.—In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654,1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088; Pub. L. 109–364, div. A, title V, §514(a), Oct. 17, 2006, 120 Stat. 2185.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–364, §514(a)(1), inserted “from in or above the promotion zone” after “for selection for promotion”.
+
+Subsec. (b)(1)(A). Pub. L. 109–364, §514(a)(2), inserted “in a matter material to the decision of the board” after “contrary to law”.
 
 2001—Subsec. (a)(1). Pub. L. 107–107, §505(c)(3)(A), inserted “or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed,” after “not so considered,”.
 
@@ -156,6 +160,10 @@ Subsecs. (f), (g). Pub. L. 105–261, §501(e), added subsecs. (f) and (g).
 
 1984—Subsecs. (a)(1), (b)(1). Pub. L. 98–525 substituted “(composed in accordance with section 612 of this title or, in the case of a warrant officer, composed in accordance with section 558 of this title and regulations prescribed by the Secretary of the military department concerned)” for “(composed in accordance with section 612 of this title)”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title V, §514(c), Oct. 17, 2006, 120 Stat. 2185, provided that: “The amendments made by this section \[amending this section and section 14502 of this title\] shall take effect on March 1, 2007, and shall apply with respect to selection boards convened on or after that date.”
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title V, §503(c), Dec. 28, 2001, 115 Stat. 1084, provided that:
@@ -174,5 +182,5 @@ Functions of President under subsec. (d)(1) to approve, modify, or disapprove re
 
 #### Ratification of Codified Practice
 
-Pub. L. 105–261, div. A, title V, §501(f), Oct. 17, 1998, 112 Stat. 2002, provided that: “The consideration by a special selection board convened under section 628 of title 10, United States Code, before the date of the enactment of this Act \[Oct. 17, 1998\] of a person who, at the time of consideration, was a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) is hereby ratified.”
+Pub. L. 105–261, div. A, title V, §501(f), Oct. 17, 1998, 112 Stat. 2002, provided that the consideration by a special selection board convened under this section before Oct. 17, 1998, of a person who, at the time of consideration, had been a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) was ratified.
 

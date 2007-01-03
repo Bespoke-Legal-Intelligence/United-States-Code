@@ -8,37 +8,12 @@
 | [2204\.](%C2%A7%2002204%20-%20General%20duties%20of%20Secretary%3B%20advisory%20functions%3B%20research%20and%20development.md) | General duties of Secretary; advisory functions; research and development. |
 | [2204a.](%C2%A7%2002204a%20-%20Rural%20development%3B%20utilization%20of%20non-Federal%20offices%3B%20location%20of%20field%20units%3B%20interchange%20of%20personnel%20and%20facilities.md) | Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities. |
 | [2204b.](%C2%A7%2002204b%20-%20Rural%20development%20policy.md) | Rural development policy. |
-| (a) | Coordination of nationwide rural development program using services of executive branch departments and agencies and State and local governments. |
-| (b) | Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative agreements to improve Federal programs affecting rural areas; public hearings and comments. |
-| (c) | Rural development strategy and annual updates; preparation and scope; purposes; time for updates; public hearings and suggestions and recommendations; transmittal to Congressional committees; analysis of budgetary considerations and factors; evaluation and recommendations regarding implementation and revisions. |
-| (d) | Strategy implementation; goals. |
 | 2204b–1. | Rural development. |
-| (a) | Congressional commitment. |
-| (b) | Location of Federal facilities. |
 | [2204c.](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md) | Water management for rural areas. |
-| (a) | In general. |
-| (b) | Activities. |
-| (c) | Cooperation. |
-| (d) | Regulations. |
-| (e) | “University” defined. |
-| (f) | Funding. |
-| (g) | No waivers. |
 | [2204d.](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md) | Encouragement of private contracting. |
-| (a) | In general. |
-| (b) | Plan required. |
 | [2204e.](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md) | Office of Risk Assessment and Cost-Benefit Analysis. |
-| (a) | Office of Risk Assessment and Cost-Benefit Analysis. |
-| (b) | Functions. |
-| (c) | “Major regulation” defined. |
 | [2204f.](%C2%A7%2002204f%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76403%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20429.md) | Repealed. |
 | [2204g.](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md) | Authority of Secretary of Agriculture to conduct census of agriculture. |
-| (a) | Census of agriculture required. |
-| (b) | Methods. |
-| (c) | Year of information. |
-| (d) | Enforcement. |
-| (e) | Geographic coverage. |
-| (f) | Cooperation with Secretary of Commerce. |
-| (g) | Regulations. |
 | [2205\.](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md) | Duties of former Commissioner of Agriculture transferred to Secretary. |
 | [2206\.](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md) | Custody of property and records. |
 | [2206a.](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md) | Conveyance of excess Federal personal property. |
@@ -66,8 +41,6 @@
 | [2218\.](%C2%A7%2002218%20-%20Fee%20for%20administering%20or%20taking%20oaths%2C%20affirmations%2C%20and%20affidavits.md) | Fee for administering or taking oaths, affirmations, and affidavits. |
 | [2219\.](%C2%A7%2002219%20-%20Salaries%3B%20how%20paid.md) | Salaries; how paid. |
 | [2219a.](%C2%A7%2002219a%20-%20Overtime%20and%20holiday%20pay.md) | Overtime and holiday pay. |
-| (a) | In general. |
-| (b) | Availability. |
 | [2220\.](%C2%A7%2002220%20-%20Certain%20officials%20and%20employees%20of%20Department%20and%20others%20not%20subject%20to%20restriction%20on%20payment%20of%20compensation%20to%20Government%20officials%20and%E2%80%A6.md) | Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and employees. |
 | [2221\.](%C2%A7%2002221%20-%20Details%20of%20persons%20from%20or%20to%20office%20of%20Secretary.md) | Details of persons from or to office of Secretary. |
 | [2222\.](%C2%A7%2002222%20-%20Details%20of%20law%20clerks.md) | Details of law clerks. |
@@ -100,10 +73,6 @@
 | [2241\.](%C2%A7%2002241%20-%20Sale%20or%20exchange%20of%20animals%20or%20animal%20products.md) | Sale or exchange of animals or animal products. |
 | [2242\.](%C2%A7%2002242%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71606%28b%29%281%29%2C%20%282%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203715.md) | Repealed. |
 | [2242a.](%C2%A7%2002242a%20-%20User%20fees%20for%20reports%2C%20publications%2C%20and%20software.md) | User fees for reports, publications, and software. |
-| (a) | Authority of Secretary. |
-| (b) | Consistency of charges with provisions of section 9701 of title 31. |
-| (c) | Use and disposition of moneys. |
-| (d) | Investment. |
 | [2242b.](%C2%A7%2002242b%20-%20Translation%20of%20publications%20into%20foreign%20languages.md) | Translation of publications into foreign languages. |
 | [2243\.](%C2%A7%2002243%20-%20Sale%20of%20photographic%20prints%20and%20maps.md) | Sale of photographic prints and maps. |
 | [2244\.](%C2%A7%2002244%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71606%28b%29%283%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203715.md) | Repealed. |
@@ -128,9 +97,6 @@
 | [2261\.](%C2%A7%2002261%20-%20Credit%20of%20donations%20and%20proceeds%20from%20exhibitions%20to%20appropriations%20concerned%20with%20foreign%20market%20development%20programs.md) | Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs. |
 | [2262\.](%C2%A7%2002262%20-%20Employee%20liability%20insurance%20on%20motor%20vehicles%20in%20foreign%20countries.md) | Employee liability insurance on motor vehicles in foreign countries. |
 | [2262a.](%C2%A7%2002262a%20-%20Overseas%20tort%20claims.md) | Overseas tort claims. |
-| (a) | In general. |
-| (b) | Period for presentation of claim. |
-| (c) | Finality. |
 | [2263\.](%C2%A7%2002263%20-%20Transfer%20of%20funds.md) | Transfer of funds. |
 | [2264\.](%C2%A7%2002264%20-%20National%20Agricultural%20Library%3B%20acceptance%20of%20gifts%2C%20bequests%2C%20or%20devises%3B%20conditional%20gifts.md) | National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts. |
 | [2265\.](%C2%A7%2002265%20-%20Deposit%20of%20money%20accepted%20for%20benefit%20of%20National%20Agricultural%20Library%3B%20disbursement.md) | Deposit of money accepted for benefit of National Agricultural Library; disbursement. |
@@ -145,71 +111,22 @@
 | [2271\.](%C2%A7%2002271%20-%20Marketing%20education%20programs%20for%20small%20and%20medium%20size%20family%20farm%20operations.md) | Marketing education programs for small and medium size family farm operations. |
 | [2271a.](%C2%A7%2002271a%20-%20Advanced%20marketing%20training%20for%20farmers%20and%20ranchers.md) | Advanced marketing training for farmers and ranchers. |
 | [2272\.](%C2%A7%2002272%20-%20Volunteers%20for%20Department%20of%20Agriculture%20programs.md) | Volunteers for Department of Agriculture programs. |
-| (a) | Establishment of program. |
-| (b) | Acceptance of personnel. |
-| (c) | Federal employee status. |
 | [2272a.](%C2%A7%2002272a%20-%20Funds%20for%20incidental%20expenses%20and%20promotional%20items%20relating%20to%20volunteers.md) | Funds for incidental expenses and promotional items relating to volunteers. |
 | [2273\.](%C2%A7%2002273%20-%20Local%20search%20and%20rescue%20operations.md) | Local search and rescue operations. |
 | [2274\.](%C2%A7%2002274%20-%20Firearm%20authority%20of%20employees%20engaged%20in%20animal%20quarantine%20enforcement.md) | Firearm authority of employees engaged in animal quarantine enforcement. |
 | [2274a.](%C2%A7%2002274a%20-%20Firearm%20authority%20of%20employees%20conducting%20field%20work%20in%20remote%20locations.md) | Firearm authority of employees conducting field work in remote locations. |
 | [2275\.](%C2%A7%2002275%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XV%2C%20%C2%A71572%283%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203702.md) | Repealed. |
 | [2276\.](%C2%A7%2002276%20-%20Confidentiality%20of%20information.md) | Confidentiality of information. |
-| (a) | Authorized disclosure. |
-| (b) | Duty of Secretary; immunity from disclosure; necessary consent. |
-| (c) | Violations; penalties. |
-| (d) | Specific provisions for collection of information. |
-| (e) | Information provided to Secretary of Commerce. |
 | [2277\.](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md) | Contracts by Animal and Plant Health Inspection Service for services to be performed abroad. |
 | [2278\.](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md) | Consistency with international obligations of United States. |
-| (a) | In general. |
-| (b) | Compliance with U.S. international obligations. |
-| (c) | Construction. |
 | [2279\.](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md) | Outreach and assistance for socially disadvantaged farmers and ranchers. |
-| (a) | Outreach and assistance. |
-| (b) | Designation of Federal personnel. |
-| (c) | Report to Congress. |
-| (d) | Affirmative action, appeals, and contracting review. |
-| (e) | Definitions. |
-| (f) | Omitted. |
-| (g) | Reservations. |
 | 2279–1. | Transparency and accountability for socially disadvantaged farmers and ranchers. |
-| (a) | Purpose. |
-| (b) | Definition of socially disadvantaged farmer or rancher. |
-| (c) | Compilation of program participation data. |
 | [2279a.](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md) | Fair and equitable treatment of socially disadvantaged producers. |
-| (a) | Fair crop acreage bases and farm program payment yields. |
-| (b) | Fair application of Consolidated Farm and Rural Development Act. |
-| (c) | Report on treatment of socially disadvantaged producers. |
-| (d) | “Socially disadvantaged producer” defined. |
 | [2279b.](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md) | Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality. |
-| (a) | Definitions. |
-| (b) | Operation as nonappropriated fund instrumentality. |
-| (c) | Activities of Graduate School. |
-| (d) | Fees and donations. |
-| (e) | General Administration Board and Director. |
-| (f) | Employees. |
-| (g) | Not a Federal agency. |
-| (h) | Acquisition and disposal of property. |
-| (i) | Contract authority. |
-| (j) | Use of Department facilities and resources. |
-| (k) | Audits of records. |
 | [2279c.](%C2%A7%2002279c%20-%20Student%20internship%20programs.md) | Student internship programs. |
-| (a) | Student intern subsistence program. |
-| (b) | Cooperation with associations of colleges and universities. |
 | [2279d.](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md) | Compensatory damages in claims under Rehabilitation Act of 1973. |
 | [2279e.](%C2%A7%2002279e%20-%20Civil%20penalty.md) | Civil penalty. |
-| (a) | In general. |
-| (b) | Factors in determining civil penalty. |
-| (c) | Settlement of civil penalties. |
-| (d) | Finality of orders. |
-| (e) | Secretary concerned defined. |
 | [2279f.](%C2%A7%2002279f%20-%20Subpoena%20authority.md) | Subpoena authority. |
-| (a) | In general. |
-| (b) | Location of production. |
-| (c) | Enforcement of subpoena. |
-| (d) | Compensation. |
-| (e) | Procedures. |
-| (f) | Scope of subpoena. |
 | [2279g.](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md) | Marketing services; cooperative agreements. |
 | [2279h.](%C2%A7%2002279h%20-%20Cross-servicing%20activities%20of%20National%20Finance%20Center.md) | Cross-servicing activities of National Finance Center. |
 

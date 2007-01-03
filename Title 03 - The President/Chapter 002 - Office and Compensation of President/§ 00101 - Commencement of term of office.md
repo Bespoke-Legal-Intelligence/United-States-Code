@@ -14,7 +14,7 @@ Pub. L. 106–92, Nov. 9, 1999, 113 Stat. 1309, provided that:
 
 #### “SECTION 1. DESIGNATION OF DWIGHT D. EISENHOWER EXECUTIVE OFFICE BUILDING.
 
-“The Old Executive Office Building located at 17th Street and Pennsylvania Avenue, NW, in Washington, District of Columbia, shall be known and designated as the ‘Dwight D. Eisenhower Executive Office Building’.
+“The Old Executive Office Building located at 17th Street and Pennsylvania Avenue, NW, in Washington,District of Columbia, shall be known and designated as the ‘Dwight D. Eisenhower Executive Office Building’.
 
 #### “SEC. 2. REFERENCES.
 

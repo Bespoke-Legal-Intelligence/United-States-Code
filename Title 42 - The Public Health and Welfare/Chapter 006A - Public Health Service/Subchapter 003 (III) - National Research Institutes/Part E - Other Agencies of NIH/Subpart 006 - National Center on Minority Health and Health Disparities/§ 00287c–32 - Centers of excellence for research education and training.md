@@ -10,7 +10,7 @@ An award may be made under subsection (a) of this section only if the applicant 
 
 &emsp;(1) to train members of minority health disparity populations or other health disparity populations as professionals in the area of biomedical or behavioral research or both; or
 
-&emsp;(2) to expand, remodel, renovate, or alter existing research facilities or construct new research facilities for the purpose of conducting minority health disparities research and other health disparities research.
+&emsp;(2) to expand, remodel, renovate, or alter existing research facilities or construct new research facilities for the purpose of conductingminority health disparities research and other health disparities research.
 
 #### (c) Centers of excellence
 
@@ -60,9 +60,13 @@ For purposes of this section:
 
 &emsp;(2) The term “program of excellence” means any program carried out by a designated biomedical and behavioral research institution with an award under subsection (a) of this section, if the program is for purposes for which the institution involved is authorized in subsection (b) of this section to expend the grant.
 
-#### (h) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §485F, as added Pub. L. 106–525, title I, §102, Nov. 22, 2000, 114 Stat. 2501; amended Pub. L. 109–482, title I, §103(b)(45), Jan. 15, 2007, 120 Stat. 3688.)
 
-For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §485F, as added Pub. L. 106–525, title I, §102, Nov. 22, 2000, 114 Stat. 2501.)
+2007—Subsec. (h). Pub. L. 109–482 struck out heading and text of subsec. (h). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

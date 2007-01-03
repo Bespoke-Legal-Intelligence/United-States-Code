@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [2821\.](%C2%A7%2002821%20-%20Requirement%20for%20authorization%20of%20appropriations%20for%20construction%20and%20acquisition%20of%20military%20family%20housing.md) | Requirement for authorization of appropriations for construction and acquisition of military family housing. |
 | [2822\.](%C2%A7%2002822%20-%20Requirement%20for%20authorization%20of%20number%20of%20family%20housing%20units.md) | Requirement for authorization of number of family housing units. |
-| [2823\.](%C2%A7%2002823%20-%20Determination%20of%20availability%20of%20suitable%20alternative%20housing%20for%20acquisition%20in%20lieu%20of%20construction%20of%20new%20family%20housing.md) | Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing. |
+| \[2823. | Repealed.\] |
 | [2824\.](%C2%A7%2002824%20-%20Authorization%20for%20acquisition%20of%20existing%20family%20housing%20in%20lieu%20of%20construction.md) | Authorization for acquisition of existing family housing in lieu of construction. |
 | [2825\.](%C2%A7%2002825%20-%20Improvements%20to%20family%20housing%20units.md) | Improvements to family housing units. |
 | [2826\.](%C2%A7%2002826%20-%20Military%20family%20housing%20local%20comparability%20of%20room%20patterns%20and%20floor%20areas.md) | Military family housing: local comparability of room patterns and floor areas. |
@@ -24,6 +24,8 @@
 
 #### Amendments
 
+2006—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
+
 2000—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted “Military family housing: local comparability of room patterns and floor areas” for “Limitations on space by pay grade” in item 2826.
 
 1994—Pub. L. 103–337, div. B, title XXVIII, §2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
@@ -39,7 +41,7 @@
 
 - [&sect; 02821 - Requirement for authorization of appropriations for construction and acquisition of military family housing](%C2%A7%2002821%20-%20Requirement%20for%20authorization%20of%20appropriations%20for%20construction%20and%20acquisition%20of%20military%20family%20housing.md)
 - [&sect; 02822 - Requirement for authorization of number of family housing units](%C2%A7%2002822%20-%20Requirement%20for%20authorization%20of%20number%20of%20family%20housing%20units.md)
-- [&sect; 02823 - Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing](%C2%A7%2002823%20-%20Determination%20of%20availability%20of%20suitable%20alternative%20housing%20for%20acquisition%20in%20lieu%20of%20construction%20of%20new%20family%20housing.md)
+- [&sect; 02823 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2803(a), Oct. 17, 2006, 120 Stat. 2467](%C2%A7%2002823%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72803%28a%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202467.md)
 - [&sect; 02824 - Authorization for acquisition of existing family housing in lieu of construction](%C2%A7%2002824%20-%20Authorization%20for%20acquisition%20of%20existing%20family%20housing%20in%20lieu%20of%20construction.md)
 - [&sect; 02825 - Improvements to family housing units](%C2%A7%2002825%20-%20Improvements%20to%20family%20housing%20units.md)
 - [&sect; 02826 - Military family housing local comparability of room patterns and floor areas](%C2%A7%2002826%20-%20Military%20family%20housing%20local%20comparability%20of%20room%20patterns%20and%20floor%20areas.md)

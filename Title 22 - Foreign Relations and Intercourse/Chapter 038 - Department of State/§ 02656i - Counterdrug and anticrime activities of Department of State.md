@@ -10,7 +10,7 @@
 
 &emsp;In establishing the strategy, the Secretary shall—
 
-&emsp;&emsp;(A) coordinate with the Office of National Drug Control Policy in the development of clear, specific, and measurable counterdrug objectives for the Department that support the goals and objectives of the National Drug Control Strategy;
+&emsp;&emsp;(A) coordinate with the Office of National Drug Control Policy in the development of clear, specific, and measurable counterdrugobjectives for the Department that support the goals and objectives of the National Drug Control Strategy;
 
 &emsp;&emsp;(B) develop specific and, to the maximum extent practicable, quantifiable measures of performance relating to the objectives, including annual and long-term measures of performance, for purposes of assessing the success of the Department in meeting the objectives;
 

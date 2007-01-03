@@ -24,7 +24,7 @@ Readiness Reporting System.—The Chairman shall develop, in consultation with t
 
 (d)
 
-Review of National Security Agency and National Geospatial-Intelligence Agency.—(1) Subsections (a), (b), and (c) shall apply to the National Security Agency and the National Geospatial-Intelligence Agency, but only with respect to combat support functions that the agencies perform for the Department of Defense.
+Review of National Security Agency and National Geospatial-Intelligence Agency.—\(1) Subsections (a), (b), and (c) shall apply to the National Security Agency and the National Geospatial-Intelligence Agency, but only with respect to combat support functions that the agencies perform for the Department of Defense.
 
 (2) The Secretary, after consulting with the Director of Central Intelligence, shall establish policies and procedures with respect to the application of subsections (a), (b), and (c) to the National Security Agency and the National Geospatial-Intelligence Agency.
 
@@ -36,7 +36,7 @@ Combat Support Capabilities of DIA, NSA, and NGA.—The Secretary of Defense, in
 
 Definition of Combat Support Agency.—In this section, the term “combat support agency” means any of the following Defense Agencies:
 
-&emsp;(1) The Defense Communications Agency.
+&emsp;(1) The Defense Information Systems Agency.
 
 &emsp;(2) The Defense Intelligence Agency.
 
@@ -46,9 +46,11 @@ Definition of Combat Support Agency.—In this section, the term “combat suppo
 
 &emsp;(5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354.)
 
 #### Amendments
+
+2006—Subsec. (f)(1). Pub. L. 109–364 substituted “Defense Information Systems Agency” for “Defense Communications Agency”.
 
 2003—Subsec. (d). Pub. L. 108–136, §921(d)(3)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in heading.
 

@@ -232,7 +232,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;An arrangement between a hospital and a group under which designated health services are provided by the group but are billed by the hospital if—
 
-&emsp;&emsp;&emsp;(i) with respect to services provided to an inpatient of the hospital, the arrangement is pursuant to the provision of inpatient hospital services under section 1395x(b)(3) of this title.
+&emsp;&emsp;&emsp;(i) with respect to services provided to an inpatient of the hospital, the arrangement is pursuant to the provision of inpatient hospital services under section 1395x(b)(3) of this title,
 
 &emsp;&emsp;&emsp;(ii) the arrangement began before December 19, 1989, and has continued in effect without interruption since such date,
 

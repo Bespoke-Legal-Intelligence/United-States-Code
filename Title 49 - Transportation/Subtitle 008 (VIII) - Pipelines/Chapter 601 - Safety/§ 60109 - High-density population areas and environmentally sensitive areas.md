@@ -48,7 +48,7 @@ Authority to issue regulations.—The Secretary may satisfy the requirements of 
 
 Minimum requirements of integrity management programs.—An integrity management program required under paragraph (1) shall include, at a minimum, the following requirements:
 
-&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 yearsafter such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
 &emsp;&emsp;(B) Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).
 
@@ -114,7 +114,7 @@ Review of programs.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Secretary shall review a risk analysis and integrity management program under paragraph (1) andrecord the results of that review for use in the next review of an operator's program.
+In general.—The Secretary shall review a risk analysis and integrity management program under paragraph (1) and record the results of that review for use in the next review of an operator's program.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -122,7 +122,7 @@ Context of review.—The Secretary may conduct a review under clause (i) as an e
 
 &emsp;&emsp;&emsp;(iii)
 
-Inadequate programs.—If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), or is inadequate for the safe operation of a pipeline facility, the Secretary shall act under section 60108(a)(2) to require the operator to revise the risk analysis or integrity management program.
+Inadequate programs.—If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), has not been adequately implemented, or is inadequate for the safe operation of a pipeline facility, the Secretary may conduct proceedings under this chapter.
 
 &emsp;&emsp;(B)
 
@@ -144,7 +144,61 @@ Application of standards.—Section 60104(b) shall not apply to this section.
 
 Evaluation of Integrity Management Regulations.—Not later than 4 years after the date of enactment of this subsection, the Comptroller General shall complete an assessment and evaluation of the effects on public safety and the environment of the requirements for the implementation of integrity management programs contained in the standards prescribed as described in subsection (c)(2).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005.)
+(e)
+
+Distribution Integrity Management Programs.—
+
+&emsp;(1)
+
+Minimum standards.—Not later than December 31, 2007, the Secretary shall prescribe minimum standards for integrity management programs for distribution pipelines.
+
+&emsp;(2)
+
+Additional authority of secretary.—In carrying out this subsection, the Secretary may require operators of distribution pipelines to continually identify and assess risks on their distribution lines, to remediate conditions that present a potential threat to line integrity, and to monitor program effectiveness.
+
+&emsp;(3)
+
+Excess flow valves.—
+
+&emsp;&emsp;(A)
+
+In general.—The minimum standards shall include a requirement for an operator of a natural gas distribution system to install an excess flow valve on each single family residence service line connected to such system if—
+
+&emsp;&emsp;&emsp;(i) the service line is installed or entirely replaced after June 1, 2008;
+
+&emsp;&emsp;&emsp;(ii) the service line operates continuously throughout the year at a pressure not less than 10 pounds per square inch gauge;
+
+&emsp;&emsp;&emsp;(iii) the service line is not connected to a gas stream with respect to which the operator has had prior experience with contaminants the presence of which could interfere with the operation of an excess flow valve;
+
+&emsp;&emsp;&emsp;(iv) the installation of an excess flow valve on the service line is not likely to cause loss of service to the residence or interfere with necessary operation or maintenance activities, such as purging liquids from the service line; and
+
+&emsp;&emsp;&emsp;(v) an excess flow valve meeting performance standards developed under section 60110(e) of title 49, United States Code, is commercially available to the operator, as determined by the Secretary.
+
+&emsp;&emsp;(B)
+
+Reports.—Operators of natural gas distribution systems shall report annually to the Secretary on the number of excess flow valves installed on their systems under subparagraph (A).
+
+&emsp;(4)
+
+Applicability.—The Secretary shall determine which distribution pipelines will be subject to the minimum standards.
+
+&emsp;(5)
+
+Development and implementation.—Each operator of a distribution pipeline that the Secretary determines is subject to the minimum standards prescribed by the Secretary under this subsection shall develop and implement an integrity management program in accordance with those standards.
+
+&emsp;(6)
+
+Savings clause.—Subject to section 60104(c), a State authority having a current certification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
+
+(f)
+
+Certification of Pipeline Integrity Management Program Performance.—The Secretary shall establish procedures requiring certification of annual and semiannual pipeline integrity management program performance reports by a senior executive officer of the company operating a pipeline subject to this chapter. The procedures shall require a signed statement, which may be effected electronically in accordance with the provisions of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 et seq.), certifying that—
+
+&emsp;(1) the signing officer has reviewed the report; and
+
+&emsp;(2) to the best of such officer's knowledge and belief, the report is true and complete.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat.4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496.)
 
 Historical and Revision Notes
 
@@ -192,7 +246,15 @@ This amends 49:60109(a)(2) to correct an error in the codification enacted by se
 
 The date of enactment of this subsection, referred to in subsecs. (c) and (d), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
 
+The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (f), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§7001 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of Title 15 and Tables.
+
 #### Amendments
+
+2006—Subsec. (c)(9)(A)(iii). Pub. L. 109–468, §14, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), or is inadequate for the safe operation of a pipeline facility, the Secretary shall act under section 60108(a)(2) to require the operator to revise the risk analysis or integrity management program.”
+
+Subsec. (e). Pub. L. 109–468, §9, added subsec. (e).
+
+Subsec. (f). Pub. L. 109–468, §16, added subsec. (f).
 
 2002—Subsec. (c). Pub. L. 107–355, §14(a), added subsec. (c).
 
@@ -220,13 +282,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Study of Reassessment Intervals
 
-Pub. L. 107–355, §14(d), Dec. 17, 2002, 116 Stat. 3005, provided that:
-
-“(1)
-
-Study.—The Comptroller General shall conduct a study to evaluate the 7-year reassessment interval required by section 60109(c)(3)(B) of title 49, United States Code, as added by subsection (a) of this section.
-
-“(2)
-
-Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Comptroller General shall transmit to Congress a report on the results of the study conducted under paragraph (1).”
+Pub. L. 107–355, §14(d), Dec. 17, 2002, 116 Stat. 3005, required the Comptroller General to study the 7-year reassessment interval required by section 60109(c)(3)(B) of title 49 and to transmit to Congress a report on the study not later than 4 years after Dec. 17, 2002.
 

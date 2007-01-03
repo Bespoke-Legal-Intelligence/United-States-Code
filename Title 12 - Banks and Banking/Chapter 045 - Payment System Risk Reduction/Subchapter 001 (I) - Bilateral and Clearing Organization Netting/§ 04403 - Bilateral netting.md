@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Notwithstanding any other provision of State or Federal law (other than paragraphs (8)(E), (8)(F), and (10)(B) of section 1821(e) of this title, paragraphs (8)(E), (8)(F), and (10)(B) of section 1787(c) of this title, or any order authorized under section 78eee(b)(2) of title 15), the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract (except as provided in section 561(b)(2) of title 11).
+Notwithstanding any other provision of State or Federal law (other than section 1821(e) of this title, section 1787(c) of this title, or any order authorized under section 78eee(b)(2) of title 15), the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be terminated, liquidated, accelerated, and netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract (except as provided in section 561(b)(2) of title 11).
 
 #### (b) Limitation on obligation to make payment
 
@@ -22,15 +22,23 @@ This section shall be given effect notwithstanding that a financial institution 
 
 #### (f) Enforceability of security agreements
 
-The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than paragraphs (8)(E), (8)(F), and (10)(B) of section 1821(e) of this title, paragraphs (8)(E), (8)(F), and (10)(B) of section 1787(c) of this title, and section 78eee(b)(2) of title 15).
+The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than section 1821(e) of this title, section 1787(c) of this title, and section 78eee(b)(2) of title 15).
 
-(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(b), Apr. 20, 2005, 119 Stat. 168.)
+(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(b), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, §4(a), Dec. 12, 2006, 120 Stat. 2695.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–390 struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated, liquidated, accelerated, and” after “institutions shall be”.
+
+Subsec. (f). Pub. L. 109–390, §4(a)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
 
 2005—Subsec. (a). Pub. L. 109–8, §906(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.”
 
 Subsec. (f). Pub. L. 109–8, §906(b)(2), added subsec. (f).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–390 not applicable to any cases commenced under Title 11, Bankruptcy, or to appointments made under any Federal or State law, before Dec. 12, 2006, see section 7 of Pub. L. 109–390, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 2005 Amendment
 

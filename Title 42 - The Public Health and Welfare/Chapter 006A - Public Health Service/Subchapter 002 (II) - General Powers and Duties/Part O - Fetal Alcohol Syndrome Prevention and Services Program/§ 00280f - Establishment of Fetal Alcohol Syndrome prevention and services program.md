@@ -12,7 +12,7 @@ The Secretary shall establish a comprehensive Fetal Alcohol Syndrome and Fetal A
 
 &emsp;&emsp;(C) public and community awareness programs concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect; and
 
-&emsp;&emsp;(D) strategies to coordinate information and services across affected communityagencies, including agencies providing social services such as foster care, adoption, and social work, medical and mental health services, and agencies involved in education, vocational training and civil and criminal justice;
+&emsp;&emsp;(D) strategies to coordinate information and services across affected community agencies, including agencies providing social services such as foster care, adoption, and social work, medical and mental health services, and agencies involved in education, vocational training and civil and criminal justice;
 
 &emsp;(2) a prevention and diagnosis program to support clinical studies, demonstrations and other research as appropriate to—
 
@@ -50,7 +50,7 @@ In carrying out this section, the Secretary shall develop a procedure for dissem
 
 &emsp;&emsp;(A) advise Federal, State and local programs and research concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect, including programs and research concerning education and public awareness for relevant service providers, school-age children, women at-risk, and the general public, medical diagnosis, interventions for women at-risk of giving birth to children with Fetal Alcohol Syndrome and Fetal Alcohol Effect, and beneficial services for individuals with Fetal Alcohol Syndrome and Fetal Alcohol Effect and their families;
 
-&emsp;&emsp;(B) coordinate its efforts with the Interagency Coordinating Committee on Fetal Alcohol Syndrome of the Department of Health and Human Services; and
+&emsp;&emsp;(B) coordinate its efforts with the Interagency Coordinating Committee on FetalAlcohol Syndrome of the Department of Health and Human Services; and
 
 &emsp;&emsp;(C) report on a biennial basis to the Secretary and relevant committees of Congress on the current and planned activities of the participating agencies.
 

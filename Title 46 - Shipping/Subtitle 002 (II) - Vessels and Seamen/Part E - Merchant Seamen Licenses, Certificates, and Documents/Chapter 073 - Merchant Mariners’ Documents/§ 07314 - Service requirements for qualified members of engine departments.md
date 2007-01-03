@@ -16,7 +16,3 @@ Historical and Revision Notes
 
 Section 7314 requires individuals who wish to have their documents endorsed as a qualified member of the engine department must have at least 6 months service as a wiper or coal passer.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7313, 7315 of this title.
-

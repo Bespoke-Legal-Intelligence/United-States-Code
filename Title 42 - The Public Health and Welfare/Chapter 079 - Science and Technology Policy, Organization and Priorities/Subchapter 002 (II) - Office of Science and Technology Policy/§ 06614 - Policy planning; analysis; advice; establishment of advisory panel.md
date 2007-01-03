@@ -10,7 +10,7 @@
 
 &emsp;(4) encourage the development and maintenance of an adequate data base for human resources in science, engineering, and technology, including the development of appropriate models to forecast future manpower requirements, and assess the impact of major governmental and public programs on human resources and their utilization;
 
-&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution of critical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probable costs, benefits, and impacts of such alternatives;
+&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution ofcritical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probable costs, benefits, and impacts of such alternatives;
 
 &emsp;(6) advise the President on the extent to which the various scientific and technological programs, policies, and activities of the Federal Government are likely to affect the achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
 

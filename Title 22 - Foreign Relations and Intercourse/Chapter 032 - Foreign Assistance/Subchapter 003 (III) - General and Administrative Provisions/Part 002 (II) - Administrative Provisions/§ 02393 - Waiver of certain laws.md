@@ -62,7 +62,7 @@ Section 1. With respect to functions authorized by the Foreign Assistance Act of
 
 (8) Section 304(c) of the Federal Property and Administrative Services Act of 1949, as added by the Act of October 31, 1951, 65 Stat. 700 (41 U.S.C. 254(c)), but only with respect to contracts entered into with foreign governments or agencies thereof for the rendering of services to the United States or an agency thereof within the continental limits of the United States.
 
-(9) Section 901(a) of the Merchant Marine Act, 1936, 49 Stat. 2015 as amended (46 \[App.\] U.S.C. 1241(a)).
+(9) Section 901(a) of the Merchant Marine Act, 1936, 49 Stat. 2015 as amended (46 U.S.C. \[App.\] 1241(a)) \[now 46 U.S.C. 55302\].
 
 Sec. 2. With respect to purchases authorized to be made outside the limits of the United States or the District of Columbia under the Foreign Assistance Act of 1961, as amended \[this chapter\], and any predecessor legislation:
 
@@ -76,7 +76,7 @@ Sec. 2. With respect to purchases authorized to be made outside the limits of th
 
 (5) Section 3(b) of the Act of August 28, 1958, 72 Stat. 972 (50 U.S.C. 1433(b)), but only with respect to contracts in which the inclusion of the clause required by Section 3(b), or the compliance with that clause, if included in a contract, is deemed by the executive or military department concerned to be impracticable.
 
-Sec. 3. With respect to cost-type contracts heretofore or hereafter made with non-profit institutions under which no fee is charged or paid, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract andirrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
+Sec. 3. With respect to cost-type contracts heretofore or hereafter made with non-profit institutions under which no fee is charged or paid, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
 Sec. 4. With respect to contracts heretofore or hereafter made, other than those described in Section 3 of this order, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof, if the Secretary of State or the Administrator of the United States Agency for International Development (with respect to functions vested in or delegated to the Administrator) determines in each case that such action is necessary to protect the foreign policy interests of the United States.
 

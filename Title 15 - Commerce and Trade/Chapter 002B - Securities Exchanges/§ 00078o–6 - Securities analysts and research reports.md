@@ -26,7 +26,7 @@ The Commission, or upon the authorization and direction of the Commission, a reg
 
 &emsp;(2) whether any compensation has been received by the registered broker or dealer, or any affiliate thereof, including the securities analyst, from the issuer that is the subject of the appearance or research report, subject to such exemptions as the Commission may determine appropriate and necessary to prevent disclosure by virtue of this paragraph of material non-public information regarding specific potential future investment banking transactions of such issuer, as is appropriate in the public interest and consistent with the protection of investors;
 
-&emsp;(3) whether an issuer, the securities of which are recommended in the appearance or research report, currently is, or during the 1-year period preceding the date of the appearance or date of distribution of the report has been, a client of the registered broker or dealer, and if so, stating the types of services provided to the issuer;
+&emsp;(3) whether an issuer, the securities of which are recommended in the appearance or research report, currently is, or during the 1-year period preceding the date of the appearance or date of distribution of the report hasbeen, a client of the registered broker or dealer, and if so, stating the types of services provided to the issuer;
 
 &emsp;(4) whether the securities analyst received compensation with respect to a research report, based upon (among any other factors) the investment banking revenues (either generally or specifically earned from the issuer being analyzed) of the registered broker or dealer; and
 
@@ -36,7 +36,7 @@ The Commission, or upon the authorization and direction of the Commission, a reg
 
 In this section—
 
-&emsp;(1) the term “securities analyst” means any associated person of a registered broker ordealer that is principally responsible for, and any associated person who reports directly or indirectly to a securities analyst in connection with, the preparation of the substance of a research report, whether or not any such person has the job title of “securities analyst”; and
+&emsp;(1) the term “securities analyst” means any associated person of a registered broker or dealer that is principally responsible for, and any associated person who reports directly or indirectly to a securities analyst in connection with, the preparation of the substance of a research report, whether or not any such person has the job title of “securities analyst”; and
 
 &emsp;(2) the term “research report” means a written or electronic communication that includes an analysis of equity securities of individual companies or industries, and that provides information reasonably sufficient upon which to base an investment decision.
 

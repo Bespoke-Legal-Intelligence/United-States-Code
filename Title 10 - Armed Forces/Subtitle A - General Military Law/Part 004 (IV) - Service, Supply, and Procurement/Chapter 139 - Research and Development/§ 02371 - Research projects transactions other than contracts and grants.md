@@ -30,7 +30,7 @@ Conditions.—(1) The Secretary of Defense shall ensure that—
 
 (f)
 
-Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
+Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in thoseaccounts shall be available for the payment of such support.
 
 (g)
 
@@ -106,7 +106,7 @@ Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and a
 
 Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (i). Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, couldnot be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A). See below.
+Subsec. (i). Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, could not be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A). See below.
 
 Pub. L. 104–201, §267(c)(1)(A), renumbered subsec. (i) of this section as section 2371a of this title.
 
@@ -160,7 +160,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387, provided that:
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347, provided that:
 
 “(a)
 
@@ -168,7 +168,7 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 “(2) The authority of this section—
 
-&emsp;“(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)) that—
+&emsp;“(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)) or, for the Defense Advanced Projects Agency or the Missile Defense Agency, the director of the agency that—
 
 &emsp;&emsp;“(i) the requirements of subsection (d) will be met; and
 
@@ -184,7 +184,7 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 &emsp;&emsp;“(ii) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] are notified in writing at least 30 days before such authority is exercised.
 
-“(3) The authority of a senior procurement executive under paragraph (2)(A), and the authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)(B), may not be delegated.
+“(3) The authority of a senior procurement executive or director of the Defense Advanced Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)(B), may not be delegated.
 
 “(b)
 

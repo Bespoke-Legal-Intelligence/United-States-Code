@@ -31,19 +31,16 @@
 
 |  |  |
 | :--- | ---: |
-| [127\.](Subtitle%20003%20%28III%29%20-%20Special%20Provisions/Countervailing%20and%20Discriminating%20Duty/%C2%A7%2000127%20-%20Repealed.%20June%2017%2C%201930%2C%20ch.%20497%2C%20title%20IV%2C%20%C2%A7651%28a%29%281%29%2C%2046%20Stat.%20762%2C%20eff.%20June%2018%2C%201930.md) | Repealed. |
-| [128\.](Subtitle%20003%20%28III%29%20-%20Special%20Provisions/Countervailing%20and%20Discriminating%20Duty/%C2%A7%2000128%20-%20Discriminating%20duty%20on%20goods%20imported%20in%20foreign%20vessels%20or%20from%20foreign%20countries%3B%20exception.md) | Discriminating duty on goods imported in foreign vessels or from foreign countries; exception. |
+| 127, 128. | Repealed. |
 | [129\.](Subtitle%20003%20%28III%29%20-%20Special%20Provisions/Countervailing%20and%20Discriminating%20Duty/%C2%A7%2000129%20-%20Discriminating%20duties.md) | Discriminating duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Country of Origin
 
-|  |  |
-| :--- | ---: |
-| [130\.](Subtitle%20003%20%28III%29%20-%20Special%20Provisions/Country%20of%20Origin/%C2%A7%2000130%20-%20Importation%20only%20in%20vessels%20of%20United%20States%20or%20of%20country%20of%20origin.md) | Importation only in vessels of United States or of country of origin. |
-| [131\.](Subtitle%20003%20%28III%29%20-%20Special%20Provisions/Country%20of%20Origin/%C2%A7%2000131%20-%20Vessels%2C%20goods%2C%20etc.%2C%20of%20nations%20not%20maintaining%20similar%20regulations%3B%20vessels%20of%20citizens%20of%20the%20United%20States.md) | Vessels, goods, etc., of nations not maintaining similar regulations; vessels of citizens of the United States. |
-| 132, 133. | Repealed. |
+|  |
+| :--- |
+| 130 to 133. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -187,11 +184,6 @@ I74part 1—definitions
 | :--- | ---: |
 | 241 to 266. Repealed or Omitted. |  |
 | [267\.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20002%20-%20Report%2C%20Entry%2C%20and%20Unlading%20of%20Vessels%20and%20Vehicles/%C2%A7%2000267%20-%20Overtime%20and%20premium%20pay%20for%20customs%20officers.md) | Overtime and premium pay for customs officers. |
-| (a) | Overtime pay. |
-| (b) | Premium pay for customs officers. |
-| (c) | Limitations. |
-| (d) | Regulations. |
-| (e) | Definitions. |
 | [267a.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20002%20-%20Report%2C%20Entry%2C%20and%20Unlading%20of%20Vessels%20and%20Vehicles/%C2%A7%2000267a%20-%20Foreign%20language%20proficiency%20awards.md) | Foreign language proficiency awards. |
 | 268 to 282. Repealed. |  |
 | [283\.](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/Administrative%20Provisions/Part%20002%20-%20Report%2C%20Entry%2C%20and%20Unlading%20of%20Vessels%20and%20Vehicles/%C2%A7%2000283%20-%20Duty%20on%20saloon%20stores.md) | Duty on saloon stores. |

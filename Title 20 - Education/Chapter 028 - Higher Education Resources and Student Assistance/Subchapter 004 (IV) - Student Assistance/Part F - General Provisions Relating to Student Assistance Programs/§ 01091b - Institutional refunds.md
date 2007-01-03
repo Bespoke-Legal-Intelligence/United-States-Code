@@ -10,7 +10,7 @@
 
 #### (A) Leave not treated as withdrawal
 
-&emsp;&emsp;In the case of a student who takes a leave of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
+&emsp;&emsp;In the case of a student who takes 1 or more leaves of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
 
 &emsp;&emsp;&emsp;(i) the institution has a formal policy regarding leaves of absence;
 
@@ -38,13 +38,13 @@
 
 &emsp;&emsp;&emsp;(i) equal to the percentage of the payment period or period of enrollment for which assistance was awarded that was completed (as determined in accordance with subsection (d) of this section) as of the day the student withdrew, provided that such date occurs on or before the completion of 60 percent of the payment period or period of enrollment; or
 
-&emsp;&emsp;&emsp;(ii) 100 percent, if the day the student withdrew occurs after the student has completed 60 percent of the payment period or period of enrollment.
+&emsp;&emsp;&emsp;(ii) 100 percent, if the day the student withdrew occurs after the student has completed (as determined in accordance with subsection (d)) 60 percent of the payment period or period of enrollment.
 
 #### (C) Percentage and amount not earned
 
 &emsp;&emsp;For purposes of subsection (b) of this section, the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student shall be calculated by—
 
-&emsp;&emsp;&emsp;(i) determining the complement of the percentage of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student described in subparagraph (B); and
+&emsp;&emsp;&emsp;(i) determining the complement of the percentage of grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D, that has been earned by the student described in subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) applying the percentage determined under clause (i) to the total amount of such grant and loan assistance that was disbursed (and that could have been disbursed) to the student, or on the student's behalf, for the payment period or period of enrollment, as of the day the student withdrew.
 
@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.
+&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower'sobligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
 
 #### (B) Return
 
@@ -62,7 +62,7 @@
 
 #### (1) Responsibility of the institution
 
-&emsp;The institution shall return, in the order specified in paragraph (3), the lesser of—
+&emsp;The institution shall return not later than 45 days from the determination of withdrawal, in the order specified in paragraph (3), the lesser of—
 
 &emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
 
@@ -90,9 +90,19 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) overpayment collection procedures prescribed by the Secretary.
 
-#### (C) Requirement
+#### (C) Grant overpayment requirements
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), a student shall only be required to return grant assistance in the amount (if any) by which—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount to be returned by the student (as determined under subparagraphs (A) and (B)), exceeds
+
+&emsp;&emsp;&emsp;&emsp;(II) 50 percent of the total grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42 for the payment period or period of enrollment.
+
+#### (ii) Minimum
+
+&emsp;&emsp;&emsp;A student shall not be required to return amounts of $50 or less.
 
 #### (D) Waivers of Federal Pell Grant repayment by students affected by disasters
 
@@ -118,7 +128,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
+&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment forwhich a return of funds is required. Such excess funds shall be credited in the following order:
 
 &emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -166,21 +176,17 @@
 
 #### (d) Percentage of the payment period or period of enrollment completed
 
-For purposes of subsection (a)(3)(B)(i) of this section, the percentage of the payment period or period of enrollment for which assistance was awarded that was completed, is determined—
+For purposes of subsection (a)(3)(B) of this section, the percentage of the payment period or period of enrollment for which assistance was awarded that was completed, is determined—
 
 &emsp;(1) in the case of a program that is measured in credit hours, by dividing the total number of calendar days comprising the payment period or period of enrollment for which assistance is awarded into the number of calendar days completed in that period as of the day the student withdrew; and
 
-&emsp;(2) in the case of a program that is measured in clock hours, by dividing the total number of clock hours comprising the payment period or period of enrollment for which assistance is awarded into the number of clock hours—
-
-&emsp;&emsp;(A) completed by the student in that period as of the day the student withdrew; or
-
-&emsp;&emsp;(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in the period are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.
+&emsp;(2) in the case of a program that is measured in clock hours, by dividing the total number of clock hours comprising the payment period or period of enrollment for which assistance is awarded into the number of clock hours scheduled to be completed by the student in that period as of the day the student withdrew.
 
 #### (e) Effective date
 
 The provisions of this section shall take effect 2 years after October 7, 1998. An institution of higher education may choose to implement such provisions prior to that date.
 
-(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001.)
+(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001; Pub. L. 109–171, title VIII, §8022, Feb. 8, 2006, 120 Stat. 178.)
 
 #### References in Text
 
@@ -202,6 +208,24 @@ Section 1091f, Pub. L. 89–329, title V, §507, as added Pub. L. 90–35, §2(c
 
 #### Amendments
 
+2006—Subsec. (a)(2)(A). Pub. L. 109–171, §8022(1), substituted “1 or more leaves of” for “a leave of” in introductory provisions.
+
+Subsec. (a)(3)(B)(ii). Pub. L. 109–171, §8022(2), inserted “(as determined in accordance with subsection (d))” after “student has completed”.
+
+Subsec. (a)(3)(C)(i). Pub. L. 109–171, §8022(3), substituted “grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D,” for “grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42”.
+
+Subsec. (a)(4)(A). Pub. L. 109–171, §8022(4), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.”
+
+Subsec. (b)(1). Pub. L. 109–171, §8022(5), inserted “not later than 45 days from the determination of withdrawal” after “return” in introductory provisions.
+
+Subsec. (b)(2)(C). Pub. L. 109–171, §8022(6), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section.”
+
+Subsec. (d). Pub. L. 109–171, §8022(7), (8), in introductory provisions, substituted “(a)(3)(B)” for “(a)(3)(B)(i)” and, in par. (2), substituted “clock hours scheduled to be completed by the student in that period as of the day the student withdrew.” for “clock hours—
+
+&emsp;“(A) completed by the student in that period as of the day the student withdrew; or
+
+&emsp;“(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in the period are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.”
+
 2005—Subsec. (b)(2)(D). Pub. L. 109–66 added subpar. (D).
 
 Subsec. (b)(2)(E). Pub. L. 109–67 added subpar. (E).
@@ -211,6 +235,10 @@ Subsec. (b)(2)(E). Pub. L. 109–67 added subpar. (E).
 1993—Subsec. (a). Pub. L. 103–208, §2(h)(26), substituted “grant or loan assistance” for “grant, loan, or work assistance” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 103–208, §2(h)(27), substituted “subsection (c) of this section” for “subsection (d) of this section”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

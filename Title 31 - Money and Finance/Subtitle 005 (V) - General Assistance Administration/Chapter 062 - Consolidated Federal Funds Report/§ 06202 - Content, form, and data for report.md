@@ -18,7 +18,7 @@
 
 &emsp;(4) the payroll, pension, and grants files of the Office of the Secretary of Defense;
 
-&emsp;(5) the appropriate data files of the United States Postal Service and the Postal Rate Commission;
+&emsp;(5) the appropriate data files of the United States Postal Service and the Postal Regulatory Commission;
 
 &emsp;(6) the data system used by the Bureau of the Census to prepare the annual Federal aid to States report;
 
@@ -36,9 +36,11 @@
 
 (d) For the purposes of subsection (b), the general categories of Federal funds presented in each report required by subsection (a) shall include data with respect to grants, loans, purchases and contracts, cooperative agreements, direct Federal payments to individuals, pay of civilian employees of the Government, military pay, annuities, retirement pay, pensions, and disability compensation.
 
-(Added Pub. L. 99–547, §2(a), Oct. 27, 1986, 100 Stat. 3057; amended Pub. L. 103–272, §4(f)(1)(T), July 5, 1994, 108 Stat. 1362.)
+(Added Pub. L. 99–547, §2(a), Oct. 27, 1986, 100 Stat. 3057; amended Pub. L. 103–272, §4(f)(1)(T), July 5, 1994, 108 Stat. 1362; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Amendments
+
+2006—Subsec. (c)(5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1994—Pub. L. 103–272 substituted “form,” for “form” in section catchline.
 
@@ -46,5 +48,7 @@
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

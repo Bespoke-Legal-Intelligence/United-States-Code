@@ -14,9 +14,9 @@ The Secretary may, directly or through grants or contracts, provide technical as
 
 &emsp;The Secretary may provide planning grants to public and nonprofit private entities for purposes of—
 
-&emsp;&emsp;(A) enabling such entities to provide HIV early intervention services; and
+&emsp;&emsp;(A) enabling such entities to provide early intervention services; and
 
-&emsp;&emsp;(B) assisting the entities in expanding their capacity to provide HIV-related health services, including early intervention services, in low-income communities and affected subpopulations that are underserved with respect to such services (subject to the condition that a grant pursuant to this subparagraph may not be expended to purchase or improve land, or to purchase, construct, or permanently improve, other than minor remodeling, any building or other facility).
+&emsp;&emsp;(B) assisting the entities in expanding their capacity to provide HIV/AIDS-related health services, including early intervention services, in low-income communities and affected subpopulations that are underserved with respect to such services (subject to the condition that a grant pursuant to this subparagraph may not be expended to purchase or improve land, or to purchase, construct, or permanently improve, other than minor remodeling, any building or other facility).
 
 #### (2) Requirement
 
@@ -24,7 +24,7 @@ The Secretary may, directly or through grants or contracts, provide technical as
 
 #### (3) Preference
 
-&emsp;In awarding grants under paragraph (1), the Secretary shall give preference to entities that provide primary care services in rural or underserved communities.
+&emsp;In awarding grants under paragraph (1), the Secretary shall give preference to entities that provide primary care services in rural areas or to underserved populations.
 
 #### (4) Amount and duration of grants
 
@@ -46,9 +46,19 @@ The Secretary may, directly or through grants or contracts, provide technical as
 
 &emsp;Not to exceed 5 percent of the amount appropriated for a fiscal year under section 300ff–55 of this title may be used to carry out this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2654, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 104–146, §3(d)(3), May 20, 1996, 110 Stat. 1357; Pub. L. 106–345, title III, §312, Oct. 20, 2000, 114 Stat. 1345.)
+(July 1, 1944, ch. 373, title XXVI, §2654, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 104–146, §3(d)(3), May 20, 1996, 110 Stat. 1357; Pub. L. 106–345, title III, §312, Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §302(c), Dec. 19, 2006, 120 Stat. 2807.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### Amendments
+
+2006—Subsec. (c)(1)(A). Pub. L. 109–415, §302(c)(1)(A), struck out “HIV” after “provide”.
+
+Subsec. (c)(1)(B). Pub. L. 109–415, §302(c)(1)(B), substituted “HIV/AIDS-related” for “HIV-related”.
+
+Subsec. (c)(3). Pub. L. 109–415, §302(c)(2), substituted “areas or to underserved populations” for “or underserved communities”.
 
 2000—Subsec. (c)(1). Pub. L. 106–345, §312(a), substituted “planning grants to public and nonprofit private entities for purposes of—” and subpars. (A) and (B) for “planning grants, in an amount not to exceed $50,000 for each such grant, to public and nonprofit private entities for the purpose of enabling such entities to provide HIV early intervention services.”
 

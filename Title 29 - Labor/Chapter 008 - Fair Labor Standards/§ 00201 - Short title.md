@@ -6,7 +6,7 @@ This chapter may be cited as the “Fair Labor Standards Act of 1938”.
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–202, §1, May 18, 2000, 114 Stat. 308, provided that: “This Act \[amending section 207 of this title and enacting provisions set out as notes under section 207 of this title\] may be cited as the ‘Worker Economic Opportunity Act’.”
+Pub. L. 106–202, §1, May 18, 2000, 114 Stat. 308, provided that: “This Act \[amending section 207 of this title andenacting provisions set out as notes under section 207 of this title\] may be cited as the ‘Worker Economic Opportunity Act’.”
 
 #### Short Title of 1998 Amendments
 
@@ -20,7 +20,7 @@ Pub. L. 104–188, \[title II\], §2104(a), Aug. 20, 1996, 110 Stat. 1928, provi
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–26, §1, Sept. 6, 1995, 109 Stat. 264, provided that: “This Act \[amending section 207 of this title andenacting provisions set out as a note under section 207 of this title\] may be cited as the ‘Court Reporter Fair Labor Amendments of 1995’.”
+Pub. L. 104–26, §1, Sept. 6, 1995, 109 Stat. 264, provided that: “This Act \[amending section 207 of this title and enacting provisions set out as a note under section 207 of this title\] may be cited as the ‘Court Reporter Fair Labor Amendments of 1995’.”
 
 #### Short Title of 1989 Amendment
 

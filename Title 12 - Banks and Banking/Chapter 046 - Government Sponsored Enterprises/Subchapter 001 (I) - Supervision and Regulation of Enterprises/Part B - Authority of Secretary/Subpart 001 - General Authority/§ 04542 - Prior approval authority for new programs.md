@@ -32,7 +32,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 #### (2) Response
 
-&emsp;The Secretary shall, not later than the expiration of the 45-day period beginning upon the submission of a request for approval, approve the request or submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report explaining the reasons for not approving the request. The Secretary may extend such period for a single additional 15-day period only if the Secretary requests additional information from the enterprise.
+&emsp;The Secretary shall, not later than the expiration of the 45-day period beginning upon the submission of a request for approval, approve the request or submit to the Committee on Banking, Finance and Urban Affairs of theHouse of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report explaining the reasons for not approving the request. The Secretary may extend such period for a single additional 15-day period only if the Secretary requests additional information from the enterprise.
 
 #### (3) Failure to respond
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 #### (b) Appropriations authorization based on currency fluctuations
 
-(1) In order to maintain the levels of program activity for the Department of State providedfor each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
+(1) In order to maintain the levels of program activity for the Department of State provided for each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
 
 &emsp;(A) the calendar year which ended during the fiscal year preceding such fiscal year, or
 
@@ -20,7 +20,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (5) Funds transferred by the Secretary of State from the Buying Power Maintenance account to another account shall be merged with and be available for the same purpose, and for the same time period, as the funds in that other account. Funds transferred by the Secretary from another account to the Buying Power Maintenance account shall be merged with the funds in the Buying Power Maintenance account and shall be available for the purposes of that account until expended.
 
-(6) Any restriction contained in an appropriation Act or other provision of law limiting the amounts available for the Department of State that may be obligated or expended shall be deemed to be adjusted to the extent necessary to offset the net effect of fluctuations in foreign currency exchange rates or overseas wage and price changes in order to maintain approved levels.
+(6) Any restriction contained in an appropriation Act or other provision of law limiting the amounts available for the Department of State that may be obligated or expended shall be deemed to be adjusted to the extent necessary to offset the net effect of fluctuations in foreigncurrency exchange rates or overseas wage and price changes in order to maintain approved levels.
 
 (7)(A) Subject to the limitations contained in this paragraph, not later than the end of the fifth fiscal year after the fiscal year for which funds are appropriated or otherwise made available for an account under “Administration of Foreign Affairs”, the Secretary of State may transfer any unobligated balance of such funds to the Buying Power Maintenance account.
 

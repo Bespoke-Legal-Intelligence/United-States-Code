@@ -38,7 +38,7 @@
 
 (f) Any matter which is unsolicited by the addressee, which contains a “household substance” (as defined by section 2 of the Poison Prevention Packaging Act of 1970), and which does not comply with the requirements for special child-resistant packaging established for that substance by the Consumer Product Safety Commission, is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
-(g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shallnot be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
+(g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
 
 (2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
@@ -80,7 +80,7 @@
 
 (k)(1) In this subsection—
 
-&emsp;(A) the term “clearly and conspicuously displayed” means presented in a manner that isreadily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
+&emsp;(A) the term “clearly and conspicuously displayed” means presented in a manner that is readily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
 
 &emsp;(B) the term “facsimile check” means any matter that—
 
@@ -164,7 +164,7 @@
 
 (5) Any statement, notice, or disclaimer required under paragraph (3) shall be clearly and conspicuously displayed. Any statement, notice, or disclaimer required under subclause (I) or (II) of paragraph (3)(A)(ii) shall be displayed more conspicuously than would otherwise be required under the preceding sentence.
 
-(6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope or outside cover or wrapper in which those materials are mailed.
+(6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope oroutside cover or wrapper in which those materials are mailed.
 
 (<i>l</i>)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter to any person who, personally or through a conservator, guardian, or individual with power of attorney—
 
@@ -178,9 +178,13 @@
 
 (m) Except as otherwise provided by law, proceedings concerning the mailability of matter under this chapter and chapters 71 and 83 of title 18 shall be conducted in accordance with chapters 5 and 7 of title 5.
 
-(n) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
+(n)(1) Except as otherwise authorized by law or regulations of the Postal Service, hazardous material is nonmailable.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817.)
+(2) In this subsection, the term “hazardous material” means a substance or material designated by the Secretary of Transportation under section 5103(a) of title 49.
+
+(<i>o</i>) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259.)
 
 #### References in Text
 
@@ -191,6 +195,8 @@ Section 26 of the Animal Welfare Act, referred to in subsec. (a), is section 26(
 Section 2 of the Poison Prevention Packaging Act of 1970, referred to in subsec. (f), is classified to section 1471 of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2006—Subsecs. (n), (<i>o</i>). Pub. L. 109–435 added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
 1999—Subsec. (a). Pub. L. 106–168, §110(a), struck out “1714,” after “1463,” and “1718,” after “1717,”.
 
@@ -244,7 +250,7 @@ Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that:
 
 Section 6 of Pub. L. 101–524 provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
 
-Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\]shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
+Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
 
 #### Effective Date of 1971 Amendment
 

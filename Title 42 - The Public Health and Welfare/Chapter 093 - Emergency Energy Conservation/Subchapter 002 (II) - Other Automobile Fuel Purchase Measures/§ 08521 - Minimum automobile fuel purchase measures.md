@@ -56,7 +56,7 @@ The Secretary may increase the $5.00 and $7.00 amounts specified in subsections 
 
 (C) Any revocation under subparagraph (A) or (B) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based on any act committed or liability incurred prior to such revocation.
 
-(D) The Secretary shall administer and enforce any provision of this subchapter which has been made effective under subsection (c)(2) of this section and for which a delegation of authority is considered revoked under subparagraph (A).
+(D) The Secretary shall administer and enforce any provision of this subchapter which has been made effective under subsection (c)(2) ofthis section and for which a delegation of authority is considered revoked under subparagraph (A).
 
 #### (h) Coordination with other law
 

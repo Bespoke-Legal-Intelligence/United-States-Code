@@ -2,7 +2,7 @@
 
 #### (a) Plan approval
 
-The Secretary may approve any plan developed by a State or local government, for the establishment of a prototype residential energy efficiency program, which is designed to demonstrate the feasibility, economics, and energyconserving potential of such program, if an application for such plan is submitted pursuant to section 8235b of this title, the application is approved pursuant to section 8235c of this title, and the plan provides for—
+The Secretary may approve any plan developed by a State or local government, for the establishment of a prototype residential energy efficiency program, which is designed to demonstrate the feasibility, economics, and energy conserving potential of such program, if an application for such plan is submitted pursuant to section 8235b of this title, the application is approved pursuant to section 8235c of this title, and the plan provides for—
 
 &emsp;(1) the entering into a contract by a public utility with one or more persons not under the control of, and not affiliates or subsidiaries of, such utility for the implementation of a program to encourage energy conservation, including the supply and installation of the energy conservation measures as specified in such contract in residential buildings located in the portion of the utility's service area designated by the contract, which contract includes the provisions described in subsection (b) of this section;
 
@@ -40,7 +40,7 @@ The Secretary may provide financial assistance to any State or local government 
 
 #### (d) Limitation
 
-The Secretary may approve under subsection (a) of this section not more than 4 plans for the establishment of prototype residential energy efficiency programs.
+The Secretary may approve under subsection (a) of this section not more than 4 plans for theestablishment of prototype residential energy efficiency programs.
 
 (Pub. L. 95–619, title II, §262, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 746.)
 

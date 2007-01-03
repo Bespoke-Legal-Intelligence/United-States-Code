@@ -6,7 +6,7 @@
 
 &emsp;(A) with respect to the investment advisory activities of any—
 
-&emsp;&emsp;(i) bank holding company;
+&emsp;&emsp;(i) bank holding company or savings and loan holding company;
 
 &emsp;&emsp;(ii) bank; or
 
@@ -14,21 +14,25 @@
 
 > &emsp;that is registered under section 80b–3 of this title; and
 
-&emsp;(B) in the case of a bank holding company or bank that has a subsidiary or a separately identifiable department or division registered under that section, with respect to the investment advisory activities of such bank or bank holding company.
+&emsp;(B) in the case of a bank holding company or savings and loan holding company or bank that has a subsidiary or a separately identifiable department or division registered under that section, with respect to the investment advisory activities of such bank or bank holding company or savings and loan holding company.
 
-(2) The Commission shall provide to the appropriate Federal banking agency upon request the results of any examination, reports, records, or other information with respect to the investment advisory activities of any bank holding company, bank, or separately identifiable department or division of a bank, which is registered under section 80b–3 of this title.
+(2) The Commission shall provide to the appropriate Federal banking agency upon request the results of any examination, reports, records, or other information with respect to the investment advisory activities of any bank holding company or savings and loan holding company, bank, or separately identifiable department or division of a bank, which is registered under section 80b–3 of this title.
 
 (3) Notwithstanding any other provision of law, the Commission and the appropriate Federal banking agencies shall not be compelled to disclose any information provided under paragraph (1) or (2). Nothing in this paragraph shall authorize the Commission or such agencies to withhold information from Congress, or prevent the Commission or such agencies from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States, the Commission, or such agencies. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (b) Effect on other authority
 
-Nothing in this section shall limit in any respect the authority of the appropriate Federal banking agency with respect to such bank holding company (or affiliates or subsidiaries thereof), bank, or subsidiary, department, or division or a bank under any other provision of law.
+Nothing in this section shall limit in any respect the authority of the appropriate Federal banking agency with respect to such bank holding company or savings and loan holding company (or affiliates or subsidiaries thereof), bank, or subsidiary, department, or division or a bank under any other provision of law.
 
 #### (c) Definition
 
 For purposes of this section, the term “appropriate Federal banking agency” shall have the same meaning as given in section 1813 of title 12.
 
-(Aug. 22, 1940, ch. 686, title II, §210A, as added Pub. L. 106–102, title II, §220, Nov. 12, 1999, 113 Stat. 1400.)
+(Aug. 22, 1940, ch. 686, title II, §210A, as added Pub. L. 106–102, title II, §220, Nov. 12, 1999, 113 Stat. 1400; Pub. L. 109–351, title IV, §401(b)(2), Oct. 13, 2006, 120 Stat. 1973.)
+
+#### Amendments
+
+2006—Subsecs. (a), (b). Pub. L. 109–351 substituted “bank holding company or savings and loan holding company” for “bank holding company” wherever appearing.
 
 #### Effective Date
 

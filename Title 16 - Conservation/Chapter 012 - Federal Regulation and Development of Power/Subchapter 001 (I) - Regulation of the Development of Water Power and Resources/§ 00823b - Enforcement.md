@@ -8,7 +8,7 @@ The Commission shall monitor and investigate compliance with each license and pe
 
 After notice and opportunity for an evidentiary hearing, the Commission may also issue an order revoking any license issued under this subchapter or any exemption granted from any requirement of this subchapter where any licensee or exemptee is found by the Commission:
 
-&emsp;(1) to have knowingly violated a final order issued under subsection (a) of this section after completion of judicial review (or the opportunity for judicial review); and
+&emsp;(1) to have knowingly violated a final order issued under subsection (a) of this sectionafter completion of judicial review (or the opportunity for judicial review); and
 
 &emsp;(2) to have been given reasonable time to comply fully with such order prior to commencing any revocation proceeding.
 
@@ -16,7 +16,7 @@ After notice and opportunity for an evidentiary hearing, the Commission may also
 
 #### (c) Civil penalty
 
-Any licensee, permittee, or exemptee who violates or fails or refuses to comply with any rule or regulation under this subchapter, any term, or condition of a license, permit, or exemption under this subchapter, or any order issued under subsection (a) of this section shall be subject to a civil penalty in an amount not to exceed $10,000 for each day that such violation or failure or refusal continues. Such penalty shall beassessed by the Commission after notice and opportunity for public hearing. In determining the amount of a proposed penalty, the Commission shall take into consideration the nature and seriousness of the violation, failure, or refusal and the efforts of the licensee to remedy the violation, failure, or refusal in a timely manner. No civil penalty shall be assessed where revocation is ordered.
+Any licensee, permittee, or exemptee who violates or fails or refuses to comply with any rule or regulation under this subchapter, any term, or condition of a license, permit, or exemption under this subchapter, or any order issued under subsection (a) of this section shall be subject to a civil penalty in an amount not to exceed $10,000 for each day that such violation or failure or refusal continues. Such penalty shall be assessed by the Commission after notice and opportunity for public hearing. In determining the amount of a proposed penalty, the Commission shall take into consideration the nature and seriousness of the violation, failure, or refusal and the efforts of the licensee to remedy the violation, failure, or refusal in a timely manner. No civil penalty shall be assessed where revocation is ordered.
 
 #### (d) Assessment
 
@@ -44,7 +44,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 #### Effective Date
 
-Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 of Pub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.
+Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 ofPub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -26,7 +26,7 @@ The Secretary may make grants for the purpose of providing for the operating exp
 
 &emsp;&emsp;(C)(i) has adopted guidelines for the designation of trauma centers, and for triage, transfer, and transportation policies, equivalent to (or more protective than) the applicable guidelines developed by the American College of Surgeons or utilized in the model plan established under section 300d–13(c) of this title; or
 
-&emsp;&emsp;(ii) agrees that such guidelines will be adopted by the system not later than 6months after the date on which the trauma center submits to the Secretary the application for the grant.
+&emsp;&emsp;(ii) agrees that such guidelines will be adopted by the system not later than 6 months after the date on which the trauma center submits to the Secretary the application for the grant.
 
 #### (3) Submission and approval of long-term plan
 

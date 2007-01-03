@@ -46,7 +46,7 @@ Subsecs. (d), (e). Pub. L. 99–272, §6062(4), redesignated subsec. (e) as (d).
 
 1980—Subsec. (a). Pub. L. 96–381 inserted provision including within the responsibilities of the Secretary the scientific assessment of damages to natural resources from spills of petroleum or petroleum products.
 
-Subsec. (c). Pub. L. 96–470 inserted provision requiring the Secretary to include in his annual report the report on activities of the Department of Commerce under section 665 of title 16.
+Subsec. (c). Pub. L. 96–470 inserted provision requiring the Secretary to include in his annual report thereport on activities of the Department of Commerce under section 665 of title 16.
 
 1975—Subsec. (c). Pub. L. 94–62 substituted “March” for “January”.
 

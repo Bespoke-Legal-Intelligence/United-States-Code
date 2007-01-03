@@ -10,7 +10,7 @@ Special Maritime or Territorial Jurisdiction.—If the actions giving rise to th
 
 (c)
 
-Service on Witnesses.—A witness in a civil action brought under section 2333 of thistitle may be served in any other district where the defendant resides, is found, or has an agent.
+Service on Witnesses.—A witness in a civil action brought under section 2333 of this title may be served in any other district where the defendant resides, is found, or has an agent.
 
 (d)
 

@@ -1,9 +1,5 @@
 Part I—State Boating Safety Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2102 of this title.
-
 
 ---
 

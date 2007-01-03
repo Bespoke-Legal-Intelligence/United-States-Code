@@ -1,12 +1,12 @@
 ### §1914. District court; filing and miscellaneous fees; rules of court
 
-(a) The clerk of each district court shall require the parties instituting any civil action, suit or proceeding in such court, whether by original process, removal or otherwise, to pay a filing fee of $250, except that on application for a writ of habeas corpus the filing fee shall be $5.
+(a) The clerk of each district court shall require the parties instituting any civil action, suit or proceeding in such court, whether by original process, removal or otherwise, to pay a filing fee of $350, except that on application for a writ of habeas corpus the filing fee shall be $5.
 
 (b) The clerk shall collect from the parties such additional fees only as are prescribed by the Judicial Conference of the United States.
 
 (c) Each district court by rule or standing order may require advance payment of fees.
 
-(June 25, 1948, ch. 646, 62 Stat. 954; Pub. L. 95–598, title II, §244, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–336, §4(a), June 19, 1986, 100 Stat. 637; Pub. L. 99–500, §101(b) \[title IV, §407(a)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(a)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 104–317, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3853; Pub. L. 108–447, div. B, title III, §307(a), Dec. 8, 2004, 118 Stat. 2895.)
+(June 25, 1948, ch. 646, 62 Stat. 954; Pub. L. 95–598, title II, §244, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–336, §4(a), June 19, 1986, 100 Stat. 637; Pub. L. 99–500, §101(b) \[title IV, §407(a)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(a)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 104–317, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3853; Pub. L. 108–447, div. B, title III, §307(a), Dec. 8, 2004, 118 Stat. 2895; Pub. L. 109–171, title X, §10001(a), Feb. 8, 2006, 120 Stat. 183.)
 
 #### Historical and Revision Notes
 
@@ -30,6 +30,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–171 substituted “$350” for “$250”.
+
 2004—Subsec. (a). Pub. L. 108–447 substituted “$250” for “$150”.
 
 1996—Subsec. (a). Pub. L. 104–317 substituted “$150” for “$120”.
@@ -39,6 +41,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Subsec. (d). Pub. L. 99–336 struck out subsec. (d) which provided that section was not applicable to District of Columbia.
 
 1978—Subsec. (a). Pub. L. 95–598 substituted “$60” for “$15”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title X, §10001(d), Feb. 8, 2006, 120 Stat. 184, provided that: “This section \[amending this section and enacting provisions set out as notes under sections 1913 and 1931 of this title\] and the amendment made by this section shall take effect 60 days after the date of the enactment of this Act \[Feb. 8, 2006\].”
 
 #### Effective Date of 2004 Amendment
 

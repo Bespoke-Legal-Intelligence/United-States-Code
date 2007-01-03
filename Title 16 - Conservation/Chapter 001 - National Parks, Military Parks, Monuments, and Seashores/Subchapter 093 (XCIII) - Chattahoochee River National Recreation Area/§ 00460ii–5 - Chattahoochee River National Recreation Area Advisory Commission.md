@@ -2,7 +2,7 @@
 
 #### (a) Establishment; duties; membership: voting members and Park Superintendent as nonvoting member; Chairman
 
-There is hereby established the Chattahoochee River National Recreation Area Advisory Commission (hereinafter in this subchapter referred to as the “Advisory Commission”) to advise the Secretary regarding the management and operation of the area, protection of resources with the recreation area, and the priority of lands to be acquired within the recreation area. The Advisory Commission shall be composed of the following thirteen voting members appointed by the Secretary:
+There is hereby established the Chattahoochee River National Recreation Area Advisory Commission (hereinafter in this subchapter referredto as the “Advisory Commission”) to advise the Secretary regarding the management and operation of the area, protection of resources with the recreation area, and the priority of lands to be acquired within the recreation area. The Advisory Commission shall be composed of the following thirteen voting members appointed by the Secretary:
 
 &emsp;(1) four members appointed from among individuals recommended by local governments—
 

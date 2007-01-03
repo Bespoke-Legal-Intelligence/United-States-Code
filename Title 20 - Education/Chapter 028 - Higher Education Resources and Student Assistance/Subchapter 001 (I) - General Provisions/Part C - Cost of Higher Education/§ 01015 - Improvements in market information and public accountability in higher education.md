@@ -74,11 +74,11 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 #### (4) Higher education market basket
 
-&emsp;The Bureau of Labor Statistics, in consultation with the Commissioner of Education Statistics, shall develop a higher education market basket that identifies the items that comprise the costs of higher education. The Bureau of Labor Statistics shall provide a report on the market basket to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than September 30, 2002.
+&emsp;The Bureau of Labor Statistics, in consultation with the Commissioner of Education Statistics, shall develop a higher education market basket that identifies the items that comprise the costs of higher education. The Bureau of Labor Statistics shall provide a report on the market basket to the Committee on Labor and Human Resources of the Senate andthe Committee on Education and the Workforce of the House of Representatives not later than September 30, 2002.
 
 #### (5) Fines
 
-&emsp;In addition to actions authorized in section 1094(c) of this title, the Secretary may impose a fine in an amount not to exceed $25,000 on an institution of higher education for failing toprovide the information described in paragraph (1) in a timely and accurate manner, or for failing to otherwise cooperate with the National Center for Education Statistics regarding efforts to obtain data on the cost of higher education under this section and pursuant to the program participation agreement entered into under section 1094 of this title.
+&emsp;In addition to actions authorized in section 1094(c) of this title, the Secretary may impose a fine in an amount not to exceed $25,000 on an institution of higher education for failing to provide the information described in paragraph (1) in a timely and accurate manner, or for failing to otherwise cooperate with the National Center for Education Statistics regarding efforts to obtain data on the cost of higher education under this section and pursuant to the program participation agreement entered into under section 1094 of this title.
 
 #### (d) Student aid recipient survey
 

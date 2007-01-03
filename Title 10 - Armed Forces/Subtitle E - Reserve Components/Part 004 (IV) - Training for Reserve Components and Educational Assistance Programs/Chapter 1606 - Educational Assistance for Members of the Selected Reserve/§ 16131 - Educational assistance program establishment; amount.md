@@ -12,7 +12,7 @@
 
 &emsp;(D) an appropriately reduced rate, as determined under regulations which the Secretary of Veterans Affairs shall prescribe, for each month of less than half-time pursuit of a program of education, except that no payment may be made to a person for less than half-time pursuit if tuition assistance is otherwise available to the person for such pursuit from the military department concerned.
 
-(2) With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which—
+(2) With respect to any fiscal year, the Secretary shall provide a percentage increase\(rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which—
 
 &emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
@@ -70,7 +70,7 @@
 
 (f)(1) Each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 16136(c) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
-(2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
+(2) No educational assistance allowance may be paid under this chapter to an individual forany month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
 (3) The period of entitlement of an individual pursuing a program of education described in paragraph (1) shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to that individual as an educational assistance allowance for such program.
 
@@ -112,7 +112,7 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §539(a), Jan. 6, 2006, 119 Stat. 3250.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107,title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §539(a), Jan. 6, 2006, 119 Stat. 3250.)
 
 #### Amendments
 
@@ -214,7 +214,7 @@ Subsec. (d). Pub. L. 96–513, §511(68)(C), substituted “Secretary of Educati
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made bythis section \[amending this section and section 16162 of this title\] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
+Pub. L. 109–163, div. A, title V, §539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section \[amending this section and section 16162 of this title\] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -270,5 +270,5 @@ Pub. L. 108–454, title I, §103(d), Dec. 10, 2004, 118 Stat. 3601, provided th
 
 #### 1995 Cost-of-Living Adjustment in Rates of Educational Assistance
 
-Section 12009(c) of Pub. L. 103–66 provided that: “The fiscal year 1995 cost-of-living adjustments in the rates of educational assistance payable under chapter 30 of title 38, United States Code, and under chapter 106 \[now 1606\] of title 10, United States Code, shall be the percentage equal to 50 percent of the percentage by which such assistance would be increased under section 3015(g) of title 38, and under section 2131(b)(2) \[now 16131(b)(2)\] of title 10, United States Code, respectively, but for this section \[amending this section and section 3015 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 3015 of Title 38\].”
+Pub. L. 103–66, title XII, §12009(c), Aug. 10, 1993, 107 Stat. 416, provided that the fiscal year 1995 cost-of-living adjustments in the rates of educational assistance payable under chapter 30 of Title 38, Veterans’ Benefits, and this chapter were to be the percentage equal to 50 percent of the percentage by which such assistance would be increased under section 3015(g) of Title 38 and subsec. (b)(2) of this section but for section 12009 of Pub. L. 103–66.
 

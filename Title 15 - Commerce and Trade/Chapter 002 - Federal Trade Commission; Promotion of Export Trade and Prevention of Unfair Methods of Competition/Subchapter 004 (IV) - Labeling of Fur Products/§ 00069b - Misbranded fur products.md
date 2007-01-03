@@ -14,7 +14,7 @@ For the purposes of this subchapter, a fur product shall be considered to be mis
 
 &emsp;&emsp;(D) that the fur product is composed in whole or in substantial part of paws, tails, bellies, or waste fur, when such is the fact;
 
-&emsp;&emsp;(E) the name, or other identification issued and registered by the Commission, ofone or more of the persons who manufacture such fur product for introduction into commerce, introduce it into commerce, sell it in commerce, advertise or offer it for sale in commerce, or transport or distribute it in commerce;
+&emsp;&emsp;(E) the name, or other identification issued and registered by the Commission, of one or more of the persons who manufacture such fur product for introduction into commerce, introduce it into commerce, sell it in commerce, advertise or offer it for sale in commerce, or transport or distribute it in commerce;
 
 &emsp;&emsp;(F) the name of the country of origin of any imported furs used in the fur product;
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Dec. 29, 1979, Pub. L. 96–165, §7, 93 Stat. 1271.
 
-The word “sole” is omitted as included in “exclusive”, and the words “such distinctive insignia” are omitted as included in “seals, emblems, and badges”. The words “lawfully” and “in carrying out its purposes” are omitted as unnecessary.
+The word “sole” is omitted as included in “exclusive”, and the words “such distinctive insignia” areomitted as included in “seals, emblems, and badges”. The words “lawfully” and “in carrying out its purposes” are omitted as unnecessary.
 

@@ -94,7 +94,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a Statecourt in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
 #### (3) Covered security
 
@@ -108,5 +108,5 @@ For purposes of this section, the following definitions shall apply:
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section \[amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title\] shall not affect or apply toany action commenced before and pending on the date of enactment of this Act \[Nov. 3, 1998\].”
+Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section \[amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title\] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act \[Nov. 3, 1998\].”
 

@@ -10,9 +10,11 @@ There is established the Financial Institutions Examination Council which shall 
 
 &emsp;(3) a Governor of the Board of Governors of the Federal Reserve System designated by the Chairman of the Board,
 
-&emsp;(4) the Director, Office of Thrift Supervision <sup>1</sup>
+&emsp;(4) the Director, Office of Thrift Supervision,
 
-&emsp;(5) the Chairman of the National Credit Union Administration Board.
+&emsp;(5) the Chairman of the National Credit Union Administration Board, and
+
+&emsp;(6) the Chairman of the State Liaison Committee.
 
 #### (b) Chairmanship
 
@@ -30,11 +32,13 @@ The members of the Council may, from time to time, designate other officers or e
 
 Each member of the Council shall serve without additional compensation but shall be entitled to reasonable expenses incurred in carrying out his official duties as such a member.
 
-(Pub. L. 95–630, title X, §1004, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, §744(a)(2), Aug. 9, 1989, 103 Stat. 438.)
+(Pub. L. 95–630, title X, §1004, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, §744(a)(2), Aug. 9, 1989, 103 Stat. 438; Pub. L. 109–351, title VII, §714(a), Oct. 13, 2006, 120 Stat. 1995.)
 
 #### Amendments
 
-1989—Subsec. (a)(4). Pub. L. 101–73 substituted “Director, Office of Thrift Supervision” for “Chairman of the Federal Home Loan Bank Board, and”.
+2006—Subsec. (a)(4). Pub. L. 109–351, §714(a)(1), substituted “Thrift Supervision,” for “Thrift Supervision”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “, and”.</i>
+Subsec. (a)(6). Pub. L. 109–351, §714(a)(2), (3), added par. (6).
+
+1989—Subsec. (a)(4). Pub. L. 101–73 substituted “Director, Office of Thrift Supervision” for “Chairman of the Federal Home Loan Bank Board, and”.
 

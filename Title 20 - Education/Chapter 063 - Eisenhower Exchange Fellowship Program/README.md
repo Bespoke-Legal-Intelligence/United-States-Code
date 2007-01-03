@@ -4,18 +4,9 @@
 | :--- | ---: |
 | [5201\.](%C2%A7%2005201%20-%20Purposes.md) | Purposes. |
 | [5202\.](%C2%A7%2005202%20-%20Eisenhower%20Exchange%20Fellowship%20Program%20Trust%20Fund.md) | Eisenhower Exchange Fellowship Program Trust Fund. |
-| (a) | Establishment. |
-| (b) | Investment in interest-bearing obligations. |
-| (c) | Sale and redemption of obligations. |
-| (d) | Credit to fund of interest and proceeds of sale or redemption. |
 | [5203\.](%C2%A7%2005203%20-%20Expenditure%20and%20audit%20of%20trust%20fund.md) | Expenditure and audit of trust fund. |
-| (a) | Authorization of funding. |
-| (b) | Access to books, records, etc., by Government Accountability Office. |
 | [5204\.](%C2%A7%2005204%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5205\.](%C2%A7%2005205%20-%20Use%20of%20income%20on%20endowment.md) | Use of income on endowment. |
-| (a), | (b) Repealed. |
-| (c) | Agricultural exchange program. |
-| (d) | Participation by United States minority populations. |
 | [5206\.](%C2%A7%2005206%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [5207\.](%C2%A7%2005207%20-%20Status%20as%20executive%20agency.md) | Status as executive agency. |
 

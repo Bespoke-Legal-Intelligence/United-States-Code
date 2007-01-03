@@ -5,26 +5,10 @@
 | [2701\.](%C2%A7%2002701%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
 | [2702\.](%C2%A7%2002702%20-%20Mortgages%20eligible%20for%20assistance.md) | Mortgages eligible for assistance. |
 | [2703\.](%C2%A7%2002703%20-%20Manner%20of%20assistance%20and%20repayment.md) | Manner of assistance and repayment. |
-| (a) | Form of assistance. |
-| (b) | Amount of assistance. |
-| (c) | Monthly payments; extension of time; report of increase in income. |
-| (d) | Conditions and terms of repayment; interest rate. |
-| (e) | Deferral of commencement of repayment; security for repayment. |
 | [2704\.](%C2%A7%2002704%20-%20Insurance%20for%20emergency%20mortgage%20loans%20and%20advances.md) | Insurance for emergency mortgage loans and advances. |
-| (a) | Institutions eligible. |
-| (b) | Amount of insurance. |
-| (c) | Premium charge; amount. |
-| (d) | Waiver of compliance with rules and regulations; finality and incontestability of payment for loss; transfer of insurance. |
-| (e) | Maximum aggregate amount of loans and advances insured. |
 | [2705\.](%C2%A7%2002705%20-%20Emergency%20mortgage%20relief%20payments.md) | Emergency mortgage relief payments. |
-| (a) | Direct payments to mortgagee. |
-| (b) | Mortgages eligible; terms and conditions. |
-| (c) | Processing of relief payments; power of Secretary. |
 | [2706\.](%C2%A7%2002706%20-%20Emergency%20Homeowners%E2%80%99%20Relief%20Fund.md) | Emergency Homeowners’ Relief Fund. |
 | [2707\.](%C2%A7%2002707%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
-| (a) | Rules and regulations. |
-| (b) | Payment of expenses and charges relating to acquisition, handling, improvement, or disposal of real and personal property. |
-| (c) | Powers with respect to property rights held by Secretary. |
 | [2708\.](%C2%A7%2002708%20-%20Authorization%20of%20appropriations%3B%20limitations%3B%20expiration%20date%20for%20loans%20and%20advances%20of%20credit.md) | Authorization of appropriations; limitations; expiration date for loans and advances of credit. |
 | [2709\.](%C2%A7%2002709%20-%20Waiver%20and%20relaxation%20by%20institutions%20and%20approved%20mortgagees%20of%20limitations%20with%20respect%20to%20mortgage%20delinquencies%3B%20notification%20to%E2%80%A6.md) | Waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings. |
 | [2710\.](%C2%A7%2002710%20-%20Reports%20to%20Congress%3B%20time%3B%20contents.md) | Reports to Congress; time; contents. |

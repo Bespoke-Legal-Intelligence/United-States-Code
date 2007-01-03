@@ -4,12 +4,6 @@
 | :--- | ---: |
 | [571\.](%C2%A7%2000571%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
 | [572\.](%C2%A7%2000572%20-%20United%20States%20contributions%20to%20Pennsylvania%20authority%2C%20conditions%2C%20limitations.md) | United States contributions to Pennsylvania: authority, conditions, limitations. |
-| (a) | Contributions to be matched by Commonwealth. |
-| (b) | Amount of contributions authorized. |
-| (c) | Limitation on use of contribution. |
-| (d) | Commonwealth responsible for installation and operation of projects. |
-| (e) | Location and operation of projects. |
-| (f) | Economic justification for abandoned coal mine projects. |
 | [573\.](%C2%A7%2000573%20-%20Statement%20by%20Commonwealth%20for%20Secretary.md) | Statement by Commonwealth for Secretary. |
 | [574\.](%C2%A7%2000574%20-%20Hearings%3B%20withholding%20payments.md) | Hearings; withholding payments. |
 | [575\.](%C2%A7%2000575%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IX%2C%20%C2%A7901%28i%29%281%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203290.md) | Repealed. |

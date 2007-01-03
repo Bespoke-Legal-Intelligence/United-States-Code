@@ -10,7 +10,7 @@ If a franchisor fails to comply with the requirements of section 2802 or 2803 of
 
 #### (b) Equitable relief by court; bond requirements; grounds for nonexercise of court's equitable powers
 
-(1) In any action under subsection (a) of this section, the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with the requirements of section 2802 or 2803 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
+(1) In any action under subsection (a) of this section, the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with therequirements of section 2802 or 2803 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
 
 (2) Except as provided in paragraph (3), in any action under subsection (a) of this section, the court shall grant a preliminary injunction if—
 

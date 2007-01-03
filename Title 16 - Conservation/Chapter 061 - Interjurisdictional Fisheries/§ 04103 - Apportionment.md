@@ -18,7 +18,7 @@ The amount of funds apportioned to each State shall be determined by the Secreta
 
 &emsp;(A) is signatory to an interstate fishery compact;
 
-&emsp;(B) has entered into an agreement with the Secretary or the Secretary of the Interior under which the personnel, services, and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources which are managed under an interstate fishery management plan;
+&emsp;(B) has entered into an agreement with the Secretary or the Secretary of the Interiorunder which the personnel, services, and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources which are managed under an interstate fishery management plan;
 
 &emsp;(C) borders one or more of the Great Lakes; or
 

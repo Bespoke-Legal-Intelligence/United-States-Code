@@ -2,7 +2,7 @@
 
 #### (a) Eligible entities
 
-For the purpose of carrying out programs under this part for individuals served by elementary schools, secondary schools, and postsecondary schools operated predominately for Native American (including Alaska Native) children and youth, an Indian tribe, a tribally sanctioned educational authority, a Native Hawaiian or Native American Pacific Islander native language education organization, or an elementary school or secondary school that is operated or funded by the Bureau of Indian Affairs shall be considered to be a local educational agency.
+For the purpose of carrying out programs under this part for individuals served by elementary schools, secondary schools, and postsecondary schools operated predominately for Native American (including Alaska Native) childrenand youth, an Indian tribe, a tribally sanctioned educational authority, a Native Hawaiian or Native American Pacific Islander native language education organization, or an elementary school or secondary school that is operated or funded by the Bureau of Indian Affairs shall be considered to be a local educational agency.
 
 #### (b) Application
 

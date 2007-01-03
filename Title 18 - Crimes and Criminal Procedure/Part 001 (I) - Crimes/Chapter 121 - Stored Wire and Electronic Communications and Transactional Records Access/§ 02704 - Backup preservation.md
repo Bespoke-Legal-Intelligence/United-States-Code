@@ -4,7 +4,7 @@
 
 Backup Preservation.—(1) A governmental entity acting under section 2703(b)(2) may include in its subpoena or court order a requirement that the service provider to whom the request is directed create a backup copy of the contents of the electronic communications sought in order to preserve those communications. Without notifying the subscriber or customer of such subpoena or court order, such service provider shall create such backup copy as soon as practicable consistent with its regular business practices and shall confirm to the governmental entity that such backup copy has been made. Such backup copy shall be created within two business days after receipt by the service provider of the subpoena or court order.
 
-(2) Notice to the subscriber or customer shall be made by the governmental entity withinthree days after receipt of such confirmation, unless such notice is delayed pursuant to section 2705(a).
+(2) Notice to the subscriber or customer shall be made by the governmental entity within three days after receipt of such confirmation, unless such notice is delayed pursuant to section 2705(a).
 
 (3) The service provider shall not destroy such backup copy until the later of—
 
@@ -26,7 +26,7 @@ Customer Challenges.—(1) Within fourteen days after notice by the governmental
 
 &emsp;(A) stating that the applicant is a customer or subscriber to the service from which the contents of electronic communications maintained for him have been sought; and
 
-&emsp;(B) stating the applicant's reasons for believing that the records sought are not relevant to a legitimate law enforcement inquiry or that there has not been substantial compliance with the provisions of this chapter in some other respect.
+&emsp;(B) stating the applicant's reasons for believing that the records sought are not relevant to a legitimate law enforcement inquiryor that there has not been substantial compliance with the provisions of this chapter in some other respect.
 
 (2) Service shall be made under this section upon a governmental entity by delivering or mailing by registered or certified mail a copy of the papers to the person, office, or department specified in the notice which the customer has received pursuant to this chapter. For the purposes of this section, the term “delivery” has the meaning given that term in the Federal Rules of Civil Procedure.
 

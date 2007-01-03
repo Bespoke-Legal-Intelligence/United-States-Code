@@ -76,7 +76,7 @@
 
 #### (B) Duties
 
-&emsp;&emsp;An individual so designated shall, in accordance with the policies and proceduresestablished by the Office and the State agency—
+&emsp;&emsp;An individual so designated shall, in accordance with the policies and procedures established by the Office and the State agency—
 
 &emsp;&emsp;&emsp;(i) provide services to protect the health, safety, welfare <sup>1</sup> and rights of residents;
 

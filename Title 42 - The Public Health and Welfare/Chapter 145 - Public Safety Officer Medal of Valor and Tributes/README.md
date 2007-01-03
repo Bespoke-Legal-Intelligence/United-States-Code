@@ -4,29 +4,12 @@
 | :--- | ---: |
 | [15201\.](%C2%A7%2015201%20-%20Authorization%20of%20Medal.md) | Authorization of Medal. |
 | [15202\.](%C2%A7%2015202%20-%20Medal%20of%20Valor%20Board.md) | Medal of Valor Board. |
-| (a) | Establishment of Board. |
-| (b) | Membership. |
-| (c) | Duties. |
-| (d) | Hearings. |
-| (e) | Information from Federal agencies. |
-| (f) | Information to be kept confidential. |
 | [15203\.](%C2%A7%2015203%20-%20Board%20personnel%20matters.md) | Board personnel matters. |
-| (a) | Compensation of members. |
-| (b) | Travel expenses. |
 | [15204\.](%C2%A7%2015204%20-%20Definitions.md) | Definitions. |
 | [15205\.](%C2%A7%2015205%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [15206\.](%C2%A7%2015206%20-%20National%20Medal%20of%20Valor%20Office.md) | National Medal of Valor Office. |
 | [15207\.](%C2%A7%2015207%20-%20Consultation%20requirement.md) | Consultation requirement. |
 | [15208\.](%C2%A7%2015208%20-%20Law%20enforcement%20tribute%20acts.md) | Law enforcement tribute acts. |
-| (a) | Short title. |
-| (b) | Findings. |
-| (c) | Program authorized. |
-| (d) | Uses of funds. |
-| (e) | $150,000 limitation. |
-| (f) | Matching funds. |
-| (g) | Applications. |
-| (h) | Annual report to Congress. |
-| (i) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

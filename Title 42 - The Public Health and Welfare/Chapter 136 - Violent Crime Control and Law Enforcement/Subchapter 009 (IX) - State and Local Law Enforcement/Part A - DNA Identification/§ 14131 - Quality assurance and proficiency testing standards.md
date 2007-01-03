@@ -42,7 +42,7 @@
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(2), is section 14 of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The effective date of this Act, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 

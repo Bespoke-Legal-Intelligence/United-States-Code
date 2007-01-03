@@ -14,9 +14,9 @@ Contents of Statement.—The head of each executive agency shall include with th
 
 (b)
 
-Compliance with Requirements.—The head of each executive agency shall comply with the requirements prescribed under section 17503(b) of this title in preparing each statement required under subsection (a).
+Compliance With Requirements.—The head of each executive agency shall comply with the requirements prescribed under section 17503(b) of this title in preparing each statement required under subsection (a).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1284.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1284; Pub. L. 109–284, §6(32), Sept. 27, 2006, 120 Stat. 1214.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ Historical and Revision Notes
 40:903.
 
 Pub. L. 99–272, title XV, §15303, Apr. 7, 1986, 100 Stat. 336.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–284 substituted “With” for “with” in heading.
 

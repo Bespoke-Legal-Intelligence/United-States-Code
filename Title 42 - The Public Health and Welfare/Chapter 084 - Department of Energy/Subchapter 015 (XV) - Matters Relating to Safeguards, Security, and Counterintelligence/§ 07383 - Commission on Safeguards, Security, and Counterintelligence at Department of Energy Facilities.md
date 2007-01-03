@@ -54,7 +54,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 (2) The activities of the Commission under paragraph (1) shall include the following:
 
-&emsp;(A) An analysis of the sufficiency of the Design Threat Basis documents as a basis for the allocation of resources for safeguards, security, and counterintelligence activities at the Department facilities in light of applicable guidance with respect to such activities, including applicable laws, Department of Energy orders, Presidential Decision Directives, and Executive orders.
+&emsp;(A) An analysis of the sufficiency of the Design Threat Basis documents as a basis for theallocation of resources for safeguards, security, and counterintelligence activities at the Department facilities in light of applicable guidance with respect to such activities, including applicable laws, Department of Energy orders, Presidential Decision Directives, and Executive orders.
 
 &emsp;(B) Visits to Department facilities to assess the adequacy of the safeguards, security, and counterintelligence activities at such facilities.
 
@@ -66,7 +66,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 #### (d) Reports
 
-(1) Not later than February 15 each year, the Commission shall submit to the Secretary of Energy and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities of the Commission duringthe preceding year. The report shall be submitted in unclassified form, but may include a classified annex.
+(1) Not later than February 15 each year, the Commission shall submit to the Secretary of Energy and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities of the Commission during the preceding year. The report shall be submitted in unclassified form, but may include a classified annex.
 
 (2) Each report—
 
@@ -122,5 +122,5 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Short Title
 
-Pub. L. 106–65, div. C, title XXXI, §3141, Oct. 5, 1999, 113 Stat. 931, provided that: “This subtitle \[subtitle D, §§3141–3156, of title XXXI of div. C of Pub. L. 106–65, enacting this subchapter and section 2282b of this title, amending sections 2165, 2274, 2275, 2277, and 2282a of this title, enacting provisions set out as notes under sections 2165 and 2282b of this title and section 435 of Title 50, War and National Defense, amending provisions set out as a note under section 7274m of this title, and repealing provisions set out as a note under section 7251 of this title\] may be cited as the ‘Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999’.”
+Pub. L. 106–65, div. C, title XXXI, §3141, Oct. 5, 1999, 113 Stat. 931, provided that: “This subtitle \[subtitle D, §§3141–3156, of title XXXI of div. C of Pub. L. 106–65, enacting this subchapter and section 2282b of this title,amending sections 2165, 2274, 2275, 2277, and 2282a of this title, enacting provisions set out as notes under sections 2165 and 2282b of this title and section 435 of Title 50, War and National Defense, amending provisions set out as a note under section 7274m of this title, and repealing provisions set out as a note under section 7251 of this title\] may be cited as the ‘Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999’.”
 

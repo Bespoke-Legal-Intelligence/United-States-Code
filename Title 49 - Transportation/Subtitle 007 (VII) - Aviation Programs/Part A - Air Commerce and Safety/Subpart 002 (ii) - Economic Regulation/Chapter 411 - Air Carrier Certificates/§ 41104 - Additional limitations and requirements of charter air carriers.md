@@ -16,7 +16,7 @@ In general.—Except as provided in paragraphs (3) and (4), an air carrier, incl
 
 &emsp;&emsp;(B) has an airport operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation) if the airport—
 
-&emsp;&emsp;&emsp;(i) is a reliever airport (as defined in section 47102) and is designated as such in thenational plan of integrated airports maintained under section 47103; and
+&emsp;&emsp;&emsp;(i) is a reliever airport (as defined in section 47102) and is designated as such in the national plan of integrated airports maintained under section 47103; and
 
 &emsp;&emsp;&emsp;(ii) is located within 20 nautical miles (22 statute miles) of 3 or more airports that each annually account for at least 1 percent of the total United States passenger enplanements and at least 2 of which are operated by the sponsor of the reliever airport.
 
@@ -46,7 +46,7 @@ Suspensions.—(1) The Secretary shall suspend for not more than 30 days any par
 
 (2) The Secretary shall begin immediately a hearing to decide if the certificate referred to in paragraph (1) of this subsection should be amended, modified, suspended, or revoked. Until the hearing is completed, the Secretary may suspend the certificate for additional periods totaling not more than 60 days. If the Secretary decides that the carrier is complying with the requirements described in sections 41110(e) and 41112 of this title and regulations and orders under sections 41110(e) and 41112, the Secretary immediately may end the suspension period and proceeding begun under this subsection. However, the Secretary is not prevented from imposing a civil penalty on the carrier for violating the requirements described in section 41110(e) or 41112 or a regulation or order under section 41110(e) or 41112.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1120; Pub. L. 106–181, title VII, §723, Apr. 5, 2000, 114 Stat. 165; Pub. L. 106–528, §8(c), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 108–176, title VIII, §822, Dec. 12, 2003, 117 Stat. 2594.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1120; Pub. L. 106–181, title VII, §723, Apr. 5, 2000, 114Stat. 165; Pub. L. 106–528, §8(c), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 108–176, title VIII, §822, Dec. 12, 2003, 117 Stat. 2594.)
 
 Historical and Revision Notes
 
@@ -118,7 +118,7 @@ Subsec. (b)(4). Pub. L. 108–176, §822(b), added par. (4).
 
 2000—Subsec. (b). Pub. L. 106–181, §723(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(1). Pub. L. 106–528, §8(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “An air carrier, including an indirect air carrier, which operates aircraft designed for more than nine passenger seats, may not provide regularly scheduled charter air transportation for which the general public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flights to or from an airport that is not located in Alaska and that does not have an operatingcertificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulations).”
+Subsec. (b)(1). Pub. L. 106–528, §8(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “An air carrier, including an indirect air carrier, which operates aircraft designed for more than nine passenger seats, may not provide regularly scheduled charter air transportation for which the general public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flights to or from an airport that is not located in Alaska and that does not have an operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulations).”
 
 Subsec. (b)(3). Pub. L. 106–528, §8(c)(2), added par. (3).
 

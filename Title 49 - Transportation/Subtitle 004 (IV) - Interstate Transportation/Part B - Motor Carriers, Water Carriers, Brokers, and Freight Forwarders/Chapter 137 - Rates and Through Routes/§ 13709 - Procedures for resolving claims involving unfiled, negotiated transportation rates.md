@@ -6,7 +6,7 @@ Transportation Provided at Rates Other Than Legal Tariff Rates.—
 
 &emsp;(1)
 
-In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billedand collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
+In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
 
 &emsp;&emsp;(A) the carrier or freight forwarder is no longer transporting property or is transporting property for the purpose of avoiding the application of this section; and
 
@@ -40,7 +40,7 @@ Pounds or Less.—A person from whom the additional legally applicable and effec
 
 Claims Involving Shipments Weighing More Than 10,000
 
-Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds.—A person from whomthe additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (d)
 
@@ -76,7 +76,7 @@ Pending suits for collection made before december 4, 1993.—If the carrier or f
 
 &emsp;(4)
 
-Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additionalfreight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
+Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additional freight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
 
 &emsp;&emsp;(A) the 60th day following the filing of an answer to a suit for the collection of such additional legally applicable freight rate or charges, or
 
@@ -118,7 +118,7 @@ Subchapter II of chapter 105, referred to in subsec. (a)(1), was omitted in the 
 
 Chapter 119, referred to in subsec. (a)(3), was omitted and a new chapter 119 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 849, effective Jan. 1, 1996.
 
-The Small Business Act, referred to in subsec. (h)(1)(A), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (h)(1)(A), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see ShortTitle note set out under section 631 of Title 15 and Tables.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (h)(1)(B), is classified to section 501 of Title 26, Internal Revenue Code.
 

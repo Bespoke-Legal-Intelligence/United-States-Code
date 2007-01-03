@@ -48,7 +48,7 @@ The Task Force shall carry out the following activities:
 
 #### (e) Support for the Task Force
 
-The Secretary of State is authorized to establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, andwith trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
+The Secretary of State is authorized to establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
 
 #### (f) Senior Policy Operating Group
 
@@ -76,7 +76,7 @@ The Secretary of State is authorized to establish within the Department of State
 
 #### (4) Availability of information
 
-&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, before and after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
+&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, beforeand after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
 
 #### (5) Regulations
 
@@ -146,7 +146,7 @@ Sec. 2. <i>Activities</i>. The Task Force shall, consistent with applicable law 
 
 (a) coordinate the implementation of the Act;
 
-(b) measure and evaluate progress of the United States and other countries in the areas of trafficking in persons prevention, protection, and assistance to victims of trafficking in persons, and prosecutions andother enforcement efforts against traffickers, including the role of public corruption in facilitating trafficking in persons;
+(b) measure and evaluate progress of the United States and other countries in the areas of trafficking in persons prevention, protection, and assistance to victims of trafficking in persons, and prosecutions and other enforcement efforts against traffickers, including the role of public corruption in facilitating trafficking in persons;
 
 (c) assist the Secretary of State in the preparation of the annual reports described in section 110 of the Act \[22 U.S.C. 7107\];
 

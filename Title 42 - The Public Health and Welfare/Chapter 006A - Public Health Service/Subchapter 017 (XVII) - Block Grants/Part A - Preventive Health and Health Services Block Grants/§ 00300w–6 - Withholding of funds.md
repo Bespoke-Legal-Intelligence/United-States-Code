@@ -18,11 +18,11 @@
 
 #### (c) Availability of books, documents, papers, and records
 
-Each State, and each entity which has received funds from an allotment made to a Stateunder this part, shall make appropriate books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request therefor.
+Each State, and each entity which has received funds from an allotment made to a State under this part, shall make appropriate books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request therefor.
 
 #### (d) Information not readily available
 
-(1) In conducting any investigation in a State, the Secretary or the Comptroller General of the United States may not make a request for any information not readily available to such State or an entity which has received funds from an allotment made to the State under this part or make an unreasonable request for information to be compiled, collected, or transmitted in any form not readily available.
+(1) In conducting any investigation in a State, the Secretary or the Comptroller General of theUnited States may not make a request for any information not readily available to such State or an entity which has received funds from an allotment made to the State under this part or make an unreasonable request for information to be compiled, collected, or transmitted in any form not readily available.
 
 (2) Paragraph (1) does not apply to the collection, compilation, or transmittal of data in the course of a judicial proceeding.
 

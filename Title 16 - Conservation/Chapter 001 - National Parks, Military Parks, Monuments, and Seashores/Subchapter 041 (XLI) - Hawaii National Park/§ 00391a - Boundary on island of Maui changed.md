@@ -34,7 +34,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 15\. One hundred and forty-three degrees fifty-three minutes six thousand nine hundred and five and three-tenths feet along the land of Pulehunui to a concrete monument marked Number 20.
 
-16\. One hundred and ninety-nine degrees twenty-three minutes ten thousand seven hundred and twenty-six feet along the remaining portion of the land of Kalialinui to the point of beginning, passing over a concrete monument marked Number 22 at a distance of six thousand four hundred thirty-six and seven-tenths feet; including portions of the lands of Kealahou 3 and 4, Pulehunui, Kalialinui, Kaupo, Nuu, Nakula, Kahikinui and Papaanui, Island of Maui, and containing seventeen thousand one hundred and thirty acres, more or less; and all of those lands lying within the boundary above described are included in and made a part of the Hawaii National Park subject to all laws and regulations pertaining to said park.
+16\. One hundred and ninety-nine degrees twenty-three minutes ten thousand seven hundredand twenty-six feet along the remaining portion of the land of Kalialinui to the point of beginning, passing over a concrete monument marked Number 22 at a distance of six thousand four hundred thirty-six and seven-tenths feet; including portions of the lands of Kealahou 3 and 4, Pulehunui, Kalialinui, Kaupo, Nuu, Nakula, Kahikinui and Papaanui, Island of Maui, and containing seventeen thousand one hundred and thirty acres, more or less; and all of those lands lying within the boundary above described are included in and made a part of the Hawaii National Park subject to all laws and regulations pertaining to said park.
 
 (Feb. 12, 1927, ch. 111, §1, 44 Stat. 1087.)
 

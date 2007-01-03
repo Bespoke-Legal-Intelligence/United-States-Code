@@ -8,7 +8,7 @@
 
 #### (b) Covered law
 
-A provision of law referred to in subsection (a)(2) of this section is any provision of law that, as determined by the Federal Acquisition Regulatory Council, sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law that—
+A provision of law referred to in subsection (a)(2) of this section is any provision of law that,as determined by the Federal Acquisition Regulatory Council, sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law that—
 
 &emsp;(1) provides for criminal or civil penalties; or
 

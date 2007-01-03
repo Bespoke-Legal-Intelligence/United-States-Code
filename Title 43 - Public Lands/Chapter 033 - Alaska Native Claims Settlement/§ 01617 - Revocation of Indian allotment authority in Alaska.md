@@ -72,11 +72,11 @@ Any allotments approved pursuant to this section during the four years following
 
 (3)(A) On obtaining title evidence acceptable under Department of Justice title standards and acceptance of a reconveyance or relinquishment from a Native Corporation under paragraph (1), the Secretary shall issue a Native allotment certificate to the applicant for the land reconveyed or relinquished by the Native Corporation.
 
-(B) Any allotment revised under this section shall, when allotted, be made subject to anyeasement, trail, right-of-way, or any third-party interest (other than a fee interest) in existence on the revised allotment land on the date of revision.
+(B) Any allotment revised under this section shall, when allotted, be made subject to any easement, trail, right-of-way, or any third-party interest (other than a fee interest) in existence on the revised allotment land on the date of revision.
 
 #### (f) Reinstatements and reconstructions
 
-(1) If an applicant for a Native allotment filed under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) petitions the Secretary to reinstate a previously closed Native allotment application or to accept a reconstructed copy of an application claimed to have been timely filed with an agency of the Department of the Interior, the United States—
+(1) If an applicant for a Native allotment filed under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) petitions the Secretary to reinstate a previously closed Native allotment application or to accept a reconstructed copy of an application claimed to have been timely filed with anagency of the Department of the Interior, the United States—
 
 &emsp;(A) may seek voluntary reconveyance of any land described in the application that is reinstated or reconstructed after December 10, 2004; but
 

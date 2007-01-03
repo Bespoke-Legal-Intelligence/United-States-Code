@@ -92,13 +92,5 @@ Subsec. (e)(1). Pub. L. 108–136, §212(b)(2), struck out “, the Director of
 
 #### Administration of Programs To Begin After First Strategic Plan
 
-Pub. L. 107–314, div. A, title II, §231(b), (c), Dec. 2, 2002, 116 Stat. 2489, provided that:
-
-“(b)
-
-First Strategic Plan.—The first strategic plan required to be completed under subsection (d)(1) of section 196 of title 10, United States Code (as added by subsection (a)), shall be completed not later than six months after the date of the enactment of this Act \[Dec. 2, 2002\].
-
-“(c)
-
-Administration of CTEIP and DOD T\&E S\&T Programs.—The duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsection (c)(4) of section 196 of title 10, United States Code (as added by subsection (a)), shall take effect, and such programs shall be placed under control of such Director, upon the beginning of the first fiscal year that begins after the report on the first strategic plan referred to subsection (b) is transmitted to the congressional committees required by subsection (d)(4) of such section 196.”
+Pub. L. 107–314, div. A, title II, §231(b), (c), Dec. 2, 2002, 116 Stat. 2489, directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
 

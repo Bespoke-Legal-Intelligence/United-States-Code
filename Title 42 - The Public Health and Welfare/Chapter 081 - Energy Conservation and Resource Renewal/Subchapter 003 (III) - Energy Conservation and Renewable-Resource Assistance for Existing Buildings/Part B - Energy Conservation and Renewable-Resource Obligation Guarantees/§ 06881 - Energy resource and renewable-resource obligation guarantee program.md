@@ -12,7 +12,7 @@
 
 &emsp;(A) which is a general obligation of a State; or
 
-&emsp;(B) which is entered into or issued for the purpose of financing any energy conservation measure or renewable-resource energy measure which is to be installed or otherwise implemented in a residential building containing 2 or fewer dwelling units.
+&emsp;(B) which is entered into or issued for the purpose of financing any energy conservationmeasure or renewable-resource energy measure which is to be installed or otherwise implemented in a residential building containing 2 or fewer dwelling units.
 
 (3) Before prescribing rules pursuant to this subsection, the Secretary shall consult with the Administrator of the Small Business Administration in order to formulate procedures which would assist small business concerns in obtaining guarantees and commitments to guarantee under this section.
 
@@ -42,7 +42,7 @@ No obligation may be guaranteed, and no commitment to guarantee an obligation ma
 
 #### (d) Limitations on original principal amount guaranteed; revocation of guarantees and commitments to guarantee; conclusiveness of guarantee
 
-The original principal amount guaranteed under subsection (a) may not exceed 90 percentof the cost of the energy conservation measure or the renewable-resource energy measure financed by the obligation guaranteed under such subsection; except that such amount may not exceed 25 percent of the fair market value of the building or industrial plant being modified by such energy conservation measure or renewable-resource energy measure. No guarantee issued, and no commitment to guarantee, which is issued under subsection (a) of this section shall be terminated, canceled, or otherwise revoked except in accordance with reasonable terms and conditions prescribed by the Secretary, after consultation with the Secretary of the Treasury, and contained in the written guarantee or commitment to guarantee. The full faith and credit of the United States is pledged to the payment of all guarantees made under subsection (a) of this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligation involved for such guarantee, and the validity of any guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligation except for fraud or material misrepresentation on the part of such holder.
+The original principal amount guaranteed under subsection (a) may not exceed 90 percent of the cost of the energy conservation measure or the renewable-resource energy measure financed by the obligation guaranteed under such subsection; except that such amount may not exceed 25 percent of the fair market value of the building or industrial plant being modified by such energy conservation measure or renewable-resource energy measure. No guarantee issued, and no commitment to guarantee, which is issued under subsection (a) of this section shall be terminated, canceled, or otherwise revoked except in accordance with reasonable terms and conditions prescribed by the Secretary, after consultation with the Secretary of the Treasury, and contained in the written guarantee or commitment to guarantee. The full faith and credit of the United States is pledged to the payment of all guarantees made under subsection (a) of this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligation involved for such guarantee, and the validity of any guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligation except for fraud or material misrepresentation on the part of such holder.
 
 #### (e) Information and assurances required prior to guarantees and commitments to guarantee; maintenance and availability of records; fees to borrowers; exceptions
 
@@ -94,7 +94,7 @@ As used in this part:
 
 #### References in Text
 
-This subchapter, referred to in subsec. (e)(1), was in the original “this title”, meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This subchapter, referred to in subsec. (e)(1), was in the original “this title”, meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12,Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (h), is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -138,7 +138,7 @@ Each plan approved by the Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall not make any program payments to a producer who is otherwise eligible to receive with respect to acreage enrolled in the program if such producer hays or grazes such acreage (excluding acreagedesignated as conservation use acreage) during the 5-month period in each State during which haying and grazing of conserving use acres is not allowed under the provisions of the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], or, if the crop planted on such acreage includes a small grain, before the producer harvests the small grain crop in kernel form.
+&emsp;&emsp;The Secretary shall not make any program payments to a producer who is otherwise eligible to receive with respect to acreage enrolled in the program if such producer hays or grazes such acreage (excluding acreage designated as conservation use acreage) during the 5-month period in each State during which haying and grazing of conserving use acres is not allowed under the provisions of the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], or, if the crop planted on such acreage includes a small grain, before the producer harvests the small grain crop in kernel form.
 
 #### (B) Limitation on permitted haying and grazing
 
@@ -146,7 +146,7 @@ Each plan approved by the Secretary shall—
 
 #### (6) Base acre adjustments
 
-&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
+&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base underthe Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
 
 #### (7) Payment acreage limitation
 
@@ -196,7 +196,7 @@ Subsec. (h)(7)(A). Pub. L. 101–508, §1204(a)(2), substituted “shall be elig
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 

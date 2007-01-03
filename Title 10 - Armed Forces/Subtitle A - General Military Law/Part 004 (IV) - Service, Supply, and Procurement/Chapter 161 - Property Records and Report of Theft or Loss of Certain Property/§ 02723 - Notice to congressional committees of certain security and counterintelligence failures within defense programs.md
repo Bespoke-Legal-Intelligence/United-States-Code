@@ -10,11 +10,11 @@ Manner of Notification.—Notification of a failure or compromise of classified 
 
 (c)
 
-Procedures.—The Secretary of Defense and the Committees on Armed Services of the Senate and House of Representatives shall each establish such procedures as may be necessary to protect from unauthorized disclosure classified information, information relating to intelligence sources and methods, and sensitive law enforcement information that is submitted to those committees pursuant to this section andthat are otherwise necessary to carry out the provisions of this section.
+Procedures.—The Secretary of Defense and the Committees on Armed Services of the Senate and House of Representatives shall each establish such procedures as may be necessary to protect from unauthorized disclosure classified information, information relating to intelligence sources and methods, and sensitive law enforcement information that is submitted to those committees pursuant to this section and that are otherwise necessary to carry out the provisions of this section.
 
 (d)
 
-Statutory Construction.—(1) Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classified information, information relating to intelligence sources and methods, or sensitive law enforcement information.
+Statutory Construction.—(1) Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classifiedinformation, information relating to intelligence sources and methods, or sensitive law enforcement information.
 
 (2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 (50 U.S.C. 413).
 

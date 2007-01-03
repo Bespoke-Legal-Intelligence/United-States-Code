@@ -4,7 +4,7 @@ Warrant officers in the following categories are not subject to this chapter:
 
 &emsp;(1) Reserve warrant officers—
 
-&emsp;&emsp;(A) on active duty as authorized under section 115(a)(1)(B) or 115(b)(1) of this title, orexcluded from counting for active duty end strengths under section 115(i) of this title; or
+&emsp;&emsp;(A) on active duty as authorized under section 115(a)(1)(B) or 115(b)(1) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title; or
 
 &emsp;&emsp;(B) on full-time National Guard duty.
 

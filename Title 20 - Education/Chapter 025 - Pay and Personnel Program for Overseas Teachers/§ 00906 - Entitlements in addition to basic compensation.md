@@ -16,7 +16,7 @@ The cost-of-living allowances and additional compensation provided under subsect
 
 #### Codification
 
-In subsec. (a)(2), “section 5941 of title 5” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 (5 U.S.C. 118h)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(2), “section 5941 of title 5” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 (5 U.S.C. 118h)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first sectionof which enacted Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 2356 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

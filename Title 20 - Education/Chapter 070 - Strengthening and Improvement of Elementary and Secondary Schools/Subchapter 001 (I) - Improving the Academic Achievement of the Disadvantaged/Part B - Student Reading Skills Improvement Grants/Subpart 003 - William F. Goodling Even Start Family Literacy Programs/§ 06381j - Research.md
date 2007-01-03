@@ -24,7 +24,7 @@ The Secretary shall carry out, through grant or contract, research into the comp
 
 #### (2) Use of expert entity
 
-&emsp;The National Institute for Literacy, in consultation with the Secretary, shall carry out the research under paragraph (1) through an entity, including a Federal agency, that has expertise in carrying out longitudinal studies of the development of literacy skills in children and has developed effective interventions to help children with reading difficulties.
+&emsp;The National Institute for Literacy, in consultation with the Secretary, shall carry out the research under paragraph (1) through anentity, including a Federal agency, that has expertise in carrying out longitudinal studies of the development of literacy skills in children and has developed effective interventions to help children with reading difficulties.
 
 #### (c) Dissemination
 

@@ -34,7 +34,7 @@ Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–272, title XIII, §13001, Apr. 7, 1986, 100 Stat. 300, provided that: “This part \[part 1 (§§13001–13009) of subtitle A, amending sections 2271, 2272, 2291 to 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of thistitle, enacting provisions set out as a note under section 2291 of this title, and amending provisions set out as a note preceding section 2271 of this title\] may be cited as the ‘Trade Adjustment Assistance Reform and Extension Act of 1986’.”
+Pub. L. 99–272, title XIII, §13001, Apr. 7, 1986, 100 Stat. 300, provided that: “This part \[part 1 (§§13001–13009) of subtitle A, amending sections 2271, 2272, 2291 to 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of this title, enacting provisions set out as a note under section 2291 of this title, and amending provisions set out as a note preceding section 2271 of this title\] may be cited as the ‘Trade Adjustment Assistance Reform and Extension Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

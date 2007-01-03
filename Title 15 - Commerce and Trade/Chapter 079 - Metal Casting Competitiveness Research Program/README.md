@@ -6,25 +6,10 @@
 | [5302\.](%C2%A7%2005302%20-%20Definitions.md) | Definitions. |
 | [5303\.](%C2%A7%2005303%20-%20Establishment%20of%20program.md) | Establishment of program. |
 | [5304\.](%C2%A7%2005304%20-%20Operation%20of%20program.md) | Operation of program. |
-| (a) | Solicitation of proposals. |
-| (b) | Proposal criteria. |
-| (c) | Content of management plan. |
-| (d) | Selection of proposals. |
-| (e) | Funding of program. |
-| (f) | National Metal Casting Research Institute. |
 | [5305\.](%C2%A7%2005305%20-%20Review.md) | Review. |
-| (a) | Evaluation of research activities. |
-| (b) | Annual report. |
-| (c) | Discontinuation of funding. |
-| (d) | Solicitation of new proposals. |
 | [5306\.](%C2%A7%2005306%20-%20Industrial%20Advisory%20Board.md) | Industrial Advisory Board. |
-| (a) | Establishment of Board. |
-| (b) | Review and recommendations. |
 | [5307\.](%C2%A7%2005307%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5308\.](%C2%A7%2005308%20-%20Protection%20of%20proprietary%20rights.md) | Protection of proprietary rights. |
-| (a) | Proprietary rights. |
-| (b) | Commercial information. |
-| (c) | Patent rights. |
 | [5309\.](%C2%A7%2005309%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

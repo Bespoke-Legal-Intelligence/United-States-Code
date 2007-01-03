@@ -24,7 +24,7 @@ The President shall prescribe such terms and conditions for the disposal of comm
 
 #### References in Text
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30,1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
 

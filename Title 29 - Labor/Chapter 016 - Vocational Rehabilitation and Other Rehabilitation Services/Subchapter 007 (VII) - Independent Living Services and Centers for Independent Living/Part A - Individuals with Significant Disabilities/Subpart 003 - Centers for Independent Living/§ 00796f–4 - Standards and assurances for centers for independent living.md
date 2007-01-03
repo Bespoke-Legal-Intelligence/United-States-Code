@@ -66,7 +66,7 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 &emsp;&emsp;(B) the number and types of individuals with significant disabilities receiving services through the center;
 
-&emsp;&emsp;(C) the types of services provided through the center and the number of individuals with significant disabilities receiving each type of service;
+&emsp;&emsp;(C) the types of services provided through the center and the number of individualswith significant disabilities receiving each type of service;
 
 &emsp;&emsp;(D) the sources and amounts of funding for the operation of the center;
 

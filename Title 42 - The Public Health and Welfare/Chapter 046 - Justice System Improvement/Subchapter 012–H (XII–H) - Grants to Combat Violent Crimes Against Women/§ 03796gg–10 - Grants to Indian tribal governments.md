@@ -2,35 +2,39 @@
 
 #### (a) Grants
 
-The Attorney General may make grants to Indian tribal governments and tribal organizations to—
+The Attorney General may make grants to Indian tribal governments or authorized designees of Indian tribal governments to—
 
 &emsp;(1) develop and enhance effective governmental strategies to curtail violent crimes against and increase the safety of Indian women consistent with tribal law and custom;
 
 &emsp;(2) increase tribal capacity to respond to domestic violence, dating violence, sexual assault, and stalking crimes against Indian women;
 
-&emsp;(3) strengthen tribal justice interventions including tribal law enforcement, prosecution, courts, probation, <sup>1</sup> correctional facilities;
+&emsp;(3) strengthen tribal justice interventions including tribal law enforcement, prosecution, courts, probation,<sup>1</sup> correctional facilities;
 
 &emsp;(4) enhance services to Indian women victimized by domestic violence, dating violence, sexual assault, and stalking;
 
 &emsp;(5) work in cooperation with the community to develop education and prevention strategies directed toward issues of domestic violence, dating violence, and stalking programs and to address the needs of children exposed to domestic violence;
 
-&emsp;(6) provide programs for supervised visitation and safe visitation exchange of children in situations involving domestic violence, sexual assault, or stalking committed by one parent against the other with appropriate security measures, policies, and procedures to protect the safety of victims and their children; and
+&emsp;(6) provide programs for supervised visitation and safe visitation exchange of children in situations involving domestic violence, sexual assault, or stalking committed by one parent against the other with appropriate security measures, policies, and procedures to protect the safety of victims and their children;
 
-&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexual assault, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and support services to enable a victim of domestic violence, dating violence, sexual assault, or stalking to locate and secure permanent housing and integrate into a community.
+&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexual assault, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and support services to enable a victim of domestic violence, dating violence, sexual assault, or stalking to locate and secure permanent housing and integrate into a community; and
+
+&emsp;(8) provide legal assistance necessary to provide effective aid to victims of domestic violence, dating violence, stalking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims.
 
 #### (b) Collaboration
 
 All applicants under this section shall demonstrate their proposal was developed in consultation with a nonprofit, nongovernmental Indian victim services program, including sexual assault and domestic violence victim services providers in the tribal or local community, or a nonprofit tribal domestic violence and sexual assault coalition to the extent that they exist. In the absence of such a demonstration, the applicant may meet the requirement of this subsection through consultation with women in the community to be served.
 
-#### (c) Nonexclusivity
+(Pub. L. 90–351, title I, §2015, formerly §2007, as added Pub. L. 109–162, title IX, §906(a), Jan. 5, 2006, 119 Stat. 3080; renumbered §2015 and amended Pub. L. 109–271, §7(a)(1)(A), (C), (3), Aug. 12, 2006, 120 Stat. 763.)
 
-The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.
+#### Amendments
 
-(Pub. L. 90–351, title I, §2007, as added Pub. L. 109–162, title IX, §906(a), Jan. 5, 2006, 119 Stat. 3080.)
+2006—Subsec. (a). Pub. L. 109–271, §7(a)(3)(A), substituted “or authorized designees of Indian tribal governments” for “and tribal organizations” in introductory provisions and added par. (8).
 
-#### Codification
+Subsec. (c). Pub. L. 109–271, §7(a)(3)(B), struck out subsec. (c). Prior to amendment, text read as follows: “The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.”
 
-Another section 2007 of Pub. L. 90–351 is classified to section 3796gg–1 of this title.
+#### Effective Date
+
+Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of this title.
 
 #### Findings and Purposes
 
@@ -54,7 +58,7 @@ Pub. L. 109–162, title IX, §§901, 902, Jan. 5, 2006, 119 Stat. 3077, 3078, p
 
 #### “SEC. 902. PURPOSES.
 
-“The purposes of this title \[enacting this section, sections 3796gg–11 and 14045d of this title, and section 117 of Title 18, Crimes and Criminal Procedure, amending sections 3796gg–1, 3796gg–6, 3796hh, 13971, 13975, and 10420 of this title, section 921 of Title 18, section 2803 of Title 25, Indians, and section 534 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 534 of Title 28\] are—
+“The purposes of this title \[enacting this section, sections 3796gg–11 and 14045d of this title, and section 117of Title 18, Crimes and Criminal Procedure, amending sections 3796gg–1, 3796gg–6, 3796hh, 13971, 13975, and 10420 of this title, section 921 of Title 18, section 2803 of Title 25, Indians, and section 534 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 534 of Title 28\] are—
 
 &emsp;“(1) to decrease the incidence of violent crimes against Indian women;
 
@@ -102,7 +106,7 @@ Task force.—
 
 &emsp;“(A)
 
-In general.—The Attorney General, acting through the Director of the Office on Violence Against Women, shall establish a task force to assistin the development and implementation of the study under paragraph (1) and guide implementation of the recommendation in paragraph (2)(C).
+In general.—The Attorney General, acting through the Director of the Office on Violence Against Women, shall establish a task force to assist in the development and implementation of the study under paragraph (1) and guide implementation of the recommendation in paragraph (2)(C).
 
 &emsp;“(B)
 

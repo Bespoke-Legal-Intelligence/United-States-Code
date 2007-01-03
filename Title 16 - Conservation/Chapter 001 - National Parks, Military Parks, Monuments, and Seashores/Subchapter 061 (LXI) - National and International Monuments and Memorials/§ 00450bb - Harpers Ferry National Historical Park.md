@@ -20,7 +20,7 @@ The Secretary is authorized to acquire, by donation only, approximately 27 acres
 
 &emsp;&emsp;(A) transfer to the National Park Service for inclusion in the Harpers Ferry National Historical Park (referred to in sections 450bb to 450bb–2 of this title as the “Park”) the land depicted on the map referred to in paragraph (1) as “U.S. Fish and Wildlife Service Lands” and revise the boundary of the Park accordingly; and
 
-&emsp;&emsp;(B) revise the boundary of the Park to include the land depicted on the map referred to in paragraph (1) as “Appalachian NST” and exclude that land from the boundary of the Appalachian National Scenic Trail.
+&emsp;&emsp;(B) revise the boundary of the Park to include the land depicted on the map referredto in paragraph (1) as “Appalachian NST” and exclude that land from the boundary of the Appalachian National Scenic Trail.
 
 #### (d) Maximum number of acres
 
@@ -42,7 +42,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Amendments
 
-2004—Pub. L. 108–307 inserted section catchline and amended text generally. Prior to amendment, sectionauthorized the Secretary of the Interior to acquire certain lands for the Harpers Ferry National Historical Park.
+2004—Pub. L. 108–307 inserted section catchline and amended text generally. Prior to amendment, section authorized the Secretary of the Interior to acquire certain lands for the Harpers Ferry National Historical Park.
 
 1994—Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Congress of the United States”.
 

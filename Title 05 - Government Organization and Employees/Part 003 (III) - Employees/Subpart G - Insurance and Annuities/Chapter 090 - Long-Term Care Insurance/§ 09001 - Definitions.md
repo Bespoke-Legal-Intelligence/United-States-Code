@@ -10,9 +10,11 @@ Employee.—The term “employee” means—
 
 &emsp;&emsp;(B) an individual described in section 2105(e);
 
-&emsp;&emsp;(C) an individual employed by the Tennessee Valley Authority; and
+&emsp;&emsp;(C) an individual employed by the Tennessee Valley Authority;
 
-&emsp;&emsp;(D) an employee of a nonappropriated fund instrumentality of the Department of Defense described in section 2105(c).
+&emsp;&emsp;(D) an employee of a nonappropriated fund instrumentality of the Department of Defense described in section 2105(c); and
+
+&emsp;&emsp;(E) an employee of the District of Columbia courts.
 
 &emsp;(2)
 
@@ -68,7 +70,7 @@ State.—The term “State” includes the District of Columbia.
 
 &emsp;(9)
 
-Qualified long-term care insurance contract.—The term “qualified long-term care insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
+Qualified long-term care insurance contract.—The term “qualified long-termcare insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
 
 &emsp;(10)
 
@@ -76,19 +78,23 @@ Appropriate secretary.—The term “appropriate Secretary” means—
 
 &emsp;&emsp;(A) except as otherwise provided in this paragraph, the Secretary of Defense;
 
-&emsp;&emsp;(B) with respect to the Coast Guard when it is not operating as a service of the Navy, the Secretary of Transportation;
+&emsp;&emsp;(B) with respect to the Coast Guard when it is not operating as a service of the Navy, the Secretary of Homeland Security;
 
 &emsp;&emsp;(C) with respect to the commissioned corps of the National Oceanic and Atmospheric Administration, the Secretary of Commerce; and
 
 &emsp;&emsp;(D) with respect to the commissioned corps of the Public Health Service, the Secretary of Health and Human Services.
 
-(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, §1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, §1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, §1101(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 108–7, div. C, title III, §138(a), Feb. 20, 2003, 117 Stat. 129; Pub. L. 108–136, div. A, title V, §561, Nov. 24, 2003, 117 Stat. 1482.)
+(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, §1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, §1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, §1101(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 108–7, div. C, title III, §138(a), Feb. 20, 2003, 117 Stat. 129; Pub. L. 108–136, div. A, title V, §561, Nov. 24, 2003, 117 Stat. 1482; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–356, title I, §117(a)(3), Oct. 16, 2006, 120 Stat. 2027.)
 
 #### References in Text
 
 Section 7702B of the Internal Revenue Code of 1986, referred to in par. (9), is classified to section 7702B of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Par. (1)(E). Pub. L. 109–356 added subpar. (E).
+
+Par. (10)(B). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 2003—Par. (1). Pub. L. 108–136, §561(a), substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
 

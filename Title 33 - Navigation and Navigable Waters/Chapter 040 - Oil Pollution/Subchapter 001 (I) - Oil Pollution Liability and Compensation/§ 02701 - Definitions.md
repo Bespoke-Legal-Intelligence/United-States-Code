@@ -6,7 +6,7 @@ For the purposes of this Act, the term—
 
 &emsp;(2) “barrel” means 42 United States gallons at 60 degrees fahrenheit;
 
-&emsp;(3) “claim” means a request, made in writing for a sum certain, for compensation fordamages or removal costs resulting from an incident;
+&emsp;(3) “claim” means a request, made in writing for a sum certain, for compensation for damages or removal costs resulting from an incident;
 
 &emsp;(4) “claimant” means any person or government who presents a claim for compensation under this subchapter;
 
@@ -32,7 +32,7 @@ For the purposes of this Act, the term—
 
 &emsp;(15) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and has governmental authority over lands belonging to or controlled by the tribe;
 
-&emsp;(16) “lessee” means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf, granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
+&emsp;(16) “lessee” means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf,granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
 
 &emsp;(17) “liable” or “liability” shall be construed to be the standard of liability which obtains under section 1321 of this title;
 
@@ -204,7 +204,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;(44) “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(vi)).
 
-(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov.13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071.)
+(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071.)
 
 #### References in Text
 
@@ -229,6 +229,10 @@ Pars. (38) to (44). Pub. L. 108–293, §703(b), added pars. (38) to (44).
 #### Effective Date
 
 Section 1020 of title I of Pub. L. 101–380 provided that: “This Act \[see Short Title of 1990 Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\].”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–241, title VI, §601, July 11, 2006, 120 Stat. 553, provided that: “This title \[enacting sections 1232b and 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under section 2704 of this title\] may be cited as the ‘Delaware River Protection Act of 2006’.”
 
 #### Short Title of 1995 Amendment
 

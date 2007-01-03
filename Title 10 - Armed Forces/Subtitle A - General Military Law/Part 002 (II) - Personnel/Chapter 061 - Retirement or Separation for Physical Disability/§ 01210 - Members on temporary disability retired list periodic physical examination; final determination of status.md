@@ -24,7 +24,7 @@
 
 (B) The grade of a member retired, transferred, discharged, or eliminated from an active status pursuant to paragraph (1)(B) shall be determined under the provisions of law under which the member is retired, transferred, discharged, or eliminated. The member's retired, retainer, severance, readjustment, or separation pay shall be computed as if the member had been reappointed or reenlisted upon removal from the temporary disability retired list and before the retirement, transfer, discharge, or elimination. Notwithstanding section 8301 of title 5, a member who is retired shall be entitled to retired pay effective on the day after the last day on which the member is entitled to disability retired pay.
 
-(g) Any member of the armed forces whose name is on the temporary disability retired list, and who is required to travel to submit to a physical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
+(g) Any member of the armed forces whose name is on the temporary disability retired list, and who is required to travel to submit to aphysical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
 
 (h) If his name is not sooner removed, the disability retired pay of a member whose name is on the temporary disability retired list terminates upon the expiration of five years after the date when his name was placed on that list.
 

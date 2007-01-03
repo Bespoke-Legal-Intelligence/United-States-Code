@@ -2,7 +2,7 @@
 
 #### (a) United States development cooperation policy
 
-The Congress finds that fundamental political, economic, and technological changes have resulted in the interdependence of nations. The Congress declares that the individual liberties, economic prosperity, and security of the people of the United States are best sustained and enhanced in a community of nations which respect individual civil and economic rights and freedoms and which work together to use wisely the world's limited resources in an open and equitable international economic system. Furthermore, the Congress reaffirms the traditional humanitarian ideals of the American people and renews its commitment to assist people in developing countries to eliminate hunger, poverty, illness, and ignorance.
+The Congress finds that fundamental political, economic, and technological changes have resulted in the interdependence of nations. The Congress declares that the individual liberties, economic prosperity, and security of the people of the United States are best sustained and enhanced in a community of nations which respectindividual civil and economic rights and freedoms and which work together to use wisely the world's limited resources in an open and equitable international economic system. Furthermore, the Congress reaffirms the traditional humanitarian ideals of the American people and renews its commitment to assist people in developing countries to eliminate hunger, poverty, illness, and ignorance.
 
 Therefore, the Congress declares that a principal objective of the foreign policy of the United States is the encouragement and sustained support of the people of developing countries in their efforts to acquire the knowledge and resources essential to development and to build the economic, political, and social institutions which will improve the quality of their lives.
 
@@ -44,7 +44,7 @@ Subsecs. (c) to (e). Pub. L. 95–424 struck out subsecs. (c) to (e).
 
 Subsec. (b)(2). Pub. L. 95–88, §113(b)(2), inserted “environment and natural resources;” after “population planning and health;”.
 
-Subsec. (d). Pub. L. 95–88, §101(a), substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment andprogress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions under which the President had established the criteria without Congressional involvement.
+Subsec. (d). Pub. L. 95–88, §101(a), substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment and progress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions under which the President had established the criteria without Congressional involvement.
 
 Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 1973—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1967—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issues among friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspension of assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
+1967—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issues among friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspensionof assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
 
 1966—Pub. L. 89–583 provided for termination of assistance to any foreign country which does not take appropriate measures to provide compensation for damage or destruction by mob action of United States property within such country and declared that furnishing assistance shall not be construed as creating a new commitment or as affecting any existing commitment to use armed forces of the United States for the defense of any foreign country.
 
@@ -74,6 +74,10 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 
 Section 605 of Pub. L. 95–424 provided that: “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 109–472, §1(a), Jan. 11, 2007, 120 Stat. 3554, provided that: “This Act \[enacting sections 288<i>l</i>, 2349bb–5, and 2349bb–6 of this title and section 118 of Title 18, Crimes and Criminal Procedure, amending sections 214, 288f–2, 2321h, 2349bb–2, and 4856 of this title, section 5924 of Title 5, Government Organization and Employees, and section 1356 of Title 8, Aliens and Nationality, enacting provisions set out as notes under section 2751 of this title and section 1714 of Title 8, and amending provisions set out as a note under section 6206 of this title\] may be cited as the ‘Department of State Authorities Act of 2006’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–165, §1, Jan. 10, 2006, 119 Stat. 3574, provided that: “This Act \[enacting and amending provisions set out as notes under section 2152 of this title\] may be cited as the ‘Torture Victims Relief Reauthorization Act of 2005’.”
@@ -90,7 +94,7 @@ Pub. L. 108–484, §1, Dec. 23, 2004, 118 Stat. 3922, provided that: “This Ac
 
 Pub. L. 108–179, §1, Dec. 15, 2003, 117 Stat. 2643, provided that: “This Act \[enacting and amending provisions set out as notes under section 2152 of this title\] may be cited as the ‘Torture Victims Relief Reauthorization Act of 2003’.”
 
-Pub. L. 108–158, §1, Dec. 3, 2003, 117 Stat. 1949, provided that: “This Act \[amending sections 2193, 2194, 2195, 2198, and 2200 of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 2003’.”
+Pub. L. 108–158, §1, Dec. 3, 2003, 117 Stat. 1949, provided that: “This Act \[amending sections 2193, 2194, 2195, 2198,and 2200 of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 2003’.”
 
 #### Short Title of 2002 Amendments
 
@@ -138,13 +142,13 @@ Pub. L. 104–319, §1, Oct. 19, 1996, 110 Stat. 3864, provided that: “This Ac
 
 Pub. L. 103–447, §1, Nov. 2, 1994, 108 Stat. 4691, provided that: “This Act \[amending sections 2291, 2291a, 2291e, 2291f, 2291h to 2291k of this title, section 635 of Title 12, Banks and Banking, section 981 of Title 18, Crimes and Criminal Procedure, section 1616a of Title 19, Customs Duties, and section 881 of Title 21, Food and Drugs, repealing section 2291–2 of this title, enacting provisions set out as notes under this section, sections 1928 and 2420 of this title, and section 1182 of Title 8, Aliens and Nationality, amending provisions set out as a note under section 5311 of Title 31, Money and Finance, and repealing provisions set out as notes under this section, sections 2291, 2291h, and 2420 of this title, section 701 of Title 41, Public Contracts, and section 1902 of Title 46, Appendix, Shipping\] may be cited as the ‘International Narcotics Control Corrections Act of 1994’.”
 
-Pub. L. 103–392, §1, Oct. 22, 1994, 108 Stat. 4098, provided that: “This Act \[enacting section 2151t–1 of this title, amending sections 2191, 2195, and 2421 of this title and sections 4052 and 4728 of Title 15, Commerce andTrade, and enacting provisions set out as a note under section 4701 of Title 15\] may be cited as the ‘Jobs Through Trade Expansion Act of 1994’.”
+Pub. L. 103–392, §1, Oct. 22, 1994, 108 Stat. 4098, provided that: “This Act \[enacting section 2151t–1 of this title, amending sections 2191, 2195, and 2421 of this title and sections 4052 and 4728 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 4701 of Title 15\] may be cited as the ‘Jobs Through Trade Expansion Act of 1994’.”
 
 #### Short Title of 1992 Amendments
 
 Pub. L. 102–583, §1, Nov. 2, 1992, 106 Stat. 4914, provided that Pub. L. 102–583 could be cited as the “International Narcotics Control Act of 1992”, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
 
-Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
+Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b,2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
 
 Pub. L. 102–549, title VI, §601, Oct. 28, 1992, 106 Stat. 3664, provided that: “This title \[enacting sections 2077 and 2430 to 2430i of this title, amending section 1738i of Title 7, Agriculture, repealing section 2296 of this title, and enacting provisions set out as a note under section 2296 of this title\] may be cited as the ‘Enterprise for the Americas Act of 1992’.”
 
@@ -184,7 +188,7 @@ Pub. L. 99–83, title VI, §601, Aug. 8, 1985, 99 Stat. 228, provided that: “
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–164, title VII, §701, Nov. 22, 1983, 97 Stat. 1045, provided that: “This title \[enacting section 2151qof this title and amending section 2452 of this title\] may be cited as the ‘International Environment Protection Act of 1983’.”
+Pub. L. 98–164, title VII, §701, Nov. 22, 1983, 97 Stat. 1045, provided that: “This title \[enacting section 2151q of this title and amending section 2452 of this title\] may be cited as the ‘International Environment Protection Act of 1983’.”
 
 Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part that: “Section 101(b)(2) of this joint resolution \[enacting sections 2151f, and 2349aa to 2349aa–6 of this title, amending sections 2304, 2346a, 2403, and 2771 of this title, and enacting provisions set out as a note under section 2349aa of this title\] may be cited as the ‘International Security and Development Assistance Authorizations Act of 1983’.”
 
@@ -226,7 +230,7 @@ Pub. L. 94–329, §1, June 30, 1976, 90 Stat. 729, provided: “That this Act \
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sections 2292c to 2292e former sections2262, 2399–1a, and 2399–1b of this title, enacting sections 2151a–1, 2151d, 2151e, 2151n, 2220a to 2220e, 2292 to 2292b, 2292f, and 2425 to 2427 of this title and sections 1691a, 1711, 1726, and 1736f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151h, 2151i, 2151k, 2169, 2174, 2181 to 2183, 2221, 2222, 2225, 2293, 2357 and 2421 of this title and sections 1691, 1703, 1706, 1709, 1721, 1736, 1736a, and 1736b of Title 7, repealing sections 2151d, 2151e, 2201, 2292, and 2399 of this title, and enacting provisions set out as a note under section 2220a of this title and as a note under section 1691a of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1975’.”
+Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sections 2292c to 2292e former sections 2262, 2399–1a, and 2399–1b of this title, enacting sections 2151a–1, 2151d, 2151e, 2151n, 2220a to 2220e, 2292 to 2292b, 2292f, and 2425 to 2427 of this title and sections 1691a, 1711, 1726, and 1736f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151h, 2151i, 2151k, 2169, 2174, 2181 to 2183, 2221, 2222, 2225, 2293, 2357 and 2421 of this title and sections 1691, 1703, 1706, 1709, 1721, 1736, 1736a, and 1736b of Title 7, repealing sections 2151d, 2151e, 2201, 2292, and 2399 of this title, and enacting provisions set out as a note under section 2220a ofthis title and as a note under section 1691a of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1975’.”
 
 #### Short Title of 1974 Amendments
 
@@ -318,6 +322,274 @@ Section 642 of Pub. L. 87–195, as amended by Pub. L. 89–171, pt. III, §303(
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Democratic Republic of the Congo Relief, Security, and Democracy Promotion
+
+Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Democratic Republic of the Congo Relief, Security, and Democracy Promotion Act of 2006’.
+
+#### “TITLE I—BILATERAL ACTION ON ADDRESSING URGENT NEEDS IN THE DEMOCRATIC REPUBLIC OF THE CONGO
+
+#### “SEC. 101. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) The National Security Strategy of the United States, dated September 17, 2002, concludes that ‘\[i\]n Africa, promise and opportunity sit side-by-side with disease, war, and desperate poverty. This threatens both a core value of the United States preserving human dignity and our strategic priority combating global terror. American interests and American principles, therefore, lead in the same direction: we will work with others for an African continent that lives in liberty, peace, and growing prosperity.’.
+
+&emsp;“(2) On February 16, 2005, the Director of the Central Intelligence Agency testified, ‘In Africa, chronic instability will continue to hamper counterterrorism efforts and pose heavy humanitarian and peacekeeping burdens.’.
+
+&emsp;“(3) According to the United States Agency for International Development, ‘Given its size, population, and resources, the Congo is an important player in Africa and of long-term interest to the United States.’.
+
+&emsp;“(4) The Democratic Republic of the Congo is 2,345,410 square miles (approximately 1/4 the size of the United States), lies at the heart of Africa, and touches every major region of sub-Saharan Africa. Therefore, a secure, peaceful, and prosperous Democratic Republic of the Congo would have a profound impact on progress throughout Africa.
+
+&emsp;“(5) The most recent war in the Democratic Republic of the Congo, which erupted in 1998, spawned some of the world's worst human rights atrocities and drew in six neighboring countries.
+
+&emsp;“(6) Despite the conclusion of a peace agreement and subsequent withdrawal of foreign forces in 2003, both the real and perceived presence of armed groups hostile to the Governments of Uganda, Rwanda, and Burundi continue to serve as a major source of regional instability and an apparent pretext for continued interference in the Democratic Republic of the Congo by its neighbors.
+
+&emsp;“(7) A mortality study completed in December 2004 by the International Rescue Committee found that 31,000 people were dying monthly and 3,800,000 people had died in the previous six years because of the conflict in the Democratic Republic of the Congo and resulting disintegration of the social service infrastructure, making this one of the deadliest conflicts since World War II.
+
+&emsp;“(8) In 2004, Amnesty International estimated that at least 40,000 women and girls were systematically raped and tortured in the Democratic Republic of the Congo since 1998, and nearly two-thirds of ongoing abuses against women and girls are perpetrated by members of the security forces, particularly the Forces Armes de la Republique Democratique du Congo (FARDC) and the Police Nationale Congolaise (PNC).
+
+&emsp;“(9) According to the Department of State, ‘returning one of Africa's largest countries \[the Democratic Republic of the Congo\] to full peace and stability willrequire significant United States investments in support of national elections, the reintegration of former combatants, the return and reintegration of refugees and \[internally displaced persons\], establishment of central government control over vast territories, and promotion of national reconciliation and good governance’.
+
+#### “SEC. 102. STATEMENT OF POLICY.
+
+“It is the policy of the United States—
+
+&emsp;“(1) to help promote, reinvigorate, and support the political process in the Democratic Republic of the Congo in order to press all parties in the Transitional National Government and the succeeding government to implement fully and to institutionalize mechanisms, including national and international election observers, fair and transparent voter registration procedures, and a significant civic awareness and public education campaign created for the July 30, 2006, elections and future elections in the Democratic Republic of the Congo, to ensure that elections are carried out in a fair and democratic manner;
+
+&emsp;“(2) to urge the Government of the Democratic Republic of the Congo to recognize and act upon its responsibilities to immediately bring discipline to its security forces, hold those individuals responsible for atrocities and other human rights violations, particularly the rape of women and girls as an act of war, accountable and bring such individuals to justice;
+
+&emsp;“(3) to help ensure that, once a stable national government is established in the Democratic Republic of the Congo, it is committed to multiparty democracy, open and transparent governance, respect for human rights and religious freedom, ending the violence throughout the country, promoting peace and stability with its neighbors, rehabilitating the national judicial system and enhancing the rule of law, combating corruption, instituting economic reforms to promote development, and creating an environment to promote private investment;
+
+&emsp;“(4) to assist the Government of the Democratic Republic of the Congo as it seeks to meet the basic needs of its citizens, including security, safety, and access to health care, education, food, shelter, and clean drinking water;
+
+&emsp;“(5) to support security sector reform by assisting the Government of the Democratic Republic of the Congo to establish a viable and professional national army and police force that respects human rights and the rule of law, is under effective civilian control, and possesses a viable presence throughout the entire country, provided the Democratic Republic of the Congo meets all requirements for United States military assistance under existing law;
+
+&emsp;“(6) to help expedite planning and implementation of programs associated with the disarmament, demobilization, repatriation, reintegration, and rehabilitation process in the Democratic Republic of the Congo;
+
+&emsp;“(7) to support efforts of the Government of the Democratic Republic of the Congo, the United Nations Peacekeeping Mission in the Democratic Republic of the Congo (MONUC), and other entities, as appropriate, to disarm, demobilize, and repatriate the Democratic Forces for the Liberation of Rwanda and other illegally armed groups;
+
+&emsp;“(8) to make all efforts to ensure that the Government of the Democratic Republic of the Congo—
+
+&emsp;&emsp;“(A) is committed to responsible and transparent management of natural resources across the country; and
+
+&emsp;&emsp;“(B) takes active measures—
+
+&emsp;&emsp;&emsp;“(i) to promote economic development;
+
+&emsp;&emsp;&emsp;“(ii) to hold accountable individuals who illegally exploit the country's natural resources; and
+
+&emsp;&emsp;&emsp;“(iii) to implement the Extractive Industries Transparency Initiative by enacting laws requiring disclosure and independent auditing of company payments and government receipts for natural resource extraction;
+
+&emsp;“(9) to promote a viable civil society and to enhance nongovernmental organizations and institutions, including religious organizations, the media, political parties, trade unions, and trade and business associations, that can act as a stabilizing force and effective check on the government;
+
+&emsp;“(10) to help rebuild and enhance infrastructure, communications, and other mechanisms that will increase the ability of the central government to manage internal affairs, encourage economic development, and facilitate relief efforts of humanitarian organizations;
+
+&emsp;“(11) to help halt the high prevalence of sexual abuse and violence perpetrated against women and children in the Democratic Republic of the Congo and mitigate the detrimental effects from acts of this type of violence by undertaking a number of health, education, and psycho-social support programs;
+
+&emsp;“(12) to work aggressively on a bilateral basis to urge governments of countries contributing troops to the United Nations Peacekeeping Mission in the Democratic Republic of the Congo (MONUC) to enact and enforce laws on trafficking in persons and sexual abuse that meet international standards, promote codes of conduct for troops serving as part of United Nations peacekeeping missions, and immediately investigate and punish citizens who are responsible for abuses in the Democratic Republic of the Congo;
+
+&emsp;“(13) to assist the Government of the Democratic Republic of the Congo as undertakes steps to—
+
+&emsp;&emsp;“(A) protect internally displaced persons and refugees in the Democratic Republic of the Congo and border regions from all forms of violence, including gender-based violence and other human rights abuses;
+
+&emsp;&emsp;“(B) address other basic needs of vulnerable populations with the goal of allowing these conflict-affected individuals to ultimately return to their homes; and
+
+&emsp;&emsp;“(C) assess the magnitude of the problem of orphans from conflict and HIV/AIDS in the Democratic Republic of the Congo, and work to establish a program of national support;
+
+&emsp;“(14) to engage with governments working to promote peace and security throughout the Democratic Republic of the Congo and hold accountable individuals, entities, and countries working to destabilize the country; and
+
+&emsp;“(15) to promote appropriate use of the forests of the Democratic Republic of the Congo in a manner that benefits the rural population in that country that depends on the forests for their livelihoods and protects national and environmental interests.
+
+#### “SEC. 103. BILATERAL ASSISTANCE TO THE DEMOCRATIC REPUBLIC OF THE CONGO.
+
+“(a)
+
+Funding for Fiscal Years 2006
+
+and 2007.—Of the amounts made available to carry out the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] (68 Stat. 454, chapter 469), and the Arms Export Control Act (22 U.S.C. 2751 et seq.) for fiscal year 2006 and 2007, at least $52,000,000 for each such fiscal year should be allocated for bilateral assistance programs in the Democratic Republic of the Congo.
+
+“(b)
+
+Future Year Funding.—It is the sense of Congress that the Department of State should submit budget requests in fiscal years 2008 and 2009 that contain increases in bilateral assistance for the Democratic Republic of the Congo that are appropriate if progress is being made, particularly cooperation by the Government of the Democratic Republic of the Congo, toward accomplishing the policy objectives described in section 102.
+
+“(c)
+
+Coordination With Other Donor Nations.—The United States should work with other donor nations, on a bilateral and multilateral basis, to increase international contributions to the Democratic Republic of the Congo and accomplish the policy objectives described in section 102.
+
+#### “SEC. 104. ACCOUNTABILITY FOR THE GOVERNMENT OF THE DEMOCRATIC REPUBLIC OF THE CONGO.
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the Government of the Democratic Republic of the Congo must be committed to achieving the policy objectives described in section 102 if the efforts of the United States and other members of the international community are to be effective in bringing relief, security, and democracy to the country;
+
+&emsp;“(2) the Government of the Democratic Republic of the Congo should immediately exercise control over and discipline its armed forces, stop the mass rapes at the hands of its armed forces, and hold those responsible for these acts accountable before an appropriate tribunal;
+
+&emsp;“(3) the Government of the Democratic Republic of the Congo, in collaboration with international aid agencies, should establish expert teams to assess the needs of the victims of rape and provide health, counseling, and social support services that such victims need; and
+
+&emsp;“(4) the international community, through the United Nations peacekeeping mission, humanitarian and development relief, and other forms of assistance, is providing a substantial amount of funding that is giving the Government of the Democratic Republic of the Congo an opportunity to make progress towards accomplishing the policy objectives described in section 102, but this assistance cannot continue in perpetuity.
+
+“(b)
+
+Termination of Assistance.—It is the sense of Congress that the Secretary of State should withhold assistance otherwise available under this Act if the Secretary determines that the Government of the Democratic Republic of the Congo is not making sufficient progress towards accomplishing the policy objectives described in section 102.
+
+#### “SEC. 105. WITHHOLDING OF ASSISTANCE.
+
+“The Secretary of State is authorized to withhold assistance made available under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), other than humanitarian, peacekeeping, and counterterrorism assistance, for a foreign country if the Secretary determines that the government of the foreign country is taking actions to destabilize the Democratic Republic of the Congo.
+
+#### “SEC. 106. REPORT ON PROGRESS TOWARD ACCOMPLISHING POLICY OBJECTIVES.
+
+“(a)
+
+Report Required.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2006\], the Comptroller General of the United States shall submit to Congress a report on the progress made toward accomplishing the policy objectives described in section 102.
+
+“(b)
+
+Contents.—The report required under subsection (a) shall include—
+
+&emsp;“(1) a description of any major impediments that prevent the accomplishment of the policy objectives described in section 102, including any destabilizing activities undertaken in the Democratic Republic of Congo by governments of neighboring countries;
+
+&emsp;“(2) an evaluation of United States policies and foreign assistance programs designed to accomplish such policy objectives; and
+
+&emsp;“(3) recommendations for—
+
+&emsp;&emsp;“(A) improving the policies and programs referred to in paragraph (2); and
+
+&emsp;&emsp;“(B) any additional bilateral or multilateral actions necessary to promote peace and prosperity in the Democratic Republic of the Congo.
+
+#### “SEC. 107. SPECIAL ENVOY FOR THE GREAT LAKES REGION.
+
+“Not later than 60 days after the date of the enactment of this Act \[Dec. 22, 2006\], the President should appoint a Special Envoy for the Great Lakes Region to help coordinate efforts to resolve the instability and insecurity in Eastern Congo.
+
+#### “TITLE II—MULTILATERAL ACTIONS TO ADDRESS URGENT NEEDS IN THE DEMOCRATIC REPUBLIC OF THE CONGO
+
+#### “SEC. 201. PROMOTION OF UNITED STATES POLICY TOWARD THE DEMOCRATIC REPUBLIC OF THE CONGO IN THE UNITED NATIONS SECURITY COUNCIL.
+
+“The United States should use its voice and vote in the United Nations Security Council—
+
+&emsp;“(1) to address exploitation at the United Nations Peacekeeping Mission in the Democratic Republic of the Congo (MONUC) by continuing to urge, when credible allegations exist, appropriate investigation of alleged perpetrators and, as necessary, prosecution of United Nations personnel responsible for sexual abuses in the Democratic Republic of the Congo;
+
+&emsp;“(2) to conclude at the earliest possible date a Memorandum of Understanding relating to binding codes of conduct and programs for the prevention of sexual abuse and trafficking in persons to be undertaken by the United Nations for all countries that contribute troops to MONUC, to include the assumption of personal liability for the provision of victims assistance and child support, as appropriate, by those who violate the codes of conduct;
+
+&emsp;“(3) to strengthen the authority and capacity of MONUC by—
+
+&emsp;&emsp;“(A) providing specific authority and obligation to prevent and effectively counter imminent threats;
+
+&emsp;&emsp;“(B) clarifying and strengthening MONUC's rules of engagement to enhance the protection of vulnerable civilian populations;
+
+&emsp;&emsp;“(C) enhancing the surveillance and intelligence-gathering capabilities available to MONUC;
+
+&emsp;&emsp;“(D) where consistent with United States policy, making available personnel, communications, and military assets that improve the effectiveness of robust peacekeeping, mobility, and command and control capabilities of MONUC; and
+
+&emsp;&emsp;“(E) providing MONUC with the authority and resources needed to effectively monitor arms trafficking and natural resource exploitation at key border posts and airfields in the eastern part of the Democratic Republic of the Congo;
+
+&emsp;“(4) to encourage regular visits of the United Nations Security Council to monitor the situation in the Democratic Republic of the Congo;
+
+&emsp;“(5) to ensure that the practice of recruiting and arming children in the Democratic Republic of the Congo is immediately halted pursuant to Security Council Resolutions 1460 (2003) and 1539 (2004);
+
+&emsp;“(6) to strengthen the arms embargo imposed pursuant to Security Council Resolution 1493 (2003) and ensure that violators are held accountable through appropriate measures, including the possible imposition of sanctions;
+
+&emsp;“(7) to allow for the more effective protection and monitoring of natural resources in the Democratic Republic of the Congo, especially in the eastern part of the country, and for public disclosure and independent auditing of natural resource revenues to help ensure transparent and accountable management of these revenues;
+
+&emsp;“(8) to press countries in the Congo region to help facilitate an end to the violence in the Democratic Republic of the Congo and promote relief, security, and democracy throughout the region; and
+
+&emsp;“(9) to encourage the United Nations Secretary-General to become more involved in completing the policy objectives described in paragraphs (1) and (2) of section 102 and ensure that recent fighting in North Kivu, which displaced over 150,000 people, as well as fighting in Ituri and other areas, does not create widespread instability throughout the country.
+
+#### “SEC. 202. INCREASING CONTRIBUTIONS AND OTHER HUMANITARIAN AND DEVELOPMENT ASSISTANCE THROUGH INTERNATIONAL ORGANIZATIONS.
+
+“(a)
+
+In General.—The President should instruct the United States permanent representative or executive director, as the case may be, to the United Nations voluntary agencies, including the World Food Program, the United Nations Development Program, and the United Nations High Commissioner for Refugees, and other appropriate international organizations to use the voice and vote of the United States to support additional humanitarian and development assistance for the Democratic Republic of the Congo in order to accomplish the policy objectives described in section 102.
+
+“(b)
+
+Support Contingent on Progress.—If the Secretary of State determines that the Government of the Democratic Republic of the Congo is not making sufficient progress towards accomplishing the policy objectives described in section 102, the President shall consider withdrawing United States support for the assistance described in subsection (a) when future funding decisions are considered.”
+
+#### Promotion of Democracy for Iran
+
+Pub. L. 109–293, title III, Sept. 30, 2006, 120 Stat. 1347, provided that:
+
+#### “SEC. 301. DECLARATION OF POLICY.
+
+“(a)
+
+In General.—Congress declares that it should be the policy of the United States—
+
+&emsp;“(1) to support efforts by the people of Iran to exercise self-determination over the form of government of their country; and
+
+&emsp;“(2) to support independent human rights and peaceful pro-democracy forces in Iran.
+
+“(b)
+
+Rule of Construction.—Nothing in this Act \[amending section 5318A of Title 31, Money and Finance, and enacting and amending provisions set out as notes under section 1701 of Title 50, War and National Defense\] shall be construed as authorizing the use of force against Iran.
+
+#### “SEC. 302. ASSISTANCE TO SUPPORT DEMOCRACY FOR IRAN.
+
+“(a)
+
+Authorization.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, the President is authorized to provide financial and political assistance (including the award of grants) to foreign and domestic individuals, organizations, and entities working for the purpose of supporting and promoting democracy for Iran. Such assistance may include the award of grants to eligible independent pro-democracy radio and television broadcasting organizations that broadcast into Iran.
+
+&emsp;“(2)
+
+Limitation on assistance.—In accordance with the rule of construction described in subsection (b) of section 301, none of the funds authorized under this section shall be used to support the use of force against Iran.
+
+“(b)
+
+Eligibility for Assistance.—Financial and political assistance under this section should be provided only to an individual, organization, or entity that—
+
+&emsp;“(1) officially opposes the use of violence and terrorism and has not been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189) at any time during the preceding four years;
+
+&emsp;“(2) advocates the adherence by Iran to nonproliferation regimes for nuclear, chemical, and biological weapons and materiel;
+
+&emsp;“(3) is dedicated to democratic values and supports the adoption of a democratic form of government in Iran;
+
+&emsp;“(4) is dedicated to respect for human rights, including the fundamental equality of women;
+
+&emsp;“(5) works to establish equality of opportunity for people; and
+
+&emsp;“(6) supports freedom of the press, freedom of speech, freedom of association, and freedom of religion.
+
+“(c)
+
+Funding.—The President may provide assistance under this section using—
+
+&emsp;“(1) funds available to the Middle East Partnership Initiative (MEPI), the Broader Middle East and North Africa Initiative, and the Human Rights and Democracy Fund; and
+
+&emsp;“(2) amounts made available pursuant to the authorization of appropriations under subsection (g).
+
+“(d)
+
+Notification.—Not later than 15 days before each obligation of assistance under this section, and in accordance with the procedures under section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–l), the President shall notify the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+“(e)
+
+Sense of Congress Regarding Diplomatic Assistance.—It is the sense of Congress that—
+
+&emsp;“(1) support for a transition to democracy in Iran should be expressed by United States representatives and officials in all appropriate international fora;
+
+&emsp;“(2) officials and representatives of the United States should—
+
+&emsp;&emsp;“(A) strongly and unequivocally support indigenous efforts in Iran calling for free, transparent, and democratic elections; and
+
+&emsp;&emsp;“(B) draw international attention to violations by the Government of Iran of human rights, freedom of religion, freedom of assembly, and freedom of the press.
+
+“(f)
+
+Duration.—The authority to provide assistance under this section shall expire on December 31, 2011.
+
+“(g)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of State such sums as may be necessary to carry out this section.”
+
 #### Syria Accountability and Lebanese Sovereignty Restoration
 
 Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
@@ -338,7 +610,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(4) Although the Department of State lists Syria as a state sponsor of terrorism and reports that Syria provides ‘safe haven and support to several terrorist groups’, fewer United States sanctions apply with respect to Syria than with respect to any other country that is listed as a state sponsor of terrorism.
 
-&emsp;“(5) Terrorist groups, including Hizballah, Hamas, Palestinian Islamic Jihad, the Popular Front for the Liberation of Palestine, and the Popular Front for the Liberation of Palestine—General Command, maintain offices, training camps, and other facilities on Syrian territory, and operate in areas of Lebanon occupied by the Syrian armed forces and receive supplies from Iran through Syria.
+&emsp;“(5) Terrorist groups, including Hizballah, Hamas, Palestinian Islamic Jihad, the Popular Front for the Liberation of Palestine, and the Popular Front for the Liberation of Palestine—General Command, maintain offices, training camps, and other facilitieson Syrian territory, and operate in areas of Lebanon occupied by the Syrian armed forces and receive supplies from Iran through Syria.
 
 &emsp;“(6) United Nations Security Council Resolution 520 (September 17, 1982) calls for ‘strict respect of the sovereignty, territorial integrity, unity and political independence of Lebanon under the sole and exclusive authority of the Government of Lebanon through the Lebanese Army throughout Lebanon’.
 
@@ -388,13 +660,13 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(29) According to Article 23(1) of the United Nations Charter, members of the United Nations are elected as nonpermanent members of the United Nations Security Council with ‘due regard being specially paid, in the first instance to the contribution of members of the United Nations to the maintenance of international peace and security and to other purposes of the Organization’.
 
-&emsp;“(30) Despite Article 23(1) of the United Nations Charter, Syria was elected on October 8, 2001, to a 2-year term as a nonpermanent member of the United Nations Security Council beginning January 1, 2002, and served as President of the Security Council during June 2002 and August 2003.
+&emsp;“(30) Despite Article 23(1) of the United Nations Charter, Syria was elected on October 8, 2001, to a 2-year term as a nonpermanent member of the United Nations Security Council beginning January 1, 2002,and served as President of the Security Council during June 2002 and August 2003.
 
 &emsp;“(31) On March 31, 2003, the Syrian Foreign Minister, Farouq al-Sharra, made the Syrian regime's intentions clear when he explicitly stated that ‘Syria's interest is to see the invaders defeated in Iraq’.
 
 &emsp;“(32) On April 13, 2003, Secretary of Defense Donald Rumsfeld charged that ‘busloads’ of Syrian fighters entered Iraq with ‘hundreds of thousands of dollars’ and leaflets offering rewards for dead American soldiers.
 
-&emsp;“(33) On September 16, 2003, the Under Secretary of State for Arms Control and International Security, John Bolton, appeared before the Subcommittee on the Middle East and Central Asia of the Committee on International Relations of the House of Representatives, and underscored Syria's ‘hostile actions’ toward coalition forces during Operation Iraqi Freedom. Under Secretary Bolton added that: ‘Syria allowed military equipment to flow into Iraq on the eve of and during the war. Syria permitted volunteers topass into Iraq to attack and kill our service members during the war, and is still doing so \* \* \* \[Syria's\] behavior during Operation Iraqi Freedom underscores the importance of taking seriously reports and information on Syria's WMD capabilities.’.
+&emsp;“(33) On September 16, 2003, the Under Secretary of State for Arms Control and International Security, John Bolton, appeared before the Subcommittee on the Middle East and Central Asia of the Committee on International Relations of the House of Representatives, and underscored Syria's ‘hostile actions’ toward coalition forces during Operation Iraqi Freedom. Under Secretary Bolton added that: ‘Syria allowed military equipment to flow into Iraq on the eve of and during the war. Syria permitted volunteers to pass into Iraq to attack and kill our service members during the war, and is still doing so \* \* \* \[Syria's\] behavior during Operation Iraqi Freedom underscores the importance of taking seriously reports and information on Syria's WMD capabilities.’.
 
 &emsp;“(34) During his appearance before the Committee on International Relations of the House of Representatives on September 25, 2003, Ambassador L. Paul Bremer, III, Administrator of the Coalition Provisional Authority in Iraq, stated that out of the 278 third-country nationals who were captured by coalition forces in Iraq, the ‘single largest group are Syrians’.
 
@@ -470,7 +742,7 @@ Penalties.—Until the President makes the determination that Syria meets all th
 
 “(b)
 
-Waiver.—The President may waive the application of subsection (a)(1), (a)(2), or both if the Presidentdetermines that it is in the national security interest of the United States to do so and submits to the appropriate congressional committees a report containing the reasons for the determination.
+Waiver.—The President may waive the application of subsection (a)(1), (a)(2), or both if the President determines that it is in the national security interest of the United States to do so and submits to the appropriate congressional committees a report containing the reasons for the determination.
 
 “(c)
 
@@ -516,9 +788,11 @@ Form.—The report submitted under subsection (a) shall be in unclassified form 
 
 “In this Act, the term ‘appropriate congressional committees’ means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.”
 
-\[For delegation of functions of President under section 5(b) of Pub. L. 108–175, set out above, see section 9 of Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751, set out as a note under section 1701 of Title 50, War and National Defense.\]
+\[For delegation of functions of President under section 5(b) of Pub. L. 108–175, set out above, see section 9 of Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751, listed in a table under section 1701 of Title 50, War and National Defense.\]
 
 #### Iraq Relief and Reconstruction Fund
+
+Pub. L. 109–234, title I, §1302(a), June 15, 2006, 120 Stat. 435, provided in part: “That notwithstanding section 2207(d) of Public Law 108–106 \[set out below\], requirements of section 2207 of Public Law 108–106 shall expire on October 1, 2008.”
 
 Pub. L. 108–106, title II, §§2207, 2208, Nov. 6, 2003, 117 Stat. 1231, as amended by section 574(a) of H.R. 4818, One Hundred Eighth Congress, as passed by the House of Representatives on July 15, 2004, and as enacted into law by Pub. L. 108–309, §135, Sept. 30, 2004, 118 Stat. 1143, provided that:
 
@@ -816,7 +1090,7 @@ Pub. L. 105–338, Oct. 31, 1998, 112 Stat. 3178, as amended by Pub. L. 108–11
 
 &emsp;“(10) On August 5, 1998, Iraq ceased all cooperation with UNSCOM, and subsequently threatened to end long-term monitoring activities by the International Atomic Energy Agency and UNSCOM.
 
-&emsp;“(11) On August 14, 1998, President Clinton signed Public Law 105–235 \[112 Stat. 1538\], which declared that ‘the Government of Iraq is in material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations.’.
+&emsp;“(11) On August 14, 1998, President Clinton signed Public Law 105–235 \[112 Stat. 1538\], which declaredthat ‘the Government of Iraq is in material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations.’.
 
 &emsp;“(12) On May 1, 1998, President Clinton signed Public Law 105–174 \[see Tables for classification\], which made $5,000,000 available for assistance to the Iraqi democratic opposition for such activities as organization, training, communication and dissemination of information, developing and implementing agreements among opposition groups, compiling information to support the indictment of Iraqi officials for war crimes, and for related purposes.
 
@@ -910,7 +1184,7 @@ Notification Requirement.—At least 15 days in advance of designating an Iraqi 
 
 #### “SEC. 8. RULE OF CONSTRUCTION.
 
-“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States Armed Forces (except as provided in section 4(a)(2)) in carrying out this Act.”
+“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States ArmedForces (except as provided in section 4(a)(2)) in carrying out this Act.”
 
 #### Designations Under the Iraq Liberation Act of 1998
 
@@ -928,7 +1202,7 @@ Determination of President of the United States, No. 99–13, Feb. 4, 1999, 64 F
 
 Memorandum for the Secretary of State
 
-Pursuant to the authority vested in me as President of the United States, including under section 5 of theIraq Liberation Act of 1998 (Public Law 105–338) (the “Act”) \[set out in a note above\], I hereby determine that each of the following groups is a democratic opposition organization and that each satisfies the criteria set forth in section 5(c) of the Act: the Iraqi National Accord, the Iraqi National Congress, the Islamic Movement of Iraqi Kurdistan, the Kurdistan Democratic Party, the Movement for Constitutional Monarchy, the Patriotic Union of Kurdistan, and the Supreme Council for the Islamic Revolution in Iraq. I hereby designate each of these organizations as eligible to receive assistance under section 4 of the Act.
+Pursuant to the authority vested in me as President of the United States, including under section 5 of the Iraq Liberation Act of 1998 (Public Law 105–338) (the “Act”) \[set out in a note above\], I hereby determine that each of the following groups is a democratic opposition organization and that each satisfies the criteria set forth in section 5(c) of the Act: the Iraqi National Accord, the Iraqi National Congress, the Islamic Movement of Iraqi Kurdistan, the Kurdistan Democratic Party, the Movement for Constitutional Monarchy, the Patriotic Union of Kurdistan, and the Supreme Council for the Islamic Revolution in Iraq. I hereby designate each of these organizations as eligible to receive assistance under section 4 of the Act.
 
 You are authorized and directed to report this determination and designation to the Congress and arrange for its publication in the Federal Register.
 
@@ -1018,7 +1292,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(5) War has caused untold economic and social damage to the countries of Africa. Food production is impossible in conflict areas, and famine often results. Widespread conflict has condemned many of Africa's children to lives of misery and, in certain cases, has threatened the existence of traditional African cultures.
 
-&emsp;“(6) Conflict and instability in Africa, particularly in large, potentially rich countries such as Angola, Sudan, and Zaire, deprive the global economy of resources and opportunities for trade and investment. Peace in these countries could make a significant contribution to global economic growth, while creating new opportunities for United States businesses.
+&emsp;“(6) Conflict and instability in Africa, particularly in large, potentially rich countries such as Angola, Sudan, and Zaire, deprive the global economy of resources and opportunities for trade and investment.Peace in these countries could make a significant contribution to global economic growth, while creating new opportunities for United States businesses.
 
 &emsp;“(7) Excessive military expenditures threaten political and economic stability in Africa while diverting scarce resources from development needs. Demobilization and other measures to reduce the size of African armies, and civilian control of the military under the rule of law are in the interest of international security and economic development.
 
@@ -1122,7 +1396,7 @@ Contents of Plan.—Such plan should include:
 
 &emsp;“(3) The type and amount of assistance that is planned to be provided to nongovernmental organizations that are engaged in mediation and reconciliation efforts in sub-Saharan Africa.
 
-&emsp;“(4) A description of proposed training programs for Africans in conflict resolution and peacekeeping under section 7, including a list of prospective participants and plans to expand such programs.
+&emsp;“(4) A description of proposed training programs for Africans in conflict resolution and peacekeepingunder section 7, including a list of prospective participants and plans to expand such programs.
 
 &emsp;“(5) The mechanisms to be used to coordinate interagency efforts to administer the plan.
 
@@ -1226,7 +1500,7 @@ Munitions export licenses.—(A) The issuance of licenses under section 38 of th
 
 &emsp;“(4)
 
-Crime control and detection instruments and equipment.—The issuance of any license under section 6(k) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(k)\] for the export to the People's Republic of China of any crime control or detection instruments or equipment shall be suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Crime control and detection instruments and equipment.—The issuance of any license under section 6(k) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(k)\] for the export to the People's Republic of China of any crime control or detection instruments or equipment shall be suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;“(5)
 
@@ -1236,7 +1510,7 @@ Export of satellites for launch by the people's republic of china.—Exports of 
 
 Nuclear cooperation with the people's republic of china.—(A) Any—
 
-&emsp;&emsp;“(i) application for a license under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] for the export to the People's Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[42 U.S.C. 2139a(c)\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
+&emsp;&emsp;“(i) application for a license under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] for the export to the People's Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[42 U.S.C. 2139a(c)\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
 
 &emsp;&emsp;“(ii) application for a license for the export to the People's Republic of China of any nuclear material, facilities, or components subject to the Agreement shall be suspended,
 
@@ -1258,7 +1532,7 @@ Nuclear cooperation with the people's republic of china.—(A) Any—
 
 &emsp;“(7)
 
-Liberalization of export controls.—(A) The President shall negotiate with the governments participating in the group known as the Coordinating Committee (COCOM) to suspend, on a multilateral basis, any liberalization by the Coordinating Committee of controls on exports of goods and technology to the People's Republic of China under section 5 of the Export Administration Act of 1979 \[50 App. U.S.C. 2404\], including—
+Liberalization of export controls.—(A) The President shall negotiate with the governments participating in the group known as the Coordinating Committee (COCOM) to suspend, on a multilateral basis, any liberalization by the Coordinating Committee of controls on exports of goods and technology to the People's Republic of China under section 5 of the Export Administration Act of 1979 \[50 U.S.C. App. 2404\], including—
 
 &emsp;&emsp;“(i) the implementation of bulk licenses for exports to the People's Republic of China; and
 
@@ -1316,7 +1590,7 @@ Pub. L. 100–456, div. A, title XIII, §1302, Sept. 29, 1988, 102 Stat. 2060, p
 
 Limitation.—The President may not use any funds appropriated to or for the use of any department, agency, or other entity of the United States for the purpose of providing assistance to the Panamanian Defense Force. The limitation in the preceding sentence shall cease to apply upon the submission by the President to Congress of a certification by the President—
 
-&emsp;“(1) that no armed forces of the Soviet Union, the Republic of Cuba, or the Republic of Nicaragua arepresent in the Republic of Panama (other than military attache�AE1s accredited to the Republic of Panama); and
+&emsp;“(1) that no armed forces of the Soviet Union, the Republic of Cuba, or the Republic of Nicaragua are present in the Republic of Panama (other than military attache�AE1s accredited to the Republic of Panama); and
 
 &emsp;“(2) that General Manuel Noriega has relinquished command of the Panamanian Defense Force and no longer holds any official position of leadership (either military or civilian) in the Republic of Panama.
 
@@ -1380,7 +1654,7 @@ Pub. L. 101–167, title V, §561, Nov. 21, 1989, 103 Stat. 1239, provided that:
 
 &emsp;“(2) an impartial investigation into allegations of illegal actions by members of the Panama Defense Force is being conducted;
 
-&emsp;“(3) a satisfactory agreement has been reached between the governing authorities and representatives of the opposition forces on conditions for free and fair elections; and
+&emsp;“(3) a satisfactory agreement has been reached between the governing authorities and representativesof the opposition forces on conditions for free and fair elections; and
 
 &emsp;“(4) freedom of the press and other constitutional guarantees, including due process of law, are being restored to the Panamanian people;
 
@@ -1390,7 +1664,7 @@ Pub. L. 101–167, title V, §561, Nov. 21, 1989, 103 Stat. 1239, provided that:
 
 “(c) For purposes of this section, the term ‘United States assistance’ means assistance of any kind which is provided by grant, sale, loan, lease, credit, guaranty, or insurance, or by any other means, by any agency or instrumentality of the United States Government, including—
 
-&emsp;“(1) assistance under the Foreign Assistance Act of 1961 \[see Short Title note above\] (including programsunder title IV of chapter 2 of part I of such Act \[22 U.S.C. 2191 et seq.\]);
+&emsp;“(1) assistance under the Foreign Assistance Act of 1961 \[see Short Title note above\] (including programs under title IV of chapter 2 of part I of such Act \[22 U.S.C. 2191 et seq.\]);
 
 &emsp;“(2) sales, credits, and guarantees under the Arms Export Control Act \[see Short Title note set out under section 2751 of this title\];
 
@@ -1456,7 +1730,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 &emsp;“(E) enter into such contracts (to such extent or in such amounts as are provided in appropriation Acts), cooperative agreements, or other transactions as may be necessary in the conduct of its functions under this section.
 
-“(3) The Administrator of the agency and the Secretary of State shall provide the Center with such relevant information, including procurement schedules,bids, and specifications with respect to development assistance programs funded by the agency, as may be requested by the Center in connection with the performance of its functions under this section.
+“(3) The Administrator of the agency and the Secretary of State shall provide the Center with such relevant information, including procurement schedules, bids, and specifications with respect to development assistance programs funded by the agency, as may be requested by the Center in connection with the performance of its functions under this section.
 
 “(4) There shall be a Director of the Center who shall be the chief executive officer of the Center. The Director shall be appointed by the Administrator of the agency.
 

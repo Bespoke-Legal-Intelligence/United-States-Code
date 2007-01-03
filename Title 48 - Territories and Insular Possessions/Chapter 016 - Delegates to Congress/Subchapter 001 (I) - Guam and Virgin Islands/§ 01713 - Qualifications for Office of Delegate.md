@@ -4,7 +4,7 @@ To be eligible for the Office of Delegate a candidate must—
 
 &emsp;(a) be at least twenty-five years of age on the date of the election,
 
-&emsp;(b) have been a citizen of the United States for at least seven years prior to the date of the election
+&emsp;(b) have been a citizen of the United States for at least seven years prior to the date of the election,
 
 &emsp;(c) be an inhabitant of the territory from which he is elected, and
 

@@ -1,0 +1,64 @@
+### §5134. Drawback
+
+#### (a) Rate of drawback
+
+In the case of distilled spirits on which the tax has been paid or determined, and which have been used as provided in this subpart, a drawback shall be allowed on each proof gallon at a rate of $1 less than the rate at which the distilled spirits tax has been paid or determined.
+
+#### (b) Claims
+
+Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with the Secretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
+
+#### (c) Allowance of drawback even where certain requirements not met
+
+#### (1) In general
+
+&emsp;No claim for drawback under this section shall be denied in the case of a failure to comply with any requirement imposed under this subpart or any rule or regulation issued thereunder upon the claimant's establishing to the satisfaction of the Secretary that distilled spirits on which the tax has been paid or determined were in fact used in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which were unfit for beverage purposes.
+
+#### (2) Penalty
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a failure to comply with any requirement imposed under this subpart or any rule or regulation issued thereunder, the claimant shall be liable for a penalty of $1,000 for each failure to comply unless it is shown that the failure to comply was due to reasonable cause.
+
+#### (B) Penalty may not exceed amount of claim
+
+&emsp;&emsp;The aggregate amount of the penalties imposed under subparagraph (A) for failures described in paragraph (1) in respect of any claim shall not exceed the amount of such claim (determined without regard to subparagraph (A)).
+
+#### (3) Penalty treated as tax
+
+&emsp;The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
+
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346; amended Pub. L. 90–615, §2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L.98–369, div. A, title IV, §452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 104–188, title I, §1704(t)(12), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–59, title XI, §11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
+
+#### Transfer of Section
+
+<i>Pub. L. 109–59, title XI, §11125(b)(3)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is redesignated section 5114 of this title.</i>
+
+#### Prior Provisions
+
+A prior section 5134, acts Aug. 16, 1954, ch. 736, 68A Stat. 623; Mar. 30, 1955, ch. 18, §3(b)(2), 69 Stat. 15; Mar. 29, 1956, ch. 115, §3(b)(2), 70 Stat. 67; Mar. 29, 1957, Pub. L. 85–12, §3(b)(2), 71 Stat. 10; June 30, 1958, Pub. L. 85–475, §3(b)(2), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+
+#### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–188 substituted “section 6665(a)” for “section 6662(a)”.
+
+1994—Subsec. (c)(1). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
+
+1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+1968—Subsec. (b). Pub. L. 90–615 substituted “6 months” for “3 months” in last sentence.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–369 applicable to products manufactured or produced after Oct. 31, 1984, see section 456(d) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Section 2(b) of Pub. L. 90–615 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims filed on or after the date of the enactment of this Act \[Oct. 21, 1968\].”
+

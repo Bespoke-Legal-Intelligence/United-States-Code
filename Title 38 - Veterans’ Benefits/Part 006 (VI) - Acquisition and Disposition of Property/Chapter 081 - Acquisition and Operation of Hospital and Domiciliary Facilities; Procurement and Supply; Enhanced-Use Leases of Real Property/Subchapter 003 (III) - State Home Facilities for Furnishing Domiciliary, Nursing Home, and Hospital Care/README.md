@@ -16,3 +16,4 @@
 - [&sect; 08135 - Applications with respect to projects; payments](%C2%A7%2008135%20-%20Applications%20with%20respect%20to%20projects%3B%20payments.md)
 - [&sect; 08136 - Recapture provisions](%C2%A7%2008136%20-%20Recapture%20provisions.md)
 - [&sect; 08137 - State control of operations](%C2%A7%2008137%20-%20State%20control%20of%20operations.md)
+- [&sect; 08138 - Treatment of certain health facilities as State homes](%C2%A7%2008138%20-%20Treatment%20of%20certain%20health%20facilities%20as%20State%20homes.md)

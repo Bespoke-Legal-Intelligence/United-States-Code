@@ -12,11 +12,15 @@ Equivalent authority.—The Board shall have the same authority with respect to 
 
 Title 11 petitions.—The Board may direct the conservator or receiver of a corporation organized under the provisions of this subchapter to file a petition pursuant to title 11, in which case, title 11 shall apply to the corporation in lieu of otherwise applicable Federal or State insolvency law.
 
-(Dec. 23, 1913, ch. 6, §25A(16), formerly §25(a) (par.), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; renumbered §25A (par.), Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat.2281; renumbered §25A(16), and amended Pub. L. 106–554, §1(a)(5) \[title I, §112(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–396.)
+(Dec. 23, 1913, ch. 6, §25A(16), formerly §25(a) (par.), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; renumbered §25A (par.), Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281; renumbered §25A(16), and amended Pub. L. 106–554, §1(a)(5) \[title I, §112(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–396.)
 
 #### References in Text
 
 This subchapter, referred to in text, was in the original “this section”, meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
+
+#### Codification
+
+Section is comprised of a part of section 25A, formerly section 25(a), which was added to act Dec. 23, 1913, ch. 6, by act Dec. 24, 1919.
 
 #### Amendments
 

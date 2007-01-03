@@ -4,13 +4,8 @@
 | :--- | ---: |
 | [8201\.](%C2%A7%2008201%20-%20Definitions.md) | Definitions. |
 | [8202\.](%C2%A7%2008202%20-%20Eligibility.md) | Eligibility. |
-| (a) | Loss. |
-| (b) | Limitation. |
 | [8203\.](%C2%A7%2008203%20-%20Assistance.md) | Assistance. |
 | [8204\.](%C2%A7%2008204%20-%20Limitations%20on%20assistance.md) | Limitations on assistance. |
-| (a) | Amount. |
-| (b) | Acres. |
-| (c) | Regulations. |
 | [8205\.](%C2%A7%2008205%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

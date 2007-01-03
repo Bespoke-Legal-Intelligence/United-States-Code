@@ -6,7 +6,7 @@ Section 355e–1, act June 19, 1956, ch. 407, title III, §302, as added and ame
 
 Section 355e–2, act June 19, 1956, ch. 407, title III, §303, as added July 19, 1966, Pub. L. 89–511, §9, 80 Stat. 314; amended Nov. 24, 1967, Pub. L. 90–154, §1, 81 Stat. 509; Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1669; Oct. 17, 1984, Pub. L. 98–480, title I, §§103(b)(1), 113(c), 98 Stat. 2237, 2242, required submission of annual program for interlibrary cooperation by any State desiring to receive grant from its allotment and specified contents of such program.
 
-Section 355e–3, act June 19, 1956, ch. 407, title III, §304, as added Oct. 17, 1984, Pub. L. 98–480, title I, §113(d), 98 Stat. 2242; amended Mar. 15, 1990, Pub. L. 101–254, §18, 104 Stat. 106, related to statewide resource sharing plans in State annual and long-term programs.
+Section 355e–3, act June 19, 1956, ch. 407, title III, §304, as added Oct. 17, 1984, Pub. L. 98–480, title I, §113(d), 98 Stat. 2242; amended Mar. 15, 1990, Pub. L. 101–254, §18,104 Stat. 106, related to statewide resource sharing plans in State annual and long-term programs.
 
 A prior section 355e–3, act June 19, 1956, ch. 407, title III, §304, as added July 19, 1966, Pub. L. 89–511, §9, 80 Stat. 314, set forth the criteria for approval by the Commissioner of State plans for interlibrary cooperation, prior to the general amendment of this chapter by Pub. L. 91–600, §2(b), Dec. 30, 1970, 84 Stat. 1660, effective after June 30, 1971.
 

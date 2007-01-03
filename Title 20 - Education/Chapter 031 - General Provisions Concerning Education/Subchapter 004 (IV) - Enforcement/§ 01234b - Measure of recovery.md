@@ -16,7 +16,7 @@
 
 &emsp;(B) made an expenditure or engaged in a practice after—
 
-&emsp;&emsp;(i) the State or local educational agency submitted to the Secretary, in good faith, awritten request for guidance with respect to the expenditure or practice at issue, and
+&emsp;&emsp;(i) the State or local educational agency submitted to the Secretary, in good faith, a written request for guidance with respect to the expenditure or practice at issue, and
 
 &emsp;&emsp;(ii) a Department official did not respond within 90 days of receipt by the Department of such request; or
 

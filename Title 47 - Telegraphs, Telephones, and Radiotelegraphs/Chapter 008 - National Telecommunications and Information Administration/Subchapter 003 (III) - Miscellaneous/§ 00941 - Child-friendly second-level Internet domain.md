@@ -60,7 +60,7 @@ The NTIA shall grant the initial registry the option periods available under the
 
 #### (2) Savings provision
 
-&emsp;Nothing in paragraph (1) shall be construed to affect the applicability of any other provision of title II of the Communications Act of 1934 \[47 U.S.C. 201 et seq.\] to the entities covered by subparagraph (A), (B), or (C) of paragraph (1).
+&emsp;Nothing in paragraph (1) shall be construed to affect the applicability of any other provision of title II of the Communications Act of1934 \[47 U.S.C. 201 et seq.\] to the entities covered by subparagraph (A), (B), or (C) of paragraph (1).
 
 #### (f) Education
 

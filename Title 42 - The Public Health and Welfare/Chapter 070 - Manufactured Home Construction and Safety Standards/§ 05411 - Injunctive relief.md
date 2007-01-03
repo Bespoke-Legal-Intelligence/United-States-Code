@@ -10,7 +10,7 @@ In any proceeding for criminal contempt for violation of an injunction or restra
 
 #### (c) Venue
 
-Actions under subsection (a) of this section and section 5410 of this title may be brought in the district wherein any act or transaction constituting the violation occurred, or in the district wherein the defendant is found or is an inhabitant or transacts business, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found.
+Actions under subsection (a) of this section and section 5410 of this title may be brought in the district wherein any act or transaction constituting the violation occurred, or in the district wherein the defendant is found or is an inhabitant or transacts business, and process insuch cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found.
 
 #### (d) Subpenas
 

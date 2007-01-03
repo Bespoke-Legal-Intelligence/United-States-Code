@@ -12,7 +12,7 @@ The allotment for any fiscal year for each State other than the jurisdictions of
 
 &emsp;(2) the total amount allotted to those jurisdictions for that fiscal year under subsection (a) of this section,
 
-> as the population of that State bears to the population of all the States (other than Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands) asdetermined by the Secretary (on the basis of the most recent data available from the Department of Commerce) and promulgated prior to the first day of the third month of the preceding fiscal year.
+> as the population of that State bears to the population of all the States (other than Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands) as determined by the Secretary (on the basis of the most recent data available from the Department of Commerce) and promulgated prior to the first day of the third month of the preceding fiscal year.
 
 #### (c) Appropriations
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 105–178 effective Oct. 1, 1998, see section 8401(c) of Pu
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 9135(a)(2) of Pub. L. 100–203 applicable with respect to fiscal years beginning on or after Oct. 1, 1988, see section 9135(c) of Pub. L. 100–203, set out as a note under section 621 of this title.
+Amendment by section 9135(a)(2) of Pub. L. 100–203 applicable with respect to fiscal years beginning on or after Oct. 1, 1988, see section 9135(c) of Pub. L. 100–203, set out as a note under section 623 of this title.
 
 #### Effective Date of 1982 Amendment
 

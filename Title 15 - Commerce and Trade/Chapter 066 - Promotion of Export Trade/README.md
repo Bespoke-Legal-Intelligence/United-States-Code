@@ -16,32 +16,13 @@
 | :--- | ---: |
 | [4011\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004011%20-%20Export%20trade%20promotion%20duties%20of%20Secretary%20of%20Commerce.md) | Export trade promotion duties of Secretary of Commerce. |
 | [4012\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004012%20-%20Application%20for%20issuance%20of%20certificate%20of%20review.md) | Application for issuance of certificate of review. |
-| (a) | Written form; limitation to export trade; compliance with regulations. |
-| (b) | Publication of notice of application; transmittal to Attorney General. |
 | [4013\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004013%20-%20Issuance%20of%20certificate.md) | Issuance of certificate. |
-| (a) | Requirements. |
-| (b) | Time for determination; specification in certificate. |
-| (c) | Expedited action. |
-| (d) | Notification of denial; request for reconsideration. |
-| (e) | Return of documents upon request after denial. |
-| (f) | Fraudulent procurement of certificate. |
 | [4014\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004014%20-%20Reporting%20requirement%3B%20amendment%20of%20certificate%3B%20revocation.md) | Reporting requirement; amendment of certificate; revocation. |
-| (a) | Report of changes in matters specified; application to amend; treatment as application for issuance. |
-| (b) | Request for compliance information; failure to provide; notice of noncompliance; revocation or modification; antitrust investigation; no civil investigative demand. |
 | [4015\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004015%20-%20Judicial%20review%3B%20admissibility.md) | Judicial review; admissibility. |
-| (a) | District court review of grants or denials; erroneous determination. |
-| (b) | Exclusive provision for review. |
-| (c) | Inadmissibility in antitrust proceedings. |
 | [4016\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004016%20-%20Protection%20conferred%20by%20certificate%20of%20review.md) | Protection conferred by certificate of review. |
-| (a) | Protection from civil or criminal antitrust actions. |
-| (b) | Special restraint of trade civil actions; time limitations; certificate governed conduct presumed in compliance; award of costs to successful defendant; suit by Attorney General. |
 | [4017\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004017%20-%20Guidelines.md) | Guidelines. |
-| (a) | Issuance; content. |
-| (b) | Administrative rulemaking requirements not applicable. |
 | [4018\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004018%20-%20Annual%20reports.md) | Annual reports. |
 | [4019\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004019%20-%20Disclosure%20of%20information.md) | Disclosure of information. |
-| (a) | Exemption. |
-| (b) | Protection of potentially harmful confidential information; exceptions: Congress; judicial or administrative proceedings; consent; necessity for determination; Federal law; regulations. |
 | [4020\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004020%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [4021\.](Subchapter%20002%20%28II%29%20-%20Export%20Trade%20Certificates%20of%20Review/%C2%A7%2004021%20-%20Definitions.md) | Definitions. |
 
@@ -52,18 +33,8 @@
 |  |  |
 | :--- | ---: |
 | [4051\.](Subchapter%20003%20%28III%29%20-%20Export%20Promotion%20Programs/%C2%A7%2004051%20-%20Requirement%20of%20prior%20authorization.md) | Requirement of prior authorization. |
-| (a) | General rule. |
-| (b) | Exception for later legislation authorizing obligations or expenditures. |
-| (c) | Provisions must be specifically superseded. |
-| (d) | “Export promotion program” defined. |
-| (e) | Printing outside United States. |
 | [4052\.](Subchapter%20003%20%28III%29%20-%20Export%20Promotion%20Programs/%C2%A7%2004052%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [4053\.](Subchapter%20003%20%28III%29%20-%20Export%20Promotion%20Programs/%C2%A7%2004053%20-%20Barter%20arrangements.md) | Barter arrangements. |
-| (a) | Report on status of Federal barter programs. |
-| (b) | Authorities of President. |
-| (c) | Other provisions of law not affected. |
-| (d) | Conventional markets not to be displaced by barters. |
-| (e) | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

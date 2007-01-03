@@ -18,7 +18,3 @@ Section 9(a) of the Atomic Energy Act of 1946, as heretofore amended, referred t
 
 Provisions similar to those comprising this section were contained in section 9 of act Aug. 1, 1946, ch. 724, 60 Stat. 765, which was classified to section 1809 of this title, prior to the complete amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

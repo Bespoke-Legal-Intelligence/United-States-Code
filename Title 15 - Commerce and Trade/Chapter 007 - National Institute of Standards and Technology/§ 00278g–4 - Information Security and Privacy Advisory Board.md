@@ -62,7 +62,7 @@ Subsec. (a)(3). Pub. L. 107–296, §1004(4), and Pub. L. 107–347, §304(4), a
 
 Subsec. (b)(1). Pub. L. 107–296, §1004(5), and Pub. L. 107–347, §304(5), amended par. (1) identically, substituting “information security” for “computer systems security”.
 
-Subsec. (b)(2). Pub. L. 107–347, §304(6), added par. (2) and struck out former par. (2) which read as follows: “to advise the Institute and the Secretary of Commerce on security and privacy issues pertaining to Federal computer systems; and”.
+Subsec. (b)(2). Pub. L. 107–347, §304(6), added par. (2) and struck out former par. (2) which read as follows:“to advise the Institute and the Secretary of Commerce on security and privacy issues pertaining to Federal computer systems; and”.
 
 Pub. L. 107–296, §1004(6), added par. (2) and struck out former par. (2), as added by Pub. L. 107–347, which read as follows: “to advise the Institute, the Secretary of Commerce, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under section 278g–3 of this title; and”.
 

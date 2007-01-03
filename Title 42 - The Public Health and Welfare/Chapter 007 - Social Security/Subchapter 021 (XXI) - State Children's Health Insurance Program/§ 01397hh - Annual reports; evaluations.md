@@ -60,7 +60,7 @@ The State shall—
 
 #### (3) Matters included
 
-&emsp;In addition to the elements described in subsection (b)(1) of this section, the evaluation conducted under this subsection shall include each of the following:
+&emsp;In addition to the elements described in subsection (b)(1) of this section, the evaluationconducted under this subsection shall include each of the following:
 
 &emsp;&emsp;(A) Surveys of the target population (enrollees, disenrollees, and individuals eligible for but not enrolled in the program under this subchapter).
 
@@ -78,7 +78,7 @@ The State shall—
 
 #### (5) Funding
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscalyear 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.
 
 #### (d) Inspector General audit and GAO report
 

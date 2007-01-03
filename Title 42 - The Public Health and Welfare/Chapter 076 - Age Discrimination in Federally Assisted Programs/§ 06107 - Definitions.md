@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(2) the term “Secretary” means the Secretary of Health and Human Services;
 
-&emsp;(3) the term “Federal department or agency” means any agency as defined in section 551 of title 5 and includes the United States Postal Service and the Postal Rate Commission; and
+&emsp;(3) the term “Federal department or agency” means any agency as defined in section 551 of title 5 and includes the United States Postal Service and the Postal Regulatory Commission; and
 
 &emsp;(4) the term “program or activity” means all of the operations of—
 
@@ -30,9 +30,11 @@ For purposes of this chapter—
 
 > &emsp;any part of which is extended Federal financial assistance.
 
-(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 107–110, title X, §1076(z), Jan. 8, 2002, 115 Stat. 2093.)
+(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 107–110, title X, §1076(z), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Amendments
+
+2006—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2002—Par. (4)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
 

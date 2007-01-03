@@ -20,6 +20,7 @@ This subchapter is comprised of Part A of title III of Pub. L. 91–513, Oct. 27
 - [&sect; 00958 - Registration requirements](%C2%A7%2000958%20-%20Registration%20requirements.md)
 - [&sect; 00959 - Possession, manufacture, or distribution of controlled substance](%C2%A7%2000959%20-%20Possession%2C%20manufacture%2C%20or%20distribution%20of%20controlled%20substance.md)
 - [&sect; 00960 - Prohibited acts A](%C2%A7%2000960%20-%20Prohibited%20acts%20A.md)
+- [&sect; 00960a - Foreign terrorist organizations, terrorist persons and groups](%C2%A7%2000960a%20-%20Foreign%20terrorist%20organizations%2C%20terrorist%20persons%20and%20groups.md)
 - [&sect; 00961 - Prohibited acts B](%C2%A7%2000961%20-%20Prohibited%20acts%20B.md)
 - [&sect; 00962 - Second or subsequent offenses](%C2%A7%2000962%20-%20Second%20or%20subsequent%20offenses.md)
 - [&sect; 00963 - Attempt and conspiracy](%C2%A7%2000963%20-%20Attempt%20and%20conspiracy.md)

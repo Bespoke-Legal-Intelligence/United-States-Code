@@ -1,0 +1,32 @@
+### §30308. Nonapplication
+
+(a)
+
+State Law.—This chapter does not affect the law of a State regulating the right to recover for death.
+
+(b)
+
+Internal Waters.—This chapter does not apply to the Great Lakes or waters within the territorial limits of a State.
+
+(Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1512.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30308
+
+46 App.:767.
+
+Mar. 30, 1920, ch. 111, §7, 41 Stat. 538.
+
+In subsection (a), the words “law of a State” are substituted for “any State statute” for consistency in the revised title. The words “regulating the right to recover for death” are substituted for “giving or regulating rights of action or remedies for death” to eliminate unnecessary words.
+
+In subsection (b), the words “or to any navigable waters in the Panama Canal Zone” are omitted because the Panama Canal Zone was transferred to the Republic of Panama.
+

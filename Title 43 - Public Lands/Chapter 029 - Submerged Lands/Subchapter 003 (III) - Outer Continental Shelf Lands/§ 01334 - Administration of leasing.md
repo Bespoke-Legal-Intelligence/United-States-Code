@@ -12,7 +12,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 &emsp;&emsp;&emsp;(i) continued activity pursuant to such lease or permit would probably cause serious harm or damage to life (including fish and other aquatic life), to property, to any mineral (in areas leased or not leased), to the national security or defense, or to the marine, coastal, or human environment;
 
-&emsp;&emsp;&emsp;(ii) the threat of harm or damage will not disappear or decrease to an acceptableextent within a reasonable period of time; and
+&emsp;&emsp;&emsp;(ii) the threat of harm or damage will not disappear or decrease to an acceptable extent within a reasonable period of time; and
 
 &emsp;&emsp;&emsp;(iii) the advantages of cancellation outweigh the advantages of continuing such lease or permit force;
 
@@ -104,7 +104,7 @@ The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360,
 
 1990—Subsec. (j). Pub. L. 101–380 added subsec. (j).
 
-1978—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for thesuspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
+1978—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for the suspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
 
 Subsec. (b). Pub. L. 95–372 redesignated as subsec. (b) provisions formerly contained in subsec. (a)(2) conditioning the issuance and continuation of leases or of assignments or other transfers of leases upon compliance with regulations, and struck out provisions that had set a penalty of a fine of not more than $2,000 or imprisonment for not more than six months or both for the knowing and willful violation of rules or regulations promulgated by the Secretary. See section 1350 of this title.
 
@@ -128,7 +128,7 @@ Functions of Secretary of the Interior to promulgate regulations under this subc
 
 #### West Delta Field
 
-Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(j)\], as added by this section, shall not be applicable with respect to Blocks 17 and 18 of the West Delta Field offshore Louisiana.”
+Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer Continental Shelf Lands Act \[43U.S.C. 1334(j)\], as added by this section, shall not be applicable with respect to Blocks 17 and 18 of the West Delta Field offshore Louisiana.”
 
 #### Key Largo Coral Reef Preserve
 

@@ -44,7 +44,3 @@ Section 10302 requires the master to make a shipping agreement with each crew me
 
 Subsecs. (c), (d). Pub. L. 103–206, §401(2), added subsecs. (c) and (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10303, 10304, 10305, 10306, 10307, 10308, 10312, 10313, 10314, 10315, 10318 of this title.
-

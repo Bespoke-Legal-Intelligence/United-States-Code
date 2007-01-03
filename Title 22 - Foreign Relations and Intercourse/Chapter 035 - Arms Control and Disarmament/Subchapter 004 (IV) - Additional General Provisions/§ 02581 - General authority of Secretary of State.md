@@ -86,7 +86,7 @@ Subsec. (j). Pub. L. 105–277, §1223(13)(F), redesignated subsec. (j) as (i).
 
 “(2) the Director shall make adequate provision for administrative review of any determination to suspend or dismiss any officer or employee appointed under the foregoing exception; and
 
-“(3) an officer or employee of the Agency serving under a career or career conditional appointment on August 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normally granted such officer or employee in the competitive service;”.
+“(3) an officer or employee of the Agency serving under a career or career conditional appointment onAugust 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normally granted such officer or employee in the competitive service;”.
 
 1991—Subsecs. (h) to (j). Pub. L. 102–228 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 

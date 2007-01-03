@@ -7,8 +7,6 @@
 | [4403\.](%C2%A7%2004403%20-%20Duties%20of%20Secretary%20of%20Agriculture.md) | Duties of Secretary of Agriculture. |
 | [4404\.](%C2%A7%2004404%20-%20Duties%20of%20Secretary%20of%20State.md) | Duties of Secretary of State. |
 | [4405\.](%C2%A7%2004405%20-%20Fees%20and%20charges.md) | Fees and charges. |
-| (a) | Testing or inspection. |
-| (b) | Issuance of certificates of compliance. |
 | [4406\.](%C2%A7%2004406%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

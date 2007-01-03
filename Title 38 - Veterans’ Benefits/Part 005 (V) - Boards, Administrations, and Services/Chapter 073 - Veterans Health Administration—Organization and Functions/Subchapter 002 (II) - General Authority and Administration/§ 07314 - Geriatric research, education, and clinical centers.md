@@ -68,7 +68,7 @@ Subsecs. (f), (g). Pub. L. 102–585, §521(2), redesignated subsecs. (e) and (f
 
 #### Effective Date of 1994 Amendment
 
-Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that section is effective Aug. 6,1991, and as if included in the enactment of Pub. L. 102–83.
+Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
 
 #### Congressional Declaration of Purpose in Creating Centers of Geriatric Research, Education, and Clinical Activities
 

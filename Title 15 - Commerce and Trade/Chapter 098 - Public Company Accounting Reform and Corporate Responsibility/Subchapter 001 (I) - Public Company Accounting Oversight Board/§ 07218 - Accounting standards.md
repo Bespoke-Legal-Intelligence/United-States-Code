@@ -8,7 +8,7 @@ The Commission shall promulgate such rules and regulations to carry out section 
 
 #### (c) No effect on Commission powers
 
-Nothing in this Act, including this section and the amendment made by this section, shall be construed to impair or limit the authority of the Commission to establish accounting principles or standards for purposes of enforcement of the securities laws.
+Nothing in this Act, including this section and the amendment made by this section, shall be construed to impair or limit the authority ofthe Commission to establish accounting principles or standards for purposes of enforcement of the securities laws.
 
 #### (d) Study and report on adopting principles-based accounting
 

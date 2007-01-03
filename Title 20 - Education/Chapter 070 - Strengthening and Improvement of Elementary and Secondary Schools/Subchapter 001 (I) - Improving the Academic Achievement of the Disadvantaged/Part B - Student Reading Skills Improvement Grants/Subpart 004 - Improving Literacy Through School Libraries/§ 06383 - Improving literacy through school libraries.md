@@ -72,7 +72,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 &emsp;Each State educational agency desiring assistance under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall require. The application shall contain a description of—
 
-&emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies inmeeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
+&emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies in meeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
 
 &emsp;&emsp;(B) the standards and techniques the State educational agency will use to evaluate the quality and impact of activities carried out under this section by eligible local educational agencies to determine the need for technical assistance and whether to continue to provide additional funding to the agencies under this section.
 
@@ -108,7 +108,7 @@ Funds under this section may be used to—
 
 #### (1) Local reports
 
-&emsp;Each eligible local educational agency that receives funds under this section for a fiscal year shall report to the Secretary or State educational agency, as appropriate, on how the funding was used and the extent to which the availability of, the access to, and the use of, up-to-date school library media resources in the elementary schools and secondary schools served by the eligible local educational agency was increased.
+&emsp;Each eligible local educational agency that receives funds under this section for a fiscalyear shall report to the Secretary or State educational agency, as appropriate, on how the funding was used and the extent to which the availability of, the access to, and the use of, up-to-date school library media resources in the elementary schools and secondary schools served by the eligible local educational agency was increased.
 
 #### (2) State report
 

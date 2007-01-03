@@ -32,7 +32,7 @@ Section 1 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that:
 
 #### Separability
 
-Section 17 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that: “If any provision of this Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Section 17 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that: “If any provision of this Act\[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 #### Severance Package for Helium Operations Employees
 

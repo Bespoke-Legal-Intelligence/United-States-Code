@@ -49,19 +49,9 @@
 | [343\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000343%20-%20Appropriations%3B%20distribution%3B%20allotment%20and%20apportionment%3B%20Secretary%20of%20Agriculture%3B%20matching%20funds%3B%20cooperative%20extension%20activities.md) | Appropriations; distribution; allotment and apportionment; Secretary of Agriculture; matching funds; cooperative extension activities. |
 | 343a to 343g. Repealed or Transferred. |  |
 | [344\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000344%20-%20Ascertainment%20of%20entitlement%20of%20State%20to%20funds%3B%20time%20and%20manner%20of%20payment%3B%20State%20reporting%20requirements%3B%20plans%20of%20work.md) | Ascertainment of entitlement of State to funds; time and manner of payment; State reporting requirements; plans of work. |
-| (a) | Ascertainment of entitlement. |
-| (b) | Time and manner of payment; related reports. |
-| (c) | Requirements related to plan of work. |
-| (d) | Extension protocols. |
-| (e) | Treatment of plans of work for other purposes. |
 | [345\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000345%20-%20Replacement%20of%20diminished%2C%20lost%20or%20misapplied%20funds%3B%20restrictions%20on%20use%3B%20reports%20of%20colleges.md) | Replacement of diminished, lost or misapplied funds; restrictions on use; reports of colleges. |
 | 346, 347. | Repealed. |
 | [347a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000347a%20-%20Disadvantaged%20agricultural%20areas.md) | Disadvantaged agricultural areas. |
-| (a) | Congressional findings. |
-| (b) | Appropriation. |
-| (c) | Assistance. |
-| (d) | Allocation of funds. |
-| (e) | Appropriation as additional; limitation on amount. |
 | [348\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000348%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [349\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000349%20-%20%E2%80%9CState%E2%80%9D%20defined.md) | “State” defined. |
 

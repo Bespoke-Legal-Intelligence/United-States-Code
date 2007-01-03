@@ -94,7 +94,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 In awarding grants under this section, the Secretary—
 
-&emsp;(1) shall accord priority to applicants that demonstrate the extent of unmet need in the community involved for a more coordinated system of care; and
+&emsp;(1) shall accord priority to applicants that demonstrate the extent of unmet need in thecommunity involved for a more coordinated system of care; and
 
 &emsp;(2) may accord priority to applicants that best promote the objectives of this section, taking into consideration the extent to which the application involved—
 
@@ -184,7 +184,7 @@ In awarding grants under this section, the Secretary—
 
 #### (g) Maintenance of effort
 
-With respect to activities for which a grant under this section is authorized, the Secretary may award such a grant only if the applicant forthe grant, and each of the participating providers, agree that the grantee and each such provider will maintain its expenditures of non-Federal funds for such activities at a level that is not less than the level of such expenditures during the fiscal year immediately preceding the fiscal year for which the applicant is applying to receive such grant.
+With respect to activities for which a grant under this section is authorized, the Secretary may award such a grant only if the applicant for the grant, and each of the participating providers, agree that the grantee and each such provider will maintain its expenditures of non-Federal funds for such activities at a level that is not less than the level of such expenditures during the fiscal year immediately preceding the fiscal year for which the applicant is applying to receive such grant.
 
 #### (h) Technical assistance
 

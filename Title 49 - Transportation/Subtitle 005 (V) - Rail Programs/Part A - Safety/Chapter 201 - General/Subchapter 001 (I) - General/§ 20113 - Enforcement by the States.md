@@ -52,7 +52,7 @@ Oct. 16, 1970, Pub. L. 91–458, §207(a), 84 Stat. 974; Nov. 2, 1978, Pub. L. 9
 
 Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §210(c) (related to actions by States); added Oct. 10, 1980, Pub. L. 96–423, §9(b), 94 Stat. 1815.
 
-In subsection (a), the language about jurisdiction in 45:439(a) (related to actions by States) is omitted for the reasons explained in the revision note for section 20112(a) of the revised title.
+In subsection (a), the language about jurisdiction in 45:439(a) (related to actions by States) is omitted forthe reasons explained in the revision note for section 20112(a) of the revised title.
 
 In subsection (b), the word “impose” is substituted for “assess” for consistency. The words “the authority may bring a civil action in an appropriate district court of the United States” are substituted for “agency may apply to the United States district court” for consistency in the revised title and with other titles of the United States Code. The words “included in or made applicable to such rule, regulation, order, or standard” are omitted as surplus.
 

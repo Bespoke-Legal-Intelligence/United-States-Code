@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 87–728 authorized farm units which are not suitable for s
 
 #### Amendment of Contracts, Instruments, Rules, Regulations, Forms, and Procedures
 
-Section 4 of Pub. L. 87–728 provided that: “The Secretary is hereby authorized and directed to amend or modify all existing contracts, instruments, rules, regulations, forms, and procedures entered into or issuedunder the Columbia Basin Project Act, as amended (16 U.S.C., chap. 12D) \[sections 835 and 835a to 835c–5 of this title\] prior to the date of enactment of this act \[Oct. 1, 1962\] to conform to the provisions of this Act \[enacting section 835–1 of this title, amending sections 835c, 835c–1, 835–2, 835c–4 of this title, repealing sections 835a, 835b, 835c–3, and 835c–5 of this title, and enacting provisions set out as notes under sections 835a and 835b of this title\].”
+Section 4 of Pub. L. 87–728 provided that: “The Secretary is hereby authorized and directed to amend or modify all existing contracts, instruments, rules, regulations, forms, and procedures entered into or issued under the Columbia Basin Project Act, as amended (16 U.S.C., chap. 12D) \[sections 835 and 835a to 835c–5 of this title\] prior to the date of enactment of this act \[Oct. 1, 1962\] to conform to the provisions of this Act \[enacting section 835–1 of this title, amending sections 835c, 835c–1, 835–2, 835c–4 of this title, repealing sections 835a, 835b, 835c–3, and 835c–5 of this title, and enacting provisions set out as notes under sections 835a and 835b of this title\].”
 
 #### Amendment of Contracts, Deeds or Documents by Secretary
 
@@ -76,7 +76,7 @@ Sec. 3. \[
 
 Manner of Disposal Priority of Purchasers; Terms of Sale\]. (a) All land authorized to be sold under section 2 of this Act which, when offered for sale, is occupied by improvements owned by the United States shall be sold with the improvements in place.
 
-“(b) Of the property authorized to be sold under section 2 of this Act, lands in the town area occupied by dwelling units shall be sold in accordance with the following terms and conditions:
+“(b) Of the property authorized to be sold under section 2 of this Act, lands in the town area occupied bydwelling units shall be sold in accordance with the following terms and conditions:
 
 “(1) First priority to purchase shall be given to the tenant of the United States in the town area who occupies the land and dwelling unit to be sold. The land and dwelling unit shall be offered at the appraised value as established under section 5 less any applicable discounts under this Act. This right of priority shall expire unless a deposit of earnest money in an amount to be fixed by the Secretary is received by him before the expiration of sixty days after the date on which the property has been offered for sale, and the right of priority shall be deemed abandoned unless within an additional one hundred and eighty days the prospective purchaser shall have signed a contract to purchase the property.
 
@@ -86,7 +86,7 @@ Manner of Disposal Priority of Purchasers; Terms of Sale\]. (a) All land authori
 
 “(3) Property not sold under (1) or (2) shall be opened to bids from the general public and shall be sold to the highest responsible bidder.
 
-“(c)(1) Of the property authorized to be sold under section 2 of this Act, land in the town area occupied by privately owned improvements shall be offered for sale to the owner of such improvements at the appraised value as established under section 5 less applicable discounts under this Act. This preference right shall expire unless a deposit of earnest money in an amount to be fixed by the Secretary is received by the Secretarybefore the expiration of sixty days after the date on which the property has been offered for sale, and thereafter the purchase shall be concluded in the same manner as provided under subsection (b)(1) of this section.
+“(c)(1) Of the property authorized to be sold under section 2 of this Act, land in the town area occupied by privately owned improvements shall be offered for sale to the owner of such improvements at the appraised value as established under section 5 less applicable discounts under this Act. This preference right shall expire unless a deposit of earnest money in an amount to be fixed by the Secretary is received by the Secretary before the expiration of sixty days after the date on which the property has been offered for sale, and thereafter the purchase shall be concluded in the same manner as provided under subsection (b)(1) of this section.
 
 “(2) Land not purchased by the owner of the improvements (except church or hospital improvements) thereon under (1) shall be made available for sale for a period of thirty days to those eligible for purchase under subsection (f) of this section, and thereafter shall be opened to bids from the general public and sold to the highest responsible bidder.
 

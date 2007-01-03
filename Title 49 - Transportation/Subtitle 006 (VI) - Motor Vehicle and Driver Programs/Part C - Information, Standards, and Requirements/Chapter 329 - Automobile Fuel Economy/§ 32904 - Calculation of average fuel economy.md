@@ -42,13 +42,13 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(i) A manufacturer that began assembling automobiles in Mexico before model year 1992 may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election.
 
-&emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
+&emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by thatmanufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
 
 &emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assembles automobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
 
 &emsp;(iv) For a manufacturer that does not assemble automobiles in the United States, Canada, or Mexico, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994.
 
-&emsp;(v) For a manufacturer described in clause (i) or (iii) of this subparagraph that does not make an election within the specified period, subparagraph (A) of this paragraph applies toall automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 2004.
+&emsp;(v) For a manufacturer described in clause (i) or (iii) of this subparagraph that does not make an election within the specified period, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 2004.
 
 (C) The Secretary of Transportation shall prescribe reasonable procedures for elections under subparagraph (B) of this paragraph.
 
@@ -82,7 +82,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (7)(A) A person adversely affected by a decision of the Secretary of Transportation granting or denying an exemption may file, not later than 30 days after publication of the notice of the decision, a petition for review in the United States Court of Appeals for the District of Columbia Circuit. That court has exclusive jurisdiction to review the decision and to affirm, remand, or set aside the decision under section 706(2)(A)–(D) of title 5.
 
-(B) A judgment of the court under this subparagraph may be reviewed by the Supreme Court under section 1254 of title 28. Application for review by the Supreme Court must be made not later than 30 days after entry of the court's judgment.
+(B) A judgment of the court under this subparagraph may be reviewed by the SupremeCourt under section 1254 of title 28. Application for review by the Supreme Court must be made not later than 30 days after entry of the court's judgment.
 
 (C) A decision of the Secretary of Transportation on a petition for an exemption under this paragraph may be reviewed administratively or judicially only as provided in this paragraph.
 
@@ -94,7 +94,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (c)
 
-Testing and Calculation Procedures.—The Administrator shall measure fuel economy for each model and calculate average fuel economy for a manufacturer under testing and calculation procedures prescribed by the Administrator. However, except under section 32908 of this title, the Administrator shall use the same procedures for passenger automobiles the Administrator used for model year 1975 (weighted 55 percent urban cycle and 45 percent highway cycle), or procedures that give comparable results. A measurement of fuel economy or a calculation of average fuel economy (except undersection 32908) shall be rounded off to the nearest .1 of a mile a gallon. The Administrator shall decide on the quantity of other fuel that is equivalent to one gallon of gasoline. To the extent practicable, fuel economy tests shall be carried out with emissions tests under section 206 of the Clean Air Act (42 U.S.C. 7525).
+Testing and Calculation Procedures.—The Administrator shall measure fuel economy for each model and calculate average fuel economy for a manufacturer under testing and calculation procedures prescribed by the Administrator. However, except under section 32908 of this title, the Administrator shall use the same procedures for passenger automobiles the Administrator used for model year 1975 (weighted 55 percent urban cycle and 45 percent highway cycle), or procedures that give comparable results. A measurement of fuel economy or a calculation of average fuel economy (except under section 32908) shall be rounded off to the nearest .1 of a mile a gallon. The Administrator shall decide on the quantity of other fuel that is equivalent to one gallon of gasoline. To the extent practicable, fuel economy tests shall be carried out with emissions tests under section 206 of the Clean Air Act (42 U.S.C. 7525).
 
 (d)
 
@@ -258,5 +258,5 @@ Subsec. (b)(7), (8). Pub. L. 103–429, §6(36)(A), redesignated pars. (5) and (
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over mattersrelating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

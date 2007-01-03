@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in aMedicare+Choice payment area for a month, in an amount determined as follows:
+&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount determined as follows:
 
 #### (i) Payment before 2006
 
@@ -32,7 +32,17 @@
 
 #### (C) Demographic adjustment, including adjustment for health status
 
-&emsp;&emsp;The Secretary shall adjust the payment amount under subparagraph (A)(i) and the amount specified under subparagraph (B)(i), (B)(ii), and (B)(iii) for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, including adjustment for health status under paragraph (3), so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such adjustment factors if such changes will improve the determination of actuarial equivalence.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall adjust the payment amount under subparagraph (A)(i) and the amount specified under subparagraph (B)(i), (B)(ii), and (B)(iii) for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, including adjustment for health status under paragraph (3), so as to ensureactuarial equivalence. The Secretary may add to, modify, or substitute for such adjustment factors if such changes will improve the determination of actuarial equivalence.
+
+#### (ii) Application during phase-out of budget neutrality factor
+
+&emsp;&emsp;&emsp;For 2006 through 2010:
+
+&emsp;&emsp;&emsp;&emsp;(I) In applying the adjustment under clause (i) for health status to payment amounts, the Secretary shall ensure that such adjustment reflects changes in treatment and coding practices in the fee-for-service sector and reflects differences in coding patterns between Medicare Advantage plans and providers under part <sup>1</sup> A and B to the extent that the Secretary has identified such differences.
+
+&emsp;&emsp;&emsp;&emsp;(II) In order to ensure payment accuracy, the Secretary shall conduct an analysis of the differences described in subclause (I). The Secretary shall complete such analysis by a date necessary to ensure that the results of such analysis are incorporated into the risk scores only for 2008, 2009, and 2010. In conducting such analysis, the Secretary shall use data submitted with respect to 2004 and subsequent years, as available.
 
 #### (D) Separate payment for Federal drug subsidies
 
@@ -70,13 +80,13 @@
 
 #### (H) Special rule for end-stage renal disease
 
-&emsp;&emsp;The Secretary shall establish separate rates of payment to a Medicare+Choice organization with respect to classes of individuals determined to have end-stage renal disease and enrolled in a Medicare+Choice plan of the organization. Such rates of payment shall be actuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003. In accordancewith regulations, the Secretary shall provide for the application of the seventh sentence of section 1395rr(b)(7) of this title to payments under this section covering the provision of renal dialysis treatment in the same manner as such sentence applies to composite rate payments described in such sentence. In establishing such rates, the Secretary shall provide for appropriate adjustments to increase each rate to reflect the demonstration rate (including the risk adjustment methodology associated with such rate) of the social health maintenance organization end-stage renal disease capitation demonstrations (established by section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993), and shall compute such rates by taking into account such factors as renal treatment modality, age, and the underlying cause of the end-stage renal disease. The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.
+&emsp;&emsp;The Secretary shall establish separate rates of payment to a Medicare+Choice organization with respect to classes of individuals determined to have end-stage renal disease and enrolled in a Medicare+Choice plan of the organization. Such rates of payment shall be actuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003. In accordance with regulations, the Secretary shall provide for the application of the seventh sentence of section 1395rr(b)(7) of this title to payments under this section covering the provision of renal dialysis treatment in the same manner as such sentence applies to composite rate payments described in such sentence. In establishing such rates, the Secretary shall provide for appropriate adjustments to increase each rate to reflect the demonstration rate (including the risk adjustment methodology associated with such rate) of the social health maintenance organization end-stage renal disease capitation demonstrations (established by section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993), and shall compute such rates by taking into account such factors as renal treatment modality, age, and the underlying cause of the end-stage renal disease. The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.
 
 #### (2) Adjustment to reflect number of enrollees
 
 #### (A) In general
 
-&emsp;&emsp;The amount of payment under this subsection may be retroactively adjusted to take into account any difference between the actual number of individuals enrolled with an organization under this part and the number of such individuals estimated to be so enrolled in determining the amount of the advance payment.
+&emsp;&emsp;The amount of payment under this subsection may be retroactively adjusted totake into account any difference between the actual number of individuals enrolled with an organization under this part and the number of such individuals estimated to be so enrolled in determining the amount of the advance payment.
 
 #### (B) Special rule for certain enrollees
 
@@ -126,7 +136,7 @@
 
 #### (I) Exemption from phase-in
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), the Secretary shall fully implement the risk adjustment methodology described in clause (i) with respect to each individual who has had a qualifying congestive heart failure inpatient diagnosis (as determined by the Secretary under such risk adjustment methodology) during the period beginning on July 1, 1999, and ending on June 30, 2000, and who is enrolled in a coordinated care plan that is the onlycoordinated care plan offered on January 1, 2001, in the service area of the individual.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), the Secretary shall fully implement the risk adjustment methodology described in clause (i) with respect to each individual who has had a qualifying congestive heart failure inpatient diagnosis (as determined by the Secretary under such risk adjustment methodology) during the period beginning on July 1, 1999, and ending on June 30, 2000, and who is enrolled in a coordinated care plan that is the only coordinated care plan offered on January 1, 2001, in the service area of the individual.
 
 #### (II) Period of application
 
@@ -150,7 +160,7 @@
 
 #### (A) For 2005
 
-&emsp;&emsp;The Secretary shall determine, and shall announce (in a manner intended to provide notice to interested parties), not later than the second Monday in May of 2004, with respect to each MA payment area, the following:
+&emsp;&emsp;The Secretary shall determine, and shall announce (in a manner intended to providenotice to interested parties), not later than the second Monday in May of 2004, with respect to each MA payment area, the following:
 
 #### (i) MA capitation rates
 
@@ -200,7 +210,7 @@
 
 &emsp;&emsp;(B) The expenditures described in subparagraph (A) reduced by the best estimate of the expenditures (such as graduate medical education and disproportionate share hospital payments) not related to the payment of claims.
 
-&emsp;&emsp;(C) The average risk factor for the covered population based on diagnoses reported for medicare inpatient services, using the same methodology as is expected to be applied inmaking payments under subsection (a) of this section.
+&emsp;&emsp;(C) The average risk factor for the covered population based on diagnoses reported for medicare inpatient services, using the same methodology as is expected to be applied in making payments under subsection (a) of this section.
 
 &emsp;&emsp;(D) Such average risk factor based on diagnoses for inpatient and other sites of service, using the same methodology as is expected to be applied in making payments under subsection (a) of this section.
 
@@ -294,7 +304,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the area-specific Medicare+Choice capitation rate under subparagraph (A) for a year (beginning with 1998), the annual per capita rate of payment for 1997 determined under section 1395mm(a)(1)(C) of this title shall be adjusted to exclude from the rate the applicable percent (specified in clause (ii)) of the payment adjustments described in subparagraph (C).
+&emsp;&emsp;&emsp;In determining the area-specific Medicare+Choice capitation rate under subparagraph (A) for a year (beginningwith 1998), the annual per capita rate of payment for 1997 determined under section 1395mm(a)(1)(C) of this title shall be adjusted to exclude from the rate the applicable percent (specified in clause (ii)) of the payment adjustments described in subparagraph (C).
 
 #### (ii) Applicable percent
 
@@ -494,7 +504,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;(1) election under this part of a Medicare+�Choice plan offered by a Medicare+Choice organization—
 
-&emsp;&emsp;(A) payment for such services until the date of the individual's discharge shall be made under this subchapter through the Medicare+Choice plan or the original medicare fee-for-service program option described in section 1395w–21(a)(1)(A) of this title (as the case may be) elected before the election with such organization,
+&emsp;&emsp;(A) payment for such services until the date of the individual's discharge shall be made under this subchapter through theMedicare+Choice plan or the original medicare fee-for-service program option described in section 1395w–21(a)(1)(A) of this title (as the case may be) elected before the election with such organization,
 
 &emsp;&emsp;(B) the elected organization shall not be financially responsible for payment for such services until the date after the date of the individual's discharge, and
 
@@ -560,23 +570,141 @@ For purposes of this part, the term “MA area-specific non-drug monthly benchma
 
 &emsp;(1) with respect to—
 
-&emsp;&emsp;(A) a service area that is entirely within an MA local area, subject to section 1395w–29(d)(2)(A) of this title, an amount equal to 1/12 of the annual MA capitation rate under subsection (c)(1) of this section for the area for the year, adjusted as appropriate for the purpose of risk adjustment; or
+&emsp;&emsp;(A) a service area that is entirely within an MA local area, subject to section 1395w–29(d)(2)(A) of this title, an amount equal to 1/12 of the annual MA capitation rate under subsection (c)(1) (or, beginning with 2007, 1/12 of the applicable amount determined under subsection (k)(1)) for the area for the year, adjusted as appropriate (for years before 2007) for the purpose of risk adjustment; or
 
-&emsp;&emsp;(B) a service area that includes more than one MA local area, an amount equal to the average of the amounts described in subparagraph (A) for each such local MA area, weighted by the projected number of enrollees in the plan residing in the respective local MA areas (as used by the plan for purposes of the bid and disclosed to the Secretary under section 1395w–24(a)(6)(A)(iii) of this title), adjusted as appropriate for the purpose of risk adjustment; or
+&emsp;&emsp;(B) a service area that includes more than one MA local area, an amount equal to the average of the amounts described in subparagraph (A) for each such local MA area, weighted by the projected number of enrollees in the plan residing in the respective local MA areas (as used by the plan for purposes of the bid and disclosed to the Secretary under section 1395w–24(a)(6)(A)(iii) of this title), adjusted as appropriate (for years before 2007) for the purpose of risk adjustment; or
 
 &emsp;(2) with respect to an MA region for a month in a year, the MA region-specific non-drug monthly benchmark amount, as defined in section 1395w–27a(f) of this title for the region for the year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371.)
+#### (k) Determination of applicable amount for purposes of calculating the benchmark amounts
+
+#### (1) Applicable amount defined
+
+&emsp;For purposes of subsection (j), subject to paragraph (2), the term “applicable amount” means for an area—
+
+&emsp;&emsp;(A) for 2007—
+
+&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount specified in subsection (c)(1)(C) for the area for 2006—
+
+&emsp;&emsp;&emsp;&emsp;(I) first adjusted by the rescaling factor for 2006 for the area (as made available by the Secretary in the announcement of the rates on April 4, 2005, under subsection (b)(1), but excluding any national adjustment factors for coding intensity and risk adjustment budget neutrality that were included in such factor); and
+
+&emsp;&emsp;&emsp;&emsp;(II) then increased by the national per capita MA growth percentage, described in subsection (c)(6) for 2007, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004;
+
+&emsp;&emsp;&emsp;(ii) if such year is specified under subsection (c)(1)(D)(ii), an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount determined under clause (i) for the area for the year; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount specified in subsection (c)(1)(D) for the area for the year; and
+
+&emsp;&emsp;(B) for a subsequent year—
+
+&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount determined under this paragraph for the area for the previous year (determined without regard to paragraph (2)), increased by the national per capita MA growth percentage, described in subsection (c)(6) for that succeeding year, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004; and
+
+&emsp;&emsp;&emsp;(ii) if such year is specified under subsection (c)(1)(D)(ii), an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount determined under clause (i) for the area for the year; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount specified in subsection (c)(1)(D) for the area for the year.
+
+#### (2) Phase-out of budget neutrality factor
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (D), in the case of 2007 through 2010, the applicable amount determined under paragraph (1) shall be multiplied by a factor equal to 1 plus the product of—
+
+&emsp;&emsp;&emsp;(i) the percent determined under subparagraph (B) for the year; and
+
+&emsp;&emsp;&emsp;(ii) the applicable phase-out factor for the year under subparagraph (C).
+
+#### (B) Percent determined
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(i), subject to clause (iv), the percent determined under this subparagraph for a year is a percent equal to a fraction the numerator of which is described in clause (ii) and the denominator of which is described in clause (iii).
+
+#### (ii) Numerator based on difference between demographic rate and risk rate
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The numerator described in this clause is an amount equal to the amount by which the demographic rate described in subclause (II) exceeds the risk rate described in subclause (III).
+
+#### (II) Demographic rate
+
+&emsp;&emsp;&emsp;&emsp;The demographic rate described in this subclause is the Secretary's estimate of the total payments that would have been made under this part in the year if all the monthly payment amounts for all MA plans were equal to 1/12 of the annual MA capitation rate under subsection (c)(1) for the area and year, adjusted pursuant to subsection (a)(1)(C).
+
+#### (III) Risk rate
+
+&emsp;&emsp;&emsp;&emsp;The risk rate described in this subclause is the Secretary's estimate of the total payments that would have been made under this part in the year if all the monthly payment amounts for all MA plans were equal to the amount described in subsection (j)(1)(A) (determined as if this paragraph had not applied) under subsection (j) for the area and year, adjusted pursuant to subsection (a)(1)(C).
+
+#### (iii) Denominator based on risk rate
+
+&emsp;&emsp;&emsp;The denominator described in this clause is equal to the total amount estimated for the year under clause (ii)(III).
+
+#### (iv) Requirements
+
+&emsp;&emsp;&emsp;In estimating the amounts under the previous clauses, the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) use a complete set of the most recent and representative Medicare Advantage risk scores under subsection (a)(3) that are available from the risk adjustment model announced for the year;
+
+&emsp;&emsp;&emsp;&emsp;(II) adjust the risk scores to reflect changes in treatment and coding practices in the fee-for-service sector;
+
+&emsp;&emsp;&emsp;&emsp;(III) adjust the risk scores for differences in coding patterns between Medicare Advantage plans and providers under the original Medicare fee-for-service program under parts A and B to the extent that the Secretary has identified such differences, as required in subsection (a)(1)(C);
+
+&emsp;&emsp;&emsp;&emsp;(IV) as necessary, adjust the risk scores for late data submitted by Medicare Advantage organizations;
+
+&emsp;&emsp;&emsp;&emsp;(V) as necessary, adjust the risk scores for lagged cohorts; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) as necessary, adjust the risk scores for changes in enrollment in Medicare Advantage plans during the year.
+
+#### (v) Authority
+
+&emsp;&emsp;&emsp;In computing such amounts the Secretary may take into account the estimated health risk of enrollees in preferred provider organization plans (including MA regional plans) for the year.
+
+#### (C) Applicable phase-out factor
+
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the term “applicable phase-out factor” means—
+
+&emsp;&emsp;&emsp;(i) for 2007, 0.55;
+
+&emsp;&emsp;&emsp;(ii) for 2008, 0.40;
+
+&emsp;&emsp;&emsp;(iii) for 2009, 0.25; and
+
+&emsp;&emsp;&emsp;(iv) for 2010, 0.05.
+
+#### (D) Termination of application
+
+&emsp;&emsp;Subparagraph (A) shall not apply in a year if the amount estimated under subparagraph (B)(ii)(III) for the year is equal to or greater than the amount estimated under subparagraph (B)(ii)(II) for the year.
+
+#### (3) No revision in percent
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may not make any adjustment to the percent determined under paragraph (2)(B) for any year.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Nothing in this subsection shall be construed to limit the authority of the Secretary to make adjustments to the applicable amounts determined under paragraph (1) as appropriate for purposes of updating data or for purposes of adopting an improved risk adjustment methodology.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; Pub. L. 109–171, title V, §5301, Feb. 8, 2006, 120 Stat. 48.)
 
 #### References in Text
 
 Section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (a)(1)(H), is section 2355 of Pub. L. 98–369, div. B, title III, July 18, 1984, 98 Stat. 1103, as amended by section 13567(b) of Pub. L. 103–66, title XIII, Aug. 10, 1993, 107 Stat. 608, which is not classified to the Code.
 
-Parts A and B of this subchapter, referred to in subsecs. (b)(4), (c)(4)(C), (6)(A), and (f), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+Parts A and B of this subchapter, referred to in subsecs. (a)(1)(C)(ii)(I), (b)(4), (c)(4)(C), (6)(A), (f), and (k)(2)(B)(iv)(III), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(C). Pub. L. 109–171, §5301(b), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (j)(1)(A). Pub. L. 109–171, §5301(a)(1)(A), inserted “(or, beginning with 2007, 1/12 of the applicable amount determined under subsection (k)(1))” after “subsection (c)(1)” and “(for years before 2007)” after “adjusted as appropriate”.
+
+Subsec. (j)(1)(B). Pub. L. 109–171, §5301(a)(1)(B), inserted “(for years before 2007)” after “adjusted as appropriate”.
+
+Subsec. (k). Pub. L. 109–171, §5301(a)(2), added subsec. (k).
 
 2003—Subsec. (a)(1)(A). Pub. L. 108–173, §222(e)(1)(B), substituted “amount determined as follows:” and cls. (i) and (ii) for “amount” and provisions describing amount equal to 1/12 of the annual Medicare+Choice capitation rate, reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title and adjusted for certain factors.
 
@@ -604,7 +732,7 @@ Subsec. (c)(1). Pub. L. 108–173, §221(d)(4), inserted “that is an MA local 
 
 Pub. L. 108–173, §211(a)(2), substituted “(C), or (D)” for “or (C)” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 108–173, §211(b)(1), (c)(1)(A), substituted “For a year before 2005, the sum” for “The sum” in introductory provisions and inserted “(for ayear other than 2004)” after “multiplied” in concluding provisions.
+Subsec. (c)(1)(A). Pub. L. 108–173, §211(b)(1), (c)(1)(A), substituted “For a year before 2005, the sum” for “The sum” in introductory provisions and inserted “(for a year other than 2004)” after “multiplied” in concluding provisions.
 
 Subsec. (c)(1)(B)(iv). Pub. L. 108–173, §211(c)(1)(B), substituted “, 2003, and 2004” for “and each succeeding year”.
 
@@ -680,7 +808,7 @@ Subsec. (c)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §607(b)\], substituted
 
 Subsec. (c)(7). Pub. L. 106–554, §1(a)(6) \[title VI, §611(a)\], amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “If the Secretary makes a determination with respect to coverage under this subchapter that the Secretary projects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part.”
 
-Subsec. (i)(1). Pub. L. 106–554, §1(a)(6) \[title VI, §608(a)\], in introductory provisions, inserted “, or filed notice with the Secretary as of October 3, 2000, that they will not be offering such a plan as of January 1, 2001” after “January 1, 2000”.
+Subsec. (i)(1). Pub. L. 106–554, §1(a)(6) \[title VI, §608(a)\], in introductory provisions, inserted “, or filednotice with the Secretary as of October 3, 2000, that they will not be offering such a plan as of January 1, 2001” after “January 1, 2000”.
 
 1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §512(1)\], substituted “subsections (e), (g), and (i) of this section” for “subsections (e) and (f) of this section”.
 
@@ -766,7 +894,7 @@ Pub. L. 106–554, §1(a)(6) \[title VI, §601(b)\], Dec. 21, 2000, 114 Stat. 27
 
 “(1)
 
-In general.—Notwithstanding the amendments made by subsection (a) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for January and February 2001, the annual Medicare+Choice capitation rate for a Medicare+Choice payment area shall be calculated, and the excess amount under section 1854(f)(1)(B) of such Act (42 U.S.C. 1395w–24(f)(1)(B))shall be determined, as if such amendments had not been enacted.
+In general.—Notwithstanding the amendments made by subsection (a) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for January and February 2001, the annual Medicare+Choice capitation rate for a Medicare+Choice payment area shall be calculated, and the excess amount under section 1854(f)(1)(B) of such Act (42 U.S.C. 1395w–24(f)(1)(B)) shall be determined, as if such amendments had not been enacted.
 
 “(2)
 
@@ -836,7 +964,7 @@ Issues to be studied.—The issues described in this paragraph are the following
 
 &emsp;“(B) The year-to-year stability of the risk factors applied to each Medicare+Choice plan and the potential for substantial changes in payment for small Medicare+Choice plans.
 
-&emsp;“(C) For medicare beneficiaries newly enrolled in Medicare+Choice plans in a given year, the correspondence between the average risk factor calculated from medicare fee-for-service data for those individuals from the period prior to their enrollmentin a Medicare+Choice plan and the average risk factor calculated for such individuals during their initial year of enrollment in a Medicare+Choice plan.
+&emsp;“(C) For medicare beneficiaries newly enrolled in Medicare+Choice plans in a given year, the correspondence between the average risk factor calculated from medicare fee-for-service data for those individuals from the period prior to their enrollment in a Medicare+Choice plan and the average risk factor calculated for such individuals during their initial year of enrollment in a Medicare+Choice plan.
 
 &emsp;“(D) For medicare beneficiaries disenrolling from or switching among Medicare+Choice plans in a given year, the correspondence between the average risk factor calculated from data pertaining to the period prior to their disenrollment from a Medicare+Choice plan and the average risk factor calculated from data pertaining to the period after disenrollment.
 
@@ -924,7 +1052,7 @@ Quality activities.—The nature and extent of the quality reporting and monitor
 
 &emsp;&emsp;“(C)
 
-Rural project.—The current viability of initiating a project site in a rural area, given the site specific budget neutrality requirements of the project under subsection (g), and insofar as the Committee decides that the addition of such a siteis not viable, recommendations on how the project might best be changed so that such a site is viable.
+Rural project.—The current viability of initiating a project site in a rural area, given the site specific budget neutrality requirements of the project under subsection (g), and insofar as the Committee decides that the addition of such a site is not viable, recommendations on how the project might best be changed so that such a site is viable.
 
 &emsp;&emsp;“(D)
 
@@ -1047,4 +1175,6 @@ Appointment of Area Advisory Committee.—Upon the designation of an area for in
 “(c)
 
 Special application.—Notwithstanding section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.), the Competitive Pricing Advisory Commission and any area advisory committee (described in subsection (b)) may meet as soon as the members of the commission or committee, respectively, are appointed.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “parts”.</i>
 

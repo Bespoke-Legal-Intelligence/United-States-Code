@@ -8,7 +8,7 @@
 
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
 
-(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
+(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). TheSecretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
 
 (3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a cadet under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
 
@@ -84,7 +84,7 @@ Subsec. (b)(2). Pub. L. 98–94 substituted “Each foreign country from which a
 
 Subsec. (c)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. (c) as par. (1) and inserted second sentence providing that the Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
 
-Subsec. (c)(2). Pub. L. 98–94 redesignated second sentence of existing subsec. (c) as par. (2) and substituted “appointment in an armed force of the United States” for “appointment in the United States Army”.
+Subsec. (c)(2). Pub. L. 98–94 redesignated second sentence of existing subsec. (c) as par. (2) and substituted“appointment in an armed force of the United States” for “appointment in the United States Army”.
 
 Subsec. (d). Pub. L. 98–94 reenacted subsec. (d) without change.
 

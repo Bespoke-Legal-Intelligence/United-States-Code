@@ -6,11 +6,6 @@
 | :--- | ---: |
 | [2001\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002001%20-%20House%20Office%20Building%3B%20control%2C%20supervision%2C%20and%20care.md) | House Office Building; control, supervision, and care. |
 | [2002\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002002%20-%20Acquisition%20of%20buildings%20and%20facilities%20for%20use%20in%20emergency%20situation.md) | Acquisition of buildings and facilities for use in emergency situation. |
-| (a) | Acquisition of buildings and facilities. |
-| (b) | Agreements. |
-| (c) | Authority of Capitol Police and Architect. |
-| (d) | Transfer of certain funds. |
-| (e) | Effective date. |
 | [2003\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002003%20-%20Speaker%20as%20member%20of%20House%20Office%20Building%20commission.md) | Speaker as member of House Office Building commission. |
 | [2004\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002004%20-%20Assignment%20of%20rooms%20in%20House%20Office%20Building.md) | Assignment of rooms in House Office Building. |
 | [2005\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002005%20-%20Vacant%20rooms%3B%20assignment%20to%20Representatives.md) | Vacant rooms; assignment to Representatives. |
@@ -30,11 +25,6 @@
 | :--- | ---: |
 | [2021\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002021%20-%20Additional%20Senate%20office%20building.md) | Additional Senate office building. |
 | [2022\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002022%20-%20Acquisition%20of%20buildings%20and%20facilities%20for%20use%20in%20emergency%20situation.md) | Acquisition of buildings and facilities for use in emergency situation. |
-| (a) | Acquisition of buildings and facilities. |
-| (b) | Agreements. |
-| (c) | Authority of Capitol Police and Architect. |
-| (d) | Transfer of certain funds. |
-| (e) | Effective date. |
 | [2023\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002023%20-%20Control%2C%20care%2C%20and%20supervision%20of%20Senate%20Office%20Building.md) | Control, care, and supervision of Senate Office Building. |
 | [2024\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002024%20-%20Assignment%20of%20space%20in%20Senate%20Office%20Building.md) | Assignment of space in Senate Office Building. |
 | [2025\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002025%20-%20Senate%20Garage.md) | Senate Garage. |
@@ -46,10 +36,6 @@
 |  |  |
 | :--- | ---: |
 | [2041\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002041%20-%20House%20of%20Representatives%20restaurant%2C%20cafeteria%2C%20and%20food%20services.md) | House of Representatives restaurant, cafeteria, and food services. |
-| (a) | Management and duties. |
-| (b) | Transfer of accounts, records, supplies, equipment, and assets. |
-| (c) | Special deposit account. |
-| (d) | Effective date. |
 | [2042\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002042%20-%20Senate%20Restaurants%3B%20management%20by%20Architect%20of%20the%20Capitol.md) | Senate Restaurants; management by Architect of the Capitol. |
 | [2043\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002043%20-%20Authorization%20and%20direction%20to%20effectuate%20purposes%20of%20sections%202042%20to%202047%20of%20this%20title.md) | Authorization and direction to effectuate purposes of sections 2042 to 2047 of this title. |
 | [2044\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002044%20-%20Special%20deposit%20account.md) | Special deposit account. |
@@ -58,9 +44,6 @@
 | [2047\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002047%20-%20Supersedure%20of%20prior%20provisions%20for%20maintenance%20and%20operation%20of%20Senate%20Restaurants.md) | Supersedure of prior provisions for maintenance and operation of Senate Restaurants. |
 | [2048\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002048%20-%20Management%20personnel%20and%20miscellaneous%20expenses%3B%20availability%20of%20appropriations%3B%20annual%20and%20sick%20leave.md) | Management personnel and miscellaneous expenses; availability of appropriations; annual and sick leave. |
 | [2049\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002049%20-%20Loans%20for%20Senate%20Restaurants.md) | Loans for Senate Restaurants. |
-| (a) | Borrowing authority. |
-| (b) | Amount and period of loan; voucher. |
-| (c) | Deposit, credit, and future availability of proceeds from repayment. |
 | [2050\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002050%20-%20Transfer%20of%20appropriations%20for%20management%20personnel%20and%20miscellaneous%20restaurant%20expenses%20to%20special%20deposit%20account.md) | Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,39 +53,10 @@
 |  |  |
 | :--- | ---: |
 | [2061\.](Subchapter%20004%20%28IV%29%20-%20Child%20Care/%C2%A7%2002061%20-%20Designation%20of%20play%20areas%20on%20Capitol%20grounds%20for%20children%20attending%20day%20care%20center.md) | Designation of play areas on Capitol grounds for children attending day care center. |
-| (a) | Authority of Capitol Police Board. |
-| (b) | Required approval; fences; termination of authority. |
-| (c) | Playground equipment; required approval. |
-| (d) | Day care center. |
 | [2062\.](Subchapter%20004%20%28IV%29%20-%20Child%20Care/%C2%A7%2002062%20-%20House%20of%20Representatives%20Child%20Care%20Center.md) | House of Representatives Child Care Center. |
-| (a) | Maintenance and operation; admission of children. |
-| (b) | Advisory board; membership, functions, etc. |
-| (c) | Duties of Chief Administrative Officer of House of Representatives. |
-| (d) | Salaries and expenses; funding limits. |
-| (e) | Definitions. |
 | [2063\.](Subchapter%20004%20%28IV%29%20-%20Child%20Care/%C2%A7%2002063%20-%20Senate%20Employee%20Child%20Care%20Center.md) | Senate Employee Child Care Center. |
-| (a) | Applicability of provisions. |
-| (b) | Employee election of health care insurance coverage. |
-| (c) | Deductions and withholding from employee pay. |
-| (d) | Employee records; amount of deductions. |
-| (e) | Government contributions. |
-| (f) | Regulations. |
 | [2064\.](Subchapter%20004%20%28IV%29%20-%20Child%20Care/%C2%A7%2002064%20-%20Senate%20Employee%20Child%20Care%20Center%20employee%20benefits.md) | Senate Employee Child Care Center employee benefits. |
-| (a) | Election for coverage. |
-| (b) | Payment of deposit; payroll deduction. |
-| (c) | Survivor annuities and disability benefits. |
-| (d) | Participation in Thrift Savings Plan. |
-| (e) | Life insurance coverage. |
-| (f) | Government contributions. |
-| (g) | Certification of creditable service. |
-| (h) | Payment to center of amounts equal to Federal tax on employers. |
-| (i) | Administrative provisions. |
-| (j) | Regulations. |
 | [2065\.](Subchapter%20004%20%28IV%29%20-%20Child%20Care/%C2%A7%2002065%20-%20Reimbursement%20of%20Senate%20day%20care%20center%20employees.md) | Reimbursement of Senate day care center employees. |
-| (a) | Cost of training classes, conferences, and related expenses. |
-| (b) | Documentation. |
-| (c) | Regulations and limitations. |
-| (d) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -113,21 +67,8 @@
 |  |  |
 | :--- | ---: |
 | [2081\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20A%20-%20United%20States%20Capitol%20Preservation%20Commission/%C2%A7%2002081%20-%20United%20States%20Capitol%20Preservation%20Commission.md) | United States Capitol Preservation Commission. |
-| (a) | Establishment and purposes. |
-| (b) | Membership. |
-| (c) | Designees. |
-| (d) | Architect of the Capitol. |
-| (e) | Staff support and assistance. |
 | [2082\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20A%20-%20United%20States%20Capitol%20Preservation%20Commission/%C2%A7%2002082%20-%20Authority%20of%20Commission%20to%20accept%20gifts%20and%20conduct%20other%20transactions%20relating%20to%20works%20of%20fine%20art%20and%20other%20property.md) | Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property. |
-| (a) | In general. |
-| (b) | Transfer and disposition of works of fine art and other property. |
-| (c) | Requirements for conduct of transactions. |
 | [2083\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20A%20-%20United%20States%20Capitol%20Preservation%20Commission/%C2%A7%2002083%20-%20Capitol%20Preservation%20Fund.md) | Capitol Preservation Fund. |
-| (a) | In general. |
-| (b) | Availability of fund. |
-| (c) | Transaction costs and proportionality. |
-| (d) | Deposits, credits, and disbursements. |
-| (e) | Investments. |
 | [2084\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20A%20-%20United%20States%20Capitol%20Preservation%20Commission/%C2%A7%2002084%20-%20Audits%20by%20the%20Comptroller%20General.md) | Audits by the Comptroller General. |
 | [2085\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20A%20-%20United%20States%20Capitol%20Preservation%20Commission/%C2%A7%2002085%20-%20Advisory%20boards.md) | Advisory boards. |
 | [2086\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20A%20-%20United%20States%20Capitol%20Preservation%20Commission/%C2%A7%2002086%20-%20Definition.md) | Definition. |
@@ -139,27 +80,13 @@
 |  |  |
 | :--- | ---: |
 | [2101\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002101%20-%20Senate%20Commission%20on%20Art.md) | Senate Commission on Art. |
-| (a) | Establishment. |
-| (b) | Chairman and Vice Chairman; quorum; Executive Secretary. |
-| (c) | Appointment of Senate Curator; assignment of assistants. |
-| (d) | Hearings and meetings. |
 | [2102\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002102%20-%20Duties%20of%20Commission.md) | Duties of Commission. |
-| (a) | In general. |
-| (b) | Issuance and publication of regulations. |
-| (c) | Consistency of regulations. |
-| (d) | Responsibilities of Committee on Rules and Administration of Senate. |
 | [2103\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002103%20-%20Supervision%20and%20maintenance%20of%20Old%20Senate%20Chamber.md) | Supervision and maintenance of Old Senate Chamber. |
 | [2104\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002104%20-%20Publication%20of%20list%20of%20works%20of%20art%2C%20historical%20objects%2C%20and%20exhibits.md) | Publication of list of works of art, historical objects, and exhibits. |
 | [2105\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002105%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2106\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002106%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9383%2C%20title%20I%2C%20%C2%A73%28a%29%283%29%2C%20Sept.%2030%2C%202003%2C%20117%20Stat.%201010.md) | Repealed. |
 | [2107\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002107%20-%20Conservation%2C%20restoration%2C%20replication%2C%20or%20replacement%20of%20items%20in%20United%20States%20Senate%20Collection.md) | Conservation, restoration, replication, or replacement of items in United States Senate Collection. |
-| (a) | Use of moneys in Senate contingent fund. |
-| (b) | United States Senate Collection. |
-| (c) | Approval of disbursements by Chairman or Executive Secretary of Senate Commission on Art. |
 | [2108\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20B%20-%20Senate%20Commission%20on%20Art/%C2%A7%2002108%20-%20Provisions%20relating%20to%20Senate%20Commission%20on%20Art.md) | Provisions relating to Senate Commission on Art. |
-| (a) | Authority to acquire and dispose. |
-| (b) | Advisory boards. |
-| (c) | Establishment of Senate Preservation Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -168,9 +95,6 @@
 |  |  |
 | :--- | ---: |
 | [2121\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20C%20-%20House%20of%20Representatives%20Fine%20Arts%20Board/%C2%A7%2002121%20-%20House%20of%20Representatives%20Fine%20Arts%20Board.md) | House of Representatives Fine Arts Board. |
-| (a) | Establishment and authority. |
-| (b) | Clerk of the House of Representatives. |
-| (c) | Architect of the Capitol. |
 | [2122\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20C%20-%20House%20of%20Representatives%20Fine%20Arts%20Board/%C2%A7%2002122%20-%20Acceptance%20of%20gifts%20on%20behalf%20of%20the%20House%20of%20Representatives.md) | Acceptance of gifts on behalf of the House of Representatives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -181,14 +105,7 @@
 | :--- | ---: |
 | [2131\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002131%20-%20National%20Statuary%20Hall.md) | National Statuary Hall. |
 | [2131a.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002131a%20-%20Eligibility%20for%20placement%20of%20statues%20in%20National%20Statuary%20Hall.md) | Eligibility for placement of statues in National Statuary Hall. |
-| (a) | Eligibility. |
-| (b) | Exceptions. |
 | [2132\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002132%20-%20Replacement%20of%20statue%20in%20Statuary%20Hall.md) | Replacement of statue in Statuary Hall. |
-| (a) | Request by State. |
-| (b) | Agreement upon approval. |
-| (c) | Limitation on number of State statues. |
-| (d) | Ownership of replaced statue; removal. |
-| (e) | Relocation of statues. |
 | [2133\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002133%20-%20Acceptance%20and%20supervision%20of%20works%20of%20fine%20arts.md) | Acceptance and supervision of works of fine arts. |
 | [2134\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002134%20-%20Art%20exhibits.md) | Art exhibits. |
 | [2135\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002135%20-%20Private%20studios%20and%20works%20of%20art.md) | Private studios and works of art. |
@@ -205,10 +122,6 @@
 | [2144\.](Subchapter%20006%20%28VI%29%20-%20Botanic%20Garden%20and%20National%20Garden/%C2%A7%2002144%20-%20Disbursement%20of%20appropriations%20for%20Botanic%20Garden.md) | Disbursement of appropriations for Botanic Garden. |
 | [2145\.](Subchapter%20006%20%28VI%29%20-%20Botanic%20Garden%20and%20National%20Garden/%C2%A7%2002145%20-%20Restriction%20on%20use%20of%20appropriation%20for%20Botanic%20Garden.md) | Restriction on use of appropriation for Botanic Garden. |
 | [2146\.](Subchapter%20006%20%28VI%29%20-%20Botanic%20Garden%20and%20National%20Garden/%C2%A7%2002146%20-%20National%20Garden.md) | National Garden. |
-| (a) | Establishment; gifts. |
-| (b) | Gifts and bequests of money; investment; appropriations. |
-| (c) | Donations of personal services. |
-| (d) | Tax deductions. |
 | [2147\.](Subchapter%20006%20%28VI%29%20-%20Botanic%20Garden%20and%20National%20Garden/%C2%A7%2002147%20-%20Plant%20material%20exchanges.md) | Plant material exchanges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -218,42 +131,13 @@
 |  |  |
 | :--- | ---: |
 | [2161\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002161%20-%20John%20W.%20McCormack%20Residential%20Page%20School.md) | John W. McCormack Residential Page School. |
-| (a) | Construction authorization for dormitory and classroom facilities complex. |
-| (b) | Acquisition of property in District of Columbia. |
-| (c) | Condemnation proceedings. |
-| (d) | Transfer of United States owned property. |
-| (e) | Alley and street closures by Mayor of the District of Columbia. |
-| (f) | United States Capitol Grounds provisions applicable. |
-| (g) | Designation; employment of services under supervision and control of Architect of the Capitol: joint approval and direction of Speaker and President pro tempore; annual estimates to Congress; regulations governing Architect of the Capitol. |
-| (h) | Joint appointee for supervision and control over page activities; regulations; Residence Superintendent of Pages: appointment, compensation, and duties; additional personnel: appointment and compensation. |
-| (i) | Section 88b of this title unaffected. |
 | [2162\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002162%20-%20Capitol%20power%20plant.md) | Capitol power plant. |
 | [2163\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002163%20-%20Capitol%20Grounds%20shuttle%20service.md) | Capitol Grounds shuttle service. |
 | [2164\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002164%20-%20Transportation%20of%20House%20Pages%20by%20Capitol%20Grounds%20shuttle%20service.md) | Transportation of House Pages by Capitol Grounds shuttle service. |
 | [2165\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002165%20-%20Capitol%20educational%20and%20informational%20center%20and%20information%20and%20distribution%20stations%3B%20operation%20agreements.md) | Capitol educational and informational center and information and distribution stations; operation agreements. |
 | [2166\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002166%20-%20Capitol%20Guide%20Service.md) | Capitol Guide Service. |
-| (a) | Establishment; designation; supervision of Capitol Guide Board; membership of Board. |
-| (b) | Guided tours; regulations. |
-| (c) | Duties of Capitol Guide Board; positions of Guide in Capitol Guide Service; establishment and revision; Chief, Deputy Chief, and Assistant Chief Guide and Guides: appointment, duties, pay, and termination of employment. |
-| (d) | Uniforms. |
-| (e) | Acceptance of fees; prohibition. |
-| (f) | Personnel detail. |
-| (g) | Historical and educational information. |
-| (h) | Regulations for operation of Service. |
-| (i) | Disciplinary action. |
-| (j) | Volunteers. |
 | [2167\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002167%20-%20Congressional%20Award%20Youth%20Park.md) | Congressional Award Youth Park. |
-| (a) | Designation. |
-| (b) | Area included. |
-| (c) | Design. |
-| (d) | Funding. |
 | [2168\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002168%20-%20Memorandum%20of%20understanding%20for%20provision%20of%20services%20of%20the%20United%20States%20Capitol%20telephone%20exchange%20for%20the%20House.md) | Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House. |
-| (a) | In general. |
-| (b) | Transfer of positions and personnel. |
-| (c) | Pay and leave accrual. |
-| (d) | Omitted. |
-| (e) | Reimbursement of expenses by House. |
-| (f) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

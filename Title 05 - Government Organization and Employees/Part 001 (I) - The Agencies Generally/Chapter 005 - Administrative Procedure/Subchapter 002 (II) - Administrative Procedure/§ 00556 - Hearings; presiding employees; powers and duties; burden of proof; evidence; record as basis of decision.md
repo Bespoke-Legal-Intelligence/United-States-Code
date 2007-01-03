@@ -56,7 +56,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §7, 60 Stat. 241.
 
-In subsection (b), the words “hearing examiners” are substituted for “examiners” in paragraph (3) for clarity. The prohibition in the second sentence is restated in positive form and the words “This subchapter does not” are substituted for “but nothing in this chapter shall be deemed to”. The words “employee” and “employees” are substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The sentence “A presiding or participating employee may at any time disqualify himself.” is substituted for the words “Any such officer may at any time withdraw if he deems himself disqualified.”
+In subsection (b), the words “hearing examiners” are substituted for “examiners” in paragraph (3) for clarity. The prohibition in the second sentence is restated in positive form and the words “This subchapter does not” are substituted for “but nothing in this chapter shall be deemed to”. The words “employee” and “employees” are substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The sentence “A presiding or participating employeemay at any time disqualify himself.” is substituted for the words “Any such officer may at any time withdraw if he deems himself disqualified.”
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -17,4 +17,4 @@ subpart 5—national institute on aging
 - [&sect; 00285e&#8211;9 - Alzheimer's disease registry](%C2%A7%2000285e%E2%80%939%20-%20Alzheimer%27s%20disease%20registry.md)
 - [&sect; 00285e&#8211;10 - Aging processes regarding women](%C2%A7%2000285e%E2%80%9310%20-%20Aging%20processes%20regarding%20women.md)
 - [&sect; 00285e&#8211;10a - Alzheimer's clinical research and training awards](%C2%A7%2000285e%E2%80%9310a%20-%20Alzheimer%27s%20clinical%20research%20and%20training%20awards.md)
-- [&sect; 00285e&#8211;11 - Authorization of appropriations](%C2%A7%2000285e%E2%80%9311%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00285e&#8211;11 - Repealed. Pub. L. 109&#8211;482, title I, &sect;103(b)(26), Jan. 15, 2007, 120 Stat. 3688](%C2%A7%2000285e%E2%80%9311%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93482%2C%20title%20I%2C%20%C2%A7103%28b%29%2826%29%2C%20Jan.%2015%2C%202007%2C%20120%20Stat.%203688.md)

@@ -76,11 +76,11 @@ As used in this subchapter:
 
 &emsp;&emsp;(2) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire communication to or from a person in the United States, without the consent of any party thereto, if such acquisition occurs in the United States, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18;
 
-&emsp;&emsp;(3) the intentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required forlaw enforcement purposes, and if both the sender and all intended recipients are located within the United States; or
+&emsp;&emsp;(3) the intentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States; or
 
 &emsp;&emsp;(4) the installation or use of an electronic, mechanical, or other surveillance device in the United States for monitoring to acquire information, other than from a wire or radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes.
 
-&emsp;(g) “Attorney General” means the Attorney General of the United States (or Acting Attorney General) or the Deputy Attorney General.
+&emsp;(g) “Attorney General” means the Attorney General of the United States (or Acting Attorney General), the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28.
 
 &emsp;(h) “Minimization procedures”, with respect to electronic surveillance, means—
 
@@ -106,13 +106,15 @@ As used in this subchapter:
 
 &emsp;(<i>o</i>) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742.)
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by Pub. L. 108–458, see Termination Date of 2004 Amendment note below.</i>
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28” for “or the Deputy Attorney General”.
 
 2004—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
 
@@ -124,7 +126,15 @@ Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted “72 hours” for �
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, provided that: “The amendment made by subsection (a) \[amending this section\] shall be subject to the sunset provision in section 224 of Public Law 107–56 \[18 U.S.C. 2510 note\] (115 Stat. 295), including the exception provided in subsection (b) of such section 224.”
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on December 31, 2009.
+
+“(2)
+
+Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which the provisions cease to have effect, such provisions shall continue in effect.”
 
 #### Effective Date of 2001 Amendment
 
@@ -132,7 +142,7 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 
 #### Effective Date; Exception
 
-Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401,and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
+Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
 
 #### Short Title of 2000 Amendment
 

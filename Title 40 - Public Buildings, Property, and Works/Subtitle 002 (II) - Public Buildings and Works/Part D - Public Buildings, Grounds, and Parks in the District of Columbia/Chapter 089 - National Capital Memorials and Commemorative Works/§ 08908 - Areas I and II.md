@@ -18,7 +18,7 @@ Area ii.—Commemorative works of subjects of lasting historical significance to
 
 (c)
 
-Reserve.—After the date of enactment of the Commemorative Works Clarification andRevision Act of 2003, no commemorative work or visitor center shall be located within the Reserve.
+Reserve.—After the date of enactment of the Commemorative Works Clarification and Revision Act of 2003, no commemorative work or visitor center shall be located within the Reserve.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231; Pub. L. 108–126, title II, §§202(b), 203(g), Nov. 17, 2003, 117 Stat. 1349, 1352.)
 

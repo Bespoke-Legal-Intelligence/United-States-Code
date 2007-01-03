@@ -32,7 +32,7 @@ A strategic plan of a State or federally recognized Indian tribe under this sect
 
 &emsp;(1) coordinates economic, human, and community development plans and related activities proposed for an affected area;
 
-&emsp;(2) provides that the State or federally recognized Indian tribe, as appropriate, and an affected community (including local institutions and organizations that have contributedto the planning process) shall act as full partners in the process of developing and implementing the plan;
+&emsp;(2) provides that the State or federally recognized Indian tribe, as appropriate, and an affected community (including local institutions and organizations that have contributed to the planning process) shall act as full partners in the process of developing and implementing the plan;
 
 &emsp;(3) identifies goals, methods, and benchmarks for measuring the success of carrying out the plan and how the plan relates to local or regional ecosystems;
 

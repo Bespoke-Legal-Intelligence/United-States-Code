@@ -36,7 +36,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 (c)
 
-Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. The review shall be heard and decided expeditiously. An order of the Secretary subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
+Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 days after the order is issued, in the court of appealsof the United States for the circuit in which the violation occurred or the person resided on the date of the violation. The review shall be heard and decided expeditiously. An order of the Secretary subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
 
 (d)
 
@@ -80,7 +80,7 @@ Subsection (a)(2) is substituted for 49 App.:2305(b) (2d, last sentences) for cl
 
 In subsection (b)(1), the words “alleging such discharge, discipline, or discrimination” are omitted as surplus.
 
-In subsection (b)(2)(B), the words “Not later than 30 days after the notice under subparagraph (A) of thisparagraph” are substituted for “Thereafter” and “within thirty days” for clarity.
+In subsection (b)(2)(B), the words “Not later than 30 days after the notice under subparagraph (A) of this paragraph” are substituted for “Thereafter” and “within thirty days” for clarity.
 
 In subsection (b)(2)(C), the words “Before the final order is issued” are substituted for “In the interim” for clarity.
 

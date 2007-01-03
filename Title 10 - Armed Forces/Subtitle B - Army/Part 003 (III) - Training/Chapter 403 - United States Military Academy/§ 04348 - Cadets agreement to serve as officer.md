@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted “the term” after “I
 
 &emsp;“(1) unless sooner separated from the Academy, complete the course of instruction at the Academy;
 
-&emsp;“(2) accept an appointment and, unless sooner separated from the service, serve as a commissioned officer of the Regular Army or the Regular Air Force forat least the five years immediately after graduation; and
+&emsp;“(2) accept an appointment and, unless sooner separated from the service, serve as a commissioned officer of the Regular Army or the Regular Air Force for at least the five years immediately after graduation; and
 
 &emsp;“(3) accept an appointment as a commissioned officer as a Reserve for service in the Army Reserve or the Air Force Reserve and, unless sooner separated from the service, remain therein until at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary of his graduation, if an appointment in the regular component of that armed force is not tendered to him, or if he is permitted to resign as a commissioned officer of that component before that anniversary.
 
@@ -119,6 +119,60 @@ Section 512(d) of Pub. L. 99–145 provided that: “The Secretary of each milit
 #### Savings Provision
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+#### Department of Defense Policy on Service Academy and ROTC Graduates Seeking To Participate in Professional Sports Before Completion of Their Active-Duty Service Obligations
+
+Pub. L. 109–364, div. A, title V, §533, Oct. 17, 2006, 120 Stat. 2206, provided that:
+
+“(a)
+
+Policy Required.—
+
+&emsp;“(1)
+
+In general.—Not later than July 1, 2007, the Secretary of Defense shall prescribe the policy of the Department of Defense on—
+
+&emsp;&emsp;“(A) whether to authorize graduates of the service academies and the Reserve Officers’ Training Corps to participate in professional sports before the completion of their obligations for service on active duty as commissioned officers; and
+
+&emsp;&emsp;“(B) if so, the obligations for service on active duty as commissioned officers of such graduates who participate in professional sports before the satisfaction of the obligations referred to in subparagraph (A).
+
+&emsp;“(2)
+
+Review of current policies.—In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers’ Training Corps, including policies on authorized leaves of absence and policies under excess leave programs.
+
+&emsp;“(3)
+
+Considerations.—In prescribing the policy, the Secretary shall take into account the following:
+
+&emsp;&emsp;“(A) The compatibility of participation in professional sports (including training for professional sports) with service on active duty in the Armed Forces or as a member of a reserve component of the Armed Forces.
+
+&emsp;&emsp;“(B) The benefits for the Armed Forces of waiving obligations for service on active duty for cadets, midshipmen, and commissioned officers in order to permit such individuals to participate in professional sports.
+
+&emsp;&emsp;“(C) The manner in which the military departments have resolved issues relating to the participation of personnel in professional sports, including the extent of and any reasons for, differences in the resolution of such issues by such departments.
+
+&emsp;&emsp;“(D) The recoupment of the costs of education provided by the service academies or under the Reserve Officers’ Training Corps program if graduates of the service academies or the Reserve Officers’ Training Corps, as the case may be, do not complete the period of obligated service to which they have agreed by reason of participation in professional sports.
+
+&emsp;&emsp;“(E) Any other matters that the Secretary considers appropriate.
+
+“(b)
+
+Elements of Policy.—The policy prescribed under subsection (a) shall address the following matters:
+
+&emsp;“(1) The eligibility of graduates of the service academies and the Reserve Officers’ Training Corps for a reduction in the obligated length of service on active duty as a commissioned officer otherwise required of such graduates on the basis of their participation in professional sports.
+
+&emsp;“(2) Criteria for the treatment of an individual as a participant or potential participant in professional sports.
+
+&emsp;“(3) The effect on obligations for service on active duty as a commissioned officer of any unsatisfied obligations under prior enlistment contracts or other forms of advanced education assistance.
+
+&emsp;“(4) Any authorized variations in the policy that are warranted by the distinctive requirements of a particular Armed Force.
+
+&emsp;“(5) The eligibility of individuals for medical discharge or disability benefits as a result of injuries incurred while participating in professional sports.
+
+&emsp;“(6) A prospective effective date for the policy and for the application of the policy to individuals serving on such effective date as a commissioned officer, cadet, or midshipman.
+
+“(c)
+
+Application of Policy to Armed Forces.—Not later than December 1, 2007, the Secretary of each military department shall prescribe regulations, or modify current regulations, in order to implement the policy prescribed by the Secretary of Defense under subsection (a) with respect to the Armed Forces under the jurisdiction of such Secretary.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

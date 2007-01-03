@@ -1,6 +1,0 @@
-### §3911. Equal representation for Federal Deposit Insurance Corporation
-
-As one of the three Federal bank regulatory and supervisory agencies, and as the insurer of the United States banks involved in international lending, the Federal Deposit Insurance Corporation shall be given equal representation with the Board of Governors of the Federal Reserve System and the Office of the Comptroller of the Currency on the Committee on Banking Regulations and Supervisory Practices of the Group of Ten Countries and Switzerland.
-
-(Pub. L. 98–181, title IX, §912, Nov. 30, 1983, 97 Stat. 1284.)
-

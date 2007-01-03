@@ -1,0 +1,96 @@
+### §53708. Findings related to economic soundness
+
+(a)
+
+By Secretary of Transportation.—The Secretary of Transportation may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary finds that the property or project for which the obligation will be executed will be economically sound. In making that finding, the Secretary shall consider—
+
+&emsp;(1) the need in the particular segment of the maritime industry for new or additional capacity, including any impact on existing equipment for which a guarantee under this chapter is in effect;
+
+&emsp;(2) the market potential for employment of the vessel over the life of the guarantee;
+
+&emsp;(3) projected revenues and expenses associated with employment of the vessel;
+
+&emsp;(4) any charter, contract of affreightment, transportation agreement, or similar agreement or undertaking relevant to the employment of the vessel;
+
+&emsp;(5) other relevant criteria; and
+
+&emsp;(6) for inland waterways, the need for technical improvements, including increased fuel efficiency or improved safety.
+
+(b)
+
+By Secretary of Commerce.—The Secretary of Commerce may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary finds, at or prior to the time the commitment is made or the guarantee becomes effective, that—
+
+&emsp;(1) the property or project for which the obligation will be executed will be economically sound; and
+
+&emsp;(2) for a fishing vessel, the purpose of the financing or refinancing is consistent with—
+
+&emsp;&emsp;(A) the wise use of the fisheries resources and the development, advancement, management, conservation, and protection of the fisheries resources; or
+
+&emsp;&emsp;(B) the need for technical improvements, including increased fuel efficiency or improved safety.
+
+(c)
+
+Used Fishing Vessels and Facilities.—The Secretary of Commerce may not guarantee or make a commitment to guarantee an obligation under this chapter for the purchase of a used fishing vessel or used fishery facility unless the vessel or facility will be—
+
+&emsp;(1) reconstructed or reconditioned in the United States and will contribute to the development of the United States fishing industry; or
+
+&emsp;(2) used—
+
+&emsp;&emsp;(A) in the harvesting of fish from an underused fishery; or
+
+&emsp;&emsp;(B) for a purpose described in the definition of “fishery facility” in section 53701 of this title with respect to an underused fishery.
+
+(d)
+
+Independent Analysis.—The Secretary may make a determination that aspects of an application under this chapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, financial structures, or other risk factors identified by the Secretary. Any independent analysis conducted under this subsection shall be performed by a party chosen by the Secretary.
+
+(e)
+
+Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary may make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, financial structures, or other risk factors identified by the Secretary.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1608; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), Jan. 6, 2006, 119 Stat. 3555, 3556.)
+
+#### Amendments Not Shown in Text
+
+<i>Subsec. (a) of this section was derived from section 1274(d)(1)(A) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(D), (b)(3)(A), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1274(d)(1)(A) of the former Appendix to this title was amended by striking “Secretary” each place it appears except the first and inserting “Administrator” and by striking “Secretary of Transportation” and inserting “Administrator”.</i>
+
+<i>Subsecs. (d) and (e) of this section were derived from pars. (2) and (3), respectively, of section 1274(f) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (b)(4), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1274(f) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”, by striking “financial structures, or other risk factors identified by the Secretary or Adminis</i><i>trator.” in pars. (2) and (3) and inserting “or financial structures.”, and by adding at the end the following:</i>
+
+<i>“(5) A third party independent analysis conducted under paragraph (2) \[now subsec. (d) of this section\] shall be performed by a private sector expert in assessing such risk factors who is selected by the Administrator.”</i>
+
+<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53708(a)
+
+46 App.:1274(d)(1)(A).
+
+June 29, 1936, ch. 858, title XI, §1104A(d)(1), (2) \[§1104A formerly §1104\], as added June 23, 1938, ch. 600, §46, 52 Stat. 970; Aug. 4, 1939, ch. 417, §14, 53 Stat. 1187; Sept. 28, 1950, ch. 1093, §4, 64 Stat. 1078; Aug. 15, 1953, ch. 513, §2, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §4, 68 Stat. 1269; Pub. L. 86–123, §§1(3), 2, July 31, 1959, 73 Stat. 269, 271; Pub. L. 86–127, §1(3), (4), July 31, 1959, 73 Stat. 273; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 86–685, §§2, 3, Sept. 2, 1960, 74 Stat. 733; Pub. L. 90–341, June 15, 1968, 82 Stat. 180; Pub. L. 91–469, §§31, 32, Oct. 21, 1970, 84 Stat. 1035; restated Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 910; Pub. L. 96–561, title II, §220(3)(C), Dec. 22, 1980, 94 Stat. 3293; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1606(c), Aug. 13, 1981, 95 Stat. 752; Pub. L. 98–595, §1(6), Oct. 30, 1984, 98 Stat. 3130; §1104 renumbered as §1104A, Pub. L. 101–380, title IV, §4115(f)(1), Aug. 18, 1990, 104 Stat. 521.
+
+53708(b)
+
+46 App.:1274(d)(1)(B).
+
+53708(c)
+
+46 App.:1274(d)(2).
+
+53708(d)
+
+46 App.:1274(f)(2).
+
+June 29, 1936, ch. 858, title XI, §1104A(f)(2), (3), as added Pub. L. 108–136, title XXXV, §3526(2)(C), Nov. 24, 2003, 117 Stat. 1801.
+
+53708(e)
+
+46 App.:1274(f)(3).
+

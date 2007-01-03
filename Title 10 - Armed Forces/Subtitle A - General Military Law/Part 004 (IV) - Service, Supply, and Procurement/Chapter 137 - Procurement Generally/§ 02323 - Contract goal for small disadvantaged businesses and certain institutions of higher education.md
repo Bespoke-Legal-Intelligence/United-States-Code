@@ -6,11 +6,13 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 &emsp;(A) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals, and qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act);
 
-&emsp;(B) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
+&emsp;(B) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986;
 
-&emsp;(C) minority institutions (as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k)).
+&emsp;(C) minority institutions (as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k)); and
 
-(2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges and universities in the program provided for by this section.
+&emsp;(D) Hispanic-serving institutions (as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)).<sup>1</sup>
+
+(2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities, Hispanic-serving institutions, and minority institutions in order to increase the participation of such colleges and universities and institutions in the program provided for by this section.
 
 (3) The Federal Acquisition Regulation shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of the Small Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
 
@@ -26,17 +28,17 @@ Amount.—(1) With respect to the Department of Defense, the requirements of sub
 
 &emsp;(D) Funds obligated for contracts entered into with the Department of Defense for operation and maintenance.
 
-(2) With respect to the Coast Guard, the requirements of subsection (a) for any fiscal yearapply to the total value of all prime contract and subcontract awards entered into by the Coast Guard for such fiscal year.
+(2) With respect to the Coast Guard, the requirements of subsection (a) for any fiscal year apply to the total value of all prime contract and subcontract awards entered into by the Coast Guard for such fiscal year.
 
 (3) With respect to the National Aeronautics and Space Administration, the requirements of subsection (a) for any fiscal year apply to the total value of all prime contract and subcontract awards entered into by the National Aeronautics and Space Administration for such fiscal year.
 
 (c)
 
-Types of Assistance.—(1) To attain the goal specified in subsection (a)(1), the head of an agency shall provide technical assistance to the entities referred to in that subsection and, in the case of historically Black colleges and universities and minority institutions, shall also provide infrastructure assistance.
+Types of Assistance.—(1) To attain the goal specified in subsection (a)(1), the head of an agency shall provide technical assistance to the entities referred to in that subsection and, in the case of historically Black colleges and universities, Hispanic-serving institutions, and minority institutions, shall also provide infrastructure assistance.
 
 (2) Technical assistance provided under this section shall include information about the program, advice about agency procurement procedures, instruction in preparation of proposals, and other such assistance as the head of the agency considers appropriate. If the resources of the agency are inadequate to provide such assistance, the head of the agency may enter into contracts with minority private sector entities with experience and expertise in the design, development, and delivery of technical assistance services to eligible individuals, business firms and institutions, acquisition agencies, and prime contractors. Agency contracts with such entities shall be awarded annually, based upon, among other things, the number of minority small business concerns, historically Black colleges and universities, and minority institutions that each such entity brings into the program.
 
-(3) Infrastructure assistance provided by the Department of Defense under this section to historically Black colleges and universities and to minority institutions may include programs to do the following:
+(3) Infrastructure assistance provided by the Department of Defense under this section to historically Black colleges and universities, to Hispanic-serving institutions, and to minority institutions may include programs to do the following:
 
 &emsp;(A) Establish and enhance undergraduate, graduate, and doctoral programs in scientific disciplines critical to the national security functions of the Department of Defense.
 
@@ -82,7 +84,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;(2) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency shall make advance payments under section 2307 of this title to contractors described in subsection (a). The Federal Acquisition Regulation shall provide guidance to contracting officers for making advance payments to entities described in subsection (a)(1) under such section.
 
-&emsp;(3)(A) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may, except as provided in subparagraph (B), enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in thepreceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
+&emsp;(3)(A) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may, except as provided in subparagraph (B), enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
 
 &emsp;(B)(i) The Secretary of Defense may not exercise the authority under subparagraph (A) to enter into a contract for a price exceeding fair market cost if the regulations implementing that authority are suspended under clause (ii) with respect to that contract.
 
@@ -130,11 +132,11 @@ Industry Categories.—(1) To the maximum extent practicable, the head of the ag
 
 &emsp;(B) ensure that contracts awarded to attain the goal established by subsection (a) are made across the broadest possible range of industry categories.
 
-(2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
+(2) Under procedures prescribed by the head of the agency, a person may request the Secretaryto determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
 
 (h)
 
-Compliance With Subcontracting Plan Requirements.—(1) The Federal Acquisition Regulation shall contain regulations to ensure that potential contractors submitting sealed bids or competitive proposals to the agency forprocurement contracts to be awarded under the program provided for by this section are complying with applicable subcontracting plan requirements of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
+Compliance With Subcontracting Plan Requirements.—(1) The Federal Acquisition Regulation shall contain regulations to ensure that potential contractors submitting sealed bids or competitive proposals to the agency for procurement contracts to be awarded under the program provided for by this section are complying with applicable subcontracting plan requirements of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
 
 (2) The regulations required by paragraph (1) shall ensure that, with respect to a sealed bid or competitive proposal for which the bidder or offeror is required to negotiate or submit a subcontracting plan under section 8(d) of the Small Business Act (15 U.S.C. 637(d)), the subcontracting plan shall be a factor in evaluating the bid or proposal.
 
@@ -162,7 +164,7 @@ Effective Date.—(1) This section applies in the Department of Defense to each 
 
 (2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2009.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 109–163, div. A, title VIII, §842, Jan. 6, 2006, 119 Stat. 3389.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 109–163, div. A, title VIII, §842, Jan. 6, 2006, 119 Stat. 3389; Pub. L. 109–364, div. A, title VIII, §858, Oct. 17, 2006, 120 Stat. 2349.)
 
 #### References in Text
 
@@ -180,7 +182,15 @@ A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 198
 
 #### Amendments
 
-2006—Subsec. (k). Pub. L. 109–163 substituted “2009” for “2006” in pars. (1) and (2).
+2006—Subsec. (a)(1)(D). Pub. L. 109–364, §858(1), added subpar. (D).
+
+Subsec. (a)(2). Pub. L. 109–364, §858(2), inserted “, Hispanic-serving institutions,” before “and minority institutions” and “and institutions” before “in the program”.
+
+Subsec. (c)(1). Pub. L. 109–364, §858(3), inserted “, Hispanic-serving institutions,” before “and minority institutions”.
+
+Subsec. (c)(3). Pub. L. 109–364, §858(4), inserted “, to Hispanic-serving institutions,” before “and to minority institutions” in introductory provisions.
+
+Subsec. (k). Pub. L. 109–163 substituted “2009” for “2006” in pars. (1) and (2).
 
 2003—Subsec. (i)(3). Pub. L. 108–136 struck out par. (3) which listed certain items to be included in the report required under par. (1).
 
@@ -210,7 +220,7 @@ Subsec. (i)(3)(D). Pub. L. 104–106, §4321(b)(8)(D), added subpar. (D).
 
 1993—Subsec. (a)(1)(B). Pub. L. 103–160, §811(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “historically Black colleges and universities; and”.
 
-Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “minority institutions (as defined in paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058)), including anynonprofit research institution that was an integral part of a historically Black college or university before November 14, 1986.”
+Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “minority institutions (as defined in paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058)), including any nonprofit research institution that was an integral part of a historically Black college or university before November 14, 1986.”
 
 Subsec. (f)(2). Pub. L. 103–160, §811(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall prescribe regulations which provide for the following:
 
@@ -287,4 +297,6 @@ Section 811(d) of Pub. L. 103–160 provided that:
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
 

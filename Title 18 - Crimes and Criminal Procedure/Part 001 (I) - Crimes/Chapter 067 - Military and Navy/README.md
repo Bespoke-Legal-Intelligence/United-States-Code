@@ -8,10 +8,16 @@
 | [1384\.](%C2%A7%2001384%20-%20Prostitution%20near%20military%20and%20naval%20establishments.md) | Prostitution near military and naval establishments. |
 | [1385\.](%C2%A7%2001385%20-%20Use%20of%20Army%20and%20Air%20Force%20as%20posse%20comitatus.md) | Use of Army and Air Force as posse comitatus. |
 | [1386\.](%C2%A7%2001386%20-%20Keys%20and%20keyways%20used%20in%20security%20applications%20by%20the%20Department%20of%20Defense.md) | Keys and keyways used in security applications by the Department of Defense. |
+| [1387\.](%C2%A7%2001387%20-%20Demonstrations%20at%20cemeteries%20under%20the%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%20Cemetery.md) | Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery. |
+| [1388\.](%C2%A7%2001388%20-%20Prohibition%20on%20disruptions%20of%20funerals%20of%20members%20or%20former%20members%20of%20the%20Armed%20Forces.md) | Prohibition on disruptions of funerals of members or former members of the Armed Forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–464, §1(b), Dec. 22, 2006, 120 Stat. 3481, added item 1388.
+
+Pub. L. 109–228, §3(b), May 29, 2006, 120 Stat. 389, added item 1387.
 
 1991—Pub. L. 102–190, div. A, title X, §1090(b), Dec. 5, 1991, 105 Stat. 1486, added item 1386.
 
@@ -30,3 +36,5 @@
 - [&sect; 01384 - Prostitution near military and naval establishments](%C2%A7%2001384%20-%20Prostitution%20near%20military%20and%20naval%20establishments.md)
 - [&sect; 01385 - Use of Army and Air Force as posse comitatus](%C2%A7%2001385%20-%20Use%20of%20Army%20and%20Air%20Force%20as%20posse%20comitatus.md)
 - [&sect; 01386 - Keys and keyways used in security applications by the Department of Defense](%C2%A7%2001386%20-%20Keys%20and%20keyways%20used%20in%20security%20applications%20by%20the%20Department%20of%20Defense.md)
+- [&sect; 01387 - Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery](%C2%A7%2001387%20-%20Demonstrations%20at%20cemeteries%20under%20the%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%20Cemetery.md)
+- [&sect; 01388 - Prohibition on disruptions of funerals of members or former members of the Armed Forces](%C2%A7%2001388%20-%20Prohibition%20on%20disruptions%20of%20funerals%20of%20members%20or%20former%20members%20of%20the%20Armed%20Forces.md)

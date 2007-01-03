@@ -42,7 +42,7 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961,except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
+Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961, except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
 
 #### Effective Date of 1949 Amendment
 

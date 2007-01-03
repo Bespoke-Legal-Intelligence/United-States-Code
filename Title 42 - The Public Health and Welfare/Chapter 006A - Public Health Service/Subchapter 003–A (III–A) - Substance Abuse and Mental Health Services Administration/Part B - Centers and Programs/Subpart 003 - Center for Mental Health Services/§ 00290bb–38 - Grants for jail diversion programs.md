@@ -80,7 +80,7 @@ The programs described in subsection (a) of this section shall be evaluated not 
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 through 2003.
+There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year2001, and such sums as may be necessary for fiscal years 2002 through 2003.
 
 (July 1, 1944, ch. 373, title V, §520G, as added Pub. L. 106–310, div. B, title XXXII, §3210, Oct. 17, 2000, 114 Stat. 1201.)
 

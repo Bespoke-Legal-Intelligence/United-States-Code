@@ -52,7 +52,11 @@ This part applies, with respect to a terminated multiemployer plan to which sect
 
 Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section in such manner as determined by the Secretary of the Treasury.
 
-(Pub. L. 93–406, title I, §301, Sept. 2, 1974, 88 Stat. 868; Pub. L. 96–364, title III, §304(a), title IV, §411(b), Sept. 26, 1980, 94 Stat. 1293, 1308; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2445, 2449.)
+(Pub. L. 93–406, title I, §301, Sept. 2, 1974, 88 Stat. 868; Pub. L. 96–364, title III, §304(a), title IV, §411(b), Sept. 26, 1980, 94 Stat. 1293, 1308; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title II, §201(c)(1), Aug. 17, 2006, 120 Stat. 868.)
+
+#### Repeal of Subsection (d)
+
+<i>Pub. L. 109–280, title II, §201(c)(1), (d), Aug. 17, 2006, 120 Stat. 868, provided that, applicable to plan years beginning after 2007, with special</i><i>rule for certain amortization extensions, subsection (d) of this section is repealed.</i>
 
 #### References in Text
 
@@ -76,9 +80,21 @@ Subsec. (a)(10). Pub. L. 101–239, §7894(d)(1)(A)(iii), substituted “any” 
 
 Subsecs. (c), (d). Pub. L. 96–364, §304(a), added subsecs. (c) and (d).
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title II, §201(d), Aug. 17, 2006, 120 Stat. 868, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[enacting section 1084 of this title and amending this section\] shall apply to plan years beginning after 2007.
+
+“(2)
+
+Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 412(e)\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[26 U.S.C. 6621(b)\].”
+
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Section 7894(d)(1)(B) of Pub. L. 101–239 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in section 411 of the Multiemployer Pension Plan Amendments Act of 1980 \[Pub. L. 96–364\].”
 
@@ -91,4 +107,8 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
+
+#### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
+
+For applicability of amendment by Pub. L. 109–280 to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
 

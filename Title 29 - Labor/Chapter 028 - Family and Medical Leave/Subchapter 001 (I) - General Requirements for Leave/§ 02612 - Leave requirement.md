@@ -56,7 +56,7 @@ Except as provided in subsection (d) of this section, leave granted under subsec
 
 #### (1) Requirement of notice
 
-&emsp;In any case in which the necessity for leave under subparagraph (A) or (B) of subsection (a)(1) of this section is foreseeable based on an expected birth or placement, the employee shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the birth or placement requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
+&emsp;In any case in which the necessity for leave under subparagraph (A) or (B) of subsection (a)(1) of this section is foreseeable based on anexpected birth or placement, the employee shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the birth or placement requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
 #### (2) Duties of employee
 
@@ -64,7 +64,7 @@ Except as provided in subsection (d) of this section, leave granted under subsec
 
 &emsp;&emsp;(A) shall make a reasonable effort to schedule the treatment so as not to disrupt unduly the operations of the employer, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate; and
 
-&emsp;&emsp;(B) shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intentionto take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
+&emsp;&emsp;(B) shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
 #### (f) Spouses employed by same employer
 

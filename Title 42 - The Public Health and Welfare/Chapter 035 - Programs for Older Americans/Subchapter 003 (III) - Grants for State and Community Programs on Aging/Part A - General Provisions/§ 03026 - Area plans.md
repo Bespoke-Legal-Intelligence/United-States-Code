@@ -4,11 +4,11 @@
 
 Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title. Each such plan shall—
 
-&emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, or construction of multipurpose senior centers, within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such area, and the number of older individuals whoare Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
+&emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, or construction of multipurpose senior centers, within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
 
 &emsp;(2) provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title, of the amount allotted for part B of this subchapter to the planning and service area will be expended for the delivery of each of the following categories of services—
 
-&emsp;&emsp;(A) services associated with access to services (transportation, outreach, information and assistance, and case management services);
+&emsp;&emsp;(A) services associated with access to services (transportation, health services (including mental health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
 
 &emsp;&emsp;(B) in-home services, including supportive services for families of older individuals who are victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction); <sup>1</sup> and
 
@@ -20,15 +20,21 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(B) specify, in grants, contracts, and agreements implementing the plan, the identity of each focal point so designated;
 
-&emsp;(4)(A)(i) provide assurances that the area agency on aging will set specific objectives for providing services to older individuals with greatest economic need and older individuals with greatest social need, include specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas, and include proposed methods of carrying out the preference in the area plan;
+&emsp;(4)(A)(i)(I) provide assurances that the area agency on aging will—
+
+&emsp;&emsp;(aa) set specific objectives, consistent with State policy, for providing services to older individuals with greatest economic need, older individuals with greatest social need, and older individuals at risk for institutional placement;
+
+&emsp;&emsp;(bb) include specific objectives for providing services to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas; and
+
+&emsp;(II) include proposed methods to achieve the objectives described in items (aa) and (bb) of subclause (I);
 
 &emsp;(ii) provide assurances that the area agency on aging will include in each agreement made with a provider of any service under this subchapter, a requirement that such provider will—
 
-&emsp;&emsp;(I) specify how the provider intends to satisfy the service needs of low-income minority individuals and older individuals residing in rural areas in the area served by the provider;
+&emsp;&emsp;(I) specify how the provider intends to satisfy the service needs of low-income minority individuals, older individuals with limited English proficiency, and older individuals residing in rural areas in the area served by the provider;
 
-&emsp;&emsp;(II) to the maximum extent feasible, provide services to low-income minority individuals and older individuals residing in rural areas in accordance with their need for such services; and
+&emsp;&emsp;(II) to the maximum extent feasible, provide services to low-income minority individuals, older individuals with limited English proficiency, and older individuals residing in rural areas in accordance with their need for such services; and
 
-&emsp;&emsp;(III) meet specific objectives established by the area agency on aging, for providing services to low-income minority individuals and older individuals residing in rural areas within the planning and service area; and
+&emsp;&emsp;(III) meet specific objectives established by the area agency on aging, for providing services to low-income minority individuals, older individuals with limited English proficiency, and older individuals residing in rural areas within the planning and service area; and
 
 &emsp;(iii) with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
 
@@ -44,21 +50,23 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(I) older individuals residing in rural areas;
 
-&emsp;&emsp;&emsp;(II) older individuals with greatest economic need (with particular attention to low-income minority individuals and older individuals residing in rural areas);
+&emsp;&emsp;&emsp;(II) older individuals with greatest economic need (with particular attention tolow-income minority individuals and older individuals residing in rural areas);
 
 &emsp;&emsp;&emsp;(III) older individuals with greatest social need (with particular attention to low-income minority individuals and older individuals residing in rural areas);
 
 &emsp;&emsp;&emsp;(IV) older individuals with severe disabilities;
 
-&emsp;&emsp;&emsp;(V) older individuals with limited English-speaking ability; and
+&emsp;&emsp;&emsp;(V) older individuals with limited English proficiency;
 
-&emsp;&emsp;&emsp;(VI) older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of such individuals); and
+&emsp;&emsp;&emsp;(VI) older individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction (and the caretakers of such individuals); and
+
+&emsp;&emsp;&emsp;(VII) older individuals at risk for institutional placement; and
 
 &emsp;&emsp;(ii) inform the older individuals referred to in subclauses (I) through (VI) of clause (i), and the caretakers of such individuals, of the availability of such assistance; and
 
 &emsp;(C) contain an assurance that the area agency on aging will ensure that each activity undertaken by the agency, including planning, advocacy, and systems development, will include a focus on the needs of low-income minority older individuals and older individuals residing in rural areas;
 
-&emsp;(5) provide assurances that the area agency on aging will coordinate planning, identification, assessment of needs, and provision of services for older individuals with disabilities, with particular attention to individuals with severe disabilities, with agencies that develop or provide services for individuals with disabilities;
+&emsp;(5) provide assurances that the area agency on aging will coordinate planning, identification, assessment of needs, and provision of services for older individuals with disabilities, with particular attention to individuals with severe disabilities and individuals at risk for institutional placement, with agencies that develop or provide services for individuals with disabilities;
 
 &emsp;(6) provide that the area agency on aging will—
 
@@ -66,17 +74,19 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(B) serve as the advocate and focal point for older individuals within the community by (in cooperation with agencies, organizations, and individuals participating in activities under the plan) monitoring, evaluating, and commenting upon all policies, programs, hearings, levies, and community actions which will affect older individuals;
 
-&emsp;&emsp;(C)(i) where possible, enter into arrangements with organizations providing day care services for children, assistance to older individuals caring for relatives who are children, and respite for families, so as to provide opportunities for older individuals to aid or assist on a voluntary basis in the delivery of such services to children, adults, and families; and
+&emsp;&emsp;(C)(i) where possible, enter into arrangements with organizations providing day care services for children, assistance to older individuals caring for relatives who are children, and respite for families, so as to provide opportunities for older individuals to aid or assist on a voluntary basis in the delivery of such services to children, adults, and families;
 
 &emsp;&emsp;(ii) if possible regarding the provision of services under this subchapter, enter into arrangements and coordinate with organizations that have a proven record of providing services to older individuals, that—
 
 &emsp;&emsp;&emsp;(I) were officially designated as community action agencies or community action programs under section 210 of the Economic Opportunity Act of 1964 (42 U.S.C. 2790) <sup>2</sup> for fiscal year 1981, and did not lose the designation as a result of failure to comply with such Act; or
 
-&emsp;&emsp;&emsp;(II) came into existence during fiscal year 1982 as direct successors in interest to such community action agencies or community action programs;
+&emsp;&emsp;&emsp;(II) came into existence during fiscal year 1982 as direct successors in interest to such community action agencies or community action programs; and
+
+&emsp;&emsp;(iii) make use of trained volunteers in providing direct services delivered to older individuals and individuals with disabilities needing such services and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings;
 
 > &emsp;&emsp;and that meet the requirements under section 9910 of this title;
 
-&emsp;&emsp;(D) establish an advisory council consisting of older individuals (including minority individuals and older individuals residing in rural areas) who are participants or who are eligible to participate in programs assisted under this chapter, representatives of older individuals, local elected officials, providers of veterans’ health care (if appropriate), and the general public, to advise continuously the area agency on aging on all matters relating to the development of the area plan, the administration of the plan and operations conducted under the plan;
+&emsp;&emsp;(D) establish an advisory council consisting of older individuals (including minority individuals and older individuals residing in rural areas) who are participants or who are eligible to participate in programs assisted under this chapter, family caregivers of such individuals, representatives of older individuals, service providers, representatives of the business community, local elected officials, providers of veterans’ health care (if appropriate), and the general public, to advise continuously the area agency on aging on all matters relating to the development of the area plan, the administration of the plan and operations conducted under the plan;
 
 &emsp;&emsp;(E) establish effective and efficient procedures for coordination of—
 
@@ -84,17 +94,29 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(ii) entities conducting other Federal programs for older individuals at the local level, with particular emphasis on entities conducting programs described in section 3013(b) of this title, within the area;
 
-&emsp;&emsp;(F) coordinate any mental health services provided with funds expended by the area agency on aging for part B of this subchapter with the mental health services provided by community health centers and by other public agencies and nonprofit private organizations; and
+&emsp;&emsp;(F) in coordination with the State agency and with the State agency responsible for mental health services, increase public awareness of mental health disorders, remove barriers to diagnosis and treatment, and coordinate mental health services (including mental health screenings) provided with funds expended by the area agency on aging with mental health services provided by community health centers and by other public agencies and nonprofit private organizations;
 
 &emsp;&emsp;(G) if there is a significant population of older individuals who are Indians in the planning and service area of the area agency on aging, the area agency on aging shall conduct outreach activities to identify such individuals in such area and shall inform such individuals of the availability of assistance under this chapter;
 
-&emsp;(7) provide that the area agency on aging will facilitate the coordination of community-based, long-term care services designed to enable older individuals to remain in their homes, by means including—
+&emsp;(7) provide that the area agency on aging shall, consistent with this section, facilitate the area-wide development and implementation of a comprehensive, coordinated system for providing long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, by—
 
-&emsp;&emsp;(A) development of case management services as a component of the long-term care services, consistent with the requirements of paragraph (8);
+&emsp;&emsp;(A) collaborating, coordinating activities, and consulting with other local public and private agencies and organizations responsible for administering programs, benefits, and services related to providing long-term care;
 
-&emsp;&emsp;(B) involvement of long-term care providers in the coordination of such services; and
+&emsp;&emsp;(B) conducting analyses and making recommendations with respect to strategies for modifying the local system of long-term care to better—
 
-&emsp;&emsp;(C) increasing community awareness of and involvement in addressing the needs of residents of long-term care facilities;
+&emsp;&emsp;&emsp;(i) respond to the needs and preferences of older individuals and family caregivers;
+
+&emsp;&emsp;&emsp;(ii) facilitate the provision, by service providers, of long-term care in home and community-based settings; and
+
+&emsp;&emsp;&emsp;(iii) target services to older individuals at risk for institutional placement, to permit such individuals to remain in home and community-based settings;
+
+&emsp;&emsp;(C) implementing, through the agency or service providers, evidence-based programs to assist older individuals and their family caregivers in learning about and making behavioral changes intended to reduce the risk of injury, disease, and disability among older individuals; and
+
+&emsp;&emsp;(D) providing for the availability and distribution (through public education campaigns, Aging and Disability Resource Centers, the area agency on aging itself, and other appropriate means) of information relating to—
+
+&emsp;&emsp;&emsp;(i) the need to plan in advance for long-term care; and
+
+&emsp;&emsp;&emsp;(ii) the full range of available public and private long-term care (including integrated long-term care) programs, options, service providers, and resources;
 
 &emsp;(8) provide that case management services provided under this subchapter through the area agency on aging will—
 
@@ -120,7 +142,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(A) information concerning whether there is a significant population of older Native Americans in the planning and service area and if so, an assurance that the area agency on aging will pursue activities, including outreach, to increase access of those older Native Americans to programs and benefits provided under this subchapter;
 
-&emsp;&emsp;(B) an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with servicesprovided under subchapter X of this chapter; and
+&emsp;&emsp;(B) an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X of this chapter; and
 
 &emsp;&emsp;(C) an assurance that the area agency on aging will make services under the area plan available, to the same extent as such services are available to older individuals within the planning and service area, to older Native Americans; and <sup>3</sup>
 
@@ -138,37 +160,79 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(C) demonstrate that a loss or diminution in the quantity or quality of the services provided, or to be provided, under this subchapter by such agency has not resulted and will not result from such contract or such relationship;
 
-&emsp;&emsp;(D) demonstrate that the quantity or quality of the services to be provided under this subchapter by such agency will be enhanced as a result of such contract or such relationship; and
+&emsp;&emsp;(D) demonstrate that the quantity or quality of the services to be provided under thissubchapter by such agency will be enhanced as a result of such contract or such relationship; and
 
 &emsp;&emsp;(E) on the request of the Assistant Secretary or the State, for the purpose of monitoring compliance with this chapter (including conducting an audit), disclose all sources and expenditures of funds such agency receives or expends to provide services to older individuals;
 
-&emsp;(14) provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter; and <sup>3</sup>
+&emsp;(14) provide assurances that preference in receiving services under this subchapter will not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter;
 
-&emsp;(15) <sup>5</sup> provide assurances that preference in receiving services under this subchapter will not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter.<sup>4</sup>
+&emsp;(15) provide assurances that funds received under this subchapter will be used—
 
-&emsp;(15) <sup>5</sup> provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter; <sup>6</sup>
+&emsp;&emsp;(A) to provide benefits and services to older individuals, giving priority to older individuals identified in paragraph (4)(A)(i); and
 
-&emsp;(16) provide assurances that preference in receiving services under this subchapter will not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter; <sup>7</sup>
+&emsp;&emsp;(B) in compliance with the assurances specified in paragraph (13) and the limitations specified in section 3020c of this title;
 
-#### (b) Waiver of requirements
+&emsp;(16) provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care; and
+
+&emsp;(17) include information detailing how the area agency on aging will coordinate activities, and develop long-range emergency preparedness plans, with local and State emergency response agencies, relief organizations, local and State governments, and any other institutions that have responsibility for disaster relief service delivery.
+
+#### (b) Assessment of preparation of area agencies
+
+(1) An area agency on aging may include in the area plan an assessment of how prepared the area agency on aging and service providers in the planning and service area are for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
+
+(2) Such assessment may include—
+
+&emsp;(A) the projected change in the number of older individuals in the planning and service area;
+
+&emsp;(B) an analysis of how such change may affect such individuals, including individuals with low incomes, individuals with greatest economic need, minority older individuals, older individuals residing in rural areas, and older individuals with limited English proficiency;
+
+&emsp;(C) an analysis of how the programs, policies, and services provided by such area agency can be improved, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the planning and service area; and
+
+&emsp;(D) an analysis of how the change in the number of individuals age 85 and older in the planning and service area is expected to affect the need for supportive services.
+
+(3) An area agency on aging, in cooperation with government officials, State agencies, tribal organizations, or local entities, may make recommendations to government officials in the planning and service area and the State, on actions determined by the area agency to build the capacity in the planning and service area to meet the needs of older individuals for—
+
+&emsp;(A) health and human services;
+
+&emsp;(B) land use;
+
+&emsp;(C) housing;
+
+&emsp;(D) transportation;
+
+&emsp;(E) public safety;
+
+&emsp;(F) workforce and economic development;
+
+&emsp;(G) recreation;
+
+&emsp;(H) education;
+
+&emsp;(I) civic engagement;
+
+&emsp;(J) emergency preparedness; and
+
+&emsp;(K) any other service as determined by such agency.
+
+#### (c) Waiver of requirements
 
 Each State, in approving area agency on aging plans under this section, shall waive the requirement described in paragraph (2) of subsection (a) of this section for any category of services described in such paragraph if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area and had conducted a timely public hearing upon request.
 
-#### (c) Transportation services; funds
+#### (d) Transportation services; funds
 
 (1) Subject to regulations prescribed by the Assistant Secretary, an area agency on aging designated under section 3025(a)(2)(A) of this title or, in areas of a State where no such agency has been designated, the State agency, may enter into agreements with agencies administering programs under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] for the purpose of developing and implementing plans for meeting the common need for transportation services of individuals receiving benefits under such Acts and older individuals participating in programs authorized by this subchapter.
 
 (2) In accordance with an agreement entered into under paragraph (1), funds appropriated under this subchapter may be used to purchase transportation services for older individuals and may be pooled with funds made available for the provision of transportation services under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\].
 
-#### (d) Confidentiality of information relating to legal assistance
+#### (e) Confidentiality of information relating to legal assistance
 
 An area agency on aging may not require any provider of legal assistance under this subchapter to reveal any information that is protected by the attorney-client privilege.
 
-#### (e) Withholding of area funds
+#### (f) Withholding of area funds
 
 (1) If the head of a State agency finds that an area agency on aging has failed to comply with Federal or State laws, including the area plan requirements of this section, regulations, or policies, the State may withhold a portion of the funds to the area agency on aging available under this subchapter.
 
-(2)(A) The head of a State agency shall not make a final determination withholding funds under paragraph (1) without first affording the area agency on aging due process in accordance with procedures established by the State agency.
+(2)(A) The head of a State agency shall not make a final determination withholding fundsunder paragraph (1) without first affording the area agency on aging due process in accordance with procedures established by the State agency.
 
 (B) At a minimum, such procedures shall include procedures for—
 
@@ -182,15 +246,15 @@ An area agency on aging may not require any provider of legal assistance under t
 
 (B) If the State agency determines that the area agency on aging has not taken corrective action, or if the State agency does not approve the corrective action, during the 180-day period described in subparagraph (A), the State agency may extend the period for not more than 90 days.
 
-(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (10)(C), (E), title III, §306, title IX, §904(a)(12), Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–285, title II, §202(a), Oct. 27, 1998, 112 Stat. 2755; Pub. L. 106–501, title III, §305, Nov. 13, 2000, 114 Stat. 2240.)
+(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (10)(C), (E), title III, §306, title IX, §904(a)(12), Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–285, title II, §202(a), Oct. 27, 1998, 112 Stat. 2755; Pub. L. 106–501, title III, §305, Nov. 13, 2000, 114 Stat. 2240; Pub. L. 109–365, title III, §306, Oct. 17, 2006, 120 Stat. 2540.)
 
 #### References in Text
 
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(6)(C)(ii)(I), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. Section 210 of the Act was classified to section 2790 of this title prior to repeal by Pub. L. 97–35. For complete classification of this Act to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XX of the Act are classified generally to subchapters XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XX of the Act are classified generally to subchapters XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -199,6 +263,52 @@ A prior section 3026, Pub. L. 89–73, title III, §306, as added Pub. L. 93–2
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–365, §306(1)(A)(iii), which directed the insertion of “the number of older individuals at risk for institutional placement residing in such area,” after “individuals) residing in such area,”, was executed by making the insertion after “individuals residing in rural areas) residing in such area,” to reflect the probable intent of Congress and amendments by Pub. L. 106–501, §305(a)(1) and Pub. L. 109–365, §306(1)(A)(ii). See notes below.
+
+Pub. L. 109–365, §306(1)(A)(ii), which directed the substitution of “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals)”, was executed by making the substitution for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” the second place that phrase appeared, to reflect the probable intent of Congress and amendment by Pub. L. 106–501, §305(a)(1). See 2000 Amendment note below.
+
+Pub. L. 109–365, §306(1)(A)(i), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)”, the first place that phrase appeared.
+
+Subsec. (a)(2)(A). Pub. L. 109–365, §306(1)(B), inserted “health services (including mental health services),” after “transportation,” and “(which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible)” after “information and assistance”.
+
+Subsec. (a)(4)(A)(i). Pub. L. 109–365, §306(1)(C)(i)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “provide assurances that the area agency on aging will set specific objectives for providing services to older individuals with greatest economic need and older individuals with greatest social need, include specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas, and include proposed methods of carrying out the preference in the area plan;”.
+
+Subsec. (a)(4)(A)(ii). Pub. L. 109–365, §306(1)(C)(i)(II), inserted “, older individuals with limited English proficiency,” after “low-income minority individuals” in subcls. (I) to (III).
+
+Subsec. (a)(4)(B). Pub. L. 109–365, §306(1)(C)(ii)(I), realigned margins.
+
+Subsec. (a)(4)(B)(i)(V). Pub. L. 109–365, §306(1)(C)(ii)(II)(aa), substituted “with limited English proficiency;” for “with limited English-speaking ability; and”.
+
+Subsec. (a)(4)(B)(i)(VI). Pub. L. 109–365, §306(1)(C)(ii)(II)(bb), substituted “and related” for “or related”.
+
+Subsec. (a)(4)(B)(i)(VII). Pub. L. 109–365, §306(1)(C)(ii)(II)(cc), added subcl. (VII).
+
+Subsec. (a)(5). Pub. L. 109–365, §306(1)(D), inserted “and individuals at risk for institutional placement” after “severe disabilities”.
+
+Subsec. (a)(6)(C)(iii). Pub. L. 109–365, §306(1)(E)(i), added cl. (iii).
+
+Subsec. (a)(6)(D). Pub. L. 109–365, §306(1)(E)(ii), inserted “family caregivers of such individuals,” after “chapter,” and “service providers, representatives of the business community,” after “older individuals,”.
+
+Subsec. (a)(6)(F). Pub. L. 109–365, §306(1)(E)(iii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “coordinate any mental health services provided with funds expended by the area agency on aging for part B of this subchapter with the mental health services provided by community health centers and by other public agencies and nonprofit private organizations; and”.
+
+Subsec. (a)(7). Pub. L. 109–365, §306(1)(F), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provide that the area agency on aging will facilitate the coordination of community-based, long-term care services designed to enable older individuals to remain in their homes, by means including—
+
+&emsp;“(A) development of case management services as a component of the long-term care services, consistent with the requirements of paragraph (8);
+
+&emsp;“(B) involvement of long-term care providers in the coordination of such services; and
+
+&emsp;“(C) increasing community awareness of and involvement in addressing the needs of residents of long-term care facilities;”.
+
+Subsec. (a)(14) to (17). Pub. L. 109–365, §306(1)(G)–(I), added pars. (15) to (17), redesignated former par. (16) as (14), and struck out former pars. (14) and two pars. (15) which read as follows:
+
+“(14) provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter; and
+
+“(15) provide assurances that preference in receiving services under this subchapter will not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter.
+
+“(15) provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter;”.
+
+Subsecs. (b) to (f). Pub. L. 109–365, §306(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
 2000—Subsec. (a)(1). Pub. L. 106–501, §305(a)(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 
@@ -308,7 +418,7 @@ Subsec. (a)(5)(C). Pub. L. 102–375, §306(c)(2)(C), added subpar. (C).
 
 Subsec. (a)(6)(B). Pub. L. 102–375, §306(d)(1), inserted “, and timely information in a timely manner,” after “assistance”.
 
-Subsec. (a)(6)(D). Pub. L. 102–375, §904(a)(12) (A)(iv)(I), substituted “older individuals” for “the elderly” in two places.
+Subsec. (a)(6)(D). Pub. L. 102–375, §904(a)(12)(A)(iv)(I), substituted “older individuals” for “the elderly” in two places.
 
 Pub. L. 102–375, §306(d)(2), inserted “(in cooperation with agencies, organizations, and individuals participating in activities under the plan)” after “community by”.
 
@@ -322,9 +432,9 @@ Subsec. (a)(6)(H). Pub. L. 102–375, §306(d)(4), amended subpar. (H) generally
 
 Subsec. (a)(6)(I). Pub. L. 102–375, §306(d)(5), substituted “include the development of case management services as a component of the long-term care services” for “emphasize the development of client-centered case management systems as a component of such services”.
 
-Subsec. (a)(6)(N). Pub. L. 102–375, §904(a)(12) (A)(iv)(IV), which directed substitution of “such individuals in such area and shall inform such individuals” for “elder Indians in such area and shall inform such older Indians”, was executed by making the substitution for “older Indians in such area and shall inform such older Indians” to reflect the probable intent of Congress.
+Subsec. (a)(6)(N). Pub. L. 102–375, §904(a)(12)(A)(iv)(IV), which directed substitution of “such individuals in such area and shall inform such individuals” for “elder Indians in such area and shall inform such older Indians”, was executed by making the substitution for “older Indians in such area and shall inform such older Indians” to reflect the probable intent of Congress.
 
-Pub. L. 102–375, §§102(b)(10)(E), 904(a)(12) (A)(iv)(III), substituted “population of older individuals who are Indians” for “population of older Indians” and “area agency on aging” for “area agency” in two places.
+Pub. L. 102–375, §§102(b)(10)(E), 904(a)(12)(A)(iv)(III), substituted “population of older individuals who are Indians” for “population of older Indians” and “area agency on aging” for “area agency” in two places.
 
 Subsec. (a)(6)(O)(ii). Pub. L. 102–375, §306(d)(6), struck out “and” at end.
 
@@ -459,10 +569,4 @@ Section 155(h) of Pub. L. 100–175 directed Commissioner on Aging to issue guid
 <i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
 <i><sup>4</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>5</sup></i><i> So in original. Two pars. (15) have been enacted.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
-<i><sup>7</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

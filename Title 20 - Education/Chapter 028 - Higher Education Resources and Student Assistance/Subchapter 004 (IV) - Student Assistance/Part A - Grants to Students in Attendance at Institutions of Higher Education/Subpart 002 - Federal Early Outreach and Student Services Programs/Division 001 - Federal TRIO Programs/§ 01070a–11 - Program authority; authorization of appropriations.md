@@ -8,7 +8,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (1) Recipients
 
-&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized,without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, combinations of such institutions, agencies and organizations, and in exceptional circumstances, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
+&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized, without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, combinations of such institutions, agencies and organizations, and in exceptional circumstances, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
 
 #### (2) Duration
 
@@ -38,7 +38,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (2) Prior experience
 
-&emsp;In making grants under this division, the Secretary shall consider each applicant's prior experience of service delivery under the particular program for which funds are sought. The level of consideration given the factor of prior experience shall not vary from the level of consideration given such factor during fiscal years 1994 through 1997, except that grants made under section 1070a–18 of this title shall not be given prior experience consideration.
+&emsp;In making grants under this division, the Secretary shall consider each applicant's priorexperience of service delivery under the particular program for which funds are sought. The level of consideration given the factor of prior experience shall not vary from the level of consideration given such factor during fiscal years 1994 through 1997, except that grants made under section 1070a–18 of this title shall not be given prior experience consideration.
 
 #### (3) Order of awards; program fraud
 
@@ -140,7 +140,7 @@ For the purpose of this division:
 
 #### References in Text
 
-The Higher Education Amendments of 1992, referred to in subsec. (f), is Pub. L. 102–325, July 23, 1992, 106Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (f), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
 
@@ -160,7 +160,7 @@ Subsec. (f). Pub. L. 105–244, §402(a)(4), substituted “$700,000,000 for fis
 
 Subsec. (g)(4). Pub. L. 105–244, §402(a)(5), added par. (4).
 
-1993—Subsec. (b)(2). Pub. L. 103–208, §2(b)(6), added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
+1993—Subsec. (b)(2). Pub. L. 103–208, §2(b)(6), added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were inthe highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
 
 Subsec. (c)(1). Pub. L. 103–208, §2(b)(7), inserted before period at end of second sentence “, except that in the case of the programs authorized in sections 1070a–15 and 1070a–17 of this title, the level of consideration given to prior experience shall be the same as the level of consideration given this factor in the other programs authorized in this division”.
 

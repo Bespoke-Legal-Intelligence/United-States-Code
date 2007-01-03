@@ -36,7 +36,7 @@
 
 (e) A disability for which compensation under this subchapter is payable shall be considered to be service connected for purposes of all other laws of the United States.
 
-(f) For purposes of this section, the term “Persian Gulf veteran” means a veteran who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+(f) For purposes of this section, the term “Persian Gulf veteran” means a veteran who servedon active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
 
 (g) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness or a chronic multisymptom illness include the following:
 
@@ -66,7 +66,7 @@
 
 &emsp;(13) Menstrual disorders.
 
-(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), nothwithstanding <sup>1</sup> any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
+(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
 
 (2) Paragraph (1) does not apply in a case in which—
 
@@ -76,9 +76,11 @@
 
 (3) The Secretary shall publish in the Federal Register a list of medical research projects sponsored by the Department for which service connection granted under this section or section 1118 of this title may not be terminated pursuant to paragraph (1).
 
-(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989.)
+(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, §503(1), June 15, 2006, 120 Stat. 415.)
 
 #### Amendments
+
+2006—Subsec. (h)(1). Pub. L. 109–233 substituted “notwithstanding” for “nothwithstanding”.
 
 2001—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
 
@@ -122,7 +124,7 @@ Assessment by National Academy of Sciences.—Not later than April 1, 1999, the 
 
 “(b)
 
-Action on Report.—(1) After receiving the final report of the National Academy of Sciences under subsection (a), the Secretary shall, if a reasonable and scientifically feasible methodology is identified by the Academy, develop an appropriate mechanism to monitor and study the effectiveness of treatments furnished to, and health outcomes of, Persian Gulf War veterans who suffer from diagnosed and undiagnosed illnesses which may be associated with their service in the Persian Gulf War.
+Action on Report.—(1) After receiving the final report of the National Academy of Sciences under subsection (a), the Secretary shall, if a reasonable and scientifically feasible methodology is identified by the Academy, develop an appropriate mechanism to monitor and study the effectiveness of treatments furnished to, and health outcomes of, Persian Gulf War veterans who suffer from diagnosed and undiagnosed illnesseswhich may be associated with their service in the Persian Gulf War.
 
 “(2) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of paragraph (1).
 
@@ -154,7 +156,7 @@ Identification of Agents and Illnesses.—(1) Under the agreement under subsecti
 
 “(d)
 
-Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards, or preventive medicines or vaccines to which membersof the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
+Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards, or preventive medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
 
 &emsp;“(A) The following organophosphorous pesticides:
 
@@ -260,7 +262,7 @@ Review of Potential Treatment Models for Certain Illnesses.—Under the agreemen
 
 “(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with Gulf War service.
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make anyrecommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with Gulf War service.
 
 “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -340,7 +342,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans resultfrom multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;“(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
@@ -486,7 +488,7 @@ Study of Health Consequences of Persian Gulf Service.—If the National Academy 
 
 Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
-“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
+“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into anagreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
 “(c)
 
@@ -512,7 +514,7 @@ Ex. Ord. No. 13034, Jan. 30, 1997, 62 F.R. 5137, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Extension</i>. The Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”), established pursuant to Executive Order 12961 \[set out above\] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President's designation of a Chairperson, shall remain in effect. The limitations set forth in section2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
+Section 1. <i>Extension</i>. The Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”), established pursuant to Executive Order 12961 \[set out above\] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President's designation of a Chairperson, shall remain in effect. The limitations set forth in section 2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
 
 Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President through the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services.
 
@@ -533,6 +535,4 @@ Sec. 3. <i>General Provisions</i>. (a) The Committee shall terminate 30 days aft
 (b) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. Probably should be “notwithstanding”.</i>
 

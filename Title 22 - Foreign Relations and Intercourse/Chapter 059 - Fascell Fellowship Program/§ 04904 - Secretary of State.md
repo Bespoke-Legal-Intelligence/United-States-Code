@@ -16,7 +16,7 @@ Fellows may be employed—
 
 #### (c) Funding
 
-Funds appropriated to the Department of State for “Salaries and Expenses” shall be usedfor the expenses incurred in carrying out this chapter.
+Funds appropriated to the Department of State for “Salaries and Expenses” shall be used for the expenses incurred in carrying out this chapter.
 
 (Pub. L. 99–399, title X, §1005, Aug. 27, 1986, 100 Stat. 894; Pub. L. 100–204, title I, §187, Dec. 22, 1987, 101 Stat. 1368; Pub. L. 101–454, §9(d), Oct. 24, 1990, 104 Stat. 1066.)
 

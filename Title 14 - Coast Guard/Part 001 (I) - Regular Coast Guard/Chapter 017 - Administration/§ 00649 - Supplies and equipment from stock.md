@@ -1,6 +1,6 @@
 ### §649. Supplies and equipment from stock
 
-Supplies and equipment for special work of the Coast Guard may be furnished from general stock and the applicable appropriation reimbursed therefor from the respective appropriations for such special work.
+Supplies and equipment for special work of the Coast Guard may be furnished from generalstock and the applicable appropriation reimbursed therefor from the respective appropriations for such special work.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 550.)
 

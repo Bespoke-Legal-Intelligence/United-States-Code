@@ -8,13 +8,13 @@
 
 &emsp;&emsp;(i) the current estimate of the value of the single level percentage of basic pay to be determined under subsection (c)(1)(A) at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;&emsp;(ii) the total amount of basic pay expected to be paid during that fiscal year to members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).
+&emsp;&emsp;(ii) the total amount of basic pay expected to be paid during that fiscal year for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.
 
 &emsp;(B) The product of—
 
 &emsp;&emsp;(i) the current estimate of the value of the single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) to be determined under subsection (c)(1)(B) at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;&emsp;(ii) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) expected to be paid during that fiscal year to members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described in subparagraph (A)(ii).
+&emsp;&emsp;(ii) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) expected to be paid during that fiscal year to members of the Selected Reserve of the armed forces (other than the Coast Guard) for service not otherwise described in subparagraph (A)(ii).
 
 (2) The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Department of Defense for that fiscal year for payments to be made to the Fund during that year under section 1466(a) of this title. The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
 
@@ -22,9 +22,9 @@
 
 (c)(1) Not less often than every four years, the Secretary of Defense shall carry out an actuarial valuation of Department of Defense military retirement and survivor benefit programs. Each actuarial valuation of such programs shall include—
 
-&emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only), to be determined without regard to section 1413a or 1414 of this title; and
+&emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title, to be determined without regard to section 1413a or 1414 of this title; and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A), to be determined without regard to section 1413a or 1414 of this title.
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Selected Reserve of the armed forces (other than the Coast Guard) for service not otherwise described by subparagraph (A), to be determined without regard to section 1413a or 1414 of this title.
 
 > Such single level percentages shall be used for the purposes of subsection (b)(1) and section 1466(a) of this title.
 
@@ -46,7 +46,7 @@
 
 (e) The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 646; amended Pub. L. 98–525, title XIV, §1405(28), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–500, §101(c) \[title IX, §9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–128; Pub. L. 99–661, div. A, title VI, §661(a), Nov. 14, 1986, 100 Stat. 3891; Pub. L. 108–136, div.A, title VI, §641(c)(3), (4), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 646; amended Pub. L. 98–525, title XIV, §1405(28), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–500, §101(c) \[title IX, §9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–128; Pub. L. 99–661, div. A, title VI, §661(a), Nov. 14, 1986, 100 Stat. 3891; Pub. L. 108–136, div. A, title VI, §641(c)(3), (4), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(a), Oct. 17, 2006, 120 Stat. 2232.)
 
 #### Codification
 
@@ -55,6 +55,14 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on section 642 of S. 2638, Ninety-ninth Congress, as passed by the Senate on Aug. 9, 1986, which was enacted into permanent law by Pub. L. 99–500 and Pub. L. 99–591. S. 2638 was subsequently enacted as Pub. L. 99–661.
 
 #### Amendments
+
+2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–364, §591 (a)(1)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “to members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 109–364, §591(a)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
+
+Subsec. (c)(1)(A). Pub. L. 109–364, §591(a)(2)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
+
+Subsec. (c)(1)(B). Pub. L. 109–364, §591(a)(2)(B), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 
 2004—Subsec. (c)(1)(A), (B), (4)(A), (B). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
@@ -78,6 +86,10 @@ Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, §661(a
 
 1984—Subsec. (c)(1). Pub. L. 98–525 struck out “(A)” after “(c)(1)”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title V, §591(c), Oct. 17, 2006, 120 Stat. 2233, provided that: “The amendments made by this section \[amending this section and section 1466 of this title\] shall take effect on October 1, 2007.”
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense to provide for certain administrative adjustments, see section 641(c)(6) of Pub. L. 108–136, set out as a note under section 1413a of this title.
@@ -85,8 +97,4 @@ Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense
 #### Effective Date of 1986 Amendments
 
 Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9131\] of Pub. L. 99–500 and Pub. L. 99–591, and section 661(d) of Pub. L. 99–661, provided respectively that: “The amendments made by this section \[amending this section and section 1466 of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Oct. 18, 1986\], whichever is later, and shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by this section, for months beginning on or after that effective date.” and “The amendments made by subsections (a) and (b) \[amending this section and section 1466 of this title\] shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by subsection (b), for months beginning on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

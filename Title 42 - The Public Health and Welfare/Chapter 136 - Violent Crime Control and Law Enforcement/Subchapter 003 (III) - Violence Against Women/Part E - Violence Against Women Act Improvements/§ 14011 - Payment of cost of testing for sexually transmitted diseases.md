@@ -28,7 +28,7 @@
 
 #### (5) Confidentiality of test
 
-&emsp;The results of any test ordered under this subsection shall be disclosed only to the victim or, where the court deems appropriate, to the parent or legal guardian of the victim, and to the person tested. The victim may disclose the test results only to any medical professional, counselor, family member or sexual partner(s) the victim may have had since theattack. Any such individual to whom the test results are disclosed by the victim shall maintain the confidentiality of such information.
+&emsp;The results of any test ordered under this subsection shall be disclosed only to the victim or, where the court deems appropriate, to the parent or legal guardian of the victim, and to the person tested. The victim may disclose the test results only to any medical professional, counselor, family member or sexual partner(s) the victim may have had since the attack. Any such individual to whom the test results are disclosed by the victim shall maintain the confidentiality of such information.
 
 #### (6) Disclosure of test results
 

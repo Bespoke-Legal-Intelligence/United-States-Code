@@ -2,7 +2,7 @@
 
 #### (a) Granting
 
-With respect to the purchase of new buses, a public entity may apply for, and the Secretary may temporarily relieve such public entity from the obligation under section 12142(a) or 12144 of this title to purchase new buses that are readilyaccessible to and usable by individuals with disabilities if such public entity demonstrates to the satisfaction of the Secretary—
+With respect to the purchase of new buses, a public entity may apply for, and the Secretary may temporarily relieve such public entity from the obligation under section 12142(a) or 12144 of this title to purchase new buses that are readily accessible to and usable by individuals with disabilities if such public entity demonstrates to the satisfaction of the Secretary—
 
 &emsp;(1) that the initial solicitation for new buses made by the public entity specified that all new buses were to be lift-equipped and were to be otherwise accessible to and usable by individuals with disabilities;
 

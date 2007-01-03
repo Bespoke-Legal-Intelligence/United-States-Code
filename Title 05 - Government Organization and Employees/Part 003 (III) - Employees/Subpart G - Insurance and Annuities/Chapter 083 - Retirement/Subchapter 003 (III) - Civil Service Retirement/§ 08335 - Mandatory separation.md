@@ -4,7 +4,7 @@
 
 (b)(1) A law enforcement officer, firefighter, or nuclear materials courier who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer, firefighter, or courier, as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. The head of the agency, when in his judgment the public interest so requires, may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
-(2) <sup>1</sup> In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The authority to grant exemptions in accordance with the preceding sentence shall cease to be available after December 31, 2009.
+(2) <sup>1</sup> In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The authority to grant exemptions in accordance withthe preceding sentence shall cease to be available after December 31, 2009.
 
 (2) <sup>1</sup> In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 #### Exemption Process To Delay Mandatory Retirement for Air Traffic Controllers
 
-Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1, 2004, the Secretary of Transportation, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
+Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1,2004, the Secretary of Transportation, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
 
 #### Nonapplicability of Subsection (a) to Air Traffic Controllers Appointed Before January 1, 1987
 

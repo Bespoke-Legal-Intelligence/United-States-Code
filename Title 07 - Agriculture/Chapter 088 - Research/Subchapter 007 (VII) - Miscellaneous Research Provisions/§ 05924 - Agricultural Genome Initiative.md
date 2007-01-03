@@ -50,7 +50,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 #### (d) Administration
 
-Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply with respect to the making of a grant or cooperative agreement under this section.
+Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply withrespect to the making of a grant or cooperative agreement under this section.
 
 #### (e) Matching of funds
 

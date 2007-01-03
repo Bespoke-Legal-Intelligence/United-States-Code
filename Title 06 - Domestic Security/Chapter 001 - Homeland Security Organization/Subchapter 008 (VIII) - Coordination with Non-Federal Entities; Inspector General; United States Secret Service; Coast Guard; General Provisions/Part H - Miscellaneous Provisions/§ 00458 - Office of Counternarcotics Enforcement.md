@@ -16,13 +16,9 @@ There is established in the Department an Office of Counternarcotics Enforcement
 
 #### (c) Limitation on concurrent employment
 
-Except as provided in subsection (d) of this section, the Director of the Office of Counternarcotics Enforcement shall not be employed by, assigned to, or serve as the head of, any other branch of the Federal Government, any State or local government, or any subdivision of the Department other than the Office of Counternarcotics Enforcement.
+The Director of the Office of Counternarcotics Enforcement shall not be employed by, assigned to, or serve as the head of, any other branch of the Federal Government, any State or local government, or any subdivision of the Department other than the Office of Counternarcotics Enforcement.
 
-#### (d) Eligibility to serve as the United States Interdiction Coordinator
-
-The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed.
-
-#### (e) Responsibilities
+#### (d) Responsibilities
 
 The Secretary shall direct the Director of the Office of Counternarcotics Enforcement—
 
@@ -36,11 +32,11 @@ The Secretary shall direct the Director of the Office of Counternarcotics Enforc
 
 &emsp;(5) to be a representative of the Department on all task forces, committees, or other entities whose purpose is to coordinate the counternarcotics enforcement activities of the Department and other Federal, State or local agencies.
 
-#### (f) Savings clause
+#### (e) Savings clause
 
 Nothing in this section shall be construed to authorize direct control of the operations conducted by the Directorate of Border and Transportation Security, the Coast Guard, or joint terrorism task forces.
 
-#### (g) Reports to Congress
+#### (f) Reports to Congress
 
 #### (1) Annual budget review
 
@@ -68,9 +64,13 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 &emsp;Any content of a review and evaluation described in the reports required in this subsection that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Secretary, would be detrimental to the law enforcement or national security activities of the Department or any other Federal, State, or local agency, shall be presented to Congress separately from the rest of the review and evaluation.
 
-(Pub. L. 107–296, title VIII, §878, Nov. 25, 2002, 116 Stat. 2245; Pub. L. 108–458, title VII, §7407(a), Dec. 17, 2004, 118 Stat. 3851.)
+(Pub. L. 107–296, title VIII, §878, Nov. 25, 2002, 116 Stat. 2245; Pub. L. 108–458, title VII, §7407(a), Dec. 17, 2004, 118 Stat. 3851; Pub. L. 109–469, title I, §103(f)(2), Dec. 29, 2006, 120 Stat. 3510.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–469, §103(f)(2)(A), substituted “The” for “Except as provided in subsection (d) of this section, the”.
+
+Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed.”
 
 2004—Pub. L. 108–458 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary shall appoint a senior official in the Department to assume primary responsibility for coordinating policy and operations within the Department and between the Department and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States, and tracking and severing connections between illegal drug trafficking and terrorism. Such official shall—
 

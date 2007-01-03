@@ -18,5 +18,5 @@ Section 6 of Pub. L. 96–358 provided that: “The provisions of this Act \[ena
 
 #### Short Title
 
-Section 1 of Pub. L. 96–358 provided: “That this Act \[enacting this chapter and amending section 1932 of this title\] may be cited as the ‘Agricultural Subterminal Facilities Act of 1980’.”
+Section 1 of Pub. L. 96–358 provided: “That this Act \[enacting this chapter and amending section 1932 ofthis title\] may be cited as the ‘Agricultural Subterminal Facilities Act of 1980’.”
 

@@ -37,9 +37,6 @@
 | [428a.](%C2%A7%2000428a%20-%20Acquisition%20of%20land%3B%20options.md) | Acquisition of land; options. |
 | [428b.](%C2%A7%2000428b%20-%20Wheat%20and%20feed%20grains%20research%3B%20regional%20and%20national%20research%20programs%3B%20utilization%20of%20services%20of%20Federal%2C%20State%20and%20private%20agencies%E2%80%A6.md) | Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations. |
 | [428c.](%C2%A7%2000428c%20-%20Rice%20research.md) | Rice research. |
-| (a) | Regional and national research programs; rules; purposes. |
-| (b) | Utilization of services of Federal, State, local governmental and private agencies; priority consideration. |
-| (c) | Authorization of appropriations; use restriction. |
 | [429\.](%C2%A7%2000429%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20X%2C%20%C2%A710418%28a%29%282%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20507.md) | Repealed. |
 | [430\.](%C2%A7%2000430%20-%20Purchase%20and%20testing%20of%20serums%20or%20analogous%20products%3B%20dissemination%20of%20test%20results.md) | Purchase and testing of serums or analogous products; dissemination of test results. |
 | [431\.](%C2%A7%2000431%20-%20Purchase%20of%20tags%2C%20labels%2C%20stamps%2C%20and%20certificates.md) | Purchase of tags, labels, stamps, and certificates. |
@@ -76,17 +73,6 @@
 | [450g.](%C2%A7%2000450g%20-%20Authorization%20of%20appropriations%20for%20cooperative%20research%20projects.md) | Authorization of appropriations for cooperative research projects. |
 | [450h.](%C2%A7%2000450h%20-%20Transferred.md) | Transferred. |
 | [450i.](%C2%A7%2000450i%20-%20Competitive%2C%20special%2C%20and%20facilities%20research%20grants.md) | Competitive, special, and facilities research grants. |
-| (a) | Establishment of grant program. |
-| (b) | Competitive grants. |
-| (c) | Special grants. |
-| (d) | Facilities grants. |
-| (e) | Inter-Regional Research Project Number 4. |
-| (f) | Record keeping. |
-| (g) | Limits on overhead costs. |
-| (h) | Authorization of appropriations. |
-| (i) | Rules. |
-| (j) | Application of other laws. |
-| (k) | Emphasis on sustainable agriculture. |
 | [450j.](%C2%A7%2000450j%20-%20Indemnity%20payments%20to%20dairy%20farmers%20and%20manufacturers%20of%20dairy%20products%3B%20milk%20removed%20for%20its%20residue%20of%20chemical%20or%20toxic%20substances%E2%80%A6.md) | Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse. |
 | [450k.](%C2%A7%2000450k%20-%20Authorization%20of%20appropriations%20for%20dairy%20farmer%20indemnities.md) | Authorization of appropriations for dairy farmer indemnities. |
 | 450<i>l.</i> | Expiration of dairy farmer indemnity program. |

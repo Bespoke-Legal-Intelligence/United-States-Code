@@ -12,7 +12,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;(2) A plan may not acquire any qualifying employer security or qualifying employer real property, if immediately after such acquisition the aggregate fair market value of employer securities and employer real property held by the plan exceeds 10 percent of the fair market value of the assets of the plan.
 
-&emsp;(3)(A) After December 31, 1984, a plan may not hold any qualifying employer securities or qualifying employer real property (or both) tothe extent that the aggregate fair market value of such securities and property determined on December 31, 1984, exceeds 10 percent of the greater of—
+&emsp;(3)(A) After December 31, 1984, a plan may not hold any qualifying employer securities or qualifying employer real property (or both) to the extent that the aggregate fair market value of such securities and property determined on December 31, 1984, exceeds 10 percent of the greater of—
 
 &emsp;&emsp;(i) the fair market value of the assets of the plan, determined on December 31, 1984, or
 
@@ -61,6 +61,8 @@ Cross References.—
 &emsp;&emsp;<b>(B) For exemption from prohibited transactions for certain acquisitions of qualifying employer securities and qualifying employer real property which are not in violation of 10 percent limitation, see section 1108(e) of this title.</b>
 
 &emsp;&emsp;<b>(C) For transitional rules respecting securities or real property subject to binding contracts in effect on June 30, 1974, see section 1114(c) of this title.</b>
+
+&emsp;&emsp;<b>(D) For diversification requirements for qualifying employer securities held in certain individual account plans, see section 1054(j) of this title.</b>
 
 #### (c) Election
 
@@ -118,7 +120,7 @@ For purposes of this section—
 
 &emsp;(8) The Secretary may prescribe regulations specifying the extent to which conversions, splits, the exercise of rights, and similar transactions are not treated as acquisitions.
 
-&emsp;(9) For purposes of this section, an arrangement which consists of a defined benefit plan and an individual account plan shall be treated as 1 plan if the benefits of such individual account plan are taken into account in determining the benefits payable under such defined benefit plan.
+&emsp;(9) For purposes of this section, an arrangement which consists of a defined benefit planand an individual account plan shall be treated as 1 plan if the benefits of such individual account plan are taken into account in determining the benefits payable under such defined benefit plan.
 
 #### (e) Marketable obligations
 
@@ -154,13 +156,15 @@ For purposes of subsection (d)(5) of this section, the term “marketable obliga
 
 &emsp;(B) was acquired after December 17, 1987, pursuant to a legally binding contract in effect on December 17, 1987, and has been so held at all times after the acquisition.
 
-(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071.)
+(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
 
 #### References in Text
 
 Section 10211(c)(2)(A) of the Revenue Act of 1987 (Public Law 100–203), referred to in subsec. (d)(5)(C), is set out as a note under section 7704 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Subsec. (b)(3)(D). Pub. L. 109–280 added subpar. (D).
 
 1997—Subsec. (b)(2), (3). Pub. L. 105–34 added par. (2) and redesignated former par. (2) as (3).
 
@@ -186,6 +190,10 @@ Subsec. (d)(9). Pub. L. 100–203, §9345(a)(2), added par. (9).
 
 Subsec. (f). Pub. L. 100–203, §9345(b)(2), added subsec. (f).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, with special rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) of Pub. L. 109–280, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1997 Amendment
 
 Section 1524(b) of Pub. L. 105–34, as amended by Pub. L. 107–16, title VI, §655(a), June 7, 2001, 115 Stat. 131, provided that:
@@ -206,7 +214,7 @@ Section 2 of Pub. L. 101–540 provided that: “The amendment made by section 1
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

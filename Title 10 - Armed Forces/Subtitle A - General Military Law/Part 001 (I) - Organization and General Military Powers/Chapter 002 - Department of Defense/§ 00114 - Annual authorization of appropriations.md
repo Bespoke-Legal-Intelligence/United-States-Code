@@ -198,7 +198,7 @@ Amendment by section 102 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 
 Amendment by section 511(4) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
 
-Section 1001(a)(2) of Pub. L. 96–342 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
+Section 1001(a)(2) of Pub. L. 96–342 provided that: “The amendments made by paragraph (1) \[amendingthis section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
 
 #### Applicability of Provisions Relating to Funds Not Heretofore Required To Be Authorized
 
@@ -318,21 +318,7 @@ NATO.—The term ‘NATO’ means the North Atlantic Treaty Organization.”
 
 #### Budget Determination by Director of OMB
 
-Pub. L. 102–484, div. D, title XLV, §4501, Oct. 23, 1992, 106 Stat. 2769, provided that:
-
-“(a)
-
-Requirement for Determination.—An amount made available under this Act \[see Tables for classification\] for a program described in subsection (b) may be obligated for that program only if expenditures for that program have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 665(a)(2)\]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
-
-“(b)
-
-Covered Programs.—The programs referred to in subsection (a) are the programs under title XLIII \[enacting section 2552 of this title, amending section 2391 of this title, and enacting provisions set out as notes under section 2391 of this title\] and subtitles D through G of title XLIV \[§§4441 to 4497, enacting sections 1143a, 1151, 1598, 2410c, and 2410d of this title and section 1662d–1 of Title 29, Labor, amending sections 1142 and 1144 of this title and sections 1551, 1661, 1661c, and 1662d of Title 29, and enacting provisions set out as notes under sections 1143, 1143a, 2410d, 2501, 2504, and 2701 of this title and section 1662d–1 of Title 29\].
-
-“(c)
-
-Effect on Appropriations for Programs Not Counted Against Defense Category.—(1) Not later than the third day after the date of the enactment of this Act \[Oct. 23, 1992\], the Director of the Office of Management and Budget shall make a determination as to the classification by discretionary spending limit category for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] of amounts appropriated for fiscal year 1993 for each of the programs described in subsection (b). If the Director determines that any such amount shall not classify against the defense category, then the President shall submit to Congress a report listing all such amounts that the Director has determined will not classify against the defense category (as described in subsection (a)). Such report shall contain an explanation for each such determination.
-
-“(2) All amounts listed in the report under paragraph (1) may be transferred only to the programs under titles XLII, XLIII, and XLIV \[see Tables for classification\] that are classified against the defense category by virtue of the report of the President submitted under paragraph (1) pursuant to amounts specified in appropriation Acts. Any such transfer shall be taken into account for purposes of calculating all reports under section 254 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 904\].”
+Pub. L. 102–484, div. D, title XLV, §4501, Oct. 23, 1992, 106 Stat. 2769, directed that amounts made available under Pub. L. 102–484 for defense programs covered by certain portions of that Act could be obligated for such programs only if expenditures for such programs had been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionary spending limits for fiscal year 1993 for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.), and required the President to submit to Congress a report listing amounts appropriated for fiscal year 1993 for programs that the Director had determined would not classify against the defense category.
 
 #### Classified Annex
 
@@ -408,7 +394,7 @@ Pub. L. 97–377, title I, §101(c) \[title VII, §791\], Dec. 21, 1982, 96 Stat
 
 Section 802 of Pub. L. 96–107 provided that:
 
-“(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of,Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
+“(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of, Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
 
 “(b) Funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law may be obligated or expended for operation or support of installations or equipment used for research and development (including maintenance support of laboratories, operation and maintenance of test ranges, and maintenance of test aircraft and ships) in compliance with the implementing instructions for and the provisions of such Office of Management and Budget Circular.
 

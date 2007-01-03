@@ -18,5 +18,5 @@ No provision of this chapter shall be construed as affecting the authority of an
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–328 effective at end of 1-year period beginning on Sept. 29, 1994, see section 101(e) of Pub. L. 103–328, set out as a note under section 1828 of this title.
+Amendment by Pub. L. 103–328 effective at end of 1-year period beginning on Sept. 29, 1994, see section101(e) of Pub. L. 103–328, set out as a note under section 1828 of this title.
 

@@ -48,9 +48,9 @@
 
 &emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
 
-&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien isappropriate and in the best interest of the United States; or
 
-&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of aState), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
+&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
 #### (C) Notice
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(i) the alien fails to designate a country promptly;
 
-&emsp;&emsp;&emsp;(ii) the government of the country does not inform the Attorney General finally, within 30 days after the date the AttorneyGeneral first inquires, whether the government will accept the alien into the country;
+&emsp;&emsp;&emsp;(ii) the government of the country does not inform the Attorney General finally, within 30 days after the date the Attorney General first inquires, whether the government will accept the alien into the country;
 
 &emsp;&emsp;&emsp;(iii) the government of the country is not willing to accept the alien into the country; or
 
@@ -186,7 +186,7 @@
 
 #### (C) Sustaining burden of proof; credibility determinations
 
-&emsp;&emsp;In determining whether an alien has demonstrated that the alien's life or freedom would be threatened for a reason described in subparagraph (A), the trier of fact shall determine whether the alien has sustained the alien's burden of proof, and shall make credibility determinations, in the manner described in clauses (ii) and (iii) of section 1158(b)(1)(B) of this title.
+&emsp;&emsp;In determining whether an alien has demonstrated that the alien's life or freedom would be threatened for a reason described in subparagraph (A), the trier of fact shall determine whether the alien has sustained the alien's burden of proof, and shall makecredibility determinations, in the manner described in clauses (ii) and (iii) of section 1158(b)(1)(B) of this title.
 
 #### (c) Removal of aliens arriving at port of entry
 
@@ -425,6 +425,10 @@ Subsec. (i)(6). Pub. L. 109–162, §1196(b), amended par. (6) generally. Prior 
 Subsec. (i)(3)(A). Pub. L. 104–208, §328(a)(1)(A), substituted “felony or two or more misdemeanors” for “felony and sentenced to a term of imprisonment”.
 
 Subsec. (i)(6). Pub. L. 104–208, §328(a)(1)(B), added par. (6).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–162, title XI, §1196(d), as added by Pub. L. 109–271, §8(n)(6), Aug. 12, 2006, 120 Stat. 768, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 2006.”
 
 #### Effective Date of 2005 Amendment
 

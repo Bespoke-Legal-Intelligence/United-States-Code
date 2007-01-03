@@ -1,6 +1,6 @@
 ### §2076. Other services
 
-Each production credit association may provide technical assistance to borrowers, applicants, and members and may make available to them at their option such financial related services appropriate to their on-farm and aquatic operations as is determined feasible by the board of directors of each Farm Credit Bank, under regulations prescribed by the Farm Credit Administration.
+Each production credit association may provide technical assistance to borrowers, applicants, and members and may make available tothem at their option such financial related services appropriate to their on-farm and aquatic operations as is determined feasible by the board of directors of each Farm Credit Bank, under regulations prescribed by the Farm Credit Administration.
 
 (Pub. L. 92–181, title II, §2.5, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1633.)
 

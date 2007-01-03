@@ -2,7 +2,7 @@
 
 (a) Under such regulations as he may prescribe, the Secretary of the Navy may make temporary appointments of officers designated for limited duty in the Regular Navy in grades not above lieutenant and in the Regular Marine Corps in grades not above captain from sources authorized under section 5589 of this title. Such appointments shall be made by warrant if in the grade of warrant officer, W–1, and by commission if in a higher grade.
 
-(b) Temporary appointments under this section do not change the permanent, probationary, or acting status of members so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person receiving a temporary appointment under this section may not suffer any reduction in the pay and allowances to which he was entitled because of his permanent status at the time of his temporary appointment, or any reduction in the pay and allowances to which he was entitled under a prior temporary appointment in a lower grade.
+(b) Temporary appointments under this section do not change the permanent, probationary,or acting status of members so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person receiving a temporary appointment under this section may not suffer any reduction in the pay and allowances to which he was entitled because of his permanent status at the time of his temporary appointment, or any reduction in the pay and allowances to which he was entitled under a prior temporary appointment in a lower grade.
 
 (c) The following members of the naval service are ineligible for temporary appointments under this section:
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Delegation of Functions
 
@@ -163,4 +163,6 @@ For delegation to Secretary of Defense of authority vested in President by secti
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+
+§5597
 

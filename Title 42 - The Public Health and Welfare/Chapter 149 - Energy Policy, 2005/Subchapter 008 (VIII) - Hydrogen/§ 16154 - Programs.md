@@ -58,7 +58,7 @@ The Secretary, in partnership with the private sector, shall conduct programs to
 
 &emsp;(5) storage of hydrogen or hydrogen-carrier fuels, including development of materials for safe and economic storage in gaseous, liquid, or solid form at refueling facilities and onboard vehicles;
 
-&emsp;(6) development of safe, durable, affordable, and efficient fuel cells, including fuel-flexiblefuel cell power systems, improved manufacturing processes, high-temperature membranes, cost-effective fuel processing for natural gas, fuel cell stack and system reliability, low temperature operation, and cold start capability; and
+&emsp;(6) development of safe, durable, affordable, and efficient fuel cells, including fuel-flexible fuel cell power systems, improved manufacturing processes, high-temperature membranes, cost-effective fuel processing for natural gas, fuel cell stack and system reliability, low temperature operation, and cold start capability; and
 
 &emsp;(7) the ability of domestic automobile manufacturers to manufacture commercially available competitive hybrid vehicle technologies in the United States.
 
@@ -80,7 +80,7 @@ The Secretary, in partnership with the private sector, shall conduct programs to
 
 #### (2) Hydrogen energy and energy infrastructure
 
-&emsp;For hydrogen energy and energy infrastructure, the goals of the program are to enable a commitment not later than 2015 that will lead to infrastructure by 2020 that will provide—
+&emsp;For hydrogen energy and energy infrastructure, the goals of the program are to enable acommitment not later than 2015 that will lead to infrastructure by 2020 that will provide—
 
 &emsp;&emsp;(A) safe and convenient refueling;
 

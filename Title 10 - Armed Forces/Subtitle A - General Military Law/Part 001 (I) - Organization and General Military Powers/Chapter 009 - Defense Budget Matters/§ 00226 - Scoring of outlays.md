@@ -2,7 +2,7 @@
 
 (a)
 
-Annual OMB/CBO Report.—Not later than January 15 of each year, the Director of the Office of Management and Budget and the Director of the Congressional Budget Office shall submit to the Speaker of the House of Representatives and the Committees on Armed Services, Appropriations, and the Budget of the Senate a joint report containing an agreed resolution of all differences between—
+Annual OMB/CBO Report.—Not later than April 1 of each year, the Director of the Office of Management and Budget and the Director of the Congressional Budget Office shall submit to the Speaker of the House of Representatives and the Committees on Armed Services, Appropriations, and the Budget of the Senate a joint report containing an agreed resolution of all differences between—
 
 &emsp;(1) the technical assumptions to be used by the Office of Management and Budget in preparing estimates with respect to all accounts in major functional category 050 (National Defense) for the budget to be submitted to Congress in that year pursuant to section 1105 of title 31; and
 
@@ -20,13 +20,15 @@ Matters To Be Included.—The report with respect to a budget shall identify the
 
 &emsp;(2) The agreed amount of outlays estimated to occur from unexpended appropriations made for fiscal years before the fiscal year that begins after submission of the report.
 
-(Added Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, §221; renumbered §226, Pub. L. 102–484, div. A, title X, §1002(a)(1), Oct. 23, 1992, 106 Stat. 2480; amended Pub. L. 103–160, div. A, title XI, §1104, Nov. 30, 1993, 107 Stat. 1749; Pub. L. 108–136, div. A, title X, §1031(a)(5), Nov. 24, 2003, 117 Stat. 1596.)
+(Added Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, §221; renumbered §226, Pub. L. 102–484, div. A, title X, §1002(a)(1), Oct. 23, 1992, 106 Stat. 2480; amended Pub. L. 103–160, div. A, title XI, §1104, Nov. 30, 1993, 107 Stat. 1749; Pub. L. 108–136, div. A, title X, §1031(a)(5), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 109–364, div. A, title X, §1007, Oct. 17, 2006, 120 Stat. 2373.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 101–189, §5(a), Nov. 29, 1989, 103 Stat. 1364, which was set out as a note under section 114a \[now 221\] of this title, prior to repeal by Pub. L. 102–190, §1002(b)(1).
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–364 substituted “April 1 of each year” for “January 15 of each year” in introductory provisions.
 
 2003—Subsec. (a). Pub. L. 108–136 substituted “January 15” for “December 15” in introductory provisions and “in that year” for “in the following year” in par. (1).
 
@@ -45,4 +47,6 @@ Sense of Congress Regarding Budget Resolutions and Budget Scorekeeping.—It is 
 “(b)
 
 Sense of Congress Regarding Required Reductions and Other Changes in National Defense Outlays in Relation to Budget Authority.—It is the sense of Congress that the outlay level specified for national defense for any fiscal year in the budget resolution for that fiscal year should not require a reduction (or other change) in outlays for national defense for that fiscal year below (or in relation to) the estimated outlays specified for national defense in the budget for such fiscal year (submitted to Congress pursuant to section 1105 of title 31, United States Code) by more than the amount by which such estimated outlays would be reduced (or otherwise changed) if the amount of budget authority provided for in each title of the President's request for budget authority for national defense (as contained in such budget) were reduced (or otherwise changed) by the uniform percentage necessary for the requested budget authority for national defense to be equal to the budget authority specified for national defense in that budget resolution unless the budget resolution is accompanied by a report that describes the difference between the budget authority and outlays for National Defense (function 050) in the President's budget and the budget resolution.”
+
+§227
 

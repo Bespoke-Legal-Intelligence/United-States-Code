@@ -5,9 +5,6 @@
 | [1951\.](%C2%A7%2001951%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
 | [1952\.](%C2%A7%2001952%20-%20Reports%20on%20ownership%20and%20control.md) | Reports on ownership and control. |
 | [1953\.](%C2%A7%2001953%20-%20Recordkeeping%20and%20procedures.md) | Recordkeeping and procedures. |
-| (a) | Regulations. |
-| (b) | Institutions subject to recordkeeping requirements. |
-| (c) | Acceptance of automated records. |
 | [1954\.](%C2%A7%2001954%20-%20Injunctions.md) | Injunctions. |
 | [1955\.](%C2%A7%2001955%20-%20Civil%20penalties.md) | Civil penalties. |
 | [1956\.](%C2%A7%2001956%20-%20Criminal%20penalty.md) | Criminal penalty. |

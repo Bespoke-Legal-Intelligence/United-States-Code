@@ -6,7 +6,7 @@ General Penalty and Civil Actions To Collect.—(1) A person that violates secti
 
 (2) The Secretary of Transportation imposes a civil penalty under this subsection. The Secretary may compromise the amount of a penalty.
 
-(3) In determining the amount of a civil penalty or compromise under this subsection, theSecretary shall consider the size of the person's business and the gravity of the violation.
+(3) In determining the amount of a civil penalty or compromise under this subsection, the Secretary shall consider the size of the person's business and the gravity of the violation.
 
 (4) The Attorney General shall bring a civil action in a United States district court to collect a civil penalty imposed under this subsection.
 

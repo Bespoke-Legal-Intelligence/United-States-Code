@@ -24,7 +24,7 @@ Judicial review of the interim consumer product safety standard established in s
 
 (C)(i) No later than 45 days after receiving any notice under subparagraph (B), the Commission shall publish the revision, including such changes in the revision as it considers appropriate to make the revision suitable for promulgation as an amendment to the interim consumer product safety standard, in the Federal Register as a proposed amendment to the interim consumer product safety standard.
 
-(ii) The Commission may extend the 45-day period specified in clause (i) for an additional period of not more than 150 days if the Commission determines that such extension is necessary to study the technical and scientific basis for therevision involved, or to study the safety and economic consequences of such revision.
+(ii) The Commission may extend the 45-day period specified in clause (i) for an additional period of not more than 150 days if the Commission determines that such extension is necessary to study the technical and scientific basis for the revision involved, or to study the safety and economic consequences of such revision.
 
 (D)(i) Additional extensions of the 45-day period specified in subparagraph (C)(i) may be taken by the Commission if—
 
@@ -62,7 +62,7 @@ Any Federal department, agency, or instrumentality, or any Federal independent r
 
 #### (f) Compliance with certification requirements; implementation; waiver; rules and regulations
 
-(1) The Commission shall have the authority to require that any person required to comply with the certification requirements of section 2063 of this title with respect to the manufacture of cellulose insulation shall provide for the performance of any test or testing program required for such certification through the use of an independent third party qualified to perform such test or testing program. The Commission may impose such requirement whether or not the Commission has established a testing program for cellulose insulation under section 2063(b) of this title.
+(1) The Commission shall have the authority to require that any person required to comply with the certification requirements of section 2063 of this title with respect to the manufacture of cellulose insulation shall provide for the performance of any test or testing program required for such certification through the use of an independent third party qualified to perform such test or testing program. The Commissionmay impose such requirement whether or not the Commission has established a testing program for cellulose insulation under section 2063(b) of this title.
 
 (2) The Commission, upon petition by a manufacturer, may waive the requirements of paragraph (1) with respect to such manufacturer if the Commission determines that the use of an independent third party is not necessary in order for such manufacturer to comply with the certification requirements of section 2063 of this title.
 

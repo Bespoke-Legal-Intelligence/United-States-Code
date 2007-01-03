@@ -50,7 +50,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(iii) otherwise obtained by the financial institution.
 
-&emsp;(B) Such term does not include publicly available information, as such term is defined by the regulations prescribed under section 6804 of this title.
+&emsp;(B) Such term does not include publicly available information, as such term is definedby the regulations prescribed under section 6804 of this title.
 
 &emsp;(C) Notwithstanding subparagraph (B), such term—
 
@@ -108,7 +108,7 @@ As used in this subchapter:
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, asamended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 

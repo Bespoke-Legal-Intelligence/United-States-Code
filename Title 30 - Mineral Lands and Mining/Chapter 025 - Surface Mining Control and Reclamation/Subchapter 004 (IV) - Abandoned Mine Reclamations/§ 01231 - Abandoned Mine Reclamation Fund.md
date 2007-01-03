@@ -24,45 +24,115 @@ Moneys in the fund may be used for the following purposes:
 
 &emsp;(1) reclamation and restoration of land and water resources adversely affected by past coal mining, including but not limited to reclamation and restoration of abandoned surface mine areas, abandoned coal processing areas, and abandoned coal refuse disposal areas; sealing and filling abandoned deep mine entries and voids; planting of land adversely affected by past coal mining to prevent erosion and sedimentation; prevention, abatement, treatment, and control of water pollution created by coal mine drainage including restoration of stream beds, and construction and operation of water treatment plants; prevention, abatement, and control of burning coal refuse disposal areas and burning coal in situ; prevention, abatement, and control of coal mine subsidence; and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(1) of this title;
 
-&emsp;(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;
+&emsp;(2) acquisition and filling of voids and sealing of tunnels, shafts, and entryways under section 1239 of this title;
 
-&emsp;(3) acquisition and filling of voids and sealing of tunnels, shafts, and entryways under section 1239 of this title;
+&emsp;(3) acquisition of land as provided for in this subchapter;
 
-&emsp;(4) acquisition of land as provided for in this subchapter;
+&emsp;(4) enforcement and collection of the reclamation fee provided for in section 1232 of this title;
 
-&emsp;(5) enforcement and collection of the reclamation fee provided for in section 1232 of this title;
+&emsp;(5) restoration, reclamation, abatement, control, or prevention of adverse effects of coal mining which constitutes an emergency as provided for in this subchapter;
 
-&emsp;(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Acts with public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;
+&emsp;(6) grants to the States to accomplish the purposes of this subchapter;
 
-&emsp;(7) restoration, reclamation, abatement, control, or prevention of adverse effects of coal mining which constitutes an emergency as provided for in this subchapter;
+&emsp;(7) administrative expenses of the United States and each State to accomplish the purposes of this subchapter;
 
-&emsp;(8) grants to the States to accomplish the purposes of this subchapter;
+&emsp;(8) for use under section 1240a of this title;
 
-&emsp;(9) administrative expenses of the United States and each State to accomplish the purposes of this subchapter;
+&emsp;(9) for the purpose of section 1257(c) of this title, except that not more than $10,000,000 shall annually be available for such purpose;
 
-&emsp;(10) for use under section 1240a of this title;
+&emsp;(10) for the purpose described in section 1232(h) of this title; and
 
-&emsp;(11) for the purpose of section 1257(c) of this title, except that not more than $10,000,000 shall annually be available for such purpose;
+&emsp;(11) all other necessary expenses to accomplish the purposes of this subchapter.
 
-&emsp;(12) for the purpose described in section 1232(h) of this title; and
+#### (d) Availability of moneys; no fiscal year limitation
 
-&emsp;(13) all other necessary expenses to accomplish the purposes of this subchapter.
+#### (1) In general
 
-#### (d) Moneys available upon appropriation; no fiscal year limitation
+&emsp;Moneys from the fund for expenditures under subparagraphs (A) through (D) of section 1232(g)(3) of this title shall be available only when appropriated for those subparagraphs.
 
-Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations.
+#### (2) No fiscal year limitation
+
+&emsp;Appropriations described in paragraph (1) shall be made without fiscal year limitation.
+
+#### (3) Other purposes
+
+&emsp;Moneys from the fund shall be available for all other purposes of this subchapter without prior appropriation as provided in subsection (f).
 
 #### (e) Interest
 
-The Secretary of the Interior shall notify the Secretary of the Treasury as to what portion of the fund is not, in his judgment, required to meet current withdrawals. The Secretary of the Treasury shall invest such portion of the fund in public debt securities with maturities suitable for the needs of such fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to, and form a part of, the fund.
+The Secretary of the Interior shall notify the Secretary of the Treasury as to what portion of the fund is not, in his judgment, required to meet current withdrawals. The Secretary of the Treasury shall invest such portion of the fund in public debt securities with maturities suitable for achieving the purposes of the transfers under section 1232(h) of this title and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to, and form a part of, the fund for the purpose of the transfers under section 1232(h) of this title.
 
-(Pub. L. 95–87, title IV, §401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, §101(c) \[title III, §324\], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, §6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, §19143(b)(3)(A), title XXV, §2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105.)
+#### (f) General limitation on obligation authority
 
-#### References in Text
+#### (1) In general
 
-Section 3501 of the Omnibus Budget Reconciliation Act of 1986, referred to in subsec. (c)(6), is section 3501 of Pub. L. 99–509, which is set out below.
+&emsp;From amounts deposited into the fund under subsection (b), the Secretary shall distribute during each fiscal year beginning after September 30, 2007, an amount determined under paragraph (2).
+
+#### (2) Amounts
+
+#### (A) For fiscal years 2008 through 2022
+
+&emsp;&emsp;For each of fiscal years 2008 through 2022, the amount distributed by the Secretary under this subsection shall be equal to—
+
+&emsp;&emsp;&emsp;(i) the amounts deposited into the fund under paragraphs (1), (2), and (4) of subsection (b) for the preceding fiscal year that were allocated under paragraphs (1) and (5) of section 1232(g) of this title; plus
+
+&emsp;&emsp;&emsp;(ii) the amount needed for the adjustment under section 1232(g)(8) of this title for the current fiscal year.
+
+#### (B) Fiscal years 2023 and thereafter
+
+&emsp;&emsp;For fiscal year 2023 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2022.
+
+#### (3) Distribution
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), for each fiscal year, of the amount to be distributed to States and Indian tribes pursuant to paragraph (2), the Secretary shall distribute—
+
+&emsp;&emsp;&emsp;(i) the amounts allocated under paragraph (1) of section 1232(g) of this title, the amounts allocated under paragraph (5) of section 1232(g) of this title, and any amount reallocated under section 1240a(h)(3) of this title in accordance with section 1240a(h)(2) of this title, for grants to States and Indian tribes under section 1232(g)(5) of this title; and
+
+&emsp;&emsp;&emsp;(ii) the amounts allocated under section 1232(g)(8) of this title.
+
+#### (B) Exclusion
+
+&emsp;&emsp;Beginning on October 1, 2007, certified States shall be ineligible to receive amounts under section 1232(g)(1) of this title.
+
+#### (4) Availability
+
+&emsp;Amounts in the fund available to the Secretary for obligation under this subsection shall be available until expended.
+
+#### (5) Addition
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the amount distributed under this subsection for each fiscal year shall be in addition to the amount appropriated from the fund during the fiscal year.
+
+#### (B) Exceptions
+
+&emsp;&emsp;Notwithstanding paragraph (3), the amount distributed under this subsection for the first 4 fiscal years beginning on and after October 1, 2007, shall be equal to the following percentage of the amount otherwise required to be distributed:
+
+&emsp;&emsp;&emsp;(i) 50 percent in fiscal year 2008.
+
+&emsp;&emsp;&emsp;(ii) 50 percent in fiscal year 2009.
+
+&emsp;&emsp;&emsp;(iii) 75 percent in fiscal year 2010.
+
+&emsp;&emsp;&emsp;(iv) 75 percent in fiscal year 2011.
+
+(Pub. L. 95–87, title IV, §401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, §101(c) \[title III, §324\], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, §6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, §19143(b)(3)(A), title XXV, §2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105; Pub. L. 109–432, div. C, title II, §201(a), Dec. 20, 2006, 120 Stat. 3006.)
 
 #### Amendments
+
+2006—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
+
+“(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;” and
+
+“(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Acts with public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;”.
+
+Subsec. (d). Pub. L. 109–432, §201(a)(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations.”
+
+Subsec. (e). Pub. L. 109–432, §201(a)(3), in second sentence, substituted “achieving the purposes of the transfers under section 1232(h) of this title” for “the needs of such fund” and, in third sentence, inserted “for the purpose of the transfers under section 1232(h) of this title” before period at end.
+
+Subsec. (f). Pub. L. 109–432, §201(a)(4), added subsec. (f).
 
 1992—Subsec. (c)(6). Pub. L. 102–486, §2504(c)(1), substituted “studies, research, and demonstration projects” for “studies” and struck out “to provide information, advice, and technical assistance, including research and demonstration projects” after “private organizations”.
 
@@ -74,7 +144,7 @@ Subsec. (b)(5). Pub. L. 101–508, §6002(a)(2), added par. (5).
 
 Subsec. (c)(1). Pub. L. 101–508, §6002(b)(1), substituted “section 1232(g)(1)” for “section 1232(g)(2)”.
 
-Subsec. (c)(2). Pub. L. 101–508, §6002(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “for use under section 1236 of this title, by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
+Subsec. (c)(2). Pub. L. 101–508, §6002(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for use under section 1236 of this title, by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
 
 Subsec. (c)(6). Pub. L. 101–508, §6002(b)(3), struck out “by contract” after “Department of the Interior” and inserted “conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986” after “projects”.
 
@@ -98,7 +168,5 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681�
 
 #### Abandoned Mine Reclamation Research and Development
 
-Pub. L. 99–509, title III, §3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172, provided that: “After the enactment of this Act, the research and demonstration authorities of the Department of the Interior under the provisions of section 401(c)(6) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) \[30 U.S.C. 1231(c)(6)\] shall be transferred to, and carried out by, the Director of the United States Bureau of Mines. Research and demonstration projects under such provision shall be selected by a panel appointed by the Director of the United States Bureau of Mines to be comprised of 9 persons, including 4 representatives of State abandoned mine reclamation programs, 4 representatives of the United States Bureau of Mines, and one representative of the Office of Surface Mining Reclamation and Enforcement.”
-
-\[For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.\]
+Pub. L. 99–509, title III, §3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172, provided that after enactment of Pub. L. 99–509, the research and demonstration authorities of the Department of the Interior under former subsec. (c)(6) of this section were to be transferred to, and carried out by, the Director of the United States Bureau of Mines.
 

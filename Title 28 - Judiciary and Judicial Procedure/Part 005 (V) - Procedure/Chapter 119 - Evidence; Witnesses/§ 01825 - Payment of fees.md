@@ -52,5 +52,5 @@ Changes were made in phraseology.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–651 effective 120 days after Nov. 14, 1986, see section 105 of Pub. L. 99–651, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 99–651 effective 120 days after Nov. 14, 1986, see section 105 of Pub. L. 99–651, set outas a note under section 3006A of Title 18, Crimes and Criminal Procedure.
 

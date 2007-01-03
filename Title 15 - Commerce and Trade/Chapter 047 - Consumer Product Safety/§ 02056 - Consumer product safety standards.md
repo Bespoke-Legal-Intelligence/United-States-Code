@@ -104,7 +104,7 @@ Labeling.—On and after January 1, 1991, a manufacturer selling or offering for
 
 “(e)
 
-Notification.—Effective on and after July 1, 1991, all manufacturers of automatic residential garage door openers shall, in consultation with the Consumer Product Safety Commission, notify the public of thepotential for entrapment by garage doors equipped with automatic garage door openers and advise the public to test their openers for the entrapment protection feature or device required by subsection (b).
+Notification.—Effective on and after July 1, 1991, all manufacturers of automatic residential garage door openers shall, in consultation with the Consumer Product Safety Commission, notify the public of the potential for entrapment by garage doors equipped with automatic garage door openers and advise the public to test their openers for the entrapment protection feature or device required by subsection (b).
 
 “(f)
 

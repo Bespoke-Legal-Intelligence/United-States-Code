@@ -8,17 +8,11 @@
 
 #### (2) Transfer of FSLIC assets and liabilities
 
-#### (A) In general
-
 &emsp;&emsp;Except as provided in section 1441a of this title, all assets and liabilities of the Federal Savings and Loan Insurance Corporation on the day before August 9, 1989, shall be transferred to the FSLIC Resolution Fund.
-
-#### (B) Additional claims on assets
-
-&emsp;&emsp;The FSLIC Resolution Fund shall pay to the Savings Association Insurance Fund such amounts as are needed for administrative and supervisory expenses from August 9, 1989, through September 30, 1992.
 
 #### (3) Separate holding
 
-&emsp;Assets and liabilities transferred to the FSLIC Resolution Fund shall be the assets and liabilities of the Fund and not of the Corporation and shall not be consolidated with the assets and liabilities of the Bank Insurance Fund, the Savings Association Insurance Fund, or the Corporation for accounting, reporting, or any other purpose.
+&emsp;Assets and liabilities transferred to the FSLIC Resolution Fund shall be the assets and liabilities of the Fund and not of the Corporation and shall not be consolidated with the assets and liabilities of the Deposit Insurance Fund or the Corporation for accounting, reporting, or any other purpose.
 
 #### (4) Rights, powers, and duties
 
@@ -48,8 +42,6 @@ The FSLIC Resolution Fund shall be funded from the following sources to the exte
 
 &emsp;(3) Amounts borrowed by the Financing Corporation pursuant to section 1441 of this title.
 
-&emsp;(4) During the period beginning on August 9, 1989, and ending on December 31, 1992, amounts assessed against Savings Association Insurance Fund members by the Corporation pursuant to section 1817 of this title which are not required by the Financing Corporation pursuant to section 1441 of this title or by the Resolution Funding Corporation pursuant to section 1441b of this title.
-
 #### (c) Treasury backup
 
 #### (1) In general
@@ -70,35 +62,35 @@ The FSLIC Resolution Fund shall transfer to the Resolution Funding Corporation a
 
 #### (f) Dissolution
 
-The FSLIC Resolution Fund shall be dissolved upon satisfaction of all debts and liabilities and sale of all assets. Upon dissolution any remaining funds shall be paid into the Treasury. Any administrative facilities and supplies, including offices and office supplies, shall be transferred to the Corporation for use by and to be held as assets of the Savings Association Insurance Fund.
+The FSLIC Resolution Fund shall be dissolved upon satisfaction of all debts and liabilities and sale of all assets. Upon dissolution any remaining funds shall be paid into the Treasury. Any administrative facilities and supplies, including offices and office supplies, shall be transferred to the Corporation for use by and to be held as assets of the Deposit Insurance Fund.
 
-(Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252; amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept.30, 1996, 110 Stat. 3009–492; Pub. L. 109–173, §8(a)(15)–(17), Feb. 15, 2006, 119 Stat. 3612, 3613.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §8(a)(15)–(17), (b), Feb. 15, 2006, 119 Stat. 3612, 3613, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (a):</i>
-
-<i>(A) in paragraph (2), by striking subparagraph (B) and by striking “liabilities” and all that follows through “Except” and inserting “liabilities</i>
-
-&emsp;<i>“Except”; and</i>
-
-<i>(B) in paragraph (3), by striking “the Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “the Deposit Insurance Fund”;</i>
-
-<i>(2) in subsection (b), by striking paragraph (4); and</i>
-
-<i>(3) in subsection (f), by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252; amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(15)–(17), Feb. 15, 2006, 119 Stat. 3612, 3613.)
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–208, §2704(d)(14)(J)(i), (ii), which directed striking out subpar. (A) heading and subpar. (B) and redesignating subpar. (A) as par. (2), was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (a)(2). Pub. L. 109–173, §8(a)(15)(A), (B), struck out subpar. (A) designation and heading before “Except as” and struck out heading and text of subpar. (B). Text read as follows: “The FSLIC Resolution Fund shall pay to the Savings Association Insurance Fund such amounts as are needed for administrative and supervisory expenses from August 9, 1989, through September 30, 1992.”
 
-Subsec. (a)(3). Pub. L. 104–208, §2704(d)(14)(J)(iii), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,”, was not executed. See Effective Date of 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(J)(i), (ii). See 1996 Amendment note below.
 
-Subsec. (b)(4). Pub. L. 104–208, §2704(d)(14)(K), which directed striking out par. (4), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (a)(3). Pub. L. 109–173, §8(a)(15)(C), substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,”.
 
-Subsec. (f). Pub. L. 104–208, §2704(d)(14)(L), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(J)(iii). See 1996 Amendment note below.
+
+Subsec. (b)(4). Pub. L. 109–173, §8(a)(16), struck out par. (4) which read as follows: “During the period beginning on August 9, 1989, and ending on December 31, 1992, amounts assessed against Savings Association Insurance Fund members by the Corporation pursuant to section 1817 of this title which are not required by the Financing Corporation pursuant to section 1441 of this title or by the Resolution Funding Corporation pursuant to section 1441b of this title.”
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(K). See 1996 Amendment note below.
+
+Subsec. (f). Pub. L. 109–173, §8(a)(17), substituted “Deposit Insurance Fund” for “Savings Association Insurance Fund”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(L). See 1996 Amendment note below.
+
+1996—Subsec. (a)(2). Pub. L. 104–208, §2704(d)(14)(J)(i), (ii), which directed striking out subpar. (A) heading and subpar. (B) and redesignating subpar. (A) as par. (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (a)(3). Pub. L. 104–208, §2704(d)(14)(J)(iii), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (b)(4). Pub. L. 104–208, §2704(d)(14)(K), which directed striking out par. (4), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (f). Pub. L. 104–208, §2704(d)(14)(L), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1991—Subsec. (a)(2)(B). Pub. L. 102–233, §202(c), substituted “1992” for “1991”.
 
@@ -110,9 +102,11 @@ Subsec. (b)(4). Pub. L. 102–233, §202(d), substituted “1992” for “1991�
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Payment of Judgments and Settlements of Claims Against United States
 

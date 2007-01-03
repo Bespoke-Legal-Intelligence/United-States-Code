@@ -12,7 +12,7 @@ Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by
 
 (1) Either as a part of or in a proceeding supplementary to the action authorized in subsection (a) of this section, either tribe, through the chairman of its tribal council for and on behalf of the tribe, including all villages, clans, and individual members thereof, may prosecute or defend an action for the types of relief, including interest, specified in section 640d–17 of this title, including all subsections thereof, against the other tribe, through its tribal chairman in a like representative capacity, and against the United States as to the types of recovery specified in subsection (a)(3) of section 640d–17 of this title and subject to the same provisions as contained in said subsection, such action to apply to the lands in issue in the reservation established by the Act of June 14, 1934 (48 Stat. 960).
 
-(2) In the event the Hopi Tribe or Navajo Tribe is determined to have any interest in the lands in issue, the right of either tribe to recover hereunder shall be based upon that percentage of the total sums collected, use made, waste committed, and other amounts of recovery, which is equal to the percentage of lands in issue in which either tribe is determined to have such interest.
+(2) In the event the Hopi Tribe or Navajo Tribe is determined to have any interest in the lands in issue, the right of either tribe to recover hereunder shall be based upon that percentage of the total sums collected, use made, waste committed, and other amounts of recovery,which is equal to the percentage of lands in issue in which either tribe is determined to have such interest.
 
 (3) Neither laches nor the statute of limitations shall constitute a defense to such proceedings if they are either prosecuted as a part of the action authorized by this section or in a proceeding supplemental thereto, if instituted not later than twenty-four months following a final order of partition and exhaustion of appeals in an action filed pursuant to this section.
 
@@ -26,7 +26,7 @@ The Secretary of the Interior is authorized to pay any or all appropriate legal 
 
 #### (f) Provision of attorney fees for San Juan Southern Paiute Tribe
 
-(1) Any funds made available for the San Juan Southern Paiute Tribe to pay for attorney's fees shall be paid directly to the tribe's attorneys of record until such tribe is acknowledged as an Indian tribe by the United States: <i>Provided</i>, Thatthe tribe's eligibility for such payments shall cease once a decision by the Secretary of the Interior declining to acknowledge such tribe becomes final and no longer appealable.
+(1) Any funds made available for the San Juan Southern Paiute Tribe to pay for attorney's fees shall be paid directly to the tribe's attorneys of record until such tribe is acknowledged as an Indian tribe by the United States: <i>Provided</i>, That the tribe's eligibility for such payments shall cease once a decision by the Secretary of the Interior declining to acknowledge such tribe becomes final and no longer appealable.
 
 (2) Nothing in this subsection shall be interpreted as a congressional acknowledgement of the San Juan Southern Paiute as an Indian tribe or as affecting in any way the San Juan Southern Paiute Tribe's Petition for Recognition currently pending with the Secretary of the Interior.
 

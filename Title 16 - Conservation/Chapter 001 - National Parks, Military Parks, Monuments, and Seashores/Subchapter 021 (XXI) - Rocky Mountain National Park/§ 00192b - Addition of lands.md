@@ -36,7 +36,7 @@ Sec. 34, N1/2SW1/4NE1/4, N1/2SE1/4NW1/4, SW1/4NW1/4, and NW1/4SW1/4.
 
 Proc. No. 3374, Sept. 23, 1960, 25 F.R. 9284, provided:
 
-NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, under and by virtue of the authority vested in me by the said act of June 21, 1930 \[this section\], do proclaim that the lands hereinafter described shall be, and they are hereby, added to and reserved as a part of the Rocky Mountain National Park, in the State of Colorado; and such lands shall be subject to the provisions of the act entitled “An Act to establish a National Park Service, and for other purposes,” approved August 25, 1916, 39 Stat. 535 (16 U.S.C. 1–3) \[16 U.S.C. 1, 2, 3, and 4\], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
+NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, under and by virtue of the authority vested in me by the said act of June 21, 1930 \[this section\], do proclaim that the lands hereinafter described shall be, and they are hereby, added to and reserved as a part of the Rocky Mountain National Park, in the State of Colorado; and such lands shall be subject to the provisions of the act entitled “An Act to establish a National Park Service, andfor other purposes,” approved August 25, 1916, 39 Stat. 535 (16 U.S.C. 1–3) \[16 U.S.C. 1, 2, 3, and 4\], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
 
 #### Sixth Principal Meridian
 

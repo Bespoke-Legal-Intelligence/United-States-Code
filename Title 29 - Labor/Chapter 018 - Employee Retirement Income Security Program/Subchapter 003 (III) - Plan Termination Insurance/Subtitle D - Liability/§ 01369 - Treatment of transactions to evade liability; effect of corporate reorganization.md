@@ -14,7 +14,7 @@ For purposes of this subtitle, the following rules apply in the case of certain 
 
 #### (2) Liquidation into parent corporation
 
-&emsp;If a person ceases to exist by reason of liquidation into a parent corporation, the parent corporation shall be treated as the person to whom this subtitle applies.
+&emsp;If a person ceases to exist by reason of liquidation into a parent corporation, the parentcorporation shall be treated as the person to whom this subtitle applies.
 
 #### (3) Merger, consolidation, or division
 

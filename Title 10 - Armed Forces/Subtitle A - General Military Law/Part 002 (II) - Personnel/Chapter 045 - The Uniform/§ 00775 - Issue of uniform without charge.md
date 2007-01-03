@@ -10,7 +10,7 @@ Issue of Uniform.—The Secretary concerned may issue a uniform, without charge,
 
 &emsp;(3) A member who, as a result of the member's duties, has unique uniform requirements.
 
-&emsp;(4) Any other member, if the Secretary concerned determines, under exceptional circumstances, that the issue of the uniform to thatmember would significantly benefit the morale and welfare of the member and be advantageous to the armed force concerned.
+&emsp;(4) Any other member, if the Secretary concerned determines, under exceptional circumstances, that the issue of the uniform to that member would significantly benefit the morale and welfare of the member and be advantageous to the armed force concerned.
 
 (b)
 

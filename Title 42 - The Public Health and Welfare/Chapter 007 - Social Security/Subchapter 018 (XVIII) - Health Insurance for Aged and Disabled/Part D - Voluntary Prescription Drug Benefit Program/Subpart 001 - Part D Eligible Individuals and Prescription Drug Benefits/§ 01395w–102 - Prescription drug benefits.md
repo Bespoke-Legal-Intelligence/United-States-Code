@@ -98,7 +98,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (B) Rounding
 
-&emsp;&emsp;Any amount determined under subparagraph (A)(ii) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+&emsp;&emsp;Any amount determined under subparagraph (A)(ii) that is not a multiple of $10shall be rounded to the nearest multiple of $10.
 
 #### (4) Protection against high out-of-pocket expenditures
 
@@ -114,7 +114,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (ii) Adjustment of amount
 
-&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 centsshall be rounded to the nearest multiple of 5 cents.
+&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 cents shall be rounded to the nearest multiple of 5 cents.
 
 #### (B) Annual out-of-pocket threshold
 
@@ -176,7 +176,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Assuring standard payment for costs at initial coverage limit
 
-&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3)of this section for the year, of an amount equal to at least the product of—
+&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) of this section for the year, of an amount equal to at least the product of—
 
 &emsp;&emsp;&emsp;(i) the amount by which the initial coverage limit described in subsection (b)(3) of this section for the year exceeds the deductible described in subsection (b)(1) of this section for the year; and
 
@@ -224,13 +224,13 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;(B) a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary),
 
-> &emsp;and such term includes a vaccine licensed under section 262 of this title and any use of a covered part D drug for a medically accepted indication (as defined in section 1396r–8(k)(6) of this title).
+> &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a covered part D drug for a medically accepted indication (as defined in section 1396r–8(k)(6) of this title).
 
 #### (2) Exclusions
 
 #### (A) In general
 
-&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
+&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which maybe excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
 
 #### (B) Medicare covered drugs
 
@@ -246,7 +246,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 > &emsp;Such exclusions are determinations subject to reconsideration and appeal pursuant to subsections (g) and (h), respectively, of section 1395w–104 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986.)
 
 #### References in Text
 
@@ -255,6 +255,8 @@ Part C of this subchapter, referred to in subsecs. (a)(1), (3), (4) and (b), is 
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2006—Subsec. (e)(1). Pub. L. 109–432 inserted “(and, for vaccines administered on or after January 1, 2008, its administration)” after “section 262 of this title” in concluding provisions.
 
 2005—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end “Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.”
 
@@ -267,4 +269,8 @@ Pub. L. 109–91, title I, §103(c), Oct. 20, 2005, 119 Stat. 2092, provided tha
 #### Construction
 
 Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drug coverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii)).”
+
+#### Payment for Administration of Part D Vaccines in 2007
+
+Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: “Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[part B of this subchapter\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\]).”
 

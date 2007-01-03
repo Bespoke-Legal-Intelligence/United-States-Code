@@ -10,7 +10,7 @@ Proof that the alien failed to present himself at the time and place designated 
 
 #### (c) Liability of owners and operators of international bridges and toll roads
 
-(1) Any owner or operator of a railroad line, international bridge, or toll road who establishes to the satisfaction of the Attorney General that the person has acted diligently and reasonably to fulfill the duty imposed by subsection (a) of this section shall not be liable for the penalty described in such subsection, notwithstanding the failure of the person to prevent the unauthorized landing of any alien.
+(1) Any owner or operator of a railroad line, international bridge, or toll road who establishes to the satisfaction of the Attorney General that the person has acted diligently andreasonably to fulfill the duty imposed by subsection (a) of this section shall not be liable for the penalty described in such subsection, notwithstanding the failure of the person to prevent the unauthorized landing of any alien.
 
 (2)(A) At the request of any person described in paragraph (1), the Attorney General shall inspect any facility established, or any method utilized, at a point of entry into the United States by such person for the purpose of complying with subsection (a) of this section. The Attorney General shall approve any such facility or method (for such period of time as the Attorney General may prescribe) which the Attorney General determines is satisfactory for such purpose.
 

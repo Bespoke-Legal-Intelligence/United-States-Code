@@ -76,7 +76,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 &emsp;&emsp;&emsp;&emsp;(I) the extent to which the levels involved will assist the State in attaining a high level of customer satisfaction;
 
-&emsp;&emsp;&emsp;&emsp;(II) how the levels involved compare with the State adjusted levels of performance established for other States, taking into account factors including differences in economic conditions, the characteristics of participants when the participants entered the program, and the services to be provided; and
+&emsp;&emsp;&emsp;&emsp;(II) how the levels involved compare with the State adjusted levels of performance established for other States, taking into account factors including differences in economic conditions, thecharacteristics of participants when the participants entered the program, and the services to be provided; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the extent to which such levels involved promote continuous improvement in performance on the performance measures by such State and ensure optimal return on the investment of Federal funds.
 
@@ -166,7 +166,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (2) Wage records
 
-&emsp;In measuring the progress of the State on State and local performance measures, a Stateshall utilize quarterly wage records, consistent with State law. The Secretary shall make arrangements, consistent with State law, to ensure that the wage records of any State are available to any other State to the extent that such wage records are required by the State in carrying out the State plan of the State or completing the annual report described in subsection (d) of this section.
+&emsp;In measuring the progress of the State on State and local performance measures, a State shall utilize quarterly wage records, consistent with State law. The Secretary shall make arrangements, consistent with State law, to ensure that the wage records of any State are available to any other State to the extent that such wage records are required by the State in carrying out the State plan of the State or completing the annual report described in subsection (d) of this section.
 
 #### (3) Confidentiality
 

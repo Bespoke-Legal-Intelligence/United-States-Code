@@ -34,7 +34,7 @@
 
 &emsp;(E) All approved contractors shall be required to adhere to all editing, processing, and reporting requirements established by the Secretary to ensure consistency.
 
-&emsp;(F) No approved contractor shall enter into exclusive arrangements with guarantors, lenders, secondary markets, or institutions of higher education for the purpose of reselling or sharing of data collected for the multiple data entry process. All data collected under a contract issued by the Secretary pursuant to this paragraph for the multiple data entry process is the exclusive property of the Secretary and may not be transferred to a third party by an approved contractor without the Secretary's express written approval.
+&emsp;(F) No approved contractor shall enter into exclusive arrangements with guarantors, lenders, secondary markets, or institutions of higher education for the purpose of reselling or sharing of data collected for the multiple data entry process. All data collected under a contract issued by the Secretary pursuant to this paragraph for the multiple data entryprocess is the exclusive property of the Secretary and may not be transferred to a third party by an approved contractor without the Secretary's express written approval.
 
 #### (5) Electronic forms
 
@@ -48,7 +48,7 @@
 
 #### (6) Third party servicers and private software providers
 
-&emsp;To the extent practicable and in a timely manner, the Secretary shall provide, to private organizations and consortia that develop software used by eligible institutions for the administration of funds under this subchapter and part C of subchapter I of chapter 34 of title 42, all the necessary specifications that the organizations and consortia must meet for the software the organizations and consortia develop, produce, and distribute (including anydiskette, modem, or network communications) which are so used. The specifications shall contain record layouts for required data. The Secretary shall develop in advance of each processing cycle an annual schedule for providing such specifications. The Secretary, to the extent practicable, shall use means of providing such specifications, including conferences and other meetings, outreach, and technical support mechanisms (such as training and printed reference materials). The Secretary shall, from time to time, solicit from such organizations and consortia means of improving the support provided by the Secretary.
+&emsp;To the extent practicable and in a timely manner, the Secretary shall provide, to private organizations and consortia that develop software used by eligible institutions for the administration of funds under this subchapter and part C of subchapter I of chapter 34 of title 42, all the necessary specifications that the organizations and consortia must meet for the software the organizations and consortia develop, produce, and distribute (including any diskette, modem, or network communications) which are so used. The specifications shall contain record layouts for required data. The Secretary shall develop in advance of each processing cycle an annual schedule for providing such specifications. The Secretary, to the extent practicable, shall use means of providing such specifications, including conferences and other meetings, outreach, and technical support mechanisms (such as training and printed reference materials). The Secretary shall, from time to time, solicit from such organizations and consortia means of improving the support provided by the Secretary.
 
 #### (7) Parent's social security number and birth date
 
@@ -72,7 +72,7 @@ Copies of all rules, regulations, guidelines, instructions, and application form
 
 #### (d) Toll-free information
 
-The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1485(d)(2)(C) of this title.
+The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to theservices provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1485(d)(2)(C) of this title.
 
 #### (e) Preparer
 
@@ -96,7 +96,7 @@ Pub. L. 105–244, §482(a)(2)(A), (B), substituted “A through D” for “A, 
 
 Subsec. (a)(2). Pub. L. 105–244, §482(a)(3), substituted “A through D” for “A, C, and D” in two places and struck out “and the need of a student for the purpose of part B of this subchapter,” before “may only be determined” and “or have the student's need established for the purpose of part B of this subchapter” before “, except by use of”.
 
-Subsec. (a)(3). Pub. L. 105–244, §482(a)(4), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Institutions of higher education and States shall receive, without charge, the data collected by the Secretary using the form developed pursuant to this section for the purposes of determining need and eligibility for institutional and Statefinancial aid awards. Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
+Subsec. (a)(3). Pub. L. 105–244, §482(a)(4), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Institutions of higher education and States shall receive, without charge, the data collected by the Secretary using the form developed pursuant to this section for the purposes of determining need and eligibility for institutional and State financial aid awards. Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
 
 Subsec. (a)(5) to (7). Pub. L. 105–244, §482(a)(5), added pars. (5) to (7).
 
@@ -140,7 +140,7 @@ Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignat
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 

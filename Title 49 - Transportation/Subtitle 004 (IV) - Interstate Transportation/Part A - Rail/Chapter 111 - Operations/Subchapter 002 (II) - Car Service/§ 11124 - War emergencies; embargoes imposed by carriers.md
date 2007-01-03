@@ -16,7 +16,7 @@ Prior sections 11124 to 11128 were omitted in the general amendment of this subt
 
 Section 11124, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1422, related to rerouting traffic on failure of rail carrier to serve the public.
 
-Section 11125, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1423; Pub. L. 98–216, §2(15), Feb. 14, 1984, 98 Stat. 5; Pub.L. 103–272, §5(m)(28), July 5, 1994, 108 Stat. 1378, related to directed rail transportation.
+Section 11125, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1423; Pub. L. 98–216, §2(15), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(28), July 5, 1994, 108 Stat. 1378, related to directed rail transportation.
 
 Section 11126, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1424; Pub. L. 103–272, §5(m)(29), July 5, 1994, 108 Stat. 1378, related to distribution of coal cars.
 

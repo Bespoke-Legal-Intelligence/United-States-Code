@@ -88,7 +88,7 @@ Terms of Service.—Notwithstanding subsection (e)(1) of section 8472 of title 5
 
 #### Authorization of Appropriations for Certain Expenses of Federal Retirement Thrift Investment Management System
 
-Section 701 of Pub. L. 99–335, as amended by Pub. L. 99–500, §101(m) \[title IV, §401\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–322, and Pub. L. 99–591, §101(m) \[title IV, §401\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–322, provided that:
+Section 701 of Pub. L. 99–335, as amended by Pub. L. 99–500, §101(m) \[title IV, §401\], Oct. 18, 1986, 100 Stat.1783–308, 1783–322, and Pub. L. 99–591, §101(m) \[title IV, §401\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–322, provided that:
 
 “(a)
 

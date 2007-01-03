@@ -48,7 +48,7 @@ Assistance made available under this subpart may be used for any of the followin
 
 &emsp;(8) Supporting model projects and programs by Very Special Arts which assure the participation in mainstream settings in arts and education programs of individuals with disabilities.
 
-&emsp;(9) Supporting model projects and programs to integrate arts education into the regular elementary school and secondary school curriculum.
+&emsp;(9) Supporting model projects and programs to integrate arts education into the regularelementary school and secondary school curriculum.
 
 &emsp;(10) Other activities that further the purposes of this subpart.
 
@@ -60,7 +60,7 @@ If the amount made available to the Secretary to carry out this subpart for any 
 
 As conditions of receiving assistance made available under this subpart, the Secretary shall require each entity receiving such assistance—
 
-&emsp;(1) to coordinate, to the extent practicable, each project or program carried out with suchassistance with appropriate activities of public or private cultural agencies, institutions, and organizations, including museums, arts education associations, libraries, and theaters; and
+&emsp;(1) to coordinate, to the extent practicable, each project or program carried out with such assistance with appropriate activities of public or private cultural agencies, institutions, and organizations, including museums, arts education associations, libraries, and theaters; and
 
 &emsp;(2) to use such assistance only to supplement, and not to supplant, any other assistance or funds made available from non-Federal sources for the activities assisted under this subpart.
 

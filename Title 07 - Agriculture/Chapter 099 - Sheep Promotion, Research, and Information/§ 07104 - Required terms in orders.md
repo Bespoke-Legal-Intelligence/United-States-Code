@@ -232,7 +232,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producers
 
-&emsp;&emsp;The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3) of this section. An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary atleast 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
+&emsp;&emsp;The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3) of this section. An eligible organization may submit only nominations from themembership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
 
 #### (B) Feeders
 

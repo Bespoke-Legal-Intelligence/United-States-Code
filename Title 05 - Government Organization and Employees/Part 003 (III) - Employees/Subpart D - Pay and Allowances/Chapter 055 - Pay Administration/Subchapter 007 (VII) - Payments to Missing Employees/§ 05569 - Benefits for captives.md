@@ -152,7 +152,7 @@ Subsec. (e)(2)(A). Pub. L. 108–189, §2(b)(2)(B), substituted “servicemember
 
 #### Short Title of 1986 Amendment
 
-Section 801 of title VIII of Pub. L. 99–399 provided that: “This title \[enacting this section, section 5570 of this title, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amendingsection 6325 of this title, and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
+Section 801 of title VIII of Pub. L. 99–399 provided that: “This title \[enacting this section, section 5570 of this title, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amending section 6325 of this title, and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
 
 #### Payment to Individuals Held in Captive Status Between November 4, 1979, and January 21, 1981
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director is authorized to conduct special volunteer programs for demonstration programs, or award grants to or enter into contracts with public or nonprofit organizations to carry out such programs. Such programs shall encourage wider volunteer participation on a full-time, part-time, or short-term basis to further the purpose of this part, and identify particular segments of the poverty community that could benefit from volunteer and other antipoverty efforts.
+The Director is authorized to conduct special volunteer programs for demonstration programs, or award grants to or enter into contracts with public or nonprofit organizations to carry out such programs. Such programs shall encourage wider volunteer participation on a full-time, part-time, or short-term basis to further the purpose of this part, and identify particular segments of the poverty community thatcould benefit from volunteer and other antipoverty efforts.
 
 #### (b) Assignment and support of volunteers
 
@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 98–288, §12, added subsec. (d).
 
 1979—Subsec. (a). Pub. L. 96–143, §7(a), (b), designated existing provisions as par. (1), inserted “in urban and rural areas” after “volunteer programs” and “, a program of assistance to victims of domestic violence, a program to provide technical and management assistance to distressed communities, a program designed to provide personal and group financial counseling to low-income and fixed-income individuals (utilizing volunteers with specialized or technical expertise), and a Helping Hand program” after “drug abusers”, inserted provisions authorizing the Director to provide for the recruitment, selection, and training of volunteers in carrying out programs authorized by this part, and added par. (2).
 
-Subsec. (c). Pub. L. 96–143, §7(c), inserted provisions permitting support payments to part-time volunteers enrolled for at least 20 hours of service per week for atleast 26 consecutive weeks and provisions applying sections 4953(b), (d), 4954(d), and 4955(a) of this title to full-time full-year volunteers whose service is similar in character to that of VISTA volunteers.
+Subsec. (c). Pub. L. 96–143, §7(c), inserted provisions permitting support payments to part-time volunteers enrolled for at least 20 hours of service per week for at least 26 consecutive weeks and provisions applying sections 4953(b), (d), 4954(d), and 4955(a) of this title to full-time full-year volunteers whose service is similar in character to that of VISTA volunteers.
 
 1976—Subsec. (c). Pub. L. 94–293 inserted provision authorizing the Director to undertake and support volunteer service programs, and recruit, etc., volunteers to carry out this part.
 

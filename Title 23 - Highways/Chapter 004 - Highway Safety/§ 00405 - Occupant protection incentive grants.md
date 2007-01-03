@@ -60,7 +60,7 @@ Child passenger protection law.—The State has in effect a law that requires mi
 
 (c)
 
-Grant Amounts.—The amount of a grant for which a State qualifies under this section for a fiscal year shall equal up to 100 percent of theamount apportioned to the State for fiscal year 2003 under section 402.
+Grant Amounts.—The amount of a grant for which a State qualifies under this section for a fiscal year shall equal up to 100 percent of the amount apportioned to the State for fiscal year 2003 under section 402.
 
 \[(d) Repealed. Pub. L. 109–59, title II, §2002(e), Aug. 10, 2005, 119 Stat. 1522.\]
 
@@ -174,7 +174,7 @@ Applicability of Chapter 1.—The provisions contained in section 402(d) of such
 
 “(g)
 
-Report.—A State that receives a grant under this section shall transmit to the Secretary \[of Transportation\] a report documenting the manner in which the grant amounts were obligated and expended and identifying the specific programs carried out using the grant funds. The report shall be in a form prescribed bythe Secretary and may be combined with other State grant reporting requirements under of \[sic\] chapter 4 of title 23, United States Code.
+Report.—A State that receives a grant under this section shall transmit to the Secretary \[of Transportation\] a report documenting the manner in which the grant amounts were obligated and expended and identifying the specific programs carried out using the grant funds. The report shall be in a form prescribed by the Secretary and may be combined with other State grant reporting requirements under of \[sic\] chapter 4 of title 23, United States Code.
 
 “(h)
 

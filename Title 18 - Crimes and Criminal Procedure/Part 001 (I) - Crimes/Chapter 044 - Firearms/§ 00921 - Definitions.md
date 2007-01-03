@@ -88,7 +88,7 @@
 
 (21) The term “engaged in the business” means—
 
-&emsp;(A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through thesale or distribution of the firearms manufactured;
+&emsp;(A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
 
 &emsp;(B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
@@ -150,7 +150,7 @@
 
 &emsp;(I) the person was represented by counsel in the case, or knowingly and intelligently waived the right to counsel in the case; and
 
-&emsp;(II) in the case of a prosecution for an offense described in this paragraph for which aperson was entitled to a jury trial in the jurisdiction in which the case was tried, either
+&emsp;(II) in the case of a prosecution for an offense described in this paragraph for which a person was entitled to a jury trial in the jurisdiction in which the case was tried, either
 
 &emsp;&emsp;(aa) the case was tried by a jury, or
 
@@ -220,7 +220,7 @@ Subsec. (a)(22)(C)(iii). Pub. L. 103–322, §330021(1), substituted “kidnappi
 
 Subsec. (a)(30). Pub. L. 103–322, §110102(b), which added par. (30) defining “semiautomatic assault weapon”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322,§110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(32). Pub. L. 103–322, §110401(a), added par. (32).
 
@@ -240,7 +240,7 @@ Subsec. (a)(13). Pub. L. 99–308, §101(4), struck out “or ammunition” afte
 
 Subsec. (a)(17). Pub. L. 99–408 designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(20). Pub. L. 99–308, §101(5), amended par. (20) generally. Prior to amendment, par. (20) read as follows: “The term ‘crime punishable by imprisonment for a term exceeding one year’ shall not include (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Secretary may by regulation designate, or (B) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.”
+Subsec. (a)(20). Pub. L. 99–308, §101(5), amended par. (20) generally. Prior to amendment, par. (20) read as follows: “The term ‘crime punishable by imprisonment for a term exceeding one year’ shall not include (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation ofbusiness practices as the Secretary may by regulation designate, or (B) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.”
 
 Subsec. (a)(21). Pub. L. 99–308, §101(6), added par. (21).
 
@@ -300,7 +300,7 @@ Machinegun Prohibition.—Section 102(9) \[amending section 922 of this title\] 
 
 Section 105 of Pub. L. 90–618 provided that:
 
-“(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, asamended by section 102 of this title \[amending this chapter\], shall take effect on December 16, 1968.
+“(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, as amended by section 102 of this title \[amending this chapter\], shall take effect on December 16, 1968.
 
 “(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i>), 925(a)(1), and 925(d).”
 
@@ -310,7 +310,7 @@ Section 907 of title IV of Pub. L. 90–351 provided that: “The amendments mad
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–92, §5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section \[amending sections 922 and 924 of this title and enacting provisions set out as notes under section 922 of this title\] may be cited as the ‘Child Safety Lock Act of 2005’.”
+Pub. L. 109–92, §5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section \[amending sections 922 and924 of this title and enacting provisions set out as notes under section 922 of this title\] may be cited as the ‘Child Safety Lock Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -426,7 +426,7 @@ Section 904 of title IV of Pub. L. 90–351, as amended by Pub. L. 99–514, §2
 
 #### Definition of “Handgun”
 
-Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. Theterm also includes any combination of parts from which a handgun can be assembled.”
+Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

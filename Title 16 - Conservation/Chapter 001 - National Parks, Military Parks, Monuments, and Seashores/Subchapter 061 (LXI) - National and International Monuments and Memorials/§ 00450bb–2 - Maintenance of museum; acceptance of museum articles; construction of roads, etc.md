@@ -2,7 +2,7 @@
 
 The Secretary is authorized to—
 
-&emsp;(1) Maintain, either in an existing structure acquired under the provisions of section 450bb of this title or in a building constructed by him for the purpose, a museum for relics and records pertaining to historic events that took place at Harpers Ferry, and for other relics of national and patriotic interest, and to accept on behalf of the United States, for installation in such museum, articles which may be offered as additions to the museum;
+&emsp;(1) Maintain, either in an existing structure acquired under the provisions of section 450bb of this title or in a building constructed by him for the purpose, a museum for relics and records pertaining to historic events that tookplace at Harpers Ferry, and for other relics of national and patriotic interest, and to accept on behalf of the United States, for installation in such museum, articles which may be offered as additions to the museum;
 
 &emsp;(2) Construct roads and facilities and mark with monuments, tablets, or otherwise, points of interest within the boundaries of the Harpers Ferry National Historical Park; and
 

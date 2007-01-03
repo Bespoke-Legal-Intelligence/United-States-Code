@@ -14,25 +14,8 @@
 | 53 to 58. | Repealed. |
 | [58a.](%C2%A7%2000058a%20-%20Fees%20for%20services%20of%20customs%20officers.md) | Fees for services of customs officers. |
 | [58b.](%C2%A7%2000058b%20-%20User%20fee%20for%20customs%20services%20at%20certain%20small%20airports%20and%20other%20facilities.md) | User fee for customs services at certain small airports and other facilities. |
-| (a) | Authorized airports, seaports, or other facilities. |
-| (b) | Liability for and amount of fee. |
-| (c) | Justification for service. |
-| (d) | Failure to pay fee. |
-| (e) | Small airport, seaport, or other facility account; expenditures for services. |
-| (f) | Customs services for foreign trade zones or subzones. |
 | 58b–1. | Expenses from fees collected. |
 | [58c.](%C2%A7%2000058c%20-%20Fees%20for%20certain%20customs%20services.md) | Fees for certain customs services. |
-| (a) | Schedule of fees. |
-| (b) | Limitations on fees. |
-| (c) | Definitions. |
-| (d) | Collection. |
-| (e) | Provision of customs services. |
-| (f) | Disposition of fees. |
-| (g) | Regulations and enforcement. |
-| (h) | Omitted. |
-| (i) | Effect on other authority. |
-| (j) | Effective dates. |
-| (k) | Advisory committee. |
 | [59\.](%C2%A7%2000059%20-%20Repealed.%20Aug.%202%2C%201956%2C%20ch.%20887%2C%20%C2%A74%28a%29%2821%29%2C%2070%20Stat.%20947.md) | Repealed. |
 | [60\.](%C2%A7%2000060%20-%20Penalty%20for%20extortion.md) | Penalty for extortion. |
 | 61 to 63. | Repealed. |

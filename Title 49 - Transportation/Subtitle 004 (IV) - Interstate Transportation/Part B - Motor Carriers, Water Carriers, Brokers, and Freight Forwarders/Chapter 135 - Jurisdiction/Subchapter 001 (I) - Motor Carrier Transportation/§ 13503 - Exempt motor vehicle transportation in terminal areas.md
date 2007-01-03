@@ -46,7 +46,7 @@ In general.—Except to the extent provided by paragraph (2) of this subsection,
 
 &emsp;(2)
 
-Treatment of transportation by principal.—Transportation exempt from jurisdiction under paragraph (1) of this subsection is considered transportation provided by the carrier or service provided by the freight forwarder for whom the transportation was provided and is subject to jurisdiction underchapter 105 of this title when provided for such a rail carrier, under this subchapter when provided for such a motor carrier, under subchapter II of this chapter when provided for such a water carrier, and under subchapter III of this chapter when provided for such a freight forwarder.
+Treatment of transportation by principal.—Transportation exempt from jurisdiction under paragraph (1) of this subsection is considered transportation provided by the carrier or service provided by the freight forwarder for whom the transportation was provided and is subject to jurisdiction under chapter 105 of this title when provided for such a rail carrier, under this subchapter when provided for such a motor carrier, under subchapter II of this chapter when provided for such a water carrier, and under subchapter III of this chapter when provided for such a freight forwarder.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 860.)
 

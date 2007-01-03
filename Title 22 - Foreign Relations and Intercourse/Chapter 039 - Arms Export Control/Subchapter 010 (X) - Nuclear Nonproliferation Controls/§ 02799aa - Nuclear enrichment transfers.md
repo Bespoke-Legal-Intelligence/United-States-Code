@@ -26,7 +26,7 @@ Except as provided in subsection (b) of this section, no funds made available to
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§2346 et seq.) and VI (§2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, asamended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§2346 et seq.) and VI (§2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (b)(2)(B), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
@@ -40,7 +40,7 @@ Subchapter effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103
 
 #### Waiver of Sanctions
 
-Sanctions contained in this section waived in certain regards with respect to India by Determination of President of the United States, No. 2000–18, Mar. 16,2000, 65 F.R. 16297, set out as a note under section 2799aa–1 of this title.
+Sanctions contained in this section waived in certain regards with respect to India by Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297, set out as a note under section 2799aa–1 of this title.
 
 Sanctions contained in this section waived in certain regards with respect to India and Pakistan by Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 

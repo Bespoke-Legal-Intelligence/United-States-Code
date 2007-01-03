@@ -12,7 +12,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (2) Career advisor regarding obligated service
 
-&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
+&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors forproviding such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
 
 &emsp;(B) With respect to the Scholarship Program, counseling under paragraph (1) shall include counseling individuals during the period in which the individuals are pursuing an educational degree in the health profession involved, including counseling to prepare the individual for service in the Corps.
 
@@ -22,7 +22,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (c) Grants regarding preparation of students for practice
 
-With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter intocontracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
+With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter into contracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
 
 #### (d) Assistance in establishing local professional relationships
 

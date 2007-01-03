@@ -4,7 +4,7 @@
 
 General.—Section 30112(a) of this title does not apply to a motor vehicle imported on a temporary basis for personal use by an individual who is a member of—
 
-&emsp;(1)(A) the personnel of the government of a foreign country on assignment in the United States or a member of the Secretariat of a public international organization designated under the International Organizations Immunities Act (22 U.S.C. 288 et seq.); and
+&emsp;(1)(A) the personnel of the government of a foreign country on assignment in the United States or a member of the Secretariat of a public international organization designatedunder the International Organizations Immunities Act (22 U.S.C. 288 et seq.); and
 
 &emsp;(B) the class of individuals for whom the Secretary of State has authorized free importation of motor vehicles; or
 

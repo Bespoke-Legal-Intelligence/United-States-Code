@@ -24,7 +24,7 @@
 
 #### (B) Alternate countries
 
-&emsp;&emsp;If the alien refuses to designate a country to which the alien wishes to be removed or if the Attorney General, in consultation with the Secretary of State, determines that removal of the alien to the country so designated would impair a treaty obligation or adversely affect United States foreign policy, the Attorney General shall cause the alien to be removed to any country willing to receive such alien.
+&emsp;&emsp;If the alien refuses to designate a country to which the alien wishes to be removed or if the Attorney General, in consultation with the Secretary of State, determines thatremoval of the alien to the country so designated would impair a treaty obligation or adversely affect United States foreign policy, the Attorney General shall cause the alien to be removed to any country willing to receive such alien.
 
 #### (C) Continued detention
 
@@ -42,7 +42,7 @@
 
 #### (2) Maintenance of custody
 
-&emsp;Pending the commencement of any service of a sentence of confinement by an alien described in paragraph (1), such an alien shall remain in the custody of the Attorney General, unless the Attorney General determines thattemporary release of the alien to the custody of State authorities for confinement in a State facility is appropriate and would not endanger national security or public safety.
+&emsp;Pending the commencement of any service of a sentence of confinement by an alien described in paragraph (1), such an alien shall remain in the custody of the Attorney General, unless the Attorney General determines that temporary release of the alien to the custody of State authorities for confinement in a State facility is appropriate and would not endanger national security or public safety.
 
 #### (3) Subsequent removal
 

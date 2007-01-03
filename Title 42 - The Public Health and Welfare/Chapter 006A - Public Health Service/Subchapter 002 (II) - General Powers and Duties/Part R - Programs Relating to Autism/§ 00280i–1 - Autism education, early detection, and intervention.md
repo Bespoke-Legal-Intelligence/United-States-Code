@@ -1,0 +1,164 @@
+### §280i–1. Autism education, early detection, and intervention
+
+#### (a) Purpose
+
+It is the purpose of this section—
+
+&emsp;(1) to increase awareness, reduce barriers to screening and diagnosis, promote evidence-based interventions for individuals with autism spectrum disorder or other developmental disabilities, and train professionals to utilize valid and reliable screening tools to diagnose or rule out and provide evidence-based interventions for children with autism spectrum disorder and other developmental disabilities; and
+
+&emsp;(2) to conduct activities under this section with a focus on an interdisciplinary approach (as defined in programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]) that will also focus on specific issues for children who are not receiving an early diagnosis and subsequent interventions.
+
+#### (b) In general
+
+The Secretary shall, subject to the availability of appropriations, establish and evaluate activities to—
+
+&emsp;(1) provide information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
+
+&emsp;(2) promote research into the development and validation of reliable screening tools for autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
+
+&emsp;(3) promote early screening of individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
+
+&emsp;(4) increase the number of individuals who are able to confirm or rule out a diagnosis of autism spectrum disorder and other developmental disabilities;
+
+&emsp;(5) increase the number of individuals able to provide evidence-based interventions for individuals diagnosed with autism spectrum disorder or other developmental disabilities; and
+
+&emsp;(6) promote the use of evidence-based interventions for individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable.
+
+#### (c) Information and education
+
+#### (1) In general
+
+&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder or other developmental disabilities and their families through—
+
+&emsp;&emsp;(A) Federal programs, including—
+
+&emsp;&emsp;&emsp;(i) the Head Start program;
+
+&emsp;&emsp;&emsp;(ii) the Early Start program;
+
+&emsp;&emsp;&emsp;(iii) the Healthy Start program;
+
+&emsp;&emsp;&emsp;(iv) programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\];
+
+&emsp;&emsp;&emsp;(v) programs under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (particularly the Medicaid Early and Periodic Screening, Diagnosis and Treatment Program);
+
+&emsp;&emsp;&emsp;(vi) the program under title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\] (the State Children's Health Insurance Program);
+
+&emsp;&emsp;&emsp;(vii) the program under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (the Maternal and Child Health Block Grant Program);
+
+&emsp;&emsp;&emsp;(viii) the program under parts B and C of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq., 1431 et seq.\];
+
+&emsp;&emsp;&emsp;(ix) the special supplemental nutrition program for women, infants, and children established under section 1786 of this title; and
+
+&emsp;&emsp;&emsp;(x) the State grant program under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\].
+
+&emsp;&emsp;(B) State licensed child care facilities; and
+
+&emsp;&emsp;(C) other community-based organizations or points of entry for individuals with autism spectrum disorder and other developmental disabilities to receive services.
+
+#### (2) Lead agency
+
+#### (A) Designation
+
+&emsp;&emsp;As a condition on the provision of assistance or the conduct of activities under this section with respect to a State, the Secretary may require the Governor of the State—
+
+&emsp;&emsp;&emsp;(i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
+
+&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports, and evidence-based interventions.
+
+#### (B) Requirements of agency
+
+&emsp;&emsp;In designating the lead agency under subparagraph (A)(i), the Governor shall—
+
+&emsp;&emsp;&emsp;(i) select an agency that has demonstrated experience and expertise in—
+
+&emsp;&emsp;&emsp;&emsp;(I) autism spectrum disorder and other developmental disability issues; and
+
+&emsp;&emsp;&emsp;&emsp;(II) developing, implementing, conducting, and administering programs and delivering education, information, and referral services (including technology-based curriculum-development services) to individuals with developmental disabilities and their family members, guardians, advocates or authorized representatives, providers, and other appropriate individuals locally and across the State; and
+
+&emsp;&emsp;&emsp;(ii) consider input from individuals with developmental disabilities and their family members, guardians, advocates or authorized representatives, providers, and other appropriate individuals.
+
+#### (C) Information
+
+&emsp;&emsp;Information under subparagraph (A)(ii) shall be provided through—
+
+&emsp;&emsp;&emsp;(i) toll-free telephone numbers;
+
+&emsp;&emsp;&emsp;(ii) Internet websites;
+
+&emsp;&emsp;&emsp;(iii) mailings; or
+
+&emsp;&emsp;&emsp;(iv) such other means as the Governor may require.
+
+#### (d) Tools
+
+#### (1) In general
+
+&emsp;To promote the use of valid and reliable screening tools for autism spectrum disorder and other developmental disabilities, the Secretary shall develop a curriculum for continuing education to assist individuals in recognizing the need for valid and reliable screening tools and the use of such tools.
+
+#### (2) Collection, storage, coordination, and availability
+
+&emsp;The Secretary, in collaboration with the Secretary of Education, shall provide for the collection, storage, coordination, and public availability of tools described in paragraph (1), educational materials and other products that are used by the Federal programs referred to in subsection (c)(1)(A), as well as—
+
+&emsp;&emsp;(A) programs authorized under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\];
+
+&emsp;&emsp;(B) early intervention programs or interagency coordinating councils authorized under part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; and
+
+&emsp;&emsp;(C) children with special health care needs programs authorized under title V of the Social Security Act \[42 U.S.C. 701 et seq.\].
+
+#### (3) Required sharing
+
+&emsp;In establishing mechanisms and entities under this subsection, the Secretary, and the Secretary of Education, shall ensure the sharing of tools, materials, and products developed under this subsection among entities receiving funding under this section.
+
+#### (e) Diagnosis
+
+#### (1) Training
+
+&emsp;The Secretary, in coordination with activities conducted under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], shall, subject to the availability of appropriations, expand existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities and ensure that—
+
+&emsp;&emsp;(A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand existing or develop new maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]) in States that do not have such a program;
+
+&emsp;&emsp;(B) trainees under such training programs—
+
+&emsp;&emsp;&emsp;(i) receive an appropriate balance of academic, clinical, and community opportunities;
+
+&emsp;&emsp;&emsp;(ii) are culturally competent;
+
+&emsp;&emsp;&emsp;(iii) are ethnically diverse;
+
+&emsp;&emsp;&emsp;(iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities; and
+
+&emsp;&emsp;&emsp;(v) demonstrate an ability to use a family-centered approach; and
+
+&emsp;&emsp;(C) program sites provide culturally competent services.
+
+#### (2) Technical assistance
+
+&emsp;The Secretary may award one or more grants under this section to provide technical assistance to the network of interdisciplinary training programs.
+
+#### (3) Best practices
+
+&emsp;The Secretary shall promote research into additional valid and reliable tools for shortening the time required to confirm or rule out a diagnosis of autism spectrum disorder or other developmental disabilities and detecting individuals with autism spectrum disorder or other developmental disabilities at an earlier age.
+
+#### (f) Intervention
+
+The Secretary shall promote research, through grants or contracts, to determine the evidence-based practices for interventions for individuals with autism spectrum disorder or other developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+
+#### (g) Sunset
+
+This section shall not apply after September 30, 2011.
+
+(July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823.)
+
+#### References in Text
+
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c)(1)(A)(iv), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+
+The Social Security Act, referred to in subsecs. (c)(1)(A)(v)–(vii), (d)(2)(C), and (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1)(A)(viii) and (d)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+

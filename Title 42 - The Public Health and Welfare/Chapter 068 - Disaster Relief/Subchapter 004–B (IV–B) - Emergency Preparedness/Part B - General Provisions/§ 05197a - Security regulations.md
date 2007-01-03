@@ -10,7 +10,7 @@ No employee of the Federal Emergency Management Agency shall be permitted to hav
 
 #### (c) National security positions
 
-No employee of the Federal Emergency Management Agency shall occupy any position determined by the Director to be of critical importance from the standpoint of national security until a full field investigation concerning such employee shall have been conducted by the Director of the Office of Personnel Management and a report thereon shall have been evaluated in writing by the Director of the Federal Emergency Management Agency. In the event such full field investigation by the Director of the Office of Personnel Management develops any data reflecting that such applicant for a position of critical importance is of questionable loyalty or reliability for security purposes, or if the Director of the Federal Emergency Management Agency for any other reason considers it to be advisable, such investigation shall be discontinued and a report thereon shall be referred to the Director of the Federal Emergency Management Agency for evaluation in writing. Thereafter, the Director of the Federal Emergency Management Agency may refer the matter to the Federal Bureau of Investigation for the conduct of a full field investigation by such Bureau. The result of such latter investigation by such Bureau shall be furnished to the Director of the Federal Emergency Management Agency for action.
+No employee of the Federal Emergency Management Agency shall occupy any position determined by the Director to be of critical importance from the standpoint of national security until a full field investigation concerning such employee shall have been conducted by the Director of the Office of Personnel Management and a report thereon shall have been evaluated in writing by the Administrator of the Federal Emergency Management Agency. In the event such full field investigation by the Director of the Office of Personnel Management develops any data reflecting that such applicant for a position of critical importance is of questionable loyalty or reliability for security purposes, or if the Administrator of the Federal Emergency Management Agency for any other reason considers it to be advisable, such investigation shall be discontinued and a report thereon shall be referred to the Administrator of the Federal Emergency Management Agency for evaluation in writing. Thereafter, the Administrator of the Federal Emergency Management Agency may refer the matter to the Federal Bureau of Investigation for the conduct of a full field investigation by such Bureau. The result of such latter investigation by such Bureau shall be furnished to the Administrator of the Federal Emergency Management Agency for action.
 
 #### (d) Employee oaths
 
@@ -22,13 +22,19 @@ Each Federal employee of the Federal Emergency Management Agency acting under th
 
 > After appointment and qualification for office, the director of emergency preparedness of any State, and any subordinate emergency preparedness officer within such State designated by the director in writing, shall be qualified to administer any such oath within such State under such regulations as the director shall prescribe. Any person who shall be found guilty of having falsely taken such oath shall be punished as provided in section 1621 of title 18.
 
-(Pub. L. 93–288, title VI, §622, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3108.)
+(Pub. L. 93–288, title VI, §622, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3108; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 2255 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (b) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

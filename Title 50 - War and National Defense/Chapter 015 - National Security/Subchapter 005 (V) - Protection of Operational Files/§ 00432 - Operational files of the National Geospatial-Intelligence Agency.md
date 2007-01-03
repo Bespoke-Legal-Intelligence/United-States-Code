@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(vi) The Office of the Inspector General of the National Geospatial-Intelligence Agency.
 
-(4)(A) Files that are not exempted under paragraph (1) which contain information derived ordisseminated from exempted operational files shall be subject to search and review.
+(4)(A) Files that are not exempted under paragraph (1) which contain information derived or disseminated from exempted operational files shall be subject to search and review.
 
 (B) The inclusion of information from exempted operational files in files that are not exempted under paragraph (1) shall not affect the exemption under paragraph (1) of the originating operational files from search, review, publication, or disclosure.
 
@@ -52,7 +52,7 @@
 
 &emsp;(v) In proceedings under clauses (iii) and (iv), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
-&emsp;(vi) If the court finds under this paragraph that NGA has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order NGA to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this subsection.
+&emsp;(vi) If the court finds under this paragraph that NGA has improperly withheld requested records because of failure to comply with anyprovision of this subsection, the court shall order NGA to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this subsection.
 
 &emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NGA agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
@@ -122,7 +122,7 @@ Subsec. (b)(3). Pub. L. 108–136, §921(e)(4)(B), substituted “NGA” for “
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Treatment of Certain Transferred Records
 

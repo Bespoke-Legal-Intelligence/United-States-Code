@@ -8,7 +8,7 @@ Joint Executive Committee.—(1) There is established an interagency committee t
 
 &emsp;(A) the Deputy Secretary of Veterans Affairs and such other officers and employees of the Department of Veterans Affairs as the Secretary of Veterans Affairs may designate; and
 
-&emsp;(B) the Under Secretary of Defense for Personnel and Readiness and such other officers and employees of the Department of Defense as the Secretary of Defense may designate.
+&emsp;(B) the Under Secretary of Defense for Personnel and Readiness and such other officersand employees of the Department of Defense as the Secretary of Defense may designate.
 
 (b)
 

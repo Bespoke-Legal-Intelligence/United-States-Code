@@ -4,7 +4,7 @@
 
 (b) Commissioned officers appointed in the Regular Army without specification of branch shall be assigned, and may be transferred and reassigned, by the Secretary of the Army to branches other than the special branches, according to their professional qualifications and the needs of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 181; Pub. L. 85–600, §1(4), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–485, title VIII, §820(d)(1), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 181; Pub. L. 85–600, §1(4), Aug. 6, 1958, 72 Stat. 522; Pub. L.95–485, title VIII, §820(d)(1), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069.)
 
 Historical and Revision Notes
 
@@ -41,4 +41,6 @@ Pub. L. 95–485 struck out “, in the Women's Army Corps,” after “special
 Subsec. (b). Pub. L. 95–485 struck out “and the Women's Army Corps” after “special branches”.
 
 1958—Subsec. (a). Pub. L. 85–600 inserted reference to registrar of the Military Academy.
+
+§3284
 

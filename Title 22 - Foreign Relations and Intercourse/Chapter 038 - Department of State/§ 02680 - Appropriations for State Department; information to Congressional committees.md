@@ -20,7 +20,7 @@
 
 #### Codification
 
-Section was formerly classified to section 170t of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 170t of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Pub. L. 95–426, title I, §122, Oct. 7, 1978, 92 Stat. 970, as amended by Pub.
 
 #### Congressional Purpose Respecting Laws Relating to Department of State and United States Information Agency; Foreign Relations; and Authorization of Appropriations
 
-Section 407(a) of Pub. L. 92–226 provided that: “It is the purpose of this section \[amending sections 1476,2680, and 2684 of this title\] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 \[see Short Title notes set out under section 72a of Title 2, The Congress\], with respect to—
+Section 407(a) of Pub. L. 92–226 provided that: “It is the purpose of this section \[amending sections 1476, 2680, and 2684 of this title\] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 \[see Short Title notes set out under section 72a of Title 2, The Congress\], with respect to—
 
 &emsp;“(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and the United States Information Agency and of matters relating to the foreign relations of the United States; and
 

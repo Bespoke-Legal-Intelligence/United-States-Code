@@ -6,7 +6,7 @@ The Broadcasting Board of Governors is authorized to lease or otherwise acquire 
 
 #### (b) Broadcast principles
 
-The Congress finds that the long-term interests of the United States are served by communicating directly with the peoples of the worldby television. To be effective, the Broadcasting Board of Governors must win the attention and respect of viewers. These principles will therefore govern the television broadcasts of the United States International Television Service:
+The Congress finds that the long-term interests of the United States are served by communicating directly with the peoples of the world by television. To be effective, the Broadcasting Board of Governors must win the attention and respect of viewers. These principles will therefore govern the television broadcasts of the United States International Television Service:
 
 &emsp;(1) The United States International Television Service will serve as a consistently reliable and authoritative source of news. The United States International Television Service news will be accurate and objective.
 

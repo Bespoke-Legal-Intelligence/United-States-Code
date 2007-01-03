@@ -30,7 +30,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 &emsp;(9) Personal effects of citizens of the United States who have died in a foreign country;
 
-&emsp;(10) Merchandise within the provisions of sections 1465 <sup>1</sup> and 1466 of this title (relating tosupplies, repairs, and equipment on vessels and railway cars) at the first port of arrival;
+&emsp;(10) Merchandise within the provisions of sections 1465 <sup>1</sup> and 1466 of this title (relating to supplies, repairs, and equipment on vessels and railway cars) at the first port of arrival;
 
 &emsp;(11) Merchandise when in the opinion of the Secretary of the Treasury the value thereof cannot be declared; and
 

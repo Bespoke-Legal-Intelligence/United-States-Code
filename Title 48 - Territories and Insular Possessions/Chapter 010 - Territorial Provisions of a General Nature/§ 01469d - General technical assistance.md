@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to extend to the governments of Amer
 
 #### (b) Agricultural plantings and physical facilities, assistance for peoples of Enewetak Atoll and Bikini Atoll
 
-The Secretary of the Interior is further authorized to provide technical assistance to, andmaintenance of agricultural plantings and physical facilities for, the peoples from Enewetak Atoll and Bikini Atoll, as well as for the purchase of food and equipment and for the transportation of such food, equipment and persons as he deems necessary and appropriate until such areas produce sufficient food to fully sustain the residents after resettlement. This provision shall not cease to be applicable either before or after the termination of the trusteeship without the express approval of the United States Congress.
+The Secretary of the Interior is further authorized to provide technical assistance to, and maintenance of agricultural plantings and physical facilities for, the peoples from Enewetak Atoll and Bikini Atoll, as well as for the purchase of food and equipment and for the transportation of such food, equipment and persons as he deems necessary and appropriate until such areas produce sufficient food to fully sustain the residents after resettlement. This provision shall not cease to be applicable either before or after the termination of the trusteeship without the express approval of the United States Congress.
 
 #### (c) Extension of programs administered by Department of Agriculture to Guam, Northern Mariana Islands, etc.
 

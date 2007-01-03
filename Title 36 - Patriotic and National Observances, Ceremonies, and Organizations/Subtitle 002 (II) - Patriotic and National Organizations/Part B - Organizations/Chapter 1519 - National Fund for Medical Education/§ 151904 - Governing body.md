@@ -40,5 +40,5 @@ Aug. 28, 1954, ch. 1036, §§7, 8, 68 Stat. 893.
 
 &nbsp;
 
-In subsection (a), the text of 36:607(a) is omitted as obsolete. In paragraph (1), the words “control of all funds of the corporation” are substituted for “controlof all contributed funds as may be raised by the corporation” to eliminate unnecessary words.
+In subsection (a), the text of 36:607(a) is omitted as obsolete. In paragraph (1), the words “control of all funds of the corporation” are substituted for “control of all contributed funds as may be raised by the corporation” to eliminate unnecessary words.
 

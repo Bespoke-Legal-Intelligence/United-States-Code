@@ -28,7 +28,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(D) on or used in connection with housing and residential projects;
 
-&emsp;&emsp;(E) on military installations (including any fort, camp, post, naval training station,airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense);
+&emsp;&emsp;(E) on military installations (including any fort, camp, post, naval training station, airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense);
 
 &emsp;&emsp;(F) on installations of the Department of Veteran <sup>2</sup> Affairs used for hospital or domiciliary purposes; or
 

@@ -80,7 +80,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;&emsp;(i) the premiums needed to maintain the basic-benefit guarantee levels for multiemployer plans described in subsection (c) of this section, and
 
-&emsp;&emsp;(ii) whether the basic-benefit guarantee levels for multiemployer plans may be increased without increasing the basic-benefitpremiums for multiemployer plans under this subchapter; and
+&emsp;&emsp;(ii) whether the basic-benefit guarantee levels for multiemployer plans may be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter; and
 
 &emsp;(B) report such determinations to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 

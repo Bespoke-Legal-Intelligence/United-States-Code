@@ -32,7 +32,7 @@ By December 31, 1999, the Administrator shall promulgate regulations phasing out
 
 #### (B) Cap on exception
 
-&emsp;&emsp;Under no circumstances may the authority set forth in subparagraph (A) be applied to authorize any person to produce a class IIsubstance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
+&emsp;&emsp;Under no circumstances may the authority set forth in subparagraph (A) be applied to authorize any person to produce a class II substance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
 
 #### (2) Developing countries
 

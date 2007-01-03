@@ -60,7 +60,7 @@ Pub. L. 98–532, Oct. 19, 1984, 98 Stat. 2705, provided that:
 
 “
 
-Section 1. The Congress hereby ratifies and affirms as law each reorganization plan that has, prior to thedate of enactment of this Act \[Oct. 19, 1984\], been implemented pursuant to the provisions of chapter 9 of title 5, United States Code, or any predecessor Federal reorganization statute.
+Section 1. The Congress hereby ratifies and affirms as law each reorganization plan that has, prior to the date of enactment of this Act \[Oct. 19, 1984\], been implemented pursuant to the provisions of chapter 9 of title 5, United States Code, or any predecessor Federal reorganization statute.
 
 “
 

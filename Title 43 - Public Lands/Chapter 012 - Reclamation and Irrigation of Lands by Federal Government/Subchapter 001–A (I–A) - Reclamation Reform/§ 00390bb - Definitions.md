@@ -4,7 +4,7 @@ As used in this subchapter:
 
 &emsp;(1) The term “contract” means any repayment or water service contract between the United States and a district providing for the payment of construction charges to the United States including normal operation, maintenance, and replacement costs pursuant to Federal reclamation law.
 
-&emsp;(2) The term “district” means any individual or any legal entity established under State law which has entered into a contract or is eligible to contract with the Secretary for irrigation water.
+&emsp;(2) The term “district” means any individual or any legal entity established under Statelaw which has entered into a contract or is eligible to contract with the Secretary for irrigation water.
 
 &emsp;(3)(A) The term “full cost” means an annual rate as determined by the Secretary that shall amortize the expenditures for construction properly allocable to irrigation facilities in service, including all operation and maintenance deficits funded, less payments, over such periods as may be required under Federal reclamation law or applicable contract provisions, with interest on both accruing from October 12, 1982, on costs outstanding at that date, or from the date incurred in the case of costs arising subsequent to October 12, 1982: <i>Provided</i>, That operation, maintenance, and replacement charges required under Federal reclamation law, including this subchapter, shall be collected in addition to the full cost charge.
 

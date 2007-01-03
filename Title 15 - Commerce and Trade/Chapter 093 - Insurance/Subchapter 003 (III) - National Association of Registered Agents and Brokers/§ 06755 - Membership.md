@@ -30,7 +30,7 @@ The Association shall have the authority to establish membership criteria thatâ€
 
 #### (1) Classes of membership
 
-&emsp;The Association may establish separate classes of membership, with separate criteria,if the Association reasonably determines that performance of different duties requires different levels of education, training, or experience.
+&emsp;The Association may establish separate classes of membership, with separate criteria, if the Association reasonably determines that performance of different duties requires different levels of education, training, or experience.
 
 #### (2) Categories
 

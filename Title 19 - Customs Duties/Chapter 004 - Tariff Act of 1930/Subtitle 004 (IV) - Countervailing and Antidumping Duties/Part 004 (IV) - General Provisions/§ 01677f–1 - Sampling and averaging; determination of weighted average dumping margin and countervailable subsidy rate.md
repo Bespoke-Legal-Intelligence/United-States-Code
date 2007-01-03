@@ -40,7 +40,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 #### (B) Exception
 
-&emsp;&emsp;The administering authority may determine whether the subject merchandise is being sold in the United States at less than fair value by comparing the weighted average of the normal values to the export prices (or constructed export prices) of individual transactions for comparable merchandise, if—
+&emsp;&emsp;The administering authority may determine whether the subject merchandise isbeing sold in the United States at less than fair value by comparing the weighted average of the normal values to the export prices (or constructed export prices) of individual transactions for comparable merchandise, if—
 
 &emsp;&emsp;&emsp;(i) there is a pattern of export prices (or constructed export prices) for comparable merchandise that differ significantly among purchasers, regions, or periods of time, and
 

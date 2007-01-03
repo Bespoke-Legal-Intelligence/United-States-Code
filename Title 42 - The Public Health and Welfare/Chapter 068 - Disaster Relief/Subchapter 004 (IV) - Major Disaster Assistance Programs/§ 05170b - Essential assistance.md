@@ -10,7 +10,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 #### (2) Medicine, food, and other consumables
 
-&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disaster assistance organizations medicine, food, and other consumable supplies, and other services and assistance to disaster victims.
+&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disaster assistance organizations medicine durable medical equipment,,<sup>1</sup> food, and other consumable supplies, and other services and assistance to disaster victims.
 
 #### (3) Work and services to save lives and protect property
 
@@ -18,7 +18,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 &emsp;&emsp;(A) debris removal;
 
-&emsp;&emsp;(B) search and rescue, emergency medical care, emergency mass care, emergency shelter, and provision of food, water, medicine, and other essential needs, including movement of supplies or persons;
+&emsp;&emsp;(B) search and rescue, emergency medical care, emergency mass care, emergency shelter, and provision of food, water, medicine durable medical equipment,,<sup>1</sup> and other essential needs, including movement of supplies or persons;
 
 &emsp;&emsp;(C) clearance of roads and construction of temporary bridges necessary to the performance of emergency tasks and essential community services;
 
@@ -30,9 +30,15 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 &emsp;&emsp;(G) dissemination of public information and assistance regarding health and safety measures;
 
-&emsp;&emsp;(H) provision of technical advice to State and local governments on disaster management and control; and
+&emsp;&emsp;(H) provision of technical advice to State and local governments on disaster management and control;
 
-&emsp;&emsp;(I) reduction of immediate threats to life, property, and public health and safety.
+&emsp;&emsp;(I) reduction of immediate threats to life, property, and public health and safety; and
+
+&emsp;&emsp;(J) provision of rescue, care, shelter, and essential needs—
+
+&emsp;&emsp;&emsp;(i) to individuals with household pets and service animals; and
+
+&emsp;&emsp;&emsp;(ii) to such pets and animals.
 
 #### (4) Contributions
 
@@ -76,9 +82,17 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 &emsp;&emsp;The term “emergency work” includes clearance and removal of debris and wreckage and temporary restoration of essential public facilities and services.
 
-(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697.)
+(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4, Oct. 6, 2006, 120 Stat. 1726.)
 
 #### Prior Provisions
 
 A prior section 403 of Pub. L. 93–288 was renumbered section 407 by Pub. L. 100–707 and is classified to section 5173 of this title.
+
+#### Amendments
+
+2006—Subsec. (a)(2), (3)(B). Pub. L. 109–295, §689(b)(1), (2)(A), inserted “durable medical equipment,” after “medicine”.
+
+Subsec. (a)(3)(J). Pub. L. 109–295, §689(b)(2)(B)–(D), and Pub. L. 109–308 amended par. (3) identically, adding subpar. (J).
+
+<i><sup>1</sup></i><i> So in original. The extra comma probably should follow “medicine”.</i>
 

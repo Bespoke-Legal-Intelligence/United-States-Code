@@ -10,7 +10,7 @@ The purposes of the corporation are—
 
 &emsp;&emsp;(B) to uphold high standards for the Federal judiciary and attorneys representing the United States Government;
 
-&emsp;&emsp;(C) to promote and improve the administration of justice, including the study ofmeans for the improved handling of the legal business of the departments, agencies, and instrumentalities of the Government;
+&emsp;&emsp;(C) to promote and improve the administration of justice, including the study of means for the improved handling of the legal business of the departments, agencies, and instrumentalities of the Government;
 
 &emsp;&emsp;(D) to facilitate the cultivation and diffusion of knowledge and understanding of the law and the promotion of the study of the law and the science of jurisprudence and research in jurisprudence, through the maintenance of a law library, the establishment of seminars, lectures, and studies devoted to the law, and the publication of addresses, essays, treatises, reports, and other literary works by students, practitioners, and teachers of the law; and
 

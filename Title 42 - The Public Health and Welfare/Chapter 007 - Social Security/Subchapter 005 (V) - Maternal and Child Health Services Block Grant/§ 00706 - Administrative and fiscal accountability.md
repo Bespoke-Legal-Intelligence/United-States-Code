@@ -2,7 +2,7 @@
 
 #### (a) Annual reporting requirements; form, etc.
 
-(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain suchinformation (including information described in paragraph (2)) as the Secretary determines (after consultation with the States) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
+(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain such information (including information described in paragraph (2)) as the Secretary determines (after consultation with the States) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
 
 (2) Each annual report under paragraph (1) shall include the following information:
 
@@ -72,7 +72,7 @@
 
 > For purposes of subparagraph (A), each of the following shall be considered to be a separate class of individuals: pregnant women, infants up to age one, children with special health care needs, other children under age 22, and other individuals.
 
-(3) The Secretary shall annually transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report that includes—
+(3) The Secretary shall annually transmit to the Committee on Energy and Commerce of theHouse of Representatives and the Committee on Finance of the Senate a report that includes—
 
 &emsp;(A) a description of each project receiving funding under paragraph (2) or (3) of section 702(a) of this title, including the amount of Federal funds provided, the number of individuals served or trained, as appropriate, under the project, and a summary of any formal evaluation conducted with respect to the project;
 
@@ -162,7 +162,7 @@ The State shall make copies of the reports and audits required by this section a
 
 #### (d) Access to books, records, etc.; creation of new records
 
-(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such block grant, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
+(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such block grant, and that are in the possession, custody, or control ofStates, political subdivisions thereof, or any of their grantees.
 
 (2) In conjunction with an evaluation or review under paragraph (1), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new records to comply with paragraph (1).
 
@@ -178,7 +178,7 @@ Section 6503 of title 31, referred to in subsec. (d)(3), was amended generally b
 
 A prior section 706, act Aug. 14, 1935, ch. 531, title V, §506, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 924; amended Oct. 30, 1972, Pub. L. 92–603, title II, §§221(c)(2), 224(d), 229(d), 233(d), 237(b), 86 Stat. 1389, 1395, 1410, 1412, 1416, related to computation of amount of payments to States, prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. See section 703 of this title. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-Provisions similar to those comprising former section 706 were contained in sections 504 and 514 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 630, 632, as amended (formerly classified to sections 704 and 714 of thistitle), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 706 were contained in sections 504 and 514 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 630, 632, as amended (formerly classified to sections 704 and 714 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
 

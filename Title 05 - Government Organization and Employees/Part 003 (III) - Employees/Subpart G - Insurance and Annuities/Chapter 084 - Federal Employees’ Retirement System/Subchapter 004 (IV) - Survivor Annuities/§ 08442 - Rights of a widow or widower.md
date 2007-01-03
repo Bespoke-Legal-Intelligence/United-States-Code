@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) $15,000 as adjusted under section 8462(e); and
 
-&emsp;(B) if the employee or Member completed at least 10 years of service, an annuity equal to 50 percent of an annuity computed under section8415 with respect to the employee or Member, but without regard to subsection (f) of such section.
+&emsp;(B) if the employee or Member completed at least 10 years of service, an annuity equal to 50 percent of an annuity computed under section 8415 with respect to the employee or Member, but without regard to subsection (f) of such section.
 
 (2) The Office shall prescribe regulations under which the total amount payable to a widow or widower under paragraph (1)(A) may, at the election of the widow or widower, be paid—
 
@@ -36,7 +36,7 @@
 
 &emsp;(A) an annuity under paragraph (2); or
 
-&emsp;(B) the lump-sum credit, if the widow or widower is the individual who would be entitled to the lump-sum credit and if such widow or widower files application therefor with the Office.
+&emsp;(B) the lump-sum credit, if the widow or widower is the individual who would be entitledto the lump-sum credit and if such widow or widower files application therefor with the Office.
 
 (2)(A)(i) Subject to clause (ii) and subparagraph (B)(ii), the annuity of the widow or widower is equal to 50 percent of an annuity computed under section 8415 for the former employee or Member.
 

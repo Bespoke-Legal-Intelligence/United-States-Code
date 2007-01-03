@@ -6,7 +6,7 @@ Service on Reasonable Request.—A pipeline carrier providing transportation or 
 
 (b)
 
-Rates and Other Terms.—A pipeline carrier shall also provide to any person, on request, the carrier's rates and other service terms. The response by a pipeline carrier to a request for the carrier's rates and other service terms shall be—
+Rates and Other Terms.—A pipeline carrier shall also provide to any person, on request, the carrier's rates and other service terms. The response by a pipeline carrier to a request forthe carrier's rates and other service terms shall be—
 
 &emsp;(1) in writing and forwarded to the requesting person promptly after receipt of the request; or
 

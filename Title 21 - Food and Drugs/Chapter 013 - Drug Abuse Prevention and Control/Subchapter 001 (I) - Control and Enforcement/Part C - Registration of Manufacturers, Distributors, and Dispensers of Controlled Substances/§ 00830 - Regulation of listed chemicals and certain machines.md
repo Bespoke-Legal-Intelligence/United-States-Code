@@ -52,17 +52,17 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(i) Distributions of sample packages of drug products when such packages contain not more than two solid dosage units or the equivalent of two dosage units in liquid form, not to exceed 10 milliliters of liquid per package, and not more than one package is distributed to an individual or residential address in any 30-day period.
 
-&emsp;(ii) Distributions of drug products by retail distributors that may not include face-to-face transactions to the extent that such distributions are consistent with the activities authorized for a retail distributor as specified in section 802(46) of this title.
+&emsp;(ii) Distributions of drug products by retail distributors that may not include face-to-facetransactions to the extent that such distributions are consistent with the activities authorized for a retail distributor as specified in section 802(49) of this title, except that this clause does not apply to sales of scheduled listed chemical products at retail.
 
 &emsp;(iii) Distributions of drug products to a resident of a long term care facility (as that term is defined in regulations prescribed by the Attorney General) or distributions of drug products to a long term care facility for dispensing to or for use by a resident of that facility.
 
 &emsp;(iv) Distributions of drug products pursuant to a valid prescription.
 
-&emsp;(v) Exports which have been reported to the Attorney General pursuant to section 954 or 971 of this title or which are subject to a waiver granted under section 971(e)(2) of this title.
+&emsp;(v) Exports which have been reported to the Attorney General pursuant to section 954 or 971 of this title or which are subject to a waiver granted under section 971(f)(2) of this title.
 
 &emsp;(vi) Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II of this chapter.
 
-(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D)for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II of this chapter. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
+(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II of this chapter. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
@@ -88,19 +88,151 @@ Mail order reporting.—(A) As used in this paragraph:
 
 (5) Notwithstanding paragraph (4), a civil action may not be brought under such paragraph against investigative or law enforcement personnel of the Drug Enforcement Administration.
 
-(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239.)
+#### (d) Scheduled listed chemicals; restrictions on sales quantity; requirements regarding nonliquid forms
+
+With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine base in a scheduled listed chemical product—
+
+&emsp;(1) the quantity of such base sold at retail in such a product by a regulated seller, or a distributor required to submit reports by subsection (b)(3) may not, for any purchaser, exceed a daily amount of 3.6 grams, without regard to the number of transactions; and
+
+&emsp;(2) such a seller or distributor may not sell such a product in nonliquid form (including gel caps) at retail unless the product is packaged in blister packs, each blister containing not more than 2 dosage units, or where the use of blister packs is technically infeasible, the product is packaged in unit dose packets or pouches.
+
+#### (e) Scheduled listed chemicals; behind-the-counter access; logbook requirement; training of sales personnel; privacy protections
+
+#### (1) Requirements regarding retail transactions
+
+#### (A) In general
+
+&emsp;&emsp;Each regulated seller shall ensure that, subject to subparagraph (F), sales by such seller of a scheduled listed chemical product at retail are made in accordance with the following:
+
+&emsp;&emsp;&emsp;(i) In offering the product for sale, the seller places the product such that customers do not have direct access to the product before the sale is made (in this paragraph referred to as “behind-the-counter” placement). For purposes of this paragraph, a behind-the-counter placement of a product includes circumstances in which the product is stored in a locked cabinet that is located in an area of the facility involved to which customers do have direct access.
+
+&emsp;&emsp;&emsp;(ii) The seller delivers the product directly into the custody of the purchaser.
+
+&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the “logbook”), except thatsuch requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
+
+&emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless—
+
+&emsp;&emsp;&emsp;&emsp;(I) the prospective purchaser—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) presents an identification card that provides a photograph and is issued by a State or the Federal Government, or a document that, with respect to identification, is considered acceptable for purposes of sections 274a.2(b)(1)(v)(A) and 274a.2(b)(1)(v)(B) of title 8, Code of Federal Regulations (as in effect on or after March 9, 2006); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) signs the logbook and enters in the logbook his or her name, address, and the date and time of the sale; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the seller—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) determines that the name entered in the logbook corresponds to the name provided on such identification and that the date and time entered are correct; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) enters in the logbook the name of the product and the quantity sold.
+
+&emsp;&emsp;&emsp;(v) The logbook includes, in accordance with criteria of the Attorney General, a notice to purchasers that entering false statements or misrepresentations in the logbook may subject the purchasers to criminal penalties under section 1001 of title 18, which notice specifies the maximum fine and term of imprisonment under such section.
+
+&emsp;&emsp;&emsp;(vi) The seller maintains each entry in the logbook for not fewer than two years after the date on which the entry is made.
+
+&emsp;&emsp;&emsp;(vii) In the case of individuals who are responsible for delivering such products into the custody of purchasers or who deal directly with purchasers by obtaining payments for the products, the seller has submitted to the Attorney General a self-certification that all such individuals have, in accordance with criteria under subparagraph (B)(ii), undergone training provided by the seller to ensure that the individuals understand the requirements that apply under this subsection and subsection (d).
+
+&emsp;&emsp;&emsp;(viii) The seller maintains a copy of such certification and records demonstrating that individuals referred to in clause (vii) have undergone the training.
+
+&emsp;&emsp;&emsp;(ix) If the seller is a mobile retail vendor:
+
+&emsp;&emsp;&emsp;&emsp;(I) The seller complies with clause (i) by placing the product in a locked cabinet.
+
+&emsp;&emsp;&emsp;&emsp;(II) The seller does not sell more than 7.5 grams of ephedrine base, pseudoephedrine base, or phenylpropanolamine base in such products per customer during a 30-day period.
+
+#### (B) Additional provisions regarding certifications and training
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A regulated seller may not sell any scheduled listed chemical product at retail unless the seller has submitted to the Attorney General the self-certification referred to in subparagraph (A)(vii). The certification is not effective for purposes of the preceding sentence unless, in addition to provisions regarding the training of individuals referred to in such subparagraph, the certification includes a statement that the seller understands each of the requirements that apply under this paragraph and under subsection (d) and agrees to comply with the requirements.
+
+#### (ii) Issuance of criteria; self-certification
+
+&emsp;&emsp;&emsp;The Attorney General shall by regulation establish criteria for certifications under this paragraph. The criteria shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) provide that the certifications are self-certifications provided through the program under clause (iii);
+
+&emsp;&emsp;&emsp;&emsp;(II) provide that a separate certification is required for each place of business at which a regulated seller sells scheduled listed chemical products at retail; and
+
+&emsp;&emsp;&emsp;&emsp;(III) include criteria for training under subparagraph (A)(vii).
+
+#### (iii) Program for regulated sellers
+
+&emsp;&emsp;&emsp;The Attorney General shall establish a program regarding such certifications and training in accordance with the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The program shall be carried out through an Internet site of the Department of Justice and such other means as the Attorney General determines to be appropriate.
+
+&emsp;&emsp;&emsp;&emsp;(II) The program shall inform regulated sellers that section 1001 of title 18 applies to such certifications.
+
+&emsp;&emsp;&emsp;&emsp;(III) The program shall make available to such sellers an explanation of the criteria under clause (ii).
+
+&emsp;&emsp;&emsp;&emsp;(IV) The program shall be designed to permit the submission of the certifications through such Internet site.
+
+&emsp;&emsp;&emsp;&emsp;(V) The program shall be designed to automatically provide the explanation referred to in subclause (III), and an acknowledgement that the Department has received a certification, without requiring direct interactions of regulated sellers with staff of the Department (other than the provision of technical assistance, as appropriate).
+
+#### (iv) Availability of certification to State and local officials
+
+&emsp;&emsp;&emsp;Promptly after receiving a certification under subparagraph (A)(vii), the Attorney General shall make available a copy of the certification to the appropriate State and local officials.
+
+#### (C) Privacy protections
+
+&emsp;&emsp;In order to protect the privacy of individuals who purchase scheduled listed chemicalproducts, the Attorney General shall by regulation establish restrictions on disclosure of information in logbooks under subparagraph (A)(iii). Such regulations shall—
+
+&emsp;&emsp;&emsp;(i) provide for the disclosure of the information as appropriate to the Attorney General and to State and local law enforcement agencies; and
+
+&emsp;&emsp;&emsp;(ii) prohibit accessing, using, or sharing information in the logbooks for any purpose other than to ensure compliance with this subchapter or to facilitate a product recall to protect public health and safety.
+
+#### (D) False statements or misrepresentations by purchasers
+
+&emsp;&emsp;For purposes of section 1001 of title 18, entering information in the logbook under subparagraph (A)(iii) shall be considered a matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States.
+
+#### (E) Good faith protection
+
+&emsp;&emsp;A regulated seller who in good faith releases information in a logbook under subparagraph (A)(iii) to Federal, State, or local law enforcement authorities is immune from civil liability for such release unless the release constitutes gross negligence or intentional, wanton, or willful misconduct.
+
+#### (F) Inapplicability of requirements to certain sales
+
+&emsp;&emsp;Subparagraph (A) does not apply to the sale at retail of a scheduled listed chemical product if a report on the sales transaction is required to be submitted to the Attorney General under subsection (b)(3).
+
+#### (G) Certain measures regarding theft and diversion
+
+&emsp;&emsp;A regulated seller may take reasonable measures to guard against employing individuals who may present a risk with respect to the theft and diversion of scheduled listed chemical products, which may include, notwithstanding State law, asking applicants for employment whether they have been convicted of any crime involving or related to such products or controlled substances.
+
+#### (2) Mail-order reporting; verification of identity of purchaser; 30-day restriction on quantities for individual purchasers
+
+&emsp;Each regulated person who makes a sale at retail of a scheduled listed chemical product and is required under subsection (b)(3) to submit a report of the sales transaction to the Attorney General is subject to the following:
+
+&emsp;&emsp;(A) The person shall, prior to shipping the product, confirm the identity of the purchaser in accordance with procedures established by the Attorney General. The Attorney General shall by regulation establish such procedures.
+
+&emsp;&emsp;(B) The person may not sell more than 7.5 grams of ephedrine base, pseudoephedrine base, or phenylpropanolamine base in such products per customer during a 30-day period.
+
+#### (3) Exemptions for certain products
+
+&emsp;Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
+
+(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267.)
 
 #### References in Text
 
 The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-This subchapter, referred to in subsec. (b)(3)(D)(vi), (E), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (b)(3)(D)(vi), (E) and (e)(1)(C)(ii), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II of this chapter, referred to in subsecs. (b)(3)(D)(iv), (E) and (c)(2)(A), (B), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-The customs laws, referred to in subsec. (c)(2)(A), (B), are classified generally to Title 19, Customs Duties.
-
 #### Amendments
+
+2006—Subsec. (b)(3)(D)(ii). Pub. L. 109–177, §711(c)(2), inserted “, except that this clause does not apply to sales of scheduled listed chemical products at retail” before period at end.
+
+Pub. L. 109–177, §711(a)(2)(B), substituted “section 802(49)” for “section 802(46)”.
+
+Subsec. (b)(3)(D)(v). Pub. L. 109–177, §716(b)(2), substituted “section 971(f)(2)” for “section 971(e)(2)”.
+
+Subsec. (d). Pub. L. 109–177, §711(b)(1), added subsec. (d).
+
+Subsec. (e)(1). Pub. L. 109–177, §711(b)(1), added subsec. heading and par. (1).
+
+Subsec. (e)(2). Pub. L. 109–177, §711(c)(1), added par. (2).
+
+Subsec. (e)(3). Pub. L. 109–177, §711(d), added par. (3).
 
 2000—Subsec. (b)(3). Pub. L. 106–310 added subpars. (A), (D), and (E), redesignated former subpars. (A) and (B) as (B) and (C), respectively, and inserted “or who engages in an export transaction” after “nonregulated person” in introductory provisions of subpar. (B).
 
@@ -114,11 +246,21 @@ Subsec. (b)(3). Pub. L. 104–237, §402, added par. (3).
 
 1993—Subsec. (a)(1). Pub. L. 103–200, §2(c)(1), substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
 
-Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
+Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to\(4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
 
 Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
 
 1988—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relating to reporting by any person who distributes, sells, or imports any piperidine.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–177, title VII, §711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided that: “With respect to subsections (d) and (e)(1) of section 310 of the Controlled Substances Act \[21 U.S.C. 830(d), (e)(1)\], as added by paragraph (1) of this subsection:
+
+&emsp;“(A) Such subsection (d) applies on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].
+
+&emsp;“(B) Such subsection (e)(1) applies on and after September 30, 2006.”
+
+Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -134,7 +276,7 @@ Section 203(a) of title II of Pub. L. 95–633 provided that:
 
 “(1) Except as provided under paragraph (2), the amendments made by this title \[enacting this section and amending sections 841 to 843 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1978\].
 
-“(2) Any person required to submit a report under section 310(a)(1) of the Controlled Substances Act \[subsec. (a)(1) of this section\] respecting a distribution,sale, or importation of piperidine during the 90 days after the date of the enactment of this Act \[Nov. 10, 1978\] may submit such report any time up to 97 days after such date of enactment.
+“(2) Any person required to submit a report under section 310(a)(1) of the Controlled Substances Act \[subsec. (a)(1) of this section\] respecting a distribution, sale, or importation of piperidine during the 90 days after the date of the enactment of this Act \[Nov. 10, 1978\] may submit such report any time up to 97 days after such date of enactment.
 
 “(3) Until otherwise provided by the Attorney General by regulation, the information required to be reported by a person under section 310(a)(1) of the Controlled Substances Act (as added by section 202(a)(2) of this title) \[subsec. (a)(1) of this section\] with respect to the person's distribution, sale, or importation of piperidine shall—
 

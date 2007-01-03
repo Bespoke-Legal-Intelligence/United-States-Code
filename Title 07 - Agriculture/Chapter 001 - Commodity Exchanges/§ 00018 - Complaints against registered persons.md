@@ -8,7 +8,7 @@
 
 &emsp;(B) in the case of any action arising from a willful and intentional violation in the execution of an order on the floor of a registered entity, punitive or exemplary damages equal to no more than two times the amount of such actual damages. If an award of punitive or exemplary damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under section 2(a)(1) of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchant only if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker's violation.
 
-(2)(A) An action may be brought under this subsection by any one or more persons described in this subsection for and in behalf of such person or persons and other persons similarly situated, if the Commission permits such actionspursuant to a final rule issued by the Commission.
+(2)(A) An action may be brought under this subsection by any one or more persons described in this subsection for and in behalf of such person or persons and other persons similarly situated, if the Commission permits such actions pursuant to a final rule issued by the Commission.
 
 (B) Not later than two hundred and seventy days after October 28, 1992, the Commission shall propose and publish for public comment such rules as are necessary to carry out subparagraph (A). In developing such rules, the Commission shall consider the potential impact of such actions on resources available to the reparations system established under this chapter and the relative merits of bringing such actions in Federal court.
 
@@ -36,7 +36,7 @@ Unless the party against whom a reparation order has been issued shows to the sa
 
 Nothing in this section prohibits a registered futures commission merchant from requiring a customer that is an eligible contract participant, as a condition to the commission merchant's conducting a transaction for the customer, to enter into an agreement waiving the right to file a claim under this section.
 
-(Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat.77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§118, 123(a)(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410.)
+(Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§118, 123(a)(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title I, §118\], added subsec. (g) 
 
 Pub. L. 102–546, §222(b), substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
 
-Subsec. (e). Pub. L. 102–546, §209(b)(7), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
+Subsec. (e). Pub. L. 102–546, §209(b)(7), made technical amendment to reference to sections 9 and 15 of thistitle to reflect change in reference to corresponding section of original act.
 
 Subsec. (g). Pub. L. 102–546, §402(11), substituted “15-month” for second reference to “fifteen months”.
 

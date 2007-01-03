@@ -142,7 +142,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedingsagainst an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 

@@ -30,7 +30,7 @@ Apr. 16, 1947, ch. 38, §106 (less 1st sentence), 61 Stat. 44.
 
 In subsection (a), the word “commissioned” is inserted for clarity. The words “Except as provided in section 94 of this title”, not contained in section 1169 of the Revised Statutes, but contained in 10:94, are omitted as surplusage, since 10:94 deals exclusively with assignments. The words “except within the Army Medical Service” are substituted for the words “in the line or in other staff corps”. Officers of the Army Nurse Corps and Women's Medical Specialist Corps are not covered by subsection (a), since their command authority is specifically stated in subsection (b).
 
-In subsection (b), 10:166e (last 22 words of 1st sentence) is omitted as superseded by sections 3012(e) and 3065 of this title. The words “may exercise commandonly” are substituted for the words “shall not be entitled \* \* \* to command except”. The words “by virtue of their rank” and “by competent authority” are omitted as surplusage.
+In subsection (b), 10:166e (last 22 words of 1st sentence) is omitted as superseded by sections 3012(e) and 3065 of this title. The words “may exercise command only” are substituted for the words “shall not be entitled \* \* \* to command except”. The words “by virtue of their rank” and “by competent authority” are omitted as surplusage.
 
 1958
 
@@ -71,4 +71,6 @@ Subsec. (b). Pub. L. 85–861, §1(60), (87), substituted “Army Medical Specia
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+§3580
 

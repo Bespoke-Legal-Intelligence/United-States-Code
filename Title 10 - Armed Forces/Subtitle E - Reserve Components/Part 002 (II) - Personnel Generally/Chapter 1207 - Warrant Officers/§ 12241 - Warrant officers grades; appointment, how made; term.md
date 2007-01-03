@@ -1,6 +1,6 @@
 ### §12241. Warrant officers: grades; appointment, how made; term
 
-(a) The permanent reserve warrant officer grades in each armed force are those prescribed for regular warrant officers by section 571(a) of this title.
+(a) The permanent reserve warrant officer grades in each armed force are those prescribedfor regular warrant officers by section 571(a) of this title.
 
 (b) Appointments made in the permanent reserve grade of warrant officer, W–1, shall be made by warrant by the Secretary concerned. Appointments made in a permanent reserve grade of chief warrant officer shall be made by commission by the Secretary concerned.
 

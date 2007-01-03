@@ -60,7 +60,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 &emsp;(E) A contingency operation.
 
-(2) The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection if the Secretary concerned determines that—
+(2) The reporting requirement set forth in subsection (a) shall not apply with respect to a realproperty transaction otherwise covered by that subsection if the Secretary concerned determines that—
 
 &emsp;(A) an event listed in paragraph (1) is imminent; and
 

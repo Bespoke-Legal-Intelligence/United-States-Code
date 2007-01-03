@@ -6,7 +6,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 &emsp;(1) The port of entry to which the merchandise is destined;
 
-&emsp;(2) The time when, the place where, and the person by whom and the person to whom themerchandise is sold or agreed to be sold, or if to be imported otherwise than in pursuance of a purchase, the place from which shipped, the time when and the person to whom and the person by whom it is shipped;
+&emsp;(2) The time when, the place where, and the person by whom and the person to whom the merchandise is sold or agreed to be sold, or if to be imported otherwise than in pursuance of a purchase, the place from which shipped, the time when and the person to whom and the person by whom it is shipped;
 
 &emsp;(3) A detailed description of the merchandise, including the commercial name by which each item is known, the grade or quality, and the marks, numbers, or symbols under which sold by the seller or manufacturer in the country of exportation, together with the marks and numbers of the packages in which the merchandise is packed;
 
@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 103–182, §636(1)(B), amended par. (3) generally. Prio
 
 Subsec. (a)(10). Pub. L. 103–182, §636(1)(C), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Any other facts deemed necessary to a proper appraisement, examination, and classification of the merchandise that the Secretary of the Treasury may require.”
 
-Subsec. (c). Pub. L. 103–182, §636(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “When the merchandise has been purchased in different consular districts for shipment to the United States and is assembled for shipment and embraced in a single invoice which is produced for certificationunder the provisions of paragraph (2) of subdivision (a) of section 1482 of this title, the invoice shall have attached thereto the original bills or invoices received by the shipper, or extracts therefrom, showing the actual prices paid or to be paid for such merchandise. The consular officer to whom the invoice is so produced for certification may require that any such original bill or invoice be certified by the consular officer for the district in which the merchandise was purchased.”
+Subsec. (c). Pub. L. 103–182, §636(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “When the merchandise has been purchased in different consular districts for shipment to the United States and is assembled for shipment and embraced in a single invoice which is produced for certification under the provisions of paragraph (2) of subdivision (a) of section 1482 of this title, the invoice shall have attached thereto the original bills or invoices received by the shipper, or extracts therefrom, showing the actual prices paid or to be paid for such merchandise. The consular officer to whom the invoice is so produced for certification may require that any such original bill or invoice be certified by the consular officer for the district in which the merchandise was purchased.”
 
 Subsec. (d). Pub. L. 103–182, §636(3), inserted before period at end “and may allow for the submission or electronic transmission of partial invoices, electronic equivalents of invoices, bills, or other documents or parts thereof, required under this section”.
 

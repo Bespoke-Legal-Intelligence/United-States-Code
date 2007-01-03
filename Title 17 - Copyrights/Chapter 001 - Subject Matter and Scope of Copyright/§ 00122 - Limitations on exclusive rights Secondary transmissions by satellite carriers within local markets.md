@@ -24,7 +24,7 @@ Initial lists.—A satellite carrier that makes secondary transmissions of a pri
 
 &emsp;(2)
 
-Subsequent lists.—After the list is submitted under paragraph (1), the satellite carrier shall, on the 15th of each month, submit to the network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers whohave been added or dropped as subscribers since the last submission under this subsection.
+Subsequent lists.—After the list is submitted under paragraph (1), the satellite carrier shall, on the 15th of each month, submit to the network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Geographic Limitations on Secondary Transmissions.—The statutory license creat
 
 (i)
 
-Exclusivity With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 or any other law (other than this section and section 119) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carriers of programming contained in aprimary transmission made by a television broadcast station may be made without obtaining the consent of the copyright owner.
+Exclusivity With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 or any other law (other than this section and section 119) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carriers of programming contained in a primary transmission made by a television broadcast station may be made without obtaining the consent of the copyright owner.
 
 (j)
 

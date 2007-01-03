@@ -4,7 +4,3 @@ In order to effectuate the policy declared in section 851 of this title the Secr
 
 (Aug. 24, 1935, ch. 641, §57, 49 Stat. 781.)
 
-#### References in Text
-
-Antitrust laws of the United States, referred to in text, are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-

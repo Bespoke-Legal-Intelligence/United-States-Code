@@ -6,7 +6,7 @@ Not later than 120 days after each inauguration of a President, the President sh
 
 #### (b) Consultation
 
-The President should consult with and brief, from time to time, the appropriate committees of Congress regarding the efficacy of the coordination mechanism established pursuant to section 2357b of this title in achieving its stated objectives.
+The President should consult with and brief, from time to time, the appropriate committeesof Congress regarding the efficacy of the coordination mechanism established pursuant to section 2357b of this title in achieving its stated objectives.
 
 (Pub. L. 107–228, div. B, title XIII, §1339, Sept. 30, 2002, 116 Stat. 1451.)
 

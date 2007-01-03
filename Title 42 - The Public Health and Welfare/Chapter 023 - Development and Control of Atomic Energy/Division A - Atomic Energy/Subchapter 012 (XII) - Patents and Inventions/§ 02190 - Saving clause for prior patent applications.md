@@ -12,7 +12,3 @@ Sections 1811(a)(1), 1811(a)(2), and 1811(b) of this title, referred to in text,
 
 Patent Office and Commissioner of Patents changed to Patent and Trademark Office and Commissioner of Patents and Trademarks, respectively, pursuant to Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
-

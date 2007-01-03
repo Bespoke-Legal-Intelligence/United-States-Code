@@ -2,7 +2,13 @@
 
 (a) This chapter shall apply to cases arising under section 2254 brought by prisoners in State custody who are subject to a capital sentence. It shall apply only if the provisions of subsections (b) and (c) are satisfied.
 
-(b) This chapter is applicable if a State establishes by statute, rule of its court of last resort, or by another agency authorized by State law, a mechanism for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in State post-conviction proceedings brought by indigent prisoners whose capital convictions and sentences have been upheld on direct appeal to the court of last resort in the State or have otherwise become final for State law purposes. The rule of court or statute must provide standards of competency for the appointment of such counsel.
+(b)
+
+Counsel.—This chapter is applicable if—
+
+&emsp;(1) the Attorney General of the United States certifies that a State has established a mechanism for providing counsel in postconviction proceedings as provided in section 2265; and
+
+&emsp;(2) counsel was appointed pursuant to that mechanism, petitioner validly waived counsel, petitioner retained counsel, or petitioner was found not to be indigent.
 
 (c) Any mechanism for the appointment, compensation, and reimbursement of counsel as provided in subsection (b) must offer counsel to all State prisoners under capital sentence and must provide for the entry of an order by a court of record—
 
@@ -12,11 +18,21 @@
 
 &emsp;(3) denying the appointment of counsel upon a finding that the prisoner is not indigent.
 
-(d) No counsel appointed pursuant to subsections (b) and (c) to represent a State prisoner under capital sentence shall have previously represented the prisoner at trial or on direct appeal in the case for which the appointment is made unless the prisoner and counsel expressly request continued representation.
+(d) No counsel appointed pursuant to subsections (b) and (c) to represent a State prisoner under capital sentence shall have previously represented the prisoner at trial in the case for which the appointment is made unless the prisoner and counsel expressly request continued representation.
 
 (e) The ineffectiveness or incompetence of counsel during State or Federal post-conviction proceedings in a capital case shall not be a ground for relief in a proceeding arising under section 2254. This limitation shall not preclude the appointment of different counsel, on the court's own motion or at the request of the prisoner, at any phase of State or Federal post-conviction proceedings on the basis of the ineffectiveness or incompetence of counsel in such proceedings.
 
-(Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1221.)
+(Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1221; amended Pub. L. 109–177, title V, §507(a), (b), Mar. 9, 2006, 120 Stat. 250.)
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–177, §507(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter is applicable if a State establishes by statute, rule of its court of last resort, or by another agency authorized by State law, a mechanism for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in State post-conviction proceedings brought by indigent prisoners whose capital convictions and sentences have been upheld on direct appeal to the court of last resort in the State or have otherwise become final for State law purposes. The rule of court or statute must provide standards of competency for the appointment of such counsel.”
+
+Subsec. (d). Pub. L. 109–177, §507(b), struck out “or on direct appeal” after “at trial”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–177 applicable to cases pending on or after Mar. 9, 2006, with special rule for certain cases pending on that date, see section 507(d) of Pub. L. 109–177, set out as a note under section 2251 of this title.
 
 #### Effective Date
 

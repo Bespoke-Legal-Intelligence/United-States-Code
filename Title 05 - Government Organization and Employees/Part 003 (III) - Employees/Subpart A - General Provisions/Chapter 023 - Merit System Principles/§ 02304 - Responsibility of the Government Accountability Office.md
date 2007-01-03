@@ -8,7 +8,7 @@ If requested by either House of the Congress (or any committee thereof), or if c
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
 
-1995—Pub. L. 104–66 struck out subsec. (a) designation before “If requested by” and struck out subsec. (b) which read as follows: “The General Accounting Officeshall prepare and submit an annual report to the President and the Congress on the activities of the Merit Systems Protection Board and the Office of Personnel Management. The report shall include a description of—
+1995—Pub. L. 104–66 struck out subsec. (a) designation before “If requested by” and struck out subsec. (b) which read as follows: “The General Accounting Office shall prepare and submit an annual report to the President and the Congress on the activities of the Merit Systems Protection Board and the Office of Personnel Management. The report shall include a description of—
 
 &emsp;“(1) significant actions taken by the Board to carry out its functions under this title; and
 

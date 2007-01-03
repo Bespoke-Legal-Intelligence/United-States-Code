@@ -4,6 +4,10 @@ It is declared that it is a national policy to preserve for public use historic 
 
 (Aug. 21, 1935, ch. 593, §1, 49 Stat. 666.)
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–338, §1(a), Oct. 12, 2006, 120 Stat. 1783, provided that: “This Act \[enacting provisions set out as a note under section 262 of Title 30, Mineral Lands and Mining, enacting provisions listed in a table of National Heritage Routes set out under this section, amending provisions formerly set out as a note under section 1244 of this title, and amending provisions listed in a table of National Heritage and River Corridors, a table of National Heritage Areas, and a table of National Heritage Partnerships set out under this section\] may be cited as the ‘National Heritage Areas Act of 2006’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–156, §1, Dec. 30, 2005, 119 Stat. 2946, provided that: “This Act \[amending section 463 of this title and enacting provisions set out as a note under section 463 of this title\] may be cited as the ‘Delaware Water Gap National Recreation Area Improvement Act’.”
@@ -18,7 +22,7 @@ Pub. L. 105–203, §1, July 21, 1998, 112 Stat. 678, provided that: “This Act
 
 #### Short Title
 
-Act Aug. 21, 1935, ch. 593, 49 Stat. 666, which is classified to sections 461 to 467 of this title, is popularly known as the “Historic Sites, Buildings, and Antiquities Act”.
+Act Aug. 21, 1935, ch. 593, 49 Stat. 666, which is classified to sections 461 to 467 of this title, is popularlyknown as the “Historic Sites, Buildings, and Antiquities Act”.
 
 National Historic Sites
 
@@ -220,9 +224,11 @@ Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–69
 
 Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295.
 
-Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456; Pub. L. 104–333, div. I, title IX, §902, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 105–355, title V, §502, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §126\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229.
+Gullah/Geechee Cultural Heritage Corridor, Florida, Georgia, North Carolina, and South Carolina.—Pub. L. 109–338, title II, §§295–295L, Oct. 12, 2006, 120 Stat. 1832–1837.
 
-John H. Chafee Blackstone River Valley National Heritage Corridor \[formerly Blackstone River Valley National Heritage Corridor\], Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, §501, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §343\], Nov. 29, 1999, 113 Stat. 1535, 1501A–202; Pub. L. 106–176, title I, §121, Mar. 10, 2000, 114 Stat. 29.
+Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456; Pub. L. 104–333, div. I, title IX, §902, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 105–355, title V, §502, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §126\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–338, title IV, Oct. 12, 2006, 120 Stat. 1850.
+
+John H. Chafee Blackstone River Valley National Heritage Corridor \[formerly Blackstone River Valley National Heritage Corridor\], Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, §501, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §343\], Nov. 29, 1999, 113 Stat. 1535, 1501A–202; Pub. L. 106–176, title I, §121, Mar. 10, 2000, 114 Stat. 29; Pub. L. 109–338, title VII, §§701, 702, Oct. 12, 2006, 120 Stat. 1857.
 
 Ohio \& Erie Canal National Heritage Corridor, Ohio.—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31.
 
@@ -234,13 +240,21 @@ National Heritage Areas
 
 &nbsp;
 
+Arabia Mountain National Heritage Area, Georgia.—Pub. L. 109–338, title II, §§231–242, Oct. 12, 2006, 120 Stat. 1795–1800.
+
+Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795.
+
 Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31.
 
 Automobile National Heritage Area, Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247.
 
 Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274.
 
+Crossroads of the American Revolution National Heritage Area, New Jersey.—Pub. L. 109–338, title II, §§297–297J, Oct. 12, 2006, 120 Stat. 1837–1844.
+
 Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31.
+
+Freedom's Frontier National Heritage Area, Kansas and Missouri.—Pub. L. 109–338, title II, §§261–269, Oct. 12, 2006, 120 Stat. 1807–1813.
 
 Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31.
 
@@ -248,9 +262,13 @@ Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, tit
 
 Mississippi Gulf Coast National Heritage Area, Mississippi.—Pub. L. 108–447, div. J, title VII, Dec. 8, 2004, 118 Stat. 3374.
 
+Mormon Pioneer National Heritage Area, Utah.—Pub. L. 109–338, title II, §§251–260, Oct. 12, 2006, 120 Stat. 1800–1807.
+
 National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec. 8, 2004, 118 Stat. 3361.
 
-National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31.
+National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, §901, Oct. 12, 2006, 120 Stat. 1862.
+
+Northern Rio Grande National Heritage Area, New Mexico.—Pub. L. 109–338, title II, §§201–209, Oct. 12, 2006, 120 Stat. 1787–1790.
 
 Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, title VI, Dec. 8, 2004, 118 Stat. 3368.
 
@@ -262,15 +280,105 @@ Steel Industry American Heritage Area (see Rivers of Steel National Heritage Are
 
 Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31.
 
+Upper Housatonic Valley National Heritage Area, Connecticut and Massachusetts.—Pub. L. 109–338, title II, §§271–280B, Oct. 12, 2006, 120 Stat. 1813–1819.
+
 Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, §157, Oct. 11, 2000, 114 Stat. 963.
 
-Yuma Crossing National Heritage Area, Arizona.—Pub. L. 106–319, Oct. 19, 2000, 114 Stat. 1280.
+Yuma Crossing National Heritage Area, Arizona.—Pub. L. 106–319, Oct. 19, 2000, 114 Stat. 1280; Pub. L. 109–318, §1, Oct. 11, 2006, 120 Stat. 1745.
 
 National Heritage Partnerships
 
 &nbsp;
 
 America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, §309, Mar. 10, 2000, 114 Stat. 34.
+
+Champlain Valley National Heritage Partnership, New York and Vermont.—Pub. L. 109–338, title II, §§281–289, Oct. 12, 2006, 120 Stat. 1819–1824.
+
+National Heritage Routes
+
+&nbsp;
+
+Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title II, §§291–291L, Oct. 12, 2006, 120 Stat. 1824–1831.
+
+#### Historic Confinement Sites
+
+Pub. L. 109–441, Dec. 21, 2006, 120 Stat. 3288, provided that:
+
+#### “SECTION 1. PRESERVATION OF HISTORIC CONFINEMENT SITES.
+
+“(a)
+
+Preservation Program.—The Secretary shall create a program within the National Park Service to encourage, support, recognize, and work in partnership with citizens, Federal agencies, State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations for the purpose of identifying, researching, evaluating, interpreting, protecting, restoring, repairing, and acquiring historic confinement sites in order that present and future generations may learn and gain inspiration from these sites and that these sites will demonstrate the Nation's commitment to equal justice under the law.
+
+“(b)
+
+Grants.—
+
+&emsp;“(1)
+
+Criteria.—The Secretary, after consultation with State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations (including organizations involved in the preservation of historic confinement sites), shall develop criteria for making grants under paragraph (2) to assist in carrying out subsection (a).
+
+&emsp;“(2)
+
+Provision of grants.—Not later than 180 days after the date on which funds are made available to carry out this Act, the Secretary shall, subject to the availability of appropriations, make grants to the entities described in paragraph (1) only in accordance with the criteria developed under that paragraph.
+
+“(c)
+
+Property Acquisition.—
+
+&emsp;“(1)
+
+Authority.—Federal funds made available under this section may be used to acquire non-Federal property for the purposes of this section, in accordance with section 3, only if that property is within the areas described in paragraph (2).
+
+&emsp;“(2)
+
+Property descriptions.—The property referred to in paragraph (2) is the following:
+
+&emsp;&emsp;“(A) Jerome, depicted in Figure 7.1 of the Site Document.
+
+&emsp;&emsp;“(B) Rohwer, depicted in Figure 11.2 of the Site Document.
+
+&emsp;&emsp;“(C) Topaz, depicted in Figure 12.2 of the Site Document.
+
+&emsp;&emsp;“(D) Honouliuli, located on the southern part of the Island of Oahu, Hawaii, and within the land area bounded by H1 to the south, Route 750 (Kunia Road) to the east, the Honouliuli Forest Reserve to the west, and Kunia town and Schofield Barracks to the north.
+
+&emsp;“(3)
+
+No effect on private property.—The authority granted in this subsection shall not constitute a Federal designation or have any effect on private property ownership.
+
+“(d)
+
+Matching Fund Requirement.—The Secretary shall require a 50 percent non-Federal match for funds provided under this section.
+
+“(e)
+
+Sunset of Authority.—This Act shall have no force or effect on and after the date that is 2 years after the disbursement to grantees under this section of the total amount of funds authorized to be appropriated under section 4.
+
+#### “SEC. 2. DEFINITIONS.
+
+“For purposes of this Act the following definitions apply:
+
+&emsp;“(1)
+
+Historic confinement sites.—(A) The term ‘historic confinement sites’ means the 10 internment camp sites referred to as Gila River, Granada, Heart Mountain, Jerome, Manzanar, Minidoka, Poston, Rohwer, Topaz, and Tule Lake and depicted in Figures 4.1, 5.1, 6.1, 7.1, 8.4, 9.2, 10.6, 11.2, 12.2, and 13.2, respectively, of the Site Document; and
+
+&emsp;“(B) other historically significant locations, as determined by the Secretary, where Japanese Americans were detained during World War II.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(3)
+
+Site document.—The term ‘Site Document’ means the document titled ‘Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites’, published by the Western Archeological and Conservation Center, National Park Service, in 1999.
+
+#### “SEC. 3. PRIVATE PROPERTY PROTECTION.
+
+“No Federal funds made available to carry out this Act may be used to acquire any real property or any interest in any real property without the written consent of the owner or owners of that property or interest in property.
+
+#### “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to the Secretary $38,000,000 to carry out this Act. Such sums shall remain available until expended.”
 
 #### Crossroads of the West Historic District
 
@@ -362,9 +470,9 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;“(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
 
-“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary toaccomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
+“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
 
-“Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
+“Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administeredby the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
 “(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
 
@@ -402,7 +510,7 @@ Sec. 3. \[Personnel; financial and administrative services\] (a) The Commission 
 
 “(b) The Commission shall have power to appoint and fix the compensation of such additional personnel as may be necessary to carry out its duties, without regard to the provisions of the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees\].
 
-“(c) The Commission may also procure, without regard to the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title5\], temporary and intermittent services to the same extent as is authorized for the executive departments by section 15 of the Administrative Expenses Act of 1946 \[see section 3109 of Title 5\], but at rates not to exceed $100 per diem for individuals.
+“(c) The Commission may also procure, without regard to the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5\], temporary and intermittent services to the same extent as is authorized for the executive departments by section 15 of the Administrative Expenses Act of 1946 \[see section 3109 of Title 5\], but at rates not to exceed $100 per diem for individuals.
 
 “(d) The members of the Commission specified in paragraph (1) of section 2(a) shall provide the Commission, on a reimbursable basis, with such facilities and services under their jurisdiction and control as may be needed by the Commission to carry out its duties, to the extent that such facilities and services are requested by the Commission and are otherwise available for that purpose. To the extent of available appropriations, the Commission may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties. Upon the termination of the Commission all property, personal and real, and unexpended funds shall be transferred to the Department of the Interior.
 
@@ -466,7 +574,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”;thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at MolassesReef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 

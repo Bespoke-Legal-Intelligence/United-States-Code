@@ -40,7 +40,7 @@ In determining the amount of a grant to a weed management entity, the Secretary 
 
 Projects funded by grants under this section include the following:
 
-&emsp;(1) Education, inventories and mapping, management, monitoring, methods development, and other capacity building activities, including the payment of the cost of personneland equipment that promote control or eradication of noxious weeds.
+&emsp;(1) Education, inventories and mapping, management, monitoring, methods development, and other capacity building activities, including the payment of the cost of personnel and equipment that promote control or eradication of noxious weeds.
 
 &emsp;(2) Other activities to control or eradicate noxious weeds or promote control or eradication of noxious weeds.
 

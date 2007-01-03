@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of NIH shall establish a program for the conduct and support of research and training with respect to Parkinson's disease (subject to the extent of amounts appropriated under subsection (e) of this section).
+The Director of NIH shall establish a program for the conduct and support of research and training with respect to Parkinson's disease (subject to the extent of amounts appropriated to carry out this section).
 
 #### (b) Inter-institute coordination
 
@@ -18,7 +18,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (1) In general
 
-&emsp;The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary researchand provide training concerning Parkinson's disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson's Disease.
+&emsp;The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson's Disease.
 
 #### (2) Requirements
 
@@ -58,17 +58,23 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 The Director of NIH is authorized to establish a grant program to support investigators with a proven record of excellence and innovation in Parkinson's disease research and who demonstrate potential for significant future breakthroughs in the understanding of the pathogensis,<sup>1</sup> diagnosis, and treatment of Parkinson's disease. Grants under this subsection shall be available for a period of not to exceed 5 years.
 
-#### (e) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §409B, as added Pub. L. 105–78, title VI, §603(c), Nov. 13, 1997, 111 Stat. 1520; amended Pub. L. 109–482, title I, §103(b)(8), Jan. 15, 2007, 120 Stat. 3687.)
 
-For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §409B, as added Pub. L. 105–78, title VI, §603(c), Nov. 13, 1997, 111 Stat. 1520.)
+2007—Subsec. (a). Pub. L. 109–482, §103(b)(8)(A), substituted “to carry out this section” for “under subsection (e) of this section”.
+
+Subsec. (e). Pub. L. 109–482, §103(b)(8)(B), struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000.”
 
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Additional Grants
 

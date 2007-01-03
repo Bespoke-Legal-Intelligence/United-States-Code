@@ -18,7 +18,7 @@ A prior section 1135a, Pub. L. 89–329, title X, §1002, as added Pub. L. 96–
 
 Another prior section 1135a, Pub. L. 89–329, title X, §1011, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 313; amended Pub. L. 94–482, title I, §176(b)(2), Oct. 12, 1976, 90 Stat. 2165; Pub. L. 96–49, §53(b), Aug. 13, 1979, 93 Stat. 354, authorized appropriations for a program of establishment and expansion of community colleges, prior to repeal by section 1001(a) of Pub. L. 96–374.
 
-Another prior section 1135a, Pub. L. 89–329, title X, §1002, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1047, authorized appropriations, provided for types of programs, and prescribed limitations respecting improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
+Another prior section 1135a, Pub. L. 89–329, title X, §1002, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968,82 Stat. 1047, authorized appropriations, provided for types of programs, and prescribed limitations respecting improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
 
 A prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

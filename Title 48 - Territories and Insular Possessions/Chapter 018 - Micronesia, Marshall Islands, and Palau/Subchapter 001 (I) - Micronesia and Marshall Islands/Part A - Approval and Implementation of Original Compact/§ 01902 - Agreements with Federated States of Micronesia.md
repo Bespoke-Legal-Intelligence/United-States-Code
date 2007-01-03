@@ -8,7 +8,7 @@
 
 #### (A) Mutual assistance in law enforcement
 
-&emsp;&emsp;The law enforcement agencies of the United States and the Federated States of Micronesia shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement ofthe laws of the United States and the Federated States of Micronesia specified in subparagraph (C) of this paragraph. The United States and the Federated States of Micronesia will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Federated States of Micronesia. In conducting activities authorized in accordance with this section, the United States and the Federated States of Micronesia will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
+&emsp;&emsp;The law enforcement agencies of the United States and the Federated States of Micronesia shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Federated States of Micronesia specified in subparagraph (C) of this paragraph. The United States and the Federated States of Micronesia will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Federated States of Micronesia. In conducting activities authorized in accordance with this section, the United States and the Federated States of Micronesia will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
 
 #### (B) Narcotics and control of illegal substances
 
@@ -112,7 +112,7 @@ Section was formerly set out as a note under section 1681 of this title.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a)(4) and (c)(4) of this section are listed as the 12th and last items on page 37), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a)(4) and (c)(4) of this section are listed as the 12th and last items on page 37), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

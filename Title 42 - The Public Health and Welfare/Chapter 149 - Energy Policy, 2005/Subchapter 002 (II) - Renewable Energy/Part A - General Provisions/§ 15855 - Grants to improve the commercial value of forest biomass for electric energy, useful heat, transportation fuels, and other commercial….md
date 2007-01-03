@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;(A) any Indian tribe;
 
-&emsp;&emsp;(B) any town, township, municipality, or other similar unit of local government (asdetermined by the Secretary concerned) that—
+&emsp;&emsp;(B) any town, township, municipality, or other similar unit of local government (as determined by the Secretary concerned) that—
 
 &emsp;&emsp;&emsp;(i) has a population of not more than 50,000 individuals; and
 
@@ -98,7 +98,7 @@ In this section:
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated $50,000,000 for each of the fiscal years 2006 through 2016 to carry out this section.
+There are authorized to be appropriated $50,000,000 for fiscal year 2006 and $35,000,000 for each of fiscal years 2007 through 2016 to carry out this section.
 
 #### (e) Report
 
@@ -110,5 +110,9 @@ Not later than October 1, 2010, the Secretary of Agriculture, in consultation wi
 
 &emsp;(3) The economic impacts, particularly new job creation, resulting from the grants to and operation of the eligible operations.
 
-(Pub. L. 109–58, title II, §210, Aug. 8, 2005, 119 Stat. 658.)
+(Pub. L. 109–58, title II, §210, Aug. 8, 2005, 119 Stat. 658; Pub. L. 109–375, §6, Dec. 1, 2006, 120 Stat. 2658.)
+
+#### Amendments
+
+2006—Subsec. (d). Pub. L. 109–375 substituted “$50,000,000 for fiscal year 2006 and $35,000,000 for each of fiscal years 2007 through 2016” for “$50,000,000 for each of the fiscal years 2006 through 2016”.
 

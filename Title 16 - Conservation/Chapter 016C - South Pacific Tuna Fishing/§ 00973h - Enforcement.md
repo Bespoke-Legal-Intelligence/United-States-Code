@@ -16,7 +16,7 @@ The provisions of this chapter shall be enforced by the Secretary in cooperation
 
 #### (c) Notice requirements to Pacific Island Party concerning institution and outcome of legal proceedings
 
-(1) Prior to instituting any legal proceedings under this chapter for any action which involvesan alleged infringement of the Treaty in waters within the jurisdiction of a Pacific Island Party, the Secretary, through the Secretary of State, shall notify the Pacific Island Party in accordance with paragraph 8 of Article 4 of the Treaty that the proceedings will be instituted. Such notice shall include a statement of the facts believed to show an infringement of the Treaty and the nature of the proposed proceedings, including any proposed charges and any proposed penalties. The Secretary shall not institute such proceedings if the Pacific Island Party objects within 30 days after the effective date of the notice under Article 10 of the Treaty.
+(1) Prior to instituting any legal proceedings under this chapter for any action which involves an alleged infringement of the Treaty in waters within the jurisdiction of a Pacific Island Party, the Secretary, through the Secretary of State, shall notify the Pacific Island Party in accordance with paragraph 8 of Article 4 of the Treaty that the proceedings will be instituted. Such notice shall include a statement of the facts believed to show an infringement of the Treaty and the nature of the proposed proceedings, including any proposed charges and any proposed penalties. The Secretary shall not institute such proceedings if the Pacific Island Party objects within 30 days after the effective date of the notice under Article 10 of the Treaty.
 
 (2) The Pacific Island Party exercising jurisdiction over the waters involved in such a legal proceeding shall be promptly notified by the Secretary, through the Secretary of State, concerning the outcome of the proceeding.
 
@@ -30,7 +30,7 @@ The provisions of this chapter shall be enforced by the Secretary in cooperation
 
 &emsp;&emsp;(ii) board, and search or inspect, any fishing vessel which is subject to the provisions of this chapter; or
 
-&emsp;&emsp;(iii) seize samples of fish or items for evidence (other than the vessel or its fishing gear or equipment) related to any violation of any provision of this chapter;
+&emsp;&emsp;(iii) seize samples of fish or items for evidence (other than the vessel or its fishinggear or equipment) related to any violation of any provision of this chapter;
 
 &emsp;&emsp;(iv) order a vessel into the most convenient port of the United States for investigation when an investigation has been requested by a Pacific Island Party in accordance with the Treaty and when such an order is necessary to gather information for such an investigation;
 

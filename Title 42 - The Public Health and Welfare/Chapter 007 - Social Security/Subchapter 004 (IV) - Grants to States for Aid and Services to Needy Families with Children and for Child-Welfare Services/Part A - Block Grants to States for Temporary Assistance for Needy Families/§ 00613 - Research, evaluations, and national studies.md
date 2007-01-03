@@ -64,7 +64,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shall prepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
+&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shallprepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
 
 &emsp;&emsp;(A) Individuals who were children in families that have become ineligible for assistance under a State program funded under this part by reason of having reached a time limit on the provision of such assistance.
 
@@ -132,7 +132,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (2) Submission of corrective action plan
 
-&emsp;Not later than 90 days after the date a State submits a statement under paragraph (1)which indicates that, as a result of the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, the child poverty rate of the State has increased by 5 percent or more since the most recent prior statement under paragraph (1), the State shall prepare and submit to the Secretary a corrective action plan in accordance with paragraph (3).
+&emsp;Not later than 90 days after the date a State submits a statement under paragraph (1) which indicates that, as a result of the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, the child poverty rate of the State has increased by 5 percent or more since the most recent prior statement under paragraph (1), the State shall prepare and submit to the Secretary a corrective action plan in accordance with paragraph (3).
 
 #### (3) Contents of plan
 
@@ -144,7 +144,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (5) Methodology
 
-&emsp;The Secretary shall prescribe regulations establishing the methodology by which a State shall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of food stamp households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
+&emsp;The Secretary shall prescribe regulations establishing the methodology by which a Stateshall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of food stamp households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
 
 #### (j) Evaluation of welfare-to-work programs
 
@@ -216,7 +216,7 @@ Absolute out-of-wedlock ratios.—The ratio represented by—
 
 &emsp;“(ii)
 
-Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the mostrecent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year.”
+Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the most recent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year.”
 
 Subsec. (h)(1)(D). Pub. L. 105–33, §5509(c), substituted “August 22, 1996” for “September 30, 1995”.
 
@@ -238,7 +238,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective Aug. 22, 1996, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective Aug. 22, 1996, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Coordination of Substance Abuse and Child Protection Services
 

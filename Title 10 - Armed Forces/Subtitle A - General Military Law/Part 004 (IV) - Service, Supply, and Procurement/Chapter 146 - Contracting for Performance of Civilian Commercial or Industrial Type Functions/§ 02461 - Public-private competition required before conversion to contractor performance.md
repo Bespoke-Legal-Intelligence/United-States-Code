@@ -48,7 +48,7 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 &emsp;(D) The anticipated length and cost of the public-private competition, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the public-private competition.
 
-&emsp;(E) A certification that a proposed performance of the function by a contractor is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, endstrengths, full-time equivalent positions, or maximum number of employees.
+&emsp;(E) A certification that a proposed performance of the function by a contractor is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
 
 (2) The report required under paragraph (1) shall include an examination the potential economic effect of performance of the function by a contractor on—
 
@@ -76,7 +76,7 @@ Exemption for the Purchase of Products and Services of the Blind and Other Sever
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat.1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200.)
 
 #### Historical and Revision Notes
 
@@ -168,7 +168,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Inapplicability of Subsection (a)(1)(E) to Best-Value Source Selection Pilot Program
 
-Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, provided that: “Subsection (a)(1)(E) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note).”
+Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, provided that: “Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note).”
 
 #### Performance of Certain Work by Federal Government Employees
 
@@ -250,7 +250,7 @@ Termination of Pilot Program.—The pilot program shall terminate on September 3
 
 #### Limitations on Conversion of Work Performed by Department of Defense Civilian Employees to Contractor Performance
 
-Pub. L. 108–375, div. A, title III, §327, Oct. 28, 2004, 118 Stat. 1849, which generally required the Secretary of Defense to maintain the continued performance of certain activities and functions by civilian employees unless the competitive sourcing official determined that the cost of performance of the activity or function by a contractor would be less costly by an amount that equaled or exceeded the lesser of $10,000,000 or 10 percent of the most efficient organization's personnel-related costs for performance of the activity or function by civilian employees, was repealed by Pub. L. 109–163, div. A, title III, §341(g)(3), Jan. 6, 2006, 119 Stat. 3200.
+Pub. L. 108–375, div. A, title III, §327, Oct. 28, 2004, 118 Stat. 1849, which generally required the Secretary of Defense to maintain the continued performance of certain activities and functions by civilian employees unless the competitive sourcing official determined that the cost of performance of the activity or function by a contractor would be less costly by an amount that equaled or exceeded the lesser of $10,000,000 or 10 percent of the most efficient organization's personnel-related costs for performance of the activity or functionby civilian employees, was repealed by Pub. L. 109–163, div. A, title III, §341(g)(3), Jan. 6, 2006, 119 Stat. 3200.
 
 #### Delayed Implementation of Revised Office of Management and Budget Circular A–76 By Department of Defense
 
@@ -316,85 +316,15 @@ Information Technology Service Defined.—In this section, the term ‘informati
 
 #### Pilot Manpower Reporting System in Department of the Army
 
-Pub. L. 107–107, div. A, title III, §345(a)–(c), Dec. 28, 2001, 115 Stat. 1061, 1062, provided that:
-
-“(a)
-
-Annual Reporting Requirement.—Not later than March 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army shall submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
-
-“(b)
-
-Content of Report.—Using information available from existing data collection and reporting systems available to the Department of the Army and the non-Federal entities referred to in subsection (a), the report shall—
-
-&emsp;“(1) specify the number of work year equivalents performed by individuals employed by non-Federal entities in providing services to the Department;
-
-&emsp;“(2) categorize the information by Federal supply class or service code; and
-
-&emsp;“(3) indicate the appropriation from which the services were funded and the major organizational element of the Department procuring the services.
-
-“(c)
-
-Limitation on Requirement for Non-Federal Entities To Provide Information.—For the purposes of meeting the requirements set forth in subsection (b), the Secretary of the Army may not require the provision of information beyond the information that is currently provided to the Department of the Army by the non-Federal entities referred to in subsection (a), except for the number of work year equivalents associated with Department of the Army contracts, identified by contract number, to the extent this information is available to the contractor from existing data collection systems.”
+Pub. L. 107–107, div. A, title III, §345(a)–(c), Dec. 28, 2001, 115 Stat. 1061, 1062, provided that, not later than Mar. 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army was to submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
 
 #### Pilot Program for Commercial Services
 
-Pub. L. 106–65, div. A, title VIII, §814, Oct. 5, 1999, 113 Stat. 711, provided that:
-
-“(a)
-
-Program Authorized.—The Secretary of Defense may carry out a pilot program to treat procurements of commercial services as procurements of commercial items.
-
-“(b)
-
-Designation of Pilot Program Categories.—The Secretary of Defense may designate the following categories of services as commercial services covered by the pilot program:
-
-&emsp;“(1) Utilities and housekeeping services.
-
-&emsp;“(2) Education and training services.
-
-&emsp;“(3) Medical services.
-
-“(c)
-
-Treatment as Commercial Items.—A Department of Defense contract for the procurement of commercial services designated by the Secretary for the pilot program shall be treated as a contract for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)), if the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government.
-
-“(d)
-
-Guidance.—Not later than 90 days after the date of the enactment of this Act \[Oct. 5, 1999\], the Secretary shall issue guidance to procurement officials on contracting for commercial services under the pilot program. The guidance shall place particular emphasis on ensuring that negotiated prices for designated services, including prices negotiated without competition, are fair and reasonable.
-
-“(e)
-
-Unified Management of Procurements.—The Secretary of Defense shall develop and implement procedures to ensure that, whenever appropriate, a single item manager or contracting officer is responsible for entering into all contracts from a single contractor for commercial services under the pilot program.
-
-“(f)
-
-Duration of Pilot Program.—(1) The pilot program shall begin on the date that the Secretary issues the guidance required by subsection (d) and may continue for a period, not in excess of five years, that the Secretary shall establish.
-
-“(2) The pilot program shall cover Department of Defense contracts for the procurement of commercial services designated by the Secretary under subsection (b) that are awarded or modified during the period of the pilot program, regardless of whether the contracts are performed during the period.
-
-“(g)
-
-Report to Congress.—(1) The Secretary shall submit to Congress a report on the impact of the pilot program on—
-
-&emsp;“(A) prices paid by the Federal Government under contracts for commercial services covered by the pilot program;
-
-&emsp;“(B) the quality and timeliness of the services provided under such contracts; and
-
-&emsp;“(C) the extent of competition for such contracts.
-
-“(2) The Secretary shall submit the report—
-
-&emsp;“(A) not later than 90 days after the end of the third full fiscal year for which the pilot program is in effect; or
-
-&emsp;“(B) if the period established for the pilot program under subsection (f)(1) does not cover three full fiscal years, not later than 90 days after the end of the designated period.
-
-“(h)
-
-Price Trend Analysis.—The Secretary of Defense shall apply the procedures developed pursuant to section 803(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2081; 10 U.S.C. 2306a note) to collect and analyze information on price trends for all services covered by the pilot program and for the services in such categories of services not covered by the pilot program to which the Secretary considers it appropriate to apply those procedures.”
+Pub. L. 106–65, div. A, title VIII, §814, Oct. 5, 1999, 113 Stat. 711, authorized the Secretary of Defense to carry out a pilot program to treat procurements of commercial services as procurements of commercial items, required the Secretary to issue guidance to procurement officials not later than 90 days after Oct. 5, 1999, and provided that the pilot program was to begin on the date that the Secretary issued the guidance and that it could continue for a period, not in excess of five years.
 
 #### Public Availability of Operating Agreements Between Military Installations and Financial Institutions
 
-Pub. L. 105–261, div. A, title III, §379, Oct. 17, 1998, 112 Stat. 1995, provided that: “With respect to an agreement between the commander of a military installation in the United States (or the designee of such an installation commander) and a financial institution that permits, allows, or otherwise authorizes the provision of financial services by the financial institution on the military installation, nothing in the terms or nature of such an agreement shall be construed to exempt the agreement from the provisions of sections 552 and 552a of title 5, United States Code.”
+Pub. L. 105–261, div. A, title III, §379, Oct. 17, 1998, 112 Stat. 1995, provided that: “With respect to an agreement between the commander of a military installation in the United States (or the designee of such an installation commander) and a financial institution that permits, allows, or otherwise authorizes the provision of financial services by the financial institution on the military installation, nothing in the terms or nature of such an agreement shall be construed to exempt theagreement from the provisions of sections 552 and 552a of title 5, United States Code.”
 
 #### Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations
 
@@ -472,7 +402,7 @@ Section 353(b) of Pub. L. 104–106 provided that:
 
 &emsp;“(B) The methodology, duration, and anticipated costs of the program, including the cost of an arrangement pursuant to which a private-sector source would receive an agreed-upon payment plus an additional negotiated amount not to exceed 50 percent of the dollar savings achieved in excess of the goal specified in paragraph (4).
 
-&emsp;“(C) A specific citation to any provisions of law, rule, or regulation that, if not waived, would prohibitthe conduct of the program or any part of the program.
+&emsp;“(C) A specific citation to any provisions of law, rule, or regulation that, if not waived, would prohibit the conduct of the program or any part of the program.
 
 &emsp;“(D) A mechanism to evaluate the program.
 
@@ -482,15 +412,7 @@ Section 353(b) of Pub. L. 104–106 provided that:
 
 #### Demonstration Program To Identify Overpayments Made to Vendors
 
-Section 388(c) of Pub. L. 105–85 provided that: “Not later than December 31, 1998, the Comptroller General shall submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under section 354 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 2461 note). In the review, the Comptroller General shall—
-
-&emsp;“(1) assess the success of the methods used in the demonstration program to identify overpayments made to vendors;
-
-&emsp;“(2) consider the types of overpayments identified and the feasibility of avoiding such overpayments through contract adjustments;
-
-&emsp;“(3) determine the total amount of overpayments recovered under the demonstration program; and
-
-&emsp;“(4) develop recommendations for improving the process by which overpayments are recovered by the Department of Defense.”
+Pub. L. 105–85, div. A, title III, §388(c), Nov. 18, 1997, 111 Stat. 1714, provided that, not later than Dec. 31, 1998, the Comptroller General was to submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under section 354 of Pub. L. 104–106, set out below.
 
 Section 354 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title III, §388(a), (b), Nov. 18, 1997, 111 Stat. 1713, 1714, provided that:
 
@@ -556,7 +478,7 @@ Conduct of Tests.—(1) The Secretary shall conduct a test at an installation re
 
 &emsp;“(B) provides for the performance by employees of the Department of only those travel functions, such as travel authorization, that the Secretary considers to be necessary to be performed by such employees.
 
-“(3) Each test required by this subsection shall begin not later than 60 days after the date of the enactment of this Act \[Feb. 10, 1996\] and end two years after the date on which it began. Each such test shall also be conducted in accordance with the guidelines for travelmanagement issued for the Department by the Under Secretary of Defense (Comptroller).
+“(3) Each test required by this subsection shall begin not later than 60 days after the date of the enactment of this Act \[Feb. 10, 1996\] and end two years after the date on which it began. Each such test shall also be conducted in accordance with the guidelines for travel management issued for the Department by the Under Secretary of Defense (Comptroller).
 
 “(c)
 

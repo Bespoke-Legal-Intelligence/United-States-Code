@@ -6,7 +6,7 @@ In this subchapter the definitions and grant conditions in section 13925 of this
 
 #### Codification
 
-Another section 2008 of Pub. L. 90–351 is classified to section 3796gg–11 of this title.
+Another section 2008 of Pub. L. 90–351 was renumbered section 2016 and is classified to section 3796gg–11 of this title.
 
 #### Prior Provisions
 

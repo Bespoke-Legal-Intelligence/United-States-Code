@@ -12,7 +12,7 @@ As private industry reasonably demonstrates its capability under subsection (a) 
 
 #### (1) Initiation
 
-&emsp;The Secretary shall initiate a program to increase the use of private-industry hopper dredges for the construction and maintenance of Federal navigation channels.
+&emsp;The Secretary shall initiate a program to increase the use of private-industry hopperdredges for the construction and maintenance of Federal navigation channels.
 
 #### (2) Ready reserve status for hopper dredge Wheeler
 
@@ -20,7 +20,7 @@ As private industry reasonably demonstrates its capability under subsection (a) 
 
 #### (3) Testing and use of ready reserve hopper dredge
 
-&emsp;The Secretary may periodically perform routine tests of the equipment of the vessel placed in a ready reserve status under paragraph (2) to ensure the vessel's ability to perform emergency work. The Secretary shall notassign any scheduled hopper dredging work to such vessel but shall perform any repairs needed to maintain the vessel in a fully operational condition. The Secretary may place the vessel in active status in order to perform any dredging work only if the Secretary determines that private industry has failed to submit a responsive and responsible bid for work advertised by the Secretary or to carry out the project as required pursuant to a contract with the Secretary.
+&emsp;The Secretary may periodically perform routine tests of the equipment of the vessel placed in a ready reserve status under paragraph (2) to ensure the vessel's ability to perform emergency work. The Secretary shall not assign any scheduled hopper dredging work to such vessel but shall perform any repairs needed to maintain the vessel in a fully operational condition. The Secretary may place the vessel in active status in order to perform any dredging work only if the Secretary determines that private industry has failed to submit a responsive and responsible bid for work advertised by the Secretary or to carry out the project as required pursuant to a contract with the Secretary.
 
 #### (4) Repair and rehabilitation
 
@@ -70,7 +70,7 @@ The first sentence was from a part of section 3 of Act of Aug. 11, 1888, the Riv
 
 The second sentence, which provided that all improvement works authorized by contract may, in the discretion of the Secretary of War \[now Army\], be carried on by contract or otherwise, as may be most economical or advantageous to the United States, was from section 1 of the Act of July 25, 1912, the Rivers and Harbors Appropriation Act of 1912. Previous similar provisions were contained in Acts Mar. 2, 1907, ch. 2509, §1, 34 Stat. 1110; Feb. 27, 1911, ch. 166, §1, 36 Stat. 952.
 
-The third sentence, which provided that in all cases where the project for a work of river or harbor improvement provides for the construction or use of Government dredging plant, the Secretary of War \[now Army\] may, in his discretion, have the work done by contract if reasonable prices can be obtained, was from section 3 of the Act of Mar. 2, 1919, the Rivers and Harbors Appropriation Act of 1919, which superseded a somewhat similar provision in section 3 of the Act of Aug. 8, 1917, ch. 49, 40 Stat. 261. Section 1 of the 1917 Act, 40 Stat. 255, provided in part that “the work proposed under the project adopted by the river and harbor Act approved July twenty-fifth, nineteen hundred and twelve, may be done by contract if reasonable prices can be obtained”.
+The third sentence, which provided that in all cases where the project for a work of river or harbor improvement provides for the construction or use of Government dredging plant, the Secretary of War \[now Army\] may, in his discretion, have the work done by contract if reasonable prices can be obtained, was from section 3 of the Act of Mar. 2, 1919, the Rivers and Harbors Appropriation Act of 1919, which superseded a somewhat similar provision in section 3 of the Act of Aug. 8, 1917, ch. 49, 40 Stat. 261. Section 1 of the 1917 Act, 40 Stat. 255, provided in part that “the work proposed under the project adopted by the river and harbor Act approved July twenty-fifth, nineteen hundred andtwelve, may be done by contract if reasonable prices can be obtained”.
 
 #### Amendments
 

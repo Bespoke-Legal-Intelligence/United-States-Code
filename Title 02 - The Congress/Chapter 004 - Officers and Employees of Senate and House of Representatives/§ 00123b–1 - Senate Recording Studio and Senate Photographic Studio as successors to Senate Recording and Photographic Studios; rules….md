@@ -10,7 +10,7 @@
 
 #### Codification
 
-Words “prior to April 1, 1991”, referred to in subsec. (a), were in the original “prior to this amendment”which was translated as meaning prior to the effective date of section 7(d) of Pub. L. 101–520, which amended subsec. (a) generally, to reflect the probable intent of Congress.
+Words “prior to April 1, 1991”, referred to in subsec. (a), were in the original “prior to this amendment” which was translated as meaning prior to the effective date of section 7(d) of Pub. L. 101–520, which amended subsec. (a) generally, to reflect the probable intent of Congress.
 
 Subsec. (b)(2), which authorized the Sergeant at Arms and Doorkeeper of the Senate to appoint and fix the compensation of not more than 15 employees to carry out the functions of the Photographic Studio and provided that the Secretary of the Senate make payments of compensation, etc., of such personnel from certain funds appropriated for the Senate, was omitted in view of section 61f–7 of this title which abolished all statutory positions in the Office of the Sergeant at Arms and Doorkeeper of the Senate, with specified exceptions, effective Oct. 1, 1981, and authorized the Sergeant at Arms and Doorkeeper of the Senate to appoint and fix the compensation of such employees as appropriate.
 

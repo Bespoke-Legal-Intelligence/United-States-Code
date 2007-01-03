@@ -3,15 +3,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [1151\.](%C2%A7%2001151%20-%20Open%20World%20Leadership%20Center.md) | Open World Leadership Center. |
-| (a) | Establishment. |
-| (b) | Purpose and authority of the Center. |
-| (c) | Establishment of Fund. |
-| (d) | Executive Director. |
-| (e) | Administrative provisions. |
-| (f) | Authorization of appropriations. |
-| (g) | Transfer of funds. |
-| (h) | Effective dates. |
-| (j) | Eligible foreign state defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

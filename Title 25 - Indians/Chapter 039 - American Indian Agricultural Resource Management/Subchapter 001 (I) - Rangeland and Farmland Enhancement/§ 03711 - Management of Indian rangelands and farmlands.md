@@ -2,7 +2,7 @@
 
 #### (a) Management objectives
 
-Consistent with the provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
+Consistent with the provisions of the Indian Self-Determination and Education AssistanceAct \[25 U.S.C. 450 et seq.\], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
 
 &emsp;(1) To protect, conserve, utilize, and maintain the highest productive potential on Indian agricultural lands through the application of sound conservation practices and techniques. These practices and techniques shall be applied to planning, development, inventorying, classification, and management of agricultural resources.
 
@@ -22,7 +22,7 @@ Consistent with the provisions of the Indian Self-Determination and Education As
 
 &emsp;(A) Pursuant to a self-determination contract or self-governance compact, an Indian tribe may develop or implement an Indian agriculture resource plan. Subject to the provisions of subparagraph (C), the tribe shall have broad discretion in designing and carrying out the planning process.
 
-&emsp;(B) If a tribe chooses not to contract the development or implementation of the plan, theSecretary shall develop or implement, as appropriate, the plan in close consultation with the affected tribe.
+&emsp;(B) If a tribe chooses not to contract the development or implementation of the plan, the Secretary shall develop or implement, as appropriate, the plan in close consultation with the affected tribe.
 
 &emsp;(C) Whether developed directly by the tribe or by the Secretary, the plan shall—
 

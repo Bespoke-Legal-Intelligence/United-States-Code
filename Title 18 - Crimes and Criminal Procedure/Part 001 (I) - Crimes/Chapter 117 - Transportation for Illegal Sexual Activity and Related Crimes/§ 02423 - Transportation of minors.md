@@ -2,7 +2,7 @@
 
 (a)
 
-Transportation With Intent To Engage in Criminal Sexual Activity.—A person who knowingly transports an individual who has not attained the age of 18 years in interstate or foreign commerce, or in any commonwealth, territory or possession of the United States, with intent that the individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title and imprisoned not less than 5 years and not more than 30 years.
+Transportation With Intent To Engage in Criminal Sexual Activity.—A person who knowingly transports an individual who has not attained the age of 18 years in interstate or foreign commerce, or in any commonwealth, territory or possession of the United States, with intent that the individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title and imprisoned not less than 10 years or for life.
 
 (b)
 
@@ -28,7 +28,7 @@ Definition.—As used in this section, the term “illicit sexual conduct” mea
 
 Defense.—In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613.)
 
 #### Historical and Revision Notes
 
@@ -44,6 +44,8 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–248 substituted “10 years or for life” for “5 years and not more than 30 years”.
+
 2003—Subsec. (a). Pub. L. 108–21, §105(b), struck out “or attempts to do so,” before “shall be fined”.
 
 Pub. L. 108–21, §103(a)(2)(C), (b)(2)(B), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
@@ -52,7 +54,7 @@ Subsec. (b) to (g). Pub. L. 108–21, §105(a), added subsecs. (b) to (g) and st
 
 “(b)
 
-Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 15 years, or both.”
+Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the UnitedStates shall be fined under this title, imprisoned not more than 15 years, or both.”
 
 2002—Subsec. (b). Pub. L. 107–273 repealed Pub. L. 104–294, §601(b)(4). See 1996 Amendment note below.
 

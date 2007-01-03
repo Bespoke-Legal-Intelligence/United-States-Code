@@ -56,11 +56,11 @@
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
+&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by\(iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
 
 &emsp;(B) the amount required to be allocated to that institution under subsection (a) of this section,
 
-> except that an eligible institution which has a cohort default rate in excess of the applicablemaximum cohort default rate under subsection (f) of this section may not receive an allocation under this paragraph.
+> except that an eligible institution which has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) of this section may not receive an allocation under this paragraph.
 
 (3) For any eligible institution, the eligible amount of that institution is equal to—
 
@@ -126,7 +126,7 @@
 
 #### (d) Anticipated collections
 
-(1) An institution's anticipated collections are equal to the amount which was collected during the second year preceding the beginning of the award period, multiplied by 1.21.
+(1) An institution's anticipated collections are equal to the amount which was collected duringthe second year preceding the beginning of the award period, multiplied by 1.21.
 
 (2) The Secretary shall establish an appeals process by which the anticipated collections required in paragraph (1) may be waived for institutions with low cohort default rates in the program assisted under this part.
 
@@ -194,9 +194,9 @@
 
 (B) For any award year in which less than 30 of the institution's current and former students enter repayment, the term “cohort default rate” means the percentage of such current and former students who entered repayment on such loans in any of the three most recent award years and who default before the end of the award year immediately following the year in which they entered repayment.
 
-(C) A loan on which a payment is made by the institution of higher education, its owner, agency, contractor, employee, or any other entity or individual affiliated with such institution, in order to avoid default by the borrower, is considered as in default for the purposes of this subsection.
+(C) A loan on which a payment is made by the institution of higher education, its owner, agency, contractor, employee, or any other entity or individual affiliated with such institution, inorder to avoid default by the borrower, is considered as in default for the purposes of this subsection.
 
-(D) In the case of a student who has attended and borrowed at more than one school, the student (and his or her subsequent repayment ordefault) is attributed to the school for attendance at which the student received the loan that entered repayment in the award year.
+(D) In the case of a student who has attended and borrowed at more than one school, the student (and his or her subsequent repayment or default) is attributed to the school for attendance at which the student received the loan that entered repayment in the award year.
 
 (E) In determining the number of students who default before the end of such award year, the institution, in calculating the cohort default rate, shall exclude—
 

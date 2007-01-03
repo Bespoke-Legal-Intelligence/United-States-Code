@@ -1,6 +1,6 @@
 ### §1396. Internal revenue taxes
 
-Any civil action for the collection of internal revenue taxes may be brought in the districtwhere the liability for such tax accrues, in the district of the taxpayer's residence, or in the district where the return was filed.
+Any civil action for the collection of internal revenue taxes may be brought in the district where the liability for such tax accrues, in the district of the taxpayer's residence, or in the district where the return was filed.
 
 (June 25, 1948, ch. 646, 62 Stat. 936.)
 

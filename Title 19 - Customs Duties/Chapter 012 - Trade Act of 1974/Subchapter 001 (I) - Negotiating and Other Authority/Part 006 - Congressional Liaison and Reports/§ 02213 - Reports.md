@@ -46,7 +46,7 @@
 
 (C) Before submitting the national trade policy agenda for any year, the President shall seek advice from the appropriate advisory committees established under section 2155 of this title and shall consult with the appropriate committees of the Congress.
 
-(D) The United States Trade Representative (hereafter referred to in this section as the“Trade Representative”) and other appropriate officials of the United States Government shall consult periodically with the appropriate committees of the Congress regarding the annual objectives and priorities set forth in each national trade policy agenda with respect to—
+(D) The United States Trade Representative (hereafter referred to in this section as the “Trade Representative”) and other appropriate officials of the United States Government shall consult periodically with the appropriate committees of the Congress regarding the annual objectives and priorities set forth in each national trade policy agenda with respect to—
 
 &emsp;(i) the status and results of the actions that have been undertaken to achieve the objectives and priorities; and
 
@@ -264,7 +264,7 @@ Issues to be addressed.—The Commission shall examine and report to the Preside
 
 &emsp;&emsp;&emsp;“(v) any effect that international trade, labor, environmental, or other agreements may have on United States competitiveness.
 
-&emsp;&emsp;“(F) The extent to which differences in the growth rates of the United States and its tradingpartners may impact on United States merchandise trade and current account deficits.
+&emsp;&emsp;“(F) The extent to which differences in the growth rates of the United States and its trading partners may impact on United States merchandise trade and current account deficits.
 
 &emsp;&emsp;“(G) The impact that currency exchange rate fluctuations and any manipulation of exchange rates may have on United States merchandise trade and current account deficits.
 

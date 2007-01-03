@@ -80,7 +80,7 @@ Pub. L. 100–71 provided that the amendment made by Pub. L. 100–71 is effecti
 
 #### Effective Date
 
-Section 104(c) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), as incorporated by reference in section 101(j) of Pub. L. 99–500 and 99–591, as amended by Pub. L. 100–71, to be effective as if enacted into law, provided that: “This section and the amendment made by this section \[enacting section 117e of this title and amending section 84b of this title\] shall take effect on October 1, 1986.”
+Section 104(c) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), as incorporated by reference in section 101(j) of Pub. L. 99–500 and 99–591, as amended by Pub. L. 100–71, to be effective as if enacted into law, provided that: “This section andthe amendment made by this section \[enacting section 117e of this title and amending section 84b of this title\] shall take effect on October 1, 1986.”
 
 #### Similar Provisions
 

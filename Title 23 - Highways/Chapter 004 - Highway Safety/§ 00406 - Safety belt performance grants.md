@@ -48,7 +48,7 @@ Laws.—
 
 &emsp;(1)
 
-In general.—To the extent that amounts made available for grants under this section for any of fiscal years 2006 through 2009 exceed the total amount of grants to be awarded under subsection (b) for the fiscal year, including amounts to be awarded for catch-up grants under subsection (b)(5), the Secretary shall make a single grant to each State that enacted, has in effect, and is enforcing a conforming primary safety belt use law for allpassenger motor vehicles that was in effect before January 1, 2003.
+In general.—To the extent that amounts made available for grants under this section for any of fiscal years 2006 through 2009 exceed the total amount of grants to be awarded under subsection (b) for the fiscal year, including amounts to be awarded for catch-up grants under subsection (b)(5), the Secretary shall make a single grant to each State that enacted, has in effect, and is enforcing a conforming primary safety belt use law for all passenger motor vehicles that was in effect before January 1, 2003.
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ Additional grants.—The Secretary shall make additional grants under this secti
 
 &emsp;(2)
 
-Allocation.—The additional grants made under this subsection shall be allocated among all States that, as of that date, have enacted, have in effect, and are enforcing conforming primary safety belt laws for all passenger motor vehicles. The allocations shall be made in accordance with the formula for apportioning funds among the States under section 402(c).
+Allocation.—The additional grants made under this subsection shall be allocated among all States that, as of that date, have enacted, have in effect, and are enforcing conforming primary safety belt laws for all passengermotor vehicles. The allocations shall be made in accordance with the formula for apportioning funds among the States under section 402(c).
 
 (e)
 

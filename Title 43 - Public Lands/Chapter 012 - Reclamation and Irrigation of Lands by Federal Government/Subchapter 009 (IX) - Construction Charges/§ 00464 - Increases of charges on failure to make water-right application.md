@@ -4,3 +4,7 @@ In all cases where application for water right for lands in private ownership or
 
 (Aug. 13, 1914, ch. 247, §9, 38 Stat. 689.)
 
+#### References in Text
+
+The reclamation law, referred to in text, is defined in section 472 of this title.
+

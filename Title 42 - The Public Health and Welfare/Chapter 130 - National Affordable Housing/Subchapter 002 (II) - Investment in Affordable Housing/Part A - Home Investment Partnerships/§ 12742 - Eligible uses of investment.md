@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) the jurisdiction certifies that the use of funds under this part for tenant-based rental assistance is an essential element of the jurisdiction's annual housing strategy for expanding the supply, affordability, and availability of decent, safe, sanitary, and affordable housing, and specifies the local market conditions that lead to the choice of this option; and
 
-&emsp;&emsp;&emsp;(ii) the tenant-based rental assistance is provided in accordance with written tenant selection policies and criteria that are consistent with the purposes of providing housing to very low- and low-income families and are reasonably related to preference rules established under section 1437d(c)(4)(A) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;(ii) the tenant-based rental assistance is provided in accordance with written tenant selection policies and criteria that are consistent with the purposes of providinghousing to very low- and low-income families and are reasonably related to preference rules established under section 1437d(c)(4)(A) <sup>1</sup> of this title.
 
 #### (B) Fair share not affected
 
@@ -32,7 +32,7 @@
 
 #### (C) 24-month contracts
 
-&emsp;&emsp;Rental assistance contracts made available with assistance under this subchaptershall be for not more than 24 months, except that assistance to a family may be renewed.
+&emsp;&emsp;Rental assistance contracts made available with assistance under this subchapter shall be for not more than 24 months, except that assistance to a family may be renewed.
 
 #### (D) Use of section 1437f assistance
 
@@ -100,7 +100,7 @@ The requirements of section 3545(d) of this title shall be satisfied by a certif
 
 #### (g) Limitation on operating assistance
 
-A participating jurisdiction may not use more than 5 percent of its allocation under this partfor the payment of operating expenses for community housing development organizations.
+A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
 
 (Pub. L. 101–625, title II, §212, Nov. 28, 1990, 104 Stat. 4097; Pub. L. 102–550, title II, §§203(a), 204–207(b), (d), title X, §1012(e), Oct. 28, 1992, 106 Stat. 3752–3754, 3905; Pub. L. 105–276, title V, §522(b)(5), Oct. 21, 1998, 112 Stat. 2565.)
 

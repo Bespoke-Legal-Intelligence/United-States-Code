@@ -14,7 +14,7 @@ A person may not procure or cause to be prepared an investigative consumer repor
 
 #### (b) Disclosure on request of nature and scope of investigation
 
-Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1) of this section, make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from theconsumer or such report was first requested, whichever is the later.
+Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1) of this section, make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
 
 #### (c) Limitation on liability upon showing of reasonable procedures for compliance with provisions
 
@@ -32,7 +32,7 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 #### (3) Certain public record information
 
-&emsp;Except as otherwise provided in section 1681k of this title, a consumer reporting agency shall not furnish an investigative consumer report that includes information that is a matter of public record and that relates to an arrest, indictment, conviction, civil judicial action, tax lien, or outstanding judgment, unless the agency has verified the accuracy of the information during the 30-day period ending on the date on which the report is furnished.
+&emsp;Except as otherwise provided in section 1681k of this title, a consumer reporting agency shall not furnish an investigative consumerreport that includes information that is a matter of public record and that relates to an arrest, indictment, conviction, civil judicial action, tax lien, or outstanding judgment, unless the agency has verified the accuracy of the information during the 30-day period ending on the date on which the report is furnished.
 
 #### (4) Certain adverse information
 

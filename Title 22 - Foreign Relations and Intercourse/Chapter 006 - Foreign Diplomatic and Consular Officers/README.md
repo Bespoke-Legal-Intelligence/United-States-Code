@@ -10,9 +10,6 @@
 | 254c–2. | Repealed. |
 | [254d.](%C2%A7%2000254d%20-%20Dismissal%20on%20motion%20of%20action%20against%20individual%20entitled%20to%20immunity.md) | Dismissal on motion of action against individual entitled to immunity. |
 | [254e.](%C2%A7%2000254e%20-%20Liability%20insurance%20for%20members%20of%20mission.md) | Liability insurance for members of mission. |
-| (a) | Compliance with regulations. |
-| (b) | Establishment by regulation of liability insurance requirements. |
-| (c) | Enforcement of liability insurance requirements. |
 | 255 to 255b. Repealed or Omitted. |  |
 | [256\.](%C2%A7%2000256%20-%20Jurisdiction%20of%20consular%20officers%20in%20disputes%20between%20seamen.md) | Jurisdiction of consular officers in disputes between seamen. |
 | [257\.](%C2%A7%2000257%20-%20Arrest%20of%20seamen%3B%20procedure%20generally.md) | Arrest of seamen; procedure generally. |

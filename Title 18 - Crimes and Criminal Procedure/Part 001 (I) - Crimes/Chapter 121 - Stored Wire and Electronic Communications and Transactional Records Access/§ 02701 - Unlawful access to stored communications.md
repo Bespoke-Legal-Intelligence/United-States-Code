@@ -40,7 +40,7 @@ Exceptions.—Subsection (a) of this section does not apply with respect to cond
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–296, §225(j)(2)(A), in introductory provisions, inserted “, or in furtheranceof any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
+2002—Subsec. (b)(1). Pub. L. 107–296, §225(j)(2)(A), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
 
 Subsec. (b)(1)(A). Pub. L. 107–296, §225(j)(2)(B), substituted “5 years” for “one year”.
 
@@ -64,5 +64,5 @@ Section 202 of title II of Pub. L. 99–508 provided that: “This title and the
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–618, §1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Act \[enacting section 2710 of this title and renumbering former section 2710 as 2711 of this title\] may be cited as the ‘Video Privacy Protection Act of 1988’.”
+Pub. L. 100–618, §1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Act \[enacting section 2710 of this title and renumbering former section 2710 as 2711 of thistitle\] may be cited as the ‘Video Privacy Protection Act of 1988’.”
 

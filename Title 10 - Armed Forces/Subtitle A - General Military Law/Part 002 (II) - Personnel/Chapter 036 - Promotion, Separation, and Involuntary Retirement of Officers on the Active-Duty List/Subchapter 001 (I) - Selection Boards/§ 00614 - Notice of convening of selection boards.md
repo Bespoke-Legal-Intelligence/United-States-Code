@@ -16,7 +16,7 @@
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §505(c), Jan. 6, 2006, 119 Stat. 3227, provided that: “The amendments made by this section \[amending this section and section 14106 ofthis title\] shall take effect on March 1, 2006, and shall apply with respect to selection boards convened on or after that date.”
+Pub. L. 109–163, div. A, title V, §505(c), Jan. 6, 2006, 119 Stat. 3227, provided that: “The amendments made by this section \[amending this section and section 14106 of this title\] shall take effect on March 1, 2006, and shall apply with respect to selection boards convened on or after that date.”
 
 #### Effective Date of 1991 Amendment
 

@@ -22,7 +22,7 @@ Contract authority.—The Architect may enter into all necessary contracts to ca
 
 (b)
 
-Availability of Appropriations..<sup>1</sup> —Amounts appropriated under—
+Availability of Appropriations.—Amounts appropriated under—
 
 &emsp;(1) subsection (a) and sections 6112 and 6113 of this title are available for—
 
@@ -44,7 +44,7 @@ Availability of Appropriations..<sup>1</sup> —Amounts appropriated under—
 
 &emsp;&emsp;&emsp;(ii) for the replacement of electrical transformers containing polychlorinated biphenyls.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–284, §6(18), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -76,5 +76,7 @@ In subsection (b)(1), the words “In addition to the foregoing, any” and “h
 
 In subsection (b)(2), before subclause (A), the words “That for fiscal year 1990 and hereafter” are omitted as executed. In subclause (C), the words “chapter 51, subchapter III of chapter 53, and subchapter III of chapter 83, of title 5” are substituted for “the Classification and Retirement Acts, as amended” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
-<i><sup>1</sup></i><i> So in original. The second period probably should not appear.</i>
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–284 struck out second period at end of heading.
 

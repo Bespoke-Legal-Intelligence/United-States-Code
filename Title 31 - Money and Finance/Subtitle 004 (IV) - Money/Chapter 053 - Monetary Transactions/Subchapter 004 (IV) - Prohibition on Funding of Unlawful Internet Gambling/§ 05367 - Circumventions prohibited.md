@@ -1,0 +1,10 @@
+### §5367. Circumventions prohibited
+
+Notwithstanding section 5362(2), a financial transaction provider, or any interactive computer service or telecommunications service, may be liable under this subchapter if such person has actual knowledge and control of bets and wagers, and—
+
+&emsp;(1) operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers areoffered to be placed, received, or otherwise made; or
+
+&emsp;(2) owns or controls, or is owned or controlled by, any person who operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made.
+
+(Added Pub. L. 109–347, title VIII, §802(a), Oct. 13, 2006, 120 Stat. 1961.)
+

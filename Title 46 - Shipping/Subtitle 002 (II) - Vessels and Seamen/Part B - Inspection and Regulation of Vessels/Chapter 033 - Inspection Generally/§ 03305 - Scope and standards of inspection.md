@@ -1,22 +1,34 @@
 ### §3305. Scope and standards of inspection
 
-(a) The inspection process shall ensure that a vessel subject to inspection—
+(a)(1) The inspection process shall ensure that a vessel subject to inspection—
 
-&emsp;(1) is of a structure suitable for the service in which it is to be employed;
+&emsp;(A) is of a structure suitable for the service in which it is to be employed;
 
-&emsp;(2) is equipped with proper appliances for lifesaving, fire prevention, and firefighting;
+&emsp;(B) is equipped with proper appliances for lifesaving, fire prevention, and firefighting;
 
-&emsp;(3) has suitable accommodations for the crew, sailing school instructors, and sailing school students, and for passengers on the vessel if authorized to carry passengers;
+&emsp;(C) has suitable accommodations for the crew, sailing school instructors, and sailing school students, and for passengers on the vessel if authorized to carry passengers;
 
-&emsp;(4) is in a condition to be operated with safety to life and property; and
+&emsp;(D) has an adequate supply of potable water for drinking and washing by passengers and crew;
 
-&emsp;(5) complies with applicable marine safety laws and regulations.
+&emsp;(E) is in a condition to be operated with safety to life and property; and
+
+&emsp;(F) complies with applicable marine safety laws and regulations.
+
+(2) In determining the adequacy of the supply of potable water under paragraph (1)(D), the Secretary shall consider—
+
+&emsp;(A) the size and type of vessel;
+
+&emsp;(B) the number of passengers or crew on board;
+
+&emsp;(C) the duration and routing of voyages; and
+
+&emsp;(D) guidelines for potable water recommended by the Centers for Disease Control and Prevention and the Public Health Service.
 
 (b) If an inspection, or examination under section 3308 of this title, reveals that a life preserver, lifesaving device, or firehose is defective and incapable of being repaired, the owner or master shall destroy the life preserver, lifesaving device, or firehose in the presence of the official conducting the inspection or examination.
 
 (c) A nautical school vessel operated by a civilian nautical school or by an educational institution under section 558 of title 40 shall be inspected like a small passenger vessel or a passenger vessel, depending on its tonnage.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 99–36, §1(a)(1), May 15, 1985, 99 Stat. 67; Pub. L. 99–640, §13(e), Nov. 10, 1986, 100 Stat. 3551; Pub. L. 107–217, §3(m)(2), Aug. 21, 2002, 116 Stat. 1302.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 99–36, §1(a)(1), May 15, 1985, 99 Stat. 67; Pub. L. 99–640, §13(e), Nov. 10, 1986, 100 Stat. 3551; Pub. L. 107–217, §3(m)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–293, title IV, §416, Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–241, title IX, §901(f), July 11, 2006, 120 Stat. 564.)
 
 Historical and Revision Notes
 
@@ -81,6 +93,12 @@ Subsection (b) requires that defective life preservers and firehose be destroyed
 Subsection (c) provides flexibility in the inspection of various sizes of nautical school vessels.
 
 #### Amendments
+
+2006—Subsec. (a)(2). Pub. L. 109–241 realigned margins.
+
+2004—Subsec. (a). Pub. L. 108–293, §416(b), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+
+Subsec. (a)(4) to (6). Pub. L. 108–293, §416(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 2002—Subsec. (c). Pub. L. 107–217 substituted “section 558 of title 40” for “section 13 of the Coast Guard Authorization Act of 1986”.
 

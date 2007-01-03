@@ -8,7 +8,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (b) Membership
 
-&emsp;that the Council and alternates therefor shall be composed of wheat producers or representatives of wheat producers, processors or representatives of processors, end product manufacturers or representatives of end product manufacturers, and consumers or representatives of consumers appointed by the Secretary from nominations submitted by eligible organizations or associations certified pursuant to section 3413 of this title, or, if theSecretary determines that a substantial number of wheat producers, processors, end product manufacturers, or consumers are not members of, or their interests are not represented by any such eligible organizations or associations then from nominations made by such wheat producers, processors, end product manufacturers, and consumers in the manner authorized by the Secretary, so that the representation of wheat producers, processors, end product manufacturers, and consumers on the Council shall be equal: <i>Provided</i>, That in making such appointments, the Secretary shall take into account, to the extent practicable, the geographical distribution of wheat producers, processors, end product manufacturers, and consumers throughout the United States;
+&emsp;that the Council and alternates therefor shall be composed of wheat producers or representatives of wheat producers, processors or representatives of processors, end product manufacturers or representatives of end product manufacturers, and consumers or representatives of consumers appointed by the Secretary from nominations submitted by eligible organizations or associations certified pursuant to section 3413 of this title, or, if the Secretary determines that a substantial number of wheat producers, processors, end product manufacturers, or consumers are not members of, or their interests are not represented by any such eligible organizations or associations then from nominations made by such wheat producers, processors, end product manufacturers, and consumers in the manner authorized by the Secretary, so that the representation of wheat producers, processors, end product manufacturers, and consumers on the Council shall be equal: <i>Provided</i>, That in making such appointments, the Secretary shall take into account, to the extent practicable, the geographical distribution of wheat producers, processors, end product manufacturers, and consumers throughout the United States;
 
 #### (c) Research and nutrition education plans
 
@@ -28,7 +28,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (g) Contracts
 
-&emsp;that the Council, with the approval of the Secretary, may enter into contracts or agreements for the development and conduct of the activities authorized under the order pursuant to terms and conditions specified in clauses (a) and (b) of section of this title and for the payment of the cost thereof with funds collected through the assessments pursuant to the order. Any such contract or agreement shall provide that the contractors shall develop and submit to the Council a plan or project together with a budget or budgets which shall show estimated costs to be incurred for such plan or project, and that any such plan or project shall become effective upon the approval of the Secretary, and further, shall provide that the contracting party shall keep accurate records of all of its transactions and make periodic reports to the Council of activities conducted and an accounting for funds received and expended, and such other reports as the Secretary may require;
+&emsp;that the Council, with the approval of the Secretary, may enter into contracts or agreements for the development and conduct of the activities authorized under the order pursuant to terms and conditions specified in clauses (a) and (b) of section of this title and for the payment of the cost thereof with funds collected through the assessments pursuant to theorder. Any such contract or agreement shall provide that the contractors shall develop and submit to the Council a plan or project together with a budget or budgets which shall show estimated costs to be incurred for such plan or project, and that any such plan or project shall become effective upon the approval of the Secretary, and further, shall provide that the contracting party shall keep accurate records of all of its transactions and make periodic reports to the Council of activities conducted and an accounting for funds received and expended, and such other reports as the Secretary may require;
 
 #### (h) Investment of assessment funds
 
@@ -40,7 +40,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (j) Reimbursement of expenses
 
-&emsp;that the Council members, and alternates therefor, shall serve without compensation,but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
+&emsp;that the Council members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
 
 (Pub. L. 95–113, title XVII, §1706, Sept. 29, 1977, 91 Stat. 1034.)
 

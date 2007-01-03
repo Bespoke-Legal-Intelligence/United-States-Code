@@ -54,7 +54,7 @@
 
 #### (c) Sharing of classified information and sensitive but unclassified information with State and local personnel
 
-(1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified orotherwise protected after the determinations prescribed under the procedures set forth in subsection (a) of this section.
+(1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified or otherwise protected after the determinations prescribed under the procedures set forth in subsection (a) of this section.
 
 (2) It is the sense of Congress that such procedures may include 1 or more of the following means:
 
@@ -144,7 +144,7 @@ Section 1. <i>Assignment of Functions</i>. (a) The functions of the President un
 
 (b) Subject to section 2(b) of this order, the function of the President under section 893 of the Act is assigned to the Secretary.
 
-(c) Procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act shall apply to all agencies of the Federal Government. Such procedures shall specify that the President may make, or may authorize another officer of the United States to make, exceptions to the procedures.
+(c) Procedures issued by the Secretary in the performance of the function of the President under section892(a)(1) of the Act shall apply to all agencies of the Federal Government. Such procedures shall specify that the President may make, or may authorize another officer of the United States to make, exceptions to the procedures.
 
 (d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney General and the Director of National Intelligence, to be exercised jointly.
 

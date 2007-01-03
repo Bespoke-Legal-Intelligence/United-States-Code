@@ -48,7 +48,7 @@ Annual pass.—The evaluation under paragraph (1) shall include the establishmen
 
 “(3)
 
-Report.—Not later than December 31, 1999, the Secretary shall transmit to Congress a report on the results of the evaluation carried out under this subsection, together with recommendations concerning whether annual passes for individual projects should be offered on a nationwide basis.
+Report.—Not later than December 31, 1999, the Secretary shall transmit to Congress a report on theresults of the evaluation carried out under this subsection, together with recommendations concerning whether annual passes for individual projects should be offered on a nationwide basis.
 
 “(4)
 

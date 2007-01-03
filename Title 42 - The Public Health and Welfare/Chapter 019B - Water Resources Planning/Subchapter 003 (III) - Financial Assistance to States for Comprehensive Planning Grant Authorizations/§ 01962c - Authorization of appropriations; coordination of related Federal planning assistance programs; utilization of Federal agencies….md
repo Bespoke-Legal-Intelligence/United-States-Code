@@ -8,7 +8,7 @@
 
 #### References in Text
 
-Section 701 of the Housing Act of 1954, referred to in subsec. (b), is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in subsec. (b), is section 701 of act Aug. 2, 1954, ch. 649, 68Stat. 640, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
 #### Amendments
 

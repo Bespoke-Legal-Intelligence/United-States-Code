@@ -6,7 +6,7 @@ The consent of Congress is granted for the construction, maintenance, and operat
 
 #### (b) Approval of plans
 
-The location and plans for such bridges shall be approved by the Secretary of Transportation before construction is commenced, and, in approving the location and plans of any bridge, the Secretary may impose any specific conditions relating to the maintenance and operation of the structure which the Secretary may deem necessary in the interest of public navigation, and the conditions so imposed shall have the force of law. This subsection shall not apply to any bridge over waters which are not subject to the ebb and flow of the tide and which are not used and are not susceptible to use in their natural condition or by reasonable improvement as a means to transport interstate or foreign commerce.
+The location and plans for such bridges shall be approved by the Secretary of Transportation before construction is commenced, and, in approving the location and plans of any bridge, the Secretary may impose any specific conditions relating to the maintenance and operation of the structure which the Secretary may deem necessary in the interest of public navigation, and the conditions so imposed shall have the force of law. This subsection shall not apply to any bridge over waters which are not subject to the ebb and flow of the tide and which are not used and are not susceptible to use in their natural condition or by reasonable improvement asa means to transport interstate or foreign commerce.
 
 #### (c) Private highway toll bridges
 
@@ -32,7 +32,7 @@ Section 501 of title V of act Aug. 2, 1946, provided that: “This title \[enact
 
 Functions, powers, and duties of Secretary of the Army \[formerly War\] and other offices and officers of Department of the Army \[formerly War\] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by section 6(g)(6)(C) of Pub. L. 89–670. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(C) of Pub. L. 89–670, and repealed section 6(g)(6)(C).
 
-Functions of Public Roads Administration transferred to Bureau of Public Roads within General Services Administration by section 103(a) of act June 30, 1949. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Public Roads Administration transferred to Bureau of Public Roads within General Services Administration by section 103(a) of act June 30, 1949. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, §2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 Bureau of Public Roads within General Services Administration transferred to Department of Commerce by section 1 of Reorg. Plan No. 7 of 1949.
 

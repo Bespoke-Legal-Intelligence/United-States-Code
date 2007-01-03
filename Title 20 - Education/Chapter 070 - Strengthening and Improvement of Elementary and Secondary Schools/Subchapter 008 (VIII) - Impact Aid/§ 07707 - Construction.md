@@ -46,7 +46,7 @@
 
 &emsp;From 60 percent of the amount appropriated for each fiscal year under section 7714(e) of this title, the Secretary—
 
-&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
+&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligiblelocal educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
 
 &emsp;&emsp;(B) shall award modernization grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out the modernization of school facilities.
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(I) The agency receives a basic support payment under section 7703(b) of this title for the fiscal year and the agency meets at least one of the following requirements:
 
-&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of thistitle for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
+&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
 &emsp;&emsp;&emsp;&emsp;(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1)of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(III) The agency has an assessed value of real property per student that may be taxed for school purposes that is less than the average of the assessed value of real property per student that may be taxed for school purposes in the State in which the local educational agency is located.
 
-&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant under this subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
+&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant underthis subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
 
 #### (D) Special rule
 

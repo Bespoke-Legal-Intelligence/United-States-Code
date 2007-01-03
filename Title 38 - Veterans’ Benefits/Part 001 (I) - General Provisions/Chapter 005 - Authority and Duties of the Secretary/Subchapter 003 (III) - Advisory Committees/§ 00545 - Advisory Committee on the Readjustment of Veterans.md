@@ -98,7 +98,7 @@ Establishment.—There is established a commission to be known as the Commission
 
 “(b)
 
-Membership.—(1) The Commission shall be composed of 12 members appointed from among private United States citizens with appropriate and diverse experiences, expertise, and historical perspectives on veterans, military, organizational, and management matters. The members shall be appointed as follows:
+Membership.—(1) The Commission shall be composed of 12 members appointed from among privateUnited States citizens with appropriate and diverse experiences, expertise, and historical perspectives on veterans, military, organizational, and management matters. The members shall be appointed as follows:
 
 &emsp;“(A) Four shall be appointed jointly by the chairman and ranking minority member of the Committee on Veterans’ Affairs of the House of Representatives.
 
@@ -244,7 +244,7 @@ Hearings.—The Commission may hold such hearings, sit and act at such times and
 
 “(b)
 
-Information From Federal Agencies.—The Commission may secure directly from the Departmentof Defense, the Department of Veterans Affairs, and any other department or agency of the Government such information as the Commission considers necessary to carry out its duties under this title. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
+Information From Federal Agencies.—The Commission may secure directly from the Department of Defense, the Department of Veterans Affairs, and any other department or agency of the Government such information as the Commission considers necessary to carry out its duties under this title. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
 
 #### “SEC. 704. MISCELLANEOUS ADMINISTRATIVE PROVISIONS.
 

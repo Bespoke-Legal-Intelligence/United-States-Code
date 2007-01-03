@@ -11,9 +11,6 @@
 | [4307\.](%C2%A7%2004307%20-%20Permissive%20terms%20in%20orders.md) | Permissive terms in orders. |
 | [4308\.](%C2%A7%2004308%20-%20Referendum%3B%20necessity%2C%20etc.md) | Referendum; necessity, etc. |
 | [4309\.](%C2%A7%2004309%20-%20Suspension%20and%20termination%20of%20orders.md) | Suspension and termination of orders. |
-| (a) | Prerequisites. |
-| (b) | Referendum. |
-| (c) | Nature of order. |
 | [4310\.](%C2%A7%2004310%20-%20Amendments%20to%20orders.md) | Amendments to orders. |
 | [4311\.](%C2%A7%2004311%20-%20Exemption%20from%20assessments.md) | Exemption from assessments. |
 | [4312\.](%C2%A7%2004312%20-%20Refund%20of%20assessments.md) | Refund of assessments. |

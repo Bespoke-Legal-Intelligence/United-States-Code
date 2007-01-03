@@ -4,7 +4,7 @@
 
 General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and\(d)(1)(C)–(f), and 44908), section 47107(b) (including any assurance made under such section), or section 47133 of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), section 47107(b) (including any assurance made under such section), or section 47133 of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -44,7 +44,7 @@ Penalties applicable to individuals and small business concerns.—
 
 &emsp;&emsp;(v) a violation of section 40127 or section 41705, relating to discrimination.
 
-&emsp;(C) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
+&emsp;(C) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
 
 &emsp;(D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
 
@@ -80,7 +80,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302 (for a violation relating to section 46504), 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any ofthose provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), 46302 <sup>1</sup> (except for a violation relating to section 46504), 46303,<sup>1</sup> or a regulation prescribed or order issued under such chapter 449. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302 (for a violation relating to section 46504), 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), 46302 <sup>1</sup> (except for a violation relating to section 46504), 46303,<sup>1</sup> or a regulation prescribed or order issued under such chapter 449. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -308,7 +308,7 @@ Aug. 23, 1958, Pub. L. 85–726, §901(a)(2) (related to title III, V, VI, or XI
 
 49 App.:1551(b)(1)(E).
 
-In this section, the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “United States Postal Service” and “Postal Service” are substituted for “Postmaster General” because of section 4(a) of thePostal Reorganization Act (Public Law 91–375, 84 Stat. 773).
+In this section, the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “United States Postal Service” and “Postal Service” are substituted for “Postmaster General” because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773).
 
 In subsections (a)(1)(C) and (c), the words “condition, or limitation” are omitted as surplus.
 
@@ -358,7 +358,7 @@ This makes a conforming amendment to 49:46301(a)(3).
 
 #### Pub. L. 104–287, §5(77)(D)–(F)
 
-These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by section 1of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
 #### References in Text
 
@@ -540,7 +540,7 @@ Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see sec
 
 #### Savings Provision
 
-Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
+Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such dateof enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
 
 #### Transfer of Functions
 

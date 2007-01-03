@@ -16,7 +16,3 @@ Historical and Revision Notes
 
 Section 4305 permits the Secretary to grant appropriate exemptions from the requirements of this chapter when recreational vessel safety will not be adversely affected.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4306 of this title.
-

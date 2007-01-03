@@ -46,7 +46,7 @@ Limitation to One Allowance.—If primary dependents of a member reside separate
 
 Service Not Covered.—(1) A cost-of-living allowance may not be paid a member under this section for the days authorized for travel of the member in connection with a permanent change of duty station.
 
-(2) A member of a reserve component is not eligible for a cost-of-living allowance under thissection unless the member is on active duty under a call or order to active duty that—
+(2) A member of a reserve component is not eligible for a cost-of-living allowance under this section unless the member is on active duty under a call or order to active duty that—
 
 &emsp;(A) specifies a period of 140 days or more; or
 

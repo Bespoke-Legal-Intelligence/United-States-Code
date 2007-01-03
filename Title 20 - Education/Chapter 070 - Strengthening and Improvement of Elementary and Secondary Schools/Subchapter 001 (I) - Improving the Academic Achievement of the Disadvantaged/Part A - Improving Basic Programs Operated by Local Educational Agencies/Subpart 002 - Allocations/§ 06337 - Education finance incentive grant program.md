@@ -20,7 +20,7 @@ From funds appropriated under subsection (f) of this section the Secretary is au
 
 #### (B) State minimum
 
-&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, fromthe total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
+&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, from the total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
 
 &emsp;&emsp;&emsp;(i) 0.35 percent of total appropriations; or
 
@@ -72,7 +72,7 @@ From funds appropriated under subsection (f) of this section the Secretary is au
 
 #### (c) Use of funds; eligibility of local educational agencies
 
-All funds awarded to each State under this section shall be allocated to local educational agencies under the following provisions. Within local educational agencies, funds allocated under this section shall be distributed to schools on a basis consistent with section 6313 of this title, and may only be used to carry out activities under this part. A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if—
+All funds awarded to each State under this section shall be allocated to local educational agencies under the following provisions. Withinlocal educational agencies, funds allocated under this section shall be distributed to schools on a basis consistent with section 6313 of this title, and may only be used to carry out activities under this part. A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if—
 
 &emsp;(A) the number of children in the local educational agency counted under section 6333(c) of this title, before application of the weighted child count described in paragraph (3), is at least 10; and
 
@@ -312,7 +312,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (3) Waivers
 
-&emsp;The Secretary may waive, for 1 fiscal year only, the requirements of this subsection if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
+&emsp;The Secretary may waive, for 1 fiscal year only, the requirements of this subsection if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such as a naturaldisaster or a precipitous and unforeseen decline in the financial resources of the State.
 
 #### (f) Authorization of appropriations
 

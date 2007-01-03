@@ -22,7 +22,7 @@ Subsec. (d). Pub. L. 103–414, §303(a)(14)(A), struck out subsec. (d) which re
 
 #### Transfer of Functions
 
-Office of Postmaster General of Post Office Department abolished and functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+Office of Postmaster General of Post Office Department abolished and functions, powers, and duties ofPostmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

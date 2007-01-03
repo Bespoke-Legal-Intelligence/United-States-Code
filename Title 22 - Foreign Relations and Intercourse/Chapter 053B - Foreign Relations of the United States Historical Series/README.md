@@ -3,31 +3,11 @@
 | Sec. |  |
 | :--- | ---: |
 | [4351\.](%C2%A7%2004351%20-%20General%20authority%20and%20contents%20of%20publication.md) | General authority and contents of publication. |
-| (a) | Charter of publication. |
-| (b) | Editing principles. |
-| (c) | Deadline for publication of records. |
 | [4352\.](%C2%A7%2004352%20-%20Responsibility%20for%20preparation%20of%20FRUS%20series.md) | Responsibility for preparation of FRUS series. |
-| (a) | In general. |
-| (b) | National Archives and Records Administration. |
 | [4353\.](%C2%A7%2004353%20-%20Procedures%20for%20identifying%20records%20for%20FRUS%20series%3B%20declassification%2C%20revisions%2C%20and%20summaries.md) | Procedures for identifying records for FRUS series; declassification, revisions, and summaries. |
-| (a) | Development of procedures. |
-| (b) | Declassification review. |
 | [4354\.](%C2%A7%2004354%20-%20Declassification%20of%20State%20Department%20records.md) | Declassification of State Department records. |
-| (a) | Deadline for declassification. |
-| (b) | Exempted records. |
-| (c) | Review. |
-| (d) | Annual reports by the Advisory Committee. |
-| (e) | Annual reports by the Secretary. |
 | [4355\.](%C2%A7%2004355%20-%20Relationship%20to%20Privacy%20Act%20and%20Freedom%20of%20Information%20Act.md) | Relationship to Privacy Act and Freedom of Information Act. |
-| (a) | Privacy Act. |
-| (b) | Freedom of Information Act. |
 | [4356\.](%C2%A7%2004356%20-%20Advisory%20Committee.md) | Advisory Committee. |
-| (a) | Establishment. |
-| (b) | Terms of service for appointments. |
-| (c) | Selection of chairperson. |
-| (d) | Meetings. |
-| (e) | Security clearances. |
-| (f) | Compensation. |
 | [4357\.](%C2%A7%2004357%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

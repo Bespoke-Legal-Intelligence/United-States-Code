@@ -52,7 +52,7 @@ A plan may not recoup a benefit payment which is in excess of the amount payable
 
 &emsp;(i) an increase in a benefit, or in the rate of future benefit accruals, shall be considered a benefit increase to the extent that the benefit, or the accrual rate, is thereby increased above the highest benefit level, or accrual rate, which was in effect under the terms of the plan before the effective date of the amendment reducing accrued benefits, and
 
-&emsp;(ii) an increase in a benefit, or in the rate of future benefit accruals, shall be considered abenefit restoration to the extent that the benefit, or the accrual rate, is not thereby increased above the highest benefit level, or accrual rate, which was in effect under the terms of the plan immediately before the effective date of the amendment reducing accrued benefits.
+&emsp;(ii) an increase in a benefit, or in the rate of future benefit accruals, shall be considered a benefit restoration to the extent that the benefit, or the accrual rate, is not thereby increased above the highest benefit level, or accrual rate, which was in effect under the terms of the plan immediately before the effective date of the amendment reducing accrued benefits.
 
 (2) If a plan is amended to partially restore previously reduced accrued benefit levels, or the rate of future benefit accruals, the benefits of inactive participants shall be restored in at least the same proportions as other accrued benefits which are restored.
 

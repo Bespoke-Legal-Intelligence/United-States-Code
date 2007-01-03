@@ -2,7 +2,7 @@
 
 For the purpose of this chapter—
 
-&emsp;(1) The term “area vocational education school” has the same meaning given that term under section 2471(3) <sup>1</sup> of this title..<sup>2</sup>
+&emsp;(1) The term “area career and technical education school” has the same meaning given that term under section 2302(3) of this title.
 
 &emsp;(2) The term “Director” means the Director of the National Science Foundation.
 
@@ -26,17 +26,17 @@ For the purpose of this chapter—
 
 &emsp;(12) The term “State educational agency” has the meaning given that term under section 7801 of this title.
 
-(Pub. L. 98–377, §3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, §221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, §102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(<i>l</i>)(1), Jan. 8, 2002, 115 Stat. 2092.)
+(Pub. L. 98–377, §3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, §221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, §102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(<i>l</i>)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, §2(d), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
-
-Section 2471 of this title, referred to in par. (1), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 30, 1998, 112 Stat. 3076.
 
 Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (8), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definition of “secondary school”, see section 7801 of this title.
 
 This chapter, referred to in par. (11), was in the original “this title” and has been translated as if the reference was to “this Act” to reflect the probable intent of Congress inasmuch as this section is not part of a title of Pub. L. 98–377.
 
 #### Amendments
+
+2006—Par. (1). Pub. L. 109–270 substituted “area career and technical education school” for “area vocationaleducation school” and “section 2302(3) of this title.” for “section 2471(3) of this title..”
 
 2002—Par. (3). Pub. L. 107–110, §1076(<i>l</i>)(1)(A), substituted “7801 of this title” for “198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 

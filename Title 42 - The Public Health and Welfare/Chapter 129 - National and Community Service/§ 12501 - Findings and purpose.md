@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(4) Americans of all ages can improve their communities and become better citizens through service to the United States.
 
-&emsp;(5) Nonprofit organizations, local governments, States, and the Federal Governmentare already supporting a wide variety of national service programs that deliver needed services in a cost-effective manner.
+&emsp;(5) Nonprofit organizations, local governments, States, and the Federal Government are already supporting a wide variety of national service programs that deliver needed services in a cost-effective manner.
 
 &emsp;(6) Residents of low-income communities, especially youth and young adults, can be empowered through their service, and can help provide future community leadership.
 
@@ -190,15 +190,15 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13317. Volunteers for Prosperity
 
-Ex. Ord. No. 13317, Sept. 25, 2003, 68 F.R. 56515, provided:
+Ex. Ord. No. 13317, Sept. 25, 2003, 68 F.R. 56515, as amended by Ex. Ord. No. 13418, Dec. 14, 2006, 71 F.R. 75647, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage volunteer service by highly skilled Americans to support major initiatives by the United States for promoting health and prosperity around the world, it is hereby ordered as follows:
 
-Section 1. (a) <i>Policy</i>. A part of USA Freedom Corps, “Volunteers for Prosperity” is a call to service to support major U.S. initiatives that promote health and prosperity around the world. Deploying highly skilled volunteers abroad is an efficient way to use our resources consistent with the objectives of the United States Government's global prosperity agenda. United States volunteers will help to achieve the objectives of the global prosperity agenda, including providing clean water to the poor, promoting democratic governance, developing economic freedom, promoting free and open markets, and stemming the spread of HIV/AIDS.
+Section 1. (a) <i>Policy</i>. A part of USA Freedom Corps, “Volunteers for Prosperity” is a call to service to support major U.S. initiatives that promote health and prosperity around the world. Deploying highly skilled volunteers abroad is an efficient way to use our resources consistent with the objectives of the United States Government's global prosperity agenda. United States volunteers will help to achieve the objectives of the global prosperity agenda, including providing clean water to the poor, promoting democratic governance, developing economic freedom, promoting free and open markets, stemming the spread of HIV/AIDS and controlling malaria.
 
 The investment of Federal resources to enable U.S. volunteers to work with nongovernmental and voluntary service organizations overseas is a preferred use of our resources and also will help leverage private sector resources. United States citizens who are skilled professionals and who volunteer, when matched with organizations working on specific U.S. prosperity initiatives overseas, can provide invaluable support for these initiatives and will supplement and complement the traditions and accomplishments of the Peace Corps.
 
-United States prosperity initiatives that can benefit from volunteer service include, but are not limited to, the Emergency Plan for AIDS Relief, the Digital Freedom Initiative, the Water for the Poor Initiative, the Trade for African Development and Enterprise Initiative, and the Middle East Partnership Initiative.
+United States prosperity initiatives that can benefit from volunteer service include, but are not limited to, the Emergency Plan for AIDS Relief, the Digital Freedom Initiative, the Water for the Poor Initiative, the Trade for African Development and Enterprise Initiative, the Middle East Partnership Initiative, and the President's Malaria Initiative.
 
 Volunteer service in support of other initiatives, consistent with U.S. foreign policy, shall be considered as well.
 

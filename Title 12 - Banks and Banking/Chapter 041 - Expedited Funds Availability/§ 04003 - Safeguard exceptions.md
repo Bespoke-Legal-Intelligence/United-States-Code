@@ -62,7 +62,7 @@ The Board may, by regulation, establish reasonable exceptions to any time limita
 
 #### (4) Compliance
 
-&emsp;Each agency referred to in section 4009(a) of this title shall monitor compliance with therequirements of this subsection in each regular examination of a depository institution and shall describe in each report to the Congress the extent to which this subsection is being complied with. For the purpose of this paragraph, each depository institution shall retain a record of each notice provided under subsection (f) of this section as a result of the application of this subsection.
+&emsp;Each agency referred to in section 4009(a) of this title shall monitor compliance with the requirements of this subsection in each regular examination of a depository institution and shall describe in each report to the Congress the extent to which this subsection is being complied with. For the purpose of this paragraph, each depository institution shall retain a record of each notice provided under subsection (f) of this section as a result of the application of this subsection.
 
 #### (d) Emergency conditions
 
@@ -120,7 +120,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;&emsp;&emsp;(ii) the reason the exception was invoked; and
 
-&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, the availability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board.
+&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, theavailability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board.
 
 #### (2) Time for notice
 
@@ -138,7 +138,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 #### (3) Subsequent determinations
 
-&emsp;If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect tosuch deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
+&emsp;If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
 
 (Pub. L. 100–86, title VI, §604, Aug. 10, 1987, 101 Stat. 642; Pub. L. 102–242, title II, §§225, 227(b)(2), Dec. 19, 1991, 105 Stat. 2307, 2308.)
 

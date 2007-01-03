@@ -30,7 +30,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 #### (b) Responsibility for carrying out prescribed activities
 
-Activities under this section in the field of coal or other mine health shall be carried out by the Secretary of Health and Human Services through the National Institute for Occupational Safety and Health established under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\], and activities under this section in the field of coal or other mine safety shall be carried out by the Secretary of the Interior in coordination with the Secretary.
+Activities under this section in the field of coal or other mine health shall be carried out bythe Secretary of Health and Human Services through the National Institute for Occupational Safety and Health established under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\], and activities under this section in the field of coal or other mine safety shall be carried out by the Secretary of the Interior in coordination with the Secretary.
 
 #### (c) Contracting with and grants to public and private agencies; availability of information; exceptions
 

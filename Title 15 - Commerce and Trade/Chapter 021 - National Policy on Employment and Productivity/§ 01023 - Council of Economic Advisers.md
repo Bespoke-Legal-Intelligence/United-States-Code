@@ -100,7 +100,7 @@ Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet C
 
 #### Executive Order No. 12296
 
-Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President'sEconomic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -172,7 +172,7 @@ Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to
 
 Sec. 5. <i>Administration</i>. (a) The Council may function through established or ad hoc committees, task forces or interagency groups.
 
-(b) The Council shall have a staff to be headed by the Assistant to the President for Economic Policy. The Council shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
+(b) The Council shall have a staff to be headed by the Assistant to the President for Economic Policy. TheCouncil shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
 

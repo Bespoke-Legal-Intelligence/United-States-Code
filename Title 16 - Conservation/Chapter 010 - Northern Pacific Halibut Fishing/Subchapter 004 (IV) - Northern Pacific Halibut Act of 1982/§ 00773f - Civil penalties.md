@@ -2,7 +2,7 @@
 
 #### (a) Liability; continuing violations; notice; determination of amount
 
-Any person who is found by the Secretary, after notice and opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 773e of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violation, the degree of culpability, and history of prior offenses, ability to pay, and such other matters as justice may require.
+Any person who is found by the Secretary, after notice and opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 773e of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $200,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.
 
 #### (b) Judicial review
 
@@ -16,5 +16,59 @@ If any person fails to pay an assessment of a civil penalty after it has become 
 
 The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section.
 
-(Pub. L. 97–176, §8, May 17, 1982, 96 Stat. 80.)
+#### (e) Revocation or suspension of permit
+
+#### (1) In general
+
+&emsp;The Secretary may take any action described in paragraph (2) in any case in which—
+
+&emsp;&emsp;(A) a vessel has been used in the commission of any act prohibited under section 773e of this title;
+
+&emsp;&emsp;(B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this subchapter has acted in violation of section 773e of this title; or
+
+&emsp;&emsp;(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue.
+
+#### (2) Permit-related actions
+
+&emsp;Under the circumstances described in paragraph (1) the Secretary may—
+
+&emsp;&emsp;(A) revoke any permit issued with respect to such vessel or person, with or without prejudice to the issuance of subsequent permits;
+
+&emsp;&emsp;(B) suspend such permit for a period of time considered by the Secretary to be appropriate;
+
+&emsp;&emsp;(C) deny such permit; or
+
+&emsp;&emsp;(D) impose additional conditions and restrictions on any permit issued to or applied for by such vessel or person under this subchapter and, with respect to any foreign fishing vessel, on the approved application of the foreign nation involved and on any permit issued under that application.
+
+#### (3) Factors to be considered
+
+&emsp;In imposing a sanction under this subsection, the Secretary shall take into account—
+
+&emsp;&emsp;(A) the nature, circumstances, extent, and gravity of the prohibited acts for which the sanction is imposed; and
+
+&emsp;&emsp;(B) with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require.
+
+#### (4) Transfers of ownership
+
+&emsp;Transfer of ownership of a vessel, a permit, or any interest in a permit, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, permit, or interest in a permit, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel, permit, or interest at the time of the transfer.
+
+#### (5) Reinstatement
+
+&emsp;In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty, criminal fine, or any amount in settlement of a civil forfeiture, the Secretary shall reinstate the permit upon payment ofthe penalty, fine, or settlement amount and interest thereon at the prevailing rate.
+
+#### (6) Hearing
+
+&emsp;No sanction shall be imposed under this subsection unless there has been prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed either in conjunction with a civil penalty proceeding under this section or otherwise.
+
+#### (7) Permit defined
+
+&emsp;In this subsection, the term “permit” means any license, certificate, approval, registration, charter, membership, exemption, or other form of permission issued by the Commission or the Secretary, and includes any quota share or other transferable quota issued by the Secretary.
+
+(Pub. L. 97–176, §8, May 17, 1982, 96 Stat. 80; Pub. L. 109–479, title III, §301(a), (b), Jan. 12, 2007, 120 Stat. 3621, 3622.)
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 109–479, §301(a), substituted “$200,000” for “$25,000” and “violator, the degree of culpability, any history of prior offenses,” for “violation, the degree of culpability, and history of prior offenses, ability to pay,” and inserted at end “In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.”
+
+Subsec. (e). Pub. L. 109–479, §301(b), added subsec. (e).
 

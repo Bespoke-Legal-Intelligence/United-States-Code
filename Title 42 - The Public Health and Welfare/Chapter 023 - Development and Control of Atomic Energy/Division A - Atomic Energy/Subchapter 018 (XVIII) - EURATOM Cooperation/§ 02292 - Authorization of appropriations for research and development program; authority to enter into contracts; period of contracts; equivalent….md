@@ -8,7 +8,3 @@ There is authorized to be appropriated to the Commission, in accordance with the
 
 Section was enacted as part of the EURATOM Cooperation Act of 1958 which comprises this subchapter, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

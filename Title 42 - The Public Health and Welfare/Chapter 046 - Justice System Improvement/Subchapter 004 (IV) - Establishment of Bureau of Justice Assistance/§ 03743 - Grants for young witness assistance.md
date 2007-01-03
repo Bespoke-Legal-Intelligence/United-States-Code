@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General, acting through the Bureau of Justice Assistance, may make grants to State and local prosecutors and law enforcement agencies in support of juvenile and young adult witness assistance programs.
+The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to State and local prosecutors and law enforcement agencies in support of juvenile and young adult witness assistance programs.
 
 #### (b) Use of funds
 
@@ -38,7 +38,7 @@ In this section:
 
 There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2006 through 2009.
 
-(Pub. L. 109–162, title XI, §1136, Jan. 5, 2006, 119 Stat. 3109.)
+(Pub. L. 109–162, title XI, §1136, Jan. 5, 2006, 119 Stat. 3109; Pub. L. 109–271, §8(c), Aug. 12, 2006, 120 Stat. 766.)
 
 #### Codification
 
@@ -47,4 +47,8 @@ Section was enacted as part of the Violence Against Women and Department of Just
 #### Prior Provisions
 
 For prior sections 3743 of this title, see note set out preceding section 3741 of this title.
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–271 substituted “The Director of the Bureau of Justice Assistance of the Office of Justice Programs may” for “The Attorney General, acting through the Bureau of Justice Assistance, may”.
 

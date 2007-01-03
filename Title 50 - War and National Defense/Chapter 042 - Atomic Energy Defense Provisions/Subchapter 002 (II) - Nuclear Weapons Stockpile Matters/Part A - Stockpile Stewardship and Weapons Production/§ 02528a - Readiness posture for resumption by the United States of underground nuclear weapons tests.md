@@ -2,7 +2,7 @@
 
 #### (a) Readiness posture required
 
-Commencing not later than October 1, 2006, the Secretary of Energy shall achieve, andthereafter maintain, a readiness posture of not more than 18 months for resumption by the United States of underground tests of nuclear weapons.
+Commencing not later than October 1, 2006, the Secretary of Energy shall achieve, and thereafter maintain, a readiness posture of not more than 18 months for resumption by the United States of underground tests of nuclear weapons.
 
 #### (b) Description of requirement
 

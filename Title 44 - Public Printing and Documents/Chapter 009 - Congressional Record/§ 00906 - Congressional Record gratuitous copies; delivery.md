@@ -126,7 +126,7 @@ Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 61
 
 #### References in Text
 
-Provisions respecting National Homes for Disabled Volunteer Soldiers, referred to in text, were formerly classified to chapter 3 (section 71 et seq.) of Title 24, Hospitals and Asylums, and were repealed by Pub. L.85–857, §14, Sept. 2, 1958, 72 Stat. 1268–1272, and Pub. L. 85–56, title XXII, §2202, June 17, 1957, 71 Stat. 162, 164, 166.
+Provisions respecting National Homes for Disabled Volunteer Soldiers, referred to in text, were formerly classified to chapter 3 (section 71 et seq.) of Title 24, Hospitals and Asylums, and were repealed by Pub. L. 85–857, §14, Sept. 2, 1958, 72 Stat. 1268–1272, and Pub. L. 85–56, title XXII, §2202, June 17, 1957, 71 Stat. 162, 164, 166.
 
 #### Amendments
 

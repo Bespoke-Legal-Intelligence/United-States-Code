@@ -28,7 +28,7 @@
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
-(d)(1) United States coins shall have the inscription “In God We Trust”. The obverse side of each coin shall have the inscription “Liberty”.The reverse side of each coin shall have the inscriptions “United States of America” and “E Pluribus Unum” and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
+(d)(1) United States coins shall have the inscription “In God We Trust”. The obverse side of each coin shall have the inscription “Liberty”. The reverse side of each coin shall have the inscriptions “United States of America” and “E Pluribus Unum” and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
 
 (2) The Secretary shall prepare the devices, models, hubs, and dies for coins, emblems, devices, inscriptions, and designs authorized under this chapter. The Secretary may, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, adopt and prepare new designs or models of emblems or devices that are authorized in the same way as when new coins or devices are authorized. The Secretary may change the design or die of a coin only once within 25 years of the first adoption of the design, model, hub, or die for that coin. The Secretary may procure services under section 3109 of title 5 in carrying out this paragraph.
 
@@ -90,7 +90,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 (B) The Secretary may not mint any coin with respect to which a determination has been made by the Secretary under subparagraph (A) before the end of the 30-day period beginning on the date a notice of such determination is published in the Federal Register.
 
-(C) The Secretary may continue to mint and issue coins in accordance with the specifications contained in paragraphs (7), (8), (9), and (10) of subsection (a) and paragraph (1)(A) of this subsection at the same time the Secretary in minting and issuing other bullion and proof gold coins under this subsection in accordance with such program procedures and coin specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
+(C) The Secretary may continue to mint and issue coins in accordance with the specifications contained in paragraphs (7), (8), (9), and (10) of subsection (a) and paragraph (1)(A) of this subsection at the same time the Secretary in minting and issuing other bullion and proof goldcoins under this subsection in accordance with such program procedures and coin specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
 
 (j)
 
@@ -308,7 +308,7 @@ Inscriptions of “liberty”.—Notwithstanding the second sentence of subsecti
 
 &emsp;&emsp;(E)
 
-Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a living former or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
+Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a livingformer or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
 
 &emsp;(3)
 
@@ -316,7 +316,7 @@ Issuance of coins commemorating presidents.—
 
 &emsp;&emsp;(A)
 
-Order of issuance.—The coins issued under this subsection commemorating Presidents of the United States shall be issued in the order of the period of service of eachPresident, beginning with President George Washington.
+Order of issuance.—The coins issued under this subsection commemorating Presidents of the United States shall be issued in the order of the period of service of each President, beginning with President George Washington.
 
 &emsp;&emsp;(B)
 
@@ -428,7 +428,7 @@ Inscriptions.—Each bullion coin issued under this subsection shall bear the in
 
 &emsp;(4)
 
-Sale of bullion coins.—Each bullion coin issued under this subsection shall be sold by the Secretary at a price that is equal to or greater than the sum of—
+Sale of bullion coins.—Each bullion coin issued under this subsection shall be soldby the Secretary at a price that is equal to or greater than the sum of—
 
 &emsp;&emsp;(A) the face value of the coins; and
 
@@ -626,7 +626,7 @@ In general.—Each bullion coin having a metallic content as described in subsec
 
 Design.—The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L.109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228,Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672.)
 
 Historical and Revision Notes<br>1982
 
@@ -742,7 +742,7 @@ In subsection (e)(2), the words “80 percent” are substituted for “eight hu
 
 In subsection (f)(1), before clause (A), the words “Notwithstanding this section and section 5111(a)(1) of this title are substituted for “Notwithstanding any other provision of law” in 31:399 for clarity. In clause (B), the words “are an alloy of 90 percent silver and 10 percent copper” are substituted for “be minted in accordance with the standard established in section 3514 of the Revised Statutes (31 U.S.C. 321)” and 31:321 to eliminate unnecessary words and for clarity. In clause (C), the word “symbolizing” is substituted for “emblematic” for clarity.
 
-In subsection (f)(2), the words “under such regulations as he may prescribe” are omitted as unnecessary because of section 321 of the revised title. The word “Treasury” is substituted for “general fund of the Treasury” to eliminate unnecessary words.
+In subsection (f)(2), the words “under such regulations as he may prescribe” are omitted as unnecessary because of section 321 of the revised title. The word“Treasury” is substituted for “general fund of the Treasury” to eliminate unnecessary words.
 
 The text of 31:399(b)(3) is omitted as unnecessary because of section 5103 of the revised title.
 
@@ -834,9 +834,13 @@ Section 205 of title II of Pub. L. 99–61 provided that: “This title \[amendi
 
 #### Short Title of 1985 Amendments
 
-Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
+Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notesunder this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
 Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
+
+#### 5-Cent Coins Minted in 2004 and 2005
+
+Pub. L. 109–230, §8, June 15, 2006, 120 Stat. 393, provided that: “Notwithstanding the fifth sentence of section 5112(d)(1) of title 31, United States Code, the Secretary of the Treasury may continue to issue, after December 31, 2005, numismatic items that contain 5-cent coins minted in the years 2004 and 2005.”
 
 #### Presidential Commemorative Dollar Coins; Findings
 
@@ -1152,7 +1156,7 @@ In general.—Each person who receives, after the date of the enactment of this 
 
 &emsp;“(2)
 
-Information to be included.—The report under paragraph (1) shall include information on theproportion of the surcharges received during the period covered by the report to the total revenue of such person during such period, expressed as a percentage, and the percentage of total revenue during such period which was spent on administrative expenses (including salaries, travel, overhead, and fund raising).
+Information to be included.—The report under paragraph (1) shall include information on the proportion of the surcharges received during the period covered by the report to the total revenue of such person during such period, expressed as a percentage, and the percentage of total revenue during such period which was spent on administrative expenses (including salaries, travel, overhead, and fund raising).
 
 &emsp;“(3)
 
@@ -1174,6 +1178,12 @@ Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all 
 
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 109–285, Sept. 27, 2006, 120 Stat. 1215.—Abraham Lincoln.
+
+Pub. L. 109–247, July 27, 2006, 120 Stat. 582.—Louis Braille Bicentennial—Braille Literacy.
+
+Pub. L. 109–230, §§1–7, June 15, 2006, 120 Stat. 391–393.—San Francisco Old Mint.
+
 Pub. L. 109–146, Dec. 22, 2005, 119 Stat. 2676.—Little Rock Central High School Desegregation 50th Anniversary.
 
 Pub. L. 108–486, Dec. 23, 2004, 118 Stat. 3934.—American Bald Eagle Recovery and National Emblem.
@@ -1194,7 +1204,7 @@ Pub. L. 106–126, title I, Dec. 6, 1999, 113 Stat. 1643.—Leif Ericson millenn
 
 Pub. L. 106–126, title II, Dec. 6, 1999, 113 Stat. 1644.—United States Capitol visitor center.
 
-Pub. L. 106–126, title III, Dec. 6, 1999, 113 Stat. 1647.—Lewis and Clark Expedition bicentennial.
+Pub. L. 106–126, title III, Dec. 6, 1999, 113 Stat. 1647; Pub. L. 109–232, June 15, 2006, 120 Stat. 395.—Lewis and Clark Expedition bicentennial.
 
 Pub. L. 105–331, Oct. 31, 1998, 112 Stat. 3073.—Thomas Alva Edison.
 
@@ -1258,7 +1268,7 @@ Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 
 #### Possession of Gold Coins and Bullion
 
-The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked byEx. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
+The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> So in original. The closing quotation marks and second period probably should not appear.</i>
 

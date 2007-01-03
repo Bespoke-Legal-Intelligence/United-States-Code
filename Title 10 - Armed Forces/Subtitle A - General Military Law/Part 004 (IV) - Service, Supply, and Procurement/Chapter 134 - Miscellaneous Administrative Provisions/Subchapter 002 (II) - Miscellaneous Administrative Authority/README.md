@@ -11,12 +11,15 @@
 | [2259\.](%C2%A7%2002259%20-%20Transit%20pass%20program%20personnel%20in%20poor%20air%20quality%20areas.md) | Transit pass program: personnel in poor air quality areas. |
 | [2260\.](%C2%A7%2002260%20-%20Licensing%20of%20intellectual%20property%20retention%20of%20fees.md) | Licensing of intellectual property: retention of fees. |
 | [2261\.](%C2%A7%2002261%20-%20Presentation%20of%20recognition%20items%20for%20recruitment%20and%20retention%20purposes.md) | Presentation of recognition items for recruitment and retention purposes. |
+| [2262\.](%C2%A7%2002262%20-%20Department%20of%20Defense%20conferences%20collection%20of%20fees%20to%20cover%20Department%20of%20Defense%20costs.md) | Department of Defense conferences: collection of fees to cover Department of Defense costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title V, §589(a)(2), Jan. 6, 2006, 119 Stat. 3279, added item 2261.
+2006—Pub. L. 109–364, div. A, title X, §1051(b), Oct. 17, 2006, 120 Stat. 2396, added item 2262.
+
+Pub. L. 109–163, div. A, title V, §589(a)(2), Jan. 6, 2006, 119 Stat. 3279, added item 2261.
 
 2004—Pub. L. 108–375, div. A, title X, §1004(b), Oct. 28, 2004, 118 Stat. 2036, added item 2260.
 
@@ -42,3 +45,4 @@
 - [&sect; 02259 - Transit pass program personnel in poor air quality areas](%C2%A7%2002259%20-%20Transit%20pass%20program%20personnel%20in%20poor%20air%20quality%20areas.md)
 - [&sect; 02260 - Licensing of intellectual property retention of fees](%C2%A7%2002260%20-%20Licensing%20of%20intellectual%20property%20retention%20of%20fees.md)
 - [&sect; 02261 - Presentation of recognition items for recruitment and retention purposes](%C2%A7%2002261%20-%20Presentation%20of%20recognition%20items%20for%20recruitment%20and%20retention%20purposes.md)
+- [&sect; 02262 - Department of Defense conferences collection of fees to cover Department of Defense costs](%C2%A7%2002262%20-%20Department%20of%20Defense%20conferences%20collection%20of%20fees%20to%20cover%20Department%20of%20Defense%20costs.md)

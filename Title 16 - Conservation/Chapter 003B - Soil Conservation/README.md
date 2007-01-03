@@ -9,23 +9,14 @@
 | 590e to 590e–2. Repealed or Omitted. |  |
 | [590f.](%C2%A7%2000590f%20-%20Authorization%20of%20appropriation.md) | Authorization of appropriation. |
 | [590g.](%C2%A7%2000590g%20-%20Additional%20policies%20and%20purposes%20of%20chapter.md) | Additional policies and purposes of chapter. |
-| (a) | Purposes enumerated. |
-| (b) | to (g) Repealed. |
 | 590g–1, 590g–2. Omitted. |  |
 | [590h.](%C2%A7%2000590h%20-%20Payments%20and%20grants%20of%20aid.md) | Payments and grants of aid. |
-| (a) | Repealed. |
-| (b) | Conservation and environmental assistance. |
-| (c) | Apportionment of acreage allotments. |
-| (d) | to (f) Repealed. |
-| (g) | Assignment of payments. |
 | 590h–1 to 590h–4. Omitted or Repealed. |  |
 | [590i.](%C2%A7%2000590i%20-%20Surveys%20and%20investigations%3B%20publication%20of%20information.md) | Surveys and investigations; publication of information. |
 | 590i–1, 590i–2. Omitted. |  |
 | [590j.](%C2%A7%2000590j%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |
 | [590k.](%C2%A7%2000590k%20-%20Availability%20of%20funds.md) | Availability of funds. |
 | 590<i>l.</i> | Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation. |
-| (a) | Market expansion and surplus disposition. |
-| (b) | Advances for premiums. |
 | [590m.](%C2%A7%2000590m%20-%20Execution%20of%20powers%20of%20Secretary%20by%20Production%20and%20Marketing%20Administration.md) | Execution of powers of Secretary by Production and Marketing Administration. |
 | [590n.](%C2%A7%2000590n%20-%20Payments%20reviewable%20only%20by%20Secretary.md) | Payments reviewable only by Secretary. |
 | 590<i>o.</i> | Authorization of appropriations; distribution of appropriated funds. |
@@ -35,16 +26,6 @@
 | 590q–1. | Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement. |
 | 590q–2. | Voluntary relinquishment of allotments. |
 | 590q–3. | Critical lands resource conservation program in Great Plains area. |
-| (a) | Authorization for program. |
-| (b) | Terms of agreements with owners or operators. |
-| (c) | Annual adjustment payments. |
-| (d) | Termination of agreements. |
-| (e) | Preservation of cropland, crop acreage, and allotment history. |
-| (f) | Utilization of Federal and non-Federal offices. |
-| (g) | Program payments. |
-| (h) | Tenants and sharecroppers. |
-| (i) | Rules and regulations. |
-| (j) | Authorization of appropriations; utilization of Commodity Credit Corporation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

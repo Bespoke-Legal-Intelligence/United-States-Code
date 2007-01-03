@@ -4,7 +4,7 @@ For the purposes of facilitating and implementing operation and maintenance of t
 
 Such maintenance agreements between the local organization and the United States shall provide the extent of contribution by the United States as may be mutually agreed by the two parties, based on the degree of benefits to be derived from said dams and related works, and the contribution by the United States may be either in the form of funds or performance of the actual operation and maintenance.
 
-Control gates shall not be installed on any of the dams which, in the opinion of the United States Commissioner, International Boundary and Water Commission, United States and Mexico, are necessary to facilitate and implement the operation and maintenance of the Rio Grande canalization project.
+Control gates shall not be installed on any of the dams which, in the opinion of the United States Commissioner, International Boundaryand Water Commission, United States and Mexico, are necessary to facilitate and implement the operation and maintenance of the Rio Grande canalization project.
 
 Arrangements made between the United States and the local organizations shall be satisfactory to the Secretary of Agriculture for defraying cost of maintaining such work of improvement in accordance with regulations prescribed by said Secretary.
 

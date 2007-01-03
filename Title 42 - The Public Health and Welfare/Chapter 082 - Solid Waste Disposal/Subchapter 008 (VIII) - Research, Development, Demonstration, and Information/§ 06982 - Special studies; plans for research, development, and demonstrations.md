@@ -42,7 +42,7 @@ The Administrator, in consultation with the Secretary of the Interior, shall con
 
 &emsp;(6) potential for use of discarded material as a secondary source of the mine product.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations for Federal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations forFederal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (g) Sludge
 
@@ -106,7 +106,7 @@ The Administrator shall undertake a comprehensive study and analysis of and publ
 
 #### (<i>l</i>) Completion of research and studies
 
-The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) of this section not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) of this section not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
+The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) of this section not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) of this section not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development,and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
 
 #### (m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy
 
@@ -156,7 +156,7 @@ The Administrator shall conduct a detailed and comprehensive study and submit a 
 
 #### (<i>o</i>) Cement kiln dust waste
 
-The Administrator shall conduct a detailed and comprehensive study of the adverse effectson human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
+The Administrator shall conduct a detailed and comprehensive study of the adverse effects on human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
 
 &emsp;(1) the source and volumes of such materials generated per year;
 
@@ -174,7 +174,7 @@ The Administrator shall conduct a detailed and comprehensive study of the advers
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six months after October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six monthsafter October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (p) Materials generated from extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining
 
@@ -224,7 +224,7 @@ The Administrator shall conduct detailed, comprehensive studies of methods to ex
 
 &emsp;(7) methods to coordinate use of a landfill owned by one municipality by nearby municipalities, and to establish equitable rates for such use, taking into account the need to provide future landfill capacity to replace that so used.
 
-> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
+> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October 1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
 
 (Pub. L. 89–272, title II, §8002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2831; amended Pub. L. 95–609, §7(t), Nov. 8, 1978, 92 Stat. 3083; H. Res. 549, Mar. 25, 1980; Pub. L. 96–482, §29, Oct. 21, 1980, 94 Stat. 2349; Pub. L. 98–616, title II, §224(c), title VII, §702, Nov. 8, 1984, 98 Stat. 3253, 3289.)
 

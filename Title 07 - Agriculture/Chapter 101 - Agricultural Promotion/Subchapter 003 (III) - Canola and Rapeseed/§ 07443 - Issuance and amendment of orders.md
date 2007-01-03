@@ -16,7 +16,7 @@ Subject to subsection (b) of this section, the Secretary shall issue 1 or more o
 
 #### (3) Issuance of order
 
-&emsp;After notice and opportunity for public comment are given as provided in paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with the requirements of this subchapter. The order shall be issued and become effective not laterthan 180 days following publication of the proposed order.
+&emsp;After notice and opportunity for public comment are given as provided in paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with the requirements of this subchapter. The order shall be issued and become effective not later than 180 days following publication of the proposed order.
 
 #### (c) Amendments
 

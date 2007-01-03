@@ -8,7 +8,7 @@ Requirement for Report.—After the end of each fiscal year, the Secretary of De
 
 Content.—The report for a fiscal year shall include the following matters:
 
-&emsp;(1) The numbers of members of the National Guard excluded under subsection (i) <sup>1</sup> of section 115 of title 10 from being counted for the purpose of end-strengths authorized pursuant to subsection (a)(1) of such section.
+&emsp;(1) The numbers of members of the National Guard excluded under subsection (i)(13) of section 115 of title 10 from being counted for the purpose of end-strengths authorized pursuant to subsection (a)(1) of such section.
 
 &emsp;(2) A description of the homeland defense activities conducted with funds provided under this chapter.
 
@@ -16,11 +16,9 @@ Content.—The report for a fiscal year shall include the following matters:
 
 &emsp;(4) A description of the effect on military training and readiness of using units and personnel of the National Guard to perform homeland defense activities under this chapter.
 
-(Added Pub. L. 108–375, div. A, title V, §512(a)(1), Oct. 28, 2004, 118 Stat. 1879.)
+(Added Pub. L. 108–375, div. A, title V, §512(a)(1), Oct. 28, 2004, 118 Stat. 1879; amended Pub. L. 109–364, div. A, title X, §1071(b)(2), Oct. 17, 2006, 120 Stat. 2400.)
 
-#### References in Text
+#### Amendments
 
-Subsection (i) of section 115 of title 10, referred to in subsec. (b)(1), probably means the subsec. (i) of section 115 which relates to exclusion of persons involuntarily performing homeland defense activities under this chapter from counting for full-time National Guard duty end strengths, and was added by Pub. L. 108–375, div. A, title V, §512(b), Oct. 28, 2004, 118 Stat. 1880.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+2006—Subsec. (b)(1). Pub. L. 109–364 substituted “(i)(13)” for “(i)”.
 

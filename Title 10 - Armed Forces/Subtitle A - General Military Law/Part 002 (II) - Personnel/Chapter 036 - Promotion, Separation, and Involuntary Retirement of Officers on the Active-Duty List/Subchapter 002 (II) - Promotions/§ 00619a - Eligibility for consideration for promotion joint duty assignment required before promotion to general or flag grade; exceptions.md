@@ -24,7 +24,7 @@ Exceptions.—Subject to subsection (c), the Secretary of Defense may waive para
 
 &emsp;&emsp;(C) a judge advocate.
 
-&emsp;(4) In the case of an officer selected by a promotion board for appointment to the grade ofbrigadier general or rear admiral (lower half) while serving in a joint duty assignment if the officer's total consecutive service in joint duty assignments within that immediate organization is not less than two years.
+&emsp;(4) In the case of an officer selected by a promotion board for appointment to the grade of brigadier general or rear admiral (lower half) while serving in a joint duty assignment if the officer's total consecutive service in joint duty assignments within that immediate organization is not less than two years.
 
 &emsp;(5) In the case of an officer who served in a joint duty assignment that began before January 1, 1987, if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) for the officer's service to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986.
 
@@ -76,41 +76,17 @@ Subsec. (h). Pub. L. 106–65, §508(b), substituted “An officer of the Navy�
 
 #### Proposed Legislative Changes
 
-Pub. L. 107–107, div. A, title V, §525(c), Dec. 28, 2001, 115 Stat. 1099, provided that: “Not later than December 1, 2002, the Secretary of Defense shall submit to Congress a draft proposal for such legislative changes as the Secretary considers needed to implement the amendment made by subsections (a) and (b) \[amending this section\].”
+Pub. L. 107–107, div. A, title V, §525(c), Dec. 28, 2001, 115 Stat. 1099, directed the Secretary of Defense to submit to Congress, not later than Dec. 1, 2002, a draft proposal for such legislative changes to this section as the Secretary considered were needed to implement the amendment made to this section by section 525(a), (b) of Pub. L. 107–107.
 
 #### Report on Plans for Compliance
 
-Section 931(d) of Pub. L. 103–160 provided that: “Not later than February 1, 1994, the Secretary of Defense shall certify to Congress that the Army, Navy, Air Force, and Marine Corps have each developed and implemented a plan for their officer personnel assignment and promotion policies so as to ensure compliance with the requirements of section 619a of title 10, United States Code, as added by subsection (a). Each such plan should particularly ensure that by January 1, 1999, the service covered by the plan shall have enough officers who have completed a full tour of duty in a joint duty assignment so as to permit the orderly promotion of officers to brigadier general or, in the case of the Navy, rear admiral (lower half) pursuant to the requirements of chapter 38 of title 10, United States Code.”
-
-#### Revision of Transition Plan
-
-Section 931(f)(2) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, provided that: “The Secretary of Defense, after consultation with the Chairman of the Joint Chiefs of Staff, shall revise the transition plan developed pursuant to section 1305(b) of Public Law 100–180 \[set out below\] to take account of the amendments made by subsection (a) and by paragraph (1) of this subsection \[enacting this section and amending provisions set out below\]. The Secretary shall include with the next report of the Secretary after the date ofthe enactment of this Act \[Nov. 30, 1993\] under section 619a(h)(2) of title 10, United States Code, as added by subsection (a), a report on the actions of the Secretary in revising such transition plan.”
-
-Section 515(a)(3) of Pub. L. 100–456 provided that: “The Secretary of Defense, after consultation with the Chairman of the Joint Chiefs of Staff, shall revise the transition plan developed pursuant to section 1305(b) of Public Law 100–180 \[set out below\] to take account of the amendments made by paragraphs (1) and (2) \[amending section 619 of this title and provisions set out below\]. The Secretary shall include with the first report of the Secretary under section 619(e)(5) of title 10, United States Code, as added by paragraph (1)(B), a report on the actions of the Secretary in revising such transition plan.”
+Pub. L. 103–160, div. A, title IX, §931(d), Nov. 30, 1993, 107 Stat. 1734, directed the Secretary of Defense to certify to Congress, not later than Feb. 1, 1994, that the Army, Navy, Air Force, and Marine Corps had each developed and implemented a plan for officer personnel assignment and promotion policies so as to ensure compliance with the requirements of this section, and provided that each such plan should ensure that by Jan. 1, 1999, the service covered by the plan would have enough officers who had completed a full tour of duty in a joint duty assignment so as to permit the orderly promotion of officers to brigadier general or, in the case of the Navy, rear admiral (lower half).
 
 #### Plan for Service by Qualified Nuclear Propulsion Officers in Joint Duty Assignments by January 1, 1997; Implementation; Report
 
-Section 1305(b)–(d) of Pub. L. 100–180, as amended by Pub. L. 100–456, div. A, title V, §515(a)(2), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 103–160, div. A, title IX, §931(f)(1), (3), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(8), Oct. 5, 1994, 108 Stat. 2857, provided that:
+Pub. L. 103–160, div. A, title IX, §931(f)(2), Nov. 30, 1993, 107 Stat. 1734, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
 
-“(b)
+Pub. L. 100–456, div. A, title V, §515(a)(3), Sept. 29, 1988, 102 Stat. 1970, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
 
-Transition Plan.—(1) The Secretary of Defense, after consultation with the Chairman of the Joint Chiefs of Staff, shall develop and carry out a plan for ensuring that—
-
-&emsp;“(A) during the period before January 1, 1997, the maximum practicable number of officers of the Navy who are qualified nuclear propulsion officers serve in joint duty assignments and otherwise fulfill the provisions of chapter 38 of title 10, United States Code; and
-
-&emsp;“(B) by January 1, 1997, the maximum practicable number of qualified nuclear propulsion officers in the grade of captain have qualified for appointment to the grade of rear admiral (lower half) by completing a full tour of duty in a joint duty assignment.
-
-“(2) The plan shall include milestones for each calendar year beginning with 1989 requiring that a progressively greater proportion of qualified nuclear propulsion officers fulfill the various requirements of chapter 38 of title 10, United States Code, and other provisions of law enacted by title IV of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 (Public Law 99–433) \[sections 401–406 of Pub. L. 99–433, see Tables for classification\] so that after January 1, 1997, the nuclear propulsion community will be capable of complying with the requirements of that chapter without undue reliance on waivers granted by the Secretary of Defense.
-
-“(c)
-
-Implementation.—The plan required to be developed under subsection (b) shall be implemented at the earliest practicable date, but in no event later than six months after the date of enactment of this Act \[Dec. 4, 1987\]. The Chairman of the Joint Chiefs of Staff shall monitor the implementation of such plan.
-
-“(d)
-
-Report.—On the date on which the plan required to be developed under subsection (b) is implemented, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
-
-&emsp;“(1) a copy of the plan; and
-
-&emsp;“(2) a report explaining how the plan fulfills the objectives prescribed in subsection (b).”
+Pub. L. 100–180, div. A, title XIII, §1305(b)–(d), Dec. 4, 1987, 101 Stat. 1173, 1174, as amended by Pub. L. 100–456, div. A, title V, §515(a)(2), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 103–160, div. A, title IX, §931(f)(1), (3), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(8), Oct. 5, 1994, 108 Stat. 2857, directed the Secretary of Defense to develop and carry out a transition plan, to be implemented no later than six months after Dec. 4, 1987, for ensuring that during the period before Jan. 1, 1997, the maximum practicable number of officers of the Navy who were qualified nuclear propulsion officers had served in joint duty assignments and that by Jan. 1, 1997, the maximum practicable number of qualified nuclear propulsion officers in the grade of captain had qualified for appointment to the grade of rear admiral (lower half) by completing a full tour of duty in a joint duty assignment, and directed the Secretary to submit to committees of Congress on the date on which the plan was implemented a copy of the plan and a report explaining how the plan had fulfilled objectives.
 

@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) are owed by that member to the United States for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay;
 
-&emsp;&emsp;(B) are deducted from the retired pay of such member as a result of forfeitures of retired pay ordered by a court-martial or as a result of a waiver of retired pay required by law in order to receive compensation under title 5 or title 38;
+&emsp;&emsp;(B) are deducted from the retired pay of such member as a result of forfeitures of retired pay ordered by a court-martial or as a result of a waiver of retired pay required bylaw in order to receive compensation under title 5 or title 38;
 
 &emsp;&emsp;(C) in the case of a member entitled to retired pay under chapter 61 of this title, are equal to the amount of retired pay of the member under that chapter computed using the percentage of the member's disability on the date when the member was retired (or the date on which the member's name was placed on the temporary disability retired list); or
 
@@ -80,7 +80,7 @@ Authority for Court To Treat Retired Pay as Property of the Member and Spouse.�
 
 (d)
 
-Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
+Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retiredpay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
 
 (2) If the spouse or former spouse to whom payments are to be made under this section was not married to the member for a period of 10 years or more during which the member performed at least 10 years of service creditable in determining the member's eligibility for retired pay, payments may not be made under this section to the extent that they include an amount resulting from the treatment by the court under subsection (c) of disposable retired pay of the member as property of the member or property of the member and his spouse.
 
@@ -112,7 +112,7 @@ Limitations.—(1) The total amount of the disposable retired pay of a member pa
 
 &emsp;(ii) retain an amount of disposable retired pay that is equal to the lesser of—
 
-&emsp;&emsp;(I) the difference between the largest amount required by any conflicting courtorder to be paid to the spouse or former spouse and the amount payable to the spouse or former spouse under clause (i); and
+&emsp;&emsp;(I) the difference between the largest amount required by any conflicting court order to be paid to the spouse or former spouse and the amount payable to the spouse or former spouse under clause (i); and
 
 &emsp;&emsp;(II) the amount of disposable retired pay which remains available for payment of any conflicting court order based on when such court order was effectively served and the limitations of paragraph (1) and subparagraph (B) of paragraph (4); and
 
@@ -146,7 +146,7 @@ Notice to Member of Service of Court Order on Secretary Concerned.—A person re
 
 Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Retired Pay.—(1)(A) If, in the case of a member or former member of the armed forces referred to in paragraph (2)(A), a court order provides (in the manner applicable to a division of property) for the payment of an amount from the disposable retired pay of that member or former member (as certified under paragraph (4)) to an eligible spouse or former spouse of that member or former member, the Secretary concerned, beginning upon effective service of such court order, shall pay that amount in accordance with this subsection to such spouse or former spouse.
 
-(B) If, in the case of a member or former member of the armed forces referred to in paragraph (2)(A), a court order provides for the payment as child support of an amount from the disposable retired pay of that member or former member\(as certified under paragraph (4)) to an eligible dependent child of the member or former member, the Secretary concerned, beginning upon effective service of such court order, shall pay that amount in accordance with this subsection to such dependent child.
+(B) If, in the case of a member or former member of the armed forces referred to in paragraph (2)(A), a court order provides for the payment as child support of an amount from the disposable retired pay of that member or former member (as certified under paragraph (4)) to an eligible dependent child of the member or former member, the Secretary concerned, beginning upon effective service of such court order, shall pay that amount in accordance with this subsection to such dependent child.
 
 (2) A spouse or former spouse, or a dependent child, of a member or former member of the armed forces is eligible to receive payment under this subsection if—
 
@@ -182,13 +182,13 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (B) A dependent child of a member or former member referred to in paragraph (2)(A) who was a member of the household of the member or former member at the time of the misconduct described in paragraph (2)(A) shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to have other benefits provided to dependents of retired members of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
 
-(C) If a spouse or former spouse or a dependent child eligible or entitled to receive a particular benefit under this paragraph is eligible or entitled to receive that benefit under another provision of law, the eligibility or entitlement of that spouse or former spouse or dependent child tosuch benefit shall be determined under such other provision of law instead of this paragraph.
+(C) If a spouse or former spouse or a dependent child eligible or entitled to receive a particular benefit under this paragraph is eligible or entitled to receive that benefit under another provision of law, the eligibility or entitlement of that spouse or former spouse or dependent child to such benefit shall be determined under such other provision of law instead of this paragraph.
 
 (10)(A) For purposes of this subsection, in the case of a member of the armed forces who has been sentenced by a court-martial to receive a punishment that will terminate the eligibility of that member to receive retired pay if executed, the eligibility of that member to receive retired pay may, as determined by the Secretary concerned, be considered terminated effective upon the approval of that sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice).
 
 (B) If each form of the punishment that would result in the termination of eligibility to receive retired pay is later remitted, set aside, or mitigated to a punishment that does not result in the termination of that eligibility, a payment of benefits to the eligible recipient under this subsection that is based on the punishment so vacated, set aside, or mitigated shall cease. The cessation of payments shall be effective as of the first day of the first month following the month in which the Secretary concerned notifies the recipient of such benefits in writing that payment of the benefits will cease. The recipient may not be required to repay the benefits received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
 
-(11) In this subsection, the term “dependent child”, with respect to a member or former member of the armed forces referred to in paragraph (2)(A), means an unmarried legitimate child, including an adopted child or a stepchild of the member or former member, who—
+(11) In this subsection, the term “dependent child”, with respect to a member or formermember of the armed forces referred to in paragraph (2)(A), means an unmarried legitimate child, including an adopted child or a stepchild of the member or former member, who—
 
 &emsp;(A) is under 18 years of age;
 
@@ -264,7 +264,7 @@ Subsec. (d). Pub. L. 104–193, §362(c)(3)(A), inserted “(or for benefit of)�
 
 Subsec. (d)(1). Pub. L. 104–193, §363(c)(2), inserted after first sentence “In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights.”
 
-Pub. L. 104–193, §362(c)(3)(B), in first sentence, inserted “(or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D)” before “in an amount sufficient”.
+Pub. L. 104–193, §362(c)(3)(B), in first sentence, inserted “(or for the benefit of such spouse or formerspouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D)” before “in an amount sufficient”.
 
 Subsec. (d)(6). Pub. L. 104–201, §636(b), added par. (6) relating to court order which is out-of-State modification.
 
@@ -408,7 +408,7 @@ Section 555(e) of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, ti
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply with respect to judgments issued before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]. In the case of a judgment issued before the date of the enactment of this Act, such amendment shall not relieve any obligation, otherwise valid, to make a payment that is due to be made before the end of the two-year period beginning on the date of the enactment of this Act.
 
-“(2) The amendments made by subsections (b), (c), and (d) \[amending this section\] apply with only respect to divorces, dissolutions of marriage, annulments, andlegal separations that become effective after the end of the 90-day period beginning on the date of the enactment of this Act.”
+“(2) The amendments made by subsections (b), (c), and (d) \[amending this section\] apply with only respect to divorces, dissolutions of marriage, annulments, and legal separations that become effective after the end of the 90-day period beginning on the date of the enactment of this Act.”
 
 #### Effective Date of 1987 Amendment
 
@@ -426,7 +426,7 @@ Section 643(e) of Pub. L. 98–525 provided that: “The amendments made by this
 
 Section 1006 of title X of Pub. L. 97–252, as amended by Pub. L. 98–94, title IX, §941(c)(4), Sept. 24, 1983, 97 Stat. 654; Pub. L. 98–525, title VI, §645(b), Oct. 19, 1984, 98 Stat. 2549, provided that:
 
-“(a) The amendments made by this title \[amending this section and sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title and enacting provisions set out as notes under this section and section 1401 of this title\] shall take effect on the first day of the first month \[February 1983\] which begins more than one hundred and twenty days after the date of the enactment of this title \[Sept. 8, 1982\].
+“(a) The amendments made by this title \[amending this section and sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title and enacting provisions set out asnotes under this section and section 1401 of this title\] shall take effect on the first day of the first month \[February 1983\] which begins more than one hundred and twenty days after the date of the enactment of this title \[Sept. 8, 1982\].
 
 “(b) Subsection (d) of section 1408 of title 10, United States Code, as added by section 1002(a), shall apply only with respect to payments of retired or retainer pay for periods beginning on or after the effective date of this title \[Feb. 1, 1983, provided in subsec. (a)\], but without regard to the date of any court order. However, in the case of a court order that became final before June 26, 1981, payments under such subsection may only be made in accordance with such order as in effect on such date and without regard to any subsequent modifications.
 
@@ -448,57 +448,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Review of Federal Former Spouse Protection Laws
 
-Section 643 of Pub. L. 105–85 provided that:
-
-“(a)
-
-Review Required.—The Secretary of Defense shall carry out a comprehensive review (including a comparison) of—
-
-&emsp;“(1) the protections, benefits, and treatment afforded under Federal law to members and former members of the uniformed services and former spouses of such persons; and
-
-&emsp;“(2) the protections, benefits, and treatment afforded under Federal law to employees and former employees of the Government and former spouses of such persons.
-
-“(b)
-
-Military Personnel Matters To Be Reviewed.—In the case of members and former members of the uniformed services and former spouses of such persons, the review under subsection (a) shall include the following:
-
-&emsp;“(1) All provisions of law (principally those originally enacted in the Uniformed Services Former Spouses’ Protection Act (title X of Public Law 97–252) \[see Short Title of 1982 Amendment note set out under section 1401 of this title\]) that—
-
-&emsp;&emsp;“(A) establish, provide for the enforcement of, or otherwise protect interests of members and former members of the uniformed services and former spouses of such persons in retired or retainer pay of members and former members; or
-
-&emsp;&emsp;“(B) provide other benefits for members and former members of the uniformed services and former spouses of such persons.
-
-&emsp;“(2) The experience of the uniformed services in administering those provisions of law, including the adequacy and effectiveness of the legal assistance provided by the Department of Defense in matters related to the Uniformed Services Former Spouses’ Protection Act.
-
-&emsp;“(3) The experience of members and former members of the uniformed services and former spouses of such persons in the administration of those provisions of law.
-
-&emsp;“(4) The experience of members and former members of the uniformed services and former spouses of such persons in the application of those provisions of law by State courts.
-
-&emsp;“(5) The history of State statutes and State court interpretations of the Uniformed Services Former Spouses’ Protection Act and other provisions of Federal law described in paragraph (1)(A) and the extent to which those interpretations follow those laws.
-
-“(c)
-
-Civilian Personnel Matters To Be Reviewed.—In the case of former spouses of employees and former employees of the Government, the review under subsection (a) shall include the following:
-
-&emsp;“(1) All provisions of law that—
-
-&emsp;&emsp;“(A) establish, provide for the enforcement of, or otherwise protect interests of employees and former employees of the Government and former spouses of such persons in annuities of employees and former employees under Federal employees’ retirement systems; or
-
-&emsp;&emsp;“(B) provide other benefits for employees and former employees of the Government and former spouses of such persons.
-
-&emsp;“(2) The experience of the Office of Personnel Management and other agencies of the Government in administering those provisions of law.
-
-&emsp;“(3) The experience of employees and former employees of the Government and former spouses of such persons in the administration of those provisions of law.
-
-&emsp;“(4) The experience of employees and former employees of the Government and former spouses ofsuch persons in the application of those provisions of law by State courts.
-
-“(d)
-
-Sampling Authorized.—The Secretary may use sampling in carrying out the review under this section.
-
-“(e)
-
-Report.—Not later than September 30, 1999, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the results of the review under subsection (a). The report shall include any recommendations for legislation that the Secretary considers appropriate.”
+Pub. L. 105–85, div. A, title VI, §643, Nov. 18, 1997, 111 Stat. 1799, directed the Secretary of Defense to carry out a comprehensive review of the protections, benefits, and treatment afforded under Federal law to members and former members of the uniformed services and former spouses of such persons and to employees and former employees of the Government and former spouses of such persons and to submit to committees of Congress a report on the results of such review not later than Sept. 30, 1999.
 
 #### Payroll Deductions for Enforcement of Child Support Obligations
 
@@ -510,23 +460,7 @@ Section 653(c) of Pub. L. 102–484 provided that: “No payments under subsecti
 
 #### Study Concerning Benefits for Dependents Who Are Victims of Abuse
 
-Section 653(e) of Pub. L. 102–484 provided that:
-
-“(1) The Secretary of Defense shall conduct a study in order to estimate—
-
-&emsp;“(A) the number of persons who will become eligible to receive payments under subsection (h) of section 1408 of title 10, United States Code (as added by subsection (a)), during each of fiscal years 1993 through 2000; and
-
-&emsp;“(B) for each of fiscal years 1993 through 2000, the number of members of the Armed Forces who, after having completed at least one, and less than 20, years of service in that fiscal year, will be approved in that fiscal year for separation from the Armed Forces as a result of having abused a spouse or dependent child.
-
-“(2) The study shall include a thorough analysis of—
-
-&emsp;“(A) the effects, if any, of appeals and requests for clemency in the case of court-martial convictions on the entitlement to payments in accordance with subsection (h) of section 1408 of title 10, United States Code (as added by subsection (a));
-
-&emsp;“(B) the socio-economic effects on the dependents of members of the Armed Forces described in subsection (h)(2) of such section that result from terminations of the eligibility of such members to receive retired or retainer pay; and
-
-&emsp;“(C) the effects of separations of such members from the Armed Forces on the mission readiness of the units of assignment of such members when separated and on the Armed Forces in general.
-
-“(3) Not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary shall submit to Congress a report on the results of the study.”
+Pub L. 102–484, div. A, title VI, §653(e), Oct. 23, 1992, 106 Stat. 2429, directed the Secretary of Defense to conduct a study in order to estimate the number of persons who would become eligible to receive payments under subsec. (h) of this section during each of fiscal years 1993 through 2000 and the number of members of the Armed Forces who would be approved in each of fiscal years 1993 through 2000 for separation from the Armed Forces as a result of having abused a spouse or dependent child, and to submit to Congress a report on the results of such study not later than one year after Oct. 23, 1992.
 
 #### Commissary and Exchange Privileges
 

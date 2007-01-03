@@ -8,7 +8,7 @@ In order to carry out its functions under this chapter, the Commission is author
 
 &emsp;(3) in the discretion of the Commission, receive (and use, sell, or otherwise dispose of, in accordance with paragraph (2)) money and other property donated, bequeathed, or devised to the Commission with a condition or restriction, including a condition that the Commission use other funds of the Commission for the purposes of the gift, and any such donation shall be exempt from any Federal income, State, or gift tax;
 
-&emsp;(4) direct the Secretary of the Treasury to make expenditure of the income of the Fund,any amount of the contributions deposited in the Fund from nonappropriated sources pursuant to paragraph (2) or (3) of this section, and not to exceed 5 percent annually of the principal of the total amount appropriated to the Fund to carry out the purposes of this chapter, including the payment of Commission expenses if needed;
+&emsp;(4) direct the Secretary of the Treasury to make expenditure of the income of the Fund, any amount of the contributions deposited in the Fund from nonappropriated sources pursuant to paragraph (2) or (3) of this section, and not to exceed 5 percent annually of the principal of the total amount appropriated to the Fund to carry out the purposes of this chapter, including the payment of Commission expenses if needed;
 
 &emsp;(5) appoint an Executive Director, without regard to the provisions of title 5 governing appointments in the competitive service, who shall be compensated at the rate provided for a GS–18 of the General Schedule of such title;
 

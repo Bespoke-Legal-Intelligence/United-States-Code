@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
+&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balanceshall be deducted from the next succeeding annual allotment to the eligible institution.
 
 #### (ii) Redistribution
 
@@ -86,7 +86,7 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 #### (d) Payment of funds to eligible institutions
 
-Sums available for allotment to the eligible institutions under the terms of this section shall be paid to such institutions in equal quarterly payments beginning on or about the first day of October of each year upon vouchers approved by the Secretary. The President of each eligible institution shall appoint a research director who shall be responsible for administration of the program authorized herein. Each eligible institution shall designate a treasurer or other officer who shall receive and account for all funds allotted to such institution under the provisions of this section and shall report, with the approval of the research director, to the Secretary on or before the first day of December of each year a detailed statement of the amount received under the provisions of this section during the preceding fiscal year and its disbursement on schedules prescribed by the Secretary. If any portion of the allotted moneys received by any eligible institution shall by any action or contingency be diminished, lost, or misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be allotted or paid to such institution. Funds made available to eligible institutions shall not be used for payment of negotiated overhead or indirect cost rates.
+Sums available for allotment to the eligible institutions under the terms of this section shallbe paid to such institutions in equal quarterly payments beginning on or about the first day of October of each year upon vouchers approved by the Secretary. The President of each eligible institution shall appoint a research director who shall be responsible for administration of the program authorized herein. Each eligible institution shall designate a treasurer or other officer who shall receive and account for all funds allotted to such institution under the provisions of this section and shall report, with the approval of the research director, to the Secretary on or before the first day of December of each year a detailed statement of the amount received under the provisions of this section during the preceding fiscal year and its disbursement on schedules prescribed by the Secretary. If any portion of the allotted moneys received by any eligible institution shall by any action or contingency be diminished, lost, or misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be allotted or paid to such institution. Funds made available to eligible institutions shall not be used for payment of negotiated overhead or indirect cost rates.
 
 #### (e) Mailing of bulletins, reports, periodicals, reprints, articles, and other publications
 
@@ -98,7 +98,7 @@ The Secretary shall be responsible for the proper administration of this section
 
 #### (g) Entitlement
 
-On or before the first day of October in each year after September 29, 1977, the Secretaryshall ascertain whether each eligible institution is entitled to receive its share of the annual appropriations under this section and the amount which thereupon each is entitled, respectively, to receive.
+On or before the first day of October in each year after September 29, 1977, the Secretary shall ascertain whether each eligible institution is entitled to receive its share of the annual appropriations under this section and the amount which thereupon each is entitled, respectively, to receive.
 
 #### (h) Existing legal relationships not impaired or modified
 
@@ -128,7 +128,7 @@ Subsec. (g). Pub. L. 105–362, §101(e)(1), struck out “(1)” before “On o
 
 Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
 
-Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
+Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If itappears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
 
 Subsec. (g)(3). Pub. L. 105–185, §103(f)(3)(B), struck out par. (3) which read as follows: “If the Secretary withholds from any eligible institution any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
 

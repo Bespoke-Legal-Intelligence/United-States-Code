@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Health and Human Services, acting through the Administration of Children and Families, in partnership with the Secretary of Housing and Urban Development, shall award grants, contracts, or cooperative agreements for a period of not less than 2 years to eligible entities to develop long-term sustainability and self-sufficiency options for adult and youth victims of domestic violence, dating violence, sexual assault, and stalking who are currently homeless or at risk for becoming homeless.
+&emsp;The Secretary of Health and Human Services, acting through the Administration for Children and Families, in partnership with the Secretary of Housing and Urban Development, shall award grants, contracts, or cooperative agreements for a period of not less than 2 years to eligible entities to develop long-term sustainability and self-sufficiency options for adult and youth victims of domestic violence, dating violence, sexual assault, and stalking who are currently homeless or at risk for becoming homeless.
 
 #### (2) Amount
 
@@ -48,29 +48,25 @@ Each eligible entity seeking funds under this section shall submit an applicatio
 
 #### (d) Use of funds
 
-(1)
+Funds awarded to eligible entities under subsection (a) of this section shall be used to design or replicate and implement new activities, services, and programs to increase the stability and self-sufficiency of, and create partnerships to develop long-term housing options for adult and youth victims of domestic violence, dating violence, sexual assault, or stalking, and their dependents, who are currently homeless or at risk of becoming homeless. Such activities, services, or programs—
 
-In general.—Funds awarded to eligible entities under subsection (a) of this section shall be used to design or replicate and implement new activities, services, and programs to increase the stability and self-sufficiency of, and create partnerships to develop long-term housing options for adult and youth victims of domestic violence, dating violence, sexual assault, or stalking, and their dependents, who are currently homeless or at risk of becoming homeless.
+&emsp;(1) shall develop sustainable long-term living solutions in the community by—
 
-(2)
+&emsp;&emsp;(A) coordinating efforts and resources among the various groups and organizations comprised in the entity to access existing private and public funding;
 
-Activities, services, programs.—Such activities, services, or programs described in paragraph (1) shall develop sustainable long-term living solutions in the community by—
+&emsp;&emsp;(B) assisting with the placement of individuals and families in long-term housing; and
 
-&emsp;(A) coordinating efforts and resources among the various groups and organizations comprised in the entity to access existing private and public funding;
+&emsp;&emsp;(C) providing services to help individuals or families find and maintain long-term housing, including financial assistance and support services;
 
-&emsp;(B) assisting with the placement of individuals and families in long-term housing; and
+&emsp;(2) may develop partnerships with individuals, organizations, corporations, or other entities that provide capital costs for the purchase, preconstruction, construction, renovation, repair, or conversion of affordable housing units;
 
-&emsp;(C) providing services to help individuals or families find and maintain long-term housing, including financial assistance and support services; <sup>1</sup>
+&emsp;(3) may use funds for the administrative expenses related to the continuing operation, upkeep, maintenance, and use of housing described in paragraph (2); and
 
-(3) may <sup>1</sup> develop partnerships with individuals, organizations, corporations, or other entities that provide capital costs for the purchase, preconstruction, construction, renovation, repair, or conversion of affordable housing units; <sup>1</sup>
-
-(4) may <sup>1</sup> use funds for the administrative expenses related to the continuing operation, upkeep, maintenance, and use of housing described in paragraph (3); and <sup>1</sup>
-
-(5) may <sup>1</sup> provide to the community information about housing and housing programs, and the process to locate and obtain long-term housing.
+&emsp;(4) may provide to the community information about housing and housing programs, and the process to locate and obtain long-term housing.
 
 #### (e) Limitation
 
-Funds provided under paragraph <sup>2</sup> (a) shall not be used for construction, modernization or renovation.
+Funds provided under paragraph <sup>1</sup> (a) shall not be used for construction, modernization or renovation.
 
 #### (f) Underserved populations and priorities
 
@@ -112,9 +108,17 @@ For purposes of this section—
 
 There are authorized to be appropriated $10,000,000 for each of fiscal years 2007 through 2011 to carry out the provisions of this section.
 
-(Pub. L. 103–322, title IV, §41404, as added Pub. L. 109–162, title VI, §601, Jan. 5, 2006, 119 Stat. 3033.)
+(Pub. L. 103–322, title IV, §41404, as added Pub. L. 109–162, title VI, §601, Jan. 5, 2006, 119 Stat. 3033; amended Pub. L. 109–271, §5(a), Aug. 12, 2006, 120 Stat. 759.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
+2006—Subsec. (a)(1). Pub. L. 109–271, §5(a)(1), substituted “for Children” for “of Children”.
+
+Subsec. (d). Pub. L. 109–271, §5(a)(2), struck out “(1)
+
+In general.—” before “Funds awarded to”, inserted “Such activities, services, or programs—” after “becoming homeless.”, substituted “(1)” for “(2)
+
+Activities, services, programs.—Such activities, services, or programs described in paragraph (1)”, redesignated pars. (3) to (5) as (2) to (4), respectively, and substituted “paragraph (2)” for “paragraph (3)” in par. (3), as so redesignated.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

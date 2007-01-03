@@ -36,7 +36,7 @@ Appalachian region.—The term “Appalachian region” means that area of the e
 
 &emsp;(2)
 
-Local development district.—The term “local development district” means any of the following entities for which the Governor of the State in which the entity is located, or the appropriate state officer, certifies to the Appalachian Regional Commission that the entity has a charter or authority that includes the economic development of counties or parts of counties or other political subdivisions within the region:
+Local development district.—The term “local development district” means any of the following entities for which the Governor of the State in which the entity is located, or the appropriate state officer, certifies to the Appalachian Regional Commission that the entity has a charter or authority that includes the economic development of counties or parts ofcounties or other political subdivisions within the region:
 
 &emsp;&emsp;(A) a nonprofit incorporated body organized or chartered under the law of the State in which it is located.
 
@@ -80,5 +80,5 @@ Pub. L. 89–4, title III, §301, Mar. 9, 1965, 79 Stat. 19.
 
 In subsection (a)(2), the words “the appropriate state official” are substituted for “the State officer designated by the appropriate State law to make such certification” to eliminate unnecessary words. The words “No entity shall be certified as a local development district for the purposes of this Act unless it is one of the following” are omitted as unnecessary.
 
-In subsection (b), the text of 40 App.:403(last par.) is omitted as obsolete.
+In subsection (b), the text of 40 App.:403 (last par.) is omitted as obsolete.
 

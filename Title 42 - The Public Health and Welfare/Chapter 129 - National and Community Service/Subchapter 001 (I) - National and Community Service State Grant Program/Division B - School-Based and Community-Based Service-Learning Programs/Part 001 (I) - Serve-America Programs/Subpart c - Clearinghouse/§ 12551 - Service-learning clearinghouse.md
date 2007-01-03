@@ -22,7 +22,7 @@ An organization that receives assistance under subsection (a) of this section ma
 
 &emsp;(4) facilitate communication among entities carrying out service-learning programs and participants in such programs;
 
-&emsp;(5) provide information, curriculum materials, and technical assistance relating toplanning and operation of service-learning programs, to States and local entities eligible to receive financial assistance under this subchapter;
+&emsp;(5) provide information, curriculum materials, and technical assistance relating to planning and operation of service-learning programs, to States and local entities eligible to receive financial assistance under this subchapter;
 
 &emsp;(6) provide information regarding methods to make service-learning programs accessible to individuals with disabilities;
 

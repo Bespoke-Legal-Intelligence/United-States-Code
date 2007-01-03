@@ -122,7 +122,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultationwith the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -212,7 +212,7 @@ Not later than September 30, 2005, the Secretary shall prepare and submit to the
 
 There are authorized to be appropriated to carry out this section $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
-(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642;amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021.)
+(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021.)
 
 #### Prior Provisions
 
@@ -302,7 +302,7 @@ Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: “Not late
 
 &emsp;“(3) determines the extent to which—
 
-&emsp;&emsp;“(A) patients receiving telemedicine service have benefited from the services, and are satisfied withthe treatment received pursuant to the services; and
+&emsp;&emsp;“(A) patients receiving telemedicine service have benefited from the services, and are satisfied with the treatment received pursuant to the services; and
 
 &emsp;&emsp;“(B) the medical outcomes for such patients would have differed if telemedicine services had not been available to the patients;
 

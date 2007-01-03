@@ -12,7 +12,7 @@ General Exceptions.—This section through <sup>1</sup> 126 of this title do no
 
 &emsp;(2) any tax, charge, or fee that is applied to an equitably apportioned amount that is not determined on a transactional basis;
 
-&emsp;(3) any tax, charge, or fee that represents compensation for a mobile telecommunications service provider's use of public rights of way or other public property, provided that such tax, charge, or fee is not levied by the taxing jurisdiction as a fixed charge for each customer or measured by gross amountscharged to customers for mobile telecommunication services;
+&emsp;(3) any tax, charge, or fee that represents compensation for a mobile telecommunications service provider's use of public rights of way or other public property, provided that such tax, charge, or fee is not levied by the taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunication services;
 
 &emsp;(4) any generally applicable business and occupation tax that is imposed by a State, is applied to gross receipts or gross proceeds, is the legal liability of the home service provider, and that statutorily allows the home service provider to elect to use the sourcing method required in this section through <sup>1</sup> 126 of this title;
 

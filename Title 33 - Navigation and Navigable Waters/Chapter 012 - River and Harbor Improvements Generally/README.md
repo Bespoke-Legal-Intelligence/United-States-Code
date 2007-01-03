@@ -19,6 +19,7 @@
 | [547\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000547%20-%20Reports%20as%20to%20local%20benefits%20of%20improvement%20and%20recommendations%20as%20to%20local%20cooperation.md) | Reports as to local benefits of improvement and recommendations as to local cooperation. |
 | [547a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000547a%20-%20Inclusion%20of%20regional%20economic%20development%20benefits%20in%20economic%20analysis%20for%20purposes%20of%20computing%20economic%20justification%20of%20project.md) | Inclusion of regional economic development benefits in economic analysis for purposes of computing economic justification of project. |
 | 548, 549. | Omitted or Repealed. |
+| [549a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000549a%20-%20Review%20of%20navigation%2C%20flood%20control%2C%20and%20water%20supply%20projects.md) | Review of navigation, flood control, and water supply projects. |
 | [550\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000550%20-%20Report%20on%20water%20terminal%20and%20transfer%20facilities.md) | Report on water terminal and transfer facilities. |
 | [551\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551%20-%20Policy%20of%20Government%20as%20to%20terminal%20facilities%20for%20new%20projects.md) | Policy of Government as to terminal facilities for new projects. |
 | [552\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552%20-%20Repealed.%20May%2029%2C%201928%2C%20ch.%20901%2C%20%C2%A71%2828%29%2C%2045%20Stat.%20988.md) | Repealed. |
@@ -26,12 +27,6 @@
 | [554\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554%20-%20Duty%20of%20shipowners%20and%20officers%20to%20furnish%20information%20to%20person%20in%20local%20charge%20of%20improvement%3B%20penalty.md) | Duty of shipowners and officers to furnish information to person in local charge of improvement; penalty. |
 | [555\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000555%20-%20Duty%20of%20shipowners%20and%20officers%20to%20furnish%20information%20required%20by%20Secretary%20of%20the%20Army.md) | Duty of shipowners and officers to furnish information required by Secretary of the Army. |
 | [555a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000555a%20-%20Petroleum%20product%20information.md) | Petroleum product information. |
-| (a) | Disclosure to States. |
-| (b) | Requests for disclosure. |
-| (c) | Modes of disclosure. |
-| (d) | Confidentiality of disclosed information. |
-| (e) | Definitions. |
-| (f) | Omitted. |
 | [556\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000556%20-%20Printing%20reports%20generally.md) | Printing reports generally. |
 | [557\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000557%20-%20Payment%20of%20costs%20of%20printing.md) | Payment of costs of printing. |
 | [557a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000557a%20-%20Publication%20of%20pamphlets%2C%20maps%2C%20brochures%2C%20and%20other%20material.md) | Publication of pamphlets, maps, brochures, and other material. |
@@ -60,9 +55,6 @@
 | [569b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569b%20-%20Contracts%3B%20architect%20and%20engineering%20services%3B%20surveying%20and%20mapping%20services.md) | Contracts; architect and engineering services; surveying and mapping services. |
 | [569c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569c%20-%20Services%20of%20volunteers.md) | Services of volunteers. |
 | [569d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569d%20-%20Safety%20award%20and%20promotional%20materials.md) | Safety award and promotional materials. |
-| (a) | Promotion of safety program. |
-| (b) | Employee recognition. |
-| (c) | Authorization of appropriations. |
 | [569e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569e%20-%20Use%20of%20private%20sector%20resources%20in%20surveying%20and%20mapping.md) | Use of private sector resources in surveying and mapping. |
 | [569f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569f%20-%20Debarment%20of%20persons%20convicted%20of%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md) | Debarment of persons convicted of fraudulent use of “Made in America” labels. |
 | [570\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000570%20-%20Default%20in%20contract%3B%20disposition%20of%20amounts%20collected.md) | Default in contract; disposition of amounts collected. |
@@ -74,25 +66,11 @@
 | [576a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576a%20-%20Purchase%20of%20passenger%20motor%20vehicles%20by%20Corps%20of%20Engineers.md) | Purchase of passenger motor vehicles by Corps of Engineers. |
 | [576b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576b%20-%20Lease%20authority.md) | Lease authority. |
 | [577\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577%20-%20Small%20river%20and%20harbor%20improvement%20projects.md) | Small river and harbor improvement projects. |
-| (a) | Allotment from appropriations for construction. |
-| (b) | Limitation on allotment. |
-| (c) | Lands, easements, and rights-of-way; indemnification; assurances of local cooperation. |
-| (d) | Sharing of costs by non-Federal interests. |
-| (e) | Completeness of project. |
-| (f) | Low water access navigation channels from existing channel of Mississippi River. |
 | [577a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577a%20-%20Small-boat%20navigation%20projects%3B%20charter%20fishing%20craft.md) | Small-boat navigation projects; charter fishing craft. |
 | [577b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577b%20-%20Cost%20of%20operation%20and%20maintenance%20of%20general%20navigation%20features%20of%20small%20boat%20harbor%20projects%3B%20applicable%20projects.md) | Cost of operation and maintenance of general navigation features of small boat harbor projects; applicable projects. |
 | [578\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578%20-%20Disposal%20of%20surplus%20property%20for%20development%20of%20public%20port%20or%20industrial%20facilities.md) | Disposal of surplus property for development of public port or industrial facilities. |
-| (a) | Conveyance by Secretary of the Army. |
-| (b) | Purchase price; conditions, reservations or restrictions. |
-| (c) | Notice of proposed conveyance. |
-| (d) | Delegation of authority. |
-| (e) | Deposit of proceeds. |
 | [579\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20I%2C%20%C2%A7119%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204630.md) | Repealed. |
 | [579a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579a%20-%20Project%20deauthorizations.md) | Project deauthorizations. |
-| (a) | Funds to be obligated for construction to avoid deauthorization. |
-| (b) | Transmission to Congress of list of unconstructed projects or separable elements authorized but not receiving obligations during 10 fiscal years preceding transmission; two-year updates of list. |
-| (c) | Deauthorized list; publication in Federal Register. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -121,9 +99,6 @@
 | [596\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000596%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93646%2C%20title%20III%2C%20%C2%A7306%2C%20Jan.%202%2C%201971%2C%2084%20Stat.%201907.md) | Repealed. |
 | [597\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000597%20-%20Acquisition%20of%20lands%20for%20water%20resource%20development%20projects%3B%20information%20as%20to%20probable%20timing%20for%20acquisition%3B%20public%20meetings%E2%80%A6.md) | Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations. |
 | [598\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000598%20-%20Resettlement%20of%20displaced%20families%2C%20individuals%2C%20and%20business%20concerns.md) | Resettlement of displaced families, individuals, and business concerns. |
-| (a) | Acquisition of land; condemnation expenses; bond. |
-| (b) | Acquisition provisions. |
-| (c) | Conveyance to State, public or private nonprofit body. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -143,9 +118,6 @@
 | [608\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000608%20-%20Construction%20of%20fishways.md) | Construction of fishways. |
 | [609\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000609%20-%20Sluices%20and%20other%20work%20in%20dams%20for%20development%20of%20water%20power.md) | Sluices and other work in dams for development of water power. |
 | [610\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000610%20-%20Control%20of%20aquatic%20plant%20growths.md) | Control of aquatic plant growths. |
-| (a) | In general. |
-| (b) | Appropriations. |
-| (c) | Support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -155,14 +127,8 @@
 | :--- | ---: |
 | [621\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000621%20-%20By%20what%20methods%20river%20and%20harbor%20work%20may%20be%20authorized%20to%20be%20prosecuted.md) | By what methods river and harbor work may be authorized to be prosecuted. |
 | [622\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000622%20-%20Contracts%2C%20etc.%2C%20with%20private%20industry%20for%20implementation%20of%20projects%20for%20improvements%20and%20dredging%3B%20reduction%20of%20federally%20owned%20fleet.md) | Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet. |
-| (a) | Contracts for dredging and related work. |
-| (b) | Reduction of federally owned fleet. |
-| (c) | Program to increase use of private hopper dredges. |
 | [623\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000623%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2857%29%2C%2065%20Stat.%20703.md) | Repealed. |
 | [624\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000624%20-%20Limitation%20on%20improvement%20work%20by%20private%20contract.md) | Limitation on improvement work by private contract. |
-| (a) | Determinations respecting comparison of private contract price with estimation of cost of performance of work by Government plant or by well-equipped contractor. |
-| (b) | Considerations involved in determinations of estimation of cost of performance of work by Government plant. |
-| (c) | Considerations involved in determinations of estimation of cost of performance of work by well-equipped contractor. |
 | [625\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000625%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2858%29%2C%2065%20Stat.%20703.md) | Repealed. |
 | [626\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000626%20-%20Prosecution%20of%20work%20when%20appropriation%20insufficient.md) | Prosecution of work when appropriation insufficient. |
 | [627\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000627%20-%20Application%20of%20appropriation%20when%20separate%20works%20are%20included%20therein.md) | Application of appropriation when separate works are included therein. |

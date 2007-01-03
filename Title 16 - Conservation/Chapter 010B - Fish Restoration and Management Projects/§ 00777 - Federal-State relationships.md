@@ -2,7 +2,7 @@
 
 #### (a) Cooperation between Federal Government and State fish and game departments; expenditure of funds
 
-The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other Stateagency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
+The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
 
 #### (b) Allocation of amounts by coastal States between marine fish projects and freshwater fish projects
 
@@ -38,7 +38,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 #### Effective Date of 1988 Amendment
 
-Section 6(e) of Pub. L. 100–448 provided that: “This section \[enacting section 777<i>l</i> of this title, amending this section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions set out as a note under section 13103 of Title 46\] shall take effect October 1, 1988.”
+Section 6(e) of Pub. L. 100–448 provided that: “This section \[enacting section 777<i>l</i> of this title, amendingthis section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions set out as a note under section 13103 of Title 46\] shall take effect October 1, 1988.”
 
 #### Effective Date of 1984 Amendment
 
@@ -194,7 +194,7 @@ Non-Federal Share.—The non-Federal share of the cost of development and implem
 
 “(b)
 
-Non-Federal Contributions.—The non-Federal participants in any project under the Program on landor at a facility that is not owned by the United States shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project.
+Non-Federal Contributions.—The non-Federal participants in any project under the Program on land or at a facility that is not owned by the United States shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project.
 
 “(c)
 

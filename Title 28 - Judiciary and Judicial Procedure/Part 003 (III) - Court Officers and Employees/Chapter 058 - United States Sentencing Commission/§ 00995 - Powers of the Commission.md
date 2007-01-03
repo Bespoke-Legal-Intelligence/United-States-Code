@@ -48,7 +48,7 @@
 
 &emsp;(21) hold hearings and call witnesses that might assist the Commission in the exercise of its powers or duties;
 
-&emsp;(22) perform such other functions as are required to permit Federal courts to meet their responsibilities under section 3553(a) of title 18, United States Code, and to permit others involved in the Federal criminal justice system to meet their related responsibilities;
+&emsp;(22) perform such other functions as are required to permit Federal courts to meet theirresponsibilities under section 3553(a) of title 18, United States Code, and to permit others involved in the Federal criminal justice system to meet their related responsibilities;
 
 &emsp;(23) retain private attorneys to provide legal advice to the Commission in the conduct of its work, or to appear for or represent the Commission in any case in which the Commission is authorized by law to represent itself, or in which the Commission is representing itself with the consent of the Department of Justice; and the Commission may in its discretion pay reasonable attorney's fees to private attorneys employed by it out of its appropriated funds. When serving as officers or employees of the United States, such private attorneys shall be considered special government employees as defined in section 202(a) of title 18; and
 

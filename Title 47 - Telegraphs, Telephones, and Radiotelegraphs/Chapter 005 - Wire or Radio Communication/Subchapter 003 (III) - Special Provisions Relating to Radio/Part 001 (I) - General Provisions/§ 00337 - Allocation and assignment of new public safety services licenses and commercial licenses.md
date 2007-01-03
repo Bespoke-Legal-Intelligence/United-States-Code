@@ -50,13 +50,13 @@ In establishing service rules with respect to licenses granted pursuant to this 
 
 #### (e) Removal and relocation of incumbent broadcast licensees
 
-#### (1) Channels 60 to 69
+#### (1) Channels 52 to 69
 
-&emsp;Any person who holds a television broadcast license to operate between 746 and 806 megahertz may not operate at that frequency after the date on which the digital television service transition period terminates, as determined by the Commission.
+&emsp;Any full-power television station licensee that holds a television broadcast license to operate between 698 and 806 megahertz may not operate at that frequency after February 17, 2009.
 
 #### (2) Incumbent qualifying low-power stations
 
-&emsp;After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission's plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 746 megahertz to permit the continued operation of such station.
+&emsp;After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission's plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 698 megahertz to permit the continued operation of such station.
 
 #### (f) Definitions
 
@@ -86,9 +86,13 @@ For purposes of this section:
 
 &emsp;&emsp;(C) such station was in compliance with the requirements applicable to low-power television stations.
 
-(June 19, 1934, ch. 652, title III, §337, as added Pub. L. 105–33, title III, §3004, Aug. 5, 1997, 111 Stat. 266; amended Pub. L. 106–79, title VIII, §8124(a), Oct. 25, 1999, 113 Stat. 1262; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213(a)(1), (d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, 1501A–297.)
+(June 19, 1934, ch. 652, title III, §337, as added Pub. L. 105–33, title III, §3004, Aug. 5, 1997, 111 Stat. 266; amended Pub. L. 106–79, title VIII, §8124(a), Oct. 25, 1999, 113 Stat. 1262; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213(a)(1), (d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, 1501A–297; Pub. L. 109–171, title III, §3002(c)(1), Feb. 8, 2006, 120 Stat. 21.)
 
 #### Amendments
+
+2006—Subsec. (e)(1). Pub. L. 109–171, §3002(c)(1)(A), substituted “Channels 52 to 69” for “Channels 60 to 69” in heading and substituted in text “full-power television station licensee that” for “person who”, “698 and 806 megahertz” for “746 and 806 megahertz”, and “February 17, 2009” for “the date on which the digital television service transition period terminates, as determined by the Commission”.
+
+Subsec. (e)(2). Pub. L. 109–171, §3002(c)(1)(B), substituted “698 megahertz” for “746 megahertz”.
 
 1999—Subsec. (b). Pub. L. 106–113, §1000(a)(5) \[title II, §213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.” for “The Commission shall—
 
@@ -160,7 +164,7 @@ Reports.—(1) Not later than 30 days after the date of the enactment of this Ac
 
 &emsp;“(A) describe the course of the competitive bidding process required by subsection (a) through September 30, 2000, including the amount of any receipts from the competitive bidding process deposited in the Treasury as of September 30, 2000; and
 
-&emsp;“(B) if the course of the competitive bidding process has included any deviations from the schedule set forth under paragraph (1)(A), an explanation for such deviations from the schedule.
+&emsp;“(B) if the course of the competitive bidding process has included any deviations from the schedule setforth under paragraph (1)(A), an explanation for such deviations from the schedule.
 
 “(4) Each report required by this subsection shall be prepared by the agency concerned without influence of any other Federal department or agency.
 

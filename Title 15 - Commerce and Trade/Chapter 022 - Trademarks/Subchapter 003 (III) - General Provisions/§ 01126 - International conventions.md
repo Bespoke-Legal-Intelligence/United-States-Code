@@ -2,7 +2,7 @@
 
 #### (a) Register of marks communicated by international bureaus
 
-The Director shall keep a register of all marks communicated to him by the international bureaus provided for by the conventions for the protection of industrial property, trademarks, trade and commercial names, and the repression of unfair competition to which the United States is or may become a party, and upon the payment of the fees required by such conventions and the fees required in this chapter may place the marks so communicated upon suchregister. This register shall show a facsimile of the mark or trade or commercial name; the name, citizenship, and address of the registrant; the number, date, and place of the first registration of the mark, including the dates on which application for such registration was filed and granted and the term of such registration; a list of goods or services to which the mark is applied as shown by the registration in the country of origin, and such other data as may be useful concerning the mark. This register shall be a continuation of the register provided in section 1(a) of the Act of March 19, 1920.
+The Director shall keep a register of all marks communicated to him by the international bureaus provided for by the conventions for the protection of industrial property, trademarks, trade and commercial names, and the repression of unfair competition to which the United States is or may become a party, and upon the payment of the fees required by such conventions and the fees required in this chapter may place the marks so communicated upon such register. This register shall show a facsimile of the mark or trade or commercial name; the name, citizenship, and address of the registrant; the number, date, and place of the first registration of the mark, including the dates on which application for such registration was filed and granted and the term of such registration; a list of goods or services to which the mark is applied as shown by the registration in the country of origin, and such other data as may be useful concerning the mark. This register shall be a continuation of the register provided in section 1(a) of the Act of March 19, 1920.
 
 #### (b) Benefits of section to persons whose country of origin is party to convention or treaty
 
@@ -46,7 +46,7 @@ Any person designated in subsection (b) of this section as entitled to the benef
 
 #### (i) Citizens or residents of United States entitled to benefits of section
 
-Citizens or residents of the United States shall have the same benefits as are granted by thissection to persons described in subsection (b) of this section.
+Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
 
 (July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(12), Nov. 2, 2002, 116 Stat. 1908.)
 

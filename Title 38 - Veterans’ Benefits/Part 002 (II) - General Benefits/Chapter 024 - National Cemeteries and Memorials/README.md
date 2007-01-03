@@ -15,10 +15,13 @@
 | [2410\.](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md) | Burial of cremated remains in Arlington National Cemetery. |
 | [2411\.](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md) | Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes. |
 | [2412\.](%C2%A7%2002412%20-%20Lease%20of%20land%20and%20buildings.md) | Lease of land and buildings. |
+| [2413\.](%C2%A7%2002413%20-%20Prohibition%20on%20certain%20demonstrations%20at%20cemeteries%20under%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%E2%80%A6.md) | Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–228, §2(a)(2), May 29, 2006, 120 Stat. 388, added item 2413.
 
 2004—Pub. L. 108–454, title VI, §602(b), Dec. 10, 2004, 118 Stat. 3624, added item 2412.
 
@@ -52,3 +55,4 @@
 - [&sect; 02410 - Burial of cremated remains in Arlington National Cemetery](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md)
 - [&sect; 02411 - Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons&#8230;](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md)
 - [&sect; 02412 - Lease of land and buildings](%C2%A7%2002412%20-%20Lease%20of%20land%20and%20buildings.md)
+- [&sect; 02413 - Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National&#8230;](%C2%A7%2002413%20-%20Prohibition%20on%20certain%20demonstrations%20at%20cemeteries%20under%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%E2%80%A6.md)

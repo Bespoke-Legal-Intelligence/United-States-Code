@@ -58,7 +58,7 @@
 
 (g)(1) If and to the extent that the head of a Federal agency, in his or her sole discretion, deems it appropriate, a passenger carrier may be used to transport an officer or employee of a Federal agency between the officer's or employee's place of employment and a mass transit facility (whether or not publicly owned) in accordance with succeeding provisions of this subsection.
 
-(2) Notwithstanding section 1343, a Federal agency that provides transportation services under this subsection (including by passenger carrier) may absorb the costs of such services using any funds available to such agency, whether by appropriation or otherwise.
+(2) Notwithstanding section 1343, a Federal agency that provides transportation services under this subsection (including by passengercarrier) may absorb the costs of such services using any funds available to such agency, whether by appropriation or otherwise.
 
 (3) In carrying out this subsection, a Federal agency, to the maximum extent practicable and consistent with sound budget policy, should—
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) coordinate with other Federal agencies to share, and otherwise avoid duplication of, transportation services provided under this subsection.
 
-(4) For purposes of any determination under chapter 81 of title 5 or chapter 171 of title 28, an individual shall not be considered to be in the“performance of duty” or “acting within the scope of his or her office or employment” by virtue of the fact that such individual is receiving transportation services under this subsection. Nor shall any time during which an individual uses such services be considered when calculating the hours of work or employment for that individual for purposes of title 5 of the United States Code, including chapter 55 of that title.
+(4) For purposes of any determination under chapter 81 of title 5 or chapter 171 of title 28, an individual shall not be considered to be in the “performance of duty” or “acting within the scope of his or her office or employment” by virtue of the fact that such individual is receiving transportation services under this subsection. Nor shall any time during which an individual uses such services be considered when calculating the hours of work or employment for that individual for purposes of title 5 of the United States Code, including chapter 55 of that title.
 
 (5)(A) The Administrator of General Services, after consultation with the appropriate agencies, shall prescribe any regulations necessary to carry out this subsection.
 
@@ -220,7 +220,7 @@ Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by 
 
 #### Use of Official Vehicles of House of Representatives
 
-Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
+Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representativesshall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

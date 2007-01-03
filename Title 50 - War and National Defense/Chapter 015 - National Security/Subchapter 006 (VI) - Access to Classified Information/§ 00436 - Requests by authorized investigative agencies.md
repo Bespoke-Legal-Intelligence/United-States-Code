@@ -30,9 +30,15 @@
 
 &emsp;(D) shall inform the recipient of the request of the prohibition described in subsection (b) of this section.
 
-#### (b) Disclosure of requests
+#### (b) Prohibition of certain disclosure
 
-Notwithstanding any other provision of law, no governmental or private entity, or officer,employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.
+(1) If an authorized investigative agency described in subsection (a) certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that such entity has received or satisfied a request made by an authorized investigative agency under this section.
+
+(2) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under paragraph (1).
+
+(3) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such persons of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under paragraph (1).
+
+(4) At the request of the authorized investigative agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized investigative agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the requesting official of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request under subsection (a).
 
 #### (c) Records or information; inspection or copying
 
@@ -58,11 +64,17 @@ An agency receiving records or information pursuant to a request under this sect
 
 Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) or the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
 
-(July 26, 1947, ch. 343, title VIII, §802, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3436.)
+(July 26, 1947, ch. 343, title VIII, §802, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3436; amended Pub. L. 109–177, title I, §116(f), Mar. 9, 2006, 120 Stat. 216; Pub. L. 109–178, §4(e), Mar. 9, 2006, 120 Stat. 281.)
 
 #### References in Text
 
 The Right to Financial Privacy Act, referred to in subsec. (f), probably means the Right to Financial Privacy Act of 1978, which is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, and is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 The Fair Credit Reporting Act, referred to in subsec. (f), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1601 of Title 15 and Tables.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–177 amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.”
+
+Subsec. (b)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized investigative agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized investigative agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 

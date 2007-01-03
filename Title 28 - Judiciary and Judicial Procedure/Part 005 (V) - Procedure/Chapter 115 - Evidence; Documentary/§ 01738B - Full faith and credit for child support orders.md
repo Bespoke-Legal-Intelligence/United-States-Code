@@ -80,13 +80,13 @@ Authority To Modify Orders.—A court of a State may modify a child support orde
 
 (f)
 
-Recognition of Child Support Orders.—If 1 or more child support orders have been issuedwith regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
 &emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
 
-&emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
+&emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current homeState of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
 
 &emsp;(4) If 2 or more courts have issued child support orders for the same obligor and child, and none of the courts would have continuing, exclusive jurisdiction under this section, a court having jurisdiction over the parties shall issue a child support order, which must be recognized.
 
@@ -174,7 +174,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(3) those laws, along with the limits imposed by the Federal system on the authority of each State to take certain actions outside its own boundaries—
 
-&emsp;&emsp;“(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase in the amount of interstate travel and communicationrequired to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
+&emsp;&emsp;“(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase in the amount of interstate travel and communication required to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
 
 &emsp;&emsp;“(B) contribute to the pressing problem of relatively low levels of child support payments in interstate cases and to inequities in child support payments levels that are based solely on the noncustodial parent's choice of residence;
 

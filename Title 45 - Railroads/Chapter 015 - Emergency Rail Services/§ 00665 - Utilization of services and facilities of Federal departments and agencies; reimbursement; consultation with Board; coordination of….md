@@ -2,7 +2,7 @@
 
 (a) In carrying out the provisions of this chapter the Secretary may use available services and facilities of other departments, agencies, and instrumentalities of the Federal Government with their consent and on a reimbursable basis, and shall consult with the Board in carrying out the provisions of this chapter.
 
-(b) Departments, agencies, and instrumentalities of the Federal Government shall exercise their powers, duties, and functions in such manner as will assist in carrying out the provisions of this chapter.
+(b) Departments, agencies, and instrumentalities of the Federal Government shall exercisetheir powers, duties, and functions in such manner as will assist in carrying out the provisions of this chapter.
 
 (Pub. L. 91–663, §6, Jan. 8, 1971, 84 Stat. 1977; Pub. L. 104–88, title III, §325(3), Dec. 29, 1995, 109 Stat. 951.)
 

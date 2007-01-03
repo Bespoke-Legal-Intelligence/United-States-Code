@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(G) Functions which involve—
 
-&emsp;&emsp;&emsp;(i) developing and setting forth, in coordination with the Secretary of State and other interested agencies, plans, policies, and programs which relate to international telecommunications issues, conferences, and negotiations;
+&emsp;&emsp;&emsp;(i) developing and setting forth, in coordination with the Secretary of State andother interested agencies, plans, policies, and programs which relate to international telecommunications issues, conferences, and negotiations;
 
 &emsp;&emsp;&emsp;(ii) coordinating economic, technical, operational, and related preparations for United States participation in international telecommunications conferences and negotiations; and
 
@@ -108,7 +108,7 @@ Executive Order 12046, referred to in subsec. (b)(2), is set out as a note under
 
 The Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iii), (vi), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-Section 201(a)(6) of the Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iv), was classified to section 721(a)(6) of this title and was omitted from the Code.
+Section 201(a)(6) of the Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iv), was classifiedto section 721(a)(6) of this title and was omitted from the Code.
 
 Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set out as a note under section 305 of this title was revoked by Ex. Ord. No. 12046, set out as a note under section 305 of this title. Section 10 of Ex. Ord. No. 11556 related to advisory committees established by the Director of the former Office of Telecommunications Policy.
 

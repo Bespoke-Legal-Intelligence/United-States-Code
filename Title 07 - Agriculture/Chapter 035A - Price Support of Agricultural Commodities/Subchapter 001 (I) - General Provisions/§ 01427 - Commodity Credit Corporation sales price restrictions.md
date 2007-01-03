@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commodity Credit Corporation may sell any farm commodity owned or controlled by the Corporation at any price not prohibited by this section.
+The Commodity Credit Corporation may sell any farm commodity owned or controlled by theCorporation at any price not prohibited by this section.
 
 #### (b) Inventories
 
@@ -88,7 +88,7 @@ The foregoing restrictions of this section shall not apply to—
 
 #### (2) Offsets
 
-&emsp;The sales shall be offset (if necessary) by the purchases of commodities as the Corporation determines is appropriate to prevent the sales from substantially impairing any price support program or unduly affecting market prices, except that the purchase price shall not exceed the Corporation's minimum sales price for the commodities for unrestricted use.
+&emsp;The sales shall be offset (if necessary) by the purchases of commodities as the Corporation determines is appropriate to prevent the sales from substantially impairing any price support program or unduly affecting marketprices, except that the purchase price shall not exceed the Corporation's minimum sales price for the commodities for unrestricted use.
 
 #### (3) Competitive bid basis
 
@@ -122,7 +122,7 @@ Pub. L. 100–387 substituted provision authorizing the Commodity Credit Corpora
 
 1985—Pub. L. 99–198, §1007, temporarily reenacted substantially without change the amendments made in 1981 by section 1103 of Pub. L. 97–98, which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted, also without change, the amendments by Pub. L. 97–98 which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation's operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
 
-Pub. L. 99–198, §1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, butin which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
+Pub. L. 99–198, §1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
 
 Pub. L. 99–198, §503, temporarily reenacted substantially without change the amendments made in 1981 by section 503 of Pub. L. 97–98, which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonable carrying charges, and substituted “as it sells upland cotton” for “as it sells cotton” and “percent” for “per centum”; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -142,7 +142,7 @@ Pub. L. 90–475 required that notwithstanding any other provision of this secti
 
 1965—Pub. L. 89–321 required that notwithstanding any other provision of this section, for the period August 1, 1966, through July 31, 1970, (1) the Commodity Credit Corporation shall sell upland cotton for unrestricted use at the same prices as it sells cotton for export, in no event, however, at less than 110 per centum of the loan rate, and (2) the Commodity Credit Corporation shall sell or make available for unrestricted use at current market prices in each marketing year a quantity of upland cotton equal to the amount by which the production of upland cotton is less than the estimated requirements for domestic use and for export for such marketing year, permitted the Secretary to make such estimates and adjustments therein at such times as he determines will best effectuate the provisions of part (2) of the foregoing sentence, and required such quantities of cotton as are required to be sold under such sentence to be offered for sale in an orderly manner and so as not to affect market prices unduly.
 
-1964—Pub. L. 88–585 provided that the Corporation, in providing feed to distressed areas, may charge not less than 75 percent of the current basic county support rate including the value of any applicable price support payment in kind, included the Virgin Islands within those areas where such feed can be made obtainable, authorized the Secretary to provide feed by feed dealers under such arrangement that the feed so furnished would be replaced with feed owned or controlled by the Corporation and sold to such persons, and inserted “orother area” after “one or more central locations in each State”.
+1964—Pub. L. 88–585 provided that the Corporation, in providing feed to distressed areas, may charge not less than 75 percent of the current basic county support rate including the value of any applicable price support payment in kind, included the Virgin Islands within those areas where such feed can be made obtainable, authorized the Secretary to provide feed by feed dealers under such arrangement that the feed so furnished would be replaced with feed owned or controlled by the Corporation and sold to such persons, and inserted “or other area” after “one or more central locations in each State”.
 
 Pub. L. 88–297, §104, inserted proviso that beginning Aug. 1, 1964, the Corporation may sell upland cotton for unrestricted use at not less than 105 per centum of the current loan rate for such cotton under section 1444(a) of this title plus reasonable carrying charges.
 
@@ -152,7 +152,7 @@ Pub. L. 88–297, §204, temporarily substituted proviso that if wheat marketing
 
 1961—Pub. L. 87–127 empowered Corporation to sell, at not less than 75 percent of the current support price, feed owned or controlled by it to assist in the preservation and maintenance of foundation herds of cattle, sheep, and goats in such areas where the Secretary determines an emergency exists warranting such assistance.
 
-1958—Pub. L. 85–835 required Corporation to sell cotton for unrestricted use at not less than 15 per centum above support price plus reasonable carrying charges, and authorized Corporation to sell at market price a number of bales equal to that by which the national marketing quota is less than domestic consumption and exports.
+1958—Pub. L. 85–835 required Corporation to sell cotton for unrestricted use at not less than 15 per centum above support price plus reasonable carrying charges, and authorized Corporation to sell at market price a number of bales equal to that by which the nationalmarketing quota is less than domestic consumption and exports.
 
 1956—Act Jan. 28, 1956, included as “sales for export” sales made on condition that like commodities of comparable value or quantity be exported in raw or processed form.
 
@@ -226,7 +226,7 @@ In General.—Except as otherwise provided in this section and notwithstanding s
 
 “(b)
 
-Price.—Corn shall be sold under this section at a price that is not more than such fuel conversion price, except that such price shall not be less than 110 percent of the basic county loan rate for corn, prior to any adjustment made under section 105C(a)(3) of the Agricultural Act of 1949 (7 U.S.C. 1444e(a)(3)).
+Price.—Corn shall be sold under this section at a price that is not more than such fuel conversion price, except that such price shall not be less than 110 percent of the basic county loan rate for corn, prior toany adjustment made under section 105C(a)(3) of the Agricultural Act of 1949 (7 U.S.C. 1444e(a)(3)).
 
 “(c)
 

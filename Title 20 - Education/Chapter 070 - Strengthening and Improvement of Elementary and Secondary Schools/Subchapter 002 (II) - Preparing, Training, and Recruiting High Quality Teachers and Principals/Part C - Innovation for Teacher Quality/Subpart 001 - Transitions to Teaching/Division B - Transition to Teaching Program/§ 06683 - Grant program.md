@@ -52,7 +52,7 @@ In making such a grant, the Secretary shall give priority to a partnership or co
 
 #### (e) Duration of grants
 
-The Secretary may make grants under this section for periods of 5 years. At the end of the 5-year period for such a grant, the grant recipient may apply for an additional grant under this section.
+The Secretary may make grants under this section for periods of 5 years. At the end of the5-year period for such a grant, the grant recipient may apply for an additional grant under this section.
 
 #### (f) Equitable distribution
 
@@ -68,7 +68,7 @@ To the extent practicable, the Secretary shall ensure an equitable geographic di
 
 &emsp;The entity shall use the funds to carry out a program that includes two or more of the following activities:
 
-&emsp;&emsp;(A) Providing scholarships, stipends, bonuses, and other financial incentives, that are linked to participation in activities that have proven effective in retaining teachers in high-need schools operated by high-need local educational agencies, to all eligibleparticipants, in an amount not to exceed $5,000 per participant.
+&emsp;&emsp;(A) Providing scholarships, stipends, bonuses, and other financial incentives, that are linked to participation in activities that have proven effective in retaining teachers in high-need schools operated by high-need local educational agencies, to all eligible participants, in an amount not to exceed $5,000 per participant.
 
 &emsp;&emsp;(B) Carrying out pre- and post-placement induction or support activities that have proven effective in recruiting and retaining teachers, such as—
 

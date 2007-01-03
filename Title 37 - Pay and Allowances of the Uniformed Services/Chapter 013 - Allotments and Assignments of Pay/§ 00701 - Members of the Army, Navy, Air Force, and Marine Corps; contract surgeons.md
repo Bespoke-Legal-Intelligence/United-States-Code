@@ -88,7 +88,7 @@ Subsec. (b). Pub. L. 99–145, §683(a)(1)(B), inserted reference to Navy.
 
 Subsec. (c). Pub. L. 99–145, §683(a)(1)(A), inserted reference to Navy and Marine Corps.
 
-Subsec. (d). Pub. L. 99–145, §683(a)(1)(C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be”.
+Subsec. (d). Pub. L. 99–145, §683(a)(1)(C), substituted “Secretary of the military department concerned” for“Secretary of the Army or the Secretary of the Air Force, as the case may be”.
 
 Subsec. (d)(1). Pub. L. 99–145, §683(a)(1)(A), inserted reference to Navy and Marine Corps.
 

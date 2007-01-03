@@ -100,7 +100,7 @@ For the amendments made by this section, referred to in subsec. (i), see Codific
 
 #### Codification
 
-Section is comprised of section 1018 of div. H of Pub. L. 108–7. Subsec. (h) of section 1018 of Pub. L. 108–7 amended sections 64–3 and 1901 of this title and repealed section 1921 of this title.
+Section is comprised of section 1018 of div. H of Pub. L. 108–7. Subsec. (h) of section 1018 of Pub. L. 108–7 amended sections 1901 and 1905a of this title and repealed section 1921 of this title.
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 

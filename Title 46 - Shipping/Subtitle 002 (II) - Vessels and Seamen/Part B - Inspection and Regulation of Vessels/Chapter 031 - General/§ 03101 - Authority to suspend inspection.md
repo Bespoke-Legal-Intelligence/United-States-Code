@@ -1,6 +1,6 @@
 ### §3101. Authority to suspend inspection
 
-When the President decides that the needs of foreign commerce require, the President may suspend a provision of this part for a foreign-built vessel registered as a vessel of the United States on conditions the President may specify.
+When the President decides that the needs of foreign commerce require, the President maysuspend a provision of this part for a foreign-built vessel registered as a vessel of the United States on conditions the President may specify.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510.)
 
@@ -18,7 +18,7 @@ Section 3101 provides the President with the authority to suspend the inspection
 
 #### Effective Date
 
-Section 2(g)(1) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Part B \[chapters 31 to 43\] of subtitle II and sections 7306 (related to able seaman sail) and 7311 of title 46 (as enacted by section 1 of this Act) take effect April 15, 1984, or when regulations for sailing school vessels under part B are effective, whichever is earlier.” \[Part B of subtitle II and sections 7306 (related to able seaman sail) and 7311 of title 46 effective Apr. 15, 1984, in absence of regulations for sailing school vessels under part B on that date.\]
+Pub. L. 98–89, §2(g)(1), Aug. 26, 1983, 97 Stat. 599, provided that: “Part B \[chapters 31 to 43\] of subtitle II and sections 7306 (related to able seaman sail) and 7311 of title 46 (as enacted by section 1 of this Act) take effect April 15, 1984, or when regulations for sailing school vessels under part B are effective, whichever is earlier.” \[Part B of subtitle II and sections 7306 (related to able seaman sail) and 7311 of title 46 effective Apr. 15, 1984, in absence of regulations for sailing school vessels under part B on that date.\]
 
 #### Delegation of Functions
 

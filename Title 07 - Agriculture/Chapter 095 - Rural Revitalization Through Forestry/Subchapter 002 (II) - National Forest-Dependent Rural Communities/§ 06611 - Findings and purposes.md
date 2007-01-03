@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the Forest Service has expertise and resources that could be directed to promote modernization and economic diversification of existing industries and services based on natural resources;
 
-&emsp;(6) the Forest Service has the technical expertise to provide leadership, in cooperation with other governmental agencies and the private sector, to assist rural communities dependent upon National Forest System land resources to upgrade existing industries and diversify by developing new economic activity in non-forest-related industries; and
+&emsp;(6) the Forest Service has the technical expertise to provide leadership, in cooperationwith other governmental agencies and the private sector, to assist rural communities dependent upon National Forest System land resources to upgrade existing industries and diversify by developing new economic activity in non-forest-related industries; and
 
 &emsp;(7) technical assistance, training, education, and other assistance provided by the Department of Agriculture can be targeted to provide immediate help to those rural communities in greatest need.
 

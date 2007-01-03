@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, in accordance with regulations which
 
 #### (d) Acceptance of relocation expenses from former employers by professional fellows program participants
 
-Notwithstanding any other provision of law, former employers of participants in the Commission's professional fellows programs may paysuch participants their actual expenses for relocation to Washington, District of Columbia, to facilitate their participation in such programs, and program participants may accept such payments.
+Notwithstanding any other provision of law, former employers of participants in the Commission's professional fellows programs may pay such participants their actual expenses for relocation to Washington, District of Columbia, to facilitate their participation in such programs, and program participants may accept such payments.
 
 #### (e) Fee payments
 

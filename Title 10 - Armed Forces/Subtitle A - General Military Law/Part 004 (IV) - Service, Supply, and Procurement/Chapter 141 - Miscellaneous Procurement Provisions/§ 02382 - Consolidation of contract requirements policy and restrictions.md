@@ -30,7 +30,7 @@ Limitation on Use of Acquisition Strategies Involving Consolidation.—(1) An of
 
 Definitions.—In this section:
 
-&emsp;(1) The terms “consolidation of contract requirements” and “consolidation”, with respect to contract requirements of a military department, Defense Agency, or Department of Defense Field Activity, mean a use of a solicitation to obtain offers for a single contract or a multiple award contract to satisfy two or more requirements of that department, agency, or activity for goods or services that have previously been provided to, or performed for, that department, agency, or activity under two or more separate contracts smaller in cost than the total cost of the contract for which the offers are solicited.
+&emsp;(1) The terms “consolidation of contract requirements” and “consolidation”, with respect to contract requirements of a military department, Defense Agency, or Department of Defense Field Activity, mean a use of a solicitation to obtain offers for a single contractor a multiple award contract to satisfy two or more requirements of that department, agency, or activity for goods or services that have previously been provided to, or performed for, that department, agency, or activity under two or more separate contracts smaller in cost than the total cost of the contract for which the offers are solicited.
 
 &emsp;(2) The term “multiple award contract” means—
 
@@ -42,21 +42,21 @@ Definitions.—In this section:
 
 &emsp;(3) The term “senior procurement executive concerned” means—
 
-&emsp;&emsp;(A) with respect to a military department, the official designated under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) <sup>1</sup> as the senior procurement executive for the military department; or
+&emsp;&emsp;(A) with respect to a military department, the official designated under section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)) as the senior procurement executive for the military department; or
 
 &emsp;&emsp;(B) with respect to a Defense Agency or a Department of Defense Field Activity, the official so designated for the Department of Defense.
 
 &emsp;(4) The term “small business concern” means a business concern that is determined by the Administrator of the Small Business Administration to be a small-business concern by application of the standards prescribed under section 3(a) of the Small Business Act (15 U.S.C. 632(a)).
 
-(Added Pub. L. 108–136, div. A, title VIII, §801(a)(1), Nov. 24, 2003, 117 Stat. 1538.)
-
-#### References in Text
-
-Section 16 of the Office of Federal Procurement Policy Act, referred to in subsec. (c)(3)(A), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of Title 41, Public Contracts.
+(Added Pub. L. 108–136, div. A, title VIII, §801(a)(1), Nov. 24, 2003, 117 Stat. 1538; amended Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
 
 #### Prior Provisions
 
 A prior section 2382, acts Aug. 10, 1956, ch. 1041, 70A Stat. 136; Dec. 1, 1981, Pub. L. 97–86, title IX, §911(a)(1), 95 Stat. 1120; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIV, §1484(b)(3), (f)(2), (g)(2), (h)(3), 104 Stat. 1716, 1717; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516, authorized the President, upon declaration of war by Congress or declaration of national emergency by the President or by Congress, to prescribe regulations to control excessive profits on defense contracts during period of such war or national emergency, prior to repeal by Pub. L. 103–355, title II, §2102(a), Oct. 13, 1994, 108 Stat. 3309.
+
+#### Amendments
+
+2006—Subsec. (c)(3)(A). Pub. L. 109–364 substituted “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” for “section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
 
 #### Effective Date
 
@@ -79,6 +79,4 @@ Pub. L. 108–136, div. A, title VIII, §801(b), Nov. 24, 2003, 117 Stat. 1540, 
 &emsp;“(A) The term ‘consolidation of contract requirements’ has the meaning given that term in section 2382(c)(1) of title 10, United States Code, as added by subsection (a).
 
 &emsp;“(B) The term ‘small business concern’ means a business concern that is determined by the Administrator of the Small Business Administration to be a small-business concern by application of the standards prescribed under section 3(a) of the Small Business Act (15 U.S.C. 632(a)).”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

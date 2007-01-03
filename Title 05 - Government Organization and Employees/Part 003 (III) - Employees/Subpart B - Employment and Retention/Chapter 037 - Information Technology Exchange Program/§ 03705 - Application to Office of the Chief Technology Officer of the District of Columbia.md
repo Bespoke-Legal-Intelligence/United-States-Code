@@ -16,7 +16,7 @@ Definition.—For purposes of this section, the term “Office of the Chief Tech
 
 #### References in Text
 
-The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsec. (b), is an act of the District of Columbia and is not classified to the Code.
+The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsec. (b),is an act of the District of Columbia and is not classified to the Code.
 
 The District of Columbia Campaign Finance Reform and Conflict of Interest Act, referred to in subsec. (b), is Pub. L. 93–376, Aug. 14, 1974, 88 Stat. 447, as amended, which is not classified to the Code.
 

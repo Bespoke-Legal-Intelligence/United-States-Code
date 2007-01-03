@@ -40,7 +40,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 #### (d) Automatic protections for lands conveyed pursuant to Alaska Native Claims Settlement Act
 
-(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\] or section 3192(h) of title 16 or other applicable law shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
+(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporationpursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\] or section 3192(h) of title 16 or other applicable law shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
 
 &emsp;(i) adverse possession and similar claims based upon estoppel;
 

@@ -138,7 +138,7 @@ Acres
 
 &emsp;&emsp;San Mateo
 
-61&nbsp;&nbsp;
+61  
 
 &emsp;&emsp;Sanostee
 

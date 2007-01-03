@@ -20,12 +20,15 @@
 | [2473\.](%C2%A7%2002473%20-%20Procurements%20from%20the%20small%20arms%20production%20industrial%20base.md) | Procurements from the small arms production industrial base. |
 | [2474\.](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md) | Centers of Industrial and Technical Excellence: designation; public-private partnerships. |
 | [2475\.](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md) | Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements. |
+| [2476\.](%C2%A7%2002476%20-%20Minimum%20capital%20investment%20for%20certain%20depots.md) | Minimum capital investment for certain depots. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title III, §341(g)(4), Jan. 6, 2006, 119 Stat. 3200, substituted “Public-private competition required” for “Commercial or industrial type functions: required studies and reports” in item 2461, “Development and implementation of system for monitoring cost saving resulting from public-private competitions” for “Development of system for monitoring cost savings resulting from workforce reductions” in item 2461a, and “Reports on public-private competition” for “Contracting for certain supplies and services required when cost is lower” in item 2462 and struck out item 2463 “Collection and retention of cost information data on converted services and functions”.
+2006—Pub. L. 109–364, div. A, title III, §332(b), Oct. 17, 2006, 120 Stat. 2150, added item 2476.
+
+Pub. L. 109–163, div. A, title III, §341(g)(4), Jan. 6, 2006, 119 Stat. 3200, substituted “Public-private competition required” for “Commercial or industrial type functions: required studies and reports” in item 2461, “Development and implementation of system for monitoring cost saving resulting from public-private competitions” for “Development of system for monitoring cost savings resulting from workforce reductions” in item 2461a, and “Reports on public-private competition” for “Contracting for certain supplies and services required when cost is lower” in item 2462 and struck out item 2463 “Collection and retention of cost information data on converted services and functions”.
 
 2004—Pub. L. 108–375, div. A, title III, §322(b)(2), Oct. 28, 2004, 118 Stat. 1846, substituted “Prohibition on management of depot employees by end strength” for “Management of depot employees” in item 2472.
 
@@ -78,3 +81,4 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02473 - Procurements from the small arms production industrial base](%C2%A7%2002473%20-%20Procurements%20from%20the%20small%20arms%20production%20industrial%20base.md)
 - [&sect; 02474 - Centers of Industrial and Technical Excellence designation; public-private partnerships](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md)
 - [&sect; 02475 - Consolidation, restructuring, or reengineering of organizations, functions, or activities notification requirements](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md)
+- [&sect; 02476 - Minimum capital investment for certain depots](%C2%A7%2002476%20-%20Minimum%20capital%20investment%20for%20certain%20depots.md)

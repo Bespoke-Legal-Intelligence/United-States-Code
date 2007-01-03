@@ -18,7 +18,7 @@ For the purpose of carrying out parts A and B of this subchapter, there are auth
 
 &emsp;(A) For the purpose of making allotments under section 300d–11(a) of this title, the Secretary shall, subject to subsection (c) of this section, make available 80 percent of the amounts appropriated for a fiscal year pursuant to subsection (a) of this section.
 
-&emsp;(B) Amounts paid to a State under section 300d–11(a) of this title for a fiscal year shall, for the purposes for which the amounts were paid, remain available for obligation until the end of the fiscal year immediately following the fiscal year for which the amounts were paid.
+&emsp;(B) Amounts paid to a State under section 300d–11(a) of this title for a fiscal year shall, for the purposes for which the amounts werepaid, remain available for obligation until the end of the fiscal year immediately following the fiscal year for which the amounts were paid.
 
 #### (c) Effect of insufficient appropriations for minimum allotments
 

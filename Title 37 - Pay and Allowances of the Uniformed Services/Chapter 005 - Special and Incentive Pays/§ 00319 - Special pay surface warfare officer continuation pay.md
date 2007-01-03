@@ -28,7 +28,7 @@ Additional Pay.—Any amount paid under this section is in addition to any other
 
 (f)
 
-Repayment.—An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty as a department head on a surface vessel as specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—An officer who, having entered into a written agreement under subsection\(b) and having received all or part of a bonus under this section, does not complete the period of active duty as a department head on a surface vessel as specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (g)
 

@@ -10,7 +10,7 @@ The Administrator shall approve an integrated resource plan submitted as require
 
 &emsp;(1) Identified and accurately compared all practicable energy efficiency and energy supply resource options available to the customer.
 
-&emsp;(2) Included a 2-year action plan and a 5-year action plan which describe specific actions the customer will take to implement its integrated resource plan.
+&emsp;(2) Included a 2-year action plan and a 5-year action plan which describe specific actions thecustomer will take to implement its integrated resource plan.
 
 &emsp;(3) Designated “least-cost options” to be utilized by the customer for the purpose of providing reliable electric service to its retail consumers and explained the reasons why such options were selected.
 

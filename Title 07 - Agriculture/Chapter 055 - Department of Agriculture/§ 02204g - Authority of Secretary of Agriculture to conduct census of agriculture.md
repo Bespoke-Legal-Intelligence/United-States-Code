@@ -16,7 +16,7 @@ The information collected in each census taken under this section shall relate t
 
 #### (1) Fraud
 
-&emsp;A person over 18 years of age who willfully gives an answer that is false to a question,which is authorized by the Secretary to be submitted to the person in connection with a census under this section, shall be fined not more than $500.
+&emsp;A person over 18 years of age who willfully gives an answer that is false to a question, which is authorized by the Secretary to be submitted to the person in connection with a census under this section, shall be fined not more than $500.
 
 #### (2) Refusal or neglect to answer questions
 

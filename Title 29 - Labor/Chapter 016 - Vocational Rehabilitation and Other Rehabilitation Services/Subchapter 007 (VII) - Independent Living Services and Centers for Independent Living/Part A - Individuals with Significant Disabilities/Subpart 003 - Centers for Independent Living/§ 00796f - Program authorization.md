@@ -52,7 +52,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of paragraph (1)(C), Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
+&emsp;&emsp;For the purposes of paragraph (1)(C), Guam, American Samoa, the United StatesVirgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
 
 #### (B) Allotment
 
@@ -68,7 +68,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (d) Reallotment
 
-Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Commissioner shall make such amountavailable for carrying out the provisions of this subpart to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Commissioner shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
 (Pub. L. 93–112, title VII, §721, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1226.)
 

@@ -10,11 +10,11 @@ Administrative and Contract Services.—(1) In furtherance of the national intel
 
 (2) Services provided under paragraph (1) may include the services of security police. For purposes of section 15 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403<i>o</i>), an installation of the National Geospatial-Intelligence Agency that is provided security police services under this section shall be considered an installation of the Central Intelligence Agency.
 
-(3) Support provided under this subsection shall be provided under terms and conditionsagreed upon by the Secretary of Defense and the Director of Central Intelligence.
+(3) Support provided under this subsection shall be provided under terms and conditions agreed upon by the Secretary of Defense and the Director of Central Intelligence.
 
 (c)
 
-Detail of Personnel.—The Director of Central Intelligence may detail personnel of the Central Intelligence Agency indefinitely to the National Geospatial-Intelligence Agency without regard to any limitation on the duration of interagency details of Federal Government personnel.
+Detail of Personnel.—The Director of Central Intelligence may detail personnel of theCentral Intelligence Agency indefinitely to the National Geospatial-Intelligence Agency without regard to any limitation on the duration of interagency details of Federal Government personnel.
 
 (d)
 
@@ -43,4 +43,6 @@ The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), i
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
+§445
 

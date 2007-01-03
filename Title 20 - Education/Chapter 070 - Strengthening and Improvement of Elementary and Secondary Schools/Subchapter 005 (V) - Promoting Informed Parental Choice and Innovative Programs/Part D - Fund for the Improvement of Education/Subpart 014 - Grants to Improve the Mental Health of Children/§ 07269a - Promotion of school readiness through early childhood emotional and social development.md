@@ -52,7 +52,7 @@ A local educational agency, local council, community-based organization, or othe
 
 #### (e) Evaluations
 
-The Secretary shall directly evaluate, or enter into a contract for an outside evaluation of,each program carried out under this section and shall disseminate the findings with respect to such evaluation to appropriate public and private entities.
+The Secretary shall directly evaluate, or enter into a contract for an outside evaluation of, each program carried out under this section and shall disseminate the findings with respect to such evaluation to appropriate public and private entities.
 
 #### (f) Definitions
 

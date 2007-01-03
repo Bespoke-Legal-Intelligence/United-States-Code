@@ -30,7 +30,33 @@ Marking Facilities.—On notification by an operator of a damage prevention prog
 
 Relationship to Other Laws.—This section and regulations prescribed under this section do not affect the liability established under a law of the United States or a State for damage caused by an activity described in subsection (a)(2) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §§3(b), 21(2), Dec. 17, 2002, 116 Stat. 2986, 3010.)
+(d)
+
+Prohibition Applicable to Excavators.—A person who engages in demolition, excavation, tunneling, or construction—
+
+&emsp;(1) may not engage in a demolition, excavation, tunneling, or construction activity in a State that has adopted a one-call notification system without first using that system to establish the location of underground facilities in the demolition, excavation, tunneling, or construction area;
+
+&emsp;(2) may not engage in such demolition, excavation, tunneling, or construction activity in disregard of location information or markings established by a pipeline facility operator pursuant to subsection (b); and
+
+&emsp;(3) and who causes damage to a pipeline facility that may endanger life or cause serious bodily harm or damage to property—
+
+&emsp;&emsp;(A) may not fail to promptly report the damage to the owner or operator of the facility; and
+
+&emsp;&emsp;(B) if the damage results in the escape of any flammable, toxic, or corrosive gas or liquid, may not fail to promptly report to other appropriate authorities by calling the 911 emergency telephone number.
+
+(e)
+
+Prohibition Applicable to Underground Pipeline Facility Owners and Operators.—Any owner or operator of a pipeline facility who fails to respond to a location request in order to prevent damage to the pipeline facility or who fails to take reasonable steps, in response to such a request, to ensure accurate marking of the location of the pipeline facility in order to prevent damage to the pipeline facility shall be subject to a civil action under section 60120 or assessment of a civil penalty under section 60122.
+
+(f)
+
+Limitation.—The Secretary may not conduct an enforcement proceeding under subsection (d) for a violation within the boundaries of a State that has the authority to impose penalties described in section 60134(b)(7) against persons who violate that State's damage prevention laws, unless the Secretary has determined that the State's enforcement is inadequate to protect safety, consistent with this chapter, and until the Secretary issues, through a rulemaking proceeding, the procedures for determining inadequate State enforcement of penalties.
+
+(g)
+
+Technology Development Grants.—The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage caused by demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §§3(b), 21(2), Dec. 17, 2002, 116 Stat. 2986, 3010; Pub. L. 109–468, §2(a)(1), (e), Dec. 29, 2006, 120 Stat. 3486, 3489.)
 
 Historical and Revision Notes
 
@@ -81,6 +107,8 @@ In subsection (d), before clause (1), the words “When apportioning the amount 
 This amends 49:60114(a)(9) to clarify the restatement of 49 App.:1687(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1319), because the requirement for substantially the same sanctions was not intended to include criminal penalties.
 
 #### Amendments
+
+2006—Subsecs. (d) to (g). Pub. L. 109–468 added subsecs. (d) to (g).
 
 2002—Subsec. (a)(2). Pub. L. 107–355, §3(b), inserted “, including a government employee or contractor,” after “person”.
 

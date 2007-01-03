@@ -20,7 +20,7 @@ Any payments by the Secretary under this section shall be subject to such other 
 
 #### (c) Availability of funds
 
-Notwithstanding any other provisions of law, the funds made available under this sectionshall remain available for expenditure for a period of time deemed reasonable by the Secretary, but in no case to exceed more than three fiscal years following the later of—
+Notwithstanding any other provisions of law, the funds made available under this section shall remain available for expenditure for a period of time deemed reasonable by the Secretary, but in no case to exceed more than three fiscal years following the later of—
 
 &emsp;(1) the fiscal year in which final agency action under section 1234a(e) of this title is taken; or
 

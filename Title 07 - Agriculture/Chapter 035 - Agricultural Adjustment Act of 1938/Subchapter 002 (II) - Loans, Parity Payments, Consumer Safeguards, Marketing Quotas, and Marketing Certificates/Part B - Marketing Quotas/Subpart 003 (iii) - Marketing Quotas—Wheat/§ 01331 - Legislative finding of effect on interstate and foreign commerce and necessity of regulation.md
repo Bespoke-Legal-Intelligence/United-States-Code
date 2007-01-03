@@ -34,7 +34,7 @@ Pub. L. 101–624, title III, §303, Nov. 28, 1990, 104 Stat. 3400, provided tha
 
 Pub. L. 99–198, title III, §310(b), Dec. 23, 1985, 99 Stat. 1395, provided that: “Sections 331, 339, 379b, and 379c of such Act \[the Agricultural Adjustment Act of 1938\] (7 U.S.C. 1331, 1339, 1379b, and 1379c) shall not be applicable to the 1986 through 1990 crops of wheat.”
 
-Pub. L. 97–98, title III, §303, Dec. 22, 1981, 95 Stat. 1227, provided that: “Sections 331, 332, 333, 334, 335, 336, 338,339, 379b, and 379c of the Agricultural Adjustment Act of 1938 \[this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title\] shall not be applicable to the 1982 through 1985 crops of wheat.”
+Pub. L. 97–98, title III, §303, Dec. 22, 1981, 95 Stat. 1227, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 \[this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title\] shall not be applicable to the 1982 through 1985 crops of wheat.”
 
 Pub. L. 95–113, title IV, §404, Sept. 29, 1977, 91 Stat. 927, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938, as amended \[this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title\], shall not be applicable to the 1978 through 1981 crops of wheat.”
 

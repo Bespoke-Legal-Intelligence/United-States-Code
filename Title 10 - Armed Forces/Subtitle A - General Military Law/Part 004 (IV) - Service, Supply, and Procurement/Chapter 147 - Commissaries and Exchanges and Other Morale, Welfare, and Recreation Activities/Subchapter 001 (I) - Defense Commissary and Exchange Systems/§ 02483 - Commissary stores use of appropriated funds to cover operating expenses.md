@@ -28,9 +28,9 @@ Supplemental Funds for Commissary Operations.—Amounts appropriated to cover th
 
 #### Prior Provisions
 
-A prior section 2483, added Pub. L. 107–107, div. A, title III, §332(a), Dec. 28, 2001, 115 Stat. 1058, related to reimbursement for use of commissary facilities by military departments, prior to repeal by Pub. L. 108–375, div. A, title VI, §651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
+A prior section 2483, added Pub. L. 107–107, div. A, title III, §332(a), Dec. 28, 2001, 115 Stat. 1058, related toreimbursement for use of commissary facilities by military departments, prior to repeal by Pub. L. 108–375, div. A, title VI, §651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
 
-Another prior section 2483 was renumbered section 2867 of this title.
+Another prior section 2483 was renumbered section 2916 of this title.
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 

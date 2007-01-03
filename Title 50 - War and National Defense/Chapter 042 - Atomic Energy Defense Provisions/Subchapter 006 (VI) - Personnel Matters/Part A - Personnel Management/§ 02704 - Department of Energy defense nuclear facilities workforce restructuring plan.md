@@ -44,11 +44,11 @@ In preparing the plan required under subsection (a), the Secretary shall be guid
 
 #### (d) Implementation
 
-The Secretary shall, subject to the availability of appropriations for such purpose, work on an ongoing basis with representatives of the Department of Labor, workforce bargaining units, and States and local communities in carrying out a plan required under subsection (a).
+The Secretary shall, subject to the availability of appropriations for such purpose, work on an ongoing basis with representatives of the Department of Labor, workforce bargaining units,and States and local communities in carrying out a plan required under subsection (a).
 
 #### (e) Plan updates
 
-Not later than one year after issuing a plan referred to in subsection (a) and on an annualbasis thereafter, the Secretary shall issue an update of the plan. Each updated plan under this subsection shall—
+Not later than one year after issuing a plan referred to in subsection (a) and on an annual basis thereafter, the Secretary shall issue an update of the plan. Each updated plan under this subsection shall—
 
 &emsp;(1) be guided by the objectives referred to in subsection (c), taking into account any changes in the function or mission of the Department of Energy defense nuclear facilities and any other changes in circumstances that the Secretary determines to be relevant;
 

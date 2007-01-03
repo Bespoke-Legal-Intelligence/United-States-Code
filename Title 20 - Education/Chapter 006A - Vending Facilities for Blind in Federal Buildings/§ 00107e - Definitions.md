@@ -22,7 +22,7 @@ As used in this chapter—
 
 #### Codification
 
-The content of Pub. L. 93–516, including provisions of sections 206 and 207 thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
+The content of Pub. L. 93–516, including provisions of sections 206 and 207 thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment ofthe 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
 Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
 
@@ -40,5 +40,5 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 “Secretary of Education” substituted for “Secretary of Health, Education, and Welfare” in par. (4) pursuant to sections 301(a)(4)(B) and 507 of Pub. L. 96–88 which are classified to sections 3441(a)(4)(B) and 3507 of this title and which transferred all functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
-For transfer of functions and offices of Secretary and Department of Health, Education, and Welfare, including Rehabilitation Services Administration and Commissioner thereof, to Secretary and Department ofEducation, and for delegation of certain functions of Secretary of Education under this chapter to Assistant Secretary for Special Education and Rehabilitative Services, see sections 3417 and 3441 of this title.
+For transfer of functions and offices of Secretary and Department of Health, Education, and Welfare, including Rehabilitation Services Administration and Commissioner thereof, to Secretary and Department of Education, and for delegation of certain functions of Secretary of Education under this chapter to Assistant Secretary for Special Education and Rehabilitative Services, see sections 3417 and 3441 of this title.
 

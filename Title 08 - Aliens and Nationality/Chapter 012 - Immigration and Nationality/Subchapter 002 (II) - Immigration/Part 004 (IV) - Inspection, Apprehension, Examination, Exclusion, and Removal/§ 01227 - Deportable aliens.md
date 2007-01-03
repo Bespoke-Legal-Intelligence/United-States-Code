@@ -66,7 +66,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;(II) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
 
-&emsp;&emsp;&emsp;(ii) is an alien who qualifies for classification under clause (iii) or (iv) of section 1154(a)(1)(A) of this title or clause (ii) or (iii) of section 1154(a)(1)(B) of this title.
+&emsp;&emsp;&emsp;(ii) is a VAWA self-petitioner.
 
 > &emsp;&emsp;A waiver of removal for fraud or misrepresentation granted under this subparagraph shall also operate to waive removal based on the grounds of inadmissibility directly resulting from such fraud or misrepresentation.
 
@@ -86,7 +86,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Multiple criminal convictions
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of two or more crimes involving moral turpitude, not arising out of a single scheme of criminal misconduct, regardless of whether confined thereforand regardless of whether the convictions were in a single trial, is deportable.
+&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of two or more crimes involving moral turpitude, not arising out of a single scheme of criminal misconduct, regardless of whether confined therefor and regardless of whether the convictions were in a single trial, is deportable.
 
 #### (iii) Aggravated felony
 
@@ -96,7 +96,11 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;Any alien who is convicted of a violation of section 758 of title 18 (relating to high speed flight from an immigration checkpoint) is deportable.
 
-#### (v) Waiver authorized
+#### (v) Failure to register as a sex offender
+
+&emsp;&emsp;&emsp;Any alien who is convicted under section 2250 of title 18 is deportable.
+
+#### (vi) Waiver authorized
 
 &emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has been granted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
 
@@ -256,7 +260,7 @@ An alien, admitted as a nonimmigrant under the provision of either section 1101(
 
 Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310.)
+(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763.)
 
 #### References in Text
 
@@ -282,7 +286,11 @@ A prior section 1227, acts June 27, 1952, ch. 477, title II, ch. 4, §237, 66 St
 
 #### Amendments
 
-2005—Subsec. (a)(4)(B). Pub. L. 109–13, §105(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any alien who has engaged, is engaged, or at any time afteradmission engages in any terrorist activity (as defined in section 1182(a)(3)(B)(iv) of this title) is deportable.”
+2006—Subsec. (a)(1)(H)(ii). Pub. L. 109–271 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is an alien who qualifies for classification under clause (iii) or (iv) of section 1154(a)(1)(A) of this title or clause (ii) or (iii) of section 1154(a)(1)(B) of this title.”
+
+Subsec. (a)(2)(A)(v), (vi). Pub. L. 109–248 added cl. (v) and redesignated former cl. (v) as (vi).
+
+2005—Subsec. (a)(4)(B). Pub. L. 109–13, §105(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any alien who has engaged, is engaged, or at any time after admission engages in any terrorist activity (as defined in section 1182(a)(3)(B)(iv) of this title) is deportable.”
 
 Subsec. (a)(4)(E). Pub. L. 109–13, §105(b), repealed Pub. L. 108–458, §5402. See 2004 Amendment note below.
 

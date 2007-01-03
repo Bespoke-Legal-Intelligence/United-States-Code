@@ -1,6 +1,6 @@
 ### §2101. Supreme Court; time for appeal or certiorari; docketing; stay
 
-(a) A direct appeal to the Supreme Court from any decision under section 1253 of this title,holding unconstitutional in whole or in part, any Act of Congress, shall be taken within thirty days after the entry of the interlocutory or final order, judgment or decree. The record shall be made up and the case docketed within sixty days from the time such appeal is taken under rules prescribed by the Supreme Court.
+(a) A direct appeal to the Supreme Court from any decision under section 1253 of this title, holding unconstitutional in whole or in part, any Act of Congress, shall be taken within thirty days after the entry of the interlocutory or final order, judgment or decree. The record shall be made up and the case docketed within sixty days from the time such appeal is taken under rules prescribed by the Supreme Court.
 
 (b) Any other direct appeal to the Supreme Court which is authorized by law, from a decision of a district court in any civil action, suit or proceeding, shall be taken within thirty days from the judgment, order or decree, appealed from, if interlocutory, and within sixty days if final.
 
@@ -30,7 +30,7 @@ Subsection (b) is in accord with sections 47 and 47a of title 28, U.S.C., 1940 e
 
 Subsection (c), with respect to the time for taking other appeals or petitioning for a writ of certiorari, substitutes, as more specific, the words “ninety days” for the words “three months” contained in section 350 of title 28, U.S.C., 1940 ed. The provision in said section 350 for allowance of additional time was retained, notwithstanding the language of the Supreme Court in <i>Comm'r v. Bedford's Estate</i>, 1945, 65 S.Ct. 1157, 1159, 325 U.S. 283, 89 L.Ed. 1611, to the effect that the 3 months’ period is “more than ample \* \* \* to determine whether to seek further review”.
 
-In subsection (c), words “in a civil action, suit, or proceeding” were added because section 350 of title 28, U.S.C., 1940 ed., was superseded as to criminal cases by Federal Rules of Criminal Procedure, Rule 39(a)(2), (b)(2).
+In subsection (c), words “in a civil action, suit, or proceeding” were added because section 350 of title 28,U.S.C., 1940 ed., was superseded as to criminal cases by Federal Rules of Criminal Procedure, Rule 39(a)(2), (b)(2).
 
 Words “or the United States Court of Appeals for the District of Columbia” in section 350 of title 28, U.S.C., 1940 ed., were omitted as covered by “court of appeals” in subsection (d) of this revised section.
 

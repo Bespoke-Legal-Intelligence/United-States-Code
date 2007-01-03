@@ -40,6 +40,70 @@ The word “supplies” is substituted for the words “coal, provisions, fodder
 
 Section 315(b) of Pub. L. 103–160 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to a vessel for which reflagging or repair work is necessary to be performed after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
+#### Obtaining Carriage by Vessel: Criterion Regarding Overhaul, Repair, and Maintenance of Vessels in the United States
+
+Pub. L. 109–364, div. A, title X, §1017, Oct. 17, 2006, 120 Stat. 2379, provided that:
+
+“(a)
+
+Acquisition Policy.—In order to maintain the national defense industrial base, the Secretary of Defense shall issue an acquisition policy that establishes, as a criterion required to be considered in obtaining carriage by vessel of cargo for the Department of Defense, the extent to which an offeror of such carriage had overhaul, repair, and maintenance work for covered vessels of the offeror performed in shipyards located in the United States.
+
+“(b)
+
+Covered Vessels.—A vessel is a covered vessel of an offeror under this section if the vessel is—
+
+&emsp;“(1) owned, operated, or controlled by the offeror; and
+
+&emsp;“(2) qualified to engage in the carriage of cargo in the coastwise or non-contiguous trade under section 27 of the Merchant Marine Act, 1920 (\[former\] 46 U.S.C. \[App.\] 883) \[see Disposition Table preceding section 101 of Title 46, Shipping\], section 12106 of title 46, United States Code, and section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802) \[see 46 U.S.C. 50501\].
+
+“(c)
+
+Application of Policy.—The acquisition policy shall include rules providing for application of the policy to covered vessels as expeditiously as is practicable based on the nature of carriage obtained, and by no later than June 1, 2007.
+
+“(d)
+
+Regulations.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall prescribe regulations as necessary to carry out the acquisition policy and submit such regulations to the Committees on Armed Services of the Senate and the House of Representatives, by not later than June 1, 2007.
+
+&emsp;“(2)
+
+Interim regulations.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary may prescribe interim regulations as necessary to carry out the acquisition policy. For this purpose, the Secretary is excepted from compliance with the notice and comment requirements of section 553 of title 5, United States Code.
+
+&emsp;&emsp;“(B)
+
+Submission to congress.—Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
+
+&emsp;&emsp;“(C)
+
+Expiration.—All interim regulations prescribed under the authority of this paragraph that are not earlier superseded by final regulations shall expire no later than June 1, 2007.
+
+“(e)
+
+Annual Report.—The Secretary, acting through the United States Transportation Command, shall annually submit to the Committees on Armed Services of the Senate and the House of Representatives a report regarding overhaul, repair, and maintenance performed on covered vessels of each offeror of carriage to which the acquisition policy applies.
+
+“(f)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Foreign shipyard.—The term ‘foreign shipyard’ means a shipyard that is not located in the United States.
+
+&emsp;“(2)
+
+United states.—The term ‘United States’ means—
+
+&emsp;&emsp;“(A) any State of the United States; and
+
+&emsp;&emsp;“(B) Guam.”
+
 #### Delegation of Authority Under the Cargo Preference Act
 
 Memorandum of the President of the United States, Aug. 7, 1985, 50 F.R. 36565, provided:

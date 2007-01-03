@@ -12,7 +12,7 @@ All contracts for labor or supplies necessary for the carrying on of operations 
 
 #### (d) Sale of Indian produced forest products
 
-The lumber and other forest products produced by Indian enterprises from the forests on Indian reservations may be sold under such regulations as the Secretary of the Interior may prescribe, without compliance with section 5 of this title.
+The lumber and other forest products produced by Indian enterprises from the forests on Indian reservations may be sold under such regulations as the Secretary of the Interior mayprescribe, without compliance with section 5 of this title.
 
 (June 24, 1940, ch. 412, 54 Stat. 504; Oct. 10, 1940, ch. 851, §3, 54 Stat. 1111.)
 

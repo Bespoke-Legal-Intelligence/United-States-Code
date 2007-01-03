@@ -12,7 +12,7 @@ In establishing the housing goal under this section, the Secretary shall conside
 
 &emsp;(2) economic, housing, and demographic conditions;
 
-&emsp;(3) the performance and efforts of the enterprises toward achieving the central cities,rural areas, and other underserved areas housing goal in previous years;
+&emsp;(3) the performance and efforts of the enterprises toward achieving the central cities, rural areas, and other underserved areas housing goal in previous years;
 
 &emsp;(4) the size of the conventional mortgage market for central cities, rural areas, and other underserved areas relative to the size of the overall conventional mortgage market;
 
@@ -32,7 +32,7 @@ The Secretary shall monitor the performance of each enterprise in carrying out t
 
 #### (2) Interim goal
 
-&emsp;During such 2-year period, the Secretary shall establish a separate annual goal for each enterprise, the achievement of which shall require—
+&emsp;During such 2-year period, the Secretary shall establish a separate annual goal for eachenterprise, the achievement of which shall require—
 
 &emsp;&emsp;(A) an enterprise that is not meeting the target under paragraph (1) upon January 1, 1993, to improve its performance relative to such target annually and, to the maximum extent feasible, to meet such target at the conclusion of such 2-year period; and
 

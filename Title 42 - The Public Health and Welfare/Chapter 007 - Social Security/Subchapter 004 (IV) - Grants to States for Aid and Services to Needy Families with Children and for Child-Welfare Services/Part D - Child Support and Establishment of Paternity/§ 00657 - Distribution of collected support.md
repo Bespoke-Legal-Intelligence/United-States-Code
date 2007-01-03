@@ -68,7 +68,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to thefamily to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
 
 #### (bb) Reimbursement of governments for assistance provided to the family
 
@@ -98,7 +98,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (3) Families that never received assistance
 
-&emsp;In the case of any other family, the State shall distribute the amount so collected to the family.
+&emsp;In the case of any other family, the State shall distribute to the family the portion of the amount so collected that remains after withholding any fee pursuant to section 654(6)(B)(ii) of this title.
 
 #### (4) Families under certain agreements
 
@@ -119,6 +119,26 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 #### (6) State option for applicability
 
 &emsp;Notwithstanding any other provision of this subsection, a State may elect to apply the rules described in clauses (i)(II), (ii)(II), and (v) of paragraph (2)(B) to support arrearages collected on and after October 1, 1998, and, if the State makes such an election, shall apply the provisions of this section, as in effect and applied on the day before August 22, 1996, other than subsection (b)(1) (as so in effect), to amounts collected before October 1, 1998.
+
+#### (7) State option to pass through additional support with Federal financial participation
+
+#### (A) Families that formerly received assistance
+
+&emsp;&emsp;Notwithstanding paragraph (2), a State shall not be required to pay to the Federal Government the Federal share of an amount collected on behalf of a family that formerly received assistance from the State to the extent that the State pays the amount to the family.
+
+#### (B) Families that currently receive assistance
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1), in the case of a family that receives assistance from the State, a State shall not be required to pay to the Federal Government the Federal share of the excepted portion (as defined in clause (ii)) of any amount collected on behalf of such family during a month to the extent that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the State pays the excepted portion to the family; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the excepted portion is disregarded in determining the amount and type of assistance provided to the family under such program.
+
+#### (ii) Excepted portion defined
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “excepted portion” means that portion of the amount collected on behalf of a family during a month that does not exceed $100 per month, or in the case of a family that includes 2 or more children, that does not exceed an amount established by the State that is not more than $200 per month.
 
 #### (b) Continuation of assignments
 
@@ -160,7 +180,7 @@ At State option, this section shall not apply to any amount collected on behalf 
 
 Notwithstanding the preceding provisions of this section, amounts collected by a State as child support for months in any period on behalf of a child for whom a public agency is making foster care maintenance payments under part E of this subchapter—
 
-&emsp;(1) shall be retained by the State to the extent necessary to reimburse it for the foster care maintenance payments made with respectto the child during such period (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing);
+&emsp;(1) shall be retained by the State to the extent necessary to reimburse it for the foster care maintenance payments made with respect to the child during such period (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing);
 
 &emsp;(2) shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child's future needs or making all or a part thereof available to the person responsible for meeting the child's day-to-day needs; and
 
@@ -168,7 +188,101 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
-(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, 120 Stat. 141–143, 147.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–171, title VII, §7301(b)(1)(A), (2), (c), (e), Feb. 8, 2006, 120 Stat. 141, 143, 144, pro</i><i>vided that, effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter for calendar quarters beginning on or after such date, subject to certain State options, this section is amended as follows:</i>
+
+<i>(1) by amending subsection (a) to read as follows:</i>
+
+#### <i>“(a) In general</i>
+
+<i>“Subject to subsections (d) and (e), the amounts collected on behalf of a family as support by a State pursuant to a plan approved under this part shall be distributed as follows:</i>
+
+#### <i>“(1) Families receiving assistance</i>
+
+&emsp;<i>“In the case of a family receiving assistance from the State, the State shall—</i>
+
+&emsp;&emsp;<i>“(A) pay to the Federal Government the Federal share of the amount collected, subject to paragraph (3)(A);</i>
+
+&emsp;&emsp;<i>“(B) retain, or pay to the family, the State share of the amount collected, subject to paragraph (3)(B); and</i>
+
+&emsp;&emsp;<i>“(C) pay to the family any remaining amount.</i>
+
+#### <i>“(2) Families that formerly received assistance</i>
+
+&emsp;<i>“In the case of a family that formerly received assistance from the State:</i>
+
+#### <i>“(A) Current support</i>
+
+&emsp;&emsp;<i>“To the extent that the amount collected does not exceed the current support amount, the State shall pay the amount to the family.</i>
+
+#### <i>“(B) Arrearages</i>
+
+&emsp;&emsp;<i>“Except as otherwise provided in an election made under section 654(34) of this title, to the extent that the amount collected exceeds the current support amount, the State—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) shall first pay to the family the excess amount, to the extent necessary to satisfy support arrearages not assigned pursuant to section 608(a)(3) of this title;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) if the amount collected exceeds the amount required to be paid to the family under clause (i), shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) pay to the Federal Government the Federal share of the excess amount described in this clause, subject to paragraph (3)(A); and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) retain, or pay to the family, the State share of the excess amount described in this clause, subject to paragraph (3)(B); and</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) shall pay to the family any remaining amount.</i>
+
+#### <i>“(3) Limitations</i>
+
+#### <i>“(A) Federal reimbursements</i>
+
+&emsp;&emsp;<i>“The total of the amounts paid by the State to the Federal Government under paragraphs (1) and (2) of this subsection with respect to a family shall not exceed the Federal share of the amount assigned with respect to the family pursuant to section 608(a)(3) of this title.</i>
+
+#### <i>“(B) State reimbursements</i>
+
+&emsp;&emsp;<i>“The total of the amounts retained by the State under paragraphs (1) and (2) of this subsection with respect to a family shall not exceed the State share of the amount assigned with respect to the family pursuant to section 608(a)(3) of this title.</i>
+
+#### <i>“(4) Families that never received assistance</i>
+
+&emsp;<i>“In the case of any other family, the State shall distribute to the family the portion of the amount so collected that remains after withholding any fee pursuant to section 654(6)(B)(ii) of this title.</i>
+
+#### <i>“(5) Families under certain agreements</i>
+
+&emsp;<i>“Notwithstanding paragraphs (1) through (3), in the case of an amount collected for a family in accordance with a cooperative agreement under section 654(33) of this title, the State shall distribute the amount collected pursuant to the terms of the agreement.”;</i>
+
+<i>(2) by amending subsection (b) to read as follows:</i>
+
+#### <i>“(b) Continuation of assignments</i>
+
+#### <i>“(1) State option to discontinue pre-1997 support assignments</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“Any rights to support obligations assigned to a State as a condition of receiving assistance from the State under part A and in effect on September 30, 1997 (or such earlier date on or after August 22, 1996, as the State may choose), may remain assigned after such date.</i>
+
+#### <i>“(B) Distribution of amounts after assignment discontinuation</i>
+
+&emsp;&emsp;<i>“If a State chooses to discontinue the assignment of a support obligation described in subparagraph (A), the State may treat amounts collected pursuant to the assignment as if the amounts had never been assigned and may distribute the amounts to the family in accordance with subsection (a)(4).</i>
+
+#### <i>“(2) State option to discontinue post-1997 assignments</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of this section may remain assigned after such date.</i>
+
+#### <i>“(B) Distribution of amounts after assignment discontinuation</i>
+
+&emsp;&emsp;<i>“If a State chooses to discontinue the assignment of a support obligation described in subparagraph (A), the State may treat amounts collected pursuant to the assignment as if the amounts had never been assigned and may distribute the amounts to the family in accordance with subsection (a)(4).”; and</i>
+
+<i>(3) by amending subsection (c) to add a new paragraph (5) at the end to read as follows:</i>
+
+#### <i>“(5) Current support amount</i>
+
+&emsp;<i>“The term ‘current support amount’ means, with respect to amounts collected as support on behalf of a family, the amount designated as the monthly support obligation of the noncustodial parent in the order requiring the support or calculated by the State based on the order.”</i>
+
+#### Amendment of Subsection (a)(7)
+
+<i>Pub. L. 109–171, title VII, §7301(b)(1)(B)(iii), Feb. 8, 2006, 120 Stat. 143, provided that, effective Oct. 1, 2009, paragraph (7) of subsection (a) of this section is redesignated as paragraph (6).</i>
 
 #### References in Text
 
@@ -177,6 +291,10 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 Parts A and E of this subchapter, referred to in subsecs. (b), (c)(1), and (e), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of any other family, the State shall distribute the amount so collected to the family.”
+
+Subsec. (a)(7). Pub. L. 109–171, §7301(b)(1)(B)(i), added par. (7).
 
 1999—Subsec. (a). Pub. L. 106–169, §301(c)(1), substituted “subsections (d) and (e)” for “subsections (e) and (f)” in introductory provisions.
 
@@ -244,7 +362,7 @@ Subsec. (c). Pub. L. 99–514, §1883(b)(6), substituted “subsection (b)(4)(A)
 
 Subsec. (b)(1). Pub. L. 98–369, §2640(b)(1), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 98–369, §2640(b)(1), (2)(A), redesignated former par. (1) as (2), and inserted “which are in excess of any amount paid to the family under paragraph (1) and”. Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 98–369, §2640(b)(1), (2)(A), redesignated former par. (1) as (2), and inserted “which arein excess of any amount paid to the family under paragraph (1) and”. Former par. (2) redesignated (3).
 
 Subsec. (b)(3). Pub. L. 98–369, §2640(b)(1), (2)(B), redesignated former par. (2) as (3), and substituted “paragraph (2)” for “paragraph (1)”. Former par. (3) redesignated (4).
 
@@ -261,6 +379,16 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
 
 1977—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represent monthly support payments,” after “amounts so collected”; in par. (2), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represents monthly support payments,” after “amount so collected”; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 7301(b)(1)(A), (2), (c) of Pub. L. 109–171 effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter for calendar quarters beginning on or after such date, subject to certain State options, see section 7301(e) of Pub. L. 109–171, set out as a note under section 608 of this title.
+
+Pub. L. 109–171, title VII, §7301(b)(1)(B)(ii), Feb. 8, 2006, 120 Stat. 143, provided that: “The amendment made by clause (i) \[amending this section\] shall take effect on October 1, 2008.”
+
+Pub. L. 109–171, title VII, §7301(b)(1)(B)(iii), Feb. 8, 2006, 120 Stat. 143, provided that the amendment made by section 7301(b)(1)(B)(iii) is effective Oct. 1, 2009.
+
+Amendment by section 7310(b) of Pub. L. 109–171 effective Oct. 1, 2006, see section 7310(c) of Pub. L. 109–171, set out as a note under section 654 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -302,7 +430,7 @@ Section 1899(b) of Pub. L. 99–514 provided that: “The amendment made by this
 
 Section 7(b) of Pub. L. 98–378 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1984.”
 
-Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made onor after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
+Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
 Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
 

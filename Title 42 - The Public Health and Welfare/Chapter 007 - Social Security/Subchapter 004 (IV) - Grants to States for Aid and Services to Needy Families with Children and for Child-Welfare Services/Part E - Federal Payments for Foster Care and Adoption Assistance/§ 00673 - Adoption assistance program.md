@@ -10,23 +10,37 @@
 
 &emsp;(ii) in any case where the child meets the requirements of paragraph (2), may make adoption assistance payments to such parents, directly through the State agency or through another public or nonprofit private agency, in amounts so determined.
 
-(2) For purposes of paragraph (1)(B)(ii), a child meets the requirements of this paragraph if such child—
+(2)(A) For purposes of paragraph (1)(B)(ii), a child meets the requirements of this paragraph if the child—
 
-&emsp;(A)(i) at the time adoption proceedings were initiated, met the requirements of section 606(a) of this title or section 607 of this title (as such sections were in effect on July 16, 1996) or would have met such requirements except for his removal from the home of a relative (specified in section 606(a) of this title (as so in effect)), either pursuant to a voluntary placement agreement with respect to which Federal payments are provided under section 674 (or 603 (as such section was in effect on July 16, 1996)) of this title or as a result of a judicial determination to the effect that continuation therein would be contrary to the welfare of such child,
+&emsp;(i)(I)(aa) was removed from the home of a relative specified in section 606(a) of this title (as in effect on July 16, 1996) and placed in foster care in accordance with a voluntary placement agreement with respect to which Federal payments are provided under section 674 of this title (or section 603 of this title, as such section was in effect on July 16, 1996), or in accordance with a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child; and
 
-&emsp;(ii) meets all of the requirements of subchapter XVI of this chapter with respect to eligibility for supplemental security income benefits, or
+&emsp;(bb) met the requirements of section 672(a)(3) of this title with respect to the home referred to in item (aa) of this subclause;
 
-&emsp;(iii) is a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent as provided in section 675(4)(B) of this title,
+&emsp;(II) meets all of the requirements of subchapter XVI with respect to eligibility for supplemental security income benefits; or
 
-&emsp;(B)(i) would have received aid under the State plan approved under section 602 of this title (as in effect on July 16, 1996) in or for the month in which such agreement was entered into or court proceedings leading to the removal of such child from the home were initiated, or
+&emsp;(III) is a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to the minor parent of the child as provided in section 675(4)(B) of this title; and
 
-&emsp;(ii)(I) would have received such aid in or for such month if application had been made therefor, or (II) had been living with a relative specified in section 606(a) of this title (as in effect on July 16, 1996) within six months prior to the month in which such agreement was entered into or such proceedings were initiated, and would have received such aid in or for such month if in such month he had been living with such a relative and application therefor had been made, or
+&emsp;(ii) has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs.
 
-&emsp;(iii) is a child described in subparagraph (A)(ii) or (A)(iii), and
+(B) Section 672(a)(4) of this title shall apply for purposes of subparagraph (A) of this paragraph, in any case in which the child is an alien described in such section.
 
-&emsp;(C) has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs.
+(C) A child shall be treated as meeting the requirements of this paragraph for the purpose of paragraph (1)(B)(ii) if the child—
 
-> The last sentence of section 672(a) of this title shall apply, for purposes of subparagraph (B), in any case where the child is an alien described in that sentence. Any child who meets the requirements of subparagraph (C), who was determined eligible for adoption assistance payments under this part with respect to a prior adoption, who is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died, and who fails to meet the requirements of subparagraphs (A) and (B) but would meet such requirements if the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part and the prior adoption were treated as never having occurred, shall be treated as meeting the requirements of this paragraph for purposes of paragraph (1)(B)(ii).
+&emsp;(i) meets the requirements of subparagraph (A)(ii);
+
+&emsp;(ii) was determined eligible for adoption assistance payments under this part with respect to a prior adoption;
+
+&emsp;(iii) is available for adoption because—
+
+&emsp;&emsp;(I) the prior adoption has been dissolved, and the parental rights of the adoptive parents have been terminated; or
+
+&emsp;&emsp;(II) the child's adoptive parents have died; and
+
+&emsp;(iv) fails to meet the requirements of subparagraph (A) but would meet such requirements if—
+
+&emsp;&emsp;(I) the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part; and
+
+&emsp;&emsp;(II) the prior adoption were treated as never having occurred.
 
 (3) The amount of the payments to be made in any case under clauses (i) and (ii) of paragraph (1)(B) shall be determined through agreement between the adoptive parents and the State or local agency administering the program under this section, which shall take into consideration the circumstances of the adopting parents and the needs of the child being adopted, and may be readjusted periodically, with the concurrence of the adopting parents (which may be specified in the adoption assistance agreement), depending upon changes in such circumstances. However, in no case may the amount of the adoption assistance payment made under clause (ii) of paragraph (1)(B) exceed the foster care maintenance payment which would have been paid during the period if the child with respect to whom the adoption assistance payment is made had been in a foster family home.
 
@@ -62,7 +76,7 @@ For purposes of this section, a child shall not be considered a child with speci
 
 &emsp;(2) the State had first determined (A) that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter, and (B) that, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable, but unsuccessful, effort has been made to place the child with appropriate adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter.
 
-(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133.)
+(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153.)
 
 #### References in Text
 
@@ -70,7 +84,9 @@ Part A of this subchapter, referred to in subsec. (b)(1), (2), is classified to 
 
 #### Amendments
 
-1997—Subsec. (a)(2). Pub. L. 105–89 inserted at end “Any child who meets the requirements of subparagraph (C), who was determined eligible for adoption assistance payments under this part with respect to a prior adoption, who is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated orbecause the child's adoptive parents have died, and who fails to meet the requirements of subparagraphs (A) and (B) but would meet such requirements if the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part and the prior adoption were treated as never having occurred, shall be treated as meeting the requirements of this paragraph for purposes of paragraph (1)(B)(ii).”
+2006—Subsec. (a)(2). Pub. L. 109–171 amended par. (2) generally. Prior to amendment, par. (2) contained provisions relating to criteria used for determining whether a child met the requirements of par. (2) for purposes of par. (1)(B)(ii).
+
+1997—Subsec. (a)(2). Pub. L. 105–89 inserted at end “Any child who meets the requirements of subparagraph (C), who was determined eligible for adoption assistance payments under this part with respect to a prior adoption, who is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died, and who fails to meet the requirements of subparagraphs (A) and (B) but would meet such requirements if the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part and the prior adoption were treated as never having occurred, shall be treated as meeting the requirements of this paragraph for purposes of paragraph (1)(B)(ii).”
 
 Pub. L. 105–33, §5513(b)(3), substituted “July 16, 1996” for “June 1, 1995” wherever appearing.
 
@@ -123,6 +139,10 @@ Subsec. (b)(1)(A). Pub. L. 99–514, §1711(c)(5), substituted “subsection (a)
 Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted “without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter” for “without providing adoption assistance”, and inserted “or medical assistance under subchapter XIX of this chapter” after “appropriate adoptive parents without providing adoption assistance under this section”.
 
 1980—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 1997 Amendments
 

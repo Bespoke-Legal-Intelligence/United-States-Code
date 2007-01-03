@@ -4,14 +4,18 @@
 | :--- | ---: |
 | [2101\.](%C2%A7%2002101%20-%20Veterans%20eligible%20for%20assistance.md) | Veterans eligible for assistance. |
 | [2102\.](%C2%A7%2002102%20-%20Limitations%20on%20assistance%20furnished.md) | Limitations on assistance furnished. |
+| [2102A.](%C2%A7%2002102A%20-%20Assistance%20for%20veterans%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md) | Assistance for veterans residing temporarily in housing owned by a family member. |
 | [2103\.](%C2%A7%2002103%20-%20Furnishing%20of%20plans%20and%20specifications.md) | Furnishing of plans and specifications. |
 | [2104\.](%C2%A7%2002104%20-%20Benefits%20additional%20to%20benefits%20under%20other%20laws.md) | Benefits additional to benefits under other laws. |
 | [2105\.](%C2%A7%2002105%20-%20Nonliability%20of%20United%20States.md) | Nonliability of United States. |
 | [2106\.](%C2%A7%2002106%20-%20Veterans%E2%80%99%20mortgage%20life%20insurance.md) | Veterans’ mortgage life insurance. |
+| [2107\.](%C2%A7%2002107%20-%20Coordination%20of%20administration%20of%20benefits.md) | Coordination of administration of benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–233, title I, §101(d), June 15, 2006, 120 Stat. 399, added items 2102A and 2107.
 
 1992—Pub. L. 102–568, title II, §204(b), Oct. 29, 1992, 106 Stat. 4325, substituted “Veterans’ ” for “Veteran's” in item 2106.
 
@@ -28,7 +32,9 @@
 
 - [&sect; 02101 - Veterans eligible for assistance](%C2%A7%2002101%20-%20Veterans%20eligible%20for%20assistance.md)
 - [&sect; 02102 - Limitations on assistance furnished](%C2%A7%2002102%20-%20Limitations%20on%20assistance%20furnished.md)
+- [&sect; 02102A - Assistance for veterans residing temporarily in housing owned by a family member](%C2%A7%2002102A%20-%20Assistance%20for%20veterans%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md)
 - [&sect; 02103 - Furnishing of plans and specifications](%C2%A7%2002103%20-%20Furnishing%20of%20plans%20and%20specifications.md)
 - [&sect; 02104 - Benefits additional to benefits under other laws](%C2%A7%2002104%20-%20Benefits%20additional%20to%20benefits%20under%20other%20laws.md)
 - [&sect; 02105 - Nonliability of United States](%C2%A7%2002105%20-%20Nonliability%20of%20United%20States.md)
 - [&sect; 02106 - Veterans&#8217; mortgage life insurance](%C2%A7%2002106%20-%20Veterans%E2%80%99%20mortgage%20life%20insurance.md)
+- [&sect; 02107 - Coordination of administration of benefits](%C2%A7%2002107%20-%20Coordination%20of%20administration%20of%20benefits.md)

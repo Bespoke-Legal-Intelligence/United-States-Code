@@ -18,7 +18,7 @@ Whoever violates any provision of law to which this section is made applicable b
 
 &emsp;(A) If any person derives pecuniary gain from the violation, or if the violation results in pecuniary loss to a person other than the violator, the amount of the civil penalty may exceed the amounts described in paragraphs (1) and (2) but may not exceed the amount of such gain or loss.
 
-&emsp;(B) As used in this paragraph, the term “person” includes the Bank Insurance Fund, the Savings Association Insurance Fund, and the National Credit Union Share Insurance Fund.
+&emsp;(B) As used in this paragraph, the term “person” includes the Bank Insurance Fund, the Savings Association Insurance Fund, and after the merger of such funds, the Deposit Insurance Fund, and the National Credit Union Share Insurance Fund.
 
 #### (c) Violations to which penalty is applicable
 
@@ -52,7 +52,7 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 &emsp;&emsp;(B) take evidence; and
 
-&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers, correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
+&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers,correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
 
 #### (2) Procedures applicable
 
@@ -66,17 +66,17 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 A civil action under this section may not be commenced later than 10 years after the cause of action accrues.
 
-(Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 104–208, div. A, title II, §2704(d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 107–100, §4(b), Dec. 21, 2001, 115 Stat. 966; Pub. L. 109–173, §9(g)(1), Feb. 15, 2006, 119 Stat. 3618.)
-
-#### Amendment of Subsection (b)(3)(B)
-
-<i>Pub. L. 109–173, §9(g)(1), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (b)(3)(B) of this section is amended by inserting “and after the merger of such funds, the Deposit Insurance Fund,” after “the Savings Association Insurance Fund,”.</i>
+(Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 104–208, div. A, title II, §2704(d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 107–100, §4(b), Dec. 21, 2001, 115 Stat. 966; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(1), Feb. 15, 2006, 119 Stat. 3618.)
 
 #### Codification
 
 Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 #### Amendments
+
+2006—Subsec. (b)(3)(B). Pub. L. 109–173 inserted “and after the merger of such funds, the Deposit Insurance Fund,” after “the Savings Association Insurance Fund,”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(15)(A). See 1996 Amendment note below.
 
 2001—Subsec. (c). Pub. L. 107–100, §4(b)(2)(D), designated concluding provisions as (d) and inserted heading.
 
@@ -86,7 +86,7 @@ Subsec. (c)(3). Pub. L. 107–100, §4(b)(2)(A), (B)(ii), (C), added par. (3).
 
 Subsec. (d) to (h). Pub. L. 107–100, §4(b)(1), (2)(D), designated concluding provisions of subsec. (c) as (d), inserted heading, and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
 
-1996—Subsec. (b)(3)(B). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was not executed. See Effective Date of 1996 Amendment note below.
+1996—Subsec. (b)(3)(B). Pub. L. 104–208, §2704(d)(15)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (c). Pub. L. 103–322 amended directory language of Pub. L. 101–647, §2596(d). See 1990 Amendment note below.
 
@@ -100,9 +100,11 @@ Subsec. (g). Pub. L. 101–647, §2533, added subsec. (g).
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Modification of projects
 
-The Secretary is authorized to provide for modifications of the projects authorized by this subchapter as determined to be appropriate for purposes of meeting the objective of this subchapter. No funds for any such modification shall be expended until the expiration of sixty days after the proposed modification has been submitted to appropriate committees of the Congress, except that funds may be expendedprior to the expiration of such sixty days in any case in which the Congress approves an earlier date by concurrent resolution. The Governors of the Colorado River Basin States shall be notified of these changes.
+The Secretary is authorized to provide for modifications of the projects authorized by this subchapter as determined to be appropriate for purposes of meeting the objective of this subchapter. No funds for any such modification shall be expended until the expiration of sixty days after the proposed modification has been submitted to appropriate committees of the Congress, except that funds may be expended prior to the expiration of such sixty days in any case in which the Congress approves an earlier date by concurrent resolution. The Governors of the Colorado River Basin States shall be notified of these changes.
 
 #### (b) Contract authority; authorization of appropriations
 
@@ -20,7 +20,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-2000—Subsec.(c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title” for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
+2000—Subsec. (c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title” for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
 
 1995—Subsec. (c). Pub. L. 104–20 added subsec. (c).
 

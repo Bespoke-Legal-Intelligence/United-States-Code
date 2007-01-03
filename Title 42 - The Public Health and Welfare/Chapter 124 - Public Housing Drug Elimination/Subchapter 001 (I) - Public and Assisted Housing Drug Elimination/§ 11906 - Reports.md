@@ -8,13 +8,13 @@ The Secretary shall require grantees under this subchapter to provide periodic r
 
 The Secretary shall submit a report to the Congress not later than 18 months after October 21, 1998, describing the system used to distribute funding to grantees under this section, which shall include descriptions of—
 
-&emsp;(1) the methodology used to distribute amounts made available under this subchapter among public housing agencies, including provisions used to provide for renewals of ongoing programs funded under this subchapter; and
+&emsp;(1) the methodology used to distribute amounts made available under this subchapteramong public housing agencies, including provisions used to provide for renewals of ongoing programs funded under this subchapter; and
 
 &emsp;(2) actions taken by the Secretary to ensure that amounts made available under this subchapter are not used to fund baseline local government services, as described in section 11907(b) of this title.
 
 #### (c) Notice of funding awards
 
-The Secretary shall cause to be published in the Federal Register notice of all grant awardsmade pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.
+The Secretary shall cause to be published in the Federal Register notice of all grant awards made pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.
 
 (Pub. L. 100–690, title V, §5127, as added Pub. L. 105–276, title V, §586(g), Oct. 21, 1998, 112 Stat. 2649.)
 

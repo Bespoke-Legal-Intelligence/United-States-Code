@@ -30,7 +30,7 @@ Ten-Month Clearance Percentage.—Of the applications received by a Corrections 
 
 &nbsp;&nbsp;the period of fiscal years 2005, 2006, and     2007
 
-70  
+70&nbsp;&nbsp;
 
 &nbsp;&nbsp;the period of fiscal years 2008, 2009, and     2010
 

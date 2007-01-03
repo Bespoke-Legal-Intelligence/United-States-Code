@@ -8,7 +8,7 @@
 
 &emsp;(B) attract recent graduates of secondary schools to enter an occupation involving the operation and maintenance of treatment works.
 
-(3) The Administrator shall approve a program of any institution of higher education for thepurposes of this section only upon application by the institution and only upon his finding—
+(3) The Administrator shall approve a program of any institution of higher education for the purposes of this section only upon application by the institution and only upon his finding—
 
 &emsp;(A) that such program has a principal objective the education and training of persons in the operation and maintenance of treatment works;
 

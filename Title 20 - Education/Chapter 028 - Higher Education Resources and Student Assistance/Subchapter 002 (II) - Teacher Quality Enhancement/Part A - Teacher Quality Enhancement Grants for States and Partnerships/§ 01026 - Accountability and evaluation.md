@@ -78,11 +78,11 @@ Each eligible partnership receiving a grant under section 1023 of this title sha
 
 #### (A) Eligible States and eligible applicants
 
-&emsp;&emsp;If the Secretary determines that an eligible State or eligible applicant is not making substantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the second year of a grant under this part, then the grant payment shall not be made for the third year of the grant.
+&emsp;&emsp;If the Secretary determines that an eligible State or eligible applicant is not makingsubstantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the second year of a grant under this part, then the grant payment shall not be made for the third year of the grant.
 
 #### (B) Eligible partnerships
 
-&emsp;&emsp;If the Secretary determines that an eligible partnership is not making substantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the third year of a grant underthis part, then the grant payments shall not be made for any succeeding year of the grant.
+&emsp;&emsp;If the Secretary determines that an eligible partnership is not making substantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the third year of a grant under this part, then the grant payments shall not be made for any succeeding year of the grant.
 
 #### (d) Evaluation and dissemination
 

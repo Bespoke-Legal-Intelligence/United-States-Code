@@ -18,11 +18,11 @@ In this chapter:
 
 &emsp;(8) The term “military” refers to any or all of the armed forces.
 
-&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed andsworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
+&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
 
 &emsp;(10) The term “military judge” means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
 
-&emsp;(11) The term “law specialist” means a commissioned officer of the Coast Guard designated for special duty (law).
+&emsp;\[(11) Repealed. Pub. L. 109–241, title II, §218(a)(1), July 11, 2006, 120 Stat. 526.\]
 
 &emsp;(12) The term “legal officer” means any commissioned officer of the Navy, Marine Corps, or Coast Guard designated to perform legal duties for a command.
 
@@ -32,7 +32,7 @@ In this chapter:
 
 &emsp;&emsp;(B) an officer of the Air Force or the Marine Corps who is designated as a judge advocate; or
 
-&emsp;&emsp;(C) an officer of the Coast Guard who is designated as a law specialist.
+&emsp;&emsp;(C) a commissioned officer of the Coast Guard designated for special duty (law).
 
 &emsp;(14) The term “record”, when used in connection with the proceedings of a court-martial, means—
 
@@ -44,7 +44,7 @@ In this chapter:
 
 &emsp;(16) The term “national security” means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526.)
 
 Historical and Revision Notes
 
@@ -80,6 +80,10 @@ In clause (12), the words “Marine Corps” are inserted to make explicit that 
 
 #### Amendments
 
+2006—Cl. (11). Pub. L. 109–241, §218(a)(1), struck out cl. (11) which read as follows: “The term ‘law specialist’ means a commissioned officer of the Coast Guard designated for special duty (law).”
+
+Cl. (13)(C). Pub. L. 109–241, §218(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “an officer of the Coast Guard who is designated as a law specialist.”
+
 2002—Cl. (1). Pub. L. 107–296 substituted “an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security” for “the General Counsel of the Department of Transportation”.
 
 1996—Cls. (15), (16). Pub. L. 104–106 added cls. (15) and (16).
@@ -110,7 +114,7 @@ Section 12(a) of Pub. L. 98–209 provided that:
 
 “(1) The amendments made by this Act \[see Short Title of 1983 Amendment note below\] shall take effect on the first day of the eighth calendar month that begins after the date of enactment of this Act \[Dec. 6, 1983\], except that the amendments made by sections 9, 11 and 13 \[amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under section 867 of this title\] shall be effective on the date of the enactment of this Act. The amendments made by section 11 \[amending sections 1552 and 1553 of this title\] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
 
-“(2) The amendments made by section 3(c) and 3(e) \[amending sections 826, 827, and 838 of this title\] do notaffect the designation or detail of a military judge or military counsel to a court-martial before the effective date of such amendments.
+“(2) The amendments made by section 3(c) and 3(e) \[amending sections 826, 827, and 838 of this title\] do not affect the designation or detail of a military judge or military counsel to a court-martial before the effective date of such amendments.
 
 “(3) The amendments made by section 4 \[amending section 834 of this title\] shall not apply to any case in which charges were referred to trial before the effective date of such amendments, and proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted.
 
@@ -154,7 +158,7 @@ Pub. L. 97–81, §1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: “This Ac
 
 #### Short Title of 1968 Amendment
 
-Section 1 of Pub. L. 90–632 provided: “That this Act \[amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the ‘Military Justice Act of 1968’.”
+Section 1 of Pub. L. 90–632 provided: “That this Act \[amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845,849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the ‘Military Justice Act of 1968’.”
 
 #### Redesignation of Navy Law Specialists as Judge Advocates
 
@@ -386,9 +390,9 @@ Transmittal to Congressional Committees.—Not less than 30 days after the date 
 
 “(d)
 
-Annual Report.—Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
+Annual Report.—Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], andannually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
-Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, provided that:
+Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637, provided that:
 
 #### “SEC. 1002. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.
 
@@ -482,7 +486,7 @@ In general.—Subject to subparagraphs (B), (C), and (D), the United States Cour
 
 Limitation on claims.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit under this paragraph shall be limited to claims brought by or on behalf of an alien—
 
-&emsp;&emsp;&emsp;“(i) who is, at the time a request for review by such court is filed, detained by the Department of Defense at Guantanamo Bay, Cuba; and
+&emsp;&emsp;&emsp;“(i) who is, at the time a request for review by such court is filed, detained by the United States; and
 
 &emsp;&emsp;&emsp;“(ii) for whom a Combatant Status Review Tribunal has been conducted, pursuant to applicable procedures specified by the Secretary of Defense.
 
@@ -504,29 +508,25 @@ Review of final decisions of military commissions.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to subparagraphs (B), (C), and (D), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of any final decision rendered pursuant to Military Commission Order No. 1, dated August 31, 2005 (or any successor military order).
+In general.—Subject to subparagraphs (B), (C), and (D), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of any final decision rendered by a military commission under chapter 47A of title 10, United States Code.
 
 &emsp;&emsp;“(B)
 
-Grant of review.—Review under this paragraph—
-
-&emsp;&emsp;&emsp;“(i) with respect to a capital case or a case in which the alien was sentenced to a term of imprisonment of 10 years or more, shall be as of right; or
-
-&emsp;&emsp;&emsp;“(ii) with respect to any other case, shall be at the discretion of the United States Court of Appeals for the District of Columbia Circuit.
+Grant of review.—Review under this paragraph shall be as of right.
 
 &emsp;&emsp;“(C)
 
 Limitation on appeals.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit under this paragraph shall be limited to an appeal brought by or on behalf of an alien—
 
-&emsp;&emsp;&emsp;“(i) who was, at the time of the proceedings pursuant to the military order referred to in subparagraph (A), detained by the Department of Defense at Guantanamo Bay, Cuba; and
+&emsp;&emsp;&emsp;“(i) who was, at the time of the proceedings by a military commission referred to in subparagraph (A), detained by the Department of Defense; and
 
-&emsp;&emsp;&emsp;“(ii) for whom a final decision has been rendered pursuant to such military order.
+&emsp;&emsp;&emsp;“(ii) for whom a final decision has been rendered by the military commission.
 
 &emsp;&emsp;“(D)
 
 Scope of review.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on an appeal of a final decision with respect to an alien under this paragraph shall be limited to the consideration of—
 
-&emsp;&emsp;&emsp;“(i) whether the final decision was consistent with the standards and procedures specified in the military order referred to in subparagraph (A); and
+&emsp;&emsp;&emsp;“(i) whether the final decision was consistent with the standards and procedures specified for a military commission referred to in subparagraph (A); and
 
 &emsp;&emsp;&emsp;“(ii) to the extent the Constitution and laws of the United States are applicable, whether the use of such standards and procedures to reach the final decision is consistent with the Constitution and laws of the United States.
 
@@ -540,7 +540,7 @@ Construction.—Nothing in this section shall be construed to confer any constit
 
 “(g)
 
-United States Defined.—For purposes of this section, the term ‘United States’, when used in a geographic sense, is as defined in section 101(a)(38) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(38)\]and, in particular, does not include the United States Naval Station, Guantanamo Bay, Cuba.
+United States Defined.—For purposes of this section, the term ‘United States’, when used in a geographic sense, is as defined in section 101(a)(38) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(38)\] and, in particular, does not include the United States Naval Station, Guantanamo Bay, Cuba.
 
 “(h)
 
@@ -620,7 +620,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 Policy.—It is the policy of the United States to—
 
-&emsp;“(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment or punishment that is prohibited by the Constitution, laws, or treaties of the United States;
+&emsp;“(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment orpunishment that is prohibited by the Constitution, laws, or treaties of the United States;
 
 &emsp;“(2) investigate and prosecute, as appropriate, all alleged instances of unlawful treatment of detainees in a manner consistent with the international obligations, laws, or policies of the United States;
 

@@ -102,7 +102,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 With respect to the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands, the Secretary may waive the provisions of this part that the Secretary determines to be appropriate.
 
-(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov.29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191.)
+(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191.)
 
 #### References in Text
 

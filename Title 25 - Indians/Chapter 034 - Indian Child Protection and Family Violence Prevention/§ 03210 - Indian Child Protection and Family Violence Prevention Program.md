@@ -92,11 +92,11 @@ Funds provided pursuant to this section may be used for—
 
 &emsp;(B) an additional child protective services and family violence caseworker, including fringe benefits and support costs, for each level of assistance for which an Indian tribe qualifies.
 
-(5) In any fiscal year that appropriations are not sufficient to fully fund Indian Child Protection and Family Violence Prevention programs at each level of assistance under the formula required to be established in this subsection, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
+(5) In any fiscal year that appropriations are not sufficient to fully fund Indian Child Protection and Family Violence Prevention programsat each level of assistance under the formula required to be established in this subsection, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
 
 #### (g) Maintenance of effort
 
-Services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for thesame general purposes, including, but not limited to—
+Services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for the same general purposes, including, but not limited to—
 
 &emsp;(1) treatment, including, but not limited to—
 

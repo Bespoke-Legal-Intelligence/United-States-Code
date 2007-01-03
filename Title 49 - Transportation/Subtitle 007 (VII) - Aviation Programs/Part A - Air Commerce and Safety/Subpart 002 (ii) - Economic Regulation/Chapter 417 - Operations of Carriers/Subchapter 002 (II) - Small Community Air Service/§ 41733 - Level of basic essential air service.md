@@ -82,7 +82,7 @@ In subsection (c)(1), before clause (A), the words “an air carrier may apply t
 
 #### References in Text
 
-Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is section 419 of Pub. L. 85–726,which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
+Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
 
 #### Amendments
 

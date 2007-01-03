@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the Agency for Healthcare Research and Quality, shall award grants and contracts to fund research on effective interventions in the health care setting that prevent domestic violence, dating violence, and sexual assault across the lifespan and that prevent the health effects of such violence and improve the safety and health of individuals who are currently being victimized.
+The Secretary, acting through the Director of the Centers for Disease Control and Preventionand the Director of the Agency for Healthcare Research and Quality, shall award grants and contracts to fund research on effective interventions in the health care setting that prevent domestic violence, dating violence, and sexual assault across the lifespan and that prevent the health effects of such violence and improve the safety and health of individuals who are currently being victimized.
 
 #### (b) Use of funds
 

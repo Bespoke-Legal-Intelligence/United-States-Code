@@ -16,7 +16,7 @@ In this subchapter—
 
 &emsp;&emsp;(C) with respect to a leverage transaction merchant, leverage transaction;
 
-&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subjectto the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
 
 &emsp;&emsp;(E) with respect to a commodity options dealer, commodity option;
 
@@ -180,7 +180,7 @@ Paragraph (19) \[enacted as (17)\] defines “net equity” to be the sum of (A)
 
 #### house report no. 95–595
 
-Paragraph (8) \[enacted as (4)\] is a dynamic definition of “contractual commitment”. The definition will vary depending on the character of the debtor in each case. If the debtor is a futures commission merchant or a clearing organization, then subparagraphs (A) and (D)indicate that the definition means a contract of sale of a commodity for future delivery on a contract market. If the debtor is a foreign futures commission merchant, a leverage transaction merchant, or a commodity options dealer, then subparagraphs (B), (C), and (E) indicate that the definition means foreign future, leverage transaction, or commodity option, respectively.
+Paragraph (8) \[enacted as (4)\] is a dynamic definition of “contractual commitment”. The definition will vary depending on the character of the debtor in each case. If the debtor is a futures commission merchant or a clearing organization, then subparagraphs (A) and (D) indicate that the definition means a contract of sale of a commodity for future delivery on a contract market. If the debtor is a foreign futures commission merchant, a leverage transaction merchant, or a commodity options dealer, then subparagraphs (B), (C), and (E) indicate that the definition means foreign future, leverage transaction, or commodity option, respectively.
 
 Paragraph (9) defines “customer” in a similar style. It is anticipated that a debtor with multifaceted characteristics will have separate estates for each different kind of customer. Thus, a debtor that is a leverage transaction merchant and a commodity options dealer would have separate estates for the leverage transaction customers and for the options customers, and a general estate for other creditors. Customers for each kind of commodity broker, except the clearing organization, arise from either of two relationships. In subparagraphs (A), (B), (C), and (E), clause (i) treats with customers to the extent of contractual commitments with the debtor in either a broker or a dealer relationship. Clause (ii) treats with customers to the extent of proceeds from contractual commitments or deposits for the purpose of making contractual commitments. The customer of the clearing organization is a member with a proprietary or customers’ account.
 

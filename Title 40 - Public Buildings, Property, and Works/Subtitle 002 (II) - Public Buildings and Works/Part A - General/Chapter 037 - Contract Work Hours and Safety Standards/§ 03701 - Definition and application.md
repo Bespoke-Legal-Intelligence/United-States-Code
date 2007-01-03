@@ -52,9 +52,9 @@ This chapter.—This chapter does not apply to—
 
 &emsp;&emsp;(B)
 
-Section 3902 <sup>1</sup>.—Section 3902 <sup>1</sup> of this title does not apply to work where the assistance described in subsection (a)(2)(C) <sup>2</sup> from the Government or an agency or instrumentality is only a loan guarantee or insurance.
+Section 3702.—Section 3702 of this title does not apply to work where the assistance described in paragraph (1)(B)(iii) from the Government or an agency or instrumentality is only a loan guarantee or insurance.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, §6(14), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -108,7 +108,7 @@ The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is
 
 The Walsh-Healey Act, referred to in subsec. (b)(3)(A)(ii), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Section 3702”.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection (b)(1)(B)(iii)”.</i>
+2006—Subsec. (b)(3)(B). Pub. L. 109–284 substituted “3702” for “3902” in heading and text and “paragraph (1)(B)(iii)” for “subsection (a)(2)(C)” in text.
 

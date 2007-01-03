@@ -22,7 +22,3 @@ Historical and Revision Notes
 
 Section 7318 specifies that radiotelegraph operators on the Great Lakes shall have a first-class or second-class radiotelegraph operator's license issued by the FCC and need not be licensed as a radio operator by the Coast Guard. However, an endorsement as radio telegraph operator has to be noted on his merchant mariners’ document. If the holder ceases to have a valid FCC license, then the endorsement is terminated automatically without recourse to suspension and revocation proceedings.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7103 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall (in cooperation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency) establish a cost-shared, public-private research partnership involving the Federal Government, railroad carriers, locomotive manufacturers and equipment suppliers, and the Association of American Railroads, to develop and demonstrate railroad locomotive technologies that increase fuel economy, reduce emissions, and lower costs of operation.
+The Secretary shall (in cooperation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency)establish a cost-shared, public-private research partnership involving the Federal Government, railroad carriers, locomotive manufacturers and equipment suppliers, and the Association of American Railroads, to develop and demonstrate railroad locomotive technologies that increase fuel economy, reduce emissions, and lower costs of operation.
 
 #### (b) Authorization of appropriations
 

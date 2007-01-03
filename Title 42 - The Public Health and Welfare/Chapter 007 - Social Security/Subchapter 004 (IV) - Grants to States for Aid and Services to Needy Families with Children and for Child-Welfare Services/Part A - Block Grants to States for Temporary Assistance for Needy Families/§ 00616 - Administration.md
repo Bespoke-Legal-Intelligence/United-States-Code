@@ -30,7 +30,7 @@ Amendment by Pub. L. 106–169 effective as if included in the enactment of the 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
+Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 
 Amendment by section 5514(d) of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 

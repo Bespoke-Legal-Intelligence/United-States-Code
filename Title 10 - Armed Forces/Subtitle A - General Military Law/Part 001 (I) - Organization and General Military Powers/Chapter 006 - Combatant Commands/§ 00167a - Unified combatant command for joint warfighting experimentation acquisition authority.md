@@ -44,5 +44,5 @@ Termination.—The Secretary may delegate the authority referred to in subsectio
 
 #### Comptroller General Report
 
-Pub. L. 108–136, div. A, title VIII, §848(b), Nov. 24, 2003, 117 Stat. 1555, provided that: “The Comptroller General shall review the implementation of section 167a of title 10, United States Code, as added by subsection (a), and submit to Congress a report on such review not later than two years after the date of the enactment of this Act \[Nov. 24, 2003\]. The review shall cover the extent to which the authority provided under such section 167a has been used.”
+Pub. L. 108–136, div. A, title VIII, §848(b), Nov. 24, 2003, 117 Stat. 1555, required the Comptroller General to review the implementation of this section and submit to Congress a report on such review not later than two years after Nov. 24, 2003.
 

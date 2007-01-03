@@ -78,7 +78,7 @@ For the purposes of this chapter:
 
 #### (5) Community rehabilitation program
 
-&emsp;The term “community rehabilitation program” means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
+&emsp;The term “community rehabilitation program” means a program that provides directlyor facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
 
 &emsp;&emsp;(A) medical, psychiatric, psychological, social, and vocational services that are provided under one management;
 
@@ -128,7 +128,7 @@ For the purposes of this chapter:
 
 #### (B) Cost of construction
 
-&emsp;&emsp;The term “cost of construction” includes architects’ fees and the cost of acquisition ofland in connection with construction but does not include the cost of offsite improvements.
+&emsp;&emsp;The term “cost of construction” includes architects’ fees and the cost of acquisition of land in connection with construction but does not include the cost of offsite improvements.
 
 #### (7) Repealed. Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(1)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415
 
@@ -184,7 +184,7 @@ For the purposes of this chapter:
 
 &emsp;The term “extended services” means ongoing support services and other appropriate services, needed to support and maintain an individual with a most significant disability in supported employment, that—
 
-&emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual in maintaining supported employment;
+&emsp;&emsp;(A) are provided singly or in combination and are organized and made available insuch a way as to assist an eligible individual in maintaining supported employment;
 
 &emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
 
@@ -310,7 +310,7 @@ For the purposes of this chapter:
 
 #### (B) Certain programs; limitations on major life activities
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability”means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who—
+&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability” means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who—
 
 &emsp;&emsp;&emsp;(i) has a physical or mental impairment which substantially limits one or more of such person's major life activities;
 
@@ -350,7 +350,7 @@ For the purposes of this chapter:
 
 #### (D) Employment; exclusion of individuals with certain diseases or infections
 
-&emsp;&emsp;For the purposes of sections 793 and 794 of this title, as such sections relate to employment, such term does not include an individual who has a currently contagious disease or infection and who, by reason of such disease or infection, would constitute a direct threat to the health or safety of other individuals or who, by reason of the currently contagious disease or infection, is unable to perform the duties of the job.
+&emsp;&emsp;For the purposes of sections 793 and 794 of this title, as such sections relate to employment, such term does not include an individual who has a currently contagious disease or infection and who, by reason of such disease or infection, would constitute a direct threat to the health or safety of other individuals or who, by reason of the currentlycontagious disease or infection, is unable to perform the duties of the job.
 
 #### (E) Rights provisions; exclusion of individuals on basis of homosexuality or bisexuality
 
@@ -380,7 +380,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;Except as provided in subparagraph (B) or (C), the term “individual with a significant disability” means an individual with a disability—
 
-&emsp;&emsp;&emsp;(i) who has a severe physical or mental impairment which seriously limits one ormore functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
+&emsp;&emsp;&emsp;(i) who has a severe physical or mental impairment which seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
 
 &emsp;&emsp;&emsp;(ii) whose vocational rehabilitation can be expected to require multiple vocational rehabilitation services over an extended period of time; and
 
@@ -418,7 +418,7 @@ For the purposes of this chapter:
 
 #### (24) Local agency
 
-&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
+&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of thisparagraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
 #### (25) Local workforce investment board
 
@@ -498,7 +498,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(II) for whom competitive employment has been interrupted or intermittent as a result of a significant disability; and
 
-&emsp;&emsp;&emsp;(ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph (36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
+&emsp;&emsp;&emsp;(ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph\(36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
 
 #### (B) Certain transitional employment
 
@@ -516,7 +516,7 @@ For the purposes of this chapter:
 
 #### (37) Transition services
 
-&emsp;The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post schooladult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
+&emsp;The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
 
 #### (38) Vocational rehabilitation services
 

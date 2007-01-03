@@ -26,7 +26,7 @@
 
 #### (4) Limits to liability
 
-&emsp;Nothing in sections 181 to 188 <sup>1</sup> of title 46, Appendix, or section 192 of title 46, Appendix, shall limit the liability of any person under this chapter.
+&emsp;Nothing in sections 4281–4289 of the Revised Statutes of the United States or section 30706 of title 46 shall limit the liability of any person under this chapter.
 
 #### (b) Response actions and damage assessment
 
@@ -40,7 +40,7 @@
 
 #### (c) Civil actions for response costs and damages
 
-(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trusteefor sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
 
 (2) An action under this subsection may be brought in the United States district court for any district in which—
 
@@ -84,7 +84,11 @@ An action for response costs or damages under subsection (c) of this section sha
 
 #### References in Text
 
-Sections 181 to 188 of title 46, Appendix, referred to in subsec. (a)(4), was in the original a reference to sections 4281 to 4289 of the Revised Statutes of the United States. Section 4288 of the Revised Statutes was classified to section 175 of former Title 46, Shipping, and was repealed by act Oct. 9, 1940, ch. 777, §7, 54 Stat. 1028.
+Sections 4281–4289 of the Revised Statutes of the United States, referred to in subsec. (a)(4), were classified to sections 181 to 188 of the former Appendix to Title 46, Shipping, and section 175 of former Title 46. Sections 4281 to 4287 and 4289 of the Revised Statutes were repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 4288 of the Revised Statutes (section 175 of former Title 46) was repealed by act Oct. 9, 1940, ch. 777, §7, 54 Stat. 1028. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+
+#### Codification
+
+In subsec. (a)(4), “section 30706 of title 46” substituted for “section 3 of the Act of February 13, 1893,” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30706 of Title 46, Shipping.
 
 #### Amendments
 
@@ -129,6 +133,4 @@ Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated pa
 #### Effective Date
 
 Section 204(c) of Pub. L. 100–627 provided that: “Amounts in the form of damages received by the United States after November 30, 1986, for destruction or loss of, or injury to, a sanctuary resource (as that term is defined in section 302(8) of the Act \[16 U.S.C. 1432(8)\] (as amended by this Act)) shall be subject to section 312 of the Act \[16 U.S.C. 1443\] (as amended by this Act).”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@ Limited duration.—The Secretary shall disqualify an individual from operating 
 
 &emsp;(2)
 
-After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, afternotice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
+After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, after notice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
 
 (g)
 

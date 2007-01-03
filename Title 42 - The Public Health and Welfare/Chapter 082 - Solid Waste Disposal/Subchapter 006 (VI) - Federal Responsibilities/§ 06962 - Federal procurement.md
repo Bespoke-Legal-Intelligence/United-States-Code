@@ -2,7 +2,7 @@
 
 #### (a) Application of section
 
-Except as provided in subsection (b) of this section, a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of theitem exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
+Except as provided in subsection (b) of this section, a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
 
 #### (b) Procurement subject to other law
 
@@ -10,7 +10,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 #### (c) Requirements
 
-(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referredto in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
@@ -64,7 +64,7 @@ A procuring agency shall, to the maximum extent practicable, manage or arrange f
 
 #### (g) Executive Office
 
-The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to,every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
+The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
 
 #### (h) “Recovered materials” defined
 

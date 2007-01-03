@@ -46,11 +46,13 @@ A regulation or policy issued under a provision of law repealed by this section 
 
 #### References in Text
 
+The date the notice required by section 6804(a)(3) of this title is published in the Federal Register, referred to in subsecs. (a), (d), and (e)(2), is Dec. 19, 2006. See 71 F.R. 75935.
+
 Sections 6804 and 6806 of this title, referred to in subsecs. (a), (d), and (e)(1), (2), were in the original references to sections 5 and 7, respectively, and were translated as meaning section 805 and 807, respectively, of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
 Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996, referred to in subsecs. (b) and (e)(3), is Pub. L. 104–134, title I, §101(c) \[title III, §315\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200, as amended, which was set out as a note under section 460<i>l</i>–6a of this title.
 
-The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d)(2) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497, as amended. Title VI of the Act is classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d)(2) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497, as amended. Title VI of the Act was classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d)(2) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 This chapter, referred to in subsecs. (e) and (f), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 

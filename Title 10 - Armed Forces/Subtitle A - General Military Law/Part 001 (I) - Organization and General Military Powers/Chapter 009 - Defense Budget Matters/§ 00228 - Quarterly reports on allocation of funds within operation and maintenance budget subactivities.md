@@ -52,5 +52,5 @@ Subsec. (e). Pub. L. 107–314, §361(b), substituted “Definitions” for “O
 
 #### First Report
 
-Section 321(b) of Pub. L. 105–85 provided that: “The first report under section 228 of title 10, United States Code, as added by subsection (a), shall be for the month of December 1997.”
+Pub. L. 105–85, div. A, title III, §321(b), Nov. 18, 1997, 111 Stat. 1673, directed that the first report under this section was to be for Dec. 1997.
 

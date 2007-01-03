@@ -20,7 +20,7 @@ There is established in the Department the Advisory Panel on Alzheimer's Disease
 
 #### (b) Appointment of members
 
-The Director of the Office of Technology Assessment shall appoint members to the Panelunder subsection (a)(1) of this section within 90 days after November 14, 1986.
+The Director of the Office of Technology Assessment shall appoint members to the Panel under subsection (a)(1) of this section within 90 days after November 14, 1986.
 
 #### (c) Chairman
 

@@ -2,15 +2,15 @@
 
 #### (a) Consortia
 
-A State may use amounts provided under a grant awarded under this part to provide assistance under section 300ff–22(a)(1) <sup>1</sup> of this title to an entity that—
+A State may, subject to subsection (f), use amounts provided under a grant awarded under section 300ff–21 of this title to provide assistance under section 300ff–22(a) of this title to an entity that—
 
-&emsp;(1) is an association of one or more public, and one or more nonprofit private,<sup>2</sup> (or private for-profit providers or organizations if such entities are the only available providers of quality HIV care in the area) <sup>2</sup> health care and support service providers and community based organizations operating within areas determined by the State to be most affected by HIV disease; and
+&emsp;(1) is an association of one or more public, and one or more nonprofit private,<sup>1</sup> (or private for-profit providers or organizations if such entities are the only available providers of quality HIV care in the area) <sup>1</sup> health care and support service providers and community based organizations operating within areas determined by the State to be most affected by HIV/AIDS; and
 
-&emsp;(2) agrees to use such assistance for the planning, development and delivery, through the direct provision of services or through entering into agreements with other entities for the provision of such services, of comprehensive outpatient health and support services for individuals with HIV disease, that may include—
+&emsp;(2) agrees to use such assistance for the planning, development and delivery, through the direct provision of services or through entering into agreements with other entities for the provision of such services, of comprehensive outpatient health and support services for individuals with HIV/AIDS, that may include—
 
 &emsp;&emsp;(A) essential health services such as case management services, medical, nursing, substance abuse treatment, mental health treatment, and dental care, diagnostics, monitoring, prophylactic treatment for opportunistic infections, treatment education to take place in the context of health care delivery, and medical follow-up services, mental health, developmental, and rehabilitation services, home health and hospice care; and
 
-&emsp;&emsp;(B) essential support services such as transportation services, attendant care, homemaker services, day or respite care, benefits advocacy, advocacy services provided through public and nonprofit private entities, and services that are incidental to the provision of health care services for individuals with HIV disease including nutrition services, housing referral services, and child welfare and family services (including foster care and adoption services).
+&emsp;&emsp;(B) essential support services such as transportation services, attendant care, homemaker services, day or respite care, benefits advocacy, advocacy services provided through public and nonprofit private entities, and services that are incidental to the provision of health care services for individuals with HIV/AIDS including nutrition services, housing referral services, and child welfare and family services (including foster care and adoption services).
 
 > An entity or entities of the type described in this subsection shall hereinafter be referred to in this subchapter as a “consortium” or “consortia”.
 
@@ -20,7 +20,7 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;To receive assistance from a State under subsection (a) of this section, an applicant consortium shall provide the State with assurances that—
 
-&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV disease have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
+&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV/AIDS have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
 
 &emsp;&emsp;(B) the service plan established under subsection (c)(2) of this section by such consortium is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
 
@@ -42,7 +42,7 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;&emsp;(A) demonstrates that the consortium includes agencies and community-based organizations—
 
-&emsp;&emsp;&emsp;(i) with a record of service to populations and subpopulations with HIV disease requiring care within the community to be served; and
+&emsp;&emsp;&emsp;(i) with a record of service to populations and subpopulations with HIV/AIDS requiring care within the community to be served; and
 
 &emsp;&emsp;&emsp;(ii) that are representative of populations and subpopulations reflecting the local incidence of HIV and that are located in areas in which such populations reside;
 
@@ -54,9 +54,9 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;&emsp;&emsp;(iii) assurances that, in the case of services for individuals residing in rural areas, the applicant consortium shall deliver case management services that link available community support services to appropriate specialized medical services; and
 
-&emsp;&emsp;&emsp;(iv) assurances that the assessment of service needs and the planning of the delivery of services will include participation by individuals with HIV disease;
+&emsp;&emsp;&emsp;(iv) assurances that the assessment of service needs and the planning of the delivery of services will include participation by individuals with HIV/AIDS;
 
-&emsp;&emsp;(C) demonstrates that adequate planning has occurred to meet the special needs of families with HIV disease, including family centered and youth centered care;
+&emsp;&emsp;(C) demonstrates that adequate planning has occurred to meet the special needs of families with HIV/AIDS, including family centered and youth centered care;
 
 &emsp;&emsp;(D) demonstrates that the consortium has created a mechanism to evaluate periodically—
 
@@ -76,7 +76,7 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;&emsp;(ii) in the case of a public health agency that does not directly provide such HIV-related health care services such agency shall consult with an entity or entities that directly provide ambulatory and outpatient HIV-related health care services within the geographic area to be served;
 
-&emsp;&emsp;(B) not less than one community-based organization that is organized solely for the purpose of providing HIV-related support services to individuals with HIV disease;
+&emsp;&emsp;(B) not less than one community-based organization that is organized solely for the purpose of providing HIV-related support services to individuals with HIV/AIDS;
 
 &emsp;&emsp;(C) grantees under section 300ff–71 of this title, or, if none are operating in the area, representatives in the area of organizations with a history of serving children, youth, women, and families living with HIV; and
 
@@ -86,7 +86,7 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 #### (d) “Family centered care” defined
 
-As used in this part, the term “family centered care” means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV disease.
+As used in section 300ff–21 of this title, the term “family centered care” means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership betweenparents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
 
 #### (e) Priority
 
@@ -96,11 +96,15 @@ In providing assistance under subsection (a) of this section, the State shall, a
 
 &emsp;(2) to any other existing HIV care consortia.
 
-(July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §203, Oct. 20, 2000, 114 Stat. 1331.)
+#### (f) Allocation of funds; treatment as support services
 
-#### References in Text
+For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grants under section 300ff–21 of this title for or through consortia under this section are deemed to be support services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
 
-Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub. L. 104–146, §3(c)(2)(A)(i), (ii), May 20, 1996, 110 Stat. 1354, and Pub. L. 106–345, title II, §202(1), Oct. 20, 2000, 114 Stat. 1330, and as so amended, provisions formerly contained in section 300ff–22(a)(1) are now contained in section 300ff–22(a)(2).
+(July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §203, Oct. 20, 2000, 114 Stat. 1331; Pub. L. 109–415, title II, §§201(b), 204(a), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2787, 2796, 2820.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### Codification
 
@@ -111,6 +115,16 @@ Another section 3(c)(2) of Pub. L. 104–146 amended section 300ff–22 of this 
 A prior section 2613 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
 
 #### Amendments
+
+2006—Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+
+Subsec. (a). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” in introductory provisions.
+
+Pub. L. 109–415, §201(b)(1), in introductory provisions substituted “may, subject to subsection (f), use” for “may use” and “section 300ff–22(a) of this title” for “section 300ff–22(a)(1) of this title”.
+
+Subsec. (d). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part”.
+
+Subsec. (f). Pub. L. 109–415, §201(b)(2), added subsec. (f).
 
 2000—Subsec. (b)(1)(A). Pub. L. 106–345, §203(1)(A), inserted “, particularly those experiencing disparities in access and services and those who reside in historically underserved communities” before semicolon.
 
@@ -132,7 +146,5 @@ Subsec. (c)(2)(C). Pub. L. 104–146, §3(c)(2)(B)(ii), added subpar. (C).
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should follow parenthetical phrase.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should follow parenthetical phrase.</i>
 

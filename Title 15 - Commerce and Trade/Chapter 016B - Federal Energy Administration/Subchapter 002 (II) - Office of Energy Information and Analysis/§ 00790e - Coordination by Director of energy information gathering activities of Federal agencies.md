@@ -8,7 +8,7 @@ In carrying out the purposes of this chapter the Director shall, as he deems app
 
 In exercising his responsibilities under subsection (a) of this section, the Director shall recommend policies which, to the greatest extent practicable—
 
-&emsp;(1) provide adequately for the energy information needs of the various departments and agencies of the Federal Government, the Congress, and the public;
+&emsp;(1) provide adequately for the energy information needs of the various departments andagencies of the Federal Government, the Congress, and the public;
 
 &emsp;(2) minimize the burden of reporting energy information on businesses, other persons, and especially small businesses;
 
@@ -18,7 +18,7 @@ In exercising his responsibilities under subsection (a) of this section, the Dir
 
 #### (c) Report to Administrator by other Federal agencies involved in collection of energy information; cooperation of other Federal agencies; report by Administrator to President, Congress, and Energy Resources Council
 
-(1) At the earliest practicable date after August 14, 1976, each Federal agency which is engaged in the gathering of energy information asa part of an established program, function, or other activity shall promptly provide the Administrator with a report on energy information which—
+(1) At the earliest practicable date after August 14, 1976, each Federal agency which is engaged in the gathering of energy information as a part of an established program, function, or other activity shall promptly provide the Administrator with a report on energy information which—
 
 &emsp;(A) identifies the statutory authority upon which the energy information collection activities of such agency is based;
 

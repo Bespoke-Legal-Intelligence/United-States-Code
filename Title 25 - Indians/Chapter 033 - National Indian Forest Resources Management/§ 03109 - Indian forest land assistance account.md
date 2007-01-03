@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-At the request of an Indian tribe, the Secretary may establish a special Indian forest land assistance account within the tribe's trust fund account to fund the Indian forest land management activities of such tribe.
+At the request of an Indian tribe, the Secretary may establish a special Indian forest land assistance account within the tribe's trust fundaccount to fund the Indian forest land management activities of such tribe.
 
 #### (b) Deposits and expenditures
 

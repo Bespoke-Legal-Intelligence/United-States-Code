@@ -42,7 +42,7 @@
 
 &emsp;(2) to promote adoption as an alternative for adolescent parents;
 
-&emsp;(3) to establish innovative, comprehensive, and integrated approaches to the delivery of care services both for pregnant adolescents,with primary emphasis on unmarried adolescents who are seventeen years of age or under, and for adolescent parents, which shall be based upon an assessment of existing programs and, where appropriate, upon efforts to establish better coordination, integration, and linkages among such existing programs in order to—
+&emsp;(3) to establish innovative, comprehensive, and integrated approaches to the delivery of care services both for pregnant adolescents, with primary emphasis on unmarried adolescents who are seventeen years of age or under, and for adolescent parents, which shall be based upon an assessment of existing programs and, where appropriate, upon efforts to establish better coordination, integration, and linkages among such existing programs in order to—
 
 &emsp;&emsp;(A) enable pregnant adolescents to obtain proper care and assist pregnant adolescents and adolescent parents to become productive independent contributors to family and community life; and
 

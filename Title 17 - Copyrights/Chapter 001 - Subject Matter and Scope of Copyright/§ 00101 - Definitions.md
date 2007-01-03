@@ -180,8 +180,6 @@ The significant definitions in this section will be mentioned or summarized in c
 
 #### References in Text
 
-The Universal Copyright Convention, referred to in definition of “international agreement”, is set out under section 104 of this title.
-
 Section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, referred to in definition of “work made for hire”, is section 1000(a)(9) \[title I, §1011(d)\] of Pub. L. 106–113, which amended par. (2) of that definition. See 1999 Amendment note below.
 
 Section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000, referred to in definition of “work made for hire”, is section 2(a)(1) of Pub. L. 106—379, which amended par. (2) of that definition. See 2000 Amendment note below.
@@ -318,7 +316,7 @@ Section 102(g) of Pub. L. 102–307, as amended by Pub. L. 105–298, title I, �
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L.101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
 Section 706 of title VII of Pub. L. 101–650 provided that: “The amendments made by this title \[enacting section 120 of this title and amending this section and sections 102, 106, and 301 of this title\], apply to—
 
@@ -337,6 +335,10 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 “(b)
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–303, §1, Oct. 6, 2006, 120 Stat. 1478, provided that: “This Act \[amending sections 111, 114, 115, 118, 119, 801 to 804, and 1007 of this title, enacting provisions set out as notes under sections 111 and 119 of this title, and amending provisions set out as a note under section 801 of this title\] may be cited as the ‘Copyright Royalty Judges Program Technical Corrections Act’.”
 
 #### Short Title of 2005 Amendment
 
@@ -376,7 +378,7 @@ Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Ac
 
 Pub. L. 105–304, title I, §101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title \[enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title\] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
 
-Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 of this title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
+Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 ofthis title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
 
 Pub. L. 105–304, title III, §301, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title \[amending section 117 of this title\] may be cited as the ‘Computer Maintenance Competition Assurance Act’.”
 
@@ -442,7 +444,7 @@ Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “I
 
 #### Construction of 1998 Amendment
 
-Pub. L. 105–298, title II, §206, Oct. 27, 1998, 112 Stat. 2834, provided that: “Except as otherwise provided in this title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\],nothing in this title shall be construed to relieve any performing rights society of any obligation under any State or local statute, ordinance, or law, or consent decree or other court order governing its operation, as such statute, ordinance, law, decree, or order is in effect on the date of the enactment of this Act \[Oct. 27, 1998\], as it may be amended after such date, or as it may be issued or agreed to after such date.”
+Pub. L. 105–298, title II, §206, Oct. 27, 1998, 112 Stat. 2834, provided that: “Except as otherwise provided in this title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\], nothing in this title shall be construed to relieve any performing rights society of any obligation under any State or local statute, ordinance, or law, or consent decree or other court order governing its operation, as such statute, ordinance, law, decree, or order is in effect on the date of the enactment of this Act \[Oct. 27, 1998\], as it may be amended after such date, or as it may be issued or agreed to after such date.”
 
 #### First Amendment Application
 

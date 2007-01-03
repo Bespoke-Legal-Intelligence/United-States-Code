@@ -15,10 +15,13 @@
 | [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification. |
 | [232\.](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md) | United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts. |
 | [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
+| [234\.](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md) | POW/MIA activities: display of budget information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title V, §563(b), Oct. 17, 2006, 120 Stat. 2222, added item 234.
 
 2004—Pub. L. 108–375, div. A, title II, §214(b), title X, §1003(a)(2), Oct. 28, 2004, 118 Stat. 1834, 2035, added items 232 and 233.
 
@@ -60,3 +63,4 @@
 - [&sect; 00231 - Budgeting for construction of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)
 - [&sect; 00232 - United States Joint Forces Command amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md)
 - [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)
+- [&sect; 00234 - POW-MIA activities display of budget information](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md)

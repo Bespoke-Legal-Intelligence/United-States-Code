@@ -1,6 +1,6 @@
 ### §701. Game and wild birds; preservation
 
-The duties and powers of the Department of the Interior include the preservation, distribution, introduction, and restoration of game birds and other wild birds. The Secretary of the Interior is authorized to adopt such measures as may be necessary to carry out the purposes of this Act, and to purchase such game birds and other wild birds as may be required therefor, subject, however, to the laws of the various States and Territories. The object and purposeof this Act is to aid in the restoration of such birds in those parts of the United States adapted thereto where the same have become scarce or extinct, and also to regulate the introduction of American or foreign birds or animals in localities where they have not heretofore existed.
+The duties and powers of the Department of the Interior include the preservation, distribution, introduction, and restoration of game birds and other wild birds. The Secretary of the Interior is authorized to adopt such measures as may be necessary to carry out the purposes of this Act, and to purchase such game birds and other wild birds as may be required therefor, subject, however, to the laws of the various States and Territories. The object and purpose of this Act is to aid in the restoration of such birds in those parts of the United States adapted thereto where the same have become scarce or extinct, and also to regulate the introduction of American or foreign birds or animals in localities where they have not heretofore existed.
 
 The Secretary of the Interior shall from time to time collect and publish useful information as to the propagation, uses, and preservation of such birds.
 
@@ -96,7 +96,7 @@ Sec. 4. <i>Council for the Conservation of Migratory Birds</i>. (a) The Secretar
 
 Sec. 5. <i>Application and Judicial Review</i>. (a) This order and the MOU to be developed by the agencies do not require changes to current contracts, permits, or other third party agreements.
 
-(b) This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, separately enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+(b) This order is intended only to improve the internal management of the executive branch and does notcreate any right or benefit, substantive or procedural, separately enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,7 +22,7 @@ Section 5785, acts Aug. 10, 1956, ch. 1041, 70A Stat. 365; Sept. 2, 1958, Pub. L
 
 Section 5786, acts Aug. 10, 1956, ch. 1041, 70A Stat. 366; Nov. 8, 1967, Pub. L. 90–130, §1(19)(Z), 81 Stat. 379; Sept. 19, 1978, Pub. L. 95–377, §6(a), 92 Stat. 721, specified certain categories of officers as ineligible for promotion and provided that officers serving in grades to which they were appointed for periods of limited duration or to which they were temporarily appointed were to be considered for purposes of former sections 5751 to 5785 of this title as serving in the grade they would have held were it not for such temporary appointments. See section 641 of this title.
 
-Section 5787, acts Aug. 10, 1956, ch. 1041, 70A Stat. 366; Sept. 7, 1962, Pub. L. 87–649, §§5(b), 14c(30), 76 Stat. 493, 501; Sept. 28, 1971, Pub. L. 92–129, title VI, §603(b), 85 Stat. 362, related to temporary promotions in times of war or national emergency. See sections 602 and 603 of this title.
+Section 5787, acts Aug. 10, 1956, ch. 1041, 70A Stat. 366; Sept. 7, 1962, Pub. L. 87–649, §§5(b), 14c(30), 76 Stat. 493,501; Sept. 28, 1971, Pub. L. 92–129, title VI, §603(b), 85 Stat. 362, related to temporary promotions in times of war or national emergency. See sections 602 and 603 of this title.
 
 Section 5787a, added Pub. L. 85–861, §1(128)(A), Sept. 2, 1958, 72 Stat. 1497, authorized temporary promotion of an officer in Medical or Dental Corps to grade of lieutenant at any time after first anniversary of date upon which he graduated from medical, dental, or osteopathic school. See section 603 of this title.
 
@@ -40,7 +40,7 @@ Section 5790, act Aug. 10, 1956, ch. 1041, 70A Stat. 368, authorized advancement
 
 Section 5791, acts Aug. 10, 1956, ch. 1041, 70A Stat. 368; Sept. 28, 1971, Pub. L. 92–129, title VI, §603(c), 85 Stat. 362; Sept. 19, 1978, Pub. L. 95–377, §6(b), 92 Stat. 721, vested power to make appointments under former sections 5751 to 5793, except for former sections 5787 and 5787d, of this title in President, by and with advice and consent of Senate. See section 624 of this title.
 
-Section 5792, acts Aug. 10 1956, ch. 1041, 70A Stat. 368; Nov. 2, 1966, Pub. L. 89–718, §4, 80 Stat. 1115, dispensed with need for an oath of office upon promotion to ahigher grade in the case of an officer of the naval service who had served continuously since subscribing to the oath of office prescribed in section 3331 of title 5. See section 626 of this title.
+Section 5792, acts Aug. 10 1956, ch. 1041, 70A Stat. 368; Nov. 2, 1966, Pub. L. 89–718, §4, 80 Stat. 1115, dispensed with need for an oath of office upon promotion to a higher grade in the case of an officer of the naval service who had served continuously since subscribing to the oath of office prescribed in section 3331 of title 5. See section 626 of this title.
 
 Section 5793, added Pub. L. 90–228, §1(3)(A), Dec. 28, 1967, 81 Stat. 745, related to authorized strengths in grade and promotions of Medical Corps and Dental Corps officers. See section 521 et seq. of this title.
 

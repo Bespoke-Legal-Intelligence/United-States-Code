@@ -90,7 +90,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) In general
 
-&emsp;If a signatory jurisdiction has approved and committed to implement all or substantiallyall aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
+&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
 
 &emsp;&emsp;(A) shall make a grant to the jurisdiction for the purpose of implementing the management mechanisms established under the Chesapeake Bay Agreement, subject to such terms and conditions as the Administrator considers appropriate; and
 
@@ -214,7 +214,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 &emsp;The study shall—
 
-&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses, benthos, phytoplankton, zooplankton, fish, and shellfish;
+&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses,benthos, phytoplankton, zooplankton, fish, and shellfish;
 
 &emsp;&emsp;(B) establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
 

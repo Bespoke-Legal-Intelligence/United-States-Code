@@ -6,7 +6,7 @@ It is the purpose of this chapter, among other things, to maintain the control o
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat.1064, as amended, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

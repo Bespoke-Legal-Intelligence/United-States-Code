@@ -10,7 +10,7 @@ Congressional oversight.—The appropriate committees of the Congress shall have
 
 &emsp;(2)
 
-Reports to congress.—An independent counsel appointed under this chapter shall submit to the Congress annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made.
+Reports to congress.—An independent counsel appointed under this chapter shall submit to the Congress annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by theindependent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made.
 
 (b)
 
@@ -30,7 +30,7 @@ Information Relating to Impeachment.—An independent counsel shall advise the H
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–270 substituted “annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of theindependent counsel has made” for “such statements or reports on the activities of such independent counsel as the independent counsel considers appropriate”.
+1994—Subsec. (a)(2). Pub. L. 103–270 substituted “annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made” for “such statements or reports on the activities of such independent counsel as the independent counsel considers appropriate”.
 
 1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) relating to congressional oversight for former subsecs. (a) to (e) relating to reporting and congressional oversight.
 

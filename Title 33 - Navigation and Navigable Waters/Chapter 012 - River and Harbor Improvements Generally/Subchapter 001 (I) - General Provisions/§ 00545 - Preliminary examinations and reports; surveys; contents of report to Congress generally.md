@@ -32,7 +32,7 @@ Provisions prohibiting supplemental reports or estimates, prohibiting the making
 
 #### Report on Improvements for Coastal Defense Purposes
 
-The Secretary of War and the Secretary of the Navy were authorized and directed to report to Congress at the earliest practicable date, such specific plans for improvement of harbors, canals and connecting channels as would best provide adequate facilities for operations of the fleet for defense of the harbors on the Atlantic, Gulf, and Pacific coasts; also the feasible extensions requisite to make existing approved projects for improvement of such harbors, canals, and channels available for such purposes, and the cost of each such several improvements, calculated upon the basis of completion under contract within five years, by act Aug. 29, 1916, ch. 417, 39 Stat. 556, omitted from the Code as special and temporary.
+The Secretary of War and the Secretary of the Navy were authorized and directed to report to Congress at the earliest practicable date, such specific plans for improvement of harbors, canals and connecting channels as would best provide adequate facilities for operations of the fleet for defense of the harbors on the Atlantic, Gulf, and Pacific coasts; also the feasible extensionsrequisite to make existing approved projects for improvement of such harbors, canals, and channels available for such purposes, and the cost of each such several improvements, calculated upon the basis of completion under contract within five years, by act Aug. 29, 1916, ch. 417, 39 Stat. 556, omitted from the Code as special and temporary.
 
 #### Preliminary Examinations and Surveys of Great Lakes
 

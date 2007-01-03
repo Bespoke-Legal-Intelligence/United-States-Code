@@ -124,7 +124,7 @@ Authorization.—If determined by the Board to be necessary to carry out its res
 
 &emsp;&emsp;“(D)(i) request that persons (other than departments, agencies, and elements of the executive branch) produce for the Board relevant information, documents, reports, answers, records, accounts, papers, and other documentary and testimonial evidence; and
 
-&emsp;&emsp;“(ii) if the person to whom such a request is directed does not comply with the request within 45 days of receipt of such request, notify the Attorney General of such person's failure to comply with such request, which notice shall include all relevant information.
+&emsp;&emsp;“(ii) if the person to whom such a request is directed does not comply with the request within 45days of receipt of such request, notify the Attorney General of such person's failure to comply with such request, which notice shall include all relevant information.
 
 &emsp;“(2)
 
@@ -248,7 +248,7 @@ Freedom of information act.—For purposes of the Freedom of Information Act \[5
 
 “(j)
 
-Construction.—Except as otherwise provided in this section, nothing in this section shall be construed to require any consultation with the Board by any department or agency of the executive branch or any Federal officer or employee, or any waiting period that must be observed by any department or agency of the executive branch or any Federal officer or employee, before developing, proposing, or implementing any legislation, law, regulation, policy, or guideline related to efforts to protect the Nation from terrorism.
+Construction.—Except as otherwise provided in this section, nothing in this section shall be construed to require any consultation with the Board by any department or agency of the executive branch or any Federal officer or employee, or any waiting period thatmust be observed by any department or agency of the executive branch or any Federal officer or employee, before developing, proposing, or implementing any legislation, law, regulation, policy, or guideline related to efforts to protect the Nation from terrorism.
 
 “(k)
 
@@ -388,7 +388,7 @@ Sections 201 to 224 of title II of Pub. L. 104–121 provided that:
 
 #### “SEC. 201. SHORT TITLE.
 
-“This title \[enacting sections 801 to 808 of this title and section 657 of Title 15, Commerce and Trade, amending this section, sections 504, 603 to 605, 609, 611, and 612 of this title, section 648 of Title 15, and section 2412 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title, and amending provisions set out as a note under section 631 of Title 15\] may be cited as the ‘Small Business Regulatory Enforcement Fairness Act of 1996’.
+“This title \[enacting sections 801 to 808 of this title and section 657 of Title 15, Commerce and Trade, amending this section, sections 504, 603 to 605, 609, 611, and 612 of this title, section 648 of Title 15, and section 2412 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this sectionand sections 504, 609, and 801 of this title, and amending provisions set out as a note under section 631 of Title 15\] may be cited as the ‘Small Business Regulatory Enforcement Fairness Act of 1996’.
 
 #### “SEC. 202. FINDINGS.
 
@@ -558,7 +558,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 &emsp;“(2) laws and regulations designed for application to large scale entities have been applied uniformly to small businesses, small organizations, and small governmental jurisdictions even though the problems that gave rise to government action may not have been caused by those smaller entities;
 
-&emsp;“(3) uniform Federal regulatory and reporting requirements have in numerous instances imposed unnecessary and disproportionately burdensome demands including legal, accounting and consultingcosts upon small businesses, small organizations, and small governmental jurisdictions with limited resources;
+&emsp;“(3) uniform Federal regulatory and reporting requirements have in numerous instances imposed unnecessary and disproportionately burdensome demands including legal, accounting and consulting costs upon small businesses, small organizations, and small governmental jurisdictions with limited resources;
 
 &emsp;“(4) the failure to recognize differences in the scale and resources of regulated entities has in numerous instances adversely affected competition in the marketplace, discouraged innovation and restricted improvements in productivity;
 
@@ -816,7 +816,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (e) <i>Conferences</i>. The Administrator of OIRA shall meet quarterly with representatives of State, local, and tribal governments to identify both existing and proposed regulations that may uniquely or significantly affect those governmental entities. The Administrator of OIRA shall also convene, from time to time, conferences with representatives of businesses, nongovernmental organizations, and the public to discuss regulatory issues of common concern.
 
-Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency topromulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
+Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
 (b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
@@ -824,7 +824,7 @@ Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on
 
 Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below shall apply to all regulatory actions, for both new and existing regulations, by agencies other than those agencies specifically exempted by the Administrator of OIRA:
 
-(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in mostcases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
 
 (2) Within 60 days of the date of this Executive order, each agency head shall designate a Regulatory Policy Officer who shall report to the agency head. The Regulatory Policy Officer shall be involved at each stage of the regulatory process to foster the development of effective, innovative, and least burdensome regulations and to further the principles set forth in this Executive order.
 
@@ -864,7 +864,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 (2) OIRA shall waive review or notify the agency in writing of the results of its review within the following time periods:
 
-(A) For any notices of inquiry, advance notices of proposed rulemaking, or other preliminary regulatoryactions prior to a Notice of Proposed Rulemaking, within 10 working days after the date of submission of the draft action to OIRA;
+(A) For any notices of inquiry, advance notices of proposed rulemaking, or other preliminary regulatory actions prior to a Notice of Proposed Rulemaking, within 10 working days after the date of submission of the draft action to OIRA;
 
 (B) For all other regulatory actions, within 90 calendar days after the date of submission of the information set forth in subsections (a)(3)(B) and (C) of this section, unless OIRA has previously reviewed this information and, since that review, there has been no material change in the facts and circumstances upon which the regulatory action is based, in which case, OIRA shall complete its review within 45 days; and
 
@@ -926,7 +926,7 @@ Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, which suspended Ex. Ord. No. 13
 
 Ex. Ord. No. 13107, Dec. 10, 1998, 63 F.R. 68991, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and bearing in mind the obligations of the United States pursuant to the International Covenant on Civil and Political Rights (ICCPR), the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT), the Convention on the Elimination of All Forms of Racial Discrimination (CERD), and other relevant treaties concerned with the protection and promotion of human rights to which the United States is now or may become a party in the future, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and bearing in mind the obligations of the United States pursuant to the International Covenant on Civil and Political Rights (ICCPR), the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT), the Convention on the Elimination of All Forms of Racial Discrimination (CERD), and other relevant treaties concerned with the protection and promotion of human rights towhich the United States is now or may become a party in the future, it is hereby ordered as follows:
 
 Section 1. <i>Implementation of Human Rights Obligations</i>. (a) It shall be the policy and practice of the Government of the United States, being committed to the protection and promotion of human rights and fundamental freedoms, fully to respect and implement its obligations under the international human rights treaties to which it is a party, including the ICCPR, the CAT, and the CERD.
 
@@ -973,122 +973,6 @@ Sec. 6. <i>Judicial Review, Scope, and Administration</i>. (a) Nothing in this o
 (c) The term “treaty obligations” shall mean treaty obligations as approved by the Senate pursuant to Article II, section 2, clause 2 of the United States Constitution.
 
 (d) To the maximum extent practicable and subject to the availability of appropriations, agencies shall carry out the provisions of this order.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Regulatory Reform—Waiver of Penalties and Reduction of Reports
-
-Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
-
-Memorandum for
-
-The Secretary of State
-
-The Secretary of the Treasury
-
-The Secretary of Defense
-
-The Attorney General
-
-The Secretary of the Interior
-
-The Secretary of Agriculture
-
-The Secretary of Commerce
-
-The Secretary of Labor
-
-The Secretary of Health and Human Services
-
-The Secretary of Housing and Urban Development
-
-The Secretary of Transportation
-
-The Secretary of Energy
-
-The Secretary of Education
-
-The Secretary of Veterans Affairs
-
-The Administrator, Environmental Protection Agency
-
-The Administrator, Small Business Administration
-
-The Secretary of the Army
-
-The Secretary of the Navy
-
-The Secretary of the Air Force
-
-The Director, Federal Emergency Management Agency
-
-The Administrator, National Aeronautics and Space Administration
-
-The Director, National Science Foundation
-
-The Acting Archivist of the United States
-
-The Administrator of General Services
-
-The Chair, Railroad Retirement Board
-
-The Chairperson, Architectural and Transportation Barriers Compliance Board
-
-The Executive Director, Pension Benefit Guaranty Corporation
-
-On March 16, I announced that the Administration would implement new policies to give compliance officials more flexibility in dealing with small business and to cut back on paperwork. These Governmentwide policies, as well as the specific agency actions I announced, are part of this Administration's continuing commitment to sensible regulatory reform. With your help and cooperation, we hope to move the Government toward a more flexible, effective, and user friendly approach to regulation.
-
-A. <i>Actions</i>: This memorandum directs the designated department and agency heads to implement the policies set forth below.
-
-1\. <i>Authority to Waive Penalties</i>. (a) To the extent permitted by law, each agency shall use its discretion to modify the penalties for small businesses in the following situations. Agencies shall exercise their enforcement discretion to waive the imposition of all or a portion of a penalty when the violation is corrected within a time period appropriate to the violation in question. For those violations that may take longer to correct than the period set by the agency, the agency shall use its enforcement discretion to waive up to 100 percent of the financial penalties if the amounts waived are used to bring the entity into compliance. The provisions in paragraph 1(a) of this memorandum shall apply only where there has been a good faith effort to comply with applicable regulations and the violation does not involve criminal wrongdoing or significant threat to health, safety, or the environment.
-
-(b) Each agency shall, by June 15, 1995, submit a plan to the Director of the Office of Management and Budget (“Director”) describing the actions it will take to implement the policies in paragraph 1(a) of this memorandum. The plan shall provide that the agency will implement the policies described in paragraph 1(a) of this memorandum on or before July 14, 1995. Plans should include information on how notification will be given to frontline workers and small businesses.
-
-2\. <i>Cutting Frequency of Reports</i>. (a) Each agency shall reduce by one-half the frequency of the regularly scheduled reports that the public is required, by rule or by policy, to provide to the Government (from quarterly to semiannually, from semiannually to annually, etc.), unless the department or agency head determines that such action is not legally permissible; would not adequately protect health, safety, or the environment; would be inconsistent with achieving regulatory flexibility or reducing regulatory burdens; or would impede the effective administration of the agency's program. The duty to make such determinations shall be nondelegable.
-
-(b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take to implement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
-
-B. <i>Application and Scope</i>: 1. The Director may issue further guidance as necessary to carry out the purposes of this memorandum.
-
-2\. This memorandum does not apply to matters related to law enforcement, national security, or foreign affairs, the importation or exportation of prohibited or restricted items, Government taxes, duties, fees, revenues, or receipts; nor does it apply to agencies (or components thereof) whose principal purpose is the collection, analysis, and dissemination of statistical information.
-
-3\. This memorandum is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
-
-4\. The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Plain Language in Government Writing
-
-Memorandum of President of the United States, June 1, 1998, 63 F.R. 31885, provided:
-
-Memorandum for the Heads of Executive Departments and Agencies
-
-The Vice President and I have made reinventing the Federal Government a top priority of my Administration. We are determined to make the Government more responsive, accessible, and understandable in its communications with the public.
-
-The Federal Government's writing must be in plain language. By using plain language, we send a clear message about what the Government is doing, what it requires, and what services it offers. Plain language saves the Government and the private sector time, effort, and money.
-
-Plain language requirements vary from one document to another, depending on the intended audience. Plain language documents have logical organization, easy-to-read design features, and use:
-
-&emsp;• common, everyday words, except for necessary technical terms;
-
-&emsp;• “you” and other pronouns;
-
-&emsp;• the active voice; and
-
-&emsp;• short sentences.
-
-To ensure the use of plain language, I direct you to do the following:
-
-&emsp;• By October 1, 1998, use plain language in all new documents, other than regulations, that explain how to obtain a benefit or service or how to comply with a requirement you administer or enforce. For example, these documents may include letters, forms, notices, and instructions. By January 1, 2002, all such documents created prior to October 1, 1998, must also be in plain language.
-
-&emsp;• By January 1, 1999, use plain language in all proposed and final rulemaking documents published in the Federal Register, unless you proposed the rule before that date. You should consider rewriting existing regulations in plain language when you have the opportunity and resources to do so.
-
-The National Partnership for Reinventing Government will issue guidance to help you comply with these directives and to explain more fully the elements of plain language. You should also use customer feedback and common sense to guide your plain language efforts.
-
-I ask the independent agencies to comply with these directives.
-
-This memorandum does not confer any right or benefit enforceable by law against the United States or its representatives. The Director of the Office of Management and Budget will publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1156,7 +1040,7 @@ Sec. 4. <i>Special Requirements for Preemption</i>. Agencies, in taking action t
 
 (d) When an agency foresees the possibility of a conflict between State law and Federally protected interests within its area of regulatory responsibility, the agency shall consult, to the extent practicable, with appropriate State and local officials in an effort to avoid such a conflict.
 
-(e) When an agency proposes to act through adjudication or rulemaking to preempt State law, the agency shall provide all affected State and local officials notice and an opportunity for appropriate participation in the proceedings.
+(e) When an agency proposes to act through adjudication or rulemaking to preempt State law, the agencyshall provide all affected State and local officials notice and an opportunity for appropriate participation in the proceedings.
 
 Sec. 5. <i>Special Requirements for Legislative Proposals</i>. Agencies shall not submit to the Congress legislation that would:
 
@@ -1204,7 +1088,7 @@ Sec. 8. <i>Accountability.</i>
 
 (a) In transmitting any draft final regulation that has federalism implications to the Office of Management and Budget pursuant to Executive Order 12866 of September 30, 1993 \[set out above\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-(b) In transmitting proposed legislation that has federalism implications to the Office of Management andBudget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
+(b) In transmitting proposed legislation that has federalism implications to the Office of Management and Budget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
 
 (c) Within 180 days after the effective date of this order, the Director of the Office of Management and Budget and the Assistant to the President for Intergovernmental Affairs shall confer with State and local officials to ensure that this order is being properly and effectively implemented.
 
@@ -1226,7 +1110,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13198, Jan. 29, 2001, 66 F.R. 8497, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America's communities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America's communities, it is hereby ordered as follows:
 
 Section 1. <i>Establishment of Executive Department Centers for Faith-Based and Community Initiatives</i>. (a) The Attorney General, the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall each establish within their respective departments a Center for Faith-Based and Community Initiatives (Center).
 
@@ -1308,7 +1192,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13279. Equal Protection of the Laws for Faith-Based and Community Organizations
 
-Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, provided:
+Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, as amended by Ex. Ord. No. 13403, §2, May 12, 2006, 71 F.R. 28543, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and section 301 of title 3, United States Code, and in order to guide Federal agencies in formulating and developing policies with implications for faith-based organizations and other community organizations, to ensure equal protection of the laws for faith-based and community organizations, to further the national effort to expand opportunities for, and strengthen the capacity of, faith-based and other community organizations so that they may better meet social needs in America's communities, and to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered as follows:
 
@@ -1332,7 +1216,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 &emsp;(vii) literacy and mentoring programs;
 
-&emsp;(viii) services for the prevention and treatment of juvenile delinquency and substance abuse, servicesfor the prevention of crime and the provision of assistance to the victims and the families of criminal offenders, and services related to intervention in, and prevention of, domestic violence; and
+&emsp;(viii) services for the prevention and treatment of juvenile delinquency and substance abuse, services for the prevention of crime and the provision of assistance to the victims and the families of criminal offenders, and services related to intervention in, and prevention of, domestic violence; and
 
 &emsp;(ix) services related to the provision of assistance for housing under Federal law.
 
@@ -1340,7 +1224,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (d) “Agency” means a department or agency in the executive branch.
 
-(e) “Specified agency heads” mean the Attorney General, the Secretaries of Agriculture, Education, Health and Human Services, Housing and Urban Development, and Labor, and the Administrator of the Agency for International Development.
+(e) “Specified agency heads” mean \[sic.\] the Attorney General, the Secretaries of Agriculture, Commerce, Education, Health and Human Services, Homeland Security, Housing and Urban Development, Labor, and Veterans Affairs, the Administrators of the Agency for International Development and the Small Business Administration, and the head of any other department or agency in the executive branch in which the President creates a Center for Faith-Based and Community Initiatives.
 
 Sec. 2. <i>Fundamental Principles and Policymaking Criteria.</i>
 
@@ -1380,7 +1264,7 @@ Pursuant to section 121(a) of title 40, United States Code, and section 301 of t
 
 (b) The Secretary of Labor may, by rule or regulation, exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial supplies or raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier.
 
-(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected withthe carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
+(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
 
 (d) The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities of a contractor that are in all respects separate and distinct from activities of the contractor related to the performance of the contract: provided, that such an exemption will not interfere with or impede the effectuation of the purposes of this Order: and provided further, that in the absence of such an exemption all facilities shall be covered by the provisions of this Order.”
 
@@ -1472,7 +1356,7 @@ Section 1. <i>Establishment of Centers for Faith-Based and Community Initiatives
 
 (d) Each Center shall begin operations no later than 45 days from the date of this order.
 
-Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
+Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts toeliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
 
 Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law:
 
@@ -1528,7 +1412,7 @@ Sec. 3. <i>Functions</i>. The Board shall:
 
 (d) at the request of the head of any Federal department or agency, unless the Chair, after consultation with the Vice Chair, declines the request, promptly review and provide advice on a policy or action of that department or agency that implicates the Policy;
 
-(e) obtain information and advice relating to the Policy from representatives of entities or individuals outside the executive branch of the Federal Government ina manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
+(e) obtain information and advice relating to the Policy from representatives of entities or individuals outside the executive branch of the Federal Government in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
 
 (f) refer, consistent with section 535 of title 28, United States Code, credible information pertaining to possible violations of law relating to the Policy by any Federal employee or official to the appropriate office for prompt investigation;
 
@@ -1649,4 +1533,176 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented subject t
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13406. Protecting the Property Rights of the American People
+
+Ex. Ord. No. 13406, June 23, 2006, 71 F.R. 36973, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen the rights of the American people against the taking of their private property, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to protect the rights of Americans to their private property, including by limiting the taking of private property by the Federal Government to situations in which the taking is for public use, with just compensation, and for the purpose of benefiting the general public and not merely for the purpose of advancing the economic interest of private parties to be given ownership or use of the property taken.
+
+Sec. 2. <i>Implementation</i>. (a) The Attorney General shall:
+
+(i) issue instructions to the heads of departments and agencies to implement the policy set forth in section 1 of this order; and
+
+(ii) monitor takings by departments and agencies for compliance with the policy set forth in section 1 of this order.
+
+(b) Heads of departments and agencies shall, to the extent permitted by law:
+
+(i) comply with instructions issued under subsection (a)(i); and
+
+(ii) provide to the Attorney General such information as the Attorney General determines necessary to carry out subsection (a)(ii).
+
+Sec. 3. <i>Specific Exclusions</i>. Nothing in this order shall be construed to prohibit a taking of private property by the Federal Government, that otherwise complies with applicable law, for the purpose of:
+
+(a) public ownership or exclusive use of the property by the public, such as for a public medical facility, roadway, park, forest, governmental office building, or military reservation;
+
+(b) projects designated for public, common carrier, public transportation, or public utility use, including those for which a fee is assessed, that serve the general public and are subject to regulation by a governmental entity;
+
+(c) conveying the property to a nongovernmental entity, such as a telecommunications or transportation common carrier, that makes the property available for use by the general public as of right;
+
+(d) preventing or mitigating a harmful use of land that constitutes a threat to public health, safety, or the environment;
+
+(e) acquiring abandoned property;
+
+(f) quieting title to real property;
+
+(g) acquiring ownership or use by a public utility;
+
+(h) facilitating the disposal or exchange of Federal property; or
+
+(i) meeting military, law enforcement, public safety, public transportation, or public health emergencies.
+
+Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(c) This order shall be implemented in a manner consistent with Executive Order 12630 of March 15, 1988.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity against the United States, its departments, agencies, entities, officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Regulatory Reform—Waiver of Penalties and Reduction of Reports
+
+Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
+
+Memorandum for
+
+The Secretary of State
+
+The Secretary of the Treasury
+
+The Secretary of Defense
+
+The Attorney General
+
+The Secretary of the Interior
+
+The Secretary of Agriculture
+
+The Secretary of Commerce
+
+The Secretary of Labor
+
+The Secretary of Health and Human Services
+
+The Secretary of Housing and Urban Development
+
+The Secretary of Transportation
+
+The Secretary of Energy
+
+The Secretary of Education
+
+The Secretary of Veterans Affairs
+
+The Administrator, Environmental Protection Agency
+
+The Administrator, Small Business Administration
+
+The Secretary of the Army
+
+The Secretary of the Navy
+
+The Secretary of the Air Force
+
+The Director, Federal Emergency Management Agency
+
+The Administrator, National Aeronautics and Space Administration
+
+The Director, National Science Foundation
+
+The Acting Archivist of the United States
+
+The Administrator of General Services
+
+The Chair, Railroad Retirement Board
+
+The Chairperson, Architectural and Transportation Barriers Compliance Board
+
+The Executive Director, Pension Benefit Guaranty Corporation
+
+On March 16, I announced that the Administration would implement new policies to give compliance officials more flexibility in dealing with small business and to cut back on paperwork. These Governmentwide policies, as well as the specific agency actions I announced, are part of this Administration's continuing commitment to sensible regulatory reform. With your help and cooperation, we hope to move the Government toward a more flexible, effective, and user friendly approach to regulation.
+
+A. <i>Actions</i>: This memorandum directs the designated department and agency heads to implement the policies set forth below.
+
+1\. <i>Authority to Waive Penalties</i>. (a) To the extent permitted by law, each agency shall use its discretion to modify the penalties for small businesses in the following situations. Agencies shall exercise their enforcement discretion to waive the imposition of all or a portion of a penalty when the violation is corrected within a time period appropriate to the violation in question. For those violations that may take longer to correct than the period set by the agency, the agency shall use its enforcement discretion to waive up to 100 percent of the financial penalties if the amounts waived are used to bring the entity into compliance. The provisions in paragraph 1(a) of this memorandum shall apply only where there has been a good faith effort to comply with applicable regulations and the violation does not involve criminal wrongdoing or significant threat to health, safety, or the environment.
+
+(b) Each agency shall, by June 15, 1995, submit a plan to the Director of the Office of Management and Budget (“Director”) describing the actions it will take to implement the policies in paragraph 1(a) of this memorandum. The plan shall provide that the agency will implement the policies described in paragraph 1(a) of this memorandum on or before July 14, 1995. Plans should include information on how notification will be given to frontline workers and small businesses.
+
+2\. <i>Cutting Frequency of Reports</i>. (a) Each agency shall reduce by one-half the frequency of the regularly scheduled reports that the public is required, by rule or by policy, to provide to the Government (from quarterly to semiannually, from semiannually to annually, etc.), unless the department or agency head determines that such action is not legally permissible; would not adequately protect health, safety, or the environment; would be inconsistent with achieving regulatory flexibility or reducing regulatory burdens; or would impede the effective administration of the agency's program. The duty to make such determinations shall be nondelegable.
+
+(b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take to implement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
+
+B. <i>Application and Scope</i>: 1. The Director may issue further guidance as necessary to carry out the purposes of this memorandum.
+
+2\. This memorandum does not apply to matters related to law enforcement, national security, or foreign affairs, the importation or exportation of prohibited or restricted items, Government taxes, duties, fees, revenues, or receipts; nor does it apply to agencies (or components thereof) whose principal purpose is the collection, analysis, and dissemination of statistical information.
+
+3\. This memorandum is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
+
+4\. The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[References to the Director of the Federal Emergency Management Agency to be considered to refer and apply to the Administrator of the Federal Emergency Management Agency, see section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.\]
+
+#### Plain Language in Government Writing
+
+Memorandum of President of the United States, June 1, 1998, 63 F.R. 31885, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+The Vice President and I have made reinventing the Federal Government a top priority of my Administration. We are determined to make the Government more responsive, accessible, and understandable in its communications with the public.
+
+The Federal Government's writing must be in plain language. By using plain language, we send a clear message about what the Government is doing, what it requires, and what services it offers. Plain language saves the Government and the private sector time, effort, and money.
+
+Plain language requirements vary from one document to another, depending on the intended audience. Plain language documents have logical organization, easy-to-read design features, and use:
+
+&emsp;• common, everyday words, except for necessary technical terms;
+
+&emsp;• “you” and other pronouns;
+
+&emsp;• the active voice; and
+
+&emsp;• short sentences.
+
+To ensure the use of plain language, I direct you to do the following:
+
+&emsp;• By October 1, 1998, use plain language in all new documents, other than regulations, that explain how to obtain a benefit or service or how to comply with a requirement you administer or enforce. For example, these documents may include letters, forms, notices, and instructions. By January 1, 2002, all such documents created prior to October 1, 1998, must also be in plain language.
+
+&emsp;• By January 1, 1999, use plain language in all proposed and final rulemaking documents published in the Federal Register, unless you proposed the rule before that date. You should consider rewriting existing regulations in plain language when you have the opportunity and resources to do so.
+
+The National Partnership for Reinventing Government will issue guidance to help you comply with these directives and to explain more fully the elements of plain language. You should also use customer feedback and common sense to guide your plain language efforts.
+
+I ask the independent agencies to comply with these directives.
+
+This memorandum does not confer any right or benefit enforceable by law against the United States or its representatives. The Director of the Office of Management and Budget will publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

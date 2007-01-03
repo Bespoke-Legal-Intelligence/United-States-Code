@@ -1,6 +1,6 @@
 ### §14135d. Authorization of appropriations
 
-There are authorized to be appropriated to the Attorney General to carry out this Act (including to reimburse the Federal judiciary for any reasonable costs incurred in implementing such Act, as determined by the Attorney General) such sums as may be necessary.
+There are authorized to be appropriated to the Attorney General to carry out this Act (including to reimburse the Federal judiciary for any reasonable costs incurred in implementing suchAct, as determined by the Attorney General) such sums as may be necessary.
 
 (Pub. L. 106–546, §9, Dec. 19, 2000, 114 Stat. 2735.)
 

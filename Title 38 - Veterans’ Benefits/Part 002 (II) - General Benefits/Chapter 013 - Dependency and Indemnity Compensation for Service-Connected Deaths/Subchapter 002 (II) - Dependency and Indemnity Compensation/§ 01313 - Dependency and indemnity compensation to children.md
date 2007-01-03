@@ -2,23 +2,41 @@
 
 (a) Whenever there is no surviving spouse of a deceased veteran entitled to dependency and indemnity compensation, dependency and indemnity compensation shall be paid in equal shares to the children of the deceased veteran at the following monthly rates:
 
-&emsp;(1) one child, $438;
+&emsp;(1) one child, $452;
 
-&emsp;(2) two children, $629;
+&emsp;(2) two children, $649;
 
-&emsp;(3) three children, $819; and
+&emsp;(3) three children, $846; and
 
-&emsp;(4) more than three children, $819, plus $157 for each child in excess of three.
+&emsp;(4) more than three children, $846, plus $162 for each child in excess of three.
 
 (b) If dependency and indemnity compensation has been awarded under this section to a veteran's child or children and the entitlement to dependency and indemnity compensation under this section of an additional child of that veteran who is over the age of eighteen years and who had previously been entitled to dependency and indemnity compensation under this section before becoming eighteen years of age is later reestablished effective retroactively upon determination that such child is pursuing a course of instruction at an approved educational institution, the amount payable retroactively to the additional child is the amount equal to the difference between the total of the increased award payable under this section to the children of the deceased veteran for the retroactive period and the prior total award for such purpose for that period.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1128, §413; Pub. L. 88–21, §2, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §4, Nov. 2, 1966, 80 Stat. 1159; Pub. L. 91–262, §2, May 21, 1970, 84 Stat. 256; Pub. L. 92–197, §2, Dec. 15, 1971, 85 Stat. 660; Pub. L. 93–295, title II, §202, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §202, Aug. 5, 1975, 89 Stat. 397; Pub. L. 94–433, title II, §202, Sept. 30, 1976, 90 Stat. 1376; Pub. L. 95–117, title II, §202, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title II, §202, Oct. 18, 1978, 92 Stat. 1563; Pub. L. 96–128, title II, §202, Nov. 28, 1979, 93 Stat. 985; Pub. L. 96–385, title II, §202, Oct. 7, 1980, 94 Stat. 1530; Pub. L. 97–66, title II, §§202, 204(a), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 97–253, title IV, §405(f), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§105, 107, Oct. 14, 1982, 96 Stat. 1431; Pub. L. 98–223, title I, §105, Mar. 2, 1984, 98 Stat. 39; Pub. L. 98–543, title I, §105, Oct. 24, 1984, 98 Stat. 2737; Pub. L. 99–238, title I, §105, Jan. 13, 1986, 99 Stat. 1767; Pub. L. 99–576, title I, §105, title VII, §703(a)(1), Oct. 28, 1986, 100 Stat. 3252, 3302; Pub. L. 100–227, title I, §105, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1105(a), Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §105(a), Dec. 18, 1989, 103 Stat. 2064; Pub. L. 102–3, §6(a), Feb. 6, 1991, 105 Stat. 9; renumbered §1313, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §6(a), Nov. 12, 1991, 105 Stat. 987; Pub. L. 103–78, §5(a), Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §6(a), Nov. 11, 1993, 107 Stat. 1487; Pub. L. 105–98, §6(a), Nov. 19, 1997, 111 Stat. 2157; Pub. L. 106–118, §6(a), Nov. 30, 1999, 113 Stat. 1603; Pub. L. 107–94, §6(a), Dec. 21, 2001, 115 Stat. 902; Pub. L. 107–330, title III, §309(e)(1), Dec. 6, 2002, 116 Stat. 2831; Pub. L. 108–454, title III, §307(e)(1), Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–111, §2(e)(1), Nov. 22, 2005, 119 Stat. 2364.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1128, §413; Pub. L. 88–21, §2, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §4, Nov. 2, 1966, 80 Stat. 1159; Pub. L. 91–262, §2, May 21, 1970, 84 Stat. 256; Pub. L. 92–197, §2, Dec. 15, 1971, 85 Stat. 660; Pub. L. 93–295, title II, §202, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §202, Aug. 5, 1975, 89 Stat. 397; Pub. L. 94–433, title II, §202, Sept. 30, 1976, 90 Stat. 1376; Pub. L. 95–117, title II, §202, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title II, §202, Oct. 18, 1978, 92 Stat. 1563; Pub. L. 96–128, title II, §202, Nov. 28, 1979, 93 Stat. 985; Pub. L. 96–385, title II, §202, Oct. 7, 1980, 94 Stat. 1530; Pub. L. 97–66, title II, §§202, 204(a), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 97–253, title IV, §405(f), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§105, 107, Oct. 14, 1982, 96 Stat. 1431; Pub. L. 98–223, title I, §105, Mar. 2, 1984, 98 Stat. 39; Pub. L. 98–543, title I, §105, Oct. 24, 1984, 98 Stat. 2737; Pub. L. 99–238, title I, §105, Jan. 13, 1986, 99 Stat. 1767; Pub. L. 99–576, title I, §105, title VII, §703(a)(1), Oct. 28, 1986, 100 Stat. 3252, 3302; Pub. L. 100–227, title I, §105, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1105(a), Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §105(a), Dec. 18, 1989, 103 Stat. 2064; Pub. L. 102–3, §6(a), Feb. 6, 1991, 105 Stat. 9; renumbered §1313, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §6(a), Nov. 12, 1991, 105 Stat. 987; Pub. L. 103–78, §5(a), Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §6(a), Nov. 11, 1993, 107 Stat. 1487; Pub. L. 105–98, §6(a), Nov. 19, 1997, 111 Stat. 2157; Pub. L. 106–118, §6(a), Nov. 30, 1999, 113 Stat. 1603; Pub. L. 107–94, §6(a), Dec. 21, 2001, 115 Stat. 902; Pub. L. 107–330, title III, §309(e)(1), Dec. 6, 2002, 116 Stat. 2831; Pub. L. 108–454, title III, §307(e)(1), Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–111, §2(e)(1), Nov. 22, 2005, 119 Stat. 2364; Pub. L. 109–444, §9(e)(1), Dec. 21, 2006, 120 Stat. 3315; Pub. L. 109–461, title X, §§1005(e)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3468.)
 
 #### Codification
 
 Amendments by section 105 of Pub. L. 99–576, section 105 of Pub. L. 99–238, and section 105 of Pub. L. 98–223, which directed that cls. (1) to (4) of this section be amended, were executed by amending subsec. (a) of this section, as the probable intent of Congress, in view of subsec. (a) containing cls. (1) to (4).
 
 #### Amendments
+
+2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Subsec. (a)(1). Pub. L. 109–461, §1005(e)(1)(A), substituted “$452” for “$438”.
+
+Pub. L. 109–444, §9(e)(1)(A), which substituted “$452” for “$438”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (a)(2). Pub. L. 109–461, §1005(e)(1)(B), substituted “$649” for “$629”.
+
+Pub. L. 109–444, §9(e)(1)(B), which substituted “$649” for “$629”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (a)(3). Pub. L. 109–461, §1005(e)(1)(C), substituted “$846” for “$819”.
+
+Pub. L. 109–444, §9(e)(1)(C), which substituted “$846” for “$819”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (a)(4). Pub. L. 109–461, §1005(e)(1)(D), substituted “$846” and “$162” for “$819” and “$157”, respectively.
+
+Pub. L. 109–444, §9(e)(1)(D), which substituted “$846” and “$162” for “$819” and “$157”, respectively, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2005—Subsec. (a)(1). Pub. L. 109–111, §2(e)(1)(A), substituted “$438” for “$410”.
 

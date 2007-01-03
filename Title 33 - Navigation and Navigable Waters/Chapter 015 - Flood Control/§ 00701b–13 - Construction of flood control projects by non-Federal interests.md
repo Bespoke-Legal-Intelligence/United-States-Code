@@ -58,7 +58,7 @@ In the case of any study or design documents for a flood control project that we
 
 &emsp;Subject to appropriations Acts, the Secretary may reimburse any non-Federal interest an amount equal to the estimate of the Federal share, without interest, of the cost of any authorized flood control project, or separable element of a flood control project, constructed pursuant to this section and provide credit for the non-Federal share of the project—
 
-&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves theplans for construction of such project by the non-Federal interest;
+&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by the non-Federal interest;
 
 &emsp;&emsp;(B) if the Secretary finds, after a review of studies and design documents prepared pursuant to this section, that construction of the project or separable element is economically justified and environmentally acceptable; and
 
@@ -72,7 +72,7 @@ In the case of any study or design documents for a flood control project that we
 
 #### (B) Credit
 
-&emsp;&emsp;If the non-Federal interest for a project described in subsection (f) of this section carries out work before completion of a reconnaissance study by the Secretary and if such work is determined by the Secretary to be compatible with the project later recommended by the Secretary, the Secretary shall credit the non-Federal interest for its share of the cost of the project for such work.
+&emsp;&emsp;If the non-Federal interest for a project described in subsection (f) of this sectioncarries out work before completion of a reconnaissance study by the Secretary and if such work is determined by the Secretary to be compatible with the project later recommended by the Secretary, the Secretary shall credit the non-Federal interest for its share of the cost of the project for such work.
 
 #### (3) Matters to be considered in reviewing plans
 
@@ -152,7 +152,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is
 
 Section 101 of the Water Resources Development Act of 1990, referred to in subsec. (f)(1), (2), (6), is section 101 of Pub. L. 101–640, title I, Nov. 28, 1990, 104 Stat. 4605, which is not classified to the Code.
 
-Section 101(13) of the Water Resources Development Act of 1992, referred to in subsec. (f)(5), is section 101(13) of Pub. L. 102–580, title I, Oct. 31, 1992, 106 Stat. 4803, which is not classified to the Code.
+Section 101(13) of the Water Resources Development Act of 1992, referred to in subsec. (f)(5), is section 101(13)of Pub. L. 102–580, title I, Oct. 31, 1992, 106 Stat. 4803, which is not classified to the Code.
 
 #### Amendments
 

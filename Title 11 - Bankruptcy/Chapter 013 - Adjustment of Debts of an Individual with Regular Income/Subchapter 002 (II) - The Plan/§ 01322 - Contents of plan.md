@@ -94,7 +94,7 @@ Subsection (c) limits the payment period under the plan to 3 years, except that 
 
 Subsec. (b)(10), (11). Pub. L. 109–8, §213(9), added par. (10) and redesignated former par. (10) as (11).
 
-Subsec. (d). Pub. L. 109–8, §318(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The plan may not provide for payments over a period that is longer than three years, unless the court, for cause, approves a longer period, but the court may not approve a period that is longer than five years.”
+Subsec. (d). Pub. L. 109–8, §318(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The plan may not provide for payments over a period that is longer than three years, unless the court,for cause, approves a longer period, but the court may not approve a period that is longer than five years.”
 
 Subsec. (f). Pub. L. 109–8, §224(d), added subsec. (f).
 
@@ -125,4 +125,8 @@ Amendment by section 301 of Pub. L. 103–394 effective Oct. 22, 1994, and not a
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (d) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 

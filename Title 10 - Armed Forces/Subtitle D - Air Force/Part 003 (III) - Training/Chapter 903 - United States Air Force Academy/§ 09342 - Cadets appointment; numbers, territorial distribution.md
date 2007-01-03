@@ -18,7 +18,7 @@
 
 &emsp;(8) Three cadets from Guam, nominated by the Delegate in Congress from Guam.
 
-&emsp;(9) Two cadet <sup>1</sup> from American Samoa, nominated by the Delegate in Congress from American Samoa.
+&emsp;(9) Two cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 &emsp;(10) One cadet from the Commonwealth of the Northern Mariana Islands, nominated by the resident representative from the commonwealth.
 
@@ -86,11 +86,11 @@
 
 (2) Any increase in the cadet strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under sections 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the cadet strength limit and the new cadet strength limit, as so increased, and the amount of the increase in Senior Air Force Reserve Officers’ Training Corps enrollment under each of sections 2104 and 2107 of this title.
 
-(3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of cadets enrolled in the Air Force Senior Reserve Officers’ Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
+(3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number ofcadets enrolled in the Air Force Senior Reserve Officers’ Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
 
 (4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of Air Force Cadets of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Pub. L. 87–663, §1(5), (6), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §4(1), Mar. 3, 1964, 78 Stat. 151; Pub. L. 89–650, §1(1)–(3), (5), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(3), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §3(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §514(11), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 96–600, §2(c), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(c)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(3), (b)(3), Sept. 24, 1983, 97 Stat. 660, 661; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(c)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1674(c)(3), Oct. 5, 1994, 108 Stat. 3017; Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 315, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(3), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–314, div. A, title V, §532(c), Dec. 2, 2002, 116 Stat. 2546; Pub. L. 108–136, div. A, title V, §524(c), title X, §1031(a)(58), Nov. 24, 2003, 117 Stat. 1464, 1603.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Pub. L. 87–663, §1(5), (6), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §4(1), Mar. 3, 1964, 78 Stat. 151; Pub. L. 89–650, §1(1)–(3), (5), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(3), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §3(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §514(11), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 96–600, §2(c), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(c)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(3), (b)(3), Sept. 24, 1983, 97 Stat. 660, 661; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(c)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1674(c)(3), Oct. 5, 1994, 108 Stat. 3017; Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 315, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(3), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–314, div. A, title V, §532(c), Dec. 2, 2002, 116 Stat. 2546; Pub. L. 108–136, div. A, title V, §524(c), title X, §1031(a)(58), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, §1071(a)(38), Oct. 17, 2006, 120 Stat. 2400.)
 
 Historical and Revision Notes
 
@@ -178,6 +178,8 @@ In subsection (h), the words “or shall hereafter be” are omitted as surplusa
 
 #### Amendments
 
+2006—Subsec. (a)(9). Pub. L. 109–364 substituted “cadets” for “cadet”.
+
 2003—Subsec. (a)(6), (8). Pub. L. 108–136, §524(c)(1), substituted “Three” for “Two”.
 
 Subsec. (a)(9). Pub. L. 108–136, §524(c)(2), substituted “Two” for “One”.
@@ -204,11 +206,11 @@ Subsec. (i). Pub. L. 106–65, §531(b)(3)(B), added subsec. (i).
 
 Subsec. (g). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-1994—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “section 1331 of this title”.
+1994—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the ReserveOfficer Personnel Management Act)” for “section 1331 of this title”.
 
 1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
-1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(c)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
+1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532 (c)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
 
 Subsec. (d). Pub. L. 101–510, §532(c)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
 
@@ -264,7 +266,7 @@ Amendment by section 524(c) of Pub. L. 108–136 applicable with respect to nomi
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -303,6 +305,4 @@ Secretary required to take such action as may be necessary and appropriate to in
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 
 Secretary to continue to exercise the authority granted under this chapter and chapters 403 and 603 of this title, but such authority to be exercised within a program providing for the orderly and expeditious admission of women to the Academy, consistent with the needs of the services, see section 803(c) of Pub. L. 94–106, set out as a note under section 4342 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “cadets”.</i>
 

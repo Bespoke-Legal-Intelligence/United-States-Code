@@ -10,6 +10,7 @@ Part A—Administration
 - [&sect; 00202 - Administration and supervision of Service](%C2%A7%2000202%20-%20Administration%20and%20supervision%20of%20Service.md)
 - [&sect; 00203 - Organization of Service](%C2%A7%2000203%20-%20Organization%20of%20Service.md)
 - [&sect; 00204 - Commissioned corps; composition; appointment of Regular and Reserve officers; appointment and status of warrant officers](%C2%A7%2000204%20-%20Commissioned%20corps%3B%20composition%3B%20appointment%20of%20Regular%20and%20Reserve%20officers%3B%20appointment%20and%20status%20of%20warrant%20officers.md)
+- [&sect; 00204a - Deployment readiness](%C2%A7%2000204a%20-%20Deployment%20readiness.md)
 - [&sect; 00205 - Appointment and tenure of office of Surgeon General; reversion in rank](%C2%A7%2000205%20-%20Appointment%20and%20tenure%20of%20office%20of%20Surgeon%20General%3B%20reversion%20in%20rank.md)
 - [&sect; 00206 - Assignment of officers](%C2%A7%2000206%20-%20Assignment%20of%20officers.md)
 - [&sect; 00207 - Grades, ranks, and titles of commissioned corps](%C2%A7%2000207%20-%20Grades%2C%20ranks%2C%20and%20titles%20of%20commissioned%20corps.md)

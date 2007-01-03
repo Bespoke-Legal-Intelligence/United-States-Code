@@ -16,7 +16,7 @@ The provisions of this chapter and section 1346(b) of this title shall not apply
 
 &emsp;(4) the claimant was not convicted of a crime for which the interest of the claimant in the property was subject to forfeiture under a Federal criminal forfeiture law..<sup>1</sup>
 
-(d) Any claim for which a remedy is provided by sections 741–752, 781–790 of Title 46, relating to claims or suits in admiralty against the United States.
+(d) Any claim for which a remedy is provided by chapter 309 or 311 of title 46 relating to claims or suits in admiralty against the United States.
 
 (e) Any claim arising out of an act or omission of any employee of the Government in administering the provisions of sections 1–31 of Title 50, Appendix.
 
@@ -38,7 +38,7 @@ The provisions of this chapter and section 1346(b) of this title shall not apply
 
 (n) Any claim arising from the activities of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives.
 
-(June 25, 1948, ch. 646, 62 Stat. 984; July 16, 1949, ch. 340, 63 Stat. 444; Sept. 26, 1950, ch. 1049, §§2(a)(2), 13(5), 64 Stat. 1038, 1043; Pub. L. 86–168, title II, §202(b), Aug. 18, 1959, 73 Stat. 389; Pub. L. 93–253, §2, Mar. 16, 1974, 88 Stat. 50; Pub. L. 106–185, §3(a), Apr. 25, 2000, 114 Stat. 211.)
+(June 25, 1948, ch. 646, 62 Stat. 984; July 16, 1949, ch. 340, 63 Stat. 444; Sept. 26, 1950, ch. 1049, §§2(a)(2), 13(5), 64 Stat. 1038, 1043; Pub. L. 86–168, title II, §202(b), Aug. 18, 1959, 73 Stat. 389; Pub. L. 93–253, §2, Mar. 16, 1974, 88 Stat. 50; Pub. L. 106–185, §3(a), Apr. 25, 2000, 114 Stat. 211; Pub. L. 109–304, §17(f)(4), Oct. 6, 2006, 120 Stat. 1708.)
 
 #### Historical and Revision Notes
 
@@ -54,10 +54,6 @@ Sections 2680 and 2681 were renumbered “2679” and “2680”, respectively, 
 
 #### References in Text
 
-Sections 741–752 of title 46, referred to in subsec. (d), are popularly known as the “Suits in Admiralty Act” and are classified to Title 46, Appendix, Shipping.
-
-Sections 781–790 of title 46, referred to in subsec. (d), are popularly known as the “Public Vessels Act” and are classified to Title 46, Appendix.
-
 Sections 1–31 of Title 50, Appendix, referred to in subsec. (e), was in the original source of this section (section 943 of act Aug. 2, 1946) a reference to the Trading with the Enemy Act, as amended. The Trading with the Enemy Act is now comprised of sections 1 to 43, which are classified to sections 1 to 6, 7 to 39, and 41 to 44 of Title 50, Appendix, War and National Defense.
 
 The date of the enactment of this proviso, referred to in subsec. (h), means Mar. 16, 1974, the date on which Pub. L. 93–253, which enacted the proviso, was approved.
@@ -65,6 +61,8 @@ The date of the enactment of this proviso, referred to in subsec. (h), means Mar
 Panama Canal Company, referred to in subsec. (m), deemed to refer to Panama Canal Commission, see section 3602(b)(5) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–304 substituted “chapter 309 or 311 of title 46” for “sections 741–752, 781–790 of Title 46,”.
 
 2000—Subsec. (c). Pub. L. 106–185 substituted “any goods, merchandise, or other property” for “any goods or merchandise” and “law enforcement” for “law-enforcement”, inserted “, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—”, and added pars. (1) to (4).
 

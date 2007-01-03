@@ -20,7 +20,7 @@
 
 (D) For purposes of this paragraph, a physical or mental impairment is an impairment that results from anatomical, physiological, or psychological abnormalities which are demonstrable by medically acceptable clinical and laboratory diagnostic techniques.
 
-(E) The Commissioner of Social Security shall by regulations prescribe the criteria for determining when services performed or earnings derived from services demonstrate an individual's ability to engage in substantial gainful activity. In determining whether an individual is able to engage in substantial gainful activity by reason of his earnings, where his disability is sufficiently severe to result in a functional limitation requiring assistance in order for him towork, there shall be excluded from such earnings an amount equal to the cost (to such individual) of any attendant care services, medical devices, equipment, prostheses, and similar items and services (not including routine drugs or routine medical services unless such drugs or services are necessary for the control of the disabling condition) which are necessary (as determined by the Commissioner of Social Security in regulations) for that purpose, whether or not such assistance is also needed to enable him to carry out his normal daily functions; except that the amounts to be excluded shall be subject to such reasonable limits as the Commissioner of Social Security may prescribe. Notwithstanding the provisions of subparagraph (B), an individual whose services or earnings meet such criteria shall be found not to be disabled. The Commissioner of Social Security shall make determinations under this subchapter with respect to substantial gainful activity, without regard to the legality of the activity.
+(E) The Commissioner of Social Security shall by regulations prescribe the criteria for determining when services performed or earnings derived from services demonstrate an individual's ability to engage in substantial gainful activity. In determining whether an individual is able to engage in substantial gainful activity by reason of his earnings, where his disability is sufficiently severe to result in a functional limitation requiring assistance in order for him to work, there shall be excluded from such earnings an amount equal to the cost (to such individual) of any attendant care services, medical devices, equipment, prostheses, and similar items and services (not including routine drugs or routine medical services unless such drugs or services are necessary for the control of the disabling condition) which are necessary (as determined by the Commissioner of Social Security in regulations) for that purpose, whether or not such assistance is also needed to enable him to carry out his normal daily functions; except that the amounts to be excluded shall be subject to such reasonable limits as the Commissioner of Social Security may prescribe. Notwithstanding the provisions of subparagraph (B), an individual whose services or earnings meet such criteria shall be found not to be disabled. The Commissioner of Social Security shall make determinations under this subchapter with respect to substantial gainful activity, without regard to the legality of the activity.
 
 (F) Notwithstanding the provisions of subparagraphs (A) through (E), an individual shall also be considered to be disabled for purposes of this subchapter if he is permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI of this chapter as in effect for October 1972 and received aid under such plan (on the basis of disability) for December 1973 (and for at least one month prior to July 1973), so long as he is continuously disabled as so defined.
 
@@ -30,7 +30,7 @@
 
 (ii)(I) Not less frequently than once every 3 years, the Commissioner shall review in accordance with paragraph (4) the continued eligibility for benefits under this subchapter of each individual who has not attained 18 years of age and is eligible for such benefits by reason of an impairment (or combination of impairments) which is likely to improve (or, at the option of the Commissioner, which is unlikely to improve).
 
-(II) A representative payee of a recipient whose case is reviewed under this clause shall present, at the time of review, evidence demonstrating that the recipient is, and has been, receiving treatment, to the extent considered medically necessary and available, of the condition which was the basis for providing benefits under this subchapter.
+(II) A representative payee of a recipient whose case is reviewed under this clause shall present, at the time of review, evidence demonstrating that the recipient is, and has been, receiving treatment, to the extent consideredmedically necessary and available, of the condition which was the basis for providing benefits under this subchapter.
 
 (III) If the representative payee refuses to comply without good cause with the requirements of subclause (II), the Commissioner of Social Security shall, if the Commissioner determines it is in the best interest of the individual, promptly suspend payment of benefits to the representative payee, and provide for payment of benefits to an alternative representative payee of the individual or, if the interest of the individual under this subchapter would be served thereby, to the individual.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(I) consists of new medical evidence and a new assessment of the individual's residual functional capacity, and demonstrates that—
 
-&emsp;&emsp;&emsp;&emsp;(aa) although the individual has not improved medically, he or she is nonetheless a beneficiary of advances in medical or vocational therapy or technology (related to the individual's ability to work), and
+&emsp;&emsp;&emsp;&emsp;(aa) although the individual has not improved medically, he or she is nonetheless a beneficiary of advances in medical or vocational therapy or technology\(related to the individual's ability to work), and
 
 &emsp;&emsp;&emsp;&emsp;(bb) the individual is now able to engage in substantial gainful activity, or
 
@@ -94,7 +94,7 @@
 
 &emsp;(C) in the case of any individual, substantial evidence (which may be evidence on the record at the time any prior determination of the entitlement to benefits based on disability was made, or newly obtained evidence which relates to that determination) which demonstrates that a prior determination was in error.
 
-> Nothing in this paragraph shall be construed to require a determination that an individual receiving benefits based on disability under this subchapter is entitled to such benefits if the prior determination was fraudulently obtained or if the individual is engaged in substantial gainful activity, cannot be located, or fails, without good cause, to cooperate in a review of his or her entitlement or to follow prescribed treatment which would be expected (i) to restore his or her ability to engage in substantial gainful activity, or (ii) in the case of an individual under the age of 18, to eliminate or improve the individual's impairment or combination of impairments so that it no longer results in marked and severe functional limitations. Any determination under this paragraph shall be made on the basis of all the evidence available in the individual's case file, including new evidence concerning the individual's prior or current condition which is presented by the individual or secured by the Commissioner of Social Security.Any determination made under this paragraph shall be made on the basis of the weight of the evidence and on a neutral basis with regard to the individual's condition, without any initial inference as to the presence or absence of disability being drawn from the fact that the individual has previously been determined to be disabled.
+> Nothing in this paragraph shall be construed to require a determination that an individual receiving benefits based on disability under this subchapter is entitled to such benefits if the prior determination was fraudulently obtained or if the individual is engaged in substantial gainful activity, cannot be located, or fails, without good cause, to cooperate in a review of his or her entitlement or to follow prescribed treatment which would be expected (i) to restore his or her ability to engage in substantial gainful activity, or (ii) in the case of an individual under the age of 18, to eliminate or improve the individual's impairment or combination of impairments so that it no longer results in marked and severe functional limitations. Any determination under this paragraph shall be made on the basis of all the evidence available in the individual's case file, including new evidence concerning the individual's prior or current condition which is presented by the individual or secured by the Commissioner of Social Security. Any determination made under this paragraph shall be made on the basis of the weight of the evidence and on a neutral basis with regard to the individual's condition, without any initial inference as to the presence or absence of disability being drawn from the fact that the individual has previously been determined to be disabled.
 
 (b) For purposes of this subchapter, the term “eligible spouse” means an aged, blind, or disabled individual who is the husband or wife of another aged, blind, or disabled individual, and who, in a month, is living with such aged, blind, or disabled individual on the first day of the month or, in any case in which either spouse files an application for benefits, on the first day of the month following the date the application is filed, or, in any case in which either spouse requests restoration of eligibility under this subchapter during the month, at the time the request is filed. If two aged, blind, or disabled individuals are husband and wife as described in the preceding sentence, only one of them may be an “eligible individual” within the meaning of section 1382(a) of this title.
 
@@ -108,7 +108,7 @@
 
 (e) For purposes of this subchapter, the term “United States”, when used in a geographical sense, means the 50 States and the District of Columbia.
 
-(f)(1) For purposes of determining eligibility for and the amount of benefits for any individual who is married and whose spouse is living with him in the same household but is not an eligible spouse, such individual's income and resources shall be deemed to include any income and resources of such spouse, whether or not available to such individual, except to the extent determined by the Commissioner of Social Security to be inequitable under the circumstances.
+(f)(1) For purposes of determining eligibility for and the amount of benefits for any individual who is married and whose spouse is living with him in the same household but is not an eligible spouse, such individual's income and resources shall be deemed to include any income and resources of such spouse, whether or not available to such individual, except to the extent determined by the Commissioner of SocialSecurity to be inequitable under the circumstances.
 
 (2)(A) For purposes of determining eligibility for and the amount of benefits for any individual who is a child under age 18, such individual's income and resources shall be deemed to include any income and resources of a parent of such individual (or the spouse of such a parent) who is living in the same household as such individual, whether or not available to such individual, except to the extent determined by the Commissioner of Social Security to be inequitable under the circumstances.
 
@@ -130,7 +130,7 @@
 
 #### Amendments
 
-2004—Subsec. (a)(1)(B)(ii). Pub. L. 108–203 inserted “and” after “citizen of the United States,” and struckout “, and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” before period at end.
+2004—Subsec. (a)(1)(B)(ii). Pub. L. 108–203 inserted “and” after “citizen of the United States,” and struck out “, and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” before period at end.
 
 1997—Subsec. (a)(3)(H)(iii). Pub. L. 105–33, §5522(a)(1), added subcls. (I) and (II) and concluding provisions and struck out former subcls. (I) and (II) and concluding provisions which read as follows:
 
@@ -168,7 +168,7 @@ Subsec. (a)(4). Pub. L. 104–193, §211(c)(7), as amended by Pub. L. 105–33, 
 
 Pub. L. 104–193, §211(c)(1)–(6), as amended by Pub. L. 105–33, §5522(d), inserted “(A) in the case of an individual who is age 18 or older—” after “if such finding is supported by—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, in cl. (i) redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in cl. (ii) redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in subcls. (I) and (II) of cl. (ii) redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, added subpar. (B), redesignated former subpar. (D) as (C), and inserted “in the case of any individual,” before “substantial evidence” in that subpar.
 
-Subsec. (b). Pub. L. 104–193, §204(c)(1), substituted “, on the first day of the month following the date the application is filed, or, in any case in which either spouse requests” for “or requests” and struck out “application or” before “request is filed.”
+Subsec. (b). Pub. L. 104–193, §204(c)(1), substituted “, on the first day of the month following the date the application is filed, or, in any case in which eitherspouse requests” for “or requests” and struck out “application or” before “request is filed.”
 
 1994—Subsec. (a)(3)(A). Pub. L. 103–432, §221(a)(1), substituted “an individual” for “a child” before “under the age of 18”.
 
@@ -246,7 +246,7 @@ Subsec. (a)(3)(E). Pub. L. 93–233, §9(2), incorporated provisions of last sen
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–203, title IV, §434(b), Mar. 2, 2004, 118 Stat. 540, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to benefits payable for months beginning after the date of enactment of this Act \[Mar. 2, 2004\], but only on the basis of an application filed after such date.”
+Pub. L. 108–203, title IV, §434(b), Mar. 2, 2004, 118 Stat. 540, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to benefits payable for months beginning afterthe date of enactment of this Act \[Mar. 2, 2004\], but only on the basis of an application filed after such date.”
 
 #### Effective Date of 1997 Amendment
 
@@ -382,7 +382,7 @@ Amendment by section 4(b) of Pub. L. 98–460 applicable with respect to determi
 
 Amendment by section 8(b) of Pub. L. 98–460 applicable to determinations made after 60 days after Oct. 9, 1984, see section 8(c) of Pub. L. 98–460, set out as a note under section 421 of this title.
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1980 Amendment
 

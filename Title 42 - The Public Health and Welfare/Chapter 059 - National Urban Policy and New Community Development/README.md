@@ -12,10 +12,6 @@
 | :--- | ---: |
 | [4502\.](Part%20A%20-%20Development%20of%20a%20National%20Urban%20Policy/%C2%A7%2004502%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
 | [4503\.](Part%20A%20-%20Development%20of%20a%20National%20Urban%20Policy/%C2%A7%2004503%20-%20National%20Urban%20Policy%20Report.md) | National Urban Policy Report. |
-| (a) | Transmittal to Congress; contents. |
-| (b) | Supplementary reports. |
-| (c) | Advisory board. |
-| (d) | Referral. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

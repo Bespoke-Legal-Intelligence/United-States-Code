@@ -1,6 +1,6 @@
 ### §31343. Recording and discharging notices of claim of maritime lien
 
-(a) Except as provided under subsection (d) of this section, a person claiming a lien on a vessel documented, or for which an application for documentation has been filed, under chapter 121 may record with the Secretary of Transportation a notice of that person's lien claim on the vessel. To be recordable, the notice must—
+(a) Except as provided under subsection (d) of this section, a person claiming a lien on a vessel documented, or for which an application for documentation has been filed, under chapter 121may record with the Secretary of Transportation a notice of that person's lien claim on the vessel. To be recordable, the notice must—
 
 &emsp;(1) state the nature of the lien;
 
@@ -70,9 +70,5 @@ Subsecs. (e), (f). Pub. L. 107–295, §205(a)(1)(E), added subsecs. (e) and (f)
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–295 effective Jan. 1, 2003, see section 205(e) of Pub. L. 107–295, set out as a note under section 12111 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12111, 31325 of this title.
+Amendment by Pub. L. 107–295 effective Jan. 1, 2003, see section 205(e) of Pub. L. 107–295, set out as a note under section 31325 of this title.
 

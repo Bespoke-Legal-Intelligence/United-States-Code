@@ -2,7 +2,7 @@
 
 Any amount which is disregarded (or set aside for future needs) in determining the eligibility of and amount of the aid or assistance for any individual under a State plan approved under subchapter I, X, XIV, XVI, or XIX of this chapter,<sup>1</sup> shall not be taken into consideration in determining the eligibility of and amount of aid or assistance for any other individual under a State plan approved under any other of such subchapters.
 
-(Aug. 14, 1935, ch. 531, title XI, §1109, as added July 18, 1952, ch. 945, §7, 66 Stat. 778; amendedPub. L. 87–543, title I, §141(c), July 25, 1962, 76 Stat. 205; Pub. L. 89–97, title I, §121(c)(2), July 30, 1965, 79 Stat. 352; Pub. L. 90–248, title II, §241(c)(2), Jan. 2, 1968, 81 Stat. 917; Pub. L. 104–193, title I, §108(g)(1), Aug. 22, 1996, 110 Stat. 2168.)
+(Aug. 14, 1935, ch. 531, title XI, §1109, as added July 18, 1952, ch. 945, §7, 66 Stat. 778; amended Pub. L. 87–543, title I, §141(c), July 25, 1962, 76 Stat. 205; Pub. L. 89–97, title I, §121(c)(2), July 30, 1965, 79 Stat. 352; Pub. L. 90–248, title II, §241(c)(2), Jan. 2, 1968, 81 Stat. 917; Pub. L. 104–193, title I, §108(g)(1), Aug. 22, 1996, 110 Stat. 2168.)
 
 #### Amendments
 

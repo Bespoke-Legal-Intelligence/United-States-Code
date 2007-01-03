@@ -16,7 +16,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 &emsp;(6)(A) the application contains a plan in accordance with subsection (b) of this section and the plan is approved by the Secretary; and
 
-&emsp;(B) the State provides assurances satisfactory to the Secretary that the State compliedwith the provisions of the plan under subparagraph (A) that was approved by the Secretary for the most recent fiscal year for which the State received a grant under section 300x–21 of this title; and
+&emsp;(B) the State provides assurances satisfactory to the Secretary that the State complied with the provisions of the plan under subparagraph (A) that was approved by the Secretary for the most recent fiscal year for which the State received a grant under section 300x–21 of this title; and
 
 &emsp;(7) the application (including the plan under paragraph (6)) is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this subpart.
 
@@ -28,7 +28,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (2) Authority of Secretary regarding modifications
 
-&emsp;As a condition of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection (a)(6) of this section (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
+&emsp;As a condition of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that theState modify any provision of the plan submitted by the State under subsection (a)(6) of this section (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
 
 #### (3) Authority of Center for Substance Abuse Prevention
 

@@ -16,7 +16,7 @@ Public Law 93–435 (88 Stat. 1210), referred to in subsec. (b)(2), is Pub. L. 9
 
 1980—Subsec. (b). Pub. L. 96–205 designated existing provisions as par. (1) and added par. (2).
 
-1974—Subsec. (b). Pub. L. 93–435 substituted provisions conveying to the government of Virgin Islands title in lands now under its control with power to the Secretary of the Interior to reserve rights to the United States within 120 days after Oct. 5, 1974, with the exception of land and property being administeredby the Secretary of the Interior as part of the National Park System, for provisions that the government of Virgin Islands shall continue to have control over all public property under its control on July 22, 1954.
+1974—Subsec. (b). Pub. L. 93–435 substituted provisions conveying to the government of Virgin Islands title in lands now under its control with power to the Secretary of the Interior to reserve rights to the United States within 120 days after Oct. 5, 1974, with the exception of land and property being administered by the Secretary of the Interior as part of the National Park System, for provisions that the government of Virgin Islands shall continue to have control over all public property under its control on July 22, 1954.
 
 #### Submerged Lands, Conveyance to Territory
 

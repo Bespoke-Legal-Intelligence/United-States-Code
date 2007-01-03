@@ -32,7 +32,7 @@
 
 2002—Subsecs. (a)(1), (2)(B), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, §1343(a)(19)(A), substituted “(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the” for “it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, that the”.
+1986—Subsec. (a)(1). Pub. L. 99–661, §1343(a)(19)(A), substituted “(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the” for “it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportationwhen the Coast Guard is not operating as a service in the Navy, that the”.
 
 Subsec. (b). Pub. L. 99–661, §1343(a)(19)(B), inserted a comma after “Secretary of Defense”, substituted “with respect to the Coast Guard when it” for “when the Coast Guard”, and inserted a comma after “Navy”.
 
@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 99–167, §802(b)(1), (c)(1), inserted “and the Secretar
 
 Subsec. (c)(1). Pub. L. 99–167, §802(c)(2), substituted “subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2),” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 99–167, §802(b)(2), (c)(3), inserted “or failure to clean satisfactorily a family housingunit” and “, or the operating expenses account of the Coast Guard, as appropriate”.
+Subsec. (d). Pub. L. 99–167, §802(b)(2), (c)(3), inserted “or failure to clean satisfactorily a family housing unit” and “, or the operating expenses account of the Coast Guard, as appropriate”.
 
 Subsec. (e). Pub. L. 99–167, §802(c)(4), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of Defense shall prescribe regulations to carry out the provisions of this section, including (1) regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence referred to in subsection (a), and (2) regulations providing for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.”
 

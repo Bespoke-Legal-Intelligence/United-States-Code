@@ -10,7 +10,7 @@ In general.—The Appalachian Regional Commission may make grants—
 
 &emsp;&emsp;(A) for administrative expenses, including the development of areawide plans or action programs and technical assistance activities, of local development districts, but—
 
-&emsp;&emsp;&emsp;(i) the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;
+&emsp;&emsp;&emsp;(i) the amount of a grant shall not exceed 50 percent of administrative expensesor, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;
 
 &emsp;&emsp;&emsp;(ii) grants for administrative expenses shall not be made for a state agency certified as a local development district for a period of more than three years beginning on the date the initial grant is made for the development district; and
 

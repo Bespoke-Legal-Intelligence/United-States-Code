@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Uniform Funding and Management.—Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treatedas nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
+Authority for Uniform Funding and Management.—Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treated as nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
 (b)
 
@@ -10,7 +10,7 @@ Conditions on Availability.—Funds appropriated to the Department of Defense ma
 
 (c)
 
-Conversion of Employment Positions.—(1) The Secretary of Defense may identify positions of employees in morale, welfare, and recreation programs within the Department of Defense who are paid with appropriated funds whose status may be converted from the status of an employee paid with appropriated funds to the status of an employee of a nonappropriated fund instrumentality.
+Conversion of Employment Positions.—(1) The Secretary of Defense may identify positionsof employees in morale, welfare, and recreation programs within the Department of Defense who are paid with appropriated funds whose status may be converted from the status of an employee paid with appropriated funds to the status of an employee of a nonappropriated fund instrumentality.
 
 (2) The status of an employee in a position identified by the Secretary under paragraph (1) may, with the consent of the employee, be converted to the status of an employee of a nonappropriated fund instrumentality. An employee who does not consent to the conversion may not be removed from the position because of the failure to provide such consent.
 

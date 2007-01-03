@@ -6,7 +6,7 @@ When a charge is filed under section 3610 of this title, a complainant, a respon
 
 #### (b) Administrative law judge hearing in absence of election
 
-If an election is not made under subsection (a) of this section with respect to a charge filed under section 3610 of this title, the Secretary shall provide an opportunity for a hearing on the record with respect to a charge issued under section 3610 of this title. The Secretary shall delegate the conduct of a hearing under this section to an administrative law judge appointed under section 3105 of title 5. The administrative law judge shall conduct the hearing at a place in the vicinity in which the discriminatory housing practice is alleged to have occurred or to be about to occur.
+If an election is not made under subsection (a) of this section with respect to a charge filedunder section 3610 of this title, the Secretary shall provide an opportunity for a hearing on the record with respect to a charge issued under section 3610 of this title. The Secretary shall delegate the conduct of a hearing under this section to an administrative law judge appointed under section 3105 of title 5. The administrative law judge shall conduct the hearing at a place in the vicinity in which the discriminatory housing practice is alleged to have occurred or to be about to occur.
 
 #### (c) Rights of parties
 
@@ -38,7 +38,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 &emsp;(A) in an amount not exceeding $10,000 if the respondent has not been adjudged to have committed any prior discriminatory housing practice;
 
-&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practiceduring the 5-year period ending on the date of the filing of this charge; and
+&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practice during the 5-year period ending on the date of the filing of this charge; and
 
 &emsp;(C) in an amount not exceeding $50,000 if the respondent has been adjudged to have committed 2 or more discriminatory housing practices during the 7-year period ending on the date of the filing of this charge;
 
@@ -54,7 +54,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 (6) In the case of an order against a respondent against whom another order was issued within the preceding 5 years under this section, the Secretary shall send a copy of each such order to the Attorney General.
 
-(7) If the administrative law judge finds that the respondent has not engaged or is not about to engage in a discriminatory housing practice, as the case may be, such administrative law judge shall enter an order dismissing the charge. The Secretary shall make public disclosure of each such dismissal.
+(7) If the administrative law judge finds that the respondent has not engaged or is not about to engage in a discriminatory housing practice, as the case may be, such administrative lawjudge shall enter an order dismissing the charge. The Secretary shall make public disclosure of each such dismissal.
 
 #### (h) Review by Secretary; service of final order
 
@@ -114,7 +114,7 @@ The clerk of the court of appeals in which a petition for enforcement is filed u
 
 #### (p) Attorney's fees
 
-In any administrative proceeding brought under this section, or any court proceeding arising therefrom, or any civil action under this section, the administrative law judge or the court, as the case may be, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee and costs. The United States shall be liable for such fees and costs to the extent provided by section 504 of title 5 or by section 2412 of title 28.
+In any administrative proceeding brought under this section, or any court proceeding arising therefrom, or any civil action under this section, the administrative law judge or the court,as the case may be, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee and costs. The United States shall be liable for such fees and costs to the extent provided by section 504 of title 5 or by section 2412 of title 28.
 
 (Pub. L. 90–284, title VIII, §812, as added Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1629.)
 

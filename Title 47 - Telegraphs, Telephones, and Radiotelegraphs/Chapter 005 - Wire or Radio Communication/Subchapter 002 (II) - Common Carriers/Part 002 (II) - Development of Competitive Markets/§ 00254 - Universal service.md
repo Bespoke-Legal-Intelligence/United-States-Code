@@ -8,7 +8,7 @@
 
 #### (2) Commission action
 
-&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall complete any proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
+&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall completeany proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
 
 #### (b) Universal service principles
 
@@ -74,7 +74,7 @@ After the date on which Commission regulations implementing this section take ef
 
 #### (f) State authority
 
-A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, and sufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
+A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, andsufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
 
 #### (g) Interexchange and interstate services
 
@@ -132,7 +132,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board,local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
 #### (B) Certification with respect to minors
 
@@ -188,7 +188,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
 
-> &emsp;&emsp;&emsp;&emsp;Any school that is unable to certify compliance with such requirements in suchsecond program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year and all subsequent program years under this subsection, until such time as such school comes into compliance with this paragraph.
+> &emsp;&emsp;&emsp;&emsp;Any school that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year and all subsequent program years under this subsection, until such time as such school comes into compliance with this paragraph.
 
 #### (III) Waivers
 
@@ -264,7 +264,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (D) Disabling during adult use
 
-&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned,during use by an adult, to enable access for bona fide research or other lawful purpose.
+&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
 
 #### (E) Timing of implementation
 
@@ -500,7 +500,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1741\], Dec. 21, 2000, 114 
 
 “(a)
 
-Three-Judge District Court Hearing.—Notwithstanding any other provision of law, any civil action challenging the constitutionality, on its face, ofthis title \[see Short Title of 2000 Amendments note set out under section 6301 of Title 20, Education\] or any amendment made by this title, or any provision thereof, shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28, United States Code.
+Three-Judge District Court Hearing.—Notwithstanding any other provision of law, any civil action challenging the constitutionality, on its face, of this title \[see Short Title of 2000 Amendments note set out under section 6301 of Title 20, Education\] or any amendment made by this title, or any provision thereof, shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28, United States Code.
 
 “(b)
 

@@ -1,6 +1,6 @@
 ### §2633. Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department
 
-(a) Notwithstanding section 1301(a) of title 31, the Secretary of a military department may,under such regulations as he may prescribe, furnish stevedoring and terminal services and facilities to vessels carrying cargo, or passengers, or both, sponsored by his department.
+(a) Notwithstanding section 1301(a) of title 31, the Secretary of a military department may, under such regulations as he may prescribe, furnish stevedoring and terminal services and facilities to vessels carrying cargo, or passengers, or both, sponsored by his department.
 
 (b) The furnishing of services and facilities under this section shall be at fair and reasonable rates.
 

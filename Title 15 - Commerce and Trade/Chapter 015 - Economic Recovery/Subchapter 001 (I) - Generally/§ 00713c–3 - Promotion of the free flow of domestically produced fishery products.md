@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) any fishery development foundation or other private nonprofit corporation located in Alaska; and
 
-&emsp;&emsp;(C) any corporation, partnership, association, or other entity (including, but not limited to, any fishery development foundation or other private nonprofit corporation not located in Alaska), nonprofit or otherwise, if such entity is a citizen of the United States within the meaning of sections 802 and 803 of title 46, Appendix, and for purposes of applying such sections 802 and 803 with respect to this section—
+&emsp;&emsp;(C) any corporation, partnership, association, or other entity (including, but not limited to, any fishery development foundation or other private nonprofit corporation not located in Alaska), nonprofit or otherwise, if such entity is a citizen of the United States within the meaning of section 50501 of title 46 and for purposes of applying such section 50501 with respect to this section—
 
 &emsp;&emsp;&emsp;(i) the term “State” as used therein includes any State referred to in paragraph (3),
 
@@ -28,7 +28,7 @@ As used in this section—
 
 &emsp;&emsp;(A) an individual who qualifies as such under section 8 of the Schedule on Transitional Matters attached to the Constitution of the Northern Mariana Islands; or
 
-&emsp;&emsp;(B) a corporation, partnership, association, or other entity organized or existing under the laws of the Northern Mariana Islands, not less than 75 percent of the interest in which is owned by individuals referred to in subparagraph (A) or citizens or nationals of the United States, in cases in which “owned” is used in the same sense as in sections 802 and 803 of title 46, Appendix.
+&emsp;&emsp;(B) a corporation, partnership, association, or other entity organized or existing under the laws of the Northern Mariana Islands, not less than 75 percent of the interest in which is owned by individuals referred to in subparagraph (A) or citizens or nationals of the United States, in cases in which “owned” is used in the same sense as in section 50501 of title 46.
 
 #### (b) Transfer of funds
 
@@ -44,7 +44,7 @@ As used in this section—
 
 &emsp;&emsp;(iv) to fund the Federal share of a fishing capacity reduction program established under section 1861a of title 16; and
 
-&emsp;(B) the provision of moneys, subject to paragraph (2), to carry out the purposes of the Fisheries Promotion Fund established under section 208(a) <sup>2</sup> of the Fish and Seafood Promotion Act of 1986 \[16 U.S.C. 4008(a)\].
+&emsp;(B) the provision of moneys, subject to paragraph (2), to carry out the purposes of the Fisheries Promotion Fund established undersection 208(a) <sup>2</sup> of the Fish and Seafood Promotion Act of 1986 \[16 U.S.C. 4008(a)\].
 
 (2) There are transferred from the fund established under paragraph (1) to the Fisheries Promotion Fund referred to in paragraph (1)(B) $750,000 in fiscal year 1987, $3,000,000 in each of fiscal years 1988 and 1989, and $2,000,000 in each of fiscal years 1990 and 1991.
 
@@ -56,7 +56,7 @@ As used in this section—
 
 &emsp;(A) at least once each fiscal year, receive, during a 60-day period specified by him, applications for grants under this subsection;
 
-&emsp;(B) prescribe the form and manner in which applications for grants under this subsectionmust be made, including, but not limited to, the specification of the information which must accompany applications to ensure that the proposed projects comply with Federal law and can be evaluated in accordance with paragraph (3)(B); and
+&emsp;(B) prescribe the form and manner in which applications for grants under this subsection must be made, including, but not limited to, the specification of the information which must accompany applications to ensure that the proposed projects comply with Federal law and can be evaluated in accordance with paragraph (3)(B); and
 
 &emsp;(C) approve or disapprove each such application before the close of the 120th day after the last day of the 60-day period (specified under subparagraph (a)) in which the application was received.
 
@@ -116,9 +116,13 @@ As used in this section—
 
 &emsp;(B) the Secretary shall use the balance of the moneys in the fund to finance those activities of the National Marine Fisheries Service which are directly related to development of the United States fisheries pursuant to subsection (d) of this section.
 
-(2) The Secretary shall, consistent with the number of meritorious applications receivedwith respect to any fiscal year, obligate or expend all of the moneys in the fund described in paragraph (1). Any such moneys which are not expended in a given fiscal year shall remain available for expenditure in accordance with this section without fiscal year limitation, except that the Secretary shall not obligate such moneys at a rate less than that necessary to prevent the balance of moneys in the fund from exceeding $3,000,000 at the end of any fiscal year.
+(2) The Secretary shall, consistent with the number of meritorious applications received with respect to any fiscal year, obligate or expend all of the moneys in the fund described in paragraph (1). Any such moneys which are not expended in a given fiscal year shall remain available for expenditure in accordance with this section without fiscal year limitation, except that the Secretary shall not obligate such moneys at a rate less than that necessary to prevent the balance of moneys in the fund from exceeding $3,000,000 at the end of any fiscal year.
 
 (Aug. 11, 1939, ch. 696, §2, 53 Stat. 1412; July 1, 1954, ch. 447, 68 Stat. 376; Aug. 8, 1956, ch. 1036, §12(b), 70 Stat. 1124; Pub. L. 89–348, §1(13), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 96–561, title II, §210, Dec. 22, 1980, 94 Stat. 3287; Pub. L. 97–424, title IV, §423(a), Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–659, title II, §209(e), Nov. 14, 1986, 100 Stat. 3721; Pub. L. 101–627, title VII, §703, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–567, title IX, §902(c), Oct. 29, 1992, 106 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title I, §116(c), Oct. 11, 1996, 110 Stat. 3603.)
+
+#### Codification
+
+“Section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916 (46 U.S.C. 802)” in subsec. (a)(1)(C) and (5)(B) and “such section 50501” substituted for “such section 2” in subsec. (a)(1)(C) on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
 #### Amendments
 

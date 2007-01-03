@@ -66,7 +66,7 @@ There is hereby authorized for the Department of Defense for fiscal year 2002, $
 
 #### Codification
 
-Section was enacted as the Critical Infrastructures Protection Act of 2001 and also as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+Section was enacted as the Critical Infrastructures Protection Act of 2001 and also as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 #### Transfer of Functions
 

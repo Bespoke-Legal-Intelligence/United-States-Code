@@ -6,9 +6,9 @@ For purposes of sections 3712a and 3712b of this title, the term “State” inc
 
 #### Codification
 
-Another section 105 of Pub. L. 90–351 is classified to section 3712d of this title.
+Another section 105 of Pub. L. 90–351 was renumbered section 109 and is classified to section 3712h of this title.
 
 #### Effective Date
 
-Section effective 90 days after Jan. 5, 2006, see section 1121(c) of Pub. L. 109–162, set out as a note under section 3712a of this title.
+Section effective with respect to appropriations for fiscal year 2007 and for each fiscal year thereafter, see section 1121(c) of Pub. L. 109–162, set out as a note under section 3712a of this title.
 

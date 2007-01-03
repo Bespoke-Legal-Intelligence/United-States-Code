@@ -20,7 +20,17 @@ A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–162, §1, Jan. 5, 2006, 119 Stat. 2960, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Violence Against Women and Department of Justice Reauthorization Act of 2005’.”
+Pub. L. 109–248, title VI, §611, July 27, 2006, 120 Stat. 632, provided that: “This subtitle \[subtitle B (§§611–617) of title VI of Pub. L. 109–248, amending provisions set out as a note under section 13751 of this title\] may be cited as the ‘National Police Athletic League Youth Enrichment Reauthorization Act of 2006’.”
+
+Pub. L. 109–162, §1, Jan. 5, 2006, 119 Stat. 2960, as amended Pub. L. 109–271, §1(a), Aug. 12, 2006, 120 Stat. 750, provided that:
+
+“(a)
+
+In General.—This Act \[see Tables for classification\] may be cited as the ‘Violence Against Women and Department of Justice Reauthorization Act of 2005’.
+
+“(b)
+
+Separate Short Titles.—Section 3 and titles I through IX of this Act \[see Tables for classification\] may be cited as the ‘Violence Against Women Reauthorization Act of 2005’. Title XI of this Act \[see Tables for classification\] may be cited as the ‘Department of Justice Appropriations Authorization Act of 2005’.”
 
 Pub. L. 109–162, title X, §1001, Jan. 5, 2006, 119 Stat. 3084, provided that: “This title \[amending sections 14132, 14135, and 14135a of this title and sections 3142 and 3297 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘DNA Fingerprint Act of 2005’.”
 
@@ -36,7 +46,7 @@ Pub. L. 108–405, title III, §301, Oct. 30, 2004, 118 Stat. 2272, provided tha
 
 Pub. L. 106–560, §1, Dec. 21, 2000, 114 Stat. 2784, provided that: “This Act \[enacting sections 13726 to 13726c of this title\] may be cited as the ‘Interstate Transportation of Dangerous Criminals Act of 2000’ or ‘Jeanna's Act’.”
 
-Pub. L. 106–546, §1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act \[enacting sections 14135 to 14135e of this title and section 1565 of Title 10, Armed Forces, amending sections 3753, 3796kk–2, 14132, and 14133 of this title and sections 3563, 3583, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14135 of this title and section 1565 of Title 10, and amending provisions set out as a note under section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
+Pub. L. 106–546, §1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act \[enacting sections 14135 to 14135e of this title and section 1565 of Title 10, Armed Forces, amending sections 3753, 3796kk–2, 14132, and 14133 of this title and sections 3563, 3583, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14135 of this title and section 1565 of Title 10, and amending provisions set out as a noteunder section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
 
 Pub. L. 106–386, div. B, §1001, Oct. 28, 2000, 114 Stat. 1491, provided that: “This division \[see Tables for classification\] may be cited as the ‘Violence Against Women Act of 2000’.”
 
@@ -50,29 +60,29 @@ Pub. L. 104–145, §1, May 17, 1996, 110 Stat. 1345, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 103–322 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Violent Crime Control and Law Enforcement Act of 1994’.”
+Pub. L. 103–322, §1, Sept. 13, 1994, 108 Stat. 1796, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Violent Crime Control and Law Enforcement Act of 1994’.”
 
-Section 31101 of title III of Pub. L. 103–322 provided that: “This subtitle \[subtitle K (§§31101–31133) of title III of Pub. L. 103–322, enacting part G (§13821 et seq.) of subchapter II of this chapter\] may be cited as the ‘National Community Economic Partnership Act of 1994’.”
+Pub. L. 103–322, title III, §31101, Sept. 13, 1994, 108 Stat. 1882, provided that: “This subtitle \[subtitle K (§§31101–31133) of title III of Pub. L. 103–322, enacting part G (§13821 et seq.) of subchapter II of this chapter\] may be cited as the ‘National Community Economic Partnership Act of 1994’.”
 
-Section 31901 of title III of Pub. L. 103–322 provided that: “This subtitle \[subtitle S (§§31901–31922) of title III of Pub. L. 103–322, enacting part I (§13881 et seq.) of subchapter II of this chapter\] may be cited as the ‘Family Unity Demonstration Project Act’.”
+Pub. L. 103–322, title III, §31901, Sept. 13, 1994, 108 Stat. 1892, provided that: “This subtitle \[subtitle S (§§31901–31922) of title III of Pub. L. 103–322, enacting part I (§13881 et seq.) of subchapter II of this chapter\] may be cited as the ‘Family Unity Demonstration Project Act’.”
 
-Section 40001 of title IV of Pub. L. 103–322 provided that: “This title \[see Tables for classification\] may be cited as the ‘Violence Against Women Act of 1994’.”
+Pub. L. 103–322, title IV, §40001, Sept. 13, 1994, 108 Stat. 1902, provided that: “This title \[see Tables for classification\] may be cited as the ‘Violence Against Women Act of 1994’.”
 
-Section 40101 of title IV of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§40101–40156) of title IV of Pub. L. 103–322, enacting part A (§13931 et seq.) of subchapter III of this chapter, sections 300w–10, 3796gg to 3796gg–5, and 5712d of this title, section 1a–7a of Title 16, Conservation, and sections 2247, 2248, and 2259 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 3797, 13012, 13014, 13021, and 13024 of this title, section 460<i>l</i>–8 of Title 16, and Rule 412 of the Federal Rules of Evidence, repealing sections 3796aa–4 and 3796aa–7 of this title, and enacting provisions set out as notes under sections 994 and 2074 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Safe Streets for Women Act of 1994’.”
+Pub. L. 103–322, title IV, §40101, Sept. 13, 1994, 108 Stat. 1903, provided that: “This subtitle \[subtitle A (§§40101–40156) of title IV of Pub. L. 103–322, enacting part A (§13931 et seq.) of subchapter III of this chapter, sections 300w–10, 3796gg to 3796gg–5, and 5712d of this title, section 1a–7a of Title 16, Conservation, and sections 2247, 2248, and 2259 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 3797, 13012, 13014, 13021, and 13024 of this title, section 460<i>l</i>–8 of Title 16, and Rule 412 of the Federal Rules of Evidence, repealing sections 3796aa–4 and 3796aa–7 of this title, and enacting provisions set out as notes under sections 994 and 2074 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Safe Streets for Women Act of 1994’.”
 
-Section 40201 of title IV of Pub. L. 103–322 provided that: “This title \[probably should be “subtitle”, meaning subtitle B (§§40201–40295) of title IV of Pub. L. 103–322, enacting part B (§13951 et seq.) of subchapter III of this chapter, sections 3796hh to 3796hh–4 and 10416 to 10418 of this title, and sections 2261 to 2266 of Title 18, Crimes and Criminal Procedure, and amending sections 3782, 3783, 3793, 3797, 10402, and 10407 to 10410 of this title\] may be cited as the ‘Safe Homes for Women Act of 1994’.”
+Pub. L. 103–322, title IV, §40201, Sept. 13, 1994, 108 Stat. 1925, provided that: “This title \[probably should be “subtitle”, meaning subtitle B (§§40201–40295) of title IV of Pub. L. 103–322, enacting part B (§13951 et seq.) of subchapter III of this chapter, sections 3796hh to 3796hh–4 and 10416 to 10418 of this title, and sections 2261 to 2266 of Title 18, Crimes and Criminal Procedure, and amending sections 3782, 3783, 3793, 3797, 10402, and 10407 to 10410 of this title\] may be cited as the ‘Safe Homes for Women Act of 1994’.”
 
-Section 40301 of title IV of Pub. L. 103–322 provided that: “This subtitle \[subtitle C (§§40301–40304) of title IV of Pub. L. 103–322, enacting part C (§13981) of subchapter III of this chapter and amending section 1988 of this title and section 1445 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Civil Rights Remedies for Gender-Motivated Violence Act’.”
+Pub. L. 103–322, title IV, §40301, Sept. 13, 1994, 108 Stat. 1941, provided that: “This subtitle \[subtitle C (§§40301–40304) of title IV of Pub. L. 103–322, enacting part C (§13981) of subchapter III of this chapter and amending section 1988 of this title and section 1445 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Civil Rights Remedies for Gender-Motivated Violence Act’.”
 
-Section 40401 of title IV of Pub. L. 103–322 provided that: “This subtitle \[subtitle D (§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§13991 et seq.) of subchapter III of this chapter\] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
+Pub. L. 103–322, title IV, §40401, Sept. 13, 1994, 108 Stat. 1942, provided that: “This subtitle \[subtitle D (§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§13991 et seq.) of subchapter III of this chapter\] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
 
-Pub. L. 103–322, title IV, §41001, as added by Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2979, provided that: “This subtitle \[subtitle J (§§41001–41006) oftitle IV of Pub. L. 103–322, enacting part I (§14043 et seq.) of subchapter III of this chapter\] may be cited as the ‘Violence Against Women Act Court Training and Improvements Act of 2005’.”
+Pub. L. 103–322, title IV, §41001, as added by Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2979, provided that: “This subtitle \[subtitle J (§§41001–41006) of title IV of Pub. L. 103–322, enacting part I (§14043 et seq.) of subchapter III of this chapter\] may be cited as the ‘Violence Against Women Act Court Training and Improvements Act of 2005’.”
 
-Section 200101 of title XX of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§14091 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Police Corps Act’.”
+Pub. L. 103–322, title XX, §200101, Sept. 13, 1994, 108 Stat. 2049, provided that: “This subtitle \[subtitle A (§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§14091 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Police Corps Act’.”
 
-Section 200201 of title XX of Pub. L. 103–322 provided that: “This subtitle \[subtitle B (§§200201–200210) of title XX of Pub. L. 103–322, enacting part B (§14111 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Law Enforcement Scholarships and Recruitment Act’.”
+Pub. L. 103–322, title XX, §200201, Sept. 13, 1994, 108 Stat. 2057, provided that: “This subtitle \[subtitle B (§§200201–200210) of title XX of Pub. L. 103–322, enacting part B (§14111 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Law Enforcement Scholarships and Recruitment Act’.”
 
-Section 210301 of title XXI of Pub. L. 103–322 provided that: “This subtitle \[subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§14131 et seq.) of subchapter IX of this chapter and sections 3796kk to 3796kk–6 of this title, amending sections 3751, 3753, 3793, and 3797 of this title, and enacting provisions set out as a note under section 3751 of this title\] may be cited as the ‘DNA Identification Act of 1994’.”
+Pub. L. 103–322, title XXI, §210301, Sept. 13, 1994, 108 Stat. 2065, provided that: “This subtitle \[subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§14131 et seq.) of subchapter IX of this chapter and sections 3796kk to 3796kk–6 of this title, amending sections 3751, 3753, 3793, and 3797 of this title, and enacting provisions set out as a note under section 3751 of this title\] may be cited as the ‘DNA Identification Act of 1994’.”
 
-Section 220001 of title XXII of Pub. L. 103–322 provided that: “This title \[enacting subchapter X (§14171) of this chapter and section 511A of Title 18, Crimes and Criminal Procedure, and amending section 511 of Title 18\] may be cited as the ‘Motor Vehicle Theft Prevention Act’.”
+Pub. L. 103–322, title XXII, §220001, Sept. 13, 1994, 108 Stat. 2074, provided that: “This title \[enacting subchapter X (§14171) of this chapter and section 511A of Title 18, Crimes and Criminal Procedure, and amending section 511 of Title 18\] may be cited as the ‘Motor Vehicle Theft Prevention Act’.”
 

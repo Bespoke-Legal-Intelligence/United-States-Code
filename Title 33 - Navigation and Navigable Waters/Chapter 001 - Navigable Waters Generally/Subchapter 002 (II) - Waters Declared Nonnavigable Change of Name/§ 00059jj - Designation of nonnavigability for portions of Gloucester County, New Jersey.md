@@ -8,7 +8,7 @@
 
 #### (2) Description of areas
 
-&emsp;The areas referred to in paragraph (1) are certain parcels of property situated in the West Deptford Township, Gloucester County,New Jersey, as depicted on Tax Assessment Map \#26, Block \#328, Lots \#1, 1.03, 1.08, and 1.09, more fully described as follows:
+&emsp;The areas referred to in paragraph (1) are certain parcels of property situated in the West Deptford Township, Gloucester County, New Jersey, as depicted on Tax Assessment Map \#26, Block \#328, Lots \#1, 1.03, 1.08, and 1.09, more fully described as follows:
 
 &emsp;&emsp;(A) Beginning at the point in the easterly line of Church Street (49.50 feet wide), said beginning point being the following 2 courses from the intersection of the centerline of Church Street with the curved northerly right-of-way line of Pennsylvania-Reading Seashore Lines Railroad (66.00 feet wide)—
 
@@ -134,7 +134,7 @@
 
 #### (c) Termination of designation
 
-If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup>4</sup> of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section isnot commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
+If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup>4</sup> of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
 
 (Pub. L. 107–66, title I, §107, Nov. 12, 2001, 115 Stat. 494.)
 

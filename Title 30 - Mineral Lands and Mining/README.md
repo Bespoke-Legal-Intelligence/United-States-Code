@@ -1,5 +1,5 @@
 
-30 U.S.C.<br>United States Code, 2005 Edition<br>Title 30 - MINERAL LANDS AND MINING<br>From the U.S. Government Publishing Office, www.gpo.gov
+30 U.S.C.<br>United States Code, 2006 Edition<br>Title 30 - MINERAL LANDS AND MINING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 30—MINERAL LANDS AND MINING
 

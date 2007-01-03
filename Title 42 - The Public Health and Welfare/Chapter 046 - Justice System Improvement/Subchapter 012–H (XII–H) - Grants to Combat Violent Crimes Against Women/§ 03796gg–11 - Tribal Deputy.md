@@ -26,7 +26,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 &emsp;&emsp;(H) support enforcement of tribal protection orders and implementation of full faith and credit educational projects and comity agreements between Indian tribes and States; and
 
-&emsp;&emsp;(I) ensure that adequate tribal technical assistance is made available to Indian tribes, tribal courts, tribal organizations, and tribal nonprofit organizations for all programs relating to violence against Indian women.
+&emsp;&emsp;(I) ensure that adequate tribal technical assistance that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law is made available to Indian tribes, tribal courts, tribal organizations, and tribal nonprofit organizations for all programs relating to violence against Indian women.
 
 #### (c) Authority
 
@@ -48,7 +48,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 &emsp;&emsp;(E) development, implementation, and maintenance of tribal electronic databases for tribal protection order registries.
 
-(Pub. L. 90–351, title I, §2008, as added Pub. L. 109–162, title IX, §907, Jan. 5, 2006, 119 Stat. 3082.)
+(Pub. L. 90–351, title I, §2016, formerly §2008, as added Pub. L. 109–162, title IX, §907, Jan. 5, 2006, 119 Stat. 3082; renumbered §2016 and amended Pub. L. 109–271, §7(a)(1)(B), (C), (4), Aug. 12, 2006, 120 Stat. 763, 764.)
 
 #### References in Text
 
@@ -60,7 +60,11 @@ The Violence Against Women Act of 1994, referred to in subsec. (c)(1), is title 
 
 The Violence Against Women Act of 2000, referred to in subsec. (c)(1), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 13701 of this title and Tables.
 
-#### Codification
+#### Amendments
 
-Another section 2008 of Pub. L. 90–351 is classified to section 3796gg–2 of this title.
+2006—Subsec. (b)(1)(I). Pub. L. 109–271, §7(a)(4), inserted “that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law” after “technical assistance”.
+
+#### Effective Date
+
+Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of this title.
 

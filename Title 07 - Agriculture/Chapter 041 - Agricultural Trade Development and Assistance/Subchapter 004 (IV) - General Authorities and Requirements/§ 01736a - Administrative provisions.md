@@ -8,7 +8,7 @@
 
 #### (2) Invitation for bid
 
-&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II of this chapter unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. Allawards in the purchase of commodities or ocean transportation financed under subchapter II of this chapter shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
+&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II of this chapter unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II of this chapter shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
 
 #### (b) Agents
 
@@ -20,7 +20,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary or the Commodity Credit Corporation may award, under a competitive bidding process, contracts for establishing freight agents who shall act on behalf of the Secretary or the Corporation to handle the shipping of commodities financed under this chapter.
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary or the Commodity Credit Corporation may award, under a competitive bidding process, contracts for establishing freightagents who shall act on behalf of the Secretary or the Corporation to handle the shipping of commodities financed under this chapter.
 
 #### (C) Avoidance of conflict of interest of contractors
 
@@ -70,7 +70,7 @@
 
 #### (4) Prepositioning
 
-&emsp;Funds made available for fiscal years 2001 through 2007 to carry out subchapters III andIII-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $2,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+&emsp;Funds made available for fiscal years 2001 through 2007 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $2,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
 #### (d) Timing of shipments
 
@@ -142,7 +142,7 @@ Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of p
 
 Subsec. (f)(2)(D). Pub. L. 104–127, §216(4), added subpar. (D).
 
-Subsec. (g). Pub. L. 104–127, §216(5), struck out heading and text of subsec. (g). Text read as follows: “On World Food Day, October 16 of each year, the President shall submit to the appropriate committees of Congressa report, prepared with the assistance of the Secretary and the Administrator, assessing progress towards food security in each country receiving United States Government food assistance. Special emphasis should be given in such report to the nutritional status of the poorest populations in such countries.”
+Subsec. (g). Pub. L. 104–127, §216(5), struck out heading and text of subsec. (g). Text read as follows: “On World Food Day, October 16 of each year, the President shall submit to the appropriate committees of Congress a report, prepared with the assistance of the Secretary and the Administrator, assessing progress towards food security in each country receiving United States Government food assistance. Special emphasis should be given in such report to the nutritional status of the poorest populations in such countries.”
 
 1995—Subsecs. (b) to (h). Pub. L. 104–66 redesignated subsecs. (c) to (h) as (b) to (g), respectively, and struck out former subsec. (b) which required reporting of agricultural commodity or ocean transportation supplier fees.
 

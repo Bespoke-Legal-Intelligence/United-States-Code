@@ -176,7 +176,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretarydetermines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -340,7 +340,7 @@ Any person who intentionally violates any requirement of this section or any reg
 
 #### (2) Additional fees
 
-&emsp;The Secretary shall require the payment of fees for inspections of laboratories which are not accredited and for the cost of performing proficiency testing on laboratories which do not participate in proficiency testing programs approved under subsection (f)(3)(C) of this section.
+&emsp;The Secretary shall require the payment of fees for inspections of laboratories which arenot accredited and for the cost of performing proficiency testing on laboratories which do not participate in proficiency testing programs approved under subsection (f)(3)(C) of this section.
 
 #### (3) Criteria
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (j), (k), (<i>l</i>), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (<i>l</i>) of such section 353 as in effect on December 31, 1988, shall continueto apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
+Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (j), (k), (<i>l</i>), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (<i>l</i>) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
 
 #### Effective Date
 

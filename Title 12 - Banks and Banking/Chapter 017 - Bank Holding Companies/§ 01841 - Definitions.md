@@ -108,41 +108,9 @@ Exceptions.—The term “bank” does not include any of the following:
 
 &emsp;&emsp;&emsp;&emsp;(III) the control of which is not acquired by any company after August 10, 1987; or
 
-&emsp;&emsp;&emsp;(ii) an institution which does not, directly, indirectly, or through an affiliate,engage in any activity in which it was not lawfully engaged as of March 5, 1987,
+&emsp;&emsp;&emsp;(ii) an institution which does not, directly, indirectly, or through an affiliate, engage in any activity in which it was not lawfully engaged as of March 5, 1987,
 
 > &emsp;&emsp;except that this subparagraph shall cease to apply to any institution which permits any overdraft (including any intraday overdraft), or which incurs any such overdraft in such institution's account at a Federal Reserve bank, on behalf of an affiliate if such overdraft is not the result of an inadvertent computer or accounting error that is beyond the control of both the institution and the affiliate, or that is otherwise permissible for a bank controlled by a company described in section 1843(f)(1) of this title.
-
-&emsp;&emsp;(I) The Investors Fiduciary Trust Company, located in Kansas City, Missouri, so long as such institution—
-
-&emsp;&emsp;&emsp;(i) engages only in trust, fiduciary, and agency activities in which it was lawfully engaged on March 5, 1987;
-
-&emsp;&emsp;&emsp;(ii) engages in such activities only at the same number of locations at which such activities were conducted on such date;
-
-&emsp;&emsp;&emsp;(iii) does not accept demand deposits other than demand deposits which are maintained by such institution in—
-
-&emsp;&emsp;&emsp;&emsp;(I) a trust or fiduciary capacity;
-
-&emsp;&emsp;&emsp;&emsp;(II) the institution's capacity as a custodian or as a paying, transfer, shareholder servicing, securities clearing, escrow, or dividend disbursing agent; or
-
-&emsp;&emsp;&emsp;&emsp;(III) any capacity which is incidental to the trust or fiduciary activities of the institution;
-
-&emsp;&emsp;&emsp;(iv) does not engage in the business of making commercial loans;
-
-&emsp;&emsp;&emsp;(v) does not exercise discount or borrowing privileges pursuant to section 19(b)(7) of the Federal Reserve Act \[12 U.S.C. 461(b)(7)\]; and
-
-&emsp;&emsp;&emsp;(vi) is not directly or indirectly controlled by any company other than a company which directly or indirectly controlled such institution on March 5, 1987.
-
-&emsp;&emsp;(J) A savings bank (as defined in section 3(g) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(g)\]) which—
-
-&emsp;&emsp;&emsp;(i) is an insured bank (as defined in section 3(h) of such Act \[12 U.S.C. 1813(h)\]);
-
-&emsp;&emsp;&emsp;(ii) is a subsidiary of the Great Western Financial Corporation as a result of an approval in writing by the State bank supervisor of the State of New York before June 30, 1987;
-
-&emsp;&emsp;&emsp;(iii) meets or exceeds the investment requirements which an insured institution must meet in order to be a qualified thrift lender under section 1730a(<i>o</i>) <sup>1</sup> of this title; and
-
-&emsp;&emsp;&emsp;(iv) does not, directly, or through insurance products such savings bank receives from or provides to the Great Western Financial Corporation, engage in the sale or underwriting of insurance,
-
-> &emsp;&emsp;except that this subparagraph shall cease to apply with respect to such savings bank or any successor institution if any deposits of any other subsidiary or affiliate of the Great Western Financial Corporation which are subject to an assessment of an insurance premium under subsection (b) or (c) of section 1727 <sup>1</sup> of this title are, directly or indirectly by any device whatsoever, transferred to or acquired by such savings bank or any successor institution which would have the effect of materially reducing such premium assessments. The exemption provided by this subparagraph shall cease to apply if Great Western Financial Corporation uses such savings bank or any successor institution as a vehicle to move such Corporation from Federal Savings and Loan Insurance Corporation insurance to Federal Deposit Insurance Corporation insurance.
 
 (d) “Subsidiary”, with respect to a specified bank holding company, means (1) any company 25 per centum or more of whose voting shares (excluding shares owned by the United States or by any company wholly owned by the United States) is directly or indirectly owned or controlled by such bank holding company, or is held by it with power to vote; (2) any company the election of a majority of whose directors is controlled in any manner by such bank holding company; or (3) any company with respect to the management of policies of which such bank holding company has the power, directly or indirectly, to exercise a controlling influence, as determined by the Board, after notice and opportunity for hearing.
 
@@ -154,11 +122,11 @@ Exceptions.—The term “bank” does not include any of the following:
 
 &emsp;(1) shares owned or controlled by any subsidiary of a bank holding company shall be deemed to be indirectly owned or controlled by such bank holding company; and
 
-&emsp;(2) shares held or controlled directly or indirectly by trustees for the benefit of (A) a company, (B) the shareholders or members of a company, or (C) the employees (whether exclusively or not) of a company, shall be deemed to be controlled by such company.
+&emsp;(2) shares held or controlled directly or indirectly by trustees for the benefit of (A) a company, (B) the shareholders or members of a company, or (C) the employees (whether exclusively or not) of a company, shall be deemed to be controlled by such company, unless the Board determines that such treatment is not appropriate in light of the facts and circumstances of the case and the purposes of this chapter.
 
 (h)(1) Except as provided by paragraph (2), the application of this chapter and of section 371c of this title shall not be affected by the fact that a transaction takes place wholly or partly outside the United States or that a company is organized or operates outside the United States.
 
-(2) Except as provided in paragraph (3), the prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States ifsuch shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States. For the purpose of this subsection, the term “section 2(h)(2) company” means any company whose shares are held pursuant to this paragraph.
+(2) Except as provided in paragraph (3), the prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States. For the purpose of this subsection, the term “section 2(h)(2) company” means any company whose shares are held pursuant to this paragraph.
 
 (3) Nothing in paragraph (2) authorizes a section 2(h)(2) company to engage in (or acquire or hold more than 5 percent of the outstanding shares of any class of voting securities of a company engaged in) any banking, securities, insurance, or other financial activities, as defined by the Board, in the United States. This paragraph does not prohibit a section 2(h)(2) company from holding shares that were lawfully acquired before August 10, 1987.
 
@@ -184,25 +152,19 @@ Definition of Savings Associations and Related Term.—The term “savings assoc
 
 &emsp;(1) any Federal savings association or Federal savings bank;
 
-&emsp;(2) any building and loan association, savings and loan association, homestead association, or cooperative bank if such association or cooperative bank is a member of the Savings Association Insurance Fund; and
+&emsp;(2) any building and loan association, savings and loan association, homestead association, or cooperative bank if such association or cooperative bank is a member of the Deposit Insurance Fund; and
 
 &emsp;(3) any savings bank or cooperative bank which is deemed by the Director of the Office of Thrift Supervision to be a savings association under section 1467a(<i>l</i>) of this title.
 
 (k)
 
-Affiliate.—For purposes of this chapter, the term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
+Affiliate.—For purposes of this chapter, the term “affiliate” means any company thatcontrols, is controlled by, or is under common control with another company.
 
 (<i>l</i>)
 
 Savings Bank Holding Company.—For purposes of this chapter, the term “savings bank holding company” means any company which controls one or more qualified savings banks if the aggregate total assets of such savings banks constitute, upon formation of the holding company and at all times thereafter, at least 70 percent of the total assets of such company.
 
-(m)
-
-Qualified Savings Bank.—For purposes of this chapter, the term “qualified savings bank”—
-
-&emsp;(1) means any savings bank (as defined in section 3(g) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(g)\]) which was organized on or before March 5, 1987; and
-
-&emsp;(2) includes any cooperative bank that is an insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(h)\]) and any interim savings bank that is established to facilitate a corporate reorganization, or the formation of a holding company, involving a savings bank described in paragraph (1).
+(m) \[Repealed\]
 
 (n)
 
@@ -346,11 +308,7 @@ Financial Holding Company.—For purposes of this chapter, the term “financial
 
 Insurance Company.—For purposes of sections 1843 and 1844 of this title, the term “insurance company” includes any person engaged in the business of insurance to the extent of such activities.
 
-(May 9, 1956, ch. 240, §2, 70 Stat. 133; Pub. L. 89–485, §§1–6, July 1, 1966, 80 Stat. 236, 237; Pub. L. 91–607, title I, §101, Dec. 31, 1970, 84 Stat. 1760; Pub. L. 95–188, title III, §301(b), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–369, §8(e), Sept. 17, 1978, 92 Stat. 623; Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), Oct. 15, 1982, 96 Stat. 1479, 1504, 1512; Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), Aug. 10, 1987, 101 Stat. 554, 562, 584; Pub. L. 101–73, title VI, §602(a), Aug. 9, 1989, 103 Stat. 409; Pub. L. 103–328, title I, §101(c), Sept. 29, 1994, 108 Stat. 2341; Pub. L. 104–208, div. A, title II, §§2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, 110 Stat. 3009–406, 3009–408, 3009–425, 3009–475, 3009–495; Pub. L. 106–102, title I, §§103(c)(1), 107(c), 119, title VII, §724, Nov. 12, 1999, 113 Stat. 1351, 1359, 1373, 1471; Pub. L. 108–386, §8(c)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–173, §9(h)(1), Feb. 15, 2006, 119 Stat. 3618.)
-
-#### Amendment of Subsection (j)(2)
-
-<i>Pub. L. 109–173, §9(h)(1), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (j)(2) of this section is amended by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
+(May 9, 1956, ch. 240, §2, 70 Stat. 133; Pub. L. 89–485, §§1–6, July 1, 1966, 80 Stat. 236, 237; Pub. L. 91–607, title I, §101, Dec. 31, 1970, 84 Stat. 1760; Pub. L. 95–188, title III, §301(b), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–369, §8(e), Sept. 17, 1978, 92 Stat. 623; Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), Oct. 15, 1982, 96 Stat. 1479, 1504, 1512; Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), Aug. 10, 1987, 101 Stat. 554, 562, 584; Pub. L. 101–73, title VI, §602(a), Aug. 9, 1989, 103 Stat. 409; Pub. L. 103–328, title I, §101(c), Sept. 29, 1994, 108 Stat. 2341; Pub. L. 104–208, div. A, title II, §§2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, 110 Stat. 3009–406, 3009–408, 3009–425, 3009–475, 3009–495; Pub. L. 106–102, title I, §§103(c)(1), 107(c), 119, title VII, §724, Nov. 12, 1999, 113 Stat. 1351, 1359, 1373, 1471; Pub. L. 108–386, §8(c)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(h)(1), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 109–351, title VII, §§706, 727(a), Oct. 13, 2006, 120 Stat. 1987, 2003.)
 
 #### References in Text
 
@@ -362,11 +320,21 @@ Enactment of the Bank Holding Company Act Amendments of 1970, referred to in sub
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (c)(2)(G), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
-Sections 1727 and 1730a of this title, referred to in subsecs. (c)(2)(J) and (i)(4), were repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
+Sections 1727 and 1730a of this title, referred to in subsec. (i)(4), were repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
 A section 2(h)(2) company, referred to in subsec. (h)(3) to (5), is defined in subsec. (h)(2) of this section.
 
 #### Amendments
+
+2006—Subsec. (c)(2)(I), (J). Pub. L. 109–351, §727(a)(1), struck out subpars. (I) and (J), which related to the Investors Fiduciary Trust Company, located in Kansas City, Missouri, and certain savings banks as defined by section 1831(g) of this title, respectively.
+
+Subsec. (g)(2). Pub. L. 109–351, §706, inserted before period at end “, unless the Board determines that such treatment is not appropriate in light of the facts and circumstances of the case and the purposes of this chapter”.
+
+Subsec. (j)(2). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Savings Association Insurance Fund”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(17). See 1996 Amendment note below.
+
+Subsec. (m). Pub. L. 109–351, §727(a)(2), substituted “(m) \[Repealed\]” for subsec. (m), which defined “qualified savings bank”.
 
 2004—Subsec. (c)(3). Pub. L. 108–386 struck out heading and text of par. (3). Text read as follows: “The term ‘District bank’ means any bank operating under the Code of Law for the District of Columbia”.
 
@@ -386,7 +354,7 @@ Subsec. (c)(2)(F). Pub. L. 104–208, §2304(b), inserted “, including an ins
 
 Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as follows: “shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.”
 
-Subsec. (j)(2). Pub. L. 104–208, §2704(d)(17), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (j)(2). Pub. L. 104–208, §2704(d)(17), which directed substitution of “Deposit Insurance Fund” for“Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (<i>o</i>)(1). Pub. L. 104–208, §2208(b)(1), added heading and text of par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘adequately capitalized’ means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.”
 
@@ -446,6 +414,8 @@ Subsec. (h). Pub. L. 89–485, §6, added subsec. (h).
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under section 321 of this title.
@@ -456,7 +426,7 @@ Amendment by sections 103(c)(1), 107(c), and 119 of Pub. L. 106–102 effective 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 2704(d)(17) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by section 2704(d)(17) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1994 Amendment
 

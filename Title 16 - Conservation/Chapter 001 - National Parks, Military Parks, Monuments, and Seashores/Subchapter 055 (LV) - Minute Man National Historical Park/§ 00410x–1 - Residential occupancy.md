@@ -14,7 +14,7 @@ In the case of each individual who—
 
 Any residential special use permit extended pursuant to subsection (a) of this section shall—
 
-&emsp;(1) permit the reasonable residential use and occupancy of the property by the individual towhom such permit is granted and such individual's spouse; and
+&emsp;(1) permit the reasonable residential use and occupancy of the property by the individual to whom such permit is granted and such individual's spouse; and
 
 &emsp;(2) be subject to such terms and conditions as the Secretary may prescribe (including termination) to ensure that the permit does not unreasonably diminish the values of the park.
 

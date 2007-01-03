@@ -62,7 +62,7 @@
 
 #### (A) Preliminary and final determinations
 
-&emsp;&emsp;The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within 245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review under paragraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.
+&emsp;&emsp;The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within 245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review underparagraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.
 
 #### (B) Liquidation of entries
 
@@ -74,7 +74,7 @@
 
 #### (4) Absorption of antidumping duties
 
-&emsp;During any review under this subsection initiated 2 years or 4 years after the publicationof an antidumping duty order under section 1673e(a) of this title, the administering authority, if requested, shall determine whether antidumping duties have been absorbed by a foreign producer or exporter subject to the order if the subject merchandise is sold in the United States through an importer who is affiliated with such foreign producer or exporter. The administering authority shall notify the Commission of its findings regarding such duty absorption for the Commission to consider in conducting a review under subsection (c) of this section.
+&emsp;During any review under this subsection initiated 2 years or 4 years after the publication of an antidumping duty order under section 1673e(a) of this title, the administering authority, if requested, shall determine whether antidumping duties have been absorbed by a foreign producer or exporter subject to the order if the subject merchandise is sold in the United States through an importer who is affiliated with such foreign producer or exporter. The administering authority shall notify the Commission of its findings regarding such duty absorption for the Commission to consider in conducting a review under subsection (c) of this section.
 
 #### (b) Reviews based on changed circumstances
 
@@ -188,7 +188,7 @@
 
 #### (D) Grouped reviews
 
-&emsp;&emsp;The Commission, in consultation with the administering authority, may group orders or suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its final determination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
+&emsp;&emsp;The Commission, in consultation with the administering authority, may group ordersor suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its final determination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
 
 #### (6) Special transition rules
 
@@ -324,7 +324,7 @@ Pub. L. 103–465, §220(a), amended section generally, substituting present pro
 
 1984—Subsec. (a)(1). Pub. L. 98–573, §611(a)(2)(A), inserted “if a request for such a review has been received and” in provisions preceding subpar. (A).
 
-Subsec. (b)(1). Pub. L. 98–573, §611(a)(2)(B), substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3)) or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
+Subsec. (b)(1). Pub. L. 98–573, §611(a)(2)(B), substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3))or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
 
 Subsec. (c). Pub. L. 98–573, §611(a)(3), inserted provision that the administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
 
@@ -343,6 +343,10 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Suspension of the Availability of Bonds to New Shippers
+
+Pub. L. 109–280, title XIV, §1632(a), Aug. 17, 2006, 120 Stat. 1165, provided that: “Clause (iii) of section 751(a)(2)(B) of the Tariff Act of 1930 (19 U.S.C. 1675(a)(2)(B)(iii)) shall not be effective during the period beginning on April 1, 2006, and ending on June 30, 2009.”
 
 #### Uruguay Round Agreements: Entry Into Force
 

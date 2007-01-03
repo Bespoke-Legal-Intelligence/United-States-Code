@@ -6,7 +6,7 @@ Rights-of-way through any Federal lands may be granted by the Secretary of the I
 
 #### (b) Definitions
 
-(1) For the purposes of this section “Federal lands” means all lands owned by the United States except lands in the National Park System, lands held in trust for an Indian or Indian tribe, and lands on the Outer Continental Shelf. A right-of-way through a Federal reservation shall not be granted if the Secretary or agency head determines that it would be inconsistent with the purposes of the reservation.
+(1) For the purposes of this section “Federal lands” means all lands owned by the United States except lands in the National Park System, lands held in trust for an Indian or Indian tribe, and lands on the Outer Continental Shelf.A right-of-way through a Federal reservation shall not be granted if the Secretary or agency head determines that it would be inconsistent with the purposes of the reservation.
 
 (2) “Secretary” means the Secretary of the Interior.
 
@@ -36,13 +36,13 @@ The Secretary or agency head shall impose requirements for the operation of the 
 
 #### (h) Environmental protection
 
-(1) Nothing in this section shall be construed to amend, repeal, modify, or change in any waythe requirements of section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] or any other provision of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+(1) Nothing in this section shall be construed to amend, repeal, modify, or change in any way the requirements of section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] or any other provision of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
 (2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
 
 #### (i) Disclosure
 
-If the applicant is a partnership, corporation, association, or other business entity, the Secretary or agency head shall require the applicant to disclose the identity of the participants in the entity. Such disclosure shall include where applicable (1) the name and address of each partner, (2) the name and address of each shareholder owning 3 per centum or more of the shares, together with the number and percentage of any class of voting shares of the entity which such shareholder is authorized to vote, and (3) the name and address of each affiliate of the entity together with, in the case of an affiliate controlled by the entity, the number of shares and the percentage of any class of voting stock of that affiliate owned, directly or indirectly, by that entity, and, in the case of an affiliate which controls that entity, the number of shares and the percentage of any class of voting stock of that entity owned, directly or indirectly, by the affiliate.
+If the applicant is a partnership, corporation, association, or other business entity, the Secretary or agency head shall require the applicant to disclose the identity of the participants in the entity. Such disclosure shall include where applicable (1) the name and address of each partner, (2) the name and address of each shareholder owning 3 per centum or more of the shares, together with the number and percentage of any class of voting shares of the entity which such shareholder is authorized to vote, and (3) the name and address of each affiliate of the entity together with, in the case of an affiliate controlled by the entity, the number of shares and the percentage of any class of voting stock of that affiliate owned, directly or indirectly, by that entity, and, in the case of an affiliate which controls that entity, the number ofshares and the percentage of any class of voting stock of that entity owned, directly or indirectly, by the affiliate.
 
 #### (j) Technical and financial capability
 
@@ -70,7 +70,7 @@ Each right-of-way or permit granted or renewed pursuant to this section shall be
 
 (2) If the Secretary or agency head determines that an immediate temporary suspension of activities within a right-of-way or permit area is necessary to protect public health or safety or the environment, he may abate such activities prior to an administrative proceeding.
 
-(3) Deliberate failure of the holder to use the right-of-way for the purpose for which it was granted or renewed for any continuous two-year period shall constitute a rebuttable presumption of abandonment of the right-of-way: <i>Provided</i>,That where the failure to use the right-of-way is due to circumstances not within the holder's control the Secretary or agency head is not required to commence proceedings to suspend or terminate the right-of-way.
+(3) Deliberate failure of the holder to use the right-of-way for the purpose for which it was granted or renewed for any continuous two-year period shall constitute a rebuttable presumption of abandonment of the right-of-way: <i>Provided</i>, That where the failure to use the right-of-way is due to circumstances not within the holder's control the Secretary or agency head is not required to commence proceedings to suspend or terminate the right-of-way.
 
 #### (p) Joint use of rights-of-way
 
@@ -88,7 +88,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 (B) In the case of oil or gas produced from Federal lands or from the resources on the Federal lands in the vicinity of the pipeline, the Secretary may, after a full hearing with due notice thereof to the interested parties and a proper finding of facts, determine the proportionate amounts to be accepted, conveyed, transported or purchased.
 
-(3)(A) The common carrier provisions of this section shall not apply to any natural gas pipeline operated by any person subject to regulation under the Natural Gas Act \[15 U.S.C. 717 et seq.\] or by any public utility subject to regulation by a State or municipal regulatory agency having jurisdiction to regulate the rates and charges for the sale of natural gas to consumers within the State or municipality.
+(3)(A) The common carrier provisions of this section shall not apply to any natural gas pipeline operated by any person subject to regulation under the Natural Gas Act \[15 U.S.C. 717 et seq.\] or by any public utility subject to regulation by a State or municipal regulatory agencyhaving jurisdiction to regulate the rates and charges for the sale of natural gas to consumers within the State or municipality.
 
 (B) Where natural gas not subject to State regulatory or conservation laws governing its purchase by pipelines is offered for sale, each such pipeline shall purchase, without discrimination, any such natural gas produced in the vicinity of the pipeline.
 
@@ -110,7 +110,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 > If the President determines that exports of this oil are in the national interest, he may impose such terms and conditions (other than a volume limitation) as are necessary or appropriate to ensure that such exports are consistent with the national interest.
 
-(2) Except in the case of oil exported to a country with which the United States entered into a bilateral international oil supply agreement before November 26, 1979, or to a country pursuant to the International Emergency Oil Sharing Plan of the International Energy Agency, any oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43 shall, when exported, be transported by a vessel documented under the laws of the United States and owned by a citizen of the United States (as determined in accordance with sections 802 and 803 of title 46, Appendix).
+(2) Except in the case of oil exported to a country with which the United States entered into a bilateral international oil supply agreement before November 26, 1979, or to a country pursuant to the International Emergency Oil Sharing Plan of the International Energy Agency, any oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43 shall, when exported, be transported by a vessel documented under the laws of the United States and owned by a citizen of the United States (as determined in accordance with section 50501 of title 46).
 
 (3) Nothing in this subsection shall restrict the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), or Part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271–76) to prohibit exports.
 
@@ -122,7 +122,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 #### (t) Existing rights-of-way
 
-The Secretary or agency head may ratify and confirm any right-of-way or permit for an oil or gas pipeline or related facility that was granted under any provision of law before the effective date of this subsection, if it is modified by mutual agreement to comply to the extent practical with the provisions of this section. Any action taken by the Secretary or agency head pursuant to this subsection shall not be considered a major Federal action requiring a detailed statement pursuant to section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] of the National Environmental Policy Act of 1970 (Public Law 90–190; 42 U.S.C. 4321).
+The Secretary or agency head may ratify and confirm any right-of-way or permit for an oil or gas pipeline or related facility that was granted under any provision of law before the effective date of this subsection, if it is modified by mutual agreement to comply to the extent practical with the provisions of this section. Any action taken by the Secretary or agency head pursuant to this subsection shall not be considered a major Federal action requiring a detailed statement pursuant to section 102(2)(C) of the National Environmental Policy Act of 1970 (Public Law 90–190; 42 U.S.C. 4321).<sup>1</sup>
 
 #### (u) Limitations on export
 
@@ -178,7 +178,9 @@ The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is Pub. L
 
 The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
-The Federal antitrust laws, referred to in subsec. (y), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+#### Codification
+
+In subsec. (s)(2), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
 
 #### Amendments
 
@@ -190,7 +192,7 @@ Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “T
 
 1990—Subsec. (w)(1). Pub. L. 101–475, §1(a), substituted “Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
 
-Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows:“The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary's or agency head's detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
+Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary's or agency head's detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
 
 1985—Subsec. (u). Pub. L. 99–64 substituted “Export Administration Act of 1979 (50 U.S.C. App. 2401 and following)” for “Export Administration Act of 1969 (Act of December 30, 1969; 83 Stat. 841)” and “Export Administration Act of 1979” for “Export Administration Act of 1969” in two places.
 
@@ -206,7 +208,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with grants of rights-of-way and temporary use permits for Federal land and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of Department of Agriculture, related to compliance with associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliancewith grants of rights-of-way and temporary use permits for Federal land and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of Department of Agriculture, related to compliance with associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 “Secretary of Energy or Federal Energy Regulatory Commission” substituted for “Interstate Commerce Commission or Federal Power Commission” in subsec. (r)(5) pursuant to sections 301(b), 306, 402(a), (b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7155, 7172(a), (b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which transferred functions vested in Interstate Commerce Commission, and Chairman and members thereof, relating to transportation of oil by pipeline to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission within Department of Energy), and terminated Federal Power Commission and transferred its functions to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission).
 
@@ -244,7 +246,7 @@ Memorandum of President of the United States, Apr. 28, 1996, 61 F.R. 19507, prov
 
 Memorandum for the Secretary of Commerce \[and\] the Secretary of Energy
 
-Pursuant to section 28(s) of the Mineral Leasing Act, as amended, 30 U.S.C. 185, I hereby determine that exports of crude oil transported over right-of-way granted pursuant to section 203 of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1652\] are in the national interest. In making this determination, I have takeninto account the conclusions of an interagency working group, which found that such oil exports:
+Pursuant to section 28(s) of the Mineral Leasing Act, as amended, 30 U.S.C. 185, I hereby determine that exports of crude oil transported over right-of-way granted pursuant to section 203 of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1652\] are in the national interest. In making this determination, I have taken into account the conclusions of an interagency working group, which found that such oil exports:
 
 —will not diminish the total quantity or quality of petroleum available to the United States; and
 
@@ -265,4 +267,6 @@ Therefore, pursuant to section 28(s) of the Mineral Leasing Act I direct the Sec
 The Secretary of Commerce is authorized and directed to inform the appropriate committees of the Congress of this determination and to publish it in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be “National Environmental Policy Act of 1969 (Public Law 91–190; 42 U.S.C. 4332(2)(C))”.</i>
 

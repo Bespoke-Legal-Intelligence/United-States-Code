@@ -44,7 +44,7 @@ If the Secretary makes a determination under subsection (a) of this section that
 
 #### (2) Approval by the United States
 
-&emsp;An extinguishment made pursuant to this subsection shall be deemed to have been made in accordance with all provisions of Federal law that specifically apply to transfers of lands or natural resources from, by, or on behalf of an Indian, Indian nation, or tribe of Indians (including the Act popularly known as the “Trade and Intercourse Act of 1790”; section 4 of the Act of July 22, 1790 (1 Stat. 137, chapter 33)).
+&emsp;An extinguishment made pursuant to this subsection shall be deemed to have been made in accordance with all provisions of Federallaw that specifically apply to transfers of lands or natural resources from, by, or on behalf of an Indian, Indian nation, or tribe of Indians (including the Act popularly known as the “Trade and Intercourse Act of 1790”; section 4 of the Act of July 22, 1790 (1 Stat. 137, chapter 33)).
 
 #### (e) Transfers
 
@@ -70,7 +70,7 @@ Subject to subsection (g) of this section, any transfer of lands or natural reso
 
 #### (1) Aboriginal interests
 
-&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest,or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
+&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest, or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
 
 #### (2) Personal claims
 

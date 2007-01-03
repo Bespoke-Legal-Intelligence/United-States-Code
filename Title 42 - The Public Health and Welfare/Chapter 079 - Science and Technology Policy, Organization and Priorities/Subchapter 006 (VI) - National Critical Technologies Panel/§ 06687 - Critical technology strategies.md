@@ -12,7 +12,7 @@
 
 &emsp;(B) Close consultation with appropriate representatives of United States industries, members of industry associations, representatives of labor organizations in the United States, members of professional and technical societies in the United States and other persons who are qualified to provide advice and assistance in the development of such critical technology or technologies.
 
-&emsp;(C) The development of an organizational structure within the Federal Government thatis appropriate for coordinating, managing, and reviewing the Federal Government's role in the implementation of the strategy, including allocating roles among Federal departments and agencies.
+&emsp;(C) The development of an organizational structure within the Federal Government that is appropriate for coordinating, managing, and reviewing the Federal Government's role in the implementation of the strategy, including allocating roles among Federal departments and agencies.
 
 &emsp;(D) The development of policies and procedures for synergistic government, industrial, and university participation in the implementation of the strategy.
 
@@ -36,5 +36,5 @@ Section 6683 of this title, referred to in subsec. (a)(1), was omitted from the 
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, andnot as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 

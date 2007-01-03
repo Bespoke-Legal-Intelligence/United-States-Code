@@ -20,10 +20,13 @@
 | [3015\.](%C2%A7%2003015%20-%20Nonmailable%20plant%20pests%20and%20injurious%20animals.md) | Nonmailable plant pests and injurious animals. |
 | [3016\.](%C2%A7%2003016%20-%20Administrative%20subpoenas.md) | Administrative subpoenas. |
 | [3017\.](%C2%A7%2003017%20-%20Nonmailable%20skill%20contests%20or%20sweepstakes%20matter%3B%20notification%20to%20prohibit%20mailings.md) | Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings. |
+| [3018\.](%C2%A7%2003018%20-%20Hazardous%20material.md) | Hazardous material. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–435, title X, §1008(c)(2), Dec. 20, 2006, 120 Stat. 3260, added item 3018.
 
 1999—Pub. L. 106–168, title I, §§105(b)(1), 107(d), 108(b), Dec. 12, 1999, 113 Stat. 1811, 1814, 1816, repealed item 3006 “Unlawful matter” and added items 3016 and 3017.
 
@@ -58,3 +61,4 @@ Pub. L. 100–574, §1(a)(2), Oct. 31, 1988, 102 Stat. 2893, added item 3014.
 - [&sect; 03015 - Nonmailable plant pests and injurious animals](%C2%A7%2003015%20-%20Nonmailable%20plant%20pests%20and%20injurious%20animals.md)
 - [&sect; 03016 - Administrative subpoenas](%C2%A7%2003016%20-%20Administrative%20subpoenas.md)
 - [&sect; 03017 - Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings](%C2%A7%2003017%20-%20Nonmailable%20skill%20contests%20or%20sweepstakes%20matter%3B%20notification%20to%20prohibit%20mailings.md)
+- [&sect; 03018 - Hazardous material](%C2%A7%2003018%20-%20Hazardous%20material.md)

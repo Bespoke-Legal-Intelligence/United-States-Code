@@ -6,7 +6,7 @@ In General.—Except as otherwise provided in this chapter, this chapter shall t
 
 (b)
 
-Regulations.—Sections 411(d), 412(c), 413(c), 414(c), 415(c), 416(c), 421(d), 425(d), 431(c),431(d), 452(a), and 454(a) shall take effect on the date of enactment of this Act.<sup>1</sup>
+Regulations.—Sections 411(d), 412(c), 413(c), 414(c), 415(c), 416(c), 421(d), 425(d), 431(c), 431(d), 452(a), and 454(a) shall take effect on the date of enactment of this Act.<sup>1</sup>
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4068.)
 

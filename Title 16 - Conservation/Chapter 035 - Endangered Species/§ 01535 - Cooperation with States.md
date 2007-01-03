@@ -10,7 +10,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 #### (c) Cooperative agreements
 
-(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred and twenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, that the State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservation of endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
+(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred andtwenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, that the State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservation of endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
 
 &emsp;(A) authority resides in the State agency to conserve resident species of fish or wildlife determined by the State agency or the Secretary to be endangered or threatened;
 
@@ -42,7 +42,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(i) the requirements set forth in subparagraphs (C) and (D) of this paragraph are complied with, and
 
-&emsp;(ii) plans are included under which immediate attention will be given to those resident species of plants which are determined by the Secretary or the State agency to be endangered or threatened and which the Secretaryand the State agency agree are most urgently in need of conservation programs; except that a cooperative agreement entered into with a State whose program is deemed adequate and active pursuant to clause (i) and this clause shall not affect the applicability of prohibitions set forth in or authorized pursuant to section 1533(d) or section 1538(a)(1) of this title with respect to the taking of any resident endangered or threatened species.
+&emsp;(ii) plans are included under which immediate attention will be given to those resident species of plants which are determined by the Secretary or the State agency to be endangered or threatened and which the Secretary and the State agency agree are most urgently in need of conservation programs; except that a cooperative agreement entered into with a State whose program is deemed adequate and active pursuant to clause (i) and this clause shall not affect the applicability of prohibitions set forth in or authorized pursuant to section 1533(d) or section 1538(a)(1) of this title with respect to the taking of any resident endangered or threatened species.
 
 #### (d) Allocation of funds
 
@@ -100,7 +100,7 @@ The Secretary is authorized to promulgate such regulations as may be appropriate
 
 #### (i) Appropriations
 
-(1) To carry out the provisions of this section for fiscal years after September 30, 1988, there shall be deposited into a special fund known as the cooperative endangered species conservation fund, to be administered by the Secretary, an amount equal to 5 percent of the combined amounts covered each fiscal year into the Federal aid to wildlife restoration fund under section 669b of this title, and paid, transferred, or otherwise credited each fiscal year to the Sport Fishing Restoration Account established under 1016 of the Act of July 18, 1984.
+(1) To carry out the provisions of this section for fiscal years after September 30, 1988, thereshall be deposited into a special fund known as the cooperative endangered species conservation fund, to be administered by the Secretary, an amount equal to 5 percent of the combined amounts covered each fiscal year into the Federal aid to wildlife restoration fund under section 669b of this title, and paid, transferred, or otherwise credited each fiscal year to the Sport Fishing Restoration Account established under 1016 of the Act of July 18, 1984.
 
 (2) Amounts deposited into the special fund are authorized to be appropriated annually and allocated in accordance with subsection (d) of this section.
 

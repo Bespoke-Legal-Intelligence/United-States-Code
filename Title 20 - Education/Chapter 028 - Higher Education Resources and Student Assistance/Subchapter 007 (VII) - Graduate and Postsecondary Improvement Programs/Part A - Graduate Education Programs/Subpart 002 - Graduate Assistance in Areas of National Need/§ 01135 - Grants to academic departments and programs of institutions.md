@@ -24,7 +24,7 @@
 
 #### (1) Awards
 
-&emsp;The principal criterion for the award of grants shall be the relative quality of the graduate programs presented in competing applications. Consistent with an allocation ofawards based on quality of competing applications, the Secretary shall, in awarding such grants, promote an equitable geographic distribution among eligible public and private institutions of higher education.
+&emsp;The principal criterion for the award of grants shall be the relative quality of the graduate programs presented in competing applications. Consistent with an allocation of awards based on quality of competing applications, the Secretary shall, in awarding such grants, promote an equitable geographic distribution among eligible public and private institutions of higher education.
 
 #### (2) Duration and amount
 

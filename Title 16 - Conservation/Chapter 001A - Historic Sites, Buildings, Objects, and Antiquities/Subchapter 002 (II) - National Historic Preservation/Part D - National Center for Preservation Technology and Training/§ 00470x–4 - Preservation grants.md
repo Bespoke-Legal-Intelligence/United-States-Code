@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the Board, shall provide preservation technology and training grants to eligible applicants with a demonstrated institutional capability and commitment to the purposes of the Center, in order toensure an effective and efficient system of research, information distribution and skills training in all the related historic preservation fields.
+The Secretary, in consultation with the Board, shall provide preservation technology and training grants to eligible applicants with a demonstrated institutional capability and commitment to the purposes of the Center, in order to ensure an effective and efficient system of research, information distribution and skills training in all the related historic preservation fields.
 
 #### (b) Grant requirements
 

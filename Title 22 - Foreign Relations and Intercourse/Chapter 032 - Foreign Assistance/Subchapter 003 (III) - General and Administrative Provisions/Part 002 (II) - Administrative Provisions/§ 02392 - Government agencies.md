@@ -14,11 +14,11 @@ In the case of any commodity, service, or facility procured from any agency of t
 
 #### (d) Reimbursement for military assistance
 
-Except as otherwise provided in section 2318 of this title, reimbursement shall be made to any United States Government agency, from funds available for use under subchapter II of this chapter, for any assistance furnished under subchapter II of this chapter, from, by, or through such agency. Such reimbursement shall be in an amount equal to the value (as defined in section 2403(m) of this title) of the defense articles or of the defense services (other than salaries of members of the Armed Forces of the United States), or other assistance furnished, plus expenses arising from or incident to operations under subchapter II of this chapter (other than salaries of the Armed Forces of the United States and unfunded estimated costs of civilian retirement and other benefits). The amount of such reimbursement shall be credited to the current applicable appropriations, funds, or accounts of such agency.
+Except as otherwise provided in section 2318 of this title, reimbursement shall be made to any United States Government agency, from funds available for use under subchapter II of this chapter, for any assistance furnished under subchapter II of this chapter, from, by, or through such agency. Such reimbursement shall be in an amount equal to the value (as defined in section 2403(m) of this title) of the defense articles or of the defense services (other than salaries of members of the Armed Forces of the United States), or other assistance furnished, plus expenses arising from or incident to operations under subchapter II of this chapter (other than salaries ofthe Armed Forces of the United States and unfunded estimated costs of civilian retirement and other benefits). The amount of such reimbursement shall be credited to the current applicable appropriations, funds, or accounts of such agency.
 
 #### (e) Establishment of accounts
 
-In furnishing assistance under this chapter, accounts may be established on the books of any agency of the United States Government or, on terms and conditions approved by the Secretary of the Treasury, in banking institutions in the United States, (1) against which letters of commitment may be issued which shall constitute recordable obligations of the United States Government, and moneys due or to become due under such letters of commitment shall be assignable under the Assignment of Claims Act of 1940, as amended (second and third paragraphs of31 U.S.C. 203 <sup>1</sup> and 41 U.S.C. 15), and (2) from which disbursements may be made to, or withdrawals may be made by, recipient countries or agencies, organizations, or persons upon presentation of contracts, invoices, or other appropriate documentation. Expenditure of funds which have been made available through accounts so established shall be accounted for on standard documentation required for expenditure of funds of the United States Government: <i>Provided,</i> That such expenditures for commodities, defense articles, military education and training, services (including defense services), or facilities procured outside the United States may be accounted for exclusively on such certification as may be prescribed in regulations approved by the Comptroller General of the United States.
+In furnishing assistance under this chapter, accounts may be established on the books of any agency of the United States Government or, on terms and conditions approved by the Secretary of the Treasury, in banking institutions in the United States, (1) against which letters of commitment may be issued which shall constitute recordable obligations of the United States Government, and moneys due or to become due under such letters of commitment shall be assignable under the Assignment of Claims Act of 1940, as amended (second and third paragraphs of 31 U.S.C. 203 <sup>1</sup> and 41 U.S.C. 15), and (2) from which disbursements may be made to, or withdrawals may be made by, recipient countries or agencies, organizations, or persons upon presentation of contracts, invoices, or other appropriate documentation. Expenditure of funds which have been made available through accounts so established shall be accounted for on standard documentation required for expenditure of funds of the United States Government: <i>Provided,</i> That such expenditures for commodities, defense articles, military education and training, services (including defense services), or facilities procured outside the United States may be accounted for exclusively on such certification as may be prescribed in regulations approved by the Comptroller General of the United States.
 
 #### (f) Credits made by Export-Import Bank of the United States
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 94–329, §106(b)(4)(A), inserted “military education an
 
 #### Change of Name
 
-“Export-Import Bank of Washington” changed to “Export-Import Bank of the United States” in text to conform to such change in name in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
+“Export-Import Bank of Washington” changed to “Export-Import Bank of the United States” in text toconform to such change in name in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
 
 #### Effective Date of 1968 Amendment
 
@@ -72,7 +72,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Accounting Adjustments Between Appropriations
 
-Charge of expenses to appropriation or account not affected by provisions for accounting adjustments between appropriations, see section 3 of Pub. L. 89–473,June 29, 1966, 80 Stat. 221, set out as a note under section 628a of Title 31, Money and Finance.
+Charge of expenses to appropriation or account not affected by provisions for accounting adjustments between appropriations, see section 3 of Pub. L. 89–473, June 29, 1966, 80 Stat. 221, set out as a note under section 628a of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

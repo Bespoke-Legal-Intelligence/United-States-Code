@@ -42,6 +42,8 @@ Site Prioritization.—(1) The Secretary shall develop, in consultation with rep
 
 Updates and Availability.—(1) The Secretary shall annually update the inventory and site prioritization list to reflect new information that becomes available. The inventory shall be available in published and electronic form.
 
+z
+
 (2) The Secretary shall work with communities adjacent to a defense site to provide information concerning conditions at the site and response activities. At a minimum, the Secretary shall provide the site inventory information and site prioritization list to appropriate Federal, State, tribal, and local officials, and, to the extent the Secretary considers appropriate, to civil defense or emergency management agencies and the public.
 
 (d)
@@ -83,6 +85,146 @@ Definitions.—In this section:
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Response Plan for Remediation of Unexploded Ordnance, Discarded Military Munitions, and Munitions Constituents
+
+Pub. L. 109–364, div. A, title III, §313(a)–(d), Oct. 17, 2006, 120 Stat. 2138, 2139, provided that:
+
+“(a)
+
+Performance Goals for Remediation.—The Secretary of Defense shall set the following remediation goals with regard to unexploded ordnance, discarded military munitions, and munitions constituents:
+
+&emsp;“(1) To complete, by not later than September 30, 2007, preliminary assessments of unexploded ordnance, discarded military munitions, and munitions constituents at all active installations and formerly used defense sites (other than operational ranges).
+
+&emsp;“(2) To complete, by not later than September 30, 2010, site inspections of unexploded ordnance, discarded military munitions, and munitions constituents at all active installations and formerly used defense sites (other than operational ranges).
+
+&emsp;“(3) To achieve, by not later than September 30, 2009, a remedy in place or response complete for unexploded ordnance, discarded military munitions, and munitions constituents at all military installations closed or realigned as part of a round of defense base closure and realignment occurring prior to the 2005 round.
+
+&emsp;“(4) To achieve, by a date certain established by the Secretary of Defense, a remedy in place or response complete for unexploded ordnance, discarded military munitions, and munitions constituents at all active installations and formerly used defense sites (other than operational ranges) and all military installations realigned or closed under the 2005 round of defense base closure and realignment.
+
+“(b)
+
+Response Plan Required.—
+
+&emsp;“(1)
+
+In general.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for addressing the remediation of unexploded ordnance, discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
+
+&emsp;“(2)
+
+Content.—The plan required by paragraph (1) shall include—
+
+&emsp;&emsp;“(A) a schedule, including interim goals, for achieving the goals described in paragraphs (1) through (3) of subsection (a), based upon the Munitions Response Site Prioritization Protocol established by the Department of Defense;
+
+&emsp;&emsp;“(B) such interim goals as the Secretary determines feasible for efficiently achieving the goal required under paragraph (4) of such subsection; and
+
+&emsp;&emsp;“(C) an estimate of the funding required to achieve the goals established pursuant to such subsection and the interim goals established pursuant to subparagraphs (A) and (B).
+
+&emsp;“(3)
+
+Updates.—Not later than March 15 of 2008, 2009, and 2010, the Secretary shall submit to the congressional defense committees an update of the plan required under paragraph (1). The Secretary may include the update in the report on environmental restoration activities that is submitted to Congress under section 2706(a) of title 10, United States Code, in the year in which that update is required and may include in the update any adjustment to the remediation goals established under subsection (a) that the Secretary determines necessary to respond to unforeseen circumstances.
+
+“(c)
+
+Report on Reuse Standards and Principles.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the efforts of the Department of Defense to achieve agreement with relevant regulatory agencies on appropriate reuse standards or principles, including—
+
+&emsp;“(1) a description of any standards or principles that have been agreed upon; and
+
+&emsp;“(2) a discussion of any issues that remain in disagreement, including the impact that any such disagreement is likely to have on the ability of the Department of Defense to carry out the response plan required by subsection (b).
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The terms ‘unexploded ordnance’ and ‘operational range’ have the meanings given such terms in section 101(e) of title 10, United States Code.
+
+&emsp;“(2) The terms ‘discarded military munitions’, ‘munitions constituents’, and ‘defense site’ have the meanings given such terms in section 2710(e) of such title.”
+
+#### Research on Effects of Ocean Disposal of Munitions
+
+Pub. L. 109–364, div. A, title III, §314, Oct. 17, 2006, 120 Stat. 2139, provided that:
+
+“(a)
+
+Identification of Disposal Sites.—
+
+&emsp;“(1)
+
+Historical review.—The Secretary of Defense shall conduct a historical review of available records to determine the number, size, and probable locations of sites where the Armed Forces disposed of military munitions in coastal waters. The historical review shall, to the extent possible, identify the types of munitions at individual sites.
+
+&emsp;“(2)
+
+Cooperation.—The Secretary shall request the assistance of the Coast Guard, the National Oceanic and Atmospheric Administration, and other relevant Federal agencies in conducting the review required by this subsection.
+
+&emsp;“(3)
+
+Interim reports.—The Secretary shall periodically, but no less often than annually, release any new information obtained during the historical review conducted under paragraph (1). The Secretary may withhold from public release the exact nature and locations of munitions the potential unauthorized retrieval of which could pose a significant threat to the national defense or public safety.
+
+&emsp;“(4)
+
+Inclusion of information in annual report on environmental restoration activities.—The Secretary shall include the information obtained pursuant to the review conducted under paragraph (1) in the annual report on environmental restoration activities submitted to Congress under section 2706 of title 10, United States Code.
+
+&emsp;“(5)
+
+Final report.—The Secretary shall complete the historical review required under paragraph (1) and submit a final report on the findings of such review in the annual report on environmental restoration activities submitted to Congress for fiscal year 2009.
+
+“(b)
+
+Identification of Navigational and Safety Hazards.—
+
+&emsp;“(1)
+
+Identification of hazards.—The Secretary of Defense shall provide available information to the Secretary of Commerce to assist the National Oceanic and Atmospheric Administration in preparing nautical charts and other navigational materials forcoastal waters that identify known or potential hazards posed by disposed military munitions to private activities, including commercial shipping and fishing operations.
+
+&emsp;“(2)
+
+Continuation of information activities.—The Secretary of Defense shall continue activities to inform potentially affected users of the ocean environment, particularly fishing operations, of the possible hazards from contact with disposed military munitions and the proper methods to mitigate such hazards.
+
+“(c)
+
+Research.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall continue to conduct research on the effects on the ocean environment and those who use it of military munitions disposed of in coastal waters.
+
+&emsp;“(2)
+
+Scope.—Research under paragraph (1) shall include—
+
+&emsp;&emsp;“(A) the sampling and analysis of ocean waters and sea beds at or adjacent to military munitions disposal sites selected pursuant to paragraph (3) to determine whether the disposed military munitions have caused or are causing contamination of such waters or sea beds;
+
+&emsp;&emsp;“(B) investigation into the long-term effects of seawater exposure on disposed military munitions, particularly effects on chemical munitions;
+
+&emsp;&emsp;“(C) investigation into the impacts any such contamination may have on the ocean environment and those who use it, including public health risks;
+
+&emsp;&emsp;“(D) investigation into the feasibility of removing or otherwise remediating the military munitions; and
+
+&emsp;&emsp;“(E) the development of effective safety measures for dealing with such military munitions.
+
+&emsp;“(3)
+
+Research criteria.—In conducting the research required by this subsection, the Secretary shall ensure that the sampling, analysis, and investigations are conducted at representative sites, taking into account factors such as depth, water temperature, nature of the military munitions present, and relative proximity to onshore populations. In conducting such research, the Secretary shall select at least two representative sites each in the areas of the Atlantic coast, the Pacific coast (including Alaska), and the Hawaiian Islands.
+
+&emsp;“(4)
+
+Authority to make grants and enter into cooperative agreements.—In conducting research under this subsection, the Secretary may make grants to, and enter into cooperative agreements with, qualified research entities.
+
+“(d)
+
+Monitoring.—If the historical review required by subsection (a) or the research required by subsection (c) indicates that contamination is being released into the ocean waters from disposed military munitions at a particular site or that the site poses a significant public health or safety risk, the Secretary of Defense shall institute appropriate monitoring mechanisms at that site and report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on any additional measures that may be necessary to address the release or risk, as applicable.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘coastal waters’ means that part of the ocean extending from the coast line of the United States to the outer boundary of the outer Continental Shelf.
+
+&emsp;“(2) The term ‘coast line’ has the meaning given that term in section 2(c) of the Submerged Lands Act (43 U.S.C. 1301(c)).
+
+&emsp;“(3) The term ‘military munitions’ has the meaning given that term in section 101(e) of title 10, United States Code.
+
+&emsp;“(4) The term ‘outer Continental Shelf’ has the meaning given that term in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a)).”
 
 #### Initial Inventory
 

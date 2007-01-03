@@ -30,7 +30,7 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
 #### Transfer of Functions
 

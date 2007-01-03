@@ -12,7 +12,7 @@ Repeal effective Sept. 1, 1965, see Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167
 
 #### Proclamation No. 3030
 
-Proc. No. 3030, Aug. 19, 1953, 18 F.R. 4983, which was the enabling proclamation for adopting Regulations for Preventing Collisions at Sea, 1948, under act Oct. 11, 1951, ch. 495, §1, 65 Stat. 406, was superseded by Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167, set out as a note under section 1051 of this title.
+Proc. No. 3030, Aug. 19, 1953, 18 F.R. 4983, which was the enabling proclamation for adopting Regulations for Preventing Collisions at Sea, 1948, under act Oct. 11,1951, ch. 495, §1, 65 Stat. 406, was superseded by Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167, set out as a note under section 1051 of this title.
 
 #### Executive Order No. 10402
 

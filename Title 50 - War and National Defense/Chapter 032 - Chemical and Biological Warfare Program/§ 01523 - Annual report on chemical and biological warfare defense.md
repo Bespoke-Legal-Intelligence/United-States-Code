@@ -38,13 +38,21 @@ The report shall include information on the following:
 
 &emsp;&emsp;(D) the Secretary's certification that informed consent to the testing was obtained from each human subject in advance of the testing on that subject.
 
-(Pub. L. 103–160, div. A, title XVII, §1703, Nov. 30, 1993, 107 Stat. 1854; Pub. L. 105–85, div. A, title X, §1078(f), Nov. 18, 1997, 111 Stat. 1915.)
+&emsp;(10) A description of the coordination and integration of the program of the Defense Advanced Research Projects Agency (DARPA) on basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems under section 1522(c)(2) of this title with the overall program of the Department of Defense on chemical and biological warfare defense, including—
+
+&emsp;&emsp;(A) an assessment of the degree to which the DARPA program is coordinated and integrated with, and supports the objectives and requirements of, the overall program of the Department of Defense; and
+
+&emsp;&emsp;(B) the means by which the Department determines the level of such coordination and support.
+
+(Pub. L. 103–160, div. A, title XVII, §1703, Nov. 30, 1993, 107 Stat. 1854; Pub. L. 105–85, div. A, title X, §1078(f), Nov. 18, 1997, 111 Stat. 1915; Pub. L. 109–364, div. A, title X, §1041, Oct. 17, 2006, 120 Stat. 2390.)
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+2006—Subsec. (b)(10). Pub. L. 109–364 added par. (10).
 
 1997—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
 

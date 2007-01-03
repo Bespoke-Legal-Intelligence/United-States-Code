@@ -10,7 +10,7 @@ Water Conservation Activities.—(1) The Secretary of Defense shall permit and e
 
 &emsp;(B) as determined by the Secretary, are cost effective for the Federal Government.
 
-(3) Subject to paragraph (4), the Secretary of Defense may authorize the Secretary of a military department having jurisdiction over a military installation to enter into an agreement with a utility to design and implement a cost-effective program that provides incentives for the management of water demand and for water conservation and that addresses the requirements and circumstances of the installation. Activities under the program may include the provision of water management services, the alteration of a facility, and the installation andmaintenance by the utility of a water-saving device or technology.
+(3) Subject to paragraph (4), the Secretary of Defense may authorize the Secretary of a military department having jurisdiction over a military installation to enter into an agreement with a utility to design and implement a cost-effective program that provides incentives for the management of water demand and for water conservation and that addresses the requirements and circumstances of the installation. Activities under the program may include the provision of water management services, the alteration of a facility, and the installation and maintenance by the utility of a water-saving device or technology.
 
 (4)(A) If an agreement under paragraph (3) provides for a utility to pay in advance the financing costs for the design or implementation of a program referred to in that paragraph and for such advance payment to be repayed by the United States, the cost of such advance payment may be recovered by the utility under terms that are not less favorable than the terms applicable to the most favored customer of the utility.
 
@@ -20,9 +20,21 @@ Water Conservation Activities.—(1) The Secretary of Defense shall permit and e
 
 (b)
 
-Use of Financial Incentives and Water Cost Savings.—(1) Financial incentives received under subsection (a)(2) shall be used as provided in section 2865(b)(3) of this title.
+Use of Financial Incentives and Water Cost Savings.—(1) Financial incentives received from utilities for management of water demand or water conservation under subsection (a)(2) shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
-(2) Water cost savings realized under subsection (a)(3) shall be used as provided in section 2865(b)(2) of this title.
+(2) Water cost savings realized under subsection (a)(3) shall be used as follows:
+
+&emsp;(A) One-half of the amount shall be used for water conservation activities at such buildings, facilities, or installations of the Department of Defense as may be designated (in accordance with regulations prescribed by the Secretary of Defense) by the head of the department, agency, or instrumentality that realized the water cost savings.
+
+&emsp;(B) One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
+
+&emsp;&emsp;(i) improvements to existing military family housing units;
+
+&emsp;&emsp;(ii) any unspecified minor construction project that will enhance the quality of life of personnel; or
+
+&emsp;&emsp;(iii) any morale, welfare, or recreation facility or service.
+
+(3) The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this subsection in that fiscal year.
 
 (c)
 
@@ -30,9 +42,15 @@ Water Conservation Construction Projects.—(1) The Secretary of Defense may car
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, §1502(a)(27), Feb. 10, 1996, 110 Stat. 506; Pub. L. 105–85, div. B, title XXVIII, §2804(b), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. A, title X, §1031(a)(48), Nov. 24, 2003, 117 Stat. 1602.)
+(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, §1502(a)(27), Feb. 10, 1996, 110 Stat. 506; Pub. L. 105–85, div. B, title XXVIII, §2804(b), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. A, title X, §1031(a)(48), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 109–364, div. B, title XXVIII, §2851(d), Oct. 17, 2006, 120 Stat. 2495.)
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–364 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1) Financial incentives received under subsection (a)(2) shall be used as provided in section 2865(b)(3) of this title.
+
+“(2) Water cost savings realized under subsection (a)(3) shall be used as provided in section 2865(b)(2) of this title.”
 
 2003—Subsec. (c)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 

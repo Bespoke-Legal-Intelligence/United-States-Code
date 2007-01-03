@@ -12,9 +12,11 @@
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Study of Sinkhole Insurance
 
-Section 453 of Pub. L. 98–181 provided that: “The Director of the Federal Emergency Management Agency may make a grant to a nonprofit organization, educational institution or affiliated agency or entity, or State or local agency to finance a study of the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes. There is authorized to be appropriated not to exceed $1,000,000 to carry out the provisions of this section.”
+Pub. L. 98–181, title IV, §453, Nov. 30, 1983, 97 Stat. 1230, permitted the Director of the Federal Emergency Management Agency to make a grant to a nonprofit organization, educational institution, or State or local agency to study the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes and authorized appropriations.
 

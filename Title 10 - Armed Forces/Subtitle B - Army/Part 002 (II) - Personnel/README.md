@@ -53,7 +53,6 @@ Pub. L. 90–235, §8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 - [Chapter 331 - Strength](Chapter%20331%20-%20Strength/README.md)
 - [Chapter 333 - Enlistments](Chapter%20333%20-%20Enlistments/README.md)
 - [Chapter 335 - Appointments in the Regular Army](Chapter%20335%20-%20Appointments%20in%20the%20Regular%20Army/README.md)
-- [Chapter 337 - Repealed](Chapter%20337%20-%20Repealed/README.md)
 - [Chapter 339 - Temporary Appointments](Chapter%20339%20-%20Temporary%20Appointments/README.md)
 - [Chapter 341 - Active Duty](Chapter%20341%20-%20Active%20Duty/README.md)
 - [Chapter 343 - Special Appointments, Assignments, Details, and Duties](Chapter%20343%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)

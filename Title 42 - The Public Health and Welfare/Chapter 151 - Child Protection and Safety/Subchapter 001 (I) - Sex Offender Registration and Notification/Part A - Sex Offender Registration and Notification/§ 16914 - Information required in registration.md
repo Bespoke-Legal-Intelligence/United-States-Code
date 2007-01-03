@@ -1,0 +1,42 @@
+### §16914. Information required in registration
+
+#### (a) Provided by the offender
+
+The sex offender shall provide the following information to the appropriate official for inclusion in the sex offender registry:
+
+&emsp;(1) The name of the sex offender (including any alias used by the individual).
+
+&emsp;(2) The Social Security number of the sex offender.
+
+&emsp;(3) The address of each residence at which the sex offender resides or will reside.
+
+&emsp;(4) The name and address of any place where the sex offender is an employee or will be an employee.
+
+&emsp;(5) The name and address of any place where the sex offender is a student or will be a student.
+
+&emsp;(6) The license plate number and a description of any vehicle owned or operated by the sex offender.
+
+&emsp;(7) Any other information required by the Attorney General.
+
+#### (b) Provided by the jurisdiction
+
+The jurisdiction in which the sex offender registers shall ensure that the following information is included in the registry for that sex offender:
+
+&emsp;(1) A physical description of the sex offender.
+
+&emsp;(2) The text of the provision of law defining the criminal offense for which the sex offender is registered.
+
+&emsp;(3) The criminal history of the sex offender, including the date of all arrests and convictions; the status of parole, probation, or supervised release; registration status; and the existence of any outstanding arrest warrants for the sex offender.
+
+&emsp;(4) A current photograph of the sex offender.
+
+&emsp;(5) A set of fingerprints and palm prints of the sex offender.
+
+&emsp;(6) A DNA sample of the sex offender.
+
+&emsp;(7) A photocopy of a valid driver's license or identification card issued to the sex offender by a jurisdiction.
+
+&emsp;(8) Any other information required by the Attorney General.
+
+(Pub. L. 109–248, title I, §114, July 27, 2006, 120 Stat. 594.)
+

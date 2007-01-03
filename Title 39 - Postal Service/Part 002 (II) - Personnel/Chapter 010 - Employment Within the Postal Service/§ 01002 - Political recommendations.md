@@ -1,6 +1,6 @@
 ### §1002. Political recommendations
 
-(a) Except as provided in subsection (e) of this section, each appointment, promotion, assignment, transfer, or designation, interim or otherwise, of an officer or employee in the Postal Service (except a Governor or member of the Postal Rate Commission) shall be made without regard to any recommendation or statement, oral or written, with respect to any person who requests or is under consideration for such appointment, promotion, assignment, transfer, or designation, made by—
+(a) Except as provided in subsection (e) of this section, each appointment, promotion, assignment, transfer, or designation, interim or otherwise, of an officer or employee in the Postal Service (except a Governor or member of the Postal Regulatory Commission) shall be made without regard to any recommendation or statement, oral or written, with respect to any person who requests or is under consideration for such appointment, promotion, assignment, transfer, or designation, made by—
 
 &emsp;(1) any Member of the Senate or House of Representatives (including the Resident Commissioner from Puerto Rico);
 
@@ -34,9 +34,11 @@
 
 (g) The provisions of this section shall not affect the right of an officer or employee of the Postal Service to petition Congress as authorized by section 7211 of title 5.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 729; Pub. L. 95–454, title VII, §703(c)(5), Oct. 13, 1978, 92 Stat. 1217.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 729; Pub. L. 95–454, title VII, §703(c)(5), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 109–435, title VI, §604(a), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1978—Subsec. (g). Pub. L. 95–454 substituted “section 7211” for “section 7102”.
 

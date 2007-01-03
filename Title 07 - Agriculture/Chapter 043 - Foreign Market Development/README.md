@@ -6,15 +6,8 @@
 | :--- | ---: |
 | [1761\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001761%20-%20Foreign%20markets%3B%20collection%20of%20information.md) | Foreign markets; collection of information. |
 | [1762\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001762%20-%20Personnel.md) | Personnel. |
-| (a) | Appointment. |
-| (b) | Titles; rank and privileges; appointments of Agricultural Counselors. |
-| (c) | Attachment to diplomatic missions. |
-| (d) | Assignment to United States. |
 | [1763\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001763%20-%20Transferred.md) | Transferred. |
 | [1764\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001764%20-%20Reports%20and%20dispatches.md) | Reports and dispatches. |
-| (a) | Availability to Department of State and interested Government agencies. |
-| (b) | Office space, equipment, and administrative and clerical services. |
-| (c) | Agency services, personnel, and facilities. |
 | [1765\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001765%20-%20Foreign%20service%20appropriations%3B%20applicability.md) | Foreign service appropriations; applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,14 +17,6 @@
 |  |  |
 | :--- | ---: |
 | [1765a.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765a%20-%20Agricultural%20Trade%20Offices.md) | Agricultural Trade Offices. |
-| (a) | Establishment. |
-| (b) | Administration. |
-| (c) | Appointment and compensation of officers. |
-| (d) | Transmittal of information. |
-| (e) | Office functions and activities. |
-| (f) | Personnel; employment of local nationals. |
-| (g) | Conflicts of interest. |
-| (h) | Diplomatic privileges and immunities. |
 | [1765b.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765b%20-%20Functions.md) | Functions. |
 | 1765b–1. | Omitted. |
 | [1765c.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765c%20-%20Performance%20of%20functions%20in%20foreign%20localities.md) | Performance of functions in foreign localities. |
@@ -53,9 +38,6 @@
 | [1766b.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001766b%20-%20Language%20training%20for%20families%20of%20officers%20and%20employees%20assigned%20abroad.md) | Language training for families of officers and employees assigned abroad. |
 | [1766c.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001766c%20-%20Allowances%20and%20benefits.md) | Allowances and benefits. |
 | [1767\.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001767%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Unexpended balances. |
-| (b) | Annual appropriations. |
-| (c) | Funds for 1955; expenditures. |
 | [1768\.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001768%20-%20Foreign%20Operations%20Administration%20unaffected.md) | Foreign Operations Administration unaffected. |
 | [1769\.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001769%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |
 

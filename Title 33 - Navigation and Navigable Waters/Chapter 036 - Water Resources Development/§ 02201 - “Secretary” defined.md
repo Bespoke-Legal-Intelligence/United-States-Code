@@ -30,7 +30,7 @@ Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–676, §1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This Act \[enacting sections 59j–1, 59y, 59z, and 2312 to 2315 of this title, amending sections 426j, 701b–12, 1293a, 2211, 2239, 2280, and 2291 of this title and section 1962d–5a of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 579a, 988, 2211, 2294, 2300, and 2314 of this title, and section 1962d–5g of Title 42, and amending provisions set out as a note under section 2294 of this title\] may be cited as the ‘Water Resources Development Act of 1988’.”
+Pub. L. 100–676, §1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This Act \[enacting sections 59j–1, 59y, 59z,and 2312 to 2315 of this title, amending sections 426j, 701b–12, 1293a, 2211, 2239, 2280, and 2291 of this title and section 1962d–5a of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 579a, 988, 2211, 2294, 2300, and 2314 of this title, and section 1962d–5g of Title 42, and amending provisions set out as a note under section 2294 of this title\] may be cited as the ‘Water Resources Development Act of 1988’.”
 
 #### Short Title
 
@@ -40,7 +40,7 @@ Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enact
 
 #### Funding to Process Permits
 
-Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169, provided that:
+Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197, provided that:
 
 “(a)
 
@@ -52,7 +52,7 @@ Effect on Permitting.—In carrying out this section, the Secretary shall ensure
 
 “(c)
 
-Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through March 31, 2006.”
+Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2008.”
 
 #### Monitoring
 
@@ -132,7 +132,7 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 
 #### Budget Act Requirements
 
-Section 948 of Pub. L. 99–662 provided that: “Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
+Section 948 of Pub. L. 99–662 provided that: “Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and insuch amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
 
 #### “Secretary” Defined
 

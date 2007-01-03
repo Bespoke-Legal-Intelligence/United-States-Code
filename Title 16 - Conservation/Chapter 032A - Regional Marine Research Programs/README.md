@@ -5,27 +5,10 @@
 | [1447\.](%C2%A7%2001447%20-%20Purposes.md) | Purposes. |
 | [1447a.](%C2%A7%2001447a%20-%20Definitions.md) | Definitions. |
 | [1447b.](%C2%A7%2001447b%20-%20Regional%20Marine%20Research%20Boards.md) | Regional Marine Research Boards. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Functions. |
-| (d) | Powers. |
-| (e) | Administration. |
-| (f) | Termination. |
 | [1447c.](%C2%A7%2001447c%20-%20Regional%20research%20plans.md) | Regional research plans. |
-| (a) | Development and amendment of regional plans. |
-| (b) | Contents of plan. |
-| (c) | Plan review and approval. |
 | [1447d.](%C2%A7%2001447d%20-%20Research%20grant%20program.md) | Research grant program. |
-| (a) | Program administration. |
-| (b) | Research grants. |
-| (c) | Review and approval of project proposals. |
-| (d) | Reporting. |
 | [1447e.](%C2%A7%2001447e%20-%20Report%20on%20research%20program.md) | Report on research program. |
-| (a) | Preparation and submission of report. |
-| (b) | Transmittal to Congress. |
 | [1447f.](%C2%A7%2001447f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Allocation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,5 +6,5 @@ The Secretary of the Army is authorized to allot from any appropriations heretof
 
 #### Amendments
 
-1996—Pub. L. 104–303 substituted “outside the United States” for “outside the continental limits of the United States” and struck out before period at end“: <i>And provided further</i>, That not more than $25,000 shall be allotted during any one fiscal year for this purpose”.
+1996—Pub. L. 104–303 substituted “outside the United States” for “outside the continental limits of the United States” and struck out before period at end “: <i>And provided further</i>, That not more than $25,000 shall be allotted during any one fiscal year for this purpose”.
 

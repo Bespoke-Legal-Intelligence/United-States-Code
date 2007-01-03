@@ -38,7 +38,7 @@ For the purpose of these Rules and this chapter, except where the context otherw
 
 (<i>l</i>) “Western Rivers” means the Mississippi River, its tributaries, South Pass, and Southwest Pass, to the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States, and the Port Allen-Morgan City Alternate Route, and that part of the Atchafalaya River above its junction with the Port Allen-Morgan City Alternate Route including the Old River and the Red River;
 
-(m) “Great Lakes” means the Great Lakes and their connecting and tributary waters including the Calumet River as far as the Thomas J.O'Brien Lock and Controlling Works (between mile 326 and 327), the Chicago River as far as the east side of the Ashland Avenue Bridge (between mile 321 and 322), and the Saint Lawrence River as far east as the lower exit of Saint Lambert Lock;
+(m) “Great Lakes” means the Great Lakes and their connecting and tributary waters including the Calumet River as far as the Thomas J. O'Brien Lock and Controlling Works (between mile 326 and 327), the Chicago River as far as the east side of the Ashland Avenue Bridge (between mile 321 and 322), and the Saint Lawrence River as far east as the lower exit of Saint Lambert Lock;
 
 (n) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 

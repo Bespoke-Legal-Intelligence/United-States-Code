@@ -6,7 +6,7 @@ Interagency Committee.—
 
 &emsp;(1)
 
-Establishment and purpose.—Not later than 30 days after the date of enactment of this section, the President shall establish an Interagency Committee to develop and ensureimplementation of a coordinated environmental review and permitting process in order to enable pipeline operators to commence and complete all activities necessary to carry out pipeline repairs within any time periods specified by rule by the Secretary.
+Establishment and purpose.—Not later than 30 days after the date of enactment of this section, the President shall establish an Interagency Committee to develop and ensure implementation of a coordinated environmental review and permitting process in order to enable pipeline operators to commence and complete all activities necessary to carry out pipeline repairs within any time periods specified by rule by the Secretary.
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Memorandum of understanding.—Based upon the evaluation required under paragrap
 
 &emsp;(5)
 
-State and local consultation.—In carrying out this subsection, the Interagency Committee shall consult with appropriate State and local environmental, pipeline safety, and emergency response officials, and such other officials as the Interagency Committee considers appropriate.
+State and local consultation.—In carrying out this subsection, the Interagency Committee shall consult with appropriateState and local environmental, pipeline safety, and emergency response officials, and such other officials as the Interagency Committee considers appropriate.
 
 (b)
 
@@ -76,7 +76,7 @@ Ombudsman.—The Secretary shall designate an ombudsman to assist in expediting 
 
 (f)
 
-State and Local Permitting Processes.—The Secretary shall encourage States and local governments to consolidate their respective permitting processes for pipeline repair projectssubject to any time periods for repair specified by rule by the Secretary. The Secretary may request other relevant Federal agencies to provide technical assistance to States and local governments for the purpose of encouraging such consolidation.
+State and Local Permitting Processes.—The Secretary shall encourage States and local governments to consolidate their respective permitting processes for pipeline repair projects subject to any time periods for repair specified by rule by the Secretary. The Secretary may request other relevant Federal agencies to provide technical assistance to States and local governments for the purpose of encouraging such consolidation.
 
 (Added Pub. L. 107–355, §16(a), Dec. 17, 2002, 116 Stat. 3006.)
 

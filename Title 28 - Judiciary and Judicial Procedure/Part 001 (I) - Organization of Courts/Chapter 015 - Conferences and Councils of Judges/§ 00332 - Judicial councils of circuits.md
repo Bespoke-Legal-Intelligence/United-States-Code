@@ -4,11 +4,11 @@
 
 (2) Members of the council shall serve for terms established by a majority vote of all judges of the circuit in regular active service.
 
-(3) Except for the chief judge of the circuit, either judges in regular active service or judgesretired from regular active service under section 371(b) of this title may serve as members of the council. Service as a member of a judicial council by a judge retired from regular active service under section 371(b) may not be considered for meeting the requirements of section 371(f)(1)(A), (B), or (C).<sup>1</sup>
+(3) Except for the chief judge of the circuit, either judges in regular active service or judges retired from regular active service under section 371(b) of this title may serve as members of the council. Service as a member of a judicial council by a judge retired from regular active service under section 371(b) may not be considered for meeting the requirements of section 371(f)(1)(A), (B), or (C).<sup>1</sup>
 
 (4) No more than one district judge from any one district shall serve simultaneously on the council, unless at least one district judge from each district within the circuit is already serving as a member of the council.
 
-(5) In the event of the death, resignation, retirement under section 371(a) or 372(a) of this title, or disability of a member of the council, a replacement member shall be designated to serve the remainder of the unexpired term by the chief judge of the circuit.
+(5) In the event of the death, resignation, retirement under section 371(a) or 372(a) of this title, or disability of a member of the council, a replacement member shall be designated toserve the remainder of the unexpired term by the chief judge of the circuit.
 
 (6) Each member of the council shall attend each council meeting unless excused by the chief judge of the circuit.
 
@@ -126,7 +126,7 @@ Pub. L. 106–518, §306, added subsec. (h) relating to circuit executive for Un
 
 &emsp;&emsp;“(ii) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph is six or more, the number of district judges fixed in accordance with this subparagraph shall be no less than three.”
 
-Subsec. (a)(3) to (7). Pub. L. 101–650, §323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
+Subsec. (a)(3) to (7). Pub. L. 101–650, §323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, andstruck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
 
 Subsec. (d)(2). Pub. L. 101–650, §403, inserted at end “In the case of failure to comply with an order made under this subsection or a subpoena issued under section 372(c) of this title, a judicial council or a special committee appointed under section 372(c)(4) of this title may institute a contempt proceeding in any district court in which the judicial officer or employee of the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.”
 

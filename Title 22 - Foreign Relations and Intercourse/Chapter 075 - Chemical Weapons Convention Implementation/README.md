@@ -11,20 +11,8 @@
 |  |  |
 | :--- | ---: |
 | [6711\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2006711%20-%20Designation%20of%20United%20States%20National%20Authority.md) | Designation of United States National Authority. |
-| (a) | Designation. |
-| (b) | Purposes. |
-| (c) | Director. |
-| (d) | Powers. |
-| (e) | Implementation. |
 | [6712\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2006712%20-%20No%20abridgement%20of%20constitutional%20rights.md) | No abridgement of constitutional rights. |
 | [6713\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2006713%20-%20Civil%20liability%20of%20United%20States.md) | Civil liability of United States. |
-| (a) | Claims for taking of property. |
-| (b) | Tort liability. |
-| (c) | Waiver of sovereign immunity of United States. |
-| (d) | Authority for cause of action. |
-| (e) | Recoupment. |
-| (f) | Sanctions for unauthorized disclosure of United States confidential business information. |
-| (g) | “United States confidential business information” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,38 +21,14 @@
 |  |  |
 | :--- | ---: |
 | [6721\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006721%20-%20Definitions.md) | Definitions. |
-| (a) | In general. |
-| (b) | “Judge of the United States” defined. |
 | [6722\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006722%20-%20Facility%20agreements.md) | Facility agreements. |
-| (a) | Authorization of inspections. |
-| (b) | Types of facility agreements. |
-| (c) | Notification requirements. |
-| (d) | Content of facility agreements. |
 | [6723\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006723%20-%20Authority%20to%20conduct%20inspections.md) | Authority to conduct inspections. |
-| (a) | Prohibition. |
-| (b) | Authority. |
-| (c) | Exception. |
 | [6724\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006724%20-%20Procedures%20for%20inspections.md) | Procedures for inspections. |
-| (a) | Types of inspections. |
-| (b) | Notice. |
-| (c) | Credentials. |
-| (d) | Timeframe for inspections. |
-| (e) | Scope. |
-| (f) | Sampling and safety. |
-| (g) | Coordination. |
 | [6725\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006725%20-%20Warrants.md) | Warrants. |
-| (a) | In general. |
-| (b) | Routine inspections. |
 | [6726\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006726%20-%20Prohibited%20acts%20relating%20to%20inspections.md) | Prohibited acts relating to inspections. |
 | [6727\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006727%20-%20National%20security%20exception.md) | National security exception. |
 | [6728\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006728%20-%20Annual%20report%20on%20inspections.md) | Annual report on inspections. |
-| (a) | In general. |
-| (b) | Content of reports. |
-| (c) | “Appropriate congressional committees” defined. |
 | [6729\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006729%20-%20United%20States%20assistance%20in%20inspections%20at%20private%20facilities.md) | United States assistance in inspections at private facilities. |
-| (a) | Assistance in preparation for inspections. |
-| (b) | Reimbursement requirement. |
-| (c) | Owners covered by United States National Authority reimbursements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,19 +37,9 @@
 |  |  |
 | :--- | ---: |
 | [6741\.](Subchapter%20003%20%28III%29%20-%20Reports/%C2%A7%2006741%20-%20Reports%20required%20by%20United%20States%20National%20Authority.md) | Reports required by United States National Authority. |
-| (a) | Regulations on recordkeeping. |
-| (b) | Coordination. |
 | [6742\.](Subchapter%20003%20%28III%29%20-%20Reports/%C2%A7%2006742%20-%20Prohibition%20relating%20to%20low%20concentrations%20of%20Schedules%202%20and%203%20chemicals.md) | Prohibition relating to low concentrations of Schedules 2 and 3 chemicals. |
-| (a) | Prohibition. |
-| (b) | Standard for measurement of concentration. |
 | [6743\.](Subchapter%20003%20%28III%29%20-%20Reports/%C2%A7%2006743%20-%20Prohibition%20relating%20to%20unscheduled%20discrete%20organic%20chemicals%20and%20coincidental%20byproducts%20in%20waste%20streams.md) | Prohibition relating to unscheduled discrete organic chemicals and coincidental byproducts in waste streams. |
 | [6744\.](Subchapter%20003%20%28III%29%20-%20Reports/%C2%A7%2006744%20-%20Confidentiality%20of%20information.md) | Confidentiality of information. |
-| (a) | Freedom of Information Act exemption for certain Convention information. |
-| (b) | Exceptions. |
-| (c) | Information disclosed in national interest. |
-| (d) | Criminal penalty for wrongful disclosure. |
-| (e) | Criminal forfeiture. |
-| (f) | International inspectors. |
 | [6745\.](Subchapter%20003%20%28III%29%20-%20Reports/%C2%A7%2006745%20-%20Recordkeeping%20violations.md) | Recordkeeping violations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,14 +49,8 @@
 |  |  |
 | :--- | ---: |
 | [6761\.](Subchapter%20004%20%28IV%29%20-%20Enforcement/%C2%A7%2006761%20-%20Penalties.md) | Penalties. |
-| (a) | Civil. |
-| (b) | Criminal. |
 | [6762\.](Subchapter%20004%20%28IV%29%20-%20Enforcement/%C2%A7%2006762%20-%20Specific%20enforcement.md) | Specific enforcement. |
-| (a) | Jurisdiction. |
-| (b) | Civil actions. |
 | [6763\.](Subchapter%20004%20%28IV%29%20-%20Enforcement/%C2%A7%2006763%20-%20Expedited%20judicial%20review.md) | Expedited judicial review. |
-| (a) | Civil action. |
-| (b) | En banc review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -111,9 +59,6 @@
 |  |  |
 | :--- | ---: |
 | [6771\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2006771%20-%20Prohibition.md) | Prohibition. |
-| (a) | In general. |
-| (b) | Construction. |
-| (c) | “Biological agent” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

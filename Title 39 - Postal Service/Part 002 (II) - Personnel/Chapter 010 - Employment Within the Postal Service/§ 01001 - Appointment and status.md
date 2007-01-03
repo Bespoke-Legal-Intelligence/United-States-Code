@@ -6,7 +6,7 @@
 
 (c) The Postal Service may hire individuals as executives under employment contracts for periods not in excess of 5 years. Notwithstanding any such contract, the Postal Service may at its discretion and at any time remove any such individual without prejudice to his contract rights.
 
-(d) Notwithstanding section 5533, 5535, or 5536 of title 5, or any other provision of law, any officer or employee of the Government of the United States is eligible to serve and receive pay concurrently as an officer or employee of the Postal Service (other than as a member of the Board or of the Postal Rate Commission) and as an officer or employee of any other department, agency, or establishment of the Government of the United States.
+(d) Notwithstanding section 5533, 5535, or 5536 of title 5, or any other provision of law, any officer or employee of the Government of the United States is eligible to serve and receive pay concurrently as an officer or employee of the Postal Service (other than as a member of the Board or of the Postal Regulatory Commission) and as an officer or employee of any other department, agency, or establishment of the Government of the United States.
 
 (e) The Postal Service shall have the right, consistent with section 1003 and chapter 12 of this title and applicable laws, regulations, and collective-bargaining agreements—
 
@@ -24,17 +24,31 @@
 
 &emsp;(7) to take whatever actions may be necessary to carry out its mission in emergency situations.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 728.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 728; Pub. L. 109–435, title VI, §604(a), Dec. 20, 2006, 120 Stat. 3241.)
+
+#### Amendments
+
+2006—Subsec. (d). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 #### Effective Date
 
 Section effective Mar. 1, 1971, pursuant to Resolution No. 71–13 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
+#### Performance Evaluations
+
+Pub. L. 109–435, title VII, §706(b), Dec. 20, 2006, 120 Stat. 3246, provided that: “The United States Postal Service shall, as soon as is practicable, take such measures as may be necessary to incorporate the affirmative action and equal opportunity criteria contained in 4313(5) of title 5, United States Code, into the performance appraisals of senior supervisory or managerial employees.”
+
 #### Transfer to United States Postal Service of Post Office Department Personnel
 
-Section 8 of Pub. L. 91–375 provided that: “Officers and employees of the Post Office Department shall become officers and employees of the United States Postal Service on the effective date of this section. The provisions of this section shall not apply to persons occupying the positions of Postmaster General, Deputy Postmaster General, Assistant Postmasters General, General Counsel, or Judicial Officer. This section shall not be construed, however, to prohibit the appointment of such persons to positions in the Postal Service.”
+Pub. L. 91–375, §8, Aug. 12, 1970, 84 Stat. 783, as amended by Pub. L. 109–435, title X, §1007(a), Dec. 20, 2006, 120 Stat. 3258, provided that:
 
-Provisions of section 8 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
+“(a) Officers and employees of the Post Office Department shall become officers and employees of the United States Postal Service on the effective date of this section. The provisions of this section shall not apply to persons occupying the positions of Postmaster General, Deputy Postmaster General, Assistant Postmasters General, General Counsel, or Judicial Officer. This section shall not be construed, however, to prohibit the appointment of such persons to positions in the Postal Service.
+
+“(b) For purposes of chapter 81 of title 5, United States Code, the Postal Service shall, with respect to any individual receiving benefits under such chapter as an officer or employee of the former Post Office Department, have the same authorities and responsibilities as it has with respect to an officer or employee of the Postal Service receiving such benefits.”
+
+\[Pub. L. 109–435, title X, §1007(b), Dec. 20, 2006, 120 Stat. 3258, provided that: “This section \[amending section 8 of Pub. L. 91–375, set out above\] and the amendments made by this section shall be effective as of the first day of the fiscal year in which this Act is enacted.”\]
+
+\[Provisions of section 8 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.\]
 
 #### Appointment of Postmasters and Other Employees on Merit Basis
 

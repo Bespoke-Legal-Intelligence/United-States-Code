@@ -86,7 +86,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C)(i) who is receiving any portion of an annuity under section 8345(j) or 8467 of this title or a survivor annuity under section 8341(h) or 8445 of this title (or benefits similar to either of the aforementioned annuity benefits under a retirement system for Government employees other than the Civil Service Retirement System or the Federal Employees’ Retirement System),
 
-&emsp;&emsp;(ii) as to whom a court order or decree referred to in section 8341(h), 8345(j), 8445, or8467 of this title (or similar provision of law under any such retirement system other than the Civil Service Retirement System or the Federal Employees’ Retirement System) has been issued, or for whom an election has been made under section 8339(j)(3) or 8417(b) of this title (or similar provision of law), or
+&emsp;&emsp;(ii) as to whom a court order or decree referred to in section 8341(h), 8345(j), 8445, or 8467 of this title (or similar provision of law under any such retirement system other than the Civil Service Retirement System or the Federal Employees’ Retirement System) has been issued, or for whom an election has been made under section 8339(j)(3) or 8417(b) of this title (or similar provision of law), or
 
 &emsp;&emsp;(iii) who is otherwise entitled to an annuity or any portion of an annuity as a former spouse under a retirement system for Government employees,
 
@@ -102,7 +102,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>),June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366.)
 
 Historical and Revision Notes<br>1966
 
@@ -276,7 +276,7 @@ Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under thissection and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
+Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
 
 #### Continuation of Health Benefits Coverage for Individuals Enrolled in a Plan Administered by the Overseas Private Investment Corporation
 
@@ -308,7 +308,7 @@ Individuals currently under continued coverage.—An individual who, as of the e
 
 &emsp;“(3)
 
-Unmarried dependent children.—An individual who, as of the enrollment eligibility date, is covered as an unmarried dependent child under a health benefits plan administered by the Overseas Private Investment Corporation and who is not a member of family as defined under section 8901(5) of title 5, United States Code—
+Unmarried dependent children.—An individual who, as of the enrollment eligibility date, is covered as an unmarried dependent child under a health benefits plan administered by the Overseas Private Investment Corporation and who is not a member offamily as defined under section 8901(5) of title 5, United States Code—
 
 &emsp;&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of such title as though the individual had ceased to meet the requirements for being considered an unmarried dependent child under chapter 89 of such title as of such date; and
 
@@ -374,7 +374,7 @@ Continued Coverage.—(1) Subject to subsection (c), any individual who, on or b
 
 &emsp;“(B) such plan did not terminate, or the eligibility of such individual with respect to such plan did not terminate, as described in subsection (a).
 
-“(3) Subject to subsection (c), any individual (other than an individual under paragraph (2)) who, on or before January 2, 1999, is covered under a health benefits plan described in subsection (a)(1) or (2) as an unmarried dependent child, but who does not then qualify for coverage under chapter 89 of title 5, United States Code, as a family member (within the meaning of suchchapter) shall be deemed to be entitled to continued coverage under section 8905a of such title, to the same extent and in the same manner as if such individual had, on or before January 2, 1999, ceased to meet the requirements for being considered an unmarried dependent child of an enrollee under such chapter.
+“(3) Subject to subsection (c), any individual (other than an individual under paragraph (2)) who, on or before January 2, 1999, is covered under a health benefits plan described in subsection (a)(1) or (2) as an unmarried dependent child, but who does not then qualify for coverage under chapter 89 of title 5, United States Code, as a family member (within the meaning of such chapter) shall be deemed to be entitled to continued coverage under section 8905a of such title, to the same extent and in the same manner as if such individual had, on or before January 2, 1999, ceased to meet the requirements for being considered an unmarried dependent child of an enrollee under such chapter.
 
 “(4) Coverage under chapter 89 of title 5, United States Code, pursuant to an enrollment under this section shall become effective on January 3, 1999 or such earlier date as established by the Office of Personnel Management after consultation with the Federal Deposit Insurance Corporation or the Board of Governors of the Federal Reserve System, as appropriate.
 
@@ -482,7 +482,7 @@ Administration and Regulations.—The Office of Personnel Management—
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
-For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
+For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -4,13 +4,6 @@
 | :--- | ---: |
 | 2801 to 2813. Repealed. |  |
 | [2814\.](%C2%A7%2002814%20-%20Management%20of%20undesirable%20plants%20on%20Federal%20lands.md) | Management of undesirable plants on Federal lands. |
-| (a) | Duties of agencies. |
-| (b) | Environmental impact statements. |
-| (c) | Cooperative agreements with State agencies. |
-| (d) | Exception. |
-| (e) | Definitions. |
-| (f) | Coordination. |
-| (g) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

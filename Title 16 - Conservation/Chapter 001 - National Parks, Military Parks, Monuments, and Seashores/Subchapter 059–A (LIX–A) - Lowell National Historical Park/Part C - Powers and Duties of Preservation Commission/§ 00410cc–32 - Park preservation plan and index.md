@@ -8,7 +8,7 @@
 
 (3) If the Secretary disapproves a park preservation plan, the Secretary shall advise the Commission of the reasons for such disapproval together with the recommendations of the Secretary for revision of such plan. Within such period as the Secretary may designate, the Commission shall submit a revised park preservation plan to the Secretary. The Secretary shall approve or disapprove any revised park preservation plan in the same manner as required in paragraph (2) of this subsection for the approval or disapproval of the original park preservation plan.
 
-(4) If the Secretary approves a park preservation plan, the Secretary shall publish notice ofsuch approval in the Federal Register and shall forward copies of the approved plan to the Congress.
+(4) If the Secretary approves a park preservation plan, the Secretary shall publish notice of such approval in the Federal Register and shall forward copies of the approved plan to the Congress.
 
 (5) Any park preservation plan or draft plan submitted to the Secretary under this subsection shall, upon request, be available to the public.
 
@@ -70,7 +70,7 @@ Any plan submitted to the Secretary under subsection (a) of this section shall�
 
 &emsp;(5) provide a detailed description of the manner in which the Commission intends to implement the grant and loan programs under section 410cc–33 of this title, including information relating to the estimated amount of such grants and the manner in which such grants shall be awarded by the Commission;
 
-&emsp;(6) provide for a transportation program by which the Commission shall provide, directly or by agreement with any person or any public or private entity, transportation services and facilities for park and preservation district visitors, including barge equipment, docking facilities, and local rail facilities;
+&emsp;(6) provide for a transportation program by which the Commission shall provide, directlyor by agreement with any person or any public or private entity, transportation services and facilities for park and preservation district visitors, including barge equipment, docking facilities, and local rail facilities;
 
 &emsp;(7) provide for educational and cultural programs to encourage appreciation of the resources of the park and preservation district; and
 
@@ -82,7 +82,7 @@ The Commission shall establish, within one year after the date on which the Comm
 
 &emsp;(1) any property in the park or preservation district (except for any property identified in section 410cc–21(a)(2) of this title) which should be preserved, restored, managed, developed, maintained, or acquired by the Commission because of its national historic or cultural significance; and
 
-&emsp;(2) any property which should be preserved, restored, managed, developed, or maintained in a manner compatible with the purpose of this subchapter because of its proximity to (A)any property referred to in paragraph (1) of this subsection, or (B) any property designated in section 410cc–21(a)(2) of this title.
+&emsp;(2) any property which should be preserved, restored, managed, developed, or maintained in a manner compatible with the purpose of this subchapter because of its proximity to (A) any property referred to in paragraph (1) of this subsection, or (B) any property designated in section 410cc–21(a)(2) of this title.
 
 > The index may be modified only by a majority vote of the members of the Commission, taken when a quorum is present.
 

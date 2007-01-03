@@ -10,7 +10,7 @@
 
 (3) No contributions shall be made under section 8432(c) of this title for the benefit of a Court of Federal Claims judge making contributions under subsection (a) of this section.
 
-(4)(A) Section 8433(b) of this title applies to a Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fundunder subsection (a) of this section and who retires entitled to an annuity under section 178 of title 28 (including a disability annuity under subsection (c) of such section).
+(4)(A) Section 8433(b) of this title applies to a Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires entitled to an annuity under section 178 of title 28 (including a disability annuity under subsection (c) of such section).
 
 (B) Section 8433(b) of this title applies to any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an annuity under section 178 of title 28.
 

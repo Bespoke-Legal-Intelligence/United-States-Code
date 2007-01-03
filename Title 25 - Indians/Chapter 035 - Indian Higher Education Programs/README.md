@@ -7,30 +7,10 @@
 | [3301\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003301%20-%20Short%20title.md) | Short title. |
 | [3302\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003302%20-%20Findings.md) | Findings. |
 | [3303\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003303%20-%20Program%20authority.md) | Program authority. |
-| (a) | In general. |
-| (b) | Limitation on Secretary's authority. |
-| (c) | Effect on Federal responsibilities. |
-| (d) | No termination for administrative convenience. |
 | [3304\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003304%20-%20Qualification%20for%20grants%20to%20tribes.md) | Qualification for grants to tribes. |
-| (a) | Contracting tribes. |
-| (b) | Noncontracting tribes. |
-| (c) | Termination of grants. |
 | [3305\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003305%20-%20Allocation%20of%20grant%20funds.md) | Allocation of grant funds. |
-| (a) | Allocation of funds. |
-| (b) | Use of funds. |
 | [3306\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003306%20-%20Limitations%20on%20use%20of%20funds.md) | Limitations on use of funds. |
-| (a) | Use for religious purposes. |
-| (b) | Interest on funds. |
-| (c) | Payments. |
-| (d) | Investment of funds. |
-| (e) | Recoveries. |
 | [3307\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003307%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Omitted. |
-| (b) | Role of Director. |
-| (c) | Application of Indian Self-Determination and Education Assistance Act. |
-| (d) | Regulations. |
-| (e) | Retrocession. |
-| (f) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,17 +21,8 @@
 | [3321\.](Subchapter%20002%20%28II%29%20-%20Critical%20Needs%20for%20Tribal%20Development/%C2%A7%2003321%20-%20Short%20title.md) | Short title. |
 | [3322\.](Subchapter%20002%20%28II%29%20-%20Critical%20Needs%20for%20Tribal%20Development/%C2%A7%2003322%20-%20Definitions.md) | Definitions. |
 | [3323\.](Subchapter%20002%20%28II%29%20-%20Critical%20Needs%20for%20Tribal%20Development/%C2%A7%2003323%20-%20Service%20conditions%20permitted.md) | Service conditions permitted. |
-| (a) | In general. |
-| (b) | Critical area designation. |
 | [3324\.](Subchapter%20002%20%28II%29%20-%20Critical%20Needs%20for%20Tribal%20Development/%C2%A7%2003324%20-%20Critical%20area%20service%20agreements.md) | Critical area service agreements. |
-| (a) | Terms of agreements. |
-| (b) | Service limitations and conditions. |
-| (c) | Waiver and suspension of service agreement. |
-| (d) | Pro rata reduction for partial services. |
-| (e) | Certification of service. |
 | [3325\.](Subchapter%20002%20%28II%29%20-%20Critical%20Needs%20for%20Tribal%20Development/%C2%A7%2003325%20-%20General%20provisions.md) | General provisions. |
-| (a) | Application of existing procedures. |
-| (b) | Additional, excess, and incremental costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

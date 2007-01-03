@@ -12,7 +12,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(D) a significant increase in home energy disconnections reported by a utility, a State regulatory agency, or another agency with necessary data;
 
-&emsp;&emsp;(E) a significant increase in participation in a public benefit program such as the food stamp program carried out under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), the national program to provide supplemental security income carried out under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or the State temporary assistance for needy families program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), as determined by the head of the appropriate Federal agency;
+&emsp;&emsp;(E) a significant increase in participation in a public benefit program such as the food stamp program carried out under the FoodStamp Act of 1977 (7 U.S.C. 2011 et seq.), the national program to provide supplemental security income carried out under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or the State temporary assistance for needy families program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), as determined by the head of the appropriate Federal agency;
 
 &emsp;&emsp;(F) a significant increase in unemployment, layoffs, or the number of households with an individual applying for unemployment benefits, as determined by the Secretary of Labor; or
 

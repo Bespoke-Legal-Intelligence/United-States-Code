@@ -62,7 +62,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A) of this section;
 
-&emsp;&emsp;(ii) each supervisor of a Bureau school shall be hired by the education line officer ofthe agency office of the Bureau for the jurisdiction in which the school is located;
+&emsp;&emsp;(ii) each supervisor of a Bureau school shall be hired by the education line officer of the agency office of the Bureau for the jurisdiction in which the school is located;
 
 &emsp;&emsp;(iii) each educator employed in an agency office of the Bureau shall be hired by the superintendent for education of the agency office; and
 
@@ -98,7 +98,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (3) Statutory construction
 
-&emsp;Except as expressly provided, nothing in this section shall be construed as conferring upon local school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
+&emsp;Except as expressly provided, nothing in this section shall be construed as conferring uponlocal school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
 
 #### (4) Appeals
 
@@ -136,7 +136,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iv) Transmission of determination
 
-&emsp;&emsp;&emsp;The Director shall transmit the determination of such appeal in the form of awritten opinion to such board and to such education line officer identifying the reasons for overturning such determination.
+&emsp;&emsp;&emsp;The Director shall transmit the determination of such appeal in the form of a written opinion to such board and to such education line officer identifying the reasons for overturning such determination.
 
 #### (5) Other appeals
 
@@ -230,7 +230,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “Indian preference laws” means section 472 of this title or any otherprovision of law granting a preference to Indians in promotions and other personnel actions.
+&emsp;&emsp;&emsp;The term “Indian preference laws” means section 472 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
 
 #### (ii) Exclusion
 
@@ -274,7 +274,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Consistent rates
 
-&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid for individuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
+&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid forindividuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
 
 #### (iii) Decreases
 
@@ -340,7 +340,7 @@ Upon termination of employment with the Bureau, any annual leave remaining to th
 
 #### (i) Transfer of remaining sick leave upon transfer, promotion, or reemployment
 
-In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remainingleave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
 #### (j) Ineligibility for employment of voluntarily terminated educators
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) classroom or other instruction or the supervision or direction of classroom or other instruction;
 
-&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
+&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to theacademic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
 
 &emsp;&emsp;&emsp;(III) any activity in or related to the field of education notwithstanding that academic credits in educational theory and practice are not a formal requirement for the conduct of such activity; or
 
@@ -466,7 +466,7 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 &emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>7</sup> of this title; and
 
-&emsp;&emsp;(B) all educators (other than principals and clerical employees) providing services atsuch Bureau school are placed on furloughs of equal length, except that the supervisor, with the approval of the local school board (or of the agency education line officer upon appeal under paragraph (2)), may continue one or more educators in pay status if—
+&emsp;&emsp;(B) all educators (other than principals and clerical employees) providing services at such Bureau school are placed on furloughs of equal length, except that the supervisor, with the approval of the local school board (or of the agency education line officer upon appeal under paragraph (2)), may continue one or more educators in pay status if—
 
 &emsp;&emsp;&emsp;(i) such educators are needed to operate summer programs, attend summer training sessions, or participate in special activities including curriculum development committees; and
 

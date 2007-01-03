@@ -8,7 +8,7 @@ Section 648, acts June 22, 1916, ch. 171, 39 Stat. 236; 1939 Reorg. Plan No. II,
 
 Section 649, R.S. §1961; act Apr. 21, 1910, ch. 183, §7, 36 Stat. 328, related to killing female seal or seal less than 1 year old, or killing in waters adjacent to Pribilof Islands or on beaches or cliffs, punishment, and forfeitures.
 
-Section 650, acts Apr. 21, 1910, ch. 183, §1, 36 Stat. 326; Aug. 24, 1912, ch. 373, §11, 37 Stat. 502; Mar. 4, 1913, ch.141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to killing of seals on Pribilof Islands, regulations, restricted to officers and natives under their direction, and number to be killed.
+Section 650, acts Apr. 21, 1910, ch. 183, §1, 36 Stat. 326; Aug. 24, 1912, ch. 373, §11, 37 Stat. 502; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to killing of seals on Pribilof Islands, regulations, restricted to officers and natives under their direction, and number to be killed.
 
 Section 651, acts Apr. 21, 1910, ch. 183, §2, 36 Stat. 326; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to sale of sealskins, proceeds, and subsequent treaties.
 

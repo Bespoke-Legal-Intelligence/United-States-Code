@@ -120,3 +120,31 @@ Section 652(a)(3) of Pub. L. 103–337 provided that: “The amendments made by 
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
+#### Requirement for Deploying Military Medical Personnel To Be Trained in Preservation of Remains Under Combat or Combat-Related Conditions
+
+Pub. L. 109–364, div. A, title V, §567, Oct. 17, 2006, 120 Stat. 2224, provided that:
+
+“(a)
+
+Requirement.—The Secretary of each military department shall ensure that each military health care professional under that Secretary's jurisdiction who is deployed to a theater of combat operations is trained, before such deployment, in the preservation of remains under combat or combat-related conditions.
+
+“(b)
+
+Matters Covered by Training.—The training under subsection (a) shall include, at a minimum, the following:
+
+&emsp;“(1) Best practices and procedures for the preservation of the remains of a member of the Armed Forces after death, taking into account the conditions likely to be encountered and the objective of returning the remains to the member's family in the best possible condition.
+
+&emsp;“(2) Practical case studies based on experience of the Armed Forces in a variety of climactic conditions.
+
+“(c)
+
+Covered Military Health Care Professionals.—In this section, the term ‘military health care professional’ means—
+
+&emsp;“(1) a physician, nurse, nurse practitioner, physician assistant, or combat medic; and
+
+&emsp;“(2) any other medical personnel with medical specialties who may provide direct patient care and who are designated by the Secretary of the military department concerned.
+
+“(d)
+
+Effective Date.—Subsection (a) shall apply with respect to any military health care professional who is deployed to a theater of combat operations after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 17, 2006\].”
+

@@ -102,7 +102,7 @@ Procedures For Accumulation of Funds.—The Secretary of Defense, with respect t
 
 Annual Reports and Budget.—The Secretary of Defense, with respect to each working-capital fund of a Defense Agency, and the Secretary of each military department, with respect to each working-capital fund of the military department, shall annually submit to Congress, at the same time that the President submits the budget under section 1105 of title 31, the following:
 
-&emsp;(1) A detailed report that contains a statement of all receipts and disbursements of thefund (including such a statement for each subaccount of the fund) for the fiscal year ending in the year preceding the year in which the budget is submitted.
+&emsp;(1) A detailed report that contains a statement of all receipts and disbursements of the fund (including such a statement for each subaccount of the fund) for the fiscal year ending in the year preceding the year in which the budget is submitted.
 
 &emsp;(2) A detailed proposed budget for the operation of the fund for the fiscal year for which the budget is submitted.
 
@@ -124,7 +124,7 @@ Annual Reports and Budget.—The Secretary of Defense, with respect to each work
 
 Notification of Transfers.—(1) Notwithstanding any authority provided in this section to transfer funds, the transfer of funds from a working-capital fund, including a transfer to another working-capital fund, shall not be made under such authority unless the Secretary of Defense submits, in advance, a notification of the proposed transfer to the congressional defense committees in accordance with customary procedures.
 
-(2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
+(2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defenseor a law making appropriations for the Department of Defense.
 
 (Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037.)
 
@@ -264,9 +264,13 @@ Pub. L. 105–261, div. A, title X, §1007(e)(2), Oct. 17, 1998, 112 Stat. 2115,
 
 Section 1204(b) of Pub. L. 98–94 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
 
+#### Advance Billing for Fiscal Year 2006
+
+Pub. L. 109–234, title I, §1206, June 15, 2006, 120 Stat. 430, provided in part that: “Notwithstanding 10 U.S.C. 2208(<i>l</i>), the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in fiscal year 2006 shall not exceed $1,200,000,000”.
+
 #### Advance Billing for Fiscal Year 2005
 
-Pub. L. 109–13, div. A, title I, §1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under section 2208(<i>l</i>)(3) of this title on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
+Pub. L. 109–13, div. A, title I, §1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under subsec. (<i>l</i>)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
 
 #### Oversight of Defense Business Operations Fund
 

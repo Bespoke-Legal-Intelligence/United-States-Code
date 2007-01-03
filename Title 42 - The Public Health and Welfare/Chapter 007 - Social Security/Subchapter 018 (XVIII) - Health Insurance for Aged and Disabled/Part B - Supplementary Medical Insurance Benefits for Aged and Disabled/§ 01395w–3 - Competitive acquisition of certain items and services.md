@@ -66,7 +66,7 @@
 
 #### (6) Application
 
-&emsp;For each competitive acquisition area in which the program is implemented under this subsection with respect to items and services, the payment basis determined under the competition conducted under subsection (b) of this section shall be substituted for the payment basis otherwise applied under section 1395m(a) of this title, section 1395m(h) of this title, or section 1395u(s) of this title, as appropriate.
+&emsp;For each competitive acquisition area in which the program is implemented under thissubsection with respect to items and services, the payment basis determined under the competition conducted under subsection (b) of this section shall be substituted for the payment basis otherwise applied under section 1395m(a) of this title, section 1395m(h) of this title, or section 1395u(s) of this title, as appropriate.
 
 #### (b) Program requirements
 
@@ -152,7 +152,7 @@
 
 #### (C) Rules for mergers and acquisitions
 
-&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successor entity in the case of a merger or acquisition, if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
+&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successor entity in the case of a merger or acquisition,if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
 
 #### (D) Protection of small suppliers
 
@@ -160,7 +160,7 @@
 
 #### (7) Consideration in determining categories for bids
 
-&emsp;The Secretary may consider the clinical efficiency and value of specific items withincodes, including whether some items have a greater therapeutic advantage to individuals.
+&emsp;The Secretary may consider the clinical efficiency and value of specific items within codes, including whether some items have a greater therapeutic advantage to individuals.
 
 #### (8) Authority to contract for education, monitoring, outreach, and complaint services
 
@@ -260,7 +260,7 @@ Not later than July 1, 2009, the Secretary shall submit to Congress a report on 
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

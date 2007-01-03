@@ -24,7 +24,7 @@
 
 (f) The health programs conducted by the Tennessee Valley Authority are not affected by this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, §1(47), Sept. 11, 1967, 81 Stat. 209; Pub. L. 104–201, div. C, title XXXV, §3548(a)(9), Sept. 23, 1996, 110 Stat. 2869.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, §1(47), Sept. 11, 1967, 81 Stat. 209; Pub. L.104–201, div. C, title XXXV, §3548(a)(9), Sept. 23, 1996, 110 Stat. 2869.)
 
 Historical and Revision Notes<br>1966
 

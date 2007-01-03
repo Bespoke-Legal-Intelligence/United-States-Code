@@ -14,7 +14,7 @@
 
 &emsp;(B) the defendant is a party to an action which is or could have been brought, in whole or in part, under section 1369 in a United States district court and arises from the same accident as the action in State court, even if the action to be removed could not have been brought in a district court as an original matter.
 
-> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an actionunder section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
+> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
 
 (2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
 

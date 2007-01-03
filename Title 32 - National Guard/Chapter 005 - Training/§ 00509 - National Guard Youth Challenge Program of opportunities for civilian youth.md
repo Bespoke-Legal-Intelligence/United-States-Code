@@ -2,11 +2,11 @@
 
 (a)
 
-Program Authority and Purpose.—The Secretary of Defense may use the National Guard to conduct a civilian youth opportunities program, to be known as the “National Guard Youth Challenge Program”, which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
+Program Authority and Purpose.—The Secretary of Defense may use the NationalGuard to conduct a civilian youth opportunities program, to be known as the “National Guard Youth Challenge Program”, which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
 
 (b)
 
-Conduct of the Program.—(1) The Secretary of Defense shall provide for the conductof the Program in such States as the Secretary considers to be appropriate.
+Conduct of the Program.—(1) The Secretary of Defense shall provide for the conduct of the Program in such States as the Secretary considers to be appropriate.
 
 (2) The Secretary shall carry out the Program using—
 
@@ -154,7 +154,7 @@ Subsec. (b)(4). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” f
 
 Subsecs. (c) to (f). Pub. L. 108–375, §594(a)(2), substituted “Program” for “National Guard Challenge Program” wherever appearing in text.
 
-Subsec. (g)(1). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “is conducted” in first sentence and for “program” before period at end of first and second sentences.
+Subsec. (g)(1). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “is conducted” in first sentence andfor “program” before period at end of first and second sentences.
 
 Subsec. (g)(2). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “Governor participating in the” and after “in carrying out the” and substituted “Program” for “program” after “National Guard is participating in the”.
 

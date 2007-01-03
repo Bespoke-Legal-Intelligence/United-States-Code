@@ -10,9 +10,9 @@
 
 &emsp;(4) a person receiving any salary or compensation for services from money derived from the Treasury of the United States; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both.
 
-(b) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Rate Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
+(b) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Regulatory Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
 
-(June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 96–187, title II, §201(a)(3), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–94, §4(a), Oct. 6, 1993, 107 Stat. 1004; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 96–187, title II, §201(a)(3), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–94, §4(a), Oct. 6, 1993, 107 Stat. 1004; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Historical and Revision Notes
 
@@ -32,9 +32,11 @@ Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subs
 
 #### Amendments
 
+2006—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $5,000”, could not be executed because the phrase “not more than $5,000” does not appear in text. See 1993 Amendment note below.
 
-1993—Pub. L. 103–94 designated existing provisions as subsec. (a), substituted “; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both” for “to knowingly solicit, any contribution within the meaning ofsection 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined not more than $5,000 or imprisoned not more than three years, or both” in par. (4), and added subsec. (b).
+1993—Pub. L. 103–94 designated existing provisions as subsec. (a), substituted “; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both” for “to knowingly solicit, any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined not more than $5,000 or imprisoned not more than three years, or both” in par. (4), and added subsec. (b).
 
 1980—Pub. L. 96–187 amended section generally to conform its terms to revision of the Federal Election Campaign Act of 1971 by title I of Pub. L. 96–187.
 

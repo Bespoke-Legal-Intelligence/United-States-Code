@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 2005 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 2006 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -102,6 +102,8 @@
 | [<b>84.</b>](Chapter%20084%20-%20Millennium%20Challenge/README.md) | <b>Millennium Challenge</b> | <b>7701</b> |
 | [<b>85.</b>](Chapter%20085%20-%20North%20Korean%20Human%20Rights/README.md) | <b>North Korean Human Rights</b> | <b>7801</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Climate%20Change%20Technology%20Deployment%20in%20Developing%20Countries/README.md) | <b>Climate Change Technology Deployment in Developing Countries</b> | <b>7901</b> |
+| [<b>87.</b>](Chapter%20087%20-%20United%20States%20and%20India%20Nuclear%20Cooperation/README.md) | <b>United States and India Nuclear Cooperation</b> | <b>8001</b> |
+| [<b>88.</b>](Chapter%20088%20-%20Nuclear%20Non-Proliferation%20Treaty%E2%80%94United%20States%20Additional%20Protocol%20Implementation/README.md) | <b>Nuclear Non-Proliferation Treaty—United States Additional Protocol Implementation</b> | <b>8101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -207,3 +209,5 @@
 - [Chapter 084 - Millennium Challenge](Chapter%20084%20-%20Millennium%20Challenge/README.md)
 - [Chapter 085 - North Korean Human Rights](Chapter%20085%20-%20North%20Korean%20Human%20Rights/README.md)
 - [Chapter 086 - Climate Change Technology Deployment in Developing Countries](Chapter%20086%20-%20Climate%20Change%20Technology%20Deployment%20in%20Developing%20Countries/README.md)
+- [Chapter 087 - United States and India Nuclear Cooperation](Chapter%20087%20-%20United%20States%20and%20India%20Nuclear%20Cooperation/README.md)
+- [Chapter 088 - Nuclear Non-Proliferation Treaty&#8212;United States Additional Protocol Implementation](Chapter%20088%20-%20Nuclear%20Non-Proliferation%20Treaty%E2%80%94United%20States%20Additional%20Protocol%20Implementation/README.md)

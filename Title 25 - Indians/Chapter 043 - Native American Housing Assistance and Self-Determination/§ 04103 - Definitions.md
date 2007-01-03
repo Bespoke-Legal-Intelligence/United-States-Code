@@ -56,7 +56,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (4) Elderly families and near-elderly families
 
-&emsp;The terms “elderly family” and “near-elderly family” mean a family whose head (or his or her spouse), or whose sole member, is an elderly person or a near-elderly person, respectively. Such terms include 2 or more elderly persons or near-elderly persons living together, and 1 or more such persons living with1 or more persons determined under the Indian housing plan for the agency to be essential to their care or well-being.
+&emsp;The terms “elderly family” and “near-elderly family” mean a family whose head (or hisor her spouse), or whose sole member, is an elderly person or a near-elderly person, respectively. Such terms include 2 or more elderly persons or near-elderly persons living together, and 1 or more such persons living with 1 or more persons determined under the Indian housing plan for the agency to be essential to their care or well-being.
 
 #### (5) Elderly person
 

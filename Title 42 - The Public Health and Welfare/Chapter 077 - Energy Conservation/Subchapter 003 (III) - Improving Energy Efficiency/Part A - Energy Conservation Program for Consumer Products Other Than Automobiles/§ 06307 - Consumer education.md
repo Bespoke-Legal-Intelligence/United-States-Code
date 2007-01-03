@@ -60,5 +60,9 @@ The Secretary shall, in close cooperation and coordination with the Commission a
 
 1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
+#### Transfer of Functions
+
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -6,7 +6,7 @@ Procedural Rights.—Under regulations prescribed by the Secretary of Defense, a
 
 &emsp;(1) shall be notified in writing, at least 30 days before the hearing of the officer's case by a board of inquiry, of the reasons for which the officer is being required to show cause for retention in an active status;
 
-&emsp;(2) shall be allowed a reasonable time, as determined by the board of inquiry, to preparefor showing of cause for retention in an active status;
+&emsp;(2) shall be allowed a reasonable time, as determined by the board of inquiry, to prepare for showing of cause for retention in an active status;
 
 &emsp;(3) shall be allowed to appear in person and to be represented by counsel at proceedings before the board of inquiry; and
 

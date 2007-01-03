@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards,and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
+General Authority.—Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards, and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
 
 (b)
 
@@ -40,7 +40,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(P) provides satisfactory assurances that the State will promote activities in support of national priorities and performance goals, including—
 
-&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from the highways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
+&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from thehighways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
 
 &emsp;&emsp;(ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
 
@@ -136,7 +136,7 @@ In this section, the word “rules” is omitted as being synonymous with “reg
 
 In subsection (a), the words “Subject to this section and the availability of amounts” are substituted for “Under the terms and conditions of this section, subject to the availability of funds” to eliminate unnecessary words.
 
-In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in oneplace and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
+In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
 
 In subsection (b)(3)(B), the words “Government financing” are substituted for “Federal funding” for clarity and consistency in the revised title.
 
@@ -206,7 +206,7 @@ Subsec. (b)(1)(P). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (O) as 
 
 Pub. L. 105–178, §4003(c)(4), added subpar. (P) and struck out former subpar. (P) which read as follows: “provides satisfactory assurances that the State will promote effective—
 
-&emsp;“(i) interdiction activities affecting the transportation of controlled substances by commercial motorvehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
+&emsp;“(i) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
 
 &emsp;“(ii) use of trained and qualified officers and employees of political subdivisions and local governments, under the supervision and direction of the State motor vehicle safety agency, in the enforcement of regulations affecting commercial motor vehicle safety and hazardous material transportation safety; and”.
 

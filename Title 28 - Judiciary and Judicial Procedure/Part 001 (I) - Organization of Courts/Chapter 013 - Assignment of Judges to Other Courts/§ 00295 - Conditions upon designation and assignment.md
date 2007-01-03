@@ -36,7 +36,7 @@ Changes were made in phraseology.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 
-Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the United States Court of Customsand Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], see section 7 of Pub. L. 85–755, set out as a note under section 291 of this title.
+Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], see section 7 of Pub. L. 85–755, set out as a note under section 291 of this title.
 
 #### Limitation or Alteration of Jurisdiction
 

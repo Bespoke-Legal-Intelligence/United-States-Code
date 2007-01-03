@@ -6,7 +6,7 @@ For the purpose of enabling the American Printing House for the Blind more adequ
 
 #### Codification
 
-Prior to amendment by Pub. L. 100–630, section was comprised of two sentences. The first sentence was based on provisions of acts Mar. 3, 1879, and June 25,1906, and established a perpetual trust fund for purposes of aiding education of the blind in the United States through the American Printing House for the Blind and a permanent annual appropriation thereof, to be expended for purposes authorized by sections 101, 102, and 104 of this title. The second sentence was based on provisions of act Aug. 4, 1919, as amended. See 1988 Amendment note below.
+Prior to amendment by Pub. L. 100–630, section was comprised of two sentences. The first sentence was based on provisions of acts Mar. 3, 1879, and June 25, 1906, and established a perpetual trust fund for purposes of aiding education of the blind in the United States through the American Printing House for the Blind and a permanent annual appropriation thereof, to be expended for purposes authorized by sections 101, 102, and 104 of this title. The second sentence was based on provisions of act Aug. 4, 1919, as amended. See 1988 Amendment note below.
 
 #### Amendments
 

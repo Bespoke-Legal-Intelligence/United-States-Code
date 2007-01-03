@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(viii) improving the participation of parents of children with disabilities in the education of their children; and
 
-&emsp;&emsp;&emsp;(ix) resolving disagreements between education personnel and parents through alternate dispute resolution activities, including mediation.
+&emsp;&emsp;&emsp;(ix) resolving disagreements between education personnel and parents throughalternate dispute resolution activities, including mediation.
 
 #### (3) Interim and final reports
 
@@ -76,7 +76,7 @@ The Secretary shall carry out a national study or studies to examine—
 
 &emsp;(2) the validity and reliability of alternate assessment instruments and procedures;
 
-&emsp;(3) the alignment of alternate assessments and alternative achievement standards toState academic content standards in reading, mathematics, and science; and
+&emsp;(3) the alignment of alternate assessments and alternative achievement standards to State academic content standards in reading, mathematics, and science; and
 
 &emsp;(4) the use and effectiveness of alternate assessments in appropriately measuring student progress and outcomes specific to individualized instructional need.
 

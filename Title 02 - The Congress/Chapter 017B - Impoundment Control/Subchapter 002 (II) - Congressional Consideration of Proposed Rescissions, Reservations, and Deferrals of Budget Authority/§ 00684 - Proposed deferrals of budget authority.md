@@ -6,7 +6,7 @@ Whenever the President, the Director of the Office of Management and Budget, the
 
 &emsp;(1) the amount of the budget authority proposed to be deferred;
 
-&emsp;(2) any account, department, or establishment of the Government to which such budget authority is available for obligation, and thespecific projects or governmental functions involved;
+&emsp;(2) any account, department, or establishment of the Government to which such budget authority is available for obligation, and the specific projects or governmental functions involved;
 
 &emsp;(3) the period of time during which the budget authority is proposed to be deferred;
 

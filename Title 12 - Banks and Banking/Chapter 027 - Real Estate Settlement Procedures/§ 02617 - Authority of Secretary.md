@@ -34,7 +34,7 @@ No provision of this chapter or the laws of any State imposing any liability sha
 
 &emsp;The Secretary shall provide public notice of the date on which the amendment referred to in paragraph (1) will take effect in accordance with such paragraph not less than 90 days and not more than 180 days before such effective date.
 
-(Pub. L. 93–533, §19, as added Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159; amended Pub. L. 98–181, title IV, §461(e), Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, §2103(f), Sept. 30, 1996, 110 Stat. 3009–401.)
+(Pub. L. 93–533, §19, as added Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159; amended Pub. L. 98–181, title IV, §461(e), Nov. 30, 1983, 97 Stat.1232; Pub. L. 104–208, div. A, title II, §2103(f), Sept. 30, 1996, 110 Stat. 3009–401.)
 
 #### Amendments
 

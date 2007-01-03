@@ -66,7 +66,7 @@ Congressional Budget Office Study.—
 
 Access to Relevant Information.—
 
-&emsp;“(1) For the studies required by this section, each GSE shall provide full and prompt access to the Secretary of the Treasury and the Director of the Congressional Budget Office to its books and records and other information requested by the Secretary of the Treasury or the Director of the Congressional Budget Office.
+&emsp;“(1) For the studies required by this section, each GSE shall provide full and prompt access to the Secretary of the Treasury and the Director of the Congressional Budget Office to its books and records andother information requested by the Secretary of the Treasury or the Director of the Congressional Budget Office.
 
 &emsp;“(2) In preparing the studies required by this section, the Secretary of the Treasury and the Director of the Congressional Budget Office may request information from, or the assistance of, any Federal department or agency authorized by law to supervise the activities of a GSE.
 
@@ -146,7 +146,7 @@ Permanent.—An affirmative vote of three-fifths of the Members, duly chosen and
 
 &emsp;“(3)
 
-Temporary.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), and 312(c) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+Temporary.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), and312(c) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 “(e)
 

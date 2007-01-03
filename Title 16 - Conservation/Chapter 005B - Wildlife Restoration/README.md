@@ -5,48 +5,19 @@
 | [669\.](%C2%A7%2000669%20-%20Cooperation%20of%20Secretary%20of%20the%20Interior%20with%20States%3B%20conditions.md) | Cooperation of Secretary of the Interior with States; conditions. |
 | [669a.](%C2%A7%2000669a%20-%20Definitions.md) | Definitions. |
 | [669b.](%C2%A7%2000669b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Investment of unexpended amounts. |
-| (c) | Wildlife Conservation and Restoration Account. |
-| (d) | Obligation of amounts in State. |
 | 669b–1. | Authorization of appropriation of accumulated unappropriated receipts. |
 | [669c.](%C2%A7%2000669c%20-%20Allocation%20and%20apportionment%20of%20available%20amounts.md) | Allocation and apportionment of available amounts. |
-| (a) | Set-aside for expenses for administration of this chapter. |
-| (b) | Apportionment to States. |
-| (c) | Apportionment of certain taxes. |
-| (c) | Apportionment of Wildlife Conservation and Restoration Account. |
-| (d) | Wildlife conservation and restoration programs. |
 | [669d.](%C2%A7%2000669d%20-%20Apportionment%3B%20certification%20to%20States%20and%20Secretary%20of%20the%20Treasury%3B%20acceptance%20by%20States%3B%20disposition%20of%20funds%20not%20accepted.md) | Apportionment; certification to States and Secretary of the Treasury; acceptance by States; disposition of funds not accepted. |
 | [669e.](%C2%A7%2000669e%20-%20Submission%20and%20approval%20of%20plans%20and%20projects.md) | Submission and approval of plans and projects. |
-| (a) | Setting aside funds. |
-| (b) | “Project” defined. |
-| (c) | Costs. |
 | [669f.](%C2%A7%2000669f%20-%20Payment%20of%20funds%20to%20States%3B%20laws%20governing%20construction%20and%20labor.md) | Payment of funds to States; laws governing construction and labor. |
 | [669g.](%C2%A7%2000669g%20-%20Maintenance%20of%20projects%3B%20expenditures%20for%20management%20of%20wildlife%20areas%20and%20resources.md) | Maintenance of projects; expenditures for management of wildlife areas and resources. |
 | 669g–1. | Payment of funds to and cooperation with Puerto Rico, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, and Virgin Islands. |
 | [669h.](%C2%A7%2000669h%20-%20Requirements%20and%20restrictions%20concerning%20use%20of%20amounts%20for%20expenses%20for%20administration.md) | Requirements and restrictions concerning use of amounts for expenses for administration. |
-| (a) | Authorized expenses for administration. |
-| (b) | Reporting of other uses. |
-| (c) | Restriction on use to supplement general appropriations. |
-| (d) | Audit requirement. |
 | 669h–1. | Firearm and bow hunter education and safety program grants. |
-| (a) | In general. |
-| (b) | Cost sharing. |
-| (c) | Period of availability; reapportionment. |
 | 669h–2. | Multistate conservation grant program. |
-| (a) | In general. |
-| (b) | Selection of projects. |
-| (c) | Eligible grantees. |
-| (d) | Use of grants. |
-| (e) | Nonapplicability of Federal Advisory Committee Act. |
 | [669i.](%C2%A7%2000669i%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [669j.](%C2%A7%2000669j%20-%20Repealed.%20Aug.%207%2C%201946%2C%20ch.%20770%2C%20%C2%A71%2814%29%2C%2060%20Stat.%20867.md) | Repealed. |
 | [669k.](%C2%A7%2000669k%20-%20Reports%20and%20certifications.md) | Reports and certifications. |
-| (a) | Implementation report. |
-| (b) | Projected spending report. |
-| (c) | Spending certification and report. |
-| (d) | Certifications by States. |
-| (e) | Limitation on delegation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

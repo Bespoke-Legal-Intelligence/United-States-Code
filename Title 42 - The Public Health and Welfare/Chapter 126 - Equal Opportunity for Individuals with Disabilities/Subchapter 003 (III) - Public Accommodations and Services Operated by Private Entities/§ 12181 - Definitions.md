@@ -24,7 +24,7 @@ As used in this subchapter:
 
 #### (3) Demand responsive system
 
-&emsp;The term “demand responsive system” means any system of providing transportation of individuals by a vehicle, other than a system which is a fixed route system.
+&emsp;The term “demand responsive system” means any system of providing transportationof individuals by a vehicle, other than a system which is a fixed route system.
 
 #### (4) Fixed route system
 
@@ -112,7 +112,7 @@ General Rule.—Except as provided in subsections (b) and (c), this title \[enac
 
 “(b)
 
-Civil Actions.—Except for any civil action brought for a violation of section 303 \[section 12183 of this title\], no civil action shall be brought for any act or omission described in section 302 \[section 12182 of this title\] which occurs—
+Civil Actions.—Except for any civil action brought for a violation of section 303 \[section 12183 of this title\], no civil action shall be brought for any actor omission described in section 302 \[section 12182 of this title\] which occurs—
 
 &emsp;“(1) during the first 6 months after the effective date, against businesses that employ 25 or fewer employees and have gross receipts of $1,000,000 or less; and
 

@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 May 29, 1928, ch. 853 (last par. under “Ordnance Establishment”), 45 Stat. 928.
 
-In subsection (a), the words “informed on stored” are substituted for the words “advised of storage”. The words “particular regard” are substituted for the words “special reference”. The words “inside or outside of” are substituted for the words “within or without”. The word “selected” is substituted for the word “appointed”, since the filling of the position involved is not appointment to an office in the constitutional sense.
+In subsection (a), the words “informed on stored” are substituted for the words “advised of storage”. The words “particular regard” are substituted for the words “special reference”. The words “inside or outside of”are substituted for the words “within or without”. The word “selected” is substituted for the word “appointed”, since the filling of the position involved is not appointment to an office in the constitutional sense.
 
 In subsection (b), the words “in carrying out” are substituted for the words “in the execution of”.
 

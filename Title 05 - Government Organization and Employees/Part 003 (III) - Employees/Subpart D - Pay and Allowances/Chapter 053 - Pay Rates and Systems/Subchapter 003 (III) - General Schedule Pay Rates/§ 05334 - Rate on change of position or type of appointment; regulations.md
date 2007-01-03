@@ -32,7 +32,7 @@
 
 > If an employee's rate after promotion or transfer is greater than the maximum rate of basic pay for the employee's grade, that rate shall be treated as a retained rate under section 5363. The Office of Personnel Management shall prescribe by regulation the circumstances under which and the extent to which special rates under section 5305 (or similar provision of law) or locality-adjusted rates under section 5304 (or similar provision of law) are considered to be basic pay in applying this subsection.
 
-(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
+(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House ofRepresentatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
 
 &emsp;(1) at the minimum rate of the appropriate grade; or
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987,moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective onfirst day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 801(a)(2), (3)(F), (G) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 

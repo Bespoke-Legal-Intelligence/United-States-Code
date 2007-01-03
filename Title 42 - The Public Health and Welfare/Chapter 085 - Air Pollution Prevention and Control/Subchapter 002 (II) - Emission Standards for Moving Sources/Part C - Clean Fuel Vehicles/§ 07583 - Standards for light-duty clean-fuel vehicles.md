@@ -214,7 +214,7 @@ In the case of the 50,000 mile standards and the 100,000 mile standards, for pur
 
 #### (c) Exhaust standards for light-duty trucks greater than 6,000 lbs. GVWR
 
-The standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 6,000 lbs. gross weight rating (GVWR) and less than or equal to 8,500 lbs. GVWR, beginning with model year 1998. For the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions of vehicles within the test weight categories specified in the following table shall not exceed the levels specified in such table.
+The standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 6,000 lbs. gross weight rating (GVWR) and less than orequal to 8,500 lbs. GVWR, beginning with model year 1998. For the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions of vehicles within the test weight categories specified in the following table shall not exceed the levels specified in such table.
 
 | Pollutant | NMOG | CO | NO<sub>x</sub> | PM\* | HCHO (formaldehyde) |
 | :--- | :---: | :---: | :---: | :---: | ---: |
@@ -287,7 +287,7 @@ For standards under column B, for purposes of certification under section 7525 o
 | :--- | :---: | ---: |
 | Beginning MY 1996: |  |  |
 | LDT's (0–3,750 lbs. LVW) and light-duty vehicles | 0\.25 | 0\.31&nbsp; |
-| LDT's (3,751–5,750 lbs. LVW) | 0\.32 | 0\.40&nbsp; |
+| LDT's (3,751–5,750 lbs. LVW) | 0\.32 | 0\.40  |
 | Beginning MY 2001: |  |  |
 | LDT's (0–3,750 lbs. LVW) and light-duty vehicles | 0\.125 | 0\.156 |
 | LDT's (3,751–5,750 lbs. LVW) | 0\.160 | 0\.200 |
@@ -317,7 +317,7 @@ For standards under column B, for purposes of certification under section 7525 o
 
 #### (2) Multiple sets of CARB standards
 
-&emsp;If the State of California promulgates regulations establishing and implementing several different sets of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and each of such sets of California standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such standards shall be treated as “qualifying California standards” for purposes of this paragraph. Where more than one set of qualifying standards are established and administered by the State of California, the least stringent set of qualifying California standards shall apply tothe clean-fuel vehicles concerned in lieu of the standards otherwise applicable to such vehicles under section 7582 of this title and this section.
+&emsp;If the State of California promulgates regulations establishing and implementing several different sets of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and each of such sets of California standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such standards shall be treated as “qualifying California standards” for purposes of this paragraph. Where more than one set of qualifying standards are established and administered by the State of California, the least stringent set of qualifying California standards shall apply to the clean-fuel vehicles concerned in lieu of the standards otherwise applicable to such vehicles under section 7582 of this title and this section.
 
 #### (f) Less stringent CARB standards
 

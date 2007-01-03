@@ -2,7 +2,7 @@
 
 The purposes of the corporation are—
 
-&emsp;(1) to encourage in the most comprehensive and enlightened manner an understanding by the American people of the founding, growth, and significance of the Capitol of the United States as the tangible symbol of their representative form of government;
+&emsp;(1) to encourage in the most comprehensive and enlightened manner an understanding bythe American people of the founding, growth, and significance of the Capitol of the United States as the tangible symbol of their representative form of government;
 
 &emsp;(2) to undertake research into the history of the Congress and the Capitol and to promote discussion, publication, and dissemination of the results of this research;
 

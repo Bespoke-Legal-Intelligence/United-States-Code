@@ -18,6 +18,10 @@ Major disaster.—“Major disaster” means any natural catastrophe (including 
 
 (6)
 
+Individual with a disability.—The term “individual with a disability” means an individual with a disability as defined in section 12102(2) of this title.
+
+(7)
+
 Local government.—The term “local government” means—
 
 &emsp;(A) a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;
@@ -26,9 +30,9 @@ Local government.—The term “local government” means—
 
 &emsp;(C) a rural community, unincorporated town or village, or other public entity, for which an application for assistance is made by a State or political subdivision of a State.
 
-(7) “Federal agency” means any department, independent establishment, Government corporation, or other agency of the executive branch of the Federal Government, including the United States Postal Service, but shall not include the American National Red Cross.
+(8) “Federal agency” means any department, independent establishment, Government corporation, or other agency of the executive branch of the Federal Government, including the United States Postal Service, but shall not include the American National Red Cross.
 
-(8)
+(9)
 
 Public facility.—“Public facility” means the following facilities owned by a State or local government:
 
@@ -40,13 +44,29 @@ Public facility.—“Public facility” means the following facilities owned by
 
 &emsp;(D) Any park.
 
-(9)
+(10)
 
-Private nonprofit facility.—“Private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public, and facilities on Indian reservations as defined by the President.
+Private nonprofit facility.—
 
-(Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572.)
+&emsp;(A)
+
+In general.—The term “private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
+
+&emsp;(B)
+
+Additional facilities.—In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President.
+
+(Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572; Pub. L. 109–295, title VI, §688, Oct. 4, 2006, 120 Stat. 1448.)
 
 #### Amendments
+
+2006—Pars. (6) to (8). Pub. L. 109–295, §688(2), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 109–295, §688(2), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Pub. L. 109–295, §688(1), amended par. (9) generally. Prior to amendment, text read as follows: “ ‘Private nonprofit facility’ means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public, and facilities on Indian reservations as defined by the President.”
+
+Par. (10). Pub. L. 109–295, §688(2), redesignated par. (9) as (10).
 
 2000—Par. (3). Pub. L. 106–390, §302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
@@ -66,21 +86,17 @@ Pars. (3), (4). Pub. L. 100–707, §103(d), struck out “the Canal Zone,” af
 
 Pars. (8), (9). Pub. L. 100–707, §103(f), added pars. (8) and (9).
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Local Government
 
-Section 103(e) of Pub. L. 100–707 provided that:
+Pub. L. 100–707, title I, §103(e), Nov. 23, 1988, 102 Stat. 4690, provided that:
 
 “(1)
 
-In general.—The term ‘local government’ is deemed to have the same meaning in the Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note set out under section 5121 of this title\], as amended by this Act \[see Short Title of 1988 Amendment note set out under section 5121 of this title\], as that term had on October 1, 1988, under section 102(6) of the Disaster Relief Act of 1974 \[par. (6) ofthis section\] and regulations implementing the Disaster Relief Act of 1974.
+In general.—The term ‘local government’ is deemed to have the same meaning in the Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note set out under section 5121 of this title\], as amended by this Act \[see Short Title of 1988 Amendment note set out under section 5121 of this title\], as that term had on October 1, 1988, under section 102(6) of the Disaster Relief Act of 1974 \[par. (6) of this section\] and regulations implementing the Disaster Relief Act of 1974.
 
 “(2)
 
 Termination of effectiveness.—Paragraph (1) shall not be effective on and after the 90th day after the President transmits to the Committee on Public Works and Transportation of the House of Representatives and to the Committee on Environment and Public Works of the Senate a report which includes an interpretation of the term ‘local government’ for purposes of the Disaster Relief and Emergency Assistance Act, as amended by this Act.”
 
-\[Functions of President under section 103(e)(2) of Pub. L. 100–707 delegated to Director of Federal Emergency Management Agency by section 3 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
+\[Functions of President under section 103(e)(2) of Pub. L. 100–707 delegated to Administrator of Federal Emergency Management Agency by section 3 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
 

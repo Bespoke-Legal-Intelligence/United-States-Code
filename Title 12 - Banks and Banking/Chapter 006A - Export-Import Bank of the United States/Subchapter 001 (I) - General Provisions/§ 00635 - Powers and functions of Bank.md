@@ -2,7 +2,7 @@
 
 #### (a) General banking business; use of mails; publication of documents, reports, contracts, etc.; use of assets and allocated or borrowed money; payment of dividends; medium-term financing; dissemination of information; enhancement of medium-term program
 
-(1) There is created a corporation with the name Export-Import Bank of the United States, which shall be an agency of the United States of America. The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank's objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers. In connection with and in furtherance of its objects and purposes, the bank is authorized and empowered to do a general banking business except that of circulation; to receive deposits; to purchase, discount, rediscount, sell, and negotiate, with or without its endorsement or guaranty, and to guarantee notes, drafts, checks, bills of exchange, acceptances, including bankers’ acceptances, cable transfers, and other evidences of indebtedness; to guarantee, insure, coinsure, and reinsure against political and credit risks of loss; to purchase, sell, and guarantee securities but not to purchase with its funds any stock in any other corporation except that it may acquire any such stock through the enforcement of any lien or pledge or otherwise to satisfy a previously contracted indebtedness to it; to accept bills and drafts drawn upon it; to issue letters of credit; to purchase and sell coin, bullion, and exchange; to borrow and to lend money; to perform any act herein authorized in participation with any other person, including any individual, partnership, corporation, or association; to adopt, alter, and use a corporate seal, which shall be judicially noticed; to sue and to be sued, to complain and to defend in any court of competent jurisdiction; to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States; and the enumeration of the foregoing powers shall not be deemed to exclude other powers necessary to the achievement of the objects and purposes of the bank. The bank shall be entitled to the use of the United States mails in the same manner and upon the same conditions as the executive departments of the Government. The Bank is authorized to publish or arrange for the publication of any documents, reports, contracts, or other material necessary in connection with or in furtherance of its objects and purposes without regard to the provisions of section 501 of title 44 whenever the Bank determines that publication in accordance with the provisions of such section would not be practicable. Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may impose and collect reasonable fees to cover the costs of conferences and seminars sponsored by, and publications provided by, the Bank, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5. Amounts received under the preceding sentence shall be credited to the fund which initially paid for such activities and shall be offset against the expenses of the Bank for such activities. The bank is authorized to use all of its assets and all moneys which have been or may hereafter be allocated to or borrowed by it in the exercise of its functions. Net earnings of the bank after reasonable provision for possible losses shall be used for payment of dividends on capital stock. Any such dividends shall be deposited into the Treasury as miscellaneous receipts.
+(1) There is created a corporation with the name Export-Import Bank of the United States, which shall be an agency of the United States of America. The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank's objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers. In connection with and in furtherance of its objects and purposes, the bank is authorized and empowered to do a general banking business except that of circulation; to receive deposits; to purchase, discount, rediscount, sell, and negotiate, with or without its endorsement or guaranty, and to guarantee notes, drafts, checks, bills of exchange, acceptances, including bankers’ acceptances, cable transfers, and other evidences of indebtedness; to guarantee, insure, coinsure, and reinsure against political and credit risks of loss; to purchase, sell, and guarantee securities but not to purchase with its funds any stock in any other corporation except that it may acquire any such stock through the enforcement of any lien or pledge or otherwise to satisfy a previously contracted indebtedness to it; to accept bills and drafts drawn upon it; to issue letters of credit; to purchase and sell coin, bullion, and exchange; to borrow and to lend money; to perform any act herein authorized in participation with any other person, including any individual, partnership, corporation, or association; to adopt, alter, and use a corporate seal, which shall be judicially noticed; to sue and to be sued, to complain and to defend in any court of competent jurisdiction; to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States; and the enumeration of the foregoing powers shall not be deemed to exclude other powers necessary to the achievement of the objects and purposes of the bank. The bank shall be entitled to the use of the United States mails in the same manner and upon the same conditions as the executive departments of the Government. The Bank is authorized to publish or arrange for the publication of any documents, reports, contracts, or other material necessary in connection with or in furtherance of its objects and purposes without regard to the provisions of section 501 of title 44 whenever the Bank determines that publication in accordance with the provisions of such section would not be practicable. Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may impose and collect reasonable fees to cover the costs of conferences and seminars sponsored by, and publications provided by, the Bank, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5. Amounts received under the preceding sentence shall be credited to the fund which initially paid for such activities and shall be offset against the expenses of the Bank for such activities. The bank is authorized to use all of its assets and allmoneys which have been or may hereafter be allocated to or borrowed by it in the exercise of its functions. Net earnings of the bank after reasonable provision for possible losses shall be used for payment of dividends on capital stock. Any such dividends shall be deposited into the Treasury as miscellaneous receipts.
 
 (2) In order for the Bank to be competitive in all of its financing programs with countries whose exports compete with United States exports, the Bank shall establish a program that—
 
@@ -28,9 +28,9 @@ Enhancement of Medium-Term Program.—To enhance the medium-term financing progr
 
 #### (b) Guarantees, insurance, and extension of credit functions; competitive with Government-supported rates and terms and conditions of foreign exporting countries; survey and report; interest rates; private capital encouragement; national interest determinations; delivery of United States services in international commerce; small business concern encouragement; coverage of losses by Foreign Credit Insurance Association; loans to Union of Soviet Socialist Republics for fossil fuel research, etc.; nuclear safeguards violations resulting in limitations on exports and credit; defense article credit sales to less developed countries; amount outstanding; supplementation of Commodity Credit Corporation programs; limitations on authority of Bank; prohibition relating to Angola
 
-(1)(A) It is the policy of the United States to foster expansion of exports of manufactured goods, agricultural products, and other goods and services, thereby contributing to the promotion and maintenance of high levels of employment and real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States. To meet this objective in all its programs, the Export-Import Bank is directed, in the exercise of its functions, to provide guarantees, insurance, and extensions of credit at rates and on terms and other conditions which are fully competitive with the Government-supported rates and terms and other conditions available for the financing of exports of goods and services from the principal countries whose exporters compete with United States exporters. The Bank shall, in cooperation with the export financing instrumentalities of other governments, seek to minimize competition in government-supported export financing and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing. The Bank shall, not later than June 30 of each year, report to the appropriate committees of Congress its actions in complying with these directives. In this report the Bank shall include a survey of all other major export-financing facilities available from other governments and government-related agencies through which foreign exporters compete with the United States exporters (including through use of market windows) and indicate in specific terms the ways in which the Bank's rates, terms, and other conditions compare with those offered from such other governments directly or indirectly. With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each government and government-related agency. Further, the Bank shall at the same time survey a representative number of United States exporters and United States commercial lending institutions which provide export credit to determine their experience in meeting financial competition from other countries whose exporters compete with United States exporters. The results of this survey shall be included as part of the annual report required by this subparagraph. The Bank shall include in the annual report a description of its role in the implementation of the strategic plan prepared by the Trade Promotion Coordinating Committee in accordance with section 4727 of title 15. The annual report required under this subparagraph shall include the report required under section 635i–3(g) of this title. The Bank shall include in the annual report a description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support. The Bank shall include in the annual report a description of the efforts undertaken under subparagraph (K).
+(1)(A) It is the policy of the United States to foster expansion of exports of manufactured goods, agricultural products, and other goods and services, thereby contributing to the promotion and maintenance of high levels of employment and real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States. To meet this objective in all its programs, the Export-Import Bank is directed, in the exercise of its functions, to provide guarantees, insurance, and extensions of credit at rates and on terms and other conditions which are fully competitive with the Government-supported rates and terms and other conditions available for the financing of exports of goods and services from the principal countries whose exporters compete with United States exporters, including countries the governments of which are not members of the Arrangement (as defined in section 635i–3(h)(3) of this title). The Bank shall, in cooperation with the export financing instrumentalities of other governments, seek to minimize competition in government-supported export financing and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing.
 
-(B) It is further the policy of the United States that loans made by the Bank in all its programs shall bear interest at rates determined by the Board of Directors, consistent with the Bank's mandate to support United States exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements. For the purpose of the preceding sentence, rates and terms and conditions need not be identical in all respects to those offered by foreign countries, but should be established so that the effect of such rates, terms, and conditions for all the Bank's programs, including those for small businesses and for medium-term financing, will be to neutralize the effect of such foreign credit on international sales competition. The Bank shall consider its average cost of money as one factor in its determination of interest rates, where such consideration does not impair the Bank's primary function of expanding United States exports through fully competitive financing. The Bank may not impose a credit application fee unless (i) the fee is competitive with the average fee charged by the Bank's primary foreign competitors, and (ii) the borrower or the exporter is given the option of paying the fee at the outset of the loan or over the life of the loan and the present value of the fee determined under either such option is the same amount. It is also the policy of the United States that the Bank in the exercise of its functions should supplement and encourage, and not compete with, private capital; that the Bank, indetermining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]; that the Bank shall accord equal opportunity to export agents and managers, independent export firms, export trading companies, and small commercial banks in the formulation and implementation of its programs; that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives; that loans, so far as possible consistent with the carrying out of the purposes of subsection (a) of this section, shall generally be for specific purposes, and, in the judgment of the Board of Directors, offer reasonable assurance of repayment; and that in authorizing any loan or guarantee, the Board of Directors shall take into account any serious adverse effect of such loan or guarantee on the competitive position of United States industry, the availability of materials which are in short supply in the United States, and employment in the United States, and shall give particular emphasis to the objective of strengthening the competitive position of United States exporters and thereby of expanding total United States exports. Only in cases where the President, after consultation with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism (including, when relevant, a foreign nation's lack of cooperation in efforts to eradicate terrorism), nuclear proliferation, the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\], environmental protection and human rights (such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948) (including child labor), should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations. Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.
+(B) It is further the policy of the United States that loans made by the Bank in all its programs shall bear interest at rates determined by the Board of Directors, consistent with the Bank's mandate to support United States exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements. For the purpose of the preceding sentence, rates and terms and conditions need not be identical in all respects to those offered by foreign countries, but should be established so that the effect of such rates, terms, and conditions for all the Bank's programs, including those for small businesses and for medium-term financing, will be to neutralize the effect of such foreign credit on international sales competition. The Bank shall consider its average cost of money as one factor in its determination of interest rates, where such consideration does not impair the Bank's primary function of expanding United States exports through fully competitive financing. The Bank may not impose a credit application fee unless (i) the fee is competitive with the average fee charged by the Bank's primary foreign competitors, and (ii) the borrower or the exporter is given the option of paying the fee at the outset of the loan or over the life of the loan and the present value of the fee determined under either such option is the same amount. It is also the policy of the United States that the Bank in the exercise of its functions should supplement and encourage, and not compete with, private capital; that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]; that the Bank shall accord equal opportunity to export agents and managers, independent export firms, export trading companies, and small commercial banks in the formulation and implementation of its programs; that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives; that loans, so far as possible consistent with the carrying out of the purposes of subsection (a) of this section, shall generally be for specific purposes, and, in the judgment of the Board of Directors, offer reasonable assurance of repayment; and that in authorizing any loan or guarantee, the Board of Directors shall take into account any serious adverse effect of such loan or guarantee on the competitive position of United States industry, the availability of materials which are in short supply in the United States, and employment in the United States, and shall give particular emphasis to the objective of strengthening the competitive position of United States exporters and thereby of expanding total United States exports. Only in cases where the President, after consultation with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism (including, when relevant, a foreign nation's lack of cooperation in efforts to eradicate terrorism), nuclear proliferation, the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], environmental protection and human rights (such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948) (including child labor), should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations. Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.
 
 (C) Consistent with the policy of section 3261 of title 22 and section 2151q <sup>1</sup> of title 22, the Board of Directors shall name an officer of the Bank whose duties shall include advising the President of the Bank on ways of promoting the export of goods and services to be used in the development, production, and distribution of nonnuclear renewable energy resources, disseminating information concerning export opportunities and the availability of Bank support for such activities, and acting as a liaison between the Bank and the Department of Commerce and other appropriate departments and agencies.
 
@@ -50,15 +50,15 @@ Enhancement of Medium-Term Program.—To enhance the medium-term financing progr
 
 (iv) The Director appointed to represent the interests of small business under section 635a(c) of this title shall ensure that the Bank carries out its responsibilities under clauses (ii) and (iii) of this subparagraph and that the Bank's financial and other resources are, to the maximum extent possible, appropriately used for small business needs.
 
-(v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under section 632 of title 15) which shall be not less than 20 percent of such authority for each fiscal year.
+(v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under section 632 of title 15) which shall be not less than 20 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in section 635a(i)(1) of this title.
 
-(vi) The Bank shall utilize the amount set aside pursuant to clause (v) of this subparagraph to offer financing for small business exports on terms which are fully competitive with regard to interest rates and with regard to the portion of financing which may be provided, guaranteed, or insured. Financing under this clause (vi) shall be available without regard to whether financing for the particular transaction was disapproved by any other Federal agency.
+(vi) The Bank shall utilize the amount set aside pursuant to clause (v) of this subparagraph to offer financing for small business exports on terms which are fully competitive with regardto interest rates and with regard to the portion of financing which may be provided, guaranteed, or insured. Financing under this clause (vi) shall be available without regard to whether financing for the particular transaction was disapproved by any other Federal agency.
 
 (vii)(I) The Bank shall utilize a part of the amount set aside pursuant to clause (v) to provide lines of credit or guarantees to consortia of small or medium size banks, export trading companies, State export finance agencies, export financing cooperatives, small business investment companies (as defined in section 662 of title 15), or other financing institutions or entities in order to finance small business exports.
 
 (II) Financing under this clause (vii) shall be made available only where the consortia or the participating institutions agree to undertake processing, servicing, and credit evaluation functions in connection with such financing.
 
-(III) To the maximum extent practicable, the Bank shall delegate to the consortia the authority to approve financing under this clause (vii).
+(III) To the maximum extent practicable, the Bank shall delegate to the consortia or other financing institutions or entities the authority to approve financing under this clause (vii).
 
 (IV) In the administration of the program under this clause (vii), the Bank shall provide appropriate technical assistance to participating consortia and may require such consortia periodically to furnish information to the Bank regarding the number and amount of loans made and the creditworthiness of the borrowers.
 
@@ -90,7 +90,7 @@ Enhancement of Medium-Term Program.—To enhance the medium-term financing progr
 
 (K) The Bank shall promote the export of goods and services related to renewable energy sources.
 
-(L) The Bank shall require an applicant for assistance from the Bank to disclose whether the applicant has been found by a court of the United States to have violated the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] within the preceding 12 months, and shall maintain, in cooperation with the Department of Justice, for not less than 3 years a record of such applicants so found to have violated any such Act.
+(L) The Bank shall require an applicant for assistance from the Bank to disclose whether the applicant has been found by a court of the United States to have violated the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] within the preceding 12 months, and shall maintain, in cooperation with the Department of Justice, for not less than 3 years a record of such applicants so found to have violated any such Act.
 
 (2)
 
@@ -102,7 +102,7 @@ In general.—The Bank in the exercise of its functions shall not guarantee, ins
 
 &emsp;&emsp;(i) in connection with the purchase or lease of any product by a Marxist-Leninist country, or agency or national thereof; or
 
-&emsp;&emsp;(ii) in connection with the purchase or lease of any product by any other foreign country, or agency or national thereof, if the product to be purchased or leased by such other country, agency, or national is, to the knowledge of the Bank, principally for use in, or sale or lease to, a Marxist-Leninist country.
+&emsp;&emsp;(ii) in connection with the purchase or lease of any product by any other foreigncountry, or agency or national thereof, if the product to be purchased or leased by such other country, agency, or national is, to the knowledge of the Bank, principally for use in, or sale or lease to, a Marxist-Leninist country.
 
 &emsp;(B)
 
@@ -188,9 +188,9 @@ determinations to congress.—Any determination by the President under clause (i
 
 &emsp;&emsp;&emsp;(III) the reasons for the facility and its methods of operation; and
 
-&emsp;(B) a full explanation of the reasons for Bank financing of the transaction, the amountof the loan to be provided by the Bank, the approximate rate and repayment terms at which such loan will be made available and the approximate amount of the financial guarantee.
+&emsp;(B) a full explanation of the reasons for Bank financing of the transaction, the amount of the loan to be provided by the Bank, the approximate rate and repayment terms at which such loan will be made available and the approximate amount of the financial guarantee.
 
-> If the Bank submits a statement to the Congress under this paragraph and either House of Congress is in an adjournment for a period which continues for at least ten days after the date of submission of the statement, then any such loan or guarantee or combination thereof may, subject to the second sentence of this paragraph, be finally approved by the Board of Directors upon the termination of the twenty-five-day period referred to in the first sentence of this paragraph or upon the termination of a thirty-five-calendar-day period (which commences upon the date of submission of the statement), whichever occurs sooner.
+> If the Bank submits a statement to the Congress under this paragraph and either House of Congress is in an adjournment for a period which continues for at least ten days after the date ofsubmission of the statement, then any such loan or guarantee or combination thereof may, subject to the second sentence of this paragraph, be finally approved by the Board of Directors upon the termination of the twenty-five-day period referred to in the first sentence of this paragraph or upon the termination of a thirty-five-calendar-day period (which commences upon the date of submission of the statement), whichever occurs sooner.
 
 (4)(A) If the Secretary of State determines that—
 
@@ -236,7 +236,7 @@ determinations to congress.—Any determination by the President under clause (i
 
 &emsp;(ii) The term “knowingly” is used within the meaning of the term “knowing” in section 78dd–2(h)(3) of title 15.
 
-&emsp;(iii) The term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise, and any successor of any such entity.
+&emsp;(iii) The term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operatingas a business enterprise, and any successor of any such entity.
 
 &emsp;(iv) The term “nuclear-weapon state” has the meaning given the term in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow on July 1, 1968.
 
@@ -312,7 +312,15 @@ determinations to congress.—Any determination by the President under clause (i
 
 (ii) The advisory committee shall make recommendations to the Board of Directors on how the Bank can facilitate greater support by United States commercial banks for trade with sub-Saharan Africa.
 
-(iii) The advisory committee shall terminate on September 30, 2006.
+(iii) The advisory committee shall terminate on September 30, 2011.
+
+(C) The Bank shall include in the annual report to the Congress submitted under section 635g(a) of this title a separate section that contains a report on the efforts of the Bank to—
+
+&emsp;(i) improve its working relationships with the African Development Bank, the African Export-Import Bank, and other institutions in the region that are relevant to the purposes of subparagraph (A) of this paragraph; and
+
+&emsp;(ii) coordinate closely with the United States Foreign Service and Foreign Commercial Service, and with the overall strategy of the United States Government for economic engagement with Africa pursuant to the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\].
+
+(D) Consistent with the requirement that the Bank obtain a reasonable assurance of repayment in connection with each transaction the Bank supports, the Bank shall, in consultation with the entities described in subparagraph (C), seek to qualify a greater number of appropriate African entities for participation in programs of the Bank.
 
 (10)(A) The Bank shall not, without a specific authorization by law, guarantee, insure, or extend credit (or participate in the extension of credit) to—
 
@@ -356,6 +364,10 @@ Prohibition Relating to Angola.—The Bank may not guarantee, insure, or extend 
 
 Prohibition relating to russian transfers of certain missile systems.—If the President of the United States determines that the military or Government of the Russian Federation has transferred or delivered to the People's Republic of China an SS–N–22 missile system and that the transfer or delivery represents a significant and imminent threat to the security of the United States, the President of the United States shall notify the Bank of the transfer or delivery as soon as practicable. Upon receipt of the notice and if so directed by the President of the United States, the Board of Directors of the Bank shall not give approval to guarantee, insure, extend credit, or participate in the extension of credit in connection with the purchase of any good or service by the military or Government of the Russian Federation.
 
+(13)
+
+Prohibition on assistance to develop or promote certain railway connections and railway-related connections.—The Bank shall not guarantee, insure, or extend (or participate in the extension of) credit in connection with the export of any good or service relating to the development or promotion of any railway connection or railway-related connection that does not traverse or connect with Armenia and does traverse or connect Baku, Azerbaijan, Tbilisi, Georgia, and Kars, Turkey.
+
 #### (c) Guarantees, insurance, coinsurance, and reinsurance functions; fractional charge; aggregate outstanding amount; fees and premiums; issuance, service and adjustments by agents; transferability of guarantees
 
 (1) The Bank shall charge fees and premiums commensurate, in the judgment of the Bank, with risks covered in connection with the contractual liability that the Bank incurs for guarantees, insurance, coinsurance, and reinsurance against political and credit risks of loss.
@@ -386,7 +398,7 @@ Competitive opportunity for insurance companies.—In the case of any long-term 
 
 Responsive actions.—If the Bank becomes aware that a fair and open competitive opportunity is not accorded to any United States insurance company in a foreign country with respect to which the Bank is considering a loan or guarantee, the Bank—
 
-&emsp;(A) may approve or deny the loan or guarantee after considering whether such action would be likely to achieve competitive access for United States insurance companies; and
+&emsp;(A) may approve or deny the loan or guarantee after considering whether such actionwould be likely to achieve competitive access for United States insurance companies; and
 
 &emsp;(B) shall forward information regarding any foreign country that denies United States insurance companies a fair and open competitive opportunity to the Secretary of Commerce and to the United States Trade Representative for consideration of a recommendation to the President that access by such country to export credit of the United States should be restricted.
 
@@ -400,7 +412,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(A) the term “United States insurance company”—
 
-&emsp;&emsp;(i) includes an individual, partnership, corporation, holding company, or other legalentity which is authorized (or in the case of a holding company, subsidiaries of which are authorized) by a State to engage in the business of issuing insurance contracts or reinsuring the risk underwritten by insurance companies; and
+&emsp;&emsp;(i) includes an individual, partnership, corporation, holding company, or other legal entity which is authorized (or in the case of a holding company, subsidiaries of which are authorized) by a State to engage in the business of issuing insurance contracts or reinsuring the risk underwritten by insurance companies; and
 
 &emsp;&emsp;(ii) includes foreign operations, branches, agencies, subsidiaries, affiliates, or joint ventures of any entity described in clause (i); and
 
@@ -412,55 +424,167 @@ Definitions.—For purposes of this section—
 
 #### (e) Limitation on assistance which adversely affects the United States
 
-(1)
+#### (1) In general
 
-In general.—The Bank may not extend any direct credit or financial guarantee for establishing or expanding production of any commodity for export by any country other than the United States, if—
+&emsp;The Bank may not extend any direct credit or financial guarantee for establishing or expanding production of any commodity for export by any country other than the United States, if—
 
-&emsp;(A) the Bank determines that—
+&emsp;&emsp;(A) the Bank determines that—
 
-&emsp;&emsp;(i) the commodity is likely to be in surplus on world markets at the time the resulting commodity will first be sold; or
+&emsp;&emsp;&emsp;(i) the commodity is likely to be in surplus on world markets at the time the resulting commodity will first be sold; or
 
-&emsp;&emsp;(ii) the resulting production capacity is expected to compete with United States production of the same, similar, or competing commodity; and
+&emsp;&emsp;&emsp;(ii) the resulting production capacity is expected to compete with United States production of the same, similar, or competing commodity; and
 
-&emsp;(B) the Bank determines that the extension of such credit or guarantee will cause substantial injury to United States producers of the same, similar, or competing commodity.
+&emsp;&emsp;(B) the Bank determines that the extension of such credit or guarantee will cause substantial injury to United States producers of the same, similar, or competing commodity.
 
-(2)
+> &emsp;In making the determination under subparagraph (B), the Bank shall determine whether the facility that would benefit from the extension of a credit or guarantee is reasonably likely to produce a commodity in addition to, or other than, the commodity specified in the application and whether the production of the additional commodity may cause substantial injury to United States producers of the same, or a similar or competing, commodity.
 
-Outstanding orders and preliminary injury determinations.—
+#### (2) Outstanding orders and preliminary injury determinations
 
-&emsp;(A)
+#### (A) Orders
 
-Orders.—The Bank shall not provide any loan or guarantee to an entity for the resulting production of substantially the same product that is the subject of—
+&emsp;&emsp;The Bank shall not provide any loan or guarantee to an entity for the resulting production of substantially the same product that is the subject of—
 
-&emsp;&emsp;(i) a countervailing duty or antidumping order under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\]; or
+&emsp;&emsp;&emsp;(i) a countervailing duty or antidumping order under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\]; or
 
-&emsp;&emsp;(ii) a determination under title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\].
+&emsp;&emsp;&emsp;(ii) a determination under title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\].
 
-&emsp;(B)
+#### (B) Affirmative determination
 
-Affirmative determination.—Within 60 days after June 14, 2002, the Bank shall establish procedures regarding loans or guarantees provided to any entity that is subject to a preliminary determination of a reasonable indication of material injury to an industry under title VII of the Tariff Act of 1930. The procedures shall help to ensure that these loans and guarantees are likely to not result in a significant increase in imports of substantially the same product covered by the preliminary determination and are likely to not have a significant adverse impact on the domestic industry. The Bank shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the implementation of these procedures.
+&emsp;&emsp;Within 60 days after June 14, 2002, the Bank shall establish procedures regarding loans or guarantees provided to any entity that is subject to a preliminary determination of a reasonable indication of material injury to an industry under title VII of the Tariff Act of 1930. The procedures shall help to ensure that these loans and guarantees are likely to not result in a significant increase in imports of substantially the same product covered by the preliminary determination and are likely to not have a significant adverse impact on the domestic industry. The Bank shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the implementation of these procedures.
 
-&emsp;(C)
+#### (C) Comment period
 
-Comment period.—The Bank shall establish procedures under which the Bank shall notify interested parties and provide a comment period with regard to loans or guarantees reviewed pursuant to subparagraph (B) or (D).
+&emsp;&emsp;The Bank shall establish procedures under which the Bank shall notify interested parties and provide a comment period of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days) with regard to loans or guarantees reviewed pursuant to subparagraph (B) or (D).
 
-&emsp;(D)
+#### (D) Consideration of investigations under title II of the Trade Act of 1974
 
-Consideration of investigations under title ii of the trade act of 1974.—In making any determination under paragraph (1) for a transaction involving more than $10,000,000, the Bank shall consider investigations under title II of the Trade Act of 1974 that have been initiated at the request of the President of the United States, the United States Trade Representative, the Committee on Finance of the Senate, or the Committee on Ways and Means of the House of Representatives, or by the International Trade Commission on its own motion.
+&emsp;&emsp;In making any determination under paragraph (1) for a transaction involving more than $10,000,000, the Bank shall consider investigations under title II of the Trade Act of 1974 that have been initiated at the request of the President of the United States, the United States Trade Representative, the Committee on Finance of the Senate, or the Committee on Ways and Means of the House of Representatives, or by the International Trade Commission on its own motion.
 
-(3)
+#### (E) Anti-circumvention
 
-Exception.—Paragraphs (1) and (2) shall not apply in any case where, in the judgment of the Board of Directors of the Bank, the short- and long-term benefits to industry and employment in the United States are likely to outweigh the short- and long-term injury to United States producers and employment of the same, similar, or competing commodity.
+&emsp;&emsp;The Bank shall not provide a loan or guarantee if the Bank determines that providing the loan or guarantee will facilitate circumvention of an order or determination referred to in subparagraph (A).
 
-(4)
+#### (3) Exception
 
-Definition.—For purposes of paragraph (1)(B), the extension of any credit or guarantee by the Bank will cause substantial injury if the amount of the capacity for production established, or the amount of the increase in such capacity expanded, by such credit or guarantee equals or exceeds 1 percent of United States production.
+&emsp;Paragraphs (1) and (2) shall not apply in any case where, in the judgment of the Board of Directors of the Bank, the short- and long-term benefits to industry and employment in the United States are likely to outweigh the short- and long-term injury to United States producers and employment of the same, similar, or competing commodity.
+
+#### (4) Definition
+
+&emsp;For purposes of paragraph (1)(B), the extension of any credit or guarantee by the Bank will cause substantial injury if the amount of the capacity for production established, or the amount of the increase in such capacity expanded, by such credit or guarantee equals or exceeds 1 percent of United States production.
+
+#### (5) Designation of sensitive commercial sectors and products
+
+&emsp;Not later than 120 days after December 20, 2006, the Bank shall submit a list to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, which designates sensitive commercial sectors and products with respect to which the provision of financing support by the Bank is deemed unlikely by the President of the Bank due to the significant potential for a determination that such financing support would result in an adverse economic impact on the United States. The President of the Bank shall review on an annual basis thereafter the list of sensitive commercial sectors and products and the Bank shall submit an updated list to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of such sectors and products.
+
+#### (6) Financial threshold determinations
+
+&emsp;For purposes of determining whether a proposed transaction exceeds a financial threshold under this subsection or under the procedures or rules of the Bank, the Bank shall aggregate the dollar amount of the proposed transaction and the dollar amounts of all loans and guarantees, approved by the Bank in the preceding 24-month period, that involved the same foreign entity and substantially the same product to be produced.
+
+#### (7) Procedures to reduce adverse effects of loans and guarantees on industries and employment in United States
+
+#### (A) Consideration of economic effects of proposed transactions
+
+&emsp;&emsp;If, in making a determination under this paragraph with respect to a loan or guarantee, the Bank conducts a detailed economic impact analysis or similar study, the analysis or study, as the case may be, shall include consideration of—
+
+&emsp;&emsp;&emsp;(i) the factors set forth in subparagraphs (A) and (B) of paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) the views of the public and interested parties.
+
+#### (B) Notice and comment requirements
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If, in making a determination under this subsection with respect to a loan or guarantee, the Bank intends to conduct a detailed economic impact analysis or similar study, the Bank shall publish in the Federal Register a notice of the intent, and provide a period of not less than 14 days (which, on request by any affected party, shall be extended to a period of not more than 30 days) for the submission to the Bank of comments on the economic effects of the provision of the loan or guarantee, including comments on the factors set forth in subparagraphs (A) and (B) of paragraph (1). In addition, the Bank shall seek comments on the economic effects from the Department of Commerce, the Office of Management and Budget, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
+
+#### (ii) Content of notice
+
+&emsp;&emsp;&emsp;The notice shall include appropriate, nonproprietary information about—
+
+&emsp;&emsp;&emsp;&emsp;(I) the country to which the goods involved in the transaction will be shipped;
+
+&emsp;&emsp;&emsp;&emsp;(II) the type of goods being exported;
+
+&emsp;&emsp;&emsp;&emsp;(III) the amount of the loan or guarantee involved;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the goods that would be produced as a result of the provision of the loan or guarantee;
+
+&emsp;&emsp;&emsp;&emsp;(V) the amount of increased production that will result from the transaction;
+
+&emsp;&emsp;&emsp;&emsp;(VI) the potential sales market for the resulting goods; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) the value of the transaction.
+
+#### (iii) Procedure regarding materially changed applications
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If a material change is made to an application for a loan or guarantee from the Bank after a notice with respect to the intent described in clause (i) is published under this subparagraph, the Bank shall publish in the Federal Register a revised notice of the intent, and shall provide for a comment period, as provided in clauses (i) and (ii).
+
+#### (II) Material change defined
+
+&emsp;&emsp;&emsp;&emsp;As used in subclause (I), the term “material change”, with respect to an application, includes—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a change of at least 25 percent in the amount of a loan or guarantee requested in the application; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a change in the principal product to be produced as a result of any transaction that would be facilitated by the provision of the loan or guarantee.
+
+#### (C) Requirement to address views of adversely affected persons
+
+&emsp;&emsp;Before taking final action on an application for a loan or guarantee to which this section applies, the staff of the Bank shall provide in writing to the Board of Directors the views of any person who submitted comments pursuant to subparagraph (B).
+
+#### (D) Publication of conclusions
+
+&emsp;&emsp;Within 30 days after a party affected by a final decision of the Board of Directors with respect to a loan or guarantee makes a written request therefor, the Bank shall provide to the affected party a non-confidential summary of the facts found and conclusions reached in any detailed economic impact analysis or similar study conducted pursuant to subparagraph (B) with respect to the loan or guarantee, that were submitted to the Board of Directors.
+
+#### (E) Rule of interpretation
+
+&emsp;&emsp;This paragraph shall not be construed to make subchapter II of chapter 5 of title 5 applicable to the Bank.
+
+#### (F) Regulations
+
+&emsp;&emsp;The Bank shall implement such regulations and procedures as may be appropriate to carry out this paragraph.
 
 #### (f) Authority to deny application for assistance based on fraud or corruption by party involved in the transaction
 
 In addition to any other authority of the Bank, the Bank may deny an application for assistance with respect to a transaction if the Bank has substantial credible evidence that any party to the transaction or any party involved in the transaction has committed an act of fraud or corruption in connection with the transaction.
 
-(July 31, 1945, ch. 341, §2, 59 Stat. 526; Dec. 28, 1945, ch. 602, 59 Stat. 666; June 9, 1947, ch. 101, §1, 61 Stat. 130; May 21, 1953, ch. 64, §1, 67 Stat. 28; Pub. L. 87–311, Sept. 26, 1961, 75 Stat. 673; Pub. L. 88–101, §1(a), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a)–(c), Mar. 13, 1968, 82 Stat. 47–49; Pub. L. 92–126, §1(b)(1), (2), (5), (6), Aug. 17, 1971, 85 Stat. 345, 346; Pub. L. 93–646, §§2–6, 13, Jan. 4, 1975, 88 Stat. 2333–2335, 2337; Pub. L. 95–143, §§1–3, Oct. 26, 1977, 91 Stat. 1210; Pub. L. 95–630, title XIX, §§1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, 92 Stat. 3724–3727; Pub. L. 96–470, title II, §210, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 98–181, title VI, §§612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622, Nov. 30, 1983, 97 Stat. 1255, 1257, 1258, 1260, 1261; Pub. L. 99–440, title II, §204, Oct. 2, 1986, 100 Stat. 1096; Pub. L. 99–472, §§2–11, 20(a), Oct. 15, 1986, 100 Stat. 1200–1203, 1209; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title III, §3304, Aug. 23, 1988, 102 Stat. 1384; Pub. L. 100–690, title IV, §4703, Nov. 18, 1988, 102 Stat. 4293; Pub. L. 101–240, title I, §§101(a), (c), (d), 102, Dec. 19, 1989, 103 Stat. 2493–2495; Pub. L. 101–513, title V, §562(part), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 101–623, §16, Nov. 21, 1990, 104 Stat. 3357; Pub. L. 102–145, §121(2), (3), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992,106 Stat. 95; Pub. L. 102–429, title I, §§104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, 106 Stat. 2189, 2190, 2193–2196, 2198; Pub. L. 102–583, §§6(c), 12(a), (c)(1)(A), Nov. 2, 1992, 106 Stat. 4932, 4935; Pub. L. 103–149, §4(b)(5), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title VIII, §825, Apr. 30, 1994, 108 Stat. 514; Pub. L. 103–428, §1(a), (b), Oct. 31, 1994, 108 Stat. 4375; Pub. L. 103–447, title I, §102(a), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–201, div. A, title XIII, §1303(a), Sept. 23, 1996, 110 Stat. 2702; Pub. L. 105–121, §§5, 7(a), 9–12, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–569, title XI, §§1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, 116 Stat. 698, 700, 704–709.)
+#### (g) Process for notifying applicants of application status
+
+The Bank shall establish and adhere to a clearly defined process for—
+
+&emsp;(1) acknowledging receipt of applications;
+
+&emsp;(2) informing applicants that their applications are complete or, if incomplete or containing a minor defect, of the additional material or changes that, if supplied or made, would make the application eligible for consideration; and
+
+&emsp;(3) keeping applicants informed of the status of their applications, including a clear and timely notification of approval or disapproval, and, in the case of disapproval, the reason for disapproval, as appropriate.
+
+#### (h) Response to application for financing; implementation of online loan request and tracking process
+
+#### (1) Response to applications
+
+&emsp;Within 5 days after the Bank receives an application for financing, the Bank shall notify the applicant that the application has been received, and shall include in the notice—
+
+&emsp;&emsp;(A) a request for such additional information as may be necessary to make the application complete;
+
+&emsp;&emsp;(B) the name of a Bank employee who may be contacted with questions relating to the application; and
+
+&emsp;&emsp;(C) a unique identification number which may be used to review the status of the application at a website established by the Bank.
+
+#### (2) Website
+
+&emsp;Not later than September 1, 2007, the Bank shall exercise the authority granted by subparagraphs (E)(x) and (J) of subsection (b)(1) to establish, and thereafter to maintain, a website through which—
+
+&emsp;&emsp;(A) Bank products may be applied for; and
+
+&emsp;&emsp;(B) information may be obtained with respect to—
+
+&emsp;&emsp;&emsp;(i) the status of any such application;
+
+&emsp;&emsp;&emsp;(ii) the Small Business Division of the Bank; and
+
+&emsp;&emsp;&emsp;(iii) incentives, preferences, targets, and goals relating to small business concerns (as defined in section 632(a) of title 15), including small business concerns exporting to Africa.
+
+(July 31, 1945, ch. 341, §2, 59 Stat. 526; Dec. 28, 1945, ch. 602, 59 Stat. 666; June 9, 1947, ch. 101, §1, 61 Stat. 130; May 21, 1953, ch. 64, §1, 67 Stat. 28; Pub. L. 87–311, Sept. 26, 1961, 75 Stat. 673; Pub. L. 88–101, §1(a), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a)–(c), Mar. 13, 1968, 82 Stat. 47–49; Pub. L. 92–126, §1(b)(1), (2), (5), (6), Aug. 17, 1971, 85 Stat. 345, 346; Pub. L. 93–646, §§2–6, 13, Jan. 4, 1975, 88 Stat. 2333–2335, 2337; Pub. L. 95–143, §§1–3, Oct. 26, 1977, 91 Stat. 1210; Pub. L. 95–630, title XIX, §§1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, 92 Stat. 3724–3727; Pub. L. 96–470, title II, §210, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 98–181, title VI, §§612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622, Nov. 30, 1983, 97 Stat. 1255, 1257, 1258, 1260, 1261; Pub. L. 99–440, title II, §204, Oct. 2, 1986, 100 Stat. 1096; Pub. L. 99–472, §§2–11, 20(a), Oct. 15, 1986, 100 Stat. 1200–1203, 1209; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title III, §3304, Aug. 23, 1988, 102 Stat. 1384; Pub. L. 100–690, title IV, §4703, Nov. 18, 1988, 102 Stat. 4293; Pub. L. 101–240, title I, §§101(a), (c), (d), 102, Dec. 19, 1989, 103 Stat. 2493–2495; Pub. L. 101–513, title V, §562(part), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 101–623, §16, Nov. 21, 1990, 104 Stat. 3357; Pub. L. 102–145, §121(2), (3), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; Pub. L. 102–429, title I, §§104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, 106 Stat. 2189, 2190, 2193–2196, 2198; Pub. L. 102–583, §§6(c), 12(a), (c)(1)(A), Nov. 2, 1992, 106 Stat. 4932, 4935; Pub. L. 103–149, §4(b)(5), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title VIII, §825, Apr. 30, 1994, 108 Stat. 514; Pub. L. 103–428, §1(a), (b), Oct. 31, 1994, 108 Stat. 4375; Pub. L. 103–447, title I, §102(a), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–201, div. A, title XIII, §1303(a), Sept. 23, 1996, 110 Stat. 2702; Pub. L. 105–121, §§5, 7(a), 9–12, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–569, title XI, §§1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, 116 Stat. 698, 700, 704–709; Pub. L. 109–438, §§3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, 120 Stat. 3268, 3269, 3272, 3273, 3276, 3277, 3279, 3280.)
 
 #### Amendment of Section
 
@@ -480,9 +604,13 @@ The Export Administration Act of 1979, referred to in subsec. (b)(1)(B), (L), is
 
 Section 2151q of title 22, referred to in subsec. (b)(1)(C), was repealed by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
 
+The African Growth and Opportunity Act, referred to in subsec. (b)(9)(C), is title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, as amended, which is classified principally to chapter 23 (§3701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 19 and Tables.
+
 The Tariff Act of 1930, referred to in subsec. (e)(2)(A)(i), (B), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 The Trade Act of 1974, referred to in subsec. (e)(2)(A)(ii), (D), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title II of the Act is classified generally to subchapter II (§2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+
+December 20, 2006, referred to in subsec. (e)(5), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 109–438, which enacted subsec. (e)(5), to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -490,13 +618,35 @@ Section 1(c) of Pub. L. 90–267 added pars. (2) to (5) of subsec. (b) and anoth
 
 #### Amendments
 
+2006—Subsec. (b)(1)(A). Pub. L. 109–438, §13(b), (c), inserted “, including countries the governments of which are not members of the Arrangement (as defined in section 635i–3(h)(3) of this title)” after “United States exporters” in second sentence and struck out fourth to twelfth sentences which related to compliance reporting requirements.
+
+Subsec. (b)(1)(E)(v). Pub. L. 109–438, §14(b), inserted at end “From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in section 635a(i)(1) of this title.”
+
+Subsec. (b)(1)(E)(vii)(III). Pub. L. 109–438, §6(b)(2), inserted “or other financing institutions or entities” after “consortia”.
+
+Subsec. (b)(9)(B)(iii). Pub. L. 109–438, §3(a), substituted “2011” for “2006”.
+
+Subsec. (b)(9)(C), (D). Pub. L. 109–438, §3(b)(2), (c), added subpars. (C) and (D).
+
+Subsec. (b)(13). Pub. L. 109–438, §11, added par. (13).
+
+Subsec. (e)(1). Pub. L. 109–438, §7(1), inserted concluding provisions.
+
+Subsec. (e)(2)(C). Pub. L. 109–438, §8(b), inserted “of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days)” after “comment period”.
+
+Subsec. (e)(2)(E). Pub. L. 109–438, §7(2), added subpar. (E).
+
+Subsec. (e)(5) to (7). Pub. L. 109–438, §§5, 7(3), 8(a), added pars. (5) to (7).
+
+Subsecs. (g), (h). Pub. L. 109–438, §12, added subsecs. (g) and (h).
+
 2002—Subsec. (a)(1). Pub. L. 107–189, §2, substituted “The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank's objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers.” for “The objects and purposes of the bank shall be to aid in financing and to facilitate exports and imports and the exchange of commodities and services between the United States or any of its Territories or insular possessions and any foreign country or the agencies or nationals thereof.”
 
 Subsec. (b)(1)(A). Pub. L. 107–189, §§11, 13(b), substituted “not later than June 30 of each year” for “on an annual basis” in fourth sentence, inserted “(including through use of market windows)” after “which foreign exporters compete with the United States exporters” in fifth sentence, inserted “With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each government and government-related agency.” after fifth sentence, and inserted at end “The Bank shall include in the annual report a description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support. The Bank shall include in the annual report a description of the efforts undertaken under subparagraph (K).”
 
 Subsec. (b)(1)(B). Pub. L. 107–189, §§15, 17, 21, 24(a)(1), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking and Financial Services of the House of Representatives” and inserted “(including, when relevant, a foreign nation's lack of cooperation in efforts to eradicate terrorism)” after “international terrorism”, “the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act, the International Emergency Economic Powers Act, or the Export Administration Act of 1979,” after “nuclear proliferation,” and “(such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948)” after “human rights”.
 
-Subsec. (b)(1)(E)(iii)(II). Pub. L. 107–189, §7(b), inserted “, with particular emphasis on conducting outreach and increasing loans to socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees,” after “Bank”.
+Subsec. (b)(1)(E)(iii)(II). Pub. L. 107–189, §7(b), inserted “, with particular emphasis on conducting outreach and increasing loans to socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned bywomen, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees,” after “Bank”.
 
 Subsec. (b)(1)(E)(v). Pub. L. 107–189, §7(a), substituted “20 percent” for “10 percent”.
 
@@ -706,7 +856,7 @@ Subsec. (f). Pub. L. 102–429, §121(a)(4), struck out subsec. (f) which relate
 
 1990—Subsec. (b)(6)(B)(vi). Pub. L. 101–513 and Pub. L. 101–623 amended cl. (vi) identically, substituting “1992” for “1990”.
 
-1989—Subsec. (a)(1). Pub. L. 101–240, §101(c), substituted “Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for traveland subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
+1989—Subsec. (a)(1). Pub. L. 101–240, §101(c), substituted “Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
 
 Subsec. (b)(6)(G). Pub. L. 101–240, §101(d), substituted “subparagraphs (B), (C), (D), and (F)” for “this paragraph”.
 
@@ -770,7 +920,7 @@ Subsec. (a)(2). Pub. L. 98–181, §622, added par. (2).
 
 Subsec. (b)(1)(A). Pub. L. 98–181, §§612(a), 616(a)(2), in second sentence inserted “in all its programs” after “To meet this objective”, inserted “fully” after “other conditions which are”, and substituted “exports of goods and services” for “exports”.
 
-Subsec. (b)(1)(B). Pub. L. 98–181, §§612(b), (c), 618(a)(1), substituted provisions that loans under this section shall bear interest at rates consistent with the Bank's mandate to support exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements, and that such rates, terms and conditions need not be equivalent to those offered by foreign countries, but should be established so as to neutralize the effect of such foreign credit on international sales competition, and that the Board shall consider its average cost of money in determination of interest rates, where such consideration does not impair the Bank's function of expanding exports through fully competitive financing for provisions that loans made by the Bank had to be at interest at rates determined by the Board of Directors of the Bank, taking into consideration the average cost of money to the Bank as well as the Bank's mandate to support United States exports at rates and on terms and conditions which were competitive with exports of other countries; inserted “export trading companies,” after “independent export firms,”; and struck out provision which required the Bank to give due recognition to the policy stated in section 631(a) of Title 15 that the government should aid, counsel, assist, and protect the interests of small business in order to preserve free competitive enterprise, and that in furtherance of this policy the Board of Directors had to designate an officer of the Bank to handle small business concerns, including advising small businessmen and maintaining liaison with the Small Business Administration and other departments and agencies in matters affecting small business concerns.
+Subsec. (b)(1)(B). Pub. L. 98–181, §§612(b), (c), 618(a)(1), substituted provisions that loans under this section shall bear interest at rates consistent with the Bank's mandate to support exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements, and that such rates, terms and conditions need not be equivalent to those offered by foreign countries, but should be established so as to neutralize the effect of such foreign credit on international sales competition, and that the Board shall consider its average cost of money in determination of interest rates, where such consideration does not impair the Bank's function of expanding exports through fully competitive financing for provisions that loans made by the Bank had to be at interest at rates determined by the Board of Directors of the Bank, taking into consideration the average cost of money to the Bank as well as the Bank'smandate to support United States exports at rates and on terms and conditions which were competitive with exports of other countries; inserted “export trading companies,” after “independent export firms,”; and struck out provision which required the Bank to give due recognition to the policy stated in section 631(a) of Title 15 that the government should aid, counsel, assist, and protect the interests of small business in order to preserve free competitive enterprise, and that in furtherance of this policy the Board of Directors had to designate an officer of the Bank to handle small business concerns, including advising small businessmen and maintaining liaison with the Small Business Administration and other departments and agencies in matters affecting small business concerns.
 
 Subsec. (b)(1)(D). Pub. L. 98–181, §616(a)(3), added subpar. (D).
 
@@ -824,9 +974,9 @@ Subsec. (c)(1). Pub. L. 93–646, §6, removed the $10 billion limit on the Bank
 
 1971—Subsec. (a). Pub. L. 92–126, §1(b)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 92–126, §1(b)(6), inserted provisions declaring the policy of the United States to be to foster expansion of goods and related services, contributing to the proposition and maintenance of high levels of employment and real income and to the increased development of the productive resources of the United States and laid down directives to achieve this objective.
+Subsec. (b)(1). Pub. L. 92–126, §1(b)(6), inserted provisions declaring the policy of the United States to be tofoster expansion of goods and related services, contributing to the proposition and maintenance of high levels of employment and real income and to the increased development of the productive resources of the United States and laid down directives to achieve this objective.
 
-Subsec. (b)(3). Pub. L. 92–126, §1(b)(5), substituted provisions prohibiting the Bank from extending assistance in export sales to any nation which engages in armed conflict with the United States or to any other nation when the export is to be used principally by or in any nation which engages in armed conflict with the United States and further prohibiting such assistance to any export sales which the President determines would be contrary to the national interest for provisions placinglimitations on the Bank's activity in connection with any nation which supplies goods or assistance to a country with whom the United States is engaged in armed conflict.
+Subsec. (b)(3). Pub. L. 92–126, §1(b)(5), substituted provisions prohibiting the Bank from extending assistance in export sales to any nation which engages in armed conflict with the United States or to any other nation when the export is to be used principally by or in any nation which engages in armed conflict with the United States and further prohibiting such assistance to any export sales which the President determines would be contrary to the national interest for provisions placing limitations on the Bank's activity in connection with any nation which supplies goods or assistance to a country with whom the United States is engaged in armed conflict.
 
 Subsec. (c)(1). Pub. L. 92–126, §1(b)(2), increased the amount of insurance outstanding at any one time from “$3,500,000,000” to “$10,000,000,000”.
 
@@ -850,7 +1000,7 @@ Subsec. (c)(1). Pub. L. 90–267, §1(a), (c), increased amount of insurance out
 
 #### Effective and Termination Dates of 1994 Amendments
 
-Pub. L. 103–428, §1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, §4, Nov. 26, 1997, 111 Stat. 2529, provided that: “The amendments made by this section \[amending this section\] shall remain in effect during the period beginning on the date of enactment of this Act \[Oct. 31, 1994\] and ending on September 30, 2001.”
+Pub. L. 103–428, §1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, §4, Nov. 26, 1997, 111 Stat. 2529; Pub. L. 109–438, §4, Dec. 20, 2006, 120 Stat. 3269, provided that: “The amendments made by this section \[amending this section\] shall remain in effect during the period beginning on the date of enactment of this Act \[Oct. 31, 1994\] and ending on September 30, 2011.”
 
 \[Pub. L. 109–102, title I, Nov. 14, 2005, 119 Stat. 2172, provided in part: “That notwithstanding section 1(c) of Public Law 103–428 \[set out above\], as amended, sections 1(a) and (b) of Public Law 103–428 \[amending this section\] shall remain in effect through October 1, 2006.”\]
 
@@ -872,6 +1022,10 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 Section 1917 of title XIX of Pub. L. 95–630 provided that: “This title \[enacting sections 635a–1 to 635a–3 of this title and section 2153e–1 of Title 42, The Public Health and Welfare, and amending this section and sections 635e to 635g of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–438, §1(a), Dec. 20, 2006, 120 Stat. 3268, provided that: “This Act \[enacting section 635g–1 of this title, amending this section and sections 635a, 635e, 635f, 635g, 635i–3, and 635i–5 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 2006’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–189, §1(a), June 14, 2002, 116 Stat. 698, provided that: “This Act \[enacting section 635i–9 of this title, amending this section, sections 635a, 635e to 635g, 635i–3, 635i–6, and 635i–8 of this title, section 5315 of Title 5, Government Organization and Employees, sections 9 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 635a, 635g, and 635i–9 of this title, and section 5315 of Title 5, and amending provisions set out as a note under this section\] may be cited as the ‘Export-Import Bank Reauthorization Act of 2002’.”
@@ -886,7 +1040,7 @@ Section 1(a) of Pub. L. 102–429 provided that: “This Act \[enacting sections
 
 #### Short Title of 1988 Amendment
 
-Section 3301 of Pub. L. 100–418 provided that: “This subtitle \[subtitle D (§§3301–3304) of title III of Pub. L.100–418, amending this section and section 635i–3 of this title and enacting provisions set out as a note under section 635i–3 of this title\] may be cited as the ‘Export-Import Bank and Tied Aid Credit Amendments of 1988’.”
+Section 3301 of Pub. L. 100–418 provided that: “This subtitle \[subtitle D (§§3301–3304) of title III of Pub. L. 100–418, amending this section and section 635i–3 of this title and enacting provisions set out as a note under section 635i–3 of this title\] may be cited as the ‘Export-Import Bank and Tied Aid Credit Amendments of 1988’.”
 
 #### Short Title of 1986 Amendment
 
@@ -941,6 +1095,34 @@ Sanctions contained in subsec. (b)(4) waived in certain regards with respect to 
 Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
 
 Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297.
+
+#### Master Guarantee Agreements With African Regional Financial Institutions
+
+Pub. L. 109–438, §3(b)(1), Dec. 20, 2006, 120 Stat. 3268, provided that: “Within 1 year after the date of the enactment of this Act \[Dec. 20, 2006\], the Export-Import Bank of the United States shall seek to ensure that there is in effect a contract between each approved lender in Africa and the Bank, which sets forth the Bank's guarantee undertakings and related obligations between the Bank and each lender.”
+
+#### Enhance Delegated Loan Authority for Medium Term Transactions
+
+Pub. L. 109–438, §6(b)(1), Dec. 20, 2006, 120 Stat. 3272, provided that: “The Export-Import Bank of the United States shall seek to expand the exercise of authority under section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(E)(vii)) with respect to medium term transactions for small business concerns.”
+
+#### Deadline for Enhancing Delegated Loan Authority for Medium Term Transactions
+
+Pub. L. 109–438, §6(b)(3), Dec. 20, 2006, 120 Stat. 3272, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2006\], the Export-Import Bank of the United States shall make available lines of credit and guarantees to carry out section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635(b)(1)(E)(vii)\] pursuant to policies and procedures established by the Board of Directors of the Export-Import Bank of the United States.”
+
+#### GAO Study of Bank Performance Standards for Assistance to Small Businesses, Especially Those Owned by Socially and Economically Disadvantaged Individuals and Those Owned by Women
+
+Pub. L. 109–438, §19, Dec. 20, 2006, 120 Stat. 3282, provided that:
+
+“(a)
+
+Performance Standards.—The Bank shall develop a set of performance standards for determining the extent to which the Bank has carried out successfully subparagraphs (E) and (I) of section 2(b)(1) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635(b)(1)(E), (I)\], and the functions described in subsections (f)(1), (g)(1), (h)(1), and (i)(1) of section 3 of such Act \[12 U.S.C. 635a(f)(1), (g)(1), (h)(1), (i)(1)\].
+
+“(b)
+
+Assessment of Standards.—Within 18 months after the date of the enactment of this Act \[Dec. 20, 2006\], the Comptroller General of the United States shall transmit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
+
+&emsp;“(1) an assessment of the performance standards developed by the Bank pursuant to subsection (a); and
+
+&emsp;“(2) using the performance standards developed pursuant to subsection (a), an assessment of the Bank's efforts to carry out subparagraphs (E) and (I) of section 2(b)(1) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635(b)(1)(E), (I)\], and the functions described in subsections (f)(1), (g)(1), (h)(1), and (i)(1) of section 3 of such Act \[12 U.S.C. 635a(f)(1), (g)(1), (h)(1), (i)(1)\].”
 
 #### GAO Report on Comparative Reserve Practices of Export Credit Agencies and Private Banks
 

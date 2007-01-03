@@ -18,7 +18,7 @@ Each State making grants under this section shall require as a condition of a gr
 
 &emsp;(3) grants and loans are not used for program administration; and
 
-&emsp;(4) grants and loans are used only in counties which have in effect land use ordinancesfound consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title.
+&emsp;(4) grants and loans are used only in counties which have in effect land use ordinances found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title.
 
 #### (d) Report
 

@@ -4,7 +4,7 @@ In sections 116 through 126 of this title:
 
 &emsp;(1)
 
-Charges for mobile telecommunications services.—The term “charges for mobile telecommunications services” means any charge for, or associated with, the provision of commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999, or anycharge for, or associated with, a service provided as an adjunct to a commercial mobile radio service, that is billed to the customer by or for the customer's home service provider regardless of whether individual transmissions originate or terminate within the licensed service area of the home service provider.
+Charges for mobile telecommunications services.—The term “charges for mobile telecommunications services” means any charge for, or associated with, the provision of commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999, or any charge for, or associated with, a service provided as an adjunct to a commercial mobile radio service, that is billed to the customer by or for the customer's home service provider regardless of whether individual transmissions originate or terminate within the licensed service area of the home service provider.
 
 &emsp;(2)
 

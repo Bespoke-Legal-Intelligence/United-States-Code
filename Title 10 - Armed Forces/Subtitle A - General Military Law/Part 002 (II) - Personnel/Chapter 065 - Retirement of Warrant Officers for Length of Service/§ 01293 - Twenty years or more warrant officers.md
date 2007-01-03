@@ -74,7 +74,7 @@ Years of Service.—(1) During the active force drawdown period, the Secretary o
 
 &emsp;“(A) apply the provisions of section 3911 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting ‘at least 15 years’ for ‘at least 20 years’ in subsection (a) of that section;
 
-&emsp;“(B) apply the provisions of section 3914 of such title to an enlisted member with at least 15 but lessthan 20 years of service by substituting ‘at least 15’ for ‘at least 20’; and
+&emsp;“(B) apply the provisions of section 3914 of such title to an enlisted member with at least 15 but less than 20 years of service by substituting ‘at least 15’ for ‘at least 20’; and
 
 &emsp;“(C) apply the provisions of section 1293 of such title to a warrant officer with at least 15 but less than 20 years of service by substituting ‘at least 15 years’ for ‘at least 20 years’.
 

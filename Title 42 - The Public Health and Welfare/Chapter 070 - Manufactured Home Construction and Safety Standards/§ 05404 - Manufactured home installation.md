@@ -2,7 +2,7 @@
 
 #### (a) Provision of installation design and instructions
 
-A manufacturer shall provide with each manufactured home, design and instructions for theinstallation of the manufactured home that have been approved by a design approval primary inspection agency. After establishment of model standards under subsection (b)(2) of this section, a design approval primary inspection agency may not give such approval unless a design and instruction provides equal or greater protection than the protection provided under such model standards.
+A manufacturer shall provide with each manufactured home, design and instructions for the installation of the manufactured home that have been approved by a design approval primary inspection agency. After establishment of model standards under subsection (b)(2) of this section, a design approval primary inspection agency may not give such approval unless a design and instruction provides equal or greater protection than the protection provided under such model standards.
 
 #### (b) Model manufactured home installation standards
 

@@ -9,17 +9,8 @@
 | [2105\.](%C2%A7%2002105%20-%20Permissive%20terms%20and%20conditions%20in%20orders.md) | Permissive terms and conditions in orders. |
 | [2106\.](%C2%A7%2002106%20-%20Required%20terms%20and%20conditions%20in%20orders.md) | Required terms and conditions in orders. |
 | [2107\.](%C2%A7%2002107%20-%20Referenda.md) | Referenda. |
-| (a) | Referendum and cotton producer approval of orders. |
-| (b) | Referendum on proposed amendment to order implementing provisions of 1990 amendments to this chapter. |
-| (c) | Future referendums every five years or by request of cotton producers and importers. |
 | [2108\.](%C2%A7%2002108%20-%20Suspension%20and%20termination%20of%20orders.md) | Suspension and termination of orders. |
-| (a) | Discretionary suspension or termination by Secretary. |
-| (b) | Suspension or termination resulting from referendum with cotton producers and importers. |
-| (c) | Suspension or termination of any order not deemed order within meaning of this chapter. |
 | [2109\.](%C2%A7%2002109%20-%20Provisions%20applicable%20to%20amendments.md) | Provisions applicable to amendments. |
-| (a) | Provisions applicable to amendments to orders. |
-| (b) | Approval of amendments by cotton producers and importers. |
-| (c) | Disapproval of any amendment to order not deemed to invalidate such order. |
 | [2110\.](%C2%A7%2002110%20-%20Refund%20of%20producer%20assessments.md) | Refund of producer assessments. |
 | [2111\.](%C2%A7%2002111%20-%20Administrative%20review%20of%20orders%3B%20petition%3B%20hearing%3B%20judicial%20review.md) | Administrative review of orders; petition; hearing; judicial review. |
 | [2112\.](%C2%A7%2002112%20-%20Enforcement%20of%20orders%3B%20penalty%20for%20willful%20violation.md) | Enforcement of orders; penalty for willful violation. |

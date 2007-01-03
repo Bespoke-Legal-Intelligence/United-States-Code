@@ -10,7 +10,17 @@ Funds appropriated under this section shall remain available until expended and 
 
 #### (c) Set aside
 
-Of the amounts made available under this subsection in each fiscal year, not less than 10 percent shall be used for grants for tribal courts, tribal court-related programs, and tribal nonprofits.
+#### (1) In general
 
-(Pub. L. 103–322, title IV, §41006, as added Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2981.)
+&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+
+#### (2) Applicability of part <sup>1</sup>
+
+&emsp;The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).
+
+(Pub. L. 103–322, title IV, §41006, as added Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2981; amended Pub. L. 109–271, §7(c)(2), Aug. 12, 2006, 120 Stat. 765.)
+
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–271 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Of the amounts made available under this subsection in each fiscal year, not less than 10 percent shall be used for grants for tribal courts, tribal court-related programs, and tribal nonprofits.”
 

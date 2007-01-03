@@ -6,7 +6,7 @@
 
 Deadline for payment of assistance.—Rules and regulations authorized by paragraph (1) shall provide that payment of any assistance under this chapter to a State shall be completed within 60 days after the date of approval of such assistance.
 
-(b) In furtherance of the purposes of this chapter, the President or his delegate may accept and use bequests, gifts, or donations of service, money, or property, real, personal, or mixed, tangible, or intangible. All sums received under this subsection shall be deposited in a separate fund on the books of the Treasury and shall be available for expenditure upon the certification of the President or his delegate. At the request of the President or his delegate, the Secretary ofthe Treasury may invest and reinvest excess monies in the fund. Such investments shall be in public debt securities with maturities suitable for the needs of the fund and shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The interest on such investments shall be credited to, and form a part of, the fund.
+(b) In furtherance of the purposes of this chapter, the President or his delegate may accept and use bequests, gifts, or donations of service, money, or property, real, personal, or mixed, tangible, or intangible. All sums received under this subsection shall be deposited in a separate fund on the books of the Treasury and shall be available for expenditure upon the certification of the President or his delegate. At the request of the President or his delegate, the Secretary of the Treasury may invest and reinvest excess monies in the fund. Such investments shall be in public debt securities with maturities suitablefor the needs of the fund and shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The interest on such investments shall be credited to, and form a part of, the fund.
 
 (Pub. L. 93–288, title VII, §701, formerly title VI, §601, May 22, 1974, 88 Stat. 163; Pub. L. 96–446, Oct. 13, 1980, 94 Stat. 1893; Pub. L. 100–707, title I, §108(a), Nov. 23, 1988, 102 Stat. 4707; renumbered title VII, §701, Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100.)
 
@@ -22,7 +22,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Deadline for Issuance of Regulations
 
-Section 113 of title I of Pub. L. 100–707 provided that: “Regulations necessary to carry out this title and the amendments made by this title \[see Short Title of 1988 Amendment note set out under section 5121 of this title\] shall be issued no later than the 180th day following the date of the enactment of this Act \[Nov. 23, 1988\].”
+Pub. L. 100–707, title I, §113, Nov. 23, 1988, 102 Stat. 4711, provided that: “Regulations necessary to carry out this title and the amendments made by this title \[see Short Title of 1988 Amendment note set out under section 5121 of this title\] shall be issued no later than the 180th day following the date of the enactment of this Act \[Nov. 23, 1988\].”
 
 \[Functions of President under section 113 of Pub. L. 100–707 delegated to Director of Federal Emergency Management Agency by section 5 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
 

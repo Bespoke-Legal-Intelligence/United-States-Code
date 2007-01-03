@@ -46,7 +46,7 @@ The Chairperson of the Council shall be elected from and by the Council membersh
 
 #### (e) Term of office
 
-The term of office of each of the voting members of the Council shall be 5 years, except thatof the 5 members first appointed by the President, 2 shall be appointed for a term of 2 years, 2 for terms of 3 years, and one for a term of 4 years, as designated by the President at the time of appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor of such member was appointed shall be appointed for the remainder of such term. No voting member shall be eligible to serve continuously for more than 2 consecutive terms.
+The term of office of each of the voting members of the Council shall be 5 years, except that of the 5 members first appointed by the President, 2 shall be appointed for a term of 2 years, 2 for terms of 3 years, and one for a term of 4 years, as designated by the President at the time of appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor of such member was appointed shall be appointed for the remainder of such term. No voting member shall be eligible to serve continuously for more than 2 consecutive terms.
 
 #### (f) Initial appointment
 
@@ -110,7 +110,7 @@ Sec. 4. <i>Meetings</i>. The Council shall meet on a regular basis at the call o
 
 Sec. 5. <i>Administration</i>. (a) The heads of executive departments, agencies, and independent instrumentalities shall, to the extent permitted by law, provide the Council, upon request, with such information as it may require for the purposes of carrying out its functions.
 
-(b) Members of the Council shall serve without compensation for their work on the Council. While engaged in the work of the Council, members appointed from among private citizens of the United States may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons servingintermittently in the Government service (5 U.S.C. 5701–5707). Appointed members of the Council may not be employed by the Federal Government.
+(b) Members of the Council shall serve without compensation for their work on the Council. While engaged in the work of the Council, members appointed from among private citizens of the United States may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Appointed members of the Council may not be employed by the Federal Government.
 
 (c) To the extent provided by law and subject to the availability of appropriations, the Department of Agriculture shall provide the Council with such administrative services, funds, facilities, staff, and other support services as may be necessary for the performance of its functions.
 

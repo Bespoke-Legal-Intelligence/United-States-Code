@@ -1,6 +1,0 @@
-### §735. Omitted
-
-#### Codification
-
-Section, Pub. L. 87–624, title III, §305, Aug. 31, 1962, 76 Stat. 425, which related to powers of the corporation, ceased to be effective July 18, 2001, pursuant to section 765d(2) of this title.
-

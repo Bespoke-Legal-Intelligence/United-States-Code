@@ -26,7 +26,7 @@ Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint C
 
 &emsp;(ii) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to clause (i)) for consideration by the Secretary for assignment to that position.
 
-(D) Whenever the Secretaries of the military departments are required to submit the names of officers under subparagraph (C)(i), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of each officer whose name is submitted under that subparagraph (and of any officer whose name the Chairman submitsto the Secretary under subparagraph (C)(ii) for consideration for the same vacancy).
+(D) Whenever the Secretaries of the military departments are required to submit the names of officers under subparagraph (C)(i), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of each officer whose name is submitted under that subparagraph (and of any officer whose name the Chairman submits to the Secretary under subparagraph (C)(ii) for consideration for the same vacancy).
 
 (E) Subparagraph (B) does not apply in the case of an officer serving in a position designated under subparagraph (A) if the Secretary of Defense, when considering officers for assignment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that assignment from each Secretary of a military department who (pursuant to subparagraph (C)) was required to make such a recommendation.
 
@@ -42,7 +42,11 @@ Exclusion of Certain Reserve Officers.—The limitations of this section do not 
 
 Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—The limitations of this section do not apply to a general or flag officer who is covered by an exclusion under section 525(e) of this title.
 
-(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233.)
+(f)
+
+Exclusion of Attending Physician to the Congress.—The limitations of this section do not apply to the general or flag officer who is serving as Attending Physician to the Congress.
+
+(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub.L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, §507(c), Oct. 17, 2006, 120 Stat. 2180.)
 
 #### Historical and Revision Notes
 
@@ -63,6 +67,8 @@ Subsec. (b)(2)(C)(i). Pub. L. 109–163, §515(b)(1)(C), substituted “Navy Res
 Subsec. (d). Pub. L. 109–163, §503(b)(2), substituted “Certain Reserve Officers” for “Certain Officers” in heading.
 
 Subsec. (e). Pub. L. 109–163, §503(b)(1), added subsec. (e).
+
+Subsec. (f). Pub. L. 109–364 added subsec. (f).
 
 2003—Subsec. (b)(3). Pub. L. 108–136 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
 

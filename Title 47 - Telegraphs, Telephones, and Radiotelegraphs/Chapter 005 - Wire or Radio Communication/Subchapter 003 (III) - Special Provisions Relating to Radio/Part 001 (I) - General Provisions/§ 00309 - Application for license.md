@@ -24,7 +24,7 @@ Except as provided in subsection (c) of this section, no such application—
 
 &emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or common carrier services, as the Commission shall by rule prescribe,
 
-> shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof.
+> shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filingof such application or of any substantial amendment thereof.
 
 #### (c) Applications not affected by subsection (b)
 
@@ -58,11 +58,11 @@ Subsection (b) of this section shall not apply—
 
 #### (e) Hearings; intervention; evidence; burden of proof
 
-If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining andshall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
+If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining and shall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
-When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
+When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for aperiod not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
 
 #### (g) Classification of applications
 
@@ -96,7 +96,7 @@ General authority.—Except as provided in paragraph (5), if there is more than 
 
 &emsp;(ii) The term “minority group” includes Blacks, Hispanics, American Indians, Alaska Natives, Asians, and Pacific Islanders.
 
-(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use bythe Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
+(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use by the Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
 
 (B) The Commission shall have authority to amend such rules from time to time to the extent necessary to carry out the provisions of this subsection. Any such amendment shall be made after notice and opportunity for hearing.
 
@@ -116,7 +116,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (2) Exemptions
 
-&emsp;The competitive bidding authority granted by this subsection shall not apply to licenses or construction permits issued by the Commission—
+&emsp;The competitive bidding authority granted by this subsection shall not apply to licensesor construction permits issued by the Commission—
 
 &emsp;&emsp;(A) for public safety radio services, including private internal radio services used by State and local governments and non-government entities and including emergency road services provided by not-for-profit organizations, that—
 
@@ -154,7 +154,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;(A) consider alternative payment schedules and methods of calculation, including lump sums or guaranteed installment payments, with or without royalty payments, or other schedules or methods that promote the objectives described in paragraph (3)(B), and combinations of such schedules and methods;
 
-&emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penaltiesfor performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
+&emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penalties for performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
 
 &emsp;&emsp;(C) consistent with the public interest, convenience, and necessity, the purposes of this chapter, and the characteristics of the proposed service, prescribe area designations and bandwidth assignments that promote (i) an equitable distribution of licenses and services among geographic areas, (ii) economic opportunity for a wide variety of applicants, including small businesses, rural telephone companies, and businesses owned by members of minority groups and women, and (iii) investment in and rapid deployment of new technologies and services;
 
@@ -206,7 +206,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B) or subparagraph (D), all proceeds from the use of a competitive bidding system under this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
+&emsp;&emsp;Except as provided in subparagraphs (B), (D), and (E), all proceeds from the use of a competitive bidding system under this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
 
 #### (B) Retention of revenues
 
@@ -216,7 +216,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;Any deposits the Commission may require for the qualification of any person to bid in a system of competitive bidding pursuant to this subsection shall be deposited in an interest bearing account at a financial institution designated for purposes of this subsection by the Commission (after consultation with the Secretary of the Treasury). Within 45 days following the conclusion of the competitive bidding—
 
-&emsp;&emsp;&emsp;(i) the deposits of successful bidders shall be paid to the Treasury;
+&emsp;&emsp;&emsp;(i) the deposits of successful bidders shall be paid to the Treasury, except as otherwise provided in subparagraph (E)(ii);
 
 &emsp;&emsp;&emsp;(ii) the deposits of unsuccessful bidders shall be returned to such bidders; and
 
@@ -225,6 +225,24 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 #### (D) Disposition of cash proceeds
 
 &emsp;&emsp;Cash proceeds attributable to the auction of any eligible frequencies described in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)) shall be deposited in the Spectrum Relocation Fund established under section 118 of such Act \[47 U.S.C. 928\], and shall be available in accordance with that section.
+
+#### (E) Transfer of receipts
+
+#### (i) Establishment of Fund
+
+&emsp;&emsp;&emsp;There is established in the Treasury of the United States a fund to be known as the Digital Television Transition and Public Safety Fund.
+
+#### (ii) Proceeds for funds
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), the proceeds (including deposits and upfront payments from successful bidders) from the use of a competitive bidding system under this subsection with respect to recovered analog spectrum shall be deposited in the Digital Television Transition and Public Safety Fund.
+
+#### (iii) Transfer of amount to Treasury
+
+&emsp;&emsp;&emsp;On September 30, 2009, the Secretary shall transfer $7,363,000,000 from the Digital Television Transition and Public Safety Fund to the general fund of the Treasury.
+
+#### (iv) Recovered analog spectrum
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “recovered analog spectrum” has the meaning provided in paragraph (15)(C)(vi).
 
 #### (9) Use of former Government spectrum
 
@@ -266,7 +284,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (11) Termination
 
-&emsp;The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2007.
+&emsp;The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2011.
 
 #### (12) Evaluation
 
@@ -360,39 +378,21 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (A) Limitations on terms of terrestrial television broadcast licenses
 
-&emsp;&emsp;A television broadcast license that authorizes analog television service may not be renewed to authorize such service for a period that extends beyond December 31, 2006.
+&emsp;&emsp;A full-power television broadcast license that authorizes analog television service may not be renewed to authorize such service for a period that extends beyond February 17, 2009.
 
-#### (B) Extension
-
-&emsp;&emsp;The Commission shall extend the date described in subparagraph (A) for any station that requests such extension in any television market if the Commission finds that—
-
-&emsp;&emsp;&emsp;(i) one or more of the stations in such market that are licensed to or affiliated with one of the four largest national television networks are not broadcasting a digital television service signal, and the Commission finds that each such station has exercised due diligence and satisfies the conditions for an extension of the Commission's applicable construction deadlines for digital television service in that market;
-
-&emsp;&emsp;&emsp;(ii) digital-to-analog converter technology is not generally available in such market; or
-
-&emsp;&emsp;&emsp;(iii) in any market in which an extension is not available under clause (i) or (ii), 15 percent or more of the television households in such market—
-
-&emsp;&emsp;&emsp;&emsp;(I) do not subscribe to a multichannel video programming distributor (as defined in section 522 of this title) that carries one of the digital television service programming channels of each of the television stations broadcasting such a channel in such market; and
-
-&emsp;&emsp;&emsp;&emsp;(II) do not have either—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(a) at least one television receiver capable of receiving the digital television service signals of the television stations licensed in such market; or
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(b) at least one television receiver of analog television service signals equipped with digital-to-analog converter technology capable of receiving the digital television service signals of the television stations licensed in such market.
-
-#### (C) Spectrum reversion and resale
+#### (B) Spectrum reversion and resale
 
 &emsp;&emsp;(i) The Commission shall—
 
-&emsp;&emsp;&emsp;(I) ensure that, as licenses for analog television service expire pursuant to subparagraph (A) or (B), each licensee shall cease using electromagnetic spectrum assigned to such service according to the Commission's direction; and
+&emsp;&emsp;&emsp;(I) ensure that, as licenses for analog television service expire pursuant to subparagraph (A), each licensee shall cease using electromagnetic spectrum assigned to such service according to the Commission's direction; and
 
 &emsp;&emsp;&emsp;(II) reclaim and organize the electromagnetic spectrum in a manner consistent with the objectives described in paragraph (3) of this subsection.
 
 &emsp;&emsp;(ii) Licensees for new services occupying spectrum reclaimed pursuant to clause (i) shall be assigned in accordance with this subsection.
 
-#### (D) Certain limitations on qualified bidders prohibited
+#### (C) Certain limitations on qualified bidders prohibited
 
-&emsp;&emsp;In prescribing any regulations relating to the qualification of bidders for spectrum reclaimed pursuant to subparagraph (C)(i), the Commission, for any license that may be used for any digital television service where the grade A contour of the station is projected to encompass the entirety of a city with a population in excess of 400,000 (as determined using the 1990 decennial census), shall not—
+&emsp;&emsp;In prescribing any regulations relating to the qualification of bidders for spectrum reclaimed pursuant to subparagraph (B)(i), the Commission, for any license that may be used for any digital television service where the grade A contour of the station is projected to encompass the entirety of a city with a population in excess of 400,000 (as determined using the 1990 decennial census), shall not—
 
 &emsp;&emsp;&emsp;(i) preclude any party from being a qualified bidder for such spectrum on the basis of—
 
@@ -402,7 +402,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;&emsp;(ii) apply either such rule to preclude such a party that is a winning bidder in a competitive bidding for such spectrum from using such spectrum for digital television service.
 
-#### (15) <sup>1</sup> Commission to determine timing of auctions
+#### (15) Commission to determine timing of auctions
 
 #### (A) Commission authority
 
@@ -438,11 +438,23 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;&emsp;&emsp;(II) describing the progress made by the Commission in the digital television transition and in the assignment and allocation of additional spectrum for advanced mobile communications services that warrants the scheduling of such auctions.
 
+#### (v) Additional deadlines for recovered analog spectrum
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (B), the Commission shall conduct the auction of the licenses for recovered analog spectrum by commencing the bidding not later than January 28, 2008, and shall deposit the proceeds of such auction in accordance with paragraph (8)(E)(ii) not later than June 30, 2008.
+
+#### (vi) Recovered analog spectrum
+
+&emsp;&emsp;&emsp;For purposes of clause (v), the term “recovered analog spectrum” means the spectrum between channels 52 and 69, inclusive (between frequencies 698 and 806 megahertz, inclusive) reclaimed from analog television service broadcasting under paragraph (14), other than—
+
+&emsp;&emsp;&emsp;&emsp;(I) the spectrum required by section 337 of this title to be made available for public safety services; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the spectrum auctioned prior to February 8, 2006.
+
 #### (D) Return of payments
 
 &emsp;&emsp;Within one month after June 19, 2002, the Commission shall return to the bidders for licenses in the A-block, B-block, and E-block of auction 44 the full amount of all upfront payments made by such bidders for such licenses.
 
-#### (15) <sup>1</sup> Special auction provisions for eligible frequencies
+#### (16) Special auction provisions for eligible frequencies
 
 #### (A) Special regulations
 
@@ -494,13 +506,39 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22.)
 
 #### References in Text
 
 The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, as amended. Part B of the Act is classified generally to subchapter II (§921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (j)(8)(A). Pub. L. 109–171, §3004(1), substituted “subparagraphs (B), (D), and (E)” for “subparagraph (B) or subparagraph (D)”.
+
+Subsec. (j)(8)(C)(i). Pub. L. 109–171, §3004(2), inserted “, except as otherwise provided in subparagraph (E)(ii)” before semicolon at end.
+
+Subsec. (j)(8)(E). Pub. L. 109–171, §3004(3), added subpar. (E).
+
+Subsec. (j)(11). Pub. L. 109–171, §3003(b), substituted “2011” for “2007”.
+
+Subsec. (j)(14)(A). Pub. L. 109–171, §3002(a)(1), inserted “full-power” before “television broadcast license” and substituted “February 17, 2009” for “December 31, 2006”.
+
+Subsec. (j)(14)(B). Pub. L. 109–171, §3002(a)(2), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to requirement of Commission to extend renewal period upon certain findings.
+
+Subsec. (j)(14)(C). Pub. L. 109–171, §3002(a)(5), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+
+Subsec. (j)(14)(C)(i)(I). Pub. L. 109–171, §3002(a)(3), struck out “or (B)” after “pursuant to subparagraph (A)”.
+
+Subsec. (j)(14)(D). Pub. L. 109–171, §3002(a)(5), redesignated subpar. (D) as (C).
+
+Pub. L. 109–171, §3002(a)(4), substituted “subparagraph (B)(i)” for “subparagraph (C)(i)” in introductory provisions.
+
+Subsec. (j)(15). Pub. L. 109–171, §3003(a)(2), added cls. (v) and (vi) to subpar. (C).
+
+Pub. L. 109–171, §3003(a)(1), redesignated par. (15) relating to special auction provisions for eligible frequencies as (16).
+
+Subsec. (j)(16). Pub. L. 109–171, §3003(a)(1), redesignated par. (15) relating to special auction provisions for eligible frequencies as (16).
 
 2004—Subsec. (j)(3)(F). Pub. L. 108–494, §203(a), added subpar. (F).
 
@@ -630,6 +668,228 @@ Section 4(d)(1)–(3) of Pub. L. 86–752 provided that:
 
 “(3) Section 309 of the Communications Act of 1934 \[this section\], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act \[section 308 of this title\] apply which are filed before such effective date and not substantially amended on or after such effective date and with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection.”
 
+#### Digital Television Transition and Public Safety
+
+Pub. L. 109–171, title III, Feb. 8, 2006, 120 Stat. 21, provided that:
+
+#### “SEC. 3001. SHORT TITLE; DEFINITION.
+
+“(a)
+
+Short Title.—This title may be cited as the ‘Digital Television Transition and Public Safety Act of 2005’.
+
+“(b)
+
+Definition.—As used in this Act \[probably should be “this title”\], the term ‘Assistant Secretary’ means the Assistant Secretary for Communications and Information of the Department of Commerce.
+
+#### “SEC. 3002. ANALOG SPECTRUM RECOVERY: FIRM DEADLINE.
+
+“(a)
+
+Amendments.—\[Amended this section.\]
+
+“(b)
+
+Terminations of Analog Licenses and Broadcasting.—The Federal Communications Commission shall take such actions as are necessary—
+
+&emsp;“(1) to terminate all licenses for full-power television stations in the analog television service, and to require the cessation of broadcasting by full-power stations in the analog television service, by February 18, 2009; and
+
+&emsp;“(2) to require by February 18, 2009, that all broadcasting by Class A stations, whether in the analog television service or digital television service, and all broadcasting by full-power stations in the digital television service, occur only on channels between channels 2 and 36, inclusive, or 38 and 51, inclusive (between frequencies 54 and 698 megahertz, inclusive).
+
+“(c)
+
+Conforming Amendments.—\[Amended section 337 of this title.\]
+
+#### “SEC. 3003. AUCTION OF RECOVERED SPECTRUM.
+
+\[Amended this section.\]
+
+#### “SEC. 3004. RESERVATION OF AUCTION PROCEEDS.
+
+\[Amended this section.\]
+
+#### “SEC. 3005. DIGITAL-TO-ANALOG CONVERTER BOX PROGRAM.
+
+“(a)
+
+Creation of Program.—The Assistant Secretary shall—
+
+&emsp;“(1) implement and administer a program through which households in the United States may obtain coupons that can be applied toward the purchase of digital-to-analog converter boxes; and
+
+&emsp;“(2) make payments of not to exceed $990,000,000, in the aggregate, through fiscal year 2009 to carry out that program from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)).
+
+“(b)
+
+Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,500,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+
+“(c)
+
+Program Specifications.—
+
+&emsp;“(1)
+
+Limitations.—
+
+&emsp;&emsp;“(A)
+
+Two-per-household maximum.—A household may obtain coupons by making a request as required by the regulations under this section between January 1, 2008, and March 31, 2009, inclusive. The Assistant Secretary shall ensure that each requesting household receives, via the United States Postal Service, no more than two coupons.
+
+&emsp;&emsp;“(B)
+
+No combinations of coupons.—Two coupons may not be used in combination toward the purchase of a single digital-to-analog converter box.
+
+&emsp;&emsp;“(C)
+
+Duration.—All coupons shall expire 3 months after issuance.
+
+&emsp;“(2)
+
+Distribution of coupons.—The Assistant Secretary shall expend not more than $100,000,000 on administrative expenses and shall ensure that the sum of—
+
+&emsp;&emsp;“(A) all administrative expenses for the program, including not more than $5,000,000 for consumer education concerning the digital television transition and the availability of the digital-to-analog converter box program; and
+
+&emsp;&emsp;“(B) the total maximum value of all the coupons redeemed, and issued but not expired, does not exceed $990,000,000.
+
+&emsp;“(3)
+
+Use of additional amount.—If the Assistant Secretary transmits to the Committee on Energy and Commerce of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate a statement certifying that the sum permitted to be expended under paragraph (2) will be insufficient to fulfill the requests for coupons from eligible households—
+
+&emsp;&emsp;“(A) paragraph (2) shall be applied—
+
+&emsp;&emsp;&emsp;“(i) by substituting ‘$160,000,000’ for ‘$100,000,000’; and
+
+&emsp;&emsp;&emsp;“(ii) by substituting ‘$1,500,000,000’ for ‘$990,000,000’;
+
+&emsp;&emsp;“(B) subsection (a)(2) shall be applied by substituting ‘$1,500,000,000’ for ‘$990,000,000’; and
+
+&emsp;&emsp;“(C) the additional amount permitted to be expended shall be available 60 days after the Assistant Secretary sends such statement.
+
+&emsp;“(4)
+
+Coupon value.—The value of each coupon shall be $40.
+
+“(d)
+
+Definition of Digital-to-Analog Converter Box.—For purposes of this section, the term ‘digital-to-analog converter box’ means a stand-alone device that does not contain features or functions except those necessary to enable a consumer to convert any channel broadcast in the digital television service into a format that the consumer can display on television receivers designed to receive and display signals only in the analog television service, but may also include a remote control device.
+
+#### “SEC. 3006. PUBLIC SAFETY INTEROPERABLE COMMUNICATIONS.
+
+“(a)
+
+Creation of Program.—The Assistant Secretary, in consultation with the Secretary of the Department of Homeland Security—
+
+&emsp;“(1) may take such administrative action as is necessary to establish and implement a grant program to assist public safety agencies in the acquisition of, deployment of, or training for the use of interoperable communications systems that utilize, or enable interoperability with communications systems that can utilize, reallocated public safety spectrum for radio communication; and
+
+&emsp;“(2) shall make payments of not to exceed $1,000,000,000, in the aggregate, through fiscal year 2010 to carry out that program from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)).
+
+“(b)
+
+Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+
+“(c)
+
+Condition of Grants.—In order to obtain a grant under the grant program, a public safety agency shall agree to provide, from non-Federal sources, not less than 20 percent of the costs of acquiring and deploying the interoperable communications systems funded under the grant program.
+
+“(d)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1)
+
+Public safety agency.—The term ‘public safety agency’ means any State, local, or tribal government entity, or nongovernmental organization authorized by such entity, whose sole or principal purpose is to protect the safety of life, health, or property.
+
+&emsp;“(2)
+
+Interoperable communications systems.—The term ‘interoperable communications systems’ means communications systems which enable public safety agencies to share information amongst local, State, Federal, and tribal public safety agencies in the same area via voice or data signals.
+
+&emsp;“(3)
+
+Reallocated public safety spectrum.—The term ‘reallocated public safety spectrum’ means the bands of spectrum located at 764–776 megahertz and 794–806 megahertz, inclusive.
+
+#### “SEC. 3007. NYC 9/11 DIGITAL TRANSITION.
+
+“(a)
+
+Funds Available.—From the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) the Assistant Secretary shall make payments of not to exceed $30,000,000, in the aggregate, which shall be available to carry out this section for fiscal years 2007 through 2008. The Assistant Secretary may borrow from the Treasury beginning October 1, 2006, such sums as may be necessary not to exceed $30,000,000 to implement and administer the program in accordance with this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+
+“(b)
+
+Use of Funds.—The sums available under subsection (a) shall be made available by the Assistant Secretary by grant to be used to reimburse the Metropolitan Television Alliance for costs incurred in the design and deployment of a temporary digital television broadcast system to ensure that, until a permanent facility atop the Freedom Tower is constructed, the members of the Metropolitan Television Alliance can provide the New York City area with an adequate digital television signal as determined by the Federal Communications Commission.
+
+“(c)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1)
+
+Metropolitan television alliance.—The term ‘Metropolitan Television Alliance’ means the organization formed by New York City television broadcast station licensees to locate new shared facilities as a result of the attacks on September 11, 2001 and the loss of use of shared facilities that housed broadcast equipment.
+
+&emsp;“(2)
+
+New york city area.—The term ‘New York City area’ means the five counties comprising New York City and counties of northern New Jersey in immediate proximity to New York City (Bergen, Essex, Union, and Hudson Counties).
+
+#### “SEC. 3008. LOW-POWER TELEVISION AND TRANSLATOR DIGITAL-TO-ANALOG CONVERSION.
+
+“(a)
+
+Creation of Program.—The Assistant Secretary shall make payments of not to exceed $10,000,000, in the aggregate, during the fiscal year 2008 and 2009 period from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement and administer a program through which each eligible low-power television station may receive compensation toward the cost of the purchase of a digital-to-analog conversion device that enables it to convert the incoming digital signal of its corresponding full-power television station to analog format for transmission on the low-power television station's analog channel. An eligible low-power television station may receive such compensation only if it submits a request for such compensation on or before February 17, 2009. Priority compensation shall be given to eligible low-power television stations in which the license is held by a non-profit corporation and eligible low-power television stations that serve rural areas of fewer than 10,000 viewers.
+
+“(b)
+
+Credit.—The Assistant Secretary may borrow from the Treasury beginning October 1, 2006, such sums as may be necessary, but not to exceed $10,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+
+“(c)
+
+Eligible Stations.—For purposes of this section, the term ‘eligible low-power television station’ means a low-power television broadcast station, Class A television station, television translator station, or television booster station—
+
+&emsp;“(1) that is itself broadcasting exclusively in analog format; and
+
+&emsp;“(2) that has not purchased a digital-to-analog conversion device prior to the date of enactment of the Digital Television Transition and Public Safety Act of 2005 \[Feb. 8, 2006\].
+
+#### “SEC. 3009. LOW-POWER TELEVISION AND TRANSLATOR UPGRADE PROGRAM.
+
+“(a)
+
+Establishment.—The Assistant Secretary shall make payments of not to exceed $65,000,000, in the aggregate, during fiscal year 2009 from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement and administer a program through which each licensee of an eligible low-power television station may receive reimbursement for equipment to upgrade low-power television stations from analog to digital in eligible rural communities, as that term is defined in section 610(b)(2) \[601(b)(2)\] of the Rural Electrification Act of 1937 \[1936\] (7 U.S.C. 950bb(b)(2)). Such reimbursements shall be issued to eligible stations no earlier than October 1, 2010. Priority reimbursements shall be given to eligible low-power television stations in which the license is held by a non-profit corporation and eligible low-power television stations that serve rural areas of fewer than 10,000 viewers.
+
+“(b)
+
+Eligible Stations.—For purposes of this section, the term ‘eligible low-power television station’ means a low-power television broadcast station, Class A television station, television translator station, or television booster station—
+
+&emsp;“(1) that is itself broadcasting exclusively in analog format; and
+
+&emsp;“(2) that has not converted from analog to digital operations prior to the date of enactment of the Digital Television Transition and Public Safety Act of 2005 \[Feb. 8, 2006\].
+
+#### “SEC. 3010. NATIONAL ALERT AND TSUNAMI WARNING PROGRAM.
+
+“The Assistant Secretary shall make payments of not to exceed $156,000,000, in the aggregate, during the fiscal year 2007 through 2012 period from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement a unified national alert system capable of alerting the public, on a national, regional, or local basis to emergency situations by using a variety of communications technologies. The Assistant Secretary shall use $50,000,000 of such amounts to implement a tsunami warning and coastal vulnerability program.
+
+#### “SEC. 3011. ENHANCE 911.
+
+“The Assistant Secretary shall make payments of not to exceed $43,500,000, in the aggregate, from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement the ENHANCE 911 Act of 2004 \[title I of Pub. L. 108–494, see Short Title of 2004 Amendment note set out under section 901 of this title\].
+
+#### “SEC. 3012. ESSENTIAL AIR SERVICE PROGRAM.
+
+“(a)
+
+In General.—If the amount appropriated to carry out the essential air service program under subchapter II of chapter 417 of title 49, United States Code, equals or exceeds $110,000,000 for fiscal year 2007 or 2008, then the Secretary of Commerce shall make $15,000,000 available, from the Digital Television Transition and Public Safety Fund established by section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)), to the Secretary of Transportation for use in carrying out the essential air service program for that fiscal year.
+
+“(b)
+
+Application With Other Funds.—Amounts made available under subsection (a) for any fiscal year shall be in addition to any amounts—
+
+&emsp;“(1) appropriated for that fiscal year; or
+
+&emsp;“(2) derived from fees collected pursuant to section 45301(a)(1) of title 49, United States Code, that are made available for obligation and expenditure to carry out the essential air service program for that fiscal year.
+
+“(c)
+
+Advances.—The Secretary of Transportation may borrow from the Treasury such sums as may be necessary, but not to exceed $30,000,000 on a temporary and reimbursable basis to implement subsection (a). The Secretary of Transportation shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) and made available to the Secretary under subsection (a).
+
+#### “SEC. 3013. SUPPLEMENTAL LICENSE FEES.
+
+“In addition to any fees assessed under the Communications Act of 1934 (47 U.S.C. 151 et seq.), the Federal Communications Commission shall assess extraordinary fees for licenses in the aggregate amount of $10,000,000, which shall be deposited in the Treasury during fiscal year 2006 as offsetting receipts.”
+
 #### Findings
 
 Pub. L. 107–195, §2, June 19, 2002, 116 Stat. 715, provided that: “Congress finds the following:
@@ -664,7 +924,7 @@ Pub. L. 105–33, title III, §3007, Aug. 5, 1997, 111 Stat. 269, which provided
 
 #### Administrative Procedures for Spectrum Auctions
 
-Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no applicationfor an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
+Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
 
 #### Deadlines for Commission Action Regarding Competitive Bidding
 
@@ -693,6 +953,4 @@ Section 1242(b) of Pub. L. 97–35 provided that: “The Commission shall have a
 &emsp;“(1) is filed with the Commission after the date of the enactment of this Act \[Aug. 13, 1981\]; or
 
 &emsp;“(2) is pending before the Commission on such date of enactment but has not been designated for hearing on or before such date of enactment.”
-
-<i><sup>1</sup></i><i> So in original. Two pars. (15) have been enacted.</i>
 

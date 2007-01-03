@@ -36,7 +36,3 @@ The Commission shall publish rules for the implementation of this section, in ac
 
 2005—Subsec. (b). Pub. L. 109–58 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, in introductory provisions substituted “Except as provided in paragraph (2), the Nuclear Regulatory Commission” for “The Commission”, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and added par. (2).
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

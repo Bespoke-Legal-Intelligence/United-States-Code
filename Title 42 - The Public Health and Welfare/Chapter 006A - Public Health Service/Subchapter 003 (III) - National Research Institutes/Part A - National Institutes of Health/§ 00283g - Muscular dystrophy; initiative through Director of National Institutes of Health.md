@@ -24,13 +24,9 @@
 
 &emsp;Each center under paragraph (1) shall supplement but not replace the establishment of a comprehensive research portfolio in all the muscular dystrophies. As a whole, the centers shall conduct basic and clinical research in all forms of muscular dystrophy including early detection, diagnosis, prevention, and treatment, including the fields of muscle biology, genetics, noninvasive imaging, genetics, pharmacological and other therapies.
 
-#### (3) Coordination of centers; reports
+#### (3) Coordination of centers
 
-&emsp;The Director of NIH—
-
-&emsp;&emsp;(A) shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers; and
-
-&emsp;&emsp;(B) shall require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.
+&emsp;The Director of NIH shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers.
 
 #### (4) Organization of centers
 
@@ -58,7 +54,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 &emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
 
-> &emsp;Members appointed under subparagraph (B) shall serve for a term of 3 years, and mayserve for an unlimited number of terms if reappointed.
+> &emsp;Members appointed under subparagraph (B) shall serve for a term of 3 years, and may serve for an unlimited number of terms if reappointed.
 
 #### (3) Chair
 
@@ -104,33 +100,35 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 &emsp;&emsp;(E) Information and education programs for health care professionals and the public.
 
-#### (f) Reports to Congress
-
-The Coordinating Committee shall biennially submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes the research, education, and other activities on muscular dystrophy being conducted or supported through the Department of Health and Human Services. Each such report shall include the following:
-
-&emsp;(1) The plan under subsection (e)(1) of this section (or revisions to the plan, as the case may be).
-
-&emsp;(2) Provisions specifying the amounts expended by the Department of Health and Human Services with respect to various forms of muscular dystrophy, including Duchenne, myotonic, FSHD and other forms of muscular dystrophy.
-
-&emsp;(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on all muscular dystrophies.
-
-#### (g) Public input
+#### (f) Public input
 
 The Secretary shall, under subsection (a)(1) of this section, provide for a means through which the public can obtain information on the existing and planned programs and activities of the Department of Health and Human Services with respect to various forms of muscular dystrophy and through which the Secretary can receive comments from the public regarding such programs and activities.
 
-#### (h) Authorization of appropriations
-
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.
-
-(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824.)
+(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824; amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692.)
 
 #### References in Text
 
-Section 6 of the MD–CARE Act, referred to in subsec. (a)(2), is section 6 of Pub. L. 107–84, which is set out as a note under section 247b–18 of this title and does not relate to establishment of a coordinating committee. However, subsec. (d) of this section contains provisions relating to the establishment of the Muscular Dystrophy Coordinating Committee.
+Section 6 of the MD–CARE Act, referred to in subsec. (a)(2), is section 6 of Pub. L. 107–84, which was formerly set out as a note under section 247b–18 of this title and does not relate to establishment of a coordinating committee. However, subsec. (d) of this section contains provisions relating to the establishment of the Muscular Dystrophy Coordinating Committee.
 
 #### Prior Provisions
 
 A prior section 283g, act July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 103–43, title II, §209, June 10, 1993, 107 Stat. 149, related to Office of Alternative Medicine, prior to repeal by Pub. L. 105–277, div. A, §101(f) \[title VI, §601(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–387.
+
+#### Amendments
+
+2007—Subsec. (b)(3). Pub. L. 109–482, §104(b)(1)(A)(i), amended heading and text of par. (3) generally. Text read as follows: “The Director of NIH—
+
+&emsp;“(A) shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers; and
+
+&emsp;“(B) shall require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.”
+
+Subsecs. (f), (g). Pub. L. 109–482, §104(b)(1)(A)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to reports to Congress.
+
+Subsec. (h). Pub. L. 109–482, §103(b)(4), struck out heading and text of subsec. (h). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

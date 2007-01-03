@@ -26,10 +26,6 @@
 |  |  |
 | :--- | ---: |
 | [3681\.](Subchapter%20002%20%28II%29%20-%20Indian%20Tribal%20Courts/%C2%A7%2003681%20-%20Grants.md) | Grants. |
-| (a) | In general. |
-| (b) | Consultation. |
-| (c) | Regulations. |
-| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

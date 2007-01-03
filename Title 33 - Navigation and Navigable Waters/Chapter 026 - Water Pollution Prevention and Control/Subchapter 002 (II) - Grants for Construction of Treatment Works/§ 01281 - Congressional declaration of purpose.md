@@ -34,7 +34,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 #### (g) Grants to construct publicly owned treatment works
 
-(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding thepreceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shall be obligated in such State under authority of this sentence.
+(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shall be obligated in such State under authority of this sentence.
 
 (2) The Administrator shall not make grants from funds authorized for any fiscal year beginning after June 30, 1974, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that—
 
@@ -42,7 +42,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 &emsp;(B) as appropriate, the works proposed for grant assistance will take into account and allow to the extent practicable the application of technology at a later date which will provide for the reclaiming or recycling of water or otherwise eliminate the discharge of pollutants.
 
-(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
+(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows tothe satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
 
 (4) The Administrator is authorized to make grants to applicants for treatment works grants under this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
 
@@ -66,7 +66,7 @@ The Administrator shall encourage waste treatment management methods, processes,
 
 #### (j) Grants for treatment works utilizing processes and techniques of guidelines under section 1314(d)(3) of this title
 
-The Administrator is authorized to make a grant for any treatment works utilizing processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title, if the Administrator determines it is in the public interest and if in the cost effectiveness studymade of the construction grant application for the purpose of evaluating alternative treatment works, the life cycle cost of the treatment works for which the grant is to be made does not exceed the life cycle cost of the most cost effective alternative by more than 15 per centum.
+The Administrator is authorized to make a grant for any treatment works utilizing processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title, if the Administrator determines it is in the public interest and if in the cost effectiveness study made of the construction grant application for the purpose of evaluating alternative treatment works, the life cycle cost of the treatment works for which the grant is to be made does not exceed the life cycle cost of the most cost effective alternative by more than 15 per centum.
 
 #### (k) Limitation on use of grants for publicly owned treatment works
 
@@ -130,7 +130,7 @@ Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 97–117, §6, added subsec. (<i>o</i>).
 
-1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
+1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercialwastes to the extent attributable to the Federal share of the cost of construction.
 
 Subsec. (k). Pub. L. 96–483, §3, added subsec. (k).
 
@@ -240,7 +240,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 762.
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided inpart: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
 
 Environmental Protection Agency” and “
 
@@ -270,7 +270,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(e) \[Purchase of State and Local Obligations\] (1) Until July 1, 1975, the Authority is authorized to make commitments to purchase, and to purchase on terms and conditions determined by the Authority, any obligation or participation therein which is issued by a State or local public body to finance the non-Federal share of the cost of any project for the construction of waste treatment works which the Administrator of the Environmental Protection Agency has determined to be eligible for Federal financial assistance under the Federal Water Pollution Control Act \[this chapter\].
 
-“(2) No commitment shall be entered into, and no purchase shall be made, unless the Administrator of the Environmental Protection Agency (A) has certified that the public body is unable to obtain on reasonableterms sufficient credit to finance its actual needs; (B) has approved the project as eligible under the Federal Water Pollution Control Act \[this chapter\], and (C) has agreed to guarantee timely payment of principal and interest on the obligation. The Administrator is authorized to guarantee such timely payments and to issue regulations as he deems necessary and proper to protect such guarantees. Appropriations are hereby authorized to be made to the Administrator in such sums as are necessary to make payments under such guarantees, and such payments are authorized to be made from such appropriations.
+“(2) No commitment shall be entered into, and no purchase shall be made, unless the Administrator of the Environmental Protection Agency (A) has certified that the public body is unable to obtain on reasonable terms sufficient credit to finance its actual needs; (B) has approved the project as eligible under the Federal Water Pollution Control Act \[this chapter\], and (C) has agreed to guarantee timely payment of principal and interest on the obligation. The Administrator is authorized to guarantee such timely payments and to issue regulations as he deems necessary and proper to protect such guarantees. Appropriations are hereby authorized to be made to the Administrator in such sums as are necessary to make payments under such guarantees, and such payments are authorized to be made from such appropriations.
 
 “(3) No purchase shall be made of obligations issued to finance projects, the permanent financing of which occurred prior to the enactment of this section \[Oct. 18, 1972\].
 
@@ -312,7 +312,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(<i>l</i>) \[Preparation of Obligations by Secretary of the Treasury\] In order to furnish obligations for delivery by the Authority, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Authority may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Authority. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith, shall remain in the custody of the Secretary of the Treasury. The Authority shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations.
 
-“(m) \[Annual Report to Congress\] The Authority shall, as soon as practicable after the end of each fiscalyear, transmit to the President and the Congress an annual report of its operations and activities.
+“(m) \[Annual Report to Congress\] The Authority shall, as soon as practicable after the end of each fiscal year, transmit to the President and the Congress an annual report of its operations and activities.
 
 “(n) \[Subsec. (n) amended section 24 of Title 12, Banks and Banking, and is not set out herein.\]
 

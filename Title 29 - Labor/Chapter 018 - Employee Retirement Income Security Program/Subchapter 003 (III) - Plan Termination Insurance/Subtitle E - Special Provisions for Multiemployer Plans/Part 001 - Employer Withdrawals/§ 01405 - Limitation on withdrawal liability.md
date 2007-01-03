@@ -6,22 +6,20 @@
 
 &emsp;(A) a portion (determined under paragraph (2)) of the liquidation or dissolution value of the employer (determined after the sale or exchange of such assets), or
 
-&emsp;(B) the unfunded vested benefits attributable to employees of the employer.
+&emsp;(B) in the case of a plan using the attributable method of allocating withdrawal liability, the unfunded vested benefits attributable to employees of the employer.
 
 (2) For purposes of paragraph (1), the portion shall be determined in accordance with the following table:
 
-&nbsp;
-
-| If the liquidation or  dissolution value of the  employer after the sale  or exchange is— | The portion is— |
+| If the liquidation or distribution value of the employer after the sale or exchange is— | The portion is— |
 | :--- | ---: |
-| Not more than $2,000,000 | 30 percent of the amount. |
-| More than $2,000,000, but not more than $4,000,000 | $600,000, plus 35 percent of the amount in excess of $2,000,000. |
-| More than $4,000,000, but not more than $6,000,000 | $1,300,000, plus 40 percent of the amount in excess of $4,000,000. |
-| More than $6,000,000, but not more than $7,000,000 | $2,100,000, plus 45 percent of the amount in excess of $6,000,000. |
-| More than $7,000,000, but not more than $8,000,000 | $2,550,000, plus 50 percent of the amount in excess of $7,000,000. |
-| More than $8,000,000, but not more than $9,000,000 | $3,050,000, plus 60 percent of the amount in excess of $8,000,000. |
-| More than $9,000,000, but not more than $10,000,000 | $3,650,000, plus 70 percent of the amount in excess of $9,000,000. |
-| More than $10,000,000 | $4,350,000, plus 80 percent of the amount in excess of $10,000,000. |
+| Not more than $5,000,000 | 30 percent of the amount. |
+| More than $5,000,000, but not more than $10,000,000 | $1,500,000, plus 35 percent of the amount in excess of $5,000,000. |
+| More than $10,000,000, but not more than $15,000,000 | $3,250,000, plus 40 percent of the amount in excess of $10,000,000. |
+| More than $15,000,000, but not more than $17,500,000 | $5,250,000, plus 45 percent of the amount in excess of $15,000,000. |
+| More than $17,500,000, but not more than $20,000,000 | $6,375,000, plus 50 percent of the amount in excess of $17,500,000. |
+| More than $20,000,000, but not more than $22,500,000 | $7,625,000, plus 60 percent of the amount in excess of $20,000,000. |
+| More than $22,500,000, but not more than $25,000,000 | $9,125,000, plus 70 percent of the amount in excess of $22,500,000. |
+| More than $25,000,000 | $10,875,000, plus 80 percent of the amount in excess of $25,000,000. |
 
 #### (b) Unfunded vested benefits allocable to insolvent employer undergoing liquidation or dissolution; maximum amount; determinative factors
 
@@ -55,5 +53,15 @@ In the case of one or more withdrawals of an employer attributable to the same s
 
 &emsp;(2) the withdrawal liability of the employer to each plan shall be an amount which bears the same ratio to the present value of the withdrawal liability payments to all plans (after the application of the preceding provisions of this section) as the withdrawal liability of the employer to such plan (determined without regard to this section) bears to the withdrawal liability of the employer to all such plans (determined without regard to this section).
 
-(Pub. L. 93–406, title IV, §4225, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1243.)
+(Pub. L. 93–406, title IV, §4225, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1243; amended Pub. L. 109–280, title II, §204(a)(1), (2), Aug. 17, 2006, 120 Stat. 886, 887.)
+
+#### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–280, §204(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the unfunded vested benefits attributable to employees of the employer.”
+
+Subsec. (a)(2). Pub. L. 109–280, §204(a)(1), added table and struck out former table which provided for a portion of: 30 percent of the amount if the liquidation or dissolution value of the employer after the sale or exchange is not more than $2,000,000; $600,000, plus 35 percent of the amount in excess of $2,000,000, if the employer's liquidation or dissolution value is more than $2,000,000, but not more than $4,000,000; $1,300,000, plus 40 percent of the amount in excess of $4,000,000, if the employer's liquidation or dissolution value is more than $4,000,000, but not more than $6,000,000; $2,100,000, plus 45 percent of the amount in excess of $6,000,000, if the employer's liquidation or dissolution value is more than $6,000,000, but not more than $7,000,000; $2,550,000, plus 50 percent of the amount in excess of $7,000,000, if the employer's liquidation or dissolution value is more than $7,000,000, but not more than $8,000,000; $3,050,000, plus 60 percent of the amount in excess of $8,000,000, if the employer's liquidation or dissolution value is more than $8,000,000, but not more than $9,000,000; $3,650,000, plus 70 percent of the amount in excess of $9,000,000, if the employer's liquidation or dissolution value is more than $9,000,000, but not more than $10,000,000; and $4,350,000, plus 80 percent of the amount in excess of $10,000,000, if the employer's liquidation or dissolution value is more than $10,000,000.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title II, §204(a)(3), Aug. 17, 2006, 120 Stat. 887, provided that: “The amendments made by this subsection \[amending this section\] shall apply to sales occurring on or after January 1, 2007.”
 

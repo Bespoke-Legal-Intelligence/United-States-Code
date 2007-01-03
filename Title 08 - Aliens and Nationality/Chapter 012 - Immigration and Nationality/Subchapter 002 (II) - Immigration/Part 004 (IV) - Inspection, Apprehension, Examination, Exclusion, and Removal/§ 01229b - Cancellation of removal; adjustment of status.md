@@ -72,7 +72,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (B) Duration of parole
 
-&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if they were applications filed under section 1154(a)(1)(A)(iii), (A)(iv), (B)(ii), or (B)(iii) of this title for purposes of section 1255 (a) and (c) of this title. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
+&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if the applicants were VAWA self-petitioners. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
 
 #### (5) Application of domestic violence waiver authority
 
@@ -136,11 +136,11 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 &emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527; Pub. L. 109–162, title VIII, §§813(c)(1), 822(a), (b), Jan. 5, 2006, 119 Stat. 3058, 3062, 3063.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527; Pub. L. 109–162, title VIII, §§813(c)(1), 822(a), (b), Jan. 5, 2006, 119 Stat. 3058, 3062, 3063; Pub. L. 109–271, §6(e), Aug. 12, 2006, 120 Stat. 763.)
 
 #### References in Text
 
-Section 1254 of this title, referred to in subsecs. (b)(2)(B), (C), (4), (c)(6), and (e)(1), (3)(B), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
+Section 1254 of this title, referred to in subsecs. (b)(2)(B), (C), (4), (c)(6), and (e)(1), (3)(B), was repealedby Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
 
 Section 1182(c) of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–208, div. C, title III, §304(b), Sept. 30, 1996, 110 Stat. 3009–597.
 
@@ -157,6 +157,8 @@ Subsec. (b)(2)(B). Pub. L. 109–162, §822(a)(2), which directed amendment of f
 Pub. L. 109–162, §822(a)(1), substituted “(A)(ii)” for “(A)(i)(II)” in first sentence.
 
 Subsec. (b)(2)(C). Pub. L. 109–162, §822(b), substituted “(A)(iii)” for “(A)(i)(III)”.
+
+Subsec. (b)(4)(B). Pub. L. 109–271 substituted “the applicants were VAWA self-petitioners” for “they were applications filed under section 1154(a)(1)(A)(iii), (A)(iv), (B)(ii), or (B)(iii) of this title for purposes of section 1255 (a) and (c) of this title”.
 
 Subsec. (b)(5). Pub. L. 109–162, §813(c)(1)(C), added par. (5).
 
@@ -198,7 +200,7 @@ Section 204(e) of Pub. L. 105–100 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision that subsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, seesection 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision thatsubsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

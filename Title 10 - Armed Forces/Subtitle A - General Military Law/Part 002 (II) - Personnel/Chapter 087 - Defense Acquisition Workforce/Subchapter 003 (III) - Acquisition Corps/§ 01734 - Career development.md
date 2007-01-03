@@ -52,13 +52,13 @@ Exchange Program.—The Secretary of Defense shall establish, for purposes of br
 
 Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L.102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550.)
 
 #### Amendments
 
 2003—Subsec. (d)(2). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2) and struck out at end “The document shall be submitted to the Director of Acquisition Education, Training, and Career Development.”
 
-Pub. L. 108–136, §831(b)(4)(A)(i), struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.”
+Pub. L. 108–136, §831(b)(4)(A)(i), struck out par. (2) which read as follows: “The authority to grant suchwaivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.”
 
 Subsec. (d)(3). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2).
 

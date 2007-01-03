@@ -8,13 +8,13 @@
 
 (c)(1) Subject to section 3695 of this title and except as provided in paragraphs (2) and (3) of this subsection, each individual entitled to basic educational assistance under section 3018 of this title is entitled to 36 months of educational assistance under this chapter (or the equivalent thereof in part-time educational assistance).
 
-(2) Subject to section 3695 of this title, an individual described in clause (B) or (C) of section 3018(b)(3) of this title whose discharge or releasefrom active duty prevents the reduction of the basic pay of such individual by $1,200 is entitled to the number of months of assistance under this chapter that is equal to the lesser of—
+(2) Subject to section 3695 of this title, an individual described in clause (B) or (C) of section 3018(b)(3) of this title whose discharge or release from active duty prevents the reduction of the basic pay of such individual by $1,200 is entitled to the number of months of assistance under this chapter that is equal to the lesser of—
 
 &emsp;(A) 36 multiplied by a fraction the numerator of which is the amount by which the basic pay of the individual has been reduced under section 3018(c) and the denominator of which is $1,200; or
 
 &emsp;(B) the number of months the individual has served on continuous active duty after June 30, 1985.
 
-(3) Subject to section 3695 of this title and subsection (d) of this section, an individual described in clause (B) or (C)(ii) of section 3018(b)(3) of this title (other than an individual described in paragraph (2) of this subsection) is entitled to the number of months of educational assistance under this chapter that is equal to the number of months the individual has served on continuous active duty after June 30, 1985.
+(3) Subject to section 3695 of this title and subsection (d) of this section, an individual described in clause (B) or (C)(ii) of section 3018(b)(3) of this title (other than an individual described in paragraph (2) of this subsection) isentitled to the number of months of educational assistance under this chapter that is equal to the number of months the individual has served on continuous active duty after June 30, 1985.
 
 (d) Subject to section 3695 of this title, each individual entitled to educational benefits under section 3018A, 3018B, or 3018C of this title is entitled to the lesser of—
 

@@ -40,7 +40,7 @@ In carrying out his duties under this chapter, the Secretary shall, within six m
 
 (1) In carrying out his duties under this chapter, the Secretary is authorized to provide funds for the accelerated procurement and installation of small and large wind energy systems by Federal agencies.
 
-(2) The Secretary is authorized to enter into arrangements with appropriate Federal agencies, including the Water and Power Resources Services and the Federal power marketing agencies for large wind energy systems, to carry out such projects and activities as may be appropriate for the broad technology applications of small and large wind energy systems which aresuitable and effective for use by such Federal agencies.
+(2) The Secretary is authorized to enter into arrangements with appropriate Federal agencies, including the Water and Power Resources Services and the Federal power marketing agencies for large wind energy systems, to carry out such projects and activities as may be appropriate for the broad technology applications of small and large wind energy systems which are suitable and effective for use by such Federal agencies.
 
 #### (h) Observation, monitoring, and reporting requirements; public inspection
 
@@ -48,7 +48,7 @@ The terms and conditions prescribed by the Secretary under this subsection shall
 
 #### (i) Termination of new Federal assistance and Federal assistance programs
 
-New Federal assistance for technology applications systems shall terminate upon the appropriate determination by the Secretary, in the annual update of the comprehensive program management plan pursuant to section 9203 of this title. Termination of the small wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1985, whichever occurs first. Termination of the large wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1988, whichever occurs first.
+New Federal assistance for technology applications systems shall terminate upon the appropriate determination by the Secretary, in the annual update of the comprehensive program management plan pursuant to section 9203 ofthis title. Termination of the small wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1985, whichever occurs first. Termination of the large wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1988, whichever occurs first.
 
 (Pub. L. 96–345, §6, Sept. 8, 1980, 94 Stat. 1142.)
 

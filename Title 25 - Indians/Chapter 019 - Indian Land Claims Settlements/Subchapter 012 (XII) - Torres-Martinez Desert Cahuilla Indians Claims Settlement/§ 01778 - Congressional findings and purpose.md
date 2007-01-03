@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(4) Through the present day, the majority of the lands added to the reservation in 1909 remain inundated due in part to the flowage of natural runoff and drainage water from the irrigation systems of the Imperial, Coachella, and Mexicali Valleys into the Salton Sea.
 
-&emsp;(5) In addition to those lands that are inundated, there are also tribal and individual Indian lands located on the perimeter of the Salton Sea that are not currently irrigable due to lack of proper drainage.
+&emsp;(5) In addition to those lands that are inundated, there are also tribal and individual Indian lands located on the perimeter of theSalton Sea that are not currently irrigable due to lack of proper drainage.
 
 &emsp;(6) In 1982, the United States brought an action in trespass entitled “United States of America, in its own right and on behalf of Torres-Martinez Band of Mission Indians and the Allottees therein v. the Imperial Irrigation District and Coachella Valley Water District”, Case No. 82–1790 K (M) (hereafter in this section referred to as the “U.S. Suit”) on behalf of the Torres-Martinez Indian Tribe and affected Indian allottees against the two water districts seeking damages related to the inundation of tribal- and allottee-owned lands and injunctive relief to prevent future discharge of water on such lands.
 

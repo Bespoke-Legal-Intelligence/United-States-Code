@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) remuneration received for services performed in a sheltered workshop or work activities center; and
 
-&emsp;&emsp;(D) any royalty earned by an individual in connection with any publication of the workof the individual, and that portion of any honorarium which is received for services rendered; and
+&emsp;&emsp;(D) any royalty earned by an individual in connection with any publication of the work of the individual, and that portion of any honorarium which is received for services rendered; and
 
 &emsp;(2) unearned income means all other income, including—
 
@@ -72,7 +72,7 @@
 
 &emsp;(15) the value of any commercial transportation ticket, for travel by such individual (or spouse) among the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands, which is received as a gift by such individual (or such spouse) and is not converted to cash;
 
-&emsp;(16) interest accrued on the value of an agreement entered into by such individual (or such spouse) representing the purchase of a burial space excluded under section1382b(a)(2)(B) of this title, and left to accumulate;
+&emsp;(16) interest accrued on the value of an agreement entered into by such individual (or such spouse) representing the purchase of a burial space excluded under section 1382b(a)(2)(B) of this title, and left to accumulate;
 
 &emsp;(17) any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(B) excluded pursuant to Federal law other than section 1382b(a) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566, title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title IV, §§430(a), (b), 432(a), 435(a), Mar. 2, 2004, 118 Stat. 538–540.)
+(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566, title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title IV, §§430(a), (b), 432(a), 435(a), Mar. 2, 2004, 118 Stat. 538–540.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Subsec. (b)(14). Pub. L. 100–647 added par. (14).
 
 1987—Subsec. (a)(2)(D), (E). Pub. L. 100–203 amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
 
-“(D) the proceeds of any life insurance policy to the extent that they exceed the amount expended by the beneficiary for purposes of the insured individual's last illness and burial or $1,500, whichever is less;
+“(D) the proceeds of any life insurance policy to the extent that they exceed the amount expended by thebeneficiary for purposes of the insured individual's last illness and burial or $1,500, whichever is less;
 
 “(E) gifts (cash or otherwise), support and alimony payments, and inheritances; and”.
 
@@ -256,7 +256,7 @@ Section 5031(d) of Pub. L. 101–508 provided that: “The amendments made by th
 
 Section 5033(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits payable for calendar months beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 5034(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits for months beginning on or after the first day of the 13th calendar month following the month in which this Act is enacted \[November 1990\].”
+Section 5034(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to benefits for months beginning on or after the first day of the 13th calendar month following the month in which this Act is enacted \[November 1990\].”
 
 Section 5035(c) of Pub. L. 101–508, as amended by Pub. L. 103–66, title XIII, §13732, Aug. 10, 1993, 107 Stat. 662, provided that: “The amendments made by this section \[amending this section and section 1382b of this title\] shall apply with respect to benefits for calendar months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
 
@@ -288,7 +288,7 @@ Amendment by section 2663(g)(3), (4) of Pub. L. 98–369 effective July 18, 1984
 
 #### Effective and Termination Dates of 1983 Amendments
 
-Section 545(c) of Pub. L. 97–424 and section 404(c) of Pub. L. 98–21, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by section 2639(c), (d) of Pub. L.98–369, effective with respect to months beginning after Sept. 30, 1984.
+Section 545(c) of Pub. L. 97–424 and section 404(c) of Pub. L. 98–21, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by section 2639(c), (d) of Pub. L. 98–369, effective with respect to months beginning after Sept. 30, 1984.
 
 #### Effective Date of 1981 Amendment
 

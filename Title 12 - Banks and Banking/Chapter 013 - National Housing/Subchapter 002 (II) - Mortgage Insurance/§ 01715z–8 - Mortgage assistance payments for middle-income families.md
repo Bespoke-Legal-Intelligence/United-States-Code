@@ -10,7 +10,7 @@ To qualify for assistance payments a middle-income family shall be a mortgagor u
 
 #### (c) Termination of interest subsidy payments
 
-The interest subsidy payments authorized by this section shall cease when (1) the mortgagor no longer occupies the property which securesthe mortgage, (2) the mortgages are no longer held by the investor, or (3) the rate of interest paid by the mortgagor reaches the rate of interest specified on the mortgage.
+The interest subsidy payments authorized by this section shall cease when (1) the mortgagor no longer occupies the property which secures the mortgage, (2) the mortgages are no longer held by the investor, or (3) the rate of interest paid by the mortgagor reaches the rate of interest specified on the mortgage.
 
 #### (d) Monthly mortgage payments as determining eligibility for interest subsidy payments; mortgage assistance payments for middle-income cooperative members; interest subsidy payments; applicability of provisions to cooperative mortgagors
 
@@ -48,7 +48,7 @@ In determining the income of any family for the purposes of this section, income
 
 #### (j) Insurance of mortgages executed by mortgagors meeting eligibility requirements for assistance payments; issuance of commitment; eligibility requirements for insurance
 
-(1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary priorto the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
+(1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
 (2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
 

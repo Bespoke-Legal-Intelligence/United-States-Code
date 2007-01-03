@@ -60,25 +60,5 @@ Definitions.—In this section:
 
 #### Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review
 
-Pub. L. 107–314, div. A, title X, §1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, provided that:
-
-“(b)
-
-Deadline for Designation of Responsible Official or Organization.—The Secretary of Defense shall designate an officer, employee, or standing board or committee of the Department of Defense under subsection (a) of section 2228 of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\].
-
-“(c)
-
-Interim Report.—When the President submits the budget for fiscal year 2004 to Congress pursuant to section 1105(a) of title 31, United States Code, the Secretary of Defense shall submit to Congress a report regarding the actions taken to that date under section 2228 of title 10, United States Code, as added by subsection (a). That report shall include the following:
-
-&emsp;“(1) A description of the organizational structure for the personnel carrying out the responsibilities of the official or organization designated under subsection (a) of that section with respect to the prevention and mitigation of corrosion.
-
-&emsp;“(2) An outline for the long-term strategy for prevention and mitigation of corrosion required by subsection (c) of that section and milestones for development of that strategy.
-
-“(d)
-
-Deadline for Long-Term Strategy.—The Secretary of Defense shall submit to Congress a report setting forth the long-term strategy required under subsection (c) of section 2228 of title 10, United States Code, as added by subsection (a), not later than one year after the date of the enactment of this Act.
-
-“(e) GAO
-
-Review.—The Comptroller General shall monitor the implementation of the long-term strategy required under subsection (c) of section 2228 of title 10, United States Code, as added by subsection (a), and, not later than 18 months after the date of the enactment of this Act, shall submit to Congress an assessment of the extent to which that strategy has been implemented.”
+Pub. L. 107–314, div. A, title X, §1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
 

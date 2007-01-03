@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(ii) to the extent practicable, the modification of any facilities or equipment of the employer involved that are used primarily by individuals with disabilities, except that a project shall not be required to provide for such modification if the modification is required as a reasonable accommodation under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
 
-&emsp;(D) provide individuals with disabilities with such support services as may be required inorder to maintain the employment and career advancement for which the individuals have received training under this part.
+&emsp;(D) provide individuals with disabilities with such support services as may be required in order to maintain the employment and career advancement for which the individuals have received training under this part.
 
 (3)(A) An individual shall be eligible for services described in paragraph (2) if the individual is determined to be an individual described in section 722(a)(1) of this title, and if the determination is made in a manner consistent with section 722(a) of this title.
 

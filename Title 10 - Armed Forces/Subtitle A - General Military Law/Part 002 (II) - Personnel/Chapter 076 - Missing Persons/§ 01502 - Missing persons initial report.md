@@ -6,7 +6,7 @@ Preliminary Assessment and Recommendation by Commander.—After receiving inform
 
 &emsp;(1) recommend that the person be placed in a missing status; and
 
-&emsp;(2) not later than 10 days after receiving such information, transmit a report containing that recommendation to the Secretary concerned in accordance with procedures prescribed under section 1501(b) of this title.
+&emsp;(2) not later than 10 days after receiving such information, transmit a report containing that recommendation to the Secretaryconcerned in accordance with procedures prescribed under section 1501(b) of this title.
 
 (b)
 

@@ -32,7 +32,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;(F) facility services furnished in connection with surgical procedures specified by the Secretary—
 
-&emsp;&emsp;&emsp;(i) pursuant to section 1395<i>l</i>(i)(1)(A) of this title and performed in an ambulatory surgical center (which meets health, safety, and other standards specified by the Secretary in regulations) if the center has an agreement in effect with the Secretary by which the center agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(A) of this title as full payment for such services (including intraocular lens in cases described in section 1395<i>l</i>(i)(2)(A)(iii) of this title) and to accept an assignment described in section 1395u(b)(3)(B)(ii) of this title with respect to payment for all such services (including intraocular lens in cases described in section 1395<i>l</i>(i)(2)(A)(iii) of this title) furnished by the center to individuals enrolled under this part, or
+&emsp;&emsp;&emsp;(i) pursuant to section 1395<i>l</i>(i)(1)(A) of this title and performed in an ambulatory surgical center (which meets health, safety, and other standards specified by the Secretary in regulations) if the center has an agreement in effect with the Secretary by which the center agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(A) of this title asfull payment for such services (including intraocular lens in cases described in section 1395<i>l</i>(i)(2)(A)(iii) of this title) and to accept an assignment described in section 1395u(b)(3)(B)(ii) of this title with respect to payment for all such services (including intraocular lens in cases described in section 1395<i>l</i>(i)(2)(A)(iii) of this title) furnished by the center to individuals enrolled under this part, or
 
 &emsp;&emsp;&emsp;(ii) pursuant to section 1395<i>l</i>(i)(1)(B) of this title and performed by a physician, described in paragraph (1), (2), or (3) of section 1395x(r) of this title, in his office, if the Secretary has determined that—
 
@@ -64,7 +64,7 @@ Part B of subchapter XI of this chapter, referred to in subsec. (a)(2)(F)(ii)(I)
 
 #### Amendments
 
-2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in ayear during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
+2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in a year during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
 
 1999—Subsecs. (b), (c). Pub. L. 106–113 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -88,7 +88,7 @@ Subsec. (a)(2)(I). Pub. L. 101–508, §4153(a)(2)(A)(ii)–(iv), added subpar. 
 
 Subsec. (a)(2)(J). Pub. L. 101–508, §4162(b)(1), added subpar. (J).
 
-1989—Subsec. (a). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(a), 205(a), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+1989—Subsec. (a). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(a), 205(a), and provided that theprovisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
 
 Subsec. (a)(2)(H). Pub. L. 101–239 added subpar. (H).
 
@@ -164,7 +164,7 @@ Amendment by section 4432(b)(5)(B) of Pub. L. 105–33 applicable to items and s
 
 Section 4511(e) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395x, 1395y, 1395cc, and 1395yy of this title\] shall apply with respect to services furnished and supplies provided on and after January 1, 1998.”
 
-Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, seesection 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
+Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -250,7 +250,7 @@ Section 133(g) of Pub. L. 90–248 provided that: “The amendments made by the 
 
 #### Report on Immunosuppressive Drug Benefit
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–356, which required the Secretary of Health and Human Services to submit to Congress not later than Mar. 1, 2003, a report on the operation of section 1000(a)(6) \[title II, §227\] of Pub. L. 106–113, amending this section and section 1395x of this title, including an analysis of impact and recommendations regarding an appropriate cost-effective method for providing coverage of immunosuppressive drugs under the medicare program on a permanent basis, was repealed by Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473.
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–356, which required the Secretary of Health and Human Services to submit to Congress not later than Mar. 1, 2003, a report on theoperation of section 1000(a)(6) \[title II, §227\] of Pub. L. 106–113, amending this section and section 1395x of this title, including an analysis of impact and recommendations regarding an appropriate cost-effective method for providing coverage of immunosuppressive drugs under the medicare program on a permanent basis, was repealed by Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473.
 
 #### Construction of Section 9320 of Pub. L. 99–509
 

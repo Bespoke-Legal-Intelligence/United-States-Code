@@ -20,3 +20,4 @@ Part A—Stockpile Stewardship and Weapons Production
 - [&sect; 02531 - Testing of nuclear weapons](%C2%A7%2002531%20-%20Testing%20of%20nuclear%20weapons.md)
 - [&sect; 02532 - Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile](%C2%A7%2002532%20-%20Manufacturing%20infrastructure%20for%20refabrication%20and%20certification%20of%20nuclear%20weapons%20stockpile.md)
 - [&sect; 02533 - Reports on critical difficulties at nuclear weapons laboratories and nuclear weapons production plants](%C2%A7%2002533%20-%20Reports%20on%20critical%20difficulties%20at%20nuclear%20weapons%20laboratories%20and%20nuclear%20weapons%20production%20plants.md)
+- [&sect; 02534 - Plan for transformation of National Nuclear Security Administration nuclear weapons complex](%C2%A7%2002534%20-%20Plan%20for%20transformation%20of%20National%20Nuclear%20Security%20Administration%20nuclear%20weapons%20complex.md)

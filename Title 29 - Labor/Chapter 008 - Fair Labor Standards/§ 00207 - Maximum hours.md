@@ -32,7 +32,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 > &emsp;and such employee receives compensation for employment in excess of forty hours in any workweek at a rate not less than one and one-half times the minimum wage rate applicable to him under section 206 of this title,
 
-> and if such employee receives compensation for employment in excess of twelve hours in any workday, or for employment in excess of fifty-six hours in any workweek, as the case may be, at a rate not less than one and one-half times the regular rate at which he is employed.
+> and if such employee receives compensation for employment in excess of twelve hours in anyworkday, or for employment in excess of fifty-six hours in any workweek, as the case may be, at a rate not less than one and one-half times the regular rate at which he is employed.
 
 #### (c), (d) Repealed. Pub. L. 93–259, §19(e), Apr. 8, 1974, 88 Stat. 66
 
@@ -44,7 +44,7 @@ As used in this section the “regular rate” at which an employee is employed 
 
 &emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
 
-&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) boththe fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
+&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
 
 &emsp;(4) contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health insurance or similar benefits for employees;
 
@@ -70,7 +70,7 @@ As used in this section the “regular rate” at which an employee is employed 
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) of this section by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) of this section by employing anyemployee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -218,7 +218,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(3) does not include job specific training.
 
-(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309.)
+(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1,63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309.)
 
 #### References in Text
 
@@ -242,7 +242,7 @@ Subsec. (h). Pub. L. 106–202, §2(b), designated existing provisions as par. (
 
 Subsec. (p). Pub. L. 99–150, §3(a)–(c)(1), added subsec. (p).
 
-1974—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “tenworkweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
+1974—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
 
 Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
 
@@ -380,7 +380,7 @@ Pub. L. 89–601, title VI, §603, Sept. 23, 1966, 80 Stat. 844, directed Secret
 
 Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes as President of the United Statesit is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
+By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -82,7 +82,7 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 &emsp;(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
 
-&emsp;(2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
+&emsp;(2) the President has received reliable assurances from the foreign person or United Statesperson, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
 
 #### (f) Waiver
 

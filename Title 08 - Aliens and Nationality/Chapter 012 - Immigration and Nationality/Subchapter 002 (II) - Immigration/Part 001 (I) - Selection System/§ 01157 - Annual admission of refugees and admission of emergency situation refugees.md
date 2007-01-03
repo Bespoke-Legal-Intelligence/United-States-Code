@@ -12,7 +12,7 @@
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
-If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
+If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by thePresident after the appropriate consultation provided under this subsection.
 
 #### (c) Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 1991 Amendment
 
-Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendments made by that section \[amending this section, sections 1159, 1161, 1187, 1188, 1254a, 1255a, and 1322of this title, and provisions set out as notes under sections 1101 and 1255 of this title\] are effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendments made by that section \[amending this section, sections 1159, 1161, 1187, 1188, 1254a, 1255a, and 1322 of this title, and provisions set out as notes under sections 1101 and 1255 of this title\] are effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
@@ -128,7 +128,7 @@ Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, as amended by Pub. L. 107–258
 
 “(a)
 
-Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
+Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shallgrant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
 
 “(b)
 
@@ -280,7 +280,7 @@ Missing status.—The term ‘missing status’, with respect to the Persian Gul
 
 &emsp;“(3)
 
-Persian gulf war.—The term ‘Persian Gulf War’ means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.”
+Persian gulf war.—The term ‘Persian Gulf War’ means the period beginning on August 2, 1990,and ending on the date thereafter prescribed by Presidential proclamation or by law.”
 
 #### “SEC. 4. BROADCASTING INFORMATION ON THE ‘BRING THEM HOME ALIVE’ PROGRAM.
 
@@ -406,6 +406,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
 
+Presidential Determination No. 2007–1, Oct. 11, 2006, 71 F.R. 64435.
+
 Presidential Determination No. 2006–3, Oct. 24, 2005, 70 F.R. 65825.
 
 Presidential Determination No. 2004–53, Sept. 30, 2004, 69 F.R. 60943.
@@ -460,7 +462,7 @@ Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 #### Ex. Ord. No. 12208. Consultations on the Admission of Refugees
 
-Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
+Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R.34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 

@@ -42,7 +42,7 @@ Notice requirement.—The Secretary shall periodically give public notice of the
 
 &emsp;(5)
 
-Use of revenues.—The Secretary shall accept, to the maximum extent practicable, aportion of the revenues resulting from sales of an innovation project funded under this section. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary for activities under this subsection. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation.
+Use of revenues.—The Secretary shall accept, to the maximum extent practicable, a portion of the revenues resulting from sales of an innovation project funded under this section. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary for activities under this subsection. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation.
 
 (c)
 
@@ -140,7 +140,7 @@ In subsection (c)(3), before clause (A), the words “public or private training
 
 2005—Pub. L. 109–59, §3014(e)(1), substituted “deployment” for “training” in section catchline.
 
-Subsec. (a). Pub. L. 109–59, §3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Developmentwhen required by section 5334(i) of this title) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
+Subsec. (a). Pub. L. 109–59, §3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by section 5334(i) of this title) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
 
 Subsec. (b). Pub. L. 109–59, §3014(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to grants to nonprofit institutions of higher learning for research, investigations, and training.
 

@@ -1,6 +1,6 @@
 ### §659. Interstate or foreign shipments by carrier; State prosecutions
 
-Whoever embezzles, steals, or unlawfully takes, carries away, or conceals, or by fraud or deception obtains from any pipeline system, railroad car, wagon, motortruck, or other vehicle, or from any tank or storage facility, station, station house, platform or depot or from any steamboat, vessel, or wharf, or from any aircraft, air terminal, airport, aircraft terminal or air navigation facility with intent to convert to his own use any goods or chattels moving as or which are a part of or which constitute an interstate or foreign shipment of freight, express, or other property; or
+Whoever embezzles, steals, or unlawfully takes, carries away, or conceals, or by fraud or deception obtains from any pipeline system, railroad car, wagon, motortruck, trailer, or other vehicle, or from any tank or storage facility, station, station house, platform or depot or from any steamboat, vessel, or wharf, or from any aircraft, air cargo container, air terminal, airport, aircraft terminal or air navigation facility, or from any intermodal container, trailer, container freight station, warehouse, or freight consolidation facility, with intent to convert to his own use any goods or chattels moving as or which are a part of or which constitute an interstate or foreign shipment of freight, express, or other property; or
 
 Whoever buys or receives or has in his possession any such goods or chattels, knowing the same to have been embezzled or stolen; or
 
@@ -8,17 +8,17 @@ Whoever embezzles, steals, or unlawfully takes, carries away, or by fraud or dec
 
 Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money, baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
 
-Shall in each case be fined under this title or imprisoned not more than ten years, or both; but if the amount or value of such money, baggage, goods or chattels does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both.
 
 The offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said money, baggage, goods, or chattels.
 
 The carrying or transporting of any such money, freight, express, baggage, goods, or chattels in interstate or foreign commerce, knowing the same to have been stolen, shall constitute a separate offense and subject the offender to the penalties under this section for unlawful taking, and the offense shall be deemed to have been committed in any district into which such money, freight, express, baggage, goods, or chattels shall have been removed or into which the same shall have been brought by such offender.
 
-To establish the interstate or foreign commerce character of any shipment in any prosecution under this section the waybill or other shipping document of such shipment shall be prima facie evidence of the place from which and to which such shipment was made. The removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property.
+To establish the interstate or foreign commerce character of any shipment in any prosecution under this section the waybill or other shipping document of such shipment shall be prima facie evidence of the place from which and to which such shipment was made. For purposes of this section, goods and chattel shall be construed to be moving as an interstate or foreign shipment at all points between the point of origin and the final destination (as evidenced by the waybill or other shipping document of the shipment), regardless of any temporary stop while awaiting transshipment or otherwise. The removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property.
 
 A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §13, 63 Stat. 91; Pub. L. 89–654, §1(a)–(d), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §13, 63 Stat. 91; Pub. L. 89–654, §1(a)–(d), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 109–177, title III, §307(a), Mar. 9, 2006, 120 Stat. 240.)
 
 #### Historical and Revision Notes
 
@@ -46,11 +46,17 @@ The “corrective legislation”, referred to in this paragraph, became Act Apri
 
 #### Amendments
 
+2006—Pub. L. 109–177, in first par., inserted “trailer,” after “motortruck,”, “air cargo container,” after “aircraft,”, and “, or from any intermodal container, trailer, container freight station, warehouse, or freight consolidation facility,” after “air navigation facility”, in fifth par., substituted “be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both” for “in each case be fined under this title or imprisoned not more than ten years, or both; but if the amount or value of such money, baggage, goods or chattels does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both”, and, in eighth par., inserted “For purposes of this section, goods and chattel shall be construed to be moving as an interstate or foreign shipment at all points between the point of origin and the final destination (as evidenced by the waybill or other shipping document of the shipment), regardless of any temporary stop while awaiting transshipment or otherwise.” after first sentence.
+
 1996—Pub. L. 104–294 substituted “$1,000” for “$100” in fifth par.
 
 1994—Pub. L. 103–322, in fifth par., substituted “fined under this title” for “fined not more than $5,000” after “Shall in each case be” and for “fined not more than $1,000” after “he shall be”.
 
-1966—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in section catchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in par. 1, provided in par. 8 that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in par. 9, prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
+1966—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in section catchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in first par., provided in eighth par. that the removal of propertyfrom a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in ninth par., prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
 
 1949—Act May 24, 1949, inserted “embezzled or” before “stolen” in second par., and substituted “whoever” for “who” before “buys” in fourth par.
+
+#### Annual Report of Law Enforcement Activities
+
+Pub. L. 109–177, title III, §307(d), Mar. 9, 2006, 120 Stat. 240, provided that: “The Attorney General shall annually submit to Congress a report, which shall include an evaluation of law enforcement activities relating to the investigation and prosecution of offenses under section 659 of title 18, United States Code, as amended by this title.”
 

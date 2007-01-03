@@ -1,6 +1,6 @@
 ### §1323. Modification of plan before confirmation
 
-(a) The debtor may modify the plan at any time before confirmation, but may not modifythe plan so that the plan as modified fails to meet the requirements of section 1322 of this title.
+(a) The debtor may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of section 1322 of this title.
 
 (b) After the debtor files a modification under this section, the plan as modified becomes the plan.
 

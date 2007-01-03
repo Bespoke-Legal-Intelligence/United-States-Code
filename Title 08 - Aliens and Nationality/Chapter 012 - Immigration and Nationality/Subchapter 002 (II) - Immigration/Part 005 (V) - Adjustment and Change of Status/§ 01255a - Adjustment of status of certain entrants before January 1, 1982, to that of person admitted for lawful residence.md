@@ -56,7 +56,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(C) has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
 
-&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 App.U.S.C. 451 et seq.\], if the alien is required to be so registered under that Act.
+&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 U.S.C. App. 451 et seq.\], if the alien is required to be so registered under that Act.
 
 > &emsp;For purposes of this subsection, an alien in the status of a Cuban and Haitian entrant described in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1522 note\] shall be considered to have entered the United States and to be in an unlawful status in the United States.
 
@@ -126,7 +126,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Authorization of employment
 
-&emsp;&emsp;The Attorney General shall grant the alien authorization to engage in employment in the United States and provide to that alien an “employment authorized” endorsement or other appropriate work permit.
+&emsp;&emsp;The Attorney General shall grant the alien authorization to engage in employment inthe United States and provide to that alien an “employment authorized” endorsement or other appropriate work permit.
 
 #### (c) Applications for adjustment of status
 
@@ -202,7 +202,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Use of fees
 
-&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal yearlimitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
+&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
 
 #### (C) Immigration-related unfair employment practices
 
@@ -266,7 +266,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) may not be deported, and
 
-&emsp;&emsp;(B) shall be granted authorization to engage in employment in the United States and be provided an “employment authorized” endorsement or other appropriate work permit.
+&emsp;&emsp;(B) shall be granted authorization to engage in employment in the United Statesand be provided an “employment authorized” endorsement or other appropriate work permit.
 
 #### (f) Administrative and judicial review
 
@@ -276,7 +276,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) No review for late filings
 
-&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State orreviewed in any administrative proceeding of the United States Government.
+&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State or reviewed in any administrative proceeding of the United States Government.
 
 #### (3) Administrative review
 
@@ -352,7 +352,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) except as provided in paragraphs (2) and (3), the alien is not eligible for—
 
-&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departmentsand agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
+&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departments and agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
 
 &emsp;&emsp;&emsp;(ii) medical assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], and
 
@@ -408,7 +408,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(B) The Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
-&emsp;&emsp;(C) The Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\].
+&emsp;&emsp;(C) The The <sup>1</sup> Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\].
 
 &emsp;&emsp;(D) Title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
@@ -420,17 +420,17 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(H) The Public Health Service Act \[42 U.S.C. 201 et seq.\].
 
-&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
+&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq.,1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
 
 #### (5) Adjustment not affecting Fascell-Stone benefits
 
-&emsp;For the purpose of section 501 of the Refugee Education Assistance Act of 1980 (Public Law 96–122) <sup>1</sup> \[8 U.S.C. 1255 note\], assistance shall be continued under such section with respect to an alien without regard to the alien's adjustment of status under this section.
+&emsp;For the purpose of section 501 of the Refugee Education Assistance Act of 1980 (Public Law 96–122) <sup>2</sup> \[8 U.S.C. 1255 note\], assistance shall be continued under such section with respect to an alien without regard to the alien's adjustment of status under this section.
 
 #### (i) Dissemination of information on legalization program
 
 Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(<i>l</i>)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169.)
+(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(<i>l</i>)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746.)
 
 #### References in Text
 
@@ -456,7 +456,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (h)(4)(
 
 The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -464,7 +464,7 @@ The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V o
 
 The Workforce Investment Act of 1998, referred to in subsec. (h)(4)(F), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C\(§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -473,6 +473,8 @@ The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 
 A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
+
+2006—Subsec. (h)(4)(C). Pub. L. 109–270 substituted “The Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
 1999—Subsec. (h)(4)(A). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
@@ -700,7 +702,7 @@ Section 202 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(i), Oct. 2
 
 #### State Legalization Impact-Assistance Grants
 
-Section 204 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L. 103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, related to State legalization impact-assistance grants and appropriation of funds, prior to repeal by Pub. L. 105–220, title I, §199(a)(1), Aug. 7, 1998, 112 Stat. 1058.
+Section 204 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L.103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, related to State legalization impact-assistance grants and appropriation of funds, prior to repeal by Pub. L. 105–220, title I, §199(a)(1), Aug. 7, 1998, 112 Stat. 1058.
 
 #### Application of Certain State Assistance Provisions
 
@@ -736,5 +738,7 @@ Second Report on Impact of Legalization Program.—The second report, which shal
 
 \[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Secretary of Homeland Security and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, as amended, set out as a note under section 1364 of this title.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(Public Law 96–422)”.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(Public Law 96–422)”.</i>
 

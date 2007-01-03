@@ -56,5 +56,5 @@ Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: “Congress 
 
 #### Report to Congress
 
-Pub. L. 107–84, §6, Dec. 18, 2001, 115 Stat. 829, provided that: “Not later than January 1, 2003, and each January 1 thereafter, the Secretary \[of Health and Human Services\] shall prepare and submit to the appropriate committees of Congress, a report concerning the implementation of this Act \[see Short Title of 2001 Amendment note set out under section 201 of this title\] and the amendments made by this Act.”
+Pub. L. 107–84, §6, Dec. 18, 2001, 115 Stat. 829, which directed the Secretary of Health and Human Services to prepare and submit to appropriate committees of Congress a report concerning the implementation of Pub. L. 107–84 not later than Jan. 1, 2003, and each Jan. 1 thereafter, was repealed by Pub. L. 109–482, title I, §104(b)(3)(H), Jan. 15, 2007, 120 Stat. 3694.
 

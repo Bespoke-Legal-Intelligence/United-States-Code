@@ -34,11 +34,11 @@ Not later than April 1 of each year, the President shall submit a report to the 
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–277, which directed the substitution of “Not later than April 1 of each year,” for “Not later than April 1, 1993 and every six months thereafter,” was executed by making the substitution for text which contained a comma after “1993” to reflect the probable intent of Congress.
+1998—Subsec. (c). Pub. L. 105–277, which directed the substitution of “Not later than April 1 of each year,” for “Not later than April 1, 1993 and every six months thereafter,” was executed by making the substitutionfor text which contained a comma after “1993” to reflect the probable intent of Congress.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Delegation of Authority With Respect to Reports to Congress Concerning Progress Toward Nonproliferation in South Asia
 

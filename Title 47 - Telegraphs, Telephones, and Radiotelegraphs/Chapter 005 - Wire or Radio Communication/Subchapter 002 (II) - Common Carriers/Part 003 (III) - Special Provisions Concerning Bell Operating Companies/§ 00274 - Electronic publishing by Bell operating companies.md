@@ -76,7 +76,7 @@ A Bell operating company under common ownership or control with a separated affi
 
 #### (2) Cease and desist orders
 
-&emsp;In addition to the provisions of paragraph (1), any person claiming that any act or practice of any Bell operating company, affiliate, or separated affiliate constitutes a violation ofthis section may make application to the Commission for an order to cease and desist such violation or may make application in any district court of the United States of competent jurisdiction for an order enjoining such acts or practices or for an order compelling compliance with such requirement.
+&emsp;In addition to the provisions of paragraph (1), any person claiming that any act or practice of any Bell operating company, affiliate, or separated affiliate constitutes a violation of this section may make application to the Commission for an order to cease and desist such violation or may make application in any district court of the United States of competent jurisdiction for an order enjoining such acts or practices or for an order compelling compliance with such requirement.
 
 #### (f) Separated affiliate reporting requirement
 
@@ -152,7 +152,7 @@ As used in this section—
 
 &emsp;(6) The term “entity” means any organization, and includes corporations, partnerships, sole proprietorships, associations, and joint ventures.
 
-&emsp;(7) The term “inbound telemarketing” means the marketing of property, goods, orservices by telephone to a customer or potential customer who initiated the call.
+&emsp;(7) The term “inbound telemarketing” means the marketing of property, goods, or services by telephone to a customer or potential customer who initiated the call.
 
 &emsp;(8) The term “own” with respect to an entity means to have a direct or indirect equity interest (or the equivalent thereof) of more than 10 percent of an entity, or the right to more than 10 percent of the gross revenues of an entity under a revenue sharing or royalty agreement.
 

@@ -4,9 +4,9 @@
 
 (b) Unless otherwise provided by Act of Congress, whenever a forfeiture of property is prescribed as a penalty for violation of an Act of Congress and the seizure takes place on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States, such forfeiture may be enforced by libel in admiralty but in cases of seizures on land the forfeiture may be enforced by a proceeding by libel which shall conform as near as may be to proceedings in admiralty.
 
-(c) If a forfeiture of property is authorized in connection with a violation of an Act of Congress, and any person is charged in an indictment or information with such violation but no specific statutory provision is made for criminal forfeiture upon conviction, the Government may include the forfeiture in the indictment or information in accordance with the Federal Rules of Criminal Procedure, and upon conviction, the court shall order the forfeiture of the property in accordance with the procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section.
+(c) If a person is charged in a criminal case with a violation of an Act of Congress for which the civil or criminal forfeiture of property is authorized, the Government may include notice of the forfeiture in the indictment or information pursuant to the Federal Rules of Criminal Procedure. If the defendant is convicted of the offense giving rise to the forfeiture, the court shall order the forfeiture of the property as part of the sentence in the criminal case pursuant to to <sup>1</sup> the Federal Rules of Criminal Procedure and section 3554 of title 18, United States Code. The procedures in section 413 of the Controlled Substances Act (21 U.S.C. 853) apply to all stages of a criminal forfeiture proceeding, except that subsection (d) of such section applies only in cases in which the defendant is convicted of a violation of such Act.
 
-(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 106–185, §16, Apr. 25, 2000, 114 Stat. 221.)
+(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 106–185, §16, Apr. 25, 2000, 114 Stat. 221; Pub. L. 109–177, title IV, §410, Mar. 9, 2006, 120 Stat. 246.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ Forfeiture of bail bonds in criminal cases are enforceable by procedure set out 
 
 If the statute contemplates a criminal fine, it can only be recovered in a criminal proceeding under the Federal Rules of Criminal Procedure, after a conviction. The collection of civil fines and penalties, however, may not be had under the Federal Rules of Criminal Procedure, Rule 54(b)(5), but enforcement of a criminal fine imposed in a criminal case may be had by execution on the judgment rendered in such case, as in civil actions. (See section 569 of title 18, U.S.C., 1940 ed., Crimes and Criminal Procedure, incorporated in section 3565 of H.R. 1600, 80th Congress, for revision of the Criminal Code. See also Rule 69 of Federal Rules of Civil Procedure and Advisory Committee Note thereunder, as to execution in civil actions.)
 
-Subsection (b) was drafted to cover the subject of forfeiture of property generally. Sections in the UnitedStates Code specifically providing a mode of enforcement of forfeiture of property for their violation and other procedural matters will, of course, govern and subsection (b) will not affect them. It will only cover cases where no mode of recovery is prescribed.
+Subsection (b) was drafted to cover the subject of forfeiture of property generally. Sections in the United States Code specifically providing a mode of enforcement of forfeiture of property for their violation and other procedural matters will, of course, govern and subsection (b) will not affect them. It will only cover cases where no mode of recovery is prescribed.
 
 Words “Unless otherwise provided by enactment of Congress” were inserted at the beginning of subsection (b) to exclude from its application instances where a libel in admiralty is not required. For example, under sections 1607, 1609, and 1610 of title 19, U.S.C., 1940 ed., Customs Duties, the collector of customs may, by summary procedure, sell at public auction, without previous declaration of forfeiture or libel proceedings, any vessel, etc., under $1,000 in value in cases where no claim for the same is filed or bond given as required by customs laws.
 
@@ -30,7 +30,11 @@ Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rule
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
+The Controlled Substances Act, referred to in subsec. (c), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–177 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If a forfeiture of property is authorized in connection with a violation of an Act of Congress, and any person is charged in an indictment or information with such violation but no specific statutory provision is made for criminal forfeiture upon conviction, the Government may include the forfeiture in the indictment or information in accordance with the Federal Rules of Criminal Procedure, and upon conviction, the court shall order the forfeiture of the property in accordance with the procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section.”
 
 2000—Subsec. (c). Pub. L. 106–185 added subsec. (c).
 
@@ -127,4 +131,6 @@ Definition.—For purposes of subsection (a), the term ‘cost-of-living adjustm
 \[Pub. L. 104–134, title III, §31001(s)(2), Apr. 26, 1996, 110 Stat. 1321–373, provided that: “The first adjustment of a civil monetary penalty made pursuant to the amendment made by paragraph (1) \[amending Pub. L. 101–410, set out above\] may not exceed 10 percent of such penalty.”\]
 
 \[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.\]
+
+<i><sup>1</sup></i><i> So in original.</i>
 

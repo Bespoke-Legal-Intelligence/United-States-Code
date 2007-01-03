@@ -50,7 +50,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 (C) Easements issued under the authority of this subsection shall include all changes or modifications to the original facilities in existence as of October 21, 1976, the date of enactment of this Act.
 
-(D) Any future extension or enlargement of facilities after October 21, 1976, shall require theissuance of a separate authorization, not authorized under this subsection.
+(D) Any future extension or enlargement of facilities after October 21, 1976, shall require the issuance of a separate authorization, not authorized under this subsection.
 
 (3)(A) Except as otherwise provided in this subsection, the Secretary of Agriculture may terminate or suspend an easement issued pursuant to this subsection in accordance with the procedural and other provisions of section 1766 of this title. An easement issued pursuant to this subsection shall terminate if the water system for which such easement was issued is used for any purpose other than agricultural irrigation or livestock watering use. For purposes of subparagraph (D) of paragraph (1) of this subsection, non-use of a water system for agricultural irrigation or livestock watering purposes for any continuous five-year period shall constitute a rebuttable presumption of abandonment of the facilities comprising such system.
 

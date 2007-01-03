@@ -56,7 +56,7 @@
 
 #### (5) Regulations required
 
-&emsp;Before the end of the 270-day period beginning on November 12, 1999, the Comptroller ofthe Currency shall, by regulation, prescribe procedures to implement this section.
+&emsp;Before the end of the 270-day period beginning on November 12, 1999, the Comptroller of the Currency shall, by regulation, prescribe procedures to implement this section.
 
 #### (6) Indexed asset limit
 
@@ -134,7 +134,7 @@
 
 &emsp;In determining compliance with applicable capital standards—
 
-&emsp;&emsp;(A) the aggregate amount of the outstanding equity investment, including retainedearnings, of a national bank in all financial subsidiaries shall be deducted from the assets and tangible equity of the national bank; and
+&emsp;&emsp;(A) the aggregate amount of the outstanding equity investment, including retained earnings, of a national bank in all financial subsidiaries shall be deducted from the assets and tangible equity of the national bank; and
 
 &emsp;&emsp;(B) the assets and liabilities of the financial subsidiaries shall not be consolidated with those of the national bank.
 
@@ -206,7 +206,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) engages solely in activities that national banks are permitted to engage in directly and are conducted subject to the same terms and conditions that govern the conduct of such activities by national banks; or
 
-&emsp;&emsp;(B) a national bank is specifically authorized by the express terms of a Federal statute (other than this section), and not by implication or interpretation, to control, such as by section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\] or the Bank Service Company Act \[12 U.S.C. 1861 et seq.\].
+&emsp;&emsp;(B) a national bank is specifically authorized by the express terms of a Federal statute (other than this section), and not by implication or interpretation, to control, such as by section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\] orthe Bank Service Company Act \[12 U.S.C. 1861 et seq.\].
 
 #### (4) Eligible debt
 

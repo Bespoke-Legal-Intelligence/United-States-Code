@@ -20,9 +20,9 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004) | 2\.20 | 2\.40 | NA |
 |  |  |  |  |
-| \(A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2011) | 2\.15 | 2\.40 | NA |
+| (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2011) | 2\.15 | 2\.40 | NA |
 |  |  |  |  |
-| (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) | 1\.40 | 1\.65 | NA |
+| \(A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) | 1\.40 | 1\.65 | NA |
 |  |  |  |  |
 | (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before January 1, 2004) | 3\.00 | 3\.00 | NA |
 |  |  |  |  |
@@ -38,7 +38,7 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2011) | 1\.25 | 1\.50 | NA |
 |  |  |  |  |
-| \(D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) | 0\.50 | 0\.75 | NA |
+| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) | 0\.50 | 0\.75 | NA |
 |  |  |  |  |
 | (E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
 |  |  |  |  |
@@ -46,7 +46,7 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) | 1\.00 | 1\.00 | NA |
 |  |  |  |  |
-| (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1\.25 | 1\.25 | NA |
+| \(H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1\.25 | 1\.25 | NA |
 |  |  |  |  |
 | (I) Loan assumption under section 3714 | 0\.50 | 0\.50 | 0\.50 |
 |  |  |  |  |
@@ -182,7 +182,7 @@ Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665, provided that
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–14, §8(b), June 5, 2001, 115 Stat. 34, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
+Pub. L. 107–14, §8(b), June 5, 2001, 115 Stat. 36, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
 
 #### Effective Date of 1998 Amendment
 
@@ -205,6 +205,10 @@ Section 2511(c) of Pub. L. 98–369 provided that:
 #### Effective Date
 
 Section 406(b) of Pub. L. 97–253, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Section 1829 \[now 3729\] of title 38, United States Code, as added by subsection (a), shall apply only to loans closed after September 30, 1982.”
+
+#### Temporary Increase in Certain Housing Loan Fees
+
+Pub. L. 109–233, title I, §101(f), June 15, 2006, 120 Stat. 399, provided that: “For a subsequent loan described in subsection (a) of section 3710 of title 38, United States Code, to purchase or construct a dwelling with 0-down or any other subsequent loan described in that subsection, other than a loan with 5-down or 10-down, that is closed during fiscal year 2007, the Secretary of Veterans Affairs shall apply section 3729(b)(2) of such title by substituting ‘3.35’ for ‘3.30’.”
 
 #### Fee for Loan Assumption
 

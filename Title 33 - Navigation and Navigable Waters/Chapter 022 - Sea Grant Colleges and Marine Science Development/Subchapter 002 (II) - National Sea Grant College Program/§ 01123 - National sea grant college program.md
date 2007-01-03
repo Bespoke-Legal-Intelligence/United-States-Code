@@ -48,7 +48,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;(A) facilitate and coordinate the development of a long-range strategic plan under subsection (c)(1) of this section;
 
-&emsp;(B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of suchexpertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
+&emsp;(B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of such expertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
 
 &emsp;(C) advise the Secretary on the designation of sea grant colleges and sea grant institutes, and, if appropriate, on the termination or suspension of any such designation; and
 

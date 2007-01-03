@@ -10,7 +10,7 @@ Protection Order.—A protection order issued by a State, tribal, or territorial
 
 &emsp;(1) such court has jurisdiction over the parties and matter under the law of such State, Indian tribe, or territory; and
 
-&emsp;(2) reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process. In the case of ex parte orders, notice and opportunity to be heard must be provided within the time required by State, tribal, or territorial law, and in any event within a reasonable time afterthe order is issued, sufficient to protect the respondent's due process rights.
+&emsp;(2) reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process. In the case of ex parte orders, notice and opportunity to be heard must be provided within the time required by State, tribal, or territorial law, and in any event within a reasonable time after the order is issued, sufficient to protect the respondent's due process rights.
 
 (c)
 
@@ -34,13 +34,13 @@ No prior registration or filing as prerequisite for enforcement.—Any protectio
 
 &emsp;(3)
 
-Limits on internet publication of registration information.—A State, Indian tribe, or territory shall not make available publicly on the Internet any information regarding the registration or filing of a protection order, restraining order, or injunction in either the issuing or enforcing State, tribal or territorial jurisdiction, if such publication would be likely to publicly reveal the identity or location of the party protected under such order. A State, Indian tribe, or territory may share court-generated and law enforcement-generated information contained in secure, governmental registries for protection order enforcement purposes.
+Limits on internet publication of registration information.—A State, Indian tribe, or territory shall not make available publicly on the Internet any information regarding the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction, restraining order, or injunction in either the issuing or enforcing State, tribal or territorial jurisdiction, if such publication would be likely to publicly reveal the identity or location of the party protected under such order. A State, Indian tribe, or territory may share court-generated and law enforcement-generated information contained in secure, governmental registries for protection order enforcement purposes.
 
 (e)
 
 Tribal Court Jurisdiction.—For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, §1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, §106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982.)
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, §1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, §106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982; Pub. L. 109–271, §2(n), Aug. 12, 2006, 120 Stat. 754.)
 
 #### Amendments
 
@@ -58,7 +58,9 @@ Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted “, Indian tribe, or 
 
 Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
 
-Subsec. (d)(3). Pub. L. 109–162, §106(c), added par. (3).
+Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting “the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction” for “the registration or filing of a protection order”, was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
+
+Pub. L. 109–162, §106(c), added par. (3).
 
 2000—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
 

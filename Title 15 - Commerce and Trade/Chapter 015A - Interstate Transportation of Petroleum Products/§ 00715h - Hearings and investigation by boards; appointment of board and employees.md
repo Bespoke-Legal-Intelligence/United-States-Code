@@ -6,7 +6,7 @@ Any board established under authority of section 715d of this title, and any age
 
 #### (b) Appointments
 
-The members of any board established under authority of section 715d of this title shall be appointed by the President, subject to chapter 51 and subchapter III of chapter 53 of title 5; and any such board may appoint, subject to chapter51 and subchapter III of chapter 53 of title 5, such employees as may be necessary for the execution of its functions under this chapter.
+The members of any board established under authority of section 715d of this title shall be appointed by the President, subject to chapter 51 and subchapter III of chapter 53 of title 5; and any such board may appoint, subject to chapter 51 and subchapter III of chapter 53 of title 5, such employees as may be necessary for the execution of its functions under this chapter.
 
 (Feb. 22, 1935, ch. 18, §9, 49 Stat. 33; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
 

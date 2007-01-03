@@ -20,7 +20,7 @@ In this chapter:
 
 #### (4) Chief Executive Officer
 
-&emsp;The term “Chief Executive Officer” means the chief executive officer of the Corporationappointed pursuant to section 7703(b) of this title.
+&emsp;The term “Chief Executive Officer” means the chief executive officer of the Corporation appointed pursuant to section 7703(b) of this title.
 
 #### (5) Compact
 

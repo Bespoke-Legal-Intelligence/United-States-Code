@@ -74,7 +74,7 @@ Section 312(m) of Pub. L. 103–296 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
 
 “(2)
 

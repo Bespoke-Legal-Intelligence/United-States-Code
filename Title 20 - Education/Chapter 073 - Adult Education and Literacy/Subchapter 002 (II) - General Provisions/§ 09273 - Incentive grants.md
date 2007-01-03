@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beginning on July 1, 2000, the Secretary shall award a grant to each State that exceeds the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the adjusted levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 105–332 (20 U.S.C. 2301 et seq.), for the purpose of carrying out an innovative program consistent with the requirements of any one ormore of the programs within title I, title II, or such Public Law, respectively.
+Beginning on July 1, 2000, the Secretary shall award a grant to each State that exceeds the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the adjusted levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 105–332 (20 U.S.C. 2301 et seq.),<sup>1</sup> for the purpose of carrying out an innovative program consistent with the requirements of any one or more of the programs within title I, title II, or such Public Law, respectively.
 
 #### (b) Application
 
@@ -16,9 +16,9 @@ Beginning on July 1, 2000, the Secretary shall award a grant to each State that 
 
 &emsp;&emsp;(A) The legislature of the State was consulted with respect to the development of the application.
 
-&emsp;&emsp;(B) The application was approved by the Governor, the eligible agency (as defined in section 9202 of this title), and the State agency responsible for programs established under Public Law 105–332 (20 U.S.C. 2301 et seq.).
+&emsp;&emsp;(B) The application was approved by the Governor, the eligible agency (as defined in section 9202 of this title), and the State agency responsible for programs established under Public Law 105–332 (20 U.S.C. 2301 et seq.).<sup>1</sup>
 
-&emsp;&emsp;(C) The State and the eligible agency, as appropriate, exceeded the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the expected levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 105–332 (20 U.S.C. 2301 et seq.).
+&emsp;&emsp;(C) The State and the eligible agency, as appropriate, exceeded the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the expected levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 105–332 (20 U.S.C. 2301 et seq.).<sup>1</sup>
 
 #### (c) Amount
 
@@ -32,7 +32,7 @@ Beginning on July 1, 2000, the Secretary shall award a grant to each State that 
 
 #### (d) Expected levels of performance as consideration
 
-Notwithstanding any other provision of this section, for fiscal year 2000, the Secretary shall not consider the expected levels of performance under Public Law 105–332 (20 U.S.C. 2301 et seq.) and shall not award a grant under subsection (a) of this section based on the levels of performance for that Act.
+Notwithstanding any other provision of this section, for fiscal year 2000, the Secretary shall not consider the expected levels of performance under Public Law 105–332 (20 U.S.C. 2301 et seq.) <sup>1</sup> and shall not award a grant under subsection (a) of this section based on the levels of performance for that Act.
 
 (Pub. L. 105–220, title V, §503, Aug. 7, 1998, 112 Stat. 1244; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(f)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417; Pub. L. 106–246, div. B, title II, §2403(a)(1), July 13, 2000, 114 Stat. 555.)
 
@@ -51,4 +51,6 @@ Public Law 105–332 (20 U.S.C. 2301 et seq.), referred to in subsecs. (a), (b)(
 Subsec. (d). Pub. L. 106–246, §2403(a)(1)(B), added subsec. (d).
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “adjusted” for “expected” before “levels of performance for title II”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ All cases of criminal contempt arising under the provisions of subchapters I–A
 
 #### (b) Jurisdiction of courts for declaratory judgment, restraining orders, or temporary or permanent injunction
 
-No court other than the District Court for the District of Columbia or a court of appeals in any proceeding under section 1973g of this title shall have jurisdiction to issue any declaratory judgment pursuant to section 1973b or 1973c of this title or any restraining order or temporary or permanent injunction against the execution or enforcement of any provision of subchapters I–Ato I–C of this chapter or any action of any Federal officer or employee pursuant hereto.
+No court other than the District Court for the District of Columbia shall have jurisdiction to issue any declaratory judgment pursuant to section 1973b or 1973c of this title or any restraining order or temporary or permanent injunction against the execution or enforcement of any provision of subchapters I–A to I–C of this chapter or any action of any Federal officer or employee pursuant hereto.
 
 #### (c) Definitions
 
@@ -22,11 +22,15 @@ In any action for a declaratory judgment brought pursuant to section 1973b or 19
 
 #### (e) Attorney's fees
 
-In any action or proceeding to enforce the voting guarantees of the fourteenth or fifteenth amendment, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs.
+In any action or proceeding to enforce the voting guarantees of the fourteenth or fifteenth amendment, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee, reasonable expert fees, and other reasonable litigation expenses as part of the costs.
 
-(Pub. L. 89–110, title I, §14, Aug. 6, 1965, 79 Stat. 445; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 94–73, title II, §207, title IV, §402, Aug. 6, 1975, 89 Stat. 402, 404.)
+(Pub. L. 89–110, title I, §14, Aug. 6, 1965, 79 Stat. 445; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 94–73, title II, §207, title IV, §402, Aug. 6, 1975, 89 Stat. 402, 404; Pub. L. 109–246, §§3(e)(3), 6, July 27, 2006, 120 Stat. 580, 581.)
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–246, §3(e)(3), struck out “or a court of appeals in any proceeding under section 1973g of this title” after “District of Columbia”.
+
+Subsec. (e). Pub. L. 109–246, §6, inserted “, reasonable expert fees, and other reasonable litigation expenses” after “reasonable attorney's fee”.
 
 1975—Subsec. (c)(3). Pub. L. 94–73, §207, added par. (3).
 

@@ -30,7 +30,3 @@ Historical and Revision Notes
 
 Section 10903 provides for marine surveyors appointed by a judge or justice of the peace to inspect a vessel on which a complaint of unfitness was made, for a judge or justice of the peace to judge the fitness based on the findings, and for the payment of costs of the inspection by the master or the crew. It also includes a penalty for noncompliance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10904 of this title.
-

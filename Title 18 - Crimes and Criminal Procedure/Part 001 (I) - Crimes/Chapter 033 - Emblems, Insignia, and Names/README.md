@@ -9,6 +9,7 @@
 | [704\.](%C2%A7%2000704%20-%20Military%20medals%20or%20decorations.md) | Military medals or decorations. |
 | [705\.](%C2%A7%2000705%20-%20Badge%20or%20medal%20of%20veterans%E2%80%99%20organizations.md) | Badge or medal of veterans’ organizations. |
 | [706\.](%C2%A7%2000706%20-%20Red%20Cross.md) | Red Cross. |
+| [706a.](%C2%A7%2000706a%20-%20Geneva%20distinctive%20emblems.md) | Geneva distinctive emblems. |
 | [707\.](%C2%A7%2000707%20-%204%E2%80%93H%20club%20emblem%20fraudulently%20used.md) | 4–H Club emblem fraudulently used.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,6 +30,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 109–481, §2(b), Jan. 12, 2007, 120 Stat. 3674, added item 706a.
 
 2006—Pub. L. 109–162, title XI, §1191(b), Jan. 5, 2006, 119 Stat. 3129, substituted “Public employee insignia and uniform” for “Police badges” in item 716.
 
@@ -78,6 +81,7 @@
 - [&sect; 00704 - Military medals or decorations](%C2%A7%2000704%20-%20Military%20medals%20or%20decorations.md)
 - [&sect; 00705 - Badge or medal of veterans&#8217; organizations](%C2%A7%2000705%20-%20Badge%20or%20medal%20of%20veterans%E2%80%99%20organizations.md)
 - [&sect; 00706 - Red Cross](%C2%A7%2000706%20-%20Red%20Cross.md)
+- [&sect; 00706a - Geneva distinctive emblems](%C2%A7%2000706a%20-%20Geneva%20distinctive%20emblems.md)
 - [&sect; 00707 - 4&#8211;H club emblem fraudulently used](%C2%A7%2000707%20-%204%E2%80%93H%20club%20emblem%20fraudulently%20used.md)
 - [&sect; 00708 - Swiss Confederation coat of arms](%C2%A7%2000708%20-%20Swiss%20Confederation%20coat%20of%20arms.md)
 - [&sect; 00709 - False advertising or misuse of names to indicate Federal agency](%C2%A7%2000709%20-%20False%20advertising%20or%20misuse%20of%20names%20to%20indicate%20Federal%20agency.md)

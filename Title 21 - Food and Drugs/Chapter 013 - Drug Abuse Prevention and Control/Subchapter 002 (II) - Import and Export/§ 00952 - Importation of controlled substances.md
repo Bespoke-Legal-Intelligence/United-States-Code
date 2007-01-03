@@ -2,9 +2,9 @@
 
 #### (a) Controlled substances in schedule I or II and narcotic drugs in schedule III, IV, or V; exceptions
 
-It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United Statesfrom any place outside thereof, any controlled substance in schedule I or II of subchapter I of this chapter, or any narcotic drug in schedule III, IV, or V of subchapter I of this chapter, except that—
+It shall be unlawful to import into the customs territory of the United States from anyplace outside thereof (but within the United States), or to import into the United States from any place outside thereof, any controlled substance in schedule I or II of subchapter I of this chapter, or any narcotic drug in schedule III, IV, or V of subchapter I of this chapter, or ephedrine, pseudoephedrine, or phenylpropanolamine, except that—
 
-&emsp;(1) such amounts of crude opium, poppy straw, concentrate of poppy straw, and coca leaves as the Attorney General finds to be necessary to provide for medical, scientific, or other legitimate purposes, and
+&emsp;(1) such amounts of crude opium, poppy straw, concentrate of poppy straw, and coca leaves, and of ephedrine, pseudoephedrine, and phenylpropanolamine, as the Attorney General finds to be necessary to provide for medical, scientific, or other legitimate purposes, and
 
 &emsp;(2) such amounts of any controlled substance in schedule I or II or any narcotic drug in schedule III, IV, or V that the Attorney General finds to be necessary to provide for the medical, scientific, or other legitimate needs of the United States—
 
@@ -28,13 +28,35 @@ It shall be unlawful to import into the customs territory of the United States f
 
 In addition to the amount of coca leaves authorized to be imported into the United States under subsection (a) of this section, the Attorney General may permit the importation of additional amounts of coca leaves. All cocaine and ecgonine (and all salts, derivatives, and preparations from which cocaine or ecgonine may be synthesized or made) contained in such additional amounts of coca leaves imported under this subsection shall be destroyed under the supervision of an authorized representative of the Attorney General.
 
-(Pub. L. 91–513, title III, §1002, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 95–633, title I, §105, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§519–521, Oct. 12, 1984, 98 Stat. 2075.)
+#### (d) Application for increased importation of ephedrine, pseudoephedrine, or phenylpropanolamine
+
+(1) With respect to a registrant under section 958 of this title who is authorized under subsection (a)(1) to import ephedrine, pseudoephedrine, or phenylpropanolamine, at any time during the year the registrant may apply for an increase in the amount of such chemical that the registrant is authorized to import, and the Attorney General may approve the application if the Attorney General determines that the approval is necessary to provide for medical, scientific, or other legitimate purposes regarding the chemical.
+
+(2) With respect to the application under paragraph (1):
+
+&emsp;(A) Not later than 60 days after receiving the application, the Attorney General shall approve or deny the application.
+
+&emsp;(B) In approving the application, the Attorney General shall specify the period of time for which the approval is in effect, or shall provide that the approval is effective until the registrant involved is notified in writing by the Attorney General that the approval is terminated.
+
+&emsp;(C) If the Attorney General does not approve or deny the application before the expiration of the 60-day period under subparagraph (A), the application is deemed to be approved, and such approval remains in effect until the Attorney General notifies the registrant in writing that the approval is terminated.
+
+#### (e) Reference to ephedrine, pseudoephedrine, or phenylpropanolamine
+
+Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
+
+(Pub. L. 91–513, title III, §1002, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 95–633, title I, §105, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§519–521, Oct. 12, 1984, 98 Stat. 2075; Pub. L. 109–177, title VII, §715, Mar. 9, 2006, 120 Stat. 264.)
 
 #### References in Text
 
 Schedules I, II, III, IV, and V, referred to in subsecs. (a) and (b), are set out in section 812(c) of this title.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–177, §715(1)(A), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine,” after “schedule III, IV, or V of subchapter I of this chapter,” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 109–177, §715(1)(B), inserted “, and of ephedrine, pseudoephedrine, and phenylpropanolamine,” after “coca leaves”.
+
+Subsecs. (d), (e). Pub. L. 109–177, §715(2), added subsecs. (d) and (e).
 
 1984—Subsec. (a)(1). Pub. L. 98–473, §519, amended par. (1) generally, inserting references to poppy straw and concentrate of poppy straw.
 

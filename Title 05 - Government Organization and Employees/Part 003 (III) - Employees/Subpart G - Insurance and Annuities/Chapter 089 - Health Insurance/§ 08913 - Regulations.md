@@ -12,7 +12,7 @@
 
 &emsp;(4) an employee who is employed on a temporary basis and is eligible under section 8906a(a).
 
-(c) The regulations of the Office shall provide for the beginning and ending dates of coverage of employees, annuitants, members of their families, and former spouses under health benefit plans. The regulations may permit the coverage to continue, exclusive of the temporary extension of coverage described by section 8902(g) of this title, until the end of the pay period in which an employee is separated from the service, or until the end of the month in which an annuitant or former spouse ceases to be entitledto annuity, and in case of the death of an employee or annuitant, may permit a temporary extension of the coverage of members of his family for not to exceed 90 days.
+(c) The regulations of the Office shall provide for the beginning and ending dates of coverage of employees, annuitants, members of their families, and former spouses under health benefit plans. The regulations may permit the coverage to continue, exclusive of the temporary extension of coverage described by section 8902(g) of this title, until the end of the pay period in which an employee is separated from the service, or until the end of the month in which an annuitant or former spouse ceases to be entitled to annuity, and in case of the death of an employee or annuitant, may permit a temporary extension of the coverage of members of his family for not to exceed 90 days.
 
 (d) The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this chapter to an individual named by section 8901(1)(H) of this title.
 

@@ -68,7 +68,7 @@
 
 (f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
-(2) The Secretary of Transportation may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(2) The Secretary of Homeland Security may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (3) In this subsection, the term “active duty” has the meaning given that term in section 101 of title 10.
 
@@ -104,7 +104,7 @@
 
 &emsp;(C) the Department of Justice for litigation.
 
-(5) Nontax claims referred or transferred under this section shall be serviced, collected, or compromised, or collection action thereon suspended or terminated, in accordance with otherwise applicable statutory requirements and authorities. Executive departments and agencies operating debt collection centers may enter into agreements with the Secretary of the Treasury to carry out the purposes of this subsection. The Secretary of the Treasury shall—
+(5) Nontax claims referred or transferred under this section shall be serviced, collected, or compromised, or collection action thereon suspended or terminated, in accordance with otherwise applicable statutory requirements and authorities. Executive departments and agencies operating debt collection centers may enter into agreements with the Secretary of the Treasuryto carry out the purposes of this subsection. The Secretary of the Treasury shall—
 
 &emsp;(A) maintain competition in carrying out this subsection;
 
@@ -186,7 +186,7 @@
 
 (5) This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes<br>1982
 
@@ -266,7 +266,7 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(d)(1)–(3); added Oct. 25, 1
 
 31 App.:952(d)(3).
 
-In subsection (f)(1), before clause (A), the word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the United States Code. The words “subsection (a) of this section, or under any other” are omitted as surplus. The word “law” is substituted for “statutory authority” to eliminate unnecessary words. In clause (A), the words “for the system of records” are omitted as surplus. In clause (C)(iii), the word “intended” is omittedas surplus. In clause (E)(ii), the words “as appropriate” and “any or all” are omitted as surplus. In clause (E)(iii), the words “all laws of the United States” are coextensive with and substituted for “the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) and any other Federal law”.
+In subsection (f)(1), before clause (A), the word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the United States Code. The words “subsection (a) of this section, or under any other” are omitted as surplus. The word “law” is substituted for “statutory authority” to eliminate unnecessary words. In clause (A), the words “for the system of records” are omitted as surplus. In clause (C)(iii), the word “intended” is omitted as surplus. In clause (E)(ii), the words “as appropriate” and “any or all” are omitted as surplus. In clause (E)(iii), the words “all laws of the United States” are coextensive with and substituted for “the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) and any other Federal law”.
 
 #### 1984 Act
 
@@ -279,6 +279,8 @@ Sections 502(7), 502(8), and 504(b) of the Federal Credit Reform Act of 1990, re
 The date of enactment of the Debt Collection Improvement Act of 1996, referred to in subsec. (i)(4)(A), is the date of enactment of section 31001 of Pub. L. 104–134, which was approved Apr. 26, 1996.
 
 #### Amendments
+
+2006—Subsec. (f)(2). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 1996—Subsec. (a). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
@@ -339,10 +341,6 @@ Subsec. (i). Pub. L. 104–134, §31001(p), added subsec. (i).
 #### Savings Provision
 
 Section 31001(n) of Pub. L. 104–134 provided that: “Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, \[former\] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act \[amending this section\].”
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Guidelines
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2016 of thistitle, a system for the direct funding and support of all Bureau-funded schools. Such system shall allot funds in accordance with section 2007 of this title. All amounts appropriated for distribution in accordance with this section shall be made available in accordance with paragraph (2).
+&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2016 of this title, a system for the direct funding and support of all Bureau-funded schools. Such system shall allot funds in accordance with section 2007 of this title. All amounts appropriated for distribution in accordance with this section shall be made available in accordance with paragraph (2).
 
 #### (2) Timing for use of funds
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iv) the documents relating to the acquisition executed by the supervisor of the school or other school staff cite this paragraph as authority for the acquisition; and
 
-&emsp;&emsp;&emsp;(v) the acquisition transaction is documented in a journal maintained at the school that clearly identifies when the transaction occurred, the item that was acquired and from whom, the price paid, the quantities acquired, and any other information the supervisor or the school board considers to be relevant.
+&emsp;&emsp;&emsp;(v) the acquisition transaction is documented in a journal maintained at theschool that clearly identifies when the transaction occurred, the item that was acquired and from whom, the price paid, the quantities acquired, and any other information the supervisor or the school board considers to be relevant.
 
 #### (B) Notice
 
@@ -120,7 +120,7 @@ The Secretary may approve applications for funding tribal divisions of education
 
 #### (d) Technical assistance and training
 
-In carrying out this section, a local school board may request technical assistance and training from the Secretary, and the Secretary shall, to the maximum extent practicable, provide those services and make appropriate provisions in the budget of the Office for the provision of those services.
+In carrying out this section, a local school board may request technical assistance andtraining from the Secretary, and the Secretary shall, to the maximum extent practicable, provide those services and make appropriate provisions in the budget of the Office for the provision of those services.
 
 #### (e) Summer program of academic and support services
 

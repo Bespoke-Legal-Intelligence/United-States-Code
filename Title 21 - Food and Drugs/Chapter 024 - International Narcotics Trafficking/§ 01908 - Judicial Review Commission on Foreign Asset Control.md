@@ -108,9 +108,3 @@ The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–
 
 This Act, referred to in subsec. (j), is Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1606, known as the Intelligence Authorization Act for Fiscal Year 2000. For complete classification of this Act to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
-
-<i><sup>2</sup></i><i> So in original. Section 5703 of title 5 does not contain a subsec. (b).</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “Commission”.</i>
-

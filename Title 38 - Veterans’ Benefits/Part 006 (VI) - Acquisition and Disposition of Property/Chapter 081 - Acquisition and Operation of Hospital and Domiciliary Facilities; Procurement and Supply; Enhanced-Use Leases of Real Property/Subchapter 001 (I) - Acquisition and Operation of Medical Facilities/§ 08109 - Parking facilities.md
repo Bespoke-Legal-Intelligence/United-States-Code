@@ -14,7 +14,7 @@
 
 (b) In order to accommodate the vehicles of employees of medical facilities, vehicles used to transport veterans and eligible persons to or from such facilities for the purpose of examination or treatment, and the vehicles of visitors and other individuals having business at such facilities, the Secretary—
 
-&emsp;(1) may construct or alter parking facilities, and may acquire, by purchase, lease, condemnation, donation, exchange, or otherwise, such land or interests in land as the Secretary considers necessary for use as the site for any such construction or alteration;
+&emsp;(1) may construct or alter parking facilities, and may acquire, by purchase, lease, condemnation, donation, exchange, or otherwise, such land or interests in land as the Secretaryconsiders necessary for use as the site for any such construction or alteration;
 
 &emsp;(2) may acquire, by purchase, lease, condemnation, donation, exchange, or otherwise, any facility that the Secretary considers necessary for use as a parking facility; and
 

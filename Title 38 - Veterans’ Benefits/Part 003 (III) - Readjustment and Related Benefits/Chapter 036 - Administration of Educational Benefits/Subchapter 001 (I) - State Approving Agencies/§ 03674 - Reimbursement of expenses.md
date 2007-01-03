@@ -10,7 +10,7 @@
 
 (3) Each State and local agency with which a contract or agreement is entered into under this section shall submit to the Secretary on a monthly or quarterly basis, as determined by the agency, a report containing a certification of the reasonable and necessary expenses incurred for salary and travel by such agency under such contract or agreement for the period covered by the report. The report shall be submitted in the form and manner required by the Secretary.
 
-(4) The total amount made available under this section for any fiscal year may not exceed $13,000,000 or, for each of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.
+(4) The total amount made available under this section for any fiscal year may not exceed$13,000,000 or, for each of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.
 
 (b) The allowance for administrative expenses incurred pursuant to subsection (a) of this section shall be paid in accordance with the following formula:
 
@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for 
 
 1988—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
 
-Pub. L. 100–323, §13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
+Pub. L. 100–323, §13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, theAdministrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
 Subsec. (a)(2) to (4). Pub. L. 100–323, §13(a)(1)(C), added pars. (2) to (4).
 
@@ -78,7 +78,7 @@ Subsec. (a)(2) to (4). Pub. L. 100–323, §13(a)(1)(C), added pars. (2) to (4).
 
 Pub. L. 96–466, §203(1), increased allowance for administrative expenses by substituting “$662” for “$630”, “$1,191” for “$1,134” in two places, “$1,103” for “$1,050”, “$7,205” for “$6,862” in two places, “$953” for “$908”, “$14,288” for “$13,608” in two places, and “$833” for “$793”.
 
-1977—Subsec. (b). Pub. L. 95–202, §303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places,“$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
+1977—Subsec. (b). Pub. L. 95–202, §303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places, “$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
 
 Subsec. (c). Pub. L. 95–202, §303(2), added subsec. (c).
 

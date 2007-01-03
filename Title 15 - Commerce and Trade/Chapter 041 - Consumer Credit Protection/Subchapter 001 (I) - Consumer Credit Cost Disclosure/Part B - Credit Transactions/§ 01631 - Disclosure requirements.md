@@ -22,7 +22,7 @@ The Board shall determine whether tolerances for numerical disclosures other tha
 
 1995—Subsec. (c). Pub. L. 104–29 inserted at end “In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction.”
 
-1980—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved,is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
+1980—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
 
 Subsec. (b). Pub. L. 96–221 substituted provisions relating to disclosure requirements of creditor or lessor, for provisions relating to statement of information where more than one obligor is involved.
 
@@ -56,5 +56,5 @@ Section 504(b) of Pub. L. 90–321 provided in part that chapter 2 of title I, w
 
 #### Real Estate Settlement Procedures
 
-Provisions of Real Estate Settlement Procedures Act of 1974, as superseding provisions of subsec. (c) of this section insofar as applying to federally related mortgage loans, see section 2605 of Title 12, Banks and Banking.
+Provisions of Real Estate Settlement Procedures Act of 1974, as superseding provisions of subsec. (c) of thissection insofar as applying to federally related mortgage loans, see section 2605 of Title 12, Banks and Banking.
 

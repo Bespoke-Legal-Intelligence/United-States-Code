@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Subject to subsection (e) <sup>1</sup> of this section, the Secretary shall establish and maintain in theDepartment an independent Office of Risk Management.
+Subject to subsection (e) <sup>1</sup> of this section, the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
 
 #### (b) Functions of Office of Risk Management
 

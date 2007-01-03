@@ -16,7 +16,7 @@
 
 (2) A physical search authorized by this subsection may be conducted only in accordance with the certification and minimization procedures adopted by the Attorney General. The Attorney General shall assess compliance with such procedures and shall report such assessments to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate under the provisions of section 1826 of this title.
 
-(3) The Attorney General shall immediately transmit under seal to the Foreign Intelligence Surveillance Court a copy of the certification.Such certification shall be maintained under security measures established by the Chief Justice of the United States with the concurrence of the Attorney General, in consultation with the Director of National Intelligence, and shall remain sealed unless—
+(3) The Attorney General shall immediately transmit under seal to the Foreign Intelligence Surveillance Court a copy of the certification. Such certification shall be maintained under security measures established by the Chief Justice of the United States with the concurrence of the Attorney General, in consultation with the Director of National Intelligence, and shall remain sealed unless—
 
 &emsp;(A) an application for a court order with respect to the physical search is made under section 1821(4) of this title and section 1823 of this title; or
 
@@ -36,7 +36,7 @@ Applications for a court order under this subchapter are authorized if the Presi
 
 #### (c) Jurisdiction of Foreign Intelligence Surveillance Court
 
-The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge shall hear the same application which has been denied previously by another judge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
+The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications forand grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge shall hear the same application which has been denied previously by another judge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
 
 #### (d) Court of review; record; transmittal to Supreme Court
 

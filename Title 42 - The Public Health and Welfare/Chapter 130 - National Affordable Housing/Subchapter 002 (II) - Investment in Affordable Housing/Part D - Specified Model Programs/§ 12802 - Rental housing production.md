@@ -20,11 +20,11 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Interest and any accrued interest shall be payable only from the surplus cash flow of the project, after a minimum return on equity determined by the participating jurisdiction to be appropriate. As used in the previous sentence, the term “surplus cash flow” means the cash flow of the project after the payment of all amounts due under the first mortgage, operating expenses, and required replacement reserves, as determined by the participating jurisdiction.
+&emsp;&emsp;&emsp;Interest and any accrued interest shall be payable only from the surplus cash flowof the project, after a minimum return on equity determined by the participating jurisdiction to be appropriate. As used in the previous sentence, the term “surplus cash flow” means the cash flow of the project after the payment of all amounts due under the first mortgage, operating expenses, and required replacement reserves, as determined by the participating jurisdiction.
 
 #### (B) Additional interest payments
 
-&emsp;&emsp;Under the model program, for any year in which the sum of the surplus cash flow of aproject and the return on equity exceeds all interest payments due under subparagraph (A), 50 percent of the excess surplus cash flow shall be paid to the participating jurisdiction's HOME Investment Trust Fund as additional interest.
+&emsp;&emsp;Under the model program, for any year in which the sum of the surplus cash flow of a project and the return on equity exceeds all interest payments due under subparagraph (A), 50 percent of the excess surplus cash flow shall be paid to the participating jurisdiction's HOME Investment Trust Fund as additional interest.
 
 #### (C) Principal and unpaid interest
 

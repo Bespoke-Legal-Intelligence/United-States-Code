@@ -20,7 +20,7 @@ Duties.—The head of the office shall ensure that the office—
 
 &emsp;(4) conducts its activities in consultation and coordination with the Department of Energy and the Department of Commerce; and
 
-&emsp;(5) provides private firms with assistance to resolve problems associated with security clearances, proprietary rights, and other legal considerations involved in such a transition of technology.
+&emsp;(5) provides private firms with assistance to resolve problems associated with securityclearances, proprietary rights, and other legal considerations involved in such a transition of technology.
 
 (d)
 
@@ -46,7 +46,7 @@ Subsec. (d)(1). Pub. L. 108–136, §1031(a)(23)(B), substituted “a biennial r
 
 1999—Subsec. (d)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (d). Pub. L. 104–106 substituted “Annual Report” for “Reporting Requirement” in heading, designated existing provisions as par. (1), substituted “The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time” for “The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and theHouse of Representatives an annual report on the activities of the Office at the same time”, and added par. (2).
+1996—Subsec. (d). Pub. L. 104–106 substituted “Annual Report” for “Reporting Requirement” in heading, designated existing provisions as par. (1), substituted “The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time” for “The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time”, and added par. (2).
 
 #### Schedule for Establishment of Office of Technology Transition
 
@@ -59,4 +59,6 @@ Section 4225(c)(2) of Pub. L. 102–484 provided that: “Notwithstanding sectio
 &emsp;“(A) the first report under that section shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\]; and
 
 &emsp;“(B) no additional report is necessary under that section in the fiscal year in which such first report is submitted.”
+
+§2516
 

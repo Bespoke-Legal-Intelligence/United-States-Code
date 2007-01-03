@@ -1,6 +1,6 @@
 ### §3796a–1. National programs for families of public safety officers who have died in line of duty
 
-The Director is authorized to use no less than $150,000 of the funds appropriated for this subchapter to maintain and enhance national peer support and counseling programs to assist families of public safety officers who have died in the line of duty.
+The Director is authorized to use no less than $150,000 of the funds appropriated for this subchapter to maintain and enhance national peersupport and counseling programs to assist families of public safety officers who have died in the line of duty.
 
 (Pub. L. 90–351, title I, §1203, as added Pub. L. 100–690, title VI, §6106(a)(2), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, §2(a), June 16, 1998, 112 Stat. 511.)
 

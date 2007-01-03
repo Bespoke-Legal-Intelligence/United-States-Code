@@ -2,7 +2,7 @@
 
 (a)
 
-Application.—The advertised specifications for every contract in excess of $2,000, to which the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of the Government or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
+Application.—The advertised specifications for every contract in excess of $2,000, towhich the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of the Government or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
 
 (b)
 
@@ -12,7 +12,7 @@ Based on Prevailing Wage.—The minimum wages shall be based on the wages the Se
 
 Stipulations Required in Contract.—Every contract based upon the specifications referred to in subsection (a) must contain stipulations that—
 
-&emsp;(1) the contractor or subcontractor shall pay all mechanics and laborers employed directly on the site of the work, unconditionally and atleast once a week, and without subsequent deduction or rebate on any account, the full amounts accrued at time of payment, computed at wage rates not less than those stated in the advertised specifications, regardless of any contractual relationship which may be alleged to exist between the contractor or subcontractor and the laborers and mechanics;
+&emsp;(1) the contractor or subcontractor shall pay all mechanics and laborers employed directly on the site of the work, unconditionally and at least once a week, and without subsequent deduction or rebate on any account, the full amounts accrued at time of payment, computed at wage rates not less than those stated in the advertised specifications, regardless of any contractual relationship which may be alleged to exist between the contractor or subcontractor and the laborers and mechanics;
 
 &emsp;(2) the contractor will post the scale of wages to be paid in a prominent and easily accessible place at the site of the work; and
 
@@ -20,13 +20,13 @@ Stipulations Required in Contract.—Every contract based upon the specification
 
 (d)
 
-Discharge of Obligation.—The obligation of a contractor or subcontractor to make payment in accordance with the prevailing wage determinations of the Secretary of Labor, under this subchapter and other laws incorporating this subchapter by reference, may be discharged by making payments in cash, by making contributions described in section 3141(2)(B)(i) of this title, by assuming an enforceable commitment to bear the costs of a plan or program referred to in section 3141(2)(B)(ii) of this title, or by any combination of payment, contribution, and assumption, where the aggregate of the payments, contributions, and costs is not less than the basic hourly rate of pay plus the amount referred to in section 3141(2)(B).
+Discharge of Obligation.—The obligation of a contractor or subcontractor to make payment in accordance with the prevailing wage determinations of the Secretary of Labor, under this subchapter and other laws incorporating this subchapter by reference, may be discharged by making payments in cash, by making contributions described in section 3141(2)(B)(i) of this title, by assuming an enforceable commitment to bear the costs of a plan or program referred to in section 3141(2)(B)(ii) of this title, or by any combination of payment, contribution, and assumption, where the aggregate of the payments, contributions, and costs is not less than the basic hourly rate of pay plus the amount referred to in section 3141(2)(B) of this title.
 
 (e)
 
-Overtime Pay.—In determining the overtime pay to which a laborer or mechanic is entitled under any federal law, the regular or basic hourly rate of pay (or other alternative rate on which premium rate of overtime compensation is computed) of the laborer or mechanic is deemed to be the rate computed under section 3141(2)(A) of this title, except that where the amount of payments, contributions, or costs incurred with respect to the laborer or mechanic exceeds the applicable prevailing wage, the regular or basic hourly rate of pay (or other alternative rate) is the amount of payments, contributions, or costs actually incurred with respect to the laborer or mechanic minus the greater of the amount of contributions or costs of the types described in section 3141(2)(B) of this title actually incurred with respect to the laborer or mechanic or the amount determined under section 3141(2)(B) but not actually paid.
+Overtime Pay.—In determining the overtime pay to which a laborer or mechanic is entitled under any federal law, the regular or basic hourly rate of pay (or other alternative rate on which premium rate of overtime compensation is computed) of the laborer or mechanic is deemed to be the rate computed under section 3141(2)(A) of this title, except that where the amount of payments, contributions, or costs incurred with respect to the laborer or mechanic exceeds the applicable prevailing wage, the regular or basic hourly rate of pay (or other alternative rate) is the amount of payments, contributions, or costs actually incurred with respect to the laborer or mechanic minus the greater of the amount of contributions or costs of the types described in section 3141(2)(B) of this title actually incurred with respect to the laborer or mechanic or the amount determined under section 3141(2)(B) of this title but not actually paid.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150; Pub. L. 109–284, §6(12), (13), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -63,4 +63,10 @@ In subsection (a), the words “a State” are substituted for “the geographic
 In subsection (b), the words “city, town, village, or other” are omitted as unnecessary.
 
 In subsection (d), the words “of a type” are omitted as unnecessary. The words “basic hourly rate of pay” are substituted for “rate of pay described in paragraph (1)” for clarity.
+
+#### Amendments
+
+2006—Subsec. (d). Pub. L. 109–284, §6(12), inserted “of this title” after “amount referred to in section 3141(2)(B)”.
+
+Subsec. (e). Pub. L. 109–284, §6(13), inserted “of this title” after “determined under section 3141(2)(B)”.
 

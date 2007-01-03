@@ -1,6 +1,6 @@
 ### §752. Boundaries and contents of public lands; how ascertained
 
-The boundaries and contents of the several sections, half-sections, and quarter-sections ofthe public lands shall be ascertained in conformity with the following principles:
+The boundaries and contents of the several sections, half-sections, and quarter-sections of the public lands shall be ascertained in conformity with the following principles:
 
 First. All the corners marked in the surveys, returned by the Secretary of the Interior or such agency as he may designate, shall be established as the proper corners of sections, or subdivisions of sections, which they were intended to designate; and the corners of half- and quarter-sections, not marked on the surveys, shall be placed as nearly as possible equidistant from two corners which stand on the same line.
 

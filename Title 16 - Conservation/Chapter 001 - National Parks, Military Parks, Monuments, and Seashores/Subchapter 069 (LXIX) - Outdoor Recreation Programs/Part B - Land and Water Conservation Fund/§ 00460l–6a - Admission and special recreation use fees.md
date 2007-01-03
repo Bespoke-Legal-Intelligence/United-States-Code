@@ -10,7 +10,7 @@
 
 (C)
 
-Units at which entrance fees or admissions fees cannot be collected
+Units at which entrance fees or admissions fees cannot be collected.—
 
 &emsp;(i)
 
@@ -18,7 +18,7 @@ Withholding of amounts.—Notwithstanding section 107 of the Department of the I
 
 &emsp;(ii)
 
-Use of amounts.—Amounts withheld under clause (i) shall be retained by the Secretary and shall be available, without further Act of appropriation, for expenditure by the Secretary for the unit with respect to whichthe amounts were collected for the purposes of enhancing the quality of the visitor experience, protection of resources, repair and maintenance, interpretation, signage, habitat or facility enhancement, resource preservation, annual operation (including fee collection), maintenance, and law enforcement.
+Use of amounts.—Amounts withheld under clause (i) shall be retained by the Secretary and shall be available, without further Act of appropriation, for expenditure by the Secretary for the unit with respect to which the amounts were collected for the purposes of enhancing the quality of the visitor experience, protection of resources, repair and maintenance, interpretation, signage, habitat or facility enhancement, resource preservation, annual operation (including fee collection), maintenance, and law enforcement.
 
 (2) to (4) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2205, 119 Stat. 526.
 
@@ -44,7 +44,7 @@ When authorized by the head of the collecting agency, volunteers at designated a
 
 &emsp;(3) the provision of assistance and information to visitors to the designated area.
 
-> The Secretary shall require a surety bond for any such volunteer performing services under this subsection. Funds available to the collecting agency may be used to cover the cost of any such surety bond. The head of the collecting agency may enter into arrangements with qualified public or private entities pursuant to which such entities may sell (without cost to the United States) annual admission permits (including Golden Eagle Passports) at any appropriate location. Such arrangements shall require each such entity to reimburse the United States for the full amount to be received from the sale of such permits at or before the agency delivers the permits to such entity for sale.
+> The Secretary shall require a surety bond for any such volunteer performing services under this subsection. Funds available to the collecting agency may be used to cover the cost of any such surety bond. The head of the collecting agency may enter into arrangements with qualified public or private entities pursuant to which such entities may sell (without cost to the United States) annual admission permits (including Golden Eagle Passports) at any appropriate location. Such arrangements shall require each such entity to reimburse the United States for the full amount to be received from the saleof such permits at or before the agency delivers the permits to such entity for sale.
 
 #### (<i>l</i>) Charge for transportation provided by National Park Service for viewing National Park System units; charge in lieu of admission fee; maximum charge; apportionment and expenditure of charges
 
@@ -98,7 +98,7 @@ A prior section 4 of Pub. L. 88–578 was renumbered section 5 and is classified
 
 Subsec. (i)(1)(C)(i). Pub. L. 109–54, §132(b), substituted “Notwithstanding section 107” for “Notwithstanding subparagraph (A), section 315(c) of section 101(c) of the Omnibus Consolidated Recessions and Appropriations Act of 1996 (16 U.S.C. 460<i>l</i>–6a note; Public Law 104–134), or section 107” and “account under section 6806(a) of this title” for “account under subparagraph (A)”.
 
-2004—Subsecs. (a) to (g). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees, subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
+2004—Subsecs. (a) to (g). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees,subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
 
 Subsec. (i). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (i), relating to covering fees collected into special account for agency established in Treasury, covered agencies, availability of funds, and allocation of National Park Service funds, except for paragraph (1)(C), relating to units at which entrance fees or admissions fees cannot be collected.
 
@@ -114,7 +114,7 @@ Subsec. (a)(1)(A). Pub. L. 103–66, §10002(d), (e), designated existing provis
 
 Subsec. (a)(4). Pub. L. 103–66, §10001(b), substituted “for a one-time charge of $10” for “without charge”.
 
-Subsec. (b). Pub. L. 103–66, §10002(a)(1), in first sentence, substituted “or toilet facilities, nor shall there be any such charge solely for the use of picnic tables: <i>Provided</i>, That in no event shall there be a charge for the use of any campground not having a majority of the following: tent or trailer spaces, picnic tables, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).” for “toilet facilities, picnic tables, or boat ramps: <i>Provided, however</i>, That a fee shall be charged for boat launching facilities only where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided: <i>And provided fur</i><i>ther</i>, That in no event shall there be a charge for the use of any campground not having the following—tent or trailer spaces, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).”, and inserted new second sentence defining “specialized outdoor recreation sites”.
+Subsec. (b). Pub. L. 103–66, §10002(a)(1), in first sentence, substituted “or toilet facilities, nor shall there be any such charge solely for the use of picnic tables: <i>Provided</i>, That in no event shall there be a charge for the use of any campground not having a majority of the following: tent or trailer spaces, picnic tables, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).” for “toilet facilities, picnic tables, or boat ramps: <i>Provided, however</i>, That a fee shall be charged for boat launching facilities only where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided: <i>And provided further</i>, That in no event shall there be a charge for the use of any campground not having the following—tent or trailer spaces, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).”, and inserted new second sentence defining “specialized outdoor recreation sites”.
 
 Pub. L. 102–66, §§5001(b) and 10002(a)(2), amended subsec. (b) identically, striking out second sentence which read as follows: “At each lake or reservoir under the jurisdiction of the Corps of Engineers, United States Army, where camping is permitted, such agency shall provide at least one primitive campground, containing designated campsites, sanitary facilities, and vehicular access, where no charge shall be imposed.”
 
@@ -170,7 +170,7 @@ Pub. L. 109–54, title I, §132(d), Aug. 2, 2005, 119 Stat. 526, provided that:
 
 #### Savings Provision for 2004 Amendment
 
-For authority of Secretary to continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under this section until date the notice required by section 6804(a)(3) of this title is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass, see section 6812(a) of this title.
+For authority of Secretary to continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under this section until Dec. 19, 2006, see section 6812(a) of this title.
 
 #### Construction
 
@@ -276,7 +276,7 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
 #### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of “Golden Eagle Insignia”
 
-Section 3(a) of Pub. L. 92–347 provided that: “The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
+Section 3(a) of Pub. L. 92–347 provided that: “The Secretary of the Interior may establish and collect use orroyalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
 
 #### Termination of Rights in “Golden Eagle Insignia”
 

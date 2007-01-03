@@ -14,7 +14,7 @@ The Division of Investigation was first designated as the “Federal Bureau of I
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(1), 313(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(3) and sections 121(g)(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Enterprise Architecture
 
@@ -44,7 +44,7 @@ Failure To Meet Terms.—If the Director of the Federal Bureau of Investigation 
 
 &emsp;“(2) include a statement as to whether the inability or expectation of inability to meet the terms set forth in the enterprise architecture is substantially related to resources; and
 
-&emsp;“(3) if the inability or expectation of inability is substantially related to resources, include a request for additional funding that would resolve the problem or a request to reprogram funds that would resolve the problem.
+&emsp;“(3) if the inability or expectation of inability is substantially related to resources, include a requestfor additional funding that would resolve the problem or a request to reprogram funds that would resolve the problem.
 
 “(e)
 
@@ -100,7 +100,7 @@ Status.—Each member of the CASMIRC (and each individual from any State or loca
 
 &emsp;“(3)
 
-Training.—CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
+Training.—CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop acourse of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
 
 “(e)
 
@@ -118,7 +118,7 @@ Report to Congress.—One year after the establishment of the CASMIRC, the Attor
 
 “(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this sectionsuch sums as may be necessary for each of fiscal years 1999, 2000, and 2001.”
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999, 2000, and 2001.”
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;Each recipient shall supplement a grant provided under this part with an equal amount of funds from sources other than this part. Each recipient shall certify to the Secretary that ithas complied with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
+&emsp;Each recipient shall supplement a grant provided under this part with an equal amount of funds from sources other than this part. Each recipient shall certify to the Secretary that it has complied with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
 
 #### (2) Calculation of amounts
 

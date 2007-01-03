@@ -34,7 +34,7 @@ The Secretary is authorized to expend funds which are appropriated under the aut
 
 #### (b) Effect on other appropriations; allocation to service units
 
-(1) Any funds appropriated under the authority of this section shall not be used to offset or limit any appropriations made to the Service under section 13 of this title, or any other provision of law.
+(1) Any funds appropriated under the authority of this section shall not be used to offset orlimit any appropriations made to the Service under section 13 of this title, or any other provision of law.
 
 (2)(A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each service unit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
 
@@ -106,7 +106,7 @@ Subsec. (a)(1). Pub. L. 102–573, §201(a)(1)(B), amended par. (1) generally. P
 
 Subsec. (a)(4). Pub. L. 102–573, §201(a)(1)(C), in introductory provisions inserted “, either through direct or contract care or through contracts entered into pursuant to the Indian Self-Determination Act,” after “responsibilities” and substituted “status and resource deficiencies” for “resources deficiency”.
 
-Subsec. (a)(4)(B). Pub. L. 102–573, §207(b), substituted “preventive health, including screening mammography in accordance with section 1621k of this title” for “preventive health”.
+Subsec. (a)(4)(B). Pub. L. 102–573, §207(b), substituted “preventive health, including screening mammographyin accordance with section 1621k of this title” for “preventive health”.
 
 Subsec. (b)(1). Pub. L. 102–573, §201(a)(2)(A), substituted “this section” for “subsection (h) of this section”.
 
@@ -146,7 +146,7 @@ Subsec. (e)(4) to (6). Pub. L. 102–573, §201(a)(5)(E), redesignated par. (6) 
 
 Subsec. (f). Pub. L. 102–573, §201(a)(6), redesignated par. (2) as entire subsec. and struck out former par. (1) which read as follows: “The President shall include with the budget submitted to the Congress under section 1105 of title 31 for each fiscal year a separate statement which specifies the amount of funds requested to carry out the provisions of this section for such fiscal year.”
 
-Subsec. (h). Pub. L. 102–573, §217(b)(1), substituted “this section” for “this subsection” and struck outformer first sentence which authorized appropriations for fiscal years 1990 to 1992.
+Subsec. (h). Pub. L. 102–573, §217(b)(1), substituted “this section” for “this subsection” and struck out former first sentence which authorized appropriations for fiscal years 1990 to 1992.
 
 1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to improvement of Indian health status for former subsecs. (a) to (e) relating to direct patient care program.
 

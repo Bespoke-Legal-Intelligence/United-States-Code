@@ -136,7 +136,7 @@ Audits.—
 
 &emsp;(1)
 
-In general.—To ensure compliance by a State with any agreement of the State undersubsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+In general.—To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
 
 &emsp;&emsp;(A) semiannual audits during each of the first 2 years of State participation; and
 

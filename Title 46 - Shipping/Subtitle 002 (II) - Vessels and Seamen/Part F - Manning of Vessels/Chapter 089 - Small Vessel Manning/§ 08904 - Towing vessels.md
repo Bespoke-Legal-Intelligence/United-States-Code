@@ -4,7 +4,9 @@
 
 (b) A vessel that tows a disabled vessel for consideration shall be operated by an individual licensed by the Secretary to operate that type of vessel in the particular geographic area, under prescribed regulations.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 99–640, §12(a), Nov. 10, 1986, 100 Stat. 3550.)
+(c) The Secretary may prescribe by regulation requirements for maximum hours of service (including recording and recordkeeping of that service) of individuals engaged on a towing vessel that is at least 26 feet in length measured from end to end over the deck (excluding the sheer).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 99–640, §12(a), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 108–293, title IV, §409(a), Aug. 9, 2004, 118 Stat. 1044.)
 
 Historical and Revision Notes
 
@@ -20,13 +22,15 @@ Section 8904 requires that a 26-foot or larger towing vessel be operated by a li
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–293 added subsec. (c).
+
 1986—Pub. L. 99–640 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1986 Amendment
 
-Section 12(b) of Pub. L. 99–640 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on January 1, 1988.”
+Pub. L. 99–640, §12(b), Nov. 10, 1986, 100 Stat. 3551, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on January 1, 1988.”
 
-#### Section Referred to in Other Sections
+#### Demonstration Project
 
-This section is referred to in sections 8104, 8905 of this title; title 14 section 88.
+Pub. L. 108–293, title IV, §409(b), Aug. 9, 2004, 118 Stat. 1045, provided that: “Prior to prescribing regulations under this section \[amending this section\] the Secretary shall conduct and report to the Congress on the results of a demonstration project involving the implementation of Crew Endurance Management Systems on towing vessels. The report shall include a description of the public and private sector resources needed to enable implementation of Crew Endurance Management Systems on all United States-flag towing vessels.”
 

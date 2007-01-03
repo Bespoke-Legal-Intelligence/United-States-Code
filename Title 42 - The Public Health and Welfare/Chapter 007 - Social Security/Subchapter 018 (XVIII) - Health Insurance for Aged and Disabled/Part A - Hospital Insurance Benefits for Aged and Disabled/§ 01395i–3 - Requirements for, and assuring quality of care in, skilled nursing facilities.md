@@ -118,7 +118,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (B) Qualified persons providing services
 
-&emsp;&emsp;Services described in clauses (i), (ii), (iii), (iv), and (vi) of subparagraph (A) must be provided by qualified persons in accordance with each resident's written plan of care.
+&emsp;&emsp;Services described in clauses (i), (ii), (iii), (iv), and (vi) of subparagraph (A) must beprovided by qualified persons in accordance with each resident's written plan of care.
 
 #### (C) Required nursing care
 
@@ -164,7 +164,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (D) Re-training required
 
-&emsp;&emsp;For purposes of subparagraph (A), if, since an individual's most recent completion of atraining and competency evaluation program, there has been a continuous period of 24 consecutive months during none of which the individual performed nursing or nursing-related services for monetary compensation, such individual shall complete a new training and competency evaluation program or a new competency evaluation program.
+&emsp;&emsp;For purposes of subparagraph (A), if, since an individual's most recent completion of a training and competency evaluation program, there has been a continuous period of 24 consecutive months during none of which the individual performed nursing or nursing-related services for monetary compensation, such individual shall complete a new training and competency evaluation program or a new competency evaluation program.
 
 #### (E) Regular in-service education
 
@@ -244,7 +244,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (vi) Grievances
 
-&emsp;&emsp;&emsp;The right to voice grievances with respect to treatment or care that is (or failsto be) furnished, without discrimination or reprisal for voicing the grievances and the right to prompt efforts by the facility to resolve grievances the resident may have, including those with respect to the behavior of other residents.
+&emsp;&emsp;&emsp;The right to voice grievances with respect to treatment or care that is (or fails to be) furnished, without discrimination or reprisal for voicing the grievances and the right to prompt efforts by the facility to resolve grievances the resident may have, including those with respect to the behavior of other residents.
 
 #### (vii) Participation in resident and family groups
 
@@ -260,7 +260,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (x) Refusal of certain transfers
 
-&emsp;&emsp;&emsp;The right to refuse a transfer to another room within the facility, if a purpose of the transfer is to relocate the resident from a portion of the facility that is a skilled nursing facility (for purposes of this subchapter) to a portion of the facility that is not such a skilled nursing facility.
+&emsp;&emsp;&emsp;The right to refuse a transfer to another room within the facility, if a purpose ofthe transfer is to relocate the resident from a portion of the facility that is a skilled nursing facility (for purposes of this subchapter) to a portion of the facility that is not such a skilled nursing facility.
 
 #### (xi) Other rights
 
@@ -310,7 +310,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(vi) the facility ceases to operate.
 
-> &emsp;&emsp;In each of the cases described in clauses (i) through (v), the basis for the transfer or discharge must be documented in the resident's clinical record. In the cases described in clauses (i) and (ii), the documentation mustbe made by the resident's physician, and in the cases described in clauses (iii) and (iv) the documentation must be made by a physician.
+> &emsp;&emsp;In each of the cases described in clauses (i) through (v), the basis for the transfer or discharge must be documented in the resident's clinical record. In the cases described in clauses (i) and (ii), the documentation must be made by the resident's physician, and in the cases described in clauses (iii) and (iv) the documentation must be made by a physician.
 
 #### (B) Pre-transfer and pre-discharge notice
 
@@ -330,7 +330,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;&emsp;(I) in a case described in clause (iii) or (iv) of subparagraph (A);
 
-&emsp;&emsp;&emsp;&emsp;(II) in a case described in clause (ii) of subparagraph (A), where the resident's health improves sufficiently to allow a more immediate transfer or discharge;
+&emsp;&emsp;&emsp;&emsp;(II) in a case described in clause (ii) of subparagraph (A), where the resident'shealth improves sufficiently to allow a more immediate transfer or discharge;
 
 &emsp;&emsp;&emsp;&emsp;(III) in a case described in clause (i) of subparagraph (A), where a more immediate transfer or discharge is necessitated by the resident's urgent medical needs; or
 
@@ -404,7 +404,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (i) Deposit
 
-&emsp;&emsp;&emsp;The facility must deposit any amount of personal funds in excess of $100 with respect to a resident in an interest bearing account (or accounts) that is separate from any of the facility's operating accounts and credits <sup>3</sup> all interest earned on such separate account to such account. With respect to any other personal funds, the facility must maintain such funds in a non-interest bearing account or petty cash fund.
+&emsp;&emsp;&emsp;The facility must deposit any amount of personal funds in excess of $100 with respect to a resident in an interest bearing account (or accounts) that is separate from any of the facility's operating accounts and credits <sup>3</sup> all interest earned onsuch separate account to such account. With respect to any other personal funds, the facility must maintain such funds in a non-interest bearing account or petty cash fund.
 
 #### (ii) Accounting and records
 
@@ -644,13 +644,13 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (C) Investigation of allegations of resident neglect and abuse and misappropriation of resident property
 
-&emsp;&emsp;The State shall provide, through the agency responsible for surveys and certification of nursing facilities under this subsection, for a process for the receipt and timely review and investigation of allegations of neglect and abuse and misappropriation of resident property by a nurse aide of a resident in a nursing facility or by another individual used by the facility in providing services to such a resident. The State shall, after providing the individual involved with awritten notice of the allegations (including a statement of the availability of a hearing for the individual to rebut the allegations) and the opportunity for a hearing on the record, make a written finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority. A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.
+&emsp;&emsp;The State shall provide, through the agency responsible for surveys and certification of nursing facilities under this subsection, for a process for the receipt and timely review and investigation of allegations of neglect and abuse and misappropriation of resident property by a nurse aide of a resident in a nursing facility or by another individual used by the facility in providing services to such a resident. The State shall, after providing the individual involved with a written notice of the allegations (including a statement of the availability of a hearing for the individual to rebut the allegations) and the opportunity for a hearing on the record, make a written finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority. A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.
 
 #### (D) Removal of name from nurse aide registry
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a finding of neglect under subparagraph (C), the State shall establish a procedure to permit a nurse aide to petition the State to have his or her name removed from the registry upon a determination by the State that—
+&emsp;&emsp;&emsp;In the case of a finding of neglect under subparagraph (C), the State shall establisha procedure to permit a nurse aide to petition the State to have his or her name removed from the registry upon a determination by the State that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the employment and personal history of the nurse aide does not reflect a pattern of abusive behavior or neglect; and
 
@@ -832,7 +832,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) Denial of payment
 
-&emsp;&emsp;&emsp;The Secretary may deny any further payments under this subchapter with respect to all individuals entitled to benefits under this subchapter in the facility or with respect to such individuals admittedto the facility after the effective date of the finding.
+&emsp;&emsp;&emsp;The Secretary may deny any further payments under this subchapter with respect to all individuals entitled to benefits under this subchapter in the facility or with respect to such individuals admitted to the facility after the effective date of the finding.
 
 #### (ii) Authority with respect to civil money penalties
 
@@ -886,7 +886,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (5) Construction
 
-&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>5</sup> and (iii) of paragraph (2)(B) maybe imposed during the pendency of any hearing.
+&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>5</sup> and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
 
 #### (6) Sharing of information
 
@@ -896,7 +896,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 Where requirements or obligations under this section are identical to those provided under section 1396r of this title, the fulfillment of those requirements or obligations under section 1396r of this title shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182;Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401.)
 
 #### References in Text
 
@@ -970,7 +970,7 @@ Subsec. (b)(5)(F)(i). Pub. L. 101–508, §4008(h)(2)(F), substituted “(G)) or
 
 Subsec. (c)(1)(A). Pub. L. 101–508, §4008(h)(2)(G)(B)\[(ii)\], inserted at end “A resident's exercise of a right to refuse transfer under clause (x) shall not affect the resident's eligibility or entitlement to benefits under this subchapter or to medical assistance under subchapter XIX of this chapter.”
 
-Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §4008(h)(2)(H), inserted before period at end “and to access to current clinical records of the resident upon request by the resident or the resident's legal representative, within 24 hours (excluding hours occurring during a weekend or holiday) after making such a request”.
+Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §4008(h)(2)(H), inserted before period at end “and to access to currentclinical records of the resident upon request by the resident or the resident's legal representative, within 24 hours (excluding hours occurring during a weekend or holiday) after making such a request”.
 
 Subsec. (c)(1)(A)(x), (xi). Pub. L. 101–508, §4008(h)(2)(G)(i), added cl. (x) and redesignated former cl. (x) as (xi).
 
@@ -1036,7 +1036,7 @@ Subsec. (b)(5)(G). Pub. L. 100–360, §411(<i>l</i>)(2)(D)(iii), inserted “ph
 
 Subsec. (c)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(iv), as added by Pub. L. 100–485, §608(d)(27)(A), added subpar. (D).
 
-Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge maybe imposed consistent with this subchapter and subchapter XIX of this chapter”.
+Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge may be imposed consistent with this subchapter and subchapter XIX of this chapter”.
 
 Subsec. (c)(6). Pub. L. 100–360, §411(<i>l</i>)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility's acceptance of written” in subpar. (B).
 
@@ -1054,7 +1054,7 @@ Pub. L. 100–360, §411(<i>l</i>)(1)(A)(viii), formerly §411(<i>l</i>)(1)(A)(v
 
 Subsec. (e)(5). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(ix), formerly §411(<i>l</i>)(1)(A)(viii), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1990” for “1989” in introductory provisions.
 
-Subsec. (f)(2)(A)(i)(I). Pub. L. 100–360, §411(<i>l</i>)(2)(J), substituted “recognition of mental health and social service needs” for “cognitive, behavioral and social care”.
+Subsec. (f)(2)(A)(i)(I). Pub. L. 100–360, §411(<i>l</i>)(2)(J), substituted “recognition of mental health and socialservice needs” for “cognitive, behavioral and social care”.
 
 Subsec. (f)(3). Pub. L. 100–360, §411(<i>l</i>)(2)(I), inserted “and discharges” after “transfers” in heading and in text.
 
@@ -1188,7 +1188,7 @@ Enforcement.—(1) Except as otherwise specifically provided in section 1819 of 
 
 “(c)
 
-Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set outas notes under this section\] and implementing the amendments made by this part.”
+Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set out as notes under this section\] and implementing the amendments made by this part.”
 
 #### Review and Report on Current Standards of Practice for Pharmacy Services Provided to Patients in Nursing Facilities
 
@@ -1276,7 +1276,7 @@ Section 6901(b)(2) of Pub. L. 101–239 provided that: “The Secretary of Healt
 
 Section 6901(b)(4)(B)–(D) of Pub. L. 101–239 provided that:
 
-“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) weresubstituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
+“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
 “(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 

@@ -24,45 +24,33 @@ In designating countries as “beneficiary countries” under this chapter the P
 
 &nbsp;Anguilla
 
-Jamaica
+Saint Lucia
 
 &nbsp;Antigua and Barbuda
 
-Nicaragua
+Saint Vincent and the
 
 &nbsp;Bahamas, The
 
-Panama
+&nbsp;Grenadines
 
 &nbsp;Barbados
 
-Saint Lucia
+Suriname
 
 &nbsp;Belize
 
-Saint Vincent and the
+Trinidad and Tobago
 
 &nbsp;Costa Rica
 
-&nbsp;Grenadines
+Cayman Islands
 
 &nbsp;Dominica
 
-Suriname
-
-&nbsp;Dominican Republic
-
-Trinidad and Tobago
-
-&nbsp;El Salvador
-
-Cayman Islands
-
-&nbsp;Grenada
-
 Montserrat
 
-&nbsp;Guatemala
+&nbsp;Grenada
 
 Netherlands Antilles
 
@@ -74,9 +62,11 @@ Saint Christopher-Nevis
 
 Turks and Caicos Islands
 
-&nbsp;Honduras
+&nbsp;Jamaica
 
 Virgin Islands, British
+
+&nbsp;Panama
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,7 +86,7 @@ Virgin Islands, British
 
 > &emsp;&emsp;a United States citizen or a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property so owned, or
 
-&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of suchproperty, unless the President determines that—
+&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property, unless the President determines that—
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
@@ -198,7 +188,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### Amendment of Section
 
-<i>Pub. L. 109–53, title IV, §402(b), Aug. 2, 2005, 119 Stat. 495, provided that, effective on date President terminates designation of Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua as beneficiary country pursuant to section 4031(a)(3) of this title, subsec. (b) of this section is amended by striking out such country from list of countries eligible for designation as beneficiary country.</i>
+<i>Pub. L. 109–53, title IV, §402(b), Aug. 2, 2005, 119 Stat. 495, provided that, effective on date President terminates designation of Costa Rica as beneficiary country pursuant to section 4031(a)(3) of this title, subsec. (b) of this section is amended by striking out such country from list of countries eligible for designation as beneficiary country.</i>
 
 <i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
@@ -219,6 +209,8 @@ Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedule
 #### Amendments
 
 2005—Subsec. (a)(1)(F). Pub. L. 109–53, §§107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
+
+Subsec. (b). Pub. L. 109–53, §§107(d), 402(b), temporarily struck out “Nicaragua”, “Dominican Republic”, “El Salvador”, “Guatemala”, and “Honduras” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2005 Amendment notes below.
 
 2000—Subsec. (a)(1)(D), (E). Pub. L. 106–200, §211(e)(2), added subpars. (D) and (E).
 
@@ -248,7 +240,7 @@ Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior 
 
 Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
-Pub. L. 109–53, title IV, §402(b), Aug. 2, 2005, 119 Stat. 495, provided that the amendment made by section 402(b) is effective on date President terminates designation of Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua as beneficiary country pursuant to section 4031(a)(3) of this title.
+Pub. L. 109–53, title IV, §402(b), Aug. 2, 2005, 119 Stat. 495, provided that the amendment made by section 402(b) is effective on date President terminates designation of Costa Rica, Dominican Republic \[Designation terminated Mar. 1, 2007. See Proc. No. 8111, 72 F.R. 10025.\], El Salvador \[Designation terminated Mar. 1, 2006. See Proc. No. 7987, 71 F.R. 10827.\], Guatemala \[Designation terminated July 1, 2006. See Proc. No. 8034, 71 F.R. 38509.\], Honduras \[Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.\], or Nicaragua \[Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.\] as beneficiary country pursuant to section 4031(a)(3) of this title.
 
 #### Effective Date of 1996 Amendment
 

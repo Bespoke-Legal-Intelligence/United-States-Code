@@ -22,7 +22,7 @@
 
 &emsp;(B) in the case of elected officials, from an appropriation or fund available for payment of other salaries of the same office or establishment; and
 
-&emsp;(C) in the case of employees of the legislative branch paid by the Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives.
+&emsp;(C) in the case of employees of the legislative branch paid by the Chief AdministrativeOfficer of the House of Representatives, from the applicable accounts of the House of Representatives.
 
 (4) A contribution to the Fund under this subsection shall be deposited under such procedures as the Comptroller General of the United States may prescribe.
 
@@ -30,7 +30,7 @@
 
 &emsp;(A) the amount of the supplemental liability of the Fund with respect to individuals other than those to whom subparagraph (B) relates, and
 
-&emsp;(B) the amount of the supplemental liability of the Fund with respect to current or former employees of the United States Postal Service (and the Postal Rate Commission) and their survivors;
+&emsp;(B) the amount of the supplemental liability of the Fund with respect to current or former employees of the United States Postal Service (and the Postal Regulatory Commission) and their survivors;
 
 > as of the close of each fiscal year beginning after September 30, 1987.
 
@@ -54,13 +54,15 @@
 
 (c) Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### References in Text
 
 Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred to in subsec. (a)(1)(B)(i), are classified to sections 2152 and 2153, respectively, of Title 50, War and National Defense.
 
 #### Amendments
+
+2006—Subsec. (b)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2000—Subsec. (a). Pub. L. 106–553 inserted “members of the Supreme Court Police,” after “law enforcement officers,” wherever appearing.
 
@@ -74,7 +76,7 @@ Pub. L. 102–378 substituted “multiplied” for “multipled”.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i),\(j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 #### Effective Date of 1998 Amendment
 

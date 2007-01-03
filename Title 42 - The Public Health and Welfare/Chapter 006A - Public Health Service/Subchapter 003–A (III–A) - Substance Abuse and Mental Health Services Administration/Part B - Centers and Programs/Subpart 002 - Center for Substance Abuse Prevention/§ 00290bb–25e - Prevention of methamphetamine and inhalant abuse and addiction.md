@@ -40,7 +40,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 #### (1) In general
 
-&emsp;Up to $500,000 of the amount available in each fiscal year to carry out this section shall be made available to the Director, acting in consultation with other Federal agencies, to support and conduct periodic analyses and evaluations of effective prevention programs for methamphetamine or inhalant abuse and addiction and the development of appropriate strategies for disseminating information about and implementing these programs.
+&emsp;Up to $500,000 of the amount available in each fiscal year to carry out this section shall be made available to the Director, acting in consultation with other Federal agencies, to support and conduct periodic analyses and evaluations of effective prevention programs for methamphetamine or inhalant abuse andaddiction and the development of appropriate strategies for disseminating information about and implementing these programs.
 
 #### (2) Annual reports
 

@@ -42,7 +42,7 @@ Benefits.—An employee appointed under subsection (b) shall be afforded the sam
 
 (g)
 
-Return Rights.—An employee serving under a career or career conditional appointment or the equivalent in an agency who transfers to or converts to an appointment in a temporary organization with the consent of the head of the agency is entitled to be returned to the employee's former position or a position of like seniority, status, and pay without grade or pay retention in the agency if the employee—
+Return Rights.—An employee serving under a career or career conditional appointment or the equivalent in an agency who transfers to or converts to an appointment in a temporary organization with the consent of thehead of the agency is entitled to be returned to the employee's former position or a position of like seniority, status, and pay without grade or pay retention in the agency if the employee—
 
 &emsp;(1) is being separated from the temporary organization for reasons other than misconduct, neglect of duty, or malfeasance; and
 

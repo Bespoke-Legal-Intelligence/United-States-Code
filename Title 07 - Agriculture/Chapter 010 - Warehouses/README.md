@@ -4,64 +4,19 @@
 | :--- | ---: |
 | [241\.](%C2%A7%2000241%20-%20Definitions.md) | Definitions. |
 | [242\.](%C2%A7%2000242%20-%20Powers%20of%20Secretary.md) | Powers of Secretary. |
-| (a) | In general. |
-| (b) | Covered agricultural products. |
-| (c) | Investigations. |
-| (d) | Inspections. |
-| (e) | Suitability for storage. |
-| (f) | Classification. |
-| (g) | Warehouse operator's duties. |
-| (h) | Systems for electronic conveyance. |
-| (i) | Examination and audits. |
-| (j) | Licenses for operation of warehouses. |
-| (k) | Licensing of other persons. |
-| (<i>l</i>) | Examination of books, records, papers, and accounts. |
-| (m) | Cooperation with States. |
 | [243\.](%C2%A7%2000243%20-%20Imposition%20and%20collection%20of%20fees.md) | Imposition and collection of fees. |
-| (a) | In general. |
-| (b) | Rates. |
-| (c) | Treatment of fees. |
-| (d) | Interest. |
-| (e) | Efficiencies and cost effectiveness. |
 | [244\.](%C2%A7%2000244%20-%20Quality%20and%20value%20standards.md) | Quality and value standards. |
 | [245\.](%C2%A7%2000245%20-%20Bonding%20and%20other%20financial%20assurance%20requirements.md) | Bonding and other financial assurance requirements. |
-| (a) | In general. |
-| (b) | Service of process. |
-| (c) | Additional assurances. |
-| (d) | Third party actions. |
 | [246\.](%C2%A7%2000246%20-%20Maintenance%20of%20records.md) | Maintenance of records. |
 | [247\.](%C2%A7%2000247%20-%20Fair%20treatment%20in%20storage%20of%20agricultural%20products.md) | Fair treatment in storage of agricultural products. |
-| (a) | In general. |
-| (b) | Allocation. |
 | [248\.](%C2%A7%2000248%20-%20Commingling%20of%20agricultural%20products.md) | Commingling of agricultural products. |
-| (a) | In general. |
-| (b) | Liability. |
 | [249\.](%C2%A7%2000249%20-%20Transfer%20of%20stored%20agricultural%20products.md) | Transfer of stored agricultural products. |
-| (a) | In general. |
-| (b) | Continued duty. |
 | [250\.](%C2%A7%2000250%20-%20Warehouse%20receipts.md) | Warehouse receipts. |
-| (a) | In general. |
-| (b) | Actual storage required. |
-| (c) | Contents. |
-| (d) | Prohibition on additional receipts or other documents. |
-| (e) | Electronic receipts and electronic documents. |
 | [251\.](%C2%A7%2000251%20-%20Conditions%20for%20delivery%20of%20agricultural%20products.md) | Conditions for delivery of agricultural products. |
-| (a) | Prompt delivery. |
-| (b) | Payment to accompany demand. |
-| (c) | Surrender of receipt. |
-| (d) | Cancellation of receipt. |
 | [252\.](%C2%A7%2000252%20-%20Suspension%20or%20revocation%20of%20licenses.md) | Suspension or revocation of licenses. |
-| (a) | In general. |
-| (b) | Temporary suspension. |
-| (c) | Authority to conduct hearings. |
-| (d) | Judicial review. |
 | [253\.](%C2%A7%2000253%20-%20Public%20information.md) | Public information. |
-| (a) | In general. |
-| (b) | Confidentiality. |
 | [254\.](%C2%A7%2000254%20-%20Penalties%20for%20noncompliance.md) | Penalties for noncompliance. |
 | [255\.](%C2%A7%2000255%20-%20Jurisdiction%20and%20arbitration.md) | Jurisdiction and arbitration. |
-| (a) | Federal jurisdiction. |
-| (b) | Arbitration. |
 | [256\.](%C2%A7%2000256%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

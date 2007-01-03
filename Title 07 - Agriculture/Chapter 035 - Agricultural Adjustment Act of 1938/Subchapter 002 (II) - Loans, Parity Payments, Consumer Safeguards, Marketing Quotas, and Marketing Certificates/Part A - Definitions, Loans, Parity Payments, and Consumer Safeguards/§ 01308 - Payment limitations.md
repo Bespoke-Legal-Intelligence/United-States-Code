@@ -50,7 +50,7 @@ In this section:
 
 &emsp;The total amount of the following gains and payments that a person may receive during any crop year may not exceed $75,000:
 
-&emsp;&emsp;(A) Any gain realized by a producer from repaying a marketing assistance loan for peanuts, wool, mohair, or honey under subtitle B or C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7931 et seq., 7951 et seq.\] at a lower level than the original loan rate established for the commodity under those subtitles.
+&emsp;&emsp;(A) Any gain realized by a producer from repaying a marketing assistance loan for peanuts, wool, mohair, or honey under subtitle B or C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C.7931 et seq., 7951 et seq.\] at a lower level than the original loan rate established for the commodity under those subtitles.
 
 &emsp;&emsp;(B) Any loan deficiency payments received for peanuts, wool, mohair, and honey under those subtitles.
 
@@ -94,9 +94,9 @@ The provisions of this section that limit payments to any person shall not be ap
 
 #### (g) Time limits; reliance
 
-Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
+Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section orsection 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214.)
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designate
 
 Par. (2)(A). Pub. L. 100–203, §1301(a)(2)(A), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
-Par. (2)(C). Pub. L. 100–203, §1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honeythat a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
+Par. (2)(C). Pub. L. 100–203, §1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
 
 Pub. L. 100–203, §1301(a)(2)(B), which directed substitution of “Subject to sections 1308–1 through 1308–3 of this title, the total” for “The total” could not be executed in view of amendments by Pub. L. 100–71 and section 1307 of Pub. L. 100–203.
 

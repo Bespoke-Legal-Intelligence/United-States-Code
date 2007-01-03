@@ -24,7 +24,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 (2) If transfer to the United States of title to such byproduct material and such land is required under this section, the Secretary of Energy or any Federal agency designated by the President shall, following the Commission's determination of compliance under subsection (c) of this section, assume title and custody of such byproduct material and land transferred as provided in this subsection. Such Secretary or Federal agency shall maintain such material and land in such manner as will protect the public health and safety and the environment. Such custody may be transferred to another officer or instrumentality of the United States only upon approval of the President.
 
-(3) If transfer to a State of title to such byproduct material is required in accordance withthis subsection, such State shall, following the Commission's determination of compliance under subsection (d) of this section, assume title and custody of such byproduct material and land transferred as provided in this subsection. Such State shall maintain such material and land in such manner as will protect the public health, safety, and the environment.
+(3) If transfer to a State of title to such byproduct material is required in accordance with this subsection, such State shall, following the Commission's determination of compliance under subsection (d) of this section, assume title and custody of such byproduct material and land transferred as provided in this subsection. Such State shall maintain such material and land in such manner as will protect the public health, safety, and the environment.
 
 (4) In the case of any such license under section 2092 of this title, which was in effect on the effective date of this section, the Commission may require, before the termination of such license, such transfer of land and interests therein (as described in paragraph (1) of this subsection) to the United States or a State in which such land is located, at the option of such State, as may be necessary to protect the public health, welfare, and the environment from any effects associated with such byproduct material. In exercising the authority of this paragraph, the Commission shall take into consideration the status of the ownership of such land and interests therein and the ability of the licensee to transfer title and custody thereof to the United States or a State.
 
@@ -55,10 +55,6 @@ Subsec. (b)(1)(A). Pub. L. 96–106, §22(e), among other changes, substituted r
 #### Effective Date
 
 Section 202(b) of Pub. L. 95–604 provided that: “This section \[enacting this section\] shall be effective three years after the enactment of this Act \[Nov. 8, 1978\].”
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
 #### Consolidation of Licenses and Procedures
 

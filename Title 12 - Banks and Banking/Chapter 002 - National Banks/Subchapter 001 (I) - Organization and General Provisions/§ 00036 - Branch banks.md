@@ -4,7 +4,7 @@ The conditions upon which a national banking association may retain or establish
 
 #### (a) Lawful and continuous operation
 
-A national banking association may retain and operate such branch or branches as it mayhave had in lawful operation on February 25, 1927, and any national banking association which continuously maintained and operated not more than one branch for a period of more than twenty-five years immediately preceding February 25, 1927, may continue to maintain and operate such branch.
+A national banking association may retain and operate such branch or branches as it may have had in lawful operation on February 25,1927, and any national banking association which continuously maintained and operated not more than one branch for a period of more than twenty-five years immediately preceding February 25, 1927, may continue to maintain and operate such branch.
 
 #### (b) Converted State banks
 
@@ -42,7 +42,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (1) In general
 
-&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorizedunder this section or section 1823(f), 1823(k), or 1831u of this title.
+&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
 
 #### (2) Retention of branches
 

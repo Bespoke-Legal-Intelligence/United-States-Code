@@ -48,7 +48,7 @@ Section 405 of Pub. L. 102–88 provided that:
 
 “(a)
 
-Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the head of any departmentor agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, or control of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
+Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the head of any department or agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, or control of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
 
 “(b)
 

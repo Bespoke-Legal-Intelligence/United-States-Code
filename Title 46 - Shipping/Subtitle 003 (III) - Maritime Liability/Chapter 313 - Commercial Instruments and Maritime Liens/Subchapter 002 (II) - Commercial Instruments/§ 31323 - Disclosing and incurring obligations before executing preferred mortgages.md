@@ -40,7 +40,3 @@ Section 31323(b) provides that, after executing a preferred mortgage, the mortga
 
 Section 31323(c) provides that if a mortgagor is convicted of a violation of this section, then the mortgage indebtedness, at the option of the mortgagee, is payable immediately. This subsection makes no substantive change to law.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31330 of this title.
-

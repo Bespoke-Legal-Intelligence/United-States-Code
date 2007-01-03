@@ -14,7 +14,3 @@ In subsec. (a), “sections 556(b) and 557(b) of title 5” substituted for “s
 
 1970—Subsec. (a). Pub. L. 91–560 required that two members of the board should have such technical or other qualifications the Commission deems appropriate to the issues to be decided.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

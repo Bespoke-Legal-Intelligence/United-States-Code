@@ -1,5 +1,7 @@
 ### \[§602. Repealed. Pub. L. 102–190, div. A, title XI, §1113(a), Dec. 5, 1991, 105 Stat. 1502\]
 
+§602
+
 Section, Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2849, related to temporary promotions of warrant officers.
 
 #### Effective Date of Repeal

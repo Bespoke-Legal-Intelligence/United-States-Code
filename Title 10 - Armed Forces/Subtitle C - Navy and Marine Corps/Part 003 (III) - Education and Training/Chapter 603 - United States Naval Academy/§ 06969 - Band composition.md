@@ -1,6 +1,6 @@
 ### §6969. Band: composition
 
-(a) The Naval Academy Band shall be composed of one leader, one second leader, and such enlisted members of the Navy as may be assigned.
+(a) The Naval Academy Band shall be composed of one leader, one second leader, and suchenlisted members of the Navy as may be assigned.
 
 (b) In determining years of service for the purpose of retirement, and in determining eligibility for reenlistment bonus, the members who are assigned as leader and second leader shall be treated as if they had not been so assigned.
 

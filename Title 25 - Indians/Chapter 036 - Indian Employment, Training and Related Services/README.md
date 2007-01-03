@@ -10,25 +10,14 @@
 | [3406\.](%C2%A7%2003406%20-%20Plan%20review.md) | Plan review. |
 | [3407\.](%C2%A7%2003407%20-%20Plan%20approval.md) | Plan approval. |
 | [3408\.](%C2%A7%2003408%20-%20Job%20creation%20activities%20authorized.md) | Job creation activities authorized. |
-| (a) | In general. |
-| (b) | Job creation opportunities. |
-| (c) | Limitation. |
 | [3409\.](%C2%A7%2003409%20-%20Private%20sector%20training%20placements.md) | Private sector training placements. |
 | [3410\.](%C2%A7%2003410%20-%20Federal%20responsibilities.md) | Federal responsibilities. |
-| (a) | Responsibilities of Department of the Interior. |
-| (b) | Report requirements. |
 | [3411\.](%C2%A7%2003411%20-%20No%20reduction%20in%20amounts.md) | No reduction in amounts. |
 | [3412\.](%C2%A7%2003412%20-%20Interagency%20fund%20transfers%20authorized.md) | Interagency fund transfers authorized. |
 | [3413\.](%C2%A7%2003413%20-%20Administration%20of%20funds%20and%20overage.md) | Administration of funds and overage. |
-| (a) | Administration of funds. |
-| (b) | Overage. |
 | [3414\.](%C2%A7%2003414%20-%20Fiscal%20accountability.md) | Fiscal accountability. |
 | [3415\.](%C2%A7%2003415%20-%20Report%20on%20statutory%20obstacles%20to%20program%20integration.md) | Report on statutory obstacles to program integration. |
-| (a) | Preliminary report. |
-| (b) | Final report. |
 | [3416\.](%C2%A7%2003416%20-%20Labor%20market%20information%20on%20Indian%20work%20force.md) | Labor market information on Indian work force. |
-| (a) | Report. |
-| (b) | Indian demographic information. |
 | [3417\.](%C2%A7%2003417%20-%20Assignment%20of%20Federal%20personnel%20to%20State%20Indian%20economic%20development%20programs.md) | Assignment of Federal personnel to State Indian economic development programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -56,7 +56,7 @@ If at any time the Director determines in writing (and provides written notifica
 
 #### (c) Quarterly determination
 
-The Director shall determine the classification of the Corporation for purposes of this part on not less than a quarterly basis (and as appropriate under subsection (b) of this section). The first such determination shall be made for the quarter ending March 31, 1992.
+The Director shall determine the classification of the Corporation for purposes of this parton not less than a quarterly basis (and as appropriate under subsection (b) of this section). The first such determination shall be made for the quarter ending March 31, 1992.
 
 #### (d) Notice
 

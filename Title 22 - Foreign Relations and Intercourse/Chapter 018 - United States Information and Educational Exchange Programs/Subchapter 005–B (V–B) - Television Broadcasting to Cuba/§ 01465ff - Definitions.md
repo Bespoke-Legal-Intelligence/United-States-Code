@@ -8,7 +8,7 @@ As used in this subchapter—
 
 &emsp;(3) the term “objectionable interference” shall be applied in the same manner as such term is applied under regulations of the Federal Communications Commission to other domestic broadcasters; and
 
-&emsp;(4) the term “appropriate committees of Congress” includes the Committee on Foreign Affairs and the Committee on Energy andCommerce of the House of Representatives and the Committee on Foreign Relations of the Senate.
+&emsp;(4) the term “appropriate committees of Congress” includes the Committee on Foreign Affairs and the Committee on Energy and Commerce of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 (Pub. L. 101–246, title II, §248, Feb. 16, 1990, 104 Stat. 62.)
 

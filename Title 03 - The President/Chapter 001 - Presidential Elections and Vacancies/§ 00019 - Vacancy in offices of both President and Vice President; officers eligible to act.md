@@ -12,7 +12,7 @@
 
 &emsp;(2) if his discharge of the powers and duties of the office is founded in whole or in part on the inability of the President or Vice President, then he shall act only until the removal of the disability of one of such individuals.
 
-(d)(1) If, by reason of death, resignation, removal from office, inability, or failure to qualify, there is no President pro tempore to act as President under subsection (b) of this section, then the officer of the United States who is highest on the following list, and who is not under disability to discharge the powers and duties of the office of President shall act as President: Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs.
+(d)(1) If, by reason of death, resignation, removal from office, inability, or failure to qualify, there is no President pro tempore to act as President under subsection (b) of this section, then the officer of the United States who is highest on the following list, and who is not under disability to discharge the powers and duties of the office of President shall act as President: Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs, Secretary of Homeland Security.
 
 (2) An individual acting as President under this subsection shall continue so to do until the expiration of the then current Presidential term, but not after a qualified and prior-entitled individual is able to act, except that the removal of the disability of an individual higher on the list contained in paragraph (1) of this subsection or the ability to qualify on the part of an individual higher on such list shall not terminate his service.
 
@@ -22,9 +22,11 @@
 
 (f) During the period that any individual acts as President under this section, his compensation shall be at the rate then provided by law in the case of the President.
 
-(June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, §6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, §10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(a), Oct. 25, 1988, 102 Stat. 2643.)
+(June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, §6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, §10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(a), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–177, title V, §503, Mar. 9, 2006, 120 Stat. 247.)
 
 #### Amendments
+
+2006—Subsec. (d)(1). Pub. L. 109–177 inserted “, Secretary of Homeland Security” after “Secretary of Veterans Affairs”.
 
 1988—Subsec. (d)(1). Pub. L. 100–527 inserted reference to Secretary of Veterans Affairs.
 

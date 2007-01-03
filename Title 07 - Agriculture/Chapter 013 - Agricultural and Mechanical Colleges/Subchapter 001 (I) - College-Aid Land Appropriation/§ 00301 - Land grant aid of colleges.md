@@ -114,7 +114,7 @@ institutions.—(A) 1994 Institutions shall not be considered as land-grant coll
 
 &emsp;&emsp;“(iii) the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 321 et seq.) (commonly known as the Second Morrill Act).
 
-&emsp;“(B) In lieu of receiving donations under the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act), relating to the donations of public land or scripfor the endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts, 1994 Institutions shall receive funding pursuant to the authorization under subsection (b).
+&emsp;“(B) In lieu of receiving donations under the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act), relating to the donations of public land or scrip for the endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts, 1994 Institutions shall receive funding pursuant to the authorization under subsection (b).
 
 &emsp;“(3)
 
@@ -134,7 +134,7 @@ Endowment.—
 
 &emsp;“(1)
 
-In general.—In accordance with this subsection, the Secretary of the Treasury shall establish a 1994 Institutions Endowment Fund (hereafter in this subsection referred to as the ‘endowment fund’). The Secretary may enter into such agreements as are necessary to carry out this subsection.
+In general.—In accordance with this subsection, the Secretary of the Treasury shall establisha 1994 Institutions Endowment Fund (hereafter in this subsection referred to as the ‘endowment fund’). The Secretary may enter into such agreements as are necessary to carry out this subsection.
 
 &emsp;“(2)
 
@@ -248,7 +248,7 @@ Requirements.—Grant applications submitted under this section shall certify th
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years1999 through 2007. Amounts appropriated shall remain available until expended.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007. Amounts appropriated shall remain available until expended.”
 
 #### Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands
 

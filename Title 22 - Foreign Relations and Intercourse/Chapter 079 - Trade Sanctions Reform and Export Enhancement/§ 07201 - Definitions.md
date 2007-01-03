@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;&emsp;(E) any commercial export sale of agricultural commodities; or
 
-&emsp;&emsp;(F) any export financing (including credits or credit guarantees) provided by the UnitedStates Government for agricultural commodities.
+&emsp;&emsp;(F) any export financing (including credits or credit guarantees) provided by the United States Government for agricultural commodities.
 
 #### (3) Joint resolution
 

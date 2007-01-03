@@ -22,7 +22,7 @@ A power-driven vessel of less than 12 meters in length may, in lieu of the light
 
 #### (d) Power-driven vessels when operating on Great Lakes
 
-A power-driven vessel when operating on the Great Lakes may carry an all-round white lightin lieu of the second masthead light and sternlight prescribed in paragraph (a) of this Rule. The light shall be carried in the position of the second masthead light and be visible at the same minimum range.
+A power-driven vessel when operating on the Great Lakes may carry an all-round white light in lieu of the second masthead light and sternlight prescribed in paragraph (a) of this Rule. The light shall be carried in the position of the second masthead light and be visible at the same minimum range.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3424; Pub. L. 104–324, title VII, §701(3), Oct. 19, 1996, 110 Stat. 3932.)
 

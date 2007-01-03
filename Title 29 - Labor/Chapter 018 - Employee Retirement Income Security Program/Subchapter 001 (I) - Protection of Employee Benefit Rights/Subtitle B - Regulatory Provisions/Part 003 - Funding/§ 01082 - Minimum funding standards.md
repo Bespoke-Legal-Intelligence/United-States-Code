@@ -82,11 +82,11 @@ In general.—Except as provided in subclause (II) or (III), the term “permiss
 
 &emsp;&emsp;&emsp;(II)
 
-Special rule for years 2004 and 2005.—In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the term “permissible range” means a rate of interest which is not above, and not more than 10 percent below, the weighted average of the rates of interest on amounts invested conservatively in long-term investment grade corporate bonds during the 4-year period ending on the last day before the beginning of the plan year. Such rates shall be determined by the Secretary of the Treasury on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the average rate, publicly available.
+Special rule for years 2004, 2005, 2006, and 2007.—In the case of plan years beginning after December 31, 2003, and before January 1, 2008, the term “permissible range” means a rate of interest which is not above, and not more than 10 percent below, the weighted average of the rates of interest on amounts invested conservatively in long-term investment grade corporate bonds during the 4-year period ending on the last day before the beginning of the plan year. Such rates shall be determined by the Secretary of the Treasury on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the average rate, publicly available.
 
 &emsp;&emsp;&emsp;(III)
 
-Secretarial authority.—If the Secretary finds that the lowest rate of interest permissible under subclause (I) or (II) is unreasonably high, the Secretary may prescribe a lower rate of interest, except that such rate may not be less than 80 percent of the average rate determined under such subclause.
+Secretarial authority.—If the Secretary finds that the lowest rate of interest permissible under subclause (I) or (II) is unreasonably high, the Secretarymay prescribe a lower rate of interest, except that such rate may not be less than 80 percent of the average rate determined under such subclause.
 
 &emsp;&emsp;(iii)
 
@@ -146,7 +146,7 @@ Interest.—For the plan year to which a charge is deferred pursuant to an elect
 
 Restrictions on benefit increases.—No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any period for which a charge is deferred pursuant to an election under clause (i), unless—
 
-&emsp;&emsp;&emsp;(I) the plan's enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or
+&emsp;&emsp;&emsp;(I) the plan's enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that theamendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or
 
 &emsp;&emsp;&emsp;(II) the amendment is required by a collective bargaining agreement which is in effect on April 10, 2004.
 
@@ -416,7 +416,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (ii) Unfunded existing benefit increase liabilities
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the unfunded existing benefit increase liability means, with respect to any benefit increase under the agreements described in clause (i) which takes effect during or after the 1stplan year beginning after December 31, 1987, the unfunded current liability determined—
+&emsp;&emsp;&emsp;For purposes of clause (i), the unfunded existing benefit increase liability means, with respect to any benefit increase under the agreements described in clause (i) which takes effect during or after the 1st plan year beginning after December 31, 1987, the unfunded current liability determined—
 
 &emsp;&emsp;&emsp;&emsp;(I) by taking into account only liabilities attributable to such benefit increase, and
 
@@ -662,9 +662,9 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;&emsp;&emsp;For a plan year beginning in 2002 or 2003, notwithstanding subclause (I), in the case that the rate of interest used under subsection (b)(5) of this section exceeds the highest rate permitted under subclause (I), the rate of interest used to determine current liability under this subsection may exceed the rate of interest otherwise permitted under subclause (I); except that such rate of interest shall not exceed 120 percent of the weighted average referred to in subsection (b)(5)(B)(ii) of this section.
 
-#### (IV) Special rule for 2004 and 2005
+#### (IV) Special rule for 2004, 2005, 2006, and 2007
 
-&emsp;&emsp;&emsp;&emsp;For plan years beginning in 2004 or 2005, notwithstanding subclause (I), the rate of interest used to determine current liability under this subsection shall be the rate of interest under subsection (b)(5) of this section.
+&emsp;&emsp;&emsp;&emsp;For plan years beginning in 2004, 2005, 2006, or 2007, notwithstanding subclause (I), the rate of interest used to determine current liability under this subsection shall be the rate of interest under subsection (b)(5) of this section.
 
 #### (ii) Mortality tables
 
@@ -840,7 +840,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (A) In general
 
-&emsp;&emsp;For any applicable plan year, at the election of the employer, the increase underparagraph (1) shall not exceed the greater of—
+&emsp;&emsp;For any applicable plan year, at the election of the employer, the increase under paragraph (1) shall not exceed the greater of—
 
 &emsp;&emsp;&emsp;(i) the increase that would be required under paragraph (1) if the provisions of this subchapter as in effect for plan years beginning before January 1, 1995, had remained in effect, or
 
@@ -920,7 +920,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (II) Plans initially under clause (i)
 
-&emsp;&emsp;&emsp;&emsp;In the case of a plan which (but for this subclause) has an initial funded current liability percentage of 75 percent or less, clause (ii) (and not clause (i)) shall apply to such plan with respect to applicable plan years beginning after the first applicable plan year for which the sum of the initial funded current liability percentage and the applicable number of percentage points (determined under clause (i)) exceeds 75 percent. For purposes of applying clause (ii) to such a plan, the initial funded current liability percentage of such plan shall be treated as being the sum referred to in the preceding sentence.
+&emsp;&emsp;&emsp;&emsp;In the case of a plan which (but for this subclause) has an initial funded currentliability percentage of 75 percent or less, clause (ii) (and not clause (i)) shall apply to such plan with respect to applicable plan years beginning after the first applicable plan year for which the sum of the initial funded current liability percentage and the applicable number of percentage points (determined under clause (i)) exceeds 75 percent. For purposes of applying clause (ii) to such a plan, the initial funded current liability percentage of such plan shall be treated as being the sum referred to in the preceding sentence.
 
 #### (C) Definitions
 
@@ -1123,7 +1123,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (iv) Limitation on increase
 
-&emsp;&emsp;&emsp;In no event shall the increases under clause (ii) exceed the amount necessary to increase the funded current liability percentage (within the meaning of subsection (d)(8)(B) of this section) for the plan year to 100 percent.
+&emsp;&emsp;&emsp;In no event shall the increases under clause (ii) exceed the amount necessary to increase the funded current liability percentage (within the meaning of subsection\(d)(8)(B) of this section) for the plan year to 100 percent.
 
 #### (5) Liquidity requirement
 
@@ -1269,11 +1269,215 @@ For purposes of this section, in the case of a qualified transfer (as defined in
 
 &emsp;&emsp;<b>For alternative amortization method for certain multiemployer plans see section 1013(d) of this Act.</b>
 
-(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638.)
+(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title III, §301(a)(1), (2), Aug. 17, 2006, 120 Stat. 919.)
 
-#### Amendment of Section
+#### Repeal and Enactment of Section
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>Pub. L. 109–280, title I, §101(a), (b), (d), Aug. 17, 2006, 120 Stat. 784, 789, provided that, applicable to plan years beginning after 2007, this section is repealed and a new section 1082 of this title is enacted to read as follows:</i>
+
+#### §1082. Minimum funding standards
+
+#### <i>(a) Requirement to meet minimum funding standard</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>A plan to which this part applies shall satisfy the minimum funding standard applicable to the plan for any plan year.</i>
+
+#### <i>(2) Minimum funding standard</i>
+
+&emsp;<i>For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—</i>
+
+&emsp;&emsp;<i>(A) in the case of a defined benefit plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 1083 of this title for the plan for the plan year,</i>
+
+&emsp;&emsp;<i>(B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan, and</i>
+
+&emsp;&emsp;<i>(C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1084 of this title as of the end of the plan year.</i>
+
+#### <i>(b) Liability for contributions</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 1083(j) of this title) shall be paid by the employer responsible for making contributions to or under the plan.</i>
+
+#### <i>(2) Joint and several liability where employer member of controlled group</i>
+
+&emsp;<i>If the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for payment of such contributions.</i>
+
+#### <i>(c) Variance from minimum funding standards</i>
+
+#### <i>(1) Waiver in case of business hardship</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>If—</i>
+
+&emsp;&emsp;&emsp;<i>(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan is) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,</i>
+
+> &emsp;&emsp;<i>the Secretary of the Treasury may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. The Secretary of the Treasury shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years.</i>
+
+#### <i>(B) Effects of waiver</i>
+
+&emsp;&emsp;<i>If a waiver is granted under subparagraph (A) for any plan year—</i>
+
+&emsp;&emsp;&emsp;<i>(i) in the case of a single-employer plan, the minimum required contribution under section 1083 of this title for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 1083(e) of this title, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1084(b)(2)(C) of this title.</i>
+
+#### <i>(C) Waiver of amortized portion not allowed</i>
+
+&emsp;&emsp;<i>The Secretary of the Treasury may not waive under subparagraph (A) any portion of the minimum funding standard under subsection (a) for a plan year which is attributable to any waived funding deficiency for any preceding plan year.</i>
+
+#### <i>(2) Determination of business hardship</i>
+
+&emsp;<i>For purposes of this subsection, the factors taken into account in determining temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan) shall include (but shall not be limited to) whether or not—</i>
+
+&emsp;&emsp;<i>(A) the employer is operating at an economic loss,</i>
+
+&emsp;&emsp;<i>(B) there is substantial unemployment or underemployment in the trade or business and in the industry concerned,</i>
+
+&emsp;&emsp;<i>(C) the sales and profits of the industry concerned are depressed or declining, and</i>
+
+&emsp;&emsp;<i>(D) it is reasonable to expect that the plan will be continued only if the waiver is granted.</i>
+
+#### <i>(3) Waived funding deficiency</i>
+
+&emsp;<i>For purposes of this part, the term “waived funding deficiency” means the portion of the minimum funding standard under subsection (a) (determined without regard to the waiver) for a plan year waived by the Secretary of the Treasury and not satisfied by employer contributions.</i>
+
+#### <i>(4) Security for waivers for single-employer plans, consultations</i>
+
+#### <i>(A) Security may be required</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>Except as provided in subparagraph (C), the Secretary of the Treasury may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 1301(a)(15) of this title) to</i><i>provide security to such plan as a condition for granting or modifying a waiver under paragraph (1).</i>
+
+#### <i>(ii) Special rules</i>
+
+&emsp;&emsp;&emsp;<i>Any security provided under clause (i) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Corporation, by a contributing sponsor (within the meaning of section 1301(a)(13) of this title), or a member of such sponsor's controlled group (within the meaning of section 1301(a)(14) of this title).</i>
+
+#### <i>(B) Consultation with the Pension Benefit Guaranty Corporation</i>
+
+&emsp;&emsp;<i>Except as provided in subparagraph (C), the Secretary of the Treasury shall, before granting or modifying a waiver under this subsection with respect to a plan described in subparagraph (A)(i)—</i>
+
+&emsp;&emsp;&emsp;<i>(i) provide the Pension Benefit Guaranty Corporation with—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) notice of the completed application for any waiver or modification, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) an opportunity to comment on such application within 30 days after receipt of such notice, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) consider—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) any comments of the Corporation under clause (i)(II), and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) any views of any employee organization (within the meaning of section 1002(4) of this title) representing participants in the plan which are submitted in writing to the Secretary of the Treasury in connection with such application.</i>
+
+> &emsp;&emsp;<i>Information provided to the Corporation under this subparagraph shall be considered tax return information and subject to the safeguarding and reporting requirements of section 6103(p) of title 26.</i>
+
+#### <i>(C) Exception for certain waivers</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The preceding provisions of this paragraph shall not apply to any plan with respect to which the sum of—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the aggregate unpaid minimum required contributions for the plan year and all preceding plan years, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 1083(e)(2) of this title,</i>
+
+&emsp;&emsp;<i> is less than $1,000,000.</i>
+
+#### <i>(ii) Treatment of waivers for which applications are pending</i>
+
+&emsp;&emsp;&emsp;<i>The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.</i>
+
+#### <i>(iii) Unpaid minimum required contribution</i>
+
+&emsp;&emsp;&emsp;<i>For purposes of this subparagraph—</i>
+
+#### <i>(I) In general</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>The term “unpaid minimum required contribution” means, with respect to any plan year, any minimum required contribution under section 1083 of this title for the plan year which is not paid on or before the due date (as determined under section 1083(j)(1) of this title) for the plan year.</i>
+
+#### <i>(II) Ordering rule</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>For purposes of subclause (I), any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for all preceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 1083 of this title for the plan year.</i>
+
+#### <i>(5) Special rules for single-employer plans</i>
+
+#### <i>(A) Application must be submitted before date 21/2 months after close of year</i>
+
+&emsp;&emsp;<i>In the case of a single-employer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless an application therefor is submitted to the Secretary of the Treasury not later than the 15th day of the 3rd month beginning after the close of such plan year.</i>
+
+#### <i>(B) Special rule if employer is member of controlled group</i>
+
+&emsp;&emsp;<i>In the case of a single-employer plan, if an employer is a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—</i>
+
+&emsp;&emsp;&emsp;<i>(i) with respect to such employer, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) with respect to the controlled group of which such employer is a member (determined by treating all members of such group as a single employer).</i>
+
+> &emsp;&emsp;<i>The Secretary of the Treasury may provide that an analysis of a trade or business or industry of a member need not be conducted if such Secretary determines such analysis is not necessary because the taking into account of such member would not significantly affect the determination under this paragraph.</i>
+
+#### <i>(6) Advance notice</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21) of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.</i>
+
+#### <i>(B) Consideration of relevant information</i>
+
+&emsp;&emsp;<i>The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under subparagraph (A).</i>
+
+#### <i>(7) Restriction on plan amendments</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of bene</i><i>fits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.</i>
+
+#### <i>(B) Exception</i>
+
+&emsp;&emsp;<i>Subparagraph (A) shall not apply to any plan amendment which—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the Secretary of the Treasury determines to be reasonable and which provides for only de minimis increases in the liabilities of the plan,</i>
+
+&emsp;&emsp;&emsp;<i>(ii) only repeals an amendment described in subsection (d)(2), or</i>
+
+&emsp;&emsp;&emsp;<i>(iii) is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26.</i>
+
+#### <i>(8) Cross reference</i>
+
+&emsp;<i>For corresponding duties of the Secretary of the Treasury with regard to implementation of the Internal Revenue Code of 1986, see section 412(c) of title 26.</i>
+
+#### <i>(d) Miscellaneous rules</i>
+
+#### <i>(1) Change in method or year</i>
+
+&emsp;<i>If the funding method, the valuation date, or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary of the Treasury.</i>
+
+#### <i>(2) Certain retroactive plan amendments</i>
+
+&emsp;<i>For purposes of this section, any amendment applying to a plan year which—</i>
+
+&emsp;&emsp;<i>(A) is adopted after the close of such plan year but no later than 21/2 months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),</i>
+
+&emsp;&emsp;<i>(B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and</i>
+
+&emsp;&emsp;<i>(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,</i>
+
+> &emsp;<i>shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under section 1084(d) of this title) is unavailable or inadequate.</i>
+
+#### <i>(3) Controlled group</i>
+
+&emsp;<i>For purposes of this section, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o</i>) <i>of section 414 of title 26.</i>
+
+#### Enactment of Subsection (b)(3)
+
+<i>Pub. L. 109–280, title II, §202(d), (f), Aug. 17, 2006, 120 Stat. 885, 919, provided that, applicable with respect to plan years beginning after 2007, with special rules for certain notices and for certain restored benefits, subsection (b) of this section is amended by adding paragraph (3) at the end to read as follows:</i>
+
+#### <i>(3) Multiemployer plans in critical status</i>
+
+&emsp;<i>Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 1085 of this title. This paragraph shall only apply if the plan adopts a rehabilitation plan in accordance with section 1085(e) of this title and complies with the terms of such rehabilitation plan (and any updates or modifications of the plan).</i>
 
 #### References in Text
 
@@ -1288,6 +1492,10 @@ Section 1013(d) of this Act, referred to in subsec. (h), is section 1013(d) of P
 Section 2005(d)(2) of Pub. L. 100–647, which directed that subsec. (d)(3)(B) of this section be amended by striking out “October 17, 1987” in cl. (i) and inserting in lieu thereof “October 29, 1987”, and by striking out “October 16, 1987” in cl. (iii) and inserting in lieu thereof “October 28, 1987”, could not be executed because it did not contain cls. (i) and (iii).
 
 #### Amendments
+
+2006—Subsec. (b)(5)(B)(ii)(II). Pub. L. 109–280, §301(a)(1), substituted “, 2005, 2006, and 2007” for “and 2005” in heading and “2008” for “2006” in text.
+
+Subsec. (d)(7)(C)(i)(IV). Pub. L. 109–280, §301(a)(2), substituted “, 2005, 2006, and 2007” for “and 2005” in heading and “, 2005, 2006, or 2007” for “or 2005” in text.
 
 2005—Subsec. (e)(4)(B)(i). Pub. L. 109–135 substituted “subsection (d)” for “subsection (c)”.
 
@@ -1313,11 +1521,11 @@ Subsec. (d)(7)(C)(i)(III). Pub. L. 107–147, §405(b)(1), added subcl. (III).
 
 Subsec. (e)(7). Pub. L. 107–147, §405(b)(2), added par. (7).
 
-2001—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §§651(b)(1), 901, temporarily substituted “in the case of plan years beginning before January 1, 2004, the applicable percentage” for “the applicable percentage”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §651(b)(1), substituted “in the case of plan years beginning before January 1, 2004, the applicable percentage” for “the applicable percentage”.
 
-Subsec. (c)(7)(F). Pub. L. 107–16, §§651(b)(2), 901, temporarily reenacted heading without change and amended text of subpar. (F) generally, substituting applicable percentages 165 and 170 in the case of any plan year beginning in calendar year 2002 and 2003, respectively, for applicable percentages 155, 160, 165, and 170 in the caseof any plan year beginning in 1999 or 2000, 2001 or 2002, 2003 or 2004, and 2005 and succeeding years, respectively. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(7)(F). Pub. L. 107–16, §651(b)(2), reenacted heading without change and amended text of subpar. (F) generally, substituting applicable percentages 165 and 170 in the case of any plan year beginning in calendar year 2002 and 2003, respectively, for applicable percentages 155, 160, 165, and 170 in the case of any plan year beginning in 1999 or 2000, 2001 or 2002, 2003 or 2004, and 2005 and succeeding years, respectively.
 
-Subsec. (c)(9). Pub. L. 107–16, §§661(b), 901, temporarily designated existing provisions as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(9). Pub. L. 107–16, §661(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
 1997—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(2), added subpar. (E).
 
@@ -1481,6 +1689,32 @@ Subsec. (b)(3). Pub. L. 96–364, §304(b)(1), struck out in par. (B)(i) “(40 
 
 Subsec. (b)(6), (7). Pub. L. 96–364, §304(b)(2), added pars. (6) and (7).
 
+#### Effective and Termination Dates of 2006 Amendment
+
+Pub. L. 109–280, title I, §101(d), Aug. 17, 2006, 120 Stat. 789, provided that: “The amendments made by this section \[enacting a new section 1082 of this title and repealing existing section 1082 of this title and sections 1083 to 1085, 1085a, 1085b, and 1086 of this title\] shall apply to plan years beginning after 2007.”
+
+Pub. L. 109–280, title II, §202(f), Aug. 17, 2006, 120 Stat. 885, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[enacting section 1085 of this title and amending this section and section 1132 of this title\] shall apply with respect to plan years beginning after 2007.
+
+“(2)
+
+Special rule for certain notices.—In any case in which a plan's actuary certifies that it is reasonably expected that a multiemployer plan will be in critical status under section 305(b)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085(b)(3)\], as added by this section, with respect to the first plan year beginning after 2007, the notice required under subparagraph (D) of such section may be provided at any time after the date of enactment \[Aug. 17, 2006\], so long as it is provided on or before the last date for providing the notice under such subparagraph.
+
+“(3)
+
+Special rule for certain restored benefits.—In the case of a multiemployer plan—
+
+&emsp;“(A) with respect to which benefits were reduced pursuant to a plan amendment adopted on or after January 1, 2002, and before June 30, 2005, and
+
+&emsp;“(B) which, pursuant to the plan document, the trust agreement, or a formal written communication from the plan sponsor to participants provided before June 30, 2005, provided for the restoration of such benefits,
+
+> the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments.”
+
+Amendment by section 202(d) of Pub. L. 109–280 inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see section 221(c) of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 101(a) of Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of Title 26, Internal Revenue Code.
@@ -1489,13 +1723,11 @@ Amendment by section 101(a) of Pub. L. 108–218 applicable, except as otherwise
 
 Amendment by section 411(v)(2) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by section 651(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2001, see section 651(c) of Pub. L. 107–16, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
 Amendment by section 661(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2001, see section 661(c) of Pub. L. 107–16, set out as a note under section 412 of Title 26, Internal Revenue Code.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1997 Amendment
 
@@ -1549,7 +1781,7 @@ Amendment by Pub. L. 100–647 effective as if included in the amendments made b
 
 Amendment by section 9301(b) of Pub. L. 100–203 applicable to years beginning after Dec. 31, 1987, see section 9301(c)(1) of Pub. L. 100–203, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
-Amendment by section 9303(b) of Pub. L. 100–203 applicable with respect to plan years beginning after Dec. 31, 1988, see section 9303(e)(1) of Pub. L. 100–203, set out as a note under section 412 of Title 26.
+Amendment by section 9303(b) of Pub. L. 100–203 applicable with respect to plan years beginning after Dec.31, 1988, see section 9303(e)(1) of Pub. L. 100–203, set out as a note under section 412 of Title 26.
 
 Amendment by section 9303(d)(2) of Pub. L. 100–203 applicable with respect to plan years beginning after Dec. 31, 1987, see section 9303(e)(2) of Pub. L. 100–203, set out as a note under section 412 of Title 26.
 
@@ -1570,6 +1802,14 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
+
+#### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
+
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+
+#### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
+
+For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

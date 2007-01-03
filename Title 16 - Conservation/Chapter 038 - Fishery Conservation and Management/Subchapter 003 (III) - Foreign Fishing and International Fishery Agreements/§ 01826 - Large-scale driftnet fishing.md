@@ -70,7 +70,7 @@ Not later than January 1, 1991, and every year thereafter until the purposes of 
 
 #### (f) Certification
 
-If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4) of this section, the Secretary shall certify that fact to the President. Such certificationshall be deemed to be a certification for the purposes of section 1978(a) of title 22.
+If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4) of this section, the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22.
 
 #### (g) Effect on sovereign rights
 
@@ -87,6 +87,8 @@ As used in this section, the term “living marine resources” includes fish, m
 The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to in subsec. (a), is title IV of Pub. L. 100–220, which is set out as a note under section 1822 of this title.
 
 Presidential Proclamation Numbered 5030, referred to in subsec. (g), is set out under section 1453 of this title.
+
+This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

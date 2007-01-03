@@ -220,7 +220,7 @@
 
 &emsp;&emsp;(B) the plan has contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) with a sufficient number and range of providers within such category to provide covered services under the terms of the plan,
 
-> &emsp;or a combination of both. The previous sentence shall not be construed as restricting the persons from whom enrollees under such a plan may obtain covered benefits, except that, if a plan entirely meets such requirement with respect to a category of health care professional or provider on the basis of subparagraph (B), it may provide for a higher beneficiary copayment in the case of health care professionals and providers of that category who do not have contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) to provide covered services under the terms of the plan.
+> &emsp;or a combination of both. The previous sentence shall not be construed as restricting the persons from whom enrollees under such a plan may obtain covered benefits, except that, if a plan entirely meets such requirement with respect to a category of health care professional or provider on the basis of subparagraph\(B), it may provide for a higher beneficiary copayment in the case of health care professionals and providers of that category who do not have contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) to provide covered services under the terms of the plan.
 
 #### (e) Quality improvement program
 
@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) has a network of providers that have agreed to a contractually specified reimbursement for covered benefits with the organization offering the plan;
 
-&emsp;&emsp;&emsp;&emsp;(II) provides for reimbursement for all covered benefits regardless of whethersuch benefits are provided within such network of providers; and
+&emsp;&emsp;&emsp;&emsp;(II) provides for reimbursement for all covered benefits regardless of whether such benefits are provided within such network of providers; and
 
 &emsp;&emsp;&emsp;&emsp;(III) is offered by an organization that is not licensed or organized under State law as a health maintenance organization.
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;&emsp;(vi) Subsection (j) of this section (relating to provider participation rules).
 
-&emsp;&emsp;&emsp;(vii) The requirements described in section 1395w–104(j) of this title, to the extent such requirements apply under section 1395w–131(c) of this title.
+&emsp;&emsp;&emsp;(vii) The requirements described in section 1395w–104(j) of this title, to the extentsuch requirements apply under section 1395w–131(c) of this title.
 
 #### (C) Timely action on applications
 
@@ -358,7 +358,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (4) Independent review of certain coverage denials
 
-&emsp;The Secretary shall contract with an independent, outside entity to review and resolve in a timely manner reconsiderations that affirm denial of coverage, in whole or in part. The provisions of section 1395ff(c)(5) of this title shall apply to independent outside entities under contract with the Secretary under this paragraph.
+&emsp;The Secretary shall contract with an independent, outside entity to review and resolve in a timely manner reconsiderations that affirm denial of coverage, in whole or in part.The provisions of section 1395ff(c)(5) of this title shall apply to independent outside entities under contract with the Secretary under this paragraph.
 
 #### (5) Appeals
 
@@ -480,7 +480,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider of services) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA plan shall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies to such a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
+&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider of services) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA plan shall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies tosuch a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
 
 #### (2) Application to Medicare+Choice private fee-for-service plans
 
@@ -514,7 +514,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
-&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments tohospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
+&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) notice of the fact that balance billing is permitted under such subparagraph for such services, and
 
@@ -620,7 +620,7 @@ Subsec. (e)(1). Pub. L. 108–173, §722(a)(2), reenacted heading without change
 
 Pub. L. 108–173, §233(a)(1), inserted “(other than MSA plans)” after “plans”.
 
-Subsec. (e)(2). Pub. L. 108–173, §722(a)(2), amended par. (2) generally, substituting provisions relating to chronic care improvement programs for provisions relating to elements of the quality assurance program of an organization with respect to a Medicare+Choice plan.
+Subsec. (e)(2). Pub. L. 108–173, §722(a)(2), amended par. (2) generally, substituting provisions relating to chronic care improvement programs for provisions relatingto elements of the quality assurance program of an organization with respect to a Medicare+Choice plan.
 
 Subsec. (e)(2)(A). Pub. L. 108–173, §233(a)(2)(B), struck out “, a non-network MSA plan,” after “fee-for-service plan” in introductory provisions.
 
@@ -666,7 +666,7 @@ Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(6) \[title VI, §621(a)\], added s
 
 1999—Subsec. (a)(3)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(i)\], struck out comma after “MSA plan” and inserted comma after “the coverage)”.
 
-Subsec. (e)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(1)\], substituted “, a non-network MSA plan, ora preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
+Subsec. (e)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(1)\], substituted “, a non-network MSA plan, or a preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(2)\], substituted “, non-network MSA plans, and preferred provider organization plans” for “and non-network MSA plans” in heading and “, a non-network MSA plan, or a preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
 

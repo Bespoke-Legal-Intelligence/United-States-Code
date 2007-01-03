@@ -1,6 +1,6 @@
 ### §1330. Collection of penalties and expenses
 
-(a) Notwithstanding any other provisions of this subchapter, the withholding or denial ofclearance of or a lien upon any vessel or aircraft provided for in section 1221, 1224, 1253(c)(2), 1281, 1283, 1284, 1285, 1286, 1321, 1322, or 1323 of this title shall not be regarded as the sole and exclusive means or remedy for the enforcement of payments of any fine, penalty or expenses imposed or incurred under such sections, but, in the discretion of the Attorney General, the amount thereof may be recovered by civil suit, in the name of the United States, from any person made liable under any of such sections.
+(a) Notwithstanding any other provisions of this subchapter, the withholding or denial of clearance of or a lien upon any vessel or aircraft provided for in section 1221, 1224, 1253(c)(2), 1281, 1283, 1284, 1285, 1286, 1321, 1322, or 1323 of this title shall not be regarded as the sole and exclusive means or remedy for the enforcement of payments of any fine, penalty or expenses imposed or incurred under such sections, but, in the discretion of the Attorney General, the amount thereof may be recovered by civil suit, in the name of the United States, from any person made liable under any of such sections.
 
 (b)(1) There is established in the general fund of the Treasury a separate account which shall be known as the “Immigration Enforcement Account”. Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration Enforcement Account amounts described in paragraph (2) to remain available until expended.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior t
 
 &emsp;&emsp;“(B) the implementation of the system described in section 1252(a)(3)(A) of this title, and
 
-&emsp;&emsp;“(C) for the repair, maintenance, or construction on the United States border, in areas experiencing high levels of apprehensions of illegal aliens, of structures to deter illegal entry into the United States; and
+&emsp;&emsp;“(C) for the repair, maintenance, or construction on the United States border, in areas experiencinghigh levels of apprehensions of illegal aliens, of structures to deter illegal entry into the United States; and
 
 &emsp;“(2) for the Executive Office for Immigration Review in the Department of Justice for the purpose of removing the backlogs in the preparation of transcripts of deportation proceedings conducted under section 1252 of this title.”
 

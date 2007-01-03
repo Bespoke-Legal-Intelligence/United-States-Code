@@ -6,8 +6,6 @@
 | :--- | ---: |
 | [2001\.](Subchapter%20001%20%28I%29%20-%20Definitions/%C2%A7%2002001%20-%20Definitions%20relating%20to%20the%20system.md) | Definitions relating to the system. |
 | [2002\.](Subchapter%20001%20%28I%29%20-%20Definitions/%C2%A7%2002002%20-%20Definitions%20relating%20to%20participants%20and%20annuitants.md) | Definitions relating to participants and annuitants. |
-| (a) | General definitions. |
-| (b) | “Child” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,14 +16,8 @@
 |  |  |
 | :--- | ---: |
 | [2011\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20A%20-%20Establishment%20of%20System/%C2%A7%2002011%20-%20CIARDS%20system.md) | CIARDS system. |
-| (a) | In general. |
-| (b) | Administration of system. |
-| (c) | Finality of decisions of DCI. |
 | [2012\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20A%20-%20Establishment%20of%20System/%C2%A7%2002012%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20Fund.md) | Central Intelligence Agency Retirement and Disability Fund. |
 | [2013\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20A%20-%20Establishment%20of%20System/%C2%A7%2002013%20-%20Participants%20in%20CIARDS%20system.md) | Participants in CIARDS system. |
-| (a) | Designation of participants. |
-| (b) | Qualifying service. |
-| (c) | Election of employee to be participant. |
 | [2014\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20A%20-%20Establishment%20of%20System/%C2%A7%2002014%20-%20Annuitants.md) | Annuitants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,10 +27,6 @@
 |  |  |
 | :--- | ---: |
 | [2021\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20B%20-%20Contributions/%C2%A7%2002021%20-%20Contributions%20to%20fund.md) | Contributions to fund. |
-| (a) | In general. |
-| (b) | Consent of participant to deductions from pay. |
-| (c) | Treatment of contributions after 35 years of service. |
-| (d) | Offset for social security taxes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,39 +35,10 @@
 |  |  |
 | :--- | ---: |
 | [2031\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20C%20-%20Computation%20of%20Annuities/%C2%A7%2002031%20-%20Computation%20of%20annuities.md) | Computation of annuities. |
-| (a) | Annuity of participant. |
-| (b) | Spouse or former spouse survivor annuity. |
-| (c) | 18-month open period after retirement to provide spouse coverage. |
-| (d) | Annuities for surviving children. |
-| (e) | Commencement and termination of child annuities. |
-| (f) | Participants not married at time of retirement. |
-| (g) | Effect of divorce after retirement. |
-| (h) | Coordination of annuities. |
-| (i) | Supplemental survivor annuities. |
-| (j) | Offset of annuities by amount of social security benefit. |
-| (k) | Information from other agencies. |
-| (<i>l</i>) | Information on rights under system. |
 | [2032\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20C%20-%20Computation%20of%20Annuities/%C2%A7%2002032%20-%20Annuities%20for%20former%20spouses.md) | Annuities for former spouses. |
-| (a) | Former spouse share of participant's annuity. |
-| (b) | Former spouse survivor annuity. |
-| (c) | Optional additional survivor annuities for other former spouse or surviving spouse. |
 | [2033\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20C%20-%20Computation%20of%20Annuities/%C2%A7%2002033%20-%20Election%20of%20survivor%20benefits%20for%20certain%20former%20spouses%20divorced%20as%20of%20November%2015%2C%201982.md) | Election of survivor benefits for certain former spouses divorced as of November 15, 1982. |
-| (a) | Former spouses as of November 15, 1982. |
-| (b) | Time for making election. |
-| (c) | Base for annuity. |
-| (d) | Reduction in participant's annuity. |
 | [2034\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20C%20-%20Computation%20of%20Annuities/%C2%A7%2002034%20-%20Survivor%20annuity%20for%20certain%20other%20former%20spouses.md) | Survivor annuity for certain other former spouses. |
-| (a) | Survivor annuity. |
-| (b) | Limitations. |
-| (c) | Commencement and termination of annuity. |
-| (d) | Application. |
-| (e) | Restoration of annuity. |
 | [2035\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20C%20-%20Computation%20of%20Annuities/%C2%A7%2002035%20-%20Retirement%20annuity%20for%20certain%20former%20spouses.md) | Retirement annuity for certain former spouses. |
-| (a) | Retirement annuity. |
-| (b) | Limitations. |
-| (c) | Commencement and termination. |
-| (d) | Restoration of annuities. |
-| (e) | Savings provision. |
 | [2036\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20C%20-%20Computation%20of%20Annuities/%C2%A7%2002036%20-%20Survivor%20annuities%20for%20previous%20spouses.md) | Survivor annuities for previous spouses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,28 +48,11 @@
 |  |  |
 | :--- | ---: |
 | [2051\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20D%20-%20Benefits%20Accruing%20to%20Certain%20Participants/%C2%A7%2002051%20-%20Retirement%20for%20disability%20or%20incapacity%3B%20medical%20examination%3B%20recovery.md) | Retirement for disability or incapacity; medical examination; recovery. |
-| (a) | Disability retirement. |
-| (b) | Computation of disability annuity. |
-| (c) | Medical examinations. |
-| (d) | Treatment of recovered disability annuitant who is not reinstated. |
-| (e) | Coordination of benefits. |
-| (f) | Offset from survivor annuity for workers’ compensation payment. |
 | [2052\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20D%20-%20Benefits%20Accruing%20to%20Certain%20Participants/%C2%A7%2002052%20-%20Death%20in%20service.md) | Death in service. |
-| (a) | Return of contributions when no annuity payable. |
-| (b) | Survivor annuity for surviving spouse or former spouse. |
-| (c) | Annuities for surviving children. |
 | [2053\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20D%20-%20Benefits%20Accruing%20to%20Certain%20Participants/%C2%A7%2002053%20-%20Voluntary%20retirement.md) | Voluntary retirement. |
 | [2054\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20D%20-%20Benefits%20Accruing%20to%20Certain%20Participants/%C2%A7%2002054%20-%20Discontinued%20service%20benefits.md) | Discontinued service benefits. |
-| (a) | Deferred annuity. |
-| (b) | Refund of contributions if former participant dies before age 62. |
 | [2055\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20D%20-%20Benefits%20Accruing%20to%20Certain%20Participants/%C2%A7%2002055%20-%20Mandatory%20retirement.md) | Mandatory retirement. |
-| (a) | Involuntary retirement. |
-| (b) | Mandatory retirement for age. |
-| (c) | Retirement benefits. |
 | [2056\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20D%20-%20Benefits%20Accruing%20to%20Certain%20Participants/%C2%A7%2002056%20-%20Eligibility%20for%20annuity.md) | Eligibility for annuity. |
-| (a) | One-out-of-two requirement. |
-| (b) | Refund of contributions for time not allowed for credit. |
-| (c) | Exception. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -119,13 +61,6 @@
 |  |  |
 | :--- | ---: |
 | [2071\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20E%20-%20Lump-Sum%20Payments/%C2%A7%2002071%20-%20Lump-sum%20payments.md) | Lump-sum payments. |
-| (a) | Entitlement to lump-sum credit. |
-| (b) | Conditions for payment of lump-sum credit. |
-| (c) | Order of precedence of payment. |
-| (d) | Death of former participant before retirement. |
-| (e) | Termination of all annuity rights. |
-| (f) | Payment of accrued and unpaid annuity when retired participant dies. |
-| (g) | Termination of survivor annuity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -134,20 +69,8 @@
 |  |  |
 | :--- | ---: |
 | [2081\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20F%20-%20Period%20of%20Service%20for%20Annuities/%C2%A7%2002081%20-%20Computation%20of%20length%20of%20service.md) | Computation of length of service. |
-| (a) | In general. |
-| (b) | Extra credit for periods served at unhealthful posts overseas. |
 | [2082\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20F%20-%20Period%20of%20Service%20for%20Annuities/%C2%A7%2002082%20-%20Prior%20service%20credit.md) | Prior service credit. |
-| (a) | In general. |
-| (b) | Limitations. |
-| (c) | Transfer from other Government retirement systems. |
-| (d) | Transfer to other Government retirement systems. |
-| (e) | Prior military service credit. |
-| (f) | Effect of entitlement to social security benefits. |
-| (g) | Deposits paid by survivors. |
-| (h) | Deposits for periods of military service. |
 | [2083\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20F%20-%20Period%20of%20Service%20for%20Annuities/%C2%A7%2002083%20-%20Credit%20for%20service%20while%20on%20military%20leave.md) | Credit for service while on military leave. |
-| (a) | General rule. |
-| (b) | Waiver of contributions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -156,26 +79,9 @@
 |  |  |
 | :--- | ---: |
 | [2091\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20G%20-%20Moneys/%C2%A7%2002091%20-%20Estimate%20of%20appropriations%20needed.md) | Estimate of appropriations needed. |
-| (a) | Estimates of annual appropriations. |
-| (b) | Actuarial valuations. |
-| (c) | Changes in law affecting actuarial status of fund. |
-| (d) | Authorization. |
-| (e) | Unfunded liability; credit allowed for military service. |
 | [2092\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20G%20-%20Moneys/%C2%A7%2002092%20-%20Investment%20of%20moneys%20in%20fund.md) | Investment of moneys in fund. |
 | [2093\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20G%20-%20Moneys/%C2%A7%2002093%20-%20Payment%20of%20benefits.md) | Payment of benefits. |
-| (a) | Annuities stated as annual amounts. |
-| (b) | Commencement of annuity. |
-| (c) | Termination of annuity. |
-| (d) | Application for survivor annuities. |
-| (e) | Waiver of annuity. |
-| (f) | Limitations. |
-| (g) | Withholding of State income tax from annuities. |
 | [2094\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20G%20-%20Moneys/%C2%A7%2002094%20-%20Attachment%20of%20moneys.md) | Attachment of moneys. |
-| (a) | Exemption from legal process. |
-| (b) | Payment to former spouses under court order or spousal agreement. |
-| (c) | Other payments under court orders. |
-| (d) | Prospective payments; bar to recovery. |
-| (e) | Allotments. |
 | [2095\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20G%20-%20Moneys/%C2%A7%2002095%20-%20Recovery%20of%20payments.md) | Recovery of payments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -185,14 +91,8 @@
 |  |  |
 | :--- | ---: |
 | [2111\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20H%20-%20Retired%20Participants%20Recalled%2C%20Reinstated%2C%20or%20Reappointed%20in%20Agency%20or%20Reemployed%20in%20Government/%C2%A7%2002111%20-%20Recall.md) | Recall. |
-| (a) | Authority to recall. |
-| (b) | Pay of retired participant while serving. |
-| (c) | Recomputation of annuity. |
 | [2112\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20H%20-%20Retired%20Participants%20Recalled%2C%20Reinstated%2C%20or%20Reappointed%20in%20Agency%20or%20Reemployed%20in%20Government/%C2%A7%2002112%20-%20Reemployment.md) | Reemployment. |
 | [2113\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20H%20-%20Retired%20Participants%20Recalled%2C%20Reinstated%2C%20or%20Reappointed%20in%20Agency%20or%20Reemployed%20in%20Government/%C2%A7%2002113%20-%20Reemployment%20compensation.md) | Reemployment compensation. |
-| (a) | Deduction from basic pay. |
-| (b) | Recovery of overpayments. |
-| (c) | Deposit in fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -201,11 +101,6 @@
 |  |  |
 | :--- | ---: |
 | [2121\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20I%20-%20Voluntary%20Contributions/%C2%A7%2002121%20-%20Voluntary%20contributions.md) | Voluntary contributions. |
-| (a) | Authority for voluntary contributions. |
-| (b) | Treatment of voluntary contributions. |
-| (c) | Value of benefits. |
-| (d) | Lump-sum payment. |
-| (e) | Benefits in addition to other benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -214,11 +109,6 @@
 |  |  |
 | :--- | ---: |
 | [2131\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20J%20-%20Cost-of-Living%20Adjustment%20of%20Annuities/%C2%A7%2002131%20-%20Cost-of-living%20adjustment%20of%20annuities.md) | Cost-of-living adjustment of annuities. |
-| (a) | In general. |
-| (b) | Eligibility. |
-| (c) | Limitation. |
-| (d) | Rounding to next lower dollar. |
-| (e) | Limitation on maximum amount of annuity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -227,16 +117,8 @@
 |  |  |
 | :--- | ---: |
 | [2141\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20K%20-%20Conformity%20with%20Civil%20Service%20Retirement%20System/%C2%A7%2002141%20-%20Authority%20to%20maintain%20existing%20areas%20of%20conformity%20between%20Civil%20Service%20and%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20Systems.md) | Authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems. |
-| (a) | Presidential authority. |
-| (b) | Effect of Executive order. |
 | [2142\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20K%20-%20Conformity%20with%20Civil%20Service%20Retirement%20System/%C2%A7%2002142%20-%20Thrift%20Savings%20Plan%20participation.md) | Thrift Savings Plan participation. |
-| (a) | Eligibility for Thrift Savings Plan. |
-| (b) | Management of Thrift Savings Plan accounts by Director. |
 | [2143\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20K%20-%20Conformity%20with%20Civil%20Service%20Retirement%20System/%C2%A7%2002143%20-%20Alternative%20forms%20of%20annuities.md) | Alternative forms of annuities. |
-| (a) | Authority for alternative form of annuity. |
-| (b) | Basis for alternative forms of annuity. |
-| (c) | Lump-sum credit. |
-| (d) | Submission of regulations to congressional intelligence committees. |
 | [2144\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20K%20-%20Conformity%20with%20Civil%20Service%20Retirement%20System/%C2%A7%2002144%20-%20Payments%20from%20CIARDS%20fund%20for%20portions%20of%20certain%20Civil%20Service%20Retirement%20System%20annuities.md) | Payments from CIARDS fund for portions of certain Civil Service Retirement System annuities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -246,37 +128,12 @@
 |  |  |
 | :--- | ---: |
 | [2151\.](Subchapter%20003%20%28III%29%20-%20Participation%20in%20Federal%20Employees%E2%80%99%20Retirement%20System/%C2%A7%2002151%20-%20Application%20of%20Federal%20Employees%E2%80%99%20Retirement%20System%20to%20Agency%20employees.md) | Application of Federal Employees’ Retirement System to Agency employees. |
-| (a) | General rule. |
-| (b) | Exception for pre-1984 employees. |
-| (c) | Nonapplicability of FERS to certain employees. |
-| (d) | Election to become subject to FERS. |
-| (e) | Special rules. |
 | [2152\.](Subchapter%20003%20%28III%29%20-%20Participation%20in%20Federal%20Employees%E2%80%99%20Retirement%20System/%C2%A7%2002152%20-%20Special%20rules%20relating%20to%20section%202013%20criteria%20employees.md) | Special rules relating to section 2013 criteria employees. |
-| (a) | In general. |
-| (b) | Voluntary and mandatory retirement. |
-| (c) | Recall. |
 | [2153\.](Subchapter%20003%20%28III%29%20-%20Participation%20in%20Federal%20Employees%E2%80%99%20Retirement%20System/%C2%A7%2002153%20-%20Special%20rules%20for%20other%20employees%20for%20service%20abroad.md) | Special rules for other employees for service abroad. |
-| (a) | Special computation rule. |
-| (b) | Computation. |
 | [2154\.](Subchapter%20003%20%28III%29%20-%20Participation%20in%20Federal%20Employees%E2%80%99%20Retirement%20System/%C2%A7%2002154%20-%20Special%20rules%20for%20former%20spouses.md) | Special rules for former spouses. |
-| (a) | General rule. |
-| (b) | Definitions. |
-| (c) | Entitlement of qualified former spouse to retirement benefits. |
-| (d) | Qualified former spouse survivor benefits. |
-| (e) | Qualified former spouse Thrift Savings Plan benefit. |
-| (f) | Preservation of rights of qualified former spouses. |
-| (g) | Payment of share of lump-sum credit. |
-| (h) | Payment to qualified former spouses under court order or spousal agreement. |
-| (i) | Applicability of CIARDS former spouse benefits. |
 | [2155\.](Subchapter%20003%20%28III%29%20-%20Participation%20in%20Federal%20Employees%E2%80%99%20Retirement%20System/%C2%A7%2002155%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Finality of decisions of Director. |
-| (b) | Exception. |
 | [2156\.](Subchapter%20003%20%28III%29%20-%20Participation%20in%20Federal%20Employees%E2%80%99%20Retirement%20System/%C2%A7%2002156%20-%20Regulations.md) | Regulations. |
-| (a) | Requirement. |
-| (b) | Congressional review. |
 | [2157\.](Subchapter%20003%20%28III%29%20-%20Participation%20in%20Federal%20Employees%E2%80%99%20Retirement%20System/%C2%A7%2002157%20-%20Transition%20regulations.md) | Transition regulations. |
-| (a) | Regulations. |
-| (b) | Congressional review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

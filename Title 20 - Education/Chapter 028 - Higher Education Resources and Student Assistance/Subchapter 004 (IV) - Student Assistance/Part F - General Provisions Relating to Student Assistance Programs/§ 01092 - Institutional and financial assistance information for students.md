@@ -28,7 +28,7 @@
 
 &emsp;(I) special facilities and services available to handicapped students;
 
-&emsp;(J) the names of associations, agencies, or governmental bodies which accredit, approve, or license the institution and its programs, and the procedures under which any current orprospective student may obtain or review upon request a copy of the documents describing the institution's accreditation, approval, or licensing;
+&emsp;(J) the names of associations, agencies, or governmental bodies which accredit, approve, or license the institution and its programs, and the procedures under which any current or prospective student may obtain or review upon request a copy of the documents describing the institution's accreditation, approval, or licensing;
 
 &emsp;(K) the standards which the student must maintain in order to be considered to be making satisfactory progress, pursuant to section 1091(a)(2) of this title;
 
@@ -62,7 +62,7 @@
 
 (1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
-&emsp;(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
+&emsp;(i) the average anticipated monthly repayments, a review of the repayment optionsavailable, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
 
 &emsp;(ii) the terms and conditions under which the student may obtain partial cancellation or defer repayment of the principal and interest pursuant to sections 1078(b), 1087dd(c)(2), and 1087ee of this title.
 
@@ -110,7 +110,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(F) the average completion or graduation rate for the 4 most recent completing or graduating classes of students at the institution of higher education broken down by race and sex.
 
-(2) When an institution described in paragraph (1) of this subsection offers a potential studentathlete athletically related student aid, such institution shall provide to the student and the student's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
+(2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and the student's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
 
 (3) For purposes of this subsection, institutions may exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.
 
@@ -144,7 +144,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(ii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate police agencies.
 
-&emsp;(D) A description of the type and frequency of programs designed to inform students and employees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
+&emsp;(D) A description of the type and frequency of programs designed to inform students andemployees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
 
 &emsp;(E) A description of programs designed to inform students and employees about the prevention of crimes.
 
@@ -170,7 +170,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;&emsp;(IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
 
-&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), and othercrimes involving bodily injury to any person in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
+&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), and other crimes involving bodily injury to any person in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
 
 &emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
@@ -206,7 +206,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(i) The term “campus” means—
 
-&emsp;&emsp;(I) any building or property owned or controlled by an institution of higher education within the same reasonably contiguous geographic area of the institution and used by the institution in direct support of, or in a manner related to, the institution's educational purposes, including residence halls; and
+&emsp;&emsp;(I) any building or property owned or controlled by an institution of higher education within the same reasonably contiguous geographic area of the institution and used bythe institution in direct support of, or in a manner related to, the institution's educational purposes, including residence halls; and
 
 &emsp;&emsp;(II) property within the same reasonably contiguous geographic area of the institution that is owned by the institution but controlled by another person, is used by students, and supports institutional purposes (such as a food or other retail vendor).
 
@@ -216,7 +216,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(II) any building or property (other than a branch campus) owned or controlled by an institution of higher education that is used in direct support of, or in relation to, the institution's educational purposes, is used by students, and is not within the same reasonably contiguous geographic area of the institution.
 
-&emsp;(iii) The term “public property” means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by theinstitution if the facility is used by the institution in direct support of, or in a manner related to the institution's educational purposes.
+&emsp;(iii) The term “public property” means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution's educational purposes.
 
 (B) In cases where branch campuses of an institution of higher education, schools within an institution of higher education, or administrative divisions within an institution are not within a reasonably contiguous geographic area, such entities shall be considered separate campuses for purposes of the reporting requirements of this section.
 
@@ -266,7 +266,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(D) in dormitories or other residential facilities for students on campus.
 
-(13) Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under section 1094(c)(3)(B) of this title.
+(13) Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civilpenalty is imposed under section 1094(c)(3)(B) of this title.
 
 (14)(A) Nothing in this subsection may be construed to—
 
@@ -322,7 +322,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (3) Disclosure of information to students and public
 
-&emsp;An institution of higher education described in paragraph (1) shall make available to students and potential students, upon request, and to the public, the information contained in the report described in paragraph (1), except that all students shall be informed of their right to request such information.
+&emsp;An institution of higher education described in paragraph (1) shall make available to students and potential students, upon request, and to the public, the information containedin the report described in paragraph (1), except that all students shall be informed of their right to request such information.
 
 #### (4) Submission; report; information availability
 
@@ -338,7 +338,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(C) The Secretary shall ensure that the reports described in subparagraph (A) and the report to Congress described in subparagraph (B) are made available to the public within a reasonable period of time.
 
-&emsp;(D) Not later than 180 days after October 7, 1998, the Secretary shall notify all secondary schools in all States regarding the availabilityof the information reported under subparagraph (B) and the information made available under paragraph (1), and how such information may be accessed.
+&emsp;(D) Not later than 180 days after October 7, 1998, the Secretary shall notify all secondary schools in all States regarding the availability of the information reported under subparagraph (B) and the information made available under paragraph (1), and how such information may be accessed.
 
 #### (5) “Operating expenses” defined
 

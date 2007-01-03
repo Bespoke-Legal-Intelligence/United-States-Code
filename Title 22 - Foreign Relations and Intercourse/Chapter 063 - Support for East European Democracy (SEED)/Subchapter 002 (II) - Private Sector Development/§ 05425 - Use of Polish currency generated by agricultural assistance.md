@@ -2,7 +2,7 @@
 
 #### (a) Additional assistance for Poland
 
-A portion of the agricultural commodities described in subsection (c) of this section may be made available and sold or bartered in Poland to generate local currencies to be used—
+A portion of the agricultural commodities described in subsection (c) of this section may bemade available and sold or bartered in Poland to generate local currencies to be used—
 
 &emsp;(1) to complement the assistance for Poland authorized by sections 5413(b), 5421, and 5423 of this title, and
 

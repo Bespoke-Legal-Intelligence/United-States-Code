@@ -28,7 +28,7 @@ In general.—Subject to paragraph (2), not less than 25 percent of the funds su
 
 &emsp;(2)
 
-Waivers.—The Secretary may waive the application of paragraph (1) with respect to a State for a fiscal year if the State certifies to the Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
+Waivers.—The Secretary may waive the application of paragraph (1) with respect to aState for a fiscal year if the State certifies to the Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
 
 &emsp;(3)
 

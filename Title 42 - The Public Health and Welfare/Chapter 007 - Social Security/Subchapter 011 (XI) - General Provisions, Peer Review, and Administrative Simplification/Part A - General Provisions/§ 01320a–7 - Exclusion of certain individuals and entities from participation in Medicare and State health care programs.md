@@ -42,7 +42,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (3) Misdemeanor conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution,prescription, or dispensing of a controlled substance.
 
 #### (4) License revocation or suspension
 
@@ -108,7 +108,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (10) Failure to supply requested information on subcontractors and suppliers
 
-&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
+&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply\(within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
 
 &emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined by the Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
 
@@ -166,7 +166,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 > until the passage of 30 days after the effective date of the exclusion.
 
-(3)(A) The Secretary shall specify, in the notice of exclusion under paragraph (1) and thewritten notice under section 1320a–7a of this title, the minimum period (or, in the case of an exclusion of an individual under subsection (b)(12) of this section or in the case described in subparagraph (G), the period) of the exclusion.
+(3)(A) The Secretary shall specify, in the notice of exclusion under paragraph (1) and the written notice under section 1320a–7a of this title, the minimum period (or, in the case of an exclusion of an individual under subsection (b)(12) of this section or in the case described in subparagraph (G), the period) of the exclusion.
 
 (B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of the administrator of a Federal health care program (as defined in section 1320a–7b(f) of this title) who determines that the exclusion would impose a hardship on individuals entitled to benefits under part A of subchapter XVIII of this chapter or enrolled under part B of such subchapter, or both, the Secretary may, after consulting with the Inspector General of the Department of Health and Human Services, waive the exclusion under subsection (a)(1), (a)(3), or (a)(4) of this section with respect to that program in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
 
@@ -216,9 +216,9 @@ The Secretary shall—
 
 #### (f) Notice, hearing, and judicial review
 
-(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, exceptthat, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
+(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
-(2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
+(2) Unless the Secretary determines that the health or safety of individuals receiving serviceswarrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
 
 (3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
 
@@ -370,7 +370,7 @@ Amendments by section 4331(c) of Pub. L. 105–33 effective Aug. 5, 1997, see se
 
 #### Effective Date of 1996 Amendment
 
-Section 218 of Pub. L. 104–191 provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle B, §§211–218, of title II of Pub. L. 104–191, amending this section and sections 1320a–7b, 1320c–5, and 1395mm of this title\] shall take effect January 1, 1997.”
+Section 218 of Pub. L. 104–191 provided that: “Except as otherwise provided, the amendments made by thissubtitle \[subtitle B, §§211–218, of title II of Pub. L. 104–191, amending this section and sections 1320a–7b, 1320c–5, and 1395mm of this title\] shall take effect January 1, 1997.”
 
 #### Effective Date of 1994 Amendment
 

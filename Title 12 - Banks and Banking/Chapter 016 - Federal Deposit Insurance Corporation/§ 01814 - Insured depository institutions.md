@@ -8,7 +8,7 @@
 
 #### (2) Savings associations
 
-&emsp;Each savings association the accounts of which were insured by the Federal Savings and Loan Insurance Corporation on the day before August 9, 1989, shall be, without application or approval, an insured depository institution.
+&emsp;Each savings association the accounts of which were insured by the Federal Savings andLoan Insurance Corporation on the day before August 9, 1989, shall be, without application or approval, an insured depository institution.
 
 #### (b) Continuation of insurance upon becoming a member bank
 
@@ -16,11 +16,11 @@ In the case of an insured bank which is admitted to membership in the Federal Re
 
 #### (c) Continuation of insurance after conversion
 
-Subject to section 1815(d) of this title—
+Subject to section 1815(d) of this title and section 1464(i)(5) of this title—
 
 &emsp;(1) any State depository institution which results from the conversion of any insured Federal depository institution; and
 
-&emsp;(2) any Federal depository institution which results from the conversion of any insured State depository institution,
+&emsp;(2) any Federal depository institution which results from the conversion of any insured State or Federal depository institution,
 
 > shall continue as an insured depository institution.
 
@@ -28,13 +28,17 @@ Subject to section 1815(d) of this title—
 
 Any State depository institution or any Federal depository institution which results from the merger or consolidation of insured depository institutions, or from the merger or consolidation of a noninsured depository institution with an insured depository institution, shall continue as an insured depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[4\], 64 Stat. 875; Pub. L. 97–320, title I, §113(c), Oct. 15, 1982, 96 Stat. 1473; Pub. L. 101–73, title II, §§201(a), 205, Aug. 9, 1989, 103 Stat. 187, 194; Pub. L. 102–242, title I, §115(b), Dec. 19, 1991, 105 Stat. 2249; Pub. L. 102–550, title XVI, §1603(b)(6), Oct. 28, 1992, 106 Stat. 4079.)
+(Sept. 21, 1950, ch. 967, §2\[4\], 64 Stat. 875; Pub. L. 97–320, title I, §113(c), Oct. 15, 1982, 96 Stat. 1473; Pub. L. 101–73, title II, §§201(a), 205, Aug. 9, 1989, 103 Stat. 187, 194; Pub. L. 102–242, title I, §115(b), Dec. 19, 1991, 105 Stat. 2249; Pub. L. 102–550, title XVI, §1603(b)(6), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 109–351, title VI, §608(b), Oct. 13, 2006, 120 Stat. 1983.)
 
 #### Prior Provisions
 
 Section is derived from subsec. (e) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–351, §608(b)(1), inserted “and section 1464(i)(5) of this title” after “section 1815(d) of this title” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 109–351, §608(b)(2), which directed insertion of “or Federal” after “insured State,”, was executed by making the insertion after “insured State”, to reflect the probable intent of Congress.
 
 1992—Subsec. (b). Pub. L. 102–550 amended directory language of Pub. L. 102–242, §115(b). See 1991 Amendment note below.
 
@@ -58,5 +62,5 @@ Subsec. (d). Pub. L. 101–73, §205(3), added subsec. (d).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L.102–558, set out as a note under section 2062 of Title 50, Appendix, War and National Defense.
+Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 2062 of Title 50, Appendix, War and National Defense.
 

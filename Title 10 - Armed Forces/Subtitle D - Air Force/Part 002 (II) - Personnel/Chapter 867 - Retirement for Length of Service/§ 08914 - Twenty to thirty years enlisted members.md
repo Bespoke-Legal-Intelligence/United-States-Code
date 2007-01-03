@@ -38,5 +38,7 @@ Amendment by Pub. L. 96–343 effective with respect to retired pay payable for 
 
 #### Temporary Early Retirement Authority
 
-For provisions authorizing the Secretary of the Air Force, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an enlisted member with at least 15 but less than 20 years of service by substituting “at least 15” for “at least 20”, seesection 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+For provisions authorizing the Secretary of the Air Force, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an enlisted member with at least 15 but less than 20 years of service by substituting “at least 15” for “at least 20”, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+
+§8915
 

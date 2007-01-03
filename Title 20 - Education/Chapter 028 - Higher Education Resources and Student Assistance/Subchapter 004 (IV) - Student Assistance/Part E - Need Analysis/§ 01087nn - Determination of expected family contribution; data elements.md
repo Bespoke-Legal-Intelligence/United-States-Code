@@ -14,7 +14,7 @@ The expected family contribution—
 
 The following data elements are considered in determining the expected family contribution:
 
-&emsp;(1) the available income of (A) the student and the student's spouse, or (B) the student and the student's parents, in the case of a dependent student;
+&emsp;(1) the available income of (A) the student and the student's spouse, or (B) the studentand the student's parents, in the case of a dependent student;
 
 &emsp;(2) the number of dependents in the family of the student;
 

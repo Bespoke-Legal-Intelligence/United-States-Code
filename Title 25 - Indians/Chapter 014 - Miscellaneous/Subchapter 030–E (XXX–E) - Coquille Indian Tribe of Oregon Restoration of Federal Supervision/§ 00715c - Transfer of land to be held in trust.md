@@ -74,11 +74,11 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (9) Jurisdiction
 
-&emsp;(A) The United States District Court for the District of Oregon shall have jurisdiction over actions against the Secretary arising out of claims that this subsection has been violated. Consistent with existing precedents on standing to sue, any affected citizen may bring suit against the Secretary for violations of this subsection, except that suit may not be brought against the Secretary for claims that the MOA has been violated. The Court has the authority to hold unlawful and set aside actions pursuant to this subsection that are arbitrary and capricious, an abuse of discretion, or otherwise an abuse of law.
+&emsp;(A) The United States District Court for the District of Oregon shall have jurisdiction over actions against the Secretary arising out of claims that this subsection has been violated. Consistent with existing precedents on standing to sue, any affected citizen may bring suit against the Secretary for violations of this subsection, except that suit may not be brought against the Secretary for claims that the MOA has been violated. The Court has theauthority to hold unlawful and set aside actions pursuant to this subsection that are arbitrary and capricious, an abuse of discretion, or otherwise an abuse of law.
 
 &emsp;(B) The United States District Court for the District of Oregon shall have jurisdiction over actions between the State of Oregon and the Tribe arising out of claims of breach of the MOA.
 
-&emsp;(C) Unless otherwise provided for by law, remedies available under this subsection shallbe limited to equitable relief and shall not include damages.
+&emsp;(C) Unless otherwise provided for by law, remedies available under this subsection shall be limited to equitable relief and shall not include damages.
 
 #### (10) State regulatory and civil jurisdiction
 

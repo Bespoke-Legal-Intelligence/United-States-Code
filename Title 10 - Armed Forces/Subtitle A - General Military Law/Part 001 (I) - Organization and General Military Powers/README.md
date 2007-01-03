@@ -13,7 +13,12 @@
 | [<b>9.</b>](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
 | [<b>13.</b>](Chapter%20013%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>311</b> |
-| [<b>15.</b>](Chapter%20015%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>331</b> |
+| <b>15 </b><b><sup>1</sup></b> | <b>Enforcement of the Laws to Restore Public Order</b> | <b>331</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>17.</b>](Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>351</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
@@ -24,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title X, §1076(a)(4)(A), Oct. 17, 2006, 120 Stat. 2405, substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15.
 
 2004—Pub. L. 108–375, div. A, title X, §1084(d)(1), Oct. 28, 2004, 118 Stat. 2061, substituted “480” for “481” in item for chapter 23.
 
@@ -69,7 +76,7 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 - [Chapter 009 - Defense Budget Matters](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md)
 - [Chapter 011 - Reserve Components](Chapter%20011%20-%20Reserve%20Components/README.md)
 - [Chapter 013 - The Militia](Chapter%20013%20-%20The%20Militia/README.md)
-- [Chapter 015 - Insurrection](Chapter%20015%20-%20Insurrection/README.md)
+- [Chapter 015 - Enforcement of the Laws to Restore Public Order](Chapter%20015%20-%20Enforcement%20of%20the%20Laws%20to%20Restore%20Public%20Order/README.md)
 - [Chapter 017 - Arming of American Vessels](Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md)
 - [Chapter 018 - Military Support for Civilian Law Enforcement Agencies](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md)
 - [Chapter 020 - Humanitarian and Other Assistance](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md)

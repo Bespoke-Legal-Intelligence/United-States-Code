@@ -314,7 +314,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;“(1) Congress should condition forensic science-related grants to a State or State forensic facility on the State's agreement to ensure post-conviction DNA testing in appropriate cases; and
 
-&emsp;“(2) Congress should work with the States to improve the quality of legal representation in capital cases through the establishment of standards that will assure the timely appointment of competent counsel with adequate resources to represent defendants in capital cases at each stage of the proceedings.”
+&emsp;“(2) Congress should work with the States to improve the quality of legal representation in capital cases through the establishment of standards thatwill assure the timely appointment of competent counsel with adequate resources to represent defendants in capital cases at each stage of the proceedings.”
 
 Pub. L. 106–546, §11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions substantially identical to those enacted by Pub. L. 106–561, §4, set out above.
 

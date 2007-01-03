@@ -46,7 +46,7 @@ Nothing in sections 698v to 698v–10 of this title shall be construed as affect
 
 &emsp;&emsp;(A) the use and maintenance of roads and trails existing as of July 25, 2000;
 
-&emsp;&emsp;(B) the construction, use and maintenance of new trails, and the relocation of existingroads, if located to avoid Native American religious and cultural sites; and
+&emsp;&emsp;(B) the construction, use and maintenance of new trails, and the relocation of existing roads, if located to avoid Native American religious and cultural sites; and
 
 &emsp;&emsp;(C) motorized access necessary to administer the area by the Trust (including measures required in emergencies involving the health or safety of persons within the area).
 

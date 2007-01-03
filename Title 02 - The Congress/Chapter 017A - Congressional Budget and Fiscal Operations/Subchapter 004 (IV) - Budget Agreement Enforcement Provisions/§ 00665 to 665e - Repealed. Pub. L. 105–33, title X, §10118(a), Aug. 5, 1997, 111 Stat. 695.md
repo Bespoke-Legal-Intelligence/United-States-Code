@@ -14,7 +14,7 @@ A prior section 603 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, 
 
 Section 665c, Pub. L. 93–344, title VI, §604, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–605, related to reconciliation directives regarding pay-as-you-go requirements.
 
-A prior section 604 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of formerTitle 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 604 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 Section 665d, Pub. L. 93–344, title VI, §605, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–606, related to application of section 642 of this title and points of order in Senate for measures exceeding specified maximum deficit amount.
 

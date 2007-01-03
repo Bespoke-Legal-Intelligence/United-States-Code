@@ -40,7 +40,7 @@ Priority.—In selecting facilities to participate in the program, the Secretary
 
 &emsp;&emsp;(v) Air traffic control towers located at airports that are prepared to assume partial responsibility for maintenance costs.
 
-&emsp;&emsp;(vi) Air traffic control towers located at airports with safety or operational problemsrelated to topography, weather, runway configuration, or mix of aircraft.
+&emsp;&emsp;(vi) Air traffic control towers located at airports with safety or operational problems related to topography, weather, runway configuration, or mix of aircraft.
 
 &emsp;&emsp;(vii) Air traffic control towers located at an airport at which the community has been operating the tower at its own expense.
 
@@ -138,7 +138,7 @@ In subsection (b)(2), the word “Secretary” is substituted for “Administrat
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
+2003—Subsec. (a). Pub. L. 108–176, §105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under thissubchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
 
 Subsec. (b)(2). Pub. L. 108–176, §105(2), added par. (2) and struck out former par. (2) which read as follows: “The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.”
 

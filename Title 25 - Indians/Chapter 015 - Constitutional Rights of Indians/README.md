@@ -24,19 +24,10 @@
 |  |  |
 | :--- | ---: |
 | [1321\.](Subchapter%20003%20%28III%29%20-%20Jurisdiction%20Over%20Criminal%20and%20Civil%20Actions/%C2%A7%2001321%20-%20Assumption%20by%20State%20of%20criminal%20jurisdiction.md) | Assumption by State of criminal jurisdiction. |
-| (a) | Consent of United States; force and effect of criminal laws. |
-| (b) | Alienation, encumbrance, taxation, and use of property; hunting, trapping, or fishing. |
 | [1322\.](Subchapter%20003%20%28III%29%20-%20Jurisdiction%20Over%20Criminal%20and%20Civil%20Actions/%C2%A7%2001322%20-%20Assumption%20by%20State%20of%20civil%20jurisdiction.md) | Assumption by State of civil jurisdiction. |
-| (a) | Consent of United States; force and effect of civil laws. |
-| (b) | Alienation, encumbrance, taxation, use, and probate of property. |
-| (c) | Force and effect of tribal ordinances or customs. |
 | [1323\.](Subchapter%20003%20%28III%29%20-%20Jurisdiction%20Over%20Criminal%20and%20Civil%20Actions/%C2%A7%2001323%20-%20Retrocession%20of%20jurisdiction%20by%20State.md) | Retrocession of jurisdiction by State. |
-| (a) | Acceptance by United States. |
-| (b) | Repeal of statutory provisions. |
 | [1324\.](Subchapter%20003%20%28III%29%20-%20Jurisdiction%20Over%20Criminal%20and%20Civil%20Actions/%C2%A7%2001324%20-%20Amendment%20of%20State%20constitutions%20or%20statutes%20to%20remove%20legal%20impediment%3B%20effective%20date.md) | Amendment of State constitutions or statutes to remove legal impediment; effective date. |
 | [1325\.](Subchapter%20003%20%28III%29%20-%20Jurisdiction%20Over%20Criminal%20and%20Civil%20Actions/%C2%A7%2001325%20-%20Abatement%20of%20actions.md) | Abatement of actions. |
-| (a) | Pending actions or proceedings; effect of cession. |
-| (b) | Criminal actions; effect of cession. |
 | [1326\.](Subchapter%20003%20%28III%29%20-%20Jurisdiction%20Over%20Criminal%20and%20Civil%20Actions/%C2%A7%2001326%20-%20Special%20election.md) | Special election. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,9 +45,6 @@
 |  |  |
 | :--- | ---: |
 | [1341\.](Subchapter%20005%20%28V%29%20-%20Materials%20and%20Publications/%C2%A7%2001341%20-%20Authorization%20of%20Secretary.md) | Authorization of Secretary. |
-| (a) | Revision of document on “Indian Affairs, Laws and Treaties” and treatise on “Federal Indian Laws”; compilation of official opinions; printing and republication. |
-| (b) | Current services. |
-| (c) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

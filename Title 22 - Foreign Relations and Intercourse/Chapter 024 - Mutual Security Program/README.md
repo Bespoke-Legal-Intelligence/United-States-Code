@@ -6,8 +6,6 @@
 | :--- | ---: |
 | 1750 to 1753a. Repealed. |  |
 | [1754\.](Subchapter%20001%20%28I%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2001754%20-%20Foreign%20currencies.md) | Foreign currencies. |
-| (a) | Availability and use. |
-| (b) | Availability to Members and employees of Congress; authorization requirements; reports. |
 | 1755 to 1782. Repealed or Omitted. |  |
 | [1783\.](Subchapter%20001%20%28I%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2001783%20-%20Coordination%20with%20foreign%20policy.md) | Coordination with foreign policy. |
 | 1784 to 1795. Repealed. |  |
@@ -61,9 +59,6 @@
 | :--- | ---: |
 | 1920 to 1927. Repealed. |  |
 | [1928\.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928%20-%20North%20Atlantic%20Treaty%20Organization.md) | North Atlantic Treaty Organization. |
-| (a) | Authorization for expenses. |
-| (b) | Appointment of personal representative. |
-| (c) | Duration of staff service. |
 | [1928a.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928a%20-%20North%20Atlantic%20Treaty%20Parliamentary%20Conference%3B%20participation%3B%20appointment%20of%20United%20States%20Group.md) | North Atlantic Treaty Parliamentary Conference; participation; appointment of United States Group. |
 | [1928b.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1928c.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928c%20-%20Report%20to%20the%20Congress.md) | Report to the Congress. |

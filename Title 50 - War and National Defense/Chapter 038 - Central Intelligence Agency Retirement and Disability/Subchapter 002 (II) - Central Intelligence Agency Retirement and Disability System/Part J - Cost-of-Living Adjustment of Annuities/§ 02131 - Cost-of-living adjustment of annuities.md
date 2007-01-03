@@ -24,7 +24,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the fund to an annuitant's survivor (other than a child entitled to an annuity under section 2031(d) of this title) shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
-&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
+&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased bythe total percent allowed and in force to the annuitant under this section on or after such day.
 
 #### (c) Limitation
 
@@ -44,7 +44,7 @@ The monthly annuity installment, after adjustment under this section, shall be r
 
 &emsp;&emsp;(B) the final pay (or average pay, if higher) of the participant with respect to whom the annuity is paid, increased by the overall annual average percentage adjustments (compounded) in the rates of pay of the General Schedule under subchapter I of chapter 53 of title 5 during the period—
 
-&emsp;&emsp;&emsp;(i) beginning on the date on which the annuity commenced (or, in the case of asurvivor of the retired participant, the date on which the participant's annuity commenced), and
+&emsp;&emsp;&emsp;(i) beginning on the date on which the annuity commenced (or, in the case of a survivor of the retired participant, the date on which the participant's annuity commenced), and
 
 &emsp;&emsp;&emsp;(ii) ending on the effective date of the adjustment under this section.
 

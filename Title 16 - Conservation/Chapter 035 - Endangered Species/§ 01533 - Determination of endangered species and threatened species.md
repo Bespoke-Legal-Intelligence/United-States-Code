@@ -32,7 +32,7 @@
 
 > &emsp;he shall recommend such action to the Secretary of the Interior, and the Secretary of the Interior, if he concurs in the recommendation, shall implement such action; and
 
-&emsp;(C) the Secretary of the Interior may not list or remove from any list any such species, and may not change the status of any such species which are listed, without a prior favorable determination made pursuant to this section by the Secretary of Commerce.
+&emsp;(C) the Secretary of the Interior may not list or remove from any list any such species,and may not change the status of any such species which are listed, without a prior favorable determination made pursuant to this section by the Secretary of Commerce.
 
 (3)(A) The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
 
@@ -78,7 +78,7 @@
 
 (ii) Any negative finding described in subparagraph (A) and any finding described in subparagraph (B)(i) or (iii) shall be subject to judicial review.
 
-(iii) The Secretary shall implement a system to monitor effectively the status of all species with respect to which a finding is made under subparagraph (B)(iii) and shall make prompt use of the authority under paragraph 7 <sup>1</sup> to prevent a significant risk to the well being of any such species.
+(iii) The Secretary shall implement a system to monitor effectively the status of all species with respect to which a finding is made under subparagraph (B)(iii) and shall make prompt useof the authority under paragraph 7 <sup>1</sup> to prevent a significant risk to the well being of any such species.
 
 (D)(i) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to revise a critical habitat designation, the Secretary shall make a finding as to whether the petition presents substantial scientific information indicating that the revision may be warranted. The Secretary shall promptly publish such finding in the Federal Register.
 
@@ -124,7 +124,7 @@
 
 (ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there is not sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
 
-(iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a finalregulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
+(iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a final regulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
 
 (C) A final regulation designating critical habitat of an endangered species or a threatened species shall be published concurrently with the final regulation implementing the determination that such species is endangered or threatened, unless the Secretary deems that—
 
@@ -306,7 +306,7 @@ Subsec. (g). Pub. L. 95–632, §11(5), added subsec. (g).
 
 Section 2(b) of Pub. L. 97–304 provided that:
 
-“(1) Any petition filed under section 4(c)(2) of the Endangered Species Act of 1973 \[subsec. (c)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Oct. 13, 1982\]) and any regulation proposed under section 4(f) of such Act of 1973 \[subsec. (f) of this section\] (as in effect on such day) that is pending on such date of enactment \[Oct. 13, 1982\] shall be treated as having been filed or proposed on such date of enactment under section 4(b) of such Act of 1973 \[subsec. (b) of this section\] (as amended by subsection (a)); and the procedural requirements specified in such section 4(b) \[subsec. (b) of this section\] (as so amended) regarding such petition or proposed regulation shall be deemed to be complied with to the extent that like requirements under such section 4 \[this section\] (as in effect before the date of the enactment of this Act) were complied with before such date of enactment.
+“(1) Any petition filed under section 4(c)(2) of the Endangered Species Act of 1973 \[subsec. (c)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Oct. 13, 1982\]) and any regulation proposed under section 4(f) of such Act of 1973 \[subsec. (f) of this section\] (as in effect on such day) that is pending on such date of enactment \[Oct. 13, 1982\] shall be treated as having been filed or proposed on such date of enactment under section 4(b) of such Act of 1973 \[subsec. (b) of this section\] (as amended by subsection (a));and the procedural requirements specified in such section 4(b) \[subsec. (b) of this section\] (as so amended) regarding such petition or proposed regulation shall be deemed to be complied with to the extent that like requirements under such section 4 \[this section\] (as in effect before the date of the enactment of this Act) were complied with before such date of enactment.
 
 “(2) Any regulation proposed after, or pending on, the date of the enactment of this Act \[Oct. 13, 1982\] to designate critical habitat for a species that was determined before such date of enactment to be endangered or threatened shall be subject to the procedures set forth in section 4 of such Act of 1973 \[this section\] (as amended by subsection (a)) for regulations proposing revisions to critical habitat instead of those for regulations proposing the designation of critical habitat.
 

@@ -6,7 +6,7 @@ The Gallaudet College created by an Act entitled “An Act to amend the charter 
 
 #### (b) Purpose
 
-The purpose of Gallaudet University shall be to provide education and training to individualswho are deaf and otherwise to further the education of individuals who are deaf.
+The purpose of Gallaudet University shall be to provide education and training to individuals who are deaf and otherwise to further the education of individuals who are deaf.
 
 (Pub. L. 99–371, title I, §101, Aug. 4, 1986, 100 Stat. 781; Pub. L. 102–421, title I, §151(a)(1), (4), Oct. 16, 1992, 106 Stat. 2163, 2164; Pub. L. 103–73, title II, §203(a), Aug. 11, 1993, 107 Stat. 732.)
 

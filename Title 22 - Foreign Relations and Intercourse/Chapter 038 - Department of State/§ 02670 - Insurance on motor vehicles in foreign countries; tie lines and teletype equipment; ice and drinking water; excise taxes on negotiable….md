@@ -22,7 +22,7 @@ The Secretary of State is authorized to—
 
 &emsp;(j) provide emergency medical attention and dietary supplements, and other emergency assistance, for United States citizens incarcerated abroad or destitute United States citizens abroad who are unable to obtain such services otherwise, such assistance to be provided on a reimbursable basis to the extent feasible;
 
-&emsp;(k) subject to the availability of appropriated funds, obtain insurance on the historic and artistic articles of furniture, fixtures, and decorative objects which may from time-to-time be within the responsibility of the Fine Arts Committee of the Department of State for the Diplomatic Rooms of the Department;
+&emsp;(k) subject to the availability of appropriated funds, obtain insurance on the historic and artistic articles of furniture, fixtures, and decorative objects which may from time-to-time be within the responsibility of the FineArts Committee of the Department of State for the Diplomatic Rooms of the Department;
 
 &emsp;(<i>l</i>) make payments in advance, of the United States share of necessary expenses for international fisheries commissions, from appropriations available for such purpose; and
 

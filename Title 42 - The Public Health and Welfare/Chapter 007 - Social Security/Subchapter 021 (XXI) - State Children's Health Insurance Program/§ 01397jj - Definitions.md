@@ -2,7 +2,7 @@
 
 #### (a) Child health assistance
 
-For purposes of this subchapter, the term “child health assistance” means payment forpart or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
+For purposes of this subchapter, the term “child health assistance” means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
 
 &emsp;(1) Inpatient hospital services.
 
@@ -62,7 +62,7 @@ For purposes of this subchapter, the term “child health assistance” means pa
 
 &emsp;(26) Medical transportation.
 
-&emsp;(27) Enabling services (such as transportation, translation, and outreach services) only if designed to increase the accessibility of primary and preventive health care services for eligible low-income individuals.
+&emsp;(27) Enabling services (such as transportation, translation, and outreach services) only if designed to increase the accessibility ofprimary and preventive health care services for eligible low-income individuals.
 
 &emsp;(28) Any other health care services or items specified by the Secretary and not excluded under this section.
 
@@ -98,7 +98,7 @@ For purposes of this subchapter—
 
 #### (3) Special rule
 
-&emsp;A child shall not be considered to be described in paragraph (1)(C) notwithstandingthat the child is covered under a health insurance coverage program that has been in operation since before July 1, 1997, and that is offered by a State which receives no Federal funds for the program's operation.
+&emsp;A child shall not be considered to be described in paragraph (1)(C) notwithstanding that the child is covered under a health insurance coverage program that has been in operation since before July 1, 1997, and that is offered by a State which receives no Federal funds for the program's operation.
 
 #### (4) Medicaid applicable income level
 
@@ -154,7 +154,7 @@ Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to referen
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, see section 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
+Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, seesection 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
 
 #### Effective Date of 1997 Amendment
 

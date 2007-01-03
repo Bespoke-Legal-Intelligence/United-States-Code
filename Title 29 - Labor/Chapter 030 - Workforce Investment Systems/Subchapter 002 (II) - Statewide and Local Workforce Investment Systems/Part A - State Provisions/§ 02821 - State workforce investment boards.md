@@ -62,7 +62,7 @@ The State Board shall assist the Governor in—
 
 &emsp;&emsp;(B) review of local plans;
 
-&emsp;(3) commenting at least once annually on the measures taken pursuant to section 2323(b)(14) <sup>1</sup> of title 20;
+&emsp;(3) commenting at least once annually on the measures taken pursuant to section 2323(b)(3) of title 20;
 
 &emsp;(4) designation of local areas as required in section 2831 of this title;
 
@@ -110,13 +110,11 @@ A member of a State board may not—
 
 The State board shall make available to the public, on a regular basis through open meetings, information regarding the activities of the State board, including information regarding the State plan prior to submission of the plan, information regarding membership, and, on request, minutes of formal meetings of the State board.
 
-(Pub. L. 105–220, title I, §111, Aug. 7, 1998, 112 Stat. 945; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §111, Aug. 7, 1998, 112 Stat. 945; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(3), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(2), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
-
-Section 2323(b)(14) of title 20, referred to in subsec. (d)(3), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 The Job Training Partnership Act, referred to in subsec. (e)(1)(B)(i), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Section 122 and title VII of the Act were classified to section 1532 and subchapter VI (§1792 et seq.) of chapter 19 of this title, respectively, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
@@ -124,7 +122,7 @@ This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–277 substituted “Chairperson” for “Chairman” in heading.
+2006—Subsec. (d)(3). Pub. L. 109–270 substituted “section 2323(b)(3) of title 20” for “section 2323(b)(14) of title 20”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1998—Subsec. (c). Pub. L. 105–277 substituted “Chairperson” for “Chairman” in heading.
 

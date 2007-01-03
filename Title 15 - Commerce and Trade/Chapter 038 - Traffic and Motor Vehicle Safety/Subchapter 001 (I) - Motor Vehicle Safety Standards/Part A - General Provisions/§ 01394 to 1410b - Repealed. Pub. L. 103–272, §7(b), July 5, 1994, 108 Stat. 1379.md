@@ -32,7 +32,7 @@ Section 1407, Pub. L. 89–563, title I, §119, Sept. 9, 1966, 80 Stat. 728, aut
 
 Section 1408, Pub. L. 89–563, title I, §120, Sept. 9, 1966, 80 Stat. 728; Pub. L. 91–265, §5, May 22, 1970, 84 Stat. 263; Pub. L. 93–492, title I, §110(b), Oct. 27, 1974, 88 Stat. 1484, related to annual report to Congress. See section 30169 of Title 49.
 
-Section 1409, Pub. L. 89–563, title I, §121, Sept. 9, 1966, 80 Stat. 728; Pub. L. 91–265, §1, May 22, 1970, 84 Stat. 262; Pub. L. 92–548, §2, Oct. 25, 1972, 86 Stat. 1159; Pub. L. 93–492, title I, §101, Oct. 27, 1974, 88 Stat. 1470; Pub. L. 94–346, §1, July 8, 1976, 90 Stat. 815; Pub. L. 97–331, §2(a), Oct. 15, 1982, 96 Stat. 1619, authorized appropriations tocarry out this chapter for fiscal years 1983, 1984, and 1985.
+Section 1409, Pub. L. 89–563, title I, §121, Sept. 9, 1966, 80 Stat. 728; Pub. L. 91–265, §1, May 22, 1970, 84 Stat. 262; Pub. L. 92–548, §2, Oct. 25, 1972, 86 Stat. 1159; Pub. L. 93–492, title I, §101, Oct. 27, 1974, 88 Stat. 1470; Pub. L. 94–346, §1, July 8, 1976, 90 Stat. 815; Pub. L. 97–331, §2(a), Oct. 15, 1982, 96 Stat. 1619, authorized appropriations to carry out this chapter for fiscal years 1983, 1984, and 1985.
 
 Section 1410, Pub. L. 89–563, title I, §123, as added Pub. L. 90–283, Apr. 10, 1968, 82 Stat. 72; amended Pub. L. 92–548, §3, Oct. 25, 1972, 86 Stat. 1159, related to exemption from safety standards of motor vehicles. See section 30113 of Title 49.
 

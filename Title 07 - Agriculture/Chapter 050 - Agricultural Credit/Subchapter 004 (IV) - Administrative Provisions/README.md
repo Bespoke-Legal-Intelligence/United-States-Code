@@ -54,7 +54,7 @@
 - [&sect; 02008g - Payment of interest as condition of loan servicing for borrowers](%C2%A7%2002008g%20-%20Payment%20of%20interest%20as%20condition%20of%20loan%20servicing%20for%20borrowers.md)
 - [&sect; 02008h - Loan and loan servicing limitations](%C2%A7%2002008h%20-%20Loan%20and%20loan%20servicing%20limitations.md)
 - [&sect; 02008i - Short form certification of farm program borrower compliance](%C2%A7%2002008i%20-%20Short%20form%20certification%20of%20farm%20program%20borrower%20compliance.md)
-- [&sect; 02008j - National Sheep Industry Improvement Center](%C2%A7%2002008j%20-%20National%20Sheep%20Industry%20Improvement%20Center.md)
+- [&sect; 02008j - Repealed. Pub. L. 87&#8211;128, title III, &sect;375(j)(7), as added Pub. L. 106&#8211;78, title VIII, &sect;816(d), Oct. 22, 1999, 113 Stat. 1182](%C2%A7%2002008j%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93128%2C%20title%20III%2C%20%C2%A7375%28j%29%287%29%2C%20as%20added%20Pub.%20L.%20106%E2%80%9378%2C%20title%20VIII%2C%20%C2%A7816%28d%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201182.md)
 - [&sect; 02008k - Making and servicing of loans by personnel of State, county, or area committees](%C2%A7%2002008k%20-%20Making%20and%20servicing%20of%20loans%20by%20personnel%20of%20State%2C%20county%2C%20or%20area%20committees.md)
 - [&sect; 02008l - Eligibility of employees of State, county, or area committee for loans and loan guarantees](%C2%A7%2002008l%20-%20Eligibility%20of%20employees%20of%20State%2C%20county%2C%20or%20area%20committee%20for%20loans%20and%20loan%20guarantees.md)
 - [&sect; 02008m - National Rural Development Partnership](%C2%A7%2002008m%20-%20National%20Rural%20Development%20Partnership.md)

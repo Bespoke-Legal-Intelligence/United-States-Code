@@ -28,13 +28,9 @@ Historical and Revision Notes
 
 46:599
 
-Section 10315 lists the persons to whom a seaman may allot wages, specifies the conditions which makean allotment valid, and provides a civil penalty of $500 for falsely claiming qualification as an allottee. It also requires that this section be complied with before a vessel can be cleared from a United States port. This section applies to foreign vessels.
+Section 10315 lists the persons to whom a seaman may allot wages, specifies the conditions which make an allotment valid, and provides a civil penalty of $500 for falsely claiming qualification as an allottee. It also requires that this section be complied with before a vessel can be cleared from a United States port. This section applies to foreign vessels.
 
 #### Transfer of Functions
 
 Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10316, 11109 of this title.
 

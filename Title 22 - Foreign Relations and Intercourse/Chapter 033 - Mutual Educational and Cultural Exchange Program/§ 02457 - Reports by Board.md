@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Codification
 
-Provisions relating to the submission of reports to Congress by the United States Advisory Commission on International Educational and Cultural Affairs \[which replaced the United States Advisory Commission on Educational Exchange\], and the Advisory Committee on the Arts, were omitted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished the Commission and the Committee effective on or before July 1, 1978, at such time as specified by the President.
+Provisions relating to the submission of reports to Congress by the United States Advisory Commission on International Educational and Cultural Affairs \[which replaced the United States Advisory Commission onEducational Exchange\], and the Advisory Committee on the Arts, were omitted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished the Commission and the Committee effective on or before July 1, 1978, at such time as specified by the President.
 
 #### Termination of Reporting Requirements
 

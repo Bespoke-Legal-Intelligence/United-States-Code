@@ -4,7 +4,7 @@
 
 Action for Relief.—(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of this title of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary refer the complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for relief under this chapter for such person. In the case of such an action against a State (as an employer), the action shall be brought in the name of the United States as the plaintiff in the action.
 
-(2) A person may commence an action for relief with respect to a complaint against a State\(as an employer) or a private employer if the person—
+(2) A person may commence an action for relief with respect to a complaint against a State (as an employer) or a private employer if the person—
 
 &emsp;(A) has chosen not to apply to the Secretary for assistance under section 4322(a) of this title;
 
@@ -58,7 +58,7 @@ Respondent.—In any action under this chapter, only an employer or a potential 
 
 Fees, Court Costs.—(1) No fees or court costs may be charged or taxed against any person claiming rights under this chapter.
 
-(2) In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(2) who obtained private counsel for such action or proceeding, the court may award any such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
+(2) In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(2) who obtained private counsel for such action or proceeding, the court may awardany such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
 
 (i)
 
@@ -88,7 +88,7 @@ Pub. L. 105–368, title II, §211(b), Nov. 11, 1998, 112 Stat. 3330, provided t
 
 “(1) Section 4323 of title 38, United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act \[Nov. 11, 1998\], and shall apply to actions commenced under such chapter before the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
 
-“(2) In the case of any such action against a State (as an employer) in which a person, on the day before the date of the enactment of this Act \[Nov. 11, 1998\], is represented by the Attorney General under section4323(a)(1) of such title as in effect on such day, the court shall upon motion of the Attorney General, substitute the United States as the plaintiff in the action pursuant to such section as amended by subsection (a).”
+“(2) In the case of any such action against a State (as an employer) in which a person, on the day before the date of the enactment of this Act \[Nov. 11, 1998\], is represented by the Attorney General under section 4323(a)(1) of such title as in effect on such day, the court shall upon motion of the Attorney General, substitute the United States as the plaintiff in the action pursuant to such section as amended by subsection (a).”
 
 #### Effective Date of 1996 Amendment
 

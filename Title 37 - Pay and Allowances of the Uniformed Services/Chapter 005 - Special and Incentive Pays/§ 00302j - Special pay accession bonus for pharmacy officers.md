@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2006, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2007, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (b)
 
@@ -24,11 +24,13 @@ Agreement.—The agreement referred to in subsection (a) shall provide that, con
 
 Repayment.—A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become and remain certified or licensed as a pharmacist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title X, §1062(c)(1), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §612(g), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(g), 687(b)(12), Jan. 6, 2006, 119 Stat. 3294, 3329.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title X, §1062(c)(1), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §612(g), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(g), 687(b)(12), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §612(g), Oct. 17, 2006, 120 Stat. 2248.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, §622(g), substituted “December 31, 2006” for “December 31, 2005”.
+2006—Subsec. (a). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+
+Pub. L. 109–163, §622(g), substituted “December 31, 2006” for “December 31, 2005”.
 
 Subsec. (e). Pub. L. 109–163, §687(b)(12), amended heading and text of subsec. (e) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain licensed as pharmacist or fails to complete total period of active duty.
 

@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—Subject to subsections (b) and (c) of this section, the Administrator of General Services, with the approval of the Director of the Office of Management and Budget, shall prescribe the amount of reimbursement required for a transfer of excess property.
+In General.—Subject to subsections (b) and (c), the Administrator of General Services, with the approval of the Director of the Office of Management and Budget, shall prescribe the amount of reimbursement required for a transfer of excess property.
 
 (b)
 
-Reimbursement At Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of the property, as determined by the Administrator, if—
+Reimbursement at Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of theproperty, as determined by the Administrator, if—
 
 &emsp;(1) net proceeds are requested under section 574(a) of this title; or
 
@@ -20,7 +20,7 @@ Reimbursement At Fair Value.—The amount of reimbursement required for a transf
 
 Distribution Through General Services Administration Supply Centers.—Excess property determined by the Administrator to be suitable for distribution through the supply centers of the General Services Administration shall be retransferred at prices set by the Administrator with due regard to prices established under section 321(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1083.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1083; Pub. L. 109–284, §6(1), (2), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -45,4 +45,10 @@ In subsection (b)(1), the reference to “section 204(b)” in section 202(a)(1)
 In subsection (b)(2)(A), the words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act (59 Stat. 597, 31 U.S.C. 841)” in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 In subsection (c), the word “at” is substituted for “as” (in the phrase “as \[sic\] prices set by the Administrator”) to reflect the probable intent of Congress. See Senate Report No. 2075, dated July 2, 1952 (United States Code Congressional and Administrative News, 82nd Congress, 2d Session, 1952, Volume 2, p. 2123).
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–284, §6(1), struck out “of this section” after “subsections (b) and (c)”.
+
+Subsec. (b). Pub. L. 109–284, §6(2), substituted “at” for “At” in heading.
 

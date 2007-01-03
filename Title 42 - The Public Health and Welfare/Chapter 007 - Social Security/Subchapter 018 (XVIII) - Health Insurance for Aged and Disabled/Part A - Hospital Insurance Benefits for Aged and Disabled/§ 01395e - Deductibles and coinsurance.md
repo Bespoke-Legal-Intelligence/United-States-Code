@@ -30,7 +30,7 @@
 
 (1) The inpatient hospital deductible for 1987 shall be $520. The inpatient hospital deductible for any succeeding year shall be an amount equal to the inpatient hospital deductible for the preceding calendar year, changed by the Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied under section 1395ww(d)(3)(A) of this title for discharges in the fiscal year that begins on October 1 of such preceding calendar year, and adjusted to reflect changes in real case mix (determined on the basis of the most recent case mix data available). Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiples of $4, to the next higher multiple of $4).
 
-(2) The Secretary shall promulgate the inpatient hospital deductible and all coinsuranceamounts under this section between September 1 and September 15 of the year preceding the year to which they will apply.
+(2) The Secretary shall promulgate the inpatient hospital deductible and all coinsurance amounts under this section between September 1 and September 15 of the year preceding the year to which they will apply.
 
 (3) The inpatient hospital deductible for a year shall apply to—
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub
 
 Amendment by section 102 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
-Section 411(b)(1)(H)(iii) of Pub. L. 100–360 provided that: “The amendment made by clause (ii) \[amendingPub. L. 100–203\] shall apply to the inpatient hospital deductible for years beginning with 1989.”
+Section 411(b)(1)(H)(iii) of Pub. L. 100–360 provided that: “The amendment made by clause (ii) \[amending Pub. L. 100–203\] shall apply to the inpatient hospital deductible for years beginning with 1989.”
 
 #### Effective Date of 1986 Amendments
 
@@ -164,7 +164,7 @@ Hospice care.—The restoration of section 1812(a)(4) of the Social Security Act
 
 #### Hold Harmless Provisions; Application of Subsection (a)(1) and (2)
 
-Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, §608(d)(3)(B), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–234, title I, §101(b)(3), Dec. 13, 1989, 103 Stat. 1980, provided that: “In the case of an individual for whom a spell of illness (as defined in section 1861(a) of the Social Security Act \[section 1395x(a) of this title\], as in effect on December 31, 1988) began before January 1, 1989, and had not yet ended as of such date—
+Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, §608(d)(3)(B), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–234, title I, §101(b)(3), Dec. 13, 1989, 103 Stat. 1980, provided that: “In the case of an individualfor whom a spell of illness (as defined in section 1861(a) of the Social Security Act \[section 1395x(a) of this title\], as in effect on December 31, 1988) began before January 1, 1989, and had not yet ended as of such date—
 
 &emsp;“(1)(A) section 1813(a)(1) of such Act \[subsec. (a)(1) of this section\] (as amended by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360\]) shall not apply to services furnished during that spell of illness during 1989, and
 
@@ -174,5 +174,5 @@ Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 #### Promulgation of New Deductible
 
-Section 9301(c) of Pub. L. 99–509 directed Secretary of Health and Human Services to provide, within 30 daysafter Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
+Section 9301(c) of Pub. L. 99–509 directed Secretary of Health and Human Services to provide, within 30 days after Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
 

@@ -62,7 +62,7 @@ The Council shall be composed of 16 members as follows:
 
 #### (d) Terms of membership
 
-Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member's term until a successor has taken office.
+Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that ofthe members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member's term until a successor has taken office.
 
 #### (e) Vacancies
 

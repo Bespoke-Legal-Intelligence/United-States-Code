@@ -12,7 +12,7 @@
 
 &emsp;(4) with respect to a vessel with a fishery endorsement that is 100 feet or greater in registered length, has as the mortgagee—
 
-&emsp;&emsp;(A) a person eligible to own a vessel with a fishery endorsement under section 12102(c) of this title;
+&emsp;&emsp;(A) a person eligible to own a vessel with a fishery endorsement under section 12113(c) of this title;
 
 &emsp;&emsp;(B) a state <sup>1</sup> or federally chartered financial institution that is insured by the Federal Deposit Insurance Corporation;
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(D) a commercial fishing and agriculture bank established pursuant to State law;
 
-&emsp;&emsp;(E) a commercial lender organized under the laws of the United States or of a State and eligible to own a vessel under section 12102(a) of this title; or
+&emsp;&emsp;(E) a commercial lender organized under the laws of the United States or of a State and eligible to own a vessel for purposes of documentation under section 12103 of this title; or
 
 &emsp;&emsp;(F) a mortgage trustee under subsection (f) of this section.
 
@@ -36,7 +36,7 @@
 
 (d)(1) A mortgage, security agreement, or instrument granting a security interest perfected under State law covering the whole of a vessel titled in a State is deemed to be a preferred mortgage if—
 
-&emsp;(A) the Secretary certifies that the State titling system complies with the Secretary's guidelines for a titling system under section 13106(b)(8) of this title; and
+&emsp;(A) the Secretary certifies that the State titling system complies with the Secretary's guidelines for a titling system under section 13107(b)(8) of this title; and
 
 &emsp;(B) information on the vessel covered by the mortgage, security agreement, or instrument is made available to the Secretary under chapter 125 of this title.
 
@@ -68,7 +68,7 @@
 
 &emsp;(F) meets any other requirements prescribed by the Secretary.
 
-(2) If the beneficiary under the trust arrangement is not a commercial lender, a lender syndicate or eligible to be a preferred mortgagee under subsection (a)(4), subparagraphs (A)–(E) of this section, the Secretary must determine that the issuance, assignment, transfer, or trust arrangement does not result in an impermissible transfer of control of the vessel to a person not eligible to own a vessel with a fishery endorsement under section 12102(c) of this title.
+(2) If the beneficiary under the trust arrangement is not a commercial lender, a lender syndicate or eligible to be a preferred mortgagee under subsection (a)(4), subparagraphs (A)–(E) of this section, the Secretary must determine that the issuance, assignment, transfer, or trust arrangement does not result in an impermissible transfer of control of the vessel to a person not eligible to own a vessel with a fishery endorsement under section 12113(c) of this title.
 
 (3) A vessel with a fishery endorsement may be operated by a mortgage trustee only with the approval of the Secretary.
 
@@ -80,7 +80,7 @@
 
 (h) For purposes of this section a “lender syndicate” means an arrangement established for the combined extension of credit of not less than $20,000,000 made up of four or more entities that each have a beneficial interest, held through an agent, under a trust arrangement established pursuant to subsection (f), no one of which may exercise powers thereunder without the concurrence of at least one other unaffiliated beneficiary.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4743; Pub. L. 101–225, title III, §303(3), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1113(a), Oct. 19, 1996, 110 Stat. 3970; Pub. L. 105–277, div. C, title II, §202(b), Oct. 21, 1998, 112 Stat. 2681–618; Pub. L. 105–383, title IV, §401(c)(1)–(4), Nov. 13, 1998, 112 Stat. 3425; Pub. L. 106–31, title III, §3027(a)(1), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, §2202(b), (c), July 24, 2001, 115 Stat. 168, 169.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4743; Pub. L. 101–225, title III, §303(3), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1113(a), Oct. 19, 1996, 110 Stat. 3970; Pub. L. 105–277, div. C, title II, §202(b), Oct. 21, 1998, 112 Stat. 2681–618; Pub. L. 105–383, title IV, §401(c)(1)–(4), Nov. 13, 1998, 112 Stat. 3425; Pub. L. 106–31, title III, §3027(a)(1), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, §2202(b), (c), July 24, 2001, 115 Stat. 168, 169; Pub. L. 109–304, §§15(29), 16(c)(7), Oct. 6, 2006, 120 Stat. 1704, 1706.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ New
 
 Section 31322 sets out the conditions that must be met for a mortgage to be considered a preferred mortgage, and the types of endorsements that the Secretary must make on any certificate of documentation of a vessel that is to be covered by a preferred mortgage.
 
-Subsection (a)(1) makes many substantive changes to law. While a preferred mortgage must still include the whole of a vessel, this subsection eliminates the exception of certain vessels under 25 gross tons. It allows a vessel for which an application for documentation has been filed to have a preferred mortgage. It allows a mortgage to be a preferred mortgage from the time all four conditions are met, rather than from when the vessel is finally documented. Therefore, a mortgage will usually attain its preferred status when the application for documentation and the instrument have been filed. This subsection changes the requirementthat all documented vessels have as a mortgagee a person that is a citizen of the United States, as defined in section 2 of the Shipping Act, 1916, and allows a State, the United States Government, a federally insured depository institution, or any other person approved by the Secretary to be a mortgagee.
+Subsection (a)(1) makes many substantive changes to law. While a preferred mortgage must still include the whole of a vessel, this subsection eliminates the exception of certain vessels under 25 gross tons. It allows a vessel for which an application for documentation has been filed to have a preferred mortgage. It allows a mortgage to be a preferred mortgage from the time all four conditions are met, rather than from when the vessel is finally documented. Therefore, a mortgage will usually attain its preferred status when the application for documentation and the instrument have been filed. This subsection changes the requirement that all documented vessels have as a mortgagee a person that is a citizen of the United States, as defined in section 2 of the Shipping Act, 1916, and allows a State, the United States Government, a federally insured depository institution, or any other person approved by the Secretary to be a mortgagee.
 
 Subsection (a)(2) makes a substantive change to law exempting fishing, fish processing, and fish tender vessels, and vessels operated only for pleasure from the mortgagee restrictions, since these vessels do not have significant national defense use.
 
@@ -132,7 +132,7 @@ Under section 31322(a)(2) a “vessel operated only for pleasure” is exempt fr
 
 Under subsection (c)(2), if a vessel covered by a preferred mortgage that includes more than one vessel or property that is not a vessel is to be sold on the order of a district court <i>in rem</i>, and there is not a separate discharge, then the mortgage constitutes a lien on that vessel in the full amount of the outstanding mortgage indebtedness, and an allocation of mortgage indebtedness for purposes of a separate discharge may not be made. This change is made to eliminate the formula that did not work and to allow the vessel to be sold free and clear, regardless of the amount of the sale.
 
-Under subsection (d) of section 31322, a mortgage or other instrument representing financing of a vessel under State law that is made under applicable State law and covers the whole of a vessel titled in a State is deemed to be a preferred mortgage if two conditions are fulfilled. The first condition is that the Secretary must certify that the State in which the vessel is titled has a titling system that complies with the Secretary's vessel titling guidelines established under section 13106(b)(8) of title 46. Congress mandated the promulgation of these guidelines in the Recreational Boating Safety Act of 1986, Public Law 99–626. The second condition is that the State in which the vessel is titled must make information available to the Secretary for the vessel identification system established under chapter 125 of title 46 (as enacted by this Act) on the vessel covered by the mortgage or other instrument. This status only applies to vessels titled in the State after those two conditions are met. The phrase “instrument representing financing of a vessel under State law” is used in addition to “mortgage” because State laws do not always use the term mortgage when referring to financing. It is intended, however, that the financing covered by this phrase would be the same as that covered by the concept of a mortgage under other Federal law.
+Under subsection (d) of section 31322, a mortgage or other instrument representing financing of a vessel under State law that is made under applicable State law and covers the whole of a vessel titled in a State is deemed to be a preferred mortgage if two conditions are fulfilled. The first condition is that the Secretary must certify that the State in which the vessel is titledhas a titling system that complies with the Secretary's vessel titling guidelines established under section 13106(b)(8) of title 46. Congress mandated the promulgation of these guidelines in the Recreational Boating Safety Act of 1986, Public Law 99–626. The second condition is that the State in which the vessel is titled must make information available to the Secretary for the vessel identification system established under chapter 125 of title 46 (as enacted by this Act) on the vessel covered by the mortgage or other instrument. This status only applies to vessels titled in the State after those two conditions are met. The phrase “instrument representing financing of a vessel under State law” is used in addition to “mortgage” because State laws do not always use the term mortgage when referring to financing. It is intended, however, that the financing covered by this phrase would be the same as that covered by the concept of a mortgage under other Federal law.
 
 Paragraph (2) of subsection (d) clarifies that mortgages or other financing instruments may obtain preferred status under subsection (d) if they cover vessels titled in a State after the Secretary certifies the compliance of the State's titling system, and the State begins making vessel identification information available to the Secretary. Preferred mortgage status can only be attained when these two conditions are in effect. Mortgages or financing instruments made prior to that are not preferred and, if these two conditions cease to exist, new mortgages or forecasting instruments made after that time cannot attain preferred status.
 
@@ -146,21 +146,29 @@ Information on vessels with preferred mortgages made under State law will be ava
 
 #### Amendments
 
+2006—Subsec. (a)(4)(A). Pub. L. 109–304, §15(29)(A), substituted “section 12113(c)” for “section 12102(c)”.
+
+Subsec. (a)(4)(E). Pub. L. 109–304, §15(29)(B), substituted “for purposes of documentation under section 12103” for “under section 12102(a)”.
+
+Subsec. (d)(1)(A). Pub. L. 109–304, §16(c)(7), substituted “section 13107(b)(8)” for “section 13106(b)(8)”.
+
+Subsec. (f)(2). Pub. L. 109–304, §15(29)(C), substituted “section 12113(c)” for “section 12102(c)”.
+
 2001—Subsec. (a)(4)(B) to (F). Pub. L. 107–20, §2202(b), added subpars. (B) to (F) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) a state or federally chartered financial institution that satisfies the controlling interest criteria of section 2(b) of the Shipping Act, 1916 (46 U.S.C. 802(b));
 
 “(C) a person that complies with the provisions of section 12102(c)(4) of this title.”
 
-Subsec. (f) to (h). Pub. L. 107–20, §2202(c), added subsecs. (f) to (h).
+Subsecs. (f) to (h). Pub. L. 107–20, §2202(c), added subsecs. (f) to (h).
 
-1999—Subsec. (a)(4). Pub. L. 106–31 made techical amendment to directory language of Pub. L. 105–277, §202(b). See 1998 Amendment note below.
+1999—Subsec. (a)(4). Pub. L. 106–31 made technical amendment to directory language of Pub. L. 105–277, §202(b). See 1998 Amendment note below.
 
 1998—Subsec. (a)(4). Pub. L. 105–277, §202(b), as amended by Pub. L. 106–31, added par. (4).
 
 Subsec. (b). Pub. L. 105–383, §401(c)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.”
 
-Subsec. (d)(1). Pub. L. 105–383, §401(c)(2), substituted “mortgage, security agreement, or instrument” for“mortgage or instrument” in introductory provisions and subpar. (B).
+Subsec. (d)(1). Pub. L. 105–383, §401(c)(2), substituted “mortgage, security agreement, or instrument” for “mortgage or instrument” in introductory provisions and subpar. (B).
 
 Subsec. (d)(2). Pub. L. 105–383, §401(c)(4), substituted “mortgages, security agreements, or instruments” for “mortgages or instruments” in introductory provisions.
 
@@ -176,19 +184,15 @@ Subsec. (e). Pub. L. 101–225, §303(3)(C), substituted “the status of the pr
 
 #### Effective Date of 2001 Amendment
 
-This section, as amended by Pub. L. 107–20, not effective until Apr. 1, 2003, see section 2202(d) of Pub. L. 107–20, set out as a note under section 12102 of this title.
+Pub. L. 107–20, title II, §2202(d), July 24, 2001, 115 Stat. 170, provided that: “Section 31322 of title 46, United States Code as amended in this section, and as amended by section 202(b) of the American Fisheries Act (Public Law 105–277, division C, title II) shall not take effect until April 1, 2003, nor shall the Secretary of Transportation, in determining whether a vessel owner complies with the requirements of section 12102(c) of title 46, United States Code \[now 46 U.S.C. 12113(b)(2) to (d)\], consider the citizenship status of a lender, in its capacity as a lender with respect to that vessel owner, until after April 1, 2003.”
 
 #### Effective Date of 1998 Amendment
 
-This section, as amended by Pub. L. 105–277, not effective until Apr. 1, 2003, see section 2202(d) of Pub. L. 107–20, set out as a note under section 12102 of this title.
+Pub. L. 105–277, div. C, title II, §203(a), Oct. 21, 1998, 112 Stat. 2681–619, provided that: “The amendments made by section 202 \[amending this section and former section 12102 of this title\] shall take effect on October 1, 2001.”
 
 #### Effective Date
 
-Section effective Jan. 1, 1989, not to affect any civil action filed before that date, and, insofar as applicable to vessels for which an application for documentation has been filed, effective Jan. 1, 1990, with other exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 30101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12102, 12124, 12503, 31301, 31321, 31327, 31343 of this title; section 808 of Appendix to this title; title 10 section 2218.
+Section effective Jan. 1, 1989, not to affect any civil action filed before that date, and, insofar as applicable to vessels for which an application for documentation has been filed, effective Jan. 1, 1990, with other exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(a) the level of technology of mineral exploration and development has changed radically in recent years and continued application of the mining laws of the United States to those areas of the National Park System to which it applies, conflicts with the purposes for which they were established; and
 
-&emsp;(b) all mining operations in areas of the National Park System should be conducted so as to prevent or minimize damage to the environment and other resource values, and, in certain areas of the National Park System, surface disturbance from mineral development should be temporarily halted while Congress determines whether or not to acquire any valid mineral rights which may exist in such areas.
+&emsp;(b) all mining operations in areas of the National Park System should be conducted so as to prevent or minimize damage to the environment and other resource values, and, in certain areas of the National Park System, surface disturbance from mineral developmentshould be temporarily halted while Congress determines whether or not to acquire any valid mineral rights which may exist in such areas.
 
 (Pub. L. 94–429, §1, Sept. 28, 1976, 90 Stat. 1342.)
 

@@ -54,7 +54,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(i) the numerator of which is the sum of all contributions required to be made by the employer under the plan for the most recent 5 plan years ending before September 26, 1980, and
 
-&emsp;&emsp;(ii) the denominator of which is the sum of all contributions made for the most recent 5plan years ending before September 26, 1980, by all employers—
+&emsp;&emsp;(ii) the denominator of which is the sum of all contributions made for the most recent 5 plan years ending before September 26, 1980, by all employers—
 
 &emsp;&emsp;&emsp;(I) who had an obligation to contribute under the plan for the first plan year ending on or after such date, and
 
@@ -106,7 +106,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the total amount required to be contributed under the plan by the employer for the last 5 plan years ending before the date on which the employer withdraws, and
 
-&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by all employers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
+&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by allemployers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
 
 (D) The corporation may by regulation permit adjustments in any denominator under this section, consistent with the purposes of this subchapter, where such adjustment would be appropriate to ease administrative burdens of plan sponsors in calculating such denominators.
 
@@ -158,9 +158,9 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the amount determined under clause (ii)(I) of this subparagraph, less the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(I) which are attributable to service with the employer; and
 
-&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
+&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in suchclause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
 
-(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in theplan year preceding the plan year in which such employer withdraws, is equal to—
+(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which such employer withdraws, is equal to—
 
 &emsp;(i) an amount equal to—
 
@@ -188,6 +188,10 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (D) The corporation may by regulation permit adjustments in any denominator under this section, consistent with the purposes of this subchapter, where such adjustment would be appropriate to ease administrative burdens of plan sponsors in calculating such denominators.
 
+(E)
+
+Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to provide that the withdrawal liability method described in subsection (b) shall be applied by substituting the plan year which is specified in the amendment and for which the plan has no unfunded vested benefits for the plan year ending before September 26, 1980.
+
 #### (d) Method of calculating allocable share of employer of unfunded vested benefits set forth in subsection (c)(3) of this section; applicability of certain statutory provisions
 
 (1) The method of calculating an employer's allocable share of unfunded vested benefits set forth in subsection (c)(3) of this section shall be the method for calculating an employer's allocable share of unfunded vested benefits under a plan to which section 404(c) of title 26, or a continuation of such a plan, applies, unless the plan is amended to adopt another method authorized under subsection (b) or (c) of this section.
@@ -202,15 +206,21 @@ In the case of a transfer of liabilities to another plan incident to an employer
 
 In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) of this section shall be applied in accordance with regulations prescribed by the corporation; except that, if a withdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
 
-(Pub. L. 93–406, title IV, §4211, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1226; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(A), (B), July 18, 1984, 98 Stat. 899; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+(Pub. L. 93–406, title IV, §4211, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1226; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(A), (B), July 18, 1984, 98 Stat. 899; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title II, §204(c)(2), Aug. 17, 2006, 120 Stat. 887.)
 
 #### Amendments
+
+2006—Subsec. (c)(5)(E). Pub. L. 109–280 added subpar. (E).
 
 1989—Subsec. (d)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Subsec. (b). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in pars. (1)(A) and (2)(A), (B)(ii)(II), and “September 26, 1980” for “April 29, 1980” in pars. (1)(B) and (2)(B)(ii)(I), (D), and in par. (3) in provisions preceding subpar. (A) and in subpar. (B)(i), (ii).
 
 Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in subpars. (B)(ii)(II) and (C)(i)(II) and “September 26, 1980” for “April 29, 1980” in subpar. (B)(i), (ii)(I), (II).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to plan withdrawals occurring on or after Jan. 1, 2007, see section 204(c)(3) of Pub. L. 109–280, set out as a note under section 1390 of this title.
 
 #### Effective Date of 1989 Amendment
 

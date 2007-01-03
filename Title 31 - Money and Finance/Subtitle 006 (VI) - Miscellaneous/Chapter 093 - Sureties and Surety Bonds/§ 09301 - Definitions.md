@@ -4,9 +4,9 @@ In this chapter—
 
 &emsp;(1) “person” means an individual, a trust, an estate, a partnership, and a corporation.
 
-&emsp;(2) “Government obligation” means a public debt obligation of the United States Government and an obligation whose principal and interest is unconditionally guaranteed by the Government.
+&emsp;(2) “eligible obligation” means any security designated as acceptable in lieu of a surety bond by the Secretary of the Treasury.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046; Pub. L. 109–351, title IX, §901(a), Oct. 13, 2006, 120 Stat. 2007.)
 
 Historical and Revision Notes
 
@@ -23,4 +23,8 @@ Historical and Revision Notes
 In clause (1), the words after the semicolon are omitted as unnecessary because of the restatement.
 
 Clause (2) is substituted for 6:15(last sentence) for consistency and to eliminate unnecessary words.
+
+#### Amendments
+
+2006—Par. (2). Pub. L. 109–351 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Government obligation’ means a public debt obligation of the United States Government and an obligation whose principal and interest is unconditionally guaranteed by the Government.”
 

@@ -6,7 +6,7 @@ The assignment and reassignment of the rooms and other space in the House Office
 
 #### Codification
 
-Section was classified to section 183 of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 183 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Change of Name
 

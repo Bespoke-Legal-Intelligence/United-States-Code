@@ -6,6 +6,7 @@
 | [2532\.](%C2%A7%2002532%20-%20Offset%20policy%3B%20notification.md) | Offset policy; notification. |
 | [2533\.](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20the%20Buy%20American%20Act.md) | Determinations of public interest under the Buy American Act. |
 | [2533a.](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy certain articles from American sources; exceptions. |
+| [2533b.](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy strategic materials critical to national security from American sources; exceptions. |
 | [2534\.](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md) | Miscellaneous limitations on the procurement of goods other than United States goods. |
 | [2535\.](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md) | Defense Industrial Reserve. |
 | [2536\.](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md) | Award of certain contracts to entities controlled by a foreign government: prohibition. |
@@ -18,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title VIII, §842(a)(2), Oct. 17, 2006, 120 Stat. 2337, which directed the amendment ofthe analysis for this subchapter by adding item 2533b at the end, was executed by inserting item 2533b after item 2533a.
 
 2001—Pub. L. 107–107, div. A, title VIII, §832(a)(2), Dec. 28, 2001, 115 Stat. 1190, added item 2533a.
 
@@ -36,6 +39,7 @@
 - [&sect; 02532 - Offset policy; notification](%C2%A7%2002532%20-%20Offset%20policy%3B%20notification.md)
 - [&sect; 02533 - Determinations of public interest under the Buy American Act](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20the%20Buy%20American%20Act.md)
 - [&sect; 02533a - Requirement to buy certain articles from American sources; exceptions](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md)
+- [&sect; 02533b - Requirement to buy strategic materials critical to national security from American sources; exceptions](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 02534 - Miscellaneous limitations on the procurement of goods other than United States goods](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md)
 - [&sect; 02535 - Defense Industrial Reserve](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md)
 - [&sect; 02536 - Award of certain contracts to entities controlled by a foreign government prohibition](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md)

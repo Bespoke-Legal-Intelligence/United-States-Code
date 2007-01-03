@@ -20,7 +20,7 @@ Loan Guarantees.—
 
 &emsp;(3) The Secretary shall establish such terms and conditions with respect to guarantees of loans under this subsection as the Secretary considers appropriate to protect the interests of the United States, including the rights and obligations of the United States with respect to such guarantees.
 
-&emsp;(4) The funds for the loan guarantees entered into under this section shall be held in the Coast Guard Housing Fund under section 687 ofthis title. The Secretary is authorized to purchase mortgage insurance to guarantee loans in lieu of guaranteeing loans directly against funds held in the Coast Guard Housing Fund.
+&emsp;(4) The funds for the loan guarantees entered into under this section shall be held in the Coast Guard Housing Fund under section 687 of this title. The Secretary is authorized to purchase mortgage insurance to guarantee loans in lieu of guaranteeing loans directly against funds held in the Coast Guard Housing Fund.
 
 (c)
 

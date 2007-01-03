@@ -2,11 +2,11 @@
 
 #### (a) Borrowing from Treasury
 
-The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
+The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Deposit Insurance Fund and the borrowing shall become a liability of the Deposit Insurance Fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
 
 #### (b) Borrowing from Federal Financing Bank
 
-The Corporation is authorized to issue and sell the Corporation's obligations, on behalf of the Bank Insurance Fund or Savings Association Insurance Fund, to the Federal Financing Bank established by the Federal Financing Bank Act of 1973 \[12 U.S.C. 2281 et seq.\]. The Federal Financing Bank is authorized to purchase and sell the Corporation's obligations on terms and conditions determined by the Federal Financing Bank. Any such borrowings shall be obligations subject to the obligation limitation of section 1825(c) of this title. This subsection does not affect the eligibility of any other entity to borrow from the Federal Financing Bank.
+The Corporation is authorized to issue and sell the Corporation's obligations, on behalf of the Deposit Insurance Fund, to the Federal Financing Bank established by the Federal Financing Bank Act of 1973 \[12 U.S.C. 2281 et seq.\]. The Federal Financing Bank is authorized to purchase and sell the Corporation's obligations on terms and conditions determined by the Federal Financing Bank. Any such borrowings shall be obligations subject to the obligation limitation of section 1825(c) of this title. This subsection does not affect the eligibility of any other entity to borrow from the Federal Financing Bank.
 
 #### (c) Repayment schedules required for any borrowing
 
@@ -26,25 +26,15 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 &emsp;&emsp;(B) submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section.
 
-#### (3) Industry repayment
-
-#### (A) BIF member payments
-
-&emsp;&emsp;No agreement or repayment schedule under paragraph (1) shall require any payment by a Bank Insurance Fund member for funds obtained under subsection (a) of this section for purposes of the Savings Association Fund.
-
-#### (B) SAIF member payments
-
-&emsp;&emsp;No agreement or repayment schedule under paragraph (1) shall require any payment by a Savings Association Insurance Fund member for funds obtained under subsection (a) of this section for purposes of the Bank Insurance Fund.
-
-#### (d) Borrowing for BIF from BIF members
+#### (d) Borrowing for the Deposit Insurance Fund from insured depository institutions
 
 #### (1) Borrowing authority
 
-&emsp;The Corporation may issue obligations to Bank Insurance Fund members, and may borrow from Bank Insurance Fund members and give security for any amount borrowed, and may pay interest on (and any redemption premium with respect to) any such obligation or amount to the extent—
+&emsp;The Corporation may issue obligations to insured depository institutions, and may borrow from insured depository institutions and give security for any amount borrowed, and may pay interest on (and any redemption premium with respect to) any such obligation or amount to the extent—
 
-&emsp;&emsp;(A) the proceeds of any such obligation or amount are used by the Corporation solely for purposes of carrying out the Corporation's functions with respect to the Bank Insurance Fund; and
+&emsp;&emsp;(A) the proceeds of any such obligation or amount are used by the Corporation solely for purposes of carrying out the Corporation's functions with respect to the Deposit Insurance Fund; and
 
-&emsp;&emsp;(B) the terms of the obligation or instrument limit the liability of the Corporation or the Bank Insurance Fund for the payment of interest and the repayment of principal to the amount which is equal to the amount of assessment income received by the Fund from assessments under section 1817 of this title.
+&emsp;&emsp;(B) the terms of the obligation or instrument limit the liability of the Corporation or the Deposit Insurance Fund for the payment of interest and the repayment of principal to the amount which is equal to the amount of assessment income received by the Fund from assessments under section 1817 of this title.
 
 #### (2) Limitations on borrowing
 
@@ -60,75 +50,51 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 &emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-#### (D) Obligations to be held only by BIF members
+#### (D) Obligations to be held only by BIF members <sup>1</sup>
 
-&emsp;&emsp;The terms of any obligation issued by the Corporation under paragraph (1) shall provide that the obligation will be valid only if held by a Bank Insurance Fund member.
+&emsp;&emsp;The terms of any obligation issued by the Corporation under paragraph (1) shall provide that the obligation will be valid only if held by a <sup>2</sup> insured depository institution.
 
-#### (3) Liability of BIF
+#### (3) Liability of the Deposit Insurance Fund
 
-&emsp;Any obligation issued or amount borrowed under paragraph (1) shall be a liability of the Bank Insurance Fund.
+&emsp;Any obligation issued or amount borrowed under paragraph (1) shall be a liability of the Deposit Insurance Fund.
 
 #### (4) Terms and conditions
 
 &emsp;Subject to paragraphs (1) and (2), the Corporation shall establish the terms and conditions for obligations issued or amounts borrowed under paragraph (1), including interest rates and terms to maturity.
 
-#### (5) Investment by BIF members
+#### (5) Investment by insured depository institutions
 
 #### (A) Authority to invest
 
-&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of Federal law or the law of any State, any Bank Insurance Fund member may purchase and hold for investment any obligation issued by the Corporation under paragraph (1) without limitation, other than any limitation the appropriate Federal banking agency may impose specifically with respect to such obligations.
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of Federal law or the law of any State, any insured depository institution may purchase and hold for investment any obligation issued by the Corporation under paragraph (1) without limitation, other than any limitation the appropriate Federal banking agency may impose specifically with respect to such obligations.
 
 #### (B) Investment only from capital and retained earnings
 
-&emsp;&emsp;Any Bank Insurance Fund member may purchase obligations or make loans to the Corporation under paragraph (1) only to the extent the purchase money or the money loaned is derived from the member's capital or retained earnings.
+&emsp;&emsp;Any insured depository institution may purchase obligations or make loans to the Corporation under paragraph (1) only to the extent the purchase money or the money loaned is derived from the member's <sup>3</sup> capital or retained earnings.
 
 #### (6) Accounting treatment
 
 &emsp;In accounting for any investment in an obligation purchased from, or any loan made to, the Corporation for purposes of determining compliance with any capital standard and preparing any report required pursuant to section 1817(a) of this title, the amount of such investment or loan shall be treated as an asset.
 
-(Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–173, §8(a)(20)–(24), Feb. 15, 2006, 119 Stat. 3613, 3614.)
+#### (e) Borrowing for the Deposit Insurance Fund from Federal home loan banks
 
-#### Amendment of Section
+#### (1) In general
 
-<i>Pub. L. 109–173, §8(a)(20)–(24), (b), Feb. 15, 2006, 119 Stat. 3613, 3614, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+&emsp;The Corporation may borrow from the Federal home loan banks, with the concurrence of the Federal Housing Finance Board, such funds as the Corporation considers necessary for the use of the Deposit Insurance Fund.
 
-<i>(1) in the fifth sentence of subsection (a), by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund” and by striking “each such fund” and inserting “the Deposit Insurance Fund”;</i>
+#### (2) Terms and conditions
 
-<i>(2) in subsection (b), by striking “Bank Insurance Fund or Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”;</i>
+&emsp;Any loan from any Federal home loan bank under paragraph (1) to the Deposit Insurance Fund shall—
 
-<i>(3) in subsection (c), by striking paragraph (3);</i>
+&emsp;&emsp;(A) bear a rate of interest of not less than the current marginal cost of funds to that bank, taking into account the maturities involved;
 
-<i>(4) in subsection (d):</i>
+&emsp;&emsp;(B) be adequately secured, as determined by the Federal Housing Finance Board;
 
-<i>(A) by striking the subsection heading and inserting “Borrowing for the Deposit Insurance Fund from insured depository institutions”;</i>
+&emsp;&emsp;(C) be a direct liability of the Deposit Insurance Fund; and
 
-<i>(B) in paragraph (1), by striking “Bank Insurance Fund members” and inserting “insured depository institutions” in two places in introductory provisions and by striking “Bank Insurance Fund” and inserting “Deposit Insurance Fund” in subparagraphs (A) and (B);</i>
+&emsp;&emsp;(D) be subject to the limitations of section 1825(c) of this title.
 
-<i>(C) in paragraph (2)(D), by striking “Bank Insurance Fund member” and inserting “insured depository institution”;</i>
-
-<i>(D) in paragraph (3), by striking “BIF” and inserting “the Deposit Insurance Fund” in the paragraph heading and by striking “Bank Insurance Fund” and inserting “Deposit Insurance Fund” in text; and</i>
-
-<i>(E) in paragraph (5), by striking “BIF members” and inserting “insured depository institutions” in the paragraph heading and by striking “Bank Insurance Fund member” and inserting “insured depository institution” in subparagraphs (A) and (B); and</i>
-
-<i>(5) by adding at the end the following new subsection:</i>
-
-#### <i>“(e) Borrowing for the Deposit Insurance Fund from Federal home loan banks</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“The Corporation may borrow from the Federal home loan banks, with the concurrence of the Federal Housing Finance Board, such funds as the Corporation considers necessary for the use of the Deposit Insurance Fund.</i>
-
-#### <i>“(2) Terms and conditions</i>
-
-&emsp;<i>“Any loan from any Federal home loan bank under paragraph (1) to the Deposit Insurance Fund shall—</i>
-
-&emsp;&emsp;<i>“(A) bear a rate of interest of not less than the current marginal cost of funds to that bank, taking into account the maturities involved;</i>
-
-&emsp;&emsp;<i>“(B) be adequately secured, as determined by the Federal Housing Finance Board;</i>
-
-&emsp;&emsp;<i>“(C) be a direct liability of the Deposit Insurance Fund; and</i>
-
-&emsp;&emsp;<i>“(D) be subject to the limitations of section 1825(c) of this title.”</i>
+(Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(20)–(24), Feb. 15, 2006, 119 Stat. 3613, 3614.)
 
 #### References in Text
 
@@ -144,13 +110,47 @@ Section is derived from subsec. (<i>o</i>) of former section 264 of this title. 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund” in fifth sentence, was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (a). Pub. L. 109–173, §8(a)(20), in fifth sentence, substituted “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund”.
 
-Subsec. (b). Pub. L. 104–208, §2704(d)(14)(O), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Pub. L. 109–171. Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(N). See 1996 Amendment note below.
 
-Subsec. (c)(3). Pub. L. 104–208, §2704(d)(14)(P), which directed striking out par. (3), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (b). Pub. L. 109–173, §8(a)(21), substituted “Deposit Insurance Fund” for “Bank Insurance Fund or Savings Association Insurance Fund”.
 
-Subsec. (d). Pub. L. 104–208, §2704(d)(14)(Q), which directed substitution of “DIF” for “BIF” and “Deposit Insurance Fund” for “Bank Insurance Fund” wherever appearing, was not executed. See Effective Date of 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(O). See 1996 Amendment note below.
+
+Subsec. (c)(3). Pub. L. 109–173, §8(a)(22), struck out heading and text of par. (3). Text read as follows:
+
+“(A)
+
+BIF member payments.—No agreement or repayment schedule under paragraph (1) shall require any payment by a Bank Insurance Fund member for funds obtained under subsection (a) of this section for purposes of the Savings Association Fund.
+
+“(B)
+
+SAIF member payments.—No agreement or repayment schedule under paragraph (1) shall require any payment by a Savings Association Insurance Fund member for funds obtained under subsection (a) of this section for purposes of the Bank Insurance Fund.”
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(P). See 1996 Amendment note below.
+
+Subsec. (d). Pub. L. 109–173, §8(a)(23)(D), substituted “Borrowing for the Deposit Insurance Fund from insured depository institutions” for “Borrowing for BIF from BIF members” in heading.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(Q). See 1996 Amendment note below.
+
+Subsec. (d)(1). Pub. L. 109–173, §8(a)(23)(B), (C), substituted “insured depository institutions” for “Bank Insurance Fund members” in two places in introductory provisions and “Deposit Insurance Fund” for “Bank Insurance Fund” in subpars. (A) and (B).
+
+Subsec. (d)(2)(D). Pub. L. 109–173, §8(a)(23)(A), substituted “insured depository institution” for “Bank Insurance Fund member”.
+
+Subsec. (d)(3). Pub. L. 109–173, §8(a)(23)(C), (E), substituted “the Deposit Insurance Fund” for “BIF” in heading and “Deposit Insurance Fund” for “Bank Insurance Fund” in text.
+
+Subsec. (d)(5). Pub. L. 109–173, §8(a)(23)(A), (F), substituted “insured depository institutions” for “BIF members” in heading and “insured depository institution” for “Bank Insurance Fund member” in subpars. (A) and (B).
+
+Subsec. (e). Pub. L. 109–173, §8(a)(24), added subsec. (e).
+
+1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund” in fifth sentence, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (b). Pub. L. 104–208, §2704(d)(14)(O), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (c)(3). Pub. L. 104–208, §2704(d)(14)(P), which directed striking out par. (3), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(Q), which directed substitution of “DIF” for “BIF” and “Deposit Insurance Fund” for “Bank Insurance Fund” wherever appearing, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1993—Subsec. (c)(3). Pub. L. 103–204 added par. (3).
 
@@ -174,9 +174,11 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -185,4 +187,10 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 #### Retirement and Cancellation of Capital Stock; Payments of Capital and Surplus to Secretary of the Treasury
 
 Section 1 of act Aug. 5, 1947, ch. 492, 61 Stat. 773, directed the Federal Deposit Insurance Corporation to retire its capital stock by paying the amount received therefor (whether received from the Secretary of the Treasury or the Federal Reserve banks) to the Secretary of the Treasury, to be covered into the Treasury as miscellaneous receipts, with the Corporation to pay to the Secretary so much of its capital and surplus as is in excess of $1,000,000,000, the balance of the amount to be paid to the Secretary in units of $10,000,000 except that the last unit to be paid could be less than $10,000,000.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “insured depository institutions”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “institution's”.</i>
 

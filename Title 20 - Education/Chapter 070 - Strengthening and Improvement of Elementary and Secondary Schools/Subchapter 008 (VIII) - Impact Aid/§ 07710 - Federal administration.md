@@ -30,7 +30,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 &emsp;&emsp;(C) attending the schools of the local educational agency that serves the school attendance area where such child resides will impose a substantial hardship on such child;
 
-&emsp;&emsp;(D) the State in which such child attends school provides funds for the education ofsuch child on the same basis as all other public school children in the State, unless otherwise permitted under section 7709(b) of this title; and
+&emsp;&emsp;(D) the State in which such child attends school provides funds for the education of such child on the same basis as all other public school children in the State, unless otherwise permitted under section 7709(b) of this title; and
 
 &emsp;&emsp;(E) such agency received a payment for fiscal year 1999 under section 7703(b) of this title on behalf of children described in paragraph (1).
 
@@ -38,7 +38,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 #### Amendments
 
-2000—Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(1), (2)\], redesignated par. (2) as (1) and struck out heading and text of former par. (1). Text read as follows: “Notwithstanding any other provision of law, for any fiscal year before fiscal year 1995, the Secretary shall treat as eligible under subsection (a) or (b) of section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such subsection was in effect on the day preceding October 20, 1994), and shall forgive the obligation of a local educational agency to repay any amounts that such agency received under such section for such fiscal year based on, any child who would be eligible under such subsections except that such child does not meet the requirements of subsection (a)(1)(B) or (b)(2)(B), respectively, of such section 3, if such child meets the requirements of paragraph (3) of this subsection.”
+2000—Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(1), (2)\], redesignated par. (2) as (1) and struck out heading and text of former par. (1). Text read as follows: “Notwithstanding any other provision of law, for any fiscal year before fiscal year 1995, the Secretary shall treat as eligible under subsection (a) or (b) of section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such subsection was in effect on the day preceding October 20, 1994), and shall forgive the obligation of a local educational agency to repay any amounts that such agency received under such section for such fiscal year based on, any child who would be eligible under such subsections exceptthat such child does not meet the requirements of subsection (a)(1)(B) or (b)(2)(B), respectively, of such section 3, if such child meets the requirements of paragraph (3) of this subsection.”
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(2)\], redesignated par. (3) as (2). Former par. (2) redesignated (1).
 

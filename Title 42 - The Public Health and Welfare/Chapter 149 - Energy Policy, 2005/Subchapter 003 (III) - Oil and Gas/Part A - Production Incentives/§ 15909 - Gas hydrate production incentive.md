@@ -14,7 +14,7 @@ The purpose of this section is to promote natural gas production from the natura
 
 &emsp;A lease shall be an eligible lease for purposes of this section if—
 
-&emsp;&emsp;(A) it is issued under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.),or is an oil and gas lease issued for onshore Federal lands in Alaska;
+&emsp;&emsp;(A) it is issued under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), or is an oil and gas lease issued for onshore Federal lands in Alaska;
 
 &emsp;&emsp;(B) it is issued prior to January 1, 2016; and
 
@@ -36,7 +36,7 @@ This section shall apply to any eligible lease issued before, on, or after Augus
 
 #### (1) Requirement
 
-&emsp;The Secretary shall publish the advanced notice of proposed rulemaking within 180 days after August 8, 2005, and complete the rulemaking implementing this section within 365 days after August 8, 2005.
+&emsp;The Secretary shall publish the advanced notice of proposed rulemaking within 180 daysafter August 8, 2005, and complete the rulemaking implementing this section within 365 days after August 8, 2005.
 
 #### (2) Gas hydrate resources defined
 

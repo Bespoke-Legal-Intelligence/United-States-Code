@@ -1,0 +1,32 @@
+### §2102A. Assistance for veterans residing temporarily in housing owned by a family member
+
+(a)
+
+Provision of Assistance.—In the case of a disabled veteran who is described in subsection (a)(2) or (b)(2) of section 2101 of this title and who is residing, but does not intend to permanently reside, in a residence owned by a member of such veteran's family, the Secretary may assist the veteran in acquiring such adaptations to such residence as are determined by the Secretary to be reasonably necessary because of the veteran's disability.
+
+(b)
+
+Amount of Assistance.—The assistance authorized under subsection (a) may not exceed—
+
+&emsp;(1) $14,000, in the case of a veteran described in section 2101(a)(2) of this title; or
+
+&emsp;(2) $2,000, in the case of a veteran described in section 2101(b)(2) of this title.
+
+(c)
+
+Limitation.—The assistance authorized by subsection (a) shall be limited in the case of any veteran to one residence.
+
+(d)
+
+Regulations.—Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
+
+(e)
+
+Termination.—No assistance may be provided under this section after the end of the five-year period that begins on the date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006.
+
+(Added Pub. L. 109–233, title I, §101(a), June 15, 2006, 120 Stat. 398.)
+
+#### References in Text
+
+The date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006, referred to in subsec. (e), is the date of enactment of Pub. L. 109–233, which was approved June 15, 2006.
+

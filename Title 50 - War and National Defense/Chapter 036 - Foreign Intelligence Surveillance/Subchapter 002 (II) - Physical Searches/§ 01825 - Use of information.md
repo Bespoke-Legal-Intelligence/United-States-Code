@@ -6,7 +6,7 @@ Information acquired from a physical search conducted pursuant to this subchapte
 
 #### (b) Notice of search and identification of property seized, altered, or reproduced
 
-Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the search conducted pursuant to this chapter and shall identify any property of such person seized, altered, or reproduced during such search.
+Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the searchconducted pursuant to this chapter and shall identify any property of such person seized, altered, or reproduced during such search.
 
 #### (c) Statement for disclosure
 
@@ -70,7 +70,9 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 #### References in Text
 
-Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title byPub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
 
 #### Amendments
 

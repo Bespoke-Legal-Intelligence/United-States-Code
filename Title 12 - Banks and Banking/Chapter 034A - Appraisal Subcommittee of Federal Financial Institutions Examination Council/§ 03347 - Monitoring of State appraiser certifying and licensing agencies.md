@@ -6,7 +6,7 @@ The Appraisal Subcommittee shall monitor State appraiser certifying and licensin
 
 #### (b) Disapproval by Appraisal Subcommittee
 
-The Federal financial institutions, regulatory agencies, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Resolution Trust Corporation shall accept certifications and licenses awarded by a State appraiser certifying the licensing agency unless the Appraisal Subcommittee issues a written finding that—
+The Federal financial institutions, <sup>1</sup> regulatory agencies, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Resolution Trust Corporation shall accept certifications and licenses awarded by a State appraiser certifying the licensing agency unless the Appraisal Subcommittee issues a written finding that—
 
 &emsp;(1) the State agency fails to recognize and enforce the standards, requirements, and procedures prescribed pursuant to this chapter;
 
@@ -29,4 +29,6 @@ The Federal financial institutions, regulatory agencies, the Federal National Mo
 &emsp;A decision of the subcommittee under this section shall be subject to judicial review.
 
 (Pub. L. 101–73, title XI, §1118, Aug. 9, 1989, 103 Stat. 515.)
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

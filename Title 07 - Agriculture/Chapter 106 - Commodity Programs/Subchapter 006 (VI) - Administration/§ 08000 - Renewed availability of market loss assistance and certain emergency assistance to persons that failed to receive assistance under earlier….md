@@ -10,7 +10,7 @@ The Secretary of Agriculture may use such funds of the Commodity Credit Corporat
 
 #### (b) Limitation
 
-The amount of assistance provided under a provision of law specified in subsection (c) of this section and this section to a person shall not exceed the amount of assistance the personwould have been eligible to receive under the provision had the claim of the producer under the provision been timely resolved.
+The amount of assistance provided under a provision of law specified in subsection (c) of this section and this section to a person shall not exceed the amount of assistance the person would have been eligible to receive under the provision had the claim of the producer under the provision been timely resolved.
 
 #### (c) Covered market loss assistance authorities
 
@@ -26,7 +26,7 @@ The following provisions of law are covered by this section:
 
 &emsp;(5) The livestock indemnity program under the heading “Commodity Credit Corporation Fund” in chapter 1 of title I of the 1999 Emergency Supplemental Appropriations Act (Public <sup>1</sup> 106–31; 113 Stat. 59).
 
-&emsp;(6) Section 1111(a) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (as contained in section 101(a) of division A of Public Law 105–277; 112 Stat. 2681–44).
+&emsp;(6) Section 1111(a) of the Agriculture, Rural Development, Food and Drug Administration,and Related Agencies Appropriations Act, 1999 (as contained in section 101(a) of division A of Public Law 105–277; 112 Stat. 2681–44).
 
 (Pub. L. 107–171, title I, §1617, May 13, 2002, 116 Stat. 222.)
 
@@ -36,11 +36,11 @@ Sections 1, 2, 3, 4, and 5 of Pub. L. 107–25, referred to subsec. (c)(1), are 
 
 Sections 805, 806, and 814 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, referred to in subsec. (c)(2), mean section 1(a) \[title VIII, §§805, 806, 814\] of Pub. L. 106–387, Oct. 28, 2000, 114 Stat. 1549, 1549A–50, 1549A–51, 1549A–55, which are not classified to the Code.
 
-Sections 201, 202, 204(a), 204(d), 257, and 259 of the Agricultural Risk Protection Act of 2000, referred to in subsec. (c)(3), are sections 201, 202, 204(a), (d), 257, and 259 of title II of Pub. L. 106–224, June 20, 2000, 114 Stat. 398, 401, 404, 424, 426, which are set out as notes under section 1421 of this title.
+Sections 201, 202, 204(a), 204(d), 257, and 259 of the Agricultural Risk Protection Act of 2000, referred to in subsec. (c)(3), are sections 201, 202, 204(a), (d), 257, and 259 of title II of Pub. L. 106–224, June 20, 2000, 114 Stat. 398, 401, 404, 424, 426, which were formerly set out as notes under section 1421 of this title.
 
-Sections 802, 803(a), 804, and 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2000, referred to in subsec. (c)(4), are sections 802, 803(a), 804, and 805 of title VIII of Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1176, 1178, 1179, which are set out as a note under section 1421 of this title.
+Sections 802, 803(a), 804, and 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2000, referred to in subsec. (c)(4), are sections 802, 803(a), 804, and 805 of title VIII of Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1176, 1178, 1179, which was formerly set out as a note under section 1421 of this title.
 
-Section 1111(a) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (c)(6), is section 101(a) \[title XI, §1111(a)\] of Pub. L. 105–277, div. A, Oct. 21, 1998, 112 Stat. 2681, 2681A–44, which is set out as a note under section 1421 of this title.
+Section 1111(a) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (c)(6), is section 101(a) \[title XI, §1111(a)\] of Pub. L. 105–277, div. A, Oct. 21, 1998, 112 Stat. 2681, 2681A–44, which was formerly set out as a note under section 1421 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “Law”.</i>
 

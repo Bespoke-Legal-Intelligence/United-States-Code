@@ -80,11 +80,6 @@
 |  |  |
 | :--- | ---: |
 | [9511\.](Subchapter%20005%20%28V%29%20-%20Sex%20Offense%20Prevention%20and%20Control/%C2%A7%2009511%20-%20Grants%20for%20sex%20offense%20prevention%20and%20control.md) | Grants for sex offense prevention and control. |
-| (a) | Authority of National Center for the Prevention and Control of Sex Offenses; functions. |
-| (b) | Advisory committee; functions, membership, etc. |
-| (c) | Submission and approval of application; form, manner and contents. |
-| (d) | Authorization of appropriations. |
-| (e) | “Sex offense” defined. |
 | [9512\.](Subchapter%20005%20%28V%29%20-%20Sex%20Offense%20Prevention%20and%20Control/%C2%A7%2009512%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20IX%2C%20%C2%A7902%28e%29%281%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20560.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,9 +90,6 @@
 | :--- | ---: |
 | [9521\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2009521%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20IX%2C%20%C2%A7902%28e%29%281%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20560.md) | Repealed. |
 | [9522\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2009522%20-%20Report%20on%20shelter%20and%20basic%20living%20needs%20of%20chronically%20mentally%20ill%20individuals.md) | Report on shelter and basic living needs of chronically mentally ill individuals. |
-| (a) | Submission to Congressional committees by Secretaries of Health and Human Services and Housing and Urban Development. |
-| (b) | Contents. |
-| (c) | Submission date. |
 | [9523\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2009523%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20IX%2C%20%C2%A7902%28e%29%281%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20560.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

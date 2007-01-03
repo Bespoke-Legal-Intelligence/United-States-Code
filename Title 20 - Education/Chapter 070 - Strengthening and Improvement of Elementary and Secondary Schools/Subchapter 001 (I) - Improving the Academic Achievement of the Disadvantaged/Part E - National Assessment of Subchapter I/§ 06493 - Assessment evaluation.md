@@ -22,7 +22,7 @@ The study shall—
 
 The study described in subsection (a) of this section shall examine—
 
-&emsp;(1) the effect of the assessment and accountability systems described in section <sup>1</sup> (c) onstudents, teachers, parents, families, schools, school districts, and States, including correlations between such systems and—
+&emsp;(1) the effect of the assessment and accountability systems described in section <sup>1</sup> (c) on students, teachers, parents, families, schools, school districts, and States, including correlations between such systems and—
 
 &emsp;&emsp;(A) student academic achievement, progress to the State-defined level of proficiency, and progress toward closing achievement gaps, based on independent measures;
 

@@ -42,7 +42,7 @@
 
 Upon the direct request of an active duty military consumer, or an individual acting on behalf of or as a personal representative of an active duty military consumer, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the active duty military consumer and has received appropriate proof of the identity of the requester shall—
 
-&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Commission shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
+&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period ofnot less than 12 months, or such longer period as the Commission shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
 
 &emsp;(2) during the 2-year period beginning on the date of such request, exclude the active duty military consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
 
@@ -82,7 +82,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by aconsumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
+&emsp;&emsp;&emsp;No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
 
 #### (ii) Verification
 

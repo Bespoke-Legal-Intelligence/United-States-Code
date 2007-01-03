@@ -4,15 +4,11 @@ It shall be the policy of the Commission to control the dissemination and declas
 
 (a) Until effective and enforceable international safeguards against the use of atomic energy for destructive purposes have been established by an international arrangement, there shall be no exchange of Restricted Data with other nations except as authorized by section 2164 of this title; and
 
-(b) The dissemination of scientific and technical information relating to atomic energy should be permitted and encouraged so as to provide that free interchange of ideas and criticism which is essential to scientific and industrial progress and public understanding and to enlarge the fund of technical information.
+(b) The dissemination of scientific and technical information relating to atomic energy should be permitted and encouraged so as toprovide that free interchange of ideas and criticism which is essential to scientific and industrial progress and public understanding and to enlarge the fund of technical information.
 
 (Aug. 1, 1946, ch. 724, title I, §141, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 940; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1810(a) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

@@ -84,7 +84,7 @@ Sec. 3. So much of the personnel, property and records attendant to the function
 
 Sec. 4. Executive Order No. 11717 of May 9, 1973, and Executive Order No. 11867 of June 19, 1975, are hereby superseded to the extent that they are inconsistent with this order. Any circulars, directives, or regulations issued pursuant to functions transferred by this order shall remain in effect until modified or rescinded by the Office of Management and Budget.
 
-Sec. 5. Section 2 of Executive Order No. 11861 of May 21, 1975, as amended \[formerly set out as a note under section 5317 of Title 5, Government Organization and Employees\], placing certain positions in level V of the Executive Schedule, is further amended by deleting “(9) Associate Administrator for Federal Management Policy, General Services Administration.”.
+Sec. 5. Section 2 of Executive Order No. 11861 of May 21, 1975, as amended \[formerly set out as a note under section 5317 of Title 5, Government Organization and Employees\], placing certain positions in level V of theExecutive Schedule, is further amended by deleting “(9) Associate Administrator for Federal Management Policy, General Services Administration.”.
 
 Sec. 6. This order shall be effective as of December 31, 1975.
 

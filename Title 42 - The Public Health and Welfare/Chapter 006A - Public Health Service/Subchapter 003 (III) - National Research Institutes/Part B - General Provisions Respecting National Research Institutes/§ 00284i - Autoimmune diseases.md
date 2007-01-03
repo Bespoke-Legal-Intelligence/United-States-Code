@@ -66,25 +66,23 @@
 
 &emsp;The Director of NIH shall ensure that programs and activities of the National Institutes of Health regarding autoimmune diseases are implemented in accordance with the plan under paragraph (1).
 
-#### (d) Reports to Congress
+(July 1, 1944, ch. 373, title IV, §409E, as added Pub. L. 106–310, div. A, title XIX, §1901, Oct. 17, 2000, 114 Stat. 1153; amended Pub. L. 109–482, title I, §§103(b)(11), 104(b)(1)(E), Jan. 15, 2007, 120 Stat. 3687, 3693.)
 
-The Coordinating Committee under subsection (b)(1) of this section shall biennially submit to the Committee on Commerce of the House of Representatives, and the Committee on Health, Education, Labor and Pensions of the Senate, a report that describes the research, education, and other activities on autoimmune diseases being conducted or supported through the national research institutes, and that in addition includes the following:
+#### Amendments
 
-&emsp;(1) The plan under subsection (c)(1) of this section (or revisions to the plan, as the case may be).
+2007—Subsec. (d). Pub. L. 109–482, §104(b)(1)(E), struck out heading and text of subsec. (d). Text read as follows: “The Coordinating Committee under subsection (b)(1) of this section shall biennially submit to the Committee on Commerce of the House of Representatives, and the Committee on Health, Education, Labor and Pensions of the Senate, a report that describes the research, education, and other activities on autoimmune diseases being conducted or supported through the national research institutes, and that in addition includes the following:
 
-&emsp;(2) Provisions specifying the amounts expended by the National Institutes of Health with respect to each of the autoimmune diseases included in the plan.
+&emsp;“(1) The plan under subsection (c)(1) of this section (or revisions to the plan, as the case may be).
 
-&emsp;(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on autoimmune diseases.
+&emsp;“(2) Provisions specifying the amounts expended by the National Institutes of Health with respect to each of the autoimmune diseases included in the plan.
 
-#### (e) Authorization of appropriations
+&emsp;“(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on autoimmune diseases.”
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to autoimmune diseases.
+Subsec. (e). Pub. L. 109–482, §103(b)(11), struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to autoimmune diseases.”
 
-(July 1, 1944, ch. 373, title IV, §409E, as added Pub. L. 106–310, div. A, title XIX, §1901, Oct. 17, 2000, 114 Stat. 1153.)
+#### Effective Date of 2007 Amendment
 
-#### Change of Name
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “pathogenesis”.</i>
 

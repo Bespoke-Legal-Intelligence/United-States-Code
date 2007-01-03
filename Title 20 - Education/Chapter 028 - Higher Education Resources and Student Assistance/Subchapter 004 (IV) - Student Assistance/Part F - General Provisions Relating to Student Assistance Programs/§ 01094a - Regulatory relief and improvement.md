@@ -64,7 +64,7 @@
 
 #### (c) “Current award year” defined
 
-For purposes of this section, the term “current award year” means the award year during which the participating institution indicates the institution's intention to cease participation.
+For purposes of this section, the term “current award year” means the award year duringwhich the participating institution indicates the institution's intention to cease participation.
 
 (Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751.)
 

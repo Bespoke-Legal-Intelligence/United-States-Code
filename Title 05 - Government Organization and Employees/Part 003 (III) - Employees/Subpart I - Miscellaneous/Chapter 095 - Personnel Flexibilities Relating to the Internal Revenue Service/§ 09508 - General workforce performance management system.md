@@ -28,13 +28,13 @@
 
 (2) For purposes of this title, the term “unacceptable performance” with respect to an employee of the Internal Revenue Service covered by a performance management system established under this section means performance of the employee which fails to meet a retention standard established under this section.
 
-(c)(1) The Secretary of the Treasury may establish an awards program designed to provide incentives for and recognition of organizational, group, and individual achievements by providing for granting awards to employees who, as individuals or members of a group, contribute to meeting the performance goals and objectives established under this chapter by such means as a superior individual or group accomplishment, a documented productivity gain, or sustained superior performance.
+(c)(1) The Secretary of the Treasury may establish an awards program designed to provideincentives for and recognition of organizational, group, and individual achievements by providing for granting awards to employees who, as individuals or members of a group, contribute to meeting the performance goals and objectives established under this chapter by such means as a superior individual or group accomplishment, a documented productivity gain, or sustained superior performance.
 
 (2) A cash award under subchapter I of chapter 45 may be granted to an employee of the Internal Revenue Service without the need for any approval under section 4502(b).
 
 (d)(1) In applying sections 4303(b)(1)(A) and 7513(b)(1) to employees of the Internal Revenue Service, “30 days” may be deemed to be “15 days”.
 
-(2) Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal thedenial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
+(2) Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal the denial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 715; amended Pub. L. 107–217, §3(a)(3), Aug. 21, 2002, 116 Stat. 1295.)
 

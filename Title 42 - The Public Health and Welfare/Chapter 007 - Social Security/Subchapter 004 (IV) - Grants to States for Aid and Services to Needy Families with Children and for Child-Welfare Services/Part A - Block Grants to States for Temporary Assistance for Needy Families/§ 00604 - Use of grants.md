@@ -62,7 +62,7 @@ A State to which a grant is made under section 603 of this title may use the gra
 
 #### (g) Implementation of electronic benefit transfer system
 
-A State to which a grant is made under section 603 of this title is encouraged to implement an electronic benefit transfer system for providing assistance under the State program funded under this part, and may use the grant for such purpose.
+A State to which a grant is made under section 603 of this title is encouraged to implement an electronic benefit transfer system for providing assistance under the State program fundedunder this part, and may use the grant for such purpose.
 
 #### (h) Use of funds for individual development accounts
 
@@ -78,7 +78,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (B) Qualified purpose
 
-&emsp;&emsp;A qualified purpose described in this subparagraph is 1 or more of the following, as provided by the qualified entity providingassistance to the individual under this subsection:
+&emsp;&emsp;A qualified purpose described in this subparagraph is 1 or more of the following, as provided by the qualified entity providing assistance to the individual under this subsection:
 
 #### (i) Postsecondary educational expenses
 
@@ -388,7 +388,7 @@ In general.—The term ‘qualified entity’ means—
 
 &emsp;&emsp;&emsp;(bb) an organization designated as a community development financial institution by the Secretary of the Treasury (or the Community Development Financial Institutions Fund); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(II) can demonstrate a collaborative relationship with a local community-based organization whose activities are designed to address poverty in the community and the needs of community members for economic independence and stability.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(II) can demonstrate a collaborative relationship with a local community-based organizationwhose activities are designed to address poverty in the community and the needs of community members for economic independence and stability.
 
 &emsp;&emsp;“(B)
 
@@ -546,7 +546,7 @@ Preferences.—In considering an application to conduct a demonstration project 
 
 “(e)
 
-Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate, taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to themaximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
+Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate, taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to the maximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
 
 “(f)
 
@@ -626,7 +626,7 @@ Investment.—A qualified entity shall invest the amounts in its Reserve Fund th
 
 &emsp;“(3)
 
-Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
+Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two ormore qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
 
 “(d)
 

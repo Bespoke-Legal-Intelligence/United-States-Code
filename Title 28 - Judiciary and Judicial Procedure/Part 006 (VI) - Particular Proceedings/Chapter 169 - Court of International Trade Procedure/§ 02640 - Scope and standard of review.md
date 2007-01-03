@@ -14,7 +14,7 @@
 
 &emsp;(6) Civil actions commenced under section 1582 of this title.
 
-(b) In any civil action commenced in the Court of International Trade under section 516A of theTariff Act of 1930, the court shall review the matter as specified in subsection (b) of such section.
+(b) In any civil action commenced in the Court of International Trade under section 516A of the Tariff Act of 1930, the court shall review the matter as specified in subsection (b) of such section.
 
 (c) In any civil action commenced in the Court of International Trade to review any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 or any final determination of the Secretary of Commerce under section 251 or section 271 of such Act, the court shall review the matter as specified in section 284 of such Act.
 
@@ -44,7 +44,7 @@ Section 499(b) of the Tariff Act of 1930, referred to in subsec. (d), is classif
 
 #### Prior Provisions
 
-A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the division which had decided a case or the single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by Pub. L. 91–271, title I, §121, June 2, 1970, 84 Stat. 281. See section 2646 of this title.
+A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the division which had decided a case orthe single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by Pub. L. 91–271, title I, §121, June 2, 1970, 84 Stat. 281. See section 2646 of this title.
 
 #### Amendments
 

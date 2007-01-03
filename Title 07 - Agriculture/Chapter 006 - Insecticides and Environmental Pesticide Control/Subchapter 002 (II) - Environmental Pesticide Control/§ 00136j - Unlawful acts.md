@@ -54,7 +54,7 @@
 
 &emsp;(O) to add any substance to, or take any substance from, any pesticide in a manner that may defeat the purpose of this subchapter;
 
-&emsp;(P) to use any pesticide in tests on human beings unless such human beings (i) are fully informed of the nature and purposes of the test and of any physical and mental health consequences which are reasonably foreseeable therefrom, and (ii) freely volunteer to participate in the test;
+&emsp;(P) to use any pesticide in tests on human beings unless such human beings (i) are fully informed of the nature and purposes of the test and of any physical and mental healthconsequences which are reasonably foreseeable therefrom, and (ii) freely volunteer to participate in the test;
 
 &emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator, or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
 

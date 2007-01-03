@@ -4,10 +4,6 @@
 
 This subchapter provides for a simplified regulatory measurement of vessels that are either non-self-propelled, under 79 in length, or operated only for pleasure.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 14504 of this title.
-
 
 ---
 

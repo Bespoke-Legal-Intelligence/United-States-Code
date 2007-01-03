@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (6) Compromise
 
-&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
+&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lenderor agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
 
 #### (h) Authority of the Secretary to impose and enforce limitations, suspensions, and terminations
 
@@ -160,7 +160,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(i) if such review is waived; or
 
-&emsp;&emsp;(ii) if such review is not waived, unless the Secretary determines that the limitation, suspension, or termination was not imposedin accordance with requirements of such section.
+&emsp;&emsp;(ii) if such review is not waived, unless the Secretary determines that the limitation, suspension, or termination was not imposed in accordance with requirements of such section.
 
 &emsp;(B) The Secretary's review under this paragraph of the limitation, suspension, or termination imposed by a guaranty agency pursuant to section 1078(b)(1)(U) of this title shall be limited to—
 
@@ -188,7 +188,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (i) Authority to sell defaulted loans
 
-In the event that all other collection efforts have failed, the Secretary is authorized to sell defaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
+In the event that all other collection efforts have failed, the Secretary is authorized to selldefaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
 
 #### (j) Authority of Secretary to take emergency actions against lenders
 
@@ -246,7 +246,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(G) claims filing;
 
-&emsp;&emsp;(H) borrower status change; and
+&emsp;&emsp;(H) borrower status change and anticipated graduation date; and
 
 &emsp;&emsp;(I) cures.
 
@@ -304,7 +304,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (iii) Sale; assignment; enforceability
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, each loan made under a master promissory note under this subsection may be sold or assigned independently of anyother loan made under the same promissory note and each such loan shall be separately enforceable in all Federal and State courts on the basis of an original or copy of the master promissory note in accordance with the terms of the master promissory note.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, each loan made under a master promissory note under this subsection may be sold or assigned independently of any other loan made under the same promissory note and each such loan shall be separately enforceable in all Federal and State courts on the basis of an original or copy of the master promissory note in accordance with the terms of the master promissory note.
 
 #### (E) Perfection of security interests in student loans
 
@@ -326,7 +326,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Common reporting formats
 
-&emsp;The Secretary shall promulgate standards including necessary rules, regulations (including the definitions of all relevant terms), and procedures so as to require all lenders and guaranty agencies to report information on all aspects of loans made under this part in uniform formats, so as to permit the direct comparison of data submitted by individual lenders, servicers, or guaranty agencies.
+&emsp;The Secretary shall promulgate standards including necessary rules, regulations (including the definitions of all relevant terms), and procedures so as to require all lenders andguaranty agencies to report information on all aspects of loans made under this part in uniform formats, so as to permit the direct comparison of data submitted by individual lenders, servicers, or guaranty agencies.
 
 #### (4) Electronic forms
 
@@ -364,7 +364,7 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46.)
+(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171.)
 
 #### References in Text
 
@@ -379,6 +379,8 @@ This chapter, referred to in subsec. (<i>l</i>)(3)(C), was in the original “th
 A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90–460, §3(d), Aug. 3, 1968, 82 Stat. 638; Pub. L. 93–604, title VII, §705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96–88, title III, §301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96–374, title IV, §416(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99–272, title XVI, §16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2006—Subsec. (<i>l</i>)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
 
 2000—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
 
@@ -457,6 +459,10 @@ Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresen
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

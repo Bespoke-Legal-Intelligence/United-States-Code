@@ -10,7 +10,7 @@ All moneys received from sales and other services by the Senate Gift Shop shall 
 
 #### (c) Revolving fund
 
-(1) There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales andservices by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading “
+(1) There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading “
 
 Salaries, Officers and Employees” and “
 
@@ -48,7 +48,7 @@ The Legislative Branch Appropriations Act, 1991, referred to in subsec. (f), is 
 
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
-In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C.193d)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

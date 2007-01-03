@@ -74,7 +74,7 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), the board of directors of a System institution may not reduce the permanent capital of the institution through the payment of patronage refunds or dividends, or the retirement of stock if, after or due to such action, the permanent capital of the institution would thereafter fail to meet the minimum capital adequacy standards established under section 2154(a) of this title.
+&emsp;Except as provided in paragraph (2), the board of directors of a System institution maynot reduce the permanent capital of the institution through the payment of patronage refunds or dividends, or the retirement of stock if, after or due to such action, the permanent capital of the institution would thereafter fail to meet the minimum capital adequacy standards established under section 2154(a) of this title.
 
 #### (2) Exceptions
 

@@ -28,7 +28,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (A) In general
 
-&emsp;&emsp;During each year of the second 5-year period of the 10-year period beginning on thedate of issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation.
+&emsp;&emsp;During each year of the second 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation.
 
 #### (B) Payment by System banks to Financial Assistance Corporation
 
@@ -36,7 +36,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (C) Allocation
 
-&emsp;&emsp;During each year of the second 5-year period, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the interest due from System banks under this paragraph equal to—
+&emsp;&emsp;During each year of the second 5-year period, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial AssistanceCorporation, of the interest due from System banks under this paragraph equal to—
 
 &emsp;&emsp;&emsp;(i) the amount of the average accruing retail loan volume of the bank and its affiliated associations for the preceding year; divided by
 
@@ -76,7 +76,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Banks terminating System status or in liquidation
 
-&emsp;&emsp;&emsp;Any bank terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of all future such assessments against the bank had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date the bank was placed in liquidation) shall be recognizedas a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation.
+&emsp;&emsp;&emsp;Any bank terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of all future such assessments against the bank had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date the bank was placed in liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation.
 
 #### (ii) No anticipatory reductions in other obligations
 
@@ -88,7 +88,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (F) Associations terminating System status or in liquidation
 
-&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
+&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this titleshall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
 
 #### (G) Capital requirements
 
@@ -130,7 +130,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) such amount as the institution may be required to appropriate under any assistance agreement the institution has with the Farm Credit System Assistance Board or the Farm Credit System Insurance Corporation; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amount that, if appropriated to the account in equal amounts in each year thereafter until the maturity of the obligation referred to in subparagraph (A), would cause the amount in the account to equal the par value of the preferred stock issued bythe institution with respect to the obligation; plus
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amount that, if appropriated to the account in equal amounts in each year thereafter until the maturity of the obligation referred to in subparagraph (A), would cause the amount in the account to equal the par value of the preferred stock issued by the institution with respect to the obligation; plus
 
 &emsp;&emsp;&emsp;&emsp;(II) any amount that had been appropriated to the account in a previous year but had thereafter been offset by losses.
 
@@ -140,7 +140,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iv) Use
 
-&emsp;&emsp;&emsp;The amount in the appropriated unallocated surplus account shall be unavailable to pay dividends or other allocations or distributions to shareholders or holders of participation certificates. The account shall be senior to all other unallocated surplus accounts but junior to all preferred and common stock for purposes of the application of operating losses.
+&emsp;&emsp;&emsp;The amount in the appropriated unallocated surplus account shall be unavailable to pay dividends or other allocations or distributions to shareholders or holders of participation certificates. The accountshall be senior to all other unallocated surplus accounts but junior to all preferred and common stock for purposes of the application of operating losses.
 
 #### (v) Preferred stock
 
@@ -178,7 +178,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (2) Refinanced obligations
 
-&emsp;The refinanced obligations issued under paragraph (1) shall be solely the obligations ofthe institutions refinancing such, and sections 2154 and 2155 of this title shall not apply to such obligations.
+&emsp;The refinanced obligations issued under paragraph (1) shall be solely the obligations of the institutions refinancing such, and sections 2154 and 2155 of this title shall not apply to such obligations.
 
 #### (3) Defaults
 
@@ -186,7 +186,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Payment by Corporation
 
-&emsp;&emsp;&emsp;If a System bank defaults on the payment of interest due under subsection (c) of this section during the first 15 years after an obligation is issued under subsection (a) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amount due from the defaulting System bank, and such amount shall be paid to the Trust Fund.
+&emsp;&emsp;&emsp;If a System bank defaults on the payment of interest due under subsection (c) of this section during the first 15 years after an obligation is issued under subsection (a) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amountdue from the defaulting System bank, and such amount shall be paid to the Trust Fund.
 
 #### (ii) Payment by Insurance Fund
 
@@ -208,7 +208,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iii) Redemption by institution; purchase by Secretary of the Treasury
 
-&emsp;&emsp;&emsp;If the Farm Credit Administration determines, in consultation with the Secretary of the Treasury, on the basis of the evaluation required under clause (i), that the redemption of such stock at par value would impair the other stock or equities of such institution or render such institution incapable of meeting its capital adequacy standards, the institution shall be prohibited from redeeming the preferred stock it issued under section 2278b–7 of this title with respect to the maturing obligation. If the Farm Credit Administration determines, in consultation with the Secretary of the Treasury, on the basis of the evaluation required under clause (i), that such institution will be able to redeem, in a timely manner and at par value, the preferred stock it issued under section 2278b–7 of this title with respect to the maturing obligation, and remain a viable and competitive institution, such institution shall have the option of redeeming or not redeeming such stock. If such institution is prohibited from redeeming or elects not to redeem such stock, the Financial Assistance Corporation shall withdraw funds from the Trust Fund in an amount equal to the par value of the preferred stock issued by such institution under section 2278b–7 of this title so as to enable the Financial Assistance Corporation to pay the principal of the maturing obligation. Simultaneously with such withdrawal of funds from the Trust Fund, the Financial Assistance Corporation shall transfer to the Insurance Fund an equal amount, at par value, of preferred stock of such institution. To the extent that the Trust Fund is insufficient to enable the Financial Assistance Corporation to pay the full principal of the maturing obligation, the Insurance Fund shall be used by the Farm Credit System Insurance Corporation to purchase, at par value, the preferred stock issued by such institution under section 2278b–7(a) of this title to enable the Financial Assistance Corporation to pay the principal of the maturing obligation. To the extent that the Insurance Fund is insufficient to enable the Financial Assistance Corporation to pay the full principal of the maturing obligation, the Secretary of the Treasury shall purchase, at par value, the remaining quantity of the preferred stock issued by such institution to enable the Financial Assistance Corporation to make such full payment. For that purpose, the Secretary of the Treasury may use, as a public debt transaction, the proceeds from the sale of any securities issued under chapter 31 of title 31. The purposes for which such securities may be issued under such chapter are extended to include such purchases of stock. Any preferred stock transferred to, or purchased by, the Farm Credit System Insurance Corporation under this clause shall be retired by the issuing institution at such times and under such terms andconditions as are agreed to between the Insurance Corporation and such institution.
+&emsp;&emsp;&emsp;If the Farm Credit Administration determines, in consultation with the Secretary of the Treasury, on the basis of the evaluation required under clause (i), that the redemption of such stock at par value would impair the other stock or equities of such institution or render such institution incapable of meeting its capital adequacy standards, the institution shall be prohibited from redeeming the preferred stock it issued under section 2278b–7 of this title with respect to the maturing obligation. If the Farm Credit Administration determines, in consultation with the Secretary of the Treasury, on the basis of the evaluation required under clause (i), that such institution will be able to redeem, in a timely manner and at par value, the preferred stock it issued under section 2278b–7 of this title with respect to the maturing obligation, and remain a viable and competitive institution, such institution shall have the option of redeeming or not redeeming such stock. If such institution is prohibited from redeeming or elects not to redeem such stock, the Financial Assistance Corporation shall withdraw funds from the Trust Fund in an amount equal to the par value of the preferred stock issued by such institution under section 2278b–7 of this title so as to enable the Financial Assistance Corporation to pay the principal of the maturing obligation. Simultaneously with such withdrawal of funds from the Trust Fund, the Financial Assistance Corporation shall transfer to the Insurance Fund an equal amount, at par value, of preferred stock of such institution. To the extent that the Trust Fund is insufficient to enable the Financial Assistance Corporation to pay the full principal of the maturing obligation, the Insurance Fund shall be used by the Farm Credit System Insurance Corporation to purchase, at par value, the preferred stock issued by such institution under section 2278b–7(a) of this title to enable the Financial Assistance Corporation to pay the principal of the maturing obligation. To the extent that the Insurance Fund is insufficient to enable the Financial Assistance Corporation to pay the full principal of the maturing obligation, the Secretary of the Treasury shall purchase, at par value, the remaining quantity of the preferred stock issued by such institution to enable the Financial Assistance Corporation to make such full payment. For that purpose, the Secretary of the Treasury may use, as a public debt transaction, the proceeds from the sale of any securities issued under chapter 31 of title 31. The purposes for which such securities may be issued under such chapter are extended to include such purchases of stock. Any preferred stock transferred to, or purchased by, the Farm Credit System Insurance Corporation under this clause shall be retired by the issuing institution at such times and under such terms and conditions as are agreed to between the Insurance Corporation and such institution.
 
 #### (C) Recourse by other System banks
 
@@ -218,7 +218,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (A) Inability to pay
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) of this section or section 2278a–9(e)(3)(A) of this title, the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due which shall be used by the Financial Assistance Corporation to pay the obligation.
+&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) of this section or section 2278a–9(e)(3)(A) of this title, the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due whichshall be used by the Financial Assistance Corporation to pay the obligation.
 
 #### (B) Recovery
 
@@ -274,7 +274,7 @@ Subsec. (c)(5). Pub. L. 102–552, §304(a), amended par. (5) generally, substit
 
 Subsec. (d)(1)(B). Pub. L. 102–552, §302, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in subparagraph (C), in order to enable the Financial Assistance Corporation to repay the obligation referred to in subparagraph (A), each institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation (or the successor thereto) shall pay to the Financial Assistance Corporation, before the maturity date of such obligation, an amount equal to the par value of such stock outstanding for such institution.”
 
-Subsec. (d)(1)(C). Pub. L. 102–552, §303, amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board under section 2278a–7(a) of this title, each System institution shall pay to the Financial Assistance Corporation a proportion of such obligation equal to—
+Subsec. (d)(1)(C). Pub. L. 102–552, §303, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under section 410(c) of the Agricultural Credit Act of 1987 and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board under section 2278a–7(a) of this title, each System institution shall pay to the Financial Assistance Corporation a proportion of such obligation equal to—
 
 &emsp;“(i) the average performing loan volume of the institution for the preceding 15 years; divided by
 
@@ -284,7 +284,7 @@ Subsec. (d)(1)(D), (E). Pub. L. 102–552, §305(2), redesignated subpar. (E) as
 
 Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
 
-Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading “Interest”, in cl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
+Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading “Interest”, incl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
 
 &emsp;“(I) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
 

@@ -14,7 +14,3 @@ Nothing contained in the chapter shall be construed to exempt from any antitrust
 
 (Pub. L. 91–353, §4, July 24, 1970, 84 Stat. 467.)
 
-#### References in Text
-
-Any antitrust law, referred to in subsecs. (a) and (c), are the antitrust laws defined in section 1802 of this title.
-

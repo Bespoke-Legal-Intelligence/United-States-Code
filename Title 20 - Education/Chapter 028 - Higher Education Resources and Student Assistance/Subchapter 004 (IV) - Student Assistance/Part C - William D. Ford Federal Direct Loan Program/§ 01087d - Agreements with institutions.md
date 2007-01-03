@@ -10,7 +10,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;&emsp;(B) estimate the need of each such student as required by part E of this subchapter for an academic year, except that, any loan obtained by a student under this part with the same terms as loans made under section 1078–8 of this title (except as otherwise provided in this part), or a loan obtained by a parent under this part with the same terms as loans made under section 1078–2 of this title (except as otherwise provided in this part), or obtained under any State-sponsored or private loan program, may be used to offset the expected family contribution of the student for that year;
 
-&emsp;&emsp;(C) provide a statement that certifies the eligibility of any student to receive a loan under this part that is not in excess of the annual or aggregate limit applicable to such loan, except that the institution may, in exceptional circumstances identified by the Secretary, refuse to certify a statement that permits a student to receive a loan under this part, or certify a loan amount that is less than the student's determination of need (as determined under part E of this subchapter), if the reason for such action is documented and provided in written form to such student;
+&emsp;&emsp;(C) provide a statement that certifies the eligibility of any student to receive a loanunder this part that is not in excess of the annual or aggregate limit applicable to such loan, except that the institution may, in exceptional circumstances identified by the Secretary, refuse to certify a statement that permits a student to receive a loan under this part, or certify a loan amount that is less than the student's determination of need (as determined under part E of this subchapter), if the reason for such action is documented and provided in written form to such student;
 
 &emsp;&emsp;(D) set forth a schedule for disbursement of the proceeds of the loan in installments, consistent with the requirements of section 1078–7 of this title; and
 
@@ -24,7 +24,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;(3) provide that the institution accepts responsibility and financial liability stemming from its failure to perform its functions pursuant to the agreement;
 
-&emsp;(4) provide that students at the institution and their parents (with respect to such students) will be eligible to participate in theprograms under part B of this subchapter at the discretion of the Secretary for the period during which such institution participates in the direct student loan program under this part, except that a student or parent may not receive loans under both this part and part B of this subchapter for the same period of enrollment;
+&emsp;(4) provide that students at the institution and their parents (with respect to such students) will be eligible to participate in the programs under part B of this subchapter at the discretion of the Secretary for the period during which such institution participates in the direct student loan program under this part, except that a student or parent may not receive loans under both this part and part B of this subchapter for the same period of enrollment;
 
 &emsp;(5) provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
 

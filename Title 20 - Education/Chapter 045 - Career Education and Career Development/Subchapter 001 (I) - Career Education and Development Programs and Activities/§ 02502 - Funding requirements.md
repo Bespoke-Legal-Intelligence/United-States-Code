@@ -10,7 +10,7 @@ There are authorized to be appropriated for the purpose of this subchapter $10,0
 
 (2) From the remainder of the sums appropriated under this subchapter, the Secretary of Education shall reserve such amount, not to exceed 1 per centum thereof, as he may determine necessary and shall allot such amount among the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands, according to their relative need for assistance under this subchapter.
 
-(3)(A) Of the remainder of the sums appropriated, the Secretary of Education shall allot to each State $100,000, and of the remainder of the sums appropriated the Secretary of Education shall allot to each State an amount which bears the same ratio to such sums for such year as the population of the State bears to the population of all States, for purposes of carrying out section 2501 of this title.
+(3)(A) Of the remainder of the sums appropriated, the Secretary of Education shall allot to each State $100,000, and of the remainder of the sums appropriated the Secretary of Education shall allot to each State an amount which bears the same ratio to such sums for such year as the population of the State bears tothe population of all States, for purposes of carrying out section 2501 of this title.
 
 (B) For purposes of this paragraph, the term “State” means any of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
@@ -22,7 +22,7 @@ The Federal share of funds allotted to States under this subchapter shall not ex
 
 #### References in Text
 
-Section 1226a of this title, referred to in subsec. (a), was in the original a reference to section 414 of theGeneral Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
+Section 1226a of this title, referred to in subsec. (a), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
 
 #### Amendments
 

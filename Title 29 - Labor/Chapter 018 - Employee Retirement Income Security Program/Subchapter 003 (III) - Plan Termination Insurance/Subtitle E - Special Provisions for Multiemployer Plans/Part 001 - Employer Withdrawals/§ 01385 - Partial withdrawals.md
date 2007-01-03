@@ -22,7 +22,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(2)(A) There is a partial cessation of the employer's contribution obligation for the plan year if, during such year—
 
-&emsp;&emsp;(i) the employer permanently ceases to have an obligation to contribute under one or more but fewer than all collective bargaining agreements under which the employer has been obligated to contribute under the plan but continues to perform work in the jurisdiction of the collective bargaining agreement of the type for which contributions were previously required or transfers such work to another location, or
+&emsp;&emsp;(i) the employer permanently ceases to have an obligation to contribute under one or more but fewer than all collective bargaining agreements under which the employer has been obligated to contribute under the plan but continues to perform work in the jurisdiction of the collective bargaining agreement of the type for which contributions were previously required or transfers such work to another location or to an entity or entities owned or controlled by the employer, or
 
 &emsp;&emsp;(ii) an employer permanently ceases to have an obligation to contribute under the plan with respect to work performed at one or more but fewer than all of its facilities, but continues to perform work at the facility of the type for which the obligation to contribute ceased.
 
@@ -44,7 +44,7 @@ For purposes of subsection (a) of this section—
 
 In the case of a plan described in section 404(c) of title 26, or a continuation thereof, the plan may be amended to provide rules setting forth other conditions consistent with the purposes of this chapter under which an employer has liability for partial withdrawal.
 
-(Pub. L. 93–406, title IV, §4205, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1221; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+(Pub. L. 93–406, title IV, §4205, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1221; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title II, §204(b)(1), Aug. 17, 2006, 120 Stat. 887.)
 
 #### References in Text
 
@@ -52,7 +52,13 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 #### Amendments
 
+2006—Subsec. (b)(2)(A)(i). Pub. L. 109–280 inserted “or to an entity or entities owned or controlled by the employer” after “to another location”.
+
 1989—Subsec. (d). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title II, §204(b)(2), Aug. 17, 2006, 120 Stat. 887, provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to work transferred on or after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
 #### Effective Date of 1989 Amendment
 

@@ -10,7 +10,7 @@ For the purpose of this section—
 
 &emsp;(3) the term “real property loan” means a loan, mortgage, advance, or credit sale secured by a lien on real property, the stock allocated to a dwelling unit in a cooperative housing corporation, or a residential manufactured home, whether real or personal property; and
 
-&emsp;(4) the term “residential manufactured home” means a manufactured home as definedin section 5402(6) of title 42 which is used as a residence; and
+&emsp;(4) the term “residential manufactured home” means a manufactured home as defined in section 5402(6) of title 42 which is used as a residence; and
 
 &emsp;(5) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 
@@ -30,7 +30,7 @@ For the purpose of this section—
 
 &emsp;(B) the Comptroller of the Currency with respect to real property loans originated by national banks or the National Credit Union Administration Board with respect to real property loans originated by Federal credit unions may, by regulation prescribed prior to the close of such period, otherwise regulate such contracts, in which case subsection (b) of this section shall apply only if such regulation so provides.
 
-(2)(A) For any contract to which subsection (b) of this section does not apply pursuant to this subsection, a lender may require any successor or transferee of the borrower to meet customary credit standards applied to loans secured by similar property, and the lender may declare the loan due and payable pursuant to the terms of the contract upon transfer to any successor or transferee of the borrower who fails to meet such customary credit standards.
+(2)(A) For any contract to which subsection (b) of this section does not apply pursuant to thissubsection, a lender may require any successor or transferee of the borrower to meet customary credit standards applied to loans secured by similar property, and the lender may declare the loan due and payable pursuant to the terms of the contract upon transfer to any successor or transferee of the borrower who fails to meet such customary credit standards.
 
 (B) A lender may not exercise its option pursuant to a due-on-sale clause in the case of a transfer of a real property loan which is subject to this subsection where the transfer occurred prior to October 15, 1982.
 
@@ -60,7 +60,7 @@ With respect to a real property loan secured by a lien on residential real prope
 
 #### (e) Rules, regulations, and interpretations; future income bearing loans subject to due-on-sale options
 
-(1) The Federal Home Loan Bank Board, in consultation with the Comptroller of the Currency and the National Credit Union Administration Board, is authorized to issue rules andregulations and to publish interpretations governing the implementation of this section.
+(1) The Federal Home Loan Bank Board, in consultation with the Comptroller of the Currency and the National Credit Union Administration Board, is authorized to issue rules and regulations and to publish interpretations governing the implementation of this section.
 
 (2) Notwithstanding the provisions of subsection (d) of this section, the rules and regulations prescribed under this section may permit a lender to exercise its option pursuant to a due-on-sale clause with respect to a real property loan and any related agreement pursuant to which a borrower obtains the right to receive future income.
 

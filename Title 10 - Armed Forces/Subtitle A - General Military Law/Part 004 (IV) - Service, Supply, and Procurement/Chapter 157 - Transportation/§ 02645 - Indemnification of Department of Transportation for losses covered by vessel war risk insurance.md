@@ -8,15 +8,15 @@ Prompt Indemnification Required.—(1) In the event of a loss that is covered by
 
 &emsp;(B) in the case of any other claim, not later than 180 days after the date on which the Secretary of Transportation determines the claim to be payable.
 
-(2) When there is a loss of a vessel that is (or may be) covered by vessel war risk insurance, the Secretary of Transportation may make, during the period when a claim for such loss is pending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such vessel. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the vessel to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the vessel war risk insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragrapharising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
+(2) When there is a loss of a vessel that is (or may be) covered by vessel war risk insurance, the Secretary of Transportation may make, during the period when a claim for such loss is pending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such vessel. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the vessel to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the vessel war risk insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragraph arising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
 
 (b)
 
-Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from any funds available to the Department of Defense for operation and maintenance, and such sums as may be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
+Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from any funds available to the Department of Defense for operation and maintenance, and such sums asmay be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
 
 (c)
 
-Deposit of Funds.—Any amount transferred to the Secretary of Transportation under this section shall be deposited in, and merged with amounts in, the Vessel War Risk Insurance Fund as provided in the second sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a)).
+Deposit of Funds.—Any amount transferred to the Secretary of Transportation under this section shall be deposited in, and merged with amounts in, the Vessel War Risk Insurance Fund as provided in section 53909(b) of title 46.
 
 (d)
 
@@ -40,25 +40,29 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Vessel war risk insurance.—The term “vessel war risk insurance” means insurance and reinsurance provided through policies issued by the Secretary of Transportation under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.), that is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
+Vessel war risk insurance.—The term “vessel war risk insurance” means insurance and reinsurance provided through policies issued by the Secretary of Transportation under chapter 539 of title 46 that is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
 
 &emsp;(2)
 
-Vessel war risk insurance fund.—The term “Vessel War Risk Insurance Fund” means the insurance fund referred to in the first sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a)).
+Vessel war risk insurance fund.—The term “Vessel War Risk Insurance Fund” means the insurance fund referred to in section 53909(a) of title 46.
 
 &emsp;(3)
 
 Loss.—The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
 
-(Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, §1073(a)(57), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 108–136, div. A, title X, §1031(a)(26), Nov. 24, 2003, 117 Stat. 1598.)
+(Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, §1073(a)(57), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 108–136, div. A, title X, §1031(a)(26), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–304, §17(a)(4), Oct. 6, 2006, 120 Stat. 1706.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
 
-The Merchant Marine Act, 1936, referred to in subsec. (h)(1), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Title XII of the Act is classified generally to subchapter XII (§1281 et seq.) of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
-
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–304, §17(a)(4)(A), substituted “section 53909(b) of title 46” for “the second sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
+
+Subsec. (h)(1). Pub. L. 109–304, §17(a)(4)(B), substituted “chapter 539 of title 46” for “title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.),”.
+
+Subsec. (h)(2). Pub. L. 109–304, §17(a)(4)(C), substituted “section 53909(a) of title 46” for “the first sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
 
 2003—Subsec. (d). Pub. L. 108–136, §1031(a)(26)(A), substituted “Congress” for “Congress—”, struck out par. (1) designation before “notification”, substituted a period for “; and” after “date of the loss”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government.”
 

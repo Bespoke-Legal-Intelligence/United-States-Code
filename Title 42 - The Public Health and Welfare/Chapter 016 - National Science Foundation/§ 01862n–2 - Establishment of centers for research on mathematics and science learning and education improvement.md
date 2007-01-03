@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(C) the capacity of the applicant to attract elementary school and secondary school teachers from a diverse array of schools, and with diverse professional experiences, for participation in Center activities; and
 
-&emsp;&emsp;(D) the capacity of the applicant to attract and provide adequate support for graduatestudents to pursue research at the intersection of educational practice and basic research on human cognition and learning.
+&emsp;&emsp;(D) the capacity of the applicant to attract and provide adequate support for graduate students to pursue research at the intersection of educational practice and basic research on human cognition and learning.
 
 #### (3) Awards
 

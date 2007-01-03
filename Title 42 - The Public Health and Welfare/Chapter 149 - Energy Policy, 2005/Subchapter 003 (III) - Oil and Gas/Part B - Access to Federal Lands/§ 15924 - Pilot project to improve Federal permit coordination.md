@@ -78,7 +78,7 @@ The Secretary shall assign to each field office identified in subsection (d) any
 
 &emsp;(1) the Pilot Project; and
 
-&emsp;(2) other programs administered by the field offices, including inspection and enforcement relating to energy development on Federal land, in accordance with the multiple usemandate of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+&emsp;(2) other programs administered by the field offices, including inspection and enforcement relating to energy development on Federal land, in accordance with the multiple use mandate of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 
 #### (g) Omitted
 

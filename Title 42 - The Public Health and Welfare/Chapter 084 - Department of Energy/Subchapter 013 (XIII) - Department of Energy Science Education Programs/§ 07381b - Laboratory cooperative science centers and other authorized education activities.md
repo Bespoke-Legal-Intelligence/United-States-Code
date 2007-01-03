@@ -16,7 +16,7 @@ The Secretary is authorized to:
 
 &emsp;(6) Establish a museum-based science education program.
 
-&emsp;(7) Establish collaborative inner-city and rural partnership programs designed to meetthe special mathematics and science education needs of students in inner-city and rural areas.
+&emsp;(7) Establish collaborative inner-city and rural partnership programs designed to meet the special mathematics and science education needs of students in inner-city and rural areas.
 
 &emsp;(8) Provide paid administrative leave for employees of the Department or Department research and development facilities who volunteer to interact with schools, colleges, universities, teachers, or students for the purpose of science, mathematics, and engineering education.
 

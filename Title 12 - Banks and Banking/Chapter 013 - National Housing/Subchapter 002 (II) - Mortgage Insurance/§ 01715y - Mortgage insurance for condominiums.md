@@ -86,7 +86,7 @@ Subsec. (e)(3). Pub. L. 103–233 substituted “$56,160” for “$59,160”.
 
 1992—Subsec. (e)(3). Pub. L. 102–550 substituted “$30,420”, “$33,696”, “$40,248”, “$49,608”, and “$59,160” for “$25,350”, “$28,080”, “$33,540”, “$41,340”, and “$46,800”, respectively, and “$35,100”, “$39,312”, “$48,204”, “$60,372”, and “$68,262” for “$29,250”, “$32,760”, “$40,170”, “$50,310”, and “$56,885”, respectively.
 
-1988—Subsec. (c). Pub. L. 100–242, §406(b)(17), struck out fourth sentence which read as follows: “In determining the amount of a mortgage in the case of a nonoccupant mortgagor the reference to paragraph (2) of section 1709(b) of this title in section 1709(b)(8) of this title shall be construed to refer to the preceding sentence in this subsection.”
+1988—Subsec. (c). Pub. L. 100–242, §406(b)(17), struck out fourth sentence which read as follows: “In determining the amount of a mortgage in the case of a nonoccupant mortgagor the reference to paragraph (2) ofsection 1709(b) of this title in section 1709(b)(8) of this title shall be construed to refer to the preceding sentence in this subsection.”
 
 Subsec. (e)(3). Pub. L. 100–242, §426(g), substituted “$25,350”, “$28,080”, “$33,540”, “$41,340”, and “$46,800” for “$19,500”, “$21,600”, “$25,800”, “$31,800”, and “$36,000”, respectively, and “$29,250”, “$32,760”, “$40,170”, “$50,310”, and “$56,885” for “$22,500”, “$25,200”, “$30,900”, “$38,700”, and “$43,758”, respectively.
 
@@ -96,7 +96,7 @@ Pub. L. 100–242, §426(h), substituted “not to exceed 110 percent in any geo
 
 1984—Subsec. (k)(4). Pub. L. 98–479 added cl. (4).
 
-1983—Subsec. (c). Pub. L. 98–181, §423(b)(4), purported to amend cl. (A) of third sentence of subsec. (c) bystriking out “: <i>Provided</i>, That the foregoing maximum mortgage amounts may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured”, but this provision had been previously struck out by section 420(b) of Pub. L. 98–181. See second par. below and Effective Date of 1983 Amendment note below.
+1983—Subsec. (c). Pub. L. 98–181, §423(b)(4), purported to amend cl. (A) of third sentence of subsec. (c) by striking out “: <i>Provided</i>, That the foregoing maximum mortgage amounts may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured”, but this provision had been previously struck out by section 420(b) of Pub. L. 98–181. See second par. below and Effective Date of 1983 Amendment note below.
 
 Pub. L. 98–181, §420(a), in cl. (2) substituted provision that at least 80 percent of the units in the project covered by mortgages insured under this subchapter be occupied by mortgagors or comortgagors for provision that the project be covered by a mortgage insured under any section of this chapter, except section 1715e(a)(1) and (2) of this title, notwithstanding any requirements in such section that the project be constructed or rehabilitated for providing rental housing and providing that a one-family unit in a multifamily project involving eleven or less units, or twelve or more in the case of a multifamily project the construction of which was completed more than a year prior to application for mortgage insurance, be eligible for insurance without having been covered by a project mortgage, and struck out cl. (3), which provided that the mortgagor is acquiring, or has acquired, a family unit covered by a mortgage insured under this subsection for his own use and occupancy and will not own more than four one-family units covered by mortgages insured under this subsection.
 
@@ -128,7 +128,7 @@ Subsec. (e)(3). Pub. L. 96–153, §314, substituted “75 per centum” for “
 
 1978—Subsec. (c). Pub. L. 95–557 inserted “or twelve or more units in the case of a multifamily project the construction of which was completed more than a year prior to the application for mortgage insurance” after “less units” in cl. (2) and “(100 per centum if the mortgagor is a veteran as defined under section 1709(b)(2) of this title)” after “97 per centum” in cl. (A)(i).
 
-1977—Subsec. (c). Pub. L. 95–128 substituted in cl. (A) “$60,000” for “$45,000” and “and (ii) 95 per centum of such value in excess of $25,000,” for “(ii) 90 per centum of such value in excess of $25,000 but not in excess of $35,000, (iii) 80 per centum of such value in excess of $35,000”.
+1977—Subsec. (c). Pub. L. 95–128 substituted in cl. (A) “$60,000” for “$45,000” and “and (ii) 95 per centum of such value in excess of $25,000,” for “(ii) 90 per centum of such value in excess of $25,000 but not in excess of$35,000, (iii) 80 per centum of such value in excess of $35,000”.
 
 1976—Subsec. (e) (3). Pub. L. 94–375 substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$19,500” for “$13,000”, “$21,600” for “$18,000”, “$25,800” for “$21,500”, “$31,800” for “$26,500”, “$36,000” for “$30,000”, “$22,500” for “$15,000”, “$25,200” for “$21,000”, “$30,900” for “$25,750”, “$38,700” for “$32,250”, and “$43,758” for “$36,465”.
 
@@ -144,7 +144,7 @@ Subsec. (e)(3). Pub. L. 93–383, §303(g), substituted “$13,000” for “$9,
 
 Subsec. (e)(3). Pub. L. 91–152, §113(h)(2), (3), substituted “$9,900” for “$9,000”, “$11,550” for “$10,500”, “$13,750” for “$12,500”, “$16,500” for “$15,000” wherever appearing, “$19,800” for “$18,000”, “$20,350” for “$18,500”, “$23,100” for “$21,000”, “$24,750” for “$22,500”, and “$28,050” for “$25,500”.
 
-1968—Subsec. (c). Pub. L. 90–448, §303(a), (b), made one-family units in multifamily projects involving eleven or less units eligible for insurance without having been covered by a project mortgage, and increased the maximum mortgage limits from 75 to 80 per centumof the appraised value of the property in excess of $20,000.
+1968—Subsec. (c). Pub. L. 90–448, §303(a), (b), made one-family units in multifamily projects involving eleven or less units eligible for insurance without having been covered by a project mortgage, and increased the maximum mortgage limits from 75 to 80 per centum of the appraised value of the property in excess of $20,000.
 
 Subsec. (f). Pub. L. 90–448, §303(c), permitted blanket mortgages to cover four or more family units instead of five or more family units.
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 90–301, §3(e), May 7, 1968, 82 Stat. 114, cited as a credit to this section, was repealed by Pub. L. 98–181, title IV, §404(a), Nov. 30, 1983, 97 Stat. 1208.
+The directory language of, but not the amendment made by, Pub. L. 90–301, §3(e), May 7, 1968, 82 Stat. 114,cited as a credit to this section, was repealed by Pub. L. 98–181, title IV, §404(a), Nov. 30, 1983, 97 Stat. 1208.
 
 Section 318 of Pub. L. 96–399, cited as a credit to this section, was repealed by Pub. L. 97–35, title III, §339B(d)(2), Aug. 13, 1981, 95 Stat. 417. See 1981 Amendments note for subsec. (c)(2) set out above.
 

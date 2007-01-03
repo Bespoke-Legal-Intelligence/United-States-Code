@@ -4,7 +4,7 @@ The Administrator of the Federal Aviation Administration may examine and rate th
 
 &emsp;(1) civilian schools giving instruction in flying or repairing, altering, and maintaining aircraft, aircraft engines, propellers, and appliances, on the adequacy of instruction, the suitability and airworthiness of equipment, and the competency of instructors.
 
-&emsp;(2) repair stations and shops that repair, alter, and maintain aircraft, aircraft engines,propellers, and appliances, on the adequacy and suitability of the equipment, facilities, and materials for, and methods of, repair and overhaul, and the competency of the individuals doing the work or giving instruction in the work.
+&emsp;(2) repair stations and shops that repair, alter, and maintain aircraft, aircraft engines, propellers, and appliances, on the adequacy and suitability of the equipment, facilities, and materials for, and methods of, repair and overhaul, and the competency of the individuals doing the work or giving instruction in the work.
 
 &emsp;(3) other air agencies the Administrator decides are necessary in the public interest.
 
@@ -86,7 +86,7 @@ DOT To Request Information From Air Carriers and Repair Facilities.—
 
 &emsp;“(1)
 
-Collection of information.—The Secretary, by regulation, shall require air carriers, foreign air carriers, domestic repair facilities, and foreign repair facilities to submit such information as the Secretary may require in order to assess balance of trade and safety issues with respect to work performed on aircraft used by air carriers, foreign air carriers, United States corporate operators, and foreign corporate operators.
+Collection of information.—The Secretary, by regulation, shall require air carriers, foreign aircarriers, domestic repair facilities, and foreign repair facilities to submit such information as the Secretary may require in order to assess balance of trade and safety issues with respect to work performed on aircraft used by air carriers, foreign air carriers, United States corporate operators, and foreign corporate operators.
 
 &emsp;“(2)
 

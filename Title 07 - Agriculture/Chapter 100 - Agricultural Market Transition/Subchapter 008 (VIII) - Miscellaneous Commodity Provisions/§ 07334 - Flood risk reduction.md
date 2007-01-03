@@ -20,7 +20,7 @@ Under the terms of the contract, with respect to acres that are subject to the c
 
 &emsp;(6) not apply for disaster program benefits provided by the Secretary; and
 
-&emsp;(7) refund the payments, with interest, issued under the flood risk reduction contract to the Secretary, if the producer violates the terms of the contract or if the producer transfers the property to another person who violates the contract.
+&emsp;(7) refund the payments, with interest, issued under the flood risk reduction contractto the Secretary, if the producer violates the terms of the contract or if the producer transfers the property to another person who violates the contract.
 
 #### (c) Duties of Secretary
 

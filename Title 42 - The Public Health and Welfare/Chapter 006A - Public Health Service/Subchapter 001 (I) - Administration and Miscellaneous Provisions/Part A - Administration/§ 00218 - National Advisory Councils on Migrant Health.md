@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties
 
-Within 120 days of July 29, 1975, the Secretary shall appoint and organize a National Advisory Council on Migrant Health (hereinafter in this subsection referred to as the “Council”) which shall advise, consult with, and make recommendations to, the Secretary on matters concerning the organization, operation, selection, and funding of migrant health centers and other entities under grants and contracts under section 254b <sup>1</sup> of this title.
+Within 120 days of July 29, 1975, the Secretary shall appoint and organize a National Advisory Council on Migrant Health (hereinafter in thissubsection referred to as the “Council”) which shall advise, consult with, and make recommendations to, the Secretary on matters concerning the organization, operation, selection, and funding of migrant health centers and other entities under grants and contracts under section 254b <sup>1</sup> of this title.
 
 #### (b) Membership
 
@@ -20,7 +20,7 @@ Section 14(a) of the Federal Advisory Committee Act shall not apply to the Counc
 
 #### References in Text
 
-Section 254b of this title, referred to in subsecs. (a) and (b), was in the original a reference to section 329,meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Section 2 of Pub. L. 104–299 enacted a new section 330 of act July 1, 1944, which is classified to section 254b of this title.
+Section 254b of this title, referred to in subsecs. (a) and (b), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Section 2 of Pub. L. 104–299 enacted a new section 330 of act July 1, 1944, which is classified to section 254b of this title.
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

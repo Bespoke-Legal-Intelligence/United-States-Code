@@ -140,7 +140,7 @@ Section 4(a)(2) of Pub. L. 97–229 provided that: “The amendment made by para
 
 #### Effective Date of 1981 Amendment
 
-Section 1038 of title X of Pub. L. 97–35 provided that: “The provisions of this title \[enacting sections 6247, 8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\].”
+Section 1038 of title X of Pub. L. 97–35 provided that: “The provisions of this title \[enacting sections 6247,8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -224,7 +224,7 @@ Section 805 of Pub. L. 96–294 provided that:
 
 #### Rate of Fill of Strategic Petroleum Reserve
 
-Pub. L. 96–514, title II, Dec. 12, 1980, 94 Stat. 2976, provided in part: “That the President shall immediately seek to undertake, and thereafter continue, crude oil acquisition, transportation, and injection activities at a level sufficient to assure that crude oil storage in the Strategic Petroleum Reserve will be increased to an average annual rate of at least 300,000 barrels per day or a sustained average annual daily rate of fill which would fully utilize appropriated funds: <i>Provided</i>, That the requirements of the preceding provision shall be in addition to the provisions of title VIII of the Energy Security Act \[title VIII of Pub. L. 96–294, which amended this section and section 7430 of Title 10, ArmedForces, and enacted provisions set out as a note above\] and shall not affect such provisions of the Energy Security Act in any way.”
+Pub. L. 96–514, title II, Dec. 12, 1980, 94 Stat. 2976, provided in part: “That the President shall immediately seek to undertake, and thereafter continue, crude oil acquisition, transportation, and injection activities at a level sufficient to assure that crude oil storage in the Strategic Petroleum Reserve will be increased to an average annual rate of at least 300,000 barrels per day or a sustained average annual daily rate of fill which would fully utilize appropriated funds: <i>Provided</i>, That the requirements of the preceding provision shall be in addition to the provisions of title VIII of the Energy Security Act \[title VIII of Pub. L. 96–294, which amended this section and section 7430 of Title 10, Armed Forces, and enacted provisions set out as a note above\] and shall not affect such provisions of the Energy Security Act in any way.”
 
 #### Ex. Ord. No. 12231. Strategic Petroleum Reserve
 

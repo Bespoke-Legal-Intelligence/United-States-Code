@@ -24,7 +24,7 @@ Any person who shall willfully make any false entry in the accounts of any book 
 
 #### (f) Confidentiality of information
 
-No member, officer, or employee of the Commission shall divulge any fact or information which may come to his knowledge during the course of examination of books or other accounts, as hereinbefore provided, except insofar as he may be directed by the Commission or by a court.
+No member, officer, or employee of the Commission shall divulge any fact or information which may come to his knowledge during thecourse of examination of books or other accounts, as hereinbefore provided, except insofar as he may be directed by the Commission or by a court.
 
 #### (g) Use of other forms; alterations in prescribed forms
 

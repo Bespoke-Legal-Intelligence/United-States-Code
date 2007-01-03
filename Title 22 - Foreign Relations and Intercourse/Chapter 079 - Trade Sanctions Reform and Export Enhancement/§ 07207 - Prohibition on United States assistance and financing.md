@@ -28,11 +28,11 @@
 
 #### (2) Penalties
 
-&emsp;Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act \[50 App. U.S.C. 1 et seq.\] for violations under that Act.
+&emsp;Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act \[50 U.S.C. App. 1 et seq.\] for violations under that Act.
 
 #### (3) Administration and enforcement
 
-&emsp;The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act \[50 App. U.S.C. 1 et seq.\], with respect to the conduct prohibited in paragraph (1).
+&emsp;The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act \[50 U.S.C. App. 1 et seq.\], with respect to the conduct prohibited in paragraph (1).
 
 #### (4) Definitions
 

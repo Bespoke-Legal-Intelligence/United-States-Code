@@ -1,8 +1,8 @@
 ### §2106. Liability in rem
 
-When a vessel is made liable in rem under this subtitle, the vessel may be libeled and proceeded against in a district court of the United States in which the vessel is found.
+When a vessel is made liable in rem under this subtitle, the vessel may be libeled and proceeded against in the district court of the United States for any district in which the vessel is found.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 506.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 506; Pub. L. 109–304, §15(4), Oct. 6, 2006, 120 Stat. 1702.)
 
 Historical and Revision Notes
 
@@ -55,4 +55,8 @@ Historical and Revision Notes
 46:1484(b)
 
 Section 2106 provides that when a vessel is made liable in rem the vessel may be libeled and proceeded against in a United States district court.
+
+#### Amendments
+
+2006—Pub. L. 109–304 substituted “the district court of the United States for any district” for “a district court of the United States”.
 

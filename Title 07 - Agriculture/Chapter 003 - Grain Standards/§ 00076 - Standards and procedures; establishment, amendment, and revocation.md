@@ -6,7 +6,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 #### (b) Notice and opportunity for comment; standards regarding cleanliness of grain
 
-(1) Before establishing, amending, or revoking any standards under this chapter, the Secretary shall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request,an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
+(1) Before establishing, amending, or revoking any standards under this chapter, the Secretary shall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request, an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
 
 (2)(A)(i) If the Secretary determines that the establishment or amendment of standards regarding cleanliness conditions of wheat, corn, barley, sorghum and soybeans that meet the requirements for grade number 3 or better (as set forth in subparagraph (B)) would—
 
@@ -102,7 +102,7 @@ Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection 
 
 &emsp;&emsp;“(C) the protein, oil, and free-fatty-acid content of soybeans.
 
-&emsp;“(2) A review of the development and availability of tests for the characteristics identified in the survey conducted under paragraph (1), including an evaluation of the costs of providing such tests.
+&emsp;“(2) A review of the development and availability of tests for the characteristics identified in the surveyconducted under paragraph (1), including an evaluation of the costs of providing such tests.
 
 “(b)
 

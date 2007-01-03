@@ -4,42 +4,14 @@
 | :--- | ---: |
 | [4901\.](%C2%A7%2004901%20-%20Definitions.md) | Definitions. |
 | [4902\.](%C2%A7%2004902%20-%20Termination%20of%20private%20mortgage%20insurance.md) | Termination of private mortgage insurance. |
-| (a) | Borrower cancellation. |
-| (b) | Automatic termination. |
-| (c) | Final termination. |
-| (d) | Treatment of loan modifications. |
-| (e) | No further payments. |
-| (f) | Return of unearned premiums. |
-| (g) | Exceptions for high risk loans. |
-| (h) | Accrued obligation for premium payments. |
 | [4903\.](%C2%A7%2004903%20-%20Disclosure%20requirements.md) | Disclosure requirements. |
-| (a) | Disclosures for new mortgages at time of transaction. |
-| (b) | Disclosures for existing mortgages. |
-| (c) | Inclusion in other annual notices. |
-| (d) | Standardized forms. |
 | [4904\.](%C2%A7%2004904%20-%20Notification%20upon%20cancellation%20or%20termination.md) | Notification upon cancellation or termination. |
-| (a) | In general. |
-| (b) | Notice of grounds. |
 | [4905\.](%C2%A7%2004905%20-%20Disclosure%20requirements%20for%20lender%20paid%20mortgage%20insurance.md) | Disclosure requirements for lender paid mortgage insurance. |
-| (a) | Definitions. |
-| (b) | Exclusion. |
-| (c) | Notices to mortgagor. |
-| (d) | Standard forms. |
 | [4906\.](%C2%A7%2004906%20-%20Fees%20for%20disclosures.md) | Fees for disclosures. |
 | [4907\.](%C2%A7%2004907%20-%20Civil%20liability.md) | Civil liability. |
-| (a) | In general. |
-| (b) | Timing of actions. |
-| (c) | Limitations on liability. |
 | [4908\.](%C2%A7%2004908%20-%20Effect%20on%20other%20laws%20and%20agreements.md) | Effect on other laws and agreements. |
-| (a) | Effect on State law. |
-| (b) | Effect on other agreements. |
 | [4909\.](%C2%A7%2004909%20-%20Enforcement.md) | Enforcement. |
-| (a) | In general. |
-| (b) | Additional enforcement powers. |
-| (c) | Enforcement and reimbursement. |
 | [4910\.](%C2%A7%2004910%20-%20Construction.md) | Construction. |
-| (a) | PMI not required. |
-| (b) | No preclusion of cancellation or termination agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

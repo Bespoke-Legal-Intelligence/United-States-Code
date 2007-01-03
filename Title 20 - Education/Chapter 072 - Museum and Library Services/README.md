@@ -6,32 +6,10 @@
 | :--- | ---: |
 | [9101\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009101%20-%20General%20definitions.md) | General definitions. |
 | [9102\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009102%20-%20Institute%20of%20Museum%20and%20Library%20Services.md) | Institute of Museum and Library Services. |
-| (a) | Establishment. |
-| (b) | Offices. |
-| (c) | Museum and Library Services Board. |
 | [9103\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009103%20-%20Director%20of%20Institute.md) | Director of Institute. |
-| (a) | Appointment. |
-| (b) | Compensation. |
-| (c) | Duties and powers. |
-| (d) | Nondelegation. |
-| (e) | Coordination. |
-| (f) | Regulatory authority. |
-| (g) | Application procedures. |
 | [9104\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009104%20-%20Deputy%20Directors.md) | Deputy Directors. |
 | [9105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105%20-%20Personnel.md) | Personnel. |
-| (a) | In general. |
-| (b) | Appointment and compensation of technical and professional employees. |
-| (c) | Voluntary services. |
 | [9105a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105a%20-%20National%20Museum%20and%20Library%20Services%20Board.md) | National Museum and Library Services Board. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Terms. |
-| (d) | Duties and powers. |
-| (e) | Chairperson. |
-| (f) | Meetings. |
-| (g) | Quorum. |
-| (h) | Compensation and travel expenses. |
-| (i) | Coordination. |
 | [9106\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009106%20-%20Contributions.md) | Contributions. |
 | [9107\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009107%20-%20Awards.md) | Awards. |
 | [9108\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009108%20-%20Analysis%20of%20impact%20of%20museum%20and%20library%20services.md) | Analysis of impact of museum and library services. |
@@ -46,9 +24,6 @@
 | [9121\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/%C2%A7%2009121%20-%20Purpose.md) | Purpose. |
 | [9122\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/%C2%A7%2009122%20-%20Definitions.md) | Definitions. |
 | [9123\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/%C2%A7%2009123%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Forward funding. |
-| (c) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,22 +32,9 @@
 |  |  |
 | :--- | ---: |
 | [9131\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20001%20-%20Basic%20Program%20Requirements/%C2%A7%2009131%20-%20Reservations%20and%20allotments.md) | Reservations and allotments. |
-| (a) | Reservations. |
-| (b) | Allotments. |
 | [9132\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20001%20-%20Basic%20Program%20Requirements/%C2%A7%2009132%20-%20Administration.md) | Administration. |
-| (a) | In general. |
-| (b) | Construction. |
 | [9133\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20001%20-%20Basic%20Program%20Requirements/%C2%A7%2009133%20-%20Payments%3B%20Federal%20share%3B%20and%20maintenance%20of%20effort%20requirements.md) | Payments; Federal share; and maintenance of effort requirements. |
-| (a) | Payments. |
-| (b) | Federal share. |
-| (c) | Maintenance of effort. |
 | [9134\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20001%20-%20Basic%20Program%20Requirements/%C2%A7%2009134%20-%20State%20plans.md) | State plans. |
-| (a) | State plan required. |
-| (b) | Contents. |
-| (c) | Evaluation and report. |
-| (d) | Information. |
-| (e) | Approval. |
-| (f) | Internet safety. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -81,8 +43,6 @@
 |  |  |
 | :--- | ---: |
 | [9141\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20002%20-%20Library%20Programs/%C2%A7%2009141%20-%20Grants%20to%20States.md) | Grants to States. |
-| (a) | In general. |
-| (b) | Special rule. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -102,9 +62,6 @@ I74subpart a—state requirements
 | :--- | ---: |
 | [9161\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009161%20-%20Services%20for%20Native%20Americans.md) | Services for Native Americans. |
 | [9162\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009162%20-%20National%20leadership%20grants%2C%20contracts%2C%20or%20cooperative%20agreements.md) | National leadership grants, contracts, or cooperative agreements. |
-| (a) | In general. |
-| (b) | Grants, contracts, or cooperative agreements. |
-| (c) | Special rule. |
 | [9163\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009163%20-%20State%20and%20local%20initiatives.md) | State and local initiatives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -116,15 +73,8 @@ I74subpart a—state requirements
 | [9171\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009171%20-%20Purpose.md) | Purpose. |
 | [9172\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009172%20-%20Definitions.md) | Definitions. |
 | [9173\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009173%20-%20Museum%20services%20activities.md) | Museum services activities. |
-| (a) | In general. |
-| (b) | Federal share. |
-| (c) | Review and evaluation. |
-| (d) | Services for Native Americans. |
 | 9174, 9175. Repealed. |  |
 | [9176\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009176%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Grants. |
-| (b) | Administration. |
-| (c) | Sums remaining available. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

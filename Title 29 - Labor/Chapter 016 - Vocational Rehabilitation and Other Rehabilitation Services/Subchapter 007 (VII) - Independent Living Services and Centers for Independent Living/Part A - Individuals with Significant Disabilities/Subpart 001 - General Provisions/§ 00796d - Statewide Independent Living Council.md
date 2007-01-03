@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-To be eligible to receive financial assistance under this part, each State shall establish a Statewide Independent Living Council (referred to in this section as the “Council”). The Council shall not be established as an entity within a State agency.
+To be eligible to receive financial assistance under this part, each State shall establish aStatewide Independent Living Council (referred to in this section as the “Council”). The Council shall not be established as an entity within a State agency.
 
 #### (b) Composition and appointment
 
@@ -108,7 +108,7 @@ The Council shall—
 
 &emsp;(2) monitor, review, and evaluate the implementation of the State plan;
 
-&emsp;(3) coordinate activities with the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or the commission described in section 721(a)(21)(A) of this title, if the State has such a commission, and councils that address the needs of specific disability populations and issues under other Federal law;
+&emsp;(3) coordinate activities with the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or the commission described in section721(a)(21)(A) of this title, if the State has such a commission, and councils that address the needs of specific disability populations and issues under other Federal law;
 
 &emsp;(4) ensure that all regularly scheduled meetings of the Statewide Independent Living Council are open to the public and sufficient advance notice is provided; and
 

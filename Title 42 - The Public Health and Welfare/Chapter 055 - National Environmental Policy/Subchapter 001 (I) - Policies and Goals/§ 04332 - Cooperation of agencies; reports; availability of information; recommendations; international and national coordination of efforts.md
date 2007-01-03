@@ -20,7 +20,7 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
 
 > &emsp;Prior to making any detailed statement, the responsible Federal official shall consult with and obtain the comments of any Federal agency which has jurisdiction by law or special expertise with respect to any environmental impact involved. Copies of such statement and the comments and views of the appropriate Federal, State, and local agencies, which are authorized to develop and enforce environmental standards, shall be made available to the President, the Council on Environmental Quality and to the public as provided by section 552 of title 5, and shall accompany the proposal through the existing agency review processes;
 
-&emsp;(D) Any detailed statement required under subparagraph (C) after January 1, 1970, for any major Federal action funded under a programof grants to States shall not be deemed to be legally insufficient solely by reason of having been prepared by a State agency or official, if:
+&emsp;(D) Any detailed statement required under subparagraph (C) after January 1, 1970, for any major Federal action funded under a program of grants to States shall not be deemed to be legally insufficient solely by reason of having been prepared by a State agency or official, if:
 
 &emsp;&emsp;(i) the State agency or official has statewide jurisdiction and has the responsibility for such action,
 

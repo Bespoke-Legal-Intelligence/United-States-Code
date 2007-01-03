@@ -2,7 +2,7 @@
 
 #### (a) Appointment and number; selection of Chairman; rules of procedure; term
 
-(1) The United States shall be represented by not more than three Commissioners who shall serve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any State or political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
+(1) The United States shall be represented by not more than three Commissioners who shall serve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any State or political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tortclaims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
 
 (2) Of the Commissioners appointed under paragraph (1) who are not governmental employees—
 
@@ -28,9 +28,15 @@ The United States Commissioners or Alternate Commissioners, although officers of
 
 (2) The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.
 
-(Pub. L. 94–70, §3, Aug. 5, 1975, 89 Stat. 385; Pub. L. 101–627, title II, §§201(a), 203, Nov. 28, 1990, 104 Stat. 4459, 4460; Pub. L. 106–562, title III, §303, Dec. 23, 2000, 114 Stat. 2806.)
+#### (e) Sense of Congress regarding fish habitat
+
+It is the sense of the Congress that the United States Commissioners should seek to include ecosystem considerations in fisheries management, including the conservation of fish habitat.
+
+(Pub. L. 94–70, §3, Aug. 5, 1975, 89 Stat. 385; Pub. L. 101–627, title II, §§201(a), 203, Nov. 28, 1990, 104 Stat. 4459, 4460; Pub. L. 106–562, title III, §303, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 109–479, title IV, §405(c), Jan. 12, 2007, 120 Stat. 3633.)
 
 #### Amendments
+
+2007—Subsec. (e). Pub. L. 109–479 added subsec. (e).
 
 2000—Subsec. (a)(1). Pub. L. 106–562 inserted before last sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 

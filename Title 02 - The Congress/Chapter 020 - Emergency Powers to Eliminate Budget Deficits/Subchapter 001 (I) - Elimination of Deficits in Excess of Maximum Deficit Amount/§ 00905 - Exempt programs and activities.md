@@ -300,11 +300,11 @@ The following programs shall be exempt from reduction under any order issued und
 
 For purposes of subsections (b), (g), and (h) of this section, each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 1998–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704.)
+(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9.)
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 
@@ -313,6 +313,8 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is act Sept. 7, 1916, ch. 458, 39 Stat. 742, was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2006—Subsec. (g)(1)(A). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(10). See 1996 Amendment note below.
 
 1997—Subsec. (b). Pub. L. 105–33, §10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36-0120-0-1-701)” for “(36-0137-0-1-702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
 
@@ -426,9 +428,9 @@ Pub. L. 105–33, §10207(d)(2), inserted items relating to temporary assistance
 
 Pub. L. 105–33, §10207(d)(1), substituted item relating to child nutrition programs for “Child nutrition (12-3539-0-1-605);”.
 
-Subsec. (i). Pub. L. 105–33, §10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g)and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
+Subsec. (i). Pub. L. 105–33, §10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
 
-1996—Subsec. (g)(1)(A). Pub. L. 104–208, which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed. See Effective Date of 1996 Amendments note below.
+1996—Subsec. (g)(1)(A). Pub. L. 104–208, §2704(d)(10), which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed and was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendments note below.
 
 Subsec. (h). Pub. L. 104–193 substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75-0412-0-1-609);”.
 
@@ -476,9 +478,13 @@ Subsec. (h). Pub. L. 100–119, §104(a)(1), inserted item relating to commodity
 
 Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payments account.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that beginsafter the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of Title 12, Banks and Banking.
+
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of Title 12, Banks and Banking.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of Title 12, Banks and Banking.
 
 Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
@@ -498,7 +504,9 @@ The Soldiers’ and Airmen's Home, referred to in subsec. (g)(1)(A), was incorpo
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of United States Synthetic Fuels Corporation
 

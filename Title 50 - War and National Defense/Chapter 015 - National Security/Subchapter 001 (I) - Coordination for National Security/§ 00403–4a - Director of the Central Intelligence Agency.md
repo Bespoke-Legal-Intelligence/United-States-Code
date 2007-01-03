@@ -86,7 +86,7 @@ Disciplinary Actions.—The regulations shall specify appropriate disciplinary a
 
 Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including section 103(c)(8) of the National Security Act of 1947, as amended \[former 50 U.S.C. 403–3(c)(8)\] (Act), and in order to further strengthen the effective conduct of United States intelligence activities and protect the territory, people, and interests of the United States of America, including against terrorist attacks, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including section 103(c)(8) of the National Security Act of 1947, as amended \[former 50 U.S.C. 403–3(c)(8)\] (Act), and in order to further strengthen the effective conduct of United States intelligence activities and protect the territory, people, and interests of the United States of America, including against terrorist attacks, it is hereby ordered as follows:
 
 Section 1. <i>Strengthening the Authority of the Director of Central Intelligence</i>. The Director of Central Intelligence (Director) shall perform the functions set forth in this order to ensure an enhanced joint, unified national intelligence effort to protect the national security of the United States. Such functions shall be in addition to those assigned to the Director by law, Executive Order, or Presidential directive.
 

@@ -8,25 +8,25 @@
 
 &emsp;&emsp;(A) the current estimate of the value of the single level dollar amount to be determined under subsection (c)(1)(A) at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;&emsp;(B) the expected average force strength during that fiscal year for members of the uniformed services under the jurisdiction of the Secretary of Defense on active duty (other than active duty for training) and full-time National Guard duty (other than full-time National Guard duty for training only).
+&emsp;&emsp;(B) the expected average force strength during that fiscal year for members of the uniformed services under the jurisdiction of the Secretary of Defense on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title.
 
 &emsp;(2) The product of—
 
 &emsp;&emsp;(A) the current estimate of the value of the single level dollar amount to be determined under subsection (c)(1)(B) at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;&emsp;(B) the expected average force strength during that fiscal year for members of the Ready Reserve of the uniformed services under the jurisdiction of the Secretary of Defense (other than members on full-time National Guard duty other than for training) who are not otherwise described in paragraph (1)(B).
+&emsp;&emsp;(B) the expected average force strength during that fiscal year for members of the Selected Reserve of the uniformed services under the jurisdiction of the Secretary of Defense who are not otherwise described in paragraph (1)(B).
 
 (c)(1) Not less often than every four years, the Secretary of Defense shall carry out an actuarial valuation of the Fund. Each such actuarial valuation shall include—
 
-&emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level dollar amount for members of the participating uniformed services on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only); and
+&emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level dollar amount for members of the participating uniformed services on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title; and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level dollar amount for members of the Ready Reserve of the participating uniformed services (other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level dollar amount for members of the Selected Reserve of the participating uniformed services who are not otherwise described by subparagraph (A).
 
 > Such single level dollar amounts shall be used for the purposes of subsection (b). The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service.
 
 (2) If at the time of any such valuation there has been a change in benefits under the uniformed services retiree health care programs for medicare-eligible beneficiaries that has been made since the last such valuation and such change in benefits increases or decreases the present value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments (or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
 
-(3) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease in the payments that would otherwise be made to the Fund.
+(3) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedulefor the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease in the payments that would otherwise be made to the Fund.
 
 (4) If at the time of any such valuation the Secretary of Defense determines that, based upon the Fund's actuarial experience (other than resulting from changes in benefits or actuarial assumptions) since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such actuarial experience and any previous actuarial experience through an increase or decrease in the payments that would otherwise be made to the Fund.
 
@@ -36,9 +36,17 @@
 
 (e) The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–181; amended Pub. L. 107–107, div. A, title VII, §711(b)(3), (e)(1), Dec. 28, 2001, 115 Stat. 1165, 1166; Pub. L. 108–136, div. A, title VII, §722(a), (c), title X, §1045(a)(3), Nov. 24, 2003, 117 Stat. 1532, 1612; Pub. L. 108–375, div. A, title VII, §725(c)(2)–(5), Oct. 28, 2004, 118 Stat. 1992.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–181; amended Pub. L. 107–107, div. A, title VII, §711(b)(3), (e)(1), Dec. 28, 2001, 115 Stat. 1165, 1166; Pub. L. 108–136, div. A, title VII, §722(a), (c), title X, §1045(a)(3), Nov. 24, 2003, 117 Stat. 1532, 1612; Pub. L. 108–375, div. A, title VII, §725(c)(2)–(5), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title V, §592(b), Oct. 17, 2006, 120 Stat. 2233.)
 
 #### Amendments
+
+2006—Subsec. (b)(1)(B). Pub. L. 109–364, §592(b)(1)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other than active duty for training) and full-time National Guard duty (other than full-time National Guard duty for training only)”.
+
+Subsec. (b)(2)(B). Pub. L. 109–364, §592(b)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and struck out “(other than members on full-time National Guard duty other than for training)” after “Secretary of Defense”.
+
+Subsec. (c)(1)(A). Pub. L. 109–364, §592(b)(2)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
+
+Subsec. (c)(1)(B). Pub. L. 109–364, §592(b)(2)(B), substituted “Selected Reserve” for “Ready Reserve” and struck out “(other than members on full-time National Guard duty other than for training)” after “uniformed services”.
 
 2004—Subsec. (a). Pub. L. 108–375, §725(c)(2), substituted “1116” for “1116(c)”.
 
@@ -65,6 +73,10 @@ Subsec. (b)(2). Pub. L. 107–107, §711(b)(3)(C), inserted “(or to the other 
 Subsec. (c)(1)(A), (B). Pub. L. 107–107, §711(b)(3)(D), inserted “participating” before “uniformed services”.
 
 Subsec. (c)(2). Pub. L. 107–107, §711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 effective with respect to payments under this chapter beginning with fiscal year 2008, see section 592(c) of Pub. L. 109–364, set out as a note under section 1111 of this title.
 
 #### Effective Date of 2004 Amendment
 

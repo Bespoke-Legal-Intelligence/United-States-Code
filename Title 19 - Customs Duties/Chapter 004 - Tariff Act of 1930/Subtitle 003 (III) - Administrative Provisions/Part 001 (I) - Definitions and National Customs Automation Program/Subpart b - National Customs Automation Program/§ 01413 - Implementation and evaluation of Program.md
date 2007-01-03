@@ -64,13 +64,13 @@
 
 &emsp;&emsp;&emsp;(ii) a report on such component for each of the 3 full fiscal years occurring after December 8, 1993, which report shall be transmitted not later than the 90th day after the close of each such year; and
 
-&emsp;&emsp;(D) not later than the 90th day after the close of fiscal year 1994, and annually thereafter through fiscal year 2000, transmit to the Committees a written evaluation with respect to the implementation and effect on users of each of the planned Program components listed in section 1411(a)(2) of this title.
+&emsp;&emsp;(D) not later than the 90th day after the close of fiscal year 1994, and annually thereafter through fiscal year 2000, transmit to the Committees a written evaluation with respect to the implementation and effect onusers of each of the planned Program components listed in section 1411(a)(2) of this title.
 
 > &emsp;In carrying out the provisions of this paragraph, the Secretary shall publish requests for comments in the Customs Bulletin and shall consult with the trade community, including importers, brokers, shippers, and other affected parties.
 
 #### (c) Committees
 
-For purposes of this section, the term “Committees” means the Committee on Ways andMeans of the House of Representatives and the Committee on Finance of the Senate.
+For purposes of this section, the term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
 (June 17, 1930, ch. 497, title IV, §413, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2189; amended Pub. L. 104–295, §21(e)(15), Oct. 11, 1996, 110 Stat. 3531.)
 

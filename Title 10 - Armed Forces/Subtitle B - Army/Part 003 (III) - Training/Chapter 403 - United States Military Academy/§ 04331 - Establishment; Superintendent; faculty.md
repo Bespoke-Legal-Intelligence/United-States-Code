@@ -142,7 +142,7 @@ Pub. L. 109–163, div. A, title V, §598, Jan. 6, 2006, 119 Stat. 3283, provide
 
 “(a)
 
-In General.—The superintendent of a service academy may have in effect such policy as the superintendent considers appropriate with respect to the offering of a voluntary, nondenominational prayer at an otherwise authorized activity of the academy, subjectto the United States Constitution and such limitations as the Secretary of Defense may prescribe.
+In General.—The superintendent of a service academy may have in effect such policy as the superintendent considers appropriate with respect to the offering of a voluntary, nondenominational prayer at an otherwise authorized activity of the academy, subject to the United States Constitution and such limitations as the Secretary of Defense may prescribe.
 
 “(b)
 
@@ -316,7 +316,7 @@ Co-Chairs of the Task Force.—There shall be two co-chairs of the task force. O
 
 Administrative Support.—(1) Each member of the task force who is a member of the Armed Forces or a civilian officer or employee of the United States shall serve without compensation (other than compensation to which entitled as a member of the Armed Forces or an officer or employee of the United States, as the case may be). Other members of the task force shall be appointed in accordance with, and subject to, section 3161 of title 5, United States Code.
 
-“(2) The Deputy Under Secretary of Defense for Personnel and Readiness, under the direction of the Under Secretary of Defense for Personnel and Readiness, shall provide oversight of the task force. The Washington Headquarters Services of the Department of Defense shall provide the task force with personnel, facilities, and other administrative support as necessary for the performance of the task force's duties.
+“(2) The Deputy Under Secretary of Defense for Personnel and Readiness, under the direction of the Under Secretary of Defense for Personnel and Readiness, shallprovide oversight of the task force. The Washington Headquarters Services of the Department of Defense shall provide the task force with personnel, facilities, and other administrative support as necessary for the performance of the task force's duties.
 
 “(3) The Deputy Under Secretary shall coordinate with the Secretary of the Army to provide visits of the task force to the United States Military Academy and with the Secretary of the Navy to provide visits of the task force to the United States Naval Academy.
 
@@ -324,89 +324,7 @@ Administrative Support.—(1) Each member of the task force who is a member of t
 
 Termination.—The task force shall terminate 90 days after the date on which the report of the task force is submitted to the Committees on Armed Services of the Senate and House of Representatives pursuant to subsection (d)(3).”
 
-Pub. L. 108–136, div. A, title V, §527, Nov. 24, 2003, 117 Stat. 1468, provided that:
-
-“(a)
-
-Policy on Sexual Harassment and Violence.—(1) Under guidance prescribed by the Secretary of Defense—
-
-&emsp;“(A) the Secretary of the Army shall direct the Superintendent of the United States Military Academy to prescribe a policy on sexual harassment and violence applicable to the personnel of the United States Military Academy;
-
-&emsp;“(B) the Secretary of the Navy shall direct the Superintendent of the United States Naval Academy to prescribe a policy on sexual harassment and violence applicable to the personnel of the United States Naval Academy; and
-
-&emsp;“(C) the Secretary of the Air Force shall direct the Superintendent of the United States Air Force Academy to prescribe a policy on sexual harassment and violence applicable to the personnel of the United States Air Force Academy.
-
-“(2) The policy on sexual harassment and violence prescribed for an academy under paragraph (1) shall specify the following:
-
-&emsp;“(A) Programs to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve academy personnel.
-
-&emsp;“(B) Procedures that a cadet or midshipman should follow in the case of an occurrence of sexual harassment or violence, including—
-
-&emsp;&emsp;“(i) a specification of the person or persons to whom the alleged offense should be reported;
-
-&emsp;&emsp;“(ii) a specification of any other person whom the victim should contact; and
-
-&emsp;&emsp;“(iii) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault.
-
-&emsp;“(C) Procedures for disciplinary action in cases of alleged criminal sexual assault involving academy personnel.
-
-&emsp;“(D) Any other sanction authorized to be imposed in a substantiated case of harassment or violence involving academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible.
-
-&emsp;“(E) Required training on the policy for all academy personnel, including the specific training required for personnel who process allegations of sexual harassment or violence involving academy personnel.
-
-“(3) In prescribing the policy on sexual harassment and violence for an academy under paragraph (1), the Superintendent of that academy shall take into consideration—
-
-&emsp;“(A) the findings, conclusions, and recommendations of the panel established pursuant to title V of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 609) to review sexual misconduct allegations at the United States Air Force Academy; and
-
-&emsp;“(B) the findings, conclusions, and recommendations of other previous reviews and investigations of sexual harassment and violence conducted with respect to one or more of the academies covered by paragraph (1).
-
-“(4) The policy for each such academy required by paragraph (1) shall be prescribed not later than June 1, 2004.
-
-“(b)
-
-Annual Assessment.—(1) The Secretary of Defense, through the Secretaries of the military departments, shall direct each Superintendent to conduct at the academy under the jurisdiction of that Superintendent an assessment during each academy program year to determine the effectiveness of the academy's policies, training, and procedures on sexual harassment and violence to prevent criminal sexual harassment and violence involving academy personnel.
-
-“(2) For the assessment for each of the 2004, 2005, 2006, 2007, and 2008 academy program years, the Superintendent shall conduct a survey of all academy personnel—
-
-&emsp;“(A) to measure—
-
-&emsp;&emsp;“(i) the incidence, during that program year, of sexual harassment and violence events, on or off the academy reservation, that have been reported to officials of the academy; and
-
-&emsp;&emsp;“(ii) the incidence, in that program year, of sexual harassment and violence events, on or off the academy reservation, that have not been reported to officials of the academy; and
-
-&emsp;“(B) to assess the perceptions of academy personnel on—
-
-&emsp;&emsp;“(i) the policies, training, and procedures on sexual harassment and violence involving academy personnel;
-
-&emsp;&emsp;“(ii) the enforcement of such policies;
-
-&emsp;&emsp;“(iii) the incidence of sexual harassment and violence involving academy personnel in such program year; and
-
-&emsp;&emsp;“(iv) any other issues relating to sexual harassment and violence involving academy personnel.
-
-“(c)
-
-Annual Report.—(1) The Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force shall direct the Superintendent of the United States Military Academy, the Superintendent of the United States Naval Academy, and the Superintendent of the United States Air Force Academy, respectively, to submit to the Secretary a report on sexual harassment and violence involving academy personnel for each of the 2004, 2005, 2006, 2007, and 2008 academy program years.
-
-“(2) The annual report for an academy under paragraph (1) shall contain, for the academy program year covered by the report, the following matters:
-
-&emsp;“(A) The number of sexual assaults, rapes, and other sexual offenses involving academy personnel that have been reported to academy officials during the program year, and the number of the reported cases that have been substantiated.
-
-&emsp;“(B) The policies, procedures, and processes implemented by the Secretary of the military department concerned and the leadership of the academy in response to sexual harassment and violence involving academy personnel during the program year.
-
-&emsp;“(C) In the report for the 2004 academy program year, a discussion of the survey conducted under subsection (b), together with an analysis of the results of the survey and a discussion of any initiatives undertaken on the basis of such results and analysis.
-
-&emsp;“(D) In the report for each of the subsequent academy program years, the results of the annual survey conducted in such program year under subsection (b).
-
-&emsp;“(E) A plan for the actions that are to be taken in the following academy program year regarding prevention of and response to sexual harassment and violence involving academy personnel.
-
-“(3) The Secretary of a military department shall transmit the annual report on an academy under this subsection, together with the Secretary's comments on the report, to the Secretary of Defense and the Board of Visitors of the academy.
-
-“(4) The Secretary of Defense shall transmit the annual report on each academy under this subsection, together with the Secretary's comments on the report to, the Committees on Armed Services of the Senate and the House of Representatives.
-
-“(5) The report for the 2004 academy program year for an academy shall be submitted to the Secretary of the military department concerned not later than one year after the date of the enactment of this Act \[Nov. 24, 2003\].
-
-“(6) In this subsection, the term ‘academy program year’ with respect to a year, means the academy program year that ends in that year.”
+Pub. L. 108–136, div. A, title V, §527, Nov. 24, 2003, 117 Stat. 1468, which required the Superintendent of each United States military service academy to prescribe a policy on sexual harassment and violence applicable to personnel, to make an annual assessment to determine the effectiveness of policies, training, and procedures on sexual harassment and violence, and to submit an annual report to the Secretary of Defense on sexual harassment and violence involving personnel for each of the 2004 to 2008 academy program years, was repealed by Pub. L. 109–364, div. A, title V, §532(c), Oct. 17, 2006, 120 Stat. 2205.
 
 #### Prohibition on Imposition of Additional Charges or Fees for Attendance at Certain Academies
 

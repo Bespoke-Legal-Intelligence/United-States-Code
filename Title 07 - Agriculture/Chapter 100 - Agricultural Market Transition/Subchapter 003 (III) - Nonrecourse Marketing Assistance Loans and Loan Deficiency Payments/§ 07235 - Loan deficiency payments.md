@@ -6,7 +6,7 @@ Except as provided in subsection (d) of this section, the Secretary may make loa
 
 &emsp;(1) producers who, although eligible to obtain a marketing assistance loan under section 7231 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for payments under this section; and
 
-&emsp;(2) effective only for the 2000 and 2001 crop years, producers that, although not eligible to obtain such a marketing assistance loan undersection 7231 of this title, produce a contract commodity.
+&emsp;(2) effective only for the 2000 and 2001 crop years, producers that, although not eligible to obtain such a marketing assistance loan under section 7231 of this title, produce a contract commodity.
 
 #### (b) Computation
 
@@ -34,7 +34,7 @@ A payment to a producer eligible for a payment under subsection (a)(2) of this s
 
 #### (f) Beneficial interest
 
-Subject to subsection (e) of this section, a producer shall be eligible for a payment under this section only if the producer has a beneficial interest in the commodity, as determined by the Secretary.
+Subject to subsection (e) of this section, a producer shall be eligible for a payment under thissection only if the producer has a beneficial interest in the commodity, as determined by the Secretary.
 
 #### (g) Effective date for payment rate determination
 

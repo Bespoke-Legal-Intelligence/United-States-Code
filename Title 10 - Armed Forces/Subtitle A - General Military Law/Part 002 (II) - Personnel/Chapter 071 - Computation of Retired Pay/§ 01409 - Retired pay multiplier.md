@@ -34,17 +34,35 @@ Reduction applicable to certain new-retirement members with less than 30 years o
 
 &emsp;&emsp;(B) 1/12 of 1 percentage point for each month by which the member's years of creditable service (after counting all full years of such service) are less than a full year.
 
-&emsp;(3) 75
+&emsp;(3) 30
 
-percent limit.—In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.
+years of service.—
+
+&emsp;&emsp;(A)
+
+Retirement before january 1, 2007.—In the case of a member who retires before January 1, 2007, with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.
+
+&emsp;&emsp;(B)
+
+Retirement after december 31, 2006.—In the case of a member who retires after December 31, 2006, with more than 30 years of creditable service, the percentage to be used under subsection (a) is the sum of—
+
+&emsp;&emsp;&emsp;(i) 75 percent; and
+
+&emsp;&emsp;&emsp;(ii) the product (stated as a percentage) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 21/2; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the member's years of creditable service (as defined in subsection (c)) in excess of 30 years of creditable service, under conditions authorized for purposes of this subparagraph during a period designated by the Secretary of Defense for purposes of this subparagraph.
 
 (c)
 
 Years of Creditable Service Defined.—In this section, the term “years of creditable service” means the number of years of service creditable to a member in computing the member's retired or retainer pay (including 1/12 of a year for each full month of service that is in addition to the number of full years of service of the member).
 
-(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A, title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664.)
+(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A, title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 109–364, div. A, title VI, §642(a), Oct. 17, 2006, 120 Stat. 2259.)
 
 #### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–364 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.”
 
 1999—Subsec. (b)(2). Pub. L. 106–65 inserted “certain” after “Reduction applicable to” in heading and “has elected to receive a bonus under section 322 of title 37,” after “July 31, 1986,” in introductory provisions.
 

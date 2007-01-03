@@ -6,9 +6,9 @@
 
 &emsp;(2) Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201, 1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
 
-&emsp;(3) Chapter 69, Retired Grade, except sections 1370, 1374,<sup>1</sup> 1375 and 1376(a).
+&emsp;(3) Chapter 69, Retired Grade, except sections 1370, 1374,<sup>1</sup> 1375 and 1376(a).<sup>1</sup>
 
-&emsp;(4) Chapter 71, Computation of Retired Pay, except formula No. 3 of section 1401.
+&emsp;(4) Chapter 71, Computation of Retired Pay, except formula No. 3 of section 1401.<sup>1</sup>
 
 &emsp;(5) Chapter 73, Retired Serviceman's Family Protection Plan; Survivor Benefit Plan.
 
@@ -42,11 +42,13 @@
 
 #### References in Text
 
-Section 1374 of title 10, referred to in subsec. (a)(3), was repealed by Pub. L. 103–337, div. A, title XVI, §1662(k)(2), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12773 of Title 10, Armed Forces.
+Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by Pub. L. 103–337, div. A, title XVI, §1662(k)(2), (3)(A)(i), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12774 of Title 10, Armed Forces.
+
+Formula No. 3 of section 1401 of title 10, referred to in subsec. (a)(4), was struck from the table set forth in section 1401(a) of title 10 by Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.
 
 #### Codification
 
-Section was formerly classified to section 316 of title 37 prior to the general revision and enactment of Title37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
+Section was formerly classified to section 316 of title 37 prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
 
 #### Amendments
 

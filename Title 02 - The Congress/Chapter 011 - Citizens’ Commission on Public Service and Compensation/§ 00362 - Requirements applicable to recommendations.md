@@ -1,6 +1,6 @@
 ### §362. Requirements applicable to recommendations
 
-Notwithstanding any other provision of this chapter, the recommendations submitted by theCommission to the President under section 357 of this title, and the recommendations transmitted by the President to the Congress under section 358 of this title, shall be in conformance with the following:
+Notwithstanding any other provision of this chapter, the recommendations submitted by the Commission to the President under section 357 of this title, and the recommendations transmitted by the President to the Congress under section 358 of this title, shall be in conformance with the following:
 
 &emsp;(1) Any recommended pay adjustment shall specify the date as of which it is proposed that such adjustment take effect.
 

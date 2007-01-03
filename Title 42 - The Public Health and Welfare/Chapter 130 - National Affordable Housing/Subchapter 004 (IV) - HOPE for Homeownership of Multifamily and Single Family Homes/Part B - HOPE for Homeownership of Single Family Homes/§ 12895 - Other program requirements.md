@@ -22,7 +22,7 @@ Any entity that transfers ownership interests in, or shares representing, units 
 
 #### (C) Promissory note required
 
-&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between themarket value and the purchase price, payable to the public housing agency or other entity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
+&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between the market value and the purchase price, payable to the public housing agency or other entity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
 
 #### (2) 6 years or less
 

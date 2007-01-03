@@ -10,7 +10,3 @@
 
 (Added Pub. L. 100–424, §4(a), Sept. 9, 1988, 102 Stat. 1590.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
-

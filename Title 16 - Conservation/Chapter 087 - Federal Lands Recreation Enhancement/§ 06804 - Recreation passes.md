@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
+&emsp;&emsp;The Secretary shall sell the National Parks and Federal Recreational Lands Passat all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
 
 #### (B) Use of vendors
 
@@ -92,5 +92,5 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 Section 6805 of this title, referred to in subsec. (a)(6)(B), was in the original a reference to section 6, and was translated as meaning section 806 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497, as amended. Title VI of the Act is classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov.13, 1998, 112 Stat. 3497, as amended. Title VI of the Act was classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, §813(d)(2), Dec. 8, 2004, 118 Stat. 3391. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 

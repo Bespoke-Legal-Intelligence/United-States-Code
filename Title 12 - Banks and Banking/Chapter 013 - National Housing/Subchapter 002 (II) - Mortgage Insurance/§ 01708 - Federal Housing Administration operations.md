@@ -42,7 +42,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or more frequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
 
-&emsp;(10) Subject to the provisions of Section 7 of the Federal Advisory Committee Act, all members of the Board may be compensatedand shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
+&emsp;(10) Subject to the provisions of Section 7 of the Federal Advisory Committee Act, all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
 
 &emsp;(11) The Board shall terminate on January 1, 1995.
 
@@ -88,7 +88,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (D) Withdrawal
 
-&emsp;&emsp;The Board may issue an order withdrawing a mortgagee if the Board has made a determination of a serious violation or repeated violations by the mortgagee. The Board shall determine the terms of such withdrawal, but the term shall be not less than 1 year. Where the Board has determined that the violation is egregious or willful, the withdrawal shall be permanent.
+&emsp;&emsp;The Board may issue an order withdrawing a mortgagee if the Board has made a determination of a serious violation or repeatedviolations by the mortgagee. The Board shall determine the terms of such withdrawal, but the term shall be not less than 1 year. Where the Board has determined that the violation is egregious or willful, the withdrawal shall be permanent.
 
 #### (E) Settlements
 
@@ -218,7 +218,7 @@ Subsec. (c)(2)(G). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(3)\], added
 
 1992—Subsec. (b)(11). Pub. L. 102–550, §502, added par. (11).
 
-Subsec. (c)(3)(C). Pub. L. 102–550, §518, inserted “temporarily” after “order”, “(i)” after “Administrationif”, “(ii)” after “violations and”, and “, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended” after “6 months”.
+Subsec. (c)(3)(C). Pub. L. 102–550, §518, inserted “temporarily” after “order”, “(i)” after “Administration if”, “(ii)” after “violations and”, and “, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended” after “6 months”.
 
 Subsec. (c)(6)(D). Pub. L. 102–550, §519(1), struck out subpar. (D) which read as follows: “For purposes of this paragraph, the term ‘mortgagee’ means a mortgagee, a branch office or subsidiary of a mortgagee, or a director, officer, employee, agent, or other person participating in the conduct of the affairs of such mortgagee.”
 

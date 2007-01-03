@@ -94,7 +94,7 @@ In this part:
 
 #### References in Text
 
-Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in par. (1), is section 264(c) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2033, which was formerly set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in par. (1), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 #### Prior Provisions
 

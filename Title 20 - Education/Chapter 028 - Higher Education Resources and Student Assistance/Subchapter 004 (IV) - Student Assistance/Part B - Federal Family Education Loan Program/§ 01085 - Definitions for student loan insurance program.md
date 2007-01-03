@@ -54,7 +54,7 @@ As used in this part:
 
 &emsp;&emsp;(C) is an institution whose cohort default rate equals or exceeds 20 percent for the most recent year for which data are available;
 
-> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (inaddition to other defenses). In any such appeal, the Secretary shall take whatever steps are necessary to ensure that such institution has access for a reasonable period of time, not to exceed 30 days, to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
+> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (in addition to other defenses). In any such appeal, the Secretary shall take whatever steps are necessary to ensure that such institution has access for a reasonable period of time, not to exceed 30 days, to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
 
 #### (4) Definition of mitigating circumstances
 
@@ -104,7 +104,7 @@ As used in this part:
 
 &emsp;&emsp;After July 1, 1999, any institution that has a cohort default rate that equals or exceeds 25 percent for each of the three most recent fiscal years for which data are available and that relies on the exception in subparagraph (B) to continue to be an eligible institution shall—
 
-&emsp;&emsp;&emsp;(i) submit to the Secretary a default management plan which the Secretary, in the Secretary's discretion, after consideration of the institution's history, resources, dollars in default, and targets fordefault reduction, determines is acceptable and provides reasonable assurance that the institution will, by July 1, 2004, have a cohort default rate that is less than 25 percent;
+&emsp;&emsp;&emsp;(i) submit to the Secretary a default management plan which the Secretary, in the Secretary's discretion, after consideration of the institution's history, resources, dollars in default, and targets for default reduction, determines is acceptable and provides reasonable assurance that the institution will, by July 1, 2004, have a cohort default rate that is less than 25 percent;
 
 &emsp;&emsp;&emsp;(ii) engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III of this chapter) to provide technical assistance in implementing such default management plan; and
 
@@ -156,7 +156,7 @@ As used in this part:
 
 &emsp;&emsp;(F) for purposes only of purchasing and holding loans made by other lenders under this part, the Student Loan Marketing Association or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title, or an agency of any State functioning as a secondary market;
 
-&emsp;&emsp;(G) for purposes of making loans under sections 1078–1(d),<sup>1</sup> 1078–2(d), 1078–3, and 1087–2(q) of this title, the Student Loan Marketing Association or the Holding Company of the Student Loan Marketing Association,including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title;
+&emsp;&emsp;(G) for purposes of making loans under sections 1078–1(d),<sup>1</sup> 1078–2(d), 1078–3, and 1087–2(q) of this title, the Student Loan Marketing Association or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title;
 
 &emsp;&emsp;(H) for purposes of making loans under sections 1078(h) and 1078(j) of this title, a guaranty agency;
 
@@ -166,23 +166,43 @@ As used in this part:
 
 &emsp;&emsp;(K) a consumer finance company subsidiary of a national bank which, as of October 7, 1998, through one or more subsidiaries: (i) acts as a small business lending company, as determined under regulations of the Small Business Administration under section 120.470 of title 13, Code of Federal Regulations (as such section is in effect on October 7, 1998); and (ii) participates in the program authorized by this part pursuant to subparagraph (C), provided the national bank and all of the bank's direct and indirect subsidiaries taken together as a whole, do not have, as their primary consumer credit function, the making or holding of loans made to students under this part.
 
-#### (2) Additional requirements of eligible institutions
+#### (2) Requirements for eligible institutions
 
-&emsp;To be an eligible lender under this part, an eligible institution—
+#### (A) In general
 
-&emsp;&emsp;(A) shall employ at least one person whose full-time responsibilities are limited to the administration of programs of financial aid for students attending such institution;
+&emsp;&emsp;To be an eligible lender under this part, an eligible institution—
 
-&emsp;&emsp;(B) shall not be a home study school;
+&emsp;&emsp;&emsp;(i) shall employ at least one person whose full-time responsibilities are limited to the administration of programs of financial aid for students attending such institution;
 
-&emsp;&emsp;(C) shall make loans to not more than 50 percent of the undergraduate students at the institution;
+&emsp;&emsp;&emsp;(ii) shall not be a home study school;
 
-&emsp;&emsp;(D) shall not make a loan, other than a loan to a graduate or professional student, unless the borrower has previously received a loan from the school or has been denied a loan by an eligible lender;
+&emsp;&emsp;&emsp;(iii) shall not—
 
-&emsp;&emsp;(E) shall not have a cohort default rate (as defined in subsection (m) of this section) greater than 15 percent; and
+&emsp;&emsp;&emsp;&emsp;(I) make a loan to any undergraduate student;
 
-&emsp;&emsp;(F) shall use the proceeds from special allowance payments and interest payments from borrowers for need-based grant programs, except for reasonable reimbursement for direct administrative expenses;
+&emsp;&emsp;&emsp;&emsp;(II) make a loan other than a loan under section 1078 or 1078–8 of this title to a graduate or professional student; or
 
-> &emsp;except that the requirements of subparagraphs (C) and (D) shall not apply with respect to loans made, and loan commitments made, after October 17, 1986, and prior to July 1, 1987.
+&emsp;&emsp;&emsp;&emsp;(III) make a loan to a borrower who is not enrolled at that institution;
+
+&emsp;&emsp;&emsp;(iv) shall award any contract for financing, servicing, or administration of loans under this subchapter and part C of subchapter I of chapter 34 of title 42 on a competitive basis;
+
+&emsp;&emsp;&emsp;(v) shall offer loans that carry an origination fee or an interest rate, or both, that are less than such fee or rate authorized under the provisions of this subchapter and part C of subchapter I of chapter 34 of title 42;
+
+&emsp;&emsp;&emsp;(vi) shall not have a cohort default rate (as defined in subsection (m)) greater than 10 percent;
+
+&emsp;&emsp;&emsp;(vii) shall, for any year for which the institution engages in activities as an eligible lender, provide for a compliance audit conducted in accordance with section 1078(b)(1)(U)(iii)(I) of this title, and the regulations thereunder, and submit the results of such audit to the Secretary;
+
+&emsp;&emsp;&emsp;(viii) shall use any proceeds from special allowance payments and interest payments from borrowers, interest subsidies received from the Department of Education, and any proceeds from the sale or other disposition of loans, for need-based grant programs; and
+
+&emsp;&emsp;&emsp;(ix) shall have met the requirements of subparagraphs (A) through (F) of this paragraph as in effect on the day before February 8, 2006, and made loans under this part, on or before April 1, 2006.
+
+#### (B) Administrative expenses
+
+&emsp;&emsp;An eligible lender under subparagraph (A) shall be permitted to use a portion of the proceeds described in subparagraph (A)(viii) for reasonable and direct administrative expenses.
+
+#### (C) Supplement, not supplant
+
+&emsp;&emsp;An eligible lender under subparagraph (A) shall ensure that the proceeds described in subparagraph (A)(viii) are used to supplement, and not to supplant, non-Federal funds that would otherwise be used for need-based grant programs.
 
 #### (3) Disqualification for high default rates
 
@@ -215,6 +235,26 @@ As used in this part:
 #### (6) Rebate fee requirement
 
 &emsp;To be an eligible lender under this part, an eligible lender shall pay rebate fees in accordance with section 1078–3(f) of this title.
+
+#### (7) Eligible lender trustees
+
+&emsp;Notwithstanding any other provision of this subsection, an eligible lender may not make or hold a loan under this part as trustee for an institution of higher education, or for an organization affiliated with an institution of higher education, unless—
+
+&emsp;&emsp;(A) the eligible lender is serving as trustee for that institution or organization as of September 30, 2006, under a contract that was originally entered into before September 30, 2006, and that continues in effect or is renewed after September 30, 2006; and
+
+&emsp;&emsp;(B) the institution or organization, and the eligible lender, with respect to its duties as trustee, each comply on and after January 1, 2007, with the requirements of paragraph (2), except that—
+
+&emsp;&emsp;&emsp;(i) the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (includingboth an institution for which the lender serves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
+
+&emsp;&emsp;&emsp;(ii) in the case of an organization affiliated with an institution—
+
+&emsp;&emsp;&emsp;&emsp;(I) the requirements of clauses (iii) and (v) of paragraph (2)(A) shall apply to the organization; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the requirements of clause (viii) of paragraph (2)(A) shall apply to the institution or the organization (or both), if the institution or organization receives (directly or indirectly) the proceeds described in such clause;
+
+&emsp;&emsp;&emsp;(iii) the requirements of clauses (iv) and (ix) of paragraph (2)(A) shall not apply to the eligible lender, institution, or organization; and
+
+&emsp;&emsp;&emsp;(iv) the eligible lender, institution, and organization shall ensure that the loans made or held by the eligible lender as trustee for the institution or organization, as the case may be, are included in a compliance audit in accordance with clause (vii) of paragraph (2)(A).
 
 #### (e) Line of credit
 
@@ -258,9 +298,9 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(B) A loan on which a payment is made by the school, such school's owner, agent, contractor, employee, or any other entity or individual affiliated with such school, in order to avoid default by the borrower, is considered as in default for purposes of this subsection.
 
-&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
+&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may requireguaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
 
-&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment forpurposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
+&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
 
 #### (3) Regulations to prevent evasions
 
@@ -302,11 +342,11 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;In establishing criteria for purposes of paragraph (1)(C), the Secretary shall consider the borrower's income and debt-to-income ratio as primary factors.
 
-(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46.)
+(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46; Pub. L. 109–171, title VIII, §8011, Feb. 8, 2006, 120 Stat. 165; Pub. L. 109–292, §3(a), Sept. 30, 2006, 120 Stat. 1340.)
 
 #### References in Text
 
-Section 1801(a)(4) of title 25, referred to in subsec. (a)(2)(C)(ii), was amended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, and, as so amended, no longer defines the term “tribally controlled community college”.
+Section 1801(a)(4) of title 25, referred to in subsec. (a)(2)(C)(ii), was amended by Pub. L. 105–244, title IX,§901(b)(5), Oct. 7, 1998, 112 Stat. 1828, and, as so amended, no longer defines the term “tribally controlled community college”.
 
 The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
@@ -320,9 +360,27 @@ Title IV, referred to in subsec. (m)(2)(C), means title IV of the Higher Educati
 
 #### Prior Provisions
 
-A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct.29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2006—Subsec. (d)(2). Pub. L. 109–171 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “To be an eligible lender under this part, an eligible institution—
+
+&emsp;“(A) shall employ at least one person whose full-time responsibilities are limited to the administration of programs of financial aid for students attending such institution;
+
+&emsp;“(B) shall not be a home study school;
+
+&emsp;“(C) shall make loans to not more than 50 percent of the undergraduate students at the institution;
+
+&emsp;“(D) shall not make a loan, other than a loan to a graduate or professional student, unless the borrower has previously received a loan from the school or has been denied a loan by an eligible lender;
+
+&emsp;“(E) shall not have a cohort default rate (as defined in subsection (m) of this section) greater than 15 percent; and
+
+&emsp;“(F) shall use the proceeds from special allowance payments and interest payments from borrowers for need-based grant programs, except for reasonable reimbursement for direct administrative expenses;
+
+> except that the requirements of subparagraphs (C) and (D) shall not apply with respect to loans made, and loan commitments made, after October 17, 1986, and prior to July 1, 1987.”
+
+Subsec. (d)(7). Pub. L. 109–292 added par. (7).
 
 2000—Subsec. (a)(2)(D). Pub. L. 106–554, §1(a)(1) \[title III, §308(a)\], added subpar. (D).
 
@@ -358,7 +416,7 @@ Subsec. (m)(2)(C). Pub. L. 105–244, §429(d)(2), inserted at end “The Secret
 
 Subsec. (m)(4)(D). Pub. L. 105–244, §429(d)(3), added subpar. (D).
 
-1996—Subsec. (d)(1)(F). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(i)\], inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title,” after “Student Loan Marketing Association”.
+1996—Subsec. (d)(1)(F). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(i)\], inserted “or the Holding Company of the Student Loan Marketing Association, includingany subsidiary of the Holding Company, created pursuant to section 1087–3 of this title,” after “Student Loan Marketing Association”.
 
 Subsec. (d)(1)(G). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(ii)\], inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
 
@@ -392,7 +450,7 @@ Subsec. (m)(1)(B). Pub. L. 103–208, §2(c)(60)(B), substituted “and, in cons
 
 Subsec. (m)(1)(C). Pub. L. 103–66, §4046(b)(1)(B), inserted “(or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans)” after “on such loans”.
 
-Subsec. (m)(2)(D). Pub. L. 103–208, §2(c)(61), inserted “(or the portion of a loan made under section 1078–3 ofthis title that is used to repay a loan made under section 1078–1 of this title)” after “in accordance with section 1078–1 of this title”, and “(or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 of this title)” after “a loan made under section 1078–1 of this title”.
+Subsec. (m)(2)(D). Pub. L. 103–208, §2(c)(61), inserted “(or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 of this title)” after “in accordance with section 1078–1 of this title”, and “(or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 of this title)” after “a loan made under section 1078–1 of this title”.
 
 Subsec. (m)(4). Pub. L. 103–208, §2(c)(62), added par. (4).
 
@@ -453,6 +511,12 @@ Subsec. (d)(2). Pub. L. 100–50, §10(aa)(3), added subpars. (C) and (D) and in
 Subsec. (g)(2). Pub. L. 100–50, §10(aa)(4), added par. (2) and struck out former par. (2) which read as follows: “Such term when used with respect to the disabled dependent of a single parent borrower means a dependent who, by reason of injury or illness, cannot be expected to be able to attend school or to be gainfully employed during a period of injury or illness of not less than 3 months and who during such period requires continuous nursing or similar services.”
 
 Subsec. (h). Pub. L. 100–50, §10(aa)(5), struck out “Definition of” before “Parental” in heading.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–292, §3(b), Sept. 30, 2006, 120 Stat. 1341, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any loan under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.) disbursed before January 1, 2007.”
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -12,7 +12,7 @@ Bank.—The term “Federal Home Loan Bank” or “Bank” means a bank establi
 
 &emsp;(B)
 
-Bank system.—The term “Federal Home Loan Bank System” means the Federal Home Loan Banks under the supervision of the Board.
+Bank system.—The term “Federal Home Loan Bank System” means the Federal HomeLoan Banks under the supervision of the Board.
 
 &emsp;(3)
 
@@ -68,7 +68,7 @@ Adjustments.—The $500,000,000 limit referred to in subparagraph (A)(ii) shall 
 
 #### References in Text
 
-The Federal Deposit Insurance Act, referred to in par. (13)(A)(i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873,as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in par. (13)(A)(i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 #### Amendments
 

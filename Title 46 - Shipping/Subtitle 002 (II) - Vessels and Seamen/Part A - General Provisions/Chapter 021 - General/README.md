@@ -9,7 +9,12 @@
 | [2105\.](%C2%A7%2002105%20-%20Report.md) | Report. |
 | [2106\.](%C2%A7%2002106%20-%20Liability%20in%20rem.md) | Liability in rem. |
 | [2107\.](%C2%A7%2002107%20-%20Civil%20penalty%20procedures.md) | Civil penalty procedures. |
-| [2108\.](%C2%A7%2002108%20-%20Refund%20of%20penalties.md) | Refund of penalties. |
+| [2108\.](%C2%A7%2002108%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93304%2C%20%C2%A715%285%29%2C%20Oct.%206%2C%202006%2C%20120%20Stat.%201702.md) | Refund of penalties.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2109\.](%C2%A7%2002109%20-%20Public%20vessels.md) | Public vessels. |
 | [2110\.](%C2%A7%2002110%20-%20Fees.md) | Fees. |
 | [2111\.](%C2%A7%2002111%20-%20Pay%20for%20overtime%20services.md) | Pay for overtime services. |
@@ -32,15 +37,7 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 
 1984—Pub. L. 98–557, §13(b), Oct. 30, 1984, 98 Stat. 2864, added item 2114.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 16 section 1862.
-
-<i><sup>1</sup></i><i> Chapter repealed by Pub. L. 107–171 without corresponding amendment of subtitle analysis.</i>
-
-<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 100–424 without corresponding amendment of subtitle analysis.</i>
-
-<i><sup>3</sup></i><i> So in original. Only first word should be capitalized.</i>
+<i><sup>1</sup></i><i> Section repealed by Pub. L. 109–304 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -54,7 +51,7 @@ This chapter is referred to in title 16 section 1862.
 - [&sect; 02105 - Report](%C2%A7%2002105%20-%20Report.md)
 - [&sect; 02106 - Liability in rem](%C2%A7%2002106%20-%20Liability%20in%20rem.md)
 - [&sect; 02107 - Civil penalty procedures](%C2%A7%2002107%20-%20Civil%20penalty%20procedures.md)
-- [&sect; 02108 - Refund of penalties](%C2%A7%2002108%20-%20Refund%20of%20penalties.md)
+- [&sect; 02108 - Repealed. Pub. L. 109&#8211;304, &sect;15(5), Oct. 6, 2006, 120 Stat. 1702](%C2%A7%2002108%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93304%2C%20%C2%A715%285%29%2C%20Oct.%206%2C%202006%2C%20120%20Stat.%201702.md)
 - [&sect; 02109 - Public vessels](%C2%A7%2002109%20-%20Public%20vessels.md)
 - [&sect; 02110 - Fees](%C2%A7%2002110%20-%20Fees.md)
 - [&sect; 02111 - Pay for overtime services](%C2%A7%2002111%20-%20Pay%20for%20overtime%20services.md)

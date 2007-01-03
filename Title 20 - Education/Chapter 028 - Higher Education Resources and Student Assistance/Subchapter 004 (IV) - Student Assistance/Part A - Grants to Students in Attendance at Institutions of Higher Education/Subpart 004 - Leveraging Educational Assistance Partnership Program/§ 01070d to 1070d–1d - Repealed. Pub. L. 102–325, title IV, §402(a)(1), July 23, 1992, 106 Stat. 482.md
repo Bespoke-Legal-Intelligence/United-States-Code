@@ -4,7 +4,7 @@ Section 1070d, Pub. L. 89–329, title IV, §417A, as added Pub. L. 99–498, ti
 
 A prior section 1070d, Pub. L. 89–329, title IV, §417A, as added Pub. L. 96–374, title IV, §405, Oct. 3, 1980, 94 Stat. 1407, authorized a program of grants and contracts to assist students from disadvantaged backgrounds, prior to the general revision of this part by Pub. L. 99–498.
 
-Another prior section 1070d, Pub. L. 89–329, title IV, §417A, as added Pub. L. 92–318, title I, §131(b)(1), June23, 1972, 86 Stat. 258; amended Pub. L. 94–482, title I, §124(a), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 96–49, §5(a)(5), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized the Secretary of Education to carry out special programs for students from disadvantaged backgrounds and authorized appropriations for such programs, prior to the general revision of this subpart by Pub. L. 96–374.
+Another prior section 1070d, Pub. L. 89–329, title IV, §417A, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 258; amended Pub. L. 94–482, title I, §124(a), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 96–49, §5(a)(5), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized the Secretary of Education to carry out special programs for students from disadvantaged backgrounds and authorized appropriations for such programs, prior to the general revision of this subpart by Pub. L. 96–374.
 
 Section 1070d–1, Pub. L. 89–329, title IV, §417B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1337, authorized a talent search program.
 

@@ -48,7 +48,7 @@ As used in this chapter—
 
 &emsp;(5) with respect to military education and training or services provided under part VIII of subchapter II of this chapter, the additional costs that are incurred by the United States Government in furnishing such assistance.
 
-(n) “Military education and training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aids, orientation, and military advice to foreign military units and forces.
+(n) “Military education and training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, contractors (including instructionat civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aids, orientation, and military advice to foreign military units and forces.
 
 (<i>o</i>) “Agriculture” includes aquaculture and fisheries.
 
@@ -134,5 +134,5 @@ Amendment by Pub. L. 90–629 effective on July 1, 1968, see section 41 of Pub. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

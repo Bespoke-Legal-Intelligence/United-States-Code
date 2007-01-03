@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;(2) “owner” means a person that owns a civil aircraft, aircraft engine, or propeller.
 
-&emsp;(3) “secured party” means a person having a security interest in, or security title to, a civil aircraft, aircraft engine, or propeller under a conditional sales contract, equipment trust contract, chattel or corporate mortgage, or similar instrument.
+&emsp;(3) “secured party” means a person having a security interest in, or security title to, a civilaircraft, aircraft engine, or propeller under a conditional sales contract, equipment trust contract, chattel or corporate mortgage, or similar instrument.
 
 (b)
 

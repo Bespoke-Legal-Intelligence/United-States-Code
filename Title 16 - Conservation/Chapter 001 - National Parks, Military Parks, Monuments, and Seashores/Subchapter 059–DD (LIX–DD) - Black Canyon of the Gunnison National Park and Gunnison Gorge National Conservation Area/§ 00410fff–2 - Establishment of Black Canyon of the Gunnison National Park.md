@@ -36,7 +36,7 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 &emsp;(B) with respect to the permit or lease issued to LeValley Ranch Ltd., for the lifetime of the last surviving limited partner as of October 21, 1999;
 
-&emsp;(C) with respect to the permit or lease issued to Sanburg Herefords, L.L.P., for the lifetimeof the last surviving general partner as of October 21, 1999; and
+&emsp;(C) with respect to the permit or lease issued to Sanburg Herefords, L.L.P., for the lifetime of the last surviving general partner as of October 21, 1999; and
 
 &emsp;(D) with respect to a permit or lease issued to a corporation or other legal entity, for a period which shall terminate on the same date that the last permit or lease held under subparagraphs (A), (B), or (C) terminates, unless the corporation or legal entity dissolves or terminates before such time, in which case the permit or lease shall terminate with the corporation or legal entity.
 

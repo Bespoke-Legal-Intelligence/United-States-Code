@@ -26,7 +26,7 @@ Each lender shall include with the booklet a good faith estimate of the amount o
 
 #### (d) Distribution by lenders to loan applicants at time of receipt or preparation of applications
 
-Each lender referred to in subsection (a) of this section shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
+Each lender referred to in subsection (a) of this section shall provide the booklet describedin such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
 
 #### (e) Printing and distribution by lenders of booklets approved by Secretary
 
@@ -36,7 +36,7 @@ Booklets may be printed and distributed by lenders if their form and content are
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–550 substituted “Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need beprovided if the lender denies the application for credit before the end of the 3-day period.” for “Such booklet shall be provided at the time of receipt or preparation of such application.”
+1992—Subsec. (d). Pub. L. 102–550 substituted “Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.” for “Such booklet shall be provided at the time of receipt or preparation of such application.”
 
 1976—Subsecs. (c) to (e). Pub. L. 94–205 added subsec. (c), redesignated former subsec. (c) as (d), substituted “or for whom it prepares a written application” for “an application” and inserted “or preparation” after “receipt”, and redesignated former subsec. (d) as (e).
 

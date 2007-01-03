@@ -1,6 +1,6 @@
 ### §2210. Deputy Secretary of Agriculture; appointment
 
-There is established in the Department of Agriculture the position of Deputy Secretary of Agriculture, to be appointed by the President, by and with the advice and consent of the Senate.
+There is established in the Department of Agriculture the position of Deputy Secretary ofAgriculture, to be appointed by the President, by and with the advice and consent of the Senate.
 
 (Mar. 26, 1934, ch. 89, title I, 48 Stat. 467; Pub. L. 94–561, §1(c)(1), Oct. 19, 1976, 90 Stat. 2643.)
 

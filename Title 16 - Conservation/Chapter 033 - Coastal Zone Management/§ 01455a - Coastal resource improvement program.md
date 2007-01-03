@@ -4,7 +4,7 @@
 
 For purposes of this section—
 
-&emsp;(1) The term “eligible coastal state” means a coastal state that for any fiscal year forwhich a grant is applied for under this section—
+&emsp;(1) The term “eligible coastal state” means a coastal state that for any fiscal year for which a grant is applied for under this section—
 
 &emsp;&emsp;(A) has a management program approved under section 1455 of this title; and
 

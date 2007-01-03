@@ -16,7 +16,7 @@ There is authorized to be appropriated to carry out this section $60,000,000 for
 
 #### Effective Date
 
-Pub. L. 109–162, title XI, §1121(c), Jan. 5, 2006, 119 Stat. 3107, provided that: “This section \[enacting this section and sections 3712b and 3712c of this title and provisions set out as a note below\] and the amendments made by this section take effect 90 days after the date of the enactment of this Act \[Jan. 5, 2006\].”
+Pub. L. 109–162, title XI, §1121(c), Jan. 5, 2006, 119 Stat. 3107, as amended by Pub. L. 109–271, §8(n)(1), Aug. 12, 2006, 120 Stat. 767, provided that: “This section \[enacting this section and sections 3712b and 3712c of this title and provisions set out as a note below\] and the amendments made by this section take effect with respect to appropriations for fiscal year 2007 and for each fiscal year thereafter.”
 
 #### Abolishment of Executive Office of Weed and Seed; Transfers of Functions
 

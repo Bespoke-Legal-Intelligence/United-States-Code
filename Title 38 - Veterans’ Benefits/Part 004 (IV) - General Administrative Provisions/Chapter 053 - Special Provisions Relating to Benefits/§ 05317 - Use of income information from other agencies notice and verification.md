@@ -1,6 +1,6 @@
 ### §5317. Use of income information from other agencies: notice and verification
 
-(a) The Secretary shall notify each applicant for a benefit or service described in subsection (c) of this section that income information furnished by the applicant to the Secretary may be compared with information obtained by the Secretary from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986. The Secretary shall periodically transmit to recipients of such benefits and services additional notifications of such matters.
+(a) The Secretary shall notify each applicant for a benefit or service described in subsection (c) of this section that income information furnished by the applicant to the Secretary may be compared with information obtained by the Secretary from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986. The Secretary shall periodicallytransmit to recipients of such benefits and services additional notifications of such matters.
 
 (b) The Secretary may not, by reason of information obtained from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986, terminate, deny, suspend, or reduce any benefit or service described in subsection (c) of this section until the Secretary takes appropriate steps to verify independently information relating to the following:
 

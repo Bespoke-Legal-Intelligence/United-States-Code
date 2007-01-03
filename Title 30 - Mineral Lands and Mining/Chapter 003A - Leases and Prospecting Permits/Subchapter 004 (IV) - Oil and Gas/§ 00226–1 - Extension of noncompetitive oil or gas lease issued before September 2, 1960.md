@@ -20,5 +20,5 @@ Any lease issued prior to September 2, 1960, which has been maintained in accord
 
 #### Codification
 
-Section was enacted as part of Mineral Leasing Act Revision of 1960, and not as part of act Feb. 25, 1920, ch.85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+Section was enacted as part of Mineral Leasing Act Revision of 1960, and not as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 

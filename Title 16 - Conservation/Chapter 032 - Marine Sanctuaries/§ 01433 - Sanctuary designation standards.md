@@ -54,7 +54,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;In making determinations and findings, the Secretary shall consult with—
 
-&emsp;&emsp;(A) the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
+&emsp;&emsp;(A) the Committee on Resources of the House of Representatives and the Committeeon Commerce, Science, and Transportation of the Senate;
 
 &emsp;&emsp;(B) the Secretaries of State, Defense, Transportation, and the Interior, the Administrator, and the heads of other interested Federal agencies;
 

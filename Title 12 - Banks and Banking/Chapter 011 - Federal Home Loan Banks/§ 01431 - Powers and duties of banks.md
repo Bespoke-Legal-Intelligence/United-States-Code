@@ -22,7 +22,7 @@ The Board shall have full power to require any Federal Home Loan Bank to deposit
 
 (2)(A) The Board may, subject to such rules and regulations, including definitions of terms used in this paragraph, as the Board shall from time to time prescribe, authorize Federal Home Loan Banks to be drawees of, and to engage in, or be agents or intermediaries for, or otherwise participate or assist in, the collection and settlement of (including presentment, clearing, and payment of, and remitting for), checks, drafts, or any other negotiable or nonnegotiable items or instruments of payment drawn on or issued by members of any Federal Home Loan Bank or by institutions which are eligible to make application to become members pursuant to section 1424 of this title, and to have such incidental powers as the Board shall find necessary for the exercise of any such authorization.
 
-(B) A Federal Home Loan Bank shall make charges, to be determined and regulated by the Board consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this paragraph.
+(B) A Federal Home Loan Bank shall make charges, to be determined and regulated by the Board consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of,a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this paragraph.
 
 (C) The Board is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
@@ -50,15 +50,15 @@ Notwithstanding the foregoing, the authority provided in this subsection may be 
 
 Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 31, audits by the Government Accountability Office of the financial transactions of a Federal Home Loan Bank shall not be limited to periods during which Government capital has been invested therein. The provisions of sections 9107(c)(2) and 9108(d)(1) of title 31 shall not apply to any Federal Home Loan Bank.
 
-#### (k) Bank loans to SAIF
+#### (k) Bank loans to the Deposit Insurance Fund
 
 #### (1) Loans authorized
 
-&emsp;Subject to paragraph (3), the Federal Home Loan Banks may, upon the request of the Federal Deposit Insurance Corporation, make loans to such Corporation for the use of the Savings Association Insurance Fund.
+&emsp;Subject to paragraph (3), the Federal Home Loan Banks may, upon the request of the Federal Deposit Insurance Corporation, make loans to such Corporation for the use of the Deposit Insurance Fund.
 
 #### (2) Liability of the Fund
 
-&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be a direct liability of the Savings Association Insurance Fund.
+&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be a direct liability of the Deposit Insurance Fund.
 
 #### (3) Interest on and security for such loans
 
@@ -68,11 +68,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616.)
-
-#### Amendment of Subsection (k)
-
-<i>Pub. L. 109–173, §9(d)(1), (j), Feb. 15, 2006, 119 Stat. 3616, 3618, provided that, effective Mar. 31, 2006, subsection (k) of this section is amended by striking “SAIF” and inserting “the Deposit Insurance Fund” in the subsection heading and by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund” wherever appearing in text.</i>
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616.)
 
 #### References in Text
 
@@ -84,11 +80,15 @@ In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted f
 
 #### Amendments
 
+2006—Subsec. (k). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2).
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(A). See 1996 Amendment note below.
+
 2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1996—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
 
-Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1989—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
@@ -96,7 +96,7 @@ Subsec. (e)(1). Pub. L. 101–73, §709(1), inserted “incidental to activities
 
 Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 
-Subsec. (e)(2)(C). Pub. L. 101–73, §701(c)(1), which directed insertion of “Federal Home Loan” before“Banks,” was executed the second time that term appeared, because “Federal Home Loan” already preceded the term “Banks,” the first place it appeared.
+Subsec. (e)(2)(C). Pub. L. 101–73, §701(c)(1), which directed insertion of “Federal Home Loan” before “Banks,” was executed the second time that term appeared, because “Federal Home Loan” already preceded the term “Banks,” the first place it appeared.
 
 Subsec. (f). Pub. L. 101–73, §709(2), which directed amendment of subsec. (f) by striking out “or whenever in the judgment of at least 4 members of the board an emergency exists requiring such action” after “empowered to permit,”, was executed by striking out “or whenever in the judgment of at least four members of the board an emergency exists requiring such action”, as the probable intent of Congress. The amendment probably should also have struck out the comma after “empowered to permit” and the words “, to require,” after “such action”.
 
@@ -144,9 +144,11 @@ Subsecs. (i), (j). Act June 27, 1950, §4, added subsecs. (i) and (j).
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by section 2704(d)(11)(A) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by section 2704(d)(11)(A) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1968 Amendment
 

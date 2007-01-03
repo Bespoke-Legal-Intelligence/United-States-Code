@@ -31,3 +31,6 @@
 - [&sect; 05189 - Simplified procedure](%C2%A7%2005189%20-%20Simplified%20procedure.md)
 - [&sect; 05189a - Appeals of assistance decisions](%C2%A7%2005189a%20-%20Appeals%20of%20assistance%20decisions.md)
 - [&sect; 05189b - Date of eligibility; expenses incurred before date of disaster](%C2%A7%2005189b%20-%20Date%20of%20eligibility%3B%20expenses%20incurred%20before%20date%20of%20disaster.md)
+- [&sect; 05189c - Transportation assistance to individuals and households](%C2%A7%2005189c%20-%20Transportation%20assistance%20to%20individuals%20and%20households.md)
+- [&sect; 05189d - Case management services](%C2%A7%2005189d%20-%20Case%20management%20services.md)
+- [&sect; 05189e - Essential service providers](%C2%A7%2005189e%20-%20Essential%20service%20providers.md)

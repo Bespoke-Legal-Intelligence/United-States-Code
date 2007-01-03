@@ -8,7 +8,7 @@ For the purpose of all subchapters of this chapter, subject to the limitations o
 
 &emsp;(2) does not pay dividends on voting stock or membership capital in excess of such percentage per annum as may be approved under the bylaws of the Bank;
 
-&emsp;(3) provides that its net savings shall be allocated or distributed to all members or patrons, in proportion to their patronage, or shall be retained for the actual or potential expansion of its services or the reduction of its charges to the patrons, or for such other purposes as may be authorized by its membership not inconsistent with its purposes;
+&emsp;(3) provides that its net savings shall be allocated or distributed to all members or patrons, in proportion to their patronage, or shall be retained for the actual or potential expansion of its services or the reduction of itscharges to the patrons, or for such other purposes as may be authorized by its membership not inconsistent with its purposes;
 
 &emsp;(4) makes membership available on a voluntary basis, without any social, political, racial, or religious discrimination and without any discrimination on the basis of age, sex, or marital status, to all persons who can make use of its services and are willing to accept the responsibilities of membership, subject only to limitations under applicable Federal or State laws or regulations;
 
@@ -47,4 +47,8 @@ Subsec. (a)(5). Pub. L. 97–35, §394(f), inserted provisions relating to excep
 #### Effective Date of 1981 Amendment
 
 Section 394(e)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+
+#### Transfer of Functions
+
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of this title.
 

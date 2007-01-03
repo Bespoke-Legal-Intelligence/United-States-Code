@@ -2,17 +2,33 @@
 
 (a)
 
-Joint Specialty Officers.—The Secretary of Defense shall ensure that each officer with the joint specialty who graduates from a joint professional military education school shall be assigned to a joint duty assignment for that officer's next duty assignment after such graduation (unless the officer receives a waiver of that requirement by the Secretary in an individual case).
+Joint Specialty Officers.—The Secretary of Defense shall ensure that each officer with the joint specialty who graduates from a school within the National Defense University specified in subsection (c) shall be assigned to a joint duty assignment for that officer's next duty assignment after such graduation (unless the officer receives a waiver of that requirement by the Secretary in an individual case).
 
 (b)
 
-Other Officers.—(1) The Secretary of Defense shall ensure that a high proportion (which shall be greater than 50 percent) of the officers graduating from a joint professional military education school who do not have the joint specialty shall receive assignments to a joint duty assignment as their next duty assignment after such graduation or, to the extent authorized inparagraph (2), as their second duty assignment after such graduation.
+Other Officers.—(1) The Secretary of Defense shall ensure that a high proportion (which shall be greater than 50 percent) of the officers graduating from a school within the National Defense University specified in subsection (c) who do not have the joint specialty shall receive assignments to a joint duty assignment as their next duty assignment after such graduation or, to the extent authorized in paragraph (2), as their second duty assignment after such graduation.
 
-(2) The Secretary may, if the Secretary determines that it is necessary to do so for the efficient management of officer personnel, establish procedures to allow up to one-half of the officers subject to the joint duty assignment requirement in paragraph (1) to be assigned to a joint duty assignment as their second (rather than first) assignment after such graduation from a joint professional military education school.
+(2) The Secretary may, if the Secretary determines that it is necessary to do so for the efficient management of officer personnel, establish procedures to allow up to one-half of the officers subject to the joint duty assignment requirement in paragraph (1) to be assigned to a joint duty assignment as their second (rather than first) assignment after such graduation from a school referred to in paragraph (1).
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 107–107, div. A, title X, §1048(a)(6), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title X, §1062(a)(5), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §532(b)–(c)(2)(A), Oct. 28, 2004, 118 Stat. 1900.)
+(c)
+
+Covered Schools Within the National Defense University.—For purposes of this section, a school within the National Defense University specified in this subsection is one of the following:
+
+&emsp;(1) The National War College.
+
+&emsp;(2) The Industrial College of the Armed Forces.
+
+&emsp;(3) The Joint Forces Staff College.
+
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 107–107, div. A, title X, §1048(a)(6), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title X, §1062(a)(5), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §532(b)–(c)(2)(A), Oct. 28, 2004, 118 Stat. 1900; Pub. L. 109–364, div. A, title V, §518, Oct. 17, 2006, 120 Stat. 2190.)
 
 #### Amendments
+
+2006—Subsecs. (a), (b)(1). Pub. L. 109–364, §518(a)(1), (2)(A), substituted “a school within the National Defense University specified in subsection (c)” for “a joint professional military education school”.
+
+Subsec. (b)(2). Pub. L. 109–364, §518(a)(2)(B), substituted “a school referred to in paragraph (1)” for “a joint professional military education school”.
+
+Subsec. (c). Pub. L. 109–364, §518(b), added subsec. (c).
 
 2004—Pub. L. 108–375, §532(c)(2)(A), substituted “Joint duty assignments after completion of joint professional military education” for “Education” in section catchline.
 

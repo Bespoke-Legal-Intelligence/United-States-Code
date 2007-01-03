@@ -6,7 +6,7 @@ Criteria for Performance Incentive Awards.—(1) For purposes of carrying out a 
 
 &emsp;(A) encourage the improvement and modernization of employment, training, and placement services provided under this chapter; and
 
-&emsp;(B) recognize eligible employees for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
+&emsp;(B) recognize eligible employees and employment service offices for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
 
 (2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 consistent with the performance measures established under section 4102A(b)(7) of this title.
 
@@ -16,11 +16,13 @@ Form of Awards.—Under the criteria established by the Secretary for performanc
 
 (c)
 
-Relationship of Award to Grant Program and Employee Compensation.—Performance incentive cash awards under this section—
+Administration and Use of Awards.—Performance incentive cash awards under this section—
 
-&emsp;(1) shall be made from amounts allocated from the grant or contract amount for a State for a program year under section 4102A(c)(7) of this title; and
+&emsp;(1) shall be made from amounts allocated from the grant or contract amount for a State for a program year under section 4102A(c)(7) of this title;
 
-&emsp;(2) is in addition to the regular pay of the recipient.
+&emsp;(2) in the case of such an award made to an eligible employee, shall be in addition to the regular pay of the recipient; and
+
+&emsp;(3) in the case of such an award made to an employment service office, may be used by that employment service office for any purpose.
 
 (d)
 
@@ -32,7 +34,7 @@ Eligible Employee Defined.—In this section, the term “eligible employee” m
 
 &emsp;(3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 or through an employment service delivery system (as defined in section 4101(7) of this title).
 
-(Added Pub. L. 107–288, §3(a), Nov. 7, 2002, 116 Stat. 2037.)
+(Added Pub. L. 107–288, §3(a), Nov. 7, 2002, 116 Stat. 2037; amended Pub. L. 109–461, title VI, §603, Dec. 22, 2006, 120 Stat. 3437.)
 
 #### References in Text
 
@@ -41,4 +43,14 @@ The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3),
 #### Prior Provisions
 
 A prior section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, §109(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 93–82, title II, §205(b), Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §110(8), title II, §§209(b)(3), 210(c)(6), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 96–151, title III, §305, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 96–330, title I, §115, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 98–223, title II, §209, Mar. 2, 1984, 98 Stat. 44; Pub. L. 100–322, title II, §224, May 20, 1988, 102 Stat. 532, related to special medical advisory group and other advisory bodies, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7312 and 7313 of this title.
+
+#### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–461, §603(a)(1), inserted “and employment service offices” after “recognize eligible employees”.
+
+Subsec. (c). Pub. L. 109–461, §603(b), substituted “Administration and Use of Awards” for “Relationship of Award to Grant Program and Employee Compensation” as heading.
+
+Subsec. (c)(2). Pub. L. 109–461, §603(a)(2)(B)(i), substituted “in the case of such an award made to an eligible employee, shall be” for “is”.
+
+Subsec. (c)(3). Pub. L. 109–461, §603(a)(2)(A), (B)(ii), (C), added par. (3).
 

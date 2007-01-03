@@ -14,7 +14,7 @@ The chief executive officer of each agency may from time to time—
 
 #### (c) Reports to Congress
 
-The Director of the United States Fish and Wildlife Service shall make a report to Congress at the end of any fiscal year that the provisions of this section are utilized, which describes the use of the provisions of this section, and the additional cost, if any, to the Federal Government resulting therefrom. Such report shall be referred in the Senate to the Committee on Commerce, Science, and Transportation and in the House of Representatives to the Committee on Merchant Marine and Fisheries.
+The Director of the United States Fish and Wildlife Service shall make a report to Congressat the end of any fiscal year that the provisions of this section are utilized, which describes the use of the provisions of this section, and the additional cost, if any, to the Federal Government resulting therefrom. Such report shall be referred in the Senate to the Committee on Commerce, Science, and Transportation and in the House of Representatives to the Committee on Merchant Marine and Fisheries.
 
 (Mar. 3, 1885, ch. 360, §1(2), as added Pub. L. 93–280, §1(3), May 10, 1974, 88 Stat. 123; amended Pub. L. 96–470, title II, §206(a), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 103–437, §6(t), Nov. 2, 1994, 108 Stat. 4587.)
 
@@ -32,7 +32,7 @@ The Bureau of Sport Fisheries and Wildlife, referred to in subsec. (b), was repl
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, ThePublic Health and Welfare. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See also Transfer of Functions notes set out under those sections.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

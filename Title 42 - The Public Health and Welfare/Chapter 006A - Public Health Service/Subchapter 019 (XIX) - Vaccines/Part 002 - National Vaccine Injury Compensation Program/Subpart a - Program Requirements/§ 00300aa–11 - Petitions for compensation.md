@@ -4,7 +4,7 @@
 
 (1) A proceeding for compensation under the Program for a vaccine-related injury or death shall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) of this section with the United States Court of Federal Claims. The clerk of the United States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
 
-(2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or inan unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death and—
+(2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or in an unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensationunder the Program for such injury or death and—
 
 &emsp;(i)(I) the United States Court of Federal Claims has issued a judgment under section 300aa–12 of this title on such petition, and
 
@@ -54,9 +54,9 @@ A petition for compensation under the Program for a vaccine-related injury or de
 
 &emsp;&emsp;&emsp;(II) received the vaccine outside the United States or a trust territory and at the time of the vaccination such person was a citizen of the United States serving abroad as a member of the Armed Forces or otherwise as an employee of the United States or a dependent of such a citizen, or
 
-&emsp;&emsp;&emsp;(III) received the vaccine outside the United States or a trust territory and thevaccine was manufactured by a vaccine manufacturer located in the United States and such person returned to the United States not later than 6 months after the date of the vaccination,
+&emsp;&emsp;&emsp;(III) received the vaccine outside the United States or a trust territory and the vaccine was manufactured by a vaccine manufacturer located in the United States and such person returned to the United States not later than 6 months after the date of the vaccination,
 
-&emsp;&emsp;(ii) if such person did not receive such a vaccine but contracted polio from another person who received an oral polio vaccine, was a citizen of the United States or a dependent of such a citizen,
+&emsp;&emsp;(ii) if such person did not receive such a vaccine but contracted polio from anotherperson who received an oral polio vaccine, was a citizen of the United States or a dependent of such a citizen,
 
 &emsp;&emsp;(C)(i) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table in association with the vaccine referred to in subparagraph (A) or died from the administration of such vaccine, and the first symptom or manifestation of the onset or of the significant aggravation of any such illness, disability, injury, or condition or the death occurred within the time period after vaccine administration set forth in the Vaccine Injury Table, or
 
@@ -206,7 +206,7 @@ Section 5(h) of Pub. L. 101–502 provided that: “The amendments made by subse
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currentlypending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

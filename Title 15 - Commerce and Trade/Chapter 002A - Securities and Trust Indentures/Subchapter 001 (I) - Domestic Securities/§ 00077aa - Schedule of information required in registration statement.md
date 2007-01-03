@@ -76,7 +76,7 @@ schedule b
 
 (3) the amount of the funded debt and the estimated amount of the floating debt outstanding and to be created by the security to be offered, excluding intergovernmental debt, and a brief description of the date, maturity, character of such debt, rate of interest, character of amortization provisions, and the security, if any, therefor. If substitution of any security is permissible, a statement of the conditions under which such substitution is permitted. If substitution is permissible without notice, a specific statement to that effect;
 
-(4) whether or not the issuer or its predecessor has, within a period of twenty years prior to thefiling of the registration statement, defaulted on the principal or interest of any external security, excluding intergovernmental debt, and, if so, the date, amount, and circumstances of such default, and the terms of the succeeding arrangement, if any;
+(4) whether or not the issuer or its predecessor has, within a period of twenty years prior to the filing of the registration statement, defaulted on the principal or interest of any external security, excluding intergovernmental debt, and, if so, the date, amount, and circumstances of such default, and the terms of the succeeding arrangement, if any;
 
 (5) the receipts, classified by source, and the expenditures, classified by purpose, in such detail and form as the Commission shall prescribe for the latest fiscal year for which such information is available and the two preceding fiscal years, year by year;
 

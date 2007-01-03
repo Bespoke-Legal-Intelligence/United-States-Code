@@ -22,7 +22,7 @@ Part A—Research and Investigations
 - [&sect; 00242q - Task Force on Aging Research; establishment and duties](%C2%A7%2000242q%20-%20Task%20Force%20on%20Aging%20Research%3B%20establishment%20and%20duties.md)
 - [&sect; 00242q&#8211;1 - Membership](%C2%A7%2000242q%E2%80%931%20-%20Membership.md)
 - [&sect; 00242q&#8211;2 - Administrative staff and support](%C2%A7%2000242q%E2%80%932%20-%20Administrative%20staff%20and%20support.md)
-- [&sect; 00242q&#8211;3 - Reports](%C2%A7%2000242q%E2%80%933%20-%20Reports.md)
+- [&sect; 00242q&#8211;3 - Repealed. Pub. L. 109&#8211;482, title I, &sect;104(b)(3)(B), Jan. 15, 2007, 120 Stat. 3694](%C2%A7%2000242q%E2%80%933%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93482%2C%20title%20I%2C%20%C2%A7104%28b%29%283%29%28B%29%2C%20Jan.%2015%2C%202007%2C%20120%20Stat.%203694.md)
 - [&sect; 00242q&#8211;4 - Definitions](%C2%A7%2000242q%E2%80%934%20-%20Definitions.md)
 - [&sect; 00242q&#8211;5 - Authorization of appropriations](%C2%A7%2000242q%E2%80%935%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00242r - Improvement and publication of data on food-related allergic responses](%C2%A7%2000242r%20-%20Improvement%20and%20publication%20of%20data%20on%20food-related%20allergic%20responses.md)

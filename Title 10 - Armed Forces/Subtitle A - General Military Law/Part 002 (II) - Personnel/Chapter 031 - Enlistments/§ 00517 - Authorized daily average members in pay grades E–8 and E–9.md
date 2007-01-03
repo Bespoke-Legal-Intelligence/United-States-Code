@@ -60,7 +60,7 @@ Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on nu
 
 Pub. L. 98–525, §413(a), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 2,295 and 517 from 1,494 and 314; Air Force, to 455 and 87 from 617 and 143; Marine Corps, to 74 and 9 from 56 and 6. Navy figures remained unchanged.
 
-1983—Subsec. (b). Pub. L. 98–94 increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components ofthe armed forces: Army, to 1,494 and 314 from 1,244 and 265; Navy, to 381 and 156 from 329 and 156; Air Force, to 617 and 143 from 441 and 132; Marine Corps figures remained unchanged.
+1983—Subsec. (b). Pub. L. 98–94 increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 1,494 and 314 from 1,244 and 265; Navy, to 381 and 156 from 329 and 156; Air Force, to 617 and 143 from 441 and 132; Marine Corps figures remained unchanged.
 
 1982—Subsec. (b). Pub. L. 97–252 increased the numbers in columns from 222, 146, 76, and 4 in the line for E–9 to 265, 156, 132, and 6, respectively, and from 908, 319, 307, and 12 in line for E–8 to 1,244, 329, 441, and 56, respectively.
 
@@ -106,7 +106,7 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### Authorized Active Duty Strengths for Army Enlisted Members in Pay Grade E–8; Special Rule for 1995
 
-Section 552(b) of Pub. L. 103–337 provided that: “The percentage applicable to enlisted members of the Army in pay grade E–8 under section 517(a) of title 10, United States Code, during 1995 shall be 2.3 percent (rather than the percentage provided by the amendment made by subsection (a) \[amending this section\]).”
+Pub. L. 103–337, div. A, title V, §552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable to enlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, §552(a).
 
 #### Authority To Waive Grade Strength Laws for Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
 

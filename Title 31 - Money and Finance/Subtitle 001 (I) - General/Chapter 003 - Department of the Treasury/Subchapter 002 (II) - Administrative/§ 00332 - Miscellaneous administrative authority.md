@@ -14,7 +14,7 @@ The Secretary of the Treasury may to the extent provided in advance by appropria
 
 &emsp;(6) install and maintain fencing, lighting, guard booths, and other facilities as necessary for the performance of protective functions of the Department of the Treasury on property not owned by or under jurisdiction and control of the United States Government and, subsequently, to remove the facilities therefrom;
 
-&emsp;(7) enter into reciprocal assistance agreements with State and local law enforcement agencies and, in connection with the agreements and otherwise, train employees of those agencies, when necessary, with or without reimbursement;
+&emsp;(7) enter into reciprocal assistance agreements with State and local law enforcement agencies and, in connection with the agreements and otherwise, train employees of thoseagencies, when necessary, with or without reimbursement;
 
 &emsp;(8) provide laboratory assistance to State and local law enforcement agencies, with or without reimbursement;
 

@@ -42,7 +42,7 @@ Subsec. (b)(4). Pub. L. 100–628, §402(2), inserted “facilities and” befor
 
 Subsec. (b)(5), (6). Pub. L. 100–628, §402(3), added pars. (5) and (6).
 
-Subsec. (d)(3). Pub. L. 100–628, §403, inserted before period at end “or to respond to recommendations made inaccordance with paragraph (2) that are received at least 60 days prior to the beginning of the fiscal year”.
+Subsec. (d)(3). Pub. L. 100–628, §403, inserted before period at end “or to respond to recommendations made in accordance with paragraph (2) that are received at least 60 days prior to the beginning of the fiscal year”.
 
 Subsec. (g). Pub. L. 100–628, §404, added subsec. (g).
 

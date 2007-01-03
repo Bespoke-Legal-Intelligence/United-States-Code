@@ -5,33 +5,10 @@
 | Sec. |  |
 | :--- | ---: |
 | [7001\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Records%20and%20Signatures%20in%20Commerce/%C2%A7%2007001%20-%20General%20rule%20of%20validity.md) | General rule of validity. |
-| (a) | In general. |
-| (b) | Preservation of rights and obligations. |
-| (c) | Consumer disclosures. |
-| (d) | Retention of contracts and records. |
-| (e) | Accuracy and ability to retain contracts and other records. |
-| (f) | Proximity. |
-| (g) | Notarization and acknowledgment. |
-| (h) | Electronic agents. |
-| (i) | Insurance. |
-| (j) | Insurance agents and brokers. |
 | [7002\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Records%20and%20Signatures%20in%20Commerce/%C2%A7%2007002%20-%20Exemption%20to%20preemption.md) | Exemption to preemption. |
-| (a) | In general. |
-| (b) | Exceptions for actions by States as market participants. |
-| (c) | Prevention of circumvention. |
 | [7003\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Records%20and%20Signatures%20in%20Commerce/%C2%A7%2007003%20-%20Specific%20exceptions.md) | Specific exceptions. |
-| (a) | Excepted requirements. |
-| (b) | Additional exceptions. |
-| (c) | Review of exceptions. |
 | [7004\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Records%20and%20Signatures%20in%20Commerce/%C2%A7%2007004%20-%20Applicability%20to%20Federal%20and%20State%20governments.md) | Applicability to Federal and State governments. |
-| (a) | Filing and access requirements. |
-| (b) | Preservation of existing rulemaking authority. |
-| (c) | Additional limitations. |
-| (d) | Authority to exempt from consent provision. |
-| (e) | Electronic letters of agency. |
 | [7005\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Records%20and%20Signatures%20in%20Commerce/%C2%A7%2007005%20-%20Studies.md) | Studies. |
-| (a) | Delivery. |
-| (b) | Study of electronic consent. |
 | [7006\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Records%20and%20Signatures%20in%20Commerce/%C2%A7%2007006%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,13 +18,6 @@
 |  |  |
 | :--- | ---: |
 | [7021\.](Subchapter%20002%20%28II%29%20-%20Transferable%20Records/%C2%A7%2007021%20-%20Transferable%20records.md) | Transferable records. |
-| (a) | Definitions. |
-| (b) | Control. |
-| (c) | Conditions. |
-| (d) | Status as holder. |
-| (e) | Obligor rights. |
-| (f) | Proof of control. |
-| (g) | UCC references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,9 +26,6 @@
 |  |  |
 | :--- | ---: |
 | [7031\.](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20International%20Electronic%20Commerce/%C2%A7%2007031%20-%20Principles%20governing%20the%20use%20of%20electronic%20signatures%20in%20international%20transactions.md) | Principles governing the use of electronic signatures in international transactions. |
-| (a) | Promotion of electronic signatures. |
-| (b) | Consultation. |
-| (c) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

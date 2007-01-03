@@ -13,10 +13,13 @@
 | [719\.](%C2%A7%2000719%20-%20Department%20of%20Commerce%20assignment%20or%20detail%20of%20members%20of%20the%20armed%20forces%20to%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration. |
 | [720\.](%C2%A7%2000720%20-%20Chief%20of%20Staff%20to%20President%20appointment.md) | Chief of Staff to President: appointment. |
 | [721\.](%C2%A7%2000721%20-%20General%20and%20flag%20officers%20limitation%20on%20appointments%2C%20assignments%2C%20details%2C%20and%20duties%20outside%20an%20officer%27s%20own%20service.md) | General and flag officers: limitation on appointments, assignments, details, and duties outside an officer's own service. |
+| [722\.](%C2%A7%2000722%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md) | Attending Physician to the Congress: grade. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title V, §507(a)(1)(B), Oct. 17, 2006, 120 Stat. 2180, added item 722.
 
 2003—Pub. L. 108–136, div. A, title V, §503(b), Nov. 24, 2003, 117 Stat. 1456, struck out item 714 “Defense attache�AE1 in France: required grade”.
 
@@ -46,6 +49,40 @@ Pub. L. 96–215, §2(b), Mar. 25, 1980, 94 Stat. 123, inserted “and to and fr
 
 Pub. L. 85–599, §11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating to transfers of commissioned officers.
 
+#### Reports on Members of the Armed Forces and Civilian Employees of the Department of Defense Serving in the Legislative Branch
+
+Pub. L. 109–364, div. A, title XI, §1104, Oct. 17, 2006, 120 Stat. 2409, provided that:
+
+“(a)
+
+Quarterly Reports on Details and Fellowships of Long Duration.—Not later than 120 days afterthe date of the enactment of this Act \[Oct. 17, 2006\], and quarterly thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the members of the Armed Forces and civilian employees of the Department of Defense who, as of the date of such report, have served continuously in the Legislative Branch for more than 12 consecutive months in one or a combination of covered legislative details or fellowships.
+
+“(b)
+
+Reports on Certain Military Details and Fellowships.—If a member of the Armed Forces is assigned to a covered legislative detail or fellowship as the last tour of duty of such member before retirement or separation from the Armed Forces in contravention of the regulations of the Department of Defense, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the assignment of such member to such covered legislative detail or fellowship. The report shall include a rationale for the waiver of the regulations of the Department in order to permit the detail or fellowship.
+
+“(c)
+
+Report Elements.—Each report under subsection (a) or (b) shall set forth, for each member of the Armed Forces or civilian employee of the Department of Defense covered by such report, the following:
+
+&emsp;“(1) The name of such member or employee.
+
+&emsp;“(2) In the case of a member, the Armed Force of such member.
+
+&emsp;“(3) The committee or member of Congress to which such member or employee is detailed or assigned.
+
+&emsp;“(4) A general description of the projects or tasks undertaken or to be undertaken, as applicable, by such member or employee as a detailee, fellow, or both.
+
+&emsp;“(5) The anticipated termination date of the current detail or fellowship of such member or employee.
+
+“(d)
+
+Covered Legislative Detail or Fellowship Defined.—In this section, the term ‘covered legislative detail or fellowship’ means the following:
+
+&emsp;“(1) A detail under the provisions of Department of Defense Directive 1000.17.
+
+&emsp;“(2) A legislative fellowship (including a legislative fellowship under the provisions of Department of Defense Directive 1322.6).”
+
 
 ---
 
@@ -63,3 +100,4 @@ Pub. L. 85–599, §11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating 
 - [&sect; 00719 - Department of Commerce assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration](%C2%A7%2000719%20-%20Department%20of%20Commerce%20assignment%20or%20detail%20of%20members%20of%20the%20armed%20forces%20to%20National%20Oceanic%20and%20Atmospheric%20Administration.md)
 - [&sect; 00720 - Chief of Staff to President appointment](%C2%A7%2000720%20-%20Chief%20of%20Staff%20to%20President%20appointment.md)
 - [&sect; 00721 - General and flag officers limitation on appointments, assignments, details, and duties outside an officer's own service](%C2%A7%2000721%20-%20General%20and%20flag%20officers%20limitation%20on%20appointments%2C%20assignments%2C%20details%2C%20and%20duties%20outside%20an%20officer%27s%20own%20service.md)
+- [&sect; 00722 - Attending Physician to the Congress grade](%C2%A7%2000722%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md)

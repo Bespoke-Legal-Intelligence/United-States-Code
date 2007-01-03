@@ -104,5 +104,5 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Termination of Similar Advisory Body
 
-Section 1104(b) of Pub. L. 99–83 provided that: “Any advisory body carrying out functions similar to thoseassigned to the Peace Corps National Advisory Council provided for in subsection (a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\].”
+Section 1104(b) of Pub. L. 99–83 provided that: “Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\].”
 

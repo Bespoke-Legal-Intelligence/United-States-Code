@@ -1,22 +1,28 @@
 ### §211. Original appointment of permanent commissioned officers
 
-(a) The President may appoint, by and with the advice and consent of the Senate, permanent commissioned officers in the Regular Coast Guard in grades of ensign or above appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the following categories:
+(a)(1) The President may appoint permanent commissioned officers in the Regular Coast Guard in grades appropriate to their qualification, experience, and length of service, as the needs of the Coast Guard may require, from among the following categories:
 
-&emsp;(1) graduates of the Coast Guard Academy;
+&emsp;(A) Graduates of the Coast Guard Academy.
 
-&emsp;(2) commissioned warrant officers, warrant officers, and enlisted members of the Regular Coast Guard;
+&emsp;(B) Commissioned warrant officers, warrant officers, and enlisted members of the Regular Coast Guard.
 
-&emsp;(3) members of the Coast Guard Reserve who have served at least two years as such; and
+&emsp;(C) Members of the Coast Guard Reserve who have served at least 2 years as such.
 
-&emsp;(4) licensed officers of the United States merchant marine who has served two or more years aboard a vessel of the United States in the capacity of a licensed officer.
+&emsp;(D) Licensed officers of the United States merchant marine who have served 2 or more years aboard a vessel of the United States in the capacity of a licensed officer.
+
+(2) Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate.
+
+(3) Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone.
 
 (b) No person shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
 
 (c) Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177; amended Pub. L. 89–444, §1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177; amended Pub. L. 89–444, §1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, §217(a), July 11, 2006, 120 Stat. 525.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–241 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to Presidential appointment of commissioned officers in the Regular Coast Guard in grades of ensign or above.
 
 1984—Subsec. (a)(2). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 
@@ -36,7 +42,7 @@ Section 5 of Pub. L. 88–130, as amended by Pub. L. 89–444, §3, June 9, 1966
 
 “(e) An officer of the Regular Coast Guard who was appointed as a temporary commissioned officer under any provision of law in effect prior to the effective date of this Act and who is serving on active duty shall be considered to have been appointed under section 214 of title 14, United States Code, and subject to the provisions thereof. An officer of the Regular Coast Guard who was appointed as a permanent commissioned officer under any provision of law in effect prior to the effective date of this Act \[Sept. 24, 1963\], and who is serving on active duty shall be considered to have been appointed under section 211 of title 14, United States Code, and subject to the provisions thereof.
 
-“(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 of title 14, United States Code, had that section been in effect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
+“(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 of title 14, United States Code, had that section been ineffect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
 
 “(g) The enactment of this Act does not increase or decrease the retired pay of any person retired on or prior to the effective date of this Act.
 

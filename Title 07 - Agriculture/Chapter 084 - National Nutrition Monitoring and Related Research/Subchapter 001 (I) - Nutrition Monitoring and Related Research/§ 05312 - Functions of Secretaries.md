@@ -18,7 +18,7 @@ The Secretaries, with the advice of the Board, shall—
 
 &emsp;(7) foster productive interaction, with respect to nutrition monitoring and related research, among Federal efforts, State and local governments, the private sector, scientific communities, health professionals, and the public;
 
-&emsp;(8)(A) contract with a scientific body, such as the National Academy of Sciences or the Federation of American Societies for Experimental Biology, to interpret available data analyses, and publish every two years, or morefrequently if appropriate, except as provided in subparagraph (B), a report on the dietary, nutritional, and health-related status of the people of the United States and the nutritional quality (including the nutritive and nonnutritive content) of food consumed in the United States; or
+&emsp;(8)(A) contract with a scientific body, such as the National Academy of Sciences or the Federation of American Societies for Experimental Biology, to interpret available data analyses, and publish every two years, or more frequently if appropriate, except as provided in subparagraph (B), a report on the dietary, nutritional, and health-related status of the people of the United States and the nutritional quality (including the nutritive and nonnutritive content) of food consumed in the United States; or
 
 &emsp;(B) if the Secretaries determine that sufficient data analyses are not available to warrant interpretation of such data analyses, inform Congress of such fact at the time a report required in subparagraph (A) would have been published, and publish such report at least once every five years; and
 

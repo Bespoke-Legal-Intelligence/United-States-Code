@@ -22,13 +22,13 @@ The principal office of the Administrator shall be in the District of Columbia, 
 
 #### (e) Study of effects of foreign production on unemployment; report to President and Congress
 
-Whenever the Secretary has reason to believe that in any industry under this chapter the competition of foreign producers in United States markets or in markets abroad, or both, has resulted, or is likely to result, in increased unemployment in the United States, he shall undertake an investigation to gain full informationwith respect to the matter. If he determines such increased unemployment has in fact resulted, or is in fact likely to result, from such competition, he shall make a full and complete report of his findings and determinations to the President and to the Congress: <i>Provided</i>, That he may also include in such report information on the increased employment resulting from additional exports in any industry under this chapter as he may determine to be pertinent to such report.
+Whenever the Secretary has reason to believe that in any industry under this chapter the competition of foreign producers in United States markets or in markets abroad, or both, has resulted, or is likely to result, in increased unemployment in the United States, he shall undertake an investigation to gain full information with respect to the matter. If he determines such increased unemployment has in fact resulted, or is in fact likely to result, from such competition, he shall make a full and complete report of his findings and determinations to the President and to the Congress: <i>Provided</i>, That he may also include in such report information on the increased employment resulting from additional exports in any industry under this chapter as he may determine to be pertinent to such report.
 
 #### (f) Employees of Library of Congress; administration of provisions by Office of Personnel Management
 
-The Secretary is authorized to enter into an agreement with the Librarian of Congress with respect to individuals employed in the Library of Congress to provide for the carrying out of the Secretary's functions under this chapter with respect to such individuals. Notwithstanding any other provision of this chapter, or any other law, the Director of the Office of Personnel Management is authorized to administer the provisions of this chapter with respect to any individual employed by the United States (other than an individual employed in the Library of Congress, United States Postal Service, Postal Rate Commission, or the Tennessee Valley Authority). Nothing in this subsection shall be construed to affect the right of an employee to bring an action for unpaid minimum wages, or unpaid overtime compensation, and liquidated damages under section 216(b) of this title.
+The Secretary is authorized to enter into an agreement with the Librarian of Congress with respect to individuals employed in the Library of Congress to provide for the carrying out of the Secretary's functions under this chapter with respect to such individuals. Notwithstanding any other provision of this chapter, or any other law, the Director of the Office of Personnel Management is authorized to administer the provisions of this chapter with respect to any individual employed by the United States (other than an individual employed in the Library of Congress, United States Postal Service, Postal Regulatory Commission, or the Tennessee Valley Authority). Nothing in this subsection shall be construed to affect the right of an employee to bring an action for unpaid minimum wages, or unpaid overtime compensation, and liquidated damages under section 216(b) of this title.
 
-(June 25, 1938, ch. 676, §4, 52 Stat. 1061; Oct. 26, 1949, ch. 736, §4, 63 Stat. 911; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 12, 1955, ch. 867, §2, 69 Stat. 711; Pub. L. 87–30, §3, May 5, 1961, 75 Stat. 66; Pub. L. 93–259, §§6(b), 24(c), 27, Apr. 8, 1974, 88 Stat. 60, 72, 73; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 104–66, title I, §1102(a), Dec. 21, 1995, 109 Stat. 722.)
+(June 25, 1938, ch. 676, §4, 52 Stat. 1061; Oct. 26, 1949, ch. 736, §4, 63 Stat. 911; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 12, 1955, ch. 867, §2, 69 Stat. 711; Pub. L. 87–30, §3, May 5, 1961, 75 Stat. 66; Pub. L. 93–259, §§6(b), 24(c), 27, Apr. 8, 1974, 88 Stat. 60, 72, 73; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 104–66, title I, §1102(a), Dec. 21, 1995, 109 Stat. 722; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ In subsec. (a), provisions that prescribed the compensation of the Administrator
 In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1995—Subsec. (d)(1). Pub. L. 104–66 in first sentence substituted “biennially” and “preceding two years” for “annually” and “preceding year”, respectively.
 
@@ -78,7 +80,7 @@ Acts Oct. 26, 1949, ch. 736, §4, 63 Stat. 911, and Oct. 28, 1949, ch. 782, cite
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under paragraphs (1) and (3) of subsec. (d) of this section are listed on page 124), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which reports required under paragraphs (1) and (3) of subsec. (d) of this section are listed on page 124), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

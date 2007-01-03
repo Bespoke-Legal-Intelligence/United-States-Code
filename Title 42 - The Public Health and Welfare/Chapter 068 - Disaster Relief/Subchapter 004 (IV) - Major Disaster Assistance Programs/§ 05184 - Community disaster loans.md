@@ -6,7 +6,11 @@ The President is authorized to make loans to any local government which may suff
 
 #### (b) Amount
 
-The amount of any such loan shall be based on need, shall not exceed 25 per centum of the annual operating budget of that local government for the fiscal year in which the major disaster occurs, and shall not exceed $5,000,000.
+The amount of any such loan shall be based on need, shall not exceed—
+
+&emsp;(1) 25 percent of the annual operating budget of that local government for the fiscal year in which the major disaster occurs, and shall not exceed $5,000,000; or
+
+&emsp;(2) if the loss of tax and other revenues of the local government as a result of the major disaster is at least 75 percent of the annual operating budget of that local government for the fiscal year in which the major disaster occurs, 50 percent of the annual operating budget of that local government for the fiscal year in which the major disaster occurs, and shall not exceed $5,000,000.
 
 #### (c) Repayment
 
@@ -22,7 +26,7 @@ The amount of any such loan shall be based on need, shall not exceed 25 per cent
 
 Any loans made under this section shall not reduce or otherwise affect any grants or other assistance under this chapter.
 
-(Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title II, §207, Oct. 30, 2000, 114 Stat. 1571.)
+(Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title II, §207, Oct. 30, 2000, 114 Stat. 1571; Pub. L. 109–347, title VI, §608, Oct. 13, 2006, 120 Stat. 1942.)
 
 #### Codification
 
@@ -33,6 +37,12 @@ Prior to renumbering as section 417, section 414 of Pub. L. 93–288 contained a
 A prior section 417 of Pub. L. 93–288 was renumbered section 420 by Pub. L. 100–707 and is classified to section 5187 of this title.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–347 substituted “exceed—
+
+&emsp;“(1) 25 percent”
+
+> for “exceed 25 per centum” and “; or” for period at end and added par. (2).
 
 2000—Pub. L. 106–390, §207(1)–(3), designated first sentence of subsec. (a) as subsec. (a) and inserted subsec. heading, designated second sentence of subsec. (a) as subsec. (b) and inserted subsec. heading, and designated third sentence of subsec. (a) as subsec. (c)(1) and inserted subsec. and par. headings. Former subsec. (b) redesignated (d).
 

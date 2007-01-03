@@ -6,7 +6,7 @@ The Secretary shall provide each owner who submits a notice of intent to termina
 
 #### (b) Information to owners extending low-income affordability restrictions
 
-The Secretary shall provide each owner who submits notice of intent to extend the low-income affordability restrictions on the housing under section 4109 of this title or transfer the housing under section 4110 of this title to a qualified purchaser with information under this subsection not later than 9 months after receipt of the notice of intent. The information shall include any information necessary for the owner to prepare a plan of action under section 4107 of this title, including the following:
+The Secretary shall provide each owner who submits notice of intent to extend the low-income affordability restrictions on the housing under section 4109 of this title or transfer the housing under section 4110 of this title to a qualified purchaser with information under this subsection not later than 9 months after receiptof the notice of intent. The information shall include any information necessary for the owner to prepare a plan of action under section 4107 of this title, including the following:
 
 #### (1) Preservation values
 

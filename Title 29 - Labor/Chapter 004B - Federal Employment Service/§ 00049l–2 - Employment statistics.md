@@ -66,7 +66,7 @@
 
 #### (B) Immunity from legal process
 
-&emsp;&emsp;Any submission (including any data derived from the submission) that is collected and retained by a Federal department or agency, or an officer, employee, agent, or contractor of such a department or agency, for exclusively statistical purposes under this section shall be immune from the legal process and shall not, without the consent of the individual, agency, or other person who is the subject of the submission or provides that submission, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
+&emsp;&emsp;Any submission (including any data derived from the submission) that is collectedand retained by a Federal department or agency, or an officer, employee, agent, or contractor of such a department or agency, for exclusively statistical purposes under this section shall be immune from the legal process and shall not, without the consent of the individual, agency, or other person who is the subject of the submission or provides that submission, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
 
 #### (C) Rule of construction
 
@@ -110,7 +110,7 @@ The Secretary, working through the Bureau of Labor Statistics, and in cooperatio
 
 &emsp;(4) justify the budget request for annual appropriations by describing priorities for the fiscal year succeeding the fiscal year in which the plan is developed and priorities for the 5 subsequent fiscal years for the system;
 
-&emsp;(5) describe current (as of the date of the submission of the plan) spending and spendingneeds to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
+&emsp;(5) describe current (as of the date of the submission of the plan) spending and spending needs to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
 
 &emsp;(6) describe the involvement of States in the development of the plan, through formal consultations conducted by the Secretary in cooperation with representatives of the Governors of every State, and with representatives of local workforce investment boards, pursuant to a process established by the Secretary in cooperation with the States.
 
@@ -120,7 +120,7 @@ The Secretary, working through the Bureau of Labor Statistics, and in cooperatio
 
 &emsp;(1) develop the annual plan described in subsection (c) of this section and address other employment statistics issues by holding formal consultations, at least once each quarter (beginning with the calendar quarter in which the Workforce Investment Act of 1998 is enacted) on the products and administration of the nationwide employment statistics system; and
 
-&emsp;(2) hold the consultations with representatives from each of the 10 Federal regions of the Department of Labor, elected (pursuant to a process established by the Secretary) by and from the State employment statistics directors affiliated with the State agencies that perform the duties described in subsection (e)(2) of this section.
+&emsp;(2) hold the consultations with representatives from each of the 10 Federal regions of the Department of Labor, elected (pursuant to a process established by the Secretary) by and from the State employment statistics directors affiliated with the State agencies thatperform the duties described in subsection (e)(2) of this section.
 
 #### (e) State responsibilities
 
@@ -160,7 +160,7 @@ The Secretary, working through the Bureau of Labor Statistics, and in cooperatio
 
 #### (f) Nonduplication requirement
 
-None of the functions and activities carried out pursuant to this section shall duplicate the functions and activities carried out under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.).
+None of the functions and activities carried out pursuant to this section shall duplicate the functions and activities carried out under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
 #### (g) Authorization of appropriations
 
@@ -170,7 +170,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 In this section, the term “local area” means the smallest geographical area for which data can be produced with statistical reliability.
 
-(June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §403(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127.)
+(June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §403(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
@@ -178,13 +178,15 @@ Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 13
 
 The Workforce Investment Act of 1998, referred to in subsec. (d)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (f), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 #### Prior Provisions
 
 A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set out as a Short Title note under section 49 of this title.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 1998—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
 

@@ -36,7 +36,7 @@
 
 1981—Subsec. (c). Pub. L. 97–66 substituted “Except as provided in the second and third sentences of this subsection, unless” for “Unless” and inserted provision that, in the case of insurance maturing after September 30, 1981, and for which no option has been elected by the insured, the first beneficiary may elect to receive payment in one sum.
 
-1970—Subsec. (c). Pub. L. 91–291 struck out provision that options (3) and (4) were not available in caseswhere the endowment contract matured by reason of the completion of the endowment period.
+1970—Subsec. (c). Pub. L. 91–291 struck out provision that options (3) and (4) were not available in cases where the endowment contract matured by reason of the completion of the endowment period.
 
 Subsec. (e). Pub. L. 91–291 added subsec. (e).
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 91–291 effective first day of first calendar month which 
 
 #### Transition Provision
 
-Pub. L. 108–183, title I, §103(d), Dec. 16, 2003, 117 Stat. 2655, provided that: “In the case of a person insured under subchapter I or II of chapter 19 of title 38, United States Code, who dies before the effective date of the amendments made by subsections (a) and (b), as specified by subsection (c) \[set out as an Effective Date of 2003 Amendment note above\], the two-year and four-year periods specified in subsection (f)(1) of section 1917 of title 38, United States Code, as added by subsection (a), and subsection (c)(1) of section 1952 of such title, as added by subsection (b), as applicable, shall for purposes of the applicable subsection be treated as being the two-year and four-year periods, respectively, beginning on the effective date of such amendments, as so specified.”
+Pub. L. 108–183, title I, §103(d), Dec. 16, 2003, 117 Stat. 2655, provided that: “In the case of a person insuredunder subchapter I or II of chapter 19 of title 38, United States Code, who dies before the effective date of the amendments made by subsections (a) and (b), as specified by subsection (c) \[set out as an Effective Date of 2003 Amendment note above\], the two-year and four-year periods specified in subsection (f)(1) of section 1917 of title 38, United States Code, as added by subsection (a), and subsection (c)(1) of section 1952 of such title, as added by subsection (b), as applicable, shall for purposes of the applicable subsection be treated as being the two-year and four-year periods, respectively, beginning on the effective date of such amendments, as so specified.”
 

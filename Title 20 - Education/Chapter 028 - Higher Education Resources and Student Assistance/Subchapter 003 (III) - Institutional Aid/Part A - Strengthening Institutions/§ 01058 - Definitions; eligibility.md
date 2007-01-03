@@ -80,7 +80,7 @@ Subsection (c) of this section, referred to in subsec. (b)(1)(A), was redesignat
 
 #### Prior Provisions
 
-A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 

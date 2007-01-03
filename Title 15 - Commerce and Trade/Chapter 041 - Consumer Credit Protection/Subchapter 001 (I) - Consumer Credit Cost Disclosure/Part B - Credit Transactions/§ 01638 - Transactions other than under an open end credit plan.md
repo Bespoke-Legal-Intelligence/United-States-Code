@@ -26,7 +26,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(3) The “finance charge”, not itemized, using that term.
 
-&emsp;(4) The finance charge expressed as an “annual percentage rate”, using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financedexceeds $75 and the finance charge does not exceed $7.50.
+&emsp;(4) The finance charge expressed as an “annual percentage rate”, using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financed exceeds $75 and the finance charge does not exceed $7.50.
 
 &emsp;(5) The sum of the amount financed and the finance charge, which shall be termed the “total of payments”.
 
@@ -66,7 +66,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor's catalog or other printed material distributed to the public, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
 
-(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor's printed material distributed to the public, or in the contract of loan or other printed material deliveredto the obligor, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor's printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
 
 #### (d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance
 

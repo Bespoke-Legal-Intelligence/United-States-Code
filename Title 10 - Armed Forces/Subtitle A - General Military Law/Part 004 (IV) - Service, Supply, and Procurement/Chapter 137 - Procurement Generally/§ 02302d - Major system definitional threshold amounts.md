@@ -14,11 +14,11 @@ Civilian Agency Systems.—For purposes of section 2302(5) of this title, a syst
 
 &emsp;(1) $750,000 (based on fiscal year 1980 constant dollars); or
 
-&emsp;(2) the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
+&emsp;(2) the dollar threshold for a “major system” established by the agency pursuant to Officeof Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
 
 (c)
 
-Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and the basefiscal year provided in subsection (a) on the basis of Department of Defense escalation rates.
+Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and the base fiscal year provided in subsection (a) on the basis of Department of Defense escalation rates.
 
 (2) An amount, as adjusted under paragraph (1), that is not evenly divisible by $5,000,000 shall be rounded to the nearest multiple of $5,000,000. In the case of an amount that is evenly divisible by $2,500,000 but not evenly divisible by $5,000,000, the amount shall be rounded to the next higher multiple of $5,000,000.
 

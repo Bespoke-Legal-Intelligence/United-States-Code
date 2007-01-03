@@ -34,8 +34,6 @@ Acts March 3, 1881, and February 20, 1905, referred to in subsec. (a), are acts 
 
 The effective date of the Trademark Law Revision Act of 1988, referred to in subsec. (b)(5), is one year after Nov. 16, 1988. See section 136 of Pub. L. 100–667, set out as an Effective Date of 1988 Amendment note under section 1051 of this title.
 
-The antitrust laws, referred to in subsec. (b)(7), are classified generally to chapter 1 (§1 et seq.) of this title.
-
 #### Prior Provisions
 
 Act Feb. 20, 1905, ch. 592, §§16, 21, 33 Stat. 728, 729.
@@ -46,7 +44,7 @@ Act Feb. 20, 1905, ch. 592, §§16, 21, 33 Stat. 728, 729.
 
 1998—Subsec. (b)(8), (9). Pub. L. 105–330 added par. (8) and redesignated former par. (8) as (9).
 
-1988—Subsec. (a). Pub. L. 100–667, §128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant's ownership ofthe mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b) of this section,” after “or defect”.
+1988—Subsec. (a). Pub. L. 100–667, §128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b) of this section,” after “or defect”.
 
 Subsec. (b). Pub. L. 100–667, §128(b)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the registrant's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the affidavit filed under the provisions of said section 1065 subject to any conditions or limitations stated therein except when one of the following defenses or defects is established:”.
 

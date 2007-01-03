@@ -6,5 +6,5 @@ Within ninety days after receipt of notice of the approval by the Secretary of t
 
 #### References in Text
 
-The Federal reclamation laws, referred to in text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
+The Federal reclamation laws, referred to in text, are identified in section 451i of this title.
 

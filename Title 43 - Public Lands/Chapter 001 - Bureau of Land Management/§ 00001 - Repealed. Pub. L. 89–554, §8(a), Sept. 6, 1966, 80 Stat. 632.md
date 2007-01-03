@@ -4,7 +4,7 @@ Section, R.S. §446; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, withpower to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
 For transfer of records, property, personnel, and funds, see sections 1001 to 1003 of Reorg. Plan No. 3 of 1946, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, set out in the Appendix to Title 5, Government Organization and Employees.
 

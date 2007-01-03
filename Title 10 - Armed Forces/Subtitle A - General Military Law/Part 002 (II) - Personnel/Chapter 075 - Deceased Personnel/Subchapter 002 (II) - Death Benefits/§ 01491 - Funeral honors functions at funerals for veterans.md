@@ -58,7 +58,7 @@ Veteran Defined.—In this section, the term “veteran” means a decedent who�
 
 &emsp;(2) was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
 
-(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, §662(b)(4), Jan. 6, 2006, 119 Stat. 3315.)
+(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L.107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, §662(b)(4), Jan. 6, 2006, 119 Stat. 3315.)
 
 #### Amendments
 

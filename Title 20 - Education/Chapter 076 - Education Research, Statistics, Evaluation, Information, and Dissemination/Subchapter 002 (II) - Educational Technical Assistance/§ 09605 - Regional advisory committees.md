@@ -44,7 +44,7 @@ Beginning in 2004, the Secretary shall establish a regional advisory committee f
 
 #### (B) Dissolution
 
-&emsp;&emsp;Each regional advisory committee shall be dissolved by the Secretary after submission of such committee's report described in subsection (c)(2) of this section to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
+&emsp;&emsp;Each regional advisory committee shall be dissolved by the Secretary after submissionof such committee's report described in subsection (c)(2) of this section to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
 
 #### (c) Duties
 

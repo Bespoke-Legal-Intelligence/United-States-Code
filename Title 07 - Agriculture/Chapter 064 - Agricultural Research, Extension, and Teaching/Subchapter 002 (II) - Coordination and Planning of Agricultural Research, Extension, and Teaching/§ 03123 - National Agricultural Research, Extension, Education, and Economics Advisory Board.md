@@ -90,7 +90,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 #### (6) Executive committee
 
-&emsp;The Advisory Board shall establish an executive committee charged with the responsibility of working with the Secretary and officersand employees of the Department of Agriculture to summarize and disseminate the recommendations of the Advisory Board.
+&emsp;The Advisory Board shall establish an executive committee charged with the responsibility of working with the Secretary and officers and employees of the Department of Agriculture to summarize and disseminate the recommendations of the Advisory Board.
 
 #### (7) Equal representation of public and private sector members
 
@@ -130,7 +130,7 @@ The Advisory Board shall—
 
 #### (e) Appointment
 
-A member of the Advisory Board shall be appointed by the Secretary for a term of up to 3 years. The members of the Advisory Board shall be appointed to serve staggered terms.
+A member of the Advisory Board shall be appointed by the Secretary for a term of up to 3years. The members of the Advisory Board shall be appointed to serve staggered terms.
 
 #### (f) Federal Advisory Committee Act
 

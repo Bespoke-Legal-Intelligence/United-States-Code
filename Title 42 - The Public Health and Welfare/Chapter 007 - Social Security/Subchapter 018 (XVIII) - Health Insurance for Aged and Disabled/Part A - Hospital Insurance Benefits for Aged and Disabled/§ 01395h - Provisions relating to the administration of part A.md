@@ -20,7 +20,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (B) In this paragraph:
 
-&emsp;(i) The term “clean claim” means a claim that has no defect or impropriety (including any lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this subchapter.
+&emsp;(i) The term “clean claim” means a claim that has no defect or impropriety (includingany lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this subchapter.
 
 &emsp;(ii) The term “applicable number of calendar days” means—
 
@@ -42,7 +42,7 @@ The administration of this part shall be conducted through contracts with medica
 
 &emsp;(i) with respect to claims submitted electronically as prescribed by the Secretary, 13 days, and
 
-&emsp;(ii) with respect to claims submitted otherwise, 26 days.
+&emsp;(ii) with respect to claims submitted otherwise, 28 days.
 
 #### (d) to (i). Repealed. Pub. L. 108–173, title IX, §911(b)(5), Dec. 8, 2003, 117 Stat. 2383
 
@@ -60,9 +60,11 @@ A contract with a medicare administrative contractor under section 1395kk–1 of
 
 #### (<i>l</i>) Repealed. Pub. L. 108–173, title IX, §911(b)(7), Dec. 8, 2003, 117 Stat. 2383
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(<i>o</i>), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, title I, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(4), title IX, §911(b), Dec. 8, 2003, 117 Stat. 2355, 2383.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(<i>o</i>), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, title I, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(4), title IX, §911(b), Dec. 8, 2003, 117 Stat. 2355, 2383; Pub. L. 109–171, title V, §5202(a)(1), Feb. 8, 2006, 120 Stat. 47.)
 
 #### Amendments
+
+2006—Subsec. (c)(3)(B)(ii). Pub. L. 109–171 substituted “28 days” for “26 days”.
 
 2003—Pub. L. 108–173, §911(b)(1), substituted “Provisions relating to the administration of part A” for “Use of public or private agencies or organizations to facilitate payment to providers of services” in section catchline.
 
@@ -82,7 +84,7 @@ Subsec. (c)(3)(A). Pub. L. 108–173, §911(b)(4)(B), substituted “contract un
 
 Subsecs. (d) to (i). Pub. L. 108–173, §911(b)(5), struck out subsecs. (d) to (i), which related to nomination of agency or organization, designation of agency or organization to perform provider services, standards, criteria, and procedures for evaluation of agency or organization performance, termination of agreement, bonding requirement for officers and employees, and liability of certifying and disbursing officers.
 
-Subsec. (j). Pub. L. 108–173, §911(b)(6), in introductory provisions, substituted “A contract with a medicare administrative contractor under section 1395kk–1 of thistitle with respect to the administration of this part” for “An agreement with an agency or organization under this section” and “such medicare administrative contractor” for “such agency or organization” in two places.
+Subsec. (j). Pub. L. 108–173, §911(b)(6), in introductory provisions, substituted “A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part” for “An agreement with an agency or organization under this section” and “such medicare administrative contractor” for “such agency or organization” in two places.
 
 Subsec. (k). Pub. L. 108–173, §911(b)(6), substituted “A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part” for “An agreement with an agency or organization under this section” and “such medicare administrative contractor” for “such agency or organization”.
 
@@ -156,9 +158,13 @@ Subsecs. (h), (i). Pub. L. 95–142, §14(a)(4), redesignated former subsecs. (f
 
 1972—Subsec. (a). Pub. L. 92–603 inserted reference to provisions of section 1395<i>oo</i> of this title.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title V, §5202(b), Feb. 8, 2006, 120 Stat. 47, provided that: “The amendments made by this section \[amending this section and section 1395u of this title\] shall apply to claims submitted on or after January 1, 2006.”
+
 #### Effective Date of 2003 Amendment
 
-Amendment by section 911(b) of Pub. L. 108–173 effective Oct. 1, 2005, except as otherwise provided, withtransition rules authorizing Secretary of Health and Human Services to continue to enter into agreements under this section prior to such date, and provisions authorizing continuation of Medicare Integrity Program functions during the period that begins on Dec. 8, 2003, and ends on Oct. 1, 2011, see section 911(d) of Pub. L. 108–173, set out as an Effective Date; Transition Rule note under section 1395kk–1 of this title.
+Amendment by section 911(b) of Pub. L. 108–173 effective Oct. 1, 2005, except as otherwise provided, with transition rules authorizing Secretary of Health and Human Services to continue to enter into agreements under this section prior to such date, and provisions authorizing continuation of Medicare Integrity Program functions during the period that begins on Dec. 8, 2003, and ends on Oct. 1, 2011, see section 911(d) of Pub. L. 108–173, set out as an Effective Date; Transition Rule note under section 1395kk–1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -240,7 +246,7 @@ Amendment by Pub. L. 92–603 applicable with respect to cost reports of provide
 
 #### Advisory Committee on Medicare Home Health Claims
 
-Section 427 of Pub. L. 100–360, which provided that the Administrator of the Health Care Financing Administration was to establish an advisory committee to be known as the Advisory Committee on Medicare Home Health Claims to study the reasons for the increase in the denial of claims for home health services during1986 and 1987, the ramifications of such increase, and the need to reform the process involved in such denials, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
+Section 427 of Pub. L. 100–360, which provided that the Administrator of the Health Care Financing Administration was to establish an advisory committee to be known as the Advisory Committee on Medicare Home Health Claims to study the reasons for the increase in the denial of claims for home health services during 1986 and 1987, the ramifications of such increase, and the need to reform the process involved in such denials, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
 
 #### Amendments to Agreements and Contracts Necessary To Implement Section 4031(a) of Pub. L. 100–203
 

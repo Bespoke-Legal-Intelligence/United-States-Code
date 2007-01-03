@@ -50,7 +50,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;(ii) in the case of a student who has obtained a baccalaureate degree, $5,000 for coursework necessary for a professional credential or certification from a State required for employment as a teacher in an elementary or secondary school;
 
-> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
+> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted inorder to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
 
 #### (3) Aggregate limits for independent, graduate, and professional students
 
@@ -114,15 +114,25 @@ A guaranty agency shall use a single application form and a single repayment sch
 
 #### (h) Insurance premium
 
-Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders.
+Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
 
-(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696.)
+(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535;amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169.)
+
+#### Amendment of Subsection (d)(2)
+
+<i>Pub. L. 109–171, title VIII, §8005(d), (e), Feb. 8, 2006, 120 Stat. 159, provided that, effective July 1, 2007, subsection (d)(2) of this section is amended:</i>
+
+<i>(1) in subparagraph (C), by substituting “$12,000” for “$10,000”; and</i>
+
+<i>(2) in subparagraph (D), by substituting “$7,000” for “$5,000” in clauses (i) and (ii).</i>
 
 #### Codification
 
 Amendments by section 2(c)(42), (45) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2006—Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end “Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.”
 
 1998—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
 
@@ -182,13 +192,19 @@ Subsec. (f)(3). Pub. L. 103–66, §4102(b)(1)(E), substituted “origination fe
 
 Subsec. (f)(4). Pub. L. 103–66, §4102(b)(1)(F), in heading substituted “origination fee” for “insurance premium” and in text substituted “origination fees” for “combined origination fee and insurance premiums” and “to pay” for “and premiums to pay”.
 
-Subsec. (f)(5). Pub. L. 103–66, §4102(b)(1)(G), inserted “origination fee and” in heading and in text substituted “do not exceed the combined origination fee under this subsection and the insurance premium undersubsection (h) of this section, the Secretary is directed to lower the origination fee and insurance premium accordingly” for “do not exceed the 6.5 percent insurance premium, the Secretary is directed to lower the insurance premium accordingly”.
+Subsec. (f)(5). Pub. L. 103–66, §4102(b)(1)(G), inserted “origination fee and” in heading and in text substituted “do not exceed the combined origination fee under this subsection and the insurance premium under subsection (h) of this section, the Secretary is directed to lower the origination fee and insurance premium accordingly” for “do not exceed the 6.5 percent insurance premium, the Secretary is directed to lower the insurance premium accordingly”.
 
 Subsec. (h). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i>) as (h). See Codification note above.
 
 Subsec. (<i>l</i>). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i>) as (h). See Codification note above.
 
 Pub. L. 103–66, §4102(b)(2), added subsec. (<i>l</i>).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 8014(b)(2) of Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
+Amendment by section 8005(d) of Pub. L. 109–171 effective July 1, 2007, see section 8005(e) of Pub. L. 109–171, set out as a note under section 1075 of this title.
 
 #### Effective Date of 1998 Amendment
 

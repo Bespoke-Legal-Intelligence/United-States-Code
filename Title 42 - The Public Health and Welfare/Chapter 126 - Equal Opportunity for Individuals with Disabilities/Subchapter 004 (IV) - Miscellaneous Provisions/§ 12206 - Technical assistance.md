@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after July 26, 1990, the Attorney General, in consultation withthe Chair of the Equal Employment Opportunity Commission, the Secretary of Transportation, the Chair of the Architectural and Transportation Barriers Compliance Board, and the Chairman of the Federal Communications Commission, shall develop a plan to assist entities covered under this chapter, and other Federal agencies, in understanding the responsibility of such entities and agencies under this chapter.
+&emsp;Not later than 180 days after July 26, 1990, the Attorney General, in consultation with the Chair of the Equal Employment Opportunity Commission, the Secretary of Transportation, the Chair of the Architectural and Transportation Barriers Compliance Board, and the Chairman of the Federal Communications Commission, shall develop a plan to assist entities covered under this chapter, and other Federal agencies, in understanding the responsibility of such entities and agencies under this chapter.
 
 #### (2) Publication of plan
 
@@ -52,7 +52,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (1) In general
 
-&emsp;Each Federal agency that has responsibility under subsection (c)(2) of this section for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
+&emsp;Each Federal agency that has responsibility under subsection (c)(2) of this section for implementing this chapter may make grants oraward contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
 
 #### (2) Dissemination of information
 

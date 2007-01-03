@@ -42,7 +42,7 @@ The program shall provide for—
 
 #### (2) Agreement
 
-&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Servicesto carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
+&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Services to carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
 
 #### (3) Actions of Director
 
@@ -88,13 +88,13 @@ The program shall provide for—
 
 &emsp;(ix) The Federal Energy Regulatory Commission.
 
-(B) The Interagency Committee shall elect a chairperson from among its members who shall be responsible for ensuring that the duties of the Interagency Committee are carried out.
+(B) The Interagency Committee shall elect a chairperson from among its members who shallbe responsible for ensuring that the duties of the Interagency Committee are carried out.
 
 (C) Agencies that have members on the Interagency Committee shall provide appropriate staff to carry out the duties of the Interagency Committee.
 
 #### (e) Advisory Committee
 
-(1) Not later than 2 months after October 24, 1992, the Secretary of Health and Human Services and the Secretary shall establish the National Electric and Magnetic Fields Advisory Committee in accordance with the Federal Advisory Committee Act \[5 App. U.S.C.\] and this section.
+(1) Not later than 2 months after October 24, 1992, the Secretary of Health and Human Services and the Secretary shall establish the National Electric and Magnetic Fields Advisory Committee in accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\] and this section.
 
 (2) The Advisory Committee shall make recommendations to the Interagency Committee with respect to the duties of the Interagency Committee under subsection (d)(1) of this section and advise the Secretary and the Director with respect to the design and implementation of the program, including preparation of solicitations for proposals to conduct research under the program.
 
@@ -114,7 +114,7 @@ The program shall provide for—
 
 (4)
 
-Solicitation and selection of proposals
+Solicitation and selection of proposals.—
 
 &emsp;(A)
 
@@ -122,7 +122,7 @@ In general.—Within 15 months after October 24, 1992, and as often thereafter a
 
 &emsp;(B)
 
-Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and theDirector shall consult with the Advisory Committee.
+Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
 
 &emsp;(C)
 

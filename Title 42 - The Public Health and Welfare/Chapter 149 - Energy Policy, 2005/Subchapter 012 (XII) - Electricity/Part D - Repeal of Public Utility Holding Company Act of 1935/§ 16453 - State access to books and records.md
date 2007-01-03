@@ -16,7 +16,7 @@ Subsection (a) does not apply to any person that is a holding company solely by 
 
 #### (c) Confidentiality of information
 
-The production of books, accounts, memoranda, and other records under subsection (a) shall be subject to such terms and conditions as may be necessary and appropriate to safeguard against unwarranted disclosure to the public of any trade secrets or sensitive commercial information.
+The production of books, accounts, memoranda, and other records under subsection (a) shall be subject to such terms and conditions as may be necessary and appropriate to safeguardagainst unwarranted disclosure to the public of any trade secrets or sensitive commercial information.
 
 #### (d) Effect on State law
 

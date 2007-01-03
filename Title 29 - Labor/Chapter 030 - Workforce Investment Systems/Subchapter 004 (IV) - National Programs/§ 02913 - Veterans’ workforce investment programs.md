@@ -8,7 +8,7 @@
 
 #### (2) Conduct of programs
 
-&emsp;Programs supported under this section may be conducted through grants and contracts with public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
+&emsp;Programs supported under this section may be conducted through grants and contractswith public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
 
 #### (3) Required activities
 
@@ -32,17 +32,21 @@
 
 &emsp;&emsp;(A) be responsible for the awarding of grants and contracts and the distribution of funds under this section and for the establishment of appropriate fiscal controls, accountability, and program performance measures for recipients of grants and contracts under this section; and
 
-&emsp;&emsp;(B) consult with the Secretary of Veterans Affairs and take steps to ensure that programs supported under this section are coordinated, to the maximum extent feasible, with related programs and activities conducted under title 38, including programs and activities conducted under subchapter II of chapter 77 of such title, chapters 30, 31, 32, and 34 of such title, and sections 1712A, 1720A, 3687, and 4103A of such title.
+&emsp;&emsp;(B) consult with the Secretary of Veterans Affairs and take steps to ensure that programs supported under this section are coordinated, to the maximum extent feasible, with related programs and activities conducted under title 38, including programs and activities conducted under chapter 63 of such title, chapters 30, 31, 32, and 34 of such title, and sections 1712A, 1720A, 3687, and 4103A of such title.
 
-(Pub. L. 105–220, title I, §168, Aug. 7, 1998, 112 Stat. 1027.)
+(Pub. L. 105–220, title I, §168, Aug. 7, 1998, 112 Stat. 1027; Pub. L. 109–233, title IV, §402(e)(4), June 15, 2006, 120 Stat. 411.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1721 of this title prior to repeal by Pub. L. 105–220.
 
+#### Amendments
+
+2006—Subsec. (b)(2)(B). Pub. L. 109–233 substituted “chapter 63” for “subchapter II of chapter 77”.
+
 #### Coordination of Information and Assistance
 
-Pub. L. 100–689, title IV, §402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, §101(f) \[titleVIII, §405(d)(24), (f)(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 100–689, title IV, §402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(24), (f)(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 “(a)
 
@@ -192,7 +196,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;“(3) for employment which involves political or religious activities;
 
-&emsp;“(4) for employment with any department, agency, instrumentality, or branch of the Federal Government (including the United States Postal Service and the Postal Rate Commission); or
+&emsp;“(4) for employment with any department, agency, instrumentality, or branch of the Federal Government (including the United States Postal Service and the Postal Rate Commission \[Postal Regulatory Commission\]); or
 
 &emsp;“(5) if the training will not be carried out in a State.
 
@@ -214,7 +218,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;“(5) That the job which is the objective of the training program is one that involves significant training.
 
-&emsp;“(6) That the training content of the program is adequate, in light of the nature of the occupation forwhich training is to be provided and of comparable training opportunities in such occupation, to accomplish the training objective certified under clause (2) of subsection (e).
+&emsp;“(6) That the training content of the program is adequate, in light of the nature of the occupation for which training is to be provided and of comparable training opportunities in such occupation, to accomplish the training objective certified under clause (2) of subsection (e).
 
 &emsp;“(7) That each participating veteran will be employed full time in the program of job training.
 
@@ -248,7 +252,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “payments to employers; overpayment
 
-“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
+“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
 
 “(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000.
 
@@ -300,7 +304,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “inspection of records; investigations
 
-“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other recordsthat the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
 
@@ -344,7 +348,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(3) The Secretary and the Administrator shall jointly provide, to the extent feasible—
 
-&emsp;“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 \[now subchapter II of chapter 77\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
+&emsp;“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 \[see chapter 63\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
 
 &emsp;“(B) a program of information services under which—
 
@@ -380,7 +384,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “authorization of appropriations
 
-“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriatedpursuant to this section shall remain available until September 30, 1991.
+“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
 
 “(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 

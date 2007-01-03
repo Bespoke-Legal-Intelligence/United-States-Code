@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of a grant to a recipient for a construction project under section 3141 or 3149 of this title, if the Secretary determines, beforecloseout of the project, that the cost of the project, based on the designs and specifications that were the basis of the grant, has decreased because of decreases in costs, the Secretary may approve, without further appropriation, the use of the excess funds (or a portion of the excess funds) by the recipient—
+In the case of a grant to a recipient for a construction project under section 3141 or 3149 of this title, if the Secretary determines, before closeout of the project, that the cost of the project, based on the designs and specifications that were the basis of the grant, has decreased because of decreases in costs, the Secretary may approve, without further appropriation, the use of the excess funds (or a portion of the excess funds) by the recipient—
 
 &emsp;(1) to increase the Federal share of the cost of a project under this title to the maximum percentage allowable under section 3144 of this title; or
 
@@ -42,7 +42,7 @@ Section 3151a, Pub. L. 89–136, title III, §302, as added Pub. L. 93–423, §
 
 #### Amendments
 
-2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “In any case in which a grant (including a supplementary grant described in section 3145 of this title) has been made by the Secretary under this subchapter (or made under this chapter, as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998) for a construction project, and, after the grant has been made but before completion of the project, the cost of the project based on the designs and specifications that was the basis of the grant has decreased because of decreases in costs—
+2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “In any case in which a grant (including a supplementary grant described in section 3145 of this title) has been made by the Secretary under this subchapter (or made under this chapter, as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998) for a construction project, and, after the granthas been made but before completion of the project, the cost of the project based on the designs and specifications that was the basis of the grant has decreased because of decreases in costs—
 
 &emsp;“(1) the Secretary may approve, subject to the availability of appropriations, the use of the excess funds or a portion of the funds to improve the project; and
 

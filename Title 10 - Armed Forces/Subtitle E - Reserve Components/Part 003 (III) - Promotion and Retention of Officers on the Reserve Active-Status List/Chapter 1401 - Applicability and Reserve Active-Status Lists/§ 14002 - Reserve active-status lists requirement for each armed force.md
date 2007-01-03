@@ -1,6 +1,6 @@
 ### §14002. Reserve active-status lists: requirement for each armed force
 
-(a) The Secretary of each military department shall maintain a single list, to be known as the reserve active-status list, for each armed force under the Secretary's jurisdiction. That listshall include the names of all reserve officers of that armed force who are in an active status other than those on an active-duty list described in section 620 of this title or warrant officers (including commissioned warrant officers).
+(a) The Secretary of each military department shall maintain a single list, to be known as the reserve active-status list, for each armed force under the Secretary's jurisdiction. That list shall include the names of all reserve officers of that armed force who are in an active status other than those on an active-duty list described in section 620 of this title or warrant officers (including commissioned warrant officers).
 
 (b) The reserve active-status list for the Army shall include officers in the Army Reserve and the Army National Guard of the United States. The reserve active-status list for the Air Force shall include officers in the Air Force Reserve and the Air National Guard of the United States. The Secretary of the Navy shall maintain separate lists for the Navy Reserve and the Marine Corps Reserve.
 
@@ -24,7 +24,7 @@ Six-Month Deadline.—Not later than six months after the effective date of this
 
 “(b)
 
-Regulations.—The Secretary concerned shall prescribe regulations for the establishment of relative seniority. The Secretary of the Army and the Secretary of the Air Force shall, in prescribing such regulations, provide for the consideration of both promotion service established under section 3360(b) or 8360(e) of title 10, United States Code, as in effect on the day before the effective date of this title, and total commissioned service established under section 3360(c) or 8366(e) of such title, as in effect on the day before the effective date of this title. An officer placed on a reserve active-status list in accordance with this section shall be considered to have been on the list as of the effective date of this title.”
+Regulations.—The Secretary concerned shall prescribe regulations for the establishment of relative seniority. The Secretary of the Army and the Secretary of the Air Force shall, in prescribing such regulations, provide for the consideration of both promotion service established under section 3360(b) or 8360(e) of title 10, United States Code, as in effect on the day before the effective date of this title, and total commissionedservice established under section 3360(c) or 8366(e) of such title, as in effect on the day before the effective date of this title. An officer placed on a reserve active-status list in accordance with this section shall be considered to have been on the list as of the effective date of this title.”
 
 #### Preservation of Relative Seniority Under Initial Establishment of Reserve Active-Status List
 

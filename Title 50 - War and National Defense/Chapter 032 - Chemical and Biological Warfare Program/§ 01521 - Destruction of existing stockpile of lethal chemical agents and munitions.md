@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (C) In this paragraph, the term “tribal organization” has the meaning given that term in section 450b(<i>l</i>) of title 25.
 
-(5)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Director of the Federal Emergency Management Agency, the Director shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
+(5)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
 
 &emsp;(i) the storage of lethal chemical agents and munitions referred to in subsection (a) of this section at military installations in the continental United States; or
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (B) No assistance may be provided under this paragraph after the completion of the destruction of the United States’ stockpile of lethal chemical agents and munitions.
 
-(C) Not later than December 15 of each year, the Director shall transmit a report to Congress on the activities carried out under this paragraph during the fiscal year preceding the fiscal year in which the report is submitted.
+(C) Not later than December 15 of each year, the Administrator shall transmit a report to Congress on the activities carried out under this paragraph during the fiscal year preceding the fiscal year in which the report is submitted.
 
 #### (d) Requirement for strategic plan
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (1) Funds for carrying out this section, including funds for military construction projects necessary to carry out this section, shall be set forth in the budget of the Department of Defense for any fiscal year as a separate account. Such funds shall not be included in the budget accounts for any military department.
 
-(2) Amounts appropriated to the Secretary for the purpose of carrying out subsection (c)(5) of this section shall be promptly made available to the Director of the Federal Emergency Management Agency.
+(2) Amounts appropriated to the Secretary for the purpose of carrying out subsection (c)(5) of this section shall be promptly made available to the Administrator of the Federal Emergency Management Agency.
 
 #### (g) Periodic reports
 
@@ -152,7 +152,7 @@ For purposes of this section:
 
 (3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Codification
 
@@ -164,7 +164,7 @@ Section was enacted as part of the Department of Defense Authorization Act, 1986
 
 2006—Subsec. (c)(4). Pub. L. 109–163 designated first two sentences as subpar. (A) and inserted “and to tribal organizations” after “to State and local governments” and “and tribal organizations” after “assist those governments”, designated third and fourth sentences as subpar. (B) and inserted “, and with tribal organizations,” after “with State and local governments”, and added subpar. (C). See Codification note above.
 
-2004—Subsec. (d). Pub. L. 108–375 amended heading and text of subsec. (d) generally. Prior to amendment,text required the Secretary of Defense to develop and submit to Congress by Mar. 15, 1986, a comprehensive plan to carry out this section.
+2004—Subsec. (d). Pub. L. 108–375 amended heading and text of subsec. (d) generally. Prior to amendment, text required the Secretary of Defense to develop and submit to Congress by Mar. 15, 1986, a comprehensive plan to carry out this section.
 
 2001—Subsec. (g)(2)(C)(vii). Pub. L. 107–107 substituted “(c)(4)” for “(c)(3)”.
 
@@ -216,7 +216,7 @@ Subsec. (g)(2)(C). Pub. L. 104–201, §1074(d)(2)(C), substituted “An assessm
 
 Subsec. (g)(3). Pub. L. 104–106, §153(b)(4), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (g)(4). Pub. L. 104–106, §153(b)(5), substituted “paragraph (1) not later” for “this subsection not later” and inserted at end “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).”
+Subsec. (g)(4). Pub. L. 104–106, §153(b)(5), substituted “paragraph (1) not later” for “this subsection notlater” and inserted at end “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).”
 
 Pub. L. 104–106, §153(b)(3), redesignated par. (3) as (4).
 
@@ -256,11 +256,15 @@ Subsec. (h)(1). Pub. L. 101–510, §171(b), substituted “November 8, 1985” 
 
 1988—Subsec. (b)(1), (3)(A). Pub. L. 100–456, §118(a)(1), substituted “the stockpile elimination deadline” for “September 30, 1994”.
 
-Subsec. (b)(3)(B). Pub. L. 100–456, §118(a)(2), substituted “not later than the earlier of (A) 30 days afterthe date on which the decision to defer is made, or (B) 30 days before the stockpile elimination deadline” for “within 30 days after the date on which the determination to defer is made or by August 31, 1994, whichever is earlier”.
+Subsec. (b)(3)(B). Pub. L. 100–456, §118(a)(2), substituted “not later than the earlier of (A) 30 days after the date on which the decision to defer is made, or (B) 30 days before the stockpile elimination deadline” for “within 30 days after the date on which the determination to defer is made or by August 31, 1994, whichever is earlier”.
 
 Subsec. (b)(4), (5). Pub. L. 100–456, §118(a)(3), added pars. (4) and (5).
 
 Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The provisions of this section shall take effect on October 1, 1985.”
+
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsecs. (c)(5) and (f)(2) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 2006 Amendment
 
@@ -272,7 +276,69 @@ Pub. L. 109–163, div. A, title IX, §921(b), Jan. 6, 2006, 119 Stat. 3410, pro
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Incentives Clauses in Chemical Demilitarization Contracts
+
+Pub. L. 109–364, div. A, title IX, §923, Oct. 17, 2006, 120 Stat. 2360, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Authority to include clauses in contracts.—The Secretary of Defense may, for the purpose specified in paragraph (2), authorize the inclusion of an incentives clause in any contract for the destruction of the United States stockpile of lethal chemical agents and munitions carried out pursuant to section 1412 of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521).
+
+&emsp;“(2)
+
+Purpose.—The purpose of a clause referred to in paragraph (1) is to provide the contractor for a chemical demilitarization facility an incentive to accelerate the safe elimination of the United States chemical weapons stockpile and to reduce the total cost of the Chemical Demilitarization Program by providing incentive payments for the early completion of destruction operations and the closure of such facility.
+
+“(b)
+
+Incentives Clauses.—
+
+&emsp;“(1)
+
+In general.—An incentives clause under this section shall permit the contractor for the chemical demilitarization facility concerned the opportunity to earn incentive payments for the completion of destruction operations and facility closure activities within target incentive ranges specified in such clause.
+
+&emsp;“(2)
+
+Limitation on incentive payments.—The maximum incentive payment under an incentives clause with respect to a chemical demilitarization facility may not exceed amounts as follows:
+
+&emsp;&emsp;“(A) In the case of an incentive payment for the completion of destruction operations within the target incentive range specified in such clause, $110,000,000.
+
+&emsp;&emsp;“(B) In the case of an incentive payment for the completion of facility closure activities within the target incentive range specified in such clause, $55,000,000.
+
+&emsp;“(3)
+
+Target ranges.—An incentives clause in a contract under this section shall specify the target incentive ranges of costs for completion of destruction operations and facility closure activities, respectively, as jointly agreed upon by the contracting officer and the contractor concerned. An incentives clause shall require a proportionate reduction in the maximum incentive payment amounts in the event that the contractor exceeds an agreed-upon target cost if such excess costs are the responsibility of the contractor.
+
+&emsp;“(4)
+
+Calculation of incentive payments.—The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clause under this section shall be based upon a determination by the Secretary on how early in the target incentive range specified in such clause destruction operations or facility closure activities, as the case may be, are completed.
+
+&emsp;“(5)
+
+Consistency with existing obligations.—The provisions of any incentives clause under this section shall be consistent with the obligation of the Secretary of Defense under section 1412(c)(1)(A) of the Department of Defense Authorization Act, 1986 \[50 U.S.C. 1521(c)(1)(A)\], to provide for maximum protection for the environment, the general public, and the personnel who are involved in the destruction of the lethal chemical agents and munitions.
+
+&emsp;“(6)
+
+Additional terms and conditions.—In negotiating the inclusion of an incentives clause in a contract under this section, the Secretary may include in such clause such additional terms and conditions as the Secretary considers appropriate.
+
+“(c)
+
+Additional Limitation on Payments.—
+
+&emsp;“(1)
+
+Payment conditional on performance.—No payment may be made under an incentives clause under this section unless the Secretary determines that the contractor concerned has satisfactorily performed its duties under such incentives clause.
+
+&emsp;“(2)
+
+Payment contingent on appropriations.—An incentives clause under this section shall specify that the obligation of the Government to make payment under such incentives clause is subject to the availability of appropriations for that purpose. Amounts appropriated for Chemical Agents and Munitions Destruction, Defense, shall be available for payments under incentives clauses under this section.”
 
 #### Management of Chemical Demilitarization Activities at Bluegrass Army Depot, Kentucky and Pueblo Army Depot, Colorado
 
@@ -328,7 +394,7 @@ Pilot Facilities Contracts.—(1) The Under Secretary of Defense for Acquisition
 
 &emsp;&emsp;“(i) as safe and cost effective for disposing of assembled chemical munitions as is incineration of such munitions; and
 
-&emsp;&emsp;“(ii) is capable of completing the destruction of such munitions on or before the later of the date by which the destruction of the munitions would be completed if incineration were used or the deadline date for completing the destruction of the munitions under the Chemical Weapons Convention; and
+&emsp;&emsp;“(ii) is capable of completing the destruction of such munitions on or before the later of the date bywhich the destruction of the munitions would be completed if incineration were used or the deadline date for completing the destruction of the munitions under the Chemical Weapons Convention; and
 
 &emsp;“(B) determines as satisfying the Federal and State environmental and safety laws that are applicable to the use of the technology and to the design, construction, and operation of a pilot facility for use of the technology.
 
@@ -338,7 +404,7 @@ Pilot Facilities Contracts.—(1) The Under Secretary of Defense for Acquisition
 
 “(e)
 
-Plan for Pilot Program.—If the Secretary of Defense proceeds with a pilot program under section 152(f) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 214; 50 U.S.C. 1521 note), the Secretary shall prepare a plan forthe pilot program and shall submit to Congress a report on such plan (including information on the cost of, and schedule for, implementing the pilot program).
+Plan for Pilot Program.—If the Secretary of Defense proceeds with a pilot program under section 152(f) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 214; 50 U.S.C. 1521 note), the Secretary shall prepare a plan for the pilot program and shall submit to Congress a report on such plan (including information on the cost of, and schedule for, implementing the pilot program).
 
 “(f)
 
@@ -476,7 +542,7 @@ Pilot Program for Demilitarization of Chemical Agents for Assembled Munitions.�
 
 #### Chemical Demilitarization Citizens Advisory Commissions
 
-Section 172 of Pub. L. 102–484, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215;Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658, provided that:
+Section 172 of Pub. L. 102–484, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215; Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658, provided that:
 
 “(a)
 
@@ -552,7 +618,7 @@ Applicability of Certain Provisions of Section 1412.—Subsection (c) of section
 
 “(d)
 
-Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under this section, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end of the 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
+Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under thissection, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end of the 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
 
 “(e)
 
@@ -560,7 +626,7 @@ Limitation.—If the Secretary is required to submit a revised concept plan unde
 
 #### Sense of Congress Concerning International Consultation and Exchange Program
 
-Section 178 of Pub. L. 102–484 provided that: “It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultationand exchange concerning chemical weapons disposal technology could be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons.”
+Section 178 of Pub. L. 102–484 provided that: “It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technology could be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons.”
 
 #### “Low-Volume Site” Defined
 

@@ -6,7 +6,7 @@ In preparing the Coast Guard's annual fisheries enforcement plan, the Commandant
 
 #### (b) Fishery patrols
 
-Prior to undertaking fisheries patrols, the Commandant of the Coast Guard shall notify the Under Secretary of Commerce for Oceans and Atmosphere and appropriate State and local enforcement authorities of the projected dates for such patrols.
+Prior to undertaking fisheries patrols, the Commandant of the Coast Guard shall notify the Under Secretary of Commerce for Oceans andAtmosphere and appropriate State and local enforcement authorities of the projected dates for such patrols.
 
 #### (c) Annual summary
 

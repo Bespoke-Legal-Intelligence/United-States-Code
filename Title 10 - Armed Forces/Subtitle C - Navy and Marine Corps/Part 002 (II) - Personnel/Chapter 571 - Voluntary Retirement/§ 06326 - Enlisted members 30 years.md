@@ -66,7 +66,7 @@ In subsection (a) the word “Regular” is inserted before the words “Navy”
 
 Subsection (b) is inserted to cover into the section permanent enlisted members who are temporarily appointed to commissioned or warrant grades.
 
-In subsection (c) the word “grade” is substituted for the words “rating or rank” and the words “is entitled to retired pay at the rate of 75 percent of the basic pay to which he would be entitled if serving on active duty in the grade in which retired” are substituted for the words “and with 75 per centum of the pay of the said rating or rank” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
+In subsection (c) the word “grade” is substituted for the words “rating or rank” and the words “is entitledto retired pay at the rate of 75 percent of the basic pay to which he would be entitled if serving on active duty in the grade in which retired” are substituted for the words “and with 75 per centum of the pay of the said rating or rank” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
 
 Subsection (d) is substituted for 34 U.S.C. 350i(e) as that section pertains to voluntary retirement of enlisted members with 30 years of active service.
 

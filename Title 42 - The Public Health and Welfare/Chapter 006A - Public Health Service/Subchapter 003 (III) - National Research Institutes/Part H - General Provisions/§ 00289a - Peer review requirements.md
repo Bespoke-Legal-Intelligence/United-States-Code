@@ -14,7 +14,7 @@
 
 &emsp;(B) to the extent practical, by technical and scientific peer review groups performing such review on or before November 20, 1985,
 
-> and shall authorize such review to be conducted by groups appointed under sections 282(b)(6) and 284(c)(3) of this title.
+> and shall authorize such review to be conducted by groups appointed under sections 282(b)(16) and 284(c)(3) of this title.
 
 #### (b) Periodic review of research at National Institutes of Health
 
@@ -24,7 +24,7 @@ The Director of NIH shall establish procedures for periodic technical and scient
 
 &emsp;(2) the reviewing entity provide the advisory council of the national research institute involved with such description and the results of the review by the entity,
 
-> and shall authorize such review to be conducted by groups appointed under sections 282(b)(6) and 284(c)(3) of this title.
+> and shall authorize such review to be conducted by groups appointed under sections 282(b)(6) <sup>1</sup> and 284(c)(3) of this title.
 
 #### (c) Compliance with requirements for inclusion of women and minorities in clinical research
 
@@ -32,9 +32,21 @@ The Director of NIH shall establish procedures for periodic technical and scient
 
 (2) Paragraph (1) shall not apply to any proposal for clinical research that, pursuant to subsection (b) of section 289a–2 of this title, is not subject to the requirement of subsection (a) of such section regarding the inclusion of women and members of minority groups as subjects in clinical research.
 
-(July 1, 1944, ch. 373, title IV, §492, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amended Pub. L. 103–43, title I, §132, June 10, 1993, 107 Stat. 135.)
+(July 1, 1944, ch. 373, title IV, §492, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amended Pub. L. 103–43, title I, §132, June 10, 1993, 107 Stat. 135; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685.)
+
+#### References in Text
+
+Section 282(b)(6) of this title, referred to in subsec. (b), was redesignated section 282(b)(16) by Pub. L. 109–482, title I, §102(a)(3), Jan. 15, 2007, 120 Stat. 3681.
 
 #### Amendments
 
+2007—Subsec. (a)(2). Pub. L. 109–482 substituted “sections 282(b)(16)” for “sections 282(b)(6)” in concluding provisions.
+
 1993—Subsec. (c). Pub. L. 103–43 added subsec. (c).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

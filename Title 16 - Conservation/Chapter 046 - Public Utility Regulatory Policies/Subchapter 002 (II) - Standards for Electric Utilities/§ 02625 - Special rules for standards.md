@@ -44,7 +44,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 (2) In making a review under subparagraph (B) of paragraph (1) with respect to an electric utility, the reviewing authority shall examine and, if appropriate, cause to be audited the practices of such electric utility relating to costs subject to an automatic adjustment clause, and shall require such reports as may be necessary to carry out such review (including a disclosure of any ownership or corporate relationship between such electric utility and the seller to such utility of fuel, electric energy, or other items).
 
-(3) As used in this subsection and section 2623(b) of this title, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflectingincreases or decreases (or both) in costs incurred by an electric utility. Such term does not include an interim rate which takes effect subject to a later determination of the appropriate amount of the rate.
+(3) As used in this subsection and section 2623(b) of this title, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include an interim rate which takes effect subject to a later determination of the appropriate amount of the rate.
 
 #### (f) Information to consumers
 
@@ -106,7 +106,7 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 #### (i) Time-based metering and communications
 
-In making a determination with respect to the standard established by section 2621(d)(14) of this title, the investigation requirement of section 2621(d)(14)(F) of this title shall be as follows: Each State regulatory authority shall conduct an investigation and issue a decision whether or not it is appropriate for electric utilities to provide and install time-based metersand communications devices for each of their customers which enable such customers to participate in time-based pricing rate schedules and other demand response programs.
+In making a determination with respect to the standard established by section 2621(d)(14) of this title, the investigation requirement of section 2621(d)(14)(F) of this title shall be as follows: Each State regulatory authority shall conduct an investigation and issue a decision whether or not it is appropriate for electric utilities to provide and install time-based meters and communications devices for each of their customers which enable such customers to participate in time-based pricing rate schedules and other demand response programs.
 
 (Pub. L. 95–617, title I, §115, Nov. 9, 1978, 92 Stat. 3125; Pub. L. 109–58, title XII, §1252(b), Aug. 8, 2005, 119 Stat. 965.)
 

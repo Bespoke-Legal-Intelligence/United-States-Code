@@ -54,7 +54,7 @@ As used in this subchapter—
 
 (<i>o</i>) “Prevailing party” has the same meaning as such term has in section 1988 of this title.
 
-(Pub. L. 90–284, title VIII, §802, Apr. 11, 1968, 82 Stat. 81; Pub. L. 95–598, title III, §331, Nov. 6,1978, 92 Stat. 2679; Pub. L. 100–430, §5, Sept. 13, 1988, 102 Stat. 1619.)
+(Pub. L. 90–284, title VIII, §802, Apr. 11, 1968, 82 Stat. 81; Pub. L. 95–598, title III, §331, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 100–430, §5, Sept. 13, 1988, 102 Stat. 1619.)
 
 #### Amendments
 

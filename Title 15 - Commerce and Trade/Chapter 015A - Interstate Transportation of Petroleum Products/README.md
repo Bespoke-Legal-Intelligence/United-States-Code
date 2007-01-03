@@ -7,21 +7,11 @@
 | [715b.](%C2%A7%2000715b%20-%20Interstate%20transportation%20of%20contraband%20oil%20forbidden.md) | Interstate transportation of contraband oil forbidden. |
 | [715c.](%C2%A7%2000715c%20-%20Suspension%20of%20operation%20of%20section%20715b%20of%20this%20title.md) | Suspension of operation of section 715b of this title. |
 | [715d.](%C2%A7%2000715d%20-%20Enforcement%20of%20chapter.md) | Enforcement of chapter. |
-| (a) | Rules and regulations. |
-| (b) | Certificate of clearance for petroleum and petroleum products. |
-| (c) | Review of order of denial of certificate of clearance. |
 | [715e.](%C2%A7%2000715e%20-%20Penalties%20for%20violation%20of%20chapter.md) | Penalties for violation of chapter. |
 | [715f.](%C2%A7%2000715f%20-%20Forfeiture%20of%20contraband%20oil%20shipped%20in%20violation%20of%20law%3B%20procedure.md) | Forfeiture of contraband oil shipped in violation of law; procedure. |
-| (a) | Seizure procedure; return of contraband oil. |
-| (b) | Certificates of clearance. |
 | [715g.](%C2%A7%2000715g%20-%20Refusal%20of%20carrier%20to%20accept%20shipment%20without%20certificate%20of%20clearance%3B%20certificate%20as%20justifying%20acceptance%20of%20shipment.md) | Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment. |
 | [715h.](%C2%A7%2000715h%20-%20Hearings%20and%20investigation%20by%20boards%3B%20appointment%20of%20board%20and%20employees.md) | Hearings and investigation by boards; appointment of board and employees. |
-| (a) | Hearings. |
-| (b) | Appointments. |
 | [715i.](%C2%A7%2000715i%20-%20Restraining%20violations.md) | Restraining violations. |
-| (a) | Mandatory injunction upon application of President. |
-| (b) | Discretionary action in district court to enjoin acts or practices. |
-| (c) | Exclusive jurisdiction of district court; review. |
 | [715j.](%C2%A7%2000715j%20-%20%E2%80%9CPresident%E2%80%9D%20as%20including%20agencies%2C%20officers%20and%20employees.md) | “President” as including agencies, officers and employees. |
 | [715k.](%C2%A7%2000715k%20-%20Saving%20clause.md) | Saving clause. |
 | 715<i>l.</i> | Repealed. |

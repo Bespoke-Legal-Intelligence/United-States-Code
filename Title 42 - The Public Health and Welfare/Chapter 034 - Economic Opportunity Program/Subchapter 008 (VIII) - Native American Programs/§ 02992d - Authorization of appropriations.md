@@ -14,15 +14,17 @@
 
 (2) Such a plan shall be delivered to the Congress not later than 30 days after September 30, 1992.
 
-(e) There are authorized to be appropriated to carry out section 2991b–3 of this title such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.
+(e) There are authorized to be appropriated to carry out section 2991b–3 of this title such sums as may be necessary for each of fiscal years 2008, 2009, 2010, 2011, and 2012.
 
-(Pub. L. 88–452, title VIII, §816, formerly §814, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 95–568, §15, Nov. 2, 1978, 92 Stat. 2439; Pub. L. 98–558, title X, §1005, Oct. 30, 1984, 98 Stat. 2906; renumbered §816 and amended Pub. L. 100–175, title V, §§502(2), 505, 506(b), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 100–581, title II, §215, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–408, §3, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(15)–(20), Sept. 30, 1992, 106 Stat. 1299; Pub. L. 102–497, §9(c), Oct. 24, 1992, 106 Stat. 3258; Pub. L. 102–524, §3, Oct. 26, 1992, 106 Stat. 3437; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 105–361, §2, Nov. 10, 1998, 112 Stat. 3278.)
+(Pub. L. 88–452, title VIII, §816, formerly §814, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 95–568, §15, Nov. 2, 1978, 92 Stat. 2439; Pub. L. 98–558, title X, §1005, Oct. 30, 1984, 98 Stat. 2906; renumbered §816 and amended Pub. L. 100–175, title V, §§502(2), 505, 506(b), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 100–581, title II, §215, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–408, §3, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(15)–(20), Sept. 30, 1992, 106 Stat. 1299; Pub. L. 102–497, §9(c), Oct. 24, 1992, 106 Stat. 3258; Pub. L. 102–524, §3, Oct. 26, 1992, 106 Stat. 3437; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 105–361, §2, Nov. 10, 1998, 112 Stat. 3278; Pub. L. 109–394, §4, Dec. 14, 2006, 120 Stat. 2707.)
 
 #### References in Text
 
 Subsection (e) of this section, referred to in subsecs. (a) and (b), was redesignated subsec. (d) of this section by Pub. L. 103–171, §5(6)(D), Dec. 2, 1993, 107 Stat. 1992.
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–394 substituted “2008, 2009, 2010, 2011, and 2012” for “1999, 2000, 2001, and 2002”.
 
 1998—Subsec. (a). Pub. L. 105–361, §2(1), substituted “for each of fiscal years 1999, 2000, 2001, and 2002.” for “for fiscal years 1992, 1993, 1994, and 1995.”
 

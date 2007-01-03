@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) The producer certifies that the producer has not received cash benefits under any provision of this subchapter other than this part.
 
-&emsp;&emsp;(C) The producer's net farm income (as determined by the Secretary) for the most recent year is less than the producer's net farm income for the latest year in which no adjustment assistance was received by the producer under this part.
+&emsp;&emsp;(C) The producer's net farm income (as determined by the Secretary) for the most recent year is less than the producer's netfarm income for the latest year in which no adjustment assistance was received by the producer under this part.
 
 &emsp;&emsp;(D) The producer certifies that the producer has met with an Extension Service employee or agent to obtain, at no cost to the producer, information and technical assistance that will assist the producer in adjusting to import competition with respect to the adversely affected agricultural commodity, including—
 
@@ -88,13 +88,13 @@ An agricultural commodity producer entitled to receive a cash benefit under this
 
 &emsp;(1) shall not be eligible for any other cash benefit under this subchapter, and
 
-&emsp;(2) shall be entitled to employment services and training benefits under sections 2295 to 2298 of this title.
+&emsp;(2) shall be entitled to employment services and training benefits under division II of subpart B of part 2 of this subchapter.
 
 (Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949; amended Pub. L. 108–429, title II, §2004(a)(9), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part” for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
+2004—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part”for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 108–429, §2004(a)(9)(A)(ii), made technical amendment to reference in original act which appears in text as reference to this subsection.
 

@@ -12,7 +12,7 @@ Personnel Defined.—For purposes of this section, the term “OSD personnel” 
 
 Limitation on Reassignment of Functions.—In carrying out reductions in the number of personnel assigned to, or employed in, the Office of the Secretary of Defense in order to comply with this section, the Secretary of Defense may not reassign functions solely in order to evade the requirements contained in this section.
 
-(Added Pub. L. 105–85, div. A, title IX, §911(d)(1), Nov. 18, 1997, 111 Stat. 1859; amended Pub. L. 106–65, div. A, title IX, §921(c), Oct. 5, 1999, 113 Stat. 723.)
+(Added Pub. L. 105–85, div. A, title IX, §911(d)(1), Nov. 18, 1997, 111 Stat. 1859; amended Pub. L.106–65, div. A, title IX, §921(c), Oct. 5, 1999, 113 Stat. 723.)
 
 #### Codification
 

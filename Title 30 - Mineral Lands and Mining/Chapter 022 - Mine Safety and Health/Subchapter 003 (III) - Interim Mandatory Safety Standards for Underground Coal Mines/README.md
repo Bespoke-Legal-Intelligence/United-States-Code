@@ -20,6 +20,6 @@
 - [&sect; 00873 - Blasting and explosives](%C2%A7%2000873%20-%20Blasting%20and%20explosives.md)
 - [&sect; 00874 - Hoisting and mantrips](%C2%A7%2000874%20-%20Hoisting%20and%20mantrips.md)
 - [&sect; 00875 - Emergency shelters; construction; contents; implementation plans](%C2%A7%2000875%20-%20Emergency%20shelters%3B%20construction%3B%20contents%3B%20implementation%20plans.md)
-- [&sect; 00876 - Communication facilities; locations](%C2%A7%2000876%20-%20Communication%20facilities%3B%20locations.md)
+- [&sect; 00876 - Communication facilities; locations and emergency response plans](%C2%A7%2000876%20-%20Communication%20facilities%3B%20locations%20and%20emergency%20response%20plans.md)
 - [&sect; 00877 - General safety provisions](%C2%A7%2000877%20-%20General%20safety%20provisions.md)
 - [&sect; 00878 - Definitions](%C2%A7%2000878%20-%20Definitions.md)

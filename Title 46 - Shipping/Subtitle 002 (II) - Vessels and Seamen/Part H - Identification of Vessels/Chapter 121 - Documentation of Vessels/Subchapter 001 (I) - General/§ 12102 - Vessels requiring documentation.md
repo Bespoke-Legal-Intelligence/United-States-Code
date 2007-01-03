@@ -1,0 +1,52 @@
+### §12102. Vessels requiring documentation
+
+(a)
+
+In General.—Except as otherwise provided, a vessel may engage in a trade only if the vessel has been issued a certificate of documentation with an endorsement for that trade under this chapter.
+
+(b)
+
+Vessels Less Than 5
+
+Net Tons.—A vessel of less than 5 net tons may engage in a trade without being documented if the vessel otherwise satisfies the requirements to engage in the particular trade.
+
+(c)
+
+Barges.—A barge qualified to engage in the coastwise trade may engage in the coastwise trade, without being documented, on rivers, harbors, lakes (except the Great Lakes), canals, and inland waters.
+
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1492.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+12102(a)
+
+46:12106(b).
+
+&nbsp;
+
+46:12108(b).
+
+&nbsp;
+
+46:12110(a).
+
+12102(b)
+
+46:12102(a) (related to tonnage).
+
+12102(c)
+
+46:12110(b).
+
+#### Prior Provisions
+
+A prior section 12102, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986; Pub. L. 105–277, div. C, title II, §202(a), Oct. 21, 1998, 112 Stat. 2681–617; Pub. L. 105–383, title IV, §§401(a)(1), 421, Nov. 13, 1998, 112 Stat. 3424, 3439; Pub. L. 107–20, title II, §2202(a), July 24, 2001, 115 Stat. 168; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884; Pub. L. 108–136, div. C, title XXXV, §3534(b)(1), Nov. 24, 2003, 117 Stat. 1818, originally derived from section 65b of former Title 46, Shipping, related to vessels eligible for documentation, prior to the general amendment of this chapter by Pub. L. 109–304. See this section and sections 12103, 12111, and 12113 of this title.
+

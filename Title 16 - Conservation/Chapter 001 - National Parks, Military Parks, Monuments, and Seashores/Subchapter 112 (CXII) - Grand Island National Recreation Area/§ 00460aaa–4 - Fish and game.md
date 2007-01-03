@@ -10,7 +10,7 @@ As soon as practicable after each case in which the Secretary exercises authorit
 
 #### (c) Consultation
 
-Except in emergencies, any regulations of the Secretary pursuant to this section shall be put into effect after consultation with the fish and wildlife agency of the State of Michigan.
+Except in emergencies, any regulations of the Secretary pursuant to this section shall be putinto effect after consultation with the fish and wildlife agency of the State of Michigan.
 
 (Pub. L. 101–292, §5, May 17, 1990, 104 Stat. 188.)
 

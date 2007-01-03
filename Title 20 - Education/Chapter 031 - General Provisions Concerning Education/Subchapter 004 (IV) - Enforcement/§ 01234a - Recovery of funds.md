@@ -46,7 +46,7 @@ Parties to the proceeding shall have 30 days to file a petition for review of a 
 
 A decision of the Office regarding the review of a preliminary departmental decision shall become final agency action 60 days after the recipient receives written notice of the decision unless the Secretary either—
 
-&emsp;(1) modifies or sets aside the decision, in whole or in part, in which case the decision ofthe Secretary shall become final agency action when the recipient receives written notice of the Secretary's action, or
+&emsp;(1) modifies or sets aside the decision, in whole or in part, in which case the decision of the Secretary shall become final agency action when the recipient receives written notice of the Secretary's action, or
 
 &emsp;(2) remands the decision to the Office.
 

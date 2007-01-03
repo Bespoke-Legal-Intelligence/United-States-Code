@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) the dairy industry plays a significant role in the economy of the United States, in that milk is produced by thousands of milk producers and dairy products (including fluid milk products) are consumed every day by millions of people in the United States;
 
-&emsp;(4) the processing of milk into fluid milk products and the marketing of such products are important to the dairy industry because the fluid milk segment of the dairy market contributes substantially to ensuring that the prices paid to milk producers for raw milk are stable and adequate to maintain the overall strength of the dairy industry;
+&emsp;(4) the processing of milk into fluid milk products and the marketing of such products are important to the dairy industry becausethe fluid milk segment of the dairy market contributes substantially to ensuring that the prices paid to milk producers for raw milk are stable and adequate to maintain the overall strength of the dairy industry;
 
 &emsp;(5) the maintenance and expansion of markets for fluid milk products are vital to the Nation's fluid milk processors and milk producers, as well as to the general economy of the United States;
 

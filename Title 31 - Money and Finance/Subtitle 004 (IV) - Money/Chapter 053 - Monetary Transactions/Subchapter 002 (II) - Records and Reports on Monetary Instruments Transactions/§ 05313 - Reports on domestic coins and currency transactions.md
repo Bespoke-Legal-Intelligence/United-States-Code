@@ -4,7 +4,7 @@
 
 (b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
 
-(c)(1) A person (except a domestic financial institution designated under subsection (b) of this section) required to file a report under this section shall file the report—
+(c)(1) A person (except a domestic financial institution designated under subsection (b) of thissection) required to file a report under this section shall file the report—
 
 &emsp;(A) with the institution involved in the transaction if the institution was designated;
 
@@ -102,7 +102,7 @@ Coordination with other provisions.—Any exemption granted by the Secretary of 
 
 &emsp;&emsp;(A) the authority of the Secretary, under section 5318(a)(6), to revoke such exemption at any time; and
 
-&emsp;&emsp;(B) any requirement to report, or any authority to require a report on, any possible violation of any law or regulation or any suspected criminal activity.
+&emsp;&emsp;(B) any requirement to report, or any authority to require a report on, any possibleviolation of any law or regulation or any suspected criminal activity.
 
 (g)
 
@@ -146,7 +146,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§221–223, 84 Stat. 1122.
 
 31:1083(b).
 
-In subsection (a), the words “coins or” are added, and the words “prescribe” and “prescribes” are substitutedfor “specify” in 31:1081, and “require”, for consistency. The words “other parties thereto or” in 31:1082 are omitted as surplus. The words “to the Secretary” in 31:1081 are omitted as unnecessary and for clarity. The words “in such detail” are omitted as surplus. The words “A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made” are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
+In subsection (a), the words “coins or” are added, and the words “prescribe” and “prescribes” are substituted for “specify” in 31:1081, and “require”, for consistency. The words “other parties thereto or” in 31:1082 are omitted as surplus. The words “to the Secretary” in 31:1081 are omitted as unnecessary and for clarity. The words “in such detail” are omitted as surplus. The words “A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made” are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
 
 In subsection (b), the words “in his discretion” and “individually or by class” are omitted as surplus. The word “Government” is added for consistency. The words “or a regulation under this subchapter”, are added because of the restatement. The words “(except a violation of section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
 

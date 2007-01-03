@@ -2,7 +2,7 @@
 
 (a)
 
-Entitlement to Recomputation.—An enlisted member or warrant officer of the Army who is advanced on the retired list under section 3964 of this title is entitled to recompute his retired pay in accordance with this section.
+Entitlement to Recomputation.—An enlisted member or warrant officer of the Armywho is advanced on the retired list under section 3964 of this title is entitled to recompute his retired pay in accordance with this section.
 
 (b)
 

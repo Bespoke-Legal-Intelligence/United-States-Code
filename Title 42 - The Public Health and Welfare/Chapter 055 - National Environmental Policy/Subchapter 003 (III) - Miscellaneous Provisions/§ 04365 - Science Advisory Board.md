@@ -24,7 +24,7 @@ The Board is authorized to constitute such member committees and investigative p
 
 #### (f) Appointment and compensation of secretary and other personnel; compensation of members
 
-(1) Upon the recommendation of the Board, the Administrator shall appoint a secretary, and such other employees as deemed necessary to exercise and fulfill the Board's powers and responsibilities. The compensation of all employees appointed under this paragraph shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+(1) Upon the recommendation of the Board, the Administrator shall appoint a secretary, andsuch other employees as deemed necessary to exercise and fulfill the Board's powers and responsibilities. The compensation of all employees appointed under this paragraph shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 (2) Members of the Board may be compensated at a rate to be fixed by the President but not in excess of the maximum rate of pay for grade GS–18, as provided in the General Schedule under section 5332 of title 5.
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 103–437, §15(<i>o</i>)(2), struck out subsec. (d) which 
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives byHouse Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 

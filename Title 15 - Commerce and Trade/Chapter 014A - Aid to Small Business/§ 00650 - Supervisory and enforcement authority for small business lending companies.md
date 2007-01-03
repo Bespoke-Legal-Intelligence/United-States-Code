@@ -26,7 +26,7 @@ The Administrator is authorized—
 
 #### (c) Civil action
 
-If a small business lending company violates this chapter, the Administrator may institute acivil action in an appropriate district court to terminate the rights, privileges, and franchises of the company under this chapter.
+If a small business lending company violates this chapter, the Administrator may institute a civil action in an appropriate district court toterminate the rights, privileges, and franchises of the company under this chapter.
 
 #### (d) Revocation or suspension of loan authority
 

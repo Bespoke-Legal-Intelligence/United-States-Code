@@ -40,7 +40,7 @@
 
 (g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Homeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
 
-(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §111(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §111(a), Dec. 27, 2001, 115Stat. 986; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Pub. L. 107–103, title I, §111(b), Dec. 27, 2001, 115 Stat. 987, provided tha
 
 #### Savings Provision
 
-Section not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29,1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
+Section not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
 
 #### Transfer of Functions
 

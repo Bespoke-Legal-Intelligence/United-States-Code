@@ -124,7 +124,7 @@
 
 (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e),\(h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216.)
 
 #### Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Nondischargeable debts: The House amendment retains the basic categories of nond
 
 In the case of individuals in liquidation under chapter 7 or in reorganization under chapter 11 of title 11, section 1141(d)(2) incorporates by reference the exceptions to discharge continued in section 523. Different rules concerning the discharge of taxes where a partnership or corporation reorganizes under chapter 11, apply under section 1141.
 
-The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment. Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose the prepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
+The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment. Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose theprepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
 
 The House amendment also adopts the Senate amendment provision limiting the nondischargeability of punitive tax penalties, that is, penalties other than those which represent collection of a principal amount of tax liability through the form of a “penalty.” Under the House amendment, tax penalties which are basically punitive in nature are to be nondischargeable only if the penalty is computed by reference to a related tax liability which is nondischargeable or, if the amount of the penalty is not computed by reference to a tax liability, the transaction or event giving rise to the penalty occurred during the 3-year period ending on the date of the petition.
 
@@ -204,7 +204,7 @@ Subsection (a) lists eight kinds of debts excepted from discharge. Taxes that ar
 
 As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
 
-Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) \[section 35(a)(3) of former title 11\], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is exceptedfrom discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
+Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) \[section 35(a)(3) of former title 11\], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is excepted from discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
 
 Paragraph (4) excepts debts for embezzlement or larceny. The deletion of willful and malicious conversion from §17a(2) of the Bankruptcy Act \[section 35(a)(2) of former title 11\] is not intended to effect a substantive change. The intent is to include in the category of non-dischargeable debts a conversion under which the debtor willfully and maliciously intends to borrow property for a short period of time with no intent to inflict injury but on which injury is in fact inflicted.
 
@@ -224,7 +224,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 Section 103 of the Truth in Lending Act, referred to in subsec. (a)(2)(C)(ii)(I), is classified to section 1602 of Title 15, Commerce and Trade.
 
-The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11. Sections 14c and 17a of the Bankruptcy Act were classified to sections 32(c) and 35(a) of former Title 11.
+The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, asamended, which was classified generally to former Title 11. Sections 14c and 17a of the Bankruptcy Act were classified to sections 32(c) and 35(a) of former Title 11.
 
 Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(18)(A), is classified to section 1108(b)(1) of Title 29, Labor.
 
@@ -344,7 +344,7 @@ Subsec. (a)(1)(A). Pub. L. 99–554, §283(j)(1)(A), substituted “507(a)(7)”
 
 Subsec. (a)(5). Pub. L. 99–554, §281, struck out the comma after “decree” and inserted “, determination made in accordance with State or territorial law by a governmental unit,” after “record”.
 
-Subsec. (a)(9), (10). Pub. L. 99–554, §283(j)(1)(B), redesignated par. (9) relating to debts incurred by personsdriving while intoxicated, added by Pub. L. 98–353, as (10).
+Subsec. (a)(9), (10). Pub. L. 99–554, §283(j)(1)(B), redesignated par. (9) relating to debts incurred by persons driving while intoxicated, added by Pub. L. 98–353, as (10).
 
 Subsec. (b). Pub. L. 99–554, §283(j)(2), substituted “Service” for “Services”.
 
@@ -431,6 +431,10 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub. L. 97–35, set out as a note under section 656 of Title 42, The Public Health and Welfare.
+
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (a)(2)(C)(i) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

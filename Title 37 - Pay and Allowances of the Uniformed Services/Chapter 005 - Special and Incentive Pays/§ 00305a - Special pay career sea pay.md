@@ -14,7 +14,7 @@ Premium.—A member of a uniformed service entitled to career sea pay under this
 
 (d)
 
-Regulations.—The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armed forces under the jurisdiction of the Secretary.The entitlements under this section shall be subject to the regulations.
+Regulations.—The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armed forces under the jurisdiction of the Secretary. The entitlements under this section shall be subject to the regulations.
 
 (e)
 
@@ -104,7 +104,7 @@ Subsecs. (c), (d). Pub. L. 96–579 added subsecs. (c) and (d).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000, and shall apply with respect to months beginning on or after that date.”
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000, and shallapply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1991 Amendment
 

@@ -14,7 +14,7 @@ Lease, Sale, or Other Transfer of Additional Copy or Adaptation.—Any exact cop
 
 (c)
 
-Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it isnot an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
+Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it is not an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
 
 &emsp;(1) such new copy is used in no other manner and is destroyed immediately after the maintenance or repair is completed; and
 
@@ -36,7 +36,7 @@ I74house report no. 94–1476
 
 As the program for general revision of the copyright law has evolved, it has become increasingly apparent that in one major area the problems are not sufficiently developed for a definitive legislative solution. This is the area of computer uses of copyrighted works: the use of a work “in conjunction with automatic systems capable of storing, processing, retrieving, or transferring information.” The Commission on New Technological Uses is, among other things, now engaged in making a thorough study of the emerging patterns in this field and it will, on the basis of its findings, recommend definitive copyright provisions to deal with the situation.
 
-Since it would be premature to change existing law on computer uses at present, the purpose of section 117 is to preserve the status quo. It is intended neither to cut off any rights that may now exist, nor to create new rights that might be denied under the Act of 1909 or under common law principles currently applicable.
+Since it would be premature to change existing law on computer uses at present, the purpose of section 117is to preserve the status quo. It is intended neither to cut off any rights that may now exist, nor to create new rights that might be denied under the Act of 1909 or under common law principles currently applicable.
 
 The provision deals only with the exclusive rights of a copyright owner with respect to computer uses, that is, the bundle of rights specified for other types of uses in section 106 and qualified in sections 107 through 116 and 118. With respect to the copyright-ability of computer programs, the ownership of copyrights in them, the term of protection, and the formal requirements of the remainder of the bill, the new statute would apply.
 

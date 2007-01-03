@@ -68,7 +68,7 @@ For purposes of this part, the term “State Pharmaceutical Assistance Program�
 
 #### (4) Special treatment under out-of-pocket rule
 
-&emsp;In applying section 1395w–102(b)(4)(C)(ii) of this title, expenses incurred under a State Pharmaceutical Assistance Program may be counted toward the annual out-of-pocket threshold.
+&emsp;In applying section 1395w–102(b)(4)(C)(ii) of this title, expenses incurred under a StatePharmaceutical Assistance Program may be counted toward the annual out-of-pocket threshold.
 
 #### (5) Construction
 
@@ -100,7 +100,7 @@ For purposes of this part, the term “State Pharmaceutical Assistance Program�
 
 #### (5) Funding
 
-&emsp;Out of any funds in the Treasury not otherwise appropriated, there are appropriated foreach of fiscal years 2005 and 2006, $62,500,000 to carry out this subsection.
+&emsp;Out of any funds in the Treasury not otherwise appropriated, there are appropriated for each of fiscal years 2005 and 2006, $62,500,000 to carry out this subsection.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–23, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2128.)
 

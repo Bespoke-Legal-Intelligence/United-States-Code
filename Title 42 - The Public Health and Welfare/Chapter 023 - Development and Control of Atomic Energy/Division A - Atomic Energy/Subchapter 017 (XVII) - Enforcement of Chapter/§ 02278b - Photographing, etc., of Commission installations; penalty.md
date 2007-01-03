@@ -8,7 +8,3 @@ It shall be an offense, punishable by a fine of not more than $1,000 or imprison
 
 (Aug. 1, 1946, ch. 724, title I, §230, as added Aug. 6, 1956, ch. 1015, §6, 70 Stat. 1070; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

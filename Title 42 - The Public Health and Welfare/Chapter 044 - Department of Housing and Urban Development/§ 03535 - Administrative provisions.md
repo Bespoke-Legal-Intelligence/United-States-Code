@@ -2,7 +2,7 @@
 
 #### (a) Transfer of personnel, assets, etc.
 
-The personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, or other funds held, used, arising from, or available or to be made available in connection with, the functions, powers, and duties transferred by section 3534 of this title are hereby transferred with such functions, powers, and duties, respectively.
+The personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, or other fundsheld, used, arising from, or available or to be made available in connection with, the functions, powers, and duties transferred by section 3534 of this title are hereby transferred with such functions, powers, and duties, respectively.
 
 #### (b) Repealed. Pub. L. 90–448, title VIII, §807(d), Aug. 1, 1968, 82 Stat. 544
 
@@ -12,7 +12,7 @@ The Secretary is authorized, subject to the civil service and classification law
 
 #### (d) Delegation of authority; rules and regulations
 
-The Secretary may delegate any of his functions, powers, and duties to such officers and employees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties ashe may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
+The Secretary may delegate any of his functions, powers, and duties to such officers and employees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
 
 #### (e) Temporary employment of experts or consultants; compensation
 
@@ -34,7 +34,7 @@ Except as such authority is otherwise expressly provided in any other Act admini
 
 Except as such authority is otherwise expressly provided in any other Act administered by the Secretary, the Secretary is authorized to—
 
-&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 5 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
+&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodeland convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 5 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
 
 &emsp;(2) enter into agreements to pay annual sums in lieu of taxes to any State or local taxing authority with respect to any real property so acquired or owned;
 
@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, the Secretary is authorized by contr
 
 (2)(A) Any rule or regulation which is on any agenda submitted under paragraph (1) may not be published for comment prior to or during the 15-calendar day period beginning on the day after the date on which such agenda was transmitted. If within such period, either Committee notifies the Secretary in writing that it intends to review any rule or regulation or portion thereof which appears on the agenda, the Secretary shall submit to both Committees a copy of any such rule or regulation, in the form it is intended to be proposed, at least 15 calendar days prior to its being published for comment in the Federal Register.
 
-(B) Any rule or regulation which has not been published for comment before October 31, 1978, and which does not appear on an agenda submitted under paragraph (1) shall be submitted toboth such Committees at least 15 calendar days prior to its being published for comment.
+(B) Any rule or regulation which has not been published for comment before October 31, 1978, and which does not appear on an agenda submitted under paragraph (1) shall be submitted to both such Committees at least 15 calendar days prior to its being published for comment.
 
 (3) No rule or regulation may become effective until after the expiration of the 30-calendar day period beginning on the day after the day on which such rule or regulation is published as final. Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.
 
@@ -188,13 +188,13 @@ The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pu
 
 The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (<i>o</i>)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revisedgenerally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (r)(2)(E), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 810 of the Act which was classified to section 1706e of Title 12, Banks and Banking, was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec.\(r)(2)(F), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted section 1715z–1a of Title 12, Banks and Banking, and amended section 1715z–1 of Title 12.
+Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (r)(2)(F), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted section 1715z–1a of Title 12, Banks and Banking, and amended section 1715z–1 of Title 12.
 
 The Congregate Housing Services Act of 1978, referred to in subsec. (r)(2)(G), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, as amended, which is classified principally to chapter 89 (§8001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
@@ -244,7 +244,7 @@ Subsec. (r)(4)(A). Pub. L. 101–625, §954(a)(4)(A), inserted “and collecting
 
 Subsec. (r)(4)(B). Pub. L. 101–625, §954(a)(4)(B), inserted “and to collect and maintain data for such purposes” after “paragraph (2)”.
 
-1989—Subsec. (e). Pub. L. 101–235, §141, inserted at end “The Secretary is authorized to enter into contracts with private companies for the provision of such managerial support to the Federal Housing Administrationas the Secretary determines to be appropriate, including but not limited to the management of insurance risk and the improvement of the delivery of mortgage insurance.”
+1989—Subsec. (e). Pub. L. 101–235, §141, inserted at end “The Secretary is authorized to enter into contracts with private companies for the provision of such managerial support to the Federal Housing Administration as the Secretary determines to be appropriate, including but not limited to the management of insurance risk and the improvement of the delivery of mortgage insurance.”
 
 Subsec. (<i>o</i>)(2)(A). Pub. L. 101–235, §123(1), substituted “15-calendar day period beginning on the day” for “first period of 15 calendar days of continuous session of Congress which occurs” and struck out “of continuous session” before “prior to its being published”.
 

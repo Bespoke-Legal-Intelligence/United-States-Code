@@ -56,7 +56,7 @@ If any Indian tribe does not adopt a resolution as provided in subsection (a) of
 
 #### (f) Grants for training, education, and prevention programs
 
-(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to implement and develop community and in-school training, education, and prevention programs on alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
+(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to implement and develop community and in-school training, education, and prevention programs onalcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
 
 (2) Funds provided under this section may be used for, but are not limited to, the development and implementation of tribal programs for—
 

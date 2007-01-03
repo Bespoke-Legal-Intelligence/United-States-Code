@@ -4,7 +4,7 @@
 
 Prohibition.—Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
 
-&emsp;(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A));
+&emsp;(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405 (j)(1)(A));
 
 &emsp;(2) any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), as providing significant support for international terrorism; or
 

@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) the heir of an interest under this subparagraph, unless the heir is a minor or incompetent person, may agree in writing entered into the record of the decedent's probate proceeding to renounce such interest, in trust or restricted status, in favor of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(AA) any other eligible heir or Indian person related to the heir by blood, butin any case never in favor of more than 1 such heir or person;
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) any other eligible heir or Indian person related to the heir by blood, but in any case never in favor of more than 1 such heir or person;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) not more than 1 co-owner of another trust or restricted interest in such parcel of land; or
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a copy of the tribal rule is delivered to the official designated by the Secretary to receive copies of tribal rules for the purposes of this clause;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interest by no more than 1 heir, so that the interest does not further fractionate;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interestby no more than 1 heir, so that the interest does not further fractionate;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the tribal rule does not apply to any interest disposed of by a valid will;
 
@@ -178,7 +178,7 @@
 
 #### (B) In general
 
-&emsp;&emsp;Subject to any applicable Federal law relating to the devise or descent of such trust personalty, or a tribal probate code approved by the Secretary in accordance with section 2205 of this title, the owner of an interest in trust personalty may devise such an interest to any person or entity.
+&emsp;&emsp;Subject to any applicable Federal law relating to the devise or descent of such trustpersonalty, or a tribal probate code approved by the Secretary in accordance with section 2205 of this title, the owner of an interest in trust personalty may devise such an interest to any person or entity.
 
 #### (C) Maintenance as trust personalty
 
@@ -264,7 +264,7 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 &emsp;&emsp;(A) Indian tribes, for purposes of tribal probate code development and estate planning services to tribal members;
 
-&emsp;&emsp;(B) organizations that provide legal assistance services for Indian tribes, Indian organizations, and individual owners of interests in trust or restricted lands that are qualified as nonprofit organizations under section 501(c)(3) of title 26 and provide such services pursuant to Federal poverty guidelines, for purposes of providing civil legal assistance to such Indian tribes, individual owners, and Indian organizations for the development of tribal probate codes, for estate planning services or for other purposes consistent with the services they provide to Indians and Indian tribes; and
+&emsp;&emsp;(B) organizations that provide legal assistance services for Indian tribes, Indian organizations, and individual owners of interests in trust or restricted lands that are qualified as nonprofit organizations under section501(c)(3) of title 26 and provide such services pursuant to Federal poverty guidelines, for purposes of providing civil legal assistance to such Indian tribes, individual owners, and Indian organizations for the development of tribal probate codes, for estate planning services or for other purposes consistent with the services they provide to Indians and Indian tribes; and
 
 &emsp;&emsp;(C) in specific areas and reservations where qualified nonprofit organizations referred to in subparagraph (B) do not provide such legal assistance to Indian tribes, Indian organizations, or individual owners of trust or restricted land, to other providers of such legal assistance;
 
@@ -292,19 +292,19 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 #### (2) No effect on laws
 
-&emsp;Nothing in this chapter amends or otherwise affects the application of any law described in paragraph (1), or any other Federal law that pertains specifically to—
+&emsp;Nothing in this chapter amends or otherwise affects the application of any law specified in paragraph (1), or any other Federal law that pertains specifically to—
 
 &emsp;&emsp;(A) trust or restricted land located on 1 or more specific Indian reservations that are expressly identified in such law; or
 
-&emsp;&emsp;(B) the allotted land (or any interest relating to such land) of 1 or more specific Indian tribes expressly identified in Federal law, including any of the Federal laws governing the probate or determination of heirs associated with, or otherwise relating to, the land, interest in land, or other interests or assets that are owned by individuals in—
+&emsp;&emsp;(B) the allotted land (or any interest relating to such land) of 1 or more specific Indian tribes expressly identified in such law, including any of the Federal laws governing the probate or determination of heirs associated with, or otherwise relating to, the land, interest in land, or other interests or assets that are owned by individuals in—
 
 &emsp;&emsp;&emsp;(i) Five Civilized Tribes restricted fee status; or
 
 &emsp;&emsp;&emsp;(ii) Osage Tribe restricted fee status.
 
-#### (3) Effect of subsection
+#### (3) Limitation on effect of paragraph
 
-&emsp;Except to the extent that this chapter otherwise affects the application of a Federal law described in paragraph (2), nothing in this subsection limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.
+&emsp;Except to the extent that this chapter would amend or otherwise affect the application of a Federal law specified or described in paragraph (1) or (2), nothing in paragraph (2) limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.
 
 #### (h) Rules of interpretation
 
@@ -338,7 +338,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (5) Lapsed devises
 
-&emsp;Subject to the provisions of subsection (b) of this section, where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator's grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies before the testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
+&emsp;Subject to the provisions of subsection (b) of this section, where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator's grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies beforethe testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
 
 #### (6) Void devises
 
@@ -400,7 +400,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (C) Conviction
 
-&emsp;&emsp;Upon conviction of such person, and the exhaustion of all appeals, if any, the trustand restricted land and trust personalty in the estate shall pass in accordance with this subsection.
+&emsp;&emsp;Upon conviction of such person, and the exhaustion of all appeals, if any, the trust and restricted land and trust personalty in the estate shall pass in accordance with this subsection.
 
 #### (7) Broad construction; policy of subsection
 
@@ -418,7 +418,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the surviving spouse of a testator married the testator after the testator executed the will of the testator, the surviving spouse shall receive the intestate share in the decedent's trust or restricted land and trust personalty that the spouse would have received if the testator had died intestate.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the surviving spouse of a testator married thetestator after the testator executed the will of the testator, the surviving spouse shall receive the intestate share in the decedent's trust or restricted land and trust personalty that the spouse would have received if the testator had died intestate.
 
 #### (ii) Exception
 
@@ -478,7 +478,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An individual who is divorced from a decedent, or whose marriage to the decedent has been annulled, shall not be consideredto be a surviving spouse unless, by virtue of a subsequent marriage, the individual is married to the decedent at the time of death of the decedent.
+&emsp;&emsp;&emsp;An individual who is divorced from a decedent, or whose marriage to the decedent has been annulled, shall not be considered to be a surviving spouse unless, by virtue of a subsequent marriage, the individual is married to the decedent at the time of death of the decedent.
 
 #### (ii) Separation
 
@@ -558,7 +558,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (C) Acceptance of interest
 
-&emsp;&emsp;A renunciation or disclaimer of an interest filed in accordance with this paragraph shall be considered accepted when implemented in a final order by a decisionmaker, and shall thereafter be irrevocable. No renunciation or disclaimer of an interest shall be included in such order unless the recipient of the interest has been given notice of the renunciation or disclaimer and has not refused to accept the interest. All disclaimers and renunciations filed and implemented in probate orders made effective prior to October 27, 2004, are hereby ratified.
+&emsp;&emsp;A renunciation or disclaimer of an interest filed in accordance with this paragraph shall be considered accepted when implemented in a final order by a decisionmaker, and shall thereafter be irrevocable. No renunciation ordisclaimer of an interest shall be included in such order unless the recipient of the interest has been given notice of the renunciation or disclaimer and has not refused to accept the interest. All disclaimers and renunciations filed and implemented in probate orders made effective prior to October 27, 2004, are hereby ratified.
 
 #### (D) Rule of construction
 
@@ -738,7 +738,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 &emsp;&emsp;&emsp;(ii) the devisee in trust or restricted status under subsection (b)(1) of this section.
 
-(Pub. L. 97–459, title II, §207, as added Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995; amended Pub. L. 108–374, §§3, 6(a)(2), (4), (e), Oct. 27, 2004, 118 Stat. 1774, 1797, 1800, 1805; Pub. L. 109–157, §4, Dec. 30, 2005, 119 Stat. 2950.)
+(Pub. L. 97–459, title II, §207, as added Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995; amended Pub. L. 108–374, §§3, 6(a)(2), (4), (e), Oct. 27, 2004, 118 Stat. 1774, 1797, 1800, 1805; Pub. L. 109–157, §4, Dec. 30, 2005, 119 Stat. 2950; Pub. L. 109–221, title V, §501(a), May 12, 2006, 120 Stat. 343.)
 
 #### References in Text
 
@@ -763,6 +763,10 @@ Act of July 8, 1940, referred to in subsec. (j)(2)(B)(ii), is act July 8, 1940, 
 A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
 
 #### Amendments
+
+2006—Subsec. (g)(2). Pub. L. 109–221, §501(a)(1), substituted “specified in paragraph (1)” for “described in paragraph (1)” in introductory provisions and “identified in such law” for “identified in Federal law” in subpar. (B).
+
+Subsec. (g)(3). Pub. L. 109–221, §501(a)(2), added par. (3) and struck out former par. (3). Text read as follows: “Except to the extent that this chapter otherwise affects the application of a Federal law described in paragraph (2), nothing in this subsection limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.”
 
 2005—Subsec. (a)(2)(D)(iv)(I)(aa). Pub. L. 109–157, §4(b)(1), substituted “this subparagraph” for “clause (iii)”.
 
@@ -836,7 +840,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 #### Effective Date of 2004 Amendment
 
-Section, except for subsecs. (e) and (f), inapplicable to estate of individual who dies before date that is one year after Secretary makes certification required by section 8(a)(4) of Pub. L. 108–374, see section 8 of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
+Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, except that subsecs. (e) and (f) of this section (as amended by Pub. L. 108–374), subsec. (g) of this section (as in effect on Mar. 1, 2006), and amendment by section 6(a)(4) of Pub. L. 108–374 are applicable as of Oct. 27, 2004, see section 8(b) of Pub. L. 108–374, as amended, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
 
 #### Judicial Review
 

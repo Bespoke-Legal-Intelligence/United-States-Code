@@ -8,7 +8,7 @@
 
 #### (2) Transmittal
 
-&emsp;The Director shall transmit the review, along with a schedule for implementing anyrecommendations the Director accepts and an explanation for rejecting any recommendations, to the Committee on Science of the House of Representatives and the Committee of <sup>1</sup> Commerce, Science, and Transportation of the Senate no later than June 30, 2006.
+&emsp;The Director shall transmit the review, along with a schedule for implementing any recommendations the Director accepts and an explanation for rejecting any recommendations, to the Committee on Science of the House of Representatives and the Committee of <sup>1</sup> Commerce, Science, and Transportation of the Senate no later than June 30, 2006.
 
 #### (b) Plan for funding design and development for major research equipment and facilities construction projects
 

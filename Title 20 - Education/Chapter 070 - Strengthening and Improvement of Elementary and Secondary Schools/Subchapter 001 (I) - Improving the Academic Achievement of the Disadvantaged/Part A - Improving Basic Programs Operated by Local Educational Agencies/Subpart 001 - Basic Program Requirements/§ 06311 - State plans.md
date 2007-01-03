@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\], the Head Start Act \[42 U.S.C. 9831 et seq.\], the Adult Education and Family Literacy Act \[20 U.S.C. 9201 et seq.\], and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\].
+&emsp;For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], the Head Start Act \[42 U.S.C. 9831 et seq.\], the Adult Education and Family Literacy Act \[20 U.S.C. 9201 et seq.\], and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\].
 
 #### (2) Consolidated plan
 
@@ -52,7 +52,7 @@
 
 #### (F) Existing standards
 
-&emsp;&emsp;Nothing in this part shall prohibit a State from revising, consistent with this section, any standard adopted under this part before or after January 8, 2002.
+&emsp;&emsp;Nothing in this part shall prohibit a State from revising, consistent with this section,any standard adopted under this part before or after January 8, 2002.
 
 #### (2) Accountability
 
@@ -112,7 +112,7 @@
 
 #### (E) Starting point
 
-&emsp;&emsp;Each State, using data for the 2001–2002 school year, shall establish the starting point for measuring, under subparagraphs (G) and (H), the percentage of students meeting or exceeding the State's proficient level of academic achievement on the State assessments under paragraph (3) and pursuant to the timeline described in subparagraph (F). The starting point shall be, at a minimum, based on the higher of the percentage of students at the proficient level who are in—
+&emsp;&emsp;Each State, using data for the 2001–2002 school year, shall establish the starting point for measuring, under subparagraphs (G) and (H), the percentage of students meeting or exceeding the State's proficient levelof academic achievement on the State assessments under paragraph (3) and pursuant to the timeline described in subparagraph (F). The starting point shall be, at a minimum, based on the higher of the percentage of students at the proficient level who are in—
 
 &emsp;&emsp;&emsp;(i) the State's lowest achieving group of students described in subparagraph (C)(v)(II); or
 
@@ -120,7 +120,7 @@
 
 #### (F) Timeline
 
-&emsp;&emsp;Each State shall establish a timeline for adequate yearly progress. The timeline shall ensure that not later than 12 years after the end of the 2001–2002 school year, all students in each group described in subparagraph\(C)(v) will meet or exceed the State's proficient level of academic achievement on the State assessments under paragraph (3).
+&emsp;&emsp;Each State shall establish a timeline for adequate yearly progress. The timeline shall ensure that not later than 12 years after the end of the 2001–2002 school year, all students in each group described in subparagraph (C)(v) will meet or exceed the State's proficient level of academic achievement on the State assessments under paragraph (3).
 
 #### (G) Measurable objectives
 
@@ -222,7 +222,7 @@
 
 &emsp;&emsp;&emsp;(x) notwithstanding subclause (III), the academic assessment (using tests written in English) of reading or language arts of any student who has attended school in the United States (not including Puerto Rico) for three or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed two additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
-&emsp;&emsp;&emsp;(xi) include students who have attended schools in a local educational agency for a full academic year but have not attended a single school for a full academic year, except that the performance of students who have attended more than 1 school in the local educational agency in any academic year shall be used only in determining the progress of the local educational agency;
+&emsp;&emsp;&emsp;(xi) include students who have attended schools in a local educational agency for a full academic year but have not attended a single school for a full academic year, except that the performance of students whohave attended more than 1 school in the local educational agency in any academic year shall be used only in determining the progress of the local educational agency;
 
 &emsp;&emsp;&emsp;(xii) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii) that allow parents, teachers, and principals to understand and address the specific academic needs of students, and include information regarding achievement on academic assessments aligned with State academic achievement standards, and that are provided to parents, teachers, and principals, as soon as is practicably possible after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
@@ -266,7 +266,7 @@
 
 #### (7) Academic assessments of English language proficiency
 
-&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students’ oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the State educational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
+&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students’ oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the Stateeducational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
 
 #### (8) Requirement
 
@@ -274,7 +274,7 @@
 
 &emsp;&emsp;(A) how the State educational agency will assist each local educational agency and school affected by the State plan to develop the capacity to comply with each of the requirements of sections 6312(c)(1)(D), 6314(b), and 6315(c) of this title that is applicable to such agency or school;
 
-&emsp;&emsp;(B) how the State educational agency will assist each local educational agency and school affected by the State plan to provideadditional educational assistance to individual students assessed as needing help to achieve the State's challenging academic achievement standards;
+&emsp;&emsp;(B) how the State educational agency will assist each local educational agency and school affected by the State plan to provide additional educational assistance to individual students assessed as needing help to achieve the State's challenging academic achievement standards;
 
 &emsp;&emsp;(C) the specific steps the State educational agency will take to ensure that both schoolwide programs and targeted assistance schools provide instruction by highly qualified instructional staff as required by sections 6314(b)(1)(C) and 6315(c)(1)(E) of this title, including steps that the State educational agency will take to ensure that poor and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers, and the measures that the State educational agency will use to evaluate and publicly report the progress of the State educational agency with respect to such steps;
 
@@ -376,7 +376,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (2) Additional information
 
-&emsp;If significant changes are made to a State's plan, such as the adoption of new State academic content standards and State student achievement standards, new academic assessments, or a new definition of adequate yearly progress, such information shall be submitted to the Secretary.
+&emsp;If significant changes are made to a State's plan, such as the adoption of new State academic content standards and State student achievement standards, new academic assessments, or a new definition of adequate yearlyprogress, such information shall be submitted to the Secretary.
 
 #### (g) Penalties
 
@@ -454,7 +454,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than the beginning of the 2002–2003 school year, a local educational agency that receives assistance under this part shall prepare and disseminate an annual local educational agency report card, except that the State educational agency may provide the local educational agency 1 additional year if the local educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency, preventedfull implementation of this paragraph by that deadline and that the local educational agency will complete implementation within the additional 1-year period.
+&emsp;&emsp;&emsp;Not later than the beginning of the 2002–2003 school year, a local educational agency that receives assistance under this part shall prepare and disseminate an annual local educational agency report card, except that the State educational agency may provide the local educational agency 1 additional year if the local educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency, prevented full implementation of this paragraph by that deadline and that the local educational agency will complete implementation within the additional 1-year period.
 
 #### (ii) Special rule
 
@@ -566,19 +566,19 @@ In determining the assessments to be used by each operated or funded by BIA scho
 
 &emsp;(3) Each such school that is accredited by a tribal accrediting agency or tribal division of education shall use an assessment developed by such agency or division, except that the Secretary of the Interior shall ensure that such assessment meets the requirements of this section.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (a)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Head Start Act, referred to in subsec. (a)(1), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Adult Education and Family Literacy Act, referred to in subsec. (a)(1), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Education Flexibility Partnership Act of 1999, referred to in subsec. (c)(12), is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41, as amended, which enacted sections 5891a and 5891b of this title, amended section 1415 of this title, and enacted provisions set out as notes under sections 1415 and 5891a of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 5801 of this title and Tables.
 
@@ -591,6 +591,8 @@ A prior section 6311, Pub. L. 89–10, title I, §1111, as added Pub. L. 103–3
 A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
 2004—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted “section 612(a)(16)(A)” for “section 612(a)(17)(A)”.
 

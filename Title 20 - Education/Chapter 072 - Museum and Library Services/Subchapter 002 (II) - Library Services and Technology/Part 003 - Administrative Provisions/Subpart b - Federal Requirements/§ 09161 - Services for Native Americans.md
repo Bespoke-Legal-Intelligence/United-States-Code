@@ -2,7 +2,7 @@
 
 From amounts reserved under section 9131(a)(1)(A) of this title for any fiscal year the Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in section 7517 of this title) to enable such tribes and organizations to carry out the activities described in section 9141 of this title.
 
-(Pub. L. 94–462, title II, §261, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §6, Dec. 1, 1997, 111 Stat. 2549;Pub. L. 107–110, title VII, §702(d), Jan. 8, 2002, 115 Stat. 1947.)
+(Pub. L. 94–462, title II, §261, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §6, Dec. 1, 1997, 111 Stat. 2549; Pub. L. 107–110, title VII, §702(d), Jan. 8, 2002, 115 Stat. 1947.)
 
 #### Amendments
 

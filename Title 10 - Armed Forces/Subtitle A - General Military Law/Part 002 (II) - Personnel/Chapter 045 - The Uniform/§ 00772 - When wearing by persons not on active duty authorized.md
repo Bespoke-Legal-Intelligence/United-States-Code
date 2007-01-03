@@ -126,7 +126,7 @@ June 21, 1930, ch. 563, §2; restated Aug. 4, 1949, ch. 393, §12, 63 Stat. 559;
 
 In subsections (a), (b), (d), (f), (g), (h), (i), and (j), the rules stated in the corresponding clauses of the first proviso of the first paragraph, and the last proviso of the last paragraph, of 10:1393, are restated to make positive the authority of the persons described in those subsections to wear the uniform prescribed for the appropriate organization or activity.
 
-In subsection (c), the words “bear the title”, in 34:43g(i), applicable only to retired officers of the Navy Nurse Corps, are made applicable to other retired officers, to make explicit what has heretofore been implicit, that a retired officer may continue to bear the title of his retired grade.
+In subsection (c), the words “bear the title”, in 34:43g(i), applicable only to retired officers of the NavyNurse Corps, are made applicable to other retired officers, to make explicit what has heretofore been implicit, that a retired officer may continue to bear the title of his retired grade.
 
 In subsection (e), the words between the second and third semicolons of the first proviso of the first paragraph of 10:1393 are omitted as superseded by 10:1028b and 34:399d, which authorize the wearing of the uniform by members who are discharged honorably or under honorable conditions. The words “when authorized by regulations prescribed by” are substituted for the words “occasions authorized by regulations of”.
 

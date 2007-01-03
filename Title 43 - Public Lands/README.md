@@ -1,5 +1,5 @@
 
-43 U.S.C.<br>United States Code, 2005 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
+43 U.S.C.<br>United States Code, 2006 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 43—PUBLIC LANDS
 
@@ -40,7 +40,7 @@
 | [<b>27.</b>](Chapter%20027%20-%20Public%20Lands%20in%20Oklahoma/README.md) | <b>Public Lands in Oklahoma</b> | <b>1091</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Miscellaneous%20Provisions%20Relating%20to%20Public%20Lands/README.md) | <b>Miscellaneous Provisions Relating to Public Lands</b> | <b>1151</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Submerged%20Lands/README.md) | <b>Submerged Lands</b> | <b>1301</b> |
-| [<b>30.</b>](Chapter%20030%20-%20Administration%20of%20Public%20Lands/README.md) | <b>Administration of Public Lands \[Repealed or Omitted\]</b> | <b>1361</b> |
+| [<b>30.</b>](Chapter%20030%20-%20Administration%20of%20Public%20Lands/README.md) | <b>Administration of Public Lands</b> | <b>1361</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Department%20of%20the%20Interior/README.md) | <b>Department of the Interior</b> | <b>1451</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Colorado%20River%20Basin%20Project/README.md) | <b>Colorado River Basin Project</b> | <b>1501</b> |
 | [<b>32A.</b>](Chapter%20032A%20-%20Colorado%20River%20Basin%20Salinity%20Control/README.md) | <b>Colorado River Basin Salinity Control</b> | <b>1571</b> |
@@ -54,7 +54,8 @@
 | [<b>38.</b>](Chapter%20038%20-%20Crude%20Oil%20Transportation%20Systems/README.md) | <b>Crude Oil Transportation Systems</b> | <b>2001</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Abandoned%20Shipwrecks/README.md) | <b>Abandoned Shipwrecks</b> | <b>2101</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Reclamation%20States%20Emergency%20Drought%20Relief/README.md) | <b>Reclamation States Emergency Drought Relief</b> | <b>2201</b> |
-| [<b>41.</b>](Chapter%20041%20-%20Federal%20Land%20Transaction%20Facilitation/README.md) | <b>Federal Land Transaction Facilitation</b> | <b>2301.</b> |
+| [<b>41.</b>](Chapter%20041%20-%20Federal%20Land%20Transaction%20Facilitation/README.md) | <b>Federal Land Transaction Facilitation</b> | <b>2301</b> |
+| [<b>42.</b>](Chapter%20042%20-%20Rural%20Water%20Supply/README.md) | <b>Rural Water Supply</b> | <b>2401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -113,3 +114,4 @@
 - [Chapter 039 - Abandoned Shipwrecks](Chapter%20039%20-%20Abandoned%20Shipwrecks/README.md)
 - [Chapter 040 - Reclamation States Emergency Drought Relief](Chapter%20040%20-%20Reclamation%20States%20Emergency%20Drought%20Relief/README.md)
 - [Chapter 041 - Federal Land Transaction Facilitation](Chapter%20041%20-%20Federal%20Land%20Transaction%20Facilitation/README.md)
+- [Chapter 042 - Rural Water Supply](Chapter%20042%20-%20Rural%20Water%20Supply/README.md)

@@ -6,7 +6,7 @@ The Commission shall have a personnel and administration committee composed of t
 
 #### (b) Committee functions
 
-All decisions pertaining to the hiring, firing, and fixing of pay of personnel of the Commission shall be by a majority vote of the personnel and administration committee, except that—
+All decisions pertaining to the hiring, firing, and fixing of pay of personnel of the Commissionshall be by a majority vote of the personnel and administration committee, except that—
 
 &emsp;(1) the Chairman shall be entitled to appoint and fix the pay of the staff director, and the Cochairman shall be entitled to appoint and fix the pay of the Cochairman's senior staff member; and
 
@@ -20,7 +20,7 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 #### (d) Qualifications of professional staff
 
-The personnel and administration committee shall ensure that the professional staff of theCommission consists of persons with expertise in areas including human rights, internationally recognized worker rights, international economics, law (including international law), rule of law and other foreign assistance programming, Chinese politics, economy and culture, and the Chinese language.
+The personnel and administration committee shall ensure that the professional staff of the Commission consists of persons with expertise in areas including human rights, internationally recognized worker rights, international economics, law (including international law), rule of law and other foreign assistance programming, Chinese politics, economy and culture, and the Chinese language.
 
 #### (e) Commission employees as congressional employees
 

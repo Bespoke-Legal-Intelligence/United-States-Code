@@ -32,7 +32,7 @@ If the owner or master of such vessel furnishes good and sufficient evidence tha
 
 &emsp;(3) such equipments, or parts thereof, or materials, or labor, were used as dunnage for cargo, or for the packing or shoring thereof, or in the erection of temporary bulkheads or other similar devices for the control of bulk cargo, or in the preparation (without permanent repair or alteration) of tanks for the carriage of liquid cargo;
 
-> then the Secretary of the Treasury is authorized to remit or refund such duties, and such vessel shall not be liable to forfeiture, and no license or enrollment and license, or renewal of either, shall hereafter be issued to any such vessel untilthe collector to whom application is made for the same shall be satisfied, from the oath of the owner or master, that all such equipments or parts thereof or materials and repairs made within the year immediately preceding such application have been duly accounted for under the provisions of this section, and the duties accruing thereon duly paid; and if such owner or master shall refuse to take such oath, or take it falsely, the vessel shall be seized and forfeited.
+> then the Secretary of the Treasury is authorized to remit or refund such duties, and such vessel shall not be liable to forfeiture, and no license or enrollment and license, or renewal of either, shall hereafter be issued to any such vessel until the collector to whom application is made for the same shall be satisfied, from the oath of the owner or master, that all such equipments or parts thereof or materials and repairs made within the year immediately preceding such application have been duly accounted for under the provisions of this section, and the duties accruing thereon duly paid; and if such owner or master shall refuse to take such oath, or take it falsely, the vessel shall be seized and forfeited.
 
 #### (e) Exclusions for arrivals two or more years after last departure
 
@@ -70,11 +70,11 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 &emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country; or
 
-&emsp;(4) the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas.
+&emsp;(4) the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas, in foreign waters, or in a foreign port, and does not involve foreign shipyard repairs by foreign labor.
 
 > Declaration and entry shall not be required with respect to the installation, equipment, parts, and materials described in paragraph (4).
 
-(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub. L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 108–429, title I, §1554(a), Dec. 3, 2004, 118 Stat. 2578.)
+(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub. L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec.8, 1994, 108 Stat. 4825; Pub. L. 108–429, title I, §1554(a), Dec. 3, 2004, 118 Stat. 2578; Pub. L. 109–280, title XIV, §1631(a), Aug. 17, 2006, 120 Stat. 1164.)
 
 #### References in Text
 
@@ -85,6 +85,8 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
 
 #### Amendments
+
+2006—Subsec. (h)(4). Pub. L. 109–280 added par. (4) and struck out former par. (4) which read as follows: “the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas.”
 
 2004—Subsec. (h). Pub. L. 108–429 added par. (4) and concluding provisions.
 
@@ -107,6 +109,10 @@ Subsec. (g). Pub. L. 96–609 added subsec. (g).
 Subsecs. (b) to (e). Pub. L. 95–410, §206(2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
 1971—Subsec. (c). Pub. L. 91–654 added subsec. (c).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title XIV, §1631(c), Aug. 17, 2006, 120 Stat. 1165, provided that: “The amendments made by this section \[amending this section\] apply to vessel equipment, repair parts, and materials installed on or after April 25, 2001.”
 
 #### Effective Date of 2004 Amendment
 

@@ -58,7 +58,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Board \[Surface Transportation Board\], any other authorized official, a court of competent jurisdiction, or operation of law. The Board shall promptly rescind all regulations established by the Interstate Commerce Commission that are based onprovisions of law repealed and not substantively reenacted by this Act.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Board \[Surface Transportation Board\], any other authorized official, a court of competent jurisdiction, or operation of law. The Board shall promptly rescind all regulations established by the Interstate Commerce Commission that are based on provisions of law repealed and not substantively reenacted by this Act.
 
 “(b)
 
@@ -72,7 +72,7 @@ Proceedings.—(1) The provisions of this Act shall not affect any proceedings o
 
 “(C) Any proceeding involving the merger of a motor carrier property under subtitle IV of title 49, United States Code, shall continue to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section, until completion of such proceeding.
 
-“(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 App. U.S.C. 843 et seq.\] or the Shipping Act, 1916 \[46 App. U.S.C. 801 et seq.\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
+“(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 U.S.C. App. 843 et seq.\] or the Shipping Act, 1916 \[former 46 U.S.C. App. 801 et seq., see Disposition Table preceding section 101 of Title 46, Shipping\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
 
 “(c)
 

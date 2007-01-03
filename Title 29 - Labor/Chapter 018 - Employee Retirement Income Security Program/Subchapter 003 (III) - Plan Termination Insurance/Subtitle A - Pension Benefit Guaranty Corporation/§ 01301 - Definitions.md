@@ -120,7 +120,11 @@
 
 &emsp;(B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary's delegate.
 
-(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034.)
+(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §107(b)(1), Aug. 17, 2006, 120 Stat. 819.)
+
+#### Amendment of Subsection (a)(13)
+
+<i>Pub. L. 109–280, title I, §107(b)(1), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (a)(13) of this section is amended by substituting “1082(b)(1)” for “1082(c)(11)(A)”, “1082(b)(2)” for “1082(c)(11)(B)”, “412(b)(1)” for “412(c)(11)(A)”, and “412(b)(2)” for “412(c)(11)(B)”.</i>
 
 #### References in Text
 
@@ -182,7 +186,7 @@ Subsec. (a)(14). Pub. L. 99–272, §11004(a)(2)–(4), added par. (14).
 
 Subsec. (a)(15) to (21). Pub. L. 99–272, §11004(a)(2)–(4), added pars. (15) to (21).
 
-Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck out amendments by Pub. L. 96–364, §402(a)(1)(F), which hadbeen executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
+Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck out amendments by Pub. L. 96–364, §402(a)(1)(F), which had been executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
 
 1980—Subsec. (a)(2). Pub. L. 96–364, §402(a)(1)(A), inserted provision excepting multiemployer plan.
 
@@ -195,6 +199,10 @@ Subsec. (a)(7). Pub. L. 96–364, §402(a)(1)(D), inserted reference to section 
 Subsec. (a)(8) to (12). Pub. L. 96–364, §402(a)(1)(E), added pars. (8) to (12).
 
 Subsec. (b). Pub. L. 96–364, §402(a)(1)(F), which was executed by designating existing provisions as par. (1) and adding pars. (2) to (4), notwithstanding directory language that pars. (2) to (4) be added at end of subsec. (c)(1) as redesignated, was struck out by Pub. L. 99–272, §11004(b). See 1986 Amendment note above.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -221,6 +229,10 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
+
+#### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
+
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Coordination of Internal Revenue Code of 1986 With Employee Retirement Income Security Act of 1974
 

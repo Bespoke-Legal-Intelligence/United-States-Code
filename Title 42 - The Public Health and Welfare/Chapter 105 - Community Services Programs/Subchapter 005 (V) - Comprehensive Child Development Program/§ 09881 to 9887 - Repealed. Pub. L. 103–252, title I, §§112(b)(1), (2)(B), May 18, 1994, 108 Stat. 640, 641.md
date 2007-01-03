@@ -8,7 +8,7 @@ Section 9883, Pub. L. 97–35, title VI, §670P, as added Pub. L. 100–297, tit
 
 Section 9884, Pub. L. 97–35, title VI, §670Q, as added Pub. L. 100–297, title II, §2503, Apr. 28, 1988, 102 Stat. 329, directed Secretary to continually evaluate projects under this subchapter.
 
-Section 9885, Pub. L. 97–35, title VI, §670R, as added Pub. L. 100–297, title II, §2503, Apr. 28, 1988, 102 Stat. 329,directed Secretary to carry out this subchapter through the administrative entity used to carry out subchapter II of this chapter.
+Section 9885, Pub. L. 97–35, title VI, §670R, as added Pub. L. 100–297, title II, §2503, Apr. 28, 1988, 102 Stat. 329, directed Secretary to carry out this subchapter through the administrative entity used to carry out subchapter II of this chapter.
 
 Section 9886, Pub. L. 97–35, title VI, §670S, as added Pub. L. 100–297, title II, §2503, Apr. 28, 1988, 102 Stat. 329; amended Pub. L. 102–119, §26(a), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §391(x), Oct. 20, 1994, 108 Stat. 4025, provided definitions for terms used in this subchapter.
 

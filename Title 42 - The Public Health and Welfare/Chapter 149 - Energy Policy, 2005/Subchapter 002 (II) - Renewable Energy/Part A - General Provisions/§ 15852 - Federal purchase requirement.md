@@ -42,7 +42,7 @@ For purposes of determining compliance with the requirement of this section, the
 
 #### (d) Report
 
-Not later than April 15, 2007, and every 2 years thereafter, the Secretary shall provide a reportto Congress on the progress of the Federal Government in meeting the goals established by this section.
+Not later than April 15, 2007, and every 2 years thereafter, the Secretary shall provide a report to Congress on the progress of the Federal Government in meeting the goals established by this section.
 
 (Pub. L. 109–58, title II, §203, Aug. 8, 2005, 119 Stat. 652.)
 

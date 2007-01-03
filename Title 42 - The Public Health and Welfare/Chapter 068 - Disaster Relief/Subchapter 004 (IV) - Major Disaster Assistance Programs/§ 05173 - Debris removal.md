@@ -20,13 +20,25 @@ The President shall issue rules which provide for recognition of differences exi
 
 The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of debris and wreckage removal carried out under this section.
 
-(Pub. L. 93–288, title IV, §407, formerly §403, May 22, 1974, 88 Stat. 154; renumbered §407 and amended Pub. L. 100–707, title I, §106(c), Nov. 23, 1988, 102 Stat. 4701.)
+#### (e) Expedited payments
+
+#### (1) Grant assistance
+
+&emsp;In making a grant under subsection (a)(2), the President shall provide not less than 50 percent of the President's initial estimate of the Federal share of assistance as an initial payment in accordance with paragraph (2).
+
+#### (2) Date of payment
+
+&emsp;Not later than 60 days after the date of the estimate described in paragraph (1) and not later than 90 days after the date on which the State or local government or owner or operator of a private nonprofit facility applies for assistance under this section, an initial payment described in paragraph (1) shall be paid.
+
+(Pub. L. 93–288, title IV, §407, formerly §403, May 22, 1974, 88 Stat. 154; renumbered §407 and amended Pub. L. 100–707, title I, §106(c), Nov. 23, 1988, 102 Stat. 4701; Pub. L. 109–347, title VI, §610, Oct. 13, 2006, 120 Stat. 1942.)
 
 #### Prior Provisions
 
 A prior section 407 of Pub. L. 93–288 was renumbered section 410 by Pub. L. 100–707 and is classified to section 5177 of this title.
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–347 added subsec. (e).
 
 1988—Subsec. (a)(2). Pub. L. 100–707, §106(c)(2), inserted “or owner or operator of a private nonprofit facility” after “local government”.
 

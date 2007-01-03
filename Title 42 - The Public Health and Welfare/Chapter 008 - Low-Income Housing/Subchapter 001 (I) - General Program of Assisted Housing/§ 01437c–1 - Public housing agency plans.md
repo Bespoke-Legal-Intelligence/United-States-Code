@@ -68,7 +68,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (5) Operation and management
 
-&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housingowned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication of pest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
+&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication of pest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
 
 #### (6) Grievance procedure
 
@@ -150,7 +150,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (16) Civil rights certification
 
-&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
+&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
 
 #### (17) Annual audit
 
@@ -300,7 +300,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 #### (1) In general
 
-&emsp;In providing assistance under this subchapter, a public housing agency shall complywith the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
+&emsp;In providing assistance under this subchapter, a public housing agency shall comply with the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
 
 #### (2) Investigation and enforcement
 
@@ -344,7 +344,7 @@ Interim rule.—Not later than 120 days after the date of the enactment of this 
 
 “(2)
 
-Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section).
+Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], theSecretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section).
 
 “(3)
 

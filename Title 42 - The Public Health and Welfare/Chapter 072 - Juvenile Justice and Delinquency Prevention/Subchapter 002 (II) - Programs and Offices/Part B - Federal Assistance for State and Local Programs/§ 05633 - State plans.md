@@ -22,7 +22,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(III) representatives of public agencies concerned with delinquency prevention or treatment, such as welfare, social services, mental health, education, special education, recreation, and youth services;
 
-&emsp;&emsp;&emsp;&emsp;(IV) representatives of private nonprofit organizations, including persons with a special focus on preserving and strengthening families, parent groups and parent self-help groups, youth development, delinquency prevention and treatment, neglected or dependent children, the quality of juvenile justice, education, and social services for children;
+&emsp;&emsp;&emsp;&emsp;(IV) representatives of private nonprofit organizations, including personswith a special focus on preserving and strengthening families, parent groups and parent self-help groups, youth development, delinquency prevention and treatment, neglected or dependent children, the quality of juvenile justice, education, and social services for children;
 
 &emsp;&emsp;&emsp;&emsp;(V) volunteers who work with delinquents or potential delinquents;
 
@@ -72,7 +72,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(B) contain—
 
-&emsp;&emsp;(i) an analysis of gender-specific services for the prevention and treatment of juvenile delinquency, including the types of such services available and the need for such services;
+&emsp;&emsp;(i) an analysis of gender-specific services for the prevention and treatment of juveniledelinquency, including the types of such services available and the need for such services;
 
 &emsp;&emsp;(ii) a plan for providing needed gender-specific services for the prevention and treatment of juvenile delinquency;
 
@@ -144,7 +144,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(i) encourage courts to develop and implement a continuum of post-adjudication restraints that bridge the gap between traditional probation and confinement in a correctional setting (including expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, and similar programs, and secure community-based treatment facilities linked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
 
-&emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>4</sup> by the Administrator of informationand technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
+&emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>4</sup> by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
 
 &emsp;&emsp;(M) community-based programs and services to work with juveniles, their parents, and other family members during and after incarceration in order to strengthen families so that such juveniles may be retained in their homes;
 
@@ -220,7 +220,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
 
-&emsp;(14) provide for an adequate system of monitoring jails, detention facilities, correctionalfacilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+&emsp;(14) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
 &emsp;(15) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and disability;
 
@@ -324,7 +324,7 @@ Notwithstanding any other provision of law, the Administrator shall establish ap
 
 &emsp;&emsp;(E) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
 
-(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, titleVI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016.)
+(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016.)
 
 #### References in Text
 
@@ -442,7 +442,7 @@ Pub. L. 107–273, §12209(1)(J), amended par. (13) generally. Prior to amendmen
 
 Subsec. (a)(14). Pub. L. 107–273, §12209(1)(S), redesignated par. (15) as (14). Former par. (14) redesignated (13).
 
-Pub. L. 107–273, §12209(1)(K), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
+Pub. L. 107–273, §12209(1)(K), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulationswhich make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
 
 &emsp;“(A)(i) are outside a Standard Metropolitan Statistical Area; and
 
@@ -586,7 +586,7 @@ Subsec. (c)(1). Pub. L. 100–690, §7258(d)(1)–(3), designated existing provi
 
 Subsec. (c)(2) to (4). Pub. L. 100–690, §7258(d)(4), added pars. (2) to (4).
 
-1984—Subsec. (a). Pub. L. 98–473, §626(a)(9), (10), struck out provision after numbered paragraphs which read as follows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in section 3743 of this title. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
+1984—Subsec. (a). Pub. L. 98–473, §626(a)(9), (10), struck out provision after numbered paragraphs which read asfollows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in section 3743 of this title. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
 
 Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted “agency described in section 5671(c)(1) of this title” for “criminal justice council established by the State under section 3742(b)(1) of this title”.
 
@@ -664,7 +664,7 @@ Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclus
 
 Subsec. (a)(10)(E). Pub. L. 96–509, §11(a)(10), clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
 
-Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement ofjuvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
+Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
 
 Subsec. (a)(10)(I). Pub. L. 96–509, §11(a)(12), revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
 

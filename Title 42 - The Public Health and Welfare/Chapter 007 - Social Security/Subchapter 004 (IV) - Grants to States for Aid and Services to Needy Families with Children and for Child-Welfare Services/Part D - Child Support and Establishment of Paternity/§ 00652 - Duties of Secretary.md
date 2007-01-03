@@ -26,7 +26,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;(iii) for such other purposes as the Secretary may find necessary;
 
-&emsp;(5) assist States in establishing adequate reporting procedures and maintain records of the operations of programs established pursuant to this part in each State, and establish procedures to be followed by States for collecting and reporting information required to be provided under this part, and establish uniform definitions (including those necessary to enable the measurement of State compliance with the requirements of this part relating to expedited processes) to be applied in following such procedures;
+&emsp;(5) assist States in establishing adequate reporting procedures and maintain records of the operations of programs established pursuant to this part in each State, and establish procedures to be followed by States for collecting and reporting information required to be provided under this part, and establish uniform definitions (including those necessary toenable the measurement of State compliance with the requirements of this part relating to expedited processes) to be applied in following such procedures;
 
 &emsp;(6) maintain records of all amounts collected and disbursed under programs established pursuant to the provisions of this part and of the costs incurred in collecting such amounts;
 
@@ -154,7 +154,7 @@ The Secretary shall provide such technical assistance to States as he determines
 
 #### (f) Regulations
 
-The Secretary shall issue regulations to require that State agencies administering the child support enforcement program under this part include medical support as part of any child support order and enforce medical support whenever health care coverage is available to the noncustodial parent at a reasonable cost. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX of this chapter with respect to the availability of health insurance coverage.
+The Secretary shall issue regulations to require that State agencies administering the child support enforcement program under this part enforce medical support included as part of a child support order whenever health care coverage is available to the noncustodial parent at a reasonable cost. A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX of this chapter with respect to the availability of health insurance coverage. For purposes of this part, the term “medical support” may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.
 
 #### (g) Performance standards for State paternity establishment programs
 
@@ -162,7 +162,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;(A) 90 percent;
 
-&emsp;(B) for a State with a paternity establishment percentage of not less than 75 percent but less than 90 percent for such fiscal year,the paternity establishment percentage of the State for the immediately preceding fiscal year plus 2 percentage points;
+&emsp;(B) for a State with a paternity establishment percentage of not less than 75 percent but less than 90 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 2 percentage points;
 
 &emsp;(C) for a State with a paternity establishment percentage of not less than 50 percent but less than 75 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 3 percentage points;
 
@@ -186,7 +186,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 > &emsp;bears to the total number of children born out of wedlock and (except as provided in such last sentence) with respect to whom assistance was being provided under the State program funded under part A of this subchapter as of the end of the preceding fiscal year or with respect to whom services were being provided under the State's plan approved under this part as of the end of the preceding fiscal year pursuant to an application submitted under section 654(4)(A)(ii) of this title;
 
-&emsp;(B) the term “statewide paternity establishment percentage” means, with respect to a State for a fiscal year, the ratio (expressed as a percentage) that the total number of minor children—
+&emsp;(B) the term “statewide paternity establishment percentage” means, with respect to aState for a fiscal year, the ratio (expressed as a percentage) that the total number of minor children—
 
 &emsp;&emsp;(i) who have been born out of wedlock, and
 
@@ -212,7 +212,7 @@ The standards required by subsection (a)(1) of this section shall include standa
 
 #### (j) Training of Federal and State staff, research and demonstration programs, and special projects of regional or national significance
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for eachfiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
+Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year) or the amount appropriated under this paragraph <sup>1</sup> for fiscal year 2002, whichever is greater, which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
 
 &emsp;(1) information dissemination and technical assistance to States, training of State and Federal staff, staffing studies, and related activities needed to improve programs under this part (including technical assistance concerning State automated systems required by this part); and
 
@@ -222,17 +222,31 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 #### (k) Denial of passports for nonpayment of child support
 
-(1) If the Secretary receives a certification by a State agency in accordance with the requirements of section 654(31) of this title that an individual owes arrearages of child support in an amount exceeding $5,000, the Secretary shall transmit such certification to the Secretary of State for action (with respect to denial, revocation, or limitation of passports) pursuant to paragraph (2).
+(1) If the Secretary receives a certification by a State agency in accordance with the requirements of section 654(31) of this title that an individual owes arrearages of child support in an amount exceeding $2,500, the Secretary shall transmit such certification to the Secretary of State for action (with respect to denial, revocation, or limitation of passports) pursuant to paragraph (2).
 
 (2) The Secretary of State shall, upon certification by the Secretary transmitted under paragraph (1), refuse to issue a passport to such individual, and may revoke, restrict, or limit a passport issued previously to such individual.
 
 (3) The Secretary and the Secretary of State shall not be liable to an individual for any action with respect to a certification by a State agency under this section.
 
-#### (<i>l</i>) Facilitation of agreements between State agencies and financial institutions
+#### (<i>l</i>) <sup>2</sup> Facilitation of agreements between State agencies and financial institutions
 
 The Secretary, through the Federal Parent Locator Service, may aid State agencies providing services under State programs operated pursuant to this part and financial institutions doing business in two or more States in reaching agreements regarding the receipt from such institutions, and the transfer to the State agencies, of information that may be provided pursuant to section 666(a)(17)(A)(i) of this title, except that any State that, as of July 16, 1998, is conducting data matches pursuant to section 666(a)(17)(A)(i) of this title shall have until January 1, 2000, to allow the Secretary to obtain such information from such institutions that are operating in the State. For purposes of section 3413(d) of title 12, a disclosure pursuant to this subsection shall be considered a disclosure pursuant to a Federal statute.
 
-(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858.)
+#### (<i>l</i>) <sup>2</sup> Comparisons with insurance information
+
+#### (1) In general
+
+&emsp;The Secretary, through the Federal Parent Locator Service, may—
+
+&emsp;&emsp;(A) compare information concerning individuals owing past-due support with information maintained by insurers (or their agents) concerning insurance claims, settlements, awards, and payments; and
+
+&emsp;&emsp;(B) furnish information resulting from the data matches to the State agencies responsible for collecting child support from the individuals.
+
+#### (2) Liability
+
+&emsp;An insurer (including any agent of an insurer) shall not be liable under any Federal or State law to any person for any disclosure provided for under this subsection, or for any other action taken in good faith in accordance with this subsection.
+
+(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147.)
 
 #### References in Text
 
@@ -240,11 +254,15 @@ Parts A and E of this subchapter, referred to in subsecs. (a)(10), (b), and (g)(
 
 The Internal Revenue Code of 1986, referred to in subsec. (b), is classified generally to Title 26, Internal Revenue Code.
 
-#### Codification
-
-Subsec. (a)(4)(A) and (C)(i) are set out in this supplement to update translations appearing in main edition.
-
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–171, §7307(a)(2)(A)(i), (b), (c), substituted “enforce medical support included as part of a child support order” for “include medical support as part of any child support order and enforce medical support”, inserted after first sentence “A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part.”, and inserted at end “For purposes of this part, the term ‘medical support’ may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.”
+
+Subsec. (j). Pub. L. 109–171, §7304, inserted “or the amount appropriated under this paragraph for fiscal year 2002, whichever is greater” before “, which shall be available” in introductory provisions.
+
+Subsec. (k)(1). Pub. L. 109–171, §7303(a), substituted “$2,500” for “$5,000”.
+
+Subsec. (<i>l</i>). Pub. L. 109–171, §7306(a), added subsec. (<i>l</i>) relating to comparisons with insurance information.
 
 1999—Subsec. (a)(7). Pub. L. 106–169 substituted “social security” for “Social Security”.
 
@@ -274,7 +292,7 @@ Pub. L. 105–33, §5540, substituted “subparagraphs (A) and (B)” for “sub
 
 Subsec. (j). Pub. L. 105–33, §5556(c), amended Pub. L. 104–208, §101(e) \[title II, §215\], generally. See 1996 Amendment note below.
 
-Pub. L. 105–33, §5541(a), substituted “which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements,” for “to cover costs incurred by the Secretary” in introductory provisions.
+Pub. L. 105–33, §5541(a), substituted “which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements,”for “to cover costs incurred by the Secretary” in introductory provisions.
 
 1996—Subsec. (a)(1). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial” for “absent” in two places.
 
@@ -412,7 +430,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 Subsec. (a)(4). Pub. L. 98–378, §9(a)(1), substituted “not less often than once every three years (or not less often than annually in the case of any State to which a reduction is being applied under section 603(h)(1) of this title, or which is operating under a corrective action plan in accordance with section 603(h)(2) of this title)” for “not less often than annually”.
 
-Subsec. (a)(10)(C). Pub. L. 98–378, §13(a), amended subpar. (C) generally to include the reporting of additional aspects of child support enforcement. Prior to amendment, subpar. (C) read as follows: “the number of child support cases (with separate identification of the number in which collection of spousal support was involved) in each State during each quarter of the fiscal year last ending before the report is submitted and during each quarter of the preceding fiscal year (including the transitional period beginning July 1, 1976, and ending September 30, 1976, in the case of the first report to which this subparagraph applies), and the disposition of such cases;”.
+Subsec. (a)(10)(C). Pub. L. 98–378, §13(a), amended subpar. (C) generally to include the reporting of additional aspects of child support enforcement. Prior to amendment, subpar. (C) read as follows: “the number of childsupport cases (with separate identification of the number in which collection of spousal support was involved) in each State during each quarter of the fiscal year last ending before the report is submitted and during each quarter of the preceding fiscal year (including the transitional period beginning July 1, 1976, and ending September 30, 1976, in the case of the first report to which this subparagraph applies), and the disposition of such cases;”.
 
 Subsec. (a)(10)(I). Pub. L. 98–378, §13(b), added subpar. (I).
 
@@ -439,6 +457,12 @@ Subsec. (b). Pub. L. 96–265, §402(a), inserted “(or undertaken to be collec
 Subsecs. (d), (e). Pub. L. 96–265, §405(c), (d), added subsecs. (d) and (e).
 
 1977—Subsec. (a)(10). Pub. L. 95–30 substituted “not later than three months after the end of each fiscal year, beginning with the year 1977, submit to the Congress a full and complete report on all activities undertaken pursuant to the provisions of this part, which report shall include, but not be limited to, the following” for “not later than June 30 of each year beginning after December 31, 1975, submit to the Congress a report on all activities undertaken pursuant to the provisions of this part”, substituted a colon for a period at end of provisions thus substituted, and added subpars. (A) to (H).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VII, §7303(c), Feb. 8, 2006, 120 Stat. 145, provided that: “The amendments made by this section \[amending this section and section 654 of this title\] shall take effect on October 1, 2006.”
+
+Amendment by sections 7304, 7306(a) and 7307(a)(2)(A)(i), (b), (c), of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -468,7 +492,7 @@ Amendment by sections 5540, 5541(a), and 5556(c) of Pub. L. 105–33 effective a
 
 #### Effective Date of 1996 Amendments
 
-Section 101(e) \[title II, §215\] of div. A of Pub. L. 104–208, as amended by Pub. L. 105–33, title V, §5556(c), Aug. 5, 1997, 111 Stat. 637, provided in part that: “Amounts available under such sections 452(j) \[subsec. (j) of this section\] and 453(<i>o</i>) \[section 653(<i>o</i>) of this title\] shall be calculated as though the amendments made by this section were effective October 1, 1995.”
+Section 101(e) \[title II, §215\] of div. A of Pub. L. 104–208, as amended by Pub. L. 105–33, title V, §5556(c),Aug. 5, 1997, 111 Stat. 637, provided in part that: “Amounts available under such sections 452(j) \[subsec. (j) of this section\] and 453(<i>o</i>) \[section 653(<i>o</i>) of this title\] shall be calculated as though the amendments made by this section were effective October 1, 1995.”
 
 Amendment by section 108(c)(2)–(9) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
@@ -538,7 +562,7 @@ Section 122(b) of Pub. L. 100–485 provided that: “Not later than 180 days af
 
 #### Implementation of Performance Standards for State Paternity Establishment Programs
 
-Section 111(f)(3) of Pub. L. 100–485 provided that: “The Secretary of Health and Human Services shall collect the data necessary to implement the requirements of section 452(g) of the Social Security Act \[subsec. (g) of this section\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State's paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretary determines that data for the full year are not available.”
+Section 111(f)(3) of Pub. L. 100–485 provided that: “The Secretary of Health and Human Services shall collect the data necessary to implement the requirements of section 452(g) of the Social Security Act \[subsec. (g) of this section\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State's paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretarydetermines that data for the full year are not available.”
 
 #### Requests for Child Support Assistance; Advisory Committee; Promulgation of Regulations
 
@@ -551,4 +575,8 @@ Section 121(b) of Pub. L. 100–485 provided that:
 #### Supplemental Report To Be Submitted to Congress Not Later Than June 30, 1977
 
 Section 504(c) of Pub. L. 95–30 directed Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to this part.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (l) have been enacted.</i>
 

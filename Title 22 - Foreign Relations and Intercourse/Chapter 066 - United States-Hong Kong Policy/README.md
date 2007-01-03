@@ -24,13 +24,7 @@
 |  |  |
 | :--- | ---: |
 | [5721\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005721%20-%20Continued%20application%20of%20United%20States%20law.md) | Continued application of United States law. |
-| (a) | In general. |
-| (b) | International agreements. |
 | [5722\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005722%20-%20Presidential%20order.md) | Presidential order. |
-| (a) | Presidential determination. |
-| (b) | Factor for consideration. |
-| (c) | Publication in Federal Register. |
-| (d) | Termination of suspension. |
 | [5723\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005723%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [5724\.](Subchapter%20002%20%28II%29%20-%20Status%20of%20Hong%20Kong%20in%20United%20States%20Law/%C2%A7%2005724%20-%20Consultation%20with%20Congress.md) | Consultation with Congress. |
 

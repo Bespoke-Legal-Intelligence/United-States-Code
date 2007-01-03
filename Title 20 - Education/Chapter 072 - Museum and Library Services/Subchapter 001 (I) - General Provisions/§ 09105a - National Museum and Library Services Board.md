@@ -66,7 +66,7 @@ There is established within the Institute a board to be known as the “National
 
 #### (A) Treatment of members serving on effective date
 
-&emsp;&emsp;Notwithstanding subsection (b) of this section, each individual who is a member of the National Museum Services Board on September 25, 2003, may, at the individual's election, complete the balance of the individual's term as a member of the Museum and Library Services Board.
+&emsp;&emsp;Notwithstanding subsection (b) of this section, each individual who is a member of theNational Museum Services Board on September 25, 2003, may, at the individual's election, complete the balance of the individual's term as a member of the Museum and Library Services Board.
 
 #### (B) First appointments
 

@@ -22,7 +22,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(B) locations in the United States;
 
-> &emsp;except that, unless the Secretary otherwise specifies in extraordinary circumstances, travel expenses under this paragraph shall be limited to the cost for a member of the Service, and for each member of the family of the member, of 1 round trip during any continuous 2-year tour unbroken by home leave and of 2 round trips during any continuous 3-year tour unbroken by home leave;
+> &emsp;except that, unless the Secretary otherwise specifies in extraordinary circumstances, travel expenses under this paragraph shall be limited to the cost for a member of the Service, and for each member of the family of the member, of 1 round trip during any continuous 2-year tour and of 2 round trips during any continuous 3-year tour;
 
 &emsp;(7) removal of the family members of a member of the Service, and the furniture and household and personal effects (including automobiles) of the family, from a Foreign Service post where there is imminent danger because of the prevalence of disturbed conditions, and the return of such individuals, furniture, and effects to such post upon the cessation of such conditions, or to such other Foreign Service post as may in the meantime have become the post to which the member of the Service has been reassigned;
 
@@ -46,7 +46,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(C) in connection with separation of the member from the Service, except that costs or expenses may not be paid under this subparagraph for storing furniture and household and personal effects for more than 3 months, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days;
 
-&emsp;(13) transporting, for or on behalf of a member of the Service, a privately owned motor vehicle in any case in which the Secretary determines that water, rail, or air transportation of the motor vehicle is necessary or expedient for all or any part of the distance between points of origin and destination, but transportation may be provided under this paragraph for only one motor vehicle of a member during any 48-month period while the member is continuously serving abroad, except that another motor vehicle may be so transported as a replacement for such motor vehicle if such replacement—
+&emsp;(13) transporting, for or on behalf of a member of the Service, a privately owned motor vehicle in any case in which the Secretary determines that water, rail, or air transportation of the motor vehicle is necessary or expedient for all or any part of the distance between points of origin and destination, but transportation may be provided under thisparagraph for only one motor vehicle of a member during any 48-month period while the member is continuously serving abroad, except that another motor vehicle may be so transported as a replacement for such motor vehicle if such replacement—
 
 &emsp;&emsp;(A) is determined, in advance, by the Secretary to be necessary for reasons beyond the control of the member and in the interest of the Government, or
 
@@ -62,9 +62,11 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 > &emsp;except that a payment under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent.
 
-(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387.)
+(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442.)
 
 #### Amendments
+
+2006—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act by striking out “unbroken by home leave” wherever appearing, was executed by striking out those words after “2-year tour” and “3-year tour” in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 2002—Par. (8). Pub. L. 107–228, §315(a), substituted “Service, and members of his or her family,” for “Service”.
 
@@ -80,7 +82,7 @@ Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon “, excep
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation ofsuch amendment is issued by the Secretary.” \[Guidance in the form of a State Department cable was issued Nov. 5, 2002.\]
+Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.” \[Guidance in the form of a State Department cable was issued Nov. 5, 2002.\]
 
 \[For definition of “Secretary” as used in section 315(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

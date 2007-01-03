@@ -24,7 +24,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 &emsp;&emsp;(A) Section 101(a)(15)(A) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(A)).
 
-&emsp;&emsp;(B) Section 204(d)(2) of the Immigration and Nationality Act (8 U.S.C. 1154) (as it will take effect upon the entry into force of the Convention on Protection of Children and Cooperation in Respect to Inter-Country adoption).
+&emsp;&emsp;(B) Section 204(d)(2) of the Immigration and Nationality Act (8 U.S.C. 1154) (as it will take effect upon the entry into force of theConvention on Protection of Children and Cooperation in Respect to Inter-Country adoption).
 
 &emsp;&emsp;(C) Section 212(a)(3)(B)(i)(IV)(bb) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(i)(IV)(bb)).
 
@@ -66,7 +66,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (2) Construction regarding delegation of authority
 
-&emsp;Nothing in this section shall be construed to affect any delegation of authority to the Secretary of State by the President pursuant toany proclamation issued under section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)), consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law.
+&emsp;Nothing in this section shall be construed to affect any delegation of authority to the Secretary of State by the President pursuant to any proclamation issued under section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)), consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law.
 
 #### (e) Assignment of Homeland Security employees to diplomatic and consular posts
 
@@ -144,7 +144,7 @@ Nothing in this section shall be construed to create or authorize a private righ
 
 #### (h) Report
 
-Not later than 120 days after November 25, 2002, the Director of the Office of Science andTechnology Policy shall submit to Congress a report on how the provisions of this section will affect procedures for the issuance of student visas.
+Not later than 120 days after November 25, 2002, the Director of the Office of Science and Technology Policy shall submit to Congress a report on how the provisions of this section will affect procedures for the issuance of student visas.
 
 #### (i) Visa issuance program for Saudi Arabia
 

@@ -4,21 +4,15 @@
 
 The Secretary, acting through the Director of the National Institutes of Health, shall provide administrative support and support services to the Director of the Office and shall ensure that such support takes maximum advantage of existing administrative structures at the agencies of the National Institutes of Health.
 
-#### (b) Evaluation and report
+#### (b) Evaluation
 
-#### (1) Evaluation
+Not later than 5 years after June 10, 1993, the Secretary shall conduct an evaluation to—
 
-&emsp;Not later than 5 years after June 10, 1993, the Secretary shall conduct an evaluation to—
+&emsp;(1) determine the effect of this section on the planning and coordination of the AIDS research programs at the institutes, centers and divisions of the National Institutes of Health;
 
-&emsp;&emsp;(A) determine the effect of this section on the planning and coordination of the AIDS research programs at the institutes, centers and divisions of the National Institutes of Health;
+&emsp;(2) evaluate the extent to which this part has eliminated the duplication of administrative resources among such Institutes, centers and divisions; and
 
-&emsp;&emsp;(B) evaluate the extent to which this part has eliminated the duplication of administrative resources among such Institutes, centers and divisions; and
-
-&emsp;&emsp;(C) provide recommendations concerning future alterations with respect to this part.
-
-#### (2) Report
-
-&emsp;Not later than 1 year after the date on which the evaluation is commenced under paragraph (1), the Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report concerning the results of such evaluation.
+&emsp;(3) provide recommendations concerning future alterations with respect to this part.
 
 #### (c) Definitions
 
@@ -32,11 +26,13 @@ For purposes of this part:
 
 &emsp;(4) The term “Plan” means the plan required in section 300cc–40b(a)(1) of this title.
 
-(July 1, 1944, ch. 373, title XXIII, §2359, as added Pub. L. 103–43, title XVIII, §1803, June 10, 1993, 107 Stat. 198.)
+(July 1, 1944, ch. 373, title XXIII, §2359, as added Pub. L. 103–43, title XVIII, §1803, June 10, 1993, 107 Stat. 198; amended Pub. L. 109–482, title I, §104(b)(2)(F), Jan. 15, 2007, 120 Stat. 3693.)
 
-#### Change of Name
+#### Amendments
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+2007—Subsec. (b). Pub. L. 109–482 substituted “Evaluation” for “Evaluation and report” in heading, struck out par. (1) designation before “Not later than”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “Not later than 1 year after the date on which the evaluation is commenced under paragraph (1), the Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report concerning the results of such evaluation.”
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

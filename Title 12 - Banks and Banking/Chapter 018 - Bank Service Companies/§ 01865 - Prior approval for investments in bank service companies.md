@@ -2,23 +2,29 @@
 
 #### (a) Approval of Federal banking agency
 
-No insured bank shall invest in the capital stock of a bank service company that performs any service under authority of subsection (c), (d), or (e) of section 1864 of this title without prior notice, as determined by the bank's appropriate Federal banking agency.
+No insured depository institution shall invest in the capital stock of a bank service company that performs any service under authority of subsection (c), (d), or (e) of section 1864 of this title without prior notice, as determined by the appropriate Federal banking agency for the insured depository institution.
 
 #### (b) Approval of Board
 
-No insured bank shall invest in the capital stock of a bank service company that performs any service under authority of section 1864(f) of this title and no bank service company shall perform any activity under section 1864(f) of this title without the prior approval of the Board.
+No insured depository institution shall invest in the capital stock of a bank service company that performs any service authorized only under authority of section 1864(f) of this title and no bank service company shall perform any activity authorized only under section 1864(f) of this title without the prior approval of the Board.
 
 #### (c) Considerations in determining approval
 
-In determining whether to approve or deny any application for prior approval or whether to approve or disapprove any notice under this section, the Board or the appropriate Federal banking agency, as the case may be, is authorized to consider the financial and managerial resources and future prospects of the bank or banks and bank service company involved, including the financial capability of the bank to make a proposed investment under this chapter, and possible adverse effects such as undue concentration of resources, unfair or decreased competition, conflicts of interest, or unsafe or unsound banking practices.
+In determining whether to approve or deny any application for prior approval or whether to approve or disapprove any notice under this section, the Board or the appropriate Federal banking agency, as the case may be, is authorized to consider the financial and managerial resources and future prospects of any insured depository institution and bank service company involved, including the financial capability of the insured depository institution to make a proposed investment under this chapter, and possible adverse effects such as undue concentration of resources, unfair or decreased competition, conflicts of interest, or unsafe or unsound banking practices.
 
 #### (d) Failure to act on application for approval
 
 In the event the Board or the appropriate Federal banking agency, as the case may be, fails to act on any application under this section within ninety days of the submission of a complete application to the agency, the application shall be deemed approved.
 
-(Pub. L. 87–856, §5, Oct. 23, 1962, 76 Stat. 1133; Pub. L. 95–630, title III, §308, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 103–325, title III, §323, Sept. 23, 1994, 108 Stat. 2227; Pub. L. 104–208, div. A, title II, §2613(f), Sept. 30, 1996, 110 Stat. 3009–478.)
+(Pub. L. 87–856, §5, Oct. 23, 1962, 76 Stat. 1133; Pub. L. 95–630, title III, §308, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 103–325, title III, §323, Sept. 23, 1994, 108 Stat. 2227; Pub. L. 104–208, div. A, title II, §2613(f), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VI, §602(b)(4), Oct. 13, 2006, 120 Stat. 1980.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–351, §602(b)(4)(A), substituted “insured depository institution” for “insured bank”, struck out “bank's” before “appropriate Federal banking agency”, and inserted “for the insured depository institution” before period at end.
+
+Subsec. (b). Pub. L. 109–351, §602(b)(4)(B), substituted “insured depository institution” for “insured bank” and inserted “authorized only” after “performs any service” and “perform any activity”.
+
+Subsec. (c). Pub. L. 109–351, §602(b)(4)(C), substituted “any insured depository institution” for “the bank or banks” and “capability of the insured depository institution” for “capability of the bank”.
 
 1996—Pub. L. 104–208 substituted “companies” for “corporations” in section catchline and “company” for “corporation” wherever appearing in text.
 

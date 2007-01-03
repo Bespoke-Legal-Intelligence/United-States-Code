@@ -6,7 +6,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 #### (b) Investments
 
-It shall be the duty of the Secretary of the Treasury to invest such portion of the Fund asis not, in his judgment, required to meet current withdrawals. Such investment may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the Fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as of the end of the calendar month next preceding the date of such issue, borne by all interest-bearing obligations of the United States then forming part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 per centum next lower than such average rate. Obligations other than such special obligations may be acquired for the Fund only on such terms as to provide an investment yield not less than the yield which would be required in the case of special obligations if issued to the Fund upon the date of such acquisition. Advances made to the Federal unemployment account pursuant to section 1323 of this title shall not be invested.
+It shall be the duty of the Secretary of the Treasury to invest such portion of the Fund as is not, in his judgment, required to meet current withdrawals. Such investment may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the Fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as of the end of the calendar month next preceding the date of such issue, borne by all interest-bearing obligations of the United States then forming part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 per centum next lower than such average rate. Obligations other than such special obligations may be acquired for the Fund only on such terms as to provide an investment yield not less than the yield which would be required in the case of special obligations if issued to the Fund upon the date of such acquisition. Advances made to the Federal unemployment account pursuant to section 1323 of this title shall not be invested.
 
 #### (c) Sale or redemption of obligations
 
@@ -36,7 +36,7 @@ The Secretary of the Treasury is authorized and directed to pay out of the Fund 
 
 There is hereby established in the Unemployment Trust Fund a Federal unemployment account.
 
-(Aug. 14, 1935, ch. 531, title IX, §904, 49 Stat. 640; June 25, 1938, ch. 680, §10(e)–(g), 52 Stat. 1104, 1105; Oct. 3, 1944, ch. 480, title IV, §401, 58 Stat. 789; Aug. 6, 1947, ch. 510, §5(a), 61 Stat. 794; Aug. 28, 1950, ch. 809, title IV, §404(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(b)–(f), 68 Stat. 673; Pub. L. 85–927, pt. II, §204, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–346, title I, §104(3), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 976; Pub. L. 98–369, div. B, title VI, §2663(d)(3), July 18, 1984, 98 Stat. 1167; Pub. L. 102–318, title V, §531(d)(3), July 3, 1992, 106 Stat. 317.)
+(Aug. 14, 1935, ch. 531, title IX, §904, 49 Stat. 640; June 25, 1938, ch. 680, §10(e)–(g), 52 Stat. 1104, 1105; Oct. 3, 1944, ch. 480, title IV, §401, 58 Stat. 789; Aug. 6, 1947, ch. 510, §5(a), 61 Stat. 794; Aug. 28, 1950, ch. 809, title IV, §404(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(b)–(f), 68 Stat. 673; Pub. L. 85–927, pt. II, §204, Sept. 6, 1958, 72 Stat. 1782;Pub. L. 86–346, title I, §104(3), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 976; Pub. L. 98–369, div. B, title VI, §2663(d)(3), July 18, 1984, 98 Stat. 1167; Pub. L. 102–318, title V, §531(d)(3), July 3, 1992, 106 Stat. 317.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ There is hereby established in the Unemployment Trust Fund a Federal unemploymen
 
 1960—Subsec. (a). Pub. L. 86–778 substituted “with any depositary designated by him for such purpose, or with any Federal Reserve Bank” for “or with any Federal Reserve bank or member bank of the Federal Reserve System designated by him for such purpose”.
 
-Subsec. (b). Pub. L. 86–778 substituted “Second Liberty Bond Act, as amended” and “section 1323” for“section 752 of title 31” and “section 1322(c)”, respectively, and inserted “made” after “Advances”.
+Subsec. (b). Pub. L. 86–778 substituted “Second Liberty Bond Act, as amended” and “section 1323” for “section 752 of title 31” and “section 1322(c)”, respectively, and inserted “made” after “Advances”.
 
 Subsec. (e). Pub. L. 86–778 provided for the maintenance of a separate book account for the employment security administration account and substituted “balance of advances made to the State under section 1321 of this title” for “aggregate of the outstanding advances under section 1321 of this title from the Federal unemployment account” in par. (1) and “balance of advances made under section 1323 of this title to the account” for “aggregate of the outstanding advances from the Treasury to the account pursuant to section 1322(c) of this title”.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–927 effective Sept. 6, 1958, except as otherwise indicated, see section 207(c) of Pub. L. 85–927, set out as a note under section 351 of Title 45, Railroads.
+Amendment by Pub. L. 85–927 effective Sept. 6, 1958, except as otherwise indicated, see section 207(c) of Pub.L. 85–927, set out as a note under section 351 of Title 45, Railroads.
 
 #### Effective Date of 1950 Amendment
 

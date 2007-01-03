@@ -21,3 +21,4 @@ subpart iii—scholarship program and loan repayment program
 - [&sect; 00254r - Grants to States for operation of offices of rural health](%C2%A7%2000254r%20-%20Grants%20to%20States%20for%20operation%20of%20offices%20of%20rural%20health.md)
 - [&sect; 00254s - Native Hawaiian Health Scholarships](%C2%A7%2000254s%20-%20Native%20Hawaiian%20Health%20Scholarships.md)
 - [&sect; 00254t - Demonstration project](%C2%A7%2000254t%20-%20Demonstration%20project.md)
+- [&sect; 00254u - Public health departments](%C2%A7%2000254u%20-%20Public%20health%20departments.md)

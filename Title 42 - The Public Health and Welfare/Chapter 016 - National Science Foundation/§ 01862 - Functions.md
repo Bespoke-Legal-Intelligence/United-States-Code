@@ -42,7 +42,7 @@ The Foundation shall render an annual report to the President for submission on 
 
 #### (g) Support of access to computer networks
 
-In carrying out subsection (a)(4) of this section, the Foundation is authorized to foster and support access by the research and educationcommunities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
+In carrying out subsection (a)(4) of this section, the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
 
 (May 10, 1950, ch. 171, §3, 64 Stat. 149; Pub. L. 85–510, §1, July 11, 1958, 72 Stat. 353; Pub. L. 86–232, §1, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §1, July 18, 1968, 82 Stat. 360; Pub. L. 92–372, §8, Aug. 10, 1972, 86 Stat. 528; Pub. L. 92–484, §10(b), Oct. 13, 1972, 86 Stat. 802; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–99, §12(a), formerly §14(a), Aug. 15, 1977, 91 Stat. 835, renumbered §12(a), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, 99 Stat. 890, 891; Pub. L. 99–383, §7(a), Aug. 21, 1986, 100 Stat. 814; Pub. L. 102–476, §4, Oct. 23, 1992, 106 Stat. 2300; Pub. L. 102–588, title II, §217, Nov. 4, 1992, 106 Stat. 5117; Pub. L. 105–207, title II, §202(e), July 29, 1998, 112 Stat. 875; Pub. L. 107–305, §7, Nov. 27, 2002, 116 Stat. 2375.)
 
@@ -96,7 +96,7 @@ Subsec. (a)(4). Pub. L. 90–407 added par. (4). Former par. (4) redesignated su
 
 Subsec. (a)(5). Pub. L. 90–407 redesignated par. (6) as (5) and provided for the employment of consulting services, by grant or contract, to assist in the evaluation of the status and needs of the various sciences as evidenced by the programs and studies undertaken by agencies of the government, by individuals, and by public and private research groups, and provided for the consideration of the results of such evaluations in the correlation of the Foundation's programs with those undertaken by agencies of the government, as well as those undertaken by individuals and by public and private research groups. Former par. (5) redesignated (3).
 
-Subsec. (a)(6). Pub. L. 90–407 redesignated par. (8) as (6) and provided that the register of scientific and technical personnel shall be current, and authorized the Foundation to analyze and interpret the collected data on the availability of, and the current and projected need for, scientific and technical resources in the United States and to make such information available to other agencies of the government for policy formulation. Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 90–407 redesignated par. (8) as (6) and provided that the register of scientific and technical personnel shall be current, and authorized the Foundation to analyze and interpret the collected data on the availability of, and the current and projected need for, scientific and technical resources in the United States and to make such information availableto other agencies of the government for policy formulation. Former par. (6) redesignated (5).
 
 Subsec. (a)(7). Pub. L. 90–407 added par. (7). Former par. (7), which provided for the establishment of such special commissions as the Board may from to time deem necessary for the purposes of this chapter, was struck out.
 
@@ -110,7 +110,7 @@ Subsec. (c). Pub. L. 90–407 added subsec. (c). Former subsec. (c) redesignated
 
 Subsec. (d). Pub. L. 90–407 redesignated former subsec. (a)(1) as (d) and substituted provisions authorizing the Board and the Director to recommend and encourage national policies promoting basic research and education in the sciences for provisions authorizing and directing the Foundation to develop and encourage such policies.
 
-Subsec. (e). Pub. L. 90–407 redesignated former subsec. (b) as (e), substituted “the foregoing subsections” for“subsection (a) of this section”, “strengthen research” for “strengthen basic research”, and struck out reference to the territories and possessions of the United States.
+Subsec. (e). Pub. L. 90–407 redesignated former subsec. (b) as (e), substituted “the foregoing subsections” for “subsection (a) of this section”, “strengthen research” for “strengthen basic research”, and struck out reference to the territories and possessions of the United States.
 
 Subsec. (f). Pub. L. 90–407 redesignated former subsec. (c) as (f) and struck out provision requiring the report to include the minority views and recommendations if any, of members of the Board.
 
@@ -184,7 +184,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(2) facilitate the participation of qualified scientists and engineers and of undergraduate and graduate students in public activities aimed at the resolution of public policy issues having significant scientific and technical aspects; and
 
-&emsp;“(3) assist nonprofit, citizens, and bona fide public interest groups to acquire necessary scientific and technical expertise in order to improve their comprehension of scientific and technical aspects of public policy issues.
+&emsp;“(3) assist nonprofit, citizens, and bona fide public interest groups to acquire necessary scientific andtechnical expertise in order to improve their comprehension of scientific and technical aspects of public policy issues.
 
 “(b) Awards made pursuant to this section shall, to the extent feasible, include support for—
 
@@ -198,7 +198,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(5) new and existing programs using radio or television to increase public understanding of public policy issues with significant scientific and technical components; and
 
-&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating tothe scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
+&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating to the scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
 
 #### Establishment of “Science for Citizens Program” Conducted in Conjunction With “Public Understanding of Science Program”
 
@@ -240,7 +240,7 @@ Section 7 of Pub. L. 93–96, Aug. 16, 1973, 87 Stat. 316, provided that:
 
 &emsp;“(2) The programs authorized under title IX of the National Defense Education Act of 1958 \[sections 1876 to 1879 of this title\] relating to establishing the Science Information Service.
 
-“(d)(1) Nothing in this Act \[Pub. L. 93–96\], or any Act amended by this Act, shall be construed to prohibit any institution of higher education from refusing to award, continue, or extend any financial assistance under any such Act to any individual because of any misconduct which in its judgment bears adversely on his fitness for such assistance.
+“(d)(1) Nothing in this Act \[Pub. L. 93–96\], or any Act amended by this Act, shall be construed to prohibit any institution of higher education from refusing to award,continue, or extend any financial assistance under any such Act to any individual because of any misconduct which in its judgment bears adversely on his fitness for such assistance.
 
 “(2) Nothing in this section shall be construed as limiting or prejudicing the rights and prerogatives of any institution of higher education to institute and carry out an independent, disciplinary proceeding pursuant to existing authority, practice, and law.
 
@@ -290,7 +290,7 @@ Sec. 8. To facilitate the efficient use of scientific research equipment and fac
 
 (b) a Federal agency shall procure new major equipment or facilities for scientific research purposes only after taking suitable steps to ascertain that the need cannot be met adequately from existing inventories or facilities of its own or of other agencies; and
 
-(c) the Interdepartmental Committee on Scientific Research and Development shall take necessary steps to ensure that each Federal agency engaged directly in scientific research is kept informed of selected major equipment and facilities which could serve the needs of more than one agency. Each Federal agency possessing such equipment and facilities shall maintain appropriate records to assist other agencies in arranging for their joint use or exchange.
+(c) the Interdepartmental Committee on Scientific Research and Development shall take necessary steps to ensure that each Federal agency engaged directly in scientific research is kept informed of selected majorequipment and facilities which could serve the needs of more than one agency. Each Federal agency possessing such equipment and facilities shall maintain appropriate records to assist other agencies in arranging for their joint use or exchange.
 
 Sec. 9. The heads of the respective Federal agencies shall make such reports concerning activities within the purview of this order as may be required by the President.
 

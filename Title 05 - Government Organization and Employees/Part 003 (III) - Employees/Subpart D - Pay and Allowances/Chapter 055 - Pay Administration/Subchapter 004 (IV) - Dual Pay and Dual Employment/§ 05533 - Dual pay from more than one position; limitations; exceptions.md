@@ -6,7 +6,7 @@
 
 (c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in the case of pay disbursed by the Secretary of the Senate).
 
-(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
+(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available forpayment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
 (3) For the purposes of this subsection, “gross pay” means the annual rate of pay (or equivalent thereof in the case of an individual paid on other than an annual basis) received by an individual.
 
@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 93–140 designated existing provisions as par. (1) and add
 
 “(B) the pay of each such position is fixed at a basic rate plus additional compensation authorized by law, and the aggregate basic pay of the positions exceeds $2,000 a year”.
 
-Subsec. (c)(2). Pub. L. 91–510 substituted provision making appropriated funds unavailable for payment to an individual of pay from more than one position, for each of which pay is disbursed by the Clerk of the House, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of clerk hire allowance of a Member of the House for definition of “gross pay”, now incorporated in cl. (3).
+Subsec. (c)(2). Pub. L. 91–510 substituted provision making appropriated funds unavailable for payment to an individual of pay from more than one position, foreach of which pay is disbursed by the Clerk of the House, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of clerk hire allowance of a Member of the House for definition of “gross pay”, now incorporated in cl. (3).
 
 Subsec. (c)(3). Pub. L. 91–510 redesignated former cl. (2) as (3) and deleted provision which included in gross pay of an individual receiving basic pay plus additional compensation provided by law the aggregate amount received as basic and additional compensation, but excluded sums received as premium pay under subchapter V of this chapter.
 
@@ -136,13 +136,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, set out as a note under section 60a–1 of Title 2, The Congress.
+2007—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2007, to the figure “$30,827”, see section 9 of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, set out as a note under section 60a–1 of Title 2, The Congress.
 
-2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under section 60a–1 of Title 2, The Congress.
+2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, formerly set out as a note under section 60a–1 of Title 2.
+
+2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under section 60a–1 of Title 2.
 
 2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of Title 2.
 
-2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, set out as a note under section 60a–1 of Title 2.
+2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, formerly set out as a note under section 60a–1 of Title 2.
 
 2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under section 60a–1 of Title 2.
 
@@ -154,7 +156,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 1998—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure “$23,698”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under section 60a–1 of Title 2.
 
-1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to thefigure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under section 60a–1 of Title 2.
+1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under section 60a–1 of Title 2.
 
 1995—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under section 60a–1 of Title 2.
 
@@ -168,7 +170,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 1989—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1989, to the figure “$18,674”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 9, 1988, formerly set out as a note under section 60a–1 of Title 2.
 
-1988—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under section 60a–1 of Title 2.
+1988—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to thefigure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under section 60a–1 of Title 2.
 
 1987—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure “$17,586”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under section 60a–1 of Title 2.
 

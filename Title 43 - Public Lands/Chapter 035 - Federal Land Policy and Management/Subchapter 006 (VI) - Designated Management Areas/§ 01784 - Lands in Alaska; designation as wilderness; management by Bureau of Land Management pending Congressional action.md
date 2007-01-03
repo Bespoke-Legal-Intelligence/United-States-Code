@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, section 1782 of this title shall not
 
 #### References in Text
 
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which isclassified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
 
 #### Codification
 
@@ -102,7 +102,7 @@ Lands to be conveyed to the united states.—The lands to be conveyed by KNA to 
 
 &emsp;&emsp;&emsp;“(vi) The conveyance of an access easement providing the United States and its assigns access across KNA's surface estate in the SW1/4 of section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska.
 
-&emsp;&emsp;&emsp;“(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract, which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
+&emsp;&emsp;&emsp;“(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract,which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
 
 &emsp;&emsp;“(B)
 
@@ -110,7 +110,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;“(i) The surface and subsurface estate to approximately 5 acres, subject to reservations of easements for existing roads and utilities, located within the city of Kenai, Alaska, identified as United States Survey 1435, withdrawn by Executive Order 2943 and known as the old Fish and Wildlife Service Headquarters site.
 
-&emsp;&emsp;&emsp;“(ii) The remaining subsurface estate held by the United States to approximately 13,651 acres, including portions of the Beaver Creek Patented Tract, the Beaver Creek Selected Tract, and portions of the Swanson River Road West Tract and the Swanson River Road East Tract, where the surface was previously or will be conveyed to KNA pursuant to this Act but excluding the SW1/4 of section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, which will be retained by the United States. The conveyance of these subsurface interests will be subject to the rights of CIRI to the coal, oil, gas, and to all rights CIRI, its successors, and assigns would have under paragraph 1(B)of the Terms and Conditions, including the right to sand and gravel, to construct facilities, to have rights-of-way, and to otherwise develop it subsurface interests.
+&emsp;&emsp;&emsp;“(ii) The remaining subsurface estate held by the United States to approximately 13,651 acres, including portions of the Beaver Creek Patented Tract, the Beaver Creek Selected Tract, and portions of the Swanson River Road West Tract and the Swanson River Road East Tract, where the surface was previously or will be conveyed to KNA pursuant to this Act but excluding the SW1/4 of section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, which will be retained by the United States. The conveyance of these subsurface interests will be subject to the rights of CIRI to the coal, oil, gas, and to all rights CIRI, its successors, and assigns would have under paragraph 1(B) of the Terms and Conditions, including the right to sand and gravel, to construct facilities, to have rights-of-way, and to otherwise develop it subsurface interests.
 
 &emsp;&emsp;&emsp;“(iii)(I) The nonexclusive right to use sand and gravel which is reasonably necessary for on-site development without compensation or permit on those portions of the Swanson River Road East Tract, comprising approximately 1,738.04 acres; where the entire subsurface of the land is presently owned by the United States. The United States shall retain the ownership of all other sand and gravel located within the subsurface and KNA shall not sell or dispose of such sand and gravel.
 
@@ -144,7 +144,7 @@ Removal of kna lands from the national wildlife refuge system.—
 
 &emsp;&emsp;&emsp;“(iii) The Secretary is authorized to acquire by purchase or exchange, on a willing seller basis only, any lands retained by or conveyed to KNA. In the event that any lands owned by KNA are subsequently acquired by the United States, they shall be automatically included in the Refuge System. The laws and regulations applicable to Refuge lands shall then apply to these lands and the Secretary shall then adjust the boundaries accordingly.
 
-&emsp;&emsp;&emsp;“(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume from KNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
+&emsp;&emsp;&emsp;“(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume fromKNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
 
 &emsp;&emsp;&emsp;“(v) By virtue of implementation of this section, CIRI is deemed entitled to 1,207 acres of in-lieu subsurface entitlement under section 12(a)(1) of ANCSA \[43 U.S.C. 1611(a)(1)\]. Such entitlement shall be fulfilled in accordance with paragraph 1(B)(2)(A) of the Terms and Conditions.
 

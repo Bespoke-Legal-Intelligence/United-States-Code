@@ -6,5 +6,5 @@ There is authorized to be appropriated, out of any funds in the Treasury not oth
 
 #### References in Text
 
-This Act, referred to in text, is act June 18, 1934, which is classified generally to this subchapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+This Act, referred to in text, is act June 18, 1934, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 

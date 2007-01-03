@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) The term “Chairman” means the Chairman of the Atomic Energy Commission.
 
-&emsp;(3) The term “off-road vehicle” means any motorized vehicle designed for, or capable of,cross-country travel on or immediately over land, water, sand, snow, ice, marsh, swampland, or other natural terrain; but such term does not include—
+&emsp;(3) The term “off-road vehicle” means any motorized vehicle designed for, or capable of, cross-country travel on or immediately over land, water, sand, snow, ice, marsh, swampland, or other natural terrain; but such term does not include—
 
 &emsp;&emsp;(A) any registered motorboat at the option of each State;
 
@@ -26,7 +26,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(E) an area within an Indian reservation or land held in trust by the United States for an Indian or Indian tribe.
 
-&emsp;(5) The term “State agency” means the agency or agencies of a State responsible for the administration of the fish and game laws of the State.
+&emsp;(5) The term “State agency” means the agency or agencies of a State responsible forthe administration of the fish and game laws of the State.
 
 &emsp;(6) The term “conservation and rehabilitation programs” means to utilize those methods and procedures which are necessary to protect, conserve, and enhance wildlife, fish, and game resources to the maximum extent practicable on public lands subject to this subchapter consistent with any overall land use and management plans for the lands involved. Such methods and procedures shall include, but shall not be limited to, all activities associated with scientific resources management such as protection, research, census, law enforcement, habitat management, propagation, live trapping and transplantation, and regulated taking in conformance with the provisions of this subchapter. Nothing in this term shall be construed as diminishing the authority or jurisdiction of the States with respect to the management of resident species of fish, wildlife, or game, except as otherwise provided by law.
 

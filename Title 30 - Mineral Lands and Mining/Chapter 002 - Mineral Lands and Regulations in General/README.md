@@ -19,17 +19,10 @@
 | [28d.](%C2%A7%2000028d%20-%20Performance%20of%20deferred%20work.md) | Performance of deferred work. |
 | [28e.](%C2%A7%2000028e%20-%20Recordation%20of%20deferment.md) | Recordation of deferment. |
 | [28f.](%C2%A7%2000028f%20-%20Fee.md) | Fee. |
-| (a) | Claim maintenance fee. |
-| (b) | Time of payment. |
-| (c) | Oil shale claims subject to claim maintenance fees under Energy Policy Act of 1992. |
-| (d) | Waiver. |
 | [28g.](%C2%A7%2000028g%20-%20Location%20fee.md) | Location fee. |
 | [28h.](%C2%A7%2000028h%20-%20Co-ownership.md) | Co-ownership. |
 | [28i.](%C2%A7%2000028i%20-%20Failure%20to%20pay.md) | Failure to pay. |
 | [28j.](%C2%A7%2000028j%20-%20Other%20requirements.md) | Other requirements. |
-| (a) | Federal Land Policy and Management Act requirements. |
-| (b) | Omitted. |
-| (c) | Fee adjustments. |
 | [28k.](%C2%A7%2000028k%20-%20Regulations.md) | Regulations. |
 | [29\.](%C2%A7%2000029%20-%20Patents%3B%20procurement%20procedure%3B%20filing%20application%20under%20oath%2C%20plat%20and%20field%20notes%2C%20notices%2C%20and%20affidavits%3B%20posting%20plat%20and%20notice%20on%E2%80%A6.md) | Patents; procurement procedure; filing: application under oath, plat and field notes, notices, and affidavits; posting plat and notice on claim; publication and posting notice in office; certificate; adverse claims; payment per acre; objections; nonresident claimant's agent for execution of application and affidavits. |
 | [30\.](%C2%A7%2000030%20-%20Adverse%20claims%3B%20oath%20of%20claimants%3B%20requisites%3B%20waiver%3B%20stay%20of%20land%20office%20proceedings%3B%20judicial%20determination%20of%20right%20of%20possession%E2%80%A6.md) | Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession; successful claimants’ filing of judgment roll, certificate of labor, and description of claim in land office, and acreage and fee payments; issuance of patents for entire or partial claims upon certification of land office proceedings and judgment roll; alienation of patent title. |
@@ -45,8 +38,6 @@
 | [40\.](%C2%A7%2000040%20-%20Verification%20of%20affidavits.md) | Verification of affidavits. |
 | [41\.](%C2%A7%2000041%20-%20Intersecting%20or%20crossing%20veins.md) | Intersecting or crossing veins. |
 | [42\.](%C2%A7%2000042%20-%20Patents%20for%20nonmineral%20lands%20application%2C%20survey%2C%20notice%2C%20acreage%20limitation%2C%20payment.md) | Patents for nonmineral lands: application, survey, notice, acreage limitation, payment. |
-| (a) | Vein or lode and mill site owners eligible. |
-| (b) | Placer claim owners eligible. |
 | [43\.](%C2%A7%2000043%20-%20Conditions%20of%20sale%20by%20local%20legislature.md) | Conditions of sale by local legislature. |
 | 44, 45. | Omitted. |
 | [46\.](%C2%A7%2000046%20-%20Additional%20land%20districts%20and%20officers.md) | Additional land districts and officers. |

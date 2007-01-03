@@ -44,7 +44,7 @@ It is the purpose of this section to encourage cross training and collaboration 
 
 An entity that receives a grant under this section shall use the funds made available through the grant for cross-training and collaborative efforts—
 
-&emsp;(1) addressing domestic violence, dating violence, sexual assault, and stalking, assessing and analyzing currently available services for youth and young adult victims, determiningrelevant barriers to such services in a particular locality, and developing a community protocol to address such problems collaboratively;
+&emsp;(1) addressing domestic violence, dating violence, sexual assault, and stalking, assessing and analyzing currently available services for youth and young adult victims, determining relevant barriers to such services in a particular locality, and developing a community protocol to address such problems collaboratively;
 
 &emsp;(2) to establish and enhance linkages and collaboration between—
 
@@ -62,7 +62,7 @@ An entity that receives a grant under this section shall use the funds made avai
 
 &emsp;(4) to identify, assess, and respond appropriately to dating violence, domestic violence, sexual assault, or stalking against teens and young adults and meet the needs of young victims of violence; and
 
-&emsp;(5) to provide appropriate resources in juvenile court matters to respond to dating violence, domestic violence, sexual assault, and stalking and ensure necessary services dealing with the health and mental health of victims are available.
+&emsp;(5) to provide appropriate resources in juvenile court matters to respond to dating violence, domestic violence, sexual assault, and stalking and ensure necessary services dealingwith the health and mental health of victims are available.
 
 #### (d) Grant applications
 

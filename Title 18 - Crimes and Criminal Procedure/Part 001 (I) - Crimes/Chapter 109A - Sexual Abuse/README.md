@@ -6,7 +6,12 @@
 | [2242\.](%C2%A7%2002242%20-%20Sexual%20abuse.md) | Sexual abuse. |
 | [2243\.](%C2%A7%2002243%20-%20Sexual%20abuse%20of%20a%20minor%20or%20ward.md) | Sexual abuse of a minor or ward. |
 | [2244\.](%C2%A7%2002244%20-%20Abusive%20sexual%20contact.md) | Abusive sexual contact. |
-| [2245\.](%C2%A7%2002245%20-%20Sexual%20abuse%20resulting%20in%20death.md) | Sexual abuse resulting in death. |
+| [2245\.](%C2%A7%2002245%20-%20Offenses%20resulting%20in%20death.md) | Sexual abuse resulting in death.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2246\.](%C2%A7%2002246%20-%20Definitions%20for%20chapter.md) | Definitions for chapter. |
 | [2247\.](%C2%A7%2002247%20-%20Repeat%20offenders.md) | Repeat offenders. |
 | [2248\.](%C2%A7%2002248%20-%20Mandatory%20restitution.md) | Mandatory restitution. |
@@ -21,6 +26,10 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical chapters 109A.
 
 1994—Pub. L. 103–322, title IV, §§40111(c), 40113(a)(2), title VI, §60010(b), Sept. 13, 1994, 108 Stat. 1903, 1907, 1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 109–248 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -30,7 +39,7 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical chapters 109A.
 - [&sect; 02242 - Sexual abuse](%C2%A7%2002242%20-%20Sexual%20abuse.md)
 - [&sect; 02243 - Sexual abuse of a minor or ward](%C2%A7%2002243%20-%20Sexual%20abuse%20of%20a%20minor%20or%20ward.md)
 - [&sect; 02244 - Abusive sexual contact](%C2%A7%2002244%20-%20Abusive%20sexual%20contact.md)
-- [&sect; 02245 - Sexual abuse resulting in death](%C2%A7%2002245%20-%20Sexual%20abuse%20resulting%20in%20death.md)
+- [&sect; 02245 - Offenses resulting in death](%C2%A7%2002245%20-%20Offenses%20resulting%20in%20death.md)
 - [&sect; 02246 - Definitions for chapter](%C2%A7%2002246%20-%20Definitions%20for%20chapter.md)
 - [&sect; 02247 - Repeat offenders](%C2%A7%2002247%20-%20Repeat%20offenders.md)
 - [&sect; 02248 - Mandatory restitution](%C2%A7%2002248%20-%20Mandatory%20restitution.md)

@@ -6,9 +6,6 @@
 | [2802\.](%C2%A7%2002802%20-%20Definitions.md) | Definitions. |
 | [2803\.](%C2%A7%2002803%20-%20Designation%20of%20major%20wine%20trading%20countries.md) | Designation of major wine trading countries. |
 | [2804\.](%C2%A7%2002804%20-%20Actions%20to%20reduce%20or%20eliminate%20tariff%20and%20nontariff%20barriers%20affecting%20United%20States%20wine.md) | Actions to reduce or eliminate tariff and nontariff barriers affecting United States wine. |
-| (a) | Consultations with major wine trading countries. |
-| (b) | Reports to Congress on actions taken to expand export opportunities. |
-| (c) | Enforcement of rights. |
 | [2805\.](%C2%A7%2002805%20-%20Required%20consultations.md) | Required consultations. |
 | [2806\.](%C2%A7%2002806%20-%20United%20States%20wine%20export%20promotion.md) | United States wine export promotion. |
 

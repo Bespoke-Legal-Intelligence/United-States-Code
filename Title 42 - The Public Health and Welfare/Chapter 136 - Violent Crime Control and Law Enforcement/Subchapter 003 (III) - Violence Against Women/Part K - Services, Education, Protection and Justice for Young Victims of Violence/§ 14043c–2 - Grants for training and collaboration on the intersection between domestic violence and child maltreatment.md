@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to support efforts by child welfare agencies, domestic violence or dating violence victim services providers, courts, law enforcement, and other related professionals and community organizations to develop collaborative responses and services and provide cross-training to enhance communityresponses to families where there is both child maltreatment and domestic violence.
+The purpose of this section is to support efforts by child welfare agencies, domestic violence or dating violence victim services providers, courts, law enforcement, and other related professionals and community organizations to develop collaborative responses and services and provide cross-training to enhance community responses to families where there is both child maltreatment and domestic violence.
 
 #### (b) Grants authorized
 

@@ -48,11 +48,11 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 &emsp;&emsp;(A) as teachers, nurses and other health care providers, police officers, early childhood development staff, engineers, or other professionals providing service to meet educational, human, environmental, or public safety needs in communities with an inadequate number of such professionals;
 
-&emsp;&emsp;(B) that may include a salary in excess of the maximum living allowance authorized insubsection (a)(3) of section 12594 of this title, as provided in subsection (c) of such section; and
+&emsp;&emsp;(B) that may include a salary in excess of the maximum living allowance authorized in subsection (a)(3) of section 12594 of this title, as provided in subsection (c) of such section; and
 
 &emsp;&emsp;(C) that are sponsored by public or private nonprofit employers who agree to pay 100 percent of the salaries and benefits (other than any national service educational award under division D of this subchapter) of the participants.
 
-&emsp;(9) A program in which economically disadvantaged individuals who are between the ages of 16 and 24 years of age, inclusive, are provided with opportunities to perform service that, while enabling such individuals to obtain the education and employment skills necessary to achieve economic self-sufficiency, will help their communities meet—
+&emsp;(9) A program in which economically disadvantaged individuals who are between the ages of 16 and 24 years of age, inclusive, are provided with opportunities to perform servicethat, while enabling such individuals to obtain the education and employment skills necessary to achieve economic self-sufficiency, will help their communities meet—
 
 &emsp;&emsp;(A) the housing needs of low-income families and the homeless; and
 
@@ -110,7 +110,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 #### (B) By States
 
-&emsp;&emsp;Consistent with paragraph (4), States shall establish, and through the national service plan process described in section 12638(e)(1) of this title, periodically alter priorities as appropriate regarding the national serviceprograms to be assisted under section 12581(a)(1) of this title. The State priorities shall be subject to Corporation review as part of the application process under section 12582 of this title.
+&emsp;&emsp;Consistent with paragraph (4), States shall establish, and through the national service plan process described in section 12638(e)(1) of this title, periodically alter priorities as appropriate regarding the national service programs to be assisted under section 12581(a)(1) of this title. The State priorities shall be subject to Corporation review as part of the application process under section 12582 of this title.
 
 #### (2) Notice to applicants
 

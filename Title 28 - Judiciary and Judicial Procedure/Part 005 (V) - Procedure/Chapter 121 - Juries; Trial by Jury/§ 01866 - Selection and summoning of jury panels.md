@@ -14,7 +14,7 @@ If such service is made by mail, the summons may be served by the marshal or by 
 
 (d) Whenever a person is disqualified, excused, exempt, or excluded from jury service, the jury commission or clerk shall note in the space provided on his juror qualification form or on the juror's card drawn from the qualified jury wheel the specific reason therefor.
 
-(e) In any two-year period, no person shall be required to (1) serve or attend court for prospective service as a petit juror for a total of more than thirty days, except when necessary to complete service in a particular case, or (2) serve onmore than one grand jury, or (3) serve as both a grand and petit juror.
+(e) In any two-year period, no person shall be required to (1) serve or attend court for prospective service as a petit juror for a total of more than thirty days, except when necessary to complete service in a particular case, or (2) serve on more than one grand jury, or (3) serve as both a grand and petit juror.
 
 (f) When there is an unanticipated shortage of available petit jurors drawn from the qualified jury wheel, the court may require the marshal to summon a sufficient number of petit jurors selected at random from the voter registration lists, lists of actual voters, or other lists specified in the plan, in a manner ordered by the court consistent with sections 1861 and 1862 of this title.
 

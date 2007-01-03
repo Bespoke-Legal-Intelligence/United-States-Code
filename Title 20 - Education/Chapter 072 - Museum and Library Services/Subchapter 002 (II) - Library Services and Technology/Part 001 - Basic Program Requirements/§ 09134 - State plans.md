@@ -118,7 +118,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that such library is in compliance with such requirements.
 
-&emsp;&emsp;&nbsp;Any library covered by paragraph (1) that is unable to certify compliance with suchrequirements in such second program year shall be ineligible for all funding under this subchapter for such second program year and all subsequent program years until such time as such library comes into compliance with such requirements.
+&emsp;&emsp;&nbsp;Any library covered by paragraph (1) that is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this subchapter for such second program year and all subsequent program years until such time as such library comes into compliance with such requirements.
 
 #### (iii) Waivers
 

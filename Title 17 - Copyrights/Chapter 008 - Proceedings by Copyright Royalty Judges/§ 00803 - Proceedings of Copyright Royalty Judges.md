@@ -6,7 +6,7 @@ Proceedings.—
 
 &emsp;(1)
 
-In general.—The Copyright Royalty Judges shall act in accordance with regulations issued by the Copyright Royalty Judges and the Librarian of Congress, and on the basis of a written record, prior determinations and interpretations of the Copyright Royalty Tribunal, Librarian of Congress, the Register of Copyrights, and the Copyright Royalty Judges (to the extent those determinations are not inconsistent with a decision of the Register of Copyrights that was timely delivered to the Copyright Royalty Judges pursuant to section 802(f)(1)(A) or (B), or with a decision of the Register of Copyrights pursuant to section 802(f)(1)(D)), under this chapter, and decisions of the court of appeals under this chapter before, on, or after the effective date of the Copyright Royalty and Distribution Reform Act of 2004.
+In general.—The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The CopyrightRoyalty Judges shall act in accordance with regulations issued by the Copyright Royalty Judges and the Librarian of Congress, and on the basis of a written record, prior determinations and interpretations of the Copyright Royalty Tribunal, Librarian of Congress, the Register of Copyrights, copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights), and the Copyright Royalty Judges (to the extent those determinations are not inconsistent with a decision of the Register of Copyrights that was timely delivered to the Copyright Royalty Judges pursuant to section 802(f)(1)(A) or (B), or with a decision of the Register of Copyrights pursuant to section 802(f)(1)(D)), under this chapter, and decisions of the court of appeals under this chapter before, on, or after the effective date of the Copyright Royalty and Distribution Reform Act of 2004.
 
 &emsp;(2)
 
@@ -36,7 +36,7 @@ Call for petitions to participate.—(i) The Copyright Royalty Judges shall caus
 
 &emsp;&emsp;&emsp;(IV) as provided under section 804(b)(8); or
 
-&emsp;&emsp;&emsp;(V) by no later than January 5 of a year specified in any other provision of section 804(b) for the filing of petitions for the commencement of proceedings, if a petition has not been filed by that date, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.
+&emsp;&emsp;&emsp;(V) by no later than January 5 of a year specified in any other provision of section 804(b) for the filing of petitions for the commencement of proceedings, if a petition has not been filed by that date, except that the publication of notice requirement shall not apply in the case of proceedings under section 111 that are scheduled to commence in 2005.
 
 &emsp;&emsp;(ii) Petitions to participate shall be filed by no later than 30 days after publication of notice of commencement of a proceeding under clause (i), except that the Copyright Royalty Judges may, for substantial good cause shown and if there is no prejudice to the participants that have already filed petitions, accept late petitions to participate at any time up to the date that is 90 days before the date on which participants in the proceeding are to file their written direct statements. Notwithstanding the preceding sentence, petitioners whose petitions are filed more than 30 days after publication of notice of commencement of a proceeding are not eligible to object to a settlement reached during the voluntary negotiation period under paragraph (3), and any objection filed by such a petitioner shall not be taken into account by the Copyright Royalty Judges.
 
@@ -48,11 +48,21 @@ Petitions to participate.—Each petition to participate in a proceeding shall d
 
 Participation in general.—Subject to paragraph (4), a person may participate in a proceeding under this chapter, including through the submission of briefs or other information, only if—
 
-&emsp;&emsp;(A) that person has filed a petition to participate in accordance with paragraph (1) (either individually or as a group under paragraph (1)(B)), together with a filing fee of $150;
+&emsp;&emsp;(A) that person has filed a petition to participate in accordance with paragraph (1) (either individually or as a group under paragraph (1)(B));
 
-&emsp;&emsp;(B) the Copyright Royalty Judges have not determined that the petition to participate is facially invalid; and
+&emsp;&emsp;(B) the Copyright Royalty Judges have not determined that the petition to participate is facially invalid;
 
-&emsp;&emsp;(C) the Copyright Royalty Judges have not determined, sua sponte or on the motion of another participant in the proceeding, that the person lacks a significant interest in the proceeding.
+&emsp;&emsp;(C) the Copyright Royalty Judges have not determined, sua sponte or on the motion of another participant in the proceeding, that the person lacks a significant interest in the proceeding; and
+
+&emsp;&emsp;(D) the petition to participate is accompanied by either—
+
+&emsp;&emsp;&emsp;(i) in a proceeding to determine royalty rates, a filing fee of $150; or
+
+&emsp;&emsp;&emsp;(ii) in a proceeding to determine distribution of royalty fees—
+
+&emsp;&emsp;&emsp;&emsp;(I) a filing fee of $150; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a statement that the petitioner (individually or as a group) will not seek a distribution of more than $1000, in which case the amount distributed to the petitioner shall not exceed $1000.
 
 &emsp;(3)
 
@@ -60,7 +70,15 @@ Voluntary negotiation period.—
 
 &emsp;&emsp;(A)
 
-In general.—Promptly after the date for filing of petitions to participate in a proceeding, the Copyright Royalty Judges shall make available to all participants in the proceeding a list of such participants and shall initiate a voluntary negotiation period among the participants.
+Commencement of proceedings.—
+
+&emsp;&emsp;&emsp;(i)
+
+Rate adjustment proceeding.—Promptly after the date for filing of petitions to participate in a proceeding, the Copyright Royalty Judges shall make available to all participants in the proceeding a list of such participants and shall initiate a voluntary negotiation period among the participants.
+
+&emsp;&emsp;&emsp;(ii)
+
+Distribution proceeding.—Promptly after the date for filing of petitions to participate in a proceeding to determine the distribution of royalties, the Copyright Royalty Judges shall make available to all participants in the proceeding a list of such participants. The initiation of a voluntary negotiation period among the participants shall be set at a time determined by the Copyright Royalty Judges.
 
 &emsp;&emsp;(B)
 
@@ -76,7 +94,7 @@ Small claims procedure in distribution proceedings.—
 
 &emsp;&emsp;(A)
 
-In general.—If, in a proceeding under this chapter to determine the distribution of royalties, the contested amount of a claim is $10,000 or less, the Copyright Royalty Judges shall decide the controversy on the basis of the filing of the written direct statement by the participant, the response by any opposing participant, and 1 additional response by each such party. The participant asserting the claim shall not be required to pay the filing fee under paragraph (2).
+In general.—If, in a proceeding under this chapter to determine the distribution of royalties, the contested amount of a claim is $10,000 or less, the Copyright Royalty Judges shall decide the controversy on the basis of the filing of the written direct statement by the participant, the response by any opposing participant, and 1 additional response by each such party.
 
 &emsp;&emsp;(B)
 
@@ -106,15 +124,15 @@ Interim regulations.—Until regulations are adopted under subparagraph (A), the
 
 Requirements.—Regulations issued under subparagraph (A) shall include the following:
 
-&emsp;&emsp;&emsp;(i) The written direct statements of all participants in a proceeding under paragraph (2) shall be filed by a date specified by the Copyright Royalty Judges, which may be not earlier than 4 months, and not later than 5 months, after the end of the voluntary negotiation period under paragraph (3). Notwithstanding the preceding sentence, the Copyright Royalty Judges may allow a participant in a proceeding to file an amended written direct statement based on new information received during the discovery process, within 15 days after the end of the discovery period specified in clause (iii).
+&emsp;&emsp;&emsp;(i) The written direct statements and written rebuttal statements of all participants in a proceeding under paragraph (2) shall be filed by a date specified by the Copyright Royalty Judges, which, in the case of written direct statements, may be not earlier than 4 months, and not later than 5 months, after the end of the voluntary negotiation period under paragraph (3). Notwithstanding the preceding sentence, the Copyright Royalty Judges may allow a participant in a proceeding to file an amended written direct statement based on new information received during the discovery process, within 15 days after the end of the discovery period specified in clause (iv).
 
-&emsp;&emsp;&emsp;(ii)(I) Following the submission to the Copyright Royalty Judges of written direct statements by the participants in a proceeding under paragraph (2), the judges shall meet with the participants for the purpose of setting a schedule for conducting and completing discovery. Such schedule shall be determined by the Copyright Royalty Judges.
+&emsp;&emsp;&emsp;(ii)(I) Following the submission to the Copyright Royalty Judges of written direct statements and written rebuttal statements by the participants in a proceeding under paragraph (2), the Copyright Royalty Judges, after taking into consideration the views of the participants in the proceeding, shall determine a schedule for conducting and completing discovery.
 
 &emsp;&emsp;&emsp;(II) In this chapter, the term “written direct statements” means witness statements, testimony, and exhibits to be presented in the proceedings, and such other information that is necessary to establish terms and rates, or the distribution of royalty payments, as the case may be, as set forth in regulations issued by the Copyright Royalty Judges.
 
 &emsp;&emsp;&emsp;(iii) Hearsay may be admitted in proceedings under this chapter to the extent deemed appropriate by the Copyright Royalty Judges.
 
-&emsp;&emsp;&emsp;(iv) Discovery in such proceedings shall be permitted for a period of 60 days, except for discovery ordered by the Copyright Royalty Judges in connection with the resolution of motions, orders, and disputes pending at the end of such period.
+&emsp;&emsp;&emsp;(iv) Discovery in connection with written direct statements shall be permitted for a period of 60 days, except for discovery ordered by the Copyright Royalty Judges in connection with the resolution of motions, orders, and disputes pending at the end of such period. The Copyright Royalty Judges may order a discovery schedule in connection with written rebuttal statements.
 
 &emsp;&emsp;&emsp;(v) Any participant under paragraph (2) in a proceeding under this chapter to determine royalty rates may request of an opposing participant nonprivileged documents directly related to the written direct statement or written rebuttal statement of that participant. Any objection to such a request shall be resolved by a motion or request to compel production made to the Copyright Royalty Judges in accordance with regulations adopted by the Copyright Royalty Judges. Each motion or request to compel discovery shall be determined by the Copyright Royalty Judges, or by a Copyright Royalty Judge when permitted under subsection (a)(2). Upon such motion, the Copyright Royalty Judges may order discovery pursuant to regulations established under this paragraph.
 
@@ -132,9 +150,9 @@ Requirements.—Regulations issued under subparagraph (A) shall include the foll
 
 &emsp;&emsp;&emsp;(viii) The rules and practices in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004, relating to discovery in proceedings under this chapter to determine the distribution of royalty fees, shall continue to apply to such proceedings on and after such effective date.
 
-&emsp;&emsp;&emsp;(ix) In proceedings to determine royalty rates, the Copyright Royalty Judges may issue a subpoena commanding a participant or witness to appear and give testimony, or to produce and permit inspection of documents or tangible things, if the Copyright Royalty Judges’ resolution of the proceeding would be substantially impaired by the absence of such testimony or production of documents or tangible things. Such subpoena shall specify with reasonable particularity the materials to be produced or the scope and nature of the required testimony. Nothing in this clause shall preclude the Copyright Royalty Judges from requesting the production bya nonparticipant of information or materials relevant to the resolution by the Copyright Royalty Judges of a material issue of fact.
+&emsp;&emsp;&emsp;(ix) In proceedings to determine royalty rates, the Copyright Royalty Judges may issue a subpoena commanding a participant or witness to appear and give testimony, or to produce and permit inspection of documents or tangible things, if the Copyright Royalty Judges’ resolution of the proceeding would be substantially impaired by the absence of such testimony or production of documents or tangible things. Such subpoena shall specify with reasonable particularity the materials to be produced or the scope and nature of the required testimony. Nothing in this clause shall preclude the Copyright Royalty Judges from requesting the production by a nonparticipant of information or materials relevant to the resolution by the Copyright Royalty Judges of a material issue of fact.
 
-&emsp;&emsp;&emsp;(x) The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the end of the discovery period and shall take place outside the presence of the Copyright Royalty Judges.
+&emsp;&emsp;&emsp;(x) The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the 60-day discovery period specified in clause (iv) and shall take place outside the presence of the Copyright Royalty Judges.
 
 &emsp;&emsp;&emsp;(xi) No evidence, including exhibits, may be submitted in the written direct statement or written rebuttal statement of a participant without a sponsoring witness, except where the Copyright Royalty Judges have taken official notice, or in the case of incorporation by reference of past records, or for good cause shown.
 
@@ -156,7 +174,7 @@ In general.—The Copyright Royalty Judges may, in exceptional cases, upon motio
 
 &emsp;&emsp;(B)
 
-Timing for filing motion.—Any motion for a rehearing under subparagraph (A) may only be filed within 15 days after the date on which the Copyright Royalty Judges deliver to the participants in the proceeding their initial determination concerning rates and terms.
+Timing for filing motion.—Any motion for a rehearing under subparagraph (A)may only be filed within 15 days after the date on which the Copyright Royalty Judges deliver to the participants in the proceeding their initial determination.
 
 &emsp;&emsp;(C)
 
@@ -184,7 +202,7 @@ Contents of determination.—A determination of the Copyright Royalty Judges sha
 
 &emsp;(4)
 
-Continuing jurisdiction.—The Copyright Royalty Judges may, with the approval of the Register of Copyrights, issue an amendment to a written determination to correct any technical or clerical errors in the determination or to modify the terms, but not the rates, of royalty payments in response to unforeseen circumstances that would frustrate the proper implementation of such determination. Such amendment shall be set forth in a written addendum to the determination that shall be distributed to the participants of the proceeding and shall be published in the Federal Register.
+Continuing jurisdiction.—The Copyright Royalty Judges may issue an amendment to a written determination to correct any technical or clerical errors in the determination or to modify the terms, but not the rates, of royalty payments in response to unforeseen circumstances that would frustrate the proper implementation of such determination. Such amendment shall be set forth in a written addendum to the determination that shall be distributed to the participants of the proceeding and shall be published in the Federal Register.
 
 &emsp;(5)
 
@@ -196,7 +214,7 @@ Publication of determination.—By no later than the end of the 60-day period pr
 
 &emsp;(7)
 
-Late payment.—A determination of Copyright Royalty Judges may include terms with respect to late payment, but in no way shall such terms prevent the copyright holder from asserting other rights or remedies provided under this title.
+Late payment.—A determination of the Copyright Royalty Judges may include terms with respect to late payment, but in no way shall such terms prevent the copyright holder from asserting other rights or remedies provided under this title.
 
 (d)
 
@@ -212,7 +230,7 @@ Effect of rates.—
 
 &emsp;&emsp;(A)
 
-Expiration on specified date.—When this title provides that the royalty rates and terms that were previously in effect are to expire on a specified date, any adjustment or determination by the Copyright Royalty Judges of successor rates and terms for an ensuing statutory license period shall be effective as of the day following the date of expiration of the rates and terms that were previously in effect, even if the determination of the Copyright Royalty Judges is rendered on a later date. A licensee shall be obligated to continue making payments under the rates and terms previously in effect until such time as rates and terms for the successor period are established. Whenever royalties pursuant to this section are paid to a person other than the Copyright Office, the entity designated by the Copyright Royalty Judges to which such royalties are paid by the copyright user (and any successor thereto) shall, within 60 days after the final determination of the Copyright Royalty Judges establishing rates and terms for a successor period or the exhaustion of all rehearings or appeals of such determination, if any, return any excess amounts previously paid to the extent necessary to comply with the final determination of royalty rates. Any underpayment of royalties by a copyright user shall be paid to the entity designated by the Copyright Royalty Judges within the same period.
+Expiration on specified date.—When this title provides that the royalty rates and terms that were previously in effect are to expire on a specified date, any adjustment or determination by the Copyright Royalty Judges of successor rates and terms for anensuing statutory license period shall be effective as of the day following the date of expiration of the rates and terms that were previously in effect, even if the determination of the Copyright Royalty Judges is rendered on a later date. A licensee shall be obligated to continue making payments under the rates and terms previously in effect until such time as rates and terms for the successor period are established. Whenever royalties pursuant to this section are paid to a person other than the Copyright Office, the entity designated by the Copyright Royalty Judges to which such royalties are paid by the copyright user (and any successor thereto) shall, within 60 days after the final determination of the Copyright Royalty Judges establishing rates and terms for a successor period or the exhaustion of all rehearings or appeals of such determination, if any, return any excess amounts previously paid to the extent necessary to comply with the final determination of royalty rates. Any underpayment of royalties by a copyright user shall be paid to the entity designated by the Copyright Royalty Judges within the same period.
 
 &emsp;&emsp;(B)
 
@@ -224,7 +242,7 @@ Obligation to make payments.—
 
 &emsp;&emsp;&emsp;(i) The pendency of an appeal under this subsection shall not relieve persons obligated to make royalty payments under section 111, 112, 114, 115, 116, 118, 119, or 1003, who would be affected by the determination on appeal, from—
 
-&emsp;&emsp;&emsp;&emsp;(I) providing the statements of account and any report of use; and
+&emsp;&emsp;&emsp;&emsp;(I) providing the applicable statements of account and reports of use; and
 
 &emsp;&emsp;&emsp;&emsp;(II) paying the royalties required under the relevant determination or regulations.
 
@@ -232,7 +250,7 @@ Obligation to make payments.—
 
 &emsp;(3)
 
-Jurisdiction of court.—If the court, pursuant to section 706 of title 5, modifies or vacates a determination of the Copyright Royalty Judges, the court may enter its own determination with respect to the amount or distribution of royalty fees and costs, and order the repayment of any excess fees, the payment of any underpaid fees, and the payment of interest pertaining respectively thereto, in accordance with its final judgment. The court may also vacate the determination of the Copyright Royalty Judges and remand the case to the Copyright Royalty Judges for further proceedings in accordance with subsection (a).
+Jurisdiction of court.—Section 706 of title 5 shall apply with respect to review by the court of appeals under this subsection. If the court modifies or vacates a determination of the Copyright Royalty Judges, the court may enter its own determination with respect to the amount or distribution of royalty fees and costs, and order the repayment of any excess fees, the payment of any underpaid fees, and the payment of interest pertaining respectively thereto, in accordance with its final judgment. The court may also vacate the determination of the Copyright Royalty Judges and remand the case to the Copyright Royalty Judges for further proceedings in accordance with subsection (a).
 
 (e)
 
@@ -254,13 +272,13 @@ Authorization of appropriations.—There are authorized to be appropriated such 
 
 Positions required for administration of compulsory licensing.—Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 112, 114, 115, 116, 118, or 119 or chapter 10.
 
-(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX \[title I, §112\], Dec. 8, 2004, 118 Stat. 3409.)
+(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX \[title I, §112\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 109–303, §3(5)–(11), Oct. 6, 2006, 120 Stat. 1479, 1481.)
 
 #### References in Text
 
 The effective date of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsecs. (a)(1) and (b)(6)(B), (C)(viii), is the effective date of Pub. L. 108–419, which is 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 
-The enactment of the Copyright Royalty and Distribution Reform Act of 2004 and such date of enactment, referred to in subsec. (b)(6)(A), (B), probably mean the date of enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
+The enactment of the Copyright Royalty and Distribution Reform Act of 2004 and such date of enactment, referred to in subsec. (b)(6)(A), (B), probablymean the date of enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
 
 Section 307 of the Legislative Branch Appropriations Act, 1994, referred to in subsec. (e)(2), is section 307 of Pub. L. 103–69, which is set out as a note under section 60–1 of Title 2, The Congress.
 
@@ -272,5 +290,37 @@ Another prior section 803, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 S
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 which directed amendment of subcl. (V) by inserting “ ‘, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.” before period at end, was executed as if an end quotation mark for the inserted material followed “published”, to reflect the probable intent of Congress.
+2006—Subsec. (a)(1). Pub. L. 109–303, §3(5), substituted “The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright” for “The Copyright” and inserted “copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights),” after “Congress, the Register of Copyrights,”.
+
+Subsec. (b)(1)(A)(i)(V). Pub. L. 109–303, §3(6)(A), substituted “the publication of notice requirement shall not apply in the case of” for “in the case of” and struck out “, such notice may not be published.” at end.
+
+Subsec. (b)(2). Pub. L. 109–303, §3(6)(B), struck out “, together with a filing fee of $150” before semicolon at end of subpar. (A) and added subpar. (D).
+
+Subsec. (b)(3)(A). Pub. L. 109–303, §3(6)(C), substituted “Commencement of proceedings” for “In general” in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+
+Subsec. (b)(4)(A). Pub. L. 109–303, §3(6)(D), struck out last sentence which read as follows: “The participant asserting the claim shall not be required to pay the filing fee under paragraph (2).”
+
+Subsec. (b)(6)(C)(i). Pub. L. 109–303, §3(6)(E)(i), inserted “and written rebuttal statements” after “written direct statements” and substituted “which, in the case of written direct statements, may” for “which may” and “clause (iv)” for “clause (iii)”.
+
+Subsec. (b)(6)(C)(ii)(I). Pub. L. 109–303, §3(6)(E)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “Following the submission to the Copyright Royalty Judges of written direct statements by the participants in a proceeding under paragraph (2), the judges shall meet with the participants for the purpose of setting a schedule for conducting and completing discovery. Such schedule shall be determined by the Copyright Royalty Judges.”
+
+Subsec. (b)(6)(C)(iv). Pub. L. 109–303, §3(6)(E)(iii), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “Discovery in such proceedings shall be permitted for a period of 60 days, except for discovery ordered by the Copyright Royalty Judges in connection with the resolution of motions, orders, and disputes pending at the end of such period.”
+
+Subsec. (b)(6)(C)(x). Pub. L. 109–303, §3(6)(E)(iv), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the end of the discovery period and shall take place outside the presence of the Copyright Royalty Judges.”
+
+Subsec. (c)(2)(B). Pub. L. 109–303, §3(7), struck out “concerning rates and terms” before period at end.
+
+Subsec. (c)(4). Pub. L. 109–303, §3(8), struck out “, with the approval of the Register of Copyrights,” before “issue an amendment”.
+
+Subsec. (c)(7). Pub. L. 109–303, §3(9), substituted “of the Copyright” for “of Copyright”.
+
+Subsec. (d)(2)(C)(i)(I). Pub. L. 109–303, §3(10), substituted “applicable statements of account and reports of use” for “statements of account and any report of use”.
+
+Subsec. (d)(3). Pub. L. 109–303, §3(11), substituted “Section 706 of title 5 shall apply with respect to review by the court of appeals under this subsection. If the court modifies” for “If the court, pursuant to section 706 of title 5, modifies”.
+
+2004—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 inserted “, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.” before period at end.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
 

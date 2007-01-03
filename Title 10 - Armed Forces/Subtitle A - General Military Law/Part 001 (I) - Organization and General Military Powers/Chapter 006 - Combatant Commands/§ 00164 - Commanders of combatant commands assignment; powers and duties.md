@@ -22,7 +22,7 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 
 (c)
 
-Command Authority of Combatant Commanders.—(1) Unless otherwise directed by thePresident or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
+Command Authority of Combatant Commanders.—(1) Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
 
 &emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
 
@@ -36,7 +36,7 @@ Command Authority of Combatant Commanders.—(1) Unless otherwise directed by th
 
 &emsp;(F) coordinating and approving those aspects of administration and support (including control of resources and equipment, internal organization, and training) and discipline necessary to carry out missions assigned to the command; and
 
-&emsp;(G) exercising the authority with respect to selecting subordinate commanders, selecting combatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
+&emsp;(G) exercising the authority with respect to selecting subordinate commanders, selectingcombatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
 
 (2)(A) The Secretary of Defense shall ensure that a commander of a combatant command has sufficient authority, direction, and control over the commands and forces assigned to the command to exercise effective command over those commands and forces. In carrying out this subparagraph, the Secretary shall consult with the Chairman of the Joint Chiefs of Staff.
 
@@ -96,7 +96,7 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 
 #### Effective Date
 
-Section 214(c) of Pub. L. 99–433 provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
+Section 214(c) of Pub. L. 99–433 provided that: “Subsections (e), (f), and (g) of section 164 of title 10, UnitedStates Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
 
 #### Waiver of Qualifications for Assignment as Combatant Commander
 

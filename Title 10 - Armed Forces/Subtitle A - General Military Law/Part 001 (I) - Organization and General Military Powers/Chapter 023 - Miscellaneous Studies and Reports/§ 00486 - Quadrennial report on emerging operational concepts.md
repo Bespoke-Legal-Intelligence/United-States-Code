@@ -8,7 +8,7 @@ Quadrennial Report Required.—Not later than March 1 of each year evenly divisi
 
 Content of Report Relating to DoD Processes.—Each such report shall contain a description, for the four years preceding the year in which the report is submitted, of the following:
 
-&emsp;(1) The process undertaken in the Department of Defense, and in each of the Army,Navy, Air Force, and Marine Corps, to define and develop doctrine, operational concepts, organizational concepts, and acquisition strategies to address—
+&emsp;(1) The process undertaken in the Department of Defense, and in each of the Army, Navy, Air Force, and Marine Corps, to define and develop doctrine, operational concepts, organizational concepts, and acquisition strategies to address—
 
 &emsp;&emsp;(A) the potential of emerging technologies for significantly improving the operational effectiveness of the armed forces;
 

@@ -70,7 +70,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 (1) Not later than 60 days after August 8, 2005, the Commission shall enter into an arrangement with the National Academy of Sciences under which the National Academy of Sciences shall conduct a study of industrial, research, and commercial uses for radiation sources.
 
-(2) The study under paragraph (1) shall include a review of uses of radiation sources in existence on the date on which the study is conducted, including an identification of any industrial or other process that—
+(2) The study under paragraph (1) shall include a review of uses of radiation sources in existenceon the date on which the study is conducted, including an identification of any industrial or other process that—
 
 &emsp;(A) uses a radiation source that could be replaced with an economically and technically equivalent (or improved) process that does not require the use of a radiation source; or
 
@@ -102,7 +102,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 &emsp;(viii) The Director of the Central Intelligence Agency (or a designee).
 
-&emsp;(ix) The Director of the Federal Emergency Management Agency (or a designee).
+&emsp;(ix) The Administrator of the Federal Emergency Management Agency (or a designee).
 
 &emsp;(x) The Director of the Federal Bureau of Investigation (or a designee).
 
@@ -134,7 +134,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 &emsp;(v) the establishment of, or modifications to, a national system (including user fees and other methods) to provide for the proper disposal of radiation sources secured under this chapter;
 
-&emsp;(vi) modifications to export controls on radiation sources to ensure that foreign recipientsof radiation sources are able and willing to adequately control radiation sources from the United States;
+&emsp;(vi) modifications to export controls on radiation sources to ensure that foreign recipients of radiation sources are able and willing to adequately control radiation sources from the United States;
 
 &emsp;(vii)(I) any alternative technologies available as of the date on which the report is submitted that may perform some or all of the functions performed by devices or processes that employ radiation sources; and
 
@@ -168,5 +168,9 @@ Not later than 60 days after the date of receipt by Congress and the President o
 
 &emsp;(2) ensure that States that have entered into agreements with the Commission under section 2021(b) of this title take similar action in a timely manner.
 
-(Aug. 1, 1946, ch. 724, title I, §170H, as added Pub. L. 109–58, title VI, §651(d)(1), Aug. 8, 2005, 119 Stat. 802.)
+(Aug. 1, 1946, ch. 724, title I, §170H, as added Pub. L. 109–58, title VI, §651(d)(1), Aug. 8, 2005, 119 Stat. 802; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (f)(2)(B)(ix) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 

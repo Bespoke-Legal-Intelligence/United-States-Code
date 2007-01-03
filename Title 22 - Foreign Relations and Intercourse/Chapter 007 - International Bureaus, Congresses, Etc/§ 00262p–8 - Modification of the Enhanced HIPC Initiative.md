@@ -80,7 +80,7 @@ In this section:
 
 #### References in Text
 
-Section 262p–4p of this title, referred to in subsec. (b)(3), was in the original “section 526(e) of the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1995 (22 U.S.C. 262p–4p)” meaningsection 526(e) of Pub. L. 103–306, which was translated as reading section 1621 of Pub. L. 95–118 which was enacted by section 526(e) of Pub. L. 103–306 and is classified to section 262p–4p of this title, to reflect the probable intent of Congress.
+Section 262p–4p of this title, referred to in subsec. (b)(3), was in the original “section 526(e) of the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1995 (22 U.S.C. 262p–4p)” meaning section 526(e) of Pub. L. 103–306, which was translated as reading section 1621 of Pub. L. 95–118 which was enacted by section 526(e) of Pub. L. 103–306 and is classified to section 262p–4p of this title, to reflect the probable intent of Congress.
 
 #### Codification
 

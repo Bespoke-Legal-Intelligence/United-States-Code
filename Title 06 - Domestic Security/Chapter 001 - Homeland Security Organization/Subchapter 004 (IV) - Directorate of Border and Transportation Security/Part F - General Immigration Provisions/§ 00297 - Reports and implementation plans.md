@@ -38,7 +38,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 #### (1) Status reports on transition
 
-&emsp;Not later than 18 months after the date on which the transfer of functions specified under section 251 of this title takes effect, and every6 months thereafter, until full implementation of this part has been completed, the Comptroller General of the United States shall submit to the Committees on Appropriations and on the Judiciary of the House of Representatives and the Senate a report containing the following:
+&emsp;Not later than 18 months after the date on which the transfer of functions specified under section 251 of this title takes effect, and every 6 months thereafter, until full implementation of this part has been completed, the Comptroller General of the United States shall submit to the Committees on Appropriations and on the Judiciary of the House of Representatives and the Senate a report containing the following:
 
 &emsp;&emsp;(A) A determination of whether the transfers of functions made by parts D and E of this subchapter have been completed, and if a transfer of functions has not taken place, identifying the reasons why the transfer has not taken place.
 

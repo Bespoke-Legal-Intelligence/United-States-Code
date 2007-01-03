@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary's” 
 
 1989—Subsec. (b). Pub. L. 101–237, §311(1), substituted “shall, except as provided in subsection (c) of this section,” for “may”.
 
-Subsec. (c). Pub. L. 101–237, §311(2), substituted “The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section” for “The Administrator may not exercise the Administrator's authority under subsection (a) or (b) of this section to waive recovery of any payment or the collection of any indebtedness (or any interest thereon)” and substituted “or bad faith” for “, material fault, or lack of good faith”.
+Subsec. (c). Pub. L. 101–237, §311(2), substituted “The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section” for “The Administrator may not exercise the Administrator's authority under subsection (a) or (b) of this section to waive recovery of any payment or the collection of any indebtedness (orany interest thereon)” and substituted “or bad faith” for “, material fault, or lack of good faith”.
 
 1986—Subsec. (b). Pub. L. 99–576, §701(69)(A), substituted “the veteran's” for “his” before “spouse”.
 

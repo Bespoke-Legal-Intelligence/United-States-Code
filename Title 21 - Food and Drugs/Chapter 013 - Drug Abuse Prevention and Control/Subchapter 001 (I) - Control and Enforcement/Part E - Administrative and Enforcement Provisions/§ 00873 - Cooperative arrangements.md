@@ -10,7 +10,7 @@ The Attorney General shall cooperate with local, State, and Federal agencies con
 
 &emsp;(3) conduct training programs on controlled substance law enforcement for local, State, and Federal personnel;
 
-&emsp;(4) maintain in the Department of Justice a unit which will accept, catalog, file, and otherwise utilize all information and statistics, including records of controlled substance abusers and other controlled substance law offenders, which may be received from Federal, State, and local agencies, and make such information available for Federal, State, and local law enforcement purposes;
+&emsp;(4) maintain in the Department of Justice a unit which will accept, catalog, file, andotherwise utilize all information and statistics, including records of controlled substance abusers and other controlled substance law offenders, which may be received from Federal, State, and local agencies, and make such information available for Federal, State, and local law enforcement purposes;
 
 &emsp;(5) conduct programs of eradication aimed at destroying wild or illicit growth of plant species from which controlled substances may be extracted;
 

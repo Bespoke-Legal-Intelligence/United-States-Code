@@ -10,11 +10,11 @@
 
 &emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the State and the amount of any other costs incurred in connection with the detail of such officer or employee,
 
-> when the furnishing of supplies or equipment or the detail of an officer or employee is for the convenience of and at the request of the State and for the purpose of conducting activities described in section 300w–3 of this title. The amount by which any payment is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment or in detailing the personnel, on which the reduction of the payment is based,and the amount shall be deemed to be part of the payment and shall be deemed to have been paid to the State.
+> when the furnishing of supplies or equipment or the detail of an officer or employee is for the convenience of and at the request of the State and for the purpose of conducting activities described in section 300w–3 of this title. The amount by which any payment is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment or in detailing the personnel, on which the reduction of the payment is based, and the amount shall be deemed to be part of the payment and shall be deemed to have been paid to the State.
 
 (July 1, 1944, ch. 373, title XIX, §1903, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537.)
 
 #### Codification
 
-In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4213)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4213)” on authority ofPub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

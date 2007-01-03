@@ -82,13 +82,13 @@ Meetings.—The Capitol Police Board shall document Board meetings and make the 
 
 “(e)
 
-Assistance of Comptroller General.—Upon request, the Comptroller General shall provide assistance to the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be “section”\].
+Assistance of Comptroller General.—Upon request, the Comptroller General shall provide assistanceto the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be “section”\].
 
 “(f)
 
 References in Law; Effect on Other Laws.—(1) Any reference in any law or resolution in effect as of the date of the enactment of this Act \[Feb. 20, 2003\] to the ‘Capitol Police Board’ shall be deemed to refer to the Capitol Police Board as composed under subsection (a)(2).
 
-“(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of theCapitol Police Board or its individual members unless specifically provided herein.”
+“(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein.”
 
 #### Transfer of Library of Congress Police to Capitol Police
 
@@ -208,7 +208,7 @@ Service performed for retirement purposes.—For those Library of Congress Polic
 
 &emsp;&emsp;“(C)
 
-Vacancies.—Notwithstanding any other provision of law, upon the date of enactment of this section \[Feb. 20, 2003\] and until completion of the transfer under paragraph (1), vacancies in Library of Congress police employee positions, if filled, shall be filled in accordance with the employment standards of the United States Capitol Police, to the extent practicable as determined by the Chief of the Capitol Police.
+Vacancies.—Notwithstanding any other provision of law, upon the date of enactment of this section \[Feb. 20, 2003\] and until completion of the transfer under paragraph (1), vacancies in Libraryof Congress police employee positions, if filled, shall be filled in accordance with the employment standards of the United States Capitol Police, to the extent practicable as determined by the Chief of the Capitol Police.
 
 &emsp;“(3)
 

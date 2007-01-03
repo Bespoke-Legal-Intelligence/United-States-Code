@@ -12,25 +12,14 @@
 | [1358\.](%C2%A7%2001358%20-%20Consent%20of%20Congress%20for%20interstate%20compacts%3B%20reservation%20of%20right%20to%20alter%2C%20amend%2C%20or%20repeal.md) | Consent of Congress for interstate compacts; reservation of right to alter, amend, or repeal. |
 | [1359\.](%C2%A7%2001359%20-%20Advisory%20councils%20for%20technical%20services%3B%20appointment%3B%20functions%3B%20compensation%20and%20expenses.md) | Advisory councils for technical services; appointment; functions; compensation and expenses. |
 | [1360\.](%C2%A7%2001360%20-%20Appropriations%20and%20payments.md) | Appropriations and payments. |
-| (a) | Authorization of appropriations. |
-| (b) | Authorization of annual payments; maximum amounts. |
-| (c) | Payments for programs of special merit or additional programs. |
-| (d) | Expenses of administration. |
-| (e) | Limitations on payments. |
 | [1361\.](%C2%A7%2001361%20-%20Reference%20services%20to%20assist%20designated%20agencies%20to%20obtain%20information%20outside%20State.md) | Reference services to assist designated agencies to obtain information outside State. |
 | [1362\.](%C2%A7%2001362%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [1363\.](%C2%A7%2001363%20-%20Prohibition%20against%20control%20over%20educational%20institutions%3B%20functions%20or%20responsibilities%20of%20other%20departments%20not%20affected.md) | Prohibition against control over educational institutions; functions or responsibilities of other departments not affected. |
-| (a) | Control of educational institutions. |
-| (b) | Functions of other agencies. |
 | [1364\.](%C2%A7%2001364%20-%20Annual%20report%20by%20designated%20agencies%20to%20Secretary%3B%20reports%20by%20Secretary%20to%20President%20and%20Congress.md) | Annual report by designated agencies to Secretary; reports by Secretary to President and Congress. |
-| (a) | Agency reports. |
-| (b) | Reports of Secretary of Commerce. |
 | [1365\.](%C2%A7%2001365%20-%20Public%20committee%3B%20appointment%3B%20functions%3B%20report.md) | Public committee; appointment; functions; report. |
 | [1366\.](%C2%A7%2001366%20-%20Termination%20of%20payments%20for%20noncompliance%20with%20law%20or%20diversion%20of%20funds.md) | Termination of payments for noncompliance with law or diversion of funds. |
 | [1367\.](%C2%A7%2001367%20-%20Repayments.md) | Repayments. |
 | [1368\.](%C2%A7%2001368%20-%20Records.md) | Records. |
-| (a) | Grant recipients. |
-| (b) | Access to records of recipients. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -32,7 +32,7 @@ Privilege.—This subsection shall not affect the right of the claimant to refus
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat.1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 Section 985 of this title, referred to in subsec. (a), was enacted by Pub. L. 106–185, and relates to civil forfeitures of real property and not to procedures and limitations for subpoenas. The reference to section 985 was included in this section when it was enacted by Pub. L. 102–550, but at that time there was no section 985 of this title.
 
@@ -47,4 +47,6 @@ The Federal Rules of Civil Procedure, referred to in subsec. (c), are set out in
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

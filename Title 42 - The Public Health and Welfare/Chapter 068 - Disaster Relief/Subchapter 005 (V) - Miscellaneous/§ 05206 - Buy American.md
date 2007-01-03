@@ -8,13 +8,13 @@ No funds authorized to be appropriated under this Act or any amendment made by t
 
 #### (1) In general
 
-&emsp;If the Director of the Federal Emergency Management Agency determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States that is not made in America, the Director shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+&emsp;If the Administrator of the Federal Emergency Management Agency determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States that is not made in America, the Administrator shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 #### (2) Definition of debar
 
 &emsp;In this subsection, the term “debar” has the meaning given the term in section 2393(c) of title 10.
 
-(Pub. L. 106–390, title III, §306, Oct. 30, 2000, 114 Stat. 1574.)
+(Pub. L. 106–390, title III, §306, Oct. 30, 2000, 114 Stat. 1574; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -28,7 +28,13 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Section was enacted as part of the Disaster Mitigation Act of 2000, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsec. (b)(1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

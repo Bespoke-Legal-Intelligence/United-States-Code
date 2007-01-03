@@ -16,7 +16,7 @@ Warrant officer, W–1.
 
 (b) Appointments in the grade of regular warrant officer, W–1, shall be made by warrant by the Secretary concerned. Appointments in regular chief warrant officer grades shall be made by commission by the President.
 
-(c) An appointment may not be made in any of the armed forces in the regular warrant officer grade of chief warrant officer, W–5, if the appointment would result in more than 5 percentof the warrant officers of that armed force on active duty being in the grade of chief warrant officer, W–5. In computing the limitation prescribed in the preceding sentence, there shall be excluded warrant officers described in section 582 of this title.
+(c) An appointment may not be made in any of the armed forces in the regular warrant officer grade of chief warrant officer, W–5, if the appointment would result in more than 5 percent of the warrant officers of that armed force on active duty being in the grade of chief warrant officer, W–5. In computing the limitation prescribed in the preceding sentence, there shall be excluded warrant officers described in section 582 of this title.
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 102–484, div. A, title X, §1052(2), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(a)(2), Oct. 5, 1994, 108 Stat. 2764.)
 

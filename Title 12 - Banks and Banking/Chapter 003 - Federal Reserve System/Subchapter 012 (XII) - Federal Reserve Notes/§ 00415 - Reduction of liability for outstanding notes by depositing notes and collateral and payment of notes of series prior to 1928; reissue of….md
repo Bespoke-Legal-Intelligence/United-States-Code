@@ -26,7 +26,3 @@ Pub. L. 90–269 repealed second par. (sixth par, of section 16 of Act Dec. 23, 
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Transfer of Functions
-
-For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
-

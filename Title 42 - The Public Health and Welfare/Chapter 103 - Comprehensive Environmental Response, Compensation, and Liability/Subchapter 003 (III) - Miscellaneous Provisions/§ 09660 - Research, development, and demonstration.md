@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) Graduate or advanced training in environmental and occupational health and safety and in the public health and engineering aspects of hazardous waste control.
 
-&emsp;&emsp;&emsp;(iii) Graduate training in the geosciences, including hydrogeology, geological engineering, geophysics, geochemistry, and related fields necessary to meet professional personnel needs in the public and private sectors and to effectuate the purposes of this chapter.
+&emsp;&emsp;&emsp;(iii) Graduate training in the geosciences, including hydrogeology, geological engineering, geophysics, geochemistry, and related fields necessary to meet professional personnel needs in the public andprivate sectors and to effectuate the purposes of this chapter.
 
 #### (2) Director of NIEHS
 
@@ -40,7 +40,7 @@
 
 #### (4) Procedures
 
-&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under titleIV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
+&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under title IV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
 
 #### (5) Advisory council
 
@@ -102,7 +102,7 @@
 
 #### (C) Applications
 
-&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application tothe Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
+&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application to the Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
 
 #### (D) Project selection
 
@@ -134,7 +134,7 @@
 
 #### (6) Field demonstrations
 
-&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated at least 10 field demonstration projects of alternative or innovative treatment technologies at sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
+&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated at least 10 field demonstration projects of alternative or innovative treatment technologiesat sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
 
 #### (7) Criteria
 
@@ -186,7 +186,7 @@ The Administrator may conduct and support, through grants, cooperative agreement
 
 #### (3) Applications
 
-&emsp;Any institution of higher learning interested in receiving a grant under this subsection shall submit to the Administrator an application in such form and containing such information as the Administrator may require by regulation.
+&emsp;Any institution of higher learning interested in receiving a grant under this subsectionshall submit to the Administrator an application in such form and containing such information as the Administrator may require by regulation.
 
 #### (4) Selection criteria
 

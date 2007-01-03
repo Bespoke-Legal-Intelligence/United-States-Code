@@ -4,7 +4,7 @@ In this subchapter, the following definitions apply:
 
 &emsp;(1)
 
-Federal government.—The term “Federal Government” has the same meaning that the term “United States” had in the Act of March 3, 1931 (ch. 411, 46 Stat. 1494 (known as the Davis-Bacon Act).<sup>1</sup>
+Federal government.—The term “Federal Government” has the same meaning that the term “United States” had in the Act of March 3, 1931 (ch. 411, 46 Stat. 1494) (known as the Davis-Bacon Act).
 
 &emsp;(2)
 
@@ -18,7 +18,7 @@ Wages, scale of wages, wage rates, minimum wages, and prevailing wages.—The te
 
 &emsp;&emsp;&emsp;(ii) the rate of costs to the contractor or subcontractor that may be reasonably anticipated in providing benefits to laborers and mechanics pursuant to an enforceable commitment to carry out a financially responsible plan or program which was communicated in writing to the laborers and mechanics affected.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150; Pub. L. 109–284, §6(11), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -46,5 +46,7 @@ Clause (1) is added for clarity.
 
 The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of this title by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
+#### Amendments
+
+2006—Par. (1). Pub. L. 109–284 substituted “1494)” for “1494”.
 

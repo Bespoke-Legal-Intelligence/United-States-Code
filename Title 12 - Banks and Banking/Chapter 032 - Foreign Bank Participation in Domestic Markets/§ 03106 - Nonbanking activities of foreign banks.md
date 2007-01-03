@@ -20,7 +20,7 @@ Termination of grandfathered rights.—
 
 &emsp;(A)
 
-In general.—If any foreign bank or foreign company files a declaration under section 4(<i>l</i>)(1)(C) of the Bank Holding Company Act of1956 \[12 U.S.C. 1843(<i>l</i>)(1)(C)\], any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act \[12 U.S.C. 1843(k)\] shall terminate immediately.
+In general.—If any foreign bank or foreign company files a declaration under section 4(<i>l</i>)(1)(C) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(<i>l</i>)(1)(C)\], any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act \[12 U.S.C. 1843(k)\] shall terminate immediately.
 
 &emsp;(B)
 
@@ -30,7 +30,7 @@ Restrictions and requirements authorized.—If a foreign bank or company that en
 
 Nothing in this section shall be construed to define a branch or agency of a foreign bank or a commercial lending company controlled by a foreign bank or foreign company that controls a foreign bank as a “bank” for the purposes of any provisions of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or section 1850 of this title, except that any such branch, agency or commercial lending company subsidiary shall be deemed a “bank” or “banking subsidiary”, as the case may be, for the purposes of applying the prohibitions of chapter 22 of this title and the exemptions provided in sections 4(c)(1), 4(c)(2), 4(c)(3), and 4(c)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(c)(1), (2), (3), and (4)) to any foreign bank or other company to which subsection (a) of this section applies.
 
-(Pub. L. 95–369, §8(a)–(d), Sept. 17, 1978, 92 Stat. 622, 623; Pub. L. 97–320, title VII, §§704, 705, Oct. 15, 1982, 96 Stat. 1539; Pub. L. 100–86, title II, §204, Aug. 10, 1987, 101 Stat. 584; Pub. L. 102–242, title II, §207, Dec. 19, 1991, 105 Stat. 2295; Pub. L. 106–102, title I, §141, Nov. 12, 1999, 113 Stat. 1383.)
+(Pub. L. 95–369, §8(a)–(d), Sept. 17, 1978, 92 Stat. 622, 623; Pub. L. 97–320, title VII, §§704, 705, Oct.15, 1982, 96 Stat. 1539; Pub. L. 100–86, title II, §204, Aug. 10, 1987, 101 Stat. 584; Pub. L. 102–242, title II, §207, Dec. 19, 1991, 105 Stat. 2295; Pub. L. 106–102, title I, §141, Nov. 12, 1999, 113 Stat. 1383.)
 
 #### References in Text
 

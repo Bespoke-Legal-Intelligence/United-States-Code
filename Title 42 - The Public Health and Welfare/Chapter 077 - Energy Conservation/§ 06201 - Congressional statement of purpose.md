@@ -84,7 +84,7 @@ Pub. L. 97–229, §1, Aug. 3, 1982, 96 Stat. 248, provided that: “This Act \[
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) of title X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting visions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
+Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) of title X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting provisions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
 
 #### Short Title
 
@@ -134,7 +134,7 @@ Exchange.—The term ‘exchange’ means an agreement that—
 
 &emsp;“(4)
 
-Industry trade association.—The term ‘industry trade association’ means an organization described in paragraph (3) or (6) of section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3), (6)\] that is exempt from taxation under section 501(a) of that Code and is organized for the purpose of representing the oilheat industry.
+Industry trade association.—The term ‘industry trade association’ means an organization described in paragraph (3) or (6) of section 501(c) of theInternal Revenue Code of 1986 \[26 U.S.C. 501(c)(3), (6)\] that is exempt from taxation under section 501(a) of that Code and is organized for the purpose of representing the oilheat industry.
 
 &emsp;“(5)
 
@@ -694,7 +694,7 @@ Costs.—A successful action for compliance under this section may also require 
 
 “(a)
 
-Prohibition.—It shall be unlawful for any person to conduct a consumer education activity, undertakenwith funds derived from assessments collected by the Alliance under section 707, that includes—
+Prohibition.—It shall be unlawful for any person to conduct a consumer education activity, undertaken with funds derived from assessments collected by the Alliance under section 707, that includes—
 
 &emsp;“(1) a reference to a private brand name;
 
@@ -788,13 +788,13 @@ Sec. 3. The Administrator of the Office of Federal Procurement Policy, in the ex
 
 Sec. 4. (a) The Secretary of Energy, in consultation with the heads of appropriate agencies, is hereby authorized and directed to develop for the President's consideration, in accord with section 201 of the Energy Policy and Conservation Act (89 Stat. 890, 42 U.S.C. 6261), the energy conservation and rationing contingency plans prescribed under sections 202 and 203 of the Energy Policy and Conservation Act (89 Stat. 892, 42 U.S.C. 6262 and 6263).
 
-(b) The Secretary of Energy shall prepare, with the assistance of the heads of appropriate agencies, for the President's consideration, the annual reports providedby section 381(c) of the Energy Policy and Conservation Act (89 Stat. 939, 42 U.S.C. 6361(c)).
+(b) The Secretary of Energy shall prepare, with the assistance of the heads of appropriate agencies, for the President's consideration, the annual reports provided by section 381(c) of the Energy Policy and Conservation Act (89 Stat. 939, 42 U.S.C. 6361(c)).
 
 Sec. 5. The Secretary of State is hereby delegated the authority vested in the President by Section 252(c)(1)(A)(iii) of the Energy Policy and Conservation Act (89 Stat. 895, 42 U.S.C. 6272(c)(1)(A)(iii)).
 
 Sec. 6. The Secretary of Energy is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by:
 
-(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretary shall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 App. U.S.C. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
+(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretary shall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 U.S.C. App. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
 
 (b) Section 253(c) of the Energy Policy and Conservation Act (89 Stat. 898, 42 U.S.C. 6273);
 
@@ -826,7 +826,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 (e)(1) The head of each Executive agency that maintains any existing building or will maintain any new building shall submit no later than six months after the issuance of guidelines pursuant to subsection (d), to the Secretary a ten-year plan designed to the maximum extent practicable to meet the goals in subsection (b) for the total of existing or new Federal buildings. Such ten-year plans shall only consider improvements that are cost-effective consistent with the criteria established by the Director of the Office of Management and Budget (OMB Circular A–94) and the method established pursuant to subsection (c) of this Section. The plan submitted shall specify appropriate energy-saving initiatives and shall estimate the expected improvements by fiscal year in terms of specific accomplishments—energy savings and cost savings—together with the estimated costs of achieving the savings.
 
-(2) The plans submitted shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with over 30,000 gross square feet of space owned and maintained by Executive agencies. Further, the second annual report submitted under subsection (g)(2) of this Section shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with more than 5,000 but not more than 30,000 gross square feet of space. The purpose of such preliminary energy audits shall be to identify the type, size, energy uselevel and major energy using systems of existing Federal buildings.
+(2) The plans submitted shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with over 30,000 gross square feet of space owned and maintained by Executive agencies. Further, the second annual report submitted under subsection (g)(2) of this Section shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with more than 5,000 but not more than 30,000 gross square feet of space. The purpose of such preliminary energy audits shall be to identify the type, size, energy use level and major energy using systems of existing Federal buildings.
 
 (3) The Secretary shall evaluate agency plans relative to the guidelines established pursuant to subsection (d) for such plans and relative to the cost estimating method established pursuant to subsection (c). Plans determined to be deficient by the Secretary will be returned to the submitting agency head for revision and resubmission within 60 days.
 

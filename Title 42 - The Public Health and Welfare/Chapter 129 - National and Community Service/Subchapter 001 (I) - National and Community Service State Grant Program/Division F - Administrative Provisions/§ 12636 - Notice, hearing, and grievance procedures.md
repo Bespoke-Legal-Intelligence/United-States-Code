@@ -4,7 +4,7 @@
 
 #### (1) Suspension of payments
 
-&emsp;The Corporation may in accordance with the provisions of this subchapter, suspend or terminate payments under a contract or grant providing assistance under this subchapter, or revoke the designation of positions, related to the grant or contract, as approved national service positions, whenever the Corporation determines there is a material failure to comply with this subchapter or the applicable terms and conditions of any such grant or contract issued pursuant to this subchapter.
+&emsp;The Corporation may in accordance with the provisions of this subchapter, suspend or terminate payments under a contract or grant providing assistance under this subchapter, or revoke the designation of positions, related to the grant or contract, as approved national service positions, whenever the Corporation determines there is a material failure to comply with this subchapter or the applicableterms and conditions of any such grant or contract issued pursuant to this subchapter.
 
 #### (2) Procedures to ensure assistance
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) assistance provided under this subchapter shall not be suspended for failure to comply with the applicable terms and conditions of this subchapter except, in emergency situations, a suspension may be granted for 30 days; and
 
-&emsp;&emsp;(B) assistance provided under this subchapter shall not be terminated or revoked for failure to comply with applicable terms and conditions of this subchapter unless therecipient of such assistance has been afforded reasonable notice and opportunity for a full and fair hearing.
+&emsp;&emsp;(B) assistance provided under this subchapter shall not be terminated or revoked for failure to comply with applicable terms and conditions of this subchapter unless the recipient of such assistance has been afforded reasonable notice and opportunity for a full and fair hearing.
 
 #### (b) Hearings
 
@@ -94,7 +94,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 &emsp;&emsp;(C) prohibition of the placement described in paragraph (5); and
 
-&emsp;&emsp;(D) in a case in which the grievance involves a violation of subsection (a) or (b) of section 12637 of this title and the employer of the displaced employee is the recipient of assistance under this subchapter—
+&emsp;&emsp;(D) in a case in which the grievance involves a violation of subsection (a) or (b) of section 12637 of this title and the employerof the displaced employee is the recipient of assistance under this subchapter—
 
 &emsp;&emsp;&emsp;(i) reinstatement of the displaced employee to the position held by such employee prior to displacement;
 
@@ -106,7 +106,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (7) Enforcement
 
-&emsp;Suits to enforce arbitration awards under this section may be brought in any districtcourt of the United States having jurisdiction of the parties, without regard to the amount in controversy and without regard to the citizenship of the parties.
+&emsp;Suits to enforce arbitration awards under this section may be brought in any district court of the United States having jurisdiction of the parties, without regard to the amount in controversy and without regard to the citizenship of the parties.
 
 (Pub. L. 101–610, title I, §176, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §116, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 863, 918.)
 

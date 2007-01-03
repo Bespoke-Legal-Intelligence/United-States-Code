@@ -14,7 +14,7 @@ Section was formerly classified to section 611 of Title 5 prior to the general r
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–619, §1, Nov. 6, 1986, 100 Stat. 3491, provided that: “This Act \[amending sections 552 and 553 of this title and sections 5313 to 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorganization Plan No. 6 of 1950, set out in the Appendix to Title 5, and enacting provisions set out as notes under sections 552 and 553 of this title and section 5316 of Title 5\] may be cited as the ‘Department of Labor Executive Level Conforming Amendments of 1986’.”
+Pub. L. 99–619, §1, Nov. 6, 1986, 100 Stat. 3491, provided that: “This Act \[amending sections 552 and 553 of thistitle and sections 5313 to 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorganization Plan No. 6 of 1950, set out in the Appendix to Title 5, and enacting provisions set out as notes under sections 552 and 553 of this title and section 5316 of Title 5\] may be cited as the ‘Department of Labor Executive Level Conforming Amendments of 1986’.”
 
 #### Transfer of Functions
 
@@ -26,7 +26,7 @@ For assignment of certain emergency preparedness functions to Secretary of Labor
 
 #### History of Department
 
-A Department of Labor under the charge of a Commissioner of Labor was first established by act June 13, 1888, ch. 389, 25 Stat. 182. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor, by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 827. The name Department of Labor was changed to Bureau of Labor by act Mar. 18, 1904, ch. 716, 33 Stat. 136. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerceand Labor was transferred to the present Department of Labor by said act.
+A Department of Labor under the charge of a Commissioner of Labor was first established by act June 13, 1888, ch. 389, 25 Stat. 182. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor, by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 827. The name Department of Labor was changed to Bureau of Labor by act Mar. 18, 1904, ch. 716, 33 Stat. 136. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerce and Labor was transferred to the present Department of Labor by said act.
 
 #### Order of Succession
 

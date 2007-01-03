@@ -2,7 +2,7 @@
 
 #### (a) Study of suitable bases
 
-The Secretary of Defense and the Attorney General shall jointly conduct a study of all military installations selected before September 13, 1994, to be closed pursuant to a base closure law for the purpose of evaluating the suitability of any of these installations, or portions of these installations, for conversion into Federal prison facilities. As part of the study, the Secretaryand the Attorney General shall identify the military installations so evaluated that are most suitable for conversion into Federal prison facilities.
+The Secretary of Defense and the Attorney General shall jointly conduct a study of all military installations selected before September 13, 1994, to be closed pursuant to a base closure law for the purpose of evaluating the suitability of any of these installations, or portions of these installations, for conversion into Federal prison facilities. As part of the study, the Secretary and the Attorney General shall identify the military installations so evaluated that are most suitable for conversion into Federal prison facilities.
 
 #### (b) Suitability for conversion
 

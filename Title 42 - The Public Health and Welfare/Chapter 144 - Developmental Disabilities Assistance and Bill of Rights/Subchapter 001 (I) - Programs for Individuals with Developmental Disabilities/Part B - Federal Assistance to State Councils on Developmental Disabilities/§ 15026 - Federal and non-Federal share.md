@@ -26,7 +26,7 @@ In determining the amount of any State's Federal share of the cost of such proje
 
 #### (1) In-kind contributions
 
-&emsp;The non-Federal share of the cost of any project supported by an allotment under this part may be provided in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The non-Federal share of the cost of any project supported by an allotment under thispart may be provided in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (2) Contributions of political subdivisions and public or private entities
 

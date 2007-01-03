@@ -20,7 +20,7 @@ Another prior section 5001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1251; Pub.
 
 A prior section 5002 was renumbered section 8102 of this title.
 
-Another prior section 5002, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, §210(e)(2), Oct.21, 1976, 90 Stat. 2865, relating to the construction and repair of hospitals, domiciliaries, and outpatient dispensary facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8103 of this title.
+Another prior section 5002, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252; Pub. L. 94–581, title II, §210(e)(2), Oct. 21, 1976, 90 Stat. 2865, relating to the construction and repair of hospitals, domiciliaries, and outpatient dispensary facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8103 of this title.
 
 A prior section 5003 was renumbered section 8103 of this title.
 

@@ -4,7 +4,7 @@ As used in this chapter (unless the context otherwise requires):
 
 #### (1) Institutes of Tropical Forestry
 
-&emsp;The term “Institutes of Tropical Forestry” means the Institute of Tropical Forestry inPuerto Rico and the Institute of Pacific Islands Forestry established under section 6706 of title 7.
+&emsp;The term “Institutes of Tropical Forestry” means the Institute of Tropical Forestry in Puerto Rico and the Institute of Pacific Islands Forestry established under section 6706 of title 7.
 
 #### (2) Secretary
 

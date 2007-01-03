@@ -58,7 +58,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;“(2) achievement of national transportation safety goals, including the enhancement of safe operation of motor vehicles and nonmotorized vehicles and improved emergency response to a crash, with particular emphasis on decreasing the number and severity of collisions;
 
-&emsp;“(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
+&emsp;“(3) protection and enhancement of the natural environment and communities affected by surfacetransportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
 &emsp;“(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial motor vehicles, passenger motor vehicles, motorcycles, bicycles and pedestrians, including individuals with disabilities; and
 
@@ -294,7 +294,7 @@ Use of expert panel.—
 
 &emsp;&emsp;“(A)
 
-Designation.—The Secretary shall designate a panel of experts to recommend ways to expedite and streamline the process for developing thestandards and protocols to be developed pursuant to paragraph (1).
+Designation.—The Secretary shall designate a panel of experts to recommend ways to expedite and streamline the process for developing the standards and protocols to be developed pursuant to paragraph (1).
 
 &emsp;&emsp;“(B)
 

@@ -20,7 +20,7 @@ Public Land Orders 5133 dated October 12, 1971, and 5777 dated November 21, 1980
 
 #### (d) Water
 
-(1) The Congress finds that the United States is currently a party in an adjudication of rights to waters of the Snake River, including water rights claimed by the United States on the basisof the reservation of lands for purposes of conservation of fish and wildlife and that consequently there is no need for this subchapter to effect a reservation by the United States of rights with respect to such waters in order to fulfill the purposes for which the conservation area is established.
+(1) The Congress finds that the United States is currently a party in an adjudication of rights to waters of the Snake River, including water rights claimed by the United States on the basis of the reservation of lands for purposes of conservation of fish and wildlife and that consequently there is no need for this subchapter to effect a reservation by the United States of rights with respect to such waters in order to fulfill the purposes for which the conservation area is established.
 
 (2) Nothing in this subchapter or any action taken pursuant thereto shall constitute either an expressed or implied reservation of water or water rights for any purpose.
 

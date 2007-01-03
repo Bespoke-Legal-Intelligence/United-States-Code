@@ -6,7 +6,7 @@ Not later than six months after October 17, 1986, the Governor of each State sha
 
 #### (b) Establishment of emergency planning districts
 
-Not later than nine months after October 17, 1986, the State emergency response commission shall designate emergency planning districts in order to facilitate preparation and implementation of emergency plans. Where appropriate, the State emergency response commission may designate existing political subdivisions or multijurisdictional planning organizations as such districts. In emergency planning areas that involve more than one State, the State emergency response commissions of all potentially affected States may designate emergency planning districts and local emergency planning committees by agreement. In making such designation, the State emergency response commission shall indicate which facilities subject to the requirements of this subchapter are within such emergency planning district.
+Not later than nine months after October 17, 1986, the State emergency response commissionshall designate emergency planning districts in order to facilitate preparation and implementation of emergency plans. Where appropriate, the State emergency response commission may designate existing political subdivisions or multijurisdictional planning organizations as such districts. In emergency planning areas that involve more than one State, the State emergency response commissions of all potentially affected States may designate emergency planning districts and local emergency planning committees by agreement. In making such designation, the State emergency response commission shall indicate which facilities subject to the requirements of this subchapter are within such emergency planning district.
 
 #### (c) Establishment of local emergency planning committees
 
@@ -28,5 +28,5 @@ Section 300(a) of title III of Pub. L. 99–499 provided that: “This title \[e
 
 #### Executive Order No. 12856
 
-Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal compliance with right-to-knowlaws and pollution prevention requirements, was revoked by Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, set out as a note under section 4321 of this title.
+Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal compliance with right-to-know laws and pollution prevention requirements, was revoked by Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, set out as a note under section 4321 of this title.
 

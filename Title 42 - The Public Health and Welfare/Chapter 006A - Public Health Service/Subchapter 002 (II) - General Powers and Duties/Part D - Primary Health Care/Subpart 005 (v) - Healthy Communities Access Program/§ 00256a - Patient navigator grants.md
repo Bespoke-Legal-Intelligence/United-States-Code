@@ -8,7 +8,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 The Secretary shall require each recipient of a grant under this section to use the grant to recruit, assign, train, and employ patient navigators who have direct knowledge of the communities they serve to facilitate the care of individuals, including by performing each of the following duties:
 
-&emsp;(1) Acting as contacts, including by assisting in the coordination of health care services and provider referrals, for individuals who are seeking prevention or early detection servicesfor, or who following a screening or early detection service are found to have a symptom, abnormal finding, or diagnosis of, cancer or other chronic disease.
+&emsp;(1) Acting as contacts, including by assisting in the coordination of health care services and provider referrals, for individuals who are seeking prevention or early detection services for, or who following a screening or early detection service are found to have a symptom, abnormal finding, or diagnosis of, cancer or other chronic disease.
 
 &emsp;(2) Facilitating the involvement of community organizations in assisting individuals who are at risk for or who have cancer or other chronic diseases to receive better access to high-quality health care services (such as by creating partnerships with patient advocacy groups, charities, health care centers, community hospice centers, other health care providers, or other organizations in the targeted community).
 
@@ -78,7 +78,7 @@ The Secretary shall ensure coordination of the demonstration grant program under
 
 #### (1) Final report by Secretary
 
-&emsp;Not later than 6 months after the completion of the demonstration grant program under this section, the Secretary shall conduct a study of the results of the program and submit to the Congress a report on such results that includes the following:
+&emsp;Not later than 6 months after the completion of the demonstration grant program under this section, the Secretary shall conduct a study of the results of the program andsubmit to the Congress a report on such results that includes the following:
 
 &emsp;&emsp;(A) An evaluation of the program outcomes, including—
 
@@ -90,7 +90,7 @@ The Secretary shall ensure coordination of the demonstration grant program under
 
 #### (2) Interim reports by Secretary
 
-&emsp;The Secretary may provide interim reports to the Congress on the demonstration grantprogram under this section at such intervals as the Secretary determines to be appropriate.
+&emsp;The Secretary may provide interim reports to the Congress on the demonstration grant program under this section at such intervals as the Secretary determines to be appropriate.
 
 #### (3) Reports by grantees
 

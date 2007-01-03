@@ -12,7 +12,7 @@
 
 &emsp;(i) a major stationary source (other than a primary nonferrous smelter which has received a primary nonferrous smelter order under section 7419 of this title), which is not in compliance with any emission limitation, emission standard or compliance schedule under any applicable implementation plan (whether or not such source is subject to a Federal or State consent decree), or
 
-&emsp;(ii) a stationary source which is not in compliance with an emission limitation, emission standard, standard of performance, or other requirement established under section 7411, 7477, 7603, or 7412 of this title, or
+&emsp;(ii) a stationary source which is not in compliance with an emission limitation, emissionstandard, standard of performance, or other requirement established under section 7411, 7477, 7603, or 7412 of this title, or
 
 &emsp;(iii) a stationary source which is not in compliance with any requirement of subchapter IV–A, V, or VI of this chapter, or
 
@@ -46,7 +46,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;&emsp;(A) the State does not have a delegation of authority in effect under subsection (a)(1)(B)(i) of this section, or
 
-&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particularperson or source to assess or collect the penalty in accordance with the requirements of this section;
+&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particular person or source to assess or collect the penalty in accordance with the requirements of this section;
 
 &emsp;(3) require the States, or in the event the States fail to do so, the Administrator, to give a brief but reasonably specific notice of noncompliance under this section to each person referred to in subsection (a)(2)(A) of this section with respect to each source owned or operated by such person which is not in compliance as provided in such subsection, not later than July 1, 1979, or thirty days after the discovery of such noncompliance, whichever is later;
 
@@ -86,7 +86,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 &emsp;(A) the amount determined in accordance with regulations promulgated by the Administrator under subsection (a) of this section, which is no less than the economic value which a delay in compliance beyond July 1, 1979, may have for the owner of such source, including the quarterly equivalent of the capital costs of compliance and debt service over a normal amortization period, not to exceed ten years, operation and maintenance costs foregone as a result of noncompliance, and any additional economic value which such a delay may have for the owner or operator of such source, minus
 
-&emsp;(B) the amount of any expenditure made by the owner or operator of that source duringany such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
+&emsp;(B) the amount of any expenditure made by the owner or operator of that source during any such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
 
 > To the extent that any expenditure under subparagraph (B) made during any quarter is not subtracted for such quarter from the costs under subparagraph (A), such expenditure may be subtracted for any subsequent quarter from such costs. In no event shall the amount paid be less than the quarterly payment minus the amount attributed to actual cost of construction.
 
@@ -98,7 +98,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 &emsp;(i) two years after August 7, 1977, in the case of a source for which notice of noncompliance under subsection (b)(3) of this section is issued on or before the date two years after August 7, 1977, or
 
-&emsp;(ii) on the date of issuance of the notice of noncompliance under subsection (b)(3) of this section, in the case of a source for which such notice is issued after July 1, 1979,
+&emsp;(ii) on the date of issuance of the notice of noncompliance under subsection (b)(3) of thissection, in the case of a source for which such notice is issued after July 1, 1979,
 
 > and ending on the date on which such source comes into (or for the purpose of establishing the schedule of payments, is estimated to come into) compliance with such requirement.
 
@@ -152,7 +152,7 @@ Subsec. (e). Pub. L. 95–190, §14(a)(38), substituted “subsection, shall” 
 
 #### Effective Date
 
-Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, setout as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

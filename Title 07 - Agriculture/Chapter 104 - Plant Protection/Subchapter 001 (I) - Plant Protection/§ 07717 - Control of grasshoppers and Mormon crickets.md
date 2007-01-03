@@ -40,7 +40,7 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 
 #### (2) Control on State lands
 
-&emsp;Out of funds made available under this section, the Secretary shall pay 50 percent of the cost of grasshopper or Mormon cricket control on State lands.
+&emsp;Out of funds made available under this section, the Secretary shall pay 50 percent of thecost of grasshopper or Mormon cricket control on State lands.
 
 #### (3) Control on private lands
 
@@ -48,7 +48,7 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 
 #### (e) Training
 
-From appropriated funds made available or transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes, the Secretary of Agriculture shall provide adequate funding for a program to train personnelto accomplish effectively the objective of this section.
+From appropriated funds made available or transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes, the Secretary of Agriculture shall provide adequate funding for a program to train personnel to accomplish effectively the objective of this section.
 
 (Pub. L. 106–224, title IV, §417, June 20, 2000, 114 Stat. 447.)
 

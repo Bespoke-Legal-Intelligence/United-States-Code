@@ -10,11 +10,11 @@
 
 &emsp;(2) The Department of Defense.
 
-&emsp;(3) The Department of Transportation (with respect to public money available for expenditure by the Coast Guard when it is not operating as a service in the Navy).
+&emsp;(3) The Department of Homeland Security.<sup>1</sup> (with respect to public money available for expenditure by the Coast Guard when it is not operating as a service in the Navy).
 
 (d) On request of the Secretary and with the approval of the head of an executive agency referred to in subsection (c) of this section, facilities of the agency may be used to assist in disbursing public money available for expenditure by another executive agency.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949; Pub. L. 103–355, title III, §3067, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. A, title IX, §913(a)(1), Feb. 10, 1996, 110 Stat. 410; Pub. L. 104–201, div. A, title X, §1009(a)(1), Sept. 23, 1996, 110 Stat. 2633.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949; Pub. L. 103–355, title III, §3067, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. A, title IX, §913(a)(1), Feb. 10, 1996, 110 Stat. 410; Pub. L. 104–201, div. A, title X, §1009(a)(1), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 109–241, title IX, §902(b)(1), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 
@@ -58,15 +58,13 @@ In subsection (c), the text of 31:492–1(1st sentence) is applied only to the l
 
 #### Amendments
 
+2006—Subsec. (c)(3). Pub. L. 109–241 substituted “Department of Homeland Security.” for “Department of Transportation”.
+
 1996—Subsec. (c)(2). Pub. L. 104–106 added par. (2) and struck out former par. (2) which read as follows: “The Department of Defense (except for disbursements for departmental pay and expenses in the District of Columbia).”
 
 Subsec. (c)(3). Pub. L. 104–201 added par. (3).
 
 1994—Subsec. (c)(2). Pub. L. 103–355 substituted “The Department of Defense” for “military departments of the Department of Defense”.
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Improper Payments
 
@@ -137,4 +135,6 @@ Application.—This section—
 “(f)
 
 Guidance by the Office of Management and Budget.—Not later than 6 months after the date of enactment of this Act \[Nov. 26, 2002\], the Director of the Office of Management and Budget shall prescribe guidance to implement the requirements of this section.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

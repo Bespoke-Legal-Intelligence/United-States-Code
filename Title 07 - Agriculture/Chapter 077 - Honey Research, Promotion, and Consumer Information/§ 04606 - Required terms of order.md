@@ -160,7 +160,7 @@ Finality.—An eligibility determination of the Secretary under this paragraph s
 
 &emsp;(D)
 
-Basis for certification.—Certification of an organization under this paragraph shall be based on, in addition to other available information, a factual report submitted by the organization that contains information considered relevant by the Secretary, including—
+Basis for certification.—Certification of an organization under this paragraph shallbe based on, in addition to other available information, a factual report submitted by the organization that contains information considered relevant by the Secretary, including—
 
 &emsp;&emsp;(i) the geographic territory covered by the active membership of the organization;
 
@@ -248,7 +248,7 @@ Alternative rate approved in referendum.—If approved in a referendum conducted
 
 &emsp;&emsp;&emsp;(II) producer-packers on all honey and honey products handled by the producer-packers, including honey produced by the producer-packers); and
 
-&emsp;(B) in the case of honey and honey products imported into the United States, $0.015 per pound payable by honey importers, of which $0.0075 per pound represents the assessment due from the handler to be paid by the importer on behalf of the handler.
+&emsp;(B) in the case of honey and honey products imported into the United States, $0.015 per pound payable by honey importers, of which$0.0075 per pound represents the assessment due from the handler to be paid by the importer on behalf of the handler.
 
 (4)(A) Honey that is consumed at home by the producer or importer or donated by the producer or importer to a nonprofit, government, or other entity, as determined appropriate by the Secretary, rather than sold shall be exempt from assessment under the order, except that donated honey that later is sold in a commercial outlet by a donee or a donee's assignee shall be subject to assessment on such sale.
 
@@ -308,13 +308,13 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 #### (k) Honey Board; property interests
 
-Any patent on any product, copyright on any material, or any invention, product formulationor publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
+Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
 (Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+1998—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to theCommittee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
 
 Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out “after the first annual meeting” after “except that” in second sentence and substituted “percent” for “per centum” in third sentence.
 

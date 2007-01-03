@@ -20,9 +20,9 @@
 
 &emsp;(1) refunds to the limit of liability of an individual tax account; and
 
-&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 35 of such Code.
+&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 35 or 53(e) of such Code.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, §201(c)(1), Aug. 6, 2002, 116 Stat. 960.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, §201(c)(1), Aug. 6, 2002, 116 Stat. 960; Pub. L. 109–432, div. A, title IV, §402(b)(2), Dec. 20, 2006, 120 Stat. 2954.)
 
 Historical and Revision Notes
 
@@ -54,15 +54,21 @@ Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, c
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
-Section 35 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), is classified to section 35 of Title 26, Internal Revenue Code.
+Sections 35 and 53 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 35 and 53, respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–432 inserted “or 53(e)” after “section 35”.
 
 2002—Subsec. (b)(2). Pub. L. 107–210 inserted “, or from section 35 of such Code” before period at end.
 
 1997—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
 
 1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–432 applicable to taxable years beginning after Dec. 20, 2006, see section 402(c) of Pub. L. 109–432, set out as a note under section 53 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1997 Amendment
 

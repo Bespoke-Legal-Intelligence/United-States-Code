@@ -10,7 +10,7 @@ Consultation and negotiation.—In developing and making changes to the personne
 
 &emsp;(2)
 
-Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
+Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel managementsystem shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
 
 &emsp;(3)
 
@@ -46,7 +46,7 @@ Personnel Management System.—
 
 &emsp;(1)
 
-In general.—In consultation with the employees of the Administration and suchnon-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
+In general.—In consultation with the employees of the Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
 
 &emsp;(2)
 

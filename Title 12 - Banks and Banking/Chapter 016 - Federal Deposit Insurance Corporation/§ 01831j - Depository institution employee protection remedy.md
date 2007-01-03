@@ -86,5 +86,5 @@ Subsec. (e). Pub. L. 102–242, §251(a)(3), added subsec. (e).
 
 #### Effective Date of 1991 Amendment
 
-Section 251(a)(4) of Pub. L. 102–242 provided that: “Paragraph (2) of section 33(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1831j(a)(2)\] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of thisAct \[Dec. 19, 1991\], the 2-year period referred to in section 33(b) of such Act shall be deemed to begin on such date of enactment.”
+Section 251(a)(4) of Pub. L. 102–242 provided that: “Paragraph (2) of section 33(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1831j(a)(2)\] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of this Act \[Dec. 19, 1991\], the 2-year period referred to in section 33(b) of such Act shall be deemed to begin on such date of enactment.”
 

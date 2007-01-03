@@ -5,13 +5,7 @@
 | [1331\.](%C2%A7%2001331%20-%20Congressional%20declaration%20of%20policy%20and%20purpose.md) | Congressional declaration of policy and purpose. |
 | [1332\.](%C2%A7%2001332%20-%20Definitions.md) | Definitions. |
 | [1333\.](%C2%A7%2001333%20-%20Labeling%3B%20requirements%3B%20conspicuous%20statement.md) | Labeling; requirements; conspicuous statement. |
-| (a) | Required warnings; packages; advertisements; billboards. |
-| (b) | Conspicuous statement; label statement format; outdoor billboard statement format. |
-| (c) | Rotation of label statement; plan; submission to Federal Trade Commission. |
-| (d) | Application; distributors; retailers. |
 | [1334\.](%C2%A7%2001334%20-%20Preemption.md) | Preemption. |
-| (a) | Additional statements. |
-| (b) | State regulations. |
 | [1335\.](%C2%A7%2001335%20-%20Unlawful%20advertisements%20on%20medium%20of%20electronic%20communication.md) | Unlawful advertisements on medium of electronic communication. |
 | [1335a.](%C2%A7%2001335a%20-%20List%20of%20cigarette%20ingredients%3B%20annual%20submission%20to%20Secretary%3B%20transmittal%20to%20Congress%3B%20confidentiality.md) | List of cigarette ingredients; annual submission to Secretary; transmittal to Congress; confidentiality. |
 | [1336\.](%C2%A7%2001336%20-%20Authority%20of%20Federal%20Trade%20Commission%3B%20unfair%20or%20deceptive%20acts%20or%20practices.md) | Authority of Federal Trade Commission; unfair or deceptive acts or practices. |
@@ -20,9 +14,6 @@
 | [1339\.](%C2%A7%2001339%20-%20Injunction%20proceedings.md) | Injunction proceedings. |
 | [1340\.](%C2%A7%2001340%20-%20Cigarettes%20for%20export.md) | Cigarettes for export. |
 | [1341\.](%C2%A7%2001341%20-%20Smoking%2C%20research%2C%20education%20and%20information.md) | Smoking, research, education and information. |
-| (a) | Establishment of program; Secretary; functions. |
-| (b) | Interagency Committee on Smoking and Health; composition; chairman; compensation; staffing and other assistance. |
-| (c) | Report to Congress; contents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

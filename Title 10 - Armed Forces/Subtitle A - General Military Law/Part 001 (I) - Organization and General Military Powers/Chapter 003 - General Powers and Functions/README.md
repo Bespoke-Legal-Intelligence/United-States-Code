@@ -13,7 +13,13 @@
 | [127\.](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md) | Emergency and extraordinary expenses. |
 | [127a.](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md) | Operations for which funds are not provided in advance: funding mechanisms. |
 | [127b.](%C2%A7%2000127b%20-%20Assistance%20in%20combating%20terrorism%20rewards.md) | Assistance in combating terrorism: rewards. |
-| [127c.](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md) | Purchase of weapons overseas: force protection. |
+| 127c.<sup>1</sup> | Allied forces participating in combined operations: authority to provide logistic support, supplies, and services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 127c.<sup>1</sup> | Purchase of weapons overseas: force protection. |
 | [128\.](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Physical protection of special nuclear material: limitation on dissemination of unclassified information. |
 | [129\.](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md) | Prohibition of certain civilian personnel management constraints. |
 | [129a.](%C2%A7%2000129a%20-%20General%20personnel%20policy.md) | General personnel policy. |
@@ -23,12 +29,15 @@
 | [130a.](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md) | Major Department of Defense headquarters activities personnel: limitation. |
 | [130b.](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md) | Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information. |
 | [130c.](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md) | Nondisclosure of information: certain sensitive information of foreign governments and international organizations. |
+| [130d.](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md) | Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title XII, §1231(b), Jan. 6, 2006, 119 Stat. 3468, added item 127c.
+2006—Pub. L. 109–364, div. A, title XII, §1201(b), title XIV, §1405(b), Oct. 17, 2006, 120 Stat. 2412, 2436, added items 127c, relating to allied forces participating in combined operations, and 130d.
+
+Pub. L. 109–163, div. A, title XII, §1231(b), Jan. 6, 2006, 119 Stat. 3468, added item 127c relating to purchase of weapons overseas.
 
 2003—Pub. L. 108–136, div. A, title VIII, §841(b)(2), Nov. 24, 2003, 117 Stat. 1552, substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in item 129b.
 
@@ -64,6 +73,8 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 
 1958—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
 
+<i><sup>1</sup></i><i> So in original. Two sections 127c have been enacted.</i>
+
 
 ---
 
@@ -80,7 +91,8 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00127 - Emergency and extraordinary expenses](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md)
 - [&sect; 00127a - Operations for which funds are not provided in advance funding mechanisms](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md)
 - [&sect; 00127b - Assistance in combating terrorism rewards](%C2%A7%2000127b%20-%20Assistance%20in%20combating%20terrorism%20rewards.md)
-- [&sect; 00127c - Purchase of weapons overseas force protection](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md)
+- [&sect; 00127c - 1 Allied forces participating in combined operations authority to provide logistic support, supplies, and services](%C2%A7%2000127c%20-%201%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md)
+- [&sect; 00127c - 1 Purchase of weapons overseas force protection](%C2%A7%2000127c%20-%201%20Purchase%20of%20weapons%20overseas%20force%20protection.md)
 - [&sect; 00128 - Physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
 - [&sect; 00129 - Prohibition of certain civilian personnel management constraints](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md)
 - [&sect; 00129a - General personnel policy](%C2%A7%2000129a%20-%20General%20personnel%20policy.md)
@@ -90,3 +102,4 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00130a - Major Department of Defense headquarters activities personnel limitation](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md)
 - [&sect; 00130b - Personnel in overseas, sensitive, or routinely deployable units nondisclosure of personally identifying information](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md)
 - [&sect; 00130c - Nondisclosure of information certain sensitive information of foreign governments and international organizations](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md)
+- [&sect; 00130d - Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md)

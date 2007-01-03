@@ -12,11 +12,7 @@ Bank.—The term “bank”—
 
 &emsp;&emsp;(A) means any national bank and State bank, and any Federal branch and insured branch;
 
-&emsp;&emsp;(B) includes any former savings association that—
-
-&emsp;&emsp;&emsp;(i) has converted from a savings association charter; and
-
-&emsp;&emsp;&emsp;(ii) is a Savings Association Insurance Fund member.
+&emsp;&emsp;(B) includes any former savings association.
 
 &emsp;(2)
 
@@ -24,7 +20,7 @@ State bank.—The term “State bank” means any bank, banking association, tru
 
 &emsp;&emsp;(A) is engaged in the business of receiving deposits, other than trust funds (as defined in this section); and
 
-&emsp;&emsp;(B) is incorporated under the laws of any State or which is operating under the Code of Law for the District of Columbia (except a national bank),
+&emsp;&emsp;(B) is incorporated under the laws of any State or which is operating under the Code of Law for the District of Columbia,
 
 > &emsp;including any cooperative bank or other unincorporated bank the deposits of which were insured by the Corporation on the day before August 9, 1989.
 
@@ -344,37 +340,27 @@ In danger of default.—The term “in danger of default” means an insured dep
 
 &emsp;&emsp;&emsp;(ii) there is no reasonable prospect that the capital of the depository institution or insured branch will be replenished without Federal assistance.
 
-(y) The term “deposit insurance fund” means the Bank Insurance Fund or the Savings Association Insurance Fund, as appropriate.
+(y)
+
+Definitions Relating to Deposit Insurance Fund.—
+
+&emsp;(1)
+
+Deposit insurance fund.—The term “Deposit Insurance Fund” means the Deposit Insurance Fund established under section 1821(a)(4) of this title.
+
+&emsp;(2)
+
+Designated reserve ratio.—The term “designated reserve ratio” means the reserve ratio designated by the Board of Directors in accordance with section 1817(b)(3) of this title.
+
+&emsp;(3)
+
+Reserve ratio.—The term “reserve ratio”, when used with regard to the Deposit Insurance Fund other than in connection with a reference to the designated reserve ratio, means the ratio of the net worth of the Deposit Insurance Fund to the value of the aggregate estimated insured deposits.
 
 (z)
 
 Federal Banking Agency.—The term “Federal banking agency” means the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §4, Feb. 15, 2006, 119 Stat. 3606, provided that, effective Jan. 1, 2007, subsection (y) of this section is amended as follows:</i>
-
-<i>(1) by striking “(y) The term” and inserting the following:</i>
-
-<i>“(y) DEFINITIONS RELATING TO DEPOSIT INSURANCE FUND.—</i>
-
-&emsp;<i>“(1) DEPOSIT INSURANCE FUND.—The term”; and</i>
-
-<i>(2) by inserting after paragraph (1) the following new paragraph:</i>
-
-&emsp;<i>“(2) DESIGNATED RESERVE RATIO.—The term ‘designated reserve ratio’ means the reserve ratio designated by the Board of Directors in accordance with section 1817(b)(3) of this title.”</i>
-
-<i>Pub. L. 109–173, §8(a)(1), (b), Feb. 15, 2006, 119 Stat. 3610, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1), by striking subparagraph (B) and inserting the following new subparagraph:</i>
-
-&emsp;&emsp;<i>“(B) includes any former savings association.”; and</i>
-
-<i>(2) in subsection (y), by striking paragraph (1) and inserting the following new paragraph:</i>
-
-&emsp;<i>“(1) DEPOSIT INSURANCE FUND.—The term ‘Deposit Insurance Fund’ means the Deposit Insurance Fund established under section 1821(a)(4) of this title.”</i>
+(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029.)
 
 #### References in Text
 
@@ -390,6 +376,24 @@ Section is derived from subsec. (c) of former section 264 of this title. See Cod
 
 #### Amendments
 
+2006—Subsec. (a)(1)(B). Pub. L. 109–173, §8(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “includes any former savings association that—
+
+&emsp;“(i) has converted from a savings association charter; and
+
+&emsp;“(ii) is a Savings Association Insurance Fund member.”
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(14)(A). See 1996 Amendment note below.
+
+Subsec. (a)(2)(B). Pub. L. 109–351 and 109–356 amended subpar. (B) identically, striking out “(except a national bank)” after “District of Columbia”.
+
+Subsec. (y). Pub. L. 109–173, §4(a), inserted subsec. heading and par. (1) designation and heading and added par. (2).
+
+Pub. L. 109–171, §2102(b), repealed Pub. L. 104–208, §2704(d)(6)(A). See 1996 Amendment note below.
+
+Subsec. (y)(1). Pub. L. 109–173, §8(a)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘deposit insurance fund’ means the Bank Insurance Fund or the Savings Association Insurance Fund, as appropriate.”
+
+Subsec. (y)(3). Pub. L. 109–171, §2107(b), added par. (3).
+
 2004—Subsec. (a)(1)(A). Pub. L. 108–386, §8(a)(1)(A), substituted “and State bank” for “, State bank, and District bank”.
 
 Subsec. (a)(4). Pub. L. 108–386, §8(a)(1)(B), struck out heading and text of par. (4). Text read as follows: “The term ‘District bank’ means any State bank operating under the Code of Law of the District of Columbia.”
@@ -400,13 +404,13 @@ Subsec. (q)(2)(A). Pub. L. 108–386, §8(a)(1)(D), struck out “(except a Dist
 
 Subsec. (q)(3). Pub. L. 108–386, §8(a)(1)(E), struck out “(except a District bank),” after “State nonmember insured bank”.
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–208, §2704(d)(14)(A), which directed striking out subpar. (B) and adding a new subpar. (B), was not executed. See Effective Date of 1996 Amendment note below.
+1996—Subsec. (a)(1)(B). Pub. L. 104–208, §2704(d)(14)(A), which directed striking out subpar. (B) and adding a new subpar. (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (<i>l</i>)(5)(C). Pub. L. 104–208, §2614(a), added subpar. (C).
 
 Subsec. (<i>o</i>). Pub. L. 104–208, §2205(b), substituted “lent. The term ‘domestic branch’ does not include an automated teller machine or a remote service unit. The” for “lent; and the”.
 
-Subsec. (y). Pub. L. 104–208, §2704(d)(6)(A), which directed the general amendment of subsec. (y), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (y). Pub. L. 104–208, §2704(d)(6)(A), which directed the general amendment of subsec. (y), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (i)(1). Pub. L. 103–325, §602(a)(1)(A), substituted “section 1821(m) of this title” for “section 1821(h) of this title”.
 
@@ -420,7 +424,7 @@ Subsec. (q)(2)(E). Pub. L. 103–325, §602(a)(1)(C), substituted “Financial I
 
 Subsec. (z). Pub. L. 103–204, §19(b)(1), amended subsec. (z) generally. Prior to amendment, subsec. (z) read as follows: “
 
-Federal Banking Agencies.—The term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.”
+Federal Banking Agencies.—The term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Board of Governors of the Federal ReserveSystem, and the Federal Deposit Insurance Corporation.”
 
 1992—Subsec. (i)(2). Pub. L. 102–550, §1606(g)(2), substituted “1821(n)” for “1821(i)”.
 
@@ -560,9 +564,11 @@ Subsec. (<i>o</i>). Act Aug. 1, 1956, §3(b), inserted “Guam,” after “Puer
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–173, §4(b), Feb. 15, 2006, 119 Stat. 3606, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(1) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 20\] take effect \[Jan. 1, 2007, see 71 F.R. 69323\].”
+Pub. L. 109–173, §4(b), Feb. 15, 2006, 119 Stat. 3606, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(1) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, set out as a Regulations note under section 1817 of this title\] take effect \[Jan. 1, 2007, see 71 F.R. 69323\].”
 
-Pub. L. 109–173, §8(b), Feb. 15, 2006, 119 Stat. 3616, provided that: “This section \[amending this section and sections 1815 to 1818, 1821 to 1825, 1827, 1828, 1831a, 1831e, 1831m, 1831n, and 1831<i>o</i> of this title and repealing section 1831h of this title\] and the amendments made by this section shall take effect on the day of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund \[Mar. 31, 2006, see 71 F.R. 20524\] pursuant to the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 9\].”
+Pub. L. 109–173, §8(b), Feb. 15, 2006, 119 Stat. 3616, provided that: “This section \[amending this section and sections 1815 to 1818, 1821 to 1825, 1827, 1828, 1831a, 1831e, 1831m, 1831n, and 1831<i>o</i> of this title and repealing section 1831h of this title\] and the amendments made by this section shall take effect on the day of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund \[Mar. 31, 2006, see 71 F.R. 20524\] pursuant to the Federal Deposit Insurance Reform Act of 2005 \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title\].”
+
+Amendment by section 2102(b) of Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -572,7 +578,7 @@ Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise
 
 Section 2614(b) of div. A of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any liability of an insured depository that arises under an annuity contract issued on or after the date of enactment of this Act \[Sept. 30, 1996\].”
 
-Amendment by section 2704(d)(6)(A), (14)(A) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by section 2704(d)(6)(A), (14)(A) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendment
 

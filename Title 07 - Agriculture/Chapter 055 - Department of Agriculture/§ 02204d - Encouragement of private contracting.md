@@ -6,7 +6,7 @@ For the purpose of promoting local job creation and private sector investment in
 
 #### (b) Plan required
 
-The Secretary shall develop and implement a plan that will result in increasing the use ofcontracts awarded to private firms by the Department of Agriculture, and maximizing the use of grant, loan, or other financial assistance made for the purpose of rural development to provide the goods and services purchased to carry out the purposes of this title.<sup>1</sup>
+The Secretary shall develop and implement a plan that will result in increasing the use of contracts awarded to private firms by the Department of Agriculture, and maximizing the use of grant, loan, or other financial assistance made for the purpose of rural development to provide the goods and services purchased to carry out the purposes of this title.<sup>1</sup>
 
 (Pub. L. 101–624, title XXIII, §2394, Nov. 28, 1990, 104 Stat. 4057.)
 

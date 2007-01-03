@@ -74,7 +74,7 @@ Pedestrian.—The term “pedestrian” means any person traveling by foot and a
 
 Wheelchair.—The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515.)
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I,§134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515.)
 
 #### Amendments
 
@@ -146,7 +146,7 @@ Purpose.—The purpose of the program shall be to demonstrate the extent to whic
 
 “(c)
 
-Grants.—In carrying out the program, the Secretary \[of Transportation\] may make a grant of $6,250,000 per fiscal year for each of the communities set forth in subsection (a) to State, local, and regional agencies that the Secretary determines are suitably equipped and organized to carry out the objectives and requirements of this section. An agency that receives agrant under this section may suballocate grant funds to a nonprofit organization to carry out the program under this section.
+Grants.—In carrying out the program, the Secretary \[of Transportation\] may make a grant of $6,250,000 per fiscal year for each of the communities set forth in subsection (a) to State, local, and regional agencies that the Secretary determines are suitably equipped and organized to carry out the objectives and requirements of this section. An agency that receives a grant under this section may suballocate grant funds to a nonprofit organization to carry out the program under this section.
 
 “(d)
 

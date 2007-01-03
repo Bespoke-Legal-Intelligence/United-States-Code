@@ -52,7 +52,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 (4) A written justification for each decision of the head of an executive agency whether to reduce or suspend payments under paragraph (2), and for each recommendation received by the executive agency in connection with such decision, shall be prepared and be retained in the files of the executive agency.
 
-(5) The head of each executive agency shall prescribe procedures to ensure that, before the head of the executive agency decides to reduce or suspend payments in the case of a contractor under paragraph (2), the contractor is afforded notice of the proposed reduction or suspension and an opportunity to submit matters to the executive agency in response to such proposed reduction or suspension.
+(5) The head of each executive agency shall prescribe procedures to ensure that, before thehead of the executive agency decides to reduce or suspend payments in the case of a contractor under paragraph (2), the contractor is afforded notice of the proposed reduction or suspension and an opportunity to submit matters to the executive agency in response to such proposed reduction or suspension.
 
 (6) Not later than 180 days after the date on which the head of an executive agency reduces or suspends payments to a contractor under paragraph (2), the remedy coordination official of the executive agency shall—
 

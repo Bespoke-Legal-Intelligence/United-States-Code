@@ -18,11 +18,11 @@ None of the prohibitions deriving from this chapter, or contained in the laws or
 
 (2) In the event a State does not request a formal hearing and after notice by the Secretary, the regulations promulgated pursuant to this chapter to implement recommendations of the Commission shall apply within the boundaries of any State bordering on any Convention area if the Secretary determines that any such State—
 
-&emsp;(A) has not, within a reasonable period of time after the promulgation of regulations pursuant to this chapter, enacted laws or promulgated regulations which implement any such recommendation of the Commission within the boundaries of such State; or
+&emsp;(A) has not, within a reasonable period of time after the promulgation of regulationspursuant to this chapter, enacted laws or promulgated regulations which implement any such recommendation of the Commission within the boundaries of such State; or
 
 &emsp;(B) has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
 
-> If a State requests the opportunity for an agency hearing on the record, the Secretary shall not apply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulationsshall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
+> If a State requests the opportunity for an agency hearing on the record, the Secretary shall not apply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulations shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
 
 #### (e) Continuing review of State laws and regulations
 

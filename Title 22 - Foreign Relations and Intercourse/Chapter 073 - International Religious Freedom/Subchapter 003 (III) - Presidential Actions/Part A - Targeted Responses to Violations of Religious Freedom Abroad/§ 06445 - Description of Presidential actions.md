@@ -30,7 +30,7 @@ Except as provided in subsection (d) of this section, the Presidential actions r
 
 &emsp;(13) Ordering the heads of the appropriate United States agencies not to issue any (or a specified number of) specific licenses, and not to grant any other specific authority (or a specified number of authorities), to export any goods or technology to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title, under—
 
-&emsp;&emsp;(A) the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\];
+&emsp;&emsp;(A) the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\];
 
 &emsp;&emsp;(B) the Arms Export Control Act \[22 U.S.C. 2751 et seq.\];
 

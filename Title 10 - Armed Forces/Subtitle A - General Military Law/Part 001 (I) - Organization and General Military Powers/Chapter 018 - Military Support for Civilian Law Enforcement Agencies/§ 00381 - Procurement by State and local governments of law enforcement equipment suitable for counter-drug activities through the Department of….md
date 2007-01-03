@@ -44,5 +44,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Deadline for Establishing Procedures
 
-Section 1122(b) of Pub. L. 103–160 provided that: “The Secretary of Defense shall establish procedures under section 381(a) of title 10, United States Code, as added by subsection (a), not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title XI, §1122(b), Nov. 30, 1993, 107 Stat. 1755, directed the Secretary of Defense to establish procedures under subsec. (a) of this section not later than six months after Nov. 30, 1993.
 

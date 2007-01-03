@@ -10,7 +10,7 @@ It is the sense of the Congress that all such sales be approved only when they a
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
-It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress that the President should work actively with all nations to check and control the international sale and distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
+It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress thatthe President should work actively with all nations to check and control the international sale and distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
 
 It is the sense of the Congress that the aggregate value of defense articles and defense services—
 
@@ -22,7 +22,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
-(Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053;Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
 #### References in Text
 
@@ -66,13 +66,81 @@ Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
+Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589,2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
 
 #### Short Title
 
 Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
 
 #### Man-Portable Air Defense Systems (MANPADS)
+
+Pub. L. 109–472, §12, Jan. 11, 2007, 120 Stat. 3558, provided that:
+
+“(a)
+
+Statement of Policy.—Congress declares that it should be the policy of the United States to hold foreign governments accountable for knowingly transferring MANPADS to state-sponsors of terrorism or terrorist organizations.
+
+“(b)
+
+Determination Relating to Sanctions.—
+
+&emsp;“(1)
+
+In general.—If the President determines that a foreign government knowingly transfers MANPADS to a foreign government described in paragraph (2) or a terrorist organization, the President shall—
+
+&emsp;&emsp;“(A) submit forthwith to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report containing such determination; and
+
+&emsp;&emsp;“(B) impose forthwith on the transferring foreign government the sanctions described in subsection (c).
+
+&emsp;“(2)
+
+Foreign government described.—A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+
+“(c)
+
+Sanctions Described.—The sanctions referred to in subsection (b)(1)(B) are the following:
+
+&emsp;“(1) Termination of United States Government assistance to the transferring foreign government under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], except that such termination shall not apply in the case of humanitarian assistance.
+
+&emsp;“(2) Termination of United States Government—
+
+&emsp;&emsp;“(A) sales to the transferring foreign government of any defense articles, defense services, or design and construction services; and
+
+&emsp;&emsp;“(B) licenses for the export to the transferring foreign government of any item on the United States Munitions List.
+
+&emsp;“(3) Termination of all foreign military financing for the transferring foreign government.
+
+“(d)
+
+Waiver.—Notwithstanding any other provision of law, sanctions shall not be imposed on a transferring foreign government under this section if the President determines and certifies in writing to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate that the furnishing of the assistance, sales, licensing, or financing that would otherwise be suspended as a result of the imposition of such sanctions is important to the national security interests of the United States.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Defense article.—The term ‘defense article’ has the meaning given the term in section 47(3) of the Arms Export Control Act \[22 U.S.C. 2794(3)\].
+
+&emsp;“(2)
+
+Defense service.—The term ‘defense service’ has the meaning given the term in section 47(4) of the Arms Export Control Act \[22 U.S.C. 2794(4)\].
+
+&emsp;“(3)
+
+Design and construction services.—The term ‘design and construction services’ has the meaning given the term in section 47(8) of the Arms Export Control Act \[22 U.S.C. 2794(8)\].
+
+&emsp;“(4)
+
+Foreign government.—The term ‘foreign government’ includes any agency or instrumentality of a foreign government.
+
+&emsp;“(5)
+
+Manpads.—The term ‘MANPADS’ means—
+
+&emsp;&emsp;“(A) a surface-to-air missile system designed to be man-portable and carried and fired by a single individual; or
+
+&emsp;&emsp;“(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
 
 Pub. L. 108–458, title IV, §4026, Dec. 17, 2004, 118 Stat. 3724, provided that:
 
@@ -466,7 +534,7 @@ Section 15(b) of Pub. L. 95–384 directed President, not later than Dec. 31, 19
 
 #### Report by President on Review of Arms Sales Controls on Non-Lethal Items
 
-Section 25 of Pub. L. 95–384 directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repealby Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Section 25 of Pub. L. 95–384 directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States
 
@@ -528,7 +596,7 @@ Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 116
 
 #### Ex. Ord. No. 11958. Administration of Chapter
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939;Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Arms Export Control Act, as amended (22 U.S.C. 2751 <i>et seq</i>.), and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -578,7 +646,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (s) Those under Section 2(b)(6) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(6)) to the Secretary of State.
 
-(t) Those under Section 588(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[Oct. 1, 1988, 102 Stat. 2268–51\], to the Secretary of Defense, exceptwith respect to the determination of an emergency as provided by subsection (b)(3). The Secretary of Defense in implementation of the functions delegated to him under section 588(b) shall consult with the Secretary of State.
+(t) Those under Section 588(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[Oct. 1, 1988, 102 Stat. 2268–51\], to the Secretary of Defense, except with respect to the determination of an emergency as provided by subsection (b)(3). The Secretary of Defense in implementation of the functions delegated to him under section 588(b) shall consult with the Secretary of State.
 
 Sec. 2. <i>Coordination</i>. (a) In addition to the specific provisions of Section 1 of this Order, the Secretary of State and the Secretary of Defense, in carrying out the functions delegated to them under this Order, shall consult with each other and with the heads of other departments and agencies, including the Secretary of the Treasury, the Attorney General, and the Chairman of the Export-Import Bank, on matters pertaining to their responsibilities.
 

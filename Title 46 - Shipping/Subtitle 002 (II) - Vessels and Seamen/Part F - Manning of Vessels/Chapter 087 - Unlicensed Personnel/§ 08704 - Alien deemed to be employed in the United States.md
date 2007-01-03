@@ -14,9 +14,9 @@ An alien is deemed to be employed in the United States for purposes of section 2
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Construction
 
-Section 5(f)(3) of Pub. L. 100–239 provided that: “With respect to an alien who is deemed to be employed in the United States under section 8704 of title 46, United States Code (as amended by this subsection), the term ‘date of the enactment of this section’ \[translated as ‘November 6, 1986’\] as used in section 274A(i) of the Immigration and Nationality Act \[former 8 U.S.C. 1324a(i)\] means the date 180 days after the enactment of this section \[Jan. 11, 1988\].”
+Pub. L. 100–239, §5(f)(3), Jan. 11, 1988, 101 Stat. 1781, provided that: “With respect to an alien who is deemed to be employed in the United States under section 8704 of title 46, United States Code (as amended by this subsection), the term ‘date of the enactment of this section’ \[translated as “November 6, 1986”\] as used in section 274A(i) of the Immigration and Nationality Act \[former 8 U.S.C. 1324a(i)\] means the date 180 days after the enactment of this section \[Jan. 11, 1988\].”
 

@@ -10,13 +10,6 @@
 | [373a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373a%20-%20Commissioner%20of%20Reclamation%3B%20appointment.md) | Commissioner of Reclamation; appointment. |
 | 373a–1. | Repealed. |
 | [373b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373b%20-%20Law%20enforcement%20authority%20at%20Bureau%20of%20Reclamation%20facilities.md) | Law enforcement authority at Bureau of Reclamation facilities. |
-| (a) | Public safety regulations. |
-| (b) | Violations; criminal penalties. |
-| (c) | Authorization of law enforcement officers. |
-| (d) | Powers of law enforcement officers. |
-| (e) | Legal status of State or local law enforcement officers. |
-| (f) | Concurrent jurisdiction. |
-| (g) | Regulations. |
 | [373c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373c%20-%20Definitions.md) | Definitions. |
 | [373d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373d%20-%20Grants%20and%20cooperative%20agreements%20with%20Indian%20tribes%20and%20organizations.md) | Grants and cooperative agreements with Indian tribes and organizations. |
 | [374\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000374%20-%20Sale%20of%20lands%20acquired%20in%20connection%20with%20irrigation%20project.md) | Sale of lands acquired in connection with irrigation project. |
@@ -46,23 +39,13 @@
 | [390\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390%20-%20Utilization%20of%20dams%20and%20reservoir%20projects%20for%20irrigation%20purposes%3B%20additional%20construction%3B%20necessity%20of%20authorization%3B%20apportionment%20of%E2%80%A6.md) | Utilization of dams and reservoir projects for irrigation purposes; additional construction; necessity of authorization; apportionment of cost; limitation. |
 | [390a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IX%2C%20%C2%A7901%28e%29%282%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203289.md) | Repealed. |
 | [390b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390b%20-%20Development%20of%20water%20supplies%20for%20domestic%2C%20municipal%2C%20industrial%2C%20and%20other%20purposes.md) | Development of water supplies for domestic, municipal, industrial, and other purposes. |
-| (a) | Declaration of policy. |
-| (b) | Storage in reservoir projects; agreements for payment of cost of construction or modification of projects. |
-| (c) | Application to other laws. |
-| (d) | Approval of Congress of modifications of reservoir projects. |
 | [390c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390c%20-%20Water%20reservoirs%3B%20interests%20of%20States%20and%20local%20agencies%20in%20storage%20space.md) | Water reservoirs; interests of States and local agencies in storage space. |
 | [390d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390d%20-%20Dams%20and%20reservoirs%20wherein%20costs%20thereof%2C%20or%20rights%20thereto%2C%20have%20been%20acquired%20by%20local%20interests.md) | Dams and reservoirs wherein costs thereof, or rights thereto, have been acquired by local interests. |
 | [390e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390e%20-%20Rights%2C%20acquisition%20and%20availability%20of%3B%20obligation%20for%20operation%20and%20maintenance%3B%20costs%20for%20reconstruction%2C%20rehabilitation%2C%20or%E2%80%A6.md) | Rights, acquisition and availability of; obligation for operation and maintenance; costs for reconstruction, rehabilitation, or replacement; use during Government operation or by contract. |
 | [390f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390f%20-%20Revision%20of%20leases%20or%20agreements%20to%20evidence%20conversion%20of%20rights%20to%20use%20of%20storage%20rights.md) | Revision of leases or agreements to evidence conversion of rights to use of storage rights. |
 | [390g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390g%20-%20Groundwater%20recharge%20of%20aquifers%3B%20demonstration%20program.md) | Groundwater recharge of aquifers; demonstration program. |
 | 390g–1. | Phase I of groundwater recharge demonstration program. |
-| (a) | Development of detailed plan of demonstration projects; requisite features of plan. |
-| (b) | Recommendation of demonstration projects. |
-| (c) | Preliminary selection of projects. |
 | 390g–2. | Phase II of groundwater recharge demonstration program. |
-| (a) | Design, construction, and operation of projects. |
-| (b) | Alternative means of cost allocation; economic feasibility of projects. |
-| (c) | Reports to Congress. |
 | 390g–3. | Evaluation of water quality impacts. |
 | 390g–4. | Authorization of appropriations to carry out phase I. |
 | 390g–5. | Authorization of appropriations to carry out phase II. |
@@ -70,143 +53,43 @@
 | 390g–7. | New spending authority. |
 | 390g–8. | Interstate transfer of water from Arkansas. |
 | [390h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390h%20-%20Program%20to%20investigate%20reclamation%20and%20reuse%20of%20wastewater%20and%20groundwater%3B%20general%20authority.md) | Program to investigate reclamation and reuse of wastewater and groundwater; general authority. |
-| (a) | Program established. |
-| (b) | States included. |
-| (c) | Agreements and regulations. |
-| (d) | San Luis Unit of Central Valley Project, California. |
 | 390h–1. | Appraisal investigations. |
-| (a) | Purposes; recommendations. |
-| (b) | Matters to be considered. |
-| (c) | Consultation and cooperation. |
-| (d) | Nonreimbursable costs. |
 | 390h–2. | Feasibility studies. |
-| (a) | General authority; Federal and non-Federal cost shares. |
-| (b) | Federal share considered project costs; reimbursement. |
-| (c) | Matters to be considered. |
 | 390h–3. | Research and demonstration projects. |
-| (a) | Reclamation of wastewater and ground and surface waters. |
-| (b) | Long Beach Desalination Research and Development Project. |
-| (c) | Las Vegas Area Shallow Aquifer Desalination Research and Development Project. |
-| (d) | Federal contribution. |
 | 390h–4. | Southern California comprehensive water reclamation and reuse study. |
-| (a) | General authority. |
-| (b) | Cooperation with State; Federal share. |
-| (c) | Report. |
 | 390h–5. | San Jose area water reclamation and reuse program. |
 | 390h–6. | Phoenix metropolitan water reclamation study and program. |
-| (a) | General authority. |
-| (b) | Federal share. |
 | 390h–7. | Tucson area water reclamation study. |
-| (a) | General authority. |
-| (b) | Federal share. |
-| (c) | Report. |
 | 390h–8. | Lake Cheraw water reclamation and reuse study. |
-| (a) | General authority. |
-| (b) | Federal share. |
-| (c) | Report. |
 | 390h–9. | San Francisco area water reclamation study. |
-| (a) | General authority. |
-| (b) | Federal share. |
-| (c) | Report. |
 | 390h–10. | San Diego area water reclamation program. |
 | 390h–11. | Los Angeles area water reclamation and reuse project. |
 | 390h–12. | San Gabriel basin demonstration project. |
 | 390h–12a. | North San Diego County Area Water Recycling Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12b. | Calleguas Municipal Water District Recycling Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12c. | Central Valley Water Recycling Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12d. | St. George Area Water Recycling Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12e. | Watsonville Area Water Recycling Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12f. | Southern Nevada Water Recycling Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12g. | Albuquerque Metropolitan Area Water Reclamation and Reuse Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12h. | El Paso Water Reclamation and Reuse Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12i. | Reclaimed water in Pasadena. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12j. | Phase 1 of Orange County Regional Water Reclamation Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12k. | City of West Jordan Water Reuse Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12<i>l.</i> | Hi-Desert Water District in Yucca Valley, California wastewater collection and reuse facility. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
-| 390h–12m. | Mission Basin Brackish Groundwater Desalting Demonstration Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
+| 390h–12m. Mission Basin Brackish Groundwater Desalting Demonstration Project. |  |
 | 390h–12n. | Treatment of effluent from sanitation districts of Los Angeles County through city of Long Beach. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12<i>o.</i> | San Joaquin Area Water Recycling and Reuse Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–12p. | Tooele Wastewater Treatment and Reuse Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–13. | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Prerequisite cost-sharing agreement. |
-| (c) | Congressional notification. |
-| (d) | Ceiling on Federal share. |
 | 390h–14. | Groundwater study. |
-| (a) | Investigation, analysis, and report. |
-| (b) | Consultation with Governors. |
-| (c) | Report. |
 | 390h–15. | Authorization of appropriations. |
 | 390h–16. | Willow Lake Natural Treatment System Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–17. | Lakehaven, Washington, Water Reclamation and Reuse Project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–17a. | Transferred. |
 | 390h–18. | Irvine basin groundwater and surface water improvement projects. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–19. | Williamson County, Texas, water recycling and reuse project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
 | 390h–20. | Hawaii reclamation projects. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
-| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -217,44 +100,18 @@
 | [390aa.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390aa%20-%20Congressional%20declaration%20of%20purpose%3B%20short%20title.md) | Congressional declaration of purpose; short title. |
 | [390bb.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390bb%20-%20Definitions.md) | Definitions. |
 | [390cc.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390cc%20-%20New%20or%20amended%20contracts.md) | New or amended contracts. |
-| (a) | Generally. |
-| (b) | Amendment of existing contracts. |
-| (c) | Election by qualified or limited recipients in absence of amendment to contract. |
-| (d) | Consent of non-Federal party. |
 | [390dd.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390dd%20-%20Limitation%20on%20ownership.md) | Limitation on ownership. |
 | [390ee.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390ee%20-%20Pricing.md) | Pricing. |
-| (a) | Delivery of irrigation water at full cost. |
-| (b) | Delivery of irrigation water at prior terms and conditions. |
-| (c) | Delivery of irrigation water to lands under recordable contracts. |
 | [390ff.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390ff%20-%20Certification%20of%20compliance.md) | Certification of compliance. |
 | [390gg.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390gg%20-%20Equivalency.md) | Equivalency. |
 | [390hh.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390hh%20-%20Operation%20and%20maintenance%20charges.md) | Operation and maintenance charges. |
-| (a) | Price adequate to recover charges. |
-| (b) | Modification of price. |
-| (c) | Districts not operating from Federal funds. |
 | [390ii.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390ii%20-%20Disposition%20of%20excess%20lands.md) | Disposition of excess lands. |
-| (a) | Disposal of lands in excess of ownership limitations within reasonable time. |
-| (b) | Continued delivery of irrigation water to lands held in excess of ownership limitations. |
-| (c) | Amendment of existing recordable contracts. |
-| (d) | Power of attorney requirement in contracts; exercise of power by Secretary. |
-| (e) | Extension of time for disposal of excess lands. |
-| (f) | Eligibility of excess lands for irrigation water after disposition. |
 | [390jj.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390jj%20-%20Water%20conservation.md) | Water conservation. |
-| (a) | Implementation of program by non-Federal recipients. |
-| (b) | Development of plan. |
-| (c) | Coordination of ongoing programs; full public participation. |
 | [390kk.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390kk%20-%20Residency%20not%20required.md) | Residency not required. |
 | 390<i>ll.</i> | Corps of Engineers projects. |
-| (a) | Applicability of Federal reclamation laws. |
-| (b) | Payment of construction, operation, maintenance and administrative costs allocated to conservation or irrigation storage. |
 | [390mm.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390mm%20-%20Repayment%20of%20construction%20charges.md) | Repayment of construction charges. |
-| (a) | Ownership and pricing limitations inapplicable when repayment obligation has been discharged. |
-| (b) | Certification of freedom from ownership and pricing limitations. |
-| (c) | Lump sum or accelerated repayment of construction costs. |
 | [390nn.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390nn%20-%20Trusts.md) | Trusts. |
 | 390<i>oo.</i> | Temporary supplies of water. |
-| (a) | Limitations inapplicable. |
-| (b) | Waiver of payment for temporary water supplies. |
 | [390pp.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390pp%20-%20Involuntary%20foreclosure.md) | Involuntary foreclosure. |
 | [390qq.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390qq%20-%20Isolated%20tracts.md) | Isolated tracts. |
 | [390rr.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390rr%20-%20Central%20Arizona%20Project.md) | Central Arizona Project. |
@@ -262,18 +119,7 @@
 | [390tt.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390tt%20-%20Contract%20required.md) | Contract required. |
 | [390uu.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390uu%20-%20Waiver%20of%20sovereign%20immunity.md) | Waiver of sovereign immunity. |
 | [390vv.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390vv%20-%20Excess%20crop%20restrictions.md) | Excess crop restrictions. |
-| (a) | Report to Congress on production of surplus crops on acreage served by irrigation water. |
-| (b) | Restrictions prohibiting delivery of irrigation water for production of excess basic agricultural commodities. |
 | [390ww.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390ww%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Existing Federal reclamation law. |
-| (b) | Existing statutory exemptions from ownership or pricing limitations of Federal reclamation law. |
-| (c) | Regulations; collection of necessary data. |
-| (d) | Omitted. |
-| (e) | Sale of nonexcess land acquired into excess status pursuant to involuntary process of law, etc. |
-| (f) | Omitted. |
-| (g) | Annual audit of compliance with reclamation laws. |
-| (h) | Recordable contracts executed prior to October 12, 1982. |
-| (i) | Collection of underpayment with interest for irrigation water. |
 | [390xx.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390xx%20-%20Validation%20of%20contracts%20entered%20into%20prior%20to%20October%201%2C%201981.md) | Validation of contracts entered into prior to October 1, 1981. |
 | [390yy.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390yy%20-%20Leasing%20requirements.md) | Leasing requirements. |
 | [390zz.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Reclamation%20Reform/%C2%A7%2000390zz%20-%20Reporting.md) | Reporting. |
@@ -343,12 +189,6 @@
 | [422b.](Subchapter%20004%20%28IV%29%20-%20Construction%20of%20Small%20Projects/%C2%A7%2000422b%20-%20Definitions.md) | Definitions. |
 | [422c.](Subchapter%20004%20%28IV%29%20-%20Construction%20of%20Small%20Projects/%C2%A7%2000422c%20-%20Proposals%3B%20submission%3B%20payment%20for%20cost%20of%20examination.md) | Proposals; submission; payment for cost of examination. |
 | [422d.](Subchapter%20004%20%28IV%29%20-%20Construction%20of%20Small%20Projects/%C2%A7%2000422d%20-%20Contents%20of%20proposals.md) | Contents of proposals. |
-| (a) | Plans and estimates; review by States; allocation of capital costs. |
-| (b) | Lands and water rights; ownership; financing. |
-| (c) | Transmittal of findings and approval to Congress; certification of soil survey; reservation of land. |
-| (d) | Amount of loan and/or grant; increase by Secretary. |
-| (e) | Appropriation; nonapplicability. |
-| (f) | Consideration of financial feasibility, emergency, or urgent need; jurisdiction and control of project works and facilities. |
 | [422e.](Subchapter%20004%20%28IV%29%20-%20Construction%20of%20Small%20Projects/%C2%A7%2000422e%20-%20Contract%20requirements.md) | Contract requirements. |
 | [422f.](Subchapter%20004%20%28IV%29%20-%20Construction%20of%20Small%20Projects/%C2%A7%2000422f%20-%20Proposals%20for%20projects%20previously%20authorized%3B%20waiver%20of%20requirements%3B%20approval%3B%20negotiation%20of%20contract.md) | Proposals for projects previously authorized; waiver of requirements; approval; negotiation of contract. |
 | [422g.](Subchapter%20004%20%28IV%29%20-%20Construction%20of%20Small%20Projects/%C2%A7%2000422g%20-%20Information%20from%20Federal%20agencies%3B%20costs.md) | Information from Federal agencies; costs. |
@@ -419,9 +259,6 @@
 | [451\.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451%20-%20Conditions%20necessary%20for%20exchange%3B%20terms%3B%20credits%3B%20rights%20nonassignable.md) | Conditions necessary for exchange; terms; credits; rights nonassignable. |
 | [451a.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451a%20-%20Persons%20eligible%20for%20benefits.md) | Persons eligible for benefits. |
 | [451b.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451b%20-%20Irrigation%20construction%20charges.md) | Irrigation construction charges. |
-| (a) | Credits to entryman. |
-| (b) | Credits to district; reduction of costs. |
-| (c) | Extension of benefits to districts. |
 | [451c.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451c%20-%20Cancellation%20of%20charges%20or%20liens%3B%20credits.md) | Cancellation of charges or liens; credits. |
 | [451d.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451d%20-%20Disposal%20of%20improvements%3B%20water%20rights%3B%20revertibility%20of%20relinquished%20land.md) | Disposal of improvements; water rights; revertibility of relinquished land. |
 | [451e.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451e%20-%20Amendment%20of%20farm%20unit%3B%20application%3B%20amount%20of%20land%3B%20exchange%3B%20waiver.md) | Amendment of farm unit; application; amount of land; exchange; waiver. |
@@ -485,25 +322,8 @@
 | [485d.](Subchapter%20010%20%28X%29%20-%20Payment%20of%20Construction%20Charges/%C2%A7%2000485d%20-%20Time%20of%20payments%20to%20the%20United%20States.md) | Time of payments to the United States. |
 | [485e.](Subchapter%20010%20%28X%29%20-%20Payment%20of%20Construction%20Charges/%C2%A7%2000485e%20-%20Maintenance%20and%20operation%20of%20project%20works%3B%20delinquency%20penalties.md) | Maintenance and operation of project works; delinquency penalties. |
 | [485f.](Subchapter%20010%20%28X%29%20-%20Payment%20of%20Construction%20Charges/%C2%A7%2000485f%20-%20Negotiation%20of%20equitable%20contracts%20by%20Secretary.md) | Negotiation of equitable contracts by Secretary. |
-| (a) | Existing project contract unit. |
-| (b) | New projects or projects under construction; public lands; development periods. |
-| (c) | Report of proposed contracts to Congress; approval; amendment after approval. |
 | [485g.](Subchapter%20010%20%28X%29%20-%20Payment%20of%20Construction%20Charges/%C2%A7%2000485g%20-%20Classification%20of%20lands.md) | Classification of lands. |
-| (a) | Generally. |
-| (b) | Necessity for request. |
-| (c) | Furnishing data. |
-| (d) | Primary determination. |
-| (e) | Probable justification. |
-| (f) | Expenses. |
-| (g) | Classification as prerequisite to contract. |
-| (h) | Modification of existing obligations. |
 | [485h.](Subchapter%20010%20%28X%29%20-%20Payment%20of%20Construction%20Charges/%C2%A7%2000485h%20-%20New%20projects%3B%20sale%20of%20water%20and%20electric%20power%3B%20lease%20of%20power%20privileges.md) | New projects; sale of water and electric power; lease of power privileges. |
-| (a) | Findings of Secretary. |
-| (b) | Allocation of part of cost to flood control or navigation. |
-| (c) | Furnishing water to municipalities; sale of electric power; lease of power privileges. |
-| (d) | Delivery of water for irrigation; repayment contract prerequisites. |
-| (e) | Contracts to furnish water. |
-| (f) | Public participation. |
 | 485h–1. | Administration of repayment contracts and long-term contracts to furnish water; renewal and conversion; credit for payments; right to available water supply; rates; construction component. |
 | 485h–2. | Amendments to existing contracts. |
 | 485h–3. | “Long-term contract” defined. |
@@ -549,17 +369,8 @@
 | [506\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000506%20-%20Authority%20of%20Secretary%20to%20make%20modifications.md) | Authority of Secretary to make modifications. |
 | [507\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000507%20-%20Construction%20for%20dam%20safety.md) | Construction for dam safety. |
 | [508\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000508%20-%20Costs%20incurred%20in%20the%20modification%20of%20structures.md) | Costs incurred in the modification of structures. |
-| (a) | Costs resulting from age and normal deterioration or lack of maintenance of structures. |
-| (b) | Nonreimbursable costs resulting from new hydrologic or seismic data or changes in criteria. |
-| (c) | Reimbursement of certain modification costs. |
-| (d) | Contracts for return of costs. |
-| (e) | Cost containment; modification status. |
 | [509\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509%20-%20Authorization%20of%20appropriations%3B%20report%20to%20Congress.md) | Authorization of appropriations; report to Congress. |
 | [509a.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509a%20-%20Project%20beneficiaries.md) | Project beneficiaries. |
-| (a) | Notice of modification. |
-| (b) | Consultation. |
-| (c) | Alternatives. |
-| (d) | Waiver. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -613,10 +424,6 @@
 | [567\.](Subchapter%20015%20%28XV%29%20-%20Town%20Sites%2C%20Parks%2C%20Playgrounds%2C%20and%20School%20Sites/%C2%A7%2000567%20-%20Water%20rights%20for%20towns%20and%20cities%3B%20charges.md) | Water rights for towns and cities; charges. |
 | [568\.](Subchapter%20015%20%28XV%29%20-%20Town%20Sites%2C%20Parks%2C%20Playgrounds%2C%20and%20School%20Sites/%C2%A7%2000568%20-%20Use%20of%20reclamation%20fund%20for%20expenses%20of%20and%20disposal%20of%20proceeds%20of%20sale%20of%20town%20sites.md) | Use of reclamation fund for expenses of and disposal of proceeds of sale of town sites. |
 | [569\.](Subchapter%20015%20%28XV%29%20-%20Town%20Sites%2C%20Parks%2C%20Playgrounds%2C%20and%20School%20Sites/%C2%A7%2000569%20-%20Reservation%20of%20land%20for%20park%2C%20playground%2C%20or%20community%20center.md) | Reservation of land for park, playground, or community center. |
-| (a) | Repealed. |
-| (b) | Water service. |
-| (c) | Contract for maintenance and use. |
-| (d) | Disposition of land not contracted for. |
 | [569a.](Subchapter%20015%20%28XV%29%20-%20Town%20Sites%2C%20Parks%2C%20Playgrounds%2C%20and%20School%20Sites/%C2%A7%2000569a%20-%20Extension%20of%20section%20569%20to%20tract%20of%20land%20in%20Idaho.md) | Extension of section 569 to tract of land in Idaho. |
 | [570\.](Subchapter%20015%20%28XV%29%20-%20Town%20Sites%2C%20Parks%2C%20Playgrounds%2C%20and%20School%20Sites/%C2%A7%2000570%20-%20Conveyance%20of%20land%20to%20school%20district.md) | Conveyance of land to school district. |
 | [571\.](Subchapter%20015%20%28XV%29%20-%20Town%20Sites%2C%20Parks%2C%20Playgrounds%2C%20and%20School%20Sites/%C2%A7%2000571%20-%20Sale%20of%20unplatted%20portions%20of%20Government%20town%20sites%3B%20authorization.md) | Sale of unplatted portions of Government town sites; authorization. |
@@ -657,9 +464,6 @@
 | [600a.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000600a%20-%20Arch%20Hurley%20Conservancy%20District%20project%2C%20New%20Mexico.md) | Arch Hurley Conservancy District project, New Mexico. |
 | [600b.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000600b%20-%20Canadian%20River%20project%2C%20Texas.md) | Canadian River project, Texas. |
 | [600c.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000600c%20-%20Nonreimbursable%20costs.md) | Nonreimbursable costs. |
-| (a) | Construction, operation, and maintenance costs. |
-| (b) | Conditions precedent to construction. |
-| (c) | Repayment contract. |
 | [600d.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000600d%20-%20Sanford%20Reservoir%20recreation%20facilities%3B%20allocation%20of%20water%2C%20reservoir%20capacity%2C%20or%20joint%20project%20costs%20of%20Canadian%20River%20project%E2%80%A6.md) | Sanford Reservoir recreation facilities; allocation of water, reservoir capacity, or joint project costs of Canadian River project; municipal water use priorities; agreements for operation, maintenance, or additional development of project lands or facilities; disposal of project lands or facilities; nonreimbursable costs; cognizance of effect of fish and wildlife plan. |
 | [600e.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000600e%20-%20Authorization%20of%20appropriations%20for%20public%20recreation%20facilities.md) | Authorization of appropriations for public recreation facilities. |
 

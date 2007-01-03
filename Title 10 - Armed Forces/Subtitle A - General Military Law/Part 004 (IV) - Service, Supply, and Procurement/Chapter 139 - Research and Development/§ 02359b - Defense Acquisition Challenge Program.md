@@ -18,7 +18,15 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 (3) The Under Secretary shall issue on an annual basis not less than one such broad agency announcement inviting interested parties to submit challenge proposals. Such announcements may also identify particular technology areas and acquisition programs that will be given priority in the evaluation of challenge proposals.
 
-(4) Under procedures established by the Under Secretary, a Panel shall carry out a preliminary evaluation of each challenge proposal submitted in response to a broad agency announcement, or submitted through the unsolicited proposal process and identified as a challenge proposal in accordance with paragraph (2), to determine each of the following:
+(4)(A) The Under Secretary shall establish procedures for the prompt issuance of a solicitation for challenge proposals addressing—
+
+&emsp;(i) any acquisition program for which, since the last such announcement, the Secretary concerned has determined under section 2433(d) of this title that the program's acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a “critical cost growth threshold breach”); and
+
+&emsp;(ii) any design, engineering, manufacturing, or technology integration issues, in accordance with the assessment required by section 2433(e)(2)(A) of this title, that have contributed significantly to the cost growth of such program.
+
+(B) A solicitation under this paragraph may be included in a broad agency announcement issued pursuant to paragraph (3) as long as the broad agency announcement is released in an expeditious manner following the determination of the Secretary concerned that a critical cost growth threshold breach has occurred with respect to a major defense acquisition program.
+
+(5) Under procedures established by the Under Secretary, a Panel shall carry out a preliminary evaluation of each challenge proposal submitted in response to a broad agency announcement, or submitted through the unsolicited proposal process and identified as a challenge proposal in accordance with paragraph (2), to determine each of the following:
 
 &emsp;(A) Whether the challenge proposal has merit.
 
@@ -26,15 +34,19 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 &emsp;(C) Whether the challenge proposal could be implemented in the acquisition program rapidly, at an acceptable cost, and without unacceptable disruption to the acquisition program.
 
-(5) The Under Secretary may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit.
+(6) The Under Secretary—
 
-(6) If a Panel determines that a challenge proposal satisfies each of the criteria specified in paragraph (4), the person or activity submitting that challenge proposal shall be provided an opportunity to submit such challenge proposal for a full review and evaluation under subsection (d).
+&emsp;(A) may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit; and
+
+&emsp;(B) may establish procedures to ensure that the Challenge Program establishes appropriate priorities for proposals from businesses that are not major contractors with the Department of Defense.
+
+(7) If a Panel determines that a challenge proposal satisfies each of the criteria specified in paragraph (5), the person or activity submitting that challenge proposal shall be provided an opportunity to submit such challenge proposal for a full review and evaluation under subsection (d).
 
 (d)
 
-Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(6), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
+Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
 
-(2) The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(4), determine each of the matters specified in subparagraphs (A), (B), and (C) of such subsection. The full review and evaluation shall also include—
+(2) The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(5), determine each of the matters specified in subparagraphs (A), (B), and (C) of such subsection. The full review and evaluation shall also include—
 
 &emsp;(A) an assessment of the cost of adopting the challenge proposal and implementing it in the acquisition program; and
 
@@ -42,31 +54,67 @@ Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secre
 
 (e)
 
-Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(4) with respect to an acquisition program shall be considered by the office carryingout the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, or system level.
+Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, or system level.
 
 (2) The Under Secretary shall encourage the adoption of each challenge proposal referred to in paragraph (1) by providing suitable incentives to the office carrying out the acquisition program and the prime system contractor carrying out such program.
 
+(3) In the case of a challenge proposal submitted in response to a solicitation issued as a result of a critical cost growth threshold breach that is determined under full review and evaluation to satisfy each of the criteria specified in subsection (c)(5), the Under Secretary shall establish guidelines for covering the costs of the challenge proposal. If appropriate, such guidelines shall not be restricted to funding provided by the Defense Acquisition Challenge Program, but shall also consider alternative funding sources, such as the acquisition program with respect to which the breach occurred.
+
 (f)
+
+Action Upon Unfavorable Full Review and Evaluation.—Under procedures prescribed by the Under Secretary, if a challenge proposal is determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but is not determined under a full review and evaluation to satisfy such criteria, the following provisions apply:
+
+&emsp;(1) The office carrying out the full review and evaluation shall provide to the Panel that conducted the preliminary evaluation a statement containing a summary of the rationale for the unfavorable evaluation.
+
+&emsp;(2) If the Panel disagrees with the rationale provided under paragraph (1), the Panel may return the challenge proposal to the office for further consideration.
+
+(g)
 
 Access to Technical Resources.—(1) Under procedures established by the Under Secretary, the technical resources of the laboratories, research, development, and engineering centers, test and evaluation activities, and other elements of the Department may be called upon to support the activities of the Challenge Program.
 
 (2) Funds available to carry out this program may be used to compensate such laboratories, centers, activities, and elements for technical assistance provided to a Panel pursuant to paragraph (1).
 
-(g)
-
-Elimination of Conflicts of Interest.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest.
-
 (h)
 
-Limitation on Use of Funds.—Funds made available for the Challenge Program may be used only for activities authorized by this section, and not for implementation of challenge proposals.
+Conflicts of Interest and Confidentiality.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term “Federal Government” includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
 
 (i)
 
-Annual Report.—The Under Secretary shall submit an annual report on the Challenge Program to Congress. The report shall be submitted at the same time as the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31, and shall cover the conduct of the Challenge Program for the preceding fiscal year. The report shall include the number and scope of challenge proposals submitted, preliminarily evaluated, subjected to full review and evaluation, and adopted. No report is required for a fiscal year in which the Challenge Program is not carried out.
+Limitation on Use of Funds.—Funds made available for the Challenge Program may be used only for activities authorized by this section, and not for implementation of challenge proposals.
 
 (j)
 
-Termination of Authority.—The Secretary may not carry out the Challenge Program under this section after September 30, 2007.
+Annual Report.—The Under Secretary shall submit an annual report on the Challenge Program to Congress. The report shall be submitted at the same time as the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31, and shall cover the conduct of the Challenge Program for the preceding fiscal year. The report shall include the number and scope of challenge proposals submitted, preliminarily evaluated, subjected to full review and evaluation, and adopted. The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495.)
+(k)
+
+Termination of Authority.—The Secretary may not carry out the Challenge Program under this section after September 30, 2012.
+
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123.)
+
+#### Amendments
+
+2006—Subsec. (c)(4), (5). Pub. L. 109–364, §213(b)(1), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (c)(6). Pub. L. 109–364, §213(b)(1)(A), (d), redesignated par. (5) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “The Under Secretary may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit.” Former par. (6) redesignated (7).
+
+Subsec. (c)(7). Pub. L. 109–364, §213(b)(1)(A), (g)(1), redesignated par. (6) as (7) and substituted “paragraph (5)” for “paragraph (4)”.
+
+Subsec. (d)(1). Pub. L. 109–364, §213(g)(2), substituted “subsection (c)(7)” for “subsection (c)(6)”.
+
+Subsec. (d)(2). Pub. L. 109–364, §213(g)(3), substituted “subsection (c)(5)” for “subsection (c)(4)” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 109–364, §213(g)(4), substituted “subsection (c)(5)” for “subsection (c)(4)”.
+
+Subsec. (e)(3). Pub. L. 109–364, §213(b)(2), added par. (3).
+
+Subsecs. (f), (g). Pub. L. 109–364, §213(b)(3), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 109–364, §213(b)(3)(A), (e), redesignated subsec. (g) as (h), substituted “Conflicts of Interest and Confidentiality” for “Elimination of Conflicts of Interest” in heading, substituted “conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity” for “conflicts of interest”, and inserted at end “For purposes of the proceeding sentence, the term ‘Federal Government’ includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.” Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 109–364, §213(b)(3)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted “The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied” for “No report is required for a fiscal year in which the Challenge Program is not carried out”. Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 109–364, §213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted “2012” for “2007”.
 

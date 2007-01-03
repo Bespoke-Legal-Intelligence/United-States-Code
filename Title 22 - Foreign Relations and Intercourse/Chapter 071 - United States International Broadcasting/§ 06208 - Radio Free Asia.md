@@ -18,7 +18,7 @@ Radio Free Asia shall—
 
 Any grant agreement or grants under this section shall be subject to the following limitations and restrictions:
 
-&emsp;(1) The Board may not make any grant to Radio Free Asia unless the headquarters ofRadio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
+&emsp;(1) The Board may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
 
 &emsp;(2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2009.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a National List of approved and prohibited substances that shall be included in the standards for organic production and handling established under this chapter in order for such products to be sold or labeled as organically produced under this chapter.
+The Secretary shall establish a National List of approved and prohibited substances that shallbe included in the standards for organic production and handling established under this chapter in order for such products to be sold or labeled as organically produced under this chapter.
 
 #### (b) Content of list
 
@@ -58,7 +58,7 @@ The list established under subsection (a) of this section shall contain an itemi
 
 #### (4) Notice and comment
 
-&emsp;Before establishing the National List or before making any amendments to the National List, the Secretary shall publish the Proposed National List or any Proposed Amendments tothe National List in the Federal Register and seek public comment on such proposals. The Secretary shall include in such Notice any changes to such proposed list or amendments recommended by the Secretary.
+&emsp;Before establishing the National List or before making any amendments to the National List, the Secretary shall publish the Proposed National List or any Proposed Amendments to the National List in the Federal Register and seek public comment on such proposals. The Secretary shall include in such Notice any changes to such proposed list or amendments recommended by the Secretary.
 
 #### (5) Publication of National List
 

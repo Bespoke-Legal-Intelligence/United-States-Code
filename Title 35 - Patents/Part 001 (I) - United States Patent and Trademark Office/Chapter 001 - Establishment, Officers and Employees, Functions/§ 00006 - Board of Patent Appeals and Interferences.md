@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Composition.—There shall be in the United States Patent and Trademark Office a Board of Patent Appeals and Interferences. The Director, the Commissioner for Patents, the Commissioner for Trademarks, and the administrative patent judges shall constitute the Board. The administrative patent judges shall be persons of competent legal knowledge and scientific ability who are appointed by the Director.
+Establishment and Composition.—There shall be in the United States Patent and Trademark Office a Board of Patent Appeals and Interferences. The Director, the Deputy Commissioner, the Commissioner for Patents, the Commissioner for Trademarks, and the administrative patent judges shall constitute the Board. The administrative patent judges shall be persons of competent legal knowledge and scientific ability who are appointed by the Director.
 
 (b)
 
@@ -16,7 +16,7 @@ A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, could not be executed because “Commissioner,” did not appear in subsec. (a).
+2002—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, was executed by making the insertion after “The Director,” to reflect the probable intent of Congress.
 
 #### Effective Date
 

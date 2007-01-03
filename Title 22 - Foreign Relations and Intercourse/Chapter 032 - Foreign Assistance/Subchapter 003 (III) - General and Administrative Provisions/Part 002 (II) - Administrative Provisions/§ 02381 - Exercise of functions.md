@@ -2,7 +2,7 @@
 
 #### (a) Delegation by President; rules and regulations; utilization of goods and services from private enterprise, and facilities and resources of Federal agencies when not competitive with private enterprise
 
-The President may exercise any functions conferred upon him by this chapter through such agency or officer of the United States Government as he shall direct. The head of any such agency or such officer may from time to time promulgate such rules and regulations as may be necessary to carry out such functions, and may delegate authority to perform any such functions, including, if he shall so specify, theauthority successively to redelegate any of such functions to any of his subordinates. In providing technical assistance under this chapter, the head of any such agency or such officer shall utilize, to the fullest extent practicable, goods and professional and other services from private enterprise on a contract basis. In such fields as education, health, housing, or agriculture, the facilities and resources of other Federal agencies shall be utilized when such facilities are particularly or uniquely suitable for technical assistance, are not competitive with private enterprise, and can be made available without interfering unduly with domestic programs.
+The President may exercise any functions conferred upon him by this chapter through such agency or officer of the United States Government as he shall direct. The head of any such agency or such officer may from time to time promulgate such rules and regulations as may be necessary to carry out such functions, and may delegate authority to perform any such functions, including, if he shall so specify, the authority successively to redelegate any of such functions to any of his subordinates. In providing technical assistance under this chapter, the head of any such agency or such officer shall utilize, to the fullest extent practicable, goods and professional and other services from private enterprise on a contract basis. In such fields as education, health, housing, or agriculture, the facilities and resources of other Federal agencies shall be utilized when such facilities are particularly or uniquely suitable for technical assistance, are not competitive with private enterprise, and can be made available without interfering unduly with domestic programs.
 
 #### (b) Eligibility of suppliers; debarment period; causes for debarment; conditions for reinstatement; periodic review
 
@@ -112,7 +112,7 @@ Department of State
 
 (c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[22 U.S.C. 2199(f), 2370(e), (g), (j), (q), (s)\] delegated to the Secretary shall be exercised in consultation with the Administrator of the United States Agency for International Development.
 
-(d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the United States Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
+(d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the UnitedStates Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
 
 (e) The Secretary may redelegate to any other officer or agency of the Executive branch functions delegated to the Secretary by this order to the extent such delegation is not otherwise prohibited by law.
 
@@ -186,7 +186,7 @@ Other Agencies
 
 \[1–504. Revoked by Ex. Ord. No. 13118, §5(2), Mar. 31, 1999, 64 F.R. 16597.\]
 
-1–505. Trade and Development Agency. There is delegated to the Director of the Trade and DevelopmentAgency the functions conferred upon the President by section 661(d) of the Act \[22 U.S.C. 2421(d)\].
+1–505. Trade and Development Agency. There is delegated to the Director of the Trade and Development Agency the functions conferred upon the President by section 661(d) of the Act \[22 U.S.C. 2421(d)\].
 
 \[1–506. Revoked by Ex. Ord. No. 13118, §5(4), Mar. 31, 1999, 64 F.R. 16597.\]
 
@@ -198,7 +198,7 @@ Additional Delegations and Limitations of Authority; Consultation
 
 (a) section 654 \[22 U.S.C. 2414\] (except as reserved to the President); and
 
-(b) those provisions of acts appropriating funds under the authority of the Act \[this chapter\] that relate to the Act, or other acts authorizing such funds, insofar as they relate to the functions delegated by this order.
+(b) those provisions of acts appropriating funds under the authority of the Act \[this chapter\] that relate tothe Act, or other acts authorizing such funds, insofar as they relate to the functions delegated by this order.
 
 1–602. <i>Personnel</i>. (a) In carrying out the functions conferred upon the President by the provisions of section 625(d) of the Act \[22 U.S.C. 2385(d)\], and by this order delegated to the Secretary of State, the Secretary shall authorize such of the agencies that administer programs under the Act \[this chapter\] as he may deem appropriate to perform any of the functions under section 625(d) of the Act to the extent that the said functions relate to the programs administered by the respective agencies.
 
@@ -250,7 +250,7 @@ Reserved Functions
 
 &emsp;(b) carry out all responsibilities associated with implementing the Government Performance and Results Act \[Pub. L. 103–62, see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\], the Government Management Reform Act \[Pub. L. 103–356, see Short Title of 1994 Amendment note set out under section 3301 of Title 31\], and other comparable government-wide statutes dealing with management; and
 
-&emsp;(c) carry out all statutory budget and policy coordination responsibilities assigned to the Director of theOffice of Management and Budget by statute or Executive order.
+&emsp;(c) carry out all statutory budget and policy coordination responsibilities assigned to the Director of the Office of Management and Budget by statute or Executive order.
 
 #### 1–8.
 

@@ -74,7 +74,7 @@ If the Commission makes an affirmative determination under subsection (b) of thi
 
 &emsp;(A) determine whether delay in taking action under this section would cause damage to the relevant domestic industry which would be difficult to repair; and
 
-&emsp;(B) if the determination under subparagraph (A) is affirmative, make a preliminary determination of whether imports of the product which is the subject of the investigation have caused or threatened to cause market disruption.
+&emsp;(B) if the determination under subparagraph (A) is affirmative, make a preliminary determination of whether imports of the productwhich is the subject of the investigation have caused or threatened to cause market disruption.
 
 > If the Commissioners voting are equally divided with respect to either of its determinations, then the determination agreed upon by either group of Commissioners may be considered by the President and the Trade Representative as the determination of the Commission.
 

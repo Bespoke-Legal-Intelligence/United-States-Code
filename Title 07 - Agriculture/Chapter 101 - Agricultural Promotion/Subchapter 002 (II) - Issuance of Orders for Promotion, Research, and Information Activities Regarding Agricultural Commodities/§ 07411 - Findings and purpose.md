@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(6) It is important to ensure that generic promotion, research, and information activities for agricultural commodities be carried out in an effective and coordinated manner designed to strengthen the position of the commodities in the marketplace and to maintain and expand their markets and uses. Independent evaluation of the effectiveness of the generic promotion activities of these programs will assist the Secretary of Agriculture and Congress in ensuring that these objectives are met.
 
-&emsp;(7) The cooperative development, financing, and implementation of a coordinated national program of research, promotion, and information regarding agricultural commodities arenecessary to maintain and expand existing markets and to develop new markets for these commodities.
+&emsp;(7) The cooperative development, financing, and implementation of a coordinated national program of research, promotion, and information regarding agricultural commodities are necessary to maintain and expand existing markets and to develop new markets for these commodities.
 
 &emsp;(8) Agricultural commodities move in interstate and foreign commerce, and agricultural commodities and their products that do not move in such channels of commerce directly burden or affect interstate commerce in agricultural commodities and their products.
 

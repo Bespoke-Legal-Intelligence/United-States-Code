@@ -16,9 +16,15 @@ Requirement for Employment by States of a Sufficient Number of Specialists.—(1
 
 Requirement for Qualified Veterans.—A State shall, to the maximum extent practicable, employ qualified veterans to carry out the services referred to in subsection (a). Preference shall be given in the appointment of such specialists to qualified disabled veterans.
 
-(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, §9(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(1), Nov. 7, 2002, 116 Stat. 2043.)
+(c)
+
+Part-Time Employees.—A part-time disabled veterans’ outreach program specialist shall perform the functions of a disabled veterans’ outreach program specialist under this section on a half-time basis.
+
+(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, §9(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(1), Nov. 7, 2002, 116 Stat. 2043; Pub. L. 109–461, title VI, §602(a), Dec. 22, 2006, 120 Stat. 3437.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–461 added subsec. (c).
 
 2002—Pub. L. 107–288 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to appointment, services and stationing, and functions of disabled veterans’ outreach program specialists.
 
@@ -34,7 +40,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted “incl
 
 1992—Subsec. (a)(1). Pub. L. 102–568, §501, substituted “specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.” for “specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”
 
-Subsec. (b)(1)(A). Pub. L. 102–568, §503, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title.”
+Subsec. (b)(1)(A). Pub. L. 102–568, §503, amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title.”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 2003A of this title as this section.
 
@@ -83,6 +89,10 @@ Subsec. (c)(4). Pub. L. 97–306, §305(c)(1), substituted “appropriate grante
 Subsec. (c)(8). Pub. L. 97–306, §305(c)(2), added par. (8).
 
 Subsecs. (d), (e). Pub. L. 97–306, §305(d), redesignated subsec. (e) as (d) and inserted provision that the Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsec. (a)(2) of this section with respect to the employment of such specialists. Former subsec. (d), which provided that persons serving as staff in the disabled veterans outreach program conducted under title III of the Comprehensive Employment and Training Act on the date of enactment of this section would be appointed as disabled veterans’ outreach program specialists in the State in which such individual was so serving, unless the Secretary for good cause shown determined that such individual was not qualified for such appointment, was struck out.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–461, title VI, §602(c), Dec. 22, 2006, 120 Stat. 3437, provided that: “Section 4103A(c) of title 38, United States Code, as added by subsection (a), and section 4104(d) of such title, as amended by subsection (b), shall apply with respect to pay periods beginning after the date that is 180 days after the date of the enactment of this Act \[Dec. 22, 2006\].”
 
 #### Effective Date of 2002 Amendment
 

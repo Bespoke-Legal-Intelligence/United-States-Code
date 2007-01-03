@@ -26,7 +26,7 @@ On receipt of a request made under section 2277a–8(b)(1)(B) of this title with
 
 &emsp;(B) if the Farm Credit Administration Board determines that compliance with the request would substantially impair the ability of the Farm Credit Administration to carry out the other duties and responsibilities of the Farm Credit Administration under this chapter, notify the Board of Directors of the Farm Credit System Insurance Corporation that the Farm Credit Administration will be unable to comply with the request.
 
-(Pub. L. 92–181, title V, §5.19, formerly §5.20, Dec. 10, 1971, 85 Stat. 623; renumbered §5.19 andamended Pub. L. 99–205, title II, §203(a), Dec. 23, 1985, 99 Stat. 1693; Pub. L. 99–509, title I, §1037, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §205(b), title IV, §432(b), Jan. 6, 1988, 101 Stat. 1607, 1661; Pub. L. 100–399, title II, §204, title IV, §416(c), Aug. 17, 1988, 102 Stat. 993, 1004; Pub. L. 101–624, title XVIII, §1843(b), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–552, title V, §§512, 513(b), Oct. 28, 1992, 106 Stat. 4133, 4134; Pub. L. 104–105, title II, §213, Feb. 10, 1996, 110 Stat. 175.)
+(Pub. L. 92–181, title V, §5.19, formerly §5.20, Dec. 10, 1971, 85 Stat. 623; renumbered §5.19 and amended Pub. L. 99–205, title II, §203(a), Dec. 23, 1985, 99 Stat. 1693; Pub. L. 99–509, title I, §1037, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §205(b), title IV, §432(b), Jan. 6, 1988, 101 Stat. 1607, 1661; Pub. L. 100–399, title II, §204, title IV, §416(c), Aug. 17, 1988, 102 Stat. 993, 1004; Pub. L. 101–624, title XVIII, §1843(b), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–552, title V, §§512, 513(b), Oct. 28, 1992, 106 Stat. 4133, 4134; Pub. L. 104–105, title II, §213, Feb. 10, 1996, 110 Stat. 175.)
 
 #### Prior Provisions
 
@@ -34,7 +34,7 @@ A prior section 5.19 of Pub. L. 92–181 was classified to section 2253 of this 
 
 #### References in Text
 
-The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of thistitle. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 The Federal Reserve Act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 

@@ -18,17 +18,19 @@ It is therefore the purpose of this chapter to (1) authorize a flood insurance p
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
-It is the further purpose of this chapter to (1) encourage State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
+It is the further purpose of this chapter to (1) encourage State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, toassist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
 
 #### (f) Mudslides
 
-The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowingwaters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
+The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
 
 (Pub. L. 90–448, title XIII, §1302, Aug. 1, 1968, 82 Stat. 572; Pub. L. 91–152, title IV, §409(a), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §108(a), Dec. 31, 1973, 87 Stat. 979; Pub. L. 103–325, title V, §552(d), Sept. 23, 1994, 108 Stat. 2269.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) to (f), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, known as the National Flood Insurance Act of 1968, which enacted this chapter, amended section 2414 of this title, repealed sections 2401 to 2413 and 2415 to 2421 of this title, and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+For effective date of this chapter, referred to in subsec. (c), see section 1377 of Pub. L. 90–448, set out as an Effective Date note below.
+
+This chapter, referred to in subsecs. (d) to (f), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -41,6 +43,10 @@ This chapter, referred to in subsecs. (d) to (f), is title XIII of Pub. L. 90–
 #### Effective Date
 
 Section 1377 of title XIII of Pub. L. 90–448 provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–208, §1, Mar. 23, 2006, 120 Stat. 317, provided that: “This Act \[amending section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Enhanced Borrowing Authority Act of 2006’.”
 
 #### Short Title of 2005 Amendments
 
@@ -64,7 +70,7 @@ Section 501 of title V of Pub. L. 103–325 provided that: “This title \[enact
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–234, §1, Dec. 31, 1973, 87 Stat. 975, provided: “That this Act \[enacting sections 4002, 4003, 4012a, 4104, 4105 to 4107, and 4128 of this title, amending this section, sections 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title, and sections 24 and 1709–1 of Title 12, Banks and Banking, and repealing section 4021 of this title\] may be cited as the ‘Flood Disaster Protection Act of 1973’.”
+Pub. L. 93–234, §1, Dec. 31, 1973, 87 Stat. 975, provided: “That this Act \[enacting sections 4002, 4003, 4012a, 4104, 4105 to 4107, and 4128 of this title, amending this section, sections 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title, and sections 24 and 1709–1 of Title 12, Banks and Banking, and repealing section 4021 of thistitle\] may be cited as the ‘Flood Disaster Protection Act of 1973’.”
 
 #### Short Title
 
@@ -72,121 +78,19 @@ Section 1301 of title XIII of Pub. L. 90–448 provided that: “This title \[en
 
 #### Regulations
 
-Section 583 of title V of Pub. L. 103–325 provided that: “The Director of the Federal Emergency Management Agency and any appropriate Federal agency may each issue any regulations necessary to carry out the applicable provisions of this title \[see Short Title of 1994 Amendment note above\] and the applicable amendments made by this title.”
+Pub. L. 103–325, title V, §583, Sept. 23, 1994, 108 Stat. 2287, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: “The Administrator of the Federal Emergency Management Agency and any appropriate Federal agency may each issue any regulations necessary to carry out the applicable provisions of this title \[see Short Title of 1994 Amendment note above\] and the applicable amendments made by this title.”
 
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d),552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
+
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Evaluation of Erosion Hazards
 
-Section 577(a)–(g) of Pub. L. 103–325 provided that:
-
-“(a)
-
-Report Requirement.—The Director of the Federal Emergency Management Agency (in this section referred to as the ‘Director’) shall submit a report under this section to the Congress that—
-
-&emsp;“(1) lists all communities that are likely to be identified as having erosion hazard areas;
-
-&emsp;“(2) estimates the amount of flood insurance claims under the national flood insurance program that are attributable to erosion;
-
-&emsp;“(3) states the amount of flood insurance claims under such program that are attributable to claims under section 1306(c) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4013(c)\];
-
-&emsp;“(4) assesses the full economic impact of erosion on the National Flood Insurance Fund; and
-
-&emsp;“(5) determines the costs and benefits of expenditures necessary from the National Flood Insurance Fund to complete mapping of erosion hazard areas.
-
-“(b)
-
-Estimate of Flood Claims.—In developing the estimate under subsection (a)(2)—
-
-&emsp;“(1) the Director may map a statistically valid and representative number of communities with erosion hazard areas throughout the United States, including coastal, Great Lakes, and, if technologically feasible, riverine areas; and
-
-&emsp;“(2) the Director shall take into consideration the efforts of State and local governments to assess, measure, and reduce erosion hazards.
-
-“(c)
-
-Economic Impact.—
-
-&emsp;“(1)
-
-In general.—The assessment under subsection (a)(4) shall assess the economic impact of—
-
-&emsp;&emsp;“(A) erosion on communities listed pursuant to subsection (a)(1);
-
-&emsp;&emsp;“(B) the denial of flood insurance for all structures in communities listed pursuant to subsection (a)(1);
-
-&emsp;&emsp;“(C) the denial of flood insurance for structures that are newly constructed in whole in communities listed pursuant to subsection (a)(1);
-
-&emsp;&emsp;“(D) the establishment of (i) actuarial rates for existing structures in communities listed pursuant to subsection (a)(1), and (ii) actuarial rates for such structures in connection with the denial of flood insurance as described in subparagraph (C);
-
-&emsp;&emsp;“(E) the establishment of actuarial rates for structures newly constructed in whole in erosion hazard areas in communities listed pursuant to subsection (a)(1);
-
-&emsp;&emsp;“(F) the denial of flood insurance pursuant to existing requirements for coverage under the national flood insurance program;
-
-&emsp;&emsp;“(G) erosion hazard assessment, measurement, and management activities undertaken by State and local governments, including building restrictions, beach nourishment, construction of sea walls and levees, and other activities that reduce the risk of damage due to erosion; and
-
-&emsp;&emsp;“(H) the mapping and identifying of communities (or subdivisions thereof) having erosion hazard areas.
-
-&emsp;“(2)
-
-Scope.—In assessing the economic impact of the activities under subparagraphs (A) through (H) of paragraph (1), the assessment under subsection (a)(4) shall address such impact on all significant economic factors, including the impact on—
-
-&emsp;&emsp;“(A) the value of residential and commercial properties in communities with erosion hazards;
-
-&emsp;&emsp;“(B) community tax revenues due to potential changes in property values or commercial activity;
-
-&emsp;&emsp;“(C) employment, including the potential loss or gain of existing and new jobs in the community;
-
-&emsp;&emsp;“(D) existing businesses and future economic development;
-
-&emsp;&emsp;“(E) the estimated cost of Federal and State disaster assistance to flood victims; and
-
-&emsp;&emsp;“(F) the mapping and identifying of communities (or subdivisions thereof) having erosion hazard areas.
-
-&emsp;“(3)
-
-Preparation.—The assessment required under subsection (a)(4) shall be conducted by a private independent entity selected by the Director. The private entity shall consult with a statistically valid and representative number of communities listed pursuant to subsection (a)(1) in conducting the assessment.
-
-“(d)
-
-Costs and Benefits of Mapping.—The determination under subsection (a)(5) shall—
-
-&emsp;“(1) determine the costs and benefits of mapping erosion hazard areas, based upon the Director's estimate of the actual and prospective amount of flood insurance claims attributable to erosion;
-
-&emsp;“(2) if the Director determines that the savings to the National Flood Insurance Fund will exceed the cost of mapping erosion hazard areas, further assess whether using flood insurance premiums for costs of mapping erosion hazard areas is cost-beneficial compared to alternative uses of such amounts, including—
-
-&emsp;&emsp;“(A) funding the mitigation assistance program under section 1366 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104c\] (as added by section 553 of this Act);
-
-&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the national flood insurance program for compliance with land use and control measures; and
-
-&emsp;&emsp;“(C) reviewing, revising, and updating flood insurance rate maps under subsections (e) and (f) of section 1360 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4101(e), (f)\] (as added by the amendment made by section 575 of this Act);
-
-&emsp;“(3) if the Director determines under subsection (b)(1) that mapping of riverine areas for erosion hazard areas is technologically feasible, determine the costs and benefits of conducting the mapping of erosion hazards in riverine areas (A) separately from the mapping of other erosion hazard areas, and (B) together with the mapping of other such areas;
-
-&emsp;“(4) if the Director determines that the savings to the National Flood Insurance Fund will exceed the cost of mapping erosion hazard areas in riverine areas, assess whether using flood insurance premiums for costs of mapping erosion hazard areas in riverine areas is cost-beneficial compared to alternative uses of such amounts, including the uses under subparagraphs (A) through (C) of paragraph (2); and
-
-&emsp;“(5) determine the costs and benefits of mapping erosion, other than those directly related to the financial condition of the National Flood Insurance Program, and the costs of not mapping erosion.
-
-“(e)
-
-Definition.—For purposes of this section, the term ‘erosion hazard area’ means, based on erosion rate information and other historical data available, an area where erosion or avulsion is likely to result in damage to or loss of buildings and infrastructure within a 60-year period.
-
-“(f)
-
-Consultation.—In preparing the report under this section, the Director shall consult with—
-
-&emsp;“(1) representatives from State coastal zone management programs approved under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\];
-
-&emsp;“(2) the Administrator of the National Oceanic and Atmospheric Administration; and
-
-&emsp;“(3) any other persons, officials, or entities that the Director considers appropriate.
-
-“(g)
-
-Submission.—The Director shall submit the report to the Congress as soon as practicable, but not later than 2 years after the date of enactment of this Act \[Sept. 23, 1994\].”
+Pub. L. 103–325, title V, §577(a)–(g), Sept. 23, 1994, 108 Stat. 2281–2283, required the Director of the Federal Emergency Management Agency to submit a report no later than two years after Sept. 23, 1994, evaluating erosion hazards and estimating the impact of erosion on flood insurance claims.
 
 #### Relation of Title V of Pub. L. 103–325 to State and Local Laws
 
-Section 584 of title V of Pub. L. 103–325 provided that: “This title \[see Short Title of 1994 Amendment noteabove\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
+Section 584 of title V of Pub. L. 103–325 provided that: “This title \[see Short Title of 1994 Amendment note above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
 
 #### Floodplain Management
 

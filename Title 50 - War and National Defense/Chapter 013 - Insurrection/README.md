@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 201 to 204. Repealed. |  |
+| 201 to 204. Repealed. |  |
 | [205\.](%C2%A7%2000205%20-%20Suspension%20of%20commercial%20intercourse%20with%20State%20in%20insurrection.md) | Suspension of commercial intercourse with State in insurrection. |
 | [206\.](%C2%A7%2000206%20-%20Suspension%20of%20commercial%20intercourse%20with%20part%20of%20State%20in%20insurrection.md) | Suspension of commercial intercourse with part of State in insurrection. |
 | [207\.](%C2%A7%2000207%20-%20Persons%20affected%20by%20suspension%20of%20commercial%20intercourse.md) | Persons affected by suspension of commercial intercourse. |

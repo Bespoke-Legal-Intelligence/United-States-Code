@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each eligible entity that receives a subgrant from a State educational agency under subpart 1 of this part shall provide such agency, at the conclusion of every second fiscal year during which the subgrant is received, with an evaluation, in a form prescribed by the agency, that includes—
+Each eligible entity that receives a subgrant from a State educational agency under subpart 1 of this part shall provide such agency, at the conclusion of every second fiscal year duringwhich the subgrant is received, with an evaluation, in a form prescribed by the agency, that includes—
 
 &emsp;(1) a description of the programs and activities conducted by the entity with funds received under subpart 1 of this part during the two immediately preceding fiscal years;
 
@@ -18,7 +18,7 @@ An evaluation provided by an eligible entity under subsection (a) of this sectio
 
 &emsp;(1) for improvement of programs and activities;
 
-&emsp;(2) to determine the effectiveness of programs and activities in assisting children who are limited English proficient to attainEnglish proficiency (as measured consistent with subsection (d) of this section) and meet challenging State academic content and student academic achievement standards; and
+&emsp;(2) to determine the effectiveness of programs and activities in assisting children who are limited English proficient to attain English proficiency (as measured consistent with subsection (d) of this section) and meet challenging State academic content and student academic achievement standards; and
 
 &emsp;(3) in determining whether or not to continue funding for specific programs or activities.
 

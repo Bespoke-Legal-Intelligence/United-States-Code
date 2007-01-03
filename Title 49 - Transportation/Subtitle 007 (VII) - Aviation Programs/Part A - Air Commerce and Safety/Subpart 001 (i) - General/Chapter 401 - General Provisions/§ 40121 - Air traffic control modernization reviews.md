@@ -30,7 +30,7 @@ Continuance of program, etc.—Notwithstanding subsection (a), the Administrator
 
 &emsp;(2)
 
-Department of defense.—The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) ofthis title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
+Department of defense.—The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) of this title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
 
 &emsp;(3)
 

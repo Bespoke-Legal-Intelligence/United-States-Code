@@ -104,7 +104,7 @@ Pub. L. 102–183, title III, §310(b), Dec. 4, 1991, 105 Stat. 1267, provided t
 
 Pub. L. 102–88, title III, §305(b), Aug. 14, 1991, 105 Stat. 432, provided that:
 
-“(1) The amendments made by subsection (a) \[amending sections 221, 222, and 232 of Pub. L. 88–643\] relating to widows or widowers shall apply in the case of a surviving spouse's remarriage occurring on or after July 27, 1989, and with respect to periods beginning after such date.
+“(1) The amendments made by subsection (a) \[amending sections 221, 222, and 232 of Pub. L. 88–643\] relatingto widows or widowers shall apply in the case of a surviving spouse's remarriage occurring on or after July 27, 1989, and with respect to periods beginning after such date.
 
 “(2) The amendments made by subsection (a) relating to former spouses shall apply with respect to any former spouse whose remarriage occurs after the date of enactment of this Act \[Aug. 14, 1991\].”
 
@@ -234,7 +234,7 @@ Ex. Ord. No. 12197, Mar. 5, 1980, 45 F.R. 14833, conformed Central Intelligence 
 
 #### Executive Order No. 12253
 
-Ex. Ord. No. 12253, Nov. 25, 1980, 45 F.R. 78995, conformed Central Intelligence Agency and Civil ServiceRetirement and Disability Systems with regard to definition of “dependent”.
+Ex. Ord. No. 12253, Nov. 25, 1980, 45 F.R. 78995, conformed Central Intelligence Agency and Civil Service Retirement and Disability Systems with regard to definition of “dependent”.
 
 #### Executive Order No. 12273
 

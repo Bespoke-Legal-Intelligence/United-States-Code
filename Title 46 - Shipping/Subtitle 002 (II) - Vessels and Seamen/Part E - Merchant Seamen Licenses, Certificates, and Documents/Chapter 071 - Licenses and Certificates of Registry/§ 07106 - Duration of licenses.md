@@ -36,13 +36,9 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Termination of Existing Licenses, Certificates, and Documents; Applicability of 1990 Amendment
 
-Section 4102(d) of Pub. L. 101–380 provided that: “A license, certificate of registry, or merchant mariner's document issued before the date of the enactment of this section \[Aug. 18, 1990\] terminates on the day it would have expired if—
+Pub. L. 101–380, title IV, §4102(d), Aug. 18, 1990, 104 Stat. 510, provided that: “A license, certificate of registry, or merchant mariner's document issued before the date of the enactment of this section \[Aug. 18, 1990\] terminates on the day it would have expired if—
 
 &emsp;“(1) subsections (a), (b), and (c) \[amending this section and sections 7107 and 7302 of this title\] were in effect on the date it was issued; and
 
 &emsp;“(2) it was renewed at the end of each 5-year period under section 7106, 7107, or 7302 of title 46, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7108 of this title.
 

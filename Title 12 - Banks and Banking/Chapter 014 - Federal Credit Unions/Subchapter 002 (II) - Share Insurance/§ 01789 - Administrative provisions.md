@@ -16,7 +16,7 @@
 
 &emsp;(7) exercise all powers specifically granted by the provisions of this subchapter and such incidental powers as shall be necessary to carry out the power so granted;
 
-&emsp;(8) make examinations of and require information and reports from insured credit unions, as provided in this subchapter.<sup>1</sup>
+&emsp;(8) make examinations of and require information and reports from insured credit unions, as provided in this subchapter;
 
 &emsp;(9) act as liquidating agent;
 
@@ -28,9 +28,9 @@
 
 &emsp;(1) prepare annually and submit a business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;(2) maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 <sup>2</sup> of title 31.
+&emsp;(2) maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 <sup>1</sup> of title 31.
 
-(June 26, 1934, ch. 750, title II, §209, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, §706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(June 26, 1934, ch. 750, title II, §209, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, §706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–351, title VII, §726(24), Oct. 13, 2006, 120 Stat. 2003.)
 
 #### References in Text
 
@@ -44,6 +44,8 @@ In subsec. (b), “chapter 91 of title 31” and “section 9105 of title 31” 
 
 #### Amendments
 
+2006—Subsec. (a)(8). Pub. L. 109–351 substituted a semicolon for period at end.
+
 2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, “its” for “his”, and “it” for “he” and “him”, where appropriate.
@@ -54,7 +56,5 @@ In subsec. (b), “chapter 91 of title 31” and “section 9105 of title 31” 
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-<i><sup>1</sup></i><i> So in original. The period should be a semicolon.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

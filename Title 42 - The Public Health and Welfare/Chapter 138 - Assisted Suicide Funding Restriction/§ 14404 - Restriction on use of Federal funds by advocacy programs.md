@@ -54,7 +54,7 @@ The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X
 
 #### Amendments
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar.\(A). Text read as follows: “Part C of the Developmental Disabilities Assistance and Bill of Rights Act.”
+2000—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Part C of the Developmental Disabilities Assistance and Bill of Rights Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or governmental entity”.</i>
 

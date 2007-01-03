@@ -14,7 +14,7 @@ Until otherwise provided by law and except as provided in subsection (c) of this
 
 #### (b) Time of fundraising activities
 
-The Chief Administrative Officer of the House of Representatives shall, to the extent practicable, carry out subsection (a) of this section at or about the time of the Combined Federal Campaign and other fundraising in the executive branch of the Federal Government conducted pursuant to Executive Order 10927, dated March18, 1961, and at such other times as such officer deems appropriate.
+The Chief Administrative Officer of the House of Representatives shall, to the extent practicable, carry out subsection (a) of this section at or about the time of the Combined Federal Campaign and other fundraising in the executive branch of the Federal Government conducted pursuant to Executive Order 10927, dated March 18, 1961, and at such other times as such officer deems appropriate.
 
 #### (c) Minimum amounts withheld
 

@@ -40,7 +40,3 @@ Section 3309 provides for the issuance of a certificate of inspection that attes
 
 Amendment by Pub. L. 98–498 effective 180 days after Oct. 19, 1984, see section 214 of Pub. L. 98–498, set out as an Effective Date note under section 2306 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3311, 3312, 3318 of this title.
-

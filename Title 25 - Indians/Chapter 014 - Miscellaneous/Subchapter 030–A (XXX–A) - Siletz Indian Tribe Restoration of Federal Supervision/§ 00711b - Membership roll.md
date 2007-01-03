@@ -2,7 +2,7 @@
 
 #### (a) Opening; duty of Secretary, Interim Council, and tribal officials
 
-The final membership roll is declared open. The Secretary, the Interim Council, and tribal officials under the tribal constitution and bylaws shall take such measures as will insure the continuing accuracy of the membership roll.
+The final membership roll is declared open. The Secretary, the Interim Council, and tribalofficials under the tribal constitution and bylaws shall take such measures as will insure the continuing accuracy of the membership roll.
 
 #### (b) Prerequisites for inclusion
 

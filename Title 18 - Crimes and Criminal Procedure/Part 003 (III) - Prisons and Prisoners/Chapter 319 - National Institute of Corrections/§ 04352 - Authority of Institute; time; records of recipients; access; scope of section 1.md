@@ -22,7 +22,7 @@
 
 &emsp;(10) to receive from any Federal department or agency such statistics, data, program reports, and other material as the Institute deems necessary to carry out its functions. Each such department or agency is authorized to cooperate with the Institute and shall, to the maximum extent practicable, consult with and furnish information to the Institute;
 
-&emsp;(11) to arrange with and reimburse the heads of Federal departments and agencies for theuse of personnel, facilities, or equipment of such departments and agencies;
+&emsp;(11) to arrange with and reimburse the heads of Federal departments and agencies for the use of personnel, facilities, or equipment of such departments and agencies;
 
 &emsp;(12) to confer with and avail itself of the assistance, services, records, and facilities of State and local governments or other public or private agencies, organizations, or individuals;
 

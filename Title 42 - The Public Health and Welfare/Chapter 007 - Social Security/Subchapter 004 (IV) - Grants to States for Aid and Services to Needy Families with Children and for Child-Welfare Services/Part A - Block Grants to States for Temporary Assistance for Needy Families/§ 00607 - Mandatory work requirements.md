@@ -4,7 +4,7 @@
 
 #### (1) All families
 
-&emsp;A State to which a grant is made under section 603 of this title for a fiscal year shall achieve the minimum participation rate specified in the following table for the fiscal year with respect to all families receiving assistance under the State program funded under this part:
+&emsp;A State to which a grant is made under section 603 of this title for a fiscal year shall achieve the minimum participation rate specified in the following table for the fiscal year with respect to all families receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
 
 &nbsp;
 
@@ -19,7 +19,7 @@
 
 #### (2) 2-parent families
 
-&emsp;A State to which a grant is made under section 603 of this title for a fiscal year shall achieve the minimum participation rate specified in the following table for the fiscal year with respect to 2-parent families receiving assistance under the State program funded under this part:
+&emsp;A State to which a grant is made under section 603 of this title for a fiscal year shall achieve the minimum participation rate specified in the following table for the fiscal year with respect to 2-parent families receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
 
 &nbsp;
 
@@ -41,7 +41,7 @@
 
 &emsp;&emsp;The participation rate of a State for all families of the State for a month, expressed as a percentage, is—
 
-&emsp;&emsp;&emsp;(i) the number of families receiving assistance under the State program funded under this part that include an adult or a minor child head of household who is engaged in work for the month; divided by
+&emsp;&emsp;&emsp;(i) the number of families receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) that include an adult or a minor child head of household who is engaged in work for the month; divided by
 
 &emsp;&emsp;&emsp;(ii) the amount by which—
 
@@ -69,15 +69,15 @@
 
 &emsp;&emsp;The Secretary shall prescribe regulations for reducing the minimum participation rate otherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
 
-&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part is less than
+&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
 
-&emsp;&emsp;&emsp;(ii) the average monthly number of families that received aid under the State plan approved under part A of this subchapter (as in effect on September 30, 1995) during fiscal year 1995.
+&emsp;&emsp;&emsp;(ii) the average monthly number of families that received assistance under any State program referred to in clause (i) during fiscal year 2005.
 
 > &emsp;&emsp;The minimum participation rate shall not be reduced to the extent that the Secretary determines that the reduction in the number of families receiving such assistance is required by Federal law.
 
 #### (B) Eligibility changes not counted
 
-&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences in eligibility criteria under a State program funded under this part and eligibility criteria under the State program operated under the State plan approved under part A of this subchapter (as such plan and such part were in effect on September 30, 1995). Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
+&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences in eligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
 
 #### (4) State option to include individuals receiving assistance under a tribal family assistance plan or tribal work program
 
@@ -85,7 +85,7 @@
 
 #### (5) State option for participation requirement exemptions
 
-&emsp;For any fiscal year, a State may, at its option, not require an individual who is a single custodial parent caring for a child who has not attained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) of this section for not more than 12 months.
+&emsp;For any fiscal year, a State may, at its option, not require an individual who is a single custodial parent caring for a child who has notattained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) of this section for not more than 12 months.
 
 #### (c) Engaged in work
 
@@ -139,7 +139,7 @@
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part, after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greater than the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(6) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greater than the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(6) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
 
 #### (ii) Limited authority to count less than full week of participation
 
@@ -193,7 +193,7 @@ As used in this section, the term “work activities” means—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance under the State program funded under this part refuses to engage in work required in accordance with this section, the State shall—
+&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) refuses to engage in work required in accordance with this section, the State shall—
 
 &emsp;&emsp;(A) reduce the amount of assistance otherwise payable to the family pro rata (or more, at the option of the State) with respect to any period during a month in which the individual so refuses; or
 
@@ -203,7 +203,7 @@ As used in this section, the term “work activities” means—
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), a State may not reduce or terminate assistance under the State program funded under this part based on a refusal of an individual to engage in work required in accordance with this section if the individual is a single custodial parent caring for a child who has not attained 6 years of age, and the individual proves that the individual has a demonstrated inability (as determined by the State) to obtain needed child care, for 1 or more of the following reasons:
+&emsp;Notwithstanding paragraph (1), a State may not reduce or terminate assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) based on a refusal of an individual to engage in work required in accordance with this section if the individual is a single custodial parent caring for a child who has not attained 6 years of age, and the individual proves that the individual has a demonstrated inability (as determined by the State) to obtain needed child care, for 1 or more of the following reasons:
 
 &emsp;&emsp;(A) Unavailability of appropriate child care within a reasonable distance from the individual's home or work site.
 
@@ -241,17 +241,55 @@ It is the sense of the Congress that in complying with this section, each State 
 
 It is the sense of the Congress that the States should require noncustodial, nonsupporting parents who have not attained 18 years of age to fulfill community work obligations and attend appropriate parenting or money management classes after school.
 
-#### (i) Review of implementation of State work programs
+#### (i) Verification of work and work-eligible individuals in order to implement reforms
 
-During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.
+#### (1) Secretarial direction and oversight
 
-(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620.)
+#### (A) Regulations for determining whether activities may be counted as “work activities”, how to count and verify reported hours of work, and determining who is a work-eligible individual
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) determining whether an activity of a recipient of assistance may be treated as a work activity under subsection (d);
+
+&emsp;&emsp;&emsp;&emsp;(II) uniform methods for reporting hours of work by a recipient of assistance;
+
+&emsp;&emsp;&emsp;&emsp;(III) the type of documentation needed to verify reported hours of work by a recipient of assistance; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the circumstances under which a parent who resides with a child who is a recipient of assistance should be included in the work participation rates.
+
+#### (ii) Issuance of regulations on an interim final basis
+
+&emsp;&emsp;&emsp;The regulations referred to in clause (i) may be effective and final immediately on an interim basis as of the date of publication of the regulations. If the Secretary provides for an interim final regulation, the Secretary shall provide for a period of public comment on the regulation after the date of publication. The Secretary may change or revise the regulation after the public comment period.
+
+#### (B) Oversight of State procedures
+
+&emsp;&emsp;The Secretary shall review the State procedures established in accordance with paragraph (2) to ensure that such procedures are consistent with the regulations promulgated under subparagraph (A) and are adequate to ensure an accurate measurement of work participation under the State programs funded under this part and any other State programs funded with qualified State expenditures (as so defined).
+
+#### (2) Requirement for States to establish and maintain work participation verification procedures
+
+&emsp;Not later than September 30, 2006, a State to which a grant is made under section 603 of this title shall establish procedures for determining, with respect to recipients of assistance under the State program funded under this part or under any State programs funded with qualified State expenditures (as so defined), whether activities may be counted as work activities, how to count and verify reported hours of work, and who is a work-eligible individual, in accordance with the regulations promulgated pursuant to paragraph (1)(A)(i) and shall establish internal controls to ensure compliance with the procedures.
+
+(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136.)
 
 #### Prior Provisions
 
 A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+2006—Subsecs. (a)(1), (2), (b)(1)(B)(i). Pub. L. 109–171, §7102(b)(1), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
+
+Subsec. (b)(3)(A)(i). Pub. L. 109–171, §7102(a)(1)(A), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
+
+Subsec. (b)(3)(A)(ii). Pub. L. 109–171, §7102(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “the average monthly number of families that received aid under the State plan approved under part A of this subchapter (as in effect on September 30, 1995) during fiscal year 1995.”
+
+Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted “and the eligibility criteria in effect during fiscal year 2005” for “and eligibility criteria under the State program operated under the State plan approved under part A of this subchapter (as such plan and such part were in effect on September 30, 1995)”.
+
+Subsecs. (c)(2)(A)(i), (e)(1), (2). Pub. L. 109–171, §7102(b)(1), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
+
+Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: “During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.”
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -269,7 +307,7 @@ Subsec. (c)(1)(B)(ii). Pub. L. 105–33, §5504(d)(2), substituted “individual
 
 Subsec. (c)(2)(A)(i). Pub. L. 105–33, §5504(f), inserted “or the State is a needy State (within the meaning of section 603(b)(6) of this title)” after “United States”.
 
-Subsec. (c)(2)(B). Pub. L. 105–33, §5504(g), inserted “or relative” after “parent” in two places in heading and substituted “who is the only parent or caretaker relative in the family” for “in a 1-parent family who is the parent”.
+Subsec. (c)(2)(B). Pub. L. 105–33, §5504(g), inserted “or relative” after “parent” in two places in heading andsubstituted “who is the only parent or caretaker relative in the family” for “in a 1-parent family who is the parent”.
 
 Subsec. (c)(2)(C). Pub. L. 105–33, §5504(h), in heading substituted “Single teen head of household or married teen” for “Teen head of household” and, in introductory provisions, substituted “married or a” for “a single” and struck out “, subject to subparagraph (D) of this paragraph,” after “is deemed”.
 
@@ -278,6 +316,12 @@ Subsec. (c)(2)(C)(ii). Pub. L. 105–33, §5504(i), substituted “an average of
 Subsec. (c)(2)(D). Pub. L. 105–33, §5003(a), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 20 percent of individuals in all families and in 2-parent families may be determined to be engaged in work in the State for a month by reason of participation in vocational educational training or deemed to be engaged in work by reason of subparagraph (C) of this paragraph.”
 
 Subsec. (e)(2). Pub. L. 105–33, §5504(j), substituted “engage in work required in accordance with this section” for “work” in introductory provisions.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 7102(c)(1) of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+
+Pub. L. 109–171, title VII, §7102(d), Feb. 8, 2006, 120 Stat. 137, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 611 of this title\] shall take effect on October 1, 2006.”
 
 #### Effective Date of 1997 Amendment
 

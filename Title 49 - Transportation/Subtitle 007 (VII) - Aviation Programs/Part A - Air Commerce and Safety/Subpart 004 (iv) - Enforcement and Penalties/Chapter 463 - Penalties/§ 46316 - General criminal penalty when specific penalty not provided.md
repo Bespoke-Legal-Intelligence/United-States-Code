@@ -8,7 +8,7 @@ Criminal Penalty.—Except as provided by subsection (b) of this section, when a
 
 Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240; Pub. L. 104–287, §5(79), Oct. 11, 1996, 110 Stat.3397; Pub. L. 105–102, §3(d)(1)(D), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 107–71, title I, §140(d)(7), Nov. 19, 2001, 115 Stat. 642.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240; Pub. L. 104–287, §5(79), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(D), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 107–71, title I, §140(d)(7), Nov. 19, 2001, 115 Stat. 642.)
 
 Historical and Revision Notes
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security,relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

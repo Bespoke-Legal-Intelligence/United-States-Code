@@ -54,7 +54,7 @@ Subsec. (a)(6). Pub. L. 108–36, §201(1)(B), (D), redesignated par. (8) as (6)
 
 Subsec. (a)(7). Pub. L. 108–36, §201(1)(D), redesignated par. (9) as (7). Former par. (7) redesignated (5).
 
-Subsec. (a)(7)(A). Pub. L. 108–36, §201(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “currently, 40,000 children are free for adoption and awaiting placement;”.
+Subsec. (a)(7)(A). Pub. L. 108–36, §201(1)(C), added subpar. (A) and struck out former subpar. (A) which readas follows: “currently, 40,000 children are free for adoption and awaiting placement;”.
 
 Subsec. (a)(8) to (10). Pub. L. 108–36, §201(1)(D), redesignated pars. (8) to (10) as (6) to (8), respectively.
 

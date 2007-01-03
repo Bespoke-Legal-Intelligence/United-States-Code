@@ -74,5 +74,5 @@ Subsecs. (c), (d). Pub. L. 106–65, §381(b), added subsecs. (c) and (d).
 
 #### Report on Implementation
 
-Pub. L. 106–65, div. A, title III, §381(e), Oct. 5, 1999, 113 Stat. 583, provided that: “Not later than two years after the date of the enactment of this Act \[Oct. 5, 1999\], the Comptroller General shall review the exercise of authority under section 4683 of title 10, United States Code, as amended by this section, and submit to Congress a report on the findings resulting from the review.”
+Pub. L. 106–65, div. A, title III, §381(e), Oct. 5, 1999, 113 Stat. 583, provided that, not later than two years after Oct. 5, 1999, the Comptroller General was to review the exercise of authority under this section and submit to Congress a report on the findings resulting from the review.
 

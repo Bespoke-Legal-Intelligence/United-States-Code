@@ -32,7 +32,7 @@ In general.—The program shall provide for the acquisition of photovoltaic sola
 
 &emsp;&emsp;(B)
 
-Acquisition levels.—The acquisition of photovoltaic electric systems shall be at a level substantial enough to allow use of low-cost production techniques with at least 150 megawatts (peak) cumulative acquired during the 5 years of the program.
+Acquisition levels.—The acquisition of photovoltaic electric systems shall be at alevel substantial enough to allow use of low-cost production techniques with at least 150 megawatts (peak) cumulative acquired during the 5 years of the program.
 
 &emsp;(4)
 

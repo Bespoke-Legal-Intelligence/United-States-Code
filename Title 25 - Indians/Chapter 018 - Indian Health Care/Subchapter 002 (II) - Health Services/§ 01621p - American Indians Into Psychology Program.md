@@ -30,7 +30,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) of
 
 #### (d) Active duty service obligation
 
-The active duty service obligation prescribed under section 254m of title 42 shall be met byeach graduate student who receives a stipend described in subsection (c)(2)(D) of this section that is funded by a grant provided under this section. Such obligation shall be met by service—
+The active duty service obligation prescribed under section 254m of title 42 shall be met by each graduate student who receives a stipend described in subsection (c)(2)(D) of this section that is funded by a grant provided under this section. Such obligation shall be met by service—
 
 &emsp;(1) in the Indian Health Service;
 

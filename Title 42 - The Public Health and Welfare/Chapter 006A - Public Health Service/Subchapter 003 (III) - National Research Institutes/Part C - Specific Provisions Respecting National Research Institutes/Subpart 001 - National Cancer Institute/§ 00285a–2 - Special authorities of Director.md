@@ -10,7 +10,7 @@
 
 &emsp;(B) continue and expand programs to provide physicians and the public with state-of-the-art information on the treatment of particular forms of cancers, and to identify those clinical trials that might benefit patients while advancing knowledge of cancer treatment;
 
-&emsp;(C) assess the incorporation of state-of-the-art cancer treatments into clinical practice and the extent to which cancer patients receive such treatments and include the results of such assessments in the biennial reports required under section 284b of this title;
+&emsp;(C) assess the incorporation of state-of-the-art cancer treatments into clinical practice and the extent to which cancer patients receive such treatments and include the results of such assessments in the biennial reports required under section 284b <sup>1</sup> of this title;
 
 &emsp;(D) maintain and operate the International Cancer Research Data Bank, which shall collect, catalog, store, and disseminate insofar as feasible the results of cancer research and treatment undertaken in any country for the use of any person involved in cancer research and treatment in any country; and
 
@@ -42,7 +42,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(9) shall, notwithstanding section 284(a) of this title, prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for the National Cancer Program, after reasonable opportunity for comment (but without change) by the Secretary, the Director of NIH, and the Institute's advisory council.
 
-> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (5) shall be paid or reimbursed, in accordance with title 5 for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (5) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
+> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (5) shall be paid or reimbursed, in accordance with title 5 for their travel to and from their place of service and for other expenses associated with their assignment. Such expensesshall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (5) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
 
 #### (c) Pre-clinical models to evaluate promising pediatric cancer therapies
 
@@ -57,6 +57,8 @@ The Director of the Institute in carrying out the National Cancer Program—
 (July 1, 1944, ch. 373, title IV, §413, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 833; amended Pub. L. 100–607, title I, §122, Nov. 4, 1988, 102 Stat. 3054; Pub. L. 101–93, §5(c), Aug. 16, 1989, 103 Stat. 611; Pub. L. 103–43, title III, §301(a)(2), June 10, 1993, 107 Stat. 150; Pub. L. 107–109, §15(b), Jan. 4, 2002, 115 Stat. 1420.)
 
 #### References in Text
+
+Section 284b of this title, referred to in subsec. (a)(2)(C), was repealed by Pub. L. 109–482, title I, §104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
 
 The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (b), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
 
@@ -77,4 +79,6 @@ In subsec. (b)(6)(C), “section 8141 of title 40” substituted for “the Act 
 Subsec. (b)(5). Pub. L. 100–607, §122(2)(A), substituted “after consultation with” for “with the approval of”.
 
 Subsec. (b)(8) to (10). Pub. L. 100–607, §122(2)(B), inserted “and” after “or educational institution;” in par. (8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

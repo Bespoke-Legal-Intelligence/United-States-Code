@@ -1,6 +1,6 @@
 ### §2806. Research and improved methods; authorization of appropriations; recommendations to Congressional committees
 
-(a)(1) The Director of the Office of Thrift Supervision, with the assistance of the Secretary, the Director of the Bureau of the Census, the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Director of the Office of Thrift Supervision deems appropriate, shall develop, or assist in the improvement of, methods of matching addresses and census tracts to facilitate compliance by depository institutions in as economical a manner as possible with the requirements of this chapter.
+(a)(1) The Director of the Office of Thrift Supervision, with the assistance of the Secretary, the Director of the Bureau of the Census, the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Director of the Office of Thrift Supervision deems appropriate, shall develop, or assist in the improvement of, methodsof matching addresses and census tracts to facilitate compliance by depository institutions in as economical a manner as possible with the requirements of this chapter.
 
 (2) There is authorized to be appropriated such sums as may be necessary to carry out this subsection.
 

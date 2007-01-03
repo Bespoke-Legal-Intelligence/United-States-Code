@@ -15,7 +15,12 @@
 | [<b>9.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
 | [<b>11.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
 | [<b>13.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20013%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>311</b> |
-| [<b>15.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20015%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>331</b> |
+| <b>15 </b><b><sup>1</sup></b> | <b>Enforcement of the Laws to Restore Public Order</b> | <b>331</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>17.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>351</b> |
 | [<b>18.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
@@ -44,13 +49,15 @@
 | [<b>43.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20043%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>741</b> |
 | [<b>45.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20045%20-%20The%20Uniform/README.md) | <b>The Uniform</b> | <b>771</b> |
 | [<b>47.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20047%20-%20Uniform%20Code%20of%20Military%20Justice/README.md) | <b>Uniform Code of Military Justice</b> | <b>801</b> |
+| [<b>47A.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20047A%20-%20Military%20Commissions/README.md) | <b>Military Commissions</b> | <b>948a</b> |
 | [<b>48.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20048%20-%20Military%20Correctional%20Facilities/README.md) | <b>Military Correctional Facilities</b> | <b>951</b> |
 | [<b>49.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>971</b> |
 | [<b>50.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20050%20-%20Miscellaneous%20Command%20Responsibilities/README.md) | <b>Miscellaneous Command Responsibilities</b> | <b>991</b> |
 | [<b>51.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
+| Chap. |  | Sec. |
 | [<b>53.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
 | [<b>54.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
-| [<b>55.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
+| <b>55.</b> | <b>Medical and Dental Care</b> | <b>1071</b> |
 | [<b>56.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md) | <b>Department of Defense Medicare-Eligible Retiree Health Care Fund</b> | <b>1111</b> |
 | [<b>57.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20057%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>1121</b> |
 | [<b>58.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md) | <b>Benefits and Services for Members Being Separated or Recently Separated</b> | <b>1141</b> |
@@ -69,7 +76,7 @@
 | [<b>77.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
 | [<b>80.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20080%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>1561</b> |
-| [<b>81.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581 </b><b><sup>1</sup></b> |
+| [<b>81.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581 </b><b><sup>2</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -87,19 +94,20 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>101.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20101%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>2001</b> |
-| [<b>102.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20102%20-%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps/README.md) | <b>Junior Reserve Officers’ Training Corps</b> | <b>2031</b> |
-| [<b>103.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20103%20-%20Senior%20Reserve%20Officers%E2%80%99%20Training%20Corps/README.md) | <b>Senior Reserve Officers’ Training Corps</b> | <b>2101</b> |
-| [<b>104.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20104%20-%20Uniformed%20Services%20University%20of%20the%20Health%20Sciences/README.md) | <b>Uniformed Services University of the Health Sciences</b> | <b>2112</b> |
-| [<b>105.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20105%20-%20Armed%20Forces%20Health%20Professions%20Financial%20Assistance%20Programs/README.md) | <b>Armed Forces Health Professions Financial Assistance Programs</b> | <b>2120</b> |
-| [<b>106.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20106%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>2131</b> |
-| [<b>106A.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20106A%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md) | <b>Educational Assistance for Persons Enlisting for Active Duty</b> | <b>2141</b> |
-| [<b>107.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20107%20-%20Professional%20Military%20Education/README.md) | <b>Professional Military Education</b> | <b>2151</b> |
-| [<b>108.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20108%20-%20Department%20of%20Defense%20Schools/README.md) | <b>Department of Defense Schools</b> | <b>2161</b> |
-| [<b>109.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
-| [<b>110.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
-| [<b>111.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
-| [<b>112.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program</b> | <b>2200</b> |
+| [<b>101.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20101%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>2001</b> |
+| [<b>102.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20102%20-%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps/README.md) | <b>Junior Reserve Officers’ Training Corps</b> | <b>2031</b> |
+| [<b>103.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20103%20-%20Senior%20Reserve%20Officers%E2%80%99%20Training%20Corps/README.md) | <b>Senior Reserve Officers’ Training Corps</b> | <b>2101</b> |
+| [<b>104.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20104%20-%20Uniformed%20Services%20University%20of%20the%20Health%20Sciences/README.md) | <b>Uniformed Services University of the Health Sciences</b> | <b>2112</b> |
+| [<b>105.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20105%20-%20Armed%20Forces%20Health%20Professions%20Financial%20Assistance%20Programs/README.md) | <b>Armed Forces Health Professions Financial Assistance Programs</b> | <b>2120</b> |
+| [<b>106.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20106%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>2131</b> |
+| [<b>106A.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20106A%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md) | <b>Educational Assistance for Persons Enlisting for Active Duty</b> | <b>2141</b> |
+| [<b>107.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20107%20-%20Professional%20Military%20Education/README.md) | <b>Professional Military Education</b> | <b>2151</b> |
+| [<b>108.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20108%20-%20Department%20of%20Defense%20Schools/README.md) | <b>Department of Defense Schools</b> | <b>2161</b> |
+| [<b>109.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
+| [<b>110.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
+| [<b>111.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
+| Chap. |  | Sec. |
+| [<b>112.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program</b> | <b>2200</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -120,13 +128,14 @@
 | [<b>142.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md) | <b>Procurement Technical Assistance Cooperative Agreement Program</b> | <b>2411</b> |
 | [<b>143.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md) | <b>Production by Military Agencies</b> | <b>2421</b> |
 | [<b>144.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md) | <b>Major Defense Acquisition Programs</b> | <b>2430</b> |
+| [<b>144A.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20144A%20-%20Major%20Automated%20Information%20System%20Programs/README.md) | <b>Major Automated Information System Programs</b> | <b>2445a</b> |
 | [<b>145.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md) | <b>Cataloging and Standardization</b> | <b>2451</b> |
 | [<b>146.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md) | <b>Contracting for Performance of Civilian Commercial or Industrial Type Functions</b> | <b>2460</b> |
 | [<b>147.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20147%20-%20Commissaries%20and%20Exchanges%20and%20Other%20Morale%2C%20Welfare%2C%20and%20Recreation%20Activities/README.md) | <b>Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities</b> | <b>2481</b> |
 | [<b>148.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md) | <b>National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion</b> | <b>2500</b> |
 | <b>\[149.</b> | <b>Repealed.\]</b> |  |
 | <b>\[150.</b> | <b>Repealed.\]</b> |  |
-| [<b>152.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2541 </b><b><sup>2</sup></b> |
+| [<b>152.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2541 </b><b><sup>3</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -144,10 +153,15 @@
 | [<b>169.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20169%20-%20Military%20Construction%20and%20Military%20Family%20Housing/README.md) | <b>Military Construction and Military Family Housing</b> | <b>2801</b> |
 | <b>\[171.</b> | <b>Repealed.\]</b> |  |
 | [<b>172.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20172%20-%20Strategic%20Environmental%20Research%20and%20Development%20Program/README.md) | <b>Strategic Environmental Research and Development Program</b> | <b>2901</b> |
+| [<b>173.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20173%20-%20Energy%20Security/README.md) | <b>Energy Security</b> | <b>2911</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–366, §3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
+
+Pub. L. 109–364, div. A, title VIII, §816(a)(2), title X, §1076(a)(4)(A), div. B, title XXVIII, §2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2405, 2495, substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15 and added items for chapters 144A and 173.
 
 2004—Pub. L. 108–375, div. A, title V, §532(e), title X, §1084(d)(1), Oct. 28, 2004, 118 Stat. 1900, 2061, substituted “480” for “481” in item for chapter 23, added item for chapter 107, and redesignated former item for chapter 107 as item for chapter 106A.
 
@@ -181,7 +195,7 @@ Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a
 
 Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85 and in item for chapter 108 inserted “2161”.
 
-1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of DefenseSchools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
+1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
 1989—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 
@@ -245,7 +259,7 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 1961—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
 
-1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of ArmedForces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
 
 ---
@@ -254,5 +268,4 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 - [Part 001 (I) - Organization and General Military Powers](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/README.md)
 - [Part 002 (II) - Personnel](Part%20002%20%28II%29%20-%20Personnel/README.md)
-- [Part 003 (III) - Training and Education](Part%20003%20%28III%29%20-%20Training%20and%20Education/README.md)
 - [Part 004 (IV) - Service, Supply, and Procurement](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/README.md)

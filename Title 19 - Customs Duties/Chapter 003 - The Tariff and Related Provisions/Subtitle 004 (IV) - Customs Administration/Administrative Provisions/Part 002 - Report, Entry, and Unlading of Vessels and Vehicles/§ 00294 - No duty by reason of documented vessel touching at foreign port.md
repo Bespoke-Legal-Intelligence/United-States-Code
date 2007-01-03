@@ -1,6 +1,6 @@
 ### §294. No duty by reason of documented vessel touching at foreign port
 
-Any foreign merchandise taken in at one port of the United States to be conveyed in a United States documented vessel with a registry or coastwise endorsement, or both, to any other port within the same, either under the provisions relating to warehouses, or under the laws regulating the transportation coastwise of merchandise entitled to drawback, as well as any merchandise not entitled to drawback, but on which the import duties chargeable by law shall have been duly paid, shall not become subject to any import duty by reason of the vessel in which they may arrive having touched at a foreign port during the voyage.
+Any foreign merchandise taken in at one port of the United States to be conveyed in a UnitedStates documented vessel with a registry or coastwise endorsement, or both, to any other port within the same, either under the provisions relating to warehouses, or under the laws regulating the transportation coastwise of merchandise entitled to drawback, as well as any merchandise not entitled to drawback, but on which the import duties chargeable by law shall have been duly paid, shall not become subject to any import duty by reason of the vessel in which they may arrive having touched at a foreign port during the voyage.
 
 (R.S. §3127; Pub. L. 103–182, title VI, §686(a)(3), Dec. 8, 1993, 107 Stat. 2220; Pub. L. 104–295, §21(e)(2), Oct. 11, 1996, 110 Stat. 3530.)
 

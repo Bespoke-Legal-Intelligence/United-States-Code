@@ -8,9 +8,9 @@
 
 &emsp;(3) the term “base fare” means the fare paid to the carrier issuing the passenger ticket or carrying nonmail freight which may entail service being provided by more than 1 carrier;
 
-&emsp;(4) the term “bush carrier” means a carrier operating aircraft certificated within the payload capacity requirements of subsection (g)(1)(D)(i) on a city pair route;
+&emsp;(4) the term “bush carrier” means a carrier operating aircraft certificated within the payload capacity requirements of subsection (g)(1)(A)(iv)(I) on a city pair route;
 
-&emsp;(5) the term “bush passenger carrier” means a passenger carrier that meets the requirements of subsection (g)(1)(D)(i) and provides passenger service on a city pair route;
+&emsp;(5) the term “bush passenger carrier” means a passenger carrier that meets the requirements of subsection (g)(1)(A)(iv)(I) and provides passenger service on a city pair route;
 
 &emsp;(6) the term “bush route” means an air route in which only a bush carrier is tendered nonpriority bypass mail between the origination point, being either an acceptance point or a hub, as determined by the Postal Service, and the destination city;
 
@@ -18,7 +18,7 @@
 
 &emsp;(8) the term “composite rate”—
 
-&emsp;&emsp;(A) means a combination of mainline and bush rates paid to a bush carrier for a direct flight from an acceptance point to a bush destination beyond a hub point; and
+&emsp;&emsp;(A) means a combination of mainline and bush linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier for a direct flight from an acceptance point to a bush destination beyond a hub point; and
 
 &emsp;&emsp;(B) shall be based on the mainline rate paid to the hub, plus the lowest bush rate paid to bush carriers in the State of Alaska for the distance traveled from the hub point to the destination point;
 
@@ -32,15 +32,17 @@
 
 &emsp;&emsp;(C) actually engaged in the carriage, on scheduled service within the State of Alaska, of mainline nonpriority bypass mail tendered to it under its designator code.<sup>1</sup>
 
-&emsp;(11) the term “mainline carrier” means a carrier operating aircraft under part 121 and certificated within the payload capacity requirements of subsection (g)(1)(D)(ii) on a given city pair route;
+&emsp;(11) the term “mainline carrier” means a carrier operating aircraft under part 121 and certificated within the payload capacity requirements of subsection (g)(1)(A)(iv)(II) on a given city pair route;
 
 &emsp;(12) the term “mainline route” means a city pair in which a mainline carrier is tendered nonpriority bypass mail;
 
 &emsp;(13) the term “new”, when referencing a carrier, means a carrier that—
 
-&emsp;&emsp;(A) meets the respective requirements of clause (i) or (ii) of subsection (g)(1)(D), depending on the type of route being served and the size of aircraft being used to provide service; and
+&emsp;&emsp;(A) meets the respective requirements of subclause (I) or (II) of subsection (g)(1)(A)(iv), depending on the type of route being served and the size of aircraft being used to provide service;
 
-&emsp;&emsp;(B) began providing nonpriority bypass mail service on a city pair route in the State of Alaska after January 1, 2001;
+&emsp;&emsp;(B) began providing nonpriority bypass mail service on a city pair route in the State of Alaska after January 1, 2001; and
+
+&emsp;&emsp;(C) is not comprised of previously qualified existing mainline carriers as a result of merger or sale;
 
 &emsp;(14) the term “part 121” means part 121 of title 14, Code of Federal Regulations;
 
@@ -74,11 +76,11 @@
 
 (c) When the Postal Service deems that the transportation of mail by aircraft is required between points in foreign air transportation between which the Secretary has not authorized an air carrier or combination of air carriers to engage in the transportation of mail, it may contract with any air carrier in such manner and under such terms and conditions as it may deem appropriate for the transportation of any class or classes of mail. The transportation of mail under contracts entered into under this subsection is not, except for sections 40109(a) and (c)–(h) and 42112 of title 49, air transportation within the provisions of part A of subtitle VII of title 49. The Postal Service shall cancel such contract, in whole or in respect to certain points as the certificate shall require, upon the issuance by the Secretary of an authorization under chapters 411 and 413 of title 49 to any air carrier to engage in the transportation of mail by aircraft between any of the points named in the contract, and the inauguration of scheduled service by such carrier.
 
-(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract for a period of not more than 4 years, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract, and such carrier or carriers inaugurate schedules adequate for its purposes.
+(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract, and such carrier or carriers inaugurate schedules adequate for its purposes.
 
 (e)(1) The Postal Service may determine rates and contract with any air carrier for the transportation of mail by aircraft in interstate air transportation either through negotiations or competitive bidding.
 
-(2)(A) In the exercise of its authority under paragraph (1), the Postal Service may require any air carrier to accept as mail shipments of day-old poultry, honeybees, and such other live animals as postal regulations allow to be transmitted as mail matter. The authority of the Postal Service under this subparagraph shall not apply in the case of any air carrier who commonly and regularly refuses to accept any live animals as cargo.
+(2)(A) In the exercise of its authority under paragraph (1), the Postal Service may require any air carrier to accept as mail shipments of day-old poultry, honeybees, and such other liveanimals as postal regulations allow to be transmitted as mail matter. The authority of the Postal Service under this subparagraph shall not apply in the case of any air carrier who commonly and regularly refuses to accept any live animals as cargo.
 
 (B) Notwithstanding any other provision of law, the Postal Service is authorized to assess, as postage to be paid by the mailers of any shipments covered by subparagraph (A), a reasonable surcharge that the Postal Service determines in its discretion to be adequate to compensate air carriers for any necessary additional expense incurred in handling such shipments.
 
@@ -176,7 +178,7 @@
 
 &emsp;&emsp;(II) the hub being bypassed was not served by a mainline carrier on January 1, 2000.
 
-> The tender of nonpriority bypass mail under subparagraph (G) shall be on an equitable basisbetween the qualified carriers that provide the direct service on the city pair route and the qualified carriers that provide service between the hub point being bypassed and the destination point, based on the volume of nonpriority bypass mail on both routes.
+> The tender of nonpriority bypass mail under subparagraph (G) shall be on an equitable basis between the qualified carriers that provide the direct service on the city pair route and the qualified carriers that provide service between the hub point being bypassed and the destination point, based on the volume of nonpriority bypass mail on both routes.
 
 (3)(A) The Postal Service shall determine the bypass mail bush points and hub points described under paragraph (2)(B) after consultation with the State of Alaska and the affected local communities and air carriers.
 
@@ -185,6 +187,8 @@
 &emsp;(i) after consultation with the State of Alaska and the affected local communities and air carriers; and
 
 &emsp;(ii) after giving 12 months public notice before any such change takes effect.
+
+(C) When a new hub results from a change in a determination under subparagraph (B), mail tender from that hub during the 12-month period beginning on the effective date of that change shall be based on the passenger and freight shares to the destinations of the affected hub or hubs resulting in the new hub.
 
 (4)(A) Except as provided under subparagraph (B) and paragraph (5), the Postal Service shall select only existing mainline carriers to provide nonpriority bypass mail service between an acceptance point and a hub point in the State of Alaska.
 
@@ -198,7 +202,7 @@
 
 (5)(A) The Postal Service shall offer equitable tender of nonpriority bypass mail to a new 121 mainline passenger carrier entering a mainline route in the State of Alaska, if the carrier—
 
-&emsp;(i) meets the requirements of subsection (g)(1)(D)(ii); and
+&emsp;(i) meets the requirements of subsection (g)(1)(A)(iv)(II); and
 
 &emsp;(ii) has provided at least 75 percent of the number of insured passenger seats as the number of available passenger seats being provided by the mainline passenger carrier providing the greatest number of available passenger seats on that route for the 6 months immediately preceding the date on which the carrier seeks tender of such mail.
 
@@ -224,7 +228,7 @@
 
 (7) Nothing in this section shall preclude the Postal Service from establishing by regulation aircraft preferences for the dispatch of postal products other than nonpriority bypass mail.
 
-(h)(1) Except as provided under paragraph (7), on a city pair route in the State of Alaska, the Postal Service shall offer equitable tender of 70 percent of the nonpriority bypass mail on the route to all carriers providing scheduled passenger service in accordance with part 121 or part 135 that—
+(h)(1) Except as provided under paragraph (7), on a city pair route in the State of Alaska, the Postal Service shall offer equitable tender of 70 percent of the nonpriority bypass mail on the route to all carriers providing scheduled bush passenger service in accordance with part 121 or part 135 that—
 
 &emsp;(A) meet the requirements of subsection (g)(1);
 
@@ -246,29 +250,29 @@
 
 &emsp;(D) operate flights under its published schedule.
 
-(3)(A) Except as provided under subparagraph (E), if a 135 passenger carrier serves a city pair route in the State of Alaska and meets the requirements of paragraph (1) or (2) when a 121 passenger carrier becomes qualified to be tendered nonpriority bypass mail on such route with a 121 passenger aircraft in accordance with paragraphs (1) and (2), the qualifying 135 passenger carriers on that route shall convert to operations with a 121 passenger aircraft within 5 years after the 121 passenger aircraft begins receiving tender on that route in order to remain eligible for equitable tender under paragraph (1). The 135 carrier shall—
+(3)(A) Except as provided under subparagraph (C), a new or existing 121 bush passenger carrier qualified under subsection (g)(1) shall be exempt from the requirements under paragraphs (1)(B) and (2)(A) on a city pair route for a period which shall extend for—
 
-&emsp;(i) begin the process of conversion not later than 2 years after the 121 passenger aircraft begins carrying nonpriority bypass mail on that route; and
+&emsp;(i) 1 year;
 
-&emsp;(ii) submit a part 121 compliance statement not later than 4 years after the 121 passenger aircraft begins carrying nonpriority bypass mail on that route.
+&emsp;(ii) 1 year in addition to the extension under clause (i) if, as of the conclusion of the first year, such carrier has been providing not less than 5 percent of the passenger service on that route (as calculated under paragraph (5)); and
 
-(B) Completion of conversion under subparagraph (A) shall not be required if all 121 passenger carriers discontinue the carriage of nonpriority bypass mail with 121 passenger aircraft on the city pair route.
+&emsp;(iii) 1 year in addition to the extension under clause (ii) if, as of the conclusion of the second year, such carrier has been providing not less than 10 percent of the passenger service on that route (as calculated under paragraph (5)).
 
-(C) Any qualified carrier operating in the State of Alaska under this section may request a waiver from subparagraph (A). Such a request, at the discretion of the Secretary, may be granted for good cause shown. The requesting party shall state the basis for such a waiver.
+(B)(i) The first 3 121 bush passenger carriers entitled to the exemptions under subparagraph (A) on any city pair route shall divide no more than an additional 10 percent of the mail, apportioned equally, comprised of no more than—
 
-(D) If after 6 years and 3 months following the date of enactment of the Rural Service Improvement Act of 2002, a 135 passenger carrier is providing service on a city pair route in the State of Alaska and a 121 passenger aircraft becomes eligible to receive tender of nonpriority bypass mail on the route, that 135 passenger carrier shall convert to operations under part 121 within 12 months of the 121 passenger carrier being tendered nonpriority bypass mail. The Postal Service shall not continue the tender of nonpriority bypass mail to a 135 passenger carrier that fails to convert to part 121 operations within 12 months after the 121 passenger carrier being tendered such mail under this paragraph.
+&emsp;(I) 5 percent of the share of each qualified passenger carrier servicing that route that is not a 121 bush passenger carrier; and
 
-(E) Notwithstanding the requirements of this subsection, if only 1 passenger carrier or aircraft is qualified to be tendered nonpriority bypass mail as a passenger carrier or aircraft on a city pair route in the State of Alaska, the Postal Service shall tender 20 percent of the nonpriority bypass mail described under paragraph (1) to the passenger carrier or aircraft providing the next highest level of passenger service on such route.
+&emsp;(II) 5 percent of the share of each nonpassenger carrier servicing that route that transports 25 percent or more of the total nonmail freight under subsection (i)(1).
+
+(ii) Additional 121 bush passenger carriers entering service on that city pair route after the first 3 shall not receive any additional mail share.
+
+(iii) If any 121 bush passenger carrier on a city pair route receiving an additional share of the mail under clause (ii) discontinues service on that route, the 121 bush passenger carrier that has been providing the longest period of service on that route and is otherwise eligible but is not receiving a share by reason of clause (ii), shall receive the share of the carrier discontinuing service.
+
+(C) Notwithstanding the requirements of this subsection, if only 1 passenger carrier or aircraft is qualified to be tendered nonpriority bypass mail as a passenger carrier or aircraft on a city pair route in the State of Alaska, the Postal Service shall tender 20 percent of the nonpriority bypass mail described under paragraph (1) to the passenger carrier or aircraft providing at least 10 percent of the passenger service on such route.
 
 (4) Qualification for the tender of mail under this subsection shall not be counted toward the minimum qualifications necessary to be tendered nonpriority bypass mail on any other route.
 
-(5)(A)(i) In this section, the percent of passenger service shall be a percentage calculated using data collected under subsection (k).
-
-(ii) To ensure accurate reporting of market share the Postal Service shall compare the resulting percentage under clause (i) to the lesser of—
-
-&emsp;(I) the amount of the passenger excise tax paid by or on behalf of a carrier, as determined by reviewing the collected amount of base fares for passengers actually flown by a carrier from the origination point to the destination point, divided by the value of the total passenger excise taxes, as determined by reviewing the collected amount of base fares paid by or on behalf of all passenger carriers providing service from the hub point to the bush destination point; or
-
-&emsp;(II) the amount of half of the passenger excise tax paid by or on behalf of a carrier, as determined by reviewing the collected amount of base fares for passengers actually flown by a carrier on the city pair route, divided by the value of the total passenger excise taxes, as determined by reviewing the collected amount of base fares paid by or on behalf of all passenger carriers providing service between the origination point and the destination point.
+(5)(A) In this section, the percent of passenger service shall be a percentage calculated using data collected under subsection (k).
 
 (B) For the purposes of calculating passenger service as described under subparagraph (A), a bush passenger carrier providing intervillage bush passenger service may include the carriage of passengers carried along any point of the route between the route's origination point and the final destination point. Such calculation shall be based only on the carriage of passengers on regularly scheduled flights and only on flights being flown in a direction away from the hub point. Passenger service provided on chartered flights shall not be included in the carrier's calculation of passenger service.
 
@@ -292,13 +296,7 @@
 
 (5) Qualification for the tender of mail under this subsection shall not be counted toward the minimum qualifications necessary to be tendered nonpriority bypass mail on any other route.
 
-(6)(A) In this subsection, the percent of nonmail freight shall be calculated as a percentage, using the data provided pursuant to subsection (k), by dividing the revenue or weight (as determined by the Postal Service) of nonmail freight earned by or carried by a carrier from the transport of nonmail freight from an origination point to a destination point by the total amount of revenue or weight of nonmail freight earned by or carried by all carriers from the transport of nonmail freight from the origination point to the destination point.
-
-(B) To ensure accurate reporting of market share the Postal Service shall compare the resulting percentage under subparagraph (A) to the lesser of—
-
-&emsp;(i) the amount of the freight excise tax paid by or on behalf of a carrier, as determined by reviewing the collected amount of base fares for nonmail freight actually flown by a carrier from the origination point to the destination point, divided by the value of the total nonmail freight excise taxes, as determined by reviewing the collected amount of base fares paid by or on behalf of all nonmail freight carriers providing service from the origination point to the destination point; or
-
-&emsp;(ii) the amount of half of the nonmail freight excise tax paid by or on behalf of a carrier, as determined by reviewing the collected amount of base fares for nonmail freight actually flown by a carrier on the city pair route, divided by the value of the total nonmail freight excise taxes, as determined by reviewing the collected amount of base fares paid by or on behalf of all nonmail freight carriers providing service on the city pair route.
+(6) In this subsection, the percent of nonmail freight shall be calculated as a percentage, using the data provided pursuant to subsection (k), by dividing the revenue or weight (as determined by the Postal Service) of nonmail freight earned by or carried by a carrier from the transport of nonmail freight from an origination point to a destination point by the total amount of revenue or weight of nonmail freight earned by or carried by all carriers from the transport of nonmail freight from the origination point to the destination point.
 
 (7) The percentage rate in paragraph (1) shall be 25 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
@@ -310,9 +308,9 @@
 
 &emsp;(B) the amount of nonpriority bypass mail available for tender among qualified carriers under subsection (i) shall be 25 percent.
 
-(3)(A) Except as provided by subparagraph (B), the percentage rate under paragraph (1) shall be 0 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
+(3)(A) Except as provided by subparagraph (B), the percentage rate under paragraph (1) shall be0 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
-(B) The percentage rate under paragraph (1) shall remain 10 percent for equitable tender for 6 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002 for a nonpriority bypass mail carrier on bush routes in the State of Alaska originating from the main hub of the carrier designated under subparagraph (C), if the carrier seeking the tender of such mail—
+(B) The percentage rate under paragraph (1) shall remain 10 percent for equitable tender for 6 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002 for a nonpriority bypass mail carrier on routes served exclusively by bush carriers in the State of Alaska originating from the main hub of the carrier designated under subparagraph (C), if the carrier seeking the tender of such mail—
 
 &emsp;(i) meets the requirements of subsection (g)(1);
 
@@ -335,8 +333,6 @@
 (3) Documentation under paragraph (2) shall be retained for 7 years or until the Secretary indicates that the records may be destroyed. Copies of flight logs for aircraft sold or disposed of shall be retained.
 
 (4) Carriers qualified to be tendered nonpriority bypass mail shall submit to the Secretary the number and type of aircraft in the carrier's fleet, the level of passenger insurance covering its fleet, and the name of the insurance company providing such coverage.
-
-(5) Not later than 30 days after the last day of each calendar month, carriers qualified or attempting to be qualified to be tendered nonpriority bypass mail shall report to the Secretary the excise taxes paid by city pair to the Department of the Treasury and the weight of and revenue earned by the carriage of nonmail freight. Final compiled data shall be made available to carriers providing service in the hub.
 
 (<i>l</i>) No qualified carrier may be tendered nonpriority bypass mail under subsections (h) and (i) simultaneously on a route unless no other carrier is tendered mail under either subsection.
 
@@ -366,7 +362,7 @@
 
 (2) The Postal Service or the Secretary may waive any provision of subsection (h) or (i), if the carrier provides substantial passenger or nonmail freight service on the route in the State of Alaska where the carrier seeks tender of nonpriority mail and nonpriority bypass mail.
 
-(3) To ensure adequate competition among passenger carriers on a mainline route in the State of Alaska the Postal Service or the Secretary may waive the requirements of subsection (g)(1)(D), (g)(2)(E), (g)(4), or (g)(5), or any provision of subsection (h) if a 121 bush passenger carrier seeks tender of nonpriority bypass mail on a mainline route in the State of Alaska not served by a 121 mainline passenger carrier and the 121 bush passenger carrier provides substantial passenger service on the route. Waivers provided for under this paragraph shall be granted only in extreme cases of lack of competition and only to extent that are absolutely necessary to meet the minimum needs of the community. Waivers granted under this subsection shall cease to be valid once a qualified mainline passenger carrier begins providing service and seeks tender of nonpriority bypass mail in accordance with this section on the city pair route. The receipt of waivers and subsequent operation of service on a city pair route under this subsection shall not be counted towards meeting the requirements of any part of this section for any other city pair route.
+(3) To ensure adequate competition among passenger carriers on a mainline route in the State of Alaska the Postal Service or the Secretary may waive the requirements of subsection (g)(1)(A)(iv), (g)(2)(E), (g)(4), or (g)(5), orany provision of subsection (h) if a 121 bush passenger carrier seeks tender of nonpriority bypass mail on a mainline route in the State of Alaska not served by a 121 mainline passenger carrier and the 121 bush passenger carrier provides substantial passenger service on the route. Waivers provided for under this paragraph shall be granted only in extreme cases of lack of competition and only to extent that are absolutely necessary to meet the minimum needs of the community. Waivers granted under this subsection shall cease to be valid once a qualified mainline passenger carrier begins providing service and seeks tender of nonpriority bypass mail in accordance with this section on the city pair route. The receipt of waivers and subsequent operation of service on a city pair route under this subsection shall not be counted towards meeting the requirements of any part of this section for any other city pair route.
 
 (4) In granting waivers for or denying tender to carriers under this subsection, the Postal Service or the Secretary shall consider in the following order of importance—
 
@@ -390,7 +386,7 @@
 
 (s) Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258.)
 
 #### References in Text
 
@@ -401,6 +397,34 @@ The date of enactment of the Rural Service Improvement Act of 2002, referred to 
 The date of enactment of this subsection, referred to in subsec. (s), is the date of enactment of Pub. L. 107–206, which was approved Aug. 2, 2002.
 
 #### Amendments
+
+2006—Subsec. (a)(4), (5). Pub. L. 109–435, §1005(a)(1), (2), substituted “subsection (g)(1)(A)(iv)(I)” for “subsection (g)(1)(D)(i)”.
+
+Subsec. (a)(8)(A). Pub. L. 109–435, §1005(a)(3), substituted “linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier” for “rates paid to a bush carrier”.
+
+Subsec. (a)(11). Pub. L. 109–435, §1005(a)(4), substituted “subsection (g)(1)(A)(iv)(II)” for “subsection (g)(1)(D)(ii)”.
+
+Subsec. (a)(13). Pub. L. 109–435, §1005(a)(5), substituted “subclause (I) or (II) of subsection (g)(1)(A)(iv)” for “clause (i) or (ii) of subsection (g)(1)(D)” in subpar. (A) and added subpar. (C).
+
+Subsec. (d). Pub. L. 109–435, §1002(b)(2), struck out “for a period of not more than 4 years” after “may contract”.
+
+Subsec. (g)(3)(C). Pub. L. 109–435, §1005(b)(1), added subpar. (C).
+
+Subsec. (g)(5)(A)(i). Pub. L. 109–435, §1005(b)(2), substituted “subsection (g)(1)(A)(iv)(II)” for “subsection (g)(1)(D)(ii)”.
+
+Subsec. (h)(1). Pub. L. 109–435, §1005(c)(1), inserted “bush” after “providing scheduled”.
+
+Subsec. (h)(3). Pub. L. 109–435, §1005(c)(2), added par. (3) and struck out former par. (3) which related to conversion requirement for a 135 passenger carrier providing service on a city pair route in the State of Alaska to remain eligible for equitable tender of nonpriority bypass mail on the route when a 121 passenger carrier becomes qualified to be tendered nonpriority bypass mail on the route.
+
+Subsec. (h)(5)(A). Pub. L. 109–435, §1005(c)(3), struck out cl. (i) designation before “In this section” and cl. (ii) which related to requirement to ensure accurate reporting of market share by requiring the Postal Service to make certain comparisons.
+
+Subsec. (i)(6). Pub. L. 109–435, §1005(d), struck out subpar. (A) designation before “In this subsection” and subpar. (B) which related to requirement to ensure accurate reporting of market share by requiring the Postal Service to make certain comparisons.
+
+Subsec. (j)(3)(B). Pub. L. 109–435, §1005(e), substituted “routes served exclusively by bush carriers in the State of Alaska” for “bush routes in the State of Alaska”.
+
+Subsec. (k)(5). Pub. L. 109–435, §1005(f), struck out par. (5) which read as follows: “Not later than 30 days after the last day of each calendar month, carriers qualified or attempting to be qualified to be tendered nonpriority bypass mail shall report to the Secretary the excise taxes paid by city pair to the Department of the Treasury and the weight of and revenue earned by the carriage of nonmail freight. Final compiled data shall be made available to carriers providing service in the hub.”
+
+Subsec. (p)(3). Pub. L. 109–435, §1005(g), substituted “subsection (g)(1)(A)(iv)” for “subsection (g)(1)(D)”.
 
 2004—Subsec. (a)(10)(C). Pub. L. 108–447, §301(c), added subpar. (C) and struck out former subpar. (C) which read as follows: “actually engaged in the carriage of mainline nonpriority bypass mail through scheduled service in the State of Alaska;”.
 
@@ -436,7 +460,7 @@ Subsec. (d)(2)(A). Pub. L. 107–171, §10501(1), inserted “, honeybees,” a
 
 Subsec. (d)(2)(C). Pub. L. 107–171, §10501(2), struck out subpar. (C) which read as follows: “The authority of the Postal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
 
-Pub. L. 107–206, §3002(c)(1)(A), (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and‘foreign air transportation’ have the meanings given such terms in section 40102(a) of title 49.”
+Pub. L. 107–206, §3002(c)(1)(A), (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and ‘foreign air transportation’ have the meanings given such terms in section 40102(a) of title 49.”
 
 Subsec. (f). Pub. L. 107–206, §3002(e)(1), substituted “Secretary” for “Secretary of Transportation”, “subsections (b), (c), and (d)” for “subsections (a), (b), and (c)”, and “subsection (e)” for “subsection (d)”.
 
@@ -480,13 +504,25 @@ Subsec. (c). Pub. L. 98–443, §9(g)(4)(A), (E), substituted “Secretary of Tr
 
 Subsecs. (d) to (f). Pub. L. 98–443, §9(g)(4)(F), added subsecs. (d) to (f).
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–435, title X, §1005(h) Dec. 20, 2006, 120 Stat. 3258, provided that:
+
+“(1)
+
+In general.—Except as provided under paragraph (2), this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 20, 2006\].
+
+“(2)
+
+Equitable tender.—Subsection (c) \[amending this section\] shall take effect on December 1, 2006.”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–206, title III, §3002(g), Aug. 2, 2002, 116 Stat. 924, provided that:
 
 “(1)
 
-In general.—Except as provided under paragraph (2), this title \[amending this section, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, Public Lands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 101 of this title, section 112 of Title 1, General Provisions, and sections 2703 and 3203 of Title 19\] (including the amendments made by this title) shall take effect on the date of enactment of this Act \[Aug. 2, 2002\].
+In general.—Except as provided under paragraph (2), this title \[amending this section, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, PublicLands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 101 of this title, section 112 of Title 1, General Provisions, and sections 2703 and 3203 of Title 19\] (including the amendments made by this title) shall take effect on the date of enactment of this Act \[Aug. 2, 2002\].
 
 “(2)
 

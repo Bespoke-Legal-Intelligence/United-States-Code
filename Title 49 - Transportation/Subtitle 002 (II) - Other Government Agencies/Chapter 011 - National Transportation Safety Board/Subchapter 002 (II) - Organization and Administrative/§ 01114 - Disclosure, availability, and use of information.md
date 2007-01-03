@@ -48,7 +48,7 @@ Confidentiality of recordings.—The Board may not disclose publicly any part of
 
 &emsp;(2)
 
-References to information in making safety recommendations.—This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
+References to information in making safety recommendations.—This subsection does not prevent the Board from referring atany time to voice or video recorder information in making safety recommendations.
 
 (e)
 

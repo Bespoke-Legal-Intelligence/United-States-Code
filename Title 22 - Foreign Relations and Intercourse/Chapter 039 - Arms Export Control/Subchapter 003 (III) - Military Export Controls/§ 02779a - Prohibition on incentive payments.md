@@ -10,7 +10,7 @@ Any person who violates the provisions of this section shall be subject to the i
 
 #### (c) Presidential authority
 
-In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979 \[50 App. U.S.C. 2410(c), (d), (e), (f)\], and section 12(a) of such Act \[50 App. U.S.C. 2411(a)\], subject to the same terms and conditions as are applicable to such powers under that Act \[50 App. U.S.C. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
+In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), (f)\], and section 12(a) of such Act \[50 U.S.C. App. 2411(a)\], subject to the same terms and conditions as are applicable to such powers under that Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
 
 #### (d) Definitions
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
+The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503,as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 #### Amendments
 

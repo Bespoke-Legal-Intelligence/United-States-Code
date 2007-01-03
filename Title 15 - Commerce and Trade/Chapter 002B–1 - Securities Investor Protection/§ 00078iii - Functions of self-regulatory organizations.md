@@ -46,7 +46,7 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 
 Subsec. (b). Pub. L. 95–283, §12(b), inserted reference to section 78eee(a)(2) of this title.
 
-Subsec. (c). Pub. L. 95–283, §12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC in a self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
+Subsec. (c). Pub. L. 95–283, §12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC ina self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
 
 Subsec. (f). Pub. L. 95–283, §12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
 

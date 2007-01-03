@@ -42,7 +42,7 @@ No advertisement described in subsection (a) of this section with respect to any
 
 #### (1) In general
 
-&emsp;If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by theindex or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
+&emsp;If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
 
 #### (2) Quoted rate must be reasonably current
 

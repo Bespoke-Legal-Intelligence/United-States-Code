@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2321\.](%C2%A7%2002321%20-%20Judicial%20review%20of%20Board%27s%20orders%20and%20decisions%3B%20procedure%20generally%3B%20process.md) | Judicial review of Board's orders and decisions; procedure generally; process. |
-| [2322\.](%C2%A7%2002322%20-%20United%20States%20as%20party.md) | United States as party |
+| [2322\.](%C2%A7%2002322%20-%20United%20States%20as%20party.md) | United States as party. |
 | [2323\.](%C2%A7%2002323%20-%20Duties%20of%20Attorney%20General%3B%20intervenors.md) | Duties of Attorney General; intervenors. |
 | \[2324, 2325. Repealed.\] |  |
 

@@ -14,7 +14,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (B) Membership
 
-&emsp;&emsp;Except as provided for in paragraph (2), the members of the Council shall be mushroom producers and importers appointed by the Secretary from nominations submitted by producers and importers in the manner authorized by the Secretary, except that no more than one member may be appointed to the Council from nominations submitted by any one producer or importer.
+&emsp;&emsp;Except as provided for in paragraph (2), the members of the Council shall be mushroom producers and importers appointed by the Secretary from nominations submitted by producers and importers in the manner authorized by the Secretary, except that no more than one member may be appointed tothe Council from nominations submitted by any one producer or importer.
 
 #### (2) Appointments
 
@@ -126,7 +126,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 &emsp;The order shall require the Council to—
 
-&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretaryfor inspection and audit) as the Secretary may prescribe;
+&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe;
 
 &emsp;&emsp;(B) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe; and
 
@@ -208,7 +208,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 #### (B) Penalty
 
-&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to afine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
+&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
 
 #### (5) Withholding information
 

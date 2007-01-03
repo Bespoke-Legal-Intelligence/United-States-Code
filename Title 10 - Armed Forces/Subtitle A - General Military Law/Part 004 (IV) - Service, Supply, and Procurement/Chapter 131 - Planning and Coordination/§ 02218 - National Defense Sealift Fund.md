@@ -40,7 +40,7 @@ Deposits.—There shall be deposited in the Fund the following:
 
 &emsp;&emsp;(D) research and development relating to national defense sealift.
 
-&emsp;(2) All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping of National Defense Reserve Fleet vessels under sections 508 and 510 of the Merchant Marine Act of 1936 (46 U.S.C. App. 1158, 1160), shall be deposited in the Fund.
+&emsp;(2) All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping of National Defense Reserve Fleet vessels under sections 57101–57104 and chapter 573 of title 46.
 
 &emsp;(3) All receipts from the charter of vessels under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 7291 note).
 
@@ -146,7 +146,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
 
-(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, §1043(b)(9), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–163, div. A, title X, §1018(d), Jan. 6, 2006, 119 Stat. 3426.)
+(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, §1043(b)(9), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–163, div. A, title X, §1018(d), Jan. 6, 2006, 119 Stat. 3426; Pub. L. 109–304, §17(a)(2), Oct. 6, 2006, 120 Stat. 1706.)
 
 #### References in Text
 
@@ -158,7 +158,9 @@ Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 
 
 #### Amendments
 
-2006—Subsec. (f)(1). Pub. L. 109–163 substituted “A vessel built in a foreign ship yard may not be” for “Not more than a total of five vessels built in foreign ship yards may be” and inserted “, unless specifically authorized by law” before period at end.
+2006—Subsec. (d)(2). Pub. L. 109–304 substituted “sections 57101–57104 and chapter 573 of title 46” for “sections 508 and 510 of the Merchant Marine Act of 1936 (46 U.S.C. App. 1158, 1160), shall be deposited in the Fund”.
+
+Subsec. (f)(1). Pub. L. 109–163 substituted “A vessel built in a foreign ship yard may not be” for “Not more than a total of five vessels built in foreign ship yards may be” and inserted “, unless specifically authorized by law” before period at end.
 
 2003—Subsec. (<i>l</i>)(4), (5). Pub. L. 108–136 redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘congressional defense committees’ means—
 

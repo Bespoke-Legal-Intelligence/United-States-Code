@@ -52,7 +52,7 @@ Section effective Feb. 15, 1981, with an exception that appointments to the Seni
 
 #### Placement of Senior Foreign Service Personnel
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §324\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437, required the Director General of the Foreign Service to submit a report on the first day of each fiscal quarter to the appropriate congressional committees containing thenumber of members of the Senior Foreign Service, the number of vacant positions designated for such members, and the number of those members not assigned to positions, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(4), Sept. 30, 2002, 116 Stat. 1407.
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §324\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437, required the Director General of the Foreign Service to submit a report on the first day of each fiscal quarter to the appropriate congressional committees containing the number of members of the Senior Foreign Service, the number of vacant positions designated for such members, and the number of those members not assigned to positions, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(4), Sept. 30, 2002, 116 Stat. 1407.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

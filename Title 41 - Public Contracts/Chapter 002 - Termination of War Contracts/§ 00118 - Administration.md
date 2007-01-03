@@ -16,7 +16,7 @@ The Administrator of General Services shall make such investigations as he deems
 
 #### (e) Certification of fraudulent settlements to Department of Justice
 
-Whenever any contracting agency or the Administrator of General Services believes that any settlement was induced by fraud, the agency or Administrator of General Services shall report the facts to the Department of Justice. Thereupon, (1) the Department of Justice shall make an investigation to determine whether such settlement was induced by fraud, and (2) until the Department of Justice notifies the contracting agency that in its opinion the facts do not support the belief that the settlement was induced by fraud, the contracting agency, by set-off or otherwise, may withhold, from amounts owing to the war contractor by the United States under such settlement or otherwise, the amount of the settlement, or the portion thereof, which, in its opinion, was affected by the fraud. In any such case the Department of Justice shall take such action as it deems appropriate to recover payments made to such war contractor.
+Whenever any contracting agency or the Administrator of General Services believes that any settlement was induced by fraud, the agency or Administrator of General Services shall report the facts to the Department of Justice. Thereupon, (1) the Department of Justice shall make an investigation to determine whether such settlement was induced by fraud, and (2) until the Department of Justice notifies the contracting agency that in its opinion the factsdo not support the belief that the settlement was induced by fraud, the contracting agency, by set-off or otherwise, may withhold, from amounts owing to the war contractor by the United States under such settlement or otherwise, the amount of the settlement, or the portion thereof, which, in its opinion, was affected by the fraud. In any such case the Department of Justice shall take such action as it deems appropriate to recover payments made to such war contractor.
 
 (July 1, 1944, ch. 358, §18, 58 Stat. 666; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; Oct. 31, 1951, ch. 654, §1(111), 65 Stat. 705; Pub. L. 104–316, title I, §121(b), Oct. 19, 1996, 110 Stat. 3836.)
 
@@ -34,5 +34,5 @@ Functions of Secretary of the Treasury transferred to Administrator of General S
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of actJune 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 

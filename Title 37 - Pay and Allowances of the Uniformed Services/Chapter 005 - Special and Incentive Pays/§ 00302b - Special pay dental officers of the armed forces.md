@@ -28,7 +28,7 @@ Variable, Additional, Board Certification, and Incentive Special Pay.—(1) An o
 
 (3) An officer described in paragraph (1) who is serving in a pay grade above pay grade O–6 is entitled to variable special pay at the rate of $7,000 per year.
 
-(4) Subject to subsection (b), an officer entitled to variable special pay under paragraph (2) or (3) also is entitled to additional special pay for any 12-month period during which the officer is not undergoing dental internship or initial residency training. Such additional special pay shall be paid at the following rates:
+(4) An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer. Such additional special pay shall be paid at the following rates:
 
 &emsp;(A) $4,000 per year, if the officer has less than three years of creditable service.
 
@@ -90,13 +90,15 @@ Reserve Dental Officers Special Pay.—(1) A reserve dental officer described in
 
 &emsp;(B) is on active duty under a call or order to active duty for a period of less than one year.
 
-(Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94 Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547; Pub. L. 105–85, div. A, title VI, §618, Nov. 18, 1997, 111 Stat. 1789; Pub. L. 109–163, div. A, title VI, §§625, 626, 687(b)(6), Jan. 6, 2006, 119 Stat. 3295, 3328.)
+(Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94 Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547; Pub. L. 105–85, div. A, title VI, §618, Nov. 18, 1997, 111 Stat. 1789; Pub. L. 109–163, div. A, title VI, §§625, 626, 687(b)(6), Jan. 6, 2006, 119 Stat. 3295, 3328; Pub. L. 109–364, div. A, title VI, §615(a), Oct. 17, 2006, 120 Stat. 2249.)
 
 #### Amendments
 
 2006—Subsec. (a). Pub. L. 109–163, §625(a)(1), substituted “Board Certification, and Incentive” for “and Board Certification” in heading.
 
-Subsec. (a)(4). Pub. L. 109–163, §626, inserted “also” before “is entitled” and “initial” before “residency” in introductory provisions.
+Subsec. (a)(4). Pub. L. 109–364 in introductory provisions substituted “An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer” for “Subject to subsection (b), an officer entitled to variable special pay under paragraph (2) or (3) also is entitled to additional special pay for any 12-month period during which the officer is not undergoing dental internship or initial residency training”.
+
+Pub. L. 109–163, §626, inserted “also” before “is entitled” and “initial” before “residency” in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 109–163, §625(a)(2), added par. (6).
 
@@ -168,6 +170,10 @@ Subsec. (h). Pub. L. 104–201, §615(b), added subsec. (h).
 
 1980—Pub. L. 96–284 struck out “, in addition to any other pay or allowances to which he is entitled,” after “entitled” and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title VI, §615(b), Oct. 17, 2006, 120 Stat. 2249, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 2006.”
+
 #### Effective Date of 1985 Amendment
 
 Section 639(f) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section, repealing section 311 of this title, and enacting provisions set out as notes under this section\] take effect on October 1, 1985.”
@@ -204,7 +210,7 @@ Section 639(c) of Pub. L. 99–145 provided that:
 
 Section 639(d) of Pub. L. 99–145, as amended by Pub. L. 99–661, div. A, title XIII, §1342(c), Nov. 14, 1986, 100 Stat. 3991, provided that:
 
-“(1) An officer described in paragraph (2) who, after September 30, 1985, is entitled to special pay under section 302b of title 37, United States Code (as amended by subsection (a)), may (notwithstanding the provisions of such section and in the discretion of the Secretary concerned) be paid such pay, in order to prevent inequities, in an annual amount equal to the total annual amountof dental continuation pay under section 311 of title 37, United States Code, and special pay for dental officers under section 302b of that title to which that officer would have been entitled on September 30, 1985, in accordance with the status of the officer (as determined by the Secretary concerned) during the period for which the pay is paid. Notwithstanding the preceding sentence, an officer may not be paid special pay by reason of this paragraph in an amount greater than the amount of special pay to which the officer was entitled under such sections on September 30, 1985.
+“(1) An officer described in paragraph (2) who, after September 30, 1985, is entitled to special pay under section 302b of title 37, United States Code (as amended by subsection (a)), may (notwithstanding the provisions of such section and in the discretion of the Secretary concerned) be paid such pay, in order to prevent inequities, in an annual amount equal to the total annual amount of dental continuation pay under section 311 of title 37, United States Code, and special pay for dental officers under section 302b of that title to which that officer would have been entitled on September 30, 1985, in accordance with the status of the officer (as determined by the Secretary concerned) during the period for which the pay is paid. Notwithstanding the preceding sentence, an officer may not be paid special pay by reason of this paragraph in an amount greater than the amount of special pay to which the officer was entitled under such sections on September 30, 1985.
 
 “(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation pay under section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title.”
 

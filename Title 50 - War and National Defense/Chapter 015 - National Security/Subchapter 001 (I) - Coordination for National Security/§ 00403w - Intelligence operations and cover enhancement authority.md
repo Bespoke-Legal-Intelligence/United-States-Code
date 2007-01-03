@@ -96,7 +96,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 #### (A) In general
 
-&emsp;&emsp;A designated employee participating in the health insurance program established under paragraph (1) may convert to coverage under the program under chapter 89 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the health insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
+&emsp;&emsp;A designated employee participating in the health insurance program establishedunder paragraph (1) may convert to coverage under the program under chapter 89 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the health insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
 
 &emsp;&emsp;&emsp;(i) intelligence operations;
 
@@ -132,7 +132,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 #### (A) In general
 
-&emsp;&emsp;A designated employee participating in the life insurance program established underparagraph (1) may convert to coverage under the program under chapter 87 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the life insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
+&emsp;&emsp;A designated employee participating in the life insurance program established under paragraph (1) may convert to coverage under the program under chapter 87 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the life insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
 
 &emsp;&emsp;&emsp;(i) intelligence operations;
 

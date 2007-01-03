@@ -20,7 +20,7 @@ Within 30 days after the plan administrator or the contributing sponsor knows or
 
 &emsp;(B) a subsidiary (as defined for purposes of such Act \[15 U.S.C. 78a et seq.\]) of a person subject to such reporting requirements.
 
-(3) No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c) of this section,a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
+(3) No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c) of this section, a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
 
 (4) The corporation may waive the requirement of this subsection with respect to any or all reportable events with respect to any contributing sponsor.
 
@@ -40,7 +40,7 @@ For purposes of this section a reportable event occurs—
 
 &emsp;(6) when the plan is unable to pay benefits thereunder when due;
 
-&emsp;(7) when there is a distribution under the plan to a participant who is a substantial owner as defined in section 1322(b)(6) <sup>1</sup> of this title if—
+&emsp;(7) when there is a distribution under the plan to a participant who is a substantial owner as defined in section 1321(d) of this title if—
 
 &emsp;&emsp;(A) such distribution has a value of $10,000 or more;
 
@@ -82,15 +82,15 @@ The Secretary of Labor shall notify the corporation—
 
 Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
 
-(Pub. L. 93–406, title IV, §4043, Sept. 2, 1974, 88 Stat. 1024; Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 103–465, title VII, §771(a)–(e)(1), Dec. 8, 1994, 108 Stat. 5042, 5043.)
+(Pub. L. 93–406, title IV, §4043, Sept. 2, 1974, 88 Stat. 1024; Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 103–465, title VII, §771(a)–(e)(1), Dec. 8, 1994, 108 Stat. 5042, 5043; Pub. L. 109–280, title IV, §407(c)(2), Aug. 17, 2006, 120 Stat. 930.)
 
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-Paragraph (6) of section 1322(b) of this title, referred to in subsec. (c)(7), was redesignated as par. (5) by Pub. L. 96–364, title IV, §403(c)(4), Sept. 26, 1980, 94 Stat. 1301.
-
 #### Amendments
+
+2006—Subsec. (c)(7). Pub. L. 109–280 substituted “1321(d)” for “1322(b)(6)” in introductory provisions.
 
 1994—Subsec. (a). Pub. L. 103–465, §771(a), (e)(1), in first sentence, inserted “or the contributing sponsor” after “administrator”, substituted “subsection (c)” for “subsection (b)”, and inserted before period at end “, unless a notice otherwise required under this subsection has already been provided with respect to such event”, and struck out last sentence which read as follows: “Whenever an employer making contributions under a plan to which section 1321 of this title applies knows or has reason to know that a reportable event has occurred he shall notify the plan administrator immediately.”
 
@@ -106,6 +106,10 @@ Subsec. (f). Pub. L. 103–465, §771(d), added subsec. (f).
 
 1989—Subsec. (b)(4). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 effective Jan. 1, 2006, see section 407(d)(2) of Pub. L. 109–280, set out as a note under section 1321 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective for events occurring 60 days or more after Dec. 8, 1994, see section 771(f) of Pub. L. 103–465, set out as a note under section 1342 of this title.
@@ -113,6 +117,4 @@ Amendment by Pub. L. 103–465 effective for events occurring 60 days or more af
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

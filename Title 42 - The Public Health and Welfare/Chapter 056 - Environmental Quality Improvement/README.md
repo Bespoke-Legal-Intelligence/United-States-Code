@@ -4,17 +4,9 @@
 | :--- | ---: |
 | [4371\.](%C2%A7%2004371%20-%20Congressional%20findings%2C%20declarations%2C%20and%20purposes.md) | Congressional findings, declarations, and purposes. |
 | [4372\.](%C2%A7%2004372%20-%20Office%20of%20Environmental%20Quality.md) | Office of Environmental Quality. |
-| (a) | Establishment; Director; Deputy Director. |
-| (b) | Compensation of Deputy Director. |
-| (c) | Employment of personnel, experts, and consultants; compensation. |
-| (d) | Duties and functions of Director. |
-| (e) | Authority of Director to contract. |
 | [4373\.](%C2%A7%2004373%20-%20Referral%20of%20Environmental%20Quality%20Reports%20to%20standing%20committees%20having%20jurisdiction.md) | Referral of Environmental Quality Reports to standing committees having jurisdiction. |
 | [4374\.](%C2%A7%2004374%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [4375\.](%C2%A7%2004375%20-%20Office%20of%20Environmental%20Quality%20Management%20Fund.md) | Office of Environmental Quality Management Fund. |
-| (a) | Establishment; financing of study contracts and Federal interagency environmental projects. |
-| (b) | Study contract or project initiative. |
-| (c) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -32,27 +32,19 @@ A member bank may make extensions of credit not otherwise specifically authorize
 
 Except to the extent permitted under paragraph (4), a member bank may not extend credit to a partnership in which one or more of its executive officers are partners having either individually or together a majority interest. For the purposes of paragraph (4), the full amount of any credit so extended shall be considered to have been extended to each officer of the bank who is a member of the partnership.
 
-#### (6) Report of date and amount of credit extensions, security, and uses of proceeds upon excessive extension of credit
-
-Whenever an executive officer of a member bank becomes indebted to any bank or banks (other than the one to which he is an officer) on account of extensions of credit of any one of the three categories respectively referred to in paragraphs (2), (3), and (4) in an aggregate amount greater than the aggregate amount of credit of the same category that could lawfully be extended to him by the bank, he shall make a written report to the board of directors of the bank, stating the date and amount of each such extension of credit, the security therefor, and the purposes for which the proceeds have been or are to be used.
-
-#### (7) Endorsement or guarantee of loans or assets; protective indebtedness
+#### (6) Endorsement or guarantee of loans or assets; protective indebtedness
 
 This section does not prohibit any executive officer of a member bank from endorsing or guaranteeing for the protection of the bank any loan or other asset previously acquired by the bank in good faith or from incurring any indebtedness to the bank for the purpose of protecting the bank against loss or giving financial assistance to it.
 
-#### (8) Continuation of violation
+#### (7) Continuation of violation
 
 Each day that any extension of credit in violation of this section exists is a continuation of the violation for the purposes of section 1818 of this title.
 
-#### (9) Report of loan activity since previous report of condition
-
-Each member bank shall include with (but not as part of) each report of condition and copy thereof filed under section 1817(a)(3) of this title a report of all loans under authority of this section made by the bank since its previous report of condition.
-
-#### (10) Rules and regulations; definitions
+#### (8) Rules and regulations; definitions
 
 The Board of Governors of the Federal Reserve System may prescribe such rules and regulations, including definitions of terms, as it deems necessary to effectuate the purposes and to prevent evasions of this section.
 
-(Dec. 23, 1913, ch. 6, §22(g), as added June 16, 1933, ch. 89, §12, 48 Stat. 182; amended June 14, 1935, ch. 245, 49 Stat. 375; Aug. 23, 1935, ch. 614, title III, §326(c), 49 Stat. 716; Apr. 25, 1938, ch. 173, 52 Stat. 223; June 20, 1939, ch. 214, §1, 53 Stat. 842; Pub. L. 90–44, §1, July 3, 1967, 81 Stat. 109; Pub. L. 95–630, title I, §110, Nov. 10, 1978, 92 Stat. 3665; Pub. L. 97–320, title IV, §421, Oct. 15, 1982, 96 Stat. 1522; Pub. L. 103–325, title III, §334(a), Sept. 23, 1994, 108 Stat. 2233.)
+(Dec. 23, 1913, ch. 6, §22(g), as added June 16, 1933, ch. 89, §12, 48 Stat. 182; amended June 14, 1935, ch. 245, 49 Stat. 375; Aug. 23, 1935, ch. 614, title III, §326(c), 49 Stat. 716; Apr. 25, 1938, ch. 173, 52 Stat. 223; June 20, 1939, ch. 214, §1, 53 Stat. 842; Pub. L. 90–44, §1, July 3, 1967, 81 Stat. 109; Pub. L. 95–630, title I, §110, Nov. 10, 1978, 92 Stat. 3665; Pub. L. 97–320, title IV, §421, Oct. 15, 1982, 96 Stat. 1522; Pub. L. 103–325, title III, §334(a), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 109–351, title VI, §601(a), Oct. 13, 2006, 120 Stat. 1978.)
 
 #### Codification
 
@@ -60,13 +52,15 @@ Proviso which permitted renewal or extension of loans made to executive officers
 
 #### Amendments
 
+2006—Pars. (6) to (10). Pub. L. 109–351 redesignated pars. (7), (8), and (10) as (6), (7), and (8), respectively, and struck out former pars. (6) and (9) which related to report of date and amount of credit extensions, security, and uses of proceeds upon excessive extension of credit and report of loan activity since previous report of condition, respectively.
+
 1994—Par. (2). Pub. L. 103–325 in introductory provisions substituted “A member” for “With the specific prior approval of its board of directors, a member”.
 
 1982—Par. (2). Pub. L. 97–320, §421(a), struck out “not exceeding $60,000” after “may make a loan”.
 
 Par. (3). Pub. L. 97–320, §421(a), struck out “, not exceeding the aggregate amount of $20,000 outstanding at any one time,” after “officer of the bank”.
 
-Par. (4). Pub. L. 97–320, §421(b), substituted “in an amount prescribed in a regulation of the member bank's appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
+Par. (4). Pub. L. 97–320, §421(b), substituted “in an amount prescribed in a regulation of the member bank's appropriate Federal banking agency” for “notexceeding the aggregate amount of $10,000 outstanding at any one time”.
 
 1978—Par. (2). Pub. L. 95–630 substituted “$60,000” for “$30,000”.
 

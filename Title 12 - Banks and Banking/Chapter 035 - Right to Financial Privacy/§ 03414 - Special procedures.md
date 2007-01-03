@@ -6,13 +6,19 @@
 
 &emsp;(A) a Government authority authorized to conduct foreign counter- or foreign positive-intelligence activities for purposes of conducting such activities;
 
-&emsp;(B) the Secret Service for the purpose of conducting its protective functions (18 U.S.C. 3056; 3 U.S.C. 202, Public Law 90–331, as amended); or
+&emsp;(B) the Secret Service for the purpose of conducting its protective functions (18 U.S.C. 3056; 18 U.S.C. 3056A, Public Law 90–331,<sup>1</sup> as amended); or
 
 &emsp;(C) a Government authority authorized to conduct investigations of, or intelligence or counterintelligence analyses related to, international terrorism for the purpose of conducting such investigations or analyses.
 
 (2) In the instances specified in paragraph (1), the Government authority shall submit to the financial institution the certificate required in section 3403(b) of this title signed by a supervisory official of a rank designated by the head of the Government authority.
 
-(3) No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that a Government authority described in paragraph (1) has sought or obtained access to a customer's financial records.
+(3)(A) If the Government authority described in paragraph (1) or the Secret Service, as the case may be, certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no financial institution, or officer, employee, or agent of such institution, shall disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that the Government authority or the Secret Service has sought or obtained access to a customer's financial records.
+
+(B) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under subparagraph (A).
+
+(C) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such persons of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under subparagraph (A).
+
+(D) At the request of the authorized Government authority or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government authority or the Secret Service the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the requesting official of the authorized Government authority or the Secret Service of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request for financial records under this subsection.
 
 (4) The Government authority specified in paragraph (1) shall compile an annual tabulation of the occasions in which this section was used.
 
@@ -22,7 +28,17 @@
 
 (C) On the dates provided in section 415b of title 50, the Attorney General shall fully inform the congressional intelligence committees (as defined in section 401a of title 50) concerning all requests made pursuant to this paragraph.
 
-(D) No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer's or entity's financial records under this paragraph.
+(D)
+
+Prohibition of certain disclosure.—
+
+&emsp;(i) If the Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no financial institution, or officer, employee, or agent of such institution, shall disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that the Federal Bureau of Investigation has sought or obtained access to a customer's or entity's financial records under subparagraph (A).
+
+&emsp;(ii) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under clause (i).
+
+&emsp;(iii) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such persons of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under clause (i).
+
+&emsp;(iv) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the Director or such designee of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request for financial records under subparagraph (A).
 
 #### (b) Emergency access to financial records
 
@@ -34,7 +50,7 @@
 
 &emsp;(C) flight to avoid prosecution.
 
-(2) In the instances specified in paragraph (1), the Government shall submit to the financial institution the certificate required in section3403(b) of this title signed by a supervisory official of a rank designated by the head of the Government authority.
+(2) In the instances specified in paragraph (1), the Government shall submit to the financial institution the certificate required in section 3403(b) of this title signed by a supervisory official of a rank designated by the head of the Government authority.
 
 (3) Within five days of obtaining access to financial records under this subsection, the Government authority shall file with the appropriate court a signed, sworn statement of a supervisory official of a rank designated by the head of the Government authority setting forth the grounds for the emergency access. The Government authority shall thereafter comply with the notice provisions of section 3409(c) of this title.
 
@@ -44,15 +60,25 @@
 
 For purposes of this section, and sections 3415 and 3417 of this title insofar as they relate to the operation of this section, the term “financial institution” has the same meaning as in subsections (a)(2) and (c)(1) of section 5312 of title 31, except that, for purposes of this section, such term shall include only such a financial institution any part of which is located inside any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands.
 
-(Pub. L. 95–630, title XI, §1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, §432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, §404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, §358(f)(2), title V, §505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, §811(b)(9), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–177, title III, §374(a), Dec. 13, 2003, 117 Stat. 2628.)
+(Pub. L. 95–630, title XI, §1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, §432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, §404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, §358(f)(2), title V, §505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, §811(b)(9), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–177, title III, §374(a), Dec. 13, 2003, 117 Stat. 2628; Pub. L. 109–177, title I, §116(d), (e), title VI, §605(e)(1), Mar. 9, 2006, 120 Stat. 215, 216, 255; Pub. L. 109–178, §4(d), Mar. 9, 2006, 120 Stat. 280.)
 
 #### References in Text
 
 Section 3421 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 104–66, title III, §3001(d), Dec. 21, 1995, 109 Stat. 734.
 
-Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended, which is set out as a note under section 3056 of Title 18, Crimes and Criminal Procedure.
+Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended, which was set out as a note under section 3056 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 98–587, §2, Oct. 30, 1984, 98 Stat. 3111. See 18 U.S.C. 3056(a)(7).
 
 #### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–177, §605(e)(1), which directed the amendment of section 3414 of title12, United States Code, by substituting “18 U.S.C. 3056A” for “3 U.S.C. 202” in subsec. (a)(1)(B), was executed to this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress.
+
+Subsec. (a)(3). Pub. L. 109–177, §116(d), which directed the general amendment of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: “No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that a Government authority described in paragraph (1) has sought or obtained access to a customer's financial records.”
+
+Subsec. (a)(3)(D). Pub. L. 109–178, §4(d)(1), which directed the general amendment of subsec. (a)(3)(D) of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: “At the request of the authorized Government agency or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency or the Secret Service the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+
+Subsec. (a)(5)(D). Pub. L. 109–177, §116(e), which directed the general amendment of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: “No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer's or entity's financial records under this paragraph.”
+
+Subsec. (a)(5)(D)(iv). Pub. L. 109–178, §4(d)(2), which directed the general amendment of clause (iv) of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to clause (iv) of subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, cl. (iv) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
 2003—Subsec. (d). Pub. L. 108–177 added subsec. (d).
 
@@ -65,6 +91,10 @@ Subsec. (a)(5)(A). Pub. L. 107–56, §505(b), inserted “in a position not low
 1986—Subsec. (a)(5). Pub. L. 99–569 added par. (5).
 
 1982—Subsec. (b)(2). Pub. L. 97–320 struck out “of” after “financial institution”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–178, Mar. 9, 2006, 120 Stat. 282, provided in part that: “This Act \[amending this section, sections 1681u and 1681v of Title 15, Commerce and Trade, section 2709 of Title 18, Crimes and Criminal Procedure, and sections 436 and 1861 of Title 50, War and National Defense, and enacting provisions set out as a note under section 1 of Title 18\] shall become effective immediately upon enactment \[Mar. 9, 2006\].”
 
 #### Effective Date of 2001 Amendment
 

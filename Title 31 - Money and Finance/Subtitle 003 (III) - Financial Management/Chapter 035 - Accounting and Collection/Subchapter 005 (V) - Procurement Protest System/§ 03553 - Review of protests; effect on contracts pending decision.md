@@ -54,7 +54,7 @@
 
 &emsp;(A) the date that is 10 days after the date of the contract award; or
 
-&emsp;(B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
+&emsp;(B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror forany debriefing that is requested and, when requested, is required.
 
 (e) The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 

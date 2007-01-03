@@ -4,6 +4,10 @@ The Secretary of Labor, in consulation <sup>1</sup> with other appropriate Fede
 
 (Pub. L. 98–67, title II, §216, Aug. 5, 1983, 97 Stat. 394.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in this section relating to making an annual written report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 123 of House Document No. 103–7.

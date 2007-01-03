@@ -1,10 +1,10 @@
 ### §401. General powers of the Postal Service
 
-The Postal Service shall have the following general powers:
+Subject to the provisions of section 404a, the Postal Service shall have the following general powers:
 
 &emsp;(1) to sue and be sued in its official name;
 
-&emsp;(2) to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;
+&emsp;(2) to adopt, amend, and repeal such rules and regulations, not inconsistent with this title, as may be necessary in the execution of its functions under this title and such other functions as may be assigned to the Postal Service under any provisions of law outside of this title;
 
 &emsp;(3) to enter into and perform contracts, execute instruments, and determine the character of, and necessity for, its expenditures;
 
@@ -22,11 +22,17 @@ The Postal Service shall have the following general powers:
 
 &emsp;(10) to have all other powers incidental, necessary, or appropriate to the carrying on of its functions or the exercise of its specific powers.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 722.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 722; Pub. L. 109–435, title IV, §403(b)(1), title V, §504, Dec. 20, 2006, 120 Stat. 3227, 3235.)
+
+#### Amendments
+
+2006—Pub. L. 109–435, §403(b)(1), substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions.
+
+Par. (2). Pub. L. 109–435, §504, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;”.
 
 #### Effective Date
 
-Cls. (1) and (3) to (10) effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors and cl. (2) effective Aug. 12, 1970. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Pars. (1) and (3) to (10) effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors and par. (2) effective Aug. 12, 1970. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Emergency Preparedness Functions
 

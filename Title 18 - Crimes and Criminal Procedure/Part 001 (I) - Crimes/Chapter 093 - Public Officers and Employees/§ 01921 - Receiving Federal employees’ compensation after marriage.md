@@ -22,7 +22,7 @@ Oct. 14, 1949, ch. 691, §106(e), 63 Stat. 860.
 
 The word “Whoever” is substituted for “If any person” to conform to the style of title 18.
 
-The words “under sections 8107–8113 and 8133 of title 55” are substituted for “under this section or section 755 or 756 of this title” to reflect the codification of the sections in title 5, United States Code.
+The words “under sections 8107–8113 and 8133 of title 55” are substituted for “under this section or section755 or 756 of this title” to reflect the codification of the sections in title 5, United States Code.
 
 The words “or both” are substituted for “or by both such fine and imprisonment”.
 

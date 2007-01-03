@@ -52,7 +52,7 @@ An organic plan for the harvesting of wild crops shall—
 
 &emsp;(2) include a 3 year history of the management of the area showing that no prohibited substances have been applied;
 
-&emsp;(3) include a plan for the harvesting or gathering of the wild crops assuring that such harvesting or gathering will not be destructive tothe environment and will sustain the growth and production of the wild crop; and
+&emsp;(3) include a plan for the harvesting or gathering of the wild crops assuring that such harvesting or gathering will not be destructive to the environment and will sustain the growth and production of the wild crop; and
 
 &emsp;(4) include provisions that no prohibited substances will be applied by the producer.
 

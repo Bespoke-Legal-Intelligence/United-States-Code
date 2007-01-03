@@ -26,7 +26,7 @@
 
 (3) Members of the Commission shall receive $138 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
 
-(4) The Commission shall meet at the call of the Chairman, or at the call of a majority of themembers of the Commission; but meetings of the Commission shall be held not less frequently than once in each calendar month which begins after a majority of the authorized membership of the Commission has first been appointed.
+(4) The Commission shall meet at the call of the Chairman, or at the call of a majority of the members of the Commission; but meetings of the Commission shall be held not less frequently than once in each calendar month which begins after a majority of the authorized membership of the Commission has first been appointed.
 
 #### (b) Continuing study, investigation, and review of social security program; scope of study, etc., and public participation
 
@@ -58,7 +58,7 @@
 
 (1) No later than four months after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress a special report describing the Commission's plans for conducting the study, investigation, and review under subsection (b) of this section, with particular reference to the scope of such study, investigation, and review and the methods proposed to be used in conducting it.
 
-(2) At or before the close of each of the first two years after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress an annual report on the study, investigation, and review under subsection (b) of this section, together with its recommendations with respect to the programs involved. The second such report shall constitute the final report of the Commission on such study, investigation, and review, and shall include its final recommendations; and the Commission shall cease to exist on April 1, 1981.
+(2) At or before the close of each of the first two years after the date on which a majority ofthe authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress an annual report on the study, investigation, and review under subsection (b) of this section, together with its recommendations with respect to the programs involved. The second such report shall constitute the final report of the Commission on such study, investigation, and review, and shall include its final recommendations; and the Commission shall cease to exist on April 1, 1981.
 
 #### (d) Executive Director and additional personnel; appointment and compensation
 

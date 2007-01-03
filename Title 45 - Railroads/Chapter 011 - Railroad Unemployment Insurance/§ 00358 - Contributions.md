@@ -252,7 +252,7 @@
 
 #### (A) Step 1
 
-&emsp;&emsp;Compute the aggregate amount of all interest paid by the account on loans from theRailroad Retirement Account after September 30, 1985, pursuant to section 360(d) of this title, during the 4 calendar quarters ending on that June 30.
+&emsp;&emsp;Compute the aggregate amount of all interest paid by the account on loans from the Railroad Retirement Account after September 30, 1985, pursuant to section 360(d) of this title, during the 4 calendar quarters ending on that June 30.
 
 #### (B) Step 2
 
@@ -324,7 +324,7 @@
 
 #### (A) Step 1
 
-&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of anyyear, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a surcharge rate for the calendar year only if that balance is less than the greater of $100,000,000 or of the amount that bears the same ratio to $100,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
+&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a surcharge rate for the calendar year only if that balance is less than the greater of $100,000,000 or of the amount that bears the same ratio to $100,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
 
 #### (B) Step 2
 
@@ -366,7 +366,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;As of January 1, 1990, the Board shall commence maintaining an individual employer record with respect to each employer, and the records necessary to determine pooled charges, pooled credits and unallocated charge balances for the system. Whenever a new employer begins paying compensation with respect to which contributions are payable pursuant to this subsection, the Board shall establish and maintain an individual employer record for such employer.
+&emsp;&emsp;As of January 1, 1990, the Board shall commence maintaining an individual employerrecord with respect to each employer, and the records necessary to determine pooled charges, pooled credits and unallocated charge balances for the system. Whenever a new employer begins paying compensation with respect to which contributions are payable pursuant to this subsection, the Board shall establish and maintain an individual employer record for such employer.
 
 #### (B) Definition
 
@@ -380,7 +380,7 @@
 
 #### (A) With other employers
 
-&emsp;&emsp;In the event of a merger, consolidation, unification, or reorganization in which anemployer combines with another employer and the combination entails no partitioning of the property of the employer, the individual employer records of the 2 employers shall be combined into a joint individual employer record if the parties request such joint treatment pursuant to paragraph (18) or if the Board otherwise determines, pursuant to regulations prescribed by the Board, that such joint treatment is desirable.
+&emsp;&emsp;In the event of a merger, consolidation, unification, or reorganization in which an employer combines with another employer and the combination entails no partitioning of the property of the employer, the individual employer records of the 2 employers shall be combined into a joint individual employer record if the parties request such joint treatment pursuant to paragraph (18) or if the Board otherwise determines, pursuant to regulations prescribed by the Board, that such joint treatment is desirable.
 
 #### (B) With nonemployers
 
@@ -446,7 +446,7 @@ Each employee representative shall pay a contribution with respect to so much of
 
 (1) Not later than the last day of any calendar quarter that begins after March 31, 1990, the Board shall notify each employer and employee representative of its net cumulative contribution balance and cumulative benefit balance as of the end of the preceding calendar quarter, as computed in accordance with paragraphs (7) and (8) of subsection (a) of this section as of the last day of such preceding calendar quarter rather than as of a given June 30 if such last day is not a June 30.
 
-(2) Not later than October 15, 1990, and October 15 of each year thereafter, the Board shall notify each employer and employee representative ofits benefit ratio, reserve ratio, 1-year compensation base, 3-year compensation base, unallocated charge, and reserve balance as of the preceding June 30 as computed in accordance with paragraphs (2), (3), (4), (5), (6), and (9) of subsection (a) of this section, and of the contribution rate applicable to the employer or employee representative in the following calendar year as computed under paragraphs (1)(B), (C), or (D) of that subsection.
+(2) Not later than October 15, 1990, and October 15 of each year thereafter, the Board shall notify each employer and employee representative of its benefit ratio, reserve ratio, 1-year compensation base, 3-year compensation base, unallocated charge, and reserve balance as of the preceding June 30 as computed in accordance with paragraphs (2), (3), (4), (5), (6), and (9) of subsection (a) of this section, and of the contribution rate applicable to the employer or employee representative in the following calendar year as computed under paragraphs (1)(B), (C), or (D) of that subsection.
 
 #### (e) Information to verify accuracy to be made available
 
@@ -474,7 +474,7 @@ The contributions required by this chapter shall be collected and paid quarterly
 
 #### (k) Application of other laws; authority of Board
 
-All provisions of law, including penalties, applicable with respect to any tax imposed by the provisions of the Railroad Retirement Tax Act \[26 U.S.C. 3201 et seq.\], insofar as applicable and not inconsistent with the provisions of this chapter, shall be applicable with respect to the contributions required by this chapter: <i>Provided</i>, That all authority and functions conferred by or pursuant to such provisions upon any officer or employee of the United States, except the authority to institute and prosecute, and the function of instituting and prosecuting, criminal proceedings, shall, with respect to such contributions, be vested in and exercised by the Board or such officers and employees of the Board as it may designate therefor. The remedies available under the first sentence of this subsection for an employer or employee representative who contests the amount of contributions payable by him shall also apply with respect to a contention that the contribution rate determined by the Board under subsection (a) or (b) of this section to be applicable to such employer or employee representative is inaccurate or otherwise improper.
+All provisions of law, including penalties, applicable with respect to any tax imposed by the provisions of the Railroad Retirement Tax Act \[26 U.S.C. 3201 et seq.\], insofar as applicable and not inconsistent with the provisions of this chapter, shall be applicable with respect to the contributions required by this chapter: <i>Provided</i>, That all authority and functions conferred by or pursuant to such provisions upon any officer or employee of the United States, except the authority to institute and prosecute, and the function of instituting and prosecuting, criminal proceedings, shall, with respect to such contributions, be vested in and exercised by the Board or such officers and employees of the Board as it may designate therefor. The remedies available under the first sentence of this subsection for an employer or employee representative who contests the amount of contributions payable by him shall also apply with respect to a contention that the contribution rate determined by the Board under subsection (a) or (b) of this section to be applicable to suchemployer or employee representative is inaccurate or otherwise improper.
 
 (June 25, 1938, ch. 680, §8, 52 Stat. 1102; July 31, 1946, ch. 709, §318, 60 Stat. 739; June 23, 1948, ch. 608, §§4, 5(a), 6, 62 Stat. 577, 578; Aug. 31, 1954, ch. 1164, pt. III, §§305, 306, 68 Stat. 1042; Pub. L. 85–927, pt. II, §203, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §§306, 307, May 19, 1959, 73 Stat. 32; Pub. L. 88–133, title III, §§303(a), 304, Oct. 5, 1963, 77 Stat. 222, 223; Pub. L. 89–700, title II, §204, title III, §301(i), (ii), Oct. 30, 1966, 80 Stat. 1087, 1088; Pub. L. 94–92, title I, §1(g), (h), Aug. 9, 1975, 89 Stat. 463; Pub. L. 97–35, title XI, §1128(b), Aug. 13, 1981, 95 Stat. 641; Pub. L. 98–76, title V, §503(a), Aug. 12, 1983, 97 Stat. 440; Pub. L. 100–647, title VII, §§7102(a)–(d), 7103(a), Nov. 10, 1988, 102 Stat. 3759–3770; Pub. L. 101–322, §8(a), July 6, 1990, 104 Stat. 297.)
 
@@ -532,7 +532,7 @@ Subsec. (b). Pub. L. 98–76, §503(a)(2), struck out “after December 1975” 
 | $300,000,000 or more but less than $350,000,000 | 3 |
 | Less than $300,000,000 | 4” |
 
-Subsec. (b). Pub. L. 94–92, §1(h), substituted “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him for services performed as an employee representative during any month after December 1975 as is not, for any such calendar month, in excess of $400, at the rate applicable to employers in accordance with subsection (a) of this section.” for “Each employee representative shall pay, with respect to his income, a contribution equal to 4 per centum of so much of the compensation of such employee representative as is not in excess of $300 for any calendar month, paid to him for services performed as an employee representative after June 30, 1939, and before July 1, 1954, and as is not in excess of $350 paid to him for services rendered as an employee representative in any calendar month after June 30, 1954, and before June 1, 1959, and as is not in excess of $400 paid to him for services rendered as an employee representative in any calendar month after May 31, 1959.”
+Subsec. (b). Pub. L. 94–92, §1(h), substituted “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him for services performed as an employee representative during any month after December 1975 as is not, for any such calendar month, in excess of $400, at the rate applicable to employers in accordance with subsection (a) of this section.” for “Each employee representative shall pay, with respect to his income, a contribution equal to 4 per centum of so much of the compensationof such employee representative as is not in excess of $300 for any calendar month, paid to him for services performed as an employee representative after June 30, 1939, and before July 1, 1954, and as is not in excess of $350 paid to him for services rendered as an employee representative in any calendar month after June 30, 1954, and before June 1, 1959, and as is not in excess of $400 paid to him for services rendered as an employee representative in any calendar month after May 31, 1959.”
 
 1966—Subsec. (a). Pub. L. 89–700, §301(i), (ii), substituted “before June 1, 1959” for “before the calendar month next following the month in which this Act was amended in 1959”, and “after May 31, 1959” for “after the month in which this Act was so amended”.
 

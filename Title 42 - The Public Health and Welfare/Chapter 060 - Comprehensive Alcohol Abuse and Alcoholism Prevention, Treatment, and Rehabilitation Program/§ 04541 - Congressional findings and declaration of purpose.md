@@ -8,7 +8,7 @@
 
 &emsp;(3) it is estimated that alcoholism and other alcohol related problems cost the United States over $43,000,000,000 annually in lost production, medical and public assistance expenditures, police and court costs, and motor vehicle and other accidents;
 
-&emsp;(4) alcohol abuse is found with increasing frequency among persons who are multiple-drug abusers and among former heroin users who are being treated in methadone maintenance programs;
+&emsp;(4) alcohol abuse is found with increasing frequency among persons who are multiple-drug abusers and among former heroin userswho are being treated in methadone maintenance programs;
 
 &emsp;(5) alcohol abuse is being discovered among growning numbers of youth;
 
@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1980—Subsec. (a)(2). Pub. L. 96–180, §2(a), substituted current findings of number of alcoholics or problem drinkers in the country (approximately ten million or7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
+1980—Subsec. (a)(2). Pub. L. 96–180, §2(a), substituted current findings of number of alcoholics or problem drinkers in the country (approximately ten million or 7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
 
 Subsec. (a)(3). Pub. L. 96–180, §2(a), substituted current findings respecting annual cost of over $43,000,000,000 to the United States for alcoholism and other related problems in lost production, motor vehicle and other accidents, and other items, for 1974 findings respecting minimum annual problem drinking costs of $15,000,000 to the national economy in lost working time and identical other items.
 
@@ -70,7 +70,7 @@ Section 101 of title I of Pub. L. 93–282 provided that: “This title \[enacti
 
 #### Short Title
 
-Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
+Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive AlcoholAbuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
 
 #### National Commission on Alcoholism and Other Alcohol-Related Problems; Establishment; Executive Secretary; Interim and Final Reports of Study; Termination; Authorization of Appropriations
 

@@ -8,7 +8,7 @@
 
 #### (2) Progress report to the Congress
 
-&emsp;No later than 1 year after October 24, 1992, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate a report on the status of the development by the Fund of a workable economic methodology to measure military spending by developing countries.
+&emsp;No later than 1 year after October 24, 1992, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representativesand the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate a report on the status of the development by the Fund of a workable economic methodology to measure military spending by developing countries.
 
 #### (b) Annual reports by Fund on levels of military spending
 

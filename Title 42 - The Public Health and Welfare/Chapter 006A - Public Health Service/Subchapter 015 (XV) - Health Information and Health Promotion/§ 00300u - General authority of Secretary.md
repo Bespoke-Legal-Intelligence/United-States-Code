@@ -18,7 +18,7 @@ The Secretary shall—
 
 &emsp;(4) undertake and support research and demonstrations respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
-&emsp;(5) undertake and support appropriate training in, and undertake and support appropriate training in <sup>1</sup> the operation of programs concerned with, health information and health promotion, preventive health services, and education in the appropriate use of health care;
+&emsp;(5) undertake and support appropriate training in, and undertake and support appropriate training in the operation of programs concerned with, health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
 &emsp;(6) undertake and support, through improved planning and implementation of tested models and evaluation of results, effective and efficient programs respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
@@ -54,7 +54,7 @@ For the purpose of carrying out this section and sections 300u–1 through 300u�
 
 No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
+(July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat.695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
 
 #### Codification
 
@@ -122,7 +122,7 @@ Sec. 2. <i>The President's Council on Physical Fitness and Sports.</i>
 
 (a) There is hereby established the President's Council on Physical Fitness and Sports.
 
-(b) The Council shall be composed of up to 20 members appointed by the President. The President maydesignate one or more members to be Chair or Vice Chair. Each member shall serve for a term of 2 years and may continue to serve after the expiration of that term until a successor is appointed.
+(b) The Council shall be composed of up to 20 members appointed by the President. The President may designate one or more members to be Chair or Vice Chair. Each member shall serve for a term of 2 years and may continue to serve after the expiration of that term until a successor is appointed.
 
 Sec. 3. <i>Functions of the Council.</i>
 
@@ -198,7 +198,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (b) Existing information on the importance of appropriate physical activity, diet, preventive health screenings, and avoiding harmful substances is often not received by the public, or, if received, is not acted on sufficiently.
 
-(c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriate physical activity, dietary guidance, preventive health screening, and making healthy choices.
+(c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriatephysical activity, dietary guidance, preventive health screening, and making healthy choices.
 
 (d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
 
@@ -260,7 +260,7 @@ Sec. 3. <i>Responsibilities of the National Health Information Technology Coordi
 
 &emsp;(i) Serve as the Secretary's principal advisor on the development, application, and use of health information technology, and direct the Department of Health and Human Service's health information technology programs;
 
-&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
+&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health andHuman Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
 
 &emsp;(iii) To the extent permitted by law, coordinate outreach and consultation by the relevant executive branch agencies (including Federal commissions) with public and private parties of interest, including consumers, providers, payers, and administrators; and
 
@@ -278,5 +278,51 @@ Sec. 5. <i>Administration and Judicial Review</i>. (a) The actions directed by t
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Ex. Ord. No. 13410. Promoting Quality and Efficient Health Care in Federal Government Administered or Sponsored Health Care Programs
+
+Ex. Ord. No. 13410, Aug. 22, 2006, 71 F.R. 51089, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States, and in order to promote federally led efforts to implement more transparent and high-quality health care, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health care programs administered or sponsored by the Federal Government promote quality and efficient delivery of health care through the use of health information technology, transparency regarding health care quality and price, and better incentives for program beneficiaries, enrollees, and providers. It is the further purpose of this order to make relevant information available to these beneficiaries, enrollees, and providers in a readily useable manner and in collaboration with similar initiatives in the private sector and non-Federal public sector. Consistent with the purpose of improving the quality and efficiency of health care, the actions and steps taken by Federal Government agencies should not incur additional costs for the Federal Government.
+
+Sec. 2. <i>Definitions</i>. For purposes of this order:
+
+(a) “Agency” means an agency of the Federal Government that administers or sponsors a Federal health care program.
+
+(b) “Federal health care program” means the Federal Employees Health Benefit Program, the Medicare program, programs operated directly by the Indian Health Service, the TRICARE program for the Department of Defense and other uniformed services, and the health care program operated by the Department of Veterans Affairs. For purposes of this order, “Federal health care program” does not include State operated or funded federally subsidized programs such as Medicaid, the State Children's Health Insurance Program, or services provided to Department of Veterans’ Affairs beneficiaries under 38 U.S.C. 1703.
+
+(c) “Interoperability” means the ability to communicate and exchange data accurately, effectively, securely, and consistently with different information technology systems, software applications, and networks in various settings, and exchange data such that clinical or operational purpose and meaning of the data are preserved and unaltered.
+
+(d) “Recognized interoperability standards” means interoperability standards recognized by the Secretary of Health and Human Services (the “Secretary”), in accordance with guidance developed by the Secretary, as existing on the date of the implementation, acquisition, or upgrade of health information technology systems under subsections (1) or (2) of section 3(a) of this order.
+
+Sec. 3. <i>Directives for Agencies</i>. Agencies shall perform the following functions:
+
+(a) Health Information Technology.
+
+(1) For Federal Agencies. As each agency implements, acquires, or upgrades health information technology systems used for the direct exchange of health information between agencies and with non-Federal entities, it shall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
+
+(2) For Contracting Purposes. Each agency shall require in contracts or agreements with health care providers, health plans, or health insurance issuers that as each provider, plan, or issuer implements, acquires, or upgrades health information technology systems, it shall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
+
+(b) Transparency of Quality Measurements.
+
+(1) In General. Each agency shall implement programs measuring the quality of services supplied by health care providers to the beneficiaries or enrollees of a Federal health care program. Such programs shall be based upon standards established by multi-stakeholder entities identified by the Secretary or by another agency subject to this order. Each agency shall develop its quality measurements in collaboration with similar initiatives in the private and non-Federal public sectors.
+
+(2) Facilitation. An agency satisfies the requirements of this subsection if it participates in the aggregation of claims and other appropriate data for the purposes of quality measurement. Such aggregation shall be based upon standards established by multi-stakeholder entities identified by the Secretary or by another agency subject to this order.
+
+(c) Transparency of Pricing Information. Each agency shall make available (or provide for the availability) to the beneficiaries or enrollees of a Federal health care program (and, at the option of the agency, to the public) the prices that it, its health insurance issuers, or its health insurance plans pay for procedures to providers in the health care program with which the agency, issuer, or plan contracts. Each agency shall also, in collaboration with multi-stakeholder groups such as those described in subsection (b)(1), participate in the development of information regarding the overall costs of services for common episodes of care and the treatment of common chronic diseases.
+
+(d) Promoting Quality and Efficiency of Care. Each agency shall develop and identify, for beneficiaries, enrollees, and providers, approaches that encourage and facilitate the provision and receipt of high-quality and efficient health care. Such approaches may include pay-for-performance models of reimbursement consistent with current law. An agency will satisfy the requirements of this subsection if it makes available to beneficiaries or enrollees consumer-directed health care insurance products.
+
+Sec. 4. <i>Implementation Date</i>. Agencies shall comply with the requirements of this order by January 1, 2007.
+
+Sec. 5. <i>Administration and Judicial Review.</i>
+
+(a) This order does not assume or rely upon additional Federal resources or spending to promote quality and efficient health care. Further, the actions directed by this order shall be carried out subject to the availability of appropriations and to the maximum extent permitted by law.
+
+(b) This order shall be implemented in new contracts or new contract cycles as they may be renewed from time to time. Renegotiation outside of the normal contract cycle processes should be avoided.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

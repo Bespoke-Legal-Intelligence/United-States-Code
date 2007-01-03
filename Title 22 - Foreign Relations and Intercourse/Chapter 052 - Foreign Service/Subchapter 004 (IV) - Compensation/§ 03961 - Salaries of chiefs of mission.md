@@ -12,7 +12,7 @@
 
 1991—Subsec. (a). Pub. L. 102–138 substituted “Except as provided in section 3942(b) of this title, each” for “Each” and “level I of such” for “level II of such”.
 
-1987—Subsec. (a). Pub. L. 100–204 substituted “Each chief” for “Except as provided in section 3942(b) of this title, each chief”, and inserted before period at end “, except that the total compensation, exclusive of danger pay, for any chief of mission shall not exceed the annual rate payable for level II of such Executive Schedule”.
+1987—Subsec. (a). Pub. L. 100–204 substituted “Each chief” for “Except as provided in section 3942(b) of thistitle, each chief”, and inserted before period at end “, except that the total compensation, exclusive of danger pay, for any chief of mission shall not exceed the annual rate payable for level II of such Executive Schedule”.
 
 #### Effective Date of 1987 Amendment
 

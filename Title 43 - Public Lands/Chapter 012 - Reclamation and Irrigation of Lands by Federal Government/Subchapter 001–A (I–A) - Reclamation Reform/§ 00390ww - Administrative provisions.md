@@ -38,8 +38,6 @@ When the Secretary finds that any individual or legal entity subject to reclamat
 
 The Federal reclamation law, referred to in subsecs. (a) to (c), is defined in section 390aa of this title.
 
-The reclamation law of the United States and the reclamation law, referred to in subsecs. (g) and (i), probably means Federal reclamation law which is defined in section 390aa of this title.
-
 This subchapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”, meaning title II (§§201–230) of Pub. L. 97–293, Oct. 12, 1982, 96 Stat. 1263, known as the Reclamation Reform Act of 1982, which enacted this subchapter, amended sections 373a, 422e, 425b, and 485h of this title, and repealed section 383 of Title 25, Indians. For complete classification of title II to the Code, see Tables.
 
 This subchapter, referred to in subsecs. (g) and (i), was in the original “this Act” and was translated as reading “this title”. See note above.

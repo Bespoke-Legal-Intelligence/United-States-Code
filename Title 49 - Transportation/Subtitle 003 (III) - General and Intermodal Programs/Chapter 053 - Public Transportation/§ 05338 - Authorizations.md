@@ -182,7 +182,7 @@ In general.—There shall be available from the Mass Transit Account of the High
 
 Allocation of funds.—Of the amounts made available under paragraph (1)—
 
-&emsp;&emsp;(A) $95,000,000 for fiscal year 2006, $99,000,000 for fiscal year 2007, $107,000,000 for fiscal year 2008, and $113,500,000 for fiscal year 2009 shall be available to carry out section 5305;
+&emsp;&emsp;(A) $95,000,000 for fiscal year 2006, $99,000,000 for fiscal year 2007, $107,000,000 forfiscal year 2008, and $113,500,000 for fiscal year 2009 shall be available to carry out section 5305;
 
 &emsp;&emsp;(B) $3,466,681,000 for fiscal year 2006, $3,606,175,000 for fiscal year 2007, $3,910,843,000 for fiscal year 2008, and $4,160,365,000 for fiscal year 2009 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
 
@@ -208,7 +208,7 @@ Allocation of funds.—Of the amounts made available under paragraph (1)—
 
 &emsp;&emsp;(M) $388,000,000 for fiscal year 2006, $404,000,000 for fiscal year 2007, $438,000,000 for fiscal year 2008, and $465,000,000 for fiscal year 2009 shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and other than urbanized areas under section 5311; and
 
-&emsp;&emsp;(N) $7,500,000 for fiscal year 2006, $7,600,000 for fiscal year 2007, $8,300,000 for fiscal year 2008, and $8,800,000 for fiscal year 2009 shall be available to carry out section 3038 of theTransportation Equity Act for the 21st Century (49 U.S.C. 5310 note).
+&emsp;&emsp;(N) $7,500,000 for fiscal year 2006, $7,600,000 for fiscal year 2007, $8,300,000 for fiscal year 2008, and $8,800,000 for fiscal year 2009 shall be available to carry out section 3038 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5310 note).
 
 (c)
 
@@ -298,7 +298,7 @@ Grants financed from general fund.—A grant or contract that is approved by the
 
 Availability of Amounts.—Amounts made available by or appropriated under subsections (b), (c), and (d) shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h),\(j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629.)
 
 Historical and Revision Notes
 
@@ -1418,7 +1418,7 @@ Trauma care system research and development.—$500,000 in each of fiscal years 
 
 &emsp;“(14)
 
-Transportation infrastructure and logistics research.—$500,000 in each of fiscal years 2006 through 2009 for transportation infrastructure and logistics research at the University of Alabama in Huntsville.
+Transportation infrastructure and logistics research.—$500,000 in each of fiscal years 2006through 2009 for transportation infrastructure and logistics research at the University of Alabama in Huntsville.
 
 &emsp;“(15)
 
@@ -1470,7 +1470,7 @@ Remainder.—After making allocations under subsection (a), the remainder of fun
 
 #### Adjustments for Surface Transportation Extension Act of 1997
 
-Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to eachurbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in section 5337(a) of this title.
+Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in section 5337(a) of this title.
 
 #### Training and Curriculum Development
 

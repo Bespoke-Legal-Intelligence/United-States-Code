@@ -10,7 +10,7 @@ The Board shall have authority from time to time to make, amend, and rescind, in
 
 #### Amendments
 
-1947—Act June 23, 1947, amended section generally to provide that the rules and regulations issued by theBoard should be in the manner prescribed by the Administrative Procedure Act.
+1947—Act June 23, 1947, amended section generally to provide that the rules and regulations issued by the Board should be in the manner prescribed by the Administrative Procedure Act.
 
 #### Effective Date of 1947 Amendment
 

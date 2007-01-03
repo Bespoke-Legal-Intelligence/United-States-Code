@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 107–314, §1041(a)(8)(A), (C), redesignated subsec. (a)(2
 
 Subsec. (c). Pub. L. 107–314, §1041(a)(8)(A), struck out heading and text of subsec. (c). Text read as follows: “Whenever the Secretary of Defense, in the assessment required by subsection (b), determines that major defense acquisition programs of the Department of Defense are not achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a), the Secretary shall ensure that there is a timely review of major defense acquisition programs and other programs as appropriate. In conducting the review, the Secretary shall—
 
-&emsp;“(1) determine whether there is a continuing need for programs that are significantly behind schedule, over budget, or not in compliance with performance or capability requirements; and
+&emsp;“(1) determine whether there is a continuing need for programs that are significantly behind schedule,over budget, or not in compliance with performance or capability requirements; and
 
 &emsp;“(2) identify suitable actions to be taken, including termination, with respect to such programs.”
 
@@ -56,7 +56,7 @@ Report.—Not later than February 1, 1999, the Secretary of Defense shall submit
 
 #### Enhanced System of Performance Incentives
 
-Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretary of Defense shall review the incentives and personnel actions available to the Secretary of Defense for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives to facilitate the achievement of goals approved or defined pursuant to section 2220(a) of title 10, United States Code. The enhanced system of incentives shall, to the maximum extent consistent with applicable law—
+Pub. L. 103–355, title V, §5001(b), Oct. 13, 1994, 108 Stat. 3350, provided that: “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretary of Defense shall review the incentives and personnel actions available to the Secretary of Defense for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives to facilitate the achievement of goals approved or defined pursuant to section 2220(a) of title 10, United States Code. The enhanced system of incentives shall, to the maximum extent consistent with applicable law—
 
 &emsp;“(1) relate pay to performance (including the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, as added by subsection (a)); and
 
@@ -64,5 +64,7 @@ Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the
 
 #### Recommended Legislation
 
-Section 5001(c) of Pub. L. 103–355 provided that: “Not later than one year after the date of the enactment of this Act \[Oct 13, 1994\], the Secretary of Defense shall submit to Congress any recommended legislation that the Secretary considers necessary to carry out section 2220 of title 10, United States Code, as added by subsection (a), and otherwise to facilitate and enhance management of Department of Defense acquisition programs on the basis of performance.”
+Pub. L. 103–355, title V, §5001(c), Oct. 13, 1994, 108 Stat. 3350, directed the Secretary of Defense, not later than one year after Oct 13, 1994, to submit to Congress any recommended legislation that the Secretary considered necessary to carry out this section and otherwise to facilitate and enhance management of Department of Defense acquisition programs on the basis of performance.
+
+§2221
 

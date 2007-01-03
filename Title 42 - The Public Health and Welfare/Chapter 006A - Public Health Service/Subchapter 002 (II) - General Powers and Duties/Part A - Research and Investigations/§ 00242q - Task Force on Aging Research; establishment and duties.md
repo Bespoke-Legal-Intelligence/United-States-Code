@@ -6,7 +6,7 @@ The Secretary of Health and Human Services shall establish a Task Force on Aging
 
 #### (b) Duties
 
-With respect to aging research (as defined in section 242q–4 of this title), the Task Force each fiscal year shall—
+With respect to aging research (as defined in section 242q–4 <sup>1</sup> of this title), the Task Force each fiscal year shall—
 
 &emsp;(1) make recommendations to the Secretary specifying the particular projects of research, or the particular categories of research, that should be conducted or supported by the Secretary;
 
@@ -20,7 +20,13 @@ The Task Force may make available to health professionals, and to other members 
 
 (Pub. L. 101–557, title III, §301, Nov. 15, 1990, 104 Stat. 2768.)
 
+#### References in Text
+
+Section 242q–4 of this title, referred to in subsec. (b), was in the original “section 305”, meaning section 305 of Pub. L. 101–557. Section 305 was renumbered section 304 by Pub. L. 109–482, title I, §104(b)(3)(B), Jan. 15, 2007, 120 Stat. 3694.
+
 #### Codification
 
 Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

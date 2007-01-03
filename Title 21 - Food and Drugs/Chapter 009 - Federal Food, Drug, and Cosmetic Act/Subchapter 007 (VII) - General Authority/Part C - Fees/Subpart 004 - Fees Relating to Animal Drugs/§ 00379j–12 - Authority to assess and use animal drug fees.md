@@ -50,7 +50,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(C) who, after September 1, 2003, had pending before the Secretary an animal drug application or supplemental animal drug application,
 
-> &emsp;shall be assessed an annual fee established in subsection (b) of this section for each animal drug establishment listed in its approved animal drug application as an establishment that manufactures the animal drug product named in the application. The annual establishment fee shall be assessed in each fiscal year in which the animal drug product named in the application is assessed a fee under paragraph (2) unless the animal drug establishment listed in the application does not engage in the manufacture of the animal drug product during the fiscal year. The fee shall be paid on or before January 31 of each year. The establishment shall be assessed only one fee per fiscal year under this section: <i>Provided, however</i>, that where a single establishment manufactures both animal drug products and prescription drug products, as defined in section 379g(3) of this title, such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in section 379h(a)(2) of this title, within a single fiscal year.
+> &emsp;shall be assessed an annual fee established in subsection (b) of this section for each animal drug establishment listed in its approved animal drug application as an establishment that manufactures the animal drug product named in the application. The annual establishment fee shall be assessed in each fiscal year in which the animal drug product named in the application is assessed a fee under paragraph\(2) unless the animal drug establishment listed in the application does not engage in the manufacture of the animal drug product during the fiscal year. The fee shall be paid on or before January 31 of each year. The establishment shall be assessed only one fee per fiscal year under this section: <i>Provided, however</i>, that where a single establishment manufactures both animal drug products and prescription drug products, as defined in section 379g(3) of this title, such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in section 379h(a)(2) of this title, within a single fiscal year.
 
 #### (4) Animal drug sponsor fee
 
@@ -96,7 +96,7 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 #### (2) Workload adjustment
 
-&emsp;After the fee revenues are adjusted for inflation in accordance with paragraph (1), the feerevenues shall be further adjusted each fiscal year after fiscal year 2004 to reflect changes in review workload. With respect to such adjustment:
+&emsp;After the fee revenues are adjusted for inflation in accordance with paragraph (1), the fee revenues shall be further adjusted each fiscal year after fiscal year 2004 to reflect changes in review workload. With respect to such adjustment:
 
 &emsp;&emsp;(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animal drug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
 
@@ -170,7 +170,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (1) In general
 
-&emsp;Fees authorized under subsection (a) of this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of animal drug applications.
+&emsp;Fees authorized under subsection (a) of this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries andexpenses appropriation account without fiscal year limitation to such appropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of animal drug applications.
 
 #### (2) Collections and appropriation acts
 

@@ -30,7 +30,7 @@ Section 269, acts Aug. 10, 1956, ch. 1041, 70A Stat. 12; Sept. 2, 1958, Pub. L. 
 
 Section 270, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 87–378, §2, Oct. 4, 1961, 75 Stat. 807; Pub. L. 88–110, §4, Sept. 3, 1963, 77 Stat. 136; Pub. L. 90–168, §2(10), Dec. 1, 1967, 81 Stat. 523; Pub. L. 92–156, title III, §303(a), Nov. 17, 1971, 85 Stat. 425; Pub. L. 96–513, title V, §511(7), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 100–456, div. A, title XII, §1234(a)(2), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–189, div. A, title V, §501(b), Nov. 29, 1989, 103 Stat. 1435, related to training requirements of Ready Reserve. See sections 10147 and 10148 of this title.
 
-Section 271, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 95–485, title IV,§405(b), Oct. 20, 1978, 92 Stat. 1615, related to system of continuous screening of units and members of Ready Reserve. See section 10149 of this title.
+Section 271, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 95–485, title IV, §405(b), Oct. 20, 1978, 92 Stat. 1615, related to system of continuous screening of units and members of Ready Reserve. See section 10149 of this title.
 
 Section 272, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 96–513, title V, §511(8), Dec. 12, 1980, 94 Stat. 2920, related to transfers back from Standby Reserve to Ready Reserve. See section 10150 of this title.
 

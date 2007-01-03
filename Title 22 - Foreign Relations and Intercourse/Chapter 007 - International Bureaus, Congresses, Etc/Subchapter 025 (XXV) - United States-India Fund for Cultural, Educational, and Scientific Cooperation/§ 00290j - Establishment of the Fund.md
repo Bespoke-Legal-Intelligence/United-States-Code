@@ -2,7 +2,7 @@
 
 #### (a) Agreement with Government of India; program purposes
 
-The President is authorized to enter into an agreement with the Government of India for the establishment of a fund (hereafter in this subchapter referred to as the “Fund”) which would provide grants and other assistance for cultural, educational, and scientific programs of mutual interest. Such programs may include exchanges of persons, exchanges of information, and other programs of study, research, and scholarly cooperation. The agreement may also provide for the establishment of an endowment, a foundation, or other means to carry out the purposes of the agreement.
+The President is authorized to enter into an agreement with the Government of India for the establishment of a fund (hereafter in this subchapter referred to as the “Fund”) which would provide grants and other assistance for cultural, educational, and scientific programs of mutual interest. Such programs may include exchanges of persons, exchanges of information, and otherprograms of study, research, and scholarly cooperation. The agreement may also provide for the establishment of an endowment, a foundation, or other means to carry out the purposes of the agreement.
 
 #### (b) United States representatives
 
@@ -22,7 +22,7 @@ Section 901 of title IX of Pub. L. 98–164 provided that: “This title \[enact
 
 Ex. Ord. No. 12517, May 29, 1985, 50 F.R. 23105, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including section 301 of Title 3 of the United States Code, and in order to delegate certain functionsconcerning the United States-India Fund for Cultural, Educational, and Scientific Cooperation to the Secretary of State, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including section 301 of Title 3 of the United States Code, and in order to delegate certain functions concerning the United States-India Fund for Cultural, Educational, and Scientific Cooperation to the Secretary of State, it is hereby ordered as follows:
 
 Section 1. All functions vested in the President by the United States-India Fund for Cultural, Educational, and Scientific Cooperation Act (Title IX of Public Law 98–164, 97 Stat. 1051; “the Act”) \[22 U.S.C. 290j et seq.\] are delegated to the Secretary of State.
 

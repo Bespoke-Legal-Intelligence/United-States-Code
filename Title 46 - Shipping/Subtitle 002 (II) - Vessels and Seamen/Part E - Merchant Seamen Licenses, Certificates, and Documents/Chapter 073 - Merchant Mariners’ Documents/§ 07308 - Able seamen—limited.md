@@ -24,7 +24,3 @@ Section 7308 establishes the minimum service requirements for an individual to q
 
 Service used to qualify for endorsement as able seaman—fishing industry to be accepted as qualifying service toward an endorsement under this section, see section 602(e)(3) of Pub. L. 101–595, set out as a note under section 7306 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7312, 7315 of this title.
-

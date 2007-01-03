@@ -46,7 +46,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(vi) increase cooperation with United States drug enforcement officials; and
 
-&emsp;(vii) where applicable, increase participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.
+&emsp;(vii) where applicable, increase participation in extradition treaties, mutual legal assistance provisions directed at money laundering,sharing of evidence, and other initiatives for cooperative drug enforcement.
 
 (C) A country which in the previous year was designated as a major drug producing country or a major drug-transit country may not be determined to be cooperating fully under subparagraph (A)(i) unless it has in place a bilateral narcotics agreement with the United States or a multilateral agreement which achieves the objectives of subparagraph (B).
 
@@ -56,7 +56,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(ii) a statement weighing the risk described in clause (i) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
-(E) The President may make a certification under subparagraph (A)(i) with respect to amajor drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
+(E) The President may make a certification under subparagraph (A)(i) with respect to a major drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
 
 (2) In determining whether to make the certification required by paragraph (1) with respect to a country, the President shall consider the following:
 

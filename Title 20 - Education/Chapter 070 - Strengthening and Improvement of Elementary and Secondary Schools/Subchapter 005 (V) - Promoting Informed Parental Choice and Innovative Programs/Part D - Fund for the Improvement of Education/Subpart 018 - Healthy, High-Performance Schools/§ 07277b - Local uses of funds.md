@@ -14,7 +14,7 @@ A local educational agency that receives a subgrant under section 7277a(a) of th
 
 A local educational agency that receives a subgrant under section 7277a(a) of this title shall use funds for one or more of the following:
 
-&emsp;(1) To develop a comprehensive energy audit of the energy consumption characteristics of a building and the need for additional energy conservation measures necessary to allow schools to meet the guidelines set out in subsection (a) of this section.
+&emsp;(1) To develop a comprehensive energy audit of the energy consumption characteristics of a building and the need for additional energyconservation measures necessary to allow schools to meet the guidelines set out in subsection (a) of this section.
 
 &emsp;(2) To produce a comprehensive analysis of building strategies, designs, materials, and equipment that—
 

@@ -9,3 +9,4 @@ Part E—General Provisions Relating to Drugs and Devices
 - [&sect; 00360bbb&#8211;1 - Dispute resolution](%C2%A7%2000360bbb%E2%80%931%20-%20Dispute%20resolution.md)
 - [&sect; 00360bbb&#8211;2 - Classification of products](%C2%A7%2000360bbb%E2%80%932%20-%20Classification%20of%20products.md)
 - [&sect; 00360bbb&#8211;3 - Authorization for medical products for use in emergencies](%C2%A7%2000360bbb%E2%80%933%20-%20Authorization%20for%20medical%20products%20for%20use%20in%20emergencies.md)
+- [&sect; 00360bbb&#8211;4 - Technical assistance](%C2%A7%2000360bbb%E2%80%934%20-%20Technical%20assistance.md)

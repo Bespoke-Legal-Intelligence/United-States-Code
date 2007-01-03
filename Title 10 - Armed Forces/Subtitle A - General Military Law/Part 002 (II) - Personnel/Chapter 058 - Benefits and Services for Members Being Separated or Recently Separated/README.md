@@ -13,13 +13,15 @@
 | [1148\.](%C2%A7%2001148%20-%20Relocation%20assistance%20for%20personnel%20overseas.md) | Relocation assistance for personnel overseas. |
 | [1149\.](%C2%A7%2001149%20-%20Excess%20leave%20and%20permissive%20temporary%20duty.md) | Excess leave and permissive temporary duty. |
 | [1150\.](%C2%A7%2001150%20-%20Affiliation%20with%20Guard%20and%20Reserve%20units%20waiver%20of%20certain%20limitations.md) | Affiliation with Guard and Reserve units: waiver of certain limitations. |
-| \[1151. | Repealed.\] |
+| [1151\.](%C2%A7%2001151%20-%20Retention%20of%20assistive%20technology%20and%20services%20provided%20before%20separation.md) | Retention of assistive technology and services provided before separation. |
 | [1152\.](%C2%A7%2001152%20-%20Assistance%20to%20eligible%20members%20and%20former%20members%20to%20obtain%20employment%20with%20law%20enforcement%20agencies.md) | Assistance to eligible members and former members to obtain employment with law enforcement agencies. |
 | [1153\.](%C2%A7%2001153%20-%20Assistance%20to%20separated%20members%20to%20obtain%20employment%20with%20health%20care%20providers.md) | Assistance to separated members to obtain employment with health care providers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title V, §561(b), Oct. 17, 2006, 120 Stat. 2220, added item 1151.
 
 1999—Pub. L. 106–65, div. A, title XVII, §1707(a)(2), Oct. 5, 1999, 113 Stat. 823, struck out item 1151 “Assistance to separated members to obtain certification and employment as teachers or employment as teachers’ aides”.
 
@@ -45,6 +47,6 @@
 - [&sect; 01148 - Relocation assistance for personnel overseas](%C2%A7%2001148%20-%20Relocation%20assistance%20for%20personnel%20overseas.md)
 - [&sect; 01149 - Excess leave and permissive temporary duty](%C2%A7%2001149%20-%20Excess%20leave%20and%20permissive%20temporary%20duty.md)
 - [&sect; 01150 - Affiliation with Guard and Reserve units waiver of certain limitations](%C2%A7%2001150%20-%20Affiliation%20with%20Guard%20and%20Reserve%20units%20waiver%20of%20certain%20limitations.md)
-- [&sect; 01151 - Repealed. Pub. L. 106&#8211;65, div. A, title XVII, &sect;1707(a)(1), Oct. 5, 1999, 113 Stat. 823](%C2%A7%2001151%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20A%2C%20title%20XVII%2C%20%C2%A71707%28a%29%281%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20823.md)
+- [&sect; 01151 - Retention of assistive technology and services provided before separation](%C2%A7%2001151%20-%20Retention%20of%20assistive%20technology%20and%20services%20provided%20before%20separation.md)
 - [&sect; 01152 - Assistance to eligible members and former members to obtain employment with law enforcement agencies](%C2%A7%2001152%20-%20Assistance%20to%20eligible%20members%20and%20former%20members%20to%20obtain%20employment%20with%20law%20enforcement%20agencies.md)
 - [&sect; 01153 - Assistance to separated members to obtain employment with health care providers](%C2%A7%2001153%20-%20Assistance%20to%20separated%20members%20to%20obtain%20employment%20with%20health%20care%20providers.md)

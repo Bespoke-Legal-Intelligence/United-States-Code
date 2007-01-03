@@ -18,7 +18,7 @@ There is hereby established a body corporate to be known as the Telecommunicatio
 
 #### (1) Composition of Board; Chairman
 
-&emsp;The Fund shall have a Board of Directors which shall consist of 7 persons appointed by the Chairman of the Commission. Four of such directors shall be representative of the private sector and three of such directors shall be representative of the Commission, the Small Business Administration, and the Department of the Treasury, respectively. The Chairman of the Commission shall appoint one of the representatives of the private sector to serve as chairman of the Fund within 30 days after February 8, 1996, in order to facilitate rapid creation and implementation of the Fund. The directors shall include members with experience in a number of the following areas: finance, investment banking, government banking, communications law and administrative practice, and public policy.
+&emsp;The Fund shall have a Board of Directors which shall consist of 7 persons appointed by the Chairman of the Commission. Four of suchdirectors shall be representative of the private sector and three of such directors shall be representative of the Commission, the Small Business Administration, and the Department of the Treasury, respectively. The Chairman of the Commission shall appoint one of the representatives of the private sector to serve as chairman of the Fund within 30 days after February 8, 1996, in order to facilitate rapid creation and implementation of the Fund. The directors shall include members with experience in a number of the following areas: finance, investment banking, government banking, communications law and administrative practice, and public policy.
 
 #### (2) Terms of appointed and elected members
 
@@ -38,7 +38,7 @@ There is hereby established a body corporate to be known as the Telecommunicatio
 
 #### (3) Meetings and functions of the Board
 
-&emsp;The Board of Directors shall meet at the call of its Chairman, but at least quarterly. The Board shall determine the general policies which shall govern the operations of the Fund. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers ofthe Fund and shall discharge all such functions, powers, and duties.
+&emsp;The Board of Directors shall meet at the call of its Chairman, but at least quarterly. The Board shall determine the general policies which shall govern the operations of the Fund. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Fund and shall discharge all such functions, powers, and duties.
 
 #### (d) Accounts of Fund
 
@@ -102,7 +102,7 @@ The Fund shall have power—
 
 &emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
 
-&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, to make loans and equity investment, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
+&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, to make loans andequity investment, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
 #### (i) Accounting, auditing, and reporting
 

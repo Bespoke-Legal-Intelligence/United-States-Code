@@ -78,7 +78,7 @@ A member of the Board shall, for each day (including traveltime) during which th
 
 (1) The Board shall meet at the call of the Chairman (in consultation with the other members of the Board) not less than 4 times each year to consider a specific agenda of issues, as determined by the Chairman in consultation with the other members of the Board.
 
-(2) Four members of the Board (not more than 3 of whom may be of the same political party) shall constitute a quorum for purposes of conducting business.
+(2) Four members of the Board (not more than 3 of whom may be of the same political party)shall constitute a quorum for purposes of conducting business.
 
 #### (h) Federal Advisory Committee Act
 

@@ -94,13 +94,13 @@ In subsection (a)(1), the words “Except as provided in sections 3330 and 3331 
 
 In subsection (a)(2), before clause (A), the words “When the Secretary decides it is appropriate” are substituted for “at appropriate intervals” for clarity. In clauses (A) and (B), the words “on the books” are omitted as surplus. In clause (A), the words “drawn on the Treasury” are added for clarity and consistency. In clause (B), the words “from the accounts . . . for the payment of unpaid checks . . . of the Treasury” are omitted as surplus. The words “and to transfer to such consolidated account or accounts the balance of the special deposit account established pursuant to section 132 of this title”, and the words “any unpaid checks heretofore payable from the special deposit account”, are omitted as executed because the account was established under 31:132 as originally enacted in 1947 and then abolished by the 1957 amendment to that section. The text of 31:134(1st proviso) is omitted as superseded by section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of 31:134(last proviso) is omitted as executed.
 
-In subsection (b)(1), before clause (A), the words “issued by a disbursing official” are substituted for “drawn by authorized officers of the United States” for consistency. In clause (B), the words “or accounts on the books” are omitted as surplus.
+In subsection (b)(1), before clause (A), the words “issued by a disbursing official” are substituted for“drawn by authorized officers of the United States” for consistency. In clause (B), the words “or accounts on the books” are omitted as surplus.
 
 Subsection (c) is substituted for 31:132(c) for consistency and to eliminate unnecessary words.
 
 In subsection (d), the words “rules and” and “or proper” are omitted as surplus.
 
-In subsection (e)(1), before clause (A), the word “prescribe” is substituted for “issue and publish” for consistency in the revised title and with other titles of the United States Code. In clause (B), the words “and to prescribe the time, according to the different distancesof the depositaries from the seat of Government, within which all drafts upon them, respectively, shall be presented for payment” are omitted as superseded by subsection (a) of the revised section. Clause (C) is substituted for 31:527(words between semicolons) to eliminate unnecessary words.
+In subsection (e)(1), before clause (A), the word “prescribe” is substituted for “issue and publish” for consistency in the revised title and with other titles of the United States Code. In clause (B), the words “and to prescribe the time, according to the different distances of the depositaries from the seat of Government, within which all drafts upon them, respectively, shall be presented for payment” are omitted as superseded by subsection (a) of the revised section. Clause (C) is substituted for 31:527(words between semicolons) to eliminate unnecessary words.
 
 In subsection (e)(2), the words “and directions” are omitted as surplus.
 

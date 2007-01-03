@@ -48,7 +48,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;&emsp;(i) the chief health officer of the State held public hearings on the plan; and
 
-&emsp;&emsp;(ii) proposals for the plan were made public in a manner that facilitated commentsfrom public and private entities (including Federal and other public agencies).
+&emsp;&emsp;(ii) proposals for the plan were made public in a manner that facilitated comments from public and private entities (including Federal and other public agencies).
 
 &emsp;(B) The State agrees that, if any revisions are made in such plan during the fiscal year, the State will, with respect to the revisions, hold hearings and make proposals public in accordance with subparagraph (A), and will submit to the Secretary a description of the revisions.
 
@@ -114,7 +114,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;A condition under paragraph (1) for a State is that the State public health officer serves as the chair of the Committee, and that the Committee meets not less than twice each fiscal year.
 
-(July 1, 1944, ch. 373, title XIX, §1905, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat.538; amended Pub. L. 98–555, §5(a), (d), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 99–646, §87(d)(1)(B), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(1)(B), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(c), Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §4, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–531, title I, §103(a), Oct. 27, 1992, 106 Stat. 3470.)
+(July 1, 1944, ch. 373, title XIX, §1905, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 538; amended Pub. L. 98–555, §5(a), (d), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 99–646, §87(d)(1)(B), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(1)(B), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(c), Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §4, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–531, title I, §103(a), Oct. 27, 1992, 106 Stat. 3470.)
 
 #### Amendments
 

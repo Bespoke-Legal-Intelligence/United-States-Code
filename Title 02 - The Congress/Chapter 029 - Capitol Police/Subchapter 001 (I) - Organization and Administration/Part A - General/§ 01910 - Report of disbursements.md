@@ -22,7 +22,7 @@ Each report under this section shall be printed as a House document.
 
 #### (d) Effective date
 
-This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each year, beginning with the semiannual period in which this section is enacted.
+This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of eachyear, beginning with the semiannual period in which this section is enacted.
 
 (Pub. L. 109–55, title I, §1005, Aug. 2, 2005, 119 Stat. 575.)
 

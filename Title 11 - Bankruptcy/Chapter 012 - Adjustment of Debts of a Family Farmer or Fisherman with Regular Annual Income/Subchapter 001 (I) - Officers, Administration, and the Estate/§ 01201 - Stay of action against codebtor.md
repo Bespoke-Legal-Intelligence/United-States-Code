@@ -48,7 +48,7 @@ Pub. L. 107–8, §2, May 11, 2001, 115 Stat. 10, provided that: “The amendmen
 
 #### Effective Date of 1999 Amendments
 
-Pub. L. 106–70, §2, Oct. 9, 1999, 113 Stat. 1031, provided that: “The amendments made by section 1 \[amendingthis section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on October 1, 1999.”
+Pub. L. 106–70, §2, Oct. 9, 1999, 113 Stat. 1031, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on October 1, 1999.”
 
 Pub. L. 106–5, §2, Mar. 30, 1999, 113 Stat. 9, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on April 1, 1999.”
 

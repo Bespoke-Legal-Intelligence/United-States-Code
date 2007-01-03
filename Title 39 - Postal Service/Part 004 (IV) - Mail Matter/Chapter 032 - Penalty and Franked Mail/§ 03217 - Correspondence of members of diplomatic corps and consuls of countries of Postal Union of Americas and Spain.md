@@ -4,3 +4,7 @@ Correspondence of the members of the diplomatic corps of the countries of the Po
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755.)
 
+#### Free Mailing Privileges Continue Unchanged
+
+Pub. L. 109–435, title V, §505(c), Dec. 20, 2006, 120 Stat. 3236, provided that: “Nothing in this Act \[see Tables for classification\] or any amendment made by this Act shall affect any free mailing privileges accorded under section 3217 or sections 3403 through 3406 of title 39, United States Code.”
+

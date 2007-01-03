@@ -84,7 +84,7 @@
 
 &emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian Head Start programs and migrant and seasonal Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
 
-(ii) Funds allotted under clause (i) shall be used by the Secretary to make grants to Head Start agencies that receive grants from funds allotted under paragraph (4) for such fiscal year, in such amounts as the Secretary considers tobe appropriate, for expenditure for activities specified in subparagraph (C).
+(ii) Funds allotted under clause (i) shall be used by the Secretary to make grants to Head Start agencies that receive grants from funds allotted under paragraph (4) for such fiscal year, in such amounts as the Secretary considers to be appropriate, for expenditure for activities specified in subparagraph (C).
 
 (iii) Funds received under this subparagraph shall be used to supplement, not to supplant, funds received under paragraph (2) or (4).
 
@@ -94,7 +94,7 @@
 
 &emsp;(B) any amount available after all allotments are made under subparagraph (A) for such fiscal year shall be distributed proportionately on the basis of the number of children less than 5 years of age from families whose income is below the poverty line.
 
-> For purposes of this paragraph, for each fiscal year the Secretary shall use the most recent data available on the number of children less than 5 years of age from families whose income is below the poverty line, as published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that use of the most recent data available would be inappropriate or unreliable. If the Secretary and the Secretary of Commerce determine that some or all of the data referred to in this paragraph are inappropriate or unreliable, the Secretaries shall issue a report setting forth their reasons in detail.
+> For purposes of this paragraph, for each fiscal year the Secretary shall use the most recent data available on the number of children less than 5 years of age from families whose income is below the poverty line, as published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that use of the most recent data available would be inappropriate or unreliable. If the Secretary and the Secretary of Commerce determine that some or all of the data referred to in this paragraphare inappropriate or unreliable, the Secretaries shall issue a report setting forth their reasons in detail.
 
 (5)(A) From amounts reserved and allotted pursuant to paragraph (4), the Secretary shall reserve such sums as may be necessary to award the collaboration grants described in subparagraphs (B) and (D).
 
@@ -244,7 +244,7 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 (1) With funds made available under subsection (a)(2) of this section to migrant and seasonal Head Start programs, the Secretary shall give priority to migrant and seasonal Head Start programs that serve eligible children of migrant and seasonal farmworker families whose work requires them to relocate most frequently.
 
-(2) For purposes of subsection (a)(2)(A) of this section, in determining the need and demand for migrant and seasonal Head Start programs (and services provided through such programs), the Secretary shall consult with appropriate entities, including providers of services for migrant and seasonal Head Start programs. The Secretary shall, after taking into consideration the need and demand for migrant and seasonal Head Start programs (and such services), ensure that there is an adequate level of such services for eligible children of migrant farmworkers before approving an increase in the allocation of funds provided under such subsection for unserved eligible children of seasonal farmworkers. In serving the eligible children of seasonal farmworkers, the Secretary shall ensure that services provided by migrant and seasonal Head Start programs do not duplicate or overlap with other Head Start services available to eligible children of such farmworkers.
+(2) For purposes of subsection (a)(2)(A) of this section, in determining the need and demand formigrant and seasonal Head Start programs (and services provided through such programs), the Secretary shall consult with appropriate entities, including providers of services for migrant and seasonal Head Start programs. The Secretary shall, after taking into consideration the need and demand for migrant and seasonal Head Start programs (and such services), ensure that there is an adequate level of such services for eligible children of migrant farmworkers before approving an increase in the allocation of funds provided under such subsection for unserved eligible children of seasonal farmworkers. In serving the eligible children of seasonal farmworkers, the Secretary shall ensure that services provided by migrant and seasonal Head Start programs do not duplicate or overlap with other Head Start services available to eligible children of such farmworkers.
 
 (3) In carrying out this subchapter, the Secretary shall continue the administrative arrangement responsible for meeting the needs of children of migrant and seasonal farmworkers and Indian children and shall ensure that appropriate funding is provided to meet such needs.
 
@@ -348,7 +348,7 @@ Subsec. (<i>l</i>). Pub. L. 105–285, §106(d), designated existing provisions 
 
 Subsec. (a)(2)(A). Pub. L. 103–252, §105(b)(2)(A), substituted “1994” for “1990”.
 
-Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plansunder section 9836a(d)(2) of this title)” after “Secretary”.
+Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)” after “Secretary”.
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
@@ -362,7 +362,7 @@ Subsec. (a)(3)(D)(ii). Pub. L. 103–252, §105(b)(3), substituted “paragraph 
 
 Pub. L. 103–252, §105(a)(4)(B), (E), redesignated cl. (iv) as (ii) and struck out former cl. (ii) which read as follows: “Funds reserved under subparagraph (A) for any fiscal year subsequent to the third fiscal year for which funds are so reserved shall be allotted by the Secretary among the States in the same proportion as the Secretary allots funds among the States under paragraph (5) for the respective subsequent fiscal year.”
 
-Subsec. (a)(3)(D)(iii). Pub. L. 103–252, §105(a)(4)(B), (E), redesignated cl. (vi) as (iii) and struck out former cl. (iii) which read as follows: “To be expended for the activities specified in subparagraph (A) in the first fiscal, second, and third fiscal years for which funds are required by such subparagraph to be reserved, funds allotted under clause (i)(I) shall be used by the Secretary to make a grant to each Head Start agency that receives a grant from funds allotted under paragraph (5) for such fiscal year, in the amount that bears the same ratio to the amount allotted under clause (i)(I) for such fiscal year for the State in which such agency is located as the number of children participating in the Head Start program of such agency in such fiscal year bears to the number of children participating in all Head Start programs in such State in such fiscal year.”
+Subsec. (a)(3)(D)(iii). Pub. L. 103–252, §105(a)(4)(B), (E), redesignated cl. (vi) as (iii) and struck out former cl. (iii) which read as follows: “To be expended for the activities specified in subparagraph (A) in the first fiscal,second, and third fiscal years for which funds are required by such subparagraph to be reserved, funds allotted under clause (i)(I) shall be used by the Secretary to make a grant to each Head Start agency that receives a grant from funds allotted under paragraph (5) for such fiscal year, in the amount that bears the same ratio to the amount allotted under clause (i)(I) for such fiscal year for the State in which such agency is located as the number of children participating in the Head Start program of such agency in such fiscal year bears to the number of children participating in all Head Start programs in such State in such fiscal year.”
 
 Subsec. (a)(3)(D)(iv). Pub. L. 103–252, §105(a)(4)(E), redesignated cl. (iv) as (ii).
 

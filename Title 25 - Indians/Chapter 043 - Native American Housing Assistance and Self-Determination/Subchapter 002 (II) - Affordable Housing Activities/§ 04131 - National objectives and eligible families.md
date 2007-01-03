@@ -36,7 +36,7 @@ The national objectives of this chapter are—
 
 &emsp;&emsp;&emsp;(i) is employed on a full-time basis by the Federal Government or a State, county, or lawfully recognized tribal government; and
 
-&emsp;&emsp;&emsp;(ii) in implementing such full-time employment, is sworn to uphold, and makearrests for, violations of Federal, State, county, or tribal law; and
+&emsp;&emsp;&emsp;(ii) in implementing such full-time employment, is sworn to uphold, and make arrests for, violations of Federal, State, county, or tribal law; and
 
 &emsp;&emsp;(B) the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
 

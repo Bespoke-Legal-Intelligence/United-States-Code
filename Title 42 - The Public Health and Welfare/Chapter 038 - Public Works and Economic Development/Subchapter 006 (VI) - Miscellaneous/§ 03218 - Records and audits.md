@@ -14,7 +14,7 @@ Each recipient of assistance under this chapter shall keep such records as the S
 
 #### (b) Access to books for examination and audit
 
-The Secretary, the Inspector General of the Department, and the Comptroller General of theUnited States, or any duly authorized representative, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that relate to assistance received under this chapter.
+The Secretary, the Inspector General of the Department, and the Comptroller General of the United States, or any duly authorized representative, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that relate to assistance received under this chapter.
 
 (Pub. L. 89–136, title VI, §608, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3616.)
 

@@ -8,7 +8,7 @@ Each application for an order approving electronic surveillance under this subch
 
 &emsp;(2) the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;
 
-&emsp;(3) the identity, if known, or a description of the target of the electronic surveillance;
+&emsp;(3) the identity, if known, or a description of the specific target of the electronic surveillance;
 
 &emsp;(4) a statement of the facts and circumstances relied upon by the applicant to justify his belief that—
 
@@ -70,17 +70,15 @@ The judge may require the applicant to furnish such other information as may be 
 
 (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
+(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §108(a)(1), Mar. 9, 2006, 120 Stat. 203.)
 
 #### Amendments
 
+2006—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
+
 2004—Subsec. (e)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2001—Subsec. (a)(7)(B). Pub. L. 107–56, §§218, 224, temporarily substituted “a significant purpose” for “the purpose”. See Termination Date of 2001 Amendment note below.
+2001—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
 
 2000—Subsec. (e). Pub. L. 106–567 added subsec. (e).
 
@@ -89,10 +87,6 @@ The judge may require the applicant to furnish such other information as may be 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
-
-#### Termination Date of 2001 Amendment
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Designation of Certain Officials To Make Certifications
 

@@ -2,7 +2,7 @@
 
 #### (a) Assessment of penalty
 
-Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 1857 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining theamount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, <i>Provided</i>, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
+Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 1857 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, <i>Provided</i>, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
 
 #### (b) Review of civil penalty
 
@@ -46,9 +46,13 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 (4) In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
 
-(5) No sanctions shall be imposed under this subsection unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
+(5) No sanctions shall be imposed under this subsection unless there has been a prior opportunity for a hearing on the facts underlying theviolation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
 
 (Pub. L. 94–265, title III, §308, Apr. 13, 1976, 90 Stat. 356; Pub. L. 97–453, §10, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §108, Nov. 14, 1986, 100 Stat. 3713; Pub. L. 101–627, title I, §114(a), Nov. 28, 1990, 104 Stat. 4454; Pub. L. 104–297, title I, §114(a)–(c), Oct. 11, 1996, 110 Stat. 3598, 3599.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (g)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

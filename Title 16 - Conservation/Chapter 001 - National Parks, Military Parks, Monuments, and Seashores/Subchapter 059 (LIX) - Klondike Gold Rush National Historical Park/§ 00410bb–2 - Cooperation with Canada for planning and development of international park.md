@@ -26,7 +26,7 @@ Section 3(a) of U.S. Public Law 94–323 \[16 U.S.C. 410bb–2(a)\] states, “A
 
 NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, by virtue of the authority vested in me by section 3(a) of Public Law 94–323 \[16 U.S.C. 410bb–2(a)\] of June 30, 1976, do proclaim that Klondike Gold Rush National Historical Park is designated and included as part of an international historical park to be known as Klondike Gold Rush International Historical Park.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this fifth day of August, in the year of our Lord nineteen hundred and ninety-eight, and of the Independence of the United States of America the two hundred and twenty-third.
+IN WITNESS WHEREOF, I have hereunto set my hand this fifth day of August, in the year of our Lordnineteen hundred and ninety-eight, and of the Independence of the United States of America the two hundred and twenty-third.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

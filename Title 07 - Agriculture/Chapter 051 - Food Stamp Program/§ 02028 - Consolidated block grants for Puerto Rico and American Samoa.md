@@ -46,7 +46,7 @@
 
 #### (D) Carryover of funds
 
-&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of the funds made available under this paragraph for the fiscal year to each governmental entity may be carried over to the following fiscal year.
+&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of the funds made available under this paragraphfor the fiscal year to each governmental entity may be carried over to the following fiscal year.
 
 #### (3) Time and manner of payments to Commonwealth of Puerto Rico
 
@@ -94,7 +94,7 @@ Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fra
 
 #### Amendments
 
-2002—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and AmericanSamoa” for “Puerto Rico block grant” in section catchline.
+2002—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §4124(a)(1), inserted heading, added pars. (1) and (2), redesignated former par. (2) as (3) and inserted heading, and struck out former par. (1) which read as follows:
 

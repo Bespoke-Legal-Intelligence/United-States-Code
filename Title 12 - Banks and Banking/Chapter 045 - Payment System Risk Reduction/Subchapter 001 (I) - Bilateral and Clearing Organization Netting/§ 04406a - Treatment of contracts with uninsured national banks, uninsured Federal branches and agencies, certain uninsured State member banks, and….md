@@ -44,5 +44,5 @@ A prior section 407 of Pub. L. 102–242 was renumbered section 407A and is clas
 
 #### Effective Date
 
-Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of Title 11.
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of Title 11.
 

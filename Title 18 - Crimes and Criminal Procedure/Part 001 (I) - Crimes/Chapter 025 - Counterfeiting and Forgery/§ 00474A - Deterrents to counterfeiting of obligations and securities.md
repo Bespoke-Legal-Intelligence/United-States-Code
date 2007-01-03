@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in which the United States has an exclusive property interest; or
 
-&emsp;&emsp;(B) which is not otherwise in commercial use or in the public domain and which the Secretary designates as being necessary in preventing the counterfeiting of obligations or other securities of the United States.
+&emsp;&emsp;(B) which is not otherwise in commercial use or in the public domain and which the Secretary designates as being necessary inpreventing the counterfeiting of obligations or other securities of the United States.
 
 (Added Pub. L. 102–550, title XV, §1553(a), Oct. 28, 1992, 106 Stat. 4070; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(a)\], title II, §2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
 

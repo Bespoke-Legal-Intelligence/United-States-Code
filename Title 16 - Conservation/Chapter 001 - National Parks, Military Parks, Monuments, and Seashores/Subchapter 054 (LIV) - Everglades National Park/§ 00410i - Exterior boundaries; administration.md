@@ -70,7 +70,7 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;thence easterly along the south line of section 22, township 53 south, range 29 east, to the southeast corner of said section 22;
 
-&emsp;thence southerly along the west line of section 26, township 53 south, range 29 east, to thesouthwest corner of the northwest quarter of said section 26;
+&emsp;thence southerly along the west line of section 26, township 53 south, range 29 east, to the southwest corner of the northwest quarter of said section 26;
 
 &emsp;thence easterly to the center of section 26, township 53 south, range 29 east;
 

@@ -32,13 +32,15 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2006.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2007.
 
-(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §687(b)(34), Jan. 6, 2006, 119 Stat. 3333.)
+(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §687(b)(34), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 109–364, div. A, title VI, §614(g), Oct. 17, 2006, 120 Stat. 2249.)
 
 #### Amendments
 
 2006—Subsec. (e). Pub. L. 109–163, amended heading and text of subsec. (e) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when member fails to serve in specified military occupational specialty for agreed upon period.
+
+Subsec. (g). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
 
 2004—Subsec. (a). Pub. L. 108–375, §622(a)(1), inserted “of a regular or reserve component” after “an eligible member”.
 

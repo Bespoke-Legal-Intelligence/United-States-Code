@@ -6,7 +6,7 @@ Definitions.—In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Aircraft.—The term “aircraft” means a civil, military, or public contrivance invented,used, or designed to navigate, fly, or travel in the air.
+Aircraft.—The term “aircraft” means a civil, military, or public contrivance invented, used, or designed to navigate, fly, or travel in the air.
 
 &emsp;(2)
 
@@ -94,7 +94,7 @@ Section 2015 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–181, title V, §506(a), Apr. 5, 2000, 114 Stat. 136, provided that: “This section \[enacting section 38 ofthis title and amending this section and section 2516 of this title\] may be cited as the ‘Aircraft Safety Act of 2000’.”
+Pub. L. 106–181, title V, §506(a), Apr. 5, 2000, 114 Stat. 136, provided that: “This section \[enacting section 38 of this title and amending this section and section 2516 of this title\] may be cited as the ‘Aircraft Safety Act of 2000’.”
 
 #### Short Title of 1984 Amendment
 

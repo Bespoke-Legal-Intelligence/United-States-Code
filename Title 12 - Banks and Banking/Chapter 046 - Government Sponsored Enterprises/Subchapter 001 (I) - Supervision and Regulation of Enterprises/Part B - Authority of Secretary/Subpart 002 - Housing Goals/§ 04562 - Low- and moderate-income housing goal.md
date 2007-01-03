@@ -60,7 +60,7 @@ In establishing the goal under this section, the Secretary shall consider—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L.102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 The Federal National Mortgage Association Charter Act, referred to in subsec. (a), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, as amended, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 

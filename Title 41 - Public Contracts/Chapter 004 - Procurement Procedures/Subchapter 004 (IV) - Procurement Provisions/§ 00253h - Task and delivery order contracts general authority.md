@@ -16,7 +16,7 @@ The solicitation for a task or delivery order contract shall include the followi
 
 #### (c) Applicability of restriction on use of noncompetitive procedures
 
-The head of an executive agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in subsection (c) of section 253 of this title applies to the contract and the use of such procedures isapproved in accordance with subsection (f) of such section.
+The head of an executive agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in subsection (c) of section 253 of this title applies to the contract and the use of such procedures is approved in accordance with subsection (f) of such section.
 
 #### (d) Single and multiple contract awards
 

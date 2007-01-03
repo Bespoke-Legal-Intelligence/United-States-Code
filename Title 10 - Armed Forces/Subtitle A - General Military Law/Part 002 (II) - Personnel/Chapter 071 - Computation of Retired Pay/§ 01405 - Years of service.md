@@ -50,7 +50,7 @@ The change corrects a typographical error.
 
 #### 1982 Act
 
-This amends 10:1405 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. Under provisions of law first enacted in 1948 through the codification of title 10 in 1956 and until 1965, warrant officers advanced on the retired list received credit for inactive service in the computation of retirement pay. The Comptroller General in 1965 (B–156576) held in effect that computation of such retirement pay was governed by the wording of new title 10 that based the computation on years of active service only even though this had the result of making a substantive change. The Armed Services Committee of the House of Representatives concurs that an error was made in the codification of title 10 and has indicated that corrective legislative action is properly a responsibility of the House Judiciary Committee. See, also, the amendments to 10:3992 and 8992 made by sections 1(40) and 1(52), respectively.
+This amends 10:1405 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirementpay of warrant officers advanced on the retired list. Under provisions of law first enacted in 1948 through the codification of title 10 in 1956 and until 1965, warrant officers advanced on the retired list received credit for inactive service in the computation of retirement pay. The Comptroller General in 1965 (B–156576) held in effect that computation of such retirement pay was governed by the wording of new title 10 that based the computation on years of active service only even though this had the result of making a substantive change. The Armed Services Committee of the House of Representatives concurs that an error was made in the codification of title 10 and has indicated that corrective legislative action is properly a responsibility of the House Judiciary Committee. See, also, the amendments to 10:3992 and 8992 made by sections 1(40) and 1(52), respectively.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Amendment by section 1662(j)(3) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Effective Date of 1962 Amendment
 

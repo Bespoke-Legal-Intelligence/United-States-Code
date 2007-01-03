@@ -2,7 +2,7 @@
 
 #### (a) Authorization; time for agreement; use of funds
 
-The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affectedas a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
+The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affected as a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
 
 &emsp;(1) Subsistence allowances to employees.
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 96–448 substituted “5 days after October 14, 1980” fo
 
 Subsec. (c). Pub. L. 96–448 reenacted subsec. (c) without change.
 
-Subsec. (d). Pub. L. 96–448 substituted provision that any order of the Commission or bankruptcy court be appealed only to the United States Court of Appeals for the Seventh Circuit for provision that an order of the Commission not be stayed by the Commission or any other court, an order by the bankruptcy court not be stayed by any other court, appeals of Commission or bankruptcy court orders only be made to the court of appeals of the United States having jurisdiction to review decisions and orders of the bankruptcy court, and no determinations of the court of appeals be review in any other court.
+Subsec. (d). Pub. L. 96–448 substituted provision that any order of the Commission or bankruptcy court beappealed only to the United States Court of Appeals for the Seventh Circuit for provision that an order of the Commission not be stayed by the Commission or any other court, an order by the bankruptcy court not be stayed by any other court, appeals of Commission or bankruptcy court orders only be made to the court of appeals of the United States having jurisdiction to review decisions and orders of the bankruptcy court, and no determinations of the court of appeals be review in any other court.
 
 Subsec. (e). Pub. L. 96–448 reenacted subsec. (e) without change.
 

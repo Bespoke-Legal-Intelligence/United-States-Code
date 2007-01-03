@@ -10,7 +10,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 &emsp;&emsp;(A) is developed by the jurisdiction;
 
-&emsp;&emsp;(B) takes into consideration comments from the public hearing, any other public comments on the proposed program, and comments from current and prospective residents who would be affected; and
+&emsp;&emsp;(B) takes into consideration comments from the public hearing, any other public comments on the proposed program, andcomments from current and prospective residents who would be affected; and
 
 &emsp;&emsp;(C) identifies each term or condition for which the jurisdiction is requesting waiver under section 1437bbb–3(a)(1) of this title;
 

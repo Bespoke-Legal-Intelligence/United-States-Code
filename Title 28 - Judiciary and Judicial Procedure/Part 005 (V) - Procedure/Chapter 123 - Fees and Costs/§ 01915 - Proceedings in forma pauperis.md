@@ -12,7 +12,7 @@
 
 &emsp;(B) the average monthly balance in the prisoner's account for the 6-month period immediately preceding the filing of the complaint or notice of appeal.
 
-(2) After payment of the initial partial filing fee, the prisoner shall be required to make monthly payments of 20 percent of the preceding month's income credited to the prisoner's account. The agency having custody of the prisoner shall forward payments from the prisoner's account to the clerk of the court each time theamount in the account exceeds $10 until the filing fees are paid.
+(2) After payment of the initial partial filing fee, the prisoner shall be required to makemonthly payments of 20 percent of the preceding month's income credited to the prisoner's account. The agency having custody of the prisoner shall forward payments from the prisoner's account to the clerk of the court each time the amount in the account exceeds $10 until the filing fees are paid.
 
 (3) In no event shall the filing fee collected exceed the amount of fees permitted by statute for the commencement of a civil action or an appeal of a civil action or criminal judgment.
 
@@ -78,7 +78,7 @@ This amendment clarifies the meaning of subsection (b) of section 1915 of title 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”,struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
+1996—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”, struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
 
 Subsec. (b). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(3)\], added subsec. (b). Former subsec. (b) redesignated (c).
 

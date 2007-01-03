@@ -14,7 +14,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (1) Not to exceed $6,000,000 in appropriations
 
-&emsp;Of the amount appropriated for a fiscal year to carry out this section (but not to exceed $6,000,000), the Secretary shall distribute funds for grants under subsection (a) of this section as follows:
+&emsp;Of the amount appropriated for a fiscal year to carry out this section (but not to exceed $6,000,000), the Secretary shall distribute fundsfor grants under subsection (a) of this section as follows:
 
 #### (A) Allotments
 
@@ -86,5 +86,5 @@ A prior section 681 of Pub. L. 97–35 was classified to section 9910 of this ti
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

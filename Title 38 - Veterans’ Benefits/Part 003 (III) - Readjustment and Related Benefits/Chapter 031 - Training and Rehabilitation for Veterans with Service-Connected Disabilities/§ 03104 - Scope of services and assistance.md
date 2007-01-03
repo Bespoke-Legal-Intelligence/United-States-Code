@@ -110,6 +110,52 @@ Exceptions.—(1) The following provisions of or amendments made by this Act sha
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
+#### Blind Rehabilitation Outpatient Specialists
+
+Pub. L. 109–461, title II, §207, Dec. 22, 2006, 120 Stat. 3412, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) There are approximately 135,000 blind veterans throughout the United States, including approximately 35,000 who are enrolled with the Department of Veterans Affairs. An aging veteran population and injuries incurred in Operation Iraqi Freedom and Operation Enduring Freedom are increasing the number of blind veterans.
+
+&emsp;“(2) Since 1996, when the Department of Veterans Affairs hired its first 14 blind rehabilitation outpatient specialists (referred to in this section as ‘Specialists’), Specialists have been a critical part of the continuum of care for blind and visually impaired veterans.
+
+&emsp;“(3) The Department of Veterans Affairs operates 10 residential blind rehabilitation centers that are considered among the best in the world. These centers have had long waiting lists, with as many as 1,500 blind veterans waiting for openings in 2004.
+
+&emsp;“(4) Specialists provide—
+
+&emsp;&emsp;“(A) critically needed services to veterans who are unable to attend residential centers or are waiting to enter a residential center program;
+
+&emsp;&emsp;“(B) a range of services for blind veterans, including training with living skills, mobility, and adaptation of manual skills; and
+
+&emsp;&emsp;“(C) pre-admission screening and follow-up care for blind rehabilitation centers.
+
+&emsp;“(5) There are not enough Specialist positions to meet the increased numbers and needs of blind veterans.
+
+“(b)
+
+Establishment of Additional Specialist Positions.—Not later than 30 months after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall establish an additional Specialist position at not fewer than 35 additional facilities of the Department of Veterans Affairs.
+
+“(c)
+
+Selection of Facilities.—In identifying the most appropriate facilities to receive a Specialist position under this section, the Secretary shall—
+
+&emsp;“(1) give priority to facilities with large numbers of enrolled legally blind veterans;
+
+&emsp;“(2) ensure that each facility does not have such a position; and
+
+&emsp;“(3) ensure that each facility is in need of the services of a Specialist.
+
+“(d)
+
+Coordination.—The Secretary shall coordinate the provision of blind rehabilitation services for veterans with services for the care of the visually impaired offered by State and local agencies, especially to the extent to which such State and local agencies can provide necessary services to blind veterans in settings located closer to the residences of such veterans at similar quality and cost to the veteran.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated for the Department of Veterans Affairs to carry out this section $3,500,000 for each of fiscal years 2007 through 2012.”
+
 #### Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1504 of This Title
 
 During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.

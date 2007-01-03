@@ -1,6 +1,6 @@
 ### §473. Content of civil justice expense and delay reduction plans
 
-(a) In formulating the provisions of its civil justice expense and delay reduction plan, eachUnited States district court, in consultation with an advisory group appointed under section 478 of this title, shall consider and may include the following principles and guidelines of litigation management and cost and delay reduction:
+(a) In formulating the provisions of its civil justice expense and delay reduction plan, each United States district court, in consultation with an advisory group appointed under section 478 of this title, shall consider and may include the following principles and guidelines of litigation management and cost and delay reduction:
 
 &emsp;(1) systematic, differential treatment of civil cases that tailors the level of individualized and case specific management to such criteria as case complexity, the amount of time reasonably needed to prepare the case for trial, and the judicial and other resources required and available for the preparation and disposition of the case;
 

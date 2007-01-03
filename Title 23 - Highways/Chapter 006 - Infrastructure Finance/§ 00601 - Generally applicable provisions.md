@@ -76,7 +76,7 @@ Project obligation.—The term “project obligation” means any note, bond, de
 
 &emsp;(10)
 
-Rating agency.—The term “rating agency” means a credit rating agency identified by the Securities and Exchange Commission as a Nationally Recognized Statistical Rating Organization.
+Rating agency.—The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization, as that term is defined in section 3(a) of the Securities Exchange Act of 1934.
 
 &emsp;(11)
 
@@ -98,7 +98,7 @@ Substantial completion.—The term “substantial completion” means the openin
 
 Treatment of Chapter.—For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338.)
 
 #### References in Text
 
@@ -106,9 +106,13 @@ The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, 
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(4), is set out in Title 26, Internal Revenue Code.
 
+Section 3(a) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(10), is classified to section 78c(a) of Title 15, Commerce and Trade.
+
 The Federal Credit Reform Act of 1990, referred to in subsec. (a)(13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(10). Pub. L. 109–291, which directed amendment of section 181(11) of this title by substituting “registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization, as that term is defined in section 3(a) of the Securities Exchange Act of 1934” for “identified by the Securities and Exchange Commission as a nationally recognized statistical rating organization”, was executed to subsec. (a)(10) of this section by making the substitution for “identified by the Securities and Exchange Commission as a Nationally Recognized Statistical Rating Organization” to reflect the probable intent of Congress and the amendment by Pub. L. 109–59. See 2005 Amendment notes below.
 
 2005—Pub. L. 109–59, §1602(d), renumbered section 181 of this title as this section.
 

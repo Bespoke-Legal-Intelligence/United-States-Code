@@ -24,7 +24,7 @@ For the purpose of this chapter—
 
 &emsp;(3) “Government” means the Government of the United States and the government of the District of Columbia;
 
-&emsp;(4) “training” means the process of providing for and making available to an employee, and placing or enrolling the employee in, a planned, prepared, and coordinated program, course, curriculum, subject, system, or routine of instruction or education, in scientific, professional, technical, mechanical, trade, clerical, fiscal, administrative, or other fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;
+&emsp;(4) “training” means the process of providing for and making available to an employee, and placing or enrolling the employee in, a planned, prepared, and coordinated program,course, curriculum, subject, system, or routine of instruction or education, in scientific, professional, technical, mechanical, trade, clerical, fiscal, administrative, or other fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;
 
 &emsp;(5) “Government facility” means property owned or substantially controlled by the Government and the services of any civilian and military personnel of the Government; and
 
@@ -32,7 +32,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(A) the government of a State or of a territory or possession of the United States including the Commonwealth of Puerto Rico, and an interstate governmental organization, or a unit, subdivision, or instrumentality of any of the foregoing;
 
-&emsp;&emsp;(B) a foreign government or international organization, or instrumentality of either,which is designated by the President as eligible to provide training under this chapter;
+&emsp;&emsp;(B) a foreign government or international organization, or instrumentality of either, which is designated by the President as eligible to provide training under this chapter;
 
 &emsp;&emsp;(C) a medical, scientific, technical, educational, research, or professional institution, foundation, or organization;
 

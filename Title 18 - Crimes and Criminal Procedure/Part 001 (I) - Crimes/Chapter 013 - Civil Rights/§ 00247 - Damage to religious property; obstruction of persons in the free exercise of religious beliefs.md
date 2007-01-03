@@ -22,7 +22,7 @@
 
 &emsp;(4) in any other case, a fine in accordance with this title and imprisonment for not more than one year, or both.
 
-(e) No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General or his designee that in his judgment a prosecution by the United Statesis in the public interest and necessary to secure substantial justice.
+(e) No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General or his designee that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice.
 
 (f) As used in this section, the term “religious real property” means any church, synagogue, mosque, religious cemetery, or other religious real property, including fixtures or religious objects contained within a place of religious worship.
 

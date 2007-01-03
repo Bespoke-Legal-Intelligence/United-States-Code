@@ -20,7 +20,7 @@ Requirement for Appointment.—(1) The President may appoint an officer as Vice 
 
 (c)
 
-Duties.—The Vice Chairman performs the duties prescribed for him as a member of theJoint Chiefs of Staff and such other duties as may be prescribed by the Chairman with the approval of the Secretary of Defense.
+Duties.—The Vice Chairman performs the duties prescribed for him as a member of the Joint Chiefs of Staff and such other duties as may be prescribed by the Chairman with the approval of the Secretary of Defense.
 
 (d)
 

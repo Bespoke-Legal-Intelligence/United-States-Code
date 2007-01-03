@@ -22,3 +22,4 @@
 - [Part O - Fetal Alcohol Syndrome Prevention and Services Program](Part%20O%20-%20Fetal%20Alcohol%20Syndrome%20Prevention%20and%20Services%20Program/README.md)
 - [Part P - Additional Programs](Part%20P%20-%20Additional%20Programs/README.md)
 - [Part Q - Programs to Improve the Health of Children](Part%20Q%20-%20Programs%20to%20Improve%20the%20Health%20of%20Children/README.md)
+- [Part R - Programs Relating to Autism](Part%20R%20-%20Programs%20Relating%20to%20Autism/README.md)

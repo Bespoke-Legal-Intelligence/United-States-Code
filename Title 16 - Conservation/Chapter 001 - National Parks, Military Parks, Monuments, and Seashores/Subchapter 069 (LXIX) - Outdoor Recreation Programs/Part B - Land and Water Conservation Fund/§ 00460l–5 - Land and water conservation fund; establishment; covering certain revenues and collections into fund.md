@@ -44,7 +44,7 @@ Subsec. (a). Pub. L. 94–422 reenacted subsec. (a) without change except for re
 
 Subsec. (b). Pub. L. 94–422 reenacted subsec. (b) without change.
 
-Subsec. (c)(1). Pub. L. 94–422 substituted “$300,000,000 for fiscal year 1977, $600,000,000 for fiscal year 1978, $750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980 and for each fiscal year thereafter through September 30, 1989.” for “$200,000,000 for each of the fiscal years 1968, 1969, and 1970, and not less than $300,000,000 for each fiscal year thereafter through September 30, 1989.”.
+Subsec. (c)(1). Pub. L. 94–422 substituted “$300,000,000 for fiscal year 1977, $600,000,000 for fiscal year 1978, $750,000,000 for fiscal year 1979, and $900,000,000 for fiscalyear 1980 and for each fiscal year thereafter through September 30, 1989.” for “$200,000,000 for each of the fiscal years 1968, 1969, and 1970, and not less than $300,000,000 for each fiscal year thereafter through September 30, 1989.”.
 
 Subsec. (c)(2). Pub. L. 94–422 substituted “equivalent to the amounts” for “amount to $200,000,000 or $300,000,000 for each of such fiscal years, as”.
 
@@ -100,7 +100,7 @@ Sec. 2. <i>Designation of areas for years after 1965</i>. (a) Subject to the pro
 
 (2) Whenever, in accordance with subsection (b) of this section, it is determined that a recreation user fee should be charged with respect to an area with respect to which no such fee has theretofore been charged, such new fee shall be charged only after the posting requirements of Section 4 of this Order have been satisfied.
 
-Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of this Order and to the extent permitted by the Act, be designated as areas at which recreation user fees shall be charged if the following conditions are found to exist concurrently:
+Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of thisOrder and to the extent permitted by the Act, be designated as areas at which recreation user fees shall be charged if the following conditions are found to exist concurrently:
 
 (1) The area is administered by any of the eight agencies specified in Section 1(a) of this Order;
 
@@ -120,7 +120,7 @@ Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b
 
 Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consultation with the heads of other affected departments and agencies, adopt such coordination measures as are necessary to carry out the purposes of Sections 2(a) and 4(a) of the Act \[subsec. (a) of this section and section 460<i>l</i>–7(a) of this title\] and the provisions of this order.
 
-(b)(1) In order that the purposes of the Act and of this Order may be effectuated without delay, the Secretary of the Interior shall, subject to the limitations imposedby the Act and without regard to the other provisions of this section, forthwith issue a schedule of recreation user fees and criteria to be used in determining which such fees shall be charged with respect to each of the designated areas.
+(b)(1) In order that the purposes of the Act and of this Order may be effectuated without delay, the Secretary of the Interior shall, subject to the limitations imposed by the Act and without regard to the other provisions of this section, forthwith issue a schedule of recreation user fees and criteria to be used in determining which such fees shall be charged with respect to each of the designated areas.
 
 (2) Subject to the limitations imposed by the Act and subject to the provisions of subsections (a), (c), and (d) of this section, the Secretary of the Interior may, from time to time, amend or replace the schedule of fees and the criteria prescribed by him pursuant to subsection (b)(1) of this section.
 

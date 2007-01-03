@@ -52,7 +52,7 @@
 
 (7)(A) In the case of automatic commercial ice makers, the test procedures shall be the test procedures specified in Air-Conditioning and Refrigeration Institute Standard 810–2003, as in effect on January 1, 2005.
 
-(B)(i) If Air-Conditioning and Refrigeration Institute Standard 810–2003 is amended, the Secretary shall amend the test procedures established in subparagraph (A) as necessary to be consistent with the amended Air-Conditioning and Refrigeration Institute Standard, unless the Secretary determines, by rule, published in the Federal Register and supported by clear andconvincing evidence, that to do so would not meet the requirements for test procedures under paragraphs (2) and (3).
+(B)(i) If Air-Conditioning and Refrigeration Institute Standard 810–2003 is amended, the Secretary shall amend the test procedures established in subparagraph (A) as necessary to be consistent with the amended Air-Conditioning and Refrigeration Institute Standard, unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures under paragraphs (2) and (3).
 
 (ii) If the Secretary issues a rule under clause (i) containing a determination described in clause (ii), the rule may establish an amended test procedure for the product that meets the requirements of paragraphs (2) and (3).
 

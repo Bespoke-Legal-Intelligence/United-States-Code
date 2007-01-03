@@ -12,7 +12,7 @@ The purposes of this subchapter are—
 
 &emsp;(5) to improve the effectiveness of laws applicable to the regulatory process.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, §571; renumbered §591, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 108–401, §2(a), Oct. 30, 2004, 118 Stat. 2255.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, §571; renumbered §591, Pub. L. 102–354, §2(2), Aug. 26,1992, 106 Stat. 944; Pub. L. 108–401, §2(a), Oct. 30, 2004, 118 Stat. 2255.)
 
 Historical and Revision Notes
 

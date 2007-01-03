@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, inconnection with or as a result of the commission of any act prohibited by section 1857 of this title (other than any act for which the issuance of a citation under section 1861(c) of this title is sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
+Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 1857 of this title (other than any act for which the issuance of a citation under section 1861(c) of this title is sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
 #### (b) Jurisdiction of district courts
 
@@ -43,6 +43,8 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 (Pub. L. 94–265, title III, §310, Apr. 13, 1976, 90 Stat. 357; Pub. L. 97–453, §12, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §109(a), Nov. 14, 1986, 100 Stat. 3714; Pub. L. 101–627, title I, §116, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 104–297, title I, §114(d), Oct. 11, 1996, 110 Stat. 3599.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The customs laws, referred to in subsec. (c), are classified generally to Title 19, Customs Duties.
 

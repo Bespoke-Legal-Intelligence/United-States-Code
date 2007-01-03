@@ -54,7 +54,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) is located within the John H. Chafee Coastal Barrier Resources System; or
 
-&emsp;&emsp;&emsp;(ii) is undeveloped, greater than 50 acres in size, and adjacent to or contiguous with any lands managed by a governmental agency primarily for wildlife refuge, sanctuary, open space, recreational, historical, cultural, or natural resource conservation purposes.
+&emsp;&emsp;&emsp;(ii) is undeveloped, greater than 50 acres in size, and adjacent to or contiguous withany lands managed by a governmental agency primarily for wildlife refuge, sanctuary, open space, recreational, historical, cultural, or natural resource conservation purposes.
 
 #### (3) Governmental agency
 

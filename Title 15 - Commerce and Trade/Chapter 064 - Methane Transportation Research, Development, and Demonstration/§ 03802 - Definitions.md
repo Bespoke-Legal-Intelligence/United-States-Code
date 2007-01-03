@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(e) the term “vehicle” means any truck, van, station wagon, bus, or car used on public roads or highways as well as off-road agricultural equipment, such as tractors, harvesters, and so forth, which presently burn gasoline or diesel fuel; and
 
-&emsp;(f) the terms “facilities for the transmission and storage of methane”, “methane transmission, storage and dispensing facilities”, and any variant thereof means such facilities which are (1) directly necessary for the conduct of a demonstration, (2) for the exclusiveuse of a demonstration and (3) reasonably incidental to a demonstration.
+&emsp;(f) the terms “facilities for the transmission and storage of methane”, “methane transmission, storage and dispensing facilities”, and any variant thereof means such facilities which are (1) directly necessary for the conduct of a demonstration, (2) for the exclusive use of a demonstration and (3) reasonably incidental to a demonstration.
 
 (Pub. L. 96–512, §3, Dec. 12, 1980, 94 Stat. 2828.)
 

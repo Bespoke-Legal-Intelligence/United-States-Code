@@ -4,7 +4,7 @@
 
 In General.—In carrying out the purposes of this subtitle, the Appalachian Regional Commission shall—
 
-&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs and establish priorities under those plans andprograms, giving due consideration to other federal, state, and local planning in the Appalachian region;
+&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs and establish priorities under those plans and programs, giving due consideration to other federal, state, and local planning in the Appalachian region;
 
 &emsp;(2) conduct and sponsor investigations, research, and studies, including an inventory and analysis of the resources of the region, and, in cooperation with federal, state, and local agencies, sponsor demonstration projects designed to foster regional productivity and growth;
 
@@ -48,5 +48,5 @@ Pub. L. 89–4, title I, §102, Mar. 9, 1965, 79 Stat. 7; Pub. L. 90–103, titl
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, suchcouncil is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

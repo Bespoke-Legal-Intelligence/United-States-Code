@@ -18,13 +18,13 @@ Contract Requirements.—A contract described in section 3701 of this title, and
 
 (c)
 
-Liquidated Damages.—Liquidated damages under subsection (b)(2)(B) shall be computed for each individual employed as a laborer or mechanic in violation of this chapter and shall be equal to $10 for each calendar day on which the individual was required or permitted to work in excess of the standard workweek without payment of the overtime wages required by this chapter.
+Liquidated Damages.—Liquidated damages under subsection (b)(2)(B) shall be computed foreach individual employed as a laborer or mechanic in violation of this chapter and shall be equal to $10 for each calendar day on which the individual was required or permitted to work in excess of the standard workweek without payment of the overtime wages required by this chapter.
 
 (d)
 
-Amounts Withheld to Satisfy Liabilities.—Subject to section 3703 of this title, the governmental agency for which the contract work is done or which is providing financial assistance for the work may withhold, or have withheld, from money payable because of work performed by a contractor or subcontractor, amounts administratively determined to be necessary to satisfy the liabilities of the contractor or subcontractor for unpaid wages and liquidated damages as provided in this section.
+Amounts Withheld To Satisfy Liabilities.—Subject to section 3703 of this title, the governmental agency for which the contract work is done or which is providing financial assistance for the work may withhold, or have withheld, from money payable because of work performed by a contractor or subcontractor, amounts administratively determined to be necessary to satisfy the liabilities of the contractor or subcontractor for unpaid wages and liquidated damages as provided in this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, §6(15), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -55,4 +55,8 @@ Pub. L. 87–581, title I, §102, Aug. 13, 1962, 76 Stat. 357; Pub. L. 99–145,
 40:328(b)(2) (last sentence).
 
 In subsection (a). the words “Notwithstanding any other provision of law” are omitted as unnecessary.
+
+#### Amendments
+
+2006—Subsec. (d). Pub. L. 109–284 substituted “To” for “to” in heading.
 

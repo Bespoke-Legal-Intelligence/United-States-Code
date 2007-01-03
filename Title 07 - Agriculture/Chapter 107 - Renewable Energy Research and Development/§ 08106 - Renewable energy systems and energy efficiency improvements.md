@@ -58,7 +58,11 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (f) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $23,000,000 for each of fiscal years 2003 through 2007.
+Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $23,000,000 for each of fiscal years 2003 through 2006 and $3,000,000 for fiscal year 2007.
 
-(Pub. L. 107–171, title IX, §9006, May 13, 2002, 116 Stat. 482.)
+(Pub. L. 107–171, title IX, §9006, May 13, 2002, 116 Stat. 482; Pub. L. 109–171, title I, §1301, Feb. 8, 2006, 120 Stat. 6.)
+
+#### Amendments
+
+2006—Subsec. (f). Pub. L. 109–171 substituted “2006 and $3,000,000 for fiscal year 2007” for “2007”.
 

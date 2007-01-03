@@ -6,7 +6,7 @@ The President shall, from time to time as occasion may require, but not less tha
 
 #### (b) Annual report on financial contributions
 
-Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extent and disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
+Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extentand disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
 
 #### (c) Annual report
 
@@ -58,7 +58,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(A) the status under international law of members of multinational forces, including the legal status of such personnel if captured, missing, or detained;
 
-&emsp;&emsp;(B) the extent of the risk for United States military personnel who are captured whileparticipating in multinational forces in cases where their captors fail to respect the 1949 Geneva Conventions and other international agreements intended to protect prisoners of war; and
+&emsp;&emsp;(B) the extent of the risk for United States military personnel who are captured while participating in multinational forces in cases where their captors fail to respect the 1949 Geneva Conventions and other international agreements intended to protect prisoners of war; and
 
 &emsp;&emsp;(C) the specific steps that have been taken to protect United States military personnel participating in multinational forces, together (if necessary) with any recommendations for the enactment of legislation to achieve that objective.
 
@@ -78,7 +78,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(A) With respect to ongoing United Nations peacekeeping operations, the following:
 
-&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to be voted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
+&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to bevoted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
 
 &emsp;&emsp;&emsp;(ii) For each such operation, any changes in the duration, mandate, and command and control arrangements that are anticipated as a result of the adoption of the resolution.
 
@@ -142,7 +142,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (B) Annual report
 
-&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by the United States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
+&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by theUnited States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
 
 #### (e) Designated congressional committees
 
@@ -192,7 +192,7 @@ For delegation of congressional reporting functions of President under this sect
 
 #### Consultations and Reports on United Nations Peacekeeping Operations
 
-Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interimbasis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
+Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
 
 #### Designated Congressional Committees
 

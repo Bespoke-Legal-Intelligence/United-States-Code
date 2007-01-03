@@ -34,5 +34,5 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 #### Transfer of Functions
 
-For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
+For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 

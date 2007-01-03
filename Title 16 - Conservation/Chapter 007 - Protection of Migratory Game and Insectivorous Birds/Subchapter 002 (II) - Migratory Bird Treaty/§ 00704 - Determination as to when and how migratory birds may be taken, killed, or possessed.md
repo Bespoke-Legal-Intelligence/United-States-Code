@@ -26,7 +26,7 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Interior of authority vested in President, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
+For delegation to Secretary of the Interior of authority vested in President, see Ex. Ord. No. 10752, Feb. 12,1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
 
 Secretary of the Interior empowered to promulgate regulations under this section without approval, ratification, or other action of President, see section 2(b) of Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
 

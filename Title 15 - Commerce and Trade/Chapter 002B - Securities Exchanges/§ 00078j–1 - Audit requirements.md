@@ -60,7 +60,7 @@ Except as provided in subsection (d) of this section, nothing in this section sh
 
 #### (f) Definitions
 
-As used in this section, the term “illegal act” means an act or omission that violates any law, or any rule or regulation having the force of law. As used in this section, the term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
+As used in this section, the term “illegal act” means an act or omission that violates any law, or any rule or regulation having the force oflaw. As used in this section, the term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
 
 #### (g) Prohibited activities
 
@@ -130,7 +130,7 @@ Each registered public accounting firm that performs for any issuer any audit re
 
 &emsp;(2) all alternative treatments of financial information within generally accepted accounting principles that have been discussed with management officials of the issuer, ramifications of the use of such alternative disclosures and treatments, and the treatment preferred by the registered public accounting firm; and
 
-&emsp;(3) other material written communications between the registered public accounting firm and the management of the issuer, such as any management letter or schedule of unadjusted differences.
+&emsp;(3) other material written communications between the registered public accounting firmand the management of the issuer, such as any management letter or schedule of unadjusted differences.
 
 #### (<i>l</i>) Conflicts of interest
 
@@ -210,7 +210,7 @@ Subsec. (b)(2). Pub. L. 107–204, §205(b)(2), (4)(A), (B), in introductory pro
 
 Subsec. (b)(3). Pub. L. 107–204, §205(b)(2), substituted “the registered public accounting firm” for “the independent public accountant” wherever appearing in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 107–204, §205(b)(1), (4)(A), (C), substituted “a registered public accounting firm” for “an independent public accountant”, “the firm” for “the accountant”, and “the report of the firm” for “the accountant's report”.
+Subsec. (b)(4). Pub. L. 107–204, §205(b)(1), (4)(A), (C), substituted “a registered public accounting firm” for“an independent public accountant”, “the firm” for “the accountant”, and “the report of the firm” for “the accountant's report”.
 
 Subsec. (c). Pub. L. 107–204, §205(b)(3), substituted “No registered public accounting firm” for “No independent public accountant”.
 

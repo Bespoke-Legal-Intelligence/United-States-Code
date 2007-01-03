@@ -28,7 +28,7 @@
 
 &emsp;(B) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 2.9.
 
-&emsp;(C) The minimum energy efficiency ratio of water- and evaporatively-cooled central airconditioners and central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 9.6 (according to ARI Standard 360–86).
+&emsp;(C) The minimum energy efficiency ratio of water- and evaporatively-cooled central air conditioners and central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 9.6 (according to ARI Standard 360–86).
 
 (3) Each packaged terminal air conditioner and packaged terminal heat pump manufactured on or after January 1, 1994, shall meet the following standard levels:
 
@@ -62,7 +62,7 @@
 
 &emsp;(G) Storage water heaters and hot water storage tanks having more than 140 gallons of storage capacity need not meet the standby loss or heat loss requirements specified in subparagraphs (A) through (C) and subparagraphs (E) and (F) if the tank surface area is thermally insulated to R–12.5 and if a standing pilot light is not used.
 
-(6)(A)(i) If ASHRAE/IES Standard 90.1, as in effect on January 1, 2010, is amended with respect to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, and very large commercial package air conditioning and heating equipment, or if ASHRAE/IES Standard 90.1, as in effect on October 24, 1992, is amended with respect to any packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, the Secretary shall establish an amended uniform national standard for that product at the minimum level for each effective date specified in the amended ASHRAE/IES Standard 90.1, unless the Secretary determines, by rule published in the Federal Register and supported by clear and convincing evidence, that adoption of a uniform national standard more stringent than such amended ASHRAE/IES Standard 90.1 for such product would result in significant additional conservation of energy and is technologically feasible and economically justified.
+(6)(A)(i) If ASHRAE/IES Standard 90.1, as in effect on January 1, 2010, is amended with respect to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, and very large commercial package air conditioning and heating equipment, or if ASHRAE/IES Standard 90.1, as in effect on October 24, 1992, is amended with respect to anypackaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, the Secretary shall establish an amended uniform national standard for that product at the minimum level for each effective date specified in the amended ASHRAE/IES Standard 90.1, unless the Secretary determines, by rule published in the Federal Register and supported by clear and convincing evidence, that adoption of a uniform national standard more stringent than such amended ASHRAE/IES Standard 90.1 for such product would result in significant additional conservation of energy and is technologically feasible and economically justified.
 
 (ii) If ASHRAE/IES Standard 90.1 is not amended with respect to small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, and very large commercial package air conditioning and heating equipment during the 5-year period beginning on the effective date of a standard, the Secretary may initiate a rulemaking to determine whether a more stringent standard—
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(ii) 10.8 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
 
-&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 3.3 (at a high temperature rating of 47 degrees F db).
+&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central airconditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 3.3 (at a high temperature rating of 47 degrees F db).
 
 (8) Large commercial package air conditioning and heating equipment manufactured on or after January 1, 2010, shall meet the following standards:
 
@@ -128,7 +128,7 @@
 
 &emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
 
-(9) Very large commercial package air conditioning and heating equipment manufactured onor after January 1, 2010, shall meet the following standards:
+(9) Very large commercial package air conditioning and heating equipment manufactured on or after January 1, 2010, shall meet the following standards:
 
 &emsp;(A) The minimum energy efficiency ratio of air-cooled central air conditioners at or above 240,000 Btu per hour (cooling capacity) and less than 760,000 Btu per hour (cooling capacity) shall be—
 
@@ -185,7 +185,7 @@
 
 (C) Not later than two years after October 24, 1992, the Secretary shall rule on each petition for exemption submitted pursuant to subparagraph (B). In making such ruling, the Secretary shall afford an opportunity for public comment.
 
-(D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
+(D) Manufacturers of types or classes of motors developed after October 24, 1992, to whichstandards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
 
 (3)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
 

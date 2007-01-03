@@ -14,7 +14,7 @@ Subsecs. (a) to (c). Pub. L. 100–418 struck out subsec. (a) which provided for
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
 #### Effective Date of 1979 Amendment
 

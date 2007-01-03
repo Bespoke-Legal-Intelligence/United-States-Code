@@ -10,7 +10,7 @@ In this section, the term “election-related report” means any report, design
 
 #### (c) Coordination with other agencies
 
-Any Federal executive agency receiving election-related information which that agency isrequired by law to publicly disclose shall cooperate and coordinate with the Federal Election Commission to make such report available through, or for posting on, the site of the Federal Election Commission in a timely manner.
+Any Federal executive agency receiving election-related information which that agency is required by law to publicly disclose shall cooperate and coordinate with the Federal Election Commission to make such report available through, or for posting on, the site of the Federal Election Commission in a timely manner.
 
 (Pub. L. 107–155, title V, §502, Mar. 27, 2002, 116 Stat. 115.)
 

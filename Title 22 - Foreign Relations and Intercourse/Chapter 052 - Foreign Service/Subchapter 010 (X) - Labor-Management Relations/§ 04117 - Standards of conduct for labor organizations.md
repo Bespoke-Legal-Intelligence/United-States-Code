@@ -8,7 +8,7 @@ The Department shall accord recognition only to a labor organization that is fre
 
 &emsp;&emsp;(A) provisions for periodic elections to be conducted subject to recognized safeguards, and
 
-&emsp;&emsp;(B) provisions defining and securing the right of individual members to participate in the affairs of the organization, to receive fair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
+&emsp;&emsp;(B) provisions defining and securing the right of individual members to participate inthe affairs of the organization, to receive fair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
 
 &emsp;(2) the exclusion from office in the organization of persons affiliated with Communist or other totalitarian movements and persons identified with corrupt influences;
 
@@ -58,7 +58,7 @@ The Assistant Secretary of Labor shall prescribe such regulations as are necessa
 
 #### (f) Willful and intentional violations
 
-If the Board finds that any labor organization has willfully and intentionally violated section4115(b)(7) of this title by omission or commission with regard to any strike, work stoppage, slowdown, the Board shall—
+If the Board finds that any labor organization has willfully and intentionally violated section 4115(b)(7) of this title by omission or commission with regard to any strike, work stoppage, slowdown, the Board shall—
 
 &emsp;(1) revoke the exclusive recognition status of the labor organization, which shall then immediately cease to be legally entitled and obligated to represent employees in the unit; or
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Agency with rural responsibilities
 
-&emsp;The term “agency with rural responsibilities” means any executive agency (as defined in section 105 of title 5) that implements a Federal law, or administers a program, targeted at or having a significant impact on rural areas.
+&emsp;The term “agency with rural responsibilities” means any executive agency (as definedin section 105 of title 5) that implements a Federal law, or administers a program, targeted at or having a significant impact on rural areas.
 
 #### (2) Coordinating Committee
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Federal employee shall fully participate in the governance and operations of the Coordinating Committee, including activitiesrelated to grants, contracts, and other agreements, in accordance with this section.
+&emsp;&emsp;A Federal employee shall fully participate in the governance and operations of the Coordinating Committee, including activities related to grants, contracts, and other agreements, in accordance with this section.
 
 #### (B) Conflicts
 
@@ -180,7 +180,7 @@ In this section:
 
 #### (2) Exceptions to matching requirement for certain Federal funds
 
-&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, ortechnical assistance received by a State rural development council from a Federal agency that are used—
+&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance received by a State rural development council from a Federal agency that are used—
 
 &emsp;&emsp;(A) to support 1 or more specific program or project activities; or
 

@@ -108,7 +108,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of the forfeiture of in-process sugars and syrups serving as collateralfor a loan under paragraph (2), the processor shall, within such reasonable time period as the Secretary may prescribe and at no cost to the Commodity Credit Corporation, convert the in-process sugars and syrups into raw cane sugar or refined beet sugar of acceptable grade and quality for sugars eligible for loans under subsection (a) or (b) of this section.
+&emsp;&emsp;As a condition of the forfeiture of in-process sugars and syrups serving as collateral for a loan under paragraph (2), the processor shall, within such reasonable time period as the Secretary may prescribe and at no cost to the Commodity Credit Corporation, convert the in-process sugars and syrups into raw cane sugar or refined beet sugar of acceptable grade and quality for sugars eligible for loans under subsection (a) or (b) of this section.
 
 #### (B) Transfer to Corporation
 
@@ -128,7 +128,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (5) Loan conversion
 
-&emsp;If the processor does not forfeit the collateral as described in paragraph (4), but instead further processes the in-process sugars and syrups into raw cane sugar or refined beet sugar and repays the loan on the in-process sugars and syrups, the processor may obtain a loan under subsection (a) or (b) of this section for the raw cane sugar or refined beet sugar, as appropriate.
+&emsp;If the processor does not forfeit the collateral as described in paragraph (4), but insteadfurther processes the in-process sugars and syrups into raw cane sugar or refined beet sugar and repays the loan on the in-process sugars and syrups, the processor may obtain a loan under subsection (a) or (b) of this section for the raw cane sugar or refined beet sugar, as appropriate.
 
 #### (6) Term of loan
 
@@ -186,7 +186,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (i) Substitution of refined sugar
 
-For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule ofthe United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
+For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
 
 #### (j) Effective period
 
@@ -200,7 +200,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (i),
 
 #### Amendments
 
-2002—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), (d), (e), and (h), and substituting in subsec. (c) provisions relating to loan rate adjustments for provisions relating to reduction in loan rates, in subsec. (f) provisions relating to loans for in-process sugar for provisions for marketing assessment, in subsec. (g) provisions relating to avoiding forfeitures and corporate inventory disposition for provisions relating to forfeiture penalty, in subsec. (i) provisions relating to substitution of refined sugar for provisions relating to crops, and adding subsec. (j).
+2002—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), (d), (e), and (h), and substituting in subsec. (c) provisions relating to loan rate adjustments for provisions relating to reduction in loan rates, in subsec. (f) provisions relating to loans for in-process sugar for provisions for marketing assessment, in subsec. (g) provisions relating to avoiding forfeitures and corporate inventory disposition forprovisions relating to forfeiture penalty, in subsec. (i) provisions relating to substitution of refined sugar for provisions relating to crops, and adding subsec. (j).
 
 2000—Subsec. (e)(1). Pub. L. 106–387, §1(a) \[title VIII, §836(1)(B)\], substituted “The” for “Subject to paragraph (2), the”.
 

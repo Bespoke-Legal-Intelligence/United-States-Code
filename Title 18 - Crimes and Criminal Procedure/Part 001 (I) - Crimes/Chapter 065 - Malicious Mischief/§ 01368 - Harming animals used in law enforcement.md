@@ -12,5 +12,5 @@
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–254, §1, Aug. 2, 2000, 114 Stat. 638, provided that: “This Act \[enacting this section\] may be cited as the ‘Federal Law Enforcement Animal Protection Act of 2000’.”
+Pub. L. 106–254, §1, Aug. 2, 2000, 114 Stat. 638, provided that: “This Act \[enacting this section\] may be cited asthe ‘Federal Law Enforcement Animal Protection Act of 2000’.”
 

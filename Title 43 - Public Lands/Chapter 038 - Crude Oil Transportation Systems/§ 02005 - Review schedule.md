@@ -20,7 +20,7 @@ The Secretary of the Interior, after consultation with the heads of appropriate 
 
 &emsp;(B) comply with any requirement of section 1734 of this title,
 
-> the Secretary of the Interior may declare the application ineligible for consideration under this chapter. After making such a declaration, the Secretary of the Interior shall notify the applicant and the President of such ineligibility.
+> the Secretary of the Interior may declare the application ineligible for consideration under this chapter. After making such a declaration,the Secretary of the Interior shall notify the applicant and the President of such ineligibility.
 
 #### (c) Recommendations of heads of Federal agencies
 

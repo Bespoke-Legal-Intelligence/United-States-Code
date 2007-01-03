@@ -2,7 +2,7 @@
 
 #### (a) Designation of source and notification
 
-When the President receives information of an incident, the President shall, where possible and appropriate, designate the source or sources ofthe discharge or threat. If a designated source is a vessel or a facility, the President shall immediately notify the responsible party and the guarantor, if known, of that designation.
+When the President receives information of an incident, the President shall, where possible and appropriate, designate the source or sources of the discharge or threat. If a designated source is a vessel or a facility, the President shall immediately notify the responsible party and the guarantor, if known, of that designation.
 
 #### (b) Advertisement by responsible party or guarantor
 

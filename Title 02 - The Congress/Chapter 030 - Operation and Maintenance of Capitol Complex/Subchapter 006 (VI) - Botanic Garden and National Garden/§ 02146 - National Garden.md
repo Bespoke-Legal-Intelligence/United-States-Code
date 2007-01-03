@@ -58,7 +58,7 @@ Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by 
 
 “(a) Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c) \[now 2 U.S.C. 2146\], not more than $16,500,000 shall be accepted and not more than $16,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.
 
-“(b) The Architect of the Capitol is authorized to solicit, receive, accept, and hold amounts under section 307E(a)(2) of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c(a)(2)) \[now 2 U.S.C. 2146(a)(2)\] in excess of the $16,500,000 authorized under subsection (a), but such amounts (and any interest thereon) shall not be expended by the Architect without approval in appropriation Acts as required under section 307E(b)(3) of such Act (40 U.S.C. 216c(b)(3)) \[now 2 U.S.C. 2146(b)(3)\].”
+“(b) The Architect of the Capitol is authorized to solicit, receive, accept, and hold amounts under section 307E(a)(2) of the Legislative Branch AppropriationsAct, 1989 (40 U.S.C. 216c(a)(2)) \[now 2 U.S.C. 2146(a)(2)\] in excess of the $16,500,000 authorized under subsection (a), but such amounts (and any interest thereon) shall not be expended by the Architect without approval in appropriation Acts as required under section 307E(b)(3) of such Act (40 U.S.C. 216c(b)(3)) \[now 2 U.S.C. 2146(b)(3)\].”
 
 #### Renovation of Conservatory of Botanic Garden
 

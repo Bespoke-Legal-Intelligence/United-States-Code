@@ -16,7 +16,7 @@ The Preserve shall be administered by the Secretary in accordance with sections 
 
 #### (2) Time and place restrictions
 
-&emsp;Subject to such terms and conditions as the Secretary considers necessary in furtherance of sections 698q to 698t of this title, and after consultation with the Department of Conservation and Natural Resources of the State of Alabama and owners of lands adjacent to the Preserve, the Secretary may designate zones where, and establish periods when, the activities described in paragraph (1) will not be permitted within the Preserve for reasons of public safety, administration, fish and wildlife habitat, or public use and enjoyment.
+&emsp;Subject to such terms and conditions as the Secretary considers necessary in furtheranceof sections 698q to 698t of this title, and after consultation with the Department of Conservation and Natural Resources of the State of Alabama and owners of lands adjacent to the Preserve, the Secretary may designate zones where, and establish periods when, the activities described in paragraph (1) will not be permitted within the Preserve for reasons of public safety, administration, fish and wildlife habitat, or public use and enjoyment.
 
 #### (3) Restrictions in boundary areas
 

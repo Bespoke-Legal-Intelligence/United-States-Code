@@ -32,11 +32,11 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Personal Services Contracting Pilot Program
 
-Pub. L. 107–228, div. A, title V, §504, Sept. 30, 2002, 116 Stat. 1393, as amended by Pub. L. 109–140, §6, Dec. 22, 2005, 119 Stat. 2652, provided that:
+Pub. L. 107–228, div. A, title V, §504, Sept. 30, 2002, 116 Stat. 1393, as amended by Pub. L. 109–140, §6, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 109–472, §9, Jan. 11, 2007, 120 Stat. 3556, provided that:
 
 “(a)
 
-In General.—The Director of the International Broadcasting Bureau (in this section referred to as the ‘Director’) may establish a pilot program (in this section referred to as the ‘program’) for the purpose of hiring United States citizens or aliens as personal services contractors, without regard to Civil Service and classification laws, for service in the United States as broadcasters, producers, and writers in the International Broadcasting Bureau to respond to new or emerging broadcast needs or to augment broadcast services.
+In General.—The Director of the International Broadcasting Bureau (in this section referred to as the ‘Director’) may establish a pilot program (in this section referred to as the ‘program’) for the purpose of hiring United States citizens or aliens as personal services contractors, without regard to Civil Service and classification laws, for service in the United States as broadcasters and other broadcasting specialists in the International Broadcasting Bureau to respond to new or emerging broadcast needs or to augment broadcast services.
 
 “(b)
 
@@ -52,5 +52,5 @@ Conditions.—The Director is authorized to use the authority of subsection (a) 
 
 “(c)
 
-Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2006. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
+Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2007. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
 

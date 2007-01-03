@@ -10,7 +10,7 @@
 
 &emsp;(C) the appropriateness and adequacy of the management measures in the fishery management plan for red snapper in the Gulf of Mexico for conserving and managing the red snapper fishery under this chapter; and
 
-&emsp;(D) the costs and benefits of all reasonable alternatives to an individual fishing quota program for the red snapper fishery in the Gulf of Mexico.
+&emsp;(D) the costs and benefits of all reasonable alternatives to a limited access privilege program for the red snapper fishery in the Gulf of Mexico.
 
 (2) The Secretary shall ensure that commercial, recreational, and charter fishermen in the red snapper fishery in the Gulf of Mexico are provided an opportunity to—
 
@@ -18,7 +18,7 @@
 
 &emsp;(B) provide information to the Secretary concerning the review of fishery statistics under this subsection without being subject to penalty under this chapter or other applicable law for any past violation of a requirement to report such information to the Secretary.
 
-(3) The Secretary shall submit a detailed written report on the findings of the peer reviewconducted under this subsection to the Gulf Council no later than one year after October 11, 1996.
+(3) The Secretary shall submit a detailed written report on the findings of the peer review conducted under this subsection to the Gulf Council no later than one year after October 11, 1996.
 
 #### (b) Prohibition
 
@@ -26,7 +26,7 @@ In addition to the restrictions under section 1853(d)(1)(A) of this title, the G
 
 #### (c) Referendum
 
-(1) On or after October 1, 2002, the Gulf Council may prepare and submit a fishery management plan, plan amendment, or regulation for the Gulf of Mexico commercial red snapper fishery that creates an individual fishing quota program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class, only if the preparation of such plan, amendment, or regulation is approved in a referendum conducted under paragraph (2) and only if the submission to the Secretary of such plan, amendment, or regulation is approved in a subsequent referendum conducted under paragraph (2).
+(1) On or after October 1, 2002, the Gulf Council may prepare and submit a fishery management plan, plan amendment, or regulation for theGulf of Mexico commercial red snapper fishery that creates a limited access privilege program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class, only if the preparation of such plan, amendment, or regulation is approved in a referendum conducted under paragraph (2) and only if the submission to the Secretary of such plan, amendment, or regulation is approved in a subsequent referendum conducted under paragraph (2).
 
 (2) The Secretary, at the request of the Gulf Council, shall conduct referendums under this subsection. Only a person who held an annual vessel permit with a red snapper endorsement for such permit on September 1, 1996 (or any person to whom such permit with such endorsement was transferred after such date) and vessel captains who harvested red snapper in a commercial fishery using such endorsement in each red snapper fishing season occurring between January 1, 1993, and such date may vote in a referendum under this subsection. The referendum shall be decided by a majority of the votes cast. The Secretary shall develop a formula to weigh votes based on the proportional harvest under each such permit and endorsement and by each such captain in the fishery between January 1, 1993, and September 1, 1996. Prior to each referendum, the Secretary, in consultation with the Council, shall—
 
@@ -42,9 +42,15 @@ Any fishery management plan, plan amendment, or regulation submitted by the Gulf
 
 &emsp;(2) ensure that such quotas reflect allocations among such sectors and do not reflect any harvests in excess of such allocations.
 
-(Pub. L. 94–265, title IV, §407, as added Pub. L. 104–297, title II, §207(b), Oct. 11, 1996, 110 Stat. 3612; amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238.)
+(Pub. L. 94–265, title IV, §407, as added Pub. L. 104–297, title II, §207(b), Oct. 11, 1996, 110 Stat. 3612; amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, §3(d)(1)(B), Jan. 12, 2007, 120 Stat. 3578.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1)(C), (2)(B) and (b), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
+
+2007—Subsecs. (a)(1)(D), (c)(1). Pub. L. 109–479 substituted “a limited access privilege” for “an individual fishing quota”.
 
 2000—Subsecs. (b), (c)(1). Pub. L. 106–554 substituted “October 1, 2002,” for “October 1, 2000,”.
 

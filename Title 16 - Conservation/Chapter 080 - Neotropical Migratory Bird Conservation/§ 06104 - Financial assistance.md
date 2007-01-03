@@ -32,7 +32,7 @@ To be considered for financial assistance for a project under this chapter, an a
 
 &emsp;&emsp;(D) an estimate of the funds and time necessary to complete the project, including sources and amounts of matching funds;
 
-&emsp;(2) demonstrates that the project will enhance the conservation of neotropical migratory bird species in the United States, Latin America, or the Caribbean;
+&emsp;(2) demonstrates that the project will enhance the conservation of neotropical migratory bird species in the United States, Canada, Latin America, or the Caribbean;
 
 &emsp;(3) includes mechanisms to ensure adequate local public participation in project development and implementation;
 
@@ -62,13 +62,27 @@ Each recipient of assistance for a project under this chapter shall submit to th
 
 #### (B) Form of payment
 
-#### (i) Projects in the United States
+#### (i) Projects in the United States and Canada
 
-&emsp;&emsp;&emsp;The non-Federal share required to be paid for a project carried out in the United States shall be paid in cash.
+&emsp;&emsp;&emsp;The non-Federal share required to be paid for a project carried out in the United States or Canada shall be paid in cash.
 
-#### (ii) Projects in foreign countries
+#### (ii) Projects in Latin America and the Caribbean
 
-&emsp;&emsp;&emsp;The non-Federal share required to be paid for a project carried out in a foreign country may be paid in cash or in kind.
+&emsp;&emsp;&emsp;The non-Federal share required to be paid for a project carried out in Latin America or the Caribbean may be paid in cash or in kind.
 
-(Pub. L. 106–247, §5, July 20, 2000, 114 Stat. 594.)
+(Pub. L. 106–247, §5, July 20, 2000, 114 Stat. 594; Pub. L. 109–363, title III, §302(d), (e), Oct. 17, 2006, 120 Stat. 2076.)
+
+#### Amendments
+
+2006—Subsec. (c)(2). Pub. L. 109–363, §302(d), inserted “Canada,” after “United States,”.
+
+Subsec. (e)(2)(B). Pub. L. 109–363, §302(e), amended subpar. (B) generally. Prior to amendment, text read as follows:
+
+“(i)
+
+Projects in the united states.—The non-Federal share required to be paid for a project carried out in the United States shall be paid in cash.
+
+“(ii)
+
+Projects in foreign countries.—The non-Federal share required to be paid for a project carried out in a foreign country may be paid in cash or in kind.”
 

@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, referred to in subsec. (c), is section235(a)(1)(B)(ii) of Pub. L. 98–473, which is set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+Section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, referred to in subsec. (c), is section 235(a)(1)(B)(ii) of Pub. L. 98–473, which is set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 

@@ -36,11 +36,11 @@ For each independent student without dependents other than a spouse, the expecte
 
 &emsp;&emsp;&emsp;(iv) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
 
-&emsp;&emsp;&emsp;&emsp;(I) $5,000 for single students;
+&emsp;&emsp;&emsp;&emsp;(I) $6,050 for single students;
 
-&emsp;&emsp;&emsp;&emsp;(II) $5,000 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
+&emsp;&emsp;&emsp;&emsp;(II) $6,050 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
 
-&emsp;&emsp;&emsp;&emsp;(III) $8,000 for married students where one is enrolled pursuant to subsection (a)(2) of this section;
+&emsp;&emsp;&emsp;&emsp;(III) $9,700 for married students where one is enrolled pursuant to subsection (a)(2) of this section;
 
 &emsp;&emsp;&emsp;(v) in the case where a spouse is present, an employment expense allowance, as determined in accordance with paragraph (4); and
 
@@ -69,7 +69,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (3) Allowance for social security taxes
 
-&emsp;The allowance for social security taxes is equal to the amount earned by the student (and spouse, if appropriate), multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
+&emsp;The allowance for social security taxes is equal to the amount earned by the student (and spouse, if appropriate), multiplied by the social security withholding rate appropriateto the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
 
 #### (4) Employment expenses allowance
 
@@ -173,15 +173,19 @@ Asset Protection Allowances for Families and Students
 
 #### (4) Asset conversion rate
 
-&emsp;The asset conversion rate is 35 percent.
+&emsp;The asset conversion rate is 20 percent.
 
 #### (d) Computations in case of separation, divorce, or death
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's contribution from income or assets.
 
-(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §474, Oct. 7, 1998, 112 Stat. 1730.)
+(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV,§474, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(b)(1), Feb. 8, 2006, 120 Stat. 173.)
 
 #### Amendments
+
+2006—Subsec. (b)(1)(A)(iv). Pub. L. 109–171, §8017(b)(1)(A), substituted “$6,050” for “$5,000” in subcls. (I) and (II) and “$9,700” for “$8,000” in subcl. (III).
+
+Subsec. (c)(4). Pub. L. 109–171, §8017(b)(1)(B), substituted “20” for “35”.
 
 1998—Subsec. (a)(3). Pub. L. 105–244, §474(a), added par. (3).
 
@@ -228,6 +232,12 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former 
 | $325,001 or more | $169,000 plus 100 percent of NW over $325,000”. |
 
 Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
+Pub. L. 109–171, title VIII, §8017(b)(2), Feb. 8, 2006, 120 Stat. 173, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
 
 #### Effective Date of 1998 Amendment
 

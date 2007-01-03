@@ -30,7 +30,7 @@ All moneys collected and credited to the development fund pursuant to subsection
 
 #### (e) Appropriation by Congress required for construction of works
 
-Except as provided in subsection (f) of this section, revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
+Except as provided in subsection (f) of this section, revenues credited to the development fund shall not be available for construction of theworks comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
 
 #### (f) Additional uses of revenue funds
 
@@ -126,7 +126,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 #### (ii) Lawful investments
 
-&emsp;&emsp;&emsp;For purposes of clause (i), obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed fundsincludes any of the following securities or securities with comparable language concerning the investment of federally managed funds:
+&emsp;&emsp;&emsp;For purposes of clause (i), obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds includes any of the following securities or securities with comparable language concerning the investment of federally managed funds:
 
 &emsp;&emsp;&emsp;&emsp;(I) Obligations of the United States Postal Service as authorized by section 2005 of title 39.
 

@@ -84,7 +84,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 &emsp;&emsp;&emsp;&emsp;(II) a game, race, or contest; or
 
-&emsp;&emsp;&emsp;&emsp;(III) any record or tabulation of the result of 1 or more events in which anyparticipant has no interest except for the bearing that event has on the possibility that the participant may become a winner.
+&emsp;&emsp;&emsp;&emsp;(III) any record or tabulation of the result of 1 or more events in which any participant has no interest except for the bearing that event has on the possibility that the participant may become a winner.
 
 #### (C) Lottery ticket
 

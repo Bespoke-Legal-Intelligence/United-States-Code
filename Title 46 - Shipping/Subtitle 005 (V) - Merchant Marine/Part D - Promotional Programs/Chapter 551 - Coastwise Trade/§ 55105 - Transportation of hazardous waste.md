@@ -1,0 +1,58 @@
+### §55105. Transportation of hazardous waste
+
+(a)
+
+In General.—The transportation of hazardous waste, as defined in section 1004(5) of the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6903(5)), from a point in the United States to sea for incineration is deemed to be transportation of merchandise under section 55102 of this title.
+
+(b)
+
+Nonapplication to Certain Foreign Vessels.—
+
+&emsp;(1)
+
+In general.—Subsection (a) does not apply to transportation performed by a foreign ocean incineration vessel owned by or under construction on May 1, 1982, for a corporation wholly owned by citizens of the United States under section 50501(a)–(c) of this title.
+
+&emsp;(2)
+
+Standards for incineration equipment.—Incineration equipment on a vessel described in paragraph (1) must meet standards of the Coast Guard and the Environmental Protection Agency.
+
+&emsp;(3)
+
+Inspection.—A vessel described in paragraph (1) shall be inspected by the Coast Guard, regardless of whether inspected by the nation in which it is registered. The inspection shall be the same as would be required of a vessel of the United States, including drydock inspection and internal examination of tanks and void spaces. The inspection may be made concurrently with an inspection by that nation or within one year after the initial issuance or next scheduled issuance of the Safety of Life at Sea Safety Construction Certificate. In making the inspection, the Coast Guard shall refer to the condition of the hull and superstructure established by the initial foreign certification as the basis for evaluating the current condition of the hull and superstructure. The Coast Guard shall allow the substitution of fittings, material, apparatus, equipment, and appliances different from those required for vessels of the United States if satisfied they are equivalent and at least as effective as those required for vessels of the United States. A satisfactory inspection under this paragraph shall be certified in writing by the Secretary of the department in which the Coast Guard is operating.
+
+(c)
+
+Effective Date.—Subsection (a) is not effective until an appropriate vessel has been built and documented under chapter 121 of this title.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1634; Pub. L. 109–241, title IX, §902(<i>o</i>), July 11, 2006, 120 Stat. 569.)
+
+#### Amendment Not Shown in Text
+
+<i>The last sentence of subsection (b)(3) of this section was derived from the fifth sentence of section 883 of the former Appendix to this title, which was amended by Pub. L. 109–241, title IX, §902(o), July 11, 2006, 120 Stat. 569. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. That amendment struck out “Satisfactory inspection shall be certified in writing by the Secretary of Transportation” and inserted “Satisfactory inspection shall be certified, in writing, by the Secretary of Homeland Security.”</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+55105
+
+46 App.:883 (2d–6th sentences, last sentence less provisos).
+
+June 5, 1920, ch. 250, §27 (2d–6th sentences, last sentence less provisos), 41 Stat. 999; July 2, 1935, ch. 355, 49 Stat. 442; Pub. L. 97–389, title V, §502, Dec. 29, 1982, 96 Stat. 1954.
+
+In subsection (a), the words “after December 31, 1983” are omitted as obsolete. The words “transportation of merchandise under section 55102 of this title” are substituted for “For the purposes of this section” and “transportation by water of merchandise between points in the United States” for consistency with section 55102.
+
+In subsection (b)(2), the words “all current” are omitted as surplus.
+
+Subsection (c) is substituted for “or after such time as an appropriate vessel has been constructed and documented as a vessel of the United States” to improve the organization.
+
+#### References in Text
+
+Section 1004(5) of the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6903(5)), referred to in subsec. (a), probably means section 1004(5) of the SolidWaste Disposal Act (42 U.S.C. 6903(5)), as added by section 2 of the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580.
+

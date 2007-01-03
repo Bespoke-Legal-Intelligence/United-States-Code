@@ -18,7 +18,7 @@ Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to th
 
 &emsp;(1) any reference to the Attorney General, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, or the Director of the Bureau of Justice Assistance shall be deemed to be a reference to the Administrator;
 
-&emsp;(2) any reference to the Office of Justice Programs, the Bureau of Justice Assistance, theNational Institute of Justice, or the Bureau of Justice Statistics shall be deemed to be a reference to the Office of Juvenile Justice and Delinquency Prevention; and
+&emsp;(2) any reference to the Office of Justice Programs, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be deemed to be a reference to the Office of Juvenile Justice and Delinquency Prevention; and
 
 &emsp;(3) the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by section 6(d)(2) of Pub. L. 95–115, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by section6(d)(2) of Pub. L. 95–115, set out as a note under section 5601 of this title.
 

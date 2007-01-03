@@ -36,5 +36,5 @@
 
 #### References in Text
 
-Appendix 2 of title 5, referred to in subsec. (a)(3), probably means the Federal Advisory Committee Act,Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Appendix 2 of title 5, referred to in subsec. (a)(3), probably means the Federal Advisory Committee Act, Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

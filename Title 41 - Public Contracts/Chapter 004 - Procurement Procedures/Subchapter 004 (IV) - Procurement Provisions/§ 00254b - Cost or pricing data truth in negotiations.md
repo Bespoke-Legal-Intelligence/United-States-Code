@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $100,000.
 
-(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
+(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to thebest of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
 (3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c) of this section), and a certification required to be submitted under paragraph (2), shall be submitted—
 
@@ -90,7 +90,7 @@
 
 #### (1) Authority to require submission
 
-&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on theprices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
 #### (2) Limitations on authority
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(ii) at the current rate prescribed by the Secretary of the Treasury under section 6621 of title 26; and
 
-&emsp;(B) if the submission of such defective data was a knowing submission, for an additional amount equal to the amount of the overpayment.
+&emsp;(B) if the submission of such defective data was a knowing submission, for an additionalamount equal to the amount of the overpayment.
 
 (2) Any liability under this subsection of a contractor that submits cost or pricing data but refuses to submit the certification required by subsection (a)(2) of this section with respect to the cost or pricing data shall not be affected by the refusal to submit such certification.
 
@@ -200,7 +200,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(a)(3), Feb. 10, 1996, 110 Stat. 671, provided that: “Subsection (a) of section 304A of the Federal Property and Administrative Services Act of 1949 \[subsec. (a) of this section\], as added by subsection (a), shall apply according to the provisions thereof on and after the date of the enactment of this Act \[Oct. 13, 1994\], notwithstanding section 10001(b) \[see Effective Date of 1994 Amendment note set out under section 251 of this title\].”
 
-\[Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section to section 1251(b) ofPub. L. 103–355, set out above, is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.\]
+\[Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section to section 1251(b) of Pub. L. 103–355, set out above, is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.\]
 
 #### Eligibility for Contracts and Subcontracts To Be Conditioned on Compliance
 

@@ -26,7 +26,7 @@ Pub. L. 106–65, div. A, title V, §503(b), Oct. 5, 1999, 113 Stat. 590, provid
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title V, §502(c), Oct. 17, 1998, 112 Stat. 2003, provided that: “The amendments made by this section \[amending this section and section 1174 of this title\] shall apply with respect to selectionboards convened under section 611(a) of title 10, United States Code, on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §502(c), Oct. 17, 1998, 112 Stat. 2003, provided that: “The amendments made by this section \[amending this section and section 1174 of this title\] shall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

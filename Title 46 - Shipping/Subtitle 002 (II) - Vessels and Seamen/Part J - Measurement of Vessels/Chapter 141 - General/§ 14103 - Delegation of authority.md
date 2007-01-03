@@ -8,7 +8,7 @@
 
 (d) The Secretary may terminate a delegation made under this section after giving written notice to the person.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1919.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1919.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@
 
 Source: International Convention on Tonnage Measurement of Ships.
 
-Section 14103(a) authorizes the Secretary to delegate to a qualified person the authority to measure a vessel and issue an International Tonnage Certificate or other certificate of measurement. The term “qualified person” means an organization that the Secretary believes has the necessary qualifications to measure a vessel competently, such as the American Bureau of Shipping.
+Section 14103(a) authorizes the Secretary to delegate to a qualified person the authority to measure a vesseland issue an International Tonnage Certificate or other certificate of measurement. The term “qualified person” means an organization that the Secretary believes has the necessary qualifications to measure a vessel competently, such as the American Bureau of Shipping.
 
 The conferees intend that in section 14103 the term “qualified person” includes not only organizations that the Secretary finds to be qualified to perform measurement duties, but any person as that term is defined in section 1 of title 1, United States Code (including individuals), that the Secretary determines qualified to perform measurement duties. The House and Senate conferees also agree that, where authorized, in addition to information required by the Secretary, regulatory tonnage should be used on all certificates and documents related to a vessel unless the owner otherwise requests.
 

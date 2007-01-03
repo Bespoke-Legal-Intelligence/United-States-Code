@@ -38,7 +38,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;&emsp;(B) that the use of such quality control procedures has resulted in the distribution in commerce of chemical substances or mixtures which present an unreasonable risk of injury to health or the environment, the Administrator may order the manufacturer or processor to (i) give notice of such risk to processors or distributors in commerce of any such substance or mixture, or to both, and, to the extent reasonably ascertainable, to any other person in possession of or exposed to any such substance, (ii) to give public notice of such risk, and (iii) to provide such replacement or repurchase of any such substance or mixture as is necessary to adequately protect health or the environment.
 
-> A determination under subparagraph (A) or (B) of paragraph (2) shall be made on the record after opportunity for hearing in accordance with section 554 of title 5. Any manufacturer or processor subject to a requirement to replace or repurchase a chemical substance or mixture mayelect either to replace or repurchase the substance or mixture and shall take either such action in the manner prescribed by the Administrator.
+> A determination under subparagraph (A) or (B) of paragraph (2) shall be made on the record after opportunity for hearing in accordance with section 554 of title 5. Any manufacturer or processor subject to a requirement to replace or repurchase a chemical substance or mixture may elect either to replace or repurchase the substance or mixture and shall take either such action in the manner prescribed by the Administrator.
 
 #### (c) Promulgation of subsection (a) rules
 
@@ -52,7 +52,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(D) the reasonably ascertainable economic consequences of the rule, after consideration of the effect on the national economy, small business, technological innovation, the environment, and public health.
 
-> If the Administrator determines that a risk of injury to health or the environment could be eliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions under this chapter and under such law (or laws) to protect against such risk of injury.
+> If the Administrator determines that a risk of injury to health or the environment could be eliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions underthis chapter and under such law (or laws) to protect against such risk of injury.
 
 (2) When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in section 2618(a) of this title), and (E) make and publish with the rule the finding described in subsection (a) of this section.
 
@@ -128,7 +128,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 (C) For the purposes of this paragraph, the term “totally enclosed manner” means any manner which will ensure that any exposure of human beings or the environment to a polychlorinated biphenyl will be insignificant as determined by the Administrator by rule.
 
-(3)(A) Except as provided in subparagraphs (B) and (C)—
+(3)(A) Except as provided in subparagraphs (B), (C), and (D)—
 
 &emsp;(i) no person may manufacture any polychlorinated biphenyl after two years after January 1, 1977, and
 
@@ -140,13 +140,31 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(ii) good faith efforts have been made to develop a chemical substance which does not present an unreasonable risk of injury to health or the environment and which may be substituted for such polychlorinated biphenyl.
 
-> An exemption granted under this subparagraph shall be subject to such terms and conditions as the Administrator may prescribe and shall be in effect for such period (but not more than one year from the date it is granted) as the Administrator may prescribe.
+> An exemption granted under this subparagraph shall be subject to such terms and conditions as the Administrator may prescribe and shall be in effect for such period (but not more than 1 year from the date it is granted, except as provided in subparagraph (D)) as the Administrator may prescribe.
 
 (C) Subparagraph (A) shall not apply to the distribution in commerce of any polychlorinated biphenyl if such polychlorinated biphenyl was sold for purposes other than resale before two and one half years after October 11, 1976.
+
+(D) The Administrator may extend an exemption granted pursuant to subparagraph (B) that has not yet expired for a period not to exceed 60 days for the purpose of authorizing the Secretary of Defense and the Secretaries of the military departments to provide for the transportation into the customs territory of the United States of polychlorinated biphenyls generated by or under the control of the Department of Defense for purposes of their disposal, treatment, or storage in the customs territory of the United States if those polychlorinated biphenyls are already in transit from their storage locations but the Administrator determines, in the sole discretion of the Administrator, they would not otherwise arrive in the customs territory of the United States within the period of the original exemption. The Administrator shall promptly publish notice of such extension in the Federal Register.
 
 (4) Any rule under paragraph (1), (2)(B), or (3)(B) shall be promulgated in accordance with paragraphs (2), (3), and (4) of subsection (c) of this section.
 
 (5) This subsection does not limit the authority of the Administrator, under any other provision of this chapter or any other Federal law, to take action respecting any polychlorinated biphenyl.
 
-(Pub. L. 94–469, title I, §6, Oct. 11, 1976, 90 Stat. 2020; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §6, Oct. 11, 1976, 90 Stat. 2020; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 109–364, div. A, title III, §317(a), Oct. 17, 2006, 120 Stat. 2142.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 317(b) of Pub. L. 109–364, see Termination Date of 2006 Amendment note below.</i>
+
+#### Amendments
+
+2006—Subsec. (e)(3)(A). Pub. L. 109–364, §317(a)(1), (b), temporarily substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions. See Termination Date of 2006 Amendment note below.
+
+Subsec. (e)(3)(B). Pub. L. 109–364, §317(a)(2), (b), temporarily substituted “but not more than 1 year from the date it is granted, except as provided in subparagraph (D)” for “but not more than one year from the date it is granted” in concluding provisions. See Termination Date of 2006 Amendment note below.
+
+Subsec. (e)(3)(D). Pub. L. 109–364, §317(a)(3), (b), temporarily added subpar. (D). See Termination Date of 2006 Amendment note below.
+
+#### Termination Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title III, §317(b), Oct. 17, 2006, 120 Stat. 2142, provided that: “The amendments made by subsection (a) \[amending this section\] shall cease to have effect on September 30, 2012. The termination of the authority to grant exemptions pursuant to such amendments shall not effect the validity of any exemption granted prior to such date.”
 

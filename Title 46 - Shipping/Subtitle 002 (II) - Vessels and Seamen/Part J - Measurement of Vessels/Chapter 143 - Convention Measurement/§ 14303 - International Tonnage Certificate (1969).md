@@ -1,10 +1,10 @@
 ### §14303. International Tonnage Certificate (1969)
 
-(a) After measuring a vessel under this chapter, the Secretary shall issue, on request of the owner, an International Tonnage Certificate (1969) and deliver it to the owner or master of the vessel.
+(a) After measuring a vessel under this chapter, the Secretary shall issue, on request of theowner, an International Tonnage Certificate (1969) and deliver it to the owner or master of the vessel.
 
 (b) The certificate shall be maintained as required by the Secretary.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921.)
 
 #### Historical and Revision Notes
 

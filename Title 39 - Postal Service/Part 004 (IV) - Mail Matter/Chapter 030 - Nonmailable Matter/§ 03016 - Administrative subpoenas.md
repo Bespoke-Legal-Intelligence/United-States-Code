@@ -74,7 +74,7 @@ In general.—Whenever any person, partnership, corporation, association, or ent
 
 &emsp;(2)
 
-Jurisdiction.—Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry into effect the provisions of this section. Any final order entered shall be subject to appeal under section 1291 of title 28, United States Code. Any disobedience of any final order entered under this section by any court may be punished as contempt.
+Jurisdiction.—Whenever any petition is filed in any district court of the United Statesunder this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry into effect the provisions of this section. Any final order entered shall be subject to appeal under section 1291 of title 28, United States Code. Any disobedience of any final order entered under this section by any court may be punished as contempt.
 
 (d)
 

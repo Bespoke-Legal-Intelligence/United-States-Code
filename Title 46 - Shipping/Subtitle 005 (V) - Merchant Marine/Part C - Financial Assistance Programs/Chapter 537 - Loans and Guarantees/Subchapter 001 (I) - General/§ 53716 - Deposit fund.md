@@ -1,0 +1,60 @@
+### §53716. Deposit fund
+
+(a)
+
+In General.—There is a deposit fund in the Treasury for purposes of this section. The Secretary, in accordance with an agreement under subsection (b), may deposit into and hold in the fund cash belonging to an obligor to serve as collateral for a guarantee made under this chapter with respect to the obligor.
+
+(b)
+
+Agreement.—The Secretary and an obligor shall make a reserve fund or other collateral account agreement to govern the deposit, withdrawal, retention, use, and reinvestment of cash of the obligor held in the fund. The agreement shall contain—
+
+&emsp;(1) terms and conditions required by this section;
+
+&emsp;(2) terms that grant to the United States Government a security interest in all amounts deposited into the fund; and
+
+&emsp;(3) any additional terms considered by the Secretary to be necessary to protect fully the interests of the Government.
+
+(c)
+
+Investment.—The Secretary may invest and reinvest any part of the amounts in the fund in obligations of the Government with maturities such that amounts in the fund will be available as required for purposes of the agreement under subsection (b). Cash balances in the fund in excess of current requirements shall be maintained in a form of uninvested funds, and the Secretary of the Treasury shall pay interest on these funds.
+
+(d)
+
+Withdrawals.—
+
+&emsp;(1)
+
+In general.—Cash deposited into the fund may not be withdrawn without the consent of the Secretary.
+
+&emsp;(2)
+
+Use of income.—Subject to paragraph (3), the Secretary may pay any income earned on cash of an obligor deposited into the fund in accordance with the agreement with the obligor under subsection (b).
+
+&emsp;(3)
+
+Retention against default.—The Secretary may retain and offset any or all of the cash of an obligor in the fund, and any income realized thereon, as part of the Secretary's recovery against the obligor in case of a default by the obligor on an obligation.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1616; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (3), Jan. 6, 2006, 119 Stat. 3555.)
+
+#### Amendments Not Shown in Text
+
+<i>This section was derived from section 1279b of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (3), Jan. 6, 2006, 119 Stat. 3555. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1279b of the former Appendix to this title was amended by striking “Secretary” each place it appears (except the second place in subsec. (c) \[now subsec. (c) of this section\]) and inserting “Secretary or Administrator” and by striking “Secretary's” in subsec. (d)(3) \[now subsec. (d)(3) of this section\] and inserting “Secretary's or Administrator's”.</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53716
+
+46 App.:1279b.
+
+June 29, 1936, ch. 858, title XI, §1109, as added Pub. L. 107–107, title XXXV, §3503, Dec. 28, 2001, 115 Stat. 1392.
+
+In subsection (a), the word “established” is omitted for consistency with other codified titles of the United States Code.
+

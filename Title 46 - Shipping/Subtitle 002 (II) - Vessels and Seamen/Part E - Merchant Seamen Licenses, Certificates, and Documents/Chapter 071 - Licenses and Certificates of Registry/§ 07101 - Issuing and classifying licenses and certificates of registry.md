@@ -142,7 +142,3 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Pub. L. 100–424, §3, Sept. 9, 1988, 102 Stat. 1590, provided that: “The Secretary of the department in which the Coast Guard is operating shall, within two years after the date of enactment of this Act \[Sept. 9, 1988\], and in close consultation with the Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of title 46, United States Code (as amended by this Act), prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels. The plan shall take into consideration the nature and variety of the different United States fisheries and of the vessels engaged in those fisheries, the need to license all operators or only those working in certain types of fisheries or vessels, and other relevant factors.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8101, 8302, 8304, 8502, 8503, 8703, 9302, 9303, 11108 of this title; section 1295c of Appendix to this title; title 49 section 30305.
-

@@ -18,7 +18,7 @@ The Secretary may make grants, and enter into cooperative agreements and contrac
 
 #### (c) Administration
 
-The Administrator of the Health Resources and Services Administration shall ensure that this subchapter is administered by the Division of Trauma and Emergency Medical Systems within such Administration. Such Division shall be headed by a director appointed by the Secretary from among individuals who are knowledgeable by training or experience in the development and operation of trauma and emergency medical systems.
+The Administrator of the Health Resources and Services Administration shall ensure thatthis subchapter is administered by the Division of Trauma and Emergency Medical Systems within such Administration. Such Division shall be headed by a director appointed by the Secretary from among individuals who are knowledgeable by training or experience in the development and operation of trauma and emergency medical systems.
 
 (July 1, 1944, ch. 373, title XII, §1201, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916; amended Pub. L. 103–183, title VI, §601(a), Dec. 14, 1993, 107 Stat. 2238; Pub. L. 104–146, §12(b), May 20, 1996, 110 Stat. 1373.)
 

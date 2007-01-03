@@ -46,11 +46,13 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(I) each of fiscal years 2002 and 2003, the home health market basket percentage increase (as defined in clause (iii)) minus 1.1 percentage points;
 
-&emsp;&emsp;&emsp;&emsp;(II) for the last calendar quarter of 2003 and the first calendar quarter of 2004, the home health market basket percentage increase;
+&emsp;&emsp;&emsp;&emsp;(II) for <sup>1</sup> the last calendar quarter of 2003 and the first calendar quarter of 2004, the home health market basket percentage increase;
 
-&emsp;&emsp;&emsp;&emsp;(III) the last 3 calendar quarters of 2004, and each of 2005 and 2006 the home health market basket percentage increase minus 0.8 percentage points; or
+&emsp;&emsp;&emsp;&emsp;(III) the last 3 calendar quarters of 2004, and all of 2005 <sup>2</sup> the home health market basket percentage increase minus 0.8 percentage points;
 
-&emsp;&emsp;&emsp;&emsp;(IV) 2007 and any subsequent year, the home health market basket percentage increase.
+&emsp;&emsp;&emsp;&emsp;(IV) 2006, 0 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(V) any subsequent year, subject to clause (v), the home health market basket percentage increase.
 
 #### (iii) Home health market basket percentage increase
 
@@ -59,6 +61,20 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 #### (iv) Adjustment for case mix changes
 
 &emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
+
+#### (v) Adjustment if quality data not submitted
+
+#### (I) Adjustment
+
+&emsp;&emsp;&emsp;&emsp;For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclause (II) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall be reduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
+
+#### (II) Submission of quality data
+
+&emsp;&emsp;&emsp;&emsp;For 2007 and each subsequent year, each home health agency shall submit to the Secretary such data that the Secretary determines are appropriate for the measurement of health care quality. Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this clause.
+
+#### (III) Public availability of data submitted
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted under subclause (II) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
 
 #### (C) Adjustment for outliers
 
@@ -88,7 +104,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (5) Outliers
 
-&emsp;The Secretary may provide for an addition or adjustment to the payment amount otherwise made in the case of outliers because of unusual variations in the type or amount of medically necessary care. The total amount of the additional payments or payment adjustments made under this paragraph with respect to a fiscal year or year may not exceed 5 percent of the total payments projected or estimated to be made based on the prospectivepayment system under this subsection in that year.
+&emsp;The Secretary may provide for an addition or adjustment to the payment amount otherwise made in the case of outliers because of unusual variations in the type or amount of medically necessary care. The total amount of the additional payments or payment adjustments made under this paragraph with respect to a fiscal year or year may not exceed 5 percent of the total payments projected or estimated to be made based on the prospective payment system under this subsection in that year.
 
 #### (6) Proration of prospective payment amounts
 
@@ -132,9 +148,23 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46.)
+
+#### References in Text
+
+Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) of title V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
 
 #### Amendments
+
+2006—Subsec. (b)(3)(B)(ii)(III). Pub. L. 109–171, §5201(a)(1), substituted “all of 2005” for “each of 2005 and 2006”.
+
+Subsec. (b)(3)(B)(ii)(IV). Pub. L. 109–171, §5201(a)(2), (4), added subcl. (IV). Former subcl. (IV) redesignated (V).
+
+Pub. L. 109–171, §5201(a)(3), struck out “2007 and” before “any subsequent year”.
+
+Subsec. (b)(3)(B)(ii)(V). Pub. L. 109–171, §5201(a)(3), (c)(1), redesignated subcl. (IV) as (V) and inserted “subject to clause (v),” after “subsequent year,”.
+
+Subsec. (b)(3)(B)(v). Pub. L. 109–171, §5201(c)(2), added cl. (v).
 
 2003—Subsec. (b)(3)(B)(i). Pub. L. 108–173, §701(a)(1), substituted “fiscal year 2002 and for fiscal year 2003 and for each subsequent year (beginning with 2004)” for “each fiscal year (beginning with fiscal year 2002)” and inserted “or year” after “the fiscal year”.
 
@@ -202,11 +232,11 @@ Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended b
 
 #### One-Year Increase for Home Health Services Furnished in a Rural Area
 
-Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, provided that:
+Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46, provided that:
 
 “(a)
 
-In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent.
+In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, and episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent.
 
 “(b)
 
@@ -238,7 +268,7 @@ In general.—Subject to paragraph (2), the amount of payment for an episode of 
 
 &emsp;“(2)
 
-Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality.—The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[this subchapter\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
+Adjustment in case of overutilization of substitute adult day-care services to ensurebudget neutrality.—The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[this subchapter\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
 
 “(c)
 
@@ -258,7 +288,7 @@ Preference in Selecting Agencies.—In selecting home health agencies to partici
 
 “(g)
 
-Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social SecurityAct \[this subchapter\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
+Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social Security Act \[this subchapter\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
 
 “(h)
 
@@ -350,7 +380,7 @@ Pub. L. 108–173, title VII, §705, Dec. 8, 2003, 117 Stat. 2339, provided that
 
 “(a)
 
-Study.—The Medicare Payment Advisory Commission shall conduct a study of payment margins of home health agencies under the home health prospective payment system under section 1895 of the Social Security Act (42 U.S.C. 1395fff). Such study shall examine whether systematic differences in payment margins are related to differences in case mix (as measured by home health resource groups (HHRGs)) among such agencies. The study shall use the partial or full-year cost reports filed by home health agencies.
+Study.—The Medicare Payment Advisory Commission shall conduct a study of payment margins of home health agencies under the home health prospective payment system under section 1895 of the SocialSecurity Act (42 U.S.C. 1395fff). Such study shall examine whether systematic differences in payment margins are related to differences in case mix (as measured by home health resource groups (HHRGs)) among such agencies. The study shall use the partial or full-year cost reports filed by home health agencies.
 
 “(b)
 
@@ -539,4 +569,8 @@ Estimate.—Not later than October 1, 1997, the Secretary of Health and Human Se
 “(b)
 
 Annual Report.—Not later than the end of each of years 1999 through 2002, the Secretary shall submit to such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such other methods as will reduce the growth in outlays for home health services under the medicare program.”
+
+<i><sup>1</sup></i><i> So in original. The word “for” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

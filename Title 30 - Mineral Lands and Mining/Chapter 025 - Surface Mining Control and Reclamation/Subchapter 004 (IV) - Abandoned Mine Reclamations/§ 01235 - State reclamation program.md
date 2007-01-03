@@ -40,11 +40,11 @@ On an annual basis, each State having an approved State Reclamation Plan may sub
 
 #### (g) Costs
 
-The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineering costs, construction inspection costs, and other necessary administrative expenses.
+The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineeringcosts, construction inspection costs, and other necessary administrative expenses.
 
 #### (h) Grant of funds
 
-Upon approval of State Reclamation Plan by the Secretary and of the surface mine regulatory program pursuant to section 1253 of this title, the Secretary shall grant, on an annualbasis, funds to be expended in such State pursuant to section 1232(g) of this title and which are necessary to implement the State reclamation program as approved by the Secretary.
+Upon approval of State Reclamation Plan by the Secretary and of the surface mine regulatory program pursuant to section 1253 of this title, the Secretary shall grant, on an annual basis, funds to be expended in such State pursuant to section 1232(g) of this title and which are necessary to implement the State reclamation program as approved by the Secretary.
 
 #### (i) Program monitorship
 

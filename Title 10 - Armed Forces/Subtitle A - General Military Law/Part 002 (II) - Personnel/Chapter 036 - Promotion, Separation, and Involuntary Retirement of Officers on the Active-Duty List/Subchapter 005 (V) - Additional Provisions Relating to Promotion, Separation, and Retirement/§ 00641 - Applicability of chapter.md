@@ -18,13 +18,17 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;(5) Students at the Uniformed Services University of the Health Sciences.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 108–375, div. A, title IV, §416(j), title V, §501(d), Oct. 28, 2004, 118 Stat. 1869, 1874.)
+&emsp;(6) Officers appointed pursuant to an agreement under section 329 of title 37.
+
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 108–375, div. A, title IV, §416(j), title V, §501(d), Oct. 28, 2004, 118 Stat. 1869, 1874; Pub. L. 109–364, div. A, title VI, §621(c), Oct. 17, 2006, 120 Stat. 2255.)
 
 #### Codification
 
 Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2961, 3026, which directed amendment of this section effective Oct. 1, 1996, by inserting “(a)” before “Officers in the following” and by adding at the end a new subsec. (b), was amended by Pub. L. 104–106, div. A, title XV, §1501(a)(1)(A), Feb. 10, 1996, 110 Stat. 495, and, as so amended, amends section 620 of this title instead of this section.
 
 #### Amendments
+
+2006—Par. (6). Pub. L. 109–364 added par. (6).
 
 2004—Par. (1). Pub. L. 108–375, §416(j), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
@@ -56,7 +60,7 @@ Par. (1)(F). Pub. L. 108–375, §501(d), which directed substitution of “sect
 
 Pub. L. 104–106 substituted “10502, 10505, 10506(a), 10506(b), 10507” for “10501”.
 
-1994—Par. (1)(B). Pub. L. 103–337, §1671(c)(5)(A), substituted “3038, 8038, 10211, 10301 through 10305, 10501, or 12402” for “175, 265, 3021, 3038, 3040, 3496, 5251, 5252, 8021, 8038, or 8496”.
+1994—Par. (1)(B). Pub. L. 103–337, §1671(c)(5)(A), substituted “3038, 8038, 10211, 10301 through 10305, 10501, or12402” for “175, 265, 3021, 3038, 3040, 3496, 5251, 5252, 8021, 8038, or 8496”.
 
 Par. (1)(C). Pub. L. 103–337, §1671(c)(5)(B), substituted “12301(d)” for “672(d)”.
 

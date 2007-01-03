@@ -122,7 +122,7 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III of this chapter, in the case of an alien who is in the UnitedStates as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Definitions
 
@@ -300,7 +300,7 @@ Second determination.—
 
 &emsp;&emsp;“(A)
 
-Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alienin a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
+Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alien in a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
 
 &emsp;&emsp;“(B)
 
@@ -360,7 +360,7 @@ Requirements relating to adverse determinations.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if itwas obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -450,11 +450,11 @@ Dates.—The dates described in this paragraph are the following:
 
 “(f)
 
-Clarification With Respect to Children.—In the case of an alien who was a child on the date on which the application described in subsection (b)(2) was filed, the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after such date.
+Clarification With Respect to Children.—In the case of an alien who was a child on the date onwhich the application described in subsection (b)(2) was filed, the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after such date.
 
 #### “SEC. 11033. REGULATIONS.
 
-“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov.2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
+“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
 
 #### “SEC. 11034. DEFINITIONS.
 

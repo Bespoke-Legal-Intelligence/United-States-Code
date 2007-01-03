@@ -136,5 +136,5 @@ Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par
 
 #### Notice of Reprogramming
 
-Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section aresubject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science and Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science and Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 

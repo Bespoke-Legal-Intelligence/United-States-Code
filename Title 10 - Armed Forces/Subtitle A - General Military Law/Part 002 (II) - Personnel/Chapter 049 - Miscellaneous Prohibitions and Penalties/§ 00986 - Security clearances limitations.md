@@ -20,7 +20,7 @@ Persons Disqualified From Being Granted Security Clearances.—A person is descr
 
 &emsp;(1) The person has been convicted in any court of the United States of a crime, was sentenced to imprisonment for a term exceeding one year, and was incarcerated as a result of that sentence for not less than one year.
 
-&emsp;(2) The person is an unlawful user of, or is addicted to, a controlled substance (as definedin section 102 of the Controlled Substances Act (21 U.S.C. 802)).
+&emsp;(2) The person is an unlawful user of, or is addicted to, a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).
 
 &emsp;(3) The person is mentally incompetent, as determined by a mental health professional approved by the Department of Defense.
 

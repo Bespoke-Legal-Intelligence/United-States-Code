@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), there are authorized to be appropriated to carry out sections2911 through 2913 of this title such sums as may be necessary for each of the fiscal years 1999 through 2003.
+&emsp;Subject to paragraph (2), there are authorized to be appropriated to carry out sections 2911 through 2913 of this title such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
 #### (2) Reservations
 

@@ -44,7 +44,7 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 &emsp;&emsp;&emsp;(vi) $20,000,000 in fiscal year 2007.
 
-> &emsp;Any amounts authorized to be paid in a fiscal year under this subparagraph that are not paid in that fiscal year may be paid in subsequent fiscal years.
+> &emsp;Any amounts authorized to be paid in a fiscal year under this subparagraph that are not paidin that fiscal year may be paid in subsequent fiscal years.
 
 #### (D) Inflation escalation index
 

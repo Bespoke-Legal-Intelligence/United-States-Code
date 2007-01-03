@@ -114,7 +114,7 @@ Subsec. (d). Pub. L. 101–509, §529 \[title II, §203\], as amended by Pub. L.
 
 1975—Pub. L. 94–183 struck out “Sunday,” after “Night,” in section catchline.
 
-1970—Subsec. (c)(2). Pub. L. 91–231 corrected the system of premium compensation of employees whose work schedules cannot be administratively controlledby providing for separate treatment for irregular, unscheduled, and overtime duty on one hand and for duty at night, on Sundays, and on holidays on the other.
+1970—Subsec. (c)(2). Pub. L. 91–231 corrected the system of premium compensation of employees whose work schedules cannot be administratively controlled by providing for separate treatment for irregular, unscheduled, and overtime duty on one hand and for duty at night, on Sundays, and on holidays on the other.
 
 1968—Subsec. (c)(1). Pub. L. 90–556 inserted “(or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position)” after “GS–10”.
 
@@ -126,7 +126,7 @@ Subject to any vested constitutional property rights, any administrative or judi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1989 Amendment
 

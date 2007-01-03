@@ -18,7 +18,7 @@ Major Headquarters Activities.—(1) For purposes of this section, major headqua
 
 Limitation on Reassignment of Functions.—In carrying out reductions in the number of personnel assigned to, or employed in, major headquarters activities in order to comply with this section, the Secretary of Defense and the Secretaries of the military departments may not reassign functions in order to evade the requirements of this section.
 
-(Added Pub. L. 105–85, div. A, title IX, §911(a)(1), Nov. 18, 1997, 111 Stat. 1857; amended Pub. L. 106–65, div. A, title IX, §921(a)(1), Oct. 5, 1999, 113 Stat. 722; Pub. L. 106–398, §1 \[\[div. A\], title IX, §941\], Oct. 30, 2000, 114 Stat. 1654, 1654A–241; Pub. L. 108–375, div. A, title X, §1084(d)(2), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 105–85, div. A, title IX, §911(a)(1), Nov. 18, 1997, 111 Stat. 1857; amended Pub. L.106–65, div. A, title IX, §921(a)(1), Oct. 5, 1999, 113 Stat. 722; Pub. L. 106–398, §1 \[\[div. A\], title IX, §941\], Oct. 30, 2000, 114 Stat. 1654, 1654A–241; Pub. L. 108–375, div. A, title X, §1084(d)(2), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### Amendments
 

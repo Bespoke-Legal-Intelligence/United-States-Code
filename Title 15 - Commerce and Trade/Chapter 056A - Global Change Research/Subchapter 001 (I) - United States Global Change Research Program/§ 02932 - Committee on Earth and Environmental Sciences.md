@@ -62,7 +62,7 @@ The Council, through the Committee, shall be responsible for planning and coordi
 
 &emsp;(5) cooperate with the Secretary of State in—
 
-&emsp;&emsp;(A) providing representation at international meetings and conferences on globalchange research in which the United States participates; and
+&emsp;&emsp;(A) providing representation at international meetings and conferences on global change research in which the United States participates; and
 
 &emsp;&emsp;(B) coordinating the Federal activities of the United States with programs of other nations and with international global change research activities such as the International Geosphere-Biosphere Program;
 

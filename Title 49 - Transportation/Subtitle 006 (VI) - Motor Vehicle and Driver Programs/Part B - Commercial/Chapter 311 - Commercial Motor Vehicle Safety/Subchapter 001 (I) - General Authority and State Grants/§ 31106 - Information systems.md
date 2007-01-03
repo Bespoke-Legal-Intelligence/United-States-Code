@@ -64,7 +64,7 @@ Conditions for participation.—The Secretary shall require States, as a conditi
 
 &emsp;&emsp;(B) possess or seek the authority to possess for a time period no longer than determined reasonable by the Secretary, to impose sanctions relating to commercial motor vehicle registration on the basis of a Federal safety fitness determination; and
 
-&emsp;&emsp;(C) establish and implement a process to cancel the motor vehicle registration andseize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order.
+&emsp;&emsp;(C) establish and implement a process to cancel the motor vehicle registration and seize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order.
 
 &emsp;(4)
 

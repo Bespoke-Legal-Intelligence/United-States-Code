@@ -88,7 +88,7 @@ The Secretary shall make payments under a conservation security contract as soon
 
 #### (C) Other USDA payments
 
-&emsp;&emsp;A producer shall not receive payments under the conservation security programand any other conservation program administered by the Secretary for the same practices on the same land.
+&emsp;&emsp;A producer shall not receive payments under the conservation security program and any other conservation program administered by the Secretary for the same practices on the same land.
 
 #### (D) Commensurate share
 

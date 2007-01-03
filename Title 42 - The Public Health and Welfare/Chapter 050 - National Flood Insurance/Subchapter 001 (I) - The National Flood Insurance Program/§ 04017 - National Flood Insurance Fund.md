@@ -68,6 +68,10 @@ The fund shall be available, with respect to any fiscal year beginning on or aft
 
 (Pub. L. 90–448, title XIII, §1310, Aug. 1, 1968, 82 Stat. 577; Pub. L. 97–35, title III, §341(c), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(j)(1), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 100–242, title V, §545(d), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–508, title II, §2302(e)(3), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §§542, 554(b), 577(h), Sept. 23, 1994, 108 Stat. 2269, 2274, 2283; Pub. L. 108–264, title I, §§102(b), 104(b), June 30, 2004, 118 Stat. 721, 723.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(6), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
 #### Amendments
 
 2004—Subsec. (a)(7), (8). Pub. L. 108–264, §102(b), struck out “and” at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: “for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.”
@@ -96,5 +100,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

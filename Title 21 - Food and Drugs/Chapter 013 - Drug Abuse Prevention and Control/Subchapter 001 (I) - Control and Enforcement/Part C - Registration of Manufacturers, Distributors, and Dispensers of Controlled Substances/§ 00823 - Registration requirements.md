@@ -98,7 +98,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(ii) With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the practitioner has the capacity to refer the patients for appropriate counseling and other appropriate ancillary services.
 
-&emsp;(iii) The total number of such patients of the practitioner at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number.
+&emsp;(iii) The total number of such patients of the practitioner at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The Secretary may by regulation change such total number.
 
 (C) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to narcotic drugs in schedule III, IV, or V or combinations of such drugs are as follows:
 
@@ -160,19 +160,19 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 (I) During the 3-year period beginning on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs, to patients for maintenance or detoxification treatment in accordance with this paragraph unless, before the expiration of that 3-year period, the State enacts a law prohibiting a practitioner from dispensing such drugs or combinations of drug.<sup>1</sup>
 
-(J)(i) This paragraph takes effect the date referred to in subparagraph (I), and remains in effect thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).
+(J)(i) This paragraph takes effect the date referred to in subparagraph (I), and remains in effect thereafter.
 
-(ii) For purposes relating to clause (iii), the Secretary and the Attorney General may, during the 3-year period beginning on October 17, 2000, make determinations in accordance with the following:
+(ii) For purposes relating to clause (iii), the Secretary and the Attorney General may, during the 3-year period beginning on December 29, 2006, make determinations in accordance with the following:
 
 &emsp;(I) The Secretary may make a determination of whether treatments provided under waivers under subparagraph (A) have been effective forms of maintenance treatment and detoxification treatment in clinical settings; may make a determination of whether such waivers have significantly increased (relative to the beginning of such period) the availability of maintenance treatment and detoxification treatment; and may make a determination of whether such waivers have adverse consequences for the public health.
 
 &emsp;(II) The Attorney General may make a determination of the extent to which there have been violations of the numerical limitations established under subparagraph (B) for the number of individuals to whom a practitioner may provide treatment; may make a determination of whether waivers under subparagraph (A) have increased (relative to the beginning of such period) the extent to which narcotic drugs in schedule III, IV, or V or combinations of such drugs are being dispensed or possessed in violation of this chapter; and may make a determination of whether such waivers have adverse consequences for the public health.
 
-(iii) If, before the expiration of the period specified in clause (ii), the Secretary or the Attorney General publishes in the Federal Register a decision, made on the basis of determinations under such clause, that this paragraph should not remain in effect, this paragraph ceases to be in effect 60 days after the date on which the decision is so published. The Secretary shall in making any such decision consult with the Attorney General, and shall in publishing the decision in the Federal Register include any comments received from the Attorney General for inclusion in the publication. The Attorney General shall in making any such decision consult with the Secretary, and shall in publishing the decision in the Federal Register include any comments received from the Secretary for inclusion in the publication.
+(iii) If, before the expiration of the period specified in clause (ii), the Secretary or the Attorney General publishes in the Federal Register a decision, made on the basis of determinations under such clause, that subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective 60 days after the date on which the decision is so published. The Secretary shall in making any such decision consult with the Attorney General, and shall in publishing the decision in the Federal Register include any comments received from the Attorney General for inclusion in the publication. The Attorney General shall in making any such decision consult with the Secretary, and shall in publishing the decision in the Federal Register include any comments received from the Secretary for inclusion in the publication.
 
 #### (h) Applicants for distribution of list I chemicals
 
-The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under section 802(39)(A)(iv) of this title. In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
+The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under clause (iv) or (v) of section 802(39)(A) of this title. In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
 
 &emsp;(1) maintenance by the applicant of effective controls against diversion of listed chemicals into other than legitimate channels;
 
@@ -184,7 +184,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;(5) such other factors as are relevant to and consistent with the public health and safety.
 
-(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591.)
+(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c),Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540.)
 
 #### References in Text
 
@@ -192,9 +192,19 @@ Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (f) and (g)(2), 
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-This chapter, referred to in subsec.(g)(2)(J)(ii)(II), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (g)(2)(J)(ii)(II), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (g)(2)(B)(iii). Pub. L. 109–469, §1102(1), substituted “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The” for “except that the”.
+
+Subsec. (g)(2)(J)(i). Pub. L. 109–469, §1102(2)(A), substituted “thereafter.” for “thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).”
+
+Subsec. (g)(2)(J)(ii). Pub. L. 109–469, §1102(2)(B), substituted “December 29, 2006” for “October 17, 2000” in introductory provisions.
+
+Subsec. (g)(2)(J)(iii). Pub. L. 109–469, §1102(2)(C), substituted “subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective” for “this paragraph should not remain in effect, this paragraph ceases to be in effect”.
+
+Subsec. (h). Pub. L. 109–177 substituted “clause (iv) or (v) of section 802(39)(A) of this title” for “section 802(39)(A)(iv) of this title” in introductory provisions.
 
 2005—Subsec. (g)(2)(B)(iii). Pub. L. 109–56, §1(b), substituted “The total” for “In any case in which the practitioner is not in a group practice, the total”.
 

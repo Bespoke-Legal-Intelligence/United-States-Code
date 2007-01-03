@@ -16,7 +16,7 @@
 
 #### (b) Standards regarding evictions
 
-Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to thissection or because of any action taken by the Secretary or any public housing agency pursuant to this section.
+Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
 
 #### (c) Relocation assistance
 
@@ -46,7 +46,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 &emsp;&emsp;(C) any supportive services to be provided to tenants of the designated project (or portion);
 
-&emsp;&emsp;(D) how the design and related facilities (as such term is defined in section 1701q(d)(8) <sup>1</sup> of title 12) of the project accommodate the special environmental needs of the intended occupants; and
+&emsp;&emsp;(D) how the design and related facilities (as such term is defined in section1701q(d)(8) <sup>1</sup> of title 12) of the project accommodate the special environmental needs of the intended occupants; and
 
 &emsp;&emsp;(E) any plans to secure additional resources or housing assistance to provide assistance to families that may have been housed if occupancy in the project were not restricted pursuant to this section.
 

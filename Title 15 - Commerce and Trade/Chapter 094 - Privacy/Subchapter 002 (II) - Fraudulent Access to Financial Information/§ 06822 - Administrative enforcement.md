@@ -14,7 +14,7 @@ Except as provided in subsection (b) of this section, compliance with this subch
 
 &emsp;&emsp;&emsp;(i) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;&emsp;(ii) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal ReserveAct \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board;
+&emsp;&emsp;&emsp;(ii) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board;
 
 &emsp;&emsp;&emsp;(iii) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System and national nonmember banks) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation; and
 
@@ -24,7 +24,7 @@ Except as provided in subsection (b) of this section, compliance with this subch
 
 #### (2) Violations of this subchapter treated as violations of other laws
 
-&emsp;For the purpose of the exercise by any agency referred to in paragraph (1) of its powers under any Act referred to in that paragraph, a violation of this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with this subchapter, any other authority conferred on such agency by law.
+&emsp;For the purpose of the exercise by any agency referred to in paragraph (1) of its powersunder any Act referred to in that paragraph, a violation of this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with this subchapter, any other authority conferred on such agency by law.
 
 (Pub. L. 106–102, title V, §522, Nov. 12, 1999, 113 Stat. 1447.)
 
@@ -35,4 +35,8 @@ The Fair Debt Collection Practices Act, referred to in subsec. (a), is title VII
 Section 25 of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12.
 
 The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+
+#### Transfer of Functions
+
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 

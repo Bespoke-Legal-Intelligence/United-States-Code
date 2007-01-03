@@ -24,7 +24,7 @@
 
 #### (b) Cooperative education program
 
-(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
+(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with theBureau or other Federal agency providing Indian agricultural or related services.
 
 (2) The cooperative educational program under paragraph (1) shall be modeled after, and shall have essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) is interested in a career with the Bureau, an Indian tribe or a tribal enterprise in the management of Indian rangelands, farmlands, or other natural resource assets.
 
-(5) A recipient of assistance under the cooperative education program under this subsection shall be required to enter into an obligated service agreement with the Secretary to serve as a professional in an agricultural resource relatedactivity with the Bureau, or other Federal agency providing agricultural or related services to Indians or Indian tribes, or an Indian tribe for one year for each year for which the Secretary pays the recipients educational costs pursuant to paragraph (3).
+(5) A recipient of assistance under the cooperative education program under this subsection shall be required to enter into an obligated service agreement with the Secretary to serve as a professional in an agricultural resource related activity with the Bureau, or other Federal agency providing agricultural or related services to Indians or Indian tribes, or an Indian tribe for one year for each year for which the Secretary pays the recipients educational costs pursuant to paragraph (3).
 
 #### (c) Scholarship program
 
@@ -240,7 +240,7 @@ In general.—The Secretary shall provide for an evaluation of the results of ea
 
 &emsp;“(2)
 
-Information.—Upon request of the Secretary, an institution named in section 3(b) shall cooperate with and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
+Information.—Upon request of the Secretary, an institution named in section 3(b) shall cooperatewith and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
 
 “(g)
 
@@ -288,7 +288,7 @@ Transition provisions.—
 
 &emsp;&emsp;“(A)
 
-Retention of annual and sick leave accrued before becoming subject to demonstrationproject.—Any individual becoming subject to a demonstration project under this Act shall, in a manner consistent with the requirements of section 6308 of title 5, United States Code, be credited with any annual leave and any sick leave standing to such individual's credit immediately before becoming subject to the project.
+Retention of annual and sick leave accrued before becoming subject to demonstration project.—Any individual becoming subject to a demonstration project under this Act shall, in a manner consistent with the requirements of section 6308 of title 5, United States Code, be credited with any annual leave and any sick leave standing to such individual's credit immediately before becoming subject to the project.
 
 &emsp;&emsp;“(B)
 
@@ -330,7 +330,7 @@ Collective-bargaining agreements.—Any collective-bargaining agreement in effec
 
 #### “SEC. 7. REGULATIONS.
 
-“The president of each institution named in section 3(b) may, in consultation with the appropriate entities (referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
+“The president of each institution named in section 3(b) may, in consultation with the appropriate entities\(referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
 
 #### “SEC. 8. LEGISLATION TO MAKE CHANGES PERMANENT.
 

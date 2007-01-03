@@ -30,7 +30,7 @@ For the purpose of calculating any refund of interest required under subsection 
 
 &emsp;&emsp;(A) the amount necessary to prepay the account in full; and
 
-&emsp;&emsp;(B) if the amount disclosed pursuant to subparagraph (A) includes an amount whichis required to be refunded under this section with respect to such prepayment, the amount of such refund.
+&emsp;&emsp;(B) if the amount disclosed pursuant to subparagraph (A) includes an amount which is required to be refunded under this section with respect to such prepayment, the amount of such refund.
 
 #### (2) Written statement required if request is in writing
 

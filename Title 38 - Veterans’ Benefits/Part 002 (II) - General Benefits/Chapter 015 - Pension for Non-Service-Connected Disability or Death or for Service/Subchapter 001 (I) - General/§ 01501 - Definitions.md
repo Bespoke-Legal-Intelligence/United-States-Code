@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 (1) The term “Indian Wars” means the campaigns, engagements, and expeditions of the United States military forces against Indian tribes or nations, service in which has been recognized heretofore as pensionable service.
 
-(2) The term “World War I” includes, in the case of any veteran, any period of service performed by such veteran after November 11, 1918, and before July 2, 1921, if such veteran served in the active military, naval, or air service after April 5, 1917, and before November 12, 1918.
+(2) The term “World War I” includes, in the case of any veteran, any period of service performed by such veteran after November 11, 1918, and before July 2, 1921, if such veteran served inthe active military, naval, or air service after April 5, 1917, and before November 12, 1918.
 
 (3) The term “Civil War veteran” includes a person who served in the military or naval forces of the Confederate States of America during the Civil War, and the term “active military or naval service” includes active service in those forces.
 

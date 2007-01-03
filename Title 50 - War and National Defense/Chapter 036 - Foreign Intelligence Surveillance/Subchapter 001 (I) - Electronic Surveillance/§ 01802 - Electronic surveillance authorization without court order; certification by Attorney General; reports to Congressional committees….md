@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(ii) the acquisition of technical intelligence, other than the spoken communications of individuals, from property or premises under the open and exclusive control of a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title;
 
-&emsp;(B) there is no substantial likelihood that the surveillance will acquire the contents of any communication to which a United States person is a party; and
+&emsp;(B) there is no substantial likelihood that the surveillance will acquire the contents ofany communication to which a United States person is a party; and
 
 &emsp;(C) the proposed minimization procedures with respect to such surveillance meet the definition of minimization procedures under section 1801(h) of this title; and
 

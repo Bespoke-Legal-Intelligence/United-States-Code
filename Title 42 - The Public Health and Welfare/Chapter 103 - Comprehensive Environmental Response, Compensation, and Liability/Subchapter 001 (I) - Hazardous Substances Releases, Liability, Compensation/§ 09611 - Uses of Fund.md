@@ -72,7 +72,7 @@ Research, development, and demonstration costs under section 9660.—The cost of
 
 &emsp;(11)
 
-Local government reimbursement.—Reimbursements to local governments under section 9623 of this title, except that during the 8-fiscal year period beginning October 1, 1986, not more than 0.1 percent of the total amount appropriated from the Fund may be used for such reimbursements.
+Local government reimbursement.—Reimbursements to local governments undersection 9623 of this title, except that during the 8-fiscal year period beginning October 1, 1986, not more than 0.1 percent of the total amount appropriated from the Fund may be used for such reimbursements.
 
 &emsp;(12)
 
@@ -94,7 +94,7 @@ Lead poisoning study.—The cost of carrying out the study under subsection (f) 
 
 #### (e) Funding requirements respecting moneys in Fund; limitation on certain claims; Fund use outside Federal property boundaries
 
-(1) Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claimsbecome valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
+(1) Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claims become valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
 
 (2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>2</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
 
@@ -174,7 +174,7 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 #### (1) In general
 
-&emsp;The following sums are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund:
+&emsp;The following sums are authorized to be appropriated, out of any money in the Treasurynot otherwise appropriated, to the Hazardous Substance Superfund:
 
 &emsp;&emsp;(A) For fiscal year 1987, $212,500,000.
 
@@ -244,7 +244,7 @@ Subsec. (p)(1)(F) to (H). Pub. L. 101–508, §6301(8), added subpars. (F) to (H
 
 1989—Subsec. (c)(12). Pub. L. 101–144, which directed that section 9611(c)(12) of the Superfund Amendments and Reauthorization Act of 1986 be amended by substituting “$20,000,000” for “$10,000,000”, was executed by making the substitution in subsec. (c)(12) of this section, as the probable intent of Congress because the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, does not contain a section 9611, but section 111(d)(2) of Pub. L. 99–499 enacted subsec. (c)(12) of this section.
 
-1986—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and “For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund).” in introductory provisions, substituted “Payment” for “payment” in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for “; and” in par. (3), and added pars. (5) and (6).
+1986—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and “For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund).” in introductory provisions, substituted “Payment” for “payment” in pars. (1) to (4), aperiod for a semicolon in pars. (1) and (2), and a period for “; and” in par. (3), and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 99–499, §§111(c)(1), 207(d)(1), designated existing provisions as par. (1), inserted “, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation” in par. (1), and added par. (2).
 

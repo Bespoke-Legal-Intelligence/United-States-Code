@@ -8,7 +8,7 @@ Each local educational agency receiving assistance under this part shall carry o
 
 The activities referred to in subsection (a) of this section are activities that increase coordination between the local educational agency and a Head Start agency and, if feasible, other entities carrying out early childhood development programs, such as the Early Reading First program, serving children who will attend the schools of the local educational agency, including—
 
-&emsp;(1) developing and implementing a systematic procedure for receiving records regardingsuch children, transferred with parental consent from a Head Start program or, where applicable, another early childhood development program such as the Early Reading First program;
+&emsp;(1) developing and implementing a systematic procedure for receiving records regarding such children, transferred with parental consent from a Head Start program or, where applicable, another early childhood development program such as the Early Reading First program;
 
 &emsp;(2) establishing channels of communication between school staff and their counterparts (including teachers, social workers, and health staff) in such Head Start agencies or other entities carrying out early childhood development programs such as the Early Reading First program, as appropriate, to facilitate coordination of programs;
 

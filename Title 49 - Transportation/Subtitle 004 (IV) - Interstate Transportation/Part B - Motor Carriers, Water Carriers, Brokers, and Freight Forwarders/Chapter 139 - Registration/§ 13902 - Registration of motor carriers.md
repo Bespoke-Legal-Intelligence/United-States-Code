@@ -36,7 +36,7 @@ Consideration of evidence; findings.—The Secretary shall consider, and to the 
 
 &emsp;(4)
 
-Withholding.—If the Secretary determines that a registrant under this section does not meet, or is not able to meet, any requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2), the Secretary shall withhold registration.
+Withholding.—If the Secretary determines that a registrant under this section doesnot meet, or is not able to meet, any requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2), the Secretary shall withhold registration.
 
 &emsp;(5)
 
@@ -240,7 +240,7 @@ This amends 49:13902(c)(4)(A) and (d)(1) and (2) for clarity and consistency.
 
 #### References in Text
 
-Section 6 of the Bus Regulatory Reform Act of 1982, referred to in subsec. (c)(4)(B), is section 6 of Pub. L. 97–261, Sept. 20, 1982, 96 Stat. 1103, which amended former sections 10102, 10322, 10521, 10922, and 11711 of this title, section 250 of Title 26, Internal Revenue Code, and section 5201 of Title 39, Postal Service.
+Section 6 of the Bus Regulatory Reform Act of 1982, referred to in subsec. (c)(4)(B), is section 6 of Pub. L. 97–261, Sept. 20, 1982, 96 Stat. 1103, which amended former sections 10102, 10322, 10521, 10922, and 11711 of this title, section 250 of Title 26, Internal Revenue Code, and former section 5201 of Title 39, Postal Service.
 
 Section 4481 of the Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified to section 4481 of Title 26, Internal Revenue Code.
 
@@ -380,7 +380,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
 
-&emsp;&emsp;“(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectorsfrom other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
+&emsp;&emsp;“(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectors from other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
 
 &emsp;&emsp;“(D) the Federal Motor Carrier Safety Administration has implemented a policy to ensure compliance with hours-of-service rules under part 395 of title 49, Code of Federal Regulations, by Mexican motor carriers seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
 
@@ -398,7 +398,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 “(e) For purposes of this section, the term ‘Mexican motor carrier’ shall be defined as a Mexico-domiciled motor carrier operating beyond United States municipalities and commercial zones on the United States-Mexico border.
 
-“(f) In addition to amounts otherwise made available in this Act, to be derived from the Highway Trust Fund, there is hereby appropriated to the Federal Motor Carrier Safety Administration, $25,866,000 for the salary, expense, and capital costs associated with the requirements of this section.”
+“(f) In addition to amounts otherwise made available in this Act, to be derived from the Highway Trust Fund, there is hereby appropriated to the Federal Motor Carrier Safety Administration, $25,866,000 for thesalary, expense, and capital costs associated with the requirements of this section.”
 
 #### Limited Modification to Moratorium on Issuance of Certificates or Permits With Respect to Mexico
 
@@ -432,7 +432,7 @@ Memorandum of President of the United States, Jan. 1, 1994, 59 F.R. 653, provide
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or politicalsubdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
+Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
 As set forth in the Statement of Administrative Action regarding the North American Free Trade Agreement (NAFTA) that I submitted to the Congress on November 3, 1993, the moratorium with respect to Mexico will be lifted in phases to coincide with the schedule of liberalization in the relevant provisions of the NAFTA. The NAFTA specifically states that the moratorium will not apply to the provision of cross-border charter or tour bus services as of the date of entry into force of the Agreement.
 
@@ -456,7 +456,7 @@ Memorandum of President of the United States, Mar. 2, 1995, 60 F.R. 12393, provi
 
 Memorandum for the Secretary of Transportation \[and\] the United States Trade Representative
 
-Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. 10922(<i>l</i>)(1) and (2) \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\], I hereby extend for an additional 2 years both the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. This action preserves the <i>status quo</i> and will maintain the moratorium through September 19, 1996, unless earlier revoked or modified.
+Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. 10922(<i>l</i>)(1) and (2) \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\], I hereby extend foran additional 2 years both the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. This action preserves the <i>status quo</i> and will maintain the moratorium through September 19, 1996, unless earlier revoked or modified.
 
 This memorandum shall be published in the Federal Register.
 
@@ -492,7 +492,7 @@ Memorandum of President of the United States, Nov. 27, 2002, 67 F.R. 71795, prov
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modifythe moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
+Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
 
 Pursuant to 49 U.S.C. 13902(c)(3), I modified the moratorium on June 5, 2001, to allow motor carriers domiciled in the United States that are owned or controlled by persons of Mexico to obtain operating authority to transport international cargo by truck between points in the United States and to provide bus services between points in the United States.
 

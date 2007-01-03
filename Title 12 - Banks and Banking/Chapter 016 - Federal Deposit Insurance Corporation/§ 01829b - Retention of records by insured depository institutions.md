@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Where the Secretary of the Treasury (referred to in this section as the “Secretary”) determines that the maintenance of appropriate types of records and other evidence by insured depository institutions has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he shall prescribe regulations to carry out the purposes of this section.
+&emsp;Where the Secretary of the Treasury (referred to in this section as the “Secretary”)determines that the maintenance of appropriate types of records and other evidence by insured depository institutions has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he shall prescribe regulations to carry out the purposes of this section.
 
 #### (2) Domestic funds transfers
 

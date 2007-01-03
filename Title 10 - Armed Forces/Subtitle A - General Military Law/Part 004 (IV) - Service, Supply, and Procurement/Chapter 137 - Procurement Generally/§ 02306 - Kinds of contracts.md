@@ -6,7 +6,7 @@
 
 \[(c) Repealed. Pub. L. 103–355, title I, §1021, Oct. 13, 1994, 108 Stat. 3257.\]
 
-(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
+(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractormay not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
 
 (e)(1) Except as provided in paragraph (2), each cost contract and each cost-plus-a-fixed-fee contract shall provide for notice to the agency by the contractor before the making, under the prime contract, of—
 
@@ -14,7 +14,7 @@
 
 &emsp;(B) a fixed-price subcontract or purchase order involving more than the greater of (i) the simplified acquisition threshold, or (ii) 5 percent of the estimated cost of the prime contract.
 
-(2) Paragraph (1) shall not apply to a prime contract with a contractor that maintains apurchasing system approved by the contracting officer for the contract.
+(2) Paragraph (1) shall not apply to a prime contract with a contractor that maintains a purchasing system approved by the contracting officer for the contract.
 
 (f) So-called “truth-in-negotiations” provisions relating to cost or pricing data to be submitted by certain contractors and subcontractors are provided in section 2306a of this title.
 
@@ -94,7 +94,7 @@ Subsec. (h). Pub. L. 103–355, §1022(b), amended subsec. (h) generally. Prior 
 
 1990—Subsec. (h)(1). Pub. L. 101–510, §808(a), struck out “(other than contracts described in paragraph (6))” after “multiyear contracts” in introductory provisions and substituted “substantial savings of the total anticipated costs of carrying out the program through annual contracts” for “reduced total costs under the contract” in subpar. (A).
 
-Subsec. (h)(6). Pub. L. 101–510, §808(b), struck out “contracts for the construction, alteration, or major repair of improvements to real property or” after “not apply to”.
+Subsec. (h)(6). Pub. L. 101–510, §808(b), struck out “contracts for the construction, alteration, or majorrepair of improvements to real property or” after “not apply to”.
 
 Subsec. (h)(9). Pub. L. 101–510, §808(c)(1), inserted “for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority” after “under this subsection” in introductory provisions.
 
@@ -183,6 +183,34 @@ For effective date of amendment by Pub. L. 87–653 see section 1(h) of Pub. L. 
 #### Transition Provision
 
 Section 805(c) of Pub. L. 101–189 provided that: “Subparagraph (C) of paragraph (9) of section 2306(h) of title 10, United States Code, as added by subsection (a), does not apply to programs that are under a multiyear contract on the date of the enactment of this Act \[Nov. 29, 1989\].”
+
+#### Determination of Contract Type for Development Programs
+
+Pub. L. 109–364, div. A, title VIII, §818(b)–(e), Oct. 17, 2006, 120 Stat. 2329, 2330, provided that:
+
+“(b)
+
+Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
+
+“(c)
+
+Elements.—As modified under subsection (b), the regulations shall require the Milestone Decision Authority for a major defense acquisition program to select the contract type for a development program at the time of a decision on Milestone B approval (or Key Decision Point B approval in the case of a space program) that is consistent with the level of program risk for the program. The Milestone Decision Authority may select—
+
+&emsp;“(1) a fixed-price type contract (including a fixed price incentive contract); or
+
+&emsp;“(2) a cost type contract.
+
+“(d)
+
+Conditions With Respect to Authorization of Cost Type Contract.—As modified under subsection (b), the regulations shall provide that the Milestone Decision Authority may authorize the use of a cost type contract under subsection (c) for a development program only upon a written determination that—
+
+&emsp;“(1) the program is so complex and technically challenging that it would not be practicable to reduce program risk to a level that would permit the use of a fixed-price type contract; and
+
+&emsp;“(2) the complexity and technical challenge of the program is not the result of a failure to meet the requirements established in section 2366a of title 10, United States Code.
+
+“(e)
+
+Justification for Selection of Contract Type.—As modified under subsection (b), the regulations shall require the Milestone Decision Authority to document the basis for the contract type selected for a program. The documentation shall include an explanation of the level of program risk for the program and, if the Milestone Decision Authority determines that the level of program risk is high, the steps that have been taken to reduce program risk and reasons for proceeding with Milestone B approval despite the high level of program risk.”
 
 #### Multiyear Procurement Authority; Requests for Relief
 

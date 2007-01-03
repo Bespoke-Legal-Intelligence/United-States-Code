@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(ii) the income and expenses of the consumer are verified by a financial statement signed by the consumer, by a credit report, and in the case of employment income, by payment records or by verification from the employer of the consumer (which verification may be in the form of a copy of a pay stub or other payment record supplied by the consumer);
 
-&emsp;&emsp;(B) the penalty applies only to a prepayment made with amounts obtained by the consumer by means other than a refinancing by the creditor under the mortgage, or an affiliate of that creditor;
+&emsp;&emsp;(B) the penalty applies only to a prepayment made with amounts obtained by theconsumer by means other than a refinancing by the creditor under the mortgage, or an affiliate of that creditor;
 
 &emsp;&emsp;(C) the penalty does not apply after the end of the 5-year period beginning on the date on which the mortgage is consummated; and
 

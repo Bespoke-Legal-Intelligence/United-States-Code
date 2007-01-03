@@ -1,6 +1,6 @@
 ### §13233. Data acquisition program
 
-(a) Not later than one year after October 24, 1992, the Secretary, through the Energy Information Administration, and in cooperation with appropriate State, regional, and local authorities, shall establish a data collection program to be conducted in at least 5 geographically and climatically diverse regions of the United States for the purpose of collecting data which would be useful to persons seeking to manufacture,convert, sell, own, or operate alternative fueled vehicles or alternative fueling facilities. Such data shall include—
+(a) Not later than one year after October 24, 1992, the Secretary, through the Energy Information Administration, and in cooperation with appropriate State, regional, and local authorities, shall establish a data collection program to be conducted in at least 5 geographically and climatically diverse regions of the United States for the purpose of collecting data which would be useful to persons seeking to manufacture, convert, sell, own, or operate alternative fueled vehicles or alternative fueling facilities. Such data shall include—
 
 &emsp;(1) identification of the number and types of motor vehicle trips made daily and miles driven per trip, including commuting, business, and recreational trips;
 

@@ -76,7 +76,7 @@ As used in subsection (a) of this section, the term “discriminate” includes�
 
 #### (3) Employment entrance examination
 
-&emsp;A covered entity may require a medical examination after an offer of employment has been made to a job applicant and prior to thecommencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if—
+&emsp;A covered entity may require a medical examination after an offer of employment has been made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if—
 
 &emsp;&emsp;(A) all entering employees are subjected to such an examination regardless of disability;
 

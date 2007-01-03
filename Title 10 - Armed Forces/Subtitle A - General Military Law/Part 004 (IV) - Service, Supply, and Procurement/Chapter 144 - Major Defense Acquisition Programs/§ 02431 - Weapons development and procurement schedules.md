@@ -84,9 +84,27 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Policy of the United States on Priorities in the Development, Testing, and Fielding of Missile Defense Capabilities
+
+Pub. L. 109–364, div. A, title II, §223, Oct. 17, 2006, 120 Stat. 2130, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) In response to the threat posed by ballistic missiles, President George W. Bush in December 2002 directed the Secretary of Defense to proceed with the fielding of an initial set of missile defense capabilities in 2004 and 2005.
+
+&emsp;“(2) According to assessments by the intelligence community of the United States, North Korea tested in 2005 a new solid propellant short-range ballistic missile, conducted a launch of a Taepodong-2 ballistic missile/space launch vehicle in 2006, and is likely developing intermediate-range and intercontinental ballistic missile capabilities that could someday reach as far as the United States with a nuclear payload.
+
+&emsp;“(3) According to assessments by the intelligence community of the United States, Iran continued in 2005 to test its medium-range ballistic missile, and the danger that Iran will acquire a nuclear weapon and integrate it with a ballistic missile Iran already possesses is a reason for immediate concern.
+
+“(b)
+
+Policy.—It is the policy of the United States that the Department of Defense accord a priority within the missile defense program to the development, testing, fielding, and improvement of effective near-term missile defense capabilities, including the ground-based midcourse defense system, the Aegis ballistic missile defense system, the Patriot PAC–3 system, the Terminal High Altitude Area Defense system, and the sensors necessary to support such systems.”
+
 #### Plans for Test and Evaluation of Operational Capability of the Ballistic Missile Defense System
 
-Pub. L. 109–163, div. A, title II, §234, Jan. 6, 2006, 119 Stat. 3174, provided that:
+Pub. L. 109–163, div. A, title II, §234, Jan. 6, 2006, 119 Stat. 3174, as amended by Pub. L. 109–364, div. A, title II, §225, Oct. 17, 2006, 120 Stat. 2130, provided that:
 
 “(a)
 
@@ -104,9 +122,13 @@ Consultation and review.—The preparation of each plan under this subsection sh
 
 &emsp;&emsp;“(B) subject to the review and approval of the Director of Operational Test and Evaluation.
 
+&emsp;“(3)
+
+Submittal to congress.—Each plan prepared under this subsection and approved by the Director of Operational Test and Evaluation shall be submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than 30 days after the date of the approval of such plan by the Director.
+
 “(b)
 
-Reports on Test and Evaluation of Blocks.—At the conclusion of the test and evaluation of block 06 and each subsequent block of the Ballistic Missile Defense System, the Director of Operational Test and Evaluation shall submit to the Secretary of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report providing—
+Reports on Test and Evaluation of Blocks.—At the conclusion of the test and evaluation of block 06 and each subsequent block of the Ballistic Missile Defense System, the Director of Operational Test and Evaluation shall submit to the Secretary of Defense and the congressional defense committees a report providing—
 
 &emsp;“(1) the assessment of the Director as to whether or not the test and evaluation was adequate to evaluate the operational capability of the block; and
 
@@ -182,7 +204,7 @@ Cost, Schedule, and Performance Baselines.—(1) The Director of the Missile Def
 
 “(f)
 
-Variations Against Baselines.—In the event the cost, schedule, or performance of any block configuration of the Ballistic Missile Defense System varies significantly (as determined by the Director of the Ballistic Missile Defense Agency) from the applicable baseline established under subsection (d), the Director shall include such variation, and the reasons for such variation, in the Selected Acquisition Report submitted to Congress under section 2432 of title 10, United States Code.
+Variations Against Baselines.—In the event the cost, schedule, or performance of any block configuration of the Ballistic Missile Defense System varies significantly (as determined by the Director of theBallistic Missile Defense Agency) from the applicable baseline established under subsection (d), the Director shall include such variation, and the reasons for such variation, in the Selected Acquisition Report submitted to Congress under section 2432 of title 10, United States Code.
 
 “(g)
 
@@ -238,7 +260,7 @@ Content.—Information provided under subsection (a) on the results of a flight 
 
 #### Missile Defense Agency Test Program
 
-Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, §225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419; Pub. L. 108–375, div. A, title II, §233, Oct. 28, 2004, 118 Stat. 1836; Pub. L. 109–163, div. A, title II, §232, Jan. 6, 2006, 119 Stat. 3174, provided that:
+Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, §225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419; Pub. L. 108–375, div. A, title II, §233, Oct. 28, 2004, 118 Stat. 1836; Pub. L. 109–163, div. A, title II, §232, Jan. 6, 2006, 119 Stat. 3174; Pub. L. 109–364, div. A, title II, §224, Oct. 17, 2006, 120 Stat. 2130, provided that:
 
 “(c)
 
@@ -302,9 +324,9 @@ Demonstration of Critical Technologies.—(1) The Director of the Missile Defens
 
 “(g)
 
-Comptroller General Assessment.—(1) At the conclusion of each of fiscal years 2002 through 2007, the Comptroller General of the United States shall carry out an assessment of the extent to which the Missile Defense Agency achieved the goals established under subsection (c) for that fiscal year for each ballistic missile defense program of the Department of Defense.
+Comptroller General Assessment.—(1) At the conclusion of each of fiscal years 2002 through 2008, the Comptroller General of the United States shall carry out an assessment of the extent to which the Missile Defense Agency achieved the goals established under subsection (c) for that fiscal year for each ballistic missile defense program of the Department of Defense.
 
-“(2) Not later than March 15 of each of 2003 through 2008, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the Comptroller General's assessment under paragraph (1) with respect to the preceding fiscal year.
+“(2) Not later than March 15 of each of 2003 through 2009, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the Comptroller General's assessment under paragraph (1) with respect to the preceding fiscal year.
 
 “(h)
 
@@ -360,55 +382,11 @@ Pub. L. 106–38, §2, July 22, 1999, 113 Stat. 205, provided that: “It is the
 
 #### National Missile Defense Program
 
-Pub. L. 105–85, div. A, title II, §231, Nov. 18, 1997, 111 Stat. 1661, provided that:
-
-“(a)
-
-Program Structure.—To preserve the option of achieving an initial operational capability in fiscal year 2003, the Secretary of Defense shall ensure that the National Missile Defense Program is structured and programmed for funding so as to support a test, in fiscal year 1999, of an integrated national missile defense system that is representative of the national missile defense system architecture that could achieve initial operational capability in fiscal year 2003.
-
-“(b)
-
-Elements of NMD System.—The national missile defense system architecture specified in subsection (a) shall consist of the following elements:
-
-&emsp;“(1) An interceptor system that optimizes defensive coverage of the continental United States, Alaska, and Hawaii against limited ballistic missile attack (whether accidental, unauthorized, or deliberate).
-
-&emsp;“(2) Ground-based radars.
-
-&emsp;“(3) Space-based sensors.
-
-&emsp;“(4) Battle management, command, control, and communications (BM/C<sup>3</sup>).
-
-“(c)
-
-Plan for NMD System Development and Deployment.—Not later than February 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services andAppropriations of Senate and House of Representatives\] a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003. The plan shall include the following matters:
-
-&emsp;“(1) A detailed description of the system architecture selected for development.
-
-&emsp;“(2) A discussion of the justification for the selection of that particular architecture.
-
-&emsp;“(3) The Secretary's estimate of the amounts of the appropriations that would be necessary for research, development, test, evaluation, and for procurement for each of fiscal years 1999 through 2003 in order to achieve an initial operational capability of the system architecture in fiscal year 2003.
-
-&emsp;“(4) For each activity necessary for the development and deployment of the national missile defense system architecture selected by the Secretary that would at some point conflict with the terms of the ABM Treaty, if any—
-
-&emsp;&emsp;“(A) a description of the activity;
-
-&emsp;&emsp;“(B) a description of the point at which the activity would conflict with the terms of the ABM Treaty;
-
-&emsp;&emsp;“(C) the legal analysis justifying the Secretary's determination regarding the point at which the activity would conflict with the terms of the ABM Treaty; and
-
-&emsp;&emsp;“(D) an estimate of the time at which such point would be reached in order to achieve a test of an integrated missile defense system in fiscal year 1999 and initial operational capability of such a system in fiscal year 2003.
-
-“(d)
-
-Funding for Fiscal Year 1998.—Of the funds authorized to be appropriated under section 201(4) \[111 Stat. 1655\], $978,091,000 shall be available for the National Missile Defense Program.
-
-“(e)
-
-ABM Treaty Defined.—In this section, the term ‘ABM Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems, signed at Moscow on May 26, 1972, and includes the Protocol to that treaty, signed at Moscow on July 3, 1974.”
+Pub. L. 105–85, div. A, title II, §231, Nov. 18, 1997, 111 Stat. 1661, provided that the Secretary of Defense was to ensure that the National Missile Defense Program was structured and programmed for funding so as to support a test, in fiscal year 1999, of an integrated national missile defense system that was representative of the national missile defense system architecture that could achieve initial operational capability in fiscal year 2003, and that not later than Feb. 15, 1998, the Secretary was to submit to the congressional defense committees a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003.
 
 #### Enhanced Cooperation Between National Nuclear Security Administration and Missile Defense Agency
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3132\], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, as amended by Pub. L. 107–314, div. A, title II, §225(b)(3), Dec. 2, 2002, 116 Stat. 2486, provided that:
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3132\], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, as amended by Pub. L.107–314, div. A, title II, §225(b)(3), Dec. 2, 2002, 116 Stat. 2486, provided that:
 
 “(a)
 
@@ -476,7 +454,7 @@ Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105
 
 &emsp;“(3) The deployment of effective Theater Missile Defense systems can deter potential adversaries of the United States from escalating a conflict by threatening or attacking United States forces or the forces or territory of coalition partners or allies of the United States with ballistic missiles armed with weapons of mass destruction to offset the operational and technical advantages of the United States and its coalition partners and allies.
 
-&emsp;“(4) United States intelligence officials have provided intelligence estimates to congressional committees that (A) the trend in missile proliferation is toward longer range and more sophisticated ballistic missiles, (B) North Korea may deploy an intercontinental ballistic missile capable of reaching Alaska or beyond within five years, and (C) although a new, indigenously developed ballistic missile threat to the continental United States is not foreseen within thenext ten years, determined countries can acquire intercontinental ballistic missiles in the near future and with little warning by means other than indigenous development.
+&emsp;“(4) United States intelligence officials have provided intelligence estimates to congressional committees that (A) the trend in missile proliferation is toward longer range and more sophisticated ballistic missiles, (B) North Korea may deploy an intercontinental ballistic missile capable of reaching Alaska or beyond within five years, and (C) although a new, indigenously developed ballistic missile threat to the continental United States is not foreseen within the next ten years, determined countries can acquire intercontinental ballistic missiles in the near future and with little warning by means other than indigenous development.
 
 &emsp;“(5) The development and deployment by the United States and its allies of effective defenses against ballistic missiles of all ranges will reduce the incentives for countries to acquire such missiles or to augment existing missile capabilities.
 
@@ -502,7 +480,7 @@ Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105
 
 “(a)
 
-Establishment of Core Program.—To implement the policy established in paragraph (1) of section 233, the Secretary of Defense shall restructure the core theater missile defense program to consist of the following systems:
+Establishment of Core Program.—To implement the policy established in paragraph (1) of section233, the Secretary of Defense shall restructure the core theater missile defense program to consist of the following systems:
 
 &emsp;“(1) The Patriot PAC–3 system.
 
@@ -590,7 +568,7 @@ Qualifying Flight Test Defined.—For purposes of this section, an ABM-qualifyin
 
 #### “SEC. 236. BALLISTIC MISSILE DEFENSE COOPERATION WITH ALLIES.
 
-“It is in the interest of the United States to develop its own missile defense capabilities in a manner that will permit the United States to complement the missile defense capabilities developed and deployed by its allies and possible coalition partners. Therefore, the Congress urges the President—
+“It is in the interest of the United States to develop its own missile defense capabilities in a manner thatwill permit the United States to complement the missile defense capabilities developed and deployed by its allies and possible coalition partners. Therefore, the Congress urges the President—
 
 &emsp;“(1) to pursue high-level discussions with allies of the United States and selected other states on the means and methods by which the parties on a bilateral basis can cooperate in the development, deployment, and operation of ballistic missile defenses;
 
@@ -642,7 +620,7 @@ Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense sha
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director of the Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation ofthe ABM Treaty and accompanied by an enclosure setting forth such interpretation.
+&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director of the Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation of the ABM Treaty and accompanied by an enclosure setting forth such interpretation.
 
 &emsp;“(2) The term ‘ABM Treaty’ means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missiles, signed in Moscow on May 26, 1972.
 
@@ -730,7 +708,7 @@ Review and Report on Deployment of Ballistic Missile Defenses.—(1) The Secreta
 
 #### Cooperation of United States Allies on Development of Tactical and Theater Missile Defenses
 
-Pub. L. 103–160, div. A, title II, §242(a)–(e), Nov. 30, 1993, 107 Stat. 1603–1605, stated congressional findings, required Secretary of Defense to develop plan to coordinate development and implementation of Theater Missile Defense programs of United States with theater missile defense programs of allies of United States, specified contents of such plan, required Secretary to submit to Congress report on such plan in both classified and unclassified versions, required Secretary to include in each annual Theater Missile Defense Initiative report to Congress report on actions taken to implement such plan, specified contents of such report, related to restriction on funds, stated sense of Congress that whenever United States deployed theater ballistic missile defenses to protect country that had not provided support for development of such defenses United Stateswas to consider seeking reimbursement from such country to cover at least incremental cost of such deployment, and related to congressional encouragement of allies of United States to participate in cooperative Theater Missile Defense programs of United States and encouragement of participation by United States in cooperative theater missile defense efforts of allied nations, prior to repeal by Pub. L. 104–106, div. A, title II, §253(7), Feb. 10, 1996, 110 Stat. 235.
+Pub. L. 103–160, div. A, title II, §242(a)–(e), Nov. 30, 1993, 107 Stat. 1603–1605, stated congressional findings, required Secretary of Defense to develop plan to coordinate development and implementation of Theater Missile Defense programs of United States with theater missile defense programs of allies of United States, specified contents of such plan, required Secretary to submit to Congress report on such plan in both classified and unclassified versions, required Secretary to include in each annual Theater Missile Defense Initiative report to Congress report on actions taken to implement such plan, specified contents of such report, related to restriction on funds, stated sense of Congress that whenever United States deployed theater ballistic missile defenses to protect country that had not provided support for development of such defenses United States was to consider seeking reimbursement from such country to cover at least incremental cost of such deployment, and related to congressional encouragement of allies of United States to participate in cooperative Theater Missile Defense programs of United States and encouragement of participation by United States in cooperative theater missile defense efforts of allied nations, prior to repeal by Pub. L. 104–106, div. A, title II, §253(7), Feb. 10, 1996, 110 Stat. 235.
 
 #### Transfer of Follow-On Technology Programs
 
@@ -814,7 +792,7 @@ SDI Contracts With Foreign Entities.—Funds appropriated to or for the use of t
 
 “(b)
 
-Temporary Suspension of Prohibition Upon Certification of the Secretary of Defense.—The prohibition in subsection (a) shall not apply to a contract in any fiscal year if the Secretary of Defense certifies to Congress in writing at any time during suchfiscal year that the research, development, testing, or evaluation to be performed under such contract cannot be competently performed by a United States firm at a price equal to or less than the price at which the research, development, testing, or evaluation would be performed by a foreign firm.
+Temporary Suspension of Prohibition Upon Certification of the Secretary of Defense.—The prohibition in subsection (a) shall not apply to a contract in any fiscal year if the Secretary of Defense certifies to Congress in writing at any time during such fiscal year that the research, development, testing, or evaluation to be performed under such contract cannot be competently performed by a United States firm at a price equal to or less than the price at which the research, development, testing, or evaluation would be performed by a foreign firm.
 
 “(c)
 
@@ -844,7 +822,7 @@ Section 223 of Pub. L. 100–180, as amended by Pub. L. 103–199, title II, §2
 
 #### SDI Architecture To Require Human Decision Making
 
-Section 224 of Pub. L. 100–180 provided that: “No agency of the Federal Government may plan for, fund, or otherwise support the development of command and control systems for strategic defense in the boost or post-boost phase against ballistic missile threats that would permit such strategic defenses to initiate the directing of damaging or lethal fire except by affirmative human decision at an appropriate level of authority.”
+Section 224 of Pub. L. 100–180 provided that: “No agency of the Federal Government may plan for, fund, or otherwise support the development of command and control systems for strategic defense in the boost or post-boost phase against ballistic missile threats thatwould permit such strategic defenses to initiate the directing of damaging or lethal fire except by affirmative human decision at an appropriate level of authority.”
 
 #### Prohibition on Deployment of Anti-Ballistic Missile System Unless Authorized by Law
 
@@ -852,147 +830,11 @@ Section 226 of Pub. L. 100–180 prohibited Secretary of Defense from deploying 
 
 #### Establishment of Federally Funded Research and Development Center To Support SDI Program
 
-Section 227 of Pub. L. 100–180 provided that:
-
-“(a)
-
-Findings.—The Congress makes the following findings:
-
-&emsp;“(1) The Department of Defense requires technical support for issues of system integration related to the Strategic Defense Initiative program.
-
-&emsp;“(2) The Strategic Defense Initiative Organization, after assessing alternative types of organizations for the provision of such technical support to the Strategic Defense Initiative program (including Government organizations, profit and nonprofit entities (including existing federally funded research and development centers), a new division within an existing federally funded research and development center, a new federally funded research and development center, colleges and universities, and private nonprofit laboratories), determined that a new federally funded research and development center (hereinafter in this section referred to as an ‘FFRDC’) would be the type of organization most appropriate for the provision of such technical support to the Strategic Defense Initiative program.
-
-&emsp;“(3) In providing such technical support to the SDI program, the new FFRDC should provide critical evaluation and rigorous and objective analysis of technologies, systems, and architectures that are candidates for use in the SDI program.
-
-&emsp;“(4) Competitive selection of a contractor to establish and operate such an FFRDC to support the Strategic Defense Initiative program is one way to enhance the prospects for independent and objective evaluation of system integration issues within the Strategic Defense Initiative program.
-
-“(b)
-
-Authority To Contract for FFRDC.—The Secretary of Defense, using funds appropriated to the Department of Defense for the Strategic Defense Initiative program, may enter into a contract to provide for the establishment and operation of a federally funded research and development center to provide independent and objective technical support to the Strategic Defense Initiative program. Such a contract may not be awarded before October 1, 1989.
-
-“(c)
-
-Contract Award Requirements.—(1) A contract under subsection (b) shall be awarded using competitive procedures which emphasize cost considerations.
-
-“(2) The Secretary of Defense shall solicit proposals for such contract from existing federally funded research and development centers, from universities, from commercial entities, and from appropriate new organizations and shall make maximum efforts to obtain more than one proposal for such contract.
-
-“(3) The Secretary shall submit the three best contract proposals (as determined by the Secretary), together with a copy of the proposed sponsoring agreement for the new FFRDC, for review by three persons designated by the Defense Science Board from a list of six or more persons submitted by the National Academy of Sciences. The persons performing the review—
-
-&emsp;“(A) shall evaluate the extent to which each proposal and the proposed sponsoring agreement would foster competent and objective technical advice for the Strategic Defense Initiative Program; and
-
-&emsp;“(B) shall report their evaluation of each such proposal and of the proposed sponsoring agreement to the Secretary.
-
-“(4) Before awarding a contract under subsection (b), and not sooner than March 30, 1989, the Secretary shall submit to Congress—
-
-&emsp;“(A) a copy of the proposed final contract; and
-
-&emsp;“(B) a copy of the proposed final sponsoring agreement relating to the operation of the new FFRDC.
-
-“(5)(A) The Secretary shall then withhold the award of such contract and the approval of such sponsoring agreement for a period of at least 30 days of continuous session of Congress beginning on the day after the date on which Congress receives the copies referred to in paragraph (4).
-
-“(B) For purposes of subparagraph (A), the continuity of a session of Congress is broken only by an adjournment sine die at the end of the second regular session of that Congress. In computing the 30-day period for such purposes, days on which either House of Congress is not in session because of an adjournment of more than three days to a day certain shall be excluded.
-
-“(d)
-
-Requirements Applicable to FFRDC.—The Secretary of Defense shall—
-
-&emsp;“(1) require that the contract referred to in subsection (b) include a provision stating that no officer or employee of the Department of Defense shall have the authority to veto the employment of any person selected to serve as an officer or employee of the new FFRDC;
-
-&emsp;“(2) require that at least 5 percent of the total amount of funds available for the new FFRDC shall be set aside for independent research to be performed by the staff of the new FFRDC under the direction of the chief executive officer of the new FFRDC;
-
-&emsp;“(3) impose a limitation on the compensation payable to each senior executive of the new FFRDC for services performed for the new FFRDC so that such compensation shall be comparable to the amount of compensation payable to senior executives of comparable federally funded research and development centers for similar services;
-
-&emsp;“(4) require that the new FFRDC publicly disclose the salary of its chief executive officer;
-
-&emsp;“(5) prohibit current or former members of the Strategic Defense Initiative Advisory Committee from serving as members of the Board of Trustees of the FFRDC if such members constitute 10 or more percent of the Board of Trustees or from serving as officers of the new FFRDC;
-
-&emsp;“(6) require that the contract referred to in subsection (b) include a provision prohibiting members of such Board of Trustees from serving as officers of the new FFRDC, except that a Board member may serve as the President of the new FFRDC if the Board is comprised of 10 or more members;
-
-&emsp;“(7) require that the contract referred to in subsection (b) include a provision prohibiting the new FFRDC from employing any person who, as a Federal employee or member of the Armed Forces, served in the Strategic Defense Initiative Organization within two years before the date on which such person is to be employed by the new FFRDC; and
-
-&emsp;“(8) require that any contract referred to in subsection (b) require that the Board of Trustees of the new FFRDC be comprised of individuals who represent a reasonable cross-section of views on the engineering and scientific issues associated with the Strategic Defense Initiative Program.
-
-“(e)
-
-Funding.—The Secretary of Defense shall provide that all funds for the new FFRDC within the Department of Defense budget for any fiscal year shall be separately identified and set forth in the budget presentation materials submitted to Congress for that fiscal year.
-
-“(f)
-
-Sunset Provision.—No Federal funds may be provided to the new FFRDC after the end of the five-year period beginning on the date of the award of the first contract awarded to the FFRDC under this section.”
+Pub. L. 100–180, div. A, title II, §227, Dec. 4, 1987, 101 Stat. 1057, authorized the Secretary of Defense, using funds appropriated to the Department of Defense for the Strategic Defense Initiative program, to enter into a contract not to be awarded before Oct. 1, 1989, to provide for the establishment and operation of a federally funded research and development center (FFRDC) to provide independent and objective technical support to the Strategic Defense Initiative program, and provided that no Federal funds could be provided to the new FFRDC after the end of the five-year period beginning on the date of the award of the first contract awarded.
 
 #### Limitation on Establishment of Federally Funded Research and Development Center for Strategic Defense Initiative Program
 
-Pub. L. 99–661, div. A, title II, §213, Nov. 14, 1986, 100 Stat. 3841, provided that:
-
-“(a)
-
-Limitation.—The Secretary of Defense may not obligate or expend any funds for the purpose of operating a Federally funded research and development center that is established for the support of the Strategic Defense Initiative Program after the date of the enactment of this Act \[Nov. 14, 1986\] unless—
-
-&emsp;“(1) the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report with respect to such proposed center that provides the information described in subsection (b); and
-
-&emsp;“(2) funds are specifically authorized to be appropriated for such purpose after the date of the enactment of this Act in an Act other than—
-
-&emsp;&emsp;“(A) an appropriations Act; or
-
-&emsp;&emsp;“(B) a continuing resolution.
-
-“(b)
-
-Content of Report.—A report submitted under subsection (a)(1) with respect to a proposed center shall include a discussion of—
-
-&emsp;“(1) the ability of existing Federally funded research and development centers, Federal research laboratories, and private contractors to perform the objectives of technological integration and evaluation required by the Strategic Defense Initiative Organization;
-
-&emsp;“(2) the comparative cost of having the proposed work performed by—
-
-&emsp;&emsp;“(A) the Strategic Defense Initiative Organization;
-
-&emsp;&emsp;“(B) Federally funded research and development centers in existence on the date of the enactment of this Act \[Nov. 14, 1986\];
-
-&emsp;&emsp;“(C) by Federal research laboratories;
-
-&emsp;&emsp;“(D) by private contractors; or
-
-&emsp;&emsp;“(E) by such center;
-
-&emsp;“(3) whether such center is intended to be—
-
-&emsp;&emsp;“(A) primarily a study and analysis center; or
-
-&emsp;&emsp;“(B) primarily a system engineering/system integration center;
-
-&emsp;“(4) whether such center will be required or authorized to enter into contracts under which research projects would be performed by other Federally funded research and development centers, Federal research laboratories, or private contractors;
-
-&emsp;“(5) whether the contract to operate such center will be awarded on a competitive basis;
-
-&emsp;“(6) whether proposals with respect to the operation of such center—
-
-&emsp;&emsp;“(A) will be considered by the appropriate Defense Agency; and
-
-&emsp;&emsp;“(B) will be subjected to review by persons to be elected by the National Academy of Sciences;
-
-&emsp;“(7) whether such center will be designed to prevent even the possibility of an appearance of a conflict of interest—
-
-&emsp;&emsp;“(A) by prohibiting any officer, employee, or member of the governing body of such center from holding any position with—
-
-&emsp;&emsp;&emsp;“(i) the Strategic Defense Initiative Organization; or
-
-&emsp;&emsp;&emsp;“(ii) a private contractor that has a substantial interest in the development of the Strategic Defense Initiative; and
-
-&emsp;&emsp;“(B) by prohibiting more than one-half of the members of the governing body of the proposed Federally Funded Research Center from simultaneously holding any position with the Strategic Defense Initiative Advisory Committee or any similar body which provides technological, scientific, or strategic advice to the Department of Defense about the Strategic Defense Initiative;
-
-&emsp;“(8) whether other actions will be taken to avoid possible conflict of interest situations within such center;
-
-&emsp;“(9) the role of the Department of Defense in—
-
-&emsp;&emsp;“(A) the selection of the staff of such center; and
-
-&emsp;&emsp;“(B) the internal organization of such center; and
-
-&emsp;“(10) whether a prescribed minimum percentage of the annual budget of such center will be set aside for research to be conducted independently of the Department of Defense.
-
-“(c)
-
-Comptroller General Report.—The Comptroller General of the United States shall also submit a report to Congress providing an analysis of the items in subsection (b) as appropriate.”
+Pub. L. 99–661, div. A, title II, §213, Nov. 14, 1986, 100 Stat. 3841, prohibited the Secretary of Defense from obligating or expending any funds for the purpose of operating a Federally funded research and development center that was established for the support of the Strategic Defense Initiative Program after Nov. 14, 1986, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report with respect to such proposed center and funds were specifically authorized to be appropriated for such purpose in an Act other than an appropriations Act or a continuing resolution.
 
 #### Should-Cost Analyses
 
@@ -1000,7 +842,7 @@ Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
-Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative programcould not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
 
 #### Annual Report on Ballistic Missile Defense Program
 
@@ -1022,25 +864,9 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8104\], Oct. 12, 1984, 98 S
 
 #### Antisatellite Weapons Test
 
-Pub. L. 100–180, div. A, title II, §208, Dec. 4, 1986, 101 Stat. 1048, provided that:
+Pub. L. 100–180, div. A, title II, §208, Dec. 4, 1986, 101 Stat. 1048, prohibited the Secretary of Defense, until Oct. 1, 1988, from carrying out a test of the Space Defense System (antisatellite weapon) involving the F–15 launched miniature homing vehicle against an object in space until the President certified to Congress that the Soviet Union had conducted, after Dec. 4, 1987, a test against an object in space of a dedicated antisatellite weapon.
 
-“(a)
-
-Testing Moratorium.—The Secretary of Defense may not carry out a test of the Space Defense System (antisatellite weapon) involving the F–15 launched miniature homing vehicle against an object in space until the President certifies to Congress that the Soviet Union has conducted, after the date of the enactment of this Act \[Dec. 4, 1987\], a test against an object in space of a dedicated antisatellite weapon.
-
-“(b)
-
-Expiration.—The prohibition in subsection (a) expires on October 1, 1988.”
-
-Pub. L. 99–661, div. A, title II, §231, Nov. 14, 1986, 100 Stat. 3847, provided that:
-
-“(a)
-
-ASAT Testing Moratorium.—The Secretary of Defense may not carry out a test of the Space Defense System (anti-satellite weapon) against an object in space until the President certifies to Congress that the Soviet Union has conducted, after the date of the enactment of this Act \[Nov. 14, 1986\], a test against an object in space of a dedicated anti-satellite weapon.
-
-“(b)
-
-Expiration.—The prohibition in subsection (a) expires on October 1, 1987.”
+Pub. L. 99–661, div. A, title II, §231, Nov. 14, 1986, 100 Stat. 3847, prohibited the Secretary of Defense, until Oct. 1, 1987, from carrying out a test of the Space Defense System (anti-satellite weapon) against an object in space until the President certified to Congress thatthe Soviet Union had conducted, after Nov. 14, 1986, a test against an object in space of a dedicated anti-satellite weapon.
 
 Similar provisions were contained in the following prior acts:
 
@@ -1072,7 +898,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 S
 
 “(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be used to conduct more than three tests of that warhead against objects in space.
 
-“(c) The limitation on the expenditure of funds provided by subsection (a) of this section shall cease toapply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or March 1, 1985, whichever occurs later.”
+“(c) The limitation on the expenditure of funds provided by subsection (a) of this section shall cease to apply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or March 1, 1985, whichever occurs later.”
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -1116,7 +942,7 @@ Pub. L. 96–418, title VIII, §802, Oct. 10, 1980, 94 Stat. 1775, as amended by
 
 Pub. L. 96–342, title II, §202, Sept. 8, 1980, 94 Stat. 1079, provided that:
 
-“(a) The Congress finds that a survivable land-based intercontinental ballistic missile (ICBM) system is vital to the security of the United States and to a stable strategic balance between the United States and the Soviet Union and that timely deployment of a new basing mode is essential to the survivability of this Nation's land-based intercontinental ballistic missiles. It is, therefore, the purpose of this section to commit the Congress to the development and deployment of the MX missile system, consisting of 200 missiles and 4,600 hardened shelters, and to insure that deployment of the entire MX system is carried out as soon as practicable.
+“(a) The Congress finds that a survivable land-based intercontinental ballistic missile (ICBM) system isvital to the security of the United States and to a stable strategic balance between the United States and the Soviet Union and that timely deployment of a new basing mode is essential to the survivability of this Nation's land-based intercontinental ballistic missiles. It is, therefore, the purpose of this section to commit the Congress to the development and deployment of the MX missile system, consisting of 200 missiles and 4,600 hardened shelters, and to insure that deployment of the entire MX system is carried out as soon as practicable.
 
 “(b) The Secretary of Defense shall proceed immediately with the full-scale engineering development of the MX missile and a Multiple Protective Structure (MPS) basing mode and shall continue such development in a manner that will achieve an Initial Operational Capability of such missile and basing mode not later than December 31, 1986.
 
@@ -1132,7 +958,7 @@ Pub. L. 96–29, title II, §202, June 27, 1979, 93 Stat. 79, provided that:
 
 “(b) In addition, it is the sense of the Congress that the basing mode for the MX missile should be restricted to location on the least productive land available that is suitable for such purpose.
 
-“(c) In accordance with the sense of Congress expressed in subsection (a), the Secretary of Defense shall proceed immediately with full scale engineering development of the missile basing mode known as the Multiple Protective Structure (MPS) system concurrently with full scale engineering development of the MX missile, unless and until the Secretary of Defense certifies to the Congress that an alternative basing mode is militarily or technologically superior to, and is more cost effective than, the MPS system or the Presidentinforms the Congress that in his view the MPS system is not consistent with United States national security interests.
+“(c) In accordance with the sense of Congress expressed in subsection (a), the Secretary of Defense shall proceed immediately with full scale engineering development of the missile basing mode known as the Multiple Protective Structure (MPS) system concurrently with full scale engineering development of the MX missile, unless and until the Secretary of Defense certifies to the Congress that an alternative basing mode is militarily or technologically superior to, and is more cost effective than, the MPS system or the President informs the Congress that in his view the MPS system is not consistent with United States national security interests.
 
 “(d) Nothing in this section shall be construed to prohibit or restrict the study of alternative basing modes for land-based intercontinental ballistic missiles.”
 

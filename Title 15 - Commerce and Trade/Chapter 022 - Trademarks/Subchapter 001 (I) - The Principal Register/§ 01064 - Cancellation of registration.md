@@ -1,6 +1,6 @@
 ### §1064. Cancellation of registration
 
-A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of dilution under section 1125(c) of this title, by the registration of a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
+A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of a likelihood of dilution by blurring or dilution by tarnishment under section 1125(c) of this title, by the registration of a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
 
 &emsp;(1) Within five years from the date of the registration of the mark under this chapter.
 
@@ -14,7 +14,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 > <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.
 
-(July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §2(c), Aug. 5, 1999, 113 Stat. 218.)
+(July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §2(c), Aug. 5, 1999, 113 Stat. 218; Pub. L. 109–312, §3(c), Oct. 6, 2006, 120 Stat. 1732.)
 
 #### References in Text
 
@@ -25,6 +25,8 @@ Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. 
 Act Feb. 20, 1905, ch. 592, §13, 33 Stat. 728.
 
 #### Amendments
+
+2006—Pub. L. 109–312 substituted “, including as a result of a likelihood of dilution by blurring or dilution by tarnishment under section 1125(c) of this title,” for “, including as a result of dilution under section 1125(c) of this title,” in introductory provisions.
 
 1999—Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “damaged” in introductory provisions.
 
@@ -38,7 +40,7 @@ Par. (1). Pub. L. 100–667, §115(2), substituted “(1) Within” for “(a) w
 
 Par. (2). Pub. L. 100–667, §115(3), substituted “(2) Within” for “(b) within”, and “1905.” for “1905; or”.
 
-Par. (3). Pub. L. 100–667, §115(4), substituted “(3)” for “(c)” and amended text generally. Prior to amendment, text read as follows: “at any time if the registered mark becomes the common descriptive name of an article or substance, or has been abandoned, or its registration was obtained fraudulently or contrary to the provisions of section 1054 of this title or of subsections (a), (b), or (c) of section 1052 of this title for a registration hereunder, or contrary to similar prohibitory provisions of said prior Acts for a registration thereunder, or if the registered mark is being used by, or with the permission of, the registrant so as to misrepresent the source of the goods or services in connection with which the mark is used. A registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service. The primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used; or”.
+Par. (3). Pub. L. 100–667, §115(4), substituted “(3)” for “(c)” and amended text generally. Prior to amendment, text read as follows: “at any time if the registered mark becomes the common descriptive name of an article or substance, or has been abandoned, or its registration was obtained fraudulently or contrary to the provisions of section 1054 of this title or of subsections (a), (b), or (c) of section 1052 of this title for a registration hereunder, or contrary to similar prohibitory provisions of said prior Acts for a registration thereunder, or if the registered mark is being used by, or with the permission of, the registrant so as to misrepresent the source of the goods or services in connection withwhich the mark is used. A registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service. The primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used; or”.
 
 Par. (4). Pub. L. 100–667, §115(5), substituted “(4) At” for “(d) at”, and “title.” for “title; or”.
 

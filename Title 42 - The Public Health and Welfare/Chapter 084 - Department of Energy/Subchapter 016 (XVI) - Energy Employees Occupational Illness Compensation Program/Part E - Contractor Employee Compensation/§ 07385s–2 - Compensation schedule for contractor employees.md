@@ -20,7 +20,7 @@ The amount of contractor employee compensation under this part for a covered DOE
 
 &emsp;&emsp;(i) the calendar month during which the employee first experienced wage loss as the result of any covered illness contracted by that employee through exposure to a toxic substance at a Department of Energy facility;
 
-&emsp;&emsp;(ii) the average annual wage of the employee for the 36-month period immediately preceding the calendar month referred to inclause (i), excluding any portions of that period during which the employee was unemployed; and
+&emsp;&emsp;(ii) the average annual wage of the employee for the 36-month period immediately preceding the calendar month referred to in clause (i), excluding any portions of that period during which the employee was unemployed; and
 
 &emsp;&emsp;(iii) beginning with the calendar year that includes the calendar month referred to in clause (i), through and including the calendar year during which the employee attained normal retirement age (for purposes of the Social Security Act \[42 U.S.C. 301 et seq.\])—
 

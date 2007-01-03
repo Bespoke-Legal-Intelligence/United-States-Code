@@ -20,7 +20,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 #### (d) Limitations on acquisition by investment companies of securities of other specific businesses
 
-(1)(A) It shall be unlawful for any registered investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issued by any other investment company (the “acquired company”), and for any investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issuedby any registered investment company (the “acquired company”), if the acquiring company and any company or companies controlled by it immediately after such purchase or acquisition own in the aggregate—
+(1)(A) It shall be unlawful for any registered investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issued by any other investment company (the “acquired company”), and for any investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issued by any registered investment company (the “acquired company”), if the acquiring company and any company or companies controlled by it immediately after such purchase or acquisition own in the aggregate—
 
 &emsp;(i) more than 3 per centum of the total outstanding voting stock of the acquired company;
 
@@ -34,7 +34,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(ii) more than 10 per centum of the total outstanding voting stock of the acquired company is owned by the acquiring company and other investment companies and companies controlled by them.
 
-(C) It shall be unlawful for any investment company (the “acquiring company”) and any company or companies controlled by the acquiring company to purchase or otherwise acquire any security issued by a registered closed-end investment company, if immediately after such purchase or acquisition the acquiring company, other investment companies having the same investment adviser, and companies controlled by such investment companies, own more than 10 per centum of the total outstanding voting stock of such closed-end company.
+(C) It shall be unlawful for any investment company (the “acquiring company”) and any company or companies controlled by the acquiring company to purchase or otherwise acquire any security issued by a registered closed-end investment company, if immediately after suchpurchase or acquisition the acquiring company, other investment companies having the same investment adviser, and companies controlled by such investment companies, own more than 10 per centum of the total outstanding voting stock of such closed-end company.
 
 (D) The provisions of this paragraph shall not apply to a security received as a dividend or as a result of an offer of exchange approved pursuant to section 80a–11 of this title or of a plan of reorganization of any company (other than a plan devised for the purpose of evading the foregoing provisions).
 
@@ -66,7 +66,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(III) with respect to—
 
-&emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and isnot assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
+&emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and is not assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
 
 &emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3\], or the Commission;
 
@@ -78,7 +78,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 (H) For the purposes of this paragraph, the value of an investment company's total assets shall be computed as of the time of a purchase or acquisition or as closely thereto as is reasonably possible.
 
-(I) In any action brought to enforce the provisions of this paragraph, the Commission may join as a party the issuer of any security purchased or otherwise acquired in violation of this paragraph, and the court may issue any order with respect to such issuer as may be necessary or appropriate for the enforcement of the provisions of this paragraph.
+(I) In any action brought to enforce the provisions of this paragraph, the Commission may join as a party the issuer of any security purchased or otherwise acquired in violation of thisparagraph, and the court may issue any order with respect to such issuer as may be necessary or appropriate for the enforcement of the provisions of this paragraph.
 
 (J) The Commission, by rule or regulation, upon its own motion or by order upon application, may conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions from any provision of this subsection, if and to the extent that such exemption is consistent with the public interest and the protection of investors.
 
@@ -104,7 +104,7 @@ Notwithstanding any provisions of this chapter, any registered face-amount certi
 
 #### (g) Exceptions to limitation on ownership by investment company of securities of insurance company
 
-Notwithstanding the provisions of this section any registered investment company and any company or companies controlled by such registered company may purchase or otherwise acquire from another investment company or any company or companies controlled by such registered company more than 10 per centum of the total outstanding voting stock of any insurance company owned by any such company or companies, or may acquire the securities of any insurance company if the Commission by order determines that such acquisition is in the public interest because the financial condition of such insurance company will be improved as a result of such acquisition or any plan contemplated as a result thereof. This section shall not be deemed to prohibit the promotion of a new insurance company or the acquisition of the securities of any newly created insurance company by a registered investment company, alone or with other persons. Nothing contained in this section shall in any way affect or derogate from the powers of any insurance commissioner or similar official or agency of the United States or any State, or to affect the right under State law of any insurance company to acquire securities of any other insurance company or insurance companies.
+Notwithstanding the provisions of this section any registered investment company and any company or companies controlled by such registered company may purchase or otherwise acquire from another investment company or any company or companies controlled by such registered company more than 10 per centum of the total outstanding voting stock of any insurance company owned by any such company or companies, or may acquire the securities of any insurance company if the Commission by order determines that such acquisition is in the public interest because the financial condition of such insurance company will be improved as a result of such acquisition or any plan contemplated as aresult thereof. This section shall not be deemed to prohibit the promotion of a new insurance company or the acquisition of the securities of any newly created insurance company by a registered investment company, alone or with other persons. Nothing contained in this section shall in any way affect or derogate from the powers of any insurance commissioner or similar official or agency of the United States or any State, or to affect the right under State law of any insurance company to acquire securities of any other insurance company or insurance companies.
 
 (Aug. 22, 1940, ch. 686, title I, §12, 54 Stat. 808; Pub. L. 91–547, §7, Dec. 14, 1970, 84 Stat. 1417; Pub. L. 100–181, title VI, §610, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 104–290, title II, §202, Oct. 11, 1996, 110 Stat. 3426; Pub. L. 105–353, title III, §301(c)(3), Nov. 3, 1998, 112 Stat. 3236.)
 
@@ -154,5 +154,5 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

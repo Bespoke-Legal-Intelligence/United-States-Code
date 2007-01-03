@@ -1,8 +1,8 @@
 ### §506. Assistant Attorneys General
 
-The President shall appoint, by and with the advice and consent of the Senate, ten Assistant Attorneys General, who shall assist the Attorney General in the performance of his duties.
+The President shall appoint, by and with the advice and consent of the Senate, 11 Assistant Attorneys General, who shall assist the Attorney General in the performance of his duties.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–598, title II, §218, Nov. 6, 1978, 92 Stat. 2662.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–598, title II, §218, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 109–177, title V, §506(a)(2), Mar. 9, 2006, 120 Stat. 247.)
 
 Historical and Revision Notes
 
@@ -61,6 +61,8 @@ Provisions relating to pay of Assistant Attorneys General are omitted as superse
 A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacancies in the office of United States attorney, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 546 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
+
+2006—Pub. L. 109–177 substituted “11” for “ten”.
 
 1978—Pub. L. 95–598 substituted “ten” for “nine”.
 

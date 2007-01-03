@@ -4,8 +4,6 @@
 | :--- | ---: |
 | [5801\.](%C2%A7%2005801%20-%20Purpose.md) | Purpose. |
 | [5802\.](%C2%A7%2005802%20-%20Definitions.md) | Definitions. |
-| (a) | Subchapters I, II, III, and X. |
-| (b) | Subchapters IV, V, VI, VII, VIII, and IX. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,11 +49,6 @@
 | 5881 to 5891. Repealed. |  |
 | [5891a.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891a%20-%20Definitions.md) | Definitions. |
 | [5891b.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891b%20-%20Education%20flexibility%20partnership.md) | Education flexibility partnership. |
-| (a) | Educational flexibility program. |
-| (b) | Included programs. |
-| (c) | Waivers not authorized. |
-| (d) | Treatment of Existing Ed-Flex Partnership States. |
-| (e) | Publication. |
 | 5892 to 5900. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,26 +82,12 @@
 |  |  |
 | :--- | ---: |
 | [5961\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005961%20-%20Short%20title%3B%20statement%20of%20purpose.md) | Short title; statement of purpose. |
-| (a) | Short title. |
-| (b) | Statement of purpose. |
 | [5962\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005962%20-%20Safe%20schools%20program%20authorized.md) | Safe schools program authorized. |
-| (a) | Authority. |
-| (b) | Authorization of appropriations and reservation. |
 | [5963\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005963%20-%20Eligible%20applicants.md) | Eligible applicants. |
-| (a) | In general. |
-| (b) | Priority. |
 | [5964\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005964%20-%20Applications%20and%20plans.md) | Applications and plans. |
-| (a) | Application. |
-| (b) | Plan. |
 | [5965\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005965%20-%20Use%20of%20funds.md) | Use of funds. |
-| (a) | In general. |
-| (b) | Limitations. |
 | [5966\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005966%20-%20National%20activities.md) | National activities. |
-| (a) | National activities. |
-| (b) | National model city. |
 | [5967\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005967%20-%20Reports.md) | Reports. |
-| (a) | Report to Secretary. |
-| (b) | Report to Congress. |
 | [5968\.](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/%C2%A7%2005968%20-%20Coordination%20of%20Federal%20assistance.md) | Coordination of Federal assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -120,13 +99,8 @@
 | [5981\.](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/%C2%A7%2005981%20-%20Short%20title.md) | Short title. |
 | [5982\.](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/%C2%A7%2005982%20-%20Purposes.md) | Purposes. |
 | [5983\.](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/%C2%A7%2005983%20-%20Grants%20authorized%3B%20authorization%20of%20appropriations.md) | Grants authorized; authorization of appropriations. |
-| (a) | Grants authorized. |
-| (b) | Authorization of appropriations. |
 | [5984\.](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/%C2%A7%2005984%20-%20Definitions.md) | Definitions. |
 | [5985\.](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/%C2%A7%2005985%20-%20Applications.md) | Applications. |
-| (a) | Application required. |
-| (b) | Contents of application. |
-| (c) | Priority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -184,8 +158,6 @@
 |  |  |
 | :--- | ---: |
 | [6052\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20F%20-%20Certain%20Multiyear%20Grants%20and%20Contracts/%C2%A7%2006052%20-%20Continuation%20of%20awards.md) | Continuation of awards. |
-| (a) | In general. |
-| (b) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -229,18 +201,9 @@
 | :--- | ---: |
 | [6061\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20A%20-%20Miscellaneous%20Provisions/%C2%A7%2006061%20-%20School%20prayer.md) | School prayer. |
 | [6062\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20A%20-%20Miscellaneous%20Provisions/%C2%A7%2006062%20-%20Funding%20for%20Individuals%20with%20Disabilities%20Education%20Act.md) | Funding for Individuals with Disabilities Education Act. |
-| (a) | Findings. |
-| (b) | Sense of Congress. |
 | [6063\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20A%20-%20Miscellaneous%20Provisions/%C2%A7%2006063%20-%20Study%20of%20Goals%202000%20and%20students%20with%20disabilities.md) | Study of Goals 2000 and students with disabilities. |
-| (a) | Study required. |
-| (b) | Study components. |
-| (c) | Study panel membership. |
-| (d) | Findings and recommendations. |
-| (e) | Funding. |
 | [6064\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20A%20-%20Miscellaneous%20Provisions/%C2%A7%2006064%20-%20Contraceptive%20devices.md) | Contraceptive devices. |
 | [6065\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20A%20-%20Miscellaneous%20Provisions/%C2%A7%2006065%20-%20Assessments.md) | Assessments. |
-| (a) | Subchapter II. |
-| (b) | Subchapter III. |
 | [6066\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20A%20-%20Miscellaneous%20Provisions/%C2%A7%2006066%20-%20Public%20schools.md) | Public schools. |
 | [6067\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20A%20-%20Miscellaneous%20Provisions/%C2%A7%2006067%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
 
@@ -253,12 +216,6 @@
 | [6081\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20B%20-%20Environmental%20Tobacco%20Smoke/%C2%A7%2006081%20-%20Short%20title.md) | Short title. |
 | [6082\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20B%20-%20Environmental%20Tobacco%20Smoke/%C2%A7%2006082%20-%20Definitions.md) | Definitions. |
 | [6083\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20B%20-%20Environmental%20Tobacco%20Smoke/%C2%A7%2006083%20-%20Nonsmoking%20policy%20for%20children%27s%20services.md) | Nonsmoking policy for children's services. |
-| (a) | Prohibition. |
-| (b) | Additional prohibition. |
-| (c) | Federal agencies. |
-| (d) | Notice. |
-| (e) | Special waiver. |
-| (f) | Civil penalties. |
 | [6084\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/Part%20B%20-%20Environmental%20Tobacco%20Smoke/%C2%A7%2006084%20-%20Preemption.md) | Preemption. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

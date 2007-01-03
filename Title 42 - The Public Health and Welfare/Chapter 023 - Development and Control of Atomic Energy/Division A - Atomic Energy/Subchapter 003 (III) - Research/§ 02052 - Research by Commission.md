@@ -8,7 +8,3 @@ The Commission is authorized and directed to conduct, through its own facilities
 
 Provisions similar to this section were contained in section 1803(b) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

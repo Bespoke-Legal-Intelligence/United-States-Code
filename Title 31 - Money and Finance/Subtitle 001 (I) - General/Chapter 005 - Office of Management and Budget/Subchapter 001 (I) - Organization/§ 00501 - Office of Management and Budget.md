@@ -54,7 +54,7 @@ Pub. L. 108–199, div. F, title VI, §647(b), (d), (f), Jan. 23, 2004, 118 Stat
 
 &emsp;“(9) a general description of how the competitive sourcing decisionmaking processes of the executive agency are aligned with the strategic workforce plan of that executive agency.
 
-“(d) Hereafter, the head of an executive agency may expend funds appropriated or otherwise made available for any purpose to the executive agency under this or any other Act to monitor (in the administration of responsibilities under Office of Management and Budget Circular A–76 or any related policy, directive, or regulation) the performance of an activity or function of the executive agency that has previously been subjected to a public-private competition under such circular.
+“(d) Hereafter, the head of an executive agency may expend funds appropriated or otherwise made available for any purpose to the executive agency under this or any other Act to monitor (in the administration of responsibilities under Office of Management and BudgetCircular A–76 or any related policy, directive, or regulation) the performance of an activity or function of the executive agency that has previously been subjected to a public-private competition under such circular.
 
 “(f) In this section, the term ‘executive agency’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
 
@@ -152,13 +152,13 @@ Competition Required.—Within a reasonable time after the date on which a notic
 
 “(e)
 
-Realistic and Fair Cost Comparisons.—For the purpose of determining whether to contract with a source in the private sector for the performance of an executive agency activity on the list on the basis of a comparison of the costs of procuring services from such a source with the costs of performing that activity by the executive agency, the head of the executive agency shall ensure that all costs (including the costs of quality assurance, technical monitoring of the performance of such function, liability insurance, employee retirement and disability benefits, and all other overhead costs) are considered and that the costs considered are realistic and fair.
+Realistic and Fair Cost Comparisons.—For the purpose of determining whether to contract with a source in the private sector for the performance of an executive agency activity on the list on the basis of a comparison of the costs of procuring services from such a source with the costs of performing that activity by the executive agency, the head of the executive agencyshall ensure that all costs (including the costs of quality assurance, technical monitoring of the performance of such function, liability insurance, employee retirement and disability benefits, and all other overhead costs) are considered and that the costs considered are realistic and fair.
 
 #### “SEC. 3. CHALLENGES TO THE LIST.
 
 “(a)
 
-Challenge Authorized.—An interested party may submit to an executive agency a challenge of anomission of a particular activity from, or an inclusion of a particular activity on, a list for which a notice of public availability has been published under section 2.
+Challenge Authorized.—An interested party may submit to an executive agency a challenge of an omission of a particular activity from, or an inclusion of a particular activity on, a list for which a notice of public availability has been published under section 2.
 
 “(b)
 
@@ -284,11 +284,11 @@ Functions excluded.—The term does not normally include—
 
 #### Purpose of Amendments by Pub. L. 104–316
 
-Pub. L. 104–316, title II, §201, Oct. 19, 1996, 110 Stat. 3842, provided that: “The purpose of this title \[see Tables for classification\] is to amend provisions of law to reflect, update, and enact transfers and subsequent delegations of functions made under section 211 of the Legislative Branch Appropriations Act, 1996 (Public Law 104–53, 109 Stat. 535) \[see Transfer of Functions note above\], as in effect immediately before this title takes effect \[Oct. 19, 1996\].”
+Pub. L. 104–316, title II, §201, Oct. 19, 1996, 110 Stat. 3842, provided that: “The purpose of this title \[see Tables for classification\] is to amend provisions of law to reflect, update, and enact transfers and subsequentdelegations of functions made under section 211 of the Legislative Branch Appropriations Act, 1996 (Public Law 104–53, 109 Stat. 535) \[see Transfer of Functions note above\], as in effect immediately before this title takes effect \[Oct. 19, 1996\].”
 
 #### Department of Commerce Franchise Fund Pilot
 
-Pub. L. 108–199, div. B, title II, §206, Jan. 23, 2004, 118 Stat. 73, provided that: “Hereafter, the Secretary ofCommerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 \[set out below\]: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[118 Stat. 93\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
+Pub. L. 108–199, div. B, title II, §206, Jan. 23, 2004, 118 Stat. 73, provided that: “Hereafter, the Secretary of Commerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 \[set out below\]: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[118 Stat. 93\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -320,13 +320,17 @@ Pub. L. 107–73, title I, §108, Nov. 26, 2001, 115 Stat. 658.
 
 #### Department of Homeland Security Working Capital Fund
 
+Pub. L. 109–295, title V, §526, Oct. 4, 2006, 120 Stat. 1382, provided that: “The Department of Homeland Security Working Capital Fund, established, pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations during fiscal year 2007.”
+
 Pub. L. 109–13, div. A, title VI, §6025, May 11, 2005, 119 Stat. 287, provided that: “The Department of Homeland Security shall henceforth provide an appropriations justification for the ‘Department of Homeland Security Working Capital Fund’ to the Committees on Appropriations of the Senate and House of Representatives: <i>Provided</i>, That an annual appropriations justification shall be submitted to the Congress as a part of the President's budget as submitted under section 1105(a) of Title 31, United States Code, and shall contain the same level of detail as the Department's Congressional appropriations justification in support of the President's budget: <i>Provided further</i>, That the ‘Department of Homeland Security Working Capital Fund’ Congressional appropriations justification for fiscal year 2006 shall be submitted within 15 days of enactment of this Act \[May 11, 2005\]: <i>Provided further</i>, That the Chief Financial Officer shall ensure that all planned activities and amounts to be funded by the ‘Department of Homeland Security Working Capital Fund’, all reimbursable agreements, and all uses of the Economy Act \[31 U.S.C. 1535\] are explicitly identified in each Congressional appropriations justification in support of the President's budget provided for each agency and component of the Department.”
 
 Pub. L. 108–90, title V, §506, Oct. 1, 2003, 117 Stat. 1153, provided in part: “That such fund \[Federal Emergency Management Agency Working Capital Fund\] shall hereafter be known as the ‘Department of Homeland Security Working Capital Fund’.”
 
-Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Director determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Director: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Director at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\].”
+Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4,2006, 120 Stat. 1410, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\].”
 
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
+
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Franchise Fund Pilot Programs
 
@@ -380,7 +384,7 @@ Pub. L. 103–356, title IV, §404, Oct. 13, 1994, 108 Stat. 3414, as amended by
 
 “(a)
 
-In General.—To improve the efficiency of executive branch performance in implementing statutory requirements for financial management reporting to the Congress and its committees, the Director of the Office of Management and Budget may adjust the frequency and due dates of or consolidate any statutorily required reports of agencies to the Office of Management and Budget or the President and of agencies or the Office of Management and Budget to the Congress under any laws for which the Office of Management and Budget has financial management responsibility, including—
+In General.—To improve the efficiency of executive branch performance in implementing statutory requirements for financial management reporting to the Congress and its committees, the Director of the Officeof Management and Budget may adjust the frequency and due dates of or consolidate any statutorily required reports of agencies to the Office of Management and Budget or the President and of agencies or the Office of Management and Budget to the Congress under any laws for which the Office of Management and Budget has financial management responsibility, including—
 
 &emsp;“(1) chapters 5, 9, 11, 33, 35, 37, 39, 75, and 91 of title 31, United States Code;
 
@@ -394,7 +398,7 @@ Application.—The authority provided in subsection (a) shall apply only to repo
 
 Adjustments in Reporting.—The Director may consolidate or adjust the frequency and due dates of any statutorily required reports under subsections (a) and (b) only after—
 
-&emsp;“(1) consultation with the Chairman of the Senate Committee on Governmental Affairs \[now Committeeon Homeland Security and Governmental Affairs\] and the Chairman of the House of Representatives Committee on Government Operations \[now Committee on Government Reform\]; and
+&emsp;“(1) consultation with the Chairman of the Senate Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Chairman of the House of Representatives Committee on Government Operations \[now Committee on Government Reform\]; and
 
 &emsp;“(2) written notification to the Congress, no later than February 8 of each fiscal year covered under subsection (b) for those reports required to be submitted during that fiscal year.”
 
@@ -486,7 +490,7 @@ There are hereby transferred to the President of the United States all functions
 
 > and such other officers of the Executive Branch as the President may from time to time direct.
 
-(c) The President of the United States shall preside over meetings of the Council: <i>Provided</i>, That, in the event of his absence, he may designate a member of the Council to preside.
+(c) The President of the United States shall preside over meetings of the Council: <i>Provided</i>, That, in theevent of his absence, he may designate a member of the Council to preside.
 
 #### Sec. 202. Functions of the Council
 
@@ -500,7 +504,7 @@ The staff of the Council shall be headed by an Executive Director who shall be a
 
 #### Sec. 301. Effective Date
 
-The provisions of this reorganization plan shall take effect as provided by section 906(a) of title 5 of theUnited States Code, or on July 1, 1970, whichever is later.
+The provisions of this reorganization plan shall take effect as provided by section 906(a) of title 5 of the United States Code, or on July 1, 1970, whichever is later.
 
 #### Message of the President
 
@@ -548,7 +552,7 @@ The past year's experience with the Council for Urban Affairs has shown how imme
 
 The Domestic Council will be chaired by the President. Under the plan, its membership will include the Vice President, and the Secretaries of the Treasury, Interior, Agriculture, Commerce, Labor, Health, Education and Welfare, Housing and Urban Development, and Transportation, and the Attorney General. I also intend to designate as members the Director of the Office of Economic Opportunity and, while he remains a member of the Cabinet, the Postmaster General. (Although I continue to hope that the Congress will adopt my proposal to create, in place of the Post Office Department, a self-sufficient postal authority.) The President could add other Executive Branch officials at his discretion.
 
-The Council will be supported by a staff under an Executive Director who will also be one of the President's assistants. Like the National Security Council staff, this staff will work in close coordination with the President's personal staff but will have its own institutional identity. By being established on a permanent, institutional basis, it will be designed to develop and employ the “institutional memory” so essential if continuity is to be maintained, and if experience is to play its proper role in the policy-making process.
+The Council will be supported by a staff under an Executive Director who will also be one of the President's assistants. Like the National Security Council staff, this staff will work in close coordination with the President's personal staff but will have its own institutional identity. By being established on a permanent,institutional basis, it will be designed to develop and employ the “institutional memory” so essential if continuity is to be maintained, and if experience is to play its proper role in the policy-making process.
 
 There does not now exist an organized, institutionally-staffed group charged with advising the President on the total range of domestic policy. The Domestic Council will fill that need. Under the President's direction, it will also be charged with integrating the various aspects of domestic policy into a consistent whole.
 
@@ -590,7 +594,7 @@ Improvement of Government organization, information and management systems will 
 
 The new Office will also take the lead in devising programs for the development of career executive talent throughout the Government. Not the least of the President's needs as Chief Executive is direct capability in the Executive Office for insuring that talented executives are used to the full extent of their abilities. Effective, coordinated efforts for executive manpower development have been hampered by the lack of a system for forecasting the needs for executive talent and appraising leadership potential. Both are crucial to the success of an enterprise—whether private or public.
 
-The Office of Management and Budget will be charged with advising the President on the development of new programs to recruit, train, motivate, deploy, and evaluate the men and women who make up the top ranks of the civil service, in the broadest sense of that term. It will not deal with individuals, but will rely on the talented professionals of the Civil Service Commission and the Departments and agencies themselves to administer these programs. Under the leadership of the Office of Management and Budget there will be joint efforts to see to it that all executive talent is well utilized wherever it may be needed throughout the Executive Branch, and to assure that executive training and motivation meet not only today's needs but those of the years ahead.
+The Office of Management and Budget will be charged with advising the President on the development of new programs to recruit, train, motivate, deploy, and evaluate the men and women who make up the top ranks of the civil service, in the broadest sense of that term. It will not deal with individuals, but will rely on the talented professionals of the Civil Service Commission and the Departments and agencies themselves to administer these programs. Under the leadership of the Office of Management and Budget there will be joint efforts to see to it that all executive talent is well utilized wherever it may be needed throughout the Executive Branch, and to assure that executive training andmotivation meet not only today's needs but those of the years ahead.
 
 Finally, the new Office will continue the Legislative Reference functions now performed by the Bureau of the Budget, drawing together agency reactions on all proposed legislation, and helping develop legislation to carry out the President's program. It also will continue the Bureau's work of improving and coordinating Federal statistical services.
 
@@ -598,7 +602,7 @@ Finally, the new Office will continue the Legislative Reference functions now pe
 
 The people deserve a more responsive and more effective Government. The times require it. These changes will help provide it.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), “to promote the better execution of the laws, the more effective management of the Executive Branch and of its agenciesand functions, and the expeditious administration of the public business;” and Section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
+Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), “to promote the better execution of the laws, the more effective management of the Executive Branch and of its agencies and functions, and the expeditious administration of the public business;” and Section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
 
 The reorganizations provided for in this plan make necessary the appointment and compensation of new officers, as specified in Section 102(c) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the Executive Branch who have similar responsibilities.
 
@@ -772,7 +776,7 @@ Sec. 2. Executive Order No. 10253 of July 11, 1951, as amended \[31 U.S.C. 1104 
 
 (d) Section 7 is deleted and a new Section 7 is substituted therefor as follows:
 
-“Sec. 7. As required by Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), the Director shall redelegate to the Administrator for the Office of Information and Regulatory Affairs, Office of Management and Budget, all functions, authority, and responsibility under Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] which have been vested in the Director by this Order.”
+“Sec. 7. As required by Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), the Director shall redelegate to the Administrator for the Office of Information and Regulatory Affairs, Officeof Management and Budget, all functions, authority, and responsibility under Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] which have been vested in the Director by this Order.”
 
 (e) Section 8 is revoked.
 
@@ -786,7 +790,7 @@ Sec. 3. Executive Order No. 10033, as amended \[22 U.S.C. 286f note\], is furthe
 
 Sec. 4. (a) Executive Order No. 12013 is revoked.
 
-(b) Section 4 of Executive Order No. 11961, as amended \[22 U.S.C. 3101 note\], is further amended by deleting “the Secretary of Commerce shall perform the functions set forth in Sections 4(a)(3) and 5(c) of the Act” \[22 U.S.C. 3103(a)(3), 3104(c)\], and substituting therefor“the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act” \[22 U.S.C. 3103(a)(3)\].
+(b) Section 4 of Executive Order No. 11961, as amended \[22 U.S.C. 3101 note\], is further amended by deleting “the Secretary of Commerce shall perform the functions set forth in Sections 4(a)(3) and 5(c) of the Act” \[22 U.S.C. 3103(a)(3), 3104(c)\], and substituting therefor “the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act” \[22 U.S.C. 3103(a)(3)\].
 
 Sec. 5. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred or reassigned from the Secretary of Commerce to the Director of the Office of Management and Budget by the delegations made in this Order, are hereby transferred to the Director of the Office of Management and Budget.
 
@@ -840,7 +844,7 @@ Sec. 2. The Director of the Office of Management and Budget shall, to the extent
 
 Sec. 3. The Director of the Office of Personnel Management, in consultation with the heads of other Executive departments and agencies, shall review and revise, as necessary and to the extent permitted by law, personnel policies and regulations in order (a) to ensure that government managers have the flexibility to organize in the most effective and efficient manner to achieve levels of productivity comparable with those of private industry, and (b) to reduce any adverse effects of productivity improvements on employees.
 
-Sec. 4. For purposes of this Order, the terms “commercial activity,” “conversion to contract,” and “cost comparison” shall have the meanings set forth in OMB Circular No. A–76, as revised.
+Sec. 4. For purposes of this Order, the terms “commercial activity,” “conversion to contract,” and “costcomparison” shall have the meanings set forth in OMB Circular No. A–76, as revised.
 
 Sec. 5. Nothing in this Order shall be construed to confer a private right of action on any person, or to add in any way to applicable procurement procedures required by existing law.
 
@@ -904,7 +908,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to coordinate and enhance governmental efforts to promote integrity and efficiencyand to detect and prevent fraud, waste, and abuse in Federal programs, the establishment of two Councils of Federal Inspectors General and appropriate Federal officials is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to coordinate and enhance governmental efforts to promote integrity and efficiency and to detect and prevent fraud, waste, and abuse in Federal programs, the establishment of two Councils of Federal Inspectors General and appropriate Federal officials is hereby ordered as follows:
 
 Section 1. <i>Establishment of the President's Council on Integrity and Efficiency.</i>
 
@@ -914,7 +918,7 @@ Section 1. <i>Establishment of the President's Council on Integrity and Efficien
 
 &emsp;(1) The Deputy Director for Management of the Office of Management and Budget, who shall be Chairperson of the Council;
 
-&emsp;(2) All civilian Presidentially appointed Inspectors General whose offices were established in the Inspector General Act of 1978 \[5 App. U.S.C.\] and subsequent amendments;
+&emsp;(2) All civilian Presidentially appointed Inspectors General whose offices were established in the Inspector General Act of 1978 \[5 U.S.C. App.\] and subsequent amendments;
 
 &emsp;(3) The Vice Chairperson of the Executive Council on Integrity and Efficiency;
 
@@ -1004,7 +1008,7 @@ Ex. Ord. No. 12837, Feb. 10, 1993, 58 F.R. 8205, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Budget and Accounting Act of 1921, as amended (31 U.S.C. 1101 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to assist in the control of the Federal deficit and improve the administrative productivity of the Federal Government, it is hereby ordered as follows:
 
-Section 1. All executive departments and agencies shall include a separate category for “administrative expenses” when submitting their appropriation requests to the Office of Management and Budget (OMB) for fiscal years 1994 through 1997. The Director of OMB\(Director), in consultation with the agencies, shall establish and revise as necessary a definition of administrative expenses for the agencies. All questions regarding the definition of administrative expenses shall be resolved by the Director.
+Section 1. All executive departments and agencies shall include a separate category for “administrative expenses” when submitting their appropriation requests to the Office of Management and Budget (OMB) for fiscal years 1994 through 1997. The Director of OMB (Director), in consultation with the agencies, shall establish and revise as necessary a definition of administrative expenses for the agencies. All questions regarding the definition of administrative expenses shall be resolved by the Director.
 
 Sec. 2. The purpose of this order is to achieve real reductions in the administrative costs of Federal agencies. In order to accomplish that goal, agencies shall submit budgets that reflect the following reductions from the fiscal year 1993 baseline:
 
@@ -1066,7 +1070,7 @@ Ex. Ord. No. 12893, Jan. 26, 1994, 59 F.R. 4233, provided:
 
 A well-functioning infrastructure is vital to sustained economic growth, to the quality of life in our communities, and to the protection of our environment and natural resources. To develop and maintain its infrastructure facilities, our Nation relies heavily on investments by the Federal Government.
 
-Our Nation will achieve the greatest benefits from its infrastructure facilities if it invests wisely and continually improves the quality and performance of its infrastructure programs. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+Our Nation will achieve the greatest benefits from its infrastructure facilities if it invests wisely and continually improves the quality and performance of its infrastructure programs. Therefore, by the authorityvested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Scope</i>. The principles and plans referred to in this order shall apply to Federal spending for infrastructure programs. For the purposes of this order, Federal spending for infrastructure programs shall include direct spending and grants for transportation, water resources, energy, and environmental protection.
 
@@ -1076,7 +1080,7 @@ Each executive department and agency with infrastructure responsibilities (herei
 
 (a) <i>Systematic Analysis of Expected Benefits and Costs</i>. Infrastructure investments shall be based on systematic analysis of expected benefits and costs, including both quantitative and qualitative measures, in accordance with the following:
 
-&emsp;(1) Benefits and costs should be quantified and monetized to the maximum extent practicable. All typesof benefits and costs, both market and nonmarket, should be considered. To the extent that environmental and other nonmarket benefits and costs can be quantified, they shall be given the same weight as quantifiable market benefits and costs.
+&emsp;(1) Benefits and costs should be quantified and monetized to the maximum extent practicable. All types of benefits and costs, both market and nonmarket, should be considered. To the extent that environmental and other nonmarket benefits and costs can be quantified, they shall be given the same weight as quantifiable market benefits and costs.
 
 &emsp;(2) Benefits and costs should be measured and appropriately discounted over the full life cycle of each project. Such analysis will enable informed tradeoffs among capital outlays, operating and maintenance costs, and nonmonetary costs borne by the public.
 

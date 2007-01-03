@@ -2,7 +2,7 @@
 
 #### (a) Requirements; certificate of need for housing and employment status
 
-Notwithstanding any other provisions of this subchapter and in addition to mortgages insured under section 1748b of this title, the Secretary may insure any mortgage under this section which meets the eligibility requirements set forth in section 1709(b) of this title: <i>Provided</i>, That a mortgage insured under this section shallhave been executed by a mortgagor who at the time of insurance is the owner of the property and either occupies the property or certifies that his failure to do so is the result of a change in his employment by the Armed Forces or a contractor thereof and to whom the Secretary of Defense or his designee has issued a certificate indicating that such person requires housing and is at the date of the certificate a civilian employee at a research or development installation of one of the military departments of the United States or a contractor thereof and is considered by such military department to be an essential, nontemporary employee at such date. Such certificate shall be conclusive evidence to the Secretary of the employment status of the mortgagor and of the mortgagor's need for housing.
+Notwithstanding any other provisions of this subchapter and in addition to mortgages insured under section 1748b of this title, the Secretary may insure any mortgage under this section which meets the eligibility requirements set forth in section 1709(b) of this title: <i>Provided</i>, That a mortgage insured under this section shall have been executed by a mortgagor who at the time of insurance is the owner of the property and either occupies the property or certifies that his failure to do so is the result of a change in his employment by the Armed Forces or a contractor thereof and to whom the Secretary of Defense or his designee has issued a certificate indicating that such person requires housing and is at the date of the certificate a civilian employee at a research or development installation of one of the military departments of the United States or a contractor thereof and is considered by such military department to be an essential, nontemporary employee at such date. Such certificate shall be conclusive evidence to the Secretary of the employment status of the mortgagor and of the mortgagor's need for housing.
 
 #### (b) Certification of housing need to Secretary; guaranty from loss; authorization of appropriations
 
@@ -18,7 +18,7 @@ Any mortgagee under a mortgage insured under this section is entitled to the ben
 
 #### (e) Payment of insurance; meaning of terms
 
-The provisions of subsections (b), (c), (d), (e), (f), (g), (h),<sup>1</sup> (j), and (k) <sup>1</sup> of section 1710 of this title shall apply to mortgages insured under this section except that as applicable to those mortgages: (1) all references to the “Fund” or “Mutual Mortgage Insurance Fund” shall refer to the “General Insurance Fund” and (2) all references to section 1709 of this title shall refer to this section.
+The provisions of subsections (b), (c), (d), (e), (f), (g), (h),<sup>1</sup> (j), and (k) <sup>1</sup> of section 1710 of this title shall apply to mortgages insured under thissection except that as applicable to those mortgages: (1) all references to the “Fund” or “Mutual Mortgage Insurance Fund” shall refer to the “General Insurance Fund” and (2) all references to section 1709 of this title shall refer to this section.
 
 #### (f) Provisions of subchapter applicable; termination date
 

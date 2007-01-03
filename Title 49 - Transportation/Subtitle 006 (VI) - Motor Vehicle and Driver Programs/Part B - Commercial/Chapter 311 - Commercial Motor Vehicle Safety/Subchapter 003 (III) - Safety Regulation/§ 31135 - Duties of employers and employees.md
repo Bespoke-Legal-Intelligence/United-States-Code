@@ -6,7 +6,7 @@ In General.—Each employer and employee shall comply with regulations on commer
 
 (b)
 
-Pattern of Noncompliance.—If the Secretary finds that an officer of a motor carrier engages or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety prescribedunder this subchapter, while serving as an officer of any motor carrier, the Secretary may suspend, amend, or revoke any part of the motor carrier's registration under section 13905.
+Pattern of Noncompliance.—If the Secretary finds that an officer of a motor carrier engages or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety prescribed under this subchapter, while serving as an officer of any motor carrier, the Secretary may suspend, amend, or revoke any part of the motor carrier's registration under section 13905.
 
 (c)
 

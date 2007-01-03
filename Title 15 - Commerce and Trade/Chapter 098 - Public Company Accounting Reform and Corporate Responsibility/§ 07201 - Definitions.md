@@ -70,7 +70,7 @@ In this Act, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) relevant to audit reports for particular issuers, or dealt with in the quality control system of a particular registered public accounting firm; and
 
-&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policiesand procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
+&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policies and procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers; and
 
@@ -98,7 +98,7 @@ In this Act, the following definitions shall apply:
 
 #### (15) Securities laws
 
-&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations, and orders issued by the Commission thereunder.
+&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) ofthis title and includes the rules, regulations, and orders issued by the Commission thereunder.
 
 #### (16) State
 

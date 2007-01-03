@@ -1,6 +1,6 @@
 ### §715. Property loss; personal injury or death: activities under certain sections of this title
 
-(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force mayprescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
+(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
 
 &emsp;(1) damage to, or loss of, real property, including damage or loss incident to use and occupancy;
 

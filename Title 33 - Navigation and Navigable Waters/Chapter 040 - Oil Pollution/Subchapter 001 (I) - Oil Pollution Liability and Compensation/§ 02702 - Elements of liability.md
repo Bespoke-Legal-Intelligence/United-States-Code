@@ -58,7 +58,7 @@ This subchapter does not apply to any discharge—
 
 #### (A) Third party treated as responsible party
 
-&emsp;&emsp;Except as provided in subparagraph (B), in any case in which a responsible party establishes that a discharge or threat of a discharge and the resulting removal costs and damages were caused solely by an act or omission of one or more third parties described in section 2703(a)(3) of this title (or solely by such an act or omission in combination with an act of God or an act of war), the third party or parties shall be treated as the responsible party or parties for purposes of determining liability under this subchapter.
+&emsp;&emsp;Except as provided in subparagraph (B), in any case in which a responsible party establishes that a discharge or threat of a discharge and the resulting removal costs and damages were caused solely by an act or omission of one or more third parties described in section 2703(a)(3) of this title (or solely by such an act or omission in combination with an act of God or an act of war), the third party or parties shall be treated as the responsible party or parties for purposesof determining liability under this subchapter.
 
 #### (B) Subrogation of responsible party
 

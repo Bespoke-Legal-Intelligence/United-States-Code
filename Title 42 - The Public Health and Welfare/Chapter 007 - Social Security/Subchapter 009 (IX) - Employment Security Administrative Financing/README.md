@@ -37,11 +37,11 @@ Act May 28, 1938, ch. 289, §810, 52 Stat. 576, related to credits against Socia
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01101 - Employment Security Administration Account](%C2%A7%2001101%20-%20Employment%20Security%20Administration%20Account.md)
-- [&sect; 01102 - Transfers between Federal Unemployment Account and Employment Security Administration Account](%C2%A7%2001102%20-%20Transfers%20between%20Federal%20Unemployment%20Account%20and%20Employment%20Security%20Administration%20Account.md)
+- [&sect; 01101 - Employment security administration account](%C2%A7%2001101%20-%20Employment%20security%20administration%20account.md)
+- [&sect; 01102 - Transfers between Federal unemployment account and employment security administration account](%C2%A7%2001102%20-%20Transfers%20between%20Federal%20unemployment%20account%20and%20employment%20security%20administration%20account.md)
 - [&sect; 01103 - Amounts transferred to State accounts](%C2%A7%2001103%20-%20Amounts%20transferred%20to%20State%20accounts.md)
 - [&sect; 01104 - Unemployment Trust Fund](%C2%A7%2001104%20-%20Unemployment%20Trust%20Fund.md)
-- [&sect; 01105 - Extended Unemployment Compensation Account](%C2%A7%2001105%20-%20Extended%20Unemployment%20Compensation%20Account.md)
+- [&sect; 01105 - Extended unemployment compensation account](%C2%A7%2001105%20-%20Extended%20unemployment%20compensation%20account.md)
 - [&sect; 01106 - Unemployment compensation research program](%C2%A7%2001106%20-%20Unemployment%20compensation%20research%20program.md)
 - [&sect; 01107 - Personnel training](%C2%A7%2001107%20-%20Personnel%20training.md)
 - [&sect; 01108 - Advisory Council on Unemployment Compensation](%C2%A7%2001108%20-%20Advisory%20Council%20on%20Unemployment%20Compensation.md)

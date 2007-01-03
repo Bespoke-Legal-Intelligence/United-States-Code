@@ -4,7 +4,7 @@
 
 &emsp;(1) beginning January 1, 1993, the manufacturer shall make available for procurement on the Federal Supply Schedule of the General Services Administration each covered drug of the manufacturer;
 
-&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
+&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
 
 &emsp;(3) with respect to each covered drug of the manufacturer procured by a State home receiving funds under section 1741 of this title, the price charged may not exceed the price charged under the Federal Supply Schedule at the time the drug is procured; and
 
@@ -48,7 +48,7 @@
 
 (3) In order to determine the accuracy of a drug price that is reported to the Secretary under paragraph (1), the Secretary may audit the relevant records of the manufacturer or of any wholesaler that distributes the drug, and may delegate the authority to audit such records to the appropriate Federal agency described in subsection (b).
 
-(4) Any information contained in a report submitted to the Secretary under paragraph (1) or obtained by the Secretary through any audit conducted under paragraph (3) shall remain confidential, except as the Secretary determines necessary to carry out this section and to permit the Comptroller General and the Director of the Congressional Budget Office to review the information provided.
+(4) Any information contained in a report submitted to the Secretary under paragraph (1) or obtained by the Secretary through any audit conducted under paragraph (3) shall remain confidential, except as the Secretary determines necessary to carry out this section and to permit the Comptroller General and the Director ofthe Congressional Budget Office to review the information provided.
 
 (f) The Secretary shall supply to the Secretary of Health and Human Services—
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) a drug described in section 1927(k)(7)(A)(ii) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
 
-&emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act,or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act; or
+&emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act; or
 
 &emsp;&emsp;(C) any biological product identified under section 600.3 of title 21, Code of Federal Regulations.
 
@@ -140,7 +140,7 @@ Subsec. (g)(1), (2). Pub. L. 103–446, §1201(f)(6)(B), substituted “November
 
 Subsec. (c). Pub. L. 103–18, §1(a)(2), in introductory provisions, struck out “for calendar quarters” after “subsection (a)(2),”, and in par. (1), struck out “preceding the month during which the contract goes into effect” after “during such period” and substituted “multiplied by” for “increased by”.
 
-Subsec. (d)(1). Pub. L. 103–18, §1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the firstyear for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
+Subsec. (d)(1). Pub. L. 103–18, §1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the first year for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
 
 Subsec. (i). Pub. L. 103–18, §1(a)(4), added subsec. (i).
 

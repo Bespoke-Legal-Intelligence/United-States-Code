@@ -12,7 +12,7 @@
 
 &emsp;(A) contract with the American Registry of Pathology (established under section 177 of this title) for cooperative enterprises in medical research, consultation, and education between the Institute and the civilian medical profession under such conditions as may be agreed upon between the Board of Governors and the American Registry of Pathology;
 
-&emsp;(B) make available at no cost to the American Registry of Pathology such space, facilities, equipment, and support services within the Institute as the Board of Governors deems necessary for the accomplishment of their mutual cooperative enterprises; and
+&emsp;(B) make available at no cost to the American Registry of Pathology such space, facilities, equipment, and support services within the Institute as the Board of Governors deemsnecessary for the accomplishment of their mutual cooperative enterprises; and
 
 &emsp;(C) contract with the American Registry of Pathology for the services of such professional, technical, or clerical personnel as are necessary to fulfill their cooperative enterprises.
 

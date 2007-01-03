@@ -36,7 +36,7 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(D) specify that the certifying officer—
 
-&emsp;&emsp;(i) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretaryinsofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1); and
+&emsp;&emsp;(i) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1); and
 
 &emsp;&emsp;(ii) is authorized and consents on behalf of the State or unit of general local government and himself or herself to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities as such an official.
 

@@ -18,7 +18,7 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 &emsp;&emsp;&emsp;(iv) Take such reasonable steps as the State deems necessary to restrict the use and disclosure of information about individuals and families receiving assistance under the program attributable to funds provided by the Federal Government.
 
-&emsp;&emsp;&emsp;(v) Establish goals and take action to prevent and reduce the incidence of out-of-wedlock pregnancies, with special emphasis on teenage pregnancies, and establish numerical goals for reducing the illegitimacy ratio of the State (as defined in section 603(a)(2)(C)(iii) of this title) for calendar years 1996 through 2005.
+&emsp;&emsp;&emsp;(v) Establish goals and take action to prevent and reduce the incidence of out-of-wedlock pregnancies, with special emphasis on teenage pregnancies, and establish numerical goals for reducing the illegitimacy ratio of the State (as defined in section 603(a)(2)(C)(iii) <sup>1</sup> of this title) for calendar years 1996 through 2005.
 
 &emsp;&emsp;&emsp;(vi) Conduct a program, designed to reach State and local law enforcement officials, the education system, and relevant counseling services, that provides education and training on the problem of statutory rape so that teenage pregnancy prevention programs may be expanded in scope to include men.
 
@@ -84,6 +84,8 @@ The State shall make available to the public a summary of any plan or plan amend
 
 #### References in Text
 
+Section 603(a)(2) of this title, referred to in subsec. (a)(1)(A)(v), was amended generally by Pub. L. 109–171, title VII, §7103(a), Feb. 8, 2006, 120 Stat. 138, and, as so amended, no longer defines “illegitimacy ratio”.
+
 Parts D and E of this subchapter, referred to in subsec. (a)(2), (3), are classified to sections 651 et seq. and 670 et seq., respectively, of this title.
 
 #### Prior Provisions
@@ -141,4 +143,6 @@ Section 159 of Pub. L. 97–248 provided that payments made under statutorily es
 #### State Plans To Disregard Earned Income of Individuals in Determination of Need for Aid; Effective Date
 
 Section 202(d) of Pub. L. 90–248 provided that effective with respect to quarters beginning after June 30, 1968, in determining need of individuals claiming aid under State plan approved under this part, State was to apply provisions of this part notwithstanding any provisions of law other than this chapter requiring State to disregard earned income of such individuals in determining need under such State plan, prior to repeal by Pub. L. 104–193, title I, §110(f), Aug. 22, 1996, 110 Stat. 2171.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

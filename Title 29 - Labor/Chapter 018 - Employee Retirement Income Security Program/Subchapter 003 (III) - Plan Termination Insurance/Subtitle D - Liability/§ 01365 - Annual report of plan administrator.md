@@ -1,6 +1,6 @@
 ### §1365. Annual report of plan administrator
 
-For each plan year for which section 1321 of this title applies to a plan, the plan administrator shall file with the corporation, on a formprescribed by the corporation, an annual report which identifies the plan and plan administrator and which includes—
+For each plan year for which section 1321 of this title applies to a plan, the plan administrator shall file with the corporation, on a form prescribed by the corporation, an annual report which identifies the plan and plan administrator and which includes—
 
 &emsp;(1) a copy of each notification required under section 1363 of this title with respect to such year,
 

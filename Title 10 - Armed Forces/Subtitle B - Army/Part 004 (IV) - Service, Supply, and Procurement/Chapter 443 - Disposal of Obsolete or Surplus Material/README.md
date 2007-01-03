@@ -11,10 +11,13 @@
 | [4687\.](%C2%A7%2004687%20-%20Sale%20of%20excess%2C%20obsolete%2C%20or%20unserviceable%20ammunition%20and%20ammunition%20components.md) | Sale of excess, obsolete, or unserviceable ammunition and ammunition components. |
 | [4688\.](%C2%A7%2004688%20-%20Armor-piercing%20ammunition%20and%20components%20condition%20on%20disposal.md) | Armor-piercing ammunition and components: condition on disposal. |
 | [4689\.](%C2%A7%2004689%20-%20Transfer%20of%20material%20and%20equipment%20to%20the%20Architect%20of%20the%20Capitol.md) | Transfer of material and equipment to the Architect of the Capitol. |
+| [4690\.](%C2%A7%2004690%20-%20Recyclable%20munitions%20materials%20sale%3B%20use%20of%20proceeds.md) | Recyclable munitions materials: sale; use of proceeds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title III, §353(b), Oct. 17, 2006, 120 Stat. 2161, added item 4690.
 
 2002—Pub. L. 107–217, §2(2), Aug. 21, 2002, 116 Stat. 1295, added item 4689.
 
@@ -38,3 +41,4 @@
 - [&sect; 04687 - Sale of excess, obsolete, or unserviceable ammunition and ammunition components](%C2%A7%2004687%20-%20Sale%20of%20excess%2C%20obsolete%2C%20or%20unserviceable%20ammunition%20and%20ammunition%20components.md)
 - [&sect; 04688 - Armor-piercing ammunition and components condition on disposal](%C2%A7%2004688%20-%20Armor-piercing%20ammunition%20and%20components%20condition%20on%20disposal.md)
 - [&sect; 04689 - Transfer of material and equipment to the Architect of the Capitol](%C2%A7%2004689%20-%20Transfer%20of%20material%20and%20equipment%20to%20the%20Architect%20of%20the%20Capitol.md)
+- [&sect; 04690 - Recyclable munitions materials sale; use of proceeds](%C2%A7%2004690%20-%20Recyclable%20munitions%20materials%20sale%3B%20use%20of%20proceeds.md)

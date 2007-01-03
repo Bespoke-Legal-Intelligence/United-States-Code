@@ -30,7 +30,7 @@ Not later than 12 months after October 11, 1996, the Secretary shall, in coopera
 
 #### (e) Report to Congress
 
-The Secretary shall, within one year of completing the programs required by this section,submit a detailed report on the results of such programs to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
+The Secretary shall, within one year of completing the programs required by this section, submit a detailed report on the results of such programs to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
 #### (f) Implementation criteria
 
@@ -41,6 +41,10 @@ To the extent practicable, any conservation and management measure implemented u
 &emsp;(2) the need to avoid any serious adverse environmental impacts on such bycatch species or the ecology of the affected area.
 
 (Pub. L. 94–265, title IV, §405, as added Pub. L. 104–297, title II, §206, Oct. 11, 1996, 110 Stat. 3611.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Prior Provisions
 

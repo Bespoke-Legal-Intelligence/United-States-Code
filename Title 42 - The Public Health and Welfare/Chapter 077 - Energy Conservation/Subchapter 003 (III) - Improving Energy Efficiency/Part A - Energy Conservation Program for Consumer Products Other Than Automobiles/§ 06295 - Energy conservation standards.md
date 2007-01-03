@@ -164,7 +164,7 @@ The purposes of this section are to—
 
 (3)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine whether the standards established by paragraph (2) for mobile home furnaces should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 1994.
 
-(B) The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established by this subsection for furnaces (including mobile home furnaces) should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 2002.
+(B) The Secretary shall publish a final rule no later than January 1, 1994, to determine whetherthe standards established by this subsection for furnaces (including mobile home furnaces) should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 2002.
 
 (C) After January 1, 1997, and before January 1, 2007, the Secretary shall publish a final rule to determine whether standards in effect for such products should be amended. Such rule shall contain such amendment, if any, and provide that any amendment shall apply to products manufactured on or after January 1, 2012.
 
@@ -362,7 +362,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of showerhead or faucet.
 
-(C) If, after any period of five consecutive years, the maximum flow rate requirements of the ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flow rate requirements of the ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions ofsection 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type of class of showerhead or faucet; and
 
@@ -396,7 +396,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 (2) The maximum water use allowed for any urinal manufactured after January 1, 1994, is 1.0 gallon per flush.
 
-(3)(A) If the maximum flush volume requirements of ASME Standard A112.19.6–1990 are amended to improve the efficiency of water use of any low consumption water closet or low consumption urinal and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in amended ASME/ANSI Standard A112.19.6 and providing that such standard shall apply to products manufactured after a date which is oneyear after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.19.6—
+(3)(A) If the maximum flush volume requirements of ASME Standard A112.19.6–1990 are amended to improve the efficiency of water use of any low consumption water closet or low consumption urinal and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in amended ASME/ANSI Standard A112.19.6 and providing that such standard shall apply to products manufactured after a date which is one year after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.19.6—
 
 &emsp;(i) is not technologically feasible and economically justified under subsection (<i>o</i>) of this section;
 
@@ -436,7 +436,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 &emsp;(D) the application of a labeling rule under section 6294 of this title to such type (or class) is not likely to be sufficient to induce manufacturers to produce, and consumers and other persons to purchase, covered products of such type (or class) which achieve the maximum energy efficiency which is technologically feasible and economically justified.
 
-(2) Any new or amended standard for covered products of a type specified in paragraph (19) of section 6292(a) of this title shall not apply to products manufactured within five years after the publication of a final rule establishing such standard.
+(2) Any new or amended standard for covered products of a type specified in paragraph (19) ofsection 6292(a) of this title shall not apply to products manufactured within five years after the publication of a final rule establishing such standard.
 
 (3) The Secretary may, in accordance with subsections (<i>o</i>) and (p) of this section, prescribe an energy conservation standard for television sets. Any such standard may not become effective with respect to products manufactured before January 1, 1992.
 
@@ -490,7 +490,7 @@ After issuance of the last final rules required under subsections (b) through (i
 
 &emsp;(VII) other factors the Secretary considers relevant.
 
-(ii) For purposes of clause (i)(V), the Attorney General shall make a determination of the impact, if any, of any lessening of competition likely to result from such standard and shall transmit such determination, not later than 60 days after the publication of a proposed rule prescribing or amending an energy conservation standard, in writing to the Secretary, together with an analysis of the nature and extent of such impact. Any such determination and analysis shall be published by the Secretary in the Federal Register.
+(ii) For purposes of clause (i)(V), the Attorney General shall make a determination of the impact, if any, of any lessening of competition likely to result from such standard and shall transmit such determination, not later than 60 days after the publication of a proposed rule prescribing or amending an energy conservation standard, in writing to the Secretary, together with an analysis of the nature and extent ofsuch impact. Any such determination and analysis shall be published by the Secretary in the Federal Register.
 
 (iii) If the Secretary finds that the additional cost to the consumer of purchasing a product complying with an energy conservation standard level will be less than three times the value of the energy, and as applicable, water, savings during the first year that the consumer will receive as a result of the standard, as calculated under the applicable test procedure, there shall be a rebuttable presumption that such standard level is economically justified. A determination by the Secretary that such criterion is not met shall not be taken into consideration in the Secretary's determination of whether a standard is economically justified.
 
@@ -538,7 +538,7 @@ Any new or amended energy conservation standard shall be prescribed in accordanc
 
 &emsp;(A) consume a different kind of energy from that consumed by other covered products within such type (or class); or
 
-&emsp;(B) have a capacity or other performance-related feature which other products within such type (or class) do not have and such feature justifies a higher or lower standard from that which applies (or will apply) to other products within such type (or class).
+&emsp;(B) have a capacity or other performance-related feature which other products within suchtype (or class) do not have and such feature justifies a higher or lower standard from that which applies (or will apply) to other products within such type (or class).
 
 > In making a determination under this paragraph concerning whether a performance-related feature justifies the establishment of a higher or lower standard, the Secretary shall consider such factors as the utility to the consumer of such a feature, and such other factors as the Secretary deems appropriate.
 
@@ -726,7 +726,7 @@ A unit heater manufactured on or after the date that is 3 years after August 8, 
 
 &nbsp;&nbsp;25.00 or less
 
-1\.20&nbsp;&nbsp;
+1\.20  
 
 &nbsp;&nbsp;25.01 – 35.00
 
@@ -824,7 +824,7 @@ Section 6297 of this title applies—
 
 &emsp;(2) to products for which energy conservation standards are established under subsections (w) through (ff) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (ff) of this section take effect.
 
-(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat. 628.)
+(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422,Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat. 628.)
 
 #### References in Text
 
@@ -856,7 +856,7 @@ Subsec. (<i>l</i>)(2). Pub. L. 102–486, §123(f)(3)(A), substituted “(19)”
 
 Subsec. (<i>l</i>)(3). Pub. L. 102–486, §123(f)(3)(B), substituted “(<i>o</i>) and (p)” for “(<i>l</i>) and (m)”.
 
-Subsec. (m). Pub. L. 102–486, §123(f)(1), (4), redesignated subsec. (j) as (m) and substituted “(i)” for “(h)”in introductory provisions. Former subsec. (m) redesignated (p).
+Subsec. (m). Pub. L. 102–486, §123(f)(1), (4), redesignated subsec. (j) as (m) and substituted “(i)” for “(h)” in introductory provisions. Former subsec. (m) redesignated (p).
 
 Subsec. (n). Pub. L. 102–486, §123(f)(1), redesignated subsec. (k) as (n). Former subsec. (n) redesignated (q).
 

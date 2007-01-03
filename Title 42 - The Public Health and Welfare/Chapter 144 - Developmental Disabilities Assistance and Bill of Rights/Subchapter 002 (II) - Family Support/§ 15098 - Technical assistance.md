@@ -10,7 +10,7 @@ An agency or organization that provides technical assistance and information und
 
 #### (c) Reports to the Secretary
 
-An entity providing technical assistance and information under this section shall prepare and submit to the Secretary periodic reports regarding Federal policies and procedures identified within the States that facilitate or impede the delivery of family support services to families of children with disabilities. The report shall include recommendations to the Secretary regarding the delivery of services, coordination with other programs, and integration of the policies described in section 15091 of this title in Federal law, other than this subchapter.
+An entity providing technical assistance and information under this section shall prepare and submit to the Secretary periodic reports regarding Federal policies and procedures identified within the States that facilitate or impede the delivery of family support services to families of children with disabilities. The report shall include recommendations to the Secretary regarding the delivery of services, coordination with other programs, and integration of the policiesdescribed in section 15091 of this title in Federal law, other than this subchapter.
 
 (Pub. L. 106–402, title II, §209, Oct. 30, 2000, 114 Stat. 1732.)
 

@@ -84,9 +84,9 @@
 
 (2) Paragraph (1) shall apply only to payments made by the Director of the Administrative Office of the United States Courts after the date of receipt by the Director of written notice of such decree, order, or agreement, and such additional information as the Director may prescribe.
 
-(3) As used in this subsection, the term “court” means any court of any State, the District of Columbia, the Commonwealth of PuertoRico, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, and any Indian tribal court or court of Indian offense.
+(3) As used in this subsection, the term “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, and any Indian tribal court or court of Indian offense.
 
-(j)(1) Subject to paragraph (4), any judge of the Court of Federal Claims who retires under this section and who thereafter in the practice of law represents (or supervises or directs the representation of) a client in making any civil claim against the United States or any agency thereof shall forfeit all rights to an annuity under this section for all periods beginning on or after the first day on which he engages in any such activity.
+(j)(1) Subject to paragraph (4), any judge of the Court of Federal Claims who retires under this section and who thereafter in the practice of law represents (or supervises or directs the representation of) a client in making any civil claim against the United States or any agency thereofshall forfeit all rights to an annuity under this section for all periods beginning on or after the first day on which he engages in any such activity.
 
 (2) Subject to paragraph (4), if a judge of the Court of Federal Claims who retires under this section fails during any calendar year to perform judicial duties required of such judge by subsection (d), such judge shall forfeit all rights to an annuity under this section for the 1-year period which begins on the first day on which he or she so fails to perform such duties.
 

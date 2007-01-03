@@ -2,7 +2,7 @@
 
 #### (a) Studies and investigations
 
-The Director is authorized to carry out studies and investigations, utilizing to the maximum extent practicable the existing facilities and services of other Federal departments or agencies, and State and local governmental agencies, and any other organizations, with respect to the adequacy of State and local measures in flood-prone areas as to land management and use, flood control, flood zoning, and flood damage prevention, and may enter into any contracts, agreements, or other appropriate arrangements to carry out such authority.
+The Director is authorized to carry out studies and investigations, utilizing to the maximumextent practicable the existing facilities and services of other Federal departments or agencies, and State and local governmental agencies, and any other organizations, with respect to the adequacy of State and local measures in flood-prone areas as to land management and use, flood control, flood zoning, and flood damage prevention, and may enter into any contracts, agreements, or other appropriate arrangements to carry out such authority.
 
 #### (b) Extent of studies and investigations
 
@@ -28,71 +28,15 @@ On the basis of such studies and investigations, and such other information as h
 
 1983—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
-1969—Subsec. (c). Pub. L. 91–152 substituted provisions requiring development of criteria designed to encourage adoption of adequate State and local measures, for provisions requiring development of criteria designedto encourage adoption of permanent State and local measures.
+1969—Subsec. (c). Pub. L. 91–152 substituted provisions requiring development of criteria designed to encourage adoption of adequate State and local measures, for provisions requiring development of criteria designed to encourage adoption of permanent State and local measures.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Task Force on Natural and Beneficial Functions of the Floodplain
 
-Pub. L. 103–325, title V, §562, Sept. 23, 1994, 108 Stat. 2276, provided that:
-
-“(a)
-
-Establishment.—There is hereby established an interagency task force to be known as the Task Force on Natural and Beneficial Functions of the Floodplain (in this section referred to as the ‘Task Force’).
-
-“(b)
-
-Membership.—The Task Force shall be composed of 5 members, who shall be the designees of—
-
-&emsp;“(1) the Under Secretary of Commerce for Oceans and Atmosphere;
-
-&emsp;“(2) the Director of the United States Fish and Wildlife Service;
-
-&emsp;“(3) the Administrator of the Environmental Protection Agency;
-
-&emsp;“(4) the Secretary of the Army, acting through the Chief of Engineers; and
-
-&emsp;“(5) the Director of the Federal Emergency Management Agency.
-
-“(c)
-
-Duties.—The Task Force shall—
-
-&emsp;“(1) conduct a study to—
-
-&emsp;&emsp;“(A) identify the natural and beneficial functions of the floodplain that reduce flood-related losses; and
-
-&emsp;&emsp;“(B) develop recommendations on how to reduce flood losses by protecting the natural and beneficial functions of the floodplain; and
-
-&emsp;“(2) make the information and recommendations under subparagraphs (A) and (B) publicly available.
-
-“(d)
-
-Noncompensation.—Members of the Task Force shall receive no additional pay by reason of their service on the Task Force.
-
-“(e)
-
-Chairperson.—The members of the Task Force shall elect one member as chairperson of the Task Force.
-
-“(f)
-
-Meetings and Action.—The Task Force shall meet at the call of the chairperson or a majority of the members of the Task Force and may take action by a vote of the majority of the members. The Federal Insurance Administrator shall coordinate and call the initial meeting of the Task Force.
-
-“(g)
-
-Officers.—The chairperson of the Task Force may appoint any officers to carry out the duties of the Task Force under subsection (c).
-
-“(h)
-
-Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b) may detail, on a nonreimbursable basis, any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
-
-“(i)
-
-Powers.—In carrying out this section, the Task Force may hold hearings, sit and act at times and places, take testimony, receive evidence and assistance, provide information, and conduct research as the Task Force considers appropriate.
-
-“(j)
-
-Termination.—The Task Force shall terminate upon the expiration of the 24-month period beginning upon the designation of the last member to be designated under subsection (b).”
+Pub. L. 103–325, title V, §562, Sept. 23, 1994, 108 Stat. 2276, established the Task Force on Natural and Beneficial Functions of the Floodplain to conduct a study on the functions of the floodplain that reduce flood-related losses and provided for its termination 24 months after its last member was designated.
 

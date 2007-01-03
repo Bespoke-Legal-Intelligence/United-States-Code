@@ -6,13 +6,7 @@
 | 1148a to 1148a–3. Repealed. |  |
 | 1148a–4. | Security for economic disaster and special livestock loans. |
 | [1148b.](%C2%A7%2001148b%20-%20Additional%20powers%20of%20regional%20agricultural%20credit%20corporations.md) | Additional powers of regional agricultural credit corporations. |
-| (a) | Places of transacting business. |
-| (b) | Borrow money. |
-| (c) | Loans. |
-| (d) | Sale to or purchase from other like corporations. |
 | [1148c.](%C2%A7%2001148c%20-%20Consolidation%20or%20merger.md) | Consolidation or merger. |
-| (a) | Power of Farm Credit Administration. |
-| (b) | Status of corporations formed by consolidation. |
 | [1148d.](%C2%A7%2001148d%20-%20Rights%20and%20powers%20unaffected%20by%20sections%201148b%20and%201148c.md) | Rights and powers unaffected by sections 1148b and 1148c. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

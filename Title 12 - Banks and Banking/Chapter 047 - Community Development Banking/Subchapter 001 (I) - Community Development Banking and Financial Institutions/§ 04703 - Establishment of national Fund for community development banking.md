@@ -14,7 +14,7 @@
 
 #### (1) Appointment of Administrator
 
-&emsp;The management of the Fund shall be vested in an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate. The Administratorshall not engage in any other business or employment during service as the Administrator.
+&emsp;The management of the Fund shall be vested in an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate. The Administrator shall not engage in any other business or employment during service as the Administrator.
 
 #### (2) Chief financial officer
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) appoint and terminate the individuals referred to in paragraphs (2) and (3) without regard to the civil service laws and regulations; and
 
-&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (3) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (3) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate ofpay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 #### (c) General powers
 
@@ -100,7 +100,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the termfor which the previous member was appointed shall be appointed for the remainder of such term. Members may continue to serve following the expiration of their terms until a successor is appointed.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the previous member was appointed shall be appointed for the remainder of such term. Members may continue to serve following the expiration of their terms until a successor is appointed.
 
 #### (6) Meetings
 
@@ -192,7 +192,7 @@ Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) o
 
 #### Administration of Fund by Secretary of the Treasury
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–294; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any other provision oflaw, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[12 U.S.C. 4701 et seq.\] and the Fund shall be within the Department of the Treasury.”
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–294; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[12 U.S.C. 4701 et seq.\] and the Fund shall be within the Department of the Treasury.”
 
 Similar provisions were contained in the following prior appropriations act:
 

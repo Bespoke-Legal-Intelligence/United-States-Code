@@ -6,7 +6,7 @@
 
 &emsp;(2) the Secretary concerned, as defined in section 101(5) of title 37, when—
 
-&emsp;&emsp;(A) the claim is in an amount aggregating not more than $1,500; and
+&emsp;&emsp;(A) the claim is in an amount aggregating not more than $10,000; and
 
 &emsp;&emsp;(B) the waiver is made in accordance with standards which the Director of the Office of Management and Budget shall prescribe.
 
@@ -14,7 +14,7 @@
 
 &emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the member or any other person having an interest in obtaining a waiver of the claim; or
 
-&emsp;(2) if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment was discovered.
+&emsp;(2) if application for waiver is received in his office after the expiration of five years immediately following the date on which the erroneous payment was discovered.
 
 (c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the department concerned at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that department for that refund within two years following the effective date of the waiver. The Secretary concerned shall pay from current applicable appropriations that refund in accordance with this section.
 
@@ -24,9 +24,13 @@
 
 (f) This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
-(Added Pub. L. 92–453, §2(1), Oct. 2, 1972, 86 Stat. 759; amended Pub. L. 96–513, title V, §515(9), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 99–224, §3(a), Dec. 28, 1985, 99 Stat. 1742; Pub. L. 102–190, div. A, title VI, §657(c), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §116, Oct. 19, 1996, 110 Stat. 3835.)
+(Added Pub. L. 92–453, §2(1), Oct. 2, 1972, 86 Stat. 759; amended Pub. L. 96–513, title V, §515(9), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 99–224, §3(a), Dec. 28, 1985, 99 Stat. 1742; Pub. L. 102–190, div. A, title VI, §657(c), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §116, Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, §671(b), Oct. 17, 2006, 120 Stat. 2270.)
 
 #### Amendments
+
+2006—Subsec. (a)(2)(A). Pub. L. 109–364, §671(b)(1), substituted “$10,000” for “$1,500”.
+
+Subsec. (b)(2). Pub. L. 109–364, §671(b)(2), substituted “five” for “three”.
 
 1996—Subsec. (a)(1). Pub. L. 104–316, §116(1)(A), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
 
@@ -43,6 +47,10 @@ Subsec. (a). Pub. L. 99–224, §3(a)(2), substituted “made before, on, or aft
 Subsec. (b)(2). Pub. L. 99–224, §3(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” before “was discovered”.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “October 2, 1972” for “the effective date of this section”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 effective Mar. 1, 2007, see section 671(c) of Pub. L. 109–364, set out as a note under section 2774 of Title 10, Armed Forces.
 
 #### Effective Date of 1996 Amendment
 

@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 &emsp;The term “multiple rate account” means any account that has 2 or more annual rates of simple interest which take effect at the same time or in succeeding periods and which are known at the time of disclosure.
 
-(Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI,§1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, §2604(c), Sept. 30, 1996, 110 Stat. 3009–471.)
+(Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, §2604(c), Sept. 30, 1996, 110 Stat. 3009–471.)
 
 #### References in Text
 

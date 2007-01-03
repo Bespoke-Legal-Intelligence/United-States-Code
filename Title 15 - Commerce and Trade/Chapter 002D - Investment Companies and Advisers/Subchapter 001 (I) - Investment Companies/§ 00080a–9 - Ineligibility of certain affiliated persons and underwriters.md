@@ -2,11 +2,11 @@
 
 #### (a) Persons deemed ineligible for service with investment companies, etc.; investment adviser
 
-It shall be unlawful for any of the following persons to serve or act in the capacity of employee, officer, director, member of an advisory board, investment adviser, or depositor of any registered investment company, or principal underwriter for any registered open-end company, registered unit investment trust, or registered face-amount certificate company:
+It shall be unlawful for any of the following persons to serve or act in the capacity of employee, officer, director, member of an advisoryboard, investment adviser, or depositor of any registered investment company, or principal underwriter for any registered open-end company, registered unit investment trust, or registered face-amount certificate company:
 
-&emsp;(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
+&emsp;(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
 
-&emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
+&emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
 
 &emsp;(3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2) of this subsection, to serve or act in the foregoing capacities.
 
@@ -36,7 +36,7 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 #### (c) Application of ineligible person for exemption
 
-Any person who is ineligible, by reason of subsection (a) of this section, to serve or act in the capacities enumerated in such subsection, may file with the Commission an application for an exemption from the provisions of such subsection. The Commission shall by order grant such application, either unconditionally or on an appropriate temporary or other conditional basis, if it is established that the prohibitions of such subsection (a) as applied to such person, are unduly or disproportionately severe or that the conduct of such person has been such as not to make it against the public interest or protection of investors to grant such application.
+Any person who is ineligible, by reason of subsection (a) of this section, to serve or act in the capacities enumerated in such subsection, may file with the Commission an application for an exemption from the provisions of such subsection. The Commission shall by order grant such application, either unconditionally or on an appropriate temporary or other conditionalbasis, if it is established that the prohibitions of such subsection (a) as applied to such person, are unduly or disproportionately severe or that the conduct of such person has been such as not to make it against the public interest or protection of investors to grant such application.
 
 #### (d) Money penalties in administrative proceedings
 
@@ -98,7 +98,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (1) Authority of Commission
 
-&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
+&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, dueto an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
 
 #### (2) Hearing
 
@@ -146,7 +146,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 For the purposes of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(<i>l</i>), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401.)
+(Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(<i>l</i>), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401; Pub. L. 109–291, §4(b)(2)(B), Sept. 29, 2006, 120 Stat. 1337.)
 
 #### References in Text
 
@@ -157,6 +157,8 @@ The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A), i
 The Securities Exchange Act of 1934, referred to in subsecs. (b)(2), (3) and (d)(1)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–291 inserted “credit rating agency,” after “transfer agent,” in pars. (1) and (2).
 
 1999—Subsec. (a)(1), (2). Pub. L. 106–102 substituted “securities dealer, bank, transfer agent,” for “securities dealer, transfer agent,”.
 

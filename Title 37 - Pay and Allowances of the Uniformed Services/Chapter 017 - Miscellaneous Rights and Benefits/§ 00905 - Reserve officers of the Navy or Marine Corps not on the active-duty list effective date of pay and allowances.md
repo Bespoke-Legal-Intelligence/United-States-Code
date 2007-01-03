@@ -4,7 +4,7 @@
 
 (b) A reserve officer who is promoted under section 14308(b) of title 10 to the grade of lieutenant (junior grade) in the Navy Reserve or first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the higher grade for duty performed from the date given him as his date of rank.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 488; Pub. L. 95–377, §9, Sept. 19, 1978, 92 Stat. 721; Pub. L. 96–513, title IV, §403(b), Dec. 12, 1980, 94 Stat. 2904; Pub. L. 103–337, div. A, title XVI,§1676(b)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 109–163, div. A, title V, §515(d)(1)(F), Jan. 6, 2006, 119 Stat. 3236.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 488; Pub. L. 95–377, §9, Sept. 19, 1978, 92 Stat. 721; Pub. L. 96–513, title IV, §403(b), Dec. 12, 1980, 94 Stat. 2904; Pub. L. 103–337, div. A, title XVI, §1676(b)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 109–163, div. A, title V, §515(d)(1)(F), Jan. 6, 2006, 119 Stat. 3236.)
 
 Historical and Revision Notes
 

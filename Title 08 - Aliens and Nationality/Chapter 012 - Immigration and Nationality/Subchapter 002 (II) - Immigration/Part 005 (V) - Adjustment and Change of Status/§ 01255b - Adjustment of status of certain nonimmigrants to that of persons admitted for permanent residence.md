@@ -54,5 +54,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Definitions; Applicability of Section 1101(a) and (b) of This Title
 
-The definitions in subsecs. (a) and (b) of section 1101 of this title apply to this section, see section 14 of Pub.L. 85–316, set out as a note under section 1101 of this title.
+The definitions in subsecs. (a) and (b) of section 1101 of this title apply to this section, see section 14 of Pub. L. 85–316, set out as a note under section 1101 of this title.
 

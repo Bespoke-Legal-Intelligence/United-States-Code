@@ -18,7 +18,7 @@ The boundaries of the park are those generally depicted on the map entitled “L
 
 #### (1) Authorization
 
-&emsp;The Secretary is authorized to acquire land, interests in land, and improvements therein within the boundaries of the park, as identified on the map referred to in subsection (b), by donation, purchase with donated or appropriated funds, exchange, transfer from any Federal agency, or by such other means as the Secretary deems to be in the public interest.
+&emsp;The Secretary is authorized to acquire land, interests in land, and improvements thereinwithin the boundaries of the park, as identified on the map referred to in subsection (b), by donation, purchase with donated or appropriated funds, exchange, transfer from any Federal agency, or by such other means as the Secretary deems to be in the public interest.
 
 #### (2) Consent of landowner required
 

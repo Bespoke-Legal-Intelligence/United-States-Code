@@ -40,9 +40,13 @@ Each center assisted under subsection (a) of this section shall use the faciliti
 
 Support of a center under subsection (a) of this section may be for a period not exceeding 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-#### (g) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §452A, as added Pub. L. 103–43, title X, §1001, June 10, 1993, 107 Stat. 165; amended Pub. L. 109–482, title I, §103(b)(29), Jan. 15, 2007, 120 Stat. 3688.)
 
-For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §452A, as added Pub. L. 103–43, title X, §1001, June 10, 1993, 107 Stat. 165.)
+2007—Subsec. (g). Pub. L. 109–482 struck out subsec. (g) which read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

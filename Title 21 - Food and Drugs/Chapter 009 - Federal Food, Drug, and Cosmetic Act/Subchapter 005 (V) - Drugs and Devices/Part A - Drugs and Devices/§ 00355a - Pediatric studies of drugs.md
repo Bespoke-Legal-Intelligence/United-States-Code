@@ -6,7 +6,7 @@ As used in this section, the term “pediatric studies” or “studies” means
 
 #### (b) Market exclusivity for new drugs
 
-If, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), and such studies are completed within any such timeframe and the reports thereof submitted in accordance with subsection (d)(2) of this section or accepted in accordance with subsection (d)(3) of this section—
+If, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatricpopulation may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), and such studies are completed within any such timeframe and the reports thereof submitted in accordance with subsection (d)(2) of this section or accepted in accordance with subsection (d)(3) of this section—
 
 &emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
@@ -30,7 +30,7 @@ If the Secretary determines that information relating to the use of an approved 
 
 &emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
-&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, andin clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
+&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
 
 &emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
 
@@ -56,7 +56,7 @@ If the Secretary determines that information relating to the use of an approved 
 
 &emsp;&emsp;(C) the holder of an approved application for a drug under section 355(b)(1) of this title,
 
-> &emsp;agree with the sponsor or holder for the conduct of pediatric studies for such drug. Such agreement shall be in writing and shall include a timeframe for such studies.
+> &emsp;agree with the sponsor or holder for the conduct of pediatric studies for such drug. Suchagreement shall be in writing and shall include a timeframe for such studies.
 
 #### (2) Written protocols to meet the studies requirement
 
@@ -104,7 +104,7 @@ If the Secretary determines that information relating to the use of an approved 
 
 #### (e) Delay of effective date for certain application
 
-If the Secretary determines that the acceptance or approval of an application under section 355(b)(2) or 355(j) of this title for a new drug may occur after submission of reports of pediatric studies under this section, which were submitted prior to the expiration of the patent (including any patent extension) or the applicable period under clauses (ii) through (iv) of section 355(c)(3)(D) of this title or clauses (ii) through (iv) of section 355(j)(5)(F) of this title, but before the Secretary has determined whether the requirements of subsection (d) of this section have been satisfied, the Secretary shall delay the acceptance or approval under section 355(b)(2) or 355(j) of this title until the determination under subsection (d) of this section is made, but any such delay shall not exceed 90 days. In the event that requirements of this section are satisfied, the applicable six-month period under subsection (b) or (c) of this section shall be deemed to have been running during the period of delay.
+If the Secretary determines that the acceptance or approval of an application under section 355(b)(2) or 355(j) of this title for a new drug may occur after submission of reports of pediatric studies under this section, which were submitted prior to the expiration of the patent (including any patent extension) or the applicable period under clauses (ii) through (iv) of section 355(c)(3)(D) of this title or clauses (ii) through (iv) of section 355(j)(5)(F) of this title, but before the Secretary has determined whether the requirements of subsection (d) of this section have been satisfied, the Secretary shall delay the acceptance or approval under section 355(b)(2) or 355(j) of this title until the determination under subsection (d) of this section is made, but anysuch delay shall not exceed 90 days. In the event that requirements of this section are satisfied, the applicable six-month period under subsection (b) or (c) of this section shall be deemed to have been running during the period of delay.
 
 #### (f) Notice of determinations on studies requirement
 
@@ -176,7 +176,7 @@ Notwithstanding any other provision of law, if any pediatric study is required b
 
 If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a 6-month exclusivity period under this section, so that the applicant for approval of a drug under section 355(j) of this title entitled to the 180-day period under that section loses a portion of the 180-day period to which the applicant is entitled for the drug, the 180-day period shall be extended from—
 
-&emsp;(1) the date on which the 180-day period would have expired by the number of days of the overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
+&emsp;(1) the date on which the 180-day period would have expired by the number of days ofthe overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
 
 &emsp;(2) the date on which the 6-month exclusivity period expires, by the number of days of the overlap if the 180-day period would, but for the application of this subsection, expire during the six-month exclusivity period.
 
@@ -266,7 +266,7 @@ Subsec. (a)(1)(A). Pub. L. 107–109, §19(1)(A), (B), substituted “(j)(5)(D)(
 
 Subsec. (b). Pub. L. 107–109, §19(2), (3), redesignated subsec. (a) as (b).
 
-Pub. L. 107–109, §2(1), struck out heading and text of subsec. (b). Text read as follows: “Not later than 180 days after November 21, 1997, the Secretary, after consultation with experts in pediatric research shall develop, prioritize, and publish an initial list of approved drugs for which additional pediatric information may produce health benefits in the pediatric population. The Secretary shall annually update the list.”
+Pub. L. 107–109, §2(1), struck out heading and text of subsec. (b). Text read as follows: “Not later than 180days after November 21, 1997, the Secretary, after consultation with experts in pediatric research shall develop, prioritize, and publish an initial list of approved drugs for which additional pediatric information may produce health benefits in the pediatric population. The Secretary shall annually update the list.”
 
 Subsec. (c). Pub. L. 107–109, §2(2), in introductory provisions, inserted “determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and” after “the Secretary” and struck out “concerning a drug identified in the list described in subsection (b) of this section” after “such studies)”.
 

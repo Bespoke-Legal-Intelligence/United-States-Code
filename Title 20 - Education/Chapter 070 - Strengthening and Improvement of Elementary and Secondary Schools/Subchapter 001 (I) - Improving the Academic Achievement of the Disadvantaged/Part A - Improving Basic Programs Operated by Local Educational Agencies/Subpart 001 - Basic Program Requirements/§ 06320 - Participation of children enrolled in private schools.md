@@ -54,7 +54,7 @@
 
 #### (4) Documentation
 
-&emsp;Each local educational agency shall maintain in the agency's records and provide to theState educational agency involved a written affirmation signed by officials of each participating private school that the consultation required by this section has occurred. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has taken place to the State educational agency.
+&emsp;Each local educational agency shall maintain in the agency's records and provide to the State educational agency involved a written affirmation signed by officials of each participating private school that the consultation required by this section has occurred. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has taken place to the State educational agency.
 
 #### (5) Compliance
 

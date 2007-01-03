@@ -16,7 +16,3 @@ Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes
 
 (Aug. 1, 1946, ch. 724, title I, §235, as added Pub. L. 96–295, title II, §202(a), June 30, 1980, 94 Stat. 786; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

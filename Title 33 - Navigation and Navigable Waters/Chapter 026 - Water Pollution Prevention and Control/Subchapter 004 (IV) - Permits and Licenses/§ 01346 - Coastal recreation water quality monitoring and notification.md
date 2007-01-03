@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), and after providing public notice and an opportunity for comment, the Administrator shall publish performance criteria for—
+&emsp;Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), and after providing public notice and anopportunity for comment, the Administrator shall publish performance criteria for—
 
 &emsp;&emsp;(A) monitoring and assessment (including specifying available methods for monitoring) of coastal recreation waters adjacent to beaches or similar points of access that are used by the public for attainment of applicable water quality standards for pathogens and pathogen indicators; and
 

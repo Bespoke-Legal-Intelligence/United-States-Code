@@ -1,6 +1,6 @@
 ### §3401. Statement of purpose
 
-The purposes of this chapter are to demonstrate how Indian tribal governments can integrate the employment, training and related services they provide in order to improve the effectiveness of those services, reduce joblessness in Indian communities and serve tribally-determined goals consistent with the policy of self-determination.
+The purposes of this chapter are to demonstrate how Indian tribal governments can integrate the employment, training and relatedservices they provide in order to improve the effectiveness of those services, reduce joblessness in Indian communities and serve tribally-determined goals consistent with the policy of self-determination.
 
 (Pub. L. 102–477, §2, Oct. 23, 1992, 106 Stat. 2302.)
 

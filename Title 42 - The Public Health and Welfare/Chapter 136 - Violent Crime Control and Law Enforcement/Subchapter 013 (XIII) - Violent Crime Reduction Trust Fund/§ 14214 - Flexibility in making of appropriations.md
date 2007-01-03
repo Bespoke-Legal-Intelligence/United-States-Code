@@ -200,7 +200,7 @@ Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322
 
 Section 32001, referred to in subsec. (d), is section 32001 of Pub. L. 103–322, 108 Stat. 1896, which amended section 3621 of Title 18, Crimes and Criminal Procedure.
 
-Section 32101, referred to in subsec. (d), is section 32101 of Pub. L. 103–322, 108 Stat. 1898, which enacted subchapter XII–G (§3796ff et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
+Section 32101, referred to in subsec. (d), is section 32101 of Pub. L. 103–322, 108 Stat. 1898, which enactedsubchapter XII–G (§3796ff et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
 
 Section 40114, referred to in subsec. (d), is section 40114 of Pub. L. 103–322, 108 Stat. 1910, which is not classified to the Code.
 
@@ -210,7 +210,7 @@ Section 300w–10 of this title, referred to in subsec. (d), was repealed by Pub
 
 Section 5712d of this title, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1172(b), Jan. 5, 2006, 119 Stat. 3123.
 
-Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6,13012, 13014, 13021, and 13024 of this title and repealed sections 3796aa–4 and 3796aa–7 of this title.
+Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 13012, 13014, 13021, and 13024 of this title and repealed sections 3796aa–4 and 3796aa–7 of this title.
 
 Section 40231, referred to in subsec. (d), is section 40231 of Pub. L. 103–322, 108 Stat. 1932, which enacted subchapter XII–I (§3796hh et seq.) of chapter 46 of this title and amended sections 3782, 3783, 3793, and 3797 of this title.
 

@@ -18,7 +18,7 @@ It is the purpose of this section—
 
 #### (b) Agreements with States
 
-Except as provided in subsection (c) of this section, the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State:
+Except as provided in subsection (c) of this section, the Commission is authorized to enterinto agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State:
 
 &emsp;(1) Byproduct materials (as defined in section 2014(e) of this title).
 
@@ -74,7 +74,7 @@ The Commission in carrying out its licensing and regulatory responsibilities und
 
 #### (j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger
 
-(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert thelicensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
+(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
 (2) The Commission, upon its own motion or upon request of the Governor of any State, may, after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
 
@@ -176,13 +176,9 @@ Subsec. (<i>o</i>). Pub. L. 95–604, §204(e)(1), added subsec. (<i>o</i>).
 
 #### Effective Date of 1978 Amendment
 
-Section 204(e)(2) of Pub. L. 95–604, as added by Pub. L. 96–106, §22(d), Nov. 9, 1979, 93 Stat. 800, provided that: “The provisions of the amendment made by paragraph\(1) of this subsection (which adds a new subsection <i>o</i>. to section 274 of the Atomic Energy Act of 1954 \[this section\]) shall apply only to the maximum extent practicable during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\].”
+Section 204(e)(2) of Pub. L. 95–604, as added by Pub. L. 96–106, §22(d), Nov. 9, 1979, 93 Stat. 800, provided that: “The provisions of the amendment made by paragraph (1) of this subsection (which adds a new subsection <i>o</i>. to section 274 of the Atomic Energy Act of 1954 \[this section\]) shall apply only to the maximum extent practicable during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\].”
 
 Amendment by Pub. L. 95–604 effective Nov. 8, 1978, see section 208 of Pub. L. 95–604, set out as a note under section 2014 of this title.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
 #### State Authorities and Agreements Respecting Byproduct Material; Entry and Effective Dates of Agreements
 

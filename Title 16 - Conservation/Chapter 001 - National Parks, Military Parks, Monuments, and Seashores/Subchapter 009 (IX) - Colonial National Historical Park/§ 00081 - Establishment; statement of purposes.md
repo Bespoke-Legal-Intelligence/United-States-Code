@@ -116,7 +116,7 @@ In general.—The Commission shall be composed of 16 members, of whom—
 
 &emsp;&emsp;&emsp;“(i) one shall be the Director of the National Park Service (or a designee); and
 
-&emsp;&emsp;&emsp;“(ii) one shall be an employee of the National Park Service having experience relevant to thecommemoration, to be appointed by the Secretary; and
+&emsp;&emsp;&emsp;“(ii) one shall be an employee of the National Park Service having experience relevant to the commemoration, to be appointed by the Secretary; and
 
 &emsp;&emsp;“(D) five members shall be individuals that have an interest in, support for, and expertise appropriate to, the commemoration, to be appointed by the Secretary.
 

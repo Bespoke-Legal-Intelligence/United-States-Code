@@ -92,7 +92,7 @@ Definition.—
 
 &emsp;&emsp;“(ii) the management and daily business operations of which are controlled by such individuals.
 
-&emsp;“(B)(i) A for-profit business concern is presumed to be a disadvantaged business concern for purposes of subsection (a) if it is at least 51 percent owned by, or in the case of a concern which is a publicly traded company at least 51 percent of the stock of the company is owned by, one or more individuals who are members of the following groups:
+&emsp;“(B)(i) A for-profit business concern is presumed to be a disadvantaged business concern for purposes of subsection (a) if it is at least 51 percent owned by, or in the case of a concern which is a publicly tradedcompany at least 51 percent of the stock of the company is owned by, one or more individuals who are members of the following groups:
 
 &emsp;&emsp;“(I) Black Americans.
 

@@ -1,6 +1,6 @@
 ### §1474a. Security for direct or insured rural housing loans to farmer applicants
 
-On and after August 8, 1968, farmer applicants for direct or insured rural housing loans shall berequired to provide only such collateral security as is required of owners of nonfarm tracts.
+On and after August 8, 1968, farmer applicants for direct or insured rural housing loans shall be required to provide only such collateral security as is required of owners of nonfarm tracts.
 
 (Pub. L. 90–463, title II, §201, Aug. 8, 1968, 82 Stat. 651.)
 

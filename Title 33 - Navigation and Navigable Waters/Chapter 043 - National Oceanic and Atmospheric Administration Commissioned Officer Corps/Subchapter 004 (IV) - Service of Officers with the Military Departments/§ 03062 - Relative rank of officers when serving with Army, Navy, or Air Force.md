@@ -1,6 +1,6 @@
 ### §3062. Relative rank of officers when serving with Army, Navy, or Air Force
 
-When serving with the Army, Navy, or Air Force, an officer of the Administration shall rank with and after officers of corresponding grade in the Army, Navy, or Air Force of the same length of service in grade. Nothing in this subchapter shall be construed to affect or alter an officer's rates of pay and allowances when not assigned to military duty.
+When serving with the Army, Navy, or Air Force, an officer of the Administration shallrank with and after officers of corresponding grade in the Army, Navy, or Air Force of the same length of service in grade. Nothing in this subchapter shall be construed to affect or alter an officer's rates of pay and allowances when not assigned to military duty.
 
 (Pub. L. 107–372, title II, §252, Dec. 19, 2002, 116 Stat. 3091.)
 

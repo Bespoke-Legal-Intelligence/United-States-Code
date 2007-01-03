@@ -6,7 +6,7 @@
 
 (2) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Air Force.
 
-(3) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Air Force, including financial management functions. The Assistant Secretaryshall be responsible for all financial management activities and operations of the Department of the Air Force and shall advise the Secretary of the Air Force on financial management.
+(3) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Air Force, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Air Force and shall advise the Secretary of the Air Force on financial management.
 
 (Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058; amended Pub. L. 100–456, div. A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996.)
 
@@ -22,5 +22,5 @@ Subsec. (b)(3). Pub. L. 100–456, §702(c)\[(1)\], added par. (3).
 
 #### Effective Date of 1988 Amendment
 
-Section 702(e)(2) of Pub. L. 100–456 provided that: “The amendments made by subsections (c) and (d) \[enacting section 8022 of this title and amending this section\] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order.”
+Section 702(e)(2) of Pub. L. 100–456 provided that: “The amendments made by subsections (c) and (d) \[enacting section 8022 of this title and amending this section\] shall take effect on July 1, 1989, except that suchamendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-Each contracting agency shall have authority, notwithstanding any provisions of law other than contained in this chapter, (1) to make any contract necessary and appropriate to carry out the provisions of this chapter; (2) to amend by agreement any existing contract, either before or after notice of its termination, on such terms and to such extent as it deems necessary and appropriate to carry out the provisions of this chapter; and (3) in settling any termination claim, to agree to assume, or indemnify the war contractor against, any claims by any person in connection with such termination claims or settlement. This subsection shall not limit or affect in any way any authority of any contracting agency under the First War Powers Act, 1941, or under any other statute.
+Each contracting agency shall have authority, notwithstanding any provisions of law other than contained in this chapter, (1) to make any contract necessary and appropriate to carry out the provisions of this chapter; (2) to amend by agreement any existing contract, either before or after notice of its termination, on such terms and to such extent as it deems necessary and appropriate to carry out the provisions of thischapter; and (3) in settling any termination claim, to agree to assume, or indemnify the war contractor against, any claims by any person in connection with such termination claims or settlement. This subsection shall not limit or affect in any way any authority of any contracting agency under the First War Powers Act, 1941, or under any other statute.
 
 #### (b) Evidence required; conclusiveness of determinations
 
@@ -18,7 +18,7 @@ All policies and procedures relating to termination of war contracts, terminatio
 
 #### (e) Impairment of contract
 
-Nothing in this chapter shall be deemed to impair or modify any war contract or any term or provision of any war contract or any assignment of any claim under a war contract, without theconsent of the parties thereto, if the war contract, or the term, provision, or assignment thereof, is otherwise valid.
+Nothing in this chapter shall be deemed to impair or modify any war contract or any term or provision of any war contract or any assignment of any claim under a war contract, without the consent of the parties thereto, if the war contract, or the term, provision, or assignment thereof, is otherwise valid.
 
 #### (f) Aid to war contractors
 

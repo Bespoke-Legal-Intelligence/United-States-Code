@@ -20,7 +20,7 @@ In awarding grants under subsection (a) of this section, the Attorney General sh
 
 &emsp;(2) the extent to which the proposed supervised visitation programs and services serve underserved populations (as defined in section 3796gg–2 <sup>2</sup> of this title);
 
-&emsp;(3) with respect to an applicant for a contract or cooperative agreement, the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local community served, including the State or tribal domestic violence coalition, State or tribal sexual assault coalition, local shelters, and programs for domestic violence and sexual assault victims; and
+&emsp;(3) with respect to an applicant for a contract or cooperative agreement, the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local community served, including the State or tribal domesticviolence coalition, State or tribal sexual assault coalition, local shelters, and programs for domestic violence and sexual assault victims; and
 
 &emsp;(4) the extent to which the applicant demonstrates coordination and collaboration with State and local court systems, including mechanisms for communication and referral.
 
@@ -72,17 +72,21 @@ The Attorney General shall award grants for contracts and cooperative agreements
 
 &emsp;Of the amounts appropriated to carry out this section for each fiscal year, the Attorney General shall—
 
-&emsp;&emsp;(A) set aside not less than 7 percent for grants to Indian tribal governments or tribal organizations;
+&emsp;&emsp;(A) use not more than 3 percent for evaluation, monitoring, site visits, grantee conferences, and other administrative costs associated with conducting activities under this section; and
 
-&emsp;&emsp;(B) use not more than 3 percent for evaluation, monitoring, site visits, grantee conferences, and other administrative costs associated with conducting activities under this section; and
-
-&emsp;&emsp;(C) set aside not more than 8 percent for technical assistance and training to be provided by organizations having nationally recognized expertise in the design of safe and secure supervised visitation programs and visitation exchange of children in situations involving domestic violence, dating violence, sexual assault, or stalking.
+&emsp;&emsp;(B) set aside not more than 8 percent for technical assistance and training to be provided by organizations having nationally recognized expertise in the design of safe and secure supervised visitation programs and visitation exchange of children in situations involving domestic violence, dating violence, sexual assault, or stalking.
 
 #### (f) Allotment for Indian tribes
 
-Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subsection shall not apply to funds allocated for such program.
+#### (1) In general
 
-(Pub. L. 106–386, div. B, title III, §1301, Oct. 28, 2000, 114 Stat. 1509; Pub. L. 109–162, §3(b)(2), title III, §306, title IX, §906(e), title XI, §1135(b), Jan. 5, 2006, 119 Stat. 2971, 3016, 3081, 3109.)
+&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+
+#### (2) Applicability of part <sup>3</sup>
+
+&emsp;The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).
+
+(Pub. L. 106–386, div. B, title III, §1301, Oct. 28, 2000, 114 Stat. 1509; Pub. L. 109–162, §3(b)(2), title III, §306, title IX, §906(d), formerly §906(e), title XI, §1135(b), Jan. 5, 2006, 119 Stat. 2971, 3016, 3081, 3109, renumbered §906(d), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§2(d), 7(d)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 766.)
 
 #### References in Text
 
@@ -102,11 +106,21 @@ Subsec. (a). Pub. L. 109–162, §306(2)(C)–(E), inserted par. (1) designation
 
 Pub. L. 109–162, §306(2)(A), (B), inserted “, through the Director of the Office on Violence Against Women,” after “Attorney General” and “dating violence,” after “domestic violence,”.
 
-Subsec. (d)(1). Pub. L. 109–162, §§3(b)(2), 1135(b), amended par. (1) identically, substituting “Not later than 1 month after the end of each even-numbered fiscal year,” for “Not later than 1 year after the last day of the first fiscal year commencing on or after October 28, 2000, and not later than 180 days after the last day of each fiscal year thereafter,” in introductory provisions.
+Subsec. (d)(1). Pub. L. 109–162, §1135(b), which directed an amendment identical to that made by Pub. L. 109–162, §3(b)(2), was repealed by Pub. L. 109–271, §§2(d) and 8(b).
+
+Pub. L. 109–162, §3(b)(2), substituted “Not later than 1 month after the end of each even-numbered fiscal year,” for “Not later than 1 year after the last day of the first fiscal year commencing on or after October 28, 2000, and not later than 180 days after the last day of each fiscal year thereafter,” in introductory provisions.
 
 Subsec. (e). Pub. L. 109–162, §306(3), added subsec. (e) and struck out former subsec. (e). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2001 and 2002.”
 
-Subsec. (f). Pub. L. 109–162, §906(e), added subsec. (f) and struck out former subsec. (f). Text read as follows: “Not less than 5 percent of the total amount made available for each fiscal year to carry out this section shall be available for grants to Indian tribal governments.”
+Subsec. (e)(2). Pub. L. 109–271, §7(d)(2)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “set aside not less than 7 percent for grants to Indian tribal governments or tribal organizations;”.
+
+Subsec. (f). Pub. L. 109–271, §7(d)(2)(B), added subsec. (f) and struck out former subsec. (f) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subsection shall not apply to funds allocated for such program.”
+
+Pub. L. 109–162, §906(d), formerly §906(e), as renumbered by Pub. L. 109–271, §7(b)(2)(B), added subsec. (f) and struck out former subsec. (f). Text read as follows: “Not less than 5 percent of the total amount made available for each fiscal year to carry out this section shall be available for grants to Indian tribal governments.”
+
+#### Effective Date of 2006 Amendment
+
+Amendment by sections 306 and 906(d) of Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
 
 #### Definitions
 
@@ -115,4 +129,6 @@ For definitions of terms used in this section, see section 1002 of Pub. L. 106�
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
 

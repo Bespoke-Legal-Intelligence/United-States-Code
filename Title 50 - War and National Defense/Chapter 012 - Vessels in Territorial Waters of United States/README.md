@@ -6,23 +6,12 @@
 | [191a.](%C2%A7%2000191a%20-%20Transfer%20of%20Secretary%20of%20Transportation%27s%20powers%20to%20Secretary%20of%20Navy%20when%20Coast%20Guard%20operates%20as%20part%20of%20Navy.md) | Transfer of Secretary of Transportation's powers to Secretary of Navy when Coast Guard operates as part of Navy. |
 | 191b, 191c. Repealed. |  |
 | [192\.](%C2%A7%2000192%20-%20Seizure%20and%20forfeiture%20of%20vessel%3B%20fine%20and%20imprisonment.md) | Seizure and forfeiture of vessel; fine and imprisonment. |
-| (a) | In general. |
-| (b) | Application to others. |
-| (c) | Civil penalty. |
-| (d) | In rem liability. |
-| (e) | Withholding of clearance. |
 | [193\.](%C2%A7%2000193%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862.md) | Repealed. |
 | [194\.](%C2%A7%2000194%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | [195\.](%C2%A7%2000195%20-%20Definitions.md) | Definitions. |
 | [196\.](%C2%A7%2000196%20-%20Emergency%20foreign%20vessel%20acquisition%3B%20purchase%20or%20requisition%20of%20vessels%20lying%20idle%20in%20United%20States%20waters.md) | Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters. |
 | [197\.](%C2%A7%2000197%20-%20Voluntary%20purchase%20or%20charter%20agreements.md) | Voluntary purchase or charter agreements. |
 | [198\.](%C2%A7%2000198%20-%20Requisitioned%20vessels.md) | Requisitioned vessels. |
-| (a) | Documentation of vessels. |
-| (b) | Waiver of compliance. |
-| (c) | Coastwise trade; inspection. |
-| (d) | Reconditioning of vessels. |
-| (e) | Effective period. |
-| (f) | “Documented” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

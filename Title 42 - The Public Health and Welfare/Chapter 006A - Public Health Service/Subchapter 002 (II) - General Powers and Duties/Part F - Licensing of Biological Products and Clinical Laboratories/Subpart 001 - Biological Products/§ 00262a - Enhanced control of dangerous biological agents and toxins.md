@@ -80,7 +80,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (A) In general
 
-&emsp;&emsp;Upon the receipt of names and other identifying information under paragraph (2)(B), the Attorney General shall, for the sole purpose of identifying whether the individuals involved are within any of the categoriesspecified in subparagraph (B), promptly use criminal, immigration, national security, and other electronic databases that are available to the Federal Government and are appropriate for such purpose.
+&emsp;&emsp;Upon the receipt of names and other identifying information under paragraph (2)(B), the Attorney General shall, for the sole purpose of identifying whether the individuals involved are within any of the categories specified in subparagraph (B), promptly use criminal, immigration, national security, and other electronic databases that are available to the Federal Government and are appropriate for such purpose.
 
 #### (B) Certain individuals
 
@@ -146,7 +146,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (i) Submission of ex parte materials in judicial proceedings
 
-&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation byany law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of information that the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
+&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation by any law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of information that the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
 
 #### (ii) Disclosure of information
 
@@ -200,7 +200,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (ii) Certain processes
 
-&emsp;&emsp;&emsp;Regulations under subsections (b) and (c) of this section shall set forth the procedures for applying for an exemption under clause (i). In the case of investigational products authorized under any of the Acts specified in subparagraph (B), the Secretary shall make a determination regarding a request for an exemption not later than 14 days after the first date on which both of the following conditions have been met by the person requesting the exemption:
+&emsp;&emsp;&emsp;Regulations under subsections (b) and (c) of this section shall set forth the procedures for applying for an exemption under clause (i). In the case of investigational products authorized under any of the Acts specified in subparagraph (B), the Secretary shall make a determination regarding a request for an exemption not later than 14 days after the first date on which both of the following conditions have beenmet by the person requesting the exemption:
 
 &emsp;&emsp;&emsp;&emsp;(I) The person has submitted to the Secretary an application for the exemption meeting the requirements established by the Secretary.
 
@@ -270,7 +270,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (1) In general
 
-&emsp;In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) of this section shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of anindividual and $500,000 in the case of any other person.
+&emsp;In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) of this section shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
 
 #### (2) Applicability of certain provisions
 
@@ -342,7 +342,15 @@ Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided th
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out as a note under section 262 of this title\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[this section\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect onthe day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out as a note under section 262 of this title\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[this section\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
+
+#### National Science Advisory Board for Biosecurity
+
+Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, provided that: “The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
+
+&emsp;“(1) a core curriculum and training requirements for workers in maximum containment biological laboratories; and
+
+&emsp;“(2) periodic evaluations of maximum containment biological laboratory capacity nationwide and assessments of the future need for increased laboratory capacity.”
 
 #### Report to Congress
 

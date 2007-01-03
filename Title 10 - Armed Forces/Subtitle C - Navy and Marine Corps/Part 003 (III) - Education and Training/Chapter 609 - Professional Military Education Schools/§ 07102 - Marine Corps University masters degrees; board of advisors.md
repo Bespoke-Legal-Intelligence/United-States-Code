@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 107–107, §532(c)(1), added subsec. (d).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §531(b), Nov. 24, 2003, 117 Stat. 1472, provided that: “The authority to confer the degree of master of operational studies under section 7102(c) of title 10, United States Code (as added by subsection (a)) may not be exercised until the Secretary of Education determines, and certifies to the President of the Marine Corps University, that the requirements established by the Command and General Staff College of the Marine Corps University for that degree are in accordance with generally applicable requirements for a degree of master of arts.” \[Approval granted by Secretary of Education on Jan. 10, 2003, for Marine Corps University to award the Master's degree in operational studies for successful completion of the School of Advanced Warfighting program.\]
+Pub. L. 108–136, div. A, title V, §531(b), Nov. 24, 2003, 117 Stat. 1472, provided that: “The authority to conferthe degree of master of operational studies under section 7102(c) of title 10, United States Code (as added by subsection (a)) may not be exercised until the Secretary of Education determines, and certifies to the President of the Marine Corps University, that the requirements established by the Command and General Staff College of the Marine Corps University for that degree are in accordance with generally applicable requirements for a degree of master of arts.” \[Approval granted by Secretary of Education on Jan. 10, 2003, for Marine Corps University to award the Master's degree in operational studies for successful completion of the School of Advanced Warfighting program.\]
 
 #### Effective Date of 2001 Amendment
 

@@ -56,7 +56,7 @@ Par. (5)(A). Pub. L. 103–382, §394(c)(2), substituted “section 8801 of this
 
 Pars. (1), (2). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Par. (3). Pub. L. 101–637, §§10(1), 14(c)(6)(B)–(D), substituted “The” for “the” at beginning and a period forsemicolon at end, struck out “each” before “reach of students”, and inserted “, vibration,” after “damage from water”.
+Par. (3). Pub. L. 101–637, §§10(1), 14(c)(6)(B)–(D), substituted “The” for “the” at beginning and a period for semicolon at end, struck out “each” before “reach of students”, and inserted “, vibration,” after “damage from water”.
 
 Par. (4). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 

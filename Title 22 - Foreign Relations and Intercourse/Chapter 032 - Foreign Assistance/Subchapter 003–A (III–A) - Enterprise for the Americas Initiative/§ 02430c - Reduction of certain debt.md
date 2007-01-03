@@ -24,7 +24,7 @@
 
 #### (2) Exchange of obligations
 
-&emsp;The Facility shall notify the agency primarily responsible for administering subchapter I of this chapter of the agreement with an eligible country to exchange a new obligation for outstanding obligations pursuant to this subsection. At the direction of the Facility, the old obligations shall be canceled and a new debt obligation for the country shall be established, and the agency primarily responsible for administering subchapter I of this chapter shall make an adjustment in its accounts to reflect the debt reduction.
+&emsp;The Facility shall notify the agency primarily responsible for administering subchapter I of this chapter of the agreement with an eligible country to exchange a new obligation for outstanding obligations pursuant to this subsection. At the direction of the Facility, the old obligations shall be canceled and a new debt obligation for the country shall be established, and the agency primarily responsible for administering subchapter I ofthis chapter shall make an adjustment in its accounts to reflect the debt reduction.
 
 (Pub. L. 87–195, pt. IV, §704, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3665.)
 
@@ -42,7 +42,7 @@ A prior section 704 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, am
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 For delegation of functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of Title 7, Agriculture.
 

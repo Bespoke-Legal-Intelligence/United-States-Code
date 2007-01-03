@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out the functions, powers, and 
 
 #### Prior Provisions
 
-A prior section 25 of act Sept. 26, 1914, was renumbered section 26 and is classified to section 58 of this title.
+A prior section 25 of act Sept. 26, 1914, was renumbered section 28 and is classified to section 58 of this title.
 
 #### Amendments
 

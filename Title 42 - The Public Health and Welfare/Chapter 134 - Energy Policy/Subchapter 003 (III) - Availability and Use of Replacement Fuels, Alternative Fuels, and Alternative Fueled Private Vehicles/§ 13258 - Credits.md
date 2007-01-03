@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall allocate a credit to a fleet or covered person that is required to acquire an alternative fueled vehicle under this subchapter, if that fleet or person acquires an alternative fueled vehicle in excess of the number that fleet or person is required to acquire under this subchapter or acquires an alternative fueled vehicle before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter.
+The Secretary shall allocate a credit to a fleet or covered person that is required to acquire an alternative fueled vehicle under this subchapter, if that fleet or person acquires an alternativefueled vehicle in excess of the number that fleet or person is required to acquire under this subchapter or acquires an alternative fueled vehicle before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter.
 
 #### (b) Allocation
 

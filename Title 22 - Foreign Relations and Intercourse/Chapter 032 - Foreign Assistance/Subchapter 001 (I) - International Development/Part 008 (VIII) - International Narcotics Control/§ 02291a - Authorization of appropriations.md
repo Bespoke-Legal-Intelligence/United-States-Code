@@ -28,7 +28,7 @@
 
 (2)(A) The President is authorized to accept contributions from foreign governments to carry out the purposes of this part. Such contributions shall be deposited as an offsetting collection to the applicable appropriation account and may be used under the same terms and conditions as funds appropriated pursuant to this part.
 
-(B) At the time of submission of the annual congressional presentation documents requiredby section 2394(a) of this title, the President shall provide a detailed report on any contributions received in the preceding fiscal year, the amount of such contributions, and the purposes for which such contributions were used.
+(B) At the time of submission of the annual congressional presentation documents required by section 2394(a) of this title, the President shall provide a detailed report on any contributions received in the preceding fiscal year, the amount of such contributions, and the purposes for which such contributions were used.
 
 (3) The President is authorized to provide assistance under this part on a reimbursable basis. Such reimbursements shall be deposited as an offsetting collection to the applicable appropriation and may be used under the same terms and conditions as funds appropriated pursuant to this part.
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 101–231, §17(g), inserted “Contribution by recipient c
 
 Pub. L. 99–570, §2002(2), inserted provisions that if the President submits a detailed plan for use of the money, an additional $45,000,000 may be appropriated to carry out the purpose of section 2291 of this title, of which at least $10,000,000 shall be used primarily for helicopters or other aircraft based in Latin America for use for narcotics control, eradication, and interdiction efforts throughout the region.
 
-Pub. L. 99–529, which directed the substitution of “$65,445,000 for the fiscal year 1987” for “$57,529,000 for the fiscal year 1987”, was executed by substituting thenew phrase for “$57,529,000 for fiscal year 1987” to reflect the probable intent of Congress.
+Pub. L. 99–529, which directed the substitution of “$65,445,000 for the fiscal year 1987” for “$57,529,000 for the fiscal year 1987”, was executed by substituting the new phrase for “$57,529,000 for fiscal year 1987” to reflect the probable intent of Congress.
 
 1985—Subsec. (a)(1). Pub. L. 99–83, §602, amended par. (1) generally, substituting provisions authorizing appropriations of $57,529,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $37,700,000 for fiscal years 1982 and 1983.
 

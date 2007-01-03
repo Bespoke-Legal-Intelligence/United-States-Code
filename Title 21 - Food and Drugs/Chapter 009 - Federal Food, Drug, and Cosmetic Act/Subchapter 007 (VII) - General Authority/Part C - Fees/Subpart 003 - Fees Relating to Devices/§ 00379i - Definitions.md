@@ -128,25 +128,7 @@ Additional Information.—For fiscal years 2006 and 2007, the report described u
 
 #### Study
 
-Pub. L. 107–250, title I, §104(b), Oct. 26, 2002, 116 Stat. 1601, provided that:
-
-“(1)
-
-In general.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall conduct a study for the purpose of determining the following with respect to the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\]:
-
-&emsp;“(A) The impact of such program on the ability of the Food and Drug Administration to conduct postmarket surveillance on medical devices.
-
-&emsp;“(B) The programmatic improvements, if any, needed for adequate postmarket surveillance of medical devices.
-
-&emsp;“(C) The amount of funds needed to conduct adequate postmarket surveillance of medical devices.
-
-&emsp;“(D) The extent to which device companies comply with the postmarket surveillance requirements, including postmarket study commitments.
-
-&emsp;“(E) The recommendations of the Secretary as to whether, and in what amounts, user fees collected under such user-fee program should be dedicated to postmarket surveillance if the program is extended beyond fiscal year 2007.
-
-“(2)
-
-Report.—Not later than January 10, 2007, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes the findings of the study under paragraph (1).”
+Pub. L. 107–250, title I, §104(b), Oct. 26, 2002, 116 Stat. 1601, directed the Secretary of Health and Human Services to conduct a study for the purpose of making certain determinations regarding the medical device user-fee program established under the amendment made by section 102 of Pub. L. 107–250 and to submit a report to Congress by Jan. 10, 2007.
 
 #### Consultation
 

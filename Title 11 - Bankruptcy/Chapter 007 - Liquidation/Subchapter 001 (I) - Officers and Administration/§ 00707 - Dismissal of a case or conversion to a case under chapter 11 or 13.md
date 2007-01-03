@@ -16,7 +16,7 @@
 
 &emsp;(II) $10,000.
 
-(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 309 of the Family Violence Prevention and Services Act,<sup>1</sup> or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
+(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 309 of the Family Violence Prevention and Services Act,<sup>1</sup> or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shallbe kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
 
 (II) In addition, the debtor's monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor's immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses.
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) the totality of the circumstances (including whether the debtor seeks to reject a personal services contract and the financial need for such rejection as sought by the debtor) of the debtor's financial situation demonstrates abuse.
 
-(4)(A) The court, on its own initiative or on the motion of a party in interest, in accordance with the procedures described in rule 9011 of the Federal Rules of Bankruptcy Procedure, may order the attorney for the debtor to reimburse the trustee for all reasonable costs in prosecuting a motion filed under section 707(b), including reasonable attorneys’ fees, if—
+(4)(A) The court, on its own initiative or on the motion of a party in interest, in accordance with the procedures described in rule 9011 of the Federal Rules of Bankruptcy Procedure, may order the attorney for the debtor to reimbursethe trustee for all reasonable costs in prosecuting a motion filed under section 707(b), including reasonable attorneys’ fees, if—
 
 &emsp;(i) a trustee files a motion for dismissal or conversion under this subsection; and
 
@@ -134,7 +134,7 @@
 
 &emsp;(ii) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;(iii) in the case of a debtor in a household exceeding 4 individuals, the highest medianfamily income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
+&emsp;(iii) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
 
 (B) In a case that is not a joint case, current monthly income of the debtor's spouse shall not be considered for purposes of subparagraph (A) if—
 
@@ -212,7 +212,11 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Pub. L. 109–8, title I, §107, Apr. 20, 2005, 119 Stat. 42, provided that: “For purposes of section 707(b) of title 11, United States Code, as amended by this Act, the Director of the Executive Office for United States Trustees shall, not later than 180 days after the date of enactment of this Act \[Apr. 20, 2005\], issue schedules of reasonable and necessary administrative expenses of administering a chapter 13 plan for each judicial district of the United States.”
 
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b)(2)(A)(i), (ii)(IV), (5)(B), (6)(C), (7)(A) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+
 #### Rules Promulgated by Supreme Court
 
-United States Supreme Court to prescribe general rules implementing the practice and procedure to befollowed under subsec. (b) of this section, with section 2075 of Title 28, Judiciary and Judicial Procedure, to apply with respect to such general rules, see section 320 of Pub. L. 98–353, set out as a note under section 2075 of Title 28.
+United States Supreme Court to prescribe general rules implementing the practice and procedure to be followed under subsec. (b) of this section, with section 2075 of Title 28, Judiciary and Judicial Procedure, to apply with respect to such general rules, see section 320 of Pub. L. 98–353, set out as a note under section 2075 of Title 28.
 

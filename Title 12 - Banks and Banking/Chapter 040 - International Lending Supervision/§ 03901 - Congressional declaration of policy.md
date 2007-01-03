@@ -42,7 +42,7 @@ Definitions.—As used in this section:
 
 &emsp;“(1)
 
-Appropriate federal banking agency.—The term ‘appropriate Federal banking agency’ has the meaning given such term in section 903(1) of the International Lending Supervision Act of 1983 \[12 U.S.C. 3902(1)\].
+Appropriate federal banking agency.—The term ‘appropriate Federal banking agency’ has themeaning given such term in section 903(1) of the International Lending Supervision Act of 1983 \[12 U.S.C. 3902(1)\].
 
 &emsp;“(2)
 

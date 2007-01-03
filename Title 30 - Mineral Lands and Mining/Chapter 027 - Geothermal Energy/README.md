@@ -11,10 +11,6 @@
 |  |  |
 | :--- | ---: |
 | [1511\.](Subchapter%20001%20%28I%29%20-%20Project%20Loans/%C2%A7%2001511%20-%20Loans%20for%20geothermal%20reservoir%20confirmation.md) | Loans for geothermal reservoir confirmation. |
-| (a) | Authorization; purposes. |
-| (b) | Repayment rates. |
-| (c) | Cancellation of unpaid balance and accrued interest. |
-| (d) | “Person” defined. |
 | [1512\.](Subchapter%20001%20%28I%29%20-%20Project%20Loans/%C2%A7%2001512%20-%20Loan%20size%20limitation.md) | Loan size limitation. |
 | [1513\.](Subchapter%20001%20%28I%29%20-%20Project%20Loans/%C2%A7%2001513%20-%20Loan%20interest%20rates%3B%20repayment%20periods.md) | Loan interest rates; repayment periods. |
 | [1514\.](Subchapter%20001%20%28I%29%20-%20Project%20Loans/%C2%A7%2001514%20-%20Program%20termination.md) | Program termination. |
@@ -29,17 +25,6 @@
 | :--- | ---: |
 | [1521\.](Subchapter%20002%20%28II%29%20-%20Study%2C%20Establishment%2C%20and%20Implementation%20of%20Insurance%20Program/%C2%A7%2001521%20-%20Reservoir%20insurance%20program%20study.md) | Reservoir insurance program study. |
 | [1522\.](Subchapter%20002%20%28II%29%20-%20Study%2C%20Establishment%2C%20and%20Implementation%20of%20Insurance%20Program/%C2%A7%2001522%20-%20Establishment%20of%20program.md) | Establishment of program. |
-| (a) | Authorization; requirements; scope. |
-| (b) | Definitions. |
-| (c) | Eligibility for investment insurance. |
-| (d) | Application for investment insurance; contents, etc. |
-| (e) | Determinations respecting application for insurance. |
-| (f) | Certificate of insurance; issuance, etc. |
-| (g) | Compensation payable to holder of certificate of insurance; amount, etc. |
-| (h) | Withdrawal and payment of compensation. |
-| (i) | Denial of insurance. |
-| (j) | Appropriations. |
-| (k) | Reinsurance agreements; procedures applicable; criteria; report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,13 +33,6 @@
 |  |  |
 | :--- | ---: |
 | [1531\.](Subchapter%20003%20%28III%29%20-%20Establishment%20of%20Assistance%20Program/%C2%A7%2001531%20-%20Feasibility%20study%20loan%20program.md) | Feasibility study loan program. |
-| (a) | Authorization; purposes. |
-| (b) | Maximum amount of loan for costs of administration; cancellation of unpaid balance and accrued interest. |
-| (c) | Maximum amount of loan for costs of construction. |
-| (d) | Interest rate; term. |
-| (e) | Funding; deposit of amount repaid. |
-| (f) | Authorization of appropriations. |
-| (g) | “Person” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

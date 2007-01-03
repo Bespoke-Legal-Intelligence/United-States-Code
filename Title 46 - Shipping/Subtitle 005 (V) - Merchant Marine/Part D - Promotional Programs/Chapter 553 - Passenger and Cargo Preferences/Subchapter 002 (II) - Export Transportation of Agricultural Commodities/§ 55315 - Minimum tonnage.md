@@ -1,0 +1,34 @@
+### §55315. Minimum tonnage
+
+(a)
+
+Definition.—In this section, the term “base period” means the 5-year period running from the sixth through the second prior fiscal years.
+
+(b)
+
+Requirement.—For each fiscal year, the minimum quantity of agricultural commodities to be exported under programs subject to section 55314 of this title is the average of the tonnage exported under those programs during the base period, discarding the high and low years.
+
+(c)
+
+Waivers.—The President may waive the minimum quantity for a fiscal year under this section if the President determines and reports to Congress, together with reasons, that the quantity cannot be used effectively for the purposes of those programs or, based on a certification by the Secretary of Agriculture, that the commodities are not available for reasons that include the unavailability of funds.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1646.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+55315
+
+46 App.:1241g.
+
+June 29, 1936, ch. 858, title IX, §901c, as added Pub. L. 99–198, title XI, §1142, Dec. 23, 1985, 99 Stat. 1493.
+
+In subsection (b), the words “For fiscal year 1986 and” are omitted as obsolete.
+

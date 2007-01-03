@@ -3,8 +3,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [2201\.](%C2%A7%2002201%20-%20Transfers%20of%20spoils%20of%20war.md) | Transfers of spoils of war. |
-| (a) | Eligibility for transfer. |
-| (b) | Terms and conditions. |
 | [2202\.](%C2%A7%2002202%20-%20Prohibition%20on%20transfers%20to%20countries%20which%20support%20terrorism.md) | Prohibition on transfers to countries which support terrorism. |
 | [2203\.](%C2%A7%2002203%20-%20Report%20on%20previous%20transfers.md) | Report on previous transfers. |
 | [2204\.](%C2%A7%2002204%20-%20Definitions.md) | Definitions. |

@@ -16,7 +16,7 @@ The provisions of this section shall be liberally construed to effectuate its pu
 
 #### 1948 Act
 
-Based on title 18, U.S.C., 1940 ed., §682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, §291, 36 Stat.1167; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 9, 1942, ch. 295, §1, 56 Stat. 271).
+Based on title 18, U.S.C., 1940 ed., §682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 9, 1942, ch. 295, §1, 56 Stat. 271).
 
 The word “dismissing” was substituted for “sustaining a motion to dismiss” in two places for conciseness and clarity, there being no difference in effect of a decision of dismissal whether made on motion or by the court sua sponte.
 

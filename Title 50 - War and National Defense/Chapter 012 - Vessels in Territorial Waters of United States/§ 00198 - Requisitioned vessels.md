@@ -10,11 +10,11 @@ The President may, notwithstanding any other provisions of law, by rules and reg
 
 #### (c) Coastwise trade; inspection
 
-Any vessel while documented under the provisions of this section, when chartered under sections 196 to 198 of this title by the Secretary of Transportation to Government agencies or departments or to private operators, may engage in the coastwise trade under permits issued by the Secretary of Transportation, who is authorized to issue permits for such purpose pursuant to such rules and regulations as he may prescribe. The Secretary of Transportation is authorized to prescribe such rules and regulations as he may deem necessary or appropriate to carry out the purposes and provisions of this section. The second paragraph of section 9 of the Shipping Act, 1916, as amended \[46 App. U.S.C. 808\], shall not apply with respect to vessels chartered to Government agencies or departments or to private operators or otherwise used or disposed of under sections 196 to 198 of this title. Existing laws covering the inspection of steam vessels are made applicable to vessels documented under this section only to such extent and upon such conditions as may be required by regulations of the Secretary of the department in which the Coast Guard is operating: <i>Provided</i>, That in determining to what extent those laws should be made applicable, due consideration shall be given to the primary purpose of transporting commodities essential to the national defense.
+Any vessel while documented under the provisions of this section, when chartered under sections 196 to 198 of this title by the Secretary of Transportation to Government agencies or departments or to private operators, may engage in the coastwise trade under permits issued by the Secretary of Transportation, who is authorized to issue permits for such purpose pursuant to such rules and regulations as he may prescribe. The Secretary of Transportation is authorized to prescribe such rules and regulations as he may deem necessary or appropriate to carry out the purposes and provisions of this section. Section 57109 of title 46 shall not apply with respect to vessels chartered to Government agencies or departments or to private operators or otherwise used or disposed of under sections 196 to 198 of this title. Existing laws covering the inspection of steam vessels are made applicable to vessels documented under this section only to such extent and upon such conditions as may be required by regulations of the Secretary of the department in which the Coast Guard is operating: <i>Provided</i>, That in determining to what extent those laws should be made applicable, due consideration shall be given to the primary purpose of transporting commodities essential to the national defense.
 
 #### (d) Reconditioning of vessels
 
-The Secretary of Transportation without regard to the provisions of section 5 of title 41 may repair, reconstruct, or recondition any vessels to be utilized under sections 196 to 198 of this title. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under sections 196 to 198 of this title may, with the aid of any funds available and without regard to the provisions of said section 5 of title 41, repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under sections 196 to 198 of this title to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of title VII of the Merchant Marine Act, 1936 \[46 App. U.S.C. 1191 et seq.\], and any department or agency of the United States Government is authorized to enter into such charters.
+The Secretary of Transportation without regard to the provisions of section 5 of title 41 may repair, reconstruct, or recondition any vessels to be utilized under sections 196 to 198 of this title. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under sections 196 to 198 of this title may, with the aid of any funds available and without regard to the provisions of said section 5 of title 41, repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under sections 196 to 198 of this title to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of chapter 575 of title 46, and any department or agency of the United States Government is authorized to enter into such charters.
 
 #### (e) Effective period
 
@@ -26,9 +26,9 @@ When used in sections 196 to 198 of this title, the term “documented” means 
 
 (Aug. 9, 1954, ch. 659, §3, 68 Stat. 675; Pub. L. 89–670, §6(b)(1), (2), Oct. 15, 1966, 80 Stat. 938; Pub. L. 97–31, §12(152), Aug. 6, 1981, 95 Stat. 167.)
 
-#### References in Text
+#### Codification
 
-The Merchant Marine Act, 1936, referred to in subsec. (d), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Title VII of the Merchant Marine Act, 1936 is classified generally to subchapter VII (§1191 et seq.) of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
+“Section 57109 of title 46” substituted in subsec. (c) for “The second paragraph of section 9 of the Shipping Act, 1916, as amended,” and “chapter 575 of title 46” substituted in subsec. (d) for “title VII of the Merchant Marine Act, 1936” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 57109 and chapter 575 of Title 46, Shipping.
 
 #### Amendments
 
@@ -43,8 +43,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Delegation of Functions
 
 For delegation to Secretary of the Treasury of authority vested in President by subsec. (a) of this section, see Ex. Ord. No. 10289, eff. Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
-
-#### Administrative Delegation of Functions by Secretary of the Treasury
-
-Administrative delegation of functions by Secretary of the Treasury, see note set out preceding section 3 of the Appendix to Title 46, Shipping.
 

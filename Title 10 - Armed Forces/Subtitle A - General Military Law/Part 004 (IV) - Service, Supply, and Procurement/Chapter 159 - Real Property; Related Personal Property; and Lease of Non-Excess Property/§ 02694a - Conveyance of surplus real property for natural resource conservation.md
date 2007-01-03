@@ -22,7 +22,7 @@ Eligible Entities.—The conveyance of surplus real property under this section 
 
 (c)
 
-Revisionary Interest and Other Deed Requirements.—(1) The deed of conveyance of any surplus real property conveyed under this section shall require the property to be used and maintained for the conservation of natural resources in perpetuity. If the Secretary concerned determines at any time that the property is not being used or maintained for such purpose, then, at the option of the Secretary, all or any portion of the property shall revert to the United States.
+Reversionary Interest and Other Deed Requirements.—(1) The deed of conveyance of any surplus real property conveyed under this section shall require the property to be used andmaintained for the conservation of natural resources in perpetuity. If the Secretary concerned determines at any time that the property is not being used or maintained for such purpose, then, at the option of the Secretary, all or any portion of the property shall revert to the United States.
 
 (2) The deed of conveyance may permit the recipient of the property—
 
@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(22), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### References in Text
 
@@ -72,5 +72,7 @@ Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2
 
 #### Amendments
 
-2006—Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and American Samoa” for “and the territories and possessions of the United States”.
+2006—Subsec. (c). Pub. L. 109–364 substituted “Reversionary” for “Revisionary” in heading.
+
+Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and American Samoa” for “and the territories and possessions of the United States”.
 

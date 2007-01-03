@@ -44,13 +44,13 @@ A governmental entity that is affected by legal process served for the enforceme
 
 #### (f) Relief from liability
 
-(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payablefrom the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
+(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
 
 (2) No Federal employee whose duties include taking actions necessary to comply with the requirements of subsection (a) of this section with regard to any individual shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by the employee in connection with the carrying out of such actions.
 
 #### (g) Regulations
 
-Authority to promulgate regulations for the implementation of this section shall, insofar as this section applies to moneys due from (or payable by)—
+Authority to promulgate regulations for the implementation of this section shall, insofar asthis section applies to moneys due from (or payable by)—
 
 &emsp;(1) the United States (other than the legislative or judicial branches of the Federal Government) or the government of the District of Columbia, be vested in the President (or the designee of the President);
 
@@ -82,7 +82,7 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;&emsp;(iii) worker's compensation benefits paid or payable under Federal or State law;
 
-&emsp;&emsp;&emsp;(iv) benefits paid or payable under the Railroad Retirement System,<sup>2</sup> and
+&emsp;&emsp;&emsp;(iv) benefits paid or payable under the Railroad Retirement System,<sup>1</sup> and
 
 &emsp;&emsp;&emsp;(v) special benefits for certain World War II veterans payable under subchapter VIII of this chapter; but
 
@@ -116,11 +116,11 @@ For purposes of this section—
 
 #### (1) United States
 
-&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of theFederal Government, the United States Postal Service, the Postal Rate Commission, any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
+&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Regulatory Commission, any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
 
 #### (2) Child support
 
-&emsp;The term “child support”, when used in reference to the legal obligations of an individual to provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, and which may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
+&emsp;The term “child support”, when used in reference to the legal obligations of an individual to provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, andwhich may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
 
 #### (3) Alimony
 
@@ -154,13 +154,15 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
-(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
+(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Subsec. (i)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1999—Subsec. (h)(1)(A)(v). Pub. L. 106–169 added cl. (v).
 
@@ -262,11 +264,11 @@ Sec. 301. <i>Wage Withholding</i>. (a) Within 60 days from the date of this orde
 
 (b) Beginning no later than July 1, 1995, the Director of the Office of Personnel Management (OPM) shall publish annually in the Federal Register the list of agents (and their addresses) designated to receive service of withholding notices for Federal employees.
 
-Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in the service of legal process in civil actions pursuant to orders of courts of States to establish paternity and establish or enforce a support obligation by making Federal employees and members of the Uniformed Services stationed outside the United States available for the service of process. Each agency shall designate an official who shall be responsible for facilitating a Federal employee's or member's availability for service of process, regardless of the location of theemployee's workplace or member's duty station. The OPM shall publish a list of these officials annually in the Federal Register, beginning no later than July 1, 1995.
+Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in the service of legal process in civil actions pursuant to orders of courts of States to establish paternity and establish or enforce a support obligation by making Federal employees and members of the Uniformed Services stationed outside the United States available for the service of process. Each agency shall designate an official who shall be responsible for facilitating a Federal employee's or member's availability for service of process, regardless of the location of the employee's workplace or member's duty station. The OPM shall publish a list of these officials annually in the Federal Register, beginning no later than July 1, 1995.
 
 Sec. 303. <i>Federal Parent Locator</i>. Every Federal agency shall cooperate with the Federal Parent Locator Service, established under 42 U.S.C. 653, by providing complete, timely and accurate information that will assist in locating noncustodial parents and their employers.
 
-Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(<i>o</i>)–(u).
+Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees withchild support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(<i>o</i>)–(u).
 
 (b) All Federal agencies shall inform current and prospective employees that crossmatches are routinely made between Federal personnel records and State records on individuals who owe child support, and inform employees how to initiate voluntary wage withholding requests.
 
@@ -276,7 +278,7 @@ Sec. 306. <i>Report on Actions Taken</i>. Within 90 days of the date of this ord
 
 #### PART 4—ADDITIONAL ACTIONS
 
-Sec. 401. <i>Additional Review for the Uniformed Services</i>. (a) In addition to the requirements outlined above, the Secretary of the Department of Defense (DOD) will chair a task force, with participation by the Department of Health and Human Services (HHS), the Department of Commerce, and the Department of Transportation, that shall conduct a full review of current policies and practices within the Uniformed Services to ensure that children of Uniformed Services personnel are provided financial and medical support in the same manner and within the same time frames as is mandated for all other children due such support. This review shall include, but not be limited to, issues related to withholding non-custodial parents’ wages, service of legal process, activities to locate parents and their income and assets, release time to attend civil paternity and support proceedings, and health insurance coverage under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS). All relevant existing statutes, including the Soldiers\[’\] and Sailors\[’\] Civil Relief Act of 1940 \[now Servicemembers Civil Relief Act\] \[50 App. U.S.C. 501 et seq.\], the Uniformed Services Former Spouses\[’\] Protection Act \[see Short Title of 1982 Amendment note set out under section 1401 of Title 10, Armed Forces\], and the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, see Tables for classification\], shall be reviewed and appropriate legislative modifications shall be identified.
+Sec. 401. <i>Additional Review for the Uniformed Services</i>. (a) In addition to the requirements outlined above, the Secretary of the Department of Defense (DOD) will chair a task force, with participation by the Department of Health and Human Services (HHS), the Department of Commerce, and the Department of Transportation, that shall conduct a full review of current policies and practices within the Uniformed Services to ensure that children of Uniformed Services personnel are provided financial and medical support in the same manner and within the same time frames as is mandated for all other children due such support. This review shall include, but not be limited to, issues related to withholding non-custodial parents’ wages, service of legal process, activities to locate parents and their income and assets, release time to attend civil paternity and support proceedings, and health insurance coverage under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS). All relevant existing statutes, including the Soldiers\[’\] and Sailors\[’\] Civil Relief Act of 1940 \[now Servicemembers Civil Relief Act\] \[50 U.S.C. App. 501 et seq.\], the Uniformed Services Former Spouses\[’\] Protection Act \[see Short Title of 1982 Amendment note set out under section 1401 of Title 10, Armed Forces\], and the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, see Tables for classification\], shall be reviewed and appropriate legislative modifications shall be identified.
 
 (b) Within 180 days of the date of this order, DOD shall submit to OMB a report based on this review. The report shall recommend additional policy, regulatory and legislative changes that would improve and enhance the Federal Government's commitment to ensuring parental support for all children.
 
@@ -307,6 +309,4 @@ This order is not intended to require any action that would compromise the defen
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

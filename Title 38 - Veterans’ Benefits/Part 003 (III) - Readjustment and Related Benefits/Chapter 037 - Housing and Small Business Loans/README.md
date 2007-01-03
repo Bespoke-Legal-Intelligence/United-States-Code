@@ -68,14 +68,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER V—NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM
+#### SUBCHAPTER V—DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS
 
 |  |  |
 | :--- | ---: |
-| [3761\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003761%20-%20Pilot%20program.md) | Pilot program. |
-| [3762\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003762%20-%20Direct%20housing%20loans%20to%20Native%20American%20veterans.md) | Direct housing loans to Native American veterans. |
-| [3763\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003763%20-%20Native%20American%20Veteran%20Housing%20Loan%20Program%20Account.md) | Native American Veteran Housing Loan Program Account. |
-| [3764\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003764%20-%20Definitions.md) | Definitions. |
+| [3761\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003761%20-%20Direct%20housing%20loans%20to%20Native%20American%20veterans%3B%20program%20authority.md) | Direct housing loans to Native American veterans; program authority. |
+| [3762\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003762%20-%20Direct%20housing%20loans%20to%20Native%20American%20veterans%3B%20program%20administration.md) | Direct housing loans to Native American veterans; program administration. |
+| [3763\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003763%20-%20Native%20American%20Veteran%20Housing%20Loan%20Program%20Account.md) | Native American Veteran Housing Loan Program Account. |
+| [3764\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003764%20-%20Qualified%20non-Native%20American%20veterans.md) | Qualified non-Native American veterans. |
+| [3765\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003765%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,6 +89,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–233, title I, §§103(f)(4), 104(c), June 15, 2006, 120 Stat. 401, 402, substituted “DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS” for “NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM” in item for subchapter V, “Direct housing loans to Native American veterans; program authority” for “Pilot program” in item 3761, “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans” in item 3762, and “Qualified non-Native American veterans” for “Definitions” in item 3764 and added item 3765.
 
 2002—Pub. L. 107–330, title III, §303(b), Dec. 6, 2002, 116 Stat. 2826, added item 3707A.
 
@@ -154,5 +157,5 @@ Any loan or mortgage secured by a one- to four-family dwelling and insured, guar
 - [Subchapter 002 (II) - Loans](Subchapter%20002%20%28II%29%20-%20Loans/README.md)
 - [Subchapter 003 (III) - Administrative Provisions](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/README.md)
 - [Subchapter 004 (IV) - Small Business Loans](Subchapter%20004%20%28IV%29%20-%20Small%20Business%20Loans/README.md)
-- [Subchapter 005 (V) - Native American Veteran Housing Loan Pilot Program](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/README.md)
+- [Subchapter 005 (V) - Direct Housing Loans for Native American Veterans](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/README.md)
 - [Subchapter 006 (VI) - Transferred](Subchapter%20006%20%28VI%29%20-%20Transferred/README.md)

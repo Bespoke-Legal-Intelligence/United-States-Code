@@ -4,7 +4,7 @@ For purposes of this part—
 
 &emsp;(1) The term “Miccosukee Tribe” means the Miccosukee Tribe of Indians of Florida, a tribe of American Indians recognized by the United States and organized under section 476 of this title and recognized by the State of Florida pursuant to chapter 285, Florida Statutes.
 
-&emsp;(2) The term “State of Florida” means the State of Florida, its agencies, political subdivisions, constitutional officers, officials ofits agencies and subdivisions, and the South Florida Water Management District.
+&emsp;(2) The term “State of Florida” means the State of Florida, its agencies, political subdivisions, constitutional officers, officials of its agencies and subdivisions, and the South Florida Water Management District.
 
 &emsp;(3) The term “Secretary” means the Secretary of the Interior.
 

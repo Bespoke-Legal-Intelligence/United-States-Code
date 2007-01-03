@@ -30,7 +30,7 @@ Pub. L. 103–160, div. A, title V, §516, Nov. 30, 1993, 107 Stat. 1650, direct
 
 #### Army National Guard Combat Readiness Reform
 
-Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, titleV, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372, provided that:
+Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372, provided that:
 
 #### “SEC. 1101. SHORT TITLE.
 
@@ -98,7 +98,7 @@ Establishment of Personnel Account.—The Secretary of the Army shall establish 
 
 “(b)
 
-Use of Account.—Until a member of the Army Selected Reserve has completed the minimum training necessary for deployment, the member may not be assigned to fill a position in a Selected Reserve unit but shall be carried in the account established under subsection (a).
+Use of Account.—Until a member of the Army Selected Reserve has completed the minimum training necessary for deployment, the member may not be assigned to fill a position in a Selected Reserve unit butshall be carried in the account established under subsection (a).
 
 “(c)
 

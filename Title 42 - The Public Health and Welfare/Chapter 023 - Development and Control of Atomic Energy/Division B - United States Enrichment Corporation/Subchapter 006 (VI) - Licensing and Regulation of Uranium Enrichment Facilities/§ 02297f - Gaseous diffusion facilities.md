@@ -26,7 +26,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (3) Treatment of certificate of compliance
 
-&emsp;The requirement for a certificate of compliance under paragraph (1) shall be in lieu of anyrequirement for a license for any gaseous diffusion facility of the Department leased by the Corporation.
+&emsp;The requirement for a certificate of compliance under paragraph (1) shall be in lieu of any requirement for a license for any gaseous diffusion facility of the Department leased by the Corporation.
 
 #### (4) NRC review
 

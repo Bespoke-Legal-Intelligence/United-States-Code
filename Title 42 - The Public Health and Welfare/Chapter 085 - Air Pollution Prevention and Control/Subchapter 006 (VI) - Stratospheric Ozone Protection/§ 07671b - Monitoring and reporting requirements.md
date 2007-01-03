@@ -24,7 +24,7 @@ Unless such information has previously been reported to the Administrator, on th
 
 &emsp;(C) the date by which the atmospheric abundance of chlorine is projected to return to a level of two parts per billion.
 
-> Such updated projections shall be made on the basis of current international and domestic controls on substances covered by this subchapter as well as on the basis of such controls supplemented by a year 2000 global phase out of all halocarbon emissions (the base case). It is the purpose of the Congress through the provisions of this section to monitor closely the productionand consumption of class II substances to assure that the production and consumption of such substances will not:
+> Such updated projections shall be made on the basis of current international and domestic controls on substances covered by this subchapter as well as on the basis of such controls supplemented by a year 2000 global phase out of all halocarbon emissions (the base case). It is the purpose of the Congress through the provisions of this section to monitor closely the production and consumption of class II substances to assure that the production and consumption of such substances will not:
 
 &emsp;(i) increase significantly the peak chlorine loading that is projected to occur under the base case established for purposes of this section;
 
@@ -100,5 +100,5 @@ Information Gathering.—In carrying out the studies under this section, the pro
 
 “(g)
 
-Consultation and Coordination.—In preparing the studies under this section the Administrator shall consult and coordinate with the Secretary of Energy, the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and the heads of other relevant Federal agencies and departments. In the case of the studies under subsections (a), (b), and (e), such consultation and coordination shall include the Secretary of Agriculture.”
+Consultation and Coordination.—In preparing the studies under this section the Administrator shall consult and coordinate with the Secretary of Energy, the Administrators of the National Aeronautics and Space Administration and the National Oceanic andAtmospheric Administration, and the heads of other relevant Federal agencies and departments. In the case of the studies under subsections (a), (b), and (e), such consultation and coordination shall include the Secretary of Agriculture.”
 

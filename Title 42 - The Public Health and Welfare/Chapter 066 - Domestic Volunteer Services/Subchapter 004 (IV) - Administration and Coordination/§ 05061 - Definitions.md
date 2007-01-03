@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;(6) the term “poverty line for a single individual” means such poverty line as established by the Director of the Office of Management and Budget in accordance with section 9902(2) of this title;
 
-&emsp;(7) the term “boarder baby” means an infant who is abandoned, as defined in section 301 of the Abandoned Infants Assistance Act of 1988 (Public Law 100–505; 42 U.S.C. 670 note);
+&emsp;(7) the term “boarder baby” means an infant who is abandoned, as defined in section 5117aa–21 of this title;
 
 &emsp;(8) the term “Corporation” means the Corporation for National and Community Service established under section 12651 of this title;
 
@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-Section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92–424 (42 U.S.C. 2971d), referred to in par. (4), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Section 9924 of this title provides that any reference in any provision of law to the poverty line set forth in section 625 of the Economic Opportunity Act of 1964 is to be construed to be a reference to the poverty line defined in section 9902 of this title.
+Section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92–424 (42 U.S.C. 2971d), referred to in par. (4), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Section 9924 ofthis title provides that any reference in any provision of law to the poverty line set forth in section 625 of the Economic Opportunity Act of 1964 is to be construed to be a reference to the poverty line defined in section 9902 of this title.
 
 The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

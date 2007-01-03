@@ -40,7 +40,7 @@
 
 #### (B) Wind energy
 
-&emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, andcommercial application for wind energy, including—
+&emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, and commercial application for wind energy, including—
 
 &emsp;&emsp;&emsp;(i) low speed wind energy;
 

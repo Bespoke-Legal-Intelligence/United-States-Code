@@ -4,5 +4,5 @@ Section, act Aug. 14, 1935, ch. 531, title XIX, §1926, as added Dec. 19, 1989, 
 
 #### Effective Date of Repeal
 
-Section 4713(b) of Pub. L. 105–33 provided that: “The repeal made by subsection (a) \[repealing this section\] shall apply to services furnished on or after October 1, 1997.”
+Section 4713(b) of Pub. L. 105–33 provided that: “The repeal made by subsection (a) \[repealing this section\]shall apply to services furnished on or after October 1, 1997.”
 

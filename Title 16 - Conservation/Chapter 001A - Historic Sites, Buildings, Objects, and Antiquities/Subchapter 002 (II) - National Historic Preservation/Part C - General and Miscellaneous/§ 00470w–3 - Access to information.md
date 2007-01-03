@@ -12,7 +12,7 @@ The head of a Federal agency or other public official receiving grant assistance
 
 #### (b) Access determination
 
-When the head of a Federal agency or other public official has determined that informationshould be withheld from the public pursuant to subsection (a) of this section, the Secretary, in consultation with such Federal agency head or official, shall determine who may have access to the information for the purpose of carrying out this subchapter.
+When the head of a Federal agency or other public official has determined that information should be withheld from the public pursuant to subsection (a) of this section, the Secretary, in consultation with such Federal agency head or official, shall determine who may have access to the information for the purpose of carrying out this subchapter.
 
 #### (c) Consultation with Council
 

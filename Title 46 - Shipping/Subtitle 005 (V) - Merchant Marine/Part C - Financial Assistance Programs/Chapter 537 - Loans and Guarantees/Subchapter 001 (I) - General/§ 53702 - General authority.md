@@ -1,0 +1,52 @@
+### §53702. General authority
+
+(a)
+
+In General.—The Secretary, on terms the Secretary may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.
+
+(b)
+
+Direct Loans for Fisheries.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of this chapter, any obligation involving a fishing vessel, fishery facility, aquaculture facility, individual fishing quota, or fishing capacity reduction program issued under this chapter after October 11, 1996, shall be a direct loan obligation for which the Secretary shall be the obligee, rather than an obligation issued to an obligee other than the Secretary and guaranteed by the Secretary. A direct loan obligation under this subsection shall be treated in the same manner and to the same extent as an obligation guaranteed under this chapter except with respect to provisions of this chapter that by their nature can only be applied to obligations guaranteed under this chapter.
+
+&emsp;(2)
+
+Interest rate.—Notwithstanding any other provision of this chapter, the annual rate of interest an obligor shall pay on a direct loan obligation under this subsection is 2 percent plus the additional percent the Secretary must pay as interest to borrow from the Treasury the funds to make the loan.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1603; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (d), Jan. 6, 2006, 119 Stat. 3555, 3557.)
+
+#### Amendment Not Shown in Text
+
+<i>Subsec. (a) of this section was derived from section 1273(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1273(a) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53702(a)
+
+46 App.:1273(a).
+
+June 29, 1936, ch. 858, title XI, §1103(a), as added June 23, 1938, ch. 600, §46, 52 Stat. 969; Aug. 15, 1953, ch. 513, §1, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §3, 68 Stat. 1268; June 25, 1956, ch. 438, 70 Stat. 332; Aug. 7, 1956, ch. 1026, §1(a), (c), (d), 70 Stat. 1087; Pub. L. 91–469, §30, Oct. 21, 1970, 84 Stat. 1035; restated Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 910; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 99–509, title V, §5002, Oct. 21, 1986, 100 Stat. 1912; Pub. L. 103–160, div. A, title XIII, §1356(5), Nov. 30, 1993, 107 Stat. 1814.
+
+53702(b)
+
+46 App.:1279g.
+
+June 29, 1936, ch. 858, title XI, §1112, as added Pub. L. 104–297, title III, §303(a), Oct. 11, 1996, 110 Stat. 3616.
+
+In subsection (a), the words “on terms the Secretary may prescribe” are added based on language in 46 App. U.S.C. 1274(a) (before cl. (1)). The words “the unpaid balance of” are omitted as unnecessary.
+
+#### Codification
+
+Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, ch. 858, as added by Pub. L. 104–297, §303(a), which was classified to section 1279g of the former Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+

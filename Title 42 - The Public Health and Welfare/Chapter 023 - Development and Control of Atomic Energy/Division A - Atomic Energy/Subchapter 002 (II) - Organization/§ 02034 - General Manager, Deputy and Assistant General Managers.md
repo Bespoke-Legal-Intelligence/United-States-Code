@@ -4,7 +4,7 @@ There is established within the Commission—
 
 #### (a) General Manager; chief executive officer; duties; appointment; removal
 
-&emsp;a General manager, who shall be the chief executive officer of the Commission, and who shall discharge such of the administrative and executive functions of the Commission as the Commission may direct. The General Manager shall be appointed by the Commission, shall serve at the pleasure of the Commission and shall be removable by the Commission.
+&emsp;a General Manager, who shall be the chief executive officer of the Commission, and who shall discharge such of the administrative and executive functions of the Commission as the Commission may direct. The General Manager shall be appointed by the Commission, shall serve at the pleasure of the Commission and shall be removable by the Commission.
 
 #### (b) Deputy General Manager; duties; appointment; removal
 
@@ -18,7 +18,7 @@ There is established within the Commission—
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1802(a)(4)(A) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1802(a)(4)(A) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
@@ -35,8 +35,4 @@ Subsecs. (b), (c). Pub. L. 85–287 added subsecs. (b) and (c).
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

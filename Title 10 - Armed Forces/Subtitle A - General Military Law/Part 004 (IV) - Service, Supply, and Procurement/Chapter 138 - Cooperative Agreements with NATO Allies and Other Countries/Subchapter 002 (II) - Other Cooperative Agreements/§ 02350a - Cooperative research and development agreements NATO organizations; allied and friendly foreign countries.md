@@ -46,7 +46,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 &emsp;(A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(B) If a project similar to the one under consideration by the Department of Defense is indevelopment or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
+&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
@@ -58,7 +58,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 Side-by-Side Testing.—(1) It is the sense of Congress—
 
-&emsp;(A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
+&emsp;(A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developedby countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
 
 &emsp;(B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
@@ -100,7 +100,7 @@ Provisions relating to major non-NATO allies were contained in section 2767a of 
 
 Subsec. (g)(4). Pub. L. 107–314, §1041(a)(9), struck out par. (4) which read as follows: “The Secretary of Defense shall submit to Congress each year, not later than March 1, a report containing information on—
 
-&emsp;“(A) the equipment, munitions, and technologies manufactured and developed by countries referred toin subsection (a)(2) that were evaluated under this subsection during the previous fiscal year;
+&emsp;“(A) the equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) that were evaluated under this subsection during the previous fiscal year;
 
 &emsp;“(B) the obligation of any funds under this subsection during the previous fiscal year; and
 

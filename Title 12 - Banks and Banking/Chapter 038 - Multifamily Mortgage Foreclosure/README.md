@@ -11,22 +11,10 @@
 | [3707\.](%C2%A7%2003707%20-%20Commencement%20of%20foreclosure%3B%20powers%20and%20duties%20of%20foreclosure%20commissioner%20or%20substitute.md) | Commencement of foreclosure; powers and duties of foreclosure commissioner or substitute. |
 | [3708\.](%C2%A7%2003708%20-%20Service%20of%20notice%20of%20default%20and%20foreclosure%20sale.md) | Service of notice of default and foreclosure sale. |
 | [3709\.](%C2%A7%2003709%20-%20Presale%20reinstatement.md) | Presale reinstatement. |
-| (a) | Grounds. |
-| (b) | Views of Secretary. |
-| (c) | Mortgage subsequent to reinstatement. |
-| (d) | Subsequent foreclosures. |
 | [3710\.](%C2%A7%2003710%20-%20Foreclosure%20sale.md) | Foreclosure sale. |
-| (a) | Time of sale; public auction; location. |
-| (b) | Conduct of sale. |
-| (c) | Adjournment or cancellation. |
 | [3711\.](%C2%A7%2003711%20-%20Foreclosure%20costs.md) | Foreclosure costs. |
 | [3712\.](%C2%A7%2003712%20-%20Disposition%20of%20sale%20proceeds.md) | Disposition of sale proceeds. |
 | [3713\.](%C2%A7%2003713%20-%20Transfer%20of%20title%20and%20possession.md) | Transfer of title and possession. |
-| (a) | Payment and delivery of deeds. |
-| (b) | Quit claim deed. |
-| (c) | Possession by purchaser; continuing interests. |
-| (d) | Right of redemption; right of possession. |
-| (e) | Imposition of tax on conveyance to the Secretary. |
 | [3714\.](%C2%A7%2003714%20-%20Record%20of%20foreclosure%20and%20sale.md) | Record of foreclosure and sale. |
 | [3715\.](%C2%A7%2003715%20-%20Computation%20of%20time.md) | Computation of time. |
 | [3716\.](%C2%A7%2003716%20-%20Separability.md) | Separability. |

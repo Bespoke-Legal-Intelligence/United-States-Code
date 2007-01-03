@@ -8,7 +8,7 @@ There is authorized to be appropriated to the Department of Commerce, in additio
 
 &emsp;(2) enforcement of United States trade laws with respect to products of the People's Republic of China; and
 
-&emsp;(3) a Trade Law Technical Assistance Center to assist small- and medium-sized businesses, workers, and unions in evaluating potential remedies available under the trade laws of theUnited States with respect to trade involving the People's Republic of China.
+&emsp;(3) a Trade Law Technical Assistance Center to assist small- and medium-sized businesses, workers, and unions in evaluating potential remedies available under the trade laws of the United States with respect to trade involving the People's Republic of China.
 
 #### (b) Overseas Compliance Program
 

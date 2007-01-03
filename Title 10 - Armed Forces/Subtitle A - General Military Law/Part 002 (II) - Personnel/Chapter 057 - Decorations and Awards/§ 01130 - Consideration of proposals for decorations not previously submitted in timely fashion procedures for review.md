@@ -66,15 +66,7 @@ Operations Defined.—For purposes of this section:
 
 #### Eligibility of Certain World War II Military Organizations for Award of Unit Decorations
 
-Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, provided that:
-
-“(a)
-
-Authority.—A unit decoration may be awarded for any unit or other organization of the Armed Forces (such as the Military Intelligence Service of the Army) that (1) supported the planning or execution of combat operations during World War II primarily through unit personnel who were attached to other units of the Armed Forces or of other allied armed forces, and (2) is not otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations.
-
-“(b)
-
-Time for Submission of Recommendation.—Any recommendation for award of a unit decoration under subsection (a) shall be submitted to the Secretary concerned (as defined in section 101(a)(9) of title 10, United States Code), or to such other official as the Secretary concerned may designate, not later than two yearsafter the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
 
 #### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
 

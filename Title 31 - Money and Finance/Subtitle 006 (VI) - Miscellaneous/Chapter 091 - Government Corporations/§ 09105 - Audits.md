@@ -82,7 +82,7 @@ In subsection (b)(1), the words “pursuant to law” are omitted as surplus.
 
 In subsection (b)(2), the words “may make a contract” are substituted for “is authorized in his discretion to employ by contract” to eliminate unnecessary words.
 
-In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency andbecause of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
+In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency and because of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
 
 Subsection (d) is substituted for 31:850(1st sentence proviso words before 7th comma) because of the restatement.
 

@@ -6,7 +6,7 @@
 
 (3) The authority provided by this section may not be used in a case to which section 8164 of this title applies.
 
-(4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitatethe transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
+(4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
 
 (5) The authority of the Secretary under paragraph (1) expires on the date that is seven years after the date of the enactment of this section.
 

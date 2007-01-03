@@ -10,7 +10,13 @@
 | \[212, 213. | Repealed.\] |
 | [214\.](Officers/a.%20appointments/%C2%A7%2000214%20-%20Appointment%20of%20temporary%20officers.md) | Appointment of temporary officers. |
 | [215\.](Officers/a.%20appointments/%C2%A7%2000215%20-%20Rank%20of%20warrant%20officers.md) | Rank of warrant officers. |
-| \[221 to 248. Repealed.\] |  |
+| [216\.](Officers/a.%20appointments/%C2%A7%2000216%20-%20Director%20of%20Boating%20Safety%20Office.md) | Director of Boating Safety Office <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |
+| :--- |
+| \[221 to 248. Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,8 +63,8 @@
 | [283\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000283%20-%20Regular%20lieutenants%3B%20separation%20for%20failure%20of%20selection%20for%20promotion%3B%20continuation.md) | Regular lieutenants; separation for failure of selection for promotion; continuation. |
 | [284\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000284%20-%20Regular%20Coast%20Guard%3B%20officers%20serving%20under%20temporary%20appointments.md) | Regular Coast Guard; officers serving under temporary appointments. |
 | [285\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000285%20-%20Regular%20lieutenant%20commanders%20and%20commanders%3B%20retirement%20for%20failure%20of%20selection%20for%20promotion.md) | Regular lieutenant commanders and commanders; retirement for failure of selection for promotion. |
-| [286\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000286%20-%20Discharge%20in%20lieu%20of%20retirement%3B%20separation%20pay.md) | Discharge in lieu of retirement; severance pay. |
-| [286a.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000286a%20-%20Regular%20warrant%20officers%20severance%20pay.md) | Regular warrant officers: severance pay. |
+| [286\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000286%20-%20Discharge%20in%20lieu%20of%20retirement%3B%20separation%20pay.md) | Discharge in lieu of retirement; separation pay. |
+| [286a.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000286a%20-%20Regular%20warrant%20officers%20separation%20pay.md) | Regular warrant officers: separation pay. |
 | [287\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000287%20-%20Separation%20for%20failure%20of%20selection%20for%20promotion%20or%20continuation%3B%20time%20of.md) | Separation for failure of selection for promotion or continuation; time of. |
 | [288\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000288%20-%20Regular%20captains%3B%20retirement.md) | Regular captains; retirement. |
 | [289\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000289%20-%20Captains%3B%20continuation%20on%20active%20duty%3B%20involuntary%20retirement.md) | Captains; continuation on active duty; involuntary retirement. |
@@ -82,7 +88,7 @@
 | [324\.](Officers/e.%20separation%20for%20cause/%C2%A7%2000324%20-%20Composition%20of%20boards.md) | Composition of boards. |
 | [325\.](Officers/e.%20separation%20for%20cause/%C2%A7%2000325%20-%20Rights%20and%20procedures.md) | Rights and procedures. |
 | [326\.](Officers/e.%20separation%20for%20cause/%C2%A7%2000326%20-%20Removal%20of%20officer%20from%20active%20duty%3B%20action%20by%20Secretary.md) | Removal of officer from active duty; action by Secretary. |
-| [327\.](Officers/e.%20separation%20for%20cause/%C2%A7%2000327%20-%20Officers%20considered%20for%20removal%3B%20retirement%20or%20discharge%3B%20severance%20benefits.md) | Officers considered for removal; retirement or discharge; severance benefits. |
+| [327\.](Officers/e.%20separation%20for%20cause/%C2%A7%2000327%20-%20Officers%20considered%20for%20removal%3B%20retirement%20or%20discharge%3B%20separation%20benefits.md) | Officers considered for removal; retirement or discharge; separation benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -159,15 +165,13 @@ This chapter, dealing with the appointment, enlistment, promotion, retirement an
 
 The subject matter seemed to break down into the sub-heads of “Commissioned Officers”, “Warrant Officers”, “Enlisted Men”, and “General Provisions”. Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term “commissioned officer” includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as “Coast Guard personnel” or “personnel of the Coast Guard”, as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
-#### Amendment of Analysis
-
-<i>Pub. L. 107–295, title IV, §416(b)(2)–(4), (c), Nov. 25, 2002, 116 Stat. 2122, provided that, effective 4 years after Nov. 25, 2002, the table of sections for this chapter is amended by substituting “separation” for “severance” in items 286, 286a, and 327.</i>
-
 #### Amendments
+
+2006—Pub. L. 109–241, title II, §215(b), July 11, 2006, 120 Stat. 525, added item 216.
 
 2004—Pub. L. 108–293, title II, §204(b), Aug. 9, 2004, 118 Stat. 1032, added item 374.
 
-2002—Pub. L. 107–295, title IV, §§416(b)(1), 444(b), Nov. 25, 2002, 116 Stat. 2122, 2133, substituted “five” for “three” in item 281 and added item 424a.
+2002—Pub. L. 107–295, title IV, §§416(b), 444(b), Nov. 25, 2002, 116 Stat. 2122, 2133, substituted “five” for “three” in item 281 and “separation” for “severance” in items 286, 286a, and 327 and added item 424a.
 
 1996—Pub. L. 104–324, title II, §§209(b), 210(b), 211(b), Oct. 19, 1996, 110 Stat. 3914, 3915, substituted “Appointment” for “Original appointment” in item 214, struck out item 277 “Temporary promotions of warrant officers”, and added item 425.
 

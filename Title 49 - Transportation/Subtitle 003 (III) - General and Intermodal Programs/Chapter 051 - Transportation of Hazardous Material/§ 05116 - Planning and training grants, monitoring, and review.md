@@ -14,7 +14,7 @@ Planning Grants.—(1) The Secretary shall make grants to States and Indian trib
 
 &emsp;(B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of the Act (42 U.S.C. 11001(c)) to develop emergency plans under the Act.
 
-(3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergency planning conducted by adjacent States and Indian tribes.
+(3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergencyplanning conducted by adjacent States and Indian tribes.
 
 (b)
 
@@ -78,11 +78,11 @@ Government's Share of Costs.—A grant under this section is for 80 percent of t
 
 (f)
 
-Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Director of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrator, and Directors each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
 
 (g)
 
-Delegation of Authority.—To minimize administrative costs and to coordinate Federal financial assistance for emergency response training and planning, the Secretary may delegate to the Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
+Delegation of Authority.—To minimize administrative costs and to coordinate Federal financial assistance for emergency response training and planning, the Secretary may delegate to the Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
 
 &emsp;(1) authority to receive applications for grants under this section.
 
@@ -94,7 +94,7 @@ Delegation of Authority.—To minimize administrative costs and to coordinate Fe
 
 (h)
 
-Minimizing Duplication of Effort and Expenses.—The Secretaries of Transportation, Labor, and Energy, Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, and Administrator of the Environmental Protection Agency shall review periodically, with the head of each department, agency, or instrumentality of the Government, all emergency response and preparedness training programs of that department, agency, or instrumentality to minimize duplication of effort and expense of the department, agency, or instrumentality in carrying out the programs and shall take necessary action to minimize duplication.
+Minimizing Duplication of Effort and Expenses.—The Secretaries of Transportation,Labor, and Energy, Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, and Administrator of the Environmental Protection Agency shall review periodically, with the head of each department, agency, or instrumentality of the Government, all emergency response and preparedness training programs of that department, agency, or instrumentality to minimize duplication of effort and expense of the department, agency, or instrumentality in carrying out the programs and shall take necessary action to minimize duplication.
 
 (i)
 
@@ -140,9 +140,9 @@ Supplemental Training Grants.—
 
 (k)
 
-Reports.—The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection\(b), and grants under subsection (j) of this section and under section 5107. The report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.
+Reports.—The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107. The report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 Historical and Revision Notes
 
@@ -276,6 +276,10 @@ Subsec. (i)(3). Pub. L. 103–311, §119(d)(3), as amended by Pub. L. 103–429,
 
 Subsecs. (j), (k). Pub. L. 103–311, §119(a), added subsecs. (j) and (k).
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency”, “Administrators, and Director”, and “Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences” substituted for “Director of the Federal Emergency Management Agency”, “Administrator, and Directors”, and “Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences”, respectively, in subsecs. (f) to (h), on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Effective Date of 1996 Amendment
 
 Section 6(b) of Pub. L. 104–287 provided that the amendment made by that section is effective Aug. 26, 1994.
@@ -283,8 +287,4 @@ Section 6(b) of Pub. L. 104–287 provided that the amendment made by that secti
 #### Effective Date of 1994 Amendment
 
 Section 7(c) of Pub. L. 103–429 provided that the amendment made by that section is effective Aug. 26, 1994.
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

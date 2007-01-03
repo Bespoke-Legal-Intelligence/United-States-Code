@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### (3) Certifying agent
 
-&emsp;The term “certifying agent” means the chief executive officer of a State or, in the case ofa State that provides for the Statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official, and any person (including private entities) who is accredited by the Secretary as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation in accordance with this chapter.
+&emsp;The term “certifying agent” means the chief executive officer of a State or, in the case of a State that provides for the Statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official, and any person (including private entities) who is accredited by the Secretary as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation in accordance with this chapter.
 
 #### (4) Certified organic farm
 
@@ -94,5 +94,5 @@ As used in this chapter:
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (16), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (16), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 

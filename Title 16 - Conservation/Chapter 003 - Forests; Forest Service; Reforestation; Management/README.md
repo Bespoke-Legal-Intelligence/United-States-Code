@@ -8,10 +8,6 @@
 | [551a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551a%20-%20Cooperation%20by%20Secretary%20of%20Agriculture%20with%20States%20and%20political%20subdivisions%20in%20law%20enforcement.md) | Cooperation by Secretary of Agriculture with States and political subdivisions in law enforcement. |
 | [551b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551b%20-%20Omitted.md) | Omitted. |
 | [551c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551c%20-%20Planning%20for%20fire%20protection.md) | Planning for fire protection. |
-| (a) | Volunteer firefighters. |
-| (b) | “Educational institutions” defined. |
-| (c) | Mobilization of local equipment. |
-| (d) | Presuppression needs. |
 | [552\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552%20-%20Consent%20to%20agreement%20by%20States%20for%20conservation%20of%20forests%20and%20water%20supply.md) | Consent to agreement by States for conservation of forests and water supply. |
 | [552a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552a%20-%20Restoration%20of%20withdrawn%20national%20forest%20lands%20to%20appropriation.md) | Restoration of withdrawn national forest lands to appropriation. |
 | [552b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552b%20-%20Administration%20of%20withdrawn%20lands%3B%20rules%20and%20regulations.md) | Administration of withdrawn lands; rules and regulations. |
@@ -43,25 +39,15 @@
 | [558a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558a%20-%20Volunteers%20in%20the%20National%20Forests%20Program.md) | Volunteers in the National Forests Program. |
 | [558b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558b%20-%20Incidental%20expenses%20of%20program%20volunteers.md) | Incidental expenses of program volunteers. |
 | [558c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558c%20-%20Employment%20status%20of%20volunteers.md) | Employment status of volunteers. |
-| (a) | Federal employee status. |
-| (b) | Tort claims. |
-| (c) | Civil employees. |
-| (d) | Compensation for losses and damages. |
 | [558d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [559\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559%20-%20Arrests%20by%20employees%20of%20Forest%20Service%20for%20violations%20of%20laws%20and%20regulations.md) | Arrests by employees of Forest Service for violations of laws and regulations. |
 | [559a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559a%20-%20Reward%20for%20information%20leading%20to%20arrest%20and%20conviction%20for%20violating%20laws%20and%20regulations.md) | Reward for information leading to arrest and conviction for violating laws and regulations. |
 | [559b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559b%20-%20Prevention%20of%20manufacture%2C%20etc.%2C%20of%20marijuana%20and%20other%20controlled%20substances.md) | Prevention of manufacture, etc., of marijuana and other controlled substances. |
-| (a) | Purpose. |
-| (b) | Law enforcement authority. |
-| (c) | Definitions. |
 | [559c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559c%20-%20Powers%20of%20officers%20and%20employees%20of%20Forest%20Service.md) | Powers of officers and employees of Forest Service. |
 | [559d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559d%20-%20Cooperation%20with%20other%20Federal%2C%20State%2C%20and%20local%20law%20enforcement%20agencies.md) | Cooperation with other Federal, State, and local law enforcement agencies. |
 | [559e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559e%20-%20Forest%20Service%20authorization.md) | Forest Service authorization. |
 | [559f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559f%20-%20Approval%20of%20Secretary%20of%20Agriculture%20and%20Attorney%20General.md) | Approval of Secretary of Agriculture and Attorney General. |
 | [559g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559g%20-%20Designation%20authority%20of%20Secretary%20of%20Agriculture.md) | Designation authority of Secretary of Agriculture. |
-| (a) | Purpose. |
-| (b) | Officers of other agencies. |
-| (c) | Acceptance by Forest Service. |
 | [560\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000560%20-%20Use%20of%20timber%20for%20telephone%20lines%20for%20fire%20protection.md) | Use of timber for telephone lines for fire protection. |
 | 560a, 561. | Omitted or Repealed. |
 | [562\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562%20-%20Forest%20experiment%20station%20in%20California.md) | Forest experiment station in California. |
@@ -88,9 +74,6 @@
 | 571 to 571b. Repealed or Omitted. |  |
 | [571c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000571c%20-%20Erection%20of%20permanent%20facilities%20on%20land%20not%20owned%20by%20United%20States%3B%20long%20term%20leases.md) | Erection of permanent facilities on land not owned by United States; long term leases. |
 | [572\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000572%20-%20Cooperation%20between%20Secretary%20of%20Agriculture%20and%20public%20or%20private%20agencies%20in%20working%20land%20under%20State%20or%20private%20ownership.md) | Cooperation between Secretary of Agriculture and public or private agencies in working land under State or private ownership. |
-| (a) | Payment of expenses by interested parties; work contemplated. |
-| (b) | Cooperation where national forests or lands are used by permittees. |
-| (c) | Disposition and availability of moneys; advancements; adjustments. |
 | [572a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000572a%20-%20Deposits%20from%20timber%20purchasers%20to%20defray%20cost%20of%20scaling%20services.md) | Deposits from timber purchasers to defray cost of scaling services. |
 | [573\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000573%20-%20Repealed.%20Apr.%2024%2C%201950%2C%20ch.%2097%2C%20%C2%A717%28a%29%2C%2064%20Stat.%2087.md) | Repealed. |
 | [574\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000574%20-%20Damages%20caused%20private%20property%20in%20protection%2C%20administration%2C%20and%20improvement%20of%20national%20forests%3B%20reimbursement.md) | Damages caused private property in protection, administration, and improvement of national forests; reimbursement. |
@@ -112,8 +95,6 @@
 | [577g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577g%20-%20Payment%20for%20additional%20lands%20acquired%20in%20northern%20Minnesota.md) | Payment for additional lands acquired in northern Minnesota. |
 | 577g–1. | Payment to State of Minnesota for extension to other sections of land. |
 | [577h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577h%20-%20Authorization%20of%20appropriations%3B%20limitation%20on%20amount%20for%20purchase%20of%20additional%20lands%2C%20water%20or%20interests%20therein%3B%20availability%20of%20other%E2%80%A6.md) | Authorization of appropriations; limitation on amount for purchase of additional lands, water or interests therein; availability of other funds; annual report to Congress. |
-| (a) | Appropriations authorized; purposes. |
-| (b) | Reports on acquisitions. |
 | 578 to 579. Omitted. |  |
 | [579a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579a%20-%20Operation%20of%20aerial%20facilities%20and%20services.md) | Operation of aerial facilities and services. |
 | [579b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579b%20-%20Working%20capital%20fund%3B%20establishment%3B%20availability%3B%20transfer%3B%20capitalization%3B%20advance%20payments%20credited.md) | Working capital fund; establishment; availability; transfer; capitalization; advance payments credited. |
@@ -131,9 +112,6 @@
 | [580i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580i%20-%20Acquisition%20of%20winter%20range%2C%20land%2C%20and%20helicopter%20landing%20site.md) | Acquisition of winter range, land, and helicopter landing site. |
 | [580j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580j%20-%20Injury%20benefits%20for%20temporary%20employees.md) | Injury benefits for temporary employees. |
 | [580k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580k%20-%20Grazing%20advisory%20boards.md) | Grazing advisory boards. |
-| (a) | Composition; election meetings. |
-| (b) | Advice and recommendations on matters within jurisdiction. |
-| (c) | Notification by Secretary of Agriculture of intention to issue regulations; recommendations; written explanation of reasons for overruling. |
 | 580<i>l.</i> | Permits for grazing livestock on national forests. |
 | [580m.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580m%20-%20Development%20of%20reservoir%20areas%20for%20future%20resources%20of%20timber%3B%20Congressional%20declaration%20of%20policy.md) | Development of reservoir areas for future resources of timber; Congressional declaration of policy. |
 | [580n.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580n%20-%20Protection%20and%20development%20of%20forest%20or%20other%20vegetative%20cover%3B%20establishment%20and%20maintenance%20of%20conservation%20measures%3B%20coordination%20of%E2%80%A6.md) | Protection and development of forest or other vegetative cover; establishment and maintenance of conservation measures; coordination of programs and policies. |
@@ -168,19 +146,10 @@
 | 582a–2. | Authorization of appropriations; other allotments and grants. |
 | 582a–3. | Matching funds; reapportionment to other qualifying institutions; reductions. |
 | 582a–4. | Regulations; advice and assistance; appointment, membership, etc., of council. |
-| (a) | Regulations and assistance. |
-| (b) | Advisory council. |
 | 582a–5. | Apportionments; advice, criteria, etc. |
 | 582a–6. | Scope of forestry research. |
 | 582a–7. | “State” defined. |
 | 582a–8. | Competitive forestry, natural resources, and environmental grants program. |
-| (a) | Establishment. |
-| (b) | Eligible entities. |
-| (c) | Use. |
-| (d) | Facilities and equipment. |
-| (e) | Recommendations. |
-| (f) | Term. |
-| (g) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -206,37 +175,14 @@
 |  |  |
 | :--- | ---: |
 | [583j.](Subchapter%20005%20%28V%29%20-%20Forest%20Foundation/%C2%A7%2000583j%20-%20Establishment%20and%20purposes%20of%20Foundation.md) | Establishment and purposes of Foundation. |
-| (a) | Establishment. |
-| (b) | Purposes. |
-| (c) | Limitation and conflicts of interests. |
 | 583j–1. | Board of Directors of Foundation. |
-| (a) | Establishment and membership. |
-| (b) | Appointment and terms. |
-| (c) | Chairman. |
-| (d) | Quorum. |
-| (e) | Meetings. |
-| (f) | Reimbursement of expenses. |
-| (g) | General powers. |
-| (h) | Officers and employees. |
 | 583j–2. | Corporate powers and obligations. |
-| (a) | In general. |
-| (b) | Notice and service of process. |
-| (c) | Seal. |
-| (d) | Powers. |
-| (e) | Property. |
 | 583j–3. | Administrative services and support. |
-| (a) | Startup funds. |
-| (b) | Matching funds. |
-| (c) | Administrative expenses. |
 | 583j–4. | Volunteers. |
 | 583j–5. | Audits and report requirements. |
-| (a) | Audits. |
-| (b) | Annual reports. |
 | 583j–6. | United States release from liability. |
 | 583j–7. | Activities of Foundation and United States Forest Service. |
 | 583j–8. | Authorization of appropriations. |
-| (a) | Startup funds. |
-| (b) | Matching funds. |
 | 583j–9. | Federal funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

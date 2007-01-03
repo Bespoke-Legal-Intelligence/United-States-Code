@@ -1,12 +1,12 @@
 ### §404. Travel and transportation allowances: general
 
-(a) Except as provided in subsection (f) and under regulations prescribed by the Secretariesconcerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
+(a) Except as provided in subsection (f) and under regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
 
 &emsp;(1) upon a change of permanent station, or otherwise, or when away from his designated post of duty regardless of the length of time he is away from that post;
 
 &emsp;(2) upon appointment, call to active duty, enlistment, or induction, from his home or from the place from which called or ordered to active duty to his first station;
 
-&emsp;(3) upon separation from the service, placement on the temporary disability retired list, release from active duty, or retirement, from his last duty station to his home or the place from which he was called or ordered to active duty, whether or not he is or will be a member of a uniformed service at the time the travel is or will be performed;
+&emsp;(3) upon separation from the service, placement on the temporary disability retired list, release from active duty, or retirement, from his last duty station to his home or the placefrom which he was called or ordered to active duty, whether or not he is or will be a member of a uniformed service at the time the travel is or will be performed;
 
 &emsp;(4) when away from home to perform duty, including duty by a member of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, in his status as a member of the National Guard, for which he is entitled to, or has waived, pay under this title; and
 
@@ -56,13 +56,13 @@
 
 &emsp;(C) A combination of payments described in subparagraphs (A) and (B).
 
-(3) A per diem allowance or maximum amount of reimbursement established for purposes ofparagraph (2) shall be established, to the extent feasible, by locality.
+(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality.
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
 (5) Effective January 1, 2003, the per diem rates established under paragraph (2)(A) for travel performed in connection with a change of permanent station or for travel described in paragraph (2) or (3) of subsection (a) shall be equal to the standard per diem rates established in the Federal travel regulation for travel within the continental United States of civilian employees and their dependents, unless the Secretaries concerned determine that a higher rate for members is more appropriate.
 
-(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
+(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command,the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
 
 (f)(1) The travel and transportation allowances authorized under this section for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed.
 
@@ -120,7 +120,7 @@
 
 (j) In this section, the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat.1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143.)
 
 Historical and Revision Notes
 
@@ -206,7 +206,7 @@ Subsec. (i)(4). Pub. L. 106–65, §631(c), added par. (4).
 
 1998—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struckout former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
+1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
 
 1996—Subsec. (d)(1)(A). Pub. L. 104–106 struck out “, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense” after “section 5704 of title 5”.
 
@@ -218,7 +218,7 @@ Subsecs. (j), (k). Pub. L. 103–337, §622, added subsec. (j) and redesignated 
 
 1993—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-1992—Subsec. (e). Pub. L. 102–484 substituted “Air Mobility Command” for “Military Airlift Command” and “the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons,” for “or the Naval Aircraft Ferrying Squadrons,”.
+1992—Subsec. (e). Pub. L. 102–484 substituted “Air Mobility Command” for “Military Airlift Command” and “the Naval Aircraft Ferrying Squadrons, or any otherunit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons,” for “or the Naval Aircraft Ferrying Squadrons,”.
 
 1991—Pub. L. 102–25 struck out “of this section”, “of this subsection”, and “of this paragraph” wherever appearing in subsecs. (a) to (d) and (f).
 
@@ -294,7 +294,7 @@ Section 621(b) of Pub. L. 101–189 provided that: “The amendment made by subs
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–180 applicable with respect to travel performed after Dec. 4, 1987, see section 617(c) of Pub. L. 100–180, set out as an Effective Date note under section 1591 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–180 applicable with respect to travel performed after Dec. 4, 1987, see section617(c) of Pub. L. 100–180, set out as an Effective Date note under section 1591 of Title 10, Armed Forces.
 
 #### Effective Date of 1986 Amendments
 

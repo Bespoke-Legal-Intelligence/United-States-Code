@@ -10,11 +10,15 @@
 
 &emsp;The interval between the first and second such installments shall be not less than one-half of such period of enrollment, except as necessary to permit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
+#### (3) Special rule
+
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+
 #### (b) Disbursement and endorsement requirements
 
 #### (1) First year students
 
-&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period.
+&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period. An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, the second sentence of this paragraph shall be effective beginning on February 8, 2006.
 
 #### (2) Other students
 
@@ -42,7 +46,7 @@ Disbursements under subsection (a) of this section—
 
 #### (e) Exclusion of consolidation and foreign study loans
 
-The provisions of this section shall not apply in the case of a loan made under section 1078–3 of this title, made to a student to cover the cost of attendance at an eligible institution outside the United States, or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort default rate (as calculated under section 1085(m) of this title) of less than 5 percent.
+The provisions of this section shall not apply in the case of a loan made under section 1078–3 of this title, or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort default rate (as calculated under section 1085(m) of this title) of less than 5 percent.
 
 #### (f) Beginning of period of enrollment
 
@@ -56,19 +60,31 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 &emsp;(2) the first disbursement of such loan has been made.
 
-(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696.)
+(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8010, Feb. 8, 2006, 120 Stat. 164.)
 
 #### References in Text
+
+Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section 422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
 
 Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
 
 Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
+#### Codification
+
+Text of subsec. (a)(3) and second sentence of subsec. (b)(1), which was temporarily added by Pub. L. 105–244, §422(a), (b), and then omitted, was restored pursuant to amendment by Pub. L. 109–171, §8010(1), (2). See 1998 and 2006 Amendment notes and Effective and Termination Dates of 1998 Amendment note below.
+
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–244, §422(a), (d), temporarily added par. (3) which read as follows: “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months.” See Effective and Termination Dates of 1998 Amendment note below.
+2006—Subsec. (a)(3). Pub. L. 109–171, §8010(1), inserted “Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning February 8, 2006.” at end. See Codification note above and Effective and Termination Dates of 1998 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 105–244, §422(b), (d), temporarily inserted at end “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph.” See Effective and Termination Dates of 1998 Amendment note below.
+Subsec. (b)(1). Pub. L. 109–171, §8010(2), inserted “Notwithstanding section 422(d) of the Higher Education Amendments of 1998, the second sentence of this paragraph shall be effective beginning February 8, 2006.” at end. See Codification note above and Effective and Termination Dates of 1998 Amendment note below.
+
+Subsec. (e). Pub. L. 109–171, §8010(3), struck out “, made to a student to cover the cost of attendance at an eligible institution outside the United States” after “section 1078–3 of this title”.
+
+1998—Subsec. (a)(3). Pub. L. 105–244, §422(a), (d), temporarily added par. (3) which read as follows: “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months.” See Codification note and 2006 Amendment note above and Effective and Termination Dates of 1998 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 105–244, §422(b), (d), temporarily inserted at end “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph.” See Codification note and 2006 Amendment note above and Effective and Termination Dates of 1998 Amendment note below.
 
 Subsec. (e). Pub. L. 105–244, §422(c), substituted “, made to a student” for “or made to a student” and inserted before the period at end “, or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort default rate (as calculated under section 1085(m) of this title) of less than 5 percent”.
 
@@ -89,6 +105,10 @@ Subsec. (g). Pub. L. 102–325, §421(c), added subsec. (g).
 &emsp;“(B) the institution certifies that the borrower continues to be enrolled and in attendance at the end of such 30-day period, and is maintaining satisfactory progress;
 
 > but may be disbursed to the eligible institution prior to the end of such 30-day period.”
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective and Termination Dates of 1998 Amendment
 

@@ -108,7 +108,7 @@
 
 #### (4) Applicability
 
-&emsp;This subsection shall apply to print instructional materials published after the date on which the final rule establishing the National Instructional Materials Accessibility Standard was published in the Federal Register.
+&emsp;This subsection shall apply to print instructional materials published after the date onwhich the final rule establishing the National Instructional Materials Accessibility Standard was published in the Federal Register.
 
 #### (5) Liability of the Secretary
 

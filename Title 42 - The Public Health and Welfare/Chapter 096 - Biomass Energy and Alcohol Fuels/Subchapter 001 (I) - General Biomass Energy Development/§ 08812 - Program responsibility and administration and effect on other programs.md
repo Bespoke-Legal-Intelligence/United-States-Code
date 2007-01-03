@@ -62,7 +62,7 @@
 
 (3) Reviews of projects under the provisions of subsection (a)(2)(C) of this section or paragraph (1)(B) by the Secretary of Agriculture shall be for the purpose of considering the national, regional, and local agricultural policy impacts of such project on agricultural supply, production, and use, and reviews by the Secretary of Energy under such provisions shall be for the purpose of considering national energy policy impacts and the technical feasibility of the project.
 
-(4) The Secretary of Agriculture and the Secretary of Energy may jointly establish categories of projects to which paragraphs (1) and (2) shall not apply. Within 90 days after June 30, 1980, the Secretaries shall identify potential categories and make an initial determination of exempted categories.
+(4) The Secretary of Agriculture and the Secretary of Energy may jointly establish categories of projects to which paragraphs (1) and\(2) shall not apply. Within 90 days after June 30, 1980, the Secretaries shall identify potential categories and make an initial determination of exempted categories.
 
 #### (d) Notification of applicant upon disapproval of application for financial assistance
 
@@ -70,7 +70,7 @@ If any application for financial assistance under this subchapter is disapproved
 
 #### (e) Implementation of functions assigned to Secretary of Agriculture by administrative entities within Department of Agriculture; issuance of regulations; coordination of functions by designated entities
 
-(1) The functions assigned under this subchapter to the Secretary of Agriculture may be carried out by any of the administrative entities in the Department of Agriculture which the Secretary of Agriculture may designate. Within 30 days after June 30, 1980, the Secretary of Agriculture shall make such designations and notifythe Congress of the administrative entity or entities so designated and the officials in such administrative entity or entities who are to be responsible for such functions.
+(1) The functions assigned under this subchapter to the Secretary of Agriculture may be carried out by any of the administrative entities in the Department of Agriculture which the Secretary of Agriculture may designate. Within 30 days after June 30, 1980, the Secretary of Agriculture shall make such designations and notify the Congress of the administrative entity or entities so designated and the officials in such administrative entity or entities who are to be responsible for such functions.
 
 (2) The Secretary of Agriculture may issue such regulations as are necessary to carry out functions assigned to the Secretary of Agriculture under this subchapter.
 

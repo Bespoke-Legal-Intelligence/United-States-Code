@@ -2,7 +2,7 @@
 
 (a) The adjudication of any application under section 2254 that is subject to this chapter, and the adjudication of any motion under section 2255 by a person under sentence of death, shall be given priority by the district court and by the court of appeals over all noncapital matters.
 
-(b)(1)(A) A district court shall render a final determination and enter a final judgment on any application for a writ of habeas corpus brought under this chapter in a capital case not later than 180 days after the date on which the application is filed.
+(b)(1)(A) A district court shall render a final determination and enter a final judgment on any application for a writ of habeas corpus brought under this chapter in a capital case not later than 450 days after the date on which the application is filed, or 60 days after the date on which the case is submitted for decision, whichever is earlier.
 
 (B) A district court shall afford the parties at least 120 days in which to complete all actions, including the preparation of all pleadings and briefs, and if necessary, a hearing, prior to the submission of the case for decision.
 
@@ -14,7 +14,7 @@
 
 &emsp;(II) Whether the case is so unusual or so complex, due to the number of defendants, the nature of the prosecution, or the existence of novel questions of fact or law, that it is unreasonable to expect adequate briefing within the time limitations established by subparagraph (A).
 
-&emsp;(III) Whether the failure to allow a delay in a case that, taken as a whole, is not so unusual or so complex as described in subclause (II), but would otherwise deny the applicant reasonable time to obtain counsel, would unreasonably deny the applicant or the government continuity of counsel, or would deny counsel for the applicant or the government the reasonable time necessary for effectivepreparation, taking into account the exercise of due diligence.
+&emsp;(III) Whether the failure to allow a delay in a case that, taken as a whole, is not so unusual or so complex as described in subclause (II), but would otherwise deny the applicant reasonable time to obtain counsel, would unreasonably deny the applicant or the government continuity of counsel, or would deny counsel for the applicant or the government the reasonable time necessary for effective preparation, taking into account the exercise of due diligence.
 
 (iii) No delay in disposition shall be permissible because of general congestion of the court's calendar.
 
@@ -62,5 +62,13 @@
 
 (5) The Administrative Office of the United States Courts shall submit to Congress an annual report on the compliance by the courts of appeals with the time limitations under this section.
 
-(Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1224.)
+(Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1224; amended Pub. L. 109–177, title V, §507(e), Mar. 9, 2006, 120 Stat. 251.)
+
+#### Amendments
+
+2006—Subsec. (b)(1)(A). Pub. L. 109–177 substituted “450 days after the date on which the application is filed, or 60 days after the date on which the case is submitted for decision, whichever is earlier” for “180 days after the date on which the application is filed”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–177 applicable to cases pending on or after Mar. 9, 2006, with special rule for certain cases pending on that date, see section 507(d) of Pub. L. 109–177, set out as a note under section 2251 of this title.
 

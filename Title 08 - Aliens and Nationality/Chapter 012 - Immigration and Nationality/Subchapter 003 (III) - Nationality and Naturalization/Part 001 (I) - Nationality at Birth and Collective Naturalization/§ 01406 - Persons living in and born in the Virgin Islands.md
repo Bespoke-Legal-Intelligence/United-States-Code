@@ -2,7 +2,7 @@
 
 (a) The following persons and their children born subsequent to January 17, 1917, and prior to February 25,1927, are declared to be citizens of the United States as of February 25, 1927:
 
-(1) All former Danish citizens who, on January 17, 1917, resided in the Virgin Islands of theUnited States, and were residing in those islands or in the United States or Puerto Rico on February 25, 1927, and who did not make the declaration required to preserve their Danish citizenship by article 6 of the treaty entered into on August 4, 1916, between the United States and Denmark, or who, having made such a declaration have heretofore renounced or may hereafter renounce it by a declaration before a court of record;
+(1) All former Danish citizens who, on January 17, 1917, resided in the Virgin Islands of the United States, and were residing in those islands or in the United States or Puerto Rico on February 25, 1927, and who did not make the declaration required to preserve their Danish citizenship by article 6 of the treaty entered into on August 4, 1916, between the United States and Denmark, or who, having made such a declaration have heretofore renounced or may hereafter renounce it by a declaration before a court of record;
 
 (2) All natives of the Virgin Islands of the United States who, on January 17, 1917, resided in those islands, and were residing in those islands or in the United States or Puerto Rico on February 25, 1927, and who were not on February 25, 1927, citizens or subjects of any foreign country;
 

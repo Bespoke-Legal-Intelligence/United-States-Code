@@ -20,7 +20,7 @@
 
 (3)(A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
-&emsp;(i) in the case of a single-employer plan, for plan years beginning after December 31, 1990, an amount equal to the sum of $19 plus the additional premium (if any) determined under subparagraph (E) for each individual who is a participant in such plan during the plan year;
+&emsp;(i) in the case of a single-employer plan, for plan years beginning after December 31, 1990, an amount equal to the sum of $30 plus the additional premium (if any) determined under subparagraph (E) for each individual who is a participant in such plan during the plan year; <sup>1</sup>
 
 &emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(II) $1.00, multiplied by a fraction equal to 1 minus the fraction determined under clause (i),
 
-&emsp;(iii) in the case of a multiemployer plan, for plan years beginning after September 26, 1980, an amount equal to—
+&emsp;(iii) in the case of a multiemployer plan, for plan years beginning after September 26, 1980, and before January 1, 2006, an amount equal to—
 
 &emsp;&emsp;(I) $1.40 for each participant, for the first, second, third, and fourth plan years,
 
@@ -36,9 +36,11 @@
 
 &emsp;&emsp;(III) $2.20 for each participant, for the seventh and eighth plan years, and
 
-&emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year.
+&emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year, or
 
-(B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in subparagraph (A)(iii) will not apply to the same participant in any multiemployer plan more than once for any plan year.
+&emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, $8.00 for each individual who is a participant in such plan during the applicable plan year.
+
+(B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
 (C)(i) If the sum of—
 
@@ -58,7 +60,7 @@
 
 (ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
-(E)(i) The additional premium determined under this subparagraph with respect to any plan for any plan year shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year.
+(E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year.
 
 (ii) The amount determined under this clause for any plan year shall be an amount equal to $9.00 for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
@@ -72,9 +74,37 @@
 
 &emsp;(IV) In the case of plan years beginning after December 31, 2001, and before January 1, 2004, subclause (II) shall be applied by substituting “100 percent” for “85 percent”. Subclause (III) shall be applied for such years without regard to the preceding sentence. Any reference to this clause or this subparagraph by any other sections or subsections (other than sections 1305, 1310, 1311, and 1343 of this title) shall be treated as a reference to this clause or this subparagraph without regard to this subclause.
 
-&emsp;(V) In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the annual yield taken into account under subclause (II) shall be the annual rate of interest determined by the Secretary of the Treasury on amounts invested conservatively in long-term investment grade corporate bonds for the month preceding the month in which the plan year begins. For purposes of the preceding sentence, the Secretary of the Treasury shall determine such rate of interest on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the rate, publicly available.
+&emsp;(V) In the case of plan years beginning after December 31, 2003, and before January 1, 2008, the annual yield taken into account under subclause (II) shall be the annual rate of interest determined by the Secretary of the Treasury on amounts invested conservatively in long-term investment grade corporate bonds for the month preceding the month in which the plan year begins. For purposes of the preceding sentence, the Secretary of the Treasury shall determine such rate of interest on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the rate, publicly available.
 
 (iv) No premium shall be determined under this subparagraph for any plan year if, as of the close of the preceding plan year, contributions to the plan for the preceding plan year were not less than the full funding limitation for the preceding plan year under section 412(c)(7) of title 26.
+
+(F) For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
+
+&emsp;(i) the product derived by multiplying the premium rate specified in clause (i) of subparagraph (A) by the ratio of—
+
+&emsp;&emsp;(I) the national average wage index (as defined in section 409(k)(1) of title 42) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+&emsp;&emsp;(II) the national average wage index (as so defined) for 2004; and
+
+&emsp;(ii) the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
+
+> If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
+(G) For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (iv) of subparagraph (A) an amount equal to the greater of—
+
+&emsp;(i) the product derived by multiplying the premium rate specified in clause (iv) of subparagraph (A) by the ratio of—
+
+&emsp;&emsp;(I) the national average wage index (as defined in section 409(k)(1) of title 42) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+&emsp;&emsp;(II) the national average wage index (as so defined) for 2004; and
+
+&emsp;(ii) the premium rate in effect under clause (iv) of subparagraph (A) for plan years beginning in the preceding calendar year.
+
+> If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
+(H)(i) In the case of an employer who has 25 or fewer employees on the first day of the plan year, the additional premium determined under subparagraph (E) for each participant shall not exceed $5 multiplied by the number of participants in the plan as of the close of the preceding plan year.
+
+(ii) For purposes of clause (i), whether an employer has 25 or fewer employees on the first day of the plan year is determined by taking into consideration all of the employees of all members of the contributing sponsor's controlled group. In the case of a plan maintained by two or more contributing sponsors, the employees of all contributing sponsors and their controlled groups shall be aggregated for purposes of determining whether the 25-or-fewer-employees limitation has been satisfied.
 
 (4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title, alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
 
@@ -110,6 +140,46 @@
 
 (D) For purposes of this paragraph, the corporation shall by regulation define the terms “value of assets” and “present value of the benefits of the plan which are guaranteed” in a manner consistent with the purposes of this subchapter and the provisions of this section.
 
+(7)
+
+Premium Rate for Certain Terminated Single-Employer Plans.—
+
+&emsp;(A)
+
+In general.—If there is a termination of a single-employer plan under clause (ii) or (iii) of section 1341(c)(2)(B) of this title or section 1342 of this title, there shall be payable to the corporation, with respect to each applicable 12-month period, a premium at a rate equal to $1,250 multiplied by the number of individuals who were participants in the plan immediately before the termination date. Such premium shall be in addition to any other premium under this section.
+
+&emsp;(B)
+
+Special rule for plans terminated in bankruptcy reorganization.—In the case of a single-employer plan terminated under section 1341(c)(2)(B)(ii) of this title or under section 1342 of this title during pendency of any bankruptcy reorganization proceeding under chapter 11 of title 11 or under any similar law of a State or a political subdivision of a State (or a case described in section 1341(c)(2)(B)(i) of this title filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought), subparagraph (A) shall not apply to such plan until the date of the discharge or dismissal of such person in such case.
+
+&emsp;(C)
+
+Applicable 12-month period.—For purposes of subparagraph (A)—
+
+&emsp;&emsp;(i)
+
+In general.—The term “applicable 12-month period” means—
+
+&emsp;&emsp;&emsp;(I) the 12-month period beginning with the first month following the month in which the termination date occurs, and
+
+&emsp;&emsp;&emsp;(II) each of the first two 12-month periods immediately following the period described in subclause (I).
+
+&emsp;&emsp;(ii)
+
+Plans terminated in bankruptcy reorganization.—In any case in which the requirements of subparagraph (B) are met in connection with the termination of the plan with respect to 1 or more persons described in such subparagraph, the 12-month period described in clause (i)(I) shall be the 12-month period beginning with the first month following the month which includes the earliest date as of which each such person is discharged or dismissed in the case described in such clause in connection with such person.
+
+&emsp;(D)
+
+Coordination with section 1307.—
+
+&emsp;&emsp;(i) Notwithstanding section 1307 of this title—
+
+&emsp;&emsp;&emsp;(I) premiums under this paragraph shall be due within 30 days after the beginning of any applicable 12-month period, and
+
+&emsp;&emsp;&emsp;(II) the designated payor shall be the person who is the contributing sponsor asof immediately before the termination date.
+
+&emsp;&emsp;(ii) The fifth sentence of section 1307(a) of this title shall not apply in connection with premiums determined under this paragraph.
+
 #### (b) Revised schedule; Congressional procedures applicable
 
 (1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
@@ -122,7 +192,7 @@
 
 (5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
-(6) When a committee has reported, or has been discharged from further consideration of aresolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (7) Motions to postpone, made with respect to the discharge from committee, or the consideration of, a resolution and motions to proceed to the consideration of other business shall be decided without debate. Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 
@@ -134,7 +204,7 @@
 
 &emsp;&emsp;(i) with respect to each plan year beginning before January 1, 1978, an amount equal to $1 for each individual who was a participant in such plan during the plan year,
 
-&emsp;&emsp;(ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and <sup>1</sup>
+&emsp;&emsp;(ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and <sup>2</sup>
 
 &emsp;&emsp;(iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 for each individual who was a participant in such plan during the plan year, and
 
@@ -152,13 +222,49 @@
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928.)
+
+#### Amendment of Subsection (a)(3)(E)
+
+<i>Pub. L. 109–280, title IV, §401(a), Aug. 17, 2006, 120 Stat. 922, provided that, applicable with respect to plan years beginning after 2007, subsection (a)(3)(E) of this section is amended by striking out clauses (iii) and (iv) and by adding new clauses (iii) and (iv) to read as follows:</i>
+
+<i>(iii) For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—</i>
+
+&emsp;<i>(I) the funding target of the plan as determined under section 1083(d) of this title for the plan year by only taking into account vested benefits and by using the interest rate described in clause (iv), over</i>
+
+&emsp;<i>(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.</i>
+
+<i>(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.</i>
 
 #### References in Text
 
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+2006—Subsec. (a)(3)(A)(i). Pub. L. 109–171, §8101(a)(1)(A), substituted “$30” for “$19”.
+
+Subsec. (a)(3)(A)(iii). Pub. L. 109–171, §8101(a)(2)(A)(i)(I), inserted “and before January 1, 2006,” after “September 26, 1980,” in introductory provisions.
+
+Subsec. (a)(3)(A)(iv). Pub. L. 109–171, §8101(a)(2)(A)(i)(II), (ii), added cl. (iv).
+
+Subsec. (a)(3)(B). Pub. L. 109–171, §8101(c), substituted “clause (iii) or (iv) of subparagraph (A)” for “subparagraph (A)(iii)”.
+
+Subsec. (a)(3)(E)(i). Pub. L. 109–280, §405(a)(1), substituted “Except as provided in subparagraph (H), the additional” for “The additional”.
+
+Subsec. (a)(3)(E)(iii)(V). Pub. L. 109–280, §301(a)(3), substituted “2008” for “2006”.
+
+Subsec. (a)(3)(F). Pub. L. 109–171, §8101(a)(1)(B), added subpar. (F).
+
+Subsec. (a)(3)(G). Pub. L. 109–171, §8101(a)(2)(B), added subpar. (G).
+
+Subsec. (a)(3)(H). Pub. L. 109–280, §405(a)(2), added subpar. (H).
+
+Subsec. (a)(7). Pub. L. 109–171, §8101(b), added par. (7).
+
+Subsec. (a)(7)(C)(ii). Pub. L. 109–280, §401(b)(2)(A), substituted “subparagraph (B)” for “subparagraph (B)(i)(I)”.
+
+Subsec. (a)(7)(E). Pub. L. 109–280, §401(b)(1), struck out heading and text of subpar. (E). Text read as follows: “Subparagraph (A) shall not apply with respect to any plan terminated after December 31, 2010.”
 
 2004–Subsec. (a)(3)(E)(iii)(IV). Pub. L. 108–311, in last sentence, inserted “or this subparagraph” after “this clause” in two places and inserted “(other than sections 1305, 1310, 1311, and 1343 of this title)” after “subsections”.
 
@@ -186,7 +292,7 @@ Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §12021(a)(2), added cl. (iv).
 
 Subsec. (c)(1)(A)(iii). Pub. L. 101–239, §7881(h)(2), realigned margin.
 
-1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December 31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
+1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
 
 Subsec. (a)(3)(E). Pub. L. 100–203, §9331(b), added subpar. (E).
 
@@ -217,6 +323,32 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title IV, §401(a)(2), Aug. 17, 2006, 120 Stat. 922, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to plan years beginning after 2007.”
+
+Pub. L. 109–280, title IV, §401(b)(2)(B), Aug. 17, 2006, 120 Stat. 922, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in the provision of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\] to which it relates.”
+
+Pub. L. 109–280, title IV, §405(b), Aug. 17, 2006, 120 Stat. 929, provided that: “The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2006.”
+
+Pub. L. 109–171, title VIII, §8101(d), Feb. 8, 2006, 120 Stat. 182, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2005.
+
+“(2)
+
+Premium rate for certain terminated single-employer plans.—
+
+&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), the amendment made by subsection (b) \[amending this section\] shall apply to plans terminated after December 31, 2005.
+
+&emsp;“(B)
+
+Special rule for plans terminated in bankruptcy.—The amendment made by subsection (b) shall not apply to a termination of a single-employer plan that is terminated during the pendency of any bankruptcy reorganization proceeding under chapter 11 of title 11, United States Code (or under any similar law of a State or political subdivision of a State), if the proceeding is pursuant to a bankruptcy filing occurring before October 18, 2005.”
 
 #### Effective Date of 2004 Amendments
 
@@ -262,7 +394,7 @@ Section 12021(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1987 Amendment
 
@@ -283,6 +415,14 @@ Special rule.—The amendments made by subsection (b) \[amending this section\] 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
+
+#### Modification of Transition Rule to Pension Funding Requirements
+
+For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsored by a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
+
+#### Applicability of This Section to Certain Plans Maintained by Commercial Airlines
+
+For special rules on applicability of this section to certain plans maintained by commercial airlines, see section 402 of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Transitional Rule
 
@@ -314,5 +454,7 @@ Section 11017(a) of Pub. L. 99–272 directed Pension Benefit Guaranty Corporati
 
 Section 412(a) of Pub. L. 96–364 directed Pension Benefit Guaranty Corporation to conduct a separate study with respect to advantages and disadvantages of establishing a graduated premium rate schedule under this section which is based on risk, and necessity of adopting special rules in cases of union-mandated withdrawal from multiemployer pension plans, and to report to Congress the results of the studies conducted, including its recommendations with respect thereto.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

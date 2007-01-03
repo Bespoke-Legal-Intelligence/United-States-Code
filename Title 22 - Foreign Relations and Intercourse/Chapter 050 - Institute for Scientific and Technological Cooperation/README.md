@@ -5,32 +5,11 @@
 | [3501\.](%C2%A7%2003501%20-%20Congressional%20statement%20of%20policy.md) | Congressional statement of policy. |
 | [3502\.](%C2%A7%2003502%20-%20Purposes%20and%20establishment%3B%20policy%20guidelines%20and%20objectives.md) | Purposes and establishment; policy guidelines and objectives. |
 | [3503\.](%C2%A7%2003503%20-%20Functions.md) | Functions. |
-| (a) | Assistance, support, etc., activities in United States and developing countries. |
-| (b) | Review of programs, projects, and other activities; objectives of review. |
-| (c) | Presidential utilization of additional statutory authorities. |
-| (d) | Consultation and cooperation with United States and foreign government agencies, and international organizations. |
-| (e) | Presidential promulgation of coordination procedures concerning other governmental activities. |
 | [3504\.](%C2%A7%2003504%20-%20General%20authorities%3B%20fiscal%20requirement%20for%20authorities.md) | General authorities; fiscal requirement for authorities. |
 | [3505\.](%C2%A7%2003505%20-%20Director.md) | Director. |
-| (a) | Appointment; compensation. |
-| (b) | Exercise of Presidential authority; delegation of authority. |
 | [3506\.](%C2%A7%2003506%20-%20Deputy%20Director.md) | Deputy Director. |
-| (a) | Appointment; compensation. |
-| (b) | Duties and powers. |
-| (c) | Additional positions; establishment by President; compensation. |
 | [3507\.](%C2%A7%2003507%20-%20Council%20on%20International%20Scientific%20and%20Technological%20Cooperation.md) | Council on International Scientific and Technological Cooperation. |
-| (a) | Establishment. |
-| (b) | Functions. |
-| (c) | Advice to Director concerning selection, termination, or change in activities, and transfer of government programs and projects to Institute; review and recommendations respecting new programs and initiatives. |
-| (d) | Composition; Chairman; appointment, terms, etc., of members. |
-| (e) | Compensation, reimbursement, status, etc., of nongovernmental members. |
-| (f) | Executive and additional committees; membership, powers, etc., of Executive Committee. |
 | [3508\.](%C2%A7%2003508%20-%20Fellowships.md) | Fellowships. |
-| (a) | Authorization; number; duration; renewal; criteria; foreign recipients; designation of recipients as Institute Fellows. |
-| (b) | Activities of Institute Fellows. |
-| (c) | Amount of awards; transportation, housing, etc., benefits. |
-| (d) | Status of Institute Fellows. |
-| (e) | Admission into United States of alien participants in program. |
 | [3509\.](%C2%A7%2003509%20-%20Conflict%20of%20interest%3B%20personnel%20and%20activities%20covered.md) | Conflict of interest; personnel and activities covered. |
 | [3510\.](%C2%A7%2003510%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 3511, 3512. Repealed. |  |

@@ -16,17 +16,13 @@ Until the ownership, control, and operation of the telephone bank is converted a
 
 #### (d) Appointment and compensation of personnel
 
-&emsp;the telephone bank may without regard to the civil service <sup>1</sup> classification laws appoint and fix the compensation of such officers andemployees of the telephone bank as it may deem necessary;
+&emsp;the telephone bank may without regard to the civil service <sup>1</sup> classification laws appoint and fix the compensation of such officers and employees of the telephone bank as it may deem necessary;
 
 #### (e) Tort claims and litigation
 
 &emsp;the telephone bank shall be subject to the provisions of sections 517, 519, and 2679 of title 28.
 
 (May 20, 1936, ch. 432, title IV, §403, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 31; amended Pub. L. 103–354, title II, §235(a)(9), Oct. 13, 1994, 108 Stat. 3221.)
-
-#### References in Text
-
-The civil service classification laws, referred to in subsec. (d), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
 #### Codification
 

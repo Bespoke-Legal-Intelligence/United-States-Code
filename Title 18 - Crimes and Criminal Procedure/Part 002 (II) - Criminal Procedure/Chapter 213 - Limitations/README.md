@@ -28,9 +28,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [3299\.](%C2%A7%2003299%20-%20Child%20abduction%20and%20sex%20offenses.md) | Child abduction and sex offenses <sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
 
-2006—Pub. L. 109–162, title XI, §1182(b), Jan. 5, 2006, 119 Stat. 3126, added item 3298.
+2006—Pub. L. 109–248, title II, §211(2), July 27, 2006, 120 Stat. 616, added item 3299.
+
+Pub. L. 109–162, title XI, §1182(b), Jan. 5, 2006, 119 Stat. 3126, added item 3298.
 
 2004—Pub. L. 108–405, title II, §204(b), Oct. 30, 2004, 118 Stat. 2271, added item 3297.
 
@@ -77,3 +85,4 @@
 - [&sect; 03296 - Counts dismissed pursuant to a plea agreement](%C2%A7%2003296%20-%20Counts%20dismissed%20pursuant%20to%20a%20plea%20agreement.md)
 - [&sect; 03297 - Cases involving DNA evidence](%C2%A7%2003297%20-%20Cases%20involving%20DNA%20evidence.md)
 - [&sect; 03298 - Trafficking-related offenses](%C2%A7%2003298%20-%20Trafficking-related%20offenses.md)
+- [&sect; 03299 - Child abduction and sex offenses](%C2%A7%2003299%20-%20Child%20abduction%20and%20sex%20offenses.md)

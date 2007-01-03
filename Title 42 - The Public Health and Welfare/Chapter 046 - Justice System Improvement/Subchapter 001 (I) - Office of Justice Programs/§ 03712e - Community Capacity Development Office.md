@@ -8,7 +8,7 @@
 
 #### (2) Purpose
 
-&emsp;The purpose of the Office shall be to provide training to actual and prospective participants under programs covered by section 3712d(b) <sup>1</sup> of this title to assist such participants in understanding the substantive and procedural requirements for participating in such programs.
+&emsp;The purpose of the Office shall be to provide training to actual and prospective participants under programs covered by section 3712a(b) <sup>1</sup> of this title to assist such participants in understanding the substantive and procedural requirements for participating in such programs.
 
 #### (3) Exclusivity
 
@@ -42,15 +42,19 @@ The Director shall—
 
 #### (e) Availability of funds
 
-not <sup>2</sup> to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 3712d(b) <sup>1</sup> of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
+not <sup>2</sup> to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 3712a(b) <sup>1</sup> of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
 
-(Pub. L. 90–351, title I, §106, as added Pub. L. 109–162, title XI, §1159(a), Jan. 5, 2006, 119 Stat. 3116.)
+(Pub. L. 90–351, title I, §106, as added Pub. L. 109–162, title XI, §1159(a), Jan. 5, 2006, 119 Stat. 3116; amended Pub. L. 109–271, §8(f), Aug. 12, 2006, 120 Stat. 766.)
 
 #### References in Text
 
-Section 3712d(b) of this title, referred to in subsecs. (a)(2) and (e), was in the original a reference to section105(b) which was translated as meaning the section 105 of Pub. L. 90–351, as added by section 1158(a) of Pub. L. 109–162. Another section 105 of Pub. L. 90–351 was added by section 1121(a) of Pub. L. 109–162 and is classified to section 3712c of this title.
+Section 3712a(b) of this title, referred to in subsecs. (a)(2) and (e), probably should be a reference to section 3712h(b) of this title because section 3712a(b) relates to Director assistance and section 3712h(b) specifically sets out covered programs.
 
 January 5, 2006, referred to in subsec. (a)(3), was in the original “the date of the enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 109–162, which enacted this section, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2006—Subsecs. (a)(2), (e). Pub. L. 109–217 substituted “section 3712a(b)” for “section 3712d(b)”.
 
 #### Effective Date
 

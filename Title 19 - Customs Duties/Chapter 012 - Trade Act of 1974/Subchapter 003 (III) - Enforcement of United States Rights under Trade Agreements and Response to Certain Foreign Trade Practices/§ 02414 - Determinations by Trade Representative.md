@@ -14,7 +14,7 @@
 
 (2) The Trade Representative shall make the determinations required under paragraph (1) on or before—
 
-&emsp;(A) in the case of an investigation involving a trade agreement, except an investigation initiated pursuant to section 2412(b)(2)(A) of this title involving rights under the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 3511(d)(15) of this title) or the GATT 1994 (as defined in section 3501(1)(B) of this title) relating to products subject to intellectual property protection, the earlier of—
+&emsp;(A) in the case of an investigation involving a trade agreement, except an investigationinitiated pursuant to section 2412(b)(2)(A) of this title involving rights under the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 3511(d)(15) of this title) or the GATT 1994 (as defined in section 3501(1)(B) of this title) relating to products subject to intellectual property protection, the earlier of—
 
 &emsp;&emsp;(i) the date that is 30 days after the date on which the dispute settlement procedure is concluded, or
 
@@ -62,7 +62,7 @@ The Trade Representative shall publish in the Federal Register any determination
 
 2004—Subsec. (a)(2)(A). Pub. L. 108–429, §2201(a), in introductory provisions, inserted “except an investigation initiated pursuant to section 2412(b)(2)(A) of this title involving rights under the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 3511(d)(15) of this title) or the GATT 1994 (as defined in section 3501(1)(B) of this title) relating to products subject to intellectual property protection,” after “agreement,”.
 
-Subsec. (a)(3)(A). Pub. L. 108–429, §2201(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If an investigation is initiated under this subchapter by reason of section 2412(b)(2) of this title and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 3511(d)(15) of this title), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 6 months after the date on which such investigation is initiated.”
+Subsec. (a)(3)(A). Pub. L. 108–429, §2201(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If an investigation is initiated under this subchapter by reason of section 2412(b)(2) of thistitle and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 3511(d)(15) of this title), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 6 months after the date on which such investigation is initiated.”
 
 1996—Subsec. (a)(3)(A). Pub. L. 104–295 inserted “Rights” after “Intellectual Property”.
 

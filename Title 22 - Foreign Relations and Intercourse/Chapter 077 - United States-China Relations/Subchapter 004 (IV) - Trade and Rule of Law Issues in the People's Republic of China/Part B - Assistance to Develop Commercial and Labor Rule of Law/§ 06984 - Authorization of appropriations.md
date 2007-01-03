@@ -14,7 +14,7 @@ There are authorized to be appropriated to the Secretary of State to carry out t
 
 #### (d) Construction with other laws
 
-Except as provided in this chapter, funds may be made available to carry out the purposes ofthis part notwithstanding any other provision of law.
+Except as provided in this chapter, funds may be made available to carry out the purposes of this part notwithstanding any other provision of law.
 
 (Pub. L. 106–286, div. B, title V, §514, Oct. 10, 2000, 114 Stat. 906.)
 

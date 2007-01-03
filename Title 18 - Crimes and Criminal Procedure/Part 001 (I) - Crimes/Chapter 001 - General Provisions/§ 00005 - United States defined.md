@@ -14,7 +14,7 @@ All of these sections and parts of sections were derived from section 1 of title
 
 The remainder of said section 39 of title 18, U.S.C., 1940 ed., which was derived from sections 2, 3, and 4 of title XIII of the act of June 15, 1917, relating to jurisdiction and other matters, is almost entirely obsolete. The provisions still in force are incorporated in section 3241 of this title.
 
-The remaining provisions of said sections 381 and 502 of title 18, U.S.C., 1940 ed., which were derived from sources other than said section 1 of title XIII of the act of June 15, 1917, are incorporated in sections 1364 and 2275 of this title.
+The remaining provisions of said sections 381 and 502 of title 18, U.S.C., 1940 ed., which were derived from sources other than said section 1 of title XIII of the actof June 15, 1917, are incorporated in sections 1364 and 2275 of this title.
 
 #### Senate Revision Amendment
 

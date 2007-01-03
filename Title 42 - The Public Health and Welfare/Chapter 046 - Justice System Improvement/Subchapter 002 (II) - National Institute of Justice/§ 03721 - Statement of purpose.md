@@ -164,7 +164,7 @@ Hearings.—The Commission may, for purposes of this title, hold hearings, sit a
 
 “(b)
 
-Delegation of Authority.—Any member or agent of the Commission may, if authorized by theCommission, take any action the Commission is authorized to take by this section.
+Delegation of Authority.—Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
 
 “(c)
 
@@ -186,7 +186,7 @@ Mails.—The Commission may use the United States mails in the same manner and u
 
 “The Commission shall cease to exist upon the expiration of the 60-day period beginning on the date on which the Commission submits its report under section 3407.”
 
-Pub. L. 101–515, title II, §211(B), Nov. 5, 1990, 104 Stat. 2122, as amended by Pub. L. 103–322, title XXVI, §260001, Sept. 13, 1994, 108 Stat. 2088; Pub. L. 104–316, title I, §122(m), Oct. 19, 1996, 110 Stat. 3838, provided that:
+Pub. L. 101–515, title II, §211(B), Nov. 5, 1990, 104 Stat. 2122, as amended by Pub. L. 103–322, title XXVI, §260001,Sept. 13, 1994, 108 Stat. 2088; Pub. L. 104–316, title I, §122(m), Oct. 19, 1996, 110 Stat. 3838, provided that:
 
 “(B)(a) This subsection may be cited as the ‘National Commission to Support Law Enforcement Act’.
 

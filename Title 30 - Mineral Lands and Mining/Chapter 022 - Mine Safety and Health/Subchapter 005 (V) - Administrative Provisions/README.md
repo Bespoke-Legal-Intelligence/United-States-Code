@@ -18,3 +18,6 @@
 - [&sect; 00960 - Limitation on issuance of temporary restraining order or preliminary injunction](%C2%A7%2000960%20-%20Limitation%20on%20issuance%20of%20temporary%20restraining%20order%20or%20preliminary%20injunction.md)
 - [&sect; 00961 - Functions transferred under 1977 amendments](%C2%A7%2000961%20-%20Functions%20transferred%20under%201977%20amendments.md)
 - [&sect; 00962 - Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training&#8230;](%C2%A7%2000962%20-%20Acceptance%20of%20contributions%20and%20prosecution%20of%20projects%3B%20cooperative%20programs%20to%20promote%20health%20and%20safety%20education%20and%20training%E2%80%A6.md)
+- [&sect; 00963 - Technical Study Panel](%C2%A7%2000963%20-%20Technical%20Study%20Panel.md)
+- [&sect; 00964 - Scholarships](%C2%A7%2000964%20-%20Scholarships.md)
+- [&sect; 00965 - Brookwood-Sago Mine Safety Grants](%C2%A7%2000965%20-%20Brookwood-Sago%20Mine%20Safety%20Grants.md)

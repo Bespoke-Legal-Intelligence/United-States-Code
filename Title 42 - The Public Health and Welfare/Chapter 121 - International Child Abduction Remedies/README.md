@@ -3,48 +3,17 @@
 | Sec. |  |
 | :--- | ---: |
 | [11601\.](%C2%A7%2011601%20-%20Findings%20and%20declarations.md) | Findings and declarations. |
-| (a) | Findings. |
-| (b) | Declarations. |
 | [11602\.](%C2%A7%2011602%20-%20Definitions.md) | Definitions. |
 | [11603\.](%C2%A7%2011603%20-%20Judicial%20remedies.md) | Judicial remedies. |
-| (a) | Jurisdiction of courts. |
-| (b) | Petitions. |
-| (c) | Notice. |
-| (d) | Determination of case. |
-| (e) | Burdens of proof. |
-| (f) | Application of Convention. |
-| (g) | Full faith and credit. |
-| (h) | Remedies under Convention not exclusive. |
 | [11604\.](%C2%A7%2011604%20-%20Provisional%20remedies.md) | Provisional remedies. |
-| (a) | Authority of courts. |
-| (b) | Limitation on authority. |
 | [11605\.](%C2%A7%2011605%20-%20Admissibility%20of%20documents.md) | Admissibility of documents. |
 | [11606\.](%C2%A7%2011606%20-%20United%20States%20Central%20Authority.md) | United States Central Authority. |
-| (a) | Designation. |
-| (b) | Functions. |
-| (c) | Regulatory authority. |
-| (d) | Obtaining information from Parent Locator Service. |
-| (e) | Grant authority. |
-| (f) | Limited liability of private entities acting under the direction of the United States Central Authority. |
 | [11607\.](%C2%A7%2011607%20-%20Costs%20and%20fees.md) | Costs and fees. |
-| (a) | Administrative costs. |
-| (b) | Costs incurred in civil actions. |
 | [11608\.](%C2%A7%2011608%20-%20Collection%2C%20maintenance%2C%20and%20dissemination%20of%20information.md) | Collection, maintenance, and dissemination of information. |
-| (a) | In general. |
-| (b) | Requests for information. |
-| (c) | Responsibility of government entities. |
-| (d) | Information available from Parent Locator Service. |
-| (e) | Recordkeeping. |
 | [11608a.](%C2%A7%2011608a%20-%20Office%20of%20Children%27s%20Issues.md) | Office of Children's Issues. |
-| (a) | Director requirements. |
-| (b) | Case officer staffing. |
-| (c) | Embassy contact. |
-| (d) | Reports to parents. |
 | [11609\.](%C2%A7%2011609%20-%20Interagency%20coordinating%20group.md) | Interagency coordinating group. |
 | [11610\.](%C2%A7%2011610%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [11611\.](%C2%A7%2011611%20-%20Report%20on%20compliance%20with%20the%20Hague%20Convention%20on%20International%20Child%20Abduction.md) | Report on compliance with the Hague Convention on International Child Abduction. |
-| (a) | In general. |
-| (b) | Definition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

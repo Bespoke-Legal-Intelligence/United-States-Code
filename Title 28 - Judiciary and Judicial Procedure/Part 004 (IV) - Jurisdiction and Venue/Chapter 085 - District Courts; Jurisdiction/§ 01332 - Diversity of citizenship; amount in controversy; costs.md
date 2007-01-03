@@ -38,7 +38,7 @@
 
 &emsp;(C) any member of a class of plaintiffs is a citizen of a State and any defendant is a foreign state or a citizen or subject of a foreign state.
 
-(3) A district court may, in the interests of justice and looking at the totality of the circumstances, decline to exercise jurisdiction under paragraph (2) over a class action in which greater than one-third but less than two-thirds of the members of all proposed plaintiff classes in the aggregate and the primary defendants are citizens of the State in which the action was originally filed based on consideration of—
+(3) A district court may, in the interests of justice and looking at the totality of the circumstances, decline to exercise jurisdiction under paragraph (2) over a class action in which greater than one-third but less than two-thirdsof the members of all proposed plaintiff classes in the aggregate and the primary defendants are citizens of the State in which the action was originally filed based on consideration of—
 
 &emsp;(A) whether the claims asserted involve matters of national or interstate interest;
 
@@ -104,7 +104,7 @@
 
 &emsp;(II) the claims are joined upon motion of a defendant;
 
-&emsp;(III) all of the claims in the action are asserted on behalf of the general public (and not on behalf of individual claimants or members of a purported class) pursuant to a State statute specifically authorizing such action; or
+&emsp;(III) all of the claims in the action are asserted on behalf of the general public (and noton behalf of individual claimants or members of a purported class) pursuant to a State statute specifically authorizing such action; or
 
 &emsp;(IV) the claims have been consolidated or coordinated solely for pretrial proceedings.
 
@@ -158,7 +158,7 @@ Citizens of a State, and foreign states or citizens or subjects thereof.
 
 The revised section removes an uncertainty referred to in the McGarry case, supra, as to whether Congress intended to permit citizens of the Territories or the District of Columbia to sue a State or Territory itself rather than the citizens thereof. The court observed that “Congress could hardly have had such intention.”
 
-The sentence “The foregoing provisions as to the sum or value of the matter in controversy shall not be construed to apply to any of the cases mentioned in thesucceeding paragraphs of this section” was omitted as unnecessary. Those paragraphs are (2)–(28) of said section 41 of title 28, U.S.C., 1940 ed., which are revised and incorporated in this chapter and, except for those relating to actions against the United States and interpleader, contains no provision as to a sum or value necessary to confer jurisdiction. Consequently the omitted sentence is covered by excluding such requirement.
+The sentence “The foregoing provisions as to the sum or value of the matter in controversy shall not be construed to apply to any of the cases mentioned in the succeeding paragraphs of this section” was omitted as unnecessary. Those paragraphs are (2)–(28) of said section 41 of title 28, U.S.C., 1940 ed., which are revised and incorporated in this chapter and, except for those relating to actions against the United States and interpleader, contains no provision as to a sum or value necessary to confer jurisdiction. Consequently the omitted sentence is covered by excluding such requirement.
 
 Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to include all jurisdictional provisions relating to the district courts. Subsequently, many special jurisdictional provisions were enacted and incorporated in other titles of the U.S.C., 1940 ed., as follows:
 

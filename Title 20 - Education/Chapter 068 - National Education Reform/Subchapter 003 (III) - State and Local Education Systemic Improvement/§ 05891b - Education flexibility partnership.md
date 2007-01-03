@@ -24,11 +24,11 @@
 
 &emsp;&emsp;&emsp;(II) developed and implemented interim assessments; and
 
-&emsp;&emsp;&emsp;(III) made substantial progress (as determined by the Secretary) toward developing and implementing the performance standards and final aligned assessments described in clause (i), and toward having local educational agencies in the State produce the profiles described in clause (i);
+&emsp;&emsp;&emsp;(III) made substantial progress (as determined by the Secretary) toward developingand implementing the performance standards and final aligned assessments described in clause (i), and toward having local educational agencies in the State produce the profiles described in clause (i);
 
 &emsp;&emsp;(B) holds local educational agencies and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and corrective actions consistent with section 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6316\], for the local educational agencies and schools that do not make adequate yearly progress as described in section 1111(b)(2) of such Act \[20 U.S.C. 6311(b)(2)\]; and
 
-&emsp;&emsp;(C) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schoolswithin the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
+&emsp;&emsp;(C) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
 
 #### (3) State application
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(iv) explain why the waiver will assist the local educational agency or school in reaching such goals; and
 
-&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency, describe how the local educational agency will meet the requirements of paragraph (8).
+&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency, describe how thelocal educational agency will meet the requirements of paragraph (8).
 
 #### (B) Evaluation of applications
 
@@ -154,7 +154,7 @@
 
 #### (B) Performance review
 
-&emsp;&emsp;Three years after the date a State is designated an Ed-Flex Partnership State, the Secretary shall review the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) and shall terminate such agency's authority to grant such waivers if the Secretary determines, after notice and an opportunity for a hearing, that such agency's performance (including performance with respect to meeting the objectives described in paragraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
+&emsp;&emsp;Three years after the date a State is designated an Ed-Flex Partnership State, the Secretary shall review the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph\(1)(A) and shall terminate such agency's authority to grant such waivers if the Secretary determines, after notice and an opportunity for a hearing, that such agency's performance (including performance with respect to meeting the objectives described in paragraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
 
 #### (C) Renewal
 
@@ -198,7 +198,7 @@ The statutory or regulatory requirements referred to in subsection (a)(1)(A) of 
 
 &emsp;&emsp;(F) Part A of title V \[20 U.S.C. 7201 et seq.\].
 
-&emsp;(2) The Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2301 et seq.).
+&emsp;(2) The Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
 #### (c) Waivers not authorized
 
@@ -258,7 +258,7 @@ education reform” in the Department of Education Appropriations Act, 1996 (Pub
 
 A notice of the Secretary's decision to authorize State educational agencies to issue waivers under this section, including a description of the rationale the Secretary used to approve applications under subsection (a)(3)(B) of this section, shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties (including educators, parents, students, and advocacy and civil rights organizations), and the public.
 
-(Pub. L. 106–25, §4, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1073, Jan. 8, 2002, 115 Stat. 2090.)
+(Pub. L. 106–25, §4, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1073, Jan. 8, 2002, 115 Stat. 2090; Pub. L. 109–270, §2(e), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
@@ -266,7 +266,7 @@ Section 1116(a)(3) of such Act, referred to in subsec. (a)(2)(A)(i), means secti
 
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Subpart 3 of part B of title I is classified generally to subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of this title. Parts C, D, and F of title I are classified generally to parts C (§6391 et seq.), D (§6421 et seq.), and F (§6511 et seq.), respectively, of subchapter I of chapter 70 of this title. Subparts 2 and 3 of part A of title II are classified generally to subparts 2 (§6621 et seq.) and 3 (§6631 et seq.), respectively, of part A of subchapter II of chapter 70 of this title. Subpart 1 of part D of title II is classified generally to subpart 1 (§6761 et seq.) of part D of subchapter II of chapter 70 of this title. Subpart 4 of part B of title III is classified generally to subpart 4 (§6961 et seq.) of part B of subchapter III of chapter 70 of this title. Subpart 1 of part A of title IV is classified generally to subpart 1 (§7111 et seq.) of part A of subchapter IV of chapter 70 of this title. Part A of title V is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 Section 311(e) of the Goals 2000: Educate America Act, referred to in subsec. (d)(2), (3)(A), is section 311(e) of Pub. L. 103–227, which was classified to section 5891(e) of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
 
@@ -284,7 +284,9 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–110 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The statutory or regulatory requirements referred to in subsection (a)(1)(A) of this section are any such requirements for programs carried out under the following provisions:
+2006—Subsec. (b)(2). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+
+2002—Subsec. (b). Pub. L. 107–110 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “The statutory or regulatory requirements referred to in subsection (a)(1)(A) of this section are any such requirements for programs carried out under the following provisions:
 
 &emsp;“(1) Title I of the Elementary and Secondary Education Act of 1965 (other than subsections (a) and (c) of section 1116 of such Act).
 
@@ -304,9 +306,29 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
+#### Educational Flexibility Program Extension
+
+Pub. L. 109–211, §1, Mar. 24, 2006, 120 Stat. 320, provided that:
+
+“(a)
+
+Extension Authority.—Notwithstanding any other provision of law, the Secretary of Education is authorized to carry out the educational flexibility program under section 4 of the Education Flexibility Partnership Act of 1999 (20 U.S.C. 5891b), until the date of enactment of an Act that reauthorizes programs under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), for any State that was an Ed-Flex Partnership State on September 30, 2004.
+
+“(b)
+
+Designation.—
+
+&emsp;“(1)
+
+In general.—Any designation of a State as an Ed-Flex Partnership State that was in effect on September 30, 2004, shall be extended until the date of enactment of an Act that reauthorizes programs under part A of title I of the Elementary and Secondary Education Act of 1965, if the Secretary of Education makes the determination described in paragraph (2).
+
+&emsp;“(2)
+
+Determination.—The determination referred to in paragraph (1) is a determination that the performance of the State educational agency, in carrying out the programs for which the State has received a waiver under the educational flexibility program, justifies the extension of the designation.”
+
 #### Additional State Educational Agencies Authorized To Waive Federal Requirements
 
-Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
+Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

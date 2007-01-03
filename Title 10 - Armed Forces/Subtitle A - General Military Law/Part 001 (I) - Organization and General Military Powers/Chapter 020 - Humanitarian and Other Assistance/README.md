@@ -8,6 +8,7 @@
 | [404\.](%C2%A7%2000404%20-%20Foreign%20disaster%20assistance.md) | Foreign disaster assistance. |
 | [405\.](%C2%A7%2000405%20-%20Use%20of%20Department%20of%20Defense%20funds%20for%20United%20States%20share%20of%20costs%20of%20United%20Nations%20peacekeeping%20activities%20limitation.md) | Use of Department of Defense funds for United States share of costs of United Nations peacekeeping activities: limitation. |
 | \[406. | Renumbered.\] |
+| [407\.](%C2%A7%2000407%20-%20Humanitarian%20demining%20assistance%20authority%3B%20limitations.md) | Humanitarian demining assistance: authority; limitations. |
 | \[410. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,7 +19,9 @@ Chapter was comprised of subchapter I, sections 401 to 404, and subchapter II, s
 
 #### Amendments
 
-1996—Pub. L. 104–106, div. A, title X, §1061(g)(2), title XIII, §1301(b), Feb. 10, 1996, 110 Stat. 443, 473, which directed amendment of table of sections at beginning of subchapter I of this chapter by striking out item 403 and adding item 405, were executed by striking out item 403 “International peacekeeping activities” and adding item 405 in analysis for this chapter to reflect the probable intent of Congress and amendments by Pub. L. 104–106, §571(c)(1), (2). See below.
+2006—Pub. L. 109–364, div. A, title XII, §1203(b)(2), Oct. 17, 2006, 120 Stat. 2415, added item 407.
+
+1996—Pub. L. 104–106, div. A, title X, §1061(g)(2), title XIII, §1301(b), Feb. 10, 1996, 110 Stat. 443, 473, which directed amendment of table of sections at beginning of subchapter I of this chapter by striking out item 403 and adding item 405, were executed by striking out item 403 “International peacekeeping activities” andadding item 405 in analysis for this chapter to reflect the probable intent of Congress and amendments by Pub. L. 104–106, §571(c)(1), (2). See below.
 
 Pub. L. 104–106, div. A, title V, §571(c)(1), (2), Feb. 10, 1996, 110 Stat. 353, struck out subchapter analysis, consisting of items for subchapter I “Humanitarian Assistance” and subchapter II “Civil-Military Cooperation” and struck out subchapter I heading “HUMANITARIAN ASSISTANCE”.
 
@@ -41,4 +44,5 @@ Pub. L. 104–106, div. A, title V, §571(c)(1), (2), Feb. 10, 1996, 110 Stat. 3
 - [&sect; 00404 - Foreign disaster assistance](%C2%A7%2000404%20-%20Foreign%20disaster%20assistance.md)
 - [&sect; 00405 - Use of Department of Defense funds for United States share of costs of United Nations peacekeeping activities limitation](%C2%A7%2000405%20-%20Use%20of%20Department%20of%20Defense%20funds%20for%20United%20States%20share%20of%20costs%20of%20United%20Nations%20peacekeeping%20activities%20limitation.md)
 - [&sect; 00406 - Renumbered &sect;401(f)](%C2%A7%2000406%20-%20Renumbered%20%C2%A7401%28f%29.md)
+- [&sect; 00407 - Humanitarian demining assistance authority; limitations](%C2%A7%2000407%20-%20Humanitarian%20demining%20assistance%20authority%3B%20limitations.md)
 - [&sect; 00410 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;571(a)(1), Feb. 10, 1996, 110 Stat. 353](%C2%A7%2000410%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7571%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20353.md)

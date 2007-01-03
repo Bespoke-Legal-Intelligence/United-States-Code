@@ -16,7 +16,7 @@
 
 #### (b) Period for expending grant funds
 
-DOJ grant funds for a fiscal year that have been awarded and distributed to a grantee may be expended by that grantee only in the period permitted under the terms of the grant. DOJ grant funds not so expended shall revert to the Treasury.
+DOJ grant funds for a fiscal year that have been awarded and distributed to a grantee may be expended by that grantee only in the period permitted under the terms of the grant. DOJ grant funds not so expended shall be deobligated.
 
 #### (c) Definition
 
@@ -26,9 +26,13 @@ In this section, the term “DOJ grant funds” means, for a fiscal year, amount
 
 This section applies to DOJ grant funds for fiscal years beginning with fiscal year 2006.
 
-(Pub. L. 90–351, title I, §108, as added Pub. L. 109–162, title XI, §1161(a), Jan. 5, 2006, 119 Stat. 3118.)
+(Pub. L. 90–351, title I, §108, as added Pub. L. 109–162, title XI, §1161(a), Jan. 5, 2006, 119 Stat. 3118; amended Pub. L. 109–271, §8(g), Aug. 12, 2006, 120 Stat. 767.)
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–271 substituted “be deobligated” for “revert to the Treasury”.
 
 #### Effective Date
 
-Pub. L. 109–162, title XI, §1161(b), Jan. 5, 2006, 119 Stat. 3118, provided that: “This section \[enacting this section\] and the amendment made by this section take effect 90 days after the date of the enactment of this Act \[Jan. 5, 2006\].”
+Pub. L. 109–162, title XI, §1161(b), Jan. 5, 2006, 119 Stat. 3118, as amended by Pub. L. 109–271, §8(n)(4)(B), Aug. 12, 2006, 120 Stat. 768, provided that: “This section \[enacting this section\] and the amendment made by this section take effect on October 1, 2006.”
 

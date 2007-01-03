@@ -16,7 +16,3 @@ Historical and Revision Notes
 
 Under section 10503 seamen who are required to have a merchant mariner's document must exhibit it before signing a shipping agreement on a coastwise voyage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8701 of this title.
-

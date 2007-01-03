@@ -28,7 +28,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;(1) administering the programs described in section 764 of this title and activities under this section;
 
-&emsp;(2) widely disseminating findings, conclusions, and recommendations, resulting from research, demonstration projects, training, and related activities (referred to in this subchapter as “covered activities”) funded by the Institute, to—
+&emsp;(2) widely disseminating findings, conclusions, and recommendations, resulting fromresearch, demonstration projects, training, and related activities (referred to in this subchapter as “covered activities”) funded by the Institute, to—
 
 &emsp;&emsp;(A) other Federal, State, tribal, and local public agencies;
 
@@ -54,7 +54,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;&emsp;(D) the individuals’ representatives for the individuals described in subparagraph (C);
 
-&emsp;(5)(A) conducting an education program to inform the public about ways of providing forthe rehabilitation of individuals with disabilities, including information relating to—
+&emsp;(5)(A) conducting an education program to inform the public about ways of providing for the rehabilitation of individuals with disabilities, including information relating to—
 
 &emsp;&emsp;(i) family care;
 
@@ -156,7 +156,7 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 (2) Any person responsible for administering any program of the National Institutes of Health, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
 
-(3) The Director shall support, directly or by grant or contract, a center associated with aninstitution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.
+(3) The Director shall support, directly or by grant or contract, a center associated with an institution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.
 
 #### (k) Grants for training
 

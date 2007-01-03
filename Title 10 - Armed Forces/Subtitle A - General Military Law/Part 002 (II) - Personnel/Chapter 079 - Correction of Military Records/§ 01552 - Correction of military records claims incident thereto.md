@@ -22,7 +22,7 @@
 
 (d) Applicable current appropriations are available to continue the pay, allowances, compensation, emoluments, and other pecuniary benefits of any person who was paid under subsection (c), and who, because of the correction of his military record, is entitled to those benefits, but for not longer than one year after the date when his record is corrected under this section if he is not reenlisted in, or appointed or reappointed to, the grade to which those payments relate. Without regard to qualifications for reenlistment, or appointment or reappointment, the Secretary concerned may reenlist a person in, or appoint or reappoint him to, the grade to which payments under this section relate.
 
-(e) No payment may be made under this section for a benefit to which the claimant mightlater become entitled under the laws and regulations administered by the Secretary of Veterans Affairs.
+(e) No payment may be made under this section for a benefit to which the claimant might later become entitled under the laws and regulations administered by the Secretary of Veterans Affairs.
 
 (f) With respect to records of courts-martial and related administrative records pertaining to court-martial cases tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under subsection (a) may extend only to—
 
@@ -32,7 +32,7 @@
 
 (g) In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a),Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ Subsec. (g). Pub. L. 105–261, §545(b), added subsec. (g).
 
 1992—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
 
-1989—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record ofthe Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
+1989—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
 
 Subsec. (b). Pub. L. 101–189, §514(b), substituted “subsection (a)(1)” for “subsection (a)” in two places.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Pub. L. 101–225, title II, §212, Dec. 12, 1989, 103 Stat. 1914, provided that: “Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation shall—
 
-&emsp;“(1) amend part 52 of title 33, Code of Federal Regulations, governing the proceedings of the board established by the Secretary under section 1552 of title 10, United States Code, to ensure that a complete application for correction of military records is processed expeditiously and that final action on the application is taken within 10 months of its receipt; and
+&emsp;“(1) amend part 52 of title 33, Code of Federal Regulations, governing the proceedings of the board established by the Secretary under section 1552 of title 10,United States Code, to ensure that a complete application for correction of military records is processed expeditiously and that final action on the application is taken within 10 months of its receipt; and
 
 &emsp;“(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve as members of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
 

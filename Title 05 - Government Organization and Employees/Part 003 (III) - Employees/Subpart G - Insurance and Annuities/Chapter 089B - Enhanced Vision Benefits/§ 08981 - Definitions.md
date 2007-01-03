@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term “employee” means an employee defined under section 8901(1).
+&emsp;(1) The term “employee” means an employee defined under section 8901(1) and an employee of the District of Columbia courts.
 
 &emsp;(2) The terms “annuitant”, “member of family”, and “dependent” have the meanings as such terms are defined under paragraphs (3), (5), and (9), respectively, of section 8901.
 
@@ -16,7 +16,11 @@ In this chapter:
 
 &emsp;(7) The term “State” includes the District of Columbia.
 
-(Added Pub. L. 108–496, §3, Dec. 23, 2004, 118 Stat. 4006.)
+(Added Pub. L. 108–496, §3, Dec. 23, 2004, 118 Stat. 4006; amended Pub. L. 109–356, title I, §117(a)(2), Oct. 16, 2006, 120 Stat. 2027.)
+
+#### Amendments
+
+2006—Par. (1). Pub. L. 109–356, which directed insertion of “and an employee of the District of Columbia courts” at end of par. (1), was executed by making the insertion before the period, to reflect the probable intent of Congress.
 
 #### Effective Date
 

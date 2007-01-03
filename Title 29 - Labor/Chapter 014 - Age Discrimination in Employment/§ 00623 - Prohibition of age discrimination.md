@@ -20,7 +20,7 @@ It shall be unlawful for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his age;
 
-&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
+&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, orwould limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -48,7 +48,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;&emsp;&emsp;(ii) that is a voluntary early retirement incentive plan consistent with the relevant purpose or purposes of this chapter.
 
-> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan orvoluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
+> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan or voluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
 
 &emsp;(3) to discharge or otherwise discipline an individual for good cause.
 
@@ -106,6 +106,126 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;(B) The term “compensation” has the meaning provided by section 414(s) of title 26.
 
+(10)
+
+Special rules relating to age.—
+
+&emsp;(A)
+
+Comparison to similarly situated younger individual.—
+
+&emsp;&emsp;(i)
+
+In general.—A plan shall not be treated as failing to meet the requirements of paragraph (1) if a participant's accrued benefit, as determined as of any date under the terms of the plan, would be equal to or greater than that of any similarly situated, younger individual who is or could be a participant.
+
+&emsp;&emsp;(ii)
+
+Similarly situated.—For purposes of this subparagraph, a participant is similarly situated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
+
+&emsp;&emsp;(iii)
+
+Disregard of subsidized early retirement benefits.—In determining the accrued benefit as of any date for purposes of this clause, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
+
+&emsp;&emsp;(iv)
+
+Accrued benefit.—For purposes of this subparagraph, the accrued benefit may, under the terms of the plan, be expressed as an annuity payable at normal retirement age, the balance of a hypothetical account, or the current value of the accumulated percentage of the employee's final average compensation.
+
+&emsp;(B)
+
+Applicable defined benefit plans.—
+
+&emsp;&emsp;(i)
+
+Interest credits.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
+
+&emsp;&emsp;&emsp;(II)
+
+Preservation of capital.—An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
+
+&emsp;&emsp;&emsp;(III)
+
+Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I).
+
+&emsp;&emsp;(ii)
+
+Special rule for plan conversions.—If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
+
+&emsp;&emsp;(iii)
+
+Rate of benefit accrual.—Subject to clause (iv), the requirements of this clause are met with respect to any participant if the accrued benefit of the participant under the terms of the plan as in effect after the amendment is not less than the sum of—
+
+&emsp;&emsp;&emsp;(I) the participant's accrued benefit for years of service before the effective date of the amendment, determined under the terms of the plan as in effect before the amendment, plus
+
+&emsp;&emsp;&emsp;(II) the participant's accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
+
+&emsp;&emsp;(iv)
+
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+
+&emsp;&emsp;(v)
+
+Applicable plan amendment.—For purposes of this subparagraph—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—The term “applicable plan amendment” means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
+
+&emsp;&emsp;&emsp;(II)
+
+Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
+
+&emsp;&emsp;&emsp;(III)
+
+Multiple amendments.—The Secretary of the Treasury shall issue regulations to prevent the avoidance of the purposes of this subparagraph through the use of 2 or more plan amendments rather than a single amendment.
+
+&emsp;&emsp;&emsp;(IV)
+
+Applicable defined benefit plan.—For purposes of this subparagraph, the term “applicable defined benefit plan” has the meaning given such term by section 1053(f)(3) of this title.
+
+&emsp;&emsp;(vi)
+
+Termination requirements.—An applicable defined benefit plan shall not be treated as meeting the requirements of clause (i) unless the plan provides that, upon the termination of the plan—
+
+&emsp;&emsp;&emsp;(I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
+
+&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
+
+&emsp;(C)
+
+Certain offsets permitted.—A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides offsets against benefits under the plan to the extent such offsets are allowable in applying the requirements of section 401(a) of title 26.
+
+&emsp;(D)
+
+Permitted disparities in plan contributions or benefits.—A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(<i>l</i>) of title 26 are met.
+
+&emsp;(E)
+
+Indexing permitted.—
+
+&emsp;&emsp;(i)
+
+In general.—A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides for indexing of accrued benefits under the plan.
+
+&emsp;&emsp;(ii)
+
+Protection against loss.—Except in the case of any benefit provided in the form of a variable annuity, clause (i) shall not apply with respect to any indexing which results in an accrued benefit less than the accrued benefit determined without regard to such indexing.
+
+&emsp;&emsp;(iii)
+
+Indexing.—For purposes of this subparagraph, the term “indexing” means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
+
+&emsp;(F)
+
+Early retirement benefit or retirement-type subsidy.—For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in section 1054(g)(2)(A) of this title.<sup>2</sup>
+
+&emsp;(G)
+
+Benefit accrued to date.—For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
+
 #### (j) Employment as firefighter or law enforcement officer
 
 It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual's age if such action is taken—
@@ -132,15 +252,27 @@ A seniority system or employee benefit plan shall comply with this chapter regar
 
 Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
-&emsp;(1) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because—
+&emsp;(1)(A) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because—
 
-&emsp;&emsp;(A) an employee pension benefit plan (as defined in section 1002(2) of this title) provides for the attainment of a minimum age as a condition of eligibility for normal or early retirement benefits; or
+&emsp;&emsp;(i) an employee pension benefit plan (as defined in section 1002(2) of this title) provides for the attainment of a minimum age as a condition of eligibility for normal or early retirement benefits; or
 
-&emsp;&emsp;(B) a defined benefit plan (as defined in section 1002(35) of this title) provides for—
+&emsp;&emsp;(ii) a defined benefit plan (as defined in section 1002(35) of this title) provides for—
 
-&emsp;&emsp;&emsp;(i) payments that constitute the subsidized portion of an early retirement benefit; or
+&emsp;&emsp;&emsp;(I) payments that constitute the subsidized portion of an early retirement benefit; or
 
-&emsp;&emsp;&emsp;(ii) social security supplements for plan participants that commence before the age and terminate at the age (specified by the plan) when participants are eligible to receive reduced or unreduced old-age insurance benefits under title II of the Social Security Act (42 U.S.C. 401 et seq.), and that do not exceed such old-age insurance benefits.
+&emsp;&emsp;&emsp;(II) social security supplements for plan participants that commence before the age and terminate at the age (specified by the plan) when participants are eligible to receive reduced or unreduced old-age insurance benefits under title II of the Social Security Act (42 U.S.C. 401 et seq.), and that do not exceed such old-age insurance benefits.
+
+&emsp;(B) A voluntary early retirement incentive plan that—
+
+&emsp;&emsp;(i) is maintained by—
+
+&emsp;&emsp;&emsp;(I) a local educational agency (as defined in section 7801 of title 20,<sup>4</sup> or
+
+&emsp;&emsp;&emsp;(II) an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) of title 26 and exempt from taxation under section 501(a) of title 26, and
+
+&emsp;&emsp;(ii) makes payments or supplements described in subclauses (I) and (II) of subparagraph (A)(ii) in coordination with a defined benefit plan (as so defined) maintained by an eligible employer described in section 457(e)(1)(A) of title 26 or by an education association described in clause (i)(II),
+
+> &emsp;shall be treated solely for purposes of subparagraph (A)(ii) as if it were a part of the defined benefit plan with respect to such payments or supplements. Payments or supplements under such a voluntary early retirement incentive plan shall not constitute severance pay for purposes of paragraph (2).
 
 &emsp;(2)(A) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because following a contingent event unrelated to age—
 
@@ -170,7 +302,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;(iii) the package of benefits provided by the employer is as described in clauses (i) and (ii).
 
-&emsp;(E)(i) If the obligation of the employer to provide retiree health benefits is of limitedduration, the value for each individual shall be calculated at a rate of $3,000 per year for benefit years before age 65, and $750 per year for benefit years beginning at age 65 and above.
+&emsp;(E)(i) If the obligation of the employer to provide retiree health benefits is of limited duration, the value for each individual shall be calculated at a rate of $3,000 per year for benefit years before age 65, and $750 per year for benefit years beginning at age 65 and above.
 
 &emsp;(ii) If the obligation of the employer to provide retiree health benefits is of unlimited duration, the value for each individual shall be calculated at a rate of $48,000 for individuals below age 65, and $24,000 for individuals age 65 and above.
 
@@ -196,17 +328,23 @@ Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violatio
 
 &emsp;(3) any employee who attains the minimum age and satisfies all non-age-based conditions for receiving a benefit under the plan has an opportunity lasting not less than 180 days to elect to retire and to receive the maximum benefit that could then be elected by a younger but otherwise similarly situated employee, and the plan does not require retirement to occur sooner than 180 days after such election.
 
-(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835.)
+(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, §701(c), title XI, §1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058.)
 
 #### References in Text
 
 Subparagraphs (C) and (D) of section 411(b)(2) of title 26, referred to in subsec. (i)(7), were redesignated subpars. (B) and (C) of section 411(b)(2) of Title 26, Internal Revenue Code, by Pub. L. 101–239, title VII, §7871(a)(1), Dec. 19, 1989, 103 Stat. 2435.
 
+Section 1054(g)(2)(A) of this title, referred to in subsec. (i)(10)(F), was in the original “section 203(g)(2)(A) of the Employee Retirement Income Security Act of 1974”, and was translated as reading section 204(g)(2)(A) of that Act to reflect the probable intent of Congress, because section 203 does not contain a subsec. (g).
+
 Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
 
-The Social Security Act, referred to in subsec. (<i>l</i>)(1)(B)(ii), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (<i>l</i>)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (i)(10). Pub. L. 109–280, §701(c), added par. (10).
+
+Subsec. (<i>l</i>)(1). Pub. L. 109–280, §1104(a)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
 
 1998—Subsec. (i)(6). Pub. L. 105–244, §941(b), inserted “or it is a plan permitted by subsection (m) of this section.” after “accruals”.
 
@@ -267,6 +405,10 @@ Subsec. (g)(1). Pub. L. 98–369 inserted “, and any employee's spouse aged 6
 1982—Subsec. (g). Pub. L. 97–248 added subsec. (g) relating to entitlement to coverage under group health plans.
 
 1978—Subsec. (f)(2). Pub. L. 95–256 provided that no seniority system or employee benefit plan require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of the individual.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 701(c) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1998 Amendment
 
@@ -424,7 +566,7 @@ Applicability to Employees with Service after 1988.—
 
 &emsp;“(1)
 
-In general.—The amendments made by sections 9201 and 9202 \[amending this section, section1054 of this title, and section 411 of Title 26, Internal Revenue Code\] shall apply only with respect to plan years beginning on or after January 1, 1988, and only to employees who have 1 hour of service in any plan year to which such amendments apply.
+In general.—The amendments made by sections 9201 and 9202 \[amending this section, section 1054 of this title, and section 411 of Title 26, Internal Revenue Code\] shall apply only with respect to plan years beginning on or after January 1, 1988, and only to employees who have 1 hour of service in any plan year to which such amendments apply.
 
 &emsp;“(2)
 
@@ -504,69 +646,13 @@ Functions vested by this section in Secretary of Labor or Civil Service Commissi
 
 #### Study and Guidelines for Performance Tests
 
-Section 101(a) \[title I, §119\[2\]\] of Pub. L. 104–208 provided that:
-
-“(a)
-
-Study.—Not later than 3 years after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary of Health and Human Services, acting through the Director of the National Institute for Occupational Safety and Health (referred to in this section \[probably means section 101(a) \[title I, §119\[2\]\] of Pub. L. 104–208\] as the ‘Secretary’), shall conduct, directly or by contract, a study, and shall submit to the appropriate committees of Congress a report based on the results of the study that shall include—
-
-&emsp;“(1) a list and description of all tests available for the assessment of abilities important for the completion of public safety tasks performed by law enforcement officers and firefighters;
-
-&emsp;“(2) a list of the public safety tasks for which adequate tests described in paragraph (1) do not exist;
-
-&emsp;“(3) a description of the technical characteristics that the tests shall meet to be in compliance with applicable Federal civil rights law and policies;
-
-&emsp;“(4) a description of the alternative methods that are available for determining minimally acceptable performance standards on the tests;
-
-&emsp;“(5) a description of the administrative standards that should be met in the administration, scoring, and score interpretation of the tests; and
-
-&emsp;“(6) an examination of the extent to which the tests are cost-effective, are safe, and comply with the Federal civil rights law and policies.
-
-“(b)
-
-Consultation Requirement; Opportunity for Public Comment.—
-
-&emsp;“(1)
-
-Consultation.—The Secretary shall, during the conduct of the study required by subsection (a), consult with—
-
-&emsp;&emsp;“(A) the Deputy Administrator of the United States Fire Administration;
-
-&emsp;&emsp;“(B) the Director of the Federal Emergency Management Agency;
-
-&emsp;&emsp;“(C) organizations that represent law enforcement officers, firefighters, and employers of the officers and firefighters; and
-
-&emsp;&emsp;“(D) organizations that represent older individuals.
-
-&emsp;“(2)
-
-Public comment.—Prior to issuing the advisory guidelines required in subsection (c), the Secretary shall provide an opportunity for public comment on the proposed advisory guidelines.
-
-“(c)
-
-Advisory Guidelines.—Not later than 4 years after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall develop and issue, based on the results of the study required by subsection (a), advisory guidelines for the administration and use of physical and mental fitness tests to measure the ability and competency of law enforcement officers and firefighters to perform the requirements of the jobs of the officers and firefighters.
-
-“(d)
-
-Job Performance Tests.—
-
-&emsp;“(1)
-
-Identification of tests.—After issuance of the advisory guidelines described in subsection (c), the Secretary shall issue regulations identifying valid, nondiscriminatory job performance tests that shall be used by employers seeking the exemption described in section 4(j) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(j)\] with respect to firefighters or law enforcement officers who have attained an age of retirement described in such section 4(j).
-
-&emsp;“(2)
-
-Use of tests.—Effective on the date of issuance of the regulations described in paragraph (1), any employer seeking such exemption with respect to a firefighter or law enforcement officer who has attained such age shall provide to each firefighter or law enforcement officer who has attained such age an annual opportunity to demonstrate physical and mental fitness by passing a test described in paragraph (1), in order to continue employment.
-
-“(e)
-
-Development of Standards for Wellness Programs.—Not later than 2 years after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall propose advisory standards for wellness programs for law enforcement officers and firefighters.
-
-“(f)
-
-Authorization of Appropriations.—There is authorized to be appropriated $5,000,000 to carry out this section.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–24, required the Secretary of Health and Human Services to conduct a study on tests assessing the abilities important for the completion of public safety tasks performed by law enforcement officers and firefighters no later than 3 years after Sept. 30, 1996, and to develop and issue advisory guidelines based on the results of the study no later than 4 years after Sept. 30, 1996, and authorized appropriations.
 
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “similar account”.</i>
+
+<i><sup>4</sup></i><i> So in original. A closing parenthesis probably should follow “20”.</i>
 

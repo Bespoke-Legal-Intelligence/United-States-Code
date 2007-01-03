@@ -25,6 +25,6 @@
 - [&sect; 02159 - Congressional review procedures](%C2%A7%2002159%20-%20Congressional%20review%20procedures.md)
 - [&sect; 02160 - Subsequent arrangements](%C2%A7%2002160%20-%20Subsequent%20arrangements.md)
 - [&sect; 02160a - Review of Nuclear Proliferation Assessment Statements](%C2%A7%2002160a%20-%20Review%20of%20Nuclear%20Proliferation%20Assessment%20Statements.md)
-- [&sect; 02160b - Authority to suspend nuclear cooperation with nations which have not ratified the Convention on the Physical Security of Nuclear Materials](%C2%A7%2002160b%20-%20Authority%20to%20suspend%20nuclear%20cooperation%20with%20nations%20which%20have%20not%20ratified%20the%20Convention%20on%20the%20Physical%20Security%20of%20Nuclear%20Materials.md)
+- [&sect; 02160b - Authority to suspend nuclear cooperation with nations which have not ratified the Convention on the Physical Security of Nuclear Material](%C2%A7%2002160b%20-%20Authority%20to%20suspend%20nuclear%20cooperation%20with%20nations%20which%20have%20not%20ratified%20the%20Convention%20on%20the%20Physical%20Security%20of%20Nuclear%20Material.md)
 - [&sect; 02160c - Consultation with Department of Defense concerning certain exports and subsequent arrangements](%C2%A7%2002160c%20-%20Consultation%20with%20Department%20of%20Defense%20concerning%20certain%20exports%20and%20subsequent%20arrangements.md)
 - [&sect; 02160d - Further restrictions on exports](%C2%A7%2002160d%20-%20Further%20restrictions%20on%20exports.md)

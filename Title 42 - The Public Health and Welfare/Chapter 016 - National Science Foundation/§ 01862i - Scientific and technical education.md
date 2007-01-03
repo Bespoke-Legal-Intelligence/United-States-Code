@@ -106,7 +106,7 @@ Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (f), was 
 
 The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 7801 of Title 20, Education.
+Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, titleI, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 7801 of Title 20, Education.
 
 #### Codification
 

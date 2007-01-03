@@ -6,7 +6,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 &emsp;(1) it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985;
 
-&emsp;(2) it is the national goal that wherever attainable, an interim goal of water qualitywhich provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
+&emsp;(2) it is the national goal that wherever attainable, an interim goal of water quality which provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
 
 &emsp;(3) it is the national policy that the discharge of toxic pollutants in toxic amounts be prohibited;
 
@@ -24,7 +24,7 @@ It is the policy of the Congress to recognize, preserve, and protect the primary
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
-It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and the improvement of water quality to at least the same extent as the United States does under its laws.
+It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and theimprovement of water quality to at least the same extent as the United States does under its laws.
 
 #### (d) Administrator of Environmental Protection Agency to administer chapter
 
@@ -94,7 +94,7 @@ Section 1(a) of Pub. L. 100–4 provided that: “This Act \[enacting sections 1
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
+Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313aof this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
 
 #### Short Title of 1977 Amendment
 
@@ -160,7 +160,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 &emsp;“(A) three members representing agencies having authority under State law to regulate the shellfish industry, of whom one shall represent each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions;
 
-&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
+&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, andGulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
 
 &emsp;“(C) three members, of whom one shall represent each of the following Federal agencies: the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, and the Food and Drug Administration; and
 
@@ -264,7 +264,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 #### Prevention, Control, and Abatement of Environmental Pollution at Federal Facilities
 
-Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The PublicHealth and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
+Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
 
 #### Executive Order No. 11548
 

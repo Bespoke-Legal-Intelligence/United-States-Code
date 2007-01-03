@@ -196,7 +196,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Based on model screening guidelines developed by the Office of Juvenile Programs of the Department of Justice, the Secretary shall develop and distribute to each eligible entity awarded a grant under this section specific model guidelines for the screening of mentors who seek to participate in mentoring programs assisted under this section.
+&emsp;&emsp;Based on model screening guidelines developed by the Office of Juvenile Programs ofthe Department of Justice, the Secretary shall develop and distribute to each eligible entity awarded a grant under this section specific model guidelines for the screening of mentors who seek to participate in mentoring programs assisted under this section.
 
 #### (B) Background checks
 

@@ -20,10 +20,13 @@
 | [195\.](%C2%A7%2000195%20-%20Admission%20of%20foreign%20nationals%20for%20instruction%3B%20restrictions%3B%20conditions.md) | Admission of foreign nationals for instruction; restrictions; conditions. |
 | [196\.](%C2%A7%2000196%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md) | Participation in Federal, State, or other educational research grants. |
 | [197\.](%C2%A7%2000197%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Cadets: charges and fees for attendance; limitation. |
+| [198\.](%C2%A7%2000198%20-%20Coast%20Guard%20history%20fellowships.md) | Coast Guard history fellowships <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–241, title II, §209(b), July 11, 2006, 120 Stat. 523, added item 198.
 
 2004—Pub. L. 108–375, div. A, title V, §545(d)(2), Oct. 28, 2004, 118 Stat. 1909, added item 197.
 
@@ -38,6 +41,8 @@ Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted “foreig
 1970—Pub. L. 91–278, §1(7), June 12, 1970, 84 Stat. 305, added item 195.
 
 1960—Pub. L. 86–474, §1(15), May 14, 1960, 74 Stat. 146, substituted “member of civilian teaching staff” for “civilian instructor” in item 191.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -62,3 +67,4 @@ Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted “foreig
 - [&sect; 00195 - Admission of foreign nationals for instruction; restrictions; conditions](%C2%A7%2000195%20-%20Admission%20of%20foreign%20nationals%20for%20instruction%3B%20restrictions%3B%20conditions.md)
 - [&sect; 00196 - Participation in Federal, State, or other educational research grants](%C2%A7%2000196%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md)
 - [&sect; 00197 - Cadets charges and fees for attendance; limitation](%C2%A7%2000197%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md)
+- [&sect; 00198 - Coast Guard history fellowships](%C2%A7%2000198%20-%20Coast%20Guard%20history%20fellowships.md)

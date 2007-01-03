@@ -64,7 +64,7 @@ In this chapter:
 
 This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, as amended. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Short Title
 
-Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
+Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title,enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
 
 #### Transfer of Functions
 
@@ -93,6 +93,26 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Achieving Operational Control on the Border
+
+Pub. L. 109–367, §2, Oct. 26, 2006, 120 Stat. 2638, provided that:
+
+“(a)
+
+In General.—Not later than 18 months after the date of the enactment of this Act \[Oct. 26, 2006\], the Secretary of Homeland Security shall take all actions the Secretary determines necessary and appropriate to achieve and maintain operational control over the entire international land and maritime borders of the United States, to include the following—
+
+&emsp;“(1) systematic surveillance of the international land and maritime borders of the United States through more effective use of personnel and technology, such as unmanned aerial vehicles, ground-based sensors, satellites, radar coverage, and cameras; and
+
+&emsp;“(2) physical infrastructure enhancements to prevent unlawful entry by aliens into the United States and facilitate access to the international land and maritime borders by United States Customs and Border Protection, such as additional checkpoints, all weather access roads, and vehicle barriers.
+
+“(b)
+
+Operational Control Defined.—In this section, the term ‘operational control’ means the prevention of all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.
+
+“(c)
+
+Report.—Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary shall submit to Congress a report on the progress made toward achieving and maintaining operational control over the entire international land and maritime borders of the United States in accordance with this section.”
 
 #### Border Surveillance
 
@@ -132,7 +152,7 @@ Contents.—The plan submitted under subsection (a) shall include—
 
 “(c)
 
-Implementation.—The Secretary of Homeland Security shall implement the plan submitted undersubsection (a) as a pilot program as soon as sufficient funds are appropriated and available for this purpose.
+Implementation.—The Secretary of Homeland Security shall implement the plan submitted under subsection (a) as a pilot program as soon as sufficient funds are appropriated and available for this purpose.
 
 “(d)
 

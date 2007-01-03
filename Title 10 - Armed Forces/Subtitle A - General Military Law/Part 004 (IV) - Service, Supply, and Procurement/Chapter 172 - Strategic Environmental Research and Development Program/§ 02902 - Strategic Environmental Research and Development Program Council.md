@@ -58,7 +58,7 @@
 
 &emsp;(2) provide governmental and nongovernmental entities with analytic assistance, consistent with national defense missions, including access to military platforms for sensor deployment and access to computer capabilities, in order to facilitate environmental research;
 
-&emsp;(3) provide for the identification of energy technologies developed for national defense purposes (including electricity generation systems, energy storage systems, alternative fuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs;
+&emsp;(3) provide for the identification of energy technologies developed for national defensepurposes (including electricity generation systems, energy storage systems, alternative fuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs;
 
 &emsp;(4) provide for the identification and support of programs of basic and applied research, development, and demonstration in technologies useful—
 
@@ -70,7 +70,7 @@
 
 &emsp;(5) provide for the identification and support of research, development, and application of other technologies developed for national defense purposes which not only are directly useful for programs, projects, and activities of such departments, but also have useful applications for solutions to such national and international environmental problems as climate change and ozone depletion;
 
-&emsp;(6) provide for the Secretary of Defense, the Secretary of Energy, and the Administrator ofthe Environmental Protection Agency, in cooperation with other Federal and State agencies, as appropriate, to conduct joint research, development, and demonstration projects relating to innovative technologies, management practices, and other approaches for purposes of—
+&emsp;(6) provide for the Secretary of Defense, the Secretary of Energy, and the Administrator of the Environmental Protection Agency, in cooperation with other Federal and State agencies, as appropriate, to conduct joint research, development, and demonstration projects relating to innovative technologies, management practices, and other approaches for purposes of—
 
 &emsp;&emsp;(A) preventing pollution from all sources;
 
@@ -116,7 +116,7 @@ Subsec. (b)(9), (10). Pub. L. 104–106, §203(a)(3), redesignated pars. (9) and
 
 Subsec. (d)(3). Pub. L. 104–106, §203(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “To prepare an annual five-year strategic environmental research and development plan that shall cover the fiscal year in which the plan is prepared and the four fiscal years following such fiscal year.”
 
-Subsec. (d)(4). Pub. L. 104–106, §203(b)(1)(B), substituted “National Science and Technology Council” for “Federal Coordinating Council on Science, Engineering, and Technology”.
+Subsec. (d)(4). Pub. L. 104–106, §203(b)(1)(B), substituted “National Science and Technology Council”for “Federal Coordinating Council on Science, Engineering, and Technology”.
 
 Subsec. (e)(3). Pub. L. 104–106, §203(c), substituted “national security programs” for “national security programs, particularly technologies that have the potential for industrial, commercial, and other governmental applications, and to support programs of research in and development of such applications”.
 
@@ -124,7 +124,7 @@ Subsecs. (f), (g). Pub. L. 104–106, §203(b)(2), added subsec. (g), redesignat
 
 Subsec. (h). Pub. L. 104–106, §203(b)(2)(A), struck out subsec. (h) which required Council to submit to Secretary of Defense and to Congress an annual report on annual five-year strategic environmental research and development plan.
 
-1993—Subsec. (b)(1) to (4). Pub. L. 103–160, §265(a)(1)–(3), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1) which read as follows: “The Assistant Secretary of Defense responsible for matters relating to production and logistics.”
+1993—Subsec. (b)(1) to (4). Pub. L. 103–160, §265 (a)(1)–(3), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1) which read as follows: “The Assistant Secretary of Defense responsible for matters relating to production and logistics.”
 
 Subsec. (b)(6). Pub. L. 103–160, §265(a)(4), added par. (6) and struck out former par. (6) which read as follows: “The Director of the Department of Energy Office of Environmental Restoration and Waste Management.”
 

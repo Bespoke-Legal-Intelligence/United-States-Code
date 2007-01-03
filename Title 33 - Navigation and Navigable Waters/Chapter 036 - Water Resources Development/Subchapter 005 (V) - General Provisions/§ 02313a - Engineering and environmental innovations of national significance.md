@@ -12,7 +12,7 @@ To encourage innovative and environmentally sound engineering solutions and inno
 
 #### (2) Funding from other sources
 
-&emsp;The Secretary may accept and expend additional funds from other Federal agencies, States, or non-Federal entities for purposes of carrying out this section.
+&emsp;The Secretary may accept and expend additional funds from other Federal agencies,States, or non-Federal entities for purposes of carrying out this section.
 
 (Pub. L. 104–303, title II, §212, Oct. 12, 1996, 110 Stat. 3684.)
 

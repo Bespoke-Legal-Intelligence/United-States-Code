@@ -18,7 +18,7 @@
 
 (B) Local contracts for the procurement of health-care items shall, to the maximum extent feasible, be awarded to regular dealers or manufacturers engaged in the wholesale supply of such items.
 
-(C) The Secretary may increase for a fiscal year the percentage specified in subparagraph (A) of this section to a percentage not greater than 30 percent if the Secretary, based on the experience of the Department during the two fiscal years preceding such fiscal year, determines that the increase and the amount of the increase are necessary in the interest of the effective furnishing of health-care services by the Department. The authority to increase such percentage may not be delegated.
+(C) The Secretary may increase for a fiscal year the percentage specified in subparagraph (A) of this section to a percentage not greater than 30 percent if the Secretary, based on the experience of the Department during the two fiscal years preceding such fiscal year, determines that the increase and the amount of the increaseare necessary in the interest of the effective furnishing of health-care services by the Department. The authority to increase such percentage may not be delegated.
 
 (D) Items procured through an emergency procurement shall not be counted for the purpose of this paragraph.
 

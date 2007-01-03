@@ -6,5 +6,5 @@ Cadets at the Academy shall be appointed by the President alone. An appointment 
 
 #### Effective Date
 
-Section effective with respect to nominations for appointment to the first class admitted to each Academyafter Oct. 14, 1981, see section 203(d) of Pub. L. 97–60, set out as a note under section 4341a of this title.
+Section effective with respect to nominations for appointment to the first class admitted to each Academy after Oct. 14, 1981, see section 203(d) of Pub. L. 97–60, set out as a note under section 4341a of this title.
 

@@ -26,7 +26,7 @@ There is established in the Treasury of the United States a revolving fund to be
 
 #### (b) Tolls and other receipts into Panama Canal Revolving Fund; restriction on use of funds
 
-(1) There shall be deposited in the Panama Canal Revolving Fund, on a continuing basis, toll receipts (other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title) and all other receipts of the Commission. Except as provided in section 3713 of this title, no funds may be obligated or expended by the Commission in any fiscal year unless such obligation or expenditure has been specifically authorized by law.
+(1) There shall be deposited in the Panama Canal Revolving Fund, on a continuing basis, toll receipts (other than amounts of toll receiptsdeposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title) and all other receipts of the Commission. Except as provided in section 3713 of this title, no funds may be obligated or expended by the Commission in any fiscal year unless such obligation or expenditure has been specifically authorized by law.
 
 (2) No funds may be authorized for the use of the Commission, or obligated or expended by the Commission in any fiscal year; in excess of—
 

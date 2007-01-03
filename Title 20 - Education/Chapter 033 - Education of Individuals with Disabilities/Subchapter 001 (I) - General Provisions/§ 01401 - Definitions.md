@@ -114,7 +114,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;When used with respect to any public elementary school or secondary school special education teacher teaching in a State, such term means that—
 
-&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a special education teacher (including certification obtained through alternative routes to certification), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except that when used withrespect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State's public charter school law;
+&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a special education teacher (including certification obtained through alternative routes to certification), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except that when used with respect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State's public charter school law;
 
 &emsp;&emsp;&emsp;(ii) the teacher has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
 
@@ -186,7 +186,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “local educational agency” means a public board of education or otherpublic authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary schools or secondary schools.
+&emsp;&emsp;The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary schools or secondary schools.
 
 #### (B) Educational service agencies and other public institutions or agencies
 
@@ -312,7 +312,7 @@ Except as otherwise provided, in this chapter:
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.) and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.)and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

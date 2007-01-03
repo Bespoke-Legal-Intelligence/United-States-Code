@@ -18,7 +18,7 @@ No grant may be made under this part or contract entered into under section 274 
 
 (2)(A) Each recipient of a grant or contract under section 273 or 274a of this title shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant or contract, the total cost of the undertaking in connection with which such grant or contract was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-(B) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant or contract under section 273 or 274a of this title that are pertinent to such grant or contract.
+(B) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant or contract under section 273or 274a of this title that are pertinent to such grant or contract.
 
 #### (d) “Transplant center” and “organ” defined
 

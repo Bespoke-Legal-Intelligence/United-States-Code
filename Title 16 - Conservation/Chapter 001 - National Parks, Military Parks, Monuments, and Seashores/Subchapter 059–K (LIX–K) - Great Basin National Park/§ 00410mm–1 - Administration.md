@@ -48,7 +48,7 @@ Nothing in this subchapter shall be construed to establish a new express or impl
 
 In order to encourage unified and cost-effective interpretation of the Great Basin physiographic region, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies providing for the interpretation of the Great Basin physiographic region. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretive facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof.
 
-(Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\],Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 

@@ -52,7 +52,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (4) Information requirements
 
-&emsp;No collection of information or data acquisition activity undertaken by the Director shall be subject to any review, coordination, or approval procedure except as required by the Director of the Office of Management and Budget under the rules and regulations established pursuant to chapter 35 of title 44, except such collection of information or data acquisition activity may be subject to review or coordination if the Director determines that such review or coordination is beneficial.
+&emsp;No collection of information or data acquisition activity undertaken by the Director shall be subject to any review, coordination, or approval procedure except as required by the Director of the Office of Management and Budgetunder the rules and regulations established pursuant to chapter 35 of title 44, except such collection of information or data acquisition activity may be subject to review or coordination if the Director determines that such review or coordination is beneficial.
 
 #### (5) Definitions
 
@@ -64,7 +64,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (6) Violations
 
-&emsp;Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses,publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2) of this section, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
+&emsp;Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses, publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2) of this section, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
 
 #### (7) Access to reports or records
 

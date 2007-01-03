@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) community action agencies, business organizations, and labor organizations; and
 
-&emsp;&emsp;(C) agencies and individuals that have contact with youth over substantial periods oftime and are able to offer reliable information about the needs and problems of youth.
+&emsp;&emsp;(C) agencies and individuals that have contact with youth over substantial periods of time and are able to offer reliable information about the needs and problems of youth.
 
 #### (4) Consultation
 

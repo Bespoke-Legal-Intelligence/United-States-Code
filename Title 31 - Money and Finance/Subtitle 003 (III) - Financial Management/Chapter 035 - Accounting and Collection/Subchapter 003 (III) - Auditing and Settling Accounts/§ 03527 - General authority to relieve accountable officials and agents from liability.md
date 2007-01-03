@@ -16,13 +16,13 @@
 
 &emsp;(A) in the case of a physical loss or deficiency—
 
-&emsp;&emsp;(i) the Secretary of Defense or the appropriate Secretary of the military department of the Department of Defense (or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy) decides that the official was carrying out official duties when the loss or deficiency occurred;
+&emsp;&emsp;(i) the Secretary of Defense or the appropriate Secretary of the military department of the Department of Defense (or the Secretary of Homeland Security, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy) decides that the official was carrying out official duties when the loss or deficiency occurred;
 
 &emsp;&emsp;(ii) the loss or deficiency was not the result of an illegal or incorrect payment; and
 
 &emsp;&emsp;(iii) the loss or deficiency was not the result of fault or negligence by the official; or
 
-&emsp;(B) in the case of a payment described in section 3528(a)(4)(A) of this title, the Secretary of Defense or the Secretary of the appropriate military department (or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy), after taking a diligent collection action, finds that the criteria of section 3528(b)(1) of this title are satisfied.
+&emsp;(B) in the case of a payment described in section 3528(a)(4)(A) of this title, the Secretary of Defense or the Secretary of the appropriate military department (or the Secretary of Homeland Security, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy), after taking a diligent collection action, finds that the criteria of section 3528(b)(1) of this title are satisfied.
 
 (2) The finding of the Secretary involved is conclusive on the Comptroller General.
 
@@ -42,7 +42,7 @@
 
 (e) Relief provided under this section is in addition to relief provided under another law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 965; Pub. L. 104–106, div. A, title IX, §913(c)(4), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(2), Sept. 23, 1996, 110 Stat. 2635.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 965; Pub. L. 104–106, div. A, title IX, §913(c)(4), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(2), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 109–241, title IX, §902(b)(3), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 
@@ -100,11 +100,13 @@ In subsection (b)(2), the word “involved” is added for clarity because of Co
 
 In subsection (c), the words “or any officer of the General Accounting Office designated by the Comptroller General” are omitted as unnecessary because of section 731 of the revised title. The word “initiative” is substituted for “motion” for consistency. The words “findings and” and “concerned” are omitted as surplus. The words “or his designee” are omitted as unnecessary because of section 731 of the revised title. The words “in his discretion”, “of accountability and”, “official disbursing”, and “the making of” are omitted as surplus. The word “reasonable” is substituted for “due”, the words “the head of” are added, and the words “carry out” are substituted for “pursued”, for consistency.
 
-In subsection (d)(1), before clause (A), the words “restore or otherwise”, and the words “in . . . any amount” in 31:82a–2(c), are omitted as surplus. Inclause (A), the words “to be charged” are substituted for “therefor” for clarity. In clause (B), the words “carried out” are substituted for “effected” for consistency.
+In subsection (d)(1), before clause (A), the words “restore or otherwise”, and the words “in . . . any amount” in 31:82a–2(c), are omitted as surplus. In clause (A), the words “to be charged” are substituted for “therefor” for clarity. In clause (B), the words “carried out” are substituted for “effected” for consistency.
 
 Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sentence) to eliminate unnecessary words.
 
 #### Amendments
+
+2006—Subsec. (b)(1)(A)(i), (B). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 1996—Subsec. (b)(1). Pub. L. 104–106, §913(c)(4)(C)–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
@@ -113,8 +115,4 @@ Pub. L. 104–106, §913(c)(4)(A), (B), in introductory provisions, substituted 
 Subsec. (b)(1)(A)(i). Pub. L. 104–201, §1009(c)(2)(A), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Department of Defense”.
 
 Subsec. (b)(1)(B). Pub. L. 104–201, §1009(c)(2)(B), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “or the Secretary of the appropriate military department”.
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

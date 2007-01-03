@@ -19,21 +19,8 @@
 | 701b–9. | Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of expenditures. |
 | 701b–10. | Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation. |
 | 701b–11. | Flood protection projects. |
-| (a) | General considerations; nonstructural alternatives. |
-| (b) | Non-Federal participation through nonstructural alternatives; limitation. |
 | 701b–12. | Floodplain management requirements. |
-| (a) | Compliance with floodplain management and insurance programs. |
-| (b) | Floodplain management plans. |
-| (c) | Guidelines. |
-| (d) | Technical support. |
 | 701b–13. | Construction of flood control projects by non-Federal interests. |
-| (a) | Authority. |
-| (b) | Studies and design activities. |
-| (c) | Completion of studies and design activities. |
-| (d) | Authority to carry out improvement. |
-| (e) | Reimbursement. |
-| (f) | Specific projects. |
-| (g) | Treatment of flood damage prevention measures. |
 | [701c.](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md) | Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance. |
 | 701c–1. | Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies. |
 | 701c–2. | Acquisition and sale of land. |
@@ -50,28 +37,22 @@
 | [701i.](%C2%A7%2000701i%20-%20Elimination%20from%20protection%20of%20areas%20subject%20to%20evacuation.md) | Elimination from protection of areas subject to evacuation. |
 | [701j.](%C2%A7%2000701j%20-%20Installation%20in%20dams%20of%20facilities%20for%20future%20development%20of%20hydroelectric%20power.md) | Installation in dams of facilities for future development of hydroelectric power. |
 | [701k.](%C2%A7%2000701k%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md) | Crediting reimbursements for lost, stolen, or damaged property. |
-| 701<i>l</i>, 701<i>l</i>–1. Repealed. |  |
+| 701<i>l</i>, 701<i>l</i>–1. Repealed. |  |
 | [701m.](%C2%A7%2000701m%20-%20Insufficient%20Congressional%20authorization%3B%20preparations%20for%20and%20modification%20of%20project.md) | Insufficient Congressional authorization; preparations for and modification of project. |
 | [701n.](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md) | Emergency response to natural disasters. |
-| (a) | Emergency fund. |
-| (b) | Emergency supplies of drinking water; drought; well construction and water transportation. |
-| (c) | Levee owners manual. |
 | 701<i>o.</i> | Omitted. |
 | [701p.](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md) | Railroad bridge alterations at Federal expense. |
 | [701q.](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md) | Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir. |
 | [701r.](%C2%A7%2000701r%20-%20Protection%20of%20highways%2C%20bridge%20approaches%2C%20public%20works%2C%20and%20nonprofit%20public%20services.md) | Protection of highways, bridge approaches, public works, and nonprofit public services. |
 | 701r–1. | Utilization of public roads. |
-| (a) | Definitions. |
-| (b) | Improvement, reconstruction, and maintenance. |
-| (c) | Replacement roads; construction to higher standards. |
 | [701s.](%C2%A7%2000701s%20-%20Small%20flood%20control%20projects%3B%20appropriations%3B%20amount%20limitation%20for%20single%20locality%3B%20conditions.md) | Small flood control projects; appropriations; amount limitation for single locality; conditions. |
 | [701t.](%C2%A7%2000701t%20-%20Emergency%20fund%20for%20flood%20damage%3B%20amount%3B%20commitments%20to%20be%20fulfilled%20by%20local%20interests.md) | Emergency fund for flood damage; amount; commitments to be fulfilled by local interests. |
 | [701u.](%C2%A7%2000701u%20-%20International%20engineering%20or%20scientific%20conferences%3B%20attendance.md) | International engineering or scientific conferences; attendance. |
 | [702\.](%C2%A7%2000702%20-%20Mississippi%20River.md) | Mississippi River. |
 | [702a.](%C2%A7%2000702a%20-%20Adoption%20of%201927%20project%3B%20execution%3B%20creation%20of%20board%3B%20scope%20of%20authority%3B%20appropriation.md) | Adoption of 1927 project; execution; creation of board; scope of authority; appropriation. |
 | 702a–1. | Modification of project of 1927; adoption. |
-| 702a–11/2. | Further modification of 1927 project; adoption; appropriation. |
-| 702a–13/4. | Further modification; adoption. |
+| 702a–1a. | Further modification of 1927 project; adoption; appropriation. |
+| 702a–1b. | Further modification; adoption. |
 | 702a–2. | Abandonment of Boeuf Floodway. |
 | 702a–3. | Levees; raising and enlarging. |
 | 702a–4. | Fuse-plug levees. |
@@ -83,13 +64,6 @@
 | 702a–10. | Flowage rights and rights-of-way; reimbursement of local authorities; highway crossings; use of properties for national forests or wildlife refuges. |
 | 702a–11. | Morganza Floodway; Eudora Floodway. |
 | 702a–12. | Modified Lower Mississippi River project as of August 18, 1941. |
-| (a) | Alluvial valley, Mississippi River; Yazoo Basin levees; abandonment of Boeuf and Eudora Floodways and Northward Extension. |
-| (b) | Yazoo River project. |
-| (c) | Tensas-Cocodrie backwater area. |
-| (d) | Reimbursement of local authorities for certain expenses. |
-| (e) | Saint Francis River. |
-| (f) | Bayou Rapides, Boeuf, and Cocodrie, Louisiana, improvements. |
-| (g) | Increased authorizations for alluvial valley, Mississippi River. |
 | [702b.](%C2%A7%2000702b%20-%20Local%20contribution%20toward%20cost%20of%20flood%20control%20work.md) | Local contribution toward cost of flood control work. |
 | [702c.](%C2%A7%2000702c%20-%20Expenditures%20for%20construction%20work%3B%20conditions%20precedent%3B%20liability%20for%20damage%20from%20flood%20waters%3B%20condemnation%20proceedings%3B%20floodage%E2%80%A6.md) | Expenditures for construction work; conditions precedent; liability for damage from flood waters; condemnation proceedings; floodage rights. |
 | [702d.](%C2%A7%2000702d%20-%20Flowage%20rights%3B%20condemnation%20proceedings%3B%20benefits%20to%20property.md) | Flowage rights; condemnation proceedings; benefits to property. |
@@ -118,10 +92,6 @@
 | [708\.](%C2%A7%2000708%20-%20Sale%20of%20surplus%20waters%20for%20domestic%20and%20industrial%20uses%3B%20disposition%20of%20moneys.md) | Sale of surplus waters for domestic and industrial uses; disposition of moneys. |
 | [709\.](%C2%A7%2000709%20-%20Regulations%20for%20use%20of%20storage%20waters%3B%20application%20to%20Tennessee%20Valley%20Authority.md) | Regulations for use of storage waters; application to Tennessee Valley Authority. |
 | [709a.](%C2%A7%2000709a%20-%20Information%20on%20floods%20and%20flood%20damage.md) | Information on floods and flood damage. |
-| (a) | Compilation and dissemination. |
-| (b) | Flood prevention coordination. |
-| (c) | Fees. |
-| (d) | Fiscal year limitation on expenditures. |
 | [709b.](%C2%A7%2000709b%20-%20Flood%20hazard%20information.md) | Flood hazard information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -180,8 +150,8 @@
 - [&sect; 00702 - Mississippi River](%C2%A7%2000702%20-%20Mississippi%20River.md)
 - [&sect; 00702a - Adoption of 1927 project; execution; creation of board; scope of authority; appropriation](%C2%A7%2000702a%20-%20Adoption%20of%201927%20project%3B%20execution%3B%20creation%20of%20board%3B%20scope%20of%20authority%3B%20appropriation.md)
 - [&sect; 00702a&#8211;1 - Modification of project of 1927; adoption](%C2%A7%2000702a%E2%80%931%20-%20Modification%20of%20project%20of%201927%3B%20adoption.md)
-- [&sect; 00702a&#8211;11-2 - Further modification of 1927 project; adoption; appropriation](%C2%A7%2000702a%E2%80%9311-2%20-%20Further%20modification%20of%201927%20project%3B%20adoption%3B%20appropriation.md)
-- [&sect; 00702a&#8211;13-4 - Further modification; adoption](%C2%A7%2000702a%E2%80%9313-4%20-%20Further%20modification%3B%20adoption.md)
+- [&sect; 00702a&#8211;1a - Further modification of 1927 project; adoption; appropriation](%C2%A7%2000702a%E2%80%931a%20-%20Further%20modification%20of%201927%20project%3B%20adoption%3B%20appropriation.md)
+- [&sect; 00702a&#8211;1b - Further modification; adoption](%C2%A7%2000702a%E2%80%931b%20-%20Further%20modification%3B%20adoption.md)
 - [&sect; 00702a&#8211;2 - Abandonment of Boeuf Floodway](%C2%A7%2000702a%E2%80%932%20-%20Abandonment%20of%20Boeuf%20Floodway.md)
 - [&sect; 00702a&#8211;3 - Levees; raising and enlarging](%C2%A7%2000702a%E2%80%933%20-%20Levees%3B%20raising%20and%20enlarging.md)
 - [&sect; 00702a&#8211;4 - Fuse-plug levees](%C2%A7%2000702a%E2%80%934%20-%20Fuse-plug%20levees.md)

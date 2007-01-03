@@ -14,7 +14,7 @@ Whenever, on the Administrator's own motion or by petition from the Governor of 
 
 #### (1) Establishment
 
-&emsp;Whenever the Administrator establishes a transport region under subsection (a) of thissection, the Administrator shall establish a transport commission comprised of (at a minimum) each of the following members:
+&emsp;Whenever the Administrator establishes a transport region under subsection (a) of this section, the Administrator shall establish a transport commission comprised of (at a minimum) each of the following members:
 
 &emsp;&emsp;(A) The Governor of each State in the region or the designee of each such Governor.
 
@@ -32,7 +32,7 @@ Whenever, on the Administrator's own motion or by petition from the Governor of 
 
 #### (c) Commission requests
 
-A transport commission established under subsection (b) of this section may request the Administrator to issue a finding under section 7410(k)(5) of this title that the implementation plan for one or more of the States in the transport region is substantially inadequate to meet the requirements of section 7410(a)(2)(D) of this title. The Administrator shall approve, disapprove, or partially approve and partially disapprove such a request within 18 months of its receipt and, to the extent the Administrator approves such request, issue the finding under section 7410(k)(5) of this title at the time of such approval. In acting on such request, the Administrator shall provide an opportunity for public participation and shall address each specific recommendation made by the commission. Approval or disapproval of such a request shall constitute final agency action within the meaning of section 7607(b) of this title.
+A transport commission established under subsection (b) of this section may request the Administrator to issue a finding under section 7410(k)(5) of this title that the implementation plan for one or more of the States in the transport region is substantially inadequate to meet the requirements of section 7410(a)(2)(D) of this title. The Administrator shall approve, disapprove, or partially approve and partially disapprove such a request within 18 months of its receipt and, to the extent the Administrator approves such request, issue the finding under section 7410(k)(5) of this title at the time of such approval. In acting on such request, the Administrator shall provide an opportunity for public participation and shall address each specific recommendation made by the commission. Approval or disapproval of such a request shallconstitute final agency action within the meaning of section 7607(b) of this title.
 
 (July 14, 1955, ch. 360, title I, §176A, as added Pub. L. 101–549, title I, §102(f)(1), Nov. 15, 1990, 104 Stat. 2419.)
 

@@ -8,19 +8,19 @@ In the case of States whose laws or regulations are in accordance with subsectio
 
 For purposes of subsection (a) of this section, the laws or regulations of a State are in accordance with this subsection if under such laws or regulations (including programs carried out pursuant to the discretion of State officials) the following policies are in effect:
 
-&emsp;(1) The State requires that the public health officer of the State carry out a program of partner notification to inform partners of individuals with HIV disease that the partners may have been exposed to the disease.
+&emsp;(1) The State requires that the public health officer of the State carry out a program of partner notification to inform partners of individuals with HIV/AIDS that the partners may have been exposed to the disease.
 
-&emsp;(2)(A) In the case of a health entity that provides for the performance on an individual of a test for HIV disease, or that treats the individual for the disease, the State requires, subject to subparagraph (B), that the entity confidentially report the positive test results to the State public health officer in a manner recommended and approved by the Director of the Centers for Disease Control and Prevention, together with such additional information as may be necessary for carrying out such program.
+&emsp;(2)(A) In the case of a health entity that provides for the performance on an individual of a test for HIV/AIDS, or that treats the individual for the disease, the State requires, subject to subparagraph (B), that the entity confidentially report the positive test results to the State public health officer in a manner recommended and approved by the Director of the Centers for Disease Control and Prevention, together with such additional information as may be necessary for carrying out such program.
 
-&emsp;(B) The State may provide that the requirement of subparagraph (A) does not apply to the testing of an individual for HIV disease if the individual underwent the testing through a program designed to perform the test and provide the results to the individual without the individual disclosing his or her identity to the program. This subparagraph may not be construed as affecting the requirement of subparagraph (A) with respect to a health entity that treats an individual for HIV disease.
+&emsp;(B) The State may provide that the requirement of subparagraph (A) does not apply to the testing of an individual for HIV/AIDS if the individual underwent the testing through a program designed to perform the test and provide the results to the individual without the individual disclosing his or her identity to the program. This subparagraph may not be construed as affecting the requirement of subparagraph (A) with respect to a health entity that treats an individual for HIV/AIDS.
 
 &emsp;(3) The program under paragraph (1) is carried out in accordance with the following:
 
-&emsp;&emsp;(A) Partners are provided with an appropriate opportunity to learn that the partners have been exposed to HIV disease, subject to subparagraph (B).
+&emsp;&emsp;(A) Partners are provided with an appropriate opportunity to learn that the partners have been exposed to HIV/AIDS, subject to subparagraph (B).
 
 &emsp;&emsp;(B) The State does not inform partners of the identity of the infected individuals involved.
 
-&emsp;&emsp;(C) Counseling and testing for HIV disease are made available to the partners and to infected individuals, and such counseling includes information on modes of transmission for the disease, including information on prenatal and perinatal transmission and preventing transmission.
+&emsp;&emsp;(C) Counseling and testing for HIV/AIDS are made available to the partners and to infected individuals, and such counseling includes information on modes of transmission for the disease, including information on prenatal and perinatal transmission and preventing transmission.
 
 &emsp;&emsp;(D) Counseling of infected individuals and their partners includes the provision of information regarding therapeutic measures for preventing and treating the deterioration of the immune system and conditions arising from the disease, and the provision of other prevention-related information.
 
@@ -38,13 +38,23 @@ For purposes of subsection (a) of this section, the laws or regulations of a Sta
 
 &emsp;(5) The State cooperates with such Director in carrying out a national program of partner notification, including the sharing of information between the public health officers of the States.
 
-#### (c) Reporting system for cases of HIV disease; preference in making grants
+#### (c) Reporting system for cases of HIV/AIDS; preference in making grants
 
-In making grants under subsection (a) of this section, the Secretary shall give preference to States whose reporting systems for cases of HIV disease produce data on such cases that is sufficiently accurate and reliable for use for purposes of section 300ff–28(a)(2)(D)(i) of this title.
+In making grants under subsection (a) of this section, the Secretary shall give preference to States whose reporting systems for cases of HIV/AIDS produce data on such cases that is sufficiently accurate and reliable for use for purposes of section 300ff–28(a)(2)(D)(i) of this title.
 
 #### (d) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.
+For the purpose of carrying out this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009.
 
-(July 1, 1944, ch. 373, title XXVI, §2631, as added Pub. L. 106–345, title II, §221, Oct. 20, 2000, 114 Stat. 1343.)
+(July 1, 1944, ch. 373, title XXVI, §2631, as added Pub. L. 106–345, title II, §221, Oct. 20, 2000, 114 Stat. 1343; amended Pub. L. 109–415, title II, §210, title VII, §702(3), Dec. 19, 2006, 120 Stat. 2803, 2820.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+
+#### Amendments
+
+2006—Subsecs. (b), (c). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+
+Subsec. (d). Pub. L. 109–415, §210, substituted “there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009.” for “there are authorized to be appropriated $30,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.”
 

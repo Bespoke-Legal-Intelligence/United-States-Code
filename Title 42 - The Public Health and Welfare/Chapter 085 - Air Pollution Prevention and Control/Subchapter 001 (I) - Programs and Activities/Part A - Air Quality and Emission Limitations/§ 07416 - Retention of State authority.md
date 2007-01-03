@@ -18,7 +18,7 @@ Section was formerly classified to section 1857d–1 of this title.
 
 1974—Pub. L. 93–319 inserted reference to section 1857c–10(c), (e), and (f).
 
-1970—Pub. L. 91–604, §4(c), substituted provisions which authorized any State or political subdivisionthereof to adopt or enforce, except as otherwise provided, emission standards or limitations under the specified conditions, or any requirement respecting control or abatement of air pollution, for provisions which authorized any State, political subdivision, or intermunicipal or interstate agency to adopt standards and plans to achieve a higher level of air quality than approved by the Secretary.
+1970—Pub. L. 91–604, §4(c), substituted provisions which authorized any State or political subdivision thereof to adopt or enforce, except as otherwise provided, emission standards or limitations under the specified conditions, or any requirement respecting control or abatement of air pollution, for provisions which authorized any State, political subdivision, or intermunicipal or interstate agency to adopt standards and plans to achieve a higher level of air quality than approved by the Secretary.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

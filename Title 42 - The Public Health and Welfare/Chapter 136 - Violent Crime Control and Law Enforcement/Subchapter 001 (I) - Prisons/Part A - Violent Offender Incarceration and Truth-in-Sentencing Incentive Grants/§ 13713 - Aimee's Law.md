@@ -48,7 +48,7 @@ In order to receive an amount under subsection (c) of this section, the chief ex
 
 #### (1) In general
 
-&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, any amount under subsection (c) of this section shall be derived by reducing the amount of Federal law enforcement assistance funds received by the State pursuant to section 3756 of this title that convicted such individual of the prior offense before the distribution of the funds to the State. No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31 <sup>1</sup>
+&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, any amount under subsection (c) of this section shall be derived by reducing the amount of Federal law enforcement assistance funds received by the State pursuant to section 3755 of this title that convicted such individual of the prior offense before the distribution of the funds to the State. No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31 <sup>1</sup>
 
 #### (2) Payment schedule
 
@@ -100,7 +100,7 @@ The Attorney General shall—
 
 This section shall take effect on January 1, 2002.
 
-(Pub. L. 106–386, div. C, §2001, Oct. 28, 2000, 114 Stat. 1539; Pub. L. 109–162, title XI, §1170, Jan. 5, 2006, 119 Stat. 3122.)
+(Pub. L. 106–386, div. C, §2001, Oct. 28, 2000, 114 Stat. 1539; Pub. L. 109–162, title XI, §1170, Jan. 5, 2006, 119 Stat. 3122; Pub. L. 109–271, §8(m), Aug. 12, 2006, 120 Stat. 767.)
 
 #### Codification
 
@@ -112,7 +112,7 @@ Section was enacted as Aimee's Law and also as part of the Victims of Traffickin
 
 2006—Subsec. (b). Pub. L. 109–162, §1170(1), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in this section” for “In this section” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 109–162, §1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State” the first place appearing, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
+Subsec. (c)(1). Pub. L. 109–162, §1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State” the first place appearing, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance fundsof the State that convicted that individual of the subsequent offense”.
 
 Subsec. (c)(2). Pub. L. 109–162, §1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State”, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to each State that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
 
@@ -128,7 +128,9 @@ Subsec. (c)(3)(B). Pub. L. 109–162, §1170(3)(C), inserted “not” before �
 
 Subsec. (d). Pub. L. 109–162, §1170(4), struck out “transferred” after “receive an amount”.
 
-Subsec. (e)(1). Pub. L. 109–162, §1170(1), (4), (5), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, any amount” for “Any amount transferred”, inserted “pursuant to section 3756 of this title” before “that convicted”, inserted “No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31” at end, and struck out former last sentence which read as follows: “The Attorney General shall provide the State with an opportunity to select the specific Federal law enforcement assistance funds to be so reduced (other than Federal crime victim assistance funds).”
+Subsec. (e)(1). Pub. L. 109–271 substituted “section 3755” for “section 3756”.
+
+Pub. L. 109–162, §1170(1), (4), (5), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, any amount” for “Any amount transferred”, inserted “pursuant to section 3756 of this title” before “that convicted”, inserted “No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31” at end, and struck out former last sentence which read as follows: “The Attorney General shall provide the State with an opportunity to select the specific Federal law enforcement assistance funds to be so reduced (other than Federal crime victim assistance funds).”
 
 Subsec. (g). Pub. L. 109–162, §1170(1), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, this section does not apply” for “This section does not apply”.
 

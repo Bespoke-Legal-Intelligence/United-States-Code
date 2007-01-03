@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) establish procedures under which the general public may make recommendations to the Board regarding the inclusion of films in the National Film Registry; and
 
-&emsp;&emsp;(D) determine which films satisfy the criteria established under subparagraph (B) andqualify for inclusion in the National Film Registry, except that the Librarian shall not select more than 25 films each year for inclusion in the Registry.
+&emsp;&emsp;(D) determine which films satisfy the criteria established under subparagraph (B) and qualify for inclusion in the National Film Registry, except that the Librarian shall not select more than 25 films each year for inclusion in the Registry.
 
 #### (2) Publication of films in Registry
 

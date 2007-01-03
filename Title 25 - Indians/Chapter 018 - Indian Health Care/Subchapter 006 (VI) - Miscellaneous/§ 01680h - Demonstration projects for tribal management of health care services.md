@@ -12,7 +12,7 @@ During the period in which a demonstration project established under subsection 
 
 #### (c) Waiver of procurement laws
 
-The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a) of this section, but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
+The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a) of thissection, but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
 
 #### (d) Termination; evaluation and report
 

@@ -26,7 +26,7 @@ Additional Authority for Personal Services Contracts.—(1) In addition to the a
 
 &emsp;(A) are to be provided by individuals outside the United States, regardless of their nationality, and are determined by the Secretary to be necessary and appropriate for supporting the activities and programs of the Department of Defense outside the United States;
 
-&emsp;(B) directly support the mission of a defense intelligence component or counter-intelligence organization of the Department of Defense; or
+&emsp;(B) directly support the mission of a defense intelligence component or counter-intelli- gence organization of the Department of Defense; or
 
 &emsp;(C) directly support the mission of the special operations command of the Department of Defense.
 

@@ -46,21 +46,17 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 &emsp;&emsp;(E) provide increased emphasis on the concerns of women and minority populations in training programs, service delivery programs, and research endeavors of the Institute.
 
-#### (f) Funding
-
-#### (1) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated $675,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
-
-#### (2) Allocation for health services research
-
-&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Director shall obligate not less than 15 percent to carry outhealth services research relating to mental health.
-
-(July 1, 1944, ch. 373, title IV, §464R, as added Pub. L. 102–321, title I, §124(a), July 10, 1992, 106 Stat. 364; amended Pub. L. 102–352, §2(a)(5), Aug. 26, 1992, 106 Stat. 938.)
+(July 1, 1944, ch. 373, title IV, §464R, as added Pub. L. 102–321, title I, §124(a), July 10, 1992, 106 Stat. 364; amended Pub. L. 102–352, §2(a)(5), Aug. 26, 1992, 106 Stat. 938; Pub. L. 109–482, title I, §103(b)(36), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### Amendments
 
+2007—Subsec. (f). Pub. L. 109–482 struck out subsec. (f) which authorized appropriations and provided that at least 15% of the appropriated amounts were to carry out health services research relating to mental health.
+
 1992—Subsec. (f)(1). Pub. L. 102–352 struck out “other than section 285<i>o</i>–4 of this title” after “this subpart”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -69,10 +65,6 @@ Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendm
 #### Effective Date
 
 Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
-
-#### Required Allocations for Health Services Research
-
-With respect to fiscal year 1993 allocations for health services research required in subsec. (f)(2) of this section, the term “15 percent” deemed to be 12 percent, see section 2016(b) of Pub. L. 103–43, set out as a note under section 285n of this title.
 
 #### Study of Barriers to Insurance Coverage of Treatment for Mental Illness and Substance Abuse
 

@@ -60,7 +60,7 @@ Subject to the succeeding provisions of this section, with respect to a State an
 
 #### (d) Waivers
 
-In the case of a waiver of a provision of part A of subchapter IV of this chapter in effect with respect to a State as of July 16, 1996, or which is submitted to the Secretary before August 22, 1996, and approved by the Secretary on or before July 1, 1997, if the waiver affects eligibility ofindividuals for medical assistance under this subchapter, such waiver may (but need not) continue to be applied, at the option of the State, in relation to this subchapter after the date the waiver would otherwise expire.
+In the case of a waiver of a provision of part A of subchapter IV of this chapter in effect with respect to a State as of July 16, 1996, or which is submitted to the Secretary before August 22, 1996, and approved by the Secretary on or before July 1, 1997, if the waiver affects eligibility of individuals for medical assistance under this subchapter, such waiver may (but need not) continue to be applied, at the option of the State, in relation to this subchapter after the date the waiver would otherwise expire.
 
 #### (e) State option to use 1 application form
 
@@ -106,7 +106,7 @@ For effective date, with respect to a State, of title I of the Personal Responsi
 
 #### Prior Provisions
 
-A prior section 1931 of act Aug. 14, 1935, was renumbered section 1936, and is classified to section 1396v of this title.
+A prior section 1931 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
 

@@ -50,7 +50,7 @@
 
 &emsp;(12) The term “variety” means a subdivision of a kind which is characterized by growth, plant, fruit, seed, or other characters by which it can be differentiated from other sorts of the same kind, for example, Marquis wheat, Flat Dutch cabbage, Manchu soybeans, Oxheart carrot, and so forth.
 
-&emsp;(13) The term “type” means either (A) a group of varieties so nearly similar that the individual varieties cannot be clearly differentiated except under special conditions, or (B) when used with a variety name means seed of the variety named which may be mixed with seed of other varieties of the same kind and ofsimilar character, the manner of and the circumstances connected with the use of the designation to be governed by rules and regulations prescribed under section 1592 of this title.
+&emsp;(13) The term “type” means either (A) a group of varieties so nearly similar that the individual varieties cannot be clearly differentiated except under special conditions, or (B) when used with a variety name means seed of the variety named which may be mixed with seed of other varieties of the same kind and of similar character, the manner of and the circumstances connected with the use of the designation to be governed by rules and regulations prescribed under section 1592 of this title.
 
 &emsp;(14) The term “germination” means the percentage of seeds capable of producing normal seedlings under ordinarily favorable conditions (not including seeds which produce weak, malformed, or obviously abnormal sprouts), determined by methods prescribed under section 1593 of this title.
 

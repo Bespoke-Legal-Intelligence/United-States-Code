@@ -28,11 +28,11 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 &emsp;(9) The Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\], by the Small Business Administration, with respect to small business investment companies.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning givento them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (b) Violations of subchapter deemed violations of preexisting statutory requirements; additional agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) of this section for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
+For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) of this section for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibitionof discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
@@ -103,6 +103,10 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as an Effective Date note under section 1691 of this title.
+
+#### Transfer of Functions
+
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

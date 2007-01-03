@@ -8,7 +8,7 @@ In order to facilitate the administration of the National Park System, the Secre
 
 #### (2) Utility facilities; erection and maintenance
 
-&emsp;The erection and maintenance of fire protection facilities, water lines, telephone lines, electric lines, and other utility facilities adjacent to any area of the said National Park System, where necessary, to provide service in such area.
+&emsp;The erection and maintenance of fire protection facilities, water lines, telephone lines,electric lines, and other utility facilities adjacent to any area of the said National Park System, where necessary, to provide service in such area.
 
 #### (3) Transportation of employees of Carlsbad Caverns National Park; rates
 

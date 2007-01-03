@@ -4,9 +4,6 @@
 | :--- | ---: |
 | 5501 to 5505. Repealed. |  |
 | [5506\.](%C2%A7%2005506%20-%20Water%20policy%20with%20respect%20to%20agrichemicals.md) | Water policy with respect to agrichemicals. |
-| (a) | Authority. |
-| (b) | Effect on existing authority. |
-| (c) | Participation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

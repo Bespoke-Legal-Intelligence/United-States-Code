@@ -12,7 +12,7 @@ Content.—The statement required under subsection (a) shall certify that the pe
 
 Criminal Penalties.—Whoever—
 
-&emsp;(1) certifies any statement as set forth in subsections (a) and (b) of this section knowingthat the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $1,000,000 or imprisoned not more than 10 years, or both; or
+&emsp;(1) certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $1,000,000 or imprisoned not more than 10 years, or both; or
 
 &emsp;(2) willfully certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $5,000,000, or imprisoned not more than 20 years, or both.
 

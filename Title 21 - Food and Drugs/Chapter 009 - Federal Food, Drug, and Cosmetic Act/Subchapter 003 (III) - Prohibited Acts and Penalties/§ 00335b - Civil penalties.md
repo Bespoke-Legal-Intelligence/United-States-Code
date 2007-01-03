@@ -24,7 +24,7 @@ Any person that the Secretary finds—
 
 &emsp;(7) is an individual debarred under section 335a of this title and, during the period of debarment, provided services in any capacity to a person that had an approved or pending drug product application,
 
-> shall be liable to the United States for a civil penalty for each such violation in an amount not to exceed $250,000 in the case of an individual and $1,000,000 in the case of any other person.
+> shall be liable to the United States for a civil penalty for each such violation in an amountnot to exceed $250,000 in the case of an individual and $1,000,000 in the case of any other person.
 
 #### (b) Procedure
 
@@ -52,7 +52,7 @@ Any person that the Secretary finds—
 
 #### (c) Judicial review
 
-Any person that is the subject of an adverse decision under subsection (b)(1)(A) of this section may obtain a review of such decision by the United States Court of Appeals for the Districtof Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+Any person that is the subject of an adverse decision under subsection (b)(1)(A) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 #### (d) Recovery of penalties
 

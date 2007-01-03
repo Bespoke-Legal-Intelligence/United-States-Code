@@ -26,7 +26,3 @@ Section was enacted as part of the EURATOM Cooperation Act of 1958 which compris
 
 1961—Pub. L. 87–206 substituted “Nine kilograms” for “One kilogram” of plutonium and inserted item reading “Thirty kilograms of uranium 233” and “or agreements”.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

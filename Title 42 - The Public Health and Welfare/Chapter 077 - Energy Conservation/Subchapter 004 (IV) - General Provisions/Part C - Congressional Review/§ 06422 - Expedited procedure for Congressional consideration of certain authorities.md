@@ -70,7 +70,7 @@ For the purpose of subsection (b) of this section—
 
 > &emsp;An amendment described in this subparagraph shall not be amendable.
 
-&emsp;(C) If one House receives from the other House a resolution with respect to a rationing contingency plan, then the following procedure applies:
+&emsp;(C) If one House receives from the other House a resolution with respect to a rationingcontingency plan, then the following procedure applies:
 
 &emsp;&emsp;(i) the resolution of the other House with respect to such plan shall not be referred to a committee;
 
@@ -96,7 +96,7 @@ Section 6261 of this title, referred to in subsecs. (a), (b)(1), (2)(A), and (d)
 
 Subsec. (c)(2). Pub. L. 96–102, §103(b)(2)(B), substituted “calendar-day period involved” for “60-calendar-day period”.
 
-Subsec. (d)(2). Pub. L. 96–102, §§103(b)(2)(C), 105(a)(4), designated existing provisions as subpar. (A), substituted “For purposes of applying this section with respect to any energy conservation contingency plan” for“For purposes of this subsection” and “energy conservation contingency plan” for “contingency plan” in two places, and added subpar. (B).
+Subsec. (d)(2). Pub. L. 96–102, §§103(b)(2)(C), 105(a)(4), designated existing provisions as subpar. (A), substituted “For purposes of applying this section with respect to any energy conservation contingency plan” for “For purposes of this subsection” and “energy conservation contingency plan” for “contingency plan” in two places, and added subpar. (B).
 
 Subsec. (d)(4)(A). Pub. L. 96–102, §103(b)(2)(D), inserted “in the case of any energy conservation contingency plan or at the end of 10 calendar days after its referral in the case of any rationing contingency plan” after “after its referral”.
 

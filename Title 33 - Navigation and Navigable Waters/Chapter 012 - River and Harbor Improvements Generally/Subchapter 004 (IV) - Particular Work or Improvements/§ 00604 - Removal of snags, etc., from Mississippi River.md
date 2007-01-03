@@ -16,7 +16,7 @@ The words “the sum of $100,000” are substituted for “the amounts appropria
 
 #### Amendments
 
-1954—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in the removal of snags, etc., as provided in this section, should accompany the annual report of the Chief of Engineers.
+1954—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in theremoval of snags, etc., as provided in this section, should accompany the annual report of the Chief of Engineers.
 
 #### Change of Name
 
@@ -24,5 +24,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31,Money and Finance, repealed the permanent appropriation under the title “Removing obstructions in Mississippi, Atchafalaya, and Old Rivers (fiscal year) (8–961.58)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Removing obstructions in Mississippi, Atchafalaya, and Old Rivers (fiscal year) (8–961.58)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

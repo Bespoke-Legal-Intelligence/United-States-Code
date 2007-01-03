@@ -1,6 +1,6 @@
 ### §2285. Budget prohibitions
 
-No advisory committee may expend funds in excess of its estimated annual operating costs by more than 10 per centum or $500, whichever is greater, until it provides the Secretary with an explanation of the need for the additional expenditure and the Secretary approves such additional expenditure.
+No advisory committee may expend funds in excess of its estimated annual operating costsby more than 10 per centum or $500, whichever is greater, until it provides the Secretary with an explanation of the need for the additional expenditure and the Secretary approves such additional expenditure.
 
 (Pub. L. 95–113, title XVIII, §1805, Sept. 29, 1977, 91 Stat. 1042; Pub. L. 97–98, title XI, §1116(a), Dec. 22, 1981, 95 Stat. 1271.)
 

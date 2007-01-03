@@ -32,7 +32,7 @@ An operator shall—
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–185 applicable with respect to the production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 applicable with respect to the production of oil and gas after the first dayof the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Applicability of 1996 Amendment
 

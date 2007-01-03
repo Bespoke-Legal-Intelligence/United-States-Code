@@ -58,7 +58,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 &emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a) of this section, or
 
-&emsp;&emsp;(B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subjectof a violation under subsection (a) of this section.
+&emsp;&emsp;(B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subject of a violation under subsection (a) of this section.
 
 > &emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 

@@ -160,7 +160,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (2) Application
 
-&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless the agency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
+&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless theagency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
 
 &emsp;&emsp;(A) a description of the manner in which an interpreter training program will be developed and operated during the 5-year period following the date on which a grant is received by the applicant under this subsection;
 
@@ -184,7 +184,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (A) Projects
 
-&emsp;&emsp;Subject to subparagraph (B), at least 15 percent of the sums appropriated to carryout this section shall be allocated to designated State agencies to be used, directly or indirectly, for projects for in-service training for rehabilitation personnel, consistent with the needs identified through the comprehensive system for personnel development required by section 721(a)(7) of this title, including projects designed—
+&emsp;&emsp;Subject to subparagraph (B), at least 15 percent of the sums appropriated to carry out this section shall be allocated to designated State agencies to be used, directly or indirectly, for projects for in-service training for rehabilitation personnel, consistent with the needs identified through the comprehensive system for personnel development required by section 721(a)(7) of this title, including projects designed—
 
 &emsp;&emsp;&emsp;(i) to address recruitment and retention of qualified rehabilitation professionals;
 

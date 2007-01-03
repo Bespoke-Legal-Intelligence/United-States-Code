@@ -20,7 +20,7 @@ Section 3241, Pub. L. 89–136, title IX, §901, as added Pub. L. 93–423, §12
 
 Section 3242, Pub. L. 89–136, title IX, §902, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164, defined “eligible recipient”.
 
-Section 3243, Pub. L. 89–136, title IX, §903, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164; amendedPub. L. 94–487, title I, §121(b), (c), Oct. 12, 1976, 90 Stat. 2336, authorized grants to eligible recipients.
+Section 3243, Pub. L. 89–136, title IX, §903, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164; amended Pub. L. 94–487, title I, §121(b), (c), Oct. 12, 1976, 90 Stat. 2336, authorized grants to eligible recipients.
 
 Section 3244, Pub. L. 89–136, title IX, §904, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1165; amended Pub. L. 96–470, title II, §201(c), Oct. 19, 1980, 94 Stat. 2241, required annual reports by recipients and Secretary.
 

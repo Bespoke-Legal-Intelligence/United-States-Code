@@ -2,7 +2,7 @@
 
 (a) An eligible person or veteran shall receive the benefits of this chapter and chapters 34 and 35 of this title while enrolled in a course of education offered by an educational institution only if (1) such course is approved as provided in this chapter and chapters 34 and 35 of this title by the State approving agency for the State where such educational institution is located, or by the Secretary, or (2) such course is approved (A) for the enrollment of the particular individual under the provisions of section 3536 of this title or (B) for special restorative training under subchapter V of chapter 35 of this title. Approval of courses by State approving agencies shall be in accordance with the provisions of this chapter and chapters 34 and 35 of this title and such other regulations and policies as the State approving agency may adopt. Each State approving agency shall furnish the Secretary with a current list of educational institutions specifying courses which it has approved, and, in addition to such list, it shall furnish such other information to the Secretary as it and the Secretary may determine to be necessary to carry out the purposes of this chapter and chapters 34 and 35 of this title. Each State approving agency shall notify the Secretary of the disapproval of any course previously approved and shall set forth the reasons for such disapproval.
 
-(b) The Secretary shall be responsible for the approval of courses of education offered by any agency of the Federal Government authorized under other laws to supervise such education. The Secretary may approve any course in any other educational institution in accordance with the provisions of this chapter and chapters 34 and 35 of this title.
+(b) The Secretary shall be responsible for the approval of courses of education offered by anyagency of the Federal Government authorized under other laws to supervise such education. The Secretary may approve any course in any other educational institution in accordance with the provisions of this chapter and chapters 34 and 35 of this title.
 
 (c)(1) In the case of programs of apprenticeship where—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) the training establishment is a carrier directly engaged in interstate commerce which provides such training in more than one State,
 
-> the Secretary shall act as a “State approving agency” as such term is used in section3687(a)(1) of this title and shall be responsible for the approval of all such programs.
+> the Secretary shall act as a “State approving agency” as such term is used in section 3687(a)(1) of this title and shall be responsible for the approval of all such programs.
 
 (2) The period of a program of apprenticeship may be determined based upon a specific period of time (commonly referred to as a “time-based program”), based upon the demonstration of successful mastery of skills (commonly referred to as a “competency-based program”), or based upon a combination thereof.
 

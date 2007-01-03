@@ -8,7 +8,7 @@ This section may be cited as the “Atomic Testing Liability Act”.
 
 #### (1) Remedy
 
-&emsp;The remedy against the United States provided by sections 1346(b) and 2672 of title 28, by the Act of March 9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790), as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
+&emsp;The remedy against the United States provided by sections 1346(b) and 2672 of title 28, by the Act of March 9, 1920 (46 U.S.C. App. 741–752),<sup>1</sup> or by the Act of March 3, 1925 (46 U.S.C. App. 781–790),<sup>1</sup> as appropriate, for injury, loss of property, personal injury, or death shall apply to any civil action for injury, loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor in carrying out an atomic weapons testing program under a contract with the United States.
 
 #### (2) Exclusivity
 
@@ -24,15 +24,15 @@ The provisions of this section shall apply to any action, within the provisions 
 
 #### (e) “Contractor” defined
 
-For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
+For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such termalso includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
 
 (Pub. L. 107–314, div. D, title XLVIII, §4803, formerly Pub. L. 101–510, div. C, title XXXI, §3141, Nov. 5, 1990, 104 Stat. 1837; renumbered Pub. L. 107–314, div. D, title XLVIII, §4803, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(4), Nov. 24, 2003, 117 Stat. 1783.)
 
 #### References in Text
 
-Act of March 9, 1920, referred to in subsec. (b)(1), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, as amended, popularly known as the Suits in Admiralty Act, which is classified generally to chapter 20 (§741 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see Short Title note set out under section 741 of Title 46, Appendix, and Tables.
+The Act of March 9, 1920, referred to in subsec. (b)(1), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, commonly known as the “Suits in Admiralty Act”, which was classified generally to chapter 20 (§§741 to 743, 744 to 752) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 309 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 30901 of Title 46 provides that chapter 309 of Title 46 may be cited as the Suits in Admiralty Act. For disposition of sections of former Title 46, Appendix, to Title 46, see Disposition Table preceding section 101 of Title 46.
 
-Act of March 3, 1925, referred to in subsec. (b)(1), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, as amended, popularly known as the Public Vessels Act, which is classified generally to chapter 22 (§781 et seq.) of Title 46, Appendix. For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 46, Appendix, and Tables.
+The Act of March 3, 1925, referred to in subsec. (b)(1), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, commonly known as the “Public Vessels Act”, which was classified generally to chapter 22 (§§781 to 790) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 311 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 31101 of Title 46 provides that chapter 311 of Title 46 may be cited as the Public Vessels Act. For disposition of sections of former Title 46, Appendix, to Title 46, see Disposition Table preceding section 101 of Title 46.
 
 #### Codification
 
@@ -43,4 +43,6 @@ Section was formerly classified to section 2212 of Title 42, The Public Health a
 2003—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
 
 Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, which for purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ Employment Assistance Centers.—The Secretary of Defense shall establish perman
 
 (c)
 
-Information to Civilian Entities.—For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
+Information to Civilian Entities.—For the purpose of assisting members covered bysubsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
 
 (d)
 
@@ -44,83 +44,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 
-Pub. L. 103–160, div. A, title XIII, §1337, Nov. 30, 1993, 107 Stat. 1805, provided that:
-
-“(a)
-
-Establishment.—The Secretary of Defense may establish a demonstration program to promote the training and employment of veterans in the construction and hazardous waste remediation industries. Using funds made available to carry out this section the Secretary shall make grants under the demonstration program to organizations that meet the eligibility criteria specified in subsection (b).
-
-“(b)
-
-Grant Eligibility Criteria.—An organization is eligible to receive a grant from the Secretary under subsection (a) if it—
-
-&emsp;“(1) demonstrates, to the satisfaction of the Secretary, an ability to recruit and counsel veterans for participation in the demonstration program under this section;
-
-&emsp;“(2) has entered into an agreement with a joint labor-management training fund established consistent with section 8(f) of the National Labor Relations Act (29 U.S.C. 158(f)) to implement and operate a training and employment program for veterans;
-
-&emsp;“(3) agrees under the agreement referred to in paragraph (2) to use grant funds to carry out a program that will provide eligible veterans with training for employment in the construction and hazardous waste remediation industries;
-
-&emsp;“(4) provides such training for an eligible veteran for not more than 18 months;
-
-&emsp;“(5) demonstrates actual experience in providing training for veterans under an agreement referred to in paragraph (2);
-
-&emsp;“(6) agrees to make, along with all subgrantees, a substantial in-kind contribution (as determined by the Secretary of Defense) from non-Federal sources to the demonstration program under this section; and
-
-&emsp;“(7) gives its assurances, to the satisfaction of the Secretary, that full time, permanent jobs will be available for individuals successfully completing the training program, with a special emphasis on jobs with employers in construction and hazardous waste remediation on Department of Defense facilities.
-
-“(c)
-
-Eligible Veterans.—An individual is an eligible veteran for the purposes of this section if the individual—
-
-&emsp;“(1)(A) served in the active military, naval, or air service for a period of at least two years;
-
-&emsp;“(B) was discharged or released from active duty because of a service-connected disability; or
-
-&emsp;“(C) is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under the laws administered by the Secretary of Veterans Affairs for a disability rated at 30 percent or more; and
-
-&emsp;“(2) was discharged or released on or after August 2, 1990, under conditions other than dishonorable.
-
-“(d)
-
-Preference.—In carrying out the demonstration program under this section, the Secretary shall ensure that a preference is given to eligible veterans who had a primary or secondary occupational specialty in the Armed Forces that (as determined under regulations prescribed by the Secretary and in effect before the date of such separation) is not readily transferable to the civilian work force.
-
-“(e)
-
-Hazardous Waste Operations Training Goal.—It is the sense of Congress that at least 20 percent of the total number of veterans completing training under the demonstration program under this section should complete the training required—
-
-&emsp;“(1) for certification under section 126 of the Superfund Amendments and Reauthorization Act of 1986 \[Pub. L. 99–499\] (29 U.S.C. 655 note); and
-
-&emsp;“(2) under any other Federal law which requires certification for employees engaged in hazardous waste remediation operations.
-
-“(f)
-
-Use of Funds.—Funds made available to carry out this section may only be used for tuition and stipends to cover the living and travel expenses of participants, except that the Secretary may provide that not more than a total of four percent of all the funds made available under this section may be used for administrative expenses of grantees and subgrantees.
-
-“(g)
-
-Limitation on Tuition Charged.—The amount of tuition charged eligible veterans participating in a training program funded under the demonstration program may not exceed the amount of tuition charged to nonveterans participating in programs substantially similar to that training program.
-
-“(h)
-
-Limitation on Expenditures Per Participant.—Of the funds made available to carry out this section—
-
-&emsp;“(1) not more than $1,000 may be expended with respect to each veteran participating in the construction phase of the demonstration program; and
-
-&emsp;“(2) not more than an additional $1,000 may be expended with respect to each veteran participating in the hazardous waste remediation phase of the demonstration program, except that the Secretary may authorize an additional $300 for the training of a veteran participating in such phase if the Secretary determines that such additional amount is necessary because of the type of training needed for the particular kind of hazardous waste remediation involved.
-
-“(i)
-
-Reports.—(1) Not later than November 1, 1994, the Secretary shall submit to Congress an interim report describing the manner in which the demonstration program under this section is being carried out, including a detailed description of the number of grants made, the number of veterans involved, the kinds of training received, and any job placements that have occurred or that are anticipated.
-
-“(2) Not later than December 31, 1995, the Secretary shall submit to Congress a final report containing a description of the results of the demonstration program with a detailed description of the number of grants made, the number of veterans involved, the number of veterans who completed the program, the number of veterans who were placed in jobs, the number of veterans who failed to complete the program along with the reasons for such failure, and any recommendations the Secretary considers to be appropriate.
-
-“(j)
-
-Definitions.—For purposes of this section, the terms ‘veteran’, ‘service-connected’, ‘active duty’, and ‘active military, naval, or air service’ have the meanings given such terms in paragraphs (2), (16), (21), and (24), respectively, of section 101 of title 38, United States Code.
-
-“(k)
-
-Termination.—Not later than October 1, 1994, the Secretary shall obligate, in accordance with the provisions of this section, the funds made available to carry out the demonstration program under this section.”
+Pub. L. 103–160, div. A, title XIII, §1337, Nov. 30, 1993, 107 Stat. 1805, authorized the Secretary of Defense to establish a demonstration program to promote training and employment of veterans in construction and hazardous waste remediation industries and to make grants under the program to organizations that had met certain eligibility criteria, and directed the Secretary to obligate the funds to carry out the program not later than Oct. 1, 1994, and to submit to Congress interim and final reports not later than Dec. 31, 1995.
 
 #### Improved Coordination of Job Training and Placement Programs for Members of Armed Forces
 
@@ -232,7 +156,7 @@ Purpose.—The purpose of this subtitle is to provide additional means by which 
 
 “(a)
 
-Establishment.—Not later than 60 days after the date of enactment of this Act \[Oct. 23, 1992\], theSecretary shall carry out a program in accordance with this subtitle to assist eligible persons in obtaining employment through participation in programs of significant training for employment in stable and permanent positions. The Secretary may enter into an agreement with the Secretary of Veterans Affairs, the Secretary of Labor, or both, for the implementation of the program. The program shall be carried out through payments to employers who employ and train eligible persons in such positions. Such payments shall be made to assist such employers in defraying the costs of necessary training.
+Establishment.—Not later than 60 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary shall carry out a program in accordance with this subtitle to assist eligible persons in obtaining employment through participation in programs of significant training for employment in stable and permanent positions. The Secretary may enter into an agreement with the Secretary of Veterans Affairs, the Secretary of Labor, or both, for the implementation of the program. The program shall be carried out through payments to employers who employ and train eligible persons in such positions. Such payments shall be made to assist such employers in defraying the costs of necessary training.
 
 “(b)
 
@@ -398,7 +322,7 @@ Payments.—(1)(A) Except as provided in subsections (b) and (c) and subject to 
 
 Payment Period.—(1) Except as provided in paragraphs (2) and (3), the implementing official shall pay training assistance to employers under this section on a quarterly basis.
 
-“(2) The implementing official may pay training assistance to an employer on a monthly basis if the implementing official determines (pursuant to regulationsprescribed by the implementing official) that the number of employees of the employer is such that the payment of assistance on a quarterly basis would be burdensome to the employer.
+“(2) The implementing official may pay training assistance to an employer on a monthly basis if the implementing official determines (pursuant to regulations prescribed by the implementing official) that the number of employees of the employer is such that the payment of assistance on a quarterly basis would be burdensome to the employer.
 
 “(3) The implementing official shall withhold 25 percent of each payment due under this subsection with respect to an eligible person. The total amount withheld with respect to an eligible person under this paragraph shall be paid to the employer at the end of the four month period of employment of such person under this subtitle beginning on the date of completion of training, or upon the completion of the 18th month of training under the last training program approved for the person's pursuit with that employer under this subtitle, whichever is earlier.
 
@@ -462,7 +386,7 @@ Failure To Meet Requirements.—If the implementing official finds at any time t
 
 “(b)
 
-Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons’successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, such official shall take into account appropriate data, including—
+Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons’ successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, such official shall take into account appropriate data, including—
 
 &emsp;“(A) the quarterly data provided by the Secretary of Labor with respect to the number of eligible persons who receive counseling in connection with training under this subtitle, are referred to employers under this subtitle, participate in job training under this subtitle, and complete such training or do not complete such training, and the reasons for noncompletion; and
 
@@ -538,7 +462,7 @@ Case Manager.—(1) The implementing official shall provide for a program under 
 
 &emsp;&emsp;“(ii) the rate of eligible persons’ successful completion of the employer's programs of job training under this subtitle, either cumulatively or during the previous program year, is 60 percent or higher.
 
-“(3) The implementing official shall provide, to the extent feasible, a program of counseling or other services designed to resolve difficulties that may be encountered by eligible persons during their training under this subtitle. Such counseling or other services shall be similar to the counseling and other services provided under sections 1712A, 3697A, 4103A, 4104, 7723, and 7724 of title 38, United States Code, and section 1144 of title 10, United States Code.
+“(3) The implementing official shall provide, to the extent feasible, a program of counseling or other services designed to resolve difficulties that may be encountered by eligible persons during their training under this subtitle. Such counseling or other services shall be similar to the counseling and other services provided under sections 1712A, 3697A, 4103A, 4104, \[former\] 7723, and \[former\] 7724 of title 38, United States Code, and section 1144 of title 10, United States Code.
 
 “(c)
 

@@ -78,7 +78,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 “Service at any time in any of the courts referred to in the first paragraph, or in any other court under appointment by the President, shall be included in the computation of aggregate years of judicial service for the purposes of this section.
 
-“Any judge who has retired by resigning under the provisions of this section, or who is otherwise entitled to payments under this section, shall be entitled afterthe effective date of this Act to a cost-of-living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, United States Code: <i>Provided, however</i>, That in no case shall the salary or amount payable to such judge as increased under this paragraph exceed 95 per centum of the salary of a United States district court judge in regular active service.”
+“Any judge who has retired by resigning under the provisions of this section, or who is otherwise entitled to payments under this section, shall be entitled after the effective date of this Act to a cost-of-living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, United States Code: <i>Provided, however</i>, That in no case shall the salary or amount payable to such judge as increased under this paragraph exceed 95 per centum of the salary of a United States district court judge in regular active service.”
 
 1976—Pub. L. 94–470 inserted cost-of-living adjustment provision, including limitation of payment to amount no greater than 95 per centum of salary of a United States district court judge in regular active service.
 
@@ -88,7 +88,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 1958—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1954—Act Feb. 10, 1954, among other changes, inserted provisions for retirement after attaining the age of 65 years and after serving at least fifteen years continuously or otherwise, changed period of service in connection with retirement at age 70, and reduced from 70 to 65 years the age requirement in connection with payment of salary after removal for mental or physical disability or failure of reappointment.
+1954—Act Feb. 10, 1954, among other changes, inserted provisions for retirement after attaining the age of 65years and after serving at least fifteen years continuously or otherwise, changed period of service in connection with retirement at age 70, and reduced from 70 to 65 years the age requirement in connection with payment of salary after removal for mental or physical disability or failure of reappointment.
 
 1951—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
 

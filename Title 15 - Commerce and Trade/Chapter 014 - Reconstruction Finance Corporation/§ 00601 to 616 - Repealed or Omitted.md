@@ -32,7 +32,7 @@ Subsec. (e) related to the creation of regional agricultural credit corporations
 
 Section 605c, act July 21, 1932, ch. 520, §206, 47 Stat. 714, authorized loans to borrowers organized under laws of Alaska, District of Columbia, Hawaii and Puerto Rico. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
-Section 605d, act July 21, 1932, ch. 520, §207, 47 Stat. 715, prohibited loans to financial institutions whose officers or directors are also directors of ReconstructionFinance Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
+Section 605d, act July 21, 1932, ch. 520, §207, 47 Stat. 715, prohibited loans to financial institutions whose officers or directors are also directors of Reconstruction Finance Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
 Section 605e, acts June 10, 1933, ch. 55, §1, 48 Stat. 119; Jan. 31, 1935, ch. 2, §8, 49 Stat. 4, related to purchase of preferred stock of insurance companies. It was repealed by act of June 30, 1947, ch. 166, title II, §206(e), 61 Stat. 208.
 
@@ -90,7 +90,7 @@ Section 606<i>l</i>, act Sept. 5, 1940, ch. 715, §12, 54 Stat. 871, related to 
 
 Section 607, acts Jan. 22, 1932, ch. 8, §8, 47 Stat. 8; July 21, 1932, ch. 520, §204, 47 Stat. 714; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §5, 62 Stat. 265, exempted the Reconstruction Finance Corporation from all federal and local taxation except on real property, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
-Section 607a, act Jan. 31, 1935, ch. 2, §13, 49 Stat. 5, related to use of receipts from sale of securities. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
+Section 607a, act Jan. 31, 1935, ch. 2, §13, 49 Stat. 5, related to use of receipts from sale of securities. It wasrepealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
 
 Section 608, acts Jan. 22, 1932, ch. 8, §9, 47 Stat. 9; July 21, 1932, ch. 520, §204, 47 Stat. 714; Mar. 4, 1939, ch. 4, 53 Stat. 510; June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; 1951 Reorg. Plan No. 1, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat 773, 774, provided for the possible premature liquidation of the Reconstruction Finance Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
@@ -156,7 +156,7 @@ Section 611a–1, act Jan. 31, 1942, ch. 30, 56 Stat. 40, related to the disposi
 
 Section 611b, act Feb. 24, 1938, ch. 32, §3, 52 Stat. 80, related to the transfer of repayments or recoveries to the general fund of the Treasury.
 
-Section 612, act Jan. 22, 1932, ch. 8, §12, 47 Stat. 10, authorized the Corporation to be a depositary of public moneys, and was not covered in act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
+Section 612, act Jan. 22, 1932, ch. 8, §12, 47 Stat. 10, authorized the Corporation to be a depositary of publicmoneys, and was not covered in act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
 Section 613, act Jan. 22, 1932, ch. 8, §13, 47 Stat. 10, provided for the liquidation of the Corporation by the directors, and was covered by section 9 of act Jan. 22, 1932, as amended by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, and set out as section 608 of this title.
 

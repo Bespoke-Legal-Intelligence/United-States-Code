@@ -32,7 +32,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 &emsp;&emsp;(A) the information was blocked in error or a block was requested by the consumer in error;
 
-&emsp;&emsp;(B) the information was blocked, or a block was requested by the consumer, on thebasis of a material misrepresentation of fact by the consumer relevant to the request to block; or
+&emsp;&emsp;(B) the information was blocked, or a block was requested by the consumer, on the basis of a material misrepresentation of fact by the consumer relevant to the request to block; or
 
 &emsp;&emsp;(C) the consumer obtained possession of goods, services, or money as a result of the blocked transaction or transactions.
 

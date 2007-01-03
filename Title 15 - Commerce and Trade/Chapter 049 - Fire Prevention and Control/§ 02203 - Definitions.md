@@ -8,7 +8,7 @@ As used in this chapter, the term—
 
 &emsp;(3) “Administrator” means the Administrator of the United States Fire Administration;
 
-&emsp;(4) “Director” means the Director of the Federal Emergency Management Agency;
+&emsp;(4) “Director” means the Administrator of the Federal Emergency Management Agency;
 
 &emsp;(5) “fire service” means any organization in any State consisting of personnel, apparatus, and equipment which has as its purpose protecting property and maintaining the safety and welfare of the public from the dangers of fire, including a private firefighting brigade. The personnel of any such organization may be paid employees or unpaid volunteers or any combination thereof. The location of any such organization and its responsibility for extinguishment and suppression of fires may include, but need not be limited to, a Federal installation, a State, city, town, borough, parish, county, fire district, fire protection district, rural fire district, or other special district. The terms “fire prevention”, “firefighting”, and “fire control” relate to activities conducted by a fire service;
 
@@ -18,7 +18,7 @@ As used in this chapter, the term—
 
 &emsp;(8) “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Canal Zone, Guam, American Samoa, the Trust Territory of the Pacific Islands and any other territory or possession of the United States.
 
-(Pub. L. 93–498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, §3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, §110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302.)
+(Pub. L. 93–498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, §3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, §110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -32,9 +32,15 @@ For definition of Canal Zone, referred to in par. (8), see section 3602(b) of Ti
 
 1978—Pars. (2), (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the FederalEmergency Management Agency” on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

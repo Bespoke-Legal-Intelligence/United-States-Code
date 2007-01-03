@@ -100,7 +100,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Conflicts of interest.—The development companies selected under paragraph (1) shall agree not to take any action that would create a potential conflict of interest involving the development company, the third party lender, or an associate of the third party lender.
+Conflicts of interest.—The development companies selected under paragraph (1) shall agreenot to take any action that would create a potential conflict of interest involving the development company, the third party lender, or an associate of the third party lender.
 
 &emsp;“(3)
 
@@ -152,5 +152,5 @@ In general.—The Administrator shall issue a report on the results of the pilot
 
 Reporting period.—The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 \[sic\] fiscal quarters of the pilot program's operation after the date of implementation.”
 
-\[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the dateon which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) \[title III, §307(b)\] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.\]
+\[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) \[title III, §307(b)\] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.\]
 

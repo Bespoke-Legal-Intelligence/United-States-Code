@@ -30,7 +30,7 @@ In reviewing applications submitted under this subchapter, the appropriate Feder
 
 #### (c) Expedited review
 
-The appropriate Federal officer shall expedite the consideration of an application referred to in subsection (a) of this section if the applicant demonstrates, to the satisfaction of the <sup>1</sup> such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.
+The appropriate Federal officer shall expedite the consideration of an application referred toin subsection (a) of this section if the applicant demonstrates, to the satisfaction of the <sup>1</sup> such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.
 
 (Pub. L. 100–690, title III, §3515, Nov. 18, 1988, 102 Stat. 4257; Pub. L. 101–204, title X, §1001(b), Dec. 7, 1989, 103 Stat. 1826.)
 

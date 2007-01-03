@@ -20,7 +20,11 @@ In order to effectuate the purposes of this chapter, the Federal coordinating of
 
 When the President determines assistance under this chapter is necessary, he shall request that the Governor of the affected State designate a State coordinating officer for the purpose of coordinating State and local disaster assistance efforts with those of the Federal Government.
 
-(Pub. L. 93–288, title III, §302, formerly §303, May 22, 1974, 88 Stat. 147; renumbered §302 and amended Pub. L. 100–707, title I, §105(b), Nov. 23, 1988, 102 Stat. 4691.)
+#### (d) Single Federal coordinating officer for multistate area
+
+Where the area affected by a major disaster or emergency includes parts of more than 1 State, the President, at the discretion of the President, may appoint a single Federal coordinating officer for the entire affected area, and may appoint such deputy Federal coordinating officers to assist the Federal coordinating officer as the President determines appropriate.
+
+(Pub. L. 93–288, title III, §302, formerly §303, May 22, 1974, 88 Stat. 147; renumbered §302 and amended Pub. L. 100–707, title I, §105(b), Nov. 23, 1988, 102 Stat. 4691; Pub. L. 109–295, title VI, §687, Oct. 4, 2006, 120 Stat. 1448.)
 
 #### References in Text
 
@@ -35,6 +39,8 @@ In subsec. (b)(3), “chapter 3001 of title 36” substituted for “the Act of 
 A prior section 302 of Pub. L. 93–288 was classified to section 5142 of this title prior to repeal by Pub. L. 100–707.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–295 added subsec. (d).
 
 1988—Subsec. (a). Pub. L. 100–707 inserted “or emergency” after “major disaster”.
 

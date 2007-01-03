@@ -24,7 +24,7 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
+Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L.95–454, set out as an Effective Date note under section 5361 of this title.
 
 #### Effective Date
 

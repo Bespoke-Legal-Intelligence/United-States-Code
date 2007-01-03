@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) actually performs diving duty while serving in an assignment for which diving is a primary duty; or
 
-&emsp;&emsp;(B) meets the requirements to maintain proficiency as described in paragraph (2) while serving in an assignment that includes diving duty other than as a primary duty.
+&emsp;&emsp;(B) meets the requirements to maintain proficiency as described in paragraph (2)while serving in an assignment that includes diving duty other than as a primary duty.
 
 (b) Special pay payable under subsection (a) shall be paid at a rate of not more than $240 a month, in the case of an officer, and at a rate of not more than $340 a month, in the case of an enlisted member.
 

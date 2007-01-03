@@ -6,21 +6,21 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (b) Documentation required
 
-(1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 1702(17)(B) of title 46, Appendix) <sup>1</sup> may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
+(1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 40102(16) of title 46) may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
 
-(2) For the purposes of this subsection, cargo shall be considered properly documented if the shipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
+(2) For the purposes of this subsection, cargo shall be considered properly documented if theshipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
 
 (3) A complete set of shipping documents shall include—
 
 &emsp;(A) for shipments for which a shipper's export declaration is required, a copy of the export declaration or, if the shipper files such declarations electronically in the Automated Export System, the complete bill of lading, and the master or equivalent shipping instructions, including the Internal Transaction Number (ITN); or
 
-&emsp;(B) for shipments for which a shipper's export declaration is not required, a shipper'sexport declaration exemption statement and such other documents or information as the Secretary may by regulation prescribe.
+&emsp;(B) for shipments for which a shipper's export declaration is not required, a shipper's export declaration exemption statement and such other documents or information as the Secretary may by regulation prescribe.
 
 (4) The Secretary shall by regulation prescribe the time, manner, and form by which shippers shall transmit documents or information required under this subsection to the Customs Service.
 
 #### (c) Loading undocumented cargo prohibited
 
-(1) No marine terminal operator (as defined in section 1702(14) of title 46, Appendix) may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
+(1) No marine terminal operator (as defined in section 40102(14) of title 46) may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
 
 (2) When cargo is booked by 1 vessel carrier to be transported on the vessel of another vessel carrier, the booking carrier shall notify the operator of the vessel that the cargo has been properly documented in accordance with this section. The operator of the vessel may rely on such notification in releasing the cargo for loading aboard the vessel.
 
@@ -58,9 +58,13 @@ Nothing in this section shall be construed, interpreted, or applied to relieve o
 
 (June 17, 1930, ch. 497, title IV, §431A, as added Pub. L. 107–210, div. A, title III, §343(b), Aug. 6, 2002, 116 Stat. 983; amended Pub. L. 107–295, title I, §108(a), Nov. 25, 2002, 116 Stat. 2088.)
 
+#### Codification
+
+In subsec. (b)(1), “(as defined in section 40102(16) of title 46)” substituted for “(as defined in section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B))” and in subsec. (c)(1), “section 40102(14) of title 46” substituted for “section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14))” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 40102 of Title 46, Shipping.
+
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–295 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal. For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier's vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.”
+2002—Subsec. (d). Pub. L. 107–295 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal. For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier's vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.”
 
 #### Effective Date
 
@@ -69,6 +73,4 @@ Section applicable to petitions for certification filed under part 2 or 3 of sub
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

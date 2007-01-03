@@ -1,12 +1,12 @@
 ### §12503. Information available to the system
 
-(a) Except as provided in subsections (b) and (c) of this section, a State or a State's delegee approved by the Secretary of Transportation may make information available to the Secretary if, in a manner and form prescribed by the Secretary, the State—
+(a) Except as provided in subsections (b) and (c) of this section, a State or a State's delegate approved by the Secretary of Transportation may make information available to the Secretary if, in a manner and form prescribed by the Secretary, the State—
 
 &emsp;(1) identifies the vessel;
 
 &emsp;(2) identifies the owner of the vessel, including by—
 
-&emsp;&emsp;(A) the owner's social security number or, if that number is not available, other means of identification acceptable to the Secretary; or
+&emsp;&emsp;(A) the owner's social security number or, if that number is not available, other meansof identification acceptable to the Secretary; or
 
 &emsp;&emsp;(B) for an owner other than an individual—
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) accept information under section 31321(h) of this title only if that information cannot be provided to a State.
 
-(Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4736; Pub. L. 101–225, title III, §302(2), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 101–595, title VI, §603(10), Nov. 16, 1990, 104 Stat. 2993.)
+(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4736; amended Pub. L. 101–225, title III, §302(2), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 101–595, title VI, §603(10), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 109–304, §15(24), Oct. 6, 2006, 120 Stat. 1704.)
 
 #### Historical and Revision Notes
 
@@ -48,11 +48,9 @@ Under paragraph (c)(1), the Secretary must maintain information on a State-title
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–304 substituted “delegate” for “delegee” in introductory provisions.
+
 1990—Subsec. (a)(2)(A). Pub. L. 101–595 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the owner's social security number; or”.
 
 1989—Subsec. (a)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12501, 12504, 12505 of this title.
 

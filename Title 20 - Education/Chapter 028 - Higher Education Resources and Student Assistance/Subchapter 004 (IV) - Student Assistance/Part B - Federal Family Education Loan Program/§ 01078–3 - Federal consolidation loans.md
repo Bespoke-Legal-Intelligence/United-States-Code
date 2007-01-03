@@ -24,29 +24,23 @@
 
 &emsp;&emsp;(ii) at the time of application for a consolidation loan—
 
-&emsp;&emsp;&emsp;(I) is in repayment status;
+&emsp;&emsp;&emsp;(I) is in repayment status as determined under section 1078(b)(7)(A) of this title;
 
 &emsp;&emsp;&emsp;(II) is in a grace period preceding repayment; or
 
 &emsp;&emsp;&emsp;(III) is a defaulted borrower who has made arrangements to repay the obligation on the defaulted loans satisfactory to the holders of the defaulted loans.
 
-&emsp;(B)(i) <sup>1</sup> An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section, except that—
+&emsp;(B)(i) <sup>1</sup> An individual's status as an eligible borrower under this section or under section 1087e(g) of this title terminates under both sections upon receipt of a consolidation loan under this section or under section 1087e(g) of this title, except that—
 
 &emsp;&emsp;(I) an individual who receives eligible student loans after the date of receipt of the consolidation loan may receive a subsequent consolidation loan;
 
 &emsp;&emsp;(II) loans received prior to the date of the consolidation loan may be added during the 180-day period following the making of the consolidation loan;
 
-&emsp;&emsp;(III) loans received following the making of the consolidation loan may be added during the 180-day period following the making of the consolidation loan; and
+&emsp;&emsp;(III) loans received following the making of the consolidation loan may be added during the 180-day period following the making of the consolidation loan;
 
-&emsp;&emsp;(IV) loans received prior to the date of the first consolidation loan may be added to a subsequent consolidation loan.
+&emsp;&emsp;(IV) loans received prior to the date of the first consolidation loan may be added to a subsequent consolidation loan; and
 
-&emsp;(C)(i) A married couple, each of whom has eligible student loans, may be treated as if such couple were an individual borrowing under subparagraphs (A) and (B) if such couple agrees to be held jointly and severally liable for the repayment of a consolidation loan, without regard to the amounts of the respective loan obligations that are to be consolidated, and without regard to any subsequent change that may occur in such couple's marital status.
-
-&emsp;(ii) Only one spouse in a married couple applying for a consolidation loan under this subparagraph need meet any of the requirements of subsection (b) of this section, except that each spouse shall—
-
-&emsp;&emsp;(I) individually make the initial certification that no other application is pending in accordance with subsection (b)(1)(A) of this section; and
-
-&emsp;&emsp;(II) agree to notify the holder concerning any change of address in accordance with subsection (b)(4) of this section.
+&emsp;&emsp;(V) an individual may obtain a subsequent consolidation loan under section 1087e(g) of this title only for the purposes of obtaining an income contingent repayment plan, and only if the loan has been submitted to the guaranty agency for default aversion.
 
 #### (4) “Eligible student loans” defined
 
@@ -68,7 +62,7 @@
 
 &emsp;Any lender described in subparagraph (A), (B), or (C) of subsection (a)(1) of this section who wishes to make consolidation loans under this section shall enter into an agreement with the Secretary or a guaranty agency which provides—
 
-&emsp;&emsp;(A) that, in the case of all lenders described in subsection (a)(1) of this section, the lender will make a consolidation loan to an eligible borrower (on request of that borrower) only if the borrower certifies that the borrower has no other application pending for a loan under this section and (i) the lender holds an outstanding loan of that borrower which is selected by the borrower for consolidation under this section, except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part, or (ii) the borrower certifies that the borrower has sought and has been unable to obtain a consolidation loan with income-sensitive repayment terms from the holders of the outstanding loans of that borrower (which are so selected for consolidation);
+&emsp;&emsp;(A) that, in the case of all lenders described in subsection (a)(1) of this section, the lender will make a consolidation loan to an eligible borrower (on request of that borrower) only if the borrower certifies that the borrower has no other application pending for a loan under this section;
 
 &emsp;&emsp;(B) that each consolidation loan made by the lender will bear interest, and be subject to repayment, in accordance with subsection (c) of this section;
 
@@ -114,7 +108,7 @@
 
 &emsp;A consolidation loan made pursuant to this section shall be insurable by the Secretary or a guaranty agency pursuant to paragraph (2) only if the loan is made to an eligible borrower who has agreed to notify the holder of the loan promptly concerning any change of address and the loan is evidenced by a note or other written agreement which—
 
-&emsp;&emsp;(A) is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by him or her wouldnot, under applicable law, create a binding obligation, endorsement may be required;
+&emsp;&emsp;(A) is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by him or her would not, under applicable law, create a binding obligation, endorsement may be required;
 
 &emsp;&emsp;(B) provides for the payment of interest and the repayment of principal in accordance with subsection (c) of this section;
 
@@ -134,7 +128,7 @@
 
 #### (5) Direct loans
 
-&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1) of this section, or is unable to obtain a consolidation loan with income-sensitive repayment terms acceptable to the borrower from such a lender, the Secretary shall offer any such borrower who applies for it, a direct consolidation loan. Such direct consolidation loan shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter or pursuant to any other repayment provision under this section. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
+&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms acceptable to the borrower from such a lender, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. Such direct consolidation loan shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter or pursuant to any other repayment provision under this section. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
 
 #### (6) Nondiscrimination in loan consolidation
 
@@ -170,7 +164,7 @@
 
 #### (2) Repayment schedules
 
-&emsp;(A) Notwithstanding any other provision of this part, to the extent authorized by its certificate of insurance under subsection (b)(2)(F) of this section and approved by the issuer of such certificate, the lender of a consolidation loan shall establish repayment terms as will promote the objectives of this section, which shall include the establishment of graduated or income-sensitive repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive repaymentschedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
+&emsp;(A) Notwithstanding any other provision of this part, to the extent authorized by its certificate of insurance under subsection (b)(2)(F) of this section and approved by the issuer of such certificate, the lender of a consolidation loan shall establish repayment terms as will promote the objectives of this section, which shall include the establishment of graduated or income-sensitive repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
 
 &emsp;&emsp;(i) is less than $7,500, then such consolidation loan shall be repaid in not more than 10 years;
 
@@ -260,7 +254,7 @@
 
 #### (e) Termination of authority
 
-The authority to make loans under this section expires at the close of September 30, 2004. Nothing in this section shall be construed to authorize the Secretary to promulgate rules or regulations governing the terms or conditions of the agreements and certificates under subsection (b) of this section. Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
+The authority to make loans under this section expires at the close of September 30, 2012.Nothing in this section shall be construed to authorize the Secretary to promulgate rules or regulations governing the terms or conditions of the agreements and certificates under subsection (b) of this section. Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
 
 #### (f) Interest payment rebate fee
 
@@ -276,7 +270,7 @@ The authority to make loans under this section expires at the close of September
 
 &emsp;The Secretary shall deposit all fees collected pursuant to subsection (a) of this section into the insurance fund established in section 1081 of this title.
 
-(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8.)
+(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485.)
 
 #### References in Text
 
@@ -294,6 +288,30 @@ A prior section 1078–3, Pub. L. 89–329, title IV, §428C, as added Pub. L. 9
 
 #### Amendments
 
+2006—Subsec. (a)(3)(A)(ii)(I). Pub. L. 109–171, §8009(b)(2), inserted “as determined under section 1078(b)(7)(A) of this title” after “repayment status”.
+
+Subsec. (a)(3)(B)(i). Pub. L. 109–171, §8009(a)(1)(A), (B), substituted “under this section or under section 1087e(g) of this title terminates under both sections upon receipt of a consolidation loan under this section or under section 1087e(g) of this title” for “under this section terminates upon receipt of a consolidation loan under this section”.
+
+Subsec. (a)(3)(B)(i)(V). Pub. L. 109–171, §8009(a)(1)(C)–(E), added subcl. (V).
+
+Subsec. (a)(3)(C). Pub. L. 109–171, §8009(c), struck out subpar. (C), which read as follows:
+
+“(C)(i) A married couple, each of whom has eligible student loans, may be treated as if such couple were an individual borrowing under subparagraphs (A) and (B) if such couple agrees to be held jointly and severally liable for the repayment of a consolidation loan, without regard to the amounts of the respective loan obligations that are to be consolidated, and without regard to any subsequent change that may occur in such couple's marital status.
+
+“(ii) Only one spouse in a married couple applying for a consolidation loan under this subparagraph need meet any of the requirements of subsection (b) of this section, except that each spouse shall—
+
+&emsp;“(I) individually make the initial certification that no other application is pending in accordance with subsection (b)(1)(A) of this section; and
+
+&emsp;“(II) agree to notify the holder concerning any change of address in accordance with subsection (b)(4) of this section.”
+
+Subsec. (b)(1)(A). Pub. L. 109–234, §7015(a), struck out “and (i) the lender holds an outstanding loan of that borrower which is selected by the borrower for consolidation under this section, except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part, or (ii) the borrower certifies that the borrower has sought and has been unable to obtain a consolidation loan with income-sensitive repayment terms from the holders of the outstanding loans of that borrower (which are so selected for consolidation)” after “loan under this section”.
+
+Subsec. (b)(5). Pub. L. 109–234, §7015(c), reenacted heading without change and substituted in text “In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms acceptable to the borrower from such a lender, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. Such direct consolidation loan” for “In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1) of this section, or is unable to obtain a consolidation loan with income-sensitive repayment terms acceptable to the borrowerfrom such a lender, the Secretary shall offer any such borrower who applies for it, a direct consolidation loan. Such direct consolidation loan”.
+
+Pub. L. 109–171, §8009(a)(2), which directed substitution of “In the event that a lender with an agreement under subsection (a)(1) of this section denies a consolidation loan application submitted to the lender by an eligible borrower under this section, or denies an application submitted to the lender by such a borrower for a consolidation loan with income-sensitive repayment terms, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. The Secretary shall offer such a loan to a borrower who has defaulted, for the purpose of resolving the default.” for first sentence, was repealed by Pub. L. 109–234, §7015(d). See Effective Date of 2006 Amendment note below.
+
+Subsec. (e). Pub. L. 109–171, §8004(b)(3), substituted “2012” for “2004”.
+
 2002—Subsec. (c)(1)(A). Pub. L. 107–139 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003, the applicable interest rate shall be determined under section 1077a(k)(4) of this title.”
 
 1998—Subsec. (a)(3). Pub. L. 105–244, §420(a), amended heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which defined the term “eligible borrower”, provided for termination of individual's status as an eligible borrower, and provided for counting loans against certain limitations on aggregate indebtedness.
@@ -302,7 +320,7 @@ Subsec. (a)(4)(C). Pub. L. 105–244, §420(b), added subpar. (C) and struck out
 
 Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted “except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part,” after “under this section,”.
 
-Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted “during any such period” after “and be paid” in introductory provisions and struck out “, or on or afterOctober 1, 1998,” before “that consolidated” in subcl. (I) and “and before October 1, 1998,” before “except that” in subcl. (II).
+Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted “during any such period” after “and be paid” in introductory provisions and struck out “, or on or after October 1, 1998,” before “that consolidated” in subcl. (I) and “and before October 1, 1998,” before “except that” in subcl. (II).
 
 Subsec. (b)(6)(A). Pub. L. 105–244, §420(c)(3), inserted before semicolon at end “, except that a lender is not required to consolidate loans described in subparagraph (D) or (E) of subsection (a)(4) of this section or subsection (d)(1)(C)(ii) of this section”.
 
@@ -376,7 +394,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 102–325, §419(b)(1)(A), substituted “$7,500�
 
 Subsec. (a)(3)(A)(ii). Pub. L. 102–325, §419(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is in repayment status, or in a grace period preceding repayment, and is not delinquent with respect to any required payment on such indebtedness by more than 90 days.”
 
-Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter Iof chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan.”
+Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan.”
 
 Subsec. (a)(3)(C). Pub. L. 102–325, §419(d), added subpar. (C).
 
@@ -418,6 +436,12 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–50, §10(s)(6), substituted “equal to or g
 
 Subsec. (c)(5). Pub. L. 100–50, §10(s)(7), inserted “, but a fee may be payable by the lender to the guaranty agency to cover the costs of increased or extended liability with respect to such loan” before period at end.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–234, title VII, §7015(b), June 15, 2006, 120 Stat. 485, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any loan made under section 428C of the Higher Education Act of 1965 (20 U.S.C. 1078–3) for which the application is received by an eligible lender on or after the date of enactment of this Act \[June 15, 2006\].”
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
@@ -446,7 +470,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Pending Applicants
 
-Section 609(f) of Pub. L. 105–78 provided that: “The consolidation loans authorized by the amendmentsmade by this section \[amending this section\] shall be available notwithstanding any pending application by a student for a consolidation loan under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), upon withdrawal of such application by the student at any time prior to receipt of such a consolidation loan.”
+Section 609(f) of Pub. L. 105–78 provided that: “The consolidation loans authorized by the amendments made by this section \[amending this section\] shall be available notwithstanding any pending application by a student for a consolidation loan under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), upon withdrawal of such application by the student at any time prior to receipt of such a consolidation loan.”
 
 #### Cost Evaluation Report
 

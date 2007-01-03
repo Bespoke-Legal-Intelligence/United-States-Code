@@ -38,7 +38,7 @@ The date of the enactment of the Alternative Dispute Resolution Act of 1998, ref
 
 #### Effective Date
 
-Section 907 of title IX of Pub. L. 100–702 provided that: “This title and the amendments made by this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 19, 1988\].”
+Section 907 of title IX of Pub. L. 100–702 provided that: “This title and the amendments made by this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\]shall take effect 180 days after the date of enactment of this Act \[Nov. 19, 1988\].”
 
 Section 906 of Pub. L. 100–702, as amended by Pub. L. 103–192, §1(a), Dec. 14, 1993, 107 Stat. 2292, provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by Pub. L. 103–420, §3(b), Oct. 25, 1994, 108 Stat. 4345.
 

@@ -2,7 +2,7 @@
 
 #### (a) Adequate notice and opportunity to comment
 
-In exercising his authorities under this subchapter and other laws applicable to the ForestService, the Secretary, by regulation, shall establish procedures, including public hearings where appropriate, to give the Federal, State, and local governments and the public adequate notice and an opportunity to comment upon the formulation of standards, criteria, and guidelines applicable to Forest Service programs.
+In exercising his authorities under this subchapter and other laws applicable to the Forest Service, the Secretary, by regulation, shall establish procedures, including public hearings where appropriate, to give the Federal, State, and local governments and the public adequate notice and an opportunity to comment upon the formulation of standards, criteria, and guidelines applicable to Forest Service programs.
 
 #### (b) Advisory boards
 
@@ -70,7 +70,7 @@ Time and location of the meeting.—Each meeting in accordance with subparagraph
 
 &emsp;“(2)
 
-Formal review.—If the appeal is not disposed of in accordance with paragraph (1), an appeals review officer designated by the Chief of the Forest Service shall review the appeal and recommend in writing, to the official responsible for deciding the appeal, the appropriate disposition of the appeal. The official responsible for deciding the appeal shall then decide the appeal. The appeals review officer shall be a line officer at least at the level of the agency official who made the initial decision on the project or activity that is under appeal, who has not participated in the initial decision and will not be responsible for implementation of the initial decision after the appeal is decided.
+Formal review.—If the appeal is not disposed of in accordance with paragraph (1), an appeals review officer designated by the Chief of the Forest Service shall review the appeal and recommend inwriting, to the official responsible for deciding the appeal, the appropriate disposition of the appeal. The official responsible for deciding the appeal shall then decide the appeal. The appeals review officer shall be a line officer at least at the level of the agency official who made the initial decision on the project or activity that is under appeal, who has not participated in the initial decision and will not be responsible for implementation of the initial decision after the appeal is decided.
 
 &emsp;“(3)
 

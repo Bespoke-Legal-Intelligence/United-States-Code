@@ -52,17 +52,7 @@ The research program established under this subpart shall encompass the social, 
 
 The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
 
-#### (d) Funding
-
-#### (1) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated $300,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
-
-#### (2) Allocation for health services research
-
-&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Director shall obligate not less than 15 percent to carry out health services research relating to alcohol abuse and alcoholism.
-
-(July 1, 1944, ch. 373, title IV, §464H, as added and amended Pub. L. 102–321, title I, §122(a), (b), July 10, 1992, 106 Stat. 358, 359; Pub. L. 102–352, §2(a)(1), Aug. 26, 1992, 106 Stat. 938.)
+(July 1, 1944, ch. 373, title IV, §464H, as added and amended Pub. L. 102–321, title I, §122(a), (b), July 10, 1992, 106 Stat. 358, 359; Pub. L. 102–352, §2(a)(1), Aug. 26, 1992, 106 Stat. 938; Pub. L. 109–482, title I, §103(b)(32), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### Codification
 
@@ -72,6 +62,8 @@ In subsec. (b)(9), “section 3324(a) and (b) of title 31” substituted for ref
 
 #### Amendments
 
+2007—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization of appropriations and allocation for health services research.
+
 1992—Subsec. (a). Pub. L. 102–352 substituted “Institute on Alcohol” for “Institute of Alcohol”.
 
 Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of section 290bb of this title to subsec. (b) of this section, substituted “(b)
@@ -79,6 +71,10 @@ Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of 
 Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
 
 Subsecs. (c), (d). Pub. L. 102–321, §122(b)(2)(B), added subsecs. (c) and (d).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -94,21 +90,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 #### Required Allocations for Health Services Research
 
-Pub. L. 103–43, title XX, §2016(b), June 10, 1993, 107 Stat. 218, provided that:
-
-“(1)
-
-In general.—With respect to the allocation for health services research required in each of the provisions of law specified in paragraph (2), the term ‘15 percent’ appearing in each of such provisions is, in the case of allocations for fiscal year 1993, deemed to be 12 percent.
-
-“(2)
-
-Relevant provisions of law.—The provisions of law referred to in paragraph (1) are—
-
-&emsp;“(A) section 464H(d)(2) of the Public Health Service Act, as added by section 122 of Public Law 102–321 (106 Stat. 358) \[subsec. (d)(2) of this section\];
-
-&emsp;“(B) section 464L(d)(2) of the Public Health Service Act, as added by section 123 of Public Law 102–321 (106 Stat. 360) \[section 285<i>o</i>(d)(2) of this title\]; and
-
-&emsp;“(C) section 464R(f)(2) of the Public Health Service Act, as added by section 124 of Public Law 102–321 (106 Stat. 364) \[section 285p(f)(2) of this title\].”
+Pub. L. 103–43, title XX, §2016(b), June 10, 1993, 107 Stat. 218, provided that, with respect to the allocation for health services research required in former subsec. (d)(2) of this section and former sections 285<i>o</i>(d)(2) and 285p(f)(2) of this title, the term “15 percent” appearing in each of such provisions was deemed to be 12 percent in the case of allocations for fiscal year 1993.
 
 #### Study on Fetal Alcohol Effect and Fetal Alcohol Syndrome
 

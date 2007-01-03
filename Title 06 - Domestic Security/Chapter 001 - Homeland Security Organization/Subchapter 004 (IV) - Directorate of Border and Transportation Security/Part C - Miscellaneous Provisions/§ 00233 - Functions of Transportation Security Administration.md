@@ -6,7 +6,7 @@ The Secretary and other officials in the Department shall consult with the Admin
 
 #### (b) Report to Congress
 
-Not later than 60 days after November 25, 2002, the Secretary of Transportation shall transmit to Congress a report containing a plan for complying with the requirements of section 44901(d) of title 49.
+Not later than 60 days after November 25, 2002, the Secretary of Transportation shall transmitto Congress a report containing a plan for complying with the requirements of section 44901(d) of title 49.
 
 #### (c) Limitations on statutory construction
 

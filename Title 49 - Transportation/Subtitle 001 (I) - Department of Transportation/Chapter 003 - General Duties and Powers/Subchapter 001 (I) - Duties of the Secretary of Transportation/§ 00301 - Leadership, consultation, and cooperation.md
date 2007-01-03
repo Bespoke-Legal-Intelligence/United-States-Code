@@ -52,6 +52,10 @@ Par. (6). Pub. L. 102–240, §§5002(a), 6017, redesignated par. (5) as (6) and
 
 Pars. (7), (8). Pub. L. 102–240, §5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
+#### Vessel Transfer Authority
+
+Pub. L. 109–364, div. C, title XXXV, §3504, Oct. 17, 2006, 120 Stat. 2516, provided that: “The Secretary of Transportation may transfer or otherwise make available without reimbursement to any other department a vessel under the jurisdiction of the Department of Transportation, upon request by the Secretary of the department that receives the vessel.”
+
 #### Budget Justification
 
 Pub. L. 109–59, title I, §1926, Aug. 10, 2005, 119 Stat. 1483, provided that: “The Department of Transportation and each agency in the Department shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a budget justification concurrently with the President's annual budget submission to Congress under section 1105(a) of title 31, United States Code.”

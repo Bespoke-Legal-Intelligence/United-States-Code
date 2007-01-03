@@ -6,11 +6,39 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 109–481, §1, Jan. 12, 2007, 120 Stat. 3673, provided that: “This Act \[enacting section 706a of this title\] may be cited as the ‘Geneva Distinctive Emblems Protection Act of 2006’.”
+
+Pub. L. 109–476, §1, Jan. 12, 2007, 120 Stat. 3568, provided that: “This Act \[enacting section 1039 of this title and provisions set out as a note under section 1039 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Telephone Records and Privacy Protection Act of 2006’.”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–437, §1, Dec. 20, 2006, 120 Stat. 3266, provided that: “This Act \[amending section 704 of this title and enacting provisions set out as a note under section 704 of this title\] may be cited as the ‘Stolen Valor Act of 2005’.”
+
+Pub. L. 109–374, §1, Nov. 27, 2006, 120 Stat. 2652, provided that: “This Act \[amending section 43 of this title\] may be cited as the ‘Animal Enterprise Terrorism Act’.”
+
+Pub. L. 109–181, §1(a)(1), Mar. 16, 2006, 120 Stat. 285, provided that: “This section \[amending section 2320 of this title, enacting provisions set out as a note under section 2320 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Stop Counterfeiting in Manufactured Goods Act’.”
+
+Pub. L. 109–181, §2(a), Mar. 16, 2006, 120 Stat. 288, provided that: “This section \[amending sections 2318, 2319A, and 2320 of this title and section 1101 of Title 17, Copyrights\] may be cited as the ‘Protecting American Goods and Services Act of 2005’.”
+
+Pub. L. 109–178, §1, Mar. 9, 2006, 120 Stat. 278, provided that: “This Act \[amending section 2709 of this title, section 3414 of Title 12, Banks and Banking, sections 1681u and 1681v of Title 15, Commerce and Trade, and sections 436 and 1861 of Title 50, War and National Defense, and enacting provisions set out as a note under section 3414 of Title 12\] may be cited as the ‘USA PATRIOT Act Additional Reauthorizing Amendments Act of 2006’.”
+
+Pub. L. 109–177, §1(a), Mar. 9, 2006, 120 Stat. 192, provided that: “This Act \[see Tables for classification\] may be cited as the ‘USA PATRIOT Improvement and Reauthorization Act of 2005’.”
+
+Pub. L. 109–177, title II, §201, Mar. 9, 2006, 120 Stat. 230, provided that: “This title \[enacting section 3599 of this title, amending section 3583 of this title and section 848 of Title 21, Food and Drugs, and enacting provisions set out as notes under section 46502 of Title 49, Transportation\] may be cited as the ‘Terrorist Death Penalty Enhancement Act of 2005’.”
+
+Pub. L. 109–177, title III, §301, Mar. 9, 2006, 120 Stat. 233, provided that: “This title \[see Tables for classification\] may be cited as the ‘Reducing Crime and Terrorism at America's Seaports Act of 2005’.”
+
+Pub. L. 109–177, title IV, §401, Mar. 9, 2006, 120 Stat. 243, provided that: “This title \[see Tables for classification\] may be cited as the ‘Combating Terrorism Financing Act of 2005’.”
+
+Pub. L. 109–177, title VI, §601, Mar. 9, 2006, 120 Stat. 251, provided that: “This title \[see Tables for classification\] may be cited as the ‘Secret Service Authorization and Technical Modification Act of 2005’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–458, title VI, §6701, Dec. 17, 2004, 118 Stat. 3764, provided that: “This subtitle \[subtitle H (§§6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and 1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Stop Terrorist and Military Hoaxes Act of 2004’.”
 
-Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: “This subtitle \[subtitle I (§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the ‘Weapons of Mass Destruction Prohibition Improvement Act of 2004’.”
+Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: “This subtitle \[subtitle I\(§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the ‘Weapons of Mass Destruction Prohibition Improvement Act of 2004’.”
 
 Pub. L. 108–458, title VI, §6901, Dec. 17, 2004, 118 Stat. 3769, provided that: “This subtitle \[subtitle J (§§6901–6911) of title VI of Pub. L. 108–458, enacting sections 175c, 2332g, and 2332h of this title, amending sections 1956, 2332b, and 2516 of this title, section 2778 of Title 22, Foreign Relations and Intercourse, and sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175c of this title\] may be cited as the ‘Prevention of Terrorist Access to Destructive Weapons Act of 2004’.”
 
@@ -24,7 +52,7 @@ Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provi
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001’.”
+Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, as amended by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001’ or the ‘USA PATRIOT Act’.”
 
 #### Short Title of 1998 Amendments
 
@@ -56,7 +84,7 @@ Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
+Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

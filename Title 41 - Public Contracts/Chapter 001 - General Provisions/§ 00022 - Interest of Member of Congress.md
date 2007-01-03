@@ -2,7 +2,7 @@
 
 No Member of Congress shall be admitted to any share or part of any contract or agreement made, entered into, or accepted by or on behalf of the United States, or to any benefit to arise thereupon. The provisions of this section shall not apply to any contracts or agreements heretofore or hereafter entered into under the Agricultural Adjustment Act \[7 U.S.C. 601 et seq.\], the Federal Farm Loan Act, the Emergency Farm Mortgage Act of 1933, the Federal Farm Mortgage Corporation Act, the Farm Credit Act of 1933, and the Home Owners’ Loan Act of 1933 \[12 U.S.C. 1461 et seq.\], and shall not apply to contracts or agreements of a kind which the Secretary of Agriculture may enter into with farmers: <i>Provided</i>, That such exemption shall be made a matter of public record.
 
-(R.S. §3741; Feb. 27, 1877, ch. 69, §1, 19 Stat. 249; Jan. 25, 1934, ch. 5, 48 Stat. 337; June 27, 1934, ch. 847, title V, §510, 48 Stat. 1264; Aug. 26, 1937, ch. 821, 50 Stat. 838; Pub. L. 103–355, title VI, §6004, Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(i)(12), Feb. 10, 1996, 110 Stat. 676.)
+(R.S. §3741; Feb. 27, 1877, ch. 69, §1, 19 Stat. 249; Jan. 25, 1934, ch. 5, 48 Stat. 337; June 27, 1934, ch. 847, title V, §510, 48 Stat. 1264; Aug. 26, 1937, ch.821, 50 Stat. 838; Pub. L. 103–355, title VI, §6004, Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(i)(12), Feb. 10, 1996, 110 Stat. 676.)
 
 #### References in Text
 

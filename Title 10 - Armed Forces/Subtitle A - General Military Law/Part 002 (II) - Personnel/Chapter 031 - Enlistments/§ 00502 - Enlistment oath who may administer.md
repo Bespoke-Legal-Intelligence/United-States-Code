@@ -1,12 +1,16 @@
 ### §502. Enlistment oath: who may administer
 
-Each person enlisting in an armed force shall take the following oath:
+(a)
+
+Enlistment Oath.—Each person enlisting in an armed force shall take the following oath:
 
 &emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God.”
 
-> This oath may be taken before any commissioned officer of any armed force.
+(b)
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §501; Pub. L. 87–751, §1, Oct. 5, 1962, 76 Stat. 748; renumbered §502, Pub. L. 90–235, §2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, §653(a)(1), Nov. 29, 1989, 103 Stat. 1462.)
+Who May Administer.—The oath may be taken before the President, the Vice-President, the Secretary of Defense, any commissioned officer, or any other person designated under regulations prescribed by the Secretary of Defense.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §501; Pub. L. 87–751, §1, Oct. 5, 1962, 76 Stat. 748; renumbered §502, Pub. L. 90–235, §2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, §653(a)(1), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 109–364, div. A, title V, §595(a), Oct. 17, 2006, 120 Stat. 2235.)
 
 Historical and Revision Notes
 
@@ -29,6 +33,8 @@ The words “or affirmation” are omitted as covered by the definition of the w
 The Uniform Code of Military Justice, referred to in the oath, is classified to chapter 47 (§801 et seq.) of this title.
 
 #### Amendments
+
+2006—Pub. L. 109–364 designated existing provisions as subsec. (a), inserted heading, struck out concluding provisions which read as follows: “This oath may be taken before any commissioned officer of any armed force.”, and added subsec. (b).
 
 1989—Pub. L. 101–189 struck out “or affirmation” after “This oath”.
 

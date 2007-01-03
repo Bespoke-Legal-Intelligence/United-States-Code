@@ -38,7 +38,7 @@
 
 (d) When the Secretary concerned makes a determination under section 406(j) of title 37 that the dependents of a member on a permanent change of station are unable to accompany the member to an overseas duty station because of unexpected and uncontrollable circumstances, and the member shipped a motor vehicle pursuant to this section in anticipation of a dependent accompanying the member to the new duty station, the member may reship or transship such motor vehicle in accordance with this section.
 
-(e) The Secretary of Defense (and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy) may prescribe regulations limiting those leased motor vehicles that may betransported pursuant to this section based upon the length of the lease and other terms and conditions of the lease that the Secretary considers appropriate.
+(e) The Secretary of Defense (and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy) may prescribe regulations limiting those leased motor vehicles that may be transported pursuant to this section based upon the length of the lease and other terms and conditions of the lease that the Secretary considers appropriate.
 
 (f) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of a motor vehicle being transported under this section.
 

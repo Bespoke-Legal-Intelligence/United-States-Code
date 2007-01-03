@@ -84,7 +84,7 @@ In this chapter, the following definitions shall apply:
 
 #### (15) Residential mortgage transaction
 
-&emsp;The term “residential mortgage transaction” means a transaction consummated on or after the date that is 1 year after July 29,1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
+&emsp;The term “residential mortgage transaction” means a transaction consummated on or after the date that is 1 year after July 29, 1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
 
 #### (16) Servicer
 

@@ -50,7 +50,7 @@ Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, pr
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–519, title II, §211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle \[subtitle B (§§211,212) of title II of Pub. L. 100–519, enacting section 3704b of this title and amending section 3710 of this title\] may be cited as the ‘National Technical Information Act of 1988’.”
+Pub. L. 100–519, title II, §211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 100–519, enacting section 3704b of this title and amending section 3710 of this title\] may be cited as the ‘National Technical Information Act of 1988’.”
 
 #### Short Title of 1987 Amendment
 
@@ -130,7 +130,7 @@ Issues.—The function of the Commission shall be to address the following issue
 
 &emsp;“(3) To what extent do high capital costs in general inhibit investment in projects with long-term payoffs, such as the development and commercialization of new technology?
 
-&emsp;“(4) To what extent does the structure of the financial services industry in the United States affect the flow of capital to advanced technology investment, and to what extent do current practices in the equity markets raise the cost of capital and inhibit the availability of capital to fund research and development, purchase advanced manufacturing equipment, and fund other investments necessary to commercialize advanced technology?
+&emsp;“(4) To what extent does the structure of the financial services industry in the United States affect theflow of capital to advanced technology investment, and to what extent do current practices in the equity markets raise the cost of capital and inhibit the availability of capital to fund research and development, purchase advanced manufacturing equipment, and fund other investments necessary to commercialize advanced technology?
 
 &emsp;“(5) In what ways do Government regulations influence the cost of capital in the United States?
 
@@ -222,7 +222,7 @@ Membership and Procedures.—(1) The Commission shall be composed of 15 members,
 
 “(4) The Secretary shall appoint a Commission chairman from among the members of the Commission. The chairman shall call the first meeting of the Commission within 90 days after the date of enactment of this Act \[Feb. 14, 1992\].
 
-“(5) The Secretary and the Administrator of the Office of Federal Procurement Policy shall provide such staff as may be required by the Commission to carry out its responsibilities.
+“(5) The Secretary and the Administrator of the Office of Federal Procurement Policy shall provide suchstaff as may be required by the Commission to carry out its responsibilities.
 
 “(6) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission or otherwise performing duties of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 

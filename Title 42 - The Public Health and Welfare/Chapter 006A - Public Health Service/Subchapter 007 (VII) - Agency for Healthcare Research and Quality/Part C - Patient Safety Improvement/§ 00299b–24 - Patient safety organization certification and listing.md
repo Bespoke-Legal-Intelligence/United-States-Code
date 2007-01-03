@@ -84,7 +84,7 @@ The Secretary shall compile and maintain a listing of entities with respect to w
 
 #### (1) In general
 
-&emsp;If, after notice of deficiency, an opportunity for a hearing, and a reasonable opportunity for correction, the Secretary determines that a patient safety organization does not meet the certification requirements under subsection (a)(2) of this section, including subparagraphs (A) and (B) of such subsection, the Secretary shall revoke the Secretary's acceptance of the certification of such organization.
+&emsp;If, after notice of deficiency, an opportunity for a hearing, and a reasonable opportunity forcorrection, the Secretary determines that a patient safety organization does not meet the certification requirements under subsection (a)(2) of this section, including subparagraphs (A) and (B) of such subsection, the Secretary shall revoke the Secretary's acceptance of the certification of such organization.
 
 #### (2) Supplying confirmation of notification to providers
 

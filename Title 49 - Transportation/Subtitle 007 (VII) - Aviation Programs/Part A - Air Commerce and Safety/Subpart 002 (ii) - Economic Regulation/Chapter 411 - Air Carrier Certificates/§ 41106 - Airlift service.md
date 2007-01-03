@@ -2,7 +2,7 @@
 
 (a)
 
-Interstate Transportation.—(1) Except as provided in subsection (d) of this section, the transportation of passengers or property by transport category aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service in the United States may be provided only by an air carrier that—
+Interstate Transportation.—(1) Except as provided in subsection (d) of this section, the transportation of passengers or property by transport category aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military departmentthrough a contract for airlift service in the United States may be provided only by an air carrier that—
 
 &emsp;(A) has aircraft in the civil reserve air fleet or offers to place the aircraft in that fleet; and
 

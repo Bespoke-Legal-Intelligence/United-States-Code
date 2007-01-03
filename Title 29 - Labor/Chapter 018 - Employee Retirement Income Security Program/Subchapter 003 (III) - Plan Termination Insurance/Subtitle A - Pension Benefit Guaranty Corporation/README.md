@@ -15,4 +15,4 @@ Subtitle A—Pension Benefit Guaranty Corporation
 - [&sect; 01308 - Annual report by the corporation](%C2%A7%2001308%20-%20Annual%20report%20by%20the%20corporation.md)
 - [&sect; 01309 - Portability assistance](%C2%A7%2001309%20-%20Portability%20assistance.md)
 - [&sect; 01310 - Authority to require certain information](%C2%A7%2001310%20-%20Authority%20to%20require%20certain%20information.md)
-- [&sect; 01311 - Notice to participants](%C2%A7%2001311%20-%20Notice%20to%20participants.md)
+- [&sect; 01311 - Repealed. Pub. L. 109&#8211;280, title V, &sect;501(b)(1), Aug. 17, 2006, 120 Stat. 939](%C2%A7%2001311%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93280%2C%20title%20V%2C%20%C2%A7501%28b%29%281%29%2C%20Aug.%2017%2C%202006%2C%20120%20Stat.%20939.md)

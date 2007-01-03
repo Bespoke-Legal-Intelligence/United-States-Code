@@ -10,7 +10,7 @@ The Federal Government shall not—
 
 #### (b) Authorized Federal uses
 
-(1) A missile described in subsection (c) of this section may be converted for use as a space transportation vehicle by the Federal Government if, except as provided in paragraph (2) and at least 30 days before such conversion, the agency seeking to use the missile as a space transportation vehicle transmits to the Committee on Armed Services and the Committee on Science of the House of Representatives, and tothe Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, a certification that the use of such missile—
+(1) A missile described in subsection (c) of this section may be converted for use as a space transportation vehicle by the Federal Government if, except as provided in paragraph (2) and at least 30 days before such conversion, the agency seeking to use the missile as a space transportation vehicle transmits to the Committee on Armed Services and the Committee on Science of the House of Representatives, and to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, a certification that the use of such missile—
 
 &emsp;(A) would result in cost savings to the Federal Government when compared to the cost of acquiring space transportation services from United States commercial providers;
 

@@ -90,7 +90,7 @@ Reimbursement of Incidental Expenses.—The Secretary concerned may provide for 
 
 Authority To Install Equipment.—(1) The Secretary concerned may install telephone lines and any necessary telecommunication equipment in the private residences of persons, designated in accordance with the regulations prescribed under paragraph (4), who provide voluntary services accepted under paragraph (3) or (8) of subsection (a).
 
-(2) In the case of equipment installed under the authority of paragraph (1), the Secretary concerned may pay the charges incurred for the use of the equipment for authorized purposes.
+(2) In the case of equipment installed under the authority of paragraph (1), the Secretaryconcerned may pay the charges incurred for the use of the equipment for authorized purposes.
 
 (3) To carry out this subsection, the Secretary concerned may use appropriated funds (notwithstanding section 1348 of title 31) or nonappropriated funds of the military department under the jurisdiction of the Secretary or, with respect to the Coast Guard, the department in which the Coast Guard is operating.
 
@@ -100,9 +100,9 @@ Authority To Install Equipment.—(1) The Secretary concerned may install teleph
 
 #### References in Text
 
-The Suits in Admiralty Act, referred to in subsec. (d)(1)(B), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, as amended, which is classified generally to chapter 20 (§741 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see Short Title note set out under section 741 of Title 46, Appendix, and Tables.
+The Act of Mar. 9, 1920, commonly known as the “Suits in Admiralty Act”, referred to in subsec. (d)(1)(B), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, as amended, which was classified generally to chapter 20 (§§741 to 743, 744 to 752) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 309 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 30901 of Title 46 provides that chapter 309 of Title 46 may be cited as the Suits in Admiralty Act. For disposition of sections of former Title 46, Appendix, to Title 46, see table at beginning of Title 46.
 
-The Public Vessels Act, referred to in subsec. (d)(1)(B), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, as amended, which is classified generally to chapter 22 (§781 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 46, Appendix, and Tables.
+The Act of Mar. 3, 1925, commonly known as the “Public Vessels Act”, referred to in subsec. (d)(1)(B), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, as amended, which was classified generally to chapter 22 (§§781 to 790) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 311 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 31101 of Title 46 provides that chapter 311 of Title 46 may be cited as the Public Vessels Act. For disposition of sections of former Title 46, Appendix, to Title 46, see table at beginning of Title 46.
 
 #### Amendments
 

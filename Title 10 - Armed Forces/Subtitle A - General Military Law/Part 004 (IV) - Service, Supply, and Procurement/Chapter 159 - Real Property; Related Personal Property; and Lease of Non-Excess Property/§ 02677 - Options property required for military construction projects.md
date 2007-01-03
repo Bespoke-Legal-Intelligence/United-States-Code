@@ -24,7 +24,7 @@ In subsections (a) and (b), the word “property” is substituted for the word 
 
 In subsection (a), the words “Before acquisition of a parcel of real property is authorized by law” are substituted for the words “prior to such authorization”. The word “acquire” is substituted for the word “procure”. The words “if he considers \* \* \* likely to be needed” are substituted for the words “which in their judgment is \* \* \* likely to be required”. The word “prospective” is omitted as surplusage.
 
-In subsection (b), the words “for each year the option is to continue, and proportionately for any other period” are substituted for the words “per annum” forclarity. The words “not more than 3 percent” are substituted for the words “not in excess of 3 per centum”.
+In subsection (b), the words “for each year the option is to continue, and proportionately for any other period” are substituted for the words “per annum” for clarity. The words “not more than 3 percent” are substituted for the words “not in excess of 3 per centum”.
 
 #### Amendments
 

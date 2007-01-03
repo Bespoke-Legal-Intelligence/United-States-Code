@@ -14,7 +14,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (2) Selection of signals
 
-&emsp;Whenever the number of local commercial television stations exceeds the maximumnumber of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
+&emsp;Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
 
 &emsp;&emsp;(A) under no circumstances shall a cable operator carry a qualified low power station in lieu of a local commercial television station; and
 
@@ -110,7 +110,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### (1) Carriage pending proceeding
 
-&emsp;Pending the outcome of the proceeding under paragraph (2), nothing in this chaptershall require a cable operator to carry on any tier, or prohibit a cable operator from carrying on any tier, the signal of any commercial television station or video programming service that is predominantly utilized for the transmission of sales presentations or program length commercials.
+&emsp;Pending the outcome of the proceeding under paragraph (2), nothing in this chapter shall require a cable operator to carry on any tier, or prohibit a cable operator from carrying on any tier, the signal of any commercial television station or video programming service that is predominantly utilized for the transmission of sales presentations or program length commercials.
 
 #### (2) Proceeding concerning certain stations
 

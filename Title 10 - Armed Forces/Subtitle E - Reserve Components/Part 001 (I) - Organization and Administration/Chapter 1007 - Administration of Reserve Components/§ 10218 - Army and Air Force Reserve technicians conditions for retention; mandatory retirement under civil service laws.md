@@ -2,7 +2,7 @@
 
 (a)
 
-Separation and Retirement of Military Technicians (Dual Status).—(1) An individual employed by the Army Reserve or the Air Force Reserve as a military technician (dual status)who after October 5, 1999, loses dual status is subject to paragraph (2) or (3), as the case may be.
+Separation and Retirement of Military Technicians (Dual Status).—(1) An individual employed by the Army Reserve or the Air Force Reserve as a military technician (dual status) who after October 5, 1999, loses dual status is subject to paragraph (2) or (3), as the case may be.
 
 (2) If a technician described in paragraph (1) is eligible at the time dual status is lost for an unreduced annuity and is age 60 or older at that time, the technician shall be separated not later than 30 days after the date on which dual status is lost.
 
@@ -44,7 +44,7 @@ Non-Dual Status Technicians.—(1) An individual who on October 5, 1999, is empl
 
 &emsp;(ii) shall be separated or retired—
 
-&emsp;&emsp;(I) in the case of a technician first hired as a technician on or before February 10, 1996, and who on October 5, 1999, is a non-dual status technician, not later than 30 days after becoming eligible for an unreduced annuity and becoming 60 years of age; and
+&emsp;&emsp;(I) in the case of a technician first hired as a technician on or before February 10, 1996, and who on October 5, 1999, is a non-dual status technician, not later than 30 daysafter becoming eligible for an unreduced annuity and becoming 60 years of age; and
 
 &emsp;&emsp;(II) in the case of a technician first hired as a technician after February 10, 1996, and who on October 5, 1999, is a non-dual status technician, not later than one year after the date on which dual status is lost.
 
@@ -102,5 +102,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §525(b)\], Oct. 30, 2000, 114 Sta
 
 #### Temporary Provision for Extension of Time for Separation or Retirement
 
-Pub. L. 106–65, div. A, title V, §522(a)(3), Oct. 5, 1999, 113 Stat. 597, provided that: “During the six-month period beginning on the date of the enactment of this Act \[Oct. 5, 1999\], the provisions of subsections (a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
+Pub. L. 106–65, div. A, title V, §522(a)(3), Oct. 5, 1999, 113  Stat.  597,  provided  that:  “During  the  six-month period beginning on the date of the enactment of this Act \[Oct. 5, 1999\], the provisions of subsections (a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
 

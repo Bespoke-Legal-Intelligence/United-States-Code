@@ -68,7 +68,7 @@ As used in this chapter:
 
 #### (A) Definition
 
-&emsp;&emsp;The term “lobbying contact” means any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—
+&emsp;&emsp;The term “lobbying contact” means any oral or written communication (including anelectronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—
 
 &emsp;&emsp;&emsp;(i) the formulation, modification, or adoption of Federal legislation (including legislative proposals);
 

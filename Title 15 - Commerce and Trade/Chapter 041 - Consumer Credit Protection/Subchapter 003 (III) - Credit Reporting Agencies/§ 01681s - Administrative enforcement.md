@@ -2,7 +2,7 @@
 
 #### (a) Enforcement by Federal Trade Commission
 
-(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission withrespect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
+(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
 
 (2)(A) In the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
 
@@ -44,7 +44,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;&emsp;(B) subject to paragraph (5), may bring an action on behalf of the residents of the State to recover—
 
-&emsp;&emsp;&emsp;(i) damages for which the person is liable to such residents under sections 1681n and1681<i>o</i> of this title as a result of the violation;
+&emsp;&emsp;&emsp;(i) damages for which the person is liable to such residents under sections 1681n and 1681<i>o</i> of this title as a result of the violation;
 
 &emsp;&emsp;&emsp;(ii) in the case of a violation described in any of paragraphs (1) through (3) of section 1681s–2(c) of this title, damages for which the person would, but for section 1681s–2(c) of this title, be liable to such residents as a result of the violation; or
 
@@ -66,7 +66,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (3) Investigatory powers
 
-&emsp;For purposes of bringing any action under this subsection, nothing in this subsection shall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+&emsp;For purposes of bringing any action under this subsection, nothing in this subsectionshall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
 #### (4) Limitation on State action while Federal action pending
 
@@ -108,7 +108,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 #### (3) Annual summary reports
 
-&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit anannual summary report to the Commission on consumer complaints received by the agency on identity theft or fraud alerts.
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit an annual summary report to the Commission on consumer complaints received by the agency on identity theft or fraud alerts.
 
 #### (g) FTC regulation of coding of trade names
 
@@ -213,4 +213,8 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 

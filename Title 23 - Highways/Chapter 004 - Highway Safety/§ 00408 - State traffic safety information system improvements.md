@@ -2,7 +2,7 @@
 
 (a)
 
-Grant Authority.—Subject to the requirements of this section, the Secretary shall make grants to eligible States to support the development and implementation of effective programs by such States to—
+Grant Authority.—Subject to the requirements of this section, the Secretary shall makegrants to eligible States to support the development and implementation of effective programs by such States to—
 
 &emsp;(1) improve the timeliness, accuracy, completeness, uniformity, integration, and accessibility of the safety data of the State that is needed to identify priorities for national, State, and local highway and traffic safety programs;
 
@@ -124,5 +124,5 @@ Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, required th
 
 #### Regulations; Congressional Veto of Supplemental Grants
 
-Pub. L. 97–364, title I, §101(c), Oct. 25, 1982, 96 Stat. 1738, required the Secretary of Transportation, before Feb. 1, 1983, to issue regulations to implement this section.
+Pub. L. 97–364, title I, §101(c), Oct. 25, 1982, 96 Stat. 1740, required the Secretary of Transportation, before Feb. 1, 1983, to issue regulations to implement this section.
 

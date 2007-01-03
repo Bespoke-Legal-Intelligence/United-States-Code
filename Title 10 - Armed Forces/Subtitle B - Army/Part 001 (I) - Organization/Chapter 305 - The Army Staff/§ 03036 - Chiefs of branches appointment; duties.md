@@ -126,7 +126,7 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 1992—Subsec. (d)(3). Pub. L. 102–580 added par. (3).
 
-1987—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designated existing second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
+1987—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designatedexisting second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
 
 &emsp;“(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
 

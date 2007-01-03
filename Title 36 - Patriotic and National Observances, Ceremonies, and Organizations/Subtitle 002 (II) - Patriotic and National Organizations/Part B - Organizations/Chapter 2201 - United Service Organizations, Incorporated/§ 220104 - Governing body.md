@@ -8,7 +8,7 @@ Board of Governors.—(1) The board of governors is the governing body of the co
 
 &emsp;(A) six members appointed by the President;
 
-&emsp;(B) the Secretary of State <sup>1</sup> or the Secretary's designee; and
+&emsp;(B) the Secretary of Defense or the Secretary's designee; and
 
 &emsp;(C) representatives of the civilian organizations listed in section 220102(4) of this title, and of the public at large, as provided in the bylaws.
 
@@ -16,11 +16,11 @@ Board of Governors.—(1) The board of governors is the governing body of the co
 
 (b)
 
-Officers.—(1) The office of honorary chairman of the corporation shall be offered to the President. On acceptance, the honorary chairman shall be invited to preside at meetings of the corporation that the honorary chairman deems appropriate and convenient.
+Officers.—(1) The office of honorary chairman of the corporation shall be offered to the President. On acceptance, the honorary chairman shall be invited to preside at meetings ofthe corporation that the honorary chairman deems appropriate and convenient.
 
 (2) The corporation may have other officers as provided in the bylaws.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1460.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1460; Pub. L. 109–284, §5(11), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -50,5 +50,7 @@ In subsection (a)(2), the text of 36:1305(b) (2d sentence) and the word “There
 
 In subsection (b)(1), the word “offered” is substituted for “tendered” to use a more common word.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Secretary of Defense”.</i>
+#### Amendments
+
+2006—Subsec. (a)(2)(B). Pub. L. 109–284 substituted “Defense” for “State”.
 

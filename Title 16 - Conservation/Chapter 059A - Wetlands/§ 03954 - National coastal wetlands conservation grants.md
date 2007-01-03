@@ -24,7 +24,7 @@ The Director may only grant or otherwise provide matching moneys to a coastal St
 
 &emsp;&emsp;(A) a trust fund from which the principal is not spent; or
 
-&emsp;&emsp;(B) a fund derived from a dedicated recurring source of monies including, but not limited to, real estate transfer fees or taxes, cigarette taxes, tax check-offs, or motor vehicle license plate fees.
+&emsp;&emsp;(B) a fund derived from a dedicated recurring source of monies including, but not limited to, real estate transfer fees or taxes,cigarette taxes, tax check-offs, or motor vehicle license plate fees.
 
 #### (2) Form of State share
 

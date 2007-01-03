@@ -18,7 +18,7 @@ It is the purpose of this part, to assist in making available the benefits of po
 
 The Secretary shall, in accordance with subparts 1 through 8 of this part, carry out programs to achieve the purposes of this part.
 
-(Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17,1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482; amended Pub. L. 105–244, title IV, §401(g)(1), Oct. 7, 1998, 112 Stat. 1652.)
+(Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482; amended Pub. L. 105–244, title IV, §401(g)(1), Oct. 7, 1998, 112 Stat. 1652.)
 
 #### Prior Provisions
 
@@ -374,7 +374,7 @@ Waiver Requirement.—Notwithstanding any other provision of law, unless enacted
 
 &emsp;“(3) the number of years for which individuals who are engaged in such military service may be eligible for Pell Grants under subpart 1 of part A of title IV of the Act \[20 U.S.C. 1070a et seq.\];
 
-&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a period of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
+&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes aperiod of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
 
 &emsp;“(5) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a single period of deferment under section 427(a)(2)(C)(i) or 428(b)(1)(M)(i) of the Act subsequent to such service; and
 

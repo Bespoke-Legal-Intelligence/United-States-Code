@@ -52,7 +52,7 @@ A board of trade applying to the Commission for designation as a contract market
 
 #### (8) Ability to obtain information
 
-&emsp;The board of trade shall establish and enforce rules that will allow the board of tradeto obtain any necessary information to perform any of the functions described in this subsection, including the capacity to carry out such international information-sharing agreements as the Commission may require.
+&emsp;The board of trade shall establish and enforce rules that will allow the board of trade to obtain any necessary information to perform any of the functions described in this subsection, including the capacity to carry out such international information-sharing agreements as the Commission may require.
 
 #### (c) Existing contract markets
 
@@ -156,5 +156,5 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### Prior Provisions
 
-A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491, 1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
+A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491,1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
 

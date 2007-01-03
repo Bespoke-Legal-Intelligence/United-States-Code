@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants to industry associations to support programs to improve energy efficiency in industry. In order to be eligible for a grant under this subsection, an industry association shall establish a voluntary energy efficiency improvement target program.
+&emsp;The Secretary shall make grants to industry associations to support programs to improveenergy efficiency in industry. In order to be eligible for a grant under this subsection, an industry association shall establish a voluntary energy efficiency improvement target program.
 
 #### (2) Awarding of grants
 
@@ -54,7 +54,7 @@ The Secretary shall establish an annual award program to recognize those industr
 
 #### (c) Report on industrial reporting and voluntary targets
 
-Not later than one year after October 24, 1992, the Secretary shall, in consultation with affected industries, evaluate and report to the Congress regarding the establishment of Federally mandated energy efficiency reporting requirements and voluntary energy efficiency improvement targets for energy intensive industries. Such report shall include an evaluation ofthe costs and benefits of such reporting requirements and voluntary energy efficiency improvement targets, and recommendations regarding the role of such activities in improving energy efficiency in energy intensive industries.
+Not later than one year after October 24, 1992, the Secretary shall, in consultation with affected industries, evaluate and report to the Congress regarding the establishment of Federally mandated energy efficiency reporting requirements and voluntary energy efficiency improvement targets for energy intensive industries. Such report shall include an evaluation of the costs and benefits of such reporting requirements and voluntary energy efficiency improvement targets, and recommendations regarding the role of such activities in improving energy efficiency in energy intensive industries.
 
 (Pub. L. 102–486, title I, §131, Oct. 24, 1992, 106 Stat. 2836.)
 

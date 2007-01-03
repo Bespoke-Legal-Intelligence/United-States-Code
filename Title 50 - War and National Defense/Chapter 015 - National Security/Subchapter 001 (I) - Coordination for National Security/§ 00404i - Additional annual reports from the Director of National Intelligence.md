@@ -18,7 +18,7 @@
 
 #### (b) Annual report on hiring and retention of minority employees
 
-(1) The Director of National Intelligence shall, on an annual basis, submit to Congress a reporton the employment of covered persons within each element of the intelligence community for the preceding fiscal year.
+(1) The Director of National Intelligence shall, on an annual basis, submit to Congress a report on the employment of covered persons within each element of the intelligence community for the preceding fiscal year.
 
 (2) Each such report shall include disaggregated data by category of covered person from each element of the intelligence community on the following:
 

@@ -54,13 +54,9 @@ Procedures.—The Secretary shall establish procedures for the conduct of the pi
 
 (i)
 
-Duration of Pilot Program.—The pilot program under this section shall be conducted during the three-year period beginning on a date specified by the Secretary of Defense, which date shall be not later than 180 days after the date of the enactment of this section.
+Duration of Pilot Program.—The pilot program under this section may be conducted through September 30, 2009.
 
-(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565.)
-
-#### References in Text
-
-The date of enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
+(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, §912, Oct. 17, 2006, 120 Stat. 2355.)
 
 #### Prior Provisions
 
@@ -77,4 +73,8 @@ Section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availabilit
 Section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to purchases of sample aircraft.
 
 Section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications.
+
+#### Amendments
+
+2006—Subsec. (i). Pub. L. 109–364 substituted “may be conducted through September 30, 2009” for “shall be conducted during the three-year period beginning on a date specified by the Secretary of Defense, which date shall be not later than 180 days after the date of the enactment of this section”.
 

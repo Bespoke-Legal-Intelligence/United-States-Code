@@ -2,7 +2,7 @@
 
 (a)
 
-Supplemental Allowance Required.—(1) The Secretary concerned shall increase the basic allowance for subsistence to which a member of the armed forces described in subsection (b) is otherwise entitled under section 402 of this title by an amount (in this section referred to as the “supplemental subsistence allowance”) designed to remove the member's household from eligibility for benefits under the food stamp program.
+Supplemental Allowance Required.—(1) The Secretary concerned shall increase the basicallowance for subsistence to which a member of the armed forces described in subsection (b) is otherwise entitled under section 402 of this title by an amount (in this section referred to as the “supplemental subsistence allowance”) designed to remove the member's household from eligibility for benefits under the food stamp program.
 
 (2) The supplemental subsistence allowance may not exceed $500 per month. In establishing the amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
@@ -22,7 +22,7 @@ Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the 
 
 &emsp;(A) the amount of the supplemental subsistence allowance that is payable under this section;
 
-&emsp;(B) the amount of any special pay that is payable to the member under section 310 of this section,<sup>1</sup> relating to duty subject to hostile fire or imminent danger; or
+&emsp;(B) the amount of any special pay that is payable to the member under section 310 of this title, relating to duty subject to hostile fire or imminent danger; or
 
 &emsp;(C) the amount of any family separation allowance that is payable to the member under section 427 of this title.
 
@@ -62,7 +62,7 @@ Eligibility for Other Federal Assistance.—(1) A child or spouse of a member of
 
 &emsp;(D) Assistance under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.).
 
-(3) A household that includes a member of the armed forces receiving the supplemental subsistence allowance under this section and that, except on account of the receipt of such allowance, would be eligible to receive a benefit under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
+(3) A household that includes a member of the armed forces receiving the supplemental subsistence allowance under this section and that, except on account of the receipt of such allowance, would be eligible to receive a benefit under theLow-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 
 (h)
 
@@ -78,7 +78,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “food stamp program” means the program established pursuant to section 4 of the Food Stamp Act of 1977 (7 U.S.C. 2013).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, §1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401.)
 
 #### References in Text
 
@@ -94,7 +94,9 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (g)(3)
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–163, §608(b), which directed amendment of subsec. (f) by substituting “Secretary of Homeland Security, with respect to the Coast Guard” for “Secretary of Transportation” in the first sentence and by striking out the second sentence, wasexecuted to reflect the probable intent of Congress by making the substitution in the second sentence and by striking out the third sentence which read as follows: “No report is required under this subsection after March 1, 2006.”
+2006—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted “title” for “section”.
+
+Subsec. (f). Pub. L. 109–163, §608(b), as amended by Pub. L. 109–364, §1071(e)(4), substituted “Secretary of Homeland Security, with respect to the Coast Guard” for “Secretary of Transportation” and struck out at end “No report is required under this subsection after March 1, 2006.”
 
 Subsec. (i). Pub. L. 109–163, §608(a), struck out heading and text of subsec. (i). Text read as follows: “No supplemental subsistence allowance may be provided under this section after September 30, 2006.”
 
@@ -108,6 +110,10 @@ Subsecs. (g) to (i). Pub. L. 108–375, §602(b), added subsec. (g) and redesign
 
 2001—Subsec. (b)(1). Pub. L. 107–107 inserted “with dependents” after “a member of the armed forces”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title X, §1071(e), Oct. 17, 2006, 120 Stat. 2401, provided that the amendment made by section 1071(e)(4) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–375, div. A, title VI, §602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: “The amendments made by this section \[amending this section\] shall apply in determining, on or after the date of the enactment of this Act \[Oct. 28, 2004\], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended.”
@@ -119,6 +125,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: “Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “title,”.</i>
 

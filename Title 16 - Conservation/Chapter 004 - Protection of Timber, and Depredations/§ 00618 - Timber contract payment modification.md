@@ -28,7 +28,7 @@
 
 (D) A purchaser may elect to pay the buy-out cost imposed by subparagraph (A)(iii) in lieu of utilizing loss and net book worth determinations.
 
-(E) Where a purchaser is not able to obtain sufficient credit elsewhere to finance the buy-out charge at reasonable rates and terms, purchaser may, upon payment of 5 per centum of the buy-out charge, pay the remainder of the buy-out charge in equal quarterly payments over a period not to exceed 5 years at an interest rate adjusted with each payment equal to the average market yield of outstanding Treasury obligations with remaining years to maturity of five years payment must be secured by bond, deposited securities or other forms of security acceptable to the appropriate Secretary in an amount sufficient to cover the entire buy-out payment.
+(E) Where a purchaser is not able to obtain sufficient credit elsewhere to finance the buy-out charge at reasonable rates and terms, purchaser may, upon payment of 5 per centum of the buy-out charge, pay the remainder of thebuy-out charge in equal quarterly payments over a period not to exceed 5 years at an interest rate adjusted with each payment equal to the average market yield of outstanding Treasury obligations with remaining years to maturity of five years payment must be secured by bond, deposited securities or other forms of security acceptable to the appropriate Secretary in an amount sufficient to cover the entire buy-out payment.
 
 (F) For purposes of this paragraph, the term “contract overbid” is the difference between the advertised contract rate and the rate the purchaser bid.
 
@@ -66,7 +66,7 @@ The Secretary of Agriculture and the Secretary of the Interior shall monitor bid
 
 #### (d) Cash down-payment and periodic payments for contracts; effective date
 
-Effective January 1, 1985, in any contract for the sale of timber from the National Forests, the Secretary of Agriculture shall require a cash down-payment at the time the contract is executed and periodic payments to be made over the remaining period of the contract.
+Effective January 1, 1985, in any contract for the sale of timber from the National Forests,the Secretary of Agriculture shall require a cash down-payment at the time the contract is executed and periodic payments to be made over the remaining period of the contract.
 
 (Pub. L. 98–478, §2, Oct. 16, 1984, 98 Stat. 2213.)
 

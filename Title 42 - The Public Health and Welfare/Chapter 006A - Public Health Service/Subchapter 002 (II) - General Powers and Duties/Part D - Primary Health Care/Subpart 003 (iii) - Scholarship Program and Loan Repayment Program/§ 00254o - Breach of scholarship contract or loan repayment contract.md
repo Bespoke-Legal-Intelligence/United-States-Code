@@ -22,7 +22,7 @@
 
 #### (b) Failure to commence or complete service obligations; formula to determine liability; payment to United States; recovery of delinquent damages; disclosure to credit reporting agencies
 
-(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
+(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to completea required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 
@@ -76,7 +76,7 @@
 
 (1) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
 
-(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
+(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or wouldinvolve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
 (3)(A) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
 

@@ -6,7 +6,7 @@ Salaries of Senators elected during a session to succeed appointees shall commen
 
 When no appointments have been made the salaries of Senators elected to fill such vacancies shall commence on the day following their election.
 
-(Feb. 10, 1923, ch. 68, 42 Stat. 1225; Feb. 6, 1931, ch. 111, 46 Stat. 1065; June 19, 1934, ch. 648, titleI, §1, 48 Stat. 1022; Feb. 13, 1935, ch. 6, §1, 49 Stat. 22, 23.)
+(Feb. 10, 1923, ch. 68, 42 Stat. 1225; Feb. 6, 1931, ch. 111, 46 Stat. 1065; June 19, 1934, ch. 648, title I, §1, 48 Stat. 1022; Feb. 13, 1935, ch. 6, §1, 49 Stat. 22, 23.)
 
 #### Prior Provisions
 

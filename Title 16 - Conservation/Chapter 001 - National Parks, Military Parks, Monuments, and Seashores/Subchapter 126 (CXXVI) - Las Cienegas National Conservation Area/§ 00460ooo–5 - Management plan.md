@@ -20,7 +20,7 @@ The management plan shall include—
 
 &emsp;(3) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resource objectives for the Conservation Area and with the other proposed management activities to accommodate visitors to the Conservation Area;
 
-&emsp;(4) cultural resources management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Conservation Area;
+&emsp;(4) cultural resources management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement ofthe Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Conservation Area;
 
 &emsp;(5) wildlife management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona and using previous studies of the Conservation Area;
 
@@ -32,7 +32,7 @@ The management plan shall include—
 
 &emsp;(9) cave resources management strategies prepared in compliance with the goals and objectives of the Federal Cave Resources Protection Act of 1988 (16 U.S.C. 4301 et seq.); and
 
-&emsp;(10) provisions designed to ensure that if a road or trail located on public lands withinthe Conservation Area, or any portion of such a road or trail, is removed, consideration shall be given to providing similar alternative access to the portion of the Conservation Area serviced by such removed road or trail.
+&emsp;(10) provisions designed to ensure that if a road or trail located on public lands within the Conservation Area, or any portion of such a road or trail, is removed, consideration shall be given to providing similar alternative access to the portion of the Conservation Area serviced by such removed road or trail.
 
 #### (c) Cooperative agreements
 

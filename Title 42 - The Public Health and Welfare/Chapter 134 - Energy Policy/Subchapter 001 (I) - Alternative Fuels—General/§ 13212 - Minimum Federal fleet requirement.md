@@ -136,7 +136,7 @@ Sec. 301. <i>Leadership Responsibilities</i>. The Office of Management and Budge
 
 &emsp;&emsp;(B) develop, in coordination with DOE and EPA, methods that will help Federal fleet managers to select vehicles to improve fleet fuel efficiency and to meet Tier 2 vehicle standards; and
 
-&emsp;&emsp;(C) collaborate with its customer agencies and their procurement staff and officials to discuss and plan efforts to ensure that the GSA-leased fleet is making progress toward the goals of this order.
+&emsp;&emsp;(C) collaborate with its customer agencies and their procurement staff and officials to discuss andplan efforts to ensure that the GSA-leased fleet is making progress toward the goals of this order.
 
 Sec. 302. <i>Designation of Senior Agency Official</i>. Within 90 days of the date of this order, the head of each agency shall designate a senior official to assume responsibility for the agency's AFV and fleet fuel efficiency programs, and for meeting the requirements of this order. Each senior agency official designated by an agency shall be responsible for:
 

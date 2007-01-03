@@ -42,7 +42,7 @@ Section 134(d) of Pub. L. 100–175 provided that:
 
 “(1) The Commissioner on Aging \[now Assistant Secretary for Aging\] shall establish a permanent interagency task force that is representative of departments and agencies of the Federal Government with an interest in older Indians and their welfare, and is designed to make recommendations with respect to facilitating the coordination of services and the improvement of services to older Indians.
 
-“(2) The task force shall be chaired by the Associate Commissioner on \[now Director of the Office for\] American Indian, Alaskan Native, and Native HawaiianAging and shall submit its findings and recommendations to the Commissioner at 6-month intervals beginning after the date of the enactment of this Act \[Nov. 29, 1987\]. Such findings and recommendations shall be included in the annual report required by section 207(a) of the Older Americans Act of 1965 \[42 U.S.C. 3018(a)\] to be submitted by the Commissioner.”
+“(2) The task force shall be chaired by the Associate Commissioner on \[now Director of the Office for\] American Indian, Alaskan Native, and Native Hawaiian Aging and shall submit its findings and recommendations to the Commissioner at 6-month intervals beginning after the date of the enactment of this Act \[Nov. 29, 1987\]. Such findings and recommendations shall be included in the annual report required by section 207(a) of the Older Americans Act of 1965 \[42 U.S.C. 3018(a)\] to be submitted by the Commissioner.”
 
 #### Special Report on Services for Older Indians
 

@@ -12,7 +12,7 @@ This chapter shall not apply to open dump sites on Indian lands or Alaska Native
 
 &emsp;(2) of any size that have been or are being operated for a profit; or
 
-&emsp;(3) where solid waste from an industrial process is being or has been routinely disposedof at a privately owned facility in compliance with applicable Federal laws.
+&emsp;(3) where solid waste from an industrial process is being or has been routinely disposed of at a privately owned facility in compliance with applicable Federal laws.
 
 #### (c) Rules of construction
 

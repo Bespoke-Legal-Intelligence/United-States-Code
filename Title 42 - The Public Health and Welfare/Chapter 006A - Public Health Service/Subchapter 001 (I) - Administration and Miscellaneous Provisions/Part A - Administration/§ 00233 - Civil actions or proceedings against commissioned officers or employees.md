@@ -10,7 +10,7 @@ The Attorney General shall defend any civil action or proceeding brought in any 
 
 #### (c) Removal to United States district court; procedure; proceeding upon removal deemed a tort action against United States; hearing on motion to remand to determine availability of remedy against United States; remand to State court or dismissal
 
-Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court ofthe United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the United States as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
+Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the United States as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
 
 #### (d) Compromise or settlement of claim by Attorney General
 
@@ -114,7 +114,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (B) The estimate under subparagraph (A) shall take into account—
 
-&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) of this section or by officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) of this section that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
+&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical,surgical, dental, or related functions by entities described in subsection (g)(4) of this section or by officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) of this section that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
 
 &emsp;(ii) the amounts paid during that 5-year period on all claims described in clause (i), regardless of when such claims were filed, adjusted to reflect payments which would not be permitted under section 1346 and chapter 171 of title 28, and
 
@@ -128,7 +128,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (1) If a civil action or proceeding is filed in a State court against any entity described in subsection (g)(4) of this section or any officer, governing board member, employee, or any contractor of such an entity for damages described in subsection (a) of this section, the Attorney General, within 15 days after being notified of such filing, shall make an appearance in such court and advise such court as to whether the Secretary has determined under subsections (g) and (h) of this section, that such entity, officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section with respect to the actions or omissions that are the subject of such civil action or proceeding. Such advice shall be deemed to satisfy the provisions of subsection (c) of this section that the Attorney General certify that an entity, officer, governing board member, employee, or contractor of the entity was acting within the scope of their employment or responsibility.
 
-(2) If the Attorney General fails to appear in State court within the time period prescribed under paragraph (1), upon petition of any entity or officer, governing board member, employee, or contractor of the entity named, the civil action or proceeding shall be removed to the appropriate United States district court. The civil action or proceeding shall be stayed in such court until such court conducts a hearing, and makes a determination, as to the appropriate forum or procedure for the assertion of theclaim for damages described in subsection (a) of this section and issues an order consistent with such determination.
+(2) If the Attorney General fails to appear in State court within the time period prescribed under paragraph (1), upon petition of any entity or officer, governing board member, employee, or contractor of the entity named, the civil action or proceeding shall be removed to the appropriate United States district court. The civil action or proceeding shall be stayed in such court until such court conducts a hearing, and makes a determination, as to the appropriate forum or procedure for the assertion of the claim for damages described in subsection (a) of this section and issues an order consistent with such determination.
 
 #### (m) Application of coverage to managed care plans
 
@@ -146,7 +146,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) The risk exposure of such entities.
 
-&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254b, or 256a of this title.<sup>4</sup>
+&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as acondition of receiving a grant under section 254b, 254b, or 256a of this title.<sup>4</sup>
 
 &emsp;(D) A comparison of the costs and the benefits to taxpayers of maintaining medical malpractice liability coverage for such entities pursuant to this section, taking into account—
 
@@ -180,7 +180,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (<i>o</i>) Volunteer services provided by health professionals at free clinics
 
-(1) For purposes of this section, a free clinic health professional shall in providing a qualifying health service to an individual be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under paragraph\(6)(D). The preceding sentence is subject to the provisions of this subsection.
+(1) For purposes of this section, a free clinic health professional shall in providing a qualifying health service to an individual be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under paragraph (6)(D). The preceding sentence is subject to the provisions of this subsection.
 
 (2) In providing a health service to an individual, a health care practitioner shall for purposes of this subsection be considered to be a free clinic health professional if the following conditions are met:
 
@@ -228,7 +228,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(E) Subsection (g)(1)(F) of this section applies to a health care practitioner for purposes of this subsection only to the extent that, in providing health services to an individual, each of the conditions specified in paragraph (2) is met.
 
-(6)(A) For purposes of making payments for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of free clinic health professionals,there is authorized to be appropriated $10,000,000 for each fiscal year.
+(6)(A) For purposes of making payments for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of free clinic health professionals, there is authorized to be appropriated $10,000,000 for each fiscal year.
 
 (B) The Secretary shall establish a fund for purposes of this subsection. Each fiscal year amounts appropriated under subparagraph (A) shall be deposited in such fund.
 
@@ -250,7 +250,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (1) In general
 
-&emsp;For purposes of this section, and subject to other provisions of this subsection, a covered person shall be deemed to be an employee of the Public Health Service with respect to liability arising out of administration of a covered countermeasure against smallpox to an individual during the effective period of a declaration by the Secretary under paragraph (2)(A).
+&emsp;For purposes of this section, and subject to other provisions of this subsection, a coveredperson shall be deemed to be an employee of the Public Health Service with respect to liability arising out of administration of a covered countermeasure against smallpox to an individual during the effective period of a declaration by the Secretary under paragraph (2)(A).
 
 #### (2) Declaration by Secretary concerning countermeasure against smallpox
 
@@ -328,7 +328,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (ii) Tolling of statute of limitations
 
-&emsp;&emsp;&emsp;The time limit for filing a claim under this subsection, or for filing an action based on such claim, shall be tolled during the pendency of a request for benefits or compensation under part C of this subchapter.
+&emsp;&emsp;&emsp;The time limit for filing a claim under this subsection, or for filing an actionbased on such claim, shall be tolled during the pendency of a request for benefits or compensation under part C of this subchapter.
 
 #### (iii) Construction
 
@@ -374,7 +374,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (A) In general
 
-&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this subsection, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover for that portion of the damages so awarded or paid, aswell as interest and any costs of litigation, resulting from the failure of any covered person to carry out any obligation or responsibility assumed by such person under a contract with the United States or from any grossly negligent, reckless, or illegal conduct or willful misconduct on the part of such person.
+&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this subsection, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any covered person to carry out any obligation or responsibility assumed by such person under a contract with the United States or from any grossly negligent, reckless, or illegal conduct or willful misconduct on the part of such person.
 
 #### (B) Venue
 
@@ -446,7 +446,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;&emsp;(iv) transmission of vaccinia virus by an individual to whom vaccinia vaccine was administered as provided by paragraph (2)(B).
 
-(July 1, 1944, ch. 373, title II, §224, formerly §223, as added Pub. L. 91–623, §4, Dec. 31, 1970, 84 Stat. 1870; renumbered §224, Pub. L. 92–157, title III, §301(c), Nov. 18, 1971, 85 Stat. 463; amended Pub. L. 102–501, §§2–4, Oct. 24, 1992, 106 Stat. 3268–3270; Pub. L. 103–183, title VII, §706(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 104–73, §§2–5(b), 6–11, Dec. 26, 1995, 109 Stat. 777–781; Pub. L. 104–191, title I,§194, Aug. 21, 1996, 110 Stat. 1988; Pub. L. 104–299, §4(a)(1), Oct. 11, 1996, 110 Stat. 3644; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 107–296, title III, §304(c), Nov. 25, 2002, 116 Stat. 2165; Pub. L. 108–20, §3(a)–(i), Apr. 30, 2003, 117 Stat. 646–648; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title II, §224, formerly §223, as added Pub. L. 91–623, §4, Dec. 31, 1970, 84 Stat. 1870; renumbered §224, Pub. L. 92–157, title III, §301(c), Nov. 18, 1971, 85 Stat. 463; amended Pub. L. 102–501, §§2–4, Oct. 24, 1992, 106 Stat. 3268–3270; Pub. L. 103–183, title VII, §706(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 104–73, §§2–5(b), 6–11, Dec. 26, 1995, 109 Stat. 777–781; Pub. L. 104–191, title I, §194, Aug. 21, 1996, 110 Stat. 1988; Pub. L. 104–299, §4(a)(1), Oct. 11, 1996, 110 Stat. 3644; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 107–296, title III, §304(c), Nov. 25, 2002, 116 Stat. 2165; Pub. L. 108–20, §3(a)–(i), Apr. 30, 2003, 117 Stat. 646–648; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 

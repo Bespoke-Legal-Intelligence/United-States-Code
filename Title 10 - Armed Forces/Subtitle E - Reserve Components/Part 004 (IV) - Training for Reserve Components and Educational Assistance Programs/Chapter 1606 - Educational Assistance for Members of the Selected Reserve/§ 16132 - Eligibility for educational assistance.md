@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 100–689, §111(b)(4), amended subsec. (d) generally. Prio
 
 1980—Pub. L. 96–513 inserted “of this title” after “section 2131” wherever appearing.
 
-1978—Subsec. (b)(1). Pub. L. 95–485 substituted “not less than six years” for “automatically extended by two years” and “last day of the term” for “eighth anniversary”.
+1978—Subsec. (b)(1). Pub. L. 95–485 substituted “not less than six years” for “automatically extended bytwo years” and “last day of the term” for “eighth anniversary”.
 
 #### Effective Date of 1996 Amendment
 

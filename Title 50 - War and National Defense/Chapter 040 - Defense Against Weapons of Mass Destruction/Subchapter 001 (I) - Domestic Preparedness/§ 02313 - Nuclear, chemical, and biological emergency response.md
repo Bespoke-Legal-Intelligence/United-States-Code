@@ -14,7 +14,7 @@ The Secretary of Energy shall designate an official within the Department of Ene
 
 #### (c) Funding
 
-Of the total amount authorized to be appropriated under section 301,<sup>1</sup> $15,000,000 is availablefor providing assistance described in subsection (a) of this section.
+Of the total amount authorized to be appropriated under section 301,<sup>1</sup> $15,000,000 is available for providing assistance described in subsection (a) of this section.
 
 (Pub. L. 104–201, div. A, title XIV, §1413, Sept. 23, 1996, 110 Stat. 2719; Pub. L. 109–163, div. A, title X, §1031, Jan. 6, 2006, 119 Stat. 3428.)
 

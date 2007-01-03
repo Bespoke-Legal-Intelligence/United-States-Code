@@ -30,7 +30,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(1) The outstanding balance in the account at the beginning of the statement period.
 
-&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such informationin accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
+&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
 
 &emsp;(3) The total amount credited to the account during the period.
 
@@ -38,7 +38,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(5) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 1606(a)(2) of this title) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
 
-&emsp;(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate (determined under section 1606(a)(2) of this title), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
+&emsp;(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate (determined under section 1606(a)(2) of this title), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annualpercentage rate, and the part of the balance to which it is applicable.
 
 &emsp;(7) The balance on which the finance charge was computed and a statement of how the balance was determined. If the balance is determined without first deducting all credits during the period, that fact and the amount of such payments shall also be disclosed.
 
@@ -282,7 +282,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;&emsp;(iii) approval by the charge card issuer does not constitute approval by the issuer of the extension of credit.
 
-> &emsp;&emsp;The information required to be disclosed under paragraph (1) shall be provided to the charge card holder by the creditor which maintains such open end consumer credit plan before the first extension of credit under such plan.
+> &emsp;&emsp;The information required to be disclosed under paragraph (1) shall be provided to thecharge card holder by the creditor which maintains such open end consumer credit plan before the first extension of credit under such plan.
 
 #### (E) Charge card defined
 
@@ -422,7 +422,7 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 #### (4) No preemption of State law
 
-&emsp;No provision of this subsection shall be construed as superseding any provision of State law which is applicable to the regulation of insurance.
+&emsp;No provision of this subsection shall be construed as superseding any provision of Statelaw which is applicable to the regulation of insurance.
 
 #### (5) Board definition of substantial decrease in coverage or service
 

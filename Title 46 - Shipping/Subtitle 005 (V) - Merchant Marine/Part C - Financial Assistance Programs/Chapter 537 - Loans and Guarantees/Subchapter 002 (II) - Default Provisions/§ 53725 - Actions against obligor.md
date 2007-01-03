@@ -1,0 +1,46 @@
+### §53725. Actions against obligor
+
+(a)
+
+In General.—For a default under a guaranteed obligation or related agreement, the Secretary may take any action against the obligor or another liable party that the Secretary considers necessary to protect the interests of the United States Government. A civil action may be brought in the name of the United States or the obligee. The obligee shall make available to the Government all records and evidence necessary to prosecute the action.
+
+(b)
+
+Title, Possession, and Purchase.—
+
+&emsp;(1)
+
+In general.—The Secretary may—
+
+&emsp;&emsp;(A) accept a conveyance of title to and possession of property from the obligor or another party liable to the Secretary; and
+
+&emsp;&emsp;(B) purchase the property for an amount not greater than the unpaid principal amount of the obligation and interest thereon.
+
+&emsp;(2)
+
+Payment of excess.—If, through the sale of property, the Secretary receives an amount of cash greater than the unpaid principal amount of the obligation, the unpaid interest on the obligation, and the expenses of collecting those amounts, the Secretary shall pay the excess to the obligor.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1619; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(F), Jan. 6, 2006, 119 Stat. 3555.)
+
+#### Amendment Not Shown in Text
+
+<i>This section was derived from section 1275(e) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(F), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1275(e) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53725
+
+46 App.:1275(e).
+
+June 29, 1936, ch. 858, title XI, §1105(e), as added June 23, 1938, ch. 600, §46, 52 Stat. 971; Aug. 15, 1953, ch. 513, §3, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §5, 68 Stat. 1272; Aug. 7, 1956, ch. 1026, §1(e)–(g), 70 Stat. 1087; Pub. L. 85–520, July 15, 1958, 72 Stat. 358; Pub. L. 91–469, §33, Oct. 21, 1970, 84 Stat. 1035; restated Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 915; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 98–595, §1(11), Oct. 30, 1984, 98 Stat. 3131.
+
+In subsection (a), the words “may take any action” are substituted for “shall take such action . . . that, in his discretion, may be required” for clarity and to eliminate unnecessary words.
+

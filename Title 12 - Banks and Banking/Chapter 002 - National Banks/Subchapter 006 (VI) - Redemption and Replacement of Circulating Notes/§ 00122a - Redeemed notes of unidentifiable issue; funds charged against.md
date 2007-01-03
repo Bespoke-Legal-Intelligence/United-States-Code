@@ -18,7 +18,7 @@ Section 445 of this title, referred to in text, was repealed by act June 12, 194
 
 #### Transfer of Functions
 
-For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
+For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ Applicable Transportation.—The Secretary shall prescribe by regulation the haz
 
 (c)
 
-Applications.—A motor carrier shall file an application with the Secretary for a safetypermit to provide transportation under this section. The Secretary may approve any part of the application or deny the application. The application shall be under oath and contain information the Secretary requires by regulation.
+Applications.—A motor carrier shall file an application with the Secretary for a safety permit to provide transportation under this section. The Secretary may approve any part of the application or deny the application. The application shall be under oath and contain information the Secretary requires by regulation.
 
 (d)
 

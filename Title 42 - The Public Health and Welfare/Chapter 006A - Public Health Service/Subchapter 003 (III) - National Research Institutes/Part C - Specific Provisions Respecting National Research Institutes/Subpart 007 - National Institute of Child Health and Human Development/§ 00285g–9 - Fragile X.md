@@ -2,7 +2,7 @@
 
 #### (a) Expansion and coordination of research activities
 
-The Director of the Institute, after consultation with the advisory council for the Institute,shall expand, intensify, and coordinate the activities of the Institute with respect to research on the disease known as fragile X.
+The Director of the Institute, after consultation with the advisory council for the Institute, shall expand, intensify, and coordinate the activities of the Institute with respect to research on the disease known as fragile X.
 
 #### (b) Research centers
 
@@ -30,15 +30,19 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### (5) Certain administrative requirements
 
-&emsp;Each center assisted under paragraph (1) shall use the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of the Institute.
+&emsp;Each center assisted under paragraph (1) shall use the facilities of a single institution,or be formed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of the Institute.
 
 #### (6) Duration of support
 
 &emsp;Support may be provided to a center under paragraph (1) for a period not exceeding 5 years. Such period may be extended for one or more additional periods, each of which may not exceed 5 years, if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period be extended.
 
-#### (7) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §452E, as added Pub. L. 106–310, div. A, title II, §201, Oct. 17, 2000, 114 Stat. 1109; amended Pub. L. 109–482, title I, §103(b)(30), Jan. 15, 2007, 120 Stat. 3688.)
 
-&emsp;For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §452E, as added Pub. L. 106–310, div. A, title II, §201, Oct. 17, 2000, 114 Stat. 1109.)
+2007—Subsec. (b)(7). Pub. L. 109–482 struck out heading and text of par. (7). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

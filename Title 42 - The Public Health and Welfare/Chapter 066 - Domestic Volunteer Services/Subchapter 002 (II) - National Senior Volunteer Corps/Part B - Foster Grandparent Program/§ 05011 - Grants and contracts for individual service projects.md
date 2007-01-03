@@ -14,7 +14,7 @@ The Director is authorized to make grants to or contracts with public and nonpro
 
 (2) In the event that such an agency or organization determines that it is in the best interests of a mentally retarded child receiving, and of a particular foster grandparent providing, services in such a project, such relationship may be continued after the child reaches the chronological age of 21: <i>Provided</i>, That such child was receiving such services prior to attaining the chronological age of 21. If the particular foster grandparent subject to the determination under this paragraph becomes unavailable to serve after such determination is made, the agency or organization may select another foster grandparent.
 
-(3) Any determination made by a public or nonprofit private agency or organization under paragraphs (1) and (2) of this subsection shall be made through mutual agreement by all parties involved with respect to the provision of services to the child involved.
+(3) Any determination made by a public or nonprofit private agency or organization underparagraphs (1) and (2) of this subsection shall be made through mutual agreement by all parties involved with respect to the provision of services to the child involved.
 
 #### (c) “Child” and “children” defined
 

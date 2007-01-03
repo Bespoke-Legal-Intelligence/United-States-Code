@@ -2,15 +2,13 @@
 
 (a) All Federal agencies shall furnish the Secretary such records, statistics, or information as the Secretary may deem necessary or appropriate in administering the provisions of this chapter, and shall otherwise cooperate with the Secretary in providing continuous employment and training opportunities for eligible veterans and eligible persons.
 
-(b) For the purpose of assisting the Secretary and the Secretary of Veterans Affairs in identifying employers with potential job training opportunities under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note) <sup>1</sup> and otherwise in order to carry out this chapter, the Secretary of Defense shall provide, not more than 30 days after the date of the enactment of this subsection, the Secretary and the Secretary of Veterans Affairs with any list maintained by the Secretary of Defense of employers participating in the National Committee for Employer Support of the Guard and Reserve and shall provide, on the 15th day of each month thereafter, updated information regarding the list.
+(b) For the purpose of assisting the Secretary and the Secretary of Veterans Affairs in identifying employers with potential job training opportunities under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note) <sup>1</sup> and otherwise in order to carry out this chapter, the Secretary of Defense shall, on the 15th day of each month, provide the Secretary and the Secretary of Veterans Affairs with updated information regarding any list maintained by the Secretary of Defense of employers participating in the National Committee for Employer Support of the Guard and Reserve.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2014; renumbered §2005 and amended Pub. L. 87–675, §1(a), (c), Sept. 19, 1962, 76 Stat. 558, 559; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 93–508, title IV, §401(d), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §606(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§6(a), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4105, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2014; renumbered §2005 and amended Pub. L. 87–675, §1(a), (c), Sept. 19, 1962, 76 Stat. 558, 559; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 93–508, title IV, §401(d), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §606(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§6(a), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4105, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, §503(12), June 15, 2006, 120 Stat. 417.)
 
 #### References in Text
 
 The Veterans’ Job Training Act, referred to in subsec. (b), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 2913 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
-
-The date of the enactment of this subsection, referred to in subsec. (b), is the date of enactment of Pub. L. 100–323, which was approved May 20, 1988.
 
 #### Prior Provisions
 
@@ -19,6 +17,8 @@ Prior section 4105, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 87�
 Provisions similar to those comprising this section were contained in former section 2004 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–233 substituted “shall, on the 15th day of each month, provide the Secretary and the Secretary of Veterans Affairs with updated information regarding” for “shall provide, not more than 30 days after the date of the enactment of this subsection, the Secretary and the Secretary of Veterans Affairs with” and struck out before period at end “and shall provide, on the 15th day of each month thereafter, updated information regarding the list”.
 
 1991—Pub. L. 102–83 renumbered section 2005 of this title as this section.
 

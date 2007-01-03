@@ -22,7 +22,7 @@ In carrying out the program under this section, the Secretary shall—
 
 The Secretary shall conduct—
 
-&emsp;(1) a fellowship program for professors at universities to spend sabbaticals at NationalLaboratories in the areas of nuclear science and technology; and
+&emsp;(1) a fellowship program for professors at universities to spend sabbaticals at National Laboratories in the areas of nuclear science and technology; and
 
 &emsp;(2) a visiting scientist program in which National Laboratory staff can spend time in academic nuclear science and engineering departments.
 

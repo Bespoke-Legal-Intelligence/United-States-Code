@@ -36,7 +36,7 @@ The aeronautical and space activities of the United States shall be conducted so
 
 #### (e) Ground propulsion systems research and development
 
-The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward ground propulsion systems research and development. Suchdevelopment shall be conducted so as to contribute to the objectives of developing energy and petroleum-conserving ground propulsion systems, and of minimizing the environmental degradation caused by such systems.
+The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward ground propulsion systems research and development. Such development shall be conducted so as to contribute to the objectives of developing energy andpetroleum-conserving ground propulsion systems, and of minimizing the environmental degradation caused by such systems.
 
 #### (f) Bioengineering research, development, and demonstration programs
 
@@ -120,7 +120,7 @@ Membership.—(1) The Commission shall be composed of 12 members appointed, not 
 
 &emsp;“(E) One member shall be appointed by the minority leader of the House of Representatives.
 
-“(2) The members of the Commission shall be appointed from among persons with extensive experience and national reputations in aerospace manufacturing, economics, finance, national security, internationaltrade, or foreign policy and persons who are representative of labor organizations associated with the aerospace industry.
+“(2) The members of the Commission shall be appointed from among persons with extensive experience and national reputations in aerospace manufacturing, economics, finance, national security, international trade, or foreign policy and persons who are representative of labor organizations associated with the aerospace industry.
 
 “(3) Members shall be appointed for the life of the Commission. A vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
@@ -204,7 +204,7 @@ Bimonthly Reporting on Russian Status.—Not later than the first day of the fir
 
 “(b)
 
-Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the criticalpath \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision to proceed with the permanent replacement and the costs associated with the decision.
+Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the critical path \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or anyRussian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision to proceed with the permanent replacement and the costs associated with the decision.
 
 “(c)
 
@@ -688,7 +688,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;“(5) United States space policy needs long-range goals and direction in order to provide understanding for near-term space projects and programs;
 
-&emsp;“(6) over the next five years the National Aeronautics and Space Administration, hereafter referredto as the ‘Administration’, should pursue leadership in science through an aggressive set of major and moderate missions while maintaining a robust series of cost effective missions that can provide frequent flight opportunities to the scientific community\[;\]
+&emsp;“(6) over the next five years the National Aeronautics and Space Administration, hereafter referred to as the ‘Administration’, should pursue leadership in science through an aggressive set of major andmoderate missions while maintaining a robust series of cost effective missions that can provide frequent flight opportunities to the scientific community\[;\]
 
 &emsp;“(7) over the next five years the Administration should prepare for the transition to the United States International Space Station of those science and technology programs that can be most efficiently and effectively conducted on that facility;
 

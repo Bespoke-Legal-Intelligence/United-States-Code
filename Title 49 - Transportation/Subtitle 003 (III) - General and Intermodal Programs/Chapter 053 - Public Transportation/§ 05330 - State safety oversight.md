@@ -84,7 +84,7 @@ In subsection (e)(2) and (3), the words “from apportionment” and “for appo
 
 2005—Pub. L. 109–59, §3029(a)(1), substituted “State safety oversight” for “Withholding amounts for noncompliance with safety requirements” in section catchline.
 
-Subsec. (a). Pub. L. 109–59, §3029(a)(1), added subsec. (a) and struck out heading and text of former subsec.\(a). Text read as follows: “This section applies only to States that have rail fixed guideway mass transportation systems not subject to regulation by the Federal Railroad Administration.”
+Subsec. (a). Pub. L. 109–59, §3029(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section applies only to States that have rail fixed guideway mass transportation systems not subject to regulation by the Federal Railroad Administration.”
 
 Subsec. (c)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 

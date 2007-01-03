@@ -35,10 +35,16 @@
 | [60131\.](%C2%A7%2060131%20-%20Verification%20of%20pipeline%20qualification%20programs.md) | Verification of pipeline qualification programs. |
 | [60132\.](%C2%A7%2060132%20-%20National%20pipeline%20mapping%20system.md) | National pipeline mapping system. |
 | [60133\.](%C2%A7%2060133%20-%20Coordination%20of%20environmental%20reviews.md) | Coordination of environmental reviews. |
+| [60134\.](%C2%A7%2060134%20-%20State%20damage%20prevention%20programs.md) | State damage prevention programs. |
+| [60135\.](%C2%A7%2060135%20-%20Enforcement%20transparency.md) | Enforcement transparency. |
+| [60136\.](%C2%A7%2060136%20-%20Petroleum%20product%20transportation%20capacity%20study.md) | Petroleum product transportation capacity study. |
+| [60137\.](%C2%A7%2060137%20-%20Pipeline%20control%20room%20management.md) | Pipeline control room management. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–468, §§2(b)(3), 6(b), 8(b), 12(b), Dec. 29, 2006, 120 Stat. 3489, 3491, 3492, 3495, added items 60134 to 60137.
 
 2002—Pub. L. 107–355, §§6(c), 9(c), 11(b), 13(a)(2), 15(b), 16(b), 20(a)(2)(B), Dec. 17, 2002, 116 Stat. 2993, 2995, 2997, 3001, 3006, 3008, 3010, substituted “Purpose and general authority” for “General authority” in item 60102 and “Population encroachment and rights-of-way” for “Population encroachment” in item 60127 and added items 60129 to 60133.
 
@@ -82,3 +88,7 @@
 - [&sect; 60131 - Verification of pipeline qualification programs](%C2%A7%2060131%20-%20Verification%20of%20pipeline%20qualification%20programs.md)
 - [&sect; 60132 - National pipeline mapping system](%C2%A7%2060132%20-%20National%20pipeline%20mapping%20system.md)
 - [&sect; 60133 - Coordination of environmental reviews](%C2%A7%2060133%20-%20Coordination%20of%20environmental%20reviews.md)
+- [&sect; 60134 - State damage prevention programs](%C2%A7%2060134%20-%20State%20damage%20prevention%20programs.md)
+- [&sect; 60135 - Enforcement transparency](%C2%A7%2060135%20-%20Enforcement%20transparency.md)
+- [&sect; 60136 - Petroleum product transportation capacity study](%C2%A7%2060136%20-%20Petroleum%20product%20transportation%20capacity%20study.md)
+- [&sect; 60137 - Pipeline control room management](%C2%A7%2060137%20-%20Pipeline%20control%20room%20management.md)

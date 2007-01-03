@@ -16,5 +16,5 @@ Section 902(b) of Pub. L. 103–43 provided that: “Not later than 6 months aft
 
 #### Research Activities on Chronic Fatigue Syndrome
 
-Section 1903 of Pub. L. 103–43 directed Secretary of Health and Human Services to, not later than Oct. 1, 1993, and annually thereafter for next 3 years, prepare and submit to Congress a report that summarizes research activities conducted or supported by National Institutes of Health concerning chronic fatigue syndrome, with information concerning grants made, cooperative agreements or contracts entered into, intramural activities, research priorities and needs, and plan to address such priorities and needs.
+Section 1903 of Pub. L. 103–43 directed Secretary of Health and Human Services to, not later than Oct. 1, 1993, and annually thereafter for next 3 years, prepareand submit to Congress a report that summarizes research activities conducted or supported by National Institutes of Health concerning chronic fatigue syndrome, with information concerning grants made, cooperative agreements or contracts entered into, intramural activities, research priorities and needs, and plan to address such priorities and needs.
 

@@ -28,7 +28,7 @@ In order to promote the preservation of historic resources on properties eligibl
 
 &emsp;&emsp;(C) allow access to artifacts for research purposes; and
 
-&emsp;&emsp;(D) prior to excavating or disposing of a Native American cultural item in which an Indian tribe or Native Hawaiian organization may have an interest under section 3002(a)(2)(B) or (C) of title 25, given notice to and consult with such Indian tribe or Native Hawaiian organization.
+&emsp;&emsp;(D) prior to excavating or disposing of a Native American cultural item in which an Indian tribe or Native Hawaiian organization may have an interest under section 3002(a)(2)(B) or (C) of title 25, given <sup>1</sup> notice to and consult with such Indian tribe or Native Hawaiian organization.
 
 (Pub. L. 89–665, title I, §112, as added Pub. L. 102–575, title XL, §4014, Oct. 30, 1992, 106 Stat. 4761; amended Pub. L. 106–208, §5(a)(9), May 26, 2000, 114 Stat. 319.)
 
@@ -39,4 +39,6 @@ October 30, 1992, referred to in subsec. (a)(1)(B), was in the original “the d
 #### Amendments
 
 2000—Subsec. (b)(3). Pub. L. 106–208 inserted closing parenthesis after “title 25”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “give”.</i>
 

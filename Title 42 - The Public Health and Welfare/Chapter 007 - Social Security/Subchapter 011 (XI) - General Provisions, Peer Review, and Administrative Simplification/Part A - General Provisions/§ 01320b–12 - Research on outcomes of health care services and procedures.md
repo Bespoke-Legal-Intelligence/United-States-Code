@@ -92,7 +92,7 @@ In carrying out this section, the Secretary shall develop—
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for the dissemination of the findings of research and theguidelines described in subsection (a) of this section, and for the education of providers and others in the application of such research findings and guidelines.
+&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a) of this section, and for the education of providers and others in the application of such research findings and guidelines.
 
 #### (2) Cooperative educational activities
 
@@ -150,7 +150,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### References in Text
 
-Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
+Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII ofchapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
 
 #### Codification
 
@@ -178,7 +178,7 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Report on Linkage of Public and Private Research Related Data
 
-Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year after the date of the enactmentof this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
+Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

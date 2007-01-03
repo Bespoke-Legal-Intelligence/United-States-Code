@@ -18,7 +18,7 @@
 
 &emsp;(D) A description of the technologies and facilities necessary to carry out the environmental restoration activities.
 
-&emsp;(E) A description of the waste management activities, including identification of specific projects, necessary to continue to operate the Department of Energy facilities or to decontaminate and decommission the facilities, as the case may be.
+&emsp;(E) A description of the waste management activities, including identification of specificprojects, necessary to continue to operate the Department of Energy facilities or to decontaminate and decommission the facilities, as the case may be.
 
 &emsp;(F) A description of research and development activities for waste management.
 
@@ -34,7 +34,7 @@
 
 &emsp;(L) Such other matters as the Secretary finds appropriate and in the public interest.
 
-(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors andAttorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
+(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
 
 (6) The first annual five-year plan issued pursuant to this section shall be issued in 1992.
 

@@ -26,10 +26,6 @@ Violations.—Any person who violates this paragraph shall be subject to the pen
 
 (May 12, 1933, ch. 25, title I, §8d, as added Aug. 24, 1935, ch. 641, §6, 49 Stat. 761; amended June 3, 1937, ch. 296, §1, 50 Stat. 246; Pub. L. 99–198, title XVI, §1663, Dec. 23, 1985, 99 Stat. 1631; Pub. L. 106–78, title VII, §757(b), Oct. 22, 1999, 113 Stat. 1171.)
 
-#### References in Text
-
-The antitrust laws, referred to in subsec. (1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-
 #### Codification
 
 Act Aug. 24, 1935, struck out provisions of section 8(4) of act May 12, 1933, formerly appearing in section 608(4) of this title and added a new section 8d containing provisions appearing in text.

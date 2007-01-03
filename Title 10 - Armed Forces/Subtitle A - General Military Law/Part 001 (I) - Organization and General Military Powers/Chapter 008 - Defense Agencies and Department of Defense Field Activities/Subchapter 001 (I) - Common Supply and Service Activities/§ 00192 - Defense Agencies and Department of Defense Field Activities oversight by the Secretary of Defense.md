@@ -56,5 +56,5 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### First Review of Defense Agencies by Secretary of Defense
 
-Section 304(a) of Pub. L. 99–433 provided that: “The first review under section 192(c) of title 10, United States Code (as added by section 301(a)), shall be completed not later than two years after the date that the report under section 303(e) \[see section 303(f) of Pub. L. 99–433, set out as a note under section 191 of this title\] is required to be submitted to Congress.”
+Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
 

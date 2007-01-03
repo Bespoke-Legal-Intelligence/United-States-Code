@@ -32,7 +32,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 &emsp;(2) describes the type, location, ownership, and general specifications for the range improvements to be installed and maintained on the lands to meet the livestock grazing and other objectives of land management; and
 
-&emsp;(3) contains such other provisions relating to livestock grazing and other objectives found by the Secretary concerned to be consistentwith the provisions of this Act and other applicable law.
+&emsp;(3) contains such other provisions relating to livestock grazing and other objectives found by the Secretary concerned to be consistent with the provisions of this Act and other applicable law.
 
 (<i>l</i>) The term “principal or major uses” includes, and is limited to, domestic livestock grazing, fish and wildlife development and utilization, mineral exploration and production, rights-of-way, outdoor recreation, and timber production.
 

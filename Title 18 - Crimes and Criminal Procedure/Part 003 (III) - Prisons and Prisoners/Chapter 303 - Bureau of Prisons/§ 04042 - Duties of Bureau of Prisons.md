@@ -34,7 +34,7 @@ Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which
 
 (c)
 
-Notice of Sex Offender Release.—(1) In the case of a person described in paragraph (4) who is released from prison or sentenced to probation, notice shall be provided to—
+Notice of Sex Offender Release.—(1) In the case of a person described in paragraph (3), or any other person in a category specified by the Attorney General, who is released from prison or sentenced to probation, notice shall be provided to—
 
 &emsp;(A) the chief law enforcement officer of the State and of the local jurisdiction in which the person will reside; and
 
@@ -42,21 +42,11 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 > The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
 
-(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall be subject to a registration requirement as a sex offender. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (4) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
-(3) The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
-(4) A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
-
-&emsp;(A) An offense under section 1201 involving a minor victim.
-
-&emsp;(B) An offense under chapter 109A.
-
-&emsp;(C) An offense under chapter 110.
-
-&emsp;(D) An offense under chapter 117.
-
-&emsp;(E) Any other offense designated by the Attorney General as a sexual offense for purposes of this subsection.
+\[(4) Repealed. Pub. L. 109–248, title I, §141(h), July 27, 2006, 120 Stat. 604.\]
 
 (5) The United States and its agencies, officers, and employees shall be immune from liability based on good faith conduct in carrying out this subsection and subsection (b).
 
@@ -64,7 +54,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 Application of Section.—This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h), July 27, 2006, 120 Stat. 603, 604.)
 
 #### Historical and Revision Notes
 
@@ -78,13 +68,31 @@ The remainder of said section 753b of title 18, U.S.C., 1940 ed., is incorporate
 
 #### References in Text
 
-Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (c)(3), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
+The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
 #### Amendments
 
+2006—Subsec. (c)(1). Pub. L. 109–248, §141(g)(1), substituted “paragraph (3), or any other person in a category specified by the Attorney General,” for “paragraph (4)” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 109–248, §141(g)(2), substituted “shall register as required by the Sex Offender Registration and Notification Act” for “shall be subject to a registration requirement as a sex offender” in first sentence and “paragraph (3)” for “paragraph (4)” in fourth sentence.
+
+Subsec. (c)(3). Pub. L. 109–248, §141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.”
+
+Subsec. (c)(4). Pub. L. 109–248, §141(h), struck out par. (4) which read as follows: “A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
+
+&emsp;“(A) An offense under section 1201 involving a minor victim.
+
+&emsp;“(B) An offense under chapter 109A.
+
+&emsp;“(C) An offense under chapter 110.
+
+&emsp;“(D) An offense under chapter 117.
+
+&emsp;“(E) Any other offense designated by the Attorney General as a sexual offense for purposes of this subsection.”
+
 1997—Subsec. (a)(5). Pub. L. 105–119, §115(a)(8)(A)(i), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-Subsec. (b)(4). Pub. L. 105–119, §115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice provided under this section shall be used solely for law enforcement purposes.”
+Subsec. (b)(4). Pub. L. 105–119, §115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice providedunder this section shall be used solely for law enforcement purposes.”
 
 Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and redesignated former subsec. (c) as (d).
 

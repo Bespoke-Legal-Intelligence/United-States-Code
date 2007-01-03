@@ -16,7 +16,7 @@ Section 155, act Aug. 27, 1935, ch. 740, §6, 49 Stat. 873, required persons man
 
 Section 156, act Aug. 27, 1935, ch. 740, §7, 49 Stat. 874, provided for revocation of permits by Commissioner where terms of permit have been violated or provisions of this chapter and chapter 3 of this title have not been conformed to or other laws and regulations relating to intoxicating liquor have been violated, was incorporated in section 3114(b) of Internal Revenue Code of 1939.
 
-Section 157, act Aug. 27, 1935, ch. 740, §8, 49 Stat. 874, related to search, seizure, and forfeiture of liquor or property to be used in violation of this chapter or chapter 3 of this title or laws or regulations with respect to intoxicating liquor, was incorporated in section 3116 of Internal Revenue Code of 1939.
+Section 157, act Aug. 27, 1935, ch. 740, §8, 49 Stat. 874, related to search, seizure, and forfeiture of liquor orproperty to be used in violation of this chapter or chapter 3 of this title or laws or regulations with respect to intoxicating liquor, was incorporated in section 3116 of Internal Revenue Code of 1939.
 
 Section 158, act Aug. 27, 1935, ch. 740, §9, 49 Stat. 875, related to rights, privileges, powers, and protection of Commissioner and his assistants and employees, was incorporated in section 3121(a) of Internal Revenue Code of 1939.
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) shall be destroyed or returned to the financial institution if not used for one of the purposes specified in paragraph (2); and
 
-&emsp;(4) shall not be maintained, or a description of the contents of such records shall not be maintained by any Government authority other than in the sealed records of the grand jury, unless such record has been used in the prosecution of a crime for which the grand jury issued an indictment or presentment or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure.
+&emsp;(4) shall not be maintained, or a description of the contents of such records shall not be maintained by any Government authority other than in the sealed records of the grandjury, unless such record has been used in the prosecution of a crime for which the grand jury issued an indictment or presentment or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure.
 
 (b)(1) No officer, director, partner, employee, or shareholder of, or agent or attorney for, a financial institution shall, directly or indirectly, notify any person named in a grand jury subpoena served on such institution in connection with an investigation relating to a possible—
 

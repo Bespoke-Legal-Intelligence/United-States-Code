@@ -30,7 +30,7 @@ The Secretary may establish rates for the retention bonus which shall provide fo
 
 #### (d) Time of payment
 
-The retention bonus for the entire period covered by the agreement described in subsection\(a)(4) of this section shall be paid at the beginning of the agreed upon term of service.
+The retention bonus for the entire period covered by the agreement described in subsection (a)(4) of this section shall be paid at the beginning of the agreed upon term of service.
 
 #### (e) Refund; interest
 

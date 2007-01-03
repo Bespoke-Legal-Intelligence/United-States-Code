@@ -64,7 +64,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;&emsp;No new roads or trails shall be established within the Protection Area except those which the Secretary shall establish as follows:
 
-&emsp;&emsp;&emsp;(i) Roads and trails established to replace roads or trails of the same characterand scope which have become nonserviceable through reasons other than neglect.
+&emsp;&emsp;&emsp;(i) Roads and trails established to replace roads or trails of the same character and scope which have become nonserviceable through reasons other than neglect.
 
 &emsp;&emsp;&emsp;(ii) Nonpermanent roads as needed for hazardous fuels reduction or other control of fire, insect or disease control projects, or other management purposes.
 

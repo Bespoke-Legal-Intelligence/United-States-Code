@@ -16,7 +16,7 @@
 
 &emsp;(2) Levy or collect a tax on an assessment that may not be made under paragraph (1) of this subsection.
 
-&emsp;(3) Levy or collect an ad valorem property tax on rail transportation property at a tax rate that exceeds the tax rate applicable to commercial and industrial property in the same assessment jurisdiction.
+&emsp;(3) Levy or collect an ad valorem property tax on rail transportation property at a taxrate that exceeds the tax rate applicable to commercial and industrial property in the same assessment jurisdiction.
 
 &emsp;(4) Impose another tax that discriminates against a rail carrier providing transportation subject to the jurisdiction of the Board under this part.
 

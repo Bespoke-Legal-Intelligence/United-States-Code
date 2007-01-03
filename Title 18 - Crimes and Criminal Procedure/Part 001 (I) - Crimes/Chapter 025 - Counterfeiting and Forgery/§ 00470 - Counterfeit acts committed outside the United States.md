@@ -16,6 +16,10 @@ A person who, outside the United States, engages in the act of—
 
 Par. (2). Pub. L. 107–56, §374(a)(1), inserted “analog, digital, or electronic image,” after “plate, stone,”.
 
+#### Short Title of 1992 Amendment
+
+Pub. L. 102–550, title XV, §1551, Oct. 28, 1992, 106 Stat. 4070, provided that: “This subtitle \[subtitle E (§§1551–1554) of title XV of Pub. L. 102–550, enacting section 474A of this title and amending sections 474 and 504 of this title\] may be cited as the ‘Counterfeit Deterrence Act of 1992’.”
+
 #### Combatting International Counterfeiting of United States Currency
 
 Pub. L. 104–132, title VIII, §807, Apr. 24, 1996, 110 Stat. 1308, provided that:

@@ -3,12 +3,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [3501\.](%C2%A7%2003501%20-%20Reporting%20requirements.md) | Reporting requirements. |
-| (a) | Acquisitions or transfers of certain agricultural land interests by foreign persons. |
-| (b) | Agricultural land interests presently held by foreign persons. |
-| (c) | Change in foreign person status of interest holders. |
-| (d) | Conversion of land to agricultural uses. |
-| (e) | Additional reports by foreign persons other than individuals or governments. |
-| (f) | Persons holding interests under subsection (e). |
 | [3502\.](%C2%A7%2003502%20-%20Civil%20penalty.md) | Civil penalty. |
 | [3503\.](%C2%A7%2003503%20-%20Investigative%20actions.md) | Investigative actions. |
 | [3504\.](%C2%A7%2003504%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20I%2C%20%C2%A7101%28f%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203281.md) | Repealed. |

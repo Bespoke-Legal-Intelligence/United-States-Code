@@ -8,7 +8,7 @@
 
 &emsp;(B) the plan's accumulated funding deficiency under section 1082(a) of this title for such plan year shall be equal to the excess (if any) of—
 
-&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking intoaccount any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1082(a) of this title if the plan was not in reorganization), over
+&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1082(a) of this title if the plan was not in reorganization), over
 
 &emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) of this section for the plan year).
 
@@ -122,7 +122,7 @@ In determining the minimum contribution requirement with respect to a plan for a
 
 #### (f) Waiver of accumulated funding deficiency
 
-(1) The Secretary of the Treasury may waive any accumulated funding deficiency under this section in accordance with the provisions of section 1083(a) of this title.
+(1) The Secretary of the Treasury may waive any accumulated funding deficiency under thissection in accordance with the provisions of section 1083(a) of this title.
 
 (2) Any waiver under paragraph (1) shall not be treated as a waived funding deficiency (within the meaning of section 1083(c) of this title).
 
@@ -130,13 +130,33 @@ In determining the minimum contribution requirement with respect to a plan for a
 
 For purposes of making any determination under this part, the requirements of section 1082(c)(3) of this title shall apply.
 
-(Pub. L. 93–406, title IV, §4243, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1252; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+(Pub. L. 93–406, title IV, §4243, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1252; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title I, §107(b)(6)–(9), Aug. 17, 2006, 120 Stat. 820.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–280, title I, §107(b)(6)–(9), (e), Aug. 17, 2006, 120 Stat. 820, provided that, applicable to plan years beginning after 2007, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(1)(B), by substituting “1084(a)” for “1082(a)” in introductory provisions and clause (i);</i>
+
+<i>(2) in subsection (f)(1), by substituting “1082(c)” for “1083(a)”;</i>
+
+<i>(3) in subsection (f)(2), by substituting “1082(c)(3)” for “1083(c)”; and</i>
+
+<i>(4) in subsection (g), by substituting “1084(c)(3)” for “1082(c)(3)”.</i>
 
 #### Amendments
 
 1989—Subsecs. (d)(1)(B), (e). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+
+#### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
+
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 

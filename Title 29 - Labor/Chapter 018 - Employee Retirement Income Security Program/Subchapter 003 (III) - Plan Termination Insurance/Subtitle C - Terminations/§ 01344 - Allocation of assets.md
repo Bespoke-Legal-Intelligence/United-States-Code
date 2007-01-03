@@ -20,7 +20,7 @@ In the case of the termination of a single-employer plan, the plan administrator
 
 &emsp;&emsp;(A) to all other benefits (if any) of individuals under the plan guaranteed under this subchapter (determined without regard to section 1322b(a) of this title), and
 
-&emsp;&emsp;(B) to the additional benefits (if any) which would be determined under subparagraph (A) if section 1322(b)(5) of this title did not apply.
+&emsp;&emsp;(B) to the additional benefits (if any) which would be determined under subparagraph (A) if section 1322(b)(5)(B) of this title did not apply.
 
 > &emsp;For purposes of this paragraph, section 1321 of this title shall be applied without regard to subsection (c) thereof.
 
@@ -34,19 +34,21 @@ For purposes of subsection (a) of this section—
 
 &emsp;(1) The amount allocated under any paragraph of subsection (a) of this section with respect to any benefit shall be properly adjusted for any allocation of assets with respect to that benefit under a prior paragraph of subsection (a) of this section.
 
-&emsp;(2) If the assets available for allocation under any paragraph of subsection (a) of this section (other than paragraphs (5) and (6)) are insufficient to satisfy in full the benefits of all individuals which are described in that paragraph, the assets shall be allocated pro rata among such individuals on the basis of the present value (as of the termination date) of their respective benefits described in that paragraph.
+&emsp;(2) If the assets available for allocation under any paragraph of subsection (a) of this section (other than paragraphs (4), (5), and (6)) are insufficient to satisfy in full the benefits of all individuals which are described in that paragraph, the assets shall be allocated pro rata among such individuals on the basis of the present value (as of the termination date) of their respective benefits described in that paragraph.
 
-&emsp;(3) This paragraph applies if the assets available for allocation under paragraph (5) of subsection (a) of this section are not sufficient to satisfy in full the benefits of individuals described in that paragraph.
+&emsp;(3) If assets available for allocation under paragraph (4) of subsection (a) are insufficient to satisfy in full the benefits of all individuals who are described in that paragraph, the assets shall be allocated first to benefits described in subparagraph (A) of that paragraph. Any remaining assets shall then be allocated to benefits described in subparagraph (B) of that paragraph. If assets allocated to such subparagraph (B) are insufficient to satisfy in full the benefits described in that subparagraph, the assets shall be allocated pro rata among individuals on the basis of the present value (as of the termination date) of their respective benefits described in that subparagraph.
+
+&emsp;(4) This paragraph applies if the assets available for allocation under paragraph (5) of subsection (a) of this section are not sufficient to satisfy in full the benefits of individuals described in that paragraph.
 
 &emsp;&emsp;(A) If this paragraph applies, except as provided in subparagraph (B), the assets shall be allocated to the benefits of individuals described in such paragraph (5) on the basis of the benefits of individuals which would have been described in such paragraph (5) under the plan as in effect at the beginning of the 5-year period ending on the date of plan termination.
 
 &emsp;&emsp;(B) If the assets available for allocation under subparagraph (A) are sufficient to satisfy in full the benefits described in such subparagraph (without regard to this subparagraph), then for purposes of subparagraph (A), benefits of individuals described in such subparagraph shall be determined on the basis of the plan as amended by the most recent plan amendment effective during such 5-year period under which the assets available for allocation are sufficient to satisfy in full the benefits of individuals described in subparagraph (A) and any assets remaining to be allocated under such subparagraph shall be allocated under subparagraph (A) on the basis of the plan as amended by the next succeeding plan amendment effective during such period.
 
-&emsp;(4) If the Secretary of the Treasury determines that the allocation made pursuant to this section (without regard to this paragraph) results in discrimination prohibited by section 401(a)(4) of title 26 then, if required to prevent the disqualification of the plan (or any trust under the plan) under section 401(a) or 403(a) of title 26, the assets allocated under subsections (a)(4)(B), (a)(5), and (a)(6) of this section shall be reallocated to the extent necessary to avoid such discrimination.
+&emsp;(5) If the Secretary of the Treasury determines that the allocation made pursuant to this section (without regard to this paragraph) results in discrimination prohibited by section 401(a)(4) of title 26 then, if required to prevent the disqualification of the plan (or any trust under the plan) under section 401(a) or 403(a) of title 26, the assets allocated under subsections (a)(4)(B), (a)(5), and (a)(6) of this section shall be reallocated to the extent necessary to avoid such discrimination.
 
-&emsp;(5) The term “mandatory contributions” means amounts contributed to the plan by a participant which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions. For this purpose, the total amount of mandatory contributions of a participant is the amount of such contributions reduced (but not below zero) by the sum of the amounts paid or distributed to him under the plan before its termination.
+&emsp;(6) The term “mandatory contributions” means amounts contributed to the plan by a participant which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions. For this purpose, the total amount of mandatory contributions of a participant is the amount of such contributions reduced (but not below zero) by the sum of the amounts paid or distributed to him under the plan before its termination.
 
-&emsp;(6) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of this section in accordance with regulations prescribed by the corporation.
+&emsp;(7) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of this section in accordance with regulations prescribed by the corporation.
 
 #### (c) Increase or decrease in value of assets
 
@@ -92,13 +94,77 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 (4) Nothing in this subsection shall be construed to limit the requirements of section 4980(d) of title 26 (as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990) or section 1104(d) of this title with respect to any distribution of residual assets of a single-employer plan to the employer.
 
-(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566.)
+#### (e) <sup>1</sup> Bankruptcy filing substituted for termination date
+
+If a contributing sponsor of a plan has filed or has had filed against such person a petition seeking liquidation or reorganization in a case under title 11 or under any similar Federal law or law of a State or political subdivision, and the case has not been dismissed as of the termination date of the plan, then subsection (a)(3) shall be applied by treating the date such petition was filed as the termination date of the plan.
+
+#### (e) <sup>1</sup> Valuation of section 1362(c) liability for determining amounts payable by corporation to participants and beneficiaries
+
+#### (1) In general
+
+&emsp;In the case of a terminated plan, the value of the recovery of liability under section 1362(c) of this title allocable as a plan asset under this section for purposes of determining the amount of benefits payable by the corporation shall be determined by multiplying—
+
+&emsp;&emsp;(A) the amount of liability under section 1362(c) of this title as of the termination date of the plan, by
+
+&emsp;&emsp;(B) the applicable section 1362(c) recovery ratio.
+
+#### (2) Section 1362(c) recovery ratio
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (C), the term “section 1362(c) recovery ratio” means the ratio which—
+
+&emsp;&emsp;&emsp;(i) the sum of the values of all recoveries under section 1362(c) of this title determined by the corporation in connection with plan terminations described under subparagraph (B), bears to
+
+&emsp;&emsp;&emsp;(ii) the sum of all the amounts of liability under section 1362(c) of this title with respect to such plans as of the termination date in connection with any such prior termination.
+
+#### (B) Prior terminations
+
+&emsp;&emsp;A plan termination described in this subparagraph is a termination with respect to which—
+
+&emsp;&emsp;&emsp;(i) the value of recoveries under section 1362(c) of this title have been determined by the corporation, and
+
+&emsp;&emsp;&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
+
+#### (C) Exception
+
+&emsp;&emsp;In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, the term “section 1362(c) recovery ratio” means, with respect to the termination of such plan, the ratio of—
+
+&emsp;&emsp;&emsp;(i) the value of the recoveries on behalf of the plan under section 1362(c) of this title, to
+
+&emsp;&emsp;&emsp;(ii) the amount of the liability owed under section 1362(c) of this title as of the date of plan termination to the trustee appointed under section 1342(b) or (c) of this title.
+
+#### (3) Subsection not to apply
+
+&emsp;This subsection shall not apply with respect to the determination of—
+
+&emsp;&emsp;(A) whether the amount of outstanding benefit liabilities exceeds $20,000,000, or
+
+&emsp;&emsp;(B) the amount of any liability under section 1362 of this title to the corporation or the trustee appointed under section 1342(b) or (c) of this title.
+
+#### (4) Determinations
+
+&emsp;Determinations under this subsection shall be made by the corporation. Such determinations shall be binding unless shown by clear and convincing evidence to be unreasonable.
+
+(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931.)
 
 #### References in Text
 
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(4), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+2006—Subsec. (a)(4)(B). Pub. L. 109–280, §407(b)(1), substituted “1322(b)(5)(B)” for “1322(b)(5)”.
+
+Subsec. (b)(2). Pub. L. 109–280, §407(b)(2)(A), substituted “(4), (5),” for “(5)”.
+
+Subsec. (b)(3) to (7). Pub. L. 109–280, §407(b)(2)(B), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+
+Subsec. (e). Pub. L. 109–280, §408(b)(2), added subsec. (e) relating to valuation of section 1362(c) liability for determining amounts payable by corporation to participants and beneficiaries.
+
+Pub. L. 109–280, §404(b), added subsec. (e) relating to substitution of bankruptcy filing date for termination date.
 
 1990—Subsec. (d)(4). Pub. L. 101–508 added par. (4).
 
@@ -129,6 +195,14 @@ Subsec. (a)(4)(B). Pub. L. 99–272, §11016(c)(13)(B), substituted “section 1
 Subsec. (c). Pub. L. 96–364, §402(a)(7)(B), inserted “single-employer” before “plan occurring” wherever appearing.
 
 Subsec. (d)(1). Pub. L. 96–364, §402(a)(7)(C), inserted “single-employer” after “assets of a”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 404(b) of Pub. L. 109–280 applicable with respect to proceedings initiated under Title 11, Bankruptcy, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after Aug. 17, 2006, see section 404(c) of Pub. L. 109–280, set out as a note under section 1322 of this title.
+
+Amendment by section 407(b) of Pub. L. 109–280 applicable to plan terminations under section 1341(c) of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 31, 2005, and under section 1342 of this title with respect to which notices of determination are provided under such section after such date, see section 407(d)(1) of Pub. L. 109–280, set out as a note under section 1321 of this title.
+
+Amendment by section 408(b)(2) of Pub. L. 109–280 applicable for any termination for which notices of intent to terminate are provided, or in the case of a termination by the corporation, a notice of determination under section 1342 of this title is issued, on or after the date which is 30 days after Aug. 17, 2006, see section 408(c) of Pub. L. 109–280, set out as a note under section 1322 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -166,5 +240,7 @@ Section 9311(a)(2) of Pub. L. 100–203, as amended by Pub. L. 101–239, title 
 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
-For special temporary rule relating to requirements to be met before the final distribution of assets in the case of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
+For special temporary rule relating to requirements to be met before the final distribution of assets in thecase of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

@@ -70,7 +70,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING
+
+|  |  |
+| :--- | ---: |
+| [5361\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/%C2%A7%2005361%20-%20Congressional%20findings%20and%20purpose.md) | Congressional findings and purpose. |
+| [5362\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/%C2%A7%2005362%20-%20Definitions.md) | Definitions. |
+| [5363\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/%C2%A7%2005363%20-%20Prohibition%20on%20acceptance%20of%20any%20financial%20instrument%20for%20unlawful%20Internet%20gambling.md) | Prohibition on acceptance of any financial instrument for unlawful Internet gambling. |
+| [5364\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/%C2%A7%2005364%20-%20Policies%20and%20procedures%20to%20identify%20and%20prevent%20restricted%20transactions.md) | Policies and procedures to identify and prevent restricted transactions. |
+| [5365\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/%C2%A7%2005365%20-%20Civil%20remedies.md) | Civil remedies. |
+| [5366\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/%C2%A7%2005366%20-%20Criminal%20penalties.md) | Criminal penalties. |
+| [5367\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/%C2%A7%2005367%20-%20Circumventions%20prohibited.md) | Circumventions prohibited. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2006—Pub. L. 109–347, title VIII, §802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
 
 2004—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
 
@@ -102,3 +118,4 @@ Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 3
 - [Subchapter 001 (I) - Credit and Monetary Expansion](Subchapter%20001%20%28I%29%20-%20Credit%20and%20Monetary%20Expansion/README.md)
 - [Subchapter 002 (II) - Records and Reports on Monetary Instruments Transactions](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/README.md)
 - [Subchapter 003 (III) - Money Laundering and Related Financial Crimes](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/README.md)
+- [Subchapter 004 (IV) - Prohibition on Funding of Unlawful Internet Gambling](Subchapter%20004%20%28IV%29%20-%20Prohibition%20on%20Funding%20of%20Unlawful%20Internet%20Gambling/README.md)

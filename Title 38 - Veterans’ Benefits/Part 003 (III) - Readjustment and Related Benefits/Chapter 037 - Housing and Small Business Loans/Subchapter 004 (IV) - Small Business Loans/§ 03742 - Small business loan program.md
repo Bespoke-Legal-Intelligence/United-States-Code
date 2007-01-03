@@ -4,7 +4,7 @@
 
 (2) Subject to paragraph (3)(A) of this subsection, financial assistance under this section may be provided in the form of (A) loan guaranties, or (B) direct loans.
 
-(3) The Secretary shall specify in regulations the criteria to be met for a business concern to qualify as a veterans’ small business concern for the purposes of this subchapter. Such regulations shall include requirements—
+(3) The Secretary shall specify in regulations the criteria to be met for a business concern toqualify as a veterans’ small business concern for the purposes of this subchapter. Such regulations shall include requirements—
 
 &emsp;(A) that at least 51 percent of a business concern must be owned by individuals who are veterans of the Vietnam era or disabled veterans in order for such concern to qualify for a loan guaranty and that at least 51 percent of a business concern must be owned by disabled veterans in order for such concern to qualify for a direct loan; and
 

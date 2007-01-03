@@ -54,7 +54,7 @@
 
 &emsp;(2) The term “United States air carrier” has the meaning given the term “air carrier” in section 40102 of title 49.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, §1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, §9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, §631(a), Nov. 5, 1990, 104 Stat.1480; Pub. L. 101–510, div. A, title XI, §1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, §1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, §364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, §5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106–398, §1 \[\[div. A\], title X, §1088\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 108–375, div. A, title X, §1071, Oct. 28, 2004, 118 Stat. 2056.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, §1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, §9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, §631(a), Nov. 5, 1990, 104 Stat. 1480; Pub. L. 101–510, div. A, title XI, §1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, §1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, §364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, §5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106–398, §1 \[\[div. A\], title X, §1088\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 108–375, div. A, title X, §1071, Oct. 28, 2004, 118 Stat. 2056.)
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 108–375, §1071(b), added subsec. (g).
 
 Subsec. (a)(1)(A). Pub. L. 101–510 substituted “sound- or video-recorded” for “sound-recorded”.
 
-Pub. L. 101–509, which directed that “, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretary of Defense” be inserted after “belligerent”, and that “or” be struck out the first time it appears, was executed by making the insertion as directed but by striking out “or” appearing before “serving with a friendly foreign force” to reflect the probable intent of Congress.
+Pub. L. 101–509, which directed that “, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretaryof Defense” be inserted after “belligerent”, and that “or” be struck out the first time it appears, was executed by making the insertion as directed but by striking out “or” appearing before “serving with a friendly foreign force” to reflect the probable intent of Congress.
 
 Pub. L. 101–384 inserted “engaged in temporary military operations under arduous circumstances,” before “or serving”.
 

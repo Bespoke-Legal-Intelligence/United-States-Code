@@ -14,7 +14,13 @@ Notwithstanding section 1681b of this title or any other provision of this subch
 
 #### (d) Confidentiality
 
-No consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall disclose to any person, other than those officers, employees, or agents of a consumer reporting agency necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section, that the Federal Bureau of Investigation has sought or obtained the identity of financial institutions or a consumer report respecting any consumer under subsection (a), (b), or (c) of this section, and no consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall include in any consumer report any information that would indicate that the Federal Bureau of Investigation has sought or obtained such information or a consumer report.
+(1) If the Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureauheadquarters or a Special Agent in Charge in a Bureau field office designated by the Director, certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that the Federal Bureau of Investigation has sought or obtained the identity of financial institutions or a consumer report respecting any consumer under subsection (a), (b), or (c), and no consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall include in any consumer report any information that would indicate that the Federal Bureau of Investigation has sought or obtained such information on a consumer report.
+
+(2) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under paragraph (1).
+
+(3) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such persons of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under paragraph (1).
+
+(4) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the Director or such designee of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request for the identity of financial institutions or a consumer report respecting any consumer under this section.
 
 #### (e) Payment of fees
 
@@ -52,7 +58,7 @@ If a court determines that any agency or department of the United States has vio
 
 #### (k) Good-faith exception
 
-Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or identifying information pursuant to this subsection in good-faith reliance upon a certification of the Federal Bureau of Investigation pursuant to provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
+Notwithstanding any other provision of this subchapter, any consumer reporting agency oragent or employee thereof making disclosure of consumer reports or identifying information pursuant to this subsection in good-faith reliance upon a certification of the Federal Bureau of Investigation pursuant to provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
 
 #### (<i>l</i>) Limitation of remedies
 
@@ -62,7 +68,7 @@ Notwithstanding any other provision of this subchapter, the remedies and sanctio
 
 In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
 
-(Pub. L. 90–321, title VI, §626, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, §811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426; renumbered §626, Pub. L. 108–159, title II, §214(a)(1), Dec. 4, 2003, 117 Stat. 1980.)
+(Pub. L. 90–321, title VI, §626, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, §811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426; renumbered §626, Pub. L. 108–159, title II, §214(a)(1), Dec. 4, 2003, 117 Stat. 1980; Pub. L. 109–177, title I, §116(b), Mar. 9, 2006, 120 Stat. 214; Pub. L. 109–178, §4(c)(1), Mar. 9, 2006, 120 Stat. 280.)
 
 #### References in Text
 
@@ -73,6 +79,10 @@ This subchapter, referred to in subsec. (g), was in the original, “this Act”
 A prior section 626 of Pub. L. 90–321 was renumbered section 627 and is classified to section 1681v of this title.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall disclose to any person, other than those officers, employees, or agents of a consumer reporting agency necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section, that the Federal Bureau of Investigation has sought or obtained the identity of financial institutions or a consumer report respecting any consumer under subsection (a), (b), or (c) of this section, and no consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall include in any consumer report any information that would indicate that the Federal Bureau of Investigation has sought or obtained such information or a consumer report.”
+
+Subsec. (d)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
 2002—Subsec. (h). Pub. L. 107–306 designated existing provisions as par. (1) and added par. (2).
 

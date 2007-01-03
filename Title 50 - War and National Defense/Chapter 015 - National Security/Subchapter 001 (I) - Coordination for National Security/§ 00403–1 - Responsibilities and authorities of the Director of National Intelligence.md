@@ -52,7 +52,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 #### (d) Role of Director of National Intelligence in transfer and reprogramming of funds
 
-(1)(A) No funds made available under the National Intelligence Program may be transferredor reprogrammed without the prior approval of the Director of National Intelligence, except in accordance with procedures prescribed by the Director of National Intelligence.
+(1)(A) No funds made available under the National Intelligence Program may be transferred or reprogrammed without the prior approval of the Director of National Intelligence, except in accordance with procedures prescribed by the Director of National Intelligence.
 
 (B) The Secretary of Defense shall consult with the Director of National Intelligence before transferring or reprogramming funds made available under the Joint Military Intelligence Program.
 
@@ -200,7 +200,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (3) Except as otherwise directed by the President or with the specific written agreement of the head of the department or agency in question, a Federal agency or official shall not be considered to have met any obligation to provide any information, report, assessment, or other material (including unevaluated intelligence information) to that department or agency solely by virtue of having provided that information, report, assessment, or other material to the Director of National Intelligence or the National Counterterrorism Center.
 
-(4) Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).
+(4) Not later than February 1 of each year, the Director of National Intelligence shall submit tothe President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).
 
 #### (h) Analysis
 
@@ -244,7 +244,7 @@ The Director of National Intelligence, subject to the direction of the President
 
 &emsp;(3) ensure that security clearances granted by individual elements of the intelligence community are recognized by all elements of the intelligence community, and under contracts entered into by those agencies; and
 
-&emsp;(4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information isperformed in the most expeditious manner possible consistent with applicable standards for national security.
+&emsp;(4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information is performed in the most expeditious manner possible consistent with applicable standards for national security.
 
 #### (k) Coordination with foreign governments
 
@@ -274,7 +274,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 &emsp;(i) The establishment of special occupational categories involving service, over the course of a career, in more than one element of the intelligence community.
 
-&emsp;(ii) The provision of rewards for service in positions undertaking analysis and planning of operations involving two or more elements of the intelligence community.
+&emsp;(ii) The provision of rewards for service in positions undertaking analysis and planningof operations involving two or more elements of the intelligence community.
 
 &emsp;(iii) The establishment of requirements for education, training, service, and evaluation for service involving more than one element of the intelligence community.
 
@@ -298,7 +298,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (1) In carrying out the responsibilities and authorities under this section, the Director of National Intelligence may exercise the acquisition and appropriations authorities referred to in the Central Intelligence Agency Act of 1949 (50 U.S.C. 403a et seq.) other than the authorities referred to in section 8(b) of that Act (50 U.S.C. 403j(b)).
 
-(2) For the purpose of the exercise of any authority referred to in paragraph (1), a referenceto the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
+(2) For the purpose of the exercise of any authority referred to in paragraph (1), a reference to the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
 
 (3)(A) Any determination or decision to be made under an authority referred to in paragraph (1) by the head of an agency may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final.
 
@@ -314,7 +314,7 @@ In carrying out the duties and responsibilities under this section, the Director
 
 #### (p) Responsibility of Director of National Intelligence regarding National Intelligence Program budget concerning the Department of Defense
 
-Subject to the direction of the President, the Director of National Intelligence shall, after consultation with the Secretary of Defense, ensure that the National Intelligence Program budgets for the elements of the intelligence community that are within the Department of Defense are adequate to satisfy the national intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands, and wherever such elements are performing Government-wide functions, the needs of other Federal departments and agencies.
+Subject to the direction of the President, the Director of National Intelligence shall, after consultation with the Secretary of Defense, ensure that the National Intelligence Program budgets for the elements of the intelligence community that are within the Department of Defense are adequate to satisfy the national intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands, and wherever suchelements are performing Government-wide functions, the needs of other Federal departments and agencies.
 
 #### (q) Acquisitions of major systems
 
@@ -384,7 +384,7 @@ Development of Procedures.—The Director of National Intelligence, in consultat
 
 &emsp;“(1) Methods by which the Director of the Central Intelligence Agency and the Secretary of Defense can improve communication and coordination in the planning, execution, and sustainment of operations, including, as a minimum—
 
-&emsp;&emsp;“(A) information exchange between senior officials of the Central Intelligence Agency and senior officers and officials of the Department of Defense when planning for such an operation commences by either organization; and
+&emsp;&emsp;“(A) information exchange between senior officials of the Central Intelligence Agency and seniorofficers and officials of the Department of Defense when planning for such an operation commences by either organization; and
 
 &emsp;&emsp;“(B) exchange of information between the Secretary and the Director of the Central Intelligence Agency to ensure that senior operational officials in both the Department of Defense and the Central Intelligence Agency have knowledge of the existence of the ongoing operations of the other.
 
@@ -436,7 +436,7 @@ Purpose.—The purpose of the relationship under subsection (a) shall be to perm
 
 #### Pilot Program on Analysis of Signals and Other Intelligence by Intelligence Analysts of Various Elements of the Intelligence Community
 
-Pub. L. 108–177, title III, §317, Dec. 13, 2003, 117 Stat. 2611, as amended by Pub. L. 108–458, title I,§§1071(g)(3)(A)(i), (ii), 1072(d)(2)(A), Dec. 17, 2004, 118 Stat. 3692, 3693, provided that:
+Pub. L. 108–177, title III, §317, Dec. 13, 2003, 117 Stat. 2611, as amended by Pub. L. 108–458, title I, §§1071(g)(3)(A)(i), (ii), 1072(d)(2)(A), Dec. 17, 2004, 118 Stat. 3692, 3693, provided that:
 
 “(a)
 

@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) failure to meet the opportunities presented by these developments could threaten United States national security interests and jeopardize substantial savings in United States defense that these developments have made possible;
 
-&emsp;(5) the independent states of the former Soviet Union face unprecedented environmental problems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
+&emsp;(5) the independent states of the former Soviet Union face unprecedented environmentalproblems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
 
 &emsp;(6) the success of United States assistance for the independent states of the former Soviet Union depends on—
 
@@ -24,7 +24,7 @@ The Congress finds that—
 
 #### Belarus Democracy
 
-Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, provided that:
+Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–480, §§2–4(c)(1), 5–8, Jan. 12, 2007, 120 Stat. 3666–3672, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -34,43 +34,57 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, provided that:
 
 “Congress makes the following findings:
 
-&emsp;“(1) The United States supports the promotion of democracy, respect for human rights, and the rule of law in the Republic of Belarus consistent with its commitments as a participating state of the Organization for Security and Cooperation in Europe (OSCE).
+&emsp;“(1) The Government of the Republic of Belarus has engaged in a pattern of clear and uncorrected violations of human rights and fundamental freedoms.
 
-&emsp;“(2) The United States has a vital interest in the independence and sovereignty of the Republic of Belarus and its integration into the European community of democracies.
+&emsp;“(2) The Government of Belarus has engaged in a pattern of clear and uncorrected violations of basic principles of democratic governance, including through a series of fundamentally flawed presidential and parliamentary elections undermining the legitimacy of executive and legislative authority in that country.
 
-&emsp;“(3) In November 1996, Lukashenka orchestrated an illegal and unconstitutional referendum that enabled him to impose a new constitution, abolish the duly-elected parliament, the 13th Supreme Soviet, install a largely powerless National Assembly, and extend his term of office to 2001.
+&emsp;“(3) The most recent presidential elections in Belarus held on March 19, 2006, failed to meet the commitments of the Organization for Security and Cooperation in Europe (OSCE) for democratic elections and the arbitrary use of state power and widespread detentions show a disregard for the basic rights of freedom of assembly, association, and expression, and raise doubts regarding the willingness of authorities in Belarus to tolerate political competition.
 
-&emsp;“(4) Democratic forces in Belarus have organized peaceful demonstrations against the Lukashenka regime in cities and towns throughout Belarus which led to beatings, mass arrests, and extended incarcerations.
+&emsp;“(4) The regime of Aleksandr Lukashenka has maintained power in Belarus by orchestrating an illegal and unconstitutional referendum that enabled him to impose a new constitution, abolish the duly-elected parliament, the 13th Supreme Soviet, install a largely powerless National Assembly, extend his term of office, and remove applicable term limits.
 
-&emsp;“(5) Victor Gonchar, Anatoly Krasovsky, and Yuri Zakharenka, who have been leaders and supporters of the democratic forces in Belarus, and Dmitry Zavadsky, a journalist known for his critical reporting in Belarus, have disappeared and are presumed dead.
+&emsp;“(5) The Government of Belarus has failed to make a credible effort to solve the cases of disappeared opposition figures Yuri Zakharenka, Viktor Gonchar, and Anatoly Krasovsky in 1999 and journalist Dmitry Zavadsky in 2000, even though credible allegations and evidence exist linking top officials of the Lukashenka regime with these disappearances.
 
-&emsp;“(6) Former Belarus Government officials have come forward with credible allegations and evidence that top officials of the Lukashenka regime were involved in the disappearances.
+&emsp;“(6) Political opposition figures Aleksandr Kozulin, Tsimafei Dranchuk, Mikalay Astreyka, Artur Finkevich, Mikalay Razumau, Katsyaryna Sadouskaya, Zmitser Dashkevich, Mikhail Marynich, Mikalay Statkevych, Pavel Sevyarinets, Andrei Klimau, Valery Levaneusky, and Siarhei Skrebets have been imprisoned or served ‘corrective labor’ sentences because of their political activity.
 
-&emsp;“(7) The Belarusian authorities have mounted a major systematic crackdown on civil society through the closure, harassment, and repression of nongovernmental organizations, and independent trade unions.
+&emsp;“(7) Hundreds of pro-democratic political activists have been subjected to frequent harassment and jailings, especially during, and in the aftermath of the fatally flawed March 19, 2006, presidential elections in Belarus.
 
-&emsp;“(8) The Belarusian authorities actively suppress freedom of speech and expression, including engaging in systematic reprisals against independent media.
+&emsp;“(8) The Government of Belarus has attempted to maintain a monopoly over the country's information space, targeting independent media for systematic reprisals and elimination, while suppressing the right to freedom of speech and expression of those dissenting from the regime.
 
-&emsp;“(9) The Lukashenka regime has reversed the revival of Belarusian language and culture, including through the closure of the National Humanities Lyceum, the last remaining high school where classes were taught in the Belarusian language.
+&emsp;“(9) The Belarusian authorities have perpetuated a climate of fear in Belarus by mounting a systematic crackdown on civil society through the harassment, repression, and closure of nongovernmental organizations and independent trade unions.
 
-&emsp;“(10) The Lukashenka regime harasses the autocephalic Belarusian Orthodox Church, the Roman Catholic Church, the Jewish community, the Hindu Lights of Kalyasa community, evangelical Protestant churches (such as Baptist and Pentecostal groups), and other minority religious groups.
+&emsp;“(10) The Lukashenka regime has increasingly subjected leaders and members of minority and unregistered religious communities to harassment, including the imposition of heavy fines, denying permission to meet for religious services, prosecutions, and jail terms for activities in the practice of their faith.
 
-&emsp;“(11) The Law on Religious Freedom and Religious Organizations, passed by the National Assembly and signed by Lukashenka on October 31, 2002, establishes one of the most repressive legal regimes in the OSCE region, severely limiting religious freedom and placing excessively burdensome government controls on religious practice.
+&emsp;“(11) The Belarusian authorities have further attempted to silence dissent through retribution against human rights and pro-democracy activists through threats, firings, expulsions, beatings and other forms of intimidation.
 
-&emsp;“(12) The parliamentary elections of October 15, 2000, and the presidential election of September 9, 2001, were determined to be fundamentally unfair and nondemocratic.
+#### “SEC. 3. STATEMENT OF POLICY.
 
-&emsp;“(13) The Government of Belarus has made no substantive progress in addressing criteria established by the OSCE in 2000, ending repression and the climate of fear, permitting a functioning independent media, ensuring transparency of the elections process, and strengthening of the functions of parliament.
+“It is the policy of the United States—
 
-#### “SEC. 3. ASSISTANCE TO PROMOTE DEMOCRACY AND CIVIL SOCIETY IN BELARUS.
+&emsp;“(1) to call upon the immediate release without preconditions of all political prisoners in Belarus;
+
+&emsp;“(2) to support the aspirations of the people of the Republic of Belarus for democracy, human rights, and the rule of law;
+
+&emsp;“(3) to support the aspirations of the people of the Republic of Belarus to preserve the independence and sovereignty of their country;
+
+&emsp;“(4) to seek and support the growth of democratic movements and institutions in Belarus, with the ultimate goal of ending tyranny in that country;
+
+&emsp;“(5) to refuse to accept the results of the fatally flawed March 19, 2006, presidential elections held in Belarus and support the call for new presidential elections;
+
+&emsp;“(6) to refuse to recognize any possible referendum, or the results of any referendum, that would affect the sovereignty of Belarus; and
+
+&emsp;“(7) to work closely with other countries and international organizations, including the European Union, to promote the conditions necessary for the integration of Belarus into the European community of democracies.
+
+#### “SEC. 4. ASSISTANCE TO PROMOTE DEMOCRACY AND CIVIL SOCIETY IN BELARUS.
 
 “(a)
 
 Purposes of Assistance.—The assistance under this section shall be available for the following purposes:
 
-&emsp;“(1) To assist the people of the Republic of Belarus in regaining their freedom and to enable them to join the European community of democracies.
+&emsp;“(1) To assist the people of the Republic of Belarus in their pursuit of freedom, democracy, and human rights and in their aspiration to join the European community of democracies.
 
-&emsp;“(2) To encourage free and fair presidential, parliamentary, and local elections in Belarus, conducted in a manner consistent with internationally accepted standards and under the supervision of internationally recognized observers.
+&emsp;“(2) To encourage free, fair, and transparent presidential, parliamentary, and local elections in Belarus, conducted in a manner consistent withinternationally accepted standards and under the supervision of internationally recognized observers and independent domestic observers.
 
-&emsp;“(3) To assist in restoring and strengthening institutions of democratic governance in Belarus.
+&emsp;“(3) To assist in the development of a democratic political culture and civil society in Belarus.
 
 “(b)
 
@@ -80,19 +94,21 @@ Authorization for Assistance.—To carry out the purposes of subsection (a), the
 
 Activities Supported.—Activities that may be supported by assistance under subsection (b) include—
 
-&emsp;“(1) the observation of elections and the promotion of free and fair electoral processes;
+&emsp;“(1) expanding independent radio and television broadcasting to and within Belarus;
 
-&emsp;“(2) development of democratic political parties;
+&emsp;“(2) facilitating the development of independent broadcast, print, and Internet media working within Belarus and from locations outside the country and supported by nonstate-controlled printing facilities;
 
-&emsp;“(3) radio and television broadcasting to and within Belarus;
+&emsp;“(3) aiding the development of civil society through assistance to nongovernmental organizations promoting democracy and supporting human rights, including youth groups, entrepreneurs, and independent trade unions;
 
-&emsp;“(4) the development of nongovernmental organizations promoting democracy and supporting human rights;
+&emsp;“(4) supporting the work of human rights defenders;
 
-&emsp;“(5) the development of independent media working within Belarus and from locations outside the country and supported by nonstate-controlled printing facilities;
+&emsp;“(5) enhancing the development of democratic political parties;
 
-&emsp;“(6) international exchanges and advanced professional training programs for leaders and members of the democratic forces in skill areas central to the development of civil society; and
+&emsp;“(6) assisting the promotion of free, fair, and transparent electoral processes;
 
-&emsp;“(7) other activities consistent with the purposes of this Act.
+&emsp;“(7) enhancing international exchanges and advanced professional training programs for leaders and members of the democratic forces in skill areas central to the development of civil society; and
+
+&emsp;“(8) other activities consistent with the purposes of this Act.
 
 “(d)
 
@@ -100,27 +116,27 @@ Authorization of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There are authorized to be appropriated to the President to carry out this section such sums as may be necessary for each of the fiscal years 2005 and 2006.
+In general.—There are authorized to be appropriated to the President to carry out this section such sums as may be necessary for each of the fiscal years 2007 and 2008.
 
 &emsp;“(2)
 
 Availability of funds.—Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-#### “SEC. 4. RADIO BROADCASTING TO BELARUS.
+#### “SEC. 5. RADIO AND TELEVISION BROADCASTING TO BELARUS.
 
 “(a)
 
-Purpose.—It is the purpose of this section to authorize increased support for United States Government and surrogate radio broadcasting to the Republic of Belarus that will facilitate the unhindered dissemination of information.
+Purpose.—It is the purpose of this section to authorize increased support for United States Government and surrogate radio and television broadcasting to the Republic of Belarus that will facilitate the unhindered dissemination of information.
 
 “(b)
 
-Authorization of Appropriations.—In addition to such sums as are otherwise authorized to be appropriated, there are authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each subsequent fiscal year for radio broadcasting to the people of Belarus in languages spoken in Belarus.
+Authorization of Appropriations.—In addition to such sums as are otherwise authorized to be appropriated, there are authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each subsequent fiscal year for radio and television broadcasting to the people of Belarus in languages spoken in Belarus.
 
-#### “SEC. 5. SENSE OF CONGRESS RELATING TO SANCTIONS AGAINST BELARUS.
+#### “SEC. 6. SANCTIONS AGAINST THE GOVERNMENT OF BELARUS.
 
 “(a)
 
-Sense of Congress.—It is the sense of Congress that the sanctions described in subsection (c) should apply with respect to the Republic of Belarus until the President determines and certifies to the appropriate congressional committees that the Government of Belarus has made significant progress in meeting the conditions described in subsection (b).
+Application of Sanctions.—The sanctions described in subsections (c) through (f) should apply with respect to the Republic of Belarus until the President determines and certifies to the appropriate congressional committees that the Government of Belarus has made significant progress in meeting the conditions described in subsection (b).
 
 “(b)
 
@@ -128,35 +144,113 @@ Conditions.—The conditions referred to in subsection (a) are the following:
 
 &emsp;“(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs.
 
-&emsp;“(2) The withdrawal of politically motivated legal charges against all opposition figures and independent journalists in Belarus.
+&emsp;“(2) The withdrawal of politically motivated legal charges against all opposition activists and independent journalists in Belarus.
 
-&emsp;“(3) A full accounting of the disappearances of opposition leaders and journalists in Belarus, including Victor Gonchar, Anatoly Krasovsky, Yuri Zakharenka, and Dmitry Zavadsky, and the prosecution of those individuals who are responsible for their disappearances.
+&emsp;“(3) A full accounting of the disappearances of opposition leaders and journalists in Belarus, including Victor Gonchar, Anatoly Krasovsky, Yuri Zakharenka, and Dmitry Zavadsky, and the prosecution of those individuals who are in any way responsible for their disappearances.
 
-&emsp;“(4) The cessation of all forms of harassment and repression against the independent media, independent trade unions, nongovernmental organizations, religious organizations (including their leadership and members), and the political opposition in Belarus.
+&emsp;“(4) The cessation of all forms of harassment and repression against the independent media, independent trade unions, nongovernmental organizations, youth groups, religious organizations (including their leadership and members), and the political opposition in Belarus.
 
-&emsp;“(5) The implementation of free and fair presidential and parliamentary elections in Belarus consistent with OSCE commitments.
+&emsp;“(5) The prosecution of senior leadership of the Government of Belarus responsible for the administration of fraudulent elections.
+
+&emsp;“(6) A full accounting of the embezzlement of state assets by senior leadership of the Government of Belarus, their family members, and other associates.
+
+&emsp;“(7) The holding of free, fair and transparent presidential and parliamentary elections in Belarus consistent with OSCE standards and under the supervision of internationally recognized observers and independent domestic observers.
 
 “(c)
+
+Denial of Entry Into the United States of Senior Leadership of the Government of Belarus.—Notwithstanding any other provision of law, the President may exercise the authority under section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)) to deny the entry into the United States of any alien who—
+
+&emsp;“(1) holds a position in the senior leadership of the Government of Belarus;
+
+&emsp;“(2) is an immediate family member of a person inadmissible under subparagraph (A); or
+
+&emsp;“(3) through his or her business dealings with senior leadership of the Government of Belarus derives significant financial benefit from policies or actions, including electoral fraud, human rights abuses, or corruption, that undermine or injure democratic institutions or impede the transition to democracy in Belarus.
+
+“(d)
 
 Prohibition on Loans and Investment.—
 
 &emsp;“(1)
 
-United states government financing.—No loan, credit guarantee, insurance, financing, or other similar financial assistance should be extended by any agency of the United States Government (including the Export-Import Bank and the Overseas Private Investment Corporation) to the Government of Belarus, except with respect to the provision of humanitarian goods and agricultural or medical products.
+United states government financing.—It is the sense of Congress that no loan, credit guarantee, insurance, financing, or other similar financial assistance should be extended by any agency of the Government of the United States (including the Export-Import Bank of the United States and the Overseas Private Investment Corporation) to the Government of Belarus, except with respect to the provision of humanitarian goods and agricultural or medical products.
 
 &emsp;“(2)
 
-Trade and development agency.—No funds available to the Trade and Development Agency should be available for activities of the Agency in or for Belarus.
+Trade and development agency.—It is the sense of Congress that no funds available to the Trade and Development Agency should be available for activities of the Agency in or for Belarus.
 
-“(d)
+“(e)
 
-Multilateral Financial Assistance.—It is further the sense of Congress that, in addition to the application of the sanctions described in subsection (c) to the Republic of Belarus (until the President determines and certifies to the appropriate congressional committees that the Government of Belarus has made significant progress in meeting the conditions described in subsection (b)), the Secretary of the Treasury should instruct the United States Executive Director of each international financial institution to which the United States is a member to use the voice and vote of the United States to oppose any extension by those institutions of any financial assistance (including any technical assistance or grant) of any kind to the Government of Belarus, except for loans and assistance that serve humanitarian needs.
+Multilateral Financial Assistance.—The Secretary of the Treasury should instruct the United States Executive Director of each international financial institution to which the United States is a member to use the voice and vote of the United States to oppose any extension by those institutions of any financial assistance (including any technical assistance or grant) of any kind to the Government of Belarus, except for loans and assistance that serve humanitarian needs.
 
-#### “SEC. 6. MULTILATERAL COOPERATION.
+“(f)
 
-“It is the sense of Congress that the President should continue to seek to coordinate with other countries, particularly European countries, a comprehensive, multilateral strategy to further the purposes of this Act, including, as appropriate, encouraging other countries to take measures with respect to the Republic of Belarus that are similar to measures described in this Act.
+Blocking of Assets and Other Prohibited Activities.—
 
-#### “SEC. 7. REPORT.
+&emsp;“(1)
+
+Blocking of assets.—It is the sense of Congress that the President should block all property and interests in property, including all commercial, industrial, or public utility undertakings or entities, that, on or after the date of the enactment of the Belarus Democracy Reauthorization Act of 2006 \[Jan. 12, 2007\]—
+
+&emsp;&emsp;“(A) are owned, in whole or in part, by the Government of Belarus, or by any member or family member closely linked to any member of the senior leadership of the Government of Belarus, or any person who through his or her business dealings with senior leadership of the Government of Belarus derives significant financial benefit from policies or actions, including electoral fraud, human rights abuses, or corruption, that undermine or injure democratic institutions or impede the transition to democracy in Belarus; and
+
+&emsp;&emsp;“(B) are in the United States, or in the possession or control of the Government of the United Statesor of any United States financial institution, including any branch or office of such financial institution that is located outside the United States.
+
+&emsp;“(2)
+
+Prohibited activities.—Activities prohibited by reason of the blocking of property and interests in property under paragraph (1) should include—
+
+&emsp;&emsp;“(A) payments or transfers of any property, or any transactions involving the transfer of anything of economic value by any United States person, to the Government of Belarus, to any person or entity acting for or on behalf of, or owned or controlled, directly or indirectly, by that government, or to any member of the senior leadership of the Government of Belarus;
+
+&emsp;&emsp;“(B) the export or reexport to any entity owned, controlled, or operated by the Government of Belarus, directly or indirectly, of any goods, technology, or services, either—
+
+&emsp;&emsp;&emsp;“(i) by a United States person; or
+
+&emsp;&emsp;&emsp;“(ii) involving the use of any air carrier (as defined in section 40102 of title 49, United States Code) or a vessel documented under the laws of the United States; and
+
+&emsp;&emsp;“(C) the performance by any United States person of any contract, including a contract providing a loan or other financing, in support of an industrial, commercial, or public utility operated, controlled, or owned by the Government of Belarus.
+
+&emsp;“(3)
+
+Payment of expenses.—All expenses incident to the blocking and maintenance of property blocked under paragraph (1) should be charged to the owners or operators of such property. Such expenses may not be paid from blocked funds.
+
+&emsp;“(4)
+
+Rule of construction.—Nothing in this subsection shall be construed to prohibit any contract or other financial transaction with any private or nongovernmental organization or business in Belarus.
+
+&emsp;“(5)
+
+Exceptions.—Paragraphs (1) and (2) do not apply to—
+
+&emsp;&emsp;“(A) assistance authorized under section 4 or 5 of this Act; or
+
+&emsp;&emsp;“(B) medicine, medical equipment or supplies, food, as well as any other form of humanitarian assistance provided to Belarus as relief in response to a humanitarian crisis.
+
+&emsp;“(6)
+
+Penalties.—Any person who violates any prohibition or restriction imposed under this subsection should be subject to the penalties under section 6 \[206\] of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as for a violation under that Act \[50 U.S.C. 1701 et seq.\].
+
+&emsp;“(7)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;“(A)
+
+Air carrier.—The term ‘air carrier’ has the meaning given that term in section 40102 of title 49, United States Code.
+
+&emsp;&emsp;“(B)
+
+United states person.—The term ‘United States person’ means—
+
+&emsp;&emsp;&emsp;“(i) any United States citizen or alien admitted for permanent residence to the United States;
+
+&emsp;&emsp;&emsp;“(ii) any entity organized under the laws of the United States; and
+
+&emsp;&emsp;&emsp;“(iii) any person in the United States.
+
+#### “SEC. 7. MULTILATERAL COOPERATION.
+
+“It is the sense of Congress that the President should continue to seek the support of other countries, particularly European countries, for a comprehensive, multilateral strategy to further the purposes of this Act, including, as appropriate, encouraging other countries to take measures with respect to the Republic of Belarus that are similar to measures described in this Act.
+
+#### “SEC. 8. REPORT.
 
 “(a)
 
@@ -174,18 +268,6 @@ Report.—Not later than 90 days after the date of the enactment of this Act \[O
 
 Form.—A report transmitted pursuant to subsection (a) shall be in unclassified form but may contain a classified annex.
 
-#### “SEC. 8. DECLARATION OF POLICY.
-
-“Congress hereby—
-
-&emsp;“(1) calls upon the Lukashenka regime to cease its persecution of political opponents or independent journalists and to release those individuals who have been imprisoned for opposing his regime or for exercising their right to freedom of speech;
-
-&emsp;“(2) expresses its grave concern about the disappearance of Victor Gonchar, Anatoly Krasovsky, Yuri Zakharenko, and Dmitry Zavadsky and calls upon the Lukashenka regime to cooperate fully with the Belrussian \[Belarusian\] civil initiative ‘We Remember’ and to extend to this organization all necessary information to find out the truth about the disappearances;
-
-&emsp;“(3) calls upon the Lukashenka regime to cooperate fully with the Parliamentary Assembly of the Council of Europe (PACE) and its specially appointed representatives in matters regarding the resolution of the cases of the disappeared; and
-
-&emsp;“(4) commends the democratic opposition in Belarus for their commitment to participate in October 2004 Parliamentary elections as a unified coalition and for their courage in the face of the repression of the Lukashenka regime in Belarus.
-
 #### “SEC. 9. DEFINITIONS.
 
 “In this Act:
@@ -200,9 +282,15 @@ Appropriate congressional committees.—The term ‘appropriate congressional co
 
 Senior leadership of the government of belarus.—The term ‘senior leadership of the Government of Belarus’ includes—
 
-&emsp;&emsp;“(A) the President, Prime Minister, Deputy Prime Ministers, government ministers, Chairmen of State Committees, and members of the Presidential Administration of Belarus;
+&emsp;&emsp;“(A) the President, Prime Minister, Deputy Prime Ministers, government ministers, Chairmen of State Committees, governors, heads of state enterprises, and members of the Presidential Administration of Belarus;
 
-&emsp;&emsp;“(B) any official of the Government of Belarus who is personally and substantially involved in the suppression of freedom in Belarus, including judges and prosecutors; and
+&emsp;&emsp;“(B) any official of the Government of Belarus who—
+
+&emsp;&emsp;&emsp;“(i) is personally and substantially involved in the suppression of freedom in Belarus, including judges and prosecutors; or
+
+&emsp;&emsp;&emsp;“(ii) is otherwise engaged in public corruption in Belarus; and
 
 &emsp;&emsp;“(C) any other individual determined by the Secretary of State (or the Secretary's designee) to be personally and substantially involved in the formulation or execution of the policies of the Lukashenka regime that are in contradiction of internationally recognized human rights standards.”
+
+\[Pub. L. 109–480, §4(c)(2), Jan. 12, 2007, 120 Stat. 3668, provided that: “The amendment made by paragraph (1) \[amending section 4(d)(1) of Pub. L. 108–347, set out in the note above\] shall not be construed to affect the availability of funds appropriated pursuant to the authorization of appropriations under section 4(d) of the Belarus Democracy Act of 2004 \[Pub. L. 108–347\] (as redesignated) before the date of the enactment of this Act \[Jan. 12, 2007\].”\]
 

@@ -18,7 +18,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(D) any ground flight simulators, and parts and components thereof, for use with respect to such aircraft,
 
-> &emsp;whether to be purchased for use as original or replacement equipment in the manufacture,repair, maintenance, rebuilding, modification, or conversion of such aircraft, and without regard to whether such aircraft or articles receive duty-free treatment pursuant to section 601(a)(2).
+> &emsp;whether to be purchased for use as original or replacement equipment in the manufacture, repair, maintenance, rebuilding, modification, or conversion of such aircraft, and without regard to whether such aircraft or articles receive duty-free treatment pursuant to section 601(a)(2).
 
 #### (3) Developed countries
 
@@ -38,7 +38,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(iv) a party to the Dominican Republic-Central America-United States Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States; or
 
-&emsp;&emsp;&emsp;(v) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2005, and before July 2, 2006, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States.
+&emsp;&emsp;&emsp;(v) a party to a free trade agreement that entered into force with respect to theUnited States after December 31, 2005, and before July 2, 2006, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States.
 
 #### (B) Rule of origin
 
@@ -68,9 +68,23 @@ As used in this subchapter—
 
 &emsp;The term “major industrial country” means any such country as defined in section 2136 of this title and any instrumentality of such a country.
 
-(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599.)
+(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, §401, Sept. 26, 2006, 120 Stat. 1209.)
+
+#### Amendment of Paragraph (4)(A)
+
+<i>Pub. L. 109–283, title I, §107(a), title IV, §401, Sept. 26, 2006, 120 Stat. 1195, 1209, provided that, effective on the date on which the United States-Oman Free Trade Agreement enters into force, paragraph (4)(A) is amended—</i>
+
+<i>(1) by striking “or” at the end of clause (iv);</i>
+
+<i>(2) by striking the period at the end of clause (v) and inserting “; or”; and</i>
+
+<i>(3) by adding at the end the following new clause:</i>
+
+<i>(vi) a party to the United States-Oman Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States.</i>
 
 #### Termination of Amendment
+
+<i>For termination of amendment by section 107(c) of Pub. L. 109–283, see Effective and Termination Dates of 2006 Amendment note below.</i>
 
 <i>For termination of amendment by section 106(c) of Pub. L. 109–169, see Effective and Termination Dates of 2006 Amendment note below.</i>
 
@@ -80,7 +94,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by theHarmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
+Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
 
 #### Amendments
 
@@ -94,7 +108,7 @@ Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96�
 
 1994—Par. (1). Pub. L. 103–465, §342(f)(1), substituted “section 3511(d)(17) of this title” for “section 2503(c) of this title”.
 
-Par. (4)(C). Pub. L. 103–465, §342(f)(2)(A), substituted “for which the United States is obligated to waive Buy National restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
+Par. (4)(C). Pub. L. 103–465, §342(f)(2)(A), substituted “for which the United States is obligated to waive BuyNational restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
 
 Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.” for “GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement.”
 
@@ -103,6 +117,10 @@ Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as
 1988—Par. (4)(D). Pub. L. 100–449 added subpar. (D).
 
 1985—Par. (4)(C). Pub. L. 99–47 added subpar. (C).
+
+#### Effective and Termination Dates of 2006 Amendment
+
+Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2006 Amendment
 

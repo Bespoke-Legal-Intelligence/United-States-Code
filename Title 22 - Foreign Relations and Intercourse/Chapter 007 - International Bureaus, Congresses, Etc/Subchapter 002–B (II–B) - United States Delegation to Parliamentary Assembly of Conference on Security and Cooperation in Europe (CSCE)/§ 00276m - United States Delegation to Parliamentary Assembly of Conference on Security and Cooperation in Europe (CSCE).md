@@ -26,7 +26,7 @@ For the purpose of providing general staff support and continuity between succes
 
 #### (1) United States participation
 
-&emsp;There is authorized to be appropriated for each fiscal year $80,000 to assist in meeting theexpenses of the United States delegation.<sup>2</sup> For each fiscal year for which an appropriation is made under this subsection, half of such appropriation may be disbursed on voucher to be approved by the Chairman and half of such appropriation may be disbursed on voucher to be approved by the Vice Chairman.
+&emsp;There is authorized to be appropriated for each fiscal year $80,000 to assist in meeting the expenses of the United States delegation.<sup>2</sup> For each fiscal year for which an appropriation is made under this subsection, half of such appropriation may be disbursed on voucher to be approved by the Chairman and half of such appropriation may be disbursed on voucher to be approved by the Vice Chairman.
 
 #### (2) Availability of appropriations
 
@@ -34,7 +34,7 @@ For the purpose of providing general staff support and continuity between succes
 
 #### (e) Annual report
 
-The United States Delegation shall, for each fiscal year for which an appropriation is made, submit to the Congress a report including its expenditures under such appropriation. The certificate of the Chairman and Vice Chairman of the United States Delegation shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States Delegation.
+The United States Delegation shall, for each fiscal year for which an appropriation is made, submit to the Congress a report including its expenditures under such appropriation. The certificate of the Chairman and Vice Chairman of the United States Delegation shall be final and conclusive upon the accounting officers in theauditing of the accounts of the United States Delegation.
 
 (Pub. L. 102–138, title I, §169, Oct. 28, 1991, 105 Stat. 677.)
 

@@ -24,11 +24,13 @@ The Congress finds that—
 
 &emsp;&emsp;(B) second, the Bank should support United States exporters when the exporters face foreign competition that is consistent with the Arrangement and the Subsidies Code of the World Trade Organization, but which places United States exporters at a competitive disadvantage; and
 
-&emsp;(6) there should be established in the Bank a tied aid program to target the export markets of those countries which make extensive use of tied aid or partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial advantage for the purposes of—
+&emsp;(6) there should be established in the Bank a tied aid program to target the export markets of those countries, including those that are not a party to the Arrangement, which make extensive use of tied aid or partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial advantage for the purposes of—
 
 &emsp;&emsp;(A) enforcing compliance with the existing Arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes; and
 
-&emsp;&emsp;(B) facilitating efforts to negotiate, establish, and enforce new or revised comprehensive international arrangements effectively restricting the use of tied aid and partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial purposes;
+&emsp;&emsp;(B) facilitating efforts to negotiate, establish, and enforce new or revised comprehensive international arrangements effectively restricting the use of tied aid and partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial purposes; and
+
+&emsp;&emsp;(C) promoting compliance with Arrangement rules among foreign export credit agencies that are not a party to the Arrangement;
 
 > &emsp;and such program should be used aggressively for such purposes.
 
@@ -90,11 +92,11 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), the Secretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
 
-&emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, and to police existing rules.
+&emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, to police existing rules, and to seek compliance by those countries that are not a party to the Arrangement.
 
 &emsp;&emsp;&emsp;&emsp;(II) The Tied Aid Credit Fund will be used to counter a foreign tied aid credit confronted by a United States exporter when bidding for a capital project.
 
-&emsp;&emsp;&emsp;&emsp;(III) Credible information about an offer of foreign tied aid will be required before the Tied Aid Credit Fund is used to offer specific terms to match such an offer.
+&emsp;&emsp;&emsp;&emsp;(III) Credible information about an offer of foreign tied aid will be required before the Tied Aid Credit Fund is used to offer specific terms to match such an offer. In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.
 
 &emsp;&emsp;&emsp;&emsp;(IV) The Tied Aid Credit Fund will be used to enable a competitive United States exporter to pursue further market opportunities on commercial terms made possible by the use of the Fund.
 
@@ -104,9 +106,19 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;&emsp;(VII) The Tied Aid Credit Fund may be used to preemptively counter potential foreign tied aid offers without triggering foreign tied aid use.
 
-#### (ii) Conclusion
+#### (ii) Process
 
-&emsp;&emsp;&emsp;Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: <i>Provided however</i>, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.
+&emsp;&emsp;&emsp;In handling individual applications involving the use or potential use of the Tied Aid Credit Fund the following process shall exclusively apply pursuant to subparagraph (A):
+
+&emsp;&emsp;&emsp;&emsp;(I) The Bank shall process an application for tied aid in accordance with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
+
+&emsp;&emsp;&emsp;&emsp;(II) Twenty days prior to the scheduled meeting of the Board of Directors at which an application will be considered (unless the Bank determines that an earlier discussion is appropriate based on the facts of a particular financing), the Bank shall brief the Secretary on the application and deliver to the Secretarysuch documents, information, or data as may reasonably be necessary to permit the Secretary to review the application to determine if the application complies with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
+
+&emsp;&emsp;&emsp;&emsp;(III) The Secretary may request a single postponement of the consideration by the Board of Directors of the application for up to 14 days to allow the Secretary to submit to the Board of Directors a memorandum objecting to the application.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Case-by-case decisions on whether to approve the use of the Tied Aid Credit Fund shall be made by the Board of Directors, except that the approval of the Board of Directors (or a commitment letter based on that approval) shall not become final (except as provided in subclause (V)), if the Secretary indicates to the President of the Bank in writing the Secretary's intention to appeal the decision of the Board of Directors to the President of the United States and makes the appeal in writing not later than 20 days after the meeting at which the Board of Directors considered the application.
+
+&emsp;&emsp;&emsp;&emsp;(V) The Bank shall not grant final approval of an application for any tied aid credit (or a commitment letter based on that approval) if the President of the United States, after consulting with the President of the Bank and the Secretary, determines within 30 days of an appeal by the Secretary under subclause (IV) that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6). If no such Presidential determination is made during the 30-day period, the approval by the Bank of the application (or related commitment letter) that was the subject of such appeal shall become final.
 
 #### (C) Initial principles, process, and standards
 
@@ -224,13 +236,23 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The Bank, in consultation with the Secretary of the Treasury, shall define “market window” for purposes of this section.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
 
 #### Prior Provisions
 
 A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2006—Subsec. (a)(6). Pub. L. 109–438, §10(b)(1)(A), inserted “, including those that are not a party to the Arrangement,” after “countries” in introductory provisions.
+
+Subsec. (a)(6)(C). Pub. L. 109–438, §10(b)(1)(B), (C), added subpar. (C).
+
+Subsec. (b)(5)(B)(i)(I). Pub. L. 109–438, §10(b)(2)(A)(i), struck out “and” after “multilateral rules,” and inserted “, and to seek compliance by those countries that are not a party to the Arrangement” before period.
+
+Subsec. (b)(5)(B)(i)(III). Pub. L. 109–438, §10(b)(2)(A)(ii), inserted at end “In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.”
+
+Subsec. (b)(5)(B)(ii). Pub. L. 109–438, §10(a), amended cl. (ii) heading and text generally. Prior to amendment,text read as follows: “Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: <i>Provided however</i>, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.”
 
 2002—Subsec. (a)(4). Pub. L. 107–189, §10(c)(1), struck out “and” at end.
 

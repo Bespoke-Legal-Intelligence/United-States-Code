@@ -14,17 +14,7 @@
 | [1438\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001438%20-%20Veterans%E2%80%99%20preference.md) | Veterans’ preference. |
 | 1439 to 1441. Repealed or Omitted. |  |
 | [1442\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001442%20-%20Informational%20media%20guaranties.md) | Informational media guaranties. |
-| (a) | Authorization to make. |
-| (b) | Assumption of notes issued pursuant to section 1509(c)(2) of this title; advances. |
-| (c) | Limitations of time; total of guaranties outstanding. |
-| (d) | Sale of foreign currencies; special account; availability. |
-| (e) | Deposit of fees; availability. |
-| (f) | Advance payments. |
-| (g) | Separate accounts; transfers. |
-| (h) | Appropriations for restoration of realized impairment to capital; liquidation of notes. |
 | [1442a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001442a%20-%20National%20security%20measures.md) | National security measures. |
-| (a) | Restriction. |
-| (b) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,8 +53,6 @@
 |  |  |
 | :--- | ---: |
 | [1461\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461%20-%20General%20authorization.md) | General authorization. |
-| (a) | Dissemination of information abroad. |
-| (b) | Dissemination of information within United States. |
 | 1461–1. | Mission of United States Information Agency. |
 | 1461–1a. | Ban on domestic activities by United States Information Agency. |
 | [1461a.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461a%20-%20Omitted.md) | Omitted. |
@@ -74,15 +62,7 @@
 | [1463\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001463%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20III%2C%20%C2%A7315%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20445.md) | Repealed. |
 | [1464\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001464%20-%20Voice%20of%20America-Europe.md) | Voice of America/Europe. |
 | [1464a.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001464a%20-%20Broadcasting%20Board%20of%20Governors%20satellite%20and%20television.md) | Broadcasting Board of Governors satellite and television. |
-| (a) | In general. |
-| (b) | Broadcast principles. |
-| (c) | Programs. |
-| (d) | Costs. |
-| (e) | Allocation of funds. |
 | [1464b.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001464b%20-%20Voice%20of%20America%20hiring%20practices.md) | Voice of America hiring practices. |
-| (a) | Prohibition. |
-| (b) | Exception. |
-| (c) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -92,31 +72,10 @@
 | :--- | ---: |
 | [1465\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465%20-%20Congressional%20findings%20and%20declaration%20of%20purposes.md) | Congressional findings and declaration of purposes. |
 | [1465a.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465a%20-%20Additional%20functions%20of%20Broadcasting%20Board%20of%20Governors.md) | Additional functions of Broadcasting Board of Governors. |
-| (a) | Radio broadcasting to Cuba. |
-| (b) | Broadcasting as part of Voice of America. |
-| (c) | Location of broadcast facilities; frequency; leased time from nongovernmental shortwave stations. |
-| (d) | Changes in frequencies to other AM bands; jamming and interference. |
-| (e) | Voice of America: Cuba Service; Voice of America: Radio Marti program. |
-| (f) | Use of other facilities. |
 | [1465b.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465b%20-%20Cuba%20Service.md) | Cuba Service. |
 | [1465c.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465c%20-%20Advisory%20Board%20for%20Cuba%20Broadcasting.md) | Advisory Board for Cuba Broadcasting. |
-| (a) | Establishment; membership; chairperson. |
-| (b) | Review; recommendations. |
-| (c) | Terms; vacancies. |
-| (d) | Ex officio members. |
-| (e) | Compensation; travel expenses. |
-| (f) | Procurement powers of Advisory Board. |
-| (g) | Indefinite life span of Advisory Board. |
-| (h) | Authorization of appropriations. |
 | [1465d.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465d%20-%20Assistance%20from%20other%20government%20agencies.md) | Assistance from other government agencies. |
 | [1465e.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465e%20-%20Compensation%20for%20Cuban%20interference%20with%20broadcasting%20in%20United%20States.md) | Compensation for Cuban interference with broadcasting in United States. |
-| (a) | Interim assistance to United States broadcasters. |
-| (b) | Money payments pursuant to authority from Federal Communications Commission. |
-| (c) | Regulations and procedures. |
-| (d) | Authorization of appropriations. |
-| (e) | Four-year availability for appropriated funds. |
-| (f) | Presidential task force. |
-| (g) | Effective date. |
 | [1465f.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1465g.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/%C2%A7%2001465g%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7139%289%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20398.md) | Repealed. |
 
@@ -128,22 +87,9 @@
 | :--- | ---: |
 | [1465aa.](Subchapter%20005%E2%80%93B%20%28V%E2%80%93B%29%20-%20Television%20Broadcasting%20to%20Cuba/%C2%A7%2001465aa%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 | [1465bb.](Subchapter%20005%E2%80%93B%20%28V%E2%80%93B%29%20-%20Television%20Broadcasting%20to%20Cuba/%C2%A7%2001465bb%20-%20Television%20broadcasting%20to%20Cuba.md) | Television broadcasting to Cuba. |
-| (a) | Television broadcasting to Cuba. |
-| (b) | Voice of America standards. |
-| (c) | Television Marti. |
-| (d) | Frequency assignment. |
-| (e) | Interference with domestic broadcasting. |
-| (f) | Monitoring of interference. |
-| (g) | Task force. |
 | [1465cc.](Subchapter%20005%E2%80%93B%20%28V%E2%80%93B%29%20-%20Television%20Broadcasting%20to%20Cuba/%C2%A7%2001465cc%20-%20Television%20Marti%20Service.md) | Television Marti Service. |
-| (a) | Television Marti Service. |
-| (b) | Use of existing facilities of Board. |
-| (c) | Authority. |
 | [1465dd.](Subchapter%20005%E2%80%93B%20%28V%E2%80%93B%29%20-%20Television%20Broadcasting%20to%20Cuba/%C2%A7%2001465dd%20-%20Assistance%20from%20other%20Government%20agencies.md) | Assistance from other Government agencies. |
 | [1465ee.](Subchapter%20005%E2%80%93B%20%28V%E2%80%93B%29%20-%20Television%20Broadcasting%20to%20Cuba/%C2%A7%2001465ee%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization of appropriations. |
-| (b) | Limitation. |
-| (c) | Availability of funds. |
 | [1465ff.](Subchapter%20005%E2%80%93B%20%28V%E2%80%93B%29%20-%20Television%20Broadcasting%20to%20Cuba/%C2%A7%2001465ff%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -152,12 +98,8 @@
 
 |  |  |
 | :--- | ---: |
-| 1466 to 1468. Omitted. |  |
+| 1466 to 1468. Omitted. |  |
 | [1469\.](Subchapter%20006%20%28VI%29%20-%20Advisory%20Commissions%20to%20Formulate%20Policies/%C2%A7%2001469%20-%20United%20States%20Advisory%20Commission%20on%20Public%20Diplomacy.md) | United States Advisory Commission on Public Diplomacy. |
-| (a) | Establishment. |
-| (b) | Staff. |
-| (c) | Duties and responsibilities. |
-| (d) | Limitation on authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -167,8 +109,6 @@
 | :--- | ---: |
 | [1471\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001471%20-%20Authority%20of%20Secretary%20of%20State.md) | Authority of Secretary of State. |
 | [1472\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001472%20-%20Department%20of%20State%20and%20other%20Government%20agencies.md) | Department of State and other Government agencies. |
-| (a) | Authority of agencies. |
-| (b) | Contracts for telecommunication activities, etc.; availability of appropriations; cancellation costs. |
 | [1473\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001473%20-%20Use%20of%20existing%20Government%20property%20and%20facilities.md) | Use of existing Government property and facilities. |
 | [1474\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001474%20-%20Additional%20authority%20of%20Secretary%20of%20State%20or%20other%20Government%20agency%20authorized%20to%20administer%20provisions.md) | Additional authority of Secretary of State or other Government agency authorized to administer provisions. |
 | [1475\.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001475%20-%20Travel%20expenses.md) | Travel expenses. |
@@ -176,17 +116,9 @@
 | 1475b, 1475c. Repealed. |  |
 | [1475d.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001475d%20-%20Compensation%20for%20disability%20or%20death.md) | Compensation for disability or death. |
 | [1475e.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001475e%20-%20Use%20of%20English-teaching%20program%20fees.md) | Use of English-teaching program fees. |
-| (a) | In general. |
-| (b) | Fees and receipts described. |
 | [1475f.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001475f%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20G%2C%20subdiv.%20A%2C%20title%20XIII%2C%20%C2%A71336%281%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93790.md) | Repealed. |
 | [1475g.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001475g%20-%20Overseas%20public%20diplomacy%20posts%20and%20personnel%20overseas.md) | Overseas public diplomacy posts and personnel overseas. |
-| (a) | Limitation. |
-| (b) | Notification. |
-| (c) | Exceptions. |
 | [1475h.](Subchapter%20007%20%28VII%29%20-%20Administrative%20Procedure/%C2%A7%2001475h%20-%20Overseas%20public%20diplomacy%20grants.md) | Overseas public diplomacy grants. |
-| (a) | Competitive grant procedures. |
-| (b) | Exceptions. |
-| (c) | Compliance with grant guidelines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

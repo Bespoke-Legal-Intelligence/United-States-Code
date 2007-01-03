@@ -5,203 +5,80 @@
 | [261\.](%C2%A7%2000261%20-%20Policy%20as%20to%20settlement%20of%20disputes%20and%20disarmament.md) | Policy as to settlement of disputes and disarmament. |
 | [262\.](%C2%A7%2000262%20-%20President%27s%20participation%20in%20international%20congresses%20restricted.md) | President's participation in international congresses restricted. |
 | 262–1. | Restriction relating to United States accession to any new international criminal tribunal. |
-| (a) | Prohibition. |
-| (b) | Jurisdiction described. |
-| (c) | Statutory construction. |
-| (d) | “New international criminal tribunal” defined. |
 | [262a.](%C2%A7%2000262a%20-%20Contributions%20to%20international%20organizations%3B%20consent%20of%20State%20Department%3B%20limitations%20as%20to%20certain%20organizations.md) | Contributions to international organizations; consent of State Department; limitations as to certain organizations. |
 | [262b.](%C2%A7%2000262b%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20organizations%3B%20limitations%3B%20consultation%20with%20Congressional%20committees.md) | Commitments for United States contributions to international organizations; limitations; consultation with Congressional committees. |
 | [262c.](%C2%A7%2000262c%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20financial%20institutions%20fostering%20economic%20development%20in%20less%20developed%E2%80%A6.md) | Commitments for United States contributions to international financial institutions fostering economic development in less developed countries; continuation of participation. |
-| (a) | Congressional findings. |
-| (b) | Funding commitments to international financial institutions; availability of funds subject to appropriations. |
 | [262d.](%C2%A7%2000262d%20-%20Human%20rights%20and%20United%20States%20assistance%20policies%20with%20international%20financial%20institutions.md) | Human rights and United States assistance policies with international financial institutions. |
-| (a) | Policy goals. |
-| (b) | Policy considerations for Executive Directors of institutions in implementation of duties. |
-| (c) | Reporting requirements. |
-| (d) | Requirements of United States assistance through institutions for projects in recipient countries. |
-| (e) | Criteria for determination of gross violations of internationally recognized human rights standards. |
-| (f) | Opposition by United States Executive Directors of institutions to financial or technical assistance to violating countries. |
-| (g) | Consultative and additional reporting requirements. |
-| (g) | Violations of religious freedom. |
 | 262d–1. | Congressional statement of policy of human rights and United States assistance policies with international institutions. |
 | [262e.](%C2%A7%2000262e%20-%20Comparability%20of%20salaries%20and%20benefits%20of%20employees%20of%20international%20financial%20institutions%20with%20employees%20of%20American%20private%20business%E2%80%A6.md) | Comparability of salaries and benefits of employees of international financial institutions with employees of American private business and governmental service. |
 | [262f.](%C2%A7%2000262f%20-%20Promotion%20of%20development%20and%20utilization%20of%20light%20capital%20technologies%20and%20United%20States%20assistance%20policies%20with%20international%20financial%E2%80%A6.md) | Promotion of development and utilization of light capital technologies and United States assistance policies with international financial institutions. |
 | [262g.](%C2%A7%2000262g%20-%20Human%20nutrition%20in%20developing%20countries%20and%20United%20States%20assistance%20policies%20with%20international%20financial%20institutions%3B%20declaration%20of%E2%80%A6.md) | Human nutrition in developing countries and United States assistance policies with international financial institutions; declaration of policy. |
 | 262g–1. | Targeting assistance to specific populations. |
-| (a) | Congressional findings. |
-| (b) | Assistance to poorest populations. |
 | 262g–2. | Establishment of guidelines for international financial institutions. |
-| (a) | Consultation with representatives of member countries. |
-| (b) | Congressional findings regarding implementation of objectives. |
 | 262g–3. | International negotiations on future replenishments of international financial institutions; consultation with appropriate Members of Congress. |
 | [262h.](%C2%A7%2000262h%20-%20Opposition%20by%20United%20States%20Executive%20Directors%20of%20international%20financial%20institutions%20to%20assistance%20for%20production%20or%20extraction%20of%E2%80%A6.md) | Opposition by United States Executive Directors of international financial institutions to assistance for production or extraction of export commodities or minerals in surplus on world markets. |
 | [262i.](%C2%A7%2000262i%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93240%2C%20title%20V%2C%20%C2%A7541%28d%29%286%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202518.md) | Repealed. |
 | [262j.](%C2%A7%2000262j%20-%20Use%20of%20renewable%20resources%20for%20energy%20production.md) | Use of renewable resources for energy production. |
-| (a) | Promotion, etc., by United States in connection with international financial institutions. |
-| (b) | “Renewable resource” defined. |
 | [262k.](%C2%A7%2000262k%20-%20Financial%20assistance%20to%20international%20financial%20institutions%3B%20considerations%20and%20criteria.md) | Financial assistance to international financial institutions; considerations and criteria. |
-| (a) | Congressional declaration of intent. |
-| (b) | Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization. |
-| (c) | Project proposals relating to mining, smelting, refining, and fabricating of minerals and metal products. |
-| (d) | International financial institutions. |
 | 262k–1. | Transparency of budgets. |
-| (a) | Limitation. |
-| (b) | “International financial institution” defined. |
 | 262k–2. | Female genital mutilation. |
-| (a) | Limitation. |
-| (b) | “International financial institution” defined. |
 | 262<i>l.</i> | Omitted. |
 | [262m.](%C2%A7%2000262m%20-%20Congressional%20findings%20and%20policies%20for%20multilateral%20development%20banks%20respecting%20environment%2C%20public%20health%2C%20natural%20resources%2C%20and%E2%80%A6.md) | Congressional findings and policies for multilateral development banks respecting environment, public health, natural resources, and indigenous peoples. |
 | 262m–1. | Environmental performance of banks; mechanisms for improvement. |
 | 262m–2. | Environmental impact of assistance proposals. |
-| (a) | Analysis by agencies, United States embassies and overseas missions of Agency for International Development; factors considered; affirmative investigation of adverse impacts; availability of information to public. |
-| (b) | Evaluation by major shareholder governments prior to bank action on assistance proposals. |
-| (c) | Identification of proposals likely to have adverse impact; transmittal to Congress. |
-| (d) | Reports to Executive Directors; elimination or mitigation of adverse impacts. |
 | 262m–3. | Cooperative information exchange system. |
 | 262m–4. | Environmental educational and training programs for mid-level bank managers and officials of borrowing countries. |
 | 262m–5. | Environmental impact statements; factors considered; promotion of activities by United States Executive Directors. |
 | 262m–6. | Repealed. |
 | 262m–7. | Assessment of environmental impact of proposed multilateral development bank actions. |
-| (a) | Assessment required before favorable vote on proposal. |
-| (b) | Access to assessments in all member countries. |
-| (c) | Consideration of assessment. |
-| (d) | Development of procedures for systematic environmental assessment. |
-| (e) | Use of United States personnel. |
-| (f) | Reports. |
-| (g) | Multilateral development bank defined. |
 | [262n.](%C2%A7%2000262n%20-%20Congressional%20findings%20and%20policies%20respecting%20agricultural%20and%20commodity%20production.md) | Congressional findings and policies respecting agricultural and commodity production. |
 | 262n–1. | Increase in income and employment in developing countries; enhancement of purchasing power; diversification away from single crop or product economies. |
 | 262n–2. | Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions by Secretary of the Treasury to United States Executive Directors. |
 | 262n–3. | Reduction of barriers to agricultural trade. |
 | 262<i>o.</i> | Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals. |
 | 262<i>o</i>–1. | Military spending by recipient countries; military involvement in economies of recipient countries. |
-| (a) | Consideration of commitment to achieving certain goals. |
-| (b) | Steps to achieve goals required. |
 | 262<i>o</i>–2. | Advocacy of policies to enhance general effectiveness of International Monetary Fund. |
-| (a) | In general. |
-| (b) | Coordination with other executive departments. |
 | 262<i>o</i>–3. | Administrative provisions. |
-| (a) | Achievement of certain policy goals. |
-| (b) | Report. |
-| (c) | Publication of written statements regarding inspection mechanism cases. |
-| (d) | Congressional briefings. |
-| (e) | Publication of “no” votes and abstentions by the United States. |
-| (f) | Multilateral development institution defined. |
 | 262<i>o</i>–4. | Promotion of policy goals. |
-| (a) | In general. |
-| (b) | Publication of position statement. |
-| (c) | “Multilateral development bank” defined. |
 | [262p.](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md) | Impact adjustment lending programs. |
-| (a) | Establishment of guidelines; impact statements. |
-| (b) | Proposed contents of impact statements. |
-| (c) | Report to member governments by United States Executive Director of International Bank for Reconstruction and Development and by International Development Association. |
-| (d) | “Adjustment lending” defined. |
 | 262p–1. | Grassroots Collaboration Program. |
-| (a) | Proposal for establishment; private involvement; projects or policies for alleviation of poverty and promotion of environmental protection. |
-| (b) | Implementation and financing of program. |
-| (c) | Flexible financing; initial grant. |
-| (d) | Repealed. |
-| (e) | Annual reports to Congress. |
 | 262p–2. | Instructions to United States Executive Directors for extension of credit. |
-| (a) | International Bank for Reconstruction and Development; International Development Association; access of poor to formal sources of credit; identification and removal of barriers to extension of credit generally and to provisions of credit to microenterprises. |
-| (b) | African Development Bank and Asian Development Bank; provision of credit to microenterprises. |
-| (c) | Annual reports to Congress; inclusion of status of microenterprise credit promotion activities. |
 | 262p–3. | Participation of women in economic, social and policy development activities. |
-| (a) | Congressional declaration of policy. |
-| (b) | Instructions by Secretary of the Treasury to United States Executive Directors. |
-| (c) | Annual reports to Congress. |
 | 262p–4. | Instructions to United States Executive Directors; indigenous people in borrowing country; determination of impact; protection of rights; consultation. |
 | 262p–4a. | Loan programs to reduce economic dependence on illicit narcotics. |
-| (a) | Findings. |
-| (b) | Loan programs to reduce economic dependence on illicit narcotics. |
-| (c) | Coordination among assistance programs designed to reduce economic dependency on illicit narcotics. |
 | 262p–4b. | Directives regarding government-owned enterprises in countries receiving World Bank loans. |
-| (a) | Finding. |
-| (b) | Technical assistance to transform government-owned enterprises into privately owned enterprises. |
-| (c) | Reports. |
 | 262p–4c. | Initiation of discussions to facilitate debt-for-development swaps for human welfare and environmental conservation. |
-| (a) | Findings. |
-| (b) | Initiation of discussions to facilitate debt-for-development swaps for human welfare and environmental conservation. |
 | 262p–4d. | Initiation of discussions to facilitate financing of human welfare and natural resource programs in sub-Saharan Africa in connection with debt reduction and conversion. |
-| (a) | Findings. |
-| (b) | Initiation of discussions to facilitate financing of human welfare and natural resource programs in sub-Saharan Africa in connection with debt reduction and conversion. |
 | 262p–4e. | Extent to which borrowing country governments have honored debt-for-development swap agreements to be considered as factor in making loans to such borrowers. |
-| (a) | In general. |
-| (b) | Definitions. |
 | 262p–4f. | Assistance to countries to develop statistical assessment of well-being of poor. |
-| (a) | Findings. |
-| (b) | Assistance to countries to develop statistical assessment of well-being of poor. |
 | 262p–4g. | Directives regarding government-owned enterprises in countries receiving IADB loans. |
-| (a) | Finding. |
-| (b) | Technical assistance to transform government-owned enterprises into privately owned enterprises. |
 | 262p–4h. | Discussions to increase productive economic participation of poor; reports. |
-| (a) | In general. |
-| (b) | Progress report. |
 | 262p–4i. | Multilateral development banks and debt-for-nature exchanges. |
-| (a) | Directions to United States Executive Directors. |
-| (b) | Negotiation of guidelines for restoration, protection, or sustainable use policies. |
-| (c) | Inclusion of certain items in guidelines. |
 | 262p–4j. | Promotion of lending for environment. |
 | 262p–4k. | Promotion of institution-building for nongovernmental organizations concerned with environment. |
 | 262p–4<i>l.</i> | Improvement of interaction between International Bank for Reconstruction and Development and nongovernmental organizations. |
-| (a) | In general. |
-| (b) | Certain mechanisms urged. |
 | 262p–4m. | Population, health, and nutrition programs. |
 | 262p–4n. | Equal employment opportunities. |
 | 262p–4<i>o.</i> | Respect for indigenous peoples. |
 | 262p–4p. | Encouragement of fair labor practices. |
 | 262p–4q. | Opposition to assistance by international financial institutions to terrorist states. |
-| (a) | In general. |
-| (b) | “International financial institution” defined. |
 | 262p–4r. | Use of authority of United States Executive Directors. |
-| (a) | Action by the President. |
-| (b) | Use of voice and vote. |
-| (c) | Definition. |
 | 262p–5. | Definitions. |
 | 262p–6. | Improvement of the Heavily Indebted Poor Countries Initiative. |
-| (a) | Improvement of the HIPC Initiative. |
-| (b) | Heavily Indebted Poor Countries review. |
-| (c) | Definition. |
 | 262p–7. | Reform of the Enhanced Structural Adjustment Facility. |
 | 262p–8. | Modification of the Enhanced HIPC Initiative. |
-| (a) | Authority. |
-| (b) | Relation to poverty and the environment. |
-| (c) | Conditions. |
-| (d) | Programs to combat HIV/AIDS and poverty. |
-| (e) | Definitions. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
-| (a) | In general. |
-| (b) | Contents of reports. |
-| (c) | Definitions. |
-| (d) | Testimony required. |
-| (e) | Advisory Committee on IMF policy. |
 | 262r–1. | Transmission to the Congress of operating summaries of the multilateral development banks. |
 | 262r–2. | Combined report on effect of pending multilateral development bank loans on environment, natural resources, public health, and indigenous peoples. |
 | 262r–3. | Reports on financial stabilization programs led by International Monetary Fund in connection with financing from Exchange Stabilization Fund. |
-| (a) | In general. |
-| (b) | Timing. |
 | 262r–4. | Annual report and testimony on state of international financial system, IMF reform, and compliance with IMF agreements. |
-| (a) | Reports. |
-| (b) | Testimony. |
 | 262r–5. | Repealed. |
 | 262r–6. | Reports on policies, operations, and management of international financial institutions. |
-| (a) | Repealed. |
-| (b) | Annual report on United States supported policies. |
-| (c) | Omitted. |
-| (d) | Report on debt relief. |
 | [262s.](%C2%A7%2000262s%20-%20Multilateral%20development%20bank%20procurement.md) | Multilateral development bank procurement. |
-| (a) | Executive Directors. |
-| (b) | Officer of procurement. |
-| (b) | “Multilateral development bank” defined. |
 | 262s–1. | Procurement opportunities for United States firms. |
 | 262s–2. | Commercial Service Officers and multilateral development bank procurement. |
-| (a) | Appointment of Commercial Service Officers to serve with Executive Directors. |
-| (b) | Functions of officers. |
 | [262t.](%C2%A7%2000262t%20-%20Personnel%20practices.md) | Personnel practices. |
-| (a) | Statement of policy. |
-| (b) | Consultation. |
 | [263\.](%C2%A7%2000263%20-%20International%20Prison%20Commission.md) | International Prison Commission. |
 | [263a.](%C2%A7%2000263a%20-%20International%20Criminal%20Police%20Organization.md) | International Criminal Police Organization. |
 | 264, 265. | Omitted. |
@@ -232,12 +109,7 @@
 | [273\.](%C2%A7%2000273%20-%20Pan%20American%20Institute%20of%20Geography%20and%20History%3B%20authorization%20of%20annual%20appropriations%20for%20membership.md) | Pan American Institute of Geography and History; authorization of annual appropriations for membership. |
 | [274\.](%C2%A7%2000274%20-%20International%20Council%20of%20Scientific%20Unions%20and%20Associated%20Unions%3B%20authorization%20of%20annual%20appropriations%20for%20membership.md) | International Council of Scientific Unions and Associated Unions; authorization of annual appropriations for membership. |
 | [274a.](%C2%A7%2000274a%20-%20International%20biological%20program.md) | International biological program. |
-| (a) | Congressional findings. |
-| (b) | Congressional support. |
-| (c) | Priority. |
 | [274b.](%C2%A7%2000274b%20-%20Cooperation%20of%20Federal%20and%20non-Federal%20departments%2C%20agencies%2C%20and%20organizations%3B%20transfers%20of%20funds.md) | Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds. |
-| (a) | Full cooperation with international biological program. |
-| (b) | Authorization for transfers of funds. |
 | [275\.](%C2%A7%2000275%20-%20International%20Hydrographic%20Bureau.md) | International Hydrographic Bureau. |
 | [275a.](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md) | Permanent International Commission of the Congresses of Navigation; authorization of appropriations. |
 | 276a to 276b. Repealed. |  |
@@ -276,12 +148,6 @@
 |  |  |
 | :--- | ---: |
 | 276<i>l.</i> | British-American Interparliamentary Group. |
-| (a) | Establishment and meetings. |
-| (b) | Appointment of Members. |
-| (c) | Chair and Vice Chair. |
-| (d) | Funding. |
-| (e) | Certification of expenditures. |
-| (f) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -290,11 +156,6 @@
 |  |  |
 | :--- | ---: |
 | [276m.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20United%20States%20Delegation%20to%20Parliamentary%20Assembly%20of%20Conference%20on%20Security%20and%20Cooperation%20in%20Europe%20%28CSCE%29/%C2%A7%2000276m%20-%20United%20States%20Delegation%20to%20Parliamentary%20Assembly%20of%20Conference%20on%20Security%20and%20Cooperation%20in%20Europe%20%28CSCE%29.md) | United States Delegation to Parliamentary Assembly of Conference on Security and Cooperation in Europe (CSCE). |
-| (a) | Establishment. |
-| (b) | Appointment of Delegation. |
-| (c) | Administrative support. |
-| (d) | Funding. |
-| (e) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -303,13 +164,6 @@
 |  |  |
 | :--- | ---: |
 | [276n.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20United%20States%20Senate-China%20Interparliamentary%20Group/%C2%A7%2000276n%20-%20United%20States%20Senate-China%20Interparliamentary%20Group.md) | United States Senate-China Interparliamentary Group. |
-| (a) | Establishment and meetings. |
-| (b) | Appointment of Members. |
-| (c) | Funding. |
-| (d) | Certification of expenditures. |
-| (e) | Fiscal year 2004 funding. |
-| (f) | Appropriations. |
-| (g) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -318,13 +172,6 @@
 |  |  |
 | :--- | ---: |
 | 276<i>o.</i> | United States Senate-Russia Interparliamentary Group. |
-| (a) | Establishment and meetings. |
-| (b) | Appointment of Members. |
-| (c) | Funding. |
-| (d) | Certification of expenditures. |
-| (e) | Fiscal year 2004 funding. |
-| (f) | Appropriations. |
-| (g) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -347,10 +194,6 @@
 | [277\.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277%20-%20International%20Boundary%20Commission%2C%20United%20States%20and%20Mexico%3B%20study%20of%20boundary%20waters.md) | International Boundary Commission, United States and Mexico; study of boundary waters. |
 | [277a.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277a%20-%20Investigations%20of%20commission%3B%20construction%20of%20works%20or%20projects.md) | Investigations of commission; construction of works or projects. |
 | [277b.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277b%20-%20Works%20or%20projects%20under%20treaty.md) | Works or projects under treaty. |
-| (a) | Construction, operation, maintenance, and supervision; sewage interceptor system. |
-| (b) | Rio Grande bank protection project. |
-| (c) | Anzalduas diversion dam. |
-| (d) | Improvements to Rio Grande Canalization Project. |
 | [277c.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277c%20-%20Agreements%20with%20political%20subdivisions%3B%20acquisition%20of%20lands.md) | Agreements with political subdivisions; acquisition of lands. |
 | [277d.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277d%20-%20Funds%20received%20from%20Mexico%3B%20expenditure.md) | Funds received from Mexico; expenditure. |
 | 277d–1. | Authorizations for Mexican treaty projects; acquisition of lands for relocation purposes; contracts and conveyances. |
@@ -371,9 +214,6 @@
 | 277d–16. | Authorization of appropriations. |
 | 277d–17. | Chamizal boundary settlement; investigations relating to river channel; acquisition of lands; relocation of facilities. |
 | 277d–18. | Construction, operation, and maintenance of works; Bridge of the Americas. |
-| (a) | In general. |
-| (b) | Bridge of the Americas. |
-| (c) | Advance appropriations. |
 | 277d–19. | Compensation of owners and tenants to prevent economic injury; regulations. |
 | 277d–20. | Limitation on application for reimbursement or compensation. |
 | 277d–21. | Attorneys’ fees; penalties. |
@@ -400,26 +240,15 @@
 | 277d–42. | Construction, operation, and maintenance of flood control works; authorization of appropriations; restrictions. |
 | 277d–43. | Definitions. |
 | 277d–44. | Actions to be taken by the Commission and the Administrator. |
-| (a) | Secondary treatment. |
-| (b) | Comprehensive plan. |
-| (c) | Contract. |
-| (d) | Implementation. |
 | 277d–45. | New Treaty Minute. |
-| (a) | Congressional statement. |
-| (b) | Negotiation. |
-| (c) | Implementation. |
 | 277d–46. | Authorization of appropriations. |
 | [277e.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277e%20-%20Disposal%20of%20lands%3B%20issuance%20of%20licenses%20for%20use%20of%20lands%3B%20compensation%20for%20injured%20property.md) | Disposal of lands; issuance of licenses for use of lands; compensation for injured property. |
 | [277f.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277f%20-%20Valley%20Gravity%20Canal%20and%20Storage%20Project.md) | Valley Gravity Canal and Storage Project. |
 | [277g.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277g%20-%20Agreements%20to%20correct%20pollution%20of%20Rio%20Grande.md) | Agreements to correct pollution of Rio Grande. |
-| (a) | In general. |
-| (b) | Content of agreements. |
 | 277g–1. | Authority of Secretary of State to plan, construct, operate, and maintain facilities. |
 | 277g–2. | Consultation with Administrator of Environmental Protection Agency and other authorities. |
 | 277g–3. | Authorization of appropriations. |
 | [277h.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277h%20-%20Authority%20of%20the%20International%20Boundary%20and%20Water%20Commission%20to%20assist%20State%20and%20local%20governments.md) | Authority of the International Boundary and Water Commission to assist State and local governments. |
-| (a) | Authority. |
-| (b) | Reimbursements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -492,19 +321,13 @@
 | [282c.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282c%20-%20Congressional%20authorization%20needed%20for%20certain%20actions.md) | Congressional authorization needed for certain actions. |
 | [282d.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282d%20-%20Federal%20Reserve%20banks%20as%20depositories.md) | Federal Reserve banks as depositories. |
 | [282e.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282e%20-%20Payment%20of%20subscriptions%20to%20Corporation%20by%20United%20States%3B%20dividends%20covered%20into%20Treasury.md) | Payment of subscriptions to Corporation by United States; dividends covered into Treasury. |
-| (a) | Authority of Secretary of the Treasury. |
-| (b) | Dividends treated as miscellaneous receipts. |
 | [282f.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282f%20-%20Jurisdiction%20and%20venue%20of%20actions.md) | Jurisdiction and venue of actions. |
 | [282g.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282g%20-%20Status%2C%20privileges%2C%20and%20immunities%20of%20the%20United%20States.md) | Status, privileges, and immunities of the United States. |
 | [282h.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282h%20-%20Loans%20to%20or%20from%20International%20Bank%20for%20Reconstruction%20and%20Development%3B%20amendment%20to%20Articles%20of%20Agreement.md) | Loans to or from International Bank for Reconstruction and Development; amendment to Articles of Agreement. |
 | [282i.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282i%20-%20Increase%20in%20capital%20stock%20of%20Corporation%3B%20subscription%20to%20additional%20shares.md) | Increase in capital stock of Corporation; subscription to additional shares. |
 | [282j.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282j%20-%20Increase%20in%20capital%20stock%20of%20Corporation%3B%20subscription%20to%20additional%20shares.md) | Increase in capital stock of Corporation; subscription to additional shares. |
 | [282k.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282k%20-%20Securities%20issued%20by%20Corporation.md) | Securities issued by Corporation. |
-| (a) | Exemption from securities laws; reports to Securities and Exchange Commission. |
-| (b) | Authority of Securities and Exchange Commission to suspend exemption; reports to Congress. |
 | 282<i>l.</i> | Capital stock increase. |
-| (a) | Subscription authorized. |
-| (b) | Limitations on authorization of appropriations. |
 | [282m.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282m%20-%20Authority%20to%20vote%20for%20capital%20increases%20necessary%20to%20support%20economic%20restructuring%20in%20independent%20states%20of%20former%20Soviet%20Union.md) | Authority to vote for capital increases necessary to support economic restructuring in independent states of former Soviet Union. |
 | [282n.](Subchapter%20011%20%28XI%29%20-%20International%20Finance%20Corporation/%C2%A7%2000282n%20-%20Authority%20to%20agree%20to%20amendments%20to%20Articles%20of%20Agreement.md) | Authority to agree to amendments to Articles of Agreement. |
 
@@ -516,38 +339,19 @@
 | :--- | ---: |
 | [283\.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283%20-%20Acceptance%20of%20membership%20by%20United%20States%20in%20Inter-American%20Development%20Bank.md) | Acceptance of membership by United States in Inter-American Development Bank. |
 | [283a.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283a%20-%20Appointment%20of%20officers%3B%20term%20of%20office%3B%20salary.md) | Appointment of officers; term of office; salary. |
-| (a) | Governor and alternate governor. |
-| (b) | Executive director and alternate executive director. |
-| (c) | Compensation. |
 | [283b.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283b%20-%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Problems.md) | National Advisory Council on International Monetary and Financial Problems. |
 | [283c.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283c%20-%20Congressional%20authorization%20needed%20for%20certain%20actions.md) | Congressional authorization needed for certain actions. |
 | [283d.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283d%20-%20Federal%20Reserve%20banks%20as%20depositories.md) | Federal Reserve banks as depositories. |
 | [283e.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283e%20-%20Payment%20of%20subscription%20to%20Bank%20and%20Fund%20by%20United%20States.md) | Payment of subscription to Bank and Fund by United States. |
-| (a) | Authorization of appropriations. |
-| (b) | Issuance of special notes. |
-| (c) | Income covered into Treasury. |
 | [283f.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283f%20-%20Jurisdiction%20and%20venue%20of%20actions.md) | Jurisdiction and venue of actions. |
 | [283g.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283g%20-%20Status%2C%20privileges%2C%20and%20immunities%20of%20the%20United%20States.md) | Status, privileges, and immunities of the United States. |
 | [283h.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283h%20-%20Securities%20issued%20by%20Bank%3B%20reports%20to%20and%20of%20Securities%20and%20Exchange%20Commission.md) | Securities issued by Bank; reports to and of Securities and Exchange Commission. |
-| (a) | Exempt securities; reports of Bank to Commission. |
-| (b) | Suspension of exemption provisions; annual reports of Commission to Congress. |
 | [283i.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283i%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93240%2C%20title%20V%2C%20%C2%A7541%28d%29%283%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202518.md) | Repealed. |
 | [283j.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283j%20-%20Increased%20United%20States%20participation%20in%20Bank%20activities.md) | Increased United States participation in Bank activities. |
 | 283j–1. | Audit. |
-| (a) | Establishment. |
-| (b) | Scope and standards. |
-| (c) | Reports. |
 | [283k.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283k%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Capital stock of Inter-American Development Bank. |
-| (b) | Fund for Special Operations of the Inter-American Development Bank. |
 | 283<i>l.</i> | Increase in resources of the Fund for Special Operations. |
-| (a) | Authorization of vote; payment to Fund. |
-| (b) | Authorization of appropriations. |
-| (c) | Loan disapproval by the United States. |
 | [283m.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283m%20-%20Additional%20increases%20in%20resources%20of%20the%20Fund%20for%20Special%20Operations.md) | Additional increases in resources of the Fund for Special Operations. |
-| (a) | Authorization of vote; payment to Fund. |
-| (b) | Authorization of appropriations. |
-| (c) | Loan disapproval by the United States. |
 | [283n.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283n%20-%20Increase%20in%20authorized%20capital%20stock%3B%20United%20States%20share%3B%20authorization%20of%20appropriations.md) | Increase in authorized capital stock; United States share; authorization of appropriations. |
 | 283<i>o.</i> | Increase in authorized capital stock and additional subscriptions of members thereto; increase in resources of Fund for Special Operations and contributions thereto; United States share; authorization of appropriations. |
 | [283p.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283p%20-%20Authorization%20for%20payment%20of%20United%20States%20contribution%20to%20increase%20Fund%20for%20Special%20Operations%3B%20authorization%20of%20appropriations.md) | Authorization for payment of United States contribution to increase Fund for Special Operations; authorization of appropriations. |
@@ -561,30 +365,15 @@
 | [283x.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283x%20-%20Subscription%20to%20additional%20shares%3B%20authorization%20of%20appropriations.md) | Subscription to additional shares; authorization of appropriations. |
 | [283y.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283y%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93118%2C%20title%20VII%2C%20%C2%A7702%2C%20Oct.%203%2C%201977%2C%2091%20Stat.%201070.md) | Repealed. |
 | [283z.](Subchapter%20012%20%28XII%29%20-%20Inter-American%20Development%20Bank/%C2%A7%2000283z%20-%20Proposal%20of%20light-capital%20or%20intermediate%20technologies%20as%20part%20of%20Bank%27s%20development%20strategy.md) | Proposal of light-capital or intermediate technologies as part of Bank's development strategy. |
-| (a) | Contents of proposed resolution. |
-| (b) | Progress report to Congress. |
 | 283z–1. | Increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations. |
-| (a) | United States share. |
-| (b) | Authorization of appropriations. |
-| (c) | Funding requirements. |
-| (d) | Limitation of funds to members of Bank. |
 | 283z–2. | Contribution to Inter-American Development Bank; authorization of appropriations. |
 | 283z–3. | Increase in authorized capital stock of Bank and increases in resources of Fund for Special Operations; United States share; authorization of appropriations. |
 | 283z–4. | Amendments to Articles of Agreement in resolution on Merger of Interregional and Ordinary Capital Resources. |
 | 283z–5. | Capital increase; increase in resources of Fund for Special Operations. |
-| (a) | Authority to vote for, and to subscribe and contribute to, increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations. |
-| (b) | Limitation on authorization of appropriations. |
-| (c) | Organizational changes required to be made before payment for subscription to capital stock and contribution to Fund for Special Operations. |
-| (d) | Certification of access to Bank records required before payment for subscription to capital stock and contribution to Fund for Special Operations. |
 | 283z–6. | Investment in human capital. |
-| (a) | In general. |
-| (b) | “Investments in human capital” defined. |
 | 283z–7. | Limitations on policy based lending. |
 | 283z–8. | Increase in lending to Caribbean. |
 | 283z–9. | Multilateral Investment Fund. |
-| (a) | Authorization of contribution. |
-| (b) | Authorization of appropriations. |
-| (c) | Environmental assessment of actions. |
 | 283z–10. | Focus on low-income areas of Latin America and Caribbean. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -599,14 +388,9 @@
 | [283dd.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Inter-American%20Investment%20Corporation/%C2%A7%2000283dd%20-%20Restrictions.md) | Restrictions. |
 | [283ee.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Inter-American%20Investment%20Corporation/%C2%A7%2000283ee%20-%20Federal%20Reserve%20banks%20as%20depositories.md) | Federal Reserve banks as depositories. |
 | [283ff.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Inter-American%20Investment%20Corporation/%C2%A7%2000283ff%20-%20Subscription%20of%20stock.md) | Subscription of stock. |
-| (a) | Secretary of the Treasury as subscribing authority. |
-| (b) | Authorization of appropriations. |
-| (c) | Disposition of dividends. |
 | [283gg.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Inter-American%20Investment%20Corporation/%C2%A7%2000283gg%20-%20Jurisdiction%20of%20United%20States%20courts.md) | Jurisdiction of United States courts. |
 | [283hh.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Inter-American%20Investment%20Corporation/%C2%A7%2000283hh%20-%20Effectiveness%20of%20agreement.md) | Effectiveness of agreement. |
 | [283ii.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Inter-American%20Investment%20Corporation/%C2%A7%2000283ii%20-%20Securities%20issued%20by%20the%20Corporation.md) | Securities issued by the Corporation. |
-| (a) | Exempted securities. |
-| (b) | Suspension by Securities and Exchange Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -620,10 +404,6 @@
 | [284c.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284c%20-%20Congressional%20authorization%20needed%20for%20certain%20actions.md) | Congressional authorization needed for certain actions. |
 | [284d.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284d%20-%20Federal%20Reserve%20banks%20as%20depositories.md) | Federal Reserve banks as depositories. |
 | [284e.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284e%20-%20Payment%20of%20subscription%20to%20Association%20by%20United%20States.md) | Payment of subscription to Association by United States. |
-| (a) | Authorization of appropriations for subscription. |
-| (b) | Increase in Association resources; contribution; authorization of appropriations. |
-| (c) | Issuance of special notes. |
-| (d) | Income covered into Treasury. |
 | [284f.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284f%20-%20Jurisdiction%20and%20venue%20of%20actions.md) | Jurisdiction and venue of actions. |
 | [284g.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284g%20-%20Status%2C%20privileges%2C%20and%20immunities%20of%20the%20United%20States.md) | Status, privileges, and immunities of the United States. |
 | [284h.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284h%20-%20Second%20replenishment%3B%20authorization%20of%20appropriations.md) | Second replenishment; authorization of appropriations. |
@@ -638,11 +418,7 @@
 | [284q.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284q%20-%20Special%20Facility%20for%20Sub-Saharan%20Africa.md) | Special Facility for Sub-Saharan Africa. |
 | [284r.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284r%20-%20Eighth%20replenishment%3B%20authorization%20of%20appropriations.md) | Eighth replenishment; authorization of appropriations. |
 | [284s.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284s%20-%20Ninth%20replenishment.md) | Ninth replenishment. |
-| (a) | In general. |
-| (b) | Limitations on authorization of appropriations. |
 | [284t.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284t%20-%20Thirteenth%20replenishment.md) | Thirteenth replenishment. |
-| (a) | Contribution authority. |
-| (b) | Limitations on authorization of appropriations. |
 | [284u.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284u%20-%20Fourteenth%20replenishment.md) | Fourteenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -662,10 +438,6 @@
 | [285h.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285h%20-%20Securities%20issued%20by%20Bank%20as%20exempt%20securities%3B%20suspension%20of%20exemption%20provisions%3B%20reports%20to%20and%20of%20Securities%20and%20Exchange%20Commission.md) | Securities issued by Bank as exempt securities; suspension of exemption provisions; reports to and of Securities and Exchange Commission. |
 | [285i.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285i%20-%20Authorization%20for%20payment%20of%20United%20States%20contribution%3B%20United%20States%20Special%20Resources.md) | Authorization for payment of United States contribution; United States Special Resources. |
 | [285j.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285j%20-%20United%20States%20Special%20Resources.md) | United States Special Resources. |
-| (a) | Development projects and programs. |
-| (b) | Authorized uses. |
-| (c) | Eligible goods and services. |
-| (d) | Repayment in dollars. |
 | [285k.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285k%20-%20Utilization%20of%20United%20States%20Special%20Resources.md) | Utilization of United States Special Resources. |
 | 285<i>l.</i> | Letter of credit form for United States Special Resources. |
 | [285m.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285m%20-%20Withdrawal%20rights%20covering%20United%20States%20Special%20Resources.md) | Withdrawal rights covering United States Special Resources. |
@@ -677,23 +449,13 @@
 | [285s.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285s%20-%20Additional%20subscription%20to%20shares%3B%20authorization%20of%20appropriations.md) | Additional subscription to shares; authorization of appropriations. |
 | [285t.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285t%20-%20Additional%20contribution%20to%20special%20funds%3B%20authorization%20of%20appropriations.md) | Additional contribution to special funds; authorization of appropriations. |
 | [285u.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285u%20-%20Additional%20contribution%20to%20special%20funds.md) | Additional contribution to special funds. |
-| (a) | United States share. |
-| (b) | Authorization of appropriations; maximum available for certain years. |
-| (c) | Funding requirements. |
 | [285v.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285v%20-%20Sense%20of%20Congress%20respecting%20membership%20of%20Taiwan%20in%20Bank.md) | Sense of Congress respecting membership of Taiwan in Bank. |
 | [285w.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285w%20-%20Contribution%20to%20Asian%20Development%20Fund%3B%20authorization%20of%20appropriations.md) | Contribution to Asian Development Fund; authorization of appropriations. |
 | [285x.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285x%20-%20Additional%20subscription%20to%20shares.md) | Additional subscription to shares. |
-| (a) | United States share. |
-| (b) | Authorization of appropriations. |
-| (c) | Continued membership of Republic of China in Bank. |
 | [285y.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285y%20-%20Additional%20contribution%20to%20special%20funds%3B%20authorization%20of%20appropriations.md) | Additional contribution to special funds; authorization of appropriations. |
 | [285z.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285z%20-%20Additional%20contribution%20to%20special%20funds%3B%20authorization%20of%20appropriations.md) | Additional contribution to special funds; authorization of appropriations. |
 | [285aa.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285aa%20-%20Capital%20increase.md) | Capital increase. |
-| (a) | Subscription authorized. |
-| (b) | Limitations on authorization of appropriations. |
 | [285bb.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285bb%20-%20Additional%20contribution%20to%20special%20funds.md) | Additional contribution to special funds. |
-| (a) | Contribution authority. |
-| (b) | Limitations on authorization of appropriations. |
 | [285cc.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285cc%20-%20Eighth%20replenishment.md) | Eighth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -704,14 +466,7 @@
 | :--- | ---: |
 | [286\.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286%20-%20Acceptance%20of%20membership%20by%20United%20States%20in%20International%20Monetary%20Fund.md) | Acceptance of membership by United States in International Monetary Fund. |
 | [286a.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286a%20-%20Appointments.md) | Appointments. |
-| (a) | Governors and executive directors; term of office. |
-| (b) | Alternates; term of office. |
-| (c) | Governor to serve as councillor; alternates and associates. |
-| (d) | Compensation for services. |
 | [286b.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286b%20-%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Problems.md) | National Advisory Council on International Monetary and Financial Problems. |
-| (a) | Establishment and composition. |
-| (b) | Duties and functions; reports by Council. |
-| (c) | Reports to Council. |
 | 286b–1, 286b–2. Repealed. |  |
 | [286c.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286c%20-%20Congressional%20authorization%20needed%20for%20certain%20actions.md) | Congressional authorization needed for certain actions. |
 | [286d.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286d%20-%20Federal%20Reserve%20banks%20as%20depositories.md) | Federal Reserve banks as depositories. |
@@ -728,17 +483,9 @@
 | 286e–1i. | Increase in United States quota; consultations with Congress. |
 | 286e–1j. | Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations. |
 | 286e–1k. | Capital stock increase. |
-| (a) | Increase authorized. |
-| (b) | Authorization of appropriations. |
 | 286e–1<i>l.</i> | Quota increase. |
 | 286e–1m. | Quota increase. |
-| (a) | In general. |
-| (b) | Subject to appropriations. |
 | 286e–2. | Loans to Fund. |
-| (a) | Limitation; balance of payments and reserve position considerations. |
-| (b) | Authorization of appropriations; repayments available for loans to Fund. |
-| (c) | Interest and charges covered into Treasury; additional authorization of appropriations for payment of charges for purchase of currencies or gold from Fund. |
-| (d) | Amendment to Executive Directors’ decision prohibited; conditions. |
 | 286e–3. | Transfers to stabilization fund of purchase of currencies or gold from International Monetary Fund; administration; utilization of fund resources for repayments. |
 | 286e–4. | Loans to International Finance Corporation; amendment to Articles of Agreement. |
 | 286e–5. | Amendments to Articles of Agreement. |
@@ -746,45 +493,28 @@
 | 286e–5b. | Acceptance of amendments to Articles of Agreement of the Fund. |
 | 286e–6. | Vote against establishment of Council. |
 | 286e–7. | Supplementary Financing Facility. |
-| (a) | Availability of resources. |
-| (b) | Adjustments in the value of monetary assets. |
-| (c) | Authorization of appropriations. |
 | 286e–8. | Treatment of creditors in debt rescheduling. |
 | 286e–9. | Stabilization programs. |
 | 286e–10. | Repealed. |
 | 286e–11. | Assistance by the Fund to any country harboring international terrorists. |
 | 286e–12. | Contribution to Interest Subsidy Account of Enhanced Structural Adjustment Facility of International Monetary Fund. |
-| (a) | Contribution authorized. |
-| (b) | Limitation on authorization of appropriations. |
 | 286e–13. | Approval of Fund pledge to sell gold to provide resources for Reserve Account of Enhanced Structural Adjustment Facility Trust. |
 | [286f.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286f%20-%20Obtaining%20and%20furnishing%20information%20to%20the%20Fund.md) | Obtaining and furnishing information to the Fund. |
-| (a) | Required disclosure. |
-| (b) | Penalty for refusal. |
-| (c) | Penalty for unlawful disclosures. |
-| (d) | “Person” defined. |
 | [286g.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286g%20-%20Jurisdiction%20and%20venue%20of%20actions.md) | Jurisdiction and venue of actions. |
 | [286h.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286h%20-%20Status%2C%20privileges%2C%20and%20immunities%20of%20the%20United%20States.md) | Status, privileges, and immunities of the United States. |
 | [286i.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286i%20-%20Stabilization%20loans%20by%20Bank%3B%20amendment%20to%20Articles%20of%20Agreement.md) | Stabilization loans by Bank; amendment to Articles of Agreement. |
 | [286j.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286j%20-%20Use%20of%20Fund%20resources.md) | Use of Fund resources. |
-| (a) | Official interpretation of authority of Fund. |
-| (b) | Proposal of amendment. |
 | [286k.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286k%20-%20Further%20promotion%20of%20international%20economic%20relations.md) | Further promotion of international economic relations. |
-| (a) | Congressional declaration of policy. |
-| (b) | Transmittal of information to Congressional committees. |
 | 286k–1. | Securities issued by Bank as exempt securities; reports filed with Security and Exchange Commission. |
 | 286k–2. | Suspension of right of International Bank to issue securities under section 286k–1; report of Securities and Exchange Commission. |
 | 286<i>l.</i> | British loan; authorization to Secretary of the Treasury to carry out agreement. |
 | [286m.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286m%20-%20Amount%20of%20loan%3B%20public-debt%20transaction%3B%20disposition%20of%20interest%20payments.md) | Amount of loan; public-debt transaction; disposition of interest payments. |
 | [286n.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286n%20-%20Special%20Drawing%20Rights.md) | Special Drawing Rights. |
 | 286<i>o.</i> | Administration as part of the Exchange Stabilization Fund. |
-| (a) | Special Drawing Rights. |
-| (b) | Deposit in and withdrawal from Fund. |
 | [286p.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286p%20-%20Issuance%2C%20purpose%2C%20and%20redemption%20of%20Special%20Drawing%20Rights%20certificates.md) | Issuance, purpose, and redemption of Special Drawing Rights certificates. |
 | [286q.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286q%20-%20Limitation%20on%20allocations%20to%20the%20United%20States.md) | Limitation on allocations to the United States. |
 | [286r.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286r%20-%20United%20States%20participation%20in%20special%20drawing%20account.md) | United States participation in special drawing account. |
 | [286s.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286s%20-%20Consideration%20of%20basic%20human%20needs%20in%20economic%20adjustment%20programs%20supported%20by%20Fund.md) | Consideration of basic human needs in economic adjustment programs supported by Fund. |
-| (a) | Formulation and design of programs. |
-| (b) | Changes in Fund guidelines, policies, and decisions; review prior to approval of standby arrangements; coordination among institutions; coordination between Fund and Bank; periodic analyses. |
 | [286t.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286t%20-%20Omitted.md) | Omitted. |
 | [286u.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286u%20-%20Dollar-Special%20Drawing%20Rights%20substitution%20account.md) | Dollar-Special Drawing Rights substitution account. |
 | [286v.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286v%20-%20Membership%20for%20Taiwan%20in%20Fund.md) | Membership for Taiwan in Fund. |
@@ -792,41 +522,19 @@
 | [286x.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286x%20-%20Assistance%20to%20private%20sector%20of%20El%20Salvador%2C%20Nicaragua%2C%20and%20other%20nations.md) | Assistance to private sector of El Salvador, Nicaragua, and other nations. |
 | [286y.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286y%20-%20Promoting%20conditions%20for%20exchange%20rate%20stability.md) | Promoting conditions for exchange rate stability. |
 | [286z.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286z%20-%20Collection%20and%20exchange%20of%20information%20on%20monetary%20and%20financial%20problems.md) | Collection and exchange of information on monetary and financial problems. |
-| (a) | Sense of Congress. |
-| (b) | Initiation by United States Executive Director of discussions with other Directors; adoption of procedures. |
-| (c) | “Credit” defined. |
-| (d) | Providing necessary information. |
 | [286aa.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286aa%20-%20Instructions%20to%20United%20States%20Executive%20Director%3B%20Communist%20dictatorships.md) | Instructions to United States Executive Director; Communist dictatorships. |
 | [286bb.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286bb%20-%20Elimination%20of%20predatory%20agricultural%20export%20subsidies.md) | Elimination of predatory agricultural export subsidies. |
 | [286cc.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286cc%20-%20Sustaining%20economic%20growth.md) | Sustaining economic growth. |
-| (a) | Economic adjustment programs. |
-| (b) | Changes in Fund guidelines; limitations on debt service exceptions. |
-| (c) | Emergencies and extraordinary circumstances. |
 | [286dd.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286dd%20-%20Fund%20bailouts%20of%20banks%3B%20rescheduling%20of%20debt.md) | Fund bailouts of banks; rescheduling of debt. |
 | [286ee.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ee%20-%20International%20cooperation.md) | International cooperation. |
 | [286ff.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ff%20-%20Fund%20interest%20rates.md) | Fund interest rates. |
 | [286gg.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286gg%20-%20Elimination%20of%20trade%20restrictions.md) | Elimination of trade restrictions. |
-| (a) | Promotion of fair trade as financial assistance policy. |
-| (b) | Agreement to eliminate unfair trade practices as condition of financial assistance. |
-| (c) | United States position on requests for loans or drawing under bank and Fund programs; progress made in eliminating unfair trade practices. |
-| (d) | “Multilateral development banks” defined. |
 | [286hh.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286hh%20-%20Policy%20based%20lending%20for%20debt%20reduction.md) | Policy based lending for debt reduction. |
-| (a) | Criteria. |
-| (b) | Policy based lending for debt reduction and sustainable growth. |
-| (c) | Voluntary market-based program for debt reduction and sustainable growth. |
-| (d) | Reports. |
-| (e) | Review by House Banking Committee. |
 | [286ii.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ii%20-%20Limitations%20on%20Bank%20policy%20based%20lending%3B%20actions%20required%20to%20be%20taken%20to%20oppose%20excessive%20policy%20based%20lending%20by%20Bank.md) | Limitations on Bank policy based lending; actions required to be taken to oppose excessive policy based lending by Bank. |
 | [286jj.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286jj%20-%20Partial%20guarantees%20in%20connection%20with%20debt%20reduction%20for%20borrower%20countries.md) | Partial guarantees in connection with debt reduction for borrower countries. |
 | [286kk.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286kk%20-%20Discussions%20to%20enhance%20capacity%20of%20Fund%20to%20alleviate%20potentially%20adverse%20impacts%20of%20Fund%20programs%20on%20poor%20and%20environment.md) | Discussions to enhance capacity of Fund to alleviate potentially adverse impacts of Fund programs on poor and environment. |
 | 286<i>ll.</i> | Fund policy changes. |
-| (a) | Policy changes within IMF. |
-| (b) | Progress report. |
-| (c) | Study. |
 | [286mm.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286mm%20-%20Measures%20to%20reduce%20military%20spending%20by%20developing%20nations.md) | Measures to reduce military spending by developing nations. |
-| (a) | Development by Fund of means to measure military spending. |
-| (b) | Annual reports by Fund on levels of military spending. |
-| (c) | Analysis and assessment of military spending to be included in article IV consultations by Fund. |
 | [286nn.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286nn%20-%20Approval%20of%20contributions%20for%20debt%20reductions%20for%20the%20poorest%20countries.md) | Approval of contributions for debt reductions for the poorest countries. |
 | 286<i>oo.</i> | Principles for International Monetary Fund lending. |
 
@@ -837,41 +545,14 @@
 |  |  |
 | :--- | ---: |
 | [287\.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287%20-%20Representation%20in%20Organization.md) | Representation in Organization. |
-| (a) | Appointment of representative; rank, status, and tenure; duties. |
-| (b) | Appointment of additional representatives; rank, status, and tenure; duties; reappointment unnecessary. |
-| (c) | Appointment of special and alternate representatives; number; senior representative; duties. |
-| (d) | Additional appointees; conditions governing certain appointments; designation of certain State Department officers to sit on Security Council. |
-| (e) | Appointment of representative to European office of United Nations; rank, status, and tenure; duties. |
-| (f) | Representation by President or Secretary of State. |
-| (g) | Compensation. |
-| (h) | Appointment of representative to Vienna office of United Nations; rank, status, and tenure; duties. |
 | [287a.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287a%20-%20Action%20by%20representatives%20in%20accordance%20with%20Presidential%20instructions%3B%20voting.md) | Action by representatives in accordance with Presidential instructions; voting. |
 | [287b.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287b%20-%20Reports%20to%20Congress%20by%20President.md) | Reports to Congress by President. |
-| (a) | Periodic reports. |
-| (b) | Annual report on financial contributions. |
-| (c) | Annual report. |
-| (d) | Consultations and reports on United Nations peacekeeping operations. |
-| (e) | Designated congressional committees. |
-| (f) | Relationship to other notification requirements. |
 | [287c.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287c%20-%20Economic%20and%20communication%20sanctions%20pursuant%20to%20United%20Nations%20Security%20Council%20Resolution.md) | Economic and communication sanctions pursuant to United Nations Security Council Resolution. |
-| (a) | Enforcement measures; importation of Rhodesian chromium. |
-| (b) | Penalties. |
-| (c) | Steel mill products containing chromium; certificate of origin; regulations; subpenas; certificate exemption; release from customs custody; definitions. |
 | [287d.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287d%20-%20Use%20of%20armed%20forces%3B%20limitations.md) | Use of armed forces; limitations. |
 | 287d–1. | Noncombatant assistance to United Nations. |
-| (a) | Armed forces details; supplies and equipment; obligation of funds; procurement and replacement of requested items. |
-| (b) | Reimbursement from United Nations; waiver of reimbursement. |
-| (c) | Additional appropriation authorizations. |
-| (d) | Disclosure of information. |
 | [287e.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287e%20-%20Authorization%20of%20appropriations%3B%20payment%20of%20expenses.md) | Authorization of appropriations; payment of expenses. |
 | 287e–1. | Housing supplement for certain employees assigned to the United States Mission to the United Nations. |
 | 287e–2. | Reimbursement for goods and services provided by the United States to the United Nations. |
-| (a) | Requirement to obtain reimbursement. |
-| (b) | Treatment of reimbursements. |
-| (c) | Covered assistance. |
-| (d) | Waiver. |
-| (e) | Relationship to other reimbursement authority. |
-| (f) | Definition. |
 | 287e–3. | Limitation on the United States share of assessments for United Nations regular budget. |
 | [287f.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287f%20-%20Omitted.md) | Omitted. |
 | [287g.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287g%20-%20Authorization%20of%20appropriations%20for%20loan%20to%20United%20Nations%3B%20restrictions%20on%20use%20of%20proceeds%20of%20loan.md) | Authorization of appropriations for loan to United Nations; restrictions on use of proceeds of loan. |
@@ -908,9 +589,6 @@
 | [288c.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288c%20-%20Exemption%20from%20property%20taxes.md) | Exemption from property taxes. |
 | [288d.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288d%20-%20Privileges%2C%20exemptions%2C%20and%20immunities%20of%20officers%2C%20employees%2C%20and%20their%20families%3B%20waiver.md) | Privileges, exemptions, and immunities of officers, employees, and their families; waiver. |
 | [288e.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288e%20-%20Personnel%20entitled%20to%20benefits.md) | Personnel entitled to benefits. |
-| (a) | Notification to and acceptance by Secretary of State of personnel. |
-| (b) | Deportation of undesirables. |
-| (c) | Extent of diplomatic status. |
 | [288f.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288f%20-%20Applicability%20of%20reciprocity%20laws.md) | Applicability of reciprocity laws. |
 | 288f–1. | European Space Agency and Organization of Eastern Caribbean States; extension of privileges, exemptions, and immunities to members. |
 | 288f–2. | African Union; extension of privileges, exemptions, and immunities. |
@@ -923,9 +601,7 @@
 | [288i.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288i%20-%20Liaison%20Office%20of%20the%20People%27s%20Republic%20of%20China%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Liaison Office of the People's Republic of China; extension of privileges and immunities to members. |
 | [288j.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288j%20-%20International%20Development%20Law%20Institute.md) | International Development Law Institute. |
 | [288k.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288k%20-%20Extension%20of%20certain%20privileges%2C%20exemptions%2C%20and%20immunities%20to%20Hong%20Kong%20Economic%20and%20Trade%20Offices.md) | Extension of certain privileges, exemptions, and immunities to Hong Kong Economic and Trade Offices. |
-| (a) | Application of International Organizations Immunities Act. |
-| (b) | Application of international agreement on certain State and local taxation. |
-| (c) | “Hong Kong Economic and Trade Offices” defined. |
+| 288<i>l.</i> | The Holy See. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -960,29 +636,6 @@
 |  |  |
 | :--- | ---: |
 | [290f.](Subchapter%20021%20%28XXI%29%20-%20Inter-American%20Foundation/%C2%A7%2000290f%20-%20Inter-American%20Foundation.md) | Inter-American Foundation. |
-| (a) | Establishment. |
-| (b) | Congressional declaration of purpose. |
-| (c) | Programs and projects to achieve purposes. |
-| (d) | Coordination of activities with national and international agencies. |
-| (e) | Powers and functions. |
-| (f) | Disposal of assets on liquidation. |
-| (g) | Board of directors; number, term, and appointment. |
-| (h) | Reimbursement of expenses. |
-| (i) | Board; authority. |
-| (j) | Rules and regulations; quorum of the Board. |
-| (k) | Authority of the Board to appoint committees. |
-| (<i>l</i>) | President of Foundation: appointment and compensation; employment of experts and consultants. |
-| (m) | Establishment of Council; consultation by the Board; reimbursement of expenses of members of the Council. |
-| (n) | Nonprofit nature of the Foundation; conflict of interests. |
-| (<i>o</i>) | Personnel; service in foreign governments or agencies. |
-| (p) | Service of employees of other agencies in the Foundation; rights and privileges. |
-| (q) | Establishment of principal and branch offices. |
-| (r) | Exemption from tax. |
-| (s) | Authorization of appropriations. |
-| (t) | Application of chapter 91 of title 31. |
-| (u) | Interest on funds invested pending disbursement. |
-| (v) | Travel expenses. |
-| (w) | Printing expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1001,23 +654,12 @@
 | 290g–8. | Presidential instructions to United States Governor of the Fund to veto any use of funds to benefit a country pursuing a detrimental economic policy against United States interests; exceptions. |
 | 290g–9. | Repealed. |
 | 290g–10. | Additional authorization for contribution to African Development Fund. |
-| (a) | Payment of United States contribution; review of payment and voting structure with other donor nations. |
-| (b) | Authorization of appropriations. |
 | 290g–11. | Additional authorization for payment of United States contribution. |
-| (a) | United States share. |
-| (b) | Authorization of appropriations. |
-| (c) | Funding requirements. |
 | 290g–12. | Additional authorization for payment of United States contribution. |
 | 290g–13. | Additional authorization for payment of United States contribution. |
 | 290g–14. | Additional authorization for payment of United States contribution. |
-| (a) | Contribution authorized. |
-| (b) | Authorization of appropriations. |
 | 290g–15. | Sixth replenishment. |
-| (a) | Contribution authorized. |
-| (b) | Limitations on authorization of appropriations. |
 | 290g–16. | Ninth replenishment. |
-| (a) | Contribution authority. |
-| (b) | Limitations on authorization of appropriations. |
 | 290g–17. | Tenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1028,25 +670,10 @@
 | :--- | ---: |
 | [290h.](Subchapter%20023%20%28XXIII%29%20-%20African%20Development%20Foundation/%C2%A7%2000290h%20-%20Congressional%20findings.md) | Congressional findings. |
 | 290h–1. | African Development Foundation. |
-| (a) | Establishment of Foundation. |
-| (b) | Principal and branch offices. |
 | 290h–2. | Congressional declaration of purposes. |
-| (a) | Purposes of Foundation. |
-| (b) | Implementation. |
 | 290h–3. | Functions of Foundation. |
-| (a) | Types of programs; project limitations; dissemination of project insights. |
-| (b) | Community project priorities; disbursement of funds by recipients to other African entities. |
 | 290h–4. | Powers of Foundation. |
-| (a) | General provisions. |
-| (b) | Nonprofit entity; restriction on use of moneys; conflict of interests. |
-| (c) | Tax exemption. |
-| (d) | Termination of Foundation and liquidation of assets. |
 | 290h–5. | Management of Foundation. |
-| (a) | Board of directors; membership; designation of Chairperson and Vice Chairperson; appointment considerations; term; vacancies. |
-| (b) | Compensation, actual, necessary, and transportation expenses. |
-| (c) | Quorum. |
-| (d) | President of Foundation; appointment and compensation; employment of experts and consultants. |
-| (e) | Advisory council; membership; appointment considerations; consultations with council; compensation, travel, and other expenses. |
 | 290h–6. | Government corporation control provisions applicable. |
 | 290h–7. | Limitation on spending authority. |
 | 290h–8. | Authorization of appropriations. |
@@ -1060,22 +687,14 @@
 | :--- | ---: |
 | [290i.](Subchapter%20024%20%28XXIV%29%20-%20African%20Development%20Bank/%C2%A7%2000290i%20-%20Acceptance%20of%20membership.md) | Acceptance of membership. |
 | 290i–1. | Governor and Alternate Governor. |
-| (a) | Appointment; term; termination and reappointment. |
-| (b) | Compensation and expenses. |
-| (c) | Voting. |
 | 290i–2. | Director or Alternate Director; allowances. |
 | 290i–3. | Applicability of Bretton Woods Agreements Act. |
 | 290i–4. | Restrictions. |
 | 290i–5. | Federal Reserve banks as depositories. |
 | 290i–6. | Subscription to stock. |
-| (a) | Authorization of United States subscription to stock. |
-| (b) | Authorization of appropriations. |
-| (c) | Distributions by Bank. |
 | 290i–7. | Jurisdiction of United States courts. |
 | 290i–8. | Force and effect of agreement. |
 | 290i–9. | Securities issued by Bank; Securities and Exchange Commission oversight. |
-| (a) | Treatment as exempt securities; reports to Securities and Exchange Commission. |
-| (b) | Suspension of provisions; reports to Congress. |
 | 290i–10. | Authorization of United States subscription to stock; authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1085,9 +704,6 @@
 |  |  |
 | :--- | ---: |
 | [290j.](Subchapter%20025%20%28XXV%29%20-%20United%20States-India%20Fund%20for%20Cultural%2C%20Educational%2C%20and%20Scientific%20Cooperation/%C2%A7%2000290j%20-%20Establishment%20of%20the%20Fund.md) | Establishment of the Fund. |
-| (a) | Agreement with Government of India; program purposes. |
-| (b) | United States representatives. |
-| (c) | Funding of programs. |
 | 290j–1. | Use of United States owned rupees to capitalize the Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1105,9 +721,6 @@
 | 290k–6. | Restrictions. |
 | 290k–7. | Federal Reserve banks as depositories. |
 | 290k–8. | Subscription of stock. |
-| (a) | Authority of Secretary of the Treasury. |
-| (b) | Authorization of appropriations. |
-| (c) | Dividends deposited into Treasury. |
 | 290k–9. | Jurisdiction of United States courts and enforcement of arbitral awards. |
 | 290k–10. | Effectiveness of Convention. |
 | 290k–11. | Arbitral awards; enforcement; full faith and credit; Federal Arbitration Act inapplicable; exclusiveness of district court jurisdiction. |
@@ -1120,21 +733,12 @@
 | :--- | ---: |
 | 290<i>l.</i> | Acceptance of membership. |
 | 290<i>l</i>–1. | Governor and alternate Governor. |
-| (a) | Appointment. |
-| (b) | Compensation. |
 | 290<i>l</i>–2. | Applicability of certain provisions of Bretton Woods Agreements Act. |
 | 290<i>l</i>–3. | Federal Reserve banks as depositories. |
 | 290<i>l</i>–4. | Subscription of stock. |
-| (a) | Subscription authority. |
-| (b) | Limitations on authorization of appropriations. |
-| (c) | Disposition of net income distributions by Bank. |
 | 290<i>l</i>–5. | Jurisdiction and venue of civil actions by or against Bank. |
-| (a) | Jurisdiction. |
-| (b) | Venue. |
 | 290<i>l</i>–6. | Effectiveness of Agreement. |
 | 290<i>l</i>–7. | Exemption from securities laws for certain securities issued by Bank; reports required. |
-| (a) | Exemption from securities laws; reports to Securities and Exchange Commission. |
-| (b) | Authority of Securities and Exchange Commission to suspend exemption; reports to Congress. |
 | 290<i>l</i>–8. | Congressional consultations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1144,25 +748,11 @@
 |  |  |
 | :--- | ---: |
 | [290m.](Subchapter%20028%20%28XXVIII%29%20-%20North%20American%20Development%20Bank%20and%20Related%20Provisions/%C2%A7%2000290m%20-%20North%20American%20Development%20Bank.md) | North American Development Bank. |
-| (a) | Acceptance of membership. |
-| (b) | Subscription of stock. |
-| (c) | Compensation of Board members. |
-| (d) | Applicability of Bretton Woods Agreements Act. |
-| (e) | Restrictions. |
-| (f) | Federal Reserve banks as depositories. |
-| (g) | Jurisdiction of United States courts and enforcement of arbitral awards. |
-| (h) | Exemption from securities laws for certain securities issued by Bank; reports required. |
 | 290m–1. | Status, immunities, and privileges. |
 | 290m–2. | Community adjustment and investment program. |
-| (a) | The President. |
-| (b) | Advisory Committee. |
-| (c) | Ombudsman. |
-| (d) | Reporting requirement. |
 | 290m–3. | “Border Environment Cooperation Agreement” defined. |
 | 290m–4. | Authority to agree to certain amendments to the Border Environment Cooperation Agreement. |
 | 290m–5. | Grants out of paid-in capital resources. |
-| (a) | In general. |
-| (b) | Exception. |
 | 290m–6. | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1175,9 +765,6 @@
 | 290n–1. | Duties. |
 | 290n–2. | Other authorized functions. |
 | 290n–3. | Membership. |
-| (a) | Number and appointment of United States section. |
-| (b) | Commissioner. |
-| (c) | Compensation. |
 | 290n–4. | Regional offices. |
 | 290n–5. | Reports. |
 | 290n–6. | Definitions. |
@@ -1190,22 +777,12 @@
 | :--- | ---: |
 | 290<i>o.</i> | Acceptance of membership. |
 | 290<i>o</i>–1. | Governor and alternate Governor. |
-| (a) | Appointment. |
-| (b) | Compensation. |
 | 290<i>o</i>–2. | Applicability of certain provisions of Bretton Woods Agreements Act. |
 | 290<i>o</i>–3. | Federal Reserve Banks as depositories. |
 | 290<i>o</i>–4. | Subscription of stock. |
-| (a) | Subscription authority. |
-| (b) | Limitations on authorization of appropriations. |
-| (c) | Limitations on obligation of appropriated amounts for shares of capital stock. |
-| (d) | Disposition of net income distributions by Bank. |
 | 290<i>o</i>–5. | Jurisdiction and venue of civil actions by or against Bank. |
-| (a) | Jurisdiction. |
-| (b) | Venue. |
 | 290<i>o</i>–6. | Effectiveness of Agreement. |
 | 290<i>o</i>–7. | Exemption from securities laws for certain securities issued by Bank; reports required. |
-| (a) | Exemption from securities laws; reports to Securities and Exchange Commission. |
-| (b) | Authority of Securities and Exchange Commission to suspend exemption; reports to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

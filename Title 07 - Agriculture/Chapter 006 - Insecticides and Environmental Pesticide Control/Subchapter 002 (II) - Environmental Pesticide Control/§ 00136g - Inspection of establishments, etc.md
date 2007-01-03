@@ -8,7 +8,7 @@
 
 #### (b) Warrants
 
-For purposes of enforcing the provisions of this subchapter and upon a showing to an officer or court of competent jurisdiction that there is reason to believe that the provisions of this subchapter have been violated, officers or employees duly designated by the Administrator are empowered to obtain and to execute warrants authorizing—
+For purposes of enforcing the provisions of this subchapter and upon a showing to an officeror court of competent jurisdiction that there is reason to believe that the provisions of this subchapter have been violated, officers or employees duly designated by the Administrator are empowered to obtain and to execute warrants authorizing—
 
 &emsp;(1) entry, inspection, and copying of records for purposes of this section or section 136f of this title;
 

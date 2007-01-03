@@ -32,7 +32,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(II) Except as provided in subclause (III), the Secretary may not reduce the amount of a payment under this section to a local educational agency for a fiscal year by (aa) the amount equal to the amount of revenue, if any, the agency received during the previous fiscal year from activities conducted on Federal property eligible under this section and located in a school district served by the agency, including amounts received from any Federal department or agency (other than the Department of Education) from such activities, by reason of receipt of such revenue, or (bb) any other amount by reason of receipt of such revenue.
 
-&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to a local educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, then the Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
+&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to a local educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, thenthe Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
 
 &emsp;(ii) For purposes of clause (i), the amount of revenue that a local educational agency receives during the previous fiscal year from activities conducted on Federal property shall not include payments received by the agency from the Secretary of Defense to support—
 
@@ -42,7 +42,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(B) If funds appropriated under section 7714(a) of this title are insufficient to pay the amount determined under subparagraph (A), the Secretary shall calculate the payment for each eligible local educational agency in accordance with subsection (h) of this section.
 
-&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agencymay not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
+&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agency may not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
 
 #### (2) Application of current levied real property tax rate
 
@@ -92,7 +92,7 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 (2) For each fiscal year beginning with fiscal year 1999, the Secretary shall treat the Webster School District, Day County, South Dakota as meeting the eligibility requirements of subsection (a)(1)(C) of this section.
 
-(3) For each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Central Union, California; Island, California; Hill City, South Dakota; and Wall, South Dakota local educational agencies as meeting the eligibility requirements of subsection (a)(1)(C) of this section.
+(3) For each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Central Union, California; Island, California; Hill City, South Dakota; and Wall, South Dakota local educational agencies as meeting the eligibilityrequirements of subsection (a)(1)(C) of this section.
 
 (4) For the purposes of payments under this section for each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Hot Springs, South Dakota local educational agency as if it had filed a timely application under this section for fiscal year 1994 if the Secretary has received the fiscal year 1994 application, as well as Exhibits A and B not later than December 1, 1999.
 
@@ -152,7 +152,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 &emsp;&emsp;(A) the Secretary shall make a payment to each local educational agency that received a foundation payment under paragraph (1) for the fiscal year involved in an amount that bears the same relation to 25 percent of the remainder as the amount the local educational agency received under paragraph (1) for the fiscal year involved bears to the amount all local educational agencies received under paragraph (1) for the fiscal year involved; and
 
-&emsp;&emsp;(B) the Secretary shall make a payment to each local educational agency that is eligible to receive a payment under this section for the fiscal year involved in an amount that bears the same relation to 75 percent of the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section, data from the most current fiscal year shall be used.
+&emsp;&emsp;(B) the Secretary shall make a payment to each local educational agency that is eligible to receive a payment under this section for the fiscal year involved in an amount that bears the same relation to 75 percent of the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies) bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section, data from the most current fiscal year shall be used.
 
 #### (i) Special payments
 
@@ -264,7 +264,7 @@ Subsec. (i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(d)(2)\], s
 
 Subsec. (i)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(d)(1)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b)(1)(B) of this section, and for any fiscal year beginning with fiscal year 1997 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996—
 
-&emsp;“(A) the Secretary shall first use the excess amount (not to exceed the amount equal to the difference of (i) the amount appropriated to carry out this section for fiscal year 1997, and (ii) the amount appropriated to carry out this section for fiscal year 1996) to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency described in paragraph (2); and
+&emsp;“(A) the Secretary shall first use the excess amount (not to exceed the amount equal to the difference of (i) the amount appropriated to carry out this section for fiscal year 1997, and (ii) the amount appropriatedto carry out this section for fiscal year 1996) to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency described in paragraph (2); and
 
 &emsp;“(B) the Secretary shall use the remainder of the excess amount to increase the payments to each eligible local educational agency under this section.”
 
@@ -282,7 +282,7 @@ Subsec. (k). Pub. L. 105–277 added subsec. (k).
 
 1997—Subsec. (h)(1)(C). Pub. L. 105–18, §60004, added subpar. (C).
 
-Subsec. (i). Pub. L. 105–18, §60006, amended heading and text of subsec. (i) generally. Prior to amendment,text read as follows: “Notwithstanding subsection (b)(1)(B) of this section, and for any fiscal year beginning with fiscal year 1997 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996, the Secretary shall first use such excess amount to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency that—
+Subsec. (i). Pub. L. 105–18, §60006, amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b)(1)(B) of this section, and for any fiscal year beginning with fiscal year 1997 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996, the Secretary shall first use such excess amount to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency that—
 
 &emsp;“(1) received a payment under this section for fiscal year 1996;
 

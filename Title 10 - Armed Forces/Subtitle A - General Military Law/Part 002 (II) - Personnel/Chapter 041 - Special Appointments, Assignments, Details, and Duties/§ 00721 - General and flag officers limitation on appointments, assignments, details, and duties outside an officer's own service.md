@@ -52,3 +52,5 @@ Section 777(d)(1) of this title, referred to in subsec. (b)(3), was redesignated
 
 2002—Subsec. (d). Pub. L. 107–314 struck out par. (1) designation and par. (2) which read as follows: “The Secretary of Defense shall submit to Congress an annual report on the number of officers to whom paragraph (1) was applicable during the year covered by the report. The report shall set forth the determination made by the Secretary under that paragraph in each such case.”
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

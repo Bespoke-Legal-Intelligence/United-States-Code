@@ -12,7 +12,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 &emsp;&emsp;(A) in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools; and
 
-&emsp;&emsp;(B) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title; <sup>1</sup> and
+&emsp;&emsp;(B) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title,<sup>1</sup> or meets the requirements of subsection (g)(3); and
 
 &emsp;(2) is not in default on a loan for which the borrower seeks forgiveness.
 
@@ -54,7 +54,7 @@ Nothing in this section shall be construed to authorize any refunding of any rep
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the yearpreceding the year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 
@@ -72,19 +72,27 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 &emsp;No borrower may, for the same service, receive a benefit under both this subsection and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.).
 
+#### (3) Private school teachers
+
+&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+
 #### (h) “Year” defined
 
 For purposes of this section, the term “year”, where applied to service as a teacher, means an academic year as defined by the Secretary.
 
-(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300.)
+(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167.)
 
 #### References in Text
 
 Section 7801 of this title, referred to in subsec. (b)(1)(B), was in the original “section 9101 of the Elementary Secondary Education Act of 1965”, which was translated as meaning section 9101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
-The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I ofthe Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(1)(B). Pub. L. 109–171, §8013(e)(1)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
+
+Subsec. (g)(3). Pub. L. 109–171, §8013(e)(1)(B), added par. (3).
 
 2004—Subsec. (b)(1). Pub. L. 108–409, §3(a)(1)(A), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
 
@@ -110,6 +118,10 @@ Subsec. (d). Pub. L. 103–208, §2(c)(50), substituted “to eligible” for �
 
 Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each eligible individual desiring loan repayment under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.”
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
 #### Effective Date of 2004 Amendment; Transition Rule
 
 Pub. L. 108–409, §3(a)(2), Oct. 30, 2004, 118 Stat. 2300, provided that:
@@ -122,9 +134,13 @@ Rule.—The amendments made by paragraph (1) of this subsection to sections 428J
 
 Rule not applicable to increased qualified loan amounts.—Subparagraph (A) of this paragraph shall not apply for purposes of obtaining increased qualified loan amounts under sections 428J(c)(3) and 460(c)(3) of the Higher Education Act of 1965 \[sections 1078–10(c)(3) and 1087j(c)(3) of this title\] as added by subsection (b) of this section.”
 
-Pub. L. 108–409, §3(b)(3), Oct. 30, 2004, 118 Stat. 2301, as amended by Pub. L. 109–150, §2(c)(1), Dec. 30, 2005, 119 Stat. 2884, provided that: “The amendments made by this subsection \[amending this section and section 1087j of this title\] shall apply only with respect to eligible individuals who are new borrowers (as such term is defined in 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) on or after October 1, 1998, and before June 30, 2007.”
+Pub. L. 108–409, §3(b)(3), Oct. 30, 2004, 118 Stat. 2301, as amended by Pub. L. 109–150, §2(c)(1), Dec. 30, 2005, 119Stat. 2884; Pub. L. 109–171, title VIII, §8013(c)(2), (d)(1), Feb. 8, 2006, 120 Stat. 167, provided that: “The amendments made by this subsection \[amending this section and section 1087j of this title\] shall apply only with respect to eligible individuals who are new borrowers (as such term is defined in 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) on or after October 1, 1998.”
+
+\[Pub. L. 109–150, §2(c)(1), which amended section 3(b)(3) of Pub. L. 108–409, set out above, was repealed by Pub. L. 109–171, §8013(d)(1), eff. July 1, 2006.\]
 
 \[Amendment by Pub. L. 109–150 effective as if enacted on Oct. 1, 2005, see section 2(d)(2) of Pub. L. 109–150, set out as an Effective Date of 2005 Amendment note under section 1087–1 of this title.\]
+
+\[Amendment by Pub. L. 109–171, §8013(c)(2), effective as if enacted on Oct. 1, 2005, and as if amendment by section 2(c)(1) of Pub. L. 109–150 had not been enacted, see section 8013(c)(3), (d)(2) of Pub. L. 109–171, set out as notes under section 1087–1 of this title.\]
 
 #### Effective Date of 1998 Amendment
 

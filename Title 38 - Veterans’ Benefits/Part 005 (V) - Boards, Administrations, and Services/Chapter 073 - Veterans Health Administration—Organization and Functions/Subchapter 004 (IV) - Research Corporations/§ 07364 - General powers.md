@@ -12,7 +12,7 @@
 
 (2) The Under Secretary for Health shall prescribe policies and procedures to guide the expenditure of funds by corporations under paragraph (1) consistent with the purpose of such corporations as flexible funding mechanisms.
 
-(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4164; renumbered §7364 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §204(d), Nov. 30, 1999, 113 Stat. 1562.)
+(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4164; renumbered §7364 andamended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §204(d), Nov. 30, 1999, 113 Stat. 1562.)
 
 #### Amendments
 

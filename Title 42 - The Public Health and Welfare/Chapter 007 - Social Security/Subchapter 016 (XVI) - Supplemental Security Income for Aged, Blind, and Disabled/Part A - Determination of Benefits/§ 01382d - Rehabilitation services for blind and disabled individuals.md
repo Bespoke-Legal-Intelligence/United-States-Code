@@ -28,7 +28,7 @@ The Commissioner of Social Security may reimburse the State agency described in 
 
 &emsp;&emsp;(B) assistance under section 1382h(b) of this title; or
 
-&emsp;&emsp;(C) a federally administered State supplementary payment under section 1382e of thistitle or section 212(b) of Public Law 93–66; and
+&emsp;&emsp;(C) a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66; and
 
 &emsp;(2) for any month before the 13th consecutive month for which an individual, for a reason other than cessation of disability or blindness, was ineligible for—
 
@@ -56,7 +56,7 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), 
 
 > the Commissioner of Social Security shall make provision for referral of such individual to the appropriate State agency administering the State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973, or, in the case of any such individual who has not attained age 16, to the State agency administering the State program under subchapter V of this chapter, and (except for individuals who have not attained age 16 and except in such other cases as the Commissioner may determine) for a review not less often than quarterly of such individual's blindness or disability and his need for and utilization of the services made available to him under such plan.”
 
-Subsec. (c). Pub. L. 106–170, §101(b)(2)(B), struck out subsec. (c) which read as follows: “Every individual age 16 or over with respect to whom the Commissioner of Social Security is required to make provision for referral under subsection (a) of this section shall accept such services as are made available to him under the State plan for vocational and rehabilitation services approved under title I of the Rehabilitation Act of 1973; and no such individual shall be an eligible individual or eligible spouse for purposes of this subchapter if he refuses without good cause to accept services for which he is referred under subsection (a) of this section.”
+Subsec. (c). Pub. L. 106–170, §101(b)(2)(B), struck out subsec. (c) which read as follows: “Every individual age 16 or over with respect to whom the Commissioner of Social Security is required to make provision for referral under subsection (a) of this section shall accept such services as are made available to him under the State plan for vocational and rehabilitation services approved under title I of the Rehabilitation Act of 1973; and no such individual shall be an eligible individual oreligible spouse for purposes of this subchapter if he refuses without good cause to accept services for which he is referred under subsection (a) of this section.”
 
 1997—Subsec. (d). Pub. L. 105–33, §5523(2), substituted “the Commissioner” for “him” after “determined by” in last sentence.
 
@@ -92,7 +92,7 @@ Subsec. (e)(3). Pub. L. 97–35, §2193(a)(4)(B), substituted “$24,070,000” 
 
 1980—Subsec. (e). Pub. L. 96–272 corrected the error under which subsec. (e) had been added as (c) by Pub. L. 94–566 and, in subsec. (e)(1) as so designated, substituted “October 1, 1982” for “October 1, 1979”.
 
-1976—Subsec. (a). Pub. L. 94–566 inserted “or, in the case of any such individual who has not attained age 16, to the appropriate State agency administering the State plan under subsection (b) of this section,” after“Vocational Rehabilitation Act,” and substituted “need for and utilization of the services” for “need for and utilization of the rehabilitation services”.
+1976—Subsec. (a). Pub. L. 94–566 inserted “or, in the case of any such individual who has not attained age 16, to the appropriate State agency administering the State plan under subsection (b) of this section,” after “Vocational Rehabilitation Act,” and substituted “need for and utilization of the services” for “need for and utilization of the rehabilitation services”.
 
 Subsec. (b). Pub. L. 94–566 added subsec. (b). Former subsec. (b) was split up and its parts were redistributed into subsecs. (c) and (d), respectively, and amended.
 

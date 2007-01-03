@@ -42,7 +42,7 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(B) which areas within the disciplines described in section 1902(a)(1)(B) of this title relating to the national security interests of the United States are areas of study in which United States students are deficient in learning and are, therefore, critical areas within those disciplines for the purposes of that section;
 
-&emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees are deficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
+&emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees aredeficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
 
 &emsp;&emsp;(D) how students desiring scholarships or fellowships can be encouraged to work for an agency or office of the Federal Government involved in national security affairs or national security policy upon completion of their education; and
 
@@ -52,7 +52,7 @@ The Board shall perform the following functions:
 
 &emsp;(6) Provide the Secretary biennially with a list of scholarship recipients and fellowship recipients, including an assessment of their foreign area and language skills, who are available to work in a national security position.
 
-&emsp;(7) Not later than 30 days after a scholarship or fellowship recipient completes the study oreducation for which assistance was provided under the program, provide the Secretary with a report fully describing the foreign area and language skills obtained by the recipient as a result of the assistance.
+&emsp;(7) Not later than 30 days after a scholarship or fellowship recipient completes the study or education for which assistance was provided under the program, provide the Secretary with a report fully describing the foreign area and language skills obtained by the recipient as a result of the assistance.
 
 &emsp;(8) Review the administration of the program required under this chapter.
 

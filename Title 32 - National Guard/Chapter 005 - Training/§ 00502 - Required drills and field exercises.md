@@ -22,15 +22,27 @@
 
 (e) An appropriately rated member of the National Guard who performs an aerial flight under competent orders may receive credit for attending drill for the purposes of this section, if the flight prevented him from attending a regularly scheduled drill.
 
-(f) Under regulations to be prescribed by the Secretary of the Army or Secretary of the Air Force, as the case may be, a member of the National Guard may—
+(f)(1)Under regulations to be prescribed by the Secretary of the Army or Secretary of the Air Force, as the case may be, a member of the National Guard may—
 
-&emsp;(1) without his consent, but with the pay and allowances provided by law; or
+&emsp;(A) without his consent, but with the pay and allowances provided by law; or
 
-&emsp;(2) with his consent, either with or without pay and allowances;
+&emsp;(B) with his consent, either with or without pay and allowances;
 
-> be ordered to perform training or other duty in addition to that prescribed under subsection (a). Duty without pay shall be considered for all purposes as if it were duty with pay.
+> be ordered to perform training or other duty in addition to that prescribed under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 88–621, §1(1), Oct. 3, 1964, 78 Stat. 999; Pub. L. 90–168, §4, Dec. 1, 1967, 81 Stat. 526; Pub. L. 92–156, title III, §303(b), Nov. 17, 1971, 85 Stat. 425; Pub. L. 103–160, div. A, title V, §524(b), Nov. 30, 1993, 107 Stat. 1657.)
+(2) The training or duty ordered to be performed under paragraph (1) may include the following:
+
+&emsp;(A) Support of operations or missions undertaken by the member's unit at the request of the President or Secretary of Defense.
+
+&emsp;(B) Support of training operations and training missions assigned in whole or in part to the National Guard by the Secretary concerned, but only to the extent that such training missions and training operations—
+
+&emsp;&emsp;(i) are performed in the United States or the Commonwealth of Puerto Rico or possessions of the United States; and
+
+&emsp;&emsp;(ii) are only to instruct active duty military, foreign military (under the same authorities and restrictions applicable to active duty troops), Department of Defense contractor personnel, or Department of Defense civilian employees.
+
+(3) Duty without pay shall be considered for all purposes as if it were duty with pay.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 88–621, §1(1), Oct. 3, 1964, 78 Stat. 999; Pub. L. 90–168, §4, Dec. 1, 1967, 81 Stat. 526; Pub. L. 92–156, title III, §303(b), Nov. 17, 1971, 85 Stat. 425; Pub. L. 103–160, div. A, title V, §524(b), Nov. 30, 1993, 107 Stat. 1657; Pub. L. 109–364, div. A, title V, §525(c), Oct. 17, 2006, 120 Stat. 2195.)
 
 Historical and Revision Notes
 
@@ -83,6 +95,8 @@ In subsection (d), the word “members” is substituted for the words “office
 In subsection (e), the word “member” is substituted for the words “officer or enlisted man”. The words “Air Corps \* \* \* assigned to an Air Corps unit thereof, or \* \* \* an officer or enlisted man of the Medical Department of the said National Guard regularly attached to an Air Corps unit of the National Guard by appropriate authority” are omitted, since the revised subsection applies only to members who perform flights under competent orders and who are thereby prevented from attending a regular drill.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), struck out “Duty without pay shall be considered for all purposes as if it were duty with pay.” at end, and added pars. (2) and (3).
 
 1993—Subsec. (b). Pub. L. 103–160 substituted “90 consecutive days” for “30 consecutive days” in second sentence.
 

@@ -54,7 +54,7 @@ Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this ti
 
 #### Environmental Effects Abroad of Major Federal Actions
 
-For provisions relating to environmental effects abroad of major Federal actions, see Ex. Ord. No. 12114,Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+For provisions relating to environmental effects abroad of major Federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

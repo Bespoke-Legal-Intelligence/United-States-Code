@@ -5,10 +5,6 @@
 | [931\.](%C2%A7%2000931%20-%20Definitions.md) | Definitions. |
 | [932\.](%C2%A7%2000932%20-%20Commissioners%3B%20appointment%2C%20number%2C%20and%20compensation%3B%20term%20of%20office%3B%20vacancy.md) | Commissioners; appointment, number, and compensation; term of office; vacancy. |
 | [933\.](%C2%A7%2000933%20-%20Advisory%20Committee.md) | Advisory Committee. |
-| (a) | Appointment and number of members; factors in selection. |
-| (b) | Membership on other committees. |
-| (c) | Compensation. |
-| (d) | Meetings. |
 | [934\.](%C2%A7%2000934%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93471%2C%20title%20II%2C%20%C2%A7203%28a%29%2C%20Oct.%209%2C%201972%2C%2086%20Stat.%20787.md) | Repealed. |
 | [935\.](%C2%A7%2000935%20-%20Acquisition%20of%20real%20property%3B%20construction%20and%20operation%20of%20lamprey%20control%20works%3B%20entry%20into%20agreements%20for%20construction%20and%20operation%20of%E2%80%A6.md) | Acquisition of real property; construction and operation of lamprey control works; entry into agreements for construction and operation of works. |
 | [936\.](%C2%A7%2000936%20-%20Secretary%20of%20the%20Interior%3B%20authority%20to%20transfer%20lamprey%20control%20projects%20and%20act%20on%20behalf%20of%20United%20States%20Section.md) | Secretary of the Interior; authority to transfer lamprey control projects and act on behalf of United States Section. |

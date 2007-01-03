@@ -2,11 +2,15 @@
 
 In this chapter:
 
-#### (1) Account
+#### (1) Fund
 
-&emsp;The term “Account” means the Neotropical Migratory Bird Conservation Account established by section 6108(a) of this title.
+&emsp;The term “Fund” means the Neotropical Migratory Bird Conservation Fund established by section 6108(a) of this title.<sup>1</sup>
 
-#### (2) Conservation
+#### (2) Caribbean
+
+&emsp;The term “Caribbean” includes Puerto Rico and the United States Virgin Islands.
+
+#### (3) Conservation
 
 &emsp;The term “conservation” means the use of methods and procedures necessary to bring a species of neotropical migratory bird to the point at which there are sufficient populations in the wild to ensure the long-term viability of the species, including—
 
@@ -20,9 +24,21 @@ In this chapter:
 
 &emsp;&emsp;(E) community outreach and education.
 
-#### (3) Secretary
+#### (4) Fund
+
+&emsp;The term “Fund” means the Neotropical Migratory Bird Conservation Fund established by section 6108(a) of this title.<sup>1</sup>
+
+#### (5) Secretary
 
 &emsp;The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 106–247, §4, July 20, 2000, 114 Stat. 593.)
+(Pub. L. 106–247, §4, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, §302(c), (h)(3)(A), Oct. 17, 2006, 120 Stat. 2075, 2076.)
+
+#### Amendments
+
+2006—Par. (1). Pub. L. 109–363, §302(h)(3)(A), added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by section 6108(a) of this title.”
+
+Pars. (2) to (5). Pub. L. 109–363, §302(c), added pars. (2) and (4) and redesignated former pars. (2) and (3) as (3) and (5), respectively.
+
+<i><sup>1</sup></i><i> So in original. Pars. (1) and (4) have identical text.</i>
 

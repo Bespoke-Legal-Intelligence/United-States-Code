@@ -24,13 +24,9 @@ In this section, the term “foreign intelligence information” means—
 
 (Pub. L. 107–56, title II, §203(d), Oct. 26, 2001, 115 Stat. 281; Pub. L. 107–296, title VIII, §897(a), Nov. 25, 2002, 116 Stat. 2257.)
 
-#### Termination of Section
-
-<i>For termination of section by section 224 of Pub. L. 107–56, see Termination Date of 2001 Amendment note set out under section 2510 of Title 18, Crimes and Criminal Procedure.</i>
-
 #### Codification
 
-Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, and not as part of the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
 

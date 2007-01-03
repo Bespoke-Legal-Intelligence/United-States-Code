@@ -56,13 +56,13 @@ The Commission shall not grant any patent license pursuant to subsection (e) of 
 
 #### (g) Royalty fees
 
-The owner of the patent affected by a declaration or a finding made by the Commission pursuant to subsection (b) or (e) of this section shall be entitled to a reasonable royalty fee from the licensee for any use of an invention or discovery licensed by this section. Such royalty fee may be agreed upon by such owner and the patent licensee, or in the absence of such agreement shall be determined for each patent license by the Commission pursuant to section 2187(c) of this title.
+The owner of the patent affected by a declaration or a finding made by the Commission pursuant to subsection (b) or (e) of this section shall be entitled to a reasonable royalty fee from the licensee for any use of an invention or discovery licensed by this section. Such royaltyfee may be agreed upon by such owner and the patent licensee, or in the absence of such agreement shall be determined for each patent license by the Commission pursuant to section 2187(c) of this title.
 
 #### (h) Effective period
 
 The provisions of this section shall apply to any patent the application for which shall have been filed before September 1, 1979.
 
-(Aug. 1, 1946, ch. 724, title I, §153, as added Aug. 20, 1954, ch. 1073, §1, 68 Stat. 945; amended Pub.L. 86–50, §114, June 23, 1959, 73 Stat. 87; Pub. L. 88–394, §1, Aug. 1, 1964, 78 Stat. 376; Pub. L. 91–161, §1, Dec. 24, 1969, 83 Stat. 444; Pub. L. 93–377, §6, Aug. 17, 1974, 88 Stat. 475; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §153, as added Aug. 20, 1954, ch. 1073, §1, 68 Stat. 945; amended Pub. L. 86–50, §114, June 23, 1959, 73 Stat. 87; Pub. L. 88–394, §1, Aug. 1, 1964, 78 Stat. 376; Pub. L. 91–161, §1, Dec. 24, 1969, 83 Stat. 444; Pub. L. 93–377, §6, Aug. 17, 1974, 88 Stat. 475; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -77,8 +77,4 @@ Provisions similar to this section were contained in section 1811(c)(1), (2) of 
 1964—Subsec. (h). Pub. L. 88–394 substituted “September 1, 1969” for “September 1, 1964”.
 
 1959—Subsec. (h). Pub. L. 86–50 substituted “September 1, 1964” for “September 1, 1959”.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
 

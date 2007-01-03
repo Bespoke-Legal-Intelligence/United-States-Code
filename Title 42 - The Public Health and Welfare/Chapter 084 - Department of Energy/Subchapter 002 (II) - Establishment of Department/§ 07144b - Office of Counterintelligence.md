@@ -6,7 +6,7 @@ There is within the Department an Office of Counterintelligence.
 
 #### (b) Director
 
-(1) The head of the Office shall be the Director of the Office of Counterintelligence, which shall be a position in the Senior Executive Service. The Director of the Office shall report directly to the Secretary.
+(1) The head of the Office shall be the Director of the Office of Counterintelligence, who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate. The Director of the Office shall report directly to the Secretary.
 
 (2) The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to counterintelligence.
 
@@ -54,7 +54,11 @@ There is within the Department an Office of Counterintelligence.
 
 (4) Each report under this subsection as submitted to the committees referred to in subparagraphs (D) and (E) of paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 95–91, title II, §215, as added Pub. L. 106–65, div. C, title XXXII, §3204(a), Oct. 5, 1999, 113 Stat. 955.)
+(Pub. L. 95–91, title II, §215, as added Pub. L. 106–65, div. C, title XXXII, §3204(a), Oct. 5, 1999, 113 Stat. 955; amended Pub. L. 109–364, div. C, title XXXI, §3117(f), Oct. 17, 2006, 120 Stat. 2508.)
+
+#### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–364 substituted “who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate” for “which shall be a position in the Senior Executive Service”.
 
 #### Change of Name
 
@@ -63,4 +67,26 @@ Reference to the Director of Central Intelligence or the Director of the Central
 #### Effective Date
 
 Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of Title 50, War and National Defense.
+
+#### Transfer of Functions
+
+Pub. L. 109–364, div. C, title XXXI, §3117(a), Oct. 17, 2006, 120 Stat. 2507, provided that:
+
+“(a)
+
+Transfer of Functions.—
+
+&emsp;“(1)
+
+In general.—The functions, personnel, funds, assets, and other resources of the Office of Defense Nuclear Counterintelligence of the National Nuclear Security Administration are transferred to the Secretary of Energy, to be administered (except to any extent otherwise directed by the Secretary) by the Director of the Office of Counterintelligence of the Department of Energy.
+
+&emsp;“(2)
+
+Sunset.—Effective September 30, 2010—
+
+&emsp;&emsp;“(A) the functions, personnel, funds, assets, and other resources transferred by paragraph (1) are transferred to the Administrator for Nuclear Security;
+
+&emsp;&emsp;“(B) \[Amended section 2410 of Title 50, War and National Defense.\]
+
+&emsp;&emsp;“(C) \[Amended section 2423 of Title 50.\]”
 

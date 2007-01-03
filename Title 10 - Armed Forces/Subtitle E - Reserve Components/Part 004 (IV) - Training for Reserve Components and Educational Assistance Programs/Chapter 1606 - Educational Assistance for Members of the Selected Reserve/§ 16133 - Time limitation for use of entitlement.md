@@ -42,7 +42,7 @@ Subsec. (b)(4)(A). Pub. L. 103–337, §1663(b)(5)(B), substituted “12301(a), 
 
 1992—Subsec. (b)(1). Pub. L. 102–484 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a person separated from the Selected Reserve because of a disability which was not the result of the individual's own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter, the period for using entitlement prescribed by subsection (a) shall be determined without regard to clause (2) of such subsection.”
 
-Subsec. (b)(2), (3). Pub. L. 102–568 substituted “section 3031(f) of title 38” for “section 1431(f) of title 38” in par. (2) and “section 3031(d) of title 38” for “section 1431(d) of title 38” in par. (3).
+Subsec. (b)(2), (3). Pub. L. 102–568 substituted “section 3031(f) of title 38” for “section 1431(f) of title 38” in par.\(2) and “section 3031(d) of title 38” for “section 1431(d) of title 38” in par. (3).
 
 1991—Subsec. (b)(4). Pub. L. 102–127 added par. (4).
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces whoqualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
+Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
 
 #### Effective Date of 1980 Amendment
 

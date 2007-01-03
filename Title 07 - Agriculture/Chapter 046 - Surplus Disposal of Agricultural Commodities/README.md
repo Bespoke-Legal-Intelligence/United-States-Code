@@ -9,10 +9,6 @@
 | 1857, 1858. Repealed. |  |
 | [1859\.](%C2%A7%2001859%20-%20Donation%20to%20penal%20and%20correctional%20institutions.md) | Donation to penal and correctional institutions. |
 | [1860\.](%C2%A7%2001860%20-%20Federal%20irrigation%2C%20drainage%2C%20and%20flood-control%20projects.md) | Federal irrigation, drainage, and flood-control projects. |
-| (a) | Restriction on crop loans or farm payments or benefits. |
-| (b) | Contract provisions; ineligibility for benefits. |
-| (c) | Determination and proclamation of surplus agricultural commodities. |
-| (d) | “Federal irrigation or drainage project” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

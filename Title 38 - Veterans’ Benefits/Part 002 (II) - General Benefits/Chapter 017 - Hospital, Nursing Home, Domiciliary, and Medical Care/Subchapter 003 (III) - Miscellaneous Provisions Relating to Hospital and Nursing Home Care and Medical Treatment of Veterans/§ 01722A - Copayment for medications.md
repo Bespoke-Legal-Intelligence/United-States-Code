@@ -64,7 +64,7 @@ Section 605(b) of Pub. L. 102–568 provided that: “The amendments made by sub
 
 #### Effective and Termination Dates
 
-Section to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L.102–145, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
+Section to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L. 102–145, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
 Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 

@@ -44,7 +44,7 @@ The Secretary may add a parcel of real property to the System, if—
 
 The Secretary shall—
 
-&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish andWildlife Service and in such other offices of the Service as the Director considers appropriate;
+&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
 
 &emsp;(2) provide a copy of the map to—
 
@@ -120,7 +120,155 @@ Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted “the John H. Chafee 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Coastal Barrier Resources Reauthorization
+
+Pub. L. 109–226, May 25, 2006, 120 Stat. 381, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Coastal Barrier Resources Reauthorization Act of 2005’.
+
+#### “SEC. 2. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Otherwise protected area.—The term ‘otherwise protected area’ has the meaning given the term in section 12 of the Coastal Barrier Improvement Act of 1990 (16 U.S.C. 3503 note; Public Law 101–591).
+
+&emsp;“(2)
+
+Pilot project.—The term ‘pilot project’ means the digital mapping pilot project authorized under section 6 of the Coastal Barrier Resources Reauthorization Act of 2000 (16 U.S.C. 3503 note; Public Law 106–514).
+
+&emsp;“(3)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(4)
+
+System unit.—The term ‘System unit’ has the meaning given the term in section 3 of the Coastal Barrier Resources Act (16 U.S.C. 3502).
+
+#### “SEC. 3. DIGITAL MAPPING PILOT PROJECT FINALIZATION.
+
+“(a)
+
+In General.—Not later than 2 years after the date of enactment of this Act \[May 25, 2006\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report regarding the digital maps of the System units and otherwise protected areas created under the pilot project.
+
+“(b)
+
+Consultation.—The Secretary shall prepare the report required under subsection (a)—
+
+&emsp;“(1) in consultation with the Governors of the States in which any System units and otherwise protected areas are located; and
+
+&emsp;“(2) after—
+
+&emsp;&emsp;“(A) providing an opportunity for the submission of public comments; and
+
+&emsp;&emsp;“(B) considering any public comments submitted under subparagraph (A).
+
+“(c)
+
+Contents.—The report required under subsection (a) shall contain—
+
+&emsp;“(1) the final recommended digital maps created under the pilot project;
+
+&emsp;“(2) recommendations for the adoption of the digital maps by Congress;
+
+&emsp;“(3) a summary of the comments received from the Governors of the States, other government officials, and the public regarding the digital maps;
+
+&emsp;“(4) a summary and update of the protocols and findings of the report required under section 6(d) of the Coastal Barrier Resources Reauthorization Act of 2000 (16 U.S.C. 3503 note; Public Law 106–514); and
+
+&emsp;“(5) an analysis of any benefits that the public would receive by using digital mapping technology for all System units and otherwise protected areas.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2006 through 2007.
+
+#### “SEC. 4. DIGITAL MAPPING PROJECT FOR THE REMAINING JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM UNITS AND OTHERWISE PROTECTED AREAS.
+
+“(a)
+
+In General.—The Secretary shall carry out a project to create digital versions of all of the John H. Chafee Coastal Barrier Resources System maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)), including maps of otherwise protected areas, that were not included in the pilot project.
+
+“(b)
+
+Data.—
+
+&emsp;“(1)
+
+Use of existing data.—To the maximum extent practicable, in carrying out the project under this section, the Secretary shall use any digital spatial data in the possession of Federal, State, and local agencies, including digital orthophotos, color infrared photography, wetlands data, and property parcel data.
+
+&emsp;“(2)
+
+Provision of data by other agencies.—The head of a Federal agency that possesses any data referred to in paragraph (1) shall, on request of the Secretary, promptly provide the data to the Secretary at no cost.
+
+&emsp;“(3)
+
+Provision of data by non-federal agencies.—State and local agencies and any other non-Federal entities that possess data referred to in paragraph (1) are encouraged, on request of the Secretary, to promptly provide the data to the Secretary at no cost.
+
+&emsp;“(4)
+
+Additional data.—If the Secretary determines that any data necessary to carry out the project under this section does not exist, the Director of the United States Fish and Wildlife Service shall enter into an agreement with the Director of the United States Geological Survey under which the United States Geological Survey, in cooperation with the heads of other Federal agencies, as appropriate, shall obtain and provide to the Director of the United States Fish and Wildlife Service the data required to carry out this section.
+
+&emsp;“(5)
+
+Data standards.—All data used or created to carry out this section shall comply with—
+
+&emsp;&emsp;“(A) the National Spatial Data Infrastructure established by Executive Order No. 12906 (59 Fed. Reg. 17671) \[43 U.S.C. 1457 note\]; and
+
+&emsp;&emsp;“(B) any other standards established by the Federal Geographic Data Committee established by the Office of Management and Budget circular numbered A–16.
+
+“(c)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 5 years after the submission of the report under section 3(a), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report regarding the digital maps created under this section.
+
+&emsp;“(2)
+
+Consultation.—The Secretary shall prepare the report required under paragraph (1)—
+
+&emsp;&emsp;“(A) in consultation with the Governors of the States in which the System units and otherwise protected areas are located; and
+
+&emsp;&emsp;“(B) after—
+
+&emsp;&emsp;&emsp;“(i) providing an opportunity for the submission of public comments; and
+
+&emsp;&emsp;&emsp;“(ii) considering any public comments submitted under clause (i).
+
+&emsp;“(3)
+
+Contents.—The report required under paragraph (1) shall contain—
+
+&emsp;&emsp;“(A) a description of the extent to which the boundary lines on the digital maps differ from the boundary lines on the original maps;
+
+&emsp;&emsp;“(B) a summary of the comments received from Governors, other government officials, and the public regarding the digital maps created under this section;
+
+&emsp;&emsp;“(C) recommendations for the adoption of the digital maps created under this section by Congress;
+
+&emsp;&emsp;“(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System andotherwise protected areas, as in existence on the date of enactment of this Act \[May 25, 2006\];
+
+&emsp;&emsp;“(E) a summary and update on the implementation and use of the digital maps created under the pilot project; and
+
+&emsp;&emsp;“(F) a description of the feasibility of, and the amount of funding necessary for—
+
+&emsp;&emsp;&emsp;“(i) making all of the System unit and otherwise protected area maps available to the public in digital format; and
+
+&emsp;&emsp;&emsp;“(ii) facilitating the integration of digital System unit and otherwise protected area boundaries into Federal, State, and local planning tools.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2006 through 2010.
+
+#### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.”
+
+\[Amended section 3510 of this title.\]
 
 #### Digital Mapping Pilot Project
 
@@ -223,6 +371,10 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 #### Revision of Maps for Units of System
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+
+Pub. L. 109–355, §1, Oct. 16, 2006, 120 Stat. 2018.
+
+Pub. L. 109–354, §1, Oct. 16, 2006, 120 Stat. 2017.
 
 Pub. L. 108–380, §1, Oct. 30, 2004, 118 Stat. 2210.
 
@@ -348,7 +500,7 @@ Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later tha
 
 #### Report Regarding Coastal Barrier Management
 
-Pub. L. 101–591, §8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission ofthe report, was repealed by Pub. L. 106–514, §4(b), Nov. 13, 2000, 114 Stat. 2396.
+Pub. L. 101–591, §8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by Pub. L. 106–514, §4(b), Nov. 13, 2000, 114 Stat. 2396.
 
 #### Definitions
 

@@ -74,6 +74,56 @@ Pub. L. 106–117, title I, §101(h), Nov. 30, 1999, 113 Stat. 1550, provided th
 
 “(3) The provisions of section 1710(f) of title 38, United States Code, shall not apply to any day of nursing home care on or after the effective date of regulations under paragraph (2).”
 
+#### Pilot Program on Improvement of Caregiver Assistance Services
+
+Pub. L. 109–461, title II, §214, Dec. 22, 2006, 120 Stat. 3423, provided that:
+
+“(a)
+
+In General.—Commencing not later than 120 days after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of various mechanisms to expand and improve caregiver assistance services.
+
+“(b)
+
+Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried out during the two-year period beginning on the date of the commencement of the pilot program.
+
+“(c)
+
+Caregiver Assistance Services.—For purposes of this section, the term ‘caregiver assistance services’ means services of the Department of Veterans Affairs that assist caregivers of veterans. Such services including the following:
+
+&emsp;“(1) Adult-day health care services.
+
+&emsp;“(2) Coordination of services needed by veterans, including services for readjustment and rehabilitation.
+
+&emsp;“(3) Transportation services.
+
+&emsp;“(4) Caregiver support services, including education, training, and certification of family members in caregiver activities.
+
+&emsp;“(5) Home care services.
+
+&emsp;“(6) Respite care.
+
+&emsp;“(7) Hospice services.
+
+&emsp;“(8) Any modalities of non-institutional long-term care.
+
+“(d)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Veterans Affairs $5,000,000 for each of fiscal years 2007 and 2008 to carry out the pilot program authorized by this section.
+
+“(e)
+
+Allocation of Funds to Facilities.—The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the support of the provision of caregiver assistance services. Special consideration should be given to rural facilities, including those without a long-term care facility of the Department.
+
+“(f)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation of this section. The report shall include—
+
+&emsp;“(1) a description and assessment of the activities carried out under the pilot program;
+
+&emsp;“(2) information on the allocation of funds to facilities of the Department under subsection (e); and
+
+&emsp;“(3) a description of the improvements made with funds so allocated to the support of the provision of caregiver assistance services.”
+
 #### Pilot Programs Relating to Long-Term Care
 
 Pub. L. 106–117, title I, §102, Nov. 30, 1999, 113 Stat. 1551, as amended by Pub. L. 108–422, title II, §203, Nov. 30, 2004, 118 Stat. 2382, provided that:

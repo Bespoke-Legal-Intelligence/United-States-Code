@@ -1,6 +1,6 @@
 ### §5111. Commencement of period of payment
 
-(a) Notwithstanding section 5110 of this title or any other provision of law and except as provided in subsection (c) of this section, payment of monetary benefits based on an award or an increased award of compensation, dependency and indemnity compensation, or pension may not be made to an individual for any period before the first day of the calendar month following the month in which the award or increased award became effective as provided under section 5110 of this title or such other provision of law.
+(a) Notwithstanding section 5110 of this title or any other provision of law and except as provided in subsection (c) of this section, payment of monetary benefits based on an award or an increased award of compensation, dependency and indemnity compensation, or pension may not be made to an individual for any period before the first day of the calendar month following the month in which the award or increased awardbecame effective as provided under section 5110 of this title or such other provision of law.
 
 (b)(1) Except as provided in paragraph (2) of this subsection, during the period between the effective date of an award or increased award as provided under section 5110 of this title or other provision of law and the commencement of the period of payment based on such award as provided under subsection (a) of this section, an individual entitled to receive monetary benefits shall be deemed to be in receipt of such benefits for the purpose of all laws administered by the Secretary.
 

@@ -2,7 +2,7 @@
 
 #### (a) Benefit plans as affecting interstate commerce and the Federal taxing power
 
-The Congress finds that the growth in size, scope, and numbers of employee benefit plans in recent years has been rapid and substantial; that the operational scope and economic impact of such plans is increasingly interstate; that the continued well-being and security of millions of employees and their dependents are directly affected by these plans; that they are affected with a national public interest; that they have become an important factor affecting the stability of employment and the successful development of industrial relations; that they have become an important factor in commerce because of the interstate character of their activities, and of the activities of their participants, and the employers, employee organizations, and other entities by which they are established or maintained; that a large volume of the activities of such plans are carried on by means of the mails and instrumentalities of interstate commerce; that owing to the lack of employee information and adequate safeguards concerning their operation, it is desirable in the interests of employees and their beneficiaries, and to provide for the general welfare and the free flow of commerce, that disclosure be made and safeguards be provided with respect to the establishment, operation, and administration of such plans; that they substantially affect the revenues of the United States because they are afforded preferential Federal tax treatment; that despite the enormous growth in such plans many employees with long years of employment are losing anticipated retirement benefits owing to the lack of vesting provisions in such plans; that owing to the inadequacy of current minimum standards, the soundness and stability of plans with respect to adequate funds to pay promised benefits may be endangered; that owing to the termination of plans before requisite funds have been accumulated, employees and their beneficiaries have been deprived of anticipated benefits; and that it is therefore desirable in the interests of employees and their beneficiaries, for the protection of the revenue of the United States, and to provide for the free flow of commerce, that minimum standards be provided assuring the equitable character of such plans and their financial soundness.
+The Congress finds that the growth in size, scope, and numbers of employee benefit plans in recent years has been rapid and substantial; that the operational scope and economic impact of such plans is increasingly interstate; that the continued well-being and security of millions of employees and their dependents are directly affected by these plans; that they are affectedwith a national public interest; that they have become an important factor affecting the stability of employment and the successful development of industrial relations; that they have become an important factor in commerce because of the interstate character of their activities, and of the activities of their participants, and the employers, employee organizations, and other entities by which they are established or maintained; that a large volume of the activities of such plans are carried on by means of the mails and instrumentalities of interstate commerce; that owing to the lack of employee information and adequate safeguards concerning their operation, it is desirable in the interests of employees and their beneficiaries, and to provide for the general welfare and the free flow of commerce, that disclosure be made and safeguards be provided with respect to the establishment, operation, and administration of such plans; that they substantially affect the revenues of the United States because they are afforded preferential Federal tax treatment; that despite the enormous growth in such plans many employees with long years of employment are losing anticipated retirement benefits owing to the lack of vesting provisions in such plans; that owing to the inadequacy of current minimum standards, the soundness and stability of plans with respect to adequate funds to pay promised benefits may be endangered; that owing to the termination of plans before requisite funds have been accumulated, employees and their beneficiaries have been deprived of anticipated benefits; and that it is therefore desirable in the interests of employees and their beneficiaries, for the protection of the revenue of the United States, and to provide for the free flow of commerce, that minimum standards be provided assuring the equitable character of such plans and their financial soundness.
 
 #### (b) Protection of interstate commerce and beneficiaries by requiring disclosure and reporting, setting standards of conduct, etc., for fiduciaries
 
@@ -10,7 +10,7 @@ It is hereby declared to be the policy of this chapter to protect interstate com
 
 #### (c) Protection of interstate commerce, the Federal taxing power, and beneficiaries by vesting of accrued benefits, setting minimum standards of funding, requiring termination insurance
 
-It is hereby further declared to be the policy of this chapter to protect interstate commerce, the Federal taxing power, and the interests ofparticipants in private pension plans and their beneficiaries by improving the equitable character and the soundness of such plans by requiring them to vest the accrued benefits of employees with significant periods of service, to meet minimum standards of funding, and by requiring plan termination insurance.
+It is hereby further declared to be the policy of this chapter to protect interstate commerce, the Federal taxing power, and the interests of participants in private pension plans and their beneficiaries by improving the equitable character and the soundness of such plans by requiring them to vest the accrued benefits of employees with significant periods of service, to meet minimum standards of funding, and by requiring plan termination insurance.
 
 (Pub. L. 93–406, title I, §2, Sept. 2, 1974, 88 Stat. 832.)
 
@@ -68,7 +68,7 @@ Amendments Relating to Vesting Rules; Breaks in Service; Maternity or Paternity 
 
 &emsp;“(1)
 
-Minimum age for vesting.—The amendments made by sections 102(b) and 202(b) \[amending section 1053 of this title and section 411 of Title 26, Internal Revenue Code\] shall apply in the case of participants who have at least 1 hour of service under the plan on or after the first day of the first plan year to which the amendments made by this Act \[see Short Title of 1984 Amendments note below\] apply.
+Minimum age for vesting.—The amendments made by sections 102(b) and 202(b) \[amending section 1053 of this title and section 411 of Title 26, Internal Revenue Code\] shall apply in the case of participantswho have at least 1 hour of service under the plan on or after the first day of the first plan year to which the amendments made by this Act \[see Short Title of 1984 Amendments note below\] apply.
 
 &emsp;“(2)
 
@@ -104,7 +104,7 @@ Requirement that preretirement survivor annuity be provided in case of certain p
 
 &emsp;&emsp;“(C) who dies on or after the date of the enactment of this Act \[Aug. 23, 1984\] and before the first day of the first plan year to which the amendments made by this Act apply,
 
-> &emsp;the amendments made by sections 103 and 203 shall be treated as in effect as of the time of such participant's death. In the case of a profit-sharing or stock bonus plan to which this paragraph applies, the planshall be treated as meeting the requirements of the amendments made by sections 103 and 203 with respect to any participant if the plan made a distribution in a form other than a life annuity to the surviving spouse of the participant of such participant's nonforfeitable benefit.
+> &emsp;the amendments made by sections 103 and 203 shall be treated as in effect as of the time of such participant's death. In the case of a profit-sharing or stock bonus plan to which this paragraph applies, the plan shall be treated as meeting the requirements of the amendments made by sections 103 and 203 with respect to any participant if the plan made a distribution in a form other than a life annuity to the surviving spouse of the participant of such participant's nonforfeitable benefit.
 
 &emsp;“(3)
 
@@ -200,13 +200,17 @@ Responsibilities of secretary of labor.—The Secretary of Labor shall take such
 
 \[Amendment by section 1898(g), (h)(1)(A), (2), (3) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.\]
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–280, §1(a), Aug. 17, 2006, 120 Stat. 780, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Pension Protection Act of 2006’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–218, §1, Apr. 10, 2004, 118 Stat. 596, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Pension Funding Equity Act of 2004’.”
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–92, §1, Nov. 19, 1997, 111 Stat. 2139, provided that: “This Act \[enacting sections 1146 and 1147 ofthis title and provisions set out as a note under section 1146 of this title\] may be cited as the ‘Savings Are Vital to Everyone's Retirement Act of 1997’.”
+Pub. L. 105–92, §1, Nov. 19, 1997, 111 Stat. 2139, provided that: “This Act \[enacting sections 1146 and 1147 of this title and provisions set out as a note under section 1146 of this title\] may be cited as the ‘Savings Are Vital to Everyone's Retirement Act of 1997’.”
 
 #### Short Title of 1994 Amendment
 
@@ -230,7 +234,7 @@ Pub. L. 96–364, §1, Sept. 26, 1980, 94 Stat. 1208, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 93–406 provided that: “This Act \[enacting this chapter, sections 408 to 415, 4971 to 4975, 6057 to 6059, 6692, and 6693 of Title 26, Internal Revenue Code, section 1037 of former Title 31, Money and Finance, and section 1320b–1 of Title 42, The Public Health and Welfare, amending section 441 of this title, sections 5108 and 5109 of Title 5, Government Organization and Employees, sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, sections 37, 46, 56, 62, 72, 101, 122, 219, 220, 275, 401, 402, 403, 404, 405, 406, 407, 503, 801, 805, 871, 901, 1304, 1348, 1379, 2039, 3401, 6033, 6047, 6051, 6103, 6104, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 6688, 6690, 6861, 6862, 7422, 7451, 7459, 7482, 7701, and 7802, of Title 26, and section 846 of former Title 31, repealing sections 301 to 309 of this title, and enacting provisions set out as notes under sections 72, 122, 219, 401, 402, 403, 404, 410, 411, 412, 415, 501, 4973, 4975, 6057, 6059, 6103, 6104, 7476, and 7802 of Title 26\] may be cited as the ‘Employee Retirement Income Security Act of 1974’.”
+Section 1 of Pub. L. 93–406 provided that: “This Act \[enacting this chapter, sections 408 to 415, 4971 to 4975, 6057 to 6059, 6692, and 6693 of Title 26, Internal Revenue Code, section 1037 of former Title 31, Money and Finance, and section 1320b–1 of Title 42, The Public Health and Welfare, amending section 441 of this title, sections 5108 and 5109 of Title 5, Government Organization and Employees, sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, sections 37, 46, 56, 62, 72, 101, 122, 219, 220, 275, 401, 402, 403, 404, 405, 406, 407, 503, 801, 805, 871, 901, 1304, 1348, 1379, 2039, 3401, 6033, 6047, 6051, 6103, 6104, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 6688, 6690, 6861, 6862, 7422, 7451, 7459, 7482, 7701, and 7802, of Title 26, and section 846 of former Title 31, repealing sections 301 to 309 of this title, and enactingprovisions set out as notes under sections 72, 122, 219, 401, 402, 403, 404, 410, 411, 412, 415, 501, 4973, 4975, 6057, 6059, 6103, 6104, 7476, and 7802 of Title 26\] may be cited as the ‘Employee Retirement Income Security Act of 1974’.”
 
 #### Coordination of Internal Revenue Code of 1986 With Employee Retirement Income Security Act of 1974
 
@@ -250,7 +254,7 @@ Pub. L. 96–14, May 24, 1979, 93 Stat. 29, known as the Pension Policy Commissi
 
 #### <b>REORGANIZATION PLAN NO. 4 OF 1978</b>
 
-#### 43 F.R. 47713, 92 Stat. 3790
+#### 43 F.R. 47713, 92 Stat. 3790, as amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–280, title I, §107(c), Aug. 17, 2006, 120 Stat. 820
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, August 10, 1978, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.<sup>1</sup>
 
@@ -260,15 +264,15 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 Except as otherwise provided in Sections 104 and 106 of this Plan, all authority of the Secretary of Labor to issue the following described documents pursuant to the statutes hereinafter specified is hereby transferred to the Secretary of the Treasury:
 
-(a) regulations, rulings, opinions, variances and waivers under Parts 2 \[29 U.S.C. 1051 et seq.\] and 3 \[29 U.S.C. 1081 et seq.\] of Subtitle B of Title I and subsection 1012(c) \[set out as a note under 26 U.S.C. 411\] of Title II of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 note) (hereinafter referred to as “ERISA”).
+(a) regulations, rulings, opinions, variances and waivers under Parts 2 \[29 U.S.C. 1051 et seq.\] and 3 \[29 U.S.C. 1081 et seq.\] of Subtitle B of Title I and subsection 1012(c) \[set out as a note under 26 U.S.C. 411\] of Title II of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 note) (hereinafter referred to as “ERISA”),
 
 &emsp;EXCEPT for sections and subsections 201, 203(a)(3)(B), 209, and 301(a) of ERISA; \[29 U.S.C. 1051, 1053(a)(3)(B), 1059, and 1081(a)\];
 
-(b) such regulations, rulings, and opinions which are granted to the Secretary of Labor under Sections 404, 410, 411, 412, and 413 of the Internal Revenue Code of 1954, as amended \[26 U.S.C. 404, 410, 411, 412, and 413\], (hereinafter referred to as the “Code”).
+(b) such regulations, rulings, and opinions which are granted to the Secretary of Labor under Sections 404, 410, 411, 412, and 413 of the Internal Revenue Code of 1986, as amended \[26 U.S.C. 404, 410, 411, 412, and 413\], (hereinafter referred to as the “Code”).
 
 &emsp;EXCEPT for subsection 411(a)(3)(B) of the Code \[26 U.S.C. 411(a)(3)(B)\] and the definitions of “collectively bargained plan” and “collective bargaining agreement” contained in subsections 404 (a)(1)(B) and (a)(1)(C), 410 (b)(2)(A) and (b)(2)(B), and 413(a)(1) of the Code \[26 U.S.C. 404(a)(1)(B) and (a)(1)(C), 410 (b)(2)(A) and (b)(2)(B), and 413(a)(1)\]; and
 
-(c) regulations, rulings, and opinions under subsections 3(19), 3(22), 3(23), 3(24), 3(25), 3(27), 3(28), 3(29), 3(30), and 3(31) of Subtitle A of Title I of ERISA \[29 U.S.C. 1002(19), (22), (23), (24), (25), (27), (28), (29), (30), and (31)\].
+(c) regulations, rulings, and opinions under subsections 3(19), 3(22), 3(23), 3(24), 3(25), 3(27), 3(28), 3(29), 3(30), and 3(31) of Subtitle A of Title I of ERISA \[29 U.S.C. 1002(19), (22), (23), (24), (25), (27), (28), (29), (30), and (31)\]. \[As amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.\]
 
 #### Sec. 102. Transfer to the Secretary of Labor
 
@@ -288,7 +292,7 @@ In the case of fiduciary actions which are subject to Part 4 of Subtitle B of Ti
 
 #### Sec. 104. Enforcement by the Secretary of Labor
 
-The transfers provided for in Section 101 of this Plan shall not affect the ability of the Secretary of Labor, subject to the provisions of Title III of ERISA \[29 U.S.C. 1201 et seq.\] relating to jurisdiction, administration, and enforcement, to engage in enforcement under Section 502 of ERISA \[29 U.S.C. 1132\] or to exercise the authority set forth under Title III of ERISA, including the ability to make interpretations necessary to engage in such enforcement or to exercise such authority. However, in bringing such actions and in exercising such authority with respect to Parts 2 \[29 U.S.C. 1051 et seq.\] and 3 \[29 U.S.C. 1081 et seq.\] of Subtitle B of Title I of ERISA and any definitions for which the authority of the Secretary of Labor is transferred to the Secretary of the Treasury as provided in Section 101 of this Plan, the Secretary of Labor shall be bound by the regulations, rulings, opinions, variances, and waivers issued by the Secretary of the Treasury.
+The transfers provided for in Section 101 of this Plan shall not affect the ability of the Secretary of Labor,subject to the provisions of Title III of ERISA \[29 U.S.C. 1201 et seq.\] relating to jurisdiction, administration, and enforcement, to engage in enforcement under Section 502 of ERISA \[29 U.S.C. 1132\] or to exercise the authority set forth under Title III of ERISA, including the ability to make interpretations necessary to engage in such enforcement or to exercise such authority. However, in bringing such actions and in exercising such authority with respect to Parts 2 \[29 U.S.C. 1051 et seq.\] and 3 \[29 U.S.C. 1081 et seq.\] of Subtitle B of Title I of ERISA and any definitions for which the authority of the Secretary of Labor is transferred to the Secretary of the Treasury as provided in Section 101 of this Plan, the Secretary of Labor shall be bound by the regulations, rulings, opinions, variances, and waivers issued by the Secretary of the Treasury.
 
 #### Sec. 105. Enforcement by the Secretary of the Treasury
 
@@ -302,9 +306,9 @@ The transfers provided for in Section 102 of this Plan shall not affect the abil
 
 (i) amendments to regulations issued pursuant to subsections 202(a)(3), 203(b)(2) and (3)(A), 204(b)(3)(A), (C), and (E), and 210(a)(2) of ERISA \[29 U.S.C. 1052(a)(3), 1053(b)(2) and (3)(A), 1054(b)(3)(A), (C), and (E), and 1060(a)(2)\], and subsections 410(a)(3) and 411(a)(5), (6)(A), and (b)(3)(A), (C), and (E), 413(b)(4) and (c)(3) and 414(f) of the Code \[26 U.S.C. 410(a)(3) and 411(a)(5), (6)(A), and (b)(3)(A), (C), and (E), 413 (b)(4) and (c)(3) and 414(f)\];
 
-(ii) regulations issued pursuant to subsections 204(b)(3)(D), 302(c)(8), and 304(a) and (b)(2)(A) of ERISA \[29 U.S.C. 1054(b)(3)(D), 1082(c)(8), and 1084(a) and (b)(2)(A)\], and subsections 411(b)(3)(D), 412(c)(8), (e), and (f)(2)(A) of the Code \[26 U.S.C. 411(b)(3)(D), 412(c)(8), (e), and (f)(2)(A)\]; and
+(ii) regulations issued pursuant to subsections 204(b)(3)(D), 302(d)(2), and 304(d)(1), (d)(2), and (e)(2)(A) of ERISA \[29 U.S.C. 1054(b)(3)(D), 1082(d)(2), and 1084(d)(1), (d)(2), and (e)(2)(A)\], and subsections 411(b)(3)(D), 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A) of the Code \[26 U.S.C. 411(b)(3)(D), 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A)\]; and \[As amended Pub. L. 109–280, title I, §107(c), Aug. 17, 2006, 120 Stat. 820.\]
 
-(iii) revenue rulings (within the meaning of 26 CFR Section 601.201(a)(6)), revenue procedures, and similarpublications, if the rulings, procedures and publications are issued under one of the statutory provisions listed in (i) and (ii) of this subsection; and
+(iii) revenue rulings (within the meaning of 26 CFR Section 601.201(a)(6)), revenue procedures, and similar publications, if the rulings, procedures and publications are issued under one of the statutory provisions listed in (i) and (ii) of this subsection; and
 
 (iv) rulings (within the meaning of 26 CFR Section 601.201(a)(2)) issued prior to the issuance of a published regulation under one of the statutory provisions listed in (i) and (ii) of this subsection and not issued under a published Revenue Ruling.
 
@@ -321,6 +325,10 @@ So much of the personnel, property, records, and unexpended balances of appropri
 #### Sec. 109. Effective Date
 
 The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 30, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+
+\[Amendment by section 107(c) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.\]
+
+\[For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.\]
 
 #### Message of the President
 

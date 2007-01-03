@@ -6,7 +6,7 @@ It is hereby declared to be the policy of the United States—
 
 &emsp;(2) not to restrict or limit the export of such commodities and products except under the most compelling circumstances;
 
-&emsp;(3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act \[50 App. U.S.C. 2401 et seq.\]; and
+&emsp;(3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act \[50 U.S.C. App. 2401 et seq.\]; and
 
 &emsp;(4) that contracts for the export of such commodities or products entered into before the imposition of any prohibition or limitation on the export of such commodities or products should not be abrogated.
 

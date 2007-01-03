@@ -66,7 +66,7 @@ Chapter 13 of this title deals with pay, allowances, awards, and other rights an
 
 2004—Pub. L. 108–293, title II, §§210(b), 218(b), Aug. 9, 2004, 118 Stat. 1036, 1039, added items 472 and 517.
 
-2002—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out formeritem 511 “Compensatory absence of military personnel at isolated aids to navigation.”
+2002—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 “Compensatory absence of military personnel at isolated aids to navigation.”
 
 Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, added item 505.
 

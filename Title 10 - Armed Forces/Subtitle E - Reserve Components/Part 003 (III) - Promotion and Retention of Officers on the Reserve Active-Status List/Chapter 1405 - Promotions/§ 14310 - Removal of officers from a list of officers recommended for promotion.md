@@ -10,13 +10,35 @@ Removal for Withholding of Senate Advice and Consent.—If the Senate does not g
 
 (c)
 
-Continued Eligibility for Promotion.—An officer whose name is removed from a list under subsection (a) or (b) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer's grade and competitive category and the officer is promoted, the Secretary of the military department concerned may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list, as the officer would have had if the officer's name had not been removed from the list.
+Removal After 18
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938.)
+Months.—(1) If an officer whose name is on a list of officers approved for promotion under section 14308(a) of this title to a grade for which appointment is required by section 12203(a) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer's promotion eligibility period, the officer's name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
+
+(2) Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that period for purposes of paragraph (1) by an additional 12 months.
+
+(3) In this subsection, the term “promotion eligibility period” means, with respect to an officer whose name is on a list of officers approved for promotion under section 14308(a) of this title to a grade for which appointment is required by section 12203(a) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of theeighteenth month following the month during which the list is so approved.
+
+(d)
+
+Continued Eligibility for Promotion.—An officer whose name is removed from a list under subsection (a) <sup>1</sup> (b), or (c) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer's grade and competitive category and the officer is promoted, the Secretary of the military department concerned may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list, as the officer would have had if the officer's name had not been removed from the list.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938; amended Pub. L. 109–364, div. A, title V, §515(b), Oct. 17, 2006, 120 Stat. 2186.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5905 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
+
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–364, §515(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 109–364, §515(b)(2), which directed amendment of par. (1) of subsec. (d) by substituting “(b), or (c)” for “or (b)”, was executed by amending text of subsec. (d), which does not contain any pars., to reflect the probable intent of Congress.
+
+Pub. L. 109–364, §515(b)(1)(A), redesignated subsec. (c) as (d).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 applicable to any promotion list approved by the President after Jan. 1, 2007, see section 515(c) of Pub. L. 109–364, set out as a note under section 629 of this title.
 
 #### Delegation of Functions
 
@@ -25,4 +47,6 @@ For assignment of functions of President under subsec. (a) of this section, see 
 #### Removals From Promotion List
 
 Section 1684(b) of title XVI of div. A of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1501(a)(9), Feb. 10, 1996, 110 Stat. 495, provided that: “An action that was initiated before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

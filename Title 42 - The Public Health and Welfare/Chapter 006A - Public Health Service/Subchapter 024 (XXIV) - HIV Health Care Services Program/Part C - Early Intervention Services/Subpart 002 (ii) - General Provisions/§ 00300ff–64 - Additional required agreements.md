@@ -6,9 +6,13 @@ The Secretary may not make a grant under this part unless—
 
 &emsp;(1) the applicant submits to the Secretary—
 
-&emsp;&emsp;(A) a specification of the expenditures made by the applicant for early intervention services for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant; and
+&emsp;&emsp;(A) a specification of the expenditures made by the applicant for early intervention services for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant;
 
-&emsp;&emsp;(B) an estimate of the number of individuals to whom the applicant has provided such services for such fiscal year; and
+&emsp;&emsp;(B) an estimate of the number of individuals to whom the applicant has provided such services for such fiscal year;
+
+&emsp;&emsp;(C) information regarding how the expected expenditures of the grant are related to the planning process for localities funded under part A (including the planning process described in section 300ff–12 of this title) and for States funded under part B (including the planning process described in section 300ff–27(b) of this title); and
+
+&emsp;&emsp;(D) a specification of the expected expenditures and how those expenditures will improve overall client outcomes, as described in the State plan under section 300ff–27(b) of this title;
 
 &emsp;(2) the applicant agrees to submit to the Secretary a report providing—
 
@@ -20,13 +24,17 @@ The Secretary may not make a grant under this part unless—
 
 &emsp;&emsp;(D) the average costs of providing each category of early intervention service; and
 
-&emsp;&emsp;(E) the aggregate amounts expended for each such category.
+&emsp;&emsp;(E) the aggregate amounts expended for each such category;
+
+&emsp;(3) the applicant agrees to provide additional documentation to the Secretary regarding the process used to obtain community input into the design and implementation of activities related to such grant; and
+
+&emsp;(4) the applicant agrees to submit, every 2 years, to the lead State agency under section 300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to complete unmet need calculations and Statewide coordinated statements of need process.
 
 #### (b) Provision of opportunities for anonymous counseling and testing
 
 The Secretary may not make a grant under this part unless the applicant for the grant agrees that, to the extent permitted under State law, regulation or rule, the applicant will offer substantial opportunities for an individual—
 
-&emsp;(1) to undergo counseling and testing regarding HIV disease without being required to provide any information relating to the identity of the individual; and
+&emsp;(1) to undergo counseling and testing regarding HIV/AIDS without being required to provide any information relating to the identity of the individual; and
 
 &emsp;(2) to undergo such counseling and testing through the use of a pseudonym.
 
@@ -84,7 +92,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early intervention services, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
 
-&emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
+&emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (except for a program administered by or providing the services of the Indian Health Service); or
 
 &emsp;&emsp;(B) by an entity that provides health services on a prepaid basis.
 
@@ -100,19 +108,37 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
 
-&emsp;(3) the applicant will not expend more than 10 percent including planning and evaluation of the grant for administrative expenses with respect to the grant;
+&emsp;(3) the applicant will not expend more than 10 percent of the grant for administrative expenses with respect to the grant, including planning and evaluation, except that the costs of a clinical quality management program under paragraph (5) may not be considered administrative expenses for purposes of such limitation;
 
 &emsp;(4) the applicant will submit evidence that the proposed program is consistent with the statewide coordinated statement of need and agree to participate in the ongoing revision of such statement of need; and
 
-&emsp;(5) the applicant will provide for the establishment of a quality management program—
+&emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV disease and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 
-(July 1, 1944, ch. 373, title XXVI, §2664, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 611; amended Pub. L. 104–146, §3(d)(5), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title III, §§301(b)(3), 322, Oct. 20, 2000, 114 Stat. 1345, 1346.)
+(July 1, 1944, ch. 373, title XXVI, §2664, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 611; amended Pub. L. 104–146, §3(d)(5), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title III, §§301(b)(3), 322, Oct. 20, 2000, 114 Stat. 1345, 1346; Pub. L. 109–415, title III, §§301(b), 306(b), (c), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2806, 2809, 2820.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### Amendments
+
+2006—Subsec. (a)(1)(C), (D). Pub. L. 109–415, §306(b)(1), added subpars. (C) and (D).
+
+Subsec. (a)(3), (4). Pub. L. 109–415, §306(b)(2), (3), added pars. (3) and (4).
+
+Subsec. (b)(1). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+
+Subsec. (f)(1)(A). Pub. L. 109–415, §306(c), inserted “(except for a program administered by or providing the services of the Indian Health Service)” before semicolon.
+
+Subsec. (g)(3). Pub. L. 109–415, §301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the applicant will not expend more than 10 percent including planning and evaluation of the grant for administrative expenses with respect to the grant;”.
+
+Subsec. (g)(5). Pub. L. 109–415, §301(b)(2), inserted “clinical” before “quality management” in introductory provisions.
+
+Subsec. (g)(5)(A). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
 
 2000—Subsecs. (e)(5), (f)(2). Pub. L. 106–345, §301(b)(3)(A), (B), struck out “300ff–42(b) or” after “a waiver under section”.
 

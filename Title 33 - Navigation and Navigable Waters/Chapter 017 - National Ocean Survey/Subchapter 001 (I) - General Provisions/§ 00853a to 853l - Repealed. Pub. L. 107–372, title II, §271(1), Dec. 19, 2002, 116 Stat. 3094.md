@@ -8,7 +8,7 @@ Section 853c, act June 3, 1948, ch. 390, §4, 62 Stat. 298, related to promotion
 
 Section 853d, act June 3, 1948, ch. 390, §5, 62 Stat. 298, related to promotion to the grade of commander and captain after completion of twenty-one and thirty years of service, respectively.
 
-Section 853e, acts June 3, 1948, ch. 390, §6, 62 Stat. 298; June 21, 1955, ch. 172, §4(a), 69 Stat. 169; Pub. L. 87–233, §1(b), Sept. 14, 1961, 75 Stat. 506, related to promotion and separation from service of ensigns. See section 3023 of this title.
+Section 853e, acts June 3, 1948, ch. 390, §6, 62 Stat. 298; June 21, 1955, ch. 172, §4(a), 69 Stat. 169; Pub. L. 87–233, §1(b), Sept. 14, 1961, 75 Stat. 506, related to promotionand separation from service of ensigns. See section 3023 of this title.
 
 Section 853f, act June 3, 1948, ch. 390, §7, 62 Stat. 298, related to length of service for purposes of promotion. See section 3025 of this title.
 

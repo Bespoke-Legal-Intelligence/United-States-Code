@@ -32,9 +32,9 @@ Failure to report.—If on March 1 of each year the Board has not received the S
 
 &emsp;(3)
 
-Termination.—This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed.
+Compliance report with recommendations.—Within 90 days after the date on which the Secretary submits a report under this subsection, the Board shall review the Secretary's report and transmit comments on the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755; Pub. L. 108–168, §6, Dec. 6, 2003, 117 Stat. 2034.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755; Pub. L. 108–168, §6, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §2(b), Dec. 21, 2006, 120 Stat. 3298.)
 
 Historical and Revision Notes
 
@@ -68,7 +68,9 @@ In subsection (a)(1), the word “complete” is substituted for “in full” f
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
+2006—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed.”
+
+2003—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
 
 #### Reports on Certain Open Safety Recommendations
 

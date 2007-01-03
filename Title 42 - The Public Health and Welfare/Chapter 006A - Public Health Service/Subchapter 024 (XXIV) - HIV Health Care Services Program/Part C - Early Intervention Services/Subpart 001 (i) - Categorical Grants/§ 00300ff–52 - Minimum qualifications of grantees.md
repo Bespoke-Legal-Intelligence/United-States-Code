@@ -1,20 +1,28 @@
 ### §300ff–52. Minimum qualifications of grantees
 
-#### (a) In general
+#### (a) Eligible entities
 
-The entities referred to in section 300ff–51(a) of this title are public entities and nonprofit private entities that are—
+#### (1) In general
 
-&emsp;(1) migrant health centers under section 254b <sup>1</sup> of this title or community health centers under section 254c <sup>1</sup> of this title;
+&emsp;The entities referred to in section 300ff–51(a) of this title are public entities and nonprofit private entities that are—
 
-&emsp;(2) grantees under section 254b(h) of this title (regarding health services for the homeless);
+&emsp;&emsp;(A) federally-qualified health centers under section 1905(<i>l</i>)(2)(B) of the Social Security Act \[42 U.S.C. 1396d(<i>l</i>)(2)(B)\];
 
-&emsp;(3) grantees under section 300 of this title (regarding family planning) other than States;
+&emsp;&emsp;(B) grantees under section 300 of this title (regarding family planning) other than States;
 
-&emsp;(4) comprehensive hemophilia diagnostic and treatment centers;
+&emsp;&emsp;(C) comprehensive hemophilia diagnostic and treatment centers;
 
-&emsp;(5) Federally-qualified health centers under section 1905(<i>l</i>)(2)(B) of the Social Security Act \[42 U.S.C. 1396d(<i>l</i>)(2)(B)\]; or
+&emsp;&emsp;(D) rural health clinics;
 
-&emsp;(6) nonprofit private entities that provide comprehensive primary care services to populations at risk of HIV disease.
+&emsp;&emsp;(E) health facilities operated by or pursuant to a contract with the Indian Health Service;
+
+&emsp;&emsp;(F) community-based organizations, clinics, hospitals and other health facilities that provide early intervention services to those persons infected with HIV/AIDS through intravenous drug use; or
+
+&emsp;&emsp;(G) nonprofit private entities that provide comprehensive primary care services to populations at risk of HIV/AIDS, including faith-based and community-based organizations.
+
+#### (2) Underserved populations
+
+&emsp;Entities described in paragraph (1) shall serve underserved populations which may include minority populations and Native American populations, ex-offenders, individuals with comorbidities including hepatitis B or C, mental illness, or substance abuse, low-income populations, inner city populations, and rural populations.
 
 #### (b) Status as medicaid provider
 
@@ -32,15 +40,19 @@ The entities referred to in section 300ff–51(a) of this title are public entit
 
 &emsp;(B) A determination by the Secretary of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
 
-(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(3), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(3), Dec. 6, 2003, 117 Stat. 2023; Pub. L. 109–415, title III, §302(a), Dec. 19, 2006, 120 Stat. 2806.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### References in Text
-
-Sections 254b and 254c of this title, referred to in subsec. (a)(1), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–415 amended heading and text of subsec. (a) generally, substituting provisions listing eligible entities and directing that such entities serve underserved populations for provisions listing eligible entities.
 
 2003—Subsec. (a)(2). Pub. L. 108–163 substituted “254b(h)” for “256”.
 
@@ -61,6 +73,4 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

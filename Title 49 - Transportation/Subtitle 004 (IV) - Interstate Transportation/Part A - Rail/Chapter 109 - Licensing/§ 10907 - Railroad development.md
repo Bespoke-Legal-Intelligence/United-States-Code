@@ -66,7 +66,7 @@ Section 10910, added Pub. L. 96–448, title IV, §401(a), Oct. 14, 1980, 94 Sta
 
 Section 10921, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1409, related to requirement for certificate, permit, or license. See section 13901 of this title.
 
-Section 10922, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1409; Pub. L. 96–296, §§5(a), 6, 34(a), July 1, 1980, 94 Stat. 794, 796, 825; Pub. L. 96–454, §10(a), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–261, §§6(a)–(c), (g), 7, 8, Sept. 20, 1982, 96 Stat. 1103, 1107, 1108; Pub. L. 98–554, title II, §§225(a), (b), 226(b), Oct. 30, 1984, 98 Stat. 2847, 2848, 2850; Pub. L. 100–17, title III, §§339, 340(a), Apr. 2, 1987, 101 Stat. 243, 245; Pub. L. 100–690, title IX, §9111(g), Nov. 18, 1988, 102 Stat. 4533; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 103–272, §5(m)(25), July 5, 1994, 108 Stat. 1378; Pub. L. 103–311, title II, §207, Aug. 26, 1994, 108 Stat. 1686; Pub. L. 103–429, §7(a)(4)(D), Oct. 31, 1994, 108 Stat. 4389, related to certificates of motorand water common carriers. See section 13902 of this title.
+Section 10922, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1409; Pub. L. 96–296, §§5(a), 6, 34(a), July 1, 1980, 94 Stat. 794, 796, 825; Pub. L. 96–454, §10(a), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–261, §§6(a)–(c), (g), 7, 8, Sept. 20, 1982, 96 Stat. 1103, 1107, 1108; Pub. L. 98–554, title II, §§225(a), (b), 226(b), Oct. 30, 1984, 98 Stat. 2847, 2848, 2850; Pub. L. 100–17, title III, §§339, 340(a), Apr. 2, 1987, 101 Stat. 243, 245; Pub. L. 100–690, title IX, §9111(g), Nov. 18, 1988, 102 Stat. 4533; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 103–272, §5(m)(25), July 5, 1994, 108 Stat. 1378; Pub. L. 103–311, title II, §207, Aug. 26, 1994, 108 Stat. 1686; Pub. L. 103–429, §7(a)(4)(D), Oct. 31, 1994, 108 Stat. 4389, related to certificates of motor and water common carriers. See section 13902 of this title.
 
 Section 10923, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1410; Pub. L. 96–258, §1(9), June 3, 1980, 94 Stat. 426; Pub. L. 96–296, §§10(a)(2), (3), 34(b), July 1, 1980, 94 Stat. 799, 800, 825; Pub. L. 97–261, §13(a), Sept. 20, 1982, 96 Stat. 1114; Pub. L. 99–521, §8(a)(1), (2), Oct. 22, 1986, 100 Stat. 2996; Pub. L. 103–311, title II, §208, Aug. 26, 1994, 108 Stat. 1687, related to permits of motor and water contract carriers and household goods freight forwarders. See section 13903 of this title.
 
@@ -90,7 +90,7 @@ Section 10932, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1417, related to motor 
 
 Section 10933, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1418; Pub. L. 99–521, §8(f)(1), (2), Oct. 22, 1986, 100 Stat. 2996, 2997, related to authorizing abandonment of household goods freight forwarder service.
 
-Section 10934, added Pub. L. 96–454, §5(a)(1), Oct. 15, 1980, 94 Stat. 2013; amended Pub. L. 98–554, title II, §227(a)(2), Oct. 30, 1984, 98 Stat. 2852, related to household goods agents. See section 13907 of this title.
+Section 10934, added Pub. L. 96–454, §5(a)(1), Oct. 15, 1980, 94 Stat. 2013; amended Pub. L. 98–554, title II,§227(a)(2), Oct. 30, 1984, 98 Stat. 2852, related to household goods agents. See section 13907 of this title.
 
 Section 10935, added Pub. L. 97–261, §16(a), Sept. 20, 1982, 96 Stat. 1115; amended Pub. L. 103–272, §5(m)(27), July 5, 1994, 108 Stat. 1378, related to discontinuing bus transportation in one State.
 

@@ -2,7 +2,7 @@
 
 #### (a) Flexible authority for multifamily projects
 
-During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law.
+During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
 
 #### (b) Transfer of unoccupied and substandard housing to local governments and community development corporations
 
@@ -12,7 +12,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (2) Qualified HUD properties
 
-&emsp;For purposes of this subsection, the term “qualified HUD property” means any property for which, as of the date that notification of the property is first made under paragraph (3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
+&emsp;For purposes of this subsection, the term “qualified HUD property” means any property for which, as of the date that notification of the property is first made under paragraph\(3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
 
 &emsp;&emsp;(A) an unoccupied multifamily housing project;
 
@@ -42,7 +42,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(i) the Secretary shall establish a period during which the Secretary may not transfer such properties except to such units and corporations;
 
-&emsp;&emsp;&emsp;(ii) the Secretary shall offer qualified HUD properties that are single family properties for purchase by units of general local government at a cost of $1 for each property, but only to the extent that the costs to the Federal Government of disposal at such price do not exceed the coststo the Federal Government of disposing of property subject to the procedures for single family property established by the Secretary pursuant to the authority under the last sentence of section 1710(g) of this title;
+&emsp;&emsp;&emsp;(ii) the Secretary shall offer qualified HUD properties that are single family properties for purchase by units of general local government at a cost of $1 for each property, but only to the extent that the costs to the Federal Government of disposal at such price do not exceed the costs to the Federal Government of disposing of property subject to the procedures for single family property established by the Secretary pursuant to the authority under the last sentence of section 1710(g) of this title;
 
 &emsp;&emsp;&emsp;(iii) the Secretary may accept an offer to purchase a property made by a community development corporation only if the offer provides for purchase on a cost recovery basis; and
 
@@ -154,13 +154,15 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;Not later than 60 days after December 21, 2000, the Secretary shall issue such final regulations as are necessary to carry out this subsection.
 
-(Pub. L. 104–204, title II, §204, Sept. 26, 1996, 110 Stat. 2894; Pub. L. 105–65, title II, §213, Oct. 27, 1997, 111 Stat. 1366; Pub. L. 105–276, title II, §206, Oct. 21, 1998, 112 Stat. 2484; Pub. L. 106–74, title V, §537, Oct. 20, 1999, 113 Stat. 1122; Pub. L. 106–377, §1(a)(1) \[title II, §204\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 106–554, §1(a)(7) \[title I, §141\], Dec. 21, 2000, 114 Stat. 2763, 2763A–614.)
+(Pub. L. 104–204, title II, §204, Sept. 26, 1996, 110 Stat. 2894; Pub. L. 105–65, title II, §213, Oct. 27, 1997, 111 Stat. 1366; Pub. L. 105–276, title II, §206, Oct. 21, 1998, 112 Stat. 2484; Pub. L. 106–74, title V, §537, Oct. 20, 1999, 113 Stat. 1122; Pub. L. 106–377, §1(a)(1) \[title II, §204\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 106–554, §1(a)(7) \[title I, §141\], Dec. 21, 2000, 114 Stat. 2763, 2763A–614; Pub. L. 109–171, title II, §2003(a), Feb. 8, 2006, 120 Stat. 9.)
 
 #### Codification
 
 Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–171 inserted at end “A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.”
 
 2000—Pub. L. 106–554 substituted “Disposition of HUD-owned properties” for “Flexible authority” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -171,4 +173,8 @@ Pub. L. 106–377 substituted “2000, and thereafter” for “and 2000”.
 1998—Pub. L. 105–276 substituted “fiscal years 1997, 1998, and 1999” for “fiscal years 1997 and 1998”.
 
 1997—Pub. L. 105–65 inserted “, including, for fiscal years 1997 and 1998, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation or demolition,” after “owned by the Secretary”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 not applicable to any transaction that formally commences within one year prior to Feb. 8, 2006, see section 2003(c) of Pub. L. 109–171, set out as a note under section 1701z–11 of this title.
 

@@ -6,5 +6,5 @@ Any director or officer, or former director or officer of a System institution, 
 
 #### Effective Date
 
-Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
+Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an EffectiveDate of 1985 Amendment note under section 2001 of this title.
 

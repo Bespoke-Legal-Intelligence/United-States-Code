@@ -18,7 +18,7 @@ Security interest.—The term “security interest” means an interest (includi
 
 &emsp;(4)
 
-Perfection.—The term “perfection”, as related to a security interest, means taking action (including public filing, recording, notation on a certificate of title, and possession of collateral by the secured party), or the existence of facts, required under law to make a security interest enforceable against general creditors and subsequent lien creditors of a debtor, but does not include compliance with requirements related only to the establishment of a valid security interest between the debtor and the secured party.
+Perfection.—The term “perfection”, as related to a security interest, means takingaction (including public filing, recording, notation on a certificate of title, and possession of collateral by the secured party), or the existence of facts, required under law to make a security interest enforceable against general creditors and subsequent lien creditors of a debtor, but does not include compliance with requirements related only to the establishment of a valid security interest between the debtor and the secured party.
 
 (b)
 

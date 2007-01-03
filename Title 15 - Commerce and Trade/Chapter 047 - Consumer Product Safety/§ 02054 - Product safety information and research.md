@@ -8,7 +8,7 @@ The Commission shall—
 
 &emsp;(2) conduct such continuing studies and investigations of deaths, injuries, diseases, other health impairments, and economic losses resulting from accidents involving consumer products as it deems necessary;
 
-&emsp;(3) following publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking for a product safety rule under any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
+&emsp;(3) following publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking for a product safety rule under any rulemaking authority administeredby the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
 
 &emsp;(4) to the extent practicable and appropriate (taking into account the resources and priorities of the Commission), assist public and private organizations or groups of manufacturers, administratively and technically, in the development of product safety standards and test methods.
 
@@ -24,7 +24,7 @@ The Commission may—
 
 #### (c) Grants and contracts for conduct of functions
 
-In carrying out its functions under this section, the Commission may make grants or enter into contracts for the conduct of such functionswith any person (including a governmental entity).
+In carrying out its functions under this section, the Commission may make grants or enter into contracts for the conduct of such functions with any person (including a governmental entity).
 
 #### (d) Availability to public of information
 
@@ -154,7 +154,7 @@ Sec. 3. (a) There is established the Technical Study Group on Cigarette and Litt
 
 &emsp;“(4) two scientific or technical representatives appointed by the Chairman of the Interagency Committee, by and with the advice and consent of the Interagency Committee, who are selected from lists of individuals submitted by the following organizations: the National Fire Protection Association, the International Association of Fire Chiefs, the International Association of Fire Fighters, the International Society of Fire Service Instructors, and the National Volunteer Fire Council; and
 
-&emsp;“(5) one scientific or technical representative appointed by the Chairman of the Interagency Committee, by and with the advice and consent of the Interagency Committee, from lists of individuals submitted by the Business and Institutional Furniture Manufacturers Association and one scientific or technical representative appointed by the Chairman, by and with the advice and consent of the Interagency Committee, from lists of individuals submitted by the American Furniture Manufacturers Association.
+&emsp;“(5) one scientific or technical representative appointed by the Chairman of the Interagency Committee, by and with the advice and consent of the Interagency Committee, from lists of individuals submitted by the Business and Institutional Furniture Manufacturers Association and one scientific or technicalrepresentative appointed by the Chairman, by and with the advice and consent of the Interagency Committee, from lists of individuals submitted by the American Furniture Manufacturers Association.
 
 “(b) The persons appointed to serve on the Study Group may designate, with the advice and consent of the Interagency Committee, from among their number such persons to serve as team leaders, coordinators, or chairpersons as they deem necessary or appropriate to carry out the Study Group's functions under section 4.
 

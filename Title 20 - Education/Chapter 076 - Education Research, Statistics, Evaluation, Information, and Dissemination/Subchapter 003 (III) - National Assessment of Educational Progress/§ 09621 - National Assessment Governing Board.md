@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the National Assessment Governing Board (hereafter in this subchapterreferred to as the “Assessment Board”), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
+There is established the National Assessment Governing Board (hereafter in this subchapter referred to as the “Assessment Board”), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
 
 #### (b) Membership
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) facilitate effective supervision of the institutions; and
 
-&emsp;&emsp;(C) facilitate prompt corrective action to resolve the institutions at the least cost to the insurance funds.
+&emsp;&emsp;(C) facilitate prompt corrective action to resolve the institutions at the least cost to the Deposit Insurance Fund.
 
 #### (2) Standards
 
@@ -70,15 +70,13 @@
 
 (Sept. 21, 1950, ch. 967, §2\[37\], as added Pub. L. 102–242, title I, §121(a), Dec. 19, 1991, 105 Stat. 2250; amended Pub. L. 106–569, title XII, §§1221, 1223, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 109–173, §8(a)(35), Feb. 15, 2006, 119 Stat. 3615.)
 
-#### Amendment of Subsection (a)(1)(C)
-
-<i>Pub. L. 109–173, §8(a)(35), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, subsection (a)(1)(C) of this section is amended by striking “insurance funds” and inserting “Deposit Insurance Fund”.</i>
-
 #### References in Text
 
 Section 1833d, referred to in subsec. (b)(2), was repealed by Pub. L. 102–242, title I, §121(b), Dec. 19, 1991, 105 Stat. 2251.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(C). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “insurance funds”.
 
 2000—Subsec. (a)(3)(D). Pub. L. 106–569, §1221, struck out heading and text of subpar. (D). Text read as follows: “Develop jointly with the other appropriate Federal banking agencies a method for insured depository institutions to provide supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in any balance sheet, financial statement, report of condition, or other report of any insured depository institution required to be filed with a Federal banking agency.”
 

@@ -46,7 +46,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (m) The term “indemnitor” means (1) any insurer with respect to his obligations under a policy of insurance furnished as proof of financial protection; (2) any licensee, contractor or other person who is obligated under any other form of financial protection, with respect to such obligations; and (3) the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, with respect to any obligation undertaken by it in indemnity agreement entered into pursuant to section 2210 of this title.
 
-(n) The term “international arrangement” means any international agreement hereafterapproved by the Congress or any treaty during the time such agreement or treaty is in full force and effect, but does not include any agreement for cooperation.
+(n) The term “international arrangement” means any international agreement hereafter approved by the Congress or any treaty during the time such agreement or treaty is in full force and effect, but does not include any agreement for cooperation.
 
 (<i>o</i>) The term “Energy Committees” means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
@@ -68,7 +68,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (x) The term “research and development” means (1) theoretical analysis, exploration, or experimentation; or (2) the extension of investigative findings and theories of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, devices, equipment, materials, and processes.
 
-(y) The term “Restricted Data” means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of specialnuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.
+(y) The term “Restricted Data” means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.
 
 (z) The term “source material” means (1) uranium, thorium, or any other material which is determined by the Commission pursuant to the provisions of section 2091 of this title to be source material; or (2) ores containing one or more of the foregoing materials, in such concentration as the Commission may by regulation determine from time to time.
 

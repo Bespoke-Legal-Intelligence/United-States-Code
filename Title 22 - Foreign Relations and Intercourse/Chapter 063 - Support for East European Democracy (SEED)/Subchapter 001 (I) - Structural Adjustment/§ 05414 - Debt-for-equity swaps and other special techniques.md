@@ -20,5 +20,5 @@ An obligation may be sold under subsection (b) of this section only if the sale 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of the Treasury by section 4 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, set out as a note under section 5401 of this title.
+Functions of President under this section delegated to Secretary of the Treasury by section 4 of Ex. Ord.No. 12703, Feb. 20, 1990, 55 F.R. 6351, set out as a note under section 5401 of this title.
 

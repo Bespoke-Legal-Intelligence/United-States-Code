@@ -8,7 +8,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (A) In general
 
-&emsp;&emsp;The normal value of the subject merchandise shall be the price described in subparagraph (B), at a time reasonably corresponding to the time of the sale used to determine the export price or constructed export price under section 1677a(a) or (b) of this title.
+&emsp;&emsp;The normal value of the subject merchandise shall be the price described in subparagraph (B), at a time reasonably corresponding to the time of the sale used to determinethe export price or constructed export price under section 1677a(a) or (b) of this title.
 
 #### (B) Price
 
@@ -72,7 +72,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;&emsp;(ii) the amount, if any, included in the price described in paragraph (1)(B), attributable to any additional costs, charges, and expenses incident to bringing the foreign like product from the original place of shipment to the place of delivery to the purchaser, and
 
-&emsp;&emsp;&emsp;(iii) the amount of any taxes imposed directly upon the foreign like product or components thereof which have been rebated, or which have not been collected, on the subject merchandise, but only to the extent that such taxes are added to or included in the price of the foreign like product, and
+&emsp;&emsp;&emsp;(iii) the amount of any taxes imposed directly upon the foreign like product or components thereof which have been rebated, or which have not been collected, onthe subject merchandise, but only to the extent that such taxes are added to or included in the price of the foreign like product, and
 
 &emsp;&emsp;(C) increased or decreased by the amount of any difference (or lack thereof) between the export price or constructed export price and the price described in paragraph (1)(B) (other than a difference for which allowance is otherwise provided under this section) that is established to the satisfaction of the administering authority to be wholly or partly due to—
 
@@ -122,7 +122,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
 
-&emsp;&emsp;&emsp;(i) in an investigation initiated under section 1673a of this title or a review conducted under section 1675 of this title, an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title provides information, based uponobserved prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
+&emsp;&emsp;&emsp;(i) in an investigation initiated under section 1673a of this title or a review conducted under section 1675 of this title, an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
 
 &emsp;&emsp;&emsp;(ii) in a review conducted under section 1675 of this title involving a specific exporter, the administering authority disregarded some or all of the exporter's sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.
 
@@ -136,7 +136,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;&emsp;(i) the volume of such sales represents 20 percent or more of the volume of sales under consideration for the determination of normal value, or
 
-&emsp;&emsp;&emsp;(ii) the weighted average per unit price of the sales under consideration for the determination of normal value is less than the weighted average per unit cost of production for such sales.
+&emsp;&emsp;&emsp;(ii) the weighted average per unit price of the sales under consideration for the determination of normal value is less thanthe weighted average per unit cost of production for such sales.
 
 #### (D) Recovery of costs
 
@@ -206,7 +206,7 @@ Whenever, in the course of an investigation under this subtitle, the administeri
 
 &emsp;(3) the normal value of the foreign like product produced in one or more of the facilities outside the exporting country is higher than the normal value of the foreign like product produced in the facilities located in the exporting country,
 
-> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
+> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authorityshall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
 
 #### (e) Constructed value
 
@@ -302,7 +302,7 @@ Amendment by sections 1316(a) and 1318 of Pub. L. 100–418 applicable with resp
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 615 of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 620(b) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct.30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+Amendment by section 615 of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 620(b) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

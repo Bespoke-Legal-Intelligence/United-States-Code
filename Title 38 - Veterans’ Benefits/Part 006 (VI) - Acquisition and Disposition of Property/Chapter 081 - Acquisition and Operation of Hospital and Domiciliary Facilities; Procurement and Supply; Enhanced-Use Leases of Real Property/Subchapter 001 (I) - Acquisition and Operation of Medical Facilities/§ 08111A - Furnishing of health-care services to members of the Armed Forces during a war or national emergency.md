@@ -1,14 +1,14 @@
 ### §8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
 
-(a)(1) During and immediately following a period of war, or a period of national emergency declared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
+(a)(1) During and immediately following a period of war, or a period of national emergencydeclared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
 
 (2)(A) During and immediately following a disaster or emergency referred to in subparagraph (B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
 
 (B) A disaster or emergency referred to in this subparagraph is any disaster or emergency as follows:
 
-&emsp;(i) A major disaster or emergency declared by the President under the Robert B. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+&emsp;(i) A major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-&emsp;(ii) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) is activated by the Secretary of Health and Human Services under paragraph (3)(A) of that section or as otherwise authorized by law.
+&emsp;(ii) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) <sup>1</sup> is activated by the Secretary of Health and Human Services under paragraph (3)(A) of that section or as otherwise authorized by law.
 
 (3) The Secretary may give a higher priority to the furnishing of care and services under this section than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
 
@@ -38,13 +38,21 @@
 
 (e) The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 
-(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029.)
+(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, §8(a)(8), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468.)
 
 #### References in Text
 
-The Robert B. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), probably means the Robert T. Stafford Disaster Relief and Emergency Assistance Act, Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+Section 2811(b) of the Public Health Service Act, referred to in subsec. (a)(2)(B)(ii), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, §102(a)(2), title III, §301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2006—Subsec. (a)(2)(B)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L.109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §1004(a)(8), substituted “Robert T.” for “Robert B.”.
+
+Pub. L. 109–444, which substituted “Robert T.” for “Robert B.”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2002—Subsec. (a). Pub. L. 107–287 redesignated second sentence of par. (1) as par. (3), added par. (2), and redesignated former par. (2) as (4).
 
@@ -86,7 +94,9 @@ Subsecs. (e), (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
+
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Findings
 
@@ -98,5 +108,7 @@ Section 2(b) of Pub. L. 97–174 provided that: “The Congress makes the follow
 
 #### Executive Order No. 12751
 
-Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care services for Operation DesertStorm, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, set out as a note under section 1701 of Title 50, War and National Defense.
+Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care services for Operation Desert Storm, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, listed in a table under section 1701 of Title 50, War and National Defense.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

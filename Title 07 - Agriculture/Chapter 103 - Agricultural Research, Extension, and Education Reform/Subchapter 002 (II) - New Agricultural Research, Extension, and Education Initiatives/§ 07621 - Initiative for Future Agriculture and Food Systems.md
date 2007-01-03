@@ -30,13 +30,13 @@ There is established in the Treasury of the United States an account to be known
 
 &emsp;&emsp;(C) on October 1, 2005, $160,000,000; and
 
-&emsp;&emsp;(D) on October 1, 2006, and each October 1 thereafter, $200,000,000.
+&emsp;&emsp;(D) on October 1, 2009, and each October 1 thereafter, $200,000,000.
 
 #### (c) Purposes
 
 #### (1) Critical emerging agricultural and rural issues
 
-&emsp;The Secretary shall use the funds in the Account for research, extension, and education grants (referred to in this section as “grants”) to address critical emerging agricultural and rural issues related to—
+&emsp;The Secretary shall use the funds in the Account for research, extension, and educationgrants (referred to in this section as “grants”) to address critical emerging agricultural and rural issues related to—
 
 &emsp;&emsp;(A) future food production;
 
@@ -100,7 +100,7 @@ The Secretary may make a grant under this section to—
 
 &emsp;&emsp;(B) determine the relevance and merit of proposals through a system of peer review in accordance with section 7613 of this title;
 
-&emsp;&emsp;(C) award grants on the basis of merit, quality, and relevance to advancing the purposes and priority mission areas established under subsection (c) of this section; and
+&emsp;&emsp;(C) award grants on the basis of merit, quality, and relevance to advancing the purposes and priority mission areas established under subsection (c); and
 
 &emsp;&emsp;(D) solicit and consider input from persons who conduct or use agricultural research, extension, or education in accordance with section 7612(b) of this title.
 
@@ -126,7 +126,13 @@ The Secretary may make a grant under this section to—
 
 #### (6) Availability of funds
 
-&emsp;Funds for grants under this section shall be available to the Secretary for obligation for a 2-year period.
+#### (A) Two-year availability
+
+&emsp;&emsp;Except as provided in subparagraph (B), funds for grants under this section shall be available to the Secretary for obligation for a 2-year period beginning on the date of the transfer of the funds under subsection (b).
+
+#### (B) Exception for fiscal year 2006 transfer
+
+&emsp;&emsp;In the case of the funds required to be transferred by subsection (b)(3)(C), the funds shall be available to the Secretary for obligation for the 1-year period beginning on October 1, 2005.
 
 #### (7) Administrative costs
 
@@ -136,9 +142,13 @@ The Secretary may make a grant under this section to—
 
 &emsp;Funds made available for grants under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
 
-(Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7205(a), May 13, 2002, 116 Stat. 439.)
+(Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7205(a), May 13, 2002, 116 Stat. 439; Pub. L. 109–171, title I, §1501, Feb. 8, 2006, 120 Stat. 7.)
 
 #### Amendments
+
+2006—Subsec. (b)(3)(D). Pub. L. 109–171, §1501(a), substituted “2009” for “2006”.
+
+Subsec. (f)(6). Pub. L. 109–171, §1501(b), amended heading and text of par. (6) generally. Prior to amendment, text read as follows: “Funds for grants under this section shall be available to the Secretary for obligation for a 2-year period.”
 
 2002—Subsec. (b)(1). Pub. L. 107–171, §7205(a)(1), substituted “2001” for “2002”.
 

@@ -32,7 +32,7 @@ The parcel of approximately 5 acres of land located on the Capitol Grounds and d
 
 #### (A) In general
 
-&emsp;&emsp;Not later than June 30, 2002, the Architect, in consultation with the majority leader and the minority leader of the Senate, and the Speaker and the minority leader of the House of Representatives, shall develop the specifications for the park.
+&emsp;&emsp;Not later than June 30, 2002, the Architect, in consultation with the majority leader andthe minority leader of the Senate, and the Speaker and the minority leader of the House of Representatives, shall develop the specifications for the park.
 
 #### (B) Requirements
 

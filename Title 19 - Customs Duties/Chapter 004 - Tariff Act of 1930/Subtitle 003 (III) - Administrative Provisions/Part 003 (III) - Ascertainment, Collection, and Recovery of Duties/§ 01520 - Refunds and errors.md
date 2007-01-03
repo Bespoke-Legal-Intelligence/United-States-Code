@@ -4,13 +4,13 @@
 
 The Secretary of the Treasury is authorized to refund duties or other receipts in the following cases:
 
-&emsp;(1) <i>Excess deposits.—</i>Whenever it is ascertained on liquidation or reliquidation of an entry or reconciliation that more money has been deposited or paid as duties than was required by law to be so deposited or paid;
+&emsp;(1) <i>Excess deposits.—</i>Whenever it is ascertained on liquidation or reliquidation of an entry or reconciliation that more money has been deposited or paid as duties than was required by law to be so deposited or paid.
 
-&emsp;(2) <i>Fees, charges, and exactions.—</i>Whenever it is determined in the manner required by law that any fees, charges, or exactions, other than duties and taxes, have been erroneously or excessively collected; and
+&emsp;(2) <i>Fees, charges, and exactions.—</i>Whenever it is determined in the manner required by law that any fees, charges, or exactions, other than duties and taxes, have been erroneously or excessively collected.
 
 &emsp;(3) <i>Fines, penalties, and forfeitures.—</i>Whenever money has been deposited in the Treasury on account of a fine, penalty, or forfeiture which did not accrue, or which is finally determined to have accrued in an amount less than that so deposited, or which is mitigated to an amount less than that so deposited or is remitted.
 
-&emsp;(4) <i>Prior to liquidation.—</i>Prior to the liquidation of an entry or reconciliation, whenever it is ascertained that excess duties, fees, charges, or exactions have been deposited or paid by reason of clerical error.
+&emsp;(4) <i>Prior to liquidation.—</i>Prior to the liquidation of an entry or reconciliation, whenever an importer of record declares or it is ascertained that excess duties, fees, charges, or exactions have been deposited or paid.
 
 #### (b) Authorization of appropriations
 
@@ -28,9 +28,19 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 &emsp;(3) such other documentation relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 109–53, title II, §207, Aug. 2, 2005, 119 Stat. 485.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 109–53, title II, §207, Aug. 2, 2005, 119 Stat. 485; Pub. L. 109–280, title XIV, §1635(b), Aug. 17, 2006, 120 Stat. 1170; Pub. L. 109–283, title II, §205, Sept. 26, 2006, 120 Stat. 1203.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 109–283, title I, §107(a), title II, §205, Sept. 26, 2006, 120 Stat. 1195, 1203, provided that, effective on the date on which the United States-Oman Free Trade Agreement enters into force, subsection (d) of this section is amended—</i>
+
+<i>(1) in the matter preceding paragraph (1), by striking “or” and by striking “for which” and inserting “, or section 202 of the United States-Oman Free Trade Agreement Implementation Act for which”; and</i>
+
+<i>(2) in paragraph (3), by inserting “and information” after “documentation”.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 109–283, see Effective and Termination Dates of 2006 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
@@ -46,7 +56,7 @@ Act June 26, 1934, effective July 1, 1935, provided for repeal of certain perman
 
 #### Prior Provisions
 
-This section, as originally enacted, contained a paragraph (b) making a permanent appropriation of the moneys necessary to make refunds. Effective July 1, 1935, paragraph (b) was repealed by act June 26, 1934, ch. 756, §2, 48 Stat. 1225, such act authorizing, in lieu thereof, an annual appropriation from the general fund of the Treasury.
+This section, as originally enacted, contained a paragraph (b) making a permanent appropriation of themoneys necessary to make refunds. Effective July 1, 1935, paragraph (b) was repealed by act June 26, 1934, ch. 756, §2, 48 Stat. 1225, such act authorizing, in lieu thereof, an annual appropriation from the general fund of the Treasury.
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §520, 42 Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
@@ -59,6 +69,8 @@ R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–280, in par. (1), substituted period for semicolon at end, in par. (2), substituted period for “; and” at end, and, in par. (4), inserted “an importer of record declares or” after “whenever” and struck out “by reason of clerical error” before period at end.
 
 2005—Subsec. (d). Pub. L. 109–53, §§107(d), 207, temporarily substituted “, section 202 of the United States-Chile Free Trade Agreement Implementation Act, or section 4033 of this title” for “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” in introductory provisions and inserted “or certifications” after “other certificates” in par. (2). See Effective and Termination Dates of 2005 Amendment note below.
 
@@ -96,9 +108,15 @@ Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on
 
 1938—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
 
+#### Effective and Termination Dates of 2006 Amendment
+
+Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to bea CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective Date of 2004 Amendment
 

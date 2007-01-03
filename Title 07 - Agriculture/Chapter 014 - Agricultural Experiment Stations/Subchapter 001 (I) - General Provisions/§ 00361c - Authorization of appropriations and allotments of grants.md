@@ -16,7 +16,7 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 &emsp;(1) Twenty per centum shall be allotted equally to each State;
 
-&emsp;(2) Not less than 52 per centum of such sums shall be allotted to each State, as follows: One-half in an amount which bears the same ratio to the total amount to be allotted as the rural population of the State bears to thetotal rural population of all the States as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and one-half in an amount which bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States as determined by the last preceding decennial census current at the time such additional sum is first appropriated;
+&emsp;(2) Not less than 52 per centum of such sums shall be allotted to each State, as follows: One-half in an amount which bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and one-half in an amount which bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States as determined by the last preceding decennial census current at the time such additional sum is first appropriated;
 
 &emsp;(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) of this section for a similar purpose, shall be designated as the “Multistate Research Fund, State Agricultural Experiment Stations”.
 
@@ -82,7 +82,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (1) In general
 
-&emsp;Not less than the applicable percentage specified under paragraph (2) of the Federal formula funds that are paid under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title to colleges and universities eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.), during a fiscal year shall beexpended for activities that integrate cooperative research and extension (referred to in this subsection as “integrated activities”).
+&emsp;Not less than the applicable percentage specified under paragraph (2) of the Federal formula funds that are paid under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title to colleges and universities eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.), during a fiscal year shall be expended for activities that integrate cooperative research and extension (referred to in this subsection as “integrated activities”).
 
 #### (2) Applicable percentages
 

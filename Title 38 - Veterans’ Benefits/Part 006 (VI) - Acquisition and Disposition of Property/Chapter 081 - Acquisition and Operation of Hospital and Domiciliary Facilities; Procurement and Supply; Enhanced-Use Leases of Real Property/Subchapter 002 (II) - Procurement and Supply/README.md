@@ -11,3 +11,5 @@
 - [&sect; 08124 - Grant of easements in Government-owned lands](%C2%A7%2008124%20-%20Grant%20of%20easements%20in%20Government-owned%20lands.md)
 - [&sect; 08125 - Procurement of health-care items](%C2%A7%2008125%20-%20Procurement%20of%20health-care%20items.md)
 - [&sect; 08126 - Limitation on prices of drugs procured by Department and certain other Federal agencies](%C2%A7%2008126%20-%20Limitation%20on%20prices%20of%20drugs%20procured%20by%20Department%20and%20certain%20other%20Federal%20agencies.md)
+- [&sect; 08127 - Small business concerns owned and controlled by veterans contracting goals and preferences](%C2%A7%2008127%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20goals%20and%20preferences.md)
+- [&sect; 08128 - Small business concerns owned and controlled by veterans contracting priority](%C2%A7%2008128%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20priority.md)

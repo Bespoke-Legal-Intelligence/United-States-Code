@@ -1,6 +1,6 @@
 ### §5505. Monthly pay periods; computation of pay
 
-The pay period for an individual in the service of the United States whose pay is monthly or annual covers one calendar month, and the following rules for division of time and computation of pay for services performed govern:
+The pay period for an individual in the service of the United States whose pay is monthly orannual covers one calendar month, and the following rules for division of time and computation of pay for services performed govern:
 
 &emsp;(1) A month's pay is one-twelfth of a year's pay.
 

@@ -92,7 +92,7 @@ The changes correct typographical errors.
 
 #### Amendments
 
-1996—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been calledor ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
+1996—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
 
 1994—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
 
@@ -100,7 +100,7 @@ The changes correct typographical errors.
 
 1985—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
 
-1980—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
+1980—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982,except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
 
 Pub. L. 96–343 added cl. (iv).
 

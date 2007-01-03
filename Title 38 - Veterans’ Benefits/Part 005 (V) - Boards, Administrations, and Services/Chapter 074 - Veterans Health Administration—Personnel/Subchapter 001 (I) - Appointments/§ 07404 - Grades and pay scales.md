@@ -1,6 +1,6 @@
 ### §7404. Grades and pay scales
 
-(a) The annual rates or ranges of rates of basic pay for positions provided in section 7306 of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law. The pay of physicians and dentists serving in positions to which an Executive order applies under the preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.
+(a) The annual rates or ranges of rates of basic pay for positions provided in section 7306 of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law. The pay of physicians and dentists serving in positions to which an Executive order applies underthe preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.
 
 (b) The grades for positions provided for in paragraph (1) of section 7401 of this title shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
 
@@ -36,9 +36,11 @@ Associate grade.
 
 (c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed under section 7306 of this title who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 
-(d) Except as provided under subchapter III and in section 7457 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
+(d) Except as provided under subsection (e), subchapter III, and section 7457 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, §206, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §301(a), Nov. 4, 1992, 106 Stat. 4951; Pub. L. 108–170, title III, §302(d), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 108–445, §3(a), (f), Dec. 3, 2004, 118 Stat. 2636, 2643.)
+(e) The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid at a rate determined by the Secretary, not to exceed the maximum rate established for the Senior Executive Service under section 5382 of title 5.
+
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, §206, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §301(a), Nov. 4, 1992, 106 Stat. 4951; Pub. L. 108–170, title III, §302(d), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 108–445, §3(a), (f), Dec. 3, 2004, 118 Stat. 2636, 2643; Pub. L. 109–461, title II, §202, Dec. 22, 2006, 120 Stat. 3410.)
 
 #### Prior Provisions
 
@@ -46,11 +48,15 @@ Provisions similar to those in this section were contained in section 4107(a)–
 
 #### Amendments
 
+2006—Subsec. (d). Pub. L. 109–461, §202(1), substituted “subsection (e), subchapter III, and” for “subchapter III and in”.
+
+Subsec. (e). Pub. L. 109–461, §202(2), added subsec. (e).
+
 2004—Subsec. (a). Pub. L. 108–445, §3(a)(2), inserted at end “The pay of physicians and dentists serving in positions to which an Executive order applies under the preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.”
 
 Subsec. (b). Pub. L. 108–445, §3(a)(1), struck out “(1)” after “(b)”, inserted items relating to Physician grade and Dentist grade under heading “
 
-physician and dentist schedule” and struck out former items under that heading, which read “Director grade”, “Executive grade”, “Chief grade”, “Senior grade”, “Intermediate grade”, “Full grade”, and “Associate grade”, and struck out par. (2). Prior to amendment, par. (2) read as follows: “A person may not hold the director grade inthe Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.”
+physician and dentist schedule” and struck out former items under that heading, which read “Director grade”, “Executive grade”, “Chief grade”, “Senior grade”, “Intermediate grade”, “Full grade”, and “Associate grade”, and struck out par. (2). Prior to amendment, par. (2) read as follows: “A person may not hold the director grade in the Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.”
 
 Subsec. (c). Pub. L. 108–445, §3(f)(1), substituted “pay” for “special pay”.
 

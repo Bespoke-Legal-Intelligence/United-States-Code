@@ -5,50 +5,21 @@
 | [49\.](%C2%A7%2000049%20-%20United%20States%20Employment%20Service%20established.md) | United States Employment Service established. |
 | [49a.](%C2%A7%2000049a%20-%20Definitions.md) | Definitions. |
 | [49b.](%C2%A7%2000049b%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
-| (a) | Assistance to State public employment services. |
-| (b) | Provision of unemployment compensation information. |
-| (c) | Public labor exchange services. |
 | [49c.](%C2%A7%2000049c%20-%20Acceptance%20by%20States%3B%20creation%20of%20State%20agencies.md) | Acceptance by States; creation of State agencies. |
 | 49c–1. | Transfer to States of property used by United States Employment Service. |
 | 49c–2 to 49c–5. Omitted, Repealed, or Transferred. |  |
 | [49d.](%C2%A7%2000049d%20-%20Appropriations%3B%20certification%20for%20payment%20to%20States.md) | Appropriations; certification for payment to States. |
-| (a) | Authorization of appropriations. |
-| (b) | Certification for payment to States. |
-| (c) | Availability of appropriations. |
 | 49d–1. | Omitted. |
 | [49e.](%C2%A7%2000049e%20-%20Allotment%20of%20funds.md) | Allotment of funds. |
 | [49f.](%C2%A7%2000049f%20-%20Percentage%20disposition%20of%20allotted%20funds.md) | Percentage disposition of allotted funds. |
-| (a) | Use of 90 percent of funds allotted. |
-| (b) | Use of 10 percent of funds allotted. |
-| (c) | Joint funding. |
-| (d) | Performance of services and activities under contract. |
-| (e) | Provision of services as part of one-stop delivery system. |
 | [49g.](%C2%A7%2000049g%20-%20State%20plans.md) | State plans. |
-| (a) | Submission to Secretary. |
-| (b) | Contents of plans. |
-| (c) | Information on coordination of workforce investment activities and one-stop delivery system development. |
-| (d) | Approval by Secretary. |
 | [49h.](%C2%A7%2000049h%20-%20Fiscal%20controls%20and%20accounting%20procedures.md) | Fiscal controls and accounting procedures. |
-| (a) | Audit. |
-| (b) | Evaluations by Comptroller General. |
-| (c) | Repayment of funds by State. |
 | [49i.](%C2%A7%2000049i%20-%20Recordkeeping%20and%20accountability.md) | Recordkeeping and accountability. |
-| (a) | Records. |
-| (b) | Investigations. |
-| (c) | Reports. |
 | [49j.](%C2%A7%2000049j%20-%20Notice%20of%20strikes%20and%20lockouts%20to%20applicants.md) | Notice of strikes and lockouts to applicants. |
 | [49k.](%C2%A7%2000049k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | 49<i>l.</i> | Miscellaneous operating authorities. |
 | 49<i>l</i>–1. | Authorization of appropriations. |
 | 49<i>l</i>–2. | Employment statistics. |
-| (a) | System content. |
-| (b) | System responsibilities. |
-| (c) | Annual plan. |
-| (d) | Coordination with the States. |
-| (e) | State responsibilities. |
-| (f) | Nonduplication requirement. |
-| (g) | Authorization of appropriations. |
-| (h) | “Local area” defined. |
 | 49m, 49n. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

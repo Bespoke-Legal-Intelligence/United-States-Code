@@ -8,7 +8,7 @@ General Rule.—Except as provided under subsection (b), a member of the armed f
 
 Exceptions.—The Secretary concerned may prohibit the wearing of an item of religious apparel—
 
-&emsp;(1) in circumstances with respect to which the Secretary determines that the wearing of the item would interfere with the performance of the member's military duties; or
+&emsp;(1) in circumstances with respect to which the Secretary determines that the wearing ofthe item would interfere with the performance of the member's military duties; or
 
 &emsp;(2) if the Secretary determines, under regulations under subsection (c), that the item of apparel is not neat and conservative.
 
@@ -28,5 +28,5 @@ A prior section 774 was renumbered section 776 of this title.
 
 #### Regulations
 
-Section 508(c) of Pub. L. 100–180 provided that: “The Secretary concerned shall prescribe the regulations required by section 774(c) of title 10, United States Code, as added by subsection (a), not later than the end of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title V, §508(c), Dec. 4, 1987, 101 Stat. 1087, directed the Secretary concerned to prescribe the regulations required by subsec. (c) of this section not later than the end of the 120-day period beginning on Dec. 4, 1987.
 

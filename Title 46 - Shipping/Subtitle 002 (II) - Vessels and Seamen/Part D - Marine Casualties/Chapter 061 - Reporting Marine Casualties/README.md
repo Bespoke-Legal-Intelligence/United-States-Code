@@ -17,10 +17,6 @@ Chapter 61 provides for the reporting of marine casualties and incidents involvi
 
 1988—Pub. L. 100–424, §4(c), Sept. 9, 1988, 102 Stat. 1591, added item 6104.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 13102 of this title.
-
 
 ---
 

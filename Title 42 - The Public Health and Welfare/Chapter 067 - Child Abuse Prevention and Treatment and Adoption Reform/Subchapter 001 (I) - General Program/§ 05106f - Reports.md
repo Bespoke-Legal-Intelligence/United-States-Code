@@ -4,7 +4,7 @@
 
 #### (b) Effectiveness of State programs
 
-Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit to the appropriate committees of Congress a reportevaluating the effectiveness of assisted programs in achieving the objectives of section 5106c of this title.
+Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of assisted programs in achieving the objectives of section 5106c of this title.
 
 #### (c) Study and report relating to citizen review panels
 

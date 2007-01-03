@@ -130,7 +130,7 @@ Subsec. (a)(3). Pub. L. 104–208, §203(b)(4), added par. (3).
 
 Subsec. (d). Pub. L. 104–208, §219, added subsec. (d).
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §60024(1)(F), as amended by Pub. L. 104–208, §671(a)(1), substituted“shall be punished as provided in subparagraph (B)” for “shall be fined in accordance with title 18, United States Code, or imprisoned not more than five years, or both, for each alien in respect to whom any violation of this paragraph occurs” in concluding provisions.
+1994—Subsec. (a)(1). Pub. L. 103–322, §60024(1)(F), as amended by Pub. L. 104–208, §671(a)(1), substituted “shall be punished as provided in subparagraph (B)” for “shall be fined in accordance with title 18, United States Code, or imprisoned not more than five years, or both, for each alien in respect to whom any violation of this paragraph occurs” in concluding provisions.
 
 Pub. L. 103–322, §60024(1)(A)–(E), (G), designated existing provisions of par. (1) as subpar. (A) of par. (1), redesignated subpars. (A) to (D) of former par. (1) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
 
@@ -174,7 +174,7 @@ Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: “Except 
 
 #### Effective Date of 1996 Amendment
 
-Section 203(f) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 203(f) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and enacting provisions set out as a note under section 994 ofTitle 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 Amendment by section 671(a)(1) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 

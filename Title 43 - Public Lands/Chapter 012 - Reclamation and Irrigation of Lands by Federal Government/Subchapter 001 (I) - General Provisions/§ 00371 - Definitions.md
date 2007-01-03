@@ -76,7 +76,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;“(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have major responsibilities in assisting States in the wise management and allocation of scarce water resources; and
 
-&emsp;“(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey \[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
+&emsp;“(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey\[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
 
 #### “SEC. 3003. PRESIDENTIAL REVIEW.
 
@@ -144,7 +144,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;“(2) use the United States mail in the same manner and upon the same conditions as other departments and agencies of the United States;
 
-&emsp;“(3) enter into contracts or agreements for studies and surveys with public and private organizations and transfer funds to Federal agencies to carry out such aspects of the Commission's functions as the Commission determines can best be carried out in that manner; and
+&emsp;“(3) enter into contracts or agreements for studies and surveys with public and private organizationsand transfer funds to Federal agencies to carry out such aspects of the Commission's functions as the Commission determines can best be carried out in that manner; and
 
 &emsp;“(4) incur such necessary expenses and exercise such other powers as are consistent with and reasonably required to perform its functions under this title.
 

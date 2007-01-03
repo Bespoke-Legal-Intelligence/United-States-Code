@@ -24,7 +24,17 @@ Application of Other Laws.—Subsections (c) and (d) of section 9344 of this tit
 
 Regulations.—The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 
-(Added Pub. L. 105–85, div. A, title V, §542(c)(1), Nov. 18, 1997, 111 Stat. 1742; amended Pub. L. 106–65, div. A, title V, §535(c), Oct. 5, 1999, 113 Stat. 606.)
+(Added Pub. L. 105–85, div. A, title V, §542(c)(1), Nov. 18, 1997, 111 Stat. 1742; amended Pub. L. 106–65, div. A, title V, §535(c), Oct. 5, 1999, 113 Stat. 606; Pub. L. 109–364, div. A, title V, §531(c), Oct. 17, 2006, 120 Stat. 2199.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–364, div. A, title V, §531(c), (d), Oct. 17, 2006, 120 Stat. 2199, provided that, effective Oct. 1, 2008, this section is amended:</i>
+
+<i>(1) in subsection (b), by striking “24” and inserting “100”; and</i>
+
+<i>(2) in subsection (c), by striking “for the Academy” and all that follows in paragraph (3) and inserting “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” and by adding at the end the following new paragraph:</i>
+
+<i>“(4) Expenditures in support of the exchange program from funds appropriated for the Naval Academy may not exceed $1,000,000 during any fiscal year.”</i>
 
 #### Prior Provisions
 
@@ -35,4 +45,8 @@ A prior section 9345, act Aug. 10, 1956, ch. 1041, 70A Stat. 565, related to sel
 1999—Subsec. (b). Pub. L. 106–65, §535(c)(1), substituted “24 Air Force cadets” for “10 Air Force cadets”.
 
 Subsec. (c)(3). Pub. L. 106–65, §535(c)(2), substituted “$120,000” for “$50,000”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 effective Oct. 1, 2008, see section 531(d) of Pub. L. 109–364, set out as a note under section 4345 of this title.
 

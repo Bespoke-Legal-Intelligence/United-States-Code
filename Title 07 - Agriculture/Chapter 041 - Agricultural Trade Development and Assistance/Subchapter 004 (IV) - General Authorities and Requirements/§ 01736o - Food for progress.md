@@ -226,7 +226,7 @@ In carrying out this section, the President shall approve, as determined appropr
 
 #### (3) Reports
 
-&emsp;Each eligible entity that enters into an agreement under this section shall submit to the President, at such time as the President may request, a report containing such information as the President may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
+&emsp;Each eligible entity that enters into an agreement under this section shall submit tothe President, at such time as the President may request, a report containing such information as the President may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
 
 #### (<i>o</i>) Private voluntary organizations and other private entities
 

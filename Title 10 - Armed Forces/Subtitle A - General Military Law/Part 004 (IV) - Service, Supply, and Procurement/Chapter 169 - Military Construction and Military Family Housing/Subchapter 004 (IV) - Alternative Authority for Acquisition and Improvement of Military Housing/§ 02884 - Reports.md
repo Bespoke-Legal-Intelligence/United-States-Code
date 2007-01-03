@@ -78,5 +78,5 @@ Subsec. (b)(3) to (5). Pub. L. 108–136, §2807(b)(2), added pars. (3) to (5) a
 
 #### Final Report
 
-Section 2801(b) of Pub. L. 104–106 provided that: “Not later than March 1, 2000, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and House of Representatives\] a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of title 10, United States Code, as added by subsection (a). The report shall assess the effectiveness of such authority in providing for the construction and improvement of military family housing and military unaccompanied housing.”
+Pub. L. 104–106, div. B, title XXVIII, §2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
 

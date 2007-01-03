@@ -1,6 +1,6 @@
 ### §1702. Superintendent of Documents; sale of documents
 
-The Public Printer shall appoint a competent person to act as Superintendent of Documentswho shall be under the control of the Public Printer.
+The Public Printer shall appoint a competent person to act as Superintendent of Documents who shall be under the control of the Public Printer.
 
 When an officer of the Government having in his charge documents published for sale desires to be relieved of them, he may turn them over to the Superintendent of Documents, who shall receive and sell them under this section. Moneys received from the sale of documents shall be returned to the Public Printer on the first day of each month and be covered into the Treasury monthly.
 

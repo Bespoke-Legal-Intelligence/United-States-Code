@@ -10,7 +10,7 @@ General.—(1) In paragraph (2)(C) of this subsection, “24-hour period” mean
 
 &emsp;(B) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty; or
 
-&emsp;(C) after that employee has been on duty a total of 12 hours during a 24-hour period, orafter the end of that 24-hour period, whichever occurs first, until that employee has had at least 8 consecutive hours off duty.
+&emsp;(C) after that employee has been on duty a total of 12 hours during a 24-hour period, or after the end of that 24-hour period, whichever occurs first, until that employee has had at least 8 consecutive hours off duty.
 
 (b)
 

@@ -13,9 +13,6 @@
 | [2325\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20A%20-%20Organization%20and%20Publications/%C2%A7%2002325%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93574%2C%20%C2%A72%2C%20Dec.%2022%2C%201980%2C%2094%20Stat.%203350.md) | Repealed. |
 | [2326\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20A%20-%20Organization%20and%20Publications/%C2%A7%2002326%20-%20Regulations.md) | Regulations. |
 | [2327\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20A%20-%20Organization%20and%20Publications/%C2%A7%2002327%20-%20Plant%20Variety%20Protection%20Board.md) | Plant Variety Protection Board. |
-| (a) | Appointment. |
-| (b) | Functions of Board. |
-| (c) | Compensation of Board. |
 | [2328\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20A%20-%20Organization%20and%20Publications/%C2%A7%2002328%20-%20Library.md) | Library. |
 | [2329\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20A%20-%20Organization%20and%20Publications/%C2%A7%2002329%20-%20Register%20of%20protected%20plant%20varieties.md) | Register of protected plant varieties. |
 | [2330\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20A%20-%20Organization%20and%20Publications/%C2%A7%2002330%20-%20Publications.md) | Publications. |
@@ -42,11 +39,6 @@
 |  |  |
 | :--- | ---: |
 | [2371\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20C%20-%20Plant%20Variety%20Protection%20Fees/%C2%A7%2002371%20-%20Plant%20variety%20protection%20fees.md) | Plant variety protection fees. |
-| (a) | In general. |
-| (b) | Late payment penalty. |
-| (c) | Disposition of funds. |
-| (d) | Actions for nonpayment. |
-| (e) | Authorization of appropriations. |
 | [2372\.](Subchapter%20001%20%28I%29%20-%20Plant%20Variety%20Protection%20Office/Part%20C%20-%20Plant%20Variety%20Protection%20Fees/%C2%A7%2002372%20-%20Payment%20of%20plant%20variety%20protection%20fees%3B%20return%20of%20excess%20amounts.md) | Payment of plant variety protection fees; return of excess amounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,11 +50,7 @@
 |  |  |
 | :--- | ---: |
 | [2401\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20D%20-%20Protectability%20of%20Plant%20Varieties/%C2%A7%2002401%20-%20Definitions%20and%20rules%20of%20construction.md) | Definitions and rules of construction. |
-| (a) | Definitions. |
-| (b) | Rules of construction. |
 | [2402\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20D%20-%20Protectability%20of%20Plant%20Varieties/%C2%A7%2002402%20-%20Right%20to%20plant%20variety%20protection%3B%20plant%20varieties%20protectable.md) | Right to plant variety protection; plant varieties protectable. |
-| (a) | In general. |
-| (b) | Multiple applicants. |
 | [2403\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20D%20-%20Protectability%20of%20Plant%20Varieties/%C2%A7%2002403%20-%20Reciprocity%20limits.md) | Reciprocity limits. |
 | [2404\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20D%20-%20Protectability%20of%20Plant%20Varieties/%C2%A7%2002404%20-%20Public%20interest%20in%20wide%20usage.md) | Public interest in wide usage. |
 
@@ -109,9 +97,6 @@
 | [2481\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20H%20-%20Certificates%20of%20Plant%20Variety%20Protection/%C2%A7%2002481%20-%20Plant%20variety%20protection.md) | Plant variety protection. |
 | [2482\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20H%20-%20Certificates%20of%20Plant%20Variety%20Protection/%C2%A7%2002482%20-%20How%20issued.md) | How issued. |
 | [2483\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20H%20-%20Certificates%20of%20Plant%20Variety%20Protection/%C2%A7%2002483%20-%20Contents%20and%20term%20of%20plant%20variety%20protection.md) | Contents and term of plant variety protection. |
-| (a) | Certificate. |
-| (b) | Term. |
-| (c) | Expiration upon failure to comply with regulations; notice. |
 | [2484\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20H%20-%20Certificates%20of%20Plant%20Variety%20Protection/%C2%A7%2002484%20-%20Correction%20of%20Plant%20Variety%20Protection%20Office%20mistake.md) | Correction of Plant Variety Protection Office mistake. |
 | [2485\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20H%20-%20Certificates%20of%20Plant%20Variety%20Protection/%C2%A7%2002485%20-%20Correction%20of%20applicant%27s%20mistake.md) | Correction of applicant's mistake. |
 | [2486\.](Subchapter%20002%20%28II%29%20-%20Protectability%20of%20Plant%20Varieties%20and%20Certificates%20of%20Protection/Part%20H%20-%20Certificates%20of%20Plant%20Variety%20Protection/%C2%A7%2002486%20-%20Correction%20of%20named%20breeder.md) | Correction of named breeder. |
@@ -144,12 +129,6 @@
 |  |  |
 | :--- | ---: |
 | [2541\.](Subchapter%20003%20%28III%29%20-%20Plant%20Variety%20Protection%20and%20Rights/Part%20K%20-%20Infringement%20of%20Plant%20Variety%20Protection/%C2%A7%2002541%20-%20Infringement%20of%20plant%20variety%20protection.md) | Infringement of plant variety protection. |
-| (a) | Acts constituting infringement. |
-| (b) | Uses authorized by owner. |
-| (c) | Applicability to certain plant varieties. |
-| (d) | Acts not considered infringing. |
-| (e) | Private noncommercial uses. |
-| (f) | “Perform without authority” defined. |
 | [2542\.](Subchapter%20003%20%28III%29%20-%20Plant%20Variety%20Protection%20and%20Rights/Part%20K%20-%20Infringement%20of%20Plant%20Variety%20Protection/%C2%A7%2002542%20-%20Grandfather%20clause.md) | Grandfather clause. |
 | [2543\.](Subchapter%20003%20%28III%29%20-%20Plant%20Variety%20Protection%20and%20Rights/Part%20K%20-%20Infringement%20of%20Plant%20Variety%20Protection/%C2%A7%2002543%20-%20Right%20to%20save%20seed%3B%20crop%20exemption.md) | Right to save seed; crop exemption. |
 | [2544\.](Subchapter%20003%20%28III%29%20-%20Plant%20Variety%20Protection%20and%20Rights/Part%20K%20-%20Infringement%20of%20Plant%20Variety%20Protection/%C2%A7%2002544%20-%20Research%20exemption.md) | Research exemption. |

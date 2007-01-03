@@ -1,12 +1,16 @@
 ### §2667. Leases: non-excess property of military departments
 
-(a) Whenever the Secretary of a military department considers it advantageous to the United States, he may lease to such lessee and upon such terms as he considers will promote the national defense or be in the public interest, real or personal property that is—
+(a)
+
+Lease Authority.—Whenever the Secretary of a military department considers it advantageous to the United States, he may lease to such lessee and upon such terms as he considers will promote the national defense or be in the public interest, real or personal property that is—
 
 &emsp;(1) under the control of that department; and
 
 &emsp;(2) not excess property, as defined by section 102 of title 40.
 
-(b) A lease under subsection (a)—
+(b)
+
+Conditions on Leases.—A lease under subsection (a)—
 
 &emsp;(1) may not be for more than five years, unless the Secretary concerned determines that a lease for a longer period will promote the national defense or be in the public interest;
 
@@ -14,11 +18,15 @@
 
 &emsp;(3) shall permit the Secretary to revoke the lease at any time, unless he determines that the omission of such a provision will promote the national defense or be in the public interest;
 
-&emsp;(4) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Secretary; and
+&emsp;(4) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Secretary;
 
-&emsp;(5) may provide, notwithstanding section 1302 of title 40 or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
+&emsp;(5) may provide, notwithstanding section 1302 of title 40 or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease; and
 
-(c)(1) In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
+&emsp;(6) except as otherwise provided in subsection (d), shall require the lessee to provide the covered entities specified in paragraph (1) of that subsection the right to establish and operate a community support facility or provide community support services, or seek equitable compensation for morale, welfare, and recreation programs of the Department of Defense in lieu of the operation of such a facility or the provision of such services, if the Secretary determines that the lessee will provide merchandise or services in direct competition with covered entities through the lease.
+
+(c)
+
+Types of In-Kind Consideration.—(1) In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
 
 &emsp;(A) Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned.
 
@@ -36,11 +44,41 @@
 
 (4) In the case of a lease for which all or part of the consideration proposed to be accepted by the Secretary concerned under this subsection is in-kind consideration with a value in excess of $500,000, the Secretary concerned may not enter into the lease until 30 days after the date on which a report on the facts of the lease is submitted to the congressional defense committees.
 
-(d)(1)(A) The Secretary of a military department shall deposit in a special account in the Treasury established for such military department the following:
+(d)
+
+Community Support Facilities and Community Support Services Under Lease; Waiver.—(1) In this subsection and subsection (b)(6), the term “covered entity” means each of the following:
+
+&emsp;(A) The Army and Air Force Exchange Service.
+
+&emsp;(B) The Navy Exchange Service Command.
+
+&emsp;(C) The Marine Corps exchanges.
+
+&emsp;(D) The Defense Commissary Agency.
+
+&emsp;(E) The revenue-generating nonappropriated fund activities of the Department of Defense conducted for the morale, welfare, and recreation of members of the armed forces.
+
+(2) The Secretary of a military department may waive the requirement in subsection (b)(6) with respect to a lease if—
+
+&emsp;(A) the lease is entered into under subsection (g); or
+
+&emsp;(B) the Secretary determines that the waiver is in the best interests of the Government.
+
+(3) The Secretary of the military department concerned shall provide to the congressional defense committees written notice of each waiver under paragraph (2), including the reasons for the waiver.
+
+(4) The covered entities shall exercise the right provided in subsection (b)(6) with respect to a lease, if at all, not later than 90 days after receiving notice from the Secretary of the military department concerned regarding the opportunity to exercise such right with respect to the lease. The Secretary may, at the discretion of the Secretary, extend the period under this paragraph for the exercise of the right with respect to a lease for such additional period as the Secretary considers appropriate.
+
+(5) The Secretary of Defense shall prescribe in regulations uniform procedures and criteria for the evaluation of proposals for enhanced use leases involving the operation of community support facilities or the provision of community support services by either a lessee under this section or a covered entity.
+
+(6) The Secretary of the military department concerned shall provide written notification to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives regarding all leases under this section that include the operation of a community support facility or the provision of community support services, regardless of whether the facility will be operated by a covered entity or the lessee or the services will be provided by a covered entity or the lessee.
+
+(e)
+
+Deposit and Use of Proceeds.—(1)(A) The Secretary of a military department shall deposit in a special account in the Treasury established for such military department the following:
 
 &emsp;(i) All money rentals received pursuant to leases entered into by that Secretary under this section.
 
-&emsp;(ii) All proceeds received pursuant to the granting of easements by that Secretary under sections 2668 and 2669 of this title.
+&emsp;(ii) All proceeds received pursuant to the granting of easements by that Secretary under sections 2668 and 2669 <sup>1</sup> of this title.
 
 &emsp;(iii) All proceeds received by that Secretary from authorizing the temporary use of other property under the control of that military department.
 
@@ -48,7 +86,7 @@
 
 &emsp;(i) Amounts paid for utilities and services furnished lessees by the Secretary of a military department pursuant to leases entered into under this section.
 
-&emsp;(ii) Money rentals referred to in paragraph (4) or (5).
+&emsp;(ii) Money rentals referred to in paragraph (4), (5), or (6).
 
 (C) Subject to subparagraphs (D) and (E), the proceeds deposited in the special account of a military department pursuant to subparagraph (A) shall be available to the Secretary of that military department, in such amounts as provided in appropriation Acts, for the following:
 
@@ -70,11 +108,17 @@
 
 (4) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary of a military department (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
 
-(5) Money rentals received by the United States from a lease under subsection (f) shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+(5) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005, shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(e) The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
+(6) Money rentals received by the United States from a lease under subsection (f) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(f)(1) Notwithstanding subsection (a)(3) <sup>1</sup> or subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (to the extent subtitle I and title III are inconsistent with this subsection), pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary of the military department concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
+(f)
+
+Treatment of Lessee Interest in Property.—The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
+
+(g)
+
+Special Rules for Base Closure and Realignment Property.—(1) Notwithstanding subsection (a)(2) or subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (to the extent subtitle I and title III are inconsistent with this subsection), pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary of the military department concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
 
 (2) Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease interest if the Secretary concerned determines that—
 
@@ -94,9 +138,11 @@
 
 &emsp;(ii) irreversibly alter the environment in a way that would preclude any reasonable disposal alternative of the property concerned.
 
-(g)(1) If a proposed lease under subsection (a) involves only personal property, the lease term exceeds one year, and the fair market value of the lease interest exceeds $100,000, as determined by the Secretary concerned, the Secretary shall use competitive procedures to select the lessee.
+(h)
 
-(2) Not later than 45 days before entering into a lease described in paragraph (1), the Secretaryconcerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.
+Competitive Procedures for Selection of Certain Lessees; Exception.—(1) If a proposed lease under subsection (a) involves only personal property, the lease term exceeds one year, and the fair market value of the lease interest exceeds $100,000, as determined by the Secretary concerned, the Secretary shall use competitive procedures to select the lessee.
+
+(2) Not later than 45 days before entering into a lease described in paragraph (1), the Secretary concerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.
 
 (3) Paragraph (1) does not apply to a renewal or extension of a lease by the Secretary of the Navy with a selected institution for operation of a ship within the University National Oceanographic Laboratory System if, under the lease, each of the following applies:
 
@@ -106,11 +152,21 @@
 
 &emsp;(C) The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
 
-(h) In this section, the term “military installation” has the meaning given such term in section 2687(e)(1) of this title.
+(i)
 
-(i) This section does not apply to oil, mineral, or phosphate lands.
+Definitions.—In this section:
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641.)
+&emsp;(1) The term “community support facility” includes an ancillary supporting facility (as that term is defined in section 2871(1) of this title).
+
+&emsp;(2) The term “community support services” includes revenue-generating food, recreational, lodging support services, and resale operations and other retail facilities and services intended to support a community.
+
+&emsp;(3) The term “military installation” has the meaning given such term in section 2687(e)(1) of this title.
+
+(j)
+
+Exclusion of Certain Lands.—This section does not apply to oil, mineral, or phosphate lands.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480.)
 
 Historical and Revision Notes
 
@@ -192,13 +248,39 @@ In subsection (e), the words “of property” are inserted for clarity. The wor
 
 #### References in Text
 
-Subsection (a)(3), referred to in subsec. (f)(1), was redesignated subsec. (a)(2) of this section by Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416.
+Section 2669 of this title, referred to in subsec. (e)(1)(A)(ii), was repealed by Pub. L. 109–364, div. B, title XXVIII, §2822(c), Oct. 17, 2006, 120 Stat. 2475.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (f)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–364, §662(d)(1), inserted heading.
+
+Subsec. (b). Pub. L. 109–364, §662(d)(2), inserted heading.
+
+Subsec. (b)(6). Pub. L. 109–364, §662(a), added par. (6).
+
+Subsec. (c). Pub. L. 109–364, §662(d)(3), inserted heading.
+
+Subsec. (d). Pub. L. 109–364, §662(b), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 109–364, §2831, which directed the amendment of subsec. (d) by substituting “paragraph (4), (5), or (6)” for “paragraph (4) or (5)” in par. (1)(B)(ii), inserting “at a military installation approved for closure or realignment under a base closure law before January 1, 2005,” after “lease under subsection (f)” in par. (5), and adding par. (6) at the end, was executed by making the substitution in subsec. (e)(1)(B)(ii), by making the insertion after “lease under subsection (g)” in subsec. (e)(5), and by adding par. (6) at the end of subsec. (e), to reflect the probable intent of Congress and the amendments by Pub. L. 109–364, §662(b)(1), (d)(4)(B). See below.
+
+Pub. L. 109–364, §662(d)(4), inserted heading and substituted “(g)” for “(f)” in par. (5).
+
+Pub. L. 109–364, §662(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 109–364, §662(b)(1), (d)(5), redesignated subsec. (e) as (f) and inserted heading. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 109–364, §662(b)(1), (d)(6), redesignated subsec. (f) as (g), inserted heading, and substituted “(a)(2)” for “(a)(3)” in par. (1). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 109–364, §662(b)(1), (d)(7), redesignated subsec. (g) as (h) and inserted heading. Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 109–364, §662(b)(1), (c), redesignated subsec. (h) as (i), inserted heading, and amended text of subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “In this section, the term ‘military installation’ has the meaning given such term in section 2687(e)(1) of this title.” Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 109–364, §662(b)(1), (d)(8), redesignated subsec. (i) as (j) and inserted heading.
 
 2003—Subsec. (b)(5). Pub. L. 108–178 struck out comma after “of title 40”.
 
@@ -294,7 +376,7 @@ Subsec. (b)(5). Pub. L. 102–190, §2862(a)(2), (4), redesignated par. (4) as (
 
 Subsec. (d)(3). Pub. L. 102–190, §2862(b), redesignated subpar. (B) as par. (3), substituted “As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year” for “As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and of the House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts.”
 
-1990—Subsec. (d). Pub. L. 101–510 added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), money rentals received by the United States directly from a lease under this section shall be covered into the Treasury as miscellaneous receipts. Payments for utilities or services furnished to the lessee under such a lease by the department concerned may be covered into the Treasury to the credit of the appropriation from which the cost of furnishing them was paid.”
+1990—Subsec. (d). Pub. L. 101–510 added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), money rentals received by the United States directly from a lease under this sectionshall be covered into the Treasury as miscellaneous receipts. Payments for utilities or services furnished to the lessee under such a lease by the department concerned may be covered into the Treasury to the credit of the appropriation from which the cost of furnishing them was paid.”
 
 1982—Subsec. (b)(4). Pub. L. 97–295 substituted “of” for “entitled ‘An Act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved” after “section 321 of the Act”.
 
@@ -326,7 +408,7 @@ Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pendi
 
 #### Transfers From Special Accounts
 
-Pub. L. 108–287, title VIII, §8034, Aug. 5, 2004, 118 Stat. 978, provided that: “Amounts deposited during the current fiscal year and hereafter to the special account established under 40 U.S.C. 572(b)(5)(A) and to the special account established under 10 U.S.C. 2667(d)(1) are appropriated and shall be available until transferred by the Secretary of Defense to current applicable appropriations or funds of the Department of Defense under the terms and conditions specified by 40 U.S.C. 572(b)(5)(B) and 10 U.S.C. 2667(d)(1)(B), to be merged with and to be available for the same time period and the same purposes as the appropriation to which transferred.”
+Pub. L. 108–287, title VIII, §8034, Aug. 5, 2004, 118 Stat. 978, provided that: “Amounts deposited during the current fiscal year and hereafter to the special account established under 40 U.S.C. 572(b)(5)(A) and to the special account established under 10 U.S.C. 2667(d)(1) \[now 2667(e)(1)\] are appropriated and shall be available until transferred by the Secretary of Defense to current applicable appropriations or funds of the Department of Defense under the terms and conditions specified by 40 U.S.C. 572(b)(5)(B) and 10 U.S.C. 2667(d)(1)(B) \[now 2667(e)(1)(B)\], to be merged with and to be available for the same time period and the same purposes as the appropriation to which transferred.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

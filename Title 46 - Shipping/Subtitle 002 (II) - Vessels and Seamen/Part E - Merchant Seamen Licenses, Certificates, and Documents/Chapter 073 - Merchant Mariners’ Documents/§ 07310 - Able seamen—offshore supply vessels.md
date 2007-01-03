@@ -20,7 +20,3 @@ Section 7310 establishes the minimum service requirements for an individual to s
 
 1996—Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7312, 7315 of this title.
-

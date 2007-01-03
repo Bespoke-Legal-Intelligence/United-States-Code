@@ -4,8 +4,6 @@
 | :--- | ---: |
 | [5901\.](%C2%A7%2005901%20-%20Findings.md) | Findings. |
 | [5902\.](%C2%A7%2005902%20-%20State%20reciprocity%20of%20weapons%20licenses%20issued%20to%20armored%20car%20company%20crew%20members.md) | State reciprocity of weapons licenses issued to armored car company crew members. |
-| (a) | In general. |
-| (b) | Minimum State requirements. |
 | [5903\.](%C2%A7%2005903%20-%20Relation%20to%20other%20laws.md) | Relation to other laws. |
 | [5904\.](%C2%A7%2005904%20-%20Definitions.md) | Definitions. |
 

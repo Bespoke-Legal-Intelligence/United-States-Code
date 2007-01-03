@@ -40,7 +40,7 @@ As used in this subchapter:
 
 #### (10) Parcel number 3
 
-&emsp;The term “parcel number 3” means the area, encompassing approximately 2,469 acres, bounded on the south by the extension to the west of the northern boundary of the Northern Cheyenne Indian Reservation, on the east by the 107th meridian, on the north by the northern boundary of the Crow Indian Reservation, and on the west by the 1891 survey line.
+&emsp;The term “parcel number 3” means the area, encompassing approximately 2,469 acres,bounded on the south by the extension to the west of the northern boundary of the Northern Cheyenne Indian Reservation, on the east by the 107th meridian, on the north by the northern boundary of the Crow Indian Reservation, and on the west by the 1891 survey line.
 
 #### (11) Parcel number 4
 

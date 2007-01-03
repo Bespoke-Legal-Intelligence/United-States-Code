@@ -1,6 +1,6 @@
 ### §2804. Program performance reports
 
-(a) The Postal Service shall prepare a report on program performance for each fiscal year, which shall be included in the annual comprehensive statement presented under section 2401(g) of this title.
+(a) The Postal Service shall prepare a report on program performance for each fiscal year, which shall be included in the annual comprehensive statement presented under section 2401(e) of this title.
 
 (b)(1) The program performance report shall set forth the performance indicators established in the Postal Service performance plan, along with the actual program performance achieved compared with the performance goals expressed in the plan for that fiscal year.
 
@@ -24,5 +24,9 @@
 
 &emsp;(4) include the summary findings of those program evaluations completed during the fiscal year covered by the report.
 
-(Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 294.)
+(Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 294; amended Pub. L. 109–435, title X, §1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–435 substituted “section 2401(e)” for “section 2401(g)”.
 

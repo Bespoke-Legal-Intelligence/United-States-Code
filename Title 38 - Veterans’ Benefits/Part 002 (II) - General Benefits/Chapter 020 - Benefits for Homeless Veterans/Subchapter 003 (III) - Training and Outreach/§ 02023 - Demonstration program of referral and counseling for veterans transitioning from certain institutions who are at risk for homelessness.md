@@ -14,7 +14,7 @@ Scope of Program.—(1) To the extent practicable, the demonstration program sha
 
 (2)(A) To the extent that referral or counseling services are provided at a location under the program, referral services shall be provided in person during such period of time that the Secretaries may specify that precedes the date of release or discharge of the eligible veteran, and counseling services shall be furnished after such date.
 
-(B) The Secretaries may, as part of the program, furnish to officials of penal institutions outreach information with respect to referraland counseling services for presentation to veterans in the custody of such officials during the 18-month period that precedes such date of release or discharge.
+(B) The Secretaries may, as part of the program, furnish to officials of penal institutions outreach information with respect to referral and counseling services for presentation to veterans in the custody of such officials during the 18-month period that precedes such date of release or discharge.
 
 (3) The Secretaries may enter into contracts to carry out the referral and counseling services required under the program with entities or organizations that meet such requirements as the Secretaries may establish.
 

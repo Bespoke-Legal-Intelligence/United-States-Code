@@ -14,7 +14,7 @@ Authority.—Upon receipt of an application under section 592(c), the division o
 
 &emsp;(2)
 
-Qualifications of independent counsel.—The division of the court shall appointas independent counsel an individual who has appropriate experience and who will conduct the investigation and any prosecution in a prompt, responsible, and cost-effective manner. The division of the court shall seek to appoint as independent counsel an individual who will serve to the extent necessary to complete the investigation and any prosecution without undue delay. The division of the court may not appoint as an independent counsel any person who holds any office of profit or trust under the United States.
+Qualifications of independent counsel.—The division of the court shall appoint as independent counsel an individual who has appropriate experience and who will conduct the investigation and any prosecution in a prompt, responsible, and cost-effective manner. The division of the court shall seek to appoint as independent counsel an individual who will serve to the extent necessary to complete the investigation and any prosecution without undue delay. The division of the court may not appoint as an independent counsel any person who holds any office of profit or trust under the United States.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Procedure for request by independent counsel.—(A) If the independent counsel d
 
 (d)
 
-Return for Further Explanation.—Upon receipt of a notification under section 592 or subsection (c)(2)(B) of this section from the Attorney General that there are no reasonable grounds to believe that further investigation is warranted with respect to information received under this chapter, the division of the court shall have no authority to overrule this determination but may return the matter to the Attorney General for further explanation of the reasons for such determination.
+Return for Further Explanation.—Upon receipt of a notification under section 592 orsubsection (c)(2)(B) of this section from the Attorney General that there are no reasonable grounds to believe that further investigation is warranted with respect to information received under this chapter, the division of the court shall have no authority to overrule this determination but may return the matter to the Attorney General for further explanation of the reasons for such determination.
 
 (e)
 

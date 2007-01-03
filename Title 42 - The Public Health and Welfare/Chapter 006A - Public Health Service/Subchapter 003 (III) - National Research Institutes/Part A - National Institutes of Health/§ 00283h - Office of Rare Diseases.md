@@ -20,10 +20,6 @@ There is established within the Office of the Director of NIH an office to be kn
 
 &emsp;&emsp;(E) The Director shall promote and encourage the establishment of a centralized clearinghouse for rare and genetic disease information that will provide understandable information about these diseases to the public, medical professionals, patients and families.
 
-&emsp;&emsp;(F) The Director shall biennially prepare a report that describes the research and education activities on rare diseases being conducted or supported through the national research institutes and centers, and that identifies particular projects or types of projects that should in the future be conducted or supported by the national research institutes and centers or other entities in the field of research on rare diseases.
-
-&emsp;&emsp;(G) The Director shall prepare the NIH Director's annual report to Congress on rare disease research conducted by or supported through the national research institutes and centers.
-
 #### (2) Principal advisor regarding orphan diseases
 
 &emsp;With respect to rare diseases, the Director shall serve as the principal advisor to the Director of NIH and shall provide advice to other relevant agencies. The Director shall provide liaison with national and international patient, health and scientific organizations concerned with rare diseases.
@@ -32,11 +28,21 @@ There is established within the Office of the Director of NIH an office to be kn
 
 For purposes of this section, the term “rare disease” means any disease or condition that affects less than 200,000 persons in the United States.
 
-#### (d) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §404F, as added Pub. L. 107–280, §3, Nov. 6, 2002, 116 Stat. 1989; amended Pub. L. 109–482, title I, §§103(b)(5), 104(b)(1)(B), Jan. 15, 2007, 120 Stat. 3687, 3693.)
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $4,000,000 for each of the fiscal years 2003 through 2006.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §404F, as added Pub. L. 107–280, §3, Nov. 6, 2002, 116 Stat. 1989.)
+2007—Subsec. (b)(1)(F), (G). Pub. L. 109–482, §104(b)(1)(B), struck out subpars. (F) and (G) which read as follows:
+
+“(F) The Director shall biennially prepare a report that describes the research and education activities on rare diseases being conducted or supported through the national research institutes and centers, and that identifies particular projects or types of projects that should in the future be conducted or supported by the national research institutes and centers or other entities in the field of research on rare diseases.
+
+“(G) The Director shall prepare the NIH Director's annual report to Congress on rare disease research conducted by or supported through the national research institutes and centers.”
+
+Subsec. (d). Pub. L. 109–482, §103(b)(5), struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $4,000,000 for each of the fiscal years 2003 through 2006.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Findings and Purposes
 

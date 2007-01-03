@@ -20,5 +20,5 @@ The provisions of this section shall not apply to any oil or gas which is either
 
 #### References in Text
 
-The Export Administration Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–184, Dec. 30, 1969, 83Stat. 841, as amended, which was formerly classified to sections 2401 to 2413 of Title 50, Appendix, War and National Defense, and which terminated on Sept. 30, 1979, pursuant to the terms of that Act.
+The Export Administration Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, as amended, which was formerly classified to sections 2401 to 2413 of Title 50, Appendix, War and National Defense, and which terminated on Sept. 30, 1979, pursuant to the terms of that Act.
 

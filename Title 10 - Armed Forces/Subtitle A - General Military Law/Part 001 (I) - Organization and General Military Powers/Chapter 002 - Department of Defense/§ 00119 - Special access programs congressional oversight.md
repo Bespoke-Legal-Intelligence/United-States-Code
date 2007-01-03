@@ -36,7 +36,7 @@
 
 (3) In this subsection, the term “new special access program” means a special access program that has not previously been covered in a notice and justification under this subsection.
 
-(c)(1) Whenever a change in the classification of a special access program of the Department ofDefense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
+(c)(1) Whenever a change in the classification of a special access program of the Department of Defense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
 
 (2) Except as provided in paragraph (3), any report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change or public announcement is to occur.
 
@@ -90,17 +90,5 @@ Section 1482(d) of Pub. L. 101–510 provided that: “The amendments made by th
 
 #### Initial Reports on Special Access Programs
 
-Section 1132(b), (c) of Pub. L. 100–180 provided that:
-
-“(b)
-
-Five-Year Reference Amounts.—The first report under subsection (a) of section 119 of title 10, United States Code (as added by subsection (a)), shall set forth—
-
-&emsp;“(1) the total amount requested in the President's budget for each of the five previous fiscal years for special access programs of the Department of Defense that were included in the budget; and
-
-&emsp;“(2) the total amount appropriated for each such year for such programs.
-
-“(c)
-
-Initial Report on Special Access Program Designations.—The first report under subsection (b) of section 119 of title 10, United States Code (as added by subsection (a)), shall cover each existing special access program.”
+Pub. L. 100–180, div. A, title XI, §1132(b), (c), Dec. 4, 1987, 101 Stat. 1152, required that the first report under subsec. (a) of this section set forth the amount that had been requested in the President's budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.
 

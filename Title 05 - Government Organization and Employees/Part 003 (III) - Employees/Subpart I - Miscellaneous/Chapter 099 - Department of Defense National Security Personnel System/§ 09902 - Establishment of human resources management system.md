@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding any other provision of this part, the Secretary may, inregulations prescribed jointly with the Director, establish, and from time to time adjust, a human resources management system for some or all of the organizational or functional units of the Department of Defense. The human resources management system established under authority of this section shall be referred to as the “National Security Personnel System”.
+In General.—Notwithstanding any other provision of this part, the Secretary may, in regulations prescribed jointly with the Director, establish, and from time to time adjust, a human resources management system for some or all of the organizational or functional units of the Department of Defense. The human resources management system established under authority of this section shall be referred to as the “National Security Personnel System”.
 
 (b)
 
@@ -138,7 +138,7 @@ Provisions To Ensure Collaboration With Employee Representatives.—(1) In order
 
 &emsp;(2) The Secretary may, at the Secretary's discretion, engage in any and all collaboration activities described in this subsection at an organizational level above the level of exclusive recognition.
 
-&emsp;(3) In the case of any employees who are not within a unit with respect to which a labor organization is accorded exclusive recognition,the Secretary and the Director may develop procedures for representation by any appropriate organization which represents a substantial percentage of those employees or, if none, in such other manner as may be appropriate, consistent with the purposes of this subsection.
+&emsp;(3) In the case of any employees who are not within a unit with respect to which a labor organization is accorded exclusive recognition, the Secretary and the Director may develop procedures for representation by any appropriate organization which represents a substantial percentage of those employees or, if none, in such other manner as may be appropriate, consistent with the purposes of this subsection.
 
 &emsp;(4) The procedures under this subsection are the exclusive procedures for the participation of employee representatives in the planning, development, implementation, or adjustment of the National Security Personnel System.
 
@@ -184,7 +184,7 @@ Provisions Relating to Appellate Procedures.—(1) The Secretary—
 
 &emsp;(C) would otherwise be eligible to appeal a performance-based or adverse action under chapter 43 or 75, as applicable, to the Merit Systems Protection Board,
 
-> shall have the right to petition the full Merit Systems Protection Board for review of the record of that decision pursuant to regulations established under paragraph (2). The Board may dismiss any petition that, in the view of the Board, does not raise substantial questions of fact or law. No personnel action shall be stayed and no interim relief shall be granted during the pendency of the Board's review unless specifically ordered by the Board.
+> shall have the right to petition the full Merit Systems Protection Board for review of the record of that decision pursuant to regulations established under paragraph (2). The Board may dismiss any petition that, in the view of the Board, does not raise substantial questions of fact or law. No personnel action shall be stayedand no interim relief shall be granted during the pendency of the Board's review unless specifically ordered by the Board.
 
 (5) The Board may order such corrective action as the Board considers appropriate only if the Board determines that the decision was—
 
@@ -234,7 +234,7 @@ Provisions Related to Separation and Retirement Incentives.—(1) The Secretary 
 
 (B) An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 (Public Law 103–236; <sup>1</sup> 108 Stat. 111) and accepts employment with the Government of the United States, or who commences work through a personal services contract with the United States within 5 years after the date of the separation on which payment of the separation pay is based, shall be required to repay the entire amount of the separation pay to the Department of Defense. If the employment is with an Executive agency (as defined by section 105) other than the Department of Defense, the Director may, at the request of the head of that agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is within the Department of Defense, the Secretary may waive the repayment if the individual involved is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
-(7) Under this program, early retirement and separation pay may be offered only pursuant toregulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
+(7) Under this program, early retirement and separation pay may be offered only pursuant to regulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
 
 (j)
 

@@ -40,7 +40,7 @@
 
 &emsp;(3) how to determine what property is exempt and how to value exempt property at replacement value as defined in section 506.
 
-(d) A debt relief agency shall maintain a copy of the notices required under subsection (a) ofthis section for 2 years after the date on which the notice is given the assisted person.
+(d) A debt relief agency shall maintain a copy of the notices required under subsection (a) of this section for 2 years after the date on which the notice is given the assisted person.
 
 (Added Pub. L. 109–8, title II, §228(a), Apr. 20, 2005, 119 Stat. 69.)
 

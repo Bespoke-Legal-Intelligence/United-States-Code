@@ -10,7 +10,7 @@
 
 &emsp;(B) not assign such officers or employees any duties or responsibilities that are inconsistent with the duties and responsibilities of the advocates for competition; and
 
-&emsp;(C) provide such officers or employees with such staff or assistance as may be necessary to carry out the duties and responsibilities of the advocate for competition, such as persons who are specialists in engineering, technical operations, contract administration, financial management, supply management, and utilization of small and disadvantaged business concerns.
+&emsp;(C) provide such officers or employees with such staff or assistance as may be necessary to carry out the duties and responsibilities of theadvocate for competition, such as persons who are specialists in engineering, technical operations, contract administration, financial management, supply management, and utilization of small and disadvantaged business concerns.
 
 #### (b) Duties and functions
 
@@ -48,7 +48,7 @@ The advocate for competition for each procuring activity shall be responsible fo
 
 #### References in Text
 
-Section 414 of this title, referred to in subsecs. (a)(2)(A) and (b)(3), was amended generally by Pub. L.108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
+Section 414 of this title, referred to in subsecs. (a)(2)(A) and (b)(3), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
 
 #### Amendments
 

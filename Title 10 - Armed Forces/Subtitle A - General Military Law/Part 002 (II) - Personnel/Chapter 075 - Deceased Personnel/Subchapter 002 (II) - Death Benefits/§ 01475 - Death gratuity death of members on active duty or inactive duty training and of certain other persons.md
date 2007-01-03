@@ -90,7 +90,7 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 #### Policy and Procedures on Casualty Assistance to Survivors of Military Decedents
 
-Pub. L. 109–163, div. A, title V, §562, Jan. 6, 2006, 119 Stat. 3267, provided that:
+Pub. L. 109–163, div. A, title V, §562, Jan. 6, 2006, 119 Stat. 3267, as amended by Pub. L. 109–364, div. A, title V, §566, Oct. 17, 2006, 120 Stat. 2223, provided that:
 
 “(a)
 
@@ -98,7 +98,7 @@ Comprehensive Policy on Casualty Assistance.—
 
 &emsp;“(1)
 
-Policy required.—Not later than August 1, 2006, the Secretary of Defense shall prescribe a comprehensive policy for the Department of Defense onthe provision of casualty assistance to survivors and next of kin of members of the Armed Forces who die during military service (in this section referred to as ‘military decedents’).
+Policy required.—Not later than August 1, 2006, the Secretary of Defense shall prescribe a comprehensive policy for the Department of Defense on the provision of casualty assistance to survivors and next of kin of members of the Armed Forces who die during military service (in this section referred to as ‘military decedents’).
 
 &emsp;“(2)
 
@@ -143,6 +143,20 @@ Elements of Policy.—The comprehensive policy developed under subsection (a) sh
 &emsp;“(10) Liaison with the Department of Veterans Affairs and the Social Security Administration in order to ensure prompt and accurate resolution of issues relating to benefits administered by those agencies for survivors of military decedents.
 
 &emsp;“(11) Data collection regarding the incidence and quality of casualty assistance provided to survivors of military decedents, including surveys of such survivors and military and civilian members assigned casualty assistance duties.
+
+&emsp;“(12) The process by which the Department of Defense, upon request, provides information (in person and otherwise) to survivors of a military decedent on the cause of, and any investigation into, the death of such military decedent and on the disposition and transportation of the remains of such decedent, which process shall—
+
+&emsp;&emsp;“(A) provide for the provision of such information (in person and otherwise) by qualified Department of Defense personnel;
+
+&emsp;&emsp;“(B) ensure that information is provided as soon as possible after death and that, when requested, updates are provided, in accordance with the procedures established under this paragraph, in a timely manner when new information becomes available;
+
+&emsp;&emsp;“(C) ensure that—
+
+&emsp;&emsp;&emsp;“(i) the initial provision of such information, and each such update, relates the most complete and accurate information available at the time, subject to limitations applicable to classified information; and
+
+&emsp;&emsp;&emsp;“(ii) incomplete or unverified information is identified as such during the course of the provision of such information or update; and
+
+&emsp;&emsp;“(D) include procedures by which such survivors shall, upon request, receive updates or supplemental information from qualified Department of Defense personnel.
 
 “(c)
 

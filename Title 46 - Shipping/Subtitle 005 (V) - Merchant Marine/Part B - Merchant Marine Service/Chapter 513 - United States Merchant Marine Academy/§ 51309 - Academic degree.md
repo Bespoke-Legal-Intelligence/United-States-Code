@@ -1,0 +1,54 @@
+### §51309. Academic degree
+
+(a)
+
+Bachelor's Degree.—
+
+&emsp;(1)
+
+In general.—The Superintendent of the United States Merchant Marine Academy may confer the degree of bachelor of science on an individual who—
+
+&emsp;&emsp;(A) has met the conditions prescribed by the Secretary of Transportation; and
+
+&emsp;&emsp;(B) if a citizen of the United States, has passed the examination for a merchant marine officer's license.
+
+&emsp;(2)
+
+Effect of physical disqualification.—An individual not allowed to take the examination for a merchant marine officer's license only because of physical disqualification may not be denied a degree for not taking the examination.
+
+(b)
+
+Master's Degree.—The Superintendent of the Academy may confer a master's degree on an individual who has met the conditions prescribed by the Secretary. A master's degree program may be funded through non-appropriated funds. To maintain the appropriate academic standards, the program shall be accredited by the appropriate accreditation body. The Secretary may prescribe regulations necessary to administer such a program.
+
+(c)
+
+Graduation Not Entitlement To Hold License.—Graduation from the Academy does not entitle an individual to hold a license authorizing service on a merchant vessel.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+51309(a)
+
+46 App.:1295b(g)(1).
+
+June 29, 1936, ch. 858, title XIII, §1303(g), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2002; restated Pub. L. 108–136, title XXXV, §3515(c), Nov. 24, 2003, 117 Stat. 1794.
+
+51309(b)
+
+46 App.:1295b(g)(2).
+
+51309(c)
+
+46 App.:1295b(b)(8).
+
+June 29, 1936, ch. 858, title XIII, §1303(b)(8), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1997; Pub. L. 99–368, §5, Aug. 1, 1986, 100 Stat. 776.
+

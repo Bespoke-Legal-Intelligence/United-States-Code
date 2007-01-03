@@ -14,7 +14,7 @@ For the purposes of ensuring the protection of certain natural, scenic, fish and
 
 (4) Lands within the recreation area are hereby withdrawn from the operation of all laws pertaining to mineral leasing.
 
-(5) The Secretary may permit, in his discretion, the continued maintenance of existing wildlife openings, in cooperation with the State of Georgia and other Federal, State, and private cooperators, and may permit new wildlife openings in furtherance of the purposes for which the recreation area is established.
+(5) The Secretary may permit, in his discretion, the continued maintenance of existingwildlife openings, in cooperation with the State of Georgia and other Federal, State, and private cooperators, and may permit new wildlife openings in furtherance of the purposes for which the recreation area is established.
 
 (6) The Secretary shall protect, enhance, and promote the public's opportunities for primitive and semiprimitive recreation in the recreation area.
 

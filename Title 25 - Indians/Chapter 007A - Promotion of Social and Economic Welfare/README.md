@@ -10,15 +10,7 @@
 | 305c–1. | Repealed. |
 | [305d.](%C2%A7%2000305d%20-%20Referral%20for%20criminal%20and%20civil%20violations%3B%20complaints%3B%20recommendations.md) | Referral for criminal and civil violations; complaints; recommendations. |
 | [305e.](%C2%A7%2000305e%20-%20Cause%20of%20action%20for%20misrepresentation%20of%20Indian%20produced%20goods.md) | Cause of action for misrepresentation of Indian produced goods. |
-| (a) | Injunctive or equitable relief; damages. |
-| (b) | Punitive damages; attorney's fee. |
-| (c) | Persons who may initiate civil actions. |
-| (d) | Definitions. |
-| (e) | Severability. |
-| (f) | Regulations. |
 | [305f.](%C2%A7%2000305f%20-%20Indian%20Arts%20and%20Crafts%20Board%20art%20collection.md) | Indian Arts and Crafts Board art collection. |
-| (a) | Transfer of art collection and costs. |
-| (b) | Retention of permanent license to use of images. |
 | [306\.](%C2%A7%2000306%20-%20Expenditures%20for%20encouragement%20of%20industry%20and%20self-support%3B%20repayment.md) | Expenditures for encouragement of industry and self-support; repayment. |
 | [306a.](%C2%A7%2000306a%20-%20Advances%20for%20support%20of%20old%2C%20disabled%2C%20or%20indigent%20allottees%3B%20lien%20against%20land.md) | Advances for support of old, disabled, or indigent allottees; lien against land. |
 | 307, 308. | Omitted. |

@@ -16,7 +16,7 @@
 
 #### Codification
 
-In subsec. (a), the words “in cooperation with the Secretary of Commerce” which followed “ConsumerProduct Safety Commission” have been omitted from the Code in view of the transfer of functions of the Secretary of Commerce under this chapter to the Consumer Product Safety Commission pursuant to section 30(b) of Pub. L. 92–573 which is classified to section 2079(b) of this title. This transfer would result in this phrase being redundant in that it would provide for the Consumer Product Safety Commission to cooperate with itself.
+In subsec. (a), the words “in cooperation with the Secretary of Commerce” which followed “Consumer Product Safety Commission” have been omitted from the Code in view of the transfer of functions of the Secretary of Commerce under this chapter to the Consumer Product Safety Commission pursuant to section 30(b) of Pub. L. 92–573 which is classified to section 2079(b) of this title. This transfer would result in this phrase being redundant in that it would provide for the Consumer Product Safety Commission to cooperate with itself.
 
 #### Amendments
 

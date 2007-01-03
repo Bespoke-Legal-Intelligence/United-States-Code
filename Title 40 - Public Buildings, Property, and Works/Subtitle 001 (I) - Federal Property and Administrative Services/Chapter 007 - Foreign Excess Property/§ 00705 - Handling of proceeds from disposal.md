@@ -6,7 +6,7 @@ In General.—This section applies to proceeds from the sale, lease, or other di
 
 (b)
 
-Foreign Currencies or Credits.—Proceeds in the form of foreign currencies or credits, must be administered in accordance with procedures that the Secretary of the Treasury may establish.
+Foreign Currencies or Credits.—Proceeds in the form of foreign currencies or credits,must be administered in accordance with procedures that the Secretary of the Treasury may establish.
 
 (c)
 
@@ -18,7 +18,7 @@ Separate fund in treasury.—Section 572(a) of this title applies to proceeds of
 
 &emsp;(2)
 
-Deposited in treasury as miscellaneous receipts.—Except as provided in paragraph (1), proceeds in the form of United States currency, including foreign currenciesor credits that are reduced to United States currency, must be deposited in the Treasury as miscellaneous receipts.
+Deposited in treasury as miscellaneous receipts.—Except as provided in paragraph (1), proceeds in the form of United States currency, including foreign currencies or credits that are reduced to United States currency, must be deposited in the Treasury as miscellaneous receipts.
 
 (d)
 

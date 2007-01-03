@@ -50,7 +50,7 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (d)
 
-Competition and Cost Sharing.—(1) In accordance with the policy stated in section 2374 of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
+Competition and Cost Sharing.—(1) In accordance with the policy stated in section 2374of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
 
 (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
 
@@ -72,7 +72,7 @@ Another prior section 2521 was renumbered section 2540 of this title and subsequ
 
 &emsp;“(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
 
-&emsp;“(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the programby, each military department and each Defense Agency participating in the program.”
+&emsp;“(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program.”
 
 Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted “establish” for “include” in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
@@ -116,7 +116,7 @@ Subsec. (d)(2). Pub. L. 105–261, §213(b), designated existing provisions as s
 
 Subsec. (d)(3). Pub. L. 105–261, §213(c)(2), substituted “As a goal, at least” for “At least” and “should” for “shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
 
-Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
+Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less thantwo to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
 
 Subsec. (e)(2). Pub. L. 105–261, §213(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The plan shall include an assessment of the effectiveness of the program.”
 

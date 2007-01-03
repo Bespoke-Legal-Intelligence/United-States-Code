@@ -2,7 +2,7 @@
 
 #### (a) Duty of depository institutions; nature and content of information
 
-(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Board, to the public for inspection and copying at the home office, and at least one branch office within each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
+(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Board, to the public for inspection and copying at the home office, and at least one branch office within each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised ofdesignated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
 
 (2) The information required to be maintained and made available under paragraph (1) shall also be itemized in order to clearly and conspicuously disclose the following:
 
@@ -98,7 +98,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (4) Reasonable charge for information
 
-&emsp;Any depository institution which provides information under this subsection may imposea reasonable fee for any cost incurred in reproducing such information.
+&emsp;Any depository institution which provides information under this subsection may impose a reasonable fee for any cost incurred in reproducing such information.
 
 #### (5) Time of disclosure
 
@@ -114,7 +114,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (7) Minimizing compliance costs
 
-&emsp;In prescribing regulations under this subsection, the Board shall make every effort to minimize the costs incurred by a depository institution in complying with this subsection and such regulations.
+&emsp;In prescribing regulations under this subsection, the Board shall make every effort tominimize the costs incurred by a depository institution in complying with this subsection and such regulations.
 
 #### (k) Disclosure of statements by depository institutions
 
@@ -182,7 +182,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 &emsp;&emsp;(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII,§1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
 
 #### References in Text
 
@@ -196,7 +196,7 @@ The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch
 
 1996—Subsec. (m). Pub. L. 104–208 added subsec. (m).
 
-1992—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
+1992—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register informationunder subsection (j) of this section,” after “under this section”.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 102–550, §932(a), added subsecs. (j) to (<i>l</i>).
 

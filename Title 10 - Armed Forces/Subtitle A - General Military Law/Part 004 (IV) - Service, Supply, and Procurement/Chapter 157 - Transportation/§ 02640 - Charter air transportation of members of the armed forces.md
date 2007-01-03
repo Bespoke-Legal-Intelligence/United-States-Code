@@ -54,7 +54,7 @@ Suspension and Reinstatement.—(1) The Secretary shall establish guidelines for
 
 (2) The Commercial Airlift Review Board shall make recommendations to the Secretary on suspension and reinstatement under this subsection.
 
-(3) The Secretary shall include in each contract subject to this section the provisions onsuspension and reinstatement established under this subsection.
+(3) The Secretary shall include in each contract subject to this section the provisions on suspension and reinstatement established under this subsection.
 
 (e)
 

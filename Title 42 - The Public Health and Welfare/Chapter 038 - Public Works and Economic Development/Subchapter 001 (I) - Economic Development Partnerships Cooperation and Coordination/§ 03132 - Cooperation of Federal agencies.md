@@ -6,5 +6,5 @@ In accordance with applicable laws and subject to the availability of appropriat
 
 #### Prior Provisions
 
-A prior section 3132, Pub. L. 89–136, title I, §102, Aug. 26, 1965, 79 Stat. 554; Pub. L. 93–423, §2, Sept. 27, 1974, 88 Stat. 1158; Pub. L. 94–487, title I, §104, Oct. 12, 1976, 90 Stat. 2331; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–506, §1(1), Dec. 8, 1980, 94 Stat. 2745, authorized grants for operation of health projects, prior to repeal by Pub. L. 105–393, §102(a).
+A prior section 3132, Pub. L. 89–136, title I, §102, Aug. 26, 1965, 79 Stat. 554; Pub. L. 93–423, §2, Sept. 27, 1974, 88Stat. 1158; Pub. L. 94–487, title I, §104, Oct. 12, 1976, 90 Stat. 2331; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–506, §1(1), Dec. 8, 1980, 94 Stat. 2745, authorized grants for operation of health projects, prior to repeal by Pub. L. 105–393, §102(a).
 

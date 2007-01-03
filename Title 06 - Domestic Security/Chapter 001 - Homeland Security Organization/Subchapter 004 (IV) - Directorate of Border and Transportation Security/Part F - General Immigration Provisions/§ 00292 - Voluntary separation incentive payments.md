@@ -104,7 +104,7 @@ An individual who receives a voluntary separation incentive payment under this s
 
 #### References in Text
 
-Section 663 of Public Law 104–208, referred to in subsecs. (a)(1) and (b)(3), probably means Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, which is classified as a note under section 5597 of Title 5, Government Organization and Employees.
+Section 663 of Public Law 104–208, referred to in subsecs. (a)(1) and (b)(3), probably means Pub. L. 104–208,div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, which is classified as a note under section 5597 of Title 5, Government Organization and Employees.
 
 #### Change of Name
 

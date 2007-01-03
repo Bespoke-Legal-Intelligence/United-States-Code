@@ -8,43 +8,27 @@ In order to be eligible for payment under this subpart, a State must have a plan
 
 Each plan for child welfare services under this subpart shall—
 
-&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of theState agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
 &emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>1</sup> under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
-&emsp;(3) provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;
+&emsp;(3) include a description of the services and activities which the State will fund under the State program carried out pursuant to this subpart, and how the services and activities will achieve the purpose of this subpart;
 
-&emsp;(4) provide for the training and effective use of paid paraprofessional staff, with particular emphasis on the full-time or part-time employment of persons of low income, as community service aides, in the administration of the plan, and for the use of nonpaid or partially paid volunteers in providing services and in assisting any advisory committees established by the State agency;
+&emsp;(4) contain a description of—
 
-&emsp;(5) contain a description of the services to be provided and specify the geographic areas where such services will be available;
+&emsp;&emsp;(A) the steps the State will take to provide child welfare services statewide and to expand and strengthen the range of existing services and develop and implement services to improve child outcomes; and
 
-&emsp;(6) contain a description of the steps which the State will take to provide child welfare services and to make progress in—
+&emsp;&emsp;(B) the child welfare services staff development and training plans of the State;
 
-&emsp;&emsp;(A) covering additional political subdivisions,
+&emsp;(5) provide, in the development of services for children, for utilization of the facilities and experience of voluntary agencies in accordance with State and local programs and arrangements, as authorized by the State;
 
-&emsp;&emsp;(B) reaching additional children in need of services, and
+&emsp;(6) provide that the agency administering or supervising the administration of the plan will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require;
 
-&emsp;&emsp;(C) expanding and strengthening the range of existing services and developing new types of services,
+&emsp;(7) provide for the diligent recruitment of potential foster and adoptive families that reflect the ethnic and racial diversity of children in the State for whom foster and adoptive homes are needed;
 
-> &emsp;along with a description of the State's child welfare services staff development and training plans;
+&emsp;(8) provide assurances that the State—
 
-&emsp;(7) provide, in the development of services for children, for utilization of the facilities and experience of voluntary agencies in accordance with State and local programs and arrangements, as authorized by the State;
-
-&emsp;(8) provide that the agency administering or supervising the administration of the plan will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require;
-
-&emsp;(9) provide for the diligent recruitment of potential foster and adoptive families that reflect the ethnic and racial diversity of children in the State for whom foster and adoptive homes are needed;
-
-&emsp;(10) provide assurances that the State—
-
-&emsp;&emsp;(A) since June 17, 1980, has completed an inventory of all children who, before the inventory, had been in foster care under the responsibility of the State for 6 months or more, which determined—
-
-&emsp;&emsp;&emsp;(i) the appropriateness of, and necessity for, the foster care placement;
-
-&emsp;&emsp;&emsp;(ii) whether the child could or should be returned to the parents of the child or should be freed for adoption or other permanent placement; and
-
-&emsp;&emsp;&emsp;(iii) the services necessary to facilitate the return of the child or the placement of the child for adoption or legal guardianship;
-
-&emsp;&emsp;(B) is operating, to the satisfaction of the Secretary—
+&emsp;&emsp;(A) is operating, to the satisfaction of the Secretary—
 
 &emsp;&emsp;&emsp;(i) a statewide information system from which can be readily determined the status, demographic characteristics, location, and goals for the placement of every child who is (or, within the immediately preceding 12 months, has been) in foster care;
 
@@ -54,33 +38,127 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) where safe and appropriate, return to families from which they have been removed; or
 
-&emsp;&emsp;&emsp;&emsp;(II) be placed for adoption, with a legal guardian, or, if adoption or legal guardianship is determined not to be appropriate for a child, in some other planned, permanent living arrangement; and
+&emsp;&emsp;&emsp;&emsp;(II) be placed for adoption, with a legal guardian, or, if adoption or legal guardianship is determined not to be appropriate for a child, in some other planned, permanent living arrangement, which may include a residential educational program; and
 
 &emsp;&emsp;&emsp;(iv) a preplacement preventive services program designed to help children at risk of foster care placement remain safely with their families; and
 
-&emsp;&emsp;(C)(i) has reviewed (or within 12 months after October 31, 1994, will review) State policies and administrative and judicial procedures in effect for children abandoned at or shortly after birth (including policies and procedures providing for legal representation of such children); and
+&emsp;&emsp;(B) has in effect policies and administrative and judicial procedures for children abandoned at or shortly after birth (including policies and procedures providing for legal representation of the children) which enable permanent decisions to be made expeditiously with respect to the placement of the children;
 
-&emsp;&emsp;(ii) is implementing (or within 24 months after October 31, 1994, will implement) such policies and procedures as the State determines, on the basis of the review described in clause (i), to be necessary to enable permanent decisions to be made expeditiously with respect to the placement of such children;
+&emsp;(9) contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\];
 
-&emsp;(11) contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\];
+&emsp;(10) contain assurances that the State shall make effective use of cross-jurisdictional resources (including through contracts for the purchase of services), and shall eliminate legal barriers, to facilitate timely adoptive or permanent placements for waiting children;
 
-&emsp;(12) contain assurances that the State shall develop plans for the effective use of cross-jurisdictional resources to facilitate timely adoptive or permanent placements for waiting children;
+&emsp;(11) contain a description of the activities that the State has undertaken for children adopted from other countries, including the provision of adoption and post-adoption services;
 
-&emsp;(13) contain a description of the activities that the State has undertaken for children adopted from other countries, including the provision of adoption and post-adoption services; and
+&emsp;(12) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution;
 
-&emsp;(14) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution.
+&emsp;(13) demonstrate substantial, ongoing, and meaningful collaboration with State courts in the development and implementation of the State plan under this subpart, the State plan approved under subpart 2, and the State plan approved under part E, and in the development and implementation of any program improvement plan required under section 1320a–2a of this title;
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837.)
+&emsp;(14) not later than October 1, 2007, include assurances that not more than 10 percent of the expenditures of the State with respect to activities funded from amounts provided under this subpart will be for administrative costs;
+
+&emsp;(15) describe how the State actively consults with and involves physicians or other appropriate medical professionals in—
+
+&emsp;&emsp;(A) assessing the health and well-being of children in foster care under the responsibility of the State; and
+
+&emsp;&emsp;(B) determining appropriate medical treatment for the children;
+
+&emsp;(16) provide that, not later than 1 year after September 28, 2006, the State shall have in place procedures providing for how the State programs assisted under this subpart, subpart2 of this part, or part E would respond to a disaster, in accordance with criteria established by the Secretary which should include how a State would—
+
+&emsp;&emsp;(A) identify, locate, and continue availability of services for children under State care or supervision who are displaced or adversely affected by a disaster;
+
+&emsp;&emsp;(B) respond, as appropriate, to new child welfare cases in areas adversely affected by a disaster, and provide services in those cases;
+
+&emsp;&emsp;(C) remain in communication with caseworkers and other essential child welfare personnel who are displaced because of a disaster;
+
+&emsp;&emsp;(D) preserve essential program records; and
+
+&emsp;&emsp;(E) coordinate services and share information with other States; and
+
+&emsp;(17) not later than October 1, 2007, describe the State standards for the content and frequency of caseworker visits for children who are in foster care under the responsibility of the State, which, at a minimum, ensure that the children are visited on a monthly basis and that the caseworker visits are well-planned and focused on issues pertinent to case planning and service delivery to ensure the safety, permanency, and well-being of the children.
+
+#### (c) Definitions
+
+In this subpart:
+
+#### (1) Administrative costs
+
+&emsp;The term “administrative costs” means costs for the following, but only to the extent incurred in administering the State plan developed pursuant to this subpart: procurement, payroll management, personnel functions (other than the portion of the salaries of supervisors attributable to time spent directly supervising the provision of services by caseworkers), management, maintenance and operation of space and property, data processing and computer services, accounting, budgeting, auditing, and travel expenses (except those related to the provision of services by caseworkers or the oversight of programs funded under this subpart).
+
+#### (2) Other terms
+
+&emsp;For definitions of other terms used in this part, see section 675 of this title.
+
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248.)
 
 #### References in Text
 
 Section 103(d) of the Adoption Assistance and Child Welfare Act of 1980, referred to in subsec. (b)(1), is section 103(d) of Pub. L. 96–272, which is set out as a note below.
 
-Parts A and E of this subchapter, referred to in subsec. (b)(2), are classified to sections 601 et seq. and 670 et seq. of this title.
+Parts A and E of this subchapter, referred to in subsec. (b)(2), (13), (16), are classified to sections 601 et seq. and 670 et seq. of this title.
 
-The Indian Child Welfare Act, referred to in subsec. (b)(10), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
+The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–288, §6(c)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;”.
+
+Subsec. (b)(4). Pub. L. 109–288, §6(c)(1)(A), (B), added par. (4) and struck out former par. (4) which read as follows: “provide for the training and effective use of paid paraprofessional staff, with particular emphasis on the full-time or part-time employment of persons of low income, as community service aides, in the administration of the plan, and for the use of nonpaid or partially paid volunteers in providing services and in assisting any advisory committees established by the State agency;”.
+
+Subsec. (b)(5). Pub. L. 109–288, §6(c)(1)(A), (C), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “contain a description of the services to be provided and specify the geographic areas where such services will be available;”.
+
+Subsec. (b)(6). Pub. L. 109–288, §6(c)(1)(B), (C), redesignated par. (8) as (6) and struck out former par. (6) which read as follows: “contain a description of the steps which the State will take to provide child welfare services and to make progress in—
+
+&emsp;“(A) covering additional political subdivisions,
+
+&emsp;“(B) reaching additional children in need of services, and
+
+&emsp;“(C) expanding and strengthening the range of existing services and developing new types of services,
+
+> along with a description of the State's child welfare services staff development and training plans;”.
+
+Subsec. (b)(7). Pub. L. 109–288, §6(c)(1)(C), redesignated par. (9) as (7). Former par. (7) redesignated (5).
+
+Subsec. (b)(8), (9). Pub. L. 109–288, §6(c)(1)(G), redesignated pars. (10) and (11) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (6) and (7), respectively.
+
+Subsec. (b)(10). Pub. L. 109–288, §6(c)(1)(G), redesignated par. (12) as (10). Former par. (10) redesignated (8).
+
+Subsec. (b)(10)(A). Pub. L. 109–288, §6(c)(1)(D)(i), (iii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “since June 17, 1980, has completed an inventory of all children who, before the inventory, had been in foster care under the responsibility of the State for 6 months or more, which determined—
+
+&emsp;“(i) the appropriateness of, and necessity for, the foster care placement;
+
+&emsp;“(ii) whether the child could or should be returned to the parents of the child or should be freed for adoption or other permanent placement; and
+
+&emsp;“(iii) the services necessary to facilitate the return of the child or the placement of the child for adoption or legal guardianship;”.
+
+Subsec. (b)(10)(B). Pub. L. 109–288, §6(c)(1)(D)(iv), added subpar. (B). Former subpar. (B) redesignated (A).
+
+Subsec. (b)(10)(B)(iii)(II). Pub. L. 109–288, §6(c)(1)(D)(ii), inserted “, which may include a residential educational program” after “in some other planned, permanent living arrangement”.
+
+Subsec. (b)(10)(C). Pub. L. 109–288, §6(c)(1)(D)(iv), struck out subpar. (C) which read as follows:
+
+“(i) has reviewed (or within 12 months after October 31, 1994, will review) State policies and administrative and judicial procedures in effect for children abandoned at or shortly after birth (including policies and procedures providing for legal representation of such children); and
+
+“(ii) is implementing (or within 24 months after October 31, 1994, will implement) such policies and procedures as the State determines, on the basis of the review described in clause (i), to be necessary to enable permanent decisions to be made expeditiously with respect to the placement of such children;”.
+
+Subsec. (b)(11). Pub. L. 109–288, §6(c)(1)(G), redesignated par. (13) as (11). Former par. (11) redesignated (9).
+
+Subsec. (b)(12). Pub. L. 109–288, §6(c)(1)(G), redesignated par. (14) as (12). Former par. (12) redesignated (10).
+
+Pub. L. 109–239 substituted “make” for “develop plans for the” and inserted “(including through contracts for the purchase of services), and shall eliminate legal barriers,” after “resources”.
+
+Subsec. (b)(13). Pub. L. 109–288, §6(c)(1)(G), redesignated par. (15) as (13). Former par. (13) redesignated (11).
+
+Subsec. (b)(14). Pub. L. 109–288, §6(c)(1)(E), (F), (H), added par. (14). Former par. (14) redesignated (12).
+
+Subsec. (b)(15). Pub. L. 109–288, §6(c)(1)(E), (F), (H), added par. (15). Former par. (15) redesignated (13).
+
+Pub. L. 109–171 added par. (15).
+
+Subsec. (b)(16). Pub. L. 109–288, §6(c)(1)(E), (F), (H), added par. (16).
+
+Subsec. (b)(17). Pub. L. 109–288, §7(a), added par. (17).
+
+Subsec. (c). Pub. L. 109–288, §6(c)(2), added subsec. (c).
 
 2000—Subsec. (b)(13), (14). Pub. L. 106–279 added pars. (13) and (14).
 
@@ -130,7 +208,7 @@ Subsec. (b)(3). Pub. L. 103–66, §13711(b)(1)(B), substituted “under this su
 
 1989—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter” for “the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program”.
 
-1980—Pub. L. 96–272 substituted provisions relating to State plans covering child welfare services for provisions relating to the payments to States and the computation of amounts. See section 623 of this title.
+1980—Pub. L. 96–272 substituted provisions relating to State plans covering child welfare services for provisions relating to the payments to States and the computation of amounts.
 
 1975—Subsec. (a)(1)(A)(i). Pub. L. 93–647, §3(a)(6), substituted “the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program” for “the State agency designated pursuant to section 602(a)(3) of this title to administer or supervise the administration of the plan of the State approved under part A of this subchapter”.
 
@@ -139,6 +217,22 @@ Subsec. (a)(i)(A)(ii). Pub. L. 93–647, §3(a)(7), substituted “a single orga
 Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
 1968—Subsec. (a)(1). Pub. L. 90–248, §240(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+
+Pub. L. 109–239, §14, July 3, 2006, 120 Stat. 514, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this section, the amendments made by this Act \[enacting section 673c of this title, amending this section and sections 629h, 671, and 675 of this title, and repealing section 673c of this title\] shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whetherregulations to implement the amendments are promulgated by such date.
+
+“(b)
+
+Delay Permitted If State Legislation Required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part B or E of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by a provision of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 3, 2006\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 2000 Amendment
 

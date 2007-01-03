@@ -12,7 +12,7 @@ The supplemental guidelines issued under subsection (a) of this section shall es
 
 #### (1) In general
 
-&emsp;The supplemental guidelines issued under subsection (a) of this section shall include procedures and requirements for alterations that will threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
+&emsp;The supplemental guidelines issued under subsection (a) of this section shall include procedures and requirements for alterations thatwill threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
 
 #### (2) Sites eligible for listing in National Register
 

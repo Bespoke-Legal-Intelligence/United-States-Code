@@ -20,27 +20,51 @@ There are authorized to be appropriated to the Office of National Drug Control P
 
 &emsp;(8) $80,000,000 for fiscal year 2005;
 
-&emsp;(9) $90,000,000 for fiscal year 2006; and
+&emsp;(9) $90,000,000 for fiscal year 2006;
 
-&emsp;(10) $99,000,000 for fiscal year 2007.
+&emsp;(10) $99,000,000 for fiscal year 2007;
+
+&emsp;(11) $109,000,000 for fiscal year 2008;
+
+&emsp;(12) $114,000,000 for fiscal year 2009;
+
+&emsp;(13) $119,000,000 for fiscal year 2010;
+
+&emsp;(14) $124,000,000 for fiscal year 2011; and
+
+&emsp;(15) $129,000,000 for fiscal year 2012.
 
 #### (b) Administrative costs
 
-Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+#### (1) Limitation
 
-&emsp;(1) 10 percent for fiscal year 1998.
+&emsp;Not more than 3 percent of the funds appropriated for this subchapter may be used by the Office of National Drug Control Policy to pay for administrative costs associated with their responsibilities under the subchapter.
 
-&emsp;(2) 6 percent for fiscal year 1999.
+#### (2) Designated agency
 
-&emsp;(3) 4 percent for fiscal year 2000.
+&emsp;The agency delegated to carry out this program under section 1531(d) of this title may use up to 5 percent of the funds allocated for grants under this subchapter for administrative costs associated with carrying out the program.
 
-&emsp;(4) 3 percent for fiscal year 2001.
+(Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, §801, Dec. 29, 2006, 120 Stat. 3535.)
 
-&emsp;(5) 6 percent for each of fiscal years 2002 through 2007.
+#### Codification
 
-(Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817.)
+Pub. L. 109–469, §801, which directed amendment of section 1024 of the “Drug-Free Communities Act of 1997”, was executed to this section, which is section 1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2006—Subsec. (a)(11) to (15). Pub. L. 109–469, §801(a), added pars. (11) to (15). See Codification note above.
+
+Subsec. (b). Pub. L. 109–469, §801(b), amended subsec. (b) generally. See Codification note above. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+
+&emsp;“(1) 10 percent for fiscal year 1998.
+
+&emsp;“(2) 6 percent for fiscal year 1999.
+
+&emsp;“(3) 4 percent for fiscal year 2000.
+
+&emsp;“(4) 3 percent for fiscal year 2001.
+
+&emsp;“(5) 6 percent for each of fiscal years 2002 through 2007.”
 
 2001—Subsec. (a)(5) to (10). Pub. L. 107–82, §1(b), added pars. (5) to (10) and struck out former par. (5) which read as follows: “$43,500,000 for fiscal year 2002.”
 

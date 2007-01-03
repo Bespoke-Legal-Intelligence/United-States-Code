@@ -10,7 +10,7 @@ There are hereby authorized to be appropriated to the Department of State for co
 
 &emsp;&emsp;(2) such other expenses as the Secretary of State deems necessary to participation by the United States in the activities of the Organization: <i>Provided</i>, That the provisions of section 287r of this title, and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
 
-(June 14, 1948, ch. 469, §3, 62 Stat. 441; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(d), 64 Stat. 902; Aug. 26, 1954, ch. 937, title IV, §419, as added July 8, 1955, ch. 301, §8(j), 69 Stat. 288.)
+(June 14, 1948, ch. 469, §3, 62 Stat. 441; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(d), 64 Stat. 902; Aug. 26, 1954, ch. 937, title IV, §419, as added July 8, 1955, ch. 301, §8(j), 69 Stat. 288.)
 
 #### References in Text
 

@@ -1,5 +1,9 @@
 ### SUBCHAPTER XXIV—HIV HEALTH CARE SERVICES PROGRAM
 
+#### Repeal of Subchapter
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this subchapter is repealed.</i>
+
 
 ---
 
@@ -10,6 +14,6 @@
 - [Part A - Emergency Relief for Areas with Substantial Need for Services](Part%20A%20-%20Emergency%20Relief%20for%20Areas%20with%20Substantial%20Need%20for%20Services/README.md)
 - [Part B - Care Grant Program](Part%20B%20-%20Care%20Grant%20Program/README.md)
 - [Part C - Early Intervention Services](Part%20C%20-%20Early%20Intervention%20Services/README.md)
-- [Part D - General Provisions](Part%20D%20-%20General%20Provisions/README.md)
-- [Part E - Emergency Response Employees](Part%20E%20-%20Emergency%20Response%20Employees/README.md)
+- [Part D - Women, Infants, Children, and Youth](Part%20D%20-%20Women%2C%20Infants%2C%20Children%2C%20and%20Youth/README.md)
+- [Part E - General Provisions](Part%20E%20-%20General%20Provisions/README.md)
 - [Part F - Demonstration and Training](Part%20F%20-%20Demonstration%20and%20Training/README.md)

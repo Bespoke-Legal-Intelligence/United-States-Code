@@ -12,9 +12,11 @@
 
 #### (3) Membership
 
-&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+&emsp;The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, and such other Federal agencies the President may designate.
 
-> A representative of the Department of Transportation shall serve as Chairman.
+#### (4) Chairman
+
+&emsp;A representative of the Coast Guard shall serve as Chairman.
 
 #### (b) Oil pollution research and technology plan
 
@@ -52,7 +54,7 @@
 
 #### (2) Innovative oil pollution technology
 
-&emsp;The program established under this subsection shall provide for research, development, and demonstration of new or improved technologies which are effective in preventing or mitigating oil discharges and which protect the environment, including—
+&emsp;The program established under this subsection shall provide for research, development, and demonstration of new or improved technologies which are effective in preventingor mitigating oil discharges and which protect the environment, including—
 
 &emsp;&emsp;(A) development of improved designs for vessels and facilities, and improved operational practices;
 
@@ -60,7 +62,7 @@
 
 &emsp;&emsp;(C) research, development, and demonstration of new or improved systems of mechanical, chemical, biological, and other methods (including the use of dispersants, solvents, and bioremediation) for the recovery, removal, and disposal of oil, including evaluation of the environmental effects of the use of such systems;
 
-&emsp;&emsp;(D) research and training, in consultation with the National Response Team, to improve industry's and Government's ability to quickly and effectively remove an oil discharge, including the long-term use, as appropriate, of the National Spill Control School in Corpus Christi, Texas, and theCenter for Marine Training and Safety in Galveston, Texas;
+&emsp;&emsp;(D) research and training, in consultation with the National Response Team, to improve industry's and Government's ability to quickly and effectively remove an oil discharge, including the long-term use, as appropriate, of the National Spill Control School in Corpus Christi, Texas, and the Center for Marine Training and Safety in Galveston, Texas;
 
 &emsp;&emsp;(E) research to improve information systems for decisionmaking, including the use of data from coastal mapping, baseline data, and other data related to the environmental effects of oil discharges, and cleanup technologies;
 
@@ -104,7 +106,7 @@
 
 &emsp;&emsp;(iii) the Interagency Committee determines that a study of the long-term environmental effects of the discharge would be of significant scientific value, especially for preventing or responding to future oil discharges.
 
-> &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oil was discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
+> &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oil was discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA and the T/V ATHOS I, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
 
 &emsp;(C) Research conducted under this paragraph by, or through, the United States Fish and Wildlife Service shall be directed and coordinated by the National Wetland Research Center.
 
@@ -122,7 +124,7 @@
 
 #### (6) Demonstration projects
 
-&emsp;The United States Coast Guard, in conjunction with other such agencies in the Department of Transportation as the Secretary of Transportation may designate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in thissection. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
+&emsp;The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
 
 #### (7) Simulated environmental testing
 
@@ -156,7 +158,7 @@
 
 #### (10) Grants
 
-&emsp;In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contractsand cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b) of this section.
+&emsp;In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b) of this section.
 
 #### (11) Utilization of resources
 
@@ -180,13 +182,23 @@ Not to exceed $22,000,000 of amounts in the Fund shall be available annually to 
 
 > All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
 
-(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424.)
+(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, §605(a)(1), title IX, §902(<i>l</i>)(3), (4), July 11, 2006, 120 Stat. 555, 568.)
 
 #### References in Text
 
 This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–241, §902(<i>l</i>)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
+
+“Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+
+> A representative of the Department of Transportation shall serve as Chairman.”
+
+Subsec. (c)(4)(B). Pub. L. 109–241, §605(a)(1), substituted “RIVERA and the T/V ATHOS I,” for “RIVERA,”.
+
+Subsec. (c)(6). Pub. L. 109–241, §902(<i>l</i>)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
 
 2004—Subsec. (a)(3). Pub. L. 108–426, §2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
@@ -203,12 +215,6 @@ Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §
 1990—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
 
 Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 

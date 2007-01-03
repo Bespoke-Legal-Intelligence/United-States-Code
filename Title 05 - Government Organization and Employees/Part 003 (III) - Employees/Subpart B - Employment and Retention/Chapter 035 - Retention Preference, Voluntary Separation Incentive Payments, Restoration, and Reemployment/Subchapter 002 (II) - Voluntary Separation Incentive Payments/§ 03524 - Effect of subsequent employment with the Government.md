@@ -8,7 +8,7 @@
 
 (b) An individual who has received a voluntary separation incentive payment under this subchapter and accepts any employment for compensation with the Government of the United States with <sup>1</sup> 5 years after the date of the separation on which the payment is based shall be required to pay, before the individual's first day of employment, the entire amount of the incentive payment to the agency that paid the incentive payment.
 
-(c)(1) If the employment under this section is with an agency, other than the Government Accountability Office, the United States Postal Service, or the Postal Rate Commission, the Director of the Office of Personnel Management may, at the request of the head of the agency, may <sup>2</sup> waive the repayment if—
+(c)(1) If the employment under this section is with an agency, other than the Government Accountability Office, the United States Postal Service, or the Postal Regulatory Commission, the Director of the Office of Personnel Management may, at the request of the head of the agency, may <sup>2</sup> waive the repayment if—
 
 &emsp;(A) the individual involved possesses unique abilities and is the only qualified applicant available for the position; or
 
@@ -22,9 +22,11 @@
 
 (3) If the employment under this section is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
-(Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2293; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2293; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission” in introductory provisions.
 
 2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 

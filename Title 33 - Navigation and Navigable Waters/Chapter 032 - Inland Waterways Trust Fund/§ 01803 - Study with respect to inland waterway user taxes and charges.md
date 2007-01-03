@@ -12,7 +12,7 @@ The Secretary of Transportation, and the Secretary of Commerce, in consultation 
 
 #### (b) Considerations relating to the taxing mechanism
 
-&emsp;(1) The extent to which the Federal Government should seek to recover some or all of Federal expenditures for the benefit of inland waterway transportation from the users of the facilities for which such expenditures are made.
+&emsp;(1) The extent to which the Federal Government should seek to recover some or all ofFederal expenditures for the benefit of inland waterway transportation from the users of the facilities for which such expenditures are made.
 
 &emsp;(2) The various forms of inland waterway user taxes and charges which could be established.
 
@@ -96,7 +96,7 @@ The effects of inland waterway user taxes and charges on—
 
 &emsp;(2) The expansion and improvement of the inland waterways determined to be necessary by the Secretary of the Army under section 158 of the Water Resources Development Act of 1976 (Public Law 94–587) or estimated to be necessary under paragraph (3).
 
-&emsp;(3) The requirements of the Nation through the year 2000 for transportation service, the portion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
+&emsp;(3) The requirements of the Nation through the year 2000 for transportation service, theportion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
 
 #### (g) “Inland waterway user taxes and charges” defined
 
@@ -104,17 +104,13 @@ For purposes of this section, the term “inland waterway user taxes and charges
 
 #### (h) Report
 
-Not later than September 30, 1981, the Secretary of Transportation shall transmit to Congress a final report of the study required by this section, together with his findings and recommendations (including necessary legislation) and the findings and recommendations of the Secretary of Commerce, the Secretary of theTreasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget.
+Not later than September 30, 1981, the Secretary of Transportation shall transmit to Congress a final report of the study required by this section, together with his findings and recommendations (including necessary legislation) and the findings and recommendations of the Secretary of Commerce, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget.
 
 #### (i) Authorization of appropriations
 
 There are hereby authorized to be appropriated from time to time to the Secretary of Transportation such sums, not to exceed $8,000,000 in the aggregate, as may be necessary to carry out the study required by this section.
 
 (Pub. L. 95–502, title II, §205, Oct. 21, 1978, 92 Stat. 1698; Pub. L. 104–88, title III, §338, Dec. 29, 1995, 109 Stat. 954.)
-
-#### References in Text
-
-The antitrust laws, referred to in subsec. (c)(3)(B), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
 #### Codification
 

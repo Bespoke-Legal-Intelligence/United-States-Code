@@ -14,6 +14,10 @@ When acting as a receiver, the following provisions shall apply with respect to 
 
 &emsp;(3) The Corporation shall not be liable for any amounts in the nature of penalties or fines, including those arising from the failure of any person to pay any real property, personal property, probate, or recording tax or any recording or filing fees when due.
 
+&emsp;(4)
+
+Exemption from criminal prosecution.—The Corporation shall be exempt from all prosecution by the United States or any State, county, municipality, or local authority for any criminal offense arising under Federal, State, county, municipal, or local law, which was allegedly committed by the institution, or persons acting on behalf of the institution, prior to the appointment of the Corporation as receiver.
+
 > This subsection shall not apply with respect to any tax imposed (or other amount arising) under the Internal Revenue Code of 1986.
 
 #### (c) Limitation on borrowing
@@ -46,11 +50,11 @@ When acting as a receiver, the following provisions shall apply with respect to 
 
 #### (5) Maximum amount limitation on outstanding obligations
 
-&emsp;Notwithstanding any other provisions of this chapter, the Corporation may not issue orincur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Bank Insurance Fund or Savings Association Insurance Fund, respectively, outstanding would exceed the sum of—
+&emsp;Notwithstanding any other provisions of this chapter, the Corporation may not issue or incur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Deposit Insurance Fund, outstanding would exceed the sum of—
 
-&emsp;&emsp;(A) the amount of cash or the equivalent of cash held by the Bank Insurance Fund or Savings Association Insurance Fund, respectively;
+&emsp;&emsp;(A) the amount of cash or the equivalent of cash held by the Deposit Insurance Fund;
 
-&emsp;&emsp;(B) the amount which is equal to 90 percent of the Corporation's estimate of the fair market value of assets held by the Bank Insurance Fund or the Savings Association Insurance Fund, respectively, other than assets described in subparagraph (A); and
+&emsp;&emsp;(B) the amount which is equal to 90 percent of the Corporation's estimate of the fair market value of assets held by the Deposit Insurance Fund, other than assets described in subparagraph (A); and
 
 &emsp;&emsp;(C) the total of the amounts authorized to be borrowed from the Secretary of the Treasury pursuant to section 1824(a) of this title.
 
@@ -78,11 +82,7 @@ The full faith and credit of the United States is pledged to the payment of any 
 
 &emsp;(2) the term to maturity or the date of maturity of such obligation is stated in the obligation.
 
-(Sept. 21, 1950, ch. 967, §2\[15\], 64 Stat. 890; Pub. L. 101–73, title II, §219, Aug. 9, 1989, 103 Stat. 261; Pub. L. 102–242, title I, §102(a), (c), Dec. 19, 1991, 105 Stat. 2236, 2237; Pub. L. 103–325, title VI, §602(a)(43), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(R), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–173, §8(a)(25), Feb. 15, 2006, 119 Stat. 3614.)
-
-#### Amendment of Subsection (c)(5)
-
-<i>Pub. L. 109–173, §8(a)(25), (b), Feb. 15, 2006, 119 Stat. 3614, 3616, provided that, effective Mar. 31, 2006, subsection (c)(5) of this section is amended by striking “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” and inserting “the Deposit Insurance Fund” in introductory provisions and subparagraph (A) and by striking “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” and inserting “the Deposit Insurance Fund” in subparagraph (B).</i>
+(Sept. 21, 1950, ch. 967, §2\[15\], 64 Stat. 890; Pub. L. 101–73, title II, §219, Aug. 9, 1989, 103 Stat. 261; Pub. L. 102–242, title I, §102(a), (c), Dec. 19, 1991, 105 Stat. 2236, 2237; Pub. L. 103–325, title VI, §602(a)(43), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(R), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(25), Feb. 15, 2006, 119 Stat. 3614; Pub. L. 109–351, title VII, §720(a), Oct. 13, 2006, 120 Stat. 1998.)
 
 #### References in Text
 
@@ -94,7 +94,13 @@ Section is derived from subsec. (p) of former section 264 of this title. See Cod
 
 #### Amendments
 
-1996—Subsec. (c)(5). Pub. L. 104–208, which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B), was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (b)(4). Pub. L. 109–351 added par. (4).
+
+Subsec. (c)(5). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B).
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(R). See 1996 Amendment note below.
+
+1996—Subsec. (c)(5). Pub. L. 104–208, §2704(D)(14)(R), which directed substitution of “the Deposit InsuranceFund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (c)(1). Pub. L. 103–325 substituted “
 
@@ -112,9 +118,11 @@ Subsec. (c)(7). Pub. L. 102–242, §102(c), struck out par. (7) which provided 
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### GAO Reports
 

@@ -68,7 +68,7 @@ Policy.—
 
 #### Vessel Management Methods Study
 
-Section 602(c) of Pub. L. 104–324 provided that:
+Pub. L. 104–324, title VI, §602(c), Oct. 19, 1996, 110 Stat. 3930, provided that:
 
 “(1)
 

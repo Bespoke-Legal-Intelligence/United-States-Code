@@ -6,7 +6,7 @@ In the case of the pollutants hydrocarbons, carbon monoxide, photochemical oxida
 
 #### (b) Effective date of regulations
 
-Regulations referred to in subsection (a) of this section shall become effective one year after the date of promulgation. Within 21 months after such date of promulgation such plan revision shall be submitted to the Administrator who shall approve or disapprove the plan within 25 months after such date or promulgation in the same manner as required under section 7410 of this title.
+Regulations referred to in subsection (a) of this section shall become effective one year after the date of promulgation. Within 21 months after such date of promulgation such plan revision shall be submitted to the Administrator who shall approve or disapprove the plan within 25 months after such date or <sup>1</sup> promulgation in the same manner as required under section 7410 of this title.
 
 #### (c) Contents of regulations
 
@@ -29,4 +29,6 @@ The Administrator is authorized to substitute, for the maximum allowable increas
 #### Amendments
 
 1990—Subsec. (f). Pub. L. 101–549 added subsec. (f).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

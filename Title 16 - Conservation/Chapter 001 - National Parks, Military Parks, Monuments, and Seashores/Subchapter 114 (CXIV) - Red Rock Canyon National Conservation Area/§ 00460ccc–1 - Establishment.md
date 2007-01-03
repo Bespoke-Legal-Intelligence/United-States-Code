@@ -22,7 +22,7 @@ In case of any discrepancy between or among the map described in subsection (a) 
 
 #### References in Text
 
-The Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002, referred to in subsec. (a)(2), is title I of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1995, which amended this section and enacted provisions set out as a note under section 460ccc–4 of this title. For complete classification of this Act to the Code, see Tables.
+The Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002, referred to in subsec. (a)(2), is title I of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1995, which amended this section and enactedprovisions set out as a note under section 460ccc–4 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

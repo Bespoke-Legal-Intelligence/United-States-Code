@@ -18,13 +18,13 @@
 
 &emsp;(3) except for the correctness of computations on a voucher or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,,<sup>1</sup> be held accountable for carrying out clauses (1) and (2) of this subsection.
 
-(b) In addition to officers and employees referred to in subsection (a)(1)(B) of this section as having authorization to certify vouchers, members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation.
+(b) In addition to officers and employees referred to in subsection (a)(1)(B) of this section as having authorization to certify vouchers, members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Homeland Security.
 
 (c) On request, the Secretary of the Treasury may provide to the appropriate officer or employee of the United States Government a list of persons receiving periodic payments from the Government. When certified and in proper form, the list may be used as a voucher on which the Secretary may disburse money.
 
 (d) The head of an executive agency or an officer or employee of an executive agency referred to in subsection (a)(1)(B), as applicable, shall include with each certified voucher submitted to a disbursing official pursuant to this section the taxpayer identifying number of each person to whom payment may be made under the voucher.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951; Pub. L. 104–106, div. A, title IX, §913(b), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–134, title III, §31001(g)(1)(B), (y), Apr. 26, 1996, 110 Stat. 1321–363, 1321–378; Pub. L. 104–201, div. A, title X, §1009(b), Sept. 23, 1996, 110 Stat. 2634.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951; Pub. L. 104–106, div. A, title IX, §913(b), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–134, title III, §31001(g)(1)(B), (y), Apr. 26, 1996, 110 Stat. 1321–363, 1321–378; Pub. L. 104–201, div. A, title X, §1009(b), Sept. 23, 1996, 110 Stat. 2634; Pub. L. 109–241, title IX, §902(b)(2), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 
@@ -64,6 +64,8 @@ In subsection (c), the words “On and after May 14, 1937” are omitted as exec
 
 #### Amendments
 
+2006—Subsec. (b). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+
 1996—Subsec. (a)(3). Pub. L. 104–134, §31001(g)(1)(B), inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
 
 Subsec. (b). Pub. L. 104–201 substituted “members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” for “members of the armed forces under the jurisdiction of the Secretary of Defense may certify vouchers when authorized, in writing, by the Secretary to do so”.
@@ -71,10 +73,6 @@ Subsec. (b). Pub. L. 104–201 substituted “members of the armed forces may ce
 Pub. L. 104–106 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Subsection (a) of this section does not apply to disbursements of a military department of the Department of Defense, except for disbursements for departmental pay and expenses in the District of Columbia.”
 
 Subsec. (d). Pub. L. 104–134, §31001(y), added subsec. (d).
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

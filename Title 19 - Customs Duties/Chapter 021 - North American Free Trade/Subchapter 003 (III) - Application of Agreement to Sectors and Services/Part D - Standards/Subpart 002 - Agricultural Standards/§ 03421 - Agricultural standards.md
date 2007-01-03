@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), all peanut butter and peanut paste in the United States domestic market shall be processedfrom peanuts that meet the quality standards established for peanuts under Marketing Agreement No. 146.
+&emsp;Except as provided in paragraph (2), all peanut butter and peanut paste in the United States domestic market shall be processed from peanuts that meet the quality standards established for peanuts under Marketing Agreement No. 146.
 
 #### (2) Imports
 

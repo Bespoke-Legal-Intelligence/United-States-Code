@@ -8,7 +8,7 @@ In General.—The Secretary concerned may assign members of the armed forces to 
 
 Effect of Certain Assignments on Entitlement to Housing Allowances.—(1) Except as provided in paragraph (2), housing referred to in subsection (a) shall be considered as quarters of the United States or a housing facility under the jurisdiction of a uniformed service for purposes of section 403 of title 37.
 
-(2) A member of the armed forces who is assigned in accordance with subsection (a) to ahousing unit not owned or leased by the United States shall be entitled to a basic allowance for housing under section 403 of title 37.
+(2) A member of the armed forces who is assigned in accordance with subsection (a) to a housing unit not owned or leased by the United States shall be entitled to a basic allowance for housing under section 403 of title 37.
 
 (c)
 

@@ -2,7 +2,7 @@
 
 The Secretary of Defense and the Secretary of each military department may—
 
-&emsp;(1) pay in advance for the expenses of conducting investigations in foreign countries incident to matters relating to the Department of Defense, to the extent such expenses are determined by the investigating officer to be necessary and in accord with local custom;
+&emsp;(1) pay in advance for the expenses of conducting investigations in foreign countries incident to matters relating to the Departmentof Defense, to the extent such expenses are determined by the investigating officer to be necessary and in accord with local custom;
 
 &emsp;(2) pay expenses incurred in connection with the administration of occupied areas;
 

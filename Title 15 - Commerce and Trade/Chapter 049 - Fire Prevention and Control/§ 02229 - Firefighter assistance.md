@@ -122,7 +122,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (7) Maintenance of expenditures
 
-&emsp;The Director may provide assistance under this subsection only if the applicant for theassistance agrees to maintain in the fiscal year for which the assistance will be received the applicant's aggregate expenditures for the uses described in paragraph (3) or (4) at or above the average level of such expenditures in the two fiscal years preceding the fiscal year for which the assistance will be received.
+&emsp;The Director may provide assistance under this subsection only if the applicant for the assistance agrees to maintain in the fiscal year for which the assistance will be received the applicant's aggregate expenditures for the uses described in paragraph (3) or (4) at or above the average level of such expenditures in the two fiscal years preceding the fiscal year for which the assistance will be received.
 
 #### (8) Report to the Director
 
@@ -234,7 +234,7 @@ In this section—
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(16), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(16), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -318,7 +318,9 @@ Subsec. (e). Pub. L. 107–107, §1061(a), reenacted heading without change and 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “clauses”.</i>
 

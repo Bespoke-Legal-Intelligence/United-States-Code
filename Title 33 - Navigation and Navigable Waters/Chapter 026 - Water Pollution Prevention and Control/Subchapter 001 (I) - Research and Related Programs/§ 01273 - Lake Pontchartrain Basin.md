@@ -48,15 +48,19 @@ In this section, the following definitions apply:
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.
+&emsp;There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2001 through 2011. Such sums shall remain available until expended.
 
 #### (2) Public education projects
 
 &emsp;Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2) of this section.
 
-(June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–457, title V, §502, Nov. 7, 2000, 114 Stat. 1973.)
+(June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–457, title V, §502, Nov. 7, 2000, 114 Stat. 1973; amended Pub. L. 109–392, §1, Dec. 12, 2006, 120 Stat. 2703.)
 
-#### Codification
+#### Prior Provisions
 
-Another section 121 of act June 30, 1948, ch. 758, is classified to section 1274 of this title.
+Another section 121 of act June 30, 1948, was renumbered section 122 and is classified to section 1274 of this title.
+
+#### Amendments
+
+2006—Subsec. (f)(1). Pub. L. 109–392 substituted “2011” for “2005”.
 

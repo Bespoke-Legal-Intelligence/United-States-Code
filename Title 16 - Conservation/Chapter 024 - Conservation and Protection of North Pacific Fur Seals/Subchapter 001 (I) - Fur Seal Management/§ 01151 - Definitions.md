@@ -52,7 +52,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(1)\], Dec. 21, 2000, 11
 
 #### Short Title of 1983 Amendment
 
-Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter generally, sections 8332 and 8334of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
+Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
 
 #### Short Title
 

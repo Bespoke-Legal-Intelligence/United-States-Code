@@ -4,10 +4,6 @@
 | :--- | ---: |
 | [851\.](%C2%A7%2000851%20-%20Deficiencies%20in%20grants%20to%20State%20by%20reason%20of%20settlements%2C%20etc.%2C%20on%20designated%20sections%20generally.md) | Deficiencies in grants to State by reason of settlements, etc., on designated sections generally. |
 | [852\.](%C2%A7%2000852%20-%20Selections%20to%20supply%20deficiencies%20of%20school%20lands.md) | Selections to supply deficiencies of school lands. |
-| (a) | Restrictions. |
-| (b) | Adjustments. |
-| (c) | Preference rights for State. |
-| (d) | “Unappropriated public lands” defined; determination of mineral character of land. |
 | [852a.](%C2%A7%2000852a%20-%20Applications%20for%20unsurveyed%20lands%3B%20regulations%3B%20acreage%20requirements.md) | Applications for unsurveyed lands; regulations; acreage requirements. |
 | [852b.](%C2%A7%2000852b%20-%20Survey%20of%20lands%20prior%20to%20transfer%3B%20time%20for%20survey%3B%20availability%20of%20funds%3B%20lands%20suitable%20for%20transfer.md) | Survey of lands prior to transfer; time for survey; availability of funds; lands suitable for transfer. |
 | [853\.](%C2%A7%2000853%20-%20Selections%20in%20Utah%20to%20supply%20deficiencies%20of%20school%20lands.md) | Selections in Utah to supply deficiencies of school lands. |
@@ -27,14 +23,8 @@
 | [867\.](%C2%A7%2000867%20-%20Omitted.md) | Omitted. |
 | [868\.](%C2%A7%2000868%20-%20Representation%20of%20Indian%20claimants%20in%20suits%20to%20determine%20right%20to%20school%20lands.md) | Representation of Indian claimants in suits to determine right to school lands. |
 | [869\.](%C2%A7%2000869%20-%20Disposal%20of%20lands%20for%20public%20or%20recreational%20purposes.md) | Disposal of lands for public or recreational purposes. |
-| (a) | Application; conditions; classification; restoration if not applied for. |
-| (b) | Acreage limitations. |
-| (c) | Lands withdrawn in aid of functions of a department, agency, State, etc.; lands excepted from disposal. |
 | 869–1. | Sale or lease to State or nonprofit organization; reservation of mineral deposits; termination of lease for nonuse. |
 | 869–2. | Conditions of transfer by grantee; solid waste disposal. |
-| (a) | Conditions of transfer by grantee. |
-| (b) | New disposal sites. |
-| (c) | Existing disposal sites. |
 | 869–3. | Authority for transfers; applicability of section 869–2 to prior patents; termination of restrictions. |
 | 869–4. | Disposition of moneys received from or on account of revested Oregon and California Railroad grant lands or reconveyed Coos Bay Wagon Road grant lands. |
 | [869a.](%C2%A7%2000869a%20-%20Repealed.%20Pub.%20L.%2086%E2%80%9366%2C%20%C2%A71%2C%20June%2023%2C%201959%2C%2073%20Stat.%20110.md) | Repealed. |

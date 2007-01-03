@@ -188,7 +188,7 @@ Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and 
 
 #### Reporting Baseline
 
-Pub. L. 109–58, title I, §102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided that: “The energy reduction goals and baseline established in paragraph (1) of section 543(a) of the National Energy Conservation Policy Act (42 U.S.C. 8253(a)(1)), as amended by this subsection, supersede all previous goals and baselines under such paragraph, and related reporting requirements.”
+Pub. L. 109–58, title I, §102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided that: “The energy reduction goals andbaseline established in paragraph (1) of section 543(a) of the National Energy Conservation Policy Act (42 U.S.C. 8253(a)(1)), as amended by this subsection, supersede all previous goals and baselines under such paragraph, and related reporting requirements.”
 
 #### Survey of Energy Saving Potential
 

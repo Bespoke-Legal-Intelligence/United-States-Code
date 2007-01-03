@@ -21,6 +21,7 @@
 - [&sect; 02291 - Federal Project Repayment District](%C2%A7%2002291%20-%20Federal%20Project%20Repayment%20District.md)
 - [&sect; 02292 - Surveying and mapping](%C2%A7%2002292%20-%20Surveying%20and%20mapping.md)
 - [&sect; 02293 - Reprogramming during national emergencies](%C2%A7%2002293%20-%20Reprogramming%20during%20national%20emergencies.md)
+- [&sect; 02293a - Reprogramming of funds for projects by Corps of Engineers](%C2%A7%2002293a%20-%20Reprogramming%20of%20funds%20for%20projects%20by%20Corps%20of%20Engineers.md)
 - [&sect; 02294 - Office of Environmental Policy](%C2%A7%2002294%20-%20Office%20of%20Environmental%20Policy.md)
 - [&sect; 02295 - Compilation of laws; annual reports](%C2%A7%2002295%20-%20Compilation%20of%20laws%3B%20annual%20reports.md)
 - [&sect; 02296 - Acquisition of recreation lands](%C2%A7%2002296%20-%20Acquisition%20of%20recreation%20lands.md)

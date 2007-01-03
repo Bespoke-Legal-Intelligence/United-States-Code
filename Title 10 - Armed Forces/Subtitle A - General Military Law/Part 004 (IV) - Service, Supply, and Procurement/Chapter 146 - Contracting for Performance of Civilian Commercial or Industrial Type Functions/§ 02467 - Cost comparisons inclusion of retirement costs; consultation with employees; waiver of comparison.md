@@ -50,9 +50,9 @@ Section 3111(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)
 
 #### Amendments
 
-2001—Subsec. (a)(2)(A). Pub. L. 107–107, §1048(a)(22)(A)(i), struck out “, United States Code” after “title 5”.
+2001—Subsec. (a)(2)(A). Pub. L. 107–107, §1048 (a)(22)(A)(i), struck out “, United States Code” after “title 5”.
 
-Subsec. (a)(2)(B), (C). Pub. L. 107–107, §1048(a)(22)(A)(ii), struck out “such” before “title 5”.
+Subsec. (a)(2)(B), (C). Pub. L. 107–107, §1048 (a)(22)(A)(ii), struck out “such” before “title 5”.
 
 Subsec. (b)(2)(A). Pub. L. 107–107, §1048(a)(22)(B), struck out “United States Code,” after “title 5,”.
 

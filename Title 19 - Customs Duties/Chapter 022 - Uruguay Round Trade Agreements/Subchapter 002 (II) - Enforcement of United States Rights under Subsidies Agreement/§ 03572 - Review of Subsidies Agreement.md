@@ -16,7 +16,7 @@ The specific objective of the United States under this subchapter shall be to cr
 
 #### (1) In general
 
-&emsp;Subparagraphs (B), (C), (D), and (E) of section 1677(5B) of this title shall cease to apply as provided in subparagraph (G)(i) of such section, unless, before the date referred to in such subparagraph (G)(i)—
+&emsp;Subparagraphs (B), (C), (D), and (E) of section 1677(5B) of this title shall cease to applyas provided in subparagraph (G)(i) of such section, unless, before the date referred to in such subparagraph (G)(i)—
 
 &emsp;&emsp;(A) the Subsidies Committee determines to extend Articles 6.1, 8, and 9 of the Subsidies Agreement as in effect on the date on which the Subsidies Agreement enters into force or in a modified form, in accordance with Article 31 of such Agreement,
 

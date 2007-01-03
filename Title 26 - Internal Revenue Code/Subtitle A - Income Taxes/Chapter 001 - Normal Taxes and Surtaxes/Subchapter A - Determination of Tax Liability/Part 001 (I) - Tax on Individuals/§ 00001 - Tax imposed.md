@@ -1,0 +1,2169 @@
+### §1. Tax imposed
+
+#### (a) Married individuals filing joint returns and surviving spouses
+
+There is hereby imposed on the taxable income of—
+
+&emsp;(1) every married individual (as defined in section 7703) who makes a single return jointly with his spouse under section 6013, and
+
+&emsp;(2) every surviving spouse (as defined in section 2(a)),
+
+> a tax determined in accordance with the following table:
+
+&nbsp;
+
+| <b>If taxable income is:</b> | <b>The tax is:</b> |
+| :--- | ---: |
+| Not over $36,900 | 15% of taxable income. |
+| Over $36,900 but not over $89,150 | $5,535, plus 28% of the excess over $36,900. |
+| Over $89,150 but not over $140,000 | $20,165, plus 31% of the excess over $89,150. |
+| Over $140,000 but not over $250,000 | $35,928.50, plus 36% of the excess over $140,000. |
+| Over $250,000 | $75,528.50, plus 39.6% of the excess over $250,000. |
+
+#### (b) Heads of households
+
+There is hereby imposed on the taxable income of every head of a household (as defined in section 2(b)) a tax determined in accordance with the following table:
+
+&nbsp;
+
+| <b>If taxable income is:</b> | <b>The tax is:</b> |
+| :--- | ---: |
+| Not over $29,600 | 15% of taxable income. |
+| Over $29,600 but not over $76,400 | $4,440, plus 28% of the excess over $29,600. |
+| Over $76,400 but not over $127,500 | $17,544, plus 31% of the excess over $76,400. |
+| Over $127,500 but not over $250,000 | $33,385, plus 36% of the excess over $127,500. |
+| Over $250,000 | $77,485, plus 39.6% of the excess over $250,000. |
+
+#### (c) Unmarried individuals (other than surviving spouses and heads of households)
+
+There is hereby imposed on the taxable income of every individual (other than a surviving spouse as defined in section 2(a) or the head of a household as defined in section 2(b)) who is not a married individual (as defined in section 7703) a tax determined in accordance with the following table:
+
+&nbsp;
+
+| <b>If taxable income is:</b> | <b>The tax is:</b> |
+| :--- | ---: |
+| Not over $22,100 | 15% of taxable income. |
+| Over $22,100 but not over $53,500 | $3,315, plus 28% of the excess over $22,100. |
+| Over $53,500 but not over $115,000 | $12,107, plus 31% of the excess over $53,500. |
+| Over $115,000 but not over $250,000 | $31,172, plus 36% of the excess over $115,000. |
+| Over $250,000 | $79,772, plus 39.6% of the excess over $250,000. |
+
+#### (d) Married individuals filing separate returns
+
+There is hereby imposed on the taxable income of every married individual (as defined in section 7703) who does not make a single return jointly with his spouse under section 6013, a tax determined in accordance with the following table:
+
+&nbsp;
+
+| <b>If taxable income is:</b> | <b>The tax is:</b> |
+| :--- | ---: |
+| Not over $18,450 | 15% of taxable income. |
+| Over $18,450 but not over $44,575 | $2,767.50, plus 28% of the excess over $18,450. |
+| Over $44,575 but not over $70,000 | $10,082.50, plus 31% of the excess over $44,575. |
+| Over $70,000 but not over $125,000 | $17,964.25, plus 36% of the excess over $70,000. |
+| Over $125,000 | $37,764.25, plus 39.6% of the excess over $125,000. |
+
+#### (e) Estates and trusts
+
+There is hereby imposed on the taxable income of—
+
+&emsp;(1) every estate, and
+
+&emsp;(2) every trust,
+
+> taxable under this subsection a tax determined in accordance with the following table:
+
+&nbsp;
+
+| <b>If taxable income is:</b> | <b>The tax is:</b> |
+| :--- | ---: |
+| Not over $1,500 | 15% of taxable income. |
+| Over $1,500 but not over $3,500 | $225, plus 28% of the excess over $1,500. |
+| Over $3,500 but not over $5,500 | $785, plus 31% of the excess over $3,500. |
+| Over $5,500 but not over $7,500 | $1,405, plus 36% of the excess over $5,500. |
+| Over $7,500 | $2,125, plus 39.6% of the excess over $7,500. |
+
+#### (f) Phaseout of marriage penalty in 15-percent bracket; adjustments in tax tables so that inflation will not result in tax increases
+
+#### (1) In general
+
+&emsp;Not later than December 15 of 1993, and each subsequent calendar year, the Secretary shall prescribe tables which shall apply in lieu of the tables contained in subsections (a), (b), (c), (d), and (e) with respect to taxable years beginning in the succeeding calendar year.
+
+#### (2) Method of prescribing tables
+
+&emsp;The table which under paragraph (1) is to apply in lieu of the table contained in subsection (a), (b), (c), (d), or (e), as the case may be, with respect to taxable years beginning in any calendar year shall be prescribed—
+
+&emsp;&emsp;(A) except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year,
+
+&emsp;&emsp;(B) by not changing the rate applicable to any rate bracket as adjusted under subparagraph (A), and
+
+&emsp;&emsp;(C) by adjusting the amounts setting forth the tax to the extent necessary to reflect the adjustments in the rate brackets.
+
+#### (3) Cost-of-living adjustment
+
+&emsp;For purposes of paragraph (2), the cost-of-living adjustment for any calendar year is the percentage (if any) by which—
+
+&emsp;&emsp;(A) the CPI for the preceding calendar year, exceeds
+
+&emsp;&emsp;(B) the CPI for the calendar year 1992.
+
+#### (4) CPI for any calendar year
+
+&emsp;For purposes of paragraph (3), the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on August 31 of such calendar year.
+
+#### (5) Consumer Price Index
+
+&emsp;For purposes of paragraph (4), the term “Consumer Price Index” means the last Consumer Price Index for all-urban consumers published by the Department of Labor. For purposes of the preceding sentence, the revision of the Consumer Price Index which is most consistent with the Consumer Price Index for calendar year 1986 shall be used.
+
+#### (6) Rounding
+
+#### (A) In general
+
+&emsp;&emsp;If any increase determined under paragraph (2)(A), section 63(c)(4), section 68(b)(2) or section 151(d)(4) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+
+#### (B) Table for married individuals filing separately
+
+&emsp;&emsp;In the case of a married individual filing a separate return, subparagraph (A) (other than with respect to sections 63(c)(4) and 151(d)(4)(A)) shall be applied by substituting “$25” for “$50” each place it appears.
+
+#### (7) Special rule for certain brackets
+
+#### (A) Calendar year 1994
+
+&emsp;&emsp;In prescribing the tables under paragraph (1) which apply with respect to taxable years beginning in calendar year 1994, the Secretary shall make no adjustment to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate begins under any table contained in subsection (a), (b), (c), (d), or (e).
+
+#### (B) Later calendar years
+
+&emsp;&emsp;In prescribing tables under paragraph (1) which apply with respect to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts referred to in subparagraph (A) shall be determined under paragraph (3) by substituting “1993” for “1992”.
+
+#### (8) Elimination of marriage penalty in 15-percent bracket
+
+&emsp;With respect to taxable years beginning after December 31, 2003, in prescribing the tables under paragraph (1)—
+
+&emsp;&emsp;(A) the maximum taxable income in the 15-percent rate bracket in the table contained in subsection (a) (and the minimum taxable income in the next higher taxable income bracket in such table) shall be 200 percent of the maximum taxable income in the 15-percent rate bracket in the table contained in subsection (c) (after any other adjustment under this subsection), and
+
+&emsp;&emsp;(B) the comparable taxable income amounts in the table contained in subsection (d) shall be 1/2 of the amounts determined under subparagraph (A).
+
+#### (g) Certain unearned income of minor children taxed as if parent's income
+
+#### (1) In general
+
+&emsp;In the case of any child to whom this subsection applies, the tax imposed by this section shall be equal to the greater of—
+
+&emsp;&emsp;(A) the tax imposed by this section without regard to this subsection, or
+
+&emsp;&emsp;(B) the sum of—
+
+&emsp;&emsp;&emsp;(i) the tax which would be imposed by this section if the taxable income of such child for the taxable year were reduced by the net unearned income of such child, plus
+
+&emsp;&emsp;&emsp;(ii) such child's share of the allocable parental tax.
+
+#### (2) Child to whom subsection applies
+
+&emsp;This subsection shall apply to any child for any taxable year if—
+
+&emsp;&emsp;(A) such child has not attained age 18 before the close of the taxable year,
+
+&emsp;&emsp;(B) either parent of such child is alive at the close of the taxable year, and
+
+&emsp;&emsp;(C) such child does not file a joint return for the taxable year.
+
+#### (3) Allocable parental tax
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “allocable parental tax” means the excess of—
+
+&emsp;&emsp;&emsp;(i) the tax which would be imposed by this section on the parent's taxable income if such income included the net unearned income of all children of the parent to whom this subsection applies, over
+
+&emsp;&emsp;&emsp;(ii) the tax imposed by this section on the parent without regard to this subsection.
+
+> &emsp;&emsp;For purposes of clause (i), net unearned income of all children of the parent shall not be taken into account in computing any exclusion, deduction, or credit of the parent.
+
+#### (B) Child's share
+
+&emsp;&emsp;A child's share of any allocable parental tax of a parent shall be equal to an amount which bears the same ratio to the total allocable parental tax as the child's net unearned income bears to the aggregate net unearned income of all children of such parent to whom this subsection applies.
+
+#### (C) Special rule where parent has different taxable year
+
+&emsp;&emsp;Except as provided in regulations, if the parent does not have the same taxable year as the child, the allocable parental tax shall be determined on the basis of the taxable year of the parent ending in the child's taxable year.
+
+#### (4) Net unearned income
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “net unearned income” means the excess of—
+
+&emsp;&emsp;&emsp;(i) the portion of the adjusted gross income for the taxable year which is not attributable to earned income (as defined in section 911(d)(2)), over
+
+&emsp;&emsp;&emsp;(ii) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount in effect for the taxable year under section 63(c)(5)(A) (relating to limitation on standard deduction in the case of certain dependents), plus
+
+&emsp;&emsp;&emsp;&emsp;(II) the greater of the amount described in subclause (I) or, if the child itemizes his deductions for the taxable year, the amount of the itemized deductions allowed by this chapter for the taxable year which are directly connected with the production of the portion of adjusted gross income referred to in clause (i).
+
+#### (B) Limitation based on taxable income
+
+&emsp;&emsp;The amount of the net unearned income for any taxable year shall not exceed the individual's taxable income for such taxable year.
+
+#### (C) Treatment of distributions from qualified disability trusts
+
+&emsp;&emsp;For purposes of this subsection, in the case of any child who is a beneficiary of a qualified disability trust (as defined in section 642(b)(2)(C)(ii)), any amount included in the income of such child under sections 652 and 662 during a taxable year shall be considered earned income of such child for such taxable year.
+
+#### (5) Special rules for determining parent to whom subsection applies
+
+&emsp;For purposes of this subsection, the parent whose taxable income shall be taken into account shall be—
+
+&emsp;&emsp;(A) in the case of parents who are not married (within the meaning of section 7703), the custodial parent (within the meaning of section 152(e)) of the child, and
+
+&emsp;&emsp;(B) in the case of married individuals filing separately, the individual with the greater taxable income.
+
+#### (6) Providing of parent's TIN
+
+&emsp;The parent of any child to whom this subsection applies for any taxable year shall provide the TIN of such parent to such child and such child shall include such TIN on the child's return of tax imposed by this section for such taxable year.
+
+#### (7) Election to claim certain unearned income of child on parent's return
+
+#### (A) In general
+
+&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;(i) any child to whom this subsection applies has gross income for the taxable year only from interest and dividends (including Alaska Permanent Fund dividends),
+
+&emsp;&emsp;&emsp;(ii) such gross income is more than the amount described in paragraph (4)(A)(ii)(I) and less than 10 times the amount so described,
+
+&emsp;&emsp;&emsp;(iii) no estimated tax payments for such year are made in the name and TIN of such child, and no amount has been deducted and withheld under section 3406, and
+
+&emsp;&emsp;&emsp;(iv) the parent of such child (as determined under paragraph (5)) elects the application of subparagraph (B),
+
+> &emsp;&emsp;such child shall be treated (other than for purposes of this paragraph) as having no gross income for such year and shall not be required to file a return under section 6012.
+
+#### (B) Income included on parent's return
+
+&emsp;&emsp;In the case of a parent making the election under this paragraph—
+
+&emsp;&emsp;&emsp;(i) the gross income of each child to whom such election applies (to the extent the gross income of such child exceeds twice the amount described in paragraph (4)(A)(ii)(I)) shall be included in such parent's gross income for the taxable year,
+
+&emsp;&emsp;&emsp;(ii) the tax imposed by this section for such year with respect to such parent shall be the amount equal to the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount determined under this section after the application of clause (i), plus
+
+&emsp;&emsp;&emsp;&emsp;(II) for each such child, 10 percent of the lesser of the amount described in paragraph (4)(A)(ii)(I) or the excess of the gross income of such child over the amount so described, and
+
+&emsp;&emsp;&emsp;(iii) any interest which is an item of tax preference under section 57(a)(5) of the child shall be treated as an item of tax preference of such parent (and not of such child).
+
+#### (C) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph.
+
+#### (h) Maximum capital gains rate
+
+#### (1) In general
+
+&emsp;If a taxpayer has a net capital gain for any taxable year, the tax imposed by this section for such taxable year shall not exceed the sum of—
+
+&emsp;&emsp;(A) a tax computed at the rates and in the same manner as if this subsection had not been enacted on the greater of—
+
+&emsp;&emsp;&emsp;(i) taxable income reduced by the net capital gain; or
+
+&emsp;&emsp;&emsp;(ii) the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of taxable income taxed at a rate below 25 percent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) taxable income reduced by the adjusted net capital gain;
+
+&emsp;&emsp;(B) 5 percent (0 percent in the case of taxable years beginning after 2007) of so much of the adjusted net capital gain (or, if less, taxable income) as does not exceed the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) the amount of taxable income which would (without regard to this paragraph) be taxed at a rate below 25 percent, over
+
+&emsp;&emsp;&emsp;(ii) the taxable income reduced by the adjusted net capital gain;
+
+&emsp;&emsp;(C) 15 percent of the adjusted net capital gain (or, if less, taxable income) in excess of the amount on which a tax is determined under subparagraph (B);
+
+&emsp;&emsp;(D) 25 percent of the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) the unrecaptured section 1250 gain (or, if less, the net capital gain (determined without regard to paragraph (11))), over
+
+&emsp;&emsp;&emsp;(ii) the excess (if any) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the sum of the amount on which tax is determined under subparagraph (A) plus the net capital gain, over
+
+&emsp;&emsp;&emsp;&emsp;(II) taxable income; and
+
+&emsp;&emsp;(E) 28 percent of the amount of taxable income in excess of the sum of the amounts on which tax is determined under the preceding subparagraphs of this paragraph.
+
+#### (2) Net capital gain taken into account as investment income
+
+&emsp;For purposes of this subsection, the net capital gain for any taxable year shall be reduced (but not below zero) by the amount which the taxpayer takes into account as investment income under section 163(d)(4)(B)(iii).
+
+#### (3) Adjusted net capital gain
+
+&emsp;For purposes of this subsection, the term “adjusted net capital gain” means the sum of—
+
+&emsp;&emsp;(A) net capital gain (determined without regard to paragraph (11)) reduced (but not below zero) by the sum of—
+
+&emsp;&emsp;&emsp;(i) unrecaptured section 1250 gain, and
+
+&emsp;&emsp;&emsp;(ii) 28-percent rate gain, plus
+
+&emsp;&emsp;(B) qualified dividend income (as defined in paragraph (11)).
+
+#### (4) 28-percent rate gain
+
+&emsp;For purposes of this subsection, the term “28-percent rate gain” means the excess (if any) of—
+
+&emsp;&emsp;(A) the sum of—
+
+&emsp;&emsp;&emsp;(i) collectibles gain; and
+
+&emsp;&emsp;&emsp;(ii) section 1202 gain, over
+
+&emsp;&emsp;(B) the sum of—
+
+&emsp;&emsp;&emsp;(i) collectibles loss;
+
+&emsp;&emsp;&emsp;(ii) the net short-term capital loss; and
+
+&emsp;&emsp;&emsp;(iii) the amount of long-term capital loss carried under section 1212(b)(1)(B) to the taxable year.
+
+#### (5) Collectibles gain and loss
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The terms “collectibles gain” and “collectibles loss” mean gain or loss (respectively) from the sale or exchange of a collectible (as defined in section 408(m) without regard to paragraph (3) thereof) which is a capital asset held for more than 1 year but only to the extent such gain is taken into account in computing gross income and such loss is taken into account in computing taxable income.
+
+#### (B) Partnerships, etc.
+
+&emsp;&emsp;For purposes of subparagraph (A), any gain from the sale of an interest in a partnership, S corporation, or trust which is attributable to unrealized appreciation in the value of collectibles shall be treated as gain from the sale or exchange of a collectible. Rules similar to the rules of section 751 shall apply for purposes of the preceding sentence.
+
+#### (6) Unrecaptured section 1250 gain
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “unrecaptured section 1250 gain” means the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) the amount of long-term capital gain (not otherwise treated as ordinary income) which would be treated as ordinary income if section 1250(b)(1) included all depreciation and the applicable percentage under section 1250(a) were 100 percent, over
+
+&emsp;&emsp;&emsp;(ii) the excess (if any) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount described in paragraph (4)(B); over
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount described in paragraph (4)(A).
+
+#### (B) Limitation with respect to section 1231 property
+
+&emsp;&emsp;The amount described in subparagraph (A)(i) from sales, exchanges, and conversions described in section 1231(a)(3)(A) for any taxable year shall not exceed the net section 1231 gain (as defined in section 1231(c)(3)) for such year.
+
+#### (7) Section 1202 gain
+
+&emsp;For purposes of this subsection, the term “section 1202 gain” means the excess of—
+
+&emsp;&emsp;(A) the gain which would be excluded from gross income under section 1202 but for the percentage limitation in section 1202(a), over
+
+&emsp;&emsp;(B) the gain excluded from gross income under section 1202.
+
+#### (8) Coordination with recapture of net ordinary losses under section 1231
+
+&emsp;If any amount is treated as ordinary income under section 1231(c), such amount shall be allocated among the separate categories of net section 1231 gain (as defined in section 1231(c)(3)) in such manner as the Secretary may by forms or regulations prescribe.
+
+#### (9) Regulations
+
+&emsp;The Secretary may prescribe such regulations as are appropriate (including regulations requiring reporting) to apply this subsection in the case of sales and exchanges by pass-thru entities and of interests in such entities.
+
+#### (10) Pass-thru entity defined
+
+&emsp;For purposes of this subsection, the term “pass-thru entity” means—
+
+&emsp;&emsp;(A) a regulated investment company;
+
+&emsp;&emsp;(B) a real estate investment trust;
+
+&emsp;&emsp;(C) an S corporation;
+
+&emsp;&emsp;(D) a partnership;
+
+&emsp;&emsp;(E) an estate or trust;
+
+&emsp;&emsp;(F) a common trust fund; and
+
+&emsp;&emsp;(G) a qualified electing fund (as defined in section 1295).
+
+#### (11) Dividends taxed as net capital gain
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subsection, the term “net capital gain” means net capital gain (determined without regard to this paragraph) increased by qualified dividend income.
+
+#### (B) Qualified dividend income
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “qualified dividend income” means dividends received during the taxable year from—
+
+&emsp;&emsp;&emsp;&emsp;(I) domestic corporations, and
+
+&emsp;&emsp;&emsp;&emsp;(II) qualified foreign corporations.
+
+#### (ii) Certain dividends excluded
+
+&emsp;&emsp;&emsp;Such term shall not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any dividend from a corporation which for the taxable year of the corporation in which the distribution is made, or the preceding taxable year, is a corporation exempt from tax under section 501 or 521,
+
+&emsp;&emsp;&emsp;&emsp;(II) any amount allowed as a deduction under section 591 (relating to deduction for dividends paid by mutual savings banks, etc.), and
+
+&emsp;&emsp;&emsp;&emsp;(III) any dividend described in section 404(k).
+
+#### (iii) Coordination with section 246(c)
+
+&emsp;&emsp;&emsp;Such term shall not include any dividend on any share of stock—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to which the holding period requirements of section 246(c) are not met (determined by substituting in section 246(c) “60 days” for “45 days” each place it appears and by substituting “121-day period” for “91-day period”), or
+
+&emsp;&emsp;&emsp;&emsp;(II) to the extent that the taxpayer is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
+
+#### (C) Qualified foreign corporations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified foreign corporation” means any foreign corporation if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such corporation is incorporated in a possession of the United States, or
+
+&emsp;&emsp;&emsp;&emsp;(II) such corporation is eligible for benefits of a comprehensive income tax treaty with the United States which the Secretary determines is satisfactory for purposes of this paragraph and which includes an exchange of information program.
+
+#### (ii) Dividends on stock readily tradable on United States securities market
+
+&emsp;&emsp;&emsp;A foreign corporation not otherwise treated as a qualified foreign corporation under clause (i) shall be so treated with respect to any dividend paid by such corporation if the stock with respect to which such dividend is paid is readily tradable on an established securities market in the United States.
+
+#### (iii) Exclusion of dividends of certain foreign corporations
+
+&emsp;&emsp;&emsp;Such term shall not include any foreign corporation which for the taxable year of the corporation in which the dividend was paid, or the preceding taxable year, is a passive foreign investment company (as defined in section 1297).
+
+#### (iv) Coordination with foreign tax credit limitation
+
+&emsp;&emsp;&emsp;Rules similar to the rules of section 904(b)(2)(B) shall apply with respect to the dividend rate differential under this paragraph.
+
+#### (D) Special rules
+
+#### (i) Amounts taken into account as investment income
+
+&emsp;&emsp;&emsp;Qualified dividend income shall not include any amount which the taxpayer takes into account as investment income under section 163(d)(4)(B).
+
+#### (ii) Extraordinary dividends
+
+&emsp;&emsp;&emsp;If a taxpayer to whom this section applies receives, with respect to any share of stock, qualified dividend income from 1 or more dividends which are extraordinary dividends (within the meaning of section 1059(c)), any loss on the sale or exchange of such share shall, to the extent of such dividends, be treated as long-term capital loss.
+
+#### (iii) Treatment of dividends from regulated investment companies and real estate investment trusts
+
+&emsp;&emsp;&emsp;A dividend received from a regulated investment company or a real estate investment trust shall be subject to the limitations prescribed in sections 854 and 857.
+
+#### (i) Rate reductions after 2000
+
+#### (1) 10-percent rate bracket
+
+#### (A) In general
+
+&emsp;&emsp;In the case of taxable years beginning after December 31, 2000—
+
+&emsp;&emsp;&emsp;(i) the rate of tax under subsections (a), (b), (c), and (d) on taxable income not over the initial bracket amount shall be 10 percent, and
+
+&emsp;&emsp;&emsp;(ii) the 15 percent rate of tax shall apply only to taxable income over the initial bracket amount but not over the maximum dollar amount for the 15-percent rate bracket.
+
+#### (B) Initial bracket amount
+
+&emsp;&emsp;For purposes of this paragraph, the initial bracket amount is—
+
+&emsp;&emsp;&emsp;(i) $14,000 in the case of subsection (a),
+
+&emsp;&emsp;&emsp;(ii) $10,000 in the case of subsection (b), and
+
+&emsp;&emsp;&emsp;(iii) 1/2 the amount applicable under clause (i) (after adjustment, if any, under subparagraph (C)) in the case of subsections (c) and (d).
+
+#### (C) Inflation adjustment
+
+&emsp;&emsp;In prescribing the tables under subsection (f) which apply with respect to taxable years beginning in calendar years after 2003—
+
+&emsp;&emsp;&emsp;(i) the cost-of-living adjustment shall be determined under subsection (f)(3) by substituting “2002” for “1992” in subparagraph (B) thereof, and
+
+&emsp;&emsp;&emsp;(ii) the adjustments under clause (i) shall not apply to the amount referred to in subparagraph (B)(iii).
+
+> &emsp;&emsp;If any amount after adjustment under the preceding sentence is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.
+
+#### (D) Coordination with acceleration of 10 percent rate bracket benefit for 2001
+
+&emsp;&emsp;This paragraph shall not apply to any taxable year to which section 6428 applies.
+
+#### (2) Reductions in rates after June 30, 2001
+
+&emsp;In the case of taxable years beginning in a calendar year after 2000, the corresponding percentage specified for such calendar year in the following table shall be substituted for the otherwise applicable tax rate in the tables under subsections (a), (b), (c), (d), and (e).
+
+&nbsp;
+
+| &nbsp; | <b>In the case of taxable years beginning during calendar year:</b> | <b>The corresponding percentages shall be substituted for the following percentages:</b> |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | ---: |
+| <b>28%</b> | <b>31%</b> | <b>36%</b> | <b>39.6%</b> |  |  |
+|  | 2001 | 27\.5% | 30\.5% | 35\.5% | 39\.1% |
+|  | 2002 | 27\.0% | 30\.0% | 35\.0% | 38\.6% |
+|  | 2003 and thereafter | 25\.0% | 28\.0% | 33\.0% | 35\.0% |
+
+#### (3) Adjustment of tables
+
+&emsp;The Secretary shall adjust the tables prescribed under subsection (f) to carry out this subsection.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 105 of Pub. L. 108–311, see Effective and Termination Dates of 2004 Amendments note below.</i>
+
+<i>For termination of amendment by sections 107 and 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+
+#### Tax Tables for Taxable Years Beginning in 2007
+
+Revenue Procedure 2006–53 provided:
+
+#### Section 1. Purpose
+
+This revenue procedure sets forth inflation adjusted items for 2007.
+
+#### Section 2. Changes
+
+.01 Under §25B eligible individuals are allowed a credit against tax equal to the applicable percentage of qualified retirement savings contributions of the individual that do not exceed $2,000. Section 833(a) of the Pension Protection Act of 2006, Pub. L. No. 109–280, 120 Stat. 780 (2006) (PPA), added §25B(b)(3), which provides that the adjusted gross income amounts in §25B(b) used to determine the applicable percentage for calculating the credit are adjusted for inflation. (See section 3.06 of this revenue procedure.)
+
+.02 Section 219(a) allows individuals to deduct qualified retirement contributions for a taxable year. Section 833(b) of the PPA added §219(g)(8), which provides that the applicable dollar amount under §219(g)(3) used to determine the amount of reduction for the limitation on deduction for taxpayers who are active participants and for spouses who are not active participants in certain pension plans is adjusted for inflation. (See section 3.21 of this revenue procedure.)
+
+.03 Section 408A(c) provides rules for the tax treatment of contributions made to Roth IRAs. Section 833(c) of the PPA added §408A(c)(3)(C), which provides that the applicable dollar amount under §408A(c)(3) used to determine the dollar limit, based on modified adjusted gross income, for the contribution limit to Roth IRAs is adjusted for inflation. (See section 3.25 of this revenue procedure.)
+
+.04 Q\&A 14 of Rev. Proc. 2002–41, 2002–1 C.B. 1098, provides an inflation adjustment method for the hourly rates used to determine the amounts deemed substantiated for payments made by transportation mainline pipeline construction employers under accountable plans. (See section 3.10 of this revenue procedure.)
+
+Q\&A 14 is modified to read as follows:
+
+Q–14. Will the amount deemed substantiated under this revenue procedure be adjusted for inflation?
+
+A–14. Yes. For calendar years after 2006, the hourly rate will be adjusted annually for inflation under §1(f)(3), except that the base year for such adjustment will be calendar year 2002 and any adjustment will be rounded to the nearest dollar. Any adjustment to the rates provided in this revenue procedure will be published annually.
+
+#### Section 3. 2007 Adjusted Items
+
+.01 Tax Rate Tables. For taxable years beginning in 2007, the tax rate tables under §1 are as follows:
+
+Table 1—Section 1(a).—Married Individuals Filing Joint Returns and Surviving Spouses
+
+| If Taxable Income Is: | The Tax Is: |
+| :--- | ---: |
+| Not Over $15,650 | 10% of the taxable income |
+| Over $15,650 but not over $63,700 | $1,565 plus 15% of the excess over $15,650 |
+| Over $63,700 but not over $128,500 | $8,772.50 plus 25% of the excess over $63,700 |
+| Over $128,500 but not over $195,850 | $24,972.50 plus 28% of the excess over $128,500 |
+| Over $195,850 but not over $349,700 | $43,830.50 plus 33% of the excess over $195,850 |
+| Over $349,700 | $94,601 plus 35% of the excess over $349,700 |
+
+Table 2—Section 1(b).—Heads of Households
+
+| If Taxable Income Is: | The Tax Is: |
+| :--- | ---: |
+| Not Over $11,200 | 10% of the taxable income |
+| Over $11,200 but not over $42,650 | $1,120 plus 15% of the excess over $11,200 |
+| Over $42,650 but not over $110,100 | $5,837.50 plus 25% of the excess over $42,650 |
+| Over $110,100 but not over $178,350 | $22,700 plus 28% of the excess over $110,100 |
+| Over $178,350 but not over $349,700 | $41,810 plus 33% of the excess over $178,350 |
+| Over $349,700 | $98,355.50 plus 35% of the excess over $349,700 |
+
+Table 3—Section 1(c).—Unmarried Individuals (other than Surviving Spouses and Heads of Households).
+
+| If Taxable Income Is: | The Tax Is: |
+| :--- | ---: |
+| Not Over $7,825 | 10% of the taxable income |
+| Over $7,825 but not over $31,850 | $782.50 plus 15% of the excess over $7,825 |
+| Over $31,850 but not over $77,100 | $4,386.25 plus 25% of the excess over $31,850 |
+| Over $77,100 but not over $160,850 | $15,698.75 plus 28% of the excess over $77,100 |
+| Over $160,850 but not over $349,700 | $39,148.75 plus 33% of the excess over $160,850 |
+| Over $349,700 | $101,469.25 plus 35% of the excess over $349,700 |
+
+Table 4—Section 1(d).—Married Individuals Filing Separate Returns
+
+| If Taxable Income Is: | The Tax Is: |
+| :--- | ---: |
+| Not Over $7,825 | 10% of the taxable income |
+| Over $7,825 but not over $31,850 | $782.50 plus 15% of the excess over $7,825 |
+| Over $31,850 but not over $64,250 | $4,386.25 plus 25% of the excess over $31,850 |
+| Over $64,250 but not over $97,925 | $12,486.25 plus 28% of the excess over $64,250 |
+| Over $97,925 but not over $174,850 | $21,915.25 plus 33% of the excess over $97,925 |
+| Over $174,850 | $47,300.50 plus 35% of the excess over $174,850 |
+
+Table 5—Section 1(e).—Estates and Trusts
+
+| If Taxable Income Is: | The Tax Is: |
+| :--- | ---: |
+| Not Over $2,150 | 15% of the taxable income |
+| Over $2,150 but not over $5,000 | $322.50 plus 25% of the excess over $2,150 |
+| Over $5,000 but not over $7,650 | $1,035 plus 28% of the excess over $5,000 |
+| Over $7,650 but not over $10,450 | $1,777 plus 33% of the excess over $7,650 |
+| Over $10,450 | $2,701 plus 35% of the excess over $10,450 |
+
+.02 Unearned Income of Minor Children Taxed as if Parent's Income (the “Kiddie Tax”). For taxable years beginning in 2007, the amount in §1(g)(4)(A)(ii)(I), which is used to reduce the net unearned income reported on the child's return that is subject to the “kiddie tax,” is $850. This amount is the same as the $850 standard deduction amount provided in section 3.11(2) of this revenue procedure. The same $850 amount is used for purposes of §1(g)(7) (that is, to determine whether a parent may elect to include a child's gross income in the parent's gross income and to calculate the “kiddie tax”). For example, one of the requirements for the parental election is that a child's gross income is more than the amount referenced in §1(g)(4)(A)(ii)(I) but less than 10 times that amount; thus, a child's gross income for 2007 must be more than $850 but less than $8,500.
+
+.03 Adoption Credit. For taxable years beginning in 2007, under §23(a)(3) the credit allowed for an adoption of a child with special needs is $11,390. For taxable years beginning in 2007, under §23(b)(1) the maximum credit allowed for other adoptions is the amount of qualified adoption expenses up to $11,390. The available adoption credit begins to phase out under §23(b)(2)(A) for taxpayers with modified adjusted gross income in excess of $170,820 and is completely phased out for taxpayers with modified adjusted gross income of $210,820 or more. (See section 3.15 of this revenue procedure for the adjusted items relating to adoption assistance programs.)
+
+.04 Child Tax Credit. For taxable years beginning in 2007, the value used in §24(d)(1)(B)(i) to determine the amount of credit under §24 that may be refundable is $11,750.
+
+.05 Hope and Lifetime Learning Credits.
+
+(1) For taxable years beginning in 2007, the Hope Scholarship Credit under §25A(b)(1) is an amount equal to 100 percent of qualified tuition and related expenses not in excess of $1,100 plus 50 percent of those expenses in excess of $1,100, but not in excess of $2,200. Accordingly, the maximum Hope Scholarship Credit allowable under §25A(b)(1) for taxable years beginning in 2007 is $1,650.
+
+(2) For taxable years beginning in 2007, a taxpayer's modified adjusted gross income in excess of $47,000 ($94,000 for a joint return) is used to determine the reduction under §25A(d)(2)(A)(ii) in the amount of the Hope Scholarship and Lifetime Learning Credits otherwise allowable under §25A(a).
+
+.06 Elective Deferrals and IRA Contributions by Certain Individuals. For taxable years beginning in 2007, the applicable percentage under §25B(b) is determined based on the following amounts:
+
+Modified Adjusted Gross Income
+
+| Joint Return | Head of Household | All Other Cases | &nbsp; |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
+| Over | Not Over | Over | Not Over | Over | Not Over | Applicable Percentage |
+| $0 | $31,000 | $0 | $23,250 | $0 | $15,500 | 50% |
+| $31,000 | $34,000 | $23,250 | $25,500 | $15,500 | $17,000 | 20% |
+| $34,000 | $52,000 | $25,500 | $39,000 | $17,000 | $26,000 | 10% |
+| $52,000 | &nbsp; | $39,000 | &nbsp; | $26,000 | &nbsp; | 0% |
+
+.07 Earned Income Credit.
+
+(1) In general. For taxable years beginning in 2007, the following amounts are used to determine the earned income credit under §32(b). The “earned income amount” is the amount of earned income at or above which the maximum amount of the earned income credit is allowed. The “threshold phaseout amount” is the amount of adjusted gross income (or, if greater, earned income) above which the maximum amount of the credit begins to phase out. The “completed phaseout amount” is the amount of adjusted gross income (or, if greater, earned income) at or above which no credit is allowed.
+
+&nbsp;
+
+| &nbsp; | Number of Qualifying Children |  |  |
+| :--- | :---: | :---: | ---: |
+| Item | One | Two or More | None |
+| Earned Income Amount | $ 8,390 | $11,790 | $ 5,590 |
+| Maximum Amount of Credit | $ 2,853 | $ 4,716 | $    428 |
+| Threshold Phaseout Amount (Single, Surviving Spouse, or Head of Household) | $15,390 | $15,390 | $ 7,000 |
+| Completed Phaseout Amount (Single, Surviving Spouse, or Head of Household) | $33,241 | $37,783 | $12,590 |
+| Threshold Phaseout Amount (Married Filing Jointly) | $17,390 | $17,390 | $ 9,000 |
+| Completed Phaseout Amount (Married Filing Jointly) | $35,241 | $39,783 | $14,590 |
+
+The instructions for the Form 1040 series provide tables showing the amount of the earned income credit for each type of taxpayer.
+
+(2) Excessive investment income. For taxable years beginning in 2007, the earned income tax credit isnot allowed under §32(i) if the aggregate amount of certain investment income exceeds $2,900.
+
+.08 Low-Income Housing Credit. For calendar year 2007, the amounts used under §42(h)(3)(C)(ii) to calculate the State housing credit ceiling for the low-income housing credit is the greater of (1) $1.95 multiplied by the State population, or (2) $2,275,000.
+
+.09 Alternative Minimum Tax Exemption for a Child Subject to the “Kiddie Tax.” For taxable years beginning in 2007, for a child to whom the §1(g) “kiddie tax” applies, the exemption amount under §§55 and 59(j) for purposes of the alternative minimum tax under §55 may not exceed the sum of (1) the child's earned income for the taxable year, plus (2) $6,300.
+
+.10 Transportation Mainline Pipeline Construction Industry Optional Expense Substantiation Rules for Payments to Employees under Accountable Plans. For calendar year 2007, an eligible employer may pay certain welders and heavy equipment mechanics an amount of up to $15 per hour for rig-related expenses that is deemed substantiated under an accountable plan if paid in accordance with Rev. Proc. 2002–41. If the employer provides fuel or otherwise reimburses fuel expenses, up to $9 per hour is deemed substantiated if paid under Rev. Proc. 2002–41.
+
+.11 Standard Deduction.
+
+(1) In general. For taxable years beginning in 2007, the standard deduction amounts under §63(c)(2) are as follows:
+
+&nbsp;
+
+| Filing Status | Standard Deduction |
+| :--- | ---: |
+| Married Individuals Filing Joint Returns and Surviving Spouses (§1(a)) | $10,700 |
+| Heads of Households (§1(b)) | $7,850 |
+| Unmarried Individuals (other than Surviving Spouses and Heads of Households) (§1(c)) | $5,350 |
+| Married Individuals Filing Separate Returns (§1(d)) | $5,350 |
+
+(2) Dependent. For taxable years beginning in 2007, the standard deduction amount under §63(c)(5) for an individual who may be claimed as a dependent by another taxpayer cannot exceed the greater of (1) $850, or (2) the sum of $300 and the individual's earned income.
+
+(3) Aged or blind. For taxable years beginning in 2007, the additional standard deduction amount under §63(f) for the aged or the blind is $1,050. These amounts are increased to $1,300 if the individual is also unmarried and not a surviving spouse.
+
+.12 Overall Limitation on Itemized Deductions. For taxable years beginning in 2007, the “applicable amount” of adjusted gross income under §68(b), above which the amount of otherwise allowable itemized deductions is reduced under §68, is $156,400 (or $78,200 for a separate return filed by a married individual).
+
+.13 Qualified Transportation Fringe. For taxable years beginning in 2007, the monthly limitation under §132(f)(2)(A), regarding the aggregate fringe benefit exclusion amount for transportation in a commuter highway vehicle and any transit pass, is $110. The monthly limitation under §132(f)(2)(B), regarding the fringe benefit exclusion amount for qualified parking, is $215.
+
+.14 Income from United States Savings Bonds for Taxpayers Who Pay Qualified Higher Education Expenses. For taxable years beginning in 2007, the exclusion under §135, regarding income from United States savings bonds for taxpayers who pay qualified higher education expenses, begins to phase out for modified adjusted gross income above $98,400 for joint returns and $65,600 for other returns. The exclusion is completely phased out for modified adjusted gross income of $128,400 or more for joint returns and $80,600 or more for other returns.
+
+.15 Adoption Assistance Programs. For taxable years beginning in 2007, under §137(a)(2) the amount that can be excluded from an employee's gross income for the adoption of a child with special needs is $11,390. For taxable years beginning in 2007, under §137(b)(1) the maximum amount that can be excluded from an employee's gross income for the amounts paid or expenses incurred by an employer for qualified adoption expenses furnished pursuant to an adoption assistance program for other adoptions by the employee is $11,390. The amount excludable from an employee's gross income begins to phase out under §137(b)(2)(A) for taxpayers with modified adjusted gross income in excess of $170,820 and is completely phased out for taxpayers with modified adjusted gross income of $210,820 or more. (See section 3.03 of this revenue procedure for the adjusted items relating to the adoption credit.)
+
+.16 Private Activity Bonds Volume Cap. For calendar year 2007, the amounts used under §146(d)(1) to calculate the State ceiling for the volume cap for private activity bonds are the greater of (1) $85 multiplied by the State population, or (2) $256,235,000.
+
+.17 Safe Harbor Rules for Broker Commissions on Guaranteed Investment Contracts or Investments Purchased for a Yield Restricted Defeasance Escrow. For calendar year 2007, under §1.148–5(e)(2)(iii)(B)(1), a broker's commission or similar fee for the acquisition of a guaranteed investment contract or investments purchased for a yield restricted defeasance escrow is reasonable if (1) the amount of the fee that the issuer treats as a qualified administrative cost does not exceed the lesser of (A) $33,000, or (B) 0.2 percent of the computational base (as defined in §1.148–5(e)(2)(iii)(B)(2)) or, if more, $3,000; and (2) the issuer does not treat more than $93,000 in brokers’ commissions or similar fees as qualified administrative costs for all guaranteed investment contracts and investments for yield restricted defeasance escrows purchased with gross proceeds of the issue.
+
+.18 Personal Exemption.
+
+(1) Exemption amount. For taxable years beginning in 2007, the personal exemption amount under §151(d) is $3,400. The exemption amount for taxpayers with adjusted gross income in excess of the maximum phaseout amount is $1,133 for taxable years beginning in 2007.
+
+(2) Phaseout. For taxable years beginning in 2007, the personal exemption amount begins to phase out at, and reaches the maximum phaseout amount after, the following adjusted gross income amounts:
+
+&nbsp;
+
+| Filing Status | AGI—Beginning of Phaseout | AGI—Maximum Phaseout |
+| :--- | :---: | ---: |
+| Married Individuals Filing Joint Returns and Surviving Spouses (§1(a)) | $234,600 | $357,100 |
+| Heads of Households (§1(b)) | $195,500 | $318,000 |
+| Unmarried Individuals (other than Surviving Spouses and Heads of Households) (§1(c)) | $156,400 | $278,900 |
+| Married Individuals Filing Separate Returns (§1(d)) | $117,300 | $178,550 |
+
+.19 Election to Expense Certain Depreciable Assets. For taxable years beginning in 2007, under §179(b)(1) the aggregate cost of any §179 property a taxpayer may elect to treat as an expense can not exceed $112,000. Under §179(b)(2) the $112,000 limitation is reduced (but not below zero) by the amount by which the cost of §179 property placed in service during the 2007 taxable year exceeds $450,000.
+
+.20 Eligible Long-Term Care Premiums. For taxable years beginning in 2007, the limitations under §213(d)(10), regarding eligible long-term care premiums includible in the term “medical care,” are as follows:
+
+&nbsp;
+
+| Attained Age Before the Close of the Taxable Year | Limitation on Premiums |
+| :--- | ---: |
+| 40 or less | $   290 |
+| More than 40 but not more than 50 | $   550 |
+| More than 50 but not more than 60 | $1,110 |
+| More than 60 but not more than 70 | $2,950 |
+| More than 70 | $3,680 |
+
+.21 Retirement Savings.
+
+(1) For taxable years beginning in 2007, the applicable dollar amount under §219(g)(3)(B)(i) for taxpayers filing a joint return is $83,000. If the taxpayer's spouse is not an active participant, the applicable dollar amount for the spouse under §219(g)(3)(B)(i) is $156,000 for taxable years beginning in 2007.
+
+(2) For taxable years beginning in 2007, the applicable dollar amount under §219(g)(3)(B)(ii) for all other taxpayers (except for married taxpayers filing separately) is $52,000.
+
+(3) The applicable dollar amount under §219(g)(3)(B)(iii) for married taxpayers filing separately is $0.
+
+.22 Medical Savings Accounts.
+
+(1) Self-only coverage. For taxable years beginning in 2007, the term “high deductible health plan” as defined in §220(c)(2)(A) means, for self-only coverage, a health plan that has an annual deductible that is not less than $1,900 and not more than $2,850, and under which the annual out-of-pocket expenses required to be paid (other than for premiums) for covered benefits does not exceed $3,750.
+
+(2) Family coverage. For taxable years beginning in 2007, the term “high deductible health plan” means, for family coverage, a health plan that has an annual deductible that is not less than $3,750 and not more than $5,650, and under which the annual out-of-pocket expenses required to be paid (other than for premiums) for covered benefits does not exceed $6,900.
+
+.23 Interest on Education Loans. For taxable years beginning in 2007, the $2,500 maximum deduction for interest paid on qualified education loans under §221 begins to phase out under §221(b)(2)(B) for taxpayers with modified adjusted gross income in excess of $55,000 ($110,000 for joint returns), and is completely phased out for taxpayers with modified adjusted gross income of $70,000 or more ($140,000 or more for joint returns).
+
+.24 Health Savings Accounts.
+
+(1) Monthly contribution limitation. For calendar year 2007, the monthly limitation for any month on deductions under §223(b)(2)(A) for an individual with self-only coverage under a high deductible plan as of the first day of the month is 1/12 of the lesser of (1) the annual deductible, or (2) $2,850. For calendar year 2007, the monthly limitation for any month on deductions under §223(b)(2)(B) for an individual with family coverage under a high deductible plan as of the first day of the month is 1/12 of the lesser of (1) the annual deductible, or (2) $5,650.
+
+(2) High deductible health plan. For calendar year 2007, a “high deductible health plan” is defined under §223(c)(2)(A) as a health plan with an annual deductible that is not less than $1,100 for self-only coverage or $2,200 for family coverage, and the annual out-of pocket expenses (deductibles, co-payments, and other amounts, but not premiums) do not exceed $5,500 for self-only coverage or $11,000 for family coverage.
+
+.25 Roth IRAs.
+
+(1) For taxable years beginning in 2007, the applicable dollar amount under §408A(c)(3)(C)(ii)(I) for taxpayers filing a joint return is $156,000.
+
+(2) For taxable years beginning in 2007, the applicable dollar amount under §408A(c)(3)(C)(ii)(II) for all other taxpayers (except for married taxpayers filing separately) is $99,000.
+
+(3) The applicable dollar amount under §408A(c)(3)(C)(ii)(III) for married taxpayers filing separately is $0.
+
+.26 Treatment of Dues Paid to Agricultural or Horticultural Organizations. For taxable years beginning in 2007, the limitation under §512(d)(1), regarding the exemption of annual dues required to be paid by a member to an agricultural or horticultural organization, is $136.
+
+.27 Insubstantial Benefit Limitations for Contributions Associated with Charitable Fund-Raising Campaigns.
+
+(1) Low cost article. For taxable years beginning in 2007, the unrelated business income of certain exempt organizations under §513(h)(2) does not include a “low cost article” of $8.90 or less.
+
+(2) Other insubstantial benefits. For taxable years beginning in 2007, the $5, $25, and $50 guidelines in section 3 of Rev. Proc. 90–12, 1990–1 C.B. 471 (as amplified by Rev. Proc. 92–49, 1992–1 C.B. 987, and modified by Rev. Proc. 92–102, 1992–2 C.B. 579), for disregarding the value of insubstantial benefits received by a donor in return for a fully deductible charitable contribution under §170, are $8.90, $44.50, and $89, respectively.
+
+.28 Funeral Trusts. For a contract entered into during calendar year 2007 for a “qualified funeral trust,” as defined in §685, the trust may not accept aggregate contributions by or for the benefit of an individual in excess of $8,800.
+
+.29 Expatriation to Avoid Tax. For calendar year 2007, an individual with “average annual net income tax” of more than $136,000 for the five taxable years ending before the date of the loss of United States citizenship under §877(a)(2)(A) is subject to tax under §877(b).
+
+.30 Foreign Earned Income Exclusion. For taxable years beginning in 2007, the foreign earned income exclusion amount under §911(b)(2)(D)(i) is $85,700.
+
+.31 Valuation of Qualified Real Property in Decedent's Gross Estate. For an estate of a decedent dying in calendar year 2007, if the executor elects to use the special use valuation method under §2032Afor qualified real property, the aggregate decrease in the value of qualified real property resulting from electing to use §2032A for purposes of the estate tax can not exceed $940,000.
+
+.32 Annual Exclusion for Gifts.
+
+(1) For calendar year 2007, the first $12,000 of gifts to any person (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §2503 made during that year.
+
+(2) For calendar year 2007, the first $125,000 of gifts to a spouse who is not a citizen of the United States (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §§2503 and 2523(i)(2) made during that year.
+
+.33 Tax on Arrow Shafts. For calendar year 2007, the tax imposed under §4161(b)(2)(A) on the first sale by the manufacturer, producer, or importer of any shaft of a type used in the manufacture of certain arrows is $0.42 per shaft.
+
+.34 Passenger Air Transportation Excise Tax. For calendar year 2007, the tax under §4261(b) on the amount paid for each domestic segment of taxable air transportation is $3.40. For calendar year 2007, the tax under §4261(c) on any amount paid (whether within or without the United States) for any air transportation, if the transportation begins or ends in the United States, generally is $15.10. However, for a domestic segment beginning or ending in Alaska or Hawaii as described in §4261(c)(3), the tax applies only to departures and the rate is $7.50.
+
+.35 Reporting Exception for Certain Exempt Organizations with Nondeductible Lobbying Expenditures. For taxable years beginning in 2007, the annual per person, family, or entity dues limitation to qualify for the reporting exception under §6033(e)(3) (and section 5.05 of Rev. Proc. 98–19, 1998–1 C.B. 547), regarding certain exempt organizations with nondeductible lobbying expenditures, is $95 or less.
+
+.36 Notice of Large Gifts Received from Foreign Persons. For taxable years beginning in 2007, recipients of gifts from certain foreign persons may be required to report these gifts under §6039F if the aggregate value of gifts received in a taxable year exceeds $13,258.
+
+.37 Persons Against Whom a Federal Tax Lien Is Not Valid. For calendar year 2007, a federal tax lien is not valid against (1) certain purchasers under §6323(b)(4) who purchased personal property in a casual sale for less than $1,290, or (2) a mechanic's lienor under §6323(b)(7) that repaired or improved certain residential property if the contract price with the owner is not more than $6,450.
+
+.38 Property Exempt from Levy. For calendar year 2007, the value of property exempt from levy under §6334(a)(2) (fuel, provisions, furniture, and other household personal effects, as well as arms for personal use, livestock, and poultry) can not exceed $7,720. The value of property exempt from levy under §6334(a)(3) (books and tools necessary for the trade, business, or profession of the taxpayer) can not exceed $3,860.
+
+.39 Interest on a Certain Portion of the Estate Tax Payable in Installments. For an estate of a decedent dying in calendar year 2007, the dollar amount used to determine the “2-percent portion” (for purposes of calculating interest under §6601(j)) of the estate tax extended as provided in §6166 is $1,250,000.
+
+.40 Attorney Fee Awards. For fees incurred in calendar year 2007, the attorney fee award limitation under §7430(c)(1)(B)(iii) is $170 per hour.
+
+.41 Periodic Payments Received under Qualified Long-Term Care Insurance Contracts or under Certain Life Insurance Contracts. For calendar year 2007, the stated dollar amount of the per diem limitation under §7702B(d)(4), regarding periodic payments received under a qualified long-term care insurance contract or periodic payments received under a life insurance contract that are treated as paid by reason of the death of a chronically ill individual, is $260.
+
+#### Section 4. Effect on Other Documents
+
+Rev. Proc. 2002–41 is modified for taxable years beginning after December 31, 2006.
+
+#### Section 5. Effective Date
+
+.01 General Rule. Except as provided in section 5.02, this revenue procedure applies to taxable years beginning in 2007.
+
+.02 Calendar Year Rule. This revenue procedure applies to transactions or events occurring in calendar year 2007 for purposes of sections 3.08 (low-income housing credit), 3.10 (pipeline construction industry optional expense substantiation rules), 3.16 (private activity bond volume cap), 3.17 (safe harbor rules for broker commissions on guaranteed investment contracts or investments purchased for a yield restricted defeasance escrow), 3.24 (health savings accounts), 3.28 (funeral trusts), 3.29 (expatriation to avoid tax), 3.31 (valuation of qualified real property in decedent's gross estate), 3.32 (annual exclusion for gifts), 3.33 (tax on arrow shafts), 3.34 (passenger air transportation excise tax), 3.37 (persons against whom a federal tax lien is not valid), 3.38 (property exempt from levy), 3.39 (interest on a certain portion of the estate tax payable in installments), 3.40 (attorney fee awards), and 3.41 (periodic payments received under qualified long-term care insurance contracts or under certain life insurance contracts).
+
+#### Section 6. Drafting Information
+
+\[Omitted–related to author of this revenue procedure.\]
+
+#### Tax Tables for Prior Tax Years
+
+Inflation adjusted items for certain prior tax years were contained in the following:
+
+Revenue Procedure 2005–70 provided for inflation adjusted items for tax years beginning in 2006.
+
+Revenue Procedure 2004–71 provided for inflation adjusted items for tax years beginning in 2005.
+
+Revenue Procedure 2003–85 provided inflation adjusted items for tax years beginning in 2004.
+
+Revenue Procedure 2002–70 provided inflation adjusted items for tax years beginning in 2003.
+
+Revenue Procedure 2001–59 provided inflation adjusted items for tax years beginning in 2002.
+
+Revenue Procedure 2001–13 provided inflation adjusted items for tax years beginning in 2001.
+
+Revenue Procedure 99–42 provided inflation adjusted items for tax years beginning in 2000.
+
+Revenue Procedure 98–61 provided inflation adjusted items for tax years beginning in 1999.
+
+Revenue Procedure 97–57 provided inflation adjusted items for tax years beginning in 1998.
+
+Revenue Procedure 96–59 provided inflation adjusted items for tax years beginning in 1997.
+
+Revenue Procedure 95–53 provided inflation adjusted items for tax years beginning in 1996.
+
+Revenue Procedure 94–72 provided inflation adjusted items for tax years beginning in 1995.
+
+Revenue Procedure 93–49 provided inflation adjusted items for tax years beginning in 1994.
+
+Revenue Procedure 92–102 provided inflation adjusted items for tax years beginning in 1993.
+
+Revenue Procedure 91–65 provided inflation adjusted items for tax years beginning in 1992.
+
+Revenue Procedure 90–64 provided inflation adjusted items for tax years beginning in 1991.
+
+Revenue Procedure 90–7 provided inflation adjusted items for tax years beginning in 1990.
+
+Revenue Procedure 88–56 provided inflation adjusted items for tax years beginning in 1989.
+
+Revenue Procedure 85–55 provided income tax cost-of-living adjustment (indexing) factor with respect to taxable years beginning in 1986.
+
+Revenue Procedure 84–79 provided income tax cost-of-living adjustment (indexing) factor with respect to taxable years beginning in 1985.
+
+#### References in Text
+
+The enactment of this clause, referred to in subsec. (h)(13)(A)(iii), means the date of enactment of Pub. L. 105–206, which was approved July 22, 1998.
+
+#### Amendments
+
+2006—Subsec. (g)(2)(A). Pub. L. 109–222, §510(a), substituted “age 18” for “age 14”.
+
+Subsec. (g)(2)(C). Pub. L. 109–222, §510(c), added subpar. (C).
+
+Subsec. (g)(4)(C). Pub. L. 109–222, §510(b), added subpar. (C).
+
+2004—Subsec. (f)(8). Pub. L. 108–311, §§101(c), 105, temporarily amended par. (8) generally, substituting provisions relating to elimination of marriage penalty in 15-percent bracket for provisions relating to phaseout of marriage penalty in 15-percent bracket. See Effective and Termination Dates of 2004 Amendments note below.
+
+Subsec. (g)(7)(B)(ii)(II). Pub. L. 108–311, §408(a)(1), substituted “10 percent” for “10 percent.”
+
+Subsec. (h)(1)(D)(i). Pub. L. 108–311, §402(a)(1), inserted “(determined without regard to paragraph (11))” after “net capital gain”.
+
+Subsec. (h)(6)(A)(ii)(I). Pub. L. 108–311, §408(a)(2)(A), substituted “(4)(B)” for “(5)(B)”.
+
+Subsec. (h)(6)(A)(ii)(II). Pub. L. 108–311, §408(a)(2)(B), substituted “(4)(A)” for “(5)(A)”.
+
+Subsec. (h)(10)(F) to (H). Pub. L. 108–357, §413(c)(1)(A), inserted “and” at end of subpar. (F), redesignated subpar. (H) as (G), and struck out former subpar. (G) which read as follows: “a foreign investment company which is described in section 1246(b)(1) and for which an election is in effect under section 1247; and”.
+
+Subsec. (h)(11)(B)(iii)(I). Pub. L. 108–311, §402(a)(2), substituted “substituting in section 246(c)” for “substituting in section 246(c)(1)”, “121-day period” for “120-day period”, and “91-day period” for “90-day period”.
+
+Subsec. (h)(11)(C)(iii). Pub. L. 108–357, §413(c)(1)(B), struck out “a foreign personal holding company (as defined in section 552), a foreign investment company (as defined in section 1246(b)), or” before “a passive foreign investment”.
+
+Subsec. (h)(11)(D)(ii). Pub. L. 108–311, §402(a)(3), substituted “a taxpayer to whom this section applies” for “an individual”.
+
+Subsec. (i)(1)(B)(i). Pub. L. 108–311, §§101(d)(1), 105, temporarily struck out “($12,000 in the case of taxable years beginning after December 31, 2004, and before January 1, 2008)” after “$14,000”. See Effective and Termination Dates of 2004 Amendments note below.
+
+Subsec. (i)(1)(C). Pub. L. 108–311, §§101(d)(2), 105, temporarily reenacted heading without change and amended text generally, substituting provisions relating to inflation adjustment in calendar years after 2003 for such provisions in calendar years after 2000. See Effective and Termination Dates of 2004 Amendments note below.
+
+2003—Subsec. (f)(8)(A). Pub. L. 108–27, §§102(b)(1), 107, temporarily substituted “2002” for “2004”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (f)(8)(B). Pub. L. 108–27, §§102(a), 107, temporarily inserted table item relating to years 2003 and 2004. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(1)(B). Pub. L. 108–27, §§301(a)(1), 303, temporarily substituted “5 percent (0 percent in the case of taxable years beginning after 2007)” for “10 percent”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(1)(C). Pub. L. 108–27, §§301(a)(2)(A), 303, temporarily substituted “15 percent” for “20 percent”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(2). Pub. L. 108–27, §§301(b)(1)(A), (B), 303, temporarily redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows:
+
+“(A)
+
+Reduction in 10-percent rate.—In the case of any taxable year beginning after December 31, 2000, the rate under paragraph (1)(B) shall be 8 percent with respect to so much of the amount to which the 10-percent rate would otherwise apply as does not exceed qualified 5-year gain, and 10 percent with respect to the remainder of such amount.
+
+“(B)
+
+Reduction in 20-percent rate.—The rate under paragraph (1)(C) shall be 18 percent with respect to so much of the amount to which the 20-percent rate would otherwise apply as does not exceed the lesser of—
+
+&emsp;“(i) the excess of qualified 5-year gain over the amount of such gain taken into account under subparagraph (A) of this paragraph; or
+
+&emsp;“(ii) the amount of qualified 5-year gain (determined by taking into account only property the holding period for which begins after December 31, 2000),
+
+> and 20 percent with respect to the remainder of such amount. For purposes of determining under the preceding sentence whether the holding period of property begins after December 31, 2000, the holding period of property acquired pursuant to the exercise of an option (or other right or obligation to acquire property) shall include the period such option (or other right or obligation) was held.” See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(3). Pub. L. 108–27, §§302(e)(1), 303, temporarily amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘adjusted net capital gain’ means net capital gain reduced (but not below zero) by the sum of—
+
+&emsp;“(A) unrecaptured section 1250 gain; and
+
+&emsp;“(B) 28-percent rate gain.” See Effective and Termination Dates of 2003 Amendment note below.
+
+Pub. L. 108–27, §§301(b)(1)(B), 303, temporarily redesignated par. (4) as (3). Former par. (3) temporarily redesignated (2). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(4) to (7). Pub. L. 108–27, §§301(b)(1)(B), 303, temporarily redesignated pars. (5) to (8) as (4) to (7), respectively. Former par. (4) temporarily redesignated (3). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(8). Pub. L. 108–27, §§301(b)(1)(C), 303, temporarily redesignated par. (10) as (8). Former par. (8) temporarily redesignated (7). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(9). Pub. L. 108–27, §§301(b)(1)(A), (C), 303, temporarily redesignated par. (11) as (9) and struck out heading and text of former par. (9). Text read as follows: “For purposes of this subsection, the term ‘qualified 5-year gain’ means the aggregate long-term capital gain from property held for more than 5 years. The determination under the preceding sentence shall be made without regard to collectibles gain, gain described in paragraph (7)(A)(i), and section 1202 gain.” See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(10). Pub. L. 108–27, §§301(b)(1)(C), 303, temporarily redesignated par. (12) as (10). Former par. (10) temporarily redesignated (8). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(11). Pub. L. 108–27, §§302(a), 303, temporarily added par. (11). See Effective and Termination Dates of 2003 Amendment note below.
+
+Pub. L. 108–27, §§301(b)(1)(C), 303, temporarily redesignated par. (11) as (9). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (h)(12). Pub. L. 108–27, §§301(b)(1)(C), 303, temporarily redesignated par. (12) as (10). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (i)(1)(B)(i). Pub. L. 108–27, §§104(a), 107, temporarily substituted “($12,000 in the case of taxable years beginning after December 31, 2004, and before January 1, 2008)” for “($12,000 in the case of taxable years beginning before January 1, 2008)”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (i)(1)(C). Pub. L. 108–27, §§104(b), 107, temporarily amended heading and text of subpar. (C) generally. Text read as follows: “In prescribing the tables under subsection (f) which apply with respect to taxable years beginning in calendar years after 2000—
+
+&emsp;“(i) the Secretary shall make no adjustment to the initial bracket amount for any taxable year beginning before January 1, 2009,
+
+&emsp;“(ii) the cost-of-living adjustment used in making adjustments to the initial bracket amount for any taxable year beginning after December 31, 2008, shall be determined under subsection (f)(3) by substituting ‘2007’ for ‘1992’ in subparagraph (B) thereof, and
+
+&emsp;“(iii) such adjustment shall not apply to the amount referred to in subparagraph (B)(iii).
+
+> If any amount after adjustment under the preceding sentence is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.” See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (i)(2). Pub. L. 108–27, §§105(a), 107, temporarily amended table generally. Prior to amendment, table read as follows:
+
+&nbsp;
+
+| &nbsp; | <b>“In the case of taxable years beginning during calendar year:</b> | <b>The corresponding percentages shall be substituted for the following percentages:</b> |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | ---: |
+| <b>28%</b> | <b>31%</b> | <b>36%</b> | <b>39.6%</b> |  |  |
+| &nbsp; | 2001 | 27\.5% | 30\.5% | 35\.5% | 39\.1% |
+| &nbsp; | 2002 and 2003 | 27\.0% | 30\.0% | 35\.0% | 38\.6% |
+| &nbsp; | 2004 and 2005 | 26\.0% | 29\.0% | 34\.0% | 37\.6% |
+| &nbsp; | 2006 and thereafter | 25\.0% | 28\.0% | 33\.0% | 35\.0%” |
+
+> See Effective and Termination Dates of 2003 Amendment note below.
+
+2001—Subsec. (f). Pub. L. 107–16, §§302(b)(2), 901, temporarily substituted “Phaseout of marriage penalty in 15-percent bracket; adjustments” for “Adjustments” in heading. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (f)(2)(A). Pub. L. 107–16, §§302(b)(1), 901, temporarily inserted “except as provided in paragraph (8),” before “by increasing”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (f)(6)(B). Pub. L. 107–16, §§301(c)(1), 901, temporarily substituted “(other than with respect to sections 63(c)(4) and 151(d)(4)(A)) shall be applied” for “(other than with respect to subsection (c)(4) of section 63 (as it applies to subsections (c)(5)(A) and (f) of such section) and section 151(d)(4)(A)) shall be applied”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (f)(8). Pub. L. 107–16, §§302(a), 901, temporarily added par. (8). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g)(7)(B)(ii)(II). Pub. L. 107–16, §§101(c)(1), 901, temporarily substituted “10 percent.” for “15 percent”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (h)(1)(A)(ii)(I), (B)(i). Pub. L. 107–16, §§101(c)(2)(A), 901, temporarily substituted “25 percent” for “28 percent”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (h)(13). Pub. L. 107–16, §§101(c)(2)(B), 901, temporarily struck out par. (13), which set out special rules for determination of 28-percent rate gain, unrecaptured section 1250 gain, pass-thru entities, and charitable remainder trusts. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (i). Pub. L. 107–16, §§101(a), 901, temporarily added subsec. (i). See Effective and Termination Dates of 2001 Amendment note below.
+
+2000—Subsec.(h)(8). Pub. L. 106–554 substituted “means the excess of—” and subpars. (A) and (B) for “means an amount equal to the gain excluded from gross income under section 1202(a).”
+
+1998—Subsec. (g)(3)(C), (D). Pub. L. 105–206, §6007(f)(1), redesignated subpar. (D) as (C) and struck out heading and text of former subpar. (C). Text read as follows: “If tax is imposed under section 644(a)(1) with respect to the sale or exchange of any property of which the parent was the transferor, for purposes of applying subparagraph (A) to the taxable year of the parent in which such sale or exchange occurs—
+
+&emsp;“(i) taxable income of the parent shall be increased by the amount treated as included in gross income under section 644(a)(2)(A)(i), and
+
+&emsp;“(ii) the amount described in subparagraph (A)(ii) shall be increased by the amount of the excess referred to in section 644(a)(2)(A).”
+
+Subsec. (h). Pub. L. 105–206, §6005(d)(1), reenacted subsec. heading without change and amended text of subsec. (h) generally, substituting present provisions comprising pars. (1) to (13) for former similar provisions comprising pars. (1) to (11).
+
+Subsec. (h)(5). Pub. L. 105–206, §5001(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
+
+“(5) 28-
+
+percent rate gain.—For purposes of this subsection—
+
+&emsp;“(A)
+
+In general.—The term ‘28-percent rate gain’ means the excess (if any) of—
+
+&emsp;&emsp;“(i) the sum of—
+
+&emsp;&emsp;&emsp;“(I) the aggregate long-term capital gain from property held for more than 1 year but not more than 18 months;
+
+&emsp;&emsp;&emsp;“(II) collectibles gain; and
+
+&emsp;&emsp;&emsp;“(III) section 1202 gain, over
+
+&emsp;&emsp;“(ii) the sum of—
+
+&emsp;&emsp;&emsp;“(I) the aggregate long-term capital loss (not described in subclause (IV)) from property referred to in clause (i)(I);
+
+&emsp;&emsp;&emsp;“(II) collectibles loss;
+
+&emsp;&emsp;&emsp;“(III) the net short-term capital loss; and
+
+&emsp;&emsp;&emsp;“(IV) the amount of long-term capital loss carried under section 1212(b)(1)(B) to the taxable year.
+
+&emsp;“(B)
+
+Special rules.—
+
+&emsp;&emsp;“(i)
+
+Short sale gains and holding periods.—Rules similar to the rules of section 1233(b) shall apply where the substantially identical property has been held more than 1 year but not more than 18 months; except that, for purposes of such rules—
+
+&emsp;&emsp;&emsp;“(I) section 1233(b)(1) shall be applied by substituting ‘18 months’ for ‘1 year’ each place it appears; and
+
+&emsp;&emsp;&emsp;“(II) the holding period of such property shall be treated as being 1 year on the day before the earlier of the date of the closing of the short sale or the date such property is disposed of.
+
+&emsp;&emsp;“(ii)
+
+Long-term losses.—Section 1233(d) shall be applied separately by substituting ‘18 months’ for ‘1 year’ each place it appears.
+
+&emsp;&emsp;“(iii)
+
+Options.—A rule similar to the rule of section 1092(f) shall apply where the stock was held for more than 18 months.
+
+&emsp;&emsp;“(iv)
+
+Section 1256 contracts.—Amounts treated as long-term capital gain or loss under section 1256(a)(3) shall be treated as attributable to property held for more than 18 months.”
+
+Subsec. (h)(6)(A). Pub. L. 105–206, §5001(a)(2), substituted “1 year” for “18 months”.
+
+Subsec. (h)(7)(A)(i), (ii). Pub. L. 105–206, §5001(a)(3), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+
+“(i) the amount of long-term capital gain (not otherwise treated as ordinary income) which would be treated as ordinary income if—
+
+&emsp;“(I) section 1250(b)(1) included all depreciation and the applicable percentage under section 1250(a) were 100 percent, and
+
+&emsp;“(II) only gain from property held for more than 18 months were taken into account, over
+
+“(ii) the excess (if any) of—
+
+&emsp;“(I) the amount described in paragraph (5)(A)(ii), over
+
+&emsp;“(II) the amount described in paragraph (5)(A)(i).”
+
+Subsec. (h)(13). Pub. L. 105–206, §5001(a)(4), struck out “for periods during 1997” after “Special rules” in par. heading and amended headings and text of subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+
+“(A)
+
+Determination of 28-percent rate gain.—In applying paragraph (5)—
+
+&emsp;“(i) the amount determined under subclause (I) of paragraph (5)(A)(i) shall include long-term capital gain (not otherwise described in paragraph (5)(A)(i)) which is properly taken into account for the portion of the taxable year before May 7, 1997;
+
+&emsp;“(ii) the amounts determined under subclause (I) of paragraph (5)(A)(ii) shall include long-term capital loss (not otherwise described in paragraph (5)(A)(ii)) which is properly taken into account for the portion of the taxable year before May 7, 1997; and
+
+&emsp;“(iii) clauses (i)(I) and (ii)(I) of paragraph (5)(A) shall be applied by not taking into account any gain and loss on property held for more than 1 year but not more than 18 months which is properly taken into account for the portion of the taxable year after May 6, 1997, and before July 29, 1997.
+
+“(B)
+
+Other special rules.—
+
+&emsp;“(i)
+
+Determination of unrecaptured section 1250 gain not to include pre-may 7, 1997 gain.—The amount determined under paragraph (7)(A)(i) shall not include gain properly taken into account for the portion of the taxable year before May 7, 1997.
+
+&emsp;“(ii)
+
+Other transitional rules for 18-month holding period.—Paragraphs (6)(A) and (7)(A)(i)(II) shall be applied by substituting ‘1 year’ for ‘18 months’ with respect to gain properly taken into account for the portion of the taxable year after May 6, 1997, and before July 29, 1997.”
+
+Subsec. (h)(13)(B). Pub. L. 105–277, §4002(i)(1), substituted “paragraph (7)(A)(i)” for “paragraph (7)(A)” in introductory provisions.
+
+Subsec. (h)(13)(D). Pub. L. 105–277, §4002(i)(3), added subpar. (D).
+
+1997—Subsec. (h). Pub. L. 105–34 amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “If a taxpayer has a net capital gain for any taxable year, then the tax imposed by this section shall not exceed the sum of—
+
+&emsp;“(1) a tax computed at the rates and in the same manner as if this subsection had not been enacted on the greater of—
+
+&emsp;&emsp;“(A) taxable income reduced by the amount of the net capital gain, or
+
+&emsp;&emsp;“(B) the amount of taxable income taxed at a rate below 28 percent, plus
+
+&emsp;“(2) a tax of 28 percent of the amount of taxable income in excess of the amount determined under paragraph (1).
+
+> For purposes of the preceding sentence, the net capital gain for any taxable year shall be reduced (but not below zero) by the amount which the taxpayer elects to take into account as investment income for the taxable year under section 163(d)(4)(B)(iii).”
+
+1996—Subsec. (g)(7)(A)(ii). Pub. L. 104–188, §1704(m)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “such gross income is more than $500 and less than $5,000,”.
+
+Subsec. (g)(7)(B)(i). Pub. L. 104–188, §1704(m)(2)(A), substituted “twice the amount described in paragraph (4)(A)(ii)(I)” for “$1,000”.
+
+Subsec. (g)(7)(B)(ii)(II). Pub. L. 104–188, §1704(m)(2)(B), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “for each such child, the lesser of $75 or 15 percent of the excess of the gross income of such child over $500, and”.
+
+1993—Subsecs. (a) to (e). Pub. L. 103–66, §§13201(a), 13202(a), amended subsecs. (a) to (e) generally, substituting five-tiered tax tables for all categories applicable to tax years after December 31, 1992, for prior three-tiered tax tables.
+
+Subsec. (f)(1). Pub. L. 103–66, §13201(b)(3)(A)(i), substituted “1993” for “1990”.
+
+Subsec. (f)(3)(B). Pub. L. 103–66, §13201(b)(3)(A)(ii), substituted “1992” for “1989”.
+
+Subsec. (f)(7). Pub. L. 103–66, §13201(b)(3)(B), added par. (7).
+
+Subsec. (h). Pub. L. 103–66, §13206(d)(2), inserted as concluding provision at end “For purposes of the preceding sentence, the net capital gain for any taxable year shall be reduced (but not below zero) by the amount which the taxpayer elects to take into account as investment income for the taxable year under section 163(d)(4)(B)(iii).”
+
+1990—Subsecs. (a) to (e). Pub. L. 101–508, §11101(a), amended subsecs. (a) to (e) generally, substituting three-tiered tax tables for all categories applicable to tax years after Dec. 31, 1990, for prior two-tiered tax tables.
+
+Subsec. (f)(1). Pub. L. 101–508, §11101(d)(1)(A)(i), substituted “1990” for “1988”.
+
+Subsec. (f)(3)(B). Pub. L. 101–508, §11101(d)(1)(A)(ii), substituted “1989” for “1987”.
+
+Subsec. (f)(6)(A). Pub. L. 101–508, §11104(b)(1), substituted “section 151(d)(4)” for “section 151(d)(3)”.
+
+Pub. L. 101–508, §11103(c), inserted reference to section 68(b)(2).
+
+Pub. L. 101–508, §11101(b)(2), struck out “subsection (g)(4),” after “paragraph (2)(A),”.
+
+Subsec. (f)(6)(B). Pub. L. 101–508, §11104(b)(2), substituted “section 151(d)(4)(A)” for “section 151(d)(3)”.
+
+Subsec. (g). Pub. L. 101–508, §11101(d)(2), redesignated subsec. (i) as (g).
+
+Pub. L. 101–508, §11101(b)(1), struck out subsec. (g) which provided for phaseout of 15-percent rate and personal exemptions.
+
+Subsec. (h). Pub. L. 101–508, §11101(d)(2), redesignated subsec. (j) as (h) and struck out former subsec. (h) which provided tax schedules for taxable years beginning in 1987.
+
+Subsec. (i). Pub. L. 101–508, §11101(d)(2), redesignated subsec. (i) as (g).
+
+Subsec. (j). Pub. L. 101–508, §11101(d)(2), redesignated subsec. (j) as (h).
+
+Pub. L. 101–508, §11101(c), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows:
+
+“(1)
+
+In general.—If a taxpayer has a net capital gain for any taxable year to which this subsection applies, then the tax imposed by this section shall not exceed the sum of—
+
+&emsp;“(A) a tax computed at the rates and in the same manner as if this subsection had not been enacted on the greater of—
+
+&emsp;&emsp;“(i) the taxable income reduced by the amount of net capital gain, or
+
+&emsp;&emsp;“(ii) the amount of taxable income taxed at a rate below 28 percent, plus
+
+&emsp;“(B) a tax of 28 percent of the amount of taxable income in excess of the amount determined under subparagraph (A), plus
+
+&emsp;“(C) the amount of increase determined under subsection (g).
+
+“(2)
+
+Years to which subsection applies.—This subsection shall apply to—
+
+&emsp;“(A) any taxable year beginning in 1987, and
+
+&emsp;“(B) any taxable year beginning after 1987 if the highest rate of tax set forth in subsection (a), (b), (c), (d), or (e) (whichever applies) for such taxable year exceeds 28 percent.”
+
+1989—Subsec. (f)(6)(B). Pub. L. 101–239, §7831(a), substituted “subsection (c)(4) of section 63 (as it applies to subsections (c)(5)(A) and (f) of such section) and section 151(d)(3)” for “section 63(c)(4)”.
+
+Subsec. (i)(3)(C), (D). Pub. L. 101–239, §7811(j)(1), redesignated subpar. (C), relating to special rule where parent has different taxable year, as (D).
+
+Subsec. (i)(7)(A). Pub. L. 101–239, §7816(b), inserted “(other than for purposes of this paragraph)” after “shall be treated” in concluding provisions.
+
+1988—Subsec. (g)(2). Pub. L. 100–647, §1001(a)(3), inserted provision relating to application of subpar. (B) at end of last sentence.
+
+Subsec. (i)(3)(A). Pub. L. 100–647, §1014(e)(2), substituted “any exclusion, deduction, or credit” for “any deduction or credit”.
+
+Subsec. (i)(3)(C). Pub. L. 100–647, §1014(e)(7), added subpar. (C) relating to special rule where parent has different taxable year.
+
+Pub. L. 100–647, §1014(e)(1), added subpar. (C) relating to coordination with section 644.
+
+Subsec. (i)(4)(A)(i). Pub. L. 100–647, §1014(e)(3)(A), substituted “adjusted gross income” for “gross income” and inserted “attributable to” after “which is not”.
+
+Subsec. (i)(4)(A)(ii)(II). Pub. L. 100–647, §1014(e)(3)(B)–(D), substituted “his deductions” for “his deduction”, “the itemized deductions allowed” for “the deductions allowed”, and “adjusted gross income” for “gross income”.
+
+Subsec. (i)(5)(A). Pub. L. 100–647, §1014(e)(6), substituted “custodial parent (within the meaning of section 152(e))” for “custodial parent”.
+
+Subsec. (i)(7). Pub. L. 100–647, §6006(a), added par. (7).
+
+1986—Subsecs. (a) to (e). Pub. L. 99–514, §101(a), in amending subsecs. (a) to (e) generally, substituted a general tax table for tax tables (1), (2), and (3) in each subsec. applicable to taxable years beginning in 1982, 1983, and after 1983, respectively.
+
+Subsec. (f). Pub. L. 99–514, §101(a), in amending subsec. (f) generally, in par. (1) substituted “1988,” for “1984” and struck out “paragraph (3) of” before “subsections”, in par. (2) struck out “paragraph (3) of” before “subsection” in introductory provisions, substituted subpars. (A) to (C) for former subpars. (A) to (C) which read as follows:
+
+&emsp;“(A) by increasing—
+
+&emsp;&emsp;“(i) the maximum dollar amount on which no tax is imposed under such table, and
+
+&emsp;&emsp;“(ii) the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table,
+
+> &emsp;by the cost-of-living adjustment for such calendar year,
+
+&emsp;“(B) by not changing the rate applicable to any rate bracket as adjusted under subparagraph (A)(ii), and
+
+&emsp;“(C) by adjusting the amounts setting forth the tax to the extent necessary to reflect the adjustments in the rate brackets.”,
+
+> and struck out concluding provisions which read as follows: “If any increase determined under subparagraph (A) is not a multiple of $10, such increase shall be rounded to the nearest multiple of $10 (or if such increase is a multiple of $5, such increase shall be increased to the next highest multiple of $10).”, in par. (3)(B) substituted “1987” for “1983”, in par. (4) substituted “August 31” for “September 30”, in par. (5) inserted requirement that the Consumer Price Index most consistent with such Index for calendar year 1986 be used, and added par. (6).
+
+Subsecs. (g), (h). Pub. L. 99–514, §101(a), in amending section generally, added subsecs. (g) and (h).
+
+Subsec. (i). Pub. L. 99–514, §1411(a), added subsec. (i).
+
+Subsec. (j). Pub. L. 99–514, §302(a), added subsec. (j).
+
+1982—Subsecs. (d), (e). Pub. L. 97–448, §101(a)(3), set out as a note below, provided for amendment of the tables applying to married individuals filing separately or to estates and trusts so as to correct any figure differing by not more than 50 cents from the correct amount under the formula used in constructing such table. Corrections to the tables in subsecs. (d) and (e) appeared in Announcement 83–50 contained in Internal Revenue Bulletin No. 1983–12 of Mar. 21, 1983.
+
+1981—Subsecs. (a) to (e). Pub. L. 97–34, §101(a), generally revised tax tables downward providing for cumulative across-the-board reductions of 23 percent on a three phase schedule under which different new rates were set for taxable years beginning in 1982, for taxable years beginning in 1983, and for taxable years beginning after 1983.
+
+Subsec. (f). Pub. L. 97–34, §104(a), added subsec. (f).
+
+1978—Subsec. (a). Pub. L. 95–600 generally made a downward revision of tax table for married individuals filing joint returns and surviving spouses resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $3,400 or less was substituted for a bottom bracket imposing no tax on taxable income of $3,200 or less.
+
+Subsec. (b). Pub. L. 95–600 generally made a downward revision of tax table for heads of household resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,300 or less was substituted for a bottom bracket imposing no tax on taxable income of $2,200 or less.
+
+Subsec. (c). Pub. L. 95–600 generally made a downward revision of tax table for unmarried individuals other than surviving spouses and heads of households resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,300 or less was substituted for a bottom bracket imposing no tax on taxable income of $2,200 or less.
+
+Subsec. (d). Pub. L. 95–600 generally made a downward revision of tax tables for married individuals filing separate returns resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $1,700 or less was substituted for a bottom bracket imposing no tax on taxable income of $1,600 or less.
+
+Subsec. (e). Pub. L. 95–600 generally made a downward revision of tax tables for estates and trusts resulting in a table under which, among other changes, a bottom bracket under which a tax of 14% is imposed on taxable income of $1,050 for a bottom bracket under which a tax of 14% was imposed on taxable income of $500 or less.
+
+1977—Subsec. (a). Pub. L. 95–30 generally made a downward revision of tax table for married individuals filing joint returns and surviving spouses resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $3,200 or less was substituted for a bottom bracket under which a tax of 14% had been imposed on a taxable income of $1,000 or less.
+
+Subsec. (b). Pub. L. 95–30 generally made a downward revision of tax table for heads of households resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,200 or less was substituted for a bottom bracket under which a tax of 14% had been imposed on a taxable income of $1,000 or less.
+
+Subsec. (c). Pub. L. 95–30 generally made a downward revision of tax table for unmarried individuals other than surviving spouses and heads of households resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,200 or less was substituted for a bottom bracket under which a tax of 14% had been imposed on a taxable income of $500 or less.
+
+Subsec. (d). Pub. L. 95–30 generally made a downward revision of tax table for married individuals filing separate returns resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $1,600 or less was substituted for a bottom bracket under which a tax of 14% had been imposed on a taxable income of $500 or less. Provisions making table applicable to estates and trusts were struck out. See subsec. (e).
+
+Subsec. (e). Pub. L. 95–30 added subsec. (e) consisting of table formerly contained in subsec. (d) but without any downward revision and limited so as to apply only to estates and trusts.
+
+1969—Subsec. (a). Pub. L. 91–172 substituted a table of rates of tax for married individuals filing joint returns and surviving spouses for the tables of rates of tax on individuals. For rates of taxes on unmarried individuals and married persons filing separate returns, see subsecs. (c) and (d) of this section.
+
+Subsec. (b). Pub. L. 91–172 generally revised rates of tax of heads of household downwards and struck out provisions defining head of household, determination of status, and limitations. For definition of head of household, determination of status, and limitations, see section 2(b) of this title.
+
+Subsec. (c). Pub. L. 91–172 substituted rates of tax on unmarried individuals (other than surviving spouses and heads of household) for special rules explaining the rates of tax imposed under former subsecs. (a) and (b)(1) and prescribing a maximum limit of 87 percent of the taxable year.
+
+Subsec. (d). Pub. L. 91–172 substituted a table of rates of tax for married individuals filing separate returns for provision prescribing the applicability of the rates to non-resident aliens. For applicability of rates of tax to non-resident aliens, see section 2(d) of this title.
+
+Subsec. (e). Pub. L. 91–172 struck out cross reference to section 63. See section 2(e) of this title.
+
+1966—Subsecs. (d), (e). Pub. L. 89–809 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+1964—Pub. L. 88–272 amended section generally by splitting the former first bracket which started at $2,000 into four new brackets, the 14 percent bracket representing a 30 percent reduction, the 15 percent bracket a 25 percent cut, and the 16 percent bracket a 20 percent cut, and reducing all other brackets by cuts averaging about 20 percent and effectuated these cuts in two steps, one in 1964, and one in 1965.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–222, title V, §510(d), May 17, 2006, 120 Stat. 364, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
+
+#### Effective and Termination Dates of 2004 Amendments
+
+Pub. L. 108–357, title IV, §413(d), Oct. 22, 2004, 118 Stat. 1510, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 170, 171, 245, 312, 443, 465, 508, 542, 543, 562, 563, 751, 864, 898, 904, 951, 954, 989, 1014, 1016, 1212, 1223, 1248, 1260, 1291, 1294, 4947, 4948, 6103, 6501, and 6679 of this title and repealing sections 551 to 558, 1246, 1247, and 6035 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+
+“(2)
+
+Subsection (c)(27).—The amendments made by subsection (c)(27) \[amending section 6103 of this title\] shall apply to disclosures of return or return information with respect to taxable years beginning after December 31, 2004.”
+
+Pub. L. 108–311, title I, §101(e), Oct. 4, 2004, 118 Stat. 1168, provided that: “The amendments made by this section \[amending this section and sections 24 and 63 of this title\] shall apply to taxable years beginning after December 31, 2003.”
+
+Pub. L. 108–311, title I, §105, Oct. 4, 2004, 118 Stat. 1169, provided that: “Each amendment made by this title \[amending this section and sections 24, 32, 55, and 63 of this title\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note below\] to the same extent and in the same manner as the provision of such Act to which such amendment relates.”
+
+Pub. L. 108–311, title IV, §402(b), Oct. 4, 2004, 118 Stat. 1186, provided that: “The amendments made by subsection (a) \[amending this section and sections 691, 854, and 857 of this title and provisions set out as a note under this section\] shall take effect as if included in section 302 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 \[Pub. L. 108–27\].”
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Pub. L. 108–27, title I, §102(c), May 28, 2003, 117 Stat. 754, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall apply to taxable years beginning after December 31, 2002.”
+
+Pub. L. 108–27, title I, §104(c), May 28, 2003, 117 Stat. 755, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.
+
+“(2)
+
+Tables for 2003.—The Secretary of the Treasury shall modify each table which has been prescribed under section 1(f) of the Internal Revenue Code of 1986 for taxable years beginning in 2003 and which relates to the amendment made by subsection (a) to reflect such amendment.”
+
+Pub. L. 108–27, title I, §105(b), May 28, 2003, 117 Stat. 755, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
+
+Pub. L. 108–27, title I, §107, May 28, 2003, 117 Stat. 755, provided that: “Each amendment made by this title \[enacting section 6429 of this title, amending this section and sections 24, 55, and 63 of this title, and amending provisions set out as notes under this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note below\] to the same extent and in the same manner as the provision of such Act to which such amendment relates.”
+
+Pub. L. 108–27, title III, §301(d), May 28, 2003, 117 Stat. 760, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided by this subsection, the amendments made by this section \[amending this section, sections 55, 57, 1445, and 7518 of this title, and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years ending on or after May 6, 2003.
+
+“(2)
+
+Withholding.—The amendment made by subsection (a)(2)(C) \[amending section 1445 of this title\] shall apply to amounts paid after the date of the enactment of this Act \[May 28, 2003\].
+
+“(3)
+
+Small business stock.—The amendments made by subsection (b)(3) \[amending section 57 of this title\] shall apply to dispositions on or after May 6, 2003.”
+
+Pub. L. 108–27, title III, §302(f), May 28, 2003, 117 Stat. 764, as amended by Pub. L. 108–311, title IV, §402(a)(6), Oct. 4, 2004, 118 Stat. 1185, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 163, 301, 306, 338, 467, 531, 541, 584, 702, 854, 857, 1255, and 1257 of this title and repealing section 341 of this title\] shall apply to taxable years beginning after December 31, 2002.
+
+“(2)
+
+Pass-thru entities.—In the case of a pass-thru entity described in subparagraph (A), (B), (C), (D), (E), or (F) of section 1(h)(10) of the Internal Revenue Code of 1986, as amended by this Act, the amendments made by this section shall apply to taxable years ending after December 31, 2002; except that dividends received by such an entity on or before such date shall not be treated as qualified dividend income (as defined in section 1(h)(11)(B) of such Code, as added by this Act).”
+
+Pub. L. 108–27, title III, §303, May 28, 2003, 117 Stat. 764, as amended by Pub. L. 109–222, title I, §102, May 17, 2006, 120 Stat. 346, provided that: “All provisions of, and amendments made by, this title \[amending this section, sections 55, 57, 163, 301, 306, 338, 467, 531, 541, 584, 702, 854, 857, 1255, 1257, 1445, and 7518 of this title, and section 1177 of Title 46, Appendix, Shipping, repealing section 341 of this title, and enacting provisions set out as notes under this section\] shall not apply to taxable years beginning after December 31, 2010, and the Internal Revenue Code of 1986 shall be applied and administered to such years as if such provisions and amendments had never been enacted.”
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 109–280, title VIII, §811, Aug. 17, 2006, 120 Stat. 996, provided that: “Title IX of the Economic Growthand Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out below\] shall not apply to the provisions of, and amendments made by, subtitles A through F of title VI of such Act \[subtitles A to F \[§§601–666\] of title VI of Pub. L. 107–16, enacting sections 25B, 45E, 402A, and 4980F of this title, amending sections 24, 25, 25B, 26, 38, 39, 72, 132, 196, 219, 401, 402, 403, 404, 408, 408A, 409, 411, 412, 414 to 416, 457, 501, 505, 664, 861, 904, 1400C, 3401, 3405, 4972, 4973, 4975, 4979A, 6047, and 6051 of this title and sections 1003, 1053, 1054, 1082, 1104, and 1108 of Title 29, Labor, enacting provisions set out as notes under sections 24, 38, 72, 132, 219, 401, 402, 403, 404, 408, 409, 411, 412, 414 to 416, 457, 861, 4972, 4975, 4980F, and 7801 of this title and section 1107 of Title 29, and amending provisions set out as notes under section 414 of this title and section 1107 of Title 29\] (relating to pension and individual retirement arrangement provisions).”
+
+Pub. L. 109–280, title XIII, §1304(a), Aug. 17, 2006, 120 Stat. 1109, provided that: “Section 901 of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, set out below\] (relating to sunset provisions) shall not apply to section 402 of such Act \[amending sections 72, 135, 221, 529, 530, 4973, and 6693 of this title and enacting provisions set out as a note under section 72 of this title\] (relating to modifications to qualified tuition programs).”
+
+Pub. L. 107–16, title I, §101(d), June 7, 2001, 115 Stat. 44, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 6428 of this title and amending this section and sections 15, 531, 541, 3402, and 3406 of this title\] shall apply to taxable years beginning after December 31, 2000.
+
+“(2)
+
+Amendments to withholding provisions.—The amendments made by paragraphs (6), (7), (8), (9), (10), and (11) of subsection (c) \[amending sections 3402 and 3406 of this title\] shall apply to amounts paid after the 60th day after the date of the enactment of this Act \[June 7, 2001\]. References to income brackets and rates of tax in such paragraphs shall be applied without regard to section 1(i)(1)(D) of the Internal Revenue Code of 1986.”
+
+Pub. L. 107–16, title III, §301(d), June 7, 2001, 115 Stat. 54, as amended by Pub. L. 108–27, title I, §103(b), May 28, 2003, 117 Stat. 754, provided that: “The amendments made by this section \[amending this section and section 63 of this title\] shall apply to taxable years beginning after December 31, 2002.”
+
+Pub. L. 107–16, title III, §302(c), June 7, 2001, 115 Stat. 54, as amended by Pub. L. 108–27, title I, §102(b)(2), May 28, 2003, 117 Stat. 754, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
+
+Pub. L. 107–16, title IX, §901, June 7, 2001, 115 Stat. 150, as amended by Pub. L. 107–358, §2, Dec. 17, 2002, 116 Stat. 3015, provided that:
+
+“(a)
+
+In General.—All provisions of, and amendments made by, this Act \[see Tables for classification\] shall not apply—
+
+&emsp;“(1) to taxable, plan, or limitation years beginning after December 31, 2010, or
+
+&emsp;“(2) in the case of title V \[see Tables for classification\], to estates of decedents dying, gifts made, or generation skipping transfers, after December 31, 2010.
+
+“(b)
+
+Application of Certain Laws.—The Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] shall be applied and administered to years, estates, gifts, and transfers described in subsection (a) as if the provisions and amendments described in subsection (a) had never been enacted.”
+
+“(c)
+
+Exception.—Subsection (a) shall not apply to section 803 \[set out as a note preceding section 101 of this title\] (relating to no federal income tax on restitution received by victims of the Nazi regime or their heirs or estates).”
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(7) \[title I, §117(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605, provided that: “The amendments made by this section \[amending this section and section 1202 of this title\] shall apply to stock acquired after the date of the enactment of this Act \[Dec. 21, 2000\].”
+
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–277, div. J, title IV, §4002(k), Oct. 21, 1998, 112 Stat. 2681–908, provided that: “The amendments made by this section \[amending this section and sections 408A, 6015, 6103, 6159, 7421, 7443A, and 7491 of this title and amending provisions set out as a note under section 6601 of this title\] shall take effect as if included in the provisions of the 1998 Act \[Pub. L. 105–206\] to which they relate.”
+
+Pub. L. 105–206, title V, §5001(b), July 22, 1998, 112 Stat. 788, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1223 and 1235 of this title\] shall apply to taxable years ending after December 31, 1997.
+
+“(2)
+
+Subsection (a)(
+
+5\).—The amendments made by subsection (a)(5) \[amending sections 1223 and 1235 of this title\] shall take effect on January 1, 1998.”
+
+Pub. L. 105–206, title VI, §6024, July 22, 1998, 112 Stat. 826, provided that: “Except as otherwise provided in this title \[see Tables for classification\], the amendments made by this title shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate.”
+
+#### Effective Date of 1997 Amendment
+
+Section 311(d) of Pub. L. 105–34 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 55, 57, 904, 1445, and 7518 of this title, and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years ending after May 6, 1997.
+
+“(2)
+
+Withholding.—The amendment made by subsection (c)(1) \[amending section 1445 of this title\] shall apply only to amounts paid after the date of the enactment of this Act \[Aug. 5, 1997\].”
+
+#### Effective Date of 1996 Amendment
+
+Section 1704(m)(4) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section and section 59 of this title\] shall apply to taxable years beginning after December 31, 1995.”
+
+#### Effective Date of 1993 Amendment
+
+Section 13201(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 41, 63, 68, 132, 151, 453A, 513, 531, and 541 of this title\] shall apply to taxable years beginning after December 31, 1992.”
+
+Section 13202(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 531 and 541 of this title\] shall apply to taxable years beginning after December 31, 1992.”
+
+Section 13206(d)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section and section 163 of this title\] shall apply to taxable years beginning after December 31, 1992.”
+
+#### Effective Date of 1990 Amendment
+
+Section 11101(e) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section, sections 32, 41, 59, 63, 135, 151, 513, 691, 904, 6103, and 7518 of this title, and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1990.”
+
+Section 11103(e) of Pub. L. 101–508 provided that: “The amendments made by this section \[enacting section 68 of this title and amending this section and section 56 of this title\] shall apply to taxable years beginning after December 31, 1990.”
+
+Section 11104(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 151 of this title\] shall apply to taxable years beginning after December 31, 1990.”
+
+#### Effective Date of 1989 Amendment
+
+Section 7817 of Pub. L. 101–239 provided that: “Except as otherwise provided in this part \[part I (§§7811–7817) of subtitle H of title VII of Pub. L. 101–239, see Tables for classification\], any amendment made by this part shall take effect as if included in the provision of the 1988 Act \[Pub. L. 100–647\] to which such amendment relates.”
+
+Section 7831(g) of Pub. L. 101–239 provided that: “Any amendment made by this section \[amending this section and sections 42, 406, 407, and 1250 of this title and provisions set out as notes under sections 141 and 263A of this title\] shall take effect as if included in the provision of the Tax Reform Act of 1986 \[Pub. L. 99–514\] to which such amendment relates.”
+
+#### Effective Date of 1988 Amendment
+
+Section 1019 of title I of Pub. L. 100–647 provided that:
+
+“(a)
+
+General Rule.—Except as otherwise provided in this title, any amendment made by this title \[see Tables for classification\], shall take effect as if included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates.
+
+“(b)
+
+Waiver of Estimated Tax Penalties.—No addition to tax shall be made under section 6654 or 6655 of the 1986 Code for any period before April 16, 1989 (March 16, 1989 in the case of a taxpayer subject to section 6655 of the 1986 Code) with respect to any underpayment to the extent such underpayment was created or increased by any provision of this title or title II \[see Tables for classification\].”
+
+Section 6006(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
+
+#### Effective Date of 1986 Amendment
+
+Section 151 of title I of Pub. L. 99–514 provided that:
+
+“(a)
+
+General Rule.—Except as otherwise provided in this section, the amendments made by this title \[enacting section 67 of this title, amending this section, sections 3, 5, 15, 21, 32, 62, 63, 74, 85, 86, 102, 108, 117, 129, 151, 152, 164, 170, 172, 183, 213, 265, 274, 280A, 402, 441, 443, 527, 541, 613A, 642, 667, 861, 862, 901, 904, 1398, 1441, 2032A, 3121, 3231, 3306, 3401, 3402, 3507, 4941, 4945, 6012 to 6014, 6212, 6504, 6511, and 7871 of this title, and section 409 of Title 42, The Public Health and Welfare, renumbering section 223 of this title as section 220 of this title, repealing sections 24, 221, 222, and 1301 to 1305 of this title, and enacting provisions set out as a note under section 32 of this title\] shall apply to taxable years beginning after December 31, 1986.
+
+“(b)
+
+Unemployment Compensation.—The amendment made by section 121 \[amending section 85 of this title\] shall apply to amounts received after December 31, 1986, in taxable years ending after such date.
+
+“(c)
+
+Prizes and Awards.—The amendments made by section 122 \[amending sections 74, 102, 274, 3121, 3231, 3306, 3401, 4941, and 4945 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply to prizes and awards granted after December 31, 1986.
+
+“(d)
+
+Scholarships.—The amendments made by section 123 \[amending sections 74, 117, 1441, and 7871 of this title\] shall apply to taxable years beginning after December 31, 1986, but only in the case of scholarships and fellowships granted after August 16, 1986.
+
+“(e)
+
+Parsonage and Military Housing Allowances.—The amendment made by section 144 \[amending section 265 of this title\] shall apply to taxable years beginning before, on, or after, December 31, 1986.”
+
+Section 302(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+
+Section 1411(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6103 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+
+#### Effective Date of 1983 Amendment
+
+Section 109 of title I of Pub. L. 97–448 provided that: “Except as otherwise provided in this title, any amendment made by this title \[see Tables for classification\] shall take effect as if it had been included in the provision of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, Aug. 13, 1981, 95 Stat. 172\] to which such amendment relates.”
+
+#### Effective Date of 1981 Amendment
+
+Section 101(f)(1) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §101(a)(1), Jan. 12, 1983, 96 Stat. 2365, provided that: “The amendments made by subsections (a), (c), and (d) \[amending this section and sections 3, 21, 55, 541, and 1304 of this title and repealing section 1348 of this title\] shall apply to taxable years beginning after December 31, 1981; except that the amendment made by paragraph (3) of subsection (d) \[amending section 21 of this title\] shall apply to taxable years ending after December 31, 1981.”
+
+Section 104(e) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 63, 151, 6012, and 6013 of this title\] shall apply to taxable years beginning after December 31, 1984.”
+
+#### Effective Date of 1978 Amendment
+
+Section 101(f)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending sections 63, 402, 1302, and 6012 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+
+#### Effective Date of 1977 Amendment
+
+Section 106(a) of Pub. L. 95–30 provided that: “The amendments made by sections 101, 102, and 104 \[amending this section and sections 3, 21, 42, 57, 63, 143, 161, 172, 211, 402, 441, 443, 511, 584, 613A, 641, 642, 667, 703, 861, 862, 873, 904, 911, 931, 1034, 1211, 1302, 6012, 6014, 6212, 6504, and 6654 of this title and repealing sections 36, 141, 142, 144, and 145 of this title\] shall apply to taxable years beginning after December 31, 1976.”
+
+#### Effective Date of 1969 Amendment
+
+Section 803(f) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) \[amending this section\], (b) \[amending section 2 of this title\], and (d) (other than paragraphs (1) and (8)) \[amending sections 5, 511, 632, 641, 1347, and 6015 of this title\] shall apply to taxable years beginning after December 31, 1970, except that section 2(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 2(c) of this title\], as amended by subsection (b), shall also apply to taxable years beginning after December 31, 1969. The amendments made by subsections (c) \[amending section 3 of this title\], (d)(1) \[amending section 6014 of this title\], and (d)(8) \[amending section 1304 of this title\] shall apply to taxable years beginning after December 31, 1969”.
+
+#### Effective Date of 1966 Amendment
+
+Section 103(n) of Pub. L. 89–809 provided that:
+
+&emsp;“(1) The amendments made by this section (other than the amendments made by subsections (h), (i), and (k)) \[enacting section 877 of this title, amending this section and sections 116, 154, 871, 872, 873, 874, 875, 932, 6015, and 7701 of this title, renumbering section 877 as 878, and repealing section 1493 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.
+
+&emsp;“(2) The amendments made by subsection (h) \[amending section 1441 of this title\] shall apply with respect to payments made in taxable years of recipients beginning after December 31, 1966.
+
+&emsp;“(3) The amendments made by subsection (i) \[amending section 1461 of this title\] shall apply with respect to payments occurring after December 31, 1966.
+
+&emsp;“(4) The amendments made by subsection (k) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after December 31, 1966.”
+
+#### Effective Date of 1964 Amendment
+
+Section 131 of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–432, §1(a), Dec. 20, 2006, 120 Stat. 2922, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Relief and Health Care Act of 2006’.”
+
+Pub. L. 109–432, div. A, title III, §301, Dec. 20, 2006, 120 Stat. 2948, provided that: “This title \[amending sections 106, 223, 408, and 4980G of this title and enacting provisions set out as notes under sections 106, 223, and 4980G of this title\] may be cited as the ‘Health Opportunity Patient Empowerment Act of 2006’.”
+
+Pub. L. 109–227, §1, May 29, 2006, 120 Stat. 385, provided that: “This Act \[amending section 219 of this title and enacting provisions set out as notes under section 219 of this title\] may be cited as the ‘Heroes Earned Retirement Opportunities Act’.”
+
+Pub. L. 109–222, §1(a), May 17, 2006, 120 Stat. 345, provided that: “This Act \[enacting section 4965 of this title, amending this section and sections 26, 54, 55, 142 to 144, 148, 149, 163, 167, 170, 179, 199, 355, 408A, 468B, 852, 871, 897, 911, 953, 954, 1221, 1355, 1445, 3402, 6011, 6033, 6049, 6159, 6652, 7122, and 7872 of this title, enacting provisions set out as notes under this section and sections 26, 54 to 56, 142, 143, 163, 167, 170, 199, 355, 408A, 468B, 852, 897, 911, 954, 1355, 3402, 4965, 6049, 6159, and 6655 of this title, and amending provisions set out as notes under this section and sections 56 and 114 of this title\] may be cited as the ‘Tax Increase Prevention and Reconciliation Act of 2005’.”
+
+#### Short Title of 2005 Amendments
+
+Pub. L. 109–135, §1(a), Dec. 21, 2005, 119 Stat. 2577, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Gulf Opportunity Zone Act of 2005’.”
+
+Pub. L. 109–135, title IV, §401, Dec. 21, 2005, 119 Stat. 2610, provided that: “This subtitle \[subtitle A (§§401–413) of title IV of Pub. L. 109–135, see Tables for classification\] may be cited as the ‘Tax Technical Corrections Act of 2005’.”
+
+Pub. L. 109–73, §1(a), Sept. 23, 2005, 119 Stat. 2016, provided that: “This Act \[amending sections 170 and 7508 of this title and enacting provisions set out as notes under sections 170 and 7508 of this title\] may be cited as the ‘Katrina Emergency Tax Relief Act of 2005’.”
+
+Pub. L. 109–58, title XIII, §1300(a), Aug. 8, 2005, 119 Stat. 986, provided that: “This title \[see Tables for classification\] may be cited as the ‘Energy Tax Incentives Act of 2005’.”
+
+#### Short Title of 2004 Amendments
+
+Pub. L. 108–357, §1(a), Oct. 22, 2004, 118 Stat. 1418, provided that: “This Act \[see Tables for classification\] may be cited as the ‘American Jobs Creation Act of 2004’.”
+
+Pub. L. 108–311, §1(a), Oct. 4, 2004, 118 Stat. 1166, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Working Families Tax Relief Act of 2004’.”
+
+#### Short Title of 2003 Amendments
+
+Pub. L. 108–121, §1(a), Nov. 11, 2003, 117 Stat. 1335, provided that: “This Act \[amending sections 5, 62, 101, 121, 132, 134, 162, 501, 530, 692, 2201, 3121, 3306, 3401, 6013, and 7508 of this title, section 1478 of Title 10, Armed Forces, and section 58c of Title 19, Customs Duties, and enacting provisions set out as notes under sections 5, 62, 101, 121, 132, 134, 501, 530, 2201, and 7508 of this title and section 1478 of Title 10\] may be cited as the ‘Military Family Tax Relief Act of 2003’.”
+
+Pub. L. 108–27, §1(a), May 28, 2003, 117 Stat. 752, provided that: “This Act \[enacting section 6429 of this title and section 801 of Title 42, The Public Health and Welfare, amending this section, sections 24, 55, 57, 63, 163, 168, 179, 301, 306, 338, 467, 531, 541, 584, 702, 854, 857, 1255, 1257, 1400L, 1445, and 7518 of this title, and section 1177 of Title 46, Appendix, Shipping, repealing section 341 of this title, enacting provisions set out as notes under this section, sections 24, 55, 63, 168, and 179 of this title, and section 1396d of Title 42, and amending provisions set out as notes under this section\] may be cited as the ‘Jobs and Growth Tax Relief Reconciliation Act of 2003’.”
+
+Pub. L. 108–26, §1, May 28, 2003, 117 Stat. 751, provided that: “This Act \[enacting and amending provisions set out as notes under section 3304 of this title\] may be cited as the ‘Unemployment Compensation Amendments of 2003’.”
+
+#### Short Title of 2002 Amendments
+
+Pub. L. 107–358, §1, Dec. 17, 2002, 116 Stat. 3015, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Holocaust Restitution Tax Fairness Act of 2002’.”
+
+Pub. L. 107–181, §1, May 20, 2002, 116 Stat. 583, provided that: “This Act \[amending section 107 of this title and enacting provisions set out as a note under section 107 of this title\] may be cited as the ‘Clergy Housing Allowance Clarification Act of 2002’.”
+
+Pub. L. 107–147, §1(a), Mar. 9, 2002, 116 Stat. 21, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Job Creation and Worker Assistance Act of 2002’.”
+
+Pub. L. 107–134, §1(a), Jan. 23, 2002, 115 Stat. 2427, provided that: This Act \[enacting sections 139 and 5891 of this title and section 1148 of Title 29, Labor, amending sections 5, 101, 104, 140, 642, 692, 2011, 2053, 2201, 6013, 6081, 6103, 6105, 6161, 6404, 7213, 7508, and 7508A of this title and section 1302 of Title 29, enacting provisions set out as notes under sections 101, 108, 139, 501, 642, 692, 2011, 5891, 6081, and 6103 of this title, section 401 of Title 42, The Public Health and Welfare, and section 40101 of Title 49, Transportation, and amending provisions set out as a note under section 40101 of Title 49\] may be cited as the ‘Victims of Terrorism Tax Relief Act of 2001’.”
+
+#### Short Title of 2001 Amendments
+
+Pub. L. 107–16, §1(a), June 7, 2001, 115 Stat. 38, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Growth and Tax Relief Reconciliation Act of 2001’.”
+
+Pub. L. 107–15, §1, June 5, 2001, 115 Stat. 37, provided that: “This Act \[amending provisions set out as a note under section 101 of this title\] may be cited as the ‘Fallen Hero Survivor Benefit Fairness Act of 2001’.”
+
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–573, §1, Dec. 28, 2000, 114 Stat. 3061, provided that: “This Act \[amending section 453 of this title and enacting provisions set out as a note under section 453 of this title\] may be cited as the ‘Installment Tax Correction Act of 2000’.”
+
+Pub. L. 106–554, §1(a)(7) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–587, provided that: “This Act \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, see Tables for classification\] may be cited as the ‘Community Renewal Tax Relief Act of 2000’.”
+
+Pub. L. 106–519, §1(a), Nov. 15, 2000, 114 Stat. 2423, provided that: “This Act \[enacting sections 114 and 941 to 943 of this title, amending sections 56, 275, 864, 903 and 999 of this title, and repealing sections 921 to 927 of thistitle\] may be cited as the ‘FSC Repeal and Extraterritorial Income Exclusion Act of 2000’.”
+
+Pub. L. 106–476, title IV, §4001, Nov. 9, 2000, 114 Stat. 2176, provided that: “This title \[enacting sections 1681 to 1681b of Title 19, Customs Duties, amending sections 5704, 5754, and 5761 of this title, and enacting provisions set out as notes under sections 5704 and 5761 of this title and section 1681 of Title 19\] may be cited as the ‘Imported Cigarette Compliance Act of 2000’.”
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–170, title V, §500, Dec. 17, 1999, 113 Stat. 1918, provided that: “This title \[see Tables for classification\] may be cited as the ‘Tax Relief Extension Act of 1999’.”
+
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–277, div. J, §1000(a), Oct. 21, 1998, 112 Stat. 2681–886, provided that: “This division \[§§1000–5301, see Tables for classification\] may be cited as the ‘Tax and Trade Relief Extension Act of 1998’.”
+
+Pub. L. 105–277, div. C, title XV, §1501, Oct. 21, 1998, 112 Stat. 2681–741, provided that: “This title \[amending sections 4132 and 9510 of this title and section 300aa–11 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 4132 and 9510 of this title\] may be cited as the ‘Vaccine Injury Compensation Program Modification Act’.”
+
+Pub. L. 105–206, §1(a), July 22, 1998, 112 Stat. 685, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Internal Revenue Service Restructuring and Reform Act of 1998’.”
+
+Pub. L. 105–206, title III, §3000, July 22, 1998, 112 Stat. 726, provided that: “This title \[see Tables for classification\] may be cited as the ‘Taxpayer Bill of Rights 3’.”
+
+Pub. L. 105–206, title VI, §6001(a), July 22, 1998, 112 Stat. 790, provided that: “This title \[see Tables for classification\] may be cited as the ‘Tax Technical Corrections Act of 1998’.”
+
+Pub. L. 105–178, title IX, §9001(a), June 9, 1998, 112 Stat. 499, provided that: “This title \[amending sections 40, 132, 4041, 4051, 4071, 4081, 4091, 4221, 4481 to 4483, 6156, 6412, 6421, 6427, 9503, and 9504 of this title and section 460<i>l</i>–11 of Title 16, Conservation, repealing section 9511 of this title, enacting provisions set out as notes under sections 40, 132, 172, 4041, 6421, and 9503 of this title, and amending provisions set out as a note under section 172 of this title\] may be cited as the ‘Surface Transportation Revenue Act of 1998’.”
+
+#### Short Title of 1997 Amendments
+
+Pub. L. 105–35, §1, Aug. 5, 1997, 111 Stat. 1104, provided that: “This Act \[enacting section 7213A of this title, amending sections 7213 and 7431 of this title, and enacting provisions set out as notes under sections 7213 and 7431 of this title\] may be cited as the ‘Taxpayer Browsing Protection Act’.”
+
+Section 1(a) of Pub. L. 105–34 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Taxpayer Relief Act of 1997’.”
+
+Pub. L. 105–2, §1(a), Feb. 28, 1997, 111 Stat. 4, provided that: “This Act \[amending sections 4041, 4081, 4091, 4261, 4271, and 9502 of this title and enacting provisions set out as notes under sections 4041, 4081, and 4261 of this title\] may be cited as the ‘Airport and Airway Trust Fund Tax Reinstatement Act of 1997’.”
+
+#### Short Title of 1996 Amendments
+
+Section 1(a) of Pub. L. 104–188 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Small Business Job Protection Act of 1996’.”
+
+Pub. L. 104–168, §1(a), July 30, 1996, 110 Stat. 1452, provided that: “This Act \[enacting sections 4958, 7434, 7435, and 7524 of this title, amending sections 501, 4955, 4963, 6013, 6033, 6041 to 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, 6050N, 6103, 6104, 6159, 6201, 6213, 6323, 6334, 6343, 6404, 6503, 6601, 6651, 6652, 6656, 6672, 6685, 7122, 7213, 7422, 7430, 7433, 7454, 7502, 7608, 7609, 7623, 7802, 7805, and 7811 of this title, renumbering sections 7434 and 7435 as sections 7435 and 7436 of this title, enacting provisions set out as notes under sections 501, 4955, 6013, 6033, 6041, 6103, 6104, 6159, 6201, 6311, 6323, 6334, 6404, 6503, 6601, 6651, 6652, 6656, 6672, 7122, 7430, 7433 to 7435, 7524, 7608, 7609, 7623, 7802, 7803, 7805, and 7811 of this title, and amending provisions set out as a note under section 7608 of this title\] may be cited as the ‘Taxpayer Bill of Rights 2’.”
+
+#### Short Title of 1994 Amendments
+
+Pub. L. 103–465, title VII, §750, Dec. 8, 1994, 108 Stat. 5012, provided that: “This subtitle \[subtitle F (§§750–781) of title VII of Pub. L. 103–465, enacting sections 1310, 1311, and 1350 of Title 29, Labor, amending sections 401, 404, 411, 412, 415, 417, 4971, and 4972 of this title and sections 1053 to 1056, 1082, 1132, 1301, 1303, 1305, 1306, 1322, 1341, 1342, and 1343 of Title 29, and enacting provisions set out as notes under sections 401, 411, 412, and 4972 of this title and sections 1056, 1082, 1303, 1306, 1310, 1311, 1322, 1341, and 1342 of Title 29\] may be cited as the ‘Retirement Protection Act of 1994’.”
+
+Pub. L. 103–387, §1, Oct. 22, 1994, 108 Stat. 4071, provided that: “This Act \[enacting section 3510 of this title, amending sections 3102 and 3121 of this title, section 3701 of Title 31, Money and Finance, and sections 401, 402, 404, 409, 410, and 1383 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 3102 and 3510 of this title, section 3701 of Title 31, and sections 401, 402, and 1383 of Title 42\] may be cited as the ‘Social Security Domestic Employment Reform Act of 1994’.”
+
+#### Short Title of 1993 Amendments
+
+Pub. L. 103–152, §1, Nov. 24, 1993, 107 Stat. 1516, provided that: “This Act \[amending sections 503, 504, 1105, 1108, and 1382j of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 3304 of this title and sections 503 and 1382j of Title 42, amending provisions set out as notes under section 3304 of this title and section 352 of Title 45, Railroads, and repealing provisions set out as a note under section 3304 of this title\] may be cited as the ‘Unemployment Compensation Amendments of 1993’.”
+
+Section 13001(a) of title XIII of Pub. L. 103–66 provided that: “This chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\] may be cited as the ‘Revenue Reconciliation Act of 1993’.”
+
+Pub. L. 103–6, §1, Mar. 4, 1993, 107 Stat. 33, provided that: “This Act \[enacting provisions set out as notes under section 3304 of this title, section 31 of Title 2, The Congress, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of this title and section 352 of Title 45\] may be cited as the ‘Emergency Unemployment Compensation Amendments of 1993’.”
+
+#### Short Title of 1992 Amendments
+
+Pub. L. 102–486, title XIX, §19141, Oct. 24, 1992, 106 Stat. 3036, provided that: “This subtitle \[subtitle C (§§19141–19143) of title XIX of Pub. L. 102–486, enacting sections 9701 to 9722 of this title, amending sections 1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under section 9701 of this title\] may be cited as the ‘Coal Industry Retiree Health Benefit Act of 1992’.”
+
+Pub. L. 102–318, §1, July 3, 1992, 106 Stat. 290, provided that: “This Act \[enacting section 1110 of Title 42, The Public Health and Welfare, amending sections 55, 62, 72, 151, 219, 401 to 404, 406 to 408, 411, 414, 415, 457, 691, 871, 877, 1441, 3121, 3304, 3306, 3402, 3405, 4973, 4980A, 6047, 6652, 6655, and 7701 of this title, section 8509 of Title 5, Government Organization and Employees, section 2291 of Title 19, Customs Duties, and sections 502, 503, 1101, 1102, 1104, and 1105 of Title 42, enacting provisions set out as notes under sections 401, 402, 3302, 3304, and 6655 of this title, section 8509 of Title 5, section 2291 of Title 19, and sections 502, 666, 1102, and 1108 of Title 42, and amending provisions set out as notes under section 3304 of this title, sections 502 and 666 of Title 42, and section 352 of Title 45, Railroads\] may be cited as the ‘Unemployment Compensation Amendments of 1992’.”
+
+#### Short Title of 1991 Amendments
+
+Pub. L. 102–240, title VIII, §8001(a), Dec. 18, 1991, 105 Stat. 2203, provided that: “This title \[enacting section 9511 of this title, amending sections 4041, 4051, 4071, 4081, 4091, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, 9503, and 9504 of this title and section 460<i>l</i>–11 of Title 16, Conservation, and enacting provisions set out as notes under section 9503 of this title, section 101 of Title 23, Highways, and section 1601 of former Title 49, Transportation\] may be cited as the ‘Surface Transportation Revenue Act of 1991’.”
+
+Pub. L. 102–227, §1(a), Dec. 11, 1991, 105 Stat. 1686, provided that: “This Act \[amending sections 25, 28, 41, 42, 48, 51, 57, 120, 127, 143, 144, 162, 864, and 6655 of this title and enacting provisions set out as notes under sections 25, 28, 42, 51, 120, 127, 143, 144, 162, 864, and 6655 of this title\] may be cited as the ‘Tax Extension Act of 1991’.”
+
+#### Short Title of 1990 Amendment
+
+Section 11001(a) of title XI of Pub. L. 101–508 provided that: “This title \[see Tables for classification\] may be cited as the ‘Revenue Reconciliation Act of 1990’.”
+
+#### Short Title of 1989 Amendment
+
+Section 7001(a) of title VII of Pub. L. 101–239 provided that: “This title \[see Tables for classification\] may be cited as the ‘Revenue Reconciliation Act of 1989’.”
+
+Section 7701 of title VII of Pub. L. 101–239 provided that: “This subtitle \[subtitle G (§§7701–7743) of title VII of Pub. L. 101–239, see Tables for classification\] may be cited as the ‘Improved Penalty Administration and Compliance Tax Act’.”
+
+#### Short Title of 1988 Amendment
+
+Section 1(a) of Pub. L. 100–647 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Technical and Miscellaneous Revenue Act of 1988’.”
+
+Section 6226 of Pub. L. 100–647 provided that: “This subtitle \[subtitle J (§§6226–6247) of title VI of Pub. L. 100–647, enacting sections 6159, 6326, 6712, 7430, 7432, 7433, 7520, 7521, and 7811 of this title, amending sections 6213, 6214, 6331, 6332, 6334, 6335, 6343, 6404, 6512, 6601, 6673, 6863, 7216, 7429, 7481, 7482, 7802, and 7805 of this title and section 504 of Title 5, Government Organization and Employees, renumbering section 6326 as 6327, 7432 as 7433, and 7433 as 7434 of this title, and enacting provisions set out as notes under this section and sections 6159, 6213, 6214, 6326, 6331, 6404, 6512, 6673, 6712, 6863, 7429, 7430, 7432, 7520, 7521, 7605, 7801 to 7803, 7805, and 7811 of this title\] may be cited as the ‘Omnibus Taxpayer Bill of Rights’.”
+
+#### Short Title of 1987 Amendments
+
+Pub. L. 100–223, title IV, §401, Dec. 30, 1987, 101 Stat. 1532, provided that: “This title \[enacting section 4283 of this title, amending sections 4041, 4261, 4271, 6427, and 9502 of this title, and enacting provisions set out as notes under sections 4041 and 4261 of this title\] may be cited as the ‘Airport and Airway Revenue Act of 1987’.”
+
+Pub. L. 100–203, title IX, §9302(a), Dec. 22, 1987, 101 Stat. 1330–333, provided that: “This part \[part II (§§9302–9346) of subtitle D of part II of Pub. L. 100–203, enacting sections 1085b and 1371 of Title 29, Labor, amending sections 401, 404, 411, 412, 414, and 4971 of this title and sections 1021, 1023, 1024, 1054, 1082 to 1084, 1085a, 1086, 1103, 1107, 1113, 1132, 1201, 1301, 1305 to 1307, 1322, 1341, 1342, 1344, 1349, 1362, 1364, 1367, and 1368 of Title 29, repealing section 1349 of Title 29, and enacting provisions set out as notes under sections 401, 404, 412, and 4971 of this title and sections 1054, 1107, 1132, 1301, 1305, 1322, and 1344 of Title 29\] may be cited as the ‘Pension Protection Act’.”
+
+Pub. L. 100–203, title X, §10000(a), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “This title \[see Tables for classification\] may be cited as the ‘Revenue Act of 1987’.”
+
+Pub. L. 100–17, title V, §501, Apr. 2, 1987, 101 Stat. 256, provided that: “This title \[amending sections 4041, 4051, 4052, 4071, 4081, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, and 9503 of this title and section 460<i>l</i>–11 of Title 16, Conservation, and enacting provisions set out as notes under sections 4052 and 4481 of this title\] may be cited as the ‘Highway Revenue Act of 1987’.”
+
+#### Short Title of 1986 Amendments
+
+Pub. L. 99–662, title XIV, §1401, Nov. 17, 1986, 100 Stat. 4266, provided that: “This title \[enacting sections 4461, 4462, 9505, and 9506 of this title and section 988a of Title 33, Navigation and Navigable Waters, amending section 4042 of this title and sections 984 and 1804 of Title 33, repealing sections 1801 and 1802 of Title 33, and enacting provisions set out as notes under sections 4042, 4461, 9505, and 9506 of this title and sections 984 and 988 of Title 33\] may be cited as the ‘Harbor Maintenance Revenue Act of 1986’.”
+
+Section 1(a) of Pub. L. 99–514 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Reform Act of 1986’.”
+
+Pub. L. 99–499, title V, §501, Oct. 17, 1986, 100 Stat. 1760, provided that: “This title \[enacting sections 59A, 4671, 4672, 9507, and 9508 of this title, amending sections 26, 164, 275, 936, 1561, 4041, 4042, 4081, 4221, 4611, 4612, 4661, 4662, 6154, 6416, 6420, 6421, 6425, 6427, 6655, 9502, 9503, and 9506 of this title and section 9601 of Title 42, The Public Health and Welfare, repealing sections 4681 and 4682 of this title and sections 9631 to 9633, 9641, and 9653 of Title 42, and enacting provisions set out as notes under this section and sections 26, 4041, 4611, 4661, 4671, 4681, 9507, and 9508 of this title\] may be cited as the ‘Superfund Revenue Act of 1986’.”
+
+#### Short Title of 1984 Amendment
+
+Pub. L. 98–369, §1(a), July 18, 1984, 98 Stat. 494, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Deficit Reduction Act of 1984’.”
+
+Pub. L. 98–369, div. A (§§5–1082), §5(a), July 18, 1984, 98 Stat. 494, provided that: “This division \[see Tables for classification\] may be cited as the ‘Tax Reform Act of 1984’.”
+
+#### Short Title of 1983 Amendments
+
+Pub. L. 98–135, §1, Oct. 24, 1983, 97 Stat. 857, provided that: “This Act \[amending section 3306 of this title and sections 1323 and 1397b of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3304 and 3306 of this title and section 1323 of Title 42, and amending provisions set out as notes under section 3304 of this title\] may be cited as the ‘Federal Supplemental Compensation Amendments of 1983’.”
+
+Pub. L. 98–76, title II, §201, Aug. 12, 1983, 97 Stat. 419, provided that: “This title \[enacting sections 3321 to 3323 and 6050G of this title, amending sections 72, 86, 105, 3201, 3202, 3211, 3221, 3231, 6157, 6201, 6317, 6513, and 6601 of this title and section 430 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 72, 105, 3201, 3321, and 6302 of this title and section 231n of Title 45, Railroads\] may be cited as the ‘Railroad Retirement Revenue Act of 1983’.”
+
+Pub. L. 98–67, title I, §101(a), Aug. 5, 1983, 97 Stat. 369, provided that: “This title \[enacting sections 3406 and 6705 of this title, amending sections 31, 274, 275, 643, 661, 3402, 3403, 3502, 3507, 6011, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6652, 6653, 6654, 6676, 6678, 6682, 7205, 7215, 7431, 7654, and 7701 of this title, repealing sections 3451 to 3456 of this title, enacting provisions set out as notes under sections 31, 3451, and 6011 of this title, and repealing provisions set out as a note under section 3451 of this title\] may be cited as the ‘Interest and Dividend Tax Compliance Act of 1983’.”
+
+Pub. L. 97–473, title II, §201, Jan. 14, 1983, 96 Stat. 2607, provided that: “This title \[enacting section 7871 of this title, amending sections 41, 103, 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6424, 6427, and 7701 of this title, and enacting provisions set out as a note under section 7871 of this title\] may be cited as the ‘Indian Tribal Governmental Tax Status Act of 1982’.”
+
+Section 1(a) of Pub. L. 97–448 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Technical Corrections Act of 1982’.”
+
+Pub. L. 97–424, title V, §501(a), Jan. 6, 1983, 96 Stat. 2168, provided that: “This title \[see Tables for classification\] may be cited as the ‘Highway Revenue Act of 1982’.”
+
+#### Short Title of 1982 Amendments
+
+Pub. L. 97–362, §1(a), Oct. 25, 1982, 96 Stat. 1726, provided that: “This Act \[amending sections 8509 and 8521 of Title 5, Government Organization and Employees, sections 48, 172, 4401, 4411, 6051, 7447, 7448, 7456, 7459, and 7463 of this title, and section 601 of former Title 46, Shipping, enacting provisions set out as notes under sections 8509 and 8521 of Title 5 and sections 48, 172, 336, 4401, 4411, 6051, 7448, and 7463 of this title, and amending provisions set out as notes under section 2291 of Title 19, Customs Duties, and section 3306 of this title\] may be cited as the ‘Miscellaneous Revenue Act of 1982’.”
+
+Pub. L. 97–354, §1(a), Oct. 19, 1982, 96 Stat. 1669, provided that: “This Act \[enacting sections 1361 to 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 of this title, amending sections 29, 31, 40, 41, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and section 1108 of Title 29, Labor, omitting section 1376 of this title, and enacting provisions set out as a note under section 1361 of this title\] may be cited as the ‘Subchapter S Revision Act of 1982’.”
+
+Pub. L. 97–248, §1(a), Sept. 3, 1982, 96 Stat. 324, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Equity and Fiscal Responsibility Act of 1982’.”
+
+Section 401 of title IV of Pub. L. 97–248 provided that: “This title \[enacting sections 6046A and 6221 to 6232 of this title and section 1508 of Title 28, Judiciary and Judicial Procedure, amending sections 702, 6031, 6213, 6216, 6422, 6501, 6504, 6511, 6512, 6515, 6679, 7422, 7451, 7456, 7459, 7482, and 7485 of this title and section 1346 of Title 28, and enacting provisions set out as notes under sections 6031, 6046A, 6221, and 6231 of this title\] may be cited as the ‘Tax Treatment of Partnership Items Act of 1982’.”
+
+#### Short Title of 1981 Amendments
+
+Pub. L. 97–119, title I, §101(a), Dec. 29, 1981, 95 Stat. 1635, provided that: “This subtitle \[subtitle A (§§101–104) of title I of Pub. L. 97–119, enacting sections 9500, 9501, 9601, and 9602 of this title, amending sections 501 and 4121 of this title and sections 902, 925, 932, and 934 of Title 30, Mineral Lands and Mining, repealing section 934a of Title 30, and enacting provisions set out as notes under sections 4121 and 9501 of this title and section 934 of Title 30\] may be cited as the ‘Black Lung Benefits Revenue Act of 1981’.”
+
+Section 1(a) of Pub. L. 97–34 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Recovery Tax Act of 1981’.”
+
+#### Short Title of 1980 Amendments
+
+Pub. L. 96–605, §1(a), Dec. 28, 1980, 94 Stat. 3521, provided that: “This Act \[enacting sections 66 and 195 of this title, amending sections 48, 105, 125, 274, 401, 408, 409A, 410, 414, 415, 501, 513, 514, 528, 861, 871, and 2055 of this title, and enacting provisions set out as notes under sections 48, 66, 119, 125, 195, 274, 401, 409A, 414, 415, 501, 513, 514, 528, 861, 871, 2055, 3121, and 7701 of this title\] may be cited as the ‘Miscellaneous Revenue Act of 1980’.”
+
+Pub. L. 96–589, §1(a), Dec. 24, 1980, 94 Stat. 3389, provided that: “This Act \[enacting sections 370, 1398, 1399, 6658, and 7464 of this title, redesignating former section 7464 of this title as 7465, amending sections 108, 111, 118, 128, 302, 312, 337, 351, 354, 355, 357, 368, 381, 382, 422, 443, 542, 703, 1017, 1023, 1371, 3302, 6012, 6036, 6103, 6155, 6161, 6212, 6213, 6216, 6326, 6404, 6503, 6512, 6532, 6871, 6872, 6873, 7430, and 7508 of this title, repealing section 1018 of this title, and enacting provisions set out as a note under section 108 of this title\] may be cited as the ‘Bankruptcy Tax Act of 1980’.”
+
+Pub. L. 96–510, title II, §201(a), Dec. 11, 1980, 94 Stat. 2796, provided that: “This title \[enacting chapter 38 of this title, sections 9631 to 9641 of Title 42, The Public Health and Welfare, and provisions set out as a note under section 4611 of this title\] may be cited as the ‘Hazardous Substance Response Revenue Act of 1980’.”
+
+Pub. L. 96–499, title XI, §1100, Dec. 5, 1980, 94 Stat. 2660, provided: “This title \[enacting sections 103A, 280D, 897, 6039C, and 6429 of this title, amending sections 103, 861, 871, 882, 3121, 3306, 4251, 6652, and 6655 of this title and section 409 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 1, 103A, 280D, 897, 3121, and 6655 of this title\] may be cited as the ‘Revenue Adjustments Act of 1980’.”
+
+Pub. L. 96–499, title XI, subtitle A (§§1101–1104), §1101, Dec. 5, 1980, 94 Stat. 2660, provided: “This subtitle \[enacting section 103A of this title, amending section 103 of this title, and enacting provisions set out as a note under section 103A of this title\] may be cited as the ‘Mortgage Subsidy Bond Tax Act of 1980’.”
+
+Pub. L. 96–499, title XI, §1121, Dec. 5, 1980, 94 Stat. 2682, provided: “This subtitle \[subtitle C (§§1121–1125) of title XI of Pub. L. 96–499, enacting sections 897 and 6039C of this title, amending sections 861, 871, 882, and 6652 of this title, and enacting provisions set out as notes under section 897 of this title\] may be cited as the ‘Foreign Investment in Real Property Tax Act of 1980’.”
+
+Pub. L. 96–471, §1(a), Oct. 19, 1980, 94 Stat. 2247, provided: “This Act \[enacting sections 453 to 453B of this title, amending sections 311, 336, 337, 381, former section 453, sections 453B, 481, 644, 691, 1038, 1239, and 1255 of this title, and enacting provisions set out as notes under sections 453, 691, and 1038 of this title\] may be cited as the ‘Installment Sales Revision Act of 1980’.”
+
+Pub. L. 96–283, title IV, §401, June 28, 1980, 94 Stat. 582, provided that: “This title \[enacting sections 4495 to 4498 of this title and sections 1472, 1473 of Title 30, Mineral Lands and Mining, and enacting provision set out as a note under section 4495 of this title\] may be cited as the ‘Deep Seabed Hard Mineral Removal Tax Act of 1979’.”
+
+Pub. L. 96–223, §1(a) Apr. 2, 1980, 94 Stat. 229, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Crude Oil Windfall Profit Tax Act of 1980’.”
+
+Pub. L. 96–222, §1(a), Apr. 1, 1980, 94 Stat. 194, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Technical Corrections Act of 1979’.”
+
+#### Short Title of 1979 Amendment
+
+Pub. L. 96–39, title VIII, §801(a), July 26, 1979, 93 Stat. 273, provided that: “This subtitle \[subtitle A (§§801–810) of title VIII of Pub. L. 96–39, amending sections 5001, 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 5001, 5061, 5171, and 5173 of this title\] may be cited as the ‘Distilled Spirits Tax Revision Act of 1979’.”
+
+#### Short Title of 1978 Amendments
+
+Section 1(a) of Pub. L. 95–618, Nov. 9, 1978, 92 Stat. 3174, provided that: “This Act \[enacting sections 44C, 124, and 4064 of this title, amending sections 39, 46 to 48, 56, 57, 167, 263, 465, 613, 613A, 614, 751, 1016, 1254, 4041, 4063, 4081, 4092, 4093, 4217, 4221, 4222, 4293, 4483, 6096, 6401, 6412, 6416, 6421, 6424, 6427, 6504, and 6675 of this title, redesignating section 124 of this title as section 125, enacting provisions set out as notes under sections 39, 44C, 48, 124, 167, 263, 613, 613A, 4041, 4063, 4064, 4081, 4093, and 4221of this title, and amending provisions set out as notes under section 57 of this title and section 120 of Title 23, Highways\] may be cited as the ‘Energy Tax Act of 1978’.”
+
+Pub. L. 95–615, §1, Nov. 8, 1978, 92 Stat. 3097, provided that: “This Act \[probably meaning sections 1 to 8 of Pub. L. 95–615, amending section 167 of this title, enacting provisions set out as notes under sections 61, 62, and 911 of this title, and amending provisions set out as notes under sections 117, 167, 382, 401, and 911 of this title\] may be cited as the ‘Tax Treatment Extension Act of 1977’.”
+
+Pub. L. 95–615, §201(a), Nov. 8, 1978, 92 Stat. 3098, provided that: “This Act \[probably meaning sections 201 to 210 of Pub. L. 95–615, enacting section 913 of this title, amending sections 43, 62, 119, 217, 911, 1034, 1302, 1304, 1402, 3401, 6011, 6012, and 6091 of this title, and enacting provisions set out as notes under sections 61, 401, and 911 of this title\] may be cited as the ‘Foreign Earned Income Act of 1978’.”
+
+Section 1(a) of Pub. L. 95–600 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Revenue Act of 1978’.”
+
+Pub. L. 95–502, title II, §201, Oct. 21, 1978, 92 Stat. 1696, provided that: “This title \[enacting section 4042 of this title and sections 1801 to 1804 of Title 33, Navigation and Navigable Waters, amending section 4293 of this title, and enacting provisions set out as notes under section 4042 of this title\] may be cited as the ‘Inland Waterways Revenue Act of 1978’.”
+
+Pub. L. 95–227, §1, Feb. 10, 1978, 92 Stat. 11, provided that: “This Act \[enacting sections 192, 4121, and 4951 to 4953 of this title and section 934a of Title 30, Mineral Lands and Mining, amended sections 501, 4218, 4221, 4293, 4946, 6104, 6213, 6405, 6416, 6501, 6503, and 7454 of this title and section 934 of Title 30 and enacted provisions set out as notes under sections 192 and 4121 of this title and section 934 of Title 30\] may be cited as the ‘Black Lung Benefits Revenue Act of 1977’.”
+
+#### Short Title of 1977 Amendments
+
+Section 1(a) of Pub. L. 95–30 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Reduction and Simplification Act of 1977’.”
+
+Pub. L. 95–19, §1, Apr. 12, 1977, 91 Stat. 39, provided that: “This Act \[amending section 3304 of this title, enacting provisions set out as notes under sections 3302, 3304, and 3309 of this title, and amending provisions set out as notes under sections 3302, 3304, and 3309 of this title and sections 359 and 360 of Title 2, The Congress\] may be cited as the ‘Emergency Unemployment Compensation Extension Act of 1977’.”
+
+#### Short Title of 1976 Amendments
+
+Pub. L. 94–455, title I, §101, Oct. 4, 1976, 90 Stat. 1525, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Reform Act of 1976’.”
+
+Section 1 of Pub. L. 94–452 provided that: “This Act \[enacting section 6158 of this title, amending sections 311, 1101, 1102, 1103, 6151, 6503, and 6601 of this title, and enacting provisions set out as notes under sections 311, 1101, and 6158 of this title\] may be cited as the ‘Bank Holding Company Tax Act of 1976’.”
+
+#### Short Title of 1975 Amendments
+
+Pub. L. 94–164, §1, Dec. 23, 1975, 89 Stat. 970, provided that: “This Act \[amending sections 11, 21, 42, 43, 103, 141, 883, 962, 1561, 3402, 6012, 6153, and 6154 of this title and provisions set out as notes under sections 42, 43, and 3402 of this title, and enacting provisions set out as notes under this section and sections 3, 11, 43, 103, and 883 of this title\] may be cited as the ‘Revenue Adjustment Act of 1975’.”
+
+Pub. L. 94–12, §1(a), Mar. 29, 1975, 89 Stat. 26, provided that: “This Act \[enacting sections, 42, 43, 44, 613A, 907, 955, and 6428 of this title, amending sections 3, 11, 12, 21, 46, 47, 48, 50A, 50B, 56, 141, 214, 535, 613, 703, 851, 901, 902, 951, 954, 962, 993, 1034, 1561, 3304 note, 3402, 6012, 6096, 6201, and 6401 of this title, repealing sections 955 and 963 of this title, and enacting provisions set out as notes under sections 3, 11, 43, 44, 46, 48, 50A, 214, 410, 535, 613A, 907, 955, 993, 3304, 3402, 6428, and 6611 of this title and section 402 of Title 42, The Public Health and Welfare\] may be cited as the ‘Tax Reduction Act of 1975’.”
+
+#### Short Title of 1973 Amendments
+
+Pub. L. 93–69, title I, §110, July 10, 1973, 87 Stat. 166, provided that: “This title \[amending sections 3201, 3202, 3211, and 3221 of this title and sections 228b, 228c, and 228e of Title 45, Railroads, enacting provisions set out as notes under section 3201 of this title and sections 228b, 228c, 228f, and 228<i>o</i> of Title 45, and amending provisions set out as notes under section 228c of Title 45\] may be cited as the ‘Railroad Retirement Amendments of 1973’.”
+
+For short title of Pub. L. 93–17 as the “Interest Equalization Tax Extension Act of 1973”, see section 1(a) of Pub. L. 93–17, set out as a note under section 2104 of this title.
+
+#### Short Title of 1972 Amendment
+
+Pub. L. 92–512, title II, §201, Oct. 20, 1972, 86 Stat. 936, provided that: “This title \[enacting sections 6361 to 6363 of this title, amending sections 6405 and 7463 of this title, and enacting provisions set out as a note under section 7463 of this title\] may be cited as the ‘Federal-State Tax Collection Act of 1972’.”
+
+#### Short Title of 1971 Amendments
+
+Pub. L. 92–178, §1(a), Dec. 10, 1971, 85 Stat. 497, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Revenue Act of 1971’.”
+
+For short title of Pub. L. 92–9 as the “Interest Equalization Tax Extension Act of 1971”, see section 1(a) of Pub. L. 92–9, set out as a note under section 861 of this title.
+
+#### Short Title of 1970 Amendment
+
+For short title of Pub. L. 91–614 as the “Excise, Estate, and Gift Tax Adjustment Act of 1970”, see section 1 of Pub. L. 91–614, set out as a Short Title note under section 2001 of this title.
+
+#### Short Title of 1969 Amendments
+
+Pub. L. 91–172, §1(a), Dec. 30, 1969, 83 Stat. 487, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Reform Act of 1969’.”
+
+For short title of Pub. L. 91–128 as the “Interest Equalization Tax Extension Act of 1969”, see section 1(a) of Pub. L. 91–128, set out as a note under section 4182 of this title.
+
+#### Short Title of 1968 Amendment
+
+Pub. L. 90–364, §1(a), June 28, 1968, 82 Stat. 251, provided that: “This Act \[enacting sections 51 and 6425 of this title, amending sections 103, 243, 276, 501, 963, 3402, 4061, 4251, 6020, 6154, 6412, 6651, 6655, 7203, 7502, and 7701 of this title and sections 603, 607, and 1396b of Title 42, The Public Health and Welfare, repealing sections 6016, 6074, and 4251 to 4254 of this title, enacting provisions set out as notes under sections 51, 103, 276, 501, 4061, 6154, and 7502 of this title, section 3101 of Title 5, Government Organization and Employees, sections 11 and 757b of former Title 31, Money and Finance, and section 1396b of Title 42, and amending notes under section 1396b of Title 42,\] may be cited as the ‘Revenue and Expenditure Control Act of 1968’.”
+
+#### Short Title of 1967 Amendment
+
+For short title of Pub. L. 90–59 as the “Interest Equalization Tax Extension Act of 1967”, see section 1(a) of Pub. L. 90–59, set out as a note under section 6011 of this title.
+
+#### Short Title of 1966 Amendments
+
+For short title of title I of Pub. L. 89–809 as the “Foreign Investors Tax Act of 1966”, see section 101 of Pub.L. 89–809, set out as a note under section 861 of this title.
+
+For short title of title III of Pub. L. 89–809 as the “Presidential Election Campaign Fund Act of 1966”, see section 301 of Pub. L. 89–809, set out as a Short Title note under section 6096 of this title.
+
+For short title of Pub. L. 89–719 as the “Federal Tax Lien Act of 1966”, see section 1(a) of Pub. L. 89–719, set out as a Short Title note under section 6321 of this title.
+
+#### Short Title of 1965 Amendment
+
+Pub. L. 89–44, §1(a), June 21, 1965, 79 Stat. 136, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Excise Tax Reduction Act of 1965’.”
+
+#### Short Title of 1964 Amendments
+
+Section 1 of Pub. L. 88–348 provided: “That this Act \[amending sections 165, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707, and 6412 of this title, and provisions set out as notes under sections 165, 4261, and 5701 of this title\] may be cited as the ‘Excise-Tax Rate Extension Act of 1964’.”
+
+Pub. L. 88–272, §2(a), Feb. 26, 1964, 78 Stat 19, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Revenue Act of 1964’.”
+
+#### Short Title of 1963 Amendment
+
+Pub. L. 88–52, §1, June 29, 1963, 77 Stat. 72, provided: “That this Act \[amending sections 11, 821, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707, 6412 of this title and provisions set out as notes under sections 4261 and 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1963’.”
+
+#### Short Title of 1962 Amendments
+
+Pub. L. 87–834, §1(a), Oct. 16, 1962, 76 Stat. 960, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Revenue Act of 1962’.”
+
+For short title of Pub. L. 87–792 as the “Self-Employed Individuals Tax Retirement Act of 1962”, see section 1 of Pub. L. 87–792, set out as a note under section 401 of this title.
+
+Pub. L. 87–508, §1, June 28, 1962, 76 Stat. 114, provided: “That this Act \[amending sections 11, 821, 4061, 4251 to 4253, 4261 to 4264, 5001, 5002, 5041, 5051, 5063, 5701, 6707, 6412, 6416, and 6421 of this title, enacting provisions set out as notes under section 4261, 6416, and 6421 of this title, and amending provisions set out as a note under section 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1962’.”
+
+#### Short Title of 1961 Amendment
+
+Pub. L. 87–72, §1, June 30, 1961, 75 Stat. 193, provided: “That this Act \[amending sections 11, 821, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707, and 6412 of this title and provisions set out as a note under section 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1961’.”
+
+#### Short Title of 1959 Amendments
+
+Pub. L. 86–75, §1, June 30, 1959, 73 Stat. 157, provided: “That this Act \[amending sections 11, 821, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707 and 6412 of this title and provisions set out as a note under section 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1959’.”
+
+Section 1 of Pub. L. 86–69 provided that: “This Act \[amending former part I of subchapter L of this chapter and sections 116, 381, 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title and enacting provisions set out as notes under sections 801, 6072, and 6655 of this title\] may be cited as the ‘Life Insurance Company Income Tax Act of 1959’.”
+
+#### Short Title of 1958 Amendments
+
+Pub. L. 85–866, title I, §1(a), Sept. 2, 1958, 72 Stat. 1606, provided that: “This title \[see Tables for classification\] may be cited as the ‘Technical Amendments Act of 1958’.”
+
+Pub. L. 85–866, title II, §201, Sept. 2, 1958, 72 Stat. 1676, provided that: “This title \[amending sections 165, 172, 179, 535, 1244, 1551, 6161, 6166, 6503, and 6601 of this title and enacting provisions set out as notes under sections 172, 179, 535, 6161 of this title\] may be cited as the ‘Small Business Tax Revision Act of 1958’.”
+
+For short title of Pub. L. 85–859 as the “Excise Tax Technical Changes Act of 1958”, see section 1(a) of Pub. L. 85–859, set out as a Short Title note under section 5001 of this title.
+
+Pub. L. 85–475, §1, June 30, 1958, 72 Stat. 259, provided: “That this Act \[amending sections 11, 821, 4061, 4292, 5001, 5022, 5041, 5051, 5063, 5134, 5701, 5707, 6412, 6415, 6416, 7012, and 7272 of this title and repealing sections 4271 to 4273 and 4281 to 4283 of this title\] may be cited as the ‘Tax Rate Extension Act of 1958’.”
+
+#### Short Title of 1957 Amendment
+
+Section 1 of Pub. L. 85–12 provided: “That this Act \[amending sections 11, 821, 4061, 5001, 5022, 5041, 5051, 5063, 5134, 5701, 5707, and 6412 of this title\] may be cited as the ‘Tax Rate Extension Act of 1957’.”
+
+#### Short Title of 1956 Amendments
+
+For short title of title II of act June 29, 1956 as the “Highway Revenue Act of 1956”, see section 201(a) of act June 29, 1956, set out as a note under section 4041 of this title.
+
+For short title of act Mar. 29, 1956 as the “Tax Rate Extension Act of 1956”, see section 1 of act Mar. 29, 1956, set out as a note under section 4041 of this title.
+
+Section 1 of act Mar. 13, 1956, provided: “That this Act \[enacting section 843 of this title and amending sections 316, 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 891, 1201, 1504, and 4371 of this title\] be cited as the ‘Life Insurance Company Tax Act for 1955’.”
+
+#### Short Title of 1955 Amendment
+
+For short title of act Mar. 30, 1955 as the “Tax Rate Extension Act of 1955”, see section 1 of act Mar. 30, 1955, set out as a note under section 4041 of this title.
+
+#### Transitional Rules for Taxable Years Which Include May 6, 2003
+
+Pub. L. 108–27, title III, §301(c), May 28, 2003, 117 Stat. 759, provided that: “For purposes of applying section 1(h) of the Internal Revenue Code of 1986 in the case of a taxable year which includes May 6, 2003—
+
+&emsp;“(1) The amount of tax determined under subparagraph (B) of section 1(h)(1) of such Code shall be the sum of—
+
+&emsp;&emsp;“(A) 5 percent of the lesser of—
+
+&emsp;&emsp;&emsp;“(i) the net capital gain determined by taking into account only gain or loss properly taken into account for the portion of the taxable year on or after May 6, 2003 (determined without regard to collectibles gain or loss, gain described in section 1(h)(6)(A)(i) of such Code, and section 1202 gain), or
+
+&emsp;&emsp;&emsp;“(ii) the amount on which a tax is determined under such subparagraph (without regard to this subsection),
+
+&emsp;&emsp;“(B) 8 percent of the lesser of—
+
+&emsp;&emsp;&emsp;“(i) the qualified 5-year gain (as defined in section 1(h)(9) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act \[May 28, 2003\]) properly taken into account for the portion of the taxable year before May 6, 2003, or
+
+&emsp;&emsp;&emsp;“(ii) the excess (if any) of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the amount on which a tax is determined under such subparagraph (without regard to this subsection), over
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the amount on which a tax is determined under subparagraph (A), plus
+
+&emsp;&emsp;“(C) 10 percent of the excess (if any) of—
+
+&emsp;&emsp;&emsp;“(i) the amount on which a tax is determined under such subparagraph (without regard to this subsection), over
+
+&emsp;&emsp;&emsp;“(ii) the sum of the amounts on which a tax is determined under subparagraphs (A) and (B).
+
+&emsp;“(2) The amount of tax determined under subparagraph (C) of section (1)(h)(1) of such Code shall be the sum of—
+
+&emsp;&emsp;“(A) 15 percent of the lesser of—
+
+&emsp;&emsp;&emsp;“(i) the excess (if any) of the amount of net capital gain determined under subparagraph (A)(i) of paragraph (1) of this subsection over the amount on which a tax is determined under subparagraph (A) of paragraph (1) of this subsection, or
+
+&emsp;&emsp;&emsp;“(ii) the amount on which a tax is determined under such subparagraph (C) (without regard to this subsection), plus
+
+&emsp;&emsp;“(B) 20 percent of the excess (if any) of—
+
+&emsp;&emsp;&emsp;“(i) the amount on which a tax is determined under such subparagraph (C) (without regard to this subsection), over
+
+&emsp;&emsp;&emsp;“(ii) the amount on which a tax is determined under subparagraph (A) of this paragraph.
+
+&emsp;“(3) For purposes of applying section 55(b)(3) of such Code, rules similar to the rules of paragraphs (1) and (2) of this subsection shall apply.
+
+&emsp;“(4) In applying this subsection with respect to any pass-thru entity, the determination of when gains and losses are properly taken into account shall be made at the entity level.
+
+&emsp;“(5) For purposes of applying section 1(h)(11) of such Code, as added by section 302 of this Act, to this subsection, dividends which are qualified dividend income shall be treated as gain properly taken into account for the portion of the taxable year on or after May 6, 2003.
+
+&emsp;“(6) Terms used in this subsection which are also used in section 1(h) of such Code shall have the respective meanings that such terms have in such section.”
+
+#### Coordination of Provisions in Amendatory Acts
+
+Pub. L. 105–277, div. J, title IV, §4001(b), Oct. 21, 1998, 112 Stat. 2681–906, provided that: “For purposes of applying the amendments made by any title of this division \[§§1000–5301, see Tables for classification\] other than this title \[see Definitions note set out below for classification\], the provisions of this title shall be treated as having been enacted immediately before the provisions of such other titles.”
+
+Pub. L. 105–206, title VI, §6001(b), July 22, 1998, 112 Stat. 790, provided that: “For purposes of applying the amendments made by any title of this Act other than this title, the provisions of this title \[see Tables for classification\] shall be treated as having been enacted immediately before the provisions of such other titles.”
+
+Section 1600 of title XVI of Pub. L. 105–34 provided that: “For purposes of applying the amendments made by any title of this Act other than this title, the provisions of this title \[see Tables for classification\] shall be treated as having been enacted immediately before the provisions of such other titles.”
+
+Section 1701 of Pub. L. 104–188 provided that: “For purposes of applying the amendments made by any subtitle \[subtitle A to F (§§1111–1621) and H to J (§§1801–1954) of title I of Pub. L. 104–188, see Tables for classification\] of this title other than this subtitle \[subtitle G (§§1701–1704) of title I of Pub. L. 104–188, see Tables for classification\], the provisions of this subtitle shall be treated as having been enacted immediately before the provisions of such other subtitles.”
+
+Section 11700 of Pub. L. 101–508 provided that: “For purposes of applying the amendments made by any subtitle \[subtitles A to F (§§11101–11622) and H and I (§§11801–11901) of title XI of Pub. L. 101–508, see Tables for classification\] of this title other than this subtitle \[subtitle G (§§11700–11704) of title XI of Pub. L. 101–508, see Tables for classification\], the provisions of this subtitle shall be treated as having been enacted immediately before the provisions of such other subtitles.”
+
+Section 7801(b) of Pub. L. 101–239 provided that: “For purposes of applying the amendments made by any subtitle \[subtitles A to G (§§7101–7743) of title VII of Pub. L. 101–239, see Tables for classification\] of this title other than this subtitle \[subtitle H (§§7801–7894) of title VII of Pub. L. 101–239, see Tables for classification\], the provisions of this subtitle shall be treated as having been enacted immediately before the provisions of such other subtitles.”
+
+Section 1800 of title XVIII of Pub. L. 99–514 provided that: “For purposes of applying the amendments made by any title of this Act other than this title, the provisions of this title \[see Tables for classification\] shall be treated as having been enacted immediately before the provisions of such other titles.”
+
+#### Adjustments for Consumer Price Index Error
+
+Pub. L. 106–554, §1(a)(7) \[title III, §308\], Dec. 21, 2000, 114 Stat. 2763, 2763A–636, provided that:
+
+“(a)
+
+Determinations by OMB.—As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], the Director of the Office of Management and Budget shall determine with respect to each applicable Federal benefit program whether the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries under such program (as compared to payments that would have been made if the error had not occurred). As soon as practicable after the date of the enactment of this Act, but not later than 60 days after such date, the Director shall direct the head of the Federal agency which administers such program to make a payment or payments that, insofar as the Director finds practicable and feasible—
+
+&emsp;“(1) are targeted to the amount of the shortfall experienced by individual beneficiaries, and
+
+&emsp;“(2) compensate for the shortfall.
+
+“(b)
+
+Coordination with Federal Agencies.—As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], each Federal agency that administers an applicable Federal benefit program shall, in accordance with such guidelines as are issued by the Director pursuant to this section, make an initial determination of whether, and the extent to which, the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries of an applicable Federal benefit program administered by such agency. Not later than 30 days after such date, the head of such agency shall submit a report to the Director and to each House of the Congress of such determination, together with a complete description of the nature of the shortfall.
+
+“(c)
+
+Implementation Pursuant to Agency Reports.—Upon receipt of the report submitted by a Federal agency pursuant to subsection (b), the Director shall review the initial determination of the agency, the agency's description of the nature of the shortfall, and the compensation payments proposed by the agency. Prior to directing payment of such payments pursuant to subsection (a), the Director shall make appropriate adjustments (if any) in the compensation payments proposed by the agency that the Director determines are necessary to comply with the requirements of subsection (a) and transmit to the agency a summary report of the review, indicating any adjustments made by the Director. The agency shall make the compensation payments as directed by the Director pursuant to subsection (a) in accordance with the Director's summary report.
+
+“(d)
+
+Income Disregard Under Federal Means-Tested Benefit Programs.—A payment made under this section to compensate for a shortfall in benefits shall, in accordance with guidelines issued by the Director pursuant to this section, be disregarded in determining income under title VIII of the Social Security Act \[42 U.S.C. 1001 et seq.\] or any applicable Federal benefit program that is means-tested.
+
+“(e)
+
+Funding.—Funds otherwise available under each applicable Federal benefit program for making benefit payments under such program are hereby made available for making compensation payments under this section in connection with such program.
+
+“(f)
+
+No Judicial Review.—No action taken pursuant to this section shall be subject to judicial review.
+
+“(g)
+
+Director's Report.—Not later than April 1, 2001, the Director shall submit to each House of the Congress a report on the activities performed by the Director pursuant to this section.
+
+“(h)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1)
+
+Applicable federal benefit program.—The term ‘applicable Federal benefit program’ means any program of the Government of the United States providing for regular or periodic payments or cash assistance paid directly to individual beneficiaries, as determined by the Director of the Office of Management and Budget.
+
+&emsp;“(2)
+
+Federal agency.—The term ‘Federal agency’ means a department, agency, or instrumentality of the Government of the United States.
+
+&emsp;“(3) CPI
+
+computation error for 1999.—The term ‘CPI computation error for 1999’ means the error in the computation of the Consumer Price Index announced by the Bureau of Labor Statistics on September 28, 2000.
+
+“(i)
+
+Tax Provisions.—In the case of taxable years (and other periods) beginning after December 31, 2000, if any Consumer Price Index (as defined in section 1(f)(5) of the Internal Revenue Code of 1986) reflects the CPI computation error for 1999—
+
+&emsp;“(1) the correct amount of such Index shall (in such manner and to such extent as the Secretary of the Treasury determines to be appropriate) be taken into account for purposes of such Code, and
+
+&emsp;“(2) tables prescribed under section 1(f) of such Code to reflect such correct amount shall apply in lieu of any tables that were prescribed based on the erroneous amount.”
+
+#### Application of Special Rules for Maximum Capital Gains Rate
+
+Pub. L. 105–277, div. J, title IV, §4002(i)(2), Oct. 21, 1998, 112 Stat. 2681–907, provided that:
+
+“(2)(A) Subparagraphs (A)(i)(II), (A)(ii)(II), and (B)(ii) of section 1(h)(13) of the 1986 Code shall not apply to any distribution after December 31, 1997, by a regulated investment company or a real estate investment trust with respect to—
+
+&emsp;“(i) gains and losses recognized directly by such company or trust, and
+
+&emsp;“(ii) amounts properly taken into account by such company or trust by reason of holding (directly or indirectly) an interest in another such company or trust to the extent that such subparagraphs did not apply to such other company or trust with respect to such amounts.
+
+“(B) Subparagraph (A) shall not apply to any distribution which is treated under section 852(b)(7) or 857(b)(8) of the 1986 Code as received on December 31, 1997.
+
+“(C) For purposes of subparagraph (A), any amount which is includible in gross income of its shareholders under section 852(b)(3)(D) or 857(b)(3)(D) of the 1986 Code after December 31, 1997, shall be treated as distributed after such date.
+
+“(D)(i) For purposes of subparagraph (A), in the case of a qualified partnership with respect to which a regulated investment company meets the holding requirement of clause (iii)—
+
+&emsp;“(I) the subparagraphs referred to in subparagraph (A) shall not apply to gains and losses recognized directly by such partnership for purposes of determining such company's distributive share of such gains and losses, and
+
+&emsp;“(II) such company's distributive share of such gains and losses (as so determined) shall be treated as recognized directly by such company.
+
+> The preceding sentence shall apply only if the qualified partnership provides the company with written documentation of such distributive share as so determined.
+
+“(ii) For purposes of clause (i), the term ‘qualified partnership’ means, with respect to a regulated investment company, any partnership if—
+
+&emsp;“(I) the partnership is an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\],
+
+&emsp;“(II) the regulated investment company is permitted to invest in such partnership by reason of section 12(d)(1)(E) of such Act \[15 U.S.C. 80a–12(d)(1)(E)\] or an exemptive order of the Securities and Exchange Commission under such section, and
+
+&emsp;“(III) the regulated investment company and the partnership have the same taxable year.
+
+“(iii) A regulated investment company meets the holding requirement of this clause with respect to a qualified partnership if (as of January 1, 1998)—
+
+&emsp;“(I) the value of the interests of the regulated investment company in such partnership is 35 percent or more of the value of such company's total assets, or
+
+&emsp;“(II) the value of the interests of the regulated investment company in such partnership and all other qualified partnerships is 90 percent or more of the value of such company's total assets.”
+
+#### Capital Gain Distribution by Trust
+
+Pub. L. 105–277, div. J, title IV, §4003(b), Oct. 21, 1998, 112 Stat. 2681–909, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §312(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640, provided that: “In the case of any capital gain distribution made after 1997 by a trust to which section 664 of the 1986 Code applies with respect to amounts properly taken into account by such trust during 1997, paragraphs (5)(A)(i)(I), (5)(A)(ii)(I), (7)(A)(i)(II), and (13)(A) of section 1(h) of the 1986 Code (as in effect for taxable years ending on December 31, 1997) shall not apply.”
+
+#### Election To Recognize Gain on Assets Held on January 1, 2001
+
+Pub. L. 105–34, title III, §311(e), Aug. 5, 1997, 111 Stat. 835, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §314(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title IV, §414(a), Mar. 9, 2002, 116 Stat. 54, provided that: “For purposes of the Internal Revenue Code of 1986—
+
+&emsp;“(1)
+
+In general.—A taxpayer other than a corporation may elect to treat—
+
+&emsp;&emsp;“(A) any readily tradable stock (which is a capital asset) held by such taxpayer on January 1, 2001, and not sold before the next business day after such date, as having been sold on such next business day for an amount equal to its closing market price on such next business day (and as having been reacquired on such next business day for an amount equal to such closing market price), and
+
+&emsp;&emsp;“(B) any other capital asset or property used in the trade or business (as defined in section 1231(b) of the Internal Revenue Code of 1986) held by the taxpayer on January 1, 2001, as having been sold on such date for an amount equal to its fair market value on such date (and as having been reacquired on such date for an amount equal to such fair market value).
+
+&emsp;“(2)
+
+Treatment of gain or loss.—
+
+&emsp;&emsp;“(A) Any gain resulting from an election under paragraph (1) shall be treated as received or accrued on the date the asset is treated as sold under paragraph (1) and shall be included in gross income notwithstanding any provision of the Internal Revenue Code of 1986.
+
+&emsp;&emsp;“(B) Any loss resulting from an election under paragraph (1) shall not be allowed for any taxable year.
+
+&emsp;“(3)
+
+Election.—An election under paragraph (1) shall be made in such manner as the Secretary of the Treasury or his delegate may prescribe and shall specify the assets for which such election is made. Such an election, once made with respect to any asset, shall be irrevocable. Such an election shall not apply to any asset which is disposed of (in a transaction in which gain or loss is recognized in whole orin part) before the close of the 1-year period beginning on the date that the asset would have been treated as sold under such election.
+
+&emsp;“(4)
+
+Readily tradable stock.—For purposes of this subsection, the term ‘readily tradable stock’ means any stock which, as of January 1, 2001, is readily tradable on an established securities market or otherwise.
+
+&emsp;“(5)
+
+Disposition of interest in passive activity.—Section 469(g)(1)(A) of the Internal Revenue Code of 1986 shall not apply by reason of an election made under paragraph (1).”
+
+\[Pub. L. 107–147, title IV, §414(b), Mar. 9, 2002, 116 Stat. 54, provided that: “The amendments made by this section \[amending section 311(e) of Pub. L. 105–34, set out above\] shall take effect as if included in section 311 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].”\]
+
+#### Election To Pay Additional 1993 Taxes in Installments
+
+Section 13201(d) of Pub. L. 103–66 provided that:
+
+“(1)
+
+In general.—At the election of the taxpayer, the additional 1993 taxes may be paid in 3 equal installments.
+
+“(2)
+
+Dates for paying installments.—In the case of any tax payable in installments by reason of paragraph (1)—
+
+&emsp;“(A) the first installment shall be paid on or before the due date for the taxpayer's taxable year beginning in calendar year 1993,
+
+&emsp;“(B) the second installment shall be paid on or before the date 1 year after the date determined under subparagraph (A), and
+
+&emsp;“(C) the third installment shall be paid on or before the date 2 years after the date determined under subparagraph (A).
+
+> For purposes of the preceding sentence, the term ‘due date’ means the date prescribed for filing the taxpayer's return determined without regard to extensions.
+
+“(3)
+
+Extension without interest.—For purposes of section 6601 of the Internal Revenue Code of 1986, the date prescribed for the payment of any tax payable in installments under paragraph (1) shall be determined with regard to the extension under paragraph (1).
+
+“(4)
+
+Additional 1993
+
+taxes.—
+
+&emsp;“(A)
+
+In general.—For purposes of this subsection, the term ‘additional 1993 taxes’ means the excess of—
+
+&emsp;&emsp;“(i) the taxpayer's net chapter 1 liability as shown on the taxpayer's return for the taxpayer's taxable year beginning in calendar year 1993, over
+
+&emsp;&emsp;“(ii) the amount which would have been the taxpayer's net chapter 1 liability for such taxable year if such liability had been determined using the rates which would have been in effect under section 1 of the Internal Revenue Code of 1986 for taxable years beginning in calendar year 1993 but for the amendments made by this section \[amending this section and sections 41, 63, 68, 132, 151, 453A, 513, 531, and 541 of this title\] and section 13202 \[amending this section and sections 531 and 541 of this title\] and such liability had otherwise been determined on the basis of the amounts shown on the taxpayer's return.
+
+&emsp;“(B)
+
+Net chapter 1 liability.—For purposes of subparagraph (A), the term ‘net chapter 1 liability’ means the liability for tax under chapter 1 of the Internal Revenue Code of 1986 determined—
+
+&emsp;&emsp;“(i) after the application of any credit against such tax other than the credits under sections 31 and 34, and
+
+&emsp;&emsp;“(ii) before crediting any payment of estimated tax for the taxable year.
+
+“(5)
+
+Acceleration of payments.—If the taxpayer does not pay any installment under this section on or before the date prescribed for its payment or if the Secretary of the Treasury or his delegate believes that the collection of any amount payable in installments under this section is in jeopardy, the Secretary shall immediately terminate the extension under paragraph (1) and the whole of the unpaid tax shall be paid on notice and demand from the Secretary.
+
+“(6)
+
+Election on return.—An election under paragraph (1) shall be made on the taxpayer's return for the taxpayer's taxable year beginning in calendar year 1993.
+
+“(7)
+
+Exception for estates and trusts.—This subsection shall not apply in the case of an estate or trust.”
+
+#### Transitional Rule for Maximum Capital Gains Rate
+
+Section 302(c) of Pub. L. 99–514, which related to long-term capital gain on rights to royalties paid under particular leases and assignments, was repealed by Pub. L. 100–647, title I, §1003(b)(1), Nov. 10, 1988, 102 Stat. 3382.
+
+#### Coordination With Other Provisions
+
+Pub. L. 99–509, title VIII, §8081, Oct. 21, 1986, 100 Stat. 1965, provided that: “Nothing in any provision of this Act \[see Tables for classifications\] (other than this title) shall be construed as—
+
+&emsp;“(1) imposing any tax (or exempting any person or property from any tax),
+
+&emsp;“(2) establishing any trust fund, or
+
+&emsp;“(3) authorizing amounts to be expended from any trust fund.”
+
+\[S.Con.Res. 174, agreed to Oct. 18, 1986, provided: “That, in the enrollment of the bill (H.R. 5300) to provide for reconciliation pursuant to section 2 of the concurrent resolution on the budget for fiscal year 1987, the Clerk of the House of Representatives shall insert at the end of section 8081 of the bill the following: Paragraph (3) shall not apply to any authorization made by title IX of this Act.” As a result of clerical error, the sentence was inserted at the end of section 8101 of the bill, and appears at the end of section 8101 of Pub. L. 99–509, 100 Stat. 1967.\]
+
+Pub. L. 99–499, title V, §531, Oct. 17, 1986, 100 Stat. 1782, provided that: “Notwithstanding any provision of this Act \[see Tables for classifications\] not contained in this title \[see Short Title of 1986 Amendment note above\], any provision of this Act (not contained in this title) which—
+
+&emsp;“(1) imposes any tax, premium, or fee,
+
+&emsp;“(2) establishes any trust fund, or
+
+&emsp;“(3) authorizes amounts to be expended from any trust fund,
+
+> shall have no force or effect.”
+
+#### Elimination of 50-Cent Rounding Errors
+
+Section 101(a)(3) of Pub. L. 97–448, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If any figure in any table—
+
+&emsp;“(A) which is set forth in section 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 101 of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, title I, §101, Aug. 13, 1981, 95 Stat. 176\], and
+
+&emsp;“(B) which applies to married individuals filing separately or to estates and trusts,
+
+> differs by not more than 50 cents from the correct amount under the formula used in constructing such table, such figure is hereby corrected to the correct amount.” \[See 1982 Amendment note above.\]
+
+#### Policy With Respect to Additional Tax Reductions
+
+Section 3 of Pub. L. 95–600 provided that: “As a matter of national policy the rate of growth in Federal outlays, adjusted for inflation, should not exceed 1 percent per year between fiscal year 1979 and fiscal year 1983; Federal outlays as a percentage of gross national product should decline to below 21 percent in fiscal year 1980, 20.5 percent in fiscal year 1981, 20 percent in fiscal year 1982 and 19.5 percent in fiscal year 1983; and the Federal budget should be balanced in fiscal years 1982 and 1983. If these conditions are met, it is the intention that the tax-writing committees of Congress will report legislation providing significant tax reductions for individuals to the extent that these tax reductions arejustified in the light of prevailing and expected economic conditions.”
+
+#### Effective Date of Certain Definitions and Designations
+
+Pub. L. 94–455, title XIX, §1908, Oct. 4, 1976, 90 Stat. 1836, provided that: “For purposes of any amendment made by any provision of this Act \[see Tables for classification\] (other than this title)—
+
+&emsp;“(1) which contains a term the meaning of which is defined in or modified by any provision of this title, and
+
+&emsp;“(2) which has an effective date earlier than the effective date of the provision of this title defining or modifying such term,
+
+> that definition or modification shall be considered to take effect as of such earlier effective date.”
+
+#### Congressional Declaration Relating to 1975 Amendment
+
+Pub. L. 94–164, §1A, Dec. 23, 1975, 89 Stat. 970, provided that:
+
+“(a) Congress is determined to continue the tax reduction for the first 6 months of 1976 in order to assure continued economic recovery.
+
+“(b) Congress is also determined to continue to control spending levels in order to reduce the national deficit.
+
+“(c) Congress reaffirms its commitments to the procedures established by the Congressional Budget and Impoundment Control Act of 1974 \[see Tables for classification of Pub. L. 93–344, July 12, 1974, 88 Stat. 297\] under which it has already established a binding spending ceiling for the fiscal year 1976.
+
+“(d) If the Congress adopts a continuation of the tax reduction provided by this Act \[see Short Title of 1975 Amendment note above\] beyond June 30, 1976, and if economic conditions warrant doing so, Congress shall provide, through the procedures in the Budget Act \[Pub. L. 93–344\], for reductions in the level of spending in the fiscal year 1977 below what would otherwise occur, equal to any additional reduction in taxes (from the 1974 tax rate levels) provided for the fiscal year 1977: <i>Provided, however</i>, That nothing shall preclude the right of the Congress to pass a budget resolution containing a higher or lower expenditure figure if the Congress concludes that this is warranted by economic conditions or unforeseen circumstances.”
+
+#### Congressional Declaration Relating to 1964 Amendment
+
+Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the sense of Congress that the tax reduction provided by this Act \[see Short Title of 1964 Amendment note above\] through stimulation of the economy, will, after a brief transitional period, raise (rather than lower) revenues and that such revenue increases should first be used to eliminate the deficits in the administrative budgets and then to reduce the public debt. To further the objective of obtaining balanced budgets in the near future, Congress by this action, recognizes the importance of taking all reasonable means to restrain Government spending and urges the President to declare his accord with this objective.”
+
+#### Definitions
+
+Pub. L. 105–277, div. J, title IV, §4001(a), Oct. 21, 1998, 112 Stat. 2681–906, provided that: “For purposes of this title \[amending this section, sections 51, 56, 67, 68, 86, 135, 137, 163, 172, 219, 221, 264, 351, 368, 408A, 469, 873, 954, 2001, 2031, 6015, 6103, 6159, 6311, 6404, 6693, 7421, 7443A, 7491, 9503, and 9510 of this title, and sections 401 and 407 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 51, 67, 68, 86, 172, 833, 6103, and 9503 of this title, and section 401 of Title 42, and amending provisions set out as notes under sections 6601 and 7508A of this title\]—
+
+&emsp;“(1) 1986
+
+code.—The term ‘1986 Code’ means the Internal Revenue Code of 1986.
+
+&emsp;“(2) 1998
+
+act.—The term ‘1998 Act’ means the Internal Revenue Service Restructuring and Reform Act of 1998 (Public Law 105–206) \[see Tables for classification\].
+
+&emsp;“(3) 1997
+
+act.—The term ‘1997 Act’ means the Taxpayer Relief Act of 1997 (Public Law 105–34) \[see Tables for classification\].”
+

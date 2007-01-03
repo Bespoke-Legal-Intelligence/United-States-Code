@@ -118,7 +118,7 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 #### Regulations; Effective Date of 1996 Amendment
 
-For provisions relating to promulgation of regulations necessary to carry out amendment by Pub. L. 104–106, and effective date of such amendment in connection with those regulations, see section 1043(b), (c) of Pub. L. 104–106, set out as a note under section 8347 of this title.
+For provisions relating to promulgation of regulations necessary to carry out amendment by Pub. L.104–106, and effective date of such amendment in connection with those regulations, see section 1043(b), (c) of Pub. L. 104–106, set out as a note under section 8347 of this title.
 
 #### Transfer of Functions
 

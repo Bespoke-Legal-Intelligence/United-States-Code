@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
-&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional,and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
+&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
 &emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
@@ -258,7 +258,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted “promote
 
 Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providingnon-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
 
 Subsec. (a)(3)(A)(vi). Pub. L. 108–458, §7104(j)(1)(D)–(F), added cl. (vi).
 
@@ -272,7 +272,7 @@ Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
 
 #### Declarations of policy
 
-Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
+Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms theauthorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
 
 Pub. L. 108–458, title VII, §7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: “Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society.”
 

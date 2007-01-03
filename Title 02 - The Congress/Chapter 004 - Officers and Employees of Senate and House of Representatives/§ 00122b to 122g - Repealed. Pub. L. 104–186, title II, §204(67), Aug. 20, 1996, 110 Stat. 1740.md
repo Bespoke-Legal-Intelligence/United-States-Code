@@ -1,6 +1,6 @@
 ### §§122b to 122g. Repealed. Pub. L. 104–186, title II, §204(67), Aug. 20, 1996, 110 Stat. 1740
 
-Section 122b, based on H. Res. No. 687, §1, Ninety-fifth Congress, Sept. 20, 1977, enacted into permanent law by Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777,related to leasing of office space in home districts of House Members.
+Section 122b, based on H. Res. No. 687, §1, Ninety-fifth Congress, Sept. 20, 1977, enacted into permanent law by Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, related to leasing of office space in home districts of House Members.
 
 Section 122c, based on H. Res. No. 687, §2, Ninety-fifth Congress, Sept. 20, 1977, enacted into permanent law by Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, related to determination of annual amount which could be disbursed on behalf of each Member under former sections 122b to 122g of this title.
 

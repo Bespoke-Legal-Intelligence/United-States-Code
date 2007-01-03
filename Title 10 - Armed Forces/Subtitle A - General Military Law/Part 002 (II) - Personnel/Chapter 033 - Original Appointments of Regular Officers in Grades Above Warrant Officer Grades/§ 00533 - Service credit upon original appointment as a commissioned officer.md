@@ -4,7 +4,7 @@
 
 (2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior active commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b).
 
-(b)(1) Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned shall credit a person who is receiving an original appointment in a commissioned grade (other than a commissioned warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps and who has advanced education or training or special experience with constructive service for such education, training, or experience as follows:
+(b)(1) Under regulations prescribed by the Secretary of Defense, the Secretary of the militarydepartment concerned shall credit a person who is receiving an original appointment in a commissioned grade (other than a commissioned warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps and who has advanced education or training or special experience with constructive service for such education, training, or experience as follows:
 
 &emsp;(A) One year for each year of advanced education beyond the baccalaureate degree level, for persons appointed, designated, or assigned in officer categories requiring such advanced education or an advanced degree as a prerequisite for such appointment, designation, or assignment. In determining the number of years of constructive service to be credited under this clause to officers in any professional field, the Secretary concerned shall credit an officer with, but with not more than, the number of years of advanced education required by a majority of institutions that award degrees in that professional field for completion of the advanced education or award of the advanced degree.
 
@@ -12,7 +12,7 @@
 
 &emsp;(ii) Credit for experience in a health profession (other than medicine or dentistry), if such experience will be directly used by the armed force concerned.
 
-&emsp;(C) Additional credit of (i) not more than one year for internship or equivalent graduatemedical, dental, or other formal professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a specialty required by the armed forces.
+&emsp;(C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a specialty required by the armed forces.
 
 &emsp;(D) Additional credit, in unusual cases, based on special experience in a particular field.
 
@@ -42,7 +42,7 @@
 
 &emsp;(2) in the case of an officer not on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank which the officer would have held had the officer been serving on the active-duty list on the date of the appointment as a regular officer.
 
-(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2846; amended Pub. L. 97–22, §3(c), July 10, 1981, 95 Stat. 125; Pub. L. 98–94, title X, §1007(c)(1), Sept. 24, 1983, 97 Stat. 662; Pub. L. 100–180, div. A, title VII, §714(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L. 103–160, div. A, title V, §509(a), Nov. 30, 1993, 107 Stat. 1647.)
+(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2846; amended Pub. L. 97–22, §3(c),July 10, 1981, 95 Stat. 125; Pub. L. 98–94, title X, §1007(c)(1), Sept. 24, 1983, 97 Stat. 662; Pub. L. 100–180, div. A, title VII, §714(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L. 103–160, div. A, title V, §509(a), Nov. 30, 1993, 107 Stat. 1647.)
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 97–22, §3(c)(5), substituted “A reserve officer (other
 
 #### Ratification of Service Credit Awarded Prior to November 30, 1993
 
-Section 509(e) of Pub. L. 103–160 provided that: “To the extent that service credit awarded before the date of the enactment of this Act \[Nov. 30, 1993\] under section 533, 3353, 5600, or 8353 of title 10, United States Code, based on advanced education in medicine or dentistry was awarded consistent with that section as amended by this section (whether or not properly awarded under that section as in effect before such amendment), the awarding of that service credit is hereby ratified.”
+Pub. L. 103–160, div. A, title V, §509(e), Nov. 30, 1993, 107 Stat. 1648, provided that: “To the extent that service credit awarded before the date of the enactment of this Act \[Nov. 30, 1993\] under section 533, 3353, 5600, or 8353 of title 10, United States Code, based on advanced education in medicine or dentistry was awarded consistent with that section as amended by this section (whether or not properly awarded under that section as in effect before such amendment), the awarding of that service credit is hereby ratified.”
 
 #### Transition Provision Under Defense Officer Personnel Management Act
 

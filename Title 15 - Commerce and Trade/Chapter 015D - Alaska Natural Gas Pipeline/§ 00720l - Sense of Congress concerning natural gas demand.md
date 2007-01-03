@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(3) Federal and State officials should work together with officials in Canada to ensure both projects can move forward in a mutually beneficial fashion;
 
-&emsp;(4) Federal and State officials should acknowledge that the smaller scope, fewer permitting requirements, and lower cost of the Mackenzie Delta project means it will most likely be completed before the Alaska Natural Gas Pipeline;
+&emsp;(4) Federal and State officials should acknowledge that the smaller scope, fewer permitting requirements, and lower cost of the Mackenzie Delta project means it will mostlikely be completed before the Alaska Natural Gas Pipeline;
 
 &emsp;(5) natural gas production in the 48 contiguous States and Canada will not be able to meet all domestic demand in the coming decades; and
 

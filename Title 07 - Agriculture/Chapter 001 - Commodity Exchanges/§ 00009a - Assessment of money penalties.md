@@ -8,7 +8,7 @@
 
 &emsp;(B) if such person is registered with the Commission, such registration shall be suspended automatically.
 
-(3) If a person against whom a money penalty is assessed under sections 9 and 15 of this title takes an appeal and if the Commission prevails or the appeal is dismissed, unless such person shows to the satisfaction of the Commission that payment of the full amount of the penalty then due has been made by the end of thirty days from the date of entry of judgment on the appeal—
+(3) If a person against whom a money penalty is assessed under sections 9 and 15 of this title takes an appeal and if the Commission prevails or the appeal is dismissed, unless such person shows to the satisfaction of the Commission that payment of the full amount of the penaltythen due has been made by the end of thirty days from the date of entry of judgment on the appeal—
 
 &emsp;(A) such person shall be prohibited automatically from the privileges of all registered entities; and
 

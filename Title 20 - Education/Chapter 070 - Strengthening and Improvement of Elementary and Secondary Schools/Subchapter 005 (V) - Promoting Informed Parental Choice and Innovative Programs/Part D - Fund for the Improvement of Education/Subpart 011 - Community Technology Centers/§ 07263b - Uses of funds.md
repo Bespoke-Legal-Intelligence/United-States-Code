@@ -18,7 +18,7 @@ A recipient may use funds under this subpart for activities, described in its ap
 
 &emsp;(3) developing and providing services and activities for community residents that provide access to computers, information technology, and the use of such technology in support of preschool preparation, academic achievement, educational development, and workforce development, such as the following:
 
-&emsp;&emsp;(A) After-school activities in which children and youths use software that provides academic enrichment and assistance with homework, develop their technical skills, explore the Internet, and participate in multimedia activities, including web page design and creation.
+&emsp;&emsp;(A) After-school activities in which children and youths use software that providesacademic enrichment and assistance with homework, develop their technical skills, explore the Internet, and participate in multimedia activities, including web page design and creation.
 
 &emsp;&emsp;(B) Adult education and family literacy activities through technology and the Internet, including—
 

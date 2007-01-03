@@ -58,7 +58,7 @@ The Secretary of Labor shall make available to the Corporation and to any progra
 
 #### (d) Treatment of benefits
 
-Allowances, earnings, and payments to individuals participating in programs that receive assistance under this subchapter shall not be considered to be income for the purposes of determining eligibility for and the amount of income transfer and in-kind aid furnished under any Federal or federally assisted program based on need, other than as provided under the Social Security Act (42 U.S.C. 301 et seq.).
+Allowances, earnings, and payments to individuals participating in programs that receive assistance under this subchapter shall not be considered to be income for the purposes of determining eligibility for and the amount of income transfer and in-kind aid furnished under any Federal or federally assisted program basedon need, other than as provided under the Social Security Act (42 U.S.C. 301 et seq.).
 
 #### (e) Standards of conduct
 
@@ -68,7 +68,7 @@ Programs that receive assistance under this subchapter shall establish and strin
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of thistitle. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

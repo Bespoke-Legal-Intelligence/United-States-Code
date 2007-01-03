@@ -22,7 +22,7 @@ As used in this subchapter, the term—
 
 &emsp;(5) “overseas voter” means—
 
-&emsp;&emsp;(A) an absent uniformed services voter who, by reason of active duty or service isabsent from the United States on the date of the election involved;
+&emsp;&emsp;(A) an absent uniformed services voter who, by reason of active duty or service is absent from the United States on the date of the election involved;
 
 &emsp;&emsp;(B) a person who resides outside the United States and is qualified to vote in the last place in which the person was domiciled before leaving the United States; or
 

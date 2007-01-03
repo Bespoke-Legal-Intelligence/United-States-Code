@@ -20,7 +20,7 @@ In sections 31a to 31h of this title:
 
 #### (5) Federal component
 
-&emsp;The term “Federal component” means the Federal component of the geologic mappingprogram described in section 31e(d)(1) <sup>2</sup> of this title.
+&emsp;The term “Federal component” means the Federal component of the geologic mapping program described in section 31e(d)(1) <sup>2</sup> of this title.
 
 #### (6) Geologic mapping program
 
@@ -32,7 +32,7 @@ In sections 31a to 31h of this title:
 
 #### (8) State
 
-&emsp;The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
+&emsp;The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
 
 #### (9) State component
 

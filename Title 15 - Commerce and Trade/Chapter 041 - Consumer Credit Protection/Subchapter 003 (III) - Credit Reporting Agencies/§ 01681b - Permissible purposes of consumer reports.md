@@ -38,6 +38,8 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;(5) To an agency administering a State plan under section 654 of title 42 for use to set an initial or modified child support award.
 
+&emsp;(6) To the Federal Deposit Insurance Corporation or the National Credit Union Administration as part of its preparation for its appointment or as part of its exercise of powers, as conservator, receiver, or liquidating agent for an insured depository institution or insured credit union under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], or other applicable Federal or State law, or in connection with the resolution or liquidation of a failed or failing insured depository institution or insured credit union, as applicable.
+
 #### (b) Conditions for furnishing and using consumer reports for employment purposes
 
 #### (1) Certification from user
@@ -66,7 +68,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, at any time before a consumer report is procured or caused to be procured in connection with that application—
 
-&emsp;&emsp;&emsp;(i) the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, by oral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer's rights under section 1681m(a)(3) of this title; and
+&emsp;&emsp;&emsp;(i) the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, byoral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer's rights under section 1681m(a)(3) of this title; and
 
 &emsp;&emsp;&emsp;(ii) the consumer shall have consented, orally, in writing, or electronically to the procurement of the report by that person.
 
@@ -210,7 +212,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;(A) inform the consumer that the election is effective only for the 5-year period following the election if the consumer does not submit to the agency a signed notice of election form issued by the agency for purposes of paragraph (2)(B); and
 
-&emsp;&emsp;(B) provide to the consumer a notice of election form, if requested by the consumer, not later than 5 business days after receipt of the notification of the election through the system established under paragraph (5), in the case of a request made at the time the consumer provides notification through the system.
+&emsp;&emsp;(B) provide to the consumer a notice of election form, if requested by the consumer,not later than 5 business days after receipt of the notification of the election through the system established under paragraph (5), in the case of a request made at the time the consumer provides notification through the system.
 
 #### (4) Effectiveness of election
 
@@ -256,7 +258,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;(1) the consumer report is obtained for a purpose for which the consumer report is authorized to be furnished under this section; and
 
-&emsp;(2) the purpose is certified in accordance with section 1681e of this title by a prospectiveuser of the report through a general or specific certification.
+&emsp;(2) the purpose is certified in accordance with section 1681e of this title by a prospective user of the report through a general or specific certification.
 
 #### (g) Protection of medical information
 
@@ -306,9 +308,13 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306,title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998.)
 
 #### References in Text
+
+The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+
+The Federal Credit Union Act, referred to in subsec. (a)(6), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified principally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 Section 1681g(c) of this title, referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by Pub. L. 108–159, title II, §211(c), Dec. 4, 2003, 117 Stat. 1970, and, as so amended, no longer contains a par. (3).
 
@@ -319,6 +325,8 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by section 262(a) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2030, which is classified to section 1320d–8 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2006—Subsec. (a)(6). Pub. L. 109–351 added par. (6).
 
 2003—Subsec. (a). Pub. L. 108–159, §811(b), realigned margins.
 
@@ -392,7 +400,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made bysubsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
+Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1996 Amendments
 
@@ -408,7 +416,7 @@ Pub. L. 108–159, title II, §213(d), Dec. 4, 2003, 117 Stat. 1979, provided th
 
 #### Coordination With Federal Laws Relating to Medical Confidentiality
 
-Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided that: “No provision of any amendment made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.”
+Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided that: “No provision of any amendmentmade by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.”
 
 #### FTC Guidelines Regarding Prescreening for Insurance Transactions
 

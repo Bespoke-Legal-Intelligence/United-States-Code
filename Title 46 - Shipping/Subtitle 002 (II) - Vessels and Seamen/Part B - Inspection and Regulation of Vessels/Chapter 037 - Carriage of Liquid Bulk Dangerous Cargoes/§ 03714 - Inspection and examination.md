@@ -20,7 +20,7 @@
 
 &emsp;(4) the name of an agent in the United States authorized to accept service of legal process.
 
-(c) Each vessel to which this chapter applies that operates in the United States shall have a person designated as authorized to accept service of legal process for the vessel.
+(c) Each vessel to which this chapter applies that operates in the United States shall have aperson designated as authorized to accept service of legal process for the vessel.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 526; Pub. L. 99–307, §1(8), May 19, 1986, 100 Stat. 445.)
 
@@ -53,8 +53,4 @@ Section 3714(c) requires each vessel subject to this chapter to have a person au
 #### Amendments
 
 1986—Subsec. (a)(4). Pub. L. 99–307 substituted “charterer” for “charter”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3717 of this title.
 

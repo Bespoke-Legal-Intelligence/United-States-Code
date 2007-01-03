@@ -16,13 +16,13 @@ The President may, by regulation, prohibit, limit, or prescribe conditions with 
 
 #### (c) Allocation to contract; improper influence
 
-No such contribution, gift, commission, or fee may be included, in whole or in part, in the amount paid under any procurement contract entered into under section 2762 or section 2769 of this title, unless the amount thereof is reasonable, allocable to such contract, and not made to a person who has solicited, promoted, or otherwise secured such sale, or has held himself out as being able to do so, through improper influence. For the purposes of this section, “improper influence” means influence, direct or indirect, which induces or attempts to induce consideration or action by any employee or officer of a purchasing foreign government or international organization with respect to such purchase on any basis other than such consideration of merit as are involved in comparable United States procurements.
+No such contribution, gift, commission, or fee may be included, in whole or in part, in the amount paid under any procurement contract entered into under section 2762 or section 2769 of this title, unless the amount thereof is reasonable, allocable to such contract, and not made to a person who has solicited, promoted, or otherwise secured such sale, or has held himselfout as being able to do so, through improper influence. For the purposes of this section, “improper influence” means influence, direct or indirect, which induces or attempts to induce consideration or action by any employee or officer of a purchasing foreign government or international organization with respect to such purchase on any basis other than such consideration of merit as are involved in comparable United States procurements.
 
 #### (d) Availability of records to Congress and Federal agencies
 
 (1) All information reported to the Secretary of State and all records maintained by any person pursuant to regulations prescribed under this section shall be available, upon request, to any standing committee of the Congress or any subcommittee thereof and to any agency of the United States Government authorized by law to have access to the books and records of the person required to submit reports or to maintain records under this section.
 
-(2) Access by an agency of the United States Government to records maintained under thissection shall be on the same terms and conditions which govern the access by such agency to the books and records of the person concerned.
+(2) Access by an agency of the United States Government to records maintained under this section shall be on the same terms and conditions which govern the access by such agency to the books and records of the person concerned.
 
 (Pub. L. 90–629, ch. 3, §39, as added Pub. L. 94–329, title VI, §604(b), June 30, 1976, 90 Stat. 767; amended Pub. L. 96–533, title I, §105(e)(2), Dec. 16, 1980, 94 Stat. 3135.)
 

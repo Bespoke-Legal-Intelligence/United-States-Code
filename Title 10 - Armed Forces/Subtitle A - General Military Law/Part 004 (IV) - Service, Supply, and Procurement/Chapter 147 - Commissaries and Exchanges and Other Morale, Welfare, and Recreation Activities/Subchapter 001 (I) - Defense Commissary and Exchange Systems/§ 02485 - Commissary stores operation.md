@@ -26,7 +26,7 @@ Assignment of Active Duty Members.—(1) Except as provided in paragraph (2), me
 
 (2)(A) The Secretary of Defense may assign an officer on the active-duty list to serve as the Director of the Defense Commissary Agency.
 
-(B) Not more than 18 members (in addition to the officer referred to in subparagraph (A)) of the armed forces on active duty may be assigned to the Defense Commissary Agency. Members who may be assigned under this subparagraph to regional headquarters of the agency shall belimited to enlisted members assigned to duty as advisers in the regional headquarters responsible for overseas commissaries and to veterinary specialists.
+(B) Not more than 18 members (in addition to the officer referred to in subparagraph (A)) of the armed forces on active duty may be assigned to the Defense Commissary Agency. Members who may be assigned under this subparagraph to regional headquarters of the agency shall be limited to enlisted members assigned to duty as advisers in the regional headquarters responsible for overseas commissaries and to veterinary specialists.
 
 (e)
 
@@ -98,11 +98,11 @@ Release of Certain Commercially Valuable Information to Public.—(1) The Secret
 
 (3)(A) The Secretary of Defense may, using competitive procedures, enter into a contract to sell information described in paragraph (2).
 
-(B) The Secretary of Defense may release, without charge, information on an item sold incommissary stores to the manufacturer or producer of that item or an agent of the manufacturer or producer.
+(B) The Secretary of Defense may release, without charge, information on an item sold in commissary stores to the manufacturer or producer of that item or an agent of the manufacturer or producer.
 
 (C) The Secretary of Defense shall establish performance benchmarks and shall submit information on customer satisfaction and performance data to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(D) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referred to in paragraph (2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on the costs of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
+(D) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referred to in paragraph (2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on thecosts of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
 
 (E) Each contract entered into under this paragraph shall specify the amount to be paid for information released or a license granted under the contract, as the case may be.
 

@@ -4,8 +4,6 @@
 | :--- | ---: |
 | [60\.](%C2%A7%2000060%20-%20Repealed.%20June%2020%2C%201929%2C%20ch.%2033%2C%20%C2%A76%2C%2046%20Stat.%2039.md) | Repealed. |
 | 60–1. | Authority of officers of Congress over Congressional employees. |
-| (a) | Qualifications determinations; removal and discipline. |
-| (b) | “Officer of the Congress” defined. |
 | 60–2. | Amendment to Senate conflict of interest rule. |
 | [60a.](%C2%A7%2000060a%20-%20Omitted.md) | Omitted. |
 | 60a–1. | Senate pay adjustments; action by President pro tempore of Senate. |
@@ -17,103 +15,36 @@
 | 60c–1. | Vice President, Senators, officers, and employees paid by Secretary of Senate; payment of salary; advance payment. |
 | 60c–2. | Repealed. |
 | 60c–2a. | Banking and financial transactions of Secretary of Senate. |
-| (a) | Reimbursement of banks for costs of clearing items for Senate. |
-| (b) | Check cashing regulations for Disbursing Office of Senate. |
-| (c) | Amounts withheld from disbursements for employee indebtedness. |
 | 60c–3. | Withholding and remittance of State income tax by Secretary of Senate. |
-| (a) | Agreement by Secretary with appropriate State official; covered individuals. |
-| (b) | Number of remittances authorized. |
-| (c) | Requests by individuals of Secretary for withholding and remittance; amount of withholding; number and effective date of requests; change of designated State; revocation of request; rules and regulations. |
-| (d) | Time or times of agreements by Secretary. |
-| (e) | Provisions as not imposing duty, burden, requirement or penalty on United States, Senate, or any officer or employee of United States; effect of filing paper, form, or document with Secretary. |
-| (f) | “State” defined. |
 | 60c–4. | Withholding of charitable contributions from salaries paid by Secretary of Senate and from employees of Architect of Capitol. |
-| (a) | Definitions. |
-| (b) | Notice; deduction and transmission. |
-| (c) | Time of withholding and transmission. |
-| (d) | Amount. |
-| (e) | Provisions as not imposing duty, burden, requirement or penalty on United States, Senate, or any officer or employee of United States; effect of filing paper. |
-| (f) | Rules and regulations. |
 | 60c–5. | Student loan repayment program for Senate employees. |
-| (a) | Definitions. |
-| (b) | Senate student loan repayment program. |
-| (c) | Program conditions. |
-| (d) | Loss of eligibility for student loan payments and obligation to reimburse. |
-| (e) | Records and reports. |
-| (f) | Other administrative matters. |
-| (g) | Allocation of funds. |
-| (h) | Authorization of appropriations. |
-| (i) | Effective date. |
 | 60c–6. | Student loan repayment program for House employees. |
-| (a) | Establishment. |
-| (b) | Regulations. |
-| (c) | Authorization of appropriations. |
 | [60d.](%C2%A7%2000060d%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9368%2C%20title%20I%2C%20%C2%A7116%28b%29%281%29%2C%20Nov.%2012%2C%202001%2C%20115%20Stat.%20573.md) | Repealed. |
 | 60d–1. | Day for paying salaries of the House of Representatives. |
 | 60e, 60e–1. Repealed. |  |
 | 60e–1a. | Withholding of State income tax by Chief Administrative Officer of House. |
-| (a) | Agreement with proper State official; covered individuals. |
-| (b) | Number of remittances authorized. |
-| (c) | Acceptance or disapproval of proposed agreement by Committee on House Administration. |
-| (d) | Number and effective date of requests for withholding; change of designated State; revocation of request. |
-| (e) | Provisions as not imposing duty, burden, requirement or penalty on United States, House, or any officer or employee of United States; effect of filing paper, form, or document with Chief Administrative Officer. |
 | 60e–1b. | State income tax withholding; definitions. |
 | 60e–1c. | Withholding of charitable contributions by Chief Administrative Officer of House. |
-| (a) | Authority. |
-| (b) | Time of fundraising activities. |
-| (c) | Minimum amounts withheld. |
-| (d) | Duty, burden, or requirement not imposed. |
 | 60e–1d. | Withholding of charitable contributions; definitions. |
 | 60e–2. | Omitted. |
 | 60e–2a. | Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions. |
 | 60e–2b. | Overtime compensation for certain employees of Architect of Capitol. |
 | 60e–3 to 60g–1. Omitted or Repealed. |  |
 | 60g–2. | Lyndon Baines Johnson congressional interns. |
-| (a) | Hiring authority of House Members, Delegates, and Resident Commissioners; allowance for payment of compensation. |
-| (b) | Certification of intern status; filing. |
-| (c) | Regulations by Committee on House Oversight. |
 | 60h, 60i. | Omitted or Repealed. |
 | [60j.](%C2%A7%2000060j%20-%20Longevity%20compensation.md) | Longevity compensation. |
-| (a) | Eligible employees. |
-| (b) | Rate of compensation; limitation on increases; computation of service; effective date of payment. |
 | 60j–1. | Capitol Police longevity compensation. |
 | 60j–2. | Longevity compensation for telephone operators on United States telephone exchange and members of Capitol Police paid by Chief Administrative Officer of House. |
 | 60j–3. | Repealed. |
 | 60j–4. | Longevity compensation not applicable to individuals paid by Secretary of Senate; savings provision. |
 | [60k.](%C2%A7%2000060k%20-%20Application%20of%20rights%20and%20protections%20of%20Fair%20Labor%20Standards%20Act%20of%201938%20to%20Congressional%20and%20Architect%20of%20Capitol%20employees.md) | Application of rights and protections of Fair Labor Standards Act of 1938 to Congressional and Architect of Capitol employees. |
-| (a) | House employees. |
-| (b) | Architect of Capitol employees. |
 | 60<i>l.</i> | Coverage of House and agencies of legislative branch. |
-| (a) | Coverage of House. |
-| (b) | Instrumentalities of Congress. |
 | 60m, 60n. | Repealed. |
 | 60<i>o.</i> | Lump sum payment for accrued annual leave of House employees. |
-| (a) | Approval; amount; source of payments. |
-| (b) | Regulations. |
-| (c) | “Employee of the House of Representatives” defined. |
-| (d) | Separations after June 30, 1995. |
 | [60p.](%C2%A7%2000060p%20-%20Payment%20for%20unaccrued%20leave.md) | Payment for unaccrued leave. |
-| (a) | In general. |
-| (b) | Withholding. |
-| (c) | Deposit. |
-| (d) | “Head of the employing office” defined. |
-| (e) | Applicability. |
 | [60q.](%C2%A7%2000060q%20-%20Voluntary%20separation%20incentive%20payments.md) | Voluntary separation incentive payments. |
-| (a) | Authority to offer payments. |
-| (b) | Amount and administration of payments. |
-| (c) | Plan. |
-| (d) | Exclusion of certain offices. |
-| (e) | Eligible employee defined. |
-| (f) | Repayment for individuals returning to Government employment. |
-| (g) | Effective date. |
 | [61\.](%C2%A7%2000061%20-%20Limit%20on%20rate%20of%20compensation%20of%20Senate%20officers%20and%20employees.md) | Limit on rate of compensation of Senate officers and employees. |
 | 61–1. | Gross rate of compensation of employees paid by Secretary of Senate. |
-| (a) | Annual rate; certification. |
-| (b) | Conversion; increase in compensation. |
-| (c) | Reference in other provisions to basic rates and additional compensation as reference to per annum gross rate. |
-| (d) | Compensation of employees in office of Senator; limitation; titles of positions. |
-| (e) | Gross rate of compensation of employee of committee of Senate employed by joint committee, select committee, or standing committee. |
-| (f) | General limitation. |
 | 61–1a. | Availability of appropriated funds for payment to an individual of pay from more than one position; conditions. |
 | 61–1b. | Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for “Salaries, Officers and Employees”. |
 | 61–1c. | Aggregate gross compensation of employee of Senator of State with population under 5,000,000. |
@@ -137,9 +68,6 @@
 | 61d–2. | Postage allowance for Chaplain of Senate. |
 | 61d–3. | Repealed. |
 | 61d–4 | Payment of expenses of the Chaplain of the Senate from the contingent fund of the Senate. |
-| (a) | In general. |
-| (b) | Repeal of Revolving Fund. |
-| (c) | Effective date. |
 | [61e.](%C2%A7%2000061e%20-%20Compensation%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md) | Compensation of Sergeant at Arms and Doorkeeper of Senate. |
 | 61e–1. | Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate. |
 | 61e–2. | Compensation of Administrative Assistant to Sergeant at Arms and Doorkeeper of Senate. |
@@ -152,35 +80,19 @@
 | 61f–8. | Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel. |
 | 61f–9. | Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on amount of compensation. |
 | 61f–10. | Procurement of temporary help. |
-| (a) | In general. |
-| (b) | Effective date. |
 | 61f–11. | Provision of services and equipment on a reimbursable basis. |
-| (a) | In general. |
-| (b) | Reimbursement required. |
-| (c) | Crediting of reimbursed amounts. |
-| (d) | Effective date. |
 | [61g.](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md) | Compensation of Secretaries for Senate Majority and Minority. |
 | 61g–1 to 61g–3. Omitted. |  |
 | 61g–4. | Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of Senate. |
 | 61g–5. | Appointment and compensation of employees by Secretaries for Senate Majority and Minority; gross compensation. |
 | 61g–6. | Payment of expenses of Conference of Majority and Conference of Minority from Senate contingent fund. |
 | 61g–6a. | Salaries and expenses for Senate Majority and Minority Policy Committees and Senate Majority and Minority Conference Committees. |
-| (a) | Transfer of funds for Policy Committees. |
-| (b) | Transfer of funds for Conference Committees. |
-| (c) | Availability of transferred funds. |
-| (d) | Notification to Committee on Appropriations. |
 | 61g–7. | Services of consultants to Majority and Minority Conference Committee of Senate. |
-| (a) | Authorization of expenditure with approval of Committee on Rules and Administration. |
-| (b) | Procurement by contract or employment. |
-| (c) | Selection of consultant or organization by Conference Committee chairman. |
 | 61g–8. | Utilization of funds for specialized training of professional staff for Majority and Minority Conference Committee of Senate. |
 | 61h to 61h–3. Omitted. |  |
 | 61h–4. | Appointment of employees by Senate Majority and Minority Leaders; compensation. |
 | 61h–5. | Assistants to Senate Majority and Minority Leaders for Floor Operations; establishment of positions; appointment; compensation. |
 | 61h–6. | Appointment of consultants by Majority Leader, Minority Leader, Secretary of Senate, and Legislative Counsel of Senate; compensation. |
-| (a) | In general. |
-| (b) | Annual compensation. |
-| (c) | Title of position. |
 | 61h–7. | Chiefs of Staff for Senate Majority and Minority Leaders; appointment; compensation. |
 | 61i to 61j–1. Omitted. |  |
 | 61j–2. | Compensation and appointment of employees by Senate Majority and Minority Whips. |
@@ -190,7 +102,7 @@
 | 62a to 64. | Omitted, Transferred, or Repealed. |
 | 64–1. | Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations. |
 | 64–2. | Transfers of funds by Secretary of Senate; approval of Committee on Appropriations. |
-| 64–3. | Reimbursement for Capitol Police salaries paid by Capitol Police for service at Federal Law Enforcement Training Center. |
+| 64–3. | Transferred. |
 | [64a.](%C2%A7%2000064a%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20and%20Assistant%20Secretary%20of%20Senate%3B%20Financial%20Clerk%20deemed%20successor%20as%20disbursing%20officer.md) | Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer. |
 | 64a–1. | Compensation of Financial Clerk of Senate. |
 | [64b.](%C2%A7%2000064b%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20of%20Senate%3B%20Assistant%20Secretary%20of%20Senate%20to%20act%20as%20Secretary%3B%20written%20designation%20of%E2%80%A6.md) | Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status. |
@@ -201,9 +113,6 @@
 | [65d.](%C2%A7%2000065d%20-%20Funds%20advanced%20by%20Secretary%20of%20Senate%20to%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20to%20defray%20office%20expenses%3B%20accountability%3B%20maximum%E2%80%A6.md) | Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers. |
 | [65e.](%C2%A7%2000065e%20-%20Transferred.md) | Transferred. |
 | [65f.](%C2%A7%2000065f%20-%20Funds%20for%20Secretary%20of%20Senate%20to%20assist%20in%20proper%20discharge%20within%20United%20States%20of%20responsibilities%20to%20foreign%20parliamentary%20groups%20or%E2%80%A6.md) | Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials. |
-| (a) | In general. |
-| (b) | Effective date. |
-| (c) | Transfer of funds. |
 | [66\.](%C2%A7%2000066%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93344%2C%20title%20V%2C%20%C2%A7505%281%29%2C%20July%2012%2C%201974%2C%2088%20Stat.%20322.md) | Repealed. |
 | [66a.](%C2%A7%2000066a%20-%20Restriction%20on%20payment%20of%20dual%20compensation%20by%20Secretary%20of%20Senate.md) | Restriction on payment of dual compensation by Secretary of Senate. |
 | [67\.](%C2%A7%2000067%20-%20Clerks%20to%20Senators-elect.md) | Clerks to Senators-elect. |
@@ -217,64 +126,29 @@
 | 68–6. | Transfers from appropriations account for expenses of Office of Secretary of Senate and Office of Sergeant at Arms and Doorkeeper of Senate. |
 | 68–6a. | Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate. |
 | 68–7. | Senate Office of Public Records Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Source of moneys for deposit in Fund; availability of moneys in Fund. |
-| (c) | Vouchers. |
-| (d) | Regulations. |
-| (e) | Transfer of moneys into Fund. |
 | 68–8. | Vouchering Senate office charges. |
-| (a) | Senate support office charges. |
-| (b) | Payment charged to official funds. |
-| (c) | Certification. |
-| (d) | Regulations. |
 | [68a.](%C2%A7%2000068a%20-%20Materials%2C%20supplies%2C%20and%20fuel%20payments%20from%20Senate%20contingent%20fund.md) | Materials, supplies, and fuel payments from Senate contingent fund. |
 | [68b.](%C2%A7%2000068b%20-%20Per%20diem%20and%20subsistence%20expenses%20from%20Senate%20contingent%20fund.md) | Per diem and subsistence expenses from Senate contingent fund. |
 | [68c.](%C2%A7%2000068c%20-%20Computation%20of%20compensation%20for%20stenographic%20assistance%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md) | Computation of compensation for stenographic assistance of committees payable from Senate contingent fund. |
 | [68d.](%C2%A7%2000068d%20-%20Liquidation%20from%20appropriations%20of%20any%20unpaid%20obligations%20chargeable%20to%20rescinded%20unexpended%20balances%20of%20funds.md) | Liquidation from appropriations of any unpaid obligations chargeable to rescinded unexpended balances of funds. |
 | [68e.](%C2%A7%2000068e%20-%20Advance%20payments%20by%20Secretary%20of%20Senate.md) | Advance payments by Secretary of Senate. |
-| (a) | Authorization. |
-| (b) | Regulations. |
-| (c) | Effective date. |
 | [69\.](%C2%A7%2000069%20-%20Expenses%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md) | Expenses of committees payable from Senate contingent fund. |
 | 69–1. | Availability of funds for franked mail expenses. |
 | [69a.](%C2%A7%2000069a%20-%20Orientation%20seminars%2C%20etc.%2C%20for%20new%20Senators%2C%20Senate%20officials%2C%20or%20members%20of%20staffs%20of%20Senators%20or%20Senate%20officials%3B%20payment%20of%20expenses.md) | Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses. |
 | [69b.](%C2%A7%2000069b%20-%20Senate%20Leader%27s%20Lecture%20Series.md) | Senate Leader's Lecture Series. |
-| (a) | Establishment. |
-| (b) | Expenses covered. |
-| (c) | Payments for expenses. |
-| (d) | Effective date. |
 | 70 to 72. | Omitted. |
 | [72a.](%C2%A7%2000072a%20-%20Committee%20staffs.md) | Committee staffs. |
-| (a) | Appointment of professional members; number; qualifications; termination of employment. |
-| (b) | Professional members for Committee on Appropriations; examinations of executive agencies’ operation. |
-| (c) | Clerical employees; appointment; number; duties; termination of employment. |
-| (d) | Recordation of committee hearings, data, etc.; access to records. |
-| (e) | Repealed. |
-| (f) | Limitations on appointment of professional members. |
-| (g) | Appointments when no vacancy exists; payment from Senate contingent fund. |
-| (h) | Salary rates, assignment of facilities, and accessibility of committee records for minority staff appointees. |
-| (i) | Consultants for Senate and House standing committees; procurement of temporary or intermittent services; contracts; advertisement requirements inapplicable; selection method; qualifications report to Congressional committees. |
-| (j) | Specialized training for professional staffs of Senate and House standing committees, Senate Appropriations Committee, Senate Majority and Minority Policy Committees, and joint committees whose funding is disbursed by Secretary of Senate or Chief Administrative Officer of House; assistance: pay, tuition, etc. while training; continued employment agreement; service credit: retirement, life insurance and health insurance. |
 | 72a–1, 72a–1a. Repealed. |  |
 | 72a–1b. | Approval of employment and compensation of committee employees by House standing committees. |
 | 72a–1c, 72a–1d. Repealed. |  |
 | 72a–1e. | Assistance to Senators with committee memberships by employees in office of Senator. |
-| (1) | Designation. |
-| (2) | Certification; professional staff privileges. |
-| (3) | Termination. |
 | 72a–1f. | Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable. |
 | 72a–1g. | Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation. |
 | 72a–2 to 72a–4. Omitted or Repealed. |  |
 | [72b.](%C2%A7%2000072b%20-%20Regulations%20governing%20availability%20of%20appropriations%20for%20House%20committee%20employees.md) | Regulations governing availability of appropriations for House committee employees. |
 | 72b–1, 72c. Omitted or Repealed. |  |
 | [72d.](%C2%A7%2000072d%20-%20Discretionary%20authority%20of%20Senate%20Committee%20on%20Appropriations.md) | Discretionary authority of Senate Committee on Appropriations. |
-| (a) | In general. |
-| (b) | Omitted. |
-| (c) | Effective date. |
 | 72d–1. | Transfer of funds by Chairman of Senate Committee on Appropriations. |
-| (a) | In general. |
-| (b) | Availability of funds; times of transfer. |
-| (c) | Effective date. |
 | 73, 74. | Omitted. |
 | 74–1. | Personal services in office of Speaker; payments. |
 | 74–2. | Omitted. |
@@ -287,21 +161,11 @@
 | 74a–6. | Repealed. |
 | 74a–7. | Speaker's Office for Legislative Floor Activities. |
 | 74a–8. | Training and program development activities of Republican Conference and Democratic Steering and Policy Committee. |
-| (a) | In general. |
-| (b) | Amounts, times, terms, and conditions of payment. |
-| (c) | Allocation. |
-| (d) | Authorization of appropriations. |
 | 74a–9. | Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation. |
 | 74a–10. | Lump sum allowances for House Minority Leader and Majority Whip. |
 | 74a–11. | Transfer of appropriations by House Leadership Offices. |
-| (a) | In general. |
-| (b) | Official expenses. |
-| (c) | Applicability. |
 | 74a–12. | Lump sum allowance for Speaker. |
 | 74a–13. | Republican Policy Committee. |
-| (a) | In general. |
-| (b) | Salaries and expenses. |
-| (c) | Applicability. |
 | [74b.](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md) | Employment of additional administrative assistants. |
 | [74c.](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md) | Compensation of certain House minority employees. |
 | [74d.](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md) | Corrections Calendar Office. |
@@ -310,15 +174,8 @@
 | 75, 75–1. | Repealed. |
 | [75a.](%C2%A7%2000075a%20-%20Death%2C%20resignation%2C%20etc.%2C%20of%20Chief%20Administrative%20Officer%20of%20House%3B%20accounts%20and%20payments%3B%20liability%20of%20Chief%20Administrative%20Officer%20for%E2%80%A6.md) | Death, resignation, etc., of Chief Administrative Officer of House; accounts and payments; liability of Chief Administrative Officer for acts and defaults of disbursing clerk. |
 | 75a–1. | Temporary appointments in case of vacancies or incapacity of House officers; compensation. |
-| (a) | Temporary appointments in case of vacancy or incapacity in office of Clerk, Sergeant at Arms, Chief Administrative Officer, or Chaplain of House. |
-| (b) | Duties of temporary appointees. |
-| (c) | Compensation of temporary appointee. |
 | 75b to 75e. Omitted. |  |
 | [75f.](%C2%A7%2000075f%20-%20House%20emergency%20operations%20positions.md) | House emergency operations positions. |
-| (a) | Establishment in certain offices. |
-| (b) | Duties. |
-| (c) | Rate of pay. |
-| (d) | Appointment authority. |
 | 76 to 76b. Omitted or Repealed. |  |
 | [77\.](%C2%A7%2000077%20-%20Sergeant%20at%20Arms%20of%20House%3B%20additional%20compensation.md) | Sergeant at Arms of House; additional compensation. |
 | [77a.](%C2%A7%2000077a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2822%29%28A%29%28iii%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201733.md) | Repealed. |
@@ -335,23 +192,12 @@
 | 84a–1 to 88a. Repealed or Omitted. |  |
 | [88b.](%C2%A7%2000088b%20-%20Education%20of%20other%20minors%20who%20are%20Senate%20employees.md) | Education of other minors who are Senate employees. |
 | 88b–1. | Congressional pages. |
-| (a) | Appointment conditions. |
-| (b) | Qualifications. |
 | 88b–2. | House of Representatives Page Board; establishment and purpose. |
 | 88b–3. | Membership of Page Board. |
-| (a) | Appointed and designated members. |
-| (b) | “Member of the House” defined. |
 | 88b–4. | Regulations of Page Board. |
 | 88b–5. | Page residence hall and page meal plan. |
-| (a) | Revolving fund; establishment within House contingent fund. |
-| (b) | Deposits in revolving fund; disbursements by Chief Administrative Officer of House. |
-| (c) | Regulations. |
 | 88b–6. | Repealed. |
 | 88b–7. | Daniel Webster Senate Page Residence Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Deposit of moneys. |
-| (c) | Vouchers. |
-| (d) | Regulations. |
 | 88c, 88c–1. Repealed. |  |
 | 88c–2. | Academic year and summer term for page program. |
 | 88c–3. | Service of page during academic year and summer term; filling of vacancies; eligibility. |
@@ -360,10 +206,6 @@
 | [89a.](%C2%A7%2000089a%20-%20Certification%20of%20indebtedness%20of%20employees%20of%20House%3B%20withholding%20of%20amount.md) | Certification of indebtedness of employees of House; withholding of amount. |
 | 90, 91. | Repealed. |
 | [92\.](%C2%A7%2000092%20-%20Employees%20of%20Members%20of%20House%20of%20Representatives.md) | Employees of Members of House of Representatives. |
-| (a) | In general. |
-| (b) | Benefit exclusion. |
-| (c) | Definitions. |
-| (d) | Regulations. |
 | 92–1. | Repealed. |
 | [92a.](%C2%A7%2000092a%20-%20Pay%20of%20clerical%20assistants%20as%20affected%20by%20death%20of%20Senator%20or%20Representative.md) | Pay of clerical assistants as affected by death of Senator or Representative. |
 | [92b.](%C2%A7%2000092b%20-%20Pay%20of%20clerical%20assistants%20as%20affected%20by%20death%20or%20resignation%20of%20Member%20of%20House.md) | Pay of clerical assistants as affected by death or resignation of Member of House. |
@@ -374,25 +216,11 @@
 | [92d.](%C2%A7%2000092d%20-%20%E2%80%9CMember%20of%20the%20House%E2%80%9D%20defined.md) | “Member of the House” defined. |
 | 92e to 95. | Repealed or Omitted. |
 | 95–1. | Payments from applicable accounts of House of Representatives. |
-| (a) | In general. |
-| (b) | Definitions. |
 | [95a.](%C2%A7%2000095a%20-%20Appropriations%20for%20expenses%20of%20House%3B%20restrictions.md) | Appropriations for expenses of House; restrictions. |
 | [95b.](%C2%A7%2000095b%20-%20Transfers%20of%20amounts%20appropriated%20for%20House.md) | Transfers of amounts appropriated for House. |
-| (a) | Transfers among categories of allowances and expenses. |
-| (b) | Transfers among offices and activities. |
-| (c) | Transfers among various appropriations headings. |
 | [95c.](%C2%A7%2000095c%20-%20Advance%20payments.md) | Advance payments. |
-| (a) | Authorization. |
-| (b) | Regulations. |
-| (c) | Effective date. |
 | [95d.](%C2%A7%2000095d%20-%20Account%20in%20House%20of%20Representatives%20for%20Employees%E2%80%99%20Compensation%20Fund.md) | Account in House of Representatives for Employees’ Compensation Fund. |
-| (a) | Establishment. |
-| (b) | Payments made from account. |
-| (c) | Category of allowances and expenses. |
 | [95e.](%C2%A7%2000095e%20-%20House%20of%20Representatives%20Revolving%20Fund.md) | House of Representatives Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Expenditures. |
-| (c) | Applicability. |
 | 96 to 100. | Repealed. |
 | [101\.](%C2%A7%2000101%20-%20Subletting%20duties%20of%20employees%20of%20Senate%20or%20House.md) | Subletting duties of employees of Senate or House. |
 | [102\.](%C2%A7%2000102%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2852%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201737.md) | Repealed. |
@@ -400,12 +228,6 @@
 | 103, 104. | Omitted. |
 | [104a.](%C2%A7%2000104a%20-%20Semiannual%20statements%20of%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [104b.](%C2%A7%2000104b%20-%20Report%20of%20disbursements%20for%20House%20of%20Representatives.md) | Report of disbursements for House of Representatives. |
-| (a) | In general. |
-| (b) | Contents. |
-| (c) | Exclusion. |
-| (d) | House document. |
-| (e) | Conforming provision. |
-| (f) | Effective date. |
 | [104c.](%C2%A7%2000104c%20-%20Preservation%20of%20reports%2C%20statements%2C%20or%20documents%20filed%20with%20Clerk%20of%20House.md) | Preservation of reports, statements, or documents filed with Clerk of House. |
 | [105\.](%C2%A7%2000105%20-%20Preparation%20and%20contents%20of%20statement%20of%20appropriations.md) | Preparation and contents of statement of appropriations. |
 | [106\.](%C2%A7%2000106%20-%20Stationery%20for%20Senate%3B%20advertisements%20for.md) | Stationery for Senate; advertisements for. |
@@ -419,23 +241,9 @@
 | [112\.](%C2%A7%2000112%20-%20Purchases%20of%20stationery%20and%20materials%20for%20folding.md) | Purchases of stationery and materials for folding. |
 | 112a to 112d. Repealed. |  |
 | [112e.](%C2%A7%2000112e%20-%20Office%20equipment%20for%20House%20Members%2C%20officers%2C%20and%20committees.md) | Office equipment for House Members, officers, and committees. |
-| (a) | Authority of Chief Administrative Officer. |
-| (b) | Registration and ownership. |
-| (c) | Payment. |
-| (d) | Rules and regulations. |
 | [112f.](%C2%A7%2000112f%20-%20Incidental%20use%20of%20equipment%20and%20supplies.md) | Incidental use of equipment and supplies. |
 | 112g. | Net Expenses of Equipment Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Use of funds. |
-| (c) | Treatment. |
-| (d) | Applicability to fiscal years. |
-| (e) | Applicability to telecommunications equipment. |
 | [112h.](%C2%A7%2000112h%20-%20Net%20expenses%20of%20Telecommunications%20Revolving%20Fund.md) | Net expenses of Telecommunications Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Use of amounts in Fund. |
-| (c) | Transfer authority. |
-| (d), (e) | Omitted. |
-| (f) | Applicability. |
 | [113\.](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [114\.](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md) | Fees for copies from Senate journals. |
 | [115\.](%C2%A7%2000115%20-%20Index%20to%20House%20daily%20calendar.md) | Index to House daily calendar. |
@@ -445,38 +253,19 @@
 | [117b.](%C2%A7%2000117b%20-%20Disposal%20of%20used%20or%20surplus%20furniture%20and%20equipment%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%3B%20procedure%3B%20deposit%20of%20receipts.md) | Disposal of used or surplus furniture and equipment by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts. |
 | 117b–1. | Receipts from sale of used or surplus furniture and furnishings of Senate. |
 | 117b–2. | Transfer of excess or surplus educationally useful equipment to public schools. |
-| (a) | Authorization. |
-| (b) | Regulations. |
-| (c) | Deposit of receipts. |
-| (d) | Definitions. |
-| (e) | Effective date. |
 | [117c.](%C2%A7%2000117c%20-%20Disposal%20of%20used%20or%20surplus%20automobiles%20and%20trucks%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%3B%20procedure%3B%20deposit%20of%20receipts.md) | Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts. |
 | [117d.](%C2%A7%2000117d%20-%20Reimbursements%20to%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20for%20equipment%20provided%20to%20Senators%2C%20etc.%2C%20which%20has%20been%20lost%2C%20stolen%E2%80%A6.md) | Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen, damaged, or otherwise unaccounted for; deposit of receipts. |
 | 117d–1. | Compensation for lost or damaged property. |
-| (a) | In general. |
-| (b) | Availability. |
-| (c) | Effective date. |
 | [117e.](%C2%A7%2000117e%20-%20Disposal%20of%20used%20or%20surplus%20furniture%20and%20equipment%20by%20Chief%20Administrative%20Officer%20of%20House%3B%20procedure%3B%20deposit%20of%20receipts.md) | Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts. |
 | [117f.](%C2%A7%2000117f%20-%20Commissions%20and%20charges%20for%20public%20telephone%20or%20telecommunications%20services%3B%20deposit%20of%20receipts.md) | Commissions and charges for public telephone or telecommunications services; deposit of receipts. |
-| (a) | Authority of Chief Administrative Officer to receive commissions for providing public telephone service in House occupied areas. |
-| (b) | Deposit of receipts; availability for expenditure. |
 | [117g.](%C2%A7%2000117g%20-%20Monies%20received%20by%20Attending%20Physician%20from%20sale%20of%20prescription%20drugs%20or%20other%20sources%3B%20deposit%20of%20receipts.md) | Monies received by Attending Physician from sale of prescription drugs or other sources; deposit of receipts. |
 | [117h.](%C2%A7%2000117h%20-%20Deposit%20of%20fees%20for%20services%20by%20Office%20of%20Attending%20Physician%3B%20availability%20of%20amounts%20deposited.md) | Deposit of fees for services by Office of Attending Physician; availability of amounts deposited. |
 | [117i.](%C2%A7%2000117i%20-%20Revolving%20fund%20for%20House%20gymnasium%3B%20deposit%20of%20receipts%3B%20availability%20for%20expenditure.md) | Revolving fund for House gymnasium; deposit of receipts; availability for expenditure. |
 | [117j.](%C2%A7%2000117j%20-%20Fees%20for%20internal%20delivery%20in%20House%20of%20Representatives%20of%20nonpostage%20mail%20from%20outside%20sources.md) | Fees for internal delivery in House of Representatives of nonpostage mail from outside sources. |
 | 117j–1. | Regulations for safe handling of mail matter. |
-| (a) | In general. |
-| (b) | Civil or criminal liability. |
-| (c) | Definition. |
-| (d) | Effective date. |
 | [117k.](%C2%A7%2000117k%20-%20Rebates%20under%20Government%20Travel%20Charge%20Card%20Program.md) | Rebates under Government Travel Charge Card Program. |
-| 117(<i>l</i>). | Deposit of House Information Resources reimbursements for services. |
+| 117<i>l</i>. | Deposit of House Information Resources reimbursements for services. |
 | [117m.](%C2%A7%2000117m%20-%20House%20Services%20Revolving%20Fund.md) | House Services Revolving Fund. |
-| (a) | Establishment of House Services Revolving Fund. |
-| (b) | Use of amounts in Fund. |
-| (c) | Transfer authority. |
-| (d) | Termination and transfer of existing funds and accounts. |
-| (e) | Effective date. |
 | [118\.](%C2%A7%2000118%20-%20Actions%20against%20officers%20for%20official%20acts.md) | Actions against officers for official acts. |
 | [118a.](%C2%A7%2000118a%20-%20Officers%20of%20Senate.md) | Officers of Senate. |
 | [119\.](%C2%A7%2000119%20-%20Stationery%20rooms%20of%20House%20and%20Senate%3B%20specification%20of%20classes%20of%20articles%20purchasable.md) | Stationery rooms of House and Senate; specification of classes of articles purchasable. |
@@ -484,83 +273,19 @@
 | [121\.](%C2%A7%2000121%20-%20Senate%20restaurant%20deficit%20fund%3B%20deposit%20of%20proceeds%20from%20surcharge%20on%20orders.md) | Senate restaurant deficit fund; deposit of proceeds from surcharge on orders. |
 | [121a.](%C2%A7%2000121a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93275%2C%20title%20I%2C%20%C2%A76%28h%29%281%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202434.md) | Repealed. |
 | [121b.](%C2%A7%2000121b%20-%20Senate%20Beauty%20Shop.md) | Senate Beauty Shop. |
-| (a), | (b) Repealed or omitted. |
-| (c) | Creditable civilian service in Senate Building Beauty Shop for basic annuity. |
-| (d) | Creditable civilian service in Senate Building Beauty Shop for survivor annuities and disability benefits. |
-| (e) | Certification concerning creditable service; acceptance by Office of Personnel Management. |
-| (f) | Effective date. |
 | 121b–1. | Senate Hair Care Services. |
-| (a) | Appointment and compensation of personnel. |
-| (b) | Establishment of revolving fund. |
-| (c) | Deposit and availability of moneys. |
-| (d) | Disbursements upon vouchers. |
-| (e) | Excess moneys. |
-| (f) | Regulations. |
-| (g) | Transfer of unobligated balances. |
-| (h) | Omitted. |
-| (i) | Effective date. |
 | [121c.](%C2%A7%2000121c%20-%20Office%20of%20Senate%20Health%20Promotion.md) | Office of Senate Health Promotion. |
-| (a) | Establishment. |
-| (b) | Fees, assessments, and charges. |
-| (c) | Senate Health Promotion Revolving Fund. |
-| (d) | Vouchers. |
-| (e) | Inapplicability of provisions prohibiting sales, advertisements, or solicitations in Capitol grounds. |
-| (f) | Regulations. |
 | [121d.](%C2%A7%2000121d%20-%20Senate%20Gift%20Shop.md) | Senate Gift Shop. |
-| (a) | Establishment. |
-| (b) | Deposit of receipts. |
-| (c) | Revolving fund. |
-| (d) | Exception to prohibition of sale or solicitation on Capitol Grounds. |
-| (e) | Transfer of moneys from Stationery Revolving Fund. |
-| (f) | Authorization to expend from appropriations account for initial expenses. |
-| (g) | Disbursement on approved voucher. |
-| (h) | Regulations. |
 | [121e.](%C2%A7%2000121e%20-%20Payment%20of%20fees%20for%20services%20of%20Attending%20Physician%20and%20for%20use%20of%20Senate%20health%20and%20fitness%20facilities.md) | Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities. |
-| (a) | Regulations. |
-| (b) | Withholding of fees from salary. |
-| (c) | Deposit in General Fund. |
-| (d) | Effective date. |
 | [121f.](%C2%A7%2000121f%20-%20Senate%20Staff%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md) | Senate Staff Health and Fitness Facility Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Deposit of receipts. |
-| (c) | Availability of funds. |
-| (d) | Withdrawal of excess amounts. |
-| (e) | Regulations. |
 | [121g.](%C2%A7%2000121g%20-%20Authority%20of%20Attending%20Physician%20in%20response%20to%20medical%20contingencies%20or%20public%20health%20emergencies%20at%20Capitol.md) | Authority of Attending Physician in response to medical contingencies or public health emergencies at Capitol. |
-| (a) | In general. |
-| (b) | Definitions. |
-| (c) | Effective date. |
 | 122 to 123a. Repealed or Omitted. |  |
 | [123b.](%C2%A7%2000123b%20-%20House%20Recording%20Studio%3B%20Senate%20Recording%20Studio%20and%20Senate%20Photographic%20Studio.md) | House Recording Studio; Senate Recording Studio and Senate Photographic Studio. |
-| (a) | Establishment. |
-| (b) | Assistance in making disk, film, and tape recordings; exclusiveness of use. |
-| (c) | Operation of studios. |
-| (d) | Prices of disk, film, and tape recordings; collection of moneys. |
-| (e) | Restrictions on expenditures. |
-| (f) | Appointment of Director and other employees of House Recording Studio. |
-| (g) | Revolving funds. |
-| (h) | Deposits in funds; availability of funds. |
-| (i) | Distribution of equity of Joint Senate and House Recording Facility Revolving Fund; assignment of existing studio facilities, equipment, materials and supplies; transfer of accounts; reserve fund; distribution of balance. |
-| (j) | Availability of existing services and facilities. |
-| (k) | Restrictions on employment. |
-| (<i>l</i>) | Abolition of Joint Recording Facility positions and salaries. |
-| (m) | Repeals. |
-| (n) | Repealed. |
-| (<i>o</i>) | Authorization of appropriations. |
 | 123b–1. | Senate Recording Studio and Senate Photographic Studio as successors to Senate Recording and Photographic Studios; rules, regulations, and fees for photographs and photographic services. |
 | [123c.](%C2%A7%2000123c%20-%20Data%20processing%20equipment%2C%20software%2C%20and%20services.md) | Data processing equipment, software, and services. |
 | 123c–1. | Advance payments for computer programing services. |
 | [123d.](%C2%A7%2000123d%20-%20Senate%20Computer%20Center.md) | Senate Computer Center. |
-| (a) | Senate Computer Center Revolving Fund. |
-| (b) | Contracts for use of Senate computer; approval; terms. |
-| (c) | Additional personnel. |
-| (d) | Disbursements. |
 | [123e.](%C2%A7%2000123e%20-%20Senate%20legislative%20information%20system.md) | Senate legislative information system. |
-| (a) | Development and implementation by Secretary of Senate. |
-| (b) | Cooperative effort. |
-| (c) | Funding. |
-| (d) | Regulations. |
-| (e) | Effective date. |
 | [124\.](%C2%A7%2000124%20-%20Arrangements%20for%20attendance%20at%20funeral%20of%20deceased%20House%20Members%3B%20payment%20of%20funeral%20expenses%20and%20expenses%20of%20attending%20funeral%20rites.md) | Arrangements for attendance at funeral of deceased House Members; payment of funeral expenses and expenses of attending funeral rites. |
 | [125\.](%C2%A7%2000125%20-%20Gratuities%20for%20survivors%20of%20deceased%20House%20employees%3B%20computation.md) | Gratuities for survivors of deceased House employees; computation. |
 | [125a.](%C2%A7%2000125a%20-%20Death%20gratuity%20payments%20as%20gifts.md) | Death gratuity payments as gifts. |
@@ -574,61 +299,16 @@
 | 128 to 130. Repealed. |  |
 | 130–1. | Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials. |
 | 130–2. | Office of Interparliamentary Affairs. |
-| (a) | Establishment. |
-| (b) | Duties. |
-| (c) | Director. |
-| (d) | Other staff. |
-| (e) | Omitted. |
-| (f) | Authorization of appropriations. |
-| (g) | Effective date. |
 | [130a.](%C2%A7%2000130a%20-%20Nonpay%20status%20for%20Congressional%20employees%20studying%20under%20Congressional%20staff%20fellowships.md) | Nonpay status for Congressional employees studying under Congressional staff fellowships. |
 | [130b.](%C2%A7%2000130b%20-%20Jury%20and%20witness%20service%20by%20Senate%20and%20House%20employees.md) | Jury and witness service by Senate and House employees. |
-| (a) | Definitions. |
-| (b) | Service as juror or witness in connection with a judicial proceeding; prohibition against reduction of pay. |
-| (c) | Official duty. |
-| (d) | Prohibition on receipt of jury or witness fees. |
-| (e) | Travel expenses. |
-| (f) | Rules and regulations. |
-| (g) | Congressional consent not conferred for production of official records or to testimony concerning activities related to employment. |
 | [130c.](%C2%A7%2000130c%20-%20Waiver%20by%20Secretary%20of%20Senate%20of%20claims%20of%20United%20States%20arising%20out%20of%20erroneous%20payments%20to%20Vice%20President%2C%20Senator%2C%20or%20Senate%20employee%E2%80%A6.md) | Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee paid by Secretary of Senate. |
-| (a) | Waiver of claim for erroneous payment of pay or allowances. |
-| (b) | Prohibition of waiver. |
-| (c) | Credit for waiver. |
-| (d) | Effect of waiver. |
-| (e) | Construction with other laws. |
-| (f) | Rules and regulations. |
 | [130d.](%C2%A7%2000130d%20-%20Waiver%20by%20Speaker%20of%20House%20of%20claims%20of%20United%20States%20arising%20out%20of%20erroneous%20payments%20to%20officers%20or%20employees%20paid%20by%20Chief%E2%80%A6.md) | Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief Administrative Officer of House. |
-| (a) | Waiver of claim for erroneous payment of pay or allowances. |
-| (b) | Investigation and report. |
-| (c) | Prohibition of waiver. |
-| (d) | Credit for waiver. |
-| (e) | Effect of waiver. |
-| (f) | Construction with other laws. |
-| (g) | Rules and regulations. |
 | [130e.](%C2%A7%2000130e%20-%20Special%20Services%20Office.md) | Special Services Office. |
 | [130f.](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md) | Office of General Counsel of House; administrative provisions. |
-| (a) | Compliance with admission requirements. |
-| (b) | Notification by Attorney General. |
-| (c) | General Counsel definition. |
-| (d) | Effective date. |
 | [130g.](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for Senate during emergency; memorandum of understanding with an executive agency. |
-| (a) | Authorization. |
-| (b) | Consistency with Senate Procurement Regulations. |
-| (c) | Applicability. |
 | [130h.](%C2%A7%2000130h%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for House during emergency; memorandum of understanding with an executive agency. |
-| (a) | Authorization. |
-| (b) | Approval of Speaker required. |
-| (c) | Applicability. |
 | [130i.](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md) | House of Representatives Office of Emergency Planning, Preparedness, and Operations. |
-| (a) | Establishment. |
-| (b) | Duties of Speaker. |
-| (c) | Duties of Director; House of Representatives Continuity of Operations Board. |
-| (d) | Availability of funds. |
-| (e) | Effective date; applicability. |
 | [130j.](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md) | Program to increase employment opportunities in House of Representatives for individuals with disabilities. |
-| (a) | In general. |
-| (b) | Elements of program. |
-| (c) | Funding. |
 | [130k.](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md) | Emergency expenditures for meals, refreshments, and other support and maintenance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -749,7 +429,7 @@
 - [&sect; 00064 - Omitted](%C2%A7%2000064%20-%20Omitted.md)
 - [&sect; 00064&#8211;1 - Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations](%C2%A7%2000064%E2%80%931%20-%20Employees%20of%20Senate%20Disbursing%20Office%3B%20designation%20by%20Secretary%20of%20Senate%20to%20administer%20oaths%20and%20affirmations.md)
 - [&sect; 00064&#8211;2 - Transfers of funds by Secretary of Senate; approval of Committee on Appropriations](%C2%A7%2000064%E2%80%932%20-%20Transfers%20of%20funds%20by%20Secretary%20of%20Senate%3B%20approval%20of%20Committee%20on%20Appropriations.md)
-- [&sect; 00064&#8211;3 - Reimbursement for Capitol Police salaries paid by Capitol Police for service at Federal Law Enforcement Training Center](%C2%A7%2000064%E2%80%933%20-%20Reimbursement%20for%20Capitol%20Police%20salaries%20paid%20by%20Capitol%20Police%20for%20service%20at%20Federal%20Law%20Enforcement%20Training%20Center.md)
+- [&sect; 00064&#8211;3 - Transferred](%C2%A7%2000064%E2%80%933%20-%20Transferred.md)
 - [&sect; 00064a - Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer](%C2%A7%2000064a%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20and%20Assistant%20Secretary%20of%20Senate%3B%20Financial%20Clerk%20deemed%20successor%20as%20disbursing%20officer.md)
 - [&sect; 00064a&#8211;1 - Compensation of Financial Clerk of Senate](%C2%A7%2000064a%E2%80%931%20-%20Compensation%20of%20Financial%20Clerk%20of%20Senate.md)
 - [&sect; 00064b - Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of&#8230;](%C2%A7%2000064b%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20of%20Senate%3B%20Assistant%20Secretary%20of%20Senate%20to%20act%20as%20Secretary%3B%20written%20designation%20of%E2%80%A6.md)

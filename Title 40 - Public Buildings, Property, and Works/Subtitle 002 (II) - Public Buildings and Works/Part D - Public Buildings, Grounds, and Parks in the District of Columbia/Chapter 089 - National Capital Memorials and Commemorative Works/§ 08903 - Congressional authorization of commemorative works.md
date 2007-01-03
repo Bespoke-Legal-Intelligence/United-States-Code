@@ -102,9 +102,9 @@ Benjamin Banneker Memorial.—Pub. L. 105–355, title V, §512, Nov. 6, 1998, 1
 
 Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926.
 
-Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358.
+Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713.
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274.
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335.
 
 Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.
 
@@ -127,6 +127,8 @@ National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L.
 Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §142\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.
 
 Tomas G. Masaryk Memorial.—Pub. L. 107–61, Nov. 5, 2001, 115 Stat. 410.
+
+Ukrainian Famine-Genocide Victims Memorial.—Pub. L. 109–340, Oct. 13, 2006, 120 Stat. 1864.
 
 Victims of Communism Memorial.—Pub. L. 103–199, title IX, §905, Dec. 17, 1993, 107 Stat. 2331; Pub. L. 105–277, div. A, §101(e) \[title III, §326\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291.
 

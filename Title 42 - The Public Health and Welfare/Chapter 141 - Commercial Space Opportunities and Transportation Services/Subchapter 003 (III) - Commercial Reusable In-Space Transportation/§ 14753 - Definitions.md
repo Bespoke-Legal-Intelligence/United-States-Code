@@ -12,7 +12,7 @@ In this subchapter:
 
 #### (3) In-space transportation services
 
-&emsp;The term “in-space transportation services” means operations and activities involved in the direct transportation or attempted transportation of a payload or object from one orbitto another by means of an in-space transportation vehicle.
+&emsp;The term “in-space transportation services” means operations and activities involved in the direct transportation or attempted transportation of a payload or object from one orbit to another by means of an in-space transportation vehicle.
 
 #### (4) In-space transportation system
 

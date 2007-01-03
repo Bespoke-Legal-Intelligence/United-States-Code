@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§215(a), 230, 242, 66 Stat. 486, 489, 492.
 
-In subsection (a), the words “who is not in active Federal service” are substituted for the words “whennot in the active military service of the United States”. The word “during” is substituted for the words “for the period of”.
+In subsection (a), the words “who is not in active Federal service” are substituted for the words “when not in the active military service of the United States”. The word “during” is substituted for the words “for the period of”.
 
 In subsection (c), the words “active duty other than active duty for training without pay” are substituted for the words “active duty or active duty for training with pay”. The words “enlisted members of the reserve components designated as”, “enlisted”, and “under the Career Compensation Act of 1949, as amended” are omitted as surplusage.
 
@@ -52,5 +52,5 @@ In subsection (c), the words “active duty other than active duty for training 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 

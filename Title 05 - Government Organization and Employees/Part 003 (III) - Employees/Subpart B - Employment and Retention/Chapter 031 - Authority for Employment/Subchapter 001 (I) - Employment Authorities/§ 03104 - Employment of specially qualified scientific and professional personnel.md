@@ -108,7 +108,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Experimental Personnel Program for Scientific and Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636, provided that:
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408, provided that:
 
 “(a)
 
@@ -150,7 +150,7 @@ Limitations on Additional Payments.—(1) The total amount of the additional pay
 
 “(e)
 
-Period of Program.—(1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on September 30, 2008.
+Period of Program.—(1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on September 30, 2011.
 
 “(2) After the termination of the program—
 
@@ -194,7 +194,7 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 108–447, div. B, title I, §109, Dec. 8, 2004, 118 Stat. 2868.
 
-Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, §119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, §216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, §216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, §216, Nov. 30, 2005, 119 Stat. 2439, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of eight years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
+Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, §119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, §216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, §216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, §216, Nov. 30, 2005, 119 Stat. 2439, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of eight years from Oct. 21, 1998, personnel managementdemonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
 
 \[Personnel management demonstration project transferred to Attorney General for continued use by Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and Secretary of the Treasury for continued use by Tax and Trade Bureau, see section 533 of Title 6, Domestic Security.\]
 

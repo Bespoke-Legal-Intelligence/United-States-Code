@@ -10,7 +10,7 @@ An application submitted under this section shall contain the plan of the applic
 
 #### (c) Performance outcome standards
 
-An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needs that the project will meet. The recipient of a grant or contract under this section shall meet the standards set forth in the grant or contract application.
+An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needs that the project will meet. The recipient of a grant or contract under this section shall meetthe standards set forth in the grant or contract application.
 
 #### (d) Linkages
 

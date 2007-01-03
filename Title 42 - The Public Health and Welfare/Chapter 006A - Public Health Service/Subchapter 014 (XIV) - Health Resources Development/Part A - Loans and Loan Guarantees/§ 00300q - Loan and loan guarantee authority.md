@@ -4,7 +4,7 @@
 
 (1) The Secretary, during the period ending September 30, 1982, may, in accordance with this part, make loans from the fund established under section 300q–2(d) of this title to any public or nonprofit private entity for projects for—
 
-&emsp;(A) the discontinuance of unneeded hospital services or facilities,
+&emsp;(A) the discontinuance of unneeded hospital services or facilities,<sup>1</sup>
 
 &emsp;(B) the conversion of unneeded hospital services and facilities to needed health services and medical facilities, including outpatient medical facilities and facilities for long-term care;
 
@@ -44,7 +44,7 @@ A prior section 1601 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–79, §§201(b)(1), 203(a)(2), added par. (1); substituted reference to section 1602(d) for 1622(d), set out in text as “section 300q–2(d) of this title”; incorporated in par. (2) former subsec. (b) provisions made applicable for period ending Sept. 30, 1982, previously covering period beginning July 1, 1974, andending Sept. 30, 1978, extended provisions to public entities, struck out existing condition that applications for assistance under subchapter be approved under former section 300<i>o</i>–3 of this title, substituted in subpar. (2)(B) provision for payment of amounts sufficient to reduce by not more than one half net effective interest otherwise payable on the loan for prior provision for amounts sufficient to reduce by 3 per centum per annum net effective interest rate on the loan, and struck out provision granting contractual right of holder of a guaranteed loan to receive from the United States such interest payments.
+1979—Subsec. (a). Pub. L. 96–79, §§201(b)(1), 203(a)(2), added par. (1); substituted reference to section 1602(d) for 1622(d), set out in text as “section 300q–2(d) of this title”; incorporated in par. (2) former subsec. (b) provisions made applicable for period ending Sept. 30, 1982, previously covering period beginning July 1, 1974, and ending Sept. 30, 1978, extended provisions to public entities, struck out existing condition that applications for assistance under subchapter be approved under former section 300<i>o</i>–3 of this title, substituted in subpar. (2)(B) provision for payment of amounts sufficient to reduce by not more than one half net effective interest otherwise payable on the loan for prior provision for amounts sufficient to reduce by 3 per centum per annum net effective interest rate on the loan, and struck out provision granting contractual right of holder of a guaranteed loan to receive from the United States such interest payments.
 
 Subsec. (b). Pub. L. 96–79, §201(b)(1), added subsec. (b) and incorporated existing provisions of subsec. (b) relating to loan guarantee authority for payment of principal and interest on loans for approved projects, their duration, and payments for reduction of interest rate in subsec. (a)(2) of this section.
 
@@ -55,4 +55,6 @@ Subsec. (b). Pub. L. 96–79, §201(b)(1), added subsec. (b) and incorporated ex
 #### Effective Date of 1979 Amendment
 
 Section 204 of Pub. L. 96–79 provided that: “The amendments made by this title \[enacting sections 300s, 300s–1, and 300s–6, amending this section and sections 201, 300q–2, 300r, 300s–1a, 300s–3, and 300s–5, and repealing sections 300<i>o</i> to 300<i>o</i>–3, 300p to 300p–3, 300q–1, and 300s of this title\] shall take effect October 1, 1979, except that the amendments made by section 201(b) \[amending this section and section 300q–2 of this title\] respecting the payment of an interest subsidy for a loan or loan guarantee made under part A of title XVI of the Public Health Service Act \[this part\] shall apply only with respect to loans and loan guarantees made after October 1, 1979, and with respect to loans and loan guarantees made under such part before such date the Secretary shall continue to pay the interest subsidy authorized for such loans and loan guarantees before such date.”
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

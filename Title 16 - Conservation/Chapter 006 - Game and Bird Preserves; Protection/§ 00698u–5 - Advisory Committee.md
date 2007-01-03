@@ -6,7 +6,7 @@ There is established an advisory committee to be known as the “Tallgrass Prair
 
 #### (b) Duties
 
-The Advisory Committee shall advise the Secretary and the Director of the National Park Service concerning the development, management, and interpretation of the Preserve. In carrying out those duties, the Advisory Committee shall provide timely advice to the Secretary and the Director during the preparation of the general management plan under section 698u–3(g) of this title.
+The Advisory Committee shall advise the Secretary and the Director of the National ParkService concerning the development, management, and interpretation of the Preserve. In carrying out those duties, the Advisory Committee shall provide timely advice to the Secretary and the Director during the preparation of the general management plan under section 698u–3(g) of this title.
 
 #### (c) Membership
 
@@ -56,7 +56,7 @@ The members of the Advisory Committee shall select 1 of the members to serve as 
 
 #### (f) Meetings
 
-Meetings of the Advisory Committee shall be held at the call of the Chairperson or the majority of the Advisory Committee. Meetings shall be held at such locations and in such a manneras to ensure adequate opportunity for public involvement. In compliance with the requirements of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall choose an appropriate means of providing interested members of the public advance notice of scheduled meetings.
+Meetings of the Advisory Committee shall be held at the call of the Chairperson or the majority of the Advisory Committee. Meetings shall be held at such locations and in such a manner as to ensure adequate opportunity for public involvement. In compliance with the requirements of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall choose an appropriate means of providing interested members of the public advance notice of scheduled meetings.
 
 #### (g) Quorum
 
@@ -68,7 +68,7 @@ Each member of the Advisory Committee shall serve without compensation, except t
 
 #### (i) Charter
 
-The rechartering provisions of section 14(b) of the Federal Advisory Committee Act (15 U.S.C. App.) shall not apply to the Advisory Committee.
+The rechartering provisions of section 14(b) of the Federal Advisory Committee Act (15 <sup>1</sup> U.S.C. App.) shall not apply to the Advisory Committee.
 
 (Pub. L. 104–333, div. I, title X, §1007, Nov. 12, 1996, 110 Stat. 4208; Pub. L. 105–244, title I, §102(a)(4), Oct. 7, 1998, 112 Stat. 1618.)
 
@@ -87,4 +87,6 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “5”.</i>
 

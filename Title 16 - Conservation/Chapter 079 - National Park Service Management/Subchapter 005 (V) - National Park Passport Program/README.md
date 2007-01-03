@@ -1,16 +1,8 @@
 ### SUBCHAPTER V—NATIONAL PARK PASSPORT PROGRAM
 
-#### Repeal of Subchapter
-
-<i>Subchapter repealed on the date the notice required by section 6804(a)(3) of this title is published in the Federal Register, see section 6812(d)(2) of this title.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05991 - Purposes](%C2%A7%2005991%20-%20Purposes.md)
-- [&sect; 05992 - National park passport program](%C2%A7%2005992%20-%20National%20park%20passport%20program.md)
-- [&sect; 05993 - Administration](%C2%A7%2005993%20-%20Administration.md)
-- [&sect; 05994 - Foreign sales of Golden Eagle Passports](%C2%A7%2005994%20-%20Foreign%20sales%20of%20Golden%20Eagle%20Passports.md)
-- [&sect; 05995 - Effect on other laws and programs](%C2%A7%2005995%20-%20Effect%20on%20other%20laws%20and%20programs.md)
+- [&sect; 05991 to 5995 - Repealed. Pub. L. 108&#8211;447, div. J, title VIII, &sect;813(d)(2), Dec. 8, 2004, 118 Stat. 3391](%C2%A7%2005991%20to%205995%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93447%2C%20div.%20J%2C%20title%20VIII%2C%20%C2%A7813%28d%29%282%29%2C%20Dec.%208%2C%202004%2C%20118%20Stat.%203391.md)

@@ -24,7 +24,7 @@ Authority of the Secretary.—The Secretary is authorized to use funds appropria
 
 (b)
 
-Drugs and Driver Behavior.—In addition to the research authorized by subsection (a), the Secretary, in consultation with other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
+Drugs and Driver Behavior.—In addition to the research authorized by subsection (a), theSecretary, in consultation with other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
 
 &emsp;(1) The relationship between the consumption and use of drugs and their effect upon highway safety and drivers of motor vehicles.
 
@@ -72,7 +72,7 @@ International Cooperation.—The Administrator of the National Highway Traffic S
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classifiedgenerally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Subsec. (g). Pub. L. 109–59, §2003(b), added subsec. (g).
 
 Subsec. (b)(3), (4). Pub. L. 105–178, §2002(b)(1), added pars. (3) and (4).
 
-1991—Subsec. (a). Pub. L. 102–240, §2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
+1991—Subsec. (a). Pub. L. 102–240, §2003(a), added subsec. (a) and struck out former subsec. (a) which read asfollows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
 
 Subsec. (b). Pub. L. 102–240, §2003(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary, in consultation with such other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
 
@@ -142,7 +142,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\], in cooperation with the National Institutes of Health, shall submit toCongress a report on the problem of drug-impaired driving.
+In general.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\], in cooperation with the National Institutes of Health, shall submit to Congress a report on the problem of drug-impaired driving.
 
 &emsp;“(2)
 
@@ -268,7 +268,7 @@ Establishment.—The Secretary, acting through the National Highway Traffic Safe
 
 “(b)
 
-Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American Bar Association; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 App. U.S.C.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
+Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American Bar Association; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 U.S.C. App.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
 
 “(c)
 
@@ -392,11 +392,11 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9,1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 #### Appropriations Authorizations
 
-Section 208(b) of Pub. L. 93–87 provided that: “There is authorized to be appropriated to carry out the amendments made by this section \[amending this section\] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
+Section 208(b) of Pub. L. 93–87 provided that: “There is authorized to be appropriated to carry out theamendments made by this section \[amending this section\] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
 
 Section 226(b) of Pub. L. 93–87 provided that: “For the purpose of carrying out the amendment made by subsection (a) of this section \[amending this section\], there is authorized to be appropriated $10,000,000 out of the Highway Trust Fund.”
 

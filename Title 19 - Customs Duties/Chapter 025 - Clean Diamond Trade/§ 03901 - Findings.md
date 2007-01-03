@@ -50,7 +50,7 @@ Section 1. <i>Prohibitions</i>. Notwithstanding the existence of any rights or o
 
 (a) the importation into, or exportation from, the United States on or after July 30, 2003, of any rough diamond, from whatever source, unless the rough diamond has been controlled through the KPCS;
 
-(b) any transaction by a United States person anywhere, or any transaction that occurs in whole or in part within the United States, that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this section; and
+(b) any transaction by a United States person anywhere, or any transaction that occurs in whole or inpart within the United States, that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this section; and
 
 (c) any conspiracy formed to violate any of the prohibitions of this section.
 

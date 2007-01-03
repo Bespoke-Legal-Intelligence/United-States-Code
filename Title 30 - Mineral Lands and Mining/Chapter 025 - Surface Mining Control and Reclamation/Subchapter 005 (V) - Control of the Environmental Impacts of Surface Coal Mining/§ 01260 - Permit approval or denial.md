@@ -14,7 +14,7 @@ No permit or revision application shall be approved unless the application affir
 
 &emsp;(3) the assessment of the probable cumulative impact of all anticipated mining in the area on the hydrologic balance specified in section 1257(b) of this title has been made by the regulatory authority and the proposed operation thereof has been designed to prevent material damage to hydrologic balance outside permit area;
 
-&emsp;(4) the area proposed to be mined is not included within an area designated unsuitable for surface coal mining pursuant to section 1272 of this title or is not within an area under study for such designation in an administrative proceeding commenced pursuant to section 1272(a)(4)(D) or section 1272(c) of this title (unless in such an area as to which an administrative proceeding has commenced pursuant to section 1272(a)(4)(D) of this title, the operator making the permit application demonstrates that, prior to January 1, 1977, he has made substantial legal and financial commitments in relation to the operation for which he is applying for a permit);
+&emsp;(4) the area proposed to be mined is not included within an area designated unsuitable for surface coal mining pursuant to section 1272 of this title or is not within an area under study for such designation in an administrative proceeding commenced pursuant to section 1272(a)(4)(D) or section 1272(c) of this title\(unless in such an area as to which an administrative proceeding has commenced pursuant to section 1272(a)(4)(D) of this title, the operator making the permit application demonstrates that, prior to January 1, 1977, he has made substantial legal and financial commitments in relation to the operation for which he is applying for a permit);
 
 &emsp;(5) the proposed surface coal mining operation, if located west of the one hundredth meridian west longitude, would—
 
@@ -46,11 +46,13 @@ The applicant shall file with his permit application a schedule listing any and 
 
 #### (e) Modification of prohibition
 
-After October 24, 1992, the prohibition of subsection (c) of this section shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c) of this section. The authority of this subsection and section 1265(b)(20)(B) of this title shall terminate on September 30, 2004.
+After October 24, 1992, the prohibition of subsection (c) of this section shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c) of this section.
 
-(Pub. L. 95–87, title V, §510, Aug. 3, 1977, 91 Stat. 480; Pub. L. 102–486, title XXV, §2503(a), Oct. 24, 1992, 106 Stat. 3102.)
+(Pub. L. 95–87, title V, §510, Aug. 3, 1977, 91 Stat. 480; Pub. L. 102–486, title XXV, §2503(a), Oct. 24, 1992, 106 Stat. 3102; Pub. L. 109–432, div. C, title II, §208, Dec. 20, 2006, 120 Stat. 3019.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–432 struck out at end “The authority of this subsection and section 1265(b)(20)(B) of this title shall terminate on September 30, 2004.”
 
 1992—Subsec. (e). Pub. L. 102–486 added subsec. (e).
 

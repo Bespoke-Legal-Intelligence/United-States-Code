@@ -26,7 +26,7 @@ Any person who violates subsection (a)(1) or (2) of this section <sup>1</sup>
 
 &emsp;(2) if the person employed, hired, or used is fourteen years of age or younger,
 
-> shall be subject to a term of imprisonment for not more than five years or a fine of not more than $50,000, or both, in addition to any other punishment authorized by this section.
+> shall be subject to a term of imprisonment for not more than five years or a fine of not morethan $50,000, or both, in addition to any other punishment authorized by this section.
 
 #### (e) Suspension of sentence; probation; parole
 

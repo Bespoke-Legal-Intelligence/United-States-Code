@@ -4,24 +4,13 @@
 | :--- | ---: |
 | [7201\.](%C2%A7%2007201%20-%20Definitions.md) | Definitions. |
 | [7202\.](%C2%A7%2007202%20-%20Restriction.md) | Restriction. |
-| (a) | New sanctions. |
-| (b) | Existing sanctions. |
 | [7203\.](%C2%A7%2007203%20-%20Exceptions.md) | Exceptions. |
 | [7204\.](%C2%A7%2007204%20-%20Termination%20of%20sanctions.md) | Termination of sanctions. |
 | [7205\.](%C2%A7%2007205%20-%20State%20sponsors%20of%20international%20terrorism.md) | State sponsors of international terrorism. |
-| (a) | Requirement. |
-| (b) | Quarterly reports. |
-| (c) | Biennial reports. |
 | [7206\.](%C2%A7%2007206%20-%20Congressional%20procedures.md) | Congressional procedures. |
-| (a) | Referral of report. |
-| (b) | Referral of joint resolution. |
 | [7207\.](%C2%A7%2007207%20-%20Prohibition%20on%20United%20States%20assistance%20and%20financing.md) | Prohibition on United States assistance and financing. |
-| (a) | Prohibition on United States assistance. |
-| (b) | Prohibition on financing of agricultural sales to Cuba. |
 | [7208\.](%C2%A7%2007208%20-%20Prohibition%20on%20additional%20imports%20from%20Cuba.md) | Prohibition on additional imports from Cuba. |
 | [7209\.](%C2%A7%2007209%20-%20Requirements%20relating%20to%20certain%20travel-related%20transactions%20with%20Cuba.md) | Requirements relating to certain travel-related transactions with Cuba. |
-| (a) | Authorization of travel relating to commercial sale of agricultural commodities. |
-| (b) | Prohibition on travel relating to tourist activities. |
 | [7210\.](%C2%A7%2007210%20-%20Application%20of%20the%20Trade%20Sanctions%20Reform%20and%20Export%20Enhancement%20Act.md) | Application of the Trade Sanctions Reform and Export Enhancement Act. |
 | [7211\.](%C2%A7%2007211%20-%20Technical%20clarification%20relating%20to%20provision%20of%20material%20support%20to%20terrorism.md) | Technical clarification relating to provision of material support to terrorism. |
 

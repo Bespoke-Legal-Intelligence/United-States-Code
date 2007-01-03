@@ -8,7 +8,7 @@
 
 #### (2) Submission to the Secretary
 
-&emsp;Every such recipient shall maintain such records and submit such reports, in such form and containing such information, as the Secretary may require regarding the performance of programs and activities carried out under this chapter. Such records and reports shall be submitted to the Secretary but shall not be required to be submitted more than once each quarter unless specifically requested by Congress or a committee of Congress, in which case an estimate may be provided.
+&emsp;Every such recipient shall maintain such records and submit such reports, in such form and containing such information, as the Secretary may require regarding the performance of programs and activities carried out under this chapter. Such records and reports shall besubmitted to the Secretary but shall not be required to be submitted more than once each quarter unless specifically requested by Congress or a committee of Congress, in which case an estimate may be provided.
 
 #### (3) Maintenance of standardized records
 
@@ -56,7 +56,7 @@
 
 #### (B) Notification requirement
 
-&emsp;&emsp;If the scope, objectives, or purposes of the audit change substantially during the courseof the audit, the entity being audited shall be notified of the change as soon as practicable.
+&emsp;&emsp;If the scope, objectives, or purposes of the audit change substantially during the course of the audit, the entity being audited shall be notified of the change as soon as practicable.
 
 #### (C) Additional requirement
 

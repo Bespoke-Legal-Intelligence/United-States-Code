@@ -20,7 +20,7 @@ Any health and safety training provided under subsection (a) of this section sha
 
 #### (c) Certificate
 
-Upon completion of each training program, each operator shall certify, on a form approved by the Secretary, that the miner has received the specified training in each subject area of the approved health and safety training plan. A certificate for each miner shall be maintained by the operator, and shall be available for inspection at the mine site, and a copy thereof shall be given to each miner at the completion of such training. When a miner leaves the operator's employ, he shall be entitled to a copy of his health and safety training certificates. False certification by an operator that training was given shall be punishable under section 820(a) and (f) of this title; and each health and safety training certificate shall indicate on its face, in bold letters, printed in a conspicuous manner the fact that such false certification is so punishable.
+Upon completion of each training program, each operator shall certify, on a form approved by the Secretary, that the miner has received the specified training in each subject area of the approved health and safety training plan. A certificate for each miner shall be maintained by the operator, and shall be available for inspection at the mine site, and a copy thereof shall be given to each miner at the completion of such training. When a miner leaves the operator's employ, he shall be entitled to a copy of hishealth and safety training certificates. False certification by an operator that training was given shall be punishable under section 820(a) and (f) of this title; and each health and safety training certificate shall indicate on its face, in bold letters, printed in a conspicuous manner the fact that such false certification is so punishable.
 
 #### (d) Standards
 
@@ -28,13 +28,81 @@ The Secretary shall promulgate appropriate standards for safety and health train
 
 #### (e) Proposed regulations
 
-Within 180 days after the effective date of the Federal Mine Safety and Health Amendments Act of 1977, the Secretary shall publish proposed regulations which shall provide that mine rescue teams shall be available for rescue and recovery work to each underground coal or other mine in the event of an emergency. The costs of making advance arrangements for such teams shall be borne by the operator of each such mine.
+(1) Within 180 days after the effective date of the Federal Mine Safety and Health Amendments Act of 1977, the Secretary shall publish proposed regulations which shall provide that mine rescue teams shall be available for rescue and recovery work to each underground coal or other mine in the event of an emergency. The costs of making advance arrangements for such teams shall be borne by the operator of each such mine.
 
-(Pub. L. 91–173, title I, §115, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1315.)
+(2)(A) The Secretary shall issue regulations with regard to mine rescue teams which shall be finalized and in effect not later than 18 months after June 15, 2006.
+
+(B) Such regulations shall provide for the following:
+
+&emsp;(i) That such regulations shall not be construed to waive operator training requirements applicable to existing mine rescue teams.
+
+&emsp;(ii) That the Mine Safety and Health Administration shall establish, and update every 5 years thereafter, criteria to certify the qualifications of mine rescue teams.
+
+&emsp;(iii)(I) That the operator of each underground coal mine with more than 36 employees—
+
+&emsp;&emsp;(aa) have an employee knowledgeable in mine emergency response who is employed at the mine on each shift at each underground mine; and
+
+&emsp;&emsp;(bb) make available two certified mine rescue teams whose members—
+
+&emsp;&emsp;&emsp;(AA) are familiar with the operations of such coal mine;
+
+&emsp;&emsp;&emsp;(BB) participate at least annually in two local mine rescue contests;
+
+&emsp;&emsp;&emsp;(CC) participate at least annually in mine rescue training at the underground coal mine covered by the mine rescue team; and
+
+&emsp;&emsp;&emsp;(DD) are available at the mine within one hour ground travel time from the mine rescue station.
+
+&emsp;(II)(aa) For the purpose of complying with subclause (I), an operator shall employ one team that is either an individual mine site mine rescue team or a composite team as provided for in item (bb)(BB).
+
+&emsp;(bb) The following options may be used by an operator to comply with the requirements of item (aa):
+
+&emsp;&emsp;(AA) An individual mine-site mine rescue team.
+
+&emsp;&emsp;(BB) A multi-employer composite team that is made up of team members who are knowledgeable about the operations and ventilation of the covered mines and who train on a semi-annual basis at the covered underground coal mine—
+
+&emsp;&emsp;&emsp;(aaa) which provides coverage for multiple operators that have team members which include at least two active employees from each of the covered mines;
+
+&emsp;&emsp;&emsp;(bbb) which provides coverage for multiple mines owned by the same operator which members include at least two active employees from each mine; or
+
+&emsp;&emsp;&emsp;(ccc) which is a State-sponsored mine rescue team comprised of at least two active employees from each of the covered mines.
+
+&emsp;&emsp;(CC) A commercial mine rescue team provided by contract through a third-party vendor or mine rescue team provided by another coal company, if such team—
+
+&emsp;&emsp;&emsp;(aaa) trains on a quarterly basis at covered underground coal mines;
+
+&emsp;&emsp;&emsp;(bbb) is knowledgeable about the operations and ventilation of the covered mines; and
+
+&emsp;&emsp;&emsp;(ccc) is comprised of individuals with a minimum of 3 years underground coal mine experience that shall have occurred within the 10-year period preceding their employment on the contract mine rescue team.
+
+&emsp;&emsp;(DD) A State-sponsored team made up of State employees.
+
+&emsp;(iv) That the operator of each underground coal mine with 36 or less employees shall—
+
+&emsp;&emsp;(I) have an employee on each shift who is knowledgeable in mine emergency responses; and
+
+&emsp;&emsp;(II) make available two certified mine rescue teams whose members—
+
+&emsp;&emsp;&emsp;(aa) are familiar with the operations of such coal mine;
+
+&emsp;&emsp;&emsp;(bb) participate at least annually in two local mine rescue contests;
+
+&emsp;&emsp;&emsp;(cc) participate at least semi-annually in mine rescue training at the underground coal mine covered by the mine rescue team;
+
+&emsp;&emsp;&emsp;(dd) are available at the mine within one hour ground travel time from the mine rescue station;
+
+&emsp;&emsp;&emsp;(ee) are knowledgeable about the operations and ventilation of the covered mines; and
+
+&emsp;&emsp;&emsp;(ff) are comprised of individuals with a minimum of 3 years underground coal mine experience that shall have occurred within the 10-year period preceding their employment on the contract mine rescue team.
+
+(Pub. L. 91–173, title I, §115, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1315; amended Pub. L. 109–236, §4, June 15, 2006, 120 Stat. 497.)
 
 #### References in Text
 
-For the effective date of the Federal Mine Safety and Health Amendments Act of 1977, referred to in subsecs. (a) and (e), see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
+For the effective date of the Federal Mine Safety and Health Amendments Act of 1977, referred to in subsecs. (a) and (e)(1), see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
+
+#### Amendments
+
+2006—Subsec. (e). Pub. L. 109–236 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 
 (b) Subsection (a) of this section does not apply to a vessel of a foreign country that does not recognize measurements under this chapter. The Secretary may apply measurement standards the Secretary considers appropriate to the vessel, subject to applicable international agreements to which the United States Government is a party.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1922.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1922.)
 
 #### Historical and Revision Notes
 

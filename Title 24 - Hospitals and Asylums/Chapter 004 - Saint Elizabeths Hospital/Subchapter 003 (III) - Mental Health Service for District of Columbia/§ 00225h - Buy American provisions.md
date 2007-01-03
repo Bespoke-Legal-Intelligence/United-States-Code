@@ -8,7 +8,7 @@ The Mayor shall insure that the requirements of the Buy American Act of 1933, as
 
 (1) If the Mayor, after consultation with the United States Trade Representative, determines that a foreign country which is party to an agreement described in paragraph (2) has violated the terms of the agreement by discriminating against certain types of products produced in the United States that are covered by the agreement, the United States Trade Representative shall rescind the waiver of the Buy American Act \[41 U.S.C. 10a et seq.\] with respect to such types of products produced in that foreign country.
 
-(2) An agreement referred to in paragraph (1) is any agreement,<sup>1</sup> between the United States and a foreign country pursuant to which the head of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
+(2) An agreement referred to in paragraph (1) is any agreement,<sup>1</sup> between the United Statesand a foreign country pursuant to which the head of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
 
 #### (c) Report to Congress
 

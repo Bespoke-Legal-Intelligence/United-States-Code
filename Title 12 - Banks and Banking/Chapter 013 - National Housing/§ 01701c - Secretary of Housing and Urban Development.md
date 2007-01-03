@@ -20,7 +20,7 @@ The Secretary of Housing and Urban Development and the Director of the Office of
 
 #### (d) Use of funds for library memberships
 
-The Secretary of Housing and Urban Development may utilize funds made available to him for salaries and expenses for payment in advance for dues or fees for library memberships in organizations (or for membership of the individual librarians in organizations which will not accept library membership) whose publications are available to members only, or to members at a price lower than to the general public, and for payment in advance for publications available only upon that basis or available at a reduced price on prepublication order.
+The Secretary of Housing and Urban Development may utilize funds made available to him for salaries and expenses for payment in advance for dues or fees for library memberships in organizations (or for membership of the individual librarians in organizations which will not acceptlibrary membership) whose publications are available to members only, or to members at a price lower than to the general public, and for payment in advance for publications available only upon that basis or available at a reduced price on prepublication order.
 
 (Aug. 10, 1948, ch. 832, title V, §502, 62 Stat. 1283; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Apr. 20, 1950, ch. 94, title V, §503, 64 Stat. 80; Pub. L. 87–70, title IX, §909, June 30, 1961, 75 Stat. 192; Pub. L. 90–19, §5(d)(1)–(3), (8)–(13), May 25, 1967, 81 Stat. 21; Pub. L. 98–479, title II, §§202(b), 203(c), Oct. 17, 1984, 98 Stat. 2228, 2229; Pub. L. 100–242, title V, §570(a)(1), (3), Feb. 5, 1988, 101 Stat. 1949, 1950; Pub. L. 101–73, title III, §306, Aug. 9, 1989, 103 Stat. 352.)
 

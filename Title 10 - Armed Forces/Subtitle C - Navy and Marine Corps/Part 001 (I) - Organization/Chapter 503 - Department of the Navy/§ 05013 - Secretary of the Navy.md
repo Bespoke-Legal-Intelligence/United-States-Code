@@ -84,7 +84,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2823, Oct. 28, 2004, 118 Stat. 2132, 
 
 “(a)
 
-Authority to Acquire Complete Title.—If real property owned by the United States and used as a Navy homeport is subject to a reversionary interest of any kind, the Secretary of the Navy may enter into an agreement with the holder of the reversionary interest to acquire the reversionary interest and thereby secure for the United States all right, title, and interest in and to the property.
+Authority to Acquire Complete Title.—If real property owned by the United States and used as a Navy homeport is subject to a reversionary interest of any kind, the Secretary of the Navy may enter into an agreement with the holder of the reversionary interest to acquire the reversionary interest and thereby securefor the United States all right, title, and interest in and to the property.
 
 “(b)
 
@@ -120,7 +120,7 @@ Participating Workers.—(1) Actual worker participation in the demonstration pr
 
 “(d)
 
-Funding Source.—Appropriations for operation and maintenance of the Naval Aviation Depots selectedto participate in the demonstration project shall be used as the source of funds to carry out the demonstration project, including the source of funds for pay increases made under the project.
+Funding Source.—Appropriations for operation and maintenance of the Naval Aviation Depots selected to participate in the demonstration project shall be used as the source of funds to carry out the demonstration project, including the source of funds for pay increases made under the project.
 
 “(e)
 
@@ -136,49 +136,7 @@ Evaluation.—The Secretary shall transmit a copy of the report to the Comptroll
 
 #### Navy Higher Education Pilot Program Regarding Administration of Business Relationships Between Government and Private Sector
 
-Pub. L. 105–85, div. A, title XI, §1108, Nov. 18, 1997, 111 Stat. 1926, provided that:
-
-“(a)
-
-Pilot Project Authorized.—During fiscal years 1998 through 2002, the Secretary of the Navy may establish and conduct a pilot program of graduate-level higher education regarding the administration of business relationships between the Government and the private sector.
-
-“(b)
-
-Purpose.—The purpose of the pilot program is to make available to employees of the Naval Undersea Warfare Center, employees of the Naval Sea Systems Command, and employees of the Acquisition Center for Excellence of the Navy (upon establishment of such Acquisition Center), a curriculum of graduate-level higher education leading to the award of a graduate degree designed to prepare participants effectively to meet the challenges of administering Government contracting and other business relationships between the United States and private sector businesses in the context of constantly changing or newly emerging industries, technologies, governmental organizations, policies, and procedures (including governmental organizations, policies, and procedures recommended in the National Performance Review).
-
-“(c)
-
-Partnership With Institution of Higher Education.—(1) The Secretary of the Navy may enter into an agreement with an institution of higher education to assist the Naval Undersea Warfare Center with the development of the curriculum for the pilot program, to offer courses and provide instruction and materials to participants to the extent provided for in the agreement, to provide such other assistance in support of the program as may be provided for in the agreement, and to award a graduate degree under the program.
-
-“(2) To be eligible to enter into an agreement under paragraph (1), an institution of higher education must have an established program of graduate-level education that is relevant to the purpose of the pilot program.
-
-“(d)
-
-Curriculum.—The curriculum offered under the pilot program shall—
-
-&emsp;“(1) be designed specifically to achieve the purpose of the pilot program; and
-
-&emsp;“(2) include courses that are—
-
-&emsp;&emsp;“(A) typically offered under curricula leading to award of the degree of Master of Business Administration by institutions of higher education; and
-
-&emsp;&emsp;“(B) necessary for meeting educational qualification requirements for certification as an acquisition program manager.
-
-“(e)
-
-Distance Learning Option.—The Secretary of the Navy may include as part of the pilot program policies and procedures for offering distance learning instruction by means of telecommunications, correspondence, or other methods for off-site receipt of instruction.
-
-“(f)
-
-Report.—Not later than 90 days after the termination of the pilot program, the Secretary of the Navy shall submit to Congress a report containing—
-
-&emsp;“(1) an assessment by the Secretary of the value of the program for meeting the purpose of the program and the desirability of permanently establishing a similar program for other employees of the Department of Defense; and
-
-&emsp;“(2) such other information and recommendations regarding the program as the Secretary considers appropriate.
-
-“(g)
-
-Limitation on Funding Source.—Any funds required for the pilot program for a fiscal year shall be derived only from the appropriation ‘Operation and Maintenance, Navy’ for that fiscal year.”
+Pub. L. 105–85, div. A, title XI, §1108, Nov. 18, 1997, 111 Stat. 1926, authorized the Secretary of the Navy to establish and conduct a pilot program of graduate-level higher education regarding the administration of business relationships between the Government and the private sector during fiscal years 1998 through 2002, and required the Secretary of the Navy to submit to Congress a report not later than 90 days after the termination of the pilot program.
 
 #### Use of Naval Installations for Employment Training of Nonviolent Offenders in State Penal Systems
 
@@ -210,7 +168,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 “(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for the provision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
 
-&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
+&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training exceptto the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
 
 &emsp;“(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 

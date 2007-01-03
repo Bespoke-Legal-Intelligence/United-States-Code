@@ -46,7 +46,7 @@
 
 #### (4) Finality of orders
 
-&emsp;The order of the Secretary assessing a civil penalty shall be treated as a final order reviewable under chapter 158 of title 28. The validity of the Secretary's order may not be reviewed in an action to collect the civil penalty. Any civil penalty not paid in full when due under an order assessing the civil penalty shall thereafter accrue interest until paid at the rate of interest applicable to civil judgments of the courts of the United States.
+&emsp;The order of the Secretary assessing a civil penalty shall be treated as a final order reviewable under chapter 158 of title 28. The validity of the Secretary's order may not be reviewed in an action to collect the civil penalty. Any civil penalty not paid in full whendue under an order assessing the civil penalty shall thereafter accrue interest until paid at the rate of interest applicable to civil judgments of the courts of the United States.
 
 #### (c) Liability for acts of an agent
 

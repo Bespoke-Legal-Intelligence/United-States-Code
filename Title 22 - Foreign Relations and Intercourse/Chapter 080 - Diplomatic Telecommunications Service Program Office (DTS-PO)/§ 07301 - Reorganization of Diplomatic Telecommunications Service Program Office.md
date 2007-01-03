@@ -34,7 +34,7 @@ Improvement of DTS-PO.—In order for the DTS-PO to better manage a fully integr
 
 &emsp;“(2) not later than December 31, 1999, terminate all leases for satellite systems located at posts in criteria countries, unless all maintenance and servicing of the satellite system is undertaken by United States citizens who have received appropriate security clearances;
 
-&emsp;“(3) institute a system of charges for utilization of bandwidth by each agency beginning October 1, 2000, and institute a comprehensive chargeback system torecover all, or substantially all, of the other costs of telecommunications services provided through the Diplomatic Telecommunications Service to each agency beginning October 1, 2001;
+&emsp;“(3) institute a system of charges for utilization of bandwidth by each agency beginning October 1, 2000, and institute a comprehensive chargeback system to recover all, or substantially all, of the other costs of telecommunications services provided through the Diplomatic Telecommunications Service to each agency beginning October 1, 2001;
 
 &emsp;“(4) ensure that all DTS-PO policies and procedures comply with applicable policies established by the Overseas Security Policy Board; and
 

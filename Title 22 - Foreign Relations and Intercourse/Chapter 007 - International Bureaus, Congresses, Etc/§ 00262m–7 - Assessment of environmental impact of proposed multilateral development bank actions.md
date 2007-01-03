@@ -54,7 +54,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, the 
 
 #### (1) In general
 
-&emsp;The Secretary of the Treasury shall submit to the Committees on Foreign Relations and Environment and Public Works of the Senateand the Committee on Banking, Finance and Urban Affairs of the House of Representatives—
+&emsp;The Secretary of the Treasury shall submit to the Committees on Foreign Relations and Environment and Public Works of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives—
 
 &emsp;&emsp;(A) not later than the end of the 1-year period beginning on December 19, 1989, a progress report on the efficacy of efforts by the United States to encourage consistent and timely environmental impact assessment of actions proposed to be taken by the multilateral development banks and on the progress made by the multilateral development banks in developing and instituting environmental assessment policies and procedures; and
 

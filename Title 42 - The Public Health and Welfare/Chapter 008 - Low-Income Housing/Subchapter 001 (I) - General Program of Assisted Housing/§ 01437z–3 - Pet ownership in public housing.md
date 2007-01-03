@@ -2,7 +2,7 @@
 
 #### (a) Ownership conditions
 
-A resident of a dwelling unit in public housing (as such term is defined in subsection (c) of this section) may own 1 or more common household pets or have 1 or more common household pets present in the dwelling unit of such resident, subject to the reasonable requirements of the public housing agency, if the resident maintainseach pet responsibly and in accordance with applicable State and local public health, animal control, and animal anti-cruelty laws and regulations and with the policies established in the public housing agency plan for the agency.
+A resident of a dwelling unit in public housing (as such term is defined in subsection (c) of this section) may own 1 or more common household pets or have 1 or more common household pets present in the dwelling unit of such resident, subject to the reasonable requirements of the public housing agency, if the resident maintains each pet responsibly and in accordance with applicable State and local public health, animal control, and animal anti-cruelty laws and regulations and with the policies established in the public housing agency plan for the agency.
 
 #### (b) Reasonable requirements
 

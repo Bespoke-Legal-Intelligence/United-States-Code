@@ -90,7 +90,7 @@ To be eligible to receive a grant under section 1437aaa–2 of this title, a res
 
 &emsp;The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this subchapter.
 
-(Sept. 1, 1937, ch. 896, title III, §305, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104Stat. 4155; amended Pub. L. 105–276, title V, §519(c)(2), Oct. 21, 1998, 112 Stat. 2561.)
+(Sept. 1, 1937, ch. 896, title III, §305, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4155; amended Pub. L. 105–276, title V, §519(c)(2), Oct. 21, 1998, 112 Stat. 2561.)
 
 #### References in Text
 

@@ -44,7 +44,7 @@ July 12, 1976, Pub. L. 94–353, §21, 90 Stat. 884.
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-The words “and foster” in 49 App.:1346 are omitted as surplus. The words “In carrying out this section” are substituted for “In furtherance of his mandate to promote civil aviation” in 49 App.:1346a because of the restatement. The word “Administrator” is substituted for “Secretary of Transportation acting through the Administrator of the Federal Aviation Administration” for consistency with the source provisions restated in this section. The words “be designed so as to”, “various aspects of”, and “civil and” are omitted as surplus.
+The words “and foster” in 49 App.:1346 are omitted as surplus. The words “In carrying out this section” are substituted for “In furtherance of his mandate to promote civil aviation” in 49 App.:1346a because of the restatement. The word “Administrator” is substitutedfor “Secretary of Transportation acting through the Administrator of the Federal Aviation Administration” for consistency with the source provisions restated in this section. The words “be designed so as to”, “various aspects of”, and “civil and” are omitted as surplus.
 
 #### Pub. L. 103–429, §6(47)(A), (B)
 

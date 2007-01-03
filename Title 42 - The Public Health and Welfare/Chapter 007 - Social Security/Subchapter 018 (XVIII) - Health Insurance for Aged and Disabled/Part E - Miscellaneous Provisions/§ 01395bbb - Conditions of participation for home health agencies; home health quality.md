@@ -40,7 +40,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;(3)(A) The agency must not use as a home health aide (on a full-time, temporary, per diem, or other basis), any individual to provide items or services described in section 1395x(m) of this title on or after January 1, 1990, unless the individual—
 
-&emsp;&emsp;(i) has completed a training and competency evaluation program, or a competency evaluation program, that meets theminimum standards established by the Secretary under subparagraph (D), and
+&emsp;&emsp;(i) has completed a training and competency evaluation program, or a competency evaluation program, that meets the minimum standards established by the Secretary under subparagraph (D), and
 
 &emsp;&emsp;(ii) is competent to provide such items and services.
 
@@ -84,7 +84,7 @@ The conditions of participation that a home health agency is required to meet un
 
 #### (b) Duty of Secretary
 
-It is the duty and responsibility of the Secretary to assure that the conditions of participation and requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section and the enforcement of such conditions and requirements are adequate to protect the health and safety of individuals under the care of a home health agency and to promote the effective and efficient use of public moneys.
+It is the duty and responsibility of the Secretary to assure that the conditions of participation and requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section and the enforcement of such conditions and requirements are adequate to protect the health and safety of individuals underthe care of a home health agency and to promote the effective and efficient use of public moneys.
 
 #### (c) Surveys of home health agencies
 
@@ -134,7 +134,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (B) The Secretary shall periodically update the evaluation conducted under subparagraph (A), report the results of such update to Congress, and, based on such update, make such modifications in the assessment process as the Secretary determines are appropriate.
 
-(3) The Secretary shall provide for the comprehensive training of State and Federal surveyors in matters relating to the performance of standard and extended surveys under this section, including the use of any assessment instrument (or instruments) designated under paragraph (1).
+(3) The Secretary shall provide for the comprehensive training of State and Federal surveyorsin matters relating to the performance of standard and extended surveys under this section, including the use of any assessment instrument (or instruments) designated under paragraph (1).
 
 #### (e) Enforcement
 
@@ -176,13 +176,13 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (C) A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section.
 
-(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
+(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity ofeach of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
 
 #### (g) Payment on basis of location of service
 
 A home health agency shall submit claims for payment for home health services under this subchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b), 4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33,title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b), 4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### Amendments
 
@@ -244,7 +244,7 @@ Section 4207(i)(2), formerly 4027(i)(2), of Pub. L. 101–508, as renumbered and
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included inthe enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
@@ -254,7 +254,7 @@ Section 4023(b) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV,
 
 #### Effective Date
 
-Section applicable to home health agencies as of the first day of the 18th calendar month that begins after Dec. 22, 1987, except as otherwise provided, see section4021(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 1395x of this title.
+Section applicable to home health agencies as of the first day of the 18th calendar month that begins after Dec. 22, 1987, except as otherwise provided, see section 4021(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 1395x of this title.
 
 #### Treatment of Branch Offices; GAO Study on Supervision of Home Health Care Provided in Isolated Rural Areas
 

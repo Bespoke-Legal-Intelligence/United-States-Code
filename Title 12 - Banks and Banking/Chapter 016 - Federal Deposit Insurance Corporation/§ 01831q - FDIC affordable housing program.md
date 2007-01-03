@@ -8,7 +8,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (1) Duration of program
 
-&emsp;The provisions of this section shall be effective, subject to the provisions of paragraph (2), only during the 3-year period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A).
+&emsp;The provisions of this section shall be effective, subject to the provisions of paragraph (2),only during the 3-year period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A).
 
 #### (2) Annual fiscal limitations
 
@@ -58,7 +58,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;(B) public agencies or nonprofit organizations that agree to (i) make the property available for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
 
-> &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed or other recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
+> &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed or other recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sellthe property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
 
 #### (3) Recapture of profits from resale
 
@@ -94,7 +94,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (4) Offers by qualifying multifamily purchasers
 
-&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3)shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
+&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3) shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
 
 #### (5) Extension of restricted offer periods
 
@@ -150,13 +150,13 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (B) Financial infeasibility
 
-&emsp;&emsp;The Secretary or the State housing finance agency for the State in which an eligible multifamily housing property is located may temporarily reduce the low-income occupancy requirements under paragraph (7)applicable to the property, if the Secretary or such agency determines that an owner's compliance with such requirements is no longer financially feasible. The owner of the property shall make a good-faith effort to return low-income occupancy to the level required under paragraph (7), and the Secretary or the State housing finance agency, as appropriate, shall review the reduction annually to determine whether financial infeasibility continues to exist.
+&emsp;&emsp;The Secretary or the State housing finance agency for the State in which an eligible multifamily housing property is located may temporarily reduce the low-income occupancy requirements under paragraph (7) applicable to the property, if the Secretary or such agency determines that an owner's compliance with such requirements is no longer financially feasible. The owner of the property shall make a good-faith effort to return low-income occupancy to the level required under paragraph (7), and the Secretary or the State housing finance agency, as appropriate, shall review the reduction annually to determine whether financial infeasibility continues to exist.
 
 #### (e) Rent limitations
 
 #### (1) In general
 
-&emsp;With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for family size.
+&emsp;With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area,as determined by the Secretary, with adjustment for family size.
 
 #### (2) Applicability
 
@@ -322,11 +322,11 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property availablefor purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (B) Multiple-unit purchases
 
-&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii) made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii) made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause\(i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (C) Sale to other purchasers
 
@@ -380,7 +380,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;The agreement required under paragraph (1) shall provide a plan for—
 
-&emsp;&emsp;(A) a program unifying all activities and responsibilities of the Corporation and the Resolution Trust Corporation, and the design of the unified program shall take into consideration the substantial experience of the Resolution Trust Corporation regarding—
+&emsp;&emsp;(A) a program unifying all activities and responsibilities of the Corporation and theResolution Trust Corporation, and the design of the unified program shall take into consideration the substantial experience of the Resolution Trust Corporation regarding—
 
 &emsp;&emsp;&emsp;(i) seller financing;
 
@@ -544,7 +544,7 @@ For purposes of this section:
 
 &emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
-(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6,1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 

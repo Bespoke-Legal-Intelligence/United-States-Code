@@ -14,7 +14,7 @@ A contract entered into or a grant provided under this section shall be for a pe
 
 #### (d) Criteria for review and approval of applications
 
-Not later than 180 days after October 29, 1992, the Secretary, after consultation with Indiantribes and administrators of accredited tribally controlled community colleges, tribally controlled postsecondary vocational institutions, and eligible community colleges, shall develop and issue criteria for the review and approval of applications for funding (including applications for renewals of funding) under this section. Such criteria shall ensure that demonstration projects established under this section promote the development of the capacity of such entities to educate substance abuse counselors.
+Not later than 180 days after October 29, 1992, the Secretary, after consultation with Indian tribes and administrators of accredited tribally controlled community colleges, tribally controlled postsecondary vocational institutions, and eligible community colleges, shall develop and issue criteria for the review and approval of applications for funding (including applications for renewals of funding) under this section. Such criteria shall ensure that demonstration projects established under this section promote the development of the capacity of such entities to educate substance abuse counselors.
 
 #### (e) Assistance to recipients
 
@@ -52,7 +52,7 @@ For the purposes of this section, the following definitions apply:
 
 There are authorized to be appropriated for each of fiscal years 1996 through 2000,<sup>2</sup> such sums as may be necessary to carry out the purposes of this section. Such sums shall remain available until expended.
 
-(Pub. L. 94–437, title VII, §711, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4580; amended Pub. L. 104–313, §2(f), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–256, §13(a), Oct. 14, 1998, 112 Stat. 1900.)
+(Pub. L. 94–437, title VII, §711, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat.4580; amended Pub. L. 104–313, §2(f), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–256, §13(a), Oct. 14, 1998, 112 Stat. 1900.)
 
 #### References in Text
 

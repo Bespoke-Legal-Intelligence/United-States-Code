@@ -16,7 +16,7 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 &emsp;&emsp;(A) the cost to any financial institution involved in any such transaction;
 
-&emsp;&emsp;(B) the possibility of losses to the Bank Insurance Fund, the Savings Association Insurance Fund, or the National Credit Union Share Insurance Fund;
+&emsp;&emsp;(B) the possibility of losses to the Deposit Insurance Fund or the National Credit Union Share Insurance Fund;
 
 &emsp;&emsp;(C) the cost to any customer involved in any such transaction; and
 
@@ -24,19 +24,19 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 #### (2) Reports to Congress and the appropriate Federal financial institutions regulatory agencies
 
-&emsp;Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
+&emsp;Upon completing each of the studies referred to in paragraph (1), the Comptroller Generalshall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618.)
-
-#### Amendment of Subsection (c)(1)(B)
-
-<i>Pub. L. 109–173, §9(g)(2), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (c)(1)(B) of this section is amended by striking “Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “Deposit Insurance Fund”.</i>
+(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618.)
 
 #### Amendments
 
+2006—Subsec. (c)(1)(B). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(15)(B). See 1996 Amendment note below.
+
 1996—Subsec. (c)(1). Pub. L. 104–316, §106(g)(1)(A), (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
 
-Subsec. (c)(1)(B). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (c)(1)(B). Pub. L. 104–208, §2704(d)(15)(B), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (c)(2). Pub. L. 104–316, §106(g)(1)(B), substituted “referred to in” for “required under”.
 
@@ -50,7 +50,9 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 

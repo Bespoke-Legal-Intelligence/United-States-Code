@@ -6,7 +6,7 @@
 
 (b) The grade of a person receiving an appointment under this section who at the time of appointment (1) is credited with service under section 533 of this title, and (2) is not a commissioned officer of a reserve component shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited. The grade of a person receiving an appointment under this section who at the time of the appointment is a commissioned officer of a reserve component is determined under section 533(f) of this title.
 
-(c) Subject to the authority, direction, and control of the President, an original appointment as a commissioned officer in the Regular Army, Regular Air Force, Regular Navy, or Regular Marine Corps may be made by the Secretary concerned in the case of a reserve commissioned officer upon the transfer of such officer from the reserve active-status list of a reserve component of the armed forces to the active-duty list of an armed force, notwithstanding the requirements of subsection (a).
+(c) Subject to the authority, direction, and control of the President, an original appointment as a commissioned officer in the RegularArmy, Regular Air Force, Regular Navy, or Regular Marine Corps may be made by the Secretary concerned in the case of a reserve commissioned officer upon the transfer of such officer from the reserve active-status list of a reserve component of the armed forces to the active-duty list of an armed force, notwithstanding the requirements of subsection (a).
 
 (Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(a), July 10, 1981, 95 Stat. 124; Pub. L. 108–375, div. A, title V, §501(a)(4), (c)(5), Oct. 28, 2004, 118 Stat. 1873, 1874.)
 

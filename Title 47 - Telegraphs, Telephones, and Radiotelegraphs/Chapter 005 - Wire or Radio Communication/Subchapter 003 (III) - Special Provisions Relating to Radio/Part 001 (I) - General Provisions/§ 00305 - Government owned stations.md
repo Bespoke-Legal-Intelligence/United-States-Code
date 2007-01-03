@@ -50,7 +50,7 @@ There is hereby established in the Executive Office of the President the Office 
 
 (a) There shall be at the head of the Office the Director of the Office of Telecommunications Policy, hereinafter referred to as the Director. The Director shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314).
 
-(b) There shall be in the Office a Deputy Director of the Office of Telecommunications Policy who shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates (5 U.S.C. 5315). The Deputy Director shall perform such functions as the Director may from time to time prescribe and, unless the President shall designate another person to so act, shall act as Director during the absence or disability of the Director or in the event of vacancy in the office of Director.
+(b) There shall be in the Office a Deputy Director of the Office of Telecommunications Policy who shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates (5 U.S.C. 5315). The DeputyDirector shall perform such functions as the Director may from time to time prescribe and, unless the President shall designate another person to so act, shall act as Director during the absence or disability of the Director or in the event of vacancy in the office of Director.
 
 (c) No person shall while holding office as Director or Deputy Director engage in any other business, vocation, or employment.
 
@@ -96,7 +96,7 @@ The new Office of Telecommunications Policy would play three essential roles:
 
 3\. Finally, the new Office would enable the executive branch to speak with a clearer vote and to act as a more effective partner in discussions of communications policy with both the Congress and the Federal Communications Commission. This action would take away none of the prerogatives or functions assigned to the Federal Communications Commission by the Congress. It is my hope, however, that the new Office and the Federal Communications Commission would cooperate in achieving certain reforms in telecommunications policy, especially in their procedures for allocating portions of the radio spectrum for government and civilian use. Our current procedures must be more flexible if they are to deal adequately with problems such as the worsening spectrum shortage.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the government to the fullest extent practicable.”
+Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of thepublic business;” and section 901(a)(3), “to increase the efficiency of the operations of the government to the fullest extent practicable.”
 
 The reorganization provided for in this plan make necessary the appointment and compensation of new officers, as specified in sections 3(a) and 3(b) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the executive branch who have similar responsibilities.
 
@@ -164,7 +164,7 @@ Radio Frequencies
 
 Construction of Radio Stations
 
-2–201. The authority to authorize a foreign government to construct and operate a radio station at theseat of government of the United States was transferred to the Secretary of Commerce. Authorization for the construction and operation of a radio station pursuant to this authority and the assignment of a frequency for its use can be made only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Federal Communications Commission.
+2–201. The authority to authorize a foreign government to construct and operate a radio station at the seat of government of the United States was transferred to the Secretary of Commerce. Authorization for the construction and operation of a radio station pursuant to this authority and the assignment of a frequency for its use can be made only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Federal Communications Commission.
 
 2–202. This authority, which was originally vested in the President by Section 305(d) of the Communications Act of 1934, as amended (47 U.S.C. 305), was delegated to the Director of the Office of Telecommunications Policy by Section 5 of Executive Order No. 11556.
 
@@ -230,7 +230,7 @@ Certain functions assigned, subject to the authority and control of the Presiden
 
 Consultation Responsibilities
 
-2–501. The authority to establish coordinating committees, as assigned to the Director of the Office ofTelecommunications Policy by Section 10 of Executive Order No. 11556, was transferred to the Secretary of Commerce.
+2–501. The authority to establish coordinating committees, as assigned to the Director of the Office of Telecommunications Policy by Section 10 of Executive Order No. 11556, was transferred to the Secretary of Commerce.
 
 2–502. As permitted by law, the Secretary of Commerce shall establish such interagency committees and working groups composed of representatives of interested agencies, and shall consult with such departments and agencies as may be necessary for the most effective performance of his functions. To the extent he deems it necessary to continue the Interdepartment Radio Advisory Committee, that Committee shall serve in an advisory capacity to the Secretary. As permitted by law, the Secretary also shall establish one or more telecommunications advisory committees composed of experts in the telecommunications area outside the Government.
 
@@ -312,7 +312,7 @@ Department of State
 
 (a) Exercise the supervision provided for in Section 201(a)(4) of the Communications Satellite Act of 1962, as amended (47 U.S.C. 721(a)(4)), be responsible, although the Secretary of Commerce is the chief point of liaison, for instructing the Communications Satellite Corporation in its role as the designated United States representative to the International Telecommunications Satellite Organization; and direct the foreign relations of the United States with respect to actions under the Communications Satellite Act of 1962, as amended \[section 701 et seq. of this title\].
 
-(b) Coordinate, in accordance with the applicable interagency agreements, the performance of these functions with the Secretary of Commerce, the Federal Communications Commission, other concerned Executive agencies, and the Communications Satellite Corporation (see 47 U.S.C. 731–735). The Corporation and other concerned Executive agencies shall provide the Secretary of State with such assistance, documents,and other cooperation as will enable the Secretary to carry out these functions.
+(b) Coordinate, in accordance with the applicable interagency agreements, the performance of these functions with the Secretary of Commerce, the Federal Communications Commission, other concerned Executive agencies, and the Communications Satellite Corporation (see 47 U.S.C. 731–735). The Corporation and other concerned Executive agencies shall provide the Secretary of State with such assistance, documents, and other cooperation as will enable the Secretary to carry out these functions.
 
 #### 5–3.
 
@@ -340,7 +340,7 @@ Amendments
 
 In order to reflect the transfers provided by this Order, the following conforming amendments and revocations are ordered:
 
-6–201. Section 306 of Executive Order No. 11051, as amended \[50 App. U.S.C. 2271 note\], is further amended to read:
+6–201. Section 306 of Executive Order No. 11051, as amended \[50 U.S.C. App. 2271 note\], is further amended to read:
 
 “Sec. 306. <i>Emergency telecommunications</i>. The Administrator of General Services shall be responsible for coordinating with the National Security Council in planning for the mobilization of the Nation's telecommunications resources in time of national emergency.”.
 
@@ -350,7 +350,7 @@ In order to reflect the transfers provided by this Order, the following conformi
 
 (2) substituting the number of this Order for “11556” and deleting references to Executive Order No. 10705 \[47 U.S.C. 606 note\] in Sections 1802 and 2002(3).
 
-6–203. Executive Order No. 11725, as amended \[50 App. U.S.C. 2271 note\], is further amended by substituting the number and date of this Order for the reference to Executive Order No. 11556 of September 4, 1970 in Section 3(16).
+6–203. Executive Order No. 11725, as amended \[50 U.S.C. App. 2271 note\], is further amended by substituting the number and date of this Order for the reference to Executive Order No. 11556 of September 4, 1970 in Section 3(16).
 
 6–204. Executive Orders No. 10705, as amended \[47 U.S.C. 606 note\], No. 11191, as amended \[47 U.S.C. 721 note\] and No. 11556, as amended, are revoked.
 

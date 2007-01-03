@@ -28,7 +28,7 @@ In conducting such study, the Secretary shall consider at least the following fa
 
 #### (c) Comments and findings by Secretary of Energy
 
-The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and onthe Nation's security which may result from the requirement described in subsection (a) of this section as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
+The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and on the Nation's security which may result from the requirement described in subsection (a) of this section as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
 
 &emsp;(1) the savings in energy costs resulting from the requirement described in subsection (a) of this section throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
 

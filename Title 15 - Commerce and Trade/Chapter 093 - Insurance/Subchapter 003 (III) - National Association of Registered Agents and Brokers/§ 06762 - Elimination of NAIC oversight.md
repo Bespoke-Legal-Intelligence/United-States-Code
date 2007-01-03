@@ -20,7 +20,7 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (A) Initial determination and recommendations
 
-&emsp;&emsp;After the date on which the provisions of subsection (a) of this section take effect, theNAIC shall, not later than 60 days thereafter, provide a list of recommended candidates to the President. If the NAIC fails to provide a list by that date, or if any list that is provided does not include at least 14 recommended candidates or comply with the requirements of section 6756(c) of this title, the President shall, with the advice and consent of the Senate, make the requisite appointments without considering the views of the NAIC.
+&emsp;&emsp;After the date on which the provisions of subsection (a) of this section take effect, the NAIC shall, not later than 60 days thereafter, provide a list of recommended candidates to the President. If the NAIC fails to provide a list by that date, or if any list that is provided does not include at least 14 recommended candidates or comply with the requirements of section 6756(c) of this title, the President shall, with the advice and consent of the Senate, make the requisite appointments without considering the views of the NAIC.
 
 #### (B) Subsequent appointments
 

@@ -6,11 +6,17 @@
 
 (c) The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-(d) The program under this section shall terminate on December 31, 2006.
+(d) The program under this section shall terminate on December 31, 2011.
 
-(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919.)
+(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 andamended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468.)
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §704(b), substituted “December 31, 2011” for “December 31, 2006”.
+
+Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2001—Pub. L. 107–95, §5(b)(1), renumbered section 1773 of this title as this section.
 

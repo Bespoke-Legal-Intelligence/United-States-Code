@@ -12,7 +12,7 @@ Except as provided in sections 164 and 165 of this title, amounts which the Secr
 
 This chapter may be cited as the “Indian Tribal Judgment Funds Use or Distribution Act”.
 
-(Pub. L. 93–134, §1, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, §160(a)(1), Apr. 2, 1982, 96 Stat.48; Pub. L. 100–153, §4, Nov. 5, 1987, 101 Stat. 886; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 93–134, §1, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, §160(a)(1), Apr. 2, 1982, 96 Stat. 48; Pub. L. 100–153, §4, Nov. 5, 1987, 101 Stat. 886; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### References in Text
 

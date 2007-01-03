@@ -84,5 +84,5 @@ This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 #### Delegation of Functions
 
-Functions of President under subsec. (e) of this section delegated to Secretary of Department in which Coast Guard is operating by section 7(c)(2) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54767, set out as a note under section 1321 of this title.
+Functions of President under subsec. (e) of this section delegated to Secretary of Department in whichCoast Guard is operating by section 7(c)(2) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54767, set out as a note under section 1321 of this title.
 

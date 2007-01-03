@@ -30,13 +30,37 @@ Within 2 years after October 11, 1996, the Secretary shall submit to the Congres
 
 The advisory panel established under this section shall be deemed an advisory panel under section 1852(g) of this title.
 
-(Pub. L. 94–265, title IV, §406, Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–354, §1, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–61, §1, Aug. 15, 1979, 93 Stat. 407; Pub. L. 97–453, §14(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §111(a), Nov. 14, 1986, 100 Stat. 3715; Pub. L. 101–627, title I, §119, Nov. 28, 1990, 104 Stat. 4459; Pub. L. 104–297, title II, §207(a), Oct. 11, 1996, 110 Stat. 3612.)
+#### (f) Regional ecosystem research
+
+#### (1) Study
+
+&emsp;Within 180 days after January 12, 2007, the Secretary, in consultation with the Councils, shall undertake and complete a study on the state of the science for advancing the concepts and integration of ecosystem considerations in regional fishery management. The study should build upon the recommendations of the advisory panel and include—
+
+&emsp;&emsp;(A) recommendations for scientific data, information and technology requirements for understanding ecosystem processes, and methods for integrating such information from a variety of federal,<sup>1</sup> state,<sup>1</sup> and regional sources;
+
+&emsp;&emsp;(B) recommendations for processes for incorporating broad stake holder participation;
+
+&emsp;&emsp;(C) recommendations for processes to account for effects of environmental variation on fish stocks and fisheries; and
+
+&emsp;&emsp;(D) a description of existing and developing council efforts to implement ecosystem approaches, including lessons learned by the councils.
+
+#### (2) Agency technical advice and assistance, regional pilot programs
+
+&emsp;The Secretary is authorized to provide necessary technical advice and assistance, including grants, to the Councils for the development and design of regional pilot programs that build upon the recommendations of the advisory panel and, when completed, the study.
+
+(Pub. L. 94–265, title IV, §406, Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–354, §1, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–61, §1, Aug. 15, 1979, 93 Stat. 407; Pub. L. 97–453, §14(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §111(a), Nov. 14, 1986, 100 Stat. 3715; Pub. L. 101–627, title I, §119, Nov. 28, 1990, 104 Stat. 4459; Pub. L. 104–297, title II, §207(a), Oct. 11, 1996, 110 Stat. 3612; Pub. L. 109–479, title II, §210, Jan. 12, 2007, 120 Stat. 3617.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Codification
 
 October 11, 1996, referred to in subsec. (d), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–297, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 109–479 added subsec. (f).
 
 1996—Pub. L. 104–297 amended section catchline and text generally. Prior to amendment, section authorized appropriations to carry out this chapter for fiscal year ending June 30, 1976 to fiscal year ending September 30, 1993.
 
@@ -49,4 +73,6 @@ October 11, 1996, referred to in subsec. (d), was in the original “the date of
 1979—Pars. (6) to (8). Pub. L. 96–61 added pars. (6) to (8).
 
 1978—Par. (5). Pub. L. 95–354 added par. (5).
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

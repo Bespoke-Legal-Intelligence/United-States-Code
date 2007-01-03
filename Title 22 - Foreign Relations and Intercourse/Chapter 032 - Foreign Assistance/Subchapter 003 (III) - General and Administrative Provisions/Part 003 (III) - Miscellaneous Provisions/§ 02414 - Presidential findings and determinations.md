@@ -14,7 +14,7 @@ Each such finding or determination shall be published in the Federal Register as
 
 #### (d) Information accessible to Congress prior to transmission of report
 
-No committee or officer of either House of Congress shall be denied any requested information relating to any finding or determination which the President is required to report to theCongress, or to any committee or officer of either House of Congress, under any provision of this chapter, the Foreign Military Sales Act \[22 U.S.C. 2751 et seq.\], or the Foreign Assistance and Related Programs Appropriation Act for each fiscal year, even though such report has not yet been transmitted to the appropriate committee or officer of either House of Congress.
+No committee or officer of either House of Congress shall be denied any requested information relating to any finding or determination which the President is required to report to the Congress, or to any committee or officer of either House of Congress, under any provision of this chapter, the Foreign Military Sales Act \[22 U.S.C. 2751 et seq.\], or the Foreign Assistance and Related Programs Appropriation Act for each fiscal year, even though such report has not yet been transmitted to the appropriate committee or officer of either House of Congress.
 
 (Pub. L. 87–195, pt. III, §654, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 29.)
 

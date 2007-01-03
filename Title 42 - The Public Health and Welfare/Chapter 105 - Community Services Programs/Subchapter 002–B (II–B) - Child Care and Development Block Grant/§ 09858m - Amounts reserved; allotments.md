@@ -98,7 +98,7 @@
 
 #### (B) Determination
 
-&emsp;&emsp;With respect to a request submitted under subparagraph (A), and except as provided in subparagraph (C), upon a determination by the Secretary that adequate facilities are not otherwise available to an Indian tribe or tribal organization to enable such tribe or organization to carry out child care programs in accordance with this subchapter, and that the lack of such facilities will inhibit the operation of such programs in the future, the Secretary may permit the tribe or organization to use assistance provided under this subsection to make payments for the construction or renovation of facilities that will be used to carry out such programs.
+&emsp;&emsp;With respect to a request submitted under subparagraph (A), and except as provided in subparagraph (C), upon a determination by the Secretary that adequate facilities are not otherwise available to an Indian tribe ortribal organization to enable such tribe or organization to carry out child care programs in accordance with this subchapter, and that the lack of such facilities will inhibit the operation of such programs in the future, the Secretary may permit the tribe or organization to use assistance provided under this subsection to make payments for the construction or renovation of facilities that will be used to carry out such programs.
 
 #### (C) Limitation
 
@@ -144,7 +144,7 @@ For the purposes of this section, the term “State” includes only the 50 Stat
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281,60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
 

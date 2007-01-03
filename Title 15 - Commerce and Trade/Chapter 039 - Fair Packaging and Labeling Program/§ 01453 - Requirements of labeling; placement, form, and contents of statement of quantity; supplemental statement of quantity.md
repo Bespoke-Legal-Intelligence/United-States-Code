@@ -42,7 +42,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 Subsec. (a)(2). Pub. L. 102–329, §1(1), (3), substituted “weight or mass” for “weight” and inserted before semicolon at end “, using the most appropriate units of both the customary inch/pound system of measure, as provided in paragraph (3) of this subsection, and, except as provided in paragraph (3)(A)(ii) or paragraph (6) of this subsection, the SI metric system”.
 
-Subsec. (a)(3)(A)(i). Pub. L. 102–329, §1(4)(A), substituted “labeled in terms of weight, shall be expressed in pounds” for “containing less than four pounds or one gallon and labeled in terms of weight or fluid measure, shall, unless subparagraph (ii) applies and such statement is set forth in accordance with such subparagraph, be expressed both in ounces (with identification as to avoirdupois or fluid ounces) and, if applicable, in pounds for weight units”.
+Subsec. (a)(3)(A)(i). Pub. L. 102–329, §1(4)(A), substituted “labeled in terms of weight, shall be expressedin pounds” for “containing less than four pounds or one gallon and labeled in terms of weight or fluid measure, shall, unless subparagraph (ii) applies and such statement is set forth in accordance with such subparagraph, be expressed both in ounces (with identification as to avoirdupois or fluid ounces) and, if applicable, in pounds for weight units”.
 
 Subsec. (a)(3)(A)(ii). Pub. L. 102–329, §1(4)(B), (C), substituted “three” for “two” and inserted before semicolon at end “and is not required to, but may, include a statement in terms of the SI metric system carried out to not more than three decimal places”.
 

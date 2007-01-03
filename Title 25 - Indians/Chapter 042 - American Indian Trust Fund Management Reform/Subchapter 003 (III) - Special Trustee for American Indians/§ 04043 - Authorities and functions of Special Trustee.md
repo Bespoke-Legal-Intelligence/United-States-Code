@@ -20,13 +20,13 @@
 
 #### (1) General oversight of reform efforts
 
-&emsp;The Special Trustee shall oversee all reform efforts within the Bureau, the Bureau of Land Management, and the Minerals Management Service relating to the trust responsibilities of the Secretary to ensure the establishment of policies, procedures, systems and practices to allow the Secretary to discharge his trust responsibilities in compliance with this chapter.
+&emsp;The Special Trustee shall oversee all reform efforts within the Bureau, the Bureau of Land Management, and the Minerals Management Service relating to the trust responsibilities ofthe Secretary to ensure the establishment of policies, procedures, systems and practices to allow the Secretary to discharge his trust responsibilities in compliance with this chapter.
 
 #### (2) Bureau of Indian Affairs
 
 #### (A) Monitor reconciliation of trust accounts
 
-&emsp;&emsp;The Special Trustee shall monitor the reconciliation of tribal and Individual Indian Money trust accounts to ensure that the Bureau provides the account holders, with afair and accurate accounting of all trust accounts.
+&emsp;&emsp;The Special Trustee shall monitor the reconciliation of tribal and Individual Indian Money trust accounts to ensure that the Bureau provides the account holders, with a fair and accurate accounting of all trust accounts.
 
 #### (B) Investments
 
@@ -190,7 +190,7 @@ Duties.—The Commission shall analyze the system of the Bureau of Indian Affair
 
 “(e)
 
-Report.—Not later than the date of the termination of the Commission under subsection (h), the Commission shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate describing the analysis and determinations made pursuant to subsection (d).
+Report.—Not later than the date of the termination of the Commission under subsection (h), theCommission shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate describing the analysis and determinations made pursuant to subsection (d).
 
 “(f)
 
@@ -198,7 +198,7 @@ Powers.—
 
 &emsp;“(1)
 
-Hearings and sessions.—The Commission may, for the purpose of carrying out this section,hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
 
 &emsp;“(2)
 

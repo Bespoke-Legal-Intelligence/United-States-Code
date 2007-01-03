@@ -112,7 +112,7 @@ An eligible partnership shall use funds provided under this part for one or more
 
 &emsp;(9) Designing programs to identify and develop exemplary mathematics and science teachers in the kindergarten through grade 8 classrooms.
 
-&emsp;(10) Training mathematics and science teachers and developing programs to encourage young women and other underrepresented individuals in mathematics and science careers (including engineering and technology) to pursue postsecondary degrees in majors leading to such careers.
+&emsp;(10) Training mathematics and science teachers and developing programs to encourage young women and other underrepresented individuals in mathematics and science careers (including engineering and technology)to pursue postsecondary degrees in majors leading to such careers.
 
 #### (d) Coordination and consultation
 

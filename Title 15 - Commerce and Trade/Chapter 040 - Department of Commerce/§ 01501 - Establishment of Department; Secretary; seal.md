@@ -76,7 +76,7 @@ Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 S
 
 #### Ex. Ord. No. 13339. Increasing Economic Opportunity and Business Participation of Asian Americans and Pacific Islanders
 
-Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, provided:
+Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, §3, May 12, 2006, 71 F.R. 28543, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and for the purpose of providing equal economic opportunities for full participation of Asian American and Pacific Islander businesses in our free market economy where they may be underserved and thus improving the quality of life for Asian Americans and Pacific Islanders, it is hereby ordered as follows:
 
@@ -112,9 +112,9 @@ Sec. 7. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.
 
 Sec. 8. Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including <i>per diem</i> in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). To the extent permitted by law and appropriations, and where practicable, executive departments and agencies shall, upon request by the Secretary, provide assistance to the Commission and to the Working Group, and the Department of Commerce shall provide administrative support and funding for the Commission.
 
-Sec. 9. The Commission shall terminate 2 years from the date of this order, unless renewed by the President.
+Sec. 9. The Commission shall terminate May 13, 2007, unless extended beyond that date by the President.
 
-Sec. 10. For the purposes of this order, the term: (a) “Asian” includes persons having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent; and the term (b) “Pacific Islander” includes persons having origins in any of theoriginal peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+Sec. 10. For the purposes of this order, the term: (a) “Asian” includes persons having origins in any of the original peoples of the Far East, Southeast Asia, or theIndian subcontinent; and the term (b) “Pacific Islander” includes persons having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
 
 Sec. 11. The Secretary of Commerce shall consult the Attorney General as appropriate on the implementation of this order to ensure that such implementation affords the equal protection of the laws required by the due process clause of the Fifth Amendment to the Constitution.
 

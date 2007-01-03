@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Acquire Land.—The National Capitol Planning Commission shall acquire land the Planning Commission believes is necessary and desirable in the District of Columbia and adjacent areas in Maryland and Virginia for suitable development of the NationalCapital park, parkway, and playground system. The acquisition must be within the limits of the appropriations made for those purposes. The Planning Commission shall request the advice of the Commission of Fine Arts in selecting land to be acquired.
+Authority To Acquire Land.—The National Capitol Planning Commission shall acquire land the Planning Commission believes is necessary and desirable in the District of Columbia and adjacent areas in Maryland and Virginia for suitable development of the National Capital park, parkway, and playground system. The acquisition must be within the limits of the appropriations made for those purposes. The Planning Commission shall request the advice of the Commission of Fine Arts in selecting land to be acquired.
 
 (b)
 
@@ -14,7 +14,7 @@ Purchase or condemnation proceeding.—The National Capital Planning Commission 
 
 &emsp;(2)
 
-Land in the district of columbia.—A condemnation proceeding to acquire land in the District of Columbia shall be conducted in accordance with section 1 of the Act of December 23, 1963 (Public Law 88–241, 77 Stat. 571).
+Land in the district of columbia.—A condemnation proceeding to acquire land in the District of Columbia shall be conducted inaccordance with section 1 of the Act of December 23, 1963 (Public Law 88–241, 77 Stat. 571).
 
 &emsp;(3)
 

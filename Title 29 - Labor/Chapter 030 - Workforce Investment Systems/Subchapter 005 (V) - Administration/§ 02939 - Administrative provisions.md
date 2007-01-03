@@ -38,7 +38,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall have no
 
 #### (A) Program year
 
-&emsp;&emsp;Except as provided in subparagraph (B), appropriations for any fiscal year for programs and activities carried out under this chapter shall be available for obligation only on the basis of a program year. The program year shall begin on July 1 in the fiscal year for which the appropriation is made.
+&emsp;&emsp;Except as provided in subparagraph (B) and section 2918a of this title, appropriations for any fiscal year for programs and activities carried out under this chapter shall be available for obligation only on the basis of a program year. The program year shall begin on July 1 in the fiscal year for which the appropriation is made.
 
 #### (B) Youth activities
 
@@ -70,7 +70,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (A) General authority
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a requestsubmitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a request submitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of subchapter II of this chapter or this subchapter (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights, participation and protection of workers and participants, grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, and procedures for review and approval of plans); and
 
@@ -98,7 +98,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 &emsp;&emsp;&emsp;(ii) the State has executed a memorandum of understanding with the Secretary requiring such State to meet, or ensure that the local area meets, agreed-upon outcomes and to implement other appropriate measures to ensure accountability.
 
-(Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–281, §2(c), Sept. 22, 2006, 120 Stat. 1181.)
 
 #### References in Text
 
@@ -114,5 +114,11 @@ Provisions similar to this section were contained in sections 1504, 1571, and 15
 
 #### Amendments
 
+2006—Subsec. (g)(1)(A). Pub. L. 109–281 inserted “and section 2918a of this title” after “Except as provided in subparagraph (B)”.
+
 1998—Subsec. (i)(1). Pub. L. 105–277 substituted “1998 (Public Law 105–78; 111 Stat. 1467)” for “1997 (Public Law 104–208; 110 Stat. 3009–234)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–281 effective Sept. 22, 2006, see section 2(f) of Pub. L. 109–281, set out as a note under section 1701u of Title 12, Banks and Banking.
 

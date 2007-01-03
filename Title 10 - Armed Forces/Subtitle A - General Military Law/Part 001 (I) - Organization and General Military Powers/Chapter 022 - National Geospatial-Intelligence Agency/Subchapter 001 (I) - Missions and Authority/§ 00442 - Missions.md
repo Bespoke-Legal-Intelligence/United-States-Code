@@ -14,7 +14,7 @@ National Security Missions.—(1) The National Geospatial-Intelligence Agency sh
 
 (b)
 
-Navigation Information.—The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and themerchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
+Navigation Information.—The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and the merchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
 
 (c)
 

@@ -6,7 +6,7 @@ The Governors of the various States may establish Regional Energy Advisory Board
 
 #### (b) Observers
 
-Representatives of the Secretary, the Secretary of Commerce, the Secretary of the Interior, the Chairman of the Council on Environmental Quality, the Commandant of the Coast Guard and the Administrator of the Environmental Protection Agency shall be entitled to participate as observers in the deliberations of any Board established pursuant to subsection (a) of this section. The Federal Cochairman of the Appalachian Regional Commission or any regional commission under title V of the Public Works and Economic Development Act \[42 U.S.C. 3181 et seq.\] shall be entitled to participate as an observer in the deliberations of any such Board which contains one or more States which are members of such Commission.
+Representatives of the Secretary, the Secretary of Commerce, the Secretary of the Interior, the Chairman of the Council on Environmental Quality, the Commandant of the Coast Guard and the Administrator of the Environmental Protection Agency shall be entitled to participate as observers in the deliberations of any Board established pursuant to subsection (a) of this section. The Federal Cochairman of the Appalachian Regional Commission or any regional commission under title V of the Public Works and Economic Development Act \[42U.S.C. 3181 et seq.\] shall be entitled to participate as an observer in the deliberations of any such Board which contains one or more States which are members of such Commission.
 
 #### (c) Recommendations of Board
 
@@ -24,5 +24,5 @@ The Public Works and Economic Development Act, referred to in subsec. (b), is Pu
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

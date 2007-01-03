@@ -8,7 +8,7 @@
 
 &emsp;(3) makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry;
 
-> shall be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both.
+> shall be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both. If the matter relates to an offense under chapter 109A, 109B, 110, or 117, or section 1591, then the term of imprisonment imposed under this section shall be not more than 8 years.
 
 (b) Subsection (a) does not apply to a party to a judicial proceeding, or that party's counsel, for statements, representations, writings or documents submitted by such party or counsel to a judge or magistrate in that proceeding.
 
@@ -18,7 +18,7 @@
 
 &emsp;(2) any investigation or review, conducted pursuant to the authority of any committee, subcommittee, commission or office of the Congress, consistent with applicable rules of the House or Senate.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–292, §2, Oct. 11, 1996, 110 Stat. 3459; Pub. L. 108–458, title VI, §6703(a), Dec. 17, 2004, 118 Stat. 3766.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–292, §2, Oct. 11, 1996, 110 Stat. 3459; Pub. L. 108–458, title VI, §6703(a), Dec. 17, 2004, 118 Stat. 3766; Pub. L. 109–248, title I, §141(c), July 27, 2006, 120 Stat. 603.)
 
 #### Historical and Revision Notes
 
@@ -36,9 +36,11 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–248 inserted last sentence in concluding provisions.
+
 2004—Subsec. (a). Pub. L. 108–458 substituted “be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both” for “be fined under this title or imprisoned not more than 5 years, or both” in concluding provisions.
 
-1996—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.”
+1996—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious orfraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.”
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 

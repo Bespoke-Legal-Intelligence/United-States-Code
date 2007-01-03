@@ -6,7 +6,7 @@ A contract made with a private counsel under section 4241 of this title shall in
 
 &emsp;(2) a provision requiring private counsel to transmit monthly to the Attorney General a report on the services relating to matters handled pursuant to the contract during the preceding month and the progress made during that period; and
 
-&emsp;(3) a provision requiring that the initiation, settlement, dismissal, or compromise of aclaim be approved by a duly appointed officer of the United States.
+&emsp;(3) a provision requiring that the initiation, settlement, dismissal, or compromise of a claim be approved by a duly appointed officer of the United States.
 
 (Pub. L. 101–647, title XXV, §2591, Nov. 29, 1990, 104 Stat. 4906.)
 

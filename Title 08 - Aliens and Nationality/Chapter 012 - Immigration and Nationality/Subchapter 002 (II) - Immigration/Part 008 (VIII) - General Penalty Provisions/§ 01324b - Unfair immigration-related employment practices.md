@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) a person or other entity that employs three or fewer employees,
 
-&emsp;&emsp;(B) a person's or entity's discrimination because of an individual's national origin ifthe discrimination with respect to that person or entity and that individual is covered under section 703 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–2\], or
+&emsp;&emsp;(B) a person's or entity's discrimination because of an individual's national origin if the discrimination with respect to that person or entity and that individual is covered under section 703 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–2\], or
 
 &emsp;&emsp;(C) discrimination because of citizenship status which is otherwise required in order to comply with law, regulation, or executive order, or required by Federal, State, or local government contract, or which the Attorney General determines to be essential for an employer to do business with an agency or department of the Federal, State, or local government.
 
@@ -48,7 +48,7 @@
 
 #### (2) No overlap with EEOC complaints
 
-&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
+&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section ifa charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
 
 #### (c) Special Counsel
 
@@ -174,7 +174,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (1) In general
 
-&emsp;If an order of the agency is not appealed under subsection (i)(1) of this section, the Special Counsel (or, if the Special Counsel fails toact, the person filing the charge) may petition the United States district court for the district in which a violation of the order is alleged to have occurred, or in which the respondent resides or transacts business, for the enforcement of the order of the administrative law judge, by filing in such court a written petition praying that such order be enforced.
+&emsp;If an order of the agency is not appealed under subsection (i)(1) of this section, the Special Counsel (or, if the Special Counsel fails to act, the person filing the charge) may petition the United States district court for the district in which a violation of the order is alleged to have occurred, or in which the respondent resides or transacts business, for the enforcement of the order of the administrative law judge, by filing in such court a written petition praying that such order be enforced.
 
 #### (2) Court enforcement order
 
@@ -216,7 +216,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 (3) There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year (beginning with fiscal year 1991).
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Pub. L. 99–603, title I, §102(a), Nov. 6, 1986, 100 Stat. 3374; amended Pub. L. 100–525, §2(b), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, 104 Stat. 5054–5056; Pub. L. 102–232, title III, §306(b)(1), (3), (c)(1), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(q), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), Sept. 30, 1996, 110 Stat. 3009–670, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Pub. L. 99–603, title I, §102(a), Nov. 6, 1986, 100 Stat. 3374; amended Pub. L. 100–525, §2(b), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, 104 Stat. 5054–5056; Pub. L.102–232, title III, §306(b)(1), (3), (c)(1), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(q), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), Sept. 30, 1996, 110 Stat. 3009–670, 3009–723.)
 
 #### References in Text
 

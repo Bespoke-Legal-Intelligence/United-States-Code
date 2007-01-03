@@ -188,7 +188,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe is in compliance with the approved tribal energy resource agreement; or
 
-&emsp;(II) rescinding approval of all or part of the tribal energy resource agreement, and if all of the agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a) or (b).
+&emsp;(II) rescinding approval of all or part of the tribal energy resource agreement, and if all ofthe agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a) or (b).
 
 (E) Before taking an action described in subparagraph (D)(iii), the Secretary shall—
 

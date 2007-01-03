@@ -28,7 +28,7 @@ Procedures and Considerations.—(1) A regulation under this section shall be pr
 
 (d)
 
-Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984, shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
+Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984,shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
 
 (e)
 
@@ -140,7 +140,7 @@ Exemptions.—
 
 &emsp;“(1)
 
-Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies.
+Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers usedby motor carriers shall not apply during planting and harvest periods, as determined by each State, to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies.
 
 &emsp;“(2)
 
@@ -226,7 +226,7 @@ Emergency Condition Requiring Immediate Response.—
 
 &emsp;“(1)
 
-Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response.
+Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49,United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response.
 
 &emsp;“(2)
 
@@ -242,7 +242,7 @@ Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided th
 
 #### Improved Interstate School Bus Safety
 
-Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii),Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
+Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
 
 #### Federal Highway Administration Rulemaking
 
@@ -288,7 +288,7 @@ Approval Criteria.—The Secretary shall select States to participate in the pil
 
 “(c)
 
-Participation in Program.—Upon approval of an application of a State under this section, the Secretary shall permit the State to participate in the pilot program for an initial period of 15 days during the winter heating season of the State (as determined by the Governor and the Secretary). If, after the last day of such 15-day period, the Secretary finds that a State's continued participation in the program is consistent with this section and has resulted in no significant adverse impact on public safety and is in the public interest, the Secretary shall extend the State's participation in the program for periods of up to 30 additional days during such heating season.
+Participation in Program.—Upon approval of an application of a State under this section, the Secretaryshall permit the State to participate in the pilot program for an initial period of 15 days during the winter heating season of the State (as determined by the Governor and the Secretary). If, after the last day of such 15-day period, the Secretary finds that a State's continued participation in the program is consistent with this section and has resulted in no significant adverse impact on public safety and is in the public interest, the Secretary shall extend the State's participation in the program for periods of up to 30 additional days during such heating season.
 
 “(d)
 

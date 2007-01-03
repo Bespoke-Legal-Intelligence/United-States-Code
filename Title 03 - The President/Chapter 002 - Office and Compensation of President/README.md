@@ -398,7 +398,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 Section 1. (a) The transfer of all functions of the Domestic Council, as provided by Section 5D of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), is hereby effective.
 
-(b) The redesignation of the Domestic Council Staff as the Domestic Policy Staff and the other provisions of Section 1 of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), are hereby effective.
+(b) The redesignation of the Domestic Council Staff as the Domestic Policy Staff and the other provisionsof Section 1 of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), are hereby effective.
 
 (c) The abolition of the Domestic Council, as provided by Section 3A of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), is hereby effective.
 

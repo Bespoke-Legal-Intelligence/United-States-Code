@@ -24,7 +24,7 @@ The Congress finds the following:
 
 &emsp;(11) The human rights record of the People's Republic of China is a matter of very serious concern to the Congress. The Congress notes that the Department of State's 1999 Country Reports on Human Rights Practices for the People's Republic of China finds that “\[t\]he Government's poor human rights record deteriorated markedly throughout the year, as the Government intensified efforts to suppress dissent, particularly organized dissent.”.
 
-&emsp;(12) The Congress deplores violations by the Government of the People's Republic of China of human rights, religious freedoms, and worker rights that are referred to in the Department of State's 1999 Country Reports on Human Rights Practices for the People's Republic of China, including the banning of the Falun Gong spiritual movement, denial in many cases, particularly politically sensitive ones, of effective representation by counsel and public trials, extrajudicial killings and torture, forced abortion and sterilization, restriction of access to Tibet and Xinjiang, perpetuation of “reeducation through labor”, denial of the right of workers to organize laborunions or bargain collectively with their employers, and failure to implement a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
+&emsp;(12) The Congress deplores violations by the Government of the People's Republic of China of human rights, religious freedoms, and worker rights that are referred to in the Department of State's 1999 Country Reports on Human Rights Practices for the People's Republic of China, including the banning of the Falun Gong spiritual movement, denial in many cases, particularly politically sensitive ones, of effective representation by counsel and public trials, extrajudicial killings and torture, forced abortion and sterilization, restriction of access to Tibet and Xinjiang, perpetuation of “reeducation through labor”, denial of the right of workers to organize labor unions or bargain collectively with their employers, and failure to implement a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
 
 (Pub. L. 106–286, div. B, title II, §202, Oct. 10, 2000, 114 Stat. 892.)
 
@@ -218,7 +218,7 @@ Promotion of Increased Advocacy.—Pursuant to section 108(a) of the Internation
 
 “(a)
 
-United States Special Coordinator for Tibetan Issues.—There shall be within the Department aUnited States Special Coordinator for Tibetan Issues (in this section referred to as the ‘Special Coordinator’).
+United States Special Coordinator for Tibetan Issues.—There shall be within the Department a United States Special Coordinator for Tibetan Issues (in this section referred to as the ‘Special Coordinator’).
 
 “(b)
 

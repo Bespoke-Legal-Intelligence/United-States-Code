@@ -42,7 +42,7 @@ Every registered investment company shall transmit to its stockholders, at least
 
 &emsp;(3) a statement of income, for the period covered by the report, which shall be itemized at least with respect to each category of income and expense representing more than 5 per centum of total income or expense;
 
-&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the totalcharges or credits during the period covered by the report;
+&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
 
 &emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and to each member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
 
@@ -56,7 +56,7 @@ The Commission may, by rule, require that semiannual reports containing the info
 
 #### (g) Certificate of independent public accountants
 
-Financial statements contained in annual reports required pursuant to subsections (a) and (e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
+Financial statements contained in annual reports required pursuant to subsections (a) and\(e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
 
 #### (h) Duties and liabilities of affiliated persons
 

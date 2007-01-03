@@ -26,7 +26,7 @@
 
 &emsp;To the extent consistent with section 1181 of this title, paragraph (1) shall not be construed—
 
-&emsp;&emsp;(A) to require a group health plan, or group health insurance coverage, to provide particular benefits other than those provided under the terms of such plan or coverage, or
+&emsp;&emsp;(A) to require a group health plan, or group health insurance coverage, to provideparticular benefits other than those provided under the terms of such plan or coverage, or
 
 &emsp;&emsp;(B) to prevent such a plan or coverage from establishing limitations or restrictions on the amount, level, extent, or nature of the benefits or coverage for similarly situated individuals enrolled in the plan or coverage.
 

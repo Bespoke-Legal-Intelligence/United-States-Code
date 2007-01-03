@@ -6,11 +6,11 @@ Each refiner who distributes automotive fuel in commerce shall—
 
 &emsp;(1) determine the automotive fuel rating of any such fuel; and
 
-&emsp;(2) if such refiner distributes such fuel to any person other than the ultimate purchaser, certify, consistent with the determinationmade under paragraph (1), the automotive fuel rating of such fuel.
+&emsp;(2) if such refiner distributes such fuel to any person other than the ultimate purchaser, certify, consistent with the determination made under paragraph (1), the automotive fuel rating of such fuel.
 
 #### (b) Certification of automotive fuel rating by distributor receiving and distributing automotive fuel with certified automotive fuel rating; use of automotive fuel rating for certification by distributor
 
-Each distributor who receives automotive fuel, the automotive fuel rating of which is certified to him under this section, and distributes such fuel in commerce to another person other than the ultimate purchaser shall certify to such other person the automotive fuel rating of such fuel consistent with—
+Each distributor who receives automotive fuel, the automotive fuel rating of which is certified to him under this section, and distributessuch fuel in commerce to another person other than the ultimate purchaser shall certify to such other person the automotive fuel rating of such fuel consistent with—
 
 &emsp;(1) the automotive fuel rating of such fuel certified to such distributor; or
 
@@ -62,7 +62,7 @@ Any display or representation, with respect to the automotive fuel requirement o
 
 #### Amendments
 
-1992—Pub. L. 102–486 amended section as follows: substituted “Automotive fuel rating” for “Octane” in section catchline; substituted “automotive fuel rating” and “automotive fuel ratings” for “octane rating” and “octane ratings”, respectively, wherever appearing; in subsecs. (a) and (b), substituted “fuel” for “gasoline” wherever appearing; in subsec. (c), substituted “automotive fuel” for “gasoline” wherever appearing except that “fuel” substituted for second reference to “gasoline”; in subsec. (d), substituted “automotive fuel” for “octane”; in subsec. (e), substituted “fuel” for “gasoline” wherever appearing and substituted “fuel's” for “gasoline's”; in subsecs. (f), (g), and (h), substituted“fuel” for “gasoline” wherever appearing; and in subsec. (h), substituted “automotive fuel requirement” for “octane requirement” wherever appearing.
+1992—Pub. L. 102–486 amended section as follows: substituted “Automotive fuel rating” for “Octane” in section catchline; substituted “automotive fuel rating” and “automotive fuel ratings” for “octane rating” and “octane ratings”, respectively, wherever appearing; in subsecs. (a) and (b), substituted “fuel” for “gasoline” wherever appearing; in subsec. (c), substituted “automotive fuel” for “gasoline” wherever appearing except that “fuel” substituted for second reference to “gasoline”; in subsec. (d), substituted “automotive fuel” for “octane”; in subsec. (e), substituted “fuel” for “gasoline” wherever appearing and substituted “fuel's” for “gasoline's”; in subsecs. (f), (g), and (h), substituted “fuel” for “gasoline” wherever appearing; and in subsec. (h), substituted “automotive fuel requirement” for “octane requirement” wherever appearing.
 
 #### Effective Date of 1992 Amendment
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 102–486 effective at end of one-year period beginning Oct
 
 Section 205 of Pub. L. 95–297 provided that:
 
-“(a) Sections 202(a)(1) \[subsec. (a)(1) of this section\] and 203(b) \[section 2823(b) of this title\] shall take effect on the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act \[June 19, 1978\].
+“(a) Sections 202(a)(1) \[subsec. (a)(1) of this section\] and 203(b) \[section 2823(b) of this title\] shall take effecton the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act \[June 19, 1978\].
 
 “(b) Subsections (a)(2), (b), (c), and (e) of section 202 \[subsecs. (a)(2), (b), (c), and (e) of this section\] shall take effect on the first day of the first calendar month beginning more than 9 months after such date of enactment \[June 19, 1978\].
 

@@ -1,6 +1,6 @@
 ### §1716. Injurious articles as nonmailable
 
-(a) All kinds of poison, and all articles and compositions containing poison, and all poisonous animals, insects, reptiles, and all explosives, inflammable materials, infernal machines, and mechanical, chemical, or other devices or compositions which may ignite or explode, and all disease germs or scabs, and all other natural or artificial articles, compositions, or material which may kill or injure another, or injure the mails or other property, whether or not sealed as first-class matter, are nonmailable matter and shall not be conveyed in the mails or delivered from any post office or station thereof, nor by any officer or employee of the Postal Service.
+(a) All kinds of poison, and all articles and compositions containing poison, and all poisonous animals, insects, reptiles, and all explosives, hazardous materials, inflammable materials, infernal machines, and mechanical, chemical, or other devices or compositions which may ignite or explode, and all disease germs or scabs, and all other natural or artificial articles, compositions, or material which may kill or injure another, or injure the mails or other property, whether or not sealed as first-class matter, are nonmailable matter and shall not be conveyed in the mails or delivered from any post office or station thereof, nor by any officer or employee of the Postal Service.
 
 (b) The Postal Service may permit the transmission in the mails, under such rules and regulations as it shall prescribe as to preparation and packing, of any such articles which are not outwardly or of their own force dangerous or injurious to life, health, or property.
 
@@ -26,7 +26,7 @@
 
 (h) Any advertising, promotional, or sales matter which solicits or induces the mailing of anything declared nonmailable by this section is likewise nonmailable unless such matter contains wrapping or packaging instructions which are in accord with regulations promulgated by the Postal Service.
 
-(i)(1) Any ballistic knife shall be subject to the same restrictions and penalties provided undersubsection (g) for knives described in the first sentence of that subsection.
+(i)(1) Any ballistic knife shall be subject to the same restrictions and penalties provided under subsection (g) for knives described in the first sentence of that subsection.
 
 (2) As used in this subsection, the term “ballistic knife” means a knife with a detachable blade that is propelled by a spring-operated mechanism.
 
@@ -38,7 +38,7 @@
 
 (k) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 109–435, title X, §1008(d), Dec. 20, 2006, 120 Stat. 3261.)
 
 #### Historical and Revision Notes
 
@@ -52,6 +52,8 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–435 inserted “hazardous materials,” after “explosives,”.
+
 2002—Subsec. (g)(3). Pub. L. 107–273, §4002(b)(2), made technical correction to directory language of Pub. L. 104–294, §607(g)(2). See 1996 Amendment note below.
 
 Subsec. (j). Pub. L. 107–273, §4002(b)(6), designated first, second, and third undesignated pars. after subsec. (i) as pars. (1) to (3), respectively, of subsec. (j) and, in par. (2), substituted “under this title” for “not more than $10,000”. Former subsec. (j) redesignated (k).
@@ -60,7 +62,7 @@ Subsec. (k). Pub. L. 107–273, §4002(b)(6)(D), redesignated subsec. (j) as (k)
 
 1996—Subsec. (g)(2). Pub. L. 104–294, §607(g)(1), substituted “State” for “State, Territory, or the District of Columbia”.
 
-—Subsec. (g)(3). Pub. L. 104–294, §607(g)(2), as amended by Pub. L. 107–273, §4002(b)(2), substituted “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or Territory, or any county, city, or other political subdivision of a State”.
+Subsec. (g)(3). Pub. L. 104–294, §607(g)(2), as amended by Pub. L. 107–273, §4002(b)(2), substituted “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or Territory, or any county, city, or other political subdivision of a State”.
 
 Subsec. (j). Pub. L. 104–294, §607(g)(3), added subsec. (j) at end.
 
@@ -102,7 +104,7 @@ Pub. L. 107–273, div. B, title IV, §4002(b)(2), Nov. 2, 2002, 116 Stat. 1807,
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–570 effective 30 days after Oct. 27, 1986, see section 10004 of Pub. L. 99–570, set outas an Effective Date note under section 1245 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 99–570 effective 30 days after Oct. 27, 1986, see section 10004 of Pub. L. 99–570, set out as an Effective Date note under section 1245 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1971 Amendment
 

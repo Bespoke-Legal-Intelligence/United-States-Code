@@ -32,7 +32,7 @@ Applications for assistance under this section shall—
 
 (1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, the Secretary shall establish selection criteria for a national competition for grants under this section which must include—
 
-&emsp;(A) the comparative degree of economic distress among applicants, as measured (in thecase of a metropolitan city or urban county) by the differences in the extent of growth lag, the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
+&emsp;(A) the comparative degree of economic distress among applicants, as measured (in the case of a metropolitan city or urban county) by the differences in the extent of growth lag, the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
 
 &emsp;(B) other factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration in cities and urban counties;
 
@@ -176,7 +176,7 @@ Not less than 25 per centum of the funds made available for grants under this se
 
 #### (j) Grant contingent on factors related to non-Federal funds
 
-A grant may be made under this section only where the Secretary determines that there is a strong probability that (1) the non-Federal investment in the project would not be made without the grant, and (2) the grant would not substitute for non-Federal funds which are otherwise available to the project.
+A grant may be made under this section only where the Secretary determines that there is astrong probability that (1) the non-Federal investment in the project would not be made without the grant, and (2) the grant would not substitute for non-Federal funds which are otherwise available to the project.
 
 #### (k) Duty of Secretary to minimize amount
 
@@ -192,7 +192,7 @@ In the case of any application which identifies any property in accordance with 
 
 #### (n) Territories, tribes, and certain Hawaiian counties included in term “city”
 
-(1) For the purposes of this section, the term “city” includes Guam, American Samoa, theNorthern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
+(1) For the purposes of this section, the term “city” includes Guam, American Samoa, the Northern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
 
 (2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or in an Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
@@ -226,7 +226,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 &emsp;&emsp;(B)(i) the remainder of the amount received is used for economic development activities eligible under this chapter; and
 
-&emsp;&emsp;(ii) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of activities under subparagraph (B) are derived from such unexpended amounts; or
+&emsp;&emsp;(ii) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs ofactivities under subparagraph (B) are derived from such unexpended amounts; or
 
 &emsp;(2) 25 percent of such unexpended amounts if—
 
@@ -238,7 +238,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 #### References in Text
 
-For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242,set out as an Effective Date of 1988 Amendment note below.
+For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242, set out as an Effective Date of 1988 Amendment note below.
 
 Chapter 67 of title 31, referred to in subsec. (n)(2)(B), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327.
 
@@ -306,7 +306,7 @@ Subsec. (i). Pub. L. 98–181, §121(f), inserted provisions relating to applica
 
 Subsecs. (p) to (r). Pub. L. 98–181, §121(g), added subsecs. (p) to (r).
 
-1981—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclatureand phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
+1981—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclature and phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
 
 1980—Subsec. (c)(7). Pub. L. 96–399, §110(a)(1)–(3), added par. (7).
 
@@ -370,7 +370,7 @@ Section effective Oct. 1, 1977, see section 114 of Pub. L. 95–128, set out as 
 
 #### Implementation of Urban Development Action Grant Retention Program
 
-Section 232(c)(2) of Pub. L. 103–233 provided that: “Not later than 10 days after the date of enactment of this Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
+Section 232(c)(2) of Pub. L. 103–233 provided that: “Not later than 10 days after the date of enactment ofthis Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
 
 #### New Towns Demonstration Program for Emergency Relief of Los Angeles
 
@@ -472,7 +472,7 @@ Submission.—Not later than the expiration of the 6-month period beginning on t
 
 &emsp;“(2)
 
-Approval.—For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government to whom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approval any plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
+Approval.—For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government to whom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approvalany plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
 
 &emsp;“(3)
 
@@ -588,7 +588,7 @@ In general.—Assistance under this section shall be repaid in accordance with t
 
 &emsp;“(2)
 
-Terms.—During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this sectionmay be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
+Terms.—During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this section may be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
 
 &emsp;“(3)
 

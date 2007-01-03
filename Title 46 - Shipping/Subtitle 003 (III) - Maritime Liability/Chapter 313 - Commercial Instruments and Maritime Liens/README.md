@@ -43,15 +43,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Historical and Revision Notes
+
+Section 101 \[102\] of H.R. 3105 \[became Pub. L. 100–710\] revises, consolidates, and enacts certain general and permanent laws of the United States related to commercial instruments and liens and public vessels and goods. It amends subtitle III of title 46, United States Code by striking at the end “Chapters 313, 315—Reserved” and substituting “Chapter 313—Commercial Instruments and Maritime Liens”. Chapter 313 is essentially a codification of the Ship Mortgage Act, 1920 (46 App. U.S.C. 911–984). H.R. 3105 is the second step in the process of enacting laws compiled in title 46 of the Code into positive law. The first step in the codification process began in 1983 when certain general and permanent laws related to vessels and seamen were enacted as subtitle II of the title 46, United States Code.
+
+#### house floor statement
+
+Section 102 of this bill adds a new subtitle III to title 46, which contains a codification of the Ship Mortgage Act, 1920 and other related provisions. A previous version of this codification and the remaining sections of the bill were recently reported by the Merchant Marine and Fisheries Committee in H.R. 3105 (H. Rept. 100–918). The significant additions or changes by this provision to the version of H.R. 3105 reported by the Merchant Marine and Fisheries Committee are explained as follows: \[see sections 31305, 31321, 31322, 31325, 31329, 31330, 31343 of this title\].
+
 #### Amendments
 
 2002—Pub. L. 107–295, title II, §205(a)(2), Nov. 25, 2002, 116 Stat. 2096, substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in item 31343.
 
 1996—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 12111 of this title; section 1271 of Appendix to this title; title 42 section 9118; title 49 section 11301.
 
 
 ---

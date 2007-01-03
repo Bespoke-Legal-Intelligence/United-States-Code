@@ -28,7 +28,7 @@ Whenever the Commission has instituted a civil action for violation of any rule 
 
 (1) Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
 
-(2) In addition to actions brought by an attorney general of a State under subsection (a) of this section, such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by theCommission to bring an action under subsection (a) of this section against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title.
+(2) In addition to actions brought by an attorney general of a State under subsection (a) of this section, such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) of this section against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title.
 
 (Pub. L. 102–556, title II, §202, Oct. 28, 1992, 106 Stat. 4190.)
 

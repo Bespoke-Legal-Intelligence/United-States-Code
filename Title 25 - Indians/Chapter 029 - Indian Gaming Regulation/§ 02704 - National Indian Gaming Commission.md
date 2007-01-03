@@ -14,7 +14,7 @@ There is established within the Department of the Interior a Commission to be kn
 
 (2)(A) The Attorney General shall conduct a background investigation on any person considered for appointment to the Commission.
 
-(B) The Secretary shall publish in the Federal Register the name and other information the Secretary deems pertinent regarding a nominee for membership on the Commission and shall allow a period of not less than thirty days for receipt of public comment.
+(B) The Secretary shall publish in the Federal Register the name and other information the Secretary deems pertinent regarding a nomineefor membership on the Commission and shall allow a period of not less than thirty days for receipt of public comment.
 
 (3) Not more than two members of the Commission shall be of the same political party. At least two members of the Commission shall be enrolled members of any Indian tribe.
 

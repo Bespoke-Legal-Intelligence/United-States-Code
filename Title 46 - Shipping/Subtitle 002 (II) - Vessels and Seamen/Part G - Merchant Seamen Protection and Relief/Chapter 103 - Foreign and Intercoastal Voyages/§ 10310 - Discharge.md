@@ -22,7 +22,3 @@ Section 10310 requires the master of a vessel to give each seaman a full account
 
 1993—Pub. L. 103–206 struck out “or a shipping commissioner” after “to a seaman” and struck out at end “A master failing to deliver the account is liable to the United States Government for a civil penalty of $50.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10318 of this title.
-

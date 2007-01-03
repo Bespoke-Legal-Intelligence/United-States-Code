@@ -73,7 +73,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 2,600 | 107 | 26&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Air Force Reserve: |  |  |
-| 500 | 75 | 40   |
+| 500 | 75 | 40&nbsp;&nbsp; |
 | 1,000 | 145 | 75&nbsp;&nbsp; |
 | 1,500 | 208 | 105&nbsp;&nbsp; |
 | 2,000 | 270 | 130&nbsp;&nbsp; |
@@ -83,7 +83,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 4,000 | 460 | 210&nbsp;&nbsp; |
 | 4,500 | 495 | 230&nbsp;&nbsp; |
 | 5,000 | 530 | 250&nbsp;&nbsp; |
-| 5,500 | 565 | 270&nbsp;&nbsp; |
+| 5,500 | 565 | 270   |
 | 6,000 | 600 | 290&nbsp;&nbsp; |
 | 7,000 | 670 | 330&nbsp;&nbsp; |
 | 8,000 | 740 | 370&nbsp;&nbsp; |
@@ -143,11 +143,11 @@ Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) 
 
 Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.”
 
-Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if theSecretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
+Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(c)\], added subsec. (c).
 

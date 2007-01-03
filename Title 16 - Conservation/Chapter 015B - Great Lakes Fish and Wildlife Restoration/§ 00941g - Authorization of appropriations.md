@@ -1,12 +1,16 @@
 ### §941g. Authorization of appropriations
 
-There are authorized to be appropriated to the Director—
+There are authorized to be appropriated to the Director for each of fiscal years 2007 through 2012—
 
-&emsp;(1) for the activities of the Great Lakes Coordination Office in East Lansing, Michigan, of the Upper Great Lakes Fishery Resources Office, and of the Lower Great Lakes Fishery Resources Office under section 941e of this title, $3,500,000 for each of fiscal years 1999 through 2004; and
+&emsp;(1) $14,000,000 to implement fish and wildlife restoration proposals as selected by the Director under section 941c(e) of this title, of which—
 
-&emsp;(2) for implementation of fish and wildlife restoration proposals selected by the Director under section 941c(d) of this title, $4,500,000 for each of fiscal years 1999 through 2004, of which no funds shall be available for costs incurred in administering the proposals.
+&emsp;&emsp;(A) not more than the lesser of 33 1/3 percent or $4,600,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under section 941c(e) of this title; and
 
-(Pub. L. 101–537, title I, §1009, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2009, Nov. 29, 1990, 104 Stat. 4778; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 8, Oct. 19, 1998, 112 Stat. 2358, 2361.)
+&emsp;&emsp;(B) the lesser of 5 percent or $700,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
+
+&emsp;(2) $2,000,000, which shall be allocated for the activities of the Great Lakes Coordination Office in East Lansing, Michigan, of the Upper Great Lakes Fishery Resources Office, and the Lower Great Lakes Fishery Resources Office under section 941e of this title.
+
+(Pub. L. 101–537, title I, §1009, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2009, Nov. 29, 1990, 104 Stat. 4778; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 8, Oct. 19, 1998, 112 Stat. 2358, 2361; Pub. L. 109–326, §9, Oct. 11, 2006, 120 Stat. 1766.)
 
 #### Codification
 
@@ -14,7 +18,9 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments
 
-1998—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which had authorized appropriations for each of the fiscal years 1991 through 1994 to conduct study under section 941c of this title and for each of the fiscal years 1991 through 1995 to establish and operate Great Lakes Coordination and Upper and Lower Great Lakes Fishery Resources Offices.
+2006—Pub. L. 109–326 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2012 for provisions authorizing appropriations for fiscal years 1999 to 2004.
+
+1998—Pub. L. 105–265 amended section generally, substituting provisions authorizing appropriations for fiscal years 1999 to 2004 for provisions authorizing appropriations for fiscal years 1991 to 1994 to conduct a study under section 941c of this title and for fiscal years 1991 to 1995 to establish and operate Great Lakes Coordination and Upper and Lower Great Lakes Fishery Resources Offices.
 
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2009, which enacted this section.
 

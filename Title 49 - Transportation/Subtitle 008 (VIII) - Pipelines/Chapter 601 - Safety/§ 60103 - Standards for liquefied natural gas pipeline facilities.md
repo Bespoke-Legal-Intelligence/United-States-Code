@@ -26,7 +26,7 @@ Design, Installation, Construction, Inspection, and Testing Standards.—The Sec
 
 &emsp;(3) the characteristics of the liquefied natural gas to be stored or converted at, or transported by, the facility; and
 
-&emsp;(4) the public safety factors of the design and of alternative designs, particularly the ability to prevent and contain a liquefied natural gas spill.
+&emsp;(4) the public safety factors of the design and of alternative designs, particularly the abilityto prevent and contain a liquefied natural gas spill.
 
 (c)
 
@@ -126,7 +126,7 @@ In subsections (a) and (b), before each clause (1), the words “Not later than 
 
 In subsection (a), before clause (1), the words “with respect to standards relating to the location of any new LNG facility” are omitted because of the restatement. In clause (2), the word “involved” is omitted as surplus. In clause (4), the words “meteorological, geological, topographical, seismic, and other” are omitted as surplus. In clause (5), the word “existing” is omitted as surplus.
 
-In subsection (b), before clause (1), the text of 49 App.:1674a(a)(2) (1st sentence) is omitted as executed. The text of 49 App.:1674a(a)(2) (last sentence) is omitted as surplus. The words “with respect to standards applicable to the design, installation, construction, initial inspection, and initial testing of any new LNG facility” are omitted because of the restatement. In clause (1), the words “thermal resistance and other” are omitted as surplus. In clause (2), the words “(such as multiplediking, insulated concrete, and vapor containment barriers)” are omitted as surplus. In clause (3), the words “(for example, whether it is to be in a liquid or semisolid state)” are omitted as surplus. In clause (4), the words “under such a design” are omitted as surplus.
+In subsection (b), before clause (1), the text of 49 App.:1674a(a)(2) (1st sentence) is omitted as executed. The text of 49 App.:1674a(a)(2) (last sentence) is omitted as surplus. The words “with respect to standards applicable to the design, installation, construction, initial inspection, and initial testing of any new LNG facility” are omitted because of the restatement. In clause (1), the words “thermal resistance and other” are omitted as surplus. In clause (2), the words “(such as multiple diking, insulated concrete, and vapor containment barriers)” are omitted as surplus. In clause (3), the words “(for example, whether it is to be in a liquid or semisolid state)” are omitted as surplus. In clause (4), the words “under such a design” are omitted as surplus.
 
 In subsection (c)(1) and (2), the word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the Code.
 
@@ -134,7 +134,7 @@ In subsection (c)(1), before clause (A), the words “if the standard is to be a
 
 In subsection (c)(2)(A), before clause (i), the words “design, installation, construction, initial inspection, or initial testing standard prescribed under this chapter after March 1, 1978” are substituted for “Any such standard (other than one affecting location)” for clarity. In clause (i), the words “of the facility involved” are omitted as surplus. In clause (ii), the word “otherwise” is omitted as surplus.
 
-In subsection (d), before clause (1), the words “Not later than 270 days after November 30, 1979” are omitted as executed. The words “with respect to standards for the operation and maintance \[sic\] of any LNG facility” are omitted because of the restatement. In clause (3), the words “to be used with respect to the operation of such facility” and “sabotage or other” are omitted as surplus.
+In subsection (d), before clause (1), the words “Not later than 270 days after November 30, 1979” are omitted as executed. The words “with respect to standards for the operation and maintance \[sic\] of any LNG facility” are omitted because of the restatement. In clause\(3), the words “to be used with respect to the operation of such facility” and “sabotage or other” are omitted as surplus.
 
 In subsection (e), the text of 49 App.:1674a(f) (related to 49 App.:1672(a)(1) (8th, last sentences), (c), and (d)) is omitted as surplus because those provisions apply to all standards prescribed under the Natural Gas Pipeline Safety Act of 1968 (Public Law 90–481, 82 Stat. 720).
 

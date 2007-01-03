@@ -6,7 +6,7 @@ All level premium term policies, except as otherwise provided in this section, s
 
 #### Prior Provisions
 
-Prior section 1905, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216; Pub. L. 90–77, title II, §204(b), Aug. 31, 1967, 81 Stat. 184, related to applications, prior to the generalrevision of chapter 39 of this title by Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1998.
+Prior section 1905, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216; Pub. L. 90–77, title II, §204(b), Aug. 31, 1967, 81 Stat. 184, related to applications, prior to the general revision of chapter 39 of this title by Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1998.
 
 #### Amendments
 

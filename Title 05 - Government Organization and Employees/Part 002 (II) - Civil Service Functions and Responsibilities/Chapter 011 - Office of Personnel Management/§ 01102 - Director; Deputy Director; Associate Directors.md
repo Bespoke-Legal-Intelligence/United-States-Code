@@ -28,7 +28,7 @@ July 31, 1956, ch. 804, §201(a), 70 Stat. 742.
 
 In subsection (a), the second sentence is substituted for original language concerning designation of Commissioners to serve six, four, and two years, respectively, as that provision is executed.
 
-The section is reorganized to place the statutes relating to vacancies together, and redundancies are eliminated. Provisions relating to pay and travel expenses of Commissioners are omitted as superseded by the Act of Aug. 14, 1964, Pub. L. 88–426, §303(c)(18), (d)(66), 78 Stat. 417, 419, and Act of June 9, 1949, ch. 185, 63 Stat. 166, respectively, which are carried into this title.
+The section is reorganized to place the statutes relating to vacancies together, and redundancies are eliminated. Provisions relating to pay and travel expenses ofCommissioners are omitted as superseded by the Act of Aug. 14, 1964, Pub. L. 88–426, §303(c)(18), (d)(66), 78 Stat. 417, 419, and Act of June 9, 1949, ch. 185, 63 Stat. 166, respectively, which are carried into this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

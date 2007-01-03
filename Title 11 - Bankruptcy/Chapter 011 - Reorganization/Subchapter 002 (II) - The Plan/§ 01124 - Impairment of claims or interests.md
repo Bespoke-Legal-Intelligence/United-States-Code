@@ -38,7 +38,7 @@ This section is designated to indicate when contractual rights of creditors or i
 
 First, the plan may propose not to alter the legal, equitable, or contractual rights to which the claim or interest entitled its holder.
 
-Second, a claim or interest is unimpaired by curing the effect of a default and reinstating the originalterms of an obligation when maturity was brought on or accelerated by the default. The intervention of bankruptcy and the defaults represent a temporary crisis which the plan of reorganization is intended to clear away. The holder of a claim or interest who under the plan is restored to his original position, when others receive less or get nothing at all, is fortunate indeed and has no cause to complain. Curing of the default and the assumption of the debt in accordance with its terms is an important reorganization technique for dealing with a particular class of claims, especially secured claims.
+Second, a claim or interest is unimpaired by curing the effect of a default and reinstating the original terms of an obligation when maturity was brought on or accelerated by the default. The intervention of bankruptcy and the defaults represent a temporary crisis which the plan of reorganization is intended to clear away. The holder of a claim or interest who under the plan is restored to his original position, when others receive less or get nothing at all, is fortunate indeed and has no cause to complain. Curing of the default and the assumption of the debt in accordance with its terms is an important reorganization technique for dealing with a particular class of claims, especially secured claims.
 
 Third, a claim or interest is unimpaired if the plan provides for their payment in cash. In the case of a debt liability, the cash payment is for the allowed amount of the claim, which does not include a redemption premium. If it is an equity security with a fixed liquidation preference, such as a preferred stock, the allowed amount is such liquidation preference, with no redemption premium. With respect to any other equity security, such as a common stock, cash payment must be equal to the “value of such holder's interest in the debtor.”
 
@@ -72,7 +72,7 @@ Par. (2)(D), (E). Pub. L. 109–8, §328(b)(2)–(4), added subpar. (D) and rede
 
 &emsp;&emsp;“(ii) any fixed price at which the debtor, under the terms of such security, may redeem such security from such holder.”
 
-1984—Par. (2)(A). Pub. L. 98–353, §508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of this title, that occurred before or after the commencement of the case under this title;”.
+1984—Par. (2)(A). Pub. L. 98–353, §508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of thistitle, that occurred before or after the commencement of the case under this title;”.
 
 Par. (3)(B)(i). Pub. L. 98–353, §508(2), substituted “or” for “and”.
 

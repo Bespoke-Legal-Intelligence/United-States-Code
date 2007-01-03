@@ -30,15 +30,17 @@ Repayment.—An individual who, having received all or part of the bonus under a
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2006.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2007.
 
-(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332.)
+(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332; Pub. L. 109–364, div. A, title VI, §614(f), Oct. 17, 2006, 120 Stat. 2249.)
 
 #### Amendments
 
 2006—Subsec. (f). Pub. L. 109–163, §687(b)(32), amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when individual receives accession bonus payment but fails to accept commission or appointment as officer or to commence or complete agreed upon period of active duty.
 
-Subsec. (g). Pub. L. 109–163, §624(f), substituted “December 31, 2006” for “December 31, 2005”.
+Subsec. (g). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+
+Pub. L. 109–163, §624(f), substituted “December 31, 2006” for “December 31, 2005”.
 
 2004—Subsec. (g). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 

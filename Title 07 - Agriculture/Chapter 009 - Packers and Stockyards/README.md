@@ -19,30 +19,10 @@
 | [191\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000191%20-%20%E2%80%9CPacker%E2%80%9D%20defined.md) | “Packer” defined. |
 | [192\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000192%20-%20Unlawful%20practices%20enumerated.md) | Unlawful practices enumerated. |
 | [193\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000193%20-%20Procedure%20before%20Secretary%20for%20violations.md) | Procedure before Secretary for violations. |
-| (a) | Complaint; hearing; intervention. |
-| (b) | Report and order; penalty. |
-| (c) | Amendment of report or order. |
-| (d) | Service of process. |
 | [194\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000194%20-%20Conclusiveness%20of%20order%3B%20appeal%20and%20review.md) | Conclusiveness of order; appeal and review. |
-| (a) | Filing of petition; bond. |
-| (b) | Filing of record by Secretary. |
-| (c) | Temporary injunction. |
-| (d) | Evidence. |
-| (e) | Action by court. |
-| (f) | Additional evidence. |
-| (g) | Injunction. |
-| (h) | Finality. |
 | [195\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000195%20-%20Punishment%20for%20violation%20of%20order.md) | Punishment for violation of order. |
 | [196\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000196%20-%20Statutory%20trust%20established%3B%20livestock.md) | Statutory trust established; livestock. |
-| (a) | Protection of public interest from inadequate financing arrangements. |
-| (b) | Livestock, inventories, receivables and proceeds held by packer in trust for benefit of unpaid cash sellers; time limitations; exempt packers; effect of dishonored instruments; preservation of trust benefits by seller. |
-| (c) | Definition of cash sale. |
 | [197\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000197%20-%20Statutory%20trust%20established%3B%20poultry.md) | Statutory trust established; poultry. |
-| (a) | Protection of public interest from inadequate financing arrangements. |
-| (b) | Poultry, inventories, receivables and proceeds held by dealer in trust for benefit of unpaid cash sellers or poultry growers. |
-| (c) | Effect of dishonored instruments. |
-| (d) | Preservation of trust benefit by seller or poultry grower. |
-| (e) | Definition of cash sale. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,16 +32,7 @@
 | :--- | ---: |
 | [198\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20B%20-%20Swine%20Packer%20Marketing%20Contracts/%C2%A7%2000198%20-%20Definitions.md) | Definitions. |
 | [198a.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20B%20-%20Swine%20Packer%20Marketing%20Contracts/%C2%A7%2000198a%20-%20Swine%20packer%20marketing%20contracts%20offered%20to%20producers.md) | Swine packer marketing contracts offered to producers. |
-| (a) | In general. |
-| (b) | Availability. |
-| (c) | Confidentiality. |
-| (d) | Information collection. |
-| (e) | Violations. |
-| (f) | Authorization of appropriations. |
 | [198b.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20B%20-%20Swine%20Packer%20Marketing%20Contracts/%C2%A7%2000198b%20-%20Report%20on%20the%20Secretary%27s%20jurisdiction%2C%20power%2C%20duties%2C%20and%20authorities.md) | Report on the Secretary's jurisdiction, power, duties, and authorities. |
-| (a) | Definition of packer. |
-| (b) | Report. |
-| (c) | Contents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,23 +47,9 @@
 | [205\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000205%20-%20General%20duty%20as%20to%20services%3B%20revocation%20of%20registration.md) | General duty as to services; revocation of registration. |
 | [206\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000206%20-%20Rates%20and%20charges%20generally%3B%20discrimination.md) | Rates and charges generally; discrimination. |
 | [207\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000207%20-%20Schedule%20of%20rates.md) | Schedule of rates. |
-| (a) | Filing; public inspection. |
-| (b) | Detail required; form. |
-| (c) | Changes. |
-| (d) | Rejection by Secretary. |
-| (e) | Determination of lawfulness; hearing; suspension. |
-| (f) | Suspension of operations; compliance. |
-| (g) | Penalty. |
-| (h) | Intentional violations; penalty. |
 | [208\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000208%20-%20Unreasonable%20or%20discriminatory%20practices%20generally%3B%20rights%20of%20stockyard%20owner%20of%20management%20and%20regulation.md) | Unreasonable or discriminatory practices generally; rights of stockyard owner of management and regulation. |
 | [209\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000209%20-%20Liability%20to%20individuals%20for%20violations%3B%20enforcement%20generally.md) | Liability to individuals for violations; enforcement generally. |
 | [210\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000210%20-%20Proceedings%20before%20Secretary%20for%20violations.md) | Proceedings before Secretary for violations. |
-| (a) | Complaint; response; satisfaction or investigation. |
-| (b) | Complaints forwarded by agencies of a State or Territory. |
-| (c) | Inquiries instituted by Secretary. |
-| (d) | Damage to complainant not required. |
-| (e) | Award and payment of damages. |
-| (f) | Enforcement of orders. |
 | [211\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000211%20-%20Order%20of%20Secretary%20as%20to%20charges%20or%20practices%3B%20prescribing%20rates%20and%20practices%20generally.md) | Order of Secretary as to charges or practices; prescribing rates and practices generally. |
 | [212\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000212%20-%20Prescribing%20rates%20and%20practices%20to%20prevent%20discrimination%20between%20intrastate%20and%20interstate%20commerce.md) | Prescribing rates and practices to prevent discrimination between intrastate and interstate commerce. |
 | [213\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000213%20-%20Prevention%20of%20unfair%2C%20discriminatory%2C%20or%20deceptive%20practices.md) | Prevention of unfair, discriminatory, or deceptive practices. |
@@ -101,10 +58,6 @@
 | [216\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000216%20-%20Proceedings%20to%20enforce%20orders%3B%20injunction.md) | Proceedings to enforce orders; injunction. |
 | [217\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000217%20-%20Proceedings%20for%20suspension%20of%20orders.md) | Proceedings for suspension of orders. |
 | [217a.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000217a%20-%20Fees%20for%20inspection%20of%20brands%20or%20marks.md) | Fees for inspection of brands or marks. |
-| (a) | Authorization by Secretary; registration as market agency. |
-| (b) | Applicability of section. |
-| (c) | Collection and payment of charges. |
-| (d) | Revocation of authorization or registration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -127,51 +80,18 @@
 | [225\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000225%20-%20Laws%20unaffected.md) | Laws unaffected. |
 | [226\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000226%20-%20Powers%20of%20Interstate%20Commerce%20Commission%20unaffected.md) | Powers of Interstate Commerce Commission unaffected. |
 | [227\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000227%20-%20Powers%20of%20Federal%20Trade%20Commission%20and%20Secretary%20of%20Agriculture.md) | Powers of Federal Trade Commission and Secretary of Agriculture. |
-| (a) | Omitted. |
-| (b) | Jurisdiction of Federal Trade Commission. |
-| (c) | Limitation of Federal Trade Commission jurisdiction. |
-| (d) | Jurisdiction of Secretary of Agriculture except for poultry products. |
-| (e) | Jurisdiction of Secretary of Agriculture regarding poultry products. |
-| (f) | Information to be included in annual reports. |
 | [228\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
-| (a) | Rules, regulations, and expenditures; appropriations. |
-| (b) | Deductions from proceeds for financing promotional, educational, and research activities. |
-| (c) | Budget estimate; testimony of Secretary before Congressional committees. |
-| (d) | Development and promulgation of rules governing hearings. |
-| (e) | Definitions. |
 | [228a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228a%20-%20Authority%20of%20Secretary%20to%20request%20temporary%20injunction%20or%20restraining%20order.md) | Authority of Secretary to request temporary injunction or restraining order. |
 | [228b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228b%20-%20Prompt%20payment%20for%20purchase%20of%20livestock.md) | Prompt payment for purchase of livestock. |
-| (a) | Full amount of purchase price required; methods of payment. |
-| (b) | Waiver of prompt payment by written agreement; disclosure requirements. |
-| (c) | Delay in payment or attempt to delay deemed unfair practice. |
 | 228b–1. | Final date for making payment to cash seller or poultry grower. |
-| (a) | Delivery of full amount due. |
-| (b) | Delay or attempt to delay collection of funds as “unfair practice”. |
-| (c) | Definition of cash sale. |
 | 228b–2. | Violations by live poultry dealers. |
-| (a) | Written complaint by Secretary; hearing; intervention; amended complaint. |
-| (b) | Report on findings of fact by Secretary; cease and desist order; assessment of civil penalty; action by Attorney General upon live poultry dealer's failure to pay penalty. |
-| (c) | Amendment or setting aside of report or order. |
-| (d) | Service of complaints, orders, and other processes. |
 | 228b–3. | Judicial review of order regarding live poultry dealer. |
-| (a) | Finality of order unless appeal to court of appeals; time limit; bond. |
-| (b) | Notification of appeal to Secretary; filing of record with court. |
-| (c) | Issuance of temporary injunction. |
-| (d) | Evidence in record as evidence in case; expedited proceedings. |
-| (e) | Action by court. |
-| (f) | Taking of additional evidence; modified or additional findings by Secretary. |
-| (g) | Affirmance or modification of order as injunction. |
-| (h) | Exclusive jurisdiction of court of appeals; finality of decree; appeal to Supreme Court; stay of decree. |
 | 228b–4. | Violation of final order by live poultry dealer; penalty. |
 | [228c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228c%20-%20Federal%20preemption%20of%20State%20and%20local%20requirements.md) | Federal preemption of State and local requirements. |
 | [228d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228d%20-%20Annual%20assessment%20of%20cattle%20and%20hog%20industries.md) | Annual assessment of cattle and hog industries. |
 | [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Separability.md) | Separability. |
 | [229a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9378%2C%20title%20IX%2C%20%C2%A7913%28a%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201205.md) | Repealed. |
 | [229b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229b%20-%20Right%20to%20discuss%20terms%20of%20contract.md) | Right to discuss terms of contract. |
-| (a) | Definitions. |
-| (b) | No prohibition of discussion. |
-| (c) | Effect on State laws. |
-| (d) | Applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

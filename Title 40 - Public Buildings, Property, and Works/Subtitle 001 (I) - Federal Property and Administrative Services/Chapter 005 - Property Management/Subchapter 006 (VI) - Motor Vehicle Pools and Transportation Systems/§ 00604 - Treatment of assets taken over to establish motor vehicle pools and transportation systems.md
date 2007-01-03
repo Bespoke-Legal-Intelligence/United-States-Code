@@ -6,7 +6,7 @@ Reimbursement.—
 
 &emsp;(1)
 
-Requirement.—When the Administrator of General Services takes over motor vehicles or related equipment or supplies under section 602 of this title, reimbursement is required if the property is taken over from—
+Requirement.—When the Administrator of General Services takes over motor vehicles or related equipment or supplies under section602 of this title, reimbursement is required if the property is taken over from—
 
 &emsp;&emsp;(A) a Government corporation; or
 
@@ -18,9 +18,9 @@ Amount.—The Administrator shall reimburse a Government corporation, or a fund 
 
 (b)
 
-Addition to General Supply Fund.—If the Administrator takes over motor vehicles or related equipment or supplies under section 602 of this title but reimbursement is not required under subsection (a), the value of the property taken over, as determined by the Administrator, may be added to the capital of the General Supply Fund. If the Administrator subsequently returns property of a similar kind under section 610 of this title, the value of the property may be deducted from the Fund.
+Addition to Acquisition Services Fund.—If the Administrator takes over motor vehicles or related equipment or supplies under section 602 of this title but reimbursement is not required under subsection (a), the value of the property taken over, as determined by the Administrator, may be added to the capital of the Acquisition Services Fund. If the Administrator subsequently returns property of a similar kind under section 610 of this title, the value of the property may be deducted from the Fund.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1122.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1122; Pub. L. 109–313, §3(h)(5), Oct. 6, 2006, 120 Stat. 1736.)
 
 Historical and Revision Notes
 
@@ -41,4 +41,12 @@ June 30, 1949, ch. 288, title II, §211(g), (h), as added Sept. 5, 1950, ch. 849
 604(b)
 
 40:491(h).
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–313 substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 

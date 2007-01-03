@@ -4,7 +4,7 @@
 
 (b) Time required to be made up under section 972(a) of this title may not be counted in computing years of service under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 552; Pub. L. 85–861, §1(195), Sept. 2, 1958, 72 Stat. 1540; Pub. L.96–343, §9(b)(2), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 99–348, title II, §204(c), July 1, 1986, 100 Stat. 698; Pub. L. 101–189, div. A, title VI, §652(a)(6), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 103–337, div. A, title VI, §635(c)(1), Oct. 5, 1994, 108 Stat. 2789; Pub. L. 104–106, div. A, title V, §561(d)(4)(A), Feb. 10, 1996, 110 Stat. 323.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 552; Pub. L. 85–861, §1(195), Sept. 2, 1958, 72 Stat. 1540; Pub. L. 96–343, §9(b)(2), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 99–348, title II, §204(c), July 1, 1986, 100 Stat. 698; Pub. L. 101–189, div. A, title VI, §652(a)(6), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 103–337, div. A, title VI, §635(c)(1), Oct. 5, 1994, 108 Stat. 2789; Pub. L. 104–106, div. A, title V, §561(d)(4)(A), Feb. 10, 1996, 110 Stat. 323.)
 
 Historical and Revision Notes<br>1956
 

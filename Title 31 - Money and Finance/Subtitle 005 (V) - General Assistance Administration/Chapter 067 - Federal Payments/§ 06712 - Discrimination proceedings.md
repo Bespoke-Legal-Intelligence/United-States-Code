@@ -8,7 +8,7 @@ Notice of Noncompliance.—By the 10th day after the Secretary makes a finding o
 
 Informal Presentation of Evidence.—A unit of general local government may present evidence informally to the Secretary within 30 days after the government receives a notice of noncompliance from the Secretary. Except as provided in subsection (e), the government may present evidence on whether—
 
-&emsp;(1) a person in the United States has been excluded or denied benefits of, or discriminated against under, the program or activity of the government, in violation of section 6711(a);
+&emsp;(1) a person in the United States has been excluded or denied benefits of, or discriminatedagainst under, the program or activity of the government, in violation of section 6711(a);
 
 &emsp;(2) the program or activity of the government violated a prohibition described in section 6711(b); and
 

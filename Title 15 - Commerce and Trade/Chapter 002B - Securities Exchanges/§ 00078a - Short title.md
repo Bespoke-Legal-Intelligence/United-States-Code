@@ -8,6 +8,10 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, 78ee to 78hh, and 78mm of this title. Sections 78kk, 78<i>ll</i>, and 78nn of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–291, §1, Sept. 29, 2006, 120 Stat. 1327, provided that: “This Act \[enacting section 78<i>o</i>–7 of this title, amending sections 78c, 78<i>o</i>, 78q, 78u–2, 80a–2, 80a–9, 80b–2, and 80b–3 of this title, section 4519 of Title 12, Banks and Banking, section 1087–2 of Title 20, Education, and section 181 of Title 23, Highways, and enacting provisions set out as notes under section 78<i>o</i>–7 of this title\] may be cited as the ‘Credit Rating Agency Reform Act of 2006’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–458, title VII, §7803(a), Dec. 17, 2004, 118 Stat. 3861, provided that: “This section \[amending sections 78<i>l</i> and 78<i>o</i>–5 of this title\] may be cited as the ‘Emergency Securities Response Act of 2004’.”
@@ -22,11 +26,11 @@ Pub. L. 107–123, §1, Jan. 16, 2002, 115 Stat. 2390, provided that: “This Ac
 
 Pub. L. 105–366, §1, Nov. 10, 1998, 112 Stat. 3302, provided that: “This Act \[enacting section 78dd–3 of this title, amending sections 78dd–1, 78dd–2, and 78ff of this title, and enacting provisions set out as notes under section 78dd–1 of this title\] may be cited as the ‘International Anti-Bribery and Fair Competition Act of 1998’.”
 
-Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act \[amending sections 77b, 77k, 77m,77p, 77r, 77v, 77z–1 to 77z–3, 77aa, 77ccc, 77ddd, 77mmm, 77sss, 78c, 78d, 78g, 78n, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78s, 78t, 78u–4, 78z, 78bb, 78ee, 78kk, 78<i>ll</i>, 80a–2, 80a–3, 80a–12, 80a–18, 80a–29, 80a–30, 80b–3, and 80b–18a of this title and enacting provisions set out as notes under this section and sections 77p and 78u of this title\] may be cited as the ‘Securities Litigation Uniform Standards Act of 1998’.”
+Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act \[amending sections 77b, 77k, 77m, 77p, 77r, 77v, 77z–1 to 77z–3, 77aa, 77ccc, 77ddd, 77mmm, 77sss, 78c, 78d, 78g, 78n, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78s, 78t, 78u–4, 78z, 78bb, 78ee, 78kk, 78<i>ll</i>, 80a–2, 80a–3, 80a–12, 80a–18, 80a–29, 80a–30, 80b–3, and 80b–18a of this title and enacting provisions set out as notes under this section and sections 77p and 78u of this title\] may be cited as the ‘Securities Litigation Uniform Standards Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
+Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm,and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
 
 Pub. L. 104–290, title I, §101, Oct. 11, 1996, 110 Stat. 3417, provided that: “This title \[enacting sections 77z–3 and 78mm of this title, amending sections 77b, 77r, 78c, 78g, 78h, 78<i>o</i>, 78q, 78bb, and 80a–2 of this title, and enacting provisions set out as notes under sections 77e and 77r of this title\] may be cited as the ‘Capital Markets Efficiency Act of 1996’.”
 
@@ -80,7 +84,7 @@ Pub. L. 99–571, §1(a), Oct. 28, 1986, 100 Stat. 3208, provided that: “This 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–222, §1, Dec. 28, 1985, 99 Stat. 1737, provided that: “This Act \[amending section 78n of this title and enacting a provision set out as a note under section 78n of this title\] may be cited as the ‘Shareholder Communications Act of 1985’.”
+Pub. L. 99–222, §1, Dec. 28, 1985, 99 Stat. 1737, provided that: “This Act \[amending section 78n of this title andenacting a provision set out as a note under section 78n of this title\] may be cited as the ‘Shareholder Communications Act of 1985’.”
 
 #### Short Title of 1984 Amendment
 

@@ -30,7 +30,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (iii) Appeal of random selection
 
-&emsp;&emsp;&emsp;A random selection or denial by the Secretary of a beginning farmer or rancher for farm inventory property under this subparagraph shall be final and not administratively appealable.
+&emsp;&emsp;&emsp;A random selection or denial by the Secretary of a beginning farmer or rancher forfarm inventory property under this subparagraph shall be final and not administratively appealable.
 
 #### (iv) Combining and dividing of property
 
@@ -108,7 +108,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (d) Easements; condemnations
 
-With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for thedistrict, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
 
 #### (e) Real property located within Indian reservation; conservation practices; adverse effects prohibition
 
@@ -216,7 +216,7 @@ Foreclosure procedures.—
 
 Notice to borrower.—If an Indian borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), not less than 30 days before a foreclosure sale of the property, the Secretary shall provide the Indian borrower-owner with the option of—
 
-&emsp;&emsp;(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasing the Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
+&emsp;&emsp;(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasingthe Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
 
 &emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribe having jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
 
@@ -278,7 +278,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (B) Releases under such paragraph shall be made to qualified borrowers who have responded to the notice within 30 days after receipt.
 
-(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the 12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount of essential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
+(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the 12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount ofessential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
 
 (6) If a borrower is required to plan for or to report on how proceeds from the sale of collateral property will be used, the Secretary shall—
 
@@ -412,7 +412,7 @@ Subsec. (g)(5). Pub. L. 104–127, §639(3), struck out par. (5) which read as f
 
 &emsp;“(A) establish wetland conservation easements on wetland that was converted prior to December 23, 1985, in a quantity that is less than 10 percent of the existing croplands available for production of agricultural commodities on the particular parcel; and
 
-&emsp;“(B) if the reduction provided in subparagraph (A) is not applicable, or is not sufficient to ensure that the particular parcel would be a marketable agricultural production unit, amend the wetland conservation easements established on the wetlands that have been frequently planted to agricultural commodities to permit the production of agricultural commodities (consistent with title XII of the Food Security Act of 1985) on the wetlands, to the extent necessary to maintain the parcel as a marketable agricultural production unit.”
+&emsp;“(B) if the reduction provided in subparagraph (A) is not applicable, or is not sufficient to ensure thatthe particular parcel would be a marketable agricultural production unit, amend the wetland conservation easements established on the wetlands that have been frequently planted to agricultural commodities to permit the production of agricultural commodities (consistent with title XII of the Food Security Act of 1985) on the wetlands, to the extent necessary to maintain the parcel as a marketable agricultural production unit.”
 
 Subsec. (g)(6), (7). Pub. L. 104–127, §639(4), (5), redesignated pars. (6) and (7) as (3) and (4), respectively.
 

@@ -9,7 +9,7 @@
 | [5135\.](%C2%A7%2005135%20-%20Bureau%20Chiefs%20succession%20to%20duties.md) | Bureau Chiefs: succession to duties. |
 | \[5136. | Repealed.\] |
 | [5137\.](%C2%A7%2005137%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Chief%3B%20Deputy%20Chief.md) | Bureau of Medicine and Surgery: Chief; Deputy Chief. |
-| [5138\.](%C2%A7%2005138%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Dental%20Division%3B%20Chief%3B%20functions.md) | Bureau of Medicine and Surgery: Dental Division; Chief; functions. |
+| [5138\.](%C2%A7%2005138%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Dental%20Corps%3B%20Chief%3B%20functions.md) | Bureau of Medicine and Surgery: Dental Corps; Chief; functions. |
 | [5139\.](%C2%A7%2005139%20-%20Appointment%20of%20chiropractors%20in%20the%20Medical%20Service%20Corps.md) | Appointment of chiropractors in the Medical Service Corps. |
 | \[5140. | Repealed.\] |
 | [5141\.](%C2%A7%2005141%20-%20Bureau%20of%20Naval%20Personnel%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md) | Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel. |
@@ -29,7 +29,9 @@
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title V, §515(b)(4)(A), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy” for “Naval” in item 5143.
+2006—Pub. L. 109–364, div. A, title V, §593(d)(2), Oct. 17, 2006, 120 Stat. 2235, substituted “Corps” for “Division” in item 5138.
+
+Pub. L. 109–163, div. A, title V, §515(b)(4)(A), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy” for “Naval” in item 5143.
 
 1996—Pub. L. 104–201, div. A, title XII, §1212(b)(2), (c)(2), Sept. 23, 1996, 110 Stat. 2692, 2693, added items 5143 and 5144.
 
@@ -45,7 +47,7 @@ Pub. L. 96–343, §11(b), Sept. 8, 1980, 94 Stat. 1130, substituted “Chaplain
 
 1967—Pub. L. 90–179, §2(3), Dec. 8, 1967, 81 Stat. 547, inserted reference to Judge Advocate General's Corps in item 5148 and inserted reference to Deputy Judge Advocate General and substituted “Advocates General” for “Advocate General; succession to duties” after “Assistant Judge” in item 5149.
 
-1966—Pub. L. 89–718, §§35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Heads thereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
+1966—Pub. L. 89–718, §§35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items 5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Heads thereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
 
 1959—Pub. L. 86–174, §§1(3), 2(4), Aug. 18, 1959, 73 Stat. 395, 396, added item 5154 and eliminated items 5136 and 5144.
 
@@ -61,7 +63,7 @@ Pub. L. 96–343, §11(b), Sept. 8, 1980, 94 Stat. 1130, substituted “Chaplain
 - [&sect; 05135 - Bureau Chiefs succession to duties](%C2%A7%2005135%20-%20Bureau%20Chiefs%20succession%20to%20duties.md)
 - [&sect; 05136 - Repealed. Pub. L. 86&#8211;174, &sect;2(3), Aug. 18, 1959, 73 Stat. 396](%C2%A7%2005136%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93174%2C%20%C2%A72%283%29%2C%20Aug.%2018%2C%201959%2C%2073%20Stat.%20396.md)
 - [&sect; 05137 - Bureau of Medicine and Surgery Chief; Deputy Chief](%C2%A7%2005137%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Chief%3B%20Deputy%20Chief.md)
-- [&sect; 05138 - Bureau of Medicine and Surgery Dental Division; Chief; functions](%C2%A7%2005138%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Dental%20Division%3B%20Chief%3B%20functions.md)
+- [&sect; 05138 - Bureau of Medicine and Surgery Dental Corps; Chief; functions](%C2%A7%2005138%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Dental%20Corps%3B%20Chief%3B%20functions.md)
 - [&sect; 05139 - Appointment of chiropractors in the Medical Service Corps](%C2%A7%2005139%20-%20Appointment%20of%20chiropractors%20in%20the%20Medical%20Service%20Corps.md)
 - [&sect; 05140 - Repealed. Pub. L. 96&#8211;513, title III, &sect;352(a), Dec. 12, 1980, 94 Stat. 2902](%C2%A7%2005140%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7352%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202902.md)
 - [&sect; 05141 - Bureau of Naval Personnel Chief of Naval Personnel; Deputy Chief of Naval Personnel](%C2%A7%2005141%20-%20Bureau%20of%20Naval%20Personnel%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md)

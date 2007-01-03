@@ -92,7 +92,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 “(h)(1) Not later than June 1, 1984, the Secretary shall transmit to the Congress an interim report on the implementation of the demonstration under this section.
 
-“(2) The Secretary shall transmit, not later than October 1, 1985, to both Houses of the Congress a detailed report concerning the findings and conclusions that have been reached by the Secretary as a result of carrying out this section, along with any legislative recommendations that the Secretary determines are necessary.
+“(2) The Secretary shall transmit, not later than October 1, 1985, to both Houses of the Congress a detailedreport concerning the findings and conclusions that have been reached by the Secretary as a result of carrying out this section, along with any legislative recommendations that the Secretary determines are necessary.
 
 “(i) To carry out this section, there are authorized to be appropriated not to exceed $10,000,000 during fiscal year 1984, and not to exceed $15,000,000 during fiscal year 1985, to remain available until expended.”
 

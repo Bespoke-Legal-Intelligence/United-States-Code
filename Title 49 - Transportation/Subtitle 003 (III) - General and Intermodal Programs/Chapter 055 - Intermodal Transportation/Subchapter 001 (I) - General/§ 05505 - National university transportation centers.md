@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Establishment and operation.—The Secretary of Transportation shall make grants under this section to eligible nonprofit institutions of higher learning to establish and operate national university transportation centers.
+Establishment and operation.—The Secretary of Transportation shall make grantsunder this section to eligible nonprofit institutions of higher learning to establish and operate national university transportation centers.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Grants.—The Secretary shall make a grant under this section to each eligible n
 
 2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to national university transportation centers for provisions relating to university transportation research.
 
-1998—Subsec. (g)(2). Pub. L. 105–178, §5110(d)(1), as added by Pub. L. 105–206, substituted “‘section 508 of title 23, United States Code,” for “section 5506,”.
+1998—Subsec. (g)(2). Pub. L. 105–178, §5110(d)(1), as added by Pub. L. 105–206, substituted “section 508 of title 23, United States Code,” for “section 5506,”.
 
 Subsec. (i). Pub. L. 105–178, §5110(d)(2), as added by Pub. L. 105–206, inserted “Subject to section 5338(e):” before par. (1) and substituted “institutions or groups of institutions” for “institutions” wherever appearing.
 
@@ -58,7 +58,7 @@ Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–20
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

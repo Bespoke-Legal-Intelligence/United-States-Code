@@ -22,7 +22,7 @@ Airport Development Project Grant Application Approval.—The Secretary may appr
 
 &emsp;(2) the interests of the community in or near which the project may be located have been given fair consideration; and
 
-&emsp;(3) the application provides touchdown zone and centerline runway lighting, high intensity runway lighting, or land necessary for installing approach light systems that the Secretary, considering the category of the airport andthe kind and volume of traffic using it, decides is necessary for safe and efficient use of the airport by aircraft.
+&emsp;(3) the application provides touchdown zone and centerline runway lighting, high intensity runway lighting, or land necessary for installing approach light systems that the Secretary, considering the category of the airport and the kind and volume of traffic using it, decides is necessary for safe and efficient use of the airport by aircraft.
 
 (c)
 
@@ -102,7 +102,7 @@ Covered airport defined.—In this subsection, the term “covered airport” me
 
 Consultation With Secretary of Homeland Security.—The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b),Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539.)
 
 Historical and Revision Notes
 

@@ -3,9 +3,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [1681\.](%C2%A7%2001681%20-%20Sex.md) | Sex. |
-| (a) | Prohibition against discrimination; exceptions. |
-| (b) | Preferential or disparate treatment because of imbalance in participation or receipt of Federal benefits; statistical evidence of imbalance. |
-| (c) | “Educational institution” defined. |
 | [1682\.](%C2%A7%2001682%20-%20Federal%20administrative%20enforcement%3B%20report%20to%20Congressional%20committees.md) | Federal administrative enforcement; report to Congressional committees. |
 | [1683\.](%C2%A7%2001683%20-%20Judicial%20review.md) | Judicial review. |
 | [1684\.](%C2%A7%2001684%20-%20Blindness%20or%20visual%20impairment%3B%20prohibition%20against%20discrimination.md) | Blindness or visual impairment; prohibition against discrimination. |

@@ -6,7 +6,7 @@ The lands lying in Pipestone County, Minnesota, within the area hereinafter desc
 
 #### (b) Administration, protection, and development
 
-The administration, protection, and development of such monument shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection, and development of such monument shall be exercised underthe direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 
 #### (c) Quarry rights of Indians
 

@@ -14,7 +14,7 @@ The pay of an employee shall not be reduced during a period of absence with resp
 
 &emsp;(1) as a juror; or
 
-&emsp;(2) other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
+&emsp;(2) other than as provided in subsection (c) of this section, as a witness on behalf of anyparty in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
 
 > in the District of Columbia, a State, territory, or possession of the United States including the Commonwealth of Puerto Rico, the Canal Zone, or the Trust Territory of the Pacific Islands. For purposes of this subsection, “judicial proceeding” means any action, suit, or other judicial proceeding, including any condemnation, preliminary, informational, or other proceeding of a judicial nature, but does not include an administrative proceeding.
 
@@ -40,7 +40,7 @@ An employee is performing official duty during the period with respect to which 
 
 (1) An employee summoned (and authorized to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify or produce official records on behalf of the United States is entitled to travel expenses. If the case involves an activity in connection with which he is employed, the travel expenses shall be paid from funds otherwise available for the payment of travel expenses of such House in accordance with travel regulations of that House. If the case does not involve such an activity, the department, agency, or independent establishment of the United States on whose behalf he is so testifying or producing records shall pay to the employee his travel expenses out of appropriations otherwise available, and in accordance with regulation applicable, to that department, agency, or independent establishment for the payment of travel expenses.
 
-(2) An employee summoned (and permitted to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify in his official capacity orproduce official records on behalf of a party other than the United States, is entitled to travel expenses, unless any travel expenses are paid to the employee for his appearance by the court, authority, or party which caused him to be summoned.
+(2) An employee summoned (and permitted to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify in his official capacity or produce official records on behalf of a party other than the United States, is entitled to travel expenses, unless any travel expenses are paid to the employee for his appearance by the court, authority, or party which caused him to be summoned.
 
 #### (f) Rules and regulations
 

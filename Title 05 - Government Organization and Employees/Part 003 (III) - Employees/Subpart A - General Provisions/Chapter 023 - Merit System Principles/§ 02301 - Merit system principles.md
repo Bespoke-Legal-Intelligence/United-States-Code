@@ -54,7 +54,7 @@ Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Notification and Federal Employee Antidiscrimination and Retaliation
 
-Pub. L. 107–174, May 15, 2002, 116 Stat. 566, provided that:
+Pub. L. 107–174, May 15, 2002, 116 Stat. 566, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that:
 
 #### “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -130,7 +130,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;“(2) the term ‘basis of alleged discrimination’ shall have the meaning given such term under section 303;
 
-&emsp;“(3) the term ‘Federal agency’ means an Executive agency (as defined in section 105 of title 5, United States Code), the United States Postal Service, or the Postal Rate Commission;
+&emsp;“(3) the term ‘Federal agency’ means an Executive agency (as defined in section 105 of title 5, United States Code), the United States Postal Service, or the Postal Regulatory Commission;
 
 &emsp;“(4) the term ‘Federal employee’ means an individual employed in or under a Federal agency;
 
@@ -224,7 +224,7 @@ Annual Report.—Subject to subsection (b), not later than 180 days after the en
 
 “(b)
 
-First Report.—The 1st report submitted under subsection (a) shall include for each item under subsection (a) data for each of the 5 immediately precedingfiscal years (or, if data are not available for all 5 fiscal years, for each of those 5 fiscal years for which data are available).
+First Report.—The 1st report submitted under subsection (a) shall include for each item under subsection (a) data for each of the 5 immediately preceding fiscal years (or, if data are not available for all 5 fiscal years, for each of those 5 fiscal years for which data are available).
 
 #### “SEC. 204. RULES AND GUIDELINES.
 
@@ -276,7 +276,7 @@ Contents.—The study shall include a detailed summary of matters investigated, 
 
 &emsp;&emsp;&emsp;“(iii) affect established alternative dispute resolution procedures in such agencies; and
 
-&emsp;&emsp;&emsp;“(iv) affect any other matters determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
+&emsp;&emsp;&emsp;“(iv) affect any other matters determined by the General Accounting Office \[now GovernmentAccountability Office\] to be appropriate for consideration.
 
 &emsp;“(2)
 

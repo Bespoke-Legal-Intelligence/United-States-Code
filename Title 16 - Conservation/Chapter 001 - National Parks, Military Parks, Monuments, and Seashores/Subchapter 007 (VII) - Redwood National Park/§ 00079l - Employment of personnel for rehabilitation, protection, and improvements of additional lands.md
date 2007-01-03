@@ -80,7 +80,7 @@ Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931,
 
 1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(1)\], struck out at end “In filling these positions, preference shall be given to affected employees (as defined in title II of this Act) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
 
-Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(2)\], struck out after first sentence “In fillingthese positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
+Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(2)\], struck out after first sentence “In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
 
 1980—Subsec. (h). Pub. L. 96–417 substituted provision for judicial review under section 2395 of title 19 for review under section 2322 of title 19 and provided for review in the appropriate court of appeals of the United States and for review of the judgment of the court of appeals by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 

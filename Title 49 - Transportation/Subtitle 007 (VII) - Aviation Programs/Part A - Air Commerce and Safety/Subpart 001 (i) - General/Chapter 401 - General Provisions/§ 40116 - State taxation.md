@@ -140,7 +140,7 @@ In subsection (b), before clause (1), reference to 49 App.:1513(f), restated as 
 
 In subsections (d)(2)(A), before clause (i), and (f)(1)(C) and (2), the word “political” is added for consistency in the revised title and with other titles of the Code.
 
-In subsection (f)(1)(A), the word “pay” is substituted for “compensation” for consistency in the revised title and with chapter 55 of title 5, United States Code. The words “rendered by the employee in the performance of his duties and shall include wages and salary” are omitted as surplus.
+In subsection (f)(1)(A), the word “pay” is substituted for “compensation” for consistency in the revised titleand with chapter 55 of title 5, United States Code. The words “rendered by the employee in the performance of his duties and shall include wages and salary” are omitted as surplus.
 
 In subsection (f)(1)(B), the words “means a State of the United States” are substituted for “also means” for clarity.
 

@@ -6,7 +6,7 @@ Each holding company and each associate company thereof shall maintain, and shal
 
 #### (b) Affiliate companies
 
-Each affiliate of a holding company or of any subsidiary company of a holding company shallmaintain, and shall make available to the Commission, such books, accounts, memoranda, and other records with respect to any transaction with another affiliate, as the Commission determines are relevant to costs incurred by a public utility or natural gas company that is an associate company of such holding company and necessary or appropriate for the protection of utility customers with respect to jurisdictional rates.
+Each affiliate of a holding company or of any subsidiary company of a holding company shall maintain, and shall make available to the Commission, such books, accounts, memoranda, and other records with respect to any transaction with another affiliate, as the Commission determines are relevant to costs incurred by a public utility or natural gas company that is an associate company of such holding company and necessary or appropriate for the protection of utility customers with respect to jurisdictional rates.
 
 #### (c) Holding company systems
 

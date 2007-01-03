@@ -28,7 +28,7 @@ The Council shall submit annually a comprehensive report of its activities and t
 
 1980—Subsec. (a)(6), (7). Pub. L. 96–515, §301(g)(1), added pars. (6) and (7).
 
-Subsec. (b). Pub. L. 96–515, §301(g)(2), inserted provision requiring in the Council's report an assessment ofcurrent and emerging problems in the field of historic preservation and an evaluation of the effectiveness of the programs of Federal agencies, State and local governments, and the private sector.
+Subsec. (b). Pub. L. 96–515, §301(g)(2), inserted provision requiring in the Council's report an assessment of current and emerging problems in the field of historic preservation and an evaluation of the effectiveness of the programs of Federal agencies, State and local governments, and the private sector.
 
 #### Termination of Reporting Requirements
 
@@ -36,5 +36,5 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
 #### Relationship of Federal Tax Laws to Historic Preservation; Report to President and Congress
 
-Section 503 of Pub. L. 96–515 directed the Advisory Council on Historic Preservation to submit a report, within one year of Dec. 12, 1980, to the President and the Congress on Federal tax laws relating to historic preservation or affecting in any manner historic preservation.
+Section 503 of Pub. L. 96–515 directed the Advisory Council on Historic Preservation to submit a report,within one year of Dec. 12, 1980, to the President and the Congress on Federal tax laws relating to historic preservation or affecting in any manner historic preservation.
 

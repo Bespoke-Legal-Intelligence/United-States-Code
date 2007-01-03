@@ -10,7 +10,7 @@ The Secretary of the Treasury and the Secretary of Health and Human Services sha
 
 #### (c) Conduct of hearings
 
-Hearings authorized or required by this chapter shall be conducted by the Secretary or such officer or employee as he may designate for the purpose.
+Hearings authorized or required by this chapter shall be conducted by the Secretary or suchofficer or employee as he may designate for the purpose.
 
 #### (d) Effectiveness of definitions and standards of identity
 
@@ -30,7 +30,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Secretary, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original order, with the return of such additional evidence.
 
-(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the courtshall have jurisdiction to affirm the order, or to set it aside in whole or in part, temporarily or permanently. If the order of the Secretary refuses to issue, amend, or repeal a regulation and such order is not in accordance with law the court shall by its judgment order the Secretary to take action, with respect to such regulation, in accordance with law. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to affirm the order, or to set it aside in whole or in part, temporarily or permanently. If the order of the Secretary refuses to issue, amend, or repeal a regulation and such order is not in accordance with law the court shall by its judgment order the Secretary to take action, with respect to such regulation, in accordance with law. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -40,7 +40,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (g) Copies of records of hearings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
+A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment ofthe costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
 
 #### (h) Guidance documents
 
@@ -78,7 +78,7 @@ Subsec. (f)(4). Pub. L. 103–80, §3(y)(2), substituted reference to section 12
 
 1992—Subsec. (b). Pub. L. 102–300, which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
 
-1990—Subsec. (e)(1). Pub. L. 101–535, §8, as amended by Pub. L. 103–80, §4(c), substituted “Any action for the issuance, amendment, or repeal of any regulation undersection 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” for “Any action for the issuance, amendment, or repeal of any regulation under section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title”.
+1990—Subsec. (e)(1). Pub. L. 101–535, §8, as amended by Pub. L. 103–80, §4(c), substituted “Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” for “Any action for the issuance, amendment, or repeal of any regulation under section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title”.
 
 1960—Subsec. (e). Pub. L. 86–618 substituted “section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h), of this title” for “section 341, 343(j), 344(a), 346(a) or (b), 351(b), 352(d) or (h), 354 or 364 of this title”.
 

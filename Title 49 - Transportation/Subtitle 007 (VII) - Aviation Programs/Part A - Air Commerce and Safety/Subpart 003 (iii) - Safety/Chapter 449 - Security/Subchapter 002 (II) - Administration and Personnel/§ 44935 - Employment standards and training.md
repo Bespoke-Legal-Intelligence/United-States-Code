@@ -306,7 +306,7 @@ Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, provided that
 
 #### Certification of Screening Companies
 
-Pub. L. 104–264, title III, §302, Oct. 9, 1996, 110 Stat. 3250, provided that: “The Administrator of the FederalAviation Administration is directed to certify companies providing security screening and to improve the training and testing of security screeners through development of uniform performance standards for providing security screening services.”
+Pub. L. 104–264, title III, §302, Oct. 9, 1996, 110 Stat. 3250, provided that: “The Administrator of the Federal Aviation Administration is directed to certify companies providing security screening and to improve the training and testing of security screeners through development of uniform performance standards for providing security screening services.”
 
 #### Studies of Minimum Standards for Pilot Qualifications and of Pay for Training
 

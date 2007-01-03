@@ -40,6 +40,12 @@ Amendment by Pub. L. 104–317 effective 60 days after Oct. 19, 1996, see sectio
 
 Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pub. L. 102–572, set out as a note under section 905 of Title 2, The Congress.
 
+#### Expenditure Limitation
+
+Pub. L. 109–171, title X, §10001(c), Feb. 8, 2006, 120 Stat. 183, provided that: “Incremental amounts collected by reason of the enactment of this section \[amending section 1914 of this title and enacting provisions set out as notes under sections 1913 and 1914 of this title\] shall be deposited in a special fund in the Treasury to be established after the enactment of this Act \[Feb. 8, 2006\]. Such amounts shall be available for the purposes specified in section 1931(a) of title 28, United States Code, but only to the extent specifically appropriated by an Act of Congress enacted after the enactment of this Act.”
+
+Pub. L. 109–171, title X, §10101(b), Feb. 8, 2006, 120 Stat. 184, provided that: “Incremental amounts collected by reason of the amendments made by subsection (a) \[amending section 1930 of this title\] shall be deposited in a special fund in the Treasury to be established after the enactment of this Act \[Feb. 8, 2006\]. Such amounts shall be available for the purposes specified in section 1931(a) of title 28, United States Code, but only to the extent specifically appropriated by an Act of Congress enacted after the enactment of this Act.”
+
 #### Disposition of Fees
 
 Pub. L. 106–518, title I, §102, Nov. 13, 2000, 114 Stat. 2411, provided that: “For fiscal year 2001 and each fiscal year thereafter, any portion of miscellaneous fees collected as prescribed by the Judicial Conference of the United States under sections 1913, 1914(b), 1926(a), 1930(b), and 1932 of title 28, United States Code, exceeding the amount of such fees in effect on September 30, 2000, shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.”

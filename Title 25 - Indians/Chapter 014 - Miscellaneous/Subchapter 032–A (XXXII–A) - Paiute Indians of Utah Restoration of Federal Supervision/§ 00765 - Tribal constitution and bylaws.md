@@ -12,7 +12,7 @@ Upon the written request of the Interim Council, the Secretary shall conduct an 
 
 #### (b) Pre-election duties and functions of Interim Council
 
-The Interim Council shall draft and distribute to each member described in section 763(d) of this title, no later than thirty days before the election under subsection (a) of this section, acopy of the proposed constitution and bylaws of the tribe, as drafted by the Interim Council, along with a brief and impartial description of the proposed constitution and bylaws. The members of the Interim Council may freely consult with members of the tribe concerning the text and description of the constitution and bylaws, except that such consultation may not be carried on within fifty feet of the polling places on the date of the election.
+The Interim Council shall draft and distribute to each member described in section 763(d) of this title, no later than thirty days before the election under subsection (a) of this section, a copy of the proposed constitution and bylaws of the tribe, as drafted by the Interim Council, along with a brief and impartial description of the proposed constitution and bylaws. The members of the Interim Council may freely consult with members of the tribe concerning the text and description of the constitution and bylaws, except that such consultation may not be carried on within fifty feet of the polling places on the date of the election.
 
 #### (c) Majority vote for adoption
 

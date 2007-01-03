@@ -98,7 +98,7 @@ The designations made, and priorities established, by the Secretary under this s
 
 &emsp;&emsp;(B) the removal, to a site in the State of Utah, for permanent disposition and any necessary stabilization, of residual radioactive material and other contaminated material from the Moab site and the floodplain of the Colorado River.
 
-(Pub. L. 95–604, title I, §102, Nov. 8, 1978, 92 Stat. 3023; Pub. L. 97–415, §21, Jan. 4, 1983, 96 Stat. 2079;Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–489.)
+(Pub. L. 95–604, title I, §102, Nov. 8, 1978, 92 Stat. 3023; Pub. L. 97–415, §21, Jan. 4, 1983, 96 Stat. 2079; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–489.)
 
 #### References in Text
 

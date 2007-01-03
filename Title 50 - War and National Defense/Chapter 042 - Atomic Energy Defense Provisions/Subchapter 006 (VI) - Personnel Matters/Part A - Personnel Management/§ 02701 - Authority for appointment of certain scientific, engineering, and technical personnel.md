@@ -28,11 +28,11 @@
 
 #### (c) Termination
 
-(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2006.
+(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2008.
 
 (2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).
 
-(Pub. L. 107–314, div. D, title XLVI, §4601, formerly Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095; Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745; renumbered Pub. L. 107–314, div. D, title XLVI, §4601, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(2), Nov. 24, 2003, 117 Stat. 1776; Pub. L. 108–375, div. C, title XXXI, §3112, Oct. 28, 2004, 118 Stat. 2160.)
+(Pub. L. 107–314, div. D, title XLVI, §4601, formerly Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095; Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745; renumbered Pub. L. 107–314, div. D, title XLVI, §4601, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(2), Nov. 24, 2003, 117 Stat. 1776; Pub. L. 108–375, div. C, title XXXI, §3112, Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3115, Oct. 17, 2006, 120 Stat. 2506.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ The General Schedule, referred to in subsec. (a)(1), is set out under section 53
 Section was formerly set out as a note under section 7231 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–364 substituted “September 30, 2008” for “September 30, 2006”.
 
 2004—Subsec. (c)(1). Pub. L. 108–375 substituted “September 30, 2006” for “September 30, 2004”.
 

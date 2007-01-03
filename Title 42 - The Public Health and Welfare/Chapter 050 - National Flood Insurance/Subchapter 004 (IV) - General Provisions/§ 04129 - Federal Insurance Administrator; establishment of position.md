@@ -8,7 +8,7 @@ There is hereby established in the Federal Emergency Management Agency the posit
 
 Section was formerly classified to section 3533a of this title.
 
-Section was enacted as part of the Urban Property Protection and Reinsurance Act of 1968 and also as part of the Housing and Urban Development Act of 1968, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Urban Property Protection and Reinsurance Act of 1968 and also as partof the Housing and Urban Development Act of 1968, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
 
@@ -16,5 +16,7 @@ Section was enacted as part of the Urban Property Protection and Reinsurance Act
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

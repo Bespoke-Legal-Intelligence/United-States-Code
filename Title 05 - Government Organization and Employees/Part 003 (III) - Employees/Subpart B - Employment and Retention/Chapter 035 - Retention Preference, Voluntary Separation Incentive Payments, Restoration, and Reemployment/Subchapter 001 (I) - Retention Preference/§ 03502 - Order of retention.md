@@ -52,7 +52,7 @@
 
 &emsp;(A) shall be given to—
 
-&emsp;&emsp;(i) the State or entity designated by the State to carry out rapid response activitiesunder section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
+&emsp;&emsp;(i) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
 
 &emsp;&emsp;(ii) the chief elected official of such unit or each of such units of local government as may be appropriate; and
 
@@ -124,7 +124,7 @@ Section 8(b) of the Soil Conservation and Allotment Act, referred to in subsec. 
 
 Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(i), is classified to section 610(b) of Title 7, Agriculture.
 
-The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to section 2864(a)(2)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified tosection 2864(a)(2)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
@@ -298,7 +298,7 @@ Applicability of Indian preference laws to Bureau of Indian Affairs and Indian H
 
 #### Ex. Ord. No. 12828. Delegation of Certain Personnel Management Authorities
 
-Ex. Ord. No. 12828, Jan. 5, 1993, 58 F.R. 2965, provided:
+Ex. Ord. No. 12828, Jan. 5, 1993, 58 F.R. 2965, as amended by Ex. Ord. No. 13415, §2(b), Dec. 1, 2006, 71 F.R. 70641, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code and sections 3502(e), 4505a(e), and 5377(i)(2) of title 5 of the United States Code, it is hereby ordered as follows:
 
@@ -308,9 +308,5 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 
 (2) The authority of the President under 5 U.S.C. 4505a(e), as added by section 2(19) of Public Law 102–378, to permit performance-based cash awards to be paid to categories of employees who would not otherwise be eligible.
 
-Sec. 2. The Director of the Office of Management and Budget is designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority of the President under 5 U.S.C. 5377(i)(2), as added by section 2(34) of Public Law 102–378, to designate one or more categories of positions within an agency to be treated as critical positions within the meaning of 5 U.S.C. 5377(a)(2).
-
-Sec. 3. This order shall be effective immediately.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 2. This order shall be effective immediately.
 

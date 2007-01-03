@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 46:239(f)
 
-Section 6304 provides an officer investigating a marine casualty with the necessary subpena authority to require the attendance and testimony of witnesses and the production of evidence. It also authorizes a districtcourt of the United States to direct compliance with a subpena.
+Section 6304 provides an officer investigating a marine casualty with the necessary subpena authority to require the attendance and testimony of witnesses and the production of evidence. It also authorizes a district court of the United States to direct compliance with a subpena.
 

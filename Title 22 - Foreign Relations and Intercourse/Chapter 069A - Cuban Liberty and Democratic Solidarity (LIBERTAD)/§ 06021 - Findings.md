@@ -44,7 +44,7 @@ The Congress makes the following findings:
 
 &emsp;(17) The Castro government holds innocent Cubans hostage in Cuba by no fault of the hostages themselves solely because relatives have escaped the country.
 
-&emsp;(18) Although a signatory state to the 1928 Inter-American Convention on Asylum and the International Covenant on Civil and Political Rights (which protects the right to leave one's own country), Cuba nevertheless surrounds embassies in its capital by armed forces to thwart the right of its citizens to seek asylum and systematically denies that right to the Cuban people, punishing them by imprisonment for seeking to leave the country and killing them for attempting to do so (as demonstrated in the case of the confirmed murder of over 40 men, women, and childrenwho were seeking to leave Cuba on July 13, 1994).
+&emsp;(18) Although a signatory state to the 1928 Inter-American Convention on Asylum and the International Covenant on Civil and Political Rights (which protects the right to leave one's own country), Cuba nevertheless surrounds embassies in its capital by armed forces to thwart the right of its citizens to seek asylum and systematically denies that right to the Cuban people, punishing them by imprisonment for seeking to leave the country and killing them for attempting to do so (as demonstrated in the case of the confirmed murder of over 40 men, women, and children who were seeking to leave Cuba on July 13, 1994).
 
 &emsp;(19) The Castro government continues to utilize blackmail, such as the immigration crisis with which it threatened the United States in the summer of 1994, and other unacceptable and illegal forms of conduct to influence the actions of sovereign states in the Western Hemisphere in violation of the Charter of the Organization of American States and other international agreements and international law.
 
@@ -54,7 +54,7 @@ The Congress makes the following findings:
 
 &emsp;(22) The United Nations General Assembly passed Resolution 47–139 on December 18, 1992, Resolution 48–142 on December 20, 1993, and Resolution 49–200 on December 23, 1994, referencing the Special Rapporteur's reports to the United Nations and condemning violations of human rights and fundamental freedoms in Cuba.
 
-&emsp;(23) Article 39 of Chapter VII of the United Nations Charter provides that the United Nations Security Council “shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken . . ., to maintain or restore international peace and security.
+&emsp;(23) Article 39 of Chapter VII of the United Nations Charter provides that the United Nations Security Council “shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken . . ., to maintain or restore international peace and security.”.
 
 &emsp;(24) The United Nations has determined that massive and systematic violations of human rights may constitute a “threat to peace” under Article 39 and has imposed sanctions due to such violations of human rights in the cases of Rhodesia, South Africa, Iraq, and the former Yugoslavia.
 

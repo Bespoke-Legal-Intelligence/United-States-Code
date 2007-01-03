@@ -8,7 +8,7 @@
 
 #### (2) Director
 
-&emsp;The Secretary shall appoint a Director to manage the activities of the Agricultural Weather Office and to advise the Secretary on scientific and programmatic coordination for climate, weather, and remote sensing.
+&emsp;The Secretary shall appoint a Director to manage the activities of the AgriculturalWeather Office and to advise the Secretary on scientific and programmatic coordination for climate, weather, and remote sensing.
 
 #### (b) Authority
 

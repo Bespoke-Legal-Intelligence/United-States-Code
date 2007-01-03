@@ -8,7 +8,7 @@
 
 &emsp;(B) Under the Single Convention on Narcotic Drugs, 1961, and under the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, the parties are required to criminalize certain drug-related activities, provide appropriately severe penalties, and cooperate in the extradition of accused offenders.
 
-&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion,and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
+&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion, and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
 
 &emsp;(D) International criminal activities, particularly international narcotics trafficking, money laundering, and corruption, endanger political and economic stability and democratic development, and assistance for the prevention and suppression of international criminal activities should be a priority for the United States.
 
@@ -72,7 +72,7 @@
 
 #### (3) Report upon determination of harm to environment or health
 
-&emsp;If the President determines that any such use is harmful to the environment or thehealth of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
+&emsp;If the President determines that any such use is harmful to the environment or the health of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
 
 #### (e) Definitions
 
@@ -130,7 +130,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I,§1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -198,7 +198,7 @@ Pub. L. 102–550, §1519(b), added par. (7) and redesignated former pars. (7) a
 
 &emsp;“(ii) which countries identified pursuant to clause (i) have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
 
-&emsp;“(iii) which countries identified pursuant to clause (ii) have not reached agreement with the UnitedStates authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings;
+&emsp;“(iii) which countries identified pursuant to clause (ii) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings;
 
 &emsp;“(iv) which countries identified pursuant to clause (iii)—
 
@@ -266,7 +266,7 @@ Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted “illicit product
 
 Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
-Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
+Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discusschanges made since notification provided pursuant to subsec. (k)(2) and (3).
 
 1988—Subsec. (a)(1)(B) to (E). Pub. L. 100–690, §4502, added subpar. (B), and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
@@ -394,6 +394,32 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Prevention of Smuggling of Methamphetamine Into the United States From Mexico
+
+Pub. L. 109–177, title VII, §723, Mar. 9, 2006, 120 Stat. 269, provided that:
+
+“(a)
+
+In General.—The Secretary of State, acting through the Assistant Secretary of the Bureau for International Narcotics and Law Enforcement Affairs, shall take such actions as are necessary to prevent the smuggling of methamphetamine into the United States from Mexico.
+
+“(b)
+
+Specific Actions.—In carrying out subsection (a), the Secretary shall—
+
+&emsp;“(1) improve bilateral efforts at the United States-Mexico border to prevent the smuggling of methamphetamine into the United States from Mexico;
+
+&emsp;“(2) seek to work with Mexican law enforcement authorities to improve the ability of such authorities to combat the production and trafficking of methamphetamine, including by providing equipment and technical assistance, as appropriate; and
+
+&emsp;“(3) encourage the Government of Mexico to take immediate action to reduce the diversion of pseudoephedrine by drug trafficking organizations for the production and trafficking of methamphetamine.
+
+“(c)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Mar. 9, 2006\], and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report on the implementation of this section for the prior year.
+
+“(d)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary to carry out this section $4,000,000 for each of the fiscal years 2006 and 2007.”
+
 #### Reports on Activities in Colombia
 
 Pub. L. 107–228, div. A, title VI, §694, Sept. 30, 2002, 116 Stat. 1415, provided that:
@@ -478,7 +504,7 @@ Pub. L. 101–513, title V, §599H, Nov. 5, 1990, 104 Stat. 2068, provided that:
 
 “(a)
 
-Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
+Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowinglysupplying chemicals for the illicit manufacture of controlled substances.
 
 “(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
@@ -488,7 +514,7 @@ Reports.—Not later than one year after the date of enactment of this Act \[Nov
 
 “(c)
 
-Penalties.—After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties orsanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States.
+Penalties.—After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties or sanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States.
 
 “(d)
 
@@ -560,7 +586,7 @@ Pub. L. 101–167, title V, §569(d), Nov. 21, 1989, 103 Stat. 1244, provided th
 
 #### Definition of Terms Used in International Narcotics Control Act of 1988
 
-Section 4003 of title IV of Pub. L. 100–690 defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of titleIV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Section 4003 of title IV of Pub. L. 100–690 defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of title IV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Regional Anti-Narcotics Forces
 
@@ -622,7 +648,7 @@ Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119,title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
 
 “(a)
 
@@ -648,7 +674,7 @@ Membership.—(1) The Caucus shall be composed of 12 members as follows:
 
 “(d)
 
-Powers.—In carrying out this section, the Caucus may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpoenas may be issued over the signature of the Chairman of the Caucus or any member designated byhim, and may be served by any person designated by the Chairman or such member. The Chairman of the Caucus, or any member designated by him, may administer oaths to any witness.
+Powers.—In carrying out this section, the Caucus may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpoenas may be issued over the signature of the Chairman of the Caucus or any member designated by him, and may be served by any person designated by the Chairman or such member. The Chairman of the Caucus, or any member designated by him, may administer oaths to any witness.
 
 “(e)
 
@@ -734,7 +760,7 @@ Section 4(a) \[Nov. 21, 1990, 104 Stat. 3353\]; section 4(e); and, in consultati
 
 (2) Delegate to the Secretary of Defense the functions conferred upon me by section 8 of the INCA \[set out as a note above\].
 
-(3) Delegate to the heads of executive departments and agencies those functions under the INCA relatingto notifications to the Congress insofar as such functions relate to programs for which those heads of departments and agencies have responsibilities for notifications to the Congress under Executive Order No. 12163, as amended \[22 U.S.C. 2381 note\]; provided that the heads of departments and agencies shall consult with the Secretary of State before exercising the functions delegated by this paragraph with regard to narcotics-related assistance.
+(3) Delegate to the heads of executive departments and agencies those functions under the INCA relating to notifications to the Congress insofar as such functions relate to programs for which those heads of departments and agencies have responsibilities for notifications to the Congress under Executive Order No. 12163, as amended \[22 U.S.C. 2381 note\]; provided that the heads of departments and agencies shall consult with the Secretary of State before exercising the functions delegated by this paragraph with regard to narcotics-related assistance.
 
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 

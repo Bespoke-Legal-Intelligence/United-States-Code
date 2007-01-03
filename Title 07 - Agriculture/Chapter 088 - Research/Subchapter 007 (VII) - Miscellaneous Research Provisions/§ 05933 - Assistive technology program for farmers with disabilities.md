@@ -34,7 +34,7 @@
 
 #### (6) Consideration for grants for new programs
 
-&emsp;For each fiscal year that amounts are made available for grants under this subsection, the Secretary may make grants in a manner that ensures that eligible entities who apply forgrants, but have not previously received a grant under this subsection, are given full consideration.
+&emsp;For each fiscal year that amounts are made available for grants under this subsection, the Secretary may make grants in a manner that ensures that eligible entities who apply for grants, but have not previously received a grant under this subsection, are given full consideration.
 
 #### (b) National grant for technical assistance, training, and dissemination
 

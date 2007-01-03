@@ -38,5 +38,5 @@ Nothing in this part shall limit the ability of a State to require a health plan
 
 #### References in Text
 
-Section 264(c)(2) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec.\(a)(2)(B), is section 264(c)(2) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264(c)(2) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(2)(B), is section 264(c)(2) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 

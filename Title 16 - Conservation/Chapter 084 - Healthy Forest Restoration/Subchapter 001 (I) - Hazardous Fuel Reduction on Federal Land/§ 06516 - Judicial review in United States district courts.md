@@ -22,7 +22,7 @@ In the judicial review of an action challenging an authorized hazardous fuel red
 
 #### (B) Updates
 
-&emsp;&emsp;In each renewal of an injunction in an action, the parties to the action shall present the court with updated information on the status of the authorized hazardous fuel reduction project.
+&emsp;&emsp;In each renewal of an injunction in an action, the parties to the action shall presentthe court with updated information on the status of the authorized hazardous fuel reduction project.
 
 #### (3) Balancing of short- and long-term effects
 

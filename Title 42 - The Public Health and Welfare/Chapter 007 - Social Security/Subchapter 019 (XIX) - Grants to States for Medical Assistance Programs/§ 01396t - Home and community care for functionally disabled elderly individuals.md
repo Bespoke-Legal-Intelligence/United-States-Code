@@ -182,7 +182,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (A) Annual reports
 
-&emsp;&emsp;As a condition for the receipt of payment under section 1396b(a) of this title with respect to medical assistance provided by a State for home and community care (other than a waiver under section 1396n(c) of this title and other than home health care services described in section 1396d(a)(7) of this title and personal care services specified under regulations under section 1396d(a)(23) of this title), the State shall report to the Secretary, with respect to each Federal fiscal year (beginning with fiscal year 1990) and in a format developed or approved by the Secretary, the amount of funds obligated by the State with respect to the provision of home and community care to the functionally disabled elderly in that fiscal year.
+&emsp;&emsp;As a condition for the receipt of payment under section 1396b(a) of this title with respect to medical assistance provided by a State for home and community care (other than a waiver under section 1396n(c) of this title and other than home health care services described in section 1396d(a)(7) of this title and personal care services specified under regulations under section 1396d(a)(23) of this title), the State shall report to the Secretary, with respect to each Federal fiscal year (beginning with fiscal year 1990) and in a format developed or approved by theSecretary, the amount of funds obligated by the State with respect to the provision of home and community care to the functionally disabled elderly in that fiscal year.
 
 #### (B) Reduction in payment if failure to maintain effort
 
@@ -284,7 +284,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (A) Responsibilities of the State
 
-&emsp;&emsp;Under each State plan under this subchapter, the State shall be responsible forcertifying the compliance of providers of home and community care and community care settings with the applicable requirements of subsections (f), (g) and (h) of this section. The failure of the Secretary to issue regulations to carry out this subsection shall not relieve a State of its responsibility under this subsection.
+&emsp;&emsp;Under each State plan under this subchapter, the State shall be responsible for certifying the compliance of providers of home and community care and community care settings with the applicable requirements of subsections (f), (g) and (h) of this section. The failure of the Secretary to issue regulations to carry out this subsection shall not relieve a State of its responsibility under this subsection.
 
 #### (B) Responsibilities of the Secretary
 
@@ -372,7 +372,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by the State of a civil money penalty under subsection (i)(3)(A) of this section) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by the State of a civil money penalty under subsection (i)(3)(A) of this section) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Suchcriteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 #### (ii) Deadline and guidance
 
@@ -386,7 +386,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (B) Other providers
 
-&emsp;&emsp;With respect to any other provider of home or community care in a State, if the Secretary finds that a provider no longer meets a requirement of this section, the Secretarymay terminate the provider's participation under the State plan and may provide, in addition, for a civil money penalty under subparagraph (C). If the Secretary finds that a provider meets such requirements but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subparagraph (C) for the period during which the Secretary finds that the provider was not in compliance with such requirements.
+&emsp;&emsp;With respect to any other provider of home or community care in a State, if the Secretary finds that a provider no longer meets a requirement of this section, the Secretary may terminate the provider's participation under the State plan and may provide, in addition, for a civil money penalty under subparagraph (C). If the Secretary finds that a provider meets such requirements but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subparagraph (C) for the period during which the Secretary finds that the provider was not in compliance with such requirements.
 
 #### (C) Civil money penalty
 
@@ -446,7 +446,7 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 #### (4) Allocation of medical assistance
 
-&emsp;The Secretary shall establish a limitation on the amount of Federal medical assistanceavailable to any State during the State's election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
+&emsp;The Secretary shall establish a limitation on the amount of Federal medical assistance available to any State during the State's election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1929, as added Pub. L. 101–508, title IV, §4711(b), Nov. 5, 1990, 104 Stat. 1388–174; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(v)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
 

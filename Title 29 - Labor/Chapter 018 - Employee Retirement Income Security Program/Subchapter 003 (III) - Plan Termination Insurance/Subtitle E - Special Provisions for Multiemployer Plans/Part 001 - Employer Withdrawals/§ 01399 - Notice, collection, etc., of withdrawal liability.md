@@ -36,7 +36,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs (4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as if the first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
 
-(ii) The determination of the amortization period described in clause (i) shall be based on the assumptions used for the most recent actuarial valuation for the plan.
+(ii) The determination of the amortization period described in clause (i) shall be based on theassumptions used for the most recent actuarial valuation for the plan.
 
 (B) In any case in which the amortization period described in subparagraph (A) exceeds 20 years, the employer's liability shall be limited to the first 20 annual payments determined under subparagraph (C).
 
@@ -46,7 +46,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 &emsp;(II) the highest contribution rate at which the employer had an obligation to contribute under the plan during the 10 plan years ending with the plan year in which the withdrawal occurs.
 
-> For purposes of the preceding sentence, a partial withdrawal described in section 1385(a)(1) of thistitle shall be deemed to occur on the last day of the first year of the 3-year testing period described in section 1385(b)(1)(B)(i) of this title.
+> For purposes of the preceding sentence, a partial withdrawal described in section 1385(a)(1) of this title shall be deemed to occur on the last day of the first year of the 3-year testing period described in section 1385(b)(1)(B)(i) of this title.
 
 (ii)(I) A plan may be amended to provide that for any plan year ending before 1986 the amount of each annual payment shall be (in lieu of the amount determined under clause (i)) the average of the required employer contributions under the plan for the period of 3 consecutive plan years (during the period of 10 consecutive plan years ending with the plan year preceding the plan year in which the withdrawal occurs) for which such required contributions were the highest.
 
@@ -88,7 +88,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (6) Except as provided in paragraph (1)(A)(ii), interest under this subsection shall be charged at rates based on prevailing market rates for comparable obligations, in accordance with regulations prescribed by the corporation.
 
-(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfaction of an employer's withdrawal liability if such rules—
+(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfactionof an employer's withdrawal liability if such rules—
 
 &emsp;(A) are consistent with this chapter, and
 
@@ -104,7 +104,7 @@ The prohibitions provided in section 1106(a) of this title do not apply to any a
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (c)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 

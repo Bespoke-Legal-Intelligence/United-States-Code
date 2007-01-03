@@ -19,7 +19,7 @@
 
 1986—Pub. L. 99–661, div. A, title VI, §604(f)(1)(B)(iv), Nov. 14, 1986, 100 Stat. 3877, struck out item 8687 “Compensation: members of Air Force other than of regular Air Force; when same as that provided for members of Regular Air Force”.
 
-1985—Pub. L. 99–145, title XIII, §1301(d)(1)(B), Nov. 8, 1985, 99 Stat. 736, struck out item 8683 “Service credit: certain service as a nurse, woman medical specialist, orcivilian employee of Army Medical Department to be counted”.
+1985—Pub. L. 99–145, title XIII, §1301(d)(1)(B), Nov. 8, 1985, 99 Stat. 736, struck out item 8683 “Service credit: certain service as a nurse, woman medical specialist, or civilian employee of Army Medical Department to be counted”.
 
 1980—Pub. L. 96–513, title V, §514(5), Dec. 12, 1980, 94 Stat. 2935, struck out item 8689 “Assignments and allotments of pay”.
 

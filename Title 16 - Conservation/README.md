@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 2005 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 2006 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -23,6 +23,7 @@
 | [<b>8.</b>](Chapter%20008%20-%20Upper%20Mississippi%20River%20National%20Wildlife%20and%20Fish%20Refuge/README.md) | <b>Upper Mississippi River National Wildlife and Fish Refuge</b> | <b>721</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Fish%20and%20Wildlife%20Service/README.md) | <b>Fish and Wildlife Service</b> | <b>741</b> |
 | [<b>9A.</b>](Chapter%20009A%20-%20Preservation%20of%20Fishery%20Resources/README.md) | <b>Preservation of Fishery Resources</b> | <b>755</b> |
+| [<b>9B.</b>](Chapter%20009B%20-%20National%20Fish%20Hatchery%20System%20Enhancement/README.md) | <b>National Fish Hatchery System Enhancement</b> | <b>760aa</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Northern%20Pacific%20Halibut%20Fishing/README.md) | <b>Northern Pacific Halibut Fishing</b> | <b>761</b> |
 | [<b>10A.</b>](Chapter%20010A%20-%20Sockeye%20or%20Pink%20Salmon%20Fishing/README.md) | <b>Sockeye or Pink Salmon Fishing \[Repealed\]</b> | <b>776</b> |
 | [<b>10B.</b>](Chapter%20010B%20-%20Fish%20Restoration%20and%20Management%20Projects/README.md) | <b>Fish Restoration and Management Projects</b> | <b>777</b> |
@@ -101,6 +102,7 @@
 | [<b>56A.</b>](Chapter%20056A%20-%20Pacific%20Salmon%20Fishing/README.md) | <b>Pacific Salmon Fishing</b> | <b>3631</b> |
 | [<b>57.</b>](Chapter%20057%20-%20National%20Fish%20and%20Wildlife%20Foundation/README.md) | <b>National Fish and Wildlife Foundation</b> | <b>3701</b> |
 | [<b>57A.</b>](Chapter%20057A%20-%20Partnerships%20for%20Wildlife/README.md) | <b>Partnerships for Wildlife</b> | <b>3741</b> |
+| [<b>57B.</b>](Chapter%20057B%20-%20Partners%20for%20Fish%20and%20Wildlife/README.md) | <b>Partners for Fish and Wildlife</b> | <b>3771</b> |
 | [<b>58.</b>](Chapter%20058%20-%20Erodible%20Land%20and%20Wetland%20Conservation%20and%20Reserve%20Program/README.md) | <b>Erodible Land and Wetland Conservation and Reserve Program</b> | <b>3801</b> |
 | [<b>59.</b>](Chapter%20059%20-%20Wetlands%20Resources/README.md) | <b>Wetlands Resources</b> | <b>3901</b> |
 | [<b>59A.</b>](Chapter%20059A%20-%20Wetlands/README.md) | <b>Wetlands</b> | <b>3951</b> |
@@ -135,6 +137,8 @@
 | [<b>85.</b>](Chapter%20085%20-%20Marine%20Turtle%20Conservation/README.md) | <b>Marine Turtle Conservation</b> | <b>6601</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Southwest%20Forest%20Health%20and%20Wildfire%20Prevention/README.md) | <b>Southwest Forest Health and Wildfire Prevention</b> | <b>6701</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Federal%20Lands%20Recreation%20Enhancement/README.md) | <b>Federal Lands Recreation Enhancement</b> | <b>6801</b> |
+| [<b>88.</b>](Chapter%20088%20-%20Western%20and%20Central%20Pacific%20Fisheries%20Convention/README.md) | <b>Western and Central Pacific Fisheries Convention</b> | <b>6901</b> |
+| [<b>89.</b>](Chapter%20089%20-%20Pacific%20Whiting/README.md) | <b>Pacific Whiting</b> | <b>7001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -161,6 +165,7 @@
 - [Chapter 008 - Upper Mississippi River National Wildlife and Fish Refuge](Chapter%20008%20-%20Upper%20Mississippi%20River%20National%20Wildlife%20and%20Fish%20Refuge/README.md)
 - [Chapter 009 - Fish and Wildlife Service](Chapter%20009%20-%20Fish%20and%20Wildlife%20Service/README.md)
 - [Chapter 009A - Preservation of Fishery Resources](Chapter%20009A%20-%20Preservation%20of%20Fishery%20Resources/README.md)
+- [Chapter 009B - National Fish Hatchery System Enhancement](Chapter%20009B%20-%20National%20Fish%20Hatchery%20System%20Enhancement/README.md)
 - [Chapter 010 - Northern Pacific Halibut Fishing](Chapter%20010%20-%20Northern%20Pacific%20Halibut%20Fishing/README.md)
 - [Chapter 010A - Sockeye or Pink Salmon Fishing](Chapter%20010A%20-%20Sockeye%20or%20Pink%20Salmon%20Fishing/README.md)
 - [Chapter 010B - Fish Restoration and Management Projects](Chapter%20010B%20-%20Fish%20Restoration%20and%20Management%20Projects/README.md)
@@ -239,6 +244,7 @@
 - [Chapter 056A - Pacific Salmon Fishing](Chapter%20056A%20-%20Pacific%20Salmon%20Fishing/README.md)
 - [Chapter 057 - National Fish and Wildlife Foundation](Chapter%20057%20-%20National%20Fish%20and%20Wildlife%20Foundation/README.md)
 - [Chapter 057A - Partnerships for Wildlife](Chapter%20057A%20-%20Partnerships%20for%20Wildlife/README.md)
+- [Chapter 057B - Partners for Fish and Wildlife](Chapter%20057B%20-%20Partners%20for%20Fish%20and%20Wildlife/README.md)
 - [Chapter 058 - Erodible Land and Wetland Conservation and Reserve Program](Chapter%20058%20-%20Erodible%20Land%20and%20Wetland%20Conservation%20and%20Reserve%20Program/README.md)
 - [Chapter 059 - Wetlands Resources](Chapter%20059%20-%20Wetlands%20Resources/README.md)
 - [Chapter 059A - Wetlands](Chapter%20059A%20-%20Wetlands/README.md)
@@ -273,3 +279,5 @@
 - [Chapter 085 - Marine Turtle Conservation](Chapter%20085%20-%20Marine%20Turtle%20Conservation/README.md)
 - [Chapter 086 - Southwest Forest Health and Wildfire Prevention](Chapter%20086%20-%20Southwest%20Forest%20Health%20and%20Wildfire%20Prevention/README.md)
 - [Chapter 087 - Federal Lands Recreation Enhancement](Chapter%20087%20-%20Federal%20Lands%20Recreation%20Enhancement/README.md)
+- [Chapter 088 - Western and Central Pacific Fisheries Convention](Chapter%20088%20-%20Western%20and%20Central%20Pacific%20Fisheries%20Convention/README.md)
+- [Chapter 089 - Pacific Whiting](Chapter%20089%20-%20Pacific%20Whiting/README.md)

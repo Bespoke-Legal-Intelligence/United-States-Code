@@ -2,7 +2,7 @@
 
 #### (a) Investigation by International Trade Commission; report; publication
 
-(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon request of the President or the United States Trade Representative, upon resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the International Trade Commission (hereafter in this section referred to as the “Commission”) shall promptly make an investigation to determine, with respect to imports of an article which is the product of a Communist country, whether market disruption exists with respect to an article produced by a domestic industry.
+(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon request of the President or the United States Trade Representative, upon resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Financeof the Senate, or on its own motion, the International Trade Commission (hereafter in this section referred to as the “Commission”) shall promptly make an investigation to determine, with respect to imports of an article which is the product of a Communist country, whether market disruption exists with respect to an article produced by a domestic industry.
 
 (2) The provisions of subsections (a)(3), (b)(4),<sup>1</sup> and (c)(4) of section 2252 of this title shall apply with respect to investigations by the Commission under paragraph (1).
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;&emsp;(i) Imports of an article shall be considered to be increasing rapidly if there has been a significant increase in such imports (either actual or relative to domestic production) during a recent period of time.
 
-&emsp;&emsp;(ii) The term “significant cause” refers to a cause which contributes significantly to the material injury of the domestic industry, but need not be equal to or greater than any other cause.
+&emsp;&emsp;(ii) The term “significant cause” refers to a cause which contributes significantly tothe material injury of the domestic industry, but need not be equal to or greater than any other cause.
 
 &emsp;(C) The Commission, in determining whether market disruption exists, shall consider, among other factors—
 

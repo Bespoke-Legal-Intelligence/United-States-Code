@@ -34,7 +34,7 @@ The security shall be in an amount equal to the excess of—
 
 #### (d) Release of security
 
-The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of theTreasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
+The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of the Treasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
 
 #### (e) Notice
 
@@ -45,6 +45,10 @@ A contributing sponsor which is required to provide security under subsection (a
 For purposes of this section, the terms “current liability”, “funded current liability percentage”, and “unfunded current liability” shall have the meanings given such terms by section 1082(d) of this title, except that in computing unfunded current liability there shall not be taken into account any unamortized portion of the unfunded old liability amount as of the close of the plan year.
 
 (Pub. L. 93–406, title I, §307, as added Pub. L. 100–203, title IX, §9341(b)(2), Dec. 22, 1987, 101 Stat. 1330–370; amended Pub. L. 101–239, title VII, §7881(i)(1)(B)–(3)(A), (4)(B), Dec. 19, 1989, 103 Stat. 2442.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, provided that, applicable to plan years beginning after 2007, this section is repealed.</i>
 
 #### Prior Provisions
 
@@ -60,6 +64,10 @@ Subsec. (d). Pub. L. 101–239, §7881(i)(2), inserted “of the Treasury” aft
 
 Subsecs. (e), (f). Pub. L. 101–239, §7881(i)(3)(A), added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### Effective Date of Repeal
+
+Repeal applicable to plan years beginning after 2007, see section 101(d) of Pub. L. 109–280, set out as an Effective Date note under section 1082 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
@@ -67,4 +75,8 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 #### Effective Date
 
 This section applicable to plan amendments adopted after Dec. 22, 1987, except that, in the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before Dec. 22, 1987, this section not applicable to plan amendments adopted pursuant to collective bargaining agreements ratified before Dec. 22, 1987, see section 9341(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 401 of Title 26, Internal Revenue Code.
+
+#### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
+
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 

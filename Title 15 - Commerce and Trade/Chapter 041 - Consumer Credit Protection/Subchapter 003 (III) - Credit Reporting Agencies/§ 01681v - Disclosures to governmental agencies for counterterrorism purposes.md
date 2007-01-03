@@ -10,7 +10,13 @@ The certification described in subsection (a) of this section shall be signed by
 
 #### (c) Confidentiality
 
-No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.
+(1) If the head of a government agency authorized to conduct investigations of intelligence or counterintelligence activities or analysis related to international terrorism, or his designee, certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no consumer reporting agency or officer, employee, or agent of such consumer reporting agency, shall disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request), or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a).
+
+(2) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under paragraph (1).
+
+(3) Any recipient disclosing to those persons necessary to comply with the request or to any attorney to obtain legal advice or legal assistance with respect to the request shall inform such persons of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under paragraph (1).
+
+(4) At the request of the authorized government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized government agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the requesting official of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request for information under subsection (a).
 
 #### (d) Rule of construction
 
@@ -20,9 +26,21 @@ Nothing in section 1681u of this title shall be construed to limit the authority
 
 Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or other information pursuant to this section in good-faith reliance upon a certification of a government agency pursuant to the provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
 
-(Pub. L. 90–321, title VI, §627, formerly §626, as added Pub. L. 107–56, title III, §358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered §627 and amended Pub. L. 108–159, title II, §214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, §6203(<i>l</i>), Dec. 17, 2004, 118 Stat. 3747.)
+#### (f) Reports to Congress
+
+(1) On a semi-annual basis, the Attorney General shall fully inform the Committee on the Judiciary, the Committee on Financial Services, and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate concerning all requests made pursuant to subsection (a).
+
+(2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 415b of title 50.
+
+(Pub. L. 90–321, title VI, §627, formerly §626, as added Pub. L. 107–56, title III, §358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered §627 and amended Pub. L. 108–159, title II, §214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, §6203(<i>l</i>), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–177, title I, §§116(c), 118(b), Mar. 9, 2006, 120 Stat. 214, 217; Pub. L. 109–178, §4(c)(2), Mar. 9, 2006, 120 Stat. 280.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–177, §116(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.”
+
+Subsec. (c)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized Government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+
+Subsec. (f). Pub. L. 109–177, §118(b), added subsec. (f).
 
 2004—Subsec. (e). Pub. L. 108–458 substituted “government agency” for “governmental agency”.
 

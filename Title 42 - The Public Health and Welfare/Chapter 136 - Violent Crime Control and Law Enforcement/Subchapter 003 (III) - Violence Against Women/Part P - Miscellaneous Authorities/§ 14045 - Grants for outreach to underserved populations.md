@@ -50,15 +50,25 @@ In awarding grants under this section, the Attorney General shall ensure—
 
 #### (g) Reports
 
-Each eligible entity receiving a grant under this section shall submit to the Director of the Office of Violence Against Women, every 18 months, a report that describes the activities carried out with grant funds.
+Each eligible entity receiving a grant under this section shall submit to the Director of the Office of Violence Against Women a report that describes the activities carried out with grant funds.
 
 #### (h) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2007 through 2011.
 
-(Pub. L. 109–162, title I, §120, Jan. 5, 2006, 119 Stat. 2990.)
+#### (i) Definitions and grant conditions
+
+In this section the definitions and grant conditions in section 13925 of this title shall apply.
+
+(Pub. L. 109–162, title I, §120, Jan. 5, 2006, 119 Stat. 2990; Pub. L. 109–271, §§1(c)(2), 2(h), Aug. 12, 2006, 120 Stat. 750, 752.)
 
 #### Codification
 
 Section was enacted as part of the Violence Against Women and Department of Justice Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2006—Subsec. (g). Pub. L. 109–271, §2(h), struck out “, every 18 months,” after “Office of Violence Against Women”.
+
+Subsec. (i). Pub. L. 109–271, §1(c)(2), added subsec. (i).
 

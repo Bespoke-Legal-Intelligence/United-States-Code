@@ -20,7 +20,7 @@
 
 #### (b) Victims of terrorism within the United States
 
-The Director may make supplemental grants as provided in section 10601(d)(5) of this title to States for eligible crime victim compensation and assistance programs, and to victim service organizations, public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, compensation, training and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring within the United States.
+The Director may make supplemental grants as provided in section 10601(d)(5) of this title to States for eligible crime victim compensation and assistance programs, and to victim service organizations, public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, compensation, training and technical assistance, and ongoing assistance, including during any investigation orprosecution, to victims of terrorist acts or mass violence occurring within the United States.
 
 (Pub. L. 98–473, title II, §1404B, as added Pub. L. 104–132, title II, §232(a), Apr. 24, 1996, 110 Stat. 1243; amended Pub. L. 106–386, div. C, §2003(a)(1), (4), Oct. 28, 2000, 114 Stat. 1543, 1544; Pub. L. 107–56, title VI, §624(a), (b), Oct. 26, 2001, 115 Stat. 373.)
 

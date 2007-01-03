@@ -6,7 +6,7 @@ The Secretary and the Commission are authorized to propose rules, regulations, a
 
 #### (b) Consideration and final action on proposals of Secretary
 
-The Commission shall have exclusive jurisdiction with respect to any proposal made under subsection (a) of this section, and shall consider and take final action on any proposal made by the Secretary under such subsection in an expeditious manner in accordance with such reasonable time limits as may be set by the Secretary for the completion of action by the Commission on any such proposal.
+The Commission shall have exclusive jurisdiction with respect to any proposal made under subsection (a) of this section, and shall considerand take final action on any proposal made by the Secretary under such subsection in an expeditious manner in accordance with such reasonable time limits as may be set by the Secretary for the completion of action by the Commission on any such proposal.
 
 #### (c) Utilization of rulemaking procedures for establishment of rates and charges under Federal Power Act and Natural Gas Act
 

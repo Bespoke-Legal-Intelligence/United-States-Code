@@ -324,7 +324,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (4) Investment
 
-&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required at the time of the determination to carry out this section maybe invested in obligations of the United States.
+&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required at the time of the determination to carry out this section may be invested in obligations of the United States.
 
 #### (5) Limitation on commitments to guarantee loans and mortgages
 
@@ -396,7 +396,7 @@ The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 
 
 The Civil Rights Act of 1964, referred to in subsec. (<i>l</i>), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Fair Housing Act, referred to in subsec. (<i>l</i>), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, asamended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (<i>l</i>), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Codification
 

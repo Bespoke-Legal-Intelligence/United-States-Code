@@ -14,40 +14,9 @@
 | [471g.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000471g%20-%20Administration%2C%20protection%2C%20and%20development%3B%20use%20of%20natural%20resources.md) | Administration, protection, and development; use of natural resources. |
 | [471h.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000471h%20-%20Cooperation%20with%20public%20and%20private%20agencies%2C%20organizations%2C%20and%20individuals%3B%20acceptance%20of%20contributions%20and%20gifts.md) | Cooperation with public and private agencies, organizations, and individuals; acceptance of contributions and gifts. |
 | [471i.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000471i%20-%20Pine%20Barrens%20Area%2C%20New%20Jersey.md) | Pine Barrens Area, New Jersey. |
-| (a) | Congressional findings. |
-| (b) | Purposes. |
-| (c) | Pinelands National Reserve and Federal Project Review Area; establishment; map, availability. |
-| (d) | State planning entity for development of comprehensive management plan; membership; representation of interests; assistance and grants to State. |
-| (e) | Planning entity consultations; public hearings. |
-| (f) | Comprehensive management plan; terms and provisions; resource assessment; boundary map, delineations; land use map and policy statement; coordination and consistency, public use, and financial components; programs; water implementation plan. |
-| (g) | Comprehensive management plan and revisions; approval by Secretary; submission to Congress; approval considerations; disapproval and revision recommendations, notification; resubmission and consideration; Federal assistance, termination; modifications and revisions; reimbursement. |
-| (h) | Grants for State acquisition of property; Secretary's acquisition and administration of property; conveyance by Secretary, terms and conditions; State reimbursement; grant authorization and applications; limitation. |
-| (i) | Applications for Federal construction assistance; review by planning entity; notifications; commencement of review process. |
-| (j) | Federal action pursuant to Federal court or agency orders related to public health or safety, national security or defense, or environmental values unaffected. |
-| (k) | Authorization of appropriations; sources for appropriations; acquisitions consistent with management plan. |
-| (<i>l</i>) | Pinelands interpretative and educational program; Interior Department study and recommendations. |
 | [471j.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000471j%20-%20Headwaters%20Forest%20and%20Elk%20River%20Property%20acquisition.md) | Headwaters Forest and Elk River Property acquisition. |
-| (a) | Authorization. |
-| (b) | Effective period of authorization. |
-| (c) | Acquisition. |
-| (d) | Habitat conservation plan. |
-| (e) | Payment to Humboldt County. |
-| (f) | Payment in lieu of taxes. |
-| (g) | Out-year budget limitations. |
-| (h) | Headwaters Forest Management Trust. |
-| (i) | Management plan. |
-| (j) | Cooperative management. |
 | [472\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000472%20-%20Laws%20affecting%20national%20forest%20lands.md) | Laws affecting national forest lands. |
 | [472a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000472a%20-%20Timber%20sales%20on%20National%20Forest%20System%20lands.md) | Timber sales on National Forest System lands. |
-| (a) | Authorization; rules and regulations; appraised value as minimum sale price. |
-| (b) | Designation on map; prospectus. |
-| (c) | Terms and conditions of contract. |
-| (d) | Advertisement of sales; exceptions. |
-| (e) | Bidding methods; purposes; oral auction procedures; monitoring and enforcement for prevention of collusive practices. |
-| (f) | Research and demonstration projects. |
-| (g) | Designation, marking, and supervision of harvesting; personnel. |
-| (h) | Utilization standards, methods of measurement, and harvesting practices; monetary deposits by purchasers of salvage harvests; nature, purposes and availability of designated fund; return of surplus to Treasury. |
-| (i) | Purchaser credit for permanent road construction; right of election of small business concerns; estimated cost; date of completion; use of funds for construction; effective date. |
 | [473\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000473%20-%20Revocation%2C%20modification%2C%20or%20vacation%20of%20orders%20or%20proclamations%20establishing%20national%20forests.md) | Revocation, modification, or vacation of orders or proclamations establishing national forests. |
 | [474\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000474%20-%20Surveys%3B%20plats%20and%20field%20notes%3B%20maps%3B%20effect%20under%20Act%20June%204%2C%201897.md) | Surveys; plats and field notes; maps; effect under Act June 4, 1897. |
 | [475\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000475%20-%20Purposes%20for%20which%20national%20forests%20may%20be%20established%20and%20administered.md) | Purposes for which national forests may be established and administered. |
@@ -57,11 +26,6 @@
 | [478a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000478a%20-%20Townsites.md) | Townsites. |
 | [479\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000479%20-%20Sites%20for%20schools%20and%20churches.md) | Sites for schools and churches. |
 | [479a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000479a%20-%20Conveyance%20of%20National%20Forest%20System%20lands%20for%20educational%20purposes.md) | Conveyance of National Forest System lands for educational purposes. |
-| (a) | Authority to convey. |
-| (b) | Acreage limitation. |
-| (c) | Costs and mineral rights. |
-| (d) | Review of applications. |
-| (e) | Reversionary interest. |
 | [480\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000480%20-%20Civil%20and%20criminal%20jurisdiction.md) | Civil and criminal jurisdiction. |
 | [481\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000481%20-%20Use%20of%20waters.md) | Use of waters. |
 | [482\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000482%20-%20Mineral%20lands%3B%20restoration%20to%20public%20domain%3B%20location%20and%20entry.md) | Mineral lands; restoration to public domain; location and entry. |
@@ -108,21 +72,7 @@
 | [497\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497%20-%20Use%20and%20occupation%20of%20lands%20for%20hotels%2C%20resorts%2C%20summer%20homes%2C%20stores%2C%20and%20facilities%20for%20industrial%2C%20commercial%2C%20educational%20or%20public%E2%80%A6.md) | Use and occupation of lands for hotels, resorts, summer homes, stores, and facilities for industrial, commercial, educational or public uses. |
 | [497a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497a%20-%20Occupancy%20and%20use%20under%20permit%20of%20lands%20in%20Alaska%20for%20various%20purposes%3B%20period%20of%20permit%3B%20size%20of%20allotment%3B%20prohibitions%3B%20termination.md) | Occupancy and use under permit of lands in Alaska for various purposes; period of permit; size of allotment; prohibitions; termination. |
 | [497b.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497b%20-%20Ski%20area%20permits.md) | Ski area permits. |
-| (a) | Law applicable to permits. |
-| (b) | Authority. |
-| (c) | Rules and regulations. |
-| (d) | Construction with Secretary's duties under other laws. |
 | [497c.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497c%20-%20Ski%20area%20permit%20rental%20charge.md) | Ski area permit rental charge. |
-| (a) | In general. |
-| (b) | Formula. |
-| (c) | Payment. |
-| (d) | Effective date. |
-| (e) | Non-national forest land operations. |
-| (f) | “Revenue” and “sales” defined; limitation. |
-| (g) | Minimum rental charge. |
-| (h) | Five-year phase-in of increase. |
-| (i) | Construction with National Environmental Policy Act of 1969. |
-| (j) | Withdrawal from mining laws. |
 | [497d.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000497d%20-%20Recreation%20residence%20fees.md) | Recreation residence fees. |
 | [498\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000498%20-%20Cooperative%20work%20agreements%20disposal%20of%20moneys%20received%3B%20refund%20of%20excess%3B%20payment%20from%20appropriation%3B%20conflict%20of%20interest.md) | Cooperative work agreements: disposal of moneys received; refund of excess; payment from appropriation; conflict of interest. |
 | [499\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000499%20-%20Disposal%20of%20money%20received%20by%20or%20on%20account%20of%20Forest%20Service%3B%20refund%20of%20excess%20and%20moneys%20erroneously%20collected%3B%20receipts%20from%20permits.md) | Disposal of money received by or on account of Forest Service; refund of excess and moneys erroneously collected; receipts from permits. |
@@ -174,153 +124,39 @@
 | [534\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000534%20-%20Termination%20and%20cancellation%20of%20easements%3B%20notice%3B%20hearing.md) | Termination and cancellation of easements; notice; hearing. |
 | [535\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000535%20-%20Forest%20development%20roads%3B%20acquisition%2C%20construction%2C%20and%20maintenance%3B%20maximum%20economy%3B%20methods%20of%20financing%3B%20cost%20arrangements%20for%E2%80%A6.md) | Forest development roads; acquisition, construction, and maintenance; maximum economy; methods of financing; cost arrangements for construction standards; transfer of unused effective purchaser credit for road construction. |
 | [535a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000535a%20-%20Forest%20development%20roads%20prohibition%20on%20credits%3B%20inclusion%20of%20construction%20costs%20in%20notice%20of%20sale%3B%20special%20election%20by%20small%20business%E2%80%A6.md) | Forest development roads: prohibition on credits; inclusion of construction costs in notice of sale; special election by small business concerns; construction standards; authorization of harvesting; treatment of road value. |
-| (a) | Prohibition on timber purchaser road credits. |
-| (b) | Construction of roads by timber purchasers. |
-| (c) | Special election by small business concerns. |
-| (d) | Authorization of harvesting. |
-| (e) | Construction standard. |
-| (f) | Treatment of road value. |
-| (g) | Effective date. |
 | [536\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000536%20-%20Recording%20of%20instruments%3B%20furnishing%20of%20instruments%20affecting%20public%20domain%20lands%20to%20Secretary%20of%20the%20Interior.md) | Recording of instruments; furnishing of instruments affecting public domain lands to Secretary of the Interior. |
 | [537\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000537%20-%20Maintenance%20and%20reconstruction%20by%20road%20users%3B%20funds%20for%20maintenance%20and%20reconstruction%3B%20availability%20of%20deposits%20until%20expended%2C%20transfer%E2%80%A6.md) | Maintenance and reconstruction by road users; funds for maintenance and reconstruction; availability of deposits until expended, transfer of funds, and refunds. |
 | [538\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000538%20-%20User%20fees%20fund%20for%20delayed%20payments%20to%20grantors.md) | User fees fund for delayed payments to grantors. |
 | [539\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539%20-%20Additions%20to%20existing%20national%20forests%3B%20administration.md) | Additions to existing national forests; administration. |
 | [539a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539a%20-%20Mining%20and%20mineral%20leasing%20on%20certain%20national%20forest%20lands.md) | Mining and mineral leasing on certain national forest lands. |
 | [539b.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539b%20-%20Fisheries%20on%20national%20forest%20lands%20in%20Alaska.md) | Fisheries on national forest lands in Alaska. |
-| (a) | Regulations for protection and maintenance of habitats. |
-| (b) | Approved plan for mining operations; requirements; review; modification; suspension of activities. |
-| (c) | Authority of State of Alaska to manage fish and wildlife. |
-| (d) | Authority of Secretary of Agriculture to manage national forests. |
 | [539c.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539c%20-%20Cooperative%20fisheries%20planning%3B%20report%20to%20Congress.md) | Cooperative fisheries planning; report to Congress. |
 | [539d.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539d%20-%20National%20forest%20timber%20utilization%20program.md) | National forest timber utilization program. |
-| (a) | Tongass National Forest timber supply; satisfaction of certain market demands. |
-| (b) | Insured and guaranteed loan program for purchasers of national forests materials in Alaska; authorization of appropriations. |
-| (c) | Study on increase of timber yields on national forest lands in Alaska; transmittal to Congress. |
-| (d) | Identification of lands not suited for timber production; consideration of economic factors unnecessary. |
-| (e) | Protection of riparian habitat; maintenance of buffer zones in Tongass National Forest; relocation of prior independent sale or released volume. |
-| (f) | Timber supply from Tongass National Forest for purchasers qualifying as “small business concerns”. |
 | [539e.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539e%20-%20Reports.md) | Reports. |
-| (a) | Timber supply and demand in southeastern Alaska. |
-| (b) | Status of Tongass National Forest in southeastern Alaska; contents. |
-| (c) | Cooperation and consultation. |
 | [539f.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539f%20-%20Nonprofit%20organization%20user%20of%20national%20forest%20lands.md) | Nonprofit organization user of national forest lands. |
-| (a) | Permits for organization camps; waiver of charges; performance of services; loss of entitlement. |
-| (b) | “Other nonprofit organization” defined. |
 | [539g.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539g%20-%20Kings%20River%20Special%20Management%20Area.md) | Kings River Special Management Area. |
-| (a) | Establishment. |
-| (b) | Area included. |
-| (c) | Administration. |
-| (d) | Mining and mineral leasing. |
-| (e) | Hunting and fishing. |
-| (f) | Management plan. |
-| (g) | Access to private lands. |
-| (h) | Specific protections. |
 | [539h.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539h%20-%20Greer%20Spring%20Special%20Management%20Area.md) | Greer Spring Special Management Area. |
-| (a) | Objectives and establishments. |
-| (b) | Area included. |
-| (c) | Timber harvesting. |
-| (d) | Hunting and fishing. |
-| (e) | Mining and mineral leasing. |
-| (f) | Vehicular access. |
 | [539i.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539i%20-%20Fossil%20Ridge%20Recreation%20Management%20Area.md) | Fossil Ridge Recreation Management Area. |
-| (a) | Establishment. |
-| (b) | Administration. |
-| (c) | Withdrawal. |
-| (d) | Timber harvesting. |
-| (e) | Livestock grazing. |
-| (f) | Development. |
-| (g) | Off-road recreation. |
 | [539j.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539j%20-%20Bowen%20Gulch%20Protection%20Area.md) | Bowen Gulch Protection Area. |
-| (a) | Establishment. |
-| (b) | Administration. |
-| (c) | Withdrawal. |
-| (d) | Development. |
-| (e) | Timber harvesting. |
-| (f) | Motorized travel. |
-| (g) | Management plan. |
 | [539k.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539k%20-%20Kelly%20Butte%20Special%20Management%20Area.md) | Kelly Butte Special Management Area. |
-| (a) | Establishment. |
-| (b) | Management. |
-| (c) | No buffer zones. |
 | 539<i>l</i>. | Designation of James Peak Protection Area, Colorado. |
-| (a) | Findings and purpose. |
-| (b) | Designation. |
-| (c) | Map and boundary description. |
-| (d) | Management. |
-| (e) | Issues related to water. |
 | 539<i>l</i>–1. | Inholdings. |
-| (a) | State Land Board lands. |
-| (b) | Jim Creek inholding. |
-| (c) | Report. |
-| (d) | Management of acquisitions. |
 | 539<i>l</i>–2. | James Peak Fall River trailhead. |
-| (a) | Services and facilities. |
-| (b) | Personnel. |
-| (c) | Consultation. |
-| (d) | Report. |
 | 539<i>l</i>–3. | Loop trail study; authorization. |
-| (a) | Study. |
-| (b) | Establishment. |
 | 539<i>l</i>–4. | Other administrative provisions. |
-| (a) | Buffer zones. |
-| (b) | Rollins Pass Road. |
 | 539<i>l</i>–5. | Wilderness potential. |
-| (a) | In general. |
-| (b) | Evaluation of certain lands. |
 | [539m.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539m%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
 | 539m–1. | Definitions. |
 | 539m–2. | T'uf Shur Bien Preservation Trust Area. |
-| (a) | Establishment. |
-| (b) | Administration and applicable law. |
-| (c) | Map. |
-| (d) | No conveyance of title. |
-| (e) | Prohibited uses. |
-| (f) | No modification of boundaries. |
 | 539m–3. | Pueblo rights and interests in the Area. |
-| (a) | In general. |
-| (b) | Access. |
-| (c) | Compensable interest. |
 | 539m–4. | Limitations on Pueblo rights and interests in the Area. |
-| (a) | Limitations. |
-| (b) | Exception. |
 | 539m–5. | Management of the Area. |
-| (a) | Process. |
-| (b) | Emergencies and emergency closure orders. |
-| (c) | Disputes involving Forest Service management and Pueblo traditional uses. |
 | 539m–6. | Jurisdiction over the Area. |
-| (a) | Criminal jurisdiction. |
-| (b) | Civil jurisdiction. |
 | 539m–7. | Subdivisions and other property interests. |
-| (a) | Subdivisions. |
-| (b) | Piedra Lisa. |
-| (c) | Crest facilities. |
-| (d) | Special use permit area. |
-| (e) | La Luz tract. |
-| (f) | Evergreen Hills access. |
-| (g) | Pueblo fee land. |
-| (h) | Rights-of-way. |
 | 539m–8. | Extinguishment of claims. |
-| (a) | In general. |
-| (b) | Subdivisions. |
-| (c) | Special use and crest facilities areas. |
-| (d) | Pueblo agreement. |
-| (e) | Consideration. |
 | 539m–9. | Construction. |
-| (a) | Strict construction. |
-| (b) | Existing rights. |
-| (c) | Not precedent. |
-| (d) | Fish and wildlife. |
 | 539m–10. | Judicial review. |
-| (a) | Enforcement. |
-| (b) | Waiver. |
-| (c) | Venue. |
 | 539m–11. | Provisions relating to contributions and land exchange. |
-| (a) | Contributions. |
-| (b) | Land exchange. |
-| (c) | Land acquisition and other compensation. |
-| (d) | Reimbursement of certain costs. |
 | 539m–12. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -332,191 +168,53 @@
 | [541\.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541%20-%20Cascade%20Head%20Scenic-Research%20Area%3B%20establishment.md) | Cascade Head Scenic-Research Area; establishment. |
 | [541a.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541a%20-%20Administration%2C%20protection%2C%20development%2C%20and%20regulation%20of%20use.md) | Administration, protection, development, and regulation of use. |
 | [541b.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541b%20-%20Boundaries%20of%20scenic-research%20area%3B%20adjustments%20to%20subarea%20boundaries%3B%20development%20of%20management%20plan%3B%20establishment%20of%20subareas%E2%80%A6.md) | Boundaries of scenic-research area; adjustments to subarea boundaries; development of management plan; establishment of subareas; management objectives. |
-| (a) | Boundaries; adjustments to boundaries of subareas. |
-| (b) | Management plan; development; time; contents. |
-| (c) | Subareas; establishment; management objectives. |
 | [541c.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541c%20-%20Extension%20of%20boundaries%20of%20Siuslaw%20National%20Forest%3B%20transfer%20of%20Federal%20property%20to%20Secretary.md) | Extension of boundaries of Siuslaw National Forest; transfer of Federal property to Secretary. |
 | [541d.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541d%20-%20Acquisition%20of%20property%20within%20the%20scenic-research%20area%3B%20consent%20of%20owner%3B%20substantial%20change%20in%20use%20or%20maintenance%20of%20property.md) | Acquisition of property within the scenic-research area; consent of owner; substantial change in use or maintenance of property. |
-| (a) | Acquisition of lands, waters and interests by donation, purchase, etc. |
-| (b) | Consent of owner for acquisition of lands in subareas; exceptions; guidelines for determination of substantial change in land use or maintenance. |
-| (c) | Substantial change in land use or maintenance; notice by owner; time; manner. |
 | [541e.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541e%20-%20Availability%20of%20funds%20for%20acquisition%20of%20lands%2C%20etc.%2C%20within%20added%20area.md) | Availability of funds for acquisition of lands, etc., within added area. |
 | [541f.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541f%20-%20Withdrawal%20from%20location%2C%20entry%20and%20patent%20under%20mining%20laws%3B%20withdrawal%20from%20disposition%20under%20mineral%20leasing%20laws.md) | Withdrawal from location, entry and patent under mining laws; withdrawal from disposition under mineral leasing laws. |
 | [541g.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541g%20-%20Advisory%20council%20for%20scenic-research%20area%3B%20membership%3B%20designation%20of%20chairman%3B%20compensation%3B%20consultation%20by%20Secretary.md) | Advisory council for scenic-research area; membership; designation of chairman; compensation; consultation by Secretary. |
-| (a) | Advisory council; establishment; consultation; members; term; appointment. |
-| (b) | Chairman; vacancies. |
-| (c) | Compensation; reimbursement for expenses. |
-| (d) | Consultation by Secretary with private groups, etc.; cooperation with other Federal, State, etc., agencies and organizations. |
 | [541h.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000541h%20-%20Cooperation%20with%20State%20of%20Oregon%20in%20administration%20and%20protection%20of%20lands%3B%20civil%20and%20criminal%20jurisdiction%3B%20power%20of%20taxation.md) | Cooperation with State of Oregon in administration and protection of lands; civil and criminal jurisdiction; power of taxation. |
 | [542\.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000542%20-%20Langmuir%20Research%20Site%3B%20establishment.md) | Langmuir Research Site; establishment. |
 | [542a.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000542a%20-%20Congressional%20findings.md) | Congressional findings. |
 | [542b.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000542b%20-%20Administration%2C%20protection%2C%20and%20regulation%20of%20use.md) | Administration, protection, and regulation of use. |
 | [542c.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000542c%20-%20Land%20use%20agreement.md) | Land use agreement. |
 | [542d.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000542d%20-%20Comprehensive%20management%20plan.md) | Comprehensive management plan. |
-| (a) | Boundaries. |
-| (b) | Development of plan. |
-| (c) | Adjustment in boundaries. |
-| (d) | Consultation with other public interest groups. |
-| (e) | Objectives of plan. |
-| (f) | Management of site in accordance with the objectives. |
 | [543\.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543%20-%20Mono%20Basin%20National%20Forest%20Scenic%20Area%3B%20establishment.md) | Mono Basin National Forest Scenic Area; establishment. |
 | [543a.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543a%20-%20Extension%20of%20National%20Forest%20boundary.md) | Extension of National Forest boundary. |
 | [543b.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543b%20-%20Acquisition%20of%20lands.md) | Acquisition of lands. |
-| (a) | Authority of Secretary; exceptions. |
-| (b) | Guidelines; detrimental or incompatible use. |
-| (c) | Preparation of environmental assessments. |
 | [543c.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543c%20-%20Administration.md) | Administration. |
-| (a) | Scenic Area and other lands to be administered as part of Inyo National Forest. |
-| (b) | Water rights; protection of geologic, ecologic, and cultural resources; recreational use of Scenic Area; related facilities and programs; scientific study and research; commercial timber harvesting. |
-| (c) | Grazing permits. |
-| (d) | Cooperative agreements. |
-| (e) | Management plan. |
-| (f) | Visitor center. |
-| (g) | Withdrawal of lands from operation of other Federal laws; regulation of mining claims. |
-| (h) | Water rights. |
-| (i) | Rights-of-way of city of Los Angeles. |
-| (j) | Existing community recreational uses. |
 | [543d.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543d%20-%20Ecological%20studies%3B%20reports%20to%20Congressional%20committees%20and%20to%20Chief%20of%20Forest%20Service%3B%20progress%20reports.md) | Ecological studies; reports to Congressional committees and to Chief of Forest Service; progress reports. |
 | [543e.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543e%20-%20Scenic%20Area%20Advisory%20Board.md) | Scenic Area Advisory Board. |
-| (a) | Establishment; consultations with Secretary. |
-| (b) | Composition and selection. |
-| (c) | Terms of appointment. |
-| (d) | Initial appointment; Chairman. |
-| (e) | Annual meetings and consultations with Secretary or designee. |
-| (f) | Compensation; expenses. |
-| (g) | Vacancies. |
-| (h) | Quorum. |
-| (i) | Termination. |
 | [543f.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543f%20-%20Traditional%20Native%20American%20uses.md) | Traditional Native American uses. |
 | [543g.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [543h.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000543h%20-%20New%20spending%20authority.md) | New spending authority. |
 | [544\.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544%20-%20Columbia%20River%20Gorge%20National%20Scenic%20Area%3B%20definitions.md) | Columbia River Gorge National Scenic Area; definitions. |
 | [544a.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544a%20-%20Purposes.md) | Purposes. |
 | [544b.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544b%20-%20Establishment%20of%20scenic%20area.md) | Establishment of scenic area. |
-| (a) | National scenic area. |
-| (b) | Special management areas. |
-| (c) | Revision of special management area boundaries. |
-| (d) | Dodson/Warrendale Special Purchase Unit. |
-| (e) | Urban areas. |
-| (f) | Revision of urban area boundaries. |
 | [544c.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544c%20-%20Columbia%20River%20Gorge%20Commission.md) | Columbia River Gorge Commission. |
-| (a) | Establishment and membership of Commission. |
-| (b) | Applicable law. |
-| (c) | Assistance to Commission. |
-| (d) | Advisory committees. |
 | [544d.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544d%20-%20Scenic%20area%20management%20plan.md) | Scenic area management plan. |
-| (a) | Studies. |
-| (b) | Land use designations. |
-| (c) | Adoption of management plan. |
-| (d) | Standards for management plan. |
-| (e) | Agency consultation and public involvement. |
-| (f) | Concurrence of management plan. |
-| (g) | Revision of plan. |
-| (h) | Amendment of plan. |
 | [544e.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544e%20-%20Administration%20of%20scenic%20area.md) | Administration of scenic area. |
-| (a) | Management of scenic area. |
-| (b) | Adoption of scenic area land use ordinances. |
-| (c) | Commission land use ordinances. |
-| (d) | Construction of facilities. |
 | [544f.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544f%20-%20Administration%20of%20special%20management%20areas.md) | Administration of special management areas. |
-| (a) | Administration of Federal lands. |
-| (b) | Withdrawal of Federal lands. |
-| (c) | Resource inventory. |
-| (d) | Recreation assessment. |
-| (e) | Land use designations. |
-| (f) | Guidelines for land use ordinances. |
-| (h) | Adoption of special management area land use ordinances. |
-| (i) | Review by Commission. |
-| (j) | Concurrence by Secretary. |
-| (k) | Commission reconsideration. |
-| (<i>l</i>) | Commission ordinances. |
-| (m) | Subsequent compliance. |
-| (n) | Effect of Secretary's non-concurrence. |
-| (<i>o</i>) | Special rules. |
 | [544g.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544g%20-%20Land%20acquisition.md) | Land acquisition. |
-| (a) | Acquisition authorized. |
-| (b) | Limitations on eminent domain. |
-| (c) | Hardship cases. |
-| (d) | Land exchanges. |
-| (e) | Appraisals. |
-| (f) | Authorization for certain land exchanges. |
-| (g) | Boundaries. |
 | [544h.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544h%20-%20Interim%20management.md) | Interim management. |
-| (a) | Interim guidelines. |
-| (b) | Interim acquisition authority and injunctive relief. |
-| (c) | Review of development action. |
 | [544i.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544i%20-%20Economic%20development.md) | Economic development. |
-| (a) | Economic development plan. |
-| (b) | Funds provided to States for grants. |
-| (c) | Conditions of grants. |
-| (d) | Report. |
 | [544j.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544j%20-%20Old%20Columbia%20River%20Highway.md) | Old Columbia River Highway. |
 | [544k.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544k%20-%20Tributary%20rivers%20and%20streams.md) | Tributary rivers and streams. |
-| (a) | Water resources projects. |
-| (b) | Exceptions. |
 | 544<i>l.</i> | Implementation measures. |
-| (a) | Assistance to counties. |
-| (b) | Payment of timber receipts. |
-| (c) | Payments to local governments. |
-| (d) | Federal consistency. |
-| (e) | Limitations on Federal expenditures affecting the scenic area. |
-| (f) | Transfer of public lands. |
 | [544m.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544m%20-%20Enforcement.md) | Enforcement. |
-| (a) | Administrative remedies. |
-| (b) | Judicial remedies. |
 | [544n.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544n%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | General authorizations. |
-| (b) | Specific authorizations. |
-| (c) | Availability of funds. |
 | 544<i>o.</i> | Savings provisions. |
-| (a) | Effect on rights of Indians, use of water, rivers and streams, interstate compacts, existing transmission facilities, hunting and fishing, forest plans, scenic areas. |
-| (b) | Improvement of navigation facilities at Bonneville Dam. |
-| (c) | Rights and responsibilities of non-Federal timber land owners. |
-| (d) | Interstate compacts. |
-| (e) | Failure to establish Columbia River Gorge Commission; responsibility of Secretary. |
-| (f) | Actions of Secretary as major Federal actions affecting the environment. |
 | [544p.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544p%20-%20Severability.md) | Severability. |
 | [545\.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000545%20-%20Mount%20Pleasant%20National%20Scenic%20Area%3B%20purposes.md) | Mount Pleasant National Scenic Area; purposes. |
 | [545a.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000545a%20-%20Establishment%20of%20Mount%20Pleasant%20National%20Scenic%20Area.md) | Establishment of Mount Pleasant National Scenic Area. |
-| (a) | In general. |
-| (b) | Administration. |
-| (c) | Roads. |
-| (d) | Vegetation management. |
-| (e) | Motorized travel. |
-| (f) | Fire. |
-| (g) | Insects and disease. |
-| (h) | Water. |
-| (i) | Mining withdrawal. |
 | [545b.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000545b%20-%20Opal%20Creek%20Wilderness%20and%20Scenic%20Recreation%20Area.md) | Opal Creek Wilderness and Scenic Recreation Area. |
-| (a) | Definitions. |
-| (b) | Purposes. |
-| (c) | Establishment. |
-| (d) | Administration. |
-| (e) | Advisory council. |
-| (f) | General provisions. |
-| (g) | Rosboro land exchange. |
-| (h) | Omitted. |
-| (i) | Economic development. |
 | [546\.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000546%20-%20Establishment%20of%20Saint%20Helena%20Island%20National%20Scenic%20Area%2C%20Michigan.md) | Establishment of Saint Helena Island National Scenic Area, Michigan. |
-| (a) | Purpose. |
-| (b) | Establishment. |
-| (c) | Effective upon conveyance. |
 | [546a.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000546a%20-%20Boundaries.md) | Boundaries. |
-| (a) | Saint Helena Island. |
-| (b) | Boundaries of Hiawatha National Forest extended. |
-| (c) | Payments to local governments. |
 | 546a–1. | Administration and management. |
-| (a) | Administration. |
-| (b) | Special management requirements. |
-| (c) | Consultation. |
 | 546a–2. | Fish and game. |
 | 546a–3. | Minerals. |
 | 546a–4. | Acquisition. |
-| (a) | Acquisition of lands within the scenic area. |
-| (b) | Acquisition of other lands. |
 | 546a–5. | Authorization of appropriations. |
-| (a) | Acquisition of lands. |
-| (b) | Other purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

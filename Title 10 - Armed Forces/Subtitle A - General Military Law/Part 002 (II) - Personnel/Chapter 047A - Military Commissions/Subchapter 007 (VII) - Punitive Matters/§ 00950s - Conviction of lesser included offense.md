@@ -1,0 +1,6 @@
+### §950s. Conviction of lesser included offense
+
+An accused may be found guilty of an offense necessarily included in the offense charged or of an attempt to commit either the offense charged or an attempt to commit either the offense charged or an offense necessarily included therein.
+
+(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2624.)
+

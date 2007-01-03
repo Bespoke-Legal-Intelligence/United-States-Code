@@ -9,9 +9,6 @@
 | [725\.](%C2%A7%2000725%20-%20Regulations%2C%20etc.%2C%20by%20Secretary%20of%20the%20Interior.md) | Regulations, etc., by Secretary of the Interior. |
 | [726\.](%C2%A7%2000726%20-%20Acts%20prohibited%20in%20refuge%3B%20commercial%20fishing.md) | Acts prohibited in refuge; commercial fishing. |
 | [727\.](%C2%A7%2000727%20-%20Powers%20of%20employees%20of%20Department%20of%20the%20Interior.md) | Powers of employees of Department of the Interior. |
-| (a) | Arrest; execution of warrants; searches. |
-| (b) | Seizures. |
-| (c) | Reports of seizures; forfeiture and libel proceedings. |
 | [728\.](%C2%A7%2000728%20-%20Expenditures.md) | Expenditures. |
 | [729\.](%C2%A7%2000729%20-%20Price%20per%20acre.md) | Price per acre. |
 | [730\.](%C2%A7%2000730%20-%20Violations%20of%20law%20or%20regulations%3B%20punishment.md) | Violations of law or regulations; punishment. |

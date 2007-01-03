@@ -6,7 +6,7 @@ Whoever operates a vessel in violation of this chapter, or of any regulation iss
 
 #### (b) Liability of vessel for civil penalty; seizure of vessel
 
-Every vessel subject to this chapter, other than a public vessel being used for noncommercial purposes, that is operated in violation of this chapter, or of any regulation issued thereunder, or in violation of a certificate of alternative compliance issued under Rule 1 is liable to a civil penalty of not more than $5,000 for each violation, for which penalty the vessel maybe seized and proceeded against in the district court of the United States of any district within which the vessel may be found.
+Every vessel subject to this chapter, other than a public vessel being used for noncommercial purposes, that is operated in violation of this chapter, or of any regulation issued thereunder, or in violation of a certificate of alternative compliance issued under Rule 1 is liable to a civil penalty of not more than $5,000 for each violation, for which penalty the vessel may be seized and proceeded against in the district court of the United States of any district within which the vessel may be found.
 
 #### (c) Assessment of civil penalty by Secretary; collection
 
@@ -14,7 +14,7 @@ The Secretary may assess any civil penalty authorized by this section. No such p
 
 #### (d) Withholding of clearance
 
-(1) If any owner, operator, or individual in charge of a vessel is liable for a penalty under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 91 of title 46, Appendix.
+(1) If any owner, operator, or individual in charge of a vessel is liable for a penalty under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 60105 of title 46.
 
 (2) Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
@@ -23,6 +23,10 @@ The Secretary may assess any civil penalty authorized by this section. No such p
 #### References in Text
 
 Rule 1, referred to in pars. (a) and (b), is classified to section 2001 of this title.
+
+#### Codification
+
+In subsec. (d)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 

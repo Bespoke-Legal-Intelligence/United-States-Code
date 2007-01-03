@@ -14,7 +14,7 @@ For purposes of this part:
 
 &emsp;The term “direct costs”—
 
-&emsp;&emsp;(A)(i) in the case of a Federal intergovernmental mandate, means the aggregate estimated amounts that all State, local, and tribal governments would be required to spend or would be prohibited from raising inrevenues in order to comply with the Federal intergovernmental mandate; or
+&emsp;&emsp;(A)(i) in the case of a Federal intergovernmental mandate, means the aggregate estimated amounts that all State, local, and tribal governments would be required to spend or would be prohibited from raising in revenues in order to comply with the Federal intergovernmental mandate; or
 
 &emsp;&emsp;(ii) in the case of a provision referred to in paragraph (5)(A)(ii), means the amount of Federal financial assistance eliminated or reduced;
 
@@ -76,7 +76,7 @@ For purposes of this part:
 
 #### (6) Federal mandate
 
-&emsp;The term “Federal mandate” means a Federal intergovernmental mandate or a Federalprivate sector mandate, as defined in paragraphs (5) and (7).
+&emsp;The term “Federal mandate” means a Federal intergovernmental mandate or a Federal private sector mandate, as defined in paragraphs (5) and (7).
 
 #### (7) Federal private sector mandate
 
@@ -112,7 +112,7 @@ For purposes of this part:
 
 #### (13) Tribal government
 
-&emsp;The term “tribal government” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
+&emsp;The term “tribal government” means any Indian tribe, band, nation, or other organizedgroup or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
 
 (Pub. L. 93–344, title IV, §421, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 50.)
 

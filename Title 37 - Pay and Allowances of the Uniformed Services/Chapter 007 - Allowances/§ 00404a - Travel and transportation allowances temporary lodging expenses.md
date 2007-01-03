@@ -2,7 +2,7 @@
 
 (a)
 
-Payment or Reimbursement of Subsistence Expenses.—(1) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make a change of permanent station described in paragraph (2) shall be paid or reimbursed for subsistence expenses of the member and the member's dependents for the period (subject to subsection (c)) for which the member and dependents occupy temporary quarters incident to that change of permanent station.
+Payment or Reimbursement of Subsistence Expenses.—(1) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make achange of permanent station described in paragraph (2) shall be paid or reimbursed for subsistence expenses of the member and the member's dependents for the period (subject to subsection (c)) for which the member and dependents occupy temporary quarters incident to that change of permanent station.
 
 (2) Paragraph (1) applies to the following:
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 102–25, §702(b)(1), struck out “of this section” aft
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–163 applicable with respect to months beginning on or after Sept. 1, 2005, see section 609(c) of Pub. L. 109–163, set out as a note under section 403 of this title.
+Amendment by Pub. L. 109–163 applicable with respect to months beginning on or after Sept. 1, 2005, seesection 609(c) of Pub. L. 109–163, set out as a note under section 403 of this title.
 
 #### Effective Date of 2001 Amendment
 

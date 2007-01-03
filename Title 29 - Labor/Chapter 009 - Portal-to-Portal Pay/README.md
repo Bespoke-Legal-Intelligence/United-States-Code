@@ -4,22 +4,8 @@
 | :--- | ---: |
 | [251\.](%C2%A7%2000251%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
 | [252\.](%C2%A7%2000252%20-%20Relief%20from%20certain%20existing%20claims%20under%20the%20Fair%20Labor%20Standards%20Act%20of%201938%2C%20as%20amended%2C%20the%20Walsh-Healey%20Act%2C%20and%20the%20Bacon-Davis%20Act.md) | Relief from certain existing claims under the Fair Labor Standards Act of 1938, as amended, the Walsh-Healey Act, and the Bacon-Davis Act. |
-| (a) | Liability of employer. |
-| (b) | Compensable activity. |
-| (c) | Time of employment. |
-| (d) | Jurisdiction. |
-| (e) | Assignment of actions. |
 | [253\.](%C2%A7%2000253%20-%20Compromise%20and%20waiver.md) | Compromise and waiver. |
-| (a) | Compromise of certain existing claims under the Fair Labor Standards Act of 1938, the Walsh-Healey Act, or the Bacon-Davis Act; limitations. |
-| (b) | Waiver of liquidated damages under Fair Labor Standards Act of 1938. |
-| (c) | Satisfaction. |
-| (d) | Retroactive effect of section. |
-| (e) | “Compromise” defined. |
 | [254\.](%C2%A7%2000254%20-%20Relief%20from%20liability%20and%20punishment%20under%20the%20Fair%20Labor%20Standards%20Act%20of%201938%2C%20the%20Walsh-Healey%20Act%2C%20and%20the%20Bacon-Davis%20Act%20for%20failure%E2%80%A6.md) | Relief from liability and punishment under the Fair Labor Standards Act of 1938, the Walsh-Healey Act, and the Bacon-Davis Act for failure to pay minimum wage or overtime compensation. |
-| (a) | Activities not compensable. |
-| (b) | Compensability by contract or custom. |
-| (c) | Restriction on activities compensable under contract or custom. |
-| (d) | Determination of time employed with respect to activities. |
 | [255\.](%C2%A7%2000255%20-%20Statute%20of%20limitations.md) | Statute of limitations. |
 | [256\.](%C2%A7%2000256%20-%20Determination%20of%20commencement%20of%20future%20actions.md) | Determination of commencement of future actions. |
 | [257\.](%C2%A7%2000257%20-%20Pending%20collective%20and%20representative%20actions.md) | Pending collective and representative actions. |

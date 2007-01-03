@@ -6,7 +6,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 #### (1) In general
 
-&emsp;(A) Except as provided in subparagraph (B), the voting system (including any lever votingsystem, optical scanning voting system, or direct recording electronic system) shall—
+&emsp;(A) Except as provided in subparagraph (B), the voting system (including any lever voting system, optical scanning voting system, or direct recording electronic system) shall—
 
 &emsp;&emsp;(i) permit the voter to verify (in a private and independent manner) the votes selected by the voter on the ballot before the ballot is cast and counted;
 
@@ -94,7 +94,7 @@ In this section, the term “voting system” means—
 
 #### (1) In general
 
-&emsp;Nothing in this section shall be construed to prohibit a State or jurisdiction which used aparticular type of voting system in the elections for Federal office held in November 2000 from using the same type of system after the effective date of this section, so long as the system meets or is modified to meet the requirements of this section.
+&emsp;Nothing in this section shall be construed to prohibit a State or jurisdiction which used a particular type of voting system in the elections for Federal office held in November 2000 from using the same type of system after the effective date of this section, so long as the system meets or is modified to meet the requirements of this section.
 
 #### (2) Protection of paper ballot voting systems
 

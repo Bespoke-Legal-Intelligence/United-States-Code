@@ -16,7 +16,3 @@ Historical and Revision Notes
 
 Section 8303 prohibits an individual licensed without an examination on an uninspected vessel prior to October 29, 1941, from serving as a master, mate, or engineer on an inspected vessel.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14305 of this title.
-

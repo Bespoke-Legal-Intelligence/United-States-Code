@@ -30,7 +30,7 @@
 
 &emsp;(C) transfers to a non-nuclear-weapon state any design information or component which is determined by the President to be important to, and known by the transferring country to be intended by the recipient state for use in, the development or manufacture of any nuclear explosive device, or
 
-&emsp;(D) is a non-nuclear-weapon state and seeks and receives any design information or component which is determined by the President to be important to, and intended by the recipient state for use in, the development or manufacture of any nuclear explosive device,
+&emsp;(D) is a non-nuclear-weapon state and seeks and receives any design information or component which is determined by the President tobe important to, and intended by the recipient state for use in, the development or manufacture of any nuclear explosive device,
 
 > then the President shall forthwith report in writing his determination to the Congress and shall forthwith impose the sanctions described in paragraph (2) against that country.
 
@@ -46,7 +46,7 @@
 
 &emsp;(C) The United States Government shall terminate all foreign military financing for that country under this chapter.
 
-&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of theUnited States Government, except that the sanction of this subparagraph shall not apply—
+&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of the United States Government, except that the sanction of this subparagraph shall not apply—
 
 &emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] (relating to congressional oversight of intelligence activities),
 
@@ -78,7 +78,7 @@
 
 (6)(A) In the event the President is required to impose sanctions against a country under paragraph (1)(C) or (1)(D), the President shall forthwith so inform such country and shall impose the required sanctions beginning 30 days after submitting to the Congress the report required by paragraph (1) unless, and to the extent that, there is enacted during the 30-day period a law prohibiting the imposition of such sanctions.
 
-(B) Notwithstanding any other provision of law, the sanctions which are required to be imposed against a country under paragraph (1)(C) or (1)(D) shall not apply if the President determines and certifies in writing to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives that the application of such sanctions against such country would have a serious adverse effect on vital United States interests. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
+(B) Notwithstanding any other provision of law, the sanctions which are required to be imposed against a country under paragraph (1)(C)or (1)(D) shall not apply if the President determines and certifies in writing to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives that the application of such sanctions against such country would have a serious adverse effect on vital United States interests. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
 (7) For purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.
 
@@ -88,7 +88,7 @@
 
 As used in this section, the term “non-nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat.516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627.)
+(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627.)
 
 #### References in Text
 
@@ -158,7 +158,7 @@ Targeted Sanctions.—
 
 Sense of the congress.—
 
-&emsp;&emsp;“(A) it is the sense of the Congress that the broad application of export controls to nearly 300 Indian and Pakistani entities is inconsistent with the specific national security interests of the United States and that this control list requires refinement; and
+&emsp;&emsp;“(A) it is the sense of the Congress that the broad application of export controls to nearly 300 Indianand Pakistani entities is inconsistent with the specific national security interests of the United States and that this control list requires refinement; and
 
 &emsp;&emsp;“(B) export controls should be applied only to those Indian and Pakistani entities that make direct and material contributions to weapons of mass destruction and missile programs and only to those items that can contribute to such programs.
 

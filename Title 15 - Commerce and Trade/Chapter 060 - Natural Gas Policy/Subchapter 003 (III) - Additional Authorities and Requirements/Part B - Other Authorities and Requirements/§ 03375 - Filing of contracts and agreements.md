@@ -1,6 +1,6 @@
 ### §3375. Filing of contracts and agreements
 
-The Commission may, by rule or order, require any first sale purchaser of natural gas under a new contract, a successor to an existing contract, or a rollover contract to file with the Commission a copy of such contract, together with all ancillary agreements and any existing contract applicable to such natural gas.
+The Commission may, by rule or order, require any first sale purchaser of natural gas under anew contract, a successor to an existing contract, or a rollover contract to file with the Commission a copy of such contract, together with all ancillary agreements and any existing contract applicable to such natural gas.
 
 (Pub. L. 95–621, title III, §315, Nov. 9, 1978, 92 Stat. 3393; Pub. L. 100–439, §§1, 2(a), (b)(1), Sept. 22, 1988, 102 Stat. 1720; Pub. L. 101–60, §3(a)(2), July 26, 1989, 103 Stat. 158.)
 

@@ -108,7 +108,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)(A)\], struck out �
 
 Subsec. (b). Pub. L. 106–419, §103(d)(2), substituted “whose obligated period of active duty on which such entitlement is based is two years,” for “whose initial obligated period of active duty is two years,” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 106–419, §105(b)(1), which directed substitution of “subsection (h)” for “subsection (g)” wherever appearing, could not be executed because the words “subsection (g)” did not appear subsequentto the amendment by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)(A)\]. See below.
+Subsec. (b)(1). Pub. L. 106–419, §105(b)(1), which directed substitution of “subsection (h)” for “subsection (g)” wherever appearing, could not be executed because the words “subsection (g)” did not appear subsequent to the amendment by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)(A)\]. See below.
 
 Pub. L. 106–419, §101(a)(2), substituted “$528” for “$429”.
 
@@ -118,7 +118,7 @@ Subsec. (c)(2)(A), (B). Pub. L. 106–419, §103(d)(3), added subpars. (A) and (
 
 “(A) whose initial obligated period of active duty is less than three years;
 
-“(B) who, beginning on the date of the commencement of the person's initial obligated period of such duty, serves a continuous period of active duty of not less than three years; and”.
+“(B) who, beginning on the date of the commencement of the person's initial obligated period of suchduty, serves a continuous period of active duty of not less than three years; and”.
 
 Subsec. (g). Pub. L. 106–419, §105(b)(3), added subsec. (g). Former subsec. (g) relating to an individual who has been paid a basic educational assistance allowance under section 3014(b) of this title redesignated (h).
 
@@ -194,7 +194,7 @@ Subsec. (f). Pub. L. 102–25, §337(a)(3), added subsec. (f).
 
 Subsec. (c). Pub. L. 101–237, §423(b)(5), inserted “of Defense” after “prescribed by the Secretary” and after “of this section as the Secretary”.
 
-Pub. L. 101–189 inserted “, in the case of an individual who first became a member of the Armed Forces beforethe date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991, or $700 per month, in the case of an individual who first became a member of the Armed Forces on or after that date” before period at end.
+Pub. L. 101–189 inserted “, in the case of an individual who first became a member of the Armed Forces before the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991, or $700 per month, in the case of an individual who first became a member of the Armed Forces on or after that date” before period at end.
 
 1988—Subsec. (a). Pub. L. 100–689, §111(a)(5)(A), substituted “The amount of payment of educational assistance under this chapter is subject to section 1432 of this title. Except” for “Subject to section 1432 of this title and except”.
 
@@ -202,7 +202,7 @@ Subsec. (b). Pub. L. 100–689, §103(b)(3), inserted reference to section 1418 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by section 7(b)(2)(A) of Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
+Amendment by section 7(b)(2)(A) of Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately afterthe enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
 
 Amendment by section 7(c)(3) of Pub. L. 107–14 effective as if included in the enactment of section 105 of Pub. L. 106–419, see section 7(c)(4) of Pub. L. 107–14, set out as a note under section 3011 of this title.
 
@@ -232,7 +232,7 @@ Section 307(c) of Pub. L. 102–568 provided that: “The amendments made by sub
 
 Pub. L. 107–103, title I, §101(b), Dec. 27, 2001, 115 Stat. 978, provided that: “No adjustment in rates of educational assistance shall be made under section 3015(h) of title 38, United States Code, for fiscal years 2003 and 2004.”
 
-Fiscal year 1995 cost-of-living adjustments in rates of educational assistance payable under this chapter to be percentage equal to 50 percent of percentage by which such assistance would be increased under subsec. (g) \[now (h)\] of this section but for section 12009 of Pub. L. 103–66, see section 12009(c) of Pub. L. 103–66, set out as a note under section 16131 of Title 10, Armed Forces.
+Fiscal year 1995 cost-of-living adjustments in rates of educational assistance payable under this chapter to be percentage equal to 50 percent of percentage by which such assistance would be increased under subsec. (g) \[now (h)\] of this section but for section 12009 of Pub. L. 103–66, see section 12009(c) of Pub. L. 103–66, formerly set out as a note under section 16131 of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

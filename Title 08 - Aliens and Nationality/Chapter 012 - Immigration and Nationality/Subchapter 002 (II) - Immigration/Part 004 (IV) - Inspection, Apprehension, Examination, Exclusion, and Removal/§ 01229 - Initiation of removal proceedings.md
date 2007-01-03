@@ -80,9 +80,9 @@ Service by mail under this section shall be sufficient if there is proof of atte
 
 &emsp;&emsp;(A) At a domestic violence shelter, a rape crisis center, supervised visitation center, family justice center, a victim services, or victim services provider, or a community-based organization.
 
-&emsp;&emsp;(B) At a courthouse (or in connection with that appearance of the alien at a courthouse) if the alien is appearing in connection with a protection order case, child custody case, or other civil or criminal case relating to domestic violence, sexual assault, trafficking, or stalking in which the alien has been battered or subject to extreme cruelty or if the alien is described in subparagraph (T) or (V) of section 1101(a)(15) of this title.
+&emsp;&emsp;(B) At a courthouse (or in connection with that appearance of the alien at a courthouse) if the alien is appearing in connection with a protection order case, child custody case, or other civil or criminal case relating to domestic violence, sexual assault, trafficking, or stalking in which the alien has been battered or subject to extreme cruelty or if the alien is described in subparagraph (T) or (U) of section 1101(a)(15) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §239, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–587; amended Pub. L. 109–162, title VIII, §825(c)(1), Jan. 5, 2006, 119 Stat. 3065.)
+(June 27, 1952, ch. 477, title II, ch. 4, §239, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–587; amended Pub. L. 109–162, title VIII, §825(c)(1), Jan. 5, 2006, 119 Stat. 3065; Pub. L. 109–271, §6(d), Aug. 12, 2006, 120 Stat. 763.)
 
 #### Prior Provisions
 
@@ -91,6 +91,8 @@ A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Sta
 #### Amendments
 
 2006—Subsec. (e). Pub. L. 109–162 added subsec. (e).
+
+Subsec. (e)(2)(B). Pub. L. 109–271 substituted “(U)” for “(V)”.
 
 #### Effective Date of 2006 Amendment
 

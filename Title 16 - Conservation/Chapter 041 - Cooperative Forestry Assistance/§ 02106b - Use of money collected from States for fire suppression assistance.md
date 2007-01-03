@@ -1,6 +1,6 @@
 ### §2106b. Use of money collected from States for fire suppression assistance
 
-Any money collected from the States for fire suppression assistance rendered by the ForestService on non-Federal lands not in the vicinity of National Forest System lands shall on and after October 21, 1998, be used to reimburse the applicable appropriation and shall remain available until expended as the Secretary may direct in conducting activities authorized by 16 U.S.C. 2101 note, 2101–2110, 1606, and 2111.
+Any money collected from the States for fire suppression assistance rendered by the Forest Service on non-Federal lands not in the vicinity of National Forest System lands shall on and after October 21, 1998, be used to reimburse the applicable appropriation and shall remain available until expended as the Secretary may direct in conducting activities authorized by 16 U.S.C. 2101 note, 2101–2110, 1606, and 2111.
 
 (Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–273.)
 

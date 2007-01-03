@@ -8,7 +8,7 @@
 
 (B) After the Final Government Equity Redemption Date, the Secretary of the Treasury shall not purchase any class A stock.
 
-(3)(A) On the Final Government Equity Redemption Date, all class A stock held by theSecretary of the Treasury on such date shall be redeemed by the Bank in exchange for class A notes which are issued by the Bank to the Secretary of the Treasury on behalf of the United States and which have a total face value equal to the total par value of the class A stock which is so redeemed, plus any unpaid dividends on such stock.
+(3)(A) On the Final Government Equity Redemption Date, all class A stock held by the Secretary of the Treasury on such date shall be redeemed by the Bank in exchange for class A notes which are issued by the Bank to the Secretary of the Treasury on behalf of the United States and which have a total face value equal to the total par value of the class A stock which is so redeemed, plus any unpaid dividends on such stock.
 
 (B) During the period beginning on the Final Government Equity Redemption Date and ending on December 31, 1990, not less than 30 percent of the revenue derived from the sale of stock by the Bank, other than the sale of class B stock or class C stock, shall be used, upon receipt, to retire class A notes.
 

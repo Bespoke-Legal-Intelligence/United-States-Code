@@ -2,7 +2,7 @@
 
 #### (a) Consultation between agencies
 
-The Secretary shall require consultation between the Administrator of the Service and the heads of other appropriate agencies and offices of the Department of Agriculture, including theAdministrator of the Animal and Plant Health Inspection Service, prior to relaxing or removing any restriction on the importation of any agricultural commodity into the United States.
+The Secretary shall require consultation between the Administrator of the Service and the heads of other appropriate agencies and offices of the Department of Agriculture, including the Administrator of the Animal and Plant Health Inspection Service, prior to relaxing or removing any restriction on the importation of any agricultural commodity into the United States.
 
 #### (b) Consultation with Trade Representative
 

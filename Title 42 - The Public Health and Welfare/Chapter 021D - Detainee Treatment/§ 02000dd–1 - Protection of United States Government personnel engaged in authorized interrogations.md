@@ -6,11 +6,27 @@ In any civil action or criminal prosecution against an officer, employee, member
 
 #### (b) Counsel
 
-The United States Government may provide or employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation of an officer, employee, member of the Armed Forces, or other agent described insubsection (a), with respect to any civil action or criminal prosecution arising out of practices described in that subsection, under the same conditions, and to the same extent, to which such services and payments are authorized under section 1037 of title 10.
+The United States Government shall provide or employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation of an officer, employee, member of the Armed Forces, or other agent described in subsection (a), with respect to any civil action or criminal prosecution or investigation arising out of practices described in that subsection, whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies, under the same conditions, and to the same extent, to which such services and payments are authorized under section 1037 of title 10.
 
-(Pub. L. 109–148, div. A, title X, §1004, Dec. 30, 2005, 119 Stat. 2740; Pub. L. 109–163, div. A, title XIV, §1404, Jan. 6, 2006, 119 Stat. 3475.)
+(Pub. L. 109–148, div. A, title X, §1004, Dec. 30, 2005, 119 Stat. 2740; Pub. L. 109–163, div. A, title XIV, §1404, Jan. 6, 2006, 119 Stat. 3475; Pub. L. 109–366, §8(a), Oct. 17, 2006, 120 Stat. 2636.)
 
 #### Codification
 
-Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections.
+Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section enacted by Pub. L. 109–148, butnot the section enacted by Pub. L. 109–163, was amended by Pub. L. 109–366, see 2006 Amendment notes below. The text of this section is based on the text of section 1004 of Pub. L. 109–148 as amended by Pub. L. 109–366.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–366, §8(a)(3), which directed the insertion of “whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies,” after “described in that subsection”, was executed by making insertion after “described in that subsection,”, to reflect the probable intent of Congress.
+
+Pub. L. 109–366, §8(a)(1), (2), substituted “shall provide” for “may provide” and inserted “or investigation” after “criminal prosecution”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–366, §8(b), Oct. 17, 2006, 120 Stat. 2636, provided that: “Section 1004 of the Detainee Treatment Act of 2005 (42 U.S.C. 2000dd–1) shall apply with respect to any criminal prosecution that—
+
+&emsp;“(1) relates to the detention and interrogation of aliens described in such section;
+
+&emsp;“(2) is grounded in section 2441(c)(3) of title 18, United States Code; and
+
+&emsp;“(3) relates to actions occurring between September 11, 2001, and December 30, 2005.”
 

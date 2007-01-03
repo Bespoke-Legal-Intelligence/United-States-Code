@@ -7,10 +7,6 @@
 | [2303\.](%C2%A7%2002303%20-%20Prohibited%20practices.md) | Prohibited practices. |
 | [2304\.](%C2%A7%2002304%20-%20Disclaimer%20of%20intention%20to%20prohibit%20normal%20dealing.md) | Disclaimer of intention to prohibit normal dealing. |
 | [2305\.](%C2%A7%2002305%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
-| (a) | Civil actions by persons aggrieved; preventive relief; attorneys’ fees; security. |
-| (b) | Civil actions by Attorney General; Federal jurisdiction; complaint; preventive relief. |
-| (c) | Suits by persons injured; Federal jurisdiction; amount of recovery; attorneys’ fees; limitation of actions. |
-| (d) | Federal jurisdiction; exhaustion of other remedies; State laws and jurisdiction unaffected. |
 | [2306\.](%C2%A7%2002306%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

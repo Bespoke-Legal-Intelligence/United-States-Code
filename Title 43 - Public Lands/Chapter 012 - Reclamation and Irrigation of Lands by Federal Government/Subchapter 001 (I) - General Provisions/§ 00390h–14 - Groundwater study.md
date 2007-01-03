@@ -2,7 +2,7 @@
 
 #### (a) Investigation, analysis, and report
 
-In furtherance of the High Plains Groundwater Demonstration Program Act of 1983 (98 Stat. 1675) \[43 U.S.C. 390g et seq.\], the Secretary of the Interior, acting through the Bureau of Reclamation and the Geological Survey, shall conduct an investigation and analysis of the impacts of existing Bureau of Reclamation projects on the quality and quantity of groundwater resources. Based on such investigation and analysis, the Secretary shall prepare a reclamation groundwater management and technical assistance report which shall include—
+In furtherance of the High Plains Groundwater Demonstration Program Act of 1983 (98 Stat.1675) \[43 U.S.C. 390g et seq.\], the Secretary of the Interior, acting through the Bureau of Reclamation and the Geological Survey, shall conduct an investigation and analysis of the impacts of existing Bureau of Reclamation projects on the quality and quantity of groundwater resources. Based on such investigation and analysis, the Secretary shall prepare a reclamation groundwater management and technical assistance report which shall include—
 
 &emsp;(1) a description of the findings of the investigation and analysis, including the methodology employed;
 

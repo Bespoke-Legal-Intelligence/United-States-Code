@@ -2,7 +2,19 @@
 
 This subchapter may be cited as the “Federal Trade Commission Act”.
 
-(Sept. 26, 1914, ch. 311, §26, formerly §18, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; renumbered §21, Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered §25, Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; renumbered §26, Pub. L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691.)
+(Sept. 26, 1914, ch. 311, §28, formerly §18, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; renumbered §21, Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered §25, Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; renumbered §26, Pub. L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691; renumbered §28, Pub. L. 109–455, §11(1), Dec. 22, 2006, 120 Stat. 3381.)
+
+#### Amendment of Section
+
+<i>For termination of amendment renumbering this section by section 13 of Pub. L. 109–455, see</i><i>Termination Date of 2006 Amendment note below.</i>
+
+#### Termination Date of 2006 Amendment
+
+Amendment by Pub. L. 109–455 to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–455, §1, Dec. 22, 2006, 120 Stat. 3372, provided that: “This Act \[enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 44, 45, 46, 56, and 57b–2 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under section 44 of this title\] may be cited as the ‘Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyond Borders Act of 2006’ or the ‘U.S. SAFE WEB Act of 2006’.”
 
 #### Short Title of 1996 Amendment
 

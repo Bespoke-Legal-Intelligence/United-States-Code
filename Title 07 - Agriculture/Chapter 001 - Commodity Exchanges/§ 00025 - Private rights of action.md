@@ -48,7 +48,7 @@ The United States district courts shall have exclusive jurisdiction of actions b
 
 #### (d) Dates of application to actions
 
-The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: <i>Provided</i>, That the enactment of the Futures Trading Actof 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
+The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: <i>Provided</i>, That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
 
 (Sept. 21, 1922, ch. 369, §22, as added Pub. L. 97–444, title II, §235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§120, 123(a)(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410.)
 
@@ -68,7 +68,7 @@ Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(iii)\], 
 
 Subsec. (a)(4). Pub. L. 106–554, §1(a)(5) \[title I, §120\], added par. (4).
 
-Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(i)\], substituted “registered entity that fails” for “contract market or clearing organization of a contract market that fails”, “sections 7 through 7a–2 of this title” for “section 7a(8) and section 7a(9) of this title”, “registered entity that in” for “contract market, clearing organization of a contract market, or licensed board of trade that in”, and “registered entity to the” for “contract market or licensed board of trade to the”.
+Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(i)\], substituted “registered entity that fails” for “contract market or clearing organization of a contract market that fails”, “sections 7 through 7a–2 of this title” for “section 7a(8) and section 7a(9) of thistitle”, “registered entity that in” for “contract market, clearing organization of a contract market, or licensed board of trade that in”, and “registered entity to the” for “contract market or licensed board of trade to the”.
 
 Subsec. (b)(3). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(ii)\], substituted “employee of registered entity” for “employee of a contract market, clearing organization, licensed board of trade,” and “such registered entity” for “such contract market, licensed board of trade”.
 

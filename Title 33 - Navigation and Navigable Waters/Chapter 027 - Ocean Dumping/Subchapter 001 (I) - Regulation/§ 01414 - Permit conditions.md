@@ -26,7 +26,7 @@ Information received by the Administrator or the Secretary, as the case may be, 
 
 #### (g) Display of issued permits
 
-A copy of any permit issued under this subchapter shall be placed in a conspicuous place in the vessel which will be used for the transportation or dumping authorized by such permit, and an additional copy shall be furnished by the issuing official to the Secretary of the department in which the Coast Guard is operating, or its designee.
+A copy of any permit issued under this subchapter shall be placed in a conspicuous place inthe vessel which will be used for the transportation or dumping authorized by such permit, and an additional copy shall be furnished by the issuing official to the Secretary of the department in which the Coast Guard is operating, or its designee.
 
 #### (h) Low-level radioactive waste; research purposes
 
@@ -86,7 +86,7 @@ Notwithstanding any provision of this subchapter to the contrary, during the two
 
 &emsp;(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the 90 day calendar period.
 
-(D) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to \_\_\_\_\_\_\_\_\_\_ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on \_\_\_\_\_\_\_\_\_\_, 19\_\_.”; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
+(D) For the purposes of this subsection, the term “resolution” means a joint resolution, theresolving clause of which is as follows: “That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to \_\_\_\_\_\_\_\_\_\_ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on \_\_\_\_\_\_\_\_\_\_, 19\_\_.”; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
 
 (Pub. L. 92–532, title I, §104, Oct. 23, 1972, 86 Stat. 1056; Pub. L. 97–424, title IV, §424(a), Jan. 6, 1983, 96 Stat. 2165; Pub. L. 100–17, title I, §133(c)(1), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–580, title V, §507, Oct. 31, 1992, 106 Stat. 4869.)
 

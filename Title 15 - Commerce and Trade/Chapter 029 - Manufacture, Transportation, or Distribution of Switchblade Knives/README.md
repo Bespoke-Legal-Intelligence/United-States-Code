@@ -7,10 +7,6 @@
 | [1243\.](%C2%A7%2001243%20-%20Manufacture%2C%20sale%2C%20or%20possession%20within%20specific%20jurisdictions%3B%20penalty.md) | Manufacture, sale, or possession within specific jurisdictions; penalty. |
 | [1244\.](%C2%A7%2001244%20-%20Exceptions.md) | Exceptions. |
 | [1245\.](%C2%A7%2001245%20-%20Ballistic%20knives.md) | Ballistic knives. |
-| (a) | Prohibition and penalties for possession, manufacture, sale, or importation. |
-| (b) | Prohibition and penalties for possession or use during commission of Federal crime of violence. |
-| (c) | Exceptions. |
-| (d) | “Ballistic knife” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

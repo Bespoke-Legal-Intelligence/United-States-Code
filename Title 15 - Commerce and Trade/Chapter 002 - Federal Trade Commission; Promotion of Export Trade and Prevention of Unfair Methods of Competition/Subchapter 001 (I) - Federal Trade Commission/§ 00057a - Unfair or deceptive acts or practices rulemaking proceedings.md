@@ -58,7 +58,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (1) The Commission's statement of basis and purpose to accompany a rule promulgated under subsection (a)(1)(B) of this section shall include (A) a statement as to the prevalence of the acts or practices treated by the rule; (B) a statement as to the manner and context in which such acts or practices are unfair or deceptive; and (C) a statement as to the economic effect of the rule, taking into account the effect on small business and consumers.
 
-(2)(A) The term “Commission” as used in this subsection and subsections (b) and (c) of this section includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
+(2)(A) The term “Commission” as used in this subsection and subsections (b) and (c) of thissection includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
 
 (B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B) of this section shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) of this section shall not be treated as an amendment or repeal of a rule.
 
@@ -70,7 +70,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (B) For purposes of this section, the term “rulemaking record” means the rule, its statement of basis and purpose, the transcript required by subsection (c)(5) of this section, any written submissions, and any other information which the Commission considers relevant to such rule.
 
-(2) If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding beforethe Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule's statement of basis of purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
+(2) If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule's statement of basis of purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
 
 (3) Upon the filing of the petition under paragraph (1) of this subsection, the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. The court shall hold unlawful and set aside the rule on any ground specified in subparagraphs (A), (B), (C), or (D) of section 706(2) of title 5 (taking due account of the rule of prejudicial error), or if—
 
@@ -102,9 +102,9 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 Enforcement.—Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of—
 
-&emsp;(A) national banks, banks operating under the code of law for the District of Columbia, and Federal branches and Federal agencies of foreign banks, by the division of consumer affairs established by the Office of the Comptroller of the Currency;
+&emsp;(A) national banks and Federal branches and Federal agencies of foreign banks, by the division of consumer affairs established by the Office of the Comptroller of the Currency;
 
-&emsp;(B) member banks of the Federal Reserve System (other than national banks and banks operating under the code of law for the District of Columbia), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the division of consumer affairs established by the Board of Governors of the Federal Reserve System; and
+&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the division of consumer affairs established by the Board of Governors of the Federal Reserve System; and
 
 &emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other <sup>2</sup> banks referred to in subparagraph (A) or (B)) and insured State branches of foreign banks, by the division of consumer affairs established by the Board of Directors of the Federal Deposit Insurance Corporation.
 
@@ -144,9 +144,9 @@ The Commission shall not have any authority to promulgate any rule in the childr
 
 #### (j) Communications by investigative personnel with staff of Commission concerning matters outside rulemaking record prohibited
 
-Not later than 60 days after May 28, 1980, the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980, the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the publicand is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
+Not later than 60 days after May 28, 1980, the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980, the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the public and is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
 
-(Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582.)
+(Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, §725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(g), Oct. 16, 2006, 120 Stat. 2029.)
 
 #### References in Text
 
@@ -154,9 +154,11 @@ Section 25(a) of the Federal Reserve Act, referred to in subsec. (f)(2)(B), whic
 
 #### Prior Provisions
 
-A prior section 18 of act Sept. 26, 1914, ch. 311, was renumbered section 25 and is classified to section 58 of this title.
+A prior section 18 of act Sept. 26, 1914, ch. 311, was renumbered section 28 and is classified to section 58 of this title.
 
 #### Amendments
+
+2006—Subsec. (f)(2)(A), (B). Pub. L. 109–351 and Pub. L. 109–356 amended par. (2) identically, striking out “, banks operating under the code of law for the District of Columbia,” after “national banks” in subpar. (A) and “and banks operating under the code of law for the District of Columbia” after “(other than national banks” in subpar. (B).
 
 1994—Subsec. (a)(1). Pub. L. 103–312, §3(b), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
 
@@ -180,7 +182,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 1989—Subsec. (f)(3). Pub. L. 101–73 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners’ Loan Act of 1933 (12 U.S.C. 1464) with respect to Federal savings and loan associations, section 407 of the National Housing Act (12 U.S.C. 1730) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act (12 U.S.C. 1426(i), 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by the Federal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act.”
 
-1987—Subsec. (f)(1). Pub. L. 100–86, §715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
+1987—Subsec. (f)(1). Pub. L. 100–86, §715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in lastsentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
@@ -240,7 +242,7 @@ Section 11(c) of Pub. L. 96–252 provided that: “The amendments made in subse
 
 Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
 #### Transfer of Functions
 

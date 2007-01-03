@@ -84,7 +84,7 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(v) require the person to read and sign a form stating that the duty of the person to register under this section has been explained.
 
-&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to register under subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipatedfuture residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
+&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to register under subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipated future residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
 
 #### (2) Transfer of information to State and FBI; participation in national sex offender registry
 
@@ -94,7 +94,7 @@ An approved State registration program established under this section shall cont
 
 #### (B) National reporting
 
-&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, including transmission of current address information and other information on registrants to the extent provided by the guidelines.
+&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, includingtransmission of current address information and other information on registrants to the extent provided by the guidelines.
 
 #### (3) Verification
 
@@ -238,6 +238,10 @@ Each requirement to register under this section shall be deemed to also require 
 
 (Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985; Pub. L. 106–386, div. B, title VI, §1601(b)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 108–21, title VI, §§604(a), 605(a), 606, Apr. 30, 2003, 117 Stat. 688; Pub. L. 109–162, title XI, §1153(b), Jan. 5, 2006, 119 Stat. 3113.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–248, title I, §129, July 27, 2006, 120 Stat. 600, provided that, effective before the later of 3 years after July 27, 2006, or 1 year</i><i>after the date on which the software described in section 16923 of this title is available, this section is repealed.</i>
+
 #### References in Text
 
 Section 3756 of this title, referred to in subsec. (g)(2)(A), was repealed and a new section 3756 enacted by Pub. L. 109–162, title XI, §1111(a)(1), (2)(C), Jan. 5, 2006, 119 Stat. 3094, 3100. Provisions relating to allocations to States are contained in section 3755 of this title. See section 3750(b)(2) of this title.
@@ -296,7 +300,7 @@ Subsec. (b)(3)(A)(i) to (iv). Pub. L. 105–119, §115(a)(2)(C)(ii), which direc
 
 “(iv) If the person fails to mail the verification form to the designated State law enforcement agency within 10 days after receipt of the form, the person shall be in violation of this section unless the person proves that the person has not changed the residence address.”
 
-Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agency with which the person must register in the new State, if the new State has a registration requirement”.
+Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agencywith which the person must register in the new State, if the new State has a registration requirement”.
 
 Subsec. (b)(5). Pub. L. 105–119, §115(a)(2)(E), substituted “and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agency responsible for registration in the new State, if that State requires registration” for “shall register the new address with a designated law enforcement agency in another State to which the person moves not later than 10 days after such person establishes residence in the new State, if the new State has a registration requirement”.
 
@@ -333,6 +337,10 @@ Subsec. (d). Pub. L. 104–145 amended heading and text of subsec. (d) generally
 &emsp;“(3) the designated State law enforcement agency and any local law enforcement agency authorized by the State agency may release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.”
 
 Subsec. (g). Pub. L. 104–236, §5, added subsec. (g).
+
+#### Effective Date of Repeal
+
+Pub. L. 109–248, title I, §129(b), July 27, 2006, 120 Stat. 601, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], this section \[repealing this section and sections 14072 and 14073 of this title\] shall take effect on the date of the deadline determined in accordance with section 124(a) \[42 U.S.C. 16924(a)\].”
 
 #### Effective Date of 2003 Amendment
 

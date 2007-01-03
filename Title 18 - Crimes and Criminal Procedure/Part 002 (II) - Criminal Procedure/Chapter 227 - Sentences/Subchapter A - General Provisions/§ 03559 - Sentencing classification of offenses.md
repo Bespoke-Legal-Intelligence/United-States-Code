@@ -58,7 +58,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(F) the term “serious violent felony” means—
 
-&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusivesexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
+&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
 &emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
@@ -136,7 +136,7 @@ In general.—A person who is convicted of a Federal sex offense in which a mino
 
 Definitions.—For the purposes of this subsection—
 
-&emsp;&emsp;(A) the term “Federal sex offense” means an offense under section 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating toselling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
+&emsp;&emsp;(A) the term “Federal sex offense” means an offense under section 1591 (relating to sex trafficking of children), 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating to selling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
 
 &emsp;&emsp;(B) the term “State sex offense” means an offense under State law that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
 
@@ -160,7 +160,17 @@ Nonqualifying Felonies.—An offense described in section 2422(b) or 2423(a) sha
 
 &emsp;&emsp;(C) no sexual act or activity occurred.
 
-(f)(1) If a defendant who is convicted of a felony offense (other than offense of which an element is the false registration of a domain name) knowingly falsely registered a domain name and knowingly used that domain name in the course of that offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 7 years, whichever is less.
+(f)
+
+Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A person who is convicted of a Federal offense that is a crime of violence against the person of an individual who has not attained the age of 18 years shall, unless a greater mandatory minimum sentence of imprisonment is otherwise provided by law and regardless of any maximum term of imprisonment otherwise provided for the offense—
+
+&emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years not less than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
+
+&emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as defined in section 114), be imprisoned for life or any term of years not less than 25; and
+
+&emsp;(3) if the crime of violence results in serious bodily injury (as defined in section 1365), or if a dangerous weapon was used during and in relation to the crime of violence, be imprisoned for life or for any term of years not less than 10.
+
+(g)(1) If a defendant who is convicted of a felony offense (other than offense of which an element is the false registration of a domain name) knowingly falsely registered a domain name and knowingly used that domain name in the course of that offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 7 years, whichever is less.
 
 (2) As used in this section—
 
@@ -168,9 +178,13 @@ Nonqualifying Felonies.—An offense described in section 2422(b) or 2423(a) sha
 
 &emsp;(B) the term “domain name” has the meaning given that term is <sup>1</sup> section 45 of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes” approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”) (15 U.S.C. 1127).
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917; Pub. L. 109–248, title II, §§202, 206(c), July 27, 2006, 120 Stat. 612, 614.)
 
 #### Amendments
+
+2006—Subsec. (e)(2)(A). Pub. L. 109–248, §206(c), inserted “1591 (relating to sex trafficking of children),” after “under section”.
+
+Subsecs. (f), (g). Pub. L. 109–248, §202, added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2004—Subsec. (f). Pub. L. 108–482 added subsec. (f).
 

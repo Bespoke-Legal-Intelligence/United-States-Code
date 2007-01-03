@@ -34,7 +34,7 @@ Expedited Processing.—Not later than 60 days after the date of enactment of th
 
 &emsp;(1) holds an airman's certification of a foreign country that is recognized by an agency of the United States, including a military agency, that permits an individual to operate a multi-engine aircraft that has a certificated takeoff weight of more than 12,500 pounds;
 
-&emsp;(2) is employed by a foreign air carrier that is certified under part 129 of title 14, Code of Federal Regulations, and that has a securityprogram approved under section 1546 of title 49, Code of Federal Regulations;
+&emsp;(2) is employed by a foreign air carrier that is certified under part 129 of title 14, Code of Federal Regulations, and that has a security program approved under section 1546 of title 49, Code of Federal Regulations;
 
 &emsp;(3) is an individual that has unescorted access to a secured area of an airport designated under section 44936(a)(1)(A)(ii); or
 

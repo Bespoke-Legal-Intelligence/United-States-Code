@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(B) provide such enrollees access to necessary covered items and services 24 hours per day, every day of the year;
 
-&emsp;&emsp;(C) provide services to such enrollees through a comprehensive, multidisciplinaryhealth and social services delivery system which integrates acute and long-term care services pursuant to regulations; and
+&emsp;&emsp;(C) provide services to such enrollees through a comprehensive, multidisciplinary health and social services delivery system which integrates acute and long-term care services pursuant to regulations; and
 
 &emsp;&emsp;(D) specify the covered items and services that will not be provided directly by the entity, and to arrange for delivery of those items and services through contracts meeting the requirements of regulations.
 
@@ -132,7 +132,7 @@
 
 #### (4) Reference to related provision for services covered under subchapter XIX but not under this subchapter
 
-&emsp;For provisions relating to limitations on payments to providers participating under the State plan under subchapter XIX of this chapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under this subchapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(66) of this title.
+&emsp;For provisions relating to limitations on payments to providers participating under the State plan under subchapter XIX of this chapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under this subchapter) when such services are furnished to enrollees of thatPACE provider, see section 1396a(a)(66) of this title.
 
 #### (c) Eligibility determinations
 
@@ -172,7 +172,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that thePACE program may not disenroll a PACE program eligible individual except—
+&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that the PACE program may not disenroll a PACE program eligible individual except—
 
 &emsp;&emsp;&emsp;&emsp;(I) for nonpayment of premiums (if applicable) on a timely basis; or
 
@@ -194,7 +194,7 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contractsunder section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
 
 #### (e) PACE program agreement
 
@@ -460,6 +460,188 @@ Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan.
 
 Pub. L. 106–554, §1(a)(6) \[title IX, §902(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “The amendments made by this section \[amending this section and section 1396u–4 of this title\] shall be effective as \[if\] included in the enactment of BBA \[Pub. L. 105–33\].”
 
+#### Rural PACE Provider Grant Program
+
+Pub. L. 109–171, title V, §5302, Feb. 8, 2006, 120 Stat. 51, as amended by Pub. L. 109–432, div. B, title II, §205(a), Dec. 20, 2006, 120 Stat. 2989, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1) CMS.—The term ‘CMS’ means the Centers for Medicare \& Medicaid Services.
+
+&emsp;“(2) PACE
+
+program.—The term ‘PACE program’ has the meaning given that term in sections 1894(a)(2) and 1934(a)(2) of the Social Security Act (42 U.S.C. 1395eee(a)(2); 1396u–4(a)(2)).
+
+&emsp;“(3) PACE
+
+provider.—The term ‘PACE provider’ has the meaning given that term in section 1894(a)(3) or 1934(a)(3) of the Social Security Act (42 U.S.C. 1395eee(a)(3); 1396u–4(a)(3)).
+
+&emsp;“(4)
+
+Rural area.—The term ‘rural area’ has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D)).
+
+&emsp;“(5)
+
+Rural pace pilot site.—The term ‘rural PACE pilot site’ means a PACE provider that has been approved to provide services in a geographic service area that is, in whole or in part, a rural area, and that has received a site development grant under this section.
+
+&emsp;“(6)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.
+
+“(b)
+
+Site Development Grants and Technical Assistance Program.—
+
+&emsp;“(1)
+
+Site development grants.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary shall establish a process and criteria to award site development grants to qualified PACE providers that have been approved to serve a rural area.
+
+&emsp;&emsp;“(B)
+
+Amount per award.—A site development grant awarded under subparagraph (A) to any individual rural PACE pilot site shall not exceed $750,000.
+
+&emsp;&emsp;“(C)
+
+Number of awards.—Not more than 15 rural PACE pilot sites shall be awarded a site development grant under subparagraph (A).
+
+&emsp;&emsp;“(D)
+
+Use of funds.—Funds made available under a site development grant awarded under subparagraph (A) may be used for the following expenses only to the extent such expenses are incurred in relation to establishing or delivering PACE program services in a rural area:
+
+&emsp;&emsp;&emsp;“(i) Feasibility analysis and planning.
+
+&emsp;&emsp;&emsp;“(ii) Interdisciplinary team development.
+
+&emsp;&emsp;&emsp;“(iii) Development of a provider network, including contract development.
+
+&emsp;&emsp;&emsp;“(iv) Development or adaptation of claims processing systems.
+
+&emsp;&emsp;&emsp;“(v) Preparation of special education and outreach efforts required for the PACE program.
+
+&emsp;&emsp;&emsp;“(vi) Development of expense reporting required for calculation of outlier payments or reconciliation processes.
+
+&emsp;&emsp;&emsp;“(vii) Development of any special quality of care or patient satisfaction data collection efforts.
+
+&emsp;&emsp;&emsp;“(viii) Establishment of a working capital fund to sustain fixed administrative, facility, or otherfixed costs until the provider reaches sufficient enrollment size.
+
+&emsp;&emsp;&emsp;“(ix) Startup and development costs incurred prior to the approval of the rural PACE pilot site's PACE provider application by CMS.
+
+&emsp;&emsp;&emsp;“(x) Any other efforts determined by the rural PACE pilot site to be critical to its successful startup, as approved by the Secretary.
+
+&emsp;&emsp;“(E)
+
+Appropriation.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out this subsection for fiscal year 2006, $7,500,000.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Availability.—Funds appropriated under clause (i) shall remain available for expenditure through fiscal year 2008.
+
+&emsp;“(2)
+
+Technical assistance program.—The Secretary shall establish a technical assistance program to provide—
+
+&emsp;&emsp;“(A) outreach and education to State agencies and provider organizations interested in establishing PACE programs in rural areas; and
+
+&emsp;&emsp;“(B) technical assistance necessary to support rural PACE pilot sites.
+
+“(c)
+
+Cost Outlier Protection for Rural PACE Pilot Sites.—
+
+&emsp;“(1)
+
+Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
+
+&emsp;“(2)
+
+Eligible outlier participant.—For purposes of this subsection, the term ‘eligible outlier participant’ means a PACE program eligible individual (as defined in sections 1894(a)(5) and 1934(a)(5) of the Social Security Act (42 U.S.C. 1395eee(a)(5); 1396u–4(a)(5))) who resides in a rural area and with respect to whom the rural PACE pilot site incurs more than $50,000 in recognized costs in a 12-month period.
+
+&emsp;“(3)
+
+Recognized outlier costs defined.—
+
+&emsp;&emsp;“(A)
+
+In general.—For purposes of this subsection, the term ‘recognized outlier costs’ means, with respect to services furnished to an eligible outlier participant by a rural PACE pilot site, the least of the following (as documented by the site to the satisfaction of the Secretary) for the provision of inpatient and related physician and ancillary services for the eligible outlier participant in a given 12-month period:
+
+&emsp;&emsp;&emsp;“(i) If the services are provided under a contract between the pilot site and the provider, the payment rate specified under the contract.
+
+&emsp;&emsp;&emsp;“(ii) The payment rate established under the original Medicare fee-for-service program for such service.
+
+&emsp;&emsp;&emsp;“(iii) The amount actually paid for the services by the pilot site.
+
+&emsp;&emsp;“(B)
+
+Inclusion in only one period.—Recognized outlier costs may not be included in more than one 12-month period.
+
+&emsp;“(3)\[two pars. (3) have been enacted\]
+
+Outlier expense payment.—
+
+&emsp;&emsp;“(A)\[no subpar. (B) has been enacted\]
+
+Payment for outlier costs.—Subject to subparagraph (B), in the case of a rural PACE pilot site that has incurred outlier costs for an eligible outlier participant, the rural PACE pilot site shall receive an outlier expense payment equal to 80 percent of such costs that exceed $50,000.
+
+&emsp;“(4)
+
+Limitations.—
+
+&emsp;&emsp;“(A)
+
+Costs incurred per eligible outlier participant.—The total amount of outlier expense payments made under this subsection to a rural PACE pilot site with respect to an eligible outlier participant for any 12-month period shall not exceed $100,000 for the 12-month period used to calculate the payment.
+
+&emsp;&emsp;“(B)
+
+Costs incurred per provider.—No rural PACE pilot site may receive more than $500,000 in total outlier expense payments in a 12-month period.
+
+&emsp;&emsp;“(C)
+
+Limitation of outlier cost reimbursement period.—A rural PACE pilot site shall only receive outlier expense payments under this subsection with respect to costs incurred during the first 3 years of the site's operation.
+
+&emsp;“(5)
+
+Requirement to access risk reserves prior to payment.—A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and any working capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
+
+&emsp;“(6)
+
+Application.—In order to receive an outlier expense payment under this subsection with respect to an eligible outlier participant, a rural PACE pilot site shall submit an application containing—
+
+&emsp;&emsp;“(A) documentation of the costs incurred with respect to the participant;
+
+&emsp;&emsp;“(B) a certification that the site has complied with the requirements under paragraph (4); and
+
+&emsp;&emsp;“(C) such additional information as the Secretary may require.
+
+&emsp;“(7)
+
+Appropriation.—
+
+&emsp;&emsp;“(A)
+
+In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
+
+&emsp;&emsp;“(B)
+
+Availability.—Funds appropriated under subparagraph (A) shall remain available for obligation through fiscal year 2010.
+
+“(d)
+
+Evaluation of PACE Providers Serving Rural Service Areas.—Not later than 60 months after the date of enactment of this Act \[Feb. 8, 2006\], the Secretary shall submit a report to Congress containing an evaluation of the experience of rural PACE pilot sites.
+
+“(e)
+
+Amounts in Addition to Payments Under Social Security Act.—Any amounts paid under the authority of this section to a PACE provider shall be in addition to payments made to the provider under section 1894 or 1934 of the Social Security Act (42 U.S.C. 1395eee; 1396u–4).”
+
 #### Flexibility in Exercising Waiver Authority
 
 Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “In applying sections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
@@ -474,7 +656,7 @@ Section 4803 of title IV of Pub. L. 105–33, as amended by Pub. L. 106–554, �
 
 “(a)
 
-Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title\] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs under sections 1894 and 1934 of the Social Security Act \[this section and section 1396u–4 of this title\] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
+Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title\] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs undersections 1894 and 1934 of the Social Security Act \[this section and section 1396u–4 of this title\] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(b)
 

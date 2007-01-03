@@ -22,7 +22,7 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 &emsp;(10) Freedom, independence, and the free exercise of individual initiative in planning and managing their own lives, full participation in the planning and operation of community-based services and programs provided for their benefit, and protection against abuse, neglect, and exploitation.
 
-(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305.)
+(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87 Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305.)
 
 #### Amendments
 
@@ -134,6 +134,10 @@ Section 803 of Pub. L. 98–459 provided that:
 
 Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–365, §1(a), Oct. 17, 2006, 120 Stat. 2522, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 2006’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 2000’.”
@@ -148,7 +152,7 @@ Section 1(a) of Pub. L. 102–375 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1987 Amendment
 
-Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
+Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1,2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
 
 #### Short Title of 1986 Amendment
 
@@ -184,13 +188,15 @@ Section 1 of Pub. L. 89–73 provided: “That this Act \[enacting this chapter\
 
 Pub. L. 89–73, title III, §371, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2253, provided that: “This part \[part E (§§371–376) of title III of Pub. L. 89–73, enacting part E of subchapter III of this chapter\] may be cited as the ‘National Family Caregiver Support Act’.”
 
-Pub. L. 89–73, title V, §501, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, provided that: “This title \[enacting subchapter IX of this chapter\] may be cited as the ‘Older American Community Service Employment Act’.”
+Pub. L. 89–73, title V, §501, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563, provided that: “This title \[enacting subchapter IX of this chapter\] may be cited as the ‘Community Service Senior Opportunities Act’.”
+
+Pub. L. 89–73, title V, §501, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, provided that title V of Pub. L. 89–73, enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of Pub. L. 89–73 by Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563.
 
 Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and renumbered by Pub. L. 95–478, title I, §105(a), Oct. 18, 1978, 92 Stat. 1547, provided that title V of Pub. L. 89–73, enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of Pub. L. 89–73 by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267.
 
 #### Regulations
 
-Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifically provided, the Secretary ofHealth and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
+Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
 
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 
@@ -202,7 +208,7 @@ Section 212 of Pub. L. 102–375 provided that:
 
 “(a)
 
-Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
+Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter intoan arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
 
 “(b)
 
@@ -330,7 +336,7 @@ Composition of Study Committee.—The study committee shall be composed of membe
 
 “(d)
 
-Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
+Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences,through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
 
 “(e)
 
@@ -508,7 +514,7 @@ Section 901 of Pub. L. 102–375 provided that: “Any authority to enter into c
 
 #### White House Conference on Aging
 
-Title II of Pub. L. 100–175, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992; Pub. L. 106–501, §211, Nov. 13, 2000, 114 Stat. 2235, provided that:
+Title II of Pub. L. 100–175, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992; Pub. L. 106–501, §211, Nov. 13, 2000, 114 Stat. 2235; Pub. L. 109–365, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2598, provided that:
 
 #### “SEC. 201. AUTHORIZATION OF THE CONFERENCE.
 
@@ -578,7 +584,7 @@ Duties.—The Secretary shall, in carrying out the Secretary's responsibilities 
 
 “(c)
 
-Gifts.—The Secretary may accept, on behalf of the United States, gifts (in cash or in kind, including voluntary and uncompensated services), which shall be available to carry out this title. Gifts of cash shall be available in addition to amounts appropriated to carry out this title. Gifts may be earmarked by the donor or the executive committee for a specific purpose.
+Gifts.—The Secretary may accept, on behalf of the United States, gifts (in cash or in kind, including voluntary and uncompensated services), which shall be available to carry out this title. Gifts of cash shall beavailable in addition to amounts appropriated to carry out this title. Gifts may be earmarked by the donor or the executive committee for a specific purpose.
 
 “(d)
 
@@ -676,7 +682,7 @@ Final Report.—Not later than 6 months after the date on which the Conference a
 
 “For the purposes of this title—
 
-&emsp;“(1) the term ‘area agency on aging’ has the meaning given the term in section 102(17) of the Older Americans Act of 1965 (42 U.S.C. 3002(17)),
+&emsp;“(1) the term ‘area agency on aging’ has the meaning given the term in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002),
 
 &emsp;“(2) the term ‘State agency on aging’ means the State agency designated under section 305(a)(1) of the Act,
 
@@ -710,7 +716,7 @@ Availability of Funds.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (3), funds appropriated to carry out this title and funds received as gifts under section 202(c) shall remain available for obligation or expenditure until the expiration of the one-year period beginning on the date the Conference adjourns.
+In general.—Except as provided in paragraph (3), funds appropriated to carry out this title andfunds received as gifts under section 202(c) shall remain available for obligation or expenditure until the expiration of the one-year period beginning on the date the Conference adjourns.
 
 &emsp;“(2)
 

@@ -20,7 +20,7 @@ Limitation.—A government agency authorized to install and use a pen register o
 
 Penalty.—Whoever knowingly violates subsection (a) shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1868; amended Pub. L. 103–414, title II, §207(b), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 107–56, title II, §216(a), Oct. 26, 2001, 115 Stat. 288.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1868; amended Pub. L. 103–414, titleII, §207(b), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 107–56, title II, §216(a), Oct. 26, 2001, 115 Stat. 288.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(a) the term “embedded” means firmly affixed in the submerged lands or in coralline formations such that the use of tools of excavation is required in order to move the bottomsediments to gain access to the shipwreck, its cargo, and any part thereof;
+&emsp;(a) the term “embedded” means firmly affixed in the submerged lands or in coralline formations such that the use of tools of excavation is required in order to move the bottom sediments to gain access to the shipwreck, its cargo, and any part thereof;
 
 &emsp;(b) the term “National Register” means the National Register of Historic Places maintained by the Secretary of the Interior under section 470a of title 16;
 

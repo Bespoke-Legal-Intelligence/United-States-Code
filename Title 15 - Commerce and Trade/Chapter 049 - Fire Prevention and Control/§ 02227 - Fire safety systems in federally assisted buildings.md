@@ -26,7 +26,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(7) The term “multifamily property” means—
 
-&emsp;&emsp;(A) in the case of housing for Federal employees or their dependents, a residentialbuilding consisting of more than 2 residential units that are under one roof; and
+&emsp;&emsp;(A) in the case of housing for Federal employees or their dependents, a residential building consisting of more than 2 residential units that are under one roof; and
 
 &emsp;&emsp;(B) in any other case, a residential building consisting of more than 4 residential units that are under one roof.
 
@@ -56,7 +56,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(C) space leased on a temporary basis for not longer than 6 months;
 
-&emsp;(D) a Federal employee office building that becomes a Federal employee office building pursuant to a commitment to move Federal employees into the building that is made prior to October 26, 1992; or
+&emsp;(D) a Federal employee office building that becomes a Federal employee office buildingpursuant to a commitment to move Federal employees into the building that is made prior to October 26, 1992; or
 
 &emsp;(E) a Federal employee office building that is owned or managed by the Resolution Trust Corporation.
 
@@ -106,7 +106,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(II) for which (a) housing assistance is used for such rebuilding, or (b) a binding commitment is made, before commencement of such rebuilding, to provide housing assistance for the rebuilt property.
 
-(C) After the expiration of the 180-day period beginning on October 26, 1992, housing assistance may not be used in connection with any other dwelling unit, unless the unit is protected by a hard-wired or battery-operated smoke detector. For purposes of this subparagraph, housing assistance shall be considered to be used in connection with a particular dwelling unit only if such assistance is provided (i) for the particular unit, in the case of assistance provided on a unit-by-unit basis, or (ii) for the multifamily property in which the unit is located, in the case of assistance provided on a structure-by-structure basis.
+(C) After the expiration of the 180-day period beginning on October 26, 1992, housing assistancemay not be used in connection with any other dwelling unit, unless the unit is protected by a hard-wired or battery-operated smoke detector. For purposes of this subparagraph, housing assistance shall be considered to be used in connection with a particular dwelling unit only if such assistance is provided (i) for the particular unit, in the case of assistance provided on a unit-by-unit basis, or (ii) for the multifamily property in which the unit is located, in the case of assistance provided on a structure-by-structure basis.
 
 #### (d) Regulations
 
@@ -162,7 +162,9 @@ Section 106(b) of Pub. L. 102–522 provided that: “Subsection (b) of section 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, includingthe functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

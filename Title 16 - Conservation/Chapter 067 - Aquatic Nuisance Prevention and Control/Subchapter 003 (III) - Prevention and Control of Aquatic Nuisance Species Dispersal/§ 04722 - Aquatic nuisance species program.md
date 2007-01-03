@@ -88,7 +88,7 @@ The Task Force shall, within the program developed under subsection (a) of this 
 
 #### (h) Education
 
-The Task Force shall, with the program developed under subsection (a) of this section, establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisions of States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
+The Task Force shall, with the program developed under subsection (a) of this section, establish and implement educational programs through Sea Grant Marine Advisory Servicesand any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisions of States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
 
 #### (i) Zebra mussel demonstration program
 
@@ -144,7 +144,7 @@ The Task Force shall, with the program developed under subsection (a) of this se
 
 #### (C) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated to the Department of the Army, to carry out this paragraph, $750,000.
+&emsp;&emsp;There are authorized to be appropriated to the Department of the Army such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph.
 
 #### (4) Contributions
 
@@ -170,13 +170,15 @@ The Task Force shall, with the program developed under subsection (a) of this se
 
 (2) On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
 
-(Pub. L. 101–646, title I, §1202, Nov. 29, 1990, 104 Stat. 4766; Pub. L. 104–332, §2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4087, 4091.)
+(Pub. L. 101–646, title I, §1202, Nov. 29, 1990, 104 Stat. 4766; Pub. L. 104–332, §2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4087, 4091; Pub. L. 109–234, title II, §2309, June 15, 2006, 120 Stat. 457.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (i)(3)(C). Pub. L. 109–234 substituted “such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph” for “, to carry out this paragraph, $750,000”.
 
 1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1202, which enacted this section.
 

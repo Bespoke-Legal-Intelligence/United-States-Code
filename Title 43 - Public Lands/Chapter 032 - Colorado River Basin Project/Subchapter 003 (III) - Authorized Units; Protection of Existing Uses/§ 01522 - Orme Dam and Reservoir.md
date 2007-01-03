@@ -28,7 +28,7 @@ In subsec. (a), “sections 3113 and 3114(a) to (d) of title 40” substituted f
 
 #### Inapplicability of Subsection (a) to Fort McDowell Indian Community
 
-Pub. L. 101–628, title IV, §411(e), Nov. 28, 1990, 104 Stat. 4491, provided that: “As of the date the authorizations contained in section 409(b) of this Act become effective \[see section 412 of Pub. L. 101–628, 104 Stat. 4491\], section 302(a) of the Colorado River Basin Project Act (43 U.S.C. 1522(a)) shall no longer apply to the Community \[Fort McDowell Indian Community\].”
+Pub. L. 101–628, title IV, §411(e), Nov. 28, 1990, 104 Stat. 4491, provided that: “As of the date the authorizations contained in section 409(b) of this Act become effective \[see section 412 of Pub. L. 101–628, 104 Stat. 4491\],section 302(a) of the Colorado River Basin Project Act (43 U.S.C. 1522(a)) shall no longer apply to the Community \[Fort McDowell Indian Community\].”
 
 #### Inapplicability to Salt River Pima-Maricopa Indian Community
 

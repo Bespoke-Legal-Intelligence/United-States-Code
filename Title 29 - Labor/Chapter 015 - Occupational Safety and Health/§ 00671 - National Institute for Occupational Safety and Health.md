@@ -62,13 +62,63 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 > &emsp;Grants under this subsection shall be awarded only to those organizations that fund at least 30 percent of their lead-based paint activities training programs from non-Federal sources, excluding in-kind contributions. Grants may also be made to local governments to carry out such training and education for their employees.
 
-&emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute foreach of the fiscal years 1994 through 1997 to make grants under this paragraph.
+&emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute for each of the fiscal years 1994 through 1997 to make grants under this paragraph.
 
 #### (2) Evaluation of programs
 
 &emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
 
-(Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28, 1992, 106 Stat. 3924.)
+#### (h) Office of Mine Safety and Health
+
+#### (1) In general
+
+&emsp;There shall be permanently established within the Institute an Office of Mine Safety and Health which shall be administered by an Associate Director to be appointed by the Director.
+
+#### (2) Purpose
+
+&emsp;The purpose of the Office is to enhance the development of new mine safety technology and technological applications and to expedite the commercial availability and implementation of such technology in mining environments.
+
+#### (3) Functions
+
+&emsp;In addition to all purposes and authorities provided for under this section, the Office of Mine Safety and Health shall be responsible for research, development, and testing of new technologies and equipment designed to enhance mine safety and health. To carry out such functions the Director of the Institute, acting through the Office, shall have the authority to—
+
+&emsp;&emsp;(A) award competitive grants to institutions and private entities to encourage the development and manufacture of mine safety equipment;
+
+&emsp;&emsp;(B) award contracts to educational institutions or private laboratories for the performance of product testing or related work with respect to new mine technology and equipment; and
+
+&emsp;&emsp;(C) establish an interagency working group as provided for in paragraph (5).
+
+#### (4) Grant authority
+
+&emsp;To be eligible to receive a grant under the authority provided for under paragraph (3)(A), an entity or institution shall—
+
+&emsp;&emsp;(A) submit to the Director of the Institute an application at such time, in such manner, and containing such information as the Director may require; and
+
+&emsp;&emsp;(B) include in the application under subparagraph (A), a description of the mine safety equipment to be developed and manufactured under the grant and a description of the reasons that such equipment would otherwise not be developed or manufactured, including reasons relating to the limited potential commercial market for such equipment.
+
+#### (5) Interagency working group
+
+#### (A) Establishment
+
+&emsp;&emsp;The Director of the Institute, in carrying out paragraph (3)(D) shall establish an interagency working group to share technology and technological research and developments that could be utilized to enhance mine safety and accident response.
+
+#### (B) Membership
+
+&emsp;&emsp;The working group under subparagraph (A) shall be chaired by the Associate Director of the Office who shall appoint the members of the working group, which may include representatives of other Federal agencies or departments as determined appropriate by the Associate Director.
+
+#### (C) Duties
+
+&emsp;&emsp;The working group under subparagraph (A) shall conduct an evaluation of research conducted by, and the technological developments of, agencies and departments who are represented on the working group that may have applicability to mine safety and accident response and make recommendations to the Director for the further development and eventual implementation of such technology.
+
+#### (6) Annual report
+
+&emsp;Not later than 1 year after the establishment of the Office under this subsection, and annually thereafter, the Director of the Institute shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that, with respect to the year involved, describes the new mine safety technologies and equipment that have been studied, tested, and certified for use, and with respect to those instances of technologies and equipment that have been considered but not yet certified for use, the reasons therefore.
+
+#### (7) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated, such sums as may be necessary to enable the Institute and the Office of Mine Safety and Health to carry out this subsection.
+
+(Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28,1992, 106 Stat. 3924; Pub. L. 109–236, §6(a), June 15, 2006, 120 Stat. 498.)
 
 #### References in Text
 
@@ -81,6 +131,8 @@ The Toxic Substances Control Act, referred to in subsec. (g)(1)(B)(i), is Pub. L
 In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2006—Subsec. (h). Pub. L. 109–236 added subsec. (h).
 
 1992—Subsec. (g). Pub. L. 102–550 added subsec. (g).
 

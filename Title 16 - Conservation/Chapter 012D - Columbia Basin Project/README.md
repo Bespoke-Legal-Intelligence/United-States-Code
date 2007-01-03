@@ -6,12 +6,7 @@
 | 835–1. | Laws governing. |
 | 835a, 835b. Repealed. |  |
 | [835c.](%C2%A7%2000835c%20-%20Duties%20of%20Secretary%20of%20the%20Interior.md) | Duties of Secretary of the Interior. |
-| (a) | Administer, sell, and exchange lands, dedicate portions for public purposes, etc. |
-| (b) | Terms of contracts; qualifications of applicants; prohibited disposals. |
 | 835c–1. | Taxation and assessments; applicability of State laws. |
-| (a) | Payments in lieu of taxes. |
-| (b) | Lands acquired by United States. |
-| (c) | Sale of project lands. |
 | 835c–2. | Authorization of appropriations establishment of Columbia Basin Land Development Account. |
 | 835c–3. | Repealed. |
 | 835c–4. | General powers of Secretary of the Interior; delegation to authorized representatives. |

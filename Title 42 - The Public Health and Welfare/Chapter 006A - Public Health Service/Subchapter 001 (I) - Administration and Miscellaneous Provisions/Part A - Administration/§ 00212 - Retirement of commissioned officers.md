@@ -86,7 +86,7 @@ Subsec. (a)(6). Pub. L. 96–342, §813(h)(2)(C), added par. (6).
 
 1970—Subsec. (a)(4). Pub. L. 91–253 inserted “plus” after the semicolon at end of cl. (ii) and added cl. (iii).
 
-1960—Pub. L. 86–415 amended section generally, and among other changes, authorized retirement of commissioned officers who have had less than 30 years of active service any time after the completion of 20 years of active service, permitted persons who have served as Deputy Surgeons General or Assistant Surgeons General for four or more years and who have had at least 25 years of active service to retire voluntarily at any time, provided for the recall to active duty of officers of the Reserve Corps entitled to retired pay under subsection (a) of this section during such times as the Corps constitutes a branch of the land or naval forces of the United States, authorized credit, for retirement purposes, of active service in the uniformed services and limited to five years the crediting of active service with the Public Health Service other than as a commissioned officer, and established the methods for computation of retired pay for active duty officers retiring for age or length of service.
+1960—Pub. L. 86–415 amended section generally, and among other changes, authorized retirement of commissioned officers who have had less than 30 years of active service any time after the completion of 20 years of active service, permitted persons who have served as Deputy Surgeons General or Assistant Surgeons General for four or more years and who have had at least25 years of active service to retire voluntarily at any time, provided for the recall to active duty of officers of the Reserve Corps entitled to retired pay under subsection (a) of this section during such times as the Corps constitutes a branch of the land or naval forces of the United States, authorized credit, for retirement purposes, of active service in the uniformed services and limited to five years the crediting of active service with the Public Health Service other than as a commissioned officer, and established the methods for computation of retired pay for active duty officers retiring for age or length of service.
 
 1956—Subsec. (a). Act Apr. 27, 1956, §5(a), authorized crediting of noncommissioned service for purposes of retirement.
 
@@ -120,7 +120,7 @@ Senior Biomedical Research Service changed to Silvio O. Conte Senior Biomedical 
 
 #### Effective Date of 1990 Amendment
 
-Section 529 \[title III, §304(c)\] of Pub. L. 101–509 provided that: “Except as otherwise provided, the provisions of this section \[enacting section 237 of this titleand amending this section\] shall be effective on the 90th day following the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 529 \[title III, §304(c)\] of Pub. L. 101–509 provided that: “Except as otherwise provided, the provisions of this section \[enacting section 237 of this title and amending this section\] shall be effective on the 90th day following the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1983 Amendment
 

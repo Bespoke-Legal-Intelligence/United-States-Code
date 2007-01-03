@@ -2,7 +2,7 @@
 
 The Secretary shall by regulation—
 
-&emsp;(1) prescribe the manner in which he shall determine the priority among projects for which assistance is available under part A or B, based on the relative need of different areas for such projects and giving special consideration—
+&emsp;(1) prescribe the manner in which he shall determine the priority among projects forwhich assistance is available under part A or B, based on the relative need of different areas for such projects and giving special consideration—
 
 &emsp;&emsp;(A) to projects for medical facilities serving areas with relatively small financial resources and for medical facilities serving rural communities,
 

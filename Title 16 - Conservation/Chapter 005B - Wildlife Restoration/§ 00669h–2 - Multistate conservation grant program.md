@@ -4,7 +4,7 @@
 
 #### (1) Amount for grants
 
-&emsp;Not more than $3,000,000 of the revenues covered into the fund for a fiscal year shall beavailable to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+&emsp;Not more than $3,000,000 of the revenues covered into the fund for a fiscal year shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
 
 #### (2) Period of availability; apportionment
 

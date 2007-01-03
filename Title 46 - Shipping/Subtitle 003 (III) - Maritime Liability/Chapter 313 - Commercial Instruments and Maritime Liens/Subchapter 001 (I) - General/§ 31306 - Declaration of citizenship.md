@@ -1,6 +1,6 @@
 ### §31306. Declaration of citizenship
 
-(a) Except as provided by the Secretary of Transportation, when an instrument transferring an interest in a vessel is presented to the Secretary for filing or recording, the transferee shall file with the instrument a declaration, in the form the Secretary may prescribe by regulation, stating information about citizenship and other information the Secretary may require to show the transaction involved does not violate section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835).
+(a) Except as provided by the Secretary of Transportation, when an instrument transferring an interest in a vessel is presented to the Secretary for filing or recording, the transferee shall file with the instrument a declaration, in the form the Secretary may prescribe by regulation, stating information about citizenship and other information the Secretary may require to show the transaction involved does not violate section 56102 or 56103 of this title.
 
 (b) A declaration under this section filed by a corporation must be signed by its president, secretary, treasurer, or other official authorized by the corporation to execute the declaration.
 
@@ -8,7 +8,7 @@
 
 (d) A person knowingly making a false statement of a material fact in a declaration filed under this section shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4741; Pub. L. 101–225, title III, §303(1), Dec. 12, 1989, 103 Stat. 1923.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4741; Pub. L. 101–225, title III, §303(1), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 109–304, §15(27), Oct. 6, 2006, 120 Stat. 1704.)
 
 Historical and Revision Notes
 
@@ -29,6 +29,8 @@ Section 31306(c) invalidates any instrument transferring an interest until the d
 Section 31306(d) provides for a criminal penalty for a violation of this section. The amount of the fine is prescribed under title 18, United States Code, and may include imprisonment for not more than 5 years, or both. This section makes no substantive change to law.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–304 substituted “section 56102 or 56103 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
 
 1989—Subsec. (a). Pub. L. 101–225, §303(1)(A), substituted “Except as provided by the Secretary of Transportation, when” for “When” and “Secretary for filing” for “Secretary of Transportation for filing”.
 

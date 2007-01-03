@@ -78,7 +78,7 @@ Provisions similar to this section were contained in section 1805(a)(4) of this 
 
 #### Amendments
 
-1992—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted “or grant” for “grant,” and struck out “orthrough the provision of production or enrichment services” before “: <i>Provided, however</i>” and before “to any person”.
+1992—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted “or grant” for “grant,” and struck out “or through the provision of production or enrichment services” before “: <i>Provided, however</i>” and before “to any person”.
 
 1967—Subsec. (c)(1). Pub. L. 90–190, §10, inserted “or through the provision of production or enrichment services” wherever appearing.
 
@@ -97,8 +97,4 @@ Subsec. (e)(1). Pub. L. 88–489, §8, struck out par. (1) which provided that t
 Subsec. (c). Pub. L. 85–681, §2, substituted “subsections (a)(1), (2) or (4)” for “subsection (a)(1) or (a) (2)”.
 
 1957—Subsec. (e)(8). Pub. L. 85–256 inserted “except to the extent that the indemnification and limitation of liability provisions of section 2210 of this title apply,”.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

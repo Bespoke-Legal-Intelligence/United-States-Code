@@ -18,7 +18,7 @@ Examination of Fuel Economy Representations.—The Federal Trade Commission shal
 
 Evaluation of Retrofit Devices.—(1) On application of any manufacturer of a retrofit device (or prototype of a retrofit device), on request of the Commission under subsection (b) of this section, or on the motion of the Administrator, the Administrator shall evaluate, in accordance with regulations prescribed under subsection (e) of this section, any retrofit device to determine whether the retrofit device increases fuel economy and to determine whether the representations, if any, made with respect to the retrofit device are accurate.
 
-(2) If under paragraph (1) of this subsection, the Administrator tests, or causes to be tested, any retrofit device on the application of a manufacturer of the device, the manufacturer shall supply, at the manufacturer's expense, one or more samples of the device to the Administrator and shall be liable for the costs of testing incurred by the Administrator. The procedures for testing retrofit devices so supplied may include a requirement for preliminary testing by a qualified independent testing laboratory, at the expense of the manufacturer of the device.
+(2) If under paragraph (1) of this subsection, the Administrator tests, or causes to be tested, any retrofit device on the application of a manufacturer of the device, the manufacturer shall supply, at the manufacturer's expense, one or more samples of the device to the Administrator and shall be liable for the costs of testing incurred by the Administrator. The procedures for testing retrofit devices so supplied may include a requirement for preliminary testing by aqualified independent testing laboratory, at the expense of the manufacturer of the device.
 
 (d)
 
@@ -60,7 +60,7 @@ Oct. 20, 1972, Pub. L. 92–513, §511, as added Dec. 22, 1975, Pub. L. 94–163
 
 This restates 15:2011 to include 15:2011 in the scope of the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 745).
 
-In subsection (a), the words “Administrator of the Environmental Protection Agency” are substituted for “Administrator” for clarity and to conform to the style of the codification which is to state the complete title the first time a descriptive title is used, andthereafter, to use a shorter title unless the context requires the complete title to be used.
+In subsection (a), the words “Administrator of the Environmental Protection Agency” are substituted for “Administrator” for clarity and to conform to the style of the codification which is to state the complete title the first time a descriptive title is used, and thereafter, to use a shorter title unless the context requires the complete title to be used.
 
 In subsections (c) and (e), the word “regulations” is substituted for “rules” and “by rule” for consistency with the restatement of title 49.
 

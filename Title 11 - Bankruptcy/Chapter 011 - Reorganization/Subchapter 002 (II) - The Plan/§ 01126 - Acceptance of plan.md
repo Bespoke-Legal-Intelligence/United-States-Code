@@ -24,7 +24,7 @@
 
 I74legislative statements
 
-Section 1126 of the House amendment deletes section 1126(e) as contained in the House bill. Section 105 of thebill constitutes sufficient power in the court to designate exclusion of a creditor's claim on the basis of a conflict of interest. Section 1126(f) of the House amendment adopts a provision contained in section 1127(f) of the Senate bill indicating that a class that is not impaired under a plan is deemed to have accepted a plan and solicitation of acceptances from such class is not required.
+Section 1126 of the House amendment deletes section 1126(e) as contained in the House bill. Section 105 of the bill constitutes sufficient power in the court to designate exclusion of a creditor's claim on the basis of a conflict of interest. Section 1126(f) of the House amendment adopts a provision contained in section 1127(f) of the Senate bill indicating that a class that is not impaired under a plan is deemed to have accepted a plan and solicitation of acceptances from such class is not required.
 
 #### senate report no. 95–989
 

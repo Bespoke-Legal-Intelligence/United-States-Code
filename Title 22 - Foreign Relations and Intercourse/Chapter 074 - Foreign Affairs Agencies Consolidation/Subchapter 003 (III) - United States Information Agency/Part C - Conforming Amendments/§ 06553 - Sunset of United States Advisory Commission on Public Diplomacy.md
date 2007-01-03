@@ -14,7 +14,7 @@ Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set
 
 2001—Pub. L. 107–77 substituted “October 1, 2005” for “October 1, 2001”.
 
-1999—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which had abolished the United States Advisory Commission on Public Diplomacy, repealed section 1469 of this title, and amended Reorganization Plan No. 2 of 1977.
+1999—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which had abolished the United States Advisory Commission on Public Diplomacy, repealed section 1469of this title, and amended Reorganization Plan No. 2 of 1977.
 
 #### Effective Date of 2001 Amendment
 

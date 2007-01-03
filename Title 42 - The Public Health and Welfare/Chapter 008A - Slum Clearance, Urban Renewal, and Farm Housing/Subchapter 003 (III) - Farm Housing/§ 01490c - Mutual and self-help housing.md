@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purposes of this section are (1) to make financial assistance available on reasonable terms and conditions in rural areas and small towns to needy low-income individuals and their families who, with the benefit of technical assistance and overall guidance and supervision, participate in approved programs of mutual or self-help housing by acquiring and developing necessary land, acquiring building materials, providing their own labor, and working cooperatively with others for the provision of decent, safe, and sanitary dwellings for themselves, their families, and others in the area or town involved, and (2) to facilitate the efforts of both public and private nonprofit organizations providing assistance to such individuals to contribute their technical and supervisory skills toward more effective and comprehensive programs of mutual or self-help housing in rural areas and small towns wherever necessary.
+The purposes of this section are (1) to make financial assistance available on reasonable termsand conditions in rural areas and small towns to needy low-income individuals and their families who, with the benefit of technical assistance and overall guidance and supervision, participate in approved programs of mutual or self-help housing by acquiring and developing necessary land, acquiring building materials, providing their own labor, and working cooperatively with others for the provision of decent, safe, and sanitary dwellings for themselves, their families, and others in the area or town involved, and (2) to facilitate the efforts of both public and private nonprofit organizations providing assistance to such individuals to contribute their technical and supervisory skills toward more effective and comprehensive programs of mutual or self-help housing in rural areas and small towns wherever necessary.
 
 #### (b) Contract authority; establishment of Self-Help Housing Land Development Fund; authorization to make loans; conditions of loan
 
@@ -32,7 +32,7 @@ In determining whether to extend financial assistance under paragraph (1) or (2)
 
 #### (d) “Construction” defined
 
-As used in this section, the term “construction” includes the erection of new dwellings,and the rehabilitation, alteration, conversion, or improvement of existing structures.
+As used in this section, the term “construction” includes the erection of new dwellings, and the rehabilitation, alteration, conversion, or improvement of existing structures.
 
 #### (e) Establishment of appropriate criteria and procedures for determining eligibility of applicants
 
@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 98–181, §511(e), substituted “1985” for “1982” a
 
 1981—Subsec. (f). Pub. L. 97–35, §351(e)(1), substituted “1982” for “1981” in two places.
 
-Subsec. (g). Pub. L. 97–35, §351(e)(2)–(4), inserted provisions relating to availability in appropriation Acts,and substituted provisions relating to authorization of appropriations for fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
+Subsec. (g). Pub. L. 97–35, §351(e)(2)–(4), inserted provisions relating to availability in appropriation Acts, and substituted provisions relating to authorization of appropriations for fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
 
 1980—Subsec. (b). Pub. L. 96–399, §507(e), inserted reference to Indian tribes in subpars. (1)(A) and (B), and in par. (2).
 

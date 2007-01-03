@@ -2,7 +2,7 @@
 
 #### (a) Composition; election meetings
 
-(1) To provide national forest grazing permittees means for the expression of their recommendations concerning the management and administration of national forest grazing lands, a local advisory board shall be constituted and elected as hereinafter provided for each national forest or administrative subdivision thereof, whenever a majority of the grazing permittees of such national forest or administrative subdivision so petitions the Secretary of Agriculture. Each elected local advisory board existing for such purpose on April 24, 1950, and recognized as such by the Department of Agriculture, shall continue to be the local advisory board for the unit or area it represents, until replaced by a local advisory board or boards constituted and elected as hereinafter provided.
+(1) To provide national forest grazing permittees means for the expression of their recommendations concerning the management and administration of national forest grazing lands, a local advisory board shall be constituted andelected as hereinafter provided for each national forest or administrative subdivision thereof, whenever a majority of the grazing permittees of such national forest or administrative subdivision so petitions the Secretary of Agriculture. Each elected local advisory board existing for such purpose on April 24, 1950, and recognized as such by the Department of Agriculture, shall continue to be the local advisory board for the unit or area it represents, until replaced by a local advisory board or boards constituted and elected as hereinafter provided.
 
 (2) Each such local advisory board shall be constituted and elected under rules and regulations, consistent herewith, now or hereafter approved by the Secretary of Agriculture, and shall be recognized by him as representing the grazing permittees of the national forest or administrative subdivision thereof for which such local advisory board has been constituted and elected.
 
@@ -12,7 +12,7 @@
 
 #### (b) Advice and recommendations on matters within jurisdiction
 
-Upon the request of any party affected thereby, the Secretary of Agriculture, or his duly authorized representative, shall refer to the appropriate local advisory board for its advice and recommendations any matter pertaining to (1) the modification of the terms, or the denial of a renewal of, or a reduction in, a grazing permit, or (2) the establishment or modification of an individual or community allotment. In the event the Secretary of Agriculture, or his dulyauthorized representative, shall overrule, disregard, or modify any such recommendations, he, or such representative, shall furnish in writing to the local advisory board his reasons for such action.
+Upon the request of any party affected thereby, the Secretary of Agriculture, or his duly authorized representative, shall refer to the appropriate local advisory board for its advice and recommendations any matter pertaining to (1) the modification of the terms, or the denial of a renewal of, or a reduction in, a grazing permit, or (2) the establishment or modification of an individual or community allotment. In the event the Secretary of Agriculture, or his duly authorized representative, shall overrule, disregard, or modify any such recommendations, he, or such representative, shall furnish in writing to the local advisory board his reasons for such action.
 
 #### (c) Notification by Secretary of Agriculture of intention to issue regulations; recommendations; written explanation of reasons for overruling
 

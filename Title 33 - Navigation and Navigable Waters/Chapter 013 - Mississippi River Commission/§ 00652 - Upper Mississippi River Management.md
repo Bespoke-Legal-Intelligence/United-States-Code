@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (c) Congressional approval of Master Plan
 
-(1) Congress hereby approves the Master Plan as a guide for future water policy on the UpperMississippi River system. Such approval shall not constitute authorization of any recommendation contained in the Master Plan.
+(1) Congress hereby approves the Master Plan as a guide for future water policy on the Upper Mississippi River system. Such approval shall not constitute authorization of any recommendation contained in the Master Plan.
 
 (2) Omitted.
 

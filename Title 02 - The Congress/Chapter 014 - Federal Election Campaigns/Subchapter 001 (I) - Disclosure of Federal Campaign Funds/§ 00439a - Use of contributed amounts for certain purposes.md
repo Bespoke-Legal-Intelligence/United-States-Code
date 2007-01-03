@@ -2,7 +2,7 @@
 
 #### (a) Permitted uses
 
-A contribution accepted by a candidate, and any other donation received by an individual as support for activities of the individual as a holder of Federal office, may be used by the candidate or individual—
+A contribution accepted by a candidate, and any other donation received by an individual assupport for activities of the individual as a holder of Federal office, may be used by the candidate or individual—
 
 &emsp;(1) for otherwise authorized expenditures in connection with the campaign for Federal office of the candidate or individual;
 

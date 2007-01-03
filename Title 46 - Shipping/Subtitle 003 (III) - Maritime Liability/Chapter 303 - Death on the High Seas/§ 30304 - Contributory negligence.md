@@ -1,0 +1,22 @@
+### §30304. Contributory negligence
+
+In an action under this chapter, contributory negligence of the decedent is not a bar to recovery. The court shall consider the degree of negligence of the decedent and reduce the recovery accordingly.
+
+(Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1511.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30304
+
+46 App.:766.
+
+Mar. 30, 1920, ch. 111, §6, 41 Stat. 537.
+

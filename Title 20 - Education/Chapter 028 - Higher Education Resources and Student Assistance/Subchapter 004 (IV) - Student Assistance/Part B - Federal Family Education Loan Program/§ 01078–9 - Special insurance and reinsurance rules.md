@@ -16,13 +16,13 @@
 
 #### (b) Payment to lenders and servicers
 
-#### (1) 100 percent payment rule
+#### (1) 99 percent payment rule
 
-&emsp;Each guaranty agency shall pay each eligible lender or servicer (as agent for an eligible lender) designated under subsection (a) of this section 100 percent of the unpaid principal and interest of all loans for which claims are submitted for payment by that eligible lender or servicer for the one-year period following the receipt by the guaranty agency of the notification of designation under this section or until the guaranty agency receives notice from the Secretary that the designation of the lender or servicer under subsection (a) of this section has been revoked.
+&emsp;Each guaranty agency shall pay each eligible lender or servicer (as agent for an eligible lender) designated under subsection (a) of this section 99 percent of the unpaid principal and interest of all loans for which claims are submitted for payment by that eligible lender or servicer for the one-year period following the receipt by the guaranty agency of the notification of designation under this section or until the guaranty agency receives notice from the Secretary that the designation of the lender or servicer under subsection (a) of this section has been revoked.
 
 #### (2) Revocation authority
 
-&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
+&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for thepurpose of this section, for 2 consecutive months or 90 percent for 1 month.
 
 #### (3) Documentation
 
@@ -36,7 +36,7 @@
 
 #### (1) Audits for lenders and servicers
 
-&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and complianceaudit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to the Secretary and to each appropriate guaranty agency.
+&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to the Secretary and to each appropriate guaranty agency.
 
 #### (2) Additional information on lenders and servicers
 
@@ -70,7 +70,7 @@
 
 #### (1) Audit of guaranty agencies
 
-&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
+&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section.Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
 
 #### (2) Quarterly sample audits
 
@@ -86,7 +86,7 @@
 
 #### (5) Revocation for fraud
 
-&emsp;The Secretary may revoke the designation of a guaranty agency under subsection (a) ofthis section at any time if the Secretary has reason to believe the guaranty agency secured its designation under subsection (a) of this section through fraud or fails to comply with applicable regulations.
+&emsp;The Secretary may revoke the designation of a guaranty agency under subsection (a) of this section at any time if the Secretary has reason to believe the guaranty agency secured its designation under subsection (a) of this section through fraud or fails to comply with applicable regulations.
 
 #### (6) Revocation based on performance
 
@@ -146,13 +146,15 @@ For the purpose of this section—
 
 &emsp;&emsp;(E) does not have any owner, majority shareholder, director, or officer of the entity who has been convicted of a felony.
 
-(Pub. L. 89–329, title IV, §428I, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 536; amended Pub. L. 103–208, §2(c)(46), Dec. 20, 1993, 107 Stat. 2467.)
+(Pub. L. 89–329, title IV, §428I, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 536; amended Pub. L. 103–208, §2(c)(46), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 109–171, title VIII, §8014(i), Feb. 8, 2006, 120 Stat. 171.)
 
 #### Codification
 
-July 23, 1992, referred to in subsec. (h), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–325 which enacted this section, to reflect the probable intent of Congress.
+July 23, 1992, referred to in subsec. (h), was in the original “the date of enactment of this Act”, which wastranslated as meaning the date of enactment of Pub. L. 102–325 which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–171 substituted “99 percent” for “100 percent” in heading and text.
 
 1993—Subsec. (g). Pub. L. 103–208 substituted “section 3729 of title 31” for “the Federal False Claims Act”.
 
@@ -161,6 +163,10 @@ July 23, 1992, referred to in subsec. (h), was in the original “the date of en
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -18,7 +18,7 @@ Treatment of Other Benefits.—A benefit may not be paid under this section for 
 
 (e)
 
-Limitations.—(1) Not more than $2,000 may be paid under this section to a member of thearmed forces, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
+Limitations.—(1) Not more than $2,000 may be paid under this section to a member of the armed forces, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
 
 (2) Not more than $5,000 may be paid under this section to a member of the armed forces, or to two such members who are spouses of each other, for adoptions by such member (or members) in any calendar year.
 
@@ -86,13 +86,5 @@ Section 651(c) of Pub. L. 102–190 provided that: “The amendments made by sub
 
 #### Reimbursement for Adoptions Completed During Period Between Test and Permanent Program
 
-Section 652 of Pub. L. 102–484 provided that:
-
-“(a)
-
-Reimbursement of Adoption Expenses.—Section 1052 of title 10, United States Code, and section 514 of title 14, United States Code, shall apply with respect to the reimbursement of adoption expenses incurred for an adoption proceeding completed during the period beginning on October 1, 1990, and ending on December 4, 1991, to the extent the adoption expenses would be covered by one of these sections if the adoption proceeding had been completed after December 4, 1991.
-
-“(b)
-
-Time Period for Application.—Subsection (a) shall apply to a person covered by such subsection only if the person applies to the Secretary of Defense or the Secretary of Transportation for the reimbursement of adoption expenses under section 1052 of title 10, United States Code, or section 514 of title 14, United States Code, whichever applies, within one year after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title VI, §652, Oct. 23, 1992, 106 Stat. 2426, provided that this section and section 514 of Title 14, Coast Guard, would apply with respect to the reimbursement of adoption expenses incurred for an adoption proceeding completed during the period beginning on Oct. 1, 1990, and ending on Dec. 4, 1991, to the extent that such expenses would have been covered if the proceeding had been completed after Dec. 4, 1991, but only if an application for such reimbursement had been made within one year after Oct. 23, 1992.
 

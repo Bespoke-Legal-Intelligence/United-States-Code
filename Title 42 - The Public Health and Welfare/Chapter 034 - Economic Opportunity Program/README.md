@@ -32,36 +32,13 @@
 |  |  |
 | :--- | ---: |
 | [2751\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002751%20-%20Purpose%3B%20appropriations%20authorized.md) | Purpose; appropriations authorized. |
-| (a) | Purpose. |
-| (b) | Authorization of appropriations. |
-| (c) | “Community services” defined. |
 | [2752\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002752%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
-| (a) | Allocation based on previous allocation. |
-| (b) | Allocation of excess based on share of excess eligible amounts. |
-| (c) | Determination of institution's need. |
-| (d) | Reallocation of excess allocations. |
-| (e) | Filing deadlines. |
 | [2753\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002753%20-%20Grants%20for%20Federal%20work-study%20programs.md) | Grants for Federal work-study programs. |
-| (a) | Agreements required. |
-| (b) | Contents of agreements. |
-| (c) | Private sector employment agreement. |
-| (d) | Tutoring and literacy activities. |
 | [2754\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002754%20-%20Sources%20of%20matching%20funds.md) | Sources of matching funds. |
 | [2755\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002755%20-%20Flexible%20use%20of%20funds.md) | Flexible use of funds. |
-| (a) | Carry-over authority. |
-| (b) | Carry-back authority. |
-| (c) | Flexible use of funds. |
 | [2756\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002756%20-%20Job%20location%20and%20development%20programs.md) | Job location and development programs. |
-| (a) | Agreements required. |
-| (b) | Contents of agreements. |
 | [2756a.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002756a%20-%20Additional%20funds%20to%20conduct%20community%20service%20work-study%20programs.md) | Additional funds to conduct community service work-study programs. |
 | [2756b.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002756b%20-%20Work%20colleges.md) | Work colleges. |
-| (a) | Purpose. |
-| (b) | Source and use of funds. |
-| (c) | Application. |
-| (d) | Match required. |
-| (e) | Definitions. |
-| (f) | Authorization of appropriations. |
 | [2757\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002757%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93575%2C%20title%20I%2C%20%C2%A7131%28a%29%2C%20Oct.%2016%2C%201968%2C%2082%20Stat.%201028.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -277,62 +254,22 @@
 | [2991\.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991%20-%20Short%20title.md) | Short title. |
 | [2991a.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991a%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [2991b.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991b%20-%20Financial%20assistance%20for%20Native%20American%20projects.md) | Financial assistance for Native American projects. |
-| (a) | Authorization for financial assistance to public and nonprofit agencies; consultation with other Federal agencies to avoid duplication. |
-| (b) | Limitations of financial assistance; exceptions; non-Federal contributions. |
-| (c) | Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas. |
-| (d) | Grants to improve tribal regulation of environmental quality |
 | 2991b–1. | Loan fund; demonstration project. |
-| (a) | Grant to Office of Hawaiian Affairs to establish revolving loan fund; purposes of fund; administrative costs; matching funds. |
-| (b) | Loans or loan guarantees to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending. |
-| (c) | Notice to Commissioner of loans in default and uncollectability of such loans; instructions by Commissioner. |
-| (d) | Payment of administrative costs; management and technical assistance. |
-| (e) | Regulations. |
-| (f) | Authorization of appropriations; investment in obligations of United States. |
-| (g) | Reports to Congress; contents. |
 | 2991b–2. | Establishment of Administration for Native Americans. |
-| (a) | Establishment. |
-| (b) | Commissioner. |
-| (c) | Duties. |
-| (d) | Intra-Departmental Council on Native American Affairs. |
-| (e) | Staffing levels. |
 | 2991b–3. | Grant program to ensure survival and continuing vitality of Native American languages. |
-| (a) | Authority to award grants. |
-| (b) | Purposes for which grants may be used. |
-| (c) | Applications. |
-| (d) | Participating organizations. |
-| (e) | Limitations on funding. |
-| (f) | Administration. |
 | [2991c.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991c%20-%20Technical%20assistance%20and%20training.md) | Technical assistance and training. |
 | [2991d.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991d%20-%20Research%2C%20demonstration%2C%20and%20pilot%20projects.md) | Research, demonstration, and pilot projects. |
 | 2991d–1. | Panel review of applications for assistance. |
-| (a) | Establishment of formal panel; members. |
-| (b) | Duties of panel. |
-| (c) | Notice to Congressional committee chairman; information required. |
 | [2991e.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991e%20-%20Announcement%20of%20research%2C%20demonstration%2C%20or%20pilot%20projects.md) | Announcement of research, demonstration, or pilot projects. |
 | [2991f.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991f%20-%20Submission%20of%20plans%20to%20State%20and%20local%20officials.md) | Submission of plans to State and local officials. |
-| (a) | Submission to governing body of Indian reservation or Alaska Native village. |
-| (b) | Notification to chief executive officer of State or Territory. |
-| (c) | Notification to local governing officials of political subdivision. |
 | [2991g.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991g%20-%20Records%20and%20audits.md) | Records and audits. |
 | [2991h.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002991h%20-%20Appeals%2C%20notice%2C%20and%20hearing.md) | Appeals, notice, and hearing. |
 | [2992\.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002992%20-%20Evaluation%20of%20projects.md) | Evaluation of projects. |
-| (a) | Description and measurement of project impact, effectiveness, and structure and mechanisms for delivery of services; frequency of evaluations. |
-| (b) | General standards for evaluation. |
-| (c) | Independent evaluations. |
-| (d) | Specificity of views. |
-| (e) | Publication of results; submission to Congress. |
-| (f) | Evaluation results as United States property. |
 | 2992–1. | Annual report. |
 | [2992a.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002992a%20-%20Labor%20standards.md) | Labor standards. |
 | 2992a–1. | Staff. |
 | [2992b.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002992b%20-%20Administration.md) | Administration. |
 | 2992b–1. | Additional requirements applicable to rulemaking. |
-| (a) | In general. |
-| (b) | Interpretative rule or general statement of policy; waiver of notice and public procedure regarding any other rule. |
-| (c) | Effective date of rule or general statement of policy. |
-| (d) | Statutory citation required. |
-| (e) | Rule or general statement of policy necessary as result of legislation; time for issuance. |
-| (f) | Copy of rule or general statement of policy to Congressional leaders. |
 | [2992c.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002992c%20-%20Definitions.md) | Definitions. |
 | [2992d.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002992d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 2993 to 2994d. Repealed. |  |
@@ -354,58 +291,13 @@
 | [2996\.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
 | [2996a.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996a%20-%20Definitions.md) | Definitions. |
 | [2996b.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996b%20-%20Legal%20Services%20Corporation.md) | Legal Services Corporation. |
-| (a) | Establishment; purpose. |
-| (b) | Principal office; agent for service of process. |
-| (c) | Status of Corporation under tax laws. |
 | [2996c.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996c%20-%20Board%20of%20Directors.md) | Board of Directors. |
-| (a) | Establishment; membership. |
-| (b) | Term of office. |
-| (c) | Board members not deemed officers or employees of United States. |
-| (d) | Chairman. |
-| (e) | Removal. |
-| (f) | State advisory councils. |
-| (g) | Open meetings; applicability of Government in the Sunshine provisions. |
-| (h) | Quarterly meetings. |
 | [2996d.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996d%20-%20Officers%20and%20employees.md) | Officers and employees. |
-| (a) | Appointment of president; outside compensation of officers prohibited; terms. |
-| (b) | Power of president to appoint and remove employees; nonpartisan appointments. |
-| (c) | Conflict of interest. |
-| (d) | Compensation. |
-| (e) | Officers and employees not deemed officers and employees of Federal Government; Corporation not deemed a department, agency, or instrumentality of Federal Government; review of annual budget. |
-| (f) | Exceptions. |
-| (g) | Freedom of information. |
 | [2996e.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996e%20-%20Powers%2C%20duties%2C%20and%20limitations.md) | Powers, duties, and limitations. |
-| (a) | Powers of nonprofit corporation; additional powers. |
-| (b) | Disciplinary powers; representational questions; interference with professional responsibilities of attorneys; bar membership; restrictions; languages other than English. |
-| (c) | Participation in litigation; lobbying activities. |
-| (d) | Miscellaneous prohibitions. |
-| (e) | Political activities of Corporation employees and staff attorneys. |
-| (f) | Harassment; malicious abuse of legal process. |
 | [2996f.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996f%20-%20Grants%20and%20contracts.md) | Grants and contracts. |
-| (a) | Requisites. |
-| (b) | Limitations on uses. |
-| (c) | Recipient organizations. |
-| (d) | Program evaluation. |
-| (e) | Corporation president authorized to make grants and enter into contracts. |
-| (f) | Public notification. |
-| (g) | Staff-attorney program study. |
-| (h) | Study and report to Congress on special needs of eligible clients. |
 | [2996g.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996g%20-%20Records%20and%20reports.md) | Records and reports. |
-| (a) | Authority to require reports. |
-| (b) | Authority to require recordkeeping; access to records. |
-| (c) | Annual report to President and Congress; contents. |
-| (d) | Copies and retention of reports. |
-| (e) | Publication in Federal Register of rules, regulations, guidelines and instructions. |
 | [2996h.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996h%20-%20Audits.md) | Audits. |
-| (a) | Annual audit; availability of records; filing and inspection of report. |
-| (b) | Audit by Government Accountability Office. |
-| (c) | Annual financial audit of recipient persons or bodies. |
-| (d) | Attorney-client privilege. |
 | [2996i.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996i%20-%20Financing.md) | Financing. |
-| (a) | Authorization of appropriations. |
-| (b) | Availability of funds. |
-| (c) | Non-Federal funds. |
-| (d) | Limitations on grant or contract authority. |
 | [2996j.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996j%20-%20Special%20limitations.md) | Special limitations. |
 | [2996k.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996k%20-%20Coordination.md) | Coordination. |
 | 2996<i>l.</i> | Reservation of right to repeal, alter, or amend. |

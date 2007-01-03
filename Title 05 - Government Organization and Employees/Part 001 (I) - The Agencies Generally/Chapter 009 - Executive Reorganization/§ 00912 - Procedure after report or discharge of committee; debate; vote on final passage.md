@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 98–614, §3(e)(1), added subsec. (e).
 
 1977—Pub. L. 95–17 inserted “; vote on final disapproval” after “debate” in section catchline.
 
-Subsec. (a). Pub. L. 95–17 inserted provisions that a motion to discharge a committee is not subject to a motion to postpone or to a motion to proceed to the consideration of other business and that if a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
+Subsec. (a). Pub. L. 95–17 inserted provisions that a motion to discharge a committee is not subject to amotion to postpone or to a motion to proceed to the consideration of other business and that if a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 
 Subsec. (b). Pub. L. 95–17 inserted provisions that a motion to postpone or a motion to proceed to the consideration of other business is not in order.
 

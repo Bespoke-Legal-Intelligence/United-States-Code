@@ -2,7 +2,7 @@
 
 #### (a) Radiological dispersal device materials protection, control, and accounting
 
-The Secretary of Energy may establish within the International Materials Protection, Control, and Accounting program of the Department of Energy a program on the protection, control, and accounting of materials usable in radiological dispersal devices. In establishing such program, the Secretary shall—
+The Secretary of Energy may establish within the International Materials Protection, Control, and Accounting program of the Department of Energy a program on the protection, control,and accounting of materials usable in radiological dispersal devices. In establishing such program, the Secretary shall—
 
 &emsp;(1) identify the sites and radiological materials to be covered by such program;
 

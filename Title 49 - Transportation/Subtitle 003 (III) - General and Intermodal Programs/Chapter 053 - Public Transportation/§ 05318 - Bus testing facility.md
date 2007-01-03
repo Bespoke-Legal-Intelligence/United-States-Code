@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 109–59, §3020(b), substituted “to carry out this secti
 
 Subsec. (e). Pub. L. 109–59, §3020(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary has a bus testing revolving loan fund consisting of amounts authorized for the fund under section 317(b)(5) of the Surface Transportation and Uniform Relocation Assistance Act of 1987. The Secretary shall make available as repayable advances from the fund to the person operating and maintaining the facility amounts to operate and maintain the facility.”
 
-1998—Subsec. (b). Pub. L. 105–178, §3018(a), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” andinserted “or organization” after “qualified person”, “, cooperative agreement, or grant” after “The contract”, and “mass transportation” after “and other”.
+1998—Subsec. (b). Pub. L. 105–178, §3018(a), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and inserted “or organization” after “qualified person”, “, cooperative agreement, or grant” after “The contract”, and “mass transportation” after “and other”.
 
 Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and “5309(m)(1)(C) of this title” for “5338(j)(5) of this title”.
 

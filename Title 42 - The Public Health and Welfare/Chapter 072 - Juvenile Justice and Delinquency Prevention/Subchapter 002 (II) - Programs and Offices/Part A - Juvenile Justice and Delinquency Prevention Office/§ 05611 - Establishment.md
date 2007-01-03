@@ -18,7 +18,7 @@ There shall be in the Office a Deputy Administrator who shall be appointed by th
 
 This division, referred to in subsec. (a), probably means division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2107, which made numerous amendments to this chapter. For complete classification of this division to the Code, see Short Title of 1984 Amendment note set out under section 5601 of this title and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes andCriminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
@@ -69,6 +69,64 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
+
+#### Mentoring Matches for Youth
+
+Pub. L. 109–248, title VI, subtitle A, July 27, 2006, 120 Stat. 631, 632, provided that:
+
+#### “SEC. 601. SHORT TITLE.
+
+“This subtitle may be cited as the ‘Mentoring Matches for Youth Act of 2006’.
+
+#### “SEC. 602. FINDINGS.
+
+“Congress finds the following:
+
+&emsp;“(1) Big Brothers Big Sisters of America, which was founded in 1904 and chartered by Congress in 1958, is the oldest and largest mentoring organization in the United States.
+
+&emsp;“(2) There are over 450 Big Brothers Big Sisters of America local agencies providing mentoring programs for at-risk children in over 5,000 communities throughout every State, Guam, and Puerto Rico.
+
+&emsp;“(3) Over the last decade, Big Brothers Big Sisters of America has raised a minimum of 75 percent of its annual operating budget from private sources and is continually working to grow private sources of funding to maintain this ratio of private to Federal funds.
+
+&emsp;“(4) In 2005, Big Brothers Big Sisters of America provided mentors for over 235,000 children.
+
+&emsp;“(5) Big Brothers Big Sisters of America has a goal to provide mentors for 1,000,000 children per year.
+
+#### “SEC. 603. GRANT PROGRAM FOR EXPANDING BIG BROTHERS BIG SISTERS MENTORING PROGRAM.
+
+“In each of fiscal years 2007 through 2012, the Administrator of the Office of Juvenile Justice and Delinquency Prevention (hereafter in this Act \[probably should be “subtitle”\] referred to as the ‘Administrator’) may make grants to Big Brothers Big Sisters of America to use for expanding the capacity of and carrying out the Big Brothers Big Sisters mentoring programs for at-risk youth.
+
+#### “SEC. 604. BIANNUAL REPORT.
+
+“(a)
+
+In General.—Big Brothers Big Sisters of America shall submit 2 reports to the Administrator in each of fiscal years 2007 through 2013. Big Brothers Big Sisters of America shall submit the first report in a fiscal year not later than April 1 of that fiscal year and the second report in a fiscal year not later than September 30 of that fiscal year.
+
+“(b)
+
+Required Content.—Each such report shall include the following:
+
+&emsp;“(1) A detailed statement of the progress made by Big Brothers Big Sisters of America in expanding the capacity of and carrying out mentoring programs for at-risk youth.
+
+&emsp;“(2) A detailed statement of how the amounts received under this Act have been used.
+
+&emsp;“(3) A detailed assessment of the effectiveness of the mentoring programs.
+
+&emsp;“(4) Recommendations for continued grants and the appropriate amounts for such grants.
+
+#### “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to carry out this Act \[probably should be “subtitle”\]—
+
+&emsp;“(1) $9,000,000 for fiscal year 2007;
+
+&emsp;“(2) $10,000,000 for fiscal year 2008;
+
+&emsp;“(3) $11,500,000 for fiscal year 2009;
+
+&emsp;“(4) $13,000,000 for fiscal year 2010; and
+
+&emsp;“(5) $15,000,000 for fiscal year 2011.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

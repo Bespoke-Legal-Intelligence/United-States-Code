@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General may enter into contracts retaining private counsel to furnish legal services, including representation in investigation, negotiation, compromise, settlement, litigation, and execution of judgments in the case of any civil action referred to in section 4201 of this title or section 4225 of this title.
+The Attorney General may enter into contracts retaining private counsel to furnish legalservices, including representation in investigation, negotiation, compromise, settlement, litigation, and execution of judgments in the case of any civil action referred to in section 4201 of this title or section 4225 of this title.
 
 #### (b) Terms and conditions
 

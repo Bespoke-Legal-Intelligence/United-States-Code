@@ -24,7 +24,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;(B) the military society is characterized by its own laws, rules, customs, and traditions, including numerous restrictions on personal behavior, that would not be acceptable in civilian society.
 
-&emsp;(9) The standards of conduct for members of the armed forces regulate a member's life for 24 hours each day beginning at the moment the member enters military status and not ending until that person is discharged or otherwise separated from the armed forces.
+&emsp;(9) The standards of conduct for members of the armed forces regulate a member's life for 24 hours each day beginning at the momentthe member enters military status and not ending until that person is discharged or otherwise separated from the armed forces.
 
 &emsp;(10) Those standards of conduct, including the Uniform Code of Military Justice, apply to a member of the armed forces at all times that the member has a military status, whether the member is on base or off base, and whether the member is on duty or off duty.
 

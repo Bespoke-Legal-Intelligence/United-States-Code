@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 46:391a
 
-Section 3702, with certain exceptions, makes this chapter applicable to any tank vessel operating in the navigable waters of the United States or transferring oil or hazardous materials in any port or place subject to the jurisdiction of the United States, and which carries oil or any hazardous materials in bulk as cargo or in residue, regardless of tonnage, size or manner of propulsion; whether it is self-propelled or not; whether it is carrying freight or passengers for hire or not; and whether it is a vessel of the United States or a foreign vessel.
+Section 3702, with certain exceptions, makes this chapter applicable to any tank vessel operating in the navigable waters of the United States or transferring oil or hazardous materials in any port or place subject to the jurisdiction of the United States, and which carries oil or any hazardous materials in bulk as cargo or in residue, regardless of tonnage, size or manner of propulsion; whether it is self-propelled or not; whether itis carrying freight or passengers for hire or not; and whether it is a vessel of the United States or a foreign vessel.
 
 It exempts certain small vessels documented in the service of oil exploitation, certain small tender and fishing vessels used in the Northwest salmon or crab fisheries, certain vessels used in the processing and assembling of fishery products used in the Northwest fisheries, public vessels, and foreign vessels engaged on innocent passage on the navigable waters of the United States. However, processing vessels, while not treated as tank vessels, are still subject to regulation when carrying flammable or combustible liquid cargo in bulk.
 
@@ -57,8 +57,4 @@ Subsec. (f). Pub. L. 104–324, §1104(b), added subsec. (f).
 1984—Subsec. (c). Pub. L. 98–364, §402(6)(A), substituted “This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons when engaged only in the fishing industry” for “This chapter does not apply to a cannery tender, fishing tender, or fishing vessel of not more than 500 gross tons, used in the salmon or crab fisheries of Alaska, Oregon, or Washington, when engaged only in the fishing industry”.
 
 Subsec. (d). Pub. L. 98–364, §402(6)(B), substituted “This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons” for “This chapter does not apply to a vessel of not more than 5,000 gross tons used in processing and assembling fishery products of the fisheries of Alaska, Oregon, and Washington”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8703 of this title; title 49 section 5117.
 

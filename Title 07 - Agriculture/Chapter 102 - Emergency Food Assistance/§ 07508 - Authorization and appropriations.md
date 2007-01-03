@@ -22,7 +22,7 @@
 
 (ii) If the legislature of a State does not convene in regular session before January 1, 1987, paragraph (1) shall apply to such State beginning on October 1, 1987.
 
-(C) Funds allocated to a State under this section may, upon State request, be allocated before States satisfy the matching requirementspecified in subparagraph (A), based on the estimated contribution required. The Secretary shall periodically reconcile estimated and actual contributions and adjust allocations to the State to correct for overpayments and underpayments.
+(C) Funds allocated to a State under this section may, upon State request, be allocated before States satisfy the matching requirement specified in subparagraph (A), based on the estimated contribution required. The Secretary shall periodically reconcile estimated and actual contributions and adjust allocations to the State to correct for overpayments and underpayments.
 
 (5) States may not charge for commodities made available to emergency feeding organizations, and may not pass on to such organizations the cost of any matching requirements, under this chapter.
 

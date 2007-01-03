@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beginning 6 months after October 21, 1998, and every 12 months thereafter, the Secretary of State shall submit a report to the appropriate congressional committees on the compliance with the provisions of the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980, by the signatory countries of the Convention. Each such report shall include the following information:
+Beginning 6 months after October 21, 1998, and every 12 months thereafter, the Secretary of State shall submit a report to the appropriatecongressional committees on the compliance with the provisions of the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980, by the signatory countries of the Convention. Each such report shall include the following information:
 
 &emsp;(1) The number of applications for the return of children submitted by applicants in the United States to the Central Authority for the United States that remain unresolved more than 18 months after the date of filing.
 
@@ -38,7 +38,7 @@ Section was formerly set out as a note under section 11601 of this title.
 
 Subsec. (a)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §202(2)\], substituted “applicants in the United States” for “United States citizens”.
 
-Subsec. (a)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §202(3)\], substituted “abducted, are being wrongfullyretained in violation of United States court orders, or which have failed to comply with any of their obligations under such convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States” for “abducted”.
+Subsec. (a)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §202(3)\], substituted “abducted, are being wrongfully retained in violation of United States court orders, or which have failed to comply with any of their obligations under such convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States” for “abducted”.
 
 Subsec. (a)(3). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §202(4)\], substituted “children, access to children, or both,” for “children” and “applicants in the United States” for “United States citizens”.
 

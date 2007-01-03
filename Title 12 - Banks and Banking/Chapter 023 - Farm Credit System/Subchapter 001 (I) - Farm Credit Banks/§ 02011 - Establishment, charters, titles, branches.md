@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The banks established pursuant to the merger of each District Federal Intermediate Credit Bank and Federal Land Bank (hereinafter referred to in this subchapter as “Farm Credit Banks”), as provided in section 410 of the Agricultural Credit Act of 1987, shall be Federally chartered instrumentalities of the United States.
+The banks established pursuant to the merger of each District Federal Intermediate CreditBank and Federal Land Bank (hereinafter referred to in this subchapter as “Farm Credit Banks”), as provided in section 410 of the Agricultural Credit Act of 1987, shall be Federally chartered instrumentalities of the United States.
 
 #### (b) Charters
 
@@ -70,7 +70,7 @@ Assistance.—The Assistance Board established under section 6.0 \[12 U.S.C. 227
 
 “(d)
 
-Initial Board.—Notwithstanding section 1.4 (as added by section 401 of this Act) \[12 U.S.C. 2012\], the initial board of each Farm Credit Bank shall be composed of the members of the district board (which is dissolved upon the creation of such bank) elected bythe production credit associations, Federal land bank associations, and stockholders at large. Such initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter the board shall be elected and serve in accordance with the provisions of section 1.4 of the Farm Credit Act of 1971 \[12 U.S.C. 2012\].
+Initial Board.—Notwithstanding section 1.4 (as added by section 401 of this Act) \[12 U.S.C. 2012\], the initial board of each Farm Credit Bank shall be composed of the members of the district board (which is dissolved upon the creation of such bank) elected by the production credit associations, Federal land bank associations, and stockholders at large. Such initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter the board shall be elected and serve in accordance with the provisions of section 1.4 of the Farm Credit Act of 1971 \[12 U.S.C. 2012\].
 
 “(e)
 
@@ -90,7 +90,7 @@ In general.—Not later than June 30, 1993, except as provided in subparagraph (
 
 &emsp;&emsp;&emsp;“(ii)
 
-Merger of entire bank.—Notwithstanding subparagraph (B), or any other provision of law, the Farm Credit Administration shall approve a merger of the Federal Intermediate Credit Bank of Jackson only if the Bank (as chartered on the date of enactment of this subsection \[Oct. 28, 1992\], except as provided in subparagraph (B)(ii)(II)(bb)) merges in its entirety with a Farm Credit Bank.
+Merger of entire bank.—Notwithstanding subparagraph (B), or any other provision of law, the Farm Credit Administration shall approve a merger of the Federal Intermediate Credit Bank of Jackson only if the Bank (as chartered on the date of enactment of this subsection \[Oct. 28,1992\], except as provided in subparagraph (B)(ii)(II)(bb)) merges in its entirety with a Farm Credit Bank.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -152,7 +152,7 @@ Compliance.—If the Farm Credit Administration grants an extension under clause
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is not complying with any term or condition on which an extension under clause (i) was conditioned; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the Farm Credit Administration determines that the Federal Intermediate CreditBank of Jackson is not pursuing in good faith the merger provided for in the letter of intent.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is not pursuing in good faith the merger provided for in the letter of intent.
 
 &emsp;&emsp;&nbsp;If the Farm Credit Administration issues an order under subparagraph (D) pursuant to this clause, the Federal Intermediate Credit Bank of Jackson shall be deemed to have failed to comply with the requirements of subparagraph (A).
 
@@ -166,7 +166,7 @@ Arbitrated merger.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 30 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), an arbitrator (or panel of arbitrators) shall be named by the American Arbitration Association in accordance with the Commercial Arbitration Rules of the American Arbitration Association to serve as the arbitrator referred to in this paragraph.
+In general.—Not later than 30 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), an arbitrator (orpanel of arbitrators) shall be named by the American Arbitration Association in accordance with the Commercial Arbitration Rules of the American Arbitration Association to serve as the arbitrator referred to in this paragraph.
 
 &emsp;&emsp;“(B)
 
@@ -286,11 +286,11 @@ Publication of results.—The results of the vote under this subparagraph, as ta
 
 &emsp;&emsp;“(G)
 
-Implementation.—Not later than 10 days after the date of the receipt of the results of the referendum conducted under subparagraph (F), theFarm Credit Administration shall issue such charters or charter amendments and take such other regulatory actions as may be necessary to implement the merger or mergers as provided for under the certified plan. In this regard, the Farm Credit Administration shall—
+Implementation.—Not later than 10 days after the date of the receipt of the results of the referendum conducted under subparagraph (F), the Farm Credit Administration shall issue such charters or charter amendments and take such other regulatory actions as may be necessary to implement the merger or mergers as provided for under the certified plan. In this regard, the Farm Credit Administration shall—
 
 &emsp;&emsp;&emsp;“(i) issue a charter or charter amendment and take any such other regulatory actions as may be necessary to provide for the establishment of an agricultural credit association in each of the geographic areas described in subparagraph (F)(iii) where a majority of the farmer-borrowers of both the production credit association and the Federal land bank association voted under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (which charter shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations); and
 
-&emsp;&emsp;&emsp;“(ii) not issue a charter or charter amendment or take any such other regulatory action to provide for the establishment of an agricultural credit association in any of the geographic areas described in subparagraph (F)(iii) where less than a majority of the farmer-borrowers of the production credit association or the Federal land bank association voted in the referendum under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (provided that the charter of any remaining association in such geographic area shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
+&emsp;&emsp;&emsp;“(ii) not issue a charter or charter amendment or take any such other regulatory action to provide for the establishment of an agricultural credit association in any of the geographic areas described in subparagraph (F)(iii) where less than amajority of the farmer-borrowers of the production credit association or the Federal land bank association voted in the referendum under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (provided that the charter of any remaining association in such geographic area shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
 &emsp;&emsp;“(H)
 
@@ -374,7 +374,7 @@ In general.—Except as otherwise provided in this paragraph, any petition for r
 
 &emsp;&emsp;&emsp;“(ii)
 
-Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et seq.), any petition for review of a determination or other action of the arbitrator under this subsection shall be filed not later than 10 days after the determination, or the petition shall be barred. The court specified under such Act shall have exclusive jurisdiction to determine the proceeding in accordance with the applicable procedures under such Act, as supplemented by procedures hereinafter provided, and no other district court shall have jurisdiction over any such challenge in any such proceeding. Notwithstanding any other provision of law, the court may set rules governing the procedures of any such proceeding that set page limits on briefs and time limits for filing briefs and motions and other actions that are shorter than the limits specified in the United States Arbitration Act or the Federal Rules of Civil or Appellate Procedure \[28 App. U.S.C.\].
+Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et seq.), any petition for review of a determination or other action of the arbitrator under this subsection shall be filed not later than 10 days after the determination, or the petition shall be barred. The court specified under such Act shall have exclusive jurisdiction to determine the proceeding in accordance with the applicable procedures under such Act, as supplemented by procedures hereinafter provided, and no other district court shall have jurisdiction over any such challenge in any such proceeding. Notwithstanding any other provision of law, the court may set rules governing the procedures of any such proceeding that set page limits on briefs and time limits for filing briefs and motions and other actions that are shorter than the limits specified in the United States Arbitration Act or the Federal Rules of Civil or Appellate Procedure \[28 U.S.C. App.\].
 
 &emsp;&emsp;&emsp;“(iii)
 

@@ -3,16 +3,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [1161\.](%C2%A7%2001161%20-%20Hunger%20fellowship%20program.md) | Hunger fellowship program. |
-| (a) | Short title; findings. |
-| (b) | Establishment. |
-| (c) | Board of Trustees. |
-| (d) | Purposes; authority of program. |
-| (e) | Trust Fund. |
-| (f) | Expenditures; audits. |
-| (g) | Staff; powers of program. |
-| (h) | Report. |
-| (i) | Authorization of appropriations. |
-| (j) | Definition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

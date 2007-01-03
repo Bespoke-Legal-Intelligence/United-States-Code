@@ -15,12 +15,25 @@
 | [551\.](%C2%A7%2000551%20-%20Concealing%20or%20destroying%20invoices%20or%20other%20papers.md) | Concealing or destroying invoices or other papers. |
 | [552\.](%C2%A7%2000552%20-%20Officers%20aiding%20importation%20of%20obscene%20or%20treasonous%20books%20and%20articles.md) | Officers aiding importation of obscene or treasonous books and articles. |
 | [553\.](%C2%A7%2000553%20-%20Importation%20or%20exportation%20of%20stolen%20motor%20vehicles%2C%20off-highway%20mobile%20equipment%2C%20vessels%2C%20or%20aircraft.md) | Importation or exportation of stolen motor vehicles, off-highway mobile equipment, vessels, or aircraft. |
+| 554\.<sup>1</sup> | Smuggling goods from the United States. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 554\.<sup>1</sup> | Border tunnels and passages. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2006—Pub. L. 109–295, title V, §551(b), Oct. 4, 2006, 120 Stat. 1390, added item 554 “Border tunnels and passages”.
+
+Pub. L. 109–177, title III, §311(b), Mar. 9, 2006, 120 Stat. 242, added item 554 “Smuggling goods from the United States”.
+
 1984—Pub. L. 98–547, title III, §301(b), Oct. 25, 1984, 98 Stat. 2771, added item 553.
+
+<i><sup>1</sup></i><i> So in original. Two sections 554 have been enacted.</i>
 
 
 ---
@@ -40,3 +53,5 @@
 - [&sect; 00551 - Concealing or destroying invoices or other papers](%C2%A7%2000551%20-%20Concealing%20or%20destroying%20invoices%20or%20other%20papers.md)
 - [&sect; 00552 - Officers aiding importation of obscene or treasonous books and articles](%C2%A7%2000552%20-%20Officers%20aiding%20importation%20of%20obscene%20or%20treasonous%20books%20and%20articles.md)
 - [&sect; 00553 - Importation or exportation of stolen motor vehicles, off-highway mobile equipment, vessels, or aircraft](%C2%A7%2000553%20-%20Importation%20or%20exportation%20of%20stolen%20motor%20vehicles%2C%20off-highway%20mobile%20equipment%2C%20vessels%2C%20or%20aircraft.md)
+- [&sect; 00554 - 1 Smuggling goods from the United States](%C2%A7%2000554%20-%201%20Smuggling%20goods%20from%20the%20United%20States.md)
+- [&sect; 00554 - 1 Border tunnels and passages](%C2%A7%2000554%20-%201%20Border%20tunnels%20and%20passages.md)

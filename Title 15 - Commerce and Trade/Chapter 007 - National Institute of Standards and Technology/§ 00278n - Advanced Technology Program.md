@@ -20,7 +20,7 @@ Under the Program established in subsection (a) of this section, and consistent 
 
 &emsp;&emsp;(B) participation in such joint ventures by means of grants, cooperative agreements, or contracts, if the Secretary, acting through the Director, determines participation to be appropriate, which may include (i) partial start-up funding, (ii) provision of a minority share of the cost of such joint ventures for up to 5 years, and (iii) making available equipment, facilities, and personnel,
 
-> &emsp;provided that emphasis is placed on areas where the Institute has scientific or technological expertise, on solving generic problems of specific industries, and on making those industries more competitive in world markets;
+> &emsp;provided that emphasis is placed on areas where the Institute has scientific or technological expertise, on solving generic problemsof specific industries, and on making those industries more competitive in world markets;
 
 &emsp;(2) provide grants to and enter into contracts and cooperative agreements with United States businesses (especially small businesses), provided that emphasis is placed on applying the Institute's research, research techniques, and expertise to those organizations’ research programs;
 
@@ -184,7 +184,7 @@ Section 201(b) of Pub. L. 102–245 provided that:
 
 &emsp;“(B) to promote and assist in the development of advanced technologies and the generic application of such technologies to civilian products, processes, and services;
 
-&emsp;“(C) to improve the competitive position of United States industry by supporting industry-led research and development projects in areas of emerging technology which have substantial potential to advance the economic well-being and national security of the United States, such as high-resolution information systems, advanced manufacturing technology, and advanced materials; and
+&emsp;“(C) to improve the competitive position of United States industry by supporting industry-led researchand development projects in areas of emerging technology which have substantial potential to advance the economic well-being and national security of the United States, such as high-resolution information systems, advanced manufacturing technology, and advanced materials; and
 
 &emsp;“(D) to support projects that range from idea exploration to prototype development and address long-term, high-risk areas of technological research, development, and application that are not otherwise being adequately developed by the private sector, but are likely to yield important benefits to the Nation.”
 

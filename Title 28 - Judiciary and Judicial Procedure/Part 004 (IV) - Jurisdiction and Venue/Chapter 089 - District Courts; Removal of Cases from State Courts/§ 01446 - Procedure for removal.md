@@ -4,11 +4,11 @@
 
 (b) The notice of removal of a civil action or proceeding shall be filed within thirty days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within thirty days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
 
-If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or otherpaper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.
+If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.
 
 (c)(1) A notice of removal of a criminal prosecution shall be filed not later than thirty days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the United States district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
 
-(2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds which exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
+(2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds which exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court maygrant relief from the limitations of this paragraph.
 
 (3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment of conviction shall not be entered unless the prosecution is first remanded.
 
@@ -46,7 +46,7 @@ Subsection (e) provides for notice to the adverse parties and for the filing in 
 
 Subsection (f) is derived from sections 75 and 76 of title 28, U.S.C., 1940 ed.
 
-Since the procedure in removal cases is now governed by the Federal Rules of Civil Procedure \[Rule 81(c)\] andFederal Rules of Criminal Procedure \[Rule 54(b)\], the detailed directions of the various sections with respect to such procedure were omitted as unnecessary.
+Since the procedure in removal cases is now governed by the Federal Rules of Civil Procedure \[Rule 81(c)\] and Federal Rules of Criminal Procedure \[Rule 54(b)\], the detailed directions of the various sections with respect to such procedure were omitted as unnecessary.
 
 Thus the provision of section 72 of title 28, U.S.C., 1940 ed., with respect to appearance, special bail and filing the record were omitted as covered by the Federal Rules of Civil Procedure, Rules 64, 81(c).
 
@@ -58,7 +58,7 @@ The provisions of section 74 of title 28, U.S.C., 1940 ed., requiring the advers
 
 #### 1949 Act
 
-Subsection (b) of section 1446 of title 28, U.S.C., as revised, has been found to create difficulty in those States, such as New York, where suit is commenced by the service of a summons and the plaintiff's initial pleading is not required to be served or filed until later.
+Subsection (b) of section 1446 of title 28, U.S.C., as revised, has been found to create difficulty in thoseStates, such as New York, where suit is commenced by the service of a summons and the plaintiff's initial pleading is not required to be served or filed until later.
 
 The first paragraph of the amendment to subsection (b) corrects this situation by providing that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading.
 
@@ -114,7 +114,7 @@ Subsec. (e). Act May 24, 1949, §83(b), indicated that notice need not be given 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable with respect to complaints filed under section 1337 of Title 19, Customs Duties, on or after the date on which the World Trade Organization Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or incases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as a note under section 1337 of Title 19.
+Amendment by Pub. L. 103–465 applicable with respect to complaints filed under section 1337 of Title 19, Customs Duties, on or after the date on which the World Trade Organization Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or in cases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as a note under section 1337 of Title 19.
 
 #### Effective Date of 1977 Amendment
 

@@ -88,7 +88,7 @@ In General.—Rights and obligations under the existing contract No. 14–06–5
 
 #### “SEC. 6. RELATIONSHIP TO OTHER LAWS.
 
-“Upon conveyance of the Project under this Act, the Reclamation Act of 1902 (82 \[32\] Stat. 388) \[43 U.S.C. 371 et seq.\] and all Acts amendatory thereof or supplemental thereto shall not apply to the Project.
+“Upon conveyance of the Project under this Act, the Reclamation Act of 1902 (82 Stat. 388) \[probably means act June 17, 1902, ch. 1093, 32 Stat. 388, see Short Title note under section 371 of this title\] and all Acts amendatory thereof or supplemental thereto shall not apply to the Project.
 
 #### “SEC. 7. LIABILITY.
 

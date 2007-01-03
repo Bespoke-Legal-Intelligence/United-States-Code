@@ -30,9 +30,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Investor Access to Information
 
-Pub. L. 104–290, title III, §306, Oct. 11, 1996, 110 Stat. 3439, provided that: “The Commission shall—
-
-&emsp;“(1) provide for the establishment and maintenance of a readily accessible telephonic or other electronic process to receive inquiries regarding disciplinary actions and proceedings involving investment advisers and persons associated with investment advisers; and
-
-&emsp;“(2) provide for prompt response to any inquiry described in paragraph (1).”
+Pub. L. 104–290, title III, §306, Oct. 11, 1996, 110 Stat. 3439, required the Securities and Exchange Commission to provide for investor access to information concerning disciplinary actions involving investment advisers, prior to repeal by Pub. L. 109–290, §7(b)(2), Sept. 29, 2006, 120 Stat. 1321.
 

@@ -5,8 +5,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [801\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000801%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
-| (a) | Purpose. |
-| (b) | Policy. |
 | [802\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000802%20-%20Definitions.md) | Definitions. |
 | [803\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000803%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93449%2C%20%C2%A77%28b%29%2C%20Jan.%2012%2C%201983%2C%2096%20Stat.%202443.md) | Repealed. |
 
@@ -18,35 +16,9 @@
 | :--- | ---: |
 | [821\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000821%20-%20Definitions.md) | Definitions. |
 | [822\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000822%20-%20Direct%20loans%20and%20loan%20guarantees.md) | Direct loans and loan guarantees. |
-| (a) | General authority. |
-| (b) | Eligible purposes. |
-| (c) | Priority projects. |
-| (d) | Extent of authority. |
-| (e) | rates of interest. |
-| (f) | Infrastructure partners. |
-| (g) | Prerequisites for assistance. |
-| (h) | Conditions of assistance. |
-| (i) | Time limit for approval or disapproval. |
-| (j) | Repayment schedules. |
 | [823\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000823%20-%20Administration%20of%20direct%20loans%20and%20loan%20guarantees.md) | Administration of direct loans and loan guarantees. |
-| (a) | Applications. |
-| (b) | Full faith and credit. |
-| (b) | Assignment of loan guarantees. |
-| (c) | Modifications. |
-| (d) | Compliance. |
-| (e) | Commercial validity. |
-| (f) | Default. |
-| (g) | Rights of the Secretary. |
-| (h) | Action against obligor. |
-| (i) | Breach of conditions. |
-| (j) | Attachment. |
-| (k) | Evaluation charge. |
-| (<i>l</i>) | Fees and charges. |
 | 824 to 835. Repealed or Transferred. |  |
 | [836\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000836%20-%20Employee%20protection.md) | Employee protection. |
-| (a) | General. |
-| (b) | Terms. |
-| (c) | Subcontracting. |
 | 837, 838. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

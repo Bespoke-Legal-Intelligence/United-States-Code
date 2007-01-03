@@ -4,45 +4,19 @@
 | :--- | ---: |
 | [832\.](%C2%A7%2000832%20-%20Completion%20and%20maintenance%20of%20project%3B%20generation%20of%20electricity.md) | Completion and maintenance of project; generation of electricity. |
 | [832a.](%C2%A7%2000832a%20-%20General%20administrative%20provisions.md) | General administrative provisions. |
-| (a) | Appointment of Administrator; powers and duties. |
-| (b) | Electric transmission lines and equipment. |
-| (c) | Acquisition of property. |
-| (d) | Condemnation. |
-| (e) | Disposal of property. |
-| (f) | Contracts. |
 | 832a–1. | Repealed. |
 | [832b.](%C2%A7%2000832b%20-%20Definitions.md) | Definitions. |
 | [832c.](%C2%A7%2000832c%20-%20Distribution%20of%20electricity%3B%20preference%20to%20public%20bodies%20and%20cooperatives.md) | Distribution of electricity; preference to public bodies and cooperatives. |
-| (a) | General provisions. |
-| (b) | Prior to January 1, 1942; subsequent thereto. |
-| (c) | Allowance of time for financing. |
-| (d) | Congressional declaration of policy; allowance of time for creation and organization. |
 | [832d.](%C2%A7%2000832d%20-%20Contracts%20for%20sale%20of%20electricity.md) | Contracts for sale of electricity. |
-| (a) | Authorization of Administrator; contents of contracts. |
-| (b) | Exchange of excess power. |
 | [832e.](%C2%A7%2000832e%20-%20Rate%20schedules.md) | Rate schedules. |
 | [832f.](%C2%A7%2000832f%20-%20Elements%20in%20determining%20rates.md) | Elements in determining rates. |
 | [832g.](%C2%A7%2000832g%20-%20Purchase%20of%20supplies%20and%20services.md) | Purchase of supplies and services. |
 | [832h.](%C2%A7%2000832h%20-%20Miscellaneous%20administrative%20provisions.md) | Miscellaneous administrative provisions. |
-| (a) | Accounts; audit; procedures, etc., prescribed. |
-| (b) | Current expenses. |
 | [832i.](%C2%A7%2000832i%20-%20Employment%20of%20personnel.md) | Employment of personnel. |
-| (a) | Appointment of Assistant Administrator, chief engineer, and general counsel; compensation; duties. |
-| (b) | Officers and employees; compensation. |
-| (c) | Voluntary and uncompensated services; utilization of personnel and equipment of other governmental agencies. |
 | [832j.](%C2%A7%2000832j%20-%20Deposit%20of%20receipts%3B%20authorization%20of%20appropriations.md) | Deposit of receipts; authorization of appropriations. |
 | [832k.](%C2%A7%2000832k%20-%20Authority%20of%20Administrator.md) | Authority of Administrator. |
-| (a) | Settlement, compromise, and payment of claims; limitations; conclusiveness of settlements; restoration of damage. |
-| (b) | Authorization to bring legal proceedings; representation; supervision by Attorney General. |
 | 832<i>l.</i> | Separability. |
 | [832m.](%C2%A7%2000832m%20-%20Sale%20of%20excess%20Federal%20power%3B%20fish%20and%20wildlife%20conservation%20within%20Federal%20Columbia%20River%20Power%20System%3B%20residential%20exchange%3B%20personnel%E2%80%A6.md) | Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel flexibility. |
-| (a) | Definitions. |
-| (b) | Sale of excess Federal power. |
-| (c) | Study by Council. |
-| (d) | Corps of Engineers procurement. |
-| (e) | Residential exchange. |
-| (f) | Personnel flexibility. |
-| (g) | Savings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

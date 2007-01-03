@@ -6,7 +6,7 @@
 
 &emsp;(A) all peanuts handled by persons who have not entered into such an agreement with the Secretary shall be subject to inspection to the same extent and manner as is required by such agreement;
 
-&emsp;(B) no such peanuts shall be sold or otherwise disposed of for human consumption ifsuch peanuts fail to meet the quality requirements of such agreement; and
+&emsp;(B) no such peanuts shall be sold or otherwise disposed of for human consumption if such peanuts fail to meet the quality requirements of such agreement; and
 
 &emsp;(C) any assessment (except with respect to any assessment for the indemnification of losses on rejected peanuts) imposed under the agreement shall—
 

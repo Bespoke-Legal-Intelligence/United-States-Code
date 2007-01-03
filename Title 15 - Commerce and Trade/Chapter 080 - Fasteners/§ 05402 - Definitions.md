@@ -92,7 +92,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(D) the nominal dimensions of the fastener (including diameter and length of bolts or screws), thread form, and class of fit;
 
-&emsp;&emsp;(E) the consensus standard or specifications to which the lot of fasteners has been manufactured, including the date, number, revision, and other information sufficient to identify the particular consensus standard or specifications being referenced;
+&emsp;&emsp;(E) the consensus standard or specifications to which the lot of fasteners has been manufactured, including the date, number,revision, and other information sufficient to identify the particular consensus standard or specifications being referenced;
 
 &emsp;&emsp;(F) the chemistry and grade of material;
 

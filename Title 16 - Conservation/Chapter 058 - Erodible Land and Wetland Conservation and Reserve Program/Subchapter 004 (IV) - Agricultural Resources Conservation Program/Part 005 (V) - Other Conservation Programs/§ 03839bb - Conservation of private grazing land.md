@@ -40,7 +40,7 @@ In this section:
 
 #### (1) Assistance to grazing landowners and others
 
-&emsp;Subject to the availability of appropriations for this section, the Secretary shall establish a voluntary program to provide technical, educational, and related assistance to owners and managers of private grazing land and public agencies, through local conservation districts, to enable the landowners, managers, and public agencies to voluntarily carry out activities that are consistent with this section, including—
+&emsp;Subject to the availability of appropriations for this section, the Secretary shall establish a voluntary program to provide technical, educational, and related assistance to owners and managers of private grazing land and public agencies, through local conservation districts, to enable the landowners, managers, and public agencies to voluntarily carry out activitiesthat are consistent with this section, including—
 
 &emsp;&emsp;(A) maintaining and improving private grazing land and the multiple values and uses that depend on private grazing land;
 

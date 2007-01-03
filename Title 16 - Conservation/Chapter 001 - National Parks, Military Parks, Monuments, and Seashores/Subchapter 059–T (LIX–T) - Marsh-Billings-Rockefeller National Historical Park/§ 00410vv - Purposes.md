@@ -6,7 +6,7 @@ The purposes of this subchapter are—
 
 &emsp;(2) to recognize and interpret the contributions and birthplace of George Perkins Marsh, pioneering environmentalist, author of Man and Nature, statesman, lawyer, and linguist;
 
-&emsp;(3) to recognize and interpret the contributions of Frederick Billings, conservationist,pioneer in reforestation and scientific farm management, lawyer, philanthropist, and railroad builder, who extended the principles of land management introduced by Marsh;
+&emsp;(3) to recognize and interpret the contributions of Frederick Billings, conservationist, pioneer in reforestation and scientific farm management, lawyer, philanthropist, and railroad builder, who extended the principles of land management introduced by Marsh;
 
 &emsp;(4) to preserve the Marsh-Billings-Rockefeller Mansion and its surrounding lands; and
 

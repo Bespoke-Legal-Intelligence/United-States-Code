@@ -2,7 +2,7 @@
 
 #### (a) Function, appointment, and compensation
 
-There shall be an Executive Director (hereinafter referred to as the “Director”), who shall be chief administrator of the Council. The Director shall be appointed by the Council full time and shall be paid at the rate not to exceed the rate of basic pay provided for level III of the Executive Schedule.
+There shall be an Executive Director (hereinafter referred to as the “Director”), who shall bechief administrator of the Council. The Director shall be appointed by the Council full time and shall be paid at the rate not to exceed the rate of basic pay provided for level III of the Executive Schedule.
 
 #### (b) Personnel and services of experts and consultants; rules and regulations
 

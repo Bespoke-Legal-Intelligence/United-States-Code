@@ -6,7 +6,7 @@
 
 &emsp;A State may—
 
-&emsp;&emsp;(A) administer and provide services under the programs described in subparagraphs (A)and (B)(i) of paragraph (2) through contracts with charitable, religious, or private organizations; and
+&emsp;&emsp;(A) administer and provide services under the programs described in subparagraphs (A) and (B)(i) of paragraph (2) through contracts with charitable, religious, or private organizations; and
 
 &emsp;&emsp;(B) provide beneficiaries of assistance under the programs described in subparagraphs (A) and (B)(ii) of paragraph (2) with certificates, vouchers, or other forms of disbursement which are redeemable with such organizations.
 
@@ -76,7 +76,7 @@ Except as otherwise provided in law, a religious organization shall not discrimi
 
 #### (i) Compliance
 
-Any party which seeks to enforce its rights under this section may assert a civil action forinjunctive relief exclusively in an appropriate State court against the entity or agency that allegedly commits such violation.
+Any party which seeks to enforce its rights under this section may assert a civil action for injunctive relief exclusively in an appropriate State court against the entity or agency that allegedly commits such violation.
 
 #### (j) Limitations on use of funds for certain purposes
 

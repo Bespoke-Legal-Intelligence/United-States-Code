@@ -26,17 +26,13 @@ Provisions similar to those comprising this section were contained in section 4 
 
 1967—Subsec. (b). Pub. L. 90–190 struck out provision requiring the President to determine in writing at least once each year the quantities of special nuclear material to be produced under this section, and to specify in such determination the quantities of special nuclear material to be available for distribution by the Commission pursuant to sections 2073 and 2074 of this title.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
 #### References to United States Enrichment Corporation
 
 References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 
 #### Isotope Production and Distribution Program Fund
 
-Pub. L. 103–316, title III, Aug. 26, 1994, 108 Stat. 1715, provided in part: “That the Secretary of Energy may transfer available amounts appropriated for use by the Department of Energy under title III of previously enacted Energy and Water Development Appropriations Acts \[see below\] into the Isotope Production and Distribution Program Fund, in order to continue isotope production and distribution activities: <i>Provided further</i>, That the authority to use these amounts appropriated is effective from the date of enactment of this Act \[Aug. 26, 1994\]: <i>Provided further</i>, That fees set by the Secretary for the sale of isotopes and related services shall hereafter be determined without regard to the provisions of Energy and Water Development Appropriations Act (Public Law 101–101) \[see below\]: <i>Provided</i><i>further</i>, That amounts provided for isotope production and distribution in previous Energy and Water Development Appropriations Acts shall be treated as direct appropriations and shall be merged with funds appropriated under this head \[
+Pub. L. 103–316, title III, Aug. 26, 1994, 108 Stat. 1715, provided in part: “That the Secretary of Energy may transfer available amounts appropriated for use by the Department of Energy under title III of previously enacted Energy and Water Development Appropriations Acts \[see below\] into the Isotope Production and Distribution Program Fund, in order to continue isotope production and distribution activities: <i>Provided further</i>, That the authority to use these amounts appropriated is effective from the date of enactment of this Act \[Aug. 26, 1994\]: <i>Provided further</i>, That fees set by the Secretary for the sale of isotopes and related services shall hereafter be determined without regard to the provisions of Energy and Water Development Appropriations Act (Public Law 101–101) \[see below\]: <i>Provided further</i>, That amounts provided for isotope production and distribution in previous Energy and Water Development Appropriations Acts shall be treated as direct appropriations and shall be merged with funds appropriated under this head \[
 
 Energy Supply, Research and Development Activities\].”
 

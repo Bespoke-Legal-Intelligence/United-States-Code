@@ -28,7 +28,7 @@ The Secretary shall provide such technical and other assistance as may be necess
 
 #### (e) Services to ineligible persons
 
-At the discretion of the tribe or tribal organization, services provided under a demonstrationproject established under this section may be provided (on a cost basis) to persons otherwise ineligible for the health care benefits of the Service.
+At the discretion of the tribe or tribal organization, services provided under a demonstration project established under this section may be provided (on a cost basis) to persons otherwise ineligible for the health care benefits of the Service.
 
 #### (f) Maximum number of demonstration projects
 

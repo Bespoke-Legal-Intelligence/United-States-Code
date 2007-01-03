@@ -30,7 +30,7 @@ This Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 9
 
 The Federal Power Act, referred to in subsec. (b)(2), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
+The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
 
 #### Codification
 

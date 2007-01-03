@@ -42,7 +42,7 @@ Under subsection (f) of section 205, a nonexclusive license in writing and signe
 
 #### Amendments
 
-1988—Subsecs. (d) to (f). Pub. L. 100–568 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d), which read as follows:“No person claiming by virtue of a transfer to be the owner of copyright or of any exclusive right under a copyright is entitled to institute an infringement action under this title until the instrument of transfer under which such person claims has been recorded in the Copyright Office, but suit may be instituted after such recordation on a cause of action that arose before recordation.”
+1988—Subsecs. (d) to (f). Pub. L. 100–568 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d), which read as follows: “No person claiming by virtue of a transfer to be the owner of copyright or of any exclusive right under a copyright is entitled to institute an infringement action under this title until the instrument of transfer under which such person claims has been recorded in the Copyright Office, but suit may be instituted after such recordation on a cause of action that arose before recordation.”
 
 #### Effective Date of 1988 Amendment
 

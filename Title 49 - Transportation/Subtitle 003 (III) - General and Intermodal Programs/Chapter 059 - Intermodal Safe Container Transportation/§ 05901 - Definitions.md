@@ -10,7 +10,7 @@ In this chapter—
 
 &emsp;&emsp;(A) a motor carrier, water carrier, and rail carrier providing transportation of property in commerce; and
 
-&emsp;&emsp;(B) an ocean common carrier (as defined in section 3 of the Shipping Act of 1984 (46 App. U.S.C. 1702)) providing transportation of property in commerce.
+&emsp;&emsp;(B) an ocean common carrier (as defined in section 40102 of title 46) providing transportation of property in commerce.
 
 &emsp;(4) “container” has the meaning given the term “freight container” by the International Standards Organization in Series 1, Freight Containers, 3d Edition (reference number ISO668–1979(E)), including successive revisions, and similar containers that are used in providing transportation in interstate commerce.
 
@@ -22,7 +22,7 @@ In this chapter—
 
 &emsp;(8) “trailer” means a nonpower, property-carrying, trailing unit that is designed for use in combination with a truck tractor.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859; Pub. L. 104–291, title II, §203, Oct. 11, 1996, 110 Stat. 3453.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859; Pub. L. 104–291, title II, §203, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 109–304, §17(h)(2), Oct. 6, 2006, 120 Stat. 1709.)
 
 Historical and Revision Notes
 
@@ -71,6 +71,8 @@ In clause (3)(A), the words “(as such terms are defined in section 10102 of th
 In clause (7), the words “property-carrying” are substituted for “cargo carrying” for consistency in the revised title.
 
 #### Amendments
+
+2006—Par. (3)(B). Pub. L. 109–304 substituted “section 40102 of title 46” for “section 3 of the Shipping Act of 1984 (46 App. U.S.C. 1702)”.
 
 1996—Par. (1). Pub. L. 104–291, §203(1), added par. (1) and struck out former par. (1) which read as follows: “the definitions in section 10102 of this title apply.”
 

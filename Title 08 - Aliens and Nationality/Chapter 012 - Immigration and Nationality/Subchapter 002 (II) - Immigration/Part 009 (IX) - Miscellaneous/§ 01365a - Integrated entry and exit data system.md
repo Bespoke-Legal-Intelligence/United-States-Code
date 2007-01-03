@@ -30,7 +30,7 @@ For purposes of this section, the term “integrated entry and exit data system�
 
 &emsp;Nothing in this section shall be construed to permit the Attorney General or the Secretary of State to impose any new documentary or data collection requirements on any person in order to satisfy the requirements of this section, including—
 
-&emsp;&emsp;(A) requirements on any alien for whom the documentary requirements in section 1182(a)(7)(B) of this title have been waived by the Attorney General and the Secretary of State under section 1182(d)(4)(B) of this title; or
+&emsp;&emsp;(A) requirements on any alien for whom the documentary requirements in section1182(a)(7)(B) of this title have been waived by the Attorney General and the Secretary of State under section 1182(d)(4)(B) of this title; or
 
 &emsp;&emsp;(B) requirements that are inconsistent with the North American Free Trade Agreement.
 
@@ -132,7 +132,7 @@ Information.—The report shall include the following information:
 
 &emsp;&emsp;“(B) The number of departure records that were successfully matched to records of the alien's prior arrival in the United States, with an accounting by the alien's country of nationality and by the alien's classification as an immigrant or nonimmigrant.
 
-&emsp;&emsp;“(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiver program under section 1187 of this title, for whom no matching departure record has been obtainedthrough the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
+&emsp;&emsp;“(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiver program under section 1187 of this title, for whom no matching departure record has been obtained through the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
 
 “(c)
 

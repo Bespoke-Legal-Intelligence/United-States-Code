@@ -30,7 +30,7 @@ The Secretary of the Treasury is authorized to appoint up to 20 new personnel to
 
 The effective date of this chapter, referred to in subsecs. (a)(1) and (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
-This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this Act”, meaning Pub. L. 107–296,Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 The Tariff Act of 1930, referred to in subsec. (a)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 

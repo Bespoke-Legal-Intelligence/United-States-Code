@@ -94,6 +94,10 @@ The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch.
 
 Pub. L. 108–7, div. A, title VII, §763(d), Feb. 20, 2003, 117 Stat. 47, provided that: “This section \[amending this section and sections 7932 and 7934 of this title\] and the amendments made by this section apply beginning with the 2003 crop of other oilseeds (as defined in section 1001 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 7901)), dry peas, lentils, and small chickpeas.”
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–171, title I, §1001, Feb. 8, 2006, 120 Stat. 4, provided that: “This title \[amending sections 2009cc–18,2655, 7621, 7913, 7937, 7953, 7982, and 8106 of this title and sections 3838a, 3839aa–2, 3839aa–7, and 3841 of Title 16, Conservation, and enacting provisions set out as a note under section 7937 of this title\] may be cited as the ‘Agricultural Reconciliation Act of 2005’.”
+
 #### Short Title
 
 Pub. L. 107–171, §1(a), May 13, 2002, 116 Stat. 134, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Farm Security and Rural Investment Act of 2002’.”

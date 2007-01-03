@@ -10,17 +10,19 @@
 
 &emsp;(B) The Office of Special Counsel.
 
-&emsp;(C) The agencies referred to in section 2303(a)(2)(C)(ii) <sup>1</sup> of title 5.
+&emsp;(C) The agencies referred to in section 2302(a)(2)(C)(ii) of title 5.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3168.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 109–233, title V, §503(14), June 15, 2006, 120 Stat. 417.)
 
 #### Prior Provisions
 
 A prior section 4331 was renumbered section 7631 of this title.
 
+#### Amendments
+
+2006—Subsec. (b)(2)(C). Pub. L. 109–233 substituted “section 2302(a)(2)(C)(ii)” for “section 2303(a)(2)(C)(ii)”.
+
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “2302(a)(2)(C)(ii)”.</i>
 

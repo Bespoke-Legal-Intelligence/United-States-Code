@@ -10,7 +10,7 @@ It shall be an unfair labor practice for the Department—
 
 &emsp;(3) to sponsor, control, or otherwise assist any labor organization, other than to furnish upon request customary and routine services and facilities on an impartial basis to labor organizations having equivalent status;
 
-&emsp;(4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint or petition, or has given any information, affidavit, or testimony under this subchapter;
+&emsp;(4) to discipline or otherwise discriminate against an employee because the employee hasfiled a complaint or petition, or has given any information, affidavit, or testimony under this subchapter;
 
 &emsp;(5) to refuse to consult or negotiate in good faith with a labor organization, as required under this subchapter;
 
@@ -66,7 +66,7 @@ The expression of any personal view, argument, or opinion, or the making of any 
 
 #### (d) Election of remedies
 
-Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 4139(a)(2) of this title, an employee has an option of using the grievance procedure under subchapter XI of this chapter or an appeals procedure, issues which can be raised under section 4114 of this title or subchapter XI of this chaptermay, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under section 4114 of this title or subchapter XI of this chapter.
+Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 4139(a)(2) of this title, an employee has an option of using the grievance procedure under subchapter XI of this chapter or an appeals procedure, issues which can be raised under section 4114 of this title or subchapter XI of this chapter may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under section 4114 of this title or subchapter XI of this chapter.
 
 (Pub. L. 96–465, title I, §1015, Oct. 17, 1980, 94 Stat. 2137; Pub. L. 102–138, title I, §153(d)(2), Oct. 28, 1991, 105 Stat. 674.)
 

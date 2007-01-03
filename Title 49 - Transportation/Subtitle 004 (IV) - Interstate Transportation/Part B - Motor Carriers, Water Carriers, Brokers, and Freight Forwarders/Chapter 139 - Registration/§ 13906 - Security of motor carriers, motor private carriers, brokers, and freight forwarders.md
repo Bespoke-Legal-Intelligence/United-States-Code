@@ -30,7 +30,7 @@ Freight Forwarder Requirements.—
 
 &emsp;(1)
 
-Liability insurance.—The Secretary may register a person as a freight forwarder under section 13903 of this title only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against thefreight forwarder for bodily injury to, or death of, an individual, or loss of, or damage to, property (other than property referred to in paragraph (2) of this subsection), resulting from the negligent operation, maintenance, or use of motor vehicles by or under the direction and control of the freight forwarder when providing transfer, collection, or delivery service under this part.
+Liability insurance.—The Secretary may register a person as a freight forwarder under section 13903 of this title only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the freight forwarder for bodily injury to, or death of, an individual, or loss of, or damage to, property (other than property referred to in paragraph (2) of this subsection), resulting from the negligent operation, maintenance, or use of motor vehicles by or under the direction and control of the freight forwarder when providing transfer, collection, or delivery service under this part.
 
 &emsp;(2)
 
@@ -56,7 +56,7 @@ Form of Endorsement.—The Secretary shall also prescribe the appropriate form o
 
 #### References in Text
 
-Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by Pub. L. 109–59, title IV, §4303(b)(1), Aug. 10, 2005, 119 Stat. 1762.
+Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) ofthis section by Pub. L. 109–59, title IV, §4303(b)(1), Aug. 10, 2005, 119 Stat. 1762.
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 

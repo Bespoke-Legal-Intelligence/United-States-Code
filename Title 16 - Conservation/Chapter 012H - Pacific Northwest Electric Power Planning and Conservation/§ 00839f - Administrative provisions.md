@@ -90,7 +90,7 @@ When reviewing rates for the sale of power to the Administrator by an investor-o
 
 (3) In the case of any “company” which meets the requirements of paragraph (1), the Administrator, with the concurrence of such Commission, shall approve all significant contracts entered into by, and between, such “company” and any sponsor company or any subsidiary of such sponsor company which are determined to be consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15 at the time such contracts are entered into. The Administrator and the Securities and Exchange Commission shall exercise such approval authority within sixty days after receipt of such contracts. Such contracts shall not be effective without such approval.
 
-(4) Paragraph (1) of this subsection shall continue to apply to any such “company” unless the Administrator or the Securities and Exchange Commission, or both, through periodic review, (A) determine at any time that the “company” no longer operates in a manner consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15 and in accordance with this subsection, and (B) notify the “company” in writing of such preliminary determination. This subsection shall cease to apply to such “company” thirty days after receipt of notification of a final determination thereof. A final determination shall be made only after public notice ofthe preliminary determination and after a hearing completed not later than sixty days from the date of publication of such notice. Such final determination shall be made within thirty days after the date of completion of such hearing.
+(4) Paragraph (1) of this subsection shall continue to apply to any such “company” unless the Administrator or the Securities and Exchange Commission, or both, through periodic review, (A) determine at any time that the “company” no longer operates in a manner consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15 and in accordance with this subsection, and (B) notify the “company” in writing of such preliminary determination. This subsection shall cease to apply to such “company” thirty days after receipt of notification of a final determination thereof. A final determination shall be made only after public notice of the preliminary determination and after a hearing completed not later than sixty days from the date of publication of such notice. Such final determination shall be made within thirty days after the date of completion of such hearing.
 
 #### (i) Electric power acquisition or disposition
 
@@ -118,7 +118,7 @@ There is hereby established within the administration an executive position for 
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
 Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, as amended, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -128,7 +128,7 @@ Section 103 of title 26, referred to in subsec. (f), which related to interest o
 
 Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 803, as amended, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is Pub. L. 95–617, Nov. 9,1978, 92 Stat. 3117, as amended. For complete classification of this Act to Code, see Short Title note set out under section 2601 of this title and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Amendments
 

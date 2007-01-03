@@ -18,3 +18,5 @@ The effective date of this chapter and the effective date of this section, refer
 
 Customs Service, referred to in subsec. (a), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
+<i><sup>1</sup></i><i> So in original.</i>
+

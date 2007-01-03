@@ -16,7 +16,7 @@
 
 &emsp;(1) contain any requirement which would be held to be unreasonable if contained in a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation; or
 
-&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation.
+&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United Statesin aid of a grand jury investigation of such alleged racketeering violation.
 
 (d) Service of any such demand or any petition filed under this section may be made upon a person by—
 

@@ -6,7 +6,7 @@ Upon default by the student borrower on any loan covered by Federal loan insuran
 
 #### (b) Effect of payment of loss
 
-Upon payment of the amount of the loss pursuant to subsection (a) of this section, the United States shall be subrogated for all of the rights of the holder of the obligation upon theinsured loan and shall be entitled to an assignment of the note or other evidence of the insured loan by the insurance beneficiary. If the net recovery made by the Secretary on a loan after deduction of the cost of that recovery (including reasonable administrative costs and collection costs, to the extent set forth in regulations issued by the Secretary) exceeds the amount of the loss, the excess shall be paid over to the insured. The Secretary may, in attempting to make recovery on such loans, contract with private business concerns, State student loan insurance agencies, or State guaranty agencies, for payment for services rendered by such concerns or agencies in assisting the Secretary in making such recovery. Any contract under this subsection entered into by the Secretary shall provide that attempts to make recovery on such loans shall be fair and reasonable, and do not involve harassment, intimidation, false or misleading representations, or unnecessary communications concerning the existence of any such loan to persons other than the student borrower.
+Upon payment of the amount of the loss pursuant to subsection (a) of this section, the United States shall be subrogated for all of the rights of the holder of the obligation upon the insured loan and shall be entitled to an assignment of the note or other evidence of the insured loan by the insurance beneficiary. If the net recovery made by the Secretary on a loan after deduction of the cost of that recovery (including reasonable administrative costs and collection costs, to the extent set forth in regulations issued by the Secretary) exceeds the amount of the loss, the excess shall be paid over to the insured. The Secretary may, in attempting to make recovery on such loans, contract with private business concerns, State student loan insurance agencies, or State guaranty agencies, for payment for services rendered by such concerns or agencies in assisting the Secretary in making such recovery. Any contract under this subsection entered into by the Secretary shall provide that attempts to make recovery on such loans shall be fair and reasonable, and do not involve harassment, intimidation, false or misleading representations, or unnecessary communications concerning the existence of any such loan to persons other than the student borrower.
 
 #### (c) Forbearance not precluded
 
@@ -20,7 +20,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 #### (1) In general
 
-&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequent holder, and guaranty agency participating in the program assisted under this part and an average cohort default rate for all institutions of higher education within each State.
+&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequentholder, and guaranty agency participating in the program assisted under this part and an average cohort default rate for all institutions of higher education within each State.
 
 #### (2) Regulations
 

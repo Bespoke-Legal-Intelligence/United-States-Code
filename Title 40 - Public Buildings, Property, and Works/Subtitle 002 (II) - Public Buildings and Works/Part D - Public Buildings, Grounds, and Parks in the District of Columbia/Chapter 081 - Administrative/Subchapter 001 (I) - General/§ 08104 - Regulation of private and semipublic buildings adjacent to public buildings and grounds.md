@@ -6,7 +6,7 @@ Factors for Development.—In view of the provisions of the Constitution respect
 
 (b)
 
-Submission of Application to Commission of Fine Arts.—The Mayor of the District of Columbia shall submit to the Commission on <sup>1</sup> Fine Arts an application for a permit to erect or alter any building, a part of which fronts or abuts onthe grounds of the Capitol, the grounds of the White House, the part of Pennsylvania Avenue extending from the Capitol to the White House, Lafayette Park, Rock Creek Park, the Zoological Park, the Rock Creek and Potomac Parkway, Potomac Park, or The Mall Park System and public buildings adjacent to the System, or abuts on any street bordering any of those grounds or parks, so far as the plans relate to height and appearance, color, and texture of the materials of exterior construction.
+Submission of Application to Commission of Fine Arts.—The Mayor of the District of Columbia shall submit to the Commission of Fine Arts an application for a permit to erect or alter any building, a part of which fronts or abuts on the grounds of the Capitol, the grounds of the White House, the part of Pennsylvania Avenue extending from the Capitol to the White House, Lafayette Park, Rock Creek Park, the Zoological Park, the Rock Creek and Potomac Parkway, Potomac Park, or The Mall Park System and public buildings adjacent to the System, or abuts on any street bordering any of those grounds or parks, so far as the plans relate to height and appearance, color, and texture of the materials of exterior construction.
 
 (c)
 
@@ -16,7 +16,7 @@ Report to Mayor.—The Commission shall report promptly its recommendations to t
 
 Action by the Mayor.—The Mayor shall take action the Mayor decides is necessary to effect reasonable compliance with the recommendation under subsection (c).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1205.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1205; Pub. L. 109–284, §6(22), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -40,5 +40,7 @@ In subsection (a), the words “it is hereby declared that” are omitted as unn
 
 In subsection (b), the words “To this end, hereafter” are omitted as unnecessary.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Commission of”.</i>
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–284 substituted “Commission of Fine Arts” for “Commission on Fine Arts”.
 

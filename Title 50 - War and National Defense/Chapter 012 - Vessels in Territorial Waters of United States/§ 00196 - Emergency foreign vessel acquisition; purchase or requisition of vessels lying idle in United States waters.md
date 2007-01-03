@@ -1,8 +1,12 @@
 ### §196. Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters
 
-During any period in which vessels may be requisitioned under section 1242 of title 46, Appendix, the President is authorized and empowered through the Secretary of Transportation to purchase, or to requisition, or for any part of such period to charter or requisition the use of, or to take over the title to or possession of, for such use or disposition as he shall direct, any merchant vessel not owned by citizens of the United States which is lying idle in waters within the jurisdiction of the United States and which the President finds to be necessary to the national defense. Just compensation shall be determined and made to the owner or owners of any such vessel in accordance with the applicable provisions of section 1242 of title 46, Appendix. Such compensation hereunder, or advances on account thereof, shall be deposited with the Treasurer of the United States in a separate deposit fund. Payments for such compensation and also for payment of any valid claim upon such vessel in accord with the provisions of the second paragraph of subsection (d) of section 1242 of title 46, Appendix, shall be made from such fund upon the certificate of the Secretary of Transportation.
+During any period in which vessels may be requisitioned under chapter 563 of title 46, the President is authorized and empowered through the Secretary of Transportation to purchase, or to requisition, or for any part of such period to charter or requisition the use of, or to take over the title to or possession of, for such use or disposition as he shall direct, any merchant vessel not owned by citizens of the United States which is lying idle in waters within the jurisdiction of the United States and which the President finds to be necessary to the national defense. Just compensation shall be determined and made to the owner or owners of any such vessel in accordance with the applicable provisions of chapter 563 of title 46. Such compensation hereunder, or advances on account thereof, shall be deposited with the Treasurer of the United States in a separate deposit fund. Payments for such compensation and also for payment of any valid claim upon such vessel in accord with the provisions of section 56305 of title 46 shall be made from such fund upon the certificate of the Secretary of Transportation.
 
 (Aug. 9, 1954, ch. 659, §1, 68 Stat. 675; Pub. L. 96–70, title III, §3302(c), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–31, §12(152), Aug. 6, 1981, 95 Stat. 167.)
+
+#### Codification
+
+In text, “chapter 563 of title 46” substituted for “section 902 of the Merchant Marine Act, 1936, as amended” in two places and “section 56305 of title 46” substituted for “the second paragraph of subsection (d) of such section 902, as amended,” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted chapter 563 of Title 46, Shipping.
 
 #### Amendments
 
@@ -12,5 +16,5 @@ During any period in which vessels may be requisitioned under section 1242 of ti
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 

@@ -10,3 +10,7 @@ The refusal of a victim to submit to an examination described in subsection (a) 
 
 (Pub. L. 90–351, title I, §2013, as added Pub. L. 109–162, title I, §101(g), Jan. 5, 2006, 119 Stat. 2975.)
 
+#### Effective Date
+
+Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of this title.
+

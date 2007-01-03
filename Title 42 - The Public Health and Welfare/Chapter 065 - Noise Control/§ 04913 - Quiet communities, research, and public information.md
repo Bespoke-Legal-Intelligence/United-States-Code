@@ -58,5 +58,5 @@ In subsec. (b)(2), “section 44715 of title 49” substituted for reference to 
 
 #### Amendments
 
-1978—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration ofQuiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
+1978—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration of Quiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
 

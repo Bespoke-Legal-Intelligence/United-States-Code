@@ -56,7 +56,7 @@
 
 &emsp;(v) In proceedings under clauses (iii) and (iv), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
-&emsp;(vi) If the court finds under this paragraph that NRO has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order NRO to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 and such order shall be the exclusive remedy for failure to comply with this subsection.
+&emsp;(vi) If the court finds under this paragraph that NRO has improperly withheld requested records because of failure to comply with anyprovision of this subsection, the court shall order NRO to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 and such order shall be the exclusive remedy for failure to comply with this subsection.
 
 &emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NRO agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Offense.—Whoever provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 229, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 1993, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332f, or 2340A of this title, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284), section 46502 or 60123(b) of title 49, or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B) or in preparation for, or in carrying out, the concealment of an escape from the commission of any such violation, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
+Offense.—Whoever provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 229, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956,1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332f, or 2340A of this title, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284), section 46502 or 60123(b) of title 49, or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B) or in preparation for, or in carrying out, the concealment of an escape from the commission of any such violation, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
 
 (b)
 
@@ -14,19 +14,17 @@ Definitions.—As used in this section—
 
 &emsp;(3) the term “expert advice or assistance” means advice or assistance derived from scientific, technical or other specialized knowledge.
 
-(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, §301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811; Pub. L. 108–458, title VI, §6603(a)(2), (b), Dec. 17, 2004, 118 Stat. 3762.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 6603(g) of Pub. L. 108–458, see Termination Date of 2004 Amendment note below.</i>
+(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, §301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811; Pub. L. 108–458, title VI, §6603(a)(2), (b), Dec. 17, 2004, 118 Stat. 3762; Pub. L. 109–177, title I, §110(b)(3)(B), Mar. 9, 2006, 120 Stat. 208.)
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §6603(a)(2)(B), (g), which temporarily directed amendment of this section by inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) of title 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress. See Termination Date of 2004 Amendment note below.
+2006—Subsec. (a). Pub. L. 109–177 struck out “1993,” after “1992,”.
 
-Pub. L. 108–458, §6603(a)(2)(A), (g), temporarily struck out “or” before “section 46502”. See Termination Date of 2004 Amendment note below.
+2004—Subsec. (a). Pub. L. 108–458, §6603(a)(2)(B), which directed amendment of this section by inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) of title 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 108–458, §6603(b), (g), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In this section, the term ‘material support or resources’ means currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.” See Termination Date of 2004 Amendment note below.
+Pub. L. 108–458, §6603(a)(2)(A), struck out “or” before “section 46502”.
+
+Subsec. (b). Pub. L. 108–458, §6603(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In this section, the term ‘material support or resources’ means currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.”
 
 2002—Subsec. (a). Pub. L. 107–273, §4002(a)(7), (e)(11), struck out “2332c,” after “2332b,” and substituted “of an escape” for “or an escape”.
 
@@ -38,7 +36,7 @@ Subsec. (b). Pub. L. 107–273, §4002(c)(1), repealed amendment by Pub. L. 104�
 
 Pub. L. 107–56, §810(c)(1), substituted “15 years” for “10 years”.
 
-Pub. L. 107–56, §810(c)(2), which directed substitution of “, and, if the death of any person results, shall beimprisoned for any term of years or for life.” for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
+Pub. L. 107–56, §810(c)(2), which directed substitution of “, and, if the death of any person results, shall be imprisoned for any term of years or for life.” for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
 
 Pub. L. 107–56, §805(a)(1)(F), inserted at end “A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.”
 
@@ -53,10 +51,6 @@ Pub. L. 104–132 amended section generally, reenacting section catchline withou
 Subsec. (a). Pub. L. 104–294, §601(s)(2), (3), inserted “930(c),” before “956,”, “1992,” before “2155,”, “2332c,” before “or 2340A of this title”, and “or an escape” after “concealment”.
 
 Subsec. (b). Pub. L. 104–294, §601(b)(2), which directed substitution of “2332” for “2331”, “2332a” for “2339”, “37” for “36”, and “or an escape” for “of an escape” and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, §4002(c)(1). See above.
-
-#### Termination Date of 2004 Amendment
-
-Amendment by Pub. L. 108–458 to cease to be effective Dec. 31, 2006, with exception for certain offenses that began or occurred before such date, see section 6603(g) of Pub. L. 108–458, set out as a note under section 2332b of this title.
 
 #### Effective Date of 2002 Amendment
 

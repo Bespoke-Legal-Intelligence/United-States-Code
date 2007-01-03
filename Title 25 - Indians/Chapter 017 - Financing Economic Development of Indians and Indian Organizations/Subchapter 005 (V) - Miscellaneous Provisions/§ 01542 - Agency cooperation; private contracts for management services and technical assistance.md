@@ -2,7 +2,7 @@
 
 For the purpose of providing the assistance required under section 1541 of this title, the Secretary is authorized to cooperate with the Small Business Administration and the Corporation for National and Community Service and other Federal agencies in the use of existing programs of this character in those agencies. In addition, the Secretary is authorized to enter into contracts with private organizations for providing such services and assistance.
 
-(Pub. L. 93–262, title V, §502, Apr. 12, 1974, 88 Stat. 83; Pub. L. 93–113, title VI, §601(d), Oct. 1,1973, 87 Stat. 416; Pub. L. 103–82, title IV, §405(f), Sept. 21, 1993, 107 Stat. 921.)
+(Pub. L. 93–262, title V, §502, Apr. 12, 1974, 88 Stat. 83; Pub. L. 93–113, title VI, §601(d), Oct. 1, 1973, 87 Stat. 416; Pub. L. 103–82, title IV, §405(f), Sept. 21, 1993, 107 Stat. 921.)
 
 #### Amendments
 

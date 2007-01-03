@@ -1,7 +1,5 @@
 subpart 1—national cancer institute
 
-<i><sup>1</sup></i><i> So in original. There probably should be an additional closing parenthesis.</i>
-
 
 ---
 
@@ -16,6 +14,6 @@ subpart 1—national cancer institute
 - [&sect; 00285a&#8211;5 - Associate Director for Prevention; appointment; function](%C2%A7%2000285a%E2%80%935%20-%20Associate%20Director%20for%20Prevention%3B%20appointment%3B%20function.md)
 - [&sect; 00285a&#8211;6 - Breast and gynecological cancers](%C2%A7%2000285a%E2%80%936%20-%20Breast%20and%20gynecological%20cancers.md)
 - [&sect; 00285a&#8211;7 - Prostate cancer](%C2%A7%2000285a%E2%80%937%20-%20Prostate%20cancer.md)
-- [&sect; 00285a&#8211;8 - Authorization of appropriations](%C2%A7%2000285a%E2%80%938%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00285a&#8211;8 - Repealed. Pub. L. 109&#8211;482, title I, &sect;103(b)(15), Jan. 15, 2007, 120 Stat. 3687](%C2%A7%2000285a%E2%80%938%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93482%2C%20title%20I%2C%20%C2%A7103%28b%29%2815%29%2C%20Jan.%2015%2C%202007%2C%20120%20Stat.%203687.md)
 - [&sect; 00285a&#8211;9 - Grants for education, prevention, and early detection of radiogenic cancers and diseases](%C2%A7%2000285a%E2%80%939%20-%20Grants%20for%20education%2C%20prevention%2C%20and%20early%20detection%20of%20radiogenic%20cancers%20and%20diseases.md)
 - [&sect; 00285a&#8211;10 - Research, information, and education with respect to blood cancer](%C2%A7%2000285a%E2%80%9310%20-%20Research%2C%20information%2C%20and%20education%20with%20respect%20to%20blood%20cancer.md)

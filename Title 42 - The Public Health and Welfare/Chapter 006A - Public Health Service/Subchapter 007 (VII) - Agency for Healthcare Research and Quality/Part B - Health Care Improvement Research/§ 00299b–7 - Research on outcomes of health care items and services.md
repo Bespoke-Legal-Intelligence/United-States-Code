@@ -88,7 +88,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwise protected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], section 1905 of title 18, or other applicable law.
+&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwise protected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301et seq.\], section 1905 of title 18, or other applicable law.
 
 #### (5) Evaluations
 

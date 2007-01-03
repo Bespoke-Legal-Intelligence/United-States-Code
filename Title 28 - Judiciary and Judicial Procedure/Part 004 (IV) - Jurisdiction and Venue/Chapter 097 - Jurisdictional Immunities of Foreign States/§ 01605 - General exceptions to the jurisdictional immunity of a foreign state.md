@@ -6,7 +6,7 @@
 
 &emsp;(2) in which the action is based upon a commercial activity carried on in the United States by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
 
-&emsp;(3) in which rights in property taken in violation of international law are in issue and that property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreignstate; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
+&emsp;(3) in which rights in property taken in violation of international law are in issue and that property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
 
 &emsp;(4) in which rights in property in the United States acquired by succession or gift or rights in immovable property situated in the United States are in issue;
 
@@ -36,7 +36,7 @@
 
 (c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
 
-(d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in the Ship Mortgage Act, 1920 (46 U.S.C. 911 and following). Such action shall be brought, heard, and determined in accordance with the provisions of that Act and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
+(d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in section 31301 of title 46. Such action shall be brought, heard, and determined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
 (e) For purposes of paragraph (7) of subsection (a)—
 
@@ -82,19 +82,19 @@ Bar on motions to dismiss.—A stay of discovery under this subsection shall con
 
 Construction.—Nothing in this subsection shall prevent the United States from seeking protective orders or asserting privileges ordinarily available to the United States.
 
-(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, §626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, §208, Jan. 10, 2002, 115 Stat. 2299.)
+(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, §626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, §208, Jan. 10, 2002, 115 Stat. 2299; Pub. L. 109–304, §17(f)(2), Oct. 6, 2006, 120 Stat. 1708.)
 
 #### References in Text
 
 Section 101(a)(22) of the Immigration and Nationality Act, referred to in subsec. (a)(7)(B)(ii), is classified to section 1101(a)(22) of Title 8, Aliens and Nationality.
-
-The Ship Mortgage Act, 1920, referred to in subsec. (d), is section 30 of act June 5, 1920, ch. 250, 41 Stat. 1000, as amended, which was classified generally to chapter 25 (§911 et seq.) of former Title 46, Shipping, and was repealed by Pub. L. 100–710, title I, §106(b)(2), Nov. 23, 1988, 102 Stat. 4752, and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping.
 
 Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (e)(1), is section 3 of Pub. L. 102–256, Mar. 12, 1992, 106 Stat. 73, which is set out in a note under section 1350 of this title.
 
 Rules 12(b)(6) and 56 of the Federal Rules of Civil Procedure, referred to in subsec. (g)(4), are set out in the Appendix to this title.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–304 substituted “section 31301 of title 46” and “chapter 313 of title 46” for “the Ship Mortgage Act, 1920 (46 U.S.C. 911 and following)” and “that Act”, respectively.
 
 2002—Subsec. (a)(7)(A). Pub. L. 107–117 amended Pub. L. 107–77. See 2001 Amendment note below.
 
@@ -110,7 +110,7 @@ Subsecs. (e) to (g). Pub. L. 104–132, §221(a)(2), added subsecs. (e) to (g).
 
 1988—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
 
-Subsec. (b). Pub. L. 100–702, §1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreignstate which at that time owns the vessel or cargo involved: <i>Provided</i>, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
+Subsec. (b). Pub. L. 100–702, §1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: <i>Provided</i>, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 
 Subsec. (b)(1). Pub. L. 100–640, §1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
 
@@ -134,7 +134,7 @@ Section 3 of Pub. L. 100–640 provided that: “The amendments made by this Act
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–172, provided that:
 
-“(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in section 1605(a)(7).
+“(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in section 1605(a)(7).
 
 “(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States.”
 

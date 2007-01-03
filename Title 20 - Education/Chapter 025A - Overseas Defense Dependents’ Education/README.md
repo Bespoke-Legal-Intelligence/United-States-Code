@@ -3,50 +3,16 @@
 | Sec. |  |
 | :--- | ---: |
 | [921\.](%C2%A7%2000921%20-%20Defense%20dependents%E2%80%99%20education%20system.md) | Defense dependents’ education system. |
-| (a) | Establishment. |
-| (b) | Program purposes and activities. |
-| (c) | Consultation requirements. |
-| (d) | Optional summer school programs. |
 | [922\.](%C2%A7%2000922%20-%20Administration%20of%20defense%20dependents%E2%80%99%20education%20system.md) | Administration of defense dependents’ education system. |
-| (a) | Operation; Director. |
-| (b) | Implementation of program functions of Secretary of Defense through Director. |
-| (c) | Functions of Director. |
-| (d) | Establishment of regional or area offices; reports to Congress on reorganizations; authorized number of civilian employees. |
 | [923\.](%C2%A7%2000923%20-%20Space-available%20enrollment%20of%20students%3B%20tuition.md) | Space-available enrollment of students; tuition. |
-| (a) | Enrollment of ineligible child in system school. |
-| (b) | Determination of amount of tuition; use of payments. |
-| (c) | Regulations respecting enrollment requirements. |
-| (d) | Enrollment of certain children in overseas schools. |
 | [923a.](%C2%A7%2000923a%20-%20Enrollment%20of%20certain%20additional%20children%20on%20tuition-free%20basis.md) | Enrollment of certain additional children on tuition-free basis. |
-| (a) | Enrollment authorized. |
-| (b) | Funding. |
 | [924\.](%C2%A7%2000924%20-%20Annual%20educational%20assessment.md) | Annual educational assessment. |
-| (a) | Contents. |
-| (b) | Availability. |
 | [925\.](%C2%A7%2000925%20-%20Budget%20request%20for%20school%20construction%20funds%20for%20Director%20of%20Dependents%E2%80%99%20Education.md) | Budget request for school construction funds for Director of Dependents’ Education. |
 | [926\.](%C2%A7%2000926%20-%20School%20system%20for%20dependents%20in%20overseas%20areas.md) | School system for dependents in overseas areas. |
-| (a) | Establishment and operation. |
-| (b) | Tuition and assistance when schools unavailable. |
-| (c) | Continuation of enrollment for certain dependents of members of Armed Forces involuntarily separated. |
-| (d) | Auxiliary services available to home school students. |
 | [927\.](%C2%A7%2000927%20-%20Allotment%20formula.md) | Allotment formula. |
-| (a) | Establishment by regulation of minimum allotment formula; criteria. |
-| (b) | Issuance, etc., of regulations. |
-| (c) | Applicability of certain provisions. |
 | [928\.](%C2%A7%2000928%20-%20School%20advisory%20committees.md) | School advisory committees. |
-| (a) | Establishment; functions; membership. |
-| (b) | Election of members; regulations respecting qualifications and election procedures. |
-| (c) | Members to serve without pay. |
 | [929\.](%C2%A7%2000929%20-%20Advisory%20Council%20on%20Dependents%E2%80%99%20Education.md) | Advisory Council on Dependents’ Education. |
-| (a) | Establishment; membership; Director. |
-| (b) | Terms of office of members. |
-| (c) | Meetings; functions. |
-| (d) | Compensation, etc., of members. |
-| (e) | Termination. |
 | [930\.](%C2%A7%2000930%20-%20Study%20of%20defense%20dependents%E2%80%99%20education%20system.md) | Study of defense dependents’ education system. |
-| (a) | Scope; conduct and report to Director by contractor. |
-| (b) | Consultation requirements respecting study specifications and contractor selection. |
-| (c) | Reporting requirements of Director. |
 | [931\.](%C2%A7%2000931%20-%20Regulations%3B%20issuance%20and%20contents.md) | Regulations; issuance and contents. |
 | [932\.](%C2%A7%2000932%20-%20Definitions.md) | Definitions. |
 

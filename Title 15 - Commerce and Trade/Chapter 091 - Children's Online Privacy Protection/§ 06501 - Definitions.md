@@ -92,7 +92,7 @@ In this chapter:
 
 #### (B) Limitation
 
-&emsp;&emsp;A commercial website or online service, or a portion of a commercial website or onlineservice, shall not be deemed directed to children solely for referring or linking to a commercial website or online service directed to children by using information location tools, including a directory, index, reference, pointer, or hypertext link.
+&emsp;&emsp;A commercial website or online service, or a portion of a commercial website or online service, shall not be deemed directed to children solely for referring or linking to a commercial website or online service directed to children by using information location tools, including a directory, index, reference, pointer, or hypertext link.
 
 #### (11) Person
 

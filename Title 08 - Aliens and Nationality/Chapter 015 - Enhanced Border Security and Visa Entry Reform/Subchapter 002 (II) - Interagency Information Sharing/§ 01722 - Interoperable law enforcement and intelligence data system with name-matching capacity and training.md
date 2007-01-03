@@ -8,7 +8,7 @@
 
 #### (2) Requirement for interoperable data system
 
-&emsp;Upon the date of commencement of implementation of the plan required by section 1721(c) of this title, the President shall develop and implement an interoperable electronic data system to provide current and immediate access to information in databases of Federal law enforcement agencies and the intelligencecommunity that is relevant to determine whether to issue a visa or to determine the admissibility or deportability of an alien (also known as the “Chimera system”).
+&emsp;Upon the date of commencement of implementation of the plan required by section 1721(c) of this title, the President shall develop and implement an interoperable electronic data system to provide current and immediate access to information in databases of Federallaw enforcement agencies and the intelligence community that is relevant to determine whether to issue a visa or to determine the admissibility or deportability of an alien (also known as the “Chimera system”).
 
 #### (3) Consultation requirement
 

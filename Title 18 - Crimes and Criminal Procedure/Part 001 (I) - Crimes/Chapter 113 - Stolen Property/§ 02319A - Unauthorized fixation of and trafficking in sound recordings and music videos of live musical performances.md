@@ -38,23 +38,23 @@ Definitions.—As used in this section—
 
 &emsp;(1) the terms “copy”, “fixed”, “musical work”, “phonorecord”, “reproduce”, “sound recordings”, and “transmit” mean those terms within the meaning of title 17; and
 
-&emsp;(2) the term “traffic in” means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.
+&emsp;(2) the term “traffic” has the same meaning as in section 2320(e) of this title.
 
 (f)
 
 Applicability.—This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
 
-(Added Pub. L. 103–465, title V, §513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, §2(e), Dec. 16, 1997, 111 Stat. 2679.)
+(Added Pub. L. 103–465, title V, §513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, §2(e), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 109–181, §2(c)(1), Mar. 16, 2006, 120 Stat. 288.)
 
 #### References in Text
 
-The customs laws, referred to in subsec. (c), are classified generally to Title 19, Customs Duties.
-
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (f), isthe date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
 
 #### Amendments
+
+2006—Subsec. (e)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic in’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.”
 
 1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 

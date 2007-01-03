@@ -8,7 +8,7 @@
 
 (b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of the pay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
 
-(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall be equal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
+(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall beequal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
 
 (3) Amounts in the savings fund credited to a member shall be considered as pay and allowances for purposes of section 553(c) of this title and shall otherwise be subject to withdrawal under procedures which the Secretary of the Treasury shall establish.
 

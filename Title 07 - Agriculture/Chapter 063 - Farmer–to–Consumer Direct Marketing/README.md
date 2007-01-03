@@ -6,20 +6,9 @@
 | [3002\.](%C2%A7%2003002%20-%20Definitions.md) | Definitions. |
 | [3003\.](%C2%A7%2003003%20-%20Survey.md) | Survey. |
 | [3004\.](%C2%A7%2003004%20-%20Direct%20marketing%20assistance%20within%20the%20States.md) | Direct marketing assistance within the States. |
-| (a) | In general. |
-| (b) | Development of farmers’ markets. |
-| (c) | Consideration of consumer preferences. |
 | [3005\.](%C2%A7%2003005%20-%20Farmers%E2%80%99%20Market%20Promotion%20Program.md) | Farmers’ Market Promotion Program. |
-| (a) | Establishment. |
-| (b) | Program purposes. |
-| (c) | Eligible entities. |
-| (d) | Criteria and guidelines. |
-| (e) | Authorization of appropriations. |
 | [3006\.](%C2%A7%2003006%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3007\.](%C2%A7%2003007%20-%20Seniors%20farmers%E2%80%99%20market%20nutrition%20program.md) | Seniors farmers’ market nutrition program. |
-| (a) | Establishment. |
-| (b) | Program purposes. |
-| (c) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

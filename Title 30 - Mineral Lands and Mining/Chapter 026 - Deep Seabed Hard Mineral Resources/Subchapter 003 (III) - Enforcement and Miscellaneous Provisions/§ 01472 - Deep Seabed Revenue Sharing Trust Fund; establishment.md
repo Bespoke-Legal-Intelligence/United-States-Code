@@ -12,7 +12,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Method of transfer
 
-&emsp;The amounts appropriated by paragraph (1) shall be transferred at least quarterly fromthe general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in paragraph (1) received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amount required to be transferred.
+&emsp;The amounts appropriated by paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in paragraph (1) received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amount required to be transferred.
 
 #### (c) Management of Trust Fund
 

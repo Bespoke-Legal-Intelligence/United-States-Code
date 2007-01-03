@@ -10,7 +10,7 @@ The Secretary of Agriculture shall investigate and submit to Congress a report o
 
 &emsp;(3) the humane treatment of nonambulatory livestock; and
 
-&emsp;(4) the extent to which nonambulatory livestock may present handling and disposition problems for stockyards, market agencies, and dealers.
+&emsp;(4) the extent to which nonambulatory livestock may present handling and dispositionproblems for stockyards, market agencies, and dealers.
 
 #### (b) Authority
 
@@ -24,7 +24,7 @@ For the purpose of administering and enforcing any regulations promulgated under
 
 #### References in Text
 
-The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classifiedprincipally to chapter 109 (§8301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 

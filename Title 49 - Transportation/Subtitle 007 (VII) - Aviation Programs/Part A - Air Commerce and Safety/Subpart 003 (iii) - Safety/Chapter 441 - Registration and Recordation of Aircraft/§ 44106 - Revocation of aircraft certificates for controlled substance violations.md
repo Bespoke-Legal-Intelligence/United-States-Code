@@ -26,7 +26,7 @@ Advice to Holders and Opportunity To Answer.—Before the Administrator revokes 
 
 Appeals.—(1) A person whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and a hearing on the record. In conducting the hearing, the Board is not bound by the findings of fact of the Administrator.
 
-(2) When a person files an appeal with the Board under this subsection, the order of the Administrator revoking the certificate is stayed. However, if the Administrator advises the Boardthat safety in air transportation or air commerce requires the immediate effectiveness of the order—
+(2) When a person files an appeal with the Board under this subsection, the order of the Administrator revoking the certificate is stayed. However, if the Administrator advises the Board that safety in air transportation or air commerce requires the immediate effectiveness of the order—
 
 &emsp;(A) the order remains effective; and
 

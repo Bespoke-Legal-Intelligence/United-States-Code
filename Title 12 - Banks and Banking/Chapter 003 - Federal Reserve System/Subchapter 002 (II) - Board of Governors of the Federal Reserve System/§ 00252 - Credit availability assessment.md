@@ -26,13 +26,17 @@
 
 #### (b) Use of existing data
 
-The studies required by this section shall not increase the regulatory or paperwork burden on regulated financial institutions, other sources of small business credit, or small businesses.
+The studies required by this section shall not increase the regulatory or paperwork burden onregulated financial institutions, other sources of small business credit, or small businesses.
 
 (Pub. L. 104–208, div. A, title II, §2227, Sept. 30, 1996, 110 Stat. 3009–417.)
 
 #### Codification
 
 Section was enacted as part of the Economic Growth and Regulatory Paperwork Reduction Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Federal Reserve Act which comprises this chapter.
+
+#### Transfer of Functions
+
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of this title.
 
 #### Study of Financial Modernization's Effect on the Accessibility of Small Business and Farm Loans
 

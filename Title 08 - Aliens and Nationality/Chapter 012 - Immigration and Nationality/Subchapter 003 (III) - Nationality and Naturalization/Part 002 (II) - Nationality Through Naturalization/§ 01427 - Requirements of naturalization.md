@@ -2,7 +2,7 @@
 
 #### (a) Residence
 
-No person, except as otherwise provided in this subchapter, shall be naturalized unless such applicant, (1) immediately preceding the date of filing his application for naturalization has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least five years and during the five years immediately preceding the date of filing his application has been physically present therein for periods totaling at least half of that time, and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months, (2) has resided continuously within the United States from the date of the application up to the time of admission to citizenship, and (3) during all the periods referred to in this subsection has been and still is a person of good moral character, attached to the principles of the Constitution of the UnitedStates, and well disposed to the good order and happiness of the United States.
+No person, except as otherwise provided in this subchapter, shall be naturalized unless such applicant, (1) immediately preceding the date of filing his application for naturalization has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least five years and during the five years immediately preceding the date of filing his application has been physically present therein for periods totaling at least half of that time, and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months, (2) has resided continuously within the United States from the date of the application up to the time of admission to citizenship, and (3) during all the periods referred to in this subsection has been and still is a person of good moral character, attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the United States.
 
 #### (b) Absences
 
@@ -18,7 +18,7 @@ Absence from the United States for a continuous period of one year or more durin
 
 #### (c) Physical presence
 
-The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of this section of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
+The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of this section of an uninterrupted period of at least one year of physical presence in the United Statesmay be complied with by such person at any time prior to filing an application for naturalization.
 
 #### (d) Moral character
 
@@ -34,7 +34,7 @@ In determining whether the applicant has sustained the burden of establishing go
 
 (2) An applicant for naturalization under this subsection may be administered the oath of allegiance under section 1448(a) of this title by any district court of the United States, without regard to the residence of the applicant. Proceedings under this subsection shall be conducted in a manner consistent with the protection of intelligence sources, methods and activities.
 
-(3) The number of aliens naturalized pursuant to this subsection in any fiscal year shall not exceed five. The Director of Central Intelligenceshall inform the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives within a reasonable time prior to the filing of each application under the provisions of this subsection.
+(3) The number of aliens naturalized pursuant to this subsection in any fiscal year shall not exceed five. The Director of Central Intelligence shall inform the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives within a reasonable time prior to the filing of each application under the provisions of this subsection.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §316, 66 Stat. 242; Pub. L. 97–116, §14, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 99–169, title VI, §601, Dec. 4, 1985, 99 Stat. 1007; Pub. L. 101–649, title IV, §§402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, 104 Stat. 5038, 5041, 5046; Pub. L. 104–208, div. C, title III, §308(g)(7)(F), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 109–149, title V, §518, Dec. 30, 2005, 119 Stat. 2882.)
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Expedited Naturalization
 

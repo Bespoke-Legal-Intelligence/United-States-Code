@@ -6,7 +6,7 @@
 
 (2) The Secretary shall prescribe the maximum amount of the accelerated death benefit available under this section that the Secretary finds to be administratively practicable and actuarially sound, but in no event may the amount of the benefit exceed the amount equal to 50 percent of the face value of the person's insurance in force on the date the election of the person to receive the benefit is approved.
 
-(3) A person making an election under this section may elect to receive an amount that isless than the maximum amount prescribed under paragraph (2). The Secretary shall prescribe the increments in which a reduced amount under this paragraph may be elected.
+(3) A person making an election under this section may elect to receive an amount that is less than the maximum amount prescribed under paragraph (2). The Secretary shall prescribe the increments in which a reduced amount under this paragraph may be elected.
 
 (c) The portion of the face value of insurance which is not paid in a lump sum as an accelerated death benefit under this section shall remain payable in accordance with the provisions of this chapter.
 

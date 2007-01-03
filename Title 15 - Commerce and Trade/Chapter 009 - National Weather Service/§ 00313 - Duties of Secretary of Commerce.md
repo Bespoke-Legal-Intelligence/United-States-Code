@@ -62,7 +62,7 @@ Establishment of Program.—(1) The Secretary of Defense and the Secretary of Co
 
 “(b)
 
-Responsibilities.—(1) The Secretary of Defense shall have the responsibility for maintaining, flying, and funding tropical cyclone reconnaissance aircraft toaccomplish the program established under this section and to transfer the data to the Secretary of Commerce. Program responsibility may not be transferred to any other Federal department or agency, including the Coast Guard, without the agreement and approval of the Secretary of Defense, the Secretary of Commerce, and the head of any other Federal agency or department to which the responsibility is transferred.
+Responsibilities.—(1) The Secretary of Defense shall have the responsibility for maintaining, flying, and funding tropical cyclone reconnaissance aircraft to accomplish the program established under this section and to transfer the data to the Secretary of Commerce. Program responsibility may not be transferred to any other Federal department or agency, including the Coast Guard, without the agreement and approval of the Secretary of Defense, the Secretary of Commerce, and the head of any other Federal agency or department to which the responsibility is transferred.
 
 “(2) The Secretary of Commerce shall have the responsibility to provide funding for data gathering and research by remote sensing, ground sensing, research aircraft, and other technologies necessary to accomplish the program established under this section.
 
@@ -186,7 +186,7 @@ Notification.—The Secretary shall not change operations at a field office purs
 
 “(b)
 
-Weather Radar Decommissioning.—The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radar being commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
+Weather Radar Decommissioning.—The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radarbeing commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
 
 “(c)
 
@@ -238,7 +238,7 @@ Special Circumstances.—The Secretary may not close or relocate any field offic
 
 “(f)
 
-Liaison Officer.—The Secretary may not close, consolidate, automate, or relocate a field office untilarrangements have been made to maintain for a period of at least 2 years at least one person in the service area to act as a liaison officer who—
+Liaison Officer.—The Secretary may not close, consolidate, automate, or relocate a field office until arrangements have been made to maintain for a period of at least 2 years at least one person in the service area to act as a liaison officer who—
 
 &emsp;“(1) provides timely information regarding the activities of the National Weather Service which may affect service to the community, including modernization and restructuring; and
 
@@ -316,7 +316,7 @@ Pub. L. 101–595, title III, §320, Nov. 16, 1990, 104 Stat. 2989, provided tha
 
 #### National Weather Service 10-Year Strategic Plan
 
-Pub. L. 100–685, title IV, §407, Nov. 17, 1988, 102 Stat. 4098, as amended by Pub. L. 102–567, title VII, §709(1), Oct. 29, 1992, 106 Stat. 4309, directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changesnecessary to fulfill objectives of weather and flood warning service improvements.
+Pub. L. 100–685, title IV, §407, Nov. 17, 1988, 102 Stat. 4098, as amended by Pub. L. 102–567, title VII, §709(1), Oct. 29, 1992, 106 Stat. 4309, directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changes necessary to fulfill objectives of weather and flood warning service improvements.
 
 #### Degradation-of-Weather-Services Standard for Providing Services
 
@@ -352,7 +352,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 “It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
 
-“Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
+“Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remainunder the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
 
 #### Study of Thunderstorms and Atmospheric Disturbances; Reports; Expenditures; Cooperation of Other Departments
 

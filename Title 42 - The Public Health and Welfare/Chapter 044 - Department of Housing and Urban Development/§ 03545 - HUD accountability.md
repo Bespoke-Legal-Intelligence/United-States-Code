@@ -42,7 +42,7 @@
 
 &emsp;(D) The Secretary shall publish a notice in the Federal Register at least annually informing the public of the allocation of assistance under section 1439(d)(1)(A) of this title.
 
-&emsp;(E) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(E) The Secretary shall ensure that each application and all related documentation andother information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -204,7 +204,7 @@ Revocation by Secretary.—If the Secretary determines that a housing credit age
 
 &emsp;“(1) may inform the housing credit agency that the agency may no longer submit certification of subsidy layering compliance under this section; and
 
-&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuantto section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
+&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
 
 “(d)
 

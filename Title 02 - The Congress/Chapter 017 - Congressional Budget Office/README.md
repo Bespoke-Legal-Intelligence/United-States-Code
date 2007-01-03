@@ -3,47 +3,16 @@
 | Sec. |  |
 | :--- | ---: |
 | [601\.](%C2%A7%2000601%20-%20Establishment.md) | Establishment. |
-| (a) | In general. |
-| (b) | Personnel. |
-| (c) | Experts and consultants. |
-| (d) | Relationship to executive branch. |
-| (e) | Relationship to other agencies of Congress. |
-| (f) | Revenue estimates. |
-| (g) | Authorization of appropriations. |
 | [602\.](%C2%A7%2000602%20-%20Duties%20and%20functions.md) | Duties and functions. |
-| (a) | Assistance to budget committees. |
-| (b) | Assistance to Committees on Appropriations, Ways and Means, and Finance. |
-| (c) | Assistance to other committees and Members. |
-| (d) | Assignment of office personnel to committees and joint committees. |
-| (e) | Reports to budget committees. |
-| (f) | Use of computers and other techniques. |
-| (g) | Studies. |
 | [603\.](%C2%A7%2000603%20-%20Public%20access%20to%20budget%20data.md) | Public access to budget data. |
-| (a) | Right to copy. |
-| (b) | Index. |
-| (c) | Exceptions. |
-| (d) | Information obtained for committees and Members. |
-| (e) | Level of confidentiality. |
 | [604\.](%C2%A7%2000604%20-%20Omitted.md) | Omitted. |
 | [605\.](%C2%A7%2000605%20-%20Sale%20or%20lease%20of%20property%2C%20supplies%2C%20or%20services.md) | Sale or lease of property, supplies, or services. |
 | [606\.](%C2%A7%2000606%20-%20Disposition%20of%20surplus%20or%20obsolete%20property.md) | Disposition of surplus or obsolete property. |
 | [607\.](%C2%A7%2000607%20-%20Lump-sum%20payments%20for%20annual%20leave%20to%20separated%20employees.md) | Lump-sum payments for annual leave to separated employees. |
 | [608\.](%C2%A7%2000608%20-%20Lump-sum%20payments%20to%20enhance%20staff%20recruitment%20and%20to%20reward%20exceptional%20performance.md) | Lump-sum payments to enhance staff recruitment and to reward exceptional performance. |
 | [609\.](%C2%A7%2000609%20-%20Employee%20training.md) | Employee training. |
-| (a) | In general. |
-| (b) | Regulations. |
-| (c) | Recovery of debt. |
-| (d) | Applicability. |
 | [610\.](%C2%A7%2000610%20-%20Repayment%20of%20student%20loan%20on%20behalf%20of%20employee.md) | Repayment of student loan on behalf of employee. |
-| (a) | Authorization. |
-| (b) | Regulations. |
-| (c) | Maximum amount. |
-| (d) | Limitation. |
-| (e) | Accounting. |
-| (f) | Applicability. |
-| [611\.](%C2%A7%2000611%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Employee development program. |
-| (b) | Effective date. |
+| [611\.](%C2%A7%2000611%20-%20Employee%20development%20program.md) | Employee development program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,4 +31,4 @@
 - [&sect; 00608 - Lump-sum payments to enhance staff recruitment and to reward exceptional performance](%C2%A7%2000608%20-%20Lump-sum%20payments%20to%20enhance%20staff%20recruitment%20and%20to%20reward%20exceptional%20performance.md)
 - [&sect; 00609 - Employee training](%C2%A7%2000609%20-%20Employee%20training.md)
 - [&sect; 00610 - Repayment of student loan on behalf of employee](%C2%A7%2000610%20-%20Repayment%20of%20student%20loan%20on%20behalf%20of%20employee.md)
-- [&sect; 00611 - Administrative provisions](%C2%A7%2000611%20-%20Administrative%20provisions.md)
+- [&sect; 00611 - Employee development program](%C2%A7%2000611%20-%20Employee%20development%20program.md)

@@ -4,13 +4,7 @@
 | :--- | ---: |
 | [2487\.](%C2%A7%2002487%20-%20Findings.md) | Findings. |
 | [2487a.](%C2%A7%2002487a%20-%20Biomedical%20research%20joint%20working%20group.md) | Biomedical research joint working group. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Annual reporting requirement. |
-| (d) | Annual biomedical research symposia. |
 | [2487b.](%C2%A7%2002487b%20-%20Biomedical%20research%20grants.md) | Biomedical research grants. |
-| (a) | Establishment of program. |
-| (b) | Research opportunity announcements. |
 | [2487c.](%C2%A7%2002487c%20-%20Biomedical%20research%20fellowships.md) | Biomedical research fellowships. |
 | [2487d.](%C2%A7%2002487d%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XI%2C%20%C2%A71101%28g%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203292.md) | Repealed. |
 | [2487e.](%C2%A7%2002487e%20-%20Establishment%20of%20electronic%20data%20archive.md) | Establishment of electronic data archive. |

@@ -208,7 +208,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;<b>1. Information Analysis and Infrastructure Protection</b>
 
-&emsp;&emsp;a. <i>Under Secretary for Information Analysis and Infrastructure Protection (“IA and IP”):</i> Will be responsible for oversight of functions of NIPC, NCS, CIAO, NISAC, EAO, and FedCIRC transferred by the Act, the management of the Directorate's Information Analysis and Infrastructure Protection duties, andthe administration of the Homeland Security Advisory System.
+&emsp;&emsp;a. <i>Under Secretary for Information Analysis and Infrastructure Protection (“IA and IP”):</i> Will be responsible for oversight of functions of NIPC, NCS, CIAO, NISAC, EAO, and FedCIRC transferred by the Act, the management of the Directorate's Information Analysis and Infrastructure Protection duties, and the administration of the Homeland Security Advisory System.
 
 &emsp;&emsp;b. <i>Assistant Secretary for Information Analysis:</i> Will oversee the following Information Analysis functions:
 
@@ -258,7 +258,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Recommend measures necessary to protect the key resources and critical infrastructure of the United States in coordination with other agencies of the Federal Government and in cooperation with State and local government agencies and authorities, the private sector, and other entities.
 
-&emsp;&emsp;&emsp;• In coordination with the Under Secretary for Emergency Preparedness and Response, provide to State and local government entities, and upon request to private entities that own or operatecritical information systems, crisis management support in response to threats to, or attacks on, critical information systems.
+&emsp;&emsp;&emsp;• In coordination with the Under Secretary for Emergency Preparedness and Response, provide to State and local government entities, and upon request to private entities that own or operate critical information systems, crisis management support in response to threats to, or attacks on, critical information systems.
 
 &emsp;&emsp;&emsp;• Provide technical assistance, upon request, to the private sector and other government entities, in coordination with the Under Secretary for Emergency Preparedness and Response, with respect to emergency recovery plans to respond to major failures of critical information systems.
 
@@ -322,7 +322,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• In carrying out the foregoing responsibilities, ensure the speedy, orderly, and efficient flow of lawful traffic and commerce.
 
-&emsp;&emsp;&emsp;• Carry out the immigration enforcement functions specified under Section 441 of the Act \[6 U.S.C. 251\] that were vested by statute in, or performed by, the Commissioner of the INS (or any officer, employee, or component of the INS) immediately before the date on which the transfer of functions takes place.
+&emsp;&emsp;&emsp;• Carry out the immigration enforcement functions specified under Section 441 of the Act \[6U.S.C. 251\] that were vested by statute in, or performed by, the Commissioner of the INS (or any officer, employee, or component of the INS) immediately before the date on which the transfer of functions takes place.
 
 &emsp;&emsp;&emsp;b. <i>Assistant Secretary for Border Security:</i> Will report directly to the Under Secretary for Border and Transportation Security, and whose responsibilities will include the following:
 
@@ -356,7 +356,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;The Emergency Preparedness and Response Directorate will be headed by the Under Secretary for Emergency Preparedness and Response.
 
-&emsp;&emsp;<i>Under Secretary for EP\&R:</i> Will be responsible for all of those functions included within Section 502 of the Act \[6 U.S.C. 312\], including:
+&emsp;&emsp;<i>Under Secretary for EP\&R:</i> Will be responsible for all of those functions included within Section 502 \[now 504\] of the Act \[6 U.S.C. 314\], including:
 
 &emsp;&emsp;&emsp;• Helping to ensure the effectiveness of emergency response providers to terrorist attacks, major disasters, and other emergencies.
 
@@ -414,7 +414,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;• The attached tables \[not set out in the Code\] provide estimates of the funds available to the agencies and entities that will be transferred to the Department by operation of the Act. The two tables include total funding (mandatory and discretionary including fees) and discretionary funding net of fees. The tables provide the enacted levels for 2002 and 2002 supplementals, and the President's requested levels for 2003.
 
-> &emsp;Because of the current state of the 2003 budget process, information concerning the funds that will beavailable to each transferring agency on the date of the proposed transfers is not currently available and will not likely be available during the time period in which the President is to submit this Reorganization Plan. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
+> &emsp;Because of the current state of the 2003 budget process, information concerning the funds that will be available to each transferring agency on the date of the proposed transfers is not currently available and will not likely be available during the time period in which the President is to submit this Reorganization Plan. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
 
 <b>(4) Specification of the proposed allocations within the Department of unexpended funds transferred in connection with transfers under the plan.</b>
 

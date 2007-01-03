@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-A State shall use a portion of the amounts provided under a grant awarded under this part to establish a program under section 300ff–22(a)(5) of this title to provide therapeutics to treat HIV disease or prevent the serious deterioration of health arising from HIV disease in eligible individuals, including measures for the prevention and treatment of opportunistic infections.
+A State shall use a portion of the amounts provided under a grant awarded under section 300ff–21 of this title to establish a program under section 300ff–22(b)(3)(B) of this title to provide therapeutics to treat HIV/AIDS or prevent the serious deterioration of health arising from HIV/AIDS in eligible individuals, including measures for the prevention and treatment of opportunistic infections.
 
 #### (b) Eligible individual
 
 To be eligible to receive assistance from a State under this section an individual shall—
 
-&emsp;(1) have a medical diagnosis of HIV disease; and
+&emsp;(1) have a medical diagnosis of HIV/AIDS; and
 
 &emsp;(2) be a low-income individual, as defined by the State.
 
@@ -16,11 +16,11 @@ To be eligible to receive assistance from a State under this section an individu
 
 In carrying out this section the State shall—
 
-&emsp;(1) determine, in accordance with guidelines issued by the Secretary, which treatments are eligible to be included under the program established under this section;
+&emsp;(1) ensure that the therapeutics included on the list of classes of core antiretroviral therapeutics established by the Secretary under subsection (e) are, at a minimum, the treatments provided by the State pursuant to this section;
 
 &emsp;(2) provide assistance for the purchase of treatments determined to be eligible under paragraph (1), and the provision of such ancillary devices that are essential to administer such treatments;
 
-&emsp;(3) provide outreach to individuals with HIV disease, and as appropriate to the families of such individuals;
+&emsp;(3) provide outreach to individuals with HIV/AIDS, and as appropriate to the families of such individuals;
 
 &emsp;(4) facilitate access to treatments for such individuals;
 
@@ -34,23 +34,57 @@ In carrying out this section the State shall—
 
 In carrying out this section, the Secretary shall review the current status of State drug reimbursement programs established under section 300ff–22(2) <sup>1</sup> of this title and assess barriers to the expanded availability of the treatments described in subsection (a) of this section. The Secretary shall also examine the extent to which States coordinate with other grantees under this subchapter to reduce barriers to the expanded availability of the treatments described in subsection (a) of this section.
 
-#### (e) Use of health insurance and plans
+#### (e) List of classes of core antiretroviral therapeutics
+
+For purposes of subsection (c)(1), the Secretary shall develop and maintain a list of classes of core antiretroviral therapeutics, which list shall be based on the therapeutics included in the guidelines of the Secretary known as the Clinical Practice Guidelines for Use of HIV/AIDS Drugs, relating to drugs needed to manage symptoms associated with HIV. The preceding sentence does not affect the authority of the Secretary to modify such Guidelines.
+
+#### (f) Use of health insurance and plans
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a) of this section, a State may expend a grant under this part to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV disease the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
+&emsp;In carrying out subsection (a) of this section, a State may expend a grant under section 300ff–21 of this title to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV/AIDS the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
 
 #### (2) Limitation
 
-&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscalyear involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costs of otherwise providing therapeutics described in subsection (a) of this section.
+&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscal year involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costs of otherwise providing therapeutics described in subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355; Pub. L. 106–345, title II, §204, Oct. 20, 2000, 114 Stat. 1332.)
+#### (g) Drug rebate program
+
+A State shall ensure that any drug rebates received on drugs purchased from funds provided pursuant to this section are applied to activities supported under this subpart, with priority given to activities described under this section.
+
+(July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355; Pub. L. 106–345, title II, §204, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §§201(c)(4), 202, 204(a), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2788, 2796, 2820.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### References in Text
 
-Section 300ff–22(2) of this title, referred to in subsec. (d), was redesignated section 300ff–22(a)(2) of this title by Pub. L. 106–345, title II, §202(1), Oct. 20, 2000, 114 Stat. 1330.
+Section 300ff–22 of this title, referred to in subsec. (d), was amended generally by Pub. L. 109–415, title II, §201(a), Dec. 19, 2006, 120 Stat. 2785, and, as so amended, does not contain a par. (2).
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” in two places.
+
+Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part”.
+
+Pub. L. 109–415, §201(c)(4), substituted “section 300ff–22(b)(3)(B) of this title” for “section 300ff–22(a)(5) of this title”.
+
+Subsec. (b)(1). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+
+Subsec. (c)(1). Pub. L. 109–415, §202(a)(1), added par. (1) and struck out former par. (1) which read as follows: “determine, in accordance with guidelines issued by the Secretary, which treatments are eligible to be included under the program established under this section;”.
+
+Subsec. (c)(3). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+
+Subsec. (e). Pub. L. 109–415, §202(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 109–415, §202(a)(2), redesignated subsec. (e) as (f).
+
+Subsec. (f)(1). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+
+Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part”.
+
+Subsec. (g). Pub. L. 109–415, §202(b), added subsec. (g).
 
 2000—Subsec. (c). Pub. L. 106–345, §204(a), added par. (6) and concluding provisions.
 

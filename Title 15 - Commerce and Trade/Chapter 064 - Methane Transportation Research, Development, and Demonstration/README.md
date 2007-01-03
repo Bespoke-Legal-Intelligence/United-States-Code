@@ -5,26 +5,13 @@
 | [3801\.](%C2%A7%2003801%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20policy.md) | Congressional statement of findings and declaration of policy. |
 | [3802\.](%C2%A7%2003802%20-%20Definitions.md) | Definitions. |
 | [3803\.](%C2%A7%2003803%20-%20Duties%20of%20Secretary%20of%20Energy.md) | Duties of Secretary of Energy. |
-| (a) | Designation of management entity for program. |
-| (b) | Monitoring and management of program; agreements with other Federal departments and agencies. |
-| (c) | Assurances respecting scope of program activities. |
-| (d) | Implementation of program; administrative procedures, etc., applicable. |
 | [3804\.](%C2%A7%2003804%20-%20Coordination%20with%20other%20Federal%20departments%20and%20agencies.md) | Coordination with other Federal departments and agencies. |
-| (a) | Related responsibilities and regulatory activities. |
-| (b) | Scope of assistance. |
 | [3805\.](%C2%A7%2003805%20-%20Research%20and%20development%20activities.md) | Research and development activities. |
 | [3806\.](%C2%A7%2003806%20-%20Demonstrations.md) | Demonstrations. |
-| (a) | Development of data assessing current state-of-the-art. |
-| (b) | Guidelines; promulgation, criteria, scope, etc. |
-| (c) | Fiscal year limitations. |
-| (d) | Duration; recordkeeping requirements. |
-| (e) | Selection of proposed demonstrations; discretionary and mandatory criteria. |
 | [3807\.](%C2%A7%2003807%20-%20Use%20of%20methane-fueled%20vehicles%20by%20Federal%20agencies%20and%20departments.md) | Use of methane-fueled vehicles by Federal agencies and departments. |
 | [3808\.](%C2%A7%2003808%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28p%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md) | Repealed. |
 | [3809\.](%C2%A7%2003809%20-%20Authorization%20of%20appropriations%3B%20required%20funding.md) | Authorization of appropriations; required funding. |
 | [3810\.](%C2%A7%2003810%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
-| (a) | Modification or waiver. |
-| (b) | Promulgation of rules. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

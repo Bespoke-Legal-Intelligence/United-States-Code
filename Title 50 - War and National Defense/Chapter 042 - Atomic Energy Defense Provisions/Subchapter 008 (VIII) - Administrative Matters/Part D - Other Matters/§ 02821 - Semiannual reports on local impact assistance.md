@@ -1,6 +1,6 @@
 ### §2821. Semiannual reports on local impact assistance
 
-The Secretary of Energy shall submit to Congress every six months a report setting forth a description of, and the amount or value of, all local impact assistance provided during the preceding six months under section 2704(c)(6) of this title.
+The Secretary of Energy shall submit to Congress every six months a report setting forth adescription of, and the amount or value of, all local impact assistance provided during the preceding six months under section 2704(c)(6) of this title.
 
 (Pub. L. 107–314, div. D, title XLVIII, §4851, formerly Pub. L. 105–85, div. C, title XXXI, §3153(f), Nov. 18, 1997, 111 Stat. 2044; renumbered Pub. L. 107–314, div. D, title XLVIII, §4851, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(15), Nov. 24, 2003, 117 Stat. 1786.)
 

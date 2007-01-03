@@ -22,7 +22,7 @@ If a State, unit of local government, or public care institution, without the us
 
 #### (f) Restriction on use of funds
 
-Amounts made available under this section (together with any other amounts made available from other Federal sources) may not beused to pay more than 50 percent of the costs of any preliminary energy audit or energy audit.
+Amounts made available under this section (together with any other amounts made available from other Federal sources) may not be used to pay more than 50 percent of the costs of any preliminary energy audit or energy audit.
 
 (Pub. L. 94–163, title III, §400C, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3250.)
 

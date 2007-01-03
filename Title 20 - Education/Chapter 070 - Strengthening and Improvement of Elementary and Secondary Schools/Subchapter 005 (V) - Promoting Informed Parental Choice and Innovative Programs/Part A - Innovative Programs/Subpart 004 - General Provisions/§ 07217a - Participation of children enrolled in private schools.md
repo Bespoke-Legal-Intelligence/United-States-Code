@@ -54,7 +54,7 @@
 
 #### (e) Withholding of allotment or allocation
 
-Pending final resolution of any investigation or complaint that could result in a waiver undersubsection (d)(1) or (d)(2) of this section, the Secretary may withhold from the allotment or allocation of the affected State educational agency or local educational agency the amount estimated by the Secretary to be necessary to pay the cost of services to be provided by the Secretary under such subsection.
+Pending final resolution of any investigation or complaint that could result in a waiver under subsection (d)(1) or (d)(2) of this section, the Secretary may withhold from the allotment or allocation of the affected State educational agency or local educational agency the amount estimated by the Secretary to be necessary to pay the cost of services to be provided by the Secretary under such subsection.
 
 #### (f) Duration of determination
 

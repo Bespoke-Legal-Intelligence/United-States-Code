@@ -30,7 +30,7 @@ capitol buildings’ to the appropriation for salaries and expenses of the House
 
 salaries, officers and employees’.
 
-“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (<i>o</i>) of such section.
+“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in thetotal service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (<i>o</i>) of such section.
 
 “(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a), the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
 
@@ -146,7 +146,7 @@ House Resolution No. 402, One Hundred First Congress, Sept. 10, 1990, provided t
 
 “(a)
 
-Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No.1, shall be known and designated as the ‘Thomas P. O'Neill, Jr. House of Representatives Office Building’.
+Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No. 1, shall be known and designated as the ‘Thomas P. O'Neill, Jr. House of Representatives Office Building’.
 
 “(b)
 

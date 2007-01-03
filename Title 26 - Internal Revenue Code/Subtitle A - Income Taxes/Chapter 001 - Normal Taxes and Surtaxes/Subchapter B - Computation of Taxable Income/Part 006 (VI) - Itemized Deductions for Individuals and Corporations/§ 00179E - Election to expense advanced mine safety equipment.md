@@ -1,0 +1,60 @@
+### §179E. Election to expense advanced mine safety equipment
+
+#### (a) Treatment as expenses
+
+A taxpayer may elect to treat 50 percent of the cost of any qualified advanced mine safety equipment property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the qualified advanced mine safety equipment property is placed in service.
+
+#### (b) Election
+
+#### (1) In general
+
+&emsp;An election under this section for any taxable year shall be made on the taxpayer's return of the tax imposed by this chapter for the taxable year. Such election shall specify the advanced mine safety equipment property to which the election applies and shall be made in such manner as the Secretary may by regulations prescribe.
+
+#### (2) Election irrevocable
+
+&emsp;Any election made under this section may not be revoked except with the consent of the Secretary.
+
+#### (c) Qualified advanced mine safety equipment property
+
+For purposes of this section, the term “qualified advanced mine safety equipment property” means any advanced mine safety equipment property for use in any underground mine located in the United States—
+
+&emsp;(1) the original use of which commences with the taxpayer, and
+
+&emsp;(2) which is placed in service by the taxpayer after the date of the enactment of this section.
+
+#### (d) Advanced mine safety equipment property
+
+For purposes of this section, the term “advanced mine safety equipment property” means any of the following:
+
+&emsp;(1) Emergency communication technology or device which is used to allow a miner to maintain constant communication with an individual who is not in the mine.
+
+&emsp;(2) Electronic identification and location device which allows an individual who is not in the mine to track at all times the movements and location of miners working in or at the mine.
+
+&emsp;(3) Emergency oxygen-generating, self-rescue device which provides oxygen for at least 90 minutes.
+
+&emsp;(4) Pre-positioned supplies of oxygen which (in combination with self-rescue devices) can be used to provide each miner on a shift, in the event of an accident or other event which traps the miner in the mine or otherwise necessitates the use of such a self-rescue device, the ability to survive for at least 48 hours.
+
+&emsp;(5) Comprehensive atmospheric monitoring system which monitors the levels of carbon monoxide, methane, and oxygen that are present in all areas of the mine and which can detect smoke in the case of a fire in a mine.
+
+#### (e) Coordination with section 179
+
+No expenditures shall be taken into account under subsection (a) with respect to the portion of the cost of any property specified in an election under section 179.
+
+#### (f) Reporting
+
+No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the mines of the taxpayer as the Secretary shall require.
+
+#### (g) Termination
+
+This section shall not apply to property placed in service after December 31, 2008.
+
+(Added Pub. L. 109–432, div. A, title IV, §404(a), Dec. 20, 2006, 120 Stat. 2955.)
+
+#### References in Text
+
+The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 109–432, which was approved Dec. 20, 2006.
+
+#### Effective Date
+
+Pub. L. 109–432, div. A, title IV, §404(c), Dec. 20, 2006, 120 Stat. 2957, provided that: “The amendments made by this section \[enacting this section and amending sections 263, 312, and 1245 of this title\] shall apply to costs paid or incurred after the date of the enactment of this Act \[Dec. 20, 2006\].”
+

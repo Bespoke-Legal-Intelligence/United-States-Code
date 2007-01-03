@@ -58,7 +58,7 @@ July 18, 1958, Pub. L. 85–530, §§6(a), 7, 8, 72 Stat. 372.
 
 In subsection (a)(2), the words “always” and “the hands of” are omitted as unnecessary.
 
-In subsection (a)(3), the words “State, territory, or possession of the United States” are substituted for“State or Territory” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(3), the words “State, territory, or possession of the United States” are substituted for “State or Territory” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(2), the text of 36:767(b) is omitted as executed and obsolete.
 

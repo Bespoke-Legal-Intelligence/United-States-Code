@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowinglyand materially violates any provisions of subsection (b) of this section, the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
+&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowingly and materially violates any provisions of subsection (b) of this section, the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) Failure to make timely payments of principal and interest to holders of securities guaranteed under section 1721(g) of this title.
 
-&emsp;&emsp;(B) Failure to segregate cash flow from pooled mortgages or to deposit either principal and interest funds or escrow funds into special accounts with a depository institution whose accounts are insured by the National Credit Union Administration or by the Federal Deposit Insurance Corporation through the Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations.
+&emsp;&emsp;(B) Failure to segregate cash flow from pooled mortgages or to deposit either principal and interest funds or escrow funds into special accounts with a depository institution whose accounts are insured by the National Credit Union Administration or by the Federal Deposit Insurance Corporation through the Deposit Insurance Fund.
 
 &emsp;&emsp;(C) Use of escrow funds for any purpose other than that for which they were received.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(I) Submission to the Association of a false certification either on its own behalf or on behalf of another person or entity.
 
-&emsp;&emsp;(J) Failure to comply with an agreement, certification, or condition of approval set forth on, or applicable to, the application for approval as an issuer of securities under section 1721(g) of this title.
+&emsp;&emsp;(J) Failure to comply with an agreement, certification, or condition of approval setforth on, or applicable to, the application for approval as an issuer of securities under section 1721(g) of this title.
 
 &emsp;&emsp;(K) Violation of any provisions of this subchapter or any implementing regulation, handbook, or participant letter issued under authority of this subchapter.
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection\(a) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice provided under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1) of this section, an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection (a) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice provided under subsection (c)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
@@ -104,23 +104,25 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 The Secretary shall deposit all civil money penalties collected under this section into moneys of the Association pursuant to section 1722 of this title.
 
-(June 27, 1934, ch. 847, title III, §317, as added Pub. L. 101–235, title I, §110(a), Dec. 15, 1989, 103 Stat. 2011; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(A), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 109–173, §9(f)(1), Feb. 15, 2006, 119 Stat. 3618.)
-
-#### Amendment of Subsection (b)(1)(B)
-
-<i>Pub. L. 109–173, §9(f)(1), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (b)(1)(B) of this section is amended by striking “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”.</i>
+(June 27, 1934, ch. 847, title III, §317, as added Pub. L. 101–235, title I, §110(a), Dec. 15, 1989, 103 Stat. 2011; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(A), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(f)(1), Feb. 15, 2006, 119 Stat. 3618.)
 
 #### Amendments
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (b)(1)(B). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(13)(A). See 1996 Amendment note below.
+
+1996—Subsec. (b)(1)(B). Pub. L. 104–208, §2704(d)(13)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date
 

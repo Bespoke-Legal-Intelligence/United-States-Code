@@ -48,7 +48,7 @@ All sums deposited in, accruing to and remaining in the Suspension Accounts shal
 
 &emsp;(B) Not later than 60 days after receiving a request for the distribution of funds from a Suspension Account made by a tribe under subparagraph (A)—
 
-&emsp;&emsp;(i) the Secretary shall, in cooperation with the Secretary of the Treasury, withdraw and distribute such funds in accordance with such request; and
+&emsp;&emsp;(i) the Secretary shall, in cooperation with the Secretary of the Treasury, withdraw anddistribute such funds in accordance with such request; and
 
 &emsp;&emsp;(ii) the Secretary of the Treasury shall terminate the Suspension Account.
 

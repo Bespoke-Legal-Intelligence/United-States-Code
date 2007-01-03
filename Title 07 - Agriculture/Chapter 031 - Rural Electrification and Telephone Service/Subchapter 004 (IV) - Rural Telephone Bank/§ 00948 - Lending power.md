@@ -42,7 +42,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(v)(I) The amount by which the aggregate of the amounts advanced by the telephone bank during the fiscal year exceeds the aggregate of the amounts received by the telephone bank from the issuance of class A stock, class B stock, class C stock, and telephone debentures and other obligations of the telephone bank during the fiscal year, multiplied by the historic cost of money rate as of the close of the fiscal year immediately preceding the fiscal year, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
-&emsp;&emsp;(II) For purposes of this clause, the term “historic cost of money rate”, with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year during the period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
+&emsp;&emsp;(II) For purposes of this clause, the term “historic cost of money rate”, with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year duringthe period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
 
 &emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table:
 
@@ -206,7 +206,7 @@ Subsec. (b)(9), (10). Pub. L. 103–129, §2(a)(2)(B)(iii), added pars. (9) and 
 
 Subsec. (e). Pub. L. 103–129, §2(a)(2)(C), added subsec. (e).
 
-1990—Subsec. (a). Pub. L. 101–624, §2365, substituted “shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by lawenacted by the Congress of the United States for loans to be made in any one year, and” for “is authorized on behalf of the telephone bank to make loans,”.
+1990—Subsec. (a). Pub. L. 101–624, §2365, substituted “shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by law enacted by the Congress of the United States for loans to be made in any one year, and” for “is authorized on behalf of the telephone bank to make loans,”.
 
 Subsec. (b)(3)(B). Pub. L. 101–624, §2367(b)(1), substituted “the date of enactment of this subparagraph” for “the date of enactment of this paragraph” in the original text before “advances”, which was translated as “December 22, 1987”, requiring no change in text.
 
@@ -240,13 +240,13 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
 #### Congressional Findings Covering Interest Rates and Loan Prepayments
 
-Section 1411(a) of Pub. L. 100–203 provided that: “Congress finds that—
+Pub. L. 100–203, title I, §1411(a), Dec. 22, 1987, 101 Stat. 1330–22, provided that: “Congress finds that—
 
 &emsp;“(1) overcharging of Rural Telephone Bank borrowers has resulted in $179,000,000 in excess profits and has imperiled borrowers by raising costs to ratepayers;
 
 &emsp;“(2) borrowers will be able to seek redress under section 408(b)(3)(G) of the Rural Electrification Act of 1936 \[subsec. (b)(3)(G) of this section\], as added by subsection (c), or may leave the Rural Telephone Bank, but in no case may the Governor of the Bank issue regulations requiring any penalty from borrowers seeking to retire debt prior to maturity; and
 
-&emsp;“(3) any reduction in Federal Government expenditures in the operation of the Rural Telephone Bank, from borrowers’ conduct resulting from the implementation of the amendments made by subsections (b) and (c) \[amending this section\], should be included in all calculations of the budget of the United States Government, authorized under the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 \[title I of Pub. L. 100–119, see Short Title of 1987 Amendment note set out under section 901 of Title 2, The Congress\].”
+&emsp;“(3) any reduction in Federal Government expenditures in the operation of the Rural Telephone Bank, from borrowers’ conduct resulting from the implementation of the amendments made by subsections (b) and (c) \[amending this section\], should be included in all calculations of the budget of the United States Government, authorized under the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 \[title I of Pub. L. 100–119, see Short Title of 1987 Amendment note set out under section 900 of Title 2, The Congress\].”
 
 #### Prepayment Regulations
 

@@ -132,6 +132,10 @@ Subsec. (b)(11). Pub. L. 106–386, §1512(a), added par. (11).
 
 Subsec. (c). Pub. L. 106–386, §1103(b)(1)(B), added subsec. (c).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
+
 #### Standards, Practice, and Training for Sexual Assault Forensic Examinations
 
 Pub. L. 106–386, div. B, title IV, §1405, Oct. 28, 2000, 114 Stat. 1515, provided that:

@@ -1,0 +1,38 @@
+### §80301. International agreements
+
+(a)
+
+General Authority.—The President may make agreements with interested maritime countries to—
+
+&emsp;(1) maintain in the North Atlantic Ocean a service of ice patrol, of study and observation of ice and current conditions, and of assistance to vessels and their crews requiring assistance within the limits of the patrol;
+
+&emsp;(2) maintain a service of study and observation of ice and current conditions in the waters affecting the set and drift of ice in the North Atlantic Ocean; and
+
+&emsp;(3) take all practicable steps to ensure the destruction or removal of derelicts in the northern part of the Atlantic Ocean, east of the line drawn from Cape Sable to a point in latitude 34 degrees north, longitude 70 degrees west, if the destruction or removal is necessary.
+
+(b)
+
+Payment Between Countries.—The President may include in an agreement under subsection (a) a provision for—
+
+&emsp;(1) payment to the United States Government by other countries for their proportionate share of the expense of maintaining the services; or
+
+&emsp;(2) contribution by the Government for its proportionate share if the agreement provides for another country to maintain the services.
+
+(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+80301
+
+46 App.:738.
+
+June 25, 1936, ch. 807, §1, 49 Stat. 1922.
+

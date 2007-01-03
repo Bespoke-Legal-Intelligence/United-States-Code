@@ -42,7 +42,7 @@
 
 (2) Paragraph (1) shall not apply with respect to a debtor who is a person described in section 109(h)(4) or who resides in a district for which the United States trustee (or the bankruptcy administrator, if any) determines that the approved instructional courses are not adequate to service the additional individuals who would otherwise be required to complete such instructional course by reason of the requirements of paragraph (1).
 
-(3) The United States trustee (or the bankruptcy administrator, if any) who makes a determination described in paragraph (2) shall review such determination not later than 1 yearafter the date of such determination, and not less frequently than annually thereafter.
+(3) The United States trustee (or the bankruptcy administrator, if any) who makes a determination described in paragraph (2) shall review such determination not later than 1 year after the date of such determination, and not less frequently than annually thereafter.
 
 (h) The court may not grant a discharge under this chapter unless the court after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge finds that there is no reasonable cause to believe that—
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 101–647 effective Nov. 29, 1990, but not applicable with respect to cases commenced under this title before Nov. 29, 1990, see section 3104 of Pub. L. 101–647, set out as a note under section 523 of this title.
 
-Amendment by Pub. L. 101–581 effective Nov. 15, 1990, but not applicable with respect to cases commencedunder this title before Nov. 15, 1990, see section 4 of Pub. L. 101–581, set out as a note under section 523 of this title.
+Amendment by Pub. L. 101–581 effective Nov. 15, 1990, but not applicable with respect to cases commenced under this title before Nov. 15, 1990, see section 4 of Pub. L. 101–581, set out as a note under section 523 of this title.
 
 Section 3007(b)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall not apply to any case under the provisions of title 11, United States Code, commenced before the date of the enactment of this Act \[Nov. 5, 1990\].”
 

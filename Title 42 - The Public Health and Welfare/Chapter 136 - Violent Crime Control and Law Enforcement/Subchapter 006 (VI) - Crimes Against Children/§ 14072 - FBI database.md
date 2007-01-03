@@ -96,7 +96,7 @@ A person described in subsection (b) of this section who is required to register
 
 #### (A) Notification of local law enforcement officials
 
-&emsp;&emsp;The FBI shall ensure that State and local law enforcement officials of the jurisdiction from which, and the State and local law enforcement officials of the jurisdiction to which, a person required to register undersubsection (c) of this section relocates are notified of the new residence of such person.
+&emsp;&emsp;The FBI shall ensure that State and local law enforcement officials of the jurisdiction from which, and the State and local law enforcement officials of the jurisdiction to which, a person required to register under subsection (c) of this section relocates are notified of the new residence of such person.
 
 #### (B) Notification of FBI
 
@@ -160,6 +160,10 @@ Any State not having established a program described in subsection (a)(3) of thi
 
 (Pub. L. 103–322, title XVII, §170102, as added Pub. L. 104–236, §2(a), Oct. 3, 1996, 110 Stat. 3093; amended Pub. L. 105–119, title I, §115(a)(6), Nov. 26, 1997, 111 Stat. 2463; Pub. L. 105–277, div. A, §101(b) \[title I, §123\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–248, title I, §129, July 27, 2006, 120 Stat. 600, provided that, effective before the later of 3 years after July 27, 2006, or 1 year after the date on which the software described in section 16923 of this title is available, this section is repealed.</i>
+
 #### References in Text
 
 Section 115(a)(8)(C) of title I of Public Law 105–119, referred to in subsec. (i)(4), is set out as a note under section 951 of Title 10, Armed Forces.
@@ -191,6 +195,10 @@ Subsec. (a)(3)(B). Pub. L. 105–119, §115(a)(6)(B)(ii), amended subpar. (B) ge
 Subsec. (a)(3)(C). Pub. L. 105–119, §115(a)(6)(B)(iii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “meets the requirements for verification under section 14071(b)(3) of this title; and”.
 
 Subsec. (i). Pub. L. 105–119, §115(a)(6)(C), inserted “or pursuant to section 14071(b)(7) of this title” after “subsection (g) of this section” in introductory provisions.
+
+#### Effective Date of Repeal
+
+Repeal of section effective before the later of 3 years after July 27, 2006, or 1 year after the date on which the software described in section 16923 of this title is available, see section 129(b) of Pub. L. 109–248, set out as a note under section 14071 of this title.
 
 #### Effective Date
 

@@ -10,5 +10,5 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 #### Codification
 
-“Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]” substituted in text for “Act entitled ‘An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes,’ approved September twenty-sixth, nineteen hundred and fourteen” on authority of section 18 of that Act \[15 U.S.C. 58\].
+“Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]” substituted in text for “Act entitled ‘An Act to create a Federal Trade Commission, to define its powers andduties, and for other purposes,’ approved September twenty-sixth, nineteen hundred and fourteen” on authority of section 18 of that Act \[15 U.S.C. 58\].
 

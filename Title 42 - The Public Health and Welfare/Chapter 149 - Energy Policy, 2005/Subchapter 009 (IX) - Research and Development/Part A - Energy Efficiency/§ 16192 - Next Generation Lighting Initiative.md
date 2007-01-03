@@ -26,7 +26,7 @@ In this section:
 
 #### (b) Initiative
 
-The Secretary shall carry out a Next Generation Lighting Initiative in accordance with this section to support research, development, demonstration, and commercial application activities related to advanced solid-state lighting technologies based on white light emitting diodes.
+The Secretary shall carry out a Next Generation Lighting Initiative in accordance with this section to support research, development, demonstration, and commercial application activities related to advanced solid-state lightingtechnologies based on white light emitting diodes.
 
 #### (c) Objectives
 

@@ -20,7 +20,7 @@ With respect to a hospital-based skilled nursing facility, the Secretary may not
 
 #### (c) Adjustments in limitations; publication of data
 
-The Secretary may make adjustments in the limits set forth in subsection (a) of this section with respect to any skilled nursing facility to the extent the Secretary deems appropriate, based upon case mix or circumstances beyond the control of the facility. The Secretary shall publish the data and criteria to be used for purposes of this subsection on an annual basis.
+The Secretary may make adjustments in the limits set forth in subsection (a) of this sectionwith respect to any skilled nursing facility to the extent the Secretary deems appropriate, based upon case mix or circumstances beyond the control of the facility. The Secretary shall publish the data and criteria to be used for purposes of this subsection on an annual basis.
 
 #### (d) Access to skilled nursing facilities
 
@@ -72,7 +72,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;&emsp;(I) means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A of this subchapter; and
 
-&emsp;&emsp;&emsp;&emsp;(II) includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B of this subchapter and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
+&emsp;&emsp;&emsp;&emsp;(II) includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B of this subchapter and which are furnishedto an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
 
 #### (ii) Services excluded
 
@@ -254,7 +254,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (B) Skilled nursing facility market basket percentage
 
-&emsp;&emsp;The term “skilled nursing facility market basket percentage” means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
+&emsp;&emsp;The term “skilled nursing facility market basket percentage” means, for a fiscal yearor other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
 
 #### (6) Submission of resident assessment data
 
@@ -264,7 +264,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (A) Transition
 
-&emsp;&emsp;Subject to subparagraph (C), the Secretary shall determine an appropriate manner in which to apply this subsection to the facilities described in subparagraph (B) (other than critical access hospitals), taking into account the purposes of this subsection, and shall provide that at the end of the transition period (as defined in paragraph (2)(E)) such facilities shall be paid only under thissubsection. Payment shall not be made under this subsection to such facilities for cost reporting periods beginning before such date (not earlier than July 1, 1999) as the Secretary specifies.
+&emsp;&emsp;Subject to subparagraph (C), the Secretary shall determine an appropriate manner in which to apply this subsection to the facilities described in subparagraph (B) (other than critical access hospitals), taking into account the purposes of this subsection, and shall provide that at the end of the transition period (as defined in paragraph (2)(E)) such facilities shall be paid only under this subsection. Payment shall not be made under this subsection to such facilities for cost reporting periods beginning before such date (not earlier than July 1, 1999) as the Secretary specifies.
 
 #### (B) Facilities described
 
@@ -314,7 +314,7 @@ Parts A and B of this subchapter, referred to in subsec. (e), are classified to 
 
 Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, referred to in subsec. (e)(12)(A), is section 1000(a)(6) \[title I, §101\] of Pub. L. 106–113, div. B, Nov. 29, 1999, 113 Stat. 1536, 1501A–324, which is not classified to the Code.
 
-Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referredto in subsec. (e)(12)(A), is section 1(a)(6) \[title III, §314(a)\] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
+Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) \[title III, §314(a)\] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
 
 #### Amendments
 
@@ -404,7 +404,7 @@ Subsec. (d). Pub. L. 99–272, §9126(a), added subsec. (d).
 
 Subsec. (d)(1). Pub. L. 99–514, §1895(b)(7)(A), substituted “cost reporting period” for “fiscal year” in five places.
 
-Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted “cost reporting periods beginning in a fiscalyear” for “each fiscal year” and “cost reporting period no later than 30 days before the beginning of that period” for “fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year”.
+Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted “cost reporting periods beginning in a fiscal year” for “each fiscal year” and “cost reporting period no later than 30 days before the beginning of that period” for “fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year”.
 
 #### Effective Date of 2003 Amendment
 
@@ -474,7 +474,7 @@ Pub. L. 106–554, §1(a)(6) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2
 
 &emsp;“(1) for the period beginning on October 1, 2000, and ending on March 31, 2001, shall be the rate determined in accordance with the law as in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]; and
 
-&emsp;“(2) for the period beginning on April 1, 2001, and ending on September 30, 2001, shall be the rate that would have been determined under such section if‘plus 1 percentage point’ had been substituted for ‘minus 1 percentage point’ under subclause (II) of such paragraph (as in effect on the day before the date of the enactment of this Act).”
+&emsp;“(2) for the period beginning on April 1, 2001, and ending on September 30, 2001, shall be the rate that would have been determined under such section if ‘plus 1 percentage point’ had been substituted for ‘minus 1 percentage point’ under subclause (II) of such paragraph (as in effect on the day before the date of the enactment of this Act).”
 
 Pub. L. 106–554, §1(a)(6) \[title V, §547(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–553, provided that: “The payment increase provided under section 311(b)(2) \[set out as a note above\] (relating to covered skilled nursing facility services) shall not apply to services furnished after fiscal year 2001 and shall not be taken into account in calculating the payment amounts applicable for services furnished after such fiscal year.”
 
@@ -528,7 +528,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §105(c)\], Nov. 29, 1999, 11
 
 #### Medical Review Process
 
-Section 4432(c) of Pub. L. 105–33 provided that: “In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section \[amending this section and sections 1395i–3, 1395k, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title\] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians’ services for which payment is made under title XVIII of the Social Security Act \[this subchapter\].”
+Section 4432(c) of Pub. L. 105–33 provided that: “In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made bythis section \[amending this section and sections 1395i–3, 1395k, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title\] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians’ services for which payment is made under title XVIII of the Social Security Act \[this subchapter\].”
 
 #### Construction of Wage Index for Skilled Nursing Facilities
 
@@ -536,7 +536,7 @@ Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided th
 
 #### No Change in Limits on Per Diem Service Costs for Extended Care Services for Fiscal Years 1994 and 1995
 
-Section 13503(a)(1) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[this section\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the precedingsentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
+Section 13503(a)(1) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[this section\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
 
 #### No Change in Prospective Payments for Services Furnished During Fiscal Years 1994 and 1995
 

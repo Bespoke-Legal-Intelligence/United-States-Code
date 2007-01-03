@@ -22,7 +22,7 @@ Reimbursement.—(1) The Department of the Army, the Department of the Navy, and
 
 (2) Members of the Army, Navy, Marine Corps, and Coast Guard may only be detailed for instruction at the Institute on a space-available basis.
 
-(3) In the case of an enlisted member of the Army, Navy, Marine Corps, and Coast Guard permitted to receive instruction at the Institute, the Secretary of the Air Force shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into consideration the admission of enlisted members on a space-available basis).
+(3) In the case of an enlisted member of the Army, Navy, Marine Corps, and Coast Guard permitted to receive instruction at the Institute, the Secretary of the Air Force shall charge that member only for such costs and fees as the Secretary considers appropriate (taking intoconsideration the admission of enlisted members on a space-available basis).
 
 (d)
 

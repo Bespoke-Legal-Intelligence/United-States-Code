@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Area vocational education school
 
-&emsp;The term “area vocational education school” has the meaning given the term in section 2302 <sup>1</sup> of title 20.
+&emsp;The term “area vocational education school” has the meaning given the term “area career and technical education school” in section 2302 of title 20.
 
 #### (4) Basic skills deficient
 
@@ -194,7 +194,7 @@ In this chapter:
 
 #### (26) Nontraditional employment
 
-&emsp;The term “nontraditional employment” refers to occupations or fields of work for whichindividuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
+&emsp;The term “nontraditional employment” refers to occupations or fields of work for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
 
 #### (27) Offender
 
@@ -328,7 +328,7 @@ In this chapter:
 
 #### (50) Vocational education
 
-&emsp;The term “vocational education” has the meaning given the term in section 2471 <sup>2</sup> of title 20.
+&emsp;The term “vocational education” has the meaning given the term “career and technical education” in section 2302 of title 20.
 
 #### (51) Workforce investment activity
 
@@ -342,25 +342,25 @@ In this chapter:
 
 &emsp;The term “youth council” means a council established under section 2832(h) of this title.
 
-(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–110, title X, §1076(w), Jan. 8, 2002, 115 Stat. 2093.)
+(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–110, title X, §1076(w), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 109–270, §2(h)(1), (2), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
-Section 2302 of title 20, referred to in par. (3), defines the term “area vocational and technical education school” but not the term “area vocational education school”.
-
 The Food Stamp Act of 1977, referred to in par. (25)(C), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 This Act, referred to in par. (27)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
-
-Section 2471 of title 20, referred to in par. (50), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1503 of this title prior to repeal by Pub. L. 105–220.
 
 #### Amendments
+
+2006—Par. (3). Pub. L. 109–270, §2(h)(1), substituted “given the term ‘area career and technical education school’ ” for “given the term” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
+
+Par. (50). Pub. L. 109–270, §2(h)(2), substituted “given the term ‘career and technical education’ in section 2302 of title 20.” for “given the term in section 2471 of title 20.”
 
 2002—Pars. (23), (40). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
@@ -377,6 +377,10 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–281, §1, Sept. 22, 2006, 120 Stat. 1173, provided that: “This Act \[enacting section 2918a of this title, amending section 2939 of this title, section 1701u of Title 12, Banks and Banking, section 4183 of Title 25, Indians, and section 12870 of Title 42, The Public Health and Welfare, repealing sections 12899 to 12899i of Title 42, and enacting provisions set out as notes under section 2918a of this title and section 1701u of Title 12\] may be cited as the ‘YouthBuild Transfer Act’.”
 
 #### Declaration of Policy
 
@@ -416,7 +420,7 @@ Sec. 2. <i>Establishment of the Council on the 21st Century Workforce.</i>
 
 &emsp;(ii) The Council shall be composed of not more than 13 members who shall be appointed by the President. The membership shall include individuals who represent the views of business and labor organizations, Federal, State, and local governments, academicians and educators, and such other associations and entities as the President determines are appropriate. In addition, the Secretary of Labor and the Director of the Office of Personnel Management shall serve as ex officio members representing the views of the Federal Government. The Secretary of Labor shall be the Chairperson of the Council.
 
-(b) <i>Functions of the Council</i>. The Council shall provide information and advice to the President through the Secretary of Labor, the Office of the 21st Century Workforce within the Department of Labor, and other appropriate Federal officials relating to issues affecting the 21st century workforce. These activities shall include:
+(b) <i>Functions of the Council</i>. The Council shall provide information and advice to the President through theSecretary of Labor, the Office of the 21st Century Workforce within the Department of Labor, and other appropriate Federal officials relating to issues affecting the 21st century workforce. These activities shall include:
 
 &emsp;(i) assessing the effects of rapid technological changes, demographic trends, globalization, changes in work processes, and the need for new and enhanced skills for workers, employers, and other related sectors of society;
 

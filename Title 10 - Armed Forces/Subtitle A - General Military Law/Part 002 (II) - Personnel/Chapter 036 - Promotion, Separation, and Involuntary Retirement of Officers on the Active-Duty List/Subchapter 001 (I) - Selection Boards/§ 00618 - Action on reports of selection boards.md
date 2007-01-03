@@ -28,7 +28,9 @@
 
 (2) If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title.
 
-(d) The name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
+(d)(1) Except as provided in paragraph (2), the name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
+
+(2) In the case of an officer recommended by a selection board for promotion to a grade below brigadier general or rear admiral (lower half), the name of the officer may also be removed from the report of the selection board by the Secretary of Defense or the Deputy Secretary of Defense.
 
 (e)(1) The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
 
@@ -44,13 +46,17 @@
 
 &emsp;(B) the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
 
-(f) Except as authorized or required by this section, proceedings of a selection board convened under section 611(a) of this title may not be disclosed to any person not a member of the board.
+\[(f) Repealed. Pub. L. 109–364, div. A, title V, §547(a)(2), Oct. 17, 2006, 120 Stat. 2216.\]
 
 (g) If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 98–525, title V, §524(a), Oct. 19, 1984, 98 Stat. 2524; Pub. L. 99–433, title IV, §402(c), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(d), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(c), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), (9), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 106–398, §1 \[\[div. A\], title V, §503(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 98–525, title V, §524(a), Oct. 19, 1984, 98 Stat. 2524; Pub. L. 99–433, title IV, §402(c), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(d), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(c), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), (9), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 106–398, §1 \[\[div. A\], title V, §503(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100; Pub. L. 109–364, div. A, title V, §§513(a), 547(a)(2), Oct. 17, 2006, 120 Stat. 2184, 2216.)
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–364, §513(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the name” for “The name”, and added par. (2).
+
+Subsec. (f). Pub. L. 109–364, §547(a)(2), struck out subsec. (f) which read as follows: “Except as authorized or required by this section, proceedings of a selection board convened under section 611(a) of this title may not be disclosed to any person not a member of the board.”
 
 2000—Subsec. (e). Pub. L. 106–398 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Upon approval by the President of the report of a selection board, the names of the officers recommended for promotion by the selection board (other than any name removed by the President) may be disseminated to the armed force concerned. If such names have not been sooner disseminated, such names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.”
 
@@ -72,13 +78,17 @@ Subsecs. (d) to (f). Pub. L. 99–433, §402(c)(1), redesignated subsecs. (c) to
 
 1984—Subsec. (b)(2). Pub. L. 98–525 substituted “If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title” for “The Secretary concerned may submit to a board of officers convened under section 1181 of this title the name of any officer who is named in the report of a selection board as having a record which indicates that the officer should be required to show cause for his retention on active duty”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title V, §513(c), Oct. 17, 2006, 120 Stat. 2185, provided that: “The amendments made by this section \[amending this section and section 14111 of this title\] shall apply with respect to selection boards convened on or after the date of the enactment of this Act \[Oct. 17, 2006\].”
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title after end of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and applicable with respect to selection boards convened under section 611(a) of this title on or after that effective date, see section 501(e) of Pub. L. 100–456, set out as a note under section 615 of this title.
+Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and applicable with respect to selectionboards convened under section 611(a) of this title on or after that effective date, see section 501(e) of Pub. L. 100–456, set out as a note under section 615 of this title.
 
 #### Effective Date of 1986 Amendment
 

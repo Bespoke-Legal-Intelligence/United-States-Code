@@ -18,7 +18,7 @@ If the sums appropriated under section 10409 of this title for any fiscal year a
 
 #### (d) Reallotment; continued availability of funds
 
-(1) If, at the end of the sixth month of any fiscal year for which sums are appropriated undersection 10409 of this title, the amount allotted to a State has not been made available to such State in grants under section 10402(a) of this title because of the failure of such State to meet the requirements for a grant, then the Secretary shall reallot such amount to States which meet such requirements.
+(1) If, at the end of the sixth month of any fiscal year for which sums are appropriated under section 10409 of this title, the amount allotted to a State has not been made available to such State in grants under section 10402(a) of this title because of the failure of such State to meet the requirements for a grant, then the Secretary shall reallot such amount to States which meet such requirements.
 
 (2) Funds made available by the Secretary through reallotment under paragraph (1) shall remain available for expenditure until the end of the fiscal year following the fiscal year in which such funds become available for reallotment.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General, acting through the Office of Community Oriented Policing Services, is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.
+The Director of the Office of Community Oriented Policing Services (in this section referred to as the “Director”) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.
 
 #### (b) Uses of funds
 
@@ -16,11 +16,11 @@ Grants awarded under this section shall be distributed directly to the State, un
 
 &emsp;(4) Coordination with local law enforcement.
 
-&emsp;(5) Any other measure that, in the determination of the Attorney General, may provide a significant improvement in security.
+&emsp;(5) Any other measure that, in the determination of the Director, may provide a significant improvement in security.
 
 #### (c) Preferential consideration
 
-In awarding grants under this subchapter, the Attorney General shall give preferential consideration, if feasible, to an application from a jurisdiction that has a demonstrated need for improved security, has a demonstrated need for financial assistance, and has evidenced the ability to make the improvements for which the grant amounts are sought.
+In awarding grants under this subchapter, the Director shall give preferential consideration, if feasible, to an application from a jurisdiction that has a demonstrated need for improved security, has a demonstrated need for financial assistance, and has evidenced the ability to make the improvements for which the grant amounts are sought.
 
 #### (d) Matching funds
 
@@ -28,19 +28,23 @@ In awarding grants under this subchapter, the Attorney General shall give prefer
 
 (2) Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
 
-(3) The Attorney General may provide, in the guidelines implementing this section, for the requirement of paragraph (1) to be waived or altered in the case of a recipient with a financial need for such a waiver or alteration.
+(3) The Director may provide, in the guidelines implementing this section, for the requirement of paragraph (1) to be waived or altered in the case of a recipient with a financial need for such a waiver or alteration.
 
 #### (e) Equitable distribution
 
-In awarding grants under this subchapter, the Attorney General shall ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
+In awarding grants under this subchapter, the Director shall ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
 
 #### (f) Administrative costs
 
-The Attorney General may reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
+The Director may reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
 
-(Pub. L. 90–351, title I, §2701, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1501; amended Pub. L. 109–162, title XI, §1169(b), Jan. 5, 2006, 119 Stat. 3122.)
+(Pub. L. 90–351, title I, §2701, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1501; amended Pub. L. 109–162, title XI, §1169(b), Jan. 5, 2006, 119 Stat. 3122; Pub. L. 109–271, §8(j), Aug. 12, 2006, 120 Stat. 767.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162 inserted “, acting through the Office of Community Oriented Policing Services,” after “The Attorney General”.
+2006—Subsec. (a). Pub. L. 109–271, §8(j)(1), substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
+
+Pub. L. 109–162 inserted “, acting through the Office of Community Oriented Policing Services,” after “The Attorney General”.
+
+Subsecs. (b) to (f). Pub. L. 109–271, §8(j)(2), substituted “Director” for “Attorney General” wherever appearing.
 

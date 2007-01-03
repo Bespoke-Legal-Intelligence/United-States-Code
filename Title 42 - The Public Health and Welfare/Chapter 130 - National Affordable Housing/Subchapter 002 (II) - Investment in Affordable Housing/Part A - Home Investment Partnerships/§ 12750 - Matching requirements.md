@@ -104,7 +104,7 @@ Subsec. (a)(1). Pub. L. 102–550, §210(a)(1), substituted “, housing rehabi
 
 Subsec. (a)(2). Pub. L. 102–550, §210(a)(2), substituted “30” for “33” and “new construction.” for “substantial rehabilitation; and”.
 
-Subsec. (a)(3). Pub. L. 102–550, §210(a)(3), struck out par. (3) which read as follows: “50 percent of the totalfunds drawn from the jurisdiction's HOME Investment Trust Fund in that fiscal year with respect to new construction.”
+Subsec. (a)(3). Pub. L. 102–550, §210(a)(3), struck out par. (3) which read as follows: “50 percent of the total funds drawn from the jurisdiction's HOME Investment Trust Fund in that fiscal year with respect to new construction.”
 
 Subsec. (b)(2). Pub. L. 102–550, §207(c)(1), substituted “may not be recognized for purposes of subsection (a) of this section” for “shall be recognized only up to an amount equal to 7 percent of funds provided for investment under this subchapter”.
 

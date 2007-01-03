@@ -6,7 +6,7 @@
 
 (2) Upon attaining the age of 21 years, each enrolled member of the Tribe (determined by the Tribe pursuant to its constitution to have been a member as of the date of ratification of the Settlement Agreement by the Tribe) shall receive a one-time payment from the fund. The amount of such payment shall be determined in accordance with section II of the Settlement Agreement and document 2 of the Technical Documents.
 
-(3) A reasonable and customary fee for the administration of the fund may be paid out of theincome earned by the fund to the financial institution with which the fund is established.
+(3) A reasonable and customary fee for the administration of the fund may be paid out of the income earned by the fund to the financial institution with which the fund is established.
 
 (4) Upon payment to all eligible members of the Tribe pursuant to paragraph (2), any amount remaining in the fund shall be utilized in the manner determined by a vote of the members of the Tribe.
 

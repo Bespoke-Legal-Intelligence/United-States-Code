@@ -4,7 +4,7 @@
 
 (1) There is hereby established, as an independent organization in the executive branch of the Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
 
-(2)(A) Nine members shall be appointed, without regard to political affiliation, to the Councilin accordance with this paragraph from among individuals who are practitioners in the field of juvenile justice and who are not officers or employees of the United States.
+(2)(A) Nine members shall be appointed, without regard to political affiliation, to the Council in accordance with this paragraph from among individuals who are practitioners in the field of juvenile justice and who are not officers or employees of the United States.
 
 (B)(i) Three members shall be appointed by the Speaker of the House of Representatives, after consultation with the minority leader of the House of Representatives.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a noteunder section 8332 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1988 Amendment
 

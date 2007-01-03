@@ -50,7 +50,7 @@ Subsection (c) is written as a condition precedent to enlistment or transfer, an
 
 Subsec. (b). Pub. L. 85–578 struck out “at least” before “20 percent” and “who, with their consent, are discharged for the purpose of enlisting as aviation cadets” after “Regular Marine Corps”.
 
-Subsec. (c). Pub. L. 85–578 designated existing provisions as cls. (1) and (2), made phraseological changes including the substitution of “designated” for “transferred”, and prescribed consent for one under 21 yearsof age instead of one described as minor and active duty service with commissioned status for minimum three year period instead of maximum four year period and unspecified grade.
+Subsec. (c). Pub. L. 85–578 designated existing provisions as cls. (1) and (2), made phraseological changes including the substitution of “designated” for “transferred”, and prescribed consent for one under 21 years of age instead of one described as minor and active duty service with commissioned status for minimum three year period instead of maximum four year period and unspecified grade.
 
 Subsec. (d). Pub. L. 85–578 substituted “naval service” for “Naval Reserve or the Marine Corps Reserve” and struck out “as appropriate” after such term.
 

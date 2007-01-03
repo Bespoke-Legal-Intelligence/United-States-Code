@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Oct. 28, 1949, ch. 782, §502(a), 63 Stat. 958.
 
-The words “to which this chapter applies” are omitted as unnecessary in view of section 5102. The words“Subject to section 5337 of this title” are added to reflect the qualification imposed by that section.
+The words “to which this chapter applies” are omitted as unnecessary in view of section 5102. The words “Subject to section 5337 of this title” are added to reflect the qualification imposed by that section.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

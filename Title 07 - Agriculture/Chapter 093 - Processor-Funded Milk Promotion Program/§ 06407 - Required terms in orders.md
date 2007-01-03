@@ -16,7 +16,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (3) Regions
 
-&emsp;The Secretary shall establish not less than 12 nor more than 15 regions in order to ensure appropriate geographic representation on the Board.
+&emsp;The Secretary shall establish not less than 12 nor more than 15 regions in order to ensureappropriate geographic representation on the Board.
 
 #### (4) Board membership
 

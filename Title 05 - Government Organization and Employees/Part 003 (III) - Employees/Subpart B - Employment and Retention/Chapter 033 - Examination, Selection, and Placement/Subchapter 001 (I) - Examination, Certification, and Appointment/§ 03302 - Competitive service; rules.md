@@ -92,7 +92,7 @@ Section 1. (a) Subject to paragraph (b) of this section, the head of an agency m
 
 Sec. 2. (a) A person eligible for appointment under section 1 of this order may be appointed only within one year after his separation from the armed forces, or one year following his release from hospitalization or treatment immediately following his separation from the armed forces, or one year after involuntary separation without cause from (i) a veterans readjustment appointment or (ii) a transitional appointment, or one year after the effective date of this order if he is serving under a transitional appointment.
 
-(b) The Office of Personnel Management may determine the circumstances under which service under a transitional appointment may be deemed service under a veterans readjustment appointment for the purpose of paragraph (f) of section 1 of this order.
+(b) The Office of Personnel Management may determine the circumstances under which service under atransitional appointment may be deemed service under a veterans readjustment appointment for the purpose of paragraph (f) of section 1 of this order.
 
 Sec. 3. Any law, Executive order, or regulation which would disqualify an applicant for appointment in the competitive service shall also disqualify a person otherwise eligible for appointment under section 1 of this order.
 

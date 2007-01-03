@@ -30,7 +30,9 @@ The Executive departments are:
 
 &emsp;The Department of Veterans Affairs.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378; Pub. L. 89–670, §10(b), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(1), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §710(a), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(b), Oct. 17, 1979, 93Stat. 692; Pub. L. 100–527, §13(b), Oct. 25, 1988, 102 Stat. 2643.)
+&emsp;The Department of Homeland Security.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378; Pub. L. 89–670, §10(b), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(1), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §710(a), Aug. 4, 1977, 91 Stat. 609;Pub. L. 96–88, title V, §508(b), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(b), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–241, title IX, §902(a)(1), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 
@@ -76,6 +78,8 @@ The statement in former section 2 that the use of the word “department” mean
 
 #### Amendments
 
+2006—Pub. L. 109–241 inserted “The Department of Homeland Security.”
+
 1988—Pub. L. 100–527 inserted “The Department of Veterans Affairs.”
 
 1979—Pub. L. 96–88 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare” and inserted “The Department of Education.”
@@ -102,6 +106,12 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–435, title VIII, §801, Dec. 20, 2006, 120 Stat. 3249, provided that: “This title \[enacting section 8909a of this title, amending sections 8334, 8348, and 8906 of this title, enacting provisions set out as notes under sections 8334, 8348, and 8909a of this title, and repealing provisions set out as a note preceding section 2001 of Title 39, Postal Service\] may be cited as the ‘Postal Civil Service Retirement and Health Benefits Funding Amendments of 2006’.”
+
+Pub. L. 109–356, §1(a), Oct. 16, 2006, 120 Stat. 2019, provided that: “This Act \[amending sections 5102, 8951, 8981, and 9001 of this title, sections 202, 214, 215b, 216, 216a, 221, 321, and 1813 of Title 12, Banks and Banking, and section 57a of Title 15, Commerce and Trade\] may be cited as the ‘2005 District of Columbia Omnibus Authorization Act’.”
+
 #### Short Title of 2004 Amendments
 
 Pub. L. 108–496, §1, Dec. 23, 2004, 118 Stat. 4001, provided that: “This Act \[enacting chapters 89A and 89B of this title, amending section 1005 of Title 39, Postal Service, and enacting provisions set out as a note under section 8951 of this title\] may be cited as the ‘Federal Employee Dental and Vision Benefits Enhancement Act of 2004’.”
@@ -126,11 +136,11 @@ Pub. L. 108–18, §1, Apr. 23, 2003, 117 Stat. 624, provided that: “This Act 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–296, title XIII, §1301, Nov. 25, 2002, 116 Stat. 2287, provided that: “This title \[enacting chapter 14 of this title, subchapter II of chapter 35 of this title, and section 3319 of this title, amending sections 1103, 3111, 3304, 3393, 3592 to 3594, 4107, 5307, 7701, 7905, 8336, 8339, 8414, and 8421 of this title, sections 1115 and 1116 of Title 31, Money and Finance, and section 1902 of Title 50, War and National Defense, repealing section 3393a of this title, enacting provisions set out as notes under sections 1103, 1401, 3301, 3521, 3592, 3593, and 8336 of this title, and repealing provisions set out as notes under sections 8336 and 8414 of this title\] may be cited as the ‘Chief Human Capital Officers Act of 2002’.”
+Pub. L. 107–296, title XIII, §1301, Nov. 25, 2002, 116 Stat. 2287, provided that: “This title \[enacting chapter14 of this title, subchapter II of chapter 35 of this title, and section 3319 of this title, amending sections 1103, 3111, 3304, 3393, 3592 to 3594, 4107, 5307, 7701, 7905, 8336, 8339, 8414, and 8421 of this title, sections 1115 and 1116 of Title 31, Money and Finance, and section 1902 of Title 50, War and National Defense, repealing section 3393a of this title, enacting provisions set out as notes under sections 1103, 1401, 3301, 3521, 3592, 3593, and 8336 of this title, and repealing provisions set out as notes under sections 8336 and 8414 of this title\] may be cited as the ‘Chief Human Capital Officers Act of 2002’.”
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–27, §1, Aug. 20, 2001, 115 Stat. 207, provided that: “This Act \[amending sections 8335 and 8425 of thistitle\] may be cited as the ‘Federal Firefighters Retirement Age Fairness Act’.”
+Pub. L. 107–27, §1, Aug. 20, 2001, 115 Stat. 207, provided that: “This Act \[amending sections 8335 and 8425 of this title\] may be cited as the ‘Federal Firefighters Retirement Age Fairness Act’.”
 
 #### Prohibition Against Construction That Would Render Applicable to the Department of Transportation Provisions of Law Inconsistent With Pub. L. 89–670 Creating the Department of Transportation
 

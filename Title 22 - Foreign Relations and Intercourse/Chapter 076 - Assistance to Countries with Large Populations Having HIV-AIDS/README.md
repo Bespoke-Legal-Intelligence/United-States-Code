@@ -4,8 +4,6 @@
 | :--- | ---: |
 | [6801\.](%C2%A7%2006801%20-%20Definitions.md) | Definitions. |
 | [6802\.](%C2%A7%2006802%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -14,12 +12,7 @@
 |  |  |
 | :--- | ---: |
 | [6811\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Assistance/%C2%A7%2006811%20-%20Coordinated%20donor%20strategy%20for%20support%20and%20education%20of%20orphans%20in%20sub-Saharan%20Africa.md) | Coordinated donor strategy for support and education of orphans in sub-Saharan Africa. |
-| (a) | Statement of policy. |
-| (b) | Development of strategy. |
-| (c) | Definition. |
 | [6812\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Assistance/%C2%A7%2006812%20-%20African%20crisis%20response%20initiative%20and%20HIV-AIDS%20training.md) | African crisis response initiative and HIV/AIDS training. |
-| (a) | Findings. |
-| (b) | Education on the prevention of the spread of AIDS. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,25 +23,9 @@
 |  |  |
 | :--- | ---: |
 | [6821\.](Subchapter%20002%20%28II%29%20-%20World%20Bank%20AIDS%20Trust%20Fund/Part%20A%20-%20Establishment%20of%20the%20Fund/%C2%A7%2006821%20-%20Establishment.md) | Establishment. |
-| (a) | Negotiations for establishment of Trust Fund. |
-| (b) | Purpose. |
-| (c) | Composition. |
 | [6822\.](Subchapter%20002%20%28II%29%20-%20World%20Bank%20AIDS%20Trust%20Fund/Part%20A%20-%20Establishment%20of%20the%20Fund/%C2%A7%2006822%20-%20Grant%20authorities.md) | Grant authorities. |
-| (a) | Program objectives. |
-| (b) | Priority. |
-| (c) | Eligible grant recipients. |
-| (d) | Prohibition. |
 | [6823\.](Subchapter%20002%20%28II%29%20-%20World%20Bank%20AIDS%20Trust%20Fund/Part%20A%20-%20Establishment%20of%20the%20Fund/%C2%A7%2006823%20-%20Administration.md) | Administration. |
-| (a) | Appointment of an Administrator. |
-| (b) | Authority to solicit and accept contributions. |
-| (c) | Accountability of funds and criteria for programs. |
-| (d) | Selection of projects and recipients. |
-| (e) | Transparency of operations. |
 | [6824\.](Subchapter%20002%20%28II%29%20-%20World%20Bank%20AIDS%20Trust%20Fund/Part%20A%20-%20Establishment%20of%20the%20Fund/%C2%A7%2006824%20-%20Advisory%20Board.md) | Advisory Board. |
-| (a) | In general. |
-| (b) | Appointments. |
-| (c) | Responsibilities. |
-| (d) | Prohibition on payment of compensation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,9 +34,6 @@
 |  |  |
 | :--- | ---: |
 | [6831\.](Subchapter%20002%20%28II%29%20-%20World%20Bank%20AIDS%20Trust%20Fund/Part%20B%20-%20Reports/%C2%A7%2006831%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| (a) | Annual reports by Treasury Secretary. |
-| (b) | GAO report on Trust Fund effectiveness. |
-| (c) | Appropriate committees defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,11 +42,7 @@
 |  |  |
 | :--- | ---: |
 | [6841\.](Subchapter%20002%20%28II%29%20-%20World%20Bank%20AIDS%20Trust%20Fund/Part%20C%20-%20United%20States%20Financial%20Participation/%C2%A7%2006841%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Allocation of funds. |
 | [6842\.](Subchapter%20002%20%28II%29%20-%20World%20Bank%20AIDS%20Trust%20Fund/Part%20C%20-%20United%20States%20Financial%20Participation/%C2%A7%2006842%20-%20Certification%20requirement.md) | Certification requirement. |
-| (a) | In general. |
-| (b) | Transmittal of certification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

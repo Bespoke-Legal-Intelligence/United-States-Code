@@ -22,7 +22,7 @@ The Secretary of Defense may exercise the authority provided in section 1013 of 
 
 #### Effective Date of 1989 Amendment
 
-Section 2831(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only to funds appropriated or transferred to, or otherwise deposited in, the Department of Defense Base Closure Account for, or during, fiscal years beginning after September 30, 1989.”
+Section 2831(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply only to funds appropriated or transferred to, or otherwise deposited in, the Department of Defense Base Closure Account for, or during, fiscal years beginning after September 30, 1989.”
 
 #### Effective Date
 

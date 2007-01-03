@@ -8,6 +8,8 @@ From and after the filing with the Secretary of the Interior or such officer as 
 
 Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
+The reclamation Act, referred to in text, probably means act June 17, 1902, see note above.
+
 #### Transfer of Functions
 
 “Secretary of the Interior or such officer as he may designate” substituted in text for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.

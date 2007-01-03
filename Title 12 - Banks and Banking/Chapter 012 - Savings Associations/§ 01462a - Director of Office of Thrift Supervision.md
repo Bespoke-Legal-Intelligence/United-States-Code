@@ -26,7 +26,7 @@ There is established the Office of Thrift Supervision, which shall be an office 
 
 #### (1) Appointment
 
-&emsp;The Director shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States.
+&emsp;The Director shall be appointed by the President, by and with the advice and consentof the Senate, from among individuals who are citizens of the United States.
 
 #### (2) Term
 
@@ -34,15 +34,45 @@ There is established the Office of Thrift Supervision, which shall be an office 
 
 #### (3) Vacancy
 
-&emsp;A vacancy in the position of Director which occurs before the expiration of the term for which a Director was appointed shall be filled in the manner established in paragraph (1) and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
+#### (A) In general
+
+&emsp;&emsp;A vacancy in the position of Director which occurs before the expiration of the term for which a Director was appointed shall be filled in the manner established in paragraph (1) and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
+
+#### (B) Acting Director
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the event of a vacancy in the position of Director or during the absence or disability of the Director, the Deputy Director shall serve as Acting Director.
+
+#### (ii) Succession in case of 2 or more Deputy Directors
+
+&emsp;&emsp;&emsp;If there are 2 or more Deputy Directors serving at the time a vacancy in the position of Director occurs or the absence or disability of the Director commences, the First Deputy Director shall serve as Acting Director under clause (i) followed by such other Deputy Directors under any order of succession the Director may establish.
+
+#### (iii) Authority of Acting Director
+
+&emsp;&emsp;&emsp;Any Deputy Director, while serving as Acting Director under this subparagraph, shall be vested with all authority, duties, and privileges of the Director under this chapter and any other provision of Federal law.
 
 #### (4) Service after end of term
 
 &emsp;An individual may serve as Director after the expiration of the term for which appointed until a successor Director has been appointed.
 
-#### (5) Transitional provision
+#### (5) Deputy Director
 
-&emsp;Notwithstanding paragraphs (1) and (2), the Chairman of the Federal Home Loan Bank Board on the date of enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\], shall be the Director until the date on which that individual's term as Chairman of the Federal Home Loan Bank Board would have expired.
+#### (A) In general
+
+&emsp;&emsp;The Secretary of the Treasury shall appoint a Deputy Director, and may appoint not more than 3 additional Deputy Directors of the Office.
+
+#### (B) First Deputy Director
+
+&emsp;&emsp;If the Secretary of the Treasury appoints more than 1 Deputy Director of the Office, the Secretary shall designate one such appointee as the First Deputy Director.
+
+#### (C) Duties
+
+&emsp;&emsp;Each Deputy Director appointed under this paragraph shall take an oath of office and perform such duties as the Director shall direct.
+
+#### (D) Compensation and benefits
+
+&emsp;&emsp;The Director shall fix the compensation and benefits for each Deputy Director in accordance with this chapter.
 
 #### (d) Prohibition on financial interests
 
@@ -52,7 +82,7 @@ The Director shall not have a direct or indirect financial interest in any insur
 
 The Director shall have all powers which—
 
-&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such)or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
+&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such) or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
 
 &emsp;(2) were not—
 
@@ -112,17 +142,21 @@ The compensation of the Director and other employees of the Office and all other
 
 The Director shall make available to the Comptroller General of the United States all books and records necessary to audit all of the activities of the Office of Thrift Supervision.
 
-(June 13, 1933, ch. 64, §3, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278; amended Pub. L. 103–325, title III, §331(c), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 103–328, title I, §102(b)(5), Sept. 29, 1994, 108 Stat. 2352.)
+(June 13, 1933, ch. 64, §3, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278; amended Pub. L. 103–325, title III, §331(c), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 103–328, title I, §102(b)(5), Sept. 29, 1994, 108 Stat. 2352; Pub. L. 109–351, title VII, §712, Oct. 13, 2006, 120 Stat. 1994.)
 
 #### References in Text
 
-The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsecs. (c)(5), (e), and (g)(2), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Section 308 of the Act is set out as a note under section 1463 of this title. For complete classification of this Act to the Code, see Tables.
+The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsecs. (e) and (g)(2), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Section 308 of the Act is set out as a note under section 1463 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
 A prior section 3 of act June 13, 1933, amended section 1424 of this title prior to the general revision of this chapter by Pub. L. 101–73, §301.
 
 #### Amendments
+
+2006—Subsec. (c)(3). Pub. L. 109–351, §712(b), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+
+Subsec. (c)(5). Pub. L. 109–351, §712(a), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), the Chairman of the Federal Home Loan Bank Board on the date of enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, shall be the Director until the date on which that individual's term as Chairman of the Federal Home Loan Bank Board would have expired.”
 
 1994—Subsec. (b)(3). Pub. L. 103–325, §331(c)(1), substituted “(including agency enforcement actions) unless otherwise specifically provided by law” for “unless otherwise provided by law”.
 

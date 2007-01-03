@@ -15,11 +15,6 @@
 | [3221\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003221%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [3222\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003222%20-%20Uranium%20enrichment%20capacity.md) | Uranium enrichment capacity. |
 | [3223\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003223%20-%20International%20undertakings.md) | International undertakings. |
-| (a) | Development of international approaches for meeting future worldwide nuclear fuel needs; international nuclear fuel authority. |
-| (b), | (c) Omitted. |
-| (d) | Adherence of nations to policies designed to prevent proliferation. |
-| (e) | Report on progress of negotiations. |
-| (f) | Congressional approval of non-treaty international undertakings; submission of proposals. |
 | [3224\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003224%20-%20Reevaluation%20of%20nuclear%20fuel%20cycle.md) | Reevaluation of nuclear fuel cycle. |
 | [3224a.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003224a%20-%20Studies%20and%20agreements%20by%20Secretary%20of%20Energy%20on%20multinational%20or%20international%20basis%20concerning%20spent%20fuel%20storage%20facilities%20and%E2%80%A6.md) | Studies and agreements by Secretary of Energy on multinational or international basis concerning spent fuel storage facilities and transportation systems; Congressional consent; authorization of appropriations; limitations on use of funds; exceptions; special nuclear material for India. |
 
@@ -33,8 +28,6 @@
 | [3242\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/%C2%A7%2003242%20-%20Training%20program.md) | Training program. |
 | [3243\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/%C2%A7%2003243%20-%20Negotiations.md) | Negotiations. |
 | [3244\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/%C2%A7%2003244%20-%20Actions%20to%20combat%20international%20nuclear%20terrorism.md) | Actions to combat international nuclear terrorism. |
-| (a) | Actions to be taken by President. |
-| (b) | Reports to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,11 +37,6 @@
 | :--- | ---: |
 | [3261\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Assistance%20to%20Developing%20Countries/%C2%A7%2003261%20-%20Congressional%20declaration%20of%20policy%3B%20Presidential%20report%20to%20Congress.md) | Congressional declaration of policy; Presidential report to Congress. |
 | [3262\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Assistance%20to%20Developing%20Countries/%C2%A7%2003262%20-%20Programs.md) | Programs. |
-| (a) | Energy development programs. |
-| (b) | Energy assessments and cooperative projects. |
-| (c) | Exchange of scientists, technicians, and energy experts. |
-| (d) | Authorization of appropriations. |
-| (e) | Coordination with related United States activities abroad. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,15 +45,7 @@
 |  |  |
 | :--- | ---: |
 | [3281\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Reporting/%C2%A7%2003281%20-%20Annual%20Presidential%20report%20to%20Congress%20on%20governmental%20efforts%20to%20prevent%20proliferation.md) | Annual Presidential report to Congress on governmental efforts to prevent proliferation. |
-| (a) | Review of Government activities; description of progress; assessment of impact of progress; determinations regarding non-nuclear-weapon states; counterproductiveness of policies. |
-| (b) | Analysis of civil agreements for cooperation. |
 | [3282\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Reporting/%C2%A7%2003282%20-%20Reports%20by%20departments%20and%20agencies.md) | Reports by departments and agencies. |
-| (a) | Reports by Nuclear Regulatory Commission and Department of Energy. |
-| (b) | Additional reporting requirements. |
-| (c) | Committees on Foreign Relations and Governmental Affairs of Senate and Committee on International Relations of House of Representatives to be kept informed. |
-| (d) | Classified portions of reports. |
-| (e) | Omitted. |
-| (f) | Access by Secretary of Defense to information regarding nuclear proliferation matters; applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

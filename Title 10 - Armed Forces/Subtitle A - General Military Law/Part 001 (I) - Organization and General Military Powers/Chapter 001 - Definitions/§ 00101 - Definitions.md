@@ -108,6 +108,8 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(15) The term “dental officer” means an officer of the Dental Corps of the Army, an officer of the Dental Corps of the Navy, or an officer of the Air Force designated as a dental officer.
 
+&emsp;(16) The term “Active Guard and Reserve” means a member of a reserve component who is on active duty pursuant to section 12301(d) of this title or, if a member of the Army National Guard or Air National Guard, is on full-time National Guard duty pursuant to section 502(f) of title 32, and who is performing Active Guard and Reserve duty.
+
 (c)
 
 Reserve Components.—The following definitions relating to the reserve components apply in this title:
@@ -156,7 +158,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(5) The term “full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
-&emsp;(6)(A) The term “active Guard and Reserve duty” means active duty or full-time National Guard duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member of the National Guard, pursuant to an order to active duty or full-time National Guard duty for a period of 180 consecutive days or more for the purpose of organizing, administering, recruiting, instructing, or training the reserve components.
+&emsp;(6)(A) The term “active Guard and Reserve duty” means active duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member of the National Guard pursuant to an order to full-time National Guard duty, for a period of 180 consecutive days or more for the purpose of organizing, administering, recruiting, instructing, or training the reserve components.
 
 &emsp;(B) Such term does not include the following:
 
@@ -196,7 +198,7 @@ Range activities.—The term “range activities” means—
 
 &emsp;&emsp;(A) research, development, testing, and evaluation of military munitions, other ordnance, and weapons systems; and
 
-&emsp;&emsp;(B) the training of members of the armed forces in the use and handling of militarymunitions, other ordnance, and weapons systems.
+&emsp;&emsp;(B) the training of members of the armed forces in the use and handling of military munitions, other ordnance, and weapons systems.
 
 &emsp;(3)
 
@@ -258,7 +260,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193.)
 
 Historical and Revision Notes<br>1956
 
@@ -514,7 +516,7 @@ Sept. 3, 1954, ch. 1257, §102(6), 68 Stat. 1150.
 
 The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
 
-\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his current series of appointments and excludes any appointment made before a lapse in service.
+\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his currentseries of appointments and excludes any appointment made before a lapse in service.
 
 #### References in Text
 
@@ -536,6 +538,10 @@ Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of t
 
 Subsec. (a)(3). Pub. L. 109–163, §1057(a)(2), struck out “Territory or” before “Commonwealth”.
 
+Subsec. (b)(16). Pub. L. 109–364, §524(1), added par. (16).
+
+Subsec. (d)(6)(A). Pub. L. 109–364, §524(2), struck out “or full-time National Guard duty” after “means active duty” and substituted “pursuant to an order to full-time National Guard duty,” for “, pursuant to an order to active duty or full-time National Guard duty”.
+
 Subsec. (e)(4)(B)(ii). Pub. L. 109–163, §1056(c)(1), struck out comma after “bulk explosives”.
 
 2004—Subsec. (e)(3). Pub. L. 108–375 substituted “Secretary of a military department” for “Secretary of Defense” in introductory provisions.
@@ -544,7 +550,7 @@ Subsec. (e)(4)(B)(ii). Pub. L. 109–163, §1056(c)(1), struck out comma after �
 
 Subsec. (a)(16), (17). Pub. L. 108–136, §1043(a), added pars. (16) and (17).
 
-Subsecs.(e) to (g). Pub. L. 108–136, §1042(a), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (e) to (g). Pub. L. 108–136, §1042(a), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 1996—Subsec. (d)(4). Pub. L. 104–201 substituted “a member of a reserve component” for “a reserve commissioned officer, other than a commissioned warrant officer,”.
 
@@ -640,7 +646,7 @@ Amendment by section 1671(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1987 Amendment
 
-Section 1233(c)\[(1)\] of Pub. L. 100–180 provided that: “The amendments made by subsection (a) \[amending this section, section 2432 of this title, and section 406bof Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
+Section 1233(c)\[(1)\] of Pub. L. 100–180 provided that: “The amendments made by subsection (a) \[amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
 
 #### Effective Date of 1981 Amendment
 
@@ -674,7 +680,7 @@ Section 33(g) of Pub. L. 85–861 provided that: “This section \[see Tables fo
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–148, div. A, title VIII, §8126(a), Dec. 30, 2005, 119 Stat. 2728, provided that: “This Act \[probably should be “section”, which amended section 2554 of this title and section 5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees\] may be cited as the ‘Support Our Scouts Act of 2005’.”
+Pub. L. 109–148, div. A, title VIII, §8126(a), Dec. 30, 2005, 119 Stat. 2728, which provided that this Act, probably meaning section 8126 of div. A of Pub. L. 109–148, which amended section 2554 of this title and section 5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees, could be cited as the “Support Our Scouts Act of 2005”, was repealed by Pub. L. 109–364, div. A, title X, §1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
 
 #### Short Title of 1999 Amendment
 
@@ -710,13 +716,15 @@ Section 702 of Pub. L. 96–513 provided that: “If a provision of law that is 
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretaryof Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Public Health Service
 
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
+
+Pub. L. 109–364, div. A, title X, §1071(i), Oct. 17, 2006, 120 Stat. 2403, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Pub. L. 107–107, div. A, title X, §1048(j), Dec. 28, 2001, 115 Stat. 1230, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
@@ -740,7 +748,9 @@ Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the
 
 #### Congressional Defense Committees Defined
 
-The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in section 101(a)(16) of this title:
+The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 109–364, §3, Oct. 17, 2006, 120 Stat. 2100.
 
 Pub. L. 109–163, §3, Jan. 6, 2006, 119 Stat. 3152.
 
@@ -749,6 +759,8 @@ Pub. L. 108–375, §3, Oct. 28, 2004, 118 Stat. 1825.
 Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies of the Committee on Appropriations of the House of Representatives.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 109–289, div. A, title VIII, §8025, Sept. 29, 2006, 120 Stat. 1279.
 
 Pub. L. 108–287, title VIII, §8030, Aug. 5, 2004, 118 Stat. 977.
 

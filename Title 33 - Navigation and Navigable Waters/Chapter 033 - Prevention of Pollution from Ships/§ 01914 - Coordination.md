@@ -1,8 +1,8 @@
 ### §1914. Coordination
 
-#### (a) Establishment of Marine Debris Coordinating Committee
+#### (a) Establishment of Interagency Marine Debris Coordinating Committee
 
-The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.
+There is established an Interagency Marine Debris Coordinating Committee to coordinate a comprehensive program of marine debris research and activities among Federal agencies, in cooperation and coordination with non-governmental organizations, industry, universities, and research institutions, States, Indian tribes, and other nations, as appropriate.
 
 #### (b) Membership
 
@@ -20,7 +20,7 @@ The Committee shall include a senior official from—
 
 #### (c) Meetings
 
-The Committee shall meet at least twice a year to provide a forum to ensure the coordination of national and international research, monitoring, education, and regulatory actions addressing the persistent marine debris problem.
+The Committee shall meet at least twice a year to provide a public, interagency forum to ensure the coordination of national and international research, monitoring, education, and regulatory actions addressing the persistent marine debris problem.
 
 #### (d) Monitoring
 
@@ -30,7 +30,7 @@ The Secretary of Commerce, acting through the Administrator of the National Ocea
 
 &emsp;(2) the United States Coast Guard in assessing the effectiveness of this Act and the Act to Prevent Pollution from Ships \[33 U.S.C. 1901 et seq.\] in ensuring compliance under section 1913 of this title.
 
-(Pub. L. 100–220, title II, §2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, §802(b), Oct. 19, 1996, 110 Stat. 3944.)
+(Pub. L. 100–220, title II, §2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, §802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, §5(a), Dec. 22, 2006, 120 Stat. 3337.)
 
 #### References in Text
 
@@ -45,6 +45,10 @@ The Act to Prevent Pollution from Ships, referred to in subsec. (d)(2), is Pub. 
 Section was enacted as part of the Marine Plastic Pollution Research and Control Act of 1987 and as part of the United States-Japan Fishery Agreement Approval Act of 1987, and not as part of the Act to Prevent Pollution from Ships which comprises this chapter.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–449, §5(a)(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.”
+
+Subsec. (c). Pub. L. 109–449, §5(a)(2), inserted “public, interagency” before “forum”.
 
 1996—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later than September 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
 

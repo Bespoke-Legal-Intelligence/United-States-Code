@@ -30,7 +30,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(2) automated fingerprint identification systems that are compatible with standards established by the National Institute of Standards and Technology and interoperable with the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation;
 
-&emsp;(3) finger imaging, live scan, and other automated systems to digitize fingerprints and tocommunicate prints in a manner that is compatible with standards established by the National Institute of Standards and Technology and interoperable with systems operated by States and by the Federal Bureau of Investigation;
+&emsp;(3) finger imaging, live scan, and other automated systems to digitize fingerprints and to communicate prints in a manner that is compatible with standards established by the National Institute of Standards and Technology and interoperable with systems operated by States and by the Federal Bureau of Investigation;
 
 &emsp;(4) programs and systems to facilitate full participation in the Interstate Identification Index of the National Crime Information Center;
 
@@ -56,7 +56,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(13) domestic violence offender identification and information systems;
 
-&emsp;(14) programs for fingerprint-supported background checks capability for noncriminal justice purposes, including youth service employees and volunteers and other individuals in positions of responsibility, if authorized by Federal or State law and administered by a government agency;
+&emsp;(14) programs for fingerprint-supported background checks capability for noncriminaljustice purposes, including youth service employees and volunteers and other individuals in positions of responsibility, if authorized by Federal or State law and administered by a government agency;
 
 &emsp;(15) criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports;
 
@@ -88,7 +88,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;&emsp;(F) the establishment of statewide priorities for planning and implementation of information technology systems; and
 
-&emsp;&emsp;(G) a plan for coordinating the programs funded under this subchapter with other federally funded information technology programs, including directly funded local programs such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program established pursuant to part Q of title I of the Omnibus Crime Control andSafe Streets Act of 1968 \[42 U.S.C. 3796dd et seq.\].
+&emsp;&emsp;(G) a plan for coordinating the programs funded under this subchapter with other federally funded information technology programs, including directly funded local programs such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program established pursuant to part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796dd et seq.\].
 
 #### (d) Matching funds
 
@@ -124,7 +124,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Amendments
 
-2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
+2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance GrantProgram and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
 
 2001—Subsec. (b)(18). Pub. L. 107–56, §1015(1), added par. (18).
 

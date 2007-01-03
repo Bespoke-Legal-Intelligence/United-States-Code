@@ -5,9 +5,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [151\.](Subchapter%20001%20%28I%29%20-%20Preliminary/%C2%A7%2000151%20-%20High%20seas%20and%20inland%20waters%20demarcation%20lines.md) | High seas and inland waters demarcation lines. |
-| (a) | Establishment and purpose. |
-| (b) | Applicability of other statutes; limitation; position. |
-| (c) | “United States” defined. |
 | [152\.](Subchapter%20001%20%28I%29%20-%20Preliminary/%C2%A7%2000152%20-%20Regulation%20of%20length%20of%20towlines.md) | Regulation of length of towlines. |
 | [153\.](Subchapter%20001%20%28I%29%20-%20Preliminary/%C2%A7%2000153%20-%20Penalty%20for%20use%20of%20unlawful%20towline.md) | Penalty for use of unlawful towline. |
 | 154 to 159. Repealed. |  |

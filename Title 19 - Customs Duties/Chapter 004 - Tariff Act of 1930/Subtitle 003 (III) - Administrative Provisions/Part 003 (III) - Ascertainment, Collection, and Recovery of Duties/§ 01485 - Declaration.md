@@ -2,7 +2,7 @@
 
 #### (a) Requirement; form and contents
 
-Every importer of record making an entry under the provisions of section 1484 of this titleshall make and file or transmit electronically therewith, in a form and manner to be prescribed by the Secretary of the Treasury, a declaration under oath, stating—
+Every importer of record making an entry under the provisions of section 1484 of this title shall make and file or transmit electronically therewith, in a form and manner to be prescribed by the Secretary of the Treasury, a declaration under oath, stating—
 
 &emsp;(1) Whether the merchandise is imported in pursuance of a purchase or an agreement to purchase, or whether it is imported otherwise than in pursuance of a purchase or agreement to purchase;
 
@@ -30,7 +30,7 @@ The Secretary of the Treasury shall prescribe separate forms for the declaration
 
 #### (f) Deceased or insolvent persons; partnerships and corporations
 
-Whenever such merchandise is consigned to a deceased person, or to an insolvent person who has assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a case under title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
+Whenever such merchandise is consigned to a deceased person, or to an insolvent person whohas assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a case under title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
 
 #### (g) Exported merchandise returned as undeliverable
 
@@ -50,7 +50,7 @@ Prior provisions for a declaration to be filed when merchandise was entered by i
 
 R.S. §2786, requiring entries to be verified by oath, was superseded by the Customs Administrative Act of June 10, 1890, ch. 407, §§4, 5, 22, 26 Stat. 131, 132, 140, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, 102, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, E, F, and section IV, S, of that act, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-R.S. §2841 prescribed the forms of oaths of which one, according to the nature of the case, was required to be administered by the collector at the time of the entry of merchandise by invoice. It was modified by act May 1, 1876, ch. 89, §2, 19 Stat. 49, and repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, amended and reenacted by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104, and declarations in lieu of oaths were required to accompany the invoice by section 5 of the Customs Administrative Act, amended by the Payne-Aldrich Act and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, F. All oaths administered by officers of thecustoms, except as provided in the Customs Administrative Act, were abolished by section 22 thereof amended by section 28 of the Payne-Aldrich Act.
+R.S. §2841 prescribed the forms of oaths of which one, according to the nature of the case, was required to be administered by the collector at the time of the entry of merchandise by invoice. It was modified by act May 1, 1876, ch. 89, §2, 19 Stat. 49, and repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, amended and reenacted by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104, and declarations in lieu of oaths were required to accompany the invoice by section 5 of the Customs Administrative Act, amended by the Payne-Aldrich Act and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, F. All oaths administered by officers of the customs, except as provided in the Customs Administrative Act, were abolished by section 22 thereof amended by section 28 of the Payne-Aldrich Act.
 
 The provisions for the abolition of fees and oaths on entry of goods, made by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, were superseded by a proviso annexed to section IV, S, of the Underwood Tariff Act of Oct. 3, 1913, which provided that “nothing in this act shall be construed to permit any oaths to be demanded or fees to be charged except as provided in this act,” etc.
 

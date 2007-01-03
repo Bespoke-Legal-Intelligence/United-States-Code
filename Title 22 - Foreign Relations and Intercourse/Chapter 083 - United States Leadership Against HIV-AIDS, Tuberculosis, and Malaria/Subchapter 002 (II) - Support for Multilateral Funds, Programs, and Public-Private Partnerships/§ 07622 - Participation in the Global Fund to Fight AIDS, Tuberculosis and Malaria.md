@@ -22,7 +22,7 @@ The Congress finds as follows:
 
 #### (c) Reports to Congress
 
-Not later than 1 year after May 27, 2003, and annually thereafter for the duration of the Global Fund, the President shall submit to the appropriate congressional committees a report on the Global Fund, including contributions pledged to, contributions (including donations from the private sector) received by, andprojects funded by the Global Fund, and the mechanisms established for transparency and accountability in the grant-making process.
+Not later than 1 year after May 27, 2003, and annually thereafter for the duration of the Global Fund, the President shall submit to the appropriate congressional committees a report on the Global Fund, including contributions pledged to, contributions (including donations from the private sector) received by, and projects funded by the Global Fund, and the mechanisms established for transparency and accountability in the grant-making process.
 
 #### (d) United States financial participation
 
@@ -66,7 +66,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;(C)(i) The President may suspend the application of subparagraph (A) with respect to a fiscal year if the President determines that an international health emergency threatens the national security interests of the United States.
 
-&emsp;(ii) The President shall notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 5 days before making a determination underclause (i) with respect to the application of subparagraph (A)(i) and shall include in the notification—
+&emsp;(ii) The President shall notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 5 days before making a determination under clause (i) with respect to the application of subparagraph (A)(i) and shall include in the notification—
 
 &emsp;&emsp;(I) a justification as to why increased United States Government contributions to the Global Fund is preferable to increased United States assistance to combat HIV/AIDS, tuberculosis, and malaria on a bilateral basis; and
 

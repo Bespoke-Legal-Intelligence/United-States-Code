@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) Costs associated with the consideration and implementation of policies, plans of insurance, and related materials submitted under section 1508(h) of this title or developed under section 1522 or 1523 of this title.
 
-&emsp;&emsp;&emsp;(ii) Costs to contract for the review of policies, plans of insurance, and related materials under section 1505(e) of this title and to contract for other assistance in considering policies, plans of insurance, and related materials.
+&emsp;&emsp;&emsp;(ii) Costs to contract for the review of policies, plans of insurance, and relatedmaterials under section 1505(e) of this title and to contract for other assistance in considering policies, plans of insurance, and related materials.
 
 #### (B) Dairy options pilot program
 
@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;There is established an insurance fund, for the deposit of premium income, amounts madeavailable under subsection (a)(2) of this section, and civil fines collected under section 1515(h) of this title, to be available without fiscal year limitation.
+&emsp;There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2) of this section, and civil fines collected under section 1515(h) of this title, to be available without fiscal year limitation.
 
 #### (2) Commodity Credit Corporation funds
 
@@ -118,7 +118,7 @@ Subsec. (b)(2)(B). Pub. L. 104–127, §193(e)(2)(B), struck out “subject to p
 
 1981—Subsec. (a). Pub. L. 97–11 designated existing provisions as par. (1) and added par. (2).
 
-1980—Subsec. (a). Pub. L. 96–365, §109, substituted appropriations authorization of necessary sums for former limitation of $12,000,000 for each fiscal year beginning after June 30, 1938; included as costs agents’ and brokers’ commissions, interest on Treasury notes and other obligations, partial premium payments by the Corporation, and the direct cost of loss adjusters for crop inspections and loss adjustments and authorized payment of these costs from premium income and other Corporation funds and restoration of such payments through subsequent year appropriations; prescribed limitation on employment of additional personnel except during emergencies; and deleted provisions for for consideration as being nonadministrative or nonoperating expenses such expenses as related to purchase, transportation, handling, or sale of the agricultural commodity and the direct cost of loss adjustersfor crop inspections and loss adjustments and provision for use of premium income for administrative and operating costs within limits prescribed in applicable appropriations.
+1980—Subsec. (a). Pub. L. 96–365, §109, substituted appropriations authorization of necessary sums forformer limitation of $12,000,000 for each fiscal year beginning after June 30, 1938; included as costs agents’ and brokers’ commissions, interest on Treasury notes and other obligations, partial premium payments by the Corporation, and the direct cost of loss adjusters for crop inspections and loss adjustments and authorized payment of these costs from premium income and other Corporation funds and restoration of such payments through subsequent year appropriations; prescribed limitation on employment of additional personnel except during emergencies; and deleted provisions for for consideration as being nonadministrative or nonoperating expenses such expenses as related to purchase, transportation, handling, or sale of the agricultural commodity and the direct cost of loss adjusters for crop inspections and loss adjustments and provision for use of premium income for administrative and operating costs within limits prescribed in applicable appropriations.
 
 Subsecs. (c), (d). Pub. L. 96–365, §110, added subsecs. (c) and (d).
 

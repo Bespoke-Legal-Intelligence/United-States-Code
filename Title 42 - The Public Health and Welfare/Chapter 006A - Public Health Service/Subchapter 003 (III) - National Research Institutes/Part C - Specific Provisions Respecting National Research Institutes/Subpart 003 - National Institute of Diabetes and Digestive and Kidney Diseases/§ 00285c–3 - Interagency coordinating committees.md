@@ -12,47 +12,23 @@ For the purpose of—
 
 #### (b) Membership; chairman; meetings
 
-Each Committee shall be composed of the Directors of each of the national research institutes and divisions involved in research with respect to the diseases for which the Committee is established, the Division Director of the Institute for the diseases for which the Committee is established, the Under Secretary for Health of the Department of Veterans Affairs, and the Assistant Secretary of Defense for Health Affairs\(or the designees of such officers) and shall include representation from all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, as determined by the Secretary. Each Committee shall be chaired by the Director of NIH (or the designee of the Director). Each Committee shall meet at the call of the chairman, but not less often than four times a year.
+Each Committee shall be composed of the Directors of each of the national research institutes and divisions involved in research with respect to the diseases for which the Committee is established, the Division Director of the Institute for the diseases for which the Committee is established, the Under Secretary for Health of the Department of Veterans Affairs, and the Assistant Secretary of Defense for Health Affairs (or the designees of such officers) and shall include representation from all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, as determined by the Secretary. Each Committee shall be chaired by the Director of NIH (or the designee of the Director). Each Committee shall meet at the call of the chairman, but not less often than four times a year.
 
-#### (c) Annual report
-
-Each Committee shall prepare an annual report for—
-
-&emsp;(1) the Secretary;
-
-&emsp;(2) the Director of NIH; and
-
-&emsp;(3) the Advisory Board established under section 285c–4 of this title for the diseases for which the Committee was established,
-
-> detailing the work of the Committee in carrying out paragraphs (1) and (2) of subsection (a) of this section in the fiscal year for which the report was prepared. Such report shall be submitted not later than 120 days after the end of each fiscal year.
-
-#### (d) Annual assessment on Federal pancreatic islet cell transplantation
-
-In each annual report prepared by the Diabetes Mellitus Interagency Coordinating Committee pursuant to subsection (c) of this section, the Committee shall include an assessment of the Federal activities and programs related to pancreatic islet cell transplantation. Such assessment shall, at a minimum, address the following:
-
-&emsp;(1) The adequacy of Federal funding for taking advantage of scientific opportunities relating to pancreatic islet cell transplantation.
-
-&emsp;(2) Current policies and regulations affecting the supply of pancreata for islet cell transplantation.
-
-&emsp;(3) The effect of xenotransplantation on advancing pancreatic islet cell transplantation.
-
-&emsp;(4) The effect of United Network for Organ Sharing policies regarding pancreas retrieval and islet cell transplantation.
-
-&emsp;(5) The existing mechanisms to collect and coordinate outcomes data from existing islet cell transplantation trials.
-
-&emsp;(6) Implementation of multiagency clinical investigations of pancreatic islet cell transplantation.
-
-&emsp;(7) Recommendations for such legislation and administrative actions as the Committee considers appropriate to increase the supply of pancreata available for islet cell transplantation.
-
-(July 1, 1944, ch. 373, title IV, §429, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 843; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 108–362, §3, Oct. 25, 2004, 118 Stat. 1703.)
+(July 1, 1944, ch. 373, title IV, §429, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 843; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 108–362, §3, Oct. 25, 2004, 118 Stat. 1703; Pub. L. 109–482, title I, §104(b)(1)(H), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### Amendments
+
+2007—Subsecs. (c), (d). Pub. L. 109–482 struck out subsecs. (c) and (d) which required an annual report detailing the work of the Committee in carrying out subsec. (a) and an annual assessment on Federal pancreatic islet cell transplantation, respectively.
 
 2004—Subsec. (d). Pub. L. 108–362 added subsec. (d).
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
 
 1988—Subsec. (b). Pub. L. 100–527 substituted “Chief Medical Director of the Department of Veterans Affairs” for “Chief Medical Director of the Veterans’ Administration”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1988 Amendment
 

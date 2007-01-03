@@ -10,7 +10,7 @@ In addition to the enforcement provisions set forth in subsection (b)—
 
 #### (b) Import violations
 
-Those customs laws of the United States, both civil and criminal, including those laws relating to seizure and forfeiture, that apply to articles imported in violation of such laws shall apply with respect to rough diamonds imported in violation of this chapter.
+Those customs laws of the United States, both civil and criminal, including those laws relating to seizure and forfeiture, that apply to articles imported in violation of such laws shall applywith respect to rough diamonds imported in violation of this chapter.
 
 #### (c) Authority to enforce
 

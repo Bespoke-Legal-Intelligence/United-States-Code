@@ -4,7 +4,7 @@
 
 Consistent with sections 403 and 403–1 of this title, the Secretary of Defense, in consultation with the Director of National Intelligence, shall—
 
-&emsp;(1) ensure that the budgets of the elements of the intelligence community within the Department of Defense are adequate to satisfy the overall intelligence needs of the Department of Defense, including the needs of the chairman <sup>1</sup> of the Joint Chiefs of Staff and thecommanders of the unified and specified commands and, wherever such elements are performing governmentwide functions, the needs of other departments and agencies;
+&emsp;(1) ensure that the budgets of the elements of the intelligence community within the Department of Defense are adequate to satisfy the overall intelligence needs of the Department of Defense, including the needs of the chairman <sup>1</sup> of the Joint Chiefs of Staff and the commanders of the unified and specified commands and, wherever such elements are performing governmentwide functions, the needs of other departments and agencies;
 
 &emsp;(2) ensure appropriate implementation of the policies and resource decisions of the Director by elements of the Department of Defense within the National Intelligence Program;
 
@@ -54,7 +54,7 @@ Consistent with sections 403 and 403–1 of this title, the Secretary of Defense
 
 #### (c) Use of elements of Department of Defense
 
-The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
+The Secretary of Defense, in carrying out the functions described in this section, may usesuch elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
 
 (July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481; Pub. L. 107–306, title VIII, §811(b)(1)(A), Nov. 27, 2002, 116 Stat. 2421; Pub. L. 108–136, div. A, title IX, §921(e)(2), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title III, §361(a), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §§1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692, 3694.)
 

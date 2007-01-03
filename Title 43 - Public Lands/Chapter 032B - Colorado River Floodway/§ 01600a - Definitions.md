@@ -18,7 +18,7 @@
 
 (c) The term “Secretary” means the Secretary of the Interior.
 
-(d) The term “water district” means any public agency providing water service, including water districts, county water districts, public utility districts, and irrigation districts.
+(d) The term “water district” means any public agency providing water service, includingwater districts, county water districts, public utility districts, and irrigation districts.
 
 (e) The term “Floodway” means the Colorado River Floodway established in section 1600c of this title.
 

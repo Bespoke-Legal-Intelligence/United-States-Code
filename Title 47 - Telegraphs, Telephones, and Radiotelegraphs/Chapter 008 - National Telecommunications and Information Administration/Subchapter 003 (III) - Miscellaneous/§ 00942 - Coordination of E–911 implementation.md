@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) in the case of an eligible entity that is a State government, the entity—
 
-&emsp;&emsp;&emsp;(i) has coordinated its application with the public safety answering points (as such term is defined in section 222(h)(4) of this title) located within the jurisdiction of such entity;
+&emsp;&emsp;&emsp;(i) has coordinated its application with the public safety answering points (as suchterm is defined in section 222(h)(4) of this title) located within the jurisdiction of such entity;
 
 &emsp;&emsp;&emsp;(ii) has designated a single officer or governmental body of the entity to serve as the coordinator of implementation of E–911 services, except that such designation need not vest such coordinator with direct legal authority to implement E–911 services or manage emergency communications operations;
 

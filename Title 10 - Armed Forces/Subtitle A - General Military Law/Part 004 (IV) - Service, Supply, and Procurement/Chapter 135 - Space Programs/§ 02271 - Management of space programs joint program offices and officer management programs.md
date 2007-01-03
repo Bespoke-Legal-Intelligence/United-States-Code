@@ -144,7 +144,7 @@ Report.—Not later than February 1, 2004, the Secretary shall submit to the Com
 
 “(c)
 
-Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
+Government Accountability Office Review and Reports.—(1) The Comptroller General shall review thestrategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
 
 “(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:
 
@@ -158,15 +158,5 @@ Government Accountability Office Review and Reports.—(1) The Comptroller Gener
 
 #### Comptroller General Assessment of Implementation of Recommendations of Space Commission
 
-Pub. L. 107–107, div. A, title IX, §914, Dec. 28, 2001, 115 Stat. 1197, provided that:
-
-“(a)
-
-Assessment.—(1) The Comptroller General shall carry out an assessment through February 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission that are applicable to the Department of Defense.
-
-“(2) For purposes of paragraph (1), the term ‘report of the Space Commission’ means the report of the Commission To Assess United States National Security Space Management and Organization, dated January 11, 2001, and submitted to Congress under section 1623 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 815 \[10 U.S.C. 111 note\]).
-
-“(b)
-
-Reports.—Not later than February 15 of each of 2002 and 2003, the Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the assessment carried out under subsection (a). Each report shall set forth the results of the assessment as of the date of such report.”
+Pub. L. 107–107, div. A, title IX, §914, Dec. 28, 2001, 115 Stat. 1197, directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to Pub. L. 106–65, §1623, formerly set out as a note under section 111 of this title, that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
 

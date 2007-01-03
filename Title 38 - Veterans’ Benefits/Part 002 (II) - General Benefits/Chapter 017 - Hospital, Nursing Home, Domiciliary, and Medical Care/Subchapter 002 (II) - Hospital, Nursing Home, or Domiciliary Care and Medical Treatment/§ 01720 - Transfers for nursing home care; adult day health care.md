@@ -44,7 +44,7 @@
 
 (c)(1)(A) In furnishing nursing home care, adult day health care, or other extended care services under this section, the Secretary may enter into agreements for furnishing such care or services with—
 
-&emsp;(i) in the case of the medicare program, a provider of services that has entered into aprovider agreement under section 1866(a) of the Social Security Act (42 U.S.C. 1395cc(a)); and
+&emsp;(i) in the case of the medicare program, a provider of services that has entered into a provider agreement under section 1866(a) of the Social Security Act (42 U.S.C. 1395cc(a)); and
 
 &emsp;(ii) in the case of the medicaid program, a provider participating under a State plan under title XIX of such Act (42 U.S.C. 1396 et seq.).
 
@@ -90,7 +90,7 @@ Prior section 1720 was renumbered section 3520 of this title.
 
 Subsec. (f)(1)(B). Pub. L. 108–170, §105(b), inserted “or agreement” after “contract” in two places.
 
-1999—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
+1999—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
 
 &emsp;“(i) references to ‘nursing home care’ in subsections (a) through (d) of this section shall be deemed to be references to ‘adult day health care’; and
 
@@ -170,7 +170,7 @@ Subsec. (f). Pub. L. 98–160, §103(a)(1), added subsec. (f).
 
 Subsec. (c). Pub. L. 97–295, §4(19)(B), inserted “(41 U.S.C. 351(b)(1))” after “the Service Contract Act of 1965” and substituted “(29 U.S.C. 206(b))” for “, as amended,”.
 
-1976—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum”for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
+1976—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum” for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
 
 Subsec. (b). Pub. L. 94–581, §210(a)(7), substituted “such standards as the Administrator may prescribe” for “such standards as he may prescribe”.
 
@@ -182,7 +182,7 @@ Subsec. (b). Pub. L. 93–82, §104(c), inserted provisions relating to the admi
 
 Subsec. (d). Pub. L. 93–82, §104(d), added subsec. (d).
 
-1969—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
+1969—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for morethan six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
 
 1968—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
 

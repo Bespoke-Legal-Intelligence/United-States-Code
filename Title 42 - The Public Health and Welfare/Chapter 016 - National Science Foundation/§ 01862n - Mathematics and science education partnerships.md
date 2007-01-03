@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology more effectively in teaching mathematics and science, including programs that recruit and train undergraduate and graduate students to provide technical support to teachers;
 
-&emsp;&emsp;(D) developing distance learning programs for teachers or students, including developing courses, curricular materials, and otherresources for the in-service professional development of teachers that are made available to teachers through the Internet;
+&emsp;&emsp;(D) developing distance learning programs for teachers or students, including developing courses, curricular materials, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
 
 &emsp;&emsp;(E) developing a cadre of master teachers who will promote reform and improvement in schools;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(iii) why such activities are expected to improve student performance and strengthen the quality of mathematics and science instruction; and
 
-&emsp;&emsp;&emsp;(iv) any activities that will encourage the interest of individuals identified insection 1885a or 1885b of this title in mathematics, science, engineering, and technology and will help prepare such individuals to pursue postsecondary studies in these fields;
+&emsp;&emsp;&emsp;(iv) any activities that will encourage the interest of individuals identified in section 1885a or 1885b of this title in mathematics, science, engineering, and technology and will help prepare such individuals to pursue postsecondary studies in these fields;
 
 &emsp;&emsp;(C) a description of the number, size, and nature of any stipends that will be provided to students or teachers and the reasons such stipends are needed;
 
@@ -158,7 +158,7 @@
 
 #### (4) Report on coordination
 
-&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
+&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinatedwith the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
 
 #### (5) Technical assistance
 
@@ -252,7 +252,7 @@ Institution of higher education.—The term ‘institution of higher education�
 
 &emsp;“(10)
 
-Local educational agency.—The term ‘local educational agency’ has the meaning given such term by section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
+Local educational agency.—The term ‘local educational agency’ has the meaning given such termby section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
 
 &emsp;“(11)
 
@@ -278,7 +278,7 @@ Secondary school.—The term ‘secondary school’ has the meaning given that t
 
 &emsp;“(14)
 
-State.—Except with respect to the Experimental Program to Stimulate Competitive Research, the term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of PuertoRico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+State.—Except with respect to the Experimental Program to Stimulate Competitive Research, the term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
 &emsp;“(15)
 

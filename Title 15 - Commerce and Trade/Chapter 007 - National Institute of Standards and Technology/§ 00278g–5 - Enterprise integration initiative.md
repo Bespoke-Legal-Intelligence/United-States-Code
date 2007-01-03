@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director shall establish an initiative for advancing enterprise integration within the United States. In carrying out this section, the Director shall involve, as appropriate, the various units of the National Institute of Standards and Technology, including the National Institute of Standards and Technology laboratories (including the Building and Fire Research Laboratory), the Manufacturing Extension Partnership program <sup>1</sup> established under sections 278k and 278<i>l</i> of this title, and the Malcolm Baldrige National Quality Program. This initiative shallbuild upon ongoing efforts of the National Institute of Standards and Technology and of the private sector, shall involve consortia that include government and industry, and shall address the enterprise integration needs of each United States major manufacturing industry at the earliest possible date.
+The Director shall establish an initiative for advancing enterprise integration within the United States. In carrying out this section, the Director shall involve, as appropriate, the various units of the National Institute of Standards and Technology, including the National Institute of Standards and Technology laboratories (including the Building and Fire Research Laboratory), the Manufacturing Extension Partnership program <sup>1</sup> established under sections 278k and 278<i>l</i> of this title, and the Malcolm Baldrige National Quality Program. This initiative shall build upon ongoing efforts of the National Institute of Standards and Technology and of the private sector, shall involve consortia that include government and industry, and shall address the enterprise integration needs of each United States major manufacturing industry at the earliest possible date.
 
 #### (b) Assessment
 
@@ -82,7 +82,7 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
 
 &emsp;“(4) the term ‘major manufacturing industry’ includes the aerospace, automotive, electronics, shipbuilding, construction, home building, furniture, textile, and apparel industries and such other industries as the Director designates; and
 
-&emsp;“(5) the term ‘roadmap’ means an assessment of manufacturing interoperability requirements developed by an industry describing that industry's goals related to enterprise integration, the knowledge andstandards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols.
+&emsp;“(5) the term ‘roadmap’ means an assessment of manufacturing interoperability requirements developed by an industry describing that industry's goals related to enterprise integration, the knowledge and standards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols.
 
 #### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
 

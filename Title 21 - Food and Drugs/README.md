@@ -1,5 +1,5 @@
 
-21 U.S.C.<br>United States Code, 2005 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
+21 U.S.C.<br>United States Code, 2006 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 21—FOOD AND DRUGS
 
@@ -23,13 +23,14 @@
 | [<b>15.</b>](Chapter%20015%20-%20Egg%20Products%20Inspection/README.md) | <b>Egg Products Inspection</b> | <b>1031</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Drug%20Abuse%20Prevention%2C%20Treatment%2C%20and%20Rehabilitation/README.md) | <b>Drug Abuse Prevention, Treatment, and Rehabilitation</b> | <b>1101</b> |
 | [<b>17.</b>](Chapter%20017%20-%20National%20Drug%20Enforcement%20Policy/README.md) | <b>National Drug Enforcement Policy \[Repealed\]</b> | <b>1201</b> |
-| [<b>18.</b>](Chapter%20018%20-%20President%27s%20Media%20Commission%20on%20Alcohol%20and%20Drug%20Abuse%20Prevention/README.md) | <b>President's Media Commission on Alcohol and Drug Abuse Prevention</b> | <b>1301</b> |
+| [<b>18.</b>](Chapter%20018%20-%20President%27s%20Media%20Commission%20on%20Alcohol%20and%20Drug%20Abuse%20Prevention/README.md) | <b>President's Media Commission on Alcohol and Drug Abuse Prevention \[Omitted\]</b> | <b>1301</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Pesticide%20Monitoring%20Improvements/README.md) | <b>Pesticide Monitoring Improvements</b> | <b>1401</b> |
 | [<b>20.</b>](Chapter%20020%20-%20National%20Drug%20Control%20Program/README.md) | <b>National Drug Control Program</b> | <b>1501</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Biomaterials%20Access%20Assurance/README.md) | <b>Biomaterials Access Assurance</b> | <b>1601</b> |
 | [<b>22.</b>](Chapter%20022%20-%20National%20Drug%20Control%20Policy/README.md) | <b>National Drug Control Policy</b> | <b>1701</b> |
-| [<b>23.</b>](Chapter%20023%20-%20National%20Youth%20Anti-Drug%20Media%20Campaign/README.md) | <b>National Youth Anti-Drug Media Campaign</b> | <b>1801</b> |
+| [<b>23.</b>](Chapter%20023%20-%20National%20Youth%20Anti-Drug%20Media%20Campaign/README.md) | <b>National Youth Anti-Drug Media Campaign \[Repealed\]</b> | <b>1801</b> |
 | [<b>24.</b>](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md) | <b>International Narcotics Trafficking</b> | <b>1901</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Miscellaneous%20Anti-Drug%20Abuse%20Provisions/README.md) | <b>Miscellaneous Anti-Drug Abuse Provisions</b> | <b>2001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,3 +64,4 @@
 - [Chapter 022 - National Drug Control Policy](Chapter%20022%20-%20National%20Drug%20Control%20Policy/README.md)
 - [Chapter 023 - National Youth Anti-Drug Media Campaign](Chapter%20023%20-%20National%20Youth%20Anti-Drug%20Media%20Campaign/README.md)
 - [Chapter 024 - International Narcotics Trafficking](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md)
+- [Chapter 025 - Miscellaneous Anti-Drug Abuse Provisions](Chapter%20025%20-%20Miscellaneous%20Anti-Drug%20Abuse%20Provisions/README.md)

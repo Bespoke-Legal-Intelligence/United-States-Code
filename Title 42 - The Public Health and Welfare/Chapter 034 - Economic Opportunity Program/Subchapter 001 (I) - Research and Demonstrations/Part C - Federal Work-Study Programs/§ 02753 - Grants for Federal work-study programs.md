@@ -30,7 +30,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
 
-&emsp;(5) provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent, except that—
+&emsp;(5) provide that the Federal share of the compensation of students employed in thework-study program in accordance with the agreement shall not exceed 75 percent, except that—
 
 &emsp;&emsp;(A) the Federal share may exceed 75 percent, but not exceed 90 percent, if, consistent with regulations of the Secretary—
 
@@ -162,7 +162,7 @@ Subsec. (b)(8)(A) to (C). Pub. L. 103–208, §2(d)(5), added subpars. (A) and (
 
 Subsec. (b)(1). Pub. L. 102–325, §443(a), inserted “, work in community service” after “institution itself”.
 
-Subsec. (b)(2)(A). Pub. L. 102–325, §443(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an institution may use not to exceed 10 percent of the funds granted to the institution in any fiscal year to carry out the work study program described in section 2756a of this title at the increased Federal share specified in paragraph (5)(B) of this subsection, and”.
+Subsec. (b)(2)(A). Pub. L. 102–325, §443(b), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “an institution may use not to exceed 10 percent of the funds granted to the institution in any fiscal year to carry out the work study program described in section 2756a of this title at the increased Federal share specified in paragraph (5)(B) of this subsection, and”.
 
 Subsec. (b)(3) to (5). Pub. L. 102–325, §443(c)–(e), amended par. (3) to (5) generally. Prior to amendment, pars. (3) to (5) read as follows:
 

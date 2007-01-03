@@ -1,20 +1,22 @@
 ### §3481. Educational assistance allowance
 
-### General
+(a)
 
-(a) The Secretary shall, in accordance with the applicable provisions of this section and chapter 36 of this title, pay to each eligible veteran who is pursuing a program of education under this chapter an educational assistance allowance to meet, in part, the expenses of the veteran's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+General.—The Secretary shall, in accordance with the applicable provisions of this section and chapter 36 of this title, pay to each eligible veteran who is pursuing a program of education under this chapter an educational assistance allowance to meet, in part, the expenses of the veteran's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
 
-### Institutional Training
+(b)
 
-(b) The educational assistance allowance of an eligible veteran pursuing a program of education, other than a program exclusively by correspondence, at an educational institution shall be paid as provided in chapter 36 of this title.
+Institutional Training.—The educational assistance allowance of an eligible veteran pursuing a program of education, other than a program exclusively by correspondence, at an educational institution shall be paid as provided in chapter 36 of this title.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 17, §1681; amended Pub. L. 91–219, title II, §205, Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §6, Dec. 24, 1970, 84 Stat. 1576; Pub. L. 92–540, title II, §202, Oct. 24, 1972, 86 Stat. 1079; Pub. L. 94–502, title II, §§210(2), 211(10), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 97–35, title XX, §2003(b)(4), Aug. 13, 1981, 95 Stat. 782; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3481, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 17, §1681; amended Pub. L. 91–219, title II, §205, Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §6, Dec. 24, 1970, 84 Stat. 1576; Pub. L. 92–540, title II, §202, Oct. 24, 1972, 86 Stat. 1079; Pub. L. 94–502, title II, §§210(2), 211(10), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 97–35, title XX, §2003(b)(4), Aug. 13, 1981, 95 Stat. 782; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3481, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416.)
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a), (b), (d), and (e) of this section were contained in Pub.L. 85–857, Sept. 2, 1958, 72 Stat. 1179, which was classified to former section 1631 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a), (b), (d), and (e) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1179, which was classified to former section 1631 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+2006—Pub. L. 109–233 revised style of subsec. headings.
 
 1991—Pub. L. 102–83 renumbered section 1681 of this title as this section.
 

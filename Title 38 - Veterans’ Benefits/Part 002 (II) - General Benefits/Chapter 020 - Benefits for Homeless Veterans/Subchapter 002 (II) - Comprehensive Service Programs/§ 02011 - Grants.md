@@ -2,17 +2,15 @@
 
 (a)
 
-Authority To Make Grants.—(1) Subject to the availability of appropriations provided for such purpose, the Secretary shall make grants to assist eligible entities in establishing programs to furnish, and expanding or modifying existing programs for furnishing, the following to homeless veterans:
+Authority To Make Grants.—Subject to the availability of appropriations provided for such purpose, the Secretary shall make grants to assist eligible entities in establishing programs to furnish, and expanding or modifying existing programs for furnishing, the following to homeless veterans:
 
-&emsp;(A) Outreach.
+&emsp;(1) Outreach.
 
-&emsp;(B) Rehabilitative services.
+&emsp;(2) Rehabilitative services.
 
-&emsp;(C) Vocational counseling and training <sup>1</sup>
+&emsp;(3) Vocational counseling and training.
 
-&emsp;(D) Transitional housing assistance.
-
-(2) The authority of the Secretary to make grants under this section expires on September 30, 2005.
+&emsp;(4) Transitional housing assistance.
 
 (b)
 
@@ -90,7 +88,7 @@ Service Center Requirements.—In addition to criteria and requirements establis
 
 &emsp;(2) That space at such center be made available, as mutually agreeable, for use by staff of the Department of Veterans Affairs, the Department of Labor, and other appropriate agencies and organizations in assisting homeless veterans served by such center.
 
-&emsp;(3) That such center be equipped and staffed to provide or to assist in providing health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary.
+&emsp;(3) That such center be equipped and staffed to provide or to assist in providing healthcare, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary.
 
 &emsp;(4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
 
@@ -102,7 +100,7 @@ Recovery of Unused Grant Funds.—(1) If a grant recipient under this section do
 
 (3) An amount may not be recovered under paragraph (1) as an unused grant amount before the end of the three-year period beginning on the date on which the grant is made.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 906.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 906; amended Pub. L. 109–444, §§2(b), 8(a)(4), Dec. 21, 2006, 120 Stat. 3304, 3313; Pub. L. 109–461, title VII, §703(a), title X, §§1004(a)(4), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468.)
 
 #### Prior Provisions
 
@@ -110,9 +108,19 @@ A prior section 2011 was renumbered section 4211 of this title.
 
 Another prior section 2011 was renumbered section 4102 of this title.
 
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §1004(a)(4), which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by Pub. L. 109–461, §703(a). See below.
+
+Pub. L. 109–461, §703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
+
+Pub. L. 109–444, §8(a)(4), which inserted period at end of subpar. (C) of par. (1), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (a)(2). Pub. L. 109–444, §2(b), which substituted “September 30, 2007” for “September 30, 2005”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
 #### Continuation of Authority
 
 Pub. L. 109–114, title II, §230, Nov. 30, 2005, 119 Stat. 2393, provided that: “The authority provided by section 2011 of title 38, United States Code, shall continue in effect through September 30, 2006.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

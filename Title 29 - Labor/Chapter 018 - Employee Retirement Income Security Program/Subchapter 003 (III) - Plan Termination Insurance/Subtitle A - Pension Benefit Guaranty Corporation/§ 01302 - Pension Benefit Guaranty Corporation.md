@@ -2,7 +2,7 @@
 
 #### (a) Establishment within Department of Labor
 
-There is established within the Department of Labor a body corporate to be known as the Pension Benefit Guaranty Corporation. In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board. The purposes of this subchapter, which are to be carried out by the corporation, are—
+There is established within the Department of Labor a body corporate to be known as the Pension Benefit Guaranty Corporation. In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board. The purposes of this subchapter, which are to be carried out by the corporation, are—
 
 &emsp;(1) to encourage the continuation and maintenance of voluntary private pension plans for the benefit of their participants,
 
@@ -58,7 +58,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
-(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee.
+(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman orrequested by any three members of the advisory committee.
 
 (4) Members shall be chosen on the basis of their experience with employee organizations, with employers who maintain pension plans, with the administration of pension plans, or otherwise on account of outstanding demonstrated ability in related fields. Of the members serving on the advisory committee at any time, no more than four shall be affiliated with the same political party.
 
@@ -74,7 +74,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
-(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(<i>l</i>), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I, §112(c)(2), Jan. 23, 2002, 115 Stat. 2434.)
+(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(<i>l</i>), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I, §112(c)(2), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 109–280, title IV, §411(a)(1), Aug. 17, 2006, 120 Stat. 935.)
 
 #### References in Text
 
@@ -94,6 +94,8 @@ Subsec. (c) amended section 5108 of Title 5, Government Organization and Employe
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
+
 2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
 1989—Subsec. (g)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -106,7 +108,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134,set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 
@@ -121,6 +123,10 @@ Section 406(b) of Pub. L. 96–364 provided that: “The amendment made by subse
 #### Effective Date of 1976 Amendment
 
 Section 1510(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on September 2, 1974.”
+
+#### Transition
+
+Pub. L. 109–280, title IV, §411(d), Aug. 17, 2006, 120 Stat. 936, provided that: “The term of the individual serving as Executive Director of the Pension Benefit Guaranty Corporation on the date of enactment of this Act \[Aug. 17, 2006\] shall expire on such date of enactment. Such individual, or any other individual, may serve as interim Director of such Corporation until an individual is appointed as Director of such Corporation under section 4002 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1302) (as amended by this Act).”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

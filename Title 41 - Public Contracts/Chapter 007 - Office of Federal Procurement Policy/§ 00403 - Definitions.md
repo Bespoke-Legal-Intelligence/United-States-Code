@@ -40,7 +40,7 @@ As used in this chapter:
 
 &emsp;(8) The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
 
-&emsp;(9)(A) The term “major system” means a combination of elements that will function together to produce the capabilities required tofulfill a mission need, which elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property; and
+&emsp;(9)(A) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need, which elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property; and
 
 &emsp;(B) a system shall be considered a major system if (i) the Department of Defense is responsible for the system and the total expenditures for research, development, test and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (ii) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”, whichever is greater; or (iii) the system is designated a “major system” by the head of the agency responsible for the system.
 
@@ -100,7 +100,7 @@ As used in this chapter:
 
 &emsp;&emsp;(B) includes—
 
-&emsp;&emsp;&emsp;(i) the process of acquiring property or services that are already in existence, orthat must be created, developed, demonstrated, and evaluated;
+&emsp;&emsp;&emsp;(i) the process of acquiring property or services that are already in existence, or that must be created, developed, demonstrated, and evaluated;
 
 &emsp;&emsp;&emsp;(ii) the description of requirements to satisfy agency needs;
 

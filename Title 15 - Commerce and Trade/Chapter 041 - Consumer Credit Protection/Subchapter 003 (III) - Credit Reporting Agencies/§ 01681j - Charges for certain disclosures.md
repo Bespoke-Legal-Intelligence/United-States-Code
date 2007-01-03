@@ -68,7 +68,7 @@ Upon the request of the consumer, a consumer reporting agency shall make all dis
 
 #### (d) Free disclosures in connection with fraud alerts
 
-Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to theconsumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title, as applicable.
+Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title, as applicable.
 
 #### (e) Other charges prohibited
 
@@ -86,7 +86,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 &emsp;&emsp;&emsp;(ii) shall be indicated to the consumer before making the disclosure; and
 
-&emsp;&emsp;(B) for furnishing, pursuant to section 1681i(d) of this title, following a reinvestigation under section 1681i(a) of this title, a statement, codification, or summary to a person designated by the consumer under that section after the 30-day period beginning on the date of notification of the consumer under paragraph (6) or (8) of section 1681i(a) of this title with respect to the reinvestigation, which charge—
+&emsp;&emsp;(B) for furnishing, pursuant to section 1681i(d) of this title, following a reinvestigation under section 1681i(a) of this title, a statement, codification, or summary to a person designated by the consumer underthat section after the 30-day period beginning on the date of notification of the consumer under paragraph (6) or (8) of section 1681i(a) of this title with respect to the reinvestigation, which charge—
 
 &emsp;&emsp;&emsp;(i) shall not exceed the charge that the agency would impose on each designated recipient for a consumer report; and
 
@@ -176,7 +176,7 @@ Scope of regulations.—
 
 &emsp;“(A)
 
-In general.—The Commission shall, by rule, determine whether to require a consumer reporting agency that compiles and maintains files on consumers on substantially a nationwide basis, other than one described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\], to make free consumer reports available upon consumer request, and if so, whether such consumer reporting agencies should make such free reports available through the centralized source described in paragraph (1)(A).
+In general.—The Commission shall, by rule, determine whether to require a consumer reporting agency that compiles and maintains files on consumers on substantially a nationwide basis, other than one described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\], to make free consumer reports available upon consumer request, andif so, whether such consumer reporting agencies should make such free reports available through the centralized source described in paragraph (1)(A).
 
 &emsp;“(B)
 

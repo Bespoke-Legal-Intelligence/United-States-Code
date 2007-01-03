@@ -20,7 +20,7 @@ Except as otherwise provided in this division, the Secretary shall, on a competi
 
 &emsp;&emsp;&emsp;(ii) meets the requirements of this division; and
 
-&emsp;&emsp;&emsp;(iii) contains a plan to consolidate and use funds in accordance with section 7321a of this title in order to meet the State's definition of adequate yearly progress and the local educational agency's specific, measurable goals for improving student achievement and narrowing achievement gaps; and
+&emsp;&emsp;&emsp;(iii) contains a plan to consolidate and use funds in accordance with section 7321a of this title in order to meet the State's definition of adequate yearly progress and the local educational agency's specific,measurable goals for improving student achievement and narrowing achievement gaps; and
 
 &emsp;&emsp;(B) have consulted and involved parents and other educators in the development of the proposed local flexibility demonstration agreement.
 
@@ -32,7 +32,7 @@ Except as otherwise provided in this division, the Secretary shall, on a competi
 
 #### (B) Urban and rural areas
 
-&emsp;&emsp;If more than three local educational agencies in a State submit approvable local flexibility demonstration agreements under thisdivision, the Secretary shall select local educational agencies with which to enter into such agreements in a manner that ensures an equitable distribution among such agencies serving urban and rural areas.
+&emsp;&emsp;If more than three local educational agencies in a State submit approvable local flexibility demonstration agreements under this division, the Secretary shall select local educational agencies with which to enter into such agreements in a manner that ensures an equitable distribution among such agencies serving urban and rural areas.
 
 #### (C) Priority of States to enter into State flexibility demonstration agreements
 
@@ -88,7 +88,7 @@ Each local flexibility demonstration agreement entered into with the Secretary u
 
 #### (10) Annual reports
 
-&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency shall, not later than 1 year after the date on which the Secretary enters into the agreement, and annually thereafter during the term of the agreement, disseminate widely to parents and the general public, transmit to the Secretary, and the State educational agency for the State in which the local educational agency is located, distribute to print and broadcast media, and post on the Internet, a report that includes a detailed description of how the local educational agency used the funds consolidated under the agreement to improve student academic achievement and reduce achievement gaps.
+&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency shall, not later than 1 year after the date on which the Secretary entersinto the agreement, and annually thereafter during the term of the agreement, disseminate widely to parents and the general public, transmit to the Secretary, and the State educational agency for the State in which the local educational agency is located, distribute to print and broadcast media, and post on the Internet, a report that includes a detailed description of how the local educational agency used the funds consolidated under the agreement to improve student academic achievement and reduce achievement gaps.
 
 #### (d) Peer review
 
@@ -96,7 +96,7 @@ The Secretary shall—
 
 &emsp;(1) establish a peer review process to assist in the review of proposed local flexibility demonstration agreements under this division; and
 
-&emsp;(2) appoint individuals to the peer review process who are representative of parents,teachers, State educational agencies, and local educational agencies, and who are familiar with educational standards, assessments, accountability, curriculum, instruction and staff development, and other diverse educational needs of students.
+&emsp;(2) appoint individuals to the peer review process who are representative of parents, teachers, State educational agencies, and local educational agencies, and who are familiar with educational standards, assessments, accountability, curriculum, instruction and staff development, and other diverse educational needs of students.
 
 #### (e) Amendment to performance agreement
 

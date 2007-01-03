@@ -2,7 +2,7 @@
 
 A person knowingly making a false statement or representation in a matter in which a statement or representation is required by this part or a regulation prescribed under this part is liable to the United States Government for a civil penalty of not more than $20,000 for each false statement or representation. The vessel also is liable in rem for the penalty.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1925.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1925.)
 
 #### Historical and Revision Notes
 
@@ -10,5 +10,5 @@ A person knowingly making a false statement or representation in a matter in whi
 
 Source: Section (U.S. Code) 46 App. U.S.C. 83i.
 
-Section 14702 provides that a person knowingly making a false statement or representation in a matter in which a statement or representation is required by thispart or a regulation prescribed under this part is liable to the United States Government for a civil penalty of not more than $20,000 for each false statement or representation. It further provides that the vessel is liable in rem for the penalty. This penalty is increased from $1,000 in existing law and conforms with the level of similar penalties throughout the subtitle.
+Section 14702 provides that a person knowingly making a false statement or representation in a matter in which a statement or representation is required by this part or a regulation prescribed under this part is liable to the United States Government for a civil penalty of not more than $20,000 for each false statement or representation. It further provides that the vessel is liable in rem for the penalty. This penalty is increased from $1,000 in existing law and conforms with the level of similar penalties throughout the subtitle.
 

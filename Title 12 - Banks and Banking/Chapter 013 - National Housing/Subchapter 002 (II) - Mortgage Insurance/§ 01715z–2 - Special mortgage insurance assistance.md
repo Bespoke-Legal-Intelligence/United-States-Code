@@ -20,7 +20,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;(4) require monthly payments which, in combination with local real estate taxes on the property involved, do not exceed 36 per centum of the applicant's income, based on his average monthly income during the year prior to his application or the average monthly income during the three years prior to his application, whichever is higher; and
 
-&emsp;(5) require the mortgagor to be subject, if necessary, to a default mitigation effort undertaken by an intermediary community development financial institution under section 4702(5) of this title, that is acting as a sponsor and pass-through of insurance under section 1709 of this title and is approved by the Secretary;
+&emsp;(5) require the mortgagor to be subject, if necessary, to a default mitigation effort undertaken by an intermediary community development financial institution under section 4702(5) of this title, that is acting as a sponsor and pass-through of insurance undersection 1709 of this title and is approved by the Secretary;
 
 &emsp;(6) involve a total principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve) that is not more than 90 percent of the value of the property for which the mortgage is provided; and
 
@@ -28,7 +28,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 #### (d) Preferences in approving mortgage insurance applications and in providing counseling services; eligible families
 
-The Secretary shall give preference in approving mortgage insurance applications and in providing counseling services under this section (1) to families which are eligible for assistance payments under section 1715z of this title, (2) to families living in empowerment zones and enterprise communities (as those terms are defined in section 1393(b) of title 26 <sup>2</sup> who are eligible for homeownership assistance, and (3) to families living in public housing units, especially those families required to leave public housing because their incomes have risen beyond the maximum prescribed income limits, and families eligible for residence in public housing who havebeen displaced from federally assisted urban renewal areas.
+The Secretary shall give preference in approving mortgage insurance applications and in providing counseling services under this section (1) to families which are eligible for assistance payments under section 1715z of this title, (2) to families living in empowerment zones and enterprise communities (as those terms are defined in section 1393(b) of title 26 <sup>2</sup> who are eligible for homeownership assistance, and (3) to families living in public housing units, especially those families required to leave public housing because their incomes have risen beyond the maximum prescribed income limits, and families eligible for residence in public housing who have been displaced from federally assisted urban renewal areas.
 
 #### (e) Budget, debt management, and related counseling services
 
@@ -82,7 +82,7 @@ Subsecs. (g) to (j). Pub. L. 105–276, §599F(a)(9), (10), added subsecs. (g) t
 
 1969—Subsec. (c)(2). Pub. L. 91–152, §113(j), substituted “$21,000” for “$17,500” and “$18,000” for “$15,000”.
 
-Subsec. (d). Pub. L. 91–152, §110, inserted provision requiring the Secretary to give a preference in providing counseling services to the specified families, inserted text designated as cl. (1), and designated existing text as cl. (2).
+Subsec. (d). Pub. L. 91–152, §110, inserted provision requiring the Secretary to give a preference in providingcounseling services to the specified families, inserted text designated as cl. (1), and designated existing text as cl. (2).
 
 #### Effective Date of 1998 Amendment
 

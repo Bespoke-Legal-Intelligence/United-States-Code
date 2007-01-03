@@ -16,7 +16,7 @@ No person, firm, or corporation shall, with respect to any cattle, sheep, swine,
 
 #### (d) Adulteration or misbranding
 
-&emsp;do, with respect to any such articles which are capable of use as human food, any act while they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such articles to be adulterated or misbranded.
+&emsp;do, with respect to any such articles which are capable of use as human food, any actwhile they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such articles to be adulterated or misbranded.
 
 (Mar. 4, 1907, ch. 2907, title I, §10, formerly 8th par., 34 Stat. 1262; renumbered §10 and amended Pub. L. 90–201, §§1, 7, Dec. 15, 1967, 81 Stat. 584, 589; Pub. L. 95–445, §3, Oct. 10, 1978, 92 Stat. 1069.)
 

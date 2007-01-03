@@ -90,7 +90,7 @@
 
 &emsp;(C) all matters relating to the implementation of the agreement under section 2903 of this title.
 
-(3) If it is proposed to implement two or more trade agreements in a single implementing billunder section 2903 of this title, the consultation under paragraph (1) shall include the desirability and feasibility of such proposed implementation.
+(3) If it is proposed to implement two or more trade agreements in a single implementing bill under section 2903 of this title, the consultation under paragraph (1) shall include the desirability and feasibility of such proposed implementation.
 
 #### (e) Special provisions regarding Uruguay Round trade negotiations
 
@@ -112,7 +112,7 @@
 
 #### (4) Advisory committee reports
 
-&emsp;The report required under section 2155(e)(1) of this title regarding any trade agreement provided for under paragraph (1) shall be provided to the President, the Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into the agreement (but before January 15, 1994).
+&emsp;The report required under section 2155(e)(1) of this title regarding any trade agreementprovided for under paragraph (1) shall be provided to the President, the Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into the agreement (but before January 15, 1994).
 
 (Pub. L. 100–418, title I, §1102, Aug. 23, 1988, 102 Stat. 1126; Pub. L. 101–382, title I, §139(b), Aug. 20, 1990, 104 Stat. 653; Pub. L. 103–49, §1, July 2, 1993, 107 Stat. 239.)
 

@@ -24,21 +24,17 @@
 
 The Secretary shall develop procedures to coordinate evaluations under this section, to the extent feasible, with evaluations by the States of the effectiveness of programs under this subpart.
 
-#### (c) Research
+#### (c) Evaluation, research, and technical assistance with respect to targeted program resources
 
-The Secretary shall give priority consideration to the following topics for research and evaluation under this subsection, using rigorous evaluation methodologies where feasible:
+Of the amount reserved under section 629f(b)(1) of this title for a fiscal year, the Secretary shall use not less than—
 
-&emsp;(1) Promising program models in the service categories specified in section 629(b) of this title, particularly time-limited reunification services and postadoption services.
+&emsp;(1) $1,000,000 for evaluations, research, and providing technical assistance with respect to supporting monthly caseworker visits with children who are in foster care under the responsibility of the State, in accordance with section 629f(b)(4)(B)(i) of this title; and
 
-&emsp;(2) Multi-disciplinary service models designed to address parental substance abuse and to reduce its impacts on children.
-
-&emsp;(3) The efficacy of approaches directed at families with specific problems and with children of specific age ranges.
-
-&emsp;(4) The outcomes of adoptions finalized after enactment of the Adoption and Safe Families Act of 1997.
+&emsp;(2) $1,000,000 for evaluations, research, and providing technical assistance with respect to grants under section 629g(f) of this title.
 
 #### (d) Technical assistance
 
-To the extent funds are available therefor, the Secretary shall provide technical assistance that helps States and Indian tribes to—
+To the extent funds are available therefor, the Secretary shall provide technical assistancethat helps States and Indian tribes or tribal consortia to—
 
 &emsp;(1) develop research-based protocols for identifying families at risk of abuse and neglect of use in the field;
 
@@ -50,7 +46,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;(5) establish mechanisms to ensure that postadoption services meet the needs of the individual families and develop models to reduce the disruption rates of adoption.
 
-(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415.)
+(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243.)
 
 #### References in Text
 
@@ -64,6 +60,10 @@ A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this 
 
 #### Amendments
 
+2006—Subsec. (c). Pub. L. 109–288, §4(c), amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to topics for research and evaluation.
+
+Subsec. (d). Pub. L. 109–288, §5(b)(3)(C), inserted “or tribal consortia” after “Indian tribes” in introductory provisions.
+
 2002—Pub. L. 107–133, §105(1), substituted “Evaluations; research; technical assistance” for “Evaluations” in section catchline.
 
 Subsec. (a)(1). Pub. L. 107–133, §105(1), substituted “The Secretary shall evaluate and report to the Congress biennially on” for “The Secretary shall evaluate”.
@@ -71,6 +71,10 @@ Subsec. (a)(1). Pub. L. 107–133, §105(1), substituted “The Secretary shall 
 Subsec. (a)(3). Pub. L. 107–133, §105(2), added par. (3).
 
 Subsecs. (c), (d). Pub. L. 107–133, §105(3), added subsecs. (c) and (d).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 2002 Amendment
 

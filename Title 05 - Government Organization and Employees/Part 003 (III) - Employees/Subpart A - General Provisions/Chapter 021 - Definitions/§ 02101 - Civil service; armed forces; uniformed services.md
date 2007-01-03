@@ -30,7 +30,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–339, §1, Oct. 31, 1998, 112 Stat. 3182, provided that: “This Act \[enacting sections 3330a to 3330c of this title, section 1316a of Title 2, The Congress, section 115 of Title 3, The President, and section 1354 of Title 31, Money and Finance, amending sections 2108, 2302, and 3304 of this title and section 4212 of Title 38, Veterans’ Benefits, repealing section 1599c of Title 10, Armed Forces, enacting provisions set out as notes under section 2302 of this title and section 601 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 106 of Title 49, Transportation\] may be cited as the ‘Veterans Employment Opportunities Act of 1998’.”
+Pub. L. 105–339, §1, Oct. 31, 1998, 112 Stat. 3182, provided that: “This Act \[enacting sections 3330a to 3330c of this title, section 1316a of Title 2, The Congress, section 115 of Title 3, The President, and section 1354 of Title 31, Money and Finance, amending sections 2108, 2302, and 3304 of this title and section 4212 of Title 38, Veterans’ Benefits, repealing section 1599c of Title 10, Armed Forces, enacting provisions set out as notes under section 2302 of this title and section 601 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 106 of Title49, Transportation\] may be cited as the ‘Veterans Employment Opportunities Act of 1998’.”
 
 #### Short Title of 1994 Amendment
 

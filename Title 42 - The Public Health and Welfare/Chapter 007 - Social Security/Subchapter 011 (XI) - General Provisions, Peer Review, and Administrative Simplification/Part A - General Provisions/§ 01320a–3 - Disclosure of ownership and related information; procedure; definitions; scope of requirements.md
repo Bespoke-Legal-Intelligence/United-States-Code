@@ -20,7 +20,7 @@
 
 &emsp;(A)(i) has directly or indirectly (as determined by the Secretary in regulations) an ownership interest of 5 per centum or more in the entity; or
 
-&emsp;(ii) is the owner of a whole or part interest in any mortgage, deed of trust, note, or other obligation secured (in whole or in part) by the entity or any of the property or assets thereof, which whole or part interest is equal to or exceeds 5 per centum of the total property and assets of the entity; or
+&emsp;(ii) is the owner of a whole or part interest in any mortgage, deed of trust, note, or otherobligation secured (in whole or in part) by the entity or any of the property or assets thereof, which whole or part interest is equal to or exceeds 5 per centum of the total property and assets of the entity; or
 
 &emsp;(B) is an officer or director of the entity, if the entity is organized as a corporation; or
 

@@ -14,7 +14,7 @@ The responsible party for—
 
 #### (1) Withholding clearance
 
-&emsp;The Secretary of the Treasury shall withhold or revoke the clearance required by section 91 of title 46, Appendix, of any vessel subject to this section that does not have the evidence of financial responsibility required for the vessel under this section.
+&emsp;The Secretary of the Treasury shall withhold or revoke the clearance required by section 60105 of title 46 of any vessel subject to this section that does not have the evidence of financial responsibility required for the vessel under this section.
 
 #### (2) Denying entry to or detaining vessels
 
@@ -70,7 +70,7 @@ The responsible party for—
 
 #### (2) Deepwater ports
 
-&emsp;Each responsible party with respect to a deepwater port shall establish and maintain evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case where the responsible party would be entitled to limit liability under that section. If the Secretary exercises the authority under section 2704(d)(2) of this title to lower the limit of liability for deepwater ports, the responsible party shall establish and maintain evidence of financial responsibility sufficient to meet the maximum amount of liability so established. In a case in which a person is the responsible party for more than one deepwater port, evidence of financial responsibility need be established only to meet the maximum liability applicable to the deepwater port having the greatest maximum liability.
+&emsp;Each responsible party with respect to a deepwater port shall establish and maintain evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case where the responsible party would be entitled to limit liability under that section. If theSecretary exercises the authority under section 2704(d)(2) of this title to lower the limit of liability for deepwater ports, the responsible party shall establish and maintain evidence of financial responsibility sufficient to meet the maximum amount of liability so established. In a case in which a person is the responsible party for more than one deepwater port, evidence of financial responsibility need be established only to meet the maximum liability applicable to the deepwater port having the greatest maximum liability.
 
 #### (e) <sup>1</sup> Methods of financial responsibility
 
@@ -123,6 +123,10 @@ The Secretary may issue a single unified certificate of financial responsibility
 This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The effective date of this Act, referred to in subsec. (h), is the effective date of Pub. L. 101–380 which is applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+
+#### Codification
+
+In subsec. (b)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 

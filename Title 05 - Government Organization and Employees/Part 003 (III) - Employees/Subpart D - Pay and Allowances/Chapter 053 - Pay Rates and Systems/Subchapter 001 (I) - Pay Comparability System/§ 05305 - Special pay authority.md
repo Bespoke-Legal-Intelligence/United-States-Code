@@ -40,7 +40,7 @@
 
 (j) A rate determined under a schedule of special rates established under this section shall be considered to be part of basic pay for purposes of subchapter III of chapter 83, chapter 84, chapter 87, subchapter V of chapter 55, and section 5941, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, §202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, §301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, §202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, §529\[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, §301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Delegation of Functions
 
-For delegation of authorities of President under this section, see Ex. Ord. No. 12748, §3, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 
 #### Staffing Differentials
 
@@ -110,7 +110,7 @@ Manner of Payment; Reduction or Elimination.—A staffing differential under thi
 
 #### Federal Law Enforcement Pay Reform
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that: “Beginning on the effective date of this Act \[see section 1(a)(4) \[div. B, title IX, §909\] of Pub. L. 106–554, set out in a Conversion to New Salary Schedule note under section 204 of Title 3, The President\]—
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that: “Beginning on the effective date of this Act \[see section 1(a)(4) \[div. B, title IX, §909\] of Pub. L. 106–554, set out in a Conversion to New Salary Schedule note under section 3056A of Title 18, Crimes and Criminal Procedure\]—
 
 &emsp;“(1) no existing special salary rates shall be authorized for members of the United States Park Police under section 5305 of title 5, United States Code (or any previous similar provision of law); and
 
@@ -128,7 +128,7 @@ Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub.
 
 #### “SEC. 403. SPECIAL RATES FOR LAW ENFORCEMENT OFFICERS.
 
-“(a) Notwithstanding the procedures of section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law, higher minimum rates and corresponding increases in all step ratesof each designated General Schedule grade shall be established for law enforcement officers in accordance with the provisions of this section.
+“(a) Notwithstanding the procedures of section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law, higher minimum rates and corresponding increases in all step rates of each designated General Schedule grade shall be established for law enforcement officers in accordance with the provisions of this section.
 
 “(b)(1) Effective on the first day of the first applicable pay period beginning on or after January 1, 1992, the higher minimum rates to be established are as follows:
 
@@ -251,11 +251,11 @@ Step 2
 
 #### “SEC. 406. FBI NEW YORK FIELD DIVISION.
 
-“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York Field Division before the date of September 29, 1993, in a position covered by the demonstration project conducted under section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
+“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York Field Division before the date of September 29, 1993, in a position covered by the demonstration project conductedunder section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
 
 “(b) Beginning on September 30, 1993, any periodic payment under section 601(a)(2) of the Intelligence Authorization Act for Fiscal Year 1989 \[Pub. L. 100–453, 102 Stat. 1911\] for any such employee shall be reduced by the amount of any increase in basic pay under title 5, United States Code, including the following provisions: an annual adjustment under section 5303, locality-based comparability payment under section 5304, initiation or increase in a special pay rate under section 5305, promotion under section 5334, periodic step increase under section 5335, merit increase under section 5404, or other increase to basic pay under any provision of law.”
 
-\[Section 303(b) of Pub. L. 103–178 provided that: “The amendment made by subsection (a) \[amending section529 \[title IV, §406\] of Pub. L. 101–509, set out above\] shall take effect as of September 30, 1993, and shall apply to the pay of employees to whom the amendment applies that is earned on or after that date.”\]
+\[Section 303(b) of Pub. L. 103–178 provided that: “The amendment made by subsection (a) \[amending section 529 \[title IV, §406\] of Pub. L. 101–509, set out above\] shall take effect as of September 30, 1993, and shall apply to the pay of employees to whom the amendment applies that is earned on or after that date.”\]
 
 \[For effective dates of amendments by section 3(5)–(9) of Pub. L. 102–378 to section 529 \[title IV, §§402, 403(d), 404(a), (b), 405(a)\] of Pub. L. 101–509, set out above, see section 9(a), (b)(6), (9) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 

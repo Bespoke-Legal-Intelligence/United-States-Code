@@ -12,7 +12,7 @@ In General.—The Secretary of Transportation may make grants, from amounts set 
 
 Eligibility.—In order to receive a grant under this section, a State or unit of local government must—
 
-&emsp;(1) have the authority to plan and adopt land use control measures, including zoning, in theplanning area in and around a large or medium hub airport;
+&emsp;(1) have the authority to plan and adopt land use control measures, including zoning, in the planning area in and around a large or medium hub airport;
 
 &emsp;(2) enter into an agreement with the airport owner or operator that the development of the land use compatibility plan will be done cooperatively; and
 

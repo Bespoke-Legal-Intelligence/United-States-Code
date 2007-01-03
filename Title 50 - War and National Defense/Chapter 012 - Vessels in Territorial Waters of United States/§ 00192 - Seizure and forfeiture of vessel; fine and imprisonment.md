@@ -20,7 +20,7 @@ Any vessel that is used in violation of this title,<sup>1</sup> or of any regula
 
 #### (1) In general
 
-&emsp;If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c) of this section, or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by section 91 of title 46, Appendix.
+&emsp;If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c) of this section, or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by section 60105 of title 46.
 
 #### (2) Clearance upon filing of bond or other surety
 
@@ -31,6 +31,10 @@ Any vessel that is used in violation of this title,<sup>1</sup> or of any regula
 #### References in Text
 
 This title, referred to in subsecs. (a) to (d), means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of title II to the Code, see Tables.
+
+#### Codification
+
+In subsec. (e)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 

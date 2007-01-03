@@ -16,7 +16,7 @@ For purposes of this section:
 
 #### (b) Notice of proposed rulemaking; regulatory analysis; contents; issuance
 
-(1) In any case in which the Commission publishes notice of a proposed rulemaking, the Commission shall issue a preliminary regulatory analysis relating to the proposed rule involved. Each preliminary regulatory analysis shall contain—
+(1) In any case in which the Commission publishes notice of a proposed rulemaking, the Commission shall issue a preliminary regulatory analysis relating to the proposed rule involved.Each preliminary regulatory analysis shall contain—
 
 &emsp;(A) a concise statement of the need for, and the objectives of, the proposed rule;
 

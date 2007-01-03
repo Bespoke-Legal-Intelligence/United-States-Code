@@ -8,7 +8,7 @@ The Secretary of Agriculture shall update, on a periodic basis, nutrient composi
 
 Not later than 180 days after June 23, 1998, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
 
-&emsp;(1) the method the Secretary will use to update nutrient composition data, including the quality assurance criteria that will be used and the method for generating the data; and
+&emsp;(1) the method the Secretary will use to update nutrient composition data, including thequality assurance criteria that will be used and the method for generating the data; and
 
 &emsp;(2) the timing for updating the data.
 

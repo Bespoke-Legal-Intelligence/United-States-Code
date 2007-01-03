@@ -86,7 +86,7 @@ Nothing in this chapter prohibits the Administrator from establishing, in rate s
 
 #### (f) Basis for rates
 
-Rates for all other firm power sold by the Administrator for use in the Pacific Northwest shall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
+Rates for all other firm power sold by the Administrator for use in the Pacific Northwestshall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
 
 #### (g) Allocation of costs and benefits
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of this chapter, all rates or rate schedules
 
 #### (<i>l</i>) Rates for sales outside United States; negotiations
 
-In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) of this section shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than therates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
+In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) of this section shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than the rates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
 
 #### (m) Impact aid payments; formula
 

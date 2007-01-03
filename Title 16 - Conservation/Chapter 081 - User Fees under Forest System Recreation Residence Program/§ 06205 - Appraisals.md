@@ -12,7 +12,7 @@ In implementing and conducting an appraisal process for determining cabin user f
 
 &emsp;&emsp;(C) cabin owners (or predecessors of cabin owners),
 
-> &emsp;during the completion of which the Secretary shall presume that a cabin owner, or a predecessor of the owner, has paid for the capital costs of any utility, access, or facility serving the lot being appraised, unless the Forest Service produces evidence that the agency or a third party has paid for the capital costs;
+> &emsp;during the completion of which the Secretary shall presume that a cabin owner, or a predecessor of the owner, has paid for the capital costs of any utility, access, or facility serving the lot being appraised, unless the ForestService produces evidence that the agency or a third party has paid for the capital costs;
 
 &emsp;(2) establish an appraisal process to determine the market value of the fee simple estate of a typical lot or lots considered to be in a natural, native state, subject to subsection (b)(4)(A) of this section;
 

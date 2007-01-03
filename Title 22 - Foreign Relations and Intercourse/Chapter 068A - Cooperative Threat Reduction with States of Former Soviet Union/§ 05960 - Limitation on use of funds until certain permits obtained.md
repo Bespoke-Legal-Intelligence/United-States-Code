@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Defense shall seek to obtain all the permits required to complete each phase of construction of a project under Cooperative Threat Reduction programs before obligating significant amounts of funding for that phase of the project.
+The Secretary of Defense shall seek to obtain all the permits required to complete each phase of construction of a project under CooperativeThreat Reduction programs before obligating significant amounts of funding for that phase of the project.
 
 #### (b) Use of funds for new construction projects
 
@@ -56,5 +56,5 @@ Pub. L. 108–136, div. A, title XIII, §1301(a), Nov. 24, 2003, 117 Stat. 1657,
 
 #### “Congressional Defense Committees” defined
 
-Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1406.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1406. See note under section 101 of Title 10, Armed Forces.
 

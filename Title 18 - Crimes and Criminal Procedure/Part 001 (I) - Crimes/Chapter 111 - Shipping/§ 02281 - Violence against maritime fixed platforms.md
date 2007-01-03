@@ -40,7 +40,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 &emsp;(2) during the commission of such activity against or on board a fixed platform located on a continental shelf, a national of the United States is seized, threatened, injured or killed; or
 
-&emsp;(3) such activity is committed against or on board a fixed platform located outside theUnited States and beyond the continental shelf of the United States and the offender is later found in the United States.
+&emsp;(3) such activity is committed against or on board a fixed platform located outside the United States and beyond the continental shelf of the United States and the offender is later found in the United States.
 
 (c)
 
@@ -75,4 +75,6 @@ Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103�
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
 

@@ -54,7 +54,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 &emsp;&emsp;(C) actions to encourage consumers to purchase honey and honey products bearing the official seal of approval; and
 
-&emsp;&emsp;(D) periodic inspections by the Secretary, or other parties approved by the Secretary, of honey and honey products of producers,handlers, and importers that participate in the voluntary program.
+&emsp;&emsp;(D) periodic inspections by the Secretary, or other parties approved by the Secretary, of honey and honey products of producers, handlers, and importers that participate in the voluntary program.
 
 #### (3) Display of seal of approval
 

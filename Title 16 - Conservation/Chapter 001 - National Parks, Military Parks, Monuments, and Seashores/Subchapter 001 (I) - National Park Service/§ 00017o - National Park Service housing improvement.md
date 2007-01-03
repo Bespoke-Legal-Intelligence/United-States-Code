@@ -56,7 +56,7 @@ For those units of the National Park System for which the review required by par
 
 &emsp;&emsp;(ii) shall require that the construction and rehabilitation of field employee quarters be done in accordance with the requirements of the National Park Service and local applicable building codes and industry standards;
 
-&emsp;&emsp;(iii) shall contain such additional terms and conditions as may be appropriate to protect the Federal interest, including limits onrents the lessee may charge field employees for the occupancy of quarters, conditions on maintenance and repairs, and agreements on the provision of charges for utilities and other infrastructure; and
+&emsp;&emsp;(iii) shall contain such additional terms and conditions as may be appropriate to protect the Federal interest, including limits on rents the lessee may charge field employees for the occupancy of quarters, conditions on maintenance and repairs, and agreements on the provision of charges for utilities and other infrastructure; and
 
 &emsp;&emsp;(iv) may be granted at less than fair market value if the Secretary determines that such lease will improve the quality and availability of field employee quarters available.
 
@@ -124,7 +124,7 @@ The Secretary may use authorities granted by statute in combination with one ano
 
 The Secretary shall—
 
-&emsp;(A) complete a condition assessment for all field employee housing, including the physical condition of such housing and the necessity and suitability of such housing for carrying out the agency mission, using existing information; and
+&emsp;(A) complete a condition assessment for all field employee housing, including the physicalcondition of such housing and the necessity and suitability of such housing for carrying out the agency mission, using existing information; and
 
 &emsp;(B) develop an agency-wide priority listing, by structure, identifying those units in greatest need for repair, rehabilitation, replacement, or initial construction.
 
@@ -138,7 +138,7 @@ The President's proposed budget to Congress for the first fiscal year beginning 
 
 #### (15) Study of housing allowances
 
-Within 12 months after November 12, 1996, the Secretary shall conduct a study to determine the feasibility of providing eligible employees of the National Park Service with housing allowances rather than Government housing. The study shall specifically examine the feasibility of providing rental allowances to temporary and lower paid permanent employees. Whenever the Secretary submits a copy of such study to theOffice of Management and Budget, he shall concurrently transmit copies of the report to the Resources Committee of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
+Within 12 months after November 12, 1996, the Secretary shall conduct a study to determine the feasibility of providing eligible employees of the National Park Service with housing allowances rather than Government housing. The study shall specifically examine the feasibility of providing rental allowances to temporary and lower paid permanent employees. Whenever the Secretary submits a copy of such study to the Office of Management and Budget, he shall concurrently transmit copies of the report to the Resources Committee of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
 
 #### (16) Study of sale of employee housing
 
@@ -202,7 +202,7 @@ Par. (11)(B)(ii). Pub. L. 106–176, §120(a)(1)(D), substituted “more cost-ef
 
 Par. (13). Pub. L. 106–176, §120(a)(1)(E), substituted “paragraph (12),” for “paragraph (13),”.
 
-Par. (18). Pub. L. 106–176, §120(a)(1)(F), substituted “under paragraph (7)(A) and any lease under paragraph (11)” for “under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (<i>l</i>),”.
+Par. (18). Pub. L. 106–176, §120(a)(1)(F), substituted “under paragraph (7)(A) and any lease under paragraph\(11)” for “under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (<i>l</i>),”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -22,9 +22,9 @@
 
 &emsp;&emsp;(H) a trust described in section 501(c)(18) of such Code; or
 
-&emsp;&emsp;(I) any plan, program, or arrangement described in section 3121(v)(2)(C) of such Code, if such income—
+&emsp;&emsp;(I) any plan, program, or arrangement described in section 3121(v)(2)(C) of such Code (or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins), if such income—
 
-&emsp;&emsp;&emsp;(i) is part of a series of substantially equal periodic payments (not less frequently than annually) made for—
+&emsp;&emsp;&emsp;(i) is part of a series of substantially equal periodic payments (not less frequently than annually which may include income described in subparagraphs (A) through (H)) made for—
 
 &emsp;&emsp;&emsp;&emsp;(I) the life or life expectancy of the recipient (or the joint lives or joint life expectancies of the recipient and the designated beneficiary of the recipient), or
 
@@ -32,21 +32,35 @@
 
 &emsp;&emsp;&emsp;(ii) is a payment received after termination of employment and under a plan, program, or arrangement (to which such employment relates) maintained solely for the purpose of providing retirement benefits for employees in excess of the limitations imposed by 1 or more of sections 401(a)(17), 401(k), 401(m), 402(g), 403(b), 408(k), or 415 of such Code or any other limitation on contributions or benefits in such Code on plans to which any of such sections apply.
 
+> &emsp;&emsp;The fact that payments may be adjusted from time to time pursuant to such plan, program, or arrangement to limit total disbursements under a predetermined formula, or to provide cost of living or similar adjustments, will not cause the periodic payments provided under such plan, program, or arrangement to fail the “substantially equal periodic payments” test.
+
 > &emsp;Such term includes any retired or retainer pay of a member or former member of a uniform service computed under chapter 71 of title 10, United States Code.
 
 &emsp;(2) The term “income tax” has the meaning given such term by section 110(c).
 
 &emsp;(3) The term “State” includes any political subdivision of a State, the District of Columbia, and the possessions of the United States.
 
+&emsp;(4) For purposes of this section, the term “retired partner” is an individual who is described as a partner in section 7701(a)(2) of the Internal Revenue Code of 1986 and who is retired under such individual's partnership agreement.
+
 (e) <sup>1</sup> Nothing in this section shall be construed as having any effect on the application of section 514 of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 104–95, §1(a), Jan. 10, 1996, 109 Stat. 979.)
+(Added Pub. L. 104–95, §1(a), Jan. 10, 1996, 109 Stat. 979; amended Pub. L. 109–264, §1(a), Aug. 3, 2006, 120 Stat. 667.)
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (b)(1), (4), is classified generally to Title 26, Internal Revenue Code.
 
 Section 514 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (e), is classified to section 1144 of Title 29, Labor.
+
+#### Amendments
+
+2006—Subsec. (b)(1)(I). Pub. L. 109–264, §1(a)(1)–(3), inserted “(or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins)” after “section 3121(v)(2)(C) of such Code” in introductory provisions, “which may include income described in subparagraphs (A) through (H)” after “(not less frequently than annually” in cl. (i), and concluding provisions at end.
+
+Subsec. (b)(4). Pub. L. 109–264, §1(a)(4), which directed the addition of par. (4) at end of subsec. (b)(1)(I), was executed by adding par. (4) at end of subsec. (b) to reflect the probable intent of Congress.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–264, §1(b), Aug. 3, 2006, 120 Stat. 667, provided that: “The amendments made by this section \[amending this section\] apply to amounts received after December 31, 1995.”
 
 #### Effective Date
 

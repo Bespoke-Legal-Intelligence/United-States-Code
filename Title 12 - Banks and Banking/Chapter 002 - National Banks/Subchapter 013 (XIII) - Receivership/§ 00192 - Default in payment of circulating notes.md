@@ -26,7 +26,7 @@ R.S. §5234 derived from act June 3, 1864, ch. 106, §50, 13 Stat. 114, which wa
 
 #### Transfer of Functions
 
-For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
+For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
 #### Application to District of Columbia
 

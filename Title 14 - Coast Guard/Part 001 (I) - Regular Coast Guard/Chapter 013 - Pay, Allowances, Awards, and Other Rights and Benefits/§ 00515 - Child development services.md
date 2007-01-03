@@ -14,7 +14,7 @@
 
 (d) Of the amounts available to the Coast Guard each fiscal year for operating expenses (and in addition to amounts received as fees), the Secretary may use for child development services under this section an amount not to exceed the total amount the Commandant estimates will be received by the Coast Guard in the fiscal year as fees for the provision of those services.
 
-(e) The Commandant may use appropriated funds available to the Coast Guard to provide assistance to family home day care providers so that family home day care services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
+(e) The Commandant may use appropriated funds available to the Coast Guard to provide assistance to family home day care providers sothat family home day care services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
 
 (f) The Secretary shall promulgate regulations to implement this section. The regulations shall establish fees to be charged for child development services provided under this section which take into consideration total family income.
 

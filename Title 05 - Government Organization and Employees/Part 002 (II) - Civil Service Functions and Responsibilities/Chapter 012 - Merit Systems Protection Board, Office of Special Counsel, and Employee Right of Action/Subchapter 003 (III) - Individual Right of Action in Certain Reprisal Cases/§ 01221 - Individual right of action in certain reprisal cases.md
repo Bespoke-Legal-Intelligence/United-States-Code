@@ -10,7 +10,7 @@
 
 (3)(A) The Board shall allow any agency which would be subject to a stay under this subsection to comment to the Board on such stay request.
 
-(B) Except as provided in subparagraph (C), a stay granted under this subsection shall remainin effect for such period as the Board determines to be appropriate.
+(B) Except as provided in subparagraph (C), a stay granted under this subsection shall remain in effect for such period as the Board determines to be appropriate.
 
 (C) The Board may modify or dissolve a stay under this subsection at any time, if the Board determines that such a modification or dissolution is appropriate.
 
@@ -42,7 +42,7 @@
 
 (2) If an employee, former employee, or applicant for employment is the prevailing party before the Merit Systems Protection Board, and the decision is based on a finding of a prohibited personnel practice, the agency involved shall be liable to the employee, former employee, or applicant for reasonable attorney's fees and any other reasonable costs incurred.
 
-(3) If an employee, former emloyee,<sup>1</sup> or applicant for employment is the prevailing party in an appeal from the Merit Systems Protection Board, the agency involved shall be liable to the employee, former employee, or applicant for reasonable attorney's fees and any other reasonable costs incurred, regardless of the basis of the decision.
+(3) If an employee, former emloyee,<sup>1</sup> or applicant for employment is the prevailing party in an appeal from the Merit Systems ProtectionBoard, the agency involved shall be liable to the employee, former employee, or applicant for reasonable attorney's fees and any other reasonable costs incurred, regardless of the basis of the decision.
 
 (h)(1) An employee, former employee, or applicant for employment adversely affected or aggrieved by a final order or decision of the Board under this section may obtain judicial review of the order or decision.
 

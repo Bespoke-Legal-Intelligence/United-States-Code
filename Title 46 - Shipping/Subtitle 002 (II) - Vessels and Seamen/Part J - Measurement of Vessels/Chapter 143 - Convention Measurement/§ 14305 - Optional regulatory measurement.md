@@ -2,7 +2,7 @@
 
 (a) On request of the owner of a documented vessel measured under this chapter, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
 
-&emsp;(1) parts A, B, C, E, F, and G and sections 12106(c) and 12108(c) of this title;
+&emsp;(1) parts A, B, C, E, F, and G of this subtitle and section 12116 of this title;
 
 &emsp;(2) section 3(d)(3) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 903(d)(3));
 
@@ -10,11 +10,11 @@
 
 &emsp;(4) section 4(a)(3) of the Ports and Waterways Safety Act (33 U.S.C. 1223(a)(3));
 
-&emsp;(5) section 4283 of the Revised Statutes of the United States (46 App. U.S.C. 183);
+&emsp;(5) section 30506 of this title;
 
-&emsp;(6) sections 27 and 27A of the Act of June 5, 1920 (46 App. U.S.C. 883 and 883–1);
+&emsp;(6) sections 12118 and 12132 of this title;
 
-&emsp;(7) Act of July 14, 1956 (46 App. U.S.C. 883a);
+&emsp;(7) section 12139(b) of this title;
 
 &emsp;(8) sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, and 354a);
 
@@ -34,7 +34,7 @@
 
 (b) As long as the owner of a vessel has a request in effect under subsection (a) of this section, the tonnages determined under that request shall be used in applying the other provisions of law described in subsection (a) to that vessel.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704.)
 
 #### Historical and Revision Notes
 
@@ -60,7 +60,7 @@ Clause (1) of section 14305(a) includes the following parts of subtitle II of ti
 
 &emsp;Part H: Sections 12106(c) and 12108(c) only—Identification of Vessels.
 
-The other U.S. laws listed in clause (2) through (10) of this section are self-explanatory. Clause (10) refers to domestic law as well as the Officers’ Competency Certificates Convention, 1936.
+The other U.S. laws listed in clause (2) through (10) of this section are self-explanatory. Clause (10) refers todomestic law as well as the Officers’ Competency Certificates Convention, 1936.
 
 In addition, three other international conventions are listed in clauses (11) through (13): (1) the Convention for the Safety of Life at Sea, (2) the Convention on the Standards of Training, Certification, and Watchkeeping for Seafarers, and (3) the Convention for the Prevention of Pollution from Ships. The International Maritime Organization has established interim schemes which address the use of the Convention tonnage measurement system as a basis for the applicability of these three conventions. The applicable sections of those schemes are the following:
 
@@ -74,7 +74,7 @@ The International Convention on Standards of Training, Certification, and Watchk
 
 The International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973: IMO Resolution A.541 (XIII) of November 17, 1983, provides that:
 
-&emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules)the keel of which is laid on or before 31 December 1985 and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
+&emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985 and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
 
 It further provides that “the interim scheme shall not apply to ships the keels of which are laid after 31 December 1985, except that in respect of regulations for ships of less than 400 tons gross tonnage (as measured under previous national rules), the keels of which are laid after 31 December 1985, the Administration may continue to apply the interim scheme until 18 July 1994.”
 
@@ -88,8 +88,6 @@ Section 14305(b) provides that if a vessel is measured under the regulatory tonn
 
 Section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a)), referred to in subsec. (a)(3), probably means section 4(a) of the Vessel Bridge-to-Bridge Radiotelephone Act, which is classified to section 1203(a) of Title 33, Navigation and Navigable Waters.
 
-Act of July 14, 1956 (46 App. U.S.C. 883a), referred to in subsec. (a)(7), probably means section 2 of Act July 14, 1956, ch. 600, 70 Stat. 544, as amended, which is classified to section 883a of the Appendix to this title. For complete classification of this Act to the Code, see References in Text note set out under section 883a of the Appendix to this title and Tables.
-
 Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 The Officers’ Competency Certificates Convention, 1936, referred to in subsec. (a)(10), is set out in 54 Stat. Pt. 2, p. 1683.
@@ -98,7 +96,13 @@ For provisions relating to International Conventions for the Safety of Life at S
 
 For provisions relating to the International Convention for the Prevention of Pollution from Ships, as modified, referred to in subsec. (a)(13), see chapter 33 (§1901 et seq.) of Title 33.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 7506, 14302, 14501 of this title.
+2006—Subsec. (a)(1). Pub. L. 109–304, §15(26)(A), substituted “of this subtitle and section 12116” for “and sections 12106(c) and 12108(c)”.
+
+Subsec. (a)(5). Pub. L. 109–304, §15(26)(B), substituted “section 30506 of this title” for “section 4283 of the Revised Statutes of the United States (46 App. U.S.C. 183)”.
+
+Subsec. (a)(6). Pub. L. 109–304, §15(26)(C), substituted “sections 12118 and 12132 of this title” for “sections 27 and 27A of the Act of June 5, 1920 (46 App. U.S.C. 883 and 883–1)”.
+
+Subsec. (a)(7). Pub. L. 109–304, §15(26)(D), substituted “section 12139(b) of this title” for “Act of July 14, 1956 (46 App. U.S.C. 883a)”.
 

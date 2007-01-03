@@ -4,7 +4,7 @@
 
 #### (1) Report required
 
-&emsp;Each insured depository institution shall submit an annual report to the Corporation, the appropriate Federal banking agency, and any appropriate State bank supervisor (including any State bank supervisor of a host State).
+&emsp;Each insured depository institution shall submit an annual report to the Corporation,the appropriate Federal banking agency, and any appropriate State bank supervisor (including any State bank supervisor of a host State).
 
 #### (2) Contents of report
 
@@ -90,11 +90,11 @@ Each insured depository institution shall prepare—
 
 #### (A) Establishment
 
-&emsp;&emsp;Each insured depository institution (to which this section applies) shall have anindependent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
+&emsp;&emsp;Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
 
 #### (B) Duties
 
-&emsp;&emsp;An independent audit committee's duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
+&emsp;&emsp;An independent audit committee's duties shall include reviewing with managementand the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
 
 #### (C) Criteria applicable to committees of large insured depository institutions
 
@@ -168,7 +168,7 @@ Each insured depository institution shall prepare—
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recentreport of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
+&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recent report of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
 
 #### (B) Additional information
 
@@ -218,7 +218,7 @@ Each insured depository institution shall prepare—
 
 #### (3) Applicability based on risk to fund
 
-&emsp;The appropriate Federal banking agency may require an institution with total assets in excess of $9,000,000,000 to comply with this section, notwithstanding the exemption provided by this subsection, if it determines that such exemption would create a significant risk to the affected deposit insurance fund if applied to that institution.
+&emsp;The appropriate Federal banking agency may require an institution with total assets in excess of $9,000,000,000 to comply with this section, notwithstanding the exemption provided by this subsection, if it determines that such exemption would create a significant risk to the Deposit Insurance Fund if applied to that institution.
 
 #### (j) Exemption for small depository institutions
 
@@ -228,13 +228,13 @@ This section shall not apply with respect to any fiscal year of any insured depo
 
 &emsp;(2) such amount (in excess of $150,000,000) as the Corporation may prescribe by regulation.
 
-(Sept. 21, 1950, ch. 967, §2\[36\], as added Pub. L. 102–242, title I, §112(a), Dec. 19, 1991, 105 Stat. 2242; amended Pub. L. 102–550, title XVI, §1603(b)(3), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, §314, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, §§2301, 2704(d)(14)(Z), Sept. 30, 1996, 110 Stat. 3009–419, 3009–494; Pub. L. 109–173, §8(a)(34), Feb. 15, 2006, 119 Stat. 3615.)
-
-#### Amendment of Subsection (i)(3)
-
-<i>Pub. L. 109–173, §8(a)(34), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, subsection (i)(3) of this section is amended by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[36\], as added Pub. L. 102–242, title I, §112(a), Dec. 19, 1991, 105 Stat. 2242; amended Pub. L. 102–550, title XVI, §1603(b)(3), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, §314, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, §§2301, 2704(d)(14)(Z), Sept. 30, 1996, 110 Stat. 3009–419, 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(34), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### Amendments
+
+2006—Subsec. (i)(3). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(Z). See 1996 Amendment note below.
 
 1996—Subsec. (a)(3). Pub. L. 104–208, §2301(c), inserted at end “Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.”
 
@@ -242,7 +242,7 @@ Subsec. (e). Pub. L. 104–208, §2301(a), inserted “\[Repealed\]” and struc
 
 “(1)
 
-In general—An independent public accountant shall apply procedures agreed upon by the Corporation to objectively determine the extent of the compliance of any insured depository institution or depository institution holding company with laws and regulationsdesignated by the Corporation, in consultation with the appropriate Federal banking agencies.
+In general—An independent public accountant shall apply procedures agreed upon by the Corporation to objectively determine the extent of the compliance of any insured depository institution or depository institution holding company with laws and regulations designated by the Corporation, in consultation with the appropriate Federal banking agencies.
 
 “(2)
 
@@ -252,7 +252,7 @@ Subsec. (g)(1)(A). Pub. L. 104–208, §2301(b)(1), inserted “, except as pro
 
 Subsec. (g)(1)(D). Pub. L. 104–208, §2301(b)(2), added subpar. (D).
 
-Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of “Deposit Insurance Fund” for“affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (g)(2)(D). Pub. L. 103–325, §314(b), added subpar. (D).
 
@@ -276,9 +276,11 @@ Subsec. (g)(5). Pub. L. 102–550, §1603(b)(3)(C), inserted “and each appropr
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by section 2704(d)(14)(Z) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by section 2704(d)(14)(Z) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -14,7 +14,7 @@
 
 &emsp;(E) each amendment, revision, or repeal of the foregoing.
 
-> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in theFederal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
+> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
 
 (2) Each agency, in accordance with published rules, shall make available for public inspection and copying—
 
@@ -28,7 +28,7 @@
 
 &emsp;(E) a general index of the records referred to under subparagraph (D);
 
-> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
+> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and theextent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
 
 &emsp;(i) it has been indexed and either made available or published as provided by this paragraph; or
 
@@ -68,7 +68,7 @@
 
 (v) No agency may require advance payment of any fee unless the requester has previously failed to pay fees in a timely fashion, or the agency has determined that the fee will exceed $250.
 
-(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specifically providing for setting the level of fees for particular types of records.
+(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specificallyproviding for setting the level of fees for particular types of records.
 
 (vii) In any action by a requester regarding the waiver of fees under this section, the court shall determine the matter de novo: <i>Provided</i>, That the court's review of the matter shall be limited to the record before the agency.
 
@@ -92,7 +92,7 @@
 
 &emsp;(ii) make a determination with respect to any appeal within twenty days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such appeal. If on appeal the denial of the request for records is in whole or in part upheld, the agency shall notify the person making such request of the provisions for judicial review of that determination under paragraph (4) of this subsection.
 
-(B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension andthe date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
+(B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
 
 (ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
 
@@ -250,7 +250,7 @@ In subsection (a)(1)(A), the words “employees (and in the case of a uniformed 
 
 In the last sentence of subsection (a)(2), the words “A final order \* \* \* may be relied on \* \* \* only if” are substituted for “No final order \* \* \* may be relied upon \* \* \* unless”; and the words “a party other than an agency” and “the party” are substituted for “a private party” and “the private party”, respectively, on authority of the definition of “private party” in 5 App. U.S.C. 1002(g).
 
-In subsection (a)(3), the words “the responsible employee, and in the case of a uniformed service, the responsible member” are substituted for “the responsible officers” to retain the coverage of Public Law 89–487and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
+In subsection (a)(3), the words “the responsible employee, and in the case of a uniformed service, the responsible member” are substituted for “the responsible officers” to retain the coverage of Public Law 89–487 and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
 
 In subsection (a)(4), the words “shall maintain and make available for public inspection a record” are substituted for “shall keep a record \* \* \* and that record shall be available for public inspection”.
 
@@ -334,7 +334,7 @@ Subsec. (a)(6). Pub. L. 93–502, §1(c), added par. (6).
 
 Subsec. (b)(1). Pub. L. 93–502, §2(a), designated existing provisions as cl. (A), substituted “authorized under criteria established by an” for “required by”, and added cl. (B).
 
-Subsec. (b)(7). Pub. L. 93–502, §2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisions relating to exemption for investigatory files compiled for law enforcement purposes.
+Subsec. (b)(7). Pub. L. 93–502, §2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisionsrelating to exemption for investigatory files compiled for law enforcement purposes.
 
 Subsec. (b), foll. par. (9). Pub. L. 93–502, §2(c), inserted provision relating to availability of segregable portion of records.
 
@@ -376,7 +376,7 @@ Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this se
 
 Section 1804 of Pub. L. 99–570 provided that:
 
-“(a) The amendments made by section 1802 \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 27, 1986\], and shall apply with respectto any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
+“(a) The amendments made by section 1802 \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 27, 1986\], and shall apply with respect to any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
 
 “(b)(1) The amendments made by section 1803 \[amending this section\] shall be effective 180 days after the date of enactment of this Act \[Oct. 27, 1986\], except that regulations to implement such amendments shall be promulgated by such 180th day.
 
@@ -478,7 +478,7 @@ Interagency group.—The term ‘Interagency Group’ means the Nazi War Crimes 
 
 &emsp;“(3)
 
-Japanese imperial government records.—The term ‘Japanese Imperial Government records’ means classified records or portions of records that pertain to any person with respect to whom the UnitedStates Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
+Japanese imperial government records.—The term ‘Japanese Imperial Government records’ means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
 
 &emsp;&emsp;“(A) the Japanese Imperial Government;
 
@@ -622,7 +622,7 @@ Functions.—Not later than 1 year after the date of enactment of this Act \[Oct
 
 &emsp;“(2) coordinate with agencies and take such actions as necessary to expedite the release of such records to the public; and
 
-&emsp;“(3) submit a report to Congress, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
+&emsp;“(3) submit a report to Congress, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight\[now Committee on Government Reform\] of the House of Representatives, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
 
 “(d)
 
@@ -816,7 +816,7 @@ Sec. 3. (a) For confidential commercial information submitted prior to January 1
 
 Sec. 4. When notification is made pursuant to section 1, each agency's procedures shall, to the extent permitted by law, afford the submitter a reasonable period of time in which the submitter or its designee may object to the disclosure of any specified portion of the information and to state all grounds upon which disclosure is opposed.
 
-Sec. 5. Each agency shall give careful consideration to all such specified grounds for nondisclosure prior to making an administrative determination of the issue. In all instances when the agency determines to disclose the requested records, its procedures shall provide that the agency give the submitter a written statement briefly explaining why the submitter's objections are not sustained. Such statement shall, to the extent permitted by law, be provided a reasonable number of days prior to a specified disclosure date.
+Sec. 5. Each agency shall give careful consideration to all such specified grounds for nondisclosure prior to making an administrative determination of the issue. In all instances when the agency determines to disclose the requested records, its procedures shall provide that the agency give the submitter a written statementbriefly explaining why the submitter's objections are not sustained. Such statement shall, to the extent permitted by law, be provided a reasonable number of days prior to a specified disclosure date.
 
 Sec. 6. Whenever a FOIA requester brings suit seeking to compel disclosure of confidential commercial information, each agency's procedures shall require that the submitter be promptly notified.
 

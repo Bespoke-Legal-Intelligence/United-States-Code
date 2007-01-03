@@ -22,7 +22,7 @@
 
 &emsp;(II) based on such finding, require the person to pay a civil money penalty in an amount determined under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
 
-(ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written noticeand an opportunity to be heard before the Commission.
+(ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written notice and an opportunity to be heard before the Commission.
 
 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
@@ -60,7 +60,7 @@
 
 #### (b) Notice to persons not filing required reports prior to institution of enforcement action; publication of identity of persons and unfiled reports
 
-Before taking any action under subsection (a) of this section against any person who has failed to file a report required under section 434(a)(2)(A)(iii) of this title for the calendar quarter immediately preceding the election involved, or in accordance with section 434(a)(2)(A)(i) of this title, the Commission shall notify the person of such failure to file the required reports. If a satisfactory response is not received within 4 business days after the date of notification, the Commission shall, pursuant to section 438(a)(7) of this title, publish before the election the name of the person and the report or reports such person has failed to file.
+Before taking any action under subsection (a) of this section against any person who has failed to file a report required under section434(a)(2)(A)(iii) of this title for the calendar quarter immediately preceding the election involved, or in accordance with section 434(a)(2)(A)(i) of this title, the Commission shall notify the person of such failure to file the required reports. If a satisfactory response is not received within 4 business days after the date of notification, the Commission shall, pursuant to section 438(a)(7) of this title, publish before the election the name of the person and the report or reports such person has failed to file.
 
 #### (c) Reports by Attorney General of apparent violations
 
@@ -122,7 +122,7 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is
 
 Subsec. (a)(6)(C). Pub. L. 107–155, §315(a)(2), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
 
-Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation.”
+Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation.”
 
 Subsec. (d)(1)(D). Pub. L. 107–155, §315(b), added subpar. (D).
 

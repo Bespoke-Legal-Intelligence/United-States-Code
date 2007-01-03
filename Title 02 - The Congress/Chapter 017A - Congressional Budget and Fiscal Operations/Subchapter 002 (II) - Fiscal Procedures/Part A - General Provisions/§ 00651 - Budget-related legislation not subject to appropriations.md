@@ -46,7 +46,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classifi
 
 #### Codification
 
-In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]”, “section 101 of such Act \[31 U.S.C. 846\]”, and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]”, “section 101 ofsuch Act \[31 U.S.C. 846\]”, and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 1351 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 

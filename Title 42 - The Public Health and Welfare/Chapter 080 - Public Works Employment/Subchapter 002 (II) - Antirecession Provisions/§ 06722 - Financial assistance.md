@@ -20,7 +20,7 @@ In no case shall the aggregate amount authorized to be appropriated under the pr
 
 No amount is authorized to be appropriated under the provisions of subsection (b) of this section for any calendar quarter if—
 
-&emsp;(1) the average rate of national unemployment during the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent, or
+&emsp;(1) the average rate of national unemployment during the most recent calendar quarterwhich ended three months before the beginning of such calendar quarter did not exceed 6 percent, or
 
 &emsp;(2) the rate of national unemployment for the last month of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent.
 

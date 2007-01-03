@@ -20,7 +20,7 @@
 
 #### (b) Statement of purpose
 
-The Commercial Service shall place primary emphasis on the promotion of exports of goods and services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
+The Commercial Service shall place primary emphasis on the promotion of exports of goodsand services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
 
 &emsp;(1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
 
@@ -80,7 +80,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (e) Information dissemination
 
-In order to carry out subsection (b)(7) of this section, to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotionassociations. The distribution system should be consistent with cost recovery objectives of the Department of Commerce.
+In order to carry out subsection (b)(7) of this section, to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotion associations. The distribution system should be consistent with cost recovery objectives of the Department of Commerce.
 
 #### (f) Cooperation in Federal financing and insurance programs
 
@@ -150,7 +150,7 @@ Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesign
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commercial Service Officer”.</i>
 

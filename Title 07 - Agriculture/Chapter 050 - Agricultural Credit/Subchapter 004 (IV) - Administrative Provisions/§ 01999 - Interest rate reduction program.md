@@ -66,7 +66,7 @@ For definition of “this chapter”, referred to in subsecs. (a)(1), (e)(1), an
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171, §5313(1), struck out par. (1) designation and heading and struck out headingand text of par. (2). Text read as follows: “The authority provided by this subsection shall terminate on September 30, 2002.”
+2002—Subsec. (a). Pub. L. 107–171, §5313(1), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “The authority provided by this subsection shall terminate on September 30, 2002.”
 
 Subsec. (e)(2). Pub. L. 107–171, §5313(2), added par. (2) and struck out former par. (2) which read as follows: “The total amount of funds used by the Secretary to carry out this section may not exceed $490,000,000.”
 

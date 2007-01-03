@@ -150,11 +150,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary may make bonus payments to individuals or entities furnishing items or services for which payment may be made under the demonstration program, or may authorize the program administrator to make such bonus payments in accordance with such guidelines as the Secretary shall establish and subject to the Secretary's approval.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary may make bonus payments to individuals or entities furnishing items or services for which payment may be made under the demonstration program, or may authorize the program administrator to make suchbonus payments in accordance with such guidelines as the Secretary shall establish and subject to the Secretary's approval.
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement inprocesses or outcomes of care, or such other factors as the Secretary determines to be appropriate.
+&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement in processes or outcomes of care, or such other factors as the Secretary determines to be appropriate.
 
 #### (3) Antidiscrimination limitation
 

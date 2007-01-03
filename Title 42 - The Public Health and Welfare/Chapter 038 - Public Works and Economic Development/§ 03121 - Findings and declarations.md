@@ -74,7 +74,7 @@ Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: “That this Act 
 
 #### Short Title of 1971 Amendment
 
-Pub. L. 92–65, title I, §101, Aug. 5, 1971, 85 Stat. 166, provided that: “This title \[enacting section 3123 of this title and amending this section, sections 3135, 3141, 3152, 3161, 3162, 3171, 3188a, and 3191 of this title, and provisions set out as a note under section 3162 of this title\] may be cited as the ‘Public Works and Economic Development Act Amendments of 1971’.”
+Pub. L. 92–65, title I, §101, Aug. 5, 1971, 85 Stat. 166, provided that: “This title \[enacting section 3123 of this title and amending this section, sections 3135, 3141, 3152, 3161, 3162, 3171, 3188a, and 3191 of this title, and provisions set out as a note under section 3162 of this title\]may be cited as the ‘Public Works and Economic Development Act Amendments of 1971’.”
 
 #### Short Title of 1969 Amendment
 
@@ -312,7 +312,7 @@ Administrative Expenses and Records.—The Commission is hereby prohibited from 
 
 “(h)
 
-Inspector General.—\[Amended section 8G of the Inspector General Act, 5 App. U.S.C.\]
+Inspector General.—\[Amended section 8G of the Inspector General Act, 5 U.S.C. App.\]
 
 #### “SEC. 307. SPECIAL FUNCTIONS.
 
@@ -348,7 +348,7 @@ Docks, Waterfront Transportation Development, and Related Infrastructure Project
 
 “(a)
 
-Establishment of the Denali Access System Program.—Not later than 3 months after the date ofenactment of the SAFETEA–LU \[Aug. 10, 2005\], the Secretary of Transportation shall establish a program to pay the costs of planning, designing, engineering, and constructing road and other surface transportation infrastructure identified for the Denali access system program under this section.
+Establishment of the Denali Access System Program.—Not later than 3 months after the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\], the Secretary of Transportation shall establish a program to pay the costs of planning, designing, engineering, and constructing road and other surface transportation infrastructure identified for the Denali access system program under this section.
 
 “(b)
 
@@ -468,7 +468,7 @@ Sec. 310 \[311\]. (a) The Federal Co-chairman of the Denali Commission shall app
 
 “(b) The Economic Development Committee is authorized to consider and approve applications from Regional Advisory Committees for grants and loans to promote economic development and promote private sector investment to reduce poverty in economically distressed rural villages. The Economic Development Committee may make mini-grants to individual applicants and may issue loans under such terms and conditions as it determines.
 
-“(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region,local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
+“(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region, local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
 
 “(d) The Economic Development Committee, in consultation with the First Alaskans Institute, may develop rural development performance measures linking economic growth to poverty reduction to measure the success of its program which may include economic, educational, social, and cultural indicators. The performance measures will be tested in one region for 2 years and evaluated by the University of Alaska before being deployed statewide. Thereafter, performance in each region shall be evaluated using the performance measures, and the Economic Development Committee shall not fund projects which do not demonstrate success.
 
@@ -526,7 +526,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment of an Interagency Task Force on the Economic Development of the Southwest Border</i>. (a) There is established the “Interagency Task Force on the Economic Development of the Southwest Border” (Task Force) that reports to the Vice President, as Chair of the President's Community Empowerment Board (PCEB), and to the Assistant to the President for Economic Policy, as Vice Chair of the PCEB.
 
-(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy,Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
+(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
 
 (c) The purpose of the Task Force is to coordinate and better leverage existing Administration efforts for the Southwest Border, in concert with locally led efforts, in order to increase the living standards and the overall economic profile of the Southwest Border so that it may achieve the average of the Nation. Specifically, the Task Force shall:
 

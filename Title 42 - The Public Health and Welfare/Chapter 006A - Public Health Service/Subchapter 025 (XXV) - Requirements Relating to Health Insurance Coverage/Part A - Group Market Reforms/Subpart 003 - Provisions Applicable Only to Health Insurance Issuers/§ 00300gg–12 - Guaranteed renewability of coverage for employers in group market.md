@@ -18,7 +18,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (3) Violation of participation or contribution rules
 
-&emsp;The plan sponsor has failed to comply with a material plan provision relating to employer contribution or group participation rules, as permitted under section 300gg–11(e) of this title in the case of the small group market or pursuant to applicable State law in the case of the large group market.
+&emsp;The plan sponsor has failed to comply with a material plan provision relating to employercontribution or group participation rules, as permitted under section 300gg–11(e) of this title in the case of the small group market or pursuant to applicable State law in the case of the large group market.
 
 #### (4) Termination of coverage
 

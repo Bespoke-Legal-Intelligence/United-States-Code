@@ -2,7 +2,7 @@
 
 #### (a) Authority of Administrator or authorized representative
 
-For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title, any standard of performance under section 7411 of this title, any emission standard under section 7412 of this title,,<sup>1</sup> or any regulation of solid waste combustion under section 7429 of this title, or any regulation under section 7429 of this title (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II of this chapter with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
+For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title, any standard of performance under section 7411 of this title, any emission standard under section 7412 of this title,,<sup>1</sup> or any regulation of solid waste combustion under section 7429 of this title, or any regulation under section 7429 of thistitle (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II of this chapter with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
 
 &emsp;(1) the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
 
@@ -18,15 +18,15 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 &emsp;&emsp;(F) submit compliance certifications in accordance with subsection (a)(3) of this section; and
 
-&emsp;&emsp;(G) provide such other information as the Administrator may reasonably require; and
+&emsp;&emsp;(G) provide such other information as the Administrator may reasonably require; and <sup>2</sup>
 
 &emsp;(2) the Administrator or his authorized representative, upon presentation of his credentials—
 
 &emsp;&emsp;(A) shall have a right of entry to, upon, or through any premises of such person or in which any records required to be maintained under paragraph (1) of this section are located, and
 
-&emsp;&emsp;(B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1).<sup>2</sup>
+&emsp;&emsp;(B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1).<sup>3</sup>
 
-&emsp;(3) The <sup>3</sup> Administrator shall in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, require enhanced monitoring and submission of compliance certifications. Compliance certifications shall include (A) identification of the applicable requirement that is the basis of the certification, (B) the method used for determining the compliance status of the source, (C) the compliance status, (D) whether compliance is continuous or intermittent, (E) such other facts as the Administrator may require. Compliance certifications and monitoring data shall be subject to subsection (c) of this section. Submission of a compliance certification shall in no way limit the Administrator's authorities to investigate or otherwise implement this chapter. The Administrator shall promulgate rules to provide guidance and to implement this paragraph within 2 years after November 15, 1990.
+&emsp;(3) The <sup>4</sup> Administrator shall in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, require enhanced monitoring and submission of compliance certifications. Compliance certifications shall include (A) identification of the applicable requirement that is the basis of the certification, (B) the method used for determining the compliance status of the source, (C) the compliance status, (D) whether compliance is continuous or intermittent, (E) such other facts as the Administrator may require. Compliance certifications and monitoring data shall be subject to subsection (c) of this section. Submission of a compliance certification shall in no way limit the Administrator's authorities to investigate or otherwise implement this chapter. The Administrator shall promulgate rules to provide guidance and to implement this paragraph within 2 years after November 15, 1990.
 
 #### (b) State enforcement
 
@@ -36,11 +36,11 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 #### (c) Availability of records, reports, and information to public; disclosure of trade secrets
 
-Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection astrade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
+Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
 
 #### (d) Notice of proposed entry, inspection, or monitoring
 
-(1) In the case of any emission standard or limitation or other requirement which is adopted by a State, as part of an applicable implementation plan or as part of an order under section 7413(d) <sup>4</sup> of this title, before carrying out an entry, inspection, or monitoring under paragraph (2) of subsection (a) of this section with respect to such standard, limitation, or other requirement, the Administrator (or his representatives) shall provide the State air pollution control agency with reasonable prior notice of such action, indicating the purpose of such action. No State agency which receives notice under this paragraph of an action proposed to be taken may use the information contained in the notice to inform the person whose property is proposed to be affected of the proposed action. If the Administrator has reasonable basis for believing that a State agency is so using or will so use such information, notice to the agency under this paragraph is not required until such time as the Administrator determines the agency will no longer so use information contained in a notice under this paragraph. Nothing in this section shall be construed to require notification to any State agency of any action taken by the Administrator with respect to any standard, limitation, or other requirement which is not part of an applicable implementation plan or which was promulgated by the Administrator under section 7410(c) of this title.
+(1) In the case of any emission standard or limitation or other requirement which is adopted by a State, as part of an applicable implementation plan or as part of an order under section 7413(d) <sup>5</sup> of this title, before carrying out an entry, inspection, or monitoring under paragraph (2) of subsection (a) of this section with respect to such standard, limitation, or other requirement, the Administrator (or his representatives) shall provide the State air pollution control agency with reasonable prior notice of such action, indicating the purpose of such action. No State agency which receives notice under this paragraph of an action proposed to be taken may use the information contained in the notice to inform the person whose property is proposed to be affected of the proposed action. If the Administrator has reasonable basis for believing that a State agency is so using or will so use such information, notice to the agency under this paragraph is not required until such time as the Administrator determines the agency will no longer so use information contained in a notice under this paragraph. Nothing in this section shall be construed to require notification toany State agency of any action taken by the Administrator with respect to any standard, limitation, or other requirement which is not part of an applicable implementation plan or which was promulgated by the Administrator under section 7410(c) of this title.
 
 (2) Nothing in paragraph (1) shall be construed to provide that any failure of the Administrator to comply with the requirements of such paragraph shall be a defense in any enforcement action brought by the Administrator or shall make inadmissible as evidence in any such action any information or material obtained notwithstanding such failure to comply with such requirements.
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L.95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
@@ -92,9 +92,11 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> The period probably should be “; and”.</i>
+<i><sup>2</sup></i><i> So in original. The “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>3</sup></i><i> The period probably should be “; and”.</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 

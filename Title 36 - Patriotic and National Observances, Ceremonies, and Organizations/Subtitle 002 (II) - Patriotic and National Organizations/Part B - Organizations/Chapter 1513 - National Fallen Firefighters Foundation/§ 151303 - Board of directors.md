@@ -6,7 +6,7 @@ General.—The board of directors is the governing body of the corporation.
 
 (b)
 
-Members and Appointment.—(1) The Administrator of the United States Fire Administration of the Federal Emergency Management Agency is an ex officio nonvoting member of the board. The Administrator appoints the voting members of the board.
+Members and Appointment.—(1) The Administrator of the United States Fire Administration of the Federal Emergency ManagementAgency is an ex officio nonvoting member of the board. The Administrator appoints the voting members of the board.
 
 (2) The board consists of the following 12 voting members:
 
@@ -24,7 +24,7 @@ Members and Appointment.—(1) The Administrator of the United States Fire Admin
 
 (c)
 
-Chairman.—The Chairman <sup>1</sup> shall be elected by the board from its voting members for a 2-year term.
+Chairman.—The chairman shall be elected by the board from its voting members for a 2-year term.
 
 (d)
 
@@ -46,7 +46,7 @@ Status and Compensation.—
 
 Liability.—Members of the board are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, §206(a), Dec. 6, 2003, 117 Stat. 2040.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, §206(a), Dec. 6, 2003, 117 Stat. 2040; Pub. L. 109–284, §5(9), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -118,6 +118,8 @@ This amends subsections (f) and (g) of section 151303 of title 36, as enacted by
 
 #### Amendments
 
+2006—Subsec. (c). Pub. L. 109–284 substituted “The chairman” for “The Chairman”.
+
 2003—Subsec. (b)(2). Pub. L. 108–169, §206(a)(1), (2), substituted “12” for “9” in introductory provisions and “nine” for “six” in subpar. (D).
 
 Subsec. (b)(3). Pub. L. 108–169, §206(a)(3), substituted “4 members” for “3 members”.
@@ -146,7 +148,7 @@ Pub. L. 105–354, §3, Nov. 3, 1998, 112 Stat. 3245, provided that: “The amen
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

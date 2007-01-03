@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 (d) The term “public health center” means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 
-(e) The term “nonprofit” as applied to any facility means a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+(e) The term “nonprofit” as applied to any facility means a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of whichinures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 (f) The term “outpatient facility” means a facility (located in or apart from a hospital) for the diagnosis or diagnosis and treatment of ambulatory patients (including ambulatory inpatients)—
 
@@ -92,7 +92,7 @@ Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allot
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) ofPub. L. 88–581, set out as a note under section 291c of this title.
+Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under section 291c of this title.
 
 #### Transfer of Functions
 

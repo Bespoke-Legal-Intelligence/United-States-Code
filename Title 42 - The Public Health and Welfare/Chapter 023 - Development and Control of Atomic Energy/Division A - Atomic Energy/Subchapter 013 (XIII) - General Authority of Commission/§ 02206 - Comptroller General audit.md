@@ -10,7 +10,3 @@ No moneys appropriated for the purposes of this chapter shall be available for p
 
 1958—Pub. L. 85–681 inserted proviso relating to records disposal.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
-

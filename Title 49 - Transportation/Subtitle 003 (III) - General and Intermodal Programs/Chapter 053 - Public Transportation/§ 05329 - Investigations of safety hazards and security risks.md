@@ -10,7 +10,7 @@ Submission of Corrective Plan.—If the Secretary establishes that a safety haza
 
 (c)
 
-Withholding Financial Assistance.—Financial assistance under this chapter, in anamount to be determined by the Secretary, may be withheld until a plan is approved and carried out.
+Withholding Financial Assistance.—Financial assistance under this chapter, in an amount to be determined by the Secretary, may be withheld until a plan is approved and carried out.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624.)
 

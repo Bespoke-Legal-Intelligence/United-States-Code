@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—LIVESTOCK MANDATORY REPORTING
 
-#### Termination of Subchapter
-
-<i>For termination of subchapter by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
-
 
 ---
 

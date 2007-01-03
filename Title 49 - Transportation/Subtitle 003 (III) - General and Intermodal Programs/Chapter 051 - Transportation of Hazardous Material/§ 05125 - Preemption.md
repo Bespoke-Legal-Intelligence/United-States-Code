@@ -6,7 +6,7 @@ General.—Except as provided in subsections (b), (c), and (e) of this section a
 
 &emsp;(1) complying with a requirement of the State, political subdivision, or tribe and a requirement of this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security is not possible; or
 
-&emsp;(2) the requirement of the State, political subdivision, or tribe, as applied or enforced, is an obstacle to accomplishing and carrying out this chapter, a regulation prescribed underthis chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security.
+&emsp;(2) the requirement of the State, political subdivision, or tribe, as applied or enforced, is an obstacle to accomplishing and carrying out this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security.
 
 (b)
 
@@ -56,7 +56,7 @@ Waiver of Preemption.—A State, political subdivision of a State, or Indian tri
 
 (f)
 
-Fees.—(1) A State, political subdivision of a State, or Indian tribe may impose a fee related to transporting hazardous material only if the fee is fair and used for a purpose related totransporting hazardous material, including enforcement and planning, developing, and maintaining a capability for emergency response.
+Fees.—(1) A State, political subdivision of a State, or Indian tribe may impose a fee related to transporting hazardous material only if the fee is fair and used for a purpose related to transporting hazardous material, including enforcement and planning, developing, and maintaining a capability for emergency response.
 
 (2) A State or political subdivision thereof or Indian tribe that levies a fee in connection with the transportation of hazardous materials shall, upon the Secretary's request, report to the Secretary on—
 

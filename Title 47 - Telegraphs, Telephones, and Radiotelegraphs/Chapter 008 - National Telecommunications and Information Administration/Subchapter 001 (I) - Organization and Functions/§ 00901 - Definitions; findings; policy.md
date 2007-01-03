@@ -40,7 +40,7 @@ The NTIA shall seek to advance the following policies:
 
 &emsp;(3) Facilitating and contributing to the full development of competition, efficiency, and the free flow of commerce in domestic and international telecommunications markets.
 
-&emsp;(4) Fostering full and efficient use of telecommunications resources, including effectiveuse of the radio spectrum by the Federal Government, in a manner which encourages the most beneficial uses thereof in the public interest.
+&emsp;(4) Fostering full and efficient use of telecommunications resources, including effective use of the radio spectrum by the Federal Government, in a manner which encourages the most beneficial uses thereof in the public interest.
 
 &emsp;(5) Furthering scientific knowledge about telecommunications and information.
 
@@ -108,7 +108,7 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1985, by Ex. Ord. No. 12454, Dec. 29, 1983, 49 F.R. 343.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -122,7 +122,7 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

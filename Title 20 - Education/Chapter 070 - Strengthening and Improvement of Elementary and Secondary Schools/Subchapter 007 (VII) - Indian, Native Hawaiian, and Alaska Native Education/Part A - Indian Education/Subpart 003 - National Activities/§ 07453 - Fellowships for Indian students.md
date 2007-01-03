@@ -34,7 +34,7 @@ The Secretary shall pay to the institution of higher education at which such a f
 
 #### (2) Written notice
 
-&emsp;Not later than 45 days before the commencement of an academic term, the Secretary shall provide to each individual who is awarded a fellowship under subsection (a) of this section for such academic term written notice of—
+&emsp;Not later than 45 days before the commencement of an academic term, the Secretary shall provide to each individual who is awarded afellowship under subsection (a) of this section for such academic term written notice of—
 
 &emsp;&emsp;(A) the amount of the funding for the fellowship; and
 

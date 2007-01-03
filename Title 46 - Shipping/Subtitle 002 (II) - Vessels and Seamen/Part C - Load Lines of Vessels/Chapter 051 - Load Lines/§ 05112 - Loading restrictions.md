@@ -28,7 +28,3 @@ Section 5112(c) is a new provision that provides that a vessel may be operated o
 
 Section 5112(d) provides that subsections (a) and (b) do not apply to a submersible vessel.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5116 of this title.
-

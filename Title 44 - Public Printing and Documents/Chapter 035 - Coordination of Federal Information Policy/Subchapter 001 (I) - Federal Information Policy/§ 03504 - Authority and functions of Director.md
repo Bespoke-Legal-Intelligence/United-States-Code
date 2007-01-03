@@ -128,13 +128,13 @@
 
 &emsp;&emsp;(B) oversee the development and implementation of standards under section 11331 of title 40;
 
-&emsp;(2) monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 of title 40;
+&emsp;(2) monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 <sup>2</sup> of title 40;
 
 &emsp;(3) coordinate the development and review by the Office of Information and Regulatory Affairs of policy associated with Federal procurement and acquisition of information technology with the Office of Federal Procurement Policy;
 
 &emsp;(4) ensure, through the review of agency budget proposals, information resources management plans and other means—
 
-&emsp;&emsp;(A) agency integration of information resources management plans, program plans and budgets for acquisition and use of information technology; and
+&emsp;&emsp;(A) agency integration of information resources management plans, program plansand budgets for acquisition and use of information technology; and
 
 &emsp;&emsp;(B) the efficiency and effectiveness of inter-agency information technology initiatives to improve agency performance and the accomplishment of agency missions; and
 
@@ -145,6 +145,8 @@
 #### References in Text
 
 The date of enactment of the Small Business Paperwork Relief Act of 2002, referred to in subsec. (c)(6), is the date of enactment of Pub. L. 107–198, which was approved June 28, 2002.
+
+Section 322 of title 40, referred to in subsec. (h)(2), was repealed by Pub. L. 109–313, §3(h)(1), Oct. 6, 2006, 120 Stat. 1736.
 
 #### Prior Provisions
 
@@ -297,4 +299,6 @@ Electronic signature.—The term ‘electronic signature’ means a method of si
 Executive agency.—The term ‘Executive agency’ has the meaning given that term in section 105 of title 5, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

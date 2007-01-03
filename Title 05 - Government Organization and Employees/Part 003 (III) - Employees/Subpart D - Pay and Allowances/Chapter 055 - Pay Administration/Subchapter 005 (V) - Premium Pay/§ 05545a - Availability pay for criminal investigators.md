@@ -106,7 +106,7 @@
 
 Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, as amended, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
 
-Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), areclassified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
+Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), are classified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
 
 #### Effective Date of 1998 Amendment
 
-For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d) of Pub. L. 105–277, set out as a note under section 5542 of this title.
+For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d)of Pub. L. 105–277, set out as a note under section 5542 of this title.
 
 #### Effective Date of 1996 Amendment
 

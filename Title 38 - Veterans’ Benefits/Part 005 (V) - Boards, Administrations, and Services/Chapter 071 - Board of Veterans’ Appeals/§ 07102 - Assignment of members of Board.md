@@ -22,7 +22,7 @@ Subsec. (a)(2). Pub. L. 98–223, §208(d)(2), designated provision relating to 
 
 Subsec. (a)(3). Pub. L. 98–223, §208(d)(2), added par. (3).
 
-Subsec. (b). Pub. L. 98–223, §208(d)(3), designated provision relating to the maintenance of a hearing docketand the holding of formal recorded hearings upon which a final determination will be made as subsec. (b).
+Subsec. (b). Pub. L. 98–223, §208(d)(3), designated provision relating to the maintenance of a hearing docket and the holding of formal recorded hearings upon which a final determination will be made as subsec. (b).
 
 Pub. L. 98–223, §208(c), struck out “associate” before “member” in two places.
 

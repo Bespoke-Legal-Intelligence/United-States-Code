@@ -8,7 +8,7 @@ The Secretary, through the Administrator and subject to the availability of fund
 
 #### (1) Fifty percent
 
-&emsp;Except as provided in paragraph (2), Federal funds for any coral conservation project under this section may not exceed 50 percent of the total cost of such project. For purposes of this paragraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
+&emsp;Except as provided in paragraph (2), Federal funds for any coral conservation project underthis section may not exceed 50 percent of the total cost of such project. For purposes of this paragraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
 
 #### (2) Waiver
 
@@ -68,7 +68,7 @@ Each proposal for a grant under this section shall include the following:
 
 #### (g) Criteria for approval
 
-The Administrator may not approve a project proposal under this section unless the project is consistent with the coral reef action strategyunder section 6402 of this title and will enhance the conservation of coral reefs by—
+The Administrator may not approve a project proposal under this section unless the project is consistent with the coral reef action strategy under section 6402 of this title and will enhance the conservation of coral reefs by—
 
 &emsp;(1) implementing coral conservation programs which promote sustainable development and ensure effective, long-term conservation of coral reefs;
 

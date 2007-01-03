@@ -88,7 +88,7 @@ Rights or protections of this section not affected by any provision of Pub. L. 9
 
 #### Coordination of Implementation and Enforcement of Provisions
 
-For provisions relating to the coordination of implementation and enforcement of the provisions of thissection by the Attorney General, see section 1–201 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under section 2000d–1 of Title 42, The Public Health and Welfare.
+For provisions relating to the coordination of implementation and enforcement of the provisions of this section by the Attorney General, see section 1–201 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under section 2000d–1 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 11914
 

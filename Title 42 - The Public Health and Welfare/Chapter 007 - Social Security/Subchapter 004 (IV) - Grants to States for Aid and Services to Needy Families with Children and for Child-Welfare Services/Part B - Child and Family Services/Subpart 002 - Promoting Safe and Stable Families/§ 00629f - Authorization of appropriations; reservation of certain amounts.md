@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-There are authorized to be appropriated to carry out the provisions of this subpart $305,000,000 for each of fiscal years 2002 through 2006.
+In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2007 through 2011 <sup>1</sup>
 
 #### (b) Reservation of certain amounts
 
@@ -20,17 +20,79 @@ From the amount specified in subsection (a) of this section for a fiscal year, t
 
 &emsp;The Secretary shall reserve $10,000,000 for grants under section 629h of this title.
 
-#### (3) Indian tribes
+#### (3) Indian tribes or tribal consortia
 
-&emsp;The Secretary shall reserve 1 percent for allotment to Indian tribes in accordance with section 629c(a) of this title.
+&emsp;After applying paragraphs (4) and (5) (but before applying paragraphs (1) or (2)), the Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with section 629c(a) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416.)
+#### (4) Support for monthly caseworker visits
+
+#### (A) Reservation
+
+&emsp;&emsp;The Secretary shall reserve for allotment in accordance with section 629c(e) of this title—
+
+&emsp;&emsp;&emsp;(i) $5,000,000 for fiscal year 2008;
+
+&emsp;&emsp;&emsp;(ii) $10,000,000 for fiscal year 2009; and
+
+&emsp;&emsp;&emsp;(iii) $20,000,000 for each of fiscal years 2010 and 2011.
+
+#### (B) Use of funds
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A State to which an amount is paid from amounts reserved under subparagraph (A) shall use the amount to support monthly caseworker visits with children who are in foster care under the responsibility of the State, with a primary emphasis on activities designed to improve caseworker retention, recruitment, training, and ability to access the benefits of technology.
+
+#### (ii) Nonsupplantation
+
+&emsp;&emsp;&emsp;A State to which an amount is paid from amounts reserved pursuant to subparagraph (A) shall not use the amount to supplant any Federal funds paid to the State under part E that could be used as described in clause (i).
+
+#### (5) Regional partnership grants
+
+&emsp;The Secretary shall reserve for awarding grants under section 629g(f) of this title—
+
+&emsp;&emsp;(A) $40,000,000 for fiscal year 2007;
+
+&emsp;&emsp;(B) $35,000,000 for fiscal year 2008;
+
+&emsp;&emsp;(C) $30,000,000 for fiscal year 2009; and
+
+&emsp;&emsp;(D) $20,000,000 for each of fiscal years 2010 and 2011.
+
+(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243.)
+
+#### References in Text
+
+Part E, referred to in subsec. (b)(4)(B)(ii), is classified to section 670 et seq. of this title.
 
 #### Prior Provisions
 
 A prior section 436 of act Aug. 14, 1935, was classified to section 636 of this title prior to repeal by Pub. L. 100–485.
 
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–288, §3(a), substituted “each of fiscal years 2007 through 2011” for “fiscal year 2006. Notwithstanding the preceding sentence, the total amount authorized to be so appropriated for fiscal year 2006 under this subsection and under this subsection (as in effect before February 8, 2006) is $345,000,000.”
+
+Pub. L. 109–171 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the provisions of this subpart $305,000,000 for each of fiscal years 2002 through 2006.”
+
+Subsec. (b)(3). Pub. L. 109–288, §5(b)(1)(B), inserted “or tribal consortia” after “tribes” in heading and text.
+
+Pub. L. 109–288, §5(a)(1), (3), substituted “After applying paragraphs (4) and (5) (but before applying paragraphs (1) or (2)), the” for “The” and “3 percent” for “1 percent”.
+
+Subsec. (b)(4). Pub. L. 109–288, §4(a)(1), added par. (4).
+
+Subsec. (b)(5). Pub. L. 109–288, §4(b)(1), added par. (5).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–288, §3(a), Sept. 28, 2006, 120 Stat. 1234, provided that the amendment made by section 3(a) is effective Oct. 1, 2006.
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+
 #### Effective Date
 
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

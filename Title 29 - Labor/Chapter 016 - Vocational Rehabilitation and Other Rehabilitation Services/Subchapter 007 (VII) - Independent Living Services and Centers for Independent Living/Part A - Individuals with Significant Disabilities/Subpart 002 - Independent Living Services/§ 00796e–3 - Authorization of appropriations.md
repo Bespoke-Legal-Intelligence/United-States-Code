@@ -6,5 +6,5 @@ There are authorized to be appropriated to carry out this subpart such sums as m
 
 #### Prior Provisions
 
-A prior section 796e–3, Pub. L. 93–112, title VII, §714, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4452, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796e–3, Pub. L. 93–112, title VII, §714, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992,106 Stat. 4452, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 

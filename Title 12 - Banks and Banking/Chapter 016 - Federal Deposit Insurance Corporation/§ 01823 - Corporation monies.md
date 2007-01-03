@@ -4,11 +4,11 @@
 
 #### (1) Authority
 
-&emsp;Funds held in the Bank Insurance Fund, the Savings Association Insurance Fund, or the FSLIC Resolution Fund, that are not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
+&emsp;Funds held in the Deposit Insurance Fund or the FSLIC Resolution Fund, that are not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
 
 #### (2) Limitation
 
-&emsp;The Corporation shall not sell or purchase any obligations described in paragraph (1) for its own account, at any one time aggregating in excess of $100,000, without the approval of the Secretary of the Treasury. The Secretary may approve a transaction or class of transactions subject to the provisions of this paragraph under such conditions as the Secretary may determine.
+&emsp;The Corporation shall not sell or purchase any obligations described in paragraph (1) for its own account, at any one time aggregatingin excess of $100,000, without the approval of the Secretary of the Treasury. The Secretary may approve a transaction or class of transactions subject to the provisions of this paragraph under such conditions as the Secretary may determine.
 
 #### (b) Depository accounts
 
@@ -56,11 +56,11 @@ In general.—Notwithstanding any other provision of this chapter, the Corporati
 
 &emsp;&emsp;(i) the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
 
-&emsp;&emsp;(ii) the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution is the least costly to the deposit insurance fund of all possible methods for meeting the Corporation's obligation under this section.
+&emsp;&emsp;(ii) the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution isthe least costly to the Deposit Insurance Fund of all possible methods for meeting the Corporation's obligation under this section.
 
 &emsp;(B)
 
-Determining least costly approach.—In determining how to satisfy the Corporation's obligations to an institution's insured depositors at the least possible cost to the deposit insurance fund, the Corporation shall comply with the following provisions:
+Determining least costly approach.—In determining how to satisfy the Corporation's obligations to an institution's insured depositors at the least possible cost to the Deposit Insurance Fund, the Corporation shall comply with the following provisions:
 
 &emsp;&emsp;(i)
 
@@ -74,7 +74,7 @@ Present-value analysis; documentation required.—The Corporation shall—
 
 &emsp;&emsp;(ii)
 
-Foregone tax revenues.—Federal tax revenues that the Government would forego as the result of a proposed transaction, to the extent reasonably ascertainable, shall be treated as if they were revenues foregone by the deposit insurance fund.
+Foregone tax revenues.—Federal tax revenues that the Government would forego as the result of a proposed transaction, to the extent reasonably ascertainable, shall be treated as if they were revenues foregone by the Deposit Insurance Fund.
 
 &emsp;(C)
 
@@ -100,11 +100,11 @@ Liquidation costs.—In determining the cost of liquidating any depository insti
 
 &emsp;(E)
 
-Deposit insurance funds available for intended purpose only.—
+Deposit insurance fund available for intended purpose only.—
 
 &emsp;&emsp;(i)
 
-In general.—After December 31, 1994, or at such earlier time as the Corporation determines to be appropriate, the Corporation may not take any action, directly or indirectly, with respect to any insured depository institution that would have the effect of increasing losses to any insurance fund by protecting—
+In general.—After December 31, 1994, or at such earlier time as the Corporation determines to be appropriate, the Corporation may not take any action, directly or indirectly, with respect to any insured depository institution that would have the effect of increasing losses to the Deposit Insurance Fund by protecting—
 
 &emsp;&emsp;&emsp;(I) depositors for more than the insured portion of deposits (determined without regard to whether such institution is liquidated); or
 
@@ -138,11 +138,11 @@ Emergency determination by secretary of the treasury.—Notwithstanding subparag
 
 &emsp;&emsp;(ii)
 
-Repayment of loss.—The Corporation shall recover the loss to the appropriate insurance fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) expeditiously from 1 or more emergency special assessments on the members of the insurance fund (of which such institution is a member) equal to the product of—
+Repayment of loss.—The Corporation shall recover the loss to the Deposit Insurance Fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) expeditiously from 1 or more emergency special assessments on insured depository institutions equal to the product of—
 
 &emsp;&emsp;&emsp;(I) an assessment rate established by the Corporation; and
 
-&emsp;&emsp;&emsp;(II) the amount of each member's average total assets during the semiannual period, minus the sum of the amount of the member's average total tangible equity and the amount of the member's average total subordinated debt.
+&emsp;&emsp;&emsp;(II) the amount of each insured depository institution's average total assets during the assessment period, minus the sum of the amount of the institution's average total tangible equity and the amount ofthe institution's average total subordinated debt.
 
 &emsp;&emsp;(iii)
 
@@ -218,12 +218,6 @@ Public disclosure.—Any determination under this paragraph to provide assistanc
 
 (10) In its annual report to the Congress, the Corporation shall report the total amount it has saved, or estimates it has saved, by exercising the authority provided in this subsection.
 
-(11) Payments made under this subsection shall be made—
-
-&emsp;(A) from the Bank Insurance Fund in the case of payments to or on behalf of a member of such Fund; or
-
-&emsp;(B) from the Savings Association Insurance Fund or from funds made available by the Resolution Trust Corporation in the case of payments to or on behalf of any Savings Association Insurance Fund member.
-
 #### (d) Sale of assets to Corporation
 
 #### (1) In general
@@ -242,7 +236,7 @@ Public disclosure.—Any determination under this paragraph to provide assistanc
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not in derogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
+&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not inderogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
 
 #### (C) Fiduciary responsibility
 
@@ -508,7 +502,7 @@ Prior to July 1, 1951, the Corporation shall pay out of its capital account to t
 
 #### (h) Reopening or aversion of closing of insured branch of foreign bank
 
-The powers conferred on the Board of Directors and the Corporation by this section to take action to reopen an insured depository institution in default or to avert the default of an insured depository institution may be used with respect to an insured branch of a foreign bank if, in the judgment of the Board of Directors, the public interest in avoiding the default of such branch substantially outweighs any additional risk of loss to the Bank Insurance Fund which the exercise of such powers would entail.
+The powers conferred on the Board of Directors and the Corporation by this section to take action to reopen an insured depository institution in default or to avert the default of an insured depository institution may be used with respect to an insured branch of a foreign bank if, in the judgment of the Board of Directors, the public interest in avoiding the default of such branch substantially outweighs any additional risk of loss to the Deposit Insurance Fund which the exercise of such powers would entail.
 
 #### (i) Repealed. Pub. L. 97–320, title II, §206, Oct. 15, 1982, 96 Stat. 1496
 
@@ -570,7 +564,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;&emsp;&emsp;(II) any other savings association to acquire control of such savings association, or
 
-&emsp;&emsp;&emsp;&emsp;(III) any company to acquire control of such savings association or to acquirethe assets or assume the liabilities thereof.
+&emsp;&emsp;&emsp;&emsp;(III) any company to acquire control of such savings association or to acquire the assets or assume the liabilities thereof.
 
 &emsp;&emsp;&nbsp;The Corporation may not authorize any transaction under this subsection unless the Corporation determines that the authorization will not present a substantial risk to the safety or soundness of the savings association to be acquired or any acquiring entity.
 
@@ -626,7 +620,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (A) In general
 
-&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves a savings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings association that is not affiliated with a bank holding company and the home office of which is located in the same State.
+&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves a savings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings associationthat is not affiliated with a bank holding company and the home office of which is located in the same State.
 
 #### (B) Restrictions
 
@@ -638,7 +632,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;&emsp;&emsp;(II) such association does not qualify as a domestic building and loan association under section 7701(a)(19) of title 26, or does not meet the asset composition test imposed by subparagraph (C) of that section on institutions seeking so to qualify,
 
-&emsp;&emsp;&nbsp;such savings association shall be subject to the conditions upon which a bank may retain, operate, and establish branches in the State in which the Savings Association Insurance Fund member is located.
+&emsp;&emsp;&nbsp;such savings association shall be subject to the conditions upon which a bank may retain, operate, and establish branches in the State in which the savings association is located.
 
 #### (ii) Transition period
 
@@ -648,7 +642,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (A) Assistance proposals
 
-&emsp;&emsp;The Corporation shall consider proposals by Savings Association Insurance Fundmembers for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
+&emsp;&emsp;The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
 
 #### (i) Troubled condition criteria
 
@@ -684,29 +678,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;For purposes of this paragraph, the term “economically depressed region” means any geographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
 
-(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §3(a)(8), (b), Feb. 15, 2006, 119 Stat. 3606, provided that, effective Jan. 1, 2007, subsection (c)(4)(G)(ii)(II) of this section is amended by striking “semiannual period” and inserting “assessment period”.</i>
-
-<i>Pub. L. 109–173, §8(a)(19), (b), Feb. 15, 2006, 119 Stat. 3613, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1), by striking “Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “Deposit Insurance Fund”;</i>
-
-<i>(2) in subsection (c):</i>
-
-<i>(A) in paragraph (4), by striking “deposit insurance fund” each place that term appears in subparagraphs (A) and (B) and inserting “Deposit Insurance Fund”;</i>
-
-<i>(B) in paragraph (4)(E), by striking “funds” and inserting “fund” in the subparagraph heading and by striking “any insurance fund” and inserting “the Deposit Insurance Fund” in clause (i);</i>
-
-<i>(C) in paragraph (4)(G)(ii), in introductory provisions, by striking “appropriate insurance fund” and inserting “Deposit Insurance Fund” and by striking “the members of the insurance fund (of which such institution is a member)” and inserting “insured depository institutions” and, in subclause (II), by striking “each member's” and inserting “each insured depository institution's” and by striking “the member's” each place that term appears and inserting “the institution's”; and</i>
-
-<i>(D) by striking paragraph (11);</i>
-
-<i>(3) in subsection (h), by striking “Bank Insurance Fund” and inserting “Deposit Insurance Fund”; and</i>
-
-<i>(4) in subsection (k), by striking “Savings Association Insurance Fund member” and inserting “savings association” in paragraph (4)(B)(i) and by striking “Savings Association Insurance Fund members” and inserting “savings associations” in paragraph (5)(A).</i>
+(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613.)
 
 #### References in Text
 
@@ -720,21 +692,61 @@ Section is derived from subsec. (n) of former section 264 of this title. See Cod
 
 #### Amendments
 
+2006—Subsec. (a)(1). Pub. L. 109–173, §8(a)(19)(B), substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(i). See 1996 Amendment note below.
+
+Subsec. (c)(4)(A)(ii), (B). Pub. L. 109–173, §8(a)(19)(A), substituted “Deposit Insurance Fund” for “deposit insurance fund” wherever appearing.
+
+Subsec. (c)(4)(E). Pub. L. 109–173, §8(a)(19)(C)(i), substituted “fund” for “funds” in heading.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(ii). See 1996 Amendment note below.
+
+Subsec. (c)(4)(E)(i). Pub. L. 109–173, §8(a)(19)(C)(ii), substituted “the Deposit Insurance Fund” for “any insurance fund” in introductory provisions.
+
+Subsec. (c)(4)(G)(ii). Pub. L. 109–173, §8(a)(19)(D)(i), (ii), in introductory provisions, substituted “Deposit Insurance Fund” for “appropriate insurance fund” and “insured depository institutions” for “the members of the insurance fund (of which such institution is a member)”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(iii). See 1996 Amendment note below.
+
+Subsec. (c)(4)(G)(ii)(II). Pub. L. 109–173, §8(a)(19)(D)(iii), (iv), substituted “the institution's” for “the member's” in two places and substituted “each insured depository institution's” for “each member's”.
+
+Pub. L. 109–173, §3(a)(8), substituted “assessment period” for “semiannual period”.
+
+Subsec. (c)(11). Pub. L. 109–173, §8(a)(19)(E), struck out par. (11) which read as follows: “Payments made under this subsection shall be made—
+
+&emsp;“(A) from the Bank Insurance Fund in the case of payments to or on behalf of a member of such Fund; or
+
+&emsp;“(B) from the Savings Association Insurance Fund or from funds made available by the Resolution Trust Corporation in the case of payments to or on behalf of any Savings Association Insurance Fund member.”
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(iv). See 1996 Amendment note below.
+
+Subsec. (h). Pub. L. 109–173, §8(a)(19)(F), substituted “Deposit Insurance Fund” for “Bank Insurance Fund”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(v). See 1996 Amendment note below.
+
+Subsec. (k)(4)(B)(i). Pub. L. 109–173, §8(a)(19)(G), substituted “savings association is” for “Savings Association Insurance Fund member is” in concluding provisions.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(vi). See 1996 Amendment note below.
+
+Subsec. (k)(5)(A). Pub. L. 109–173, §8(a)(19)(H), substituted “savings associations” for “Savings Association Insurance Fund members” in introductory provisions.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(M)(vii). See 1996 Amendment note below.
+
 2005—Subsec. (e)(2). Pub. L. 109–8 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “An agreement to provide for the lawful collateralization of deposits of a Federal, State, or local governmental entity or of any depositor referred to in section 1821(a)(2) of this title shall not be deemed to be invalid pursuant to paragraph (1)(B) solely because such agreement was not executed contemporaneously with the acquisition of the collateral or with any changes in the collateral made in accordance with such agreement.”
 
-1996—Subsec. (a)(1). Pub. L. 104–208, §2704(d)(14)(M)(i), which directed substitution of “Deposit Insurance Fund, the Special Reserve of the Deposit Insurance Fund,” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was not executed. See Effective Date of 1996 Amendment note below.
+1996—Subsec. (a)(1). Pub. L. 104–208, §2704(d)(14)(M)(i), which directed substitution of “Deposit Insurance Fund, the Special Reserve of the Deposit Insurance Fund,” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (c)(4)(E). Pub. L. 104–208, §2704(d)(14)(M)(ii), which directed substitution of “fund” for “funds” in heading and “the Deposit Insurance Fund” for “any insurance fund” in cl. (i), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (c)(4)(E). Pub. L. 104–208, §2704(d)(14)(M)(ii), which directed substitution of “fund” for “funds” in heading and “the Deposit Insurance Fund” for “any insurance fund” in cl. (i), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (c)(4)(G)(ii). Pub. L. 104–208, §2704(d)(14)(M)(iii), which directed substitution of “Deposit Insurance Fund” for “appropriate insurance fund”, “insured depository institutions” for “the members of the insurance fund (of which such institution is a member)”, “each insured depository institution's” for “each member's”, and “the institution's” for “the member's” in two places, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (c)(4)(G)(ii). Pub. L. 104–208, §2704(d)(14)(M)(iii), which directed substitution of “Deposit Insurance Fund” for “appropriate insurance fund”, “insured depository institutions” for “the members of the insurance fund (of which such institution is a member)”, “each insured depository institution's” for “each member's”, and “the institution's” for “the member's” in two places, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (c)(11). Pub. L. 104–208, §2704(d)(14)(M)(iv), which directed striking out par. (11), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (c)(11). Pub. L. 104–208, §2704(d)(14)(M)(iv), which directed striking out par. (11), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (h). Pub. L. 104–208, §2704(d)(14)(M)(v), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (h). Pub. L. 104–208, §2704(d)(14)(M)(v), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (k)(4)(B)(i). Pub. L. 104–208, §2704(d)(14)(M)(vi), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k)(4)(B)(i). Pub. L. 104–208, §2704(d)(14)(M)(vi), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–325, §602(a)(34), substituted “an insured bank in default” for “a in default insured bank” and “such insured bank” for “such in default insured bank”.
 
@@ -760,7 +772,7 @@ Subsec. (f)(7)(A), (B). Pub. L. 103–325, §602(a)(41), struck out “or” at 
 
 Subsec. (f)(12)(A). Pub. L. 103–325, §602(a)(42), substituted “are” for “is”.
 
-1991—Subsec. (c)(4) to (10). Pub. L. 102–242, §141(a)(1), (e), redesignated former pars. (5) to (9) as (6) to (10), respectively, redesignated subpar. (B) of par. (4) as par. (5), amended par. (4)(A) generally and redesignated it as par. (4), further redesignated pars. (8) to (10) as (9) to (11), respectively, and added par. (8). Prior to amendment, par. (4)(A) read as follows: “No assistance shall be provided under this subsection in an amount in excess of that amount which the Corporation determines to be reasonably necessary to save the cost of liquidating, including paying the insured accounts of, such insured depository institution, except that such restriction shall not apply in any case in which the Corporation determines that the continued operation of such insured depository institution is essential to provide adequate depository services in its community. In calculating the cost of assistance, the Corporation shall include (i) the immediate and long-term obligations of the Corporation with respect to such assistance, including contingent liabilities, and (ii) the Federal tax revenues foregone by the Government, to the extent reasonably ascertainable.”
+1991—Subsec. (c)(4) to (10). Pub. L. 102–242, §141(a)(1), (e), redesignated former pars. (5) to (9) as (6) to (10), respectively, redesignated subpar. (B) of par. (4) as par. (5), amended par. (4)(A) generally and redesignated it as par. (4), further redesignated pars. (8) to (10) as (9) to (11), respectively, and added par. (8). Prior to amendment, par. (4)(A) read as follows: “No assistance shall be provided under this subsection in an amount in excess of that amount which the Corporation determines to be reasonably necessary to save the cost of liquidating, including paying the insured accounts of, such insured depository institution, except that such restriction shall not apply in any case in which the Corporation determines that the continued operation of such insured depository institution is essential to provide adequate depository services in its community. In calculating the cost of assistance, the Corporation shallinclude (i) the immediate and long-term obligations of the Corporation with respect to such assistance, including contingent liabilities, and (ii) the Federal tax revenues foregone by the Government, to the extent reasonably ascertainable.”
 
 Subsec. (d)(3)(D). Pub. L. 102–242, §123(b), added subpar. (D).
 
@@ -932,7 +944,7 @@ Subsec. (e). Pub. L. 97–320, §113(m)(2), inserted “(e)” before “No agre
 
 Subsecs. (f) to (h). Pub. L. 97–320, §§113(m)(1), 116, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-Pub. L. 97–320, §141(a)(3), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 116 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisionsof Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, §141(a)(3), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 116 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
 Subsec. (i). Pub. L. 97–320, §§203, 206, added subsec. (i), relating to net worth certificates, and provided for its prospective repeal. See Effective Date of 1982 Amendment note below.
 
@@ -948,13 +960,15 @@ Amendment by section 3(a)(8) of Pub. L. 109–173 effective Jan. 1, 2007, see se
 
 Amendment by section 8(a)(19) of Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1983 Amendments
 

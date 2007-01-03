@@ -4,18 +4,8 @@
 | :--- | ---: |
 | [2401\.](%C2%A7%2002401%20-%20Establishment%20of%20Commission.md) | Establishment of Commission. |
 | [2402\.](%C2%A7%2002402%20-%20Membership%20of%20Commission.md) | Membership of Commission. |
-| (a) | Composition. |
-| (b) | Designation of Chairperson. |
-| (c) | Vacancies. |
 | [2403\.](%C2%A7%2002403%20-%20Functions%20of%20Commission.md) | Functions of Commission. |
-| (a) | Study, investigation, and recommendations; considerations. |
-| (b) | Interim and final reports; submission dates; transmittal of final report to President and Congress; contents; availability to public; termination date of Commission. |
-| (c) | Clearance by Federal agencies prior to transmittal of interim or final report. |
 | [2404\.](%C2%A7%2002404%20-%20Powers%20of%20Commission.md) | Powers of Commission. |
-| (a) | Hearings; administration of oaths. |
-| (b) | Implementation authority of members or agents of Commission. |
-| (c) | Request for information from other Federal departments or agencies. |
-| (d) | Issuance of subpenas for attendance of witnesses and production of evidence; refusal to obey; contempt proceedings; manner of service of subpenas; service of process. |
 | [2405\.](%C2%A7%2002405%20-%20Executive%20Director%20and%20additional%20staff%20personnel%3B%20appointment%20and%20compensation%3B%20experts%20and%20consultants%3B%20employment%20and%20compensation%E2%80%A6.md) | Executive Director and additional staff personnel; appointment and compensation; experts and consultants; employment and compensation; audits by Comptroller General. |
 | [2406\.](%C2%A7%2002406%20-%20Compensation%20of%20members%20of%20Commission.md) | Compensation of members of Commission. |
 | [2407\.](%C2%A7%2002407%20-%20Cooperation%20and%20assistance%20of%20other%20Federal%20departments%2C%20agencies%2C%20and%20instrumentalities.md) | Cooperation and assistance of other Federal departments, agencies, and instrumentalities. |

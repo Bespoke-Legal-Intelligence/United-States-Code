@@ -54,7 +54,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(3)(E), is title I 
 
 #### Prior Provisions
 
-A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility study and report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility studyand report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ The Secretary shall develop a strategy for implementing Federal agricultural exp
 
 #### (b) Purpose of strategy
 
-The strategy developed under subsection (a) of this section shall encourage the maintenance,development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
+The strategy developed under subsection (a) of this section shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
 
 #### (c) Goals of strategy
 
@@ -26,7 +26,7 @@ The strategy developed under subsection (a) of this section shall have the follo
 
 &emsp;(3) Increase the value of United States high-value and value-added agricultural exports each year.
 
-&emsp;(4) Increase the value of United States high-value and value-added agricultural exports each year at a faster rate than the rate of increase in the value of overall world export trade in high-value and value-added agricultural products.
+&emsp;(4) Increase the value of United States high-value and value-added agricultural exportseach year at a faster rate than the rate of increase in the value of overall world export trade in high-value and value-added agricultural products.
 
 &emsp;(5) Ensure that to the extent practicable—
 

@@ -46,5 +46,5 @@ This section applies to each contract described in subsection (b) of this sectio
 
 #### Codification
 
-Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of thePackers and Stockyards Act, 1921, which comprises this chapter.
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Packers and Stockyards Act, 1921, which comprises this chapter.
 

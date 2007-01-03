@@ -12,7 +12,7 @@ Whoever is guilty of voluntary manslaughter, shall be fined under this title or 
 
 Whoever is guilty of involuntary manslaughter, shall be fined under this title or imprisoned not more than six years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 103–322, title XXXII, §320102, title XXXIII,§330016(1)(H), Sept. 13, 1994, 108 Stat. 2109, 2147; Pub. L. 104–294, title VI, §604(b)(13), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2109, 2147; Pub. L. 104–294, title VI, §604(b)(13), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 

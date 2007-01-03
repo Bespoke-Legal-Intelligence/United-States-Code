@@ -46,7 +46,7 @@ Details.—
 
 &emsp;(1)
 
-Requests of agencies.—On the request of the head of a Federal agency having chargeor control of property owned or occupied by the Federal Government, the Secretary may detail officers and agents designated under this section for the protection of the property and persons on the property.
+Requests of agencies.—On the request of the head of a Federal agency having charge or control of property owned or occupied by the Federal Government, the Secretary may detail officers and agents designated under this section for the protection of the property and persons on the property.
 
 &emsp;(2)
 

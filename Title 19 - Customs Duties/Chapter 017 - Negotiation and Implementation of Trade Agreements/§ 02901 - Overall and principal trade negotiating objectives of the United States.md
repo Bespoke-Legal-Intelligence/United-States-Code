@@ -32,7 +32,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 #### (3) Transparency
 
-&emsp;The principal negotiating objective of the United States regarding transparency is to obtain broader application of the principle oftransparency and clarification of the costs and benefits of trade policy actions through the observance of open and equitable procedures in trade matters by Contracting Parties to the GATT.
+&emsp;The principal negotiating objective of the United States regarding transparency is to obtain broader application of the principle of transparency and clarification of the costs and benefits of trade policy actions through the observance of open and equitable procedures in trade matters by Contracting Parties to the GATT.
 
 #### (4) Developing countries
 
@@ -96,7 +96,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;&emsp;(II) will reduce or eliminate such barriers or distortions, and help ensure fair, equitable opportunities for foreign markets.
 
-&emsp;(B) In pursuing the negotiating objectives described in subparagraph (A), United States negotiators shall take into account legitimate United States domestic objectives including,but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the law and regulations related thereto.
+&emsp;(B) In pursuing the negotiating objectives described in subparagraph (A), United States negotiators shall take into account legitimate United States domestic objectives including, but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the law and regulations related thereto.
 
 #### (10) Intellectual property
 
@@ -280,7 +280,7 @@ Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the Preside
 
 Sec. 2–101. <i>Countertrade and Barter.</i>
 
-(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
+(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director \[Administrator\] of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
 
 (2) <i>Functions</i>. The interagency group shall carry out the functions and duties set out in section 2205(a) of the Omnibus Trade Act \[15 U.S.C. 4712(a)\].
 

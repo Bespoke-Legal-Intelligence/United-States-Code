@@ -6,7 +6,7 @@
 
 &emsp;(2) the abolition of all or a part of the functions of an agency, except that no enforcement function or statutory program shall be abolished by the plan;
 
-&emsp;(3) the consolidation or coordination of the whole or a part of an agency, or of the wholeor a part of the functions thereof, with the whole or a part of another agency or the functions thereof;
+&emsp;(3) the consolidation or coordination of the whole or a part of an agency, or of the whole or a part of the functions thereof, with the whole or a part of another agency or the functions thereof;
 
 &emsp;(4) the consolidation or coordination of part of an agency or the functions thereof with another part of the same agency or the functions thereof;
 

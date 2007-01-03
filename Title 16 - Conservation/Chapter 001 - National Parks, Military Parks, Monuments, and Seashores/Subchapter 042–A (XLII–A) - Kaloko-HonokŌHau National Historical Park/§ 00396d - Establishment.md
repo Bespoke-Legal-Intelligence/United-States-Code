@@ -24,7 +24,7 @@ The Secretary shall administer the park in accordance with this section and the 
 
 (3) Commercial, recreational, and subsistence fishing and shoreline food gathering activities as well as access to and from the Honokohau small boat harbor by motor boats and other water craft shall be permitted wherever such activities are not inconsistent with the purposes for which the park is established, subject to regulation by the Secretary.
 
-(4) The Secretary shall consult with and may enter into agreements with other governmental entities and private landowners to establish adequate controls on air and water quality and the scenic and esthetic values of the surrounding land and water areas. In consulting with and entering into any such agreements, the Secretary shall to the maximum extent feasible utilize the traditional native Hawaiian Ahupua's concept of land and water management.
+(4) The Secretary shall consult with and may enter into agreements with other governmental entities and private landowners to establish adequate controls on air and water quality and the scenic and esthetic values of the surroundingland and water areas. In consulting with and entering into any such agreements, the Secretary shall to the maximum extent feasible utilize the traditional native Hawaiian Ahupua's concept of land and water management.
 
 #### (e) Employment of native Hawaiians
 

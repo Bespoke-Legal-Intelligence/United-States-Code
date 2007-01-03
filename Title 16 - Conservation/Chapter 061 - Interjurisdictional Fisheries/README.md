@@ -5,24 +5,10 @@
 | [4101\.](%C2%A7%2004101%20-%20Congressional%20statement%20of%20purposes.md) | Congressional statement of purposes. |
 | [4102\.](%C2%A7%2004102%20-%20Definitions.md) | Definitions. |
 | [4103\.](%C2%A7%2004103%20-%20Apportionment.md) | Apportionment. |
-| (a) | Time when apportionments made. |
-| (b) | Apportionment formula. |
-| (c) | Limitations. |
-| (d) | Unused apportionments. |
 | [4104\.](%C2%A7%2004104%20-%20State%20projects.md) | State projects. |
-| (a) | In general. |
-| (b) | Restriction. |
-| (c) | Payment. |
 | [4105\.](%C2%A7%2004105%20-%20Property.md) | Property. |
-| (a) | Application of Federal and State laws. |
-| (b) | Title. |
-| (c) | Disposal. |
 | [4106\.](%C2%A7%2004106%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [4107\.](%C2%A7%2004107%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | General appropriations. |
-| (b) | Additional appropriations. |
-| (c) | Development of management plans. |
-| (d) | Assistance to commercial fishermen. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

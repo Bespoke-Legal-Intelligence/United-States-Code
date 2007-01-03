@@ -38,7 +38,7 @@ The Secretary or <sup>1</sup> Energy, at any time, may determine on the basis o
 
 (2) The Secretary of Commerce shall, in the conduct of any investigation requested by the Secretary of Energy pursuant to this section, take into account any information made available by the Secretary of Energy, including information regarding the impact on national security of projected or executed contracts or options for source material or special nuclear material from foreign sources or whether domestic production capacity is sufficient to supply projected national security requirements.
 
-(3) No sooner than 3 years following completion of any investigation by the Secretary of Commerce under paragraph (1), if no recommendation has been made pursuant to suchstudy for trade adjustments to assist or protect domestic uranium production, the Secretary of Energy may initiate a request for another such investigation by the Secretary of Commerce.
+(3) No sooner than 3 years following completion of any investigation by the Secretary of Commerce under paragraph (1), if no recommendation has been made pursuant to such study for trade adjustments to assist or protect domestic uranium production, the Secretary of Energy may initiate a request for another such investigation by the Secretary of Commerce.
 
 (Aug. 1, 1946, ch. 724, title I, §170B, as added Pub. L. 97–415, §23(b)(1), Jan. 4, 1983, 96 Stat. 2081; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
@@ -70,7 +70,7 @@ Section 23(a) of Pub. L. 97–415 provided that:
 
 &emsp;“(H) an estimate of the percentage of domestic uranium demand which must be met by domestic uranium production through the year 2000 in order to ensure the level of domestic production estimated to be necessary under subparagraph (G);
 
-&emsp;“(I) a projection of domestic uranium production and uranium price levels which will be in effect both under current policy and in the event that foreign import restrictions were enacted by Congress in order to guarantee domestic production at the level estimated to be necessary under subparagraph (G);
+&emsp;“(I) a projection of domestic uranium production and uranium price levels which will be in effect bothunder current policy and in the event that foreign import restrictions were enacted by Congress in order to guarantee domestic production at the level estimated to be necessary under subparagraph (G);
 
 &emsp;“(J) the anticipated effect of spent nuclear fuel reprocessing on the demand for uranium; and
 

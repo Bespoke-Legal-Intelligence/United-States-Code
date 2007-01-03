@@ -4,7 +4,3 @@ Thirty days after the notification procedures under section 4704(a)(1) are compl
 
 (Added Pub. L. 102–587, title V, §5302, Nov. 4, 1992, 106 Stat. 5082.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4704 of this title.
-

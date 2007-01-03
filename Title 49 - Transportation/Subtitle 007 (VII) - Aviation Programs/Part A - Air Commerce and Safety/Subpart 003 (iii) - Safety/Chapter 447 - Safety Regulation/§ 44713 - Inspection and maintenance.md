@@ -28,7 +28,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 &emsp;(D) the lack of ready access by law enforcement officials to information contained on the forms.
 
-(2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+(2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abusesdescribed in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
 (e)
 
@@ -114,7 +114,7 @@ Nov. 18, 1988, Pub. L. 100–690, §7207(a) (1st sentence), (b), 102 Stat. 4427.
 
 In subsections (a)–(c), the word “Administrator” in section 605(a) and (b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 778) is retained on authority of 49:106(g).
 
-In subsection (a), the word “overhaul” is omitted as being included in “repair”. The word “prescribed” is added for consistency in the revised title and withother titles of the United States Code. The words “A person operating, inspecting, overhauling, or maintaining the equipment shall comply with those requirements, regulations, and orders” are substituted for 49 App.:1425(a) (last sentence) to eliminate unnecessary words.
+In subsection (a), the word “overhaul” is omitted as being included in “repair”. The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “A person operating, inspecting, overhauling, or maintaining the equipment shall comply with those requirements, regulations, and orders” are substituted for 49 App.:1425(a) (last sentence) to eliminate unnecessary words.
 
 In subsection (b), before clause (1), the words “be charged with the duty . . . of” are omitted as surplus. In clause (1), the words “in use” are substituted for “used by an air carrier in air transportation” to eliminate unnecessary words. The words “as may be necessary” and “for operation in air transportation” are omitted as surplus.
 

@@ -14,7 +14,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 #### (B) Fiscal years 1999 through 2002
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1999 or any of the fiscal years 2000 through 2002, the Secretary, subject to subsection (d) of this section, shall reserve for the fiscal year involved, for making awards of grants and contracts under part B of this subchapter with respect to nurse practitioners and nurse midwives, not less than the percentage constituted by the ratio of the amount appropriated under section 296m of this title as such section was in effect for fiscal year 1998 to the total of the amounts appropriatedunder this subchapter for such fiscal year. For purposes of the preceding sentence, the Secretary, in determining the amount that has been reserved for the fiscal year involved, shall include any amounts appropriated under subsection (a) of this section for the fiscal year that are obligated by the Secretary to continue in effect grants or contracts under section 296m of this title as such section was in effect for fiscal year 1998.
+&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1999 or any of the fiscal years 2000 through 2002, the Secretary, subject to subsection (d) of this section, shall reserve for the fiscal year involved, for making awards of grants and contracts under part B of this subchapter with respect to nurse practitioners and nurse midwives, not less than the percentage constituted by the ratio of the amount appropriated under section 296m of this title as such section was in effect for fiscal year 1998 to the total of the amounts appropriated under this subchapter for such fiscal year. For purposes of the preceding sentence, the Secretary, in determining the amount that has been reserved for the fiscal year involved, shall include any amounts appropriated under subsection (a) of this section for the fiscal year that are obligated by the Secretary to continue in effect grants or contracts under section 296m of this title as such section was in effect for fiscal year 1998.
 
 #### (2) Nurse anesthetists
 
@@ -36,7 +36,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 &emsp;The contract under paragraph (1) shall provide that the methodology under such paragraph will be developed in accordance with the following:
 
-&emsp;&emsp;(A) The methodology will take into account the need for and the distribution of health services among medically underserved populations, as determined according to the factors that apply under section 254b(b)(3) of this title.
+&emsp;&emsp;(A) The methodology will take into account the need for and the distribution of health services among medically underserved populations, as determined accordingto the factors that apply under section 254b(b)(3) of this title.
 
 &emsp;&emsp;(B) The methodology will take into account the need for and the distribution of health services in health professional shortage areas, as determined according to the factors that apply under section 254e(b) of this title.
 
@@ -74,7 +74,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 #### (3) Report to Congress
 
-&emsp;Not later than 30 days after the completion of the development of the methodology required in paragraph (1), the Secretary shall submit to the Committee on Commerce of theHouse of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the methodology and explaining the effects of the methodology on the allocation among parts B, C, and D of this subchapter (and programs within such parts) of amounts appropriated under subsection (a) of this section for the first fiscal year for which the methodology will be in effect. Such explanation shall include a comparison of the allocation for such fiscal year with the allocation made under this section for the preceding fiscal year.
+&emsp;Not later than 30 days after the completion of the development of the methodology required in paragraph (1), the Secretary shall submit to the Committee on Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the methodology and explaining the effects of the methodology on the allocation among parts B, C, and D of this subchapter (and programs within such parts) of amounts appropriated under subsection (a) of this section for the first fiscal year for which the methodology will be in effect. Such explanation shall include a comparison of the allocation for such fiscal year with the allocation made under this section for the preceding fiscal year.
 
 #### (d) Use of methodology before fiscal year 2003
 

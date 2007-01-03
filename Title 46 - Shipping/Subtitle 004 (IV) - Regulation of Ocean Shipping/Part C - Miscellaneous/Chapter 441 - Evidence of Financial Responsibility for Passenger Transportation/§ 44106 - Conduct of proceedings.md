@@ -1,0 +1,28 @@
+### §44106. Conduct of proceedings
+
+Part A of this subtitle applies to proceedings conducted by the Federal Maritime Commission under this chapter.
+
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1555.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44106
+
+46 App.:817d(d).
+
+Pub. L. 89–777, §§2(d), 3(d), Nov. 6, 1966, 80 Stat. 1357, 1358; Pub. L. 104–324, title VII, §746(c), Oct. 19, 1996, 110 Stat. 3943.
+
+&nbsp;
+
+46 App.:817e(d).
+
+The authority to prescribe regulations is omitted as unnecessary because it is already provided by section 305 of the revised title.
+

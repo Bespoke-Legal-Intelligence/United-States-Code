@@ -2,7 +2,7 @@
 
 (a)
 
-Insurance and Reinsurance.—(1) Subject to subsection (c) of this section and section 44305(a) of this title, the Secretary of Transportation may provide insurance and reinsurance against loss or damage arising out of any risk from the operation of an American aircraft or foreign-flag aircraft.
+Insurance and Reinsurance.—(1) Subject to subsection (c) of this section and section44305(a) of this title, the Secretary of Transportation may provide insurance and reinsurance against loss or damage arising out of any risk from the operation of an American aircraft or foreign-flag aircraft.
 
 (2) An aircraft may be insured or reinsured for not more than its reasonable value as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. Insurance or reinsurance may be provided only when the Secretary decides that the insurance cannot be obtained on reasonable terms from an insurance carrier.
 
@@ -180,27 +180,29 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service in Domestic and International Operations
 
-Memorandum of President of the United States, Dec. 22, 2005, 70 F.R. 76669, provided:
+Memorandum of President of the United States, Dec. 21, 2006, 71 F.R. 77243, provided:
 
 Memorandum for the Secretary of Transportation
 
-By the authority vested in me by 49 U.S.C. 44302, <i>et seq</i>., I hereby:
+By the authority vested in me as President by the Constitution and laws of the United States, including 49 U.S.C. 44302, <i>et seq</i>., and 3 U.S.C. 301, I hereby:
 
-1\. determine that continuation of U.S.-flag commercial air service is necessary in the interest of air commerce, national security, and the foreign policy of the United States.
+1\. determine that continuation of U.S.-flag commercial air service is necessary in the interest of air commerce, national security, and the foreign policy of the United States;
 
-2\. approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-flag air carriers against loss or damage arising out of any risk from the operation of an aircraft in the manner and to the extent provided in Chapter 443 of 49 U.S.C.:
+2\. approve provision by the Secretary of Transportation (Secretary) of insurance or reinsurance to U.S.-flag air carriers against loss or damage arising out of any risk from the operation of an aircraft in the manner and to the extent provided in Chapter 443 of 49 U.S.C.:
 
-&emsp;(a) until August 31, 2006;
+(a) until August 31, 2007;
 
-&emsp;(b) after August 31, 2006, but no later than December 31, 2006, when he determines that such insurance or reinsurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States; and
+(b) after August 31, 2007, but no later than December 31, 2007, when the Secretary determines that such insurance or reinsurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States; and
 
-3\. delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(c), to extend this determination for additional periods beyond August 31, 2006, but no later than December 31, 2006, when he finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or the national security, or to carry out the foreign policy of the United States Government.
+3\. delegate to the Secretary the authority vested in me by 49 U.S.C. 44306(c) to extend this determination for additional periods beyond August 31, 2007, but no later than December 31, 2007, when the Secretary finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or the national security, or to carry out the foreign policy of the United States Government.
 
-You are directed to bring this determination immediately to the attention of all air carriers within the meaning of 49 U.S.C. 40102(2), and to arrange for its publication in the <i>Federal Register</i>.
+You are directed to bring this determination immediately to the attention of all air carriers within the meaning of 49 U.S.C. 40102(2), and to arrange for its publication in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior Presidential documents related to provision of insurance to U.S.-flag commercial air service were contained in the following:
+
+Memorandum of President of the United States, Dec. 22, 2005, 70 F.R. 76669.
 
 Determination of President of the United States, No. 2005–15, Dec. 21, 2004, 69 F.R. 77607.
 

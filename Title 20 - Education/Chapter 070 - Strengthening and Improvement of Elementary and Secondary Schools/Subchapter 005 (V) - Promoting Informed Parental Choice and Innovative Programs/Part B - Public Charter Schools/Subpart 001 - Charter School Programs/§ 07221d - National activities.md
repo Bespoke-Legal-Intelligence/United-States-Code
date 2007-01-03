@@ -60,7 +60,7 @@ The Secretary shall reserve for each fiscal year the greater of 5 percent or $5,
 
 #### (A) In general
 
-&emsp;&emsp;From the amount made available to carry out this subsection under paragraphs (2) and (3)(B) of section 7221j(b) of this title for any fiscal year, the Secretary shall make grants, on a competitive basis, to States to pay for the Federal share of the cost of establishingor enhancing, and administering per-pupil facilities aid programs.
+&emsp;&emsp;From the amount made available to carry out this subsection under paragraphs (2) and (3)(B) of section 7221j(b) of this title for any fiscal year, the Secretary shall make grants, on a competitive basis, to States to pay for the Federal share of the cost of establishing or enhancing, and administering per-pupil facilities aid programs.
 
 #### (B) Period
 

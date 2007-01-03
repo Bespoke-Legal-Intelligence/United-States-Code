@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements,except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 #### (B) Procedures governing action
 

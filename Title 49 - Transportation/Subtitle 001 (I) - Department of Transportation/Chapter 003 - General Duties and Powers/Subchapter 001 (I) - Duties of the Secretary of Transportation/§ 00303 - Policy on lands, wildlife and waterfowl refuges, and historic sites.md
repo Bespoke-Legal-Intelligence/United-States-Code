@@ -94,7 +94,7 @@ In subsection (c), before clause (1), the words “After August 23, 1968” afte
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–59, §6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
+2005—Subsec. (c). Pub. L. 109–59, §6009(a)(2)(A), inserted heading and substituted “Subject to subsection\(d), the Secretary” for “The Secretary” in introductory provisions.
 
 Subsec. (d). Pub. L. 109–59, §6009(a)(2)(B), added subsec. (d).
 

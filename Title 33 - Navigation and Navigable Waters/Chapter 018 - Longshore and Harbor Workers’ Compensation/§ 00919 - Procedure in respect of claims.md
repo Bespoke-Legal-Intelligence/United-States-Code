@@ -6,7 +6,7 @@ Subject to the provisions of section 913 of this title a claim for compensation 
 
 #### (b) Notice of claim
 
-Within ten days after such claim is filed the deputy commissioner, in accordance with regulations prescribed by the Secretary, shall notify the employer and any other person (other than the claimant), whom the deputy commissioner considers an interested party, that a claim has been filed. Such notice may be served personallyupon the employer or other person, or sent to such employer or person by registered mail.
+Within ten days after such claim is filed the deputy commissioner, in accordance with regulations prescribed by the Secretary, shall notify the employer and any other person (other than the claimant), whom the deputy commissioner considers an interested party, that a claim has been filed. Such notice may be served personally upon the employer or other person, or sent to such employer or person by registered mail.
 
 #### (c) Investigations; order for hearing; notice; rejection or award
 
@@ -26,7 +26,7 @@ An award of compensation for disability may be made after the death of an injure
 
 #### (g) Transfer of case
 
-At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case to any other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
+At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case toany other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
 
 #### (h) Physical examination of injured employee
 

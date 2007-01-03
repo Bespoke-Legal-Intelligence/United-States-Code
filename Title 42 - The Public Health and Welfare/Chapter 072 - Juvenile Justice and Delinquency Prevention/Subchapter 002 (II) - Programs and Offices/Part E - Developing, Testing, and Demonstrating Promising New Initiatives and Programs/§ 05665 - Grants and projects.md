@@ -20,5 +20,5 @@ A prior section 5665a, Pub. L. 93–415, title II, §262, as added Pub. L. 100�
 
 #### Effective Date
 
-Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only withrespect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as an Effective Date of 2002 Amendment note under section 5601 of this title.
+Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as an Effective Date of 2002 Amendment note under section 5601 of this title.
 

@@ -4,3 +4,7 @@ No person shall hold by assignment more than one farm unit prior to final paymen
 
 (Aug. 13, 1914, ch. 247, §13, 38 Stat. 690.)
 
+#### References in Text
+
+The reclamation law, referred to in text, is defined in section 472 of this title.
+

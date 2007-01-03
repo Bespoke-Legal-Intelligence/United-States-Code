@@ -14,7 +14,7 @@ Proposals.—(1) A State or local government may submit a proposal to the Secret
 
 &emsp;(B)(i) the Government pay 100 percent of the compensation; and
 
-&emsp;(ii) if the proposed service is not successful for at least a 2-year period under the criteria prescribed by the Secretary under paragraph (3) of this subsection, the eligible place is noteligible for air service or air transportation for which compensation is paid by the Secretary under this subchapter.
+&emsp;(ii) if the proposed service is not successful for at least a 2-year period under the criteria prescribed by the Secretary under paragraph (3) of this subsection, the eligible place is not eligible for air service or air transportation for which compensation is paid by the Secretary under this subchapter.
 
 (3) The Secretary shall prescribe by regulation objective criteria for deciding whether enhanced essential air service to an eligible place under this section is successful in terms of—
 

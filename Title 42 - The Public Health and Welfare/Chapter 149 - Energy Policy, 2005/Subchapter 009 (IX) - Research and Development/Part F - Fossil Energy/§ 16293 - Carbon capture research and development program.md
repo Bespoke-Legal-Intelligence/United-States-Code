@@ -18,7 +18,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;(3) to increase the efficiency of the overall system to reduce the quantity of carbon dioxide emissions released from the system per megawatt generated; and
 
-&emsp;(4) in accordance with the carbon dioxide capture program, to promote a robust carbonsequestration program and continue the work of the Department, in conjunction with the private sector, through regional carbon sequestration partnerships.
+&emsp;(4) in accordance with the carbon dioxide capture program, to promote a robust carbon sequestration program and continue the work of the Department, in conjunction with the private sector, through regional carbon sequestration partnerships.
 
 #### (c) Authorization of appropriations
 

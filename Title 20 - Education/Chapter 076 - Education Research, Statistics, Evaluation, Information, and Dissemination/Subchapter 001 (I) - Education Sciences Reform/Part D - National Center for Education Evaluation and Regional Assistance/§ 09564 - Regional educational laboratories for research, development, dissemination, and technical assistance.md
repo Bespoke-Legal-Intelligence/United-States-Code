@@ -162,13 +162,13 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;&emsp;&emsp;(vii) directs the regional educational laboratory to carry out the laboratory's duties in a manner that will make progress toward achieving the State education goals and reforming schools and educational systems; and
 
-&emsp;&emsp;&emsp;(viii) conducts a continuing survey of the educational needs, strengths, and weaknesses within the region, including a process of open hearings to solicit the views of schools and teachers; and
+&emsp;&emsp;&emsp;(viii) conducts a continuing survey of the educational needs, strengths, andweaknesses within the region, including a process of open hearings to solicit the views of schools and teachers; and
 
 &emsp;&emsp;(B) allocate the regional educational laboratory's resources to and within each State in a manner which reflects the need for assistance, taking into account such factors as the proportion of economically disadvantaged students, the increased cost burden of service delivery in areas of sparse populations, and any special initiatives being undertaken by State, intermediate, local educational agencies, or Bureau-funded schools, as appropriate, which may require special assistance from the laboratory.
 
 #### (2) Special rule
 
-&emsp;If a regional educational laboratory needs flexibility in order to meet the requirementsof paragraph (1)(A)(i), the regional educational laboratory may select not more than 10 percent of the governing board from individuals outside those representatives nominated in accordance with paragraph (1)(A)(iii).
+&emsp;If a regional educational laboratory needs flexibility in order to meet the requirements of paragraph (1)(A)(i), the regional educational laboratory may select not more than 10 percent of the governing board from individuals outside those representatives nominated in accordance with paragraph (1)(A)(iii).
 
 #### (i) Duties of governing board
 
@@ -218,5 +218,5 @@ The Educational Research, Development, Dissemination, and Improvement Act of 199
 
 Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§8621 et seq.), B (§8651 et seq.), C (§8671 et seq.), and D (§8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§6053 et seq.), H (§6054 et seq.), I (§6055 et seq.), and J (§6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
 

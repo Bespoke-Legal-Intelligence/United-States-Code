@@ -96,7 +96,7 @@ The Tennessee Valley Authority—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For all eligible employees that are not part of the Civil Service Retirement System, the Tennessee Valley Authorityshall meet any funding shortfall resulting from the transfer of retirement benefits.
+&emsp;&emsp;&emsp;&emsp;For all eligible employees that are not part of the Civil Service Retirement System, the Tennessee Valley Authority shall meet any funding shortfall resulting from the transfer of retirement benefits.
 
 #### (II) Notification
 

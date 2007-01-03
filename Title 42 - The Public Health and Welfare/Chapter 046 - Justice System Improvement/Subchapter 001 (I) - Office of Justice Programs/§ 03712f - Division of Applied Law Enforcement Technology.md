@@ -10,11 +10,11 @@ In carrying out the purpose of the Division, the head of the Division shall—
 
 &emsp;(1) establish clear minimum standards for computer systems that can be purchased using amounts awarded under such grants; and
 
-&emsp;(2) ensure that recipients of such grants use such systems to participate in crime reporting programs administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.
+&emsp;(2) ensure that recipients of such grants use such systems to participate in crime reportingprograms administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.
 
 (Pub. L. 90–351, title I, §107, as added Pub. L. 109–162, title XI, §1160(a), Jan. 5, 2006, 119 Stat. 3117.)
 
 #### Effective Date
 
-Pub. L. 109–162, title XI, §1160(b), Jan. 5, 2006, 119 Stat. 3117, provided that: “This section \[enacting this section\] and the amendment made by this section take effect 90 days after the date of the enactment of this Act \[Jan. 5, 2006\].”
+Pub. L. 109–162, title XI, §1160(b), Jan. 5, 2006, 119 Stat. 3117, as amended by Pub. L. 109–271, §8(n)(4)(A), Aug. 12, 2006, 120 Stat. 768, provided that: “This section \[enacting this section\] and the amendment made by this section take effect on October 1, 2006.”
 

@@ -32,7 +32,7 @@ Section 593 of title 28, U.S.C., 1940 ed., related to clerks and messengers in t
 
 Provision of said section 593 for office expenses of United States attorneys is covered by section 509 \[now 549\] of this title.
 
-Said section 593 also required that payment of salaries of such clerks and messengers be made by the disbursing clerk of the Department of Justice. Under section 550 \[see Prior Provisions note below\] of this title the marshals will make such payments including the office expenses of United States attorneys.
+Said section 593 also required that payment of salaries of such clerks and messengers be made by the disbursing clerk of the Department of Justice. Under section 550 \[see Prior Provisions note below\] of this titlethe marshals will make such payments including the office expenses of United States attorneys.
 
 The restriction that section 484 of title 28, U.S.C., 1940 ed., did not apply to Alaska is omitted as unnecessary since section 109 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, authorizes employment of clerical assistants to United States attorneys in Alaska by the Attorney General.
 

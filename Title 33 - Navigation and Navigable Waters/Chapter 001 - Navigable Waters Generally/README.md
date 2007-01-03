@@ -69,17 +69,11 @@
 | [58\.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000058%20-%20Acushnet%20River%20section%20of%20New%20Bedford%20and%20Fairhaven%20Harbor%2C%20Massachusetts.md) | Acushnet River section of New Bedford and Fairhaven Harbor, Massachusetts. |
 | [59\.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059%20-%20West%20River%20in%20West%20Haven%2C%20Connecticut.md) | West River in West Haven, Connecticut. |
 | [59a.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059a%20-%20Back%20Cove%2C%20Portland%2C%20Maine.md) | Back Cove, Portland, Maine. |
-| (a) | Portion declared nonnavigable. |
-| (b) | Portion abandoned. |
-| (c) | Preservation of right to alter, amend or repeal section. |
 | [59b.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059b%20-%20Bayous%20Terrebonne%20and%20LeCarpe%2C%20Louisiana.md) | Bayous Terrebonne and LeCarpe, Louisiana. |
 | [59c.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059c%20-%20East%20River%2C%20New%20York.md) | East River, New York. |
 | 59c–1. | East and Hudson Rivers, New York. |
 | 59c–2. | East River, New York. |
 | 59c–3. | Queens County, New York. |
-| (a) | Description of nonnavigable area. |
-| (b) | Requirement that area be improved. |
-| (c) | Expiration date. |
 | [59d.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059d%20-%20River%20Raisin%2C%20Michigan.md) | River Raisin, Michigan. |
 | [59e.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059e%20-%20Bayou%20Lafourche%2C%20Louisiana.md) | Bayou Lafourche, Louisiana. |
 | 59e–1. | Additional portion of Bayou Lafourche, Louisiana. |
@@ -89,9 +83,6 @@
 | [59i.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059i%20-%20Patapsco%20River%2C%20Maryland.md) | Patapsco River, Maryland. |
 | [59j.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059j%20-%20Delaware%20River%2C%20Philadelphia%20County%2C%20Pennsylvania%3B%20permanent%20structures.md) | Delaware River, Philadelphia County, Pennsylvania; permanent structures. |
 | 59j–1. | Declaration of nonnavigability for portions of the Delaware River. |
-| (a) | Area to be declared non-navigable; public interest. |
-| (b) | Limits on applicability; regulatory requirements. |
-| (c) | Expiration date. |
 | [59k.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059k%20-%20Wicomico%20River%2C%20Maryland.md) | Wicomico River, Maryland. |
 | 59<i>l.</i> | Nonapplicability of prohibitions and provisions for review and approval concerning wharves and piers. |
 | [59m.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059m%20-%20Lake%20Oswego%2C%20Oregon%3B%20Lake%20Coeur%20d%27Alene%2C%20Idaho%3B%20and%20Lake%20George%2C%20New%20York.md) | Lake Oswego, Oregon; Lake Coeur d'Alene, Idaho; and Lake George, New York. |
@@ -106,67 +97,22 @@
 | [59t.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059t%20-%20Burnham%20Canal%2C%20Milwaukee%2C%20Wisconsin.md) | Burnham Canal, Milwaukee, Wisconsin. |
 | [59u.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059u%20-%20Lawyer%27s%20Ditch%2C%20Essex%20County%2C%20New%20Jersey.md) | Lawyer's Ditch, Essex County, New Jersey. |
 | [59v.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059v%20-%20Middle%20River%2C%20Maryland.md) | Middle River, Maryland. |
-| (a) | Description. |
-| (b) | Pierhead and bulkhead line of Dark Head Creek. |
-| (c) | Previously authorized projects. |
-| (d) | Reservation of rights. |
 | [59w.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059w%20-%20Norton%20Basin%20and%20Jamaica%20Bay%2C%20New%20York.md) | Norton Basin and Jamaica Bay, New York. |
 | [59x.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059x%20-%20Exemption%20from%20General%20Bridge%20Act%20of%201946.md) | Exemption from General Bridge Act of 1946. |
-| (a) | Waters declared nonnavigable. |
-| (b) | Waters described. |
 | [59y.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059y%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20Coney%20Island%20Creek%20and%20Gravesend%20Bay%2C%20New%20York.md) | Declaration of nonnavigability for portions of Coney Island Creek and Gravesend Bay, New York. |
-| (a) | Area to be declared non-navigable; public interest. |
-| (b) | Limits on applicability; regulatory requirements. |
-| (c) | Expiration date. |
 | [59z.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059z%20-%20Declaration%20of%20nonnavigability%20of%20bodies%20of%20water%20in%20Ridgefield%2C%20New%20Jersey.md) | Declaration of nonnavigability of bodies of water in Ridgefield, New Jersey. |
 | [59aa.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059aa%20-%20Nonnavigability%20of%20Wisconsin%20River.md) | Nonnavigability of Wisconsin River. |
 | [59bb.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059bb%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20Lake%20Erie.md) | Declaration of nonnavigability for portions of Lake Erie. |
-| (a) | Area to be declared nonnavigable; public interest. |
-| (b) | Limits on applicability; regulatory requirements. |
-| (c) | Expiration date. |
 | 59bb–1. | Declaration of nonnavigability for Lake Erie, New York. |
-| (a) | Area to be declared nonnavigable; public interest. |
-| (b) | Boundaries. |
-| (c) | Limits on applicability; regulatory requirements. |
-| (d) | Expiration date. |
 | [59cc.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059cc%20-%20Declaration%20of%20nonnavigability%20of%20portion%20of%20Hudson%20River%2C%20New%20York.md) | Declaration of nonnavigability of portion of Hudson River, New York. |
-| (a) | Declaration of nonnavigability. |
-| (b) | Area subject to declaration. |
-| (c) | Determination of public interest. |
-| (d) | Limitation on applicability of declaration. |
-| (e) | Expiration date. |
-| (f) | “Proposed project” defined. |
 | [59dd.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059dd%20-%20Declaration%20of%20nonnavigability%20of%20portions%20of%20Cleveland%20Harbor%2C%20Ohio.md) | Declaration of nonnavigability of portions of Cleveland Harbor, Ohio. |
-| (a) | to (c) Omitted. |
-| (d) | Area to be declared nonnavigable; public interest. |
-| (e) | Limits on applicability; regulatory requirements. |
-| (f) | Expiration date. |
 | [59ee.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059ee%20-%20Portion%20of%20Sacramento%20River%20Barge%20Canal%20declared%20to%20not%20be%20navigable%20waters%20of%20United%20States.md) | Portion of Sacramento River Barge Canal declared to not be navigable waters of United States. |
 | 59ee–1. | Declaration of nonnavigability for portion of Sacramento Deep Water Ship Channel. |
 | [59ff.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059ff%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20Pelican%20Island%2C%20Texas.md) | Declaration of nonnavigability for portions of Pelican Island, Texas. |
-| (a) | Descriptions of nonnavigable areas. |
-| (b) | Exceptions. |
-| (c) | Requirement that areas be improved. |
-| (d) | Expiration. |
 | [59gg.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059gg%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20Cuyahoga%20County%2C%20Ohio.md) | Declaration of nonnavigability for portions of Cuyahoga County, Ohio. |
-| (a) | Area to be declared nonnavigable; public interest. |
-| (b) | Limits on applicability; regulatory requirements. |
-| (c) | Expiration date. |
 | [59hh.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059hh%20-%20Declaration%20of%20nonnavigability%20for%20portion%20of%20Pelican%20Island%2C%20Texas.md) | Declaration of nonnavigability for portion of Pelican Island, Texas. |
-| (a) | In general. |
-| (b) | Compensation for conveyance. |
-| (c) | Disposition of spoil. |
-| (d) | Determination of fair market value. |
-| (e) | Navigational servitude. |
-| (f) | Survey and study. |
 | [59ii.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059ii%20-%20Declaration%20of%20nonnavigability%20of%20a%20portion%20of%20the%20canal%20known%20as%20the%20James%20River%20and%20Kanawha%20Canal%20in%20Richmond%2C%20Virginia.md) | Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia. |
-| (a) | Canal declared nonnavigable. |
-| (b) | Ensuring public safety. |
-| (c) | Termination of declaration. |
 | [59jj.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059jj%20-%20Designation%20of%20nonnavigability%20for%20portions%20of%20Gloucester%20County%2C%20New%20Jersey.md) | Designation of nonnavigability for portions of Gloucester County, New Jersey. |
-| (a) | Designation. |
-| (b) | Limits on applicability; regulatory requirements. |
-| (c) | Termination of designation. |
 | [59kk.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059kk%20-%20Wateree%20River.md) | Wateree River. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

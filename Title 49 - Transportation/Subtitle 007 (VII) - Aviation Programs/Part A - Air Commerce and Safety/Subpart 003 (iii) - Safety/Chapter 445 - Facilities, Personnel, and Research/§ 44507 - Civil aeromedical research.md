@@ -44,5 +44,5 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(e); added Nov. 3, 1988, Pub. L. 100–591, §5(b), 102 Stat. 3013.
 
-In clause (4), the words “departments, agencies, and instrumentalities of the United States Government”are substituted for “Government agencies” for consistency in the revised title and with other titles of the United States Code.
+In clause (4), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Government agencies” for consistency in the revised title and with other titles of the United States Code.
 

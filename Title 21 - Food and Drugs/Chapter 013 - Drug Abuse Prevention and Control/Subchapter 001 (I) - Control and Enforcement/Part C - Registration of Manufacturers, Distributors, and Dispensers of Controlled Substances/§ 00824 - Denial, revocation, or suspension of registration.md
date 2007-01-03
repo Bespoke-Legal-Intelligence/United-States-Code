@@ -6,7 +6,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(1) has materially falsified any application filed pursuant to or required by this subchapter or subchapter II of this chapter;
 
-&emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter or any other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
+&emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter orany other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
 
 &emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
 
@@ -38,13 +38,13 @@ In the event the Attorney General suspends or revokes a registration granted und
 
 #### (g) Seizure or placement under seal of controlled substances or list I chemicals
 
-The Attorney General may, in his discretion, seize or place under seal any controlled substances or list I chemicals owned or possessed by a registrant whose registration has expired or who has ceased to practice or do business in the manner contemplated by his registration. Such controlled substances or list I chemicals shall be held for the benefit of the registrant, or his successor in interest. The Attorney General shall notify a registrant, or his successor in interest, who has any controlled substance or list I chemical seized or placed under seal of the proceduresto be followed to secure the return of the controlled substance or list I chemical and the conditions under which it will be returned. The Attorney General may not dispose of any controlled substance or list I chemical seized or placed under seal under this subsection until the expiration of one hundred and eighty days from the date such substance or chemical was seized or placed under seal.
+The Attorney General may, in his discretion, seize or place under seal any controlled substances or list I chemicals owned or possessed by a registrant whose registration has expired or who has ceased to practice or do business in the manner contemplated by his registration. Such controlled substances or list I chemicals shall be held for the benefit of the registrant, or his successor in interest. The Attorney General shall notify a registrant, or his successor in interest, who has any controlled substance or list I chemical seized or placed under seal of the procedures to be followed to secure the return of the controlled substance or list I chemical and the conditions under which it will be returned. The Attorney General may not dispose of any controlled substance or list I chemical seized or placed under seal under this subsection until the expiration of one hundred and eighty days from the date such substance or chemical was seized or placed under seal.
 
 (Pub. L. 91–513, title II, §304, Oct. 27, 1970, 84 Stat. 1255; Pub. L. 93–281, §4, May 14, 1974, 88 Stat. 125; Pub. L. 98–473, title II, §§304, 512, 513, Oct. 12, 1984, 98 Stat. 2050, 2073; Pub. L. 100–93, §8(j), Aug. 18, 1987, 101 Stat. 695; Pub. L. 103–200, §3(d), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title XXXIII, §330024(e), Sept. 13, 1994, 108 Stat. 2151; Pub. L. 106–310, div. B, title XXXV, §3502(b), Oct. 17, 2000, 114 Stat. 1227.)
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(1), (2), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsec. (a)(1), (2), was in the original “this title”, meaning title II of Pub. L.91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II of this chapter, referred to in subsec. (a)(1), (2), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 

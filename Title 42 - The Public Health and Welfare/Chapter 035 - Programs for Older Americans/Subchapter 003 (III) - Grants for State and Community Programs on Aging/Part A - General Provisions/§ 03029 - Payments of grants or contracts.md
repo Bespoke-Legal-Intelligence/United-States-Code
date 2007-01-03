@@ -8,13 +8,13 @@ Payments of grants or contracts under this subchapter may be made (after necessa
 
 (1) For each fiscal year, not less than 25 percent of the non-Federal share of the total expenditures under the State plan which is required by section 3024(d) of this title shall be met from funds from State or local public sources.
 
-(2) Funds required to meet the non-Federal share required by section 3024(d)(1)(D) of this title, in amounts exceeding the non-Federal share required prior to fiscal year 1981, shall be met from State sources.
+(2) Funds required to meet the non-Federal share required by section 3024(d)(1)(D) of this title, in amounts exceeding 10 percent of the cost of the services specified in such section 3024(d)(1)(D) of this title, shall be met from State sources.
 
 #### (c) Reduction of State allotment
 
 A State's allotment under section 3024 of this title for a fiscal year shall be reduced by the percentage (if any) by which its expenditures for such year from State sources under its State plan approved under section 3027 of this title are less than its average annual expenditures from such sources for the period of 3 fiscal years preceding such year.
 
-(Pub. L. 89–73, title III, §309, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1532; amended Pub. L. 98–459, title III, §309, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §139, Nov. 29, 1987, 101 Stat. 944; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title III, §309, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1532; amended Pub. L. 98–459, title III, §309, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §139, Nov. 29, 1987, 101 Stat. 944; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 109–365, title III, §308, Oct. 17, 2006, 120 Stat. 2545.)
 
 #### Prior Provisions
 
@@ -23,6 +23,8 @@ A prior section 3029, Pub. L. 89–73, title III, §309, as added Pub. L. 93–3
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, which was classified to section 3027 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–365 substituted “10 percent of the cost of the services specified in such section 3024(d)(1)(D) of this title” for “the non-Federal share required prior to fiscal year 1981”.
 
 1993—Subsec. (a). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 

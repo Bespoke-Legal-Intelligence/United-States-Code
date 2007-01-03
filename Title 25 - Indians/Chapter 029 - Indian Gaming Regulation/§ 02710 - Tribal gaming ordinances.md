@@ -206,7 +206,7 @@
 
 > the burden of proof shall be upon the State to prove that the State has negotiated with the Indian tribe in good faith to conclude a Tribal-State compact governing the conduct of gaming activities.
 
-(iii) If, in any action described in subparagraph (A)(i), the court finds that the State has failed to negotiate in good faith with the Indiantribe to conclude a Tribal-State compact governing the conduct of gaming activities, the court shall order the State and the Indian Tribe <sup>2</sup> to conclude such a compact within a 60-day period. In determining in such an action whether a State has negotiated in good faith, the court—
+(iii) If, in any action described in subparagraph (A)(i), the court finds that the State has failed to negotiate in good faith with the Indian tribe to conclude a Tribal-State compact governing the conduct of gaming activities, the court shall order the State and the Indian Tribe <sup>2</sup> to conclude such a compact within a 60-day period. In determining in such an action whether a State has negotiated in good faith, the court—
 
 &emsp;(I) may take into account the public interest, public safety, criminality, financial integrity, and adverse economic impacts on existing gaming activities, and
 

@@ -18,7 +18,7 @@ The classified civil service, referred to in second par., means the “competiti
 
 #### Codification
 
-In the first par., provisions that fixed the salary of the commissioners have been omitted as obsolete. The positions of chairman and members of the commission are now under the Executive Schedule, see sections 5414 and 5315 of Title 5, Government Organization and Employees.
+In the first par., provisions that fixed the salary of the commissioners have been omitted as obsolete. The positions of chairman and members of the commission are now under the Executive Schedule, see sections 5414and 5315 of Title 5, Government Organization and Employees.
 
 Provisions that fixed the salary of the secretary of the commission, payable in like manner, have been omitted as obsolete. The position is now subject to chapter 51 and subchapter III of chapter 53 (relating to classification and General Schedule pay rates) and section 5504 (relating to biweekly pay periods) of Title 5.
 

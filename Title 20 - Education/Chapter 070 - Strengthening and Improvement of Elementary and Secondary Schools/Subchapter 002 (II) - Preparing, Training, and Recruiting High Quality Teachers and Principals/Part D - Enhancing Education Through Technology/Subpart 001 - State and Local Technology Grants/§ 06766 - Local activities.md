@@ -22,7 +22,7 @@
 
 #### (b) Other activities
 
-In addition to the activities described in subsection (a) of this section, a recipient of funds made available by a State educational agency under section 6762(a)(2) of this title shall use such funds to carry out other activities consistent with this subpart, which may include the following:
+In addition to the activities described in subsection (a) of this section, a recipient of funds made available by a State educational agencyunder section 6762(a)(2) of this title shall use such funds to carry out other activities consistent with this subpart, which may include the following:
 
 &emsp;(1) Establishing or expanding initiatives, particularly initiatives involving public-private partnerships, designed to increase access to technology for students and teachers, with special emphasis on the access of high-need schools to technology.
 

@@ -124,7 +124,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) live in homes close to community resources, with regular contact with individuals without disabilities in their communities;
 
-&emsp;&emsp;(C) enjoy full access to and active participation in the same community activitiesand types of employment as individuals without disabilities; and
+&emsp;&emsp;(C) enjoy full access to and active participation in the same community activities and types of employment as individuals without disabilities; and
 
 &emsp;&emsp;(D) take full advantage of their integration into the same community resources as individuals without disabilities, living, learning, working, and enjoying life in regular contact with individuals without disabilities.
 

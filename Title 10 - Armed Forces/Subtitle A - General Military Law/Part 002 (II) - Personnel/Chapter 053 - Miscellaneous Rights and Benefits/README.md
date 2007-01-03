@@ -40,11 +40,15 @@
 | [1059\.](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md) | Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits. |
 | [1060\.](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md) | Military service of retired members with newly democratic nations: consent of Congress. |
 | [1060a.](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md) | Special supplemental food program. |
-| [1060b.](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees%3B%20issuance%20of%20permanent%20ID%20card%20after%20attaining%2075%20years%20of%20age.md) | Military ID cards: dependents and survivors of retirees; issuance of permanent ID card after attaining 75 years of age. |
+| [1060b.](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md) | Military ID cards: dependents and survivors of retirees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title V, §598(b)(2), Oct. 17, 2006, 120 Stat. 2237, struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in item 1060b.
+
+&nbsp;
 
 2004—Pub. L. 108–375, div. A, title V, §583(a)(2), Oct. 28, 2004, 118 Stat. 1929, added item 1060b.
 
@@ -118,6 +122,56 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 1958—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
 
+#### Department of Defense Telecommunications Benefit
+
+Pub. L. 108–136, div. A, title III, §344, Nov. 24, 2003, 117 Stat. 1448, as amended by Pub. L. 108–375, div. A, title III, §341, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 109–163, div. A, title III, §375, Jan. 6, 2006, 119 Stat. 3213; Pub. L. 109–364, div. A, title III, §355(a)–(c), Oct. 17, 2006, 120 Stat. 2162, 2163, provided that:
+
+“(a)
+
+Provision of Benefit.—(1) The Secretary of Defense shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service, to members of the Armed Forces stationed outside the United States who (as determined by the Secretary) are eligible for combat zone tax exclusion benefits due to their service in direct support of a contingency operation to enable those members to make telephone calls without cost to the member.
+
+“(2) As soon as possible after the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Oct. 17, 2006\], the Secretary shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service to members of the Armed Forces who, although are no longer directly supporting a contingency operation, are hospitalized as a result of wounds or other injuries incurred while serving in direct support of a contingency operation.
+
+“(b)
+
+Monthly Benefit.—The value of the benefit provided under subsection (a) to any member in any month, to the extent the benefit is provided from amounts available to the Department of Defense, may not exceed—
+
+&emsp;“(1) $40; or
+
+&emsp;“(2) 120 calling minutes, if the cost to the Department of Defense of providing such number of calling minutes is less than the amount specified in paragraph (1).
+
+“(c)
+
+Termination of Benefit.—The authority to provide a benefit under subsection (a)(1) to a member directly supporting a contingency operation shall terminate on the date that is 60 days after the date on which the Secretary determines that the contingency operation has ended.
+
+“(d)
+
+Funding.—(1)(A) In carrying out the program under this section, the Secretary shall maximize the use of existing Department of Defense telecommunications programs and capabilities, free or reduced-cost services of private sector entities, and programs to enhance morale and welfare.
+
+“(B) The Secretary may not award a contract to a commercial firm for the purposes of subparagraph (A) other than through the use of competitive procedures.
+
+“(2) The Secretary may accept gifts and donations in order to defray the costs of the program under this section. Such gifts and donations may be accepted from—
+
+&emsp;“(A) any foreign government;
+
+&emsp;“(B) any foundation or other charitable organization, including any that is organized or operates under the laws of a foreign country; and
+
+&emsp;“(C) any source in the private sector of the United States or a foreign country.
+
+“(e)
+
+Deployment of Additional Telephone Equipment or Internet Access.—If the Secretary of Defense determines that, in order to implement this section as quickly as practicable, it is necessary to provide additional telephones or Internet service in any area to facilitate telephone or packet based telephony calling for which benefits are provided under this section, the Secretary may, consistent with the availability of resources, award competitively bid contracts to one or more commercial entities for the provision and installation of telephones or Internet access in that area.
+
+“(f)
+
+No Compromise of Military Mission.—The Secretary of Defense should not take any action under this section that would compromise the military objectives or mission of the Department of Defense.
+
+“(g)
+
+Contingency Operation Defined.—In this section, the term ‘contingency operation’ has the meaning given that term in section 101(a)(13) of title 10, United States Code. The term includes Operation Iraqi Freedom and Operation Enduring Freedom.”
+
+\[Pub. L. 109–364, §355(b)(1), which directed amendment of section 344(a) of Pub. L. 108–136, set out above, by substituting “a contingency operation” for “Operation Iraqi Freedom and Operation Enduring Freedom”, was executed by making the substitution for “Operation Enduring Freedom and Operation Iraqi Freedom”, to reflect the probable intent of Congress.\]
+
 
 ---
 
@@ -161,4 +215,4 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 - [&sect; 01059 - Dependents of members separated for dependent abuse transitional compensation; commissary and exchange benefits](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md)
 - [&sect; 01060 - Military service of retired members with newly democratic nations consent of Congress](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md)
 - [&sect; 01060a - Special supplemental food program](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md)
-- [&sect; 01060b - Military ID cards dependents and survivors of retirees; issuance of permanent ID card after attaining 75 years of age](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees%3B%20issuance%20of%20permanent%20ID%20card%20after%20attaining%2075%20years%20of%20age.md)
+- [&sect; 01060b - Military ID cards dependents and survivors of retirees](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md)

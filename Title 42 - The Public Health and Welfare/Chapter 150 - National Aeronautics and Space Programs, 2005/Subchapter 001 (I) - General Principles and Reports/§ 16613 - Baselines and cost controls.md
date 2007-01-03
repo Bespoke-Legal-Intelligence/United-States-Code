@@ -82,7 +82,7 @@ Not later than 30 days after receiving a written notification under subsection (
 
 &emsp;&emsp;(C) a description of, and the projected cost and schedule for, a broad range of alternatives to the program.
 
-> NASA shall complete an analysis initiated under paragraph (2) not later than 6 monthsafter the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science of the House of Representatives and Committee <sup>1</sup> on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
+> NASA shall complete an analysis initiated under paragraph (2) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science of the House of Representatives and Committee <sup>1</sup> on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
 
 #### (e) Thirty percent threshold
 

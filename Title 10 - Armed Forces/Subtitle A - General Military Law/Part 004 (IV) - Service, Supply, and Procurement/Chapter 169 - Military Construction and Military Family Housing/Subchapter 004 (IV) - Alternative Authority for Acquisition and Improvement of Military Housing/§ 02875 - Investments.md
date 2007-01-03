@@ -34,7 +34,7 @@ Congressional Notification Required.—Amounts in the Department of Defense Fami
 
 Subsec. (a). Pub. L. 106–65, §2803(d)(1), substituted “an eligible entity” for “nongovernmental entities”.
 
-Subsec. (c). Pub. L. 106–65, §2803(d)(2), substituted “an eligible entity” for “a nongovernmental entity” in pars. (1) and (2) and “the eligible entity” for “the entity” wherever appearing in pars. (1) and (2).
+Subsec. (c). Pub. L. 106–65, §2803(d)(2), substituted “an eligible entity” for “a nongovernmental entity” inpars. (1) and (2) and “the eligible entity” for “the entity” wherever appearing in pars. (1) and (2).
 
 Subsec. (d). Pub. L. 106–65, §2803(d)(3), substituted “eligible” for “nongovernmental”.
 

@@ -16,7 +16,7 @@ Each individual accepting employment without a break in service with the Distric
 
 &emsp;(6) be entitled to the same health and life insurance benefits as are available to District employees in the applicable service;
 
-&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement System, under chapter 83 of title 5, to thesame extent that such retirement system covers District Government <sup>1</sup> employees; and
+&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement System, under chapter 83 of title 5, to the same extent that such retirement system covers District Government <sup>1</sup> employees; and
 
 &emsp;(8) if employed by the Federal Government on or after January 1, 1984, be subject to the retirement system applicable to District government employees pursuant to title XXVI, Retirement, of the District of Columbia Government Comprehensive Merit Personnel Act of 1978.
 
@@ -34,7 +34,7 @@ An individual receiving compensation for work injuries pursuant to chapter 81 of
 
 #### (d) Actions by District against individuals accepting employment
 
-The District government may initiate or continue an action against an individual who accepts employment under section 225d(c) of this title for cause related to events that occur prior to the end of the service coordination period. Any such action shall be conducted in accordance with such Federal laws and regulations under which action would have been conducted had the assumption of function by the District not occurred.
+The District government may initiate or continue an action against an individual who accepts employment under section 225d(c) of this title for cause related to events that occur prior to the end of the service coordination period. Any such action shall be conducted in accordance with such Federal laws and regulationsunder which action would have been conducted had the assumption of function by the District not occurred.
 
 #### (e) Commissioned public health service officers
 

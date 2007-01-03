@@ -6,7 +6,7 @@
 
 #### (A) Contents of report
 
-&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the State program funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title):
+&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the State program funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title) or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
 
 &emsp;&emsp;&emsp;(i) The county of residence of the family.
 
@@ -84,11 +84,11 @@
 
 #### (ii) Sampling and other methods
 
-&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid estimates of the performance of State programs funded under this part. The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
+&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid estimates of the performance of State programs funded under this part and any other State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
 
 #### (2) Report on use of Federal funds to cover administrative costs and overhead
 
-&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of thepercentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title.
+&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the percentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title.
 
 #### (3) Report on State expenditures on programs for needy families
 
@@ -100,7 +100,7 @@
 
 #### (5) Report on transitional services
 
-&emsp;The report required by paragraph (1) for a fiscal quarter shall include the total amount expended by the State during the quarter to provide transitional services to a family that has ceased to receive assistance under this part because of employment, along with a description of such services.
+&emsp;The report required by paragraph (1) for a fiscal quarter shall include the total amountexpended by the State during the quarter to provide transitional services to a family that has ceased to receive assistance under this part because of employment, along with a description of such services.
 
 #### (6) Report on families receiving assistance
 
@@ -140,7 +140,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;(4) the trends in employment and earnings of needy families with minor children living at home.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136.)
 
 #### References in Text
 
@@ -151,6 +151,10 @@ Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a
 A prior section 611, act Aug. 14, 1935, ch. 531, title IV, §411, as added Dec. 20, 1977, Pub. L. 95–216, title IV, §403(a), 91 Stat. 1561, related to availability of wage information to States and political subdivisions, prior to repeal by Pub. L. 98–369, div. B, title VI, §2651(b)(3), (<i>l</i>)(2), July 18, 1984, 98 Stat. 1149, 1151, effective Apr. 1, 1985, except as otherwise provided. See section 1320b–7 of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(A). Pub. L. 109–171, §7102(b)(2)(A), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” before colon at end of introductory provisions.
+
+Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted “and any other State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
 
 1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted “(except for information relating to activities carried out under section 603(a)(5) of this title)” after “part”.
 
@@ -183,6 +187,10 @@ Subsec. (a)(6)(C). Pub. L. 105–33, §5001(e)(5), added subpar. (C).
 Subsec. (a)(7). Pub. L. 105–33, §5507(2), redesignated par. (6) as (7).
 
 Pub. L. 105–33, §5001(e)(6), inserted before period at end “, and shall consult with the Secretary of Labor in defining the data elements with respect to programs operated with funds provided under section 603(a)(5) of this title”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective Oct. 1, 2006, see section 7102(d) of Pub. L. 109–171, set out as a note under section 607 of this title.
 
 #### Effective Date of 1997 Amendment
 

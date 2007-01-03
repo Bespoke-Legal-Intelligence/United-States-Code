@@ -22,7 +22,7 @@
 
 &emsp;(ii) is permitted access to safeguards information under section 2167 of this title.
 
-(2) All fingerprints obtained by an individual or entity as required in paragraph (1) shall besubmitted to the Attorney General of the United States through the Commission for identification and a criminal history records check.
+(2) All fingerprints obtained by an individual or entity as required in paragraph (1) shall be submitted to the Attorney General of the United States through the Commission for identification and a criminal history records check.
 
 (3) The costs of an identification or records check under paragraph (2) shall be paid by the individual or entity required to conduct the fingerprinting under paragraph (1)(A).
 
@@ -86,7 +86,7 @@ The Commission may require a person or individual to conduct fingerprinting unde
 
 Subsec. (c). Pub. L. 109–58, §652(2)(A), substituted “requirements—” for “, subject to public notice and comment, regulations—” in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 109–58, §652(2)(B), substituted “unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) of this section” for “unescorted access to the facility of a licensee or applicant”.
+Subsec. (c)(2)(B). Pub. L. 109–58, §652(2)(B), substituted “unescorted access to a utilization facility,radioactive material, or other property described in subsection (a)(1)(B) of this section” for “unescorted access to the facility of a licensee or applicant”.
 
 Subsecs. (d), (e). Pub. L. 109–58, §652(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 

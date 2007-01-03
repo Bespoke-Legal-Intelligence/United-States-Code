@@ -8,7 +8,7 @@
 
 &emsp;(3) Interlocutory decrees of such district courts or the judges thereof determining the rights and liabilities of the parties to admiralty cases in which appeals from final decrees are allowed.
 
-(b) When a district judge, in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken from such order, ifapplication is made to it within ten days after the entry of the order: <i>Provided, however</i>, That application for an appeal hereunder shall not stay proceedings in the district court unless the district judge or the Court of Appeals or a judge thereof shall so order.
+(b) When a district judge, in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken from such order, if application is made to it within ten days after the entry of the order: <i>Provided, however</i>, That application for an appeal hereunder shall not stay proceedings in the district court unless the district judge or the Court of Appeals or a judge thereof shall so order.
 
 (c) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction—
 
@@ -18,7 +18,7 @@
 
 (d)(1) When the chief judge of the Court of International Trade issues an order under the provisions of section 256(b) of this title, or when any judge of the Court of International Trade, in issuing any other interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
-(2) When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims, in issuing an interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
+(2) When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims, in issuing an interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion andthat an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
 (3) Neither the application for nor the granting of an appeal under this subsection shall stay proceedings in the Court of International Trade or in the Court of Federal Claims, as the case may be, unless a stay is ordered by a judge of the Court of International Trade or of the Court of Federal Claims or by the United States Court of Appeals for the Federal Circuit or a judge of that court.
 
@@ -50,7 +50,7 @@ In subsection (4), which is based on section 227a of title 28, U.S.C., 1940 ed.,
 
 The provision of sections 227 and 227a of title 28, U.S.C., 1940 ed., that appeal must be taken within thirty days after entry of order, decree or judgment is incorporated in section 2107 of this title.
 
-The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay of proceedings pending appeal,were omitted as superseded by Rule 73 of the Federal Rules of Civil Procedure.
+The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay of proceedings pending appeal, were omitted as superseded by Rule 73 of the Federal Rules of Civil Procedure.
 
 The district courts for the districts of Hawaii and Puerto Rico are embraced in the term “district courts of the United States.” (See definitive section 451 of this title.) Consequently the specific reference in section 225 of title 28, U.S.C., 1940 ed., to “the United States district courts for Hawaii” was omitted.
 
@@ -76,7 +76,7 @@ Subsec. (c)(1). Pub. L. 98–620, §412(b), inserted “or (b)” after “(a)�
 
 1982—Subsec. (a). Pub. L. 97–164, §125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 97–164, §125(a)(2), (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
+Subsec. (a)(4). Pub. L. 97–164, §125(a)(2), (3), struck out par. (4) which related to judgments in civil actions forpatent infringement which were final except for accounting.
 
 Subsecs. (c), (d). Pub. L. 97–164, §125(b), added subsecs. (c) and (d).
 

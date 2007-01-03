@@ -4,7 +4,7 @@
 
 &emsp;(1) not more than three months’ pay of such member upon such member's change of permanent station; or
 
-&emsp;(2) the amount of an allotment made from such member's pay to a dependent if such member is assigned or scheduled for assignment to sea duty or other duty with a unit or command deployed or to be deployed outside the United States and the allotment is made by such member not more than sixty days before the scheduled date of the assignment of such member to such duty.
+&emsp;(2) the amount of an allotment made from such member's pay to a dependent if such member is assigned or scheduled for assignment to sea duty or other duty with a unit or command deployed or to be deployed outside the United States and the allotment is madeby such member not more than sixty days before the scheduled date of the assignment of such member to such duty.
 
 (b) Under regulations prescribed by the Secretary concerned, a member of a uniformed service who is on duty at a distant station where the pay and emoluments to which he is entitled cannot be disbursed regularly, may be paid in advance.
 
@@ -128,7 +128,7 @@ Subsec. (f). Pub. L. 90–623, §3(1), substituted “Secretary of Transportatio
 
 1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
 
-Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the lastday of the pay period falls on a Saturday, Sunday, or legal holiday.
+Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday.
 
 Pub. L. 89–26, §1(6)(B), added subsec. (g) relating to advance payment of the dislocation allowance.
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a noteunder section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1965 Amendment
 

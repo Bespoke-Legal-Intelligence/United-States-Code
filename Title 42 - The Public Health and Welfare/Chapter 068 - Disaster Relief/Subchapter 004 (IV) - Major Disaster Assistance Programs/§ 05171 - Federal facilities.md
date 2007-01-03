@@ -12,7 +12,7 @@ In order to carry out the provisions of this section, such repair, reconstructio
 
 In implementing this section, Federal agencies shall evaluate the natural hazards to which these facilities are exposed and shall take appropriate action to mitigate such hazards, including safe land-use and construction practices, in accordance with standards prescribed by the President.
 
-(Pub. L. 93–288, title IV, §405, formerly §401, May 22, 1974, 88 Stat. 153; renumbered §405, Pub. L.100–707, title I, §106(a)(2), Nov. 23, 1988, 102 Stat. 4696.)
+(Pub. L. 93–288, title IV, §405, formerly §401, May 22, 1974, 88 Stat. 153; renumbered §405, Pub. L. 100–707, title I, §106(a)(2), Nov. 23, 1988, 102 Stat. 4696.)
 
 #### Prior Provisions
 

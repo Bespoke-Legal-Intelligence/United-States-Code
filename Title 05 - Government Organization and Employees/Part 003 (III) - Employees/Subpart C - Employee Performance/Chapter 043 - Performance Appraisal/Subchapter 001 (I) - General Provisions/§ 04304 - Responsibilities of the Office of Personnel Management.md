@@ -1,6 +1,6 @@
 ### §4304. Responsibilities of the Office of Personnel Management
 
-(a) The Office of Personnel Management shall make technical assistance available to agencies in the development of performance appraisal systems.
+(a) The Office of Personnel Management shall make technical assistance available to agenciesin the development of performance appraisal systems.
 
 (b)(1) The Office shall review each performance appraisal system developed by any agency under this section and determine whether the performance appraisal system meets the requirements of this subchapter.
 

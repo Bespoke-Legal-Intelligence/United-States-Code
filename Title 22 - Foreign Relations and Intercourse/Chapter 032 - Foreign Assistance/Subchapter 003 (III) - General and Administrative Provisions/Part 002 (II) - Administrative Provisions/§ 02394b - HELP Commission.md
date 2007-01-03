@@ -114,7 +114,7 @@ This section may be cited as the “HELP Commission Act”.
 
 #### (f) Report of Commission
 
-(1) Not later than 2 years after the members of the Commission are appointed under subsection (d)(1) of this section, the Commission shall submit a report to the President, the Secretary of State, the Committee on Appropriations and the Committee on International Relations of the House of Representatives, and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, setting forth its findings and recommendations under section <sup>1</sup> (c)(2).
+(1) Not later than 2 years after the members of the Commission are appointed under subsection (d)(1) of this section, the Commission shall submit a report to the President, the Secretary of State, the Committee on Appropriations and theCommittee on International Relations of the House of Representatives, and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, setting forth its findings and recommendations under section <sup>1</sup> (c)(2).
 
 (2) The report may be submitted in classified form, together with a public summary of recommendations, if the classification of information would further the purposes of this section.
 
@@ -178,7 +178,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 &emsp;(C) to promote international trade and foreign direct investment as a means of aiding economic growth;
 
-&emsp;(D) to save lives and alleviate suffering of foreign peoples during or following wars, natural disasters, or complex crisies <sup>2</sup>;
+&emsp;(D) to save lives and alleviate suffering of foreign peoples during or following wars, natural disasters, or complex crisies <sup>2</sup> ;
 
 &emsp;(E) to assist in recovery and rehabilitation of countries or peoples following disaster or war;
 

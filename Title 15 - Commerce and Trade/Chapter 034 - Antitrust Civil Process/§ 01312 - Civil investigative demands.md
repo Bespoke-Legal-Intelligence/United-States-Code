@@ -20,7 +20,7 @@ Each such demand shall—
 
 &emsp;&emsp;(A) describe the class or classes of documentary material to be produced thereunder with such definiteness and certainty as to permit such material to be fairly identified;
 
-&emsp;&emsp;(B) prescribe a return date or dates which will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
+&emsp;&emsp;(B) prescribe a return date or dates which will provide a reasonable period of timewithin which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
 
 &emsp;&emsp;(C) identify the custodian to whom such material shall be made available; or
 
@@ -74,7 +74,7 @@ Each such demand shall—
 
 #### (f) Proof of service
 
-A verified return by the individual serving any such demand or petition setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by thereturn post office receipt of delivery of such demand.
+A verified return by the individual serving any such demand or petition setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by the return post office receipt of delivery of such demand.
 
 #### (g) Sworn certificates
 
@@ -104,13 +104,13 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 (8) Any person appearing for oral examination pursuant to a demand served under this section shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
 
-(Pub. L. 87–664, §3, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §102, Sept. 30, 1976, 90 Stat.1384; Pub. L. 96–349, §2(b)(1)–(3), Sept. 12, 1980, 94 Stat. 1154; Pub. L. 103–438, §3(e)(1)(B), Nov. 2, 1994, 108 Stat. 4598.)
+(Pub. L. 87–664, §3, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §102, Sept. 30, 1976, 90 Stat. 1384; Pub. L. 96–349, §2(b)(1)–(3), Sept. 12, 1980, 94 Stat. 1154; Pub. L. 103–438, §3(e)(1)(B), Nov. 2, 1994, 108 Stat. 4598.)
 
 #### References in Text
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 1311 of this title and Tables.
 
 Section 30 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, §14102(f), Nov. 2, 2002, 116 Stat. 1922.
 

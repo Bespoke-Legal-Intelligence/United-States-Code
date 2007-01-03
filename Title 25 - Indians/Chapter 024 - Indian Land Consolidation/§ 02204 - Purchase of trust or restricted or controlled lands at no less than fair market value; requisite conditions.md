@@ -52,7 +52,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (B) Costs of serving notice and publication
 
-&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, orfurnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
+&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, or furnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
 
 #### (C) Determination
 
@@ -182,7 +182,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing noticeto owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing notice to owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Indian tribe, if any, with jurisdiction over the trust or restricted interests in the parcel being sold.
 
@@ -254,7 +254,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;(i) commence a civil action in the United States district court for the district in which the parcel of land is located; and
 
-&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriate remedy necessary for the partition of the land by sale.
+&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriateremedy necessary for the partition of the land by sale.
 
 #### (B) Federal role
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 #### Severability
 
-Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
+Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except thateach of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(C),”.</i>
 

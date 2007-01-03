@@ -70,7 +70,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, the word “civil” is added before “penalty” for consistency in the revised title and with other titles of the United States Code.
 
-In subsections (b) and (c), the word “Administrator” in section 902(b)(2) and (3) of the Federal Aviation Actof 1958 (Public Law 85–726, 72 Stat. 786) is retained on authority of 49:106(g). The words “Attorney General” are substituted for “United States attorney for the judicial district in which the seizure is made” and “United States attorney” because of 28:503 and 509.
+In subsections (b) and (c), the word “Administrator” in section 902(b)(2) and (3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 786) is retained on authority of 49:106(g). The words “Attorney General” are substituted for “United States attorney for the judicial district in which the seizure is made” and “United States attorney” because of 28:503 and 509.
 
 In subsection (b), the words “report on the seizure” are substituted for “report of the cause” for clarity. The words “bring a civil action in rem” are substituted for “institute proceedings” for clarity and consistency in the revised title and with other titles of the Code and the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “that the action will not be brought” are substituted for “of his failure to so act” for clarity.
 

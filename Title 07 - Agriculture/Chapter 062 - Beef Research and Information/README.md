@@ -7,25 +7,9 @@
 | [2903\.](%C2%A7%2002903%20-%20Issuance%20of%20orders.md) | Issuance of orders. |
 | [2904\.](%C2%A7%2002904%20-%20Required%20terms%20in%20orders.md) | Required terms in orders. |
 | [2905\.](%C2%A7%2002905%20-%20Certification%20of%20organizations%20to%20nominate.md) | Certification of organizations to nominate. |
-| (a) | Eligibility of State organization certified by Secretary; eligibility criteria. |
-| (b) | State cattle association or State general farm organization. |
-| (c) | Factual report basis for certification of State cattle association and State general farm association. |
-| (d) | Certification of more than one State organization; caucus. |
 | [2906\.](%C2%A7%2002906%20-%20Requirement%20of%20referendum.md) | Requirement of referendum. |
-| (a) | Continuation or termination of order. |
-| (b) | Additional referendum to determine suspension or termination of order. |
-| (c) | Reimbursement for cost of referendum; time and place of referendum; certification by producers; absentee mail ballot. |
 | [2907\.](%C2%A7%2002907%20-%20Refunds.md) | Refunds. |
-| (a) | Establishment of escrow account. |
-| (b) | Funding escrow account. |
-| (c) | Demand and receipt of one-time refund. |
-| (d) | Form and time period for demand for one-time refund. |
-| (e) | Submission of proof for one-time refund. |
-| (f) | Insufficiency of funds in escrow account; proration of funds among eligible persons. |
 | [2908\.](%C2%A7%2002908%20-%20Enforcement.md) | Enforcement. |
-| (a) | Restraining order; civil penalty. |
-| (b) | Jurisdiction of district court. |
-| (c) | Civil action to be referred to Attorney General. |
 | [2909\.](%C2%A7%2002909%20-%20Investigations%20by%20Secretary%3B%20oaths%20and%20affirmations%3B%20subpenas%3B%20judicial%20enforcement%3B%20contempt%20proceedings%3B%20service%20of%20process.md) | Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process. |
 | [2910\.](%C2%A7%2002910%20-%20Preemption%20of%20other%20Federal%20and%20State%20programs%3B%20applicability%20of%20provisions%20to%20amendments%20to%20orders.md) | Preemption of other Federal and State programs; applicability of provisions to amendments to orders. |
 | [2911\.](%C2%A7%2002911%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

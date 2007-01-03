@@ -40,7 +40,7 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free TradeAgreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], and title III of the United States-Bahrain Free Trade Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], and title III of the United States-Bahrain Free Trade Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;(iii) any other factor considered appropriate by the Trade Representative.
 
-> &emsp;The presence or absence of any factor which the Trade Representative is required to take into account under clause (i), (ii), or (iii) is not necessarily dispositive of whether an article is a perishable agricultural product.
+> &emsp;The presence or absence of any factor which the Trade Representative is required to takeinto account under clause (i), (ii), or (iii) is not necessarily dispositive of whether an article is a perishable agricultural product.
 
 &emsp;(C) The term “provisional relief” means—
 
@@ -262,7 +262,7 @@
 
 &emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
 
-(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
+(3) The Commission, after submitting a report to the President under paragraph (1), shallpromptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
 
 #### (g) Expedited consideration of adjustment assistance petitions
 
@@ -270,7 +270,7 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 &emsp;(1) the Secretary of Labor shall give expedited consideration to petitions by workers in the domestic industry for certification for eligibility to apply for adjustment assistance under part 2 of this subchapter; and
 
-&emsp;(2) the Secretary of Commerce shall give expedited consideration to petitions by firms inthe domestic industry for certification of eligibility to apply for adjustment assistance under part 3 of this subchapter.
+&emsp;(2) the Secretary of Commerce shall give expedited consideration to petitions by firms in the domestic industry for certification of eligibility to apply for adjustment assistance under part 3 of this subchapter.
 
 #### (h) Limitations on investigations
 
@@ -290,9 +290,15 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 109–283, title I, §107(a), title III, §316, Sept. 26, 2006, 120 Stat. 1195, 1207, provided that, effective on the date on which the United States-Oman Free Trade Agreement enters into force, subsection (a)(8) of this section is amended in the first sentence by striking “and” and by inserting before the period at the end “, and title III of the United States-Oman Free Trade Agreement Implementation Act”.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 109–283, see Effective and Termination Dates of 2006 Amendment note below.</i>
 
 <i>For termination of amendment by section 106(c) of Pub. L. 109–169, see Effective and Termination Dates of 2006 Amendment note below.</i>
 
@@ -310,13 +316,11 @@ The Commission shall promulgate regulations to provide access to confidential bu
 
 #### References in Text
 
-The antitrust laws, referred to in subsec. (a)(7), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-
 The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
 
-Title III of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, which is set out in a note under section 3805 of this title.
+Title III of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (a)(8),is title III of Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, which is set out in a note under section 3805 of this title.
 
 Title III of the United States-Singapore Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–78, Sept. 3, 2003, 117 Stat. 948, which is set out in a note under section 3805 of this title.
 
@@ -403,6 +407,8 @@ Subsec. (d)(5). Pub. L. 103–182, §315(3), (4), added subpar. (A) and redesign
 1988—Pub. L. 100–418, in amending section generally, substituted provisions relating to investigations, determinations and recommendations by Commission for provisions relating to Presidential action after investigations. See section 2253 of this title.
 
 #### Effective and Termination Dates of 2006 Amendment
+
+Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 109–169 effective on the date on which the United States-Bahrain Free Trade Agreement enters into force (Aug. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 109–169, set out in a note under section 3805 of this title.
 

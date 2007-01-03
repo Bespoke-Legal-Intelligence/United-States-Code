@@ -3,38 +3,17 @@
 | Sec. |  |
 | :--- | ---: |
 | [5501\.](%C2%A7%2005501%20-%20International%20negotiations%20concerning%20aviation%20security.md) | International negotiations concerning aviation security. |
-| (a) | United States policy. |
-| (b) | Negotiations for aviation security. |
 | [5502\.](%C2%A7%2005502%20-%20Coordinator%20for%20Counterterrorism.md) | Coordinator for Counterterrorism. |
 | [5503\.](%C2%A7%2005503%20-%20Department%20of%20State%20notification%20of%20families%20of%20victims.md) | Department of State notification of families of victims. |
-| (a) | Department of State policy. |
-| (b) | Department of State guidelines. |
 | [5504\.](%C2%A7%2005504%20-%20Designation%20of%20State%20Department-family%20liaison%20and%20toll-free%20family%20communications%20system.md) | Designation of State Department-family liaison and toll-free family communications system. |
-| (a) | Designation of State Department-family liaison. |
-| (b) | Toll-free communications system. |
 | [5505\.](%C2%A7%2005505%20-%20Disaster%20training%20for%20State%20Department%20personnel.md) | Disaster training for State Department personnel. |
-| (a) | Additional training. |
-| (b) | Training improvements. |
 | [5506\.](%C2%A7%2005506%20-%20Department%20of%20State%20responsibilities%20and%20procedures%20at%20international%20disaster%20site.md) | Department of State responsibilities and procedures at international disaster site. |
-| (a) | Dispatch of senior State Department official to site. |
-| (b) | Criteria for Department of State staffing at disaster site. |
-| (c) | State Department ombudsman. |
-| (d) | Crisis teams. |
 | [5507\.](%C2%A7%2005507%20-%20Recovery%20and%20disposition%20of%20remains%20and%20personal%20effects.md) | Recovery and disposition of remains and personal effects. |
 | [5508\.](%C2%A7%2005508%20-%20Assessment%20of%20Lockerbie%20experience.md) | Assessment of Lockerbie experience. |
-| (a) | Assessment. |
-| (b) | Guidelines. |
 | [5509\.](%C2%A7%2005509%20-%20Official%20Department%20of%20State%20recognition.md) | Official Department of State recognition. |
 | [5510\.](%C2%A7%2005510%20-%20United%20States%20Government%20compensation%20for%20victims%20of%20terrorism.md) | United States Government compensation for victims of terrorism. |
-| (a) | Compensation. |
-| (b) | Board. |
-| (c) | Income tax benefit for victims of Lockerbie terrorism. |
 | [5511\.](%C2%A7%2005511%20-%20Overseas%20Security%20Electronic%20Bulletin%20Board.md) | Overseas Security Electronic Bulletin Board. |
 | [5512\.](%C2%A7%2005512%20-%20Antiterrorism%20measures.md) | Antiterrorism measures. |
-| (a) | Guidelines for international aviation travelers. |
-| (b) | Development of international standards. |
-| (c) | Publication of rewards for terrorism-related information. |
-| (d) | Sense of Congress. |
 | [5513\.](%C2%A7%2005513%20-%20Proposal%20for%20consideration%20by%20International%20Civil%20Aviation%20Organization.md) | Proposal for consideration by International Civil Aviation Organization. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

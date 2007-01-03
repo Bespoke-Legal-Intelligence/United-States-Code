@@ -110,7 +110,7 @@ Conditions on election.—An election under paragraph (1)—
 
 Change of Former Spouse Beneficiary to Spouse or Child Beneficiary.—If a person who is providing an annuity for a former spouse under the Survivor Benefit Plan and a supplemental spouse annuity for that former spouse under this subchapter elects under section 1450(f)(1) of this title to change the beneficiary of the annuity under the Survivor Benefit Plan in order to provide an annuity under that Plan to that person's spouse or to a dependent child—
 
-&emsp;&emsp;(1) the beneficiary under the supplemental spouse annuity shall be deemed to bechanged to that spouse also, if the change under section 1450(f)(1) was to provide the annuity for the person's spouse; and
+&emsp;&emsp;(1) the beneficiary under the supplemental spouse annuity shall be deemed to be changed to that spouse also, if the change under section 1450(f)(1) was to provide the annuity for the person's spouse; and
 
 &emsp;&emsp;(2) participation in the supplemental spouse annuity program shall be terminated, if the change under section 1450(f)(1) of this title was to provide the annuity for a dependent child.
 

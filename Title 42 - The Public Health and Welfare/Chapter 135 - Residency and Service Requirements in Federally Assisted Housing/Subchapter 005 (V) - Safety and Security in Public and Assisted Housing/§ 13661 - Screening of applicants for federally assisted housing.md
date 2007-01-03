@@ -2,7 +2,7 @@
 
 #### (a) Ineligibility because of eviction for drug crimes
 
-Any tenant evicted from federally assisted housing by reason of drug-related criminal activity (as such term is defined in section 1437a(b) of this title) shall not be eligible for federally assisted housing during the 3-year period beginning on the date of such eviction, unless the evicted tenant successfully completes a rehabilitation program approved by the public housing agency (which shall include a waiver of this subsection if the circumstances leading to eviction no longer exist).
+Any tenant evicted from federally assisted housing by reason of drug-related criminal activity (as such term is defined in section 1437a(b) of this title) shall not be eligible for federallyassisted housing during the 3-year period beginning on the date of such eviction, unless the evicted tenant successfully completes a rehabilitation program approved by the public housing agency (which shall include a waiver of this subsection if the circumstances leading to eviction no longer exist).
 
 #### (b) Ineligibility of illegal drug users and alcohol abusers
 
@@ -18,7 +18,7 @@ Any tenant evicted from federally assisted housing by reason of drug-related cri
 
 &emsp;In determining whether, pursuant to paragraph (1)(B), to deny admission to the program or federally assisted housing to any household based on a pattern of illegal use of a controlled substance or a pattern of abuse of alcohol by a household member, a public housing agency or an owner may consider whether such household member—
 
-&emsp;&emsp;(A) has successfully completed a supervised drug or alcohol rehabilitation program\(as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
+&emsp;&emsp;(A) has successfully completed a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
 
 &emsp;&emsp;(B) has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
 

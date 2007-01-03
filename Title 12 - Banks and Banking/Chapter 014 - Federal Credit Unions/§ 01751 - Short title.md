@@ -34,7 +34,7 @@ Pub. L. 95–630, title XVIII, §1801, Nov. 10, 1978, 92 Stat. 3719, provided th
 
 Pub. L. 105–219, §2, Aug. 7, 1998, 112 Stat. 913, provided that: “The Congress finds the following:
 
-&emsp;“(1) The American credit union movement began as a cooperative effort to serve the productive andprovident credit needs of individuals of modest means.
+&emsp;“(1) The American credit union movement began as a cooperative effort to serve the productive and provident credit needs of individuals of modest means.
 
 &emsp;“(2) Credit unions continue to fulfill this public purpose, and current members and membership groups should not face divestiture from the financial services institution of their choice as a result of recent court action.
 

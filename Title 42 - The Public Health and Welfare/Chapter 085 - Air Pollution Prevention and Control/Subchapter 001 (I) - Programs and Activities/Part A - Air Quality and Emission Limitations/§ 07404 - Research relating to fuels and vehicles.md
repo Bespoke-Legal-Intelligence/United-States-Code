@@ -36,7 +36,7 @@ In carrying out the provisions of this section, the Administrator may—
 
 &emsp;(4) acquire secret processes, technical data, inventions, patent applications, patents, licenses, and an interest in lands, plants, and facilities, and other property or rights by purchase, license, lease, or donation; and
 
-&emsp;(5) cause on-site inspections to be made of promising domestic and foreign projects, andcooperate and participate in their development in instances in which the purposes of the chapter will be served thereby.
+&emsp;(5) cause on-site inspections to be made of promising domestic and foreign projects, and cooperate and participate in their development in instances in which the purposes of the chapter will be served thereby.
 
 #### (c) Clean alternative fuels
 
@@ -58,7 +58,7 @@ A prior section 104 of act July 14, 1955, was renumbered section 105 by Pub. L. 
 
 1990—Subsecs. (a)(1), (b)(1). Pub. L. 101–549, §901(d)(1), substituted “cost-effective” for “low-cost”.
 
-Subsec. (c). Pub. L. 101–549, §901(d)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section there are authorized to be appropriated $75,000,000 for the fiscal year ending June 30, 1971, $125,000,000 for the fiscal year ending June 30, 1972, $150,000,000 for the fiscal year ending June 30, 1973, and $150,000,000 for the fiscal year ending June 30, 1974, and $150,000,000 for the fiscal year ending June 30, 1975. Amounts appropriated pursuant to this subsection shall remain available until expended.”
+Subsec. (c). Pub. L. 101–549, §901(d)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) readas follows: “For the purposes of this section there are authorized to be appropriated $75,000,000 for the fiscal year ending June 30, 1971, $125,000,000 for the fiscal year ending June 30, 1972, $150,000,000 for the fiscal year ending June 30, 1973, and $150,000,000 for the fiscal year ending June 30, 1974, and $150,000,000 for the fiscal year ending June 30, 1975. Amounts appropriated pursuant to this subsection shall remain available until expended.”
 
 1974—Subsec. (c). Pub. L. 93–319 authorized appropriation of $150,000,000 for fiscal year ending June 30, 1975.
 

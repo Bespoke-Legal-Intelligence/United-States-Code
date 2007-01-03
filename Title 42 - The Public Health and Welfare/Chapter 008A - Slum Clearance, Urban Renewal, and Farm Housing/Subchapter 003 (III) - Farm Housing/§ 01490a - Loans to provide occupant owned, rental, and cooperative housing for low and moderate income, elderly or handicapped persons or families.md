@@ -10,7 +10,7 @@
 
 (D)(i) With respect to borrowers under section 1472 or 1487(a) of this title who have received assistance under subparagraph (B) or (C), the Secretary shall provide for the recapture of all or a portion of such assistance rendered upon the disposition or nonoccupancy of the property by the borrower. In providing for such recapture, the Secretary shall make provisions to provide incentives for the borrower to maintain the property in a marketable condition. Notwithstanding any other provision of law, any such assistance whenever rendered shall constitute a debt secured by the security instruments given by the borrower to the Secretary to the extent that the Secretary may provide for recapture of such assistance.
 
-(ii) In determining the amount recaptured under this subparagraph with respect to any loan made pursuant to section 1472(a)(3) of this title for the purchase of a dwelling located on land owned by a community land trust, the Secretary shall determine any appreciation of the dwelling based on any agreement between the borrower and the community land trust that limits the sale price or appreciation of the dwelling.
+(ii) In determining the amount recaptured under this subparagraph with respect to any loan made pursuant to section 1472(a)(3) of thistitle for the purchase of a dwelling located on land owned by a community land trust, the Secretary shall determine any appreciation of the dwelling based on any agreement between the borrower and the community land trust that limits the sale price or appreciation of the dwelling.
 
 (E) Except for Federal or State laws relating to taxation, the assistance rendered to any borrower under subparagraphs (B) and (C) shall not be considered to be income or resources for any purpose under any Federal or State laws including, but not limited to, laws relating to welfare and public assistance programs.
 
@@ -32,9 +32,9 @@
 
 (B) In the case of a section 1485 loan approved prior to the effective date of this paragraph with respect to which interest credits are provided, the tenant's rent shall not exceed the highest of (i) 30 per centum of monthly adjusted income, (ii) 10 per centum of monthly income, or (iii) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs, or, where no rental assistance authority is available, the rent level established on a basis of a 1 per centum interest rate on debt service.
 
-(C) No rent for a unit financed under section 1484 or 1485 of this title shall be increased as aresult of this subsection or other provision of Federal law or Federal regulation by more than 10 per centum in any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law, or regulation.
+(C) No rent for a unit financed under section 1484 or 1485 of this title shall be increased as a result of this subsection or other provision of Federal law or Federal regulation by more than 10 per centum in any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law, or regulation.
 
-(4) In the case of a loan with respect to the purchase of a manufactured home with respect to which rental assistance is provided, the monthly payment for principal and interest on the manufactured home and for lot rental and utilities shall not exceed the highest of (A) 30 per centum of monthly adjusted income, (B) 10 per centum of monthly income, or (C) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs.
+(4) In the case of a loan with respect to the purchase of a manufactured home with respectto which rental assistance is provided, the monthly payment for principal and interest on the manufactured home and for lot rental and utilities shall not exceed the highest of (A) 30 per centum of monthly adjusted income, (B) 10 per centum of monthly income, or (C) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs.
 
 (5)
 
@@ -142,7 +142,7 @@ Subsec. (a)(2)(D). Pub. L. 97–35, §351(d), substituted “$398,000,000” for
 
 1980—Subsec. (a)(1)(B). Pub. L. 96–399, §505, substituted “the Secretary shall provide” for “the Secretary may provide”.
 
-Subsec. (a)(1)(C). Pub. L. 96–399, §501(f), substituted provisions limiting the amount of additional assistance which may be approved to $100,000,000, for provisions limiting such amounts to $985,000,000 for contracts entered into with respect to fiscal year 1979 and $500,000,000 for contracts entered into through Oct. 15, 1980, and substituted “with respect to any fiscal year beginning on or after October 1, 1981” for “after October 15, 1980”.
+Subsec. (a)(1)(C). Pub. L. 96–399, §501(f), substituted provisions limiting the amount of additional assistance which may be approved to $100,000,000, for provisionslimiting such amounts to $985,000,000 for contracts entered into with respect to fiscal year 1979 and $500,000,000 for contracts entered into through Oct. 15, 1980, and substituted “with respect to any fiscal year beginning on or after October 1, 1981” for “after October 15, 1980”.
 
 Pub. L. 96–372 substituted “through October 15, 1980” for “with respect to fiscal year 1980” and in last sentence “after October 15, 1980” for “with respect to any fiscal year after fiscal year 1980”.
 

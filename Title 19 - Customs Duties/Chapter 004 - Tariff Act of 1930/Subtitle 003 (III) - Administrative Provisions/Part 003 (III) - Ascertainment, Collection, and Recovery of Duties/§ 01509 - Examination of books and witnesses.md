@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of any person for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with the laws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
+In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of any person for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with thelaws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
 
 &emsp;(1) examine, or cause to be examined, upon reasonable notice, any record (which for purposes of this section, includes, but is not limited to, any statement, declaration, document, or electronically generated or machine readable data) described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry, except that—
 
@@ -50,7 +50,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 #### (c) Service of summons
 
-A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
+A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated associationwhich is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
 
 #### (d) Special procedures for third-party summonses
 
@@ -118,7 +118,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (2) Certification
 
-&emsp;A recordkeeper may be certified as a participant in the recordkeeping compliance program after meeting the general recordkeeping requirements established under the program or after negotiating an alternative program suited to the needs of the recordkeeper and the Customs Service. Certification requirements shall take into account the size and nature of the importing business and the volume of imports. In order to be certified, the recordkeeper must be able to demonstrate that it—
+&emsp;A recordkeeper may be certified as a participant in the recordkeeping compliance program after meeting the general recordkeeping requirements established under the program orafter negotiating an alternative program suited to the needs of the recordkeeper and the Customs Service. Certification requirements shall take into account the size and nature of the importing business and the volume of imports. In order to be certified, the recordkeeper must be able to demonstrate that it—
 
 &emsp;&emsp;(A) understands the legal requirements for recordkeeping, including the nature of the records required to be maintained and produced and the time periods involved;
 
@@ -150,7 +150,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;&emsp;(i) if unliquidated, shall be liquidated at the applicable column 1 general rate of duty; or
 
-&emsp;&emsp;&emsp;(ii) if liquidated within the 2-year period preceding the date of the demand, shall be reliquidated, notwithstanding the timelimitation in section 1514 or 1520 of this title, at the applicable column 1 general rate of duty;
+&emsp;&emsp;&emsp;(ii) if liquidated within the 2-year period preceding the date of the demand, shall be reliquidated, notwithstanding the time limitation in section 1514 or 1520 of this title, at the applicable column 1 general rate of duty;
 
 > &emsp;&emsp;except that any liquidation or reliquidation under clause (i) or (ii) shall be at the applicable column 2 rate of duty if the Customs Service demonstrates that the merchandise should be dutiable at such rate.
 
@@ -190,7 +190,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;&emsp;(ii) is generally in compliance with the appropriate procedures and requirements of the program;
 
-> &emsp;&emsp;does not produce a demanded record or information for a specific release or provide the information by acceptable alternative means, the Customs Service, in the absence of willfulness or repeated violations, shall issue a written notice of the violation to the recordkeeper in lieu of a monetary penalty. Repeated violations by the recordkeeper may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
+> &emsp;&emsp;does not produce a demanded record or information for a specific release or provide the information by acceptable alternative means, the Customs Service, in the absence of willfulness or repeated violations, shall issue a written notice of the violation to the recordkeeper in lieu of a monetary penalty.Repeated violations by the recordkeeper may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
 
 #### (B) Contents of notice
 

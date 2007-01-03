@@ -42,7 +42,7 @@ Senate Office Buildings’.
 
 “(b)
 
-United States Capitol Grounds and Buildings.—Immediately upon the acquisition by the Architect of the Capitol, on behalf of the United States, of the real property, and the improvements thereon, as provided under subsection (a), the real property acquired shall be a part of the United States Capitol Grounds, and the improvements on such real property shall be a part of the Senate Office Buildings. Such real property and improvements shall be subject to the Act of July 31, 1946 (40 U.S.C. 193a et seq.) \[2 U.S.C. 1922,1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109\], and the Act of June 8, 1942 (40 U.S.C. 174c) \[2 U.S.C. 2023, 2024\].
+United States Capitol Grounds and Buildings.—Immediately upon the acquisition by the Architect of the Capitol, on behalf of the United States, of the real property, and the improvements thereon, as provided under subsection (a), the real property acquired shall be a part of the United States Capitol Grounds, and the improvements on such real property shall be a part of the Senate Office Buildings. Such real property and improvements shall be subject to the Act of July 31, 1946 (40 U.S.C. 193a et seq.) \[2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109\], and the Act of June 8, 1942 (40 U.S.C. 174c) \[2 U.S.C. 2023, 2024\].
 
 “(c)
 

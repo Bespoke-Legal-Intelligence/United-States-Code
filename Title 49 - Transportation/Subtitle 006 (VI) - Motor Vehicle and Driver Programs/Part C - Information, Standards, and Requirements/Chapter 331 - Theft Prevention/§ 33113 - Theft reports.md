@@ -10,7 +10,7 @@ Truck, Multipurpose Passenger Vehicle, and Motorcycle Report.—Not later than O
 
 &emsp;(3) a description of the market for the stolen parts;
 
-&emsp;(4) information on the premiums charged by insurers of comprehensive coverage of trucks,multipurpose passenger vehicles, or motorcycles, including any increase in the premiums charged because any of those motor vehicles is a likely candidate for theft;
+&emsp;(4) information on the premiums charged by insurers of comprehensive coverage of trucks, multipurpose passenger vehicles, or motorcycles, including any increase in the premiums charged because any of those motor vehicles is a likely candidate for theft;
 
 &emsp;(5) an assessment of whether the identification of parts of trucks, multipurpose passenger vehicles, and motorcycles is likely—
 
@@ -60,7 +60,7 @@ Motor Vehicle Report.—Not later than October 25, 1997, the Secretary shall sub
 
 &emsp;(7) information on the premiums charged by insurers of comprehensive coverage of motor vehicles subject to this chapter, including any increase in the premiums charged because a motor vehicle is a likely candidate for theft, and the extent to which the insurers have reduced for the benefit of consumers the premiums, or foregone premium increases, because of this chapter;
 
-&emsp;(8) information on the adequacy and effectiveness of laws of the United States and the States aimed at preventing the distribution and sale of used parts that have been removed from stolen motor vehicles and the adequacy of systems available to enforcement personnel for tracing parts to determine if they have been stolen from a motor vehicle;
+&emsp;(8) information on the adequacy and effectiveness of laws of the United States and the States aimed at preventing the distribution and sale of used parts that have been removed from stolen motor vehicles and the adequacy of systems available to enforcement personnelfor tracing parts to determine if they have been stolen from a motor vehicle;
 
 &emsp;(9) an assessment of whether the identification of parts of other classes of motor vehicles is likely—
 

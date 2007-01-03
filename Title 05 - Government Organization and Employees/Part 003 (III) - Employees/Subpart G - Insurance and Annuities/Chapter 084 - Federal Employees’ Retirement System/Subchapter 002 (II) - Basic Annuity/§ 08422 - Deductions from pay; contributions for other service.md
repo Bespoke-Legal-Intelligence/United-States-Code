@@ -84,7 +84,7 @@
 
 &emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
-(g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
+(g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have beendeducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
 
 (h) No deposit may be made with respect to service credited under section 8411(b)(6).
 

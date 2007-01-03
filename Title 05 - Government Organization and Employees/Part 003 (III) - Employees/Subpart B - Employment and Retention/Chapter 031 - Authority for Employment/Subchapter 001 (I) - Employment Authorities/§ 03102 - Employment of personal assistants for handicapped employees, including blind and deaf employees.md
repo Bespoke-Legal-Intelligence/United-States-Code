@@ -24,7 +24,7 @@
 
 > Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
-(2) A personal assistant, including a reading or interpreting assistant, employed under this subsection may receive pay for services performedby the assistant from the handicapped employee or a nonprofit organization, without regard to section 209 of title 18.
+(2) A personal assistant, including a reading or interpreting assistant, employed under this subsection may receive pay for services performed by the assistant from the handicapped employee or a nonprofit organization, without regard to section 209 of title 18.
 
 (c) The head of each agency may also employ or assign one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
 #### Effective Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–523 provided that: “The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 ofTitle 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
+Section 3 of Pub. L. 96–523 provided that: “The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
 
 #### Effective Date of 1979 Amendment
 

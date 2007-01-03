@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-Subsection (a) is based on title 14, U.S.C., 1946 ed., §30 (Jan. 12, 1919, ch. 8, 40 Stat. 1054). Said section waschanged to have application to the Coast Guard at all times, rather than when the Coast Guard is operating with the Navy.
+Subsection (a) is based on title 14, U.S.C., 1946 ed., §30 (Jan. 12, 1919, ch. 8, 40 Stat. 1054). Said section was changed to have application to the Coast Guard at all times, rather than when the Coast Guard is operating with the Navy.
 
 Inasmuch as the act cited above applies equally to the Navy and Marine Corps as well as the Coast Guard, it is not scheduled for repeal but is being amended by section 9 of this act to eliminate reference to the Coast Guard.
 

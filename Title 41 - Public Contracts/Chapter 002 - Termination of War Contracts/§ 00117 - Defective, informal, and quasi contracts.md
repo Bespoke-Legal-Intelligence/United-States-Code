@@ -2,7 +2,7 @@
 
 #### (a) Lack of formalized contract
 
-Where any person has arranged to furnish or furnished to a contracting agency or to a war contractor any materials, services, or facilities related to the prosecution of the war, without a formal contract, relying in good faith upon the apparent authority of an officer or agent of a contracting agency, written or oral instructions, or any other request to proceed from a contracting agency, the contracting agency shall pay such person fair compensation therefor.
+Where any person has arranged to furnish or furnished to a contracting agency or to a warcontractor any materials, services, or facilities related to the prosecution of the war, without a formal contract, relying in good faith upon the apparent authority of an officer or agent of a contracting agency, written or oral instructions, or any other request to proceed from a contracting agency, the contracting agency shall pay such person fair compensation therefor.
 
 #### (b) Technical defects or omissions
 
@@ -14,7 +14,7 @@ Where a contracting agency fails to settle by agreement any claim asserted under
 
 #### (d) Formalization of obligations; termination date for filing claims
 
-The Administrator of General Services shall require each contracting agency to formalize all such obligations and commitments within such period as the Administrator of General Services deems appropriate. No person shall be entitled to recover compensation, to receive a settlement of any alleged obligation, or to obtain the benefit of any amendment, confirmation, ratification, or formalization of any alleged contract or commitment under the provisions of subsections (a), (b), (c), or (d) of this section, unlesssuch person shall, on or before one hundred and eighty days after June 28, 1954, have filed a claim therefor with the contracting agency.
+The Administrator of General Services shall require each contracting agency to formalize all such obligations and commitments within such period as the Administrator of General Services deems appropriate. No person shall be entitled to recover compensation, to receive a settlement of any alleged obligation, or to obtain the benefit of any amendment, confirmation, ratification, or formalization of any alleged contract or commitment under the provisions of subsections (a), (b), (c), or (d) of this section, unless such person shall, on or before one hundred and eighty days after June 28, 1954, have filed a claim therefor with the contracting agency.
 
 (July 1, 1944, ch. 358, §17, 58 Stat. 665; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan. No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; June 28, 1954, ch. 403, §1, 68 Stat. 300.)
 

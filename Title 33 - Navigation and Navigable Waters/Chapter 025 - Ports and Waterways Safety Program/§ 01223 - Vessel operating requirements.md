@@ -38,7 +38,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 (1) In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in the territorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
 
-(2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whoseauthority the lease was executed or the permit issued.
+(2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whose authority the lease was executed or the permit issued.
 
 (3) Prior to making a designation pursuant to paragraph (1) hereof, and in accordance with the requirements of section 1224 of this title, the Secretary shall—
 
@@ -76,7 +76,7 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 (3) As used in this paragraph, the term “inherently governmental function” means any activity that is so intimately related to the public interest as to mandate performance by an officer or employee of the Federal Government, including an activity that requires either the exercise of discretion in applying the authority of the Government or the use of judgment in making a decision for the Government.
 
-(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–293, title III, §302, Aug. 9, 2004, 118 Stat. 1041.)
+(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–293, title III, §302, Aug. 9, 2004, 118 Stat. 1041; Pub. L. 109–241, title IX, §901(d), July 11, 2006, 120 Stat. 564.)
 
 #### References in Text
 
@@ -86,9 +86,11 @@ For the International Regulations for Preventing Collisions at Sea, 1972, referr
 
 #### Amendments
 
-2004—Subsec. (a)(6). Pub. L. 108–293, §302(1), added par. (6).
+2006—Subsecs. (a)(6), (e). Pub. L. 109–241 amended directory language of Pub. L. 108–293, §302. See 2004 Amendment note below.
 
-Subsec. (e). Pub. L. 108–293, §302(2), added subsec. (e).
+2004—Subsec. (a)(6). Pub. L. 108–293, §302(1), as amended by Pub. L. 109–241, added par. (6).
+
+Subsec. (e). Pub. L. 108–293, §302(2), as amended by Pub. L. 109–241, which directed the addition of subsec. (e) at the end of subsec. (a) of this section, was executed by adding subsec. (e) at the end of this section.
 
 1996—Subsec. (a)(3). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title” after “300 gross tons”.
 
@@ -106,9 +108,25 @@ Subsec. (a)(5). Pub. L. 101–380, §4107(a)(6), inserted “may” before “re
 
 1978—Pub. L. 95–474 substituted provision relating to vessel operating requirements for provision relating to the investigatory powers of the Secretary, production of witnesses and documents, and fees and allowances for witnesses.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–241, title IX, §901(d), July 11, 2006, 120 Stat. 564, provided in part that the amendment made by section 901(d) is effective Aug. 9, 2004.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+
+#### Notice of Arrival for Foreign Vessels on the Outer Continental Shelf
+
+Pub. L. 109–347, title I, §109, Oct. 13, 2006, 120 Stat. 1893, provided that:
+
+“(a)
+
+Notice of Arrival.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of the department in which the Coast Guard is operating shall update and finalize the rulemaking on notice of arrival for foreign vessels on the Outer Continental Shelf.
+
+“(b)
+
+Content of Regulations.—The regulations promulgated pursuant to subsection (a) shall be consistent with information required under the Notice of Arrival under section 160.206 of title 33, Code of Federal Regulations, as in effect on the date of the enactment of this Act \[Oct. 13, 2006\].”
 
 #### Direction of Vessel Movement Study; Submittal of Report to Congress
 

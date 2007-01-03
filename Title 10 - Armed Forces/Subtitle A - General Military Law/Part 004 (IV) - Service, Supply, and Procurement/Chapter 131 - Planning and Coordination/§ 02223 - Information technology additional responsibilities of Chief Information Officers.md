@@ -34,11 +34,13 @@ Definitions.—In this section:
 
 &emsp;(2) The term “information technology” has the meaning given that term by section 11101 of title 40.
 
-&emsp;(3) The term “national security system” has the meaning given that term by section 11103 of title 40.
+&emsp;(3) The term “national security system” has the meaning given that term by section 3542(b)(2) of title 44.
 
-(Added Pub. L. 105–261, div. A, title III, §331(a)(1), Oct. 17, 1998, 112 Stat. 1967; amended Pub. L. 106–398, §1 \[\[div. A\], title VIII, §811(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210; Pub. L. 107–217, §3(b)(1), Aug. 21, 2002, 116 Stat. 1295.)
+(Added Pub. L. 105–261, div. A, title III, §331(a)(1), Oct. 17, 1998, 112 Stat. 1967; amended Pub. L. 106–398, §1 \[\[div. A\], title VIII, §811(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210; Pub. L. 107–217, §3(b)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, §906(b), Oct. 17, 2006, 120 Stat. 2354.)
 
 #### Amendments
+
+2006—Subsec. (c)(3). Pub. L. 109–364 substituted “section 3542(b)(2) of title 44” for “section 11103 of title 40”.
 
 2002—Subsecs. (a), (b). Pub. L. 107–217, §3(b)(1)(A), (B), substituted “section 11315 of title 40” for “section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425)” in introductory provisions.
 

@@ -48,7 +48,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 #### (e) Modification or supersedure of personnel standards
 
-Personnel standards prescribed by Federal agencies under laws and regulations referred to in subsection (a) of this section shall continue in effect until modified or superseded by standardsprescribed by the Office under subsection (a) of this section.
+Personnel standards prescribed by Federal agencies under laws and regulations referred to in subsection (a) of this section shall continue in effect until modified or superseded by standards prescribed by the Office under subsection (a) of this section.
 
 #### (f) Systems of personnel administration; innovation and diversity in design, execution, and management
 

@@ -34,7 +34,7 @@ The Secretary, in consultation with the Secretary of State, may determine that a
 
 &emsp;(2) where the owner or charterer is the subject of proceedings under the bankruptcy laws of the United States, unless reasonable financial assurances have been provided to the Secretary;
 
-&emsp;(3) where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured against all risks and liabilities normally provided in maritime liability insurance;
+&emsp;(3) where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured againstall risks and liabilities normally provided in maritime liability insurance;
 
 &emsp;(4) where the owner or charterer has not paid any penalty which has become final, assessed by the Secretary in accordance with this chapter.
 
@@ -56,7 +56,7 @@ Notwithstanding the requirements of—
 
 The bankruptcy laws of the United States, referred to in subsec. (g)(2), are generally classified to Title 11, Bankruptcy.
 
-Section 12108 of title 46, referred to in subsec. (h)(1), was in the original “section 1 of the Act of August 26, 1983 (97 Stat. 587, 46 U.S.C. 12108)”, and was translated to reflect the probable intent of Congress. Section 1 of act Aug. 26, 1983, Pub. L. 98–89, 97 Stat. 500, enacted Title 46, Shipping.
+Section 12108 of title 46, referred to in subsec. (h)(1), was in the original “section 1 of the Act of August 26, 1983 (97 Stat. 587; 46 U.S.C. 12108)”, and was translated to reflect the probable intent of Congress. Section 1 of act Aug. 26, 1983, Pub. L. 98–89, 97 Stat. 500, enacted Title 46, Shipping. Section 12108 of Title 46 was subsequently omitted, and its provisions restated, in the general amendment of chapter 121 of Title 46 by Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491. For disposition of provisions of section 12108 into revised sections of Title 46, see Disposition Table preceding section 101 of Title 46.
 
 Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subsec. (h)(2), (3), were in the original references to sections 104(h)(1), 104(h)(2), and 306(a) of the Marine Mammal Protection Act, and were translated as meaning sections 104(h)(1), 104(h)(2), and 306(a), respectively, of the Marine Mammal Protection Act of 1972, Pub. L. 92–522, to reflect the probable intent of Congress.
 

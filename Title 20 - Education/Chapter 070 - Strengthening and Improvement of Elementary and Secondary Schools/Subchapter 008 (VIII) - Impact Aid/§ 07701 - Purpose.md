@@ -24,7 +24,7 @@ Another prior section 8001 of Pub. L. 89–10 was renumbered section 9001 and wa
 
 2003—Pub. L. 108–189 substituted “section 571” for “section 574” in introductory provisions.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(1)\], in introductory provisions, inserted “in a manner that promotes control by local educational agencies with little or no Federal or State involvement” after “educational services to federally connected children” and “, such as activities to fulfill theresponsibilities of the Federal Government with respect to Indian tribes and activities under section 574 of title 50, Appendix,” after “certain activities of the Federal Government”.
+2000—Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(1)\], in introductory provisions, inserted “in a manner that promotes control by local educational agencies with little or no Federal or State involvement” after “educational services to federally connected children” and “, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 574 of title 50, Appendix,” after “certain activities of the Federal Government”.
 
 Par. (4). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(2)\], inserted “or” at end.
 

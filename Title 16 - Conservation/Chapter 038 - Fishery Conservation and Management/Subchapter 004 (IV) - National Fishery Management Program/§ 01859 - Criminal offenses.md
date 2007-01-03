@@ -18,6 +18,10 @@ There is Federal jurisdiction over any offense described in this section.
 
 (Pub. L. 94–265, title III, §309, Apr. 13, 1976, 90 Stat. 357; Pub. L. 97–453, §11(a), Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §107(b), Nov. 14, 1986, 100 Stat. 3713; Pub. L. 100–66, §2, July 10, 1987, 101 Stat. 384; Pub. L. 101–627, title I, §115, Nov. 28, 1990, 104 Stat. 4455.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
 #### Amendments
 
 1990—Subsec. (a)(1). Pub. L. 101–627, §115(a), amended par. (1) generally, substituting “(I), or (L)” for “or (I)”.
@@ -32,7 +36,7 @@ Subsec. (b). Pub. L. 101–627, §115(b), substituted “$100,000” for “$50,
 
 #### Effective Date of 1983 Amendment
 
-Section 11(b) of Pub. L. 97–453 provided that: “The amendment made by subsection (a) \[amending this section\] applies with respect to offenses committed under section 309 \[this section\] on or after the date of the enactment of this Act \[Jan. 12, 1983\].”
+Section 11(b) of Pub. L. 97–453 provided that: “The amendment made by subsection (a) \[amending this section\] applies with respect to offenses committed undersection 309 \[this section\] on or after the date of the enactment of this Act \[Jan. 12, 1983\].”
 
 #### Effective Date
 

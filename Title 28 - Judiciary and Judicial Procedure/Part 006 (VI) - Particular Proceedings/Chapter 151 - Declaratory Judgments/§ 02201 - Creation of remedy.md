@@ -4,7 +4,7 @@
 
 (b) For limitations on actions brought with respect to drug patents see section 505 or 512 of the Federal Food, Drug, and Cosmetic Act.
 
-(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §111, 63 Stat. 105; Aug. 28, 1954, ch. 1033, 68 Stat. 890; Pub. L. 85–508, §12(p), July 7, 1958, 72 Stat. 349; Pub. L. 94–455, title XIII, §1306(b)(8), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 95–598, title II, §249, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 98–417, title I, §106, Sept. 24, 1984, 98 Stat. 1597; Pub. L. 100–449, title IV, §402(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 100–670, title I, §107(b), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147.)
+(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §111, 63 Stat. 105; Aug. 28, 1954, ch. 1033, 68 Stat. 890; Pub. L. 85–508, §12(p), July 7, 1958, 72 Stat. 349; Pub. L. 94–455, title XIII, §1306(b)(8), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 95–598, title II, §249, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 98–417, title I, §106, Sept. 24, 1984, 98 Stat. 1597; Pub. L.100–449, title IV, §402(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 100–670, title I, §107(b), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147.)
 
 #### Historical and Revision Notes
 

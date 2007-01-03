@@ -46,7 +46,7 @@
 
 (2) If the employment is with an Executive agency, the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
-(3) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+(3) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment ifthe individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 (4) If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
@@ -112,7 +112,7 @@ Section 1612(b) of Pub. L. 104–201 provided that: “The amendment made by sub
 
 #### Limitations for Fiscal Years 2002 and 2003 on VSIP and VERA
 
-Pub. L. 106–398, §1 \[\[div. A\], title XI, §1153(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–323, as amended by Pub. L.107–107, div. A, title XI, §1133(a), Dec. 28, 2001, 115 Stat. 1244, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title XI, §1153(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–323, as amended by Pub. L. 107–107, div. A, title XI, §1133(a), Dec. 28, 2001, 115 Stat. 1244, provided that:
 
 “The Secretary of Defense shall ensure that, in fiscal year 2002 not more than 2000 employees of the Department of Defense are, and in fiscal year 2003 not more than 6000 employees of the Department of Defense are, as a result of workforce restructuring, separated from service entitled to one or more of the following benefits:
 
@@ -250,7 +250,7 @@ Pub. L. 105–206, title I, §1202, July 22, 1998, 112 Stat. 719, authorized Com
 
 Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, as amended by Pub. L. 105–78, title V, §517, Nov. 13, 1997, 111 Stat. 1519; Pub. L. 106–113, div. B, §1000(a)(4) \[title V, §515\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276, authorized Railroad Retirement Board and Office of Inspector General of Railroad Retirement Board to provide voluntary separation incentive payments to any qualifying employee who voluntarily separated (whether by retirement or resignation) before Mar. 31, 2000, directed the Railroad Retirement Board, prior to obligating any resources for voluntary separation incentive payments, to submit to Congress a strategic plan outlining intended use of such incentive payments and a proposed organizational chart for agency once such incentive payments have been completed, and further provided for pertinent definitions, additional contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
 
-Pub. L. 106–65, div. C, title XXXI, §3161, Oct. 5, 1999, 113 Stat. 942, as amended by Pub. L. 107–107, div. C, title XXXI, §3153(a), Dec. 28, 2001, 115 Stat. 1377, provided that notwithstanding section 101(f) \[title VI, §663(c)(2)(D)\] of Public Law 104–208, set out below, Department of Energy could pay voluntary separation incentive payments under such section 663 to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2004, and that not later than Mar. 15, 2000, Secretary of Energy was to submit to Director of Office of Personnel Management and Congress a report describing how the Departmenthas paid voluntary separation payments under such section 663.
+Pub. L. 106–65, div. C, title XXXI, §3161, Oct. 5, 1999, 113 Stat. 942, as amended by Pub. L. 107–107, div. C, title XXXI, §3153(a), Dec. 28, 2001, 115 Stat. 1377, provided that notwithstanding section 101(f) \[title VI, §663(c)(2)(D)\] of Public Law 104–208, set out below, Department of Energy could pay voluntary separation incentive payments under such section 663 to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2004, and that not later than Mar. 15, 2000, Secretary of Energy was to submit to Director of Office of Personnel Management and Congress a report describing how the Department has paid voluntary separation payments under such section 663.
 
 \[Pub. L. 107–107, div. C, title XXXI, §3153(b), Dec. 28, 2001, 115 Stat. 1377, provided that: “The amendment made by subsection (a) \[amending section 3161 of Pub. L. 106–65, set out above\] may be superseded by another provision of law that takes effect after the date of the enactment of this Act \[Dec. 28, 2001\], and before January 1, 2004, establishing a uniform system for providing voluntary separation incentives (including a system for requiring approval of plans by the Office of Management and Budget) for employees of the Federal Government.”\]
 
@@ -262,7 +262,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996
 
 Definitions.—For the purposes of this section—
 
-&emsp;“(1) the term ‘agency’ means any Executive agency (as defined in section 105 of title 5, United States Code), other than an Executive agency (except an agency receiving such authority in the Department of Transportation Appropriations Act, 1997 \[probably means the Department of Transportation and Related Agencies Appropriations Act, 1997, Pub. L. 104–205, see Tables for classification\]) that is authorized by any other provision of this Act or any other Act to provide voluntary separation incentive payments during all, or any part of, fiscal year 1997; and
+&emsp;“(1) the term ‘agency’ means any Executive agency (as defined in section 105 of title 5, United StatesCode), other than an Executive agency (except an agency receiving such authority in the Department of Transportation Appropriations Act, 1997 \[probably means the Department of Transportation and Related Agencies Appropriations Act, 1997, Pub. L. 104–205, see Tables for classification\]) that is authorized by any other provision of this Act or any other Act to provide voluntary separation incentive payments during all, or any part of, fiscal year 1997; and
 
 &emsp;“(2) the term ‘employee’ means an employee (as defined by section 2105 of title 5, United States Code) who is employed by an agency, is serving under an appointment without time limitation, and has been currently employed for a continuous period of at least 3 years, but does not include—
 

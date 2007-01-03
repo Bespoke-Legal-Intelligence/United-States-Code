@@ -54,7 +54,7 @@
 
 (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V,§501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272,§5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934.)
 
 #### References in Text
 

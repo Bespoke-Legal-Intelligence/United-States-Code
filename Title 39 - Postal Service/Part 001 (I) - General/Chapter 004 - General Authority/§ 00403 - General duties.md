@@ -1,6 +1,6 @@
 ### §403. General duties
 
-(a) The Postal Service shall plan, develop, promote, and provide adequate and efficient postal services at fair and reasonable rates and fees. The Postal Service shall receive, transmit, and deliver throughout the United States, its territories and possessions, and, pursuant to arrangements entered into under sections 406 and 411 of this title, throughout the world, written and printed matter, parcels, and like materials and provide such other services incidental thereto as it finds appropriate to its functions and in the public interest. The Postal Service shall serve as nearly as practicable the entire population of the United States.
+(a) The Postal Service shall plan, develop, promote, and provide adequate and efficient postal services at fair and reasonable rates and fees. The Postal Service shall receive, transmit, and deliver throughout the United States, its territories and possessions, and, pursuant to arrangements entered into under sections 406 and 411 of this title, throughout the world, written and printed matter, parcels, and like materials and provide such other services incidental thereto asit finds appropriate to its functions and in the public interest. The Postal Service shall serve as nearly as practicable the entire population of the United States.
 
 (b) It shall be the responsibility of the Postal Service—
 
@@ -86,9 +86,5 @@ Pub. L. 96–499, title IV, §412, Dec. 5, 1980, 94 Stat. 2607.
 
 #### Prohibition of 9-Digit ZIP Code
 
-Pub. L. 97–35, title XVII, §1726, Aug. 13, 1981, 95 Stat. 761, provided that:
-
-“(a) The Postal Service shall not implement any ZIP code system using more than 5 digits before October 1, 1983. This subsection shall not be construed as precluding the Postal Service or the Postal Rate Commission from taking such actions as may be required before October 1, 1983, to prepare for the implementation of such a ZIP code system.
-
-“(b) During the period beginning on the date of the enactment of this Act \[Aug. 13, 1981\] and ending December 31, 1982, no Executive agency shall take any action to conform its mailing procedures to those appropriate for use under any ZIP code system using more than 5 digits. As used in this subsection, the term ‘Executive agency’ has the same meaning given such term by section 105 of title 5, United States Code.”
+Pub. L. 97–35, title XVII, §1726, Aug. 13, 1981, 95 Stat. 761, prohibited Postal Service from implementing ZIP code system using more than 5 digits before Oct. 1, 1983, and prohibited executive agencies from taking action to conform mailing procedures to ZIP code system using more than 5 digits during the period from Aug. 13, 1981 to Dec. 31, 1982.
 

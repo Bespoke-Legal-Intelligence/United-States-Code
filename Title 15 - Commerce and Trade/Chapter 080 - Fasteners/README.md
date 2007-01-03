@@ -5,28 +5,13 @@
 | [5401\.](%C2%A7%2005401%20-%20Findings.md) | Findings. |
 | [5402\.](%C2%A7%2005402%20-%20Definitions.md) | Definitions. |
 | [5403\.](%C2%A7%2005403%20-%20Sale%20of%20fasteners.md) | Sale of fasteners. |
-| (a) | General rule. |
-| (b) | Representations. |
-| (c) | Specifications. |
-| (d) | Use of accredited laboratories. |
 | 5404 to 5406. Repealed. |  |
 | [5407\.](%C2%A7%2005407%20-%20Manufacturers%E2%80%99%20insignias.md) | Manufacturers’ insignias. |
-| (a) | General rule. |
-| (b) | Recordation. |
 | [5408\.](%C2%A7%2005408%20-%20Remedies%20and%20penalties.md) | Remedies and penalties. |
-| (a) | Civil remedies. |
-| (b) | Civil penalties. |
-| (c) | Criminal penalties. |
-| (d) | Enforcement. |
 | [5409\.](%C2%A7%2005409%20-%20Recordkeeping%20requirements.md) | Recordkeeping requirements. |
 | [5410\.](%C2%A7%2005410%20-%20Relationship%20to%20State%20laws.md) | Relationship to State laws. |
 | [5411\.](%C2%A7%2005411%20-%20Construction.md) | Construction. |
 | [5411a.](%C2%A7%2005411a%20-%20Certification%20and%20accreditation.md) | Certification and accreditation. |
-| (a) | Certification. |
-| (b) | Accreditation. |
-| (c) | Laboratory accreditation. |
-| (d) | Approval of accreditation bodies. |
-| (e) | Affirmation. |
 | [5411b.](%C2%A7%2005411b%20-%20Applicability.md) | Applicability. |
 | 5412 to 5414. Repealed. |  |
 

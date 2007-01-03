@@ -12,7 +12,7 @@
 
 (b) Any statutory provision providing general authority to the head of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) to delegate duties statutorily vested in that agency head to, or to reassign duties among, officers or employees of such Executive agency, is not a statutory provision to which subsection (a)(1) applies.
 
-(Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–613; amended Pub. L. 106–31, title V, §5011, May 21, 1999, 113 Stat. 112; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–613; amended Pub. L.106–31, title V, §5011, May 21, 1999, 113 Stat. 112; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 

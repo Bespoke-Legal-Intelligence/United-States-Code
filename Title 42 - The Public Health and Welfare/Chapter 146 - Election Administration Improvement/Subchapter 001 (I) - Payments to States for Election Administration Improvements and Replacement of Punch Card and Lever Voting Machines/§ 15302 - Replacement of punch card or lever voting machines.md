@@ -56,7 +56,7 @@
 
 #### (2) Reduction
 
-&emsp;If the amount of funds appropriated pursuant to the authority of section 15304(a)(2) of this title is insufficient to ensure that each State receives the amount of payment calculated under paragraph (1), the Administrator shall reduce the amount specified in paragraph (1)(B) to ensure that the entire amount appropriated under such section is distributed to the States.
+&emsp;If the amount of funds appropriated pursuant to the authority of section 15304(a)(2) of this title is insufficient to ensure that eachState receives the amount of payment calculated under paragraph (1), the Administrator shall reduce the amount specified in paragraph (1)(B) to ensure that the entire amount appropriated under such section is distributed to the States.
 
 #### (d) Repayment of funds for failure to meet deadlines
 

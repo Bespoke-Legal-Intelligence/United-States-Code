@@ -3,102 +3,28 @@
 | Sec. |  |
 | :--- | ---: |
 | [1431\.](%C2%A7%2001431%20-%20Findings%2C%20purposes%2C%20and%20policies%3B%20establishment%20of%20system.md) | Findings, purposes, and policies; establishment of system. |
-| (a) | Findings. |
-| (b) | Purposes and policies. |
-| (c) | Establishment of system. |
 | [1432\.](%C2%A7%2001432%20-%20Definitions.md) | Definitions. |
 | [1433\.](%C2%A7%2001433%20-%20Sanctuary%20designation%20standards.md) | Sanctuary designation standards. |
-| (a) | Standards. |
-| (b) | Factors and consultations required in making determinations and findings. |
 | [1434\.](%C2%A7%2001434%20-%20Procedures%20for%20designation%20and%20implementation.md) | Procedures for designation and implementation. |
-| (a) | Sanctuary proposal. |
-| (b) | Taking effect of designations. |
-| (c) | Access and valid rights. |
-| (d) | Interagency cooperation. |
-| (e) | Review of management plans. |
-| (f) | Limitation on designation of new sanctuaries. |
 | [1435\.](%C2%A7%2001435%20-%20Application%20of%20regulations%3B%20international%20negotiations%20and%20cooperation.md) | Application of regulations; international negotiations and cooperation. |
-| (a) | Regulations. |
-| (b) | Negotiations. |
-| (c) | International cooperation. |
 | [1436\.](%C2%A7%2001436%20-%20Prohibited%20activities.md) | Prohibited activities. |
 | [1437\.](%C2%A7%2001437%20-%20Enforcement.md) | Enforcement. |
-| (a) | In general. |
-| (b) | Powers of authorized officers. |
-| (c) | Criminal offenses. |
-| (d) | Civil penalties. |
-| (e) | Forfeiture. |
-| (f) | Payment of storage, care, and other costs. |
-| (g) | Subpoenas. |
-| (h) | Use of resources of State and other Federal agencies. |
-| (i) | Coast Guard authority not limited. |
-| (j) | Injunctive relief. |
-| (k) | Area of application and enforceability. |
-| (<i>l</i>) | Nationwide service of process. |
 | [1438\.](%C2%A7%2001438%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93627%2C%20title%20II%2C%20%C2%A7203%281%29%2C%20Nov.%207%2C%201988%2C%20102%20Stat.%203214.md) | Repealed. |
 | [1439\.](%C2%A7%2001439%20-%20Regulations.md) | Regulations. |
 | [1440\.](%C2%A7%2001440%20-%20Research%2C%20monitoring%2C%20and%20education.md) | Research, monitoring, and education. |
-| (a) | In general. |
-| (b) | Research and monitoring. |
-| (c) | Education. |
-| (d) | Interpretive facilities. |
-| (e) | Consultation and coordination. |
 | [1441\.](%C2%A7%2001441%20-%20Special%20use%20permits.md) | Special use permits. |
-| (a) | Issuance of permits. |
-| (b) | Public notice required. |
-| (c) | Permit terms. |
-| (d) | Fees. |
-| (e) | Violations. |
-| (f) | Reports. |
-| (g) | Fishing. |
 | [1442\.](%C2%A7%2001442%20-%20Cooperative%20agreements%2C%20donations%2C%20and%20acquisitions.md) | Cooperative agreements, donations, and acquisitions. |
-| (a) | Agreements and grants. |
-| (b) | Authorization to solicit donations. |
-| (c) | Donations. |
-| (d) | Acquisitions. |
-| (e) | Use of resources of other government agencies. |
-| (f) | Authority to obtain grants. |
 | [1443\.](%C2%A7%2001443%20-%20Destruction%20or%20loss%20of%2C%20or%20injury%20to%2C%20sanctuary%20resources.md) | Destruction or loss of, or injury to, sanctuary resources. |
-| (a) | Liability. |
-| (b) | Response actions and damage assessment. |
-| (c) | Civil actions for response costs and damages. |
-| (d) | Use of recovered amounts. |
-| (e) | Statute of limitations. |
 | [1444\.](%C2%A7%2001444%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1445\.](%C2%A7%2001445%20-%20U.S.S.%20Monitor%20artifacts%20and%20materials.md) | U.S.S. Monitor artifacts and materials. |
-| (a) | Congressional policy. |
-| (b) | Disclaimer. |
 | [1445a.](%C2%A7%2001445a%20-%20Advisory%20Councils.md) | Advisory Councils. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Limits on membership. |
-| (d) | Staffing and assistance. |
-| (e) | Public participation and procedural matters. |
 | [1445b.](%C2%A7%2001445b%20-%20Enhancing%20support%20for%20national%20marine%20sanctuaries.md) | Enhancing support for national marine sanctuaries. |
-| (a) | Authority. |
-| (b) | Contract authority. |
-| (c) | Restrictions. |
-| (d) | Property of United States. |
-| (e) | Prohibited activities. |
-| (f) | Collaborations. |
-| (g) | Authorization for non-profit partner organization to solicit sponsors. |
 | [1445c.](%C2%A7%2001445c%20-%20Dr.%20Nancy%20Foster%20Scholarship%20Program.md) | Dr. Nancy Foster Scholarship Program. |
-| (a) | Establishment. |
-| (b) | Purposes. |
-| (c) | Award. |
-| (d) | Distribution of funds. |
-| (e) | Funding. |
-| (f) | Scholarship repayment requirement. |
-| (g) | Maritime archeology defined. |
 | 1445c–1. | Dr. Nancy Foster Scholarship Program. |
-| (a) | Establishment. |
-| (b) | Purpose. |
-| (c) | Award. |
-| (d) | Distribution of funds. |
-| (e) | Funding. |
-| (f) | Scholarship repayment requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 
 ---

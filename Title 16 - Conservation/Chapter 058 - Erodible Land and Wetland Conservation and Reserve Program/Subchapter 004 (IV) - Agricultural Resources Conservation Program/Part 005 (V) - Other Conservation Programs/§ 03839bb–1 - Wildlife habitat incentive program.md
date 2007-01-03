@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the State technical committees established under section 3861 of this title, shall establish within the Natural Resources Conservation Service a programto be known as the wildlife habitat incentive program (referred to in this section as the “program”).
+The Secretary, in consultation with the State technical committees established under section3861 of this title, shall establish within the Natural Resources Conservation Service a program to be known as the wildlife habitat incentive program (referred to in this section as the “program”).
 
 #### (b) Cost-share payments
 

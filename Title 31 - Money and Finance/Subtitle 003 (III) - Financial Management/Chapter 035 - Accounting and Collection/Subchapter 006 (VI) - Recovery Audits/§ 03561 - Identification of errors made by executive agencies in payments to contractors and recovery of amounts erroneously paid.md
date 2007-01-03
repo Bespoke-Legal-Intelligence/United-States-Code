@@ -34,7 +34,7 @@ Guidance.—The Director of the Office of Management and Budget shall issue guid
 
 &emsp;&emsp;(C) to act as agents for the Government in the recovery of funds erroneously paid to contractors.
 
-&emsp;(7) Policies for the appropriate types of management improvement programs authorized bysection 3564 of this title that executive agencies may carry out to address overpayment problems and the recovery of overpayments.
+&emsp;(7) Policies for the appropriate types of management improvement programs authorized by section 3564 of this title that executive agencies may carry out to address overpayment problems and the recovery of overpayments.
 
 (Added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28, 2001, 115 Stat. 1186.)
 

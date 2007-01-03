@@ -68,7 +68,7 @@ Except as otherwise provided in section 849, 859, 860, or 861 of this title, any
 
 > such person shall be sentenced to a term of imprisonment which may not be less than 5 years and not more than 40 years and if death or serious bodily injury results from the use of such substance shall be not less than 20 years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment which may not be less than 10 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence imposed under this subparagraph shall, in the absence of such a prior conviction, include a term of supervised release of at least 4 years in addition to such term of imprisonment and shall, if there was such a prior conviction, include a term of supervised release of at least 8 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this subparagraph. No person sentenced under this subparagraph shall be eligible for parole during the term of imprisonment imposed therein.
 
-(C) In the case of a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or 1 gram of flunitrazepam, except as provided in subparagraphs (A), (B), and (D), such person shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this subparagraph which provide for a mandatory term of imprisonment if death or serious bodily injury results, nor shall a person so sentenced be eligible for parole during the term of such a sentence.
+(C) In the case of a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or 1 gram of flunitrazepam, except as provided in subparagraphs (A), (B), and (D), such person shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall besentenced to a term of imprisonment of not less than twenty years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this subparagraph which provide for a mandatory term of imprisonment if death or serious bodily injury results, nor shall a person so sentenced be eligible for parole during the term of such a sentence.
 
 (D) In the case of less than 50 kilograms of marihuana, except in the case of 50 or more marihuana plants regardless of weight, 10 kilograms of hashish, or one kilogram of hashish oil or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam, such person shall, except as provided in paragraphs (4) and (5) of this subsection, be sentenced to a term of imprisonment of not more than 5 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 10 years, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 2 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 4 years in addition to such term of imprisonment.
 
@@ -78,7 +78,7 @@ Except as otherwise provided in section 849, 859, 860, or 861 of this title, any
 
 (4) Notwithstanding paragraph (1)(D) of this subsection, any person who violates subsection (a) of this section by distributing a small amount of marihuana for no remuneration shall be treated as provided in section 844 of this title and section 3607 of title 18.
 
-(5) Any person who violates subsection (a) of this section by cultivating a controlled substance on Federal property shall be imprisoned as provided in this subsection and shall be fined any amount not to exceed—
+(5) Any person who violates subsection (a) of this section by cultivating or manufacturing a controlled substance on Federal property shall be imprisoned as provided in this subsection and shall be fined any amount not to exceed—
 
 &emsp;(A) the amount authorized in accordance with this section;
 
@@ -122,7 +122,7 @@ Any person who knowingly or intentionally—
 
 &emsp;(3) with the intent of causing the evasion of the recordkeeping or reporting requirements of section 830 of this title, or the regulations issued under that section, receives or distributes a reportable amount of any listed chemical in units small enough so that the making of records or filing of reports under that section is not required;
 
-> shall be fined in accordance with title 18 or imprisoned not more than 20 years in the case of aviolation of paragraph (1) or (2) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (2) involving a list I chemical, or both.
+> shall be fined in accordance with title 18 or imprisoned not more than 20 years in the case of a violation of paragraph (1) or (2) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (2) involving a list I chemical, or both.
 
 #### (d) Boobytraps on Federal property; penalties; “boobytrap” defined
 
@@ -138,15 +138,49 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 #### (f) Wrongful distribution or possession of listed chemicals
 
-(1) Whoever knowingly distributes a listed chemical in violation of this subchapter (other than in violation of a recordkeeping or reporting requirement of section 830 of this title) shall be fined under title 18 or imprisoned not more than 5 years, or both.
+(1) Whoever knowingly distributes a listed chemical in violation of this subchapter (other than in violation of a recordkeeping or reporting requirement of section 830 of this title) shall, except to the extent that paragraph (12), (13), or (14) of section 842(a) of this title applies, be fined under title 18 or imprisoned not more than 5 years, or both.
 
 (2) Whoever possesses any listed chemical, with knowledge that the recordkeeping or reporting requirements of section 830 of this title have not been adhered to, if, after such knowledge is acquired, such person does not take immediate steps to remedy the violation shall be fined under title 18 or imprisoned not more than one year, or both.
 
-(Pub. L. 91–513, title II, §401, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 95–633, title II, §201, Nov. 10, 1978, 92 Stat. 3774; Pub. L. 96–359, §8(c), Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §§224(a), 502, 503(b)(1), (2), Oct. 12, 1984, 98 Stat. 2030, 2068, 2070; Pub. L. 99–570, title I, §§1002, 1003(a), 1004(a), 1005(a), 1103, title XV, §15005, Oct. 27, 1986, 100 Stat. 3207–2, 3207–5, 3207–6, 3207–11, 3702–192; Pub. L. 100–690, title VI, §§6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, 102 Stat. 4318, 4367, 4371, 4378, 4381; Pub. L. 101–647, title X, §1002(e), title XII, §1202, title XXXV, §3599K, Nov. 29, 1990, 104 Stat. 4828, 4830, 4932; Pub. L. 103–322, title IX, §90105(a), (c), title XVIII, §180201(b)(2)(A), Sept. 13, 1994, 108 Stat. 1987, 1988, 2047; Pub. L. 104–237, title II, §206(a), title III, §302(a), Oct. 3, 1996, 110 Stat. 3103, 3105; Pub. L. 104–305, §2(a), (b)(1), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, §2(a), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, §§3(b)(1), 5(b), 9, Feb. 18, 2000, 114 Stat. 9, 10, 13; Pub. L. 107–273, div. B, title III, §3005(a), title IV, §4002(d)(2)(A), Nov. 2, 2002, 116 Stat. 1805, 1809.)
+#### (g) Internet sales of date rape drugs
+
+(1) Whoever knowingly uses the Internet to distribute a date rape drug to any person, knowing or with reasonable cause to believe that—
+
+&emsp;(A) the drug would be used in the commission of criminal sexual conduct; or
+
+&emsp;(B) the person is not an authorized purchaser;
+
+> shall be fined under this subchapter or imprisoned not more than 20 years, or both.
+
+(2) As used in this subsection:
+
+&emsp;(A) The term “date rape drug” means—
+
+&emsp;&emsp;(i) gamma hydroxybutyric acid (GHB) or any controlled substance analogue of GHB, including gamma butyrolactone (GBL) or 1,4–butanediol;
+
+&emsp;&emsp;(ii) ketamine;
+
+&emsp;&emsp;(iii) flunitrazepam; or
+
+&emsp;&emsp;(iv) any substance which the Attorney General designates, pursuant to the rulemaking procedures prescribed by section 553 of title 5, to be used in committing rape or sexual assault.
+
+> &emsp;The Attorney General is authorized to remove any substance from the list of date rape drugs pursuant to the same rulemaking authority.
+
+&emsp;(B) The term “authorized purchaser” means any of the following persons, provided such person has acquired the controlled substance in accordance with this chapter:
+
+&emsp;&emsp;(i) A person with a valid prescription that is issued for a legitimate medical purpose in the usual course of professional practice that is based upon a qualifying medical relationship by a practitioner registered by the Attorney General. A “qualifying medical relationship” means a medical relationship that exists when the practitioner has conducted at least 1 medical evaluation with the authorized purchaser in the physical presence of the practitioner, without regard to whether portions of the evaluation are conducted by other heath <sup>1</sup> professionals. The preceding sentence shall not be construed to imply that 1 medical evaluation demonstrates that a prescription has been issued for a legitimate medical purpose within the usual course of professional practice.
+
+&emsp;&emsp;(ii) Any practitioner or other registrant who is otherwise authorized by their registration to dispense, procure, purchase, manufacture, transfer, distribute, import, or export the substance under this chapter.
+
+&emsp;&emsp;(iii) A person or entity providing documentation that establishes the name, address, and business of the person or entity and which provides a legitimate purpose for using any “date rape drug” for which a prescription is not required.
+
+(3) The Attorney General is authorized to promulgate regulations for record-keeping and reporting by persons handling 1,4–butanediol in order to implement and enforce the provisions of this section. Any record or report required by such regulations shall be considered a record or report required under this chapter.
+
+(Pub. L. 91–513, title II, §401, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 95–633, title II, §201, Nov. 10, 1978, 92 Stat. 3774; Pub. L. 96–359, §8(c), Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §§224(a), 502, 503(b)(1), (2), Oct. 12, 1984, 98 Stat. 2030, 2068, 2070; Pub. L. 99–570, title I, §§1002, 1003(a), 1004(a), 1005(a), 1103, title XV, §15005, Oct. 27, 1986, 100 Stat. 3207–2, 3207–5, 3207–6, 3207–11, 3702–192; Pub. L. 100–690, title VI, §§6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, 102 Stat. 4318, 4367, 4371, 4378, 4381; Pub. L. 101–647, title X, §1002(e), title XII, §1202, title XXXV, §3599K, Nov. 29, 1990, 104 Stat. 4828, 4830, 4932; Pub. L. 103–322, title IX, §90105(a), (c), title XVIII, §180201(b)(2)(A), Sept. 13, 1994, 108 Stat. 1987, 1988, 2047; Pub. L. 104–237, title II, §206(a), title III, §302(a), Oct. 3, 1996, 110 Stat. 3103, 3105; Pub. L. 104–305, §2(a), (b)(1), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, §2(a), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, §§3(b)(1), 5(b), 9, Feb. 18, 2000, 114 Stat. 9, 10, 13; Pub. L. 107–273, div. B, title III, §3005(a), title IV, §4002(d)(2)(A), Nov. 2, 2002, 116 Stat. 1805, 1809; Pub. L. 109–177, title VII, §§711(f)(1)(B), 732, Mar. 9, 2006, 120 Stat. 262, 270; Pub. L. 109–248, title II, §201, July 27, 2006, 120 Stat. 611.)
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a), (b)(1) to (3), (c)(1), (2), and (f)(1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (a), (b)(1) to (3), (c)(1), (2), (f)(1), and (g)(1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Schedules I, II, III, IV, and V, referred to in subsec. (b), are set out in section 812(c) of this title.
 
@@ -154,7 +188,15 @@ Subchapter II of this chapter, referred to in subsec. (b)(1) to (3), was in the 
 
 Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibition Act of 2000, referred to in subsec. (b)(1)(C), is section 3(a)(1)(B) of Pub. L. 106–172, which is set out in a note under section 812 of this title.
 
+This chapter, referred to in subsec. (g)(2)(B), (3), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
 #### Amendments
+
+2006—Subsec. (b)(5). Pub. L. 109–177, §732, inserted “or manufacturing” after “cultivating” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 109–177, §711(f)(1)(B), inserted “, except to the extent that paragraph (12), (13), or (14) of section 842(a) of this title applies,” after “shall”.
+
+Subsec. (g). Pub. L. 109–248 added subsec. (g).
 
 2002—Subsec. (b)(1)(A), (B). Pub. L. 107–273, §3005(a), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence” in concluding provisions.
 
@@ -246,7 +288,7 @@ Subsec. (b)(1)(A). Pub. L. 99–570, §1002(2), amended subpar. (A) generally. P
 
 > such person shall be sentenced to a term of imprisonment of not more than 20 years, a fine of not more than $250,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 40 years, a fine of not more than $500,000, or both”.
 
-Subsec. (b)(1)(B). Pub. L. 99–570, §1002(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the case of a controlled substance in schedule I or II except as provided in subparagraphs (A) and (C),, such person shall be sentenced to a term of imprisonment of not more than 15 years, a fine of not more than $125,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such personshall be sentenced to a term of imprisonment of not more than 30 years, a fine of not more than $250,000, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a special parole term of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a special parole term of at least 6 years in addition to such term of imprisonment.”
+Subsec. (b)(1)(B). Pub. L. 99–570, §1002(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the case of a controlled substance in schedule I or II except as provided in subparagraphs (A) and (C),, such person shall be sentenced to a term of imprisonment of not more than 15 years, a fine of not more than $125,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 30 years, a fine of not more than $250,000, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a special parole term of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, imposea special parole term of at least 6 years in addition to such term of imprisonment.”
 
 Subsec. (b)(1)(C). Pub. L. 99–570, §1002(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -331,4 +373,6 @@ Amendment by Pub. L. 95–633 effective Nov. 10, 1978, see section 203(a) of Pub
 #### Repeals
 
 Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (d) of this section effective Jan. 1, 1981.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “health”.</i>
 

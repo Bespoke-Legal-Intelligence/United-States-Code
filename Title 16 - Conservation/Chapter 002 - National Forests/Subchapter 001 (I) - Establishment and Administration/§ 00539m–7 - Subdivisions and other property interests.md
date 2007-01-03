@@ -90,7 +90,7 @@ The Secretary shall ensure that Forest Service Road 333D, as depicted on the map
 
 #### (g) Pueblo fee land
 
-Those properties not specifically addressed in subsections <sup>1</sup> (a) or (e) that are owned in fee by the Pueblo within the subdivisions are excludedfrom the Area and shall be subject to the jurisdictional provisions of subsection (a).
+Those properties not specifically addressed in subsections <sup>1</sup> (a) or (e) that are owned in fee by the Pueblo within the subdivisions are excluded from the Area and shall be subject to the jurisdictional provisions of subsection (a).
 
 #### (h) Rights-of-way
 

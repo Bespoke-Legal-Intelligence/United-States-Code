@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States a fund to provide separation pay for foreign national employees of agencies of the United States Government, other than the Department of Defense.
+There is established in the Treasury of the United States a fund to provide separation payfor foreign national employees of agencies of the United States Government, other than the Department of Defense.
 
 #### (b) Funding
 

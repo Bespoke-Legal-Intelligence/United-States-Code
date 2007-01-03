@@ -8,5 +8,5 @@ Section 632, act Aug. 14, 1935, ch. 531, title IV, §432, as added Jan. 2, 1968,
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204(a), (b)(1)(A), of Pub. L. 100–485, set out as an Effective Date of 1988 Amendment note under section 671 of this title.
+Repeal effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certainchanges in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204(a), (b)(1)(A), of Pub. L. 100–485, set out as an Effective Date of 1988 Amendment note under section 671 of this title.
 

@@ -8,7 +8,7 @@ General Requirements for Hunting, Fishing, and Trapping.—The Secretary of Defe
 
 &emsp;(2) require that an appropriate license for hunting, fishing, or trapping on that installation or facility be obtained, except that with respect to members of the Armed Forces, such a license may be required only if the State authorizes the issuance of a license to a member on active duty for a period of more than thirty days at an installation or facility within that State, without regard to residence requirements, and upon terms otherwise not less favorable than the terms upon which such a license is issued to residents of that State; and
 
-&emsp;(3) develop, subject to safety requirements and military security, and in cooperation with the Governor (or his designee) of the State in which the installation or facility is located, procedures under which designated fish and game or conservation officials of that Statemay, at such time and under such conditions as may be agreed upon, have full access to that installation or facility to effect measures for the management, conservation, and harvesting of fish and game resources.
+&emsp;(3) develop, subject to safety requirements and military security, and in cooperation with the Governor (or his designee) of the State in which the installation or facility is located, procedures under which designated fish and game or conservation officials of that State may, at such time and under such conditions as may be agreed upon, have full access to that installation or facility to effect measures for the management, conservation, and harvesting of fish and game resources.
 
 (b)
 
@@ -43,4 +43,8 @@ Subsec. (c). Pub. L. 107–107, §2811(b)(2), inserted heading.
 Subsec. (d). Pub. L. 107–107, §2811(b)(3), inserted heading.
 
 Subsec. (e). Pub. L. 107–107, §2811(a)(1), redesignated subsec. (b) as (e), inserted heading, and transferred subsec. to end of section.
+
+#### Increased Hunting and Fishing Opportunities for Members of the Armed Forces, Retired Members, and Disabled Veterans
+
+Pub. L. 109–364, div. A, title X, §1077(a), Oct. 17, 2006, 120 Stat. 2406, provided that: “Consistent with section 2671 of title 10, United States Code, and using such funds as are made available for this purpose, the Secretary of Defense shall ensure that members of the Armed Forces, retired members, disabled veterans, and persons assisting disabled veterans are able to utilize lands under the jurisdiction of the Department of Defense that are available for hunting or fishing.”
 

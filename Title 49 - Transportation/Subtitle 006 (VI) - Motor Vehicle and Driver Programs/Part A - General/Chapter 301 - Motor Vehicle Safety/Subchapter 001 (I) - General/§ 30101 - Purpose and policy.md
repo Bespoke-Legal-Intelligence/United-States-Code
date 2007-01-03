@@ -32,7 +32,7 @@ Pub. L. 109–59, title IV, §4001, Aug. 10, 2005, 119 Stat. 1714, provided that
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set out as notes under sections 30111, 30115, 30118, 30123, and 30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
+Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set outas notes under sections 30111, 30115, 30118, 30123, and 30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -136,7 +136,7 @@ Specific procedure.—
 
 &emsp;&emsp;“(A)
 
-Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
+Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advancenotice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -148,7 +148,7 @@ Period.—Action under paragraphs (1) through (4) of section 2503 which was begu
 
 &emsp;&emsp;&emsp;“(ii)
 
-Action.—A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may include deferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register,together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\].
+Action.—A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may include deferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register, together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\].
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -212,7 +212,7 @@ Amendment or Repeal of Standard.—The Secretary may amend the standard describe
 
 Ex. Ord. No. 11357, June 6, 1967, 32 F.R. 8225, provided:
 
-By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
+By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\],and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

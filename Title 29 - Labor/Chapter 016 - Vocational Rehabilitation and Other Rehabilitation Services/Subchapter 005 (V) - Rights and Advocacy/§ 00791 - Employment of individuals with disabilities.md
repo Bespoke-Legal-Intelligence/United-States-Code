@@ -6,7 +6,7 @@ There is established within the Federal Government an Interagency Committee on E
 
 #### (b) Federal agencies; affirmative action program plans
 
-Each department, agency, and instrumentality (including the United States Postal Service and the Postal Rate Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Such plan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
+Each department, agency, and instrumentality (including the United States Postal Service and the Postal Regulatory Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Such plan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
 
 #### (c) State agencies; rehabilitated individuals, employment
 
@@ -30,7 +30,7 @@ An individual who, as a part of an individualized plan for employment under a St
 
 The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202.)
+(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub.
 Prior similar provisions were set out in section 38 of this title.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–435, §604(d), substituted “Postal Regulatory Commission” for “Postal Rate Office”.
 
 1998—Subsec. (a). Pub. L. 105–220, §408(a)(1)(A), substituted “President's Committees on Employment of People With Disabilities” for “President's Committees on Employment of the Handicapped” in third sentence.
 
@@ -94,7 +96,7 @@ Subsec. (f)(2). Pub. L. 99–506, §103(d)(2)(C), substituted “individuals wit
 
 1984—Subsec. (a). Pub. L. 98–221, §104(b)(3)(A)–(D), substituted “the Chairman of the Office of Personnel Management” and “Education and Health and Human Services” for “the Chairman of the Civil Service Commission” and “Health, Education, and Welfare”, respectively, in first sentence, “Secretary of Education and the Chairman of the Office of Personnel Management” for “Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission” in second sentence, “Office of Personnel Management” for “Civil Service Commission” in four places, and “Office” for “Commission”.
 
-Subsec. (b). Pub. L. 98–221, §104(b)(3)(C), (D), substituted “Office of Personnel Management” for “Civil Service Commission” and substituted “Office” for “Commission” in two places.
+Subsec. (b). Pub. L. 98–221, §104(b)(3)(C), (D), substituted “Office of Personnel Management” for “Civil Service Commission” and substituted “Office” for “Commission” in three places.
 
 Subsec. (c). Pub. L. 98–221, §104(b)(3)(C), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -116,7 +118,7 @@ Effective Date.—Except as provided in subsection (b), this title \[enacting se
 
 “(b)
 
-Compliance.—Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] shall comply with the amendments made by this subtitle \[subtitle B (§§121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of thistitle\], as soon as is practicable after the date of enactment of this Act \[Oct. 29, 1992\], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], but not later than October 1, 1993.”
+Compliance.—Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] shall comply with the amendments made by this subtitle \[subtitle B (§§121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of this title\], as soon as is practicable after the date of enactment of this Act \[Oct. 29, 1992\], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], but not later than October 1, 1993.”
 
 #### Effective Date of 1986 Amendment
 
@@ -174,7 +176,7 @@ Sec. 2. The Interagency Committee on Handicapped Employees shall also be referre
 
 #### Executive Order No. 12640
 
-Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
+Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord.No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
 
 #### Ex. Ord. No. 13163. Increasing the Opportunity for Individuals With Disabilities To Be Employed in the Federal Government
 
@@ -198,7 +200,7 @@ Section 1. <i>Increasing the Federal Employment Opportunities for Individuals wi
 
 Sec. 2. <i>Implementation</i>. Each Federal agency shall prepare a plan to increase the opportunities for individuals with disabilities to be employed in the agency. Each agency shall submit that plan to the Office of Personnel Management within 60 days from the date of this order.
 
-Sec. 3. <i>Authority to Develop Guidance</i>. The Office of Personnel Management shall develop guidance on the provisions of this order to increase the opportunitiesfor individuals with disabilities employed in the Federal Government.
+Sec. 3. <i>Authority to Develop Guidance</i>. The Office of Personnel Management shall develop guidance on the provisions of this order to increase the opportunities for individuals with disabilities employed in the Federal Government.
 
 Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
@@ -236,7 +238,7 @@ Section 1. <i>Establishment of Effective Written Procedures to Facilitate the Pr
 
 Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commission (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
 
-Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agencies must honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
+Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agenciesmust honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
 
 Sec. 4. <i>Implementation</i>. The EEOC shall issue guidance for the implementation of this order within 90 days from the date of this order.
 

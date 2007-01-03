@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the decision of the judge after a removal hearing may be appealed by either the alien or the Attorney General to the United States Court of Appeals for the District of Columbia Circuit by notice of appeal filed not later than 20 days after the date on which the order is issued. The order shall not be enforced during the pendency of an appeal under this subsection.
+&emsp;Subject to paragraph (2), the decision of the judge after a removal hearing may be appealedby either the alien or the Attorney General to the United States Court of Appeals for the District of Columbia Circuit by notice of appeal filed not later than 20 days after the date on which the order is issued. The order shall not be enforced during the pendency of an appeal under this subsection.
 
 #### (2) Automatic appeals in cases of permanent resident aliens in which no summary provided
 

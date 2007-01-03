@@ -10,7 +10,7 @@ Prior to the 1968 amendment of section 20 of act July 22, 1954, this section con
 
 #### Amendments
 
-1968—Pub. L. 90–496 substituted provisions that the salaries and travel allowances of all officials connected with the executive and legislative departments of the government of the Virgin Islands be paid by the government of the Virgin Islands at rates prescribed by the laws of the Virgin Islands for provisions that the salaries of the Governor, the Government Secretary, the government comptroller, and their immediate staffs be paid by the United States, and provisions that the salaries of the heads of the executive departments be paid by the government of the Virgin Islands, such salaries to be paid without the necessity of further appropriations therefor, if the legislature fails to make an appropriation for such salaries.
+1968—Pub. L. 90–496 substituted provisions that the salaries and travel allowances of all officials connectedwith the executive and legislative departments of the government of the Virgin Islands be paid by the government of the Virgin Islands at rates prescribed by the laws of the Virgin Islands for provisions that the salaries of the Governor, the Government Secretary, the government comptroller, and their immediate staffs be paid by the United States, and provisions that the salaries of the heads of the executive departments be paid by the government of the Virgin Islands, such salaries to be paid without the necessity of further appropriations therefor, if the legislature fails to make an appropriation for such salaries.
 
 1958—Pub. L. 85–851 provided for the payment of the salary of the government comptroller by the United States instead of by the government of the Virgin Islands.
 
@@ -38,7 +38,7 @@ Pub. L. 96–597, title VI, §607, Dec. 24, 1980, 94 Stat. 3483, as amended by P
 
 &emsp;“(4) quarterly goals and timetables for implementing the plan. The plan shall also indicate that the Governor has the necessary authority to implement the plan.
 
-“(c) Not later than thirty days after the close of each quarter which occurs after the plan has been transmitted to the Congress, the respective Governor shall submit a report to the Secretary of the Interior and the Congress describing in detail the success or failure ofsuch territory in meeting the goals and timetables described in such plan.”
+“(c) Not later than thirty days after the close of each quarter which occurs after the plan has been transmitted to the Congress, the respective Governor shall submit a report to the Secretary of the Interior and the Congress describing in detail the success or failure of such territory in meeting the goals and timetables described in such plan.”
 
 #### Authorization of Appropriations for Grants for Anticipated Deficits During Fiscal Years 1979 Through 1981; Terms and Conditions; Report on Financial Condition; Contents
 

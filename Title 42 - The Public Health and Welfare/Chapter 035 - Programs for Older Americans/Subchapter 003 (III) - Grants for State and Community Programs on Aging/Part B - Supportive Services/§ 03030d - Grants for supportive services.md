@@ -34,19 +34,19 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(7) services designed to enable older individuals to attain and maintain physical and mental well-being through programs of regular physical activity, exercise, music therapy, art therapy, and dance-movement therapy;
 
-&emsp;(8) services designed to provide health screening to detect or prevent illnesses, or both, that occur most frequently in older individuals;
+&emsp;(8) services designed to provide health screening (including mental health screening) to detect or prevent illnesses, or both, that occur most frequently in older individuals;
 
 &emsp;(9) services designed to provide, for older individuals, preretirement counseling and assistance in planning for and assessing future post-retirement needs with regard to public and private insurance, public benefits, lifestyle changes, relocation, legal matters, leisure time, and other appropriate matters;
 
 &emsp;(10) services of an ombudsman at the State level to receive, investigate, and act on complaints by older individuals who are residents of long-term care facilities and to advocate for the well-being of such individuals;
 
-&emsp;(11) services which are designed to meet the unique needs of older individuals who are disabled, and of older individuals who provide uncompensated care to their adult children with disabilities;
+&emsp;(11) provision of services and assistive devices (including provision of assistive technology services and assistive technology devices) which are designed to meet the unique needs of older individuals who are disabled, and of older individuals who provide uncompensated care to their adult children with disabilities;
 
 &emsp;(12) services to encourage the employment of older workers, including job and second career counseling and, where appropriate, job development, referral, and placement, and including the coordination of the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.);
 
 &emsp;(13) crime prevention services and victim assistance programs for older individuals;
 
-&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health, employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
+&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
 &emsp;(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI of this chapter and section 3027(a)(12) of this title;
 
@@ -60,13 +60,17 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(20) services designed to provide information and training for individuals who are or may become guardians or representative payees of older individuals, including information on the powers and duties of guardians and representative payees and on alternatives to guardianships;
 
-&emsp;(21) services to encourage and facilitate regular interaction between school-age children and older individuals, including visits in long-term care facilities, multipurpose senior centers, and other settings;
+&emsp;(21) services to encourage and facilitate regular interaction between students and older individuals, including services for older individuals with limited English proficiency and visits in long-term care facilities, multipurpose senior centers, and other settings;
 
-&emsp;(22) in-home services for frail older individuals, including individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction, and their families, including in-home services defined by a State agency in the State plan submitted under section 3027 of this title, taking into consideration the age, economic need, and noneconomic and nonhealth factors contributing to the frail condition and need for services of the individuals described in this paragraph, and in-home services defined by an area agency on aging in the area plan submitted under section 3026 of this title.<sup>1</sup>
+&emsp;(22) in-home services for frail older individuals, including individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction, and their families, including in-home services defined by a State agency in the State plan submitted under section 3027 of this title, taking into consideration the age, economic need, and noneconomic and nonhealth factors contributing to the frail condition and need for services of the individuals described in this paragraph, and in-home services defined by an area agency on aging in the area plan submitted under section 3026 of this title;
 
-&emsp;(23) any other services necessary for the general welfare of older individuals;
+&emsp;(23) services designed to support States, area agencies on aging, and local service providers in carrying out and coordinating activities for older individuals with respect to mental health services, including outreach for, education concerning, and screening for such services, and referral to such services for treatment;
 
-> if such services meet standards prescribed by the Assistant Secretary and are necessary forthe general welfare of older individuals. For purposes of paragraph (5), the term “client assessment through case management” includes providing information relating to assistive technology.
+&emsp;(24) activities to promote and disseminate information about life-long learning programs, including opportunities for distance learning; and
+
+&emsp;(25) any other services necessary for the general welfare of older individuals;
+
+> if such services meet standards prescribed by the Assistant Secretary and are necessary for the general welfare of older individuals. For purposes of paragraph (5), the term “client assessment through case management” includes providing information relating to assistive technology.
 
 #### (b) Existing facilities
 
@@ -82,13 +86,23 @@ In carrying out the provisions of this part, to more efficiently and effectively
 
 Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a) of this section.
 
-(Pub. L. 89–73, title III, §321, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1535; amended Pub. L. 97–115, §§3(d), 10(a)–(c), Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §312, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §§136(d), 146(b), 182(m), Nov. 29, 1987, 101 Stat. 943, 950, 967; Pub. L. 102–375, title III, §312, title VII, §708(b), title IX, §904(a)(15), Sept. 30, 1992, 106 Stat. 1237, 1292, 1308; Pub. L. 103–171, §§2(12), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §311, title VIII, §801(c)(5), Nov. 13, 2000, 114 Stat. 2251, 2292.)
+(Pub. L. 89–73, title III, §321, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1535; amended Pub. L. 97–115, §§3(d), 10(a)–(c), Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §312, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §§136(d), 146(b), 182(m), Nov. 29, 1987, 101 Stat. 943, 950, 967; Pub. L. 102–375, title III, §312, title VII, §708(b), title IX, §904(a)(15), Sept. 30, 1992, 106 Stat. 1237, 1292, 1308; Pub. L. 103–171, §§2(12), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §311, title VIII, §801(c)(5), Nov. 13, 2000, 114 Stat. 2251, 2292; Pub. L. 109–365, title III, §311, Oct. 17, 2006, 120 Stat. 2547.)
 
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(12), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(8). Pub. L. 109–365, §311(1), inserted “(including mental health screening)” after “provide health screening”.
+
+Subsec. (a)(11). Pub. L. 109–365, §311(2), substituted “provision of services and assistive devices (including provision of assistive technology services and assistive technology devices)” for “services”.
+
+Subsec. (a)(14)(B). Pub. L. 109–365, §311(3), inserted “(including mental health)” after “existing health”.
+
+Subsec. (a)(21). Pub. L. 109–365, §311(4), substituted “students” for “school-age children” and inserted “services for older individuals with limited English proficiency and” after “including”.
+
+Subsec. (a)(23) to (25). Pub. L. 109–365, §311(5)–(7), added pars. (23) and (24) and redesignated former par. (23) as (25).
 
 2000—Subsec. (a)(2). Pub. L. 106–501, §311(1)(A), substituted “and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals” for “or both”.
 

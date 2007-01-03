@@ -26,7 +26,7 @@ The words “special attorneys appointed under section 543” are substituted fo
 
 #### Intelligence and National Security Aspects of Espionage Prosecutions
 
-Pub. L. 108–177, title III, §341(b), Dec. 13, 2003, 117 Stat. 2616, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(v), Dec. 17, 2004, 118 Stat. 3692, provided that: “The Attorney General, acting through the Office of Intelligence Policy and Review of the Department of Justice, and in consultation with the Director of National Intelligence, acting through the Office of the National Counterintelligence Executive, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
+Pub. L. 108–177, title III, §341(b), Dec. 13, 2003, 117 Stat. 2616, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(v), Dec. 17, 2004, 118 Stat. 3692; Pub. L. 109–177, title V, §506(a)(9), Mar. 9, 2006, 120 Stat. 248, provided that: “The Attorney General, acting through the Assistant Attorney General for National Security, and in consultation with the Director of National Intelligence, acting through the Office of the National Counterintelligence Executive, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
 
 #### Use of Annuity Brokers in Structured Settlements
 
@@ -42,7 +42,7 @@ Authority To Select Annuity Broker for Structured Settlements.—In any structur
 
 #### Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan
 
-Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, afterconsultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
+Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
 
 #### Report to Congress Regarding Provisions of Law Considered Unconstitutional by the Department of Justice; Declaration of Such Position
 
@@ -68,7 +68,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (a) <i>Pre-filing Notice of a Complaint</i>. No litigation counsel shall file a complaint initiating civil litigation without first making a reasonable effort to notify all disputants about the nature of the dispute and to attempt to achieve a settlement, or confirming that the referring agency that previously handled the dispute has made a reasonable effort to notify the disputants and to achieve a settlement or has used its conciliation processes.
 
-(b) <i>Settlement Conferences</i>. As soon as practicable after ascertaining the nature of a dispute in litigation, and throughout the litigation, litigation counsel shall evaluate settlement possibilities and make reasonable efforts to settle the litigation. Such efforts shall include offering to participate in a settlement conference or moving the court for a conference pursuant to Rule 16 of the Federal Rules of Civil Procedure \[28 App. U.S.C.\] in an attempt to resolve the dispute without additional civil litigation.
+(b) <i>Settlement Conferences</i>. As soon as practicable after ascertaining the nature of a dispute in litigation, and throughout the litigation, litigation counsel shall evaluate settlement possibilities and make reasonable efforts to settle the litigation. Such efforts shall include offering to participate in a settlement conference or moving the court for a conference pursuant to Rule 16 of the Federal Rules of Civil Procedure \[28 U.S.C. App.\] in an attempt to resolve the dispute without additional civil litigation.
 
 (c) <i>Alternative Methods of Resolving the Dispute in Litigation</i>. Litigation counsel shall make reasonable attempts to resolve a dispute expeditiously and properly before proceeding to trial.
 
@@ -82,13 +82,13 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (1) <i>Review of Proposed Document Requests</i>. Each agency within the executive branch shall establish a coordinated procedure for the conduct and review of document discovery undertaken in litigation directly by that agency when that agency is litigation counsel. The procedure shall include, but is not necessarily limited to, review by a senior lawyer prior to service or filing of the request in litigation to determine that the request is not cumulative or duplicative, unreasonable, oppressive, unduly burdensome or expensive, taking into account the requirements of the litigation, the amount in controversy, the importance of the issues at stake in the litigation, and whether the documents can be obtained from some other source that is more convenient, less burdensome, or less expensive.
 
-(2) <i>Discovery Motions</i>. Before petitioning a court to resolve a discovery motion or petitioning a court to impose sanctions for discovery abuses, litigation counsel shall attempt to resolve the dispute with opposing counsel. If litigation counsel makes a discovery motion concerning the dispute, he or she shall represent in that motion that any attempt at resolution was unsuccessful or impracticable under the circumstances.
+(2) <i>Discovery Motions</i>. Before petitioning a court to resolve a discovery motion or petitioning a court to impose sanctions for discovery abuses, litigation counsel shall attempt to resolve the dispute with opposing counsel. If litigation counsel makes a discovery motionconcerning the dispute, he or she shall represent in that motion that any attempt at resolution was unsuccessful or impracticable under the circumstances.
 
 (e) <i>Sanctions</i>. Litigation counsel shall take steps to seek sanctions against opposing counsel and opposing parties where appropriate.
 
 (1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petition the court to impose sanctions against those responsible for abusive practices.
 
-(2) Prior to filing a motion for sanctions, litigation counsel shall submit the motion for review to the sanctions officer, or his or her designee, within the litigation counsel's agency. Such officer or designee shall be a senior supervising attorney within the agency, and shall be licensed to practice law before a State court, courts of the District of Columbia, or courts of any territory or Commonwealth of the United States. The sanctions officer or designee shall also review motionsfor sanctions that are filed against litigation counsel, the United States, its agencies, or its officers.
+(2) Prior to filing a motion for sanctions, litigation counsel shall submit the motion for review to the sanctions officer, or his or her designee, within the litigation counsel's agency. Such officer or designee shall be a senior supervising attorney within the agency, and shall be licensed to practice law before a State court, courts of the District of Columbia, or courts of any territory or Commonwealth of the United States. The sanctions officer or designee shall also review motions for sanctions that are filed against litigation counsel, the United States, its agencies, or its officers.
 
 (f) <i>Improved Use of Litigation Resources</i>. Litigation counsel shall employ efficient case management techniques and shall make reasonable efforts to expedite civil litigation in cases under that counsel's supervision and control. This includes but is not limited to:
 
@@ -202,7 +202,7 @@ Sec. 8. <i>Scope.</i>
 
 (c) <i>Additional Guidance as to Scope</i>. The Attorney General shall have the authority to issue further guidance as to the scope of this order, except section 3, consistent with the purposes of this order.
 
-Sec. 9. <i>Conflicts with Other Rules</i>. Nothing in this order shall be construed to require litigation counsel or any agency to act in a manner contrary to the Federal Rules of Civil Procedure \[28 App. U.S.C.\], Tax Court Rules of Practice and Procedure \[26 App. U.S.C.\], State or Federal law, other applicable rules of practice or procedure, or court order.
+Sec. 9. <i>Conflicts with Other Rules</i>. Nothing in this order shall be construed to require litigation counsel or any agency to act in a manner contrary to the Federal Rules of Civil Procedure \[28 U.S.C. App.\], Tax Court Rules of Practice and Procedure, State or Federal law, other applicable rules of practice or procedure, or court order.
 
 Sec. 10. <i>Privileged Information</i>. Nothing in this order shall compel or authorize the disclosure of privileged information, sensitive law enforcement information, information affecting national security, or information the disclosure of which is prohibited by law.
 

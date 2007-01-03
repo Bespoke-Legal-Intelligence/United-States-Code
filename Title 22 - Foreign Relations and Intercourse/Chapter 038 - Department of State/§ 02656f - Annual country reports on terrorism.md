@@ -246,7 +246,7 @@ In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Se
 
 &emsp;“(4) The policy of the Department of State with respect to offering rewards for information on terrorist suspects, including any information on whether a reward has been posted for suspects involved in terrorist attacks listed in the report.
 
-&emsp;“(5) A list of each request by the United States for assistance in investigating terrorist attacks listed in the report, a list of each request by the United States for the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
+&emsp;“(5) A list of each request by the United States for assistance in investigating terrorist attacks listed in the report, a list of each request by the United Statesfor the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
 
 &emsp;“(6) A description of efforts made by United States officials since September 13, 1993 to bring to justice perpetrators of terrorist acts against United States citizens as listed in the report.
 

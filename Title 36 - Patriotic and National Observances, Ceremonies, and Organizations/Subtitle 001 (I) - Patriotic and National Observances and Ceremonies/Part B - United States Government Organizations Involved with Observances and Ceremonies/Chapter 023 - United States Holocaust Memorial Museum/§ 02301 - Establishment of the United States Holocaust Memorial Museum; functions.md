@@ -1,18 +1,22 @@
 ### §2301. Establishment of the United States Holocaust Memorial Museum; functions
 
-The United States Holocaust Memorial Museum (hereafter in this chapter referred to as the “Museum”) is an independent establishment of the United State <sup>1</sup> Government. The Museum shall—
+The United States Holocaust Memorial Museum (hereafter in this chapter referred to as the “Museum”) is an independent establishment of the United States Government. The Museum shall—
 
 &emsp;(1) provide for appropriate ways for the Nation to commemorate the Days of Remembrance, as an annual, national, civic commemoration of the Holocaust, and encourage and sponsor appropriate observances of such Days of Remembrance throughout the United States;
 
-&emsp;(2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306 <sup>2</sup> of this title; and
+&emsp;(2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306 <sup>1</sup> of this title; and
 
 &emsp;(3) carry out the recommendations of the President's Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
 
-(Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1030.)
+(Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1030; amended Pub. L. 109–284, §5(4), Sept. 27, 2006, 120 Stat. 1211.)
 
 #### Prior Provisions
 
 A prior section 2301, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related to the establishment and purposes of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
+
+#### Amendments
+
+2006—Pub. L. 109–284 substituted “United States Government” for “United State Government” in introductory provisions.
 
 #### Transfer of Auditors West Building (Annex 3); Responsibility for Repairs and Alterations
 
@@ -24,7 +28,5 @@ Pub. L. 101–45, title II, June 30, 1989, 103 Stat. 125, provided that:
 
 “In the event the Council ceases to exist, administrative jurisdiction of the Auditors West Building (Annex 3) shall revert to the General Services Administration.”
 
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Section 2306 of this title does not relate to cooperation with the Secretary or other Federal agencies.</i>
+<i><sup>1</sup></i><i> So in original. Section 2306 of this title does not relate to cooperation with the Secretary or other Federal agencies.</i>
 

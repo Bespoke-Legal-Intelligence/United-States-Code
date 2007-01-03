@@ -88,7 +88,7 @@ In subsection (b)(1)(B), the word “affirmation” is omitted because of 1:1.
 
 In subsection (b)(2), the text of 49 App.:2616(a) (1st sentence) is omitted as surplus because the Secretary of Transportation enforces programs the Secretary carries out unless otherwise provided. The words “the exercise of” are omitted as surplus. The words “duty or power” are substituted for “authority” for consistency in the revised title and with other titles of the Code. The words “to any officer or employee of the Department of Transportation” are omitted as surplus because of 49:322(b).
 
-In subsection (c)(1), the words “in accordance with section 554 of title 5” are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated. The words “for each violation” are omitted as surplus.
+In subsection (c)(1), the words “in accordance with section 554 of title 5” are omitted for consistency in therevised title and because 5:554 applies to a hearing on the record unless otherwise stated. The words “for each violation” are omitted as surplus.
 
 In subsection (c)(2), the words “relevant papers, books, documents, and other” are omitted as surplus. The words “(3) administer oaths and affirmatives” are omitted as surplus because of subsection (b)(1)(B) of this section.
 

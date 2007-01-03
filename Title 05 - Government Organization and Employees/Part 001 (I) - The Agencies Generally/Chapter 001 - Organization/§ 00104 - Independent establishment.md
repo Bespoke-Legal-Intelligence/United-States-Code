@@ -2,11 +2,11 @@
 
 For the purpose of this title, “independent establishment” means—
 
-&emsp;(1) an establishment in the executive branch (other than the United States Postal Service or the Postal Rate Commission) which is not an Executive department, military department, Government corporation, or part thereof, or part of an independent establishment; and
+&emsp;(1) an establishment in the executive branch (other than the United States Postal Service or the Postal Regulatory Commission) which is not an Executive department, military department, Government corporation, or part thereof, or part of an independent establishment; and
 
 &emsp;(2) the Government Accountability Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379; Pub. L. 91–375, §6(c)(2), Aug. 12, 1970, 84 Stat. 775; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379; Pub. L. 91–375, §6(c)(2), Aug. 12, 1970, 84 Stat. 775; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### Historical and Revision Notes
 
@@ -15,6 +15,8 @@ The section is supplied to avoid the necessity for defining “independent estab
 Certain agencies are not independent establishments under the definition since they are constituent agencies or parts of an independent establishment. However, these agencies would continue to be subject to the provisions of this title applicable to the independent establishment of which they are a constituent or part. Also, the definition does not expand or abridge any rights or authority possessed by these agencies as no substantive changes are intended, see section 7(a) of the bill.
 
 #### Amendments
+
+2006—Par. (1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2004—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

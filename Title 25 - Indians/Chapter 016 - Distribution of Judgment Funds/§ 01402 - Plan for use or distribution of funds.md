@@ -40,7 +40,7 @@ In subsec. (a), “United States Claims Court” \[now United States Court of Fe
 
 Subsec. (b). Pub. L. 97–458 added subsec. (b). Former subsec. (b) redesignated (e).
 
-Subsec. (c). Pub. L. 97–458 redesignated second sentence of subsec. (a) as subsec. (c) and substituted “he shall submit to the Congress within the one-year period proposed legislation to authorize use or distribution ofsuch funds, together with a report thereon” for “he shall submit, within such one hundred and eighty-day period, proposed legislation as provided in section 1405(b) of this title”. Former subsec. (c) respecting notification of affected Indian tribe on the date of submission of the plan covered in part in subsec. (a) as to provision for a copy of the plan.
+Subsec. (c). Pub. L. 97–458 redesignated second sentence of subsec. (a) as subsec. (c) and substituted “he shall submit to the Congress within the one-year period proposed legislation to authorize use or distribution of such funds, together with a report thereon” for “he shall submit, within such one hundred and eighty-day period, proposed legislation as provided in section 1405(b) of this title”. Former subsec. (c) respecting notification of affected Indian tribe on the date of submission of the plan covered in part in subsec. (a) as to provision for a copy of the plan.
 
 Subsec. (d). Pub. L. 97–458 added subsec. (d).
 

@@ -40,7 +40,7 @@ Congress finds that—
 
 #### (b) Purpose
 
-It is the purpose of this chapter to authorize the Secretary of Agriculture (hereafter in thischapter referred to as the “Secretary”), with respect to non-Federal forest lands in the United States, and forest lands in foreign countries, of the United States, to assist in—
+It is the purpose of this chapter to authorize the Secretary of Agriculture (hereafter in this chapter referred to as the “Secretary”), with respect to non-Federal forest lands in the UnitedStates, and forest lands in foreign countries, of the United States, to assist in—
 
 &emsp;(1) the establishment of a coordinated and cooperative Federal, State, and local forest stewardship program for management of the non-Federal forest lands;
 

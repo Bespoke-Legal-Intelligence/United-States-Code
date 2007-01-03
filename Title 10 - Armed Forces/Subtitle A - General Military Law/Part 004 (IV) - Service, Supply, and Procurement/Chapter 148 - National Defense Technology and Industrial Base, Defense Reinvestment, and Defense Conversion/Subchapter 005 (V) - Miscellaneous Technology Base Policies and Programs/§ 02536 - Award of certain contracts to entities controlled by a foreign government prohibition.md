@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 1996—Subsec. (b). Pub. L. 104–201 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
 
-Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States.”
+Waiver Authority.—The Secretary concernedmay waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States.”
 
 1993—Pub. L. 103–160, §842(c)(1), substituted “Award of certain contracts to entities controlled by a foreign government: prohibition” for “Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government.” as section catchline.
 

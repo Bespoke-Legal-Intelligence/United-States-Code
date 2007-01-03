@@ -26,7 +26,7 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “accredited” when applied to any program of nurse education means a program accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education and when applied to a hospital, school, college, or university (or a unit thereof) means a hospital, school, college, or university (or a unit thereof) which is accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education. For the purpose of this paragraph, the Secretary of Education shall publish a list of recognized accrediting bodies, and of State agencies, which the Secretary of Education determines to be reliable authority as to the quality of education offered.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “accredited” when applied to anyprogram of nurse education means a program accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education and when applied to a hospital, school, college, or university (or a unit thereof) means a hospital, school, college, or university (or a unit thereof) which is accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education. For the purpose of this paragraph, the Secretary of Education shall publish a list of recognized accrediting bodies, and of State agencies, which the Secretary of Education determines to be reliable authority as to the quality of education offered.
 
 #### (B) New programs
 
@@ -50,7 +50,7 @@ As used in this subchapter:
 
 #### (11) Health care facility
 
-&emsp;The term “health care facility” means an Indian Health Service health center, a Native Hawaiian health center, a hospital, a Federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, aState or local department of public health, a skilled nursing facility, an ambulatory surgical center, or any other facility designated by the Secretary.
+&emsp;The term “health care facility” means an Indian Health Service health center, a Native Hawaiian health center, a hospital, a Federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, a State or local department of public health, a skilled nursing facility, an ambulatory surgical center, or any other facility designated by the Secretary.
 
 #### (12) Home health agency
 

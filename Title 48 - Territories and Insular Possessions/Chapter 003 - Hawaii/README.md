@@ -168,11 +168,11 @@ Sec. 18. \[Maritime matters.\] (a) Nothing contained in this Act shall be constr
 
 “(b) Effective on the admission of the State of Hawaii into the Union—
 
-&emsp;“(1) the first sentence of section 506 of the Merchant Marine Act, 1936 as amended (46 U.S.C., sec. 1156), is amended by inserting before the words ‘an island possession or island territory’, the words ‘the State of Hawaii, or’;
+&emsp;“(1) the first sentence of section 506 of the Merchant Marine Act, 1936 as amended (46 U.S.C. \[App.\], sec. 1156) \[now 46 U.S.C. 53101 note\], is amended by inserting before the words ‘an island possession or island territory’, the words ‘the State of Hawaii, or’;
 
-&emsp;“(2) section 605(a) of the Merchant Marine Act, 1936, as amended (46 U.S.C., sec. 1175), is amended by inserting before the words ‘an island possession or island territory’, the words ‘the State of Hawaii, or’; and
+&emsp;“(2) section 605(a) of the Merchant Marine Act, 1936, as amended (46 U.S.C. \[App.\], sec. 1175\[(a)\]) \[now 46 U.S.C. 53101 note\], is amended by inserting before the words ‘an island possession or island territory’, the words ‘the State of Hawaii, or’; and
 
-&emsp;“(3) the second paragraph of section 714 of the Merchant Marine Act, 1936, as amended (46 U.S.C., sec. 1204), is amended by inserting before the words ‘an island possession or island territory’ the words ‘the State of Hawaii, or’. (As amended Pub. L. 86–624, §46, July 12, 1960, 74 Stat. 423.)
+&emsp;“(3) the second paragraph of section 714 of the Merchant Marine Act, 1936, as amended (46 U.S.C. \[App.\], sec. 1204) \[now 46 U.S.C. 57531\], is amended by inserting before the words ‘an island possession or island territory’ the words ‘the State of Hawaii, or’. (As amended Pub. L. 86–624, §46, July 12, 1960, 74 Stat. 423.)
 
 “
 

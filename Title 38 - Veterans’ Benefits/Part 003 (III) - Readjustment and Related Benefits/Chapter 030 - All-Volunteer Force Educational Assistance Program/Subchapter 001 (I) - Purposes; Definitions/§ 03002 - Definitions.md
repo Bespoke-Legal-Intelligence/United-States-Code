@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 Prior sections 3002 to 3004 were renumbered sections 5102 to 5104 of this title, respectively.
 
-Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, related to reopening of disallowedclaims and to effective date of any subsequent awards, prior to repeal by Pub. L. 87–825, §§5(a), 7, Oct. 15, 1962, 76 Stat. 950, effective first day of second calendar month which begins after Oct. 15, 1962.
+Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, related to reopening of disallowed claims and to effective date of any subsequent awards, prior to repeal by Pub. L. 87–825, §§5(a), 7, Oct. 15, 1962, 76 Stat. 950, effective first day of second calendar month which begins after Oct. 15, 1962.
 
 Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title, respectively.
 
@@ -70,7 +70,7 @@ Pub. L. 100–689, §108(a)(1), inserted cl. (i) designation and added cl. (ii).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1994 Amendment
 

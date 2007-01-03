@@ -58,7 +58,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (3) Standard for approval
 
-&emsp;The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund. The Director may approve only mitigation plans that give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.
+&emsp;The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund. The Director may approve only mitigation plansthat give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.
 
 #### (4) Priority for mitigation assistance
 
@@ -122,7 +122,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (h) Oversight of mitigation plans
 
-The Director shall conduct oversight of recipients of mitigation assistance under this section to ensure that the assistance is used in compliance with the approved mitigation plans of the recipients and that matching funds certified under subsection (g) of this section are used in accordance with such certification.
+The Director shall conduct oversight of recipients of mitigation assistance under this sectionto ensure that the assistance is used in compliance with the approved mitigation plans of the recipients and that matching funds certified under subsection (g) of this section are used in accordance with such certification.
 
 #### (i) Recapture
 
@@ -154,6 +154,8 @@ The Director shall, in consultation and coordination with States and communities
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a) and (c), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
@@ -164,17 +166,19 @@ Subsec. (e)(3). Pub. L. 108–264, §103(a), inserted at end “The Director may
 
 Subsec. (e)(4). Pub. L. 108–264, §103(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “The Director shall make every effort to provide mitigation assistance under this section for mitigation plans proposing activities for repetitive loss structures and structures that have incurred substantial damage.”
 
-Subsecs. (g)(2), (3). Pub. L. 108–264, §103(e), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (g)(2), (3). Pub. L. 108–264, §103(e), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (m). Pub. L. 108–264, §103(c), added subsec. (m).
 
 #### Regulations
 
-Section 553(b) of Pub. L. 103–325 provided that: “Not later than 6 months after the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Federal Emergency Management Agency shall issue regulations to carry out section 1366 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104c\], as added by subsection (a).”
+Pub. L. 103–325, title V, §553(b), Sept. 23, 1994, 108 Stat. 2273, required the Director of the Federal Emergency Management Agency to issue regulations no later than 6 months after Sept. 23, 1994, to carry out this section.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (l) has been enacted.</i>
 

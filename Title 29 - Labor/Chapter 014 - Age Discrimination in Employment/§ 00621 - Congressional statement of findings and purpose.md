@@ -16,7 +16,7 @@
 
 #### Effective Date; Rules and Regulations
 
-Section 16, formerly §15, of Pub. L. 90–202, renumbered by Pub. L. 93–259, §28(b)(1), Apr. 8, 1974, 88 Stat.74, provided that: “This Act \[enacting this chapter\] shall become effective one hundred and eighty days after enactment \[Dec. 15, 1967\], except (a) that the Secretary of Labor may extend the delay in effective date of any provision of this Act up to and additional ninety days thereafter if he finds that such time is necessary in permitting adjustments to the provisions hereof, and (b) that on or after the date of enactment \[Dec. 15, 1967\] the Secretary of Labor is authorized to issue such rules and regulations as may be necessary to carry out its provisions.”
+Section 16, formerly §15, of Pub. L. 90–202, renumbered by Pub. L. 93–259, §28(b)(1), Apr. 8, 1974, 88 Stat. 74, provided that: “This Act \[enacting this chapter\] shall become effective one hundred and eighty days after enactment \[Dec. 15, 1967\], except (a) that the Secretary of Labor may extend the delay in effective date of any provision of this Act up to and additional ninety days thereafter if he finds that such time is necessary in permitting adjustments to the provisions hereof, and (b) that on or after the date of enactment \[Dec. 15, 1967\] the Secretary of Labor is authorized to issue such rules and regulations as may be necessary to carry out its provisions.”
 
 #### Short Title of 1996 Amendment
 
@@ -44,7 +44,7 @@ Functions vested by this section in Secretary of Labor or Civil Service Commissi
 
 #### Severability
 
-Pub. L. 101–433, title III, §301, Oct. 16, 1990, 104 Stat. 984, provided that: “If any provision of this Act \[see Short Title of 1990 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
+Pub. L. 101–433, title III, §301, Oct. 16, 1990, 104 Stat. 984, provided that: “If any provision of this Act \[see Short Title of 1990 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstances is heldto be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
 
 #### Congressional Finding
 

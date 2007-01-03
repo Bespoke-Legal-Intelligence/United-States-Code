@@ -26,7 +26,7 @@ Section 1 of Pub. L. 95–91 provided: “That this Act \[enacting this chapter 
 
 For short title of part E of title XXXI of div. C of Pub. L. 101–510, which enacted subchapter XIII of this chapter, as the “Department of Energy Science Education Enhancement Act”, see section 3161 of Pub. L. 101–510, set out as a note under section 7381 of this title.
 
-For short title of part A of title V of Pub. L. 103–382, which enacted subchapter XIV of this chapter, as the “Albert Einstein Distinguished Educator Fellowship Act of 1994”, see section 511 of Pub. L. 103–382, set out as a note under section 7382 of this title.
+For short title of part A of title V of Pub. L. 103–382, which enacted subchapter XIV of this chapter, as the“Albert Einstein Distinguished Educator Fellowship Act of 1994”, see section 511 of Pub. L. 103–382, set out as a note under section 7382 of this title.
 
 For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which enacted subchapter XV of this chapter, as the “Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999”, see section 3141 of Pub. L. 106–65, set out as a note under section 7383 of this title.
 

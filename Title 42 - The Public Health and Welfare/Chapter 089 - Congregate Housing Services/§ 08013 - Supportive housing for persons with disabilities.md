@@ -160,7 +160,7 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (A) Special project account
 
-&emsp;&emsp;The Secretary shall use the development cost limitations established under paragraph (1) to calculate the amount of financing to be made available to individual owners.Owners which incur actual development costs that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special project account. Such percentage shall be increased to 75 percent for owners which add energy efficiency features which (i) exceed the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title; (ii) substantially reduce the life-cycle cost of the housing; (iii) reduce gross rent requirements; and (iv) enhance tenant comfort and convenience.
+&emsp;&emsp;The Secretary shall use the development cost limitations established under paragraph (1) to calculate the amount of financing to be made available to individual owners. Owners which incur actual development costs that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special project account. Such percentage shall be increased to 75 percent for owners which add energy efficiency features which (i) exceed the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title; (ii) substantially reduce the life-cycle cost of the housing; (iii) reduce gross rent requirements; and (iv) enhance tenant comfort and convenience.
 
 #### (B) Uses
 
@@ -248,7 +248,7 @@ As used in this section—
 
 &emsp;&emsp;(D) which is approved by the Secretary as to financial responsibility.
 
-> &emsp;Such term includes a for-profit limited partnership the sole general partner of which is an organization meeting the requirements under subparagraphs (A), (B), (C), and (D) or a corporation wholly owned and controlled by an organization meeting the requirements under subparagraphs (A), (B), (C), and (D).
+> &emsp;Such term includes a for-profit limited partnership the sole general partner of which is an organization meeting the requirements undersubparagraphs (A), (B), (C), and (D) or a corporation wholly owned and controlled by an organization meeting the requirements under subparagraphs (A), (B), (C), and (D).
 
 &emsp;(7) The term “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States.
 
@@ -272,7 +272,7 @@ As used in this section—
 
 #### (4) Size limitation
 
-&emsp;Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, notmore than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units.
+&emsp;Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, not more than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units.
 
 #### (m) Authorization of appropriations
 
@@ -312,7 +312,7 @@ November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (n)(2), was in the 
 
 #### Amendments
 
-2000—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Tenant-based rental assistance provided under subsection (b)(1) of this section may be provided only through a public housing agency that has submitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) of this section for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan.”
+2000—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Tenant-based rental assistance provided under subsection (b)(1) of this section may be provided only through a public housing agency that hassubmitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) of this section for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan.”
 
 Subsec. (h)(1). Pub. L. 106–569, §845, inserted at end of concluding provisions “Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.”
 
@@ -336,7 +336,7 @@ Subsecs. (m), (n). Pub. L. 106–74, §512, added subsec. (m) and redesignated f
 
 1992—Pub. L. 102–550, §623(a)(1), reenacted section catchline without change.
 
-Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struckout former heading “General authority”, introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
+Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struck out former heading “General authority”, introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
 
 Subsec. (d)(1). Pub. L. 102–550, §623(a)(3)(A), which directed the substitution of “subsection (b)(2) of this section” for “this section”, was executed by making the substitution the first place appearing in first sentence, to reflect the probable intent of Congress.
 

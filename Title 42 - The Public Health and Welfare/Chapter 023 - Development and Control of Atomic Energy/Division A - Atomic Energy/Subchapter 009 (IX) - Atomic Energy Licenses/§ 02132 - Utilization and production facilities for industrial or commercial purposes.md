@@ -18,7 +18,3 @@ Any license for a utilization or production facility for industrial or commercia
 
 1970—Pub. L. 91–560 substituted provisions authorizing Commission to issue licenses for a utilization or production facility for industrial or commercial purposes under section 2133, except that license may be issued under section 2134(b), for such utilization or production facility, construction or operation of which was licensed under section 2134(b) before December 19, 1970 or constructed or operated under an arrangement with Commission entered into under Cooperative Power Reactor Demonstration Program, for provisions authorizing Commission to issue licenses pursuant to section 2133 of this title on a determination that such utilization or production facility has been sufficiently developed to be of practical value for industrial or commercial purposes.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

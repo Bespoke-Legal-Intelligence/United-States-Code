@@ -14,7 +14,7 @@ Grants made pursuant to this section shall (to the extent appropriations are mad
 
 &emsp;(3) provide at least 12 beds for an adolescent shelterbed program in the city of Gallup, New Mexico, which shall serve as a satellite facility to the Acoma/Canoncito/Laguna Hospital and the adolescent center located in Shiprock, New Mexico, for emergency crisis services, assessment, and family intervention;
 
-&emsp;(4) develop a relapse program for the purposes of identifying sources of job training andjob opportunity in the Gallup area and providing vocational training, job placement, and job retention services to recovering substance abusers; and
+&emsp;(4) develop a relapse program for the purposes of identifying sources of job training and job opportunity in the Gallup area and providing vocational training, job placement, and job retention services to recovering substance abusers; and
 
 &emsp;(5) provide continuing education and training of treatment staff in the areas of intensive outpatient services, development of family support systems, and case management in cooperation with regional colleges, community colleges, and universities.
 

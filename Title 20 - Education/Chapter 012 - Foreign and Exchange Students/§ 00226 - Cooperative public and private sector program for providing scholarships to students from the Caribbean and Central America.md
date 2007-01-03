@@ -54,7 +54,7 @@ As used in this section—
 
 &emsp;(1) The term “eligible country” means any country—
 
-&emsp;&emsp;(A) which is receiving assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of part II of that Act (22 U.S.C. 2346 and following; relating to the economic support fund); and
+&emsp;&emsp;(A) which is receiving assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to development assistance) or chapter4 of part II of that Act (22 U.S.C. 2346 and following; relating to the economic support fund); and
 
 &emsp;&emsp;(B) which is designated by the President as a beneficiary country pursuant to the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\].
 
@@ -64,7 +64,7 @@ As used in this section—
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (i) and (j)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of Title 22, see section 2293(d)(1) of Title 22. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (i) and (j)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of Title 22, see section 2293(d)(1) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (j)(1)(B), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 

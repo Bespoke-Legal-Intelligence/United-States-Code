@@ -10,7 +10,7 @@
 
 (e) The Chief Justice of the United States may designate and assign temporarily any district judge to serve as a judge of the Court of International Trade upon presentation to him of a certificate of necessity by the chief judge of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, §3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(c), 68 Stat. 1240; July 9, 1956, ch. 517, §1(b), 70 Stat. 497; July 14, 1956, ch. 589, §2, 70 Stat. 532; Pub. L. 85–755, §3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, §172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§203, 204, Nov. 6, 1978,92 Stat. 2660; Pub. L. 96–417, title V, §501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §109, Apr. 2, 1982, 96 Stat. 28.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, §3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(c), 68 Stat. 1240; July 9, 1956, ch. 517, §1(b), 70 Stat. 497; July 14, 1956, ch. 589, §2, 70 Stat. 532; Pub. L. 85–755, §3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, §172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§203, 204, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title V, §501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §109, Apr. 2, 1982, 96 Stat. 28.)
 
 #### Historical and Revision Notes
 
@@ -20,7 +20,7 @@ Section consolidates and simplifies all provisions of sections 17, 21 and 216 of
 
 Term “chief judge” was substituted for “senior circuit judge.” (See Reviser's Note under section 136 of this title.)
 
-Sections 17 and 21 of title 28, U.S.C., 1940 ed., were inconsistent insofar as the words “or in his absence, the circuit judges thereof,” appearing in said section 17 were not in section 21, and the words “senior circuit judge then present in the circuit,” appearing in section 21 were not in section 17. The revised section omits all such words and leaves designation of assignment to the chief judge of the circuit. If the chief judge is unable to perform his duties they devolve, under section 45 of this title, upon the circuit judge next in seniority of commission.
+Sections 17 and 21 of title 28, U.S.C., 1940 ed., were inconsistent insofar as the words “or in his absence, the circuit judges thereof,” appearing in said section 17were not in section 21, and the words “senior circuit judge then present in the circuit,” appearing in section 21 were not in section 17. The revised section omits all such words and leaves designation of assignment to the chief judge of the circuit. If the chief judge is unable to perform his duties they devolve, under section 45 of this title, upon the circuit judge next in seniority of commission.
 
 The provision of said section 17, that designation of a district judge to another circuit should be from an adjacent circuit if practicable, was omitted as an unnecessary restriction on the discretion of the Chief Justice.
 

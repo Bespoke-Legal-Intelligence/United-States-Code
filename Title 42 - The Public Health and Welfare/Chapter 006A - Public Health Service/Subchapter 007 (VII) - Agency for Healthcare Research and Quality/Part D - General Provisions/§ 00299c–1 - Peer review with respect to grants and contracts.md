@@ -22,7 +22,7 @@ The Director may not approve an application described in subsection (a)(1) of th
 
 #### (2) Membership
 
-&emsp;The members of any peer review group established under this section shall be appointedfrom among individuals who by virtue of their training or experience are eminently qualified to carry out the duties of such peer review group. Officers and employees of the United States may not constitute more than 25 percent of the membership of any such group. Such officers and employees may not receive compensation for service on such groups in addition to the compensation otherwise received for these duties carried out as such officers and employees.
+&emsp;The members of any peer review group established under this section shall be appointed from among individuals who by virtue of their training or experience are eminently qualified to carry out the duties of such peer review group. Officers and employees of the United States may not constitute more than 25 percent of the membership of any such group. Such officers and employees may not receive compensation for service on such groups in addition to the compensation otherwise received for these duties carried out as such officers and employees.
 
 #### (3) Duration
 
@@ -54,5 +54,5 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (c)(
 
 #### Prior Provisions
 
-A prior section 299c–1, act July 1, 1944, ch. 373, title IX, §922, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2201; amended Pub. L. 101–508, title IV, §4118(f)(2)(F), Nov. 5, 1990, 104 Stat. 1388–70; Pub. L. 102–410, §5(d), Oct. 13, 1992, 106 Stat. 2098, related to peer review with respect to grants and contracts, prior to the general amendment of this subchapter by Pub. L. 106–129.
+A prior section 299c–1, act July 1, 1944, ch. 373, title IX, §922, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2201; amended Pub. L. 101–508, title IV,§4118(f)(2)(F), Nov. 5, 1990, 104 Stat. 1388–70; Pub. L. 102–410, §5(d), Oct. 13, 1992, 106 Stat. 2098, related to peer review with respect to grants and contracts, prior to the general amendment of this subchapter by Pub. L. 106–129.
 

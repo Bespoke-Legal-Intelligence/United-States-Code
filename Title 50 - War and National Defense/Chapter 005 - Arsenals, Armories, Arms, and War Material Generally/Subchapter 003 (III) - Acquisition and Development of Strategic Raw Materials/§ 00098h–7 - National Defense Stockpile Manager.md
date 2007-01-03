@@ -24,7 +24,7 @@ Section was classified to section 98e–1 of this title prior to its renumbering
 
 1989—Subsec. (a). Pub. L. 101–189, §3313(b)(1), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4”.
 
-Subsec. (c). Pub. L. 101–189, §3313(b)(1), (2), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4” and inserted at end “The President may not delegate functions of the President under sections 98f and 98h–4 of this title.” after “Executive order.”
+Subsec. (c). Pub. L. 101–189, §3313(b)(1), (2), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4” and inserted at end “The President may notdelegate functions of the President under sections 98f and 98h–4 of this title.” after “Executive order.”
 
 Subsec. (d). Pub. L. 101–189, §3313(b)(1), (3), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4” and “section 98e(a)(6)” for “section 98e(b) or 98e(d)”.
 

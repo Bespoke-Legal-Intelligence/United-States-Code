@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (5) Historic peanut producer
 
-&emsp;The term “historic peanut producer” means a producer on a farm in the United States thatproduced or was prevented from planting peanuts during any or all of the 1998 through 2001 crop years.
+&emsp;The term “historic peanut producer” means a producer on a farm in the United States that produced or was prevented from planting peanuts during any or all of the 1998 through 2001 crop years.
 
 #### (6) Payment acres
 
@@ -58,5 +58,5 @@ In this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which enacted this subchapter, amended sections 1361, 1371, 1373, 1378, 1428, and 1441 of this title, and repealed sections 1357 to 1359a and 7271 of this title. For complete classification of subtitle C to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which enacted this subchapter, amended sections 1361, 1371, 1373, 1378, 1428, and 1441 of this title, and repealedsections 1357 to 1359a and 7271 of this title. For complete classification of subtitle C to the Code, see Tables.
 

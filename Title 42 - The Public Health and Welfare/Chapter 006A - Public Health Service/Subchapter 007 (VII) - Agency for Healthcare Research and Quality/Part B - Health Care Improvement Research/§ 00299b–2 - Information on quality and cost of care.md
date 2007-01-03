@@ -24,7 +24,7 @@ The Director shall—
 
 #### (2) Annual report
 
-&emsp;Beginning in fiscal year 2003, the Secretary, acting through the Director, shall submit to Congress an annual report on national trendsin the quality of health care provided to the American people.
+&emsp;Beginning in fiscal year 2003, the Secretary, acting through the Director, shall submit to Congress an annual report on national trends in the quality of health care provided to the American people.
 
 (July 1, 1944, ch. 373, title IX, §913, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1658.)
 

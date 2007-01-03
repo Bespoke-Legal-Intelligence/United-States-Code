@@ -1,6 +1,6 @@
 ### §460<i>l</i>–6. Appropriations for expenditure of land and water conservation fund moneys; transfers to miscellaneous receipts of Treasury
 
-Moneys covered into the fund shall be available for expenditure for the purposes of this part only when appropriated therefor. Such appropriations may be made without fiscal-year limitation. Moneys made available for obligation or expenditure from the fund or from the special account established under section 460<i>l</i>–6a(i)(1) <sup>1</sup> of this title may be obligated or expended only as provided in this part.
+Moneys covered into the fund shall be available for expenditure for the purposes of this part only when appropriated therefor. Such appropriations may be made without fiscal-year limitation. Moneys made available for obligation or expenditure from the fund or from the specialaccount established under section 460<i>l</i>–6a(i)(1) <sup>1</sup> of this title may be obligated or expended only as provided in this part.
 
 (Pub. L. 88–578. title I, §3, Sept. 3, 1964, 78 Stat. 899; Pub. L. 100–203, title V, §5201(f)(2), Dec. 22, 1987, 101 Stat. 1330–267.)
 

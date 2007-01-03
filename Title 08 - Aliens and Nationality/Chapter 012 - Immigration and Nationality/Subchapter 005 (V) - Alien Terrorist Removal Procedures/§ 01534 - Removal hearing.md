@@ -176,7 +176,7 @@ At no time shall the judge consider or provide for relief from removal based on�
 
 Not later than 3 months from December 28, 2001, the Attorney General shall submit to Congress a report concerning the effect and efficacy of alien terrorist removal proceedings, including the reasons why proceedings pursuant to this section have not been used by the Attorney General in the past and the effect on the use of these proceedings after the enactment of the USA PATRIOT Act of 2001 (Public Law 107–56).
 
-(June 27, 1952, ch. 477, title V, §504, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1260; amended Pub. L. 104–208, div. C, title III, §§308(g)(7)(B), (8)(B), 354(a)(1), (2), (b), 357, Sept. 30, 1996, 110 Stat. 3009–623, 3009–624, 3009–641 to 3009–644; Pub. L. 107–108, title III, §313, Dec. 28, 2001, 115 Stat. 1401.)
+(June 27, 1952, ch. 477, title V, §504, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1260; amended Pub. L. 104–208, div. C, title III, §§308(g)(7)(B), (8)(B), 354(a)(1), (2), (b), 357, Sept. 30, 1996, 110 Stat. 3009–623, 3009–624, 3009–641 to3009–644; Pub. L. 107–108, title III, §313, Dec. 28, 2001, 115 Stat. 1401.)
 
 #### References in Text
 
@@ -186,7 +186,7 @@ The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Ap
 
 Section 1254a(e) of this title, referred to in subsec. (k)(4), was in the original a reference to “section 244(e)”, meaning section 244(e) of act June 27, 1952, which was classified to section 1254(e) of this title. Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615, repealed section 244 and renumbered section 244A as section 244, which is classified to section 1254a of this title. For provisions relating to voluntary departure, see section 1229c of this title.
 
-The USA PATRIOT Act of 2001, referred to in subsec. (<i>l</i>), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The USA PATRIOT Act of 2001, referred to in subsec. (<i>l</i>), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 

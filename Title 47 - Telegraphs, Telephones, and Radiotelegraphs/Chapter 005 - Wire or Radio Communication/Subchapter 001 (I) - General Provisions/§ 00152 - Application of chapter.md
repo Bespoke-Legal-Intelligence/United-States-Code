@@ -42,7 +42,7 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except wher
 
 #### Effective Date of 1978 Amendment
 
-Section 7 of Pub. L. 95–234 provided that: “The amendments made by this Act \[enacting section 224 of this title, amending this section and sections 503 and 504 of this title, repealing sections 510 of this title, and enacting provisions set out as a note under section 609 of this title\] shall take effect on the thirtieth day after the date of enactment of this Act \[Feb. 21, 1978\]; except that the provisions of sections 503(b) and 510 of the Communications Act of 1934 \[sections 503(b) and 510 of this title\], as in effect on such date of enactment, shall continue to constitute the applicable law with the respect to any act or omission which occurs prior to such thirtieth day.”
+Section 7 of Pub. L. 95–234 provided that: “The amendments made by this Act \[enacting section 224 of this title, amending this section and sections 503 and504 of this title, repealing sections 510 of this title, and enacting provisions set out as a note under section 609 of this title\] shall take effect on the thirtieth day after the date of enactment of this Act \[Feb. 21, 1978\]; except that the provisions of sections 503(b) and 510 of the Communications Act of 1934 \[sections 503(b) and 510 of this title\], as in effect on such date of enactment, shall continue to constitute the applicable law with the respect to any act or omission which occurs prior to such thirtieth day.”
 
 #### Applicability of Consent Decrees and Other Law
 

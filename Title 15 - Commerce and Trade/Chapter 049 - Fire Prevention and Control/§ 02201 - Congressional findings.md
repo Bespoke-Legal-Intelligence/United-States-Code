@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) The fire service and the civil defense program in each locality would both benefit from closer cooperation.
 
-&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generally give insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated to the fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
+&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generally give insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated tothe fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
 
 &emsp;(8) There is a need for improved professional training and education oriented toward improving the effectiveness of the fire services, including an increased emphasis on preventing fires and on reducing injuries to firefighters.
 
@@ -62,39 +62,19 @@ Section 1 of Pub. L. 93–498 provided: “That this Act \[enacting this chapter
 
 #### Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, provided that:
-
-“(1)
-
-Requirement for study.—The Director of the Federal Emergency Management Agency shall conduct a study in conjunction with the National Fire Protection Association to—
-
-&emsp;“(A) define the current role and activities associated with the fire services;
-
-&emsp;“(B) determine the adequacy of current levels of funding; and
-
-&emsp;“(C) provide a needs assessment to identify shortfalls.
-
-“(2)
-
-Time for completion of study; report.—The Director shall complete the study under paragraph (1), and submit a report on the results of the study to Congress, within 18 months after the date of the enactment of this Act \[Oct. 30, 2000\].
-
-“(3)
-
-Authorization of appropriations.—There are authorized to be appropriated to the Federal Emergency Management Agency $300,000 for fiscal year 2001 to carry out the study required by paragraph (1).”
+Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the results of the study to Congress within 18 months of Oct. 30, 2000.
 
 #### Local Firefighter and Emergency Services Training
 
-Pub. L. 104–132, title VIII, §819, Apr. 24, 1996, 110 Stat. 1316, provided that:
+Pub. L. 104–132, title VIII, §819, Apr. 24, 1996, 110 Stat. 1316, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
 
 “(a)
 
-Grant Authorization.—The Attorney General, in consultation with the Director of the Federal Emergency Management Agency, may make grants to provide specialized training and equipment to enhance the capability of metropolitan fire and emergency service departments to respond to terrorist attacks.
+Grant Authorization.—The Attorney General, in consultation with the Administrator of the Federal Emergency Management Agency, may make grants to provide specialized training and equipment to enhance the capability of metropolitan fire and emergency service departments to respond to terrorist attacks.
 
 “(b)
 
 Authorization of Appropriations.—There are authorized to be appropriated for fiscal year 1997, $5,000,000 to carry out this section.”
-
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Arson Prevention and Control; Congressional Findings
 
@@ -218,7 +198,7 @@ The provisions of this Reorganization Plan shall become effective at such time o
 
 Today I am transmitting Reorganization Plan No. 3 of 1978. The plan improves Federal emergency management and assistance. By consolidating emergency preparedness, mitigation and response activities, it cuts duplicative administrative costs and strengthens our ability to deal effectively with emergencies.
 
-The plan, together with changes I will make through Executive action, would merge five agencies from theDepartments of Defense, Commerce, HUD, and GSA into one new agency.
+The plan, together with changes I will make through Executive action, would merge five agencies from the Departments of Defense, Commerce, HUD, and GSA into one new agency.
 
 For the first time, key emergency management and assistance functions would be unified and made directly accountable to the President and Congress. This will reduce pressures for increased costs to serve similar goals.
 
@@ -266,7 +246,7 @@ Most State and local governments have consolidated emergency planning, preparedn
 
 Each of the changes set forth in the plan is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. The plan does not call for abolishing any functions now authorized by law. The provisions in the plan for the appointment and pay of any head or officer of the new agency have been found by me to be necessary.
 
-I do not expect these actions to result in any significant changes in program expenditures for those authorities to be transferred. However, cost savings of between $10 to $15 million annually can be achieved by consolidating headquarters and regional facilities andstaffs. The elimination (through attrition) of about 300 jobs is also anticipated.
+I do not expect these actions to result in any significant changes in program expenditures for those authorities to be transferred. However, cost savings of between $10 to $15 million annually can be achieved by consolidating headquarters and regional facilities and staffs. The elimination (through attrition) of about 300 jobs is also anticipated.
 
 The emergency planning and response authorities involved in this plan are vitally important to the security and well-being of our Nation. I urge the Congress to approve it.
 

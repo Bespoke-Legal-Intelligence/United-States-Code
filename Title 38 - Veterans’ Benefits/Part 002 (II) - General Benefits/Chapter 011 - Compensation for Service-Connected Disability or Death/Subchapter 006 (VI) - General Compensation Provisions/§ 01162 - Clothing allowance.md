@@ -1,14 +1,20 @@
 ### §1162. Clothing allowance
 
-The Secretary under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $641 per year to each veteran who—
+The Secretary under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $662 per year to each veteran who—
 
 &emsp;(1) because of a service-connected disability, wears or uses a prosthetic or orthopedic appliance (including a wheelchair) which the Secretary determines tends to wear out or tear the clothing of the veteran; or
 
 &emsp;(2) uses medication which (A) a physician has prescribed for a skin condition which is due to a service-connected disability, and (B) the Secretary determines causes irreparable damage to the veteran's outergarments.
 
-(Added Pub. L. 92–328, title I, §103(a), June 30, 1972, 86 Stat. 394, §362; amended Pub. L. 94–71, title I, §103, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title III, §301, title IV, §404(24), Sept. 30, 1976, 90 Stat. 1377, 1379; Pub. L. 95–117, title III, §301, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title I, §103, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, §103, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title I, §103, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, §103, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §405(d), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§103, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §103, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §103, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §103, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §103, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, §103, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, §1103, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §§103, 112, Dec. 18, 1989, 103 Stat. 2063, 2065; Pub. L. 102–3, §4, Feb. 6, 1991, 105 Stat. 8; renumbered §1162, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §4, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, §3, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §4, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §4, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, §4, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §4, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(c), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, §307(c), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, §2(c), Nov. 22, 2005, 119 Stat. 2363.)
+(Added Pub. L. 92–328, title I, §103(a), June 30, 1972, 86 Stat. 394, §362; amended Pub. L. 94–71, title I, §103, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title III, §301, title IV, §404(24), Sept. 30, 1976, 90 Stat. 1377, 1379; Pub. L. 95–117, title III, §301, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title I, §103, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, §103, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title I, §103, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, §103, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §405(d), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§103, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §103, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §103, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §103, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §103, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, §103, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, §1103, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §§103, 112, Dec. 18, 1989, 103 Stat. 2063, 2065; Pub. L. 102–3, §4, Feb. 6, 1991, 105 Stat. 8; renumbered §1162, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §4, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, §3, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §4, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §4, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, §4, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §4, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(c), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, §307(c), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, §2(c), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–444, §9(c), Dec. 21, 2006, 120 Stat. 3315; Pub. L. 109–461, title X, §§1005(c), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468.)
 
 #### Amendments
+
+2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §1005(c), substituted “$662” for “$641”.
+
+Pub. L. 109–444, which substituted “$662” for “$641”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2005—Pub. L. 109–111 substituted “$641” for “$600”.
 
@@ -32,7 +38,7 @@ Pub. L. 102–83 renumbered section 362 of this title as this section.
 
 Pub. L. 102–3 substituted “$436” for “$414”.
 
-1989—Pub. L. 101–237, §112, substituted “Secretary under” for “Administrator under” and “Secretary shall” for “Administrator shall”, and substituted “who—” and pars. (1) and (2) for “who because of disability which is compensable under the provisions ofthis chapter, wears or uses prosthetic or orthopedic appliance or appliances (including a wheelchair) which the Administrator determines tends to wear out or tear the clothing of such a veteran.”
+1989—Pub. L. 101–237, §112, substituted “Secretary under” for “Administrator under” and “Secretary shall” for “Administrator shall”, and substituted “who—” and pars. (1) and (2) for “who because of disability which is compensable under the provisions of this chapter, wears or uses prosthetic or orthopedic appliance or appliances (including a wheelchair) which the Administrator determines tends to wear out or tear the clothing of such a veteran.”
 
 Pub. L. 101–237, §103, substituted “$414” for “$395”.
 

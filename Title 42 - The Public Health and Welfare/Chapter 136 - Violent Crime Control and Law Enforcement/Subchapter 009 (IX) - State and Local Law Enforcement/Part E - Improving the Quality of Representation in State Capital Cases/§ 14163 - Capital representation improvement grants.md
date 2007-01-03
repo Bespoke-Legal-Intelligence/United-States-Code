@@ -76,7 +76,7 @@ As used in subsection (c)(1) of this section, an effective system for providing 
 
 &emsp;&emsp;&emsp;&emsp;(I) Attorneys employed by a public defender program shall be compensated according to a salary scale that is commensurate with the salary scale of the prosecutor's office in the jurisdiction.
 
-&emsp;&emsp;&emsp;&emsp;(II) Appointed attorneys shall be compensated for actual time and service, computed on an hourly basis and at a reasonable hourly rate in light of the qualifications and experience of the attorney and the local market for legal representation in cases reflecting thecomplexity and responsibility of capital cases.
+&emsp;&emsp;&emsp;&emsp;(II) Appointed attorneys shall be compensated for actual time and service, computed on an hourly basis and at a reasonable hourly rate in light of the qualifications and experience of the attorney and the local market for legal representation in cases reflecting the complexity and responsibility of capital cases.
 
 &emsp;&emsp;&emsp;&emsp;(III) Non-attorney members of the defense team, including investigators, mitigation specialists, and experts, shall be compensated at a rate that reflects the specialized skills needed by those who assist counsel with the litigation of death penalty cases.
 

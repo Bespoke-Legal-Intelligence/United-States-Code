@@ -1,6 +1,6 @@
 ### §290k–1. Governor and Alternate Governor
 
-The Governor and Alternate Governor of the Bank, appointed under section 286a of this title, shall serve as Governor and Alternate Governor, respectively, of the Agency.
+The Governor and Alternate Governor of the Bank, appointed under section 286a of this title,shall serve as Governor and Alternate Governor, respectively, of the Agency.
 
 (Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 

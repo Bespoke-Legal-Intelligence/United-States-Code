@@ -86,7 +86,7 @@ Subsec. (h). Pub. L. 101–608, §111(a)(2), added subsec. (h).
 
 1988—Subsec. (d). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in last sentence.
 
-1983—Subsec. (g)(1). Pub. L. 97–414 clarified previous inconsistencies in 1982 amendment by substituting “section 206(d)(1)” for “section 206(c)(1)” and amending Pub. L. 97–35, §1211(h)(4), so as to strike out direction that par. (1) be amended by inserting “, Science and Transportation” after “on Commerce”.
+1983—Subsec. (g)(1). Pub. L. 97–414 clarified previous inconsistencies in 1982 amendment by substituting“section 206(d)(1)” for “section 206(c)(1)” and amending Pub. L. 97–35, §1211(h)(4), so as to strike out direction that par. (1) be amended by inserting “, Science and Transportation” after “on Commerce”.
 
 1981—Subsec. (g)(1). Pub. L. 97–35, §1211(h)(4), substituted reference to section 2061(c)(1) for reference to section 2061(e)(1), but probably should have substituted instead reference to section 2061(d)(1) in view of the redesignation of section 2061(e)(1) as section 2061(d)(1) by section 1205(a)(2) of Pub. L. 97–35 and the nonexistence of a section 2061(c)(1) of this title. Provisions of Pub. L. 97–35 directing that “, Science and Transportation” be inserted after “on Commerce” could not be executed in view of lack of such language in text. Section 1211(h)(4) of Pub. L. 97–35 was subsequently amended by Pub. L. 97–414. See 1983 Amendment note above.
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 94–284, §12(a)(2), added subsec. (g).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date of 1981 Amendment
 

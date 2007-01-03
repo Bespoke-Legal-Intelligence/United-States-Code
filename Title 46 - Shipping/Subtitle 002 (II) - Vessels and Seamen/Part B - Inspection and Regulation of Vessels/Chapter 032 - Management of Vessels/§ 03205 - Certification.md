@@ -18,11 +18,11 @@ Verification of Compliance.—The Secretary shall—
 
 (d)
 
-Enforcement.—At the request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 U.S.C. App. 91) of a vessel that is subject to this chapter under section 3202(a) of this title or to the International Safety Management Code, if the vessel does not have on board a Safety Management Certificate and a copy of a Document of Compliance for the vessel. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.
+Enforcement.—At the request of the Secretary, the Secretary of Homeland Security shall withhold or revoke the clearance required by section 60105 of this title of a vessel that is subject to this chapter under section 3202(a) of this title or to the International Safety Management Code, if the vessel does not have on board a Safety Management Certificate and a copy of a Document of Compliance for the vessel. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3929.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3929; amended Pub. L. 109–304, §15(10), Oct. 6, 2006, 120 Stat. 1703.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 3204 of this title.
+2006—Subsec. (d). Pub. L. 109–304, which directed the substitution of “Secretary of Homeland Security shall withhold or revoke the clearance required by section 60105 of this title” for “Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 App. U.S.C. 91)”, was executed by making the substitution for text which included “(46 U.S.C. App. 91)” rather than “(46 App. U.S.C. 91)”, to reflect the probable intent of Congress.
 

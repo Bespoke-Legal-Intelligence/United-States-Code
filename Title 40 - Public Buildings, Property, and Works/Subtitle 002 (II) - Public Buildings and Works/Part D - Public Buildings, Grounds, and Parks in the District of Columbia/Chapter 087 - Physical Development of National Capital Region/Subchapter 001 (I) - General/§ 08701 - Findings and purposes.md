@@ -4,7 +4,7 @@
 
 Findings.—Congress finds that—
 
-&emsp;(1) the location of the seat of government in the District of Columbia has brought aboutthe development of a metropolitan region extending well into adjoining territory in Maryland and Virginia;
+&emsp;(1) the location of the seat of government in the District of Columbia has brought about the development of a metropolitan region extending well into adjoining territory in Maryland and Virginia;
 
 &emsp;(2) effective comprehensive planning is necessary on a regional basis and of continuing importance to the federal establishment;
 

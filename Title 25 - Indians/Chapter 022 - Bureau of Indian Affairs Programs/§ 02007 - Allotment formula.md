@@ -42,7 +42,7 @@
 
 #### (B) Review of formula
 
-&emsp;&emsp;Not later than January 1, 2003, the Secretary shall review the formula established under this section and shall take such stepsas are necessary to increase the availability of counseling and therapeutic programs for students in off-reservation home-living (dormitory) schools and other Bureau-operated residential facilities.
+&emsp;&emsp;Not later than January 1, 2003, the Secretary shall review the formula established under this section and shall take such steps as are necessary to increase the availability of counseling and therapeutic programs for students in off-reservation home-living (dormitory) schools and other Bureau-operated residential facilities.
 
 #### (C) Review of standards
 

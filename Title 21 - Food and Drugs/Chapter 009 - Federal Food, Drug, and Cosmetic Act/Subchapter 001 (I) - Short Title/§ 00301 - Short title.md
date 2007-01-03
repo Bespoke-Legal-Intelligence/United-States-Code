@@ -12,7 +12,7 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 “(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940 the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
 
-“Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading ‘In the case of food:’, of the Food and Drugs Act of June 30,1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
+“Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading ‘In the case of food:’, of the Food and Drugs Act of June 30, 1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
 
 “(b) The provisions of such Act of June 30, 1906, as amended, \[sections 1 to 5, 7 to 15, and 372a of this title\] to the extent that they impose, or authorize the imposition of, any requirement imposed by section 403(k) of the Federal Food, Drug, and Cosmetic Act \[section 343(k) of this title\], shall remain in force until January 1, 1940.
 
@@ -26,9 +26,9 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title\], shall take effect twelve months after the date of its enactment \[June 25, 1938\]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: <i>Provided</i>, That the provisions of section 701 \[section 371 of this title\] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) \[section 343(i) of this title\] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 \[section 341 of this title\]: <i>Provided further</i>, That sections 502(j), 505, and 601(a) \[sections 352(j), 355, 361(a), respectively of this title\], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) \[section 361(a) of this title\], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: <i>Provided further</i>, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 \[section 321a of this title\]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 \[section 321b of this title\]; 41 Stat. 271, ch. 26\], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a \[section 372a of this title\]) shall remain in force and effect and be applicable to the provisions of this Act.”
 
-#### Hazardous Substances
+#### Short Title of 2006 Amendment
 
-Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
+Pub. L. 109–462, §1, Dec. 22, 2006, 120 Stat. 3469, provided that: “This Act \[enacting sections 379aa and 379aa–1 of this title, amending sections 331, 343, 352, and 381 of this title, and enacting provisions set out as notes under sections 331, 343, 352, 379aa, and 381 of this title\] may be cited as the ‘Dietary Supplement and Nonprescription Drug Consumer Protection Act’.”
 
 #### Short Title of 2005 Amendments
 
@@ -56,7 +56,7 @@ Pub. L. 107–281, §1, Nov. 6, 2002, 116 Stat. 1992, provided that: “This Act
 
 Pub. L. 107–250, §1(a), Oct. 26, 2002, 116 Stat. 1588, provided that: “This Act \[enacting sections 379i and 379j of this title and section 289g–3 of Title 42, The Public Health and Welfare, amending sections 321, 331, 333, 335a, 352, 353, 360, 360c, 360e, 360m, and 374 of this title, and enacting provisions set out as notes under sections 352, 360e, 360j, 360<i>l</i>, 379i, and 379j of this title and section 289g–3 of Title 42\] may be cited as the ‘Medical Device User Fee and Modernization Act of 2002’.”
 
-Pub. L. 107–188, title V, §501, June 12, 2002, 116 Stat. 687, provided that: “This subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending sections 356b, 379g, and 379h of this title and enacting provisions set out as notes under sections 356b and 379g of this title\]may be cited as the ‘Prescription Drug User Fee Amendments of 2002’.”
+Pub. L. 107–188, title V, §501, June 12, 2002, 116 Stat. 687, provided that: “This subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending sections 356b, 379g, and 379h of this title and enacting provisions set out as notes under sections 356b and 379g of this title\] may be cited as the ‘Prescription Drug User Fee Amendments of 2002’.”
 
 Pub. L. 107–109, §1, Jan. 4, 2002, 115 Stat. 1408, provided that: “This Act \[enacting sections 355b and 393a of this title and section 284m of Title 42, The Public Health and Welfare, amending sections 321, 355, 355a, and 379h of this title and sections 282, 284k, 284<i>l</i>, 285a–2, and 290b of Title 42, and enacting provisions set out as notes under sections 355 and 355a of this title and sections 284m and 289 of Title 42\] may be cited as the ‘Best Pharmaceuticals for Children Act’.”
 
@@ -112,7 +112,7 @@ Pub. L. 101–635, §1(a), Nov. 28, 1990, 104 Stat. 4583, provided that: “This
 
 Pub. L. 101–629, §1(a), Nov. 28, 1990, 104 Stat. 4511, provided that: “This Act \[enacting sections 360<i>l</i> and 383 of this title, amending sections 321, 333, 351, 353, and 360c to 360j of this title and sections 263b to 263n of Title 42, The Public Health and Welfare, redesignating sections 263b to 263n of Title 42 as sections 360gg to 360ss of this title, repealing section 263b of Title 42, and enacting provisions set out as notes under sections 333, 360c, 360i, 360j, 360hh and 383 of this title\] may be cited as the ‘Safe Medical Devices Act of 1990’.”
 
-Pub. L. 101–535, §1(a), Nov. 8, 1990, 104 Stat. 2353, provided that: “This Act \[enacting section 343–1 of this title, amending sections 321, 337, 343, 345, and 371 of thistitle, and enacting provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Nutrition Labeling and Education Act of 1990’.”
+Pub. L. 101–535, §1(a), Nov. 8, 1990, 104 Stat. 2353, provided that: “This Act \[enacting section 343–1 of this title, amending sections 321, 337, 343, 345, and 371 of this title, and enacting provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Nutrition Labeling and Education Act of 1990’.”
 
 #### Short Title of 1988 Amendments
 
@@ -183,4 +183,8 @@ Pub. L. 86–618, §1, July 12, 1960, 74 Stat. 397, provided: “That this Act \
 #### Short Title of 1958 Amendment
 
 Pub. L. 85–929, §1, Sept. 6, 1958, 72 Stat. 1784, provided: “That this Act \[amending sections 321, 331, 342, 346, 348 of this title and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321, 342, and 451 of this title\] may be cited as the ‘Food Additives Amendment of 1958’.”
+
+#### Hazardous Substances
+
+Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
 

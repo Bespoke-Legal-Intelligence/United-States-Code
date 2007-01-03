@@ -14,7 +14,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 102–182, Dec. 4,1991, 105 Stat. 1245, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 102–182, Dec. 4, 1991, 105 Stat. 1245, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 
@@ -70,7 +70,7 @@ Industry.—The term ‘industry’ means any corporate or private sector entity
 
 &emsp;“(10) The raw materials of biological agents are difficult to use as an indicator of an offensive military program because the same materials occur in nature or can be used to produce a wide variety of products.
 
-&emsp;“(11) Some biological products are genetically manipulated to develop new commercial products, optimizing production and ensuring the integrity of the product, making it difficult to distinguish between legitimate commercial activities and offensive military activities.
+&emsp;“(11) Some biological products are genetically manipulated to develop new commercial products, optimizing production and ensuring the integrity of theproduct, making it difficult to distinguish between legitimate commercial activities and offensive military activities.
 
 &emsp;“(12) Only a small culture of a biological agent and some growth medium are needed to produce a large amount of biological agents with the potential for offensive purposes.
 
@@ -92,7 +92,7 @@ National Security Trial Investigations and Trial Visits.—The President shall c
 
 “(b)
 
-United States Industry Trial Investigations and Trial Visits.—The President shall take all appropriate steps to conduct or sponsor a series of United States industry trial investigations and trial visits, both during and following negotiations to develop a compliance protocol to the Biological Weapons Convention, with the objective of ensuring that the compliance procedures of the protocol are effective and adequately protect the national security and the concerns of affected United States industries and research institutions. These trial investigations and trial visits shall be conducted at such sites as academic institutions,vaccine production facilities, and pharmaceutical and biotechnology firms in the United States.
+United States Industry Trial Investigations and Trial Visits.—The President shall take all appropriate steps to conduct or sponsor a series of United States industry trial investigations and trial visits, both during and following negotiations to develop a compliance protocol to the Biological Weapons Convention, with the objective of ensuring that the compliance procedures of the protocol are effective and adequately protect the national security and the concerns of affected United States industries and research institutions. These trial investigations and trial visits shall be conducted at such sites as academic institutions, vaccine production facilities, and pharmaceutical and biotechnology firms in the United States.
 
 “(c)
 

@@ -26,7 +26,7 @@ This subchapter shall be deemed to complement the policies and direction set for
 
 It is the purpose of this subchapter to authorize the Secretary to expand research activities to encompass international forestry and natural resource issues on a global scale.
 
-(Pub. L. 95–307, §2, June 30, 1978, 92 Stat. 353; Pub. L. 101–513, title VI, §611(a)(1), formerly §607(a)(1), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(a)(1), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 105–185, title II, §253(a), June 23, 1998, 112 Stat. 558.)
+(Pub. L. 95–307, §2, June 30, 1978, 92 Stat. 353; Pub. L. 101–513, title VI, §611(a)(1), formerly§607(a)(1), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(a)(1), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 105–185, title II, §253(a), June 23, 1998, 112 Stat. 558.)
 
 #### References in Text
 
@@ -46,7 +46,7 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 #### Effective Date
 
-Section 9 of Pub. L. 95–307 which provided that Pub. L. 95–307 (enacting this subchapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1600 of this title) is effectiveOct. 1, 1978, was amended generally by Pub. L. 101–624 and is classified to section 1648 of this title.
+Section 9 of Pub. L. 95–307 which provided that Pub. L. 95–307 (enacting this subchapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1600 of this title) is effective Oct. 1, 1978, was amended generally by Pub. L. 101–624 and is classified to section 1648 of this title.
 
 #### Short Title
 

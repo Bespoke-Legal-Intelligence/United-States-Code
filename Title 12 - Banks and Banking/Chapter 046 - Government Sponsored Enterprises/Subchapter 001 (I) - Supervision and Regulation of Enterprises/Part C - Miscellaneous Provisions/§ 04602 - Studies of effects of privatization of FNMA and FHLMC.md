@@ -34,7 +34,7 @@ The Federal National Mortgage Association and the Federal Home Loan Mortgage Cor
 
 #### (2) Direct report
 
-&emsp;The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation may each report directly to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on its own analysis of the desirability and feasibility of repealing the Federal charters of the enterprises, eliminating any Federal sponsorship, and allowing theenterprises to continue to operate as fully private entities.
+&emsp;The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation may each report directly to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on its own analysis of the desirability and feasibility of repealing the Federal charters of the enterprises, eliminating any Federal sponsorship, and allowing the enterprises to continue to operate as fully private entities.
 
 (Pub. L. 102–550, title XIII, §1355, Oct. 28, 1992, 106 Stat. 3970.)
 

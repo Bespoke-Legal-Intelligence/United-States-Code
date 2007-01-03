@@ -4,18 +4,9 @@
 | :--- | ---: |
 | [1501\.](%C2%A7%2001501%20-%20Congressional%20statement%20of%20policy.md) | Congressional statement of policy. |
 | [1502\.](%C2%A7%2001502%20-%20Establishment.md) | Establishment. |
-| (a) | Independent agency within executive branch. |
-| (b) | Repealed. |
 | [1503\.](%C2%A7%2001503%20-%20Contributions.md) | Contributions. |
 | [1504\.](%C2%A7%2001504%20-%20Functions%20and%20powers.md) | Functions and powers. |
-| (a) | Advice to President and Congress; studies and surveys; plans; annual report. |
-| (b) | Contract authority. |
-| (c) | Hearings. |
-| (d) | Cooperation with other agencies. |
 | [1505\.](%C2%A7%2001505%20-%20Membership.md) | Membership. |
-| (a) | Appointment; terms of office; Chairman; vacancies. |
-| (b) | Compensation; travel expenses. |
-| (c) | Professional and technical personnel. |
 | [1506\.](%C2%A7%2001506%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

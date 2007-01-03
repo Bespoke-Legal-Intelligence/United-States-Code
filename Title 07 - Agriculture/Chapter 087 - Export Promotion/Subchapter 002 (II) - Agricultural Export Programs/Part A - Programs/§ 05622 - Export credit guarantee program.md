@@ -122,10 +122,6 @@ The Secretary and the United States Trade Representative shall consult on a regu
 
 (Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289.)
 
-#### References in Text
-
-The cargo preference laws, referred to in subsec. (e), include act Mar. 26, 1934, ch. 90, 48 Stat. 500, and act Aug. 26, 1954, ch. 936, 68 Stat. 832, which are classified to sections 1241–1 and 1241, respectively, of Title 46, Appendix, Shipping.
-
 #### Prior Provisions
 
 A prior section 202 of Pub. L. 95–501 enacted section 1707c of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.

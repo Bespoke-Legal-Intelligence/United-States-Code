@@ -48,5 +48,9 @@ Subsec. (b)(3), (4). Pub. L. 106–386, §1101(a)(3)(A)(iii), added pars. (3) an
 
 Subsec. (c). Pub. L. 106–386, §1101(a)(3)(B), added subsec. (c).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -5,35 +5,12 @@
 | Sec. |  |
 | :--- | ---: |
 | [4201\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004201%20-%20Filing%20of%20confidential%20declarations%20by%20private%20persons.md) | Filing of confidential declarations by private persons. |
-| (a) | In general. |
-| (b) | Place of filing. |
 | [4202\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004202%20-%20Contents%20of%20declarations.md) | Contents of declarations. |
 | [4203\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004203%20-%20Confidentiality%20of%20declarations.md) | Confidentiality of declarations. |
-| (a) | Period of confidentiality. |
-| (b) | Maintenance of confidentiality to prevent prejudice. |
-| (c) | Loss of rights. |
 | [4204\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004204%20-%20Ineligibility%20to%20file%20valid%20declarations.md) | Ineligibility to file valid declarations. |
-| (a) | In general. |
-| (b) | “Original source” defined. |
-| (c) | Notice of invalidity. |
 | [4205\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004205%20-%20Rights%20of%20declarants%3B%20participation%20in%20actions%2C%20awards.md) | Rights of declarants; participation in actions, awards. |
-| (a) | In general. |
-| (b) | Civil action. |
-| (c) | Criminal conviction. |
-| (d) | Share of funds and assets. |
-| (e) | Repealed. |
-| (f) | Appropriate Federal banking agency exception. |
 | [4206\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004206%20-%20Rights%20of%20declarants%3B%20notifications%3B%20Government%20accountability.md) | Rights of declarants; notifications; Government accountability. |
-| (a) | In general. |
-| (b) | Notice of decision not to pursue. |
-| (c) | Judgment, order, or settlement. |
-| (d) | Notice of pendency of investigation or proceeding. |
-| (e) | Time for notices. |
-| (f) | Confidentiality of notices. |
 | [4207\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004207%20-%20Unreviewed%20declarations%3B%20petition%20to%20pursue%20action%20as%20private%20contractor.md) | Unreviewed declarations; petition to pursue action as private contractor. |
-| (a) | Notification. |
-| (b) | Contents of response. |
-| (c) | Grant of contract. |
 | [4208\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004208%20-%20Nonreviewability%20of%20action%20by%20Attorney%20General.md) | Nonreviewability of action by Attorney General. |
 | [4209\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004209%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7301%28c%29%283%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201781.md) | Repealed. |
 | [4210\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004210%20-%20Sources%20of%20payments%20to%20declarants.md) | Sources of payments to declarants. |
@@ -48,33 +25,12 @@
 |  |  |
 | :--- | ---: |
 | [4221\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004221%20-%20Filing%20of%20confidential%20declarations%20by%20private%20persons%20identifying%20specific%20assets.md) | Filing of confidential declarations by private persons identifying specific assets. |
-| (a) | In general. |
-| (b) | Place of filing. |
 | [4222\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004222%20-%20Contents%20of%20declarations.md) | Contents of declarations. |
 | [4223\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004223%20-%20Confidentiality%20of%20declarations.md) | Confidentiality of declarations. |
-| (a) | Period of confidentiality. |
-| (b) | Maintenance of confidentiality to prevent prejudice. |
-| (c) | Loss of rights. |
 | [4224\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004224%20-%20Ineligibility%20to%20file%20valid%20declarations.md) | Ineligibility to file valid declarations. |
-| (a) | In general. |
-| (b) | “Original source” defined. |
-| (c) | Notice of invalidity. |
 | [4225\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004225%20-%20Rights%20of%20declarants%3B%20participation%20in%20actions%2C%20awards.md) | Rights of declarants; participation in actions, awards. |
-| (a) | In general. |
-| (b) | Civil action. |
-| (c) | Share of assets. |
-| (d) | Prohibition of double awards. |
-| (e) | Appropriate Federal banking agency exception. |
 | [4226\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004226%20-%20Rights%20of%20declarants%3B%20notifications%3B%20Government%20accountability.md) | Rights of declarants; notifications; Government accountability. |
-| (a) | In general. |
-| (b) | Notice of decision not to pursue. |
-| (c) | Judgment, order, or settlement. |
-| (d) | Notice of pendency of investigation or proceeding. |
-| (e) | Confidentiality of notices. |
 | [4227\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004227%20-%20Unreviewed%20declarations%3B%20petition%20to%20pursue%20action%20as%20private%20contractor.md) | Unreviewed declarations; petition to pursue action as private contractor. |
-| (a) | Notification. |
-| (b) | Contents of response. |
-| (c) | Grant of contract. |
 | [4228\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004228%20-%20Nonreviewability%20of%20action%20by%20Attorney%20General.md) | Nonreviewability of action by Attorney General. |
 | [4229\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004229%20-%20Protection%20for%20declarants.md) | Protection for declarants. |
 | [4230\.](Subchapter%20002%20%28II%29%20-%20Declarations%20Providing%20United%20States%20with%20New%20Information%20Concerning%20Recovery%20of%20Assets/%C2%A7%2004230%20-%20Promulgation%20of%20regulations.md) | Promulgation of regulations. |
@@ -86,10 +42,6 @@
 |  |  |
 | :--- | ---: |
 | [4241\.](Subchapter%20003%20%28III%29%20-%20Use%20of%20Private%20Legal%20Resources/%C2%A7%2004241%20-%20Authority%20to%20enter%20into%20contracts%20for%20private%20counsel.md) | Authority to enter into contracts for private counsel. |
-| (a) | In general. |
-| (b) | Terms and conditions. |
-| (c) | Limitation of fee. |
-| (d) | Contingent fees. |
 | [4242\.](Subchapter%20003%20%28III%29%20-%20Use%20of%20Private%20Legal%20Resources/%C2%A7%2004242%20-%20Contract%20decisions%20nonreviewable.md) | Contract decisions nonreviewable. |
 | [4243\.](Subchapter%20003%20%28III%29%20-%20Use%20of%20Private%20Legal%20Resources/%C2%A7%2004243%20-%20Representation.md) | Representation. |
 | [4244\.](Subchapter%20003%20%28III%29%20-%20Use%20of%20Private%20Legal%20Resources/%C2%A7%2004244%20-%20Contract%20provisions.md) | Contract provisions. |

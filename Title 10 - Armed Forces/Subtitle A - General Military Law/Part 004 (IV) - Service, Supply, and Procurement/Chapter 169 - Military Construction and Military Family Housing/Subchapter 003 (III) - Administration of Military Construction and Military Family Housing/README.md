@@ -8,26 +8,27 @@
 | [2854\.](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md) | Restoration or replacement of damaged or destroyed facilities. |
 | [2854a.](%C2%A7%2002854a%20-%20Conveyance%20of%20damaged%20or%20deteriorated%20military%20family%20housing%3B%20use%20of%20proceeds.md) | Conveyance of damaged or deteriorated military family housing; use of proceeds. |
 | [2855\.](%C2%A7%2002855%20-%20Law%20applicable%20to%20contracts%20for%20architectural%20and%20engineering%20services%20and%20construction%20design.md) | Law applicable to contracts for architectural and engineering services and construction design. |
-| [2856\.](%C2%A7%2002856%20-%20Limitations%20on%20barracks%20space%20by%20pay%20grade.md) | Limitations on barracks space by pay grade. |
-| [2857\.](%C2%A7%2002857%20-%20Use%20of%20renewable%20forms%20of%20energy%20in%20new%20facilities.md) | Use of renewable forms of energy in new facilities. |
+| [2856\.](%C2%A7%2002856%20-%20Military%20unaccompanied%20housing%20local%20comparability%20of%20floor%20areas.md) | Military unaccompanied housing: local comparability of floor areas. |
+| \[2857. | Renumbered.\] |
 | [2858\.](%C2%A7%2002858%20-%20Limitation%20on%20the%20use%20of%20funds%20for%20expediting%20a%20construction%20project.md) | Limitation on the use of funds for expediting a construction project. |
-| [2859\.](%C2%A7%2002859%20-%20Construction%20requirements%20related%20to%20antiterrorism%20and%20force%20protection.md) | Construction requirements related to antiterrorism and force protection. |
+| [2859\.](%C2%A7%2002859%20-%20Construction%20requirements%20related%20to%20antiterrorism%20and%20force%20protection%20or%20urban-training%20operations.md) | Construction requirements related to antiterrorism and force protection or urban-training operations. |
 | [2860\.](%C2%A7%2002860%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
-| \[2861. | Repealed.\] |
+| [2861\.](%C2%A7%2002861%20-%20Military%20construction%20projects%20in%20connection%20with%20industrial%20facility%20investment%20program.md) | Military construction projects in connection with industrial facility investment program. |
 | [2862\.](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md) | Turn-key selection procedures. |
 | [2863\.](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md) | Payment of contractor claims. |
-| [2864\.](%C2%A7%2002864%20-%20Military%20construction%20contracts%20on%20Guam.md) | Military construction contracts on Guam. |
-| [2865\.](%C2%A7%2002865%20-%20Energy%20savings%20at%20military%20installations.md) | Energy savings at military installations. |
+| \[2864, 2865. Repealed.\] |  |
 | [2866\.](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md) | Water conservation at military installations. |
-| [2867\.](%C2%A7%2002867%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md) | Sale of electricity from alternate energy and cogeneration production facilities. |
+| \[2867. | Renumbered.\] |
 | [2868\.](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
-| [2869\.](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20closed%20or%20realigned%20to%20support%20military%20construction.md) | Conveyance of property at military installations closed or realigned to support military construction. |
+| [2869\.](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20support%20military%20construction%20or%20limit%20encroachment.md) | Conveyance of property at military installations to support military construction or limit encroachment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. B, title XXVIII, §2804(c)(2), Jan. 6, 2006, 119 Stat. 3507, substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in item 2853.
+2006—Pub. L. 109–364, div. B, title XXVIII, §§2807(a)(2), 2808(b)(2), 2809(b), 2810(b), 2811(f)(2), 2851(c)(4), Oct. 17, 2006, 120 Stat. 2468–2471, 2473, 2495, added item 2861, inserted “or urban-training operations” after “force protection” in item 2859, substituted “Military unaccompanied housing: local comparability of floor areas” for “Limitations on barracks space by pay grade” in item 2856 and “to support military construction or limit encroachment” for “closed or realigned to support military construction” in item 2869, and struck out items 2857 “Use of renewable forms of energy in new facilities”, 2864 “Military construction contracts on Guam”, 2865 “Energy savings at military installations”, and 2867 “Sale of electricity from alternate energy and cogeneration production facilities”.
+
+Pub. L. 109–163, div. B, title XXVIII, §2804(c)(2), Jan. 6, 2006, 119 Stat. 3507, substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in item 2853.
 
 Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 2122, added item 2859.
 
@@ -64,17 +65,16 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 - [&sect; 02854 - Restoration or replacement of damaged or destroyed facilities](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md)
 - [&sect; 02854a - Conveyance of damaged or deteriorated military family housing; use of proceeds](%C2%A7%2002854a%20-%20Conveyance%20of%20damaged%20or%20deteriorated%20military%20family%20housing%3B%20use%20of%20proceeds.md)
 - [&sect; 02855 - Law applicable to contracts for architectural and engineering services and construction design](%C2%A7%2002855%20-%20Law%20applicable%20to%20contracts%20for%20architectural%20and%20engineering%20services%20and%20construction%20design.md)
-- [&sect; 02856 - Limitations on barracks space by pay grade](%C2%A7%2002856%20-%20Limitations%20on%20barracks%20space%20by%20pay%20grade.md)
-- [&sect; 02857 - Use of renewable forms of energy in new facilities](%C2%A7%2002857%20-%20Use%20of%20renewable%20forms%20of%20energy%20in%20new%20facilities.md)
+- [&sect; 02856 - Military unaccompanied housing local comparability of floor areas](%C2%A7%2002856%20-%20Military%20unaccompanied%20housing%20local%20comparability%20of%20floor%20areas.md)
+- [&sect; 02857 - Renumbered &sect;2915](%C2%A7%2002857%20-%20Renumbered%20%C2%A72915.md)
 - [&sect; 02858 - Limitation on the use of funds for expediting a construction project](%C2%A7%2002858%20-%20Limitation%20on%20the%20use%20of%20funds%20for%20expediting%20a%20construction%20project.md)
-- [&sect; 02859 - Construction requirements related to antiterrorism and force protection](%C2%A7%2002859%20-%20Construction%20requirements%20related%20to%20antiterrorism%20and%20force%20protection.md)
+- [&sect; 02859 - Construction requirements related to antiterrorism and force protection or urban-training operations](%C2%A7%2002859%20-%20Construction%20requirements%20related%20to%20antiterrorism%20and%20force%20protection%20or%20urban-training%20operations.md)
 - [&sect; 02860 - Availability of appropriations](%C2%A7%2002860%20-%20Availability%20of%20appropriations.md)
-- [&sect; 02861 - Repealed. Pub. L. 107&#8211;107, div. B, title XXVIII, &sect;2803(a), Dec. 28, 2001, 115 Stat. 1305](%C2%A7%2002861%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72803%28a%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201305.md)
+- [&sect; 02861 - Military construction projects in connection with industrial facility investment program](%C2%A7%2002861%20-%20Military%20construction%20projects%20in%20connection%20with%20industrial%20facility%20investment%20program.md)
 - [&sect; 02862 - Turn-key selection procedures](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md)
 - [&sect; 02863 - Payment of contractor claims](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md)
-- [&sect; 02864 - Military construction contracts on Guam](%C2%A7%2002864%20-%20Military%20construction%20contracts%20on%20Guam.md)
-- [&sect; 02865 - Energy savings at military installations](%C2%A7%2002865%20-%20Energy%20savings%20at%20military%20installations.md)
+- [&sect; 02864, 2865 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;&sect;2810(a), 2851(a)(2), Oct. 17, 2006, 120 Stat. 2470, 2494](%C2%A7%2002864%2C%202865%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A7%C2%A72810%28a%29%2C%202851%28a%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202470%2C%202494.md)
 - [&sect; 02866 - Water conservation at military installations](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md)
-- [&sect; 02867 - Sale of electricity from alternate energy and cogeneration production facilities](%C2%A7%2002867%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md)
+- [&sect; 02867 - Renumbered &sect;2916](%C2%A7%2002867%20-%20Renumbered%20%C2%A72916.md)
 - [&sect; 02868 - Utility services furnishing for certain buildings](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)
-- [&sect; 02869 - Conveyance of property at military installations closed or realigned to support military construction](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20closed%20or%20realigned%20to%20support%20military%20construction.md)
+- [&sect; 02869 - Conveyance of property at military installations to support military construction or limit encroachment](%C2%A7%2002869%20-%20Conveyance%20of%20property%20at%20military%20installations%20to%20support%20military%20construction%20or%20limit%20encroachment.md)

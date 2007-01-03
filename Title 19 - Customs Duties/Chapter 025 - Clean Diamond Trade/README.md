@@ -5,28 +5,14 @@
 | [3901\.](%C2%A7%2003901%20-%20Findings.md) | Findings. |
 | [3902\.](%C2%A7%2003902%20-%20Definitions.md) | Definitions. |
 | [3903\.](%C2%A7%2003903%20-%20Measures%20for%20the%20importation%20and%20exportation%20of%20rough%20diamonds.md) | Measures for the importation and exportation of rough diamonds. |
-| (a) | Prohibition. |
-| (b) | Waiver. |
 | [3904\.](%C2%A7%2003904%20-%20Regulatory%20and%20other%20authority.md) | Regulatory and other authority. |
-| (a) | In general. |
-| (b) | Recordkeeping. |
-| (c) | Oversight. |
 | [3905\.](%C2%A7%2003905%20-%20Importing%20and%20exporting%20authorities.md) | Importing and exporting authorities. |
-| (a) | In the United States. |
-| (b) | Of other countries. |
 | [3906\.](%C2%A7%2003906%20-%20Statement%20of%20policy.md) | Statement of policy. |
 | [3907\.](%C2%A7%2003907%20-%20Enforcement.md) | Enforcement. |
-| (a) | In general. |
-| (b) | Import violations. |
-| (c) | Authority to enforce. |
 | [3908\.](%C2%A7%2003908%20-%20Technical%20assistance.md) | Technical assistance. |
 | [3909\.](%C2%A7%2003909%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
-| (a) | Ongoing process. |
-| (b) | Statistics and reporting. |
 | [3910\.](%C2%A7%2003910%20-%20Kimberley%20Process%20Implementation%20Coordinating%20Committee.md) | Kimberley Process Implementation Coordinating Committee. |
 | [3911\.](%C2%A7%2003911%20-%20Reports.md) | Reports. |
-| (a) | Annual reports. |
-| (b) | Semiannual reports. |
 | [3912\.](%C2%A7%2003912%20-%20GAO%20report.md) | GAO report. |
 | [3913\.](%C2%A7%2003913%20-%20Delegation%20of%20authorities.md) | Delegation of authorities. |
 

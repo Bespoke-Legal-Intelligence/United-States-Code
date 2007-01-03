@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Director; statistical and epidemiological activities
 
-There is established in the Department of Health and Human Services the National Centerfor Health Statistics (hereinafter in this section referred to as the “Center”) which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
+There is established in the Department of Health and Human Services the National Center for Health Statistics (hereinafter in this section referred to as the “Center”) which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
 
 #### (b) Duties
 
@@ -30,7 +30,7 @@ In carrying out subsection (a) of this section, the Secretary, acting through th
 
 &emsp;(3) may undertake and support (by grant or contract) epidemiological research, demonstrations, and evaluations on the matters referred to in paragraph (1); and
 
-&emsp;(4) may collect, furnish, tabulate, and analyze statistics, and prepare studies, on matters referred to in paragraph (1) upon request of public and nonprofit private entities under arrangements under which the entities will pay the cost of the service provided.
+&emsp;(4) may collect, furnish, tabulate, and analyze statistics, and prepare studies, on mattersreferred to in paragraph (1) upon request of public and nonprofit private entities under arrangements under which the entities will pay the cost of the service provided.
 
 > Amounts appropriated to the Secretary from payments made under arrangements made under paragraph (4) shall be available to the Secretary for obligation until expended.
 
@@ -164,7 +164,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 (4)(A) Subject to subparagraph (B), the Secretary, acting through the Center, shall collect data on Hispanics and major Hispanic subpopulation groups and American Indians, and for developing special area population studies on major Asian American and Pacific Islander populations.
 
-(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n) of this section, and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1)and (2) of subsection (n) of this section equal or exceed the amounts so appropriated for fiscal year 1997.
+(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n) of this section, and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1) and (2) of subsection (n) of this section equal or exceed the amounts so appropriated for fiscal year 1997.
 
 #### (n) Authorization of appropriations
 
@@ -180,7 +180,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 Section 3509 of title 44, referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812. Pub. L. 104–13 subsequently enacted a new section 3509 of Title 44 relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in section 3507 of Title 44.
 
-The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -230,7 +230,7 @@ Subsecs. (n), (<i>o</i>). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesigna
 
 1991—Subsec. (k)(4)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence“The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
+1990—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence “The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 101–527, §7(b)(1), (c), added subsecs. (m) and (n) and redesignated former subsec. (m) as (<i>o</i>) and amended it generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “For health statistical and epidemiological activities undertaken or supported under this section, there are authorized to be appropriated $55,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
 

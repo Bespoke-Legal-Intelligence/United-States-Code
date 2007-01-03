@@ -18,7 +18,7 @@
 
 (g) Notwithstanding the provisions of subsection (c) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(b) of this chapter, the time limit with respect to the period between arraignment and trial imposed by subsection (c) of this section shall be one hundred and eighty days, for the second such twelve-month period such time limit shall be one hundred and twenty days, and for the third such period such time limit with respect to the period between arraignment and trial shall be eighty days.
 
-(h) The following periods of delay shall be excluded in computing the time within which an information or an indictment must be filed, or in computing the time within which the trial of any such offense must commence:
+(h) The following periods of delay shall be excluded in computing the time within which aninformation or an indictment must be filed, or in computing the time within which the trial of any such offense must commence:
 
 &emsp;(1) Any period of delay resulting from other proceedings concerning the defendant, including but not limited to—
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(iii) Whether, in a case in which arrest precedes indictment, delay in the filing of the indictment is caused because the arrest occurs at a time such that it is unreasonable to expect return and filing of the indictment within the period specified in section 3161(b), or because the facts upon which the grand jury must base its determination are unusual or complex.
 
-&emsp;&emsp;(iv) Whether the failure to grant such a continuance in a case which, taken as a whole, is not so unusual or so complex as to fall within clause (ii), would deny the defendant reasonable time to obtain counsel, would unreasonably deny the defendant or the Government continuity of counsel, or would deny counsel for the defendant or the attorney for the Government the reasonable time necessary for effective preparation, taking into account the exercise of due diligence.
+&emsp;&emsp;(iv) Whether the failure to grant such a continuance in a case which, taken as a whole, is not so unusual or so complex as to fall within clause (ii), would deny the defendant reasonable time to obtain counsel,would unreasonably deny the defendant or the Government continuity of counsel, or would deny counsel for the defendant or the attorney for the Government the reasonable time necessary for effective preparation, taking into account the exercise of due diligence.
 
 &emsp;(C) No continuance under subparagraph (A) of this paragraph shall be granted because of general congestion of the court's calendar, or lack of diligent preparation or failure to obtain available witnesses on the part of the attorney for the Government.
 
@@ -126,7 +126,7 @@ Words “magistrate judge” substituted for “magistrate” in subsec. (c)(1) 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as an Effective Date note under section 3505 of this title.
+Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set outas an Effective Date note under section 3505 of this title.
 
 #### Short Title of 1979 Amendment
 

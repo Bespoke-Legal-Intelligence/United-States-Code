@@ -2,7 +2,7 @@
 
 In cooperation with appropriate State and local government authorities, each Federal land management agency shall plan for and carry out activities on Carl Garner Federal Lands Cleanup Day that—
 
-&emsp;(1) encourage continuing public and private sector cooperation in preserving the beauty and safety of areas within the jurisdiction of the agency;
+&emsp;(1) encourage continuing public and private sector cooperation in preserving the beautyand safety of areas within the jurisdiction of the agency;
 
 &emsp;(2) increase citizens’ sense of ownership and community pride in those areas;
 

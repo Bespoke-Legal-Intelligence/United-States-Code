@@ -26,7 +26,7 @@ The Director, in carrying out this subchapter, may make grants to public and non
 
 #### (1) Department of Health and Human Services
 
-&emsp;The Director, in carrying out this subchapter, may utilize personnel and equipment, facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, and provide technical assistance and advice.
+&emsp;The Director, in carrying out this subchapter, may utilize personnel and equipment, facilities, and other physical resources of theDepartment of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, and provide technical assistance and advice.
 
 #### (2) Other agencies
 

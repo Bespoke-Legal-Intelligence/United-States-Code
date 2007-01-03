@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) Either (i) a demonstration (including air quality modeling) that the plan will provide for attainment by the applicable attainment date; or (ii) a demonstration that attainment by such date is impracticable.
 
-&emsp;&emsp;(C) Provisions to assure that reasonably available control measures for the control of PM–10 shall be implemented no later thanDecember 10, 1993, or 4 years after designation in the case of an area classified as moderate after November 15, 1990.
+&emsp;&emsp;(C) Provisions to assure that reasonably available control measures for the control of PM–10 shall be implemented no later than December 10, 1993, or 4 years after designation in the case of an area classified as moderate after November 15, 1990.
 
 #### (2) Schedule for plan submissions
 

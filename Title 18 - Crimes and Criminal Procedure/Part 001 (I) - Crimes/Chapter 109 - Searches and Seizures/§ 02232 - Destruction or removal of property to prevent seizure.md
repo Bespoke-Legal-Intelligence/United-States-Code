@@ -14,7 +14,7 @@ Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—
 
 (d)
 
-Notice of Certain Electronic Surveillance.—Whoever, having knowledge that a Federal investigative or law enforcement officer has been authorized or has applied for authorization under chapter 119 to intercept a wire, oral, or electronic communication, in order to obstruct, impede, or prevent such interception, gives notice or attempts to give notice of the possible interception to any person shall be fined underthis title or imprisoned not more than five years, or both.
+Notice of Certain Electronic Surveillance.—Whoever, having knowledge that a Federal investigative or law enforcement officer has been authorized or has applied for authorization under chapter 119 to intercept a wire, oral, or electronic communication, in order to obstruct, impede, or prevent such interception, gives notice or attempts to give notice of the possible interception to any person shall be fined under this title or imprisoned not more than five years, or both.
 
 (e)
 

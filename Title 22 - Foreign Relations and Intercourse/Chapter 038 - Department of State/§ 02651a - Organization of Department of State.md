@@ -12,7 +12,7 @@
 
 (ii) The Secretary shall not have any authority given expressly to diplomatic or consular officers.
 
-(4) The Secretary is authorized to promulgate such rules and regulations as may be necessary to carry out the functions of the Secretary of State and the Department of State. Unless otherwise specified in law, the Secretary may delegate authority to perform any of the functions of the Secretary or the Department to officers and employees under the direction and supervision of the Secretary. The Secretary may delegate the authority to redelegate any such functions.
+(4) The Secretary is authorized to promulgate such rules and regulations as may be necessaryto carry out the functions of the Secretary of State and the Department of State. Unless otherwise specified in law, the Secretary may delegate authority to perform any of the functions of the Secretary or the Department to officers and employees under the direction and supervision of the Secretary. The Secretary may delegate the authority to redelegate any such functions.
 
 #### (b) Under Secretaries
 
@@ -172,7 +172,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2732 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2733 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -278,7 +278,7 @@ Workforce Plan.—Not later than 180 days after the date of the enactment of thi
 
 “(b)
 
-Domestic Staffing Model.—Not later than one year after the date of the enactment of this Act \[Sept.30, 2002\], the Secretary shall compile and submit to the appropriate congressional committees a domestic staffing model for the Department.”
+Domestic Staffing Model.—Not later than one year after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall compile and submit to the appropriate congressional committees a domestic staffing model for the Department.”
 
 #### “Rightsizing” Overseas Posts
 
@@ -332,29 +332,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Report Concerning Minority Employment
 
-Pub. L. 107–228, div. A, title III, §324, Sept. 30, 2002, 116 Stat. 1385, provided that: “On April 1, 2003, and April 1, 2004, the Secretary shall submit a comprehensive report to Congress, with respect to the preceding calendar year, concerning the employment of members of minority groups at the Department, including the Civil Service and the Foreign Service. The report shall include the following data (reported in terms of real numbers and percentages and not as ratios):
-
-&emsp;“(1) For the last preceding Foreign Service examination and promotion cycles for which such information is available—
-
-&emsp;&emsp;“(A) the numbers and percentages of members of all minority groups taking the written Foreign Service examination;
-
-&emsp;&emsp;“(B) the numbers and percentages of members of all minority groups successfully completing and passing the written Foreign Service examination;
-
-&emsp;&emsp;“(C) the numbers and percentages of members of all minority groups successfully completing and passing the oral Foreign Service examination;
-
-&emsp;&emsp;“(D) the numbers and percentages of members of all minority groups entering the junior officer class of the Foreign Service;
-
-&emsp;&emsp;“(E) the numbers and percentages of members of all minority groups who are Foreign Service officers at each grade; and
-
-&emsp;&emsp;“(F) the numbers and percentages of members of all minority groups promoted to each grade of the Foreign Service.
-
-&emsp;“(2) For the last preceding year for Civil Service employment at the Department for which such information is available—
-
-&emsp;&emsp;“(A) numbers and percentages of members of all minority groups entering the Civil Service;
-
-&emsp;&emsp;“(B) the number and percentages of members of all minority groups who are Civil Service employees at each grade of the Civil Service; and
-
-&emsp;&emsp;“(C) the number of and percentages of members of all minority groups promoted at each grade of the Civil Service.”
+Pub. L. 107–228, div. A, title III, §324, Sept. 30, 2002, 116 Stat. 1385, required the Secretary of State, on Apr. 1 of 2003 and 2004, to submit a comprehensive report to Congress, with respect to the preceding calendar year, concerning the employment of members of minority groups at the Department, including the Civil Service and the Foreign Service.
 
 #### Use of Funds Authorized for Minority Recruitment
 
@@ -390,7 +368,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1
 
 “(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experiencein the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
 “(b)
 

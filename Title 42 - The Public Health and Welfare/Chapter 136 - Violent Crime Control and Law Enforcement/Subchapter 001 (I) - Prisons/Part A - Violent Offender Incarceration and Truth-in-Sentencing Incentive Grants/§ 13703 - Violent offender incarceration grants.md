@@ -24,7 +24,7 @@ A State that received a grant under subsection (a) of this section is eligible t
 
 > Receipt of grant amounts under this subsection does not preclude eligibility for a grant under subsection (b) of this section.
 
-(Pub. L. 103–322, title II, §20103, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26,1996, 110 Stat. 1321, 1321–16; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–322, title II, §20103, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–16; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Prior Provisions
 

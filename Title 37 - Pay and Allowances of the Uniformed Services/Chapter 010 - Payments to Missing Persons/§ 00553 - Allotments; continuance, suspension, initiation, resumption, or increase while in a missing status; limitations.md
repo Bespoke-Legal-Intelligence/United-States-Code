@@ -94,7 +94,7 @@ In subsection (a), the words “a member of a uniformed service . . . in a mis
 
 In subsection (b), the words “Secretary concerned, he, or his designee,” are substituted for “head of the department concerned . . . head of the department concerned, or such subordinate as he may designate” to conform to the definition in 37 U.S.C. 101(5). The word “member” is substituted for “person” to conform to the definition in 37 U.S.C. 101(23).
 
-In subsection (c), the words “in effect” are omitted as unnecessary. The words “member in a missing status”are substituted for “absent person” to conform to the definition in revised section 551(2) of this chapter.
+In subsection (c), the words “in effect” are omitted as unnecessary. The words “member in a missing status” are substituted for “absent person” to conform to the definition in revised section 551(2) of this chapter.
 
 In subsection (d), the words “United States” are substituted for “Government” to conform to the style of title 37. The word “member” is substituted for “person” to conform to the definition in 37 U.S.C. 101(23).
 
@@ -108,7 +108,7 @@ In subsection (h), the words “Secretary concerned” are substituted for “he
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–106, §569(c)(3)(A), substituted “the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter, that” for “the date the Secretary concerned receives evidence that”.
+1996—Subsec. (f). Pub. L. 104–106, §569(c)(3)(A), substituted “the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10,the Secretary concerned determines pursuant to that chapter, that” for “the date the Secretary concerned receives evidence that”.
 
 Subsec. (g). Pub. L. 104–106, §569(c)(3)(B), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
 

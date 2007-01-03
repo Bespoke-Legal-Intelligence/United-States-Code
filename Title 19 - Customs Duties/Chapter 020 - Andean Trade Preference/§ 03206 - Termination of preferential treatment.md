@@ -1,10 +1,26 @@
 ### §3206. Termination of preferential treatment
 
-No duty-free treatment or other preferential treatment extended to beneficiary countries under this chapter shall remain in effect after December 31, 2006.
+#### (a) Termination
 
-(Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, §3104(a), Aug. 6, 2002, 116 Stat. 1034.)
+Subject to subsection (b), no duty-free treatment or other preferential treatment extended to beneficiary countries under this chapter shall remain in effect after June 30, 2007.
+
+#### (b) Conditional extensions
+
+Duty-free treatment and other preferential treatment under this chapter shall remain in effect with respect to a beneficiary country, during the period beginning on July 1, 2007, and ending on December 31, 2007, only if on or before June 30, 2007—
+
+&emsp;(1) an implementing bill with respect to a trade agreement with that country has been enacted into law pursuant to the Bipartisan Trade Promotion Authority Act of 2002 \[19 U.S.C. 3801 et seq.\]; and
+
+&emsp;(2) the President determines that the legislature of that country has approved such trade agreement.
+
+(Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, §3104(a), Aug. 6, 2002, 116 Stat. 1034; Pub. L. 109–432, div. D, title VII, §7002, Dec. 20, 2006, 120 Stat. 3194.)
+
+#### References in Text
+
+The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (b)(1), is title XXI of Pub. L. 107–210, div. B, Aug. 6, 2002, 116 Stat. 993, which is classified principally to chapter 24 (§3801 et seq.) of this title. For complete classification of title XXI to the Code, see section 3801(a) of this title and Tables.
 
 #### Amendments
+
+2006—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), no” for “No” and “June 30, 2007” for “December 31, 2006”, and added subsec. (b).
 
 2002—Pub. L. 107–210 substituted “Termination of preferential treatment” for “Effective date and termination of duty-free treatment” in section catchline and amended text generally, substituting provisions establishing a termination date of Dec. 31, 2006, for preferential treatment under this chapter for provisions designated subsecs. (a) and (b) establishing an effective date of Dec. 4, 1991, for this chapter and a termination date 10 years later for duty-free treatment under this chapter.
 

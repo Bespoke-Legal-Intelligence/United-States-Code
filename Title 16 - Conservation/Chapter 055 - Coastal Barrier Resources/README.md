@@ -5,24 +5,9 @@
 | [3501\.](%C2%A7%2003501%20-%20Congressional%20statement%20of%20findings%20and%20purpose.md) | Congressional statement of findings and purpose. |
 | [3502\.](%C2%A7%2003502%20-%20Definitions.md) | Definitions. |
 | [3503\.](%C2%A7%2003503%20-%20Establishment%20of%20John%20H.%20Chafee%20Coastal%20Barrier%20Resources%20System.md) | Establishment of John H. Chafee Coastal Barrier Resources System. |
-| (a) | Establishment. |
-| (b) | System maps. |
-| (c) | Boundary review and modification. |
-| (d) | Additions to System. |
-| (e) | Addition of excess Federal property. |
-| (f) | Maps. |
-| (g) | Guidelines for certain recommendations and determinations. |
 | [3504\.](%C2%A7%2003504%20-%20Limitations%20on%20Federal%20expenditures%20affecting%20the%20System.md) | Limitations on Federal expenditures affecting the System. |
-| (a) | Construction or purchase of structure, facility, road, airport, etc.; projects to prevent erosion; exceptions. |
-| (b) | New expenditures or new financial assistance. |
 | [3505\.](%C2%A7%2003505%20-%20Exceptions%20to%20limitations%20on%20expenditures.md) | Exceptions to limitations on expenditures. |
-| (a) | In general. |
-| (b) | Existing Federal navigation channels. |
-| (c) | Expansion of highways in Michigan. |
-| (d) | Services and facilities outside System. |
 | [3506\.](%C2%A7%2003506%20-%20Certification%20of%20compliance.md) | Certification of compliance. |
-| (a) | Regulations. |
-| (b) | Certification. |
 | [3507\.](%C2%A7%2003507%20-%20Priority%20of%20laws.md) | Priority of laws. |
 | [3508\.](%C2%A7%2003508%20-%20Separability.md) | Separability. |
 | [3509\.](%C2%A7%2003509%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93514%2C%20%C2%A74%28a%29%283%29%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202396.md) | Repealed. |

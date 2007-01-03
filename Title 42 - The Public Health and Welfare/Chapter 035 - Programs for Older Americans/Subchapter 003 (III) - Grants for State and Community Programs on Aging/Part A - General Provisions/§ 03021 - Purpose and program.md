@@ -20,9 +20,11 @@
 
 &emsp;(C) Indian tribes, tribal organizations, and Native Hawaiian organizations;
 
-&emsp;(D) the providers, including voluntary organizations or other private sector organizations, of supportive services, nutrition services, and multipurpose senior centers; and
+&emsp;(D) the providers, including voluntary organizations or other private sector organizations, of supportive services, nutrition services, and multipurpose senior centers;
 
-&emsp;(E) organizations representing or employing older individuals or their families.
+&emsp;(E) organizations representing or employing older individuals or their families; and
+
+&emsp;(F) organizations that have experience in providing training, placement, and stipends for volunteers or participants who are older individuals (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings.
 
 #### (b) Administration of program
 
@@ -40,7 +42,7 @@ The Assistant Secretary shall provide technical assistance and training (by cont
 
 (2) No provision of this subchapter shall be construed as prohibiting a State agency or area agency on aging from providing services by using funds from sources not described in paragraph (1).
 
-(Pub. L. 89–73, title III, §301, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–115, §3(a), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §301, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§104(b), 105(c), 121, 129(a), Nov. 29, 1987, 101 Stat. 929, 930, 933, 934; Pub. L. 100–628, title VII, §705(3), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–54, §13(q)(9)(B), June 13, 1991, 105 Stat. 281; Pub. L. 102–321, title I, §163(c)(2)(B), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(1)(A), title III, §301, title VII, §708(a)(2)(B), Sept. 30, 1992, 106 Stat. 1200, 1219, 1292; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §301, title VIII, §801(c)(1), Nov. 13, 2000, 114 Stat. 2238, 2292.)
+(Pub. L. 89–73, title III, §301, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–115, §3(a), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §301, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§104(b), 105(c), 121, 129(a), Nov. 29, 1987, 101 Stat. 929, 930, 933, 934; Pub. L. 100–628, title VII, §705(3), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–54, §13(q)(9)(B), June 13, 1991, 105 Stat. 281; Pub. L. 102–321, title I, §163(c)(2)(B), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(1)(A), title III, §301, title VII, §708(a)(2)(B), Sept. 30, 1992, 106 Stat. 1200, 1219, 1292; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §301, title VIII, §801(c)(1), Nov. 13, 2000, 114 Stat. 2238, 2292; Pub. L. 109–365, title III, §301, Oct. 17, 2006, 120 Stat. 2538.)
 
 #### Prior Provisions
 
@@ -49,6 +51,8 @@ A prior section 3021, Pub. L. 89–73, title III, §301, as added Pub. L. 93–2
 Another prior section 3021, Pub. L. 89–73, title III, §301, July 14, 1965, 79 Stat. 220; Pub. L. 90–42, §2(a), July 1, 1967, 81 Stat. 106; Pub. L. 91–69, §2(a), Sept. 17, 1969, 83 Stat. 108, related to a description of activities and authorized appropriations for fiscal years ending June 30, 1966, through 1972, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
 #### Amendments
+
+2006—Subsec. (a)(2)(F). Pub. L. 109–365 added subpar. (F).
 
 2000—Subsec. (c). Pub. L. 106–501, §801(c)(1), substituted “3027(a)(9)” for “3027(a)(12)”.
 

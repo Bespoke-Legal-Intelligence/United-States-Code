@@ -19,15 +19,9 @@
 |  |  |
 | :--- | ---: |
 | [1571\.](Subchapter%20002%20%28II%29%20-%20Immigration%20Services%20and%20Infrastructure%20Improvements/%C2%A7%2001571%20-%20Purposes.md) | Purposes. |
-| (a) | Purposes. |
-| (b) | Policy. |
 | [1572\.](Subchapter%20002%20%28II%29%20-%20Immigration%20Services%20and%20Infrastructure%20Improvements/%C2%A7%2001572%20-%20Definitions.md) | Definitions. |
 | [1573\.](Subchapter%20002%20%28II%29%20-%20Immigration%20Services%20and%20Infrastructure%20Improvements/%C2%A7%2001573%20-%20Immigration%20services%20and%20infrastructure%20improvement%20account.md) | Immigration services and infrastructure improvement account. |
-| (a) | Authority of the Attorney General. |
-| (b) | Authorization of appropriations. |
 | [1574\.](Subchapter%20002%20%28II%29%20-%20Immigration%20Services%20and%20Infrastructure%20Improvements/%C2%A7%2001574%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| (a) | Backlog elimination plan. |
-| (b) | Annual reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

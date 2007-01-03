@@ -1,0 +1,126 @@
+### §70502. Definitions
+
+(a)
+
+Application of Other Definitions.—The definitions in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) apply to this chapter.
+
+(b)
+
+Vessel of the United States.—In this chapter, the term “vessel of the United States” means—
+
+&emsp;(1) a vessel documented under chapter 121 of this title or numbered as provided in chapter 123 of this title;
+
+&emsp;(2) a vessel owned in any part by an individual who is a citizen of the United States, the United States Government, the government of a State or political subdivision of a State, or a corporation incorporated under the laws of the United States or of a State, unless—
+
+&emsp;&emsp;(A) the vessel has been granted the nationality of a foreign nation under article 5 of the 1958 Convention on the High Seas; and
+
+&emsp;&emsp;(B) a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States who is authorized to enforce applicable provisions of United States law; and
+
+&emsp;(3) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was sold to a person not a citizen of the United States, placed under foreign registry, or operated under the authority of a foreign nation, whether or not the vessel has been granted the nationality of a foreign nation.
+
+(c)
+
+Vessel Subject to the Jurisdiction of the United States.—
+
+&emsp;(1)
+
+In general.—In this chapter, the term “vessel subject to the jurisdiction of the United States” includes—
+
+&emsp;&emsp;(A) a vessel without nationality;
+
+&emsp;&emsp;(B) a vessel assimilated to a vessel without nationality under paragraph (2) of article 6 of the 1958 Convention on the High Seas;
+
+&emsp;&emsp;(C) a vessel registered in a foreign nation if that nation has consented or waived objection to the enforcement of United States law by the United States;
+
+&emsp;&emsp;(D) a vessel in the customs waters of the United States;
+
+&emsp;&emsp;(E) a vessel in the territorial waters of a foreign nation if the nation consents to the enforcement of United States law by the United States; and
+
+&emsp;&emsp;(F) a vessel in the contiguous zone of the United States, as defined in Presidential Proclamation 7219 of September 2, 1999 (43 U.S.C. 1331 note), that—
+
+&emsp;&emsp;&emsp;(i) is entering the United States;
+
+&emsp;&emsp;&emsp;(ii) has departed the United States; or
+
+&emsp;&emsp;&emsp;(iii) is a hovering vessel as defined in section 401 of the Tariff Act of 1930 (19 U.S.C. 1401).
+
+&emsp;(2)
+
+Consent or waiver of objection.—Consent or waiver of objection by a foreign nation to the enforcement of United States law by the United States under paragraph (1)(C) or (E)—
+
+&emsp;&emsp;(A) may be obtained by radio, telephone, or similar oral or electronic means; and
+
+&emsp;&emsp;(B) is proved conclusively by certification of the Secretary of State or the Secretary's designee.
+
+(d)
+
+Vessel Without Nationality.—
+
+&emsp;(1)
+
+In general.—In this chapter, the term “vessel without nationality” includes—
+
+&emsp;&emsp;(A) a vessel aboard which the master or individual in charge makes a claim of registry that is denied by the nation whose registry is claimed;
+
+&emsp;&emsp;(B) a vessel aboard which the master or individual in charge fails, on request of an officer of the United States authorized to enforce applicable provisions of United States law, to make a claim of nationality or registry for that vessel; and
+
+&emsp;&emsp;(C) a vessel aboard which the master or individual in charge makes a claim of registry and for which the claimed nation of registry does not affirmatively and unequivocally assert that the vessel is of its nationality.
+
+&emsp;(2)
+
+Verification or denial.—A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary's designee.
+
+(e)
+
+Claim of Nationality or Registry.—A claim of nationality or registry under this section includes only—
+
+&emsp;(1) possession on board the vessel and production of documents evidencing the vessel's nationality as provided in article 5 of the 1958 Convention on the High Seas;
+
+&emsp;(2) flying its nation's ensign or flag; or
+
+&emsp;(3) a verbal claim of nationality or registry by the master or individual in charge of the vessel.
+
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527.)
+
+#### Amendment Not Shown in Text
+
+<i>Subsection (d) of this section was derived from section 1903(c)(2) of the former Appendix to this title, which was amended by Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1903(c)(2) of the former Appendix to this title was amended by striking the last two sentences and inserting the following: “The response of a foreign nation to a claim of registry under subparagraph (A) or (C) \[now subpar. (A) or (C) of par. (1) of subsec. (d) of this section\] may be made by radio, telephone, or similar oral or electronic means, and is conclusively proved by certification of the Secretary of State or the Secretary's designee.”</i>
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70502(a)
+
+46 App.:1903(i).
+
+Pub. L. 96–350, §3(b), (c), (i), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title III, §3202, Oct. 27, 1986, 100 Stat. 3207–95, 3207–97; Pub. L. 99–640, §17, Nov. 10, 1986, 100 Stat. 3552, 3554; Pub. L. 100–690, title VII, §7402(b), Nov. 18, 1988, 102 Stat. 4483; Pub. L. 104–324, §1138(a)(1)–(3), (b), Oct. 19, 1996, 110 Stat. 3988, 3989; Pub. L. 107–295, title IV, §418(a), Nov. 25, 2002, 116 Stat. 2123.
+
+70502(b)
+
+46 App.:1903(b).
+
+70502(c)
+
+46 App.:1903(c)(1).
+
+70502(d)
+
+46 App.:1903(c)(2).
+
+70502(e)
+
+46 App.:1903(c)(3).
+
+In subsection (b)(2), before subparagraph (A), the words “individual who is a citizen of the United States” are substituted for “a citizen or national of the United States” because of the definition of “citizen of the United States” in chapter 1 of the revised title. The words “or a territory, commonwealth, or possession of the United States” and “the District of Columbia, or any territory, commonwealth, or possession of the United States” are omitted as unnecessary because of the definition of “State” in chapter 1 of the revised title.
+
+In subsection (b)(3), the words “placed under foreign registry, or operated under the authority of a foreign nation” are substituted for “placed under foreign registry or foreign flag” because of the definition of “foreign vessel” in chapter 1 of the revised title.
+
+In subsection (d)(1)(B), the word “authorized” is substituted for “empowered” for consistency with subsection (b)(2)(B).
+

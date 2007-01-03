@@ -40,7 +40,7 @@ Section 269, acts Aug. 11, 1916, ch. 313, pt. C, §29, 39 Stat. 490; Feb. 23, 19
 
 Section 270, acts Aug. 11, 1916, ch. 313, pt. C, §30, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, §10, 46 Stat. 1465; Pub. L. 101–624, title V, §508(b), Nov. 28, 1990, 104 Stat. 3443, set forth punishment for violations of this chapter. See section 254 of this title.
 
-Section 271, acts Aug. 11, 1916, ch. 313, pt. C, §31, 39 Stat. 491; Pub. L. 97–35, title I, §158(a)(2), Aug. 13, 1981,95 Stat. 376, authorized appropriations and employment of temporary personnel. See section 256 of this title.
+Section 271, acts Aug. 11, 1916, ch. 313, pt. C, §31, 39 Stat. 491; Pub. L. 97–35, title I, §158(a)(2), Aug. 13, 1981, 95 Stat. 376, authorized appropriations and employment of temporary personnel. See section 256 of this title.
 
 Section 272, act Aug. 11, 1916, ch. 313, pt. C, §32, 39 Stat. 491, related to separability of provisions.
 

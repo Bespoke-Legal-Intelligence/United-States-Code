@@ -2,13 +2,13 @@
 
 #### (a) Manufacturer's responsibility
 
-Every manufacturer of new motor vehicles or new motor vehicle engines, and every manufacturer of new motor vehicle or engine parts orcomponents, and other persons subject to the requirements of this part or part C of this subchapter, shall establish and maintain records, perform tests where such testing is not otherwise reasonably available under this part and part C of this subchapter (including fees for testing), make reports and provide information the Administrator may reasonably require to determine whether the manufacturer or other person has acted or is acting in compliance with this part and part C of this subchapter and regulations thereunder, or to otherwise carry out the provision of this part and part C of this subchapter, and shall, upon request of an officer or employee duly designated by the Administrator, permit such officer or employee at reasonable times to have access to and copy such records.
+Every manufacturer of new motor vehicles or new motor vehicle engines, and every manufacturer of new motor vehicle or engine parts or components, and other persons subject to the requirements of this part or part C of this subchapter, shall establish and maintain records, perform tests where such testing is not otherwise reasonably available under this part and part C of this subchapter (including fees for testing), make reports and provide information the Administrator may reasonably require to determine whether the manufacturer or other person has acted or is acting in compliance with this part and part C of this subchapter and regulations thereunder, or to otherwise carry out the provision of this part and part C of this subchapter, and shall, upon request of an officer or employee duly designated by the Administrator, permit such officer or employee at reasonable times to have access to and copy such records.
 
 #### (b) Enforcement authority
 
 For the purposes of enforcement of this section, officers or employees duly designated by the Administrator upon presenting appropriate credentials are authorized—
 
-&emsp;(1) to enter, at reasonable times, any establishment of the manufacturer, or of any person whom the manufacturer engages to perform any activity required by subsection (a) of this section, for the purposes of inspecting or observing any activity conducted pursuant to subsection (a) of this section, and
+&emsp;(1) to enter, at reasonable times, any establishment of the manufacturer, or of any personwhom the manufacturer engages to perform any activity required by subsection (a) of this section, for the purposes of inspecting or observing any activity conducted pursuant to subsection (a) of this section, and
 
 &emsp;(2) to inspect records, files, papers, processes, controls, and facilities used in performing any activity required by subsection (a) of this section, by such manufacturer or by any person whom the manufacturer engages to perform any such activity.
 

@@ -26,7 +26,7 @@
 
 #### (C) Population determinations
 
-&emsp;&emsp;The Secretary shall make population determinations for purposes of this paragraphbased on the most recent decennial census data available.
+&emsp;&emsp;The Secretary shall make population determinations for purposes of this paragraph based on the most recent decennial census data available.
 
 #### (3) Timing of grants
 

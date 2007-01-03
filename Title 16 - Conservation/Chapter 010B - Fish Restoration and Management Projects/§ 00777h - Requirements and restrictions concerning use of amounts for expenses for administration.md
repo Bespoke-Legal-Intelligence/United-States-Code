@@ -72,7 +72,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (3) Report to Congress
 
-&emsp;The Inspector General of the Department of the Interior shall promptly submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
+&emsp;The Inspector General of the Department of the Interior shall promptly submit to theCommittee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
 
 &emsp;&emsp;(A) a report on the results of each audit under this subsection; and
 

@@ -6,7 +6,7 @@ Section 1431a, acts Feb. 20, 1929, ch. 281, 45 Stat. 1253; May 22, 1929, ch. 6, 
 
 Section 1432, act June 28, 1906, ch. 3585, 34 Stat. 552, which related to acknowledgment of deeds in the islands of Samoa, was transferred to section 1663 of this title.
 
-Section 1433, act June 14, 1934, ch. 523, 48 Stat. 963, which related to inapplicability of coastwise shipping laws to Samoa, was transferred to section 1664 of this title.
+Section 1433, act June 14, 1934, ch. 523, 48 Stat. 963, which related to inapplicability of coastwise shipping laws to Samoa, was transferred to section 1664 of this title and was subsequently repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710.
 
 Section 1434, act July 9, 1952, ch. 597, title I, §101, 66 Stat. 457, which related to purchases by governments of Samoa, was transferred to section 1665 of this title.
 

@@ -54,7 +54,7 @@ Subsec. (d)(3). Pub. L. 105–368, §1003(b)(2), added par. (3) and struck out f
 
 1994—Pub. L. 103–446 substituted “Except as provided in subsection (f), each case” for “Each case” in subsec. (a)(1) and added subsec. (f).
 
-Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows: “All cases received pursuant to application for review on appeal shall be considered and decided in regular order according to their places upon the docket; however, for cause shown a case may be advanced on motion for earlier consideration and determination. Every such motion shall set forth succinctly the grounds upon which it is based. No such motion shall be granted except in cases involving interpretation of law of general application affecting other claims, or for other sufficient cause shown.”
+Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows: “All cases received pursuant to application for review on appeal shall be considered and decided in regular order according totheir places upon the docket; however, for cause shown a case may be advanced on motion for earlier consideration and determination. Every such motion shall set forth succinctly the grounds upon which it is based. No such motion shall be granted except in cases involving interpretation of law of general application affecting other claims, or for other sufficient cause shown.”
 
 1991—Pub. L. 102–40 renumbered section 4007 of this title as this section.
 

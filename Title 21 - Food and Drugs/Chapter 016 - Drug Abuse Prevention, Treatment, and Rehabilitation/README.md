@@ -35,21 +35,8 @@
 | [1171\.](Subchapter%20004%20%28IV%29%20-%20Other%20Federal%20Programs/%C2%A7%2001171%20-%20Drug%20abuse%20prevention%20function%20appropriations.md) | Drug abuse prevention function appropriations. |
 | 1172 to 1176. Repealed, Transferred, or Omitted. |  |
 | [1177\.](Subchapter%20004%20%28IV%29%20-%20Other%20Federal%20Programs/%C2%A7%2001177%20-%20Special%20project%20grants%20and%20contracts.md) | Special project grants and contracts. |
-| (a) | Scope of programs; priority. |
-| (b) | Authorization of appropriations. |
-| (c) | Coordination of applications for programs in a State; precedence restriction; project evaluation; application approval; criteria; proposed performance standards or research protocol. |
-| (d) | Programs and projects aimed at underserved groups; encouragement and special consideration given to applications. |
-| (e) | Payments; advances; reimbursement; installments. |
-| (f) | Prevention and treatment services. |
-| (g) | Authorization by chief executive officer of State required; maximum amount and duration of grants. |
 | [1178\.](Subchapter%20004%20%28IV%29%20-%20Other%20Federal%20Programs/%C2%A7%2001178%20-%20Records%20and%20audit.md) | Records and audit. |
-| (a) | Assistance records; contents. |
-| (b) | Access to pertinent information for audit and examination. |
 | [1179\.](Subchapter%20004%20%28IV%29%20-%20Other%20Federal%20Programs/%C2%A7%2001179%20-%20National%20Drug%20Abuse%20Training%20Center.md) | National Drug Abuse Training Center. |
-| (a) | Establishment; functions; general policies; transfer of supervision. |
-| (b) | Activities and material. |
-| (c) | Persons eligible for services and facilities. |
-| (d) | Authorization of appropriations; fiscal year availability. |
 | [1180\.](Subchapter%20004%20%28IV%29%20-%20Other%20Federal%20Programs/%C2%A7%2001180%20-%20Transferred.md) | Transferred. |
 | [1181\.](Subchapter%20004%20%28IV%29%20-%20Other%20Federal%20Programs/%C2%A7%2001181%20-%20Contract%20authority.md) | Contract authority. |
 

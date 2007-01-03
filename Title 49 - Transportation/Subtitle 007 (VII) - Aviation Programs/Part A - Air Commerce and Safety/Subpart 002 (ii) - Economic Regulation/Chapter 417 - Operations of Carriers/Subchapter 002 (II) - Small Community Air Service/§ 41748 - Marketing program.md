@@ -14,7 +14,7 @@ In general.—Except as provided in paragraphs (2) and (3), not less than 25 per
 
 &emsp;&emsp;(A) the non-Federal portion of the publicly financed costs may be derived from contributions in kind; and
 
-&emsp;&emsp;(B) matching contributions from a State or unit of local government may not be derived, directly or indirectly, from Federal funds, but the use by the State or unit of local government of proceeds from the sale of bonds to provide the matching contribution is not considered to be a contribution derived directly or indirectly from Federal funds, without regard to the Federal incometax treatment of interest paid on those bonds or the Federal income tax treatment of those bonds.
+&emsp;&emsp;(B) matching contributions from a State or unit of local government may not be derived, directly or indirectly, from Federal funds, but the use by the State or unit of local government of proceeds from the sale of bonds to provide the matching contribution is not considered to be a contribution derived directly or indirectly from Federal funds, without regard to the Federal income tax treatment of interest paid on those bonds or the Federal income tax treatment of those bonds.
 
 &emsp;(2)
 

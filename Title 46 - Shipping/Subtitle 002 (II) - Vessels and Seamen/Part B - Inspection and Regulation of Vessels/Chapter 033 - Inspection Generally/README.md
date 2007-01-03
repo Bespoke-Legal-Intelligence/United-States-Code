@@ -39,10 +39,6 @@ The net result has been a patchwork quilt of categories and classifications that
 
 1986—Pub. L. 99–307, §1(5)(B), May 19, 1986, 100 Stat. 445, substituted “Transporting” for “Carrying” in item 3304.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2102, 8101, 8301 of this title; title 40 section 558.
-
 
 ---
 

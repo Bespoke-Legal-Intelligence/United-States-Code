@@ -28,7 +28,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(13) “Clearinghouse” means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title.
 
-(Pub. L. 96–480, §4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, §9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, §5122(b), Aug. 23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, §201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, §304, Feb. 14, 1992, 106 Stat. 20; Pub. L. 106–404, §7(1), (2), Nov. 1, 2000, 114 Stat. 1745.)
+(Pub. L. 96–480, §4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, §9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, §5122(b), Aug.23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, §201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, §304, Feb. 14, 1992, 106 Stat. 20; Pub. L. 106–404, §7(1), (2), Nov. 1, 2000, 114 Stat. 1745.)
 
 #### References in Text
 

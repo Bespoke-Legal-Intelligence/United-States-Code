@@ -64,9 +64,9 @@
 
 > Any independent city which is included in any fiscal year for purposes of computing amounts pursuant to the preceding sentence shall not be eligible to receive assistance under subsection (d) of this section with respect to such fiscal year.
 
-(5) In computing amounts under this section with respect to any urban county, there shall be included all of the area of any unit of local government which is part of, but is not located entirely within the boundaries of, such urban county if the part of such unit of local government which is within the boundaries of such urban county would otherwise be included in computing the amount for such urban county under this section, and if the part of such unit of local government which is not within the boundaries of such urban county is not included as a part of any other unit of local government for the purpose of this section. Any amount received by such urban county under this section may be used with respect to the part of such unit of local government which is outside the boundaries of such urban county.
+(5) In computing amounts under this section with respect to any urban county, there shall be included all of the area of any unit of local government which is part of, but is not located entirely within the boundaries of, such urban county if the part of such unit of local government which is within the boundaries of such urban county would otherwise be included in computing the amount for such urban county under this section, and if the part of such unitof local government which is not within the boundaries of such urban county is not included as a part of any other unit of local government for the purpose of this section. Any amount received by such urban county under this section may be used with respect to the part of such unit of local government which is outside the boundaries of such urban county.
 
-(6)(A) Where data are available, the amount determined under paragraph (1) for a metropolitan city that has been formed by the consolidation of one or more metropolitan cities with an urban county shall be equal to the sum of the amounts that would have been determined under paragraph (1) for the metropolitan city or citiesand the balance of the consolidated government, if such consolidation had not occurred. This paragraph shall apply only to any consolidation that—
+(6)(A) Where data are available, the amount determined under paragraph (1) for a metropolitan city that has been formed by the consolidation of one or more metropolitan cities with an urban county shall be equal to the sum of the amounts that would have been determined under paragraph (1) for the metropolitan city or cities and the balance of the consolidated government, if such consolidation had not occurred. This paragraph shall apply only to any consolidation that—
 
 &emsp;(i) included all metropolitan cities that received grants under this section for the fiscal year preceding such consolidation and that were located within the urban county;
 
@@ -96,7 +96,7 @@
 
 (B) In using any amounts that become available as a result of actions under section 5304(e) or 5311 of this title, the Secretary shall give priority to providing emergency assistance under this paragraph.
 
-(C) The Secretary may provide assistance to any metropolitan city or urban county under this paragraph only to the extent necessary to meet emergency community development needs, as the Secretary shall determine (subject to subparagraph (D)), of the city or county resulting from the disaster that are not met with amounts otherwise provided under this chapter, the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], and other sources of assistance.
+(C) The Secretary may provide assistance to any metropolitan city or urban county under this paragraph only to the extent necessary tomeet emergency community development needs, as the Secretary shall determine (subject to subparagraph (D)), of the city or county resulting from the disaster that are not met with amounts otherwise provided under this chapter, the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], and other sources of assistance.
 
 (D) Amounts provided to metropolitan cities and urban counties under this paragraph may be used only for eligible activities under section 5305 of this title, and in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.
 
@@ -182,7 +182,7 @@
 
 #### (e) Qualification or submission dates, and finality and conclusiveness of computations and determinations
 
-The Secretary may fix such qualification or submission dates as he determines are necessaryto permit the computations and determinations required by this section to be made in a timely manner, and all such computations and determinations shall be final and conclusive.
+The Secretary may fix such qualification or submission dates as he determines are necessary to permit the computations and determinations required by this section to be made in a timely manner, and all such computations and determinations shall be final and conclusive.
 
 #### (f) Pro rata adjustment of entitlement amounts
 
@@ -244,7 +244,7 @@ Subsec. (d)(5). Pub. L. 102–550, §811, added par. (5) relating to State deduc
 
 Subsec. (d)(5)(B). Pub. L. 102–550, §808, substituted “the Civil Rights Act of 1964 and the Fair Housing Act” for “Public Law 88–352 and Public Law 90–284”.
 
-1990—Subsec. (a). Pub. L. 101–625, §913(b)(1)(B), added subsec. (a) and struck out former subsec. (a) which read as follows: “Of the amount approved in an appropriation Act under section 5303 of this title for grants in any year (excluding the amounts provided for use in accordance with section 5307 of this title and section 5318 of this title), 70 per centum shall be allocated by the Secretary to metropolitan cities and urban counties and Indian tribes. Except as otherwise specifically authorized, each metropolitan city and urban countyshall be entitled to an annual grant from such allocation in an amount not exceeding its basic amount computed pursuant to paragraph (1) or (2) of subsection (b) of this section Indian tribes shall receive grants from such allocation pursuant to subsection (b)(7) of this section.”
+1990—Subsec. (a). Pub. L. 101–625, §913(b)(1)(B), added subsec. (a) and struck out former subsec. (a) which read as follows: “Of the amount approved in an appropriation Act under section 5303 of this title for grants in any year (excluding the amounts provided for use in accordance with section 5307 of this title and section 5318 of this title), 70 per centum shall be allocated by the Secretary to metropolitan cities and urban counties and Indian tribes. Except as otherwise specifically authorized, each metropolitan city and urban county shall be entitled to an annual grant from such allocation in an amount not exceeding its basic amount computed pursuant to paragraph (1) or (2) of subsection (b) of this section Indian tribes shall receive grants from such allocation pursuant to subsection (b)(7) of this section.”
 
 Subsec. (b)(1), (2). Pub. L. 101–625, §913(b)(2), substituted “The” for “After taking into account the set-aside for Indian tribes under paragraph (7), the” in introductory provisions of pars. (1) and (2).
 
@@ -310,7 +310,7 @@ Subsec. (d)(2)(D). Pub. L. 98–181, §106(f), added subpar. (D).
 
 Subsec. (d)(3)(A). Pub. L. 98–181, §106(g), substituted provisions that the State may deduct an amount to cover such expenses not to exceed the sum of $102,000 plus 50 percent of any such expenses in excess of $100,000, and that the amounts deducted in excess of $100,000 shall not exceed 2 percent of the amount so received, for provisions that the State could deduct an amount not to exceed 50 per centum of the costs incurred by the State in carrying out such responsibilities, and that amounts so deducted could not exceed 2 per centum of the amount so received.
 
-Subsec. (d)(3)(C), (D). Pub. L. 98–181, §106(h), amended subpar. (C) generally, substituting provisions requiring that amounts which are to be reallocated because of failure to meet requirements of section 5304(a), (b) of this title or because of action under section 5304(d) or 5311 of this title be added to amounts allocated to all States for the succeeding fiscal year for provisions that amounts reallocated because of action under section 5304(d) or section 5311 of this title were to be added to amounts available for distribution in the State in the same fiscal year, in the case of actions against units of general local government, or to amounts available for distribution in the succeeding fiscal year, in the case of action against the State, and struck out provision for distribution of such funds by either the State or the Secretary and adding subpar. (D).
+Subsec. (d)(3)(C), (D). Pub. L. 98–181, §106(h), amended subpar. (C) generally, substituting provisions requiring that amounts which are to be reallocated because of failure to meet requirements of section 5304(a), (b) ofthis title or because of action under section 5304(d) or 5311 of this title be added to amounts allocated to all States for the succeeding fiscal year for provisions that amounts reallocated because of action under section 5304(d) or section 5311 of this title were to be added to amounts available for distribution in the State in the same fiscal year, in the case of actions against units of general local government, or to amounts available for distribution in the succeeding fiscal year, in the case of action against the State, and struck out provision for distribution of such funds by either the State or the Secretary and adding subpar. (D).
 
 Subsec. (d)(5), (6). Pub. L. 98–181, §106(i), added pars. (5) and (6).
 
@@ -344,7 +344,7 @@ Subsec. (g). Pub. L. 96–399, §§102, 111(d), redesignated subsec. (m) as (g) 
 
 Subsec. (h). Pub. L. 96–399, §111(d), struck out subsec. (h) which related to hold-harmless grants to units of general local government not metropolitan cities or urban counties.
 
-Subsec. (i). Pub. L. 96–399, §111(d), struck out subsec. (i) which related to percentages excluded from data in computation of hold-harmless grants for units of general local government.
+Subsec. (i). Pub. L. 96–399, §111(d), struck out subsec. (i) which related to percentages excluded from data incomputation of hold-harmless grants for units of general local government.
 
 Subsec. (j). Pub. L. 96–399, §111(d), struck out subsec. (j) which related to waiver of eligibility by units of general local government for hold-harmless grants.
 
@@ -414,7 +414,7 @@ Subsec. (i). Pub. L. 95–128, §106(i), struck out “population, poverty, and 
 
 Subsec. (j). Pub. L. 95–128, §106(j), substituted “by such date as the Secretary shall determine” for “not later than thirty days prior to the beginning of any program period” and reference to subsec. (b)(4) for (b)(5) of this section and inserted “for a hold–harmless grant for a single year” after “eligibility”.
 
-Subsec. (<i>l</i>). Pub. L. 95–128, §106(k), substituted provisions for submission of a report to Congress not later than Sept. 30, 1978, respecting adequacy of funds allocation formula and defining “impaction” for prior requirement of a report to Congress not later than Mar. 31, 1977, setting forth recommendations to further purposes and policies of this chapter, for modifying or expanding the provisions of this section relating to themethod of funding and the allocation of funds and the determination of basic grant entitlement, and for application of the provisions in the further distribution of funds under this chapter and the conduct of a study by the Secretary respecting manner of distributing funds under this chapter in accordance with community development needs, objectives, and capacities, measured to the maximum extent feasible by objective standards.
+Subsec. (<i>l</i>). Pub. L. 95–128, §106(k), substituted provisions for submission of a report to Congress not later than Sept. 30, 1978, respecting adequacy of funds allocation formula and defining “impaction” for prior requirement of a report to Congress not later than Mar. 31, 1977, setting forth recommendations to further purposes and policies of this chapter, for modifying or expanding the provisions of this section relating to the method of funding and the allocation of funds and the determination of basic grant entitlement, and for application of the provisions in the further distribution of funds under this chapter and the conduct of a study by the Secretary respecting manner of distributing funds under this chapter in accordance with community development needs, objectives, and capacities, measured to the maximum extent feasible by objective standards.
 
 Subsec. (m). Pub. L. 95–128, §106(<i>l</i>), added subsec. (m).
 
@@ -492,7 +492,7 @@ Eligible Activities.—Assistance distributed pursuant to this section may be us
 
 Planning.—Payment of the cost of planning community development (including water and sewage facilities) and housing activities, including the cost of—
 
-&emsp;&emsp;“(A) the provision of information and technical assistance to residents of the area in which the activities are to be concentrated and to appropriate nonprofit organizations and public agencies acting on behalf of the residents; and
+&emsp;&emsp;“(A) the provision of information and technical assistance to residents of the area in which the activities are to be concentrated and to appropriatenonprofit organizations and public agencies acting on behalf of the residents; and
 
 &emsp;&emsp;“(B) preliminary surveys and analyses of market needs, preliminary site engineering and architectural services, site options, applications, mortgage commitments, legal services, and obtaining construction loans.
 

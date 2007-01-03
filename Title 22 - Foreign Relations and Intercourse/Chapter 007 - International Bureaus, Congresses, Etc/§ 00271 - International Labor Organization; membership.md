@@ -86,7 +86,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875,formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(i), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

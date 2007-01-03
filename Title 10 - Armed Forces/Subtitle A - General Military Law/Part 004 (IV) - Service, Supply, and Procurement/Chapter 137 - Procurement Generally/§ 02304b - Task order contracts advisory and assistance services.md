@@ -66,5 +66,9 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, andWorks, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+
+#### Waivers To Extend Task Order Contracts for Advisory and Assistance Services
+
+For authority of head of an agency to issue a waiver to extend a task order contract entered into under this section for a period not exceeding 10 years, through five one-year options, see section 834 of Pub. L. 109–364, set out as a note under section 253i of Title 41, Public Contracts.
 

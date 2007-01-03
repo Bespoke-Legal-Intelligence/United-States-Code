@@ -50,7 +50,7 @@ The Secretary shall make no payment of the Federal share of the cost of acquirin
 
 #### (1) Funds from other Federal sources
 
-&emsp;Subcontractors operating programs under this section in low-income communities with a substantial number or percentage of children with special needs, as described in subsection (c)(3) of this section, may use funds from other Federal sources to pay the non-Federal share of the cost of the program, if those funds do not comprise more than 50 percent of the non-Federal share of the funds used for the cost of acquiring and distributing books.
+&emsp;Subcontractors operating programs under this section in low-income communities with a substantial number or percentage of children with special needs, as described in subsection (c)(3) of this section, may use funds from otherFederal sources to pay the non-Federal share of the cost of the program, if those funds do not comprise more than 50 percent of the non-Federal share of the funds used for the cost of acquiring and distributing books.
 
 #### (2) Waiver authority
 

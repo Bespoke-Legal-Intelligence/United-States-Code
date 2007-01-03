@@ -80,7 +80,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (3) Assessments are not subject to apportionment of funds
 
-&emsp;Notwithstanding any other provision of law, the amounts received by the Director fromany assessment under this section shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
+&emsp;Notwithstanding any other provision of law, the amounts received by the Director from any assessment under this section shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 
 #### (j) Processing fee
 

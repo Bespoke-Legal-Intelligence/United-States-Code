@@ -70,7 +70,7 @@ The Secretary shall take such action as is necessary to promote and coordinate t
 
 (B) The amount of the financial assistance provided under paragraph (1)(A)(ii) and (iii) and paragraph (1)(B) may not exceed 70 percent of the costs incurred to achieve the purposes described in those paragraphs with respect to a reserve; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System.
 
-(C) Notwithstanding subparagraphs (A) and (B), financial assistance under this subsection provided from amounts recovered as a result of damage to natural resources located in the coastal zone may be used to pay 100 percent of the costs of activities carried out with the assistance.
+(C) Notwithstanding subparagraphs (A) and (B), financial assistance under this subsection provided from amounts recovered as a result of damage to natural resources located in the coastal zone may be used to pay 100 percent ofthe costs of activities carried out with the assistance.
 
 #### (f) Evaluation of System performance
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 102–587, §2205(b)(1)(A), (B), substituted “coastal sta
 
 1990—Pub. L. 101–508, §6214(a), substituted “Research Reserve” for “Reserve Research” in section catchline.
 
-Subsec. (e)(3)(A). Pub. L. 101–508, §6214(b), (d), substituted “percent” for “per centum” and “$5,000,000”for “$4,000,000”, and struck out “of subsection (e) of this section” after “paragraph (1)(A)(i)”.
+Subsec. (e)(3)(A). Pub. L. 101–508, §6214(b), (d), substituted “percent” for “per centum” and “$5,000,000” for “$4,000,000”, and struck out “of subsection (e) of this section” after “paragraph (1)(A)(i)”.
 
 Subsec. (e)(3)(B). Pub. L. 101–508, §6214(c), (d), substituted “70 percent” for “50 per centum”, struck out “of subsection (e) of this section” after “paragraph (1)(B)” and inserted before period at end “; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System”.
 

@@ -52,7 +52,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;&emsp;(II) any new advance is made to such institution under this section after the end of such period; and
 
-&emsp;&emsp;&emsp;(ii) after the end of that 5-day period, any deposit insurance fund in the Federal Deposit Insurance Corporation incurs a loss exceeding the loss that the Corporation would have incurred if it had liquidated that institution as of the end of that period,
+&emsp;&emsp;&emsp;(ii) after the end of that 5-day period, the Deposit Insurance Fund of the Federal Deposit Insurance Corporation incurs a loss exceeding the loss that the Corporation would have incurred if it had liquidated that institution as of the end of that period,
 
 > &emsp;&emsp;the Board shall, subject to the limitations in subparagraph (B), be liable to the Federal Deposit Insurance Corporation for the excess loss, without regard to the terms of the advance or any collateral pledged to secure the advance.
 
@@ -108,15 +108,15 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;(iii) is not expected to be placed in conservatorship or receivership.
 
-(Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Pub. L. 93–449, §5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, §106, Mar. 31, 1980, 94 Stat. 140; renumbered §10B and amended Pub. L. 102–242, title I, §142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, §2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–173, §9(c), Feb. 15, 2006, 119 Stat. 3616.)
-
-#### Amendment of Subsection (b)(3)(A)(ii)
-
-<i>Pub. L. 109–173, §9(c), (j), Feb. 15, 2006, 119 Stat. 3616, 3618, provided that, effective Mar. 31, 2006, subsection (b)(3)(A)(ii) of this section is amended by striking “any deposit insurance fund in” and inserting “the Deposit Insurance Fund of”.</i>
+(Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Pub. L. 93–449, §5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, §106, Mar. 31, 1980, 94 Stat. 140; renumbered §10B and amended Pub. L. 102–242, title I, §142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, §2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(c), Feb. 15, 2006, 119 Stat. 3616.)
 
 #### Amendments
 
-1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (b)(3)(A)(ii). Pub. L. 109–173 substituted “the Deposit Insurance Fund of” for “any deposit insurance fund in”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(9). See 1996 Amendment note below.
+
+1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, §2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1991—Pub. L. 102–242, §142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -134,9 +134,11 @@ Act Feb. 3, 1933, extended termination date from “March 3, 1933” to “March
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1991 Amendment
 

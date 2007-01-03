@@ -136,7 +136,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
+&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (andprospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
 
 #### (2) Provision of notice
 
@@ -198,7 +198,7 @@
 
 #### (E) Potential for contract termination
 
-&emsp;&emsp;The fact that a Medicare+Choice organization may terminate its contract, refuse torenew its contract, or reduce the service area included in its contract, under this part, and the effect of such a termination, nonrenewal, or service area reduction may have on individuals enrolled with the Medicare+Choice plan under this part.
+&emsp;&emsp;The fact that a Medicare+Choice organization may terminate its contract, refuse to renew its contract, or reduce the service area included in its contract, under this part, and the effect of such a termination, nonrenewal, or service area reduction may have on individuals enrolled with the Medicare+Choice plan under this part.
 
 #### (F) Catastrophic coverage and single deductible
 
@@ -282,7 +282,7 @@
 
 #### (A) Continuous open enrollment and disenrollment through 2005
 
-&emsp;&emsp;At any time during the period beginning January 1, 1998, and ending on December 31,2005, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;At any time during the period beginning January 1, 1998, and ending on December 31, 2005, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (B) Continuous open enrollment and disenrollment for first 6 months during 2006
 
@@ -320,6 +320,34 @@
 
 &emsp;&emsp;&emsp;(ii) to change the Medicare+Choice plan in which the individual is enrolled.
 
+#### (E) Limited continuous open enrollment of original fee-for-service enrollees in medicare advantage non-prescription drug plans
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;On any date during 2007 or 2008 on which a Medicare Advantage eligible individual is an unenrolled fee-for-service individual (as defined in clause (ii)), the individual may elect under subsection (a)(1) to enroll in a Medicare Advantage plan that is not an MA–PD plan.
+
+#### (ii) Unenrolled fee-for-service individual defined
+
+&emsp;&emsp;&emsp;In this subparagraph, the term “unenrolled fee-for-service individual” means, with respect to a date, a Medicare Advantage eligible individual who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is receiving benefits under this subchapter through enrollment in the original medicare fee-for-service program under parts A and B;
+
+&emsp;&emsp;&emsp;&emsp;(II) is not enrolled in an MA plan on such date; and
+
+&emsp;&emsp;&emsp;&emsp;(III) as of such date is not otherwise eligible to elect to enroll in an MA plan.
+
+#### (iii) Limitation of one change during year
+
+&emsp;&emsp;&emsp;An individual may exercise the right under clause (i) only once during the year.
+
+#### (iv) No effect on coverage under a prescription drug plan
+
+&emsp;&emsp;&emsp;Nothing in this subparagraph shall be construed as permitting an individual exercising the right under clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) who is enrolled in a prescription drug plan under part D, to disenroll from such plan or to enroll in a different prescription drug plan; or
+
+&emsp;&emsp;&emsp;&emsp;(II) who is not enrolled in a prescription drug plan, to enroll in such a plan.
+
 #### (3) Annual, coordinated election period
 
 #### (A) In general
@@ -344,7 +372,7 @@
 
 #### (D) Special information campaigns
 
-&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section. During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans\(including MA–PD plans) offered in different areas and the election process provided under this section.
+&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section. During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.
 
 #### (4) Special election periods
 
@@ -492,15 +520,17 @@
 
 &emsp;Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in text, are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
-Part D of this subchapter, referred to in subsec. (e)(2)(C)(iii), is classified to section 1395w–101 et seq. of this title.
+Part D of this subchapter, referred to in subsec. (e)(2)(C)(iii), (E)(iv)(I), is classified to section 1395w–101 et seq. of this title.
 
 #### Amendments
+
+2006—Subsec. (e)(2)(E). Pub. L. 109–432 added subpar. (E).
 
 2003—Subsec. (a)(1). Pub. L. 108–173, §102(c)(1)(A), (C), inserted “(other than qualified prescription drug benefits)” after “benefits” in introductory provisions and inserted concluding provisions.
 
@@ -548,7 +578,7 @@ Subsec. (e)(3)(B). Pub. L. 108–173, §102(a)(2), reenacted heading without cha
 
 Subsec. (e)(3)(C). Pub. L. 108–173, §102(a)(3)(A), inserted “and during the period described in subparagraph (B)(iii)” after “(beginning with 1999)”.
 
-Subsec. (e)(3)(D). Pub. L. 108–173, §102(a)(3)(B), in heading, substituted “campaigns” for “campaign in 1998” and, in text, inserted at end “During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.”
+Subsec. (e)(3)(D). Pub. L. 108–173, §102(a)(3)(B), in heading, substituted “campaigns” for “campaign in 1998” and, in text, inserted at end “During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign toinform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.”
 
 Subsec. (e)(4). Pub. L. 108–173, §102(a)(1)(B), substituted “2006” for “2005” in two places.
 
@@ -640,7 +670,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 “(2)
 
-Application to prior plan terminations.—Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[subsection (a)(3)(B)(ii) of this section\] (as inserted by subsection (a)) shall also apply to individuals whose enrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[this part\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
+Application to prior plan terminations.—Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[subsection (a)(3)(B)(ii) of this section\] (as inserted by subsection (a)) shall also apply to individuals whoseenrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[this part\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
 
 #### Effective Date of 1999 Amendment
 
@@ -682,7 +712,7 @@ Transition.—In order to provide for an orderly transition and avoid beneficiar
 
 #### Report on Impact of Increased Financial Assistance to Medicare Advantage Plans
 
-Pub. L. 108–173, title II, §211(g), Dec. 8, 2003, 117 Stat. 2178, provided that: “Not later than July 1, 2006, the Secretary \[of Health and Human Services\] shall submit to Congress a report that describes the impact of additional financing provided under this Act \[see Tables for classification\] and other Acts (including the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 \[H.R. 3426, as enacted by section 1000(a)(6) of Pub. L. 106–113, see Tables for classification\] and BIPA \[Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by section 1(a)(6) of Pub. L. 106–554, see Tables for classification\]) on the availability of Medicare Advantage plans in different areas and its impact on lowering premiums and increasing benefits under such plans.”
+Pub. L. 108–173, title II, §211(g), Dec. 8, 2003, 117 Stat. 2178, directed the Secretary of Health and Human Services to submit to Congress, not later than July 1, 2006, a report that described the impact of additional financing provided under Pub. L. 108–173 and other Acts on the availability of Medicare Advantage plans in different areas and its impact on lowering premiums and increasing benefits under such plans.
 
 #### MedPAC Study and Report on Clarification of Authority Regarding Disapproval of Unreasonable Beneficiary Cost-Sharing
 
@@ -698,43 +728,19 @@ Pub. L. 108–173, title II, §231(d), Dec. 8, 2003, 117 Stat. 2208, provided th
 
 #### Report on Impact of Specialized MA Plans for Special Needs Individuals
 
-Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costsand savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
+Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
 
 #### MedPAC Study on Consumer Coalitions
 
-Pub. L. 106–554, §1(a)(6) \[title I, §124\], Dec. 21, 2000, 114 Stat. 2763, 2763A–478, provided that:
-
-“(a)
-
-Study.—The Medicare Payment Advisory Commission shall conduct a study that examines the use of consumer coalitions in the marketing of Medicare+Choice plans under the medicare program under title XVIII of the Social Security Act \[this subchapter\]. The study shall examine—
-
-&emsp;“(1) the potential for increased efficiency in the medicare program through greater beneficiary knowledge of their health care options, decreased marketing costs of Medicare+Choice organizations, and creation of a group market;
-
-&emsp;“(2) the implications of Medicare+Choice plans and medicare supplemental policies (under section 1882 of the Social Security Act (42 U.S.C. 1395ss)) offering medicare beneficiaries in the same geographic location different benefits and premiums based on their affiliation with a consumer coalition;
-
-&emsp;“(3) how coalitions should be governed, how they should be accountable to the Secretary of Health and Human Services, and how potential conflicts of interest in the activities of consumer coalitions should be avoided; and
-
-&emsp;“(4) how such coalitions should be funded.
-
-“(b)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a). The report shall include a recommendation on whether and how a demonstration project might be conducted for the operation of consumer coalitions under the medicare program.
-
-“(c)
-
-Consumer Coalition Defined.—For purposes of this section, the term ‘consumer coalition’ means a nonprofit, community-based group of organizations that—
-
-&emsp;“(1) provides information to medicare beneficiaries about their health care options under the medicare program; and
-
-&emsp;“(2) negotiates benefits and premiums for medicare beneficiaries who are members or otherwise affiliated with the group of organizations with Medicare+Choice organizations offering Medicare+Choice plans, issuers of medicare supplemental policies, issuers of long-term care coverage, and pharmacy benefit managers.”
+Pub. L. 106–554, §1(a)(6) \[title I, §124\], Dec. 21, 2000, 114 Stat. 2763, 2763A–478, directed the Medicare Payment Advisory Commission to conduct a study examining the use of consumer coalitions in the marketing of Medicare+Choice plans under the medicare program under this subchapter and to submit a report on the study to Congress no later than 1 year after Dec. 21, 2000.
 
 #### Report on Accounting for VA and DOD Expenditures for Medicare Beneficiaries
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 Stat. 1536, 1501A–392, provided that: “Not later \[than\] April 1, 2001, the Secretary of Health and Human Services, jointly with the Secretaries of Defense and of Veterans Affairs, shall submit to Congress a report on the estimated use of health care services furnished by the Departments of Defense and of Veterans Affairs to medicare beneficiaries, including both beneficiaries under the original medicare fee-for-service program and under the Medicare+Choice program. The report shall include an analysis of how best to properly account for expenditures for such services in the computation of Medicare+Choice capitation rates.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 Stat. 1536, 1501A–392, directed the Secretary of Health and Human Services, jointly with the Secretaries of Defense and of Veterans Affairs, to submit to Congress, no later than Apr. 1, 2001, a report on the estimated use of health care services furnished by the Departments of Defense and of Veterans Affairs to medicare beneficiaries.
 
 #### Report on Medicare MSA (Medical Savings Account) Plans
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Medicare Payment Assessment Commission shall submit to Congress a report on specific legislative changes that should be made to make MSA plans (as defined in section 1859(b)(3) of the Social Security Act, 42 U.S.C. 1395w–29(b)(3) \[1395w–28(b)(3)\]) a viable option under the Medicare+Choice program.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, directed the Medicare Payment Assessment Commission to submit to Congress, no later than 1 year after Nov. 29, 1999, a report on specific legislative changes that should be made to make MSA plans a viable option under the Medicare+Choice program.
 
 #### GAO Audit and Reports on Provision of Medicare+Choice Health Information to Beneficiaries
 
@@ -754,23 +760,11 @@ Section 4002(c) of Pub. L. 105–33 provided that: “An individual who is enrol
 
 #### Secretarial Submission of Legislative Proposal
 
-Section 4002(f)(2) of title IV of Pub. L. 105–33 provided that: “Not later than 6 months after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary of Health and Human Services shall submit to the appropriate committees of Congress a legislative proposal providing for such technical and conforming amendments in the law as are required by the provisions of this chapter \[chapter 1 (§§4001–4006) of subtitle A of title IV of Pub. L. 105–33, see Tables for classification\].”
+Pub. L. 105–33, title IV, §4002(f)(2), Aug. 5, 1997, 111 Stat. 330, directed the Secretary of Health and Human Services to submit to Congress, no later than 6 months after Aug. 5, 1997, proposed technical and conforming amendments in the law as required by the provisions of chapter 1 (§§4001–4006) of subtitle A of title IV of Pub. L. 105–33.
 
 #### Report on Integration and Transition
 
-Section 4014(c) of Pub. L. 105–33 provided that:
-
-“(1)
-
-In general.—The Secretary of Health and Human Services shall submit to Congress, by not later than January 1, 1999, a plan for the integration of health plans offered by social health maintenance organizations (including SHMO I and SHMO II sites developed under section 2355 of the Deficit Reduction Act of 1984 \[Pub. L. 98–369, 98 Stat. 1103\] and under the amendment made by section 4207(b)(3)(B)(i) of OBRA–1990 \[Pub. L. 101–508, amending provisions set out as a note under section 1395pp of this title\], respectively) and similar plans as an option under the Medicare+Choice program under part C of title XVIII of the Social Security Act \[this part\].
-
-“(2)
-
-Provision for transition.—Such plan shall include a transition for social health maintenance organizations operating under demonstration project authority under such section.
-
-“(3)
-
-Payment policy.—The report shall also include recommendations on appropriate payment levels for plans offered by such organizations, including an analysis of the application of risk adjustment factors appropriate to the population served by such organizations.”
+Pub. L. 105–33, title IV, §4014(c), Aug. 5, 1997, 111 Stat. 337, directed the Secretary of Health and Human Services to submit to Congress, no later than Jan. 1, 1999, a plan which provided for the integration of health plans offered by social health maintenance organizations and similar plans as an option under the Medicare+Choice program under this part, for a transition for such organizations operating under demonstration project authority, and for appropriate payment levels for plans offered by such organizations.
 
 #### Medicare Enrollment Demonstration Project
 

@@ -6,31 +6,45 @@ A bank service company may provide to any person any service authorized by this 
 
 #### (b) Services to be performed in State where shareholders or members are located
 
-Except with the prior approval of the Board under section 1865(b) of this title in accordance with subsection (f) of this section—
+Except as permissible under subsection (c), (d), or (e) or with the prior approval of the Board under section 1865(b) of this title in accordance with subsection (f) of this section—
 
 &emsp;(1) a bank service company shall not perform the services authorized by this section in any State other than that State in which its shareholders or members are located; and
 
 &emsp;(2) all insured bank shareholders or members of a bank service company shall be located in the same State.
 
-#### (c) Performance where State bank is shareholder or member
+#### (c) Performance where State bank or savings association is shareholder or member
 
-A bank service company in which a State bank is a shareholder or member shall perform only those services that such State bank shareholder or member is authorized to perform under the law of the State in which such State bank operates and shall perform such services only at locations in the State in which such State bank shareholder or member could be authorized to perform such services.
+A bank service company in which a State bank or State savings association is a shareholder or member shall perform only those services that such State bank or State savings association shareholder or member is authorized to perform under the law of the State in which such State bank or State savings association operates and shall perform such services only at locations in the State in which such State bank or State savings association shareholder or member could be authorized to perform such services.
 
-#### (d) Performance where national bank is shareholder or member
+#### (d) Performance where national bank or Federal savings association is shareholder or member
 
-A bank service company in which a national bank is a shareholder or member shall perform only those services that such national bank shareholder or member is authorized to perform under the law of the United States and shall perform such services only at locations in the State at which such national bank shareholder or member could be authorized to perform such services.
+A bank service company in which a national bank or Federal savings association is a shareholder or member shall perform only those services that such national bank or Federal savings association shareholder or member is authorized to perform under the law of the United States and shall perform such services only at locations in the State at which such national bank or Federal savings association shareholder or member could be authorized to perform such services.
 
 #### (e) Performance where State bank and national bank are shareholders or members
 
-A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate <sup>1</sup> and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.
+A bank service company may perform—
+
+&emsp;(1) only those services that each depository institution shareholder or member is otherwise authorized to perform under any applicable Federal or State law; and
+
+&emsp;(2) such services only at locations in a State in which each such shareholder or member is authorized to perform such services.
 
 #### (f) Geographic location
 
-Notwithstanding the other provisions of this section or any other provision of law, other than the provisions of Federal and State branching law regulating the geographic location of banks to the extent that those laws are applicable to an activity authorized by this subsection, a bank service company may perform at any geographic location any service, other than deposit taking, that the Board has determined, by regulation, to be permissible for a bank holding company under section 1843(c)(8) of this title as of the day before November 12, 1999.
+Notwithstanding the other provisions of this section or any other provision of law, other than the provisions of Federal and State branching law regulating the geographic location of banks or savings associations to the extent that those laws are applicable to an activity authorized by this subsection, a bank service company may perform at any geographic location any service, other than deposit taking, that the Board has determined, by regulation, to be permissible for a bank holding company under section 1843(c)(8) of this title as of the day before November 12, 1999.
 
-(Pub. L. 87–856, §4, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 97–457, §32(b)(2), Jan. 12, 1983,96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(e), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 106–102, title I, §102(b)(2), Nov. 12, 1999, 113 Stat. 1342.)
+(Pub. L. 87–856, §4, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 97–457, §32(b)(2), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(e), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 106–102, title I, §102(b)(2), Nov. 12, 1999, 113 Stat. 1342; Pub. L. 109–351, title VI, §602(b)(3), Oct. 13, 2006, 120 Stat. 1979.)
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–351, §602(b)(3)(A), inserted “as permissible under subsection (c), (d), or (e) or” after “Except” in introductory provisions.
+
+Subsec. (c). Pub. L. 109–351, §602(b)(3)(B), inserted “or State savings association” after “State bank” wherever appearing.
+
+Subsec. (d). Pub. L. 109–351, §602(b)(3)(C), inserted “or Federal savings association” after “national bank” wherever appearing.
+
+Subsec. (e). Pub. L. 109–351, §602(b)(3)(D), inserted heading and amended text generally. Prior to amendment, text read as follows: “A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.”
+
+Subsec. (f). Pub. L. 109–351, §602(b)(3)(E), inserted “or savings associations” after “location of banks”.
 
 1999—Subsec. (f). Pub. L. 106–102 inserted before period at end “as of the day before November 12, 1999”.
 
@@ -38,11 +52,11 @@ Notwithstanding the other provisions of this section or any other provision of l
 
 Subsec. (a). Pub. L. 104–208, §2613(e)(1), substituted “company” for “corporation” in two places.
 
-Subsec. (b). Pub. L. 104–208, §2613(e)(1), (2), inserted “or members” after “shareholders” wherever appearing in heading and text and substituted “company” for “corporation” in two places.
+Subsec. (b). Pub. L. 104–208, §2613(e)(1), (2), inserted “or members” after “shareholders” wherever appearing in text and substituted “company” for “corporation” in two places.
 
-Subsecs. (c), (d). Pub. L. 104–208, §2613(e)(1), (3), inserted “or member” after “shareholder” wherever appearing in heading and text and substituted “company” for “corporation”.
+Subsecs. (c), (d). Pub. L. 104–208, §2613(e)(1), (3), inserted “or member” after “shareholder” wherever appearing and substituted “company” for “corporation”.
 
-Subsec. (e). Pub. L. 104–208, §2613(e)(1), (4), substituted “company” for “corporation”, “any shareholder or member of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
+Subsec. (e). Pub. L. 104–208, §2613(e)(1), (4), substituted “company” for “corporation”, “any shareholder ormember of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
 
 Subsec. (f). Pub. L. 104–208, §2613(e)(1), substituted “company” for “corporation”.
 
@@ -53,6 +67,4 @@ Subsec. (f). Pub. L. 104–208, §2613(e)(1), substituted “company” for “c
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “operates”.</i>
 

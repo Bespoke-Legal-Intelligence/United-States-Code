@@ -6,9 +6,6 @@
 | [756\.](%C2%A7%2000756%20-%20Investigations%2C%20surveys%2C%20and%20experiments%3B%20construction%20and%20installation%20of%20conservation%20devices%2C%20etc.md) | Investigations, surveys, and experiments; construction and installation of conservation devices, etc. |
 | [757\.](%C2%A7%2000757%20-%20Utilization%20of%20State%20services%3B%20expenditure%20of%20funds.md) | Utilization of State services; expenditure of funds. |
 | [757a.](%C2%A7%2000757a%20-%20Anadromous%2C%20Great%20Lakes%2C%20and%20Lake%20Champlain%20fisheries.md) | Anadromous, Great Lakes, and Lake Champlain fisheries. |
-| (a) | Conservation, development, and enhancement; cooperative agreements; costs. |
-| (b) | Operation, management, and administration of property; research. |
-| (c) | Increase of Federal share. |
 | [757b.](%C2%A7%2000757b%20-%20Authority%20of%20the%20Secretary%20with%20regards%20to%20Anadromous%20and%20Great%20Lakes%20fisheries%3B%20development%20and%20management.md) | Authority of the Secretary with regards to Anadromous and Great Lakes fisheries; development and management. |
 | [757c.](%C2%A7%2000757c%20-%20Approval%20for%20activities%20on%20land%20administered%20by%20other%20Federal%20departments%20or%20agencies.md) | Approval for activities on land administered by other Federal departments or agencies. |
 | [757d.](%C2%A7%2000757d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -45,9 +42,6 @@
 | [760b.](%C2%A7%2000760b%20-%20Equipment%20for%20studies%3B%20cooperation%20of%20Federal%20departments%20and%20agencies.md) | Equipment for studies; cooperation of Federal departments and agencies. |
 | [760c.](%C2%A7%2000760c%20-%20Studies%3B%20authorization%20of%20appropriations.md) | Studies; authorization of appropriations. |
 | [760d.](%C2%A7%2000760d%20-%20Grants%20for%20education%20and%20training%20of%20personnel%20in%20the%20field%20of%20commercial%20fishing.md) | Grants for education and training of personnel in the field of commercial fishing. |
-| (a) | Public and private nonprofit universities and colleges. |
-| (b) | Authorization of appropriations. |
-| (c) | Regulations. |
 | [760e.](%C2%A7%2000760e%20-%20Study%20of%20migratory%20game%20fish%3B%20waters%3B%20research%3B%20purpose.md) | Study of migratory game fish; waters; research; purpose. |
 | [760f.](%C2%A7%2000760f%20-%20Migratory%20game%20fish%20study%3B%20authorization%20to%20acquire%20facilities%2C%20employ%20officers%20and%20employees%2C%20cooperate%20with%20State%20and%20other%20agencies%E2%80%A6.md) | Migratory game fish study; authorization to acquire facilities, employ officers and employees, cooperate with State and other agencies, and to publish results. |
 | [760g.](%C2%A7%2000760g%20-%20Authorization%20of%20appropriations%20for%20migratory%20game%20fish%20study.md) | Authorization of appropriations for migratory game fish study. |

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) The initial determination of the amount of benefits available to the individual under such parts.
 
-&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a utilization and quality control peer review organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuantto a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI of this chapter.
+&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a utilization and quality control peer review organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI of this chapter.
 
 #### (2) Deadlines for making initial determinations
 
@@ -92,7 +92,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is providedin section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of thedetermination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -218,7 +218,7 @@
 
 #### (2) Qualified independent contractor
 
-&emsp;For purposes of this subsection, the term “qualified independent contractor” means an entity or organization that is independent ofany organization under contract with the Secretary that makes initial determinations under subsection (a)(1) of this section, and that meets the requirements established by the Secretary consistent with paragraph (3).
+&emsp;For purposes of this subsection, the term “qualified independent contractor” means anentity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1) of this section, and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements
 

@@ -130,7 +130,7 @@ Section 547(c)(6) represents a modification of a similar provision contained in 
 
 Section 547(e)(1)(B) is adopted from the House bill and Senate amendment without change. It is intended that the simple contract test used in this section will be applied as under section 544(a)(1) not to require a creditor to perfect against a creditor on a simple contract in the event applicable law makes such perfection impossible. For example, a purchaser from a debtor at an improperly noticed bulk sale may take subject to the rights of a creditor on a simple contract of the debtor for 1 year after the bulk sale. Since the purchaser cannot perfect against such a creditor on a simple contract, he should not be held responsible for failing to do the impossible. In the event the debtor goes into bankruptcy within a short time after the bulk sale, the trustee should not be able to use the avoiding powers under section 544(a)(1) or 547 merely because State law has made some transfers of personal property subject to the rights of a creditor on a simple contract to acquire a judicial lien with no opportunity to perfect against such a creditor.
 
-Preferences: The House amendment deletes from the category of transfers on account of antecedent debts which may be avoided under the preference rules, section 547(b)(2), the exception in the Senate amendment for taxes owed to governmental authorities. However, for purposes of the “ordinary course” exception to the preference rules contained in section 547(c)(2), the House amendment specifies that the 45-day period referred to in section 547(c)(2)(B) is to begin running, in the case of taxes from the last due date, including extensions, of the return with respect to which the tax payment was made.
+Preferences: The House amendment deletes from the category of transfers on account of antecedent debts which may be avoided under the preference rules, section 547(b)(2), the exception in the Senate amendment for taxes owed to governmental authorities. However, for purposes of the “ordinary course” exception to the preference rules contained in section 547(c)(2), the House amendment specifies that the 45-day period referred to in section 547(c)(2)(B) is to begin running, inthe case of taxes from the last due date, including extensions, of the return with respect to which the tax payment was made.
 
 #### senate report no. 95–989
 
@@ -160,7 +160,7 @@ The fourth exception codifies the net result rule in section 60c of current law 
 
 Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Williams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209 (C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
 
-Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protectstransfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
+Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protects transfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
 
 Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) of former title 11\], permits the trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
 
@@ -168,7 +168,7 @@ Subsection (e) determines when a transfer is made for the purposes of the prefer
 
 Subsection (e) is designed to reach the different results under the 1962 version of Article 9 of the U.C.C. and under the 1972 version because different actions are required under each version in order to make a security agreement effective between the parties.
 
-Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
+Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases bysections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
 
 #### Amendments
 
@@ -255,4 +255,8 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (c)(9) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 

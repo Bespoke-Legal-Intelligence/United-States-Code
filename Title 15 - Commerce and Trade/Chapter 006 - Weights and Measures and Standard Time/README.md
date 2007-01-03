@@ -20,33 +20,15 @@
 | [205b.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205b%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
 | [205c.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205c%20-%20Definitions.md) | Definitions. |
 | [205d.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205d%20-%20United%20States%20Metric%20Board.md) | United States Metric Board. |
-| (a) | Establishment. |
-| (b) | Membership; Chairman; appointment of members; term of office; vacancies. |
-| (c) | Compulsory powers. |
-| (d) | Termination. |
 | [205e.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205e%20-%20Functions%20and%20powers%20of%20Board.md) | Functions and powers of Board. |
 | [205f.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205f%20-%20Duties%20of%20Board.md) | Duties of Board. |
 | [205g.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205g%20-%20Gifts%2C%20donations%20and%20bequests%20to%20Board.md) | Gifts, donations and bequests to Board. |
-| (a) | Authorization; deposit into Treasury and disbursement. |
-| (b) | Federal income, estate, and gift taxation of property. |
-| (c) | Investment of moneys; disbursement of accrued income. |
-| (d) | Reversion to Treasury of unexpended funds. |
 | [205h.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205h%20-%20Compensation%20of%20Board%20members%3B%20travel%20expenses.md) | Compensation of Board members; travel expenses. |
 | [205i.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205i%20-%20Personnel.md) | Personnel. |
-| (a) | Executive Director; appointment; tenure; duties. |
-| (b) | Executive Director; salary. |
-| (c) | Staff personnel; appointment and compensation. |
-| (d) | Experts and consultants; employment and compensation; annual review of contracts. |
 | [205j.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205j%20-%20Financial%20and%20administrative%20services%3B%20source%20and%20reimbursement.md) | Financial and administrative services; source and reimbursement. |
 | 205j–1. | Repealed. |
 | [205k.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205k%20-%20Authorization%20of%20appropriations%3B%20availability.md) | Authorization of appropriations; availability. |
 | 205<i>l.</i> | Implementation in acquisition of construction services and materials for Federal facilities. |
-| (a) | In general. |
-| (b) | Concrete masonry units. |
-| (c) | Recessed lighting fixtures. |
-| (d) | Limitation. |
-| (e) | Repealed. |
-| (f) | Agency ombudsman. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -129,9 +111,6 @@
 | :--- | ---: |
 | [260\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000260%20-%20Congressional%20declaration%20of%20policy%3B%20adoption%20and%20observance%20of%20uniform%20standard%20of%20time%3B%20authority%20of%20Secretary%20of%20Transportation.md) | Congressional declaration of policy; adoption and observance of uniform standard of time; authority of Secretary of Transportation. |
 | [260a.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000260a%20-%20Advancement%20of%20time%20or%20changeover%20dates.md) | Advancement of time or changeover dates. |
-| (a) | Duration of period; State exemption. |
-| (b) | State laws superseded. |
-| (c) | Violations; enforcement. |
 | [261\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000261%20-%20Zones%20for%20standard%20time%3B%20interstate%20or%20foreign%20commerce.md) | Zones for standard time; interstate or foreign commerce. |
 | [262\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000262%20-%20Duty%20to%20observe%20standard%20time%20of%20zones.md) | Duty to observe standard time of zones. |
 | [263\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000263%20-%20Designation%20of%20zone%20standard%20times.md) | Designation of zone standard times. |

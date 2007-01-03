@@ -10,7 +10,7 @@ Planning Grants.—
 
 &emsp;(1)
 
-Authority to provide amounts and make grants.—The Secretary may provide amounts to the Appalachian Regional Commission for the support of its Health Advisory Committee and may make grants for expenses of planning necessary for the development and operation of demonstration health projects for the region.
+Authority to provide amounts and make grants.—The Secretary may provide amounts to the Appalachian Regional Commission for the support of its Health Advisory Committee and may make grants for expenses of planning necessary for the development andoperation of demonstration health projects for the region.
 
 &emsp;(2)
 
@@ -72,7 +72,7 @@ Standards for making grants.—A grant for the operation of a demonstration heal
 
 &emsp;(2)
 
-Limitation on available amounts.—Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for aproject to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).
+Limitation on available amounts.—Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).
 
 &emsp;(3)
 
@@ -188,5 +188,5 @@ The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 193
 
 #### Termination of Advisory Committee
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

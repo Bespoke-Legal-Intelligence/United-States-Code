@@ -110,21 +110,7 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 &emsp;If a pediatric study completed under public contract indicates that a formulation change is necessary and the Secretary agrees, the Secretary shall send a nonbinding letter of recommendation regarding that change to each holder of an approved application.
 
-#### (d) Authorization of appropriations
-
-#### (1) In general
-
-&emsp;There are authorized to be appropriated to carry out this section—
-
-&emsp;&emsp;(A) $200,000,000 for fiscal year 2002; and
-
-&emsp;&emsp;(B) such sums as are necessary for each of the five succeeding fiscal years.
-
-#### (2) Availability
-
-&emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
-
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687.)
 
 #### References in Text
 
@@ -132,7 +118,13 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1)(A)(iii)
 
 #### Amendments
 
+2007—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization and availability of appropriations.
+
 2003—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -167,4 +159,6 @@ Matters included.—The matters referred to in paragraph (1) include—
 “(c)
 
 Composition.—The advisory committee shall include representatives of pediatric health organizations, pediatric researchers, relevant patient and patient-family organizations, and other experts selected by the Secretary.”
+
+<i><sup>1</sup></i><i> So in original. There probably should be an additional closing parenthesis.</i>
 

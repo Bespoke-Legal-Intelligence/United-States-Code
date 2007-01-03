@@ -33,10 +33,13 @@
 | [3508\.](%C2%A7%2003508%20-%20Custody%20and%20return%20of%20foreign%20witnesses.md) | Custody and return of foreign witnesses. |
 | [3509\.](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md) | Child victims’ and child witnesses’ rights. |
 | [3510\.](%C2%A7%2003510%20-%20Rights%20of%20victims%20to%20attend%20and%20observe%20trial.md) | Rights of victims to attend and observe trial. |
+| [3511\.](%C2%A7%2003511%20-%20Judicial%20review%20of%20requests%20for%20information.md) | Judicial review of requests for information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–177, title I, §115(1), Mar. 9, 2006, 120 Stat. 211, added item 3511.
 
 2002—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
 
@@ -104,3 +107,4 @@ Pub. L. 91–452, title V, §§501–504, Oct. 15, 1970, 84 Stat. 933, which aut
 - [&sect; 03508 - Custody and return of foreign witnesses](%C2%A7%2003508%20-%20Custody%20and%20return%20of%20foreign%20witnesses.md)
 - [&sect; 03509 - Child victims&#8217; and child witnesses&#8217; rights](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md)
 - [&sect; 03510 - Rights of victims to attend and observe trial](%C2%A7%2003510%20-%20Rights%20of%20victims%20to%20attend%20and%20observe%20trial.md)
+- [&sect; 03511 - Judicial review of requests for information](%C2%A7%2003511%20-%20Judicial%20review%20of%20requests%20for%20information.md)

@@ -70,7 +70,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1986—Subsec. (b). Pub. L. 99–348, §205(b)(9)(A), substituted “retired pay” for “the retired pay of the grade or rating with which retired”.
 
-Subsec. (c). Pub. L. 99–348, §205(b)(9)(B), substituted provision that retired pay be increased by an amount equal to 10 percent of the active-duty pay and permanent additions thereto of the grade or rating with which retired, in the case of a member whose retired pay is computed under 423(a) of this title, or the member's retired pay base under section 1407 of title 10, in the case of a member whose retired pay is computed under section 423(b) of this title for provision that the retired pay be increased by an amount equal to 10 per cent of the active-duty pay and permanent additions thereto of the grade or rating with which retired.
+Subsec. (c). Pub. L. 99–348, §205(b)(9)(B), substituted provision that retired pay be increased by an amount equal to 10 percent of the active-duty pay and permanent additions thereto of the grade or rating with which retired, in the case of a member whose retired pay is computed under 423(a) of this title, or the member's retired pay base under section 1407 of title 10, in the case of a member whose retired pay is computed under section 423(b) of this title for provision that theretired pay be increased by an amount equal to 10 per cent of the active-duty pay and permanent additions thereto of the grade or rating with which retired.
 
 1984—Pub. L. 98–557, §15(a)(3)(A), substituted reference to enlisted member for reference to enlisted man wherever appearing in subsecs. (a) to (c).
 

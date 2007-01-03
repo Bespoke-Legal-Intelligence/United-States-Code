@@ -10,7 +10,7 @@ Any contract made under the provisions of this section to acquire plutonium or a
 
 #### (c) Terms and periods of contracts to acquire uranium
 
-Any contract made under the provisions of this section to acquire uranium enriched in the isotope uranium 235 may be at such price and for such period of time as the Commission may deem necessary: <i>Provided</i>, That no such contract shall be for a period of time extending beyond the terminal date of the agreement for cooperation with the Community or provide for the acquisition of uranium enriched in the isotope U–235 in excess of the quantities of such material that have been distributed to the Community by the Commission less the quantity consumed in the nuclear reactors involved in the joint program: <i>And provided further</i>, That no such contract shall provide for compensation or the payment of a purchase price in excess of the Atomic Energy Commission's established charges for such material in effect at the time delivery is made to the Commission.
+Any contract made under the provisions of this section to acquire uranium enriched in the isotope uranium 235 may be at such price and for such period of time as the Commission may deem necessary: <i>Provided</i>, That no such contract shall be for a period of time extending beyond the terminal date of the agreement for cooperation with the Community or provide for the acquisition of uranium enriched in the isotope U–235 in excess of the quantities of such material that have been distributed to the Community by the Commission less the quantity consumed in the nuclear reactors involved in the joint program: <i>And provided further</i>, That nosuch contract shall provide for compensation or the payment of a purchase price in excess of the Atomic Energy Commission's established charges for such material in effect at the time delivery is made to the Commission.
 
 #### (d) Contracts for purchase of special nuclear materials
 
@@ -27,8 +27,4 @@ Any contract made under this section may be made without regard to section 5 of 
 In subsec. (d), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “section 3679 of the Revised Statutes, as amended \[31 U.S.C. 665\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was enacted as part of the EURATOM Cooperation Act of 1958 which comprises this subchapter, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

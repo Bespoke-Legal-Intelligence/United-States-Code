@@ -1,6 +1,6 @@
 ### §401. Congressional declaration of purpose
 
-In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified directionunder civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
+In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
 
 (July 26, 1947, ch. 343, §2, 61 Stat. 496; Aug. 10, 1949, ch. 412, §2, 63 Stat. 579; Pub. L. 85–599, §2, Aug. 6, 1958, 72 Stat. 514.)
 
@@ -38,7 +38,7 @@ Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, as amende
 
 “(a)
 
-Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
+Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date ofthe enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
 
 “(b)
 
@@ -88,7 +88,7 @@ Covered Positions.—The positions referred to in this subsection are as follows
 
 “(a)
 
-Report.—Not later than one year after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see below\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress madein the implementation of this title \[see Short Title of 2004 Amendment note below\], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate.
+Report.—Not later than one year after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see below\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress made in the implementation of this title \[see Short Title of 2004 Amendment note below\], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate.
 
 “(b)
 
@@ -136,7 +136,7 @@ Section 310 of act July 26, 1947, provided:
 
 “(a) The first sentence of section 202(a) \[section 171a of former Title 5, Executive Departments and Government Officers and Employees\] and sections 1, 2, 307, 308, 309, and 310 \[section 171 note of former Title 5, section 361 of this title, and sections 171m and 171n of former Title 5\] shall take effect immediately upon the enactment of this Act \[July 26, 1947\].
 
-“(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3, The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
+“(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3,The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
 
 #### Short Title of 2004 Amendment
 
@@ -277,7 +277,7 @@ Similar provisions were contained in Pub. L. 107–306, title I, §108, Nov. 27,
 
 #### National Commission for Review of Research and Development Programs of the United States Intelligence Community
 
-Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, as amended by Pub. L. 108–177, title III, §315(a), Dec. 13, 2003, 117 Stat. 2610, established the National Commission for the Review of the Research and Development Programs of the United States Intelligence Community to review the status of research and development programs and activities within the intelligence community, directed the Commission to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on such review not later than Sept. 1, 2004, provided that the Commission was to terminate at the end of the 120-day period beginning on the date on which the final report was transmitted to the congressional intelligence committees, and directed the Director of Central Intelligence and the Secretary of Defense to each submit to the congressional intelligence committees an assessment of the final report not later than 60 days after receipt.
+Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, as amended by Pub. L. 108–177, title III, §315(a), Dec. 13,2003, 117 Stat. 2610, established the National Commission for the Review of the Research and Development Programs of the United States Intelligence Community to review the status of research and development programs and activities within the intelligence community, directed the Commission to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on such review not later than Sept. 1, 2004, provided that the Commission was to terminate at the end of the 120-day period beginning on the date on which the final report was transmitted to the congressional intelligence committees, and directed the Director of Central Intelligence and the Secretary of Defense to each submit to the congressional intelligence committees an assessment of the final report not later than 60 days after receipt.
 
 #### National Commission for the Review of the National Reconnaissance Office
 
@@ -303,7 +303,7 @@ Pub. L. 101–511, title VIII, §8104, Nov. 5, 1990, 104 Stat. 1898, as amended 
 
 &emsp;“(3) Real and potential military threats to the United States and its allies will continue to exist for the foreseeable future from not just the Soviet Union but also from terrorism and from Third World nations.
 
-&emsp;“(4) Proliferation of both sophisticated conventional weapons and of nuclear weapons could producea world more dangerous than we have faced in the past.
+&emsp;“(4) Proliferation of both sophisticated conventional weapons and of nuclear weapons could produce a world more dangerous than we have faced in the past.
 
 &emsp;“(5) Ethnic rivalries as well as economic inequalities may produce instabilities that could spark serious conflict.
 
@@ -722,7 +722,7 @@ The National Security Council
 
 National Foreign Intelligence Advisory Groups
 
-(a) <i>Establishment and Duties</i>. The Director of Central Intelligence shall establish such boards, councils, orgroups as required for the purpose of obtaining advice from within the Intelligence Community concerning:
+(a) <i>Establishment and Duties</i>. The Director of Central Intelligence shall establish such boards, councils, or groups as required for the purpose of obtaining advice from within the Intelligence Community concerning:
 
 (1) Production, review and coordination of national foreign intelligence;
 
@@ -828,7 +828,7 @@ In order to discharge the duties and responsibilities prescribed by law, the Dir
 
 (q) Together with the Secretary of Defense, ensure that there is no unnecessary overlap between national foreign intelligence programs and Department of Defense intelligence programs consistent with the requirement to develop competitive analysis, and provide to and obtain from the Secretary of Defense all information necessary for this purpose;
 
-(r) In accordance with law and relevant procedures approved by the Attorney General under this Order, give the heads of the departments and agencies access to all intelligence, developed by the CIA or the staff elements of the Director of Central Intelligence, relevant to the national intelligence needs of the departments and agencies; and
+(r) In accordance with law and relevant procedures approved by the Attorney General under this Order, give the heads of the departments and agencies access to all intelligence, developed by the CIA or the staffelements of the Director of Central Intelligence, relevant to the national intelligence needs of the departments and agencies; and
 
 (s) Facilitate the use of national foreign intelligence products by Congress in a secure manner.
 
@@ -1112,7 +1112,7 @@ Agencies within the Intelligence Community shall use the least intrusive collect
 
 (2) Physical surveillance of a military person employed by a nonintelligence element of a military service.
 
-(d) Physical surveillance of a United States person abroad to collect foreign intelligence, except to obtainsignificant information that cannot reasonably be acquired by other means.
+(d) Physical surveillance of a United States person abroad to collect foreign intelligence, except to obtain significant information that cannot reasonably be acquired by other means.
 
 #### 2\.5
 

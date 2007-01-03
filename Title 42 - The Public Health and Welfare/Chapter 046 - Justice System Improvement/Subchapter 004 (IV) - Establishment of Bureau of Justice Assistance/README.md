@@ -42,7 +42,7 @@ Section 3743, Pub. L. 90–351, title I, §403, June 19, 1968, 82 Stat. 203; Pub
 
 Section 3744, Pub. L. 90–351, title I, §404, June 19, 1968, 82 Stat. 204; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, provided for Federal Bureau of Investigation law enforcement training programs.
 
-Section 3745, Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, repealed Law Enforcement Assistance Act of 1965 andprovided for funds to continue projects started thereunder.
+Section 3745, Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, repealed Law Enforcement Assistance Act of 1965 and provided for funds to continue projects started thereunder.
 
 Section 3746, Pub. L. 90–351, title I, §406, June 19, 1968, 82 Stat. 204; Pub. L. 91–644, title I, §5(1), Jan. 2, 1971, 84 Stat. 1884; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, provided for academic educational assistance.
 

@@ -2,7 +2,7 @@
 
 Rules and regulations prescribed under section 501(a) of this title shall include rules and regulations to promote good conduct on the part of persons who are receiving hospital, nursing home, and domiciliary care and medical services in Department facilities. The Secretary may prescribe in rules and regulations under such section limitations in connection with the furnishing of such care and services during a period of national emergency (other than a period of war or an emergency described in section 8111A of this title).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §621; Pub. L. 94–581, title II, §§202(j), 210(a)(8), Oct. 21,1976, 90 Stat. 2856, 2863; Pub. L. 100–322, title I, §133, May 20, 1988, 102 Stat. 507; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1721 and amended Pub. L. 102–83, §§2(c)(1), 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 402, 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §621; Pub. L. 94–581, title II, §§202(j), 210(a)(8), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 100–322, title I, §133, May 20, 1988, 102 Stat. 507; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1721 and amended Pub. L. 102–83, §§2(c)(1), 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 402, 404–406.)
 
 #### Prior Provisions
 

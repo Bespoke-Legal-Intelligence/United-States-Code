@@ -14,17 +14,15 @@ Waiver Authority.—The Secretary of Defense may waive subsection (a) in the cas
 
 (c)
 
-Initial Assignment of Officers With Critical Occupational Specialties.—The Secretary may for purposes of section 661(c)(2) of this title authorize a joint duty assignment of less than the period prescribed by subsection (a), but not less than two years, without the requirement for a waiver under subsection (b) in the case of an officer—
+Initial Assignment of Officers With Critical Occupational Specialties.—The Secretary may for purposes of section 661(c)(1)(B) of this title authorize a joint duty assignment of less than the period prescribed by subsection (a), but not less than two years, without the requirement for a waiver under subsection (b) in the case of an officer—
 
-&emsp;(1) who is nominated for the joint specialty;
+&emsp;(1) who has a military occupational specialty designated under section 668(d) of this title as a critical occupational specialty; and
 
-&emsp;(2) who has a military occupational specialty designated under section 661(c)(2) of this title as a critical occupational specialty; and
-
-&emsp;(3) for whom such joint duty assignment is the initial joint duty assignment.
+&emsp;(2) for whom such joint duty assignment is the initial joint duty assignment.
 
 (d)
 
-Exclusions From Tour Length.—The Secretary of Defense may exclude the followingservice from the standards prescribed in subsection (a):
+Exclusions From Tour Length.—The Secretary of Defense may exclude the following service from the standards prescribed in subsection (a):
 
 &emsp;(1) Service in a joint duty assignment in which the full tour of duty in the assignment is not completed by the officer because of—
 
@@ -140,13 +138,19 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 &emsp;&emsp;(iii) the operation is conducted by the joint task force in an environment where an extremely fragile state of peace and high potential for hostilities coexist.
 
-(5) Officers for whom joint duty credit is granted pursuant to this subsection may not be taken into account for the purposes of any of the following provisions of this title: section 661(d)(1), section 662(a)(3), section 662(b), subsection (a) of this section, and paragraphs (7), (8), (9), (11), and (12) of section 667.
+(5) Officers for whom joint duty credit is granted pursuant to this subsection may not be taken into account for the purposes of any of the following provisions of this title: section 661(d)(1), section 662(a)(3),<sup>1</sup> section 662(b), subsection (a) of this section, and paragraphs (7), (8), (9), (11), and (12) of section 667.
 
 (6) In the case of an officer credited with having completed a full tour of duty in a joint duty assignment pursuant to this subsection, the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of this title that the tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section. The provisions of subparagraphs (C) and (D) of section 661(c)(3) of this title shall apply to such a waiver in the same manner as to a waiver under subparagraph (A) of that section.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191.)
+
+#### References in Text
+
+Section 662(a)(3) of this title, referred to in subsec. (i)(5), was repealed by Pub. L. 109–364, div. A, title V, §517(2), Oct. 17, 2006, 120 Stat. 2190.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–364, in introductory provisions, substituted “661(c)(1)(B)” for “661(c)(2)”, redesignated pars. (2) and (3) as (1) and (2), respectively, in par. (1), substituted “668(d)” for “661(c)(2)”, and struck out former par. (1) which read as follows: “who is nominated for the joint specialty;”.
 
 2001—Subsec. (i)(4)(E). Pub. L. 107–107, §522(1), substituted “Except as provided in subparagraph (F), the joint task force” for “The joint task force”.
 
@@ -196,7 +200,7 @@ Subsec. (h). Pub. L. 100–456, §514(6), added subsec. (h).
 
 1987—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
 
-Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), “Certain officers with critical combat operations skills”, which read as follows: “Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section 661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b).”
+Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), “Certain officers with critical combat operations skills”, which read as follows: “Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b).”
 
 Subsec. (d). Pub. L. 100–180 added subsec. (d) and struck out former subsec. (d), “Exception”, which read as follows:
 
@@ -211,6 +215,10 @@ Subsec. (d). Pub. L. 100–180 added subsec. (d) and struck out former subsec. (
 “(2) In computing the average length of joint duty assignments for purposes of this section, the Secretary of Defense shall exclude joint duty assignments not completed because of a reason specified in paragraph (1).”
 
 Subsecs. (e) to (g). Pub. L. 100–180 added subsecs. (e) to (g).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title V, §519(e), Oct. 17, 2006, 120 Stat. 2191, provided that: “The amendments made by this section \[amending this section and sections 667 and 668 of this title\] shall take effect on October 1, 2007.”
 
 #### Retroactive Joint Service Credit for Duty in Certain Joint Task Forces
 
@@ -248,73 +256,9 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 #### Joint Duty Credit for Certain Duty Performed During Operations Desert Shield and Desert Storm
 
-Pub. L. 103–160, div. A, title IX, §932, Nov. 30, 1993, 107 Stat. 1735, provided that:
+Pub. L. 103–160, div. A, title IX, §932, Nov. 30, 1993, 107 Stat. 1735, provided extension of authority until the end of the 90-day period beginning on Nov. 30, 1993, to give certain officers joint duty credit pursuant to Pub. L. 102–484, §933, formerly set out below.
 
-“(a)
-
-Authority To Give Joint Duty Credit.—(1) An officer described in paragraph (2) may (subject to paragraph (3)) be given credit for service in a joint duty assignment pursuant to the provisions of section 933 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2476; 10 U.S.C. 664 note), notwithstanding the expiration (under subsection (e) of that section) of authority to give such credit under that section.
-
-“(2) Paragraph (1) applies—
-
-&emsp;“(A) in the case of an officer who was recommended for such credit under subsection (a)(3) of that section before the expiration (under subsection (e) of that section) of authority to give such credit, but for whom such credit either was denied or was granted as credit for less than a full tour of duty in a joint duty assignment; and
-
-&emsp;“(B) in the case of an officer who did not submit a timely request for consideration for such credit.
-
-“(3)(A) In the case of an officer described in paragraph (2)(A), joint duty credit may be granted by reason of this subsection only if the Secretary determines that the decision not to give the credit or not to give greater credit, as the case may be, to that officer was incorrect.
-
-“(B) In the case of an officer described in paragraph (2)(B), joint duty credit may be granted by reason of this subsection only if the Secretary determines that the officer's ability to submit a timely request was impaired by involvement of the officer in an operational assignment and, as a result of the failure to submit such a timely request, the officer was not recommended for such credit.
-
-“(b)
-
-Duration of Authority.—Subsection (a) expires at the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 30, 1993\].
-
-“(c)
-
-Clarification of Intended Relationship Between Credit and Promotions.—\[Amended section 933(a)(1) of Pub. L. 102–484, below.\]
-
-“(2) Any joint duty service credit given to an officer under section 933(a)(1) of the National Defense Authorization Act for Fiscal Year 1993 before the date of the enactment of this Act \[Nov. 30, 1993\] may be applied to any provision of title 10, United States Code.”
-
-Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II,§202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, provided that:
-
-“(a)
-
-Authority To Give Joint Duty Credit.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, may give an officer who has completed service described in paragraph (2) credit for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of title 10, United States Code, notwithstanding the length of such service or whether that service is within the definition of ‘joint duty assignment’ in section 668 of title 10, United States Code.
-
-“(2) Service referred to in paragraph (1) is service performed by an officer, any portion of which took place during the period beginning on August 2, 1990, and ending on February 28, 1991, in an assignment in the Persian Gulf combat zone that (as determined by the Secretary of Defense) provided significant experience in joint matters.
-
-“(3) The Secretary, after consultation with the Chairman of the Joint Chiefs of Staff, may give credit for service in a joint duty assignment under paragraph (1) in the case of an officer recommended for such credit by the Chief of Staff of the Army (for officers in the Army), the Chief of Naval Operations (for officers in the Navy), the Chief of Staff of the Air Force (for officers in the Air Force), and the Commandant of the Marine Corps (for officers in the Marine Corps). Any such credit shall be granted by the Secretary on a case-by-case basis.
-
-“(4) The Secretary of Defense shall establish uniform criteria for defining the standards to be used in determining whether to give an officer credit for service in a joint duty assignment under paragraph (1). Such criteria shall be consistent with the congressional declarations of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) and section 3 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 \[Pub. L. 99–433\] (10 U.S.C. 111 note). The criteria shall include standards to be used in determining whether to give an officer credit for completion of a full tour of duty, or credit countable for determining cumulative service, in a joint duty assignment. Such criteria may not result in the extension of eligibility for joint duty credit under this section to all officers in a specified category of officers that exists other than for reasons of this section.
-
-“(b)
-
-Inapplicability of Certain Reporting and Policy Requirements.—(1) Officers for whom joint duty credit is granted pursuant to subsection (a) shall not be counted for the purposes of paragraphs (7), (8), (9), (11), and (12) of section 667 of title 10, United States Code, and subsections (a)(3) and (b) of section 662 of such title.
-
-“(2) In the case of an officer for whom credit for completion of a full tour of duty in a joint duty assignment is granted pursuant to subsection (a), the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of title 10, United States Code, that, for purposes of nomination to the joint specialty under chapter 38 of such title, a full tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section.
-
-“(c)
-
-Information To Be Included in Next Annual Report.—The joint specialty report of the Secretary of Defense under section 667 of title 10, United States Code, for fiscal year 1993 shall include the following information (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, and Marine Corps):
-
-&emsp;“(1) The number of officers granted credit for a joint duty assignment pursuant to subsection (a).
-
-&emsp;“(2) Of such officers, the number granted credit for a full tour of duty in a joint duty assignment pursuant to subsection (a) and the number granted credit for a joint duty assignment that is not treated as a full tour of duty.
-
-&emsp;“(3) Of the officers granted credit for a joint duty assignment pursuant to subsection (a), the number in each grade and each occupational specialty.
-
-“(d)
-
-Definitions.—For purposes of this section:
-
-&emsp;“(1) The term ‘joint matters’ has the meaning given such term in section 668(a) of title 10, United States Code.
-
-&emsp;“(2) The term ‘Persian Gulf combat zone’ means the area designated by the President as the combat zone for Operation Desert Shield, Operation Desert Storm, and related operations for purposes of section 112 of the Internal Revenue Code of 1986 \[26 U.S.C. 112\].
-
-&emsp;“(3) The term ‘joint specialty report’ means that part of the annual report of the Secretary of Defense submitted to Congress under section 113(c) of title 10, United States Code, that is included in such report pursuant to section 667 of title 10, United States Code.
-
-“(e)
-
-Duration of Authority.—The authority of the Secretary of Defense under this section expires at the end of the six-month period beginning on the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone, credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of “joint duty assignment” in section 668 of this title, and provided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
 
 #### Length of Joint Duty Assignments
 
@@ -323,4 +267,6 @@ Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 6
 #### Waiver of Qualifications for Appointment as Service Chief
 
 For waiver of the requirements of this section for the length of a joint duty assignment, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

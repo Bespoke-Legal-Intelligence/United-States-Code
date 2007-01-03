@@ -2,7 +2,7 @@
 
 (a) The provisions of section 4651 of this title create no rights or liabilities and shall not affect the validity of any property acquisitions by purchase or condemnation.
 
-(b) Nothing in this chapter shall be construed as creating in any condemnation proceedings brought under the power of eminent domain,any element of value or of damage not in existence immediately prior to January 2, 1971.
+(b) Nothing in this chapter shall be construed as creating in any condemnation proceedings brought under the power of eminent domain, any element of value or of damage not in existence immediately prior to January 2, 1971.
 
 (Pub. L. 91–646, title I, §102, Jan. 2, 1971, 84 Stat. 1895.)
 

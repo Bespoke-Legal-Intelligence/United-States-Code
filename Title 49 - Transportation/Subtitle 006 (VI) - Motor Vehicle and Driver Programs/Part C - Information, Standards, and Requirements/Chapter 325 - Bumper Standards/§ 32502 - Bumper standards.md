@@ -114,7 +114,7 @@ In subsection (d), before clause (1), the words “to the public” are substitu
 
 In subsection (e), the words “Section 553 of title 5 applies to a standard prescribed under this section” are substituted for “All rules establishing, amending, or revoking a bumper standard under this subchapter shall be issued pursuant to section 553 of title 5”, the words “opportunity to make oral and written presentations of information, views, and arguments” are substituted for “opportunity for oral presentation of data, views, or arguments, and the opportunity to make written submissions”, the words “Under conditions prescribed by the Secretary” are substituted for “in accordance with such conditions or limitations as he may make applicable thereto”, and the words “material to a standard” are substituted for “material to the establishing, amending, or revoking of a bumper standard”, to eliminate unnecessary words.
 
-In subsection (f), the words “However, the Secretary may prescribe a later date when the Secretary submits” are substituted for “unless the Secretary presents” for clarity. The word “reasons” is substitutedfor “a detailed explanation of the reasons” to eliminate unnecessary words.
+In subsection (f), the words “However, the Secretary may prescribe a later date when the Secretary submits” are substituted for “unless the Secretary presents” for clarity. The word “reasons” is substituted for “a detailed explanation of the reasons” to eliminate unnecessary words.
 
 #### Amendments
 

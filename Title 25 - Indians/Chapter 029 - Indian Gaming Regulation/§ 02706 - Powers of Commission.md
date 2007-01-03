@@ -38,9 +38,29 @@ The Commission—
 
 &emsp;(10) shall promulgate such regulations and guidelines as it deems appropriate to implement the provisions of this chapter.
 
-(Pub. L. 100–497, §7, Oct. 17, 1988, 102 Stat. 2470.)
+#### (c) Omitted
+
+#### (d) Application of Government Performance and Results Act
+
+#### (1) In general
+
+&emsp;In carrying out any action under this chapter, the Commission shall be subject to the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285).
+
+#### (2) Plans
+
+&emsp;In addition to any plan required under the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285), the Commission shall submit a plan to provide technical assistance to tribal gaming operations in accordance with that Act.
+
+(Pub. L. 100–497, §7, Oct. 17, 1988, 102 Stat. 2470; Pub. L. 109–221, title III, §301(a), May 12, 2006, 120 Stat. 341.)
+
+#### References in Text
+
+The Government Performance and Results Act of 1993, referred to in subsec. (d), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Codification
 
 Subsec. (c) of this section, which required the Commission to submit a report to Congress every two years on various matters relating to the operation of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104-66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 114 of House Document No. 103-7.
+
+#### Amendments
+
+2006—Subsec. (d). Pub. L. 109–221 added subsec. (d).
 

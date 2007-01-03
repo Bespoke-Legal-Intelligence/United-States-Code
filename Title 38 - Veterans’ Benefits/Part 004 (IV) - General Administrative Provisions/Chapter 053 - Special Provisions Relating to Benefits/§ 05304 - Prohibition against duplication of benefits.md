@@ -8,7 +8,7 @@
 
 (2) Benefits other than insurance under laws administered by the Secretary may not be paid or furnished to or on account of any child by reason of the death of more than one parent in the same parental line; however, the child may elect one or more times to receive benefits by reason of the death of any one of such parents.
 
-(3) Benefits other than insurance under laws administered by the Secretary may not be paid to any person by reason of the death of more than one person to whom such person was married; however, the person may elect one or more times to receive benefits by reason of the death of any one spouse.
+(3) Benefits other than insurance under laws administered by the Secretary may not be paidto any person by reason of the death of more than one person to whom such person was married; however, the person may elect one or more times to receive benefits by reason of the death of any one spouse.
 
 (c) Pension, compensation, or retirement pay on account of any person's own service shall not be paid to such person for any period for which such person receives active service pay.
 

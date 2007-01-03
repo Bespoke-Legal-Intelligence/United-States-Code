@@ -1,10 +1,10 @@
 ### §1153. Offenses committed within Indian country
 
-(a) Any Indian who commits against the person or property of another Indian or other person any of the following offenses, namely, murder, manslaughter, kidnapping, maiming, a felony under chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title), an assault against an individual who has not attained the age of 16 years, arson, burglary, robbery, and a felony under section 661 of this title within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses, within the exclusive jurisdiction of the United States.
+(a) Any Indian who commits against the person or property of another Indian or other person any of the following offenses, namely, murder, manslaughter, kidnapping, maiming, a felony under chapter 109A, incest, assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title), an assault against an individual who has not attained the age of 16 years, felony child abuse or neglect, arson, burglary, robbery, and a felony under section 661 of this title within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses, within the exclusive jurisdiction of the United States.
 
 (b) Any offense referred to in subsection (a) of this section that is not defined and punished by Federal law in force within the exclusive jurisdiction of the United States shall be defined and punished in accordance with the laws of the State in which such offense was committed as are in force at the time of such offense.
 
-(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, §26, 63 Stat. 94; Pub. L. 89–707, §1, Nov. 2, 1966, 80 Stat. 1100; Pub. L. 90–284, title V, §501, Apr. 11, 1968, 82 Stat. 80; Pub. L. 94–297, §2, May 29, 1976, 90 Stat. 585; Pub. L. 98–473, title II, §1009, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 99–303, May 15, 1986, 100 Stat. 438; Pub. L. 99–646, §87(c)(5), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(5), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, §7027, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title XVII, §170201(e), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2043, 2150.)
+(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, §26, 63 Stat. 94; Pub. L. 89–707, §1, Nov. 2, 1966, 80 Stat. 1100; Pub. L. 90–284, title V, §501, Apr. 11, 1968, 82 Stat. 80; Pub. L. 94–297, §2, May 29, 1976, 90 Stat. 585; Pub. L. 98–473, title II, §1009, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 99–303, May 15,1986, 100 Stat. 438; Pub. L. 99–646, §87(c)(5), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(5), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, §7027, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title XVII, §170201(e), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2043, 2150; Pub. L. 109–248, title II, §215, July 27, 2006, 120 Stat. 617.)
 
 #### Historical and Revision Notes
 
@@ -36,6 +36,8 @@ This section \[section 26\] removes an ambiguity in section 1153 of title 18, U.
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–248 inserted “felony child abuse or neglect,” after “years,”.
+
 1994—Subsec. (a). Pub. L. 103–322 substituted “kidnapping” for “kidnaping” and inserted “(as defined in section 1365 of this title), an assault against an individual who has not attained the age of 16 years” after “serious bodily injury”.
 
 1988—Subsec. (a). Pub. L. 100–690 substituted “maiming, a felony under chapter 109A, incest” for “ ‘maiming’ and all that follows through ‘incest’ ”, thus clarifying execution of amendment by Pub. L. 99–646 and Pub. L. 99–654 but resulting in no change in text. See 1986 Amendment note below.
@@ -56,5 +58,5 @@ Pub. L. 99–303 inserted section catchline which had been eliminated by general
 
 #### Effective Date of 1986 Amendments
 
-Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
+Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 days after Nov. 10, 1986, and 30days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 

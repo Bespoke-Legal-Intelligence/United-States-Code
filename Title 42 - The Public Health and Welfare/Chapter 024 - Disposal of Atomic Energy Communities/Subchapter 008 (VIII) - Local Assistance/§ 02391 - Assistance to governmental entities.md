@@ -28,7 +28,7 @@ Payments made under this section shall be payments made for special burdens impo
 
 #### (d) Recommendation for further assistance payments
 
-With respect to any entity not less than six months prior to the expiration of the ten-year period referred to in subsection (a) of this section (or not less than six months prior to June 30, 1979, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico), the Administrator shallpresent to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity. If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.
+With respect to any entity not less than six months prior to the expiration of the ten-yearperiod referred to in subsection (a) of this section (or not less than six months prior to June 30, 1979, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico), the Administrator shall present to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity. If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.
 
 #### (e) Reduction or termination of assistance payments; determination by Administrator of financial self-sufficiency
 
@@ -68,7 +68,7 @@ Energy Research and Development Administration terminated and functions vested b
 
 #### Conveyance to Los Alamos, New Mexico
 
-Pub. L. 105–119, title VI, §632, Nov. 26, 1997, 111 Stat. 2523, as amended by Pub. L. 108–375, div. C, title XXXI, §3148, Oct. 28, 2004, 118 Stat. 2177, provided that:
+Pub. L. 105–119, title VI, §632, Nov. 26, 1997, 111 Stat. 2523, as amended by Pub. L. 108–375, div. C, title XXXI, §3148, Oct. 28, 2004, 118 Stat. 2177; Pub. L. 109–364, div. C, title XXXI, §3119, Oct. 17, 2006, 120 Stat. 2509, provided that:
 
 “(a)
 
@@ -78,7 +78,7 @@ In General.—The Secretary of Energy shall—
 
 &emsp;“(2) notwithstanding paragraph (1) and the agreement under subsection (e), convey, without consideration, to the Board of Education of the Los Alamos Public Schools, New Mexico, within the County, fee title to the parcels of land identified by the Department of Energy as Parcel A–8 and Parcel A–15–1 that are currently located in Technical Area–21 of Los Alamos National Laboratory upon the entry of Los Alamos Public Schools and the County into an agreement for the use of the parcel of land identified as Parcel A–8; and
 
-&emsp;“(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this section referred to as the ‘Pueblo’), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
+&emsp;“(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this sectionreferred to as the ‘Pueblo’), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
 
 “(b)
 
@@ -108,7 +108,7 @@ Environmental Restoration.—(1) Not later than 21 months after the date of enac
 
 &emsp;“(C) submit to Congress a report setting forth the results of the activities under subparagraphs (A) and (B).
 
-“(2) If the Secretary determines under paragraph (1) that a parcel described in paragraph (1)(A) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than 10 years after the date of enactment of this Act.
+“(2) If the Secretary determines under paragraph (1) that a parcel described in paragraph (1)(A) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than November 26, 2012.
 
 “(e)
 
@@ -128,7 +128,7 @@ Conveyance or Transfer.—(1) Subject to paragraphs (2) and (3), the Secretary s
 
 “(3)(A) In the case of a parcel allocated under the agreement that is not available for conveyance or transfer in accordance with such requirement by reason of requirements for environmental restoration or remediation, the Secretary shall convey or transfer the parcel, as the case may be, upon the completion of the environmental restoration or remediation that is required with respect to the parcel.
 
-“(B) If the Secretary determines that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel by the end of the 10-year period beginning on the date of enactment of this Act \[Nov. 26, 1997\], the Secretary shall not convey or transfer the parcel under this section.
+“(B) If the Secretary determines that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel by November 26, 2012, the Secretary shall not convey or transfer the parcel under this section.
 
 “(h)
 
@@ -152,7 +152,7 @@ Pub. L. 99–145, title XV, §1532, Nov. 8, 1985, 99 Stat. 773, as amended by Pu
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 
-Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
+Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy,etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

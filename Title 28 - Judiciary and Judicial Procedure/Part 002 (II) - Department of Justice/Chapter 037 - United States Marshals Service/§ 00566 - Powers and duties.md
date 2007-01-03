@@ -2,7 +2,7 @@
 
 (a) It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals and the Court of International Trade.
 
-(b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district, and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
+(b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district,and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
 
 (c) Except as otherwise provided by law or Rule of Procedure, the United States Marshals Service shall execute all lawful writs, process, and orders issued under the authority of the United States, and shall command all necessary assistance to execute its duties.
 

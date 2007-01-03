@@ -8,9 +8,33 @@ In General.—(1) For purposes of this section and any other provision of law, a
 
 &emsp;(B) is required as a condition of that employment to maintain membership in the Selected Reserve; and
 
-&emsp;(C) is assigned to a civilian position as a technician in the administration and training of the Selected Reserve or in the maintenance and repair of supplies or equipment issued to the Selected Reserve or the armed forces.
+&emsp;(C) is assigned to a civilian position as a technician in the organizing, administering, instructing, or training of the Selected Reserve or in the maintenance and repair of supplies or equipment issued to the Selected Reserve or the armed forces.
 
 (2) Military technicians (dual status) shall be authorized and accounted for as a separate category of civilian employees.
+
+(3) A military technician (dual status) who is employed under section 3101 of title 5 may perform the following additional duties to the extent that the performance of those duties does not interfere with the performance of the primary duties described in paragraph (1):
+
+&emsp;(A) Supporting operations or missions assigned in whole or in part to the technician's unit.
+
+&emsp;(B) Supporting operations or missions performed or to be performed by—
+
+&emsp;&emsp;(i) a unit composed of elements from more than one component of the technician's armed force; or
+
+&emsp;&emsp;(ii) a joint forces unit that includes—
+
+&emsp;&emsp;&emsp;(I) one or more units of the technician's component; or
+
+&emsp;&emsp;&emsp;(II) a member of the technician's component whose reserve component assignment is in a position in an element of the joint forces unit.
+
+&emsp;(C) Instructing or training in the United States or the Commonwealth of Puerto Rico or possessions of the United States of—
+
+&emsp;&emsp;(i) active-duty members of the armed forces;
+
+&emsp;&emsp;(ii) members of foreign military forces (under the same authorities and restrictions applicable to active-duty members providing such instruction or training);
+
+&emsp;&emsp;(iii) Department of Defense contractor personnel; or
+
+&emsp;&emsp;(iv) Department of Defense civilian employees.
 
 (b)
 
@@ -38,7 +62,7 @@ Information Required To Be Submitted With Annual End Strength Authorization Requ
 
 &emsp;(D) The number of technicians other than military technicians (dual status) in other than high priority units and organizations specified in subsection (b)(1).
 
-(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(c) <sup>1</sup> of this title of a military technician (dual status) end strength for a reserve component of the Army or Air Force in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
+(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(c) <sup>1</sup> of this title of amilitary technician (dual status) end strength for a reserve component of the Army or Air Force in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
 
 (B) Any justification submitted under subparagraph (A) shall clearly delineate the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those reductions).
 
@@ -62,7 +86,7 @@ Dual Status Requirement.—(1) Funds appropriated for the Department of Defense 
 
 Deferral of Mandatory Separation.—The Secretary of the Army shall implement personnel policies so as to allow a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date for officers, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 60 and attains eligibility for an unreduced annuity (as defined in section 10218(c) of this title).
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L.104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232.)
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194.)
 
 #### References in Text
 
@@ -70,7 +94,11 @@ Section 115(c) of this title, referred to in subsecs. (b)(1) and (c)(1), (2)(A),
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
+2006—Subsec. (a)(1)(C). Pub. L. 109–364, §525(b)(1), substituted “organizing, administering, instructing, or” for “administration and”.
+
+Subsec. (a)(3). Pub. L. 109–364, §525(b)(2), added par. (3).
+
+Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
 2003—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 108–136 substituted “section 115(c)” for “115(g)”.
 

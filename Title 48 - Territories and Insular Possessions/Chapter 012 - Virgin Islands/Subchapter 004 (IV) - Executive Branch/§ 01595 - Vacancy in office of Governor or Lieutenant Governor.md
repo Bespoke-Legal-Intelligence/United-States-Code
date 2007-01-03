@@ -22,7 +22,7 @@ In case of the temporary disability or temporary absence of both the Governor an
 
 #### (f) Additional compensation
 
-No additional compensation shall be paid to any person acting as Governor or LieutenantGovernor who does not also assume the office of Governor or Lieutenant Governor under the provisions of this chapter.
+No additional compensation shall be paid to any person acting as Governor or Lieutenant Governor who does not also assume the office of Governor or Lieutenant Governor under the provisions of this chapter.
 
 (July 22, 1954, ch. 558, §14, 68 Stat. 504; Pub. L. 90–496, §7(a), Aug. 23, 1968, 82 Stat. 839.)
 

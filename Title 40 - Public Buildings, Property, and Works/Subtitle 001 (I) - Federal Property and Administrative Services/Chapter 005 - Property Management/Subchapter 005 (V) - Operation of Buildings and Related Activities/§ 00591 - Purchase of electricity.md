@@ -20,7 +20,7 @@ Energy savings.—This section does not preclude the head of a federal agency fr
 
 Energy savings for military installations.—This section does not preclude the Secretary of a military department from—
 
-&emsp;&emsp;(A) entering into a contract under section 2394 of title 10; or
+&emsp;&emsp;(A) entering into a contract under section 2394 <sup>1</sup> of title 10; or
 
 &emsp;&emsp;(B) purchasing electricity from any provider if the Secretary finds that the utility having the applicable state-approved franchise (or other service authorization) is unwilling or unable to meet unusual standards of service reliability that are necessary for purposes of national defense.
 
@@ -43,4 +43,10 @@ Historical and Revision Notes
 Pub. L. 100–202, §101(b) \[title VIII, §8093\], Dec. 22, 1987, 101 Stat. 1329–79.
 
 In subsection (b)(1), the words “section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287)” are substituted for “42 U.S.C. 8287” in section 8093 of the Department of Defense Appropriations Act, 1988 as the probable intent of Congress.
+
+#### References in Text
+
+Section 2394 of title 10, referred to in subsec. (b)(2)(A), was renumbered section 2922a of such title by Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

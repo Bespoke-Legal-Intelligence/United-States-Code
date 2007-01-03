@@ -46,7 +46,7 @@
 
 #### (D) Season-ending United States stocks-to-use ratio
 
-&emsp;&emsp;For the purposes of making estimates under subparagraph (C), the Secretary shall, on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
+&emsp;&emsp;For the purposes of making estimates under subparagraph (C), the Secretary shall,on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
 
 #### (2) Quantity
 

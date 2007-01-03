@@ -2,7 +2,7 @@
 
 Effective on the dates specified, the following provisions of this chapter shall cease to be effective:
 
-&emsp;(1) March 17, 2000: Paragraphs (1), (5) and (6) of section 721(a) of this title; section 721(b) of this title; paragraphs (1), (3) through (5), and (8) through (10) of section 721(c) of this title;section 733 of this title; section 734 of this title; section 751 of this title; section 752 of this title; paragraphs (2) and (4) of section 753(a) of this title; and section 753(c) of this title.
+&emsp;(1) March 17, 2000: Paragraphs (1), (5) and (6) of section 721(a) of this title; section 721(b) of this title; paragraphs (1), (3) through (5), and (8) through (10) of section 721(c) of this title; section 733 of this title; section 734 of this title; section 751 of this title; section 752 of this title; paragraphs (2) and (4) of section 753(a) of this title; and section 753(c) of this title.
 
 &emsp;(2) Upon the transfer of assets to a successor entity and receipt by signatories or former signatories (including COMSAT) of ownership shares in the successor entity of INTELSAT in accordance with appropriate arrangements determined by INTELSAT to implement privatization: Section 735 of this title.
 

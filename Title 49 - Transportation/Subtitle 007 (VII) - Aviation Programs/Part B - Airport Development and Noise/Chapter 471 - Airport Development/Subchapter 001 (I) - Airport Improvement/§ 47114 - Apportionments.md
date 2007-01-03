@@ -32,7 +32,7 @@ Apportionment.—The Secretary shall apportion to the sponsor of each primary ai
 
 &emsp;&emsp;(B)
 
-Minimum and maximum apportionments.—Not less than $650,000 nor more than $22,000,000 may be apportioned under subparagraph (A) of this paragraph to an airport sponsor for a primary airport for each fiscal year.
+Minimum and maximum apportionments.—Not less than $650,000 nor more than$22,000,000 may be apportioned under subparagraph (A) of this paragraph to an airport sponsor for a primary airport for each fiscal year.
 
 &emsp;&emsp;(C)
 
@@ -120,11 +120,11 @@ Population.—The term “population” means the population stated in the lates
 
 &emsp;(2)
 
-Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subjectto apportionment for each fiscal year as follows:
+Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
 
 &emsp;&emsp;(A) 0.66 percent of the apportioned amount to Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
-&emsp;&emsp;(B) Except as provided in paragraph (4), 49.67 percent of the apportioned amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the population of each of those States bears to the total population of all of those States.
+&emsp;&emsp;(B) Except as provided in paragraph (4), 49.67 percent of the apportioned amount forairports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the population of each of those States bears to the total population of all of those States.
 
 &emsp;&emsp;(C) Except as provided in paragraph (4), 49.67 percent of the apportioned amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the area of each of those States bears to the total area of all of those States.
 
@@ -200,7 +200,7 @@ Reducing Apportionments.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year undersection 40117 of this title shall be reduced by an amount equal to—
+In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year under section 40117 of this title shall be reduced by an amount equal to—
 
 &emsp;&emsp;(A) in the case of a fee of $3.00 or less, 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section; and
 
@@ -319,9 +319,9 @@ Revision notes for 49:47114(c)(3)(A) are included to reflect changes made for cl
 | 47114(c) (1)(B) | 49 App.:2206(b)(1). | Sept. 3, 1982, Pub. L. 97–248, §507(b)(1), as amended May 26, 1994, Pub. L. 103–260, §103, 108 Stat. 698. |
 | 47114(c) (3)(B) | 49 App.:2206(b)(3). | Sept. 3, 1982, Pub. L. 97–248, §507(b)(3), as amended May 26, 1994, Pub. L. 103–260, §102, 108 Stat. 698. |
 
-In subsection (c)(3)(A) and (B), the words “If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection” aresubstituted for “In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)” for clarity.
+In subsection (c)(3)(A) and (B), the words “If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection” are substituted for “In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)” for clarity.
 
-In subsection (c)(3)(A), the words “Except as provided in subparagraph (B) of this paragraph” are added for clarity. The words “the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year” are substituted for 49 App.:2206(b)(2)(A), as in effect on July 4, 1994, for clarity and to eliminate unnecessary words.
+In subsection (c)(3)(A), the words “Except as provided in subparagraph (B) of this paragraph” are added forclarity. The words “the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year” are substituted for 49 App.:2206(b)(2)(A), as in effect on July 4, 1994, for clarity and to eliminate unnecessary words.
 
 In subsection (c)(3)(B), the words “the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year” are substituted for 49 App.:2206(b)(3)(A), as in effect on July 4, 1994, for clarity and to eliminate unnecessary words.
 
@@ -393,7 +393,7 @@ Subsec. (d)(2). Pub. L. 104–264, §121(b)(1), substituted “18.5” for “12
 
 Subsec. (d)(2)(A). Pub. L. 104–264, §121(b)(2), substituted “0.66” for “one”.
 
-Subsec. (d)(2)(B), (C). Pub. L. 104–264, §§121(b)(3), (4), substituted “49.67” for “49.5” and “excluding primary airports but including reliever and nonprimary commercial service airports,” for “except primary airports and airports described in section 47117(e)(1)(C) of this title,”.
+Subsec. (d)(2)(B), (C). Pub. L. 104–264, §121(b)(3), (4), substituted “49.67” for “49.5” and “excluding primary airports but including reliever and nonprimary commercial service airports,” for “except primary airports and airports described in section 47117(e)(1)(C) of this title,”.
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–429, §6(66)(A), substituted “$500,000” for “$400,000”.
 
@@ -405,11 +405,11 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 Section 125 of title I of Pub. L. 104–264, which provided that the amendments made by subtitle B (§§121–125) of title I of Pub. L. 104–264, amending this section and sections 47115, 47117, and 47118 of this title, were to cease to be effective on Sept. 30, 1998, and that on and after such date, sections 47114, 47115, 47117, and 47118 of this title were to read as if such amendments had not been enacted, was repealed by Pub. L. 105–277, div. C, title I, §110(a), Oct. 21, 1998, 112 Stat. 2681–587, effective Sept. 29, 1998.
 

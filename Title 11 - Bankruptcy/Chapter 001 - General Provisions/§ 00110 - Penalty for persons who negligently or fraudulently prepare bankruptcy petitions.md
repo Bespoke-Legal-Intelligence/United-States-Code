@@ -4,7 +4,7 @@
 
 &emsp;(1) “bankruptcy petition preparer” means a person, other than an attorney for the debtor or an employee of such attorney under the direct supervision of such attorney, who prepares for compensation a document for filing; and
 
-&emsp;(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
+&emsp;(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court ora United States district court in connection with a case under this title.
 
 (b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer's name and address. If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—
 
@@ -80,7 +80,7 @@
 
 (C) An individual may exempt any funds recovered under this paragraph under section 522(b).
 
-(4) The debtor, the trustee, a creditor, the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court, may file a motion for an order under paragraph (2).<sup>1</sup>
+(4) The debtor, the trustee, a creditor, the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative ofthe court, may file a motion for an order under paragraph (2).<sup>1</sup>
 
 (5) A bankruptcy petition preparer shall be fined not more than $500 for each failure to comply with a court order to turn over funds within 30 days of service of such order.
 
@@ -98,7 +98,7 @@
 
 (2) If the trustee or creditor moves for damages on behalf of the debtor under this subsection, the bankruptcy petition preparer shall be ordered to pay the movant the additional amount of $1,000 plus reasonable attorneys’ fees and costs incurred.
 
-(j)(1) A debtor for whom a bankruptcy petition preparer has prepared a document for filing, thetrustee, a creditor, or the United States trustee in the district in which the bankruptcy petition preparer resides, has conducted business, or the United States trustee in any other district in which the debtor resides may bring a civil action to enjoin a bankruptcy petition preparer from engaging in any conduct in violation of this section or from further acting as a bankruptcy petition preparer.
+(j)(1) A debtor for whom a bankruptcy petition preparer has prepared a document for filing, the trustee, a creditor, or the United States trustee in the district in which the bankruptcy petition preparer resides, has conducted business, or the United States trustee in any other district in which the debtor resides may bring a civil action to enjoin a bankruptcy petition preparer from engaging in any conduct in violation of this section or from further acting as a bankruptcy petition preparer.
 
 (2)(A) In an action under paragraph (1), if the court finds that—
 
@@ -150,7 +150,7 @@ Paragraph (2), referred to in subsec. (h)(4), was redesignated as par. (3) and r
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
+2005—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney underthe direct supervision of such attorney” for “or an employee of an attorney”.
 
 Subsec. (b)(1). Pub. L. 109–8, §221(2)(A), inserted at end “If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—” and added subpars. (A) and (B).
 
@@ -164,7 +164,7 @@ Subsec. (d). Pub. L. 109–8, §221(4), struck out par. (1) designation before �
 
 Subsec. (e)(2). Pub. L. 109–8, §221(5), added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer may be fined not more than $500 for each document executed in violation of paragraph (1).”
 
-Subsec. (f). Pub. L. 109–8, §221(6), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows:“A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
+Subsec. (f). Pub. L. 109–8, §221(6), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
 
 Subsec. (g). Pub. L. 109–8, §221(7), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
 

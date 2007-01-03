@@ -36,6 +36,8 @@ Each future-years nuclear security program shall contain the following:
 
 &emsp;(4) A description of the anticipated workload requirements for each Administration site during that five-fiscal year period.
 
+&emsp;(5) A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear weapons complex under section 2534 of this title, together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation.
+
 #### (c) Consistency in budgeting
 
 (1) The Administrator shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
@@ -50,13 +52,15 @@ Each future-years nuclear security program shall contain the following:
 
 Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c) of this section.
 
-(Pub. L. 106–65, div. C, title XXXII, §3253, Oct. 5, 1999, 113 Stat. 966; Pub. L. 106–398, §1 \[div. C, title XXXI, §3154\], Oct. 30, 2000, 114 Stat. 1654, 1654A–465.)
+(Pub. L. 106–65, div. C, title XXXII, §3253, Oct. 5, 1999, 113 Stat. 966; Pub. L. 106–398, §1 \[div. C, title XXXI, §3154\], Oct. 30, 2000, 114 Stat. 1654, 1654A–465; Pub. L. 109–364, div. C, title XXXI, §3111(b), Oct. 17, 2006, 120 Stat. 2503.)
 
 #### References in Text
 
 Section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3), is section 3158 of Pub. L. 105–261, as amended, which was formerly set out as a note under section 2121 of Title 42, The Public Health and Welfare, and was renumbered section 4202 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(3), Nov. 24, 2003, 117 Stat. 1758. Section 4202 of Pub. L. 107–314 is classified to section 2522 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(5). Pub. L. 109–364 added par. (5).
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(a)\], added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “The estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration during the five-fiscal year period covered by the program, expressed in a level of detail comparable to that contained in the budget submitted by the President to Congress under section 1105 of title 31.”
 
@@ -68,7 +72,7 @@ Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(2)\], redesi
 
 #### Technical Base and Facilities Maintenance and Recapitalization Activities
 
-Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C, title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160, provided that:
+Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C, title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3112, Oct. 17, 2006, 120 Stat. 2503, provided that:
 
 “(a)
 
@@ -90,11 +94,11 @@ Inclusion of Projects in Facilities and Infrastructure Recapitalization Program.
 
 &emsp;“(ii) the date of the submittal to the congressional defense committees of the report required by subsection (c).
 
-“(F) A project may not be carried out under this paragraph unless the project will be completed by September 30, 2011.
+“(F) A project may not be carried out under this paragraph unless the project will be completed by September 30, 2013.
 
 “(b)
 
-Termination of Facilities and Infrastructure Recapitalization Program.—The Administrator shall terminate the Facilities and Infrastructure Recapitalization Program not later than September 30, 2011.
+Termination of Facilities and Infrastructure Recapitalization Program.—The Administrator shall terminate the Facilities and Infrastructure Recapitalization Program not later than September 30, 2013.
 
 “(c)
 

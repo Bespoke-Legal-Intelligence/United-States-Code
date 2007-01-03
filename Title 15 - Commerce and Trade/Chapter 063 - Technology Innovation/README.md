@@ -6,110 +6,30 @@
 | [3702\.](%C2%A7%2003702%20-%20Purpose.md) | Purpose. |
 | [3703\.](%C2%A7%2003703%20-%20Definitions.md) | Definitions. |
 | [3704\.](%C2%A7%2003704%20-%20Commerce%20and%20technological%20innovation.md) | Commerce and technological innovation. |
-| (a) | Establishment. |
-| (b) | Under Secretary and Assistant Secretary. |
-| (c) | Duties. |
-| (d) | Japanese technical literature. |
-| (e) | Omitted. |
-| (f) | Experimental Program to Stimulate Competitive Technology. |
 | [3704a.](%C2%A7%2003704a%20-%20Clearinghouse%20for%20State%20and%20Local%20Initiatives%20on%20Productivity%2C%20Technology%2C%20and%20Innovation.md) | Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation. |
-| (a) | Establishment. |
-| (b) | Responsibilities. |
-| (c) | Contracts. |
 | [3704b.](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md) | National Technical Information Service. |
-| (a) | Powers. |
-| (b) | Director of the Service. |
-| (c) | Advisory Board. |
-| (d) | Audits. |
-| (e) | Functions. |
-| (f) | Notification of Congress. |
 | 3704b–1. | Recovery of operating costs through fee collections. |
 | 3704b–2. | Transfer of Federal scientific and technical information. |
-| (a) | Transfer. |
-| (b) | Omitted. |
 | [3705\.](%C2%A7%2003705%20-%20Cooperative%20Research%20Centers.md) | Cooperative Research Centers. |
-| (a) | Establishment. |
-| (b) | Activities. |
-| (c) | Requirements. |
-| (d) | Planning grants. |
-| (e) | Research and development utilization. |
 | [3706\.](%C2%A7%2003706%20-%20Grants%20and%20cooperative%20agreements.md) | Grants and cooperative agreements. |
-| (a) | In general. |
-| (b) | Eligibility and procedure. |
-| (c) | Terms and conditions. |
 | [3707\.](%C2%A7%2003707%20-%20National%20Science%20Foundation%20Cooperative%20Research%20Centers.md) | National Science Foundation Cooperative Research Centers. |
-| (a) | Establishment and provisions. |
-| (b) | Planning grants. |
-| (c) | Terms and conditions. |
 | [3708\.](%C2%A7%2003708%20-%20Administrative%20arrangements.md) | Administrative arrangements. |
-| (a) | Coordination. |
-| (b) | Cooperation. |
-| (c) | Administrative authorization. |
-| (d) | Cooperative efforts. |
 | [3709\.](%C2%A7%2003709%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93502%2C%20%C2%A79%28a%29%2C%20Oct.%2020%2C%201986%2C%20100%20Stat.%201795.md) | Repealed. |
 | [3710\.](%C2%A7%2003710%20-%20Utilization%20of%20Federal%20technology.md) | Utilization of Federal technology. |
-| (a) | Policy. |
-| (b) | Establishment of Research and Technology Applications Offices. |
-| (c) | Functions of Research and Technology Applications Offices. |
-| (d) | Dissemination of technical information. |
-| (e) | Establishment of Federal Laboratory Consortium for Technology Transfer. |
-| (f) | Agency reports on utilization. |
-| (g) | Functions of Secretary. |
-| (h) | Duplication of reporting. |
-| (i) | Research equipment. |
 | [3710a.](%C2%A7%2003710a%20-%20Cooperative%20research%20and%20development%20agreements.md) | Cooperative research and development agreements. |
-| (a) | General authority. |
-| (b) | Enumerated authority. |
-| (c) | Contract considerations. |
-| (d) | Definitions. |
-| (e) | Determination of laboratory missions. |
-| (f) | Relationship to other laws. |
-| (g) | Principles. |
 | [3710b.](%C2%A7%2003710b%20-%20Rewards%20for%20scientific%2C%20engineering%2C%20and%20technical%20personnel%20of%20Federal%20agencies.md) | Rewards for scientific, engineering, and technical personnel of Federal agencies. |
 | [3710c.](%C2%A7%2003710c%20-%20Distribution%20of%20royalties%20received%20by%20Federal%20agencies.md) | Distribution of royalties received by Federal agencies. |
-| (a) | In general. |
-| (b) | Certain assignments. |
-| (c) | Reports. |
 | [3710d.](%C2%A7%2003710d%20-%20Employee%20activities.md) | Employee activities. |
-| (a) | In general. |
-| (b) | “Special Government employees” defined. |
-| (c) | Relationship to other laws. |
 | [3711\.](%C2%A7%2003711%20-%20National%20Technology%20Medal.md) | National Technology Medal. |
-| (a) | Establishment. |
-| (b) | Award. |
-| (c) | Presentation. |
 | [3711a.](%C2%A7%2003711a%20-%20Malcolm%20Baldrige%20National%20Quality%20Award.md) | Malcolm Baldrige National Quality Award. |
-| (a) | Establishment. |
-| (b) | Making and presentation of award. |
-| (c) | Categories in which award may be given. |
-| (d) | Criteria for qualification. |
-| (e) | Information and technology transfer program. |
-| (f) | Funding. |
-| (g) | Report. |
 | [3711b.](%C2%A7%2003711b%20-%20Conference%20on%20advanced%20automotive%20technologies.md) | Conference on advanced automotive technologies. |
 | [3711c.](%C2%A7%2003711c%20-%20Advanced%20motor%20vehicle%20research%20award.md) | Advanced motor vehicle research award. |
-| (a) | Establishment. |
-| (b) | Making and presenting award. |
-| (c) | Funding for award. |
 | [3712\.](%C2%A7%2003712%20-%20Personnel%20exchanges.md) | Personnel exchanges. |
 | [3713\.](%C2%A7%2003713%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3714\.](%C2%A7%2003714%20-%20Spending%20authority.md) | Spending authority. |
 | [3715\.](%C2%A7%2003715%20-%20Use%20of%20partnership%20intermediaries.md) | Use of partnership intermediaries. |
-| (a) | Authority. |
-| (b) | Omitted. |
-| (c) | “Partnership intermediary” defined. |
 | [3716\.](%C2%A7%2003716%20-%20Critical%20industries.md) | Critical industries. |
-| (a) | Identification of industries and development of plan. |
-| (b) | Initial report. |
 | [3717\.](%C2%A7%2003717%20-%20National%20Quality%20Council.md) | National Quality Council. |
-| (a) | Establishment and functions. |
-| (b) | Membership. |
-| (c) | Terms. |
-| (d) | Chairman and Vice Chairman. |
-| (e) | Executive Director and employees. |
-| (f) | Funding. |
-| (g) | Contributions. |
-| (h) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

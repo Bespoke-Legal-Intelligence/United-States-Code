@@ -30,7 +30,7 @@ Advisory and training assistance conducted by military personnel assigned under 
 
 #### (d) Costs
 
-Effective October 1, 1989, the entire costs (excluding salaries of the United States military personnel other than the Coast Guard) of overseas management of international security assistance programs under this section shall be charged to or reimbursed from funds made available to carry out this part or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], other than any such costs which are either paid directly for such defense services under section 21(a) of the Arms Export Control Act \[22 U.S.C. 2761(a)\] or reimbursed from charges for services collected from foreign governments pursuant to section 21(e) \[22 U.S.C. 2761(e)\] and section 43(b) \[22 U.S.C. 2792(b)\] of that Act.
+Effective October 1, 1989, the entire costs (excluding salaries of the United States military personnel other than the Coast Guard) of overseas management of international security assistance programs under this section shall be charged to or reimbursed from funds made available to carry out this part or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], other thanany such costs which are either paid directly for such defense services under section 21(a) of the Arms Export Control Act \[22 U.S.C. 2761(a)\] or reimbursed from charges for services collected from foreign governments pursuant to section 21(e) \[22 U.S.C. 2761(e)\] and section 43(b) \[22 U.S.C. 2792(b)\] of that Act.
 
 #### (e) Direction and supervision of assigned personnel
 
@@ -80,7 +80,7 @@ Subsec. (h). Pub. L. 97–113 redesignated subsec. (h) as (f).
 
 Subsec. (b)(3). Pub. L. 96–533, §114(2), substituted “assigned to Saudi Arabia” for “assigned to Iran, Kuwait, and Saudi Arabia”, “assigned to such country” for “assigned to such countries” and “assigned to such country exceeds” for “assigned to each such country exceeds”.
 
-Subsec. (f). Pub. L. 96–533, §114(3), substituted “may not exceed six more than the number of defense attache�AE1s” for “may not exceed the number of defenseattache�AE1s” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
+Subsec. (f). Pub. L. 96–533, §114(3), substituted “may not exceed six more than the number of defense attache�AE1s” for “may not exceed the number of defense attache�AE1s” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
 
 1979—Subsec. (b)(1). Pub. L. 96–92, §7(1), substituted “fiscal year 1980” for “fiscal year 1979” and authorized assignment of military personnel for programs in Greece.
 

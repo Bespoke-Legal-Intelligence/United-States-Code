@@ -15,16 +15,6 @@
 | [158\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000158%20-%20Agreement%20to%20arbitrate%3B%20form%20and%20contents%3B%20signatures%20and%20acknowledgment%3B%20revocation.md) | Agreement to arbitrate; form and contents; signatures and acknowledgment; revocation. |
 | [159\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000159%20-%20Award%20and%20judgment%20thereon%3B%20effect%20of%20chapter%20on%20individual%20employee.md) | Award and judgment thereon; effect of chapter on individual employee. |
 | [159a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000159a%20-%20Special%20procedure%20for%20commuter%20service.md) | Special procedure for commuter service. |
-| (a) | Applicability of provisions. |
-| (b) | Request for establishment of emergency board. |
-| (c) | Establishment of emergency board. |
-| (d) | Public hearing by National Mediation Board upon failure of emergency board to effectuate settlement of dispute. |
-| (e) | Establishment of second emergency board. |
-| (f) | Submission of final offers to second emergency board by parties. |
-| (g) | Report of second emergency board. |
-| (h) | Maintenance of status quo during dispute period. |
-| (i) | Work stoppages by employees subsequent to carrier offer selected; eligibility of employees for benefits. |
-| (j) | Work stoppages by employees subsequent to employees offer selected; eligibility of employer for benefits. |
 | [160\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000160%20-%20Emergency%20board.md) | Emergency board. |
 | [161\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000161%20-%20Effect%20of%20partial%20invalidity%20of%20chapter.md) | Effect of partial invalidity of chapter. |
 | [162\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000162%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

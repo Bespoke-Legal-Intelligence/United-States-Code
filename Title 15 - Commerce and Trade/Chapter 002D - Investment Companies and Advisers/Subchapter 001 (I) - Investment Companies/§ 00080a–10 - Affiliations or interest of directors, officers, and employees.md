@@ -16,7 +16,7 @@ No registered investment company shall—
 
 #### (c) Officers, directors, or employees of one bank or bank holding company as majority of board of directors of company; exceptions
 
-No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
+No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
 
 #### (d) Exception to limitation of number of interested persons who may serve on board of directors
 
@@ -32,7 +32,7 @@ Notwithstanding subsections (a) and (b)(2) of this section, a registered investm
 
 &emsp;(5) no sales or promotion expenses are incurred by such registered company; but expenses incurred in complying with laws regulating the issue or sale of securities shall not be deemed sales or promotion expenses;
 
-&emsp;(6) such investment adviser is the only investment adviser to such investment company, and such investment adviser does not receive a management fee exceeding 1 per centum per annum of the value of such company'snet assets averaged over the year or taken as of a definite date or dates within the year;
+&emsp;(6) such investment adviser is the only investment adviser to such investment company, and such investment adviser does not receive a management fee exceeding 1 per centum per annum of the value of such company's net assets averaged over the year or taken as of a definite date or dates within the year;
 
 &emsp;(7) all executive salaries and executive expenses and office rent of such investment company are paid by such investment adviser; and
 
@@ -50,7 +50,7 @@ If by reason of the death, disqualification, or bona fide resignation of any dir
 
 #### (f) Officer, director, etc., of company acting as principal underwriter of security acquired by company
 
-No registered investment company shall knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security (except a security of which such company is the issuer) a principal underwriter of which is an officer, director, member of an advisory board, investment adviser, or employee of such registered company, or is a person (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title) of which any such officer, director, member of an advisory board, investment adviser, or employee is an affiliated person, unless in acquiring such security such registered company is itself acting as a principal underwriter for the issuer. The Commission, by rules and regulations upon its own motion or by order upon application, may conditionally or unconditionally exempt any transaction or classes of transactions from any of the provisions of this subsection, if and to the extent that such exemption is consistent with the protection of investors.
+No registered investment company shall knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security (except a security of which such company is the issuer) a principal underwriter of which is an officer, director, member of an advisory board, investment adviser, or employee of such registered company, or is a person (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title) of which any such officer, director, member of an advisory board, investment adviser, or employee is an affiliated person, unless in acquiring such security such registered company is itself acting as a principal underwriter for the issuer. The Commission, by rulesand regulations upon its own motion or by order upon application, may conditionally or unconditionally exempt any transaction or classes of transactions from any of the provisions of this subsection, if and to the extent that such exemption is consistent with the protection of investors.
 
 #### (g) Advisory boards; restrictions on membership
 
@@ -66,9 +66,11 @@ In the case of a registered management company which is an unincorporated compan
 
 &emsp;(3) the provisions of subsection (f) of this section shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165; Pub. L. 106–102, title II, §213(c), Nov. 12, 1999, 113 Stat. 1398.)
+(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165; Pub. L. 106–102, title II, §213(c), Nov. 12, 1999, 113 Stat. 1398; Pub. L. 109–351, title IV, §401(c), Oct. 13, 2006, 120 Stat. 1973.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–351 inserted “or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),” after “1841 of title 12)”.
 
 1999—Subsec. (c). Pub. L. 106–102 substituted “bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except” for “bank, except”.
 
@@ -98,5 +100,7 @@ For effective date of amendment by Pub. L. 91–547, see section 30 (introductor
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -10,7 +10,7 @@
 
 &emsp;(1) is eligible for educational assistance under chapter 30, 31, or 32 of this title or chapter 106 or 107 of title 10;
 
-&emsp;(2) was discharged or released from active duty under conditions other than dishonorable if not more than one year has elapsed sincethe date of such last discharge or release from active duty; or
+&emsp;(2) was discharged or released from active duty under conditions other than dishonorable if not more than one year has elapsed since the date of such last discharge or release from active duty; or
 
 &emsp;(3) is serving on active duty in any State with the Armed Forces and is within 180 days of the estimated date of such individual's discharge or release from active duty under conditions other than dishonorable, including those who are making a determination of whether to continue as members of the Armed Forces.
 

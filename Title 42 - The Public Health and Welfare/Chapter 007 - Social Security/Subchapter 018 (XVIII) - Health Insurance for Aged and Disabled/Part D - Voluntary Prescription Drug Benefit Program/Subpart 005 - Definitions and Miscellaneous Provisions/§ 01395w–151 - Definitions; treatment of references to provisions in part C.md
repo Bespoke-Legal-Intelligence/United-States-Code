@@ -40,7 +40,7 @@ For purposes of this part:
 
 &emsp;The term “MA–PD plan” has the meaning given such term in section 1395w–101(a)(3)(C) of this title.<sup>1</sup>
 
-#### (10) Medicare prescription drug account
+#### (10) Medicare Prescription Drug Account
 
 &emsp;The term “Medicare Prescription Drug Account” means the Account created under section 1395w–116(a) of this title.
 
@@ -100,7 +100,7 @@ For purposes of applying provisions of part C of this subchapter under this part
 
 Part C of this subchapter, referred to in subsec. (b), is classified to section 1395w–21 et seq. of this title.
 
-Section 1395w–101(a)(3) of this title, referred to in subsec. (a)(4), (8), (9), was in the original “section 1860D–1(a)(4)”, and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to section 1395w–101(a)(3) of this title, to reflect the probable intent of Congress, because section 1395w–101(a) of this title does not contain a par. (4) and par. (3) defines terms for purposes of this part.
+Section 1395w–101(a)(3) of this title, referred to in subsec. (a)(4), (8), (9), was in the original “section1860D–1(a)(4)”, and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to section 1395w–101(a)(3) of this title, to reflect the probable intent of Congress, because section 1395w–101(a) of this title does not contain a par. (4) and par. (3) defines terms for purposes of this part.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

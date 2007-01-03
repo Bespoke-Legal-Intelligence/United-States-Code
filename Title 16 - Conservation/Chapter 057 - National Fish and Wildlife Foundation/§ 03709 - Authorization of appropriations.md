@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this chapter for each of fiscal years 2001 through 2005—
+&emsp;There are authorized to be appropriated to carry out this chapter for each of fiscal years 2006 through 2010—
 
 &emsp;&emsp;(A) $25,000,000 to the Department of the Interior; and
 
@@ -16,7 +16,7 @@
 
 #### (3) Use of appropriated funds
 
-&emsp;Subject to paragraph (4), amounts made available under paragraph (1) shall be provided to the Foundation for use for matching, on a 1-to-1 basis, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+&emsp;Subject to paragraph (4), amounts made available under paragraph (1) shall be provided to the Foundation for use for matching, on a 1-to-1 basis, contributions (whether in currency, services, or property) made to the Foundation, or to a recipient of a grant provided by the Foundation, by private persons and State and local government agencies.
 
 #### (4) Prohibition on use for administrative expenses
 
@@ -40,9 +40,13 @@ Amounts provided as a grant by the Foundation shall not be used for—
 
 &emsp;(2) any activity the purpose of which is to influence legislation pending before Congress.
 
-(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, §6, Feb. 12, 2002, 116 Stat. 14.)
+(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, §6, Feb. 12, 2002, 116 Stat. 14; Pub. L. 109–363, title II, §§202, 204, Oct. 17, 2006, 120 Stat. 2075.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–363, §202, substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
+
+Subsec. (a)(3). Pub. L. 109–363, §204, inserted “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
 
 2002—Subsec. (a)(1). Pub. L. 107–141, §6(1), substituted “2005” for “2003”.
 

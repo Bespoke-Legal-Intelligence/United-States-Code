@@ -6,7 +6,7 @@ Schedule.—
 
 &emsp;(1)
 
-Alternatives analysis.—The Secretary shall cooperate with an applicant undertaking an alternatives analysis required by subsections (d) and (e) of section 5309 in the alternatives analysis and in preparing a draft environmental impact statement and shall approve the draft for circulation not later than45 days after the applicant submits the draft to the Secretary.
+Alternatives analysis.—The Secretary shall cooperate with an applicant undertaking an alternatives analysis required by subsections (d) and (e) of section 5309 in the alternatives analysis and in preparing a draft environmental impact statement and shall approve the draft for circulation not later than 45 days after the applicant submits the draft to the Secretary.
 
 &emsp;(2)
 
@@ -58,7 +58,7 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 &emsp;(H) other programs designated by law or the Secretary.
 
-(2) Consistent with the time requirements of subsection (a) of this section or as otherwiseprovided by law, the Secretary shall make at least one full financing grant agreement for each program described in paragraph (1) of this subsection. The agreement shall include commitments to advance each of the applicant's program elements (in the program of interrelated projects) through the appropriate program review stages as provided in subsection (a) or as otherwise provided by law and to provide Government financing for each element. The agreement may be changed to include design and construction of a particular element.
+(2) Consistent with the time requirements of subsection (a) of this section or as otherwise provided by law, the Secretary shall make at least one full financing grant agreement for each program described in paragraph (1) of this subsection. The agreement shall include commitments to advance each of the applicant's program elements (in the program of interrelated projects) through the appropriate program review stages as provided in subsection (a) or as otherwise provided by law and to provide Government financing for each element. The agreement may be changed to include design and construction of a particular element.
 
 (3) When reviewing a project in a program of interrelated projects, the Secretary shall consider the local financial commitment, transportation effectiveness, and other assessment factors of all program elements to the extent consideration expedites carrying out the project.
 

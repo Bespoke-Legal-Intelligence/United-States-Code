@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) referrals to providers of medical services (including specialty referral when medically indicated) and other health-related services (including substance abuse and mental health services);
 
-&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
+&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed toassist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
 
 &emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 
@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### (B) Exception
 
-&emsp;&emsp;With respect to a health center that receives a grant only under subsection (g) ofthis section, the Secretary, upon a showing of good cause, shall—
+&emsp;&emsp;With respect to a health center that receives a grant only under subsection (g) of this section, the Secretary, upon a showing of good cause, shall—
 
 &emsp;&emsp;&emsp;(i) waive the requirement that the center provide all required primary health services under this paragraph; and
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (B) Managed care networks and plans
 
-&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under thissection to enable the centers to plan and develop a managed care network or plan. Such a grant may only be made for such a center if—
+&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under this section to enable the centers to plan and develop a managed care network or plan. Such a grant may only be made for such a center if—
 
 &emsp;&emsp;&emsp;(i) the center has received grants under subsection (e)(1)(A) of this section for at least 2 consecutive years preceding the year of the grant under this subparagraph or has otherwise demonstrated, as required by the Secretary, that such center has been providing primary care services for at least the 2 consecutive years immediately preceding such year; and
 
@@ -272,7 +272,7 @@ For purposes of this section:
 
 #### (B) Foreclosure
 
-&emsp;&emsp;The Secretary may take such action, consistent with State law respecting foreclosure procedures and, with respect to reserves required for furnishing services on a prepaid basis, subject to the consent of the affected States, as the Secretary determines appropriate to protect the interest of the United States in the event of a default on a loan guaranteed under this subsection, except that the Secretary may only foreclose on assets offered as security (if any) in accordance with paragraph (2)(A)(i).
+&emsp;&emsp;The Secretary may take such action, consistent with State law respecting foreclosureprocedures and, with respect to reserves required for furnishing services on a prepaid basis, subject to the consent of the affected States, as the Secretary determines appropriate to protect the interest of the United States in the event of a default on a loan guaranteed under this subsection, except that the Secretary may only foreclose on assets offered as security (if any) in accordance with paragraph (2)(A)(i).
 
 #### (5) Limitation
 
@@ -348,7 +348,7 @@ For purposes of this section:
 
 #### (2) Priority
 
-&emsp;In making grants under this subsection the Secretary shall give priority to health centers providing services to any medically underserved population among which there is a substantial incidence of infant mortality or among which there is a significant increase in the incidence of infant mortality.
+&emsp;In making grants under this subsection the Secretary shall give priority to health centersproviding services to any medically underserved population among which there is a substantial incidence of infant mortality or among which there is a significant increase in the incidence of infant mortality.
 
 #### (3) Requirements
 
@@ -514,7 +514,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) a demonstration by the applicant that the area or the population group to be served by the applicant has a shortage of personal health services; and
 
-&emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing inthe catchment area or included in such population group.
+&emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing in the catchment area or included in such population group.
 
 > &emsp;Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under subsection (b)(3) of this section or on any other criteria which the Secretary may prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services. In considering an application for a grant under subparagraph (A) or (B) of subsection (e)(1) of this section, the Secretary may require as a condition to the approval of such application an assurance that the applicant will provide any health service defined under paragraphs (1) and (2) of subsection (b) of this section that the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided to the applicant.
 
@@ -560,9 +560,9 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) is composed of individuals, a majority of whom are being served by the center and who, as a group, represent the individuals being served by the center;
 
-&emsp;&emsp;&emsp;(ii) meets at least once a month, selects the services to be provided by the center, schedules the hours during which such services will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except in the case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
+&emsp;&emsp;&emsp;(ii) meets at least once a month, selects the services to be provided by the center, schedules the hours during which suchservices will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except in the case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
 
-&emsp;&emsp;&emsp;(iii) in the case of an application for a second or subsequent grant for a publiccenter, has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;
+&emsp;&emsp;&emsp;(iii) in the case of an application for a second or subsequent grant for a public center, has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;
 
 > &emsp;&emsp;except that, upon a showing of good cause the Secretary shall waive, for the length of the project period, all or part of the requirements of this subparagraph in the case of a health center that receives a grant pursuant to subsection (g), (h), (i), or (p) of this section;
 
@@ -686,7 +686,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (B) Distribution of grants
 
-&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awarding grants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
+&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awardinggrants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
 
 #### (3) Funding report
 
@@ -830,7 +830,7 @@ Subsec. (<i>l</i>). Pub. L. 107–251, §101(8)(A), redesignated subsec. (<i>l</
 
 Subsec. (m). Pub. L. 107–251, §101(9), which directed striking subsec. (m) (as redesignated by paragraph (9)(B)) and adding a new subsec. (m), could not be executed. The new subsec. (m) to be added read as follows: “(m)
 
-Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (<i>l</i>)(3) of this section. Services provided through the program may include necessary technicaland nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.”
+Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (<i>l</i>)(3) of this section. Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.”
 
 Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
 

@@ -2,7 +2,7 @@
 
 #### (a) Effectiveness and finality of orders
 
-A compensation order shall become effective when filed in the office of the deputy commissioner as provided in section 919 of this title, and, unless proceedings for the suspension orsetting aside of such order are instituted as provided in subsection (b) of this section, shall become final at the expiration of the thirtieth day thereafter.
+A compensation order shall become effective when filed in the office of the deputy commissioner as provided in section 919 of this title, and, unless proceedings for the suspension or setting aside of such order are instituted as provided in subsection (b) of this section, shall become final at the expiration of the thirtieth day thereafter.
 
 #### (b) Benefits Review Board; establishment; members; chairman; quorum; voting; questions reviewable; record; conclusiveness of findings; stay of payments; remand
 
@@ -14,7 +14,7 @@ A compensation order shall become effective when filed in the office of the depu
 
 (4) The Board may, on its own motion or at the request of the Secretary, remand a case to the administrative law judge for further appropriate action. The consent of the parties in interest shall not be a prerequisite to a remand by the Board.
 
-(5) Notwithstanding paragraphs (1) through (4), upon application of the Chairman of the Board, the Secretary may designate up to four Department of Labor administrative law judges to serve on the Board temporarily, for not more than one year. The Board is authorized to delegate to panels of three members any or all of the powers which the Board may exercise. Each such panel shall have no more than one temporary member. Two members shall constitute a quorum of a panel. Official adjudicative action may be taken only on the affirmative vote of at least two members of a panel. Any party aggrieved by a decision of a panel of the Board may, within thirty days after the date of entry of the decision, petition the entire permanent Board for review of the panel's decision. Upon affirmative vote of the majority of the permanent members of the Board, the petition shall be granted. The Board shall amend its Rules of Practice to conform with this paragraph. Temporary members, while serving as members of the Board, shall be compensated at the same rate of compensation as regular members.
+(5) Notwithstanding paragraphs (1) through (4), upon application of the Chairman of the Board, the Secretary may designate up to four Department of Labor administrative law judges to serve on the Board temporarily, for not more than one year. The Board is authorized to delegate to panels of three members any or all of the powers which the Board may exercise. Each such panel shall have no more than one temporary member. Two members shall constitute a quorum of a panel. Official adjudicative action may be taken only on the affirmative vote of at least two members of a panel. Any party aggrieved by a decision of a panel of the Boardmay, within thirty days after the date of entry of the decision, petition the entire permanent Board for review of the panel's decision. Upon affirmative vote of the majority of the permanent members of the Board, the petition shall be granted. The Board shall amend its Rules of Practice to conform with this paragraph. Temporary members, while serving as members of the Board, shall be compensated at the same rate of compensation as regular members.
 
 #### (c) Court of appeals; jurisdiction; persons entitled to review; petition; record; determination and enforcement; service of process; stay of payments
 
@@ -28,7 +28,7 @@ If any employer or his officers or agents fails to comply with a compensation or
 
 Proceedings for suspending, setting aside, or enforcing a compensation order, whether rejecting a claim or making an award, shall not be instituted otherwise than as provided in this section and section 918 of this title.
 
-(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972,86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972, 86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
 
 #### Codification
 
@@ -58,9 +58,7 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### Review of Decisions Made by or Pending Before Benefits Review Board
 
-Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3121, provided in part: “That no funds made available by this Act \[div. F of Pub. L. 108–447, see Tables for classification\] may be used by the Solicitor of Labor to participate in a review in any United States court of appeals of any decision made by the Benefits Review Board under section 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 921) where such participation is precluded by the decision of the United States Supreme Court in Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding, 115 S. Ct. 1278 (1995), notwithstanding any provisions to the contrary contained in Rule 15 of the Federal Rules of Appellate Procedure \[28 U.S.C. App.\]: <i>Provided further</i>, That no funds made available by this Act may be used by the Secretary of Labor to review a decision under the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) that has been appealed and that has been pending before the Benefits Review Board for more than 12 months: <i>Provided further</i>, That any such decision pending a review by the Benefits Review Board for more than 1 year shall be considered affirmed by the Benefits Review Board on the 1-year anniversary of the filing of the appeal, and shall be considered the final order of the Board for purposes of obtaining a review in the United States courts of appeals: <i>Provided further</i>, That these provisions shall not be applicable to the review or appeal of any decision issued under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
-
-Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3121, which provided in part that no funds made available by div. F were to be used by the Solicitor of Labor or the Secretary of Labor to review certain decisions made by or pending before the Benefits Review Board under the Longshore and Harbor Workers’ Compensation Act, and deemed such decisions pending review by the Board for more than 1 year to be affirmed by and the final order of the Board for purposes of obtaining review in the United States courts of appeals, was fromthe Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2005, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 108–199, div. E, title I, Jan. 23, 2004, 118 Stat. 234.
 

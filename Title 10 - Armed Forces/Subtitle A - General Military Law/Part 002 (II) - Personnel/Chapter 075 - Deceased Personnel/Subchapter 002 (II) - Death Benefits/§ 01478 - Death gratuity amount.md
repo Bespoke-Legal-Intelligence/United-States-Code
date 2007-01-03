@@ -24,13 +24,13 @@
 
 (d)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable, subject to section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (a).
 
-(2) This subsection applies in the case of a person who died during the period beginning on October 7, 2001, and ending on May 11, 2005, while a member of the armed forces on active duty and whose death did not establish eligibility for an additional death gratuity under the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13; 119 Stat. 247), because the person was not described in paragraph (2) of that prior subsection.
+(2) This subsection applies in the case of a person who died during the period beginning on October 7, 2001, and ending on August 31, 2005, while a member of the armed forces on active duty and whose death did not establish eligibility for an additional death gratuity under the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13; 119 Stat. 247), because the person was not described in paragraph (2) of that prior subsection.
 
 (3) The amount of additional death gratuity payable under this subsection shall be $150,000.
 
 (4) A payment pursuant to this subsection shall be paid in the same manner as provided under paragraph (4) of the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13; 119 Stat. 247), for payments pursuant to paragraph (3)(A) of that prior subsection.
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, §301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, §102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, §646(a), Nov. 24, 2003, 117 Stat. 1520; Pub. L. 108–375, div. A, title VI, §643(b), Oct. 28, 2004, 118Stat. 1958; Pub. L. 109–13, div. A, title I, §1013(a)–(c), May 11, 2005, 119 Stat. 246–248; Pub. L. 109–163, div. A, title VI, §664(a)(1), (2), (b), Jan. 6, 2006, 119 Stat. 3316.)
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, §301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, §102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, §646(a), Nov. 24, 2003, 117 Stat. 1520; Pub. L. 108–375, div. A, title VI, §643(b), Oct. 28, 2004, 118 Stat. 1958; Pub. L. 109–13, div. A, title I, §1013(a)–(c), May 11, 2005, 119 Stat. 246–248; Pub. L. 109–163, div. A, title VI, §664(a)(1), (2), (b), Jan. 6, 2006, 119 Stat. 3316; Pub. L. 109–234, title I, §1210, June 15, 2006, 120 Stat. 430.)
 
 Historical and Revision Notes
 
@@ -75,6 +75,8 @@ Section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, r
 Subsec. (c). Pub. L. 109–163, §664(a)(2)(B), struck out subsec. (c) which read as follows: “Effective on the date on which rates of basic pay under section 204 of title 37 are increased under section 1009 of that title or any other provision of law, the amount of the death gratuity in effect under subsection (a) shall be increased by the same overall average percentage of the increase in the rates of basic pay taking effect on that date.”
 
 Subsec. (d). Pub. L. 109–163, §664(b), added subsec. (d).
+
+Subsec. (d)(2). Pub. L. 109–234 substituted “August 31, 2005” for “May 11, 2005”.
 
 2005—Subsec. (a). Pub. L. 109–13, §1013(a)(2), (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
 
@@ -147,6 +149,8 @@ Subsec. (c). Pub. L. 108–375, §643(b)(2), added subsec. (c).
 1964—Subsec. (a)(4). Pub. L. 88–647 substituted “the first sentence of section 209(c) of title 37, United States Code” for “section 4385(c) or 9385(c) of this title”, and provided that a person covered by section 1475(a)(4) of this title who dies in field training or on a practice cruise, or in travel to or from such training or cruise, is considered entitled on the day of his death to the pay prescribed by the second sentence of section 209(c) of Title 37.
 
 #### Effective Date of 2006 Amendment
+
+Pub. L. 109–234, title I, §1210, June 15, 2006, 120 Stat. 430, provided that the amendment made by section 1210 is effective as of Jan. 6, 2006, and as if included in the enactment of Pub. L. 109–163.
 
 Pub. L. 109–163, div. A, title VI, §664(a)(3), Jan. 6, 2006, 119 Stat. 3316, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 7, 2001, and shall apply to deaths occurring on or after the date of the enactment of this Act \[Jan. 6, 2006\] and, subject to subsection (c) \[119 Stat. 3317\], to deaths occurring during the period beginning on October 7, 2001, and ending on the day before the date of the enactment of this Act.”
 

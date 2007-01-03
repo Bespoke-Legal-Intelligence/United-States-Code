@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;If the determination made under subsection (a)(2)(A) of this section and a determination made under any clause of subsection (a)(2)(B) of this section with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A) of this section. If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
+&emsp;If the determination made under subsection (a)(2)(A) of this section and a determinationmade under any clause of subsection (a)(2)(B) of this section with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A) of this section. If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
 
 #### (2) Reports
 
@@ -70,9 +70,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) during the 5-year period ending on the date on which the petition is filed under subsection (a) of this section, has been subject to—
 
-&emsp;&emsp;&emsp;(i) a countervailing or antidumping duty order issued under this subtitle or section 1303 <sup>2</sup> of this title that requires the deposit of estimated countervailing or antidumping duties imposed at a rate of at least 15 percent ad valorem, or
+&emsp;&emsp;&emsp;(i) a countervailing or antidumping duty order issued under this subtitle or section 1303 <sup>1</sup> of this title that requires the deposit of estimated countervailing or antidumping duties imposed at a rate of at least 15 percent ad valorem, or
 
-&emsp;&emsp;&emsp;(ii) an agreement entered into under section 1671c, 1673c, or 1303 <sup>2</sup> of this title after a preliminary affirmative determination under section 1671b(b), 1673b(b)(1), or 1303 <sup>2</sup> of this title was made by the administering authority which included a determination that the estimated net countervailable subsidy was at least 15 percent ad valorem or that the estimated average amount by which the normal value exceeded the export price (or the constructed export price) was at least 15 percent ad valorem, and
+&emsp;&emsp;&emsp;(ii) an agreement entered into under section 1671c, 1673c, or 1303 <sup>1</sup> of this title after a preliminary affirmative determination under section 1671b(b), 1673b(b)(1), or 1303 <sup>1</sup> of this title was made by the administering authority which included a determination that the estimated net countervailable subsidy was at least 15 percent ad valorem or that the estimated average amount by which the normal value exceeded the export price (or the constructed export price) was at least 15 percent ad valorem, and
 
 &emsp;&emsp;(B) because of its inherent characteristics, is routinely used as a major part, component, assembly, subassembly, or material in a downstream product.
 
@@ -105,6 +105,4 @@ Amendment by sections 233(a)(1)(E), (2)(A)(vi) and 270(a)(1)(M) of Pub. L. 103�
 Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effective date of title II of Pub. L. 103–465, Jan. 1, 1995, see section 261(d)(2) of Pub. L. 103–465, set out as a note under section 1315 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -54,7 +54,7 @@ Subsecs. (e) to (h). Pub. L. 106–531, §4(a)(2), struck out subsecs. (e) to (h
 
 “(h) For purposes of subsection (g), the term ‘commercial functions’ includes buying and leasing of real estate, providing insurance, making loans and loan guarantees, and other credit programs and any activity involving the provision of a service or thing for which a fee, royalty, rent, or other charge is imposed by an agency for services and things of value it provides.”
 
-1994—Pub. L. 103–356 amended section generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (e) which required agency preparation and submission of annual financial statements, provided for form and contents of such statements, and defined term “commercial functions” for purposes of section.
+1994—Pub. L. 103–356 amended section generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (e) which required agency preparation and submission of annual financial statements, provided for form and contents of such statements, anddefined term “commercial functions” for purposes of section.
 
 #### Change of Name
 

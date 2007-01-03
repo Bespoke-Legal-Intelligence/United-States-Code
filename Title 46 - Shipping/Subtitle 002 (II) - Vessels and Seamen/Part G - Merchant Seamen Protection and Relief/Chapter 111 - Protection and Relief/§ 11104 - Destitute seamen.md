@@ -26,7 +26,3 @@ Historical and Revision Notes
 
 Section 11104 provides for the return to the United States of destitute seamen of the United States at the expense of the United States Government.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10313 of this title.
-

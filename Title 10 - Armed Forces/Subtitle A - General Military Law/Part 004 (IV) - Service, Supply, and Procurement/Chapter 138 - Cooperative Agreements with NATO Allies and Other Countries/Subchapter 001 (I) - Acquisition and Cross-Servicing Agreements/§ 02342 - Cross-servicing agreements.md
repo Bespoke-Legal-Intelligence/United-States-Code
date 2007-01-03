@@ -32,7 +32,7 @@
 
 1996—Subsec. (b). Pub. L. 104–106 inserted “unless” after “section” in introductory provisions, struck out “unless” after “(1)” in par. (1), and substituted “the Secretary submits to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives notice of the intended designation” for “notifies the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives” in par. (2).
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §1317(b)(1), substituted “with any of the following:” for “with—” inintroductory provisions, substituted “The government” for “the government” and a period for the semicolon in subpar. (A), substituted “A subsidiary” for “a subsidiary” and “Organization.” for “Organization; or” in subpar. (B), added subpar. (C), redesignated former subpar. (C) as (D) and substituted “The government” for “the government”.
+1994—Subsec. (a)(1). Pub. L. 103–337, §1317(b)(1), substituted “with any of the following:” for “with—” in introductory provisions, substituted “The government” for “the government” and a period for the semicolon in subpar. (A), substituted “A subsidiary” for “a subsidiary” and “Organization.” for “Organization; or” in subpar. (B), added subpar. (C), redesignated former subpar. (C) as (D) and substituted “The government” for “the government”.
 
 Subsec. (a)(2). Pub. L. 103–337, §1317(b)(2), substituted “organization” for “subsidiary body” in two places.
 

@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 105–244, §478(2), amended heading and text of subsec. (c
 
 1992—Pub. L. 102–325 amended section generally, revising and restating provisions of subsecs. (a) and (b) and striking out former subsec. (c) which related to asset adjustment as example.
 
-1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42.”
+1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selectingrecipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
 #### Effective Date of 1998 Amendment
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

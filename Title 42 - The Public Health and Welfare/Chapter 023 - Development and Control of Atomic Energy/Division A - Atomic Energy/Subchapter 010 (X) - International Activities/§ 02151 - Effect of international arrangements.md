@@ -8,7 +8,3 @@ Any provision of this chapter or any action of the Commission to the extent and 
 
 Provisions similar to this section were contained in section 1808(a) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

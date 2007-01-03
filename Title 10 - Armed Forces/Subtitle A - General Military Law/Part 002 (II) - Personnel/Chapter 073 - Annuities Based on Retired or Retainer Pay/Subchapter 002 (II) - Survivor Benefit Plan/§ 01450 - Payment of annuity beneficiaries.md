@@ -44,11 +44,11 @@ Offset for Amount of Dependency and Indemnity Compensation.—
 
 &emsp;(1)
 
-Required offset.—If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under section 1311(a) of title 38, the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
+Required offset.—If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency andindemnity compensation under section 1311(a) of title 38, the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
 
 &emsp;(2)
 
-Effective date of offset.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of paymentof such dependency and indemnity compensation under title 38.
+Effective date of offset.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
 
 (d)
 
@@ -118,13 +118,13 @@ Request from former spouse.—A written request, in such manner as the Secretary
 
 Copy of court order or other official statement.—Either—
 
-&emsp;&emsp;&emsp;&emsp;(I) a copy of the court order, regular on its face, which requires such election or incorporates, ratifies, or approves the written agreement of such person; or
+&emsp;&emsp;&emsp;&emsp;(I) a copy of the court order, regular on its face, which requires such election orincorporates, ratifies, or approves the written agreement of such person; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law.
 
 &emsp;&emsp;(B)
 
-Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to electunder section 1448(b) of this title to provide an annuity to a former spouse if—
+Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
 
 &emsp;&emsp;&emsp;(i) the person enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to make such an election and the agreement (I) has been incorporated in or ratified or approved by a court order, or (II) has been filed with the court of appropriate jurisdiction in accordance with applicable State law; or
 
@@ -300,7 +300,7 @@ Subsec. (k)(1). Pub. L. 100–180 substituted “55 years of age” for “60 ye
 
 Subsec. (c). Pub. L. 99–661, §1343(a)(8)(C), substituted “entitled to dependency and indemnity compensation” for “entitled to compensation”.
 
-Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted “is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary writtenagreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
+Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted “is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary written agreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
 
 Subsec. (f)(2)(A). Pub. L. 99–661, §641(b)(2)(B), substituted “in a case in which the election is required by a court order, or in which an agreement to make the election” for “in a case in which such agreement”.
 

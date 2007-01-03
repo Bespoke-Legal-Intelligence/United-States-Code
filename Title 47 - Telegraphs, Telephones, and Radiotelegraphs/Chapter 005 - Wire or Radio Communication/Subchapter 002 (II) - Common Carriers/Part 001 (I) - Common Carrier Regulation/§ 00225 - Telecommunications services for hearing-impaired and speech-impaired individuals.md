@@ -32,7 +32,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 &emsp;(1) with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (f) of this section and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d) of this section; or
 
-&emsp;(2) with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (f) of this section for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) of this section for such State.
+&emsp;(2) with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (f) of thissection for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) of this section for such State.
 
 #### (d) Regulations
 
@@ -104,7 +104,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 #### (1) Referral of complaint
 
-&emsp;If a complaint to the Commission alleges a violation of this section with respect to intrastate telecommunications relay services within a State and certification of the program of such State under subsection (f) of this sectionis in effect, the Commission shall refer such complaint to such State.
+&emsp;If a complaint to the Commission alleges a violation of this section with respect to intrastate telecommunications relay services within a State and certification of the program of such State under subsection (f) of this section is in effect, the Commission shall refer such complaint to such State.
 
 #### (2) Jurisdiction of Commission
 

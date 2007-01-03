@@ -66,7 +66,7 @@ Section was formerly classified to section 285c–2 of this title prior to renum
 
 1993—Subsec. (a). Pub. L. 103–43, §1511(a)(3)(A), substituted “Institute” for “Center” wherever appearing.
 
-Subsec. (a)(2). Pub. L. 103–43, §2010(b)(5), which directed the substitution of “section 238” for “section300aaa” in section 287c–2(a)(2) of this title, was executed to subsec. (a)(2) of this section to reflect the probable intent of Congress and the renumbering of this section. See Codification note above.
+Subsec. (a)(2). Pub. L. 103–43, §2010(b)(5), which directed the substitution of “section 238” for “section 300aaa” in section 287c–2(a)(2) of this title, was executed to subsec. (a)(2) of this section to reflect the probable intent of Congress and the renumbering of this section. See Codification note above.
 
 Subsec. (b)(2)(A). Pub. L. 103–43, §2008(b)(13), which directed the substitution of “Department of Veterans Affairs” for “Veterans’ Administration” in section 287c–2(b)(2)(A) of this title could not be executed because the words “Veterans’ Administration” do not appear in subsec. (b)(2)(A) of this section subsequent to amendment by Pub. L. 102–54 and because of the renumbering of this section. See Codification note above and 1991 Amendment note below.
 

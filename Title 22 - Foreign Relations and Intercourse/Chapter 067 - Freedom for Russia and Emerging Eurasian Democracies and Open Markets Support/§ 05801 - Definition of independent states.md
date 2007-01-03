@@ -8,6 +8,10 @@ For purposes of this Act, the terms “independent states of the former Soviet U
 
 This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 109–480, §1, Jan. 12, 2007, 120 Stat. 3666, provided that: “This Act \[enacting and amending provisions set out as notes under section 5811 of this title\] may be cited as the ‘Belarus Democracy Reauthorization Act of 2006’.”
+
 #### Short Title of 1993 Amendment
 
 Pub. L. 103–199, §1, Dec. 17, 1993, 107 Stat. 2317, provided that: “This Act \[amending sections 295, 2301, 2364, 2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, section 4101 of Title 15, Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, section 951 of Title 18, Crimes and Criminal Procedure, section 783 of Title 50, War and National Defense, and sections 2401 and 2402 of Title 50, Appendix, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and section 2403–1 of Title 50, Appendix, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and section 2402 of Title 50, Appendix, amending provisions set out as notes under section 4501 of this title, section 113 of Title 10, section 2901 of Title 15, and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, section 1307 of Title 19, Customs Duties, and section 781 of Title 50\] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
@@ -28,7 +32,7 @@ Pub. L. 103–199, title I, §§101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, 
 
 “The Congress finds and declares as follows:
 
-&emsp;“(1) The Vancouver Declaration issued by President Clinton and President Yeltsin in April 1993 marked a new milestone in the development of the spirit of cooperation and partnership between the United States and Russia. The Congress affirms its support for the principles contained in the Vancouver Declaration.
+&emsp;“(1) The Vancouver Declaration issued by President Clinton and President Yeltsin in April 1993 marked a new milestone in the development of the spirit of cooperation and partnership between the United Statesand Russia. The Congress affirms its support for the principles contained in the Vancouver Declaration.
 
 &emsp;“(2) The Vancouver Declaration underscored that—
 

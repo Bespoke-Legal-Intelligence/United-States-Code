@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
+Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initialinstallment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
 
 #### (b) Membership field
 
@@ -130,13 +130,15 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;The definition prescribed by the Board under paragraph (1) shall apply with respect to any application to form a new credit union, or to alter or expand the field of membership of an existing credit union, that is filed with the Board after August 7, 1998.
 
-(June 26, 1934, ch. 750, title I, §109, formerly §9, 48 Stat. 1219; July 31, 1946, ch. 711, §2, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §10 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §109, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§101–103, Aug. 7, 1998, 112 Stat. 914–917.)
+(June 26, 1934, ch. 750, title I, §109, formerly §9, 48 Stat. 1219; July 31, 1946, ch. 711, §2, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §10 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §109, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§101–103, Aug. 7, 1998, 112 Stat. 914–917; Pub. L. 109–351, title VII, §726(9), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,”before “Federal credit union membership shall consist of”.
+2006—Subsec. (c)(2)(A)(i). Pub. L. 109–351 made technical amendment to reference in original act which appears in text as reference to section 4702(16) of this title.
 
-Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
+1998—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
+
+Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groupshaving a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 
 Subsecs. (b) to (e). Pub. L. 105–219, §101(2), added subsecs. (b) to (e).
 
@@ -157,12 +159,6 @@ Subsec. (g). Pub. L. 105–219, §103, added subsec. (g).
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
-
-#### Transfer of Functions
-
-Transfer of functions of Farm Credit Administration and Governor thereof, generally, see notes set out under section 1751 of this title.
-
-Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
 #### Report and Congressional Review Requirement for Certain Regulations
 

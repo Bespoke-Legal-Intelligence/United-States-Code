@@ -30,7 +30,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the penalty provided by paragraph (1)(A) shall be required for refinancing or prepayment under this section.
+&emsp;&emsp;Except as provided in subparagraph (B), the penalty provided by paragraph (1)(A)shall be required for refinancing or prepayment under this section.
 
 #### (B) Exception
 

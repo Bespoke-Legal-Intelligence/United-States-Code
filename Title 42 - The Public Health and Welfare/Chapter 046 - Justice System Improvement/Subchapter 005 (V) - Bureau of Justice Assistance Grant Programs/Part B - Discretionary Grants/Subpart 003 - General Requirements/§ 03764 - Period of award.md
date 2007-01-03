@@ -10,7 +10,7 @@ The Bureau may provide financial aid and assistance to programs or projects unde
 
 #### Prior Provisions
 
-For prior sections 518 and 519 of Pub. L. 90–351 and prior sections 3764 and 3765 of this title, see note set out preceding section 3750 of this title.
+For prior section 518 of Pub. L. 90–351 and prior sections 3764 and 3765 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
 

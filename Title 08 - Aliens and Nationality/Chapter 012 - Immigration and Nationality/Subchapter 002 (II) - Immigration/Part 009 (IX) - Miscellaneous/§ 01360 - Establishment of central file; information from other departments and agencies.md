@@ -16,7 +16,7 @@ Any information in any records kept by any department or agency of the Governmen
 
 #### (d) Certification of search of Service records
 
-A written certification signed by the Attorney General or by any officer of the Service designated by the Attorney General to make such certification, that after diligent search no record or entry of a specified nature is found to exist in the records of the Service, shall be admissible as evidence in any proceeding as evidence that the records of the Service contain no such record or entry, and shall have the same effect as the testimony of a witness given in open court.
+A written certification signed by the Attorney General or by any officer of the Service designated by the Attorney General to make such certification, that after diligent search no record or entry of a specified nature is found toexist in the records of the Service, shall be admissible as evidence in any proceeding as evidence that the records of the Service contain no such record or entry, and shall have the same effect as the testimony of a witness given in open court.
 
 (June 27, 1952, ch. 477, title II, ch. 9, §290, 66 Stat. 234; Pub. L. 100–525, §9(q), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 104–208, div. C, title III, §308(d)(4)(M), title IV, §414(a), Sept. 30, 1996, 110 Stat. 3009–618, 3009–669.)
 
@@ -38,5 +38,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Fraudulent Use of Social Security Account Numbers
 
-Pub. L. 104–208, div. C, title IV, §414(b), Sept. 30, 1996, 110 Stat. 3009–669, as amended by Pub. L. 108–156, §3(d),Dec. 3, 2003, 117 Stat. 1945, directed the Commissioner of Social Security to transmit to the Secretary of Homeland Security, by not later than 1 year after Sept. 30, 1996, a report on the extent to which social security account numbers and cards were used by aliens for fraudulent purposes.
+Pub. L. 104–208, div. C, title IV, §414(b), Sept. 30, 1996, 110 Stat. 3009–669, as amended by Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, directed the Commissioner of Social Security to transmit to the Secretary of Homeland Security, by not later than 1 year after Sept. 30, 1996, a report on the extent to which social security account numbers and cards were used by aliens for fraudulent purposes.
 

@@ -38,7 +38,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(vi) activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.);
 
-&emsp;&emsp;&emsp;(vii) postsecondary vocational education activities authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
+&emsp;&emsp;&emsp;(vii) career and technical education activities at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
 
 &emsp;&emsp;&emsp;(viii) activities authorized under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.);
 
@@ -112,7 +112,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(i) through a competitive process; or
 
-&emsp;&emsp;&emsp;(ii) in accordance with an agreement reached between the local board and a consortium of entities that, at a minimum,includes 3 or more of the one-stop partners described in subsection (b)(1) of this section; and
+&emsp;&emsp;&emsp;(ii) in accordance with an agreement reached between the local board and a consortium of entities that, at a minimum, includes 3 or more of the one-stop partners described in subsection (b)(1) of this section; and
 
 &emsp;&emsp;(B) may be a public or private entity, or consortium of entities, of demonstrated effectiveness, located in the local area, which may include—
 
@@ -150,7 +150,7 @@ If a one-stop delivery system has been established in a local area prior to Augu
 
 &emsp;&emsp;(B) carry out any activity not authorized under section 112 of that Act (including appropriate Federal regulations).
 
-(Pub. L. 105–220, title I, §121, Aug. 7, 1998, 112 Stat. 963; Pub. L. 105–332, §5(a), Oct. 31, 1998, 112 Stat. 3127.)
+(Pub. L. 105–220, title I, §121, Aug. 7, 1998, 112 Stat. 963; Pub. L. 105–332, §5(a), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(h)(5), Aug. 12, 2006, 120 Stat. 748.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), i
 
 The Older Americans Act of 1965, referred to in subsec. (b)(1)(B)(vi), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the Older American Community Service Employment Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Trade Act of 1974, referred to in subsec. (b)(1)(B)(viii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 2 of title II of the Act is classified principally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
@@ -177,6 +177,8 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)
 This Act, referred to in subsec. (f)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(1)(B)(vii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 1998—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, §5(a)(1), inserted “(other than part C of title I of such Act and subject to subsection (f) of this section)” before semicolon.
 

@@ -8,7 +8,3 @@ Every licensee under this chapter who holds a license from the Commission for a 
 
 The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

@@ -20,43 +20,75 @@
 
 &emsp;&emsp;Any depository institution the deposits of which are insured by the private deposit insurer shall provide a copy of the audit report, upon request, to any current or prospective customer of the institution.
 
+#### (3) Enforcement by appropriate State supervisor
+
+&emsp;Any appropriate State supervisor of a private deposit insurer, and any appropriate State supervisor of a depository institution which receives deposits that are insured by a private deposit insurer, may examine and enforce compliance with this subsection under the applicable regulatory authority of such supervisor.
+
 #### (b) Disclosure required
 
 Any depository institution lacking Federal deposit insurance shall, within the United States, do the following:
 
 #### (1) Periodic statements; account records
 
-&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or similar instrument evidencing a deposit a notice that the institution is not federally insured, and that if the institution fails, theFederal Government does not guarantee that depositors will get back their money.
+&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or share certificate.<sup>1</sup> a notice that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money.
 
 #### (2) Advertising; premises
 
-&emsp;Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.
+#### (A) In general
 
-#### (3) Acknowledgement of disclosure
+&emsp;&emsp;Include clearly and conspicuously in all advertising, except as provided in subparagraph (B); and at each station or window where deposits are normally received, its principal place of business and all its branches where it accepts deposits or opens accounts (excluding automated teller machines or point of sale terminals), and on its main Internet page, a notice that the institution is not federally insured.
 
-#### (A) New depositors
+#### (B) Exceptions
 
-&emsp;&emsp;With respect to any depositor who was not a depositor at the depository institution before June 19, 1994, receive any deposit for the account of such depositor only if the depositor has signed a written acknowledgement that—
+&emsp;&emsp;The following need not include a notice that the institution is not federally insured:
+
+&emsp;&emsp;&emsp;(i) Any sign, document, or other item that contains the name of the depository institution, its logo, or its contact information, but only if the sign, document, or item does not include any information about the institution's products or services or information otherwise promoting the institution.
+
+&emsp;&emsp;&emsp;(ii) Small utilitarian items that do not mention deposit products or insurance if inclusion of the notice would be impractical.
+
+#### (3) Acknowledgment of disclosure
+
+#### (A) New depositors obtained other than through a conversion or merger
+
+&emsp;&emsp;With respect to any depositor who was not a depositor at the depository institution before October 13, 2006, and who is not a depositor as described in subparagraph (B), receive any deposit for the account of such depositor only if the depositor has signed a written acknowledgement that—
 
 &emsp;&emsp;&emsp;(i) the institution is not federally insured; and
 
 &emsp;&emsp;&emsp;(ii) if the institution fails, the Federal Government does not guarantee that the depositor will get back the depositor's money.
 
-#### (B) Current depositors
+#### (B) New depositors obtained through a conversion or merger
 
-&emsp;&emsp;Receive any deposit after the effective date of this paragraph for the account of any depositor who was a depositor before June 19, 1994, only if—
+&emsp;&emsp;With respect to a depositor at a federally insured depository institution that converts to, or merges into, a depository institution lacking federal insurance after October 13, 2006, receive any deposit for the account of such depositor only if—
 
 &emsp;&emsp;&emsp;(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
 
-&emsp;&emsp;&emsp;(ii) the institution has complied with the provisions of subparagraph (C) which are applicable as of the date of the deposit.
+&emsp;&emsp;&emsp;(ii) the institution makes an attempt, as described in subparagraph (D) and sent by mail no later than 45 days after the effective date of the conversion or merger, to obtain the acknowledgment.
 
-#### (C) Alternative provision of notice to current depositors
+#### (C) Current depositors
+
+&emsp;&emsp;Receive any deposit after October 13, 2006, for the account of any depositor who was a depositor on that date only if—
+
+&emsp;&emsp;&emsp;(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
+
+&emsp;&emsp;&emsp;(ii) the institution has complied with the provisions of subparagraph (E) which are applicable as of the date of the deposit.
+
+#### (D) Alternative provision of notice to new depositors obtained through a conversion or merger
+
+#### (i) <sup>2</sup> In general
+
+&emsp;&emsp;&emsp;Transmit to each depositor who has not signed a written acknowledgement described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;&emsp;(I) a conspicuous card containing the information described in clauses (i) and (ii) of subparagraph (A), and a line for the signature of the depositor; and
+
+&emsp;&emsp;&emsp;&emsp;(II) accompanying materials requesting the depositor to sign the card, and return the signed card to the institution.
+
+#### (E) Alternative provision of notice to current depositors
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Transmit to each depositor who was a depositor before June 19, 1994, and has not signed a written acknowledgement described in subparagraph (A)—
+&emsp;&emsp;&emsp;Transmit to each depositor who was a depositor before October 13, 2006, and has not signed a written acknowledgement described in subparagraph (A)—
 
-&emsp;&emsp;&emsp;&emsp;(I) a card containing the information described in clauses (i) and (ii) of subparagraph (A), and a line for the signature of the depositor; and
+&emsp;&emsp;&emsp;&emsp;(I) a conspicuous card containing the information described in clauses (i) and (ii) of subparagraph (A), and a line for the signature of the depositor; and
 
 &emsp;&emsp;&emsp;&emsp;(II) accompanying materials requesting the depositor to sign the card, and return the signed card to the institution.
 
@@ -64,39 +96,21 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (I) First notice
 
-&emsp;&emsp;&emsp;&emsp;Make the transmission described in clause (i) via first class mail not later than September 12, 1994.
+&emsp;&emsp;&emsp;&emsp;Make the transmission described in clause (i) via mail not later than three months after October 13, 2006.
 
 #### (II) Second notice
 
-&emsp;&emsp;&emsp;&emsp;Make a second transmission described in clause (i) via first class mail not less than 30 days and not more than 45 days after a transmission to the depositor in accordance with subclause (I), if the institution has not, by the date of such mailing, received from the depositor a card referred to in clause (i) which has been signed by the depositor.
-
-#### (III) Third notice
-
-&emsp;&emsp;&emsp;&emsp;Make a third transmission described in clause (i) via first class mail not less than 30 days and not more than 45 days after a transmission to the depositor in accordance with subclause (II), if the institution has not, by the date of such mailing, received from the depositor a card referred to in clause (i) which has been signed by the depositor.
+&emsp;&emsp;&emsp;&emsp;Make a second transmission described in clause (i) via mail not less than 30 days and not more than three months after a transmission to the depositor in accordance with subclause (I), if the institution has not, by the date of such mailing, received from the depositor a card referred to in clause (i) which has been signed by the depositor.
 
 #### (c) Manner and content of disclosure
 
-To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section.
+To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
 
 #### (d) Exceptions for institutions not receiving retail deposits
 
-The Federal Trade Commission may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than $100,000 from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+The Federal Trade Commission may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
 
-#### (e) Eligibility for Federal deposit insurance
-
-#### (1) In general
-
-&emsp;Except as permitted by the Federal Trade Commission, in consultation with the Federal Deposit Insurance Corporation, no depository institution (other than a bank, including an unincorporated bank) lacking Federal deposit insurance may use the mails or any instrumentality of interstate commerce to receive or facilitate receiving deposits, unless the appropriate supervisor of the State in which the institution is chartered has determined that the institution meets all eligibility requirements for Federal deposit insurance, including—
-
-&emsp;&emsp;(A) in the case of an institution described in section 461(b)(1)(A)(iv) of this title, all eligibility requirements set forth in the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\] and regulations of the National Credit Union Administration; and
-
-&emsp;&emsp;(B) in the case of any other institution, all eligibility requirements set forth in this chapter and regulations of the Corporation.
-
-#### (2) Authority of FDIC and NCUA not affected
-
-&emsp;No determination under paragraph (1) shall bind, or otherwise affect the authority of, the National Credit Union Administration or the Corporation.
-
-#### (f) Definitions
+#### (e) Definitions
 
 For purposes of this section:
 
@@ -128,25 +142,53 @@ For purposes of this section:
 
 &emsp;The term “private deposit insurer” means any entity insuring the deposits of any depository institution lacking Federal deposit insurance.
 
-#### (g) Enforcement
+#### (f) Enforcement
 
-Compliance with the requirements of this section, and any regulation prescribed or order issued under this section, shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission.
+#### (1) Limited FTC enforcement authority
 
-(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602.)
+&emsp;Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission.
 
-#### Amendment of Subsection (d)
+#### (2) Broad State enforcement authority
 
-<i>Pub. L. 109–173, §2(c)(3), (e), Feb. 15, 2006, 119 Stat. 3602, 3605, provided that, effective Apr. 1, 2006, subsection (d) of this section is amended by striking “$100,000” and inserting “an amount equal to the standard maximum deposit insurance amount”.</i>
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (C), an appropriate State supervisor of a depository institution lacking Federal deposit insurance may examine and enforce compliance with the requirements of this section, and any regulation prescribed under this section.
+
+#### (B) State powers
+
+&emsp;&emsp;For purposes of bringing any action to enforce compliance with this section, no provision of this section shall be construed as preventing an appropriate State supervisor of a depository institution lacking Federal deposit insurance from exercising any powers conferred on such official by the laws of such State.
+
+#### (C) Limitation on State action while Federal action pending
+
+&emsp;&emsp;If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint.
+
+(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602; Pub. L. 109–351, title V, §505, Oct. 13, 2006, 120 Stat. 1975.)
 
 #### References in Text
 
-For the effective date of this paragraph, referred to in subsec. (b)(3)(B), see Effective Date of 1994 Amendment note below.
-
-The Federal Credit Union Act, referred to in subsec. (e)(1)(A), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
-
-The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (f)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(3). Pub. L. 109–351, §505(a), added par. (3).
+
+Subsec. (b)(1). Pub. L. 109–351, §505(b), substituted “or share certificate.” for “or similar instrument evidencing a deposit”.
+
+Subsec. (b)(2). Pub. L. 109–351, §505(c), amended heading and text generally. Prior to amendment, text read as follows: “Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.”
+
+Subsec. (b)(3). Pub. L. 109–351, §505(d), amended par. (3) generally. Prior to amendment, par. (3) related to acknowledgement of disclosure and consisted of subpars. (A) to (C).
+
+Subsec. (c). Pub. L. 109–351, §505(e), amended heading and text generally. Prior to amendment, text read as follows: “To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Federal Trade Commission, by regulation or order, shall prescribe the manner and content of disclosure required under this section.”
+
+Subsec. (d). Pub. L. 109–173 substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
+
+Subsec. (e). Pub. L. 109–351, §505(f), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to eligibility for Federal deposit insurance.
+
+Subsec. (f). Pub. L. 109–351, §505(g), amended heading and text generally. Prior to amendment, text read as follows: “Compliance with the requirements of this section, and any regulation prescribed or order issued under this section, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission.”
+
+Pub. L. 109–351, §505(f)(2), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 109–351, §505(f)(2), redesignated subsec. (g) as (f).
 
 1994—Subsec. (b)(3). Pub. L. 103–325 amended heading and text of subsec. (b)(3) generally. Prior to amendment, text read as follows: “Receive deposits only for the account of persons who have signed a written acknowledgment that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that they will get back their money.”
 
@@ -195,4 +237,8 @@ Business plan required.—Not later than 240 days after the date of enactment of
 “(3)
 
 Definitions.—For purposes of this subsection, the terms ‘appropriate supervisor’, ‘depository institution’, ‘lacking Federal deposit insurance’, and ‘private deposit insurer’ have the same meaning as in section 43(f) of the Federal Deposit Insurance Act \[12 U.S.C. 1831t(f)\] (as added by subsection (a)).”
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

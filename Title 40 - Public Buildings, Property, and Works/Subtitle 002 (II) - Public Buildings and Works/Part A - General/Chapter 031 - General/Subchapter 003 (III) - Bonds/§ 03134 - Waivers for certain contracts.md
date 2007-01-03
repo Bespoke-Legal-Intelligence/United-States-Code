@@ -2,13 +2,13 @@
 
 (a)
 
-Military.—The Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Transportation may waive this subchapter with respect to cost-plus-a-fixed fee and other cost-type contracts for the construction, alteration, or repair of any public building or public work of the Federal Government and with respect to contracts for manufacturing, producing, furnishing, constructing, altering, repairing, processing, or assembling vessels, aircraft, munitions, materiel, or supplies for the Army, Navy, Air Force, or Coast Guard, respectively, regardless of the terms of the contracts as to payment or title.
+Military.—The Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Transportation may waive this subchapter with respect to cost-plus-a-fixed fee and other cost-type contracts for theconstruction, alteration, or repair of any public building or public work of the Federal Government and with respect to contracts for manufacturing, producing, furnishing, constructing, altering, repairing, processing, or assembling vessels, aircraft, munitions, materiel, or supplies for the Army, Navy, Air Force, or Coast Guard, respectively, regardless of the terms of the contracts as to payment or title.
 
 (b)
 
-Transportation.—The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.), or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), regardless of the terms of the contracts as to payment or title.
+Transportation.—The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, subtitle V of title 46, or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), regardless of the terms of the contracts as to payment or title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1149.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1149; Pub. L. 109–304, §17(g)(2), Oct. 6, 2006, 120 Stat. 1709.)
 
 Historical and Revision Notes
 
@@ -38,9 +38,11 @@ In subsection (b), the words “of any kind or nature” are omitted as unnecess
 
 #### References in Text
 
-The Merchant Marine Act, 1936, referred to in subsec. (b), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended, which is classified principally to chapter 27 (§1101 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
-
 The Merchant Ship Sales Act of 1946, referred to in subsec. (b), is act Mar. 8, 1946, ch. 82, 60 Stat. 41, as amended, which is classified to sections 1735 to 1746 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1735 of Title 50, Appendix, and Tables.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–304 substituted “subtitle V of title 46” for “the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
 
 #### Transfer of Functions
 

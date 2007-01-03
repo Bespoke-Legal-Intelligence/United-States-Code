@@ -4,8 +4,6 @@ Part L—Strengthening America's Families by Preventing Violence Against Women a
 
 This part was, in the original, subtitle M of title IV of Pub. L. 103–322, as added by Pub. L. 109–162, and has been redesignated as part L of this subchapter for purposes of codification.
 
-<i><sup>1</sup></i><i> So in original. There is no subpar. (D).</i>
-
 
 ---
 

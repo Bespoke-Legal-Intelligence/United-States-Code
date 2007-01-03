@@ -226,9 +226,9 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;Of any amount which the Thrift Depositor Protection Oversight Board may require the Federal Home Loan Banks to invest in capital stock of the Funding Corporation under this subsection in excess of the $1,000,000,000 amount referred to in paragraph (4), the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
 
-&emsp;&emsp;(A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members which are members of such Bank; by
+&emsp;&emsp;(A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members as of the date of funding which are members of such Bank; by
 
-&emsp;&emsp;(B) the sum of the total assets (as of such date) held by all Savings Association Insurance Fund members which are members of a Federal Home Loan Bank.
+&emsp;&emsp;(B) the sum of the total assets (as of such date) held by all Savings Association Insurance Fund members as of the date of funding which are members of a Federal Home Loan Bank.
 
 #### (6) Special provisions relating to maximum amount limitations
 
@@ -236,7 +236,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;If the amount of any Federal Home Loan Bank's allocation under paragraph (5) exceeds the maximum amount applicable with respect to such Bank (in this paragraph referred to as a “deficient Bank”) under paragraph (3) at the time of such determination (in this paragraph referred to as the “excess amount”)—
 
-&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceedsits maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficient Bank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
 
@@ -276,36 +276,6 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;The total amount placed in such reserve account in any year by any Bank shall not exceed an amount equal to 20 percent of the net earnings of such Bank for such year.
 
-#### (7) Additional sources
-
-&emsp;If each Federal Home Loan Bank has exhausted the amount applicable with respect to the Bank under paragraph (3) after purchases under paragraphs (4), (5), and (6), the amounts necessary to provide additional funding for the Funding Corporation Principal Fund shall be obtained from the following sources:
-
-#### (A) Assessments
-
-&emsp;&emsp;The Funding Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each Savings Association Insurance Fund member an assessment (in the same manner as assessments are assessed against such members by the Federal Deposit Insurance Corporation pursuant to section 1817 of this title) except that—
-
-&emsp;&emsp;&emsp;(i) the maximum amount of the aggregate amount assessed shall be the amount of additional funds necessary to fund the Funding Corporation Principal Fund;
-
-&emsp;&emsp;&emsp;(ii) the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the amount assessed under this subparagraph; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount assessed by the Financing Corporation under section 1441 of this title;
-
-&emsp;&emsp;&nbsp;shall not exceed the amount authorized to be assessed against Savings Association Insurance Fund members pursuant to section 1817 of this title;
-
-&emsp;&emsp;&emsp;(iii) the Financing Corporation shall have first priority to make the assessment; and
-
-&emsp;&emsp;&emsp;(iv) the amount of the applicable assessment determined under such section 1817 of this title shall be reduced by the sum described in clause (ii) of this subparagraph.
-
-#### (B) Receivership proceeds
-
-&emsp;&emsp;To the extent the amounts available pursuant to subparagraph (A) are insufficient to fund the Funding Corporation Principal Fund, the Federal Deposit Insurance Corporation shall transfer amounts to the Funding Corporation from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund from receiverships.
-
-#### (8) Transfer to RTC
-
-&emsp;The Funding Corporation shall transfer to the Resolution Trust Corporation $1,200,000,000 in fiscal year 1989.
-
 #### (f) Obligations of Funding Corporation
 
 #### (1) Issuance
@@ -344,7 +314,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (iv) Term beyond maturity
 
-&emsp;&emsp;&emsp;If the Board extends the term of payment obligations beyond the final scheduled maturity date for the obligations, each Federal home loan bank shall continue to pay 20.0 percent of its net earnings (after deducting expenses relating to section 1430(j) of this title and operating expenses) to the Treasury of the United States until the value of all such payments by the Federal home loan banks is equivalent to the value of an annuity referred to in clause (ii). In the final year in which the Federal home loan banks are required to make any payment to the Treasury under this subparagraph, if the dollar amount represented by 20.0 percent of the net earnings of the Federal home loan banks exceeds the remaining obligation of the Banks to the Treasury, the Finance Board shall reduce the percentage pro rata to a level sufficient to pay the remaining obligation.
+&emsp;&emsp;&emsp;If the Board extends the term of payment obligations beyond the final scheduled maturity date for the obligations, each Federal home loan bank shall continue to pay 20.0 percent of its net earnings (after deducting expenses relating to section 1430(j) of this title and operating expenses) to the Treasury of the United States until the value of all such payments by the Federal home loan banks is equivalent to the value of an annuity referred toin clause (ii). In the final year in which the Federal home loan banks are required to make any payment to the Treasury under this subparagraph, if the dollar amount represented by 20.0 percent of the net earnings of the Federal home loan banks exceeds the remaining obligation of the Banks to the Treasury, the Finance Board shall reduce the percentage pro rata to a level sufficient to pay the remaining obligation.
 
 #### (D) Proceeds from sale of assets
 
@@ -358,7 +328,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Liability of Funding Corporation
 
-&emsp;&emsp;&emsp;In each instance where the Secretary is required to make a payment under thissubparagraph to the Funding Corporation, the amount of the payment shall become a liability of the Funding Corporation to be repaid to the Secretary upon dissolution of the Funding Corporation (to the extent the Funding Corporation may have any remaining assets).
+&emsp;&emsp;&emsp;In each instance where the Secretary is required to make a payment under this subparagraph to the Funding Corporation, the amount of the payment shall become a liability of the Funding Corporation to be repaid to the Secretary upon dissolution of the Funding Corporation (to the extent the Funding Corporation may have any remaining assets).
 
 #### (iii) Appropriation of funds
 
@@ -410,7 +380,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (9) Minority participation in public or negotiated offerings
 
-&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout the United States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
+&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout theUnited States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
 
 #### (10) No full faith and credit of the United States
 
@@ -424,7 +394,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (2) Separate account for zero coupon instruments held to ensure payment of principal
 
-&emsp;Except as provided in subsection (e)(8) of this section, the Funding Corporation shall invest amounts received pursuant to subsection\(e) of this section in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
+&emsp;Except as provided in subsection (e)(8) of this section, the Funding Corporation shall invest amounts received pursuant to subsection (e) of this section in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
 
 &emsp;&emsp;(A) which are direct obligations of the United States issued by the Secretary; and
 
@@ -486,7 +456,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (k) Definitions
 
-For purposes of this section:
+For purposes of this section, the following definitions shall apply:
 
 #### (1) Administrative expenses
 
@@ -538,15 +508,11 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) the Secretary of Housing and Urban Development.
 
-#### (8) Savings Association Insurance Fund member
-
-&emsp;The term “Savings Association Insurance Fund member” means a Savings Association Insurance member as such term is defined by section 1817(<i>l</i>) of this title.
-
-#### (9) Secretary
+#### (8) Secretary
 
 &emsp;The term “Secretary” means the Secretary of the Treasury.
 
-#### (10) Undivided profits
+#### (9) Undivided profits
 
 &emsp;The term “undivided profits” means earnings retained after dividends have been paid minus the sum of—
 
@@ -558,15 +524,7 @@ For purposes of this section:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §9(d)(7), (8), (j), Feb. 15, 2006, 119 Stat. 3617, 3618, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (e), by inserting “as of the date of funding” after “Savings Association Insurance Fund members” each place that term appears in paragraph (5) and by striking paragraphs (7) and (8); and</i>
-
-<i>(2) in subsection (k), by inserting before the colon in introductory provisions “, the following definitions shall apply”, by striking paragraph (8), and by redesignating paragraphs (9) and (10) as paragraphs (8) and (9), respectively.</i>
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617.)
 
 #### References in Text
 
@@ -576,13 +534,27 @@ Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally b
 
 #### Amendments
 
+2006—Subsec. (e). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(E). See 1996 Amendment note below.
+
+Subsec. (e)(5). Pub. L. 109–173, §9(d)(7)(A), inserted “as of the date of funding” after “Savings Association Insurance Fund members” in subpars. (A) and (B).
+
+Subsec. (e)(7), (8). Pub. L. 109–173, §9(d)(7)(B), struck out pars. (7) and (8) which related to additional sources to fund the Funding Corporation Principal Fund and a transfer of funds to the Resolution Trust Corporation in fiscal year 1989, respectively.
+
+Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(5). See 1996 Amendment note below.
+
+Subsec. (k). Pub. L. 109–173, §9(d)(8)(A), in introductory provisions, inserted before colon “, the following definitions shall apply”.
+
+Subsec. (k)(8) to (10). Pub. L. 109–173, §9(d)(8)(B), (C), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out heading and text of former par. (8). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a Savings Association Insurance member as such term is defined by section 1817(<i>l</i>) of this title.”
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(F). See 1996 Amendment note below.
+
 1999—Subsec. (f)(2)(C). Pub. L. 106–102 amended subpar. (C) generally, substituting present provisions for provisions requiring Federal Home Loan Banks to pay to the Funding Corporation each calendar year an amount sufficient to cover amount of interest payments made by the Corporation in that year, and provisions relating to determination of each Bank's individual share of such annual amount.
 
-1996—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was not executed. See Effective Date of 1996 Amendment note below.
+1996—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995” for “to Savings Associations Insurance Fund members”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995” for “to Savings Associations Insurance Fund members”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1992—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, §1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
 
@@ -594,13 +566,15 @@ Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted “Thrift Depositor
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–102, title VI, §607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act \[12 U.S.C. 1441b(f)(2)(C)\], as amended by this section.”
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendment
 

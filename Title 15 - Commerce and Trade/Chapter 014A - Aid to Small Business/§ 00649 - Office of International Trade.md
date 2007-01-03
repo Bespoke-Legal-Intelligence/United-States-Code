@@ -6,7 +6,7 @@ There is established within the Administration an Office of International Trade 
 
 #### (b) Development of distribution network; marketing of programs and dissemination of information; bilingual job applicants
 
-The Office, working in close cooperation with the Department of Commerce and other relevant Federal agencies, Small Business Development Centers engaged in export promotion efforts, regional and local Administration offices, the small business community, and relevant State and local export promotion programs, shall—
+The Office, working in close cooperation with the Department of Commerce and other relevantFederal agencies, Small Business Development Centers engaged in export promotion efforts, regional and local Administration offices, the small business community, and relevant State and local export promotion programs, shall—
 
 &emsp;(1) assist in developing a distribution network for existing trade promotion, trade finance, trade adjustment, trade remedy assistance and trade data collection programs through use of the Administration's regional and local offices and the Small Business Development Center network;
 
@@ -26,7 +26,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;(4) work closely with the Department of Commerce and other relevant Federal agencies to—
 
-&emsp;&emsp;(A) collect, analyze and periodically update relevant data regarding the small business share of United States exports and the nature of State exports (including the production of Gross State Produce figures) and disseminate that data to the public and to Congress;
+&emsp;&emsp;(A) collect, analyze and periodically update relevant data regarding the small business share of United States exports and the nature of State exports (including the production of Gross State Produce <sup>1</sup> figures) and disseminate that data to the public and to Congress;
 
 &emsp;&emsp;(B) make recommendations to the Secretary of Commerce and to Congress regarding revision of the SIC codes to encompass industries currently overlooked and to create SIC codes for export trading companies and export management companies;
 
@@ -34,7 +34,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;&emsp;(D) increase the accessibility of the Export Trading Company contact facilitation service;
 
-&emsp;(5) make available to the small business community information regarding conferences on exporting and international trade sponsored by the public and private sector.<sup>1</sup>
+&emsp;(5) make available to the small business community information regarding conferences on exporting and international trade sponsored by the public and private sector.<sup>2</sup>
 
 &emsp;(6) provide small businesses with access to current and complete export information by—
 
@@ -56,7 +56,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;&emsp;(C) encourage financial institutions to develop and expand programs for export financing;
 
-&emsp;&emsp;(D) provide advice to Administration personnel involved in granting loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small businesses engaged in exports; and
+&emsp;&emsp;(D) provide advice to Administration personnel involved in granting loans, loan guarantees, and extensions and revolving lines ofcredit, and providing other forms of assistance to small businesses engaged in exports; and
 
 &emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine small businesses’ needs for export information and assistance.
 
@@ -116,11 +116,11 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 #### Effective Date
 
-Section 113(b) of Pub. L. 96–481 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1980, or the date ofenactment of this Act \[Oct. 21, 1980\], whichever occurs later.”
+Section 113(b) of Pub. L. 96–481 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1980, or the date of enactment of this Act \[Oct. 21, 1980\], whichever occurs later.”
 
 #### Short Title
 
-For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, see Short Title of 1980 Amendment note set out under section 631 of this title.
+For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, seeShort Title of 1980 Amendment note set out under section 631 of this title.
 
 #### Congressional Declaration of Policy
 
@@ -150,5 +150,7 @@ Section 111 of title I of Pub. L. 96–481 provided that:
 
 &emsp;“(3) promoting the competitive viability of such firms in export trade and encouraging increased tourism in the United States by creating a program to provide limited financial, technical, and management assistance as may be necessary.”
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Product”.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

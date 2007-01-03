@@ -146,7 +146,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (B) Other funds
 
-&emsp;&emsp;A portion of the funds made available under Federal law authorizing the programsand activities described in section 2841(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
+&emsp;&emsp;A portion of the funds made available under Federal law authorizing the programs and activities described in section 2841(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
 
 #### (2) Core services
 
@@ -168,7 +168,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(iii) information relating to local occupations in demand and the earnings and skill requirements for such occupations; and
 
-&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
+&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
 
 &emsp;&emsp;(G) provision of information regarding how the local area is performing on the local performance measures and any additional performance information with respect to the one-stop delivery system in the local area;
 
@@ -374,7 +374,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(ii) if such worker did not qualify for unemployment compensation, an amount equal to the poverty line, for an equivalent period, which amount shall be adjusted to reflect changes in total family income.
 
-(Pub. L. 105–220, title I, §134, Aug. 7, 1998, 112 Stat. 990; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §134, Aug. 7, 1998, 112 Stat. 990; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(6), Aug. 12, 2006, 120 Stat. 748.)
 
 #### References in Text
 
@@ -386,13 +386,15 @@ The Wagner-Peyser Act, referred to in subsecs. (c)(1)(E) and (d)(1)(B), is act J
 
 Title II, referred to in subsec. (d)(2)(F), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (d)(2)(F), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(2)(F), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (d)(2)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+2006—Subsec. (d)(2)(F). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006” for “postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 1998—Subsec. (d)(4)(F)(iii). Pub. L. 105–277 added cl. (iii).
 

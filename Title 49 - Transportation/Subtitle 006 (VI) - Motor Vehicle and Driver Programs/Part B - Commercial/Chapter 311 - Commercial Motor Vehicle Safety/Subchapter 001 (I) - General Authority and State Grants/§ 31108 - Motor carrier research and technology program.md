@@ -62,7 +62,7 @@ In general.—To advance innovative solutions to problems involving commercial m
 
 &emsp;(2)
 
-Cooperative agreements.—In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)).
+Cooperative agreements.—In carrying out this subsection, the Secretary may enterinto cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)).
 
 &emsp;(3)
 

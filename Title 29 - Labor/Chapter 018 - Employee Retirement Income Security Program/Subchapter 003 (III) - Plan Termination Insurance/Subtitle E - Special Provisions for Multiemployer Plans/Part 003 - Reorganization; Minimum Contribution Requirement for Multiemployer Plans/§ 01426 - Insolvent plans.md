@@ -2,7 +2,7 @@
 
 #### (a) Suspension of payments of benefits; conditions, amount, etc.
 
-Notwithstanding sections 1053 and 1054 of this title, in any case in which benefit payments under an insolvent multiemployer plan exceed the resource benefit level, any such payments of benefits which are not basic benefits shall be suspended, in accordance with this section, to the extent necessary to reduce the sum of such payments and the payments of such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation under section 1322a(g)(5) of this title.
+Notwithstanding sections 1053 and 1054 of this title, in any case in which benefit payments under an insolvent multiemployer plan exceed the resource benefit level, any such payments ofbenefits which are not basic benefits shall be suspended, in accordance with this section, to the extent necessary to reduce the sum of such payments and the payments of such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation under section 1322a(g)(5) of this title.
 
 #### (b) Determination of insolvency status for plan year; definitions
 
@@ -26,7 +26,7 @@ For purposes of this section, for a plan year—
 
 (4)(A) If, by the end of an insolvency year, the plan sponsor determines in writing that the plan's available resources in that insolvency year could have supported benefit payments above the resource benefit level for that insolvency year, the plan sponsor shall distribute the excess resources to the participants and beneficiaries who received benefit payments from the plan in that insolvency year, in accordance with regulations prescribed by the Secretary of the Treasury.
 
-(B) For purposes of this paragraph, the term “excess resources” means available resources above the amount necessary to support the resource benefit level, but no greater than theamount necessary to pay benefits for the plan year at the benefit levels under the plan.
+(B) For purposes of this paragraph, the term “excess resources” means available resources above the amount necessary to support the resource benefit level, but no greater than the amount necessary to pay benefits for the plan year at the benefit levels under the plan.
 
 (5) If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary of the Treasury, to the extent possible taking into account the plan's total available resources in that insolvency year.
 
@@ -48,7 +48,7 @@ For purposes of this section, for a plan year—
 
 &emsp;(B) inform the parties described in section 1422(a)(2) of this title and the plan participants and beneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
-(2) No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in reorganization shall notify the Secretary of the Treasury, the corporation, and the parties described in paragraph (1)(B) of the resource benefit level determined in writing for that insolvency year.
+(2) No later than 2 months before the first day of each insolvency year, the plan sponsor of aplan in reorganization shall notify the Secretary of the Treasury, the corporation, and the parties described in paragraph (1)(B) of the resource benefit level determined in writing for that insolvency year.
 
 (3) In any case in which the plan sponsor anticipates that the resource benefit level for an insolvency year may not exceed the level of basic benefits, the plan sponsor shall notify the corporation.
 
@@ -62,7 +62,15 @@ For purposes of this section, for a plan year—
 
 (2) A plan sponsor who has determined a resource benefit level for an insolvency year which is below the level of basic benefits shall apply for financial assistance from the corporation under section 1431 of this title.
 
-(Pub. L. 93–406, title IV, §4245, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1259.)
+(Pub. L. 93–406, title IV, §4245, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1259; amended Pub. L. 109–280, title II, §203(a), Aug. 17, 2006, 120 Stat. 886.)
+
+#### Amendment of Subsection (d)(1)
+
+<i>Pub. L. 109–280, title II, §203, Aug. 17, 2006, 120 Stat. 886, provided that, applicable with respect to determinations made in plan years beginning after 2007, subsection (d)(1) of this section is amended by substituting “5 plan years” for “3 plan years” the second place it appears and by inserting at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”</i>
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title II, §203(b), Aug. 17, 2006, 120 Stat. 886, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to determinations made in plan years beginning after 2007.”
 
 #### Withdrawal Liability of Employer From Plan Terminating While Plan Insolvent Within This Section: Determinations, Factors, Etc.
 

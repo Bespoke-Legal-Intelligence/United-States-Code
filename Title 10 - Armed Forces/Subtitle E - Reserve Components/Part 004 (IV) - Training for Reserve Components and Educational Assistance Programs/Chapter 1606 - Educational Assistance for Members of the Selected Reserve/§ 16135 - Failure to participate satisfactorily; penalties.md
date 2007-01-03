@@ -26,7 +26,7 @@ Effect of Repayment.—Any repayment under section 303a(e) of title 37 shall not
 
 Subsec. (a)(1)(A). Pub. L. 103–337, §1663(b)(6)(A), substituted “16132” for “2132”.
 
-Subsec. (b)(1)(A). Pub. L. 103–337, §1663(b)(6)(B), which directed substitution of “section 16132(a)” for “section 2132(a)”, could not be executed because “section 2132(a)” does not appear in subsec. (b)(1)(A).
+Subsec. (b)(1)(A). Pub. L. 103–337, §1663(b)(6)(B), which directed substitution of “section 16132(a)” for “section2132(a)”, could not be executed because “section 2132(a)” does not appear in subsec. (b)(1)(A).
 
 1988—Subsec. (a)(1). Pub. L. 100–689, §111(b)(6)(A), inserted “, and during which the member has received such assistance,” after “chapter”.
 

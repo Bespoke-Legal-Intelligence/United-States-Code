@@ -46,7 +46,7 @@ Red rock canyon map.—The term ‘Red Rock Canyon Map’ means the map entitled
 
 Findings.—The Congress makes the following findings:
 
-&emsp;“(1) Red Rock Canyon is a natural resource of major significance to the people of Nevada and the United States. It must be protected in its natural state for the enjoyment of future generations of Nevadans and Americans, and enhanced wherever possible.
+&emsp;“(1) Red Rock Canyon is a natural resource of major significance to the people of Nevada and the United States. It must be protected in its naturalstate for the enjoyment of future generations of Nevadans and Americans, and enhanced wherever possible.
 
 &emsp;“(2) In 1998, the Congress enacted the Southern Nevada Public Lands \[Land\] Management Act of 1998 (Public Law 105–263) \[see Short Title of 1998 Amendment note set out under section 6901 of Title 31, Money and Finance\], which provided among other things for the protection and enhancement of Red Rock Canyon.
 
@@ -70,7 +70,7 @@ Purposes.—The purposes of this title are:
 
 “(a)
 
-Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title,and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
+Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title, and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
 
 &emsp;“(1) To the Corporation, the approximately 998 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Public land selected for exchange’.
 

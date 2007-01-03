@@ -10,7 +10,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(3) the term “maintain” includes maintain, collect, use, or disseminate;
 
-&emsp;(4) the term “record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name, or the identifying number,symbol, or other identifying particular assigned to the individual, such as a finger or voice print or a photograph;
+&emsp;(4) the term “record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a finger or voice print or a photograph;
 
 &emsp;(5) the term “system of records” means a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual;
 
@@ -66,7 +66,7 @@ Definitions.—For purposes of this section—
 
 (b)
 
-Conditions of Disclosure.—No agency shall disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with theprior written consent of, the individual to whom the record pertains, unless disclosure of the record would be—
+Conditions of Disclosure.—No agency shall disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains, unless disclosure of the record would be—
 
 &emsp;(1) to those officers and employees of the agency which maintains the record who have a need for the record in the performance of their duties;
 
@@ -80,7 +80,7 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(6) to the National Archives and Records Administration as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, or for evaluation by the Archivist of the United States or the designee of the Archivist to determine whether the record has such value;
 
-&emsp;(7) to another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to the agency which maintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought;
+&emsp;(7) to another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to the agency whichmaintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought;
 
 &emsp;(8) to a person pursuant to a showing of compelling circumstances affecting the health or safety of an individual if upon such disclosure notification is transmitted to the last known address of such individual;
 
@@ -126,7 +126,7 @@ Access to Records.—Each agency that maintains a system of records shall—
 
 &emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
 
-&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) ofthis subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
+&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
 
 &emsp;(5) nothing in this section shall allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
@@ -190,7 +190,7 @@ Agency Rules.—In order to carry out the provisions of this section, each agenc
 
 &emsp;(1) establish procedures whereby an individual can be notified in response to his request if any system of records named by the individual contains a record pertaining to him;
 
-&emsp;(2) define reasonable times, places, and requirements for identifying an individual whorequests his record or information pertaining to him before the agency shall make the record or information available to the individual;
+&emsp;(2) define reasonable times, places, and requirements for identifying an individual who requests his record or information pertaining to him before the agency shall make the record or information available to the individual;
 
 &emsp;(3) establish procedures for the disclosure to an individual upon his request of his record or information pertaining to him, including special procedure, if deemed necessary, for the disclosure to an individual of medical records, including psychological records, pertaining to him;
 
@@ -238,7 +238,7 @@ Rights of Legal Guardians.—For the purposes of this section, the parent of any
 
 Criminal Penalties.—Any officer or employee of an agency, who by virtue of his employment or official position, has possession of, or access to, agency records which contain individually identifiable information the disclosure of which is prohibited by this section or by rules or regulations established thereunder, and who knowing that disclosure of the specific material is so prohibited, willfully discloses the material in any manner to any person or agency not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000.
 
-(2) Any officer or employee of any agency who willfully maintains a system of records without meeting the notice requirements of subsection\(e)(4) of this section shall be guilty of a misdemeanor and fined not more than $5,000.
+(2) Any officer or employee of any agency who willfully maintains a system of records without meeting the notice requirements of subsection (e)(4) of this section shall be guilty of a misdemeanor and fined not more than $5,000.
 
 (3) Any person who knowingly and willfully requests or obtains any record concerning an individual from an agency under false pretenses shall be guilty of a misdemeanor and fined not more than $5,000.
 
@@ -248,7 +248,7 @@ General Exemptions.—The head of any agency may promulgate rules, in accordance
 
 &emsp;(1) maintained by the Central Intelligence Agency; or
 
-&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
+&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled forthe purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
 
 > At the time rules are adopted under this subsection, the agency shall include in the statement required under section 553(c) of this title, the reasons why the system of records is to be exempted from a provision of this section.
 
@@ -344,7 +344,7 @@ Verification and Opportunity to Contest Findings.—(1) In order to protect any 
 
 &emsp;(A)(i) the agency has independently verified the information; or
 
-&emsp;(ii) the Data Integrity Board of the agency, or in the case of a non-Federal agency theData Integrity Board of the source agency, determines in accordance with guidance issued by the Director of the Office of Management and Budget that—
+&emsp;(ii) the Data Integrity Board of the agency, or in the case of a non-Federal agency the Data Integrity Board of the source agency, determines in accordance with guidance issued by the Director of the Office of Management and Budget that—
 
 &emsp;&emsp;(I) the information is limited to identification and amount of benefits paid by the source agency under a Federal benefit program; and
 
@@ -558,7 +558,7 @@ Amendment by Pub. L. 106–170 applicable to individuals whose period of confine
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to levies issued after Aug. 5, 1997, see section 1026(c) of Pub. L.105–34, set out as a note under section 6103 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 105–34 applicable to levies issued after Aug. 5, 1997, see section 1026(c) of Pub. L. 105–34, set out as a note under section 6103 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendment
 
@@ -582,7 +582,7 @@ Exceptions.—The amendment made by sections 3(b), 6, 7, and 8 of this Act \[ame
 
 “(c)
 
-Effective Date Delayed for Existing Programs.—In the case of any matching program (as defined in section 552a(a)(8) of title 5, United States Code, as added by section 5 of this Act) in operation before June 1, 1989, the amendments made by this Act (other than the amendments described in subsection (b)) shall take effect January 1, 1990, if—
+Effective Date Delayed for Existing Programs.—In the case of any matching program (as defined in section 552a(a)(8) of title 5, United States Code,as added by section 5 of this Act) in operation before June 1, 1989, the amendments made by this Act (other than the amendments described in subsection (b)) shall take effect January 1, 1990, if—
 
 &emsp;“(1) such matching program is identified by an agency as being in operation before June 1, 1989; and
 
@@ -752,7 +752,7 @@ Section 7201(c) of Pub. L. 101–508 provided that: “Section 552a(p)(1)(A)(ii)
 
 Pub. L. 101–366, title II, §206(d), Aug. 15, 1990, 104 Stat. 442, provided that:
 
-“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and Privacy Protection Act of 1988 \[Pub. L. 100–503\] (other than theamendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
+“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and Privacy Protection Act of 1988 \[Pub. L. 100–503\] (other than the amendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
 
 “(2) For purposes of this subsection, the term ‘matching program’ has the same meaning provided in section 552a(a)(8) of title 5, United States Code.”
 

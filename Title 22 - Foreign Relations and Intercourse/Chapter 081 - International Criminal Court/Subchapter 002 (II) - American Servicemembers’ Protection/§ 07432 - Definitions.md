@@ -58,15 +58,19 @@ As used in this subchapter and in section 7402 of this title:
 
 &emsp;The term “United States military assistance” means—
 
-&emsp;&emsp;(A) assistance provided under chapter 2 \[22 U.S.C. 2311 et seq.\] or 5 \[22 U.S.C. 2347 et seq.\] of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.); or
+&emsp;&emsp;(A) assistance provided under chapter 2 \[22 U.S.C. 2311 et seq.\] of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.); or
 
 &emsp;&emsp;(B) defense articles or defense services furnished with the financial assistance of the United States Government, including through loans and guarantees, under section 2763 of this title.
 
-(Pub. L. 107–206, title II, §2013, Aug. 2, 2002, 116 Stat. 907.)
+(Pub. L. 107–206, title II, §2013, Aug. 2, 2002, 116 Stat. 907; Pub. L. 109–364, div. A, title XII, §1222, Oct. 17, 2006, 120 Stat. 2423.)
 
 #### References in Text
 
 Executive Order 12958, referred to in par. (2), is set out as a note under section 435 of Title 50, War and National Defense.
 
-The Foreign Assistance Act of 1961, referred to in par. (13)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapters 2 and 5 of part II of the Act are classified generally to parts II (§2311 et seq.) and V (§2347 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (13)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of the Act is classified generally to part II (§2311 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Amendments
+
+2006—Par. (13)(A). Pub. L. 109–364 struck out “or 5” before “of part II”.
 

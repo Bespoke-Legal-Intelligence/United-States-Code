@@ -30,7 +30,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 (2) Notwithstanding section 602(a)(1) of this title, a demonstration project conducted under this subsection may be conducted in one or more political subdivisions of the State.
 
-(3) An agreement under this subsection shall be entered into between the Secretary and theState agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV of this chapter as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements and conditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV of this chapter).
+(3) An agreement under this subsection shall be entered into between the Secretary and the State agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV of this chapter as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements and conditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV of this chapter).
 
 (4) A demonstration project under this subsection may be commenced any time after September 30, 1990, and shall be conducted for such period of time as the agreement with the Secretary may provide; except that, in no event may a demonstration project under this section be conducted after September 30, 1995.
 
@@ -76,7 +76,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;&emsp;(ii) disapprove the application.
 
-&emsp;(B) A failure by the Secretary to approve or disapprove an application submitted under this subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the applicationsubject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
+&emsp;(B) A failure by the Secretary to approve or disapprove an application submitted under this subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the application subject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
 
 &emsp;(6) An approval of an application for an extension of a waiver project under this subsection shall be for a period not to exceed 3 years.
 
@@ -242,7 +242,7 @@ Nature of Project.—Under each demonstration project conducted under this secti
 
 &emsp;“(1) The State shall establish a ‘Teen Care Plan’ that shall consist of the following:
 
-&emsp;&emsp;“(A) A clearing house where high-risk teenagers will be referred to and encouraged to participate in non-academic activities (arts, recreation, sports) which are already in place in the community.
+&emsp;&emsp;“(A) A clearing house where high-risk teenagers will be referred to and encouraged to participate innon-academic activities (arts, recreation, sports) which are already in place in the community.
 
 &emsp;&emsp;“(B) A survey of the area to be targeted by the project to determine the need to fund and create new non-academic activities in the area.
 

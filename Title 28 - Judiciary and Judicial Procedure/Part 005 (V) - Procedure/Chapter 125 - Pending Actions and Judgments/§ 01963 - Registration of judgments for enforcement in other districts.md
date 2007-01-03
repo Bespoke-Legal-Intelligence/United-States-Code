@@ -26,7 +26,7 @@ The phrase “for the recovery of money or property” was not in the committee'
 
 1990—Pub. L. 101–647 inserted after first sentence “Such a judgment entered in favor of the United States may be so registered any time after judgment is entered.”
 
-1988—Pub. L. 100–702 substituted “Registration of judgments of the district courts and the Court of International Trade” for “Registration in other districts” in section catchline and amended first sentence generally. Prior to amendment, first sentence read as follows: “A judgment in an action for the recovery of money or property now or hereafter entered in any district court which has become final by appeal or expiration of time for appeal may be registered in any other district by filing therein a certified copy of such judgment.”
+1988—Pub. L. 100–702 substituted “Registration of judgments of the district courts and the Court of International Trade” for “Registration in other districts” in section catchline and amended first sentence generally. Prior to amendment, first sentence read as follows: “A judgment in an action for the recovery of money or property now or hereafter entered in any district courtwhich has become final by appeal or expiration of time for appeal may be registered in any other district by filing therein a certified copy of such judgment.”
 
 1958—Pub. L. 85–508 struck out provisions which extended provisions of section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 

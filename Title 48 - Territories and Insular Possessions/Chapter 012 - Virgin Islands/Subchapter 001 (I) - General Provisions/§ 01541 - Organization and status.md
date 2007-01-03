@@ -42,7 +42,7 @@ Pub. L. 86–289, §1, Sept. 16, 1959, 73 Stat. 568, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of act July 22, 1954, provided that: “This Act \[enacting this chapter, amending sections 104 and111 of Title 21, Food and Drugs, and sections 3350 of former Title 26, Internal Revenue Code (see section 7652(b)(3) of Title 26), and enacting provisions set out as notes under this section\] may be cited as the ‘Revised Organic Act of the Virgin Islands’.”
+Section 1 of act July 22, 1954, provided that: “This Act \[enacting this chapter, amending sections 104 and 111 of Title 21, Food and Drugs, and sections 3350 of former Title 26, Internal Revenue Code (see section 7652(b)(3) of Title 26), and enacting provisions set out as notes under this section\] may be cited as the ‘Revised Organic Act of the Virgin Islands’.”
 
 #### Separability
 

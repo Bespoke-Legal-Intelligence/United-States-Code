@@ -14,19 +14,16 @@
 | [2610\.](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md) | Competitions for excellence: acceptance of monetary awards. |
 | [2611\.](%C2%A7%2002611%20-%20Regional%20centers%20for%20security%20studies%20acceptance%20of%20gifts%20and%20donations.md) | Regional centers for security studies: acceptance of gifts and donations. |
 | [2612\.](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md) | National Defense University: acceptance of gifts. |
-| 2613\.<sup>1</sup> | Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 2613\.<sup>1</sup> | Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters. |
+| [2613\.](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20and%20tickets%3B%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%20their%E2%80%A6.md) | Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families. |
+| [2614\.](%C2%A7%2002614%20-%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md) | Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title IX, §903(a)(2), Jan. 6, 2006, 119 Stat. 3399, substituted “Regional centers for security studies” for “Asia-Pacific Center for Security Studies” in item 2611.
+2006—Pub. L. 109–364, div. A, title X, §1071(a)(19)(B), Oct. 17, 2006, 120 Stat. 2399, renumbered item 2613 “Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters” as 2614.
+
+Pub. L. 109–163, div. A, title IX, §903(a)(2), Jan. 6, 2006, 119 Stat. 3399, substituted “Regional centers for security studies” for “Asia-Pacific Center for Security Studies” in item 2611.
 
 2004—Pub. L. 108–375, div. A, title V, §585(a)(2), title X, §1051(b), Oct. 28, 2004, 118 Stat. 1931, 2054, added two items 2613.
 
@@ -68,7 +65,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to provide t
 
 “(b)
 
-Authority.—A member of the Armed Forces described in subsection (c) may accept gifts as provided in the regulations authorized in subsection (a), notwithstanding section 7353 of title 5, United States Code.
+Authority.—A member of the Armed Forces described in subsection (c) may accept gifts as provided inthe regulations authorized in subsection (a), notwithstanding section 7353 of title 5, United States Code.
 
 “(c)
 
@@ -85,8 +82,6 @@ Deadline for Regulations.—Regulations under subsection (a) shall be prescribed
 “(e)
 
 Retroactive Applicability of Regulations.—Regulations under subsection (a) shall, to the extent provided in such regulations, also apply to the acceptance of gifts during the period beginning on September 11, 2001, and ending on the date on which such regulations go into effect.”
-
-<i><sup>1</sup></i><i> So in original. Two sections 2613 have been enacted.</i>
 
 
 ---
@@ -105,5 +100,5 @@ Retroactive Applicability of Regulations.—Regulations under subsection (a) sha
 - [&sect; 02610 - Competitions for excellence acceptance of monetary awards](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md)
 - [&sect; 02611 - Regional centers for security studies acceptance of gifts and donations](%C2%A7%2002611%20-%20Regional%20centers%20for%20security%20studies%20acceptance%20of%20gifts%20and%20donations.md)
 - [&sect; 02612 - National Defense University acceptance of gifts](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md)
-- [&sect; 02613 - 1 Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and&#8230;](%C2%A7%2002613%20-%201%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20and%20tickets%3B%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%E2%80%A6.md)
-- [&sect; 02613 - 1 Emergency communications equipment acceptance from local public safety agencies for temporary use related to disasters](%C2%A7%2002613%20-%201%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md)
+- [&sect; 02613 - Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their&#8230;](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20and%20tickets%3B%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%20their%E2%80%A6.md)
+- [&sect; 02614 - Emergency communications equipment acceptance from local public safety agencies for temporary use related to disasters](%C2%A7%2002614%20-%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md)

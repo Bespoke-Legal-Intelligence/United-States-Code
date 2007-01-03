@@ -12,7 +12,7 @@
 
 &emsp;Fifth, if none of the above, to the duly appointed executor or administrator of the estate of the employee.
 
-&emsp;Sixth, if none of the above, to other next of kin of the employee entitled under the laws ofthe domicile of the employee at the date of his death.
+&emsp;Sixth, if none of the above, to other next of kin of the employee entitled under the laws of the domicile of the employee at the date of his death.
 
 (b) If, within 1 year after the death of the employee, no claim for payment has been filed by a person entitled under the order of precedence named by subsection (a) of this section, or if payment to the person within that period is prohibited by Federal statute or regulation, payment may be made in the order of precedence as if the person had predeceased the employee, and the payment bars recovery by any other person.
 

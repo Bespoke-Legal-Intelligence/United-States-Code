@@ -58,7 +58,7 @@ Aug. 29, 1916, ch. 415, §§2, 3, 6, 7, 29 (last sentence), 39 Stat. 539, 543.
 
 49 App.:86.
 
-In subsection (a)(1), the words “A bill of lading is negotiable if . . . states that the goods are to be delivered to the order of a consignee” are substituted for “A billin which it is stated that the goods are consigned or destined to the order of any person named in such bill is an order bill” for clarity and consistency in the revised title and with other titles of the United States Code. The words “does not contain on its face an agreement with the shipper that the bill is not negotiable” are substituted for 49 App.:83 (last sentence) for clarity and to eliminate unnecessary words.
+In subsection (a)(1), the words “A bill of lading is negotiable if . . . states that the goods are to be delivered to the order of a consignee” are substituted for “A bill in which it is stated that the goods are consigned or destined to the order of any person named in such bill is an order bill” for clarity and consistency in the revised title and with other titles of the United States Code. The words “does not contain on its face an agreement with the shipper that the bill is not negotiable” are substituted for 49 App.:83 (last sentence) for clarity and to eliminate unnecessary words.
 
 In subsection (a)(2)(B), the words “right the named person has” are substituted for “rights or equities of such person” for clarity.
 

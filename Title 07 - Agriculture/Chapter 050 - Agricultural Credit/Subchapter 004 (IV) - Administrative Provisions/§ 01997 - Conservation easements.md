@@ -66,7 +66,7 @@ If the Secretary elects to use the authority provided by this section, the Secre
 
 The Secretary, and any person or governmental entity designated by the Secretary, may enforce a contract entered into by the Secretary under this section.
 
-(Pub. L. 87–128, title III, §349, as added Pub. L. 99–198, title XIII, §1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, §612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, §1815, title XXIII, §2388(j), Nov. 28, 1990, 104 Stat. 3825, 4053; Pub. L. 104–127, title VI, §642, Apr. 4, 1996, 110 Stat. 1102.)
+(Pub. L. 87–128, title III, §349, as added Pub. L. 99–198, title XIII, §1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, §612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, §1815, title XXIII, §2388(j), Nov. 28, 1990, 104 Stat.3825, 4053; Pub. L. 104–127, title VI, §642, Apr. 4, 1996, 110 Stat. 1102.)
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Subsec. (c)(3)(A)(ii). Pub. L. 101–624, §1815(1)(E), amended cl. (ii) general
 
 Subsec. (e). Pub. L. 101–624, §1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
 
-Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as follows: “This section shall notapply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
+Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as follows: “This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
 
 1988—Subsec. (c)(4). Pub. L. 100–233, §612(1), inserted “and other wildlife habitat” after “wetland”.
 

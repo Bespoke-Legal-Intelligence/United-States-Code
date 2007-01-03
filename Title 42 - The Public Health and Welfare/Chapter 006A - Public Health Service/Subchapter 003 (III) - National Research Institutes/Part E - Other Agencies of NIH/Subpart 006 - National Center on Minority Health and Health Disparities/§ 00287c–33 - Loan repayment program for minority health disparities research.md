@@ -6,7 +6,7 @@ The Director of the Center shall establish a program of entering into contracts 
 
 #### (b) Service provisions
 
-The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
+The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistentwith subsection (a) of this section, apply to the program established in such subsection to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
 
 #### (c) Requirement regarding health disparity populations
 
@@ -16,15 +16,13 @@ The Director of the Center shall ensure that not fewer than 50 percent of the co
 
 With respect to minority health disparities research and other health disparities research under subsection (a) of this section, the Secretary shall ensure that priority is given to conducting projects of biomedical research.
 
-#### (e) Funding
+(July 1, 1944, ch. 373, title IV, §485G, as added Pub. L. 106–525, title I, §103, Nov. 22, 2000, 114 Stat. 2503; amended Pub. L. 109–482, title I, §103(b)(46), Jan. 15, 2007, 120 Stat. 3688.)
 
-#### (1) Authorization of appropriations
+#### Amendments
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+2007—Subsec. (e). Pub. L. 109–482 struck out subsec. (e) which related to authorization and availability of appropriations.
 
-#### (2) Availability of appropriations
+#### Effective Date of 2007 Amendment
 
-&emsp;Amounts available for carrying out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were made available.
-
-(July 1, 1944, ch. 373, title IV, §485G, as added Pub. L. 106–525, title I, §103, Nov. 22, 2000, 114 Stat. 2503.)
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

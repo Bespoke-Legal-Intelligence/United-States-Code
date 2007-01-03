@@ -36,7 +36,7 @@
 
 (f) The amount of optional life, or life and accidental death, insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title.
 
-(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L.98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951.)
+(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (c)(2). Pub. L. 95–583, §1(c)(2), added par. (2) and struck out forme
 
 &emsp;“(A) the full period or periods of service during which the optional insurance was available to him; or
 
-&emsp;“(B) the 12 years of service immediately preceding his retirement or beginning date of entitlement to compensation for work injuries and during which the optional insurance was available to him;
+&emsp;“(B) the 12 years of service immediately preceding his retirement or beginning date of entitlement tocompensation for work injuries and during which the optional insurance was available to him;
 
 > whichever is shorter, may be continued—
 

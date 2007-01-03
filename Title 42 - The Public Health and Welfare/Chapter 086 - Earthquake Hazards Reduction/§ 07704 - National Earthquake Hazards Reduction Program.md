@@ -120,7 +120,7 @@
 
 #### (A) Program responsibilities
 
-&emsp;&emsp;The Under Secretary of Homeland Security for Emergency Preparedness and Response (the Director of the Federal Emergency Management Agency)—
+&emsp;&emsp;The Under Secretary of Homeland Security for Emergency Preparedness and Response (the Administrator of the Federal Emergency Management Agency)—
 
 &emsp;&emsp;&emsp;(i) shall work closely with national standards and model building code organizations, in conjunction with the National Institute of Standards and Technology, to promote the implementation of research results;
 
@@ -148,11 +148,11 @@
 
 &emsp;&emsp;&emsp;(ii) provide a share of the costs of the activities for which assistance is being given, in accordance with subparagraph (C); and
 
-&emsp;&emsp;&emsp;(iii) meet such other requirements as the Director of the Agency shall prescribe.
+&emsp;&emsp;&emsp;(iii) meet such other requirements as the Administrator of the Agency shall prescribe.
 
 #### (C) Non-Federal cost sharing
 
-&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
+&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities undersubparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
 
 &emsp;&emsp;(ii) In the case of any State which has not received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date—
 
@@ -172,9 +172,9 @@
 
 &emsp;&emsp;(B) work with officials of State and local governments to ensure that they are knowledgeable about the specific seismic risks in their areas;
 
-&emsp;&emsp;(C) develop standard procedures, in consultation with the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology, for issuing earthquake predictions, including aftershock advisories;
+&emsp;&emsp;(C) develop standard procedures, in consultation with the Administrator of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology, for issuing earthquake predictions, including aftershock advisories;
 
-&emsp;&emsp;(D) issue when necessary, and notify the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology of, an earthquake prediction or other earthquake advisory, which may be evaluated by the National Earthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
+&emsp;&emsp;(D) issue when necessary, and notify the Administrator of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology of, an earthquake prediction or other earthquake advisory, which may be evaluated by the National Earthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
 
 &emsp;&emsp;(E) operate, using the National Earthquake Information Center, a forum for the international exchange of earthquake information which shall—
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(G) support regional seismic networks, which shall complement the National Seismic Network; and <sup>4</sup>
 
-&emsp;&emsp;(H) work with the National Science Foundation, the Federal Emergency ManagementAgency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.<sup>5</sup>
+&emsp;&emsp;(H) work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.<sup>5</sup>
 
 &emsp;&emsp;(I) work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries; and
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;(C) states the portion of its request for appropriations allocated to each element of the Program.
 
-(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669.)
+(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -256,7 +256,7 @@ Sections 14 and 10(a)(2) of the Federal Advisory Committee Act, referred to in s
 
 2004—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established a National Earthquake Hazards Reduction Program.”
 
-Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
+Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carryingout this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
 
 Subsec. (b)(1)(B). Pub. L. 108–360, §103(2)(A)(ii), (iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “prepare, in conjunction with the other Program agencies, a written plan for the Program, which shall include specific tasks and milestones for each Program agency, and which shall be submitted to the Congress and updated at such times as may be required by significant Program events, but in no event less frequently than every 3 years;”.
 
@@ -270,11 +270,11 @@ Subsec. (b)(3). Pub. L. 108–360, §103(2)(C)(i), inserted “and other activit
 
 Subsec. (b)(3)(C). Pub. L. 108–360, §103(2)(C)(ii), substituted “the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology” for “the Agency”.
 
-Subsec.(b)(3)(D). Pub. L. 108–360, §103(2)(C)(iii), substituted “the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology” for “the Director of the Agency”.
+Subsec. (b)(3)(D). Pub. L. 108–360, §103(2)(C)(iii), substituted “the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology” for “the Director of the Agency”.
 
 Subsec. (b)(3)(E). Pub. L. 108–360, §103(2)(C)(iv), substituted “operate, using the National Earthquake Information Center, a forum for the international exchange of earthquake information” for “establish, using existing facilities, a Center for the International Exchange of Earthquake Information” in introductory provisions.
 
-Subsec.(b)(3)(F). Pub. L. 108–360, §103(2)(C)(v), substituted “System” for “Network”.
+Subsec. (b)(3)(F). Pub. L. 108–360, §103(2)(C)(v), substituted “System” for “Network”.
 
 Subsec. (b)(3)(I), (J). Pub. L. 108–360, §103(2)(C)(vi), added subpars. (I) and (J).
 
@@ -324,9 +324,15 @@ Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par.
 
 Subsec. (i). Pub. L. 96–472, §101(f), added subsec. (i).
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” and “Administrator of the Agency” substituted for “Director of the Federal Emergency Management Agency” and “Director of the Agency”, respectively, in subsec. (b)(2)(A), (B)(iii), (3)(C), (D) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Real-Time Public Availability of Raw Seismological Data
 
@@ -434,7 +440,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;“(A)
 
-Local educational agency.—The term ‘local educational agency’ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
+Local educational agency.—The term ‘local educational agency’ has the meaning giventhat term in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;&emsp;“(B)
 

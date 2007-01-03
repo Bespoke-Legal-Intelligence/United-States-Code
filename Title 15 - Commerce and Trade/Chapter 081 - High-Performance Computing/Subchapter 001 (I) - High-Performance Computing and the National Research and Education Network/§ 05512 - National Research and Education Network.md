@@ -6,7 +6,7 @@ As part of the Program, the National Science Foundation, the Department of Defen
 
 #### (b) Access
 
-Federal agencies and departments shall work with private network service providers, State and local agencies, libraries, educational institutions and organizations, and others, as appropriate, in order to ensure that the researchers, educators, and students have access, as appropriate, to the Network. The Network is to provide users with appropriate access to high-performance computing systems, electronic information resources, other research facilities, and libraries. The Network shall provide access, to the extent practicable, to electronic information resources maintained by libraries, research facilities, publishers, and affiliated organizations.
+Federal agencies and departments shall work with private network service providers, Stateand local agencies, libraries, educational institutions and organizations, and others, as appropriate, in order to ensure that the researchers, educators, and students have access, as appropriate, to the Network. The Network is to provide users with appropriate access to high-performance computing systems, electronic information resources, other research facilities, and libraries. The Network shall provide access, to the extent practicable, to electronic information resources maintained by libraries, research facilities, publishers, and affiliated organizations.
 
 #### (c) Network characteristics
 
@@ -20,7 +20,7 @@ The Network shall—
 
 &emsp;(4) be designed, developed, and operated in a manner which promotes research and development leading to development of commercial data communications and telecommunications standards, whose development will encourage the establishment of privately operated high-speed commercial networks;
 
-&emsp;(5) be designed and operated so as to ensure the continued application of laws that providenetwork and information resources security measures, including those that protect copyright and other intellectual property rights, and those that control access to data bases and protect national security;
+&emsp;(5) be designed and operated so as to ensure the continued application of laws that provide network and information resources security measures, including those that protect copyright and other intellectual property rights, and those that control access to data bases and protect national security;
 
 &emsp;(6) have accounting mechanisms which allow users or groups of users to be charged for their usage of copyrighted materials available over the Network and, where appropriate and technically feasible, for their usage of the Network;
 

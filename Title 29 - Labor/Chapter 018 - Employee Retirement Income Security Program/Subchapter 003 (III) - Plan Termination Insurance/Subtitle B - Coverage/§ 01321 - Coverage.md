@@ -22,11 +22,11 @@ Except as provided in subsection (b) of this section, this subchapter applies to
 
 This section does not apply to any plan—
 
-&emsp;(1) which is an individual account plan, as defined in paragraph (34) of section 1002 of this title,
+&emsp;(1) which is an individual account plan, as defined in paragraph (34) of section 1002 of this title,<sup>1</sup>
 
-&emsp;(2) established and maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, or to which the Railroad Retirement Act of 1935 or 1937 \[45 U.S.C. 231 et seq.\] applies and which is financed by contributions required under that Act,
+&emsp;(2) established and maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, or to which the Railroad Retirement Act of 1935 or 1937 \[45 U.S.C. 231 et seq.\] applies and which is financed by contributions required under that Act, or which is described in the last sentence of section 1002(32) of this title <sup>2</sup>
 
-&emsp;(3) which is a church plan as defined in section 414(e) of title 26, unless that plan has made an election under section 410(d) of title 26, and has notified the corporation in accordance with procedures prescribed by the corporation, that it wishes to have the provisions of this part apply to it,
+&emsp;(3) which is a church plan as defined in section 414(e) of title 26, unless that plan has made an election under section 410(d) of title 26, and has notified the corporation in accordance with procedures prescribed by the corporation, that it wishes to have the provisions of this part apply to it,<sup>1</sup>
 
 &emsp;(4)(A) established and maintained by a society, order, or association described in section 501(c)(8) or (9) of title 26, if no part of the contributions to or under the plan is made by employers of participants in the plan, or
 
@@ -40,15 +40,17 @@ This section does not apply to any plan—
 
 &emsp;(8) which is maintained by an employer solely for the purpose of providing benefits for certain employees in excess of the limitations on contributions and benefits imposed by section 415 of title 26 on plans to which that section applies, without regard to whether the plan is funded, and, to the extent that a separable part of a plan (as determined by the corporation) maintained by an employer is maintained for such purpose, that part shall be treated for purposes of this subchapter, as a separate plan which is an excess benefit plan;
 
-&emsp;(9) which is established and maintained exclusively for substantial owners as defined in section 1322(b)(6) <sup>1</sup> of this title;
+&emsp;(9) which is established and maintained exclusively for substantial owners;
 
 &emsp;(10) of an international organization which is exempt from taxation under the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\];
 
 &emsp;(11) maintained solely for the purpose of complying with applicable workmen's compensation laws or unemployment compensation or disability insurance laws;
 
-&emsp;(12) which is a defined benefit plan, to the extent that it is treated as an individual account plan under paragraph (35)(B) of section 1002 of this title; or
+&emsp;(12) which is a defined benefit plan, to the extent that it is treated as an individual account plan under paragraph (35)(B) of section 1002 of this title;
 
-&emsp;(13) established and maintained by a professional service employer which does not at any time after September 2, 1974, have more than 25 active participants in the plan.
+&emsp;(13) established and maintained by a professional service employer which does not at any time after September 2, 1974, have more than 25 active participants in the plan; or
+
+&emsp;(14) established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).
 
 #### (c) Definitions
 
@@ -62,23 +64,59 @@ This section does not apply to any plan—
 
 (3) In the case of a plan established and maintained by more than one professional service employer, the plan shall not be treated as a plan described in subsection (b)(13) of this section if, at any time after September 2, 1974, the plan has more than 25 active participants.
 
-(Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451.)
+#### (d) Substantial owner defined
+
+For purposes of subsection (b)(9), the term “substantial owner” means an individual who, at any time during the 60-month period ending on the date the determination is being made—
+
+&emsp;(1) owns the entire interest in an unincorporated trade or business,
+
+&emsp;(2) in the case of a partnership, is a partner who owns, directly or indirectly, more than 10 percent of either the capital interest or the profits interest in such partnership, or
+
+&emsp;(3) in the case of a corporation, owns, directly or indirectly, more than 10 percent in value of either the voting stock of that corporation or all the stock of that corporation.
+
+> For purposes of paragraph (3), the constructive ownership rules of section 1563(e) of title 26 (other than paragraph (3)(C) thereof) shall apply, including the application of such rules under section 414(c) of title 26.
+
+(Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451; Pub. L. 109–280, title IV, §407(c)(1), title IX, §906(a)(2)(B), (b)(2), Aug. 17, 2006, 120 Stat. 930, 1051, 1052.)
 
 #### References in Text
 
 The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
-Paragraph (6) of section 1322(b) of this title, referred to in subsec. (b)(9), was redesignated as par. (5) by Pub. L. 96–364, title IV, §403(c)(4), Sept. 26, 1980, 94 Stat. 1301.
-
 The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–280, §906(a)(2)(B), inserted “or which is described in the last sentence of section 1002(32) of this title” at end.
+
+Subsec. (b)(9). Pub. L. 109–280, §407(c)(1)(A), struck out “as defined in section 1322(b)(6) of this title” before semicolon at end.
+
+Subsec. (b)(14). Pub. L. 109–280, §906(b)(2), added par. (14).
+
+Subsec. (d). Pub. L. 109–280, §407(c)(1)(B), added subsec. (d).
 
 1989—Subsec. (a). Pub. L. 101–239, §7894(g)(3)(A), substituted “this subchapter applies” for “this section applies” in introductory provisions.
 
 Subsecs. (a)(1), (2), (b)(3), (4)(A), (8). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1980—Subsec. (a). Pub. L. 96–364 inserted “unless otherwise specifically indicated in this subchapter,” after “For this purpose,”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title IV, §407(d), Aug. 17, 2006, 120 Stat. 931, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1322, 1343, and 1344 of this title\] shall apply to plan terminations—
+
+&emsp;“(A) under section 4041(c) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1341(c)) with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act (29 U.S.C. 1341(a)(2)) after December 31, 2005, and
+
+&emsp;“(B) under section 4042 of such Act (29 U.S.C. 1342) with respect to which notices of determination are provided under such section after such date.
+
+“(2)
+
+Conforming amendments.—The amendments made by subsection (c) \[amending this section and section 1343 of this title\] shall take effect on January 1, 2006.”
+
+Amendment by section 906(a)(2)(B), (b)(2) of Pub. L. 109–280 applicable to any year beginning on or after Aug. 17, 2006, see section 906(c) of Pub. L. 109–280, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 
@@ -90,5 +128,7 @@ Amendment by section 7894(g)(3)(A) of Pub. L. 101–239 effective, except as oth
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. A semicolon probably should appear.</i>
 

@@ -52,7 +52,7 @@ Subsec. (k). Pub. L. 99–83, §313(c), added subsec. (k).
 
 1984—Subsec. (a). Pub. L. 98–473 substituted “$1,958,000,000” for “$1,718,000,000” and “1986” for “1984”.
 
-1981—Subsec. (a). Pub. L. 97–113 increased limitation on total principal amount of outstanding guarantees to$1,718,000,000 from $1,555,000,000 and extended termination date for exercise of guarantee authority to Sept. 30, 1984, from Sept. 30, 1982.
+1981—Subsec. (a). Pub. L. 97–113 increased limitation on total principal amount of outstanding guarantees to $1,718,000,000 from $1,555,000,000 and extended termination date for exercise of guarantee authority to Sept. 30, 1984, from Sept. 30, 1982.
 
 1979—Subsec. (a). Pub. L. 96–53 substituted “$1,555,000,000” for “$1,180,000,000”, and “through September 30, 1982” for “until September 30, 1980”.
 

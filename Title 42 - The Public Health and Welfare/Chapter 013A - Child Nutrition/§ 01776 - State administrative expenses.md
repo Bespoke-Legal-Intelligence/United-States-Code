@@ -62,7 +62,7 @@ Use of administrative funds.—Funds available to a State under this subsection 
 
 (8) In the fiscal year 1991 and each succeeding fiscal year, in accordance with regulations issued by the Secretary, each State shall ensure that the State agency administering the distribution of commodities under programs authorized under this chapter and under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] is provided, from funds made available to the State under this subsection, an appropriate amount of funds for administrative costs incurred in distributing such commodities. In developing such regulations, the Secretary may consider the value of commodities provided to the State under this chapter and under the Richard B. Russell National School Lunch Act.
 
-(9)(A) If the Secretary determines that the administration of any program by a State under this chapter (other than section 1786 of this title) or under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.)(including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act (42 U.S.C. 1766)), or compliance with a regulation issued pursuant to either this chapter or such Act, is seriously deficient, and the State fails to correct the deficiency within a specified period of time, the Secretary may withhold from the State some or all of the funds allocated to the State under this section or under section 13(k)(1) or 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1) or 1766).
+(9)(A) If the Secretary determines that the administration of any program by a State under this chapter (other than section 1786 of this title) or under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) (including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act (42 U.S.C. 1766)), or compliance with a regulation issued pursuant to either this chapter or such Act, is seriously deficient, and the State fails to correct the deficiency within a specified period of time, the Secretary may withhold from the State some or all of the funds allocated to the State under this section or under section 13(k)(1) or 17 of the Richard B.Russell National School Lunch Act (42 U.S.C. 1761(k)(1) or 1766).
 
 (B) On a subsequent determination by the Secretary that the administration of any program referred to in subparagraph (A), or compliance with the regulations issued to carry out the program, is no longer seriously deficient and is operated in an acceptable manner, the Secretary may allocate some or all of the funds withheld under such subparagraph.
 
@@ -96,7 +96,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 &emsp;&emsp;&emsp;(i) monitoring the nutrient content of meals served;
 
-&emsp;&emsp;&emsp;(ii) training local educational agencies, school food authorities, and schools in how to use technology and information management systems (including verifying eligibility for free or reduced price mealsusing program participation or income data gathered by State or local agencies); and
+&emsp;&emsp;&emsp;(ii) training local educational agencies, school food authorities, and schools in how to use technology and information management systems (including verifying eligibility for free or reduced price meals using program participation or income data gathered by State or local agencies); and
 
 &emsp;&emsp;&emsp;(iii) using electronic data to establish benchmarks to compare and monitor program integrity, program participation, and financial data.
 
@@ -132,7 +132,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;On October 1, 2004, and on each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until expended.
+&emsp;&emsp;On October 1, 2004, and on each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretaryof Agriculture to carry out this subsection $4,000,000, to remain available until expended.
 
 #### (B) Receipt and acceptance
 
@@ -182,7 +182,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry outthis paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
 #### (B) Infrastructure development plan
 
@@ -202,7 +202,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 2009, there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
 
-(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 105–336, title II, §202, Oct. 31, 1998, 112 Stat. 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §243(j), June 20, 2000, 114 Stat. 420; Pub. L. 108–265, title I, §126(c), title II, §202, June 30, 2004, 118 Stat. 765, 769.)
+(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 105–336, title II, §202, Oct. 31, 1998, 112 Stat. 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §243(j), June 20, 2000, 114 Stat. 420; Pub. L.108–265, title I, §126(c), title II, §202, June 30, 2004, 118 Stat. 765, 769.)
 
 #### References in Text
 
@@ -244,7 +244,7 @@ Subsec. (g). Pub. L. 105–336, §202(c), substituted “2003” for “1998”.
 
 1996—Subsec. (e). Pub. L. 104–193, §724(b), substituted “the initial fiscal year a plan” for “each year an annual plan” and inserted at end “After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.”
 
-Pub. L. 104–193, §724(a), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The State may use a portion of the funds availableunder this section to assist in the administration of the commodity distribution program.”
+Pub. L. 104–193, §724(a), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The State may use a portion of the funds available under this section to assist in the administration of the commodity distribution program.”
 
 Subsecs. (f), (g). Pub. L. 104–193, §724(a)(2), redesignated subsecs. (g) and (i) as (f) and (g), respectively. Former subsec. (f) redesignated (e).
 

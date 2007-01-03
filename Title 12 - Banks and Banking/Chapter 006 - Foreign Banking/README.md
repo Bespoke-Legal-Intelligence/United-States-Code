@@ -23,9 +23,6 @@
 | [613\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000613%20-%20Signing%20of%20articles%20of%20association%3B%20forwarding%20to%20and%20filing%20by%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System%3B%20organization%E2%80%A6.md) | Signing of articles of association; forwarding to and filing by Board of Governors of the Federal Reserve System; organization certificate; contents. |
 | [614\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000614%20-%20Organization%20certificate%3B%20acknowledgment%3B%20forwarding%20to%2C%20filing%2C%20and%20approval%20by%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System%3B%20permit%E2%80%A6.md) | Organization certificate; acknowledgment; forwarding to, filing, and approval by Board of Governors of the Federal Reserve System; permit to do business; body corporate; name; seal; corporate succession; contracts; suits; directors, officers, and employees; bylaws. |
 | [615\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000615%20-%20Powers%20of%20corporation.md) | Powers of corporation. |
-| (a) | Dealings in drafts, checks, bills of exchange, acceptances, and other evidences of indebtedness; purchase and sale of securities; letters of credit; purchase and sale of coin, bullion, and exchange; borrowing and loaning money; issue of debentures, bonds, and notes; deposits; limitation of liabilities; reserves. |
-| (b) | Branches or agencies. |
-| (c) | Purchase of stock in other corporations. |
 | [616\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000616%20-%20Place%20of%20carrying%20on%20business%3B%20when%20business%20may%20be%20begun.md) | Place of carrying on business; when business may be begun. |
 | [617\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000617%20-%20Engaging%20in%20commerce%20or%20trade%20in%20commodities%3B%20price%20fixing%3B%20forfeiture%20of%20charter%3B%20acts%20forbidden%20to%20directors%2C%20officers%2C%20agents%2C%20or%E2%80%A6.md) | Engaging in commerce or trade in commodities; price fixing; forfeiture of charter; acts forbidden to directors, officers, agents, or employees. |
 | [618\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000618%20-%20Capital%20stock%3B%20amount%3B%20when%20paid%20in.md) | Capital stock; amount; when paid in. |
@@ -44,8 +41,6 @@
 | [631\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000631%20-%20False%20representations%20as%20to%20liability%20of%20United%20States%20for%20acts%20of%20corporation%3B%20punishment.md) | False representations as to liability of United States for acts of corporation; punishment. |
 | [632\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000632%20-%20Jurisdiction%20of%20United%20States%20courts%3B%20disposition%20by%20banks%20of%20foreign%20owned%20property.md) | Jurisdiction of United States courts; disposition by banks of foreign owned property. |
 | [633\.](Subchapter%20002%20%28II%29%20-%20Organization%20of%20Corporations%20to%20Do%20Foreign%20Banking/%C2%A7%2000633%20-%20Potential%20liability%20on%20foreign%20accounts.md) | Potential liability on foreign accounts. |
-| (a) | Exceptions from repayment requirement. |
-| (b) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -12,7 +12,7 @@ Except as described in subsection (b) of this section, there are authorized to b
 
 #### (2) Higher appropriation years
 
-&emsp;For any fiscal year for which the amount appropriated under subsection (a) of this section is not less than $76,000,000, the Secretary shall reserve not less than $300,000 and not more than 1 percent of the amount appropriated under subsection (a) of this section to provide technical assistance to entities funded under this part.
+&emsp;For any fiscal year for which the amount appropriated under subsection (a) of this sectionis not less than $76,000,000, the Secretary shall reserve not less than $300,000 and not more than 1 percent of the amount appropriated under subsection (a) of this section to provide technical assistance to entities funded under this part.
 
 (Pub. L. 106–402, title I, §129, Oct. 30, 2000, 114 Stat. 1712.)
 

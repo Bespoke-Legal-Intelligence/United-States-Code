@@ -38,7 +38,7 @@ The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(2)(B), 
 
 #### Codification
 
-Section was enacted as part of the International Academic Opportunity Act of 2000, and also as part of the Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000, and not as part of the Mutual Educational and Cultural Exchange Act of 1961 which comprises this chapter.
+Section was enacted as part of the International Academic Opportunity Act of 2000, and also as part of theMicroenterprise for Self-Reliance and International Anti-Corruption Act of 2000, and not as part of the Mutual Educational and Cultural Exchange Act of 1961 which comprises this chapter.
 
 #### International Academic Opportunity
 

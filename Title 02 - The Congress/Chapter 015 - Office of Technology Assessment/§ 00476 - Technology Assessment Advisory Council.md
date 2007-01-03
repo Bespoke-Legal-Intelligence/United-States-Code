@@ -4,7 +4,7 @@
 
 The Office shall establish a Technology Assessment Advisory Council (hereinafter referred to as the “Council”). The Council shall be composed of the following twelve members:
 
-&emsp;(1) ten members from the public, to be appointed by the Board, who shall be personseminent in one or more fields of the physical, biological, or social sciences or engineering or experienced in the administration of technological activities, or who may be judged qualified on the basis of contributions made to educational or public activities;
+&emsp;(1) ten members from the public, to be appointed by the Board, who shall be persons eminent in one or more fields of the physical, biological, or social sciences or engineering or experienced in the administration of technological activities, or who may be judged qualified on the basis of contributions made to educational or public activities;
 
 &emsp;(2) the Comptroller General; and
 

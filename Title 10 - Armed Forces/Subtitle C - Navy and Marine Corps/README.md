@@ -59,6 +59,7 @@
 | [<b>602.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20602%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>6931</b> |
 | [<b>603.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20603%20-%20United%20States%20Naval%20Academy/README.md) | <b>United States Naval Academy</b> | <b>6951</b> |
 | [<b>605.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20605%20-%20United%20States%20Naval%20Postgraduate%20School/README.md) | <b>United States Naval Postgraduate School</b> | <b>7041</b> |
+| Chap. |  | Sec. |
 | [<b>607.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20607%20-%20Retirement%20of%20Civilian%20Members%20of%20the%20Teaching%20Staffs%20of%20the%20United%20States%20Naval%20Academy%20and%20United%20States%20Naval%20Postgraduate%20School/README.md) | <b>Retirement of Civilian Members of the Teaching Staffs of the United States Naval Academy and United States Naval Postgraduate School</b> | <b>7081</b> |
 | [<b>609.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20609%20-%20Professional%20Military%20Education%20Schools/README.md) | <b>Professional Military Education Schools</b> | <b>7101</b> |
 
@@ -68,24 +69,24 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>631.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20631%20-%20Secretary%20of%20the%20Navy%20Miscellaneous%20Powers%20and%20Duties/README.md) | <b>Secretary of the Navy: Miscellaneous Powers and Duties</b> | <b>7201</b> |
-| [<b>633.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20633%20-%20Naval%20Vessels/README.md) | <b>Naval Vessels</b> | <b>7291</b> |
+| [<b>631.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20631%20-%20Secretary%20of%20the%20Navy%20Miscellaneous%20Powers%20and%20Duties/README.md) | <b>Secretary of the Navy: Miscellaneous Powers and Duties</b> | <b>7201</b> |
+| [<b>633.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20633%20-%20Naval%20Vessels/README.md) | <b>Naval Vessels</b> | <b>7291</b> |
 | <b>\[635.</b> | <b>Repealed.\]</b> |  |
-| [<b>637.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20637%20-%20Salvage%20Facilities/README.md) | <b>Salvage Facilities</b> | <b>7361</b> |
-| [<b>639.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20639%20-%20United%20States%20Naval%20Observatory/README.md) | <b>United States Naval Observatory</b> | <b>7395</b> |
-| [<b>641.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20641%20-%20Naval%20Petroleum%20Reserves/README.md) | <b>Naval Petroleum Reserves</b> | <b>7420</b> |
-| [<b>643.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20643%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>7471</b> |
-| [<b>645.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20645%20-%20Procurement%20of%20Supplies%20and%20Services/README.md) | <b>Procurement of Supplies and Services</b> | <b>7521</b> |
-| [<b>647.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20647%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>7541</b> |
-| [<b>649.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20649%20-%20Quarters%2C%20Utilities%2C%20and%20Services/README.md) | <b>Quarters, Utilities, and Services</b> | <b>7571</b> |
-| [<b>651.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20651%20-%20Ships%E2%80%99%20Stores%20and%20Commissary%20Stores/README.md) | <b>Ships’ Stores and Commissary Stores</b> | <b>7601</b> |
-| [<b>653.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20653%20-%20Claims/README.md) | <b>Claims</b> | <b>7621</b> |
-| [<b>655.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20655%20-%20Prize/README.md) | <b>Prize</b> | <b>7651</b> |
-| [<b>657.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20657%20-%20Stay%20of%20Judicial%20Proceedings/README.md) | <b>Stay of Judicial Proceedings</b> | <b>7721</b> |
-| [<b>659.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20659%20-%20Naval%20Militia/README.md) | <b>Naval Militia</b> | <b>7851</b> |
-| [<b>661.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20661%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>7861</b> |
-| [<b>663.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20663%20-%20Names%20and%20Insignia/README.md) | <b>Names and Insignia</b> | <b>7881</b> |
-| [<b>665.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20665%20-%20National%20Oceanographic%20Partnership%20Program/README.md) | <b>National Oceanographic Partnership Program</b> | <b>7901</b> |
+| [<b>637.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20637%20-%20Salvage%20Facilities/README.md) | <b>Salvage Facilities</b> | <b>7361</b> |
+| <b>639.</b> | <b>United States Naval Observatory</b> | <b>7395</b> |
+| [<b>641.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20641%20-%20Naval%20Petroleum%20Reserves/README.md) | <b>Naval Petroleum Reserves</b> | <b>7420</b> |
+| [<b>643.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20643%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>7471</b> |
+| [<b>645.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20645%20-%20Procurement%20of%20Supplies%20and%20Services/README.md) | <b>Procurement of Supplies and Services</b> | <b>7521</b> |
+| [<b>647.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20647%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>7541</b> |
+| [<b>649.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20649%20-%20Quarters%2C%20Utilities%2C%20and%20Services/README.md) | <b>Quarters, Utilities, and Services</b> | <b>7571</b> |
+| [<b>651.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20651%20-%20Ships%E2%80%99%20Stores%20and%20Commissary%20Stores/README.md) | <b>Ships’ Stores and Commissary Stores</b> | <b>7601</b> |
+| [<b>653.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20653%20-%20Claims/README.md) | <b>Claims</b> | <b>7621</b> |
+| [<b>655.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20655%20-%20Prize/README.md) | <b>Prize</b> | <b>7651</b> |
+| [<b>657.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20657%20-%20Stay%20of%20Judicial%20Proceedings/README.md) | <b>Stay of Judicial Proceedings</b> | <b>7721</b> |
+| [<b>659.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20659%20-%20Naval%20Militia/README.md) | <b>Naval Militia</b> | <b>7851</b> |
+| [<b>661.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20661%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>7861</b> |
+| [<b>663.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20663%20-%20Names%20and%20Insignia/README.md) | <b>Names and Insignia</b> | <b>7881</b> |
+| [<b>665.</b>](Part%20003%20%28III%29%20-%20Education%20and%20Training/Chapter%20665%20-%20National%20Oceanographic%20Partnership%20Program/README.md) | <b>National Oceanographic Partnership Program</b> | <b>7901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -109,7 +110,7 @@
 
 1984—Pub. L. 98–525, title XIV, §1405(48), title XV, §1532(a)(2), Oct. 19, 1984, 98 Stat. 2625, 2631, substituted “Responsibility” for “responsibility” in item for chapter 661 and added item for chapter 663.
 
-1982—Pub. L. 97–295, §1(50)(G), Oct. 12, 1982, 96 Stat. 1300, substituted “United States Naval Observatory” for “United States Naval Oceanographic Office and Naval Observatory” in item for chapter 639.
+1982—Pub. L. 97–295, §1(50)(G), Oct. 12, 1982, 96 Stat. 1300, substituted “United States Naval Observatory”for “United States Naval Oceanographic Office and Naval Observatory” in item for chapter 639.
 
 Pub. L. 97–295, §1(51)(A), Oct. 12, 1982, 96 Stat. 1300, which directed substitution of “Responsibility” for “responsibility” in item for chapter 659, was executed to item for chapter 661 as the probable intent of Congress.
 
@@ -135,4 +136,3 @@ Pub. L. 97–258, §2(b)(12)(A), Sept. 13, 1982, 96 Stat. 1057, added item for c
 - [Part 001 (I) - Organization](Part%20001%20%28I%29%20-%20Organization/README.md)
 - [Part 002 (II) - Personnel](Part%20002%20%28II%29%20-%20Personnel/README.md)
 - [Part 003 (III) - Education and Training](Part%20003%20%28III%29%20-%20Education%20and%20Training/README.md)
-- [Part 004 (IV) - General Administration](Part%20004%20%28IV%29%20-%20General%20Administration/README.md)

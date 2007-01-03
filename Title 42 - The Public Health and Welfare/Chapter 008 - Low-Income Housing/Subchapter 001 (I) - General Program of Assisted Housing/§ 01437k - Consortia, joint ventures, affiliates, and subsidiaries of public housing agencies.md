@@ -50,7 +50,7 @@
 
 &emsp;The Comptroller General of the United States, the Secretary, or the Inspector General of the Department of Housing and Urban Development may conduct an audit of any activity undertaken under paragraph (1) at any time.
 
-(Sept. 1, 1937, ch. 896, title I, §13, as added Pub. L. 96–153, title II, §209, Dec. 21, 1979, 93 Stat. 1109; amended Pub. L. 96–399, title II, §202(b), Oct. 8, 1980, 94 Stat. 1629; renumbered title I, Pub. L.100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 105–276, title V, §515, Oct. 21, 1998, 112 Stat. 2549.)
+(Sept. 1, 1937, ch. 896, title I, §13, as added Pub. L. 96–153, title II, §209, Dec. 21, 1979, 93 Stat. 1109; amended Pub. L. 96–399, title II, §202(b), Oct. 8, 1980, 94 Stat. 1629; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 105–276, title V, §515, Oct. 21, 1998, 112 Stat. 2549.)
 
 #### Prior Provisions
 

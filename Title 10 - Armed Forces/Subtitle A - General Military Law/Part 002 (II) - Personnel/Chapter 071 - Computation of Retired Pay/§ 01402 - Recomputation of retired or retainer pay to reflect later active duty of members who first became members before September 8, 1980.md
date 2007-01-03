@@ -26,7 +26,7 @@
 
 > is entitled, upon his release from active duty, to retired pay under subsection (d).
 
-(d) A member of an armed force covered by subsection (b) or (c) may elect to receive either (1) the retired pay to which he became entitled when he retired, increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to thatpay, or (2) retired pay computed according to the following table.
+(d) A member of an armed force covered by subsection (b) or (c) may elect to receive either (1) the retired pay to which he became entitled when he retired, increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay, or (2) retired pay computed according to the following table.
 
 &nbsp;
 

@@ -2,7 +2,7 @@
 
 The Secretary of the Senate and the Clerk of the House of Representatives shall—
 
-&emsp;(1) provide guidance and assistance on the registration and reporting requirements ofthis chapter and develop common standards, rules, and procedures for compliance with this chapter;
+&emsp;(1) provide guidance and assistance on the registration and reporting requirements of this chapter and develop common standards, rules, and procedures for compliance with this chapter;
 
 &emsp;(2) review, and, where necessary, verify and inquire to ensure the accuracy, completeness, and timeliness of registration and reports;
 

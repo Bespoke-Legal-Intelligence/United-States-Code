@@ -10,53 +10,61 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 &emsp;&emsp;(B) to State or local public agencies responsible for administering, or supervising the administration of, the plan under this part, for projects for the demonstration of the utilization of research (including findings resulting therefrom) in the field of child welfare in order to encourage experimental and special types of welfare services; and
 
-&emsp;&emsp;(C) to public or other nonprofit institutions of higher learning for special projects for training personnel for work in the field of child welfare, including traineeships described in section 628a of this title with such stipends and allowances as may be permitted by the Secretary; and
+&emsp;&emsp;(C) to public or other nonprofit institutions of higher learning for special projects for training personnel for work in the field of child welfare, including traineeships described in section 628a <sup>1</sup> of this title with such stipends and allowances as may be permitted by the Secretary; and
 
 &emsp;(2) for contracts or jointly financed cooperative arrangements with States and public and other organizations and agencies for the conduct of research, special projects, or demonstration projects relating to such matters.
 
-#### (b) Appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization
+#### (b) Payments; advances or reimbursements; installments; conditions
 
-(1) There are authorized to be appropriated $4,000,000 for each of the fiscal years 1988, 1989, and 1990 for grants by the Secretary to public or private nonprofit entities submitting applications under this subsection for the purpose of conducting demonstration projects under this subsection to develop alternative care arrangements for infants who do not have health conditions that require hospitalization and who would otherwise remain in inappropriate hospital settings.
+Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
 
-(2) The demonstration projects conducted under this section may include—
+#### (c) Child welfare traineeships
 
-&emsp;(A) multidisciplinary projects designed to prevent the inappropriate hospitalization of infants and to allow infants described in paragraph (1) to remain with or return to a parent in a residential setting, where appropriate care for the infant and suitable treatment for the parent (including treatment for drug or alcohol addiction) may be assured, with the goal (where possible) of rehabilitating the parent and eliminating the need for such care for the infant;
+The Secretary may approve an application for a grant to a public or nonprofit institution for higher learning to provide traineeships with stipends under subsection (a)(1)(C) only if the application—
 
-&emsp;(B) multidisciplinary projects that assure appropriate, individualized care for such infants in a foster home or other non-medical residential setting in cases where such infant does not require hospitalization and would otherwise remain in inappropriate hospital settings, including projects to demonstrate methods to recruit, train, and retain foster care families; and
+&emsp;(1) provides assurances that each individual who receives a stipend with such traineeship (in this section referred to as a “recipient”) will enter into an agreement with the institution under which the recipient agrees—
 
-&emsp;(C) such other projects as the Secretary determines will best serve the interests of such infants and will serve as models for projects that agencies or organizations in other communities may wish to develop.
+&emsp;&emsp;(A) to participate in training at a public or private nonprofit child welfare agency on a regular basis (as determined by the Secretary) for the period of the traineeship;
 
-(3) In the case of any project which includes the use of funds authorized under this subsection for the care of infants in foster homes or other non-medical residential settings away from their parents, there shall be developed for each such infant a case plan of the type described in section 675(1) of this title (to the extent that such infant is not otherwise covered by such a plan), and each such project shall include a case review system of the type described in section 675(5) of this title (covering each such infant who is not otherwise subject to such a system).
+&emsp;&emsp;(B) to be employed for a period of years equivalent to the period of the traineeship, in a public or private nonprofit child welfare agency in any State, within a period of time (determined by the Secretary in accordance with regulations) after completing the postsecondary education for which the traineeship was awarded;
 
-(4) In evaluating applications from entities proposing to conduct demonstration projects under this subsection, the Secretary shall give priority to those projects that serve areas most in need of alternative care arrangements for infants described in paragraph (1).
+&emsp;&emsp;(C) to furnish to the institution and the Secretary evidence of compliance with subparagraphs (A) and (B); and
 
-(5) No project may be funded unless the application therefor contains assurances that it will—
+&emsp;&emsp;(D) if the recipient fails to comply with subparagraph (A) or (B) and does not qualify for any exception to this subparagraph which the Secretary may prescribe in regulations, to repay to the Secretary all (or an appropriately prorated part) of the amount of the stipend, plus interest, and, if applicable, reasonable collection fees (in accordance with regulations promulgated by the Secretary);
 
-&emsp;(A) provide for adequate evaluation;
+&emsp;(2) provides assurances that the institution will—
 
-&emsp;(B) provide for coordination with local governments;
+&emsp;&emsp;(A) enter into agreements with child welfare agencies for onsite training of recipients;
 
-&emsp;(C) provide for community education regarding the inappropriate hospitalization of infants;
+&emsp;&emsp;(B) permit an individual who is employed in the field of child welfare services to apply for a traineeship with a stipend if the traineeship furthers the progress of the individual toward the completion of degree requirements; and
 
-&emsp;(D) use, to the extent practical, other available private, local, State, and Federal sources for the provision of direct services; and
+&emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
 
-&emsp;(E) meet such other criteria as the Secretary may prescribe.
+(Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457; Pub. L. 109–288, §§6(f)(2), 11(b), Sept. 28, 2006, 120 Stat. 1247, 1255.)
 
-(6) Grants may be used to pay the costs of maintenance and of necessary medical and social services (to the extent that these costs are not otherwise paid for under other subchapters of this chapter), and for such other purposes as the Secretary may allow.
+#### References in Text
 
-(7) The Secretary shall provide training and technical assistance to grantees, as requested.
+Section 628a of this title, referred to in subsec. (a)(1)(C), was transferred and redesignated as subsec. (c) of this section by Pub. L. 109–288, §6(f)(2), Sept. 28, 2006, 120 Stat. 1247.
 
-#### (c) Payments; advances or reimbursements; installments; conditions
+#### Codification
 
-Payments of grants or under contracts or cooperative arrangements under this section maybe made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
-
-(Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457.)
+Section 628a of this title, which was transferred and redesignated as subsec. (c) of this section by Pub. L. 109–288, was based on act Aug. 14, 1935, ch. 531, title IV, §429, as added Pub. L. 103–432, title II, §205(a), Oct. 31, 1994, 108 Stat. 4456.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b)which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
+
+Subsec. (c). Pub. L. 109–288, §6(f)(2), amended section as amended by Pub. L. 109–288, §11(b), by transferring section 628a of this title and redesignating it as subsec. (c) of this section. See Codification note above.
+
+Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b).
 
 1994—Subsec. (a)(1)(C). Pub. L. 103–432 inserted “described in section 628a of this title” after “including traineeships”.
 
 1987—Subsecs. (b), (c). Pub. L. 100–203 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -65,4 +73,6 @@ Section 205(c) of Pub. L. 103–432 provided that: “The amendments made by thi
 #### Appropriations or Grants
 
 Section 240(g) of Pub. L. 90–248 provided that any appropriations or grants made pursuant to section 726 of this title, as in effect prior to Jan. 2, 1968, were to be deemed to have been appropriated or made under this section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

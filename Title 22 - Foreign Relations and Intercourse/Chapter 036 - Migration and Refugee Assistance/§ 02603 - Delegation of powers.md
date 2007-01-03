@@ -6,7 +6,7 @@ The President is authorized to designate the head of any department or agency of
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Ex. Ord. No. 11077. Administration of Chapter
 
@@ -48,7 +48,7 @@ Sec. 3. <i>Waivers</i>. (a) In accordance with Section 3(b) of the Act \[section
 
 (7) Sections 302–305 of the Federal Property and Administrative Services Act of 1949 (June 30, 1949, c. 288, 63 Stat. 393 et seq.), as amended (41 U.S.C. 252–255) (competitive bids; negotiated contracts; advances).
 
-(8) Section 901(a) of the Merchant Marine Act, 1936 (June 29, 1936, c. 858, 49 Stat. 2015, as amended; 46 U.S.C. 1241(a) (official travel overseas of United States officers and employees, and transportation of their personal effects, on ships registered under the laws of the United States.
+(8) Section 901(a) of the Merchant Marine Act, 1936 (June 29, 1936, c. 858, 49 Stat. 2015, as amended; 46 U.S.C. \[App.\] 1241(a)\[)\] \[now 46 U.S.C. 55302\] (official travel overseas of United States officers and employees, and transportation of their personal effects, on ships registered under the laws of the United States\[)\].
 
 (b) It is directed (1) that all waivers of statutes and limitations of authority effected by the foregoing provisions of this section shall be utilized in a prudent manner and as sparingly as may be practical, and (2) that suitable steps shall be taken by the administrative agencies concerned to insure that result, including, as may be appropriate, the imposition of administrative limitations in lieu of waived statutory requirements and limitations of authority.
 

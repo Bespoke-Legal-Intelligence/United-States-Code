@@ -6,7 +6,7 @@ The Attorney General may appoint a Director of the Federal Bureau of Investigati
 
 #### Historical and Revision Notes
 
-The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a “Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation”. The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since that date. The title of “Director of the Federal Bureau of Investigation” was recognized by statute in the Act ofJune 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
+The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a “Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation”. The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since that date. The title of “Director of the Federal Bureau of Investigation” was recognized by statute in the Act of June 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
 
 #### Improvement of Intelligence Capabilities; Directorate of Intelligence; Intelligence Career Service
 
@@ -88,7 +88,7 @@ Reports.—(1) Not later than 180 days after the date of the enactment of this A
 
 “(a)
 
-Directorate of Intelligence of Federal Bureau of Investigation.—The element of the Federal Bureau of Investigation known as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
+Directorate of Intelligence of Federal Bureau of Investigation.—The element of the FederalBureau of Investigation known as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
 
 “(b)
 
@@ -218,7 +218,7 @@ Availability of Funds.—Any payment made by the Director of the Federal Bureau 
 
 Pub. L. 90–351, title VI, §1101, June 19, 1968, 82 Stat. 236, as amended by Pub. L. 94–503, title II, §203, Oct. 15, 1976, 90 Stat. 2427, provided that:
 
-“(a) Effective as of the day following the date on which the present incumbent in the office of Director ceases to serve as such, the Director of the Federal Bureau of Investigation shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed for level II of the Federal Executive Salary Schedule\[section 5313 of Title 5, Government Organization and Employees\].
+“(a) Effective as of the day following the date on which the present incumbent in the office of Director ceases to serve as such, the Director of the Federal Bureau of Investigation shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed for level II of the Federal Executive Salary Schedule \[section 5313 of Title 5, Government Organization and Employees\].
 
 “(b) Effective with respect to any individual appointment by the President, by and with the advice and consent of the Senate, after June 1, 1973, the term of service of the Director of the Federal Bureau of Investigation shall be ten years. A Director may not serve more than one ten-year term. The provisions of subsections (a) through (c) of section 8335 of title 5, United States Code, shall apply to any individual appointed under this section.”
 

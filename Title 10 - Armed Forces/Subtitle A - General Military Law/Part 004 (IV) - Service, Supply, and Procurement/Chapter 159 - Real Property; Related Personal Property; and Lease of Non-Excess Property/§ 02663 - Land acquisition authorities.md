@@ -2,7 +2,7 @@
 
 (a)
 
-Acquisition of Land by Condemnation for Certain Military Purposes.—(1) The Secretary of a military department may have proceedings brought in the name of the United States, in a court of proper jurisdiction, to acquire by condemnation any interest in land, including temporary use, needed for—
+Acquisition of Land by Condemnation for Certain Military Purposes.—(1) Subject to subsection (f), the Secretary of a military department may have proceedings brought in the name of the United States, in a court of proper jurisdiction, to acquire by condemnation any interest in land, including temporary use, needed for—
 
 &emsp;(A) the site, construction, or operation of fortifications, coast defenses, or military training camps;
 
@@ -56,7 +56,27 @@ Survey Authority; Acquisition Methods.—Authority provided the Secretary of a m
 
 &emsp;(2) to acquire the interest in real property by gift, purchase, exchange of real property owned by the United States, or otherwise.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511.)
+(f)
+
+Advance Notice of Use of Condemnation.—(1) Before commencing any legal proceeding to acquire any interest in land under subsection (a), including acquisition for temporary use, by condemnation, eminent domain, or seizure, the Secretary of the military department concerned shall—
+
+&emsp;(A) pursue, to the maximum extent practicable, all other available options for the acquisition or use of the land, such as the purchase of an easement or the execution of a land exchange; and
+
+&emsp;(B) submit to the congressional defense committees a report containing—
+
+&emsp;&emsp;(i) a description of the land to be acquired;
+
+&emsp;&emsp;(ii) a certification that negotiations with the owner or owners of the land occurred, and that the Secretary tendered consideration in an amount equal to the fair market value of the land, as determined by the Secretary; and
+
+&emsp;&emsp;(iii) an explanation of the other approaches considered for acquiring use of the land, the reasons for the acquisition of the land, and the reasons why alternative acquisition strategies are inadequate.
+
+(2) The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+
+(g)
+
+Exception to Advance Notice Requirement.—If the Secretary of a military department determines that the use of condemnation, eminent domain, or seizure to acquire an interest in land is required under subsection (a) to satisfy a requirement vital to national security, and that any delay would be detrimental to national security or the protection of health, safety, or the environment, the Secretary may have proceedings brought in the name of the United States to acquire the land in advance of submitting the report required by subsection (f)(1)(B). However, the Secretary shall submit the report not later than seven days after commencement of the legal proceedings with respect to the land.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474.)
 
 Historical and Revision Notes<br>1956
 
@@ -120,11 +140,13 @@ Subsec. (a). Pub. L. 109–163, §2821(a)(1)(B), (C), inserted “
 
 Acquisition of Land by Condemnation for Certain Military Purposes.—(1)” before “The Secretary” in introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), in subpar. (C), substituted “subparagraph (B)” for “clause (2)”, redesignated subsec. (b) as par. (2) and substituted “paragraph (1)” for “subsection (a)”.
 
+Subsec. (a)(1). Pub. L. 109–364, §2821(b)(1), substituted “Subject to subsection (f), the Secretary” for “The Secretary” in introductory provisions. Amendment was executed as the probable intent of Congress, notwithstanding words missing from the directory language.
+
 Subsec. (b). Pub. L. 109–163, §2821(a)(1)(D), redesignated subsec. (c) as (b) and inserted heading.
 
 Pub. L. 109–163, §2821(a)(1)(C), redesignated subsec. (b) as subsec. (a)(2).
 
-Subsec. (c). Pub. L. 109–163, §2821(a)(2)–(5), redesignated pars. (1) and (2) of subsec. (a) and subsecs. (b) and (d) of section 2672 of this title as pars. (1), (2), (3), and (4), respectively, of subsec. (c) of this section, inserted subsec. heading, in par. (3), substituted “This subsection” for “This section”, “paragraph (1)” for “subsection (a)(1)”, and “paragraph (2)” for “subsection (a)(2)”, in par. (4), substituted “this subsection” for“this section”, and struck out headings for former subsecs. (a), (b), and (d) of section 2672.
+Subsec. (c). Pub. L. 109–163, §2821(a)(2)–(5), redesignated pars. (1) and (2) of subsec. (a) and subsecs. (b) and (d) of section 2672 of this title as pars. (1), (2), (3), and (4), respectively, of subsec. (c) of this section, inserted subsec. heading, in par. (3), substituted “This subsection” for “This section”, “paragraph (1)” for “subsection (a)(1)”, and “paragraph (2)” for “subsection (a)(2)”, in par. (4), substituted “this subsection” for “this section”, and struck out headings for former subsecs. (a), (b), and (d) of section 2672.
 
 Pub. L. 109–163, §2821(a)(1)(D), redesignated subsec. (c) as (b).
 
@@ -134,9 +156,19 @@ Pub. L. 109–163, §2821(a)(1)(E), struck out subsec. (d) which read as follows
 
 Subsec. (e). Pub. L. 109–163, §2821(a)(10), (11), redesignated subsec. (b) of section 2676 of this title as subsec. (e) of this section and inserted heading.
 
+Subsecs. (f), (g). Pub. L. 109–364, §2821(b)(2), added subsecs. (f) and (g).
+
 1958—Subsec. (a). Pub. L. 85–861 struck out provisions requiring proceedings under this subsection to be in accordance with the law of the State in which the suit is brought.
 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
+
+#### Sense of Congress
+
+Pub. L. 109–364, div. B, title XXVIII, §2821(a), Oct. 17, 2006, 120 Stat. 2473, provided that: “It is the sense of Congress that the Secretary of Defense, when acquiring land for military purposes, should—
+
+&emsp;“(1) make every effort to acquire the land by means of purchases from willing sellers; and
+
+&emsp;“(2) employ condemnation, eminent domain, or seizure procedures only as a measure of last resort in cases of compelling national security requirements or at the request of the seller.”
 

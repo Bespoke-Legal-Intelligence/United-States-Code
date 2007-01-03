@@ -24,9 +24,11 @@
 
 &emsp;(F) studies of the life history parameters of Atlantic bluefin tuna and other highly migratory species;
 
-&emsp;(G) integration of data from all sources and the preparation of data bases to support management decisions; and
+&emsp;(G) integration of data from all sources and the preparation of data bases to support management decisions;
 
-&emsp;(H) other research as necessary.
+&emsp;(H) include a cooperative research program on Atlantic billfish based on the Southeast Fisheries Science Center Atlantic Billfish Research Plan of 2002; and
+
+&emsp;(I) other research as necessary.
 
 (3) In developing a program under this section, the Secretary shall—
 
@@ -38,7 +40,7 @@
 
 &emsp;(D) through the Secretary of State, encourage other member nations to adopt a similar program.
 
-(Pub. L. 96–339, §3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, §302(b), Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, §202(b)(2), Nov. 13, 1998, 112 Stat. 3453.)
+(Pub. L. 96–339, §3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, §302(b), Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, §202(b)(2), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 109–479, title IV, §405(b), Jan. 12, 2007, 120 Stat. 3633.)
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Subsection (a), which required the Secretary of Commerce to prepare and submit t
 Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (b)(2)(H), (I). Pub. L. 109–479 added subpar. (H) and redesignated former subpar. (H) as (I).
 
 1998—Subsec. (b)(3)(B). Pub. L. 105–384 inserted “of 1975” after “Act”.
 

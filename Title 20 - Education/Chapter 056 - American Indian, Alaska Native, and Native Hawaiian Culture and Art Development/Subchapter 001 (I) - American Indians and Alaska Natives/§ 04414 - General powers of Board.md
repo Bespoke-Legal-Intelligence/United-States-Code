@@ -18,7 +18,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(7) to use the United States mails on the same terms and conditions as the executive departments of the United States Government;
 
-&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions ofsection 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
+&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
 &emsp;(9) to solicit, accept, and dispose of gifts, bequests, devises of money, securities, and other properties of whatever character, for the benefit of the Institute;
 
@@ -62,7 +62,7 @@ Subsec. (14). Pub. L. 102–325, §1331(b)(1)(A), redesignated par. (13) as (14)
 
 Subsec. (c). Pub. L. 102–325, §1331(b)(2), substituted “shall be expended” for “may be expended”.
 
-1990—Subsec. (a)(11). Pub. L. 101–644, §501(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “to obtain insurance or make other provisions against losses;”.
+1990—Subsec. (a)(11). Pub. L. 101–644, §501(b), amended par. (11) generally. Prior to amendment, par. (11) readas follows: “to obtain insurance or make other provisions against losses;”.
 
 Subsec. (c). Pub. L. 101–644, §501(a), added subsec. (c).
 

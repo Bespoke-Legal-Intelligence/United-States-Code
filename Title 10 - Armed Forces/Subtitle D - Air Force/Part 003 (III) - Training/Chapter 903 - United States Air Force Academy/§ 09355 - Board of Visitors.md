@@ -10,13 +10,13 @@
 
 &emsp;(4) The chairman of the Committee on Armed Services of the Senate, or his designee.
 
-&emsp;(5) Three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
+&emsp;(5) Three other members of the Senate designated by the Vice President or the Presidentpro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
 
 (b)(1) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
 
 (2) At least two of the members designated by the President shall be graduates of the Academy.
 
-(c)(1) If a member of the Board dies or resigns or is terminated as a member of the board <sup>1</sup> under paragraph (2), a successor shall be designated for the unexpired portion of the term by the official who designated the member.
+(c)(1) If a member of the Board dies or resigns or is terminated as a member of the Board under paragraph (2), a successor shall be designated for the unexpired portion of the term by the official who designated the member.
 
 (2)(A) If a member of the Board fails to attend two successive Board meetings, except in a case in which an absence is approved in advance, for good cause, by the Board chairman, such failure shall be grounds for termination from membership on the Board. A person designated for membership on the Board shall be provided notice of the provisions of this paragraph at the time of such designation.
 
@@ -42,7 +42,7 @@
 
 (h) While performing duties as a member of the Board, each member of the Board and each adviser shall be reimbursed under Government travel regulations for travel expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Pub. L. 96–579, §13(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title V, §543, Oct. 28, 2004, 118 Stat. 1904.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Pub. L. 96–579, §13(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title V, §543, Oct. 28, 2004, 118 Stat. 1904; Pub. L. 109–364, div. A, title X, §1071(a)(39), Oct. 17, 2006, 120 Stat. 2400.)
 
 Historical and Revision Notes
 
@@ -102,6 +102,8 @@ In subsection (h), the words “called for consultation by the Board in connecti
 
 #### Amendments
 
+2006—Subsec. (c)(1). Pub. L. 109–364 substituted “Board under paragraph (2)” for “board under paragraph (2)”.
+
 2004—Pub. L. 108–375 amended section generally. Prior to amendment, section contained provisions relating to membership of Board of Visitors in subsec. (a), term of office in subsec. (b), designation of successor in subsec. (c), frequency of Academy visits in subsec. (d), scope of Board inquiries in subsec. (e), submission of reports in subsec. (f), calling in of advisers in subsec. (g), and reimbursement for travel in subsec. (h).
 
 1999—Subsec. (a)(3). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
@@ -111,6 +113,4 @@ In subsection (h), the words “called for consultation by the Board in connecti
 Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

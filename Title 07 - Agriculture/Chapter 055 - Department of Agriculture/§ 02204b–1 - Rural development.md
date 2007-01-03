@@ -34,7 +34,7 @@ Subsec. (f). Pub. L. 96–355 struck out subsec. (f) which required report to Co
 
 Subsec. (d). Pub. L. 94–273 substituted “December 1 of” for “September 1 of”.
 
-1972—Subsec. (b). Pub. L. 92–419 struck out “insofar as practicable,” after “maintain” and substituted “policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception insection 1926(a)(7) of this title”, for “policies and procedures with respect to the location of new offices and other facilities in areas or communities of lower population density in preference to areas or communities of high population densities”.
+1972—Subsec. (b). Pub. L. 92–419 struck out “insofar as practicable,” after “maintain” and substituted “policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) of this title”, for “policies and procedures with respect to the location of new offices and other facilities in areas or communities of lower population density in preference to areas or communities of high population densities”.
 
 #### Effective Date of 1980 Amendment
 

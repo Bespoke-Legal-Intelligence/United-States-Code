@@ -78,7 +78,7 @@ In General.—Subject to approval by the President, the Secretary of Defense may
 
 “(b)
 
-Requirement of Potential Military Relationship.—Funds appropriated to the Department of Defense may not be used to finance any research project or study unless the project or study has, in the opinionof the Secretary of Defense, a potential relationship to a military function or operation.”
+Requirement of Potential Military Relationship.—Funds appropriated to the Department of Defense may not be used to finance any research project or study unless the project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation.”
 
 1988—Pub. L. 100–370 designated existing provisions as subsec. (a), inserted heading, struck out “or his designee” after “Secretary of Defense” and “President, the Secretary”, and added subsec. (b).
 
@@ -87,6 +87,98 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Hypersonics Development
+
+Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, provided that:
+
+“(a)
+
+Establishment of Joint Technology Office on Hypersonics.—The Secretary of Defense shall establish within the Office of the Secretary of Defense a joint technology office on hypersonics. The office shall carry out the program required under subsection (b), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
+
+“(b)
+
+Program on Hypersonics.—The joint technology office established under subsection (a) shall carry out a program for the development of hypersonics for defense purposes.
+
+“(c)
+
+Responsibilities.—In carrying out the program required by subsection (b), the joint technology office established under subsection (a) shall do the following:
+
+&emsp;“(1) Coordinate and integrate current and future research, development, test, and evaluation programs and system demonstration programs of the Department of Defense on hypersonics.
+
+&emsp;“(2) Undertake appropriate actions to ensure—
+
+&emsp;&emsp;“(A) close and continuous integration of the programs on hypersonics of the military departments with the programs on hypersonics of the Defense Agencies;
+
+&emsp;&emsp;“(B) coordination of the programs referred to in subparagraph (A) with the programs on hypersonics of the National Aeronautics and Space Administration; and
+
+&emsp;&emsp;“(C) that developmental testing resources are adequate and facilities are made available in a timely manner to support hypersonics research, demonstration programs, and system development.
+
+&emsp;“(3) Approve demonstration programs on hypersonic systems.
+
+&emsp;“(4) Ensure that any demonstration program on hypersonic systems that is carried out in any year after its approval under paragraph (3) is carried out only if certified under subsection (e) as being consistent with the roadmap under subsection (d).
+
+“(d)
+
+Roadmap.—
+
+&emsp;“(1)
+
+Roadmap required.—The joint technology office established under subsection (a) shall develop, and every two years revise, a roadmap for the hypersonics programs of the Department of Defense.
+
+&emsp;“(2)
+
+Coordination.—The roadmap shall be developed and revised under paragraph (1) in coordination with the Joint Staff and in consultation with the National Aeronautics and Space Administration.
+
+&emsp;“(3)
+
+Elements.—The roadmap shall include the following matters:
+
+&emsp;&emsp;“(A) Anticipated or potential mission requirements for hypersonics.
+
+&emsp;&emsp;“(B) Short-term, mid-term, and long-term goals for the Department of Defense on hypersonics, which shall be consistent with the missions and anticipated requirements of the Department over the applicable period.
+
+&emsp;&emsp;“(C) A schedule for meeting such goals, including—
+
+&emsp;&emsp;&emsp;“(i) the activities and funding anticipated to be required for meeting such goals; and
+
+&emsp;&emsp;&emsp;“(ii) the activities of the National Aeronautics and Space Administration to be leveraged by the Department to meet such goals.
+
+&emsp;&emsp;“(D) The test and evaluation facilities required to support the activities identified in subparagraph (C), along with the schedule and funding required to upgrade those facilities, as necessary.
+
+&emsp;&emsp;“(E) Acquisition transition plans for hypersonics.
+
+&emsp;“(4)
+
+Submittal to congress.—The Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]—
+
+&emsp;&emsp;“(A) at the same time as the submittal to Congress of the budget for fiscal year 2008 (as submitted pursuant to section 1105 of title 31, United States Code), the roadmap developed under paragraph (1); and
+
+&emsp;&emsp;“(B) at the same time as the submittal to Congress of the budget for each even-numbered fiscal year after 2008, the roadmap revised under paragraph (1).
+
+“(e)
+
+Annual Review and Certification of Funding.—
+
+&emsp;“(1)
+
+Annual review.—The joint technology office established under subsection (a) shall conduct on an annual basis a review of—
+
+&emsp;&emsp;“(A) the funding available for research, development, test, and evaluation and demonstration programs within the Department of Defense for hypersonics, in order to determine whether or not such funding is consistent with the roadmap developed under subsection (d); and
+
+&emsp;&emsp;“(B) the hypersonics demonstration programs of the Department, in order to determine whether or not such programs avoid duplication of effort and support the goals of the Department in a manner consistent with the roadmap developed under subsection (d).
+
+&emsp;“(2)
+
+Certification.—The joint technology office shall, as a result of each review under paragraph (1), certify to the Secretary whether or not the funding and programs subject to such review are consistent with the roadmap developed under subsection (d).
+
+&emsp;“(3)
+
+Termination.—The requirements of this subsection shall terminate after the submittal to Congress of the budget for fiscal year 2012 pursuant to section 1105 of title 31, United States Code.
+
+“(f)
+
+Reports to Congress.—If, as a result of a review under subsection (e), funding or a program on hypersonics is certified under that subsection not to be consistent with the roadmap developed under subsection (d), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], at the same time as the submittal to Congress of the budget (as submitted pursuant to section 1105 of title 31, United States Code), a report on such funding or program, as the case may be, describing how such funding or program is not consistent with the roadmap, together with a statement of the actions to be taken by the Department.”
 
 #### Collaborative Program for Research and Development of Vacuum Electronics Technologies
 
@@ -376,7 +468,7 @@ Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as ame
 
 “(a)
 
-Annual Report.—Not later than April 1 of each year, the Secretary of Defense, the Secretary of Energy, and the Director of Central Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of theHouse of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons to defeat hardened and deeply buried targets.
+Annual Report.—Not later than April 1 of each year, the Secretary of Defense, the Secretary of Energy, and the Director of Central Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons to defeat hardened and deeply buried targets.
 
 “(b)
 
@@ -470,9 +562,9 @@ Reports.—(1) Not later than January 1, 2003, the Secretary shall submit to Con
 
 “(d)
 
-Extension of Authority for Other Revitalization Pilot Programs.—(1) \[Amended section 246(a)(4) of Pub. L. 105–261, set out as a note below.\]
+Extension of Authority for Other Revitalization Pilot Programs.—(1) \[Amended section 246(a)(4) of Pub. L. 105–261, formerly set out as a note below.\]
 
-“(2) \[Amended section 245(a)(4) of Pub. L. 106–65, set out as a note below.\]
+“(2) \[Amended section 245(a)(4) of Pub. L. 106–65, formerly set out as a note below.\]
 
 “(e)
 
@@ -492,95 +584,19 @@ and 2000
 
 Revitalization Pilot Programs Defined.—In this section, the term ‘fiscal years 1999 and 2000 revitalization pilot programs’ means—
 
-&emsp;“(1) the pilot programs authorized by section 246 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1955; 10 U.S.C. 2358 note); and
+&emsp;“(1) the pilot programs authorized by section 246 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1955; \[former\] 10 U.S.C. 2358 note); and
 
-&emsp;“(2) the pilot programs authorized by section 245 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 552; 10 U.S.C. 2358 note).”
+&emsp;“(2) the pilot programs authorized by section 245 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 552; \[former\] 10 U.S.C. 2358 note).”
 
-Pub. L. 106–65, div. A, title II, §245, Oct. 5, 1999, 113 Stat. 552, as amended by Pub. L. 107–314, div. A, title II, §241(d)(2), Dec. 2, 2002, 116 Stat. 2493, provided that:
+Pub. L. 106–65, div. A, title II, §245, Oct. 5, 1999, 113 Stat. 552, as amended by Pub. L. 107–314, div. A, title II, §241(d)(2), Dec. 2, 2002, 116 Stat. 2493, authorized the Secretary of Defense to carry out a pilot program for up to five years beginning not later than Mar. 1, 2000, to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense, and directed the Secretary to submit to Congress a report on the implementation of the program not later than Mar. 1, 2000, and a final report promptly after the expiration of the period for participation in the program.
 
-“(a)
-
-Authority.—(1) The Secretary of Defense may carry out a pilot program to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense. The pilot program under this section is in addition to, but may be carried out in conjunction with, the pilot program authorized by section 246 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1955; 10 U.S.C. 2358 note).
-
-“(2) Under the pilot program, the Secretary of Defense shall provide the director of one science and technology laboratory, and the director of one test and evaluation laboratory, of each military department with authority for the following:
-
-&emsp;“(A) To ensure that the laboratories selected can attract a workforce appropriately balanced between permanent and temporary personnel and among workers with an appropriate level of skills and experience and that those laboratories can effectively compete in hiring to obtain the finest scientific talent.
-
-&emsp;“(B) To develop or expand innovative methods of operation that provide more defense research for each dollar of cost, including carrying out initiatives such as focusing on the performance of core functions and adopting more business-like practices.
-
-&emsp;“(C) To waive any restrictions not required by law that apply to the demonstration and implementation of methods for achieving the objectives set forth in subparagraphs (A) and (B).
-
-“(3) In selecting the laboratories for participation in the pilot program, the Secretary shall consider laboratories where innovative management techniques have been demonstrated, particularly as documented under sections 1115 through 1119 of title 31, United States Code, relating to Government agency performance and results.
-
-“(4) The Secretary may carry out the pilot program at each selected laboratory for up to five years beginning not later than March 1, 2000.
-
-“(b)
-
-Reports.—(1) Not later than March 1, 2000, the Secretary of Defense shall submit to Congress a report on the implementation of the pilot program. The report shall include the following:
-
-&emsp;“(A) Each laboratory selected for the pilot program.
-
-&emsp;“(B) To the extent possible, a description of the innovative concepts that are to be tested at each laboratory.
-
-&emsp;“(C) The criteria to be used for measuring the success of each concept to be tested.
-
-“(2) Promptly after the expiration of the period for participation of a laboratory in the pilot program, the Secretary of Defense shall submit to Congress a final report on the participation of that laboratory in the pilot program. The report shall include the following:
-
-&emsp;“(A) A description of the concepts tested.
-
-&emsp;“(B) The results of the testing.
-
-&emsp;“(C) The lessons learned.
-
-&emsp;“(D) Any proposal for legislation that the Secretary recommends on the basis of the experience at that laboratory under the pilot program.”
-
-Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as amended by Pub. L. 107–314, div. A, title II, §241(d)(1), Dec. 2, 2002, 116 Stat. 2493, provided that:
-
-“(a)
-
-Pilot Program.—(1) The Secretary of Defense may carry out a pilot program to demonstrate improved cooperative relationships with universities and other private sector entities for the performance of research and development functions.
-
-“(2) Under the pilot program, the Secretary of Defense shall provide the director of one science and technology laboratory, and the director of one test and evaluation center, of each military department with authority for the following:
-
-&emsp;“(A) To explore innovative methods for quickly, efficiently, and fairly entering into cooperative relationships with universities and other private sector entities with respect to the performance of research and development functions.
-
-&emsp;“(B) To waive any restrictions on the demonstration and implementation of such methods that are not required by law.
-
-&emsp;“(C) To develop or expand innovative methods of operation that provide more defense research for each dollar of cost, including to carry out such initiatives as focusing on the performance of core functions and adopting more business-like practices.
-
-“(3) In selecting the laboratories and centers for participation in the pilot program, the Secretary shall consider laboratories and centers where innovative management techniques have been demonstrated, particularly as documented under sections 1115 through 1119 of title 31, United States Code, relating to Government agency performance and results.
-
-“(4) The Secretary may carry out the pilot program at each selected laboratory and center for up to six years beginning not later than March 1, 1999.
-
-“(b)
-
-Reports.—(1) Not later than March 1, 1999, the Secretary of Defense shall submit a report on the implementation of the pilot program to Congress. The report shall include the following:
-
-&emsp;“(A) Each laboratory and center selected for the pilot program.
-
-&emsp;“(B) To the extent possible, a description of the innovative concepts that are to be tested at each laboratory or center.
-
-&emsp;“(C) The criteria to be used for measuring the success of each concept to be tested.
-
-“(2) Promptly after the expiration of the period for participation of a laboratory or center in the pilot program, the Secretary of Defense shall submit to Congress a final report on the participation of the laboratory or center in the pilot program. The report shall contain the following:
-
-&emsp;“(A) A description of the concepts tested.
-
-&emsp;“(B) The results of the testing.
-
-&emsp;“(C) The lessons learned.
-
-&emsp;“(D) Any proposal for legislation that the Secretary recommends on the basis of the experience at the laboratory or center under the pilot program.
-
-“(c)
-
-Commendation.—Congress commends the Secretary of Defense for the progress made by the science and technology laboratories and test and evaluation centers of the Department of Defense and encourages the Secretary to take the actions necessary to ensure continued progress for the laboratories and test and evaluation centers in developing cooperative relationships with universities and other private sector entities for the performance of research and development functions.”
+Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as amended by Pub. L. 107–314, div. A, title II, §241(d)(1), Dec. 2, 2002, 116 Stat. 2493, authorized the Secretary of Defense to carry out a pilot program for up to six years beginning not later than Mar. 1, 1999, to demonstrate improved cooperative relationships with universities and other private sector entities for the performance of research and development functions, and directed the Secretary to submit a report on the implementation of the program to Congress not later than Mar. 1, 1999, and a final report on participation in the program promptly after the expiration of the period for participation.
 
 #### Defense Experimental Program To Stimulate Competitive Research
 
-Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
+Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667;Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502, provided that:
 
 “(a)
 

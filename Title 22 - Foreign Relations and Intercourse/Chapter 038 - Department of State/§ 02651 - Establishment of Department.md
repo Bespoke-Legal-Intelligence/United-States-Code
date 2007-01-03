@@ -38,7 +38,7 @@ Pub. L. 103–236, §1, Apr. 30, 1994, 108 Stat. 382, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–138, §1, Oct. 28, 1991, 105 Stat. 647, provided that: “This Act \[enacting sections 269, 276c–4, 276<i>l</i>, 276m, 296a, 1475g, 1475h, 2075, 2652b, 2656g, 2656h, 2679b, 2680–1, 2686a, 2720, 2721, 2722, 2723, 2798, 4012a, 4351 to 4357, and 5601 to 5606 of this title and section 2410c of the Appendix to Title 50, War and National Defense, amending sections 277d–3, 290f, 294, 301, 1465ee, 1471, 1474, 1477c, 1928e, 2669, 2670, 2695, 2696, 2703, 2706, 2717, 2718, 2780, 2797b, 2797c, 2877, 2905, 3005, 3942, 3961, 3968, 4010, 4053, 4081, 4115, 4131, 4134, 4136, 4137, 4139, 4140, 4413, and 4852 of this title, sections 202 and 208 of Title 3, The President, sections 5315, 5523, 5551, 5922, 5923, and 5924 of Title 5, Government Organization and Employees, section 2051 of Title 19, Customs Duties, and section 2405 of the Appendix to Title 50, repealing section 4509 of this title and former sections 269 and 2075 of this title, enacting provisions set out as notes under this section, sections 287e, 290f, 1475g, 2452, 2778, 4001, 4115, 4351, 4354, 4356, and 5601 of this title, sections 202 and 208 of Title 3, sections 5315, 5551, and 5561 of Title 5, and section 1182 of Title 8, Aliens and Nationality, amending provisions set out as notes under sections 287e, 2680, and 4021 of this title and section 5561 of Title 5, and repealing provisions set out as notes under this section and sections 287e, 1461, 2656, and 4010 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1992 and 1993’.”
+Pub. L. 102–138, §1, Oct. 28, 1991, 105 Stat. 647, provided that: “This Act \[enacting sections 269, 276c–4, 276<i>l</i>, 276m, 296a, 1475g, 1475h, 2075, 2652b, 2656g, 2656h, 2679b, 2680–1, 2686a, 2720, 2721, 2722, 2723, 2798, 4012a, 4351 to4357, and 5601 to 5606 of this title and section 2410c of the Appendix to Title 50, War and National Defense, amending sections 277d–3, 290f, 294, 301, 1465ee, 1471, 1474, 1477c, 1928e, 2669, 2670, 2695, 2696, 2703, 2706, 2717, 2718, 2780, 2797b, 2797c, 2877, 2905, 3005, 3942, 3961, 3968, 4010, 4053, 4081, 4115, 4131, 4134, 4136, 4137, 4139, 4140, 4413, and 4852 of this title, sections 202 and 208 of Title 3, The President, sections 5315, 5523, 5551, 5922, 5923, and 5924 of Title 5, Government Organization and Employees, section 2051 of Title 19, Customs Duties, and section 2405 of the Appendix to Title 50, repealing section 4509 of this title and former sections 269 and 2075 of this title, enacting provisions set out as notes under this section, sections 287e, 290f, 1475g, 2452, 2778, 4001, 4115, 4351, 4354, 4356, and 5601 of this title, sections 202 and 208 of Title 3, sections 5315, 5551, and 5561 of Title 5, and section 1182 of Title 8, Aliens and Nationality, amending provisions set out as notes under sections 287e, 2680, and 4021 of this title and section 5561 of Title 5, and repealing provisions set out as notes under this section and sections 287e, 1461, 2656, and 4010 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1992 and 1993’.”
 
 #### Short Title of 1990 Amendment
 
@@ -54,7 +54,7 @@ Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: “This Act
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004,1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
+Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
 
 #### Short Title of 1975 Amendment
 
@@ -70,7 +70,7 @@ Pub. L. 93–126, §1, Oct. 18, 1973, 87 Stat. 451, provided: “That this Act \
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–352, §1, July 13, 1972, 86 Stat. 489, provided: “That this Act \[enacting sections 1474, 1475, 2291a, and 2821 to 2826 of this title and section 194a of Title 2, The Congress, amending sections 901, 1461, 1476, 2291, 2501a, 2502, 2589, 2652, 2653, and 2680 of this title, sections 5313, 5314, 5315, and 8331 of Title 5, Government Organization and Employees, and section 241 of former Title 31, Money and Finance, repealing section 2511 of this title, and enacting provisions set out as notes under sections 2511, 2571, and 2652 of this title, section 8331 of Title 5, and section 241 of former Title 31\] may be cited as the ‘Foreign Relations Authorization Act of 1972’.”
+Pub. L. 92–352, §1, July 13, 1972, 86 Stat. 489, provided: “That this Act \[enacting sections 1474, 1475, 2291a, and 2821 to 2826 of this title and section 194a of Title 2, The Congress, amending sections 901, 1461, 1476, 2291, 2501a, 2502, 2589, 2652, 2653, and 2680 of this title, sections 5313,5314, 5315, and 8331 of Title 5, Government Organization and Employees, and section 241 of former Title 31, Money and Finance, repealing section 2511 of this title, and enacting provisions set out as notes under sections 2511, 2571, and 2652 of this title, section 8331 of Title 5, and section 241 of former Title 31\] may be cited as the ‘Foreign Relations Authorization Act of 1972’.”
 
 #### Short Title
 
@@ -120,7 +120,7 @@ Pub. L. 107–228, §3, Sept. 30, 2002, 116 Stat. 1355, provided that: “In thi
 
 &emsp;“(1)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ meansthe Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
 
 &emsp;“(2)
 

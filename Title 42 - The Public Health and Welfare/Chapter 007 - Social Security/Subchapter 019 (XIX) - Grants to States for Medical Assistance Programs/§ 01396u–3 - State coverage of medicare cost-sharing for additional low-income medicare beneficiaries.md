@@ -28,7 +28,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (4) Receipt of assistance during duration of year
 
-&emsp;If a qualifying individual is selected to receive assistance under this section for amonth in a year, the individual is entitled to receive such assistance for the remainder of the year if the individual continues to be a qualifying individual. The fact that an individual is selected to receive assistance under this section at any time during a year does not entitle the individual to continued assistance for any succeeding year.
+&emsp;If a qualifying individual is selected to receive assistance under this section for a month in a year, the individual is entitled to receive such assistance for the remainder of the year if the individual continues to be a qualifying individual. The fact that an individual is selected to receive assistance under this section at any time during a year does not entitle the individual to continued assistance for any succeeding year.
 
 #### (c) Allocation
 
@@ -108,11 +108,11 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B,§1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091.)
 
 #### Prior Provisions
 
-A prior section 1933 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
+A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
 

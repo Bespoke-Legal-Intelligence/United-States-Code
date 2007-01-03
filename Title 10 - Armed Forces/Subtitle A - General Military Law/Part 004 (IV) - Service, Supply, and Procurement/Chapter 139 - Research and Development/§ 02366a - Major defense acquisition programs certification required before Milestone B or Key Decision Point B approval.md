@@ -4,19 +4,25 @@
 
 Certification.—A major defense acquisition program may not receive Milestone B approval, or Key Decision Point B approval in the case of a space program, until the milestone decision authority certifies that—
 
-&emsp;(1) the technology in the program has been demonstrated in a relevant environment;
+&emsp;(1) appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
 
-&emsp;(2) the program demonstrates a high likelihood of accomplishing its intended mission;
+&emsp;(2) the technology in the program has been demonstrated in a relevant environment;
 
-&emsp;(3) the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
+&emsp;(3) the program demonstrates a high likelihood of accomplishing its intended mission;
 
-&emsp;(4) the Department of Defense has completed an analysis of alternatives with respect to the program;
+&emsp;(4) the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
 
-&emsp;(5) the program is affordable when considering the ability of the Department of Defense to accomplish the program's mission using alternative systems;
+&emsp;(5) the Department of Defense has completed an analysis of alternatives with respect to the program;
 
-&emsp;(6) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title, including an analysis of the operational requirements for the program; and
+&emsp;(6) the program is affordable when considering the ability of the Department of Defense to accomplish the program's mission using alternative systems;
 
-&emsp;(7) the program complies with all relevant policies, regulations, and directives of the Department of Defense.
+&emsp;(7) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title, including an analysis of the operational requirements for the program;
+
+&emsp;(8) reasonable cost and schedule estimates have been developed to execute the product development and production plan under the program;
+
+&emsp;(9) funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in paragraph (8) for the program; and
+
+&emsp;(10) the program complies with all relevant policies, regulations, and directives of the Department of Defense.
 
 (b)
 
@@ -24,7 +30,7 @@ Submission to Congress.—The certification required under subsection (a) with r
 
 (c)
 
-Waiver for National Security.—The milestone decision authority may waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), (3), (4), (5), or (6) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives. Whenever the milestone decision authority makes such a determination and authorizes such a waiver, the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized.
+Waiver for National Security.—The milestone decision authority may waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (9) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives. Whenever the milestone decision authority makes such a determination and authorizes such a waiver, the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized.
 
 (d)
 
@@ -42,5 +48,15 @@ Definitions.—In this section:
 
 &emsp;(4) The term “Key Decision Point B” means the official program initiation of a National Security Space program of the Department of Defense, which triggers a formal review to determine maturity of technology and the program's readiness to begin the preliminary system design.
 
-(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366.)
+(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314.)
+
+#### Amendments
+
+2006—Subsec. (a)(1) to (7). Pub. L. 109–364, §805(a)(1)–(3), added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively. Former par. (7) redesignated (10).
+
+Subsec. (a)(8), (9). Pub. L. 109–364, §805(a)(4), (5), added pars. (8) and (9).
+
+Subsec. (a)(10). Pub. L. 109–364, §805(a)(1), redesignated par. (7) as (10).
+
+Subsec. (c). Pub. L. 109–364, §805(b), substituted “(5), (6), (7), (8), or (9)” for “(5), or (6)”.
 

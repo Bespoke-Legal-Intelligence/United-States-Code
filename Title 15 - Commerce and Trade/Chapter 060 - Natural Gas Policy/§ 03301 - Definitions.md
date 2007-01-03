@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) the surface drilling of which began on or after February 19, 1977; or
 
-&emsp;&emsp;(B) the depth of which was increased, by means of drilling on or after February 19, 1977, to a completion location which is located at least 1,000 feet below the depth of the deepest completion location of such well attained before February 19, 1977.
+&emsp;&emsp;(B) the depth of which was increased, by means of drilling on or after February 19,1977, to a completion location which is located at least 1,000 feet below the depth of the deepest completion location of such well attained before February 19, 1977.
 
 #### (4) Old well
 
@@ -158,7 +158,7 @@ For purposes of this chapter—
 
 #### (22) Deliver
 
-&emsp;The term “deliver”, when used with respect to any first sale of natural gas, means thephysical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
+&emsp;The term “deliver”, when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
 
 #### (23) Certificate
 
@@ -182,7 +182,7 @@ For purposes of this chapter—
 
 #### (28) Electric utility
 
-&emsp;The term “electric utility” means any person to the extent such person is engaged in the business of the generation of electricity and sale, directly or indirectly, of electricity to the public.
+&emsp;The term “electric utility” means any person to the extent such person is engaged in thebusiness of the generation of electricity and sale, directly or indirectly, of electricity to the public.
 
 #### (29) Mcf
 

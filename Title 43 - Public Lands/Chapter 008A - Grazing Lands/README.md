@@ -43,22 +43,12 @@
 | [316d.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316d%20-%20Notice%20of%20establishment%20and%20alteration%20of%20grazing%20district%3B%20hearings.md) | Notice of establishment and alteration of grazing district; hearings. |
 | [316e.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316e%20-%20Preferences.md) | Preferences. |
 | [316f.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316f%20-%20Terms%20and%20conditions%20of%20lease.md) | Terms and conditions of lease. |
-| (a) | Period of lease. |
-| (b) | Size of leasehold. |
-| (c) | Terms for surrender of lease. |
-| (d) | Terms for renewal of lease. |
 | [316g.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316g%20-%20Grazing%20fees.md) | Grazing fees. |
 | [316h.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316h%20-%20Dispositions%20of%20receipts.md) | Dispositions of receipts. |
 | [316i.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316i%20-%20Assignment%20of%20leases.md) | Assignment of leases. |
 | [316j.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316j%20-%20Improvements%20to%20leasehold.md) | Improvements to leasehold. |
-| (a) | Authorization. |
-| (b) | Removal of improvement upon termination of lease. |
-| (c) | Payment for improvement upon termination of lease. |
 | [316k.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316k%20-%20Penalties.md) | Penalties. |
 | 316<i>l.</i> | Stock driveways and free grazing. |
-| (a) | Establishment, maintenance and regulation. |
-| (b) | Grazing of livestock free of charge. |
-| (c) | Grazing allotments to Eskimos or other native or half-breed. |
 | [316m.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316m%20-%20Hearing%20and%20appeals.md) | Hearing and appeals. |
 | [316n.](Subchapter%20002%20%28II%29%20-%20Alaska/%C2%A7%2000316n%20-%20Administration.md) | Administration. |
 | 316<i>o.</i> | Laws applicable. |

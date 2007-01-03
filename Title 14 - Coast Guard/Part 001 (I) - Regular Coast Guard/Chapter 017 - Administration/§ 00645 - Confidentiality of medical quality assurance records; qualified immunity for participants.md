@@ -6,7 +6,7 @@
 
 &emsp;(2) “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Coast Guard as part of a medical quality assurance program.
 
-&emsp;(3) “health care provider” means any military or civilian health care professional who, under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medicalor dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) “health care provider” means any military or civilian health care professional who, under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
 (b) Medical quality assurance records created by or for the Coast Guard as part of a medical quality assurance program are confidential and privileged. The records may not be disclosed to any person or entity except as provided in subsection (d).
 

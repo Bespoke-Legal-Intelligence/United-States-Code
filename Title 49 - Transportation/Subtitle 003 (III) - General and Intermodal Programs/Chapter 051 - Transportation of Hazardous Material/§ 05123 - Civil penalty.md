@@ -100,7 +100,7 @@ In subsection (b), the word “impose” is substituted for “assessed” for c
 
 In subsection (c)(2), the words “the violator” are substituted for “the person found to have committed such violation” to eliminate unnecessary words.
 
-In subsection (f), the words “imposed or compromised” are substituted for “of such penalty, when finally determined (or agreed upon in compromise)” to eliminate unnecessary words and for consistency. The words “liable for the penalty” are substituted for “charged” for clarity.
+In subsection (f), the words “imposed or compromised” are substituted for “of such penalty, whenfinally determined (or agreed upon in compromise)” to eliminate unnecessary words and for consistency. The words “liable for the penalty” are substituted for “charged” for clarity.
 
 #### Amendments
 

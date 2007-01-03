@@ -10,7 +10,7 @@
 
 (e) Appointments of regular officers under this section shall be made by the President, by and with the advice and consent of the Senate except that advice and consent is not required for appointments under this section in the grade of lieutenant (junior grade) or lieutenant. Appointments of Reserve officers shall be made as prescribed in section 12203 of title 10.
 
-(f) The promotion of an officer who is under investigation or against whom proceedings of acourt-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.
+(f) The promotion of an officer who is under investigation or against whom proceedings of a court-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181; amended Pub. L. 91–278, §1(8), June 12, 1970, 84 Stat. 305; Pub. L. 97–417, §2(5), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(2), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 103–337, div. A, title XVI, §1677(b)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 107–295, title III, §313(3), Nov. 25, 2002, 116 Stat. 2103.)
 
@@ -58,7 +58,7 @@ Section 4 of Pub. L. 97–417 provided that:
 
 > shall, on and after the effective date of this Act, or in the case of an officer on such a list, upon promotion to the grade of commodore, be entitled to wear the uniform and insignia of a rear admiral.
 
-“(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date to wear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
+“(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date towear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
 
 &emsp;“(1) holds the grade and has the right to wear the uniform and insignia of a rear admiral; and
 

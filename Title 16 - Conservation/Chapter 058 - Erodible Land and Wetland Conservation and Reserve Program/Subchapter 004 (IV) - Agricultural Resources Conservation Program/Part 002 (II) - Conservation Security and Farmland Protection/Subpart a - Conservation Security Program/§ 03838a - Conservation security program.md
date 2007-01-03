@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish and, for each of fiscal years 2003 through 2007, carry out a conservation security program to assist producers of agricultural operations in promoting, as is applicable with respect to land to be enrolled in the program, conservation and improvement of the quality of soil, water, air, energy, plant and animal life, and any other conservation purposes, as determined by the Secretary.
+The Secretary shall establish and, for each of fiscal years 2003 through 2011, carry out a conservation security program to assist producers of agricultural operations in promoting, as is applicable with respect to land to be enrolled in the program, conservation and improvement of the quality of soil, water, air, energy, plant and animal life, and any other conservation purposes, as determined by the Secretary.
 
 #### (b) Eligibility
 
@@ -254,9 +254,13 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2007, c
 
 The Secretary shall include in the conservation security contract a provision, and may permit modification of a conservation security contract under subsection (e)(1) of this section, to ensure that a producer shall not be considered in violation of a conservation security contract for failure to comply with the conservation security contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary.
 
-(Pub. L. 99–198, title XII, §1238A, as added Pub. L. 107–171, title II, §2001(a), May 13, 2002, 116 Stat. 225.)
+(Pub. L. 99–198, title XII, §1238A, as added Pub. L. 107–171, title II, §2001(a), May 13, 2002, 116 Stat. 225; amended Pub. L. 109–171, title I, §1202(a), Feb. 8, 2006, 120 Stat. 5.)
 
 #### Prior Provisions
 
 A prior section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, defined terms for purposes of this part, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–171 substituted “2011” for “2007”.
 

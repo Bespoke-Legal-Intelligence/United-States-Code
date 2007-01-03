@@ -58,11 +58,5 @@ Pub. L. 107–311, §1, Dec. 2, 2002, 116 Stat. 2455, provided that: “This Act
 
 #### Reports
 
-Section 591(b) of Pub. L. 105–85 provided that:
-
-“(1) Not later than January 1 of each of 1998 and 1999, each officer receiving a complaint forwarded in accordance with section 1561(b) of title 10, United States Code, as added by subsection (a), during the preceding year shall submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints (including the results of the investigations, in cases of investigations completed during such preceding year).
-
-“(2)(A) Not later than March 1 of each of 1998 and 1999, each Secretary receiving a report under paragraph (1) for a year shall submit to the Secretary of Defense a report on all such reports so received.
-
-“(B) Not later than April 1 following receipt of a report for a year under subparagraph (A), the Secretary of Defense shall transmit to Congress all such reports received for the year under subparagraph (A) together with the Secretary's assessment of each such report.”
+Pub. L. 105–85, div. A, title V, §591(b), Nov. 18, 1997, 111 Stat. 1762, required each officer receiving a complaint forwarded in accordance with subsec. (b) of this section during 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary's assessment of each report not later than Apr. 1 following receipt of a report for a year.
 

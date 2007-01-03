@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance with clause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or more States which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting “the number of children residing in all Statesapplying for such funds” for “the number of children residing in the United States in the second preceding fiscal year”.
+&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance with clause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or more States which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting “the number of children residing in all States applying for such funds” for “the number of children residing in the United States in the second preceding fiscal year”.
 
 #### (ii) Time of determination and distribution
 
@@ -46,17 +46,19 @@
 
 &emsp;&emsp;(D) $2,367,000,000 for fiscal year 2000;
 
-&emsp;&emsp;(E) $2,567,000,000 for fiscal year 2001; and
+&emsp;&emsp;(E) $2,567,000,000 for fiscal year 2001;
 
-&emsp;&emsp;(F) $2,717,000,000 for each of fiscal years 2002 and 2003.
+&emsp;&emsp;(F) $2,717,000,000 for each of fiscal years 2002 and 2003; <sup>1</sup>
+
+&emsp;&emsp;(G) $2,917,000,000 for each of fiscal years 2006 through 2010.
 
 #### (4) Indian tribes
 
-&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
+&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of theaggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
 
 #### (5) Data used to determine State and Federal shares of expenditures
 
-&emsp;In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) <sup>1</sup> of this title.
+&emsp;In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) <sup>2</sup> of this title.
 
 #### (b) Use of funds
 
@@ -76,7 +78,7 @@ Notwithstanding any other provision of law, amounts provided to a State under th
 
 As used in this section, the term “State” means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837.)
+(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII, §7201, Feb. 8, 2006, 120 Stat. 141.)
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Section 603(a)(1)(D) of this title, referred to in subsec. (a)(5), was repealed 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(3)(G). Pub. L. 109–171 added subpar. (G).
 
 2003—Subsec. (a)(3)(F). Pub. L. 108–40 substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
 
@@ -108,6 +112,10 @@ Subsec. (a)(5). Pub. L. 105–33, §5601(b), added par. (5).
 
 Subsec. (d). Pub. L. 105–33, §5601(c), substituted “and” for “or” before “the District”.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
@@ -128,5 +136,7 @@ Exceptions.—The amendment made by section 5601(a)(2)(B) \[amending this sectio
 
 Section effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 9858 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;It is the sense of Congress that—
 
-&emsp;&emsp;(A) the United States should retain a triad of strategic nuclear forces sufficient to deterany future hostile foreign leadership with access to strategic nuclear forces from acting against the vital interests of the United States;
+&emsp;&emsp;(A) the United States should retain a triad of strategic nuclear forces sufficient to deter any future hostile foreign leadership with access to strategic nuclear forces from acting against the vital interests of the United States;
 
 &emsp;&emsp;(B) the United States should continue to maintain nuclear forces of sufficient size and capability to implement an effective and robust deterrent strategy; and
 
@@ -106,7 +106,7 @@ Section 1436 of the National Defense Authorization Act, Fiscal Year 1989 (Public
 
 Section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160), referred to in subsec. (a)(5) and (7), was amended by Pub. L. 105–85, div. C, title XXXI, §3152(e)(1), Nov. 18, 1997, 111 Stat. 2042, to strike out subsec. (d) and subsequently renumbered section 4201 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758, which is classified to section 2521 of Title 50, War and National Defense.
 
-Section 3159 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsecs. (a)(9) and (e), was classified to section 7274<i>o</i> of this title and was renumbered section 4213 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760, which is classified to section 2533 of Title 50, War and National Defense.
+Section 3159 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsecs. (a)(9) and (e), was classified to section 7274<i>o</i> of this title and was renumbered section 4213 of Pub. L. 107–314, the BobStump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760, which is classified to section 2533 of Title 50, War and National Defense.
 
 #### Codification
 
@@ -122,7 +122,7 @@ All national security functions and activities performed immediately before Oct.
 
 #### “Congressional Defense Committees” Defined
 
-Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3of Pub. L. 105–85, 111 Stat. 1645, as amended by Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 105–85, 111 Stat. 1645, as amended by Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774. See note under section 101 of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

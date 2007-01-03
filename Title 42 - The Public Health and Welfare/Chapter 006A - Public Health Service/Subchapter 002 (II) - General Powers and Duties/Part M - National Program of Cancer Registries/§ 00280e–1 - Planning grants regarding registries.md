@@ -8,7 +8,7 @@
 
 #### (2) Other entities
 
-&emsp;For the purpose described in paragraph (1), the Secretary may make grants to public entities other than States and to nonprofit private entities. Such a grant may be made to an entity only if the State in which the purpose isto be carried out has certified that the State approves the entity as qualified to carry out the purpose.
+&emsp;For the purpose described in paragraph (1), the Secretary may make grants to public entities other than States and to nonprofit private entities. Such a grant may be made to an entity only if the State in which the purpose is to be carried out has certified that the State approves the entity as qualified to carry out the purpose.
 
 #### (b) Application
 

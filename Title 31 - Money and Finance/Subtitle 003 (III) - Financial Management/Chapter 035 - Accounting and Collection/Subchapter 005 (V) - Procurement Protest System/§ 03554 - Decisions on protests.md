@@ -4,11 +4,11 @@
 
 (2) The Comptroller General shall, by regulation prescribed pursuant to section 3555 of this title, establish an express option for deciding those protests which the Comptroller General determines suitable for resolution within 65 days after the date the protest is submitted.
 
-(3) An amendment to a protest that adds a new ground of protest, if timely made, should be resolved, to the maximum extent practicable, within the time limit established under paragraph (1) of this subsection for final decision of the initial protest. If an amended protest cannot be resolved within such time limit, the Comptroller General may resolve the amended protest through the express option under paragraph (2) of this subsection.
+(3) An amendment to a protest that adds a new ground of protest, if timely made, should be resolved, to the maximum extent practicable, within the time limit established under paragraph (1) of this subsection for final decision of the initial protest. If an amended protest cannotbe resolved within such time limit, the Comptroller General may resolve the amended protest through the express option under paragraph (2) of this subsection.
 
 (4) The Comptroller General may dismiss a protest that the Comptroller General determines is frivolous or which, on its face, does not state a valid basis for protest.
 
-(b)(1) With respect to a solicitation for a contract, or a proposed award or the award of a contract, protested under this subchapter, the Comptroller General may determine whether the solicitation, proposed award, or award complies with statute and regulation. If the Comptroller General determines that the solicitation, proposed award, or award does not comply witha statute or regulation, the Comptroller General shall recommend that the Federal agency—
+(b)(1) With respect to a solicitation for a contract, or a proposed award or the award of a contract, protested under this subchapter, the Comptroller General may determine whether the solicitation, proposed award, or award complies with statute and regulation. If the Comptroller General determines that the solicitation, proposed award, or award does not comply with a statute or regulation, the Comptroller General shall recommend that the Federal agency—
 
 &emsp;(A) refrain from exercising any of its options under the contract;
 

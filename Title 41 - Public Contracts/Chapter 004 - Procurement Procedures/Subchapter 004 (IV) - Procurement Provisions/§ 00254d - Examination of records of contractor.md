@@ -20,13 +20,13 @@
 
 #### (b) Subpoena power
 
-(1) The Inspector General of an executive agency appointed under section 3 or 8G <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract AuditAgency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
+(1) The Inspector General of an executive agency appointed under section 3 or 8G <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
 
 (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
 
 (3) The authority provided by paragraph (1) may not be delegated.
 
-(4) In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives a report on the exercise of such authority during such preceding year and the reasons why such authority was exercised in any instance.
+(4) In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives a report on the exercise ofsuch authority during such preceding year and the reasons why such authority was exercised in any instance.
 
 #### (c) Comptroller General authority
 
@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 104–201 amended heading and text of subsec. (d) generally
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

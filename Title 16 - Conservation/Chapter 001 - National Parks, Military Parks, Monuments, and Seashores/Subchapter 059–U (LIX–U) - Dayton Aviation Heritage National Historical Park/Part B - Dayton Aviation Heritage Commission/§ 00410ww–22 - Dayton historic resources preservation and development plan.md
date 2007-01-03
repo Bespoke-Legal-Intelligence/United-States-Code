@@ -30,7 +30,7 @@ The plan referred to in subsection (a) of this section shall—
 
 #### (c) Consultation
 
-In developing the plan, the Commission shall consult with appropriate officials of any localgovernment or Federal or State agency which has jurisdiction over historic aviation resources in the Miami Valley area. The Commission shall also consult with property owners and business, historic, professional, neighborhood, and citizen organizations affected by the actions proposed in the plan.
+In developing the plan, the Commission shall consult with appropriate officials of any local government or Federal or State agency which has jurisdiction over historic aviation resources in the Miami Valley area. The Commission shall also consult with property owners and business, historic, professional, neighborhood, and citizen organizations affected by the actions proposed in the plan.
 
 (Pub. L. 102–419, title II, §202, Oct. 16, 1992, 106 Stat. 2145.)
 

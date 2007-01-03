@@ -4,7 +4,7 @@ When it is established by satisfactory evidence that an individual—
 
 &emsp;(1) was convicted of an offense named by section 8312 of this title; or
 
-&emsp;(2) violated section 8314 or 8315 of this title; as a result of proper compliance with orders issued, in a confidential relationship, by an agency or other authority of the Government of the United States or the government of the District of Columbia, the right to receive annuity or retired pay may not be denied.
+&emsp;(2) violated section 8314 or 8315 of this title; as a result of proper compliance with orders issued, in a confidential relationship, by anagency or other authority of the Government of the United States or the government of the District of Columbia, the right to receive annuity or retired pay may not be denied.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 564.)
 

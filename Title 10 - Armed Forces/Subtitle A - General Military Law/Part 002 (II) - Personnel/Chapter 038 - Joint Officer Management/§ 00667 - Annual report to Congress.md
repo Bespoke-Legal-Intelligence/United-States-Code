@@ -8,7 +8,7 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(2) The number of officers with the joint specialty, shown by grade and branch or specialty and by education.
 
-&emsp;(3) The number of officers on the active-duty list with a military occupational specialty designated under section 661(c)(2) of this title as a critical occupational specialty who—
+&emsp;(3) The number of officers on the active-duty list with a military occupational specialty designated under section 668(d) of this title as a critical occupational specialty who—
 
 &emsp;&emsp;(A) have been selected for the joint specialty;
 
@@ -82,9 +82,11 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(18) Such other information and comparative data as the Secretary of Defense considers appropriate to demonstrate the performance of the Department of Defense and the performance of each military department in carrying out this chapter.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 104–106, div. A, title V, §501(c), Feb. 10, 1996, 110 Stat. 292; Pub. L. 107–107, div. A, title V, §524, title X, §1048(a)(7), Dec. 28, 2001, 115 Stat. 1098, 1223.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 104–106, div. A, title V, §501(c), Feb. 10, 1996, 110 Stat. 292; Pub. L. 107–107, div. A, title V, §524, title X, §1048(a)(7), Dec. 28, 2001, 115 Stat. 1098, 1223; Pub. L. 109–364, div. A, title V, §519(d)(2), Oct. 17, 2006, 120 Stat. 2191.)
 
 #### Amendments
+
+2006—Par. (3). Pub. L. 109–364 substituted “668(d)” for “661(c)(2)” in introductory provisions.
 
 2001—Par. (1). Pub. L. 107–107, §524(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -146,15 +148,15 @@ Par. (15). Pub. L. 100–180, §1304(a)(7), added par. (15).
 
 Par. (16). Pub. L. 100–180, §1304(a)(1), redesignated former par. (10) as (16).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 effective Oct. 1, 2007, see section 519(e) of Pub. L. 109–364, set out as a note under section 664 of this title.
+
 #### Effective Date of 1987 Amendment
 
 Section 1304(b) of Pub. L. 100–180 provided that: “Paragraphs (3) and (4) of section 667 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
 
 #### Additional Information To Be Included in Five Annual Joint Officer Policy Reports After November 30, 1993
 
-Pub. L. 103–160, div. A, title IX, §931(e), Nov. 30, 1993, 107 Stat. 1734, provided that: “The Secretary of Defense shall include as part of the information submitted to Congress pursuant to section 667 of title 10, United States Code, for each of the next five years after the date of the enactment of this Act \[Nov. 30, 1993\] the following:
-
-&emsp;“(1) The degree of progress made toward meeting the requirements of section 619a of title 10, United States Code.
-
-&emsp;“(2) The compliance achieved with each of the plans developed pursuant to subsection (d) \[set out as a note under section 619a of this title\].”
+Pub. L. 103–160, div. A, title IX, §931(e), Nov. 30, 1993, 107 Stat. 1734, directed the Secretary of Defense to include as part of the information submitted to Congress pursuant to this section for each of the next five years after Nov. 30, 1993, the degree of progress made toward meeting the requirements of section 619a of this title and the compliance achieved with each of the plans developed pursuant to Pub. L. 103–160, §931(d), formerly set out as a note under section 619a of this title.
 

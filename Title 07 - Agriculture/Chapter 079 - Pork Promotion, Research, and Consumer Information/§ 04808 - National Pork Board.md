@@ -6,7 +6,7 @@
 
 (2) <sup>1</sup> The Board shall consist of producers or importers appointed by the Secretary from nominations submitted under section 4806(g) of this title.
 
-(3) A member of the Board shall serve for a 3-year term, with no such member serving morethan two consecutive 3-year terms, except that initial appointments to the Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to 1-year, 2-year, and 3-year terms, except that the term of a member of the Board shall continue until the successor of such member, if any, is appointed in accordance with paragraph (2).
+(3) A member of the Board shall serve for a 3-year term, with no such member serving more than two consecutive 3-year terms, except that initial appointments to the Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to 1-year, 2-year, and 3-year terms, except that the term of a member of the Board shall continue until the successor of such member, if any, is appointed in accordance with paragraph (2).
 
 (4) The Board shall select its President by a majority vote.
 

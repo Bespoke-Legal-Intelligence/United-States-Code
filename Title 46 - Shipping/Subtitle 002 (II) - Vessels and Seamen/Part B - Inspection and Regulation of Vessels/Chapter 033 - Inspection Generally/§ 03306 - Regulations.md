@@ -1,6 +1,6 @@
 ### §3306. Regulations
 
-(a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure theproper execution of, and to carry out, this part in the most effective manner for—
+(a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for—
 
 &emsp;(1) the design, construction, alteration, repair, and operation of those vessels, including superstructures, hulls, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, boilers, unfired pressure vessels, piping, electric installations, and accommodations for passengers and crew, sailing school instructors, and sailing school students;
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) include requirements for notice to sailing school instructors and sailing school students about the specialized nature of sailing school vessels and applicable safety regulations.
 
-(d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))), the Secretary shall consider the function, purpose, and operation of the vessels, their routes, and the number of individuals who may be carried on the vessels.
+(d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 51102 of this title), the Secretary shall consider the function, purpose, and operation of the vessels, their routes, and the number of individuals who may be carried on the vessels.
 
 (e) When the Secretary finds it in the public interest, the Secretary may suspend or grant exemptions from the requirements of a regulation prescribed under this section related to lifesaving and firefighting equipment, muster lists, ground tackle and hawsers, and bilge systems.
 
@@ -44,7 +44,9 @@
 
 (i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c), title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936.)
+(j) The Secretary may establish by regulation a safety management system appropriate for the characteristics, methods of operation, and nature of service of towing vessels.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c), title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936; Pub. L. 108–293, title IV, §415(b), Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–304, §15(12), Oct. 6, 2006, 120 Stat. 1703.)
 
 Historical and Revision Notes
 
@@ -148,6 +150,10 @@ Section 3306 contains broad authority to prescribe regulations for the proper in
 
 #### Amendments
 
+2006—Subsec. (d). Pub. L. 109–304 substituted “section 51102 of this title” for “section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))”.
+
+2004—Subsec. (j). Pub. L. 108–293 added subsec. (j).
+
 1996—Subsec. (a)(4). Pub. L. 104–324, §604(c), substituted “paragraphs (1), (2), and (3)” for “clauses (1)–(3)”.
 
 Subsec. (b). Pub. L. 104–324, §604(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Equipment subject to regulation under this section may not be used on any vessel without prior approval as prescribed by regulation.”
@@ -162,7 +168,7 @@ Subsec. (i). Pub. L. 104–324, §712(2), inserted “as measured under section 
 
 #### Regulations
 
-Section 512(b), (c) of Pub. L. 103–206 provided that:
+Pub. L. 103–206, title V, §512(b), (c), Dec. 20, 1993, 107 Stat. 2442, provided that:
 
 “(b) The Secretary of Transportation shall, within twenty-four months of the date of enactment of this Act \[Dec. 20, 1993\], prescribe regulations establishing the structural fire protection, manning, operating, and equipment requirements for vessels which meet the requirements of subsections (h) and (i) of section 3306 of title 46, United States Code, as amended by this Act.
 
@@ -170,13 +176,9 @@ Section 512(b), (c) of Pub. L. 103–206 provided that:
 
 #### Foreign Approvals
 
-Section 604(b) of Pub. L. 104–324 provided that: “The Secretary of Transportation, in consultation with other interested Federal agencies, shall work with foreign governments to have those governments approve the use of the same equipment and materials on vessels documented under the laws of those countries that the Secretary requires on United States documented vessels.”
+Pub. L. 104–324, title VI, §604(b), Oct. 19, 1996, 110 Stat. 3931, provided that: “The Secretary of Transportation, in consultation with other interested Federal agencies, shall work with foreign governments to have those governments approve the use of the same equipment and materials on vessels documented under the laws of those countries that the Secretary requires on United States documented vessels.”
 
 #### International Convention for Safety of Life at Sea
 
 For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3313, 3318 of this title.
 

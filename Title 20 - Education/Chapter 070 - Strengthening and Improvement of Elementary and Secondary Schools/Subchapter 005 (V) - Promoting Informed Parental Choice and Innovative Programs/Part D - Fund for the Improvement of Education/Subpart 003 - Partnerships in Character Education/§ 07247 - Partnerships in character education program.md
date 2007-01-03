@@ -180,7 +180,7 @@ Of the total funds received in any fiscal year under this section by an eligible
 
 #### (g) Participation by private school children and teachers
 
-Each eligible entity that receives a grant under this section shall provide, to the extentfeasible and appropriate, for the participation in programs and activities under this section of students and teachers in private elementary schools and secondary schools.
+Each eligible entity that receives a grant under this section shall provide, to the extent feasible and appropriate, for the participation in programs and activities under this section of students and teachers in private elementary schools and secondary schools.
 
 #### (h) Evaluation and program development
 
@@ -246,7 +246,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 #### (D) Partnership for activities under subparagraph (B)(iv)
 
-&emsp;&emsp;In carrying out national activities under subparagraph (B)(iv), the Secretary may enter into a partnership with a national nonprofit character education organization that will disseminate information to educators, parents, administrators, and others nationwide, including information about the range of model character education programs, materials, and curricula.
+&emsp;&emsp;In carrying out national activities under subparagraph (B)(iv), the Secretary may enter into a partnership with a national nonprofit character education organization that will disseminate information to educators,parents, administrators, and others nationwide, including information about the range of model character education programs, materials, and curricula.
 
 #### (E) Report
 

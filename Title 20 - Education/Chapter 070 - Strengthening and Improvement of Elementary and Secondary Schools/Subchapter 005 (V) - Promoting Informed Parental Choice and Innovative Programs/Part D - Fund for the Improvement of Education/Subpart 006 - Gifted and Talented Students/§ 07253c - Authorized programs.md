@@ -44,7 +44,7 @@ To the extent that funds appropriated to carry out this subpart for a fiscal yea
 
 #### (1) In general
 
-&emsp;The Secretary (after consultation with experts in the field of the education of gifted andtalented students) shall establish a National Research Center for the Education of Gifted and Talented Children and Youth through grants to, or contracts with, one or more institutions of higher education or State educational agencies, or a combination or consortium of such institutions and agencies and other public or private agencies and organizations, for the purpose of carrying out activities described in subsection (b) of this section.
+&emsp;The Secretary (after consultation with experts in the field of the education of gifted and talented students) shall establish a National Research Center for the Education of Gifted and Talented Children and Youth through grants to, or contracts with, one or more institutions of higher education or State educational agencies, or a combination or consortium of such institutions and agencies and other public or private agencies and organizations, for the purpose of carrying out activities described in subsection (b) of this section.
 
 #### (2) Director
 

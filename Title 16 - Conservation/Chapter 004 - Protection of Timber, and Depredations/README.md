@@ -26,58 +26,18 @@
 | [615b.](%C2%A7%2000615b%20-%20Exportation%20of%20timber%20pulp%20wood%20and%20wood%20pulp%20from%20Alaska.md) | Exportation of timber pulp wood and wood pulp from Alaska. |
 | [616\.](%C2%A7%2000616%20-%20Exportation%20of%20timber%20cut%20on%20national%20forest%20or%20public%20land%20in%20Alaska.md) | Exportation of timber cut on national forest or public land in Alaska. |
 | [617\.](%C2%A7%2000617%20-%20Exportation%20of%20unprocessed%20timber%20from%20Federal%20lands.md) | Exportation of unprocessed timber from Federal lands. |
-| (a) | Limitation of quantity available for export. |
-| (b) | Surplus quantities and species available for export; public hearing; administrative finding. |
-| (c) | Rules and regulations; prevention of substitution of Federal for non-Federal timber. |
-| (d) | Limitations inapplicable to sales of prescribed minimum value. |
 | [618\.](%C2%A7%2000618%20-%20Timber%20contract%20payment%20modification.md) | Timber contract payment modification. |
-| (a) | Statement of purpose, authorization, scope, qualifications, financial requirements, etc., for buy-out. |
-| (b) | Extension of time for performance of contracts; covered contracts; damages for default. |
-| (c) | Monitoring of bidding patterns on timber sale contracts; discouragement of bids; reporting requirements. |
-| (d) | Cash down-payment and periodic payments for contracts; effective date. |
 | [619\.](%C2%A7%2000619%20-%20Emergency%20stumpage%20rate%20redeterminations%20in%20Alaska.md) | Emergency stumpage rate redeterminations in Alaska. |
-| (a) | Application; applicable period. |
-| (b) | Competitive effect of modification of contracts. |
-| (c) | Excepted contracts. |
 | [620\.](%C2%A7%2000620%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
 | [620a.](%C2%A7%2000620a%20-%20Restrictions%20on%20exports%20of%20unprocessed%20timber%20originating%20from%20Federal%20lands.md) | Restrictions on exports of unprocessed timber originating from Federal lands. |
-| (a) | Prohibition on export of unprocessed timber originating from Federal lands. |
-| (b) | Surpluses. |
 | [620b.](%C2%A7%2000620b%20-%20Limitations%20on%20substitution%20of%20unprocessed%20Federal%20timber%20for%20unprocessed%20timber%20exported%20from%20private%20lands.md) | Limitations on substitution of unprocessed Federal timber for unprocessed timber exported from private lands. |
-| (a) | Direct substitution. |
-| (b) | Indirect substitution. |
-| (c) | Sourcing areas. |
-| (d) | Domestic transportation and processing of private timber. |
 | [620c.](%C2%A7%2000620c%20-%20Restriction%20on%20exports%20of%20unprocessed%20timber%20from%20State%20and%20other%20public%20lands.md) | Restriction on exports of unprocessed timber from State and other public lands. |
-| (a) | Order to prohibit export of unprocessed timber originating from State or other public lands. |
-| (b) | Schedule for determination to prohibit export of unprocessed timber originating from State or other public lands. |
-| (c) | Federal program. |
-| (d) | Authorized State programs. |
-| (e) | Prior contracts. |
-| (f) | Western red cedar. |
-| (g) | Presidential authority. |
-| (h) | Removal or modifications of State restrictions. |
-| (i) | Effect of prior Federal law. |
-| (j) | Surplus timber. |
-| (k) | Suspension of prohibitions. |
-| (<i>l</i>) | Existing authority not affected. |
 | [620d.](%C2%A7%2000620d%20-%20Monitoring%20and%20enforcement.md) | Monitoring and enforcement. |
-| (a) | Monitoring and reports. |
-| (b) | Report to Congress. |
-| (c) | Civil penalties for violation. |
-| (d) | Administrative remedies. |
-| (e) | Exception. |
 | [620e.](%C2%A7%2000620e%20-%20Definitions.md) | Definitions. |
 | [620f.](%C2%A7%2000620f%20-%20Regulations%20and%20review.md) | Regulations and review. |
-| (a) | Regulations. |
-| (b) | Review. |
 | [620g.](%C2%A7%2000620g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [620h.](%C2%A7%2000620h%20-%20Savings%20provision.md) | Savings provision. |
 | [620i.](%C2%A7%2000620i%20-%20Eastern%20hardwoods%20study.md) | Eastern hardwoods study. |
-| (a) | Study. |
-| (b) | Report to Congress. |
 | [620j.](%C2%A7%2000620j%20-%20Authority%20of%20Export%20Administration%20Act%20of%201979.md) | Authority of Export Administration Act of 1979. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

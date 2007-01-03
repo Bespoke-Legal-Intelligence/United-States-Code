@@ -24,7 +24,7 @@ Notwithstanding section 1600d of this title, the appropriate Federal officer, af
 
 &emsp;&emsp;(4) scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife and other research, development, and applications;
 
-&emsp;&emsp;(5) assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 <sup>1</sup> (42 U.S.C. 5145 and 5146) and are limited to actions that are necessary to alleviate the emergency. Disaster assistance under other provisions of the Disaster Relief Act of 1974 <sup>1</sup> (Public Law 93–288, as amended) \[42 U.S.C. 5121 et seq.\] may also be provided with respect to persons residing within the Floodway, or structures or public infrastructure in existence or substantially under construction therein, on the date ninety days after October 8, 1986: <i>Provided</i>, That, such persons, or with respect to public infrastructure the State or local political entity which owns or controls such infrastructure, had purchased flood insurance for structures or infrastructure under the National Flood Insurance Program, if eligible, and had taken prudent and reasonable steps, as determined by the Director of the Federal Emergency Management Agency, to minimize damagefrom future floods or operations of the Floodway established in the chapter;
+&emsp;&emsp;(5) assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 <sup>1</sup> (42 U.S.C. 5145 and 5146) and are limited to actions that are necessary to alleviate the emergency. Disaster assistance under other provisions of the Disaster Relief Act of 1974 <sup>1</sup> (Public Law 93–288, as amended) \[42 U.S.C. 5121 et seq.\] may also be provided with respect to persons residing within the Floodway, or structures or public infrastructure in existence or substantially under construction therein, on the date ninety days after October 8, 1986: <i>Provided</i>, That, such persons, or with respect to public infrastructure the State or local political entity which owns or controls such infrastructure, had purchased flood insurance for structures or infrastructure under the National Flood Insurance Program, if eligible, and had taken prudent and reasonable steps, as determined by the Administrator of the Federal Emergency Management Agency, to minimize damage from future floods or operations of the Floodway established in the chapter;
 
 &emsp;&emsp;(6) other assistance for public health purposes, such as mosquito abatement programs;
 
@@ -34,7 +34,7 @@ Notwithstanding section 1600d of this title, the appropriate Federal officer, af
 
 &emsp;&emsp;(9) compatible agricultural uses that do not involve permanent crops and include only a minimal amount of permanent facilities in the Floodway.
 
-(Pub. L. 99–450, §7, Oct. 8, 1986, 100 Stat. 1132.)
+(Pub. L. 99–450, §7, Oct. 8, 1986, 100 Stat. 1132; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -42,9 +42,15 @@ The Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 thro
 
 The Disaster Relief Act of 1974, referred to in subsec. (e)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. The 1974 Act was renamed “The Robert T. Stafford Disaster Relief and Emergency Assistance Act”, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Act was renamed the “Robert T. Stafford Disaster Relief and Emergency Assistance Act” by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 1114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (e)(5) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

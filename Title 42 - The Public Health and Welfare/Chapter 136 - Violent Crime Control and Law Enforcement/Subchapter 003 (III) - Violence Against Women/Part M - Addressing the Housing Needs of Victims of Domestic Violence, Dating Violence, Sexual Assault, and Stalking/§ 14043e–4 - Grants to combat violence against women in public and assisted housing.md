@@ -16,7 +16,7 @@ It is the purpose of this section to assist eligible grantees in responding appr
 
 #### (1) In general
 
-&emsp;The Attorney General, acting through the Director of the Violence Against Women Officeof the Department of Justice (“Director”), and in consultation with the Secretary of Housing and Urban Development (“Secretary”), and the Secretary of Health and Human Services, acting through the Administration for Children, Youth and Families (“ACYF”), shall award grants and contracts for not less than 2 years to eligible grantees to promote the full and equal access to and use of housing by adult and youth victims of domestic violence, dating violence, sexual assault, and stalking.
+&emsp;The Attorney General, acting through the Director of the Violence Against Women Office of the Department of Justice (“Director”), and in consultation with the Secretary of Housing and Urban Development (“Secretary”), and the Secretary of Health and Human Services, acting through the Administration for Children, Youth and Families (“ACYF”), shall award grants and contracts for not less than 2 years to eligible grantees to promote the full and equal access to and use of housing by adult and youth victims of domestic violence, dating violence, sexual assault, and stalking.
 
 #### (2) Amounts
 

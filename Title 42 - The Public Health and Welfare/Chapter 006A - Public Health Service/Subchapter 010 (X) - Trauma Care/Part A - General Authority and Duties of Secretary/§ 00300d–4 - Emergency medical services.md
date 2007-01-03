@@ -82,7 +82,7 @@ Prior sections 300d–7 to 300d–9 were repealed by Pub. L. 97–35, title IX, 
 
 Section 300d–7, act July 1, 1944, ch. 373, title XII, §1208, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 602; amended Oct. 12, 1976, Pub. L. 94–484, title VIII, §801(b), 90 Stat. 2322; Oct. 21, 1976, Pub. L. 94–573, §9, 90 Stat. 2715, set forth provisions relating to administration of emergency medical services administrative unit.
 
-Section 300d–8, act July 1, 1944, ch. 373, title XII, §1209, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 602; amended Oct. 21, 1976, Pub. L. 94–573, §10, 90 Stat. 2716; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Dec. 12, 1979, Pub. L. 96–142, title I, §106, 93 Stat. 1069, related to Interagency Committee on Emergency Medical Services.
+Section 300d–8, act July 1, 1944, ch. 373, title XII, §1209, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 602; amended Oct. 21, 1976, Pub. L. 94–573, §10, 90Stat. 2716; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Dec. 12, 1979, Pub. L. 96–142, title I, §106, 93 Stat. 1069, related to Interagency Committee on Emergency Medical Services.
 
 Section 300d–9, act July 1, 1944, ch. 373, title XII, §1210, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 603; amended Oct. 21, 1976, Pub. L. 94–573, §11, 90 Stat. 2717, related to annual report to Congress.
 

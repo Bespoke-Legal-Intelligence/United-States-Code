@@ -15,6 +15,7 @@
 | [<b>142.</b>](Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md) | <b>Procurement Technical Assistance Cooperative Agreement Program</b> | <b>2411</b> |
 | [<b>143.</b>](Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md) | <b>Production by Military Agencies</b> | <b>2421</b> |
 | [<b>144.</b>](Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md) | <b>Major Defense Acquisition Programs</b> | <b>2430</b> |
+| [<b>144A.</b>](Chapter%20144A%20-%20Major%20Automated%20Information%20System%20Programs/README.md) | <b>Major Automated Information System Programs</b> | <b>2445a</b> |
 | [<b>145.</b>](Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md) | <b>Cataloging and Standardization</b> | <b>2451</b> |
 | [<b>146.</b>](Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md) | <b>Contracting for Performance of Civilian Commercial or Industrial Type Functions</b> | <b>2460</b> |
 | [<b>147.</b>](Chapter%20147%20-%20Commissaries%20and%20Exchanges%20and%20Other%20Morale%2C%20Welfare%2C%20and%20Recreation%20Activities/README.md) | <b>Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities</b> | <b>2481</b> |
@@ -34,10 +35,13 @@
 | [<b>169.</b>](Chapter%20169%20-%20Military%20Construction%20and%20Military%20Family%20Housing/README.md) | <b>Military Construction and Military Family Housing</b> | <b>2801</b> |
 | <b>\[171.</b> | <b>Repealed.\]</b> |  |
 | [<b>172.</b>](Chapter%20172%20-%20Strategic%20Environmental%20Research%20and%20Development%20Program/README.md) | <b>Strategic Environmental Research and Development Program</b> | <b>2901</b> |
+| [<b>173.</b>](Chapter%20173%20-%20Energy%20Security/README.md) | <b>Energy Security</b> | <b>2911</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title VIII, §816(a)(2), div. B, title XXVIII, §2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2495, added items for chapters 144A and 173.
 
 2003—Pub. L. 108–136, div. A, title X, §1045(a)(1), Nov. 24, 2003, 117 Stat. 1612, substituted “2700” for “2701” in item for chapter 160.
 
@@ -65,7 +69,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 Pub. L. 100–370, §§1(e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 845, 854, 855, added items for chapters 134, 146, and 148.
 
-1987—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
+1987—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138,substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
 
 1986—Pub. L. 99–661, div. A, title XIII, §1343(a)(22), Nov. 14, 1986, 100 Stat. 3994, substituted “2341” for “2321” in item for chapter 138.
 
@@ -99,6 +103,7 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 - [Chapter 142 - Procurement Technical Assistance Cooperative Agreement Program](Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md)
 - [Chapter 143 - Production by Military Agencies](Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md)
 - [Chapter 144 - Major Defense Acquisition Programs](Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md)
+- [Chapter 144A - Major Automated Information System Programs](Chapter%20144A%20-%20Major%20Automated%20Information%20System%20Programs/README.md)
 - [Chapter 145 - Cataloging and Standardization](Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md)
 - [Chapter 146 - Contracting for Performance of Civilian Commercial or Industrial Type Functions](Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md)
 - [Chapter 147 - Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities](Chapter%20147%20-%20Commissaries%20and%20Exchanges%20and%20Other%20Morale%2C%20Welfare%2C%20and%20Recreation%20Activities/README.md)
@@ -116,3 +121,4 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 - [Chapter 169 - Military Construction and Military Family Housing](Chapter%20169%20-%20Military%20Construction%20and%20Military%20Family%20Housing/README.md)
 - [Chapter 171 - Repealed](Chapter%20171%20-%20Repealed/README.md)
 - [Chapter 172 - Strategic Environmental Research and Development Program](Chapter%20172%20-%20Strategic%20Environmental%20Research%20and%20Development%20Program/README.md)
+- [Chapter 173 - Energy Security](Chapter%20173%20-%20Energy%20Security/README.md)

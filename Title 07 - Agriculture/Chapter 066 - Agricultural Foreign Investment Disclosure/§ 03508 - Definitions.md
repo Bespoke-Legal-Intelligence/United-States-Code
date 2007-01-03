@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “agricultural land” means any land located in one or more States and used for agricultural, forestry, or timber production purposes as determined by the Secretary under regulations to be prescribed by the Secretary;
+&emsp;(1) the term “agricultural land” means any land located in one or more States and usedfor agricultural, forestry, or timber production purposes as determined by the Secretary under regulations to be prescribed by the Secretary;
 
 &emsp;(2) the term “foreign government” means any government other than the Federal Government or any government of a State or a political subdivision of a State;
 
@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(iii) who is not lawfully admitted to the United States for permanent residence, or paroled into the United States, under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\];
 
-&emsp;&emsp;(B) any person, other than an individual or a government, which is created or organized under the laws of a foreign government orwhich has its principal place of business located outside of all the States;
+&emsp;&emsp;(B) any person, other than an individual or a government, which is created or organized under the laws of a foreign government or which has its principal place of business located outside of all the States;
 
 &emsp;&emsp;(C) any person, other than an individual or a government—
 

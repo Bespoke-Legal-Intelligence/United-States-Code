@@ -40,7 +40,7 @@ For the purposes of this section, the term “hazardous substance” includes ra
 
 Of the funds authorized to be appropriated pursuant to section 3101(9)(A) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190), $10,000,000 may be used for the purpose of carrying out this section.
 
-(Pub. L. 107–314, div. D, title XLVI, §4641, formerly Pub. L. 102–190, div. C, title XXXI, §3131, Dec. 5, 1991, 105 Stat. 1571; renumbered Pub. L.107–314, div. D, title XLVI, §4641, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(12), Nov. 24, 2003, 117 Stat. 1779.)
+(Pub. L. 107–314, div. D, title XLVI, §4641, formerly Pub. L. 102–190, div. C, title XXXI, §3131, Dec. 5, 1991, 105 Stat. 1571; renumbered Pub. L. 107–314, div. D, title XLVI, §4641, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(12), Nov. 24, 2003, 117 Stat. 1779.)
 
 #### References in Text
 

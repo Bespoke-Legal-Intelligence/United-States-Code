@@ -24,7 +24,7 @@
 
 #### (4) Payment rates
 
-&emsp;If a State permits the cost sharing described in paragraph (1), such State shall establish asliding scale, based solely on individual income and the cost of delivering services.
+&emsp;If a State permits the cost sharing described in paragraph (1), such State shall establish a sliding scale, based solely on individual income and the cost of delivering services.
 
 #### (5) Requirements
 
@@ -56,7 +56,7 @@
 
 #### (1) In general
 
-&emsp;Voluntary contributions shall be allowed and may be solicited for all services for which funds are received under this chapter provided that the method of solicitation is noncoercive.
+&emsp;Voluntary contributions shall be allowed and may be solicited for all services for which funds are received under this chapter if the method of solicitation is noncoercive. Such contributions shall be encouraged for individuals whose self-declared income is at or above 185 percent of the poverty line, at contribution levels based on the actual cost of services.
 
 #### (2) Local decision
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(D) establish appropriate procedures to safeguard and account for all contributions; and
 
-&emsp;&emsp;(E) use all collected contributions to expand the service for which the contributions were given.
+&emsp;&emsp;(E) use all collected contributions to expand the service for which the contributions were given and to supplement (not supplant) funds received under this chapter.
 
 #### (c) Participation
 
@@ -88,15 +88,25 @@
 
 #### (2) Plans
 
-&emsp;Prior to the implementation of cost sharing under subsection (a) of this section, each State and area agency on aging shall develop plans that are designed to ensure that the participation of low-income older individuals (with particular attention to low-income minority individuals and older individuals residing in rural areas) receiving services will not decrease with the implementation of the cost sharing under such subsection.
+&emsp;Prior to the implementation of cost sharing under subsection (a) of this section, each State and area agency on aging shall develop plans that are designed to ensure that the participation of low-income older individuals (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) receiving services will not decrease with the implementation of the cost sharing under such subsection.
 
 #### (d) Evaluation
 
-Not later than 1 year after November 13, 2000, and annually thereafter, the Assistant Secretary shall conduct a comprehensive evaluation of practices for cost sharing to determine its impact on participation rates with particular attention to low-income and minority older individuals and older individuals residing in rural areas. If the Assistant Secretary finds that there is a disparate impact upon low-income or minority older individuals or older individuals residing in rural areas in any State or region within the State regarding the provision of services, the Assistant Secretary shall take corrective action to assure that such services are provided to all older individuals without regard to the cost sharing criteria.
+Not later than 1 year after November 13, 2000, and annually thereafter, the Assistant Secretary shall conduct a comprehensive evaluation of practices for cost sharing to determine its impact on participation rates (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas). If the Assistant Secretary finds that there is a disparate impact upon low-income or minority older individuals or older individuals residing in rural areas in any State or region within the State regarding the provision of services, the Assistant Secretary shall take corrective action to assure that such services are provided to all older individuals without regard to the cost sharing criteria.
 
-(Pub. L. 89–73, title III, §315, as added Pub. L. 106–501, title III, §310, Nov. 13, 2000, 114 Stat. 2247.)
+(Pub. L. 89–73, title III, §315, as added Pub. L. 106–501, title III, §310, Nov. 13, 2000, 114 Stat. 2247; amended Pub. L. 109–365, title III, §310, Oct. 17, 2006, 120 Stat. 2546.)
 
 #### Codification
 
 Pub. L. 106–501, §310, which directed the addition of this section at the end of Part A of title III (42 U.S.C. 3021 et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
+
+#### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–365, §310(1)(A), substituted “if” for “provided that” and inserted at end “Such contributions shall be encouraged for individuals whose self-declared income is at or above 185 percent of the poverty line, at contribution levels based on the actual cost of services.”
+
+Subsec. (b)(4)(E). Pub. L. 109–365, §310(1)(B), inserted “and to supplement (not supplant) funds received under this chapter” after “given”.
+
+Subsec. (c)(2). Pub. L. 109–365, §310(2), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)”.
+
+Subsec. (d). Pub. L. 109–365, §310(3), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “with particular attention to low-income and minority older individuals and older individuals residing in rural areas”.
 

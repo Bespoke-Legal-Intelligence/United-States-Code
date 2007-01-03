@@ -8,11 +8,11 @@
 
 (2) After the Council receives the statement of the Mayor, the Council may make available for public inspection the report of the Comptroller General and other material the Council considers pertinent.
 
-(d) To carry out this section, records and property of or used by the District of Columbia government necessary to make an audit easier shall be made available to the Comptroller General. The Mayor shall provide facilities to carry out an audit.
+(d) To carry out this section, records and property of or used by the District of Columbia government necessary to make an audit easier shallbe made available to the Comptroller General. The Mayor shall provide facilities to carry out an audit.
 
 (e) Not later than March 1 of each year, the Comptroller General shall submit to the Committee on the District of Columbia of the House of Representatives and the Subcommittee on General Services, Federalism, and the District of Columbia of the Committee on Governmental Affairs of the Senate a review of the report of the breakdown of the independently audited revenues of the District of Columbia for the preceding fiscal year by revenues derived from the Federal Government and revenues derived from sources other than the Federal Government that is included in the independent annual audit of the funds of the District of Columbia conducted for such fiscal year.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 891; Pub. L. 102–102, §2(c)(2), Aug. 17, 1991, 105 Stat. 496;Pub. L. 105–33, title XI, §§11244(b), 11717(b), Aug. 5, 1997, 111 Stat. 754, 786.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 891; Pub. L. 102–102, §2(c)(2), Aug. 17, 1991, 105 Stat. 496; Pub. L. 105–33, title XI, §§11244(b), 11717(b), Aug. 5, 1997, 111 Stat. 754, 786.)
 
 Historical and Revision Notes
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) $1,200 in the case of medical services furnished under any other provision of section 1710(a) of this title.
 
-(3) The Secretary may furnish home health services to a veteran in any setting in which the veteran is residing. The Secretary may not furnish such services in such a manner as to relieve any other person or entity of a contractual obligation to furnish services to the veteran. When home health services are furnished in a setting other than the veteran's home, such services may not include any structural improvement or alteration.
+(3) The Secretary may furnish home health services to a veteran in any setting in which the veteran is residing. The Secretary may not furnish such services in such a manner as to relieve any other person or entity of a contractual obligation to furnish services to the veteran. When home health services are furnished in a settingother than the veteran's home, such services may not include any structural improvement or alteration.
 
 (b) The Secretary may furnish an invalid lift, or any type of therapeutic or rehabilitative device, as well as other medical equipment and supplies (excluding medicines), if medically indicated, to any veteran who is receiving (1) compensation under section 1114(<i>l</i>)–(p) of this title (or the comparable rates provided pursuant to section 1134 of this title), or (2) pension under chapter 15 of this title by reason of being in need of regular aid and attendance.
 

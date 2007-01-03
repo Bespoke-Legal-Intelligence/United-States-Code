@@ -2,7 +2,7 @@
 
 #### (a) Cooperative agreements and joint ventures
 
-(1) The Secretary of Transportation, in consultation with the Secretary, may enter into cooperative agreements and joint ventures proposed by any municipal, county, or regional transit authority in an urban area with a population over 100,000 (according to latest availablecensus information) to demonstrate the feasibility of commercial application, including safety of specific vehicle design, of using alternative fuels for urban buses and other motor vehicles used for mass transit.
+(1) The Secretary of Transportation, in consultation with the Secretary, may enter into cooperative agreements and joint ventures proposed by any municipal, county, or regional transit authority in an urban area with a population over 100,000 (according to latest available census information) to demonstrate the feasibility of commercial application, including safety of specific vehicle design, of using alternative fuels for urban buses and other motor vehicles used for mass transit.
 
 (2) The cooperative agreements and joint ventures under paragraph (1) may include interested or affected private firms willing to provide assistance in cash, or in kind, for any such demonstration.
 
@@ -26,7 +26,7 @@ There are authorized to be appropriated not more than $30,000,000 for each of th
 
 #### References in Text
 
-Section 7587 of this title, referred to in subsec. (c), was in the original “section 247 of the Clean Air Act Amendments of 1990”, Pub. L. 101–549, and was translated as reading “section 247 of the Clean Air Act”, meaning section 247 of act July 14, 1955, ch. 360, title II, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2523, to reflect the probable intent of Congress, because the Clean Air Act Amendments of 1990 does not contain a section 247, and section 247 of the Clean Air Act relates to alternate fuel conversions for vehicles.
+Section 7587 of this title, referred to in subsec. (c), was in the original “section 247 of the Clean Air Act Amendments of 1990”, Pub. L. 101–549, and was translated as reading “section 247 of the Clean Air Act”, meaning section 247 of act July 14, 1955, ch. 360, title II,as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2523, to reflect the probable intent of Congress, because the Clean Air Act Amendments of 1990 does not contain a section 247, and section 247 of the Clean Air Act relates to alternate fuel conversions for vehicles.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

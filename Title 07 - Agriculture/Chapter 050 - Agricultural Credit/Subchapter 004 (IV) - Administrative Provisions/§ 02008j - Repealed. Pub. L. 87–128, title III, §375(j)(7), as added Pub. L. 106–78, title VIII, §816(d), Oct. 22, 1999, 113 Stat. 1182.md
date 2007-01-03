@@ -1,0 +1,8 @@
+### §2008j. Repealed. Pub. L. 87–128, title III, §375(j)(7), as added Pub. L. 106–78, title VIII, §816(d), Oct. 22, 1999, 113 Stat. 1182
+
+Section,Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, §731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, §728, Feb. 20, 2003, 117 Stat. 42; Pub. L. 108–199, div. A, title VII, §726, Jan. 23, 2004, 118 Stat. 35; Pub. L. 108–447, div. A, title VII, §725, Dec. 8, 2004, 118 Stat. 2842, related to National Sheep Industry Improvement Center.
+
+#### Effective Date of Repeal
+
+Section repealed on the date the Secretary published notice in the Federal Register \[72 F.R. 28945, May 23, 2007\] that the transition plan to privatize the National Sheep Industry Improvement Center was complete.
+

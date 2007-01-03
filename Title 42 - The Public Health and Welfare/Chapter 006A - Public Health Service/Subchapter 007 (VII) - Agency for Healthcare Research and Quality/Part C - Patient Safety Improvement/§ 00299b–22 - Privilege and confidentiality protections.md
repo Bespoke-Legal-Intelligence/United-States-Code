@@ -64,7 +64,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (1) In general
 
-&emsp;Patient safety work product that is disclosed under subsection (c) of this section shall continue to be privileged and confidential as provided for in subsections (a) and (b) of this section, and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
+&emsp;Patient safety work product that is disclosed under subsection (c) of this section shall continue to be privileged and confidential as provided for in subsections (a) and (b) of this section, and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply tosuch work product in the possession or control of a person to whom such work product was disclosed.
 
 #### (2) Exception
 
@@ -178,7 +178,7 @@ For purposes of applying the HIPAA confidentiality regulations—
 
 #### References in Text
 
-Section 264(c)(1) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (f)(3), is section 264(c)(1) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2033, which was formerly set out as a note under section 1320d–2 of this title.
+Section 264(c)(1) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (f)(3), is section 264(c)(1) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 #### Prior Provisions
 

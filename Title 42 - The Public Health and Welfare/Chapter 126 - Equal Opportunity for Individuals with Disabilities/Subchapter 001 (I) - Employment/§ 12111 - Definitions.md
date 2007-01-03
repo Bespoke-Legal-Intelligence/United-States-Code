@@ -22,7 +22,7 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “employer” means a person engaged in an industry affecting commerce who has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such person, except that,for two years following the effective date of this subchapter, an employer means a person engaged in an industry affecting commerce who has 25 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding year, and any agent of such person.
+&emsp;&emsp;The term “employer” means a person engaged in an industry affecting commerce who has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such person, except that, for two years following the effective date of this subchapter, an employer means a person engaged in an industry affecting commerce who has 25 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding year, and any agent of such person.
 
 #### (B) Exceptions
 

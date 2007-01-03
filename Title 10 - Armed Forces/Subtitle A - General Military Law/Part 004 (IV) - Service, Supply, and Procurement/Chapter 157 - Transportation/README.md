@@ -73,10 +73,6 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 1957—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
-<i><sup>1</sup></i><i> Another section 2613 is set out preceding this section.</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
-
 
 ---
 

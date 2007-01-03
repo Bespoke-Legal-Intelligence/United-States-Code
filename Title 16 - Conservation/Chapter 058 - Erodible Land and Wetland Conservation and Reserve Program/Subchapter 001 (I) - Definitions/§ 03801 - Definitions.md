@@ -48,7 +48,7 @@ Conservation system.—The term “conservation system” means a combination of
 
 &emsp;(7)
 
-Field.—The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practicesmake it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
+Field.—The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
 
 &emsp;(8) The term “highly erodible cropland” means highly erodible land that is in cropland use, as determined by the Secretary.
 
@@ -131,6 +131,10 @@ Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) 
 1990—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for “The term ‘wetland’, except when such term is part of the term ‘converted wetland’, means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.”
 
 1986—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term “wetland” shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–234, title III, §3001, June 15, 2006, 120 Stat. 474, provided that: “This title \[amending section 3831 of this title\] may be cited as the ‘Emergency Agricultural Disaster Assistance Act of 2006’.”
 
 #### Short Title of 2003 Amendment
 

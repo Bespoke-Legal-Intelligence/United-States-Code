@@ -28,7 +28,7 @@ In this chapter:
 
 #### (7) New borrower
 
-&emsp;The term “new borrower” when used with respect to any date means an individual whoon that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The term “new borrower” when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (8) Nonprofit
 
@@ -106,7 +106,7 @@ Another prior section 1005, Pub. L. 89–329, title I, §105, as added Pub. L. 9
 
 Another prior section 1005, Pub. L. 89–329, title I, §105, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 90–575, title II, §202, Oct. 16, 1968, 82 Stat. 1036; Pub. L. 94–482, title I, §101(b)(4)–(10), (g)(2), Oct. 12, 1976, 90 Stat. 2084–2086; Pub. L. 95–43, §1(a)(3), (b)(1), (2), June 15, 1977, 91 Stat. 213, 218, set out the requisite features of State plans, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1005a, Pub. L. 89–329, title I, §106, as added Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86Stat. 237; amended Pub. L. 94–482, title I, §101(g)(2), Oct. 12, 1976, 90 Stat. 2086, provided for special programs and projects relating to national and regional problems, prior to the general amendment of this subchapter by Pub. L. 96–374.
+A prior section 1005a, Pub. L. 89–329, title I, §106, as added Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 237; amended Pub. L. 94–482, title I, §101(g)(2), Oct. 12, 1976, 90 Stat. 2086, provided for special programs and projects relating to national and regional problems, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1006, Pub. L. 89–329, title I, §106, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 461, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

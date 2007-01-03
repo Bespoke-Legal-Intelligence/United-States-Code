@@ -2,7 +2,7 @@
 
 #### (a) Procedures to facilitate access
 
-The Department of State shall maintain procedures to ensure that the members and staff of the congressional committees of jurisdiction are granted easy access to the Department of State in the conduct of their duties.
+The Department of State shall maintain procedures to ensure that the members and staff of the congressional committees of jurisdiction aregranted easy access to the Department of State in the conduct of their duties.
 
 #### (b) Parking
 

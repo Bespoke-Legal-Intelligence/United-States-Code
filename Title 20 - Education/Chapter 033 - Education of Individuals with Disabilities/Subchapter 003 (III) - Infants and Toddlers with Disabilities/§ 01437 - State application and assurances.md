@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-A State desiring to receive a grant under section 1433 of this title shall submit an applicationto the Secretary at such time and in such manner as the Secretary may reasonably require. The application shall contain—
+A State desiring to receive a grant under section 1433 of this title shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably require. The application shall contain—
 
 &emsp;(1) a designation of the lead agency in the State that will be responsible for the administration of funds provided under section 1433 of this title;
 

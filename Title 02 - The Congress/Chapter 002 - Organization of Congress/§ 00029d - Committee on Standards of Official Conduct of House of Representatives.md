@@ -84,7 +84,7 @@ Section 805 of Pub. L. 101–194 provided that:
 
 Restrictions.—The Committee on Standards of Official Conduct of the House of Representatives shall amend its advisory opinions relating to the acceptance of necessary travel expenses incurred on or after January 1, 1990, in connection with speaking engagements and similar events to—
 
-&emsp;“(1) prohibit the acceptance of such expenses for more than 4 consecutive days in the case of domestictravel and 7 consecutive days (excluding travel days) in the case of foreign travel; and
+&emsp;“(1) prohibit the acceptance of such expenses for more than 4 consecutive days in the case of domestic travel and 7 consecutive days (excluding travel days) in the case of foreign travel; and
 
 &emsp;“(2) permit the acceptance of travel expenses for the spouse or other family member in connection with any substantial participation event or fact-finding activity.
 

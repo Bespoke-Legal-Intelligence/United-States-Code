@@ -22,7 +22,7 @@ Under such regulations as the Secretary may prescribe and subject to the provisi
 
 (4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
@@ -34,7 +34,7 @@ Under such regulations as the Secretary may prescribe and subject to the provisi
 
 &emsp;(B) resided in the United States.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat.2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667.)
 
 #### Amendments
 

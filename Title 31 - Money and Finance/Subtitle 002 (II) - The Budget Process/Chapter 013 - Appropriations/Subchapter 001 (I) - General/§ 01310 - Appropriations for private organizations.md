@@ -14,9 +14,9 @@
 
 (c)(1) The fiscal official may pay an amount of less than $20 out of the appropriation on a check—
 
-&emsp;&emsp;(A) payable to the order of the fiscal official; and
+&emsp;(A) payable to the order of the fiscal official; and
 
-&emsp;&emsp;(B) that states the amount is to be applied to small claims.
+&emsp;(B) that states the amount is to be applied to small claims.
 
 (2) The fiscal official shall provide the Secretary or the designated depositary on which the check is drawn with a certified list of the claims. The list shall state the kind and amount of each claim and the name of each claimant.
 

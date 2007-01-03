@@ -6,7 +6,7 @@ The Secretary of Transportation may delegate to an agency, a State, or a qualifi
 
 &emsp;(2) charge fees under section 12505 of this title to a person making information available to or requesting information from the vessel identification system.
 
-(Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4737.)
+(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4737.)
 
 #### Historical and Revision Notes
 

@@ -194,7 +194,7 @@ Pub. L. 97–396, §1(2), inserted provision that cooperative plans agreed to un
 
 Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: “Section 101(g) of the Sikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
 
-&emsp;“(A) to any integrated natural resources management plan prepared for a military installation inGuam under section 101(a)(1) of such Act on or after the date of the enactment of this Act \[Nov. 24, 2003\]; and
+&emsp;“(A) to any integrated natural resources management plan prepared for a military installation in Guam under section 101(a)(1) of such Act on or after the date of the enactment of this Act \[Nov. 24, 2003\]; and
 
 &emsp;“(B) effective March 1, 2004, to any integrated natural resources management plan prepared for a military installation in Guam under such section before the date of the enactment of this Act.”
 

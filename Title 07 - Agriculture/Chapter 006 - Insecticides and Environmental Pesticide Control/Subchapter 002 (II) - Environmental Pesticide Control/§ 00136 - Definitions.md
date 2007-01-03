@@ -32,7 +32,7 @@ The term “adulterated” applies to any pesticide if—
 
 #### (d) Animal
 
-The term “animal” means all vertebrate and invertebrate species, including but not limited to man and other mammals, birds, fish, and shellfish.
+The term “animal” means all vertebrate and invertebrate species, including but not limitedto man and other mammals, birds, fish, and shellfish.
 
 #### (e) Certified applicator, etc.
 
@@ -176,7 +176,7 @@ The term “pesticide” means (1) any substance or mixture of substances intend
 
 #### (v) Plant regulator
 
-The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagationof plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
+The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
 
 #### (w) Producer and produce
 
@@ -212,7 +212,7 @@ The term “establishment” means any place where a pesticide or device or acti
 
 #### (ee) To use any registered pesticide in a manner inconsistent with its labeling
 
-The term “to use any registered pesticide in a manner inconsistent with its labeling” means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unless the labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v of this title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
+The term “to use any registered pesticide in a manner inconsistent with its labeling” means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unless the labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v ofthis title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
 
 #### (ff) Outstanding data requirement
 
@@ -300,7 +300,7 @@ The term “minor use” means the use of a pesticide on an animal, on a commerc
 
 #### (3) Included products
 
-&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any otherpreservative product that is not excluded by paragraph (2).
+&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
 
 #### (nn) Public health pesticide
 
@@ -422,7 +422,7 @@ Section 4 of Pub. L. 92–516, as amended by Pub. L. 94–140, §4, Nov. 28, 197
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, provided that: “This section \[enacting section 136w–8 of this title, amending sections 136a, 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under section 136a of this title and section 346a of Title 21, Food and Drugs\] may be cited as the ‘Pesticide Registration Improvement Act of 2003’.”
+Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, provided that: “This section \[enacting section 136w–8 of this title, amending sections 136a, 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under section 136a of this titleand section 346a of Title 21, Food and Drugs\] may be cited as the ‘Pesticide Registration Improvement Act of 2003’.”
 
 #### Short Title of 1996 Amendment
 

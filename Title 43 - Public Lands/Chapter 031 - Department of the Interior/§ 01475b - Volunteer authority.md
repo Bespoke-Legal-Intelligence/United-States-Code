@@ -12,7 +12,7 @@ The Secretary of the Interior may recruit, train, and accept, without regard to 
 
 #### (2) Private property
 
-&emsp;No volunteer services authorized by this Act may be conducted on private property unless the officer or employee charged with supervising the volunteer obtains appropriate consent to enter the property from the property owner.
+&emsp;No volunteer services authorized by this Act may be conducted on private property unlessthe officer or employee charged with supervising the volunteer obtains appropriate consent to enter the property from the property owner.
 
 #### (3) Hazardous duty
 

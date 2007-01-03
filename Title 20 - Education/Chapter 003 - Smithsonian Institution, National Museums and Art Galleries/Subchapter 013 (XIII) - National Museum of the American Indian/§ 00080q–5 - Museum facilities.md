@@ -112,7 +112,7 @@ In General.—The National Museum of the American Indian (established by the Nat
 
 “(b)
 
-Location.—The memorial shall be located at a site determined to be suitable by the Museum within the interior structure of the facility provided for by section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating tohousing the portion of the Museum to be located in the District of Columbia).
+Location.—The memorial shall be located at a site determined to be suitable by the Museum within the interior structure of the facility provided for by section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
 
 “(c)
 

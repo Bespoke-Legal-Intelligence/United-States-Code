@@ -34,7 +34,7 @@ The owner of an improved property on the date of its acquisition, as a condition
 
 For the purposes of this section, the term “improved property” means—
 
-&emsp;(1) a detached single family dwelling, the construction of which was begun before January 1, 1980 (hereinafter referred to as the “dwelling”), together with the land on whichthe dwelling is situated to the extent that such land—
+&emsp;(1) a detached single family dwelling, the construction of which was begun before January 1, 1980 (hereinafter referred to as the “dwelling”), together with the land on which the dwelling is situated to the extent that such land—
 
 &emsp;&emsp;(A) is in the same ownership as the dwelling or is Federal land on which entry was legal and proper, and
 

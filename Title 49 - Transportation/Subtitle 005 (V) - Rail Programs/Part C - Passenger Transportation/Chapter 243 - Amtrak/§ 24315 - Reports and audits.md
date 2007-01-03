@@ -42,7 +42,7 @@ Amtrak General and Legislative Annual Report.—(1) Not later than February 15 o
 
 (c)
 
-Secretary's Report on Effectiveness of This Part.—The Secretary of Transportation shall prepare a report on the effectiveness ofthis part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
+Secretary's Report on Effectiveness of This Part.—The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
 
 (d)
 
@@ -130,7 +130,7 @@ Oct. 30, 1970, Pub. L. 91–518, §805(2)(C), 84 Stat. 1340; June 22, 1972, Pub.
 
 In subsection (a)(2), the words “to . . . compensation” and “prescribed” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “(beginning with 1973)” are omitted as executed. The word “complete” is substituted for “comprehensive and detailed” to eliminate unnecessary words. The words “under this chapter” are omitted as surplus. The word “revenues” is substituted for “receipts” for consistency. In clause (B), the words “may include recommendations for legislation” are substituted for “At the time of its annual report, the Corporation shall submit such legislative recommendations as it deems desirable”, the words “the method of computing the assistance” are substituted for “the manner and form in which the amount of such assistance should be computed”, and the words “of the assistance” are substituted for “from which such assistance should be derived”, to eliminate unnecessary words.
+In subsection (b)(1), before clause (A), the words “(beginning with 1973)” are omitted as executed. The word “complete” is substituted for “comprehensive and detailed” to eliminate unnecessary words. The words “under this chapter” are omitted as surplus. The word “revenues” is substituted for “receipts” for consistency. In clause (B), the words “may include recommendations for legislation” are substituted for “At thetime of its annual report, the Corporation shall submit such legislative recommendations as it deems desirable”, the words “the method of computing the assistance” are substituted for “the manner and form in which the amount of such assistance should be computed”, and the words “of the assistance” are substituted for “from which such assistance should be derived”, to eliminate unnecessary words.
 
 In subsection (c), the words “(beginning with 1974)” are omitted as executed. The word “prepare” is substituted for “transmit to the President and to the Congress by March 15 of each year” for clarity because the report is now part of the annual report under 49:308(a). The words “Beginning in 1976” are omitted as executed. The word “Secretary” is substituted for “Department of Transportation” because of 49:102(b). The words “submits under section 308(a) of this title” are substituted for “to the Congress” for clarity.
 

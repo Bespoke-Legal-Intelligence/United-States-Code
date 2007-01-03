@@ -8,19 +8,17 @@ The Secretary, acting through the Director of the National Institutes of Health,
 
 The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established under subsection (a) of this section to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
 
-#### (c) Funding
-
-#### (1) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
-
-#### (2) Availability
-
-&emsp;Amounts appropriated for carrying out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were made available.
-
-(July 1, 1944, ch. 373, title IV, §487F, as added Pub. L. 106–505, title II, §205, Nov. 13, 2000, 114 Stat. 2329.)
+(July 1, 1944, ch. 373, title IV, §487F, as added Pub. L. 106–505, title II, §205, Nov. 13, 2000, 114 Stat. 2329; amended Pub. L. 109–482, title I, §103(b)(49), Jan. 15, 2007, 120 Stat. 3689.)
 
 #### Codification
 
 Another section 487F of act July 1, 1944, is classified to section 288–6 of this title.
+
+#### Amendments
+
+2007—Subsec. (c). Pub. L. 109–482 struck out subsec. (c) which related to authorization and availability of appropriations.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

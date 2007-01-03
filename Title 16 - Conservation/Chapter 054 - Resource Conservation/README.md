@@ -41,23 +41,11 @@
 | [3453\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003453%20-%20Selection%20of%20designated%20areas.md) | Selection of designated areas. |
 | [3454\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003454%20-%20Powers%20of%20the%20Secretary.md) | Powers of the Secretary. |
 | [3455\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003455%20-%20Eligibility%3B%20terms%20and%20conditions.md) | Eligibility; terms and conditions. |
-| (a) | Eligibility. |
-| (b) | Loans. |
-| (c) | Approval by Secretary. |
-| (d) | Withdrawal. |
 | [3456\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003456%20-%20Resource%20Conservation%20and%20Development%20Policy%20Advisory%20Board.md) | Resource Conservation and Development Policy Advisory Board. |
-| (a) | Establishment. |
-| (b) | Composition. |
-| (c) | Duties. |
 | [3457\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003457%20-%20Evaluation%20of%20program.md) | Evaluation of program. |
-| (a) | In general. |
-| (b) | Report. |
 | [3458\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003458%20-%20Limitation%20on%20assistance.md) | Limitation on assistance. |
 | [3459\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003459%20-%20Supplemental%20authority%20of%20the%20Secretary.md) | Supplemental authority of the Secretary. |
 | [3460\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003460%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Loans. |
-| (c) | Availability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

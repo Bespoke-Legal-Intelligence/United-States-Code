@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Consistent with the objectives of section 635(b)(1)(A) of this title, the Bank shall establish procedures to take into account the potential beneficial and adverse environmental effects of goods and services for which support is requested under its direct lending and guarantee programs. Such procedures shall apply to any transaction involving a project—
+&emsp;Consistent with the objectives of section 635(b)(1)(A) of this title, the Bank shall establish procedures to take into account the potential beneficial and adverse environmental effects of goods and services for which support is requested under its direct lending and guarantee programs. Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in section 1905 of title 18. Such procedures shall apply to any transaction involving a project—
 
 &emsp;&emsp;(A) for which long-term support of $10,000,000 or more is requested from the Bank;
 
@@ -34,7 +34,7 @@ The Bank shall provide in its annual report to the Congress a summary of its act
 
 Nothing in this section shall be construed to create any cause of action.
 
-(July 31, 1945, ch. 341, §11, formerly §17, as added and renumbered §11, Pub. L. 102–429, title I, §§106, 121(c)(5), Oct. 21, 1992, 106 Stat. 2189, 2199; amended Pub. L. 103–428, §2(a), Oct. 31, 1994, 108 Stat. 4376.)
+(July 31, 1945, ch. 341, §11, formerly §17, as added and renumbered §11, Pub. L. 102–429, title I, §§106, 121(c)(5), Oct. 21, 1992, 106 Stat. 2189, 2199; amended Pub. L. 103–428, §2(a), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 109–438, §18(b), Dec. 20, 2006, 120 Stat. 3281.)
 
 #### Codification
 
@@ -45,6 +45,8 @@ Another section 11 of act July 31, 1945, ch. 341, was renumbered section 14 and 
 A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and is classified to section 635h of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–438 inserted after first sentence “Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in section 1905 of title 18.”
 
 1994—Subsec. (b). Pub. L. 103–428 inserted par. (1) designation and heading, inserted before period at end of first sentence “(such as exports of products and services used to aid in the monitoring, abatement, control, or prevention of air, water, and ground contaminants or pollution, or which provide protection in the handling of toxic substances, subject to a final determination by the Bank, and products and services for foreign environmental projects dedicated entirely to the prevention, control, or cleanup of air, water, or ground pollution, including facilities to provide for control or cleanup, and used in the retrofitting of facility equipment for the sole purpose of mitigating, controlling, or preventing adverse environmental effects, subject to a final determination by the Bank)”, and added par. (2).
 

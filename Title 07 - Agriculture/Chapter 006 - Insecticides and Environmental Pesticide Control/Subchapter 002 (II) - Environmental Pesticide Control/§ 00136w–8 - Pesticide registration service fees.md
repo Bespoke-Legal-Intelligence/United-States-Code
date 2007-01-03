@@ -132,7 +132,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 &emsp;&emsp;The Administrator shall waive the registration service fee for an application if the Administrator determines that—
 
-&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted inconnection with the Inter-Regional Project Number 4 (IR–4) as described in section 450i(e) of this title; and
+&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 450i(e) of this title; and
 
 &emsp;&emsp;&emsp;(ii) the waiver is in the public interest.
 
@@ -272,7 +272,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 #### (4) Compliance
 
-&emsp;The requirements of paragraph (2) shall have been considered to have been met for any fiscal year if the amount of appropriations for salaries, contracts, and expenses for the functions (as in existence in fiscal year 2002) of the Office of Pesticide Programs of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) is not more than 3 percent below the amount of appropriations for covered functions for fiscal year 2002 (excluding the amount of any fees appropriated for the fiscal year).
+&emsp;The requirements of paragraph (2) shall have been considered to have been met for any fiscal year if the amount of appropriations for salaries, contracts, and expenses for the functions (as in existence in fiscal year 2002) of the Office of Pesticide Programs of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) is not more than 3 percent below the amount of appropriationsfor covered functions for fiscal year 2002 (excluding the amount of any fees appropriated for the fiscal year).
 
 #### (5) Subsequent authority
 
@@ -532,5 +532,5 @@ A prior section 33 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 
 #### Effective Date
 
-Section effective on the date that is 60 days after Jan. 23, 2004, except as otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
+Section effective on the date that is 60 days after Jan. 23, 2004, except as otherwise provided, see section501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
 

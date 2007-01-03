@@ -34,7 +34,9 @@ Inclusion of Other Merchandise Items.—(1) The Secretary of Defense may authori
 
 (2) Notwithstanding paragraph (1), the Department of Defense military resale system shall continue to maintain the exclusive right to operate convenience stores, shopettes, and troop stores, including such stores established to support contingency operations.
 
-(3) A military exchange shall be the vendor for the sale of tobacco products in commissary stores and may be the vendor for such merchandise as may be authorized for sale in commissary stores under paragraph (1). Subsections (d) and (e) shall not apply to the pricing of such an item when a military exchange serves as the vendor of the item. Commissary store and exchange prices shall be comparable for such an item.
+(3)(A) A military exchange shall be the vendor for the sale of tobacco products in commissary stores and may be the vendor for such merchandise as may be authorized for sale in commissary stores under paragraph (1). Except as provided in subparagraph (B), subsections (d) and (e) shall not apply to the pricing of such an item when a military exchange serves as the vendor of the item. Commissary store and exchange prices shall be comparable for such an item.
+
+(B) When a military exchange is the vendor of tobacco products or other merchandise authorized for sale in a commissary store under paragraph (1), any revenue above the cost of procuring the merchandise shall be allocated as if the revenue were a uniform sales price surcharge described in subsection (d).
 
 (d)
 
@@ -58,7 +60,9 @@ Special Rule for Brand-Name Commercial Items.—The Secretary of Defense may not
 
 (g)
 
-Special Rules for Certain Merchandise.—Notwithstanding the general requirement that merchandise sold in, at, or by commissary stores be commissary store inventory, the Secretary of Defense may authorize the sale of tobacco products as noncommissary store inventory. Subsections (d) and (e) shall not apply to the pricing of such merchandise items.
+Special Rules for Certain Merchandise.—(1) Notwithstanding the general requirement that merchandise sold in, at, or by commissary stores be commissary store inventory, the Secretary of Defense may authorize the sale of tobacco products as noncommissary store inventory. Except as provided in paragraph (2), subsections (d) and (e) shall not apply to the pricing of such merchandise items.
+
+(2) When tobacco products are authorized for sale in a commissary store as noncommissary store inventory, any revenue above the cost of procuring the tobacco products shall be allocated as if the revenue were a uniform sales price surcharge described in subsection (d).
 
 (h)
 
@@ -88,7 +92,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 &emsp;(E) Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, §661, title X, §1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402.)
 
 #### Prior Provisions
 
@@ -96,9 +100,19 @@ A prior section 2484 was renumbered section 2483 of this title.
 
 #### Amendments
 
+2006—Pub. L. 109–364, §1071(g)(6), made technical correction to directory language of Pub. L. 108–375,§651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
+
+Subsec. (c)(3). Pub. L. 109–364, §661(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), subsections” for “Subsections”, and added subpar. (B).
+
+Subsec. (g). Pub. L. 109–364, §661(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), subsections” for “Subsections”, and added par. (2).
+
 2004—Pub. L. 108–375, §651(a)(2), (4), renumbered section 2486 of this title as this section.
 
-Subsecs. (a) to (d). Pub. L. 108–375, §651(a)(5)(A), (C), added subsecs. (a) to (d), struck out former subsecs. (a) related to operation of the Defense Commissary Agency and the defense commissary system, (b) related to use of funds to cover expenses of operating commissary stores and central product processing facilities, and (c) related to supplemental funds for commissary operations. Former subsec. (d) redesignated (e). Subsecs. (a) to (d) were added before subsec. (e) notwithstanding directory language that they be added before subsec. (f), to reflect the probable intent of Congress.
+Subsecs. (a) to (c). Pub. L. 108–375, §651(a)(5)(C), as amended by Pub. L. 109–364, §1071(g)(6), added subsecs. (a) to (c).
+
+Pub. L. 108–375, §651(a)(5)(A), struck out subsecs. (a) to (c) which related to operation of the Defense Commissary Agency and the defense commissary system, use of funds to cover expenses of operating commissary stores and central product processing facilities, and supplemental funds for commissary operations, respectively.
+
+Subsec. (d). Pub. L. 108–375, §651(a)(5)(C), as amended by Pub. L. 109–364, §1071(g)(6), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 108–375, §651(a)(5)(B), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -161,6 +175,10 @@ Subsec. (f). Pub. L. 105–85, §372(d), added subsec. (f).
 1987—Pub. L. 100–180, §313(a)(2), inserted “and pricing” in section catchline.
 
 Subsec. (d). Pub. L. 100–180, §313(a)(1), added subsec. (d).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(6) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
 #### Effective Date of 2000 Amendment
 

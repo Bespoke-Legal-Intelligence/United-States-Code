@@ -6,16 +6,9 @@
 | :--- | ---: |
 | 781, 782. | Repealed. |
 | [783\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000783%20-%20Offenses.md) | Offenses. |
-| (a) | Communication of classified information by Government officer or employee. |
-| (b) | Receipt of, or attempt to receive, by foreign agent or member of Communist organization, classified information. |
-| (c) | Penalties for violation. |
-| (d) | Limitation period. |
-| (e) | Forfeiture of property. |
 | 784 to 795. Repealed. |  |
 | [796\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000796%20-%20Effect%20of%20subchapter%20on%20other%20criminal%20laws.md) | Effect of subchapter on other criminal laws. |
 | [797\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000797%20-%20Penalty%20for%20violation%20of%20security%20regulations%20and%20orders.md) | Penalty for violation of security regulations and orders. |
-| (a) | Misdemeanor violation of defense property security regulations. |
-| (b) | Posting. |
 | [798\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000798%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93199%2C%20title%20VIII%2C%20%C2%A7803%281%29%2C%20Dec.%2017%2C%201993%2C%20107%20Stat.%202329.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +17,7 @@
 
 |  |
 | :--- |
-| 811 to 826. Repealed. |
+| 811 to 826. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,8 +27,6 @@
 | :--- | ---: |
 | [831\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000831%20-%20Regulations%20for%20employment%20security.md) | Regulations for employment security. |
 | [832\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000832%20-%20Full%20field%20investigation%20and%20appraisal.md) | Full field investigation and appraisal. |
-| (a) | Conditional employment; other current security clearance; circumstances authorizing employment on temporary basis. |
-| (b) | Boards of appraisal; establishment; membership; appointment; appraisal in doubtful cases; report and recommendation; qualifications of members; Secretary's clearance contrary to board's recommendation. |
 | [833\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000833%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71633%28b%29%282%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202751.md) | Repealed. |
 | [834\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000834%20-%20%E2%80%9CClassified%20information%E2%80%9D%20defined.md) | “Classified information” defined. |
 | [835\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000835%20-%20Nonapplicability%20of%20administrative%20procedure%20provisions.md) | Nonapplicability of administrative procedure provisions. |

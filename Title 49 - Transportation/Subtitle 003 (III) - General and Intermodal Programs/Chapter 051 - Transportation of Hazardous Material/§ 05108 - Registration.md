@@ -38,7 +38,7 @@ Form, Contents, and Limitation on Filings.—(1) A registration statement under 
 
 (c)
 
-Filing.—Each person required to file a registration statement under subsection (a) shallfile the statement in accordance with regulations prescribed by the Secretary.
+Filing.—Each person required to file a registration statement under subsection (a) shall file the statement in accordance with regulations prescribed by the Secretary.
 
 (d)
 

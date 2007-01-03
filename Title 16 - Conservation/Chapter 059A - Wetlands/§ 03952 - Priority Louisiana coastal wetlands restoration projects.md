@@ -4,7 +4,7 @@
 
 #### (1) Preparation of list
 
-&emsp;Within forty-five days after November 29, 1990, the Secretary shall convene the Task Force to initiate a process to identify and prepare a list of coastal wetlands restoration projects in Louisiana to provide for the long-term conservation of such wetlands and dependent fish and wildlife populations in order of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration.
+&emsp;Within forty-five days after November 29, 1990, the Secretary shall convene the TaskForce to initiate a process to identify and prepare a list of coastal wetlands restoration projects in Louisiana to provide for the long-term conservation of such wetlands and dependent fish and wildlife populations in order of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration.
 
 #### (2) Task Force procedures
 
@@ -46,7 +46,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (3) Integration of existing plans
 
-&emsp;In developing the restoration plan, the Task Force shall seek to integrate the “Louisiana Comprehensive Coastal Wetlands Feasibility Study” conducted by the Secretary of the Army and the “Coastal Wetlands Conservationand Restoration Plan” prepared by the State of Louisiana's Wetlands Conservation and Restoration Task Force.
+&emsp;In developing the restoration plan, the Task Force shall seek to integrate the “Louisiana Comprehensive Coastal Wetlands Feasibility Study” conducted by the Secretary of the Army and the “Coastal Wetlands Conservation and Restoration Plan” prepared by the State of Louisiana's Wetlands Conservation and Restoration Task Force.
 
 #### (4) Elements of the plan
 
@@ -58,7 +58,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 &emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiana needed to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
 
-&emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating any project identified previously in lists produced and submitted under subsection (a) of this section;
+&emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating anyproject identified previously in lists produced and submitted under subsection (a) of this section;
 
 &emsp;&emsp;(E) a detailed description of each proposed coastal wetlands restoration project, including a justification for including such project on the list;
 
@@ -110,7 +110,7 @@ The Secretary shall, with the funds made available in accordance with this chapt
 
 #### (2) Federal share upon conservation plan approval
 
-&emsp;Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: <i>Provided, however</i>, that <sup>1</sup> such reversion to the lower cost share level shall not occur until the Governor has beenprovided notice of, and opportunity for hearing on, any such determination by the Secretary, the Director, and Administrator, and the State has been given ninety days from such notice or hearing to take corrective action.
+&emsp;Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: <i>Provided, however</i>, that <sup>1</sup> such reversion to the lower cost share level shall not occur until the Governor has been provided notice of, and opportunity for hearing on, any such determination by the Secretary, the Director, and Administrator, and the State has been given ninety days from such notice or hearing to take corrective action.
 
 #### (3) Form of State share
 

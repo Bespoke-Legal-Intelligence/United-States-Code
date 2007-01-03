@@ -44,7 +44,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(B) Any institution of higher education which changes ownership and any eligible institution which changes its status as a parent or subordinate institution shall, in order to participate as an eligible institution under part B or C of this subchapter, develop a Default Management Plan for approval by the Secretary and implement such Plan for two years after its change of ownership or status.
 
-&emsp;(C) This paragraph shall not apply in the case of an institution in which (i) neither the parent nor the subordinate institution has a cohort default rate in excess of 10 percent, and (ii) the new owner of such parent or subordinate institution does not, and has not, ownedany other institution with a cohort default rate in excess of 10 percent.
+&emsp;(C) This paragraph shall not apply in the case of an institution in which (i) neither the parent nor the subordinate institution has a cohort default rate in excess of 10 percent, and (ii) the new owner of such parent or subordinate institution does not, and has not, owned any other institution with a cohort default rate in excess of 10 percent.
 
 &emsp;(15) The institution acknowledges the authority of the Secretary, guaranty agencies, lenders, accrediting agencies, the Secretary of Veterans Affairs, and the State agencies under subpart 1 of part G of this subchapter to share with each other any information pertaining to the institution's eligibility to participate in programs under this subchapter and part C of subchapter I of chapter 34 of title 42 or any information on fraud and abuse.
 
@@ -82,9 +82,9 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (c) Audits; financial responsibility; enforcement of standards
 
-(1) Notwithstanding any other provisions of this subchapter and part C of subchapter I ofchapter 34 of title 42, the Secretary shall prescribe such regulations as may be necessary to provide for—
+(1) Notwithstanding any other provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall prescribe such regulations as may be necessary to provide for—
 
-&emsp;(A)(i) except as provided in clauses (ii) and (iii), a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution with regard to any funds obtained by it under this subchapter and part C of subchapter I of chapter 34 of title 42 or obtained from a student or a parent who has a loan insured or guaranteed by the Secretary under this subchapter and part C of subchapter I of chapter 34 of title 42, on at least an annual basis and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the appropriate State agency notifying the Secretary under subpart 1 of part G of this subchapter;
+&emsp;(A)(i) except as provided in clauses (ii) and (iii), a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution with regard to any funds obtained by it under this subchapter and part C of subchapter I of chapter 34 of title 42 or obtained from a student or a parent who has a loan insured or guaranteed by the Secretary under this subchapter and part C ofsubchapter I of chapter 34 of title 42, on at least an annual basis and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the appropriate State agency notifying the Secretary under subpart 1 of part G of this subchapter;
 
 &emsp;(ii) with regard to an eligible institution which is audited under chapter 75 of title 31, deeming such audit to satisfy the requirements of clause (i) for the period covered by such audit; or
 
@@ -106,7 +106,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(G) an emergency action against an institution, under which the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the institution (by registered mail, return receipt requested), withhold funds from the institution or its students and withdraw the institution's authority to obligate funds under any program under this subchapter and part C of subchapter I of chapter 34 of title 42, if the Secretary—
 
-&emsp;&emsp;(i) receives information, determined by the Secretary to be reliable, that the institution is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation,
+&emsp;&emsp;(i) receives information, determined by the Secretary to be reliable, that the institution is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under thissubchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation,
 
 &emsp;&emsp;(ii) determines that immediate action is necessary to prevent misuse of Federal funds, and
 
@@ -138,7 +138,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 > the Secretary may impose a civil penalty upon such institution of not to exceed $25,000 for each violation or misrepresentation.
 
-(ii) Any civil penalty may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the appropriateness of the penalty to the size of the institution of higher education subject to the determination, and the gravity of the violation, failure, or misrepresentation shall be considered. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the institution charged.
+(ii) Any civil penalty may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon incompromise, the appropriateness of the penalty to the size of the institution of higher education subject to the determination, and the gravity of the violation, failure, or misrepresentation shall be considered. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the institution charged.
 
 (4) The Secretary shall publish a list of State agencies which the Secretary determines to be reliable authority as to the quality of public postsecondary vocational education in their respective States for the purpose of determining eligibility for all Federal student assistance programs.
 
@@ -186,7 +186,7 @@ Subsec. (a)(15). Pub. L. 105–244, §489(a)(5), substituted “the State agenci
 
 Subsec. (a)(18). Pub. L. 105–244, §489(a)(6), amended par. (18) generally. Prior to amendment, par. (18) required institutions to cause an annual compilation to be prepared of revenues and expenses relating to men's and women's sports.
 
-Subsec. (a)(21). Pub. L. 105–244, §489(a)(7), amended par. (21) generally. Prior to amendment, par. (21) readas follows: “The institution will meet the requirements established by the Secretary, State postsecondary review entities, and accrediting agencies pursuant to part G of this subchapter.”
+Subsec. (a)(21). Pub. L. 105–244, §489(a)(7), amended par. (21) generally. Prior to amendment, par. (21) read as follows: “The institution will meet the requirements established by the Secretary, State postsecondary review entities, and accrediting agencies pursuant to part G of this subchapter.”
 
 Subsec. (a)(23). Pub. L. 105–244, §489(b)(1), added par. (23).
 
@@ -194,7 +194,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 105–244, §489(c)(1)(A), substituted “clauses 
 
 Subsec. (c)(1)(A)(iii). Pub. L. 105–244, §489(c)(1)(B), (C), added cl. (iii).
 
-Subsec. (c)(4). Pub. L. 105–244, §489(c)(2), struck out “, after consultation with each State review entity designated under subpart 1 of part G of this subchapter,” after “shall publish”.
+Subsec. (c)(4). Pub. L. 105–244, §489(c)(2), struck out “, after consultation with each State review entitydesignated under subpart 1 of part G of this subchapter,” after “shall publish”.
 
 Subsec. (c)(5). Pub. L. 105–244, §489(c)(3), substituted “State agencies notifying the Secretary” for “State review entities designated”.
 

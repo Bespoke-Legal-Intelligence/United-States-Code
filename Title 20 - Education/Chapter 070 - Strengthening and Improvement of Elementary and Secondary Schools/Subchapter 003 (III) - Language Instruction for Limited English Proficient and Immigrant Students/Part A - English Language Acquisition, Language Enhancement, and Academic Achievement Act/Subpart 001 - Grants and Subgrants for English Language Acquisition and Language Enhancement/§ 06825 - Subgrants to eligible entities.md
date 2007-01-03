@@ -38,7 +38,7 @@ An eligible entity receiving funds under section 6824(a) of this title shall use
 
 #### (d) Authorized subgrantee activities
 
-Subject to subsection (c) of this section, an eligible entity receiving funds under section 6824(a) of this title may use the funds to achieveone of the purposes described in subsection (a) of this section by undertaking one or more of the following activities:
+Subject to subsection (c) of this section, an eligible entity receiving funds under section 6824(a) of this title may use the funds to achieve one of the purposes described in subsection (a) of this section by undertaking one or more of the following activities:
 
 &emsp;(1) Upgrading program objectives and effective instruction strategies.
 

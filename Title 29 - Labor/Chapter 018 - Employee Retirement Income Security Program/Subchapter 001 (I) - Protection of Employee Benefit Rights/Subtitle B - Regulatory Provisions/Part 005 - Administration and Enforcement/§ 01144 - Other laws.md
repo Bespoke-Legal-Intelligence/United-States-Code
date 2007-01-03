@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (B) Neither an employee benefit plan described in section 1003(a) of this title, which is not exempt under section 1003(b) of this title (other than a plan established primarily for the purpose of providing death benefits), nor any trust established under such a plan, shall be deemed to be an insurance company or other insurer, bank, trust company, or investment company or to be engaged in the business of insurance or banking for purposes of any law of any State purporting to regulate insurance companies, insurance contracts, banks, trust companies, or investment companies.
 
-(3) Nothing in this section shall be construed to prohibit use by the Secretary of services or facilities of a State agency as permitted under section 1136 of this title.
+(3) Nothing in this section shall be construed to prohibit use by the Secretary of services orfacilities of a State agency as permitted under section 1136 of this title.
 
 (4) Subsection (a) of this section shall not apply to any generally applicable criminal law of a State.
 
@@ -24,7 +24,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(ii) any amendment of the Hawaii Prepaid Health Care Act enacted after September 2, 1974, to the extent it provides for more than the effective administration of such Act as in effect on such date.
 
-(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of theState of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
+(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
 
 (6)(A) Notwithstanding any other provision of this section—
 
@@ -64,13 +64,41 @@ For purposes of this section:
 
 Nothing in this subchapter shall be construed to alter, amend, modify, invalidate, impair, or supersede any law of the United States (except as provided in sections 1031 and 1137(b) of this title) or any rule or regulation issued under any such law.
 
-(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668.)
+#### (e) Automatic contribution arrangements
+
+(1) Notwithstanding any other provision of this section, this subchapter shall supersede any law of a State which would directly or indirectly prohibit or restrict the inclusion in any plan of an automatic contribution arrangement. The Secretary may prescribe regulations which would establish minimum standards that such an arrangement would be required to satisfy in order for this subsection to apply in the case of such arrangement.
+
+(2) For purposes of this subsection, the term “automatic contribution arrangement” means an arrangement—
+
+&emsp;(A) under which a participant may elect to have the plan sponsor make payments as contributions under the plan on behalf of the participant, or to the participant directly in cash,
+
+&emsp;(B) under which a participant is treated as having elected to have the plan sponsor make such contributions in an amount equal to a uniform percentage of compensation provided under the plan until the participant specifically elects not to have such contributions made (or specifically elects to have such contributions made at a different percentage), and
+
+&emsp;(C) under which such contributions are invested in accordance with regulations prescribed by the Secretary under section 1104(c)(5) of this title.
+
+(3)(A) The plan administrator of an automatic contribution arrangement shall, within a reasonable period before such plan year, provide to each participant to whom the arrangement applies for such plan year notice of the participant's rights and obligations under the arrangement which—
+
+&emsp;(i) is sufficiently accurate and comprehensive to apprise the participant of such rights and obligations, and
+
+&emsp;(ii) is written in a manner calculated to be understood by the average participant to whom the arrangement applies.
+
+(B) A notice shall not be treated as meeting the requirements of subparagraph (A) with respect to a participant unless—
+
+&emsp;(i) the notice includes an explanation of the participant's right under the arrangement not to have elective contributions made on the participant's behalf (or to elect to have such contributions made at a different percentage),
+
+&emsp;(ii) the participant has a reasonable period of time, after receipt of the notice described in clause (i) and before the first elective contribution is made, to make such election, and
+
+&emsp;(iii) the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the participant.
+
+(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668; Pub. L. 109–280, title IX, §902(f)(1), Aug. 17, 2006, 120 Stat. 1039.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(8)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–280 added subsec. (e).
 
 1998—Subsec. (b)(7). Pub. L. 105–200, §401(h)(2)(A)(ii), substituted “they apply to” for “enforced by”.
 
@@ -108,7 +136,7 @@ Amendment by Pub. L. 104–191 applicable with respect to group health plans for
 
 #### Effective Date of 1989 Amendment
 
-Section 7894(f)(2)(B) of Pub. L. 101–239 provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 301 of Public Law 97–473.”
+Section 7894(f)(2)(B) of Pub. L. 101–239 provided that: “The amendment made by this paragraph \[amendingthis section\] shall take effect as if included in section 301 of Public Law 97–473.”
 
 Section 7894(f)(3)(B) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 302 of Public Law 97–473.”
 

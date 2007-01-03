@@ -4,7 +4,7 @@ If the Secretary has not certified that the State has satisfied the conditions u
 
 &emsp;(1) such preference shall not diminish or modify the rights of the Cook Inlet Region, Incorporated (as that term is used in section 12 of the Act of January 2, 1976 (Public Law 94–204; 89 Stat. 1150)), pursuant to such section, as amended by section 606(d) of this title; <sup>1</sup> and
 
-&emsp;(2) this section shall not be construed to diminish or modify the powers of consent of the Secretary or the State under section 12(b)(8) of such Act, as amended by section 606(d)(5) of this title.<sup>1</sup>
+&emsp;(2) this section shall not be construed to diminish or modify the powers of consent of theSecretary or the State under section 12(b)(8) of such Act, as amended by section 606(d)(5) of this title.<sup>1</sup>
 
 > Any disposal under this section shall be subject to valid existing rights.
 

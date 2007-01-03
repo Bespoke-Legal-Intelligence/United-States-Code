@@ -10,17 +10,19 @@
 
 &emsp;(B) an estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for old-age, survivors, and disability insurance as shown by the records of the Commissioner on the date of the request;
 
-&emsp;(C) a separate estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for hospital insurance as shown by the records of the Commissioner on the date of the request; and
+&emsp;(C) a separate estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for hospital insurance as shown by the records of the Commissioner on the date of the request;
 
-&emsp;(D) an estimate of the potential monthly retirement, disability, survivor, and auxiliary benefits payable on the eligible individual's account together with a description of the benefits payable under the medicare program of subchapter XVIII of this chapter.
+&emsp;(D) an estimate of the potential monthly retirement, disability, survivor, and auxiliary benefits payable on the eligible individual's account together with a description of the benefits payable under the medicare program of subchapter XVIII of this chapter; and
 
-(3) For purposes of this section, the term “eligible individual” means an individual who—
+&emsp;(E) in the case of an eligible individual described in paragraph (3)(C)(ii), an explanation, in language calculated to be understood by the average eligible individual, of the operation of the provisions under sections 402(k)(5) and 415(a)(7) of this title and an explanation of the maximum potential effects of such provisions on the eligible individual's monthly retirement, survivor, and auxiliary benefits.
 
-&emsp;(A) has a social security account number,
+(3) For purposes of this section, the term “eligible individual” means an individual—
 
-&emsp;(B) has attained age 25 or over, and
+&emsp;(A) who has a social security account number,
 
-&emsp;(C) has wages or net earnings from self-employment.
+&emsp;(B) who has attained age 25 or over, and
+
+&emsp;(C)(i) who has wages or net earnings from self-employment, or (ii) with respect to whom the Commissioner has information that the pattern of wages or self-employment income indicate a likelihood of noncovered employment.
 
 #### (b) Notice to eligible individuals
 
@@ -40,21 +42,19 @@ The Commissioner shall, to the maximum extent practicable, take such steps as ar
 
 (Aug. 14, 1935, ch. 531, title XI, §1143, formerly §1142, as added Pub. L. 101–239, title X, §10308, Dec. 19, 1989, 103 Stat. 2485; renumbered §1143 and amended Pub. L. 101–508, title V, §5111(a), Nov. 5, 1990, 104 Stat. 1388–272; Pub. L. 105–78, title VI, §605, Nov. 13, 1997, 111 Stat. 1521; Pub. L. 108–203, title IV, §§419(a)–(c), 421, Mar. 2, 2004, 118 Stat. 533–535.)
 
-#### Amendment of Subsection (a)(2) and (3)
-
-<i>Pub. L. 108–203, title IV, §419(a), (b), (d), Mar. 2, 2004, 118 Stat. 533, 534, provided that,</i><i>applicable with respect to social security account statements issued on or after Jan. 1, 2007, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2), by striking “and” at the end of subparagraph (C), by striking the period and inserting “; and” in subparagraph (D), and by adding at the end the following:</i>
-
-&emsp;<i>“(E) in the case of an eligible individual described in paragraph (3)(C)(ii), an explanation, in language calculated to be understood by the average eligible individual, of the operation of the provisions under sections 402(k)(5) and 415(a)(7) of this title and an explanation of the maximum potential effects of such provisions on the eligible individual's monthly retirement, survivor, and auxiliary benefits.”; and</i>
-
-<i>(2) in subsection (a)(3), by striking “who” after “an individual” and inserting “who” before “has” in each of subparagraphs (A) and (B), by inserting “(i) who” after “(C)”, and by inserting before the period the following: “, or (ii) with respect to whom the Commissioner has information that the pattern of wages or self-employment income indicate a likelihood of noncovered employment”.</i>
-
 #### Amendments
 
 2004—Subsec. (a)(1). Pub. L. 108–203, §421(1), substituted “Commissioner of Social Security” for “Secretary”.
 
 Subsec. (a)(2)(A) to (C). Pub. L. 108–203, §421(2), substituted “Commissioner” for “Secretary”.
+
+Subsec. (a)(2)(E). Pub. L. 108–203, §419(b), added subpar. (E).
+
+Subsec. (a)(3). Pub. L. 108–203, §419(a)(1), struck out “who” after “an individual” in introductory provisions.
+
+Subsec. (a)(3)(A), (B). Pub. L. 108–203, §419(a)(1), inserted “who” before “has”.
+
+Subsec. (a)(3)(C). Pub. L. 108–203, §419(a)(2), (3), designated existing provisions as cl. (i), inserted “who” before “has wages”, and inserted “, or” and cl. (ii) before period.
 
 Subsecs. (b), (c). Pub. L. 108–203, §421(2), substituted “Commissioner” for “Secretary” wherever appearing.
 

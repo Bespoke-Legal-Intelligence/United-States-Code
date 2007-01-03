@@ -2,7 +2,7 @@
 
 #### (a) Funding level
 
-The Congress strongly urges the President to use at least $650,000,000 for fiscal year 1993 and at least $700,000,000 for fiscal year 1994 of the total amounts made available for assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] (relating to the economic support fund), assistance under the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\], assistance under the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, and assistance under the Multilateral Assistance Initiative for the Philippines, for grants for developmentally sound capital projects. Such grants may be combined with financing offered by private financial entities or other entities.
+The Congress strongly urges the President to use at least $650,000,000 for fiscal year 1993 and at least $700,000,000 for fiscal year 1994 of the total amounts made available for assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] (relating to the economic support fund), assistance under the Support for East European Democracy (SEED)Act of 1989 \[22 U.S.C. 5401 et seq.\], assistance under the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, and assistance under the Multilateral Assistance Initiative for the Philippines, for grants for developmentally sound capital projects. Such grants may be combined with financing offered by private financial entities or other entities.
 
 #### (b) Development assistance capital projects
 
@@ -12,7 +12,7 @@ Funds appropriated to carry out chapter 1 or chapter 10 of part I of the Foreign
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat.424, as amended. Chapter 10 of part I of the Act is classified generally to part X (§2293 et seq.) of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 10 of part I of the Act is classified generally to part X (§2293 et seq.) of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (a), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 

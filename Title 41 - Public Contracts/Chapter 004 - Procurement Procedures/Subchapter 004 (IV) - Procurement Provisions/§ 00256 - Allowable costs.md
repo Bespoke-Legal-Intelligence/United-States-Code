@@ -6,7 +6,7 @@ An executive agency shall require that a covered contract provide that if the co
 
 #### (b) Penalty for violation of cost principle
 
-(1) If the executive agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) of this section that defines the allowability of specific selected costs, the executive agency shall assess a penalty against the contractor in an amount equal to—
+(1) If the executive agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) of this section that defines the allowability of specific selected costs, the executive agency shallassess a penalty against the contractor in an amount equal to—
 
 &emsp;(A) the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted; plus
 
@@ -68,7 +68,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providingsimilar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
 
@@ -148,7 +148,7 @@ The regulations referred to in subsections (e) and (f)(1) of this section shall 
 
 #### (h) Contractor certification required
 
-(1) A proposal for settlement of indirect costs applicable to a covered contract shall include acertification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
+(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
 (2) An executive agency may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the agency—
 
@@ -222,7 +222,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 #### (<i>l</i>) “Covered contract” defined
 
-(1) In this section, the term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that such term does not include a fixed-price contract without cost incentives or any firm, fixed price contract for the purchase of commercial items.
+(1) In this section, the term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that such term does not include a fixed-price contract without cost incentives orany firm, fixed price contract for the purchase of commercial items.
 
 (2) Effective on October 1 of each year that is divisible by five, the amount set forth in paragraph (1) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
@@ -298,5 +298,5 @@ Definitions.—In this section:
 
 “(c)
 
-Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurredafter the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
+Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
 

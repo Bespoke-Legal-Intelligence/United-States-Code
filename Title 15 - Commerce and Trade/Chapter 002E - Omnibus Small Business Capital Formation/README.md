@@ -3,13 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [80c.](%C2%A7%2000080c%20-%20Liaison%20between%20Securities%20Exchange%20Commission%20and%20Small%20Business%20Administration.md) | Liaison between Securities Exchange Commission and Small Business Administration. |
-| (a) | Studies on needs, problems, and costs of businesses; availability. |
-| (b) | Availability of studies to Small Business Administration. |
 | 80c–1. | Annual government-business forum on capital formation. |
-| (a) | Responsibility of Securities Exchange Commission. |
-| (b) | Participation in forum planning. |
-| (c) | Preparation of statements and reports. |
-| (d) | Transmittal of proceedings and findings. |
 | 80c–2. | Authorization of appropriations. |
 | 80c–3. | Reduction of costs of small securities issues. |
 

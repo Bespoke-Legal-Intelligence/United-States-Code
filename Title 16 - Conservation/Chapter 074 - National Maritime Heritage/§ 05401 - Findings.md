@@ -2,7 +2,7 @@
 
 The Congress finds and declares the following:
 
-&emsp;(1) The United States is a nation with a rich maritime history, and it is desirable to foster in the American public a greater awarenessand appreciation of the role of maritime endeavors in our Nation's history and culture.
+&emsp;(1) The United States is a nation with a rich maritime history, and it is desirable to foster in the American public a greater awareness and appreciation of the role of maritime endeavors in our Nation's history and culture.
 
 &emsp;(2) The maritime historical and cultural foundations of the Nation should be preserved as a part of our community life and development.
 

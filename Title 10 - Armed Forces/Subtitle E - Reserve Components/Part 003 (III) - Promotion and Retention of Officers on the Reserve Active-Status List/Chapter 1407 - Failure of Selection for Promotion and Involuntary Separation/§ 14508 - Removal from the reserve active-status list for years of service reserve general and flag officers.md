@@ -10,23 +10,27 @@ Thirty-Five Years Service or Five Years in Grade.—Unless retired, transferred 
 
 (c)
 
-Retention of Brigadier Generals.—A reserve officer of the Army or Air Force in the grade of brigadier general who would otherwise be removed from an active status under subsection (a) may, in the discretion of the Secretary of the Army or the Secretary of the Air Force, as the case may be, be retained in an active status, but not later than the last day of the month in which the officer becomes 60 years of age. Not more than 10 officers of the Army and not more than 10 officers of the Air Force may be retained under this subsection at any one time.
+Retention of Brigadier Generals.—A reserve officer of the Army or Air Force in the grade of brigadier general who would otherwise be removed from an active status under subsection (a) may, in the discretion of the Secretary of the Army or the Secretary of the Air Force, as the case may be, be retained in an active status, but not later than the last day of the month in which the officer becomes 62 years of age. Not more than 10 officers of the Army and not more than 10 officers of the Air Force may be retained under this subsection at any one time.
 
 (d)
 
-Retention of Major Generals.—A reserve officer of the Army or Air Force in the grade of major general who would otherwise be removed from an active status under subsection (b) may, in the discretion of the Secretary of the Army or the Secretary of the Air Force, as the case may be, be retained in an active status, but not later than the date on which the officer becomes 62 years of age. Not more than 10 officers of the Army and not more than 10 officers of the Air Force may be retained under this subsection at any one time.
+Retention of Major Generals.—A reserve officer of the Army or Air Force in the grade of major general who would otherwise be removedfrom an active status under subsection (b) may, in the discretion of the Secretary of the Army or the Secretary of the Air Force, as the case may be, be retained in an active status, but not later than the date on which the officer becomes 64 years of age. Not more than 10 officers of the Army and not more than 10 officers of the Air Force may be retained under this subsection at any one time.
 
 (e)
 
 Exception for State Adjutants General and Assistant Adjutants General.—This section does not apply to an officer who is the adjutant general or assistant adjutant general of a State.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, §1501(b)(30), Feb. 10,1996, 110 Stat. 498; Pub. L. 105–85, div. A, title V, §521(b), Nov. 18, 1997, 111 Stat. 1734.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, §1501(b)(30), Feb. 10, 1996, 110 Stat. 498; Pub. L. 105–85, div. A, title V, §521(b), Nov. 18, 1997, 111 Stat. 1734; Pub. L. 109–364, div. A, title V, §503(e), Oct. 17, 2006, 120 Stat. 2178.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3851, 3852, 6389(f)(1), (2), 8851, and 8852 of this title, prior to repeal by Pub. L. 103–337, §§1628(4), 1629(a)(3), (c)(3).
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–364, §503(e)(1), substituted “62” for “60”.
+
+Subsec. (d). Pub. L. 109–364, §503(e)(2), substituted “64” for “62”.
 
 1997—Subsec. (c). Pub. L. 105–85 substituted “not later than the last day of the month in which the officer becomes 60 years of age” for “not later than the date on which the officer becomes 60 years of age”.
 

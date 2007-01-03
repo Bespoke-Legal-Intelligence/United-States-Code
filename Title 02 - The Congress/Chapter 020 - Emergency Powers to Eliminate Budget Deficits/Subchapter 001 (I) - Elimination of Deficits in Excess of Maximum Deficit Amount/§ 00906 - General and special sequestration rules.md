@@ -22,7 +22,7 @@ Any order issued by the President under section 904 of this title shall make the
 
 #### (1) Calculation of reduction in individual payment amounts
 
-&emsp;To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act \[42 U.S.C. 911\], OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.
+&emsp;To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act \[42 U.S.C. 911\], OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] forservices furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.
 
 #### (2) Timing of application of reductions
 
@@ -32,7 +32,7 @@ Any order issued by the President under section 904 of this title shall make the
 
 #### (B) Payment on the basis of cost reporting periods
 
-&emsp;&emsp;In the case in which payment for services of a provider of services is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) inthe same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
+&emsp;&emsp;In the case in which payment for services of a provider of services is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) in the same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
 
 #### (3) No increase in beneficiary charges in assignment-related cases
 
@@ -98,7 +98,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
-(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or accountare subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
+(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
 
 (4) Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
 
@@ -148,7 +148,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (3) Delayed reduction in outlays permissible
 
-&emsp;Notwithstanding any other provision of this title,<sup>2</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+&emsp;Notwithstanding any other provision of this title,<sup>2</sup> if an order under section 904 of this titleis issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
@@ -156,7 +156,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (5) Dairy program
 
-&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the day any sequestration order is issued under section904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
+&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the day any sequestration order is issued under section 904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
 
 #### (6) Certain authority not to be limited
 
@@ -182,7 +182,7 @@ The effects of sequestration shall be as follows:
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 
@@ -192,7 +192,7 @@ The Social Security Act, referred to in subsecs. (c), (d)(1), (2)(B), (3), and (
 
 Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 \[title III, §302\] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
 
-This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For completeclassification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -206,7 +206,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 Subsec. (a). Pub. L. 105–33, §10208(b), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “National Wool Act;”.
 
-Subsec. (b). Pub. L. 105–33, §10208\[(c)\], amended subsec. (b) generally, substituting new heading and text for former text consisting of pars. (1) to (3) relating toreductions required to be achieved from student loan programs operated under part B of title IV of the Higher Education Act of 1965 as a consequence of a sequestration order. Amendment was executed to reflect the probable intent of Congress based on language directing the general amendment of subsec. (b), appearing in the conference report for H.R. 2015, H. Rept. No. 105–217, 105th Congress, as adopted by the House of Representatives and Senate.
+Subsec. (b). Pub. L. 105–33, §10208\[(c)\], amended subsec. (b) generally, substituting new heading and text for former text consisting of pars. (1) to (3) relating to reductions required to be achieved from student loan programs operated under part B of title IV of the Higher Education Act of 1965 as a consequence of a sequestration order. Amendment was executed to reflect the probable intent of Congress based on language directing the general amendment of subsec. (b), appearing in the conference report for H.R. 2015, H. Rept. No. 105–217, 105th Congress, as adopted by the House of Representatives and Senate.
 
 Subsec. (e)(1). Pub. L. 105–33, §10208(d), substituted “shall be 2 percent.” for “shall be—” and struck out subpars. (A) and (B) which read as follows:
 

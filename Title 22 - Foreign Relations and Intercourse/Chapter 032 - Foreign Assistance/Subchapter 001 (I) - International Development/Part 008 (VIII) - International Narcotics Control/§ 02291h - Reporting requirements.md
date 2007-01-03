@@ -12,7 +12,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(C) taken legal and law enforcement measures to prevent and punish public corruption, especially by senior government officials, that facilitates the production, processing, or shipment of narcotic and psychotropic drugs and other controlled substances, or that discourages the investigation or prosecution of such acts.
 
-&emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuitof its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
+&emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuit of its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
 
 &emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
@@ -44,7 +44,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(A)(i) Which countries have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
 
-&emsp;&emsp;(ii) which countries identified pursuant to clause (i) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and
+&emsp;&emsp;(ii) which countries identified pursuant to clause (i) have not reached agreement withthe United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and
 
 &emsp;&emsp;(iii) which countries identified pursuant to clause (ii)—
 
@@ -78,6 +78,20 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 > &emsp;The report shall also detail instances of refusals to cooperate with foreign governments, and any actions taken by the United States Government and any international organization to address such obstacles, including the imposition of sanctions or penalties.
 
+&emsp;(8)(A) A separate section that contains the following:
+
+&emsp;&emsp;(i) An identification of the five countries that exported the largest amount of pseudoephedrine, ephedrine, and phenylpropanolamine (including the salts, optical isomers, or salts of optical isomers of such chemicals, and also including any products or substances containing such chemicals) during the preceding calendar year.
+
+&emsp;&emsp;(ii) An identification of the five countries that imported the largest amount of the chemicals described in clause (i) during the preceding calendar year and have the highest rate of diversion of such chemicals for use in the illicit production of methamphetamine (either in that country or in another country).
+
+&emsp;&emsp;(iii) An economic analysis of the total worldwide production of the chemicals described in clause (i) as compared to the legitimate demand for such chemicals worldwide.
+
+&emsp;(B) The identification of countries that imported the largest amount of chemicals under subparagraph (A)(ii) shall be based on the following:
+
+&emsp;&emsp;(i) An economic analysis that estimates the legitimate demand for such chemicals in such countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
+
+&emsp;&emsp;(ii) The best available data and other information regarding the production of methamphetamine in such countries and the diversion of such chemicals for use in the production of methamphetamine.
+
 #### (b) Annual reports on assistance
 
 #### (1) In general
@@ -100,17 +114,19 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
-(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724.)
+(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268.)
 
 #### References in Text
 
-Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably means section 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which is set out as a note under section 1902 of Title 46, Appendix, Shipping.
+Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably means section 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which was set out as a note under section 1902 of the former Appendix to Title 46, Shipping, prior to being repealed by Pub. L. 103–447, title I, §103(c), Nov. 2, 1994, 108 Stat. 4694.
 
 #### Prior Provisions
 
 A prior section 2291h, Pub. L. 87–195, pt. I, §489, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286, related to permissible uses of aircraft and other equipment, prior to amendment by Pub. L. 102–583, §4(f)(2), Nov. 2, 1992, 106 Stat. 4917, which also transferred subsecs. (a) and (b) to section 2291c(b) and (c) of this title, respectively, and repealed the designation, heading, and subsecs. (c) and (d).
 
 #### Amendments
+
+2006—Subsec. (a)(8). Pub. L. 109–177 added par. (8).
 
 1995—Pub. L. 104–66, §1112(c)(1), struck out “for fiscal year 1995” after “Reporting requirements” in section catchline.
 
@@ -134,13 +150,17 @@ Subsec. (d). Pub. L. 103–447, §101(f)(1)(D), redesignated subsec. (d) as (c).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Plan To Address Diversion of Precursor Chemicals
+
+Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, provided that: “In the case of each country identified pursuant to clause (i) or (ii) of section 489(a)(8)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291h(a)(8)(A)\] (as added by subsection (a)) with respect to which the President has not transmitted to Congress a certification under section 490(b) of such Act (22 U.S.C. 2291j(b)), the Secretary of State, in consultation with the Attorney General, shall, not later than 180 days after the date on which the President transmits the report required by section 489(a) of such Act (22 U.S.C. 2291h(a)), submit to Congress a comprehensive plan to address the diversion of the chemicals described in section 489(a)(8)(A)(i) of such Act to the illicit production of methamphetamine in such country or in another country, including the establishment, expansion, and enhancement of regulatory, law enforcement, and other investigative efforts to prevent such diversion.”
 
 #### Statutory References to Annual Reports, Certifications, and Definitions
 

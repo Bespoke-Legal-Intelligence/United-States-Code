@@ -10,7 +10,7 @@
 
 > of the gross revenues from each activity regulated by this chapter.
 
-(B) The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.
+(B) The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed 0.080 percent of the gross gaming revenues of all gaming operations subject to regulation under this chapter.
 
 (3) The Commission, by a vote of not less than two of its members, shall annually adopt the rate of the fees authorized by this section which shall be payable to the Commission on a quarterly basis.
 
@@ -26,9 +26,11 @@
 
 (3) The request for appropriations pursuant to paragraph (2) shall be subject to the approval of the Secretary and shall be included as a part of the budget request of the Department of the Interior.
 
-(Pub. L. 100–497, §18, Oct. 17, 1988, 102 Stat. 2484; Pub. L. 105–83, title I, §123(a)(1)–(2)(B), Nov. 14, 1997, 111 Stat. 1566.)
+(Pub. L. 100–497, §18, Oct. 17, 1988, 102 Stat. 2484; Pub. L. 105–83, title I, §123(a)(1)–(2)(B), Nov. 14, 1997, 111 Stat. 1566; Pub. L. 109–221, title III, §301(b), May 12, 2006, 120 Stat. 341.)
 
 #### Amendments
+
+2006—Subsec. (a)(2)(B). Pub. L. 109–221 added subpar. (B) and struck out former subpar. (B) which read as follows: “The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.”
 
 1997—Subsec. (a)(1). Pub. L. 105–83, §123(a)(1), substituted “gaming operation that conducts a class II or class III gaming activity” for “class II gaming activity”.
 

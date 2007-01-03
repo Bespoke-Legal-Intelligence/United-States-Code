@@ -36,13 +36,13 @@ Any plan developed under this section for the establishment of a reservation for
 
 &emsp;(4) any real property taken in trust by the Secretary for the benefit of the tribe or its members shall be subject to all rights existing at the time such property is taken in trust, including liens, outstanding Federal, State, and local taxes, mortgages, outstanding indebtedness of any kind, easements, and all other obligations, and shall be subject to foreclosure and sale in accordance with the laws of the State of Oregon;
 
-&emsp;(5) the transfer of any real property to the Secretary in trust for the benefit of the tribe or its members shall be exempt from all Federal, State, and local taxation, and all such real property shall, as of the date of such transfer, be exempt from Federal, State, and local taxation; and
+&emsp;(5) the transfer of any real property to the Secretary in trust for the benefit of the tribeor its members shall be exempt from all Federal, State, and local taxation, and all such real property shall, as of the date of such transfer, be exempt from Federal, State, and local taxation; and
 
 &emsp;(6) the State of Oregon shall have civil and criminal jurisdiction with respect to the reservation and persons on the reservation in accordance with section 1360 of title 28 and section 1162 of title 18.
 
 #### (e) Statement
 
-The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed bysubsection (c) of this section was carried out and shall include any written comments with respect to the establishment of a reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
+The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed by subsection (c) of this section was carried out and shall include any written comments with respect to the establishment of a reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
 
 (Pub. L. 95–195, §7, Nov. 18, 1977, 91 Stat. 1418.)
 

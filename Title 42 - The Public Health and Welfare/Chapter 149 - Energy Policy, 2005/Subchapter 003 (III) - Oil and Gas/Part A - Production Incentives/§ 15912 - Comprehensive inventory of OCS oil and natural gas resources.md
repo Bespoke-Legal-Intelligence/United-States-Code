@@ -16,7 +16,7 @@ The Secretary shall conduct an inventory and analysis of oil and natural gas res
 
 #### (b) Reports
 
-The Secretary shall submit a report to Congress on the inventory of estimates and theanalysis of restrictions or impediments, together with any recommendations, within 6 months of August 8, 2005. The report shall be publicly available and updated at least every 5 years.
+The Secretary shall submit a report to Congress on the inventory of estimates and the analysis of restrictions or impediments, together with any recommendations, within 6 months of August 8, 2005. The report shall be publicly available and updated at least every 5 years.
 
 (Pub. L. 109–58, title III, §357, Aug. 8, 2005, 119 Stat. 720.)
 

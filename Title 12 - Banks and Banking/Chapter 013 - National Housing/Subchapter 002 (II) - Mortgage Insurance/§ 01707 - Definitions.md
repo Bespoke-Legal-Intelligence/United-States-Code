@@ -14,7 +14,7 @@ As used in section 1709 of this title—
 
 (f) The term “child” means, with respect to a mortgagor under such section, a son, stepson, daughter, or stepdaughter of such mortgagor.
 
-(June 27, 1934, ch. 847, title II, §201, 48 Stat. 1247; Feb. 3, 1938, ch. 13, §3, 52 Stat. 9; Mar. 28, 1941, ch. 31, §4(a), 55 Stat. 61; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Pub. L. 86–70, §10(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 91–152, title IV, §403(c)(1), Dec. 24, 1969, 83 Stat. 395; Pub. L. 96–399, title III, §306, Oct. 8, 1980, 94 Stat. 1640; Pub. L. 98–181, title IV, §407(b), Nov. 30, 1983, 97 Stat. 1211; Pub. L. 104–204, title IV, §425(b), Sept. 26, 1996, 110 Stat. 2928.)
+(June 27, 1934, ch. 847, title II, §201, 48 Stat. 1247; Feb. 3, 1938, ch. 13, §3, 52 Stat. 9; Mar. 28, 1941, ch. 31, §4(a), 55 Stat. 61; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Pub. L. 86–70, §10(a), June 25, 1959,73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 91–152, title IV, §403(c)(1), Dec. 24, 1969, 83 Stat. 395; Pub. L. 96–399, title III, §306, Oct. 8, 1980, 94 Stat. 1640; Pub. L. 98–181, title IV, §407(b), Nov. 30, 1983, 97 Stat. 1211; Pub. L. 104–204, title IV, §425(b), Sept. 26, 1996, 110 Stat. 2928.)
 
 #### Amendments
 

@@ -40,7 +40,3 @@ Subsec. (e). Pub. L. 99–307, §1(5)(A)(v), added subsec. (e).
 
 1984—Subsec. (d). Pub. L. 98–364 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3318 of this title.
-

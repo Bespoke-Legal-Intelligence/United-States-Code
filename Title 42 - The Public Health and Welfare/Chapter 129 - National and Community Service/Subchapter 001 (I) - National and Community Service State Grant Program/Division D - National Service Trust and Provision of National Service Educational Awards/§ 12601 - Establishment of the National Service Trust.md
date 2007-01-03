@@ -50,3 +50,7 @@ A prior section 145 of Pub. L. 101–610 was classified to section 12575 of this
 
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
+#### Segal AmeriCorps Education Award
+
+Pub. L. 109–234, title VII, §7014, June 15, 2006, 120 Stat. 484, provided that: “Any national service educational award described in subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.), made with funds appropriated to, funds transferred to, or interest accumulated in the National Service Trust, shall hereafter be known as a ‘Segal AmeriCorps Education Award’.”
+

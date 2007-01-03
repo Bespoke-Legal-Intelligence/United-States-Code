@@ -36,7 +36,7 @@
 
 #### (c) Report on protection of human subjects; scope; submission to President, etc.
 
-The Commission shall biennially report to the President, the Congress, and appropriate Federal agencies on the protection of human subjects of biomedical and behavioral research. Each such report shall include a review of the adequacy and uniformity (1) of the rules, policies, guidelines, and regulations of all Federal agencies regarding the protection of human subjects of biomedical or behavioral research which such agencies conduct or support, and (2) of the implementation of such rules, policies, guidelines, and regulations by such agencies, and may include such recommendations for legislation and administrative action as the Commission deems appropriate.
+The Commission shall biennially report to the President, the Congress, and appropriate Federal agencies on the protection of human subjects of biomedical and behavioral research. Each such report shall include a review of theadequacy and uniformity (1) of the rules, policies, guidelines, and regulations of all Federal agencies regarding the protection of human subjects of biomedical or behavioral research which such agencies conduct or support, and (2) of the implementation of such rules, policies, guidelines, and regulations by such agencies, and may include such recommendations for legislation and administrative action as the Commission deems appropriate.
 
 #### (d) Annual report; scope; submission to President, etc.
 

@@ -44,7 +44,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 #### (5) Continuation of sugar headnote
 
-&emsp;The President is authorized to proclaim additional United States note 3 to chapter 17 of the HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
+&emsp;The President is authorized to proclaim additional United States note 3 to chapter 17 ofthe HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
 
 (Pub. L. 103–465, title IV, §404, Dec. 8, 1994, 108 Stat. 4959.)
 

@@ -18,7 +18,7 @@
 
 (2) The Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under paragraph (1). Unless selected for or serving in the grade of admiral or retired under another provision of law, an officer so retained shall be retired on July 1 of the promotion year immediately following the promotion year in which no action is taken to further retain that officer under this paragraph.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 92–451, §1(7), Oct. 2, 1972, 86 Stat. 756; Pub. L. 94–546, §1(27), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–136, §6(b), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–417, §2(9)(A), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §25(a)(2), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V,§514(c)(1), (2)(A), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–241, §5, Dec. 19, 1991, 105 Stat. 2210; Pub. L. 103–206, title II, §205(d), Dec. 20, 1993, 107 Stat. 2422.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 92–451, §1(7), Oct. 2, 1972, 86 Stat. 756; Pub. L. 94–546, §1(27), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–136, §6(b), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–417, §2(9)(A), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §25(a)(2), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), (2)(A), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–241, §5, Dec. 19, 1991, 105 Stat. 2210; Pub. L. 103–206, title II, §205(d), Dec. 20, 1993, 107 Stat. 2422.)
 
 #### Amendments
 

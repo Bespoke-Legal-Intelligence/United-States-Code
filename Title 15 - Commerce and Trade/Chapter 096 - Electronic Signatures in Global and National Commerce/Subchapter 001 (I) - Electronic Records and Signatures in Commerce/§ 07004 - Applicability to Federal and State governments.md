@@ -8,7 +8,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (1) Use of authority to interpret
 
-&emsp;Subject to paragraph (2) and subsection (c) of this section, a Federal regulatory agency orState regulatory agency that is responsible for rulemaking under any other statute may interpret section 7001 of this title with respect to such statute through—
+&emsp;Subject to paragraph (2) and subsection (c) of this section, a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret section 7001 of this title with respect to such statute through—
 
 &emsp;&emsp;(A) the issuance of regulations pursuant to a statute; or
 
@@ -40,7 +40,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (A) Accuracy, record integrity, accessibility
 
-&emsp;&emsp;Notwithstanding paragraph (2)(C)(iii), a Federal regulatory agency or State regulatory agency may interpret section 7001(d) of this title to specify performance standards to assure accuracy, record integrity, and accessibility of records that are required to be retained. Such performance standards may be specified in a manner that imposes a requirement in violation of paragraph (2)(C)(iii) if the requirement (i) serves an important governmental objective; and (ii) is substantially related to the achievement of that objective. Nothing in this paragraph shall be construed to grant any Federal regulatory agency or State regulatory agency authority to require use of a particular type of software or hardware in order to comply with section 7001(d) of this title.
+&emsp;&emsp;Notwithstanding paragraph (2)(C)(iii), a Federal regulatory agency or State regulatory agency may interpret section 7001(d) of this title to specify performance standards to assure accuracy, record integrity, and accessibility of records that are required to be retained. Such performance standards may be specified in a manner that imposes arequirement in violation of paragraph (2)(C)(iii) if the requirement (i) serves an important governmental objective; and (ii) is substantially related to the achievement of that objective. Nothing in this paragraph shall be construed to grant any Federal regulatory agency or State regulatory agency authority to require use of a particular type of software or hardware in order to comply with section 7001(d) of this title.
 
 #### (B) Paper or printed form
 

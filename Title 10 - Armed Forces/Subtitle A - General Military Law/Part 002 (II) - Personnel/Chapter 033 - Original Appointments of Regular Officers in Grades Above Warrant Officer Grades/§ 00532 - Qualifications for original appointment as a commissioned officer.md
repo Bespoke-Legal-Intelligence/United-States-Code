@@ -16,7 +16,7 @@
 
 (2) To be eligible for an original appointment as a medical officer, a doctor of osteopathy must—
 
-&emsp;(A) be a graduate of a college of osteopathy whose graduates are eligible to be licensed to practice medicine or surgery in a majority of the States;
+&emsp;(A) be a graduate of a college of osteopathy whose graduates are eligible to be licensed topractice medicine or surgery in a majority of the States;
 
 &emsp;(B) be licensed to practice medicine, surgery, or osteopathy in a State or in the District of Columbia;
 
@@ -32,7 +32,7 @@
 
 \[(e) Repealed. Pub. L. 108–375, div. A, title V, §501(a)(1), Oct. 28, 2004, 118 Stat. 1872.\]
 
-(f) The Secretary of Defense may waive the requirement of paragraph (1) of subsection (a) withrespect to a person who has been lawfully admitted to the United States for permanent residence, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title, when the Secretary determines that the national security so requires, but only for an original appointment in a grade below the grade of major or lieutenant commander.
+(f) The Secretary of Defense may waive the requirement of paragraph (1) of subsection (a) with respect to a person who has been lawfully admitted to the United States for permanent residence, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title, when the Secretary determines that the national security so requires, but only for an original appointment in a grade below the grade of major or lieutenant commander.
 
 (Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–295, §1(7), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 102–190, div. A, title V, §501, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–160, div. A, title V, §510, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 108–375, div. A, title V, §501(a)(1)–(3)(A), Oct. 28, 2004, 118 Stat. 1872; Pub. L. 109–163, div. A, title V, §534(c), Jan. 6, 2006, 119 Stat. 3248.)
 

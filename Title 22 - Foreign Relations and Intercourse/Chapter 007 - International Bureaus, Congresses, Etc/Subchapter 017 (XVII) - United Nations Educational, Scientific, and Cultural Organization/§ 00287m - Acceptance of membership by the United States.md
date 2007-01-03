@@ -16,7 +16,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 > that the wide diffusion of culture, and the education of humanity for justice and liberty and peace are indispensable to the dignity of man and constitute a sacred duty which all the nations must fulfill in a spirit of mutual assistance and concern;
 
-> that a peace based exclusively upon the political and economic arrangements of governments would not be a peace which could secure the unanimous, lasting andsincere support of the peoples of the world, and that the peace must therefore be founded, if it is not to fail, upon the intellectual and moral solidarity of mankind.
+> that a peace based exclusively upon the political and economic arrangements of governments would not be a peace which could secure the unanimous, lasting and sincere support of the peoples of the world, and that the peace must therefore be founded, if it is not to fail, upon the intellectual and moral solidarity of mankind.
 
 #### for these reasons,
 

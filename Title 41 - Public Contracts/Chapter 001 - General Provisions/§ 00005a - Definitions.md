@@ -10,7 +10,7 @@ This Act, referred to in text, means act Aug. 2, 1946, ch. 744, 60 Stat. 806. Fo
 
 #### Codification
 
-“Section 9104 of title 31” substituted in text for “section 104 of the Government Corporation Control Act, approved December 6, 1945 \[31 U.S.C. 849\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 9104 of title 31” substituted in text for “section 104 of the Government Corporation Control Act,approved December 6, 1945 \[31 U.S.C. 849\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 73b–4 of title 5 prior to the general revision and reenactment of Title 5, Government Organization and Employees by Pub. L. 89–554, Sept. 6, 1966 80 Stat. 378.
 

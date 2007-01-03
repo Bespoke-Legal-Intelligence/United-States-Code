@@ -46,7 +46,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any employer that is a member of an association hires for employment in the United States an individual and relies upon the provisions of subparagraph (A) to comply with the requirements of subsection (b) of this section and the individual is an alien not authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), the employer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
+&emsp;&emsp;&emsp;If any employer that is a member of an association hires for employment in the United States an individual and relies upon the provisions of subparagraph (A) to comply with the requirements of subsection (b) of this section and the individual is an alien not authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), theemployer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
 
 #### (ii) Rebuttal of presumption
 
@@ -130,7 +130,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) of t
 
 #### (4) Copying of documentation permitted
 
-&emsp;Notwithstanding any other provision of law, the person or entity may copy a document presented by an individual pursuant to this subsection and may retain the copy, but only (except as otherwise permitted under law) for thepurpose of complying with the requirements of this subsection.
+&emsp;Notwithstanding any other provision of law, the person or entity may copy a document presented by an individual pursuant to this subsection and may retain the copy, but only (except as otherwise permitted under law) for the purpose of complying with the requirements of this subsection.
 
 #### (5) Limitation on use of attestation form
 
@@ -266,7 +266,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;The Attorney General shall establish procedures—
 
-&emsp;&emsp;(A) for individuals and entities to file written, signed complaints respecting potential violations of subsection (a) or (g)(1) of this section,
+&emsp;&emsp;(A) for individuals and entities to file written, signed complaints respecting potentialviolations of subsection (a) or (g)(1) of this section,
 
 &emsp;&emsp;(B) for the investigation of those complaints which, on their face, have a substantial probability of validity,
 
@@ -284,7 +284,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;(C) immigration officers designated by the Commissioner may compel by subpoena the attendance of witnesses and the production of evidence at any designated place prior to the filing of a complaint in a case under paragraph (2).
 
-> &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraphand upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+> &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (3) Hearing
 
@@ -338,7 +338,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (9) Enforcement of orders
 
-&emsp;If a person or entity fails to comply with a final order issued under this subsection against the person or entity, the Attorney General shall file a suit to seek compliancewith the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
+&emsp;If a person or entity fails to comply with a final order issued under this subsection against the person or entity, the Attorney General shall file a suit to seek compliance with the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
 
 #### (f) Criminal penalties and injunctions for pattern or practice violations
 
@@ -382,7 +382,7 @@ The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug.
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–390, §1(a)(1), inserted “Such attestation may be manifested by either a hand-written or an electronic signature.” before “A person or entity has complied” in concluding provisions.
+2004—Subsec. (b)(1)(A). Pub. L. 108–390, §1(a)(1), inserted “Such attestation may be manifested by eithera hand-written or an electronic signature.” before “A person or entity has complied” in concluding provisions.
 
 Subsec. (b)(2). Pub. L. 108–390, §1(a)(2), inserted at end “Such attestation may be manifested by either a hand-written or an electronic signature.”
 
@@ -560,7 +560,7 @@ Confirmation system.—The term ‘confirmation system’ means the confirmation
 
 &emsp;“(3)
 
-References to section 274a.—Any reference in this subtitle to section 274A (or a subdivision of such section) is deemed a reference to such section (or subdivision thereof) of the Immigration and Nationality Act \[8 U.S.C. 1324a\].
+References to section 274a.—Any reference in this subtitle to section 274A (or a subdivision of suchsection) is deemed a reference to such section (or subdivision thereof) of the Immigration and Nationality Act \[8 U.S.C. 1324a\].
 
 &emsp;“(4) I–9
 
@@ -590,7 +590,7 @@ Benefit of Rebuttable Presumption.—
 
 &emsp;“(1)
 
-In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States,the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral).
+In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States, the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral).
 
 &emsp;“(2)
 
@@ -710,7 +710,7 @@ Provision of additional information.—The person or entity shall obtain from th
 
 &emsp;&emsp;“(A) the individual's social security account number, if the individual has been issued such a number, and
 
-&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), suchidentification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
+&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
 
 > &emsp;and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3).
 
@@ -1030,7 +1030,7 @@ This order is designed to promote economy and efficiency in Government procureme
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) \[now 40 U.S.C. 121(a)\] and 3 U.S.C. 301, it is hereby ordered as follows:
 
-Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agenciesshould not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens. All discretion under this Executive order shall be exercised consistent with this policy.
+Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies should not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens. All discretion under this Executive order shall be exercised consistent with this policy.
 
 (b) It remains the policy of this Administration to fully and aggressively enforce the antidiscrimination provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] to the fullest extent. Nothing in this order relieves employers from their obligation to avoid unfair immigration-related employment practices as required by the antidiscrimination provisions of section 1324(b) \[274B\] of the INA (8 U.S.C. 1324b) and all other antidiscrimination requirements of applicable law, including the requirements of 8 U.S.C. 1324b(a)(6) concerning the treatment of certain documentary practices as unfair immigration-related employment practices.
 
@@ -1060,7 +1060,7 @@ Sec. 6. Each contracting department and agency shall cooperate with and provide 
 
 Sec. 7. The Secretary of Homeland Security, the Attorney General, the Secretary of Defense, the Administrator of General Services, the Administrator of the National Aeronautics and Space Administration, and the heads of contracting departments and agencies may delegate any of their functions or duties under this order to any officer or employee of their respective agencies.
 
-Sec. 8. This order shall be implemented in a manner intended to least burden the procurement process. This order neither authorizes nor requires any additional certification provision, clause, or requirement to be included in any contract or contract solicitation.
+Sec. 8. This order shall be implemented in a manner intended to least burden the procurement process. Thisorder neither authorizes nor requires any additional certification provision, clause, or requirement to be included in any contract or contract solicitation.
 
 Sec. 9. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final agency decisions in accordance with the Administrative Procedure Act, 5 U.S.C. 701 <i>et seq.</i>
 

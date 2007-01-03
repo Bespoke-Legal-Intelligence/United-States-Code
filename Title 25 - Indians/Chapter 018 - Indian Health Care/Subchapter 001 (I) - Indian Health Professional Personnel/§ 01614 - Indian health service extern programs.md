@@ -6,7 +6,7 @@ Any individual who receives a scholarship grant pursuant to section 1613a of thi
 
 #### (b) Employment of medical and other students during nonacademic periods
 
-Any individual enrolled in a course of study in the health professions may be employed by theService during any nonacademic period of the year. Any such employment shall not exceed one hundred and twenty days during any calendar year.
+Any individual enrolled in a course of study in the health professions may be employed by the Service during any nonacademic period of the year. Any such employment shall not exceed one hundred and twenty days during any calendar year.
 
 #### (c) Employment without regard to competitive personnel system or agency personnel limitation; compensation
 
@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 102–573, §902(2)(B), substituted “Department of Health
 
 Subsec. (d). Pub. L. 102–573, §117(b)(2), struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
 
-1988—Subsec. (d). Pub. L. 100–713 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purpose of this section: $600,000 for fiscal year 1978, $800,000 for fiscal year 1979, and $1,000,000 for fiscal year 1980. There are authorized to be appropriated to carry out this section $990,000 for the fiscal year ending September 30, 1981, $1,140,000 for the fiscal year ending September 30, 1982, $1,310,000 for the fiscal year ending September 30, 1983, and $1,510,000 for the fiscal year ending September 30, 1984.”
+1988—Subsec. (d). Pub. L. 100–713 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purpose of this section: $600,000 for fiscal year 1978, $800,000 for fiscal year 1979, and $1,000,000 for fiscal year 1980. There are authorized to be appropriated to carryout this section $990,000 for the fiscal year ending September 30, 1981, $1,140,000 for the fiscal year ending September 30, 1982, $1,310,000 for the fiscal year ending September 30, 1983, and $1,510,000 for the fiscal year ending September 30, 1984.”
 
 1980—Subsec. (d). Pub. L. 96–537 substituted provisions authorizing appropriations of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriation of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
 

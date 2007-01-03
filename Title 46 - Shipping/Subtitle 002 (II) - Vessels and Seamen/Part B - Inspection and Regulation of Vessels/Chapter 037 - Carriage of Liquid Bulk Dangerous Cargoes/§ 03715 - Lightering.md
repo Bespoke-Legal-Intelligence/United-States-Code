@@ -4,7 +4,7 @@
 
 &emsp;(1) the transfer was conducted consistent with regulations prescribed by the Secretary;
 
-&emsp;(2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States; and
+&emsp;(2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States; and <sup>1</sup>
 
 &emsp;(3) the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
 
@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 Section 3715 requires the Secretary to control lightering operations; that is, the transferring of cargoes at sea from large deep-draft vessels to shallow-draft vessels for subsequent transfer to shoreside terminals due to the inability of the larger tank vessels to enter shallow ports. It prohibits a tank vessel from unloading any cargo of oil or hazardous material at any port or terminal under the jurisdiction of the United States, unless the cargo has been transferred in accordance with lightering regulations. It also prohibits the shoreside transfer unless both the delivering and receiving vessels involved in the prior lightering had on board at the time of the offshore transfer, the certificates that would have been required had the transfer taken place in a port or place subject to the jurisdiction of the United States.
 
-The regulations to be prescribed by the Secretary shall include a number of specific considerations but may include any related matters deemed necessary to promote navigation and vessel safety and protection of the marine environment. The Secretary must consider standards for minimum safe operating conditions, including sea state, wave height, weather, vessel traffic, the prevention of oil spills, and oil spill response equipment. In regulating this operation, there must not be any unreasonable interference with international navigation or reasonable uses of the high seas, and there must be established lightering zones with attendant communications and prearrival message requirements.
+The regulations to be prescribed by the Secretary shall include a number of specific considerations but may include any related matters deemed necessary to promote navigation and vessel safety and protection ofthe marine environment. The Secretary must consider standards for minimum safe operating conditions, including sea state, wave height, weather, vessel traffic, the prevention of oil spills, and oil spill response equipment. In regulating this operation, there must not be any unreasonable interference with international navigation or reasonable uses of the high seas, and there must be established lightering zones with attendant communications and prearrival message requirements.
 
 #### References in Text
 
@@ -56,9 +56,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Effective Date
 
-Section 2(g)(2) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Section 3715(a) of title 46 (as enacted by section 1 of this Act) is effective on the day after the effective date of the regulations prescribed by the Secretary under section 3715(b) of title 46.” \[Regulations effective Apr. 26, 1984, see 49 F.R. 11170, Mar. 26, 1984.\]
+Pub. L. 98–89, §2(g)(2), Aug. 26, 1983, 97 Stat. 599, provided that: “Section 3715(a) of title 46 (as enacted by section 1 of this Act) is effective on the day after the effective date of the regulations prescribed by the Secretary under section 3715(b) of title 46.” \[Regulations effective Apr. 26, 1984, see 49 F.R. 11170, Mar. 26, 1984.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3703a of this title.
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

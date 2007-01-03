@@ -56,7 +56,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (C) Consortium
 
-&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection\(e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
+&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection (e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
 
 #### (D) Application of criteria to other programs
 
@@ -202,7 +202,7 @@ In this section:
 
 &emsp;&emsp;If amounts appropriated under paragraph (1) for a fiscal year exceed $24,000,000 but are less than $30,000,000—
 
-&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) of this section to health professions schools that meet the requirements described in paragraph (3) or (4) ofsubsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section); and
+&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) of this section to health professions schools that meet the requirements described in paragraph (3) or (4) of subsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section); and
 
 &emsp;&emsp;&emsp;(ii) 20 percent of such excess amount shall be made available for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(5) of this section.
 
@@ -248,7 +248,7 @@ A prior section 736 of act July 1, 1944, was classified to section 294i of this 
 
 #### Savings Provision
 
-Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
+Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority formaking awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

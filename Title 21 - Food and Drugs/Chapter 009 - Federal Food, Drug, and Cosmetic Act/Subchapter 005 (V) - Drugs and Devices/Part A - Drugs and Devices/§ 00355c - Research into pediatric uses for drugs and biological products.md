@@ -96,7 +96,7 @@
 
 #### (1) In general
 
-&emsp;After providing notice in the form of a letter and an opportunity for written response and a meeting, which may include an advisory committee meeting, the Secretary may (by order in the form of a letter) require the holder of an approved application for a drug under section 355 of this title or the holder of a license for a biological product under section 262 of title 42 to submit by a specified date the assessments described in subsection (a)(2) of this section if the Secretary finds that—
+&emsp;After providing notice in the form of a letter and an opportunity for written response and a meeting, which may include an advisory committee meeting, the Secretary may (by order in the form of a letter) require the holder of an approved application for a drug under section355 of this title or the holder of a license for a biological product under section 262 of title 42 to submit by a specified date the assessments described in subsection (a)(2) of this section if the Secretary finds that—
 
 &emsp;&emsp;(A)(i) the drug or biological product is used for a substantial number of pediatric patients for the labeled indications; and
 

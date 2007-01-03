@@ -22,33 +22,5 @@ The words “upon military reservations or elsewhere” are omitted as surplusag
 
 #### Authorization for Instruction of Civilian Students at Foreign Language Center of Defense Language Institute
 
-Pub. L. 103–337, div. A, title V, §559, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–201, div. A, title III, §371, Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. A, title X, §1073(c)(3), Nov. 18, 1997, 111 Stat. 1904, provided that:
-
-“(a)
-
-Admission of Civilians as Students.—(1) The Secretary of the Army may enter into an agreement with an accredited institution of higher education (or a consortium of such institutions) under which students enrolled at an institution of higher education that is a party to the agreement may receive instruction at the Foreign Language Center of the Defense Language Institute on a space-available basis.
-
-“(2) The Secretary may also permit other persons who would benefit from the instruction provided at the Center, as determined by the Secretary, to receive instruction at the Center on a cost-reimbursable, space-available basis.
-
-“(b)
-
-Selection and Attendance.—(1) The Secretary shall select the persons who will be permitted to receive instruction at the Center pursuant to subsection (a). In the case of agreements under subsection (a)(1), the Secretary shall consult with the other parties to the agreements to establish qualifications and methods of selection for persons to receive instruction at the Center.
-
-“(2) Except as the Secretary determines necessary, a person who receives instruction at the Center pursuant to subsection (a) shall be subject to the same regulations governing attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
-
-“(c)
-
-Reimbursement Options for Certain Instruction.—In the case of instruction provided to students described in subsection (a)(1), the Secretary may provide the instruction on a cost-reimbursable basis, a reimbursement-in-kind basis, or a combination of both options. Regardless of the reimbursement option, the value of the reimbursement received under this subsection may not be less than the amount charged for providing language instruction to Federal employees who are not Department of Defense employees. The Secretary may not delegate the authority to accept an offer for in-kind reimbursement below the level of the Assistant Secretary of the Army.
-
-“(d)
-
-Retention of Funds.—Amounts collected under subsection (a) or (c) to reimburse the Center for the costs of providing instruction to students under subsection (a) shall be credited to funds available for compensation of instructors at the Center and to defray direct civilian student costs to the school.
-
-“(e)
-
-Center Defined.—For purposes of this section, the term ‘Center’ means the Foreign Language Center of the Defense Language Institute.
-
-“(f)
-
-Expiration of Authority.—No student may be admitted to the Center under subsection (a) to commence a program of instruction beginning after September 30, 1997.”
+Pub. L. 103–337, div. A, title V, §559, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–201, div. A, title III, §371, Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. A, title X, §1073(c)(3), Nov. 18, 1997, 111 Stat. 1904, authorized the Secretary of the Army to enter into an agreement with an accredited institution of higher education (or a consortium of such institutions) under which students enrolled at an institution of higher education that was a party to the agreement could receive instruction at the Foreign Language Center of the Defense Language Institute on a space-available basis and to permit other persons who would benefit from the instruction provided at the Center to receive instruction at the Center on a cost-reimbursable, space-available basis, provided that no student could be admitted to the Center to commence a program of instruction beginning after Sept. 30, 1997.
 

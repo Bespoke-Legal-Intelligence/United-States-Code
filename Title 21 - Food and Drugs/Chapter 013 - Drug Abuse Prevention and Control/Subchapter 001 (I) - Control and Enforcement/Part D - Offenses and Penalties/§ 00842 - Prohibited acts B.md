@@ -22,15 +22,25 @@ It shall be unlawful for any person—
 
 &emsp;(9) who is a regulated person to engage in a regulated transaction without obtaining the identification required by 830(a)(3) of this title.<sup>1</sup>
 
-&emsp;(10) negligently to fail to keep a record or make a report under section 830 of this title; or
+&emsp;(10) negligently to fail to keep a record or make a report under section 830 of this title;
 
-&emsp;(11) to distribute a laboratory supply to a person who uses, or attempts to use, that laboratory supply to manufacture a controlled substance or a listed chemical, in violation of this subchapter or subchapter II of this chapter, with reckless disregard for the illegal uses to which such a laboratory supply will be put.
+&emsp;(11) to distribute a laboratory supply to a person who uses, or attempts to use, that laboratory supply to manufacture a controlled substance or a listed chemical, in violation of this subchapter or subchapter II of this chapter, with reckless disregard for the illegal uses to which such a laboratory supply will be put;
+
+&emsp;(12) who is a regulated seller, or a distributor required to submit reports under subsection (b)(3) of section 830 of this title—
+
+&emsp;&emsp;(A) to sell at retail a scheduled listed chemical product in violation of paragraph (1) of subsection (d) of such section, knowing at the time of the transaction involved (independent of consulting the logbook under subsection (e)(1)(A)(iii) of such section) that the transaction is a violation; or
+
+&emsp;&emsp;(B) to knowingly or recklessly sell at retail such a product in violation of paragraph (2) of such subsection (d);
+
+&emsp;(13) who is a regulated seller to knowingly or recklessly sell at retail a scheduled listed chemical product in violation of subsection (e) of such section; or
+
+&emsp;(14) who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of section 830(e)(1) of this title, information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities.
 
 > As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer.
 
 #### (b) Manufacture
 
-It shall be unlawful for any person who is a registrant to manufacture a controlled substance in schedule I or II which is—
+It shall be unlawful for any person who is a registrant to manufacture a controlled substance in schedule I or II, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical, which is—
 
 &emsp;(1) not expressly authorized by his registration and by a quota assigned to him pursuant to section 826 of this title; or
 
@@ -50,13 +60,23 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (3) Except under the conditions specified in paragraph (2) of this subsection, a violation of this section does not constitute a crime, and a judgment for the United States and imposition of a civil penalty pursuant to paragraph (1) shall not give rise to any disability or legal disadvantage based on conviction for a criminal offense.
 
-(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809.)
+(4)(A) If a regulated seller, or a distributor required to submit reports under section 830(b)(3) of this title, violates paragraph (12) of subsection (a) of this section, or if a regulated seller violates paragraph (13) of such subsection, the Attorney General may by order prohibit such seller or distributor (as the case may be) from selling any scheduled listed chemical product. Any sale of such a product in violation of such an order is subject to the same penalties as apply under paragraph (2).
+
+(B) An order under subparagraph (A) may be imposed only through the same procedures as apply under section 824(c) of this title for an order to show cause.
+
+(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264.)
 
 #### References in Text
 
 Schedules I and II, referred to in subsec. (b), are set out in section 812(c) of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(12) to (14). Pub. L. 109–177, §711(f)(1)(A), added pars. (12) to (14).
+
+Subsec. (b). Pub. L. 109–177, §714, inserted “, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical,” after “manufacture a controlled substance in schedule I or II” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 109–177, §711(f)(2), added par. (4).
 
 2002—Subsec. (c)(2)(A). Pub. L. 107–273, §4002(d)(2)(B)(i), substituted “under title 18” for “of not more than $25,000”.
 

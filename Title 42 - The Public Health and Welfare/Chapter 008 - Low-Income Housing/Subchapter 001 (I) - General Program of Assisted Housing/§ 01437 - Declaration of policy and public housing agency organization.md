@@ -152,7 +152,7 @@ Section 527 of Pub. L. 101–625 provided that: “In accordance with section 20
 
 #### Applicability of 1989 Amendments; Indian Housing
 
-Pub. L. 101–235, title I, §101(d), Dec. 15, 1989, 103 Stat. 1990, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) of this section \[amending section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 101–235, title I, §101(d), Dec. 15, 1989, 103 Stat. 1990, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937\[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) of this section \[amending section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
 Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by subsection (a) \[amending section 1439 of this title\] and the provisions of subsection (b) of this section \[set out as an Effective Date of 1989 Amendment note under section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 

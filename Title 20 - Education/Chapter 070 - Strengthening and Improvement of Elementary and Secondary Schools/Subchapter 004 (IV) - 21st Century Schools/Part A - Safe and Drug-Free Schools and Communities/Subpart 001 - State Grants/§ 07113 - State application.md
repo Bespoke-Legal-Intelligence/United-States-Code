@@ -18,7 +18,7 @@ In order to receive an allotment under section 7111(b) of this title for any fis
 
 &emsp;(7) provides an assurance that the local educational agencies in the State will comply with the provisions of section 7881 of this title pertaining to the participation of private school children and teachers in the programs and activities under this subpart;
 
-&emsp;(8) provides an assurance that funds under this subpart will be used to increase the level of State, local, and other non-Federal fundsthat would, in the absence of funds under this subpart, be made available for programs and activities authorized under this subpart, and in no case supplant such State, local, and other non-Federal funds;
+&emsp;(8) provides an assurance that funds under this subpart will be used to increase the level of State, local, and other non-Federal funds that would, in the absence of funds under this subpart, be made available for programs and activities authorized under this subpart, and in no case supplant such State, local, and other non-Federal funds;
 
 &emsp;(9) contains the results of a needs assessment conducted by the State for drug and violence prevention programs, which shall be based on ongoing State evaluation activities, including data on—
 
@@ -92,7 +92,7 @@ In order to receive an allotment under section 7111(b) of this title for any fis
 
 #### (4) Response
 
-&emsp;If the State educational agency and the chief executive officer of the State respond tothe Secretary's notification described in paragraph (3)(B) during the 45-day period beginning on the date on which the agency received the notification, and resubmit the application with the requested information described in paragraph (3)(B)(ii), the Secretary shall approve or disapprove such application prior to the later of—
+&emsp;If the State educational agency and the chief executive officer of the State respond to the Secretary's notification described in paragraph (3)(B) during the 45-day period beginning on the date on which the agency received the notification, and resubmit the application with the requested information described in paragraph (3)(B)(ii), the Secretary shall approve or disapprove such application prior to the later of—
 
 &emsp;&emsp;(A) the expiration of the 45-day period beginning on the date on which the application is resubmitted; or
 

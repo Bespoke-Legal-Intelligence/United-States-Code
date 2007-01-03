@@ -42,7 +42,7 @@ Relative rate of labor force.—The relative rate of the labor force unemployed 
 
 &emsp;&emsp;(A) the numerator is the percentage of the labor force of the State that is unemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes); and
 
-&emsp;&emsp;(B) the denominator is the percentage of the labor force of the United States that is unemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes).
+&emsp;&emsp;(B) the denominator is the percentage of the labor force of the United States that isunemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes).
 
 (c)
 
@@ -62,7 +62,7 @@ Alternative Formula.—For the payment period beginning October 1, 1994, the amo
 
 &emsp;(3) $600,000,000 were allocated among the States on the basis of income tax collections by allocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as the income tax amount of the State (determined under subsection (d)(1)) bears to the sum of the income tax amounts of all States;
 
-&emsp;(4) $600,000,000 were allocated among the States on the basis of general tax effort by allocating to each State an amount bearing the same ratio to the total amount to be allocatedunder this paragraph as the general tax effort amount of the State (determined under subsection (d)(2)) bears to the sum of the general tax effort amounts of all States;
+&emsp;(4) $600,000,000 were allocated among the States on the basis of general tax effort by allocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as the general tax effort amount of the State (determined under subsection (d)(2)) bears to the sum of the general tax effort amounts of all States;
 
 &emsp;(5) $600,000,000 were allocated among the States on the basis of unemployment by allocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as—
 

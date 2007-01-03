@@ -4,5 +4,5 @@ Section, act June 25, 1938, ch. 675, §604, 52 Stat. 1055, directed Secretary to
 
 #### Effective Date of Repeal
 
-Repeal effective July 12, 1960, subject to the provisions of section 203 of Pub. L. 86–618, see section 202 ofPub. L. 86–618, set out as an Effective Date of 1960 Amendment note under section 379e of this title.
+Repeal effective July 12, 1960, subject to the provisions of section 203 of Pub. L. 86–618, see section 202 of Pub. L. 86–618, set out as an Effective Date of 1960 Amendment note under section 379e of this title.
 

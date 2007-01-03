@@ -18,7 +18,7 @@
 
 I74legislative statements
 
-Section 1173 of the House amendment concerns confirmation of a plan of railroad reorganization and is derived from section 1172 of the House bill as modified. In particular, section 1173(a)(3) of the House amendment is derived from section 1170(3) of the Senate amendment.Section 1173(b) is derived from section 1173(a)(8) of the Senate amendment.
+Section 1173 of the House amendment concerns confirmation of a plan of railroad reorganization and is derived from section 1172 of the House bill as modified. In particular, section 1173(a)(3) of the House amendment is derived from section 1170(3) of the Senate amendment. Section 1173(b) is derived from section 1173(a)(8) of the Senate amendment.
 
 #### senate report no. 95–989
 

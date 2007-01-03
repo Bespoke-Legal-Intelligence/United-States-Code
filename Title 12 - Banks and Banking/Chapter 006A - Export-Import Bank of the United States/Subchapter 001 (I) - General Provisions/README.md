@@ -17,6 +17,7 @@
 - [&sect; 00635e - Aggregate loan, guarantee, and insurance authority](%C2%A7%2000635e%20-%20Aggregate%20loan%2C%20guarantee%2C%20and%20insurance%20authority.md)
 - [&sect; 00635f - Termination date of Bank's functions; exceptions; liquidation](%C2%A7%2000635f%20-%20Termination%20date%20of%20Bank%27s%20functions%3B%20exceptions%3B%20liquidation.md)
 - [&sect; 00635g - Report to Congress; time for submission; contents](%C2%A7%2000635g%20-%20Report%20to%20Congress%3B%20time%20for%20submission%3B%20contents.md)
+- [&sect; 00635g&#8211;1 - Annual competitiveness report](%C2%A7%2000635g%E2%80%931%20-%20Annual%20competitiveness%20report.md)
 - [&sect; 00635h - Exemption from prohibition of section 955 of title 18](%C2%A7%2000635h%20-%20Exemption%20from%20prohibition%20of%20section%20955%20of%20title%2018.md)
 - [&sect; 00635i to 635i&#8211;2 - Repealed. Pub. L. 102&#8211;429, title I, &sect;121(c)(1), Oct. 21, 1992, 106 Stat. 2199](%C2%A7%2000635i%20to%20635i%E2%80%932%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93429%2C%20title%20I%2C%20%C2%A7121%28c%29%281%29%2C%20Oct.%2021%2C%201992%2C%20106%20Stat.%202199.md)
 - [&sect; 00635i&#8211;3 - Tied Aid Credit Fund and program](%C2%A7%2000635i%E2%80%933%20-%20Tied%20Aid%20Credit%20Fund%20and%20program.md)

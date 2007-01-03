@@ -60,7 +60,7 @@ In this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000,114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 Part D of this subchapter, referred to in par. (1), probably should be a reference to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
 

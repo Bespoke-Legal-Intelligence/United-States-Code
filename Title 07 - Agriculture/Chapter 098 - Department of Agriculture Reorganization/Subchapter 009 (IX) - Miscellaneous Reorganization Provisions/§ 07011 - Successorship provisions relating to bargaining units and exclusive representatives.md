@@ -36,7 +36,7 @@
 
 #### (C) Clarification
 
-&emsp;&emsp;The certification of a unit under paragraph (1) shall not, for purposes of the last sentence of section 7111(b) of title 5 or section 7111(f)(4) of such title, be treated as if it had occurred pursuant to an election.
+&emsp;&emsp;The certification of a unit under paragraph (1) shall not, for purposes of the lastsentence of section 7111(b) of title 5 or section 7111(f)(4) of such title, be treated as if it had occurred pursuant to an election.
 
 #### (3) Delegation
 
@@ -60,5 +60,5 @@ For purposes of this section, the term “affected party” means—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994.For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

@@ -14,7 +14,7 @@ Except for disposals made under the authority of paragraph (3), (4), or (5) of s
 
 There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
 
-(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962.)
+(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat.381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962.)
 
 #### Prior Provisions
 
@@ -54,7 +54,7 @@ Functions of President under this section delegated to Secretary of Defense by s
 
 #### Prohibition of Reductions in Stockpile Goals
 
-Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by Pub. L. 99–661, div. C, title II, §3201,Nov. 14, 1986, 100 Stat. 4067, prohibited action before Oct. 1, 1987, to implement or administer any change in a stockpile goal in effect on Oct. 1, 1984, that would result in a reduction in the quality or quantity of any strategic and critical material acquired for the National Defense Stockpile.
+Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by Pub. L. 99–661, div. C, title II, §3201, Nov. 14, 1986, 100 Stat. 4067, prohibited action before Oct. 1, 1987, to implement or administer any change in a stockpile goal in effect on Oct. 1, 1984, that would result in a reduction in the quality or quantity of any strategic and critical material acquired for the National Defense Stockpile.
 
 #### Materials in the National Defense Stockpile
 
@@ -74,11 +74,11 @@ Pub. L. 106–31, title I, §303, May 21, 1999, 113 Stat. 67.
 
 Pub. L. 105–262, title VIII, §8109, Oct. 17, 1998, 112 Stat. 2322.
 
-Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 108–375, div. C, title XXXIII, §3302, Oct. 28, 2004, 118 Stat. 2193; Pub. L. 109–163, div. C, title XXXIII, §3302(a), Jan. 6, 2006, 119 Stat. 3545.
+Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 108–375, div. C, title XXXIII, §3302, Oct. 28, 2004, 118 Stat. 2193; Pub. L. 109–163, div. C, title XXXIII, §3302(a), Jan. 6, 2006, 119 Stat. 3545; Pub. L. 109–364, div. C, title XXXIII, §3302(a), Oct. 17, 2006, 120 Stat. 2513.
 
-Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973; Pub. L. 107–107, div. C, title XXXIII, §§3304(b), 3305, Dec. 28, 2001, 115 Stat. 1390.
+Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973; Pub. L. 107–107, div. C, title XXXIII, §§3304(b), 3305, Dec. 28, 2001, 115 Stat. 1390; Pub. L. 109–364, div. C, title XXXIII, §3302(b), Oct. 17, 2006, 120 Stat. 2513.
 
-Pub. L. 104–201, div. C, title XXXIII, §§3301, 3303, Sept. 23, 1996, 110 Stat. 2854, 2855; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(1), 3403(c), Oct. 5, 1999, 113 Stat. 973, 974; Pub. L. 107–107, div. C, title XXXIII, §3304(c), Dec. 28, 2001, 115 Stat. 1390.
+Pub. L. 104–201, div. C, title XXXIII, §§3301, 3303, Sept. 23, 1996, 110 Stat. 2854, 2855; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(1), 3403(c), Oct. 5, 1999, 113 Stat. 973, 974; Pub. L. 107–107, div. C, title XXXIII, §3304(c), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 109–364, div. C, title XXXIII, §3302(c), Oct. 17, 2006, 120 Stat. 2513.
 
 Pub. L. 103–337, div. C, title XXXIII, §3304, Oct. 5, 1994, 108 Stat. 3098.
 
@@ -130,5 +130,5 @@ Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Fac
 
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations
 
-Cancellation of obligation of General Services Administration to Federal Facilities Corporation existingby virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, set out as a note under sections 1921 to 1929 of the Appendix to this title.
+Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, set out as a note under sections 1921 to 1929 of the Appendix to this title.
 

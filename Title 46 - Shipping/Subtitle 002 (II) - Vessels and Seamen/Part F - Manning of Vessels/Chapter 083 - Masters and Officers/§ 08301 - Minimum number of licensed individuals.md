@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 104–324, §1104(d), amended subsec. (e) generally. Prior 
 
 1986—Subsec. (c). Pub. L. 99–640 inserted “, a mobile offshore drilling unit when on location,”.
 
-1984—Subsec. (a). Pub. L. 98–557, §29(c), in provisions preceding par. (1) inserted exception for the Great Lakes and substituted provisions relating to inspection under chapter 33 of this title for provisions relating to applicability of part B of this subtitle.
+1984—Subsec. (a). Pub. L. 98–557, §29(c), in provisions preceding par. (1) inserted exception for the Great Lakes and substituted provisions relating to inspectionunder chapter 33 of this title for provisions relating to applicability of part B of this subtitle.
 
 Subsec. (a)(1). Pub. L. 98–557, §29(d), inserted “propelled by machinery or carrying passengers”.
 

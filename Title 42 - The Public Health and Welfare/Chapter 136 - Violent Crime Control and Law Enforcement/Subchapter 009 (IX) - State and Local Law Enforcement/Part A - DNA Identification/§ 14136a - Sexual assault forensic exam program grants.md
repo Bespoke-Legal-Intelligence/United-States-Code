@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall make grants to eligible entities to provide training, technical assistance, education, equipment, and information relating to the identification, collection, preservation, analysis, and use of DNA samples and DNA evidence by medical personnel and other personnel, including doctors, medical examiners, coroners, nurses, victim service providers, and other professionals involved in treating victims of sexual assault and sexual assault examinationprograms, including SANE (Sexual Assault Nurse Examiner), SAFE (Sexual Assault Forensic Examiner), and SART (Sexual Assault Response Team).
+The Attorney General shall make grants to eligible entities to provide training, technical assistance, education, equipment, and information relating to the identification, collection, preservation, analysis, and use of DNA samples and DNA evidence by medical personnel and other personnel, including doctors, medical examiners, coroners, nurses, victim service providers, and other professionals involved in treating victims of sexual assault and sexual assault examination programs, including SANE (Sexual Assault Nurse Examiner), SAFE (Sexual Assault Forensic Examiner), and SART (Sexual Assault Response Team).
 
 #### (b) Eligible entity
 

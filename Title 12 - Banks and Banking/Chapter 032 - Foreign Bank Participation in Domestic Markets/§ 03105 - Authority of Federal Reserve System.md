@@ -2,7 +2,7 @@
 
 #### (a) Bank reserves
 
-(1)(A) Except as provided in paragraph (2) of this subsection, sections 371a, 371b, 371b–1,<sup>1</sup> 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agency that the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
+(1)(A) Except as provided in paragraph (2) of this subsection, sections 371a, 371b, 371b–1,<sup>1</sup> 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agencythat the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
 
 (B) After consultation and in cooperation with the State bank supervisory authorities, the Board may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.
 
@@ -42,7 +42,7 @@
 
 #### (2) Reporting requirements
 
-&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposedunder section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
+&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposed under section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
 
 #### (d) Establishment of foreign bank offices in United States
 
@@ -108,7 +108,7 @@
 
 #### (B) Failure to submit information
 
-&emsp;&emsp;The Board may deny any application if it does not receive information requested from the applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit theBoard to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).
+&emsp;&emsp;The Board may deny any application if it does not receive information requested from the applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit the Board to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).
 
 #### (C) Waiver
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;(C) against which the Comptroller of the Currency has issued an order under section 3102(i) of this title,
 
-> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company thathas been required by such order to terminate its activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
+> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company that has been required by such order to terminate its activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
 
 #### (2) Scope of judicial review
 

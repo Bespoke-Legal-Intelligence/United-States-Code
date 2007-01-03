@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title44",
- "package": "USCODE-2005-title44",
+ "package": "USCODE-2006-title44",
  "pieces": [
   {
    "id": "44_",
@@ -894,14 +894,10 @@
    "id": "44_733",
    "marks": [
     [
-     "I",
+     "L",
      10,
-     [
-      [
-       90,
-       "[Page 25]"
-      ]
-     ]
+     "[Page 25]",
+     true
     ]
    ],
    "path": "Chapter 007 - Congressional Printing and Binding/§ 00733 - Documents and reports ordered by Members of Congress; franks and envelopes for Members of Congress.md",
@@ -954,7 +950,7 @@
      2,
      [
       [
-       186,
+       329,
        "[Page 26]"
       ]
      ]
@@ -997,10 +993,14 @@
    "id": "44_-ch9",
    "marks": [
     [
-     "L",
-     9,
-     "[Page 27]",
-     true
+     "I",
+     11,
+     [
+      [
+       58,
+       "[Page 27]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Congressional Record/README.md",
@@ -1050,7 +1050,7 @@
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 28]",
      true
     ]
@@ -1065,20 +1065,20 @@
    "id": "44_906",
    "marks": [
     [
-     "L",
-     78,
-     "[Page 29]",
-     true
-    ],
-    [
      "I",
-     128,
+     78,
      [
       [
-       214,
-       "[Page 30]"
+       137,
+       "[Page 29]"
       ]
      ]
+    ],
+    [
+     "L",
+     130,
+     "[Page 30]",
+     true
     ]
    ],
    "path": "Chapter 009 - Congressional Record/§ 00906 - Congressional Record gratuitous copies; delivery.md",
@@ -1095,7 +1095,7 @@
      2,
      [
       [
-       957,
+       1244,
        "[Page 31]"
       ]
      ]
@@ -1139,10 +1139,10 @@
    "marks": [
     [
      "I",
-     13,
+     16,
      [
       [
-       136,
+       58,
        "[Page 32]"
       ]
      ]
@@ -1195,7 +1195,7 @@
    "marks": [
     [
      "L",
-     4,
+     10,
      "[Page 33]",
      true
     ]
@@ -1250,7 +1250,7 @@
      2,
      [
       [
-       556,
+       840,
        "[Page 34]"
       ]
      ]
@@ -1302,14 +1302,10 @@
    "id": "44_1115",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       271,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 35]",
+     true
     ]
    ],
    "path": "Chapter 011 - Executive and Judiciary Printing and Binding/§ 01115 - Annual reports time of delivery by Public Printer to Congress.md",
@@ -1377,7 +1373,7 @@
    "marks": [
     [
      "L",
-     10,
+     12,
      "[Page 36]",
      true
     ]
@@ -1411,7 +1407,7 @@
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 37]",
      true
     ]
@@ -1519,10 +1515,14 @@
    "id": "44_1310",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 40]",
-     true
+     "I",
+     14,
+     [
+      [
+       418,
+       "[Page 40]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01310 - Commerce Department navigation and weather information.md",
@@ -1589,14 +1589,10 @@
    "id": "44_1317",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       112,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 41]",
+     true
     ]
    ],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01317 - Foreign Relations.md",
@@ -1625,30 +1621,26 @@
   },
   {
    "id": "44_1320",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 42]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01320 - Geological Survey distribution of publications to public libraries.md",
    "printed_pages": [
     41,
-    41
+    42
    ]
   },
   {
    "id": "44_1320A",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       107,
-       "[Page 42]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01320A - Historical societies’ publications.md",
    "printed_pages": [
-    41,
+    42,
     42
    ]
   },
@@ -1708,26 +1700,30 @@
   },
   {
    "id": "44_1327",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       376,
+       "[Page 43]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01327 - Mines, Bureau of publications.md",
    "printed_pages": [
     42,
-    42
+    43
    ]
   },
   {
    "id": "44_1328",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 43]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01328 - Merchant vessels of the United States.md",
    "printed_pages": [
-    42,
+    43,
     43
    ]
   },
@@ -1769,26 +1765,30 @@
   },
   {
    "id": "44_1333",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       234,
+       "[Page 44]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01333 - National high school and college debate topics.md",
    "printed_pages": [
     43,
-    43
+    44
    ]
   },
   {
    "id": "44_1334",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 44]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01334 - Naval Intelligence Office additional copies of publications.md",
    "printed_pages": [
-    43,
+    44,
     44
    ]
   },
@@ -1839,11 +1839,22 @@
   },
   {
    "id": "44_1341",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       177,
+       "[Page 45]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01341 - Smithsonian Institution report.md",
    "printed_pages": [
     44,
-    44
+    45
    ]
   },
   {
@@ -1851,27 +1862,16 @@
    "marks": [],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01342 - Repealed. Pub. L. 104–127, title IV, §384, Apr. 4, 1996, 110 Stat. 1016.md",
    "printed_pages": [
-    44,
-    44
+    45,
+    45
    ]
   },
   {
    "id": "44_1343",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       187,
-       "[Page 45]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Particular Reports and Documents/§ 01343 - Statistical Abstract of the United States.md",
    "printed_pages": [
-    44,
+    45,
     45
    ]
   },
@@ -1904,30 +1904,26 @@
   },
   {
    "id": "44_1502",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 46]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - Federal Register and Code of Federal Regulations/§ 01502 - Custody and printing of Federal documents; appointment of Director.md",
    "printed_pages": [
     45,
-    45
+    46
    ]
   },
   {
    "id": "44_1503",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 46]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Federal Register and Code of Federal Regulations/§ 01503 - Filing documents with Office; notation of time; public inspection; transmission for printing.md",
    "printed_pages": [
-    45,
+    46,
     46
    ]
   },
@@ -1944,20 +1940,20 @@
    "id": "44_1505",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       120,
-       "[Page 47]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 47]",
+     true
     ],
     [
-     "L",
-     78,
-     "[Page 48]",
-     true
+     "I",
+     72,
+     [
+      [
+       107,
+       "[Page 48]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Federal Register and Code of Federal Regulations/§ 01505 - Documents to be published in Federal Register.md",
@@ -1977,30 +1973,26 @@
   },
   {
    "id": "44_1507",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 49]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - Federal Register and Code of Federal Regulations/§ 01507 - Filing document as constructive notice; publication in Federal Register as presumption of validity; judicial notice; citation.md",
    "printed_pages": [
     48,
-    48
+    49
    ]
   },
   {
    "id": "44_1508",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 49]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Federal Register and Code of Federal Regulations/§ 01508 - Publication in Federal Register as notice of hearing.md",
    "printed_pages": [
-    48,
+    49,
     49
    ]
   },
@@ -2017,10 +2009,14 @@
    "id": "44_1510",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 50]",
-     true
+     "I",
+     20,
+     [
+      [
+       119,
+       "[Page 50]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Federal Register and Code of Federal Regulations/§ 01510 - Code of Federal Regulations.md",
@@ -2049,30 +2045,26 @@
   },
   {
    "id": "44_1701",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 51]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Distribution and Sale of Public Documents/§ 01701 - Publications for public distribution to be distributed by the Public Printer; mailing lists.md",
    "printed_pages": [
     50,
-    50
+    51
    ]
   },
   {
    "id": "44_1702",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 51]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Distribution and Sale of Public Documents/§ 01702 - Superintendent of Documents; sale of documents.md",
    "printed_pages": [
-    50,
+    51,
     51
    ]
   },
@@ -2114,30 +2106,26 @@
   },
   {
    "id": "44_1707",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 52]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Distribution and Sale of Public Documents/§ 01707 - Reprinting of documents required for sale.md",
    "printed_pages": [
     51,
-    51
+    52
    ]
   },
   {
    "id": "44_1708",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 52]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Distribution and Sale of Public Documents/§ 01708 - Prices for sales copies of publications; crediting of receipts; resale by dealers; sales agents.md",
    "printed_pages": [
-    51,
+    52,
     52
    ]
   },
@@ -2194,7 +2182,7 @@
      2,
      [
       [
-       226,
+       90,
        "[Page 53]"
       ]
      ]
@@ -3906,10 +3894,14 @@
    "id": "44_3503",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 120]",
-     true
+     "I",
+     12,
+     [
+      [
+       109,
+       "[Page 120]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03503 - Office of Information and Regulatory Affairs.md",
@@ -3922,28 +3914,24 @@
    "id": "44_3504",
    "marks": [
     [
-     "I",
+     "L",
      52,
-     [
-      [
-       92,
-       "[Page 121]"
-      ]
-     ]
+     "[Page 121]",
+     true
     ],
     [
      "I",
-     138,
+     136,
      [
       [
-       94,
+       91,
        "[Page 122]"
       ]
      ]
     ],
     [
      "L",
-     208,
+     206,
      "[Page 123]",
      true
     ]
@@ -3958,24 +3946,16 @@
    "id": "44_3505",
    "marks": [
     [
-     "I",
+     "L",
      4,
-     [
-      [
-       142,
-       "[Page 124]"
-      ]
-     ]
+     "[Page 124]",
+     true
     ],
     [
-     "I",
+     "L",
      84,
-     [
-      [
-       106,
-       "[Page 125]"
-      ]
-     ]
+     "[Page 125]",
+     true
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03505 - Assignment of tasks and deadlines.md",
@@ -3988,21 +3968,17 @@
    "id": "44_3506",
    "marks": [
     [
-     "I",
+     "L",
      42,
-     [
-      [
-       98,
-       "[Page 126]"
-      ]
-     ]
+     "[Page 126]",
+     true
     ],
     [
      "I",
      118,
      [
       [
-       138,
+       92,
        "[Page 127]"
       ]
      ]
@@ -4012,7 +3988,7 @@
      194,
      [
       [
-       169,
+       112,
        "[Page 128]"
       ]
      ]
@@ -4022,7 +3998,7 @@
      274,
      [
       [
-       217,
+       163,
        "[Page 129]"
       ]
      ]
@@ -4746,6 +4722,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2005-title44 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2006-title44 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 44 - Public Printing and Documents"
 }

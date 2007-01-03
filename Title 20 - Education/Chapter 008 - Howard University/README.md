@@ -8,13 +8,7 @@
 | [122\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000122%20-%20Limitation%20on%20use%20of%20appropriations.md) | Limitation on use of appropriations. |
 | [123\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000123%20-%20Annual%20appropriations%3B%20inspection%20by%20Secretary%20of%20Education.md) | Annual appropriations; inspection by Secretary of Education. |
 | [124\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000124%20-%20Transfer%20of%20Freedmen%27s%20Hospital%20to%20Howard%20University.md) | Transfer of Freedmen's Hospital to Howard University. |
-| (a) | Purpose; authorization; agreement. |
-| (b) | Congressional intent. |
-| (c) | Report to Congress. |
 | [125\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000125%20-%20Employees%20of%20hospital.md) | Employees of hospital. |
-| (a) | Opportunity to transfer; guarantee of rights and benefits. |
-| (b) | Placement of employees in comparable Federal positions. |
-| (c) | Services performed in the employ of United States. |
 | [126\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000126%20-%20Authorization%20of%20appropriations%20for%20construction%20of%20hospital%20facilities.md) | Authorization of appropriations for construction of hospital facilities. |
 | [127\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000127%20-%20Transfer%20of%20facilities%20by%20University%20or%20cessation%20of%20operation%20as%20teaching%20hospital%20facilities%3B%20recovery%20of%20value%20by%20United%20States.md) | Transfer of facilities by University or cessation of operation as teaching hospital facilities; recovery of value by United States. |
 | [128\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000128%20-%20Authorization%20of%20appropriations%20for%20partial%20support%20of%20operation%20of%20facilities%3B%20separate%20account.md) | Authorization of appropriations for partial support of operation of facilities; separate account. |
@@ -32,9 +26,6 @@
 | 130aa–1. | Program authorized. |
 | 130aa–2. | Investments. |
 | 130aa–3. | Withdrawals and expenditures. |
-| (a) | Defrayment of expenses; restrictions on use of income or corpus; limits on withdrawals or expenditures. |
-| (b) | Authority of Secretary; withdrawal or expenditure beyond limits; circumstances demonstrating necessity. |
-| (c) | Repayment of Federal share of amounts improperly expended or withdrawn; endowment fund corpus; income. |
 | 130aa–4. | Enforcement. |
 | 130aa–5. | Authorization of appropriations. |
 

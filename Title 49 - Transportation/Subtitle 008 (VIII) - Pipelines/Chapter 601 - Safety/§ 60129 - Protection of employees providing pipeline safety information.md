@@ -54,7 +54,7 @@ Required showing by complainant.—The Secretary of Labor shall dismiss a compla
 
 &emsp;&emsp;&emsp;(ii)
 
-Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer wouldhave taken the same unfavorable personnel action in the absence of that behavior.
+Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -114,7 +114,7 @@ Commencement of action.—A person on whose behalf an order was issued under par
 
 &emsp;&emsp;(B)
 
-Attorney fees.—The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award of costs is appropriate.
+Attorney fees.—The court, in issuing any final order under this paragraph, mayaward costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award of costs is appropriate.
 
 (c)
 

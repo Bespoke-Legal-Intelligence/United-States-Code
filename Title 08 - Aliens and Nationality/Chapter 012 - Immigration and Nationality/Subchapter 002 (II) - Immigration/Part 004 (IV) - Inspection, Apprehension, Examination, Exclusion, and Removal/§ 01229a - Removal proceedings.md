@@ -146,7 +146,7 @@
 
 &emsp;&emsp;In any proceeding under this chapter, any record of conviction or abstract that has been submitted by electronic means to the Service from a State or court shall be admissible as evidence to prove a criminal conviction if it is—
 
-&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from itsrepository or by a court official from the court in which the conviction was entered as an official record from its repository, and
+&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from its repository or by a court official from the court in which the conviction was entered as an official record from its repository, and
 
 &emsp;&emsp;&emsp;(ii) certified in writing by a Service official as having been received electronically from the State's record repository or the court's record repository.
 

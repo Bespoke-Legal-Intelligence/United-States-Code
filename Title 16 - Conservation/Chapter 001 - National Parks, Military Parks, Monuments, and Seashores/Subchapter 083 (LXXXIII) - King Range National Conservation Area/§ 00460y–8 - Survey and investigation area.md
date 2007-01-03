@@ -24,7 +24,7 @@ Township 3 south, range 2 west, section 12, southeast quarter southeast quarter;
 
 Township 3 south, range 1 west, section 9, southwest quarter southwest quarter; section 12, south half southeast quarter and south half southwest quarter; sections 13 through 36.
 
-Township 3 south, range 1 east, section 18, lots 1 through 4; section 19, lots 1 and 2, southwestquarter and west half southeast quarter; section 29, southwest quarter northwest quarter and west half southwest quarter; sections 30 and 31; section 32, west half.
+Township 3 south, range 1 east, section 18, lots 1 through 4; section 19, lots 1 and 2, southwest quarter and west half southeast quarter; section 29, southwest quarter northwest quarter and west half southwest quarter; sections 30 and 31; section 32, west half.
 
 Township 2 south, range 2 west, section 31, north half of lot 2 of the southwest quarter (43.40 acres of public land withdrawn by Executive Order 5237 of December 10, 1929); and 22.8 acres of acquired fee lands described by metes and bounds in section 31, township 2 south, range 2 west, and section 36, township 2 south, range 3 west; and 31.27 acres of acquired easements described by metes and bounds across certain sections in township 2 south, ranges 2 and 3 west.
 
@@ -36,9 +36,15 @@ In addition to the lands described in subsection (a) of this section, the Secret
 
 In addition to the lands described in subsection (a) of this section, the land identified as the Punta Gorda Addition and the Southern Additions on the map entitled “King Range National Conservation Area Boundary Map No. 2”, dated July 29, 1975, is included in the survey and investigation area referred to in section 460y of this title.
 
-(Pub. L. 91–476, §9, Oct. 21, 1970, 84 Stat. 1070; Pub. L. 94–579, title VI, §602, Oct. 21, 1976, 90 Stat. 2784.)
+#### (d) Further additions
+
+In addition to the land described in subsections (a) and (c), the land identified as the King Range National Conservation Area Additions on the map entitled “King Range Wilderness” and dated November 12, 2004, is included in the Area.
+
+(Pub. L. 91–476, §9, Oct. 21, 1970, 84 Stat. 1070; Pub. L. 94–579, title VI, §602, Oct. 21, 1976, 90 Stat. 2784; Pub. L. 109–362, §8, Oct. 17, 2006, 120 Stat. 2071.)
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–362 added subsec. (d).
 
 1976—Subsec. (c). Pub. L. 94–579 added subsec. (c).
 

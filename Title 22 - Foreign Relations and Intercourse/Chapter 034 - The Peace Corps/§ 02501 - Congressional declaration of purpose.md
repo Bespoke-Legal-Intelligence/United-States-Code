@@ -1,6 +1,6 @@
 ### §2501. Congressional declaration of purpose
 
-(a) The Congress of the United States declares that it is the policy of the United States and the purpose of this chapter to promote world peace and friendship through a Peace Corps, which shall make available to interested countries and areas men and women of the United States qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower, particularly in meeting the basic needs of those living in the poorest areas of such countries, and to help promote a better understanding of the American people on the part of the peoples served and a better understanding of other peoples on the part of the American people.
+(a) The Congress of the United States declares that it is the policy of the United States and the purpose of this chapter to promote world peace and friendship through a Peace Corps, whichshall make available to interested countries and areas men and women of the United States qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower, particularly in meeting the basic needs of those living in the poorest areas of such countries, and to help promote a better understanding of the American people on the part of the peoples served and a better understanding of other peoples on the part of the American people.
 
 (b) The Congress declares that it is the policy of the United States and a purpose of the Peace Corps to maintain, to the maximum extent appropriate and consistent with programmatic and fiscal considerations, a volunteer corps of at least 10,000 individuals.
 
@@ -66,7 +66,7 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U
 
 Peace Corps
 
-1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continuedin existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
+1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
 
 1–102. All references to the “Director” in Part 1–1 of this Order shall refer to the Director of the Peace Corps for whom provision is made in Section 4(a) of the Act (22 U.S.C. 2503).
 
@@ -74,7 +74,7 @@ Peace Corps
 
 1–104. The function of determining the portion of living allowances constituting basic compensation, conferred upon the President by Section 201(a) of Public Law 87–293 (26 U.S.C. 912(3)), is hereby delegated to the Director and shall be performed in consultation with the Secretary of the Treasury.
 
-1–105. The functions of prescribing regulations and making determinations (relating to appointment of Peace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
+1–105. The functions of prescribing regulations and making determinations (relating to appointment of Peace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of PublicLaw 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
 
 1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and the third proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
 
@@ -138,7 +138,7 @@ Director of ACTION
 
 (b) Provide for the development and operation of a clearinghouse for information on Government programs designed to foster voluntary action.
 
-(c) Initiate proposals for the greater and more effective application of voluntary action in connection withFederal programs, and coordinate, as consistent with law, Federal activities involving such action.
+(c) Initiate proposals for the greater and more effective application of voluntary action in connection with Federal programs, and coordinate, as consistent with law, Federal activities involving such action.
 
 (d) Make grants of seed money, as authorized by law, for stimulating the development or deployment of innovative voluntary action programs directed toward community problems.
 
@@ -148,7 +148,7 @@ Director of ACTION
 
 1–604. The head of each Federal department or agency, or a designated representative, shall keep the Director of ACTION informed of proposed budgets, plans, and programs of that department or agency affecting voluntary action programs.
 
-1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State, the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer components and the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
+1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State, the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer componentsand the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
 
 #### 1–7.
 

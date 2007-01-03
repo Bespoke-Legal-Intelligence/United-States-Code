@@ -2,11 +2,11 @@
 
 #### (a) Congressional declaration of policy
 
-The Congress recognizes that poor health conditions and uncontrolled population growth can vitiate otherwise successful development efforts.
+The Congress recognizes that poor health conditions and uncontrolled population growth canvitiate otherwise successful development efforts.
 
 Large families in developing countries are the result of complex social and economic factors which change relatively slowly among the poor majority least affected by economic progress, as well as the result of a lack of effective birth control. Therefore, effective family planning depends upon economic and social change as well as the delivery of services and is often a matter of political and religious sensitivity. While every country has the right to determine its own policies with respect to population growth, voluntary population planning programs can make a substantial contribution to economic development, higher living standards, and improved health and nutrition.
 
-Good health conditions are a principal element in improved quality of life and contribute to the individual's capacity to participate in thedevelopment process, while poor health and debilitating disease can limit productivity.
+Good health conditions are a principal element in improved quality of life and contribute to the individual's capacity to participate in the development process, while poor health and debilitating disease can limit productivity.
 
 #### (b) Assistance for voluntary population planning
 
@@ -30,7 +30,7 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 #### (d) Administration of assistance
 
-(1) Assistance under this part shall be administered so as to give particular attention to the interrelationship between (A) population growth, and (B) development and overall improvement in living standards in developing countries, and to the impact of all programs, projects, and activities on population growth. All appropriate activities proposed for financing under this part shall be designed to build motivation for smaller families through modification of economic and social conditions supportive of the desire for large families, in programs such as education in and out of school, nutrition, disease control, maternal and child health services, improvements in the status and employment of women, agricultural production, rural development, and assistance to the urban poor, and through community-based development programs which give recognition to people motivated to limit the size of their families. Population planning programs shall be coordinated with other programs aimed at reducing the infant mortality rate, providing better nutrition for pregnant women and infants, and raising the standard of living of the poor.
+(1) Assistance under this part shall be administered so as to give particular attention to theinterrelationship between (A) population growth, and (B) development and overall improvement in living standards in developing countries, and to the impact of all programs, projects, and activities on population growth. All appropriate activities proposed for financing under this part shall be designed to build motivation for smaller families through modification of economic and social conditions supportive of the desire for large families, in programs such as education in and out of school, nutrition, disease control, maternal and child health services, improvements in the status and employment of women, agricultural production, rural development, and assistance to the urban poor, and through community-based development programs which give recognition to people motivated to limit the size of their families. Population planning programs shall be coordinated with other programs aimed at reducing the infant mortality rate, providing better nutrition for pregnant women and infants, and raising the standard of living of the poor.
 
 (2) Since the problems of malnutrition, disease, and rapid population growth are closely related, planning for assistance to be provided under subsections (b) and (c) of this section and under section 2151a of this title shall be coordinated to the maximum extent practicable.
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 98–473 is based on section 303 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-2003—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
+2003—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritizationof HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
 
 2000—Subsec. (c)(4) to (7). Pub. L. 106–264 added pars. (4) to (7).
 
@@ -98,7 +98,7 @@ Subsec. (g)(1)(B). Pub. L. 99–529, §404(1), substituted “$180,000,000 for f
 
 Subsec. (c)(3). Pub. L. 99–83, §305(a), added par. (3).
 
-Subsec. (g). Pub. L. 99–83, §303, in amending subsec. (g) generally, substituted in par. (1) provision authorizing appropriations of $290,000,000 and $205,000,000 to carry out subsecs. (b) and (c), respectively, for fiscal years 1986 and 1987 for provisions authorizing$211,000,000 and $133,405,000 to carry out such subsecs. for fiscal years 1982 and 1983, and in par. (2) struck out provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 an 1983 only for the United Nations Fund for Population Activities.
+Subsec. (g). Pub. L. 99–83, §303, in amending subsec. (g) generally, substituted in par. (1) provision authorizing appropriations of $290,000,000 and $205,000,000 to carry out subsecs. (b) and (c), respectively, for fiscal years 1986 and 1987 for provisions authorizing $211,000,000 and $133,405,000 to carry out such subsecs. for fiscal years 1982 and 1983, and in par. (2) struck out provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 an 1983 only for the United Nations Fund for Population Activities.
 
 1984—Subsec. (c). Pub. L. 98–473 designated existing provisions as par. (1) and added par. (2).
 

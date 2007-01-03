@@ -1,6 +1,6 @@
 ### §368. Operation of bathhouse in connection with hotel
 
-Nothing in sections 362 to 367 of this title shall be so construed as to prevent the stockholdersof any hotel from operating a bathhouse in connection with such hotel as a part thereof.
+Nothing in sections 362 to 367 of this title shall be so construed as to prevent the stockholders of any hotel from operating a bathhouse in connection with such hotel as a part thereof.
 
 (Mar. 3, 1891, ch. 533, §8, 26 Stat. 844.)
 

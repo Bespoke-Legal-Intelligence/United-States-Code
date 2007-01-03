@@ -64,7 +64,7 @@ A system of graduated sanctions, which may be discretionary as provided in subse
 
 &emsp;&emsp;&emsp;(i) which has not implemented a system of graduated sanctions, to submit an annual report that explains why such court did not implement graduated sanctions; and
 
-&emsp;&emsp;&emsp;(ii) which has implemented a system of graduated sanctions but has not imposed graduated sanctions in all cases, to submit an annual report that explains why such court did not impose graduated sanctions in all cases.
+&emsp;&emsp;&emsp;(ii) which has implemented a system of graduated sanctions but has not imposedgraduated sanctions in all cases, to submit an annual report that explains why such court did not impose graduated sanctions in all cases.
 
 #### (B) Units of local government
 
@@ -86,7 +86,7 @@ In this section:
 
 &emsp;The term “sanctions” means tangible, proportional consequences that hold the juvenile offender accountable for the offense committed. A sanction may include counseling, restitution, community service, a fine, supervised probation, or confinement.
 
-(Pub. L. 90–351, title I, §1802, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1861; amended Pub. L. 109–162, title XI, §1168, Jan. 5, 2006, 119 Stat. 3122.)
+(Pub. L. 90–351, title I, §1802, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1861; amended Pub. L. 109–162, title XI, §1168(a), formerly §1168, Jan. 5, 2006, 119 Stat. 3122, renumbered §1168(a), Pub. L. 109–271, §8(n)(5)(A), Aug. 12, 2006, 120 Stat. 768.)
 
 #### Prior Provisions
 
@@ -96,5 +96,9 @@ A prior section 1802 of Pub. L. 90–351 was classified to section 3796ee–1 of
 
 #### Amendments
 
-2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). Pub. L. 109–162 inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
+2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). Pub. L. 109–162, §1168(a), formerly §1168, as renumbered by Pub. L. 109–271, inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–162, title XI, §1168(b), as added by Pub. L. 109–271, §8(n)(5)(B), Aug. 12, 2006, 120 Stat. 768, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2006.”
 

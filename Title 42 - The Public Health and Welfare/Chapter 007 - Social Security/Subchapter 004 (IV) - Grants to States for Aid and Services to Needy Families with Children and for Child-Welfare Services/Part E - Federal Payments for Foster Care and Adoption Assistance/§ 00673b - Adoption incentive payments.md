@@ -46,7 +46,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;&emsp;(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
-&emsp;&emsp;(B) $2,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptionsthat are not older child adoptions for the State for the fiscal year; and
+&emsp;&emsp;(B) $2,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
 
 &emsp;&emsp;(C) $4,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.
 
@@ -64,7 +64,7 @@ Payments to a State under this section in a fiscal year shall remain available f
 
 #### (f) Limitations on use of incentive payments
 
-A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B of this subchapter or this part. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 623, 629d, and 674 of this title.
+A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B of this subchapter or this part. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 624, 629d, and 674 of this title.
 
 #### (g) Definitions
 
@@ -158,13 +158,15 @@ As used in this section:
 
 &emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879.)
+(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248.)
 
 #### References in Text
 
 Part B of this subchapter, referred to in subsec. (f), is classified to section 620 et seq. of this title.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–288 substituted “624” for “623”.
 
 2003—Subsec. (b)(2). Pub. L. 108–145, §3(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;”.
 
@@ -211,6 +213,10 @@ Subsec. (j). Pub. L. 108–145, §3(a)(7), struck out subsec. (j) which related 
 Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
 1998—Subsec. (c)(2)(B). Pub. L. 105–200 substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 2003 Amendment
 

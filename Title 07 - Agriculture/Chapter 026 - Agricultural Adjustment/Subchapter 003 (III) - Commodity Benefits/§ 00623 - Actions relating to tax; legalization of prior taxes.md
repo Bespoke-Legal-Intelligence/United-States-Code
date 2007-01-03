@@ -28,7 +28,7 @@ Another section 21 of act May 12, 1933, enacted sections 992 and 993 of Title 12
 
 1978—Subsec. (a). Pub. L. 95–598 struck out “, and bankruptcy” after “receivership” in first sentence, and struck out “bankruptcy,” after “receivership” in second sentence.
 
-1936—Subsecs. (d) to (g). Act June 22, 1936, §901, repealed subsec. (d) relating to prohibition on making certain refunds, subsec. (e) providing for access to books, and subsec. (g) providing for recovery of taxes erroneously collected, and act June 22, 1936, §601(c), repealed subsec. (f) relating to time for filing claim for refund.
+1936—Subsecs. (d) to (g). Act June 22, 1936, §901, repealed subsec. (d) relating to prohibition on makingcertain refunds, subsec. (e) providing for access to books, and subsec. (g) providing for recovery of taxes erroneously collected, and act June 22, 1936, §601(c), repealed subsec. (f) relating to time for filing claim for refund.
 
 #### Effective Date of 1978 Amendment
 

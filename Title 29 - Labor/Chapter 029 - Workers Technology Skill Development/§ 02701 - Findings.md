@@ -42,7 +42,7 @@ Pub. L. 105–277, div. C, title IV, §417, Oct. 21, 1998, 112 Stat. 2681–656,
 
 “(a)
 
-Study.—The Director of the National Science Foundation shall enter into a contract with the President of the National Academy of Sciences to conduct astudy, using the best available data, assessing the status of older workers in the information technology field. The study shall consider the following:
+Study.—The Director of the National Science Foundation shall enter into a contract with the President of the National Academy of Sciences to conduct a study, using the best available data, assessing the status of older workers in the information technology field. The study shall consider the following:
 
 &emsp;“(1) The existence and extent of age discrimination in the information technology workplace.
 

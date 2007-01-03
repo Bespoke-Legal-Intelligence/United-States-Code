@@ -10,7 +10,7 @@ The Board of Directors of the Association shall take or cause to be taken all su
 
 #### (b) Shareholder approval
 
-The plan of reorganization adopted by the Board of Directors pursuant to subsection (a) of this section shall be submitted to common shareholders of the Association for their approval. The reorganization shall occur on the reorganization effective date, provided that the plan of reorganization has been approved by the affirmative votes, cast in person or by proxy, of the holders of a majority of the issued and outstanding shares of the Association common stock.
+The plan of reorganization adopted by the Board of Directors pursuant to subsection (a) ofthis section shall be submitted to common shareholders of the Association for their approval. The reorganization shall occur on the reorganization effective date, provided that the plan of reorganization has been approved by the affirmative votes, cast in person or by proxy, of the holders of a majority of the issued and outstanding shares of the Association common stock.
 
 #### (c) Transition
 
@@ -24,7 +24,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this section, on the reorganization effective date or as soon as practicable thereafter, the Association shall use the Association's best efforts to transferto the Holding Company or any subsidiary of the Holding Company (or both), as directed by the Holding Company, all real and personal property of the Association (both tangible and intangible) other than the remaining property. Subject to the preceding sentence, such transferred property shall include all right, title, and interest in—
+&emsp;&emsp;Except as provided in this section, on the reorganization effective date or as soon as practicable thereafter, the Association shall use the Association's best efforts to transfer to the Holding Company or any subsidiary of the Holding Company (or both), as directed by the Holding Company, all real and personal property of the Association (both tangible and intangible) other than the remaining property. Subject to the preceding sentence, such transferred property shall include all right, title, and interest in—
 
 &emsp;&emsp;&emsp;(i) direct or indirect subsidiaries of the Association (excluding special purpose funding companies in existence on September 30, 1996, and any interest in any government-sponsored enterprise);
 
@@ -62,7 +62,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 &emsp;&emsp;&emsp;(iii) the Association serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title; and
 
-&emsp;&emsp;&emsp;(iv) the Association's purchase of loans insured under this part, if the Secretary, with the approval of the Secretary of the Treasury, enters into an agreement with the Association for the continuation or resumption of the Association's secondary market purchase program because the Secretary determines there is inadequate liquidity for loans made under this part.
+&emsp;&emsp;&emsp;(iv) the Association's purchase of loans insured under this part, if the Secretary, with the approval of the Secretary of the Treasury, enters into an agreement with the Association for the continuation or resumption of the Association's secondarymarket purchase program because the Secretary determines there is inadequate liquidity for loans made under this part.
 
 #### (B) Agreement
 
@@ -78,7 +78,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 &emsp;&emsp;The Association shall obtain such information and make and keep such records as the Secretary of the Treasury may from time to time prescribe concerning—
 
-&emsp;&emsp;&emsp;(i) the financial risk to the Association resulting from the activities of any associated person, to the extent such activities are reasonably likely to have a materialimpact on the financial condition of the Association, including the Association's capital ratio, the Association's liquidity, or the Association's ability to conduct and finance the Association's operations; and
+&emsp;&emsp;&emsp;(i) the financial risk to the Association resulting from the activities of any associated person, to the extent such activities are reasonably likely to have a material impact on the financial condition of the Association, including the Association's capital ratio, the Association's liquidity, or the Association's ability to conduct and finance the Association's operations; and
 
 &emsp;&emsp;&emsp;(ii) the Association's policies, procedures, and systems for monitoring and controlling any such financial risk.
 
@@ -122,7 +122,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (D) Encumbrance of assets
 
-&emsp;&emsp;Notwithstanding any Federal or State law, rule, or regulation, or legal or equitable principle, doctrine, or theory to the contrary, under no circumstances shall the assets of the Association be available or used to pay claims or debts of or incurred by the Holding Company. Nothing in this subparagraph shall be construed to limit the right of the Association to pay dividends not otherwise prohibited under this subparagraph or to limit any liability of the Holding Company explicitly provided for in this section.
+&emsp;&emsp;Notwithstanding any Federal or State law, rule, or regulation, or legal or equitableprinciple, doctrine, or theory to the contrary, under no circumstances shall the assets of the Association be available or used to pay claims or debts of or incurred by the Holding Company. Nothing in this subparagraph shall be construed to limit the right of the Association to pay dividends not otherwise prohibited under this subparagraph or to limit any liability of the Holding Company explicitly provided for in this section.
 
 #### (E) Holding Company activities
 
@@ -160,7 +160,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (1) Establishment of a trust
 
-&emsp;The Association shall, under the terms of an irrevocable trust agreement that is in form and substance satisfactory to the Secretary of the Treasury, the Association and the appointed trustee, irrevocably transfer all remaining obligations of the Association to the trust and irrevocably deposit or cause to be deposited into such trust, to be held as trust funds solely for the benefit of holders of the remaining obligations, money or direct noncallable obligations of the United States or any agency thereof for which payment the full faith and credit of the United States is pledged, maturing as to principal and interest in such amounts and at such times as are determined by the Secretary of the Treasury to be sufficient, without consideration of any significant reinvestment of such interest, to pay the principal of, and interest on, the remaining obligations in accordance with their terms. To the extent the Association cannot provide money or qualifying obligations in the amount required, the Holding Company shall be required to transfer money or qualifying obligations to the trust in the amount necessary to prevent any deficiency.
+&emsp;The Association shall, under the terms of an irrevocable trust agreement that is in form and substance satisfactory to the Secretary of the Treasury, the Association and the appointed trustee, irrevocably transfer all remaining obligations of the Association to the trust and irrevocably deposit or cause to be deposited into such trust, to be held as trust funds solely for the benefit of holders of the remaining obligations, money or direct noncallable obligations of the United States or any agency thereof for which payment the full faith and credit of the United States is pledged, maturing as to principal and interest in such amounts and at such times as are determined by the Secretary of the Treasury to be sufficient, without consideration of any significant reinvestment of such interest, to pay the principal of, and interest on, the remaining obligations in accordance with theirterms. To the extent the Association cannot provide money or qualifying obligations in the amount required, the Holding Company shall be required to transfer money or qualifying obligations to the trust in the amount necessary to prevent any deficiency.
 
 #### (2) Use of trust assets
 
@@ -228,7 +228,7 @@ For purposes of this section:
 
 #### (3) Holding Company
 
-&emsp;The term “Holding Company” means the new business corporation established pursuant to this section by the Association under the laws of any State of the United States or the District of Columbia for the purposes of the reorganization and restructuring described in subsection (a) of this section.
+&emsp;The term “Holding Company” means the new business corporation established pursuantto this section by the Association under the laws of any State of the United States or the District of Columbia for the purposes of the reorganization and restructuring described in subsection (a) of this section.
 
 #### (4) Remaining obligations
 

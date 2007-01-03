@@ -64,7 +64,7 @@
 
 It shall be the function of the Access Board to—
 
-&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
+&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (includingthe application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
 
 &emsp;(2) develop advisory information for, and provide appropriate technical assistance to, individuals or entities with rights or duties under regulations prescribed pursuant to this subchapter or titles II and III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and 12181 et seq.) with respect to overcoming architectural, transportation, and communication barriers;
 
@@ -84,7 +84,7 @@ It shall be the function of the Access Board to—
 
 &emsp;(6) determine what measures are being taken by Federal, State, and local governments and by other public or nonprofit agencies to eliminate the barriers described in paragraph (5);
 
-&emsp;(7) promote the use of the International Accessibility Symbol in all public facilities thatare in compliance with the standards prescribed by the Administrator of General Services, the Secretary of Defense, and the Secretary of Housing and Urban Development pursuant to the Act commonly known as the Architectural Barriers Act of 1968;
+&emsp;(7) promote the use of the International Accessibility Symbol in all public facilities that are in compliance with the standards prescribed by the Administrator of General Services, the Secretary of Defense, and the Secretary of Housing and Urban Development pursuant to the Act commonly known as the Architectural Barriers Act of 1968;
 
 &emsp;(8) make to the President and to the Congress reports that shall describe in detail the results of its investigations under paragraphs (5) and (6);
 
@@ -120,7 +120,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 (2) The Executive Director shall exercise general supervision over all personnel employed by the Access Board (other than administrative law judges and their assistants). The Executive Director shall have final authority on behalf of the Access Board, with respect to the investigation of alleged noncompliance and in the issuance of formal complaints before the Access Board, and shall have such other duties as the Access Board may prescribe.
 
-(3) For the purpose of this section, an order of compliance issued by an administrative lawjudge shall be deemed to be an order of the Access Board and shall be the final order for the purpose of judicial review.
+(3) For the purpose of this section, an order of compliance issued by an administrative law judge shall be deemed to be an order of the Access Board and shall be the final order for the purpose of judicial review.
 
 #### (g) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
@@ -220,7 +220,7 @@ Subsec. (b). Pub. L. 102–569, §504(c), amended subsec. (b) generally, substit
 
 Subsec. (c). Pub. L. 102–569, §102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
+Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carryout its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
 
 Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending September 30, 1978; Effective Date of 1976 Amendment
 
-For contingency provisions relating to the extensions of program authorizations and to the effective date of such extensions, see section 11(a), (b)(1), and (c) of Pub. L. 94–230, set out as a note under section 720 of this title.
+For contingency provisions relating to the extensions of program authorizations and to the effective date ofsuch extensions, see section 11(a), (b)(1), and (c) of Pub. L. 94–230, set out as a note under section 720 of this title.
 
 #### Termination of Advisory Panels
 

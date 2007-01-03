@@ -32,7 +32,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 &emsp;&emsp;&emsp;(ii) To residents of other developments managed by the public or Indian housing agency that is expending the assistance.
 
-&emsp;&emsp;&emsp;(iii) To participants in Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
+&emsp;&emsp;&emsp;(iii) To participants in YouthBuild programs receiving assistance under section 2918a of title 29.
 
 &emsp;&emsp;&emsp;(iv) To other low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
 
@@ -44,7 +44,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (B) Priority
 
-&emsp;&emsp;Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
+&emsp;&emsp;Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under section 2918a of title 29.
 
 #### (d) Contracting
 
@@ -58,11 +58,11 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 &emsp;&emsp;The efforts required under subparagraph (A) shall be directed in the following order of priority:
 
-&emsp;&emsp;&emsp;(i) To business concerns that provide economic opportunities for residents of thehousing development for which the assistance is provided.
+&emsp;&emsp;&emsp;(i) To business concerns that provide economic opportunities for residents of the housing development for which the assistance is provided.
 
 &emsp;&emsp;&emsp;(ii) To business concerns that provide economic opportunities for residents of other housing developments operated by the public and Indian housing agency that is providing the assistance.
 
-&emsp;&emsp;&emsp;(iii) To Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
+&emsp;&emsp;&emsp;(iii) To YouthBuild programs receiving assistance under section 2918a of title 29.
 
 &emsp;&emsp;&emsp;(iv) To business concerns that provide economic opportunities for low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is provided.
 
@@ -74,7 +74,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (B) Priority
 
-&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
+&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under section 2918a of title 29.
 
 #### (e) Definitions
 
@@ -102,13 +102,11 @@ The Secretary shall consult with the Secretary of Labor, the Secretary of Health
 
 Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
-(Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94 Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878.)
+(Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94 Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878; Pub. L. 109–281, §2(d)(1), Sept. 22, 2006, 120 Stat. 1181.)
 
 #### References in Text
 
 Section 1437<i>l</i> of title 42, referred to in subsecs. (c)(1)(A) and (d)(1)(A), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
-
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(1)(B)(iii), (2)(B), (d)(1)(B)(iii), (2)(B), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Subtitle D of title IV of the Act is classified generally to part C (§12899 et seq.) of subchapter IV of chapter 130 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 #### Codification
 
@@ -117,6 +115,8 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 October 28, 1992, referred to in subsec. (g), was in the original “the date of enactment of the National Affordable Housing Act Amendments of 1992”, and was translated as meaning the date of enactment of the Housing and Community Development Act of 1992, Pub. L. 102–550, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2006—Subsecs. (c)(1)(B)(iii), (2)(B), (d)(1)(B)(iii), (2)(B). Pub. L. 109–281 substituted “YouthBuild programs receiving assistance under section 2918a of title 29” for “Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act”.
 
 1992—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “In the administration by the Secretary of Housing and Urban Development of programs providing direct financial assistance, including community development block grants under title I of the Housing and Community Development Act of 1974, in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, the Secretary shall—
 
@@ -131,6 +131,14 @@ Par. (2). Pub. L. 96–399, §329(2), substituted “residing in the same metrop
 1974—Pub. L. 93–383 inserted reference to community development block grants under title I of the Housing and Community Development Act of 1974.
 
 1969—Pub. L. 91–152 substituted provisions making applicable programs providing direct financial assistance in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, for provisions making applicable programs authorized by sections 1715<i>l</i>(d)(3), 1715z, and 1715z–1 of this title, the low-rent public housing program under the United States Housing Act of 1937, and the rent supplement program under section 101 of the Housing and Urban Development Act of 1965.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–281, §2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: “This section \[enacting section 2918a of Title 29, Labor, amending this section, section 4183 of Title 25, Indians, section 2939 of Title 29, and section 12870 of Title 42, The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
+
+&emsp;“(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
+
+&emsp;“(2) September 30, 2006.”
 
 #### Effectiveness Study
 

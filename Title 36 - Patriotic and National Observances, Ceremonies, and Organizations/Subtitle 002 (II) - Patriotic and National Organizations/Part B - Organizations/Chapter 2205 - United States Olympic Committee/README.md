@@ -4,12 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [220501\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220501%20-%20Title%20and%20Definitions.md) | Definitions.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [220501\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220501%20-%20Short%20title%20and%20definitions.md) | Short title and definitions. |
 | [220502\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220502%20-%20Organization.md) | Organization. |
 | [220503\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220503%20-%20Purposes.md) | Purposes. |
 | [220504\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220504%20-%20Membership.md) | Membership. |
@@ -19,12 +14,7 @@
 | [220508\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220508%20-%20Headquarters%2C%20principal%20office%2C%20and%20meetings.md) | Headquarters, principal office, and meetings. |
 | [220509\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220509%20-%20Resolution%20of%20disputes.md) | Resolution of disputes. |
 | [220510\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220510%20-%20Service%20of%20process.md) | Service of process. |
-| [220511\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220511%20-%20Annual%20report.md) | Report.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [220511\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220511%20-%20Report.md) | Report. |
 | [220512\.](Subchapter%20001%20%28I%29%20-%20Corporation/%C2%A7%20220512%20-%20Complete%20teams.md) | Complete teams. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,6 +36,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted “Short title and definitions” for “Definitions” in item 220501.
 
 1998—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted “Report” for “Annual report” in item 220511 and added item 220512.
 

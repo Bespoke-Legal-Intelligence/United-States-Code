@@ -24,7 +24,7 @@ The Secretary shall not waive, under subsection (b) of this section, the non-Fed
 
 A prior section 1103d, Pub. L. 89–329, title V, §515, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 676, related to State delegations to National Teacher Academies, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1103d, Pub. L. 89–329, title V, §515, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1497, required reports to Secretary from institutions receiving grants, prior to the general amendment of this subchapter by Pub. L. 102–325.
+Another prior section 1103d, Pub. L. 89–329, title V, §515, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1497, required reports to Secretary frominstitutions receiving grants, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 A prior section 515 of Pub. L. 89–329 was classified to section 1105 of this title prior to repeal by Pub. L. 97–35.
 

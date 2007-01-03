@@ -12,9 +12,9 @@ The cartage of merchandise entered for warehouse shall be done by—
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §565, 42Stat. 979. That section was superseded by section 565 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §565, 42 Stat. 979. That section was superseded by section 565 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Act June 22, 1874, ch. 391, §25, 18 Stat. 191, required cartage of merchandise in the custody of the government to be let to the lowest responsible bidder, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Act June 22, 1874, ch. 391, §25, 18 Stat. 191, required cartage of merchandise in the custody of the government to be let to the lowest responsible bidder, prior torepeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 #### Amendments
 

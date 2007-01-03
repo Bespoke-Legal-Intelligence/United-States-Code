@@ -12,7 +12,7 @@ Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as a
 
 #### Codification
 
-Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: “The salary of the president of the Mississippi River Commission shall hereafter be $10,000 per annum, and the salary of the other members of the commission shall hereafter be $21,500 perannum.” were omitted as obsolete and superseded by the Classification Act of 1949, 63 Stat. 954, 972. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: “The salary of the president of the Mississippi River Commission shall hereafter be $10,000 per annum, and the salary of the other members of the commission shall hereafter be $21,500 per annum.” were omitted as obsolete and superseded by the Classification Act of 1949, 63 Stat. 954, 972. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 #### Amendments
 

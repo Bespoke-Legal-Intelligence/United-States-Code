@@ -12,7 +12,7 @@ A grant under this section may be used for the following purposes:
 
 &emsp;&emsp;(A) passenger vehicles (including neighborhood electric vehicles); and
 
-&emsp;&emsp;(B) motorized 2-wheel bicycles or other vehicles for use by law enforcement personnelor other State or local government or metropolitan transportation authority employees.
+&emsp;&emsp;(B) motorized 2-wheel bicycles or other vehicles for use by law enforcement personnel or other State or local government or metropolitan transportation authority employees.
 
 &emsp;(2) The acquisition of alternative fueled vehicles, hybrid vehicles, or fuel cell vehicles, including—
 
@@ -44,7 +44,7 @@ A grant under this section may be used for the following purposes:
 
 &emsp;&emsp;&emsp;(ii) include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a description of the project proposed in the application, including how the project meets the requirements of this subpart;
+&emsp;&emsp;&emsp;&emsp;(I) a description of the project proposed in the application, including howthe project meets the requirements of this subpart;
 
 &emsp;&emsp;&emsp;&emsp;(II) an estimate of the ridership or degree of use of the project;
 

@@ -42,7 +42,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) the destruction of the aircraft.
 
-&emsp;(2) The term “mishap unit”, with respect to an aircraft accident investigation, means the unit of the armed forces (at the squadron or battalion level or equivalent) to which was assigned the flight crew of the aircraft that sustained the accident that is the subject of the investigation.
+&emsp;(2) The term “mishap unit”, with respect to an aircraft accident investigation, means theunit of the armed forces (at the squadron or battalion level or equivalent) to which was assigned the flight crew of the aircraft that sustained the accident that is the subject of the investigation.
 
 (Added Pub. L. 104–201, div. A, title IX, §911(a)(1), Sept. 23, 1996, 110 Stat. 2621; amended Pub. L. 108–136, div. A, title X, §1031(a)(13), Nov. 24, 2003, 117 Stat. 1597.)
 

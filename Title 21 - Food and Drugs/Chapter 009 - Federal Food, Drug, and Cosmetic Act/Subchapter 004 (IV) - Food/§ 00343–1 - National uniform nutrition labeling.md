@@ -20,7 +20,7 @@
 
 &emsp;(2) would not unduly burden interstate commerce, and
 
-&emsp;(3) is designed to address a particular need for information which need is not met by therequirements of the sections referred to in subsection (a) of this section.
+&emsp;(3) is designed to address a particular need for information which need is not met by the requirements of the sections referred to in subsection (a) of this section.
 
 (June 25, 1938, ch. 675, §403A, as added Pub. L. 101–535, §6(a), Nov. 8, 1990, 104 Stat. 2362; amended Pub. L. 102–108, §2(b), Aug. 17, 1991, 105 Stat. 549; Pub. L. 103–396, §3(a), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 108–282, title II, §203(c)(2), Aug. 2, 2004, 118 Stat. 908.)
 

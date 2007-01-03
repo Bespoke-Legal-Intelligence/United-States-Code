@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
 
-&emsp;(5) The term “Federal executive agency” includes the United States Postal Service, the Postal Rate Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
+&emsp;(5) The term “Federal executive agency” includes the United States Postal Service, the Postal Regulatory Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
 
 &emsp;(6) The term “Federal Government” includes any Federal executive agency, the legislative branch of the United States, and the judicial branch of the United States.
 
@@ -56,7 +56,7 @@ For the purposes of this chapter—
 
 &emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Prior Provisions
 
@@ -65,6 +65,8 @@ A prior section 4303, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 
 Another prior section 4303 was renumbered section 7603 of this title.
 
 #### Amendments
+
+2006—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2001—Par. (13). Pub. L. 107–14, §8(b)(2), made technical amendment to directory language of Pub. L. 106–419, §323(a)(1). See 2000 Amendment note below.
 
@@ -80,7 +82,7 @@ Pub. L. 106–419, §323(a)(1), as amended by Pub. L. 107–14, §8(b)(2), struc
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–14, §8(b), June 5, 2001, 115 Stat. 34, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
+Pub. L. 107–14, §8(b), June 5, 2001, 115 Stat. 36, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
 
 #### Effective Date of 2000 Amendment
 

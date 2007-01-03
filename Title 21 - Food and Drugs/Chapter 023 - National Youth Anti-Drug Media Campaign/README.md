@@ -1,25 +1,8 @@
 ### <b>CHAPTER 23—NATIONAL YOUTH ANTI-DRUG MEDIA CAMPAIGN</b>
 
-| Sec. |  |
-| :--- | ---: |
-| [1801\.](%C2%A7%2001801%20-%20Requirement%20to%20conduct%20national%20media%20campaign.md) | Requirement to conduct national media campaign |
-| (a) | In general. |
-| (b) | Local target requirement. |
-| [1802\.](%C2%A7%2001802%20-%20Use%20of%20funds.md) | Use of funds. |
-| (a) | Authorized uses. |
-| (b) | Prohibitions. |
-| (c) | Matching requirement. |
-| [1803\.](%C2%A7%2001803%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| [1804\.](%C2%A7%2001804%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01801 - Requirement to conduct national media campaign](%C2%A7%2001801%20-%20Requirement%20to%20conduct%20national%20media%20campaign.md)
-- [&sect; 01802 - Use of funds](%C2%A7%2001802%20-%20Use%20of%20funds.md)
-- [&sect; 01803 - Reports to Congress](%C2%A7%2001803%20-%20Reports%20to%20Congress.md)
-- [&sect; 01804 - Authorization of appropriations](%C2%A7%2001804%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01801 to 1804 - Repealed. Pub. L. 109&#8211;469, title V, &sect;501(b), Dec. 29, 2006, 120 Stat. 3533](%C2%A7%2001801%20to%201804%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93469%2C%20title%20V%2C%20%C2%A7501%28b%29%2C%20Dec.%2029%2C%202006%2C%20120%20Stat.%203533.md)

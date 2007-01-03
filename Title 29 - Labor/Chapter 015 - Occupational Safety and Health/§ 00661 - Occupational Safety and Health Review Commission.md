@@ -6,7 +6,7 @@ The Occupational Safety and Health Review Commission is hereby established. The 
 
 #### (b) Terms of office; removal by President
 
-The terms of members of the Commission shall be six years except that (1) the members ofthe Commission first taking office shall serve, as designated by the President at the time of appointment, one for a term of two years, one for a term of four years, and one for a term of six years, and (2) a vacancy caused by the death, resignation, or removal of a member prior to the expiration of the term for which he was appointed shall be filled only for the remainder of such unexpired term. A member of the Commission may be removed by the President for inefficiency, neglect of duty, or malfeasance in office.
+The terms of members of the Commission shall be six years except that (1) the members of the Commission first taking office shall serve, as designated by the President at the time of appointment, one for a term of two years, one for a term of four years, and one for a term of six years, and (2) a vacancy caused by the death, resignation, or removal of a member prior to the expiration of the term for which he was appointed shall be filled only for the remainder of such unexpired term. A member of the Commission may be removed by the President for inefficiency, neglect of duty, or malfeasance in office.
 
 #### (c) Omitted
 
@@ -62,7 +62,7 @@ In subsec. (e), reference to section 5372 of title 5 was substituted for section
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “An”.</i>
 

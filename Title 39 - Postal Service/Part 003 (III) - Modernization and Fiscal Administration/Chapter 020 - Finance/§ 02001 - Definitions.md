@@ -2,11 +2,19 @@
 
 As used in this chapter—
 
-&emsp;(1) “Fund” means the Postal Service Fund established by section 2003 of this chapter; and
+&emsp;(1) “Fund” means the Postal Service Fund established by section 2003 of this chapter;
 
-&emsp;(2) “obligations”, when referring to debt instruments issued by the Postal Service, means notes, bonds, debentures, mortgages, and any other evidence of indebtedness.
+&emsp;(2)
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738.)
+Competitive products fund.—The term “Competitive Products Fund” means the Postal Service Competitive Products Fund established by section 2011; and
+
+&emsp;(3) “obligations”, when referring to debt instruments issued by the Postal Service, means notes, bonds, debentures, mortgages, and any other evidence of indebtedness.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738; Pub. L. 109–435, title IV, §401(b)(1), Dec. 20, 2006, 120 Stat. 3225.)
+
+#### Amendments
+
+2006—Pars. (2), (3). Pub. L. 109–435 added par. (2) and redesignated former par. (2) as (3).
 
 #### Effective Date
 

@@ -36,7 +36,7 @@ In making such grants, the Council shall give preference to coalitions consistin
 
 #### (4) Nonsupplanting requirement
 
-&emsp;Funds made available under this subchapter to a governmental entity shall not be used to supplant State or local funds, or in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this subchapter, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
+&emsp;Funds made available under this subchapter to a governmental entity shall not be used tosupplant State or local funds, or in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this subchapter, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
 
 #### (5) Evaluation
 

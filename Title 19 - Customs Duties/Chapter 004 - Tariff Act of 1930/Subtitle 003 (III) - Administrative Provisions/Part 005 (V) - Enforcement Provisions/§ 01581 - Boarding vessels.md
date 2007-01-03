@@ -36,7 +36,7 @@ The provisions of this section shall not be construed to authorize or require an
 
 #### References in Text
 
-The Anti-Smuggling Act, referred to in subsec. (a), is act Aug. 5, 1935, ch. 438, 49 Stat. 517, as amended, which is classified principally to chapter 5 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1711 of this title and Tables.
+The Anti-Smuggling Act, referred to in subsec. (a), is act Aug. 5, 1935, ch. 438, 49 Stat. 517, as amended, whichis classified principally to chapter 5 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1711 of this title and Tables.
 
 The navigation laws, referred to in subsec. (b), are classified generally to Title 33, Navigation and Navigable Waters.
 

@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of this section, in the case of any alien describ
 
 &emsp;(2) whose removal was subsequent to a conviction for commission of an aggravated felony, such alien shall be fined under such title, imprisoned not more than 20 years, or both;
 
-&emsp;(3) who has been excluded from the United States pursuant to section 1225(c) of this title because the alien was excludable under section 1182(a)(3)(B) of this title or who has been removed from the United States pursuant to the provisions of subchapter V of this chapter, and who thereafter, without the permission of the Attorney General, enters the United States, or attempts to do so, shall be fined under title 18 and imprisoned for a period of 10 years, which sentence shall not run concurrently with any other sentence.<sup>1</sup> or
+&emsp;(3) who has been excluded from the United States pursuant to section 1225(c) of this titlebecause the alien was excludable under section 1182(a)(3)(B) of this title or who has been removed from the United States pursuant to the provisions of subchapter V of this chapter, and who thereafter, without the permission of the Attorney General, enters the United States, or attempts to do so, shall be fined under title 18 and imprisoned for a period of 10 years, which sentence shall not run concurrently with any other sentence.<sup>1</sup> or
 
 &emsp;(4) who was removed from the United States pursuant to section 1231(a)(4)(B) of this title who thereafter, without the permission of the Attorney General, enters, attempts to enter, or is at any time found in, the United States (unless the Attorney General has expressly consented to such alien's reentry) shall be fined under title 18, imprisoned for not more than 10 years, or both.
 

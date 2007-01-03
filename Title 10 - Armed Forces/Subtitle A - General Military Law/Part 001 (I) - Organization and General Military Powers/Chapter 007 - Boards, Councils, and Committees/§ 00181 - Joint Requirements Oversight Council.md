@@ -58,33 +58,5 @@ Section 905(b) of Pub. L. 104–106 provided that: “The amendments made by thi
 
 #### Reports on Joint Requirements Oversight Council Reform Initiative
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, provided that:
-
-“(a)
-
-Reports Required.—The Chairman of the Joints Chiefs of Staff shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a series of reports, as prescribed by subsection (b), on the activities of the Joint Requirements Oversight Council. The principal focus of each such report shall be on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
-
-“(b)
-
-Submission of Reports.—Reports under this section shall be submitted not later than March 1, 2001, September 1, 2001, March 1, 2002, and March 1, 2003. Each report shall cover the half of a fiscal year that ends five months before the date on which the report is due, except that the last report shall cover all of the preceding fiscal year.
-
-“(c)
-
-Content.—In the case of any report under this section after the first such report, if any matter to be included is unchanged from the preceding report, that matter may be included by reference to the preceding report. Each such report shall include, to the extent practicable, the following:
-
-&emsp;“(1) A listing of each of the capability areas designated by the Chairman of the Joints Chiefs of Staff as being within the principal domain of the Joint Requirements Oversight Council and a justification for each such designation.
-
-&emsp;“(2) A listing of the joint requirements developed, considered, or approved within each of the capability areas listed pursuant to paragraph (1).
-
-&emsp;“(3) A listing and explanation of the decisions made by the Joint Requirements Oversight Council and, to the extent appropriate, a listing of each of the recommendations to the Council made by the commander of the United States Joint Forces Command.
-
-&emsp;“(4) An assessment of—
-
-&emsp;&emsp;“(A) the progress made in shifting the Joint Requirements Oversight Council to having a more strategic focus on future war fighting requirements;
-
-&emsp;&emsp;“(B) the progress made on integration of requirements; and
-
-&emsp;&emsp;“(C) the progress made on development of overarching common architectures for defense information systems to ensure that common defense information systems are fully interoperable.
-
-&emsp;“(5) A description of any actions that have been taken to improve the Joint Requirements Oversight Council.”
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
 

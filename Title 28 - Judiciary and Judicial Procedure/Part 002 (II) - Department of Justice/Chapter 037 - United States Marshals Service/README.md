@@ -13,7 +13,7 @@
 | [569\.](%C2%A7%2000569%20-%20Reemployment%20rights.md) | Reemployment rights. |
 | \[570, 571. | Repealed.\] |
 | \[572. | Renumbered.\] |
-| \[572a to 574. | Repealed.\] |
+| \[572a to 574. Repealed.\] |  |
 | \[575, 576. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

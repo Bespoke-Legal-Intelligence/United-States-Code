@@ -2,17 +2,17 @@
 
 A State that establishes and operates a nutrition project under this chapter <sup>1</sup> shall—
 
-&emsp;(1) solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and
+&emsp;(1) solicit the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
 
 &emsp;(2) ensure that the project—
 
 &emsp;&emsp;(A) provides meals that—
 
-&emsp;&emsp;&emsp;(i) comply with the Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture,
+&emsp;&emsp;&emsp;(i) comply with the most recent Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture, and
 
 &emsp;&emsp;&emsp;(ii) provide to each participating older individual—
 
-&emsp;&emsp;&emsp;&emsp;(I) a minimum of 331/3 percent of the daily recommended dietary allowances as established by the Food and Nutrition Board of the Institute of Medicine of the National Academy of Sciences, if the project provides one meal per day,
+&emsp;&emsp;&emsp;&emsp;(I) a minimum of 331/3 percent of the dietary reference intakes established by the Food and Nutrition Board of the Institute of Medicine of the National Academy of Sciences, if the project provides one meal per day,
 
 &emsp;&emsp;&emsp;&emsp;(II) a minimum of 662/3 percent of the allowances if the project provides two meals per day, and
 
@@ -24,21 +24,29 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;(C) encourages providers to enter into contracts that limit the amount of time meals must spend in transit before they are consumed,
 
-&emsp;&emsp;(D) where feasible, encourages arrangements with schools and other facilities serving meals to children in order to promote intergenerational meal programs,
+&emsp;&emsp;(D) where feasible, encourages joint arrangements with schools and other facilities serving meals to children in order to promote intergenerational meal programs,
 
 &emsp;&emsp;(E) provides that meals, other than in-home meals, are provided in settings in as close proximity to the majority of eligible older individuals’ residences as feasible,
 
 &emsp;&emsp;(F) comply <sup>2</sup> with applicable provisions of State or local laws regarding the safe and sanitary handling of food, equipment, and supplies used in the storage, preparation, service, and delivery of meals to an older individual,
 
-&emsp;&emsp;(G) ensures that meal providers carry out such project with the advice of dietitians (or individuals with comparable expertise), meal participants, and other individuals knowledgeable with regard to the needs of older individuals,
+&emsp;&emsp;(G) ensures that meal providers solicit the advice and expertise of—
 
-&emsp;&emsp;(H) ensures that each participating area agency on aging establishes procedures that allow nutrition project administrators the option to offer a meal, on the same basis as meals provided to participating older individuals, to individuals providing volunteer services during the meal hours, and to individuals with disabilities who reside at home with and accompany older individuals eligible under this chapter,<sup>1</sup>
+&emsp;&emsp;&emsp;(i) a dietitian or other individual described in paragraph (1),
 
-&emsp;&emsp;(I) ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided, and
+&emsp;&emsp;&emsp;(ii) meal participants, and
 
-&emsp;&emsp;(J) provide <sup>3</sup> for nutrition screening and, where appropriate, for nutrition education and counseling.
+&emsp;&emsp;&emsp;(iii) other individuals knowledgeable with regard to the needs of older individuals,
 
-(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252.)
+&emsp;&emsp;(H) ensures that each participating area agency on aging establishes procedures that allow nutrition project administrators the option to offer a meal, on the same basis as meals provided to participating older individuals, to individuals providing volunteer services during the meal hours, and to individuals with disabilities who reside at home with older individuals eligible under this chapter,<sup>1</sup>
+
+&emsp;&emsp;(I) ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided,
+
+&emsp;&emsp;(J) provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate, and
+
+&emsp;&emsp;(K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals’ communities.
+
+(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252; amended Pub. L. 109–365, title III, §316, Oct. 17, 2006, 120 Stat. 2548.)
 
 #### Codification
 
@@ -48,9 +56,23 @@ Pub. L. 106–501, §313, which directed amendment of subpart 4 of part C of tit
 
 A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 102–375, title III, §317, Sept. 30, 1992, 106 Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
 
+#### Amendments
+
+2006—Par. (1). Pub. L. 109–365, §316(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and”.
+
+Par. (2)(A)(i). Pub. L. 109–365, §316(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “comply with the Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture,”.
+
+Par. (2)(A)(ii)(I). Pub. L. 109–365, §316(2)(A)(ii), substituted “dietary reference intakes” for “daily recommended dietary allowances as”.
+
+Par. (2)(D). Pub. L. 109–365, §316(2)(B), inserted “joint” after “encourages”.
+
+Par. (2)(G). Pub. L. 109–365, §316(2)(C), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “ensures that meal providers carry out such project with the advice of dietitians (or individuals with comparable expertise), meal participants, and other individuals knowledgeable with regard to the needs of older individuals,”.
+
+Par. (2)(H). Pub. L. 109–365, §316(2)(D), struck out “and accompany” after “home with”.
+
+Par. (2)(J), (K). Pub. L. 109–365, §316(2)(E), (F), added subpars. (J) and (K) and struck out former subpar. (J) which read as follows: “provide for nutrition screening and, where appropriate, for nutrition education and counseling.”
+
 <i><sup>1</sup></i><i> So in original. Title III of Pub. L. 89–73, as amended, contained parts and subparts, but not chapters.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “complies”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “provides”.</i>
 

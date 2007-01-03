@@ -12,7 +12,7 @@ Compliance with the requirements imposed under this chapter shall be enforced un
 
 &emsp;&emsp;(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, andorganizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board; and
 
 &emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks as defined in section 1813(f) of this title, insured State branches of foreign banks, and any other depository institution not referred to in this paragraph or paragraph (2) or (3) of this subsection, by the Board of Directors of the Federal Deposit Insurance Corporation;
 
@@ -55,6 +55,10 @@ Subsec. (b)(4). Pub. L. 101–73, §1211(g), added par. (4).
 #### Effective Date of 1989 Amendment
 
 Amendment by section 1211(g) of Pub. L. 101–73 applicable to each calendar year beginning after Dec. 31, 1989, see section 1211(k) of Pub. L. 101–73, set out as a note under section 2802 of this title.
+
+#### Transfer of Functions
+
+Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

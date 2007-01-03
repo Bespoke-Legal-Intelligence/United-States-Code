@@ -10,7 +10,7 @@
 
 #### (B) Regulation
 
-&emsp;&emsp;The Farm Credit Administration may, by regulation, require that loans not exceed 75 percent of the appraised value of the real estate security.
+&emsp;&emsp;The Farm Credit Administration may, by regulation, require that loans not exceed 75percent of the appraised value of the real estate security.
 
 #### (C) Guaranteed loans
 

@@ -6,5 +6,5 @@ There shall be hereafter in the Department of the Interior, in addition to the A
 
 #### Senate Confirmation of Presidential Appointment of Additional Assistant Secretary of the Interior as Repealing Provisions for Assistant Secretary of the Interior for Administration
 
-Section 3 of Pub. L. 92–22 provided that: “Section 4 of Reorganization Plan Numbered 3 of 1950, as amended (64 Stat. 1262) \[set out under section 1451 of this title\], anditem (25) of section 5316, title 5, United States Code, are repealed, effective upon the confirmation by the United States Senate of a Presidential appointee to fill the position created by this Act \[enacting this section and section 5315(18) of Title 5, Government Organization and Employees\].”
+Section 3 of Pub. L. 92–22 provided that: “Section 4 of Reorganization Plan Numbered 3 of 1950, as amended (64 Stat. 1262) \[set out under section 1451 of this title\], and item (25) of section 5316, title 5, United States Code, are repealed, effective upon the confirmation by the United States Senate of a Presidential appointee to fill the position created by this Act \[enacting this section and section 5315(18) of Title 5, Government Organization and Employees\].”
 

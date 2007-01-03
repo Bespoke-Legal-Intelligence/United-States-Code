@@ -62,7 +62,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 #### (d) Matching requirement
 
-The Secretary may not make a grant to a State under this section unless that State agrees that, with respect to the costs to be incurred by the State in carrying out the activities for which the grant was awarded, the State will provide non-Federal contributions in an amount equal to not less than 40 percent of Federal funds provided under the grant. The State may provide the contributions in cash or in kind, fairly evaluated, including plant, equipment, and services and may provide the contributions from State, local, or private sources.
+The Secretary may not make a grant to a State under this section unless that State agrees that, with respect to the costs to be incurred by the State in carrying out the activities for which the grant was awarded, the State will provide non-Federal contributions in an amount equal to not less than 40 percent of Federal funds provided under the grant. The Statemay provide the contributions in cash or in kind, fairly evaluated, including plant, equipment, and services and may provide the contributions from State, local, or private sources.
 
 #### (e) Report
 
@@ -76,5 +76,5 @@ There is authorized to be appropriated to carry out this section, $50,000,000 fo
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

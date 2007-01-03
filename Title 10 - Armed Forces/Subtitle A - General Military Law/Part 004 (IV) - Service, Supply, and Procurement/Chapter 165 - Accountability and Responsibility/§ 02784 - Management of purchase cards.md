@@ -2,7 +2,7 @@
 
 (a)
 
-Management of Purchase Cards.—The Secretary of Defense shall prescribe regulations governing the use and control of all purchase cards and convenience checks that are issued to Department of Defense personnel for official use.Those regulations shall be consistent with regulations that apply Government-wide regarding use of purchase cards by Government personnel for official purposes.
+Management of Purchase Cards.—The Secretary of Defense shall prescribe regulations governing the use and control of all purchase cards and convenience checks that are issued to Department of Defense personnel for official use. Those regulations shall be consistent with regulations that apply Government-wide regarding use of purchase cards by Government personnel for official purposes.
 
 (b)
 
@@ -44,7 +44,7 @@ Penalties for Violations.—The regulations prescribed under subsection (a) shal
 
 &emsp;(1) provide for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, or fraud with respect to a purchase card, including removal in appropriate cases; and
 
-&emsp;(2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
+&emsp;(2) provide that a violation of such regulations by a person subject to chapter 47 of thistitle (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
 
 (Added Pub. L. 106–65, div. A, title IX, §933(a)(1), Oct. 5, 1999, 113 Stat. 728; amended Pub. L. 107–314, div. A, title X, §1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634.)
 

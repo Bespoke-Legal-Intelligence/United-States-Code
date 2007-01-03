@@ -14,7 +14,7 @@ The land laws of the United States, referred to in text, are classified generall
 
 #### Amendments
 
-1956—Act July 20, 1956, permitted disposal of mineral deposits which are subject, at the time of applicationfor patent, to valid and subsisting rights acquired by discovery and location under the mining laws made prior to Feb. 25, 1920.
+1956—Act July 20, 1956, permitted disposal of mineral deposits which are subject, at the time of application for patent, to valid and subsisting rights acquired by discovery and location under the mining laws made prior to Feb. 25, 1920.
 
 #### Lands in North Platte Reclamation Project; Mineral Rights
 

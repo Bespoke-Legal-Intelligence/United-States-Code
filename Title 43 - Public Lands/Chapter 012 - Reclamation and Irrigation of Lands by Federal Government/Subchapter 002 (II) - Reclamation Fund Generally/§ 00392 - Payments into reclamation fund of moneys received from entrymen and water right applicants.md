@@ -6,7 +6,7 @@ All moneys received from entrymen or applicants for water rights shall be paid i
 
 #### Codification
 
-Section is comprised of fourth sentence of section 5 of act June 17, 1902. First, second and fifth sentences ofsuch section 5 were classified to sections 439, 431 and 381 of this title, respectively; part of third sentence was classified to section 476 of this title.
+Section is comprised of fourth sentence of section 5 of act June 17, 1902. First, second and fifth sentences of such section 5 were classified to sections 439, 431 and 381 of this title, respectively; part of third sentence was classified to section 476 of this title.
 
 #### Section as Unaffected by Submerged Lands Act
 

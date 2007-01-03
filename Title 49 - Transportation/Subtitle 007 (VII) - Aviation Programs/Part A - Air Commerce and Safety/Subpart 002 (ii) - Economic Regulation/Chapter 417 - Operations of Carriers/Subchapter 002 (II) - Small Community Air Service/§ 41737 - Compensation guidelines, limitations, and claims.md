@@ -6,7 +6,7 @@ Compensation Guidelines.—(1) The Secretary of Transportation shall prescribe g
 
 &emsp;(A) provide for a reduction in compensation when an air carrier does not provide service or transportation agreed to be provided;
 
-&emsp;(B) consider amounts needed by an air carrier to promote public use of the service or transportation for which compensation is being paid; and
+&emsp;(B) consider amounts needed by an air carrier to promote public use of the service ortransportation for which compensation is being paid; and
 
 &emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers, property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided.
 
@@ -44,7 +44,7 @@ Readjustment if costs subsequently decline.—If an adjustment is made under par
 
 &emsp;(3)
 
-Significantly increased costs defined.—In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation tothe total unit cost reflected in the compensation rate, based on the carrier's internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
+Significantly increased costs defined.—In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation to the total unit cost reflected in the compensation rate, based on the carrier's internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1151; Pub. L. 108–176, title IV, §402(a), Dec. 12, 2003, 117 Stat. 2543.)
 

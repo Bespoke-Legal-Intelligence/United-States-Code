@@ -4,7 +4,7 @@
 
 There is established the Council on Graduate Medical Education (in this section referred to as the “Council”). The Council shall—
 
-&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this sectionreferred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
 
 &emsp;&emsp;(A) the supply and distribution of physicians in the United States;
 

@@ -18,7 +18,7 @@
 
 #### (B) Respect for journalistic integrity of broadcasters
 
-&emsp;&emsp;The Inspector General shall respect the journalistic integrity of all the broadcasters covered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
+&emsp;&emsp;The Inspector General shall respect the journalistic integrity of all the broadcasterscovered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
 
 #### (b) Composition of Board
 
@@ -62,7 +62,7 @@ The Inspector General Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 
 
 #### Amendments
 
-1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2)by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
+1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
 Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(1)\], substituted “appoint” for “designate”.
 

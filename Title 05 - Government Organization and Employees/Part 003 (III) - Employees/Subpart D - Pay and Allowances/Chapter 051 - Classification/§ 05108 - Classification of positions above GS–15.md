@@ -146,7 +146,7 @@ Subsec. (c)(13) to (16). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (13)
 
 Subsec. (c)(17). Pub. L. 95–563 added par. (17).
 
-Subsec. (d). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (d) which provided the order for reducing the positions authorized to be placed in grades GS–16, 17, and 18 under this section when a general authorization statute authorized additional positions in these grades.
+Subsec. (d). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (d) which provided the order for reducing the positions authorized to be placed in grades GS–16, 17,and 18 under this section when a general authorization statute authorized additional positions in these grades.
 
 Subsec. (e). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (e) which authorized Commissioner of Internal Revenue to place 20 additional positions in grades GS–16 and 17.
 

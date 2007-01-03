@@ -46,7 +46,7 @@ National Academy of Sciences.—The Secretary may make grants to, and enter into
 
 #### Prior Provisions
 
-A prior section 507, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 832, related to expenses incidental totransfer of property, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 507, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 832, related to expenses incidental to transfer of property, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
 

@@ -40,7 +40,7 @@ An entity designated by an Indian tribe as a housing entity shall be treated, fo
 
 &emsp;&emsp;(A) may revise the report; and
 
-&emsp;&emsp;(B) not later than 30 days after the date on which those comments are received, shall make the comments and the report (with any revisions made under subparagraph (A)) readily available to the public.
+&emsp;&emsp;(B) not later than 30 days after the date on which those comments are received, shallmake the comments and the report (with any revisions made under subparagraph (A)) readily available to the public.
 
 #### (d) Effect of reviews
 

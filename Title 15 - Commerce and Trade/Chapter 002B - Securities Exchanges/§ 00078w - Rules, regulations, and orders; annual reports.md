@@ -8,7 +8,33 @@
 
 (3) The Commission and the Secretary, in making rules and regulations pursuant to any provision of this chapter, considering any application for registration in accordance with section 78s(a) of this title, or reviewing any proposed rule change of a self-regulatory organization in accordance with section 78s(b) of this title, shall keep in a public file and make available for copying all written statements filed with the Commission and the Secretary and all written communications between the Commission or the Secretary and any person relating to the proposed rule, regulation, application, or proposed rule change: <i>Provided, however</i>, That the Commission and the Secretary shall not be required to keep in a public file or make available for copying any such statement or communication which it may withhold from the public in accordance with the provisions of section 552 of title 5.
 
-#### (b) Omitted
+#### (b) Annual report to Congress
+
+(1) The Commission, the Board of Governors of the Federal Reserve System, and the other agencies enumerated in section 78c(a)(34) of this title, other than the Office of Thrift Supervision, shall each make an annual report to the Congress on its work for the preceding year, and shall include in each such report whatever information, data, and recommendations for further legislation it considers advisable with regard to matters within its respective jurisdiction under this chapter.
+
+(2) The appropriate regulatory agency for a self-regulatory organization shall include in its annual report to the Congress for each fiscal year, a summary of its oversight activities under this chapter with respect to such self-regulatory organization, including a description of any examination conducted as part of such activities of any such organization, any material recommendation presented as part of such activities to such organization for changes in its organization or rules, and any action by such organization in response to any such recommendation.
+
+(3) The appropriate regulatory agency for any class of municipal securities dealers shall include in its annual report to the Congress for each fiscal year a summary of its regulatory activities pursuant to this chapter with respect to such municipal securities dealers, including the nature of and reason for any sanction imposed pursuant to this chapter against any such municipal securities dealer.
+
+(4) The Commission shall also include in its annual report to the Congress for each fiscal year—
+
+&emsp;(A) a summary of the Commission's oversight activities with respect to self-regulatory organizations for which it is not the appropriate regulatory agency, including a description of any examination of any such organization, any material recommendation presented to any such organization for changes in its organization or rules, and any action by any such organization in response to any such recommendations;
+
+&emsp;(B) a statement and analysis of the expenses and operations of each self-regulatory organization in connection with the performance of its responsibilities under this chapter, for which purpose data pertaining to such expenses and operations shall be made available by such organization to the Commission at its request;
+
+&emsp;(C) the steps the Commission has taken and the progress it has made toward ending the physical movement of the securities certificate in connection with the settlement of securities transactions, and its recommendations, if any, for legislation to eliminate the securities certificate;
+
+&emsp;(D) the number of requests for exemptions from provisions of this chapter received, the number granted, and the basis upon which any such exemption was granted;
+
+&emsp;(E) a summary of the Commission's regulatory activities with respect to municipal securities dealers for which it is not the appropriate regulatory agency, including the nature of, and reason for, any sanction imposed in proceedings against such municipal securities dealers;
+
+&emsp;(F) a statement of the time elapsed between the filing of reports pursuant to section 78m(f) of this title and the public availability of the information contained therein, the costs involved in the Commission's processing of such reports and tabulating such information, the manner in which the Commission uses such information, and the steps the Commission has taken and the progress it has made toward requiring such reports to be filed and such information to be made available to the public in machine language;
+
+&emsp;(G)information concerning (i) the effects its rules and regulations are having on the viability of small brokers and dealers; (ii) its attempts to reduce any unnecessary reporting burden on such brokers and dealers; and (iii) its efforts to help to assure the continued participation of small brokers and dealers in the United States securities markets;
+
+&emsp;(H) a statement detailing its administration of the Freedom of Information Act, section 552 of title 5, including a copy of the report filed pursuant to subsection (d) of such section; and
+
+&emsp;(I) the steps that have been taken and the progress that has been made in promoting the timely public dissemination and availability for analytical purposes (on a fair, reasonable, and nondiscriminatory basis) of information concerning government securities transactions and quotations, and its recommendations, if any, for legislation to assure timely dissemination of (i) information on transactions in regularly traded government securities sufficient to permit the determination of the prevailing market price for such securities, and (ii) reports of the highest published bids and lowest published offers for government securities (including the size at which persons are willing to trade with respect to such bids and offers).
 
 #### (c) Procedure for adjudication
 
@@ -18,17 +44,15 @@ The Commission, by rule, shall prescribe the procedure applicable to every case 
 
 Within 1 year after October 15, 1990, the Commission shall establish regulations providing for the expeditious conduct of hearings and rendering of decisions under section 78u–3 of this title, section 77h–1 of this title, section 80a–9(f) of this title, and section 80b–3(k) of this title.
 
-(June 6, 1934, ch. 404, title I, §23, 48 Stat. 901; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; May 27, 1936, ch. 462, §8, 49 Stat. 1379; Pub. L. 88–467, §10, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §18, June 4, 1975, 89 Stat. 155; Pub. L. 99–571, title I, §102(j), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title III, §§324, 325, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 101–429, title II, §204, Oct. 15, 1990, 104 Stat. 940; Pub. L. 103–202, title I, §107, Dec. 17, 1993, 107 Stat. 2351.)
+(June 6, 1934, ch. 404, title I, §23, 48 Stat. 901; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; May 27, 1936, ch. 462, §8, 49 Stat. 1379; Pub. L. 88–467, §10, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §18, June 4, 1975, 89 Stat. 155; Pub. L. 99–571, title I, §102(j), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title III, §§324, 325, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 101–429, title II, §204, Oct. 15, 1990, 104 Stat. 940; Pub. L. 103–202, title I, §107, Dec. 17, 1993, 107 Stat. 2351; Pub. L. 109–351, title IV, §401(a)(3), Oct. 13, 2006, 120 Stat. 1973.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this title”. See References in Text note set out under section 78a of this title.
-
-#### Codification
-
-Subsection (b), which required the Commission, the Board of Governors of the Federal Reserve System, and other agencies enumerated in section 78c(a)(34) of this title, to each make an annual report to Congress on its work for the preceding year, and to include certain specified information in the reports, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 143, 167, 172, and 190 of House Document No. 103–7.
+This chapter, referred to in subsecs. (a) to (c), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–351 inserted “other than the Office of Thrift Supervision,” before “shall each”.
 
 1993—Subsec. (b)(4)(C) to (K). Pub. L. 103–202, §107, redesignated subpars. (E) to (G) and (I) to (K) as (C) to (E) and (F) to (H), respectively, added a new subpar. (I), and struck out former subpars. (C), (D), and (H). Prior to amendment, subpars. (C), (D), and (H) read as follows:
 
@@ -83,6 +107,10 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 #### Construction of 1993 Amendment
 
 Amendment by Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78<i>o</i>–5 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 2nd item on page 143, the 18th item on page 167, the 7th item on page 172, and 18th item on page 190 identify a reporting provision which, as subsequently amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

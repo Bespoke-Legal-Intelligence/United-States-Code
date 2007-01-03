@@ -76,13 +76,5 @@ Subsec. (e). Pub. L. 106–65, §1067(1), substituted “and the Committee on Ar
 
 #### Implementation
 
-Pub. L. 105–261, div. A, title III, §373(b), (c), Oct. 17, 1998, 112 Stat. 1992, as amended by Pub. L. 106–65, div. A, title III, §361(d)(2), Oct. 5, 1999, 113 Stat. 575, provided that:
-
-“(b)
-
-Implementation.—The Secretary of Defense shall establish and implement the readiness reporting system required by section 117 of title 10, United States Code, as added by subsection (a), so as to ensure that the capabilities required by subsection (c) of that section are attained not later than April 1, 2000.
-
-“(c)
-
-Implementation Plan.—Not later than March 1, 1999, the Secretary of Defense shall submit to Congress a report setting forth the Secretary's plan for implementation of section 117 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 105–261, div. A, title III, §373(b), (c), Oct. 17, 1998, 112 Stat. 1992, as amended by Pub. L. 106–65, div. A, title III, §361(d)(2), Oct. 5, 1999, 113 Stat. 575, directed the Secretary of Defense to submit to Congress a report, not later than Mar. 1, 1999, setting forth a plan for implementation of this section, and required the Secretary to establish and implement the readiness reporting system required by this section so as to ensure that required capabilities would be attained not later than Apr. 1, 2000.
 

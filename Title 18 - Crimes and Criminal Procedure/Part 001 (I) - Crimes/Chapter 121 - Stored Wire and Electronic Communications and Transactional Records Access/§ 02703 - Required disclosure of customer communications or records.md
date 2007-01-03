@@ -26,7 +26,7 @@ Contents of Wire or Electronic Communications in a Remote Computing Service.—(
 
 (c)
 
-Records Concerning Electronic Communication Service or Remote Computing Service.—(1) A governmental entity may require aprovider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity—
+Records Concerning Electronic Communication Service or Remote Computing Service.—(1) A governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity—
 
 &emsp;(A) obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation or equivalent State warrant;
 
@@ -82,10 +82,6 @@ Presence of Officer Not Required.—Notwithstanding section 3105 of this title, 
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by sections 209(2), 212(b)(1), 220(a)(1), (b) of Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
-
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A), and (c)(1)(B)(i), are set out in the Appendix to this title.
@@ -100,27 +96,27 @@ Subsec. (e). Pub. L. 107–296 inserted “, statutory authorization” after �
 
 Subsec. (g). Pub. L. 107–273, §11010, added subsec. (g).
 
-2001—Pub. L. 107–56, §§212(b)(1)(A), 224, temporarily substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline. See Termination Date of 2001 Amendment note below.
+2001—Pub. L. 107–56, §212(b)(1)(A), substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline.
 
-Subsec. (a). Pub. L. 107–56, §§209(2)(A), (B), 220(a)(1), 224, temporarily substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading and “contents of a wire or electronic” for “contents of an electronic” in two places and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in text. See Termination Date of 2001 Amendment note below.
+Subsec. (a). Pub. L. 107–56, §§209(2)(A), (B), 220(a)(1), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading and “contents of a wire or electronic” for “contents of an electronic” in two places and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in text.
 
-Subsec. (b). Pub. L. 107–56, §§209(2)(A), 224, temporarily substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading. See Termination Date of 2001 Amendment note below.
+Subsec. (b). Pub. L. 107–56, §209(2)(A), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading.
 
-Subsec. (b)(1). Pub. L. 107–56, §§209(2)(C), 220(a)(1), 224, temporarily substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A). See Termination Date of 2001 Amendment note below.
+Subsec. (b)(1). Pub. L. 107–56, §§209(2)(C), 220(a)(1), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A).
 
-Subsec. (b)(2). Pub. L. 107–56, §§209(2)(C), 224, temporarily substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions. See Termination Date of 2001 Amendment note below.
+Subsec. (b)(2). Pub. L. 107–56, §209(2)(C), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 107–56, §§212(b)(1)(C), 220(a)(1), 224, temporarily designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted “A governmental entity may require a provider of electronic communication service or remote computing service to” for “(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may” and a closing parenthesis for provisions which began with “covered by subsection (a) or (b) of this section) to any person other than a governmental entity.” in former subpar. (A) and ended with “(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity”, redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A) and “; or” for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2). See Termination Date of 2001 Amendment note below.
+Subsec. (c)(1). Pub. L. 107–56, §§212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted “A governmental entity may require a provider of electronic communication service or remote computing service to” for “(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may” and a closing parenthesis for provisions which began with “covered by subsection (a) or (b) of this section) to any person other than a governmental entity.” in former subpar. (A) and ended with “(B) Aprovider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity”, redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A) and “; or” for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
 
 Subsec. (c)(2). Pub. L. 107–56, §210, amended par. (2), as redesignated by section 212 of Pub. L. 107–56, by substituting “entity the—” for “entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber” in introductory provisions, inserting subpars. (A) to (F), striking out “and the types of services the subscriber or customer utilized,” before “when the governmental entity uses an administrative subpoena”, inserting “of a subscriber” at beginning of concluding provisions and designating “to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1).” as remainder of concluding provisions.
 
-Pub. L. 107–56, §§212(b)(1)(C)(iii), (D), 224, temporarily redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted “paragraph (1)” for “subparagraph (B)”. See Termination Date of 2001 Amendment note below.
+Pub. L. 107–56, §212(b)(1)(C)(iii), (D), redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted “paragraph (1)” for “subparagraph (B)”.
 
-Pub. L. 107–56, §§212(b)(1)(B), 224, temporarily redesignated par. (2) as (3). See Termination Date of 2001 Amendment note below.
+Pub. L. 107–56, §212(b)(1)(B), redesignated par. (2) as (3).
 
-Subsec. (c)(3). Pub. L. 107–56, §§212(b)(1)(B), 224, temporarily redesignated par. (2) as (3). See Termination Date of 2001 Amendment note below.
+Subsec. (c)(3). Pub. L. 107–56, §212(b)(1)(B), redesignated par. (2) as (3).
 
-Subsec. (d). Pub. L. 107–56, §§220(b), 224, temporarily struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”. See Termination Date of 2001 Amendment note below.
+Subsec. (d). Pub. L. 107–56, §220(b), struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”.
 
 1998—Subsec. (c)(1)(B)(iv). Pub. L. 105–184 added cl. (iv).
 
@@ -145,8 +141,4 @@ Subsec. (d). Pub. L. 100–690, §7039, inserted “may be issued by any court t
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
-
-#### Termination Date of 2001 Amendment
-
-Amendment by sections 209(2), 212(b)(1), 220(a)(1), (b) of Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
 

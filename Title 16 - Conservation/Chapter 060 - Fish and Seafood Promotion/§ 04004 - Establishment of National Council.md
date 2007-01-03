@@ -38,7 +38,7 @@ Members of the National Council shall be appointed for a term of 4 years. A vaca
 
 #### (f) Chairman
 
-The National Council shall annually elect a Chairman by a majority of those voting, if a quorum is present. Ten members of the National Council shall constitute a quorum, but a lesser number may hold hearings.
+The National Council shall annually elect a Chairman by a majority of those voting, if aquorum is present. Ten members of the National Council shall constitute a quorum, but a lesser number may hold hearings.
 
 #### (g) First meeting
 

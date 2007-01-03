@@ -2,7 +2,7 @@
 
 #### (a) Policies, procedures and recommendations
 
-Further to promote achievement of full employment under this chapter and the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President, through the Secretary of Labor, shall develop policies and procedures and, as necessary, recommend programs for providing employment opportunities to individuals aged 16 and over in the civilian labor force who are able, willing, and seeking to work but who, despite serious efforts to obtain employment, remain unemployed.
+Further to promote achievement of full employment under this chapter and the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], thePresident, through the Secretary of Labor, shall develop policies and procedures and, as necessary, recommend programs for providing employment opportunities to individuals aged 16 and over in the civilian labor force who are able, willing, and seeking to work but who, despite serious efforts to obtain employment, remain unemployed.
 
 #### (b) Utilization of authority under other laws
 
@@ -54,7 +54,7 @@ The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20,
 
 The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classifiedprincipally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 

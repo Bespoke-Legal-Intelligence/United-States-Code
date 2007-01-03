@@ -7,7 +7,12 @@
 | [1462\.](%C2%A7%2001462%20-%20Importation%20or%20transportation%20of%20obscene%20matters.md) | Importation or transportation of obscene matters. |
 | [1463\.](%C2%A7%2001463%20-%20Mailing%20indecent%20matter%20on%20wrappers%20or%20envelopes.md) | Mailing indecent matter on wrappers or envelopes. |
 | [1464\.](%C2%A7%2001464%20-%20Broadcasting%20obscene%20language.md) | Broadcasting obscene language. |
-| [1465\.](%C2%A7%2001465%20-%20Transportation%20of%20obscene%20matters%20for%20sale%20or%20distribution.md) | Transportation of obscene matters for sale or distribution. |
+| [1465\.](%C2%A7%2001465%20-%20Production%20and%20transportation%20of%20obscene%20matters%20for%20sale%20or%20distribution.md) | Transportation of obscene matters for sale or distribution.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1466\.](%C2%A7%2001466%20-%20Engaging%20in%20the%20business%20of%20selling%20or%20transferring%20obscene%20matter.md) | Engaging in the business of selling or transferring obscene matter. |
 | [1466A.](%C2%A7%2001466A%20-%20Obscene%20visual%20representations%20of%20the%20sexual%20abuse%20of%20children.md) | Obscene visual representations of the sexual abuse of children. |
 | [1467\.](%C2%A7%2001467%20-%20Criminal%20forfeiture.md) | Criminal forfeiture. |
@@ -29,6 +34,8 @@
 
 1950—Act May 27, 1950, ch. 214, §2, 64 Stat. 194, substituted “matters” for “literature” in item 1462.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 109–248 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -39,7 +46,7 @@
 - [&sect; 01462 - Importation or transportation of obscene matters](%C2%A7%2001462%20-%20Importation%20or%20transportation%20of%20obscene%20matters.md)
 - [&sect; 01463 - Mailing indecent matter on wrappers or envelopes](%C2%A7%2001463%20-%20Mailing%20indecent%20matter%20on%20wrappers%20or%20envelopes.md)
 - [&sect; 01464 - Broadcasting obscene language](%C2%A7%2001464%20-%20Broadcasting%20obscene%20language.md)
-- [&sect; 01465 - Transportation of obscene matters for sale or distribution](%C2%A7%2001465%20-%20Transportation%20of%20obscene%20matters%20for%20sale%20or%20distribution.md)
+- [&sect; 01465 - Production and transportation of obscene matters for sale or distribution](%C2%A7%2001465%20-%20Production%20and%20transportation%20of%20obscene%20matters%20for%20sale%20or%20distribution.md)
 - [&sect; 01466 - Engaging in the business of selling or transferring obscene matter](%C2%A7%2001466%20-%20Engaging%20in%20the%20business%20of%20selling%20or%20transferring%20obscene%20matter.md)
 - [&sect; 01466A - Obscene visual representations of the sexual abuse of children](%C2%A7%2001466A%20-%20Obscene%20visual%20representations%20of%20the%20sexual%20abuse%20of%20children.md)
 - [&sect; 01467 - Criminal forfeiture](%C2%A7%2001467%20-%20Criminal%20forfeiture.md)

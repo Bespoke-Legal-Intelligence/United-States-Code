@@ -8,7 +8,7 @@
 
 #### (b) Rules to establish reasonable testing programs
 
-The Commission may by rule prescribe reasonable testing programs for consumer products which are subject to consumer product safety standards under this chapter and for which a certificate is required under subsection (a) of this section. Any test or testing program on the basis of which a certificate is issued under subsection (a) of this section may, at the option of the person required to certify the product, be conducted by an independent third party qualified to perform such tests or testing programs.
+The Commission may by rule prescribe reasonable testing programs for consumer productswhich are subject to consumer product safety standards under this chapter and for which a certificate is required under subsection (a) of this section. Any test or testing program on the basis of which a certificate is issued under subsection (a) of this section may, at the option of the person required to certify the product, be conducted by an independent third party qualified to perform such tests or testing programs.
 
 #### (c) Form and contents of labels
 

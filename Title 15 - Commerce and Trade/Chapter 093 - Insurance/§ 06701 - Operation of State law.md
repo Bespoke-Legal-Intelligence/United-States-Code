@@ -40,7 +40,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, orother action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
+&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, or other action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
 
 #### (B) Certain State laws preserved
 
@@ -74,7 +74,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or that insurance is available from the depository institution or an affiliate of the depository institution.
 
-&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or anyaffiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
+&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
 
 &emsp;&emsp;&emsp;(x) Restrictions requiring clear and conspicuous disclosure, in writing, where practicable, to the customer prior to the sale of any insurance policy that such policy—
 
@@ -134,7 +134,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;(D) it—
 
-&emsp;&emsp;&emsp;(i) does not distinguish by its terms between depository institutions, and affiliates thereof, engaged in the activity at issue and other persons engaged in thesame activity in a manner that is in any way adverse with respect to the conduct of the activity by any such depository institution or affiliate engaged in the activity at issue;
+&emsp;&emsp;&emsp;(i) does not distinguish by its terms between depository institutions, and affiliates thereof, engaged in the activity at issue and other persons engaged in the same activity in a manner that is in any way adverse with respect to the conduct of the activity by any such depository institution or affiliate engaged in the activity at issue;
 
 &emsp;&emsp;&emsp;(ii) as interpreted or applied, does not have, and will not have, an impact on depository institutions, or affiliates thereof, engaged in the activity at issue, or any person who has an association with any such depository institution or affiliate, that is substantially more adverse than its impact on other persons engaged in the same activity that are not depository institutions or affiliates thereof, or persons who do not have an association with any such depository institution or affiliate;
 
@@ -454,7 +454,7 @@ In general.—There is established in the Department of the Treasury the Terrori
 
 &emsp;“(2)
 
-Authority of the secretary.—Notwithstanding any other provision of State or Federal law, theSecretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
+Authority of the secretary.—Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
 
 &emsp;“(3)
 
@@ -870,7 +870,7 @@ Preemption of state actions.—All State causes of action of any kind for proper
 
 &emsp;“(3)
 
-Substantive law.—The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
+Substantive law.—The substantive law for decision in any such action described in paragraph (1)shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
 
 &emsp;“(4)
 

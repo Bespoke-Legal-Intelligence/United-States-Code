@@ -12,7 +12,7 @@
 
 > The owner shall elect the term to be reserved.
 
-(B) The retention of rights under subparagraph (A) shall be available only to individuals who are homeowners of record as of July 1, 1986, who have attained the age of majority as of that date and who make a bona fide written offer not later than July 1, 1991, to sell to the Secretary.
+(B) The retention of rights under subparagraph (A) shall be available only to individuals whoare homeowners of record as of July 1, 1986, who have attained the age of majority as of that date and who make a bona fide written offer not later than July 1, 1991, to sell to the Secretary.
 
 (3)(A) In the case of improved property included within the boundaries of the lakeshore after October 1, 1991, that was not included within such boundaries on or before that date, an individual who is an owner of record of such property may retain a right of use and occupancy of such improved property for noncommercial residential purposes for a term ending, subject to subparagraph (B), at either of the following:
 
@@ -30,7 +30,7 @@
 
 #### (b) Termination of use and occupancy; pre-October 18, 1976, standards of use and occupancy to remain in effect
 
-Upon his determination that the property, or any portion thereof, has ceased to be used in accordance with the applicable terms and conditions, the Secretary may terminate a right of use and occupancy. Nonpayment of property taxes, validly assessed, on any retained right of use and occupancy shall also be grounds for termination of such right by the Secretary. In theevent the Secretary terminates a right of use and occupancy under this subsection he shall pay to the owners of the retained right so terminated an amount equal to the fair market value of the portion of said right which remained unexpired on the date of termination. With respect to any right of use and occupancy in existence on the effective date of this sentence, standards for retention of such rights in effect at the time such rights were reserved shall constitute the terms and conditions referred to in section 460u–3 of this title.
+Upon his determination that the property, or any portion thereof, has ceased to be used in accordance with the applicable terms and conditions, the Secretary may terminate a right of use and occupancy. Nonpayment of property taxes, validly assessed, on any retained right of use and occupancy shall also be grounds for termination of such right by the Secretary. In the event the Secretary terminates a right of use and occupancy under this subsection he shall pay to the owners of the retained right so terminated an amount equal to the fair market value of the portion of said right which remained unexpired on the date of termination. With respect to any right of use and occupancy in existence on the effective date of this sentence, standards for retention of such rights in effect at the time such rights were reserved shall constitute the terms and conditions referred to in section 460u–3 of this title.
 
 #### (c) Extension of use and occupancy rights
 

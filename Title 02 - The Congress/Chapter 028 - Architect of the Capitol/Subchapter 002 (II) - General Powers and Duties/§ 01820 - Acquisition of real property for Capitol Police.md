@@ -26,7 +26,7 @@ Section was classified to section 166m of former Title 40, prior to the enactmen
 
 Pub. L. 108–199, div. H, §152, Jan. 23, 2004, 118 Stat. 448, provided that:
 
-“(a) Notwithstanding section 907(a) of Public Law 107–206 (116 Stat. 977) \[2 U.S.C. 1820(a)\] or section 1102 of the Legislative Branch Appropriations Act, 2004 (2 U.S.C. 1822(b)), the Architect of the Capitol, at anytime after the date of the enactment of this Act \[Jan. 23, 2004\] and subject to the availability of appropriations, may enter into an agreement to acquire by lease any portion of the real property located at 499 South Capitol Street Southwest in the District of Columbia for the use of the United States Capitol Police.
+“(a) Notwithstanding section 907(a) of Public Law 107–206 (116 Stat. 977) \[2 U.S.C. 1820(a)\] or section 1102 of the Legislative Branch Appropriations Act, 2004 (2 U.S.C. 1822(b)), the Architect of the Capitol, at any time after the date of the enactment of this Act \[Jan. 23, 2004\] and subject to the availability of appropriations, may enter into an agreement to acquire by lease any portion of the real property located at 499 SouthCapitol Street Southwest in the District of Columbia for the use of the United States Capitol Police.
 
 “(b) Any real property acquired by the Architect of the Capitol pursuant to subsection (a) shall be subject to the provisions of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 \[2 U.S.C. 1922, 1961, 1966, 1967, 1969, see References in Text note above\].”
 

@@ -12,7 +12,7 @@ The Commission is authorized to—
 
 &emsp;(4) carry out research on and development of technologies needed for the effective negotiation and verification of international agreements on control of special nuclear materials and nuclear weapons; and
 
-&emsp;(5) under applicable law (other than this paragraph) and consistent with other missionsof the Department of Energy, make transfers of federally owned or originated technology to State and local governments, private industry, and universities or other nonprofit organizations so that the prospects for commercialization of such technology are enhanced.
+&emsp;(5) under applicable law (other than this paragraph) and consistent with other missions of the Department of Energy, make transfers of federally owned or originated technology to State and local governments, private industry, and universities or other nonprofit organizations so that the prospects for commercialization of such technology are enhanced.
 
 #### (b) Material for Department of Defense use
 
@@ -44,10 +44,6 @@ Provisions similar to this section were contained in section 1806(a) of this tit
 
 1958—Subsec. (c). Pub. L. 85–479 added subsec. (c).
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
 #### Delegation of Functions
 
 Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
@@ -62,7 +58,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
-Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat.1758, and is classified to section 2524 of Title 50, War and National Defense.
+Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
 
 #### Report on Stockpile Stewardship Criteria
 
@@ -222,7 +218,7 @@ Pub. L. 103–160, div. C, title XXXI, §3136, Nov. 30, 1993, 107 Stat. 1946, ex
 
 #### Stockpile Stewardship Program
 
-Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, expressed findings of Congress and policy of United States about the direction and conduct of the stockpile stewardship program, prior to repeal by Pub. L. 105–261, div. C, title XXXI, §3157, Oct. 17, 1998, 112 Stat. 2257.
+Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, expressed findings of Congress and policyof United States about the direction and conduct of the stockpile stewardship program, prior to repeal by Pub. L. 105–261, div. C, title XXXI, §3157, Oct. 17, 1998, 112 Stat. 2257.
 
 Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4201 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2521 of Title 50, War and National Defense.
 
@@ -308,7 +304,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 &emsp;“(ii) within the 60-day period beginning on the date that Congress receives the certification, Congress does not agree to a joint resolution described in subparagraph (B).
 
-“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
+“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matterafter the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
 
 “(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
 

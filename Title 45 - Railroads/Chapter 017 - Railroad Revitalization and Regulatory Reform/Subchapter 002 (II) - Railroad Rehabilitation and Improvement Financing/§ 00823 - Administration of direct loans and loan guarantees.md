@@ -10,7 +10,7 @@ All guarantees entered into by the Secretary under section 822 of this title sha
 
 #### (b) <sup>1</sup> Assignment of loan guarantees
 
-The holder of a loan guarantee made under section 822 of this title may assign the loan guarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
+The holder of a loan guarantee made under section 822 of this title may assign the loanguarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
 
 #### (c) Modifications
 

@@ -14,17 +14,19 @@ Terms of Office and Removal.—The term of office of each member is 5 years. An 
 
 (d)
 
-Chairman and Vice Chairman.—The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of boththe Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
+Chairman and Vice Chairman.—The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
 
 (e)
 
 Duties and Powers of Chairman.—The Chairman is the chief executive and administrative officer of the Board. Subject to the general policies and decisions of the Board, the Chairman shall—
 
-&emsp;(1) appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;
+&emsp;(1) appoint and supervise officers and employees, other than regular and full-time employees in the immediate offices of another member, necessary to carry out this chapter;
 
-&emsp;(2) distribute business among the officers, employees, and administrative units of the Board; and
+&emsp;(2) fix the pay of officers and employees necessary to carry out this chapter;
 
-&emsp;(3) supervise the expenditures of the Board.
+&emsp;(3) distribute business among the officers, employees, and administrative units of the Board; and
+
+&emsp;(4) supervise the expenditures of the Board.
 
 (f)
 
@@ -42,6 +44,8 @@ Offices, Bureaus, and Divisions.—The Board shall establish offices necessary t
 
 &emsp;(4) pipeline.
 
+&emsp;(5) marine.
+
 (h)
 
 Chief Financial Officer.—The Chairman shall designate an officer or employee of the Board as the Chief Financial Officer. The Chief Financial Officer shall—
@@ -54,9 +58,13 @@ Chief Financial Officer.—The Chairman shall designate an officer or employee o
 
 (i)
 
+Board Member Staff.—Each member of the Board shall select and supervise regular and full-time employees in his or her immediate office as long as any such employee has been approved for employment by the designated agency ethics official under the same guidelines that apply to all employees of the Board. Except for the Chairman, the appointment authority provided by this subsection is limited to the number of full-time equivalent positions, in addition to 1 senior professional staff at a level not to exceed the GS 15 level and 1 administrative staff, allocated to each member through the Board's annual budget and allocation process.
+
+(j)
+
 Seal.—The Board shall have a seal that shall be judicially recognized.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §10, Nov. 1, 2000, 114 Stat. 1886.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §10, Nov. 1, 2000, 114 Stat. 1886; Pub. L. 109–443, §9(a), (d), Dec. 21, 2006, 120 Stat. 3301.)
 
 Historical and Revision Notes
 
@@ -116,9 +124,61 @@ In subsection (f), the words “duties and powers” are substituted for “func
 
 In subsection (g), the text of 49 App.:1902(c)(1) is omitted as unnecessary because of 40:ch. 10.
 
+#### References in Text
+
+GS–15, referred to in subsec. (i), is contained in the General Schedule, which is set out under section 5332 of Title 5, Government Organization and Employees.
+
 #### Amendments
 
+2006—Subsec. (e)(1). Pub. L. 109–443, §9(d)(1), added par. (1) and struck out former par. (1) which read as follows: “appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;”.
+
+Subsec. (e)(2) to (4). Pub. L. 109–443, §9(d)(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (g)(5). Pub. L. 109–443, §9(a), added par. (5).
+
+Subsecs. (i), (j). Pub. L. 109–443, §9(d)(4), (5), added subsec. (i) and redesignated former subsec. (i) as (j).
+
 2000—Subsecs. (h), (i). Pub. L. 106–424 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Utilization Plan
+
+Pub. L. 109–443, §2(a)(2), Dec. 21, 2006, 120 Stat. 3297, provided that:
+
+“(A)
+
+Plan.—Within 90 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall—
+
+&emsp;“(i) develop a plan to achieve, to the maximum extent feasible, the self-sufficient operation of the National Transportation Safety Board Academy and utilize the Academy's facilities and resources;
+
+&emsp;“(ii) submit a draft of the plan to the Comptroller General for review and comment; and
+
+&emsp;“(iii) submit a draft of the plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+“(B)
+
+Plan development considerations.—The Board shall—
+
+&emsp;“(i) give consideration in developing the plan under subparagraph (A)(i) to other revenue-generating measures, including subleasing the facility to another entity; and
+
+&emsp;“(ii) include in the plan a detailed financial statement that covers current Academy expenses and revenues and an analysis of the projected impact of the plan on the Academy's expenses and revenues.
+
+“(C)
+
+Report.—Within 180 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
+
+&emsp;“(i) an updated copy of the plan developed pursuant to subparagraph (A)(i);
+
+&emsp;“(ii) any comments and recommendations made by the Comptroller General pursuant to the Government Accountability Office's review of the draft plan; and
+
+&emsp;“(iii) a response to the Comptroller General's comments and recommendations, including a description of any modifications made to the plan in response to those comments and recommendations.
+
+“(D)
+
+Implementation.—The plan developed pursuant to subparagraph (A)(i) shall be implemented within 2 years after the date of enactment of this Act \[Dec. 21, 2006\].”
+
+#### Audit Procedures
+
+Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue to develop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
 
 #### Improved Audit Procedures
 

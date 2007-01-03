@@ -21,3 +21,4 @@
 - [&sect; 01241 - Omitted](%C2%A7%2001241%20-%20Omitted.md)
 - [&sect; 01242 - Powers of Secretary or State](%C2%A7%2001242%20-%20Powers%20of%20Secretary%20or%20State.md)
 - [&sect; 01243 - Interagency cooperation](%C2%A7%2001243%20-%20Interagency%20cooperation.md)
+- [&sect; 01244 - Remining incentives](%C2%A7%2001244%20-%20Remining%20incentives.md)

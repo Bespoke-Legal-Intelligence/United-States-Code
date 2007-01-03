@@ -6,7 +6,7 @@ The Secretary shall make an agreement with any State which is able and willing t
 
 #### (b) Payment in advance or by way of reimbursement to State for performance of functions of subsection (a)
 
-The Secretary shall pay any such State, in advance or by way of reimbursement, as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (a) of this section, and for the Federal Hospital Insurance Trust Fund's fair share of the costs attributableto the planning and other efforts directed toward coordination of activities in carrying out its agreement and other activities related to the provision of services similar to those for which payment may be made under part A of this subchapter, or related to the facilities and personnel required for the provision of such services, or related to improving the quality of such services.
+The Secretary shall pay any such State, in advance or by way of reimbursement, as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (a) of this section, and for the Federal Hospital Insurance Trust Fund's fair share of the costs attributable to the planning and other efforts directed toward coordination of activities in carrying out its agreement and other activities related to the provision of services similar to those for which payment may be made under part A of this subchapter, or related to the facilities and personnel required for the provision of such services, or related to improving the quality of such services.
 
 #### (c) Use of State or local agencies to survey hospitals
 
@@ -124,7 +124,7 @@ Amendment by section 4163(c)(2) of Pub. L. 101–508 applicable to screening mam
 
 #### Effective Date of 1989 Amendments
 
-Amendment by section 6115(c) of Pub. L. 101–239 applicable to screening pap smears performed on or afterJuly 1, 1990, see section 6115(d) of Pub. L. 101–239, set out as a note under section 1395x of this title.
+Amendment by section 6115(c) of Pub. L. 101–239 applicable to screening pap smears performed on or after July 1, 1990, see section 6115(d) of Pub. L. 101–239, set out as a note under section 1395x of this title.
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 
@@ -204,7 +204,7 @@ Procedures.—
 
 In general.—The procedures established by a participating State under paragraph (1) should be designed to—
 
-&emsp;&emsp;&emsp;“(i) give a prospective direct access patient employee notice that the long-term care facility or provider is required to perform background checks with respect to new employees;
+&emsp;&emsp;&emsp;“(i) give a prospective direct access patient employee notice that the long-term care facility orprovider is required to perform background checks with respect to new employees;
 
 &emsp;&emsp;&emsp;“(ii) require, as a condition of employment, that the employee—
 

@@ -2,7 +2,7 @@
 
 #### (a) Criteria for eligibility; contents
 
-Except as provided in the succeeding sentence and section 3029(a) of this title, each State, inorder to be eligible for grants from its allotment under this subchapter for any fiscal year, shall submit to the Assistant Secretary a State plan for a two-, three-, or four-year period determined by the State agency, with such annual revisions as are necessary, which meets such criteria as the Assistant Secretary may by regulation prescribe. If the Assistant Secretary determines, in the discretion of the Assistant Secretary, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Assistant Secretary a State plan for a 1-year period that meets such criteria, for subsequent years until the Assistant Secretary determines that the State is in compliance with such requirements. Each such plan shall comply with all of the following requirements:
+Except as provided in the succeeding sentence and section 3029(a) of this title, each State, in order to be eligible for grants from its allotment under this subchapter for any fiscal year, shall submit to the Assistant Secretary a State plan for a two-, three-, or four-year period determined by the State agency, with such annual revisions as are necessary, which meets such criteria as the Assistant Secretary may by regulation prescribe. If the Assistant Secretary determines, in the discretion of the Assistant Secretary, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Assistant Secretary a State plan for a 1-year period that meets such criteria, for subsequent years until the Assistant Secretary determines that the State is in compliance with such requirements. Each such plan shall comply with all of the following requirements:
 
 &emsp;(1) The plan shall—
 
@@ -12,11 +12,11 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(2) The plan shall provide that the State agency will—
 
-&emsp;&emsp;(A) evaluate, using uniform procedures described in section 3012(a)(29) <sup>1</sup> of this title, the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
+&emsp;&emsp;(A) evaluate, using uniform procedures described in section 3012(a)(29) <sup>1</sup> of this title,the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
 
 &emsp;&emsp;(B) develop a standardized process to determine the extent to which public or private programs and resources (including volunteers and programs and services of voluntary organizations) that have the capacity and actually meet such need;
 
-&emsp;&emsp;(C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B of this subchapter that will be expended (in the absence of a waiver under section 3026(b) or 3030c–3 of this title) by such area agency on aging to provide each of the categories of services specified in section 3026(a)(2) of this title.
+&emsp;&emsp;(C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B of this subchapter that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each of the categories of services specified in section 3026(a)(2) of this title.
 
 &emsp;(3) The plan shall—
 
@@ -30,7 +30,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;&emsp;(iii) describe the methods used to meet the needs for such services in the fiscal year preceding the first year to which such plan applies.
 
-&emsp;(4) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on, activities and projects carried out in the State under this subchapter and subchapter XI of this chapter, including evaluations of the effectiveness of services provided to individuals with greatest economic need, greatest social need, or disabilities, with particular attention to low-income minority individuals and older individuals residing in rural areas.
+&emsp;(4) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on, activities and projects carried out in the State under this subchapter and subchapter XI of this chapter, including evaluations of the effectiveness of services provided to individuals with greatest economic need, greatest social need, or disabilities (with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas).
 
 &emsp;(5) The plan shall provide that the State agency will—
 
@@ -96,9 +96,15 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(C) all information gathered in the course of receiving reports and making referrals shall remain confidential unless all parties to the complaint consent in writing to the release of such information, except that such information may be released to a law enforcement or public protective service agency.
 
-&emsp;(13) The plan shall provide assurances that each State will assign personnel (one of whom shall be known as a legal assistance developer)to provide State leadership in developing legal assistance programs for older individuals throughout the State.
+&emsp;(13) The plan shall provide assurances that each State will assign personnel (one of whom shall be known as a legal assistance developer) to provide State leadership in developing legal assistance programs for older individuals throughout the State.
 
-&emsp;(14) The plan shall provide assurances that, if a substantial number of the older individuals residing in any planning and service area in the State are of limited English-speaking ability, then the State will require the area agency on aging for each such planning and service area—
+&emsp;(14) The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
+
+&emsp;&emsp;(A) identify the number of low-income minority older individuals in the State, including the number of low-income minority older individuals with limited English proficiency; and
+
+&emsp;&emsp;(B) describe the methods used to satisfy the service needs of the low-income minority older individuals described in subparagraph (A), including the plan to meet the needs of low-income minority older individuals with limited English proficiency.
+
+&emsp;(15) The plan shall provide assurances that, if a substantial number of the older individuals residing in any planning and service area in the State are of limited English-speaking ability, then the State will require the area agency on aging for each such planning and service area—
 
 &emsp;&emsp;(A) to utilize, in the delivery of outreach services under section 3026(a)(2)(A) of this title, the services of workers who are fluent in the language spoken by a predominant number of such older individuals who are of limited English-speaking ability; and
 
@@ -108,27 +114,21 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;&emsp;(ii) providing guidance to individuals engaged in the delivery of supportive services under the area plan involved to enable such individuals to be aware of cultural sensitivities and to take into account effectively linguistic and cultural differences.
 
-&emsp;(15) The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
-
-&emsp;&emsp;(A) identify the number of low-income minority older individuals in the State; and
-
-&emsp;&emsp;(B) describe the methods used to satisfy the service needs of such minority older individuals.
-
 &emsp;(16) The plan shall provide assurances that the State agency will require outreach efforts that will—
 
 &emsp;&emsp;(A) identify individuals eligible for assistance under this chapter, with special emphasis on—
 
 &emsp;&emsp;&emsp;(i) older individuals residing in rural areas;
 
-&emsp;&emsp;&emsp;(ii) older individuals with greatest economic need (with particular attention to low-income minority individuals and older individuals residing in rural areas);
+&emsp;&emsp;&emsp;(ii) older individuals with greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas);
 
-&emsp;&emsp;&emsp;(iii) older individuals with greatest social need (with particular attention to low-income minority individuals and older individuals residing in rural areas);
+&emsp;&emsp;&emsp;(iii) older individuals with greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas);
 
 &emsp;&emsp;&emsp;(iv) older individuals with severe disabilities;
 
 &emsp;&emsp;&emsp;(v) older individuals with limited English-speaking ability; and
 
-&emsp;&emsp;&emsp;(vi) older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of such individuals); and
+&emsp;&emsp;&emsp;(vi) older individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction (and the caretakers of such individuals); and
 
 &emsp;&emsp;(B) inform the older individuals referred to in clauses (i) through (vi) of subparagraph (A), and the caretakers of such individuals, of the availability of such assistance.
 
@@ -160,11 +160,29 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) to provide multigenerational activities, such as opportunities for older individuals to serve as mentors or advisers in child care, youth day care, educational assistance, at-risk youth intervention, juvenile delinquency treatment, and family support programs.
 
-&emsp;(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated withaccess to services provided under this subchapter, to services under subchapter X of this chapter, to comprehensive counseling services, and to legal assistance.
+&emsp;(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated with access to services provided under this subchapter, to services under subchapter X of this chapter, to comprehensive counseling services, and to legal assistance.
 
 &emsp;(25) The plan shall include assurances that the State has in effect a mechanism to provide for quality in the provision of in-home services under this subchapter.
 
 &emsp;(26) The plan shall provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the State agency or an area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter.
+
+&emsp;(27) The plan shall provide assurances that area agencies on aging will provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care.
+
+&emsp;(28)(A) The plan shall include, at the election of the State, an assessment of how prepared the State is, under the State's statewide service delivery model, for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
+
+&emsp;(B) Such assessment may include—
+
+&emsp;&emsp;(i) the projected change in the number of older individuals in the State;
+
+&emsp;&emsp;(ii) an analysis of how such change may affect such individuals, including individuals with low incomes, individuals with greatest economic need, minority older individuals, older individuals residing in rural areas, and older individuals with limited English proficiency;
+
+&emsp;&emsp;(iii) an analysis of how the programs, policies, and services provided by the State can be improved, including coordinating with area agencies on aging, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the State; and
+
+&emsp;&emsp;(iv) an analysis of how the change in the number of individuals age 85 and older in the State is expected to affect the need for supportive services.
+
+&emsp;(29) The plan shall include information detailing how the State will coordinate activities, and develop long-range emergency preparedness plans, with area agencies on aging, local emergency response agencies, relief organizations, local governments, State agencies responsible for emergency preparedness, and any other institutions that have responsibility for disaster relief service delivery.
+
+&emsp;(30) The plan shall include information describing the involvement of the head of the State agency in the development, revision, and implementation of emergency preparedness plans, including the State Public Health Emergency Preparedness and Response Plan.
 
 #### (b) Approval by Assistant Secretary; waiver of requirements
 
@@ -194,17 +212,17 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 #### (e) Appeal
 
-(1) A State which is dissatisfied with a final action of the Assistant Secretary under subsection (b), (c), or (d) of this section may appeal to the United States court of appeals for the circuit in which the State is located, by filing a petition with such court within 30 days after such final action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Assistant Secretary, or any officer designated by the Assistant Secretary for such purpose. The Assistant Secretary thereupon shall file in the court the record of the proceedings on which the Assistant Secretary's action is based, as provided in section 2112 of title 28.
+(1) A State which is dissatisfied with a final action of the Assistant Secretary under subsection (b), (c), or (d) of this section may appeal to the United States court of appeals for the circuit in which the State is located, by filing a petition with such court within 30 days after such final action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Assistant Secretary, or any officer designated by the Assistant Secretary for such purpose. The Assistant Secretary thereupon shall file in the court the record of the proceedings onwhich the Assistant Secretary's action is based, as provided in section 2112 of title 28.
 
 (2) Upon the filing of such petition, the court shall have jurisdiction to affirm the action of the Assistant Secretary or to set it aside, in whole or in part, temporarily or permanently, but until the filing of the record, the Assistant Secretary may modify or set aside the Assistant Secretary's order. The findings of the Assistant Secretary as to the facts, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Assistant Secretary to take further evidence, and the Assistant Secretary shall, within 30 days, file in the court the record of those further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence. The judgment of the court affirming or setting aside, in whole or in part, any action of the Assistant Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(3) The commencement of proceedings under this subsection shall not, unless so specificallyordered by the court, operate as a stay of the Assistant Secretary's action.
+(3) The commencement of proceedings under this subsection shall not, unless so specifically ordered by the court, operate as a stay of the Assistant Secretary's action.
 
 #### (f) Confidentiality of information relating to legal assistance
 
 Neither a State, nor a State agency, may require any provider of legal assistance under this subchapter to reveal any information that is protected by the attorney-client privilege.
 
-(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §306, title VIII, §801(c)(4), Nov. 13, 2000, 114 Stat. 2242, 2292.)
+(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §306, title VIII, §801(c)(4), Nov. 13, 2000, 114 Stat. 2242, 2292; Pub. L. 109–365, title III, §307, Oct. 17, 2006, 120 Stat. 2544.)
 
 #### References in Text
 
@@ -220,13 +238,29 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 #### Amendments
 
+2006—Subsec. (a)(2)(C). Pub. L. 109–365, §307(1), substituted “section 3026(c)” for “section 3026(b)”.
+
+Subsec. (a)(4). Pub. L. 109–365, §307(2), substituted “(with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
+
+Subsec. (a)(14), (15). Pub. L. 109–365, §307(3)–(5), added par. (14), redesignated former par. (14) as (15), and struck out former par. (15) which read as follows: “The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
+
+&emsp;“(A) identify the number of low-income minority older individuals in the State; and
+
+&emsp;“(B) describe the methods used to satisfy the service needs of such minority older individuals.”
+
+Subsec. (a)(16)(A)(ii), (iii). Pub. L. 109–365, §307(6)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)”.
+
+Subsec. (a)(16)(A)(vi). Pub. L. 109–365, §307(6)(B), substituted “and related” for “or related”.
+
+Subsec. (a)(27) to (30). Pub. L. 109–365, §307(7), added pars. (27) to (30).
+
 2000—Subsec. (a)(1) to (5). Pub. L. 106–501, §306(1), added pars. (1) to (5) and struck out former pars. (1) to (5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
 
 Subsec. (a)(7)(C). Pub. L. 106–501, §306(2), struck out subpar. (C) which required the plan to provide assurances that the State agency and each area agency on aging would maintain the integrity and public purpose of services provided and service providers under the State plan in all contractual and commercial relationships, disclose the parties to and the nature of a contract or relationship relating to services to older individuals, demonstrate no loss or diminution in quantity or quality of services as a result of such contract or relationship, demonstrate enhancement of quantity and quality of services as a result of such contract or relationship, and disclose on request all sources and expenditures of funds the State agency and area agency on aging received or expended to provide services to older individuals.
 
 Subsec. (a)(8), (9). Pub. L. 106–501, §306(3), added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
 
-“(8) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on, activities and projects carried out under the State plan, including an evaluation of the effectiveness of the State agency in reaching older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals. In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgeable about the needs and concerns of low-income minority older individuals.
+“(8) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on,activities and projects carried out under the State plan, including an evaluation of the effectiveness of the State agency in reaching older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals. In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgeable about the needs and concerns of low-income minority older individuals.
 
 “(9) The plan shall provide for establishing and maintaining information and assistance services in sufficient numbers to assure that all older individuals in the State who are not furnished adequate information and assistance services under section 3026(a)(4) of this title will have reasonably convenient access to such services.”
 
@@ -244,7 +278,7 @@ Subsec. (a)(12). Pub. L. 106–501, §306(5), (6), redesignated par. (16) as (12
 
 Subsec. (a)(13). Pub. L. 106–501, §306(5), (8), redesignated par. (18) as (13) and struck out former par. (13) which related to a list of requirements that the plan was to provide with respect to nutrition services.
 
-Subsec. (a)(14). Pub. L. 106–501, §306(5), (10), redesignated par. (20) as (14) and struck out former par. (14)which related to required provisions of the plan with respect to acquisition, alteration, or renovation of existing facilities to serve as multipurpose senior centers.
+Subsec. (a)(14). Pub. L. 106–501, §306(5), (10), redesignated par. (20) as (14) and struck out former par. (14) which related to required provisions of the plan with respect to acquisition, alteration, or renovation of existing facilities to serve as multipurpose senior centers.
 
 Subsec. (a)(15). Pub. L. 106–501, §306(12), redesignated par. (23) as (15). Former par. (15) redesignated (11).
 
@@ -414,7 +448,7 @@ Subsec. (a)(24). Pub. L. 102–375, §307(<i>l</i>), amended par. (24) generally
 
 &emsp;“(B) inform such individuals of the availability of such assistance.”
 
-Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read asfollows: “The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter.”
+Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: “The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter.”
 
 Subsec. (a)(31). Pub. L. 102–375, §307(n), amended par. (31) generally, substituting provisions relating to an area or State volunteer services coordinator for provisions that State agency make funds available to eligible area agencies on aging based on number of older individuals with greatest economic need and inadequacy of outreach activities and application assistance, that State agency require area agency to submit application describing and evaluating activities for which funds were sought, that State agency distribute to area agencies certain eligibility information, and that State agency submit to Commissioner a report on evaluations required to be submitted to it by area agencies.
 
@@ -552,7 +586,7 @@ Subsec. (a)(13)(C)(ii). Pub. L. 97–115, §7(d), inserted “, to facilitate a
 
 Subsec. (a)(13)(D). Pub. L. 97–115, §§3(d), 7(e), inserted “in the case of meals served in a congregate setting,” before “a site for such services”, substituted “supportive services” for “social services”, and struck out “or home delivered meals are furnished to eligible individuals who are homebound” after “transportation to such site is furnished”.
 
-Subsec. (a)(13)(I). Pub. L. 97–115, §7(f), substituted “each area agency shall establish procedures that will allow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percent of its amount allotted under part C in areas with unusually high supportive services costs”.
+Subsec. (a)(13)(I). Pub. L. 97–115, §7(f), substituted “each area agency shall establish procedures that willallow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percent of its amount allotted under part C in areas with unusually high supportive services costs”.
 
 Subsec. (a)(16) to (18). Pub. L. 97–115, §7(g), added pars. (16) and (17) and redesignated former par. (16) as (18).
 
@@ -574,7 +608,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 #### Assessment of Unsatisfied Demand for Supportive Services Provided at Senior Centers and Other Sites
 
-Section 111 of Pub. L. 100–175 directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under 42 U.S.C. 3027(a)(3)(A) and containing recommendations of the Secretary with respectto need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
+Section 111 of Pub. L. 100–175 directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under 42 U.S.C. 3027(a)(3)(A) and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
 
 #### Study of Ombudsman Program
 

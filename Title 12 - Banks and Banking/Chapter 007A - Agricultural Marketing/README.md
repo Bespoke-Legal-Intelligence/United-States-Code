@@ -14,13 +14,6 @@
 | [1141h.](%C2%A7%2001141h%20-%20Avoidance%20of%20duplication%3B%20cooperation%20with%20other%20governmental%20establishments%3B%20obtaining%20information%20and%20data%3B%20cooperation%20with%20States%E2%80%A6.md) | Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States, Territories, and agencies or subdivisions thereof; indicating research problems; transfer of offices, functions, etc. |
 | [1141i.](%C2%A7%2001141i%20-%20Examination%20of%20books%20and%20accounts.md) | Examination of books and accounts. |
 | [1141j.](%C2%A7%2001141j%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
-| (a) | “Cooperative association” defined. |
-| (b) | Speculation prohibited. |
-| (c) | Confidential information; disclosure prohibited. |
-| (d) | Governmental publications; predictions as to cotton prices prohibited. |
-| (e) | Separability clause. |
-| (f) | Citation of chapter. |
-| (g) | “Agricultural commodity” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

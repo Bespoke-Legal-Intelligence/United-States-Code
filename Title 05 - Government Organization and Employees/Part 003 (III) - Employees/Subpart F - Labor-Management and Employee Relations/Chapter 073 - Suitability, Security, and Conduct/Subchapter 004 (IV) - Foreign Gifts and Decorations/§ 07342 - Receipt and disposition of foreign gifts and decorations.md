@@ -4,7 +4,7 @@
 
 &emsp;(1) “employee” means—
 
-&emsp;&emsp;(A) an employee as defined by section 2105 of this title and an officer or employee of the United States Postal Service or of the Postal Rate Commission;
+&emsp;&emsp;(A) an employee as defined by section 2105 of this title and an officer or employee of the United States Postal Service or of the Postal Regulatory Commission;
 
 &emsp;&emsp;(B) an expert or consultant who is under contract under section 3109 of this title with the United States or any agency, department, or establishment thereof, including, in the case of an organization performing services under such section, any individual involved in the performance of such services;
 
@@ -74,7 +74,7 @@
 
 (d) The Congress consents to the accepting, retaining, and wearing by an employee of a decoration tendered in recognition of active field service in time of combat operations or awarded for other outstanding or unusually meritorious performance, subject to the approval of the employing agency of such employee. Without this approval, the decoration is deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited by the employee, within sixty days of acceptance, with the employing agency for official use, for forwarding to the Administrator of General Services for disposal in accordance with subsection (e)(1), or for disposal in accordance with subsection (e)(2).
 
-(e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with theprovisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.). However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
+(e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with the provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.). However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
 
 (2) Gifts and decorations received by a Senator or an employee of the Senate that are deposited with the Secretary of the Senate for disposal, or are deposited for an official use which has terminated, shall be disposed of by the Commission on Arts and Antiquities of the United States Senate. Any such gift or decoration, may be returned by the Commission to the donor or may be transferred or donated by the Commission, subject to such terms and conditions as it may prescribe, (A) to an agency or instrumentality of (i) the United States, (ii) a State, territory, or possession of the United States, or a political subdivision of the foregoing, or (iii) the District of Columbia, or (B) to an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code. Any such gift or decoration not disposed of as provided in the preceding sentence shall be forwarded to the Administrator of General Services for disposal in accordance with paragraph (1). If the Administrator does not dispose of such gift or decoration within one year, he shall, at the request of the Commission, return it to the Commission and the Commission may dispose of such gift or decoration in such manner as it considers proper, except that such gift or decoration may be sold only with the approval of the Secretary of State upon a determination that the sale will not adversely affect the foreign relations of the United States.
 
@@ -124,7 +124,7 @@
 
 (k) The provisions of this section do not apply to grants and other forms of assistance to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies.
 
-(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, §3(a)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–458, title I, §1079(b), Dec. 17, 2004, 118 Stat. 3696.)
+(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, §3(a)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–458, title I, §1079(b), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 Historical and Revision Notes
 
@@ -184,6 +184,8 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 #### Amendments
 
+2006—Subsec. (a)(1)(A). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
 2004—Subsec. (f)(4). Pub. L. 108–458 designated existing provisions as subpar. (A), substituted “the Director of the Central Intelligence Agency” for “the Director of Central Intelligence”, and added subpar. (B).
 
 2002—Subsec. (e)(1). Pub. L. 107–217 substituted “provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” for “provisions of the Federal Property and Administrative Services Act of 1949”.
@@ -214,6 +216,8 @@ Subsecs. (f) to (k). Pub. L. 95–105 added subsecs. (f) to (k).
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1977 Amendment
@@ -226,7 +230,7 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 #### Leasing of Space and Facilities for Storing and Safeguarding Property
 
-Section 712(d) of Pub. L. 95–426 provided that: “In the event that the space and facilities available to the Secretary of the Senate for carrying out his responsibilities in storing and safeguarding property in his custody under section 7342 of title 5, United States Code,are insufficient for such purpose, he may, with the approval of the Committee on Rules and Administration of the Senate, lease such space and facilities as may be necessary for such purpose. Rental payments under any such lease and expenses incurred in connection therewith shall be paid from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.”
+Section 712(d) of Pub. L. 95–426 provided that: “In the event that the space and facilities available to the Secretary of the Senate for carrying out his responsibilities in storing and safeguarding property in his custody under section 7342 of title 5, United States Code, are insufficient for such purpose, he may, with the approval of the Committee on Rules and Administration of the Senate, lease such space and facilities as may be necessary for such purpose. Rental payments under any such lease and expenses incurred in connection therewith shall be paid from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.”
 
 #### Wearing of Certain Decorations
 

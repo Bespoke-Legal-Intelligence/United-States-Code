@@ -128,7 +128,7 @@
 
 #### (2) Institutions of emerging excellence
 
-&emsp;From the amount appropriated under subsection (i)(1) of this section for a fiscal year up to $50,000,000, the Director of the Center shall make available 25 percent of such amount, and from the amount appropriated under such subsection for a fiscal year that is over $50,000,000, the Director of the Center shall make available up to 25 percent of such amount, for grants under subsection (a) of this section to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
+&emsp;From the amount appropriated to carry out this section for a fiscal year up to $50,000,000,the Director of the Center shall make available 25 percent of such amount, and from the amount appropriated to carry out this section for a fiscal year that is over $50,000,000, the Director of the Center shall make available up to 25 percent of such amount, for grants under subsection (a) of this section to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
 
 &emsp;&emsp;(A) The applicant has a plan for research or training advancement and possesses the ability to carry out the plan.
 
@@ -188,27 +188,19 @@ If, not later than 20 years after the completion of construction for which a gra
 
 Not later than 6 months after June 10, 1993, the Director of the Center, after consultation with the Advisory Council, shall issue guidelines with respect to grants under subsection (a) of this section.
 
-#### (h) Report to Congress
-
-The Director of the Center shall prepare and submit to the appropriate committees of Congress a biennial report concerning the status of the biomedical and behavioral research facilities and the availability and condition of technologically sophisticated laboratory equipment in the United States. Such reports shall be developed in concert with the report prepared by the National Science Foundation on the needs of research facilities of universities as required under section 1886 of this title.
-
-#### (i) Authorization of appropriations
-
-#### (1) Center
-
-&emsp;For the purpose of carrying out this section with respect to the Center, there are authorized to be appropriated $250,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
-
-#### (2) National Institute of Allergy and Infectious Diseases
-
-&emsp;For the purpose of carrying out this section with respect to the National Institute of Allergy and Infectious Diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 and 2005.
-
-(July 1, 1944, ch. 373, title IV, §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841.)
+(July 1, 1944, ch. 373, title IV, §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841; Pub. L. 109–482, title I, §§103(b)(40), 104(b)(1)(M), Jan. 15, 2007, 120 Stat. 3688, 3693.)
 
 #### References in Text
 
 Section 293c of this title, referred to in subsec. (c)(2)(D)(i), does not contain provisions relating to designation as a center of excellence. See section 293 of this title.
 
 #### Amendments
+
+2007—Subsec. (c)(2). Pub. L. 109–482, §103(b)(40)(A), in introductory provisions, substituted “to carry out this section for a fiscal year up to” for “under subsection (i)(1) of this section for a fiscal year up to” and “to carry out this section for a fiscal year that” for “under such subsection for a fiscal year that”.
+
+Subsec. (h). Pub. L. 109–482, §104(b)(1)(M), struck out subsec. (h) which required biennial report concerning the status of biomedical and behavioral research facilities and the availability and condition of laboratory equipment.
+
+Subsec. (i). Pub. L. 109–482, §103(b)(40)(B), struck out subsec. (i) which authorized appropriations for the National Center for Research Resources and the National Institute of Allergy and Infectious Diseases.
 
 2004—Subsec. (a)(1). Pub. L. 108–276, §2(b)(1), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
 
@@ -237,6 +229,10 @@ Subsec. (i). Pub. L. 108–276, §2(b)(6), designated existing provisions as par
 2000—Pub. L. 106–505 amended section generally, adding provisions requiring the Director to provide Congress with biennial status reports.
 
 1998—Subsec. (c)(3)(D)(i). Pub. L. 105–392 substituted “part B of subchapter V of this chapter” for “section 293c of this title”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Findings
 

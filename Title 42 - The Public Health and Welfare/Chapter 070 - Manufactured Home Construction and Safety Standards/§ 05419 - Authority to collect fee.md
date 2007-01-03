@@ -50,7 +50,7 @@ Beginning on December 27, 2000, the amount of any fee collected under this secti
 
 #### (3) Payments to States
 
-&emsp;On and after the effective date of the Manufactured Housing Improvement Act of 2000, the Secretary shall continue to fund the States having approved State plans in the amounts which are not less than the allocated amounts, based on the fee distribution system in effect on the day before such effective date.
+&emsp;On and after the effective date of the Manufactured Housing Improvement Act of 2000, the Secretary shall continue to fund the Stateshaving approved State plans in the amounts which are not less than the allocated amounts, based on the fee distribution system in effect on the day before such effective date.
 
 (Pub. L. 93–383, title VI, §620, Aug. 22, 1974, 88 Stat. 712; Pub. L. 96–153, title III, §320, Dec. 21, 1979, 93 Stat. 1119; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §609, Dec. 27, 2000, 114 Stat. 3010.)
 

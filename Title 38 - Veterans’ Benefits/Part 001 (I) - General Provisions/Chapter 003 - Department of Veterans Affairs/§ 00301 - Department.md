@@ -40,7 +40,7 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs areunable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Department of Veterans Affairs Franchise Fund
 
@@ -68,7 +68,7 @@ Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642,
 
 #### “SEC. 2. ESTABLISHMENT OF VETERANS’ ADMINISTRATION AS AN EXECUTIVE DEPARTMENT.
 
-“The Veterans’ Administration is hereby redesignated as the Department of Veterans Affairs and shall be an executive department in the executive branch of the Government.
+“The Veterans’ Administration is hereby redesignated as the Department of Veterans Affairs and shallbe an executive department in the executive branch of the Government.
 
 #### “\[SECS. 3 to 5. Repealed. Pub. L. 102–83, §3(3), Aug. 6, 1991, 105 Stat. 402.\]
 
@@ -122,7 +122,7 @@ Redesignation.—The Office of Inspector General of the Veterans’ Administrati
 
 “(a)
 
-Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits,grants, contracts, certificates, licenses, and privileges—
+Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
 &emsp;“(1) which have been issued, made, granted, or allowed to become effective by the President, by the Administrator of Veterans’ Affairs, or by a court of competent jurisdiction, in the performance of functions of the Administrator or the Veterans’ Administration; and
 
@@ -164,7 +164,7 @@ Compensation for Continued Service.—Any person—
 
 #### “SEC. 14. ADDITIONAL CONFORMING AMENDMENTS.
 
-“After consultation with the appropriate committees of the Congress, the Secretary of Veterans Affairs shall prepare and submit to the Congress proposed legislation containing technical and conforming amendments to title 38, United States Code, and to other provisions of law, which reflect the changes made by this Act. Such legislation shall be submitted not later than 6 months after the date of enactment of this Act \[Oct. 25, 1988\].
+“After consultation with the appropriate committees of the Congress, the Secretary of Veterans Affairs shallprepare and submit to the Congress proposed legislation containing technical and conforming amendments to title 38, United States Code, and to other provisions of law, which reflect the changes made by this Act. Such legislation shall be submitted not later than 6 months after the date of enactment of this Act \[Oct. 25, 1988\].
 
 #### “\[SEC. 16. Repealed. Pub. L. 102–83, §3(3), Aug. 6, 1991, 105 Stat. 402.\]
 

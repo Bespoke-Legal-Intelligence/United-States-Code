@@ -10,7 +10,7 @@ No civil or criminal penalty provided under this subchapter for any violation th
 
 #### (c) Inapplicability of Federal civil or criminal penalties to participating creditor where violating instrument issued by United States
 
-A creditor participating in a credit program administered, insured, or guaranteed by any department or agency or the United States shall not be held liable for a civil or criminal penaltyunder this subchapter in any case in which the violation results from the use of an instrument required by any such department or agency.
+A creditor participating in a credit program administered, insured, or guaranteed by any department or agency or the United States shall not be held liable for a civil or criminal penalty under this subchapter in any case in which the violation results from the use of an instrument required by any such department or agency.
 
 #### (d) Applicability of State penalties to violations by participating creditor
 

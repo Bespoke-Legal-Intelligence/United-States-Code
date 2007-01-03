@@ -16,5 +16,5 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Codification
 
-Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 

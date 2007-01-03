@@ -6,7 +6,7 @@
 
 &emsp;Upon the request of the Director, the head of any National Drug Control Program agency shall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
 
-&emsp;&emsp;(A) drug abuse control; or
+&emsp;&emsp;(A) drug control; or
 
 &emsp;&emsp;(B) the manner in which amounts made available to that agency for drug control are being used by that agency.
 
@@ -14,15 +14,39 @@
 
 #### (A) In general
 
-&emsp;&emsp;The authorities conferred on the Office and the Director by this chapter shall be exercised in a manner consistent with provisions of the National Security Act of 1947 (50 U.S.C. 401 et seq.). The Director of Central Intelligence shall prescribe such regulations as may be necessary to protect information provided pursuant to this chapter regarding intelligence sources and methods.
+&emsp;&emsp;The authorities conferred on the Office and the Director by this chapter shall be exercised in a manner consistent with provisions of the National Security Act of 1947 (50 U.S.C. 401 et seq.). The Director of National Intelligence shall prescribe such regulations as may be necessary to protect information provided pursuant to this chapter regarding intelligence sources and methods.
 
 #### (B) Duties of Director
 
-&emsp;&emsp;The Director of Central Intelligence shall, to the maximum extent practicable in accordance with subparagraph (A), render full assistance and support to the Office and the Director.
+&emsp;&emsp;The Director of National Intelligence and the Director of the Central Intelligence Agency shall, to the maximum extent practicable in accordance with subparagraph (A), render full assistance and support to the Office and the Director.
 
-#### (3) Illegal drug cultivation
+#### (3) Required reports
 
-&emsp;The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States.
+#### (A) Secretaries of the Interior and Agriculture
+
+&emsp;&emsp;Not later than July 1 of each year, the Secretaries of Agriculture and the Interior shall jointly submit to the Director and the appropriate congressional committees an assessment of the quantity of illegal drug cultivation and manufacturing in the United States on lands owned or under the jurisdiction of the Federal Government for the preceding year.
+
+#### (B) Secretary of Homeland Security
+
+&emsp;&emsp;Not later than July 1 of each year, the Secretary of Homeland Security shall submit to the Director and the appropriate congressional committees information for the preceding year regarding—
+
+&emsp;&emsp;&emsp;(i) the number and type of seizures of drugs by each component of the Department of Homeland Security seizing drugs, as well as statistical information on the geographic areas of such seizures; and
+
+&emsp;&emsp;&emsp;(ii) the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Homeland Security.
+
+#### (C) Secretary of Defense
+
+&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
+
+#### (D) Attorney General
+
+&emsp;&emsp;The Attorney General shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number and type of—
+
+&emsp;&emsp;&emsp;(i) arrests for drug violations;
+
+&emsp;&emsp;&emsp;(ii) prosecutions for drug violations by United States Attorneys; and
+
+&emsp;&emsp;&emsp;(iii) seizures of drugs by each component of the Department of Justice seizing drugs, as well as statistical information on the geographic areas of such seizures.
 
 #### (b) Certification of policy changes to Director
 
@@ -36,11 +60,11 @@
 
 &emsp;&emsp;(A) the head of the National Drug Control Program agency shall notify the Director of the proposed change as soon as practicable; and
 
-&emsp;&emsp;(B) upon such notification, the Director shall review the change and certify to the head of that agency in writing whether the change is consistent with the National Drug Control Program.
+&emsp;&emsp;(B) upon such notification, the Director shall review the change and certify to the head of that agency in writing whether the change is consistent with the National Drug Control Strategy.
 
 #### (c) General Services Administration
 
-The Administrator of General Services shall provide to the Director, in <sup>1</sup> a reimbursable basis, such administrative support services as the Director may request.
+The Administrator of General Services shall provide to the Director, on a reimbursable basis, such administrative support services as the Director may request.
 
 #### (d) Accounting of funds expended
 
@@ -50,19 +74,27 @@ The Director shall—
 
 &emsp;(B) submit to Congress not later than April 1 of each year the information submitted to the Director under subparagraph (A).
 
-(Pub. L. 105–277, div. C, title VII, §705, Oct. 21, 1998, 112 Stat. 2681–680.)
+(Pub. L. 105–277, div. C, title VII, §705, Oct. 21, 1998, 112 Stat. 2681–680; Pub. L. 109–469, title I, §104, Dec. 29, 2006, 120 Stat. 3510.)
 
 #### Repeal of Section
 
-<i>For repeal of section on Sept. 30, 2003, see section 1712 of this title.</i>
+<i>For repeal of section on Sept. 30, 2010, see section 1712 of this title.</i>
 
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50, War and National Defense, and Tables.
 
-#### Change of Name
+#### Amendments
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+2006—Subsec. (a)(1)(A). Pub. L. 109–469, §104(1), struck out “abuse” after “drug”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “on”.</i>
+Subsec. (a)(2)(A). Pub. L. 109–469, §104(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (a)(2)(B). Pub. L. 109–469, §104(3), substituted “Director of National Intelligence and the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+
+Subsec. (a)(3). Pub. L. 109–469, §104(4), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States.”
+
+Subsec. (b)(2)(B). Pub. L. 109–469, §104(5), substituted “Strategy” for “Program”.
+
+Subsec. (c). Pub. L. 109–469, §104(6), substituted “on” for “in”.
 

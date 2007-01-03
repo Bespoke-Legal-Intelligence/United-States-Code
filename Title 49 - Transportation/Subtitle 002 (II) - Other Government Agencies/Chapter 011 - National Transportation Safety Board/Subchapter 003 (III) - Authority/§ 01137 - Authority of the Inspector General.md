@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Inspector General of the Department of Transportation, in accordance with the mission of the Inspector General to prevent and detect fraud and abuse, shall haveauthority to review only the financial management, property management, and business operations of the National Transportation Safety Board, including internal accounting and administrative control systems, to determine compliance with applicable Federal laws, rules, and regulations.
+In General.—The Inspector General of the Department of Transportation, in accordance with the mission of the Inspector General to prevent and detect fraud and abuse, shall have authority to review only the financial management, property management, and business operations of the National Transportation Safety Board, including internal accounting and administrative control systems, to determine compliance with applicable Federal laws, rules, and regulations.
 
 (b)
 
@@ -20,11 +20,23 @@ Access to Information.—In carrying out this section, the Inspector General may
 
 (d)
 
-Reimbursement.—The Inspector General shall be reimbursed by the Board for the costs associated with carrying out activities under this section.
+Authorizations of Appropriations.—
 
-(Added Pub. L. 106–424, §12(a), Nov. 1, 2000, 114 Stat. 1887.)
+&emsp;(1)
+
+Funding.—There are authorized to be appropriated to the Secretary of Transportation for use by the Inspector General of the Department of Transportation such sums as may be necessary to cover expenses associated with activities pursuant to the authority exercised under this section.
+
+&emsp;(2)
+
+Reimbursable agreement.—In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursable agreement to cover such expense.
+
+(Added Pub. L. 106–424, §12(a), Nov. 1, 2000, 114 Stat. 1887; amended Pub. L. 109–443, §4, Dec. 21, 2006, 120 Stat. 3299.)
 
 #### References in Text
 
 Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2006—Subsec. (d). Pub. L. 109–443 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Inspector General shall be reimbursed by the Board for the costs associated with carrying out activities under this section.”
 

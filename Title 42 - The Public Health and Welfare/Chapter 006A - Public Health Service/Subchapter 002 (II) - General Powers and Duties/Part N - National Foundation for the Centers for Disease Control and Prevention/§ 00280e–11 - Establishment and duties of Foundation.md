@@ -128,7 +128,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (2) Authority for acceptance of voluntary services
 
-&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalf of the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years.
+&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalf of the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.
 
 &emsp;(B) The limitation established in subparagraph (A) regarding the period of time in which services may be accepted applies to each individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation.
 
@@ -162,11 +162,15 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (7) Reports
 
-&emsp;(A) Not later than February 1 of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation.
+&emsp;(A) Not later than February 1 of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts provided for under subsection (i).
 
 &emsp;(B) With respect to the financial condition of the Foundation, each report under subparagraph (A) shall include the source, and a description of, all gifts to the Foundation of real or personal property, and the source and amount of all gifts to the Foundation of money. Each such report shall include a specification of any restrictions on the purposes for which gifts to the Foundation may be used.
 
-&emsp;(C) The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
+&emsp;(C) The Foundation shall make copies of each report submitted under subparagraph (A) available—
+
+&emsp;&emsp;(i) for public inspection, and shall upon request provide a copy of the report to any individual for a charge not to exceed the cost of providing the copy; and
+
+&emsp;&emsp;(ii) to the appropriate committees of Congress.
 
 #### (8) Liaison from Centers for Disease Control and Prevention
 
@@ -202,13 +206,17 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (2) Funding for grants
 
-&emsp;(A) For the purpose of grants under paragraph (1), there is authorized to be appropriated $500,000 for each fiscal year.
+&emsp;(A) For the purpose of grants under paragraph (1), there is authorized to be appropriated $1,250,000 for each fiscal year.
 
-&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscal year make available not more than $500,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
+&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscal year make available not less than $500,000, and not more than $1,250,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
 
 #### (3) Certain restriction
 
 &emsp;If the Foundation receives Federal funds for the purpose of serving as a fiscal intermediary between Federal agencies, the Foundation may not receive such funds for the indirect costs of carrying out such purpose in an amount exceeding 10 percent of the direct costs of carrying out such purpose. The preceding sentence may not be construed as authorizing the expenditure of any grant under paragraph (1) for such purpose.
+
+#### (4) Support services
+
+&emsp;The Director of the Centers for Disease Control and Prevention may provide facilities, utilities, and support services to the Foundation if it is determined by the Director to be advantageous to the programs of such Centers.
 
 #### (j) Committee for establishment of Foundation
 
@@ -278,7 +286,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(C) The Secretary may make a grant referred to in subparagraph (A) only if the applicant for the grant makes an agreement that the grant will not be expended for any purpose other than carrying out subparagraph (B). Such a grant may be made only if an application for the grant is submitted to the Secretary containing such agreement, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Secretary determines to be necessary to carry out this paragraph.
 
-(July 1, 1944, ch. 373, title III, §399G, formerly §399F, as added Pub. L. 102–531, title II, §201, Oct. 27, 1992, 106 Stat. 3474; renumbered §399G, Pub. L. 106–310, div. A, title V, §502(3), Oct. 17, 2000, 114 Stat. 1115.)
+(July 1, 1944, ch. 373, title III, §399G, formerly §399F, as added Pub. L. 102–531, title II, §201, Oct. 27, 1992, 106 Stat. 3474; renumbered §399G, Pub. L. 106–310, div. A, title V, §502(3), Oct. 17, 2000, 114 Stat. 1115; amended Pub. L. 109–245, §1, July 26, 2006, 120 Stat. 575.)
 
 #### References in Text
 
@@ -293,4 +301,18 @@ Section was formerly classified to section 280d–11 of this title prior to renu
 #### Prior Provisions
 
 A prior section 399G of act July 1, 1944, was renumbered section 399H and is classified to section 280f of this title.
+
+#### Amendments
+
+2006—Subsec. (h)(2)(A). Pub. L. 109–245, §1(a), substituted “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.” for “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years.”
+
+Subsec. (h)(7)(A). Pub. L. 109–245, §1(b)(1), inserted “, including an accounting of the use of amounts provided for under subsection (i)” before period at end of second sentence.
+
+Subsec. (h)(7)(C). Pub. L. 109–245, §1(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
+
+Subsec. (i)(2)(A). Pub. L. 109–245, §1(c)(1)(A), substituted “$1,250,000” for “$500,000”.
+
+Subsec. (i)(2)(B). Pub. L. 109–245, §1(c)(1)(B), substituted “not less than $500,000, and not more than $1,250,000” for “not more than $500,000”.
+
+Subsec. (i)(4). Pub. L. 109–245, §1(c)(2), added par. (4).
 

@@ -34,7 +34,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 #### (d) Changes in previously approved actions
 
-The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified of any significant change in a previously approved covert action, or any significant undertaking pursuant toa previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
+The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
 
 #### (e) “Covert action” defined
 

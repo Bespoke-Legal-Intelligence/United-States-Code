@@ -24,7 +24,7 @@ R.S. §2950 provided that the certificate of the appraiser should be deemed to b
 
 1970—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions authorizing a reliquidation in any respect by the appropriate customs officer on his own initiative for a liquidation made in accordance with section 1500 of this title or any reliquidation thereof made in accordance with this section for provisions setting forth the procedure for an appeal for a reappraisement by the collector or the consignee.
 
-1953—Subsec. (a). Act. Aug. 8, 1953, inserted cl. (3) and “including all determinations entering into the same,”in second sentence, and struck out third sentence which provided that “No such appeal filed by the consignee or his agent shall be deemed valid, unless he has complied with all the provisions of this chapter relating to the entry and appraisement of such merchandise”.
+1953—Subsec. (a). Act. Aug. 8, 1953, inserted cl. (3) and “including all determinations entering into the same,” in second sentence, and struck out third sentence which provided that “No such appeal filed by the consignee or his agent shall be deemed valid, unless he has complied with all the provisions of this chapter relating to the entry and appraisement of such merchandise”.
 
 1948—Subsec. (a). Act June 25, 1948, struck out fourth sentence and substituted new fourth sentence, and repealed the fifth, sixth, seventh, and eighth sentences dealing with review by Customs Court of Reappraisements of this material. See section 1582 of Title 28, Judiciary and Judicial Procedure.
 

@@ -10,7 +10,7 @@ In accordance with regulations of the Farm Credit Administration, qualified lend
 
 &emsp;(3) the effect, as shown by a representative example or examples, of any loan origination charges or purchases of stock or participation certificates on the effective rate of interest;
 
-&emsp;(4) any change in the interest rate applicable to the borrower's loan, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate;
+&emsp;(4) any change in the interest rate applicable to the borrower's loan, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effectivedate of an increase or decrease in the interest rate;
 
 &emsp;(5) except with respect to stock guaranteed under section 2162 of this title, a statement indicating that stock that is purchased is at risk; and
 

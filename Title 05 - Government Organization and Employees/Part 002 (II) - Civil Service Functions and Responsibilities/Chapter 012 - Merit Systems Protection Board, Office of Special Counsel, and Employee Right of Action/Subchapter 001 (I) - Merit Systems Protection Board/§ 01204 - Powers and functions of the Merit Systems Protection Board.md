@@ -66,7 +66,7 @@
 
 (j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointment made under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
-(k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included as a separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
+(k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included asa separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
 
 (<i>l</i>) The Board shall submit to the President, and, at the same time, to each House of the Congress, any legislative recommendations of the Board relating to any of its functions under this title.
 

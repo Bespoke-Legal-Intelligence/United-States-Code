@@ -54,7 +54,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (3) Additional contributions; refunds
 
-&emsp;A participant whose contributions are transferred pursuant to paragraph (1) shall not be required to make additional contributions for periods of service for which full contributions were made to the other Government retirement fund, nor shall any refund be made to any such participant on account of contributions made during any period to the other Government retirement fund at a higher ratethan that fixed for employees by section 8334(c) of title 5 for contributions to the fund.
+&emsp;A participant whose contributions are transferred pursuant to paragraph (1) shall not be required to make additional contributions for periods of service for which full contributions were made to the other Government retirement fund, nor shall any refund be made to any such participant on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed for employees by section 8334(c) of title 5 for contributions to the fund.
 
 #### (d) Transfer to other Government retirement systems
 
@@ -179,7 +179,7 @@ A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter,see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 

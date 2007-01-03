@@ -74,9 +74,9 @@ In this subchapter—
 
 &emsp;&emsp;(J) constructing an air traffic control tower or acquiring and installing air traffic control, communications, and related equipment at an air traffic control tower under the terms specified in section 47124(b)(4).
 
-&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
+&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
 
-&emsp;&emsp;(L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
+&emsp;&emsp;(L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
 &emsp;(4) “airport hazard” means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
 
@@ -108,7 +108,7 @@ In this subchapter—
 
 &emsp;(14) “passenger boardings”—
 
-&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar yearon an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
+&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
 
 &emsp;&emsp;(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
 
@@ -397,4 +397,6 @@ Eligible low-emission modifications and improvements.—The Secretary of Transpo
 “(B)
 
 Eligible low-emission vehicle technology.—The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(L) of title 49, United States Code, as added by this subsection.”
+
+<i><sup>1</sup></i><i> So in original. There probably should be a second closing parenthesis.</i>
 

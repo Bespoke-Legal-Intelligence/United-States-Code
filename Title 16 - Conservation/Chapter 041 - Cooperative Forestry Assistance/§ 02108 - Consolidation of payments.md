@@ -2,7 +2,7 @@
 
 #### (a) Request by State; excluded funds
 
-To provide flexibility in funding activities authorized under this chapter, the Secretary may, upon the request of any State, consolidate the annual financial assistance payments to that State under this chapter, in lieu of functional cost sharing mechanisms, formulas, or agreements. However, consolidated payments shall not include money appropriated under section 2103 of this title or money from any special Treasury fund established under this chapter.
+To provide flexibility in funding activities authorized under this chapter, the Secretary may, upon the request of any State, consolidate the annual financial assistance payments to that State under this chapter, in lieu of functional cost sharing mechanisms, formulas, or agreements. However, consolidated payments shallnot include money appropriated under section 2103 of this title or money from any special Treasury fund established under this chapter.
 
 #### (b) State forest resources programs as basis
 
@@ -10,7 +10,7 @@ Consolidation of payments made under this section shall be based upon State fore
 
 #### (c) Amount of payments
 
-Consolidated payments to any State during any fiscal year shall not exceed the totalamount of non-Federal funds expended within the State during that year to implement its State forest resources program. However, the Secretary may make payments that exceed the non-Federal amount expended for selected activities under the program, if the total Federal expenditure during any fiscal year does not exceed the total non-Federal expenditure during that year under the State forest resources program.
+Consolidated payments to any State during any fiscal year shall not exceed the total amount of non-Federal funds expended within the State during that year to implement its State forest resources program. However, the Secretary may make payments that exceed the non-Federal amount expended for selected activities under the program, if the total Federal expenditure during any fiscal year does not exceed the total non-Federal expenditure during that year under the State forest resources program.
 
 #### (d) Certification requirement by State forester or equivalent State official for Federal payment
 

@@ -10,13 +10,13 @@
 
 #### (2) Peer review
 
-&emsp;In the case of any proposal for the National Institutes of Health to conduct or support research, the Secretary may not approve or fund any proposal that is subject to technical and scientific peer review under section 289a of this title unless the proposal has undergone such review in accordance with such section and has been recommended for approval by a majority of the members of the entity conducting such review.
+&emsp;In the case of any proposal for the National Institutes of Health to conduct or support research, the Secretary may not approve or fund any proposal that is subject to technical and scientific peer review under section 289a of this title unless the proposal has undergone such review in accordance with such section and has been recommended for approval by a majority of the members of the entity conducting such review, and unless a majority of the voting members of the appropriate advisory council under section 284a of this title, or as applicable, of the advisory council under section 282(k) of this title, has recommended the proposal for approval.
 
 #### (b) Ethical review of research
 
 #### (1) Procedures regarding withholding of funds
 
-&emsp;If research has been recommended for approval for purposes of subsection (a) of this section, the Secretary may not withhold funds for the research because of ethical considerations unless—
+&emsp;If research has been recommended for approval for purposes of subsection (a) of thissection, the Secretary may not withhold funds for the research because of ethical considerations unless—
 
 &emsp;&emsp;(A) the Secretary convenes an advisory board in accordance with paragraph (5) to study such considerations; and
 
@@ -48,7 +48,7 @@
 
 &emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as an ethics advisory board (in this paragraph referred to as an “ethics board”).
 
-&emsp;(B)(i) An ethics board shall advise, consult with, and make recommendations to the Secretary regarding the ethics of the project ofbiomedical or behavioral research with respect to which the board has been convened.
+&emsp;(B)(i) An ethics board shall advise, consult with, and make recommendations to the Secretary regarding the ethics of the project of biomedical or behavioral research with respect to which the board has been convened.
 
 &emsp;(ii) Not later than 180 days after the date on which the statement required in paragraph (4)(A) is made with respect to an ethics board, the board shall submit to the Secretary, and to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report describing the findings of the board regarding the project of research involved and making a recommendation under clause (i) of whether the Secretary should or should not withhold funds for the project. The report shall include the information considered in making the findings.
 
@@ -74,7 +74,7 @@
 
 &emsp;(H) In carrying out subparagraph (B)(i) with respect to a project of research, an ethics board shall have access to all relevant information possessed by the Department of Health and Human Services, or available to the Secretary from other agencies.
 
-&emsp;(I) Members of an ethics board shall receive compensation for each day engaged in carrying out the duties of the board, including time engaged in traveling for purposes of such duties. Such compensation may not be provided in an amount in excess of the maximum rate of basic pay payable for GS–18 of the General Schedule.
+&emsp;(I) Members of an ethics board shall receive compensation for each day engaged in carrying out the duties of the board, including time engaged in traveling for purposes of such duties. Such compensation may not be provided in an amount in excess of the maximum rateof basic pay payable for GS–18 of the General Schedule.
 
 &emsp;(J) The Secretary, acting through the Director of the National Institutes of Health, shall provide to each ethics board reasonable staff and assistance to carry out the duties of the board.
 
@@ -84,13 +84,21 @@
 
 &emsp;For purposes of this subsection, the term “ethical considerations” means considerations as to whether the nature of the research involved is such that it is unethical to conduct or support the research.
 
-(July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107 Stat. 126.)
+(July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107 Stat. 126; amended Pub. L. 109–482, title I, §102(e), Jan. 15, 2007, 120 Stat. 3684.)
+
+#### Amendments
+
+2007—Subsec. (a)(2). Pub. L. 109–482 inserted before period at end “, and unless a majority of the voting members of the appropriate advisory council under section 284a of this title, or as applicable, of the advisory council under section 282(k) of this title, has recommended the proposal for approval”.
 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -30,7 +30,7 @@ Ex. Ord. No. 9876, July 24, 1947, 12 F.R. 4981, authorized the delegation of cer
 
 #### Executive Order No. 9921
 
-Ex. Ord. No. 9921, Jan 10, 1948, 13 F.R. 171, authorized the Philippine Alien Property Administrator to transfer certain property to the Republic of the Philippines, and was omitted under the authority of Ex. Ord. No. 10254, set out below, which terminated the Alien Property Administration.
+Ex. Ord. No. 9921, Jan 10, 1948, 13 F.R. 171, authorized the Philippine Alien Property Administrator to transfer certain property to the Republic of the Philippines, and was omitted under the authority of Ex. Ord. No.10254, set out below, which terminated the Alien Property Administration.
 
 #### Ex. Ord. No. 10254. Termination of Philippine Alien Property Administration and Transfer of Functions to Department of Justice
 

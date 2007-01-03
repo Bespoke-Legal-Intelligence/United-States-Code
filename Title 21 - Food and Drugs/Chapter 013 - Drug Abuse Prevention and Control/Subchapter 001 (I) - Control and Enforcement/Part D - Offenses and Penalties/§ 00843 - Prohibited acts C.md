@@ -4,7 +4,7 @@
 
 It shall be unlawful for any person knowingly or intentionally—
 
-&emsp;(1) who is a registrant to distribute a controlled substance classified in schedule I or II, in the course of his legitimate business, except pursuant to an order or an order form as required by section 828 of this title;
+&emsp;(1) who is a registrant to distribute a controlled substance classified in schedule I or II,in the course of his legitimate business, except pursuant to an order or an order form as required by section 828 of this title;
 
 &emsp;(2) to use in the course of the manufacture, distribution, or dispensing of a controlled substance, or to use for the purpose of acquiring or obtaining a controlled substance, a registration number which is fictitious, revoked, suspended, expired, or issued to another person;
 
@@ -16,7 +16,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
 
-&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical,product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
+&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
 
 &emsp;(8) to create a chemical mixture for the purpose of evading a requirement of section 830 of this title or to receive a chemical mixture created for that purpose; or
 
@@ -46,7 +46,7 @@ It shall be unlawful for any person to place in any newspaper, magazine, handbil
 
 #### (e) Additional penalties
 
-In addition to any other applicable penalty, any person convicted of a felony violation of this section relating to the receipt, distribution, manufacture, exportation, or importation of a listed chemical may be enjoined from engaging in any transaction involving a listed chemical for not more than ten years.
+In addition to any other applicable penalty, any person convicted of a felony violation ofthis section relating to the receipt, distribution, manufacture, exportation, or importation of a listed chemical may be enjoined from engaging in any transaction involving a listed chemical for not more than ten years.
 
 #### (f) Injunctions
 

@@ -4,6 +4,10 @@ This chapter may be cited as the “Tariff Act of 1930.”
 
 (June 17, 1930, ch. 497, title IV, §654, 46 Stat. 763.)
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–280, title XIV, §1401(a), Aug. 17, 2006, 120 Stat. 1110, provided that: “This title \[amending sections 58c, 1466, 1484, 1514, 1520, 1557, 1559, 1562, 1629, 2155, 2317, 2401, 3807, and 4034 of this title, enacting provisions set out as notes under sections 1466 and 1675 of this title, and amending provisions set out as a note under section 7101 of Title 7, Agriculture\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 2006’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–429, §1, Dec. 3, 2004, 118 Stat. 2434, provided that: “This Act \[amending sections 58c, 1313, 1330, 1337, 1401, 1466, 1484, 1501, 1504, 1505, 1514, 1515, 1520, 1583, 1593a, 1629, 2155, 2171, 2271, 2272, 2298, 2318, 2346, 2395, 2401e, 2414, 2415, 2451, 2451a, 2463, 2703, 3203, 3721, 3802, 3803, 3805, and 3813 of this title, section 70b of Title 15, Commerce and Trade, and sections 5382 and 6103 of Title 26, Internal Revenue Code, repealing section 72 of Title 15, enacting provisions set out as notes under sections 1313, 1401, 1466, 1504, 1629, 2155, 2434, 2463, 2703, 3203, 3701, and 3721 of this title, section 7101 of Title 7, Agriculture, sections 70b and 72 of Title 15, and section 5382 of Title 26, amending provisions set out as notes under sections 2401, 2465, 3701, and 3805 of this title and section 7101 of Title 7, and repealing provisions set out as a note under section 1629 of this title\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 2004’.”
@@ -14,15 +18,19 @@ Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provid
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title 26, and section 1113 of Title 31, Money and Finance\] may be cited as the ‘Tariff Suspension and Trade Act of 2000’.”
+Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, InternalRevenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title 26, and section 1113 of Title 31, Money and Finance\] may be cited as the ‘Tariff Suspension and Trade Act of 2000’.”
 
 Pub. L. 106–476, title I, §1441, Nov. 9, 2000, 114 Stat. 2163, provided that: “This chapter \[chapter 3 (§§1441–1443) of subtitle B of title I of Pub. L. 106–476, enacting section 1308 of this title, amending section 69 of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 1308 of this title\], may be cited as the ‘Dog and Cat Protection Act of 2000’.”
 
-Pub. L. 106–387, §1(a) \[title X, §1001\], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that: “This title \[enacting section 1675c of this title and provisions set out asnotes under section 1675c of this title\] may be cited as the ‘Continued Dumping and Subsidy Offset Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title X, §1001\], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that: “This title \[enacting section 1675c of this title and provisions set out as notes under section 1675c of this title\] may be cited as the ‘Continued Dumping and Subsidy Offset Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
 Pub. L. 106–36, §1(a), June 25, 1999, 113 Stat. 127, provided that: “This Act \[enacting section 1484b of this title, amending sections 58c, 81c, 81i, 1304, 1313, 1411, 1441, 1505, 1514, 1515, 1520, 1555, 1557, 1558, 1584, 1592, 1631, 1675, 2171, 2194, 2293, 2436, 2463, 2492, 2494, and 2495 of this title, sections 620 and 620c of Title 16, Conservation, sections 262n–2, 286gg, 1978, and 5712 of Title 22, Foreign Relations and Intercourse, sections 351, 357, 358, 362, 368, 584, and 1031 of Title 26, Internal Revenue Code, section 891e of Title 33, Navigation and Navigable Waters, sections 2296b, 2296b–6, and 6374 of Title 42, The Public Health and Welfare, and section 50103 of Title 49, Transportation, repealing sections 1708 and 2441 of this title, and enacting provisions set out as notes under sections 58c, 1304, 1313, 1484b, 1514, and 2434 of this title and section 351 of Title 26\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 1999’.”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–258, §1, Oct. 14, 1998, 112 Stat. 1902, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Ocean Shipping Reform Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
@@ -60,7 +68,7 @@ Section 1 of Pub. L. 87–456, May 24, 1962, 76 Stat. 72, provided: “That this
 
 #### Short Title of 1958 Amendment
 
-Section 1 of Pub. L. 85–686, Aug. 20, 1958, 72 Stat. 673, provided: “That this Act \[enacting section 1335 of this title, amending sections 1333, 1336, 1337, 1351, 1352a, 1360, and 1364 of this title, and enacting provisions set out as notes under sections 1351 and 1352 of this title\] may be cited as the ‘Trade Agreements Extension Act of 1958’.”
+Section 1 of Pub. L. 85–686, Aug. 20, 1958, 72 Stat. 673, provided: “That this Act \[enacting section 1335 of this title, amending sections 1333, 1336, 1337, 1351, 1352a, 1360,and 1364 of this title, and enacting provisions set out as notes under sections 1351 and 1352 of this title\] may be cited as the ‘Trade Agreements Extension Act of 1958’.”
 
 #### Short Title of 1956 Amendment
 
@@ -72,7 +80,7 @@ Section 1 of act June 21, 1955, ch. 169, 69 Stat. 162, provided: “That this Ac
 
 #### Short Title of 1954 Amendment
 
-Section 1 of act Sept. 1, 1954, ch. 1213, 68 Stat. 1136, provided: “That this Act \[enacting sections 1301a and1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 of Title 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the ‘Customs Simplification Act of 1954’.”
+Section 1 of act Sept. 1, 1954, ch. 1213, 68 Stat. 1136, provided: “That this Act \[enacting sections 1301a and 1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 of Title 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the ‘Customs Simplification Act of 1954’.”
 
 #### Short Title of 1953 Amendments
 

@@ -22,7 +22,7 @@
 
 &emsp;(5) Not later than 30 days after any final decision under paragraph (4), an interested person may seek judicial review of such decision in the appropriate district court of the United States.
 
-(c)(1) The United States trustee (or the bankruptcy administrator, if any) shall only approve a nonprofit budget and credit counseling agency that demonstrates that it will provide qualifiedcounselors, maintain adequate provision for safekeeping and payment of client funds, provide adequate counseling with respect to client credit problems, and deal responsibly and effectively with other matters relating to the quality, effectiveness, and financial security of the services it provides.
+(c)(1) The United States trustee (or the bankruptcy administrator, if any) shall only approve a nonprofit budget and credit counseling agency that demonstrates that it will provide qualified counselors, maintain adequate provision for safekeeping and payment of client funds, provide adequate counseling with respect to client credit problems, and deal responsibly and effectively with other matters relating to the quality, effectiveness, and financial security of the services it provides.
 
 (2) To be approved by the United States trustee (or the bankruptcy administrator, if any), a nonprofit budget and credit counseling agency shall, at a minimum—
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) is otherwise likely to increase substantially the debtor's understanding of personal financial management.
 
-(e) The district court may, at any time, investigate the qualifications of a nonprofit budget and credit counseling agency referred to in subsection (a), and request production of documents to ensure the integrity and effectiveness of such agency. The district court may, at any time, remove from the approved list under subsection (a) a nonprofit budget and credit counseling agency upon finding such agency does not meet the qualifications of subsection (b).
+(e) The district court may, at any time, investigate the qualifications of a nonprofit budget and credit counseling agency referred to in subsection (a), and request production of documents to ensure the integrity and effectiveness of such agency. The district court may, at any time, remove from the approved list under subsection (a) a nonprofit budget and credit counselingagency upon finding such agency does not meet the qualifications of subsection (b).
 
 (f) The United States trustee (or the bankruptcy administrator, if any) shall notify the clerk that a nonprofit budget and credit counseling agency or an instructional course is no longer approved, in which case the clerk shall remove it from the list maintained under subsection (a).
 
@@ -82,7 +82,7 @@
 
 #### Effective Date
 
-Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under thistitle before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
 #### Debtor Financial Management Training Test Program
 

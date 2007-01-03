@@ -1,6 +1,6 @@
 ### §744. Appointment of a former Navy or Coast Guard officer
 
-A former officer of the Regular Navy or Coast Guard who applies for a Reserve commissionwithin one year of resigning the officer's Regular commission, and who is appointed in the same grade previously held in the Regular Navy or Coast Guard, shall be given the same date or rank in that grade as that previously assigned to the officer while a member of the Regular Navy or Coast Guard.
+A former officer of the Regular Navy or Coast Guard who applies for a Reserve commission within one year of resigning the officer's Regular commission, and who is appointed in the same grade previously held in the Regular Navy or Coast Guard, shall be given the same date or rank in that grade as that previously assigned to the officer while a member of the Regular Navy or Coast Guard.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1015.)
 

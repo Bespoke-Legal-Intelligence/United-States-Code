@@ -22,7 +22,7 @@ The purposes of this section are—
 
 #### (B) Competitive costs and management structures
 
-&emsp;&emsp;In carrying out subparagraph (A), the Secretary, in consultation with the agency, mayuse the General Services Administration or any commercial vendor to ensure—
+&emsp;&emsp;In carrying out subparagraph (A), the Secretary, in consultation with the agency, may use the General Services Administration or any commercial vendor to ensure—
 
 &emsp;&emsp;&emsp;(i) a cost-effective purchase of a stationary, portable, or micro fuel cell; or
 

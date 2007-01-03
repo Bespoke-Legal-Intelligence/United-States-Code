@@ -4,35 +4,10 @@
 | :--- | ---: |
 | [3951\.](%C2%A7%2003951%20-%20Definitions.md) | Definitions. |
 | [3952\.](%C2%A7%2003952%20-%20Priority%20Louisiana%20coastal%20wetlands%20restoration%20projects.md) | Priority Louisiana coastal wetlands restoration projects. |
-| (a) | Priority project list. |
-| (b) | Federal and State project planning. |
-| (c) | Coastal wetlands restoration project benefits. |
-| (d) | Consistency. |
-| (e) | Funding of wetlands restoration projects. |
-| (f) | Cost-sharing. |
 | [3953\.](%C2%A7%2003953%20-%20Louisiana%20coastal%20wetlands%20conservation%20planning.md) | Louisiana coastal wetlands conservation planning. |
-| (a) | Development of conservation plan. |
-| (b) | Conservation plan goal. |
-| (c) | Elements of conservation plan. |
-| (d) | Approval of conservation plan. |
-| (e) | Modification of conservation plan. |
-| (f) | Amendments to conservation plan. |
-| (g) | Implementation of conservation plan. |
-| (h) | Federal oversight. |
 | [3954\.](%C2%A7%2003954%20-%20National%20coastal%20wetlands%20conservation%20grants.md) | National coastal wetlands conservation grants. |
-| (a) | Matching grants. |
-| (b) | Priority. |
-| (c) | Conditions. |
-| (d) | Cost-sharing. |
-| (e) | Partial payments. |
-| (f) | Wetlands assessment. |
 | [3955\.](%C2%A7%2003955%20-%20Distribution%20of%20appropriations.md) | Distribution of appropriations. |
-| (a) | Priority project and conservation planning expenditures. |
-| (b) | Coastal wetlands conservation grants. |
-| (c) | North American wetlands conservation. |
 | [3956\.](%C2%A7%2003956%20-%20General%20provisions.md) | General provisions. |
-| (a) | Additional authority for Corps of Engineers. |
-| (b) | Study. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

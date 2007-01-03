@@ -22,7 +22,7 @@
 
 #### (2) Use of fees
 
-&emsp;Notwithstanding section 1341(c) of this title but subject to advance appropriations, anymonies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
+&emsp;Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
 
 #### (c) Public-private partnerships
 
@@ -42,7 +42,7 @@
 
 #### (C) Amount of fees
 
-&emsp;&emsp;User fees paid pursuant to subparagraph (B) shall be sufficient to repay funds contributed by the private entity plus a reasonable return on investment approved by the Secretary in cooperation with the non-Federal interest with respect to the project and the private entity.
+&emsp;&emsp;User fees paid pursuant to subparagraph (B) shall be sufficient to repay funds contributed by the private entity plus a reasonablereturn on investment approved by the Secretary in cooperation with the non-Federal interest with respect to the project and the private entity.
 
 #### (D) Federal share
 

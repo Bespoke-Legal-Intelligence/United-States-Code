@@ -20,7 +20,7 @@ The Government Accountability Office, the Government Printing Office, and the Li
 
 #### (5) Enforcement of employment rights
 
-&emsp;The remedies and procedures set forth in section 2000e–16 of this title shall be available to any employee of an instrumentality of the Congress who alleges a violation of the rights and protections under sections 12112 through 12114 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.
+&emsp;The remedies and procedures set forth in section 2000e–16 of this title shall be available to any employee of an instrumentality of the Congress who alleges a violation of the rights and protections under sections 12112 through 12114 of this title that are made applicable by this section, except that the authorities of theEqual Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.
 
 #### (6) Enforcement of rights to public services and accommodations
 
@@ -48,7 +48,7 @@ Pub. L. 104–1, §201(c)(3)(B), substituted “The General Accounting Office, t
 
 Par. (2). Pub. L. 104–1, §201(c)(3)(C), struck out at end “Such remedies and procedures shall apply exclusively, except for the employees who are defined as Senate employees, in section 1201(c)(1) of title 2.”
 
-Par. (4). Pub. L. 104–1, §201(c)(3)(D), struck out “the Architect of the Capitol, the Congressional Budget Office” after “the following:”, inserted “and” before “theLibrary of Congress”, and struck out “the Office of Technology Assessment, and the United States Botanic Garden” before period at end.
+Par. (4). Pub. L. 104–1, §201(c)(3)(D), struck out “the Architect of the Capitol, the Congressional Budget Office” after “the following:”, inserted “and” before “the Library of Congress”, and struck out “the Office of Technology Assessment, and the United States Botanic Garden” before period at end.
 
 Pub. L. 104–1, §201(c)(3)(D), which in part directed the substitution of “the term ‘instrumentality of the Congress’ means” for “the instrumentalities of the Congress include”, was executed by making the substitution for “instrumentalities of the Congress include” to reflect the probable intent of Congress.
 

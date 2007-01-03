@@ -4,7 +4,7 @@
 
 (1) The Interim Council shall be responsible for preparing the tribal constitution and bylaws which shall provide for, at a minimum, the establishment of a tribal governing body and tribal membership qualifications. Such proposed constitution and bylaws shall be adopted by the Interim Council no later than six months after November 22, 1983.
 
-(2) Upon the adoption of the proposed tribal constitution and bylaws by the Interim Council,the Council shall request the Secretary, in writing, to schedule an election to approve or disapprove the adoption of such constitution and bylaws. The Secretary shall conduct an election by secret ballot in accordance with section 476 of this title.
+(2) Upon the adoption of the proposed tribal constitution and bylaws by the Interim Council, the Council shall request the Secretary, in writing, to schedule an election to approve or disapprove the adoption of such constitution and bylaws. The Secretary shall conduct an election by secret ballot in accordance with section 476 of this title.
 
 #### (b) Notice and consultation
 

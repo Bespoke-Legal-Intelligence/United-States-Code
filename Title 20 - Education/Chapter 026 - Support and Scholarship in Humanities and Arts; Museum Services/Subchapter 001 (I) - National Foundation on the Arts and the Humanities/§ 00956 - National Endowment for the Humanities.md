@@ -88,7 +88,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(A) provides assurances that the grant recipient will comply with the requirements of paragraph (2)(B);
 
-&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programswhich carry out the objectives of subsection (c) of this section;
+&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programs which carry out the objectives of subsection (c) of this section;
 
 &emsp;(C) establishes a membership policy which is designed to assure broad public representation with respect to programs administered by such grant recipient;
 
@@ -118,7 +118,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by theChairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
@@ -142,7 +142,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (E) For purposes of paragraph (4)(B), the term “State” and the term “grant recipient” include, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
-(6) All amounts allotted or made available under paragraph (4) for a fiscal year which arenot granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
+(6) All amounts allotted or made available under paragraph (4) for a fiscal year which are not granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
 
 (7) Whenever the Chairperson, after reasonable notice and opportunity for hearing, finds that—
 

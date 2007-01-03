@@ -184,7 +184,7 @@ Qualifications.—
 
 In general.—The membership of the Working Group shall include—
 
-&emsp;&emsp;&emsp;“(i) consumers of health services that represent those individuals who have not had insurance within 2 years of appointment, that have had chronic illnesses, including mental illness, aredisabled, and those who receive insurance coverage through medicare and medicaid; and
+&emsp;&emsp;&emsp;“(i) consumers of health services that represent those individuals who have not had insurance within 2 years of appointment, that have had chronic illnesses, including mental illness, are disabled, and those who receive insurance coverage through medicare and medicaid; and
 
 &emsp;&emsp;&emsp;“(ii) individuals with expertise in financing and paying for benefits and access to care, business and labor perspectives, and providers of health care.
 
@@ -244,7 +244,7 @@ The health report to the american people.—Not later than 90 days after the hea
 
 &emsp;&emsp;&emsp;“(iii) the source of coverage and payment, including reimbursement, for health care services;
 
-&emsp;&emsp;&emsp;“(iv) the reasons people are uninsured or underinsured and the cost to taxpayers, purchasers of health services, and communities when Americans are uninsured or underinsured;
+&emsp;&emsp;&emsp;“(iv) the reasons people are uninsured or underinsured and the cost to taxpayers, purchasers ofhealth services, and communities when Americans are uninsured or underinsured;
 
 &emsp;&emsp;&emsp;“(v) the impact on health care outcomes and costs when individuals are treated in all stages of disease;
 

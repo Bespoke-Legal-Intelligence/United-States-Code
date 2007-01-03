@@ -4,7 +4,7 @@ Whoever falsely makes, alters, forges, or counterfeits any bond, bid, proposal, 
 
 Whoever utters or publishes as true or possesses with intent to utter or publish as true, any such false, forged, altered, or counterfeited writing, knowing the same to be false, forged, altered, or counterfeited; or
 
-Whoever transmits to, or presents at any office or to any officer of the United States, any such false, forged, altered, or counterfeited writing, knowing the same to be false, forged, altered, or counterfeited—
+Whoever transmits to, or presents at any office or to any officer of the United States, anysuch false, forged, altered, or counterfeited writing, knowing the same to be false, forged, altered, or counterfeited—
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—No person shall excavate for the purpose of unauthorized disposal within theright-of-way of an interstate gas pipeline facility or interstate hazardous liquid pipeline facility, or any other limited area in the vicinity of any such interstate pipeline facility established by the Secretary of Transportation, and dispose solid waste therein.
+Prohibition.—No person shall excavate for the purpose of unauthorized disposal within the right-of-way of an interstate gas pipeline facility or interstate hazardous liquid pipeline facility, or any other limited area in the vicinity of any such interstate pipeline facility established by the Secretary of Transportation, and dispose solid waste therein.
 
 (b)
 

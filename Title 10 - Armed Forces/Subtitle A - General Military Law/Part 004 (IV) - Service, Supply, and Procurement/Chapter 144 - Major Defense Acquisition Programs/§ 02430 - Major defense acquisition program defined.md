@@ -18,13 +18,95 @@
 
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
 
+#### Requirements Management Certification Training Program
+
+Pub. L. 109–364, div. A, title VIII, §801, Oct. 17, 2006, 120 Stat. 2312, provided that:
+
+“(a)
+
+Training Program.—
+
+&emsp;“(1)
+
+Requirement.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, in consultation with the Defense Acquisition University, shall develop a training program to certify military and civilian personnel of the Department of Defense with responsibility for generating requirements for major defense acquisition programs (as defined in section 2430(a) of title 10, United States Code).
+
+&emsp;“(2)
+
+Competency and other requirements.—The Under Secretary shall establish competency requirements for the personnel undergoing the training program. The Under Secretary shall define the target population for such training program by identifying which military and civilian personnel should have responsibility for generating requirements. The Under Secretary also may establish other training programs for personnel not subject to chapter 87 of title 10, United States Code, who contribute significantly to other types of acquisitions by the Department of Defense.
+
+“(b)
+
+Applicability.—Effective on and after September 30, 2008, a member of the Armed Forces or an employee of the Department of Defense with authority to generate requirements for a major defense acquisition program may not continue to participate in the requirements generation process unless the member or employee successfully completes the certification training program developed under this section.
+
+“(c)
+
+Reports.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an interim report, notlater than March 1, 2007, and a final report, not later than March 1, 2008, on the implementation of the training program required under this section.”
+
+#### Program Manager Empowerment and Accountability
+
+Pub. L. 109–364, div. A, title VIII, §853, Oct. 17, 2006, 120 Stat. 2342, provided that:
+
+“(a)
+
+Strategy.—The Secretary of Defense shall develop a comprehensive strategy for enhancing the role of Department of Defense program managers in developing and carrying out defense acquisition programs.
+
+“(b)
+
+Matters to Be Addressed.—The strategy required by this section shall address, at a minimum—
+
+&emsp;“(1) enhanced training and educational opportunities for program managers;
+
+&emsp;“(2) increased emphasis on the mentoring of current and future program managers by experienced senior executives and program managers within the Department;
+
+&emsp;“(3) improved career paths and career opportunities for program managers;
+
+&emsp;“(4) additional incentives for the recruitment and retention of highly qualified individuals to serve as program managers;
+
+&emsp;“(5) improved resources and support (including systems engineering expertise, cost estimating expertise, and software development expertise) for program managers;
+
+&emsp;“(6) improved means of collecting and disseminating best practices and lessons learned to enhance program management throughout the Department;
+
+&emsp;“(7) common templates and tools to support improved data gathering and analysis for program management and oversight purposes;
+
+&emsp;“(8) increased accountability of program managers for the results of defense acquisition programs; and
+
+&emsp;“(9) enhanced monetary and nonmonetary awards for successful accomplishment of program objectives by program managers.
+
+“(c)
+
+Guidance on Tenure and Accountability of Program Managers Before Milestone B.—Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure, and accountability of program managers for the program development period (before Milestone B approval (or Key Decision Point B approval in the case of a space program)).
+
+“(d)
+
+Guidance on Tenure and Accountability of Program Managers After Milestone B.—Not later than 180 days after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure and accountability of program managers for the program execution period (from Milestone B approval (or Key Decision Point B approval in the case of a space program) until the delivery of the first production units of a program). The guidance issued pursuant to this subsection shall address, at a minimum—
+
+&emsp;“(1) the need for a performance agreement between a program manager and the milestone decision authority for the program, setting forth expected parameters for cost, schedule, and performance, and appropriate commitments by the program manager and the milestone decision authority to ensure that such parameters are met;
+
+&emsp;“(2) authorities available to the program manager, including, to the extent appropriate, the authority to object to the addition of new program requirements that would be inconsistent with the parameters established at Milestone B (or Key Decision Point B in the case of a space program) and reflected in the performance agreement; and
+
+&emsp;“(3) the extent to which a program manager for such period should continue in the position without interruption until the delivery of the first production units of the program.
+
+“(e)
+
+Reports.—
+
+&emsp;“(1)
+
+Report by secretary of defense.—Not later than 270 days after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the strategy developed pursuant to subsection (a) and the guidance issued pursuant to subsections (b) and (c).
+
+&emsp;“(2)
+
+Report by comptroller general.—Not later than one year after the date of enactment of this Act, the Comptroller General shall submit to the congressional defense committees a report on the actions taken by the Secretary of Defense to implement the requirements of this section.”
+
 #### Management of National Security Agency Modernization Program
 
 Pub. L. 108–136, div. A, title IX, §924, Nov. 24, 2003, 117 Stat. 1576, provided that:
 
 “(a)
 
-Management of Acquisition Programs Through USD (AT\&L).—The Secretary of Defense shall direct that, effective as of the date of the enactment of this Act \[Nov. 24, 2003\], acquisitions under the National Security Agency Modernization Program shall be directed and managed by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+Management of Acquisition Programs Through USD (AT
+
+\&L).—The Secretary of Defense shall direct that, effective as of the date of the enactment of this Act \[Nov. 24, 2003\], acquisitions under the National Security Agency Modernization Program shall be directed and managed by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 “(b)
 
@@ -34,7 +116,7 @@ Applicability of Major Defense Acquisition Program Authorities.—(1) Each proje
 
 “(c)
 
-Milestone Decision Authority.—(1) The authority to make a decision that a program is authorized toproceed from one milestone stage into another (referred to as the milestone decision authority) may only be exercised by the Under Secretary of Defense for Acquisition, Technology, and Logistics for the following:
+Milestone Decision Authority.—(1) The authority to make a decision that a program is authorized to proceed from one milestone stage into another (referred to as the milestone decision authority) may only be exercised by the Under Secretary of Defense for Acquisition, Technology, and Logistics for the following:
 
 &emsp;“(A) Each project of the National Security Agency Modernization Program that is to be managed as a major defense acquisition program, as designated under subsection (b).
 
@@ -306,7 +388,7 @@ Collection and Analysis of Performance Information.—The Secretary of Defense s
 
 Information To Be Included.—Information collected under subsection (a) shall include the history of the performance of each contractor under the Defense Acquisition Pilot Program contracts and, for each such contract performed by the contractor, a technical evaluation of the contractor's performance prepared by the program manager responsible for the contract.”
 
-Pub. L. 101–510, div. A, title VIII, §809, Nov. 5, 1990, 104 Stat. 1593, as amended by Pub. L. 102–484, div. A, titleVIII, §811, Oct. 23, 1992, 106 Stat. 2450; Pub. L. 103–160, div. A, title VIII, §832, Nov. 30, 1993, 107 Stat. 1715, provided that:
+Pub. L. 101–510, div. A, title VIII, §809, Nov. 5, 1990, 104 Stat. 1593, as amended by Pub. L. 102–484, div. A, title VIII, §811, Oct. 23, 1992, 106 Stat. 2450; Pub. L. 103–160, div. A, title VIII, §832, Nov. 30, 1993, 107 Stat. 1715, provided that:
 
 “(a)
 

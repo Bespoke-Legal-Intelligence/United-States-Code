@@ -84,7 +84,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) funds directly or indirectly invested in any applicant or licensee by any Federal agency under a provision of law enacted after September 4, 1992, explicitly mandating the inclusion of those funds in the definition of the term “private capital”; and
 
-&emsp;&emsp;(C) funds invested in any applicant or licensee by one or more State or local government entities (including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent ofthe private capital of the applicant or licensee;
+&emsp;&emsp;(C) funds invested in any applicant or licensee by one or more State or local government entities (including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent of the private capital of the applicant or licensee;
 
 &emsp;(14) the terms “employee welfare benefit plan” and “pension plan” have the same meanings as in section 3 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002\], and are intended to include—
 
@@ -114,7 +114,7 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (14), i
 
 Par. (17). Pub. L. 106–554, §1(a)(9) \[title IV, §402(b)\], added par. (17).
 
-1999—Par. (5). Pub. L. 106–9, §2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+1999—Par. (5). Pub. L. 106–9, §2(c)(1), designated existing provisions after “for purposes of this chapter” assubpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
 Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 

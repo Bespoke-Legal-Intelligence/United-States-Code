@@ -1,6 +1,6 @@
 ### §4561. Rations
 
-(a) The President may prescribe the components, and the quantities thereof, of the Army ration. He may direct the issue of equivalent articles in place of the prescribed componentswhenever, in his opinion, economy and the health and comfort of the members of the Army so require.
+(a) The President may prescribe the components, and the quantities thereof, of the Army ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Army so require.
 
 (b) Under the direction of the Secretary of the Army, the branch, office, or officer designated by him shall issue the components of the Army ration.
 

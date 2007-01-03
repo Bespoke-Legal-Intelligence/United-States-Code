@@ -2,7 +2,7 @@
 
 #### (a) Printing
 
-Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households whichhave been duly certified as eligible to participate in the food stamp program.
+Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
 
 #### (b) Approved food stores; receipt of cash in change for coupons used to purchase food
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 (1) The State agency may establish a procedure for staggering the issuance of coupons to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
 
-(2) Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household's benefits in more than one issuance.
+(2) Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of morethan 40 days. The procedure may include issuing a household's benefits in more than one issuance.
 
 #### (i) Electronic benefit transfers
 
@@ -160,7 +160,7 @@ Point-of-sale service.—The term “point-of-sale service” means any product 
 
 &emsp;(B)
 
-Restrictions.—A company may not sell or provide electronic benefit transfer services,or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer—
+Restrictions.—A company may not sell or provide electronic benefit transfer services, or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer—
 
 &emsp;&emsp;(i) obtain some additional point-of-sale service from the company or an affiliate of the company; or
 
@@ -250,7 +250,7 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 #### (H) Switching
 
-&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use ofan electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
 
 #### (2) Requirement
 
@@ -306,7 +306,7 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 &emsp;&emsp;The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309.)
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L.99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309.)
 
 #### References in Text
 

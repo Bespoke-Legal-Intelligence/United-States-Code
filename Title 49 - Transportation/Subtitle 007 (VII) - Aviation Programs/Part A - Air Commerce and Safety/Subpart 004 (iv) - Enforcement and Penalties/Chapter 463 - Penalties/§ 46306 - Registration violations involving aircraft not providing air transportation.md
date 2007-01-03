@@ -34,7 +34,7 @@ General Criminal Penalty.—Except as provided by subsection (c) of this section
 
 &emsp;(8) knowingly and willfully employs for service or uses in any capacity as an airman an individual who does not have an airman's certificate authorizing the individual to serve in that capacity; or
 
-&emsp;(9) operates an aircraft with a fuel tank or fuel system that has been installed or modified knowing that the tank, system, installation, or modification does not comply withregulations and requirements of the Administrator of the Federal Aviation Administration.
+&emsp;(9) operates an aircraft with a fuel tank or fuel system that has been installed or modified knowing that the tank, system, installation, or modification does not comply with regulations and requirements of the Administrator of the Federal Aviation Administration.
 
 (c)
 

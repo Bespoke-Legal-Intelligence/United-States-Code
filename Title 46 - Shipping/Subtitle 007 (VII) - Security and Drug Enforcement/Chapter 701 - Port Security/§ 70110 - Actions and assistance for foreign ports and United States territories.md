@@ -1,0 +1,54 @@
+### §70110. Actions and assistance for foreign ports and United States territories
+
+(a)
+
+In General.—If the Secretary finds that a foreign port does not maintain effective antiterrorism measures, the Secretary—
+
+&emsp;(1) may prescribe conditions of entry into the United States for any vessel arriving from that port, or any vessel carrying cargo or passengers originating from or transshipped through that port;
+
+&emsp;(2) may deny entry into the United States to any vessel that does not meet such conditions; and
+
+&emsp;(3) shall provide public notice for passengers of the ineffective antiterrorism measures.
+
+(b)
+
+Effective Date for Sanctions.—Any action taken by the Secretary under subsection (a) for a particular port shall take effect—
+
+&emsp;(1) 90 days after the government of the foreign country with jurisdiction over or control of that port is notified under section 70109 unless the Secretary finds that the government has brought the antiterrorism measures at the port up to the security level the Secretary used in making an assessment under section 70108 before the end of that 90-day period; or
+
+&emsp;(2) immediately upon the finding of the Secretary under subsection (a) if the Secretary finds, after consulting with the Secretary of State, that a condition exists that threatens the safety or security of passengers, vessels, or crew traveling to or from the port.
+
+(c)
+
+State Department To Be Notified.—The Secretary immediately shall notify the Secretary of State of a finding that a port does not maintain effective antiterrorism measures.
+
+(d)
+
+Action Canceled.—An action required under this section is no longer required if the Secretary decides that effective antiterrorism measures are maintained at the port.
+
+(e)
+
+Assistance for Foreign Ports and United States Territories.—
+
+&emsp;(1)
+
+In general.—The Secretary, in consultation with the Secretary of Transportation, the Secretary of State, and the Secretary of Energy, shall identify assistance programs that could facilitate implementation of port security antiterrorism measures in foreign countries and territories of the United States. The Secretary shall establish a program to utilize the programs that are capable of implementing port security antiterrorism measures at ports in foreign countries and territories of the United States that the Secretary finds to lack effective antiterrorism measures.
+
+#### (2) Caribbean basin
+
+&emsp;The Secretary, in coordination with the Secretary of State and in consultation with the Organization of American States and the Commandant of the Coast Guard, shall place particular emphasis on utilizing programs to facilitate the implementation of port security antiterrorism measures at the ports located in the Caribbean Basin, as such ports pose unique security and safety threats to the United States due to—
+
+&emsp;&emsp;(A) the strategic location of such ports between South America and the United States;
+
+&emsp;&emsp;(B) the relative openness of such ports; and
+
+&emsp;&emsp;(C) the significant number of shipments of narcotics to the United States that are moved through such ports.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title II, §233(b), Oct. 13, 2006, 120 Stat. 1917.)
+
+#### Amendments
+
+2006—Pub. L. 109–347, §233(b)(1), substituted “Actions and assistance for foreign ports and United States territories” for “Actions when foreign ports not maintaining effective antiterrorism measures” in section catchline.
+
+Subsec. (e). Pub. L. 109–347, §233(b)(2), added subsec. (e).
+

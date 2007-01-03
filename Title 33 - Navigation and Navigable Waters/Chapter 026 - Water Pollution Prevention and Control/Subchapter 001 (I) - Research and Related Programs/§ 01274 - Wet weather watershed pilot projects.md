@@ -28,15 +28,11 @@ The Administrator, in coordination with the States, shall provide municipalities
 
 #### (3) Administrative expenses
 
-&emsp;The Administrator may retain not to exceed 4 percent of any amounts appropriated for a fiscal year pursuant to this subsection for the reasonable and necessary costs of administering this section.
+&emsp;The Administrator may retain not to exceed 4 percent of any amounts appropriated for afiscal year pursuant to this subsection for the reasonable and necessary costs of administering this section.
 
 #### (d) Report to Congress
 
 Not later than 5 years after December 21, 2000, the Administrator shall transmit to Congress a report on the results of the pilot projects conducted under this section and their possible application nationwide.
 
-(June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–225.)
-
-#### Codification
-
-Another section 121 of act June 30, 1948, ch. 758, is classified to section 1273 of this title.
+(June 30, 1948, ch. 758, title I, §122, formerly §121, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–225; renumbered §122, Pub. L. 109–392, §2, Dec. 12, 2006, 120 Stat. 2703.)
 

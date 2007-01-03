@@ -50,7 +50,7 @@
 
 #### (4) Rounding
 
-&emsp;If the President determines that such action will simplify the computation of reductions under paragraph (3), the President may round an annual reduction by an amount equal to the lesser of—
+&emsp;If the President determines that such action will simplify the computation of reductionsunder paragraph (3), the President may round an annual reduction by an amount equal to the lesser of—
 
 &emsp;&emsp;(A) the difference between the reduction without regard to this paragraph and the next lower whole number; or
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(A) a description of all trade agreements that have been negotiated under subsection (b) of this section and the anticipated schedule for submitting such agreements to the Congress for approval;
 
-&emsp;&emsp;(B) a description of the progress that has been made in negotiations to achieve the purposes, policies, priorities, and objectives of this chapter, and a statement that such progress justifies the continuation of negotiations; and
+&emsp;&emsp;(B) a description of the progress that has been made in negotiations to achieve thepurposes, policies, priorities, and objectives of this chapter, and a statement that such progress justifies the continuation of negotiations; and
 
 &emsp;&emsp;(C) a statement of the reasons why the extension is needed to complete the negotiations.
 
@@ -142,7 +142,7 @@
 
 #### (B) Report by ITC
 
-&emsp;&emsp;The President shall promptly inform the International Trade Commission of the President's decision to submit a report to the Congress under paragraph (2). The International Trade Commission shall submit tothe Congress as soon as practicable, but not later than June 1, 2005, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between August 6, 2002, and the date on which the President decides to seek an extension requested under paragraph (2).
+&emsp;&emsp;The President shall promptly inform the International Trade Commission of the President's decision to submit a report to the Congress under paragraph (2). The International Trade Commission shall submit to the Congress as soon as practicable, but not later than June 1, 2005, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between August 6, 2002, and the date on which the President decides to seek an extension requested under paragraph (2).
 
 #### (4) Status of reports
 

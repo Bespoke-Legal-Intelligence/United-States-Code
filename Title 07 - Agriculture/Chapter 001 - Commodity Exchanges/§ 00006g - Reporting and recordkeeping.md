@@ -50,7 +50,7 @@ Par. (2). Pub. L. 97–444, §209(2), made customer daily trading records requir
 
 Pars. (2) to (6). Pub. L. 93–463, §415, added pars. (2) to (6).
 
-1968—Pub. L. 90–258 rephrased existing provisions to express reporting and recordkeeping requirements as a positive obligation of futures commission merchants and floor brokers, rather than as a ground for revoking or suspending registration and struck out provisions for revocation or suspension of registration. See section 9 of this title.
+1968—Pub. L. 90–258 rephrased existing provisions to express reporting and recordkeeping requirements as apositive obligation of futures commission merchants and floor brokers, rather than as a ground for revoking or suspending registration and struck out provisions for revocation or suspension of registration. See section 9 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -20,7 +20,7 @@
 
 &emsp;(6) Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
 
-&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee.
+&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
 
 > The protection authorized in paragraphs (2) through (7) may be declined.
 
@@ -58,9 +58,11 @@
 
 &emsp;(B) the criteria and information used in making each designation.
 
-(f) Under the direction of the Secretary of Homeland Security, officers and agents of the Secret Service are authorized, at the request of any State or local law enforcement agency, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance in support of any investigation involving missing or exploited children.
+(f) Under the direction of the Secretary of Homeland Security, the Secret Service is authorized, at the request of any State or local law enforcement agency, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance in support of any investigation involving missing or exploited children.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665.)
+(g) The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.
+
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367;Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256.)
 
 #### Historical and Revision Notes
 
@@ -80,9 +82,17 @@ Changes were made in phraseology.
 
 #### References in Text
 
+The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
 Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 #### Amendments
+
+2006—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting “The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).” after “other members of the Committee.”, was executed by making the insertion after “other members of the committee.”, to reflect the probable intent of Congress.
+
+Subsec. (f). Pub. L. 109–177, §604, substituted “the Secret Service is” for “officers and agents of the Secret Service are”.
+
+Subsec. (g). Pub. L. 109–177, §607, added subsec. (g).
 
 2003—Subsec. (f). Pub. L. 108–21 added subsec. (f).
 
@@ -142,11 +152,11 @@ Pub. L. 87–791 required moneys expended from Secret Service appropriations for
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the United States Secret Service to the Department of Homeland Security, see section 1703(b) of Pub. L. 107–296, set out as a note under section 202 of Title 3, The President.
+Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made by this section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\].”
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–552 effective July 12, 1974, see section 609(b) of Pub. L. 93–552, set out as a note under section 202 of Title 3, The President.
+Pub. L. 93–552, title VI, §609(b), Dec. 27, 1974, 88 Stat. 1765, provided that: “Except as otherwise provided therein, the amendment made by subsection (a) of this section \[amending this section, former section 202 of Title 3, The President, and provisions set out as a note under section 111 of Title 3\] shall become effective July 12, 1974.”
 
 #### Effective Date of 1959 Amendment
 
@@ -156,13 +166,17 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Use of Funds for United States Secret Service Protection
+
+Pub. L. 109–295, title V, §517(b), Oct. 4, 2006, 120 Stat. 1380, provided that: “Beginning in fiscal year 2008, none of the funds appropriated by this or any other Act to the United States Secret Service shall be made available for the protection of a person, other than persons granted protection under section 3056(a) of title 18, United States Code, and the Secretary of Homeland Security: <i>Provided</i>, That the Director of the United States Secret Service may enter into an agreement to perform such protection on a fully reimbursable basis for protectees not designated under section 3056(a) of title 18, United States Code.”
+
 #### Funds for Training
 
 Pub. L. 108–90, title II, Oct. 1, 2003, 117 Stat. 1145, provided in part: “That in fiscal year 2004 and thereafter, subject to the reimbursement of actual costs to this account, funds appropriated in this account shall be available, at the discretion of the Director, for the following: training United States Postal Service law enforcement personnel and Postal police officers, training Federal law enforcement officers, training State and local government law enforcement officers on a space-available basis, and training private sector security officials on a space-available basis”.
 
 #### Expansion of National Electronic Crime Task Force Initiative
 
-Pub. L. 107–56, title I, §105, Oct. 26, 2001, 115 Stat. 277, provided that: “The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems.”
+Pub. L. 107–56, title I, §105, Oct. 26, 2001, 115 Stat. 277, as amended by Pub. L. 109–177, title VI, §608(b), Mar. 9, 2006, 120 Stat. 256, provided that: “The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems. The electronic crimes task forces shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\].”
 
 #### National Threat Assessment Center
 
@@ -194,7 +208,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Telecommunications Support to United States Secret Service by White House Communications Agency
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, asamended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory.”
 
 #### Off-Set of Costs of Protecting Former Presidents and Spouses
 
@@ -288,7 +302,7 @@ Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased,
 
 “
 
-Sec. 8. No funds may be expended or obligated for the purpose of carrying out the purposes of section 3056of title 18, United States Code, and section 1 of Public Law 90–331 \[set out as a note above\] other than funds specifically appropriated to the Secret Service for those purposes with the exception of—
+Sec. 8. No funds may be expended or obligated for the purpose of carrying out the purposes of section 3056 of title 18, United States Code, and section 1 of Public Law 90–331 \[set out as a note above\] other than funds specifically appropriated to the Secret Service for those purposes with the exception of—
 
 &emsp;“(1) expenditures made by the Department of Defense or the Coast Guard from funds appropriated to the Department of Defense or the Coast Guard in providing assistance on a temporary basis to the Secret Service in the performance of its duties directly related to the protection of the President or the Vice President or other officer next in order of succession to the office of the President; and
 
@@ -318,7 +332,7 @@ Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, §
 
 #### Extension of Protection of President's Widow and Children
 
-Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the United States Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
+Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the UnitedStates Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
 
 #### Applicability of Reorg. Plan No. 26 of 1950
 

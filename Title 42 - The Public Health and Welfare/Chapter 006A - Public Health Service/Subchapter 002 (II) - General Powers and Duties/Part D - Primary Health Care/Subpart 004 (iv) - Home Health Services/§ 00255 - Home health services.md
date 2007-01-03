@@ -52,7 +52,7 @@
 
 The Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives on or before January 1, 1984, with respect to—
 
-&emsp;(1) the impact of grants made and contracts entered into under subsections (a) and (b) ofthis section (as such subsections were in effect prior to October 1, 1981);
+&emsp;(1) the impact of grants made and contracts entered into under subsections (a) and (b) of this section (as such subsections were in effect prior to October 1, 1981);
 
 &emsp;(2) the need to continue grants and loans under subsections (a) and (b) of this section (as such subsections are in effect on the day after January 4, 1983); and
 

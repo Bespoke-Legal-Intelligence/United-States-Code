@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation shall provide, through grants or contracts, for the continuing evaluation ofprograms that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
+The Corporation shall provide, through grants or contracts, for the continuing evaluation of programs that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
 
 &emsp;(1) the effectiveness of various program models in achieving stated goals and the costs associated with such;
 
@@ -72,7 +72,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall maintain the confidentiality of information acquired underthis subsection regarding individual participants.
+&emsp;&emsp;The Corporation shall maintain the confidentiality of information acquired under this subsection regarding individual participants.
 
 #### (B) Disclosure
 

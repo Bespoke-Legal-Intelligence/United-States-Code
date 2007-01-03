@@ -48,7 +48,7 @@ Pub. L. 105–207, title II, §203, July 29, 1998, 112 Stat. 875, provided that:
 
 “(a)
 
-Matching Funds.—Matching funds required pursuant to section 204(a)(2)(C) of the Academic Research Facilities Modernization Act of 1988 (42 U.S.C. 1862c(a)(2)(C)) shall not be considered facilities costs for purposes of determining indirect cost rates under Office of Management and Budget Circular A–21.
+Matching Funds.—Matching funds required pursuant to section 204(a)(2)(C) of the Academic ResearchFacilities Modernization Act of 1988 (42 U.S.C. 1862c(a)(2)(C)) shall not be considered facilities costs for purposes of determining indirect cost rates under Office of Management and Budget Circular A–21.
 
 “(b)
 
@@ -160,5 +160,5 @@ United states.—The term ‘United States’ means the several States, the Dist
 
 &emsp;“(6)
 
-National research facility.—The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.”
+National research facility.—The term ‘national research facility’ means a research facilityfunded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.”
 

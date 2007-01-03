@@ -26,7 +26,7 @@ General Rule.—Except as provided in subsection (b), the Secretary of Veterans 
 
 “(b)
 
-Voluntary Testing.—(1) The Secretary shall provide for a program under which the Department of Veterans Affairs offers each patient to whom the Department is furnishing health care or services and who is described in paragraph (2) the opportunity to be tested to determine whether such patient is infected with the human immunodeficiency virus.
+Voluntary Testing.—(1) The Secretary shall provide for a program under which the Department ofVeterans Affairs offers each patient to whom the Department is furnishing health care or services and who is described in paragraph (2) the opportunity to be tested to determine whether such patient is infected with the human immunodeficiency virus.
 
 “(2) Patients referred to in paragraph (1) are—
 

@@ -6,7 +6,7 @@ Board of Directors.—The board of directors is the governing body of the corpor
 
 (b)
 
-Officers.—The officers of the corporation are a chairman of the board, a president, one ormore vice presidents, a secretary, a treasurer, and any assistant officers designated by the board. The officers have the powers and shall carry out the duties provided in the bylaws or prescribed by the board.
+Officers.—The officers of the corporation are a chairman of the board, a president, one or more vice presidents, a secretary, a treasurer, and any assistant officers designated by the board. The officers have the powers and shall carry out the duties provided in the bylaws or prescribed by the board.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1323.)
 

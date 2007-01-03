@@ -8,9 +8,9 @@ The Secretary shall promulgate, and may amend, such rules and regulations as he 
 
 &emsp;(c) provision for the control of the use of motorized and mechanical equipment for transportation over, or alteration of, the surface of any Federal land within the recreation area;
 
-&emsp;(d) provision for the control of the use and number of motorized and nonmotorized river craft: <i>Provided</i>, That the use of such craft is hereby recognized as a valid use of the Snake River within the recreation area; and
+&emsp;(d) provision for the control of the use and number of motorized and nonmotorized rivercraft: <i>Provided</i>, That the use of such craft is hereby recognized as a valid use of the Snake River within the recreation area; and
 
-&emsp;(e) standards for such management, utilization, and disposal of natural resources on federally owned lands, including but not limited to, timber harvesting by selective cutting, mining, and grazing and the continuation of such existing uses and developments as arecompatible with the provisions of this subchapter.
+&emsp;(e) standards for such management, utilization, and disposal of natural resources on federally owned lands, including but not limited to, timber harvesting by selective cutting, mining, and grazing and the continuation of such existing uses and developments as are compatible with the provisions of this subchapter.
 
 (Pub. L. 94–199, §10, Dec. 31, 1975, 89 Stat. 1121.)
 

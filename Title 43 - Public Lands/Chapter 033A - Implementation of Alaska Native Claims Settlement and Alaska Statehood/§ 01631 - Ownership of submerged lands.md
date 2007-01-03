@@ -2,7 +2,7 @@
 
 #### (a) Meandering in the surveying of submerged land
 
-(1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shall be meandered in accordance with the principles in the Bureau of Land Management, “Manual of Surveying Instructions” (1973).
+(1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shall be meandered in accordance with the principlesin the Bureau of Land Management, “Manual of Surveying Instructions” (1973).
 
 (2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river or stream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\], such lake, river, or stream shall not be meandered.
 
@@ -48,7 +48,7 @@ August 16, 1988, referred to in subsec. (b)(1), was in the original “the date 
 
 1988—Pub. L. 100–395 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) to (h).
 
-1986—Subsec. (a). Pub. L. 99–644 substituted “eight years after the date of execution” for “six years after the date of execution” in two places and “nine years after December 2, 1980” for “seven years after December 2, 1980” in two places.
+1986—Subsec. (a). Pub. L. 99–644 substituted “eight years after the date of execution” for “six years afterthe date of execution” in two places and “nine years after December 2, 1980” for “seven years after December 2, 1980” in two places.
 
 Pub. L. 99–258 substituted “six years after the date of execution” for “five years after the date of execution” in two places.
 

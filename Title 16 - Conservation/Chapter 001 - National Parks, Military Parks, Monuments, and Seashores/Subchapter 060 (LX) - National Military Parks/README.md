@@ -86,7 +86,7 @@
 - [&sect; 00426j - Authorization of appropriation; fixing of boundaries as condition to purchase of lands](%C2%A7%2000426j%20-%20Authorization%20of%20appropriation%3B%20fixing%20of%20boundaries%20as%20condition%20to%20purchase%20of%20lands.md)
 - [&sect; 00426k - Acquisition of additional lands](%C2%A7%2000426k%20-%20Acquisition%20of%20additional%20lands.md)
 - [&sect; 00426l - Redesignation; availability of appropriations](%C2%A7%2000426l%20-%20Redesignation%3B%20availability%20of%20appropriations.md)
-- [&sect; 00426m - Administration, protection and development](%C2%A7%2000426m%20-%20Administration%2C%20protection%20and%20development.md)
+- [&sect; 00426m - Administration, protection, and development](%C2%A7%2000426m%20-%20Administration%2C%20protection%2C%20and%20development.md)
 - [&sect; 00426n - Boundary revision of Stones River National Battlefield](%C2%A7%2000426n%20-%20Boundary%20revision%20of%20Stones%20River%20National%20Battlefield.md)
 - [&sect; 00426o - Agreement with Murfreesboro, Tennessee, respecting battlefield](%C2%A7%2000426o%20-%20Agreement%20with%20Murfreesboro%2C%20Tennessee%2C%20respecting%20battlefield.md)
 - [&sect; 00426o&#8211;1 - Planning](%C2%A7%2000426o%E2%80%931%20-%20Planning.md)

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of United States Section
 
-The President is authorized to establish within any department or agency of the United States Government a United States Section of the Secretariat established under chapter 20 of the Agreement. The United States Section, subject to the oversight of the interagency group established under section 3432 of this title, shall carry out its functions within the Secretariat to facilitate the operation of the Agreement, including the operation of chapters 19 and 20 of the Agreement and the work of the panels, extraordinary challenge committees, special committees, and scientific review boards convened under those chapters. The United States Section may not be considered to be an agency for purposes of section 552 of title 5.
+The President is authorized to establish within any department or agency of the United States Government a United States Section of the Secretariat established under chapter 20 of the Agreement. The United States Section, subject to the oversight of the interagency group established under section 3432 of this title, shall carry out its functions within the Secretariat to facilitate the operation of the Agreement, including the operation of chapters 19 and 20 of the Agreement and the work of the panels, extraordinary challenge committees, special committees, and scientific review boards convened under those chapters. The United States Sectionmay not be considered to be an agency for purposes of section 552 of title 5.
 
 #### (b) Authorization of appropriations
 

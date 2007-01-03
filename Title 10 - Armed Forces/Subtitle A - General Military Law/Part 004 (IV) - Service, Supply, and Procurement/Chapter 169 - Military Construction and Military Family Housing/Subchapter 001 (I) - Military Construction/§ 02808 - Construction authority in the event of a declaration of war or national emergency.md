@@ -1,6 +1,6 @@
 ### §2808. Construction authority in the event of a declaration of war or national emergency
 
-(a) In the event of a declaration of war or the declaration by the President of a national emergency in accordance with the National Emergencies Act (50 U.S.C. 1601 et seq.) that requires use of the armed forces, the Secretary of Defense, without regard to any other provision of law, may undertake military construction projects, and may authorize the Secretaries of the military departments to undertake military construction projects, not otherwise authorized by law that are necessary to support such use ofthe armed forces. Such projects may be undertaken only within the total amount of funds that have been appropriated for military construction, including funds appropriated for family housing, that have not been obligated.
+(a) In the event of a declaration of war or the declaration by the President of a national emergency in accordance with the National Emergencies Act (50 U.S.C. 1601 et seq.) that requires use of the armed forces, the Secretary of Defense, without regard to any other provision of law, may undertake military construction projects, and may authorize the Secretaries of the military departments to undertake military construction projects, not otherwise authorized by law that are necessary to support such use of the armed forces. Such projects may be undertaken only within the total amount of funds that have been appropriated for military construction, including funds appropriated for family housing, that have not been obligated.
 
 (b) When a decision is made to undertake military construction projects authorized by this section, the Secretary of Defense shall notify the appropriate committees of Congress of the decision and of the estimated cost of the construction projects, including the cost of any real estate action pertaining to those construction projects.
 
@@ -22,7 +22,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Executive Order No. 12734
 
-Ex. Ord. No. 12734, Nov. 14, 1990, 55 F.R. 48099, which related to national emergency construction authority, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, set out as a note under section 1701 of Title 50, War and National Defense.
+Ex. Ord. No. 12734, Nov. 14, 1990, 55 F.R. 48099, which related to national emergency construction authority, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, listed in a table under section 1701 of Title 50, War and National Defense.
 
 #### Ex. Ord. No. 13235. National Emergency Construction Authority
 

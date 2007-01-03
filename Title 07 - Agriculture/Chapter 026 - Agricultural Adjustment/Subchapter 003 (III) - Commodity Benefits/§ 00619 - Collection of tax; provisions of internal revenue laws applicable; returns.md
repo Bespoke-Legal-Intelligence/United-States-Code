@@ -8,7 +8,7 @@
 
 (d) Under regulations made by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, any person required pursuant to the provisions of this chapter to file a return may be required to file such return and pay the tax shown to be due thereon to the collector of internal revenue for the district in which the processing was done or the liability was incurred. Whenever the Commissioner of Internal Revenue deems it necessary, he may require any person or class of persons handling or dealing in any commodity or product thereof, with respect to which a tax is imposed under the provisions of this chapter, to make a return, render under oath such statements, or to keep such records, as the Commissioner deems sufficient to show whether or not such person, or any other person, is liable for the tax.
 
-(May 12, 1933, ch. 25, title I, §19, 48 Stat. 41; June 26, 1934, ch. 759, §3, 48 Stat. 1242; Aug. 24, 1935, ch.641, §29, 49 Stat. 770; June 30, 1947, ch. 166, title II, §206(d), 61 Stat. 208.)
+(May 12, 1933, ch. 25, title I, §19, 48 Stat. 41; June 26, 1934, ch. 759, §3, 48 Stat. 1242; Aug. 24, 1935, ch. 641, §29, 49 Stat. 770; June 30, 1947, ch. 166, title II, §206(d), 61 Stat. 208.)
 
 #### References in Text
 

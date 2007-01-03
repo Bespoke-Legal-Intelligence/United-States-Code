@@ -1,0 +1,56 @@
+### §53909. War risk insurance revolving fund
+
+(a)
+
+In General.—There is a war risk insurance revolving fund in the Treasury.
+
+(b)
+
+Deposits.—There shall be deposited in the fund amounts appropriated to carry out this chapter and amounts received in carrying out this chapter.
+
+(c)
+
+Payments.—There shall be paid from the fund amounts for return premiums, losses, settlements, judgments, and all liabilities incurred by the United States Government under this chapter.
+
+(d)
+
+Investment.—The Secretary of Transportation may request the Secretary of the Treasury to invest such portion of the fund as is not, in the judgment of the Secretary of Transportation, required to meet the current needs of the fund. These investments shall be made by the Secretary of the Treasury in public debt securities of the Government, with maturities suitable to the needs of the fund, and bearing interest rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the Government of comparable maturity. Interest and benefits from the securities shall be deposited in the fund.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1630; Pub. L. 109–364, div. C, title XXXV, §3510(a)(1), Oct. 17, 2006, 120 Stat. 2520.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+53909
+
+46 App.:1288.
+
+June 29, 1936, ch. 858, title XII, §1208, as added Sept. 7, 1950, ch. 906, 64 Stat. 775; Pub. L. 87–743, Oct. 3, 1962, 76 Stat. 740; Pub. L. 97–31, §12(139), Aug. 6, 1981, 95 Stat. 166; Pub. L. 108–375, div. C, title XXXV, §3502(b), Oct. 28, 2004, 118 Stat. 2195.
+
+&nbsp;
+
+46 App.:1288a.
+
+Nov. 1, 1951, ch. 664, par. under heading “War–Risk Insurance Revolving Fund”, 65 Stat. 746; Pub. L. 97–31, §12(140), Aug. 6, 1981, 95 Stat. 166.
+
+In subsection (c), the reference to the Fiscal Service \[previously Division of Disbursement\] in the Treasury Department is omitted as unnecessary.
+
+In subsection (d), the amendment by section 3502(b) of Public Law 108–375, which struck the third sentence in 46 App. U.S.C. 1288 and inserted new material, was executed as if it were intended to strike the fourth sentence instead, to reflect probably \[sic\] intent.
+
+The text of 46 App. U.S.C. 1288(b) is omitted as unnecessary because enactment of a law authorizing certain governmental functions is itself an authorization of appropriations to carry out those functions. The text of 46 App. U.S.C. 1288a is omitted as executed and impliedly repealed by 46 App. U.S.C. 1119.
+
+#### Amendments
+
+2006—Pub. L. 109–364, which directed amendment of section 1288(a) of the former Appendix to this title, from which this section was derived, was already reflected in text of this section as enacted by Pub. L. 109–304. See Historical and Revision Notes relating to subsection (d) above.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. C, title XXXV, §3510(a)(2), Oct. 17, 2006, 120 Stat. 2520, provided that: “The amendments made by paragraph (1) \[amending section 1288(a) of the former Appendix to this title, from which this section was derived\] shall be effective as if enacted by section 3502 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (118 Stat. 2195) \[Pub. L. 108–375\].”
+

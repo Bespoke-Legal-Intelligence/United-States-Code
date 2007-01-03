@@ -6,7 +6,7 @@ Nothing in sections 620 to 620j of this title shall be construed to—
 
 &emsp;(2) warrant the exercise of the authority contained in,
 
-> section 7 of the Export Administration Act of 1979 \[50 App. U.S.C. 2406\] with respect to the export of unprocessed timber.
+> section 7 of the Export Administration Act of 1979 \[50 U.S.C. App. 2406\] with respect to the export of unprocessed timber.
 
 (Pub. L. 101–382, title IV, §499, Aug. 20, 1990, 104 Stat. 726.)
 

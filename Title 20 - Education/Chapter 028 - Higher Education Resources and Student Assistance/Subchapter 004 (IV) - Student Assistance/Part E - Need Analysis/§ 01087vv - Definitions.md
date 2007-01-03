@@ -4,9 +4,9 @@ As used in this part:
 
 #### (a) Total income
 
-(1) Except as provided in paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
+(1) Except as provided in paragraph (2), the term “total income” is equal to adjusted grossincome plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
 
-(2) No portion of any student financial assistance received from any program by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\], and no portion of any tax credit takenunder section 25A of title 26, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
+(2) No portion of any student financial assistance received from any program by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\], and no portion of any tax credit taken under section 25A of title 26, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
 
 #### (b) Untaxed income and benefits
 
@@ -78,7 +78,7 @@ The term “independent”, when used with respect to a student, means any indiv
 
 &emsp;(2) is an orphan or ward of the court or was a ward of the court until the individual reached the age of 18;
 
-&emsp;(3) is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1) of this section);
+&emsp;(3) is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1) of this section) or is currently serving on active duty in the Armed Forces for other than training purposes;
 
 &emsp;(4) is a graduate or professional student;
 
@@ -102,13 +102,33 @@ The term “excludable income” means—
 
 #### (f) Assets
 
-(1) The term “assets” means cash on hand, including the amount in checking and savings accounts, time deposits, money market funds, trusts, stocks, bonds, other securities, mutual funds, tax shelters, and the net value of real estate, income producing property, and business and farm assets.
+(1) The term “assets” means cash on hand, including the amount in checking and savings accounts, time deposits, money market funds, trusts, stocks, bonds, other securities, mutual funds, tax shelters, qualified education benefits (except as provided in paragraph (3)), and the net value of real estate, income producing property, and business and farm assets.
 
 (2) With respect to determinations of need under this subchapter and part C of subchapter I of chapter 34 of title 42, other than for subpart 4 of part A of this subchapter, the term “assets” shall not include the net value of—
 
-&emsp;(A) the family's principal place of residence; or
+&emsp;(A) the family's principal place of residence;
 
-&emsp;(B) a family farm on which the family resides.
+&emsp;(B) a family farm on which the family resides; or
+
+&emsp;(C) a small business with not more than 100 full-time or full-time equivalent employees (or any part of such a small business) that is owned and controlled by the family.
+
+(3) A qualified education benefit shall not be considered an asset of a student for purposes of section 1087<i>oo</i> of this title.
+
+(4) In determining the value of assets in a determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42 (other than for subpart 4 of part A of this subchapter), the value of a qualified education benefit shall be—
+
+&emsp;(A) the refund value of any tuition credits or certificates purchased under a qualified education benefit; and
+
+&emsp;(B) in the case of a program in which contributions are made to an account that is established for the purpose of meeting the qualified higher education expenses of the designated beneficiary of the account, the current balance of such account.
+
+(5) In this subsection:
+
+&emsp;(A) The term “qualified education benefit” means—
+
+&emsp;&emsp;(i) a qualified tuition program (as defined in section 529(b)(1)(A) of title 26) or other prepaid tuition plan offered by a State; and
+
+&emsp;&emsp;(ii) a Coverdell education savings account (as defined in section 530(b)(1) of title 26).
+
+&emsp;(B) The term “qualified higher education expenses” has the meaning given the term in section 529(e) of title 26.
 
 #### (g) Net assets
 
@@ -116,7 +136,7 @@ The term “net assets” means the current market value at the time of applicat
 
 #### (h) Treatment of income taxes paid to other jurisdictions
 
-(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, orthe Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
+(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
 
 (2) References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax described in paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.
 
@@ -124,15 +144,13 @@ The term “net assets” means the current market value at the time of applicat
 
 The term “current balance of checking and savings accounts” does not include any funds over which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency due to the insolvency of a private deposit insurance fund.
 
-#### (j) Other financial assistance; tuition prepayment plans
+#### (j) Other financial assistance
 
 (1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including veterans’ education benefits as defined in subsection (c) of this section, and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\].
 
-(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087<i>ll</i> of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
+(2) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26 shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
 
-(B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance.
-
-(3) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26 shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
+(3) Notwithstanding paragraph (1) and section 1087<i>ll</i> of this title, assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 may be excluded from both estimated financial assistance and cost of attendance, if that assistance is provided by a State and is designated by such State to offset a specific component of the cost of attendance. If that assistance is excluded from either estimated financial assistance or cost of attendance, it shall be excluded from both.
 
 #### (k) Dependents
 
@@ -160,11 +178,11 @@ The term “current balance of checking and savings accounts” does not include
 
 The term “business assets” means property that is used in the operation of a trade or business, including real estate, inventories, buildings, machinery, and other equipment, patents, franchise rights, and copyrights.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176.)
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(2), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended sections 1070a–6 and 1087vv of this title. For complete classification of this Act to theCode, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(2), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended sections 1070a–6 and 1087vv of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -187,6 +205,22 @@ Public Law 96–342, section 903, referred to in subsec. (c)(2)(J), is set out a
 Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2006—Subsec. (d)(3). Pub. L. 109–171, §8019(a), inserted “or is currently serving on active duty in the Armed Forces for other than training purposes” before semicolon at end.
+
+Subsec. (f)(1). Pub. L. 109–171, §8019(b), inserted “qualified education benefits (except as provided in paragraph (3)),” after “tax shelters,”.
+
+Subsec. (f)(2)(C). Pub. L. 109–171, §8019(c), added subpar. (C).
+
+Subsec. (f)(3) to (5). Pub. L. 109–171, §8019(d), added pars. (3) to (5).
+
+Subsec. (j). Pub. L. 109–171, §8019(e)(1), struck out “; tuition prepayment plans” at end of heading.
+
+Subsec. (j)(2), (3). Pub. L. 109–171, §8019(e)(2)–(4), struck out par. (2), redesignated par. (3) as (2), and added par. (3). Prior to amendment, par. (2) read as follows:
+
+“(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087<i>ll</i> of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
+
+“(B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance.”
 
 1998—Subsec. (b)(14). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(B)\], struck out “Job Training Partnership Act noneducational benefits or” after “railroad retirement benefits, or”.
 
@@ -233,6 +267,10 @@ Subsecs. (b), (c). Pub. L. 100–50, §14(28)(E), substituted subsec. (b) consis
 Subsec. (d)(2)(F). Pub. L. 100–50, §14(28)(F), substituted “annual total resources (including all sources of resources other than parents)” for “an annual total income”.
 
 Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendments
 

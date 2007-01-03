@@ -24,7 +24,7 @@
 
 (2)(A) A person who is not named as a respondent in a complaint, but who is identified as a respondent in the course of investigation, may be joined as an additional or substitute respondent upon written notice, under paragraph (1), to such person, from the Secretary.
 
-(B) Such notice, in addition to meeting the requirements of paragraph (1), shall explain thebasis for the Secretary's belief that the person to whom the notice is addressed is properly joined as a respondent.
+(B) Such notice, in addition to meeting the requirements of paragraph (1), shall explain the basis for the Secretary's belief that the person to whom the notice is addressed is properly joined as a respondent.
 
 #### (b) Investigative report and conciliation
 
@@ -98,7 +98,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (B) Before making such certification, the Secretary shall take into account the current practices and past performance, if any, of such agency.
 
-(4) During the period which begins on September 13, 1988, and ends 40 months after September 13, 1988, each agency certified (including an agency certified for interim referrals pursuant to 24 CFR 115.11, unless such agency is subsequently denied recognition under 24 CFR 115.7)for the purposes of this subchapter on the day before September 13, 1988, shall for the purposes of this subsection be considered certified under this subsection with respect to those matters for which such agency was certified on September 13, 1988. If the Secretary determines in an individual case that an agency has not been able to meet the certification requirements within this 40-month period due to exceptional circumstances, such as the infrequency of legislative sessions in that jurisdiction, the Secretary may extend such period by not more than 8 months.
+(4) During the period which begins on September 13, 1988, and ends 40 months after September 13, 1988, each agency certified (including an agency certified for interim referrals pursuant to 24 CFR 115.11, unless such agency is subsequently denied recognition under 24 CFR 115.7) for the purposes of this subchapter on the day before September 13, 1988, shall for the purposes of this subsection be considered certified under this subsection with respect to those matters for which such agency was certified on September 13, 1988. If the Secretary determines in an individual case that an agency has not been able to meet the certification requirements within this 40-month period due to exceptional circumstances, such as the infrequency of legislative sessions in that jurisdiction, the Secretary may extend such period by not more than 8 months.
 
 (5) Not less frequently than every 5 years, the Secretary shall determine whether each agency certified under this subsection continues to qualify for certification. The Secretary shall take appropriate action with respect to any agency not so qualifying.
 
@@ -110,7 +110,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (B) Such charge—
 
-&emsp;(i) shall consist of a short and plain statement of the facts upon which the Secretary has found reasonable cause to believe that a discriminatory housing practice has occurred or is about to occur;
+&emsp;(i) shall consist of a short and plain statement of the facts upon which the Secretary has found reasonable cause to believe that adiscriminatory housing practice has occurred or is about to occur;
 
 &emsp;(ii) shall be based on the final investigative report; and
 

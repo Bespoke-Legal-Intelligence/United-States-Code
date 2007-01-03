@@ -34,17 +34,17 @@ Subject to the provisions of this chapter, the Administrator shall issue to appl
 
 (3) Each permittee shall use at least one vessel documented under the laws of the United States for the transportation from each mining site of hard mineral resources recovered under the permit issued to the permittee.
 
-(4) For purposes of the shipping laws of the United States, any vessel documented under the laws of the United States and used in the commercial recovery, processing, or transportation from any mining site of hard mineral resources recovered under a permit issued under this subchapter shall be deemed to be used in, and used in an essential service in, the foreign commerce or foreign trade of the United States, as defined in section 1244(a) of title 46, Appendix, and shall be deemed to be a vessel as defined in section 1271(b) of title 46, Appendix.
+(4) For purposes of the shipping laws of the United States, any vessel documented under the laws of the United States and used in the commercial recovery, processing, or transportation from any mining site of hard mineral resources recovered under a permit issued under this subchapter shall be deemed to be used in, and used in an essential service in, the foreign commerce or foreign trade of the United States, as defined in section 109 of title 46, and shall be deemed to be a vessel as defined in section 53701(13) of title 46.
 
 (5) Except as otherwise provided in this paragraph, the processing on land of hard mineral resources recovered pursuant to a permit shall be conducted within the United States: <i>Provided</i>, That the President does not determine that such restrictions contravene the overriding national interests of the United States. The Administrator may allow the processing of hard mineral resources at a place other than within the United States if he finds, after opportunity for an agency hearing, that—
 
-&emsp;(A) the processing of the quantity concerned of such resource at a place other than withinthe United States is necessary for the economic viability of the commercial recovery activities of a permittee; and
+&emsp;(A) the processing of the quantity concerned of such resource at a place other than within the United States is necessary for the economic viability of the commercial recovery activities of a permittee; and
 
 &emsp;(B) satisfactory assurances have been given by the permittee that such resource, after processing, to the extent of the permittee's ownership therein, will be returned to the United States for domestic use, if the Administrator so requires after determining that the national interest necessitates such return.
 
 (Pub. L. 96–283, title I, §102, June 28, 1980, 94 Stat. 558.)
 
-#### References in Text
+#### Codification
 
-The shipping laws of the United States, referred to in subsec. (c)(4), are classified generally to Title 46, Shipping, and Title 46, Appendix.
+In subsec. (c)(4), “section 109 of title 46” substituted for “section 905(a) of the Merchant Marine Act, 1936” and “section 53701(13) of title 46” substituted for “section 1101(b) of that Act” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 109 and 53701 of Title 46, Shipping.
 

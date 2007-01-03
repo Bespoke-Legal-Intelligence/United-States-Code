@@ -138,7 +138,7 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
-(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub.L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591.)
+(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591.)
 
 #### References in Text
 
@@ -216,7 +216,7 @@ Subsec. (c)(2) to (4). Pub. L. 100–418, §1601(a)(2), (3), added par. (2) and 
 
 Subsecs. (d) to (g). Pub. L. 100–418, §1601(b)(1), (2), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-1987—Subsec. (f)(1). Pub. L. 100–203 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to the Office for the purpose of carrying out its functions $13,582,000for fiscal year 1986; of which not to exceed $80,000 may be used for entertainment and representation expenses.”
+1987—Subsec. (f)(1). Pub. L. 100–203 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to the Office for the purpose of carrying out its functions $13,582,000 for fiscal year 1986; of which not to exceed $80,000 may be used for entertainment and representation expenses.”
 
 1986—Subsec. (d)(1). Pub. L. 99–272, §13023(1), inserted provision that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule.
 
@@ -284,7 +284,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Senior Commercial Officers To Hold Title of Minister-Counselor; Maximum Number Designated
 
-Provisions requiring the Secretary of State, upon the request of the Secretary of Commerce, to accord the diplomatic title of Minister-Counselor to the seniorCommercial Officer assigned to any United States mission abroad with a limit on the number of Commercial Service officers accorded such diplomatic title at any time were contained in the following appropriation acts:
+Provisions requiring the Secretary of State, upon the request of the Secretary of Commerce, to accord the diplomatic title of Minister-Counselor to the senior Commercial Officer assigned to any United States mission abroad with a limit on the number of Commercial Service officers accorded such diplomatic title at any time were contained in the following appropriation acts:
 
 Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1852.
 
@@ -344,7 +344,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (2) The position of Under Secretary of Commerce established under section 1 of the Act of June 5, 1939 (ch. 180, 53 Stat. 808; 15 U.S.C. 1502) is abolished.
 
-(c) There shall be in the Department an Under Secretary for International Trade appointed by the President, by and with the advice and consent of the Senate. The Under Secretary for International Trade shall receive compensation at the rate payable for Level III of the Executive Schedule \[5 U.S.C. 5314\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
+(c) There shall be in the Department an Under Secretary for International Trade appointed by the President, by and with the advice and consent of the Senate. The Under Secretary for International Trade shall receive compensation at the rate payable for Level III ofthe Executive Schedule \[5 U.S.C. 5314\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
 (d) There shall be in the Department two additional Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. Each such Assistant Secretary shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
@@ -424,7 +424,7 @@ The provisions of this reorganization plan shall take effect October 1, 1980, or
 
 I transmit herewith Reorganization Plan No. 3 of 1979, to consolidate trade functions of the United States Government. I am acting under the authority vested in me by the Reorganization Act of 1977, chapter 9 of title 5 of the United States Code, and pursuant to section 1109 of the Trade Agreements Act of 1979 \[19 U.S.C. 2111 note\] which directs that I transmit to the Congress a proposal to restructure the international trade functions of the Executive branch.
 
-The goal of this reorganization is to improve the capacity of the Government to strengthen the export performance of United States industry and to assure fairinternational trade practices, taking into account the interests of all elements of our economy.
+The goal of this reorganization is to improve the capacity of the Government to strengthen the export performance of United States industry and to assure fair international trade practices, taking into account the interests of all elements of our economy.
 
 Recent developments, which have raised concern about the vitality of our international trade performance, have focused much attention on the way our trade machinery is organized. These developments include our negative trade balance, increasing dependence upon foreign oil, and international pressures on the dollar. New challenges, such as implementation of the Multilateral Trade Negotiation (MTN) agreements and trade with non-market economies, will further test our Government trade organization.
 
@@ -456,11 +456,11 @@ The Trade Representative, with the advice of the Trade Policy Committee, will be
 
 The Trade Representative will have the lead role in bilateral and multilateral trade, commodity, and direct investment negotiations. The Trade Representative will represent the United States in General Agreement on Tariffs and Trade (GATT) matters. Since the GATT will be the principal international forum for implementing and interpreting the MTN agreements and since GATT meetings, including committee and working group meetings, occur almost continuously, the Trade Representative will have a limited number of permanent staff in Geneva. In some cases, it may be necessary to assign a small number of USTR staff abroad to assist in oversight of MTN enforcement. In this event, appropriate positions will be authorized. In recognition of the responsibility of the Secretary of State regarding our foreign policy, the activities of overseas personnel of the Trade Representative and the Commerce Department will be fully coordinated with other elements of our diplomatic missions.
 
-In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered in the Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities, and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
+In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered in the Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities,and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
 
 To ensure that all trade negotiations are handled consistently and that our negotiating leverage is employed to the maximum, the Trade Representative will manage the negotiation of particular issues. Where appropriate, the Trade Representative may delegate responsibility for negotiations to other agencies with expertise on the issues under consideration. He will coordinate the operational aspects of negotiations through a Trade Negotiating Committee, chaired by the Trade Representative and including the Departments of Commerce, State, Treasury, Agriculture and Labor.
 
-The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific, immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policiesand the Boards of the Export-Import Bank and the Overseas Private Investment Corporation.
+The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific, immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policies and the Boards of the Export-Import Bank and the Overseas Private Investment Corporation.
 
 In performing these functions, the Trade Representative will act as the principal trade spokesman of the President. To assure that our trade policies take into account the broadest range of perspectives, the Trade Representative will consult with the Trade Policy Committee, whose mandate and membership will be expanded. The Trade Representative will, as appropriate, invite agencies such as the Export-Import Bank and the Overseas Private Investment Corporation to participate in TPC meetings in addition to the permanent TPC members. When different departmental views on trade matters exist within the TPC as will be the case from time to time in this complex policy area, I will expect the Trade Representative to resolve policy disagreements in his best judgment, subject to appeal to the President.
 
@@ -502,7 +502,7 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 
 These responsibilities will be handled by a unit built around the staff from Commerce that provided essential analytical support to STR throughout the MTN negotiation process. Building implementation of MTN around this core group will assure that the government's institutional memory and expertise on MTN is most effectively devoted to the challenge ahead. When American business needs information or encounters problems in the MTN area, it can turn to the Department of Commerce for knowledgeable assistance.
 
-Matching the increased importance of trade in the Department's mission will be a much strengthened trade organization within the Department. By creating a number of new senior level positions in the Department, we will ensure that trade policy implementation receives the kind of day-to-day top management attention that it both demands and requires.
+Matching the increased importance of trade in the Department's mission will be a much strengthened trade organization within the Department. By creating a number of new senior level positions in the Department, we will ensure that trade policy implementationreceives the kind of day-to-day top management attention that it both demands and requires.
 
 With its new responsibilities and resources, the Department of Commerce will become a key participant in the formulation of our trade policies. Much of the analysis in support of trade policy formulation will be conducted by the Department of Commerce, which will be close to the operational aspects of the problems that raise policy issues.
 
@@ -644,7 +644,7 @@ Sec. 1–105. <i>Prior Executive Orders and Determination.</i>
 
 (d) The first sentence of section 3 of Executive Order 11703 of February 7, 1973 \[19 U.S.C. 1862 note\], is amended to read as follows: “The Oil Policy Committee shall henceforth consist of the United States Trade Representative, chair, and the Secretaries of State, Treasury, Defense, the Interior, Commerce and Energy, the Attorney General, and the Chairman of the Council of Economic Advisers, as members.”.
 
-(e) Sections 2(b) and 3(a), the first sentence of section 3(c), and sections 3(e), 3(f), and 6 of Executive Order 11846 of March 27, 1975, as amended \[19 U.S.C. 2111 note\], are revoked.
+(e) Sections 2(b) and 3(a), the first sentence of section 3(c), and sections 3(e), 3(f), and 6 of Executive Order11846 of March 27, 1975, as amended \[19 U.S.C. 2111 note\], are revoked.
 
 (f)(1) Section 1(a)(5) of Executive Order 11858 of May 7, 1975 \[22 U.S.C. 2841 note\], is amended to read: “(5) The United States Trade Representative”.
 
@@ -658,7 +658,7 @@ Sec. 1–105. <i>Prior Executive Orders and Determination.</i>
 
 Sec. 1–106. <i>Incidental Transfers and Reassignments.</i>
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations, andother funds employed, used, held, available, or to be made available in connection with functions transferred or reassigned by the provisions of this order as the Director of the Office of Management and Budget shall determine shall be transferred or reassigned for use in connection with such functions.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with functions transferred or reassigned by the provisions of this order as the Director of the Office of Management and Budget shall determine shall be transferred or reassigned for use in connection with such functions.
 
 Sec. 1–107. <i>Effective Dates.</i>
 

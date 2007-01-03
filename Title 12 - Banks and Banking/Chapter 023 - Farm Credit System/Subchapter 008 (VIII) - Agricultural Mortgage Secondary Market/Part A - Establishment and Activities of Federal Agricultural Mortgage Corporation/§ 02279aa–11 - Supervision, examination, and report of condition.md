@@ -40,7 +40,7 @@
 
 #### (2) Frequency
 
-&emsp;The examinations shall occur at such times as the Farm Credit Administration Board may determine, but in no event less than once each year.
+&emsp;The examinations shall occur at such times as the Farm Credit Administration Board maydetermine, but in no event less than once each year.
 
 #### (3) Access
 

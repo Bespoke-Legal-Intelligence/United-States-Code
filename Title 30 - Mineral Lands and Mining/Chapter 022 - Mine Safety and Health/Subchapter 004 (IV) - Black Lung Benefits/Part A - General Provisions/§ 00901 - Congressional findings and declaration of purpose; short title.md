@@ -4,7 +4,7 @@
 
 (b) This subchapter may be cited as the “Black Lung Benefits Act”.
 
-(Pub. L. 91–173, title IV, §401, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§3(a), 4(b)(2), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, §16, Mar. 1,1978, 92 Stat. 105; Pub. L. 97–119, title II, §203(a)(4), Dec. 29, 1981, 95 Stat. 1644.)
+(Pub. L. 91–173, title IV, §401, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§3(a), 4(b)(2), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, §16, Mar. 1, 1978, 92 Stat. 105; Pub. L. 97–119, title II, §203(a)(4), Dec. 29, 1981, 95 Stat. 1644.)
 
 #### Amendments
 

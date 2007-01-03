@@ -20,15 +20,15 @@ Upon an application made pursuant to section 1804 of this title, the judge shall
 
 #### (b) Determination of probable cause
 
-In determining whether or not probable cause exists for purposes of an order under subsection (a)(3) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+In determining whether or not probable cause exists for purposes of an order under subsection\(a)(3) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 
 #### (c) Specifications and directions of orders
 
-An order approving an electronic surveillance under this section shall—
+(1)
 
-&emsp;(1) specify—
+Specifications.—An order approving an electronic surveillance under this section shall specify—
 
-&emsp;&emsp;(A) the identity, if known, or a description of the target of the electronic surveillance;
+&emsp;&emsp;(A) the identity, if known, or a description of the specific target of the electronic surveillance identified or described in the application pursuant to section 1804(a)(3) of this title;
 
 &emsp;&emsp;(B) the nature and location of each of the facilities or places at which the electronic surveillance will be directed, if known;
 
@@ -38,17 +38,31 @@ An order approving an electronic surveillance under this section shall—
 
 &emsp;&emsp;(E) the period of time during which the electronic surveillance is approved; and
 
-&emsp;&emsp;(F) whenever more than one electronic, mechanical, or other surveillance device is to be used under the order, the authorized coverage of the devices involved and what minimization procedures shall apply to information subject to acquisition by each device; and
+&emsp;&emsp;(F) whenever more than one electronic, mechanical, or other surveillance device is to be used under the order, the authorized coverage of the devices involved and what minimization procedures shall apply to information subject to acquisition by each device.
 
-&emsp;(2) direct—
+&emsp;(2)
+
+Directions.—An order approving an electronic surveillance under this section shall direct—
 
 &emsp;&emsp;(A) that the minimization procedures be followed;
 
-&emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
+&emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
 
 &emsp;&emsp;(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
 
 &emsp;&emsp;(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
+
+&emsp;(3)
+
+Special directions for certain orders.—An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
+
+&emsp;&emsp;(A) the nature and location of each new facility or place at which the electronic surveillance is directed;
+
+&emsp;&emsp;(B) the facts and circumstances relied upon by the applicant to justify the applicant's belief that each new facility or place at which the electronic surveillance is directed is or was being used, or is about to be used, by the target of the surveillance;
+
+&emsp;&emsp;(C) a statement of any proposed minimization procedures that differ from those contained in the original application or order, that may be necessitated by a change in the facility or place at which the electronic surveillance is directed; and
+
+&emsp;&emsp;(D) the total number of electronic surveillances that have been or are being conducted under the authority of the order.
 
 #### (d) Exclusion of certain information respecting foreign power targets
 
@@ -56,9 +70,9 @@ Whenever the target of the electronic surveillance is a foreign power, as define
 
 #### (e) Duration of order; extensions; review of circumstances under which information was acquired, retained or disseminated
 
-(1) An order issued under this section may approve an electronic surveillance for the period necessary to achieve its purpose, or for ninety days, whichever is less, except that (A) an order under this section shall approve an electronic surveillance targeted against a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, for the period specified in the application or for one year, whichever is less, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power, as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less.
+(1) An order issued under this section may approve an electronic surveillance for the period necessary to achieve its purpose, or for ninety days, whichever is less, except that (A) an order under this section shall approve an electronic surveillance targeted against a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, for the period specified in the application or for one year, whichever is less, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for the period specified in the application or for 120 days, whichever is less.
 
-(2) Extensions of an order issued under this subchapter may be granted on the same basis asan original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for a period not to exceed 1 year.
+(2) Extensions of an order issued under this subchapter may be granted on the same basis as an original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable causeto believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for a period not to exceed 1 year.
 
 (3) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
@@ -106,27 +120,61 @@ Notwithstanding any other provision of this subchapter, officers, employees, or 
 
 &emsp;&emsp;(B) such electronic surveillance is limited in extent and duration to that necessary to train the personnel in the use of the equipment; and
 
-&emsp;&emsp;(C) no contents of any communication acquired are retained or disseminated for anypurpose, but are destroyed as soon as reasonably possible.
+&emsp;&emsp;(C) no contents of any communication acquired are retained or disseminated for any purpose, but are destroyed as soon as reasonably possible.
 
 #### (h) Retention of certifications, applications and orders
 
-Certifications made by the Attorney General pursuant to section 1802(a) of this title and applications made and orders granted under this subchapter shall be retained for a period of at least ten years from the date of the certification or application.
+Certifications made by the Attorney General pursuant to section 1802(a) of this title and applications made and orders granted under this subchapter shall be retained for a period of atleast ten years from the date of the certification or application.
 
 #### (i) Bar to legal action
 
 No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
 
-(Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
+(Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, 120 Stat. 195, 203.)
 
-#### Amendment of Section
+#### Amendment of Subsection (c)(2)
 
-<i>For termination of amendment by Pub. L. 107–56, see Effective and Termination Dates of 2001 Amendments note below.</i>
+<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, provided that, effective Dec. 31, 2009, with certain exceptions, subsec. (c)(2) of this section is amended to read as it read on Oct. 25, 2001:</i>
+
+&emsp;<i>(2) direct—</i>
+
+&emsp;&emsp;<i>(A) that the minimization procedures be followed;</i>
+
+&emsp;&emsp;<i>(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;</i>
+
+&emsp;&emsp;<i>(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and</i>
+
+&emsp;&emsp;<i>(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.</i>
+
+#### References in Text
+
+This chapter, referred to in subsecs. (e) and (i), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Codification
 
-As originally enacted, Pub. L. 107–56, §225, temporarily amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both Pub. L. 107–108, §314(a)(2)(C), and Pub. L. 107–273, §4005(c), made amendments retroactive to the date of enactment of Pub. L. 107–56 which had the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective and Termination Dates of 2001 Amendments notes below.
+As originally enacted, Pub. L. 107–56, §225, amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both Pub. L. 107–108, §314(a)(2)(C), and Pub. L. 107–273, §4005(c), made amendments retroactive to the date of enactment of Pub. L. 107–56 which had the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective Date of 2001 Amendment note below.
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–177, §108(b)(1), substituted “(1)
+
+Specifications.—An order approving an electronic surveillance under this section shall specify—” for “An order approving an electronic surveillance under this section shall—
+
+&emsp;“(1) specify—”.
+
+Subsec. (c)(1)(A). Pub. L. 109–177, §108(a)(2)(A), substituted “specific target of the electronic surveillance identified or described in the application pursuant to section 1804(a)(3) of this title” for “target of the electronic surveillance”.
+
+Subsec. (c)(1)(F). Pub. L. 109–177, §108(b)(2), substituted period for “; and” at end.
+
+Subsec. (c)(2). Pub. L. 109–177, §108(b)(3), inserted par. heading and substituted “An order approving an electronic surveillance under this section shall direct” for “direct” in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 109–177, §108(a)(2)(B), substituted “where the Court finds, based upon specific facts provided in the application,” for “where the Court finds”.
+
+Subsec. (c)(3). Pub. L. 109–177, §108(b)(4), added par. (3).
+
+Subsec. (e)(1)(B). Pub. L. 109–177, §105(a)(1), substituted “who is not a United States person” for “, as defined in section 1801(b)(1)(A) of this title”.
+
+Subsec. (e)(2)(B). Pub. L. 109–177, §105(a)(2), substituted “who is not a United States person” for “as defined in section 1801(b)(1)(A) of this title”.
 
 2004—Subsec. (c)(2)(C). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -134,11 +182,11 @@ As originally enacted, Pub. L. 107–56, §225, temporarily amended this section
 
 2001—Subsec. (c)(1)(B). Pub. L. 107–108, §314(a)(2)(A), inserted “, if known” before semicolon at end.
 
-Subsec. (c)(2)(B). Pub. L. 107–56, §§206, 224, temporarily inserted “, or in circumstances where the Court finds that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons,” after “specified person”. See Effective and Termination Dates of 2001 Amendments note below.
+Subsec. (c)(2)(B). Pub. L. 107–56, §206, inserted “, or in circumstances where the Court finds that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons,” after “specified person”.
 
-Subsec. (e)(1). Pub. L. 107–56, §§207(a)(1), 224, temporarily inserted “(A)” after “except that” and “, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power, as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less” before period at end. See Effective and Termination Dates of 2001 Amendments note below.
+Subsec. (e)(1). Pub. L. 107–56, §207(a)(1), inserted “(A)” after “except that” and “, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power, as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less” before period at end.
 
-Subsec. (e)(2). Pub. L. 107–56, §§207(b)(1), 224, as amended by Pub. L. 107–108, §314(c)(1), inserted “(A)” after “except that” and “, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for a period not to exceed 1 year” before period at end. See Effective and Termination Dates of 2001 Amendments note below.
+Subsec. (e)(2). Pub. L. 107–56, §207(b)(1), as amended by Pub. L. 107–108, §314(c)(1), inserted “(A)” after “except that” and “, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for a period not to exceed 1 year” before period at end.
 
 Subsec. (f). Pub. L. 107–108, §314(a)(2)(B), substituted “72 hours” for “twenty-four hours” in two places in concluding provisions.
 
@@ -148,7 +196,7 @@ Subsec. (i). Pub. L. 107–108, §314(a)(2)(D), inserted “for electronic surve
 
 Pub. L. 107–108, §314(a)(2)(C), transferred subsec. (h) added by section 225 of Pub. L. 107–56 to appear after the subsec. (h) redesignated by section 602(b)(2) of Pub. L. 106–567, and redesignated the transferred subsec. (h) as subsec. (i). See Codification note above.
 
-Pub. L. 107–56, §§224, 225, as amended by Pub. L. 107–273, §4005(c), temporarily added subsec. (i) relating to bar of legal action. See Effective and Termination Dates of 2001 Amendments note below.
+Pub. L. 107–56, §225, as amended by Pub. L. 107–273, §4005(c), added subsec. (i) relating to bar of legal action.
 
 2000—Subsecs. (b), (c). Pub. L. 106–567, §602(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
@@ -157,6 +205,18 @@ Subsec. (d). Pub. L. 106–567, §602(b)(1), (3), redesignated subsec. (c) as (d
 Subsecs. (e) to (h). Pub. L. 106–567, §602(b)(1), redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
 1984—Subsec. (f)(2)(C). Pub. L. 98–549 substituted “section 705” for “section 605” in the original to accommodate renumbering of sections in subchapter VI (section 601 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, by section 6(a) of Pub. L. 98–549. Because both sections translate as “section 605 of Title 47”, the amendment by Pub. L. 98–549 resulted in no change in text.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, provided that:
+
+“(1)
+
+In general.—Effective December 31, 2009, the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\] is amended so that sections 501, 502, and 105(c)(2) \[50 U.S.C. 1861, 1862, and 1805(c)(2)\] read as they read on October 25, 2001.
+
+“(2)
+
+Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect.”
 
 #### Effective Date of 2004 Amendment
 
@@ -168,11 +228,9 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812, provided that the amendment made by section 4005(c) is effective Oct. 26, 2001.
 
-#### Effective and Termination Dates of 2001 Amendments
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided in part that the amendment made by section 314(c)(1) of Pub. L. 107–108 is effective as of Oct. 26, 2001, and as if included in Pub. L. 107–56 as originally enacted.
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a Termination of 2001 Amendment note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1984 Amendment
 

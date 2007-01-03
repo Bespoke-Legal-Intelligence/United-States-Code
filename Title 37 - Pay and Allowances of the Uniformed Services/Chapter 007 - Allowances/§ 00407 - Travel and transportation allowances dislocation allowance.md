@@ -8,7 +8,7 @@ Eligibility for Primary Dislocation Allowance.—(1) Under regulations prescribe
 
 &emsp;(A) A member who makes a change of permanent station and the member's dependents actually make an authorized move in connection with the change, including a move by the dependents—
 
-&emsp;&emsp;(i) to join the member at the member's duty station after an unaccompanied tour ofduty when the member's next tour of duty is an accompanied tour at the same station; and
+&emsp;&emsp;(i) to join the member at the member's duty station after an unaccompanied tour of duty when the member's next tour of duty is an accompanied tour at the same station; and
 
 &emsp;&emsp;(ii) to a location designated by the member after an accompanied tour of duty when the member's next tour of duty is an unaccompanied tour at the same duty station.
 
@@ -40,7 +40,7 @@ Eligibility for Primary Dislocation Allowance.—(1) Under regulations prescribe
 
 (3) If a primary dislocation allowance is paid under this subsection to a member described in subparagraph (C) or (D)(ii) of paragraph (2), the member is not entitled to another dislocation allowance as a member described in subparagraph (A) or (E) of such paragraph in connection with the same move.
 
-(4) If a primary dislocation allowance is payable to two members described in paragraph (2)(G) who are married to each other, the amount of the allowance payable to such members shall be the amount otherwise payable under this subsection to the member in the higher pay grade, or to either member if both members are in the same pay grade. The allowance shall be paid jointly to both members.
+(4) If a primary dislocation allowance is payable to two members described in paragraph (2)(G) who are married to each other, theamount of the allowance payable to such members shall be the amount otherwise payable under this subsection to the member in the higher pay grade, or to either member if both members are in the same pay grade. The allowance shall be paid jointly to both members.
 
 (b)
 
@@ -116,7 +116,7 @@ Oct. 12, 1949, ch. 681, §303(c) (4th through 8th sentences); added Mar. 31, 195
 
 In subsection (a), the words “Except as provided in subsections (b) and (c) of this section” and “for one month” are inserted for clarity. The words “make an authorized move” are substituted for the words “are authorized to move and actually move”.
 
-In subsection (b), the words “is not entitled to . . . more than one” are substituted for the words “shall be entitled . . . for not more than one”. The words “the payment of” and “for not more than one permanent change of station” are omitted as surplusage. Clauses (1) and (2) are substituted for the last 29 words of the 5th and 6th sentences of section 253(c) of existing title 37.
+In subsection (b), the words “is not entitled to . . . more than one” are substituted for the words “shall be entitled . . . for not more than one”. The words “the payment of” and “for not more than one permanent change of station” are omitted as surplusage. Clauses (1) and (2) are substituted for the last 29 words of the5th and 6th sentences of section 253(c) of existing title 37.
 
 #### Amendments
 

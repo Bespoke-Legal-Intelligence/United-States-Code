@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment and Compensation.—The Administrator of General Services, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5, may appoint and fix the compensation of personnel necessary to carry out chapters 1, 3, and 5 of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Appointment and Compensation.—The Administrator of General Services, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5, may appoint and fix the compensation of personnel necessary to carry out chapters 1, 3, and 5 of this title and title III of the FederalProperty and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
 (b)
 
@@ -40,7 +40,7 @@ June 30, 1949, ch. 288, title II, §208, 63 Stat. 391; Sept. 5, 1950, ch. 849, �
 
 June 23, 1913, ch. 3, §1 (proviso on p. 17), 38 Stat. 17.
 
-In subsections (a) and (b), the words “and title III of the Federal Property and Administrative Services Actof 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. Reference to title V of this Act is omitted as obsolete because of the Act of October 22, 1968 (Public Law 90–620, 82 Stat. 1238), the first section of which enacted Title 44, United States Code. The responsibilities of the Administrator of General Services under title V were given to the Archivist of the United States, National Historical Publications and Records Commission, and Advisory Committee on the Records of Congress.
+In subsections (a) and (b), the words “and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. Reference to title V of this Act is omitted as obsolete because of the Act of October 22, 1968 (Public Law 90–620, 82 Stat. 1238), the first section of which enacted Title 44, United States Code. The responsibilities of the Administrator of General Services under title V were given to the Archivist of the United States, National Historical Publications and Records Commission, and Advisory Committee on the Records of Congress.
 
 In subsection (a), the words “subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5” are substituted for “subject to the civil-service and classification laws” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 

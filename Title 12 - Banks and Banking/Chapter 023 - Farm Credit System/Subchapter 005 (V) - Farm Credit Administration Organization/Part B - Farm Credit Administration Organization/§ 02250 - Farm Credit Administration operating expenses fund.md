@@ -16,7 +16,7 @@
 
 &emsp;On the basis of the determinations made under paragraph (1), the Farm Credit Administration shall—
 
-&emsp;&emsp;(A) apportion the amount of the assessment described in paragraph (1)(B) among the System institutions on a basis that isdetermined to be equitable by the Farm Credit Administration;
+&emsp;&emsp;(A) apportion the amount of the assessment described in paragraph (1)(B) among the System institutions on a basis that is determined to be equitable by the Farm Credit Administration;
 
 &emsp;&emsp;(B) assess and collect such apportioned amounts from time to time during the fiscal year as determined necessary by the Farm Credit Administration; and
 
@@ -26,7 +26,7 @@
 
 #### (1) Treasury fund
 
-&emsp;The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
+&emsp;The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall bemaintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
 
 #### (2) Nongovernment funds
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) the Attorney General fails within 45 days after receipt of such notification to commence, defend, or intervene in, such action;
 
-> the Commission may commence, defend, or intervene in, and supervise the litigation or, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose.
+> the Commission may commence, defend, or intervene in, and supervise the litigation of, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose.
 
 (2) Except as otherwise provided in paragraph (3), in any civil action—
 
@@ -16,9 +16,11 @@
 
 &emsp;(B) under section 57b of this title (relating to consumer redress);
 
-&emsp;(C) to obtain judicial review of a rule prescribed by the Commission, or a cease and desist order issued under section 45 of this title; or
+&emsp;(C) to obtain judicial review of a rule prescribed by the Commission, or a cease and desist order issued under section 45 of this title;
 
-&emsp;(D) under the second paragraph of section 49 of this title (relating to enforcement of a subpena) and under the fourth paragraph of such section (relating to compliance with section 46 of this title);
+&emsp;(D) under the second paragraph of section 49 of this title (relating to enforcement of a subpena) and under the fourth paragraph of such section (relating to compliance with section 46 of this title); or
+
+&emsp;(E) under section 57b–2a of this title;
 
 > the Commission shall have exclusive authority to commence or defend, and supervise the litigation of, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose, unless the Commission authorizes the Attorney General to do so. The Commission shall inform the Attorney General of the exercise of such authority and such exercise shall not preclude the Attorney General from intervening on behalf of the United States in such action and any appeal of such action as may be otherwise provided by law.
 
@@ -44,17 +46,47 @@
 
 Whenever the Commission has reason to believe that any person, partnership, or corporation is liable for a criminal penalty under this subchapter, the Commission shall certify the facts to the Attorney General, whose duty it shall be to cause appropriate criminal proceedings to be brought.
 
-(Sept. 26, 1914, ch. 311, §16, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Pub. L. 93–153, title IV, §408(g), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §204(a), Jan. 4, 1975, 88 Stat. 2199.)
+#### (c) Foreign litigation
+
+#### (1) Commission attorneys
+
+&emsp;With the concurrence of the Attorney General, the Commission may designate Commission attorneys to assist the Attorney General in connection with litigation in foreign courts on particular matters in which the Commission has an interest.
+
+#### (2) Reimbursement for foreign counsel
+
+&emsp;The Commission is authorized to expend appropriated funds, upon agreement with the Attorney General, to reimburse the AttorneyGeneral for the retention of foreign counsel for litigation in foreign courts and for expenses related to litigation in foreign courts in which the Commission has an interest.
+
+#### (3) Limitation on use of funds
+
+&emsp;Nothing in this subsection authorizes the payment of claims or judgments from any source other than the permanent and indefinite appropriation authorized by section 1304 of title 31.
+
+#### (4) Other authority
+
+&emsp;The authority provided by this subsection is in addition to any other authority of the Commission or the Attorney General.
+
+(Sept. 26, 1914, ch. 311, §16, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Pub. L. 93–153, title IV, §408(g), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §204(a), Jan. 4, 1975, 88 Stat. 2199; Pub. L. 109–455, §§5, 7(b), Dec. 22, 2006, 120 Stat. 3375, 3379.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
 #### Amendments
+
+2006—Subsec. (a)(2)(E). Pub. L. 109–455, §§7(b), 13, temporarily added subpar. (E). See Termination Date of 2006 Amendment note below.
+
+Subsec. (c). Pub. L. 109–455, §§5, 13, temporarily added subsec. (c). See Termination Date of 2006 Amendment note below.
 
 1975—Pub. L. 93–637 substituted provisions authorizing the Commission at its election to appear in court by its own name and designate its attorneys for such purpose, for provisions relating to the certification of facts by the Commission to the Attorney General who brought the appropriate proceedings, or, after compliance with section 45(m) of this title, itself brought the appropriate proceedings.
 
 1973—Pub. L. 93–153 inserted provisions authorizing the Federal Trade Commission to itself cause appropriate proceedings to be brought after compliance with the requirements of section 45(m) of this title.
 
+#### Termination Date of 2006 Amendment
+
+Amendment by Pub. L. 109–455 to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+
 #### Effective Date of 1975 Amendment
 
-Section 204(c) of Pub. L. 93–637 provided that: “The amendment and repeal made by this section \[amendingthis section and repealing section 45(m) of this title\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\].”
+Section 204(c) of Pub. L. 93–637 provided that: “The amendment and repeal made by this section \[amending this section and repealing section 45(m) of this title\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\].”
 
 #### Transfer of Functions
 

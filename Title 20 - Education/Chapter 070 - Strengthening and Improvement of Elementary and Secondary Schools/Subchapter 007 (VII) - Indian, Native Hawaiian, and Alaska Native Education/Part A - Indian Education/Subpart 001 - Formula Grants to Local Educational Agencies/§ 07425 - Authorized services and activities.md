@@ -22,7 +22,7 @@ The services and activities referred to in subsection (a) of this section may in
 
 &emsp;(4) integrated educational services in combination with other programs that meet the needs of Indian children and their families;
 
-&emsp;(5) career preparation activities to enable Indian students to participate in programs such as the programs supported by the Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\], including programs for tech-prep education, mentoring, and apprenticeship;
+&emsp;(5) career preparation activities to enable Indian students to participate in programs such as the programs supported by the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], including programs for tech-prep education, mentoring, and apprenticeship;
 
 &emsp;(6) activities to educate individuals concerning substance abuse and to prevent substance abuse;
 
@@ -48,13 +48,17 @@ Notwithstanding any other provision of law, a local educational agency may use f
 
 Not more than 5 percent of the funds provided to a grantee under this subpart for any fiscal year may be used for administrative purposes.
 
-(Pub. L. 89–10, title VII, §7115, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1912.)
+(Pub. L. 89–10, title VII, §7115, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1912; amended Pub. L. 109–270, §2(f)(4), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(5), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(5), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 7425, Pub. L. 89–10, title VII, §7115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3722, related to systemwide improvement grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6913 of this title.
+
+#### Amendments
+
+2006—Subsec. (b)(5). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 

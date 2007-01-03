@@ -8,7 +8,7 @@ At the end of the third and fifth fiscal years following November 7, 2000, the S
 
 A report under subsection (a) of this section shall include—
 
-&emsp;(1) data on the number of acres of estuary habitat restored under this chapter, including descriptions of, and partners involved with, projects selected, in progress, and completed under this chapter that comprise those acres;
+&emsp;(1) data on the number of acres of estuary habitat restored under this chapter, including descriptions of, and partners involved with,projects selected, in progress, and completed under this chapter that comprise those acres;
 
 &emsp;(2) information from the database established under section 2906(b) of this title related to ongoing monitoring of projects to ensure that short-term and long-term restoration goals are achieved;
 

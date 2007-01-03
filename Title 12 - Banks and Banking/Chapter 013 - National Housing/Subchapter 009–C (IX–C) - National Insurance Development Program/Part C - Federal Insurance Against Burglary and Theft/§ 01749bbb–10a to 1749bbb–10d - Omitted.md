@@ -4,7 +4,7 @@
 
 Sections 1749bbb–10a to 1749bbb–10d, comprising part C of this subchapter, terminated on Sept. 30, 1995, with certain exceptions, pursuant to former section 1749bbb(b) of this title.
 
-Section 1749bbb–10a, act June 27, 1934, ch. 847, title XII, §1231, as added Pub. L. 91–609, title VI, §602(d), Dec.31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230, related to review of market availability, Government crime insurance, and termination of insurance.
+Section 1749bbb–10a, act June 27, 1934, ch. 847, title XII, §1231, as added Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230, related to review of market availability, Government crime insurance, and termination of insurance.
 
 Section 1749bbb–10b, act June 27, 1934, ch. 847, title XII, §1232, as added Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title IV, §452(b)(1), (3), Nov. 30, 1983, 97 Stat. 1230, related to use of existing facilities and services.
 

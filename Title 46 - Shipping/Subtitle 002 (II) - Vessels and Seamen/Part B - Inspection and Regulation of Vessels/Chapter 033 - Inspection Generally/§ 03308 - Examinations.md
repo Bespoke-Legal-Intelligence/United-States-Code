@@ -34,7 +34,3 @@ Section 3308 requires the Secretary to carry out additional inspections as might
 
 1996—Pub. L. 104–324 inserted “or have examined” after “examine” in introductory provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3305 of this title.
-

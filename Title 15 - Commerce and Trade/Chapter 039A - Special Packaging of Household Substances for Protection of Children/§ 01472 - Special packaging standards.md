@@ -36,7 +36,7 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–414 struck out “, after consultation with the technical advisory committee provided for in section 1475 of this title” after “The Commission”.
+1983—Subsec. (a). Pub. L. 97–414 struck out “, after consultation with the technical advisory committeeprovided for in section 1475 of this title” after “The Commission”.
 
 #### Transfer of Functions
 

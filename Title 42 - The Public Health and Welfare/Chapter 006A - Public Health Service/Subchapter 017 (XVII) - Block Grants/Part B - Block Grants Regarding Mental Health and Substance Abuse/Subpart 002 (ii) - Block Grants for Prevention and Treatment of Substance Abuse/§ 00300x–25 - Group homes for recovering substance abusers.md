@@ -42,5 +42,5 @@ Another prior section 1925 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, in introductory provisions, substituted “A State, using funds available under section 300x–21 of this title, may establish and maintain the ongoing operation of a revolving fund in accordance with this section to support group homes for recovering substance abusers as follows:” for “For fiscal year 1993 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of this title only if the State involved has established, and is providing for the ongoing operation of, a revolving fund as follows:”.
+2000—Subsec. (a). Pub. L. 106–310, in introductory provisions, substituted “A State, using funds available under section 300x–21 of this title, may establish and maintain the ongoing operation of a revolving fund inaccordance with this section to support group homes for recovering substance abusers as follows:” for “For fiscal year 1993 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of this title only if the State involved has established, and is providing for the ongoing operation of, a revolving fund as follows:”.
 

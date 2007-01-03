@@ -194,7 +194,7 @@ Subsec. (h). Pub. L. 102–550, §832(b)(7), added subsec. (h).
 
 1988—Subsec. (e)(3). Pub. L. 100–242, §525, substituted “under this section” for “under this Act”.
 
-Subsec. (g). Pub. L. 100–242, §521, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, thereare authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
+Subsec. (g). Pub. L. 100–242, §521, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, there are authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
 
 1984—Subsec. (b)(3)(A), (B). Pub. L. 98–479, §101(b)(2), substituted “subsection (a)(1)” for “subsection (a)(4)” wherever appearing.
 

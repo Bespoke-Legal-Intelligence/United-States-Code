@@ -16,7 +16,7 @@ The Trade Representative, after consultation with the administering authority an
 
 Upon initiation of an investigation under this section, the Trade Representative shall request the following determinations be made according to substantive and procedural requirements specified by the Trade Representative, notwithstanding any other provision of this subtitle:
 
-&emsp;(1) The administering authority shall determine whether imports into the United Statesof the subject merchandise are being sold at less than fair value.
+&emsp;(1) The administering authority shall determine whether imports into the United States of the subject merchandise are being sold at less than fair value.
 
 &emsp;(2) The Commission shall determine whether an industry in the petitioning country is materially injured by reason of imports of the subject merchandise into the United States.
 
@@ -30,7 +30,7 @@ An opportunity for public comment shall be provided, as appropriate—
 
 #### (e) Issuance of order
 
-If the administering authority makes an affirmative determination under paragraph (1) of subsection (c) of this section, and the Commission makes an affirmative determination under paragraph (2) of subsection (c) of this section, the administering authority shall issue an antidumping duty order in accordance with section 1673e of this title and take such other actions as are required by section 1673e of this title.
+If the administering authority makes an affirmative determination under paragraph (1) of subsection (c) of this section, and the Commission makes an affirmative determination under paragraph (2) of subsection (c) of this section,the administering authority shall issue an antidumping duty order in accordance with section 1673e of this title and take such other actions as are required by section 1673e of this title.
 
 #### (f) Reviews of determinations
 

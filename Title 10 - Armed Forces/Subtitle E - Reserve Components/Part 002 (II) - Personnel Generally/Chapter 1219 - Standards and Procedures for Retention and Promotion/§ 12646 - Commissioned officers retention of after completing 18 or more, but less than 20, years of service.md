@@ -80,7 +80,7 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §205), 205, 307(c), 503(c
 
 50:1195(c).
 
-In subsections (a) and (b), the words “Notwithstanding any other provisions of this chapter, except as provided in sections 1265 and 1279 of this title” and “has been credited with, or” are omitted as surplusage. Thewords “entitled to be” in clause (1) are inserted for clarity.
+In subsections (a) and (b), the words “Notwithstanding any other provisions of this chapter, except as provided in sections 1265 and 1279 of this title” and “has been credited with, or” are omitted as surplusage. The words “entitled to be” in clause (1) are inserted for clarity.
 
 In subsection (e), the words “at the end of that period” are substituted for the word “then” for clarity. The words “before the end of that period” are substituted for the word “earlier” for clarity.
 

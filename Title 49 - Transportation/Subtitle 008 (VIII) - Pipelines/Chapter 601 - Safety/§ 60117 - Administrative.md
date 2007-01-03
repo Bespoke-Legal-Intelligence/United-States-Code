@@ -66,9 +66,53 @@ Authority for Cooperative Agreements.—To carry out this chapter, the Secretary
 
 (<i>l</i>)
 
-Safety Orders.—If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.
+Safety Orders.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993.)
+&emsp;(1)
+
+In general.—Not later than December 31, 2007, the Secretary shall issue regulations providing that, after notice and opportunity for a hearing, if the Secretary determines that a pipeline facility has a condition that poses a pipeline integrity risk to public safety, property, or the environment, the Secretary mayorder the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, or other appropriate action, to remedy that condition.
+
+&emsp;(2)
+
+Considerations.—In making a determination under paragraph (1), the Secretary, if relevant and pursuant to the regulations issued under paragraph (1), shall consider—
+
+&emsp;&emsp;(A) the considerations specified in paragraphs (1) through (6) of section 60112(b);
+
+&emsp;&emsp;(B) the likelihood that the condition will impair the serviceability of a pipeline;
+
+&emsp;&emsp;(C) the likelihood that the condition will worsen over time; and
+
+&emsp;&emsp;(D) the likelihood that the condition is present or could develop on other areas of the pipeline.
+
+(m)
+
+Restoration of Operations.—
+
+&emsp;(1)
+
+In general.—The Secretary may advise, assist, and cooperate with the heads of other departments, agencies, and instrumentalities of the United States Government, the States, and public and private agencies and persons to facilitate the restoration of pipeline operations that have been or are anticipated to become disrupted by manmade or natural disasters.
+
+&emsp;(2)
+
+Savings clause.—Nothing in this section alters or amends the authorities and responsibilities of any department, agency, or instrumentality of the United States Government, other than the Department of Transportation.
+
+(n)
+
+Cost Recovery for Design Reviews.—
+
+&emsp;(1)
+
+In general.—If the Secretary conducts facility design safety reviews in connection with a proposal to construct, expand, or operate a liquefied natural gas pipeline facility, the Secretary may require the person requesting such reviews to pay the associated staff costs relating to such reviews incurred by the Secretary in section 60301(d). The Secretary may assess such costs in any reasonable manner.
+
+&emsp;(2)
+
+Deposit.—The Secretary shall deposit all funds paid to the Secretary under this subsection into the Department of Treasury account 69–5172–0–2–407 or its successor account.
+
+&emsp;(3)
+
+Authorization of appropriations.—Funds deposited pursuant to this subsection are authorized to be appropriated for the purposes set forth in section 60301(d).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496.)
 
 Historical and Revision Notes
 
@@ -258,6 +302,10 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 #### Amendments
 
+2006—Subsec. (<i>l</i>). Pub. L. 109–468, §13, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
+
+Subsecs. (m), (n). Pub. L. 109–468, §§11, 17, added subsecs. (m) and (n).
+
 2002—Subsec. (<i>l</i>). Pub. L. 107–355 added subsec. (<i>l</i>).
 
 1996—Subsec. (a). Pub. L. 104–304, §19, inserted “and promotional activities relating to prevention of damage to pipeline facilities” after “and training activities”.
@@ -267,4 +315,12 @@ Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted “owning” for “tr
 Subsec. (k). Pub. L. 104–304, §12(2), added subsec. (k).
 
 1994—Subsec. (i). Pub. L. 103–429 designated existing provisions as par. (1) and added par. (2).
+
+#### Incident Reporting
+
+Pub. L. 109–468, §15, Dec. 29, 2006, 120 Stat. 3496, provided that: “Not later than December 31, 2007, the Secretary of Transportation shall review the incident reporting requirements for operators of natural gas pipelines and modify the reporting criteria as appropriate to ensure that the incident data gathered accurately reflects incident trends over time, taking into consideration the recommendations from the Comptroller General in GAO report 06–946.”
+
+#### Accident Reporting Form
+
+Pub. L. 109–468, §20, Dec. 29, 2006, 120 Stat. 3498, provided that: “Not later than December 31, 2007, the Secretary of Transportation shall amend accident reporting forms to require operators of gas and hazardous liquid pipelines to provide data related to controller fatigue.”
 

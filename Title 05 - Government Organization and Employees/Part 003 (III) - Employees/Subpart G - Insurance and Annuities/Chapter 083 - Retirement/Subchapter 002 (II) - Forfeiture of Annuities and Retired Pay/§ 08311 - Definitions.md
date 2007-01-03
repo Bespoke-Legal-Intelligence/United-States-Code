@@ -36,7 +36,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) violated section 8315(a)(2) of this title; and
 
-&emsp;(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay, payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary ofthe member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—
+&emsp;(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay, payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary of the member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—
 
 &emsp;&emsp;(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
 

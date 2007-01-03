@@ -20,7 +20,7 @@ Each agreement entered into under this section shall—
 
 #### (c) Regulatory standards applicable to collection of loans
 
-(1) Any standard established by the Secretary by regulation for the collection by schools of nursing of loans made pursuant to loan agreements under this part <sup>1</sup> shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. With respect to the student loan fund established pursuant to such agreements, this subsection may not be construed to require such schools to reimburse such loan fund for loans that became uncollectable prior to 1983.
+(1) Any standard established by the Secretary by regulation for the collection by schools ofnursing of loans made pursuant to loan agreements under this part <sup>1</sup> shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. With respect to the student loan fund established pursuant to such agreements, this subsection may not be construed to require such schools to reimburse such loan fund for loans that became uncollectable prior to 1983.
 
 (2) The measurement of a school's failure to collect loans made under this part <sup>1</sup> shall be the ratio (stated as a percentage) that the defaulted principal amount outstanding of such school bears to the matured loans of such school.
 
@@ -90,7 +90,7 @@ Section 10 of Pub. L. 99–92 provided that:
 
 “(a) Except as provided in subsection (b), this Act \[enacting section 297i of this title, transferring section 296c to section 298b–5 of this title, amending this section, sections 296k, 296<i>l</i>, 296m, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and section 6103 of Title 26, Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 201 and 298b–5 of this title and section 1333 of Title 15\] and the amendments and repeals made by this Act shall take effect on October 1, 1985.
 
-“(b)(1) The provisions of section 9(c) of this Act \[transferring section 296c of this title to section 298b–5 of this title, amending section 298b–5 of this title, and enacting provisions set out as notes under section 298b–5 of this title\] and the amendment made by paragraph (1) of such section shall take effect on the date of enactment of this Act \[Aug. 16, 1985\].
+“(b)(1) The provisions of section 9(c) of this Act \[transferring section 296c of this title to section 298b–5 of this title, amending section 298b–5 of this title, and enacting provisions set out as notes under section298b–5 of this title\] and the amendment made by paragraph (1) of such section shall take effect on the date of enactment of this Act \[Aug. 16, 1985\].
 
 “(2) The amendment made by section 8(a) of this Act \[amending section 297a of this title\] shall take effect June 30, 1984.”
 

@@ -96,5 +96,23 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 
 Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Termination of Claims
+
+Pub. L. 109–396, title I, §102, Dec. 15, 2006, 120 Stat. 2712, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, the United States is not required to perform, or to reimburse the District of Columbia for the cost of performing, any of the following services:
+
+&emsp;“(1) Repairs or renovations pursuant to section 4(f) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225b(f); sec. 44–903(f), D.C. Official Code).
+
+&emsp;“(2) Preservation, maintenance, or repairs pursuant to a use permit executed on September 30, 1987, under which the United States (acting through the Secretary of Health and Human Services) granted permission to the District of Columbia to use and occupy portions of the Saint Elizabeths Hospital property known as the ‘West Campus’.
+
+&emsp;“(3) Mental health diagnostic and treatment services for referrals as described in section 9(b) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225g(b); sec. 44–908(b), D.C. Official Code), but only with respect to services provided on or before the date of the enactment of this Act \[Dec. 15, 2006\].
+
+“(b)
+
+Effect on Pending Claims.—Any claim of the District of Columbia against the United States for the failure to perform, or to reimburse the District of Columbia for the cost of performing, any service described in subsection (a) which is pending as of the date of the enactment of this Act shall be extinguished and terminated.”
+
 <i><sup>1</sup></i><i> So in original. Probably should be “responsibilities”.</i>
 

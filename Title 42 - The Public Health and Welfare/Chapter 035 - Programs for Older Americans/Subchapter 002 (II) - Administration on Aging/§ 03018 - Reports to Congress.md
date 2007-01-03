@@ -8,7 +8,7 @@ Not later than one hundred and twenty days after the close of each fiscal year, 
 
 &emsp;(2) statistical data collected under section 3012(a)(19) <sup>1</sup> of this title;
 
-&emsp;(3) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals withgreatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
+&emsp;(3) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
 
 &emsp;(4) a description of the implementation of the plan required by section 3012(a)(17) <sup>1</sup> of this title.
 
@@ -28,9 +28,9 @@ Not later than one hundred and twenty days after the close of each fiscal year, 
 
 &emsp;(A) the Special Committee on Aging of the Senate;
 
-&emsp;(B) the Committee on Education and Labor of the House of Representatives; and
+&emsp;(B) the Committee on Education and the Workforce of the House of Representatives; and
 
-&emsp;(C) the Committee on Labor and Human Resources of the Senate.
+&emsp;(C) the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 (3) The Assistant Secretary shall provide the report required by paragraph (1), and make the State reports required under subchapters III and XI of this chapter in accordance with section 3058g(h)(1) of this title available, to—
 
@@ -58,7 +58,7 @@ The Assistant Secretary shall, as part of the annual report submitted under subs
 
 &emsp;(5) the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas) to receive services under this chapter.
 
-(Pub. L. 89–73, title II, §207, formerly §208, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 35; renumbered §207, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; amended Pub. L. 98–459, title II, §207, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§103(b), (c), 155(f), Nov. 29, 1987, 101 Stat. 928, 929, 954; Pub. L. 102–54, §13(q)(9)(A), June 13, 1991, 105 Stat. 281; Pub. L. 102–375, title II, §208, title VII, §708(a)(2)(A), (c)(2), title IX, §904(a)(8), Sept. 30, 1992, 106 Stat. 1214, 1292, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 103–437, §15(<i>l</i>), Nov. 2, 1994, 108 Stat. 4593; Pub. L. 106–501, title II, §204, title VIII, §801(b)(4), Nov. 13, 2000, 114 Stat. 2234, 2292.)
+(Pub. L. 89–73, title II, §207, formerly §208, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 35; renumbered §207, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; amended Pub. L. 98–459, title II, §207, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§103(b), (c), 155(f), Nov. 29, 1987, 101 Stat. 928, 929, 954; Pub. L. 102–54, §13(q)(9)(A), June 13, 1991, 105 Stat. 281; Pub. L. 102–375, title II, §208, title VII, §708(a)(2)(A), (c)(2), title IX, §904(a)(8), Sept. 30, 1992, 106 Stat. 1214, 1292, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 103–437, §15(<i>l</i>), Nov. 2, 1994, 108 Stat. 4593; Pub. L. 106–501, title II, §204, title VIII, §801(b)(4), Nov. 13, 2000, 114 Stat. 2234, 2292; Pub. L. 109–365, title II, §206, Oct. 17, 2006, 120 Stat. 2535.)
 
 #### References in Text
 
@@ -69,6 +69,10 @@ Section 3012(a)(17), (19) of this title, referred to in subsec. (a)(2), (4), was
 A prior section 207 of Pub. L. 89–73 was renumbered section 206 and is classified to section 3017 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(2)(B). Pub. L. 109–365, §206(1), substituted “the Workforce” for “Labor”.
+
+Subsec. (b)(2)(C). Pub. L. 109–365, §206(2), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
 
 2000—Subsec. (a)(3). Pub. L. 106–501, §801(b)(4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “an analysis of the information received under section 3026(b)(2)(D) of this title by the Assistant Secretary;”.
 
@@ -92,7 +96,7 @@ Subsec. (b)(1). Pub. L. 102–375, §208(b), substituted “March 1” for “Ja
 
 Subsec. (b)(1)(A). Pub. L. 102–375, §708(a)(2)(A)(i), substituted “subchapters III and XI of this chapter in accordance with section 3058g(c) of this title” for “section 3027(a)(12)(C) of this title”.
 
-Subsec. (b)(3). Pub. L. 102–375, §708(a)(2)(A)(ii)(I), substituted “under subchapters III and XI of this chapterin accordance with section 3058g(h)(1) of this title” for “by section 3027(a)(12)(H)(i) of this title”.
+Subsec. (b)(3). Pub. L. 102–375, §708(a)(2)(A)(ii)(I), substituted “under subchapters III and XI of this chapter in accordance with section 3058g(h)(1) of this title” for “by section 3027(a)(12)(H)(i) of this title”.
 
 Subsec. (b)(3)(E). Pub. L. 102–375, §708(a)(2)(A)(ii)(II), added subpar. (E) and struck out former subpar. (E) which read as follows: “the public agencies and private organizations designated under section 3027(a)(12)(A) of this title.”
 
@@ -111,12 +115,6 @@ Subsec. (b). Pub. L. 100–175, §103(c), added subsec. (b) and struck out forme
 Subsec. (c). Pub. L. 100–175, §155(f), added subsec. (c).
 
 1984—Pub. L. 98–459 designated existing provisions as subsec. (a), substituted “submit to the President and to the Congress” for “submit to the President for transmittal to the Congress”, and added subsec. (b).
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1992 Amendment
 

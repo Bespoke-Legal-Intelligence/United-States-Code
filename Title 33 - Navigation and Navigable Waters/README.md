@@ -1,5 +1,5 @@
 
-33 U.S.C.<br>United States Code, 2005 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
+33 U.S.C.<br>United States Code, 2006 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 33—NAVIGATION AND NAVIGABLE WATERS
 
@@ -92,6 +92,7 @@
 - [Chapter 031 - Ocean Pollution Research and Development and Monitoring Planning](Chapter%20031%20-%20Ocean%20Pollution%20Research%20and%20Development%20and%20Monitoring%20Planning/README.md)
 - [Chapter 032 - Inland Waterways Trust Fund](Chapter%20032%20-%20Inland%20Waterways%20Trust%20Fund/README.md)
 - [Chapter 033 - Prevention of Pollution from Ships](Chapter%20033%20-%20Prevention%20of%20Pollution%20from%20Ships/README.md)
+- [Chapter 033A - Marine Debris Research, Prevention, and Reduction](Chapter%20033A%20-%20Marine%20Debris%20Research%2C%20Prevention%2C%20and%20Reduction/README.md)
 - [Chapter 034 - Inland Navigational Rules](Chapter%20034%20-%20Inland%20Navigational%20Rules/README.md)
 - [Chapter 035 - Artificial Reefs](Chapter%20035%20-%20Artificial%20Reefs/README.md)
 - [Chapter 036 - Water Resources Development](Chapter%20036%20-%20Water%20Resources%20Development/README.md)
@@ -103,3 +104,4 @@
 - [Chapter 042 - Estuary Restoration](Chapter%20042%20-%20Estuary%20Restoration/README.md)
 - [Chapter 043 - National Oceanic and Atmospheric Administration Commissioned Officer Corps](Chapter%20043%20-%20National%20Oceanic%20and%20Atmospheric%20Administration%20Commissioned%20Officer%20Corps/README.md)
 - [Chapter 044 - Oceans and Human Health](Chapter%20044%20-%20Oceans%20and%20Human%20Health/README.md)
+- [Chapter 045 - Tsunami Warning and Education](Chapter%20045%20-%20Tsunami%20Warning%20and%20Education/README.md)

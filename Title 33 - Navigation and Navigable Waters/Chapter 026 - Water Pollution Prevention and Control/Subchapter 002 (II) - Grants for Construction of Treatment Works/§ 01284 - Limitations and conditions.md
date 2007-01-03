@@ -36,7 +36,7 @@ The next to the last sentence of paragraph (5) of subsection (a) of this section
 
 (2) On the date one year after the completion of construction and initial operation of such treatment works, the owner and operator of such treatment works shall certify to the Administrator whether or not such treatment works meet the design specifications and effluent limitations contained in the grant agreement and permit pursuant to section 1342 of this title for such works. If the owner and operator of such treatment works cannot certify that such treatment works meet such design specifications and effluent limitations, any failure to meet such design specifications and effluent limitations shall be corrected in a timely manner, to allow such affirmative certification, at other than Federal expense.
 
-(3) Nothing in this section shall be construed to prohibit a grantee under this subchapter from requiring more assurances, guarantees, or indemnity or other contractual requirements from any party to a contract pertaining to a project assisted under this subchapter, than those provided under this subsection.
+(3) Nothing in this section shall be construed to prohibit a grantee under this subchapter from requiring more assurances, guarantees, or indemnity or other contractual requirements from any party to a contract pertaining to a projectassisted under this subchapter, than those provided under this subsection.
 
 (June 30, 1948, ch. 758, title II, §204, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 835; amended Pub. L. 95–217, §§20–24, Dec. 27, 1977, 91 Stat. 1572, 1573; Pub. L. 96–483, §2(a), (b), Oct. 21, 1980, 94 Stat. 2360, 2361; Pub. L. 97–117, §§10(a), (b), 11, 12, Dec. 29, 1981, 95 Stat. 1626, 1627; Pub. L. 100–4, title II, §205(a)–(c), Feb. 4, 1987, 101 Stat. 18.)
 
@@ -72,7 +72,7 @@ Subsec. (b)(5), (6). Pub. L. 95–217, §§22(b), 24(b), added pars. (5) and (6)
 
 #### Effective Date of 1987 Amendment
 
-Section 205(d) of Pub. L. 100–4 provided that: “This section \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 4, 1987\], except that the amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the last day of the two-year period beginning on such date of enactment.”
+Section 205(d) of Pub. L. 100–4 provided that: “This section \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 4, 1987\], exceptthat the amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the last day of the two-year period beginning on such date of enactment.”
 
 #### Effective Date of 1980 Amendment
 

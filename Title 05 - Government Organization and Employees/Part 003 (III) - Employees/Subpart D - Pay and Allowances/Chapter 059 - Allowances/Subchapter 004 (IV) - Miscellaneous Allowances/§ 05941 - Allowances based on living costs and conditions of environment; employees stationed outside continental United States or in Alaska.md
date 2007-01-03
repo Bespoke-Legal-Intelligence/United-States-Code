@@ -66,7 +66,7 @@ By virtue of the authority vested in me by section 207 of the Independent Office
 
 Section 101.
 
-Definitions. As used in this Part, (a) the words “foreign areas” mean all areas exclusive of (1) the forty-eight states of the United States, (2) the District of Columbia, and (3) non-foreign areas as defined in section 201 of this order, and (b) the words “section 207 of the Act” mean section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948, Public Law 491, 80th Congress, as amended by section 104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948, Public Law 862, 80th Congress.
+Definitions. As used in this Part, (a) the words “foreign areas” mean all areas exclusive of (1) the forty-eight states of the United States, (2) the District of Columbia, and (3) non-foreign areas as defined in section 201 of this order, and (b) the words “section 207 of the Act” mean section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948, Public Law 491, 80th Congress, as amended by section104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948, Public Law 862, 80th Congress.
 
 Sec. 102.
 
@@ -134,7 +134,7 @@ Basis for Non-Foreign Area Post Differential. The Office of Personnel Management
 
 Sec. 204.
 
-Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order that an employeebe eligible to receive a non-foreign area post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the non-foreign area post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
+Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order that an employee be eligible to receive a non-foreign area post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the non-foreign area post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
 
 (b) Subject to the provisions of section 204(a) hereof, the classes of persons eligible to receive the non-foreign area post differentials fixed pursuant to section 202 hereof shall include:
 

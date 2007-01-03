@@ -18,7 +18,7 @@ The Secretary may make grants to—
 
 &emsp;Paragraph (1) shall not apply to a grant to a Federal laboratory or a grant under subsection (a)(2) of this section.
 
-(Pub. L. 95–113, title XIV, §1480, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat.1319; amended Pub. L. 107–171, title VII, §7209(d), May 13, 2002, 116 Stat. 445.)
+(Pub. L. 95–113, title XIV, §1480, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1319; amended Pub. L. 107–171, title VII, §7209(d), May 13, 2002, 116 Stat. 445.)
 
 #### Amendments
 

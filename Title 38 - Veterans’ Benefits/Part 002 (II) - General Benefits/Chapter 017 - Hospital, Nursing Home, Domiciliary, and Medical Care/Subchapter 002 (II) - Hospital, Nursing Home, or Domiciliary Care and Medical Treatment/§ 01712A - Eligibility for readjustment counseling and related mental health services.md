@@ -38,7 +38,7 @@
 
 (C) The Secretary may relocate a center in existence on January 1, 1988, without regard to the national plan (including any revision to such plan) if such relocation is to a new location away from a Department general health-care facility when such relocation is necessitated by circumstances beyond the control of the Department. Such a relocation may be carried out only after the end of the 30-day period beginning on the date on which the Secretary notifies the Committees on Veterans’ Affairs of the Senate and the House of Representatives of the proposed relocation, of the circumstances making it necessary, and of the reason for the selection of the new site for the center.
 
-(2)(A) Not later than April 1, 1988, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983 (Public Law 98–160), to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder.
+(2)(A) Not later than April 1, 1988, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particularattention, in light of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983 (Public Law 98–160), to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder.
 
 (B) The report required by subparagraph (A) of this paragraph shall include—
 
@@ -82,7 +82,7 @@
 
 &emsp;(2) The term “Department general health-care facility” means a health-care facility which is operated by the Department for the furnishing of health-care services under this chapter, not limited to services provided through the program established under this section.
 
-(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128,title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463.)
+(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III,§302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Subsec. (g)(2)(B)(ii). Pub. L. 100–322, §107(e)(1)(B), substituted “this su
 
 Subsec. (g)(3) to (5). Pub. L. 100–322, §107(c), added pars. (3) to (5) and struck out former pars. (3) and (4) which read as follows:
 
-“(3) Not later than July 1, 1987, the Administrator shall submit to such committees a report containing a description of the plans made and timetable for carrying out paragraph (1) of this subsection. Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).
+“(3) Not later than July 1, 1987, the Administrator shall submit to such committees a report containing adescription of the plans made and timetable for carrying out paragraph (1) of this subsection. Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).
 
 “(4) Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the experience under as much of the transition as was carried out pursuant to paragraph (1) of this subsection before September 30, 1988, including such recommendations for legislative and administrative action as the Administrator considers appropriate in light of such experience.”
 
@@ -232,6 +232,100 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
 
+#### Improvement and Expansion of Mental Health Services
+
+Pub. L. 109–461, title II, §203, Dec. 22, 2006, 120 Stat. 3410, provided that:
+
+“(a)
+
+Required Capacity for Community-Based Outpatient Clinics.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Veterans Affairs shall ensure that each community-based outpatient clinic of the Department of Veterans Affairs has the capacity to provide, or monitor the provision of, mental health services to enrolled veterans who, as determined by the Secretary, are in need of such services.
+
+&emsp;“(2)
+
+Settings.—In carrying out paragraph (1), the Secretary shall ensure that mental health services are provided through—
+
+&emsp;&emsp;“(A) a community-based outpatient clinic of the Department by an employee of the Department;
+
+&emsp;&emsp;“(B) referral to another facility of the Department;
+
+&emsp;&emsp;“(C) contract with an appropriate mental health professional in the community; or
+
+&emsp;&emsp;“(D) telemental health services.
+
+“(b)
+
+Clinical Training and Protocols.—
+
+&emsp;“(1)
+
+Collaboration.—The National Center on Post-Traumatic Stress Disorder of the Department of Veterans Affairs shall collaborate with the Secretary of Defense—
+
+&emsp;&emsp;“(A) to enhance the clinical skills of military clinicians on matters relating to post-traumatic stress disorder through training, treatment protocols, web-based interventions, and the development of evidence-based interventions; and
+
+&emsp;&emsp;“(B) to promote pre-deployment resilience and post-deployment readjustment among members of the Armed Forces serving in Operation Iraqi Freedom and Operation Enduring Freedom.
+
+&emsp;“(2)
+
+Authorization of appropriations.—There are authorized to be appropriated for the Department of Veterans Affairs for fiscal year 2007 $2,000,000 to carry out this subsection.
+
+“(c)
+
+Mental Health Outreach.—The Secretary of Veterans Affairs shall—
+
+&emsp;“(1) develop additional educational materials on post-traumatic stress disorder; and
+
+&emsp;“(2) undertake additional efforts to educate veterans about post-traumatic stress disorder.
+
+“(d)
+
+Review of PTSD Clinical Guidelines.—The Secretary of Veterans Affairs shall—
+
+&emsp;“(1) review the clinical guidelines of the Department of Veterans Affairs on post-traumatic stress disorder and all appropriate protocols related to post-traumatic stress disorder;
+
+&emsp;“(2) revise such guidelines and protocols as the Secretary considers appropriate to ensure that clinicians are able to effectively distinguish between diagnoses with similar symptoms that may manifest as post-traumatic stress disorder, including traumatic brain injury; and
+
+&emsp;“(3) develop performance measures for the treatment of post-traumatic stress disorder among veterans.”
+
+#### Expansion of Telehealth Services
+
+Pub. L. 109–461, title II, §205, Dec. 22, 2006, 120 Stat. 3411, provided that:
+
+“(a)
+
+In General.—The Secretary of Veterans Affairs shall increase the number of facilities of the Readjustment Counseling Service that are capable of providing health services and counseling through telehealth linkages with facilities of the Veterans Health Administration.
+
+“(b)
+
+Plan.—Not later than July 1, 2007, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a plan to implement the requirement in subsection (a). The plan shall specify which facilities of the Readjustment Counseling Service will have the capabilities described in subsection (a) as of the end of each of fiscal years 2007, 2008, and 2009.”
+
+#### Expansion of Outreach Activities of Vet Centers
+
+Pub. L. 109–461, title II, §215, Dec. 22, 2006, 120 Stat. 3424, provided that:
+
+“(a)
+
+Additional Outreach Workers.—The Secretary of Veterans Affairs shall employ not fewer than 100 veterans for the purpose of providing outreach to veterans on the availability of readjustment counseling and related mental health services for veterans under section 1712A of title 38, United States Code.
+
+“(b)
+
+Construction With Current Outreach Program.—The veterans employed under subsection (a) are in addition to any veterans employed by the Secretary for the purpose described in that subsection under the February 2004 program of the Department of Veterans Affairs to provide outreach described in that subsection.
+
+“(c)
+
+Assignment to Vet Centers.—The Secretary may assign any veteran employed under subsection (a) to any center for the provision of readjustment counseling and related mental health services under section 1712A of title 38, United States Code, that the Secretary considers appropriate in order to meet the purpose described in that subsection.
+
+“(d)
+
+Inapplicability and Termination of Limitation on Duration of Employment.—Any limitation on the duration of employment of veterans under the program described in subsection (b) is hereby terminated and shall not apply to veterans employed under such program or under this section.
+
+“(e)
+
+Employment Status.—Veterans employed under subsection (a) shall be employed in career conditional status, which is the employment status in which veterans are employed under the program described in subsection (b).”
+
 #### Study of Post-Traumatic Stress Disorder in Vietnam Veterans
 
 Pub. L. 106–419, title II, §212, Nov. 1, 2000, 114 Stat. 1843, provided that:
@@ -288,7 +382,7 @@ Funding.—(1) In carrying out the program described in subsection (a), the Secr
 
 “(d)
 
-Allocation of Funds to Department Facilities.—(1) In each of fiscal years 2004, 2005, and 2006, the Secretary shall allocate funds identified pursuant to subsection (c)(1) to individual medical facilities of the Department as the Secretary determines appropriate based upon proposals submitted by those facilities for the use of those funds for improvements to specialized mental health services.
+Allocation of Funds to Department Facilities.—(1) In each of fiscal years 2004, 2005, and 2006, the Secretary shall allocate funds identified pursuant to subsection (c)(1) to individual medical facilities of theDepartment as the Secretary determines appropriate based upon proposals submitted by those facilities for the use of those funds for improvements to specialized mental health services.
 
 “(2) In allocating funds to facilities in a fiscal year under paragraph (1), the Secretary shall ensure that—
 
@@ -434,7 +528,7 @@ Considerations.—In developing the plan referred to in subsection (a), the Secr
 
 “(c)
 
-Report.—Not later than six months after the date of the enactment of this Act \[Oct. 9, 1992\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the plan developed pursuant to subsection (a).The report shall include specific information relating to the consideration given to the matters described in subsection (b).
+Report.—Not later than six months after the date of the enactment of this Act \[Oct. 9, 1992\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the plan developed pursuant to subsection (a). The report shall include specific information relating to the consideration given to the matters described in subsection (b).
 
 “(d)
 
@@ -456,7 +550,7 @@ Section 1501(b) of Pub. L. 100–687 related to relocation of 17 Veterans’ Adm
 
 #### Prohibition of Delegation of Duties
 
-Section 107(f) of Pub. L. 100–322, as amended by Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–40, §2(b), May 7, 1991, 105 Stat. 187; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs may not delegate the function of making recommendations under section 1712A(g)(3)(A) \[formerly 612A(g)(3)(A)\] of title 38, United States Code, as amended by subsection (c).”
+Section 107(f) of Pub. L. 100–322, as amended by Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–40, §2(b), May 7, 1991, 105 Stat. 187; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs may not delegate the function of making recommendations under section 1712A(g)(3)(A) \[formerly 612A(g)(3)(A)\] oftitle 38, United States Code, as amended by subsection (c).”
 
 #### Post-Traumatic-Stress Disorder; Diagnosis and Treatment; Education and Training of Health-Care Personnel; Coordination With Readjustment Counseling; Special Committee; National Center; Compilation and Publication of Research Results; Reports to Congressional Committees
 
@@ -514,7 +608,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 #### Study of Post-Traumatic Stress Disorder and Other Post-War Psychological Problems
 
-Section 102 of Pub. L. 98–160, as amended by Pub. L. 99–576, title II, §216, Oct. 28, 1986, 100 Stat. 3259, directed Administrator of Veterans’ Affairs to provide for the conducting of a comprehensive study of prevalence and incidence in population of Vietnam veterans of post-traumatic stress disorder and other psychological problems of readjusting to civilian life and effects of such problems on such veterans and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1986, a report on results of study.
+Section 102 of Pub. L. 98–160, as amended by Pub. L. 99–576, title II, §216, Oct. 28, 1986, 100 Stat. 3259, directed Administrator of Veterans’ Affairs to provide for the conducting of a comprehensive study of prevalence and incidence in population of Vietnam veterans of post-traumatic stress disorder and other psychological problems of readjusting to civilian life and effects of such problems on such veterans and directed Administrator to submit to Committees on Veterans’ Affairs of Senateand House of Representatives not later than Oct. 1, 1986, a report on results of study.
 
 #### Readjustment Counseling and Related Mental Health Services for Veterans of War Declared After June 13, 1979
 

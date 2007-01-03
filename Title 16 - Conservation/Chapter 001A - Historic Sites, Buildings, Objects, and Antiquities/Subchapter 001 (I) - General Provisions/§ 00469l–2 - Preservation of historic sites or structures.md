@@ -16,7 +16,7 @@ Any grant made under this section shall provide that—
 
 #### (c) Matching requirement
 
-The Secretary may obligate funds made available for a grant under this section only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal to or greater than the grant. The Secretary may waive the requirement of the preceding sentence with respect to a grant if the Secretary determines that an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources.
+The Secretary may obligate funds made available for a grant under this section only if thegrantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal to or greater than the grant. The Secretary may waive the requirement of the preceding sentence with respect to a grant if the Secretary determines that an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources.
 
 #### (d) Funding
 

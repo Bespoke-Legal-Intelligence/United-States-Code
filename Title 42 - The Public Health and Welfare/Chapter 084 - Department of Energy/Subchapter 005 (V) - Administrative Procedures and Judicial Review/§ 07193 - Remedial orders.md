@@ -30,7 +30,7 @@ With respect to any person whose sole petroleum industry operation relates to th
 
 &emsp;(1) such civil action or order is based on a retroactive application of such rule or regulation or is based upon a retroactive interpretation of such rule or regulation; and
 
-&emsp;(2) such person relied in good faith upon rules, regulations, or ruling in effect on the date of the violation interpreting such rules or regulations.
+&emsp;(2) such person relied in good faith upon rules, regulations, or ruling in effect on thedate of the violation interpreting such rules or regulations.
 
 (Pub. L. 95–91, title V, §503, Aug. 4, 1977, 91 Stat. 590; Pub. L. 95–620, title VIII, §805, Nov. 9, 1978, 92 Stat. 3348.)
 

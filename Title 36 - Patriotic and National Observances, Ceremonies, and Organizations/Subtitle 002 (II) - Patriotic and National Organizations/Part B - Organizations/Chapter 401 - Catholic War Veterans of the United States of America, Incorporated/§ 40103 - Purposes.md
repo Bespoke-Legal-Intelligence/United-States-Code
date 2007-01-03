@@ -26,9 +26,9 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(12) increase our love, honor, and service to God and to our fellow man without regard to race, creed, color, or national origin; and
 
-&emsp;(13) function as a veterans’ and patriotic organization as authorized by the laws of the <sup>1</sup> each State in which it is incorporated.
+&emsp;(13) function as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1329.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1329; Pub. L. 109–284, §5(6), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -48,5 +48,7 @@ Aug. 17, 1984, Pub. L. 98–382, §3, 98 Stat. 1343.
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
+#### Amendments
+
+2006—Par. (13). Pub. L. 109–284 substituted “laws of each State” for “laws of the each State”.
 

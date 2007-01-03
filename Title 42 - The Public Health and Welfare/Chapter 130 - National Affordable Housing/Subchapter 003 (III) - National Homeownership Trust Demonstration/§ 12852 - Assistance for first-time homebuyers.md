@@ -22,7 +22,7 @@ The Trust shall provide assistance payments for first-time homebuyers (including
 
 #### (5) Capitalization of revolving loan funds
 
-&emsp;Grants to public organizations or agencies to establish revolving loan funds to provide homeownership assistance to eligible first-time homebuyers consistent with the requirements of this subchapter. Such grants shall be matched by an equal amount of local investment in such revolving loan funds. Any proceeds or repayments from loans made under this paragraph shall be returned to the revolving loan fund established under this paragraph to be used for purposes related to this section.
+&emsp;Grants to public organizations or agencies to establish revolving loan funds to provide homeownership assistance to eligible first-time homebuyers consistent with the requirements of this subchapter. Such grants shall bematched by an equal amount of local investment in such revolving loan funds. Any proceeds or repayments from loans made under this paragraph shall be returned to the revolving loan fund established under this paragraph to be used for purposes related to this section.
 
 #### (b) Eligibility requirements
 
@@ -34,7 +34,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 &emsp;&emsp;(A) (and whose spouse) has had no ownership in a principal residence during the 3-year period ending on the date of purchase of the property with respect to which assistance payments are made under this subchapter;
 
-&emsp;&emsp;(B) is a displaced homemaker who, except for owning a home with his or her spouse orresiding in a home owned by the spouse, meets the requirements of subparagraph (A);
+&emsp;&emsp;(B) is a displaced homemaker who, except for owning a home with his or her spouse or residing in a home owned by the spouse, meets the requirements of subparagraph (A);
 
 &emsp;&emsp;(C) is a single parent who, except for owning a home with his or her spouse or residing in a home owned by the spouse while married, meets the requirements of subparagraph (A); or
 
@@ -102,7 +102,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (d) Allocation formula
 
-Amounts available in any fiscal year for assistance under this subchapter shall be allocatedfor homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
+Amounts available in any fiscal year for assistance under this subchapter shall be allocated for homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
 
 #### (e) Assistance in connection with housing financed with mortgage revenue bonds
 

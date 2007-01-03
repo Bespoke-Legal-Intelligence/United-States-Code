@@ -48,7 +48,7 @@ Sec. 2. Each agreement between the Secretary of Defense and the Governor or othe
 
 (b) civilian employees of the Army National Guard and the Air National Guard, other than those employed by the National Guard Bureau, are eligible for membership in a State retirement, disability, or death benefits system; and
 
-(c) each such agreement is consistent with the provisions of the said act of June 15, 1956, as amended, andof rules and regulations issued thereunder, and contains a clause that it shall be subject to any amendments of the said act, including amendments occurring after the effective date of such agreement.
+(c) each such agreement is consistent with the provisions of the said act of June 15, 1956, as amended, and of rules and regulations issued thereunder, and contains a clause that it shall be subject to any amendments of the said act, including amendments occurring after the effective date of such agreement.
 
 Sec. 3. Each such agreement shall:
 

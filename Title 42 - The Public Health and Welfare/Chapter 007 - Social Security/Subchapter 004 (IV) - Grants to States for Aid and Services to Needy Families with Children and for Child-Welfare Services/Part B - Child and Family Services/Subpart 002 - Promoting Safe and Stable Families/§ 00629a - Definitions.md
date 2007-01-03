@@ -22,7 +22,7 @@ As used in this subpart:
 
 &emsp;&emsp;(E) services designed to improve parenting skills (by reinforcing parents’ confidence in their strengths, and helping them to identify where improvement is needed and to obtain assistance in improving those skills) with respect to matters such as child development, family budgeting, coping with stress, health, and nutrition; and
 
-&emsp;&emsp;(F) infant safe haven programs to provide a way for a parent to safely relinquish anewborn infant at a safe haven designated pursuant to a State law.
+&emsp;&emsp;(F) infant safe haven programs to provide a way for a parent to safely relinquish a newborn infant at a safe haven designated pursuant to a State law.
 
 #### (2) Family support services
 
@@ -42,7 +42,7 @@ As used in this subpart:
 
 #### (6) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe (as defined in section 682(i)(5) of this title, as in effect before August 22, 1986) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect).
+&emsp;The term “Indian tribe” means any Indian tribe (as defined in section 682(i)(5) of this title, as in effect before August 22, 1996) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect).
 
 #### (7) Time-limited family reunification services
 
@@ -78,7 +78,7 @@ As used in this subpart:
 
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415.)
+(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255.)
 
 #### References in Text
 
@@ -89,6 +89,8 @@ Section 682 of this title, referred to in subsec. (a)(6), was repealed by Pub. L
 A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+2006—Subsec. (a)(6). Pub. L. 109–288 substituted “1996” for “1986”.
 
 2002—Subsec. (a)(1)(F). Pub. L. 107–133, §102(a), added subpar. (F).
 
@@ -105,6 +107,10 @@ Subsec. (a)(2). Pub. L. 105–89, §305(c)(2)(B), inserted “safety and” befo
 Subsec. (a)(7), (8). Pub. L. 105–89, §305(b)(2), added pars. (7) and (8).
 
 Subsec. (a)(9). Pub. L. 105–89, §305(d)(1), added par. (9).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 2002 Amendment
 

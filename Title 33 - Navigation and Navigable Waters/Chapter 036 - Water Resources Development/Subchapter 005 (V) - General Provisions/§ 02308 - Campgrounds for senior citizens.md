@@ -18,7 +18,7 @@ The Secretary shall establish and develop the parcel of land (located in the Sta
 
 #### (e) Control of use and access to campground at Sam Rayburn Dam and Reservoir, Texas
 
-The Secretary shall prescribe regulations to control the use of and the access to the separatecampground established and developed pursuant to subsection (d) of this section.
+The Secretary shall prescribe regulations to control the use of and the access to the separate campground established and developed pursuant to subsection (d) of this section.
 
 #### (f) Authorization of appropriations
 

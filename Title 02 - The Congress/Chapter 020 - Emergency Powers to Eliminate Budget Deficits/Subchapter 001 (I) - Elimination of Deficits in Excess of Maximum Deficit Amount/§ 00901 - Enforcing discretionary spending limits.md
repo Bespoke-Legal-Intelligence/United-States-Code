@@ -32,7 +32,7 @@
 
 #### (6) Within-session sequestration
 
-&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breachwithin a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
+&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
 
 #### (7) Estimates
 
@@ -68,7 +68,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;(bb) OMB shall take the current estimate of highway receipts for the current year and subtract the estimated level of receipts for that year.
 
-&emsp;(cc) OMB shall add one-half of the sum of the amount calculated under items (aa) and (bb) to the obligation limitations set forth in the section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and, using current estimates, calculate the outlay change resulting from the change in obligations for the budget year and the first outyear and the outlays flowing therefrom through subsequent fiscal years. After making the calculations under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year and the first outyear by adding one-half of the sum of the amount calculated under items (aa) and (bb) to each such year.
+&emsp;(cc) OMB shall add one-half of the sum of the amount calculated under items (aa) and (bb) to the obligation limitations set forth in the section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and, using current estimates, calculate the outlay change resulting from the change in obligations for the budget year and the first outyear and the outlays flowing therefrom through subsequent fiscal years. After making the calculations under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year and the first outyear by addingone-half of the sum of the amount calculated under items (aa) and (bb) to each such year.
 
 &emsp;(II) The estimated level of highway receipts for the purposes of this clause are—
 
@@ -234,7 +234,7 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2002. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 

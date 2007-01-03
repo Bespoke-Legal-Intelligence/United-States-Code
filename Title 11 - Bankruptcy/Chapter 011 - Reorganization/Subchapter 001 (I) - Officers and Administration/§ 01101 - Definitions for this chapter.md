@@ -24,5 +24,5 @@ Paragraph (2), derived from section 229a of current law \[section 629(a) of form
 
 Paragraph (3) defines for purposes of Chapter 11 a public company to mean “a debtor who, within 12 months prior to the filing of a petition for relief under this chapter, had outstanding liabilities of $5 million or more, exclusive of liabilities for goods, services, or taxes and not less than 1,000 security holders.” There are, as noted, special safeguards for public investors related to the reorganization of a public company, as so defined.
 
-Both requirements must be met: liabilities, excluding tax obligations and trade liabilities, must be $5 million or more; and (2) the number of holders of securities,debt or equity, or both, must be not less than 1,000. The amount and number are to be determined as of any time within 12 months prior to the filing of the petition for reorganization.
+Both requirements must be met: liabilities, excluding tax obligations and trade liabilities, must be $5 million or more; and (2) the number of holders of securities, debt or equity, or both, must be not less than 1,000. The amount and number are to be determined as of any time within 12 months prior to the filing of the petition for reorganization.
 

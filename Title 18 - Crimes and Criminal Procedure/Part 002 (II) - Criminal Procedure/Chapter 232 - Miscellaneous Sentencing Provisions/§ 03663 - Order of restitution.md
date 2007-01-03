@@ -1,6 +1,6 @@
 ### §3663. Order of restitution
 
-(a)(1)(A) The court, when sentencing a defendant convicted of an offense under this title, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section), or section 5124, 46312, 46502, or 46504 of title 49, other than an offense described in section3663A(c), may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense, or if the victim is deceased, to the victim's estate. The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
+(a)(1)(A) The court, when sentencing a defendant convicted of an offense under this title, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section), or section 5124, 46312, 46502, or 46504 of title 49, other than an offense described in section 3663A(c), may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense, or if the victim is deceased, to the victim's estate. The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
 
 (B)(i) The court, in determining whether to order restitution under this section, shall consider—
 
@@ -60,7 +60,7 @@
 
 (6) Requests for community restitution under this subsection may be considered in all plea agreements negotiated by the United States.
 
-(7)(A) The United States Sentencing Commission shall promulgate guidelines to assist courtsin determining the amount of restitution that may be ordered under this subsection.
+(7)(A) The United States Sentencing Commission shall promulgate guidelines to assist courts in determining the amount of restitution that may be ordered under this subsection.
 
 (B) No restitution shall be ordered under this subsection until such time as the Sentencing Commission promulgates guidelines pursuant to this paragraph.
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 98–596, §9(1), substituted “court” for “Court” a
 
 Subsec. (f)(4). Pub. L. 98–596, §9(2), added par. (4).
 
-Subsec. (g). Pub. L. 98–473, §212(a)(3)(A), amended subsec. (g) generally. Prior to amendment, subsec. (g) readas follows: “If such defendant is placed on probation or paroled under this title, any restitution ordered under this section shall be a condition of such probation or parole. The court may revoke probation and the Parole Commission may revoke parole if the defendant fails to comply with such order. In determining whether to revoke probation or parole, the court or Parole Commission shall consider the defendant's employment status, earning ability, financial resources, the willfulness of the defendant's failure to pay, and any other special circumstances that may have a bearing on the defendant's ability to pay.”
+Subsec. (g). Pub. L. 98–473, §212(a)(3)(A), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If such defendant is placed on probation or paroled under this title, any restitution ordered under this section shall be a condition of such probation or parole. The court may revoke probation and the Parole Commission may revoke parole if the defendant fails to comply with such order. In determining whether to revoke probation or parole, the court or Parole Commission shall consider the defendant's employment status, earning ability, financial resources, the willfulness of the defendant's failure to pay, and any other special circumstances that may have a bearing on the defendant's ability to pay.”
 
 Subsec. (h). Pub. L. 98–473, §212(a)(3)(B), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided for the collection of fines and penalties by section 3565 or by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 

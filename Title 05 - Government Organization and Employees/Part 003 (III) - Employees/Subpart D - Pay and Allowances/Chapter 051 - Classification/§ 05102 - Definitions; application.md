@@ -84,7 +84,7 @@
 
 &emsp;(9) employees of the Government Printing Office whose pay is fixed under section 305 of title 44;
 
-&emsp;(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 7044 of title 10; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 7043 of title 10; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;
+&emsp;(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10; civilian professors, lecturers, and instructors at the Military Academy, theNaval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 7044 of title 10; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 7043 of title 10; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;
 
 &emsp;(11) aliens or noncitizens of the United States who occupy positions outside the United States;
 
@@ -132,7 +132,9 @@
 
 (d) This chapter does not apply to an employee of the Office of the Architect of the Capitol whose pay is fixed by other statute. Subsection (c) of this section, except paragraph (7), does not apply to the Office of the Architect of the Capitol.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916.)
+(e) Except as may be specifically provided, this chapter does not apply for pay purposes to any employee of the government of the District of Columbia during fiscal year 2006 or any succeeding fiscal year.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040.)
 
 Historical and Revision Notes<br>1966
 
@@ -218,7 +220,7 @@ Oct. 28, 1949, ch. 782, §204(b), 63 Stat. 957.
 
 The section is reorganized and restated for clarity.
 
-In subsection (a)(1)(i), the exception of “a Government controlled corporation” is added to preserve theapplication of this chapter to “corporations wholly owned by the United States”. This is necessary as the defined term “Executive agency” includes the defined term “Government corporation” and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of the chapter to wholly owned corporations.
+In subsection (a)(1)(i), the exception of “a Government controlled corporation” is added to preserve the application of this chapter to “corporations wholly owned by the United States”. This is necessary as the defined term “Executive agency” includes the defined term “Government corporation” and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of the chapter to wholly owned corporations.
 
 In subsection (a)(1)(vii), the words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
 
@@ -285,6 +287,8 @@ Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in
 Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), is classified to section 607 of Title 41, Public Contracts.
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–356 added subsec. (e).
 
 2004—Subsec. (a)(1)(vii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -376,7 +380,7 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 #### Change of Name
 
-Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 202 of Title 3, The President.
+Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 3056a of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1999 Amendment
 
@@ -390,7 +394,7 @@ Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see
 
 Amendment by section 529 \[title I, §§101(b)(9)(F), 104(d)(1)\] of Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective on first day of first applicable pay period beginning on or after the 30th day following Nov.5, 1990, see section 529 \[title I, §109(c)\] of Pub. L. 101–509, set out as an Effective Date note under section 5378 of this title.
+Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective on first day of first applicable pay period beginning on or after the 30th day following Nov. 5, 1990, see section 529 \[title I, §109(c)\] of Pub. L. 101–509, set out as an Effective Date note under section 5378 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -442,7 +446,7 @@ Amendment by Pub. L. 90–610 effective on first day of first pay period which b
 
 #### Effective Date of 1967 Amendment
 
-Section 9(h) of Pub. L. 90–83 provided that: “Section 1(3) \[amending section 1305 of this title\], (10) \[amending section 3324 of this title\], (11) \[amending this section\], (12) \[amending section 5108 of this title\], (22) \[enacting section 5534a of this title\], (23) \[amending the analysis for chapter 55 of this title\], (83)(a) and (d) \[amending section 8344 of this title\], (89) \[amending section 8521 of this title\], (98) \[amending section 902 of this title\], (99) \[amending section 903 of this title\], and (100) \[amending section 8113 of this title\] of this Act is effective as of September 6, 1966, for all purposes.”
+Section 9(h) of Pub. L. 90–83 provided that: “Section 1(3) \[amending section 1305 of this title\], (10) \[amending section 3324 of this title\], (11) \[amending this section\], (12) \[amending section 5108 of this title\], (22) \[enacting section 5534a of this title\], (23) \[amending the analysisfor chapter 55 of this title\], (83)(a) and (d) \[amending section 8344 of this title\], (89) \[amending section 8521 of this title\], (98) \[amending section 902 of this title\], (99) \[amending section 903 of this title\], and (100) \[amending section 8113 of this title\] of this Act is effective as of September 6, 1966, for all purposes.”
 
 #### Repeals
 

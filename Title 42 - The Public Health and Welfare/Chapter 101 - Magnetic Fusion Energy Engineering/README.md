@@ -5,16 +5,8 @@
 | [9301\.](%C2%A7%2009301%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
 | [9302\.](%C2%A7%2009302%20-%20Definitions.md) | Definitions. |
 | [9303\.](%C2%A7%2009303%20-%20Program%20activities.md) | Program activities. |
-| (a) | Development in areas where lack of knowledge limits magnetic fusion energy systems. |
-| (b) | Research programs on plasma confinement, alternate confinement concepts, advanced fuels, and properties of materials likely to be used in construction of fusion engineering devices. |
-| (c) | Fusion engineering device designs. |
-| (d) | Operation of demonstration plant at turn of twenty-first century. |
-| (e) | Assessment of factors in determining commercial introduction of magnetic fusion energy systems. |
 | [9304\.](%C2%A7%2009304%20-%20Comprehensive%20program%20management%20plan%3B%20submittal%20to%20Congressional%20committees.md) | Comprehensive program management plan; submittal to Congressional committees. |
 | [9305\.](%C2%A7%2009305%20-%20Magnetic%20fusion%20engineering%20center.md) | Magnetic fusion engineering center. |
-| (a) | Development plan. |
-| (b) | Factors considered in formulation of development plan. |
-| (c) | Report to Congressional committees. |
 | [9306\.](%C2%A7%2009306%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9346%2C%20title%20V%2C%20%C2%A7509%2C%20Nov.%2013%2C%201995%2C%20109%20Stat.%20421.md) | Repealed. |
 | [9307\.](%C2%A7%2009307%20-%20Program%20advisory%20committees.md) | Program advisory committees. |
 | [9308\.](%C2%A7%2009308%20-%20International%20cooperation%3B%20examination%20of%20impact%20on%20national%20magnetic%20fusion%20program%3B%20exploration%20of%20prospects%20for%20joint%20funding%20in%E2%80%A6.md) | International cooperation; examination of impact on national magnetic fusion program; exploration of prospects for joint funding in construction of fusion engineering device; report to Congressional committees on results of examination and exploration. |

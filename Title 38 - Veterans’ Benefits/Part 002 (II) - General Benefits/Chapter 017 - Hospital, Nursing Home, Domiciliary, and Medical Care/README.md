@@ -82,6 +82,7 @@
 | [1742\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001742%20-%20Inspections%20of%20such%20homes%3B%20restrictions%20on%20beneficiaries.md) | Inspections of such homes; restrictions on beneficiaries. |
 | [1743\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001743%20-%20Applications.md) | Applications. |
 | [1744\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001744%20-%20Hiring%20and%20retention%20of%20nurses%20payments%20to%20assist%20States.md) | Hiring and retention of nurses: payments to assist States. |
+| [1745\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001745%20-%20Nursing%20home%20care%20and%20medications%20for%20veterans%20with%20service-connected%20disabilities.md) | Nursing home care and medications for veterans with service-connected disabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -118,6 +119,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–461, title II, §211(a)(4), Dec. 22, 2006, 120 Stat. 3419, added item 1745.
 
 2004—Pub. L. 108–422, title II, §201(a)(2), Nov. 30, 2004, 118 Stat. 2382, added item 1744.
 

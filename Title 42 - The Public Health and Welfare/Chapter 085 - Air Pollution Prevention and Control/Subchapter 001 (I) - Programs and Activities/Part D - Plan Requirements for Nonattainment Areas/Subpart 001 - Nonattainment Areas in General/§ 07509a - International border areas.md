@@ -40,7 +40,7 @@ Monitoring.—The monitoring component of the program conducted under this secti
 
 &emsp;“(2)
 
-Remediation.—The Administrator is authorized to negotiate with appropriate representatives of Mexico to develop joint remediation measures to reduce the level of airborne pollutants to achieve and maintain primary and secondary NAAQS, and other air quality goals, in regions along the border between the United States and Mexico. Such joint remediation measures may include, but not be limited to measures included in the Environmental Protection Agency's Control Techniques and Control Technology documents. Any such remediation program shall also identify those control measures implementation ofwhich in Mexico would be expedited by the use of material and financial assistance of the United States.
+Remediation.—The Administrator is authorized to negotiate with appropriate representatives of Mexico to develop joint remediation measures to reduce the level of airborne pollutants to achieve and maintain primary and secondary NAAQS, and other air quality goals, in regions along the border between the United States and Mexico. Such joint remediation measures may include, but not be limited to measures included in the Environmental Protection Agency's Control Techniques and Control Technology documents. Any such remediation program shall also identify those control measures implementation of which in Mexico would be expedited by the use of material and financial assistance of the United States.
 
 “(c)
 

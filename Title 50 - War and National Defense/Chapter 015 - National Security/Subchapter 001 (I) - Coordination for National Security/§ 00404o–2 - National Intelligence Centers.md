@@ -16,7 +16,7 @@ The Director of National Intelligence shall, to the extent appropriate and pract
 
 #### (d) Mission of centers
 
-Pursuant to the direction of the Director of National Intelligence, each national intelligence center under subsection (a) of this section may,in the area of intelligence responsibility assigned to such center—
+Pursuant to the direction of the Director of National Intelligence, each national intelligence center under subsection (a) of this section may, in the area of intelligence responsibility assigned to such center—
 
 &emsp;(1) have primary responsibility for providing all-source analysis of intelligence based upon intelligence gathered both domestically and abroad;
 

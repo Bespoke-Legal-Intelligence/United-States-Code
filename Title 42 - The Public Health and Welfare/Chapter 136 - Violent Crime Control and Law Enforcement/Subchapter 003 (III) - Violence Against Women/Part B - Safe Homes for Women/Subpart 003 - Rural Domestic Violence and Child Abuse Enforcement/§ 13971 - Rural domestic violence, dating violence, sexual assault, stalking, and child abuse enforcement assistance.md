@@ -48,7 +48,13 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (1) Allotment for Indian tribes
 
-&emsp;Not less than 10 percent of the total amount made available for each fiscal year to carry out this section shall be allocated for grants to Indian tribes or tribal organizations.
+#### (A) In general
+
+&emsp;&emsp;Not less than 10 percent of the total amount available under this section for eachfiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+
+#### (B) Applicability of part <sup>1</sup>
+
+&emsp;&emsp;The requirements of this section shall not apply to funds allocated for the program described in subparagraph (A).
 
 #### (2) Allotment for sexual assault
 
@@ -82,7 +88,7 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 &emsp;In addition to funds received through a grant under subsection (b) of this section, a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd et seq.) to accomplish the objectives of this section.
 
-(Pub. L. 103–322, title IV, §40295, Sept. 13, 1994, 108 Stat. 1940; Pub. L. 106–386, div. B, title I, §§1105, 1109(d), title V, §1512(c), Oct. 28, 2000, 114 Stat. 1497, 1503, 1533; Pub. L. 109–162, title II, §203, title IX, §906(d), Jan. 5, 2006, 119 Stat. 2998, 3081.)
+(Pub. L. 103–322, title IV, §40295, Sept. 13, 1994, 108 Stat. 1940; Pub. L. 106–386, div. B, title I, §§1105, 1109(d), title V, §1512(c), Oct. 28, 2000, 114 Stat. 1497, 1503, 1533; Pub. L. 109–162, title II, §203, title IX, §906(d), Jan. 5, 2006, 119 Stat. 2998, 3081; Pub. L. 109–271, §7(b)(1), (2)(A), Aug. 12, 2006, 120 Stat. 764.)
 
 #### References in Text
 
@@ -92,7 +98,9 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 2006—Pub. L. 109–162, §203, amended section generally, substituting provisions relating to rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance for provisions relating to rural domestic violence and child abuse enforcement assistance.
 
-Subsec. (c)(3). Pub. L. 109–162, §906(d), which directed the amendment of subsec. (c) by striking par. (3) and inserting a new par. (3) which read “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.”, could not be executed because subsec. (c) did not contain a par. (3) subsequent to general amendment by Pub. L. 109–162, §203. See above.
+Subsec. (c)(3). Pub. L. 109–162, §906(d), which directed the amendment of subsec. (c) by striking par. (3) and inserting a new par. (3) which read “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.”, was repealed by Pub. L. 109–271, §7(b)(2)(A).
+
+Subsec. (d)(1). Pub. L. 109–271, §7(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Not less than 10 percent of the total amount made available for each fiscal year to carry out this section shall be allocated for grants to Indian tribes or tribal organizations.”
 
 2000—Subsec. (a)(1). Pub. L. 106–386, §1109(d)(1), inserted “and dating violence (as defined in section 3796gg–2 of this title)” after “domestic violence”.
 
@@ -109,4 +117,8 @@ Subsec. (c)(1). Pub. L. 106–386, §1105(1), added par. (1) and struck out head
 &emsp;“(C) $15,000,000 for fiscal year 1998.”
 
 Subsec. (c)(3). Pub. L. 106–386, §1105(2), added par. (3).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
 

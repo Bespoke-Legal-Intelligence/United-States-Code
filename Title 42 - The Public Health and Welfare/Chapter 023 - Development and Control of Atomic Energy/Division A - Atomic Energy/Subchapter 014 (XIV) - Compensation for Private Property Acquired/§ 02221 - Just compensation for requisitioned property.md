@@ -24,10 +24,6 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
 #### Retrocession of Land to New Mexico
 
 Section 3 of act Aug. 30, 1954, provided that:

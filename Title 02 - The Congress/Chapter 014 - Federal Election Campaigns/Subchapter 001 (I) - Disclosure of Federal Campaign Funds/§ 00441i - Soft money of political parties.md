@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A national committee of a political party (including a national congressional campaign committee of a political party) may not solicit, receive, or direct to another person a contribution, donation, or transfer of funds or any other thing of value, or spend any funds, that are not subject to the limitations, prohibitions, and reporting requirements of this Act.
+&emsp;A national committee of a political party (including a national congressional campaigncommittee of a political party) may not solicit, receive, or direct to another person a contribution, donation, or transfer of funds or any other thing of value, or spend any funds, that are not subject to the limitations, prohibitions, and reporting requirements of this Act.
 
 #### (2) Applicability
 
@@ -62,7 +62,7 @@ An amount spent by a person described in subsection (a) or (b) of this section t
 
 A national, State, district, or local committee of a political party (including a national congressional campaign committee of a political party), an entity that is directly or indirectly established, financed, maintained, or controlled by any such national, State, district, or local committee or its agent, and an officer or agent acting on behalf of any such party committee or entity, shall not solicit any funds for, or make or direct any donations to—
 
-&emsp;(1) an organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title (or has submitted an application for determination of tax exempt status under such section) and that makes expenditures or disbursements in connection with an election for Federal office (including expenditures or disbursements for Federal election activity); or
+&emsp;(1) an organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title (or has submitted an application for determination of taxexempt status under such section) and that makes expenditures or disbursements in connection with an election for Federal office (including expenditures or disbursements for Federal election activity); or
 
 &emsp;(2) an organization described in section 527 of such title (other than a political committee, a State, district, or local committee of a political party, or the authorized campaign committee of a candidate for State or local office).
 

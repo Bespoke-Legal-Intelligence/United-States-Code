@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report.—Not later than June 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
+Annual Report.—Not later than June 15 of each year, the Secretary shall submit to theCommittees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
 
 (b)
 
@@ -22,7 +22,25 @@ General Contents of Report.—Each report under subsection (a) shall include the
 
 &emsp;(4) The Secretary's evaluation of the effectiveness of programs established by recipients of grants under section 2011 of this title and a description of the experience of those recipients in applying for and receiving grants from the Secretary of Housing and Urban Development to serve primarily homeless persons who are veterans.
 
-&emsp;(5) Any other information on those programs and on the provision of such assistance that the Secretary considers appropriate.
+&emsp;(5) Information on the efforts of the Secretary to coordinate the delivery of housing and services to homeless veterans with other Federal departments and agencies, including—
+
+&emsp;&emsp;(A) the Department of Defense;
+
+&emsp;&emsp;(B) the Department of Health and Human Services;
+
+&emsp;&emsp;(C) the Department of Housing and Urban Development;
+
+&emsp;&emsp;(D) the Department of Justice;
+
+&emsp;&emsp;(E) the Department of Labor;
+
+&emsp;&emsp;(F) the Interagency Council on Homelessness;
+
+&emsp;&emsp;(G) the Social Security Administration; and
+
+&emsp;&emsp;(H) any other Federal department or agency with which the Secretary coordinates the delivery of housing and services to homeless veterans.
+
+&emsp;(6) Any other information on those programs and on the provision of such assistance that the Secretary considers appropriate.
 
 (c)
 
@@ -54,9 +72,11 @@ Benefits Content of Report.—Each report under subsection (a) shall include, wi
 
 &emsp;(4) Other information that the Secretary considers relevant in assessing the programs and activities.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 108–170, title IV, §405(b), Dec. 6, 2003, 117 Stat. 2063.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 108–170, title IV, §405(b), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–461, title VII, §708, Dec. 22, 2006, 120 Stat. 3440.)
 
 #### Amendments
+
+2006—Subsec. (b)(5), (6). Pub. L. 109–461 added par. (5) and redesignated former par. (5) as (6).
 
 2003—Subsec. (a). Pub. L. 108–170 substituted “June 15 of each year” for “April 15 of each year”.
 

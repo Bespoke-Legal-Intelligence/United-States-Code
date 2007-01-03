@@ -2,7 +2,7 @@
 
 #### (a) Recordkeeping
 
-Each recipient of adjustment assistance under this part shall keep records which fully disclose the amount and disposition by such recipient of the proceeds, if any, of such adjustment assistance, and which will facilitate an effective audit. The recipient shall also keep such other records as the Secretary may prescribe.
+Each recipient of adjustment assistance under this part shall keep records which fully disclosethe amount and disposition by such recipient of the proceeds, if any, of such adjustment assistance, and which will facilitate an effective audit. The recipient shall also keep such other records as the Secretary may prescribe.
 
 #### (b) Audit and examination
 
@@ -24,5 +24,5 @@ No financial assistance shall be provided to any firm under this part unless the
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, asamended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

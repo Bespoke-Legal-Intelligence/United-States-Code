@@ -36,7 +36,7 @@
 
 (2) The Secretary concerned may require that a member of a uniformed service who is discharged before completing six months of active duty because of a failure to serve satisfactorily (as determined by the Secretary concerned) forfeit all accrued leave to his credit at the time of his discharge.
 
-(f) The number of days upon which payment under subsection (b) or (g) is based may not exceed sixty, less the number of days for which payment has been previously made under such subsections after February 9, 1976. For the purposes of this subsection, the number of daysupon which payment may be based shall be determined without regard to any break in service or change in status in the uniformed services.
+(f) The number of days upon which payment under subsection (b) or (g) is based may not exceed sixty, less the number of days for which payment has been previously made under such subsections after February 9, 1976. For the purposes of this subsection, the number of days upon which payment may be based shall be determined without regard to any break in service or change in status in the uniformed services.
 
 (g) An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps of the Public Health Service on active duty, who is credited with accumulated and accrued annual leave on the date of his separation, retirement, or release from active duty, shall, if his application for that leave is approved by the Secretary of Health and Human Services, be paid for that leave in a lump-sum on the basis of his basic pay, subsistence allowance, and allowance for quarters whether or not he is receiving that allowance on that date. However, the number of days upon which the lump-sum payment is based is subject to subsection (f). A lump-sum payment may not be made under this subsection to an officer—
 
@@ -46,7 +46,7 @@
 
 &emsp;(3) who is transferred to another department or agency of the United States under circumstances in which, by any other law, his leave may be transferred.
 
-> In this subsection, the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into the next leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
+> In this subsection, the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into the next leave year, and the term “accrued annualleave” means the annual leave accruing to an officer during one leave year.
 
 (h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 92–596 effective Feb. 28, 1961, see section 3 of Pub. L. 
 
 #### Effective Date of 1965 Amendment
 
-Section 4 of Pub. L. 89–151 provided that: “This Act \[amending this section and section 701 of Title 10, Armed Forces\] applies only in the case of members who die on or after the date of enactment \[Aug. 28, 1965\]”.
+Section 4 of Pub. L. 89–151 provided that: “This Act \[amending this section and section 701 of Title 10, Armed Forces\] applies only in the case of members who die on or after the date of enactment \[Aug. 28, 1965\].”
 
 #### Transfer of Functions
 
@@ -210,7 +210,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Treatment of Accumulated Leave in Connection With Active Duty During Persian Gulf Conflict
 
-Section 309(a) of Pub. L. 102–25 provided that: “In the case of a member of the uniformed services who dies asa result of an injury or illness incurred while serving on active duty during the Persian Gulf conflict, the limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section shall not apply with respect to a payment made pursuant to subsection (d) of that section for leave accrued during fiscal year 1990 or 1991.”
+Section 309(a) of Pub. L. 102–25 provided that: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty during the Persian Gulf conflict, the limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section shall not apply with respect to a payment made pursuant to subsection (d) of that section for leave accrued during fiscal year 1990 or 1991.”
 
 Pub. L. 101–510, div. A, title XI, §1115, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, §§309(b), 314(1), (3), Apr. 6, 1991, 105 Stat. 83, 86, provided that:
 
@@ -224,7 +224,7 @@ Inapplicability of Eligibility Limitation.—The limitation in the second senten
 
 &emsp;“(3) Leave accrued by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, a member of the Retired Reserve, or a member of the Fleet Reserve or Fleet Marine Corps Reserve while such retired member or member, as the case may be, is serving on active duty in connection with the Persian Gulf conflict pursuant to an order to active duty authorized by section 688 of title 10, United States Code.
 
-&emsp;“(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
+&emsp;“(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty\(other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
 
 “(b)
 

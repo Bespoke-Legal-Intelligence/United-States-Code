@@ -24,7 +24,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (4) Permissive sale
 
-&emsp;An institution of the System receiving an offer from the previous owner to purchase theproperty at a price less than the appraised value may accept such offer and sell the property to the previous owner. Notice shall be provided to the previous owner of the acceptance or rejection of such offer within 15 days after the receipt of such offer.
+&emsp;An institution of the System receiving an offer from the previous owner to purchase the property at a price less than the appraised value may accept such offer and sell the property to the previous owner. Notice shall be provided to the previous owner of the acceptance or rejection of such offer within 15 days after the receipt of such offer.
 
 #### (5) Rejection of offer of previous owner
 

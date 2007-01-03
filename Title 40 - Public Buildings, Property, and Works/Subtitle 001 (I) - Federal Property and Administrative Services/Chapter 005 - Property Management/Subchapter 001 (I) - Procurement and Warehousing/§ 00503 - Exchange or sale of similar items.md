@@ -40,7 +40,7 @@ June 30, 1949, ch. 288, title II, §201(c), 63 Stat. 384; Pub. L. 93–400, §15
 
 In subsection (a), the words “in such cases” are omitted as unnecessary.
 
-In subsection (b)(1), the words “subject to regulations” are substituted for “subject to regulations andregulations” in section 201(c) of the Federal Property and Administrative Services Act of 1949 to correct an error resulting from an inconsistency between section 8(d)(1) and section 9(a)(2) of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1331).
+In subsection (b)(1), the words “subject to regulations” are substituted for “subject to regulations and regulations” in section 201(c) of the Federal Property and Administrative Services Act of 1949 to correct an error resulting from an inconsistency between section 8(d)(1) and section 9(a)(2) of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1331).
 
 In subsection (b)(2), the words “the authority of” are omitted as unnecessary.
 

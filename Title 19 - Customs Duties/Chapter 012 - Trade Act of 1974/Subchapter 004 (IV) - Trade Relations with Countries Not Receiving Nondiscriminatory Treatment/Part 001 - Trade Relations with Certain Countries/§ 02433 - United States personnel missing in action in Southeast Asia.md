@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, if the President determines that a n
 
 #### (b) Exception
 
-This section shall not apply to any country the products of which are eligible for the ratesset forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975.
+This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975.
 
 (Pub. L. 93–618, title IV, §403, Jan. 3, 1975, 88 Stat. 2060.)
 

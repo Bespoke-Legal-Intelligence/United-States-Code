@@ -20,7 +20,7 @@ Any drug paraphernalia involved in any violation of subsection (a) of this secti
 
 #### (d) “Drug paraphernalia” defined
 
-The term “drug paraphernalia” means any equipment, product, or material of any kindwhich is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
+The term “drug paraphernalia” means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
 
 &emsp;(1) metal, wooden, acrylic, glass, stone, plastic, or ceramic pipes with or without screens, permanent screens, hashish heads, or punctured metal bowls;
 

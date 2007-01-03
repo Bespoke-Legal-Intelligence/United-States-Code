@@ -54,7 +54,7 @@ For purposes of subsection (c)(1) of this section, without the express prior aut
 
 #### (g) Subscriber listed and unlisted information for emergency services
 
-Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide information described in subsection (i)(3)(A) <sup>1</sup> of this section (including informationpertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
+Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide information described in subsection (i)(3)(A) <sup>1</sup> of this section (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possessionor control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
 
 #### (h) Definitions
 

@@ -6,7 +6,7 @@ The Secretary of the department in which the Coast Guard is operating shall, sub
 
 #### (b) Promotion of safety of life and property
 
-The Secretary of the department in which the Coast Guard is operating shall issue and enforce regulations, subject to recognized principles of international law, with respect to lights and other warning devices, safety equipment, and other matters relating to the promotion of safety of life and property on any ocean thermal energy conversion facility or plantship licensed under this chapter.
+The Secretary of the department in which the Coast Guard is operating shall issue and enforce regulations, subject to recognized principles ofinternational law, with respect to lights and other warning devices, safety equipment, and other matters relating to the promotion of safety of life and property on any ocean thermal energy conversion facility or plantship licensed under this chapter.
 
 #### (c) Marking components for protection of navigation
 
@@ -36,7 +36,7 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 &emsp;&emsp;(ii) the President makes a specific finding, with respect to the particular vessel, platform, or moored, fixed or standing structure, that application of this requirement would not be consistent with the national interest.
 
-(3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shall be deemed to be vessels and, if documented, vessels of the United States for the purposes of chapters 301 and 313 of title 46.
+(3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shall be deemed to be vessels and, if documented, vessels of the United States for the purposes of the Ship Mortgage Act, 1920 (46 U.S.C. 911–984).
 
 (4) For the purposes of this subsection the term “ocean thermal energy conversion facility” refers only to an ocean thermal energy conversion facility which has major components other than water intake or discharge pipes located seaward of the highwater mark <sup>1</sup>
 
@@ -46,9 +46,9 @@ Subject to recognized principles of international law, the Secretary of the depa
 
 (Pub. L. 96–320, title I, §108, Aug. 3, 1980, 94 Stat. 986; Pub. L. 98–623, title VI, §602(a)(6), (7), (e)(1), (15), Nov. 8, 1984, 98 Stat. 3410–3412.)
 
-#### Codification
+#### References in Text
 
-In subsec. (e)(3), “chapters 301 and 313 of title 46” substituted for “the Ship Mortgage Act, 1920 (46 U.S.C. 911–984)” on authority of Pub. L. 100–710, §105(a), Nov. 23, 1988, 102 Stat. 4751, section 102(c) of which enacted subtitle III of Title 46, Shipping.
+The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of act June 5, 1920, ch. 250, 41 Stat. 1000, which was classified generally to chapter 25 (§911 et seq.) of former Title 46, Shipping, and was repealed by Pub. L. 100–710, title I, §106(b)(2), Nov. 23, 1988, 102 Stat. 4752, and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, “vessel of the United States”, was subsequently repealed by Pub. L. 109–304, §6(b), Oct. 6, 2006, 120 Stat. 1509. For a definition of “vessel of the United States” as that term applies to Title 46, see section 116 of Title 46.
 
 #### Amendments
 

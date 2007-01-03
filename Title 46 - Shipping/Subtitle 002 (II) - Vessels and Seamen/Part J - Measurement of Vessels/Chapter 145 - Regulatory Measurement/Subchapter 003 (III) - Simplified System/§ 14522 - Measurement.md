@@ -10,7 +10,7 @@
 
 (d) Under regulations prescribed by the Secretary, the Secretary may determine the gross and net tonnages of a vessel representative of a designated class, model, or type, and then assign those gross and net tonnages to other vessels of the same class, model, or type.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1925.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1925.)
 
 #### Historical and Revision Notes
 

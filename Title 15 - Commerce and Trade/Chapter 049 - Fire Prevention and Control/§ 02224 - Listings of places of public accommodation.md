@@ -8,7 +8,7 @@
 
 #### (b) Compilation and distribution of master list
 
-(1) Not later than 60 days after the expiration of the 2-year period referred to in subsection (a) of this section, the Director shall compile and publish in the Federal Register a national master list of all of the places of public accommodation affecting commerce located in each State that meet the requirements of the guidelines described in section 2225 of this title, and shall distribute such list to each agency of the Federal Government and take steps to make the employees of such agencies aware of its existence and contents.
+(1) Not later than 60 days after the expiration of the 2-year period referred to in subsection (a)of this section, the Director shall compile and publish in the Federal Register a national master list of all of the places of public accommodation affecting commerce located in each State that meet the requirements of the guidelines described in section 2225 of this title, and shall distribute such list to each agency of the Federal Government and take steps to make the employees of such agencies aware of its existence and contents.
 
 (2) The Director shall periodically update the national master list compiled pursuant to paragraph (1) to reflect changes in the State lists submitted to the Director pursuant to subsection (a) of this section, and shall periodically redistribute the updated master list to each agency of the Federal Government.
 
@@ -24,5 +24,7 @@ Subsec. (a). Pub. L. 102–522, §104(2), inserted “(acting through its Govern
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

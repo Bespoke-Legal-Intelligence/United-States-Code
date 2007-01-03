@@ -44,7 +44,7 @@ Any determination concerning the location of a chancery under subsection (b)(2) 
 
 #### (e) Consistency of regulations, proceedings, and other actions; review and comment by National Planning Commission
 
-(1) Regulations, proceedings, and other actions of the National Capital Planning Commission, the Zoning Commission for the District of Columbia, and the Board of Zoning Adjustment affecting the location, replacement, or expansion of chanceries shall be consistent with this section (including the criteria set out in subsection (d) of this section) and shall reflect the policy of this chapter.
+(1) Regulations, proceedings, and other actions of the National Capital Planning Commission,the Zoning Commission for the District of Columbia, and the Board of Zoning Adjustment affecting the location, replacement, or expansion of chanceries shall be consistent with this section (including the criteria set out in subsection (d) of this section) and shall reflect the policy of this chapter.
 
 (2) Proposed actions of the Zoning Commission concerning implementation of this section shall be referred to the National Capital Planning Commission for review and comment.
 

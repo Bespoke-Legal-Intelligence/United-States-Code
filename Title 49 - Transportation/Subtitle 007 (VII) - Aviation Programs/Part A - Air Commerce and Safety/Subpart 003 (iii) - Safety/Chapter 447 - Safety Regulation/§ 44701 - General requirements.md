@@ -50,7 +50,7 @@ Bilateral Exchanges of Safety Oversight Responsibilities.—
 
 &emsp;(1)
 
-In general.—Notwithstanding the provisions of this chapter, the Administrator, pursuant to Article 83 bis of the Convention on International Civil Aviation and by a bilateralagreement with the aeronautical authorities of another country, may exchange with that country all or part of their respective functions and duties with respect to registered aircraft under the following articles of the Convention: Article 12 (Rules of the Air); Article 31 (Certificates of Airworthiness); or Article 32a (Licenses of Personnel).
+In general.—Notwithstanding the provisions of this chapter, the Administrator, pursuant to Article 83 bis of the Convention on International Civil Aviation and by a bilateral agreement with the aeronautical authorities of another country, may exchange with that country all or part of their respective functions and duties with respect to registered aircraft under the following articles of the Convention: Article 12 (Rules of the Air); Article 31 (Certificates of Airworthiness); or Article 32a (Licenses of Personnel).
 
 &emsp;(2)
 

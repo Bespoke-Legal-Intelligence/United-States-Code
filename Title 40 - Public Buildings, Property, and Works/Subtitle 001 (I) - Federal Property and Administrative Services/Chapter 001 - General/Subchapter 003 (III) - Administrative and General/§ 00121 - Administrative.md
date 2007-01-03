@@ -88,7 +88,7 @@ Between agencies.—If the Administrator transfers a function from one executive
 
 (f)
 
-Advisory Committees.—The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
+Advisory Committees.—The Administrator may establish advisory committees to provideadvice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
 
 (g)
 
@@ -212,7 +212,7 @@ Space Acquisition
 
 (a) Availability of existing Federally controlled facilities.
 
-(b) Utilization of buildings of historic, architectural, or cultural significance within the meaning of section 105 of the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2507, 40 U.S.C. 612a) \[now 40 U.S.C. 3306\].
+(b) Utilization of buildings of historic, architectural, or cultural significance within the meaning of section105 of the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2507, 40 U.S.C. 612a) \[now 40 U.S.C. 3306\].
 
 (c) Acquisition or utilization of existing privately owned facilities.
 
@@ -288,7 +288,7 @@ Sec. 2. (a) The Secretary of Labor (“Secretary”) may investigate an organiza
 
 (b) The Secretary shall receive and may investigate complaints by employees of any entity covered under section 2(a) of this order where such complaints allege lawfully striking employees have been permanently replaced.
 
-(c) The Secretary may hold such hearings, public or private, as he or she deems advisable, to determinewhether an entity covered under section 2(a) has permanently replaced lawfully striking employees.
+(c) The Secretary may hold such hearings, public or private, as he or she deems advisable, to determine whether an entity covered under section 2(a) has permanently replaced lawfully striking employees.
 
 Sec. 3. (a) When the Secretary determines that a contractor has permanently replaced lawfully striking employees, the Secretary may make a finding that it is appropriate to terminate the contract for convenience. The Secretary shall transmit that finding to the head of any department or agency that contracts with the contractor.
 

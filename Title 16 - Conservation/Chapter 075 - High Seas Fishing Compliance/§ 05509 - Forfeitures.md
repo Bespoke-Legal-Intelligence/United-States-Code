@@ -30,7 +30,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 > upon receipt of a satisfactory bond or other security from any person claiming such property. Such bond or other security shall be conditioned upon such person delivering such property to the appropriate court upon order thereof, without any impairment of its value, or paying the monetary value of such property pursuant to an order of such court. Judgment shall be recoverable on such bond or other security against both the principal and any sureties in the event that any condition thereof is breached, as determined by such court.
 
-(2) Any living marine resources seized pursuant to this chapter may be sold, subject to the approval of the appropriate court, for not less than the fair market value thereof. The proceedsof any such sale shall be deposited with such court pending the disposition of the matter involved.
+(2) Any living marine resources seized pursuant to this chapter may be sold, subject to the approval of the appropriate court, for not less than the fair market value thereof. The proceeds of any such sale shall be deposited with such court pending the disposition of the matter involved.
 
 #### (e) Rebuttable presumption
 

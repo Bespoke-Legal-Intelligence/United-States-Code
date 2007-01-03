@@ -32,10 +32,13 @@
 | [2226\.](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md) | Contracted property and services: prompt payment of vouchers. |
 | [2227\.](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md) | Electronic submission and processing of claims for contract payments. |
 | [2228\.](%C2%A7%2002228%20-%20Military%20equipment%20and%20infrastructure%20prevention%20and%20mitigation%20of%20corrosion.md) | Military equipment and infrastructure: prevention and mitigation of corrosion. |
+| [2229\.](%C2%A7%2002229%20-%20Strategic%20policy%20on%20prepositioning%20of%20materiel%20and%20equipment.md) | Strategic policy on prepositioning of materiel and equipment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title III, §351(b), Oct. 17, 2006, 120 Stat. 2160, added item 2229.
 
 2004—Pub. L. 108–375, div. A, title III, §332(a)(2), title VI, §651(f)(2), Oct. 28, 2004, 118 Stat. 1854, 1972, struck out item 2219 “Retention of morale, welfare, and recreation funds by military installations: limitation” and added item 2222.
 
@@ -47,7 +50,7 @@
 
 1999—Pub. L. 106–65, div. A, title X, §1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
 
-1998—Pub. L. 105–261, div. A, title III, §331(a)(2), title IX, §§906(f)(1), 911(a)(2), title X, §1008(b), Oct. 17, 1998,112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
+1998—Pub. L. 105–261, div. A, title III, §331(a)(2), title IX, §§906(f)(1), 911(a)(2), title X, §1008(b), Oct. 17, 1998, 112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
 
 1997—Pub. L. 105–85, div. A, title X, §1008(a)(2), Nov. 18, 1997, 111 Stat. 1871, added item 2222.
 
@@ -116,3 +119,4 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02226 - Contracted property and services prompt payment of vouchers](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md)
 - [&sect; 02227 - Electronic submission and processing of claims for contract payments](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md)
 - [&sect; 02228 - Military equipment and infrastructure prevention and mitigation of corrosion](%C2%A7%2002228%20-%20Military%20equipment%20and%20infrastructure%20prevention%20and%20mitigation%20of%20corrosion.md)
+- [&sect; 02229 - Strategic policy on prepositioning of materiel and equipment](%C2%A7%2002229%20-%20Strategic%20policy%20on%20prepositioning%20of%20materiel%20and%20equipment.md)

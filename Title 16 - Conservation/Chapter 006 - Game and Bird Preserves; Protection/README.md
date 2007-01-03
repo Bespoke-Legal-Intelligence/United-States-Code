@@ -8,8 +8,6 @@
 | [673a.](%C2%A7%2000673a%20-%20Addition%20to%20the%20Wyoming%20Elk%20Reserve.md) | Addition to the Wyoming Elk Reserve. |
 | [673b.](%C2%A7%2000673b%20-%20National%20Elk%20Refuge%20in%20Wyoming.md) | National Elk Refuge in Wyoming. |
 | [673c.](%C2%A7%2000673c%20-%20Conservation%20of%20elk%20in%20Wyoming.md) | Conservation of elk in Wyoming. |
-| (a) | Creation of program; licensed hunters deputized as rangers. |
-| (b) | Recommendations by Wyoming Game and Fish Commission, and National Park Service; controlled reduction; deputation of hunters; removal of carcasses. |
 | [673d.](%C2%A7%2000673d%20-%20Restoration%20and%20conservation%20of%20elk%20in%20California.md) | Restoration and conservation of elk in California. |
 | [673e.](%C2%A7%2000673e%20-%20Cooperation%20of%20Secretaries%20of%20the%20Interior%2C%20Agriculture%20and%20Defense%20with%20State%20of%20California.md) | Cooperation of Secretaries of the Interior, Agriculture and Defense with State of California. |
 | [673f.](%C2%A7%2000673f%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IX%2C%20%C2%A7901%28b%29%281%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203289.md) | Repealed. |
@@ -46,8 +44,6 @@
 | [690c.](%C2%A7%2000690c%20-%20Existence%20of%20easements%2C%20reservations%2C%20or%20exceptions%20as%20barring%20acquisition%20of%20lands.md) | Existence of easements, reservations, or exceptions as barring acquisition of lands. |
 | [690d.](%C2%A7%2000690d%20-%20Injuries%20to%20property%20on%20Bear%20River%20Refuge%3B%20disturbance%20of%20birds%2C%20etc.%3B%20violation%20of%20regulations%20for%20use%20of%20refuge.md) | Injuries to property on Bear River Refuge; disturbance of birds, etc.; violation of regulations for use of refuge. |
 | [690e.](%C2%A7%2000690e%20-%20Enforcement%20of%20laws%20and%20regulations%3B%20warrants%20and%20processes%3B%20jurisdiction%20of%20courts%3B%20forfeiture%20of%20property%20captured%2C%20injured%2C%20killed%20or%E2%80%A6.md) | Enforcement of laws and regulations; warrants and processes; jurisdiction of courts; forfeiture of property captured, injured, killed or removed. |
-| (a) | Arrests and warrants. |
-| (b) | Seizures and forfeitures. |
 | [690f.](%C2%A7%2000690f%20-%20Expenditures%20by%20Secretary%20of%20the%20Interior%20for%20construction%2C%20maintenance%2C%20etc.%2C%20of%20Bear%20River%20Refuge%3B%20employment%20of%20necessary%20means%20to%E2%80%A6.md) | Expenditures by Secretary of the Interior for construction, maintenance, etc., of Bear River Refuge; employment of necessary means to execute functions imposed on him. |
 | [690g.](%C2%A7%2000690g%20-%20Violation%20of%20laws%20and%20regulations%3B%20penalties.md) | Violation of laws and regulations; penalties. |
 | [690h.](%C2%A7%2000690h%20-%20%E2%80%9CPerson%E2%80%9D%20defined.md) | “Person” defined. |
@@ -77,10 +73,6 @@
 | [695g.](%C2%A7%2000695g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [695h.](%C2%A7%2000695h%20-%20Ownership%20by%20State%20of%20California%20of%20works%20constructed.md) | Ownership by State of California of works constructed. |
 | [695i.](%C2%A7%2000695i%20-%20Authorization%20of%20Secretary%20of%20the%20Interior%20to%20contract%20for%20water%20delivery%3B%20nonreimbursable%20or%20nonreturnable%20basis%20of%20delivery.md) | Authorization of Secretary of the Interior to contract for water delivery; nonreimbursable or nonreturnable basis of delivery. |
-| (a) | Amount and time of water delivery to Service. |
-| (b) | Construction, operation, and maintenance of water conveyance facilities. |
-| (c) | Reversionary rights of Secretary. |
-| (d) | Restrictive covenants. |
 | [695j.](%C2%A7%2000695j%20-%20Conformity%20of%20water%20use%20with%20California%20laws%3B%20construction%20of%20sections%20695d%20to%20695j%E2%80%931.md) | Conformity of water use with California laws; construction of sections 695d to 695j–1. |
 | 695j–1. | Conformity of contracts with Federal law through negotiation of amendments. |
 | [695k.](%C2%A7%2000695k%20-%20Congressional%20declaration%20of%20policy%20for%20preservation%20of%20habitat%20for%20migratory%20waterfowl%20and%20prevention%20of%20depredations%20on%20agricultural%E2%80%A6.md) | Congressional declaration of policy for preservation of habitat for migratory waterfowl and prevention of depredations on agricultural crops. |
@@ -96,185 +88,50 @@
 | [696b.](%C2%A7%2000696b%20-%20Authorization%20of%20appropriations%3B%20limitation.md) | Authorization of appropriations; limitation. |
 | 697, 697a. | Omitted. |
 | [698\.](%C2%A7%2000698%20-%20Big%20Thicket%20National%20Preserve.md) | Big Thicket National Preserve. |
-| (a) | Establishment. |
-| (b) | Location; boundaries; publication in Federal Register. |
-| (c) | Methods of acquisition of land. |
-| (d) | Exchanges of land. |
-| (e) | Indian Springs Youth Camp. |
 | [698a.](%C2%A7%2000698a%20-%20Acquisition%20of%20property%20for%20Big%20Thicket%20Preserve.md) | Acquisition of property for Big Thicket Preserve. |
-| (a) | Mineral rights; easements; improved properties. |
-| (b) | Plan to Congressional committees; time; contents. |
-| (c) | Completion of land acquisition program; time. |
 | [698b.](%C2%A7%2000698b%20-%20Right%20of%20use%20and%20occupancy%20of%20improved%20property%20on%20Big%20Thicket%20Preserve.md) | Right of use and occupancy of improved property on Big Thicket Preserve. |
-| (a) | Election of right of use and occupancy; payment of fair market value; termination of right. |
-| (b) | “Improved property” defined. |
-| (c) | Waiver of right to relocation assistance by election of right of use and occupancy. |
 | [698c.](%C2%A7%2000698c%20-%20Administration%20of%20Big%20Thicket%20Preserve.md) | Administration of Big Thicket Preserve. |
-| (a) | Natural and ecological integrity. |
-| (b) | Limitation on construction of roads, campgrounds, etc.; rules and regulations for use of Federal lands and waters. |
-| (c) | Hunting, fishing, and trapping authorized in accordance with applicable Federal and State laws; consultation with appropriate State agency prior to implementation of regulations restricting activities. |
 | [698d.](%C2%A7%2000698d%20-%20Review%20of%20Big%20Thicket%20Preserve%20area%20by%20Secretary%3B%20report%20to%20President.md) | Review of Big Thicket Preserve area by Secretary; report to President. |
 | [698e.](%C2%A7%2000698e%20-%20Authorization%20of%20appropriations%20for%20Big%20Thicket%20Preserve.md) | Authorization of appropriations for Big Thicket Preserve. |
 | [698f.](%C2%A7%2000698f%20-%20Big%20Cypress%20National%20Preserve%3B%20Big%20Cypress%20National%20Preserve%20Addition.md) | Big Cypress National Preserve; Big Cypress National Preserve Addition. |
-| (a) | Establishment. |
-| (b) | Location; boundaries; publication in Federal Register; area. |
-| (c) | Methods of acquisition of land; prerequisites to Federal appropriations; improved property; oil and gas rights; appraisal of property; transfer of Federal property to Secretary. |
-| (d) | Land within Addition; United States share of acquisition costs. |
 | [698g.](%C2%A7%2000698g%20-%20Acquisition%20of%20lands%20for%20Big%20Cypress%20Preserve.md) | Acquisition of lands for Big Cypress Preserve. |
-| (a) | Expeditious acquisition of Florida lands. |
-| (b) | Submission of plan to Congressional committees; time; contents. |
-| (c) | Time for completion of land acquisition program. |
 | [698h.](%C2%A7%2000698h%20-%20Right%20of%20use%20and%20occupancy%20of%20improved%20property%20on%20Big%20Cypress%20Preserve%20and%20Addition.md) | Right of use and occupancy of improved property on Big Cypress Preserve and Addition. |
-| (a) | Election of right of use and occupancy; payment of fair market value; termination of right. |
-| (b) | “Improved property” defined. |
-| (c) | Waiver of right to relocation assistance by election of right of use and occupancy. |
 | [698i.](%C2%A7%2000698i%20-%20Administration%20of%20Big%20Cypress%20Preserve%3B%20applicability%20of%20other%20laws%3B%20rules%20and%20regulations%20for%20use%20of%20lands%20and%20waters%3B%20transportation%E2%80%A6.md) | Administration of Big Cypress Preserve; applicability of other laws; rules and regulations for use of lands and waters; transportation facilities; consultation and cooperation with Secretary of Transportation. |
 | [698j.](%C2%A7%2000698j%20-%20Hunting%2C%20fishing%2C%20and%20trapping%20in%20Big%20Cypress%20Preserve%20and%20Addition%20authorized%20in%20accordance%20with%20applicable%20Federal%20and%20State%20laws%E2%80%A6.md) | Hunting, fishing, and trapping in Big Cypress Preserve and Addition authorized in accordance with applicable Federal and State laws; consultation with appropriate State agency prior to implementation of regulations restricting activities; land use and retention rights of Miccosukee and Seminole Indian Tribes. |
 | [698k.](%C2%A7%2000698k%20-%20Contracts%20for%20providing%20visitor%20services%20in%20Big%20Cypress%20Preserve%20and%20Addition%3B%20right%20of%20first%20refusal%20to%20Miccosukee%20and%20Seminole%20Tribes.md) | Contracts for providing visitor services in Big Cypress Preserve and Addition; right of first refusal to Miccosukee and Seminole Tribes. |
 | 698<i>l.</i> | Review of Big Cypress Preserve area and Addition area by Secretary; report to President. |
 | [698m.](%C2%A7%2000698m%20-%20Authorization%20of%20appropriations%20for%20Big%20Cypress%20Preserve%20and%20Addition.md) | Authorization of appropriations for Big Cypress Preserve and Addition. |
 | 698m–1. | Big Cypress National Preserve Addition. |
-| (a) | Establishment. |
-| (b) | Location; boundaries; publication in Federal Register. |
-| (c) | Designation; management. |
-| (d) | Completion of land acquisition; time. |
 | 698m–2. | Establishment of recreational access points, roads, etc., in conjunction with creation of Big Cypress National Preserve Addition; cooperation among agencies. |
 | 698m–3. | Status of Big Cypress National Preserve and Addition; report to Congress; plan. |
 | 698m–4. | Oil and gas exploration, development, and production in Big Cypress National Preserve and Addition. |
-| (a) | Promulgation of rules and regulations. |
-| (b) | Contents of rule or regulation; permit from National Park Service. |
-| (c) | Activities to conform to requirements of National Park Service. |
-| (d) | Consideration of practices used in similar habitats or ecosystems. |
-| (e) | Interim agreements with owners of non-Federal oil and gas interests prior to promulgation of rules and regulations. |
-| (f) | Minerals Management Office; establishment; duties. |
-| (g) | Authorization of appropriations. |
 | [698n.](%C2%A7%2000698n%20-%20Timucuan%20Ecological%20and%20Historic%20Preserve.md) | Timucuan Ecological and Historic Preserve. |
-| (a) | Establishment. |
-| (b) | Land acquisition. |
-| (c) | Administration. |
-| (d) | Development of multiunit residential/resort project. |
 | 698<i>o.</i> | Protection of significant historic assets. |
 | [698p.](%C2%A7%2000698p%20-%20Integrated%20administration%20and%20interpretation.md) | Integrated administration and interpretation. |
 | [698q.](%C2%A7%2000698q%20-%20Little%20River%20Canyon%20National%20Preserve%3B%20establishment.md) | Little River Canyon National Preserve; establishment. |
-| (a) | In general. |
-| (b) | Area included. |
-| (c) | Map. |
-| (d) | Publication of description. |
 | [698r.](%C2%A7%2000698r%20-%20Administration.md) | Administration. |
-| (a) | In general. |
-| (b) | Hunting and fishing. |
-| (c) | Water resources projects. |
-| (d) | Cooperative agreements with State. |
-| (e) | DeSoto State Park. |
-| (f) | Public involvement. |
-| (g) | Green Pitcher Plant. |
 | [698s.](%C2%A7%2000698s%20-%20Acquisition.md) | Acquisition. |
-| (a) | Authorization. |
-| (b) | Negotiations for acquisition. |
-| (c) | Environmental audits. |
-| (d) | Future additions. |
 | [698t.](%C2%A7%2000698t%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [698u.](%C2%A7%2000698u%20-%20Tallgrass%20Prairie%20National%20Preserve%20findings%20and%20purposes.md) | Tallgrass Prairie National Preserve: findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
 | 698u–1. | Definitions. |
 | 698u–2. | Establishment of Tallgrass Prairie National Preserve. |
-| (a) | In general. |
-| (b) | Description. |
 | 698u–3. | Administration of National Preserve. |
-| (a) | In general. |
-| (b) | Application of regulations. |
-| (c) | Facilities. |
-| (d) | Liability. |
-| (e) | Unit of National Park System. |
-| (f) | Agreement and donations. |
-| (g) | General management plan. |
 | 698u–4. | Limited authority to acquire. |
-| (a) | In general. |
-| (b) | Payments in lieu of taxes. |
-| (c) | Prohibitions. |
 | 698u–5. | Advisory Committee. |
-| (a) | Establishment. |
-| (b) | Duties. |
-| (c) | Membership. |
-| (d) | Terms. |
-| (e) | Chairperson. |
-| (f) | Meetings. |
-| (g) | Quorum. |
-| (h) | Compensation. |
-| (i) | Charter. |
 | 698u–6. | Restriction on authority. |
 | 698u–7. | Authorization of appropriations. |
 | [698v.](%C2%A7%2000698v%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
 | 698v–1. | Definitions. |
 | 698v–2. | Acquisition of lands. |
-| (a) | Acquisition of Baca ranch. |
-| (b) | Addition of land to Bandelier National Monument. |
-| (c) | Plat and maps. |
-| (d) | Watershed management report. |
-| (e) | Outstanding mineral interests. |
-| (f) | Boundaries of the Baca ranch. |
-| (g) | Pueblo of Santa Clara. |
 | 698v–3. | The Valles Caldera National Preserve. |
-| (a) | Establishment. |
-| (b) | Purposes. |
-| (c) | Management authority. |
-| (d) | Eligibility for payment in lieu of taxes. |
-| (e) | Withdrawals. |
-| (f) | Fish and game. |
-| (g) | Redondo Peak. |
 | 698v–4. | The Valles Caldera Trust. |
-| (a) | Establishment. |
-| (b) | Corporate purposes. |
-| (c) | Necessary powers. |
-| (d) | Staff. |
-| (e) | Government Corporation. |
-| (f) | Taxes. |
-| (g) | Donations. |
-| (h) | Proceeds. |
-| (i) | Restrictions on disposition of receipts. |
-| (j) | Suits. |
-| (k) | Bylaws. |
-| (<i>l</i>) | Insurance and bond. |
-| (m) | Name and insignia. |
 | 698v–5. | Board of Trustees. |
-| (a) | In general. |
-| (b) | Initial appointments. |
-| (c) | Terms. |
-| (d) | Quorum. |
-| (e) | Organization and compensation. |
-| (f) | Liability of trustees. |
-| (g) | Meetings. |
 | 698v–6. | Resource management. |
-| (a) | Assumption of management. |
-| (b) | Management responsibilities. |
-| (c) | Authorities. |
-| (d) | Management program. |
-| (e) | Public use and recreation. |
-| (f) | Applicable laws. |
-| (g) | Law enforcement and fire management. |
 | 698v–7. | Authorities of the Secretary. |
-| (a) | In general. |
-| (b) | Interim management. |
-| (c) | Secretarial authority. |
-| (d) | Access. |
 | 698v–8. | Termination of the Trust. |
-| (a) | In general. |
-| (b) | Recommendations. |
-| (c) | Effect of termination. |
-| (d) | Assets. |
-| (e) | Valles Caldera Fund. |
 | 698v–9. | Limitations on funding. |
-| (a) | Authorization of appropriations. |
-| (b) | Schedule of appropriations. |
 | 698v–10. | Government Accountability Office study. |
-| (a) | Initial study. |
-| (b) | Second study. |
 | [698w.](%C2%A7%2000698w%20-%20Special%20management%20requirements%20for%20Federal%20lands%20recently%20added%20to%20Craters%20of%20the%20Moon%20National%20Monument%2C%20Idaho.md) | Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho. |
-| (a) | Redesignation. |
-| (b) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

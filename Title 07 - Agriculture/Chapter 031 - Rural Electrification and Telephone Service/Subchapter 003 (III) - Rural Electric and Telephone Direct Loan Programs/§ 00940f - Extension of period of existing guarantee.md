@@ -24,7 +24,7 @@ Subject to the limitations in this section and the provisions of the Federal Cre
 
 #### (4) Period of extension
 
-&emsp;Extensions under this section shall in no case result in a final maturity greater than 55 years from the time of original disbursement and shall in no case result in a final maturity greater than the useful life of the plant.
+&emsp;Extensions under this section shall in no case result in a final maturity greater than 55years from the time of original disbursement and shall in no case result in a final maturity greater than the useful life of the plant.
 
 #### (5) Number of extensions
 
@@ -48,5 +48,5 @@ Subject to the limitations in this section and the provisions of the Federal Cre
 
 #### References in Text
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub.L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 

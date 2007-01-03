@@ -2,13 +2,17 @@
 
 (a)
 
-Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from chemical or biological attack or otherwise to respond to such an attack so as to enable such centers to fulfill their obligations as part of the Federal response to public health emergencies.
+Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respond to such such <sup>1</sup> an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
 
 (2) Actions under paragraph (1) shall include—
 
-&emsp;(A) the provision of decontamination equipment and personal protection equipment at Department medical centers; and
+&emsp;(A) the provision of decontamination equipment and personal protection equipment at Department medical centers;
 
-&emsp;(B) the provision of training in the use of such equipment to staff of such centers.
+&emsp;(B) the provision of training in the use of such equipment to staff of such centers;
+
+&emsp;(C) organizing, training, and equipping the staff of such centers to support the activities carried out by the Secretary of Health and Human Services under section 2801 of the Public Health Service Act in the event of a public health emergency and incidents covered by the National Response Plan developed pursuant to section 502(6) <sup>2</sup> of the Homeland Security Act of 2002, or any successor plan; and
+
+&emsp;(D) providing medical logistical support to the National Disaster Medical System and the Secretary of Health and Human Services as necessary, on a reimbursable basis, and in coordination with other designated Federal agencies.
 
 (b)
 
@@ -24,17 +28,17 @@ Security at Department Medical and Research Facilities.—(1) The Secretary shal
 
 (c)
 
-Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a variety of purposes, including response to a chemical or biological attack or other terrorist attack.
+Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a variety of purposes, including response to a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.
 
 (d)
 
-Training.—The Secretary shall ensure that the Department medical centers, in consultation with the accredited medical school affiliates of such medical centers, develop and implement curricula to train resident physicians and health care personnel in medical matters relating to biological, chemical, or radiological attacks or attacks from an incendiary or other explosive weapon.
+Training.—The Secretary shall ensure that the Department medical centers, in consultation with the accredited medical school affiliates of such medical centers, implement curricula to train resident physicians and health care personnel in medical matters relating to public health emergencies or attacks from an incendiary or other explosive weapon consistent with section 319F(a) of the Public Health Service Act.
 
 (e)
 
-Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)).
+Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11(b)).<sup>3</sup>
 
-(2) The Secretary shall establish and maintain the training program under paragraph (1) in accordance with the recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)).
+(2) The Secretary shall establish and maintain the training program under paragraph (1) in accordance with the recommendations of the working group on the prevention, preparedness, and response to public health emergencies established under section 319F of the Public Health Service Act (42 U.S.C. 247d–6(a)).<sup>4</sup>
 
 (3) The Secretary shall establish and maintain the training program under paragraph (1) in consultation with the following:
 
@@ -42,7 +46,7 @@ Participation in National Disaster Medical System.—(1) The Secretary shall est
 
 &emsp;(B) The Secretary of Health and Human Services.
 
-&emsp;(C) The Director of the Federal Emergency Management Agency.
+&emsp;(C) The Administrator of the Federal Emergency Management Agency.
 
 (f)
 
@@ -64,17 +68,45 @@ Mental Health Counseling.—(1) With respect to activities conducted by personne
 
 (3) The Secretary shall develop and maintain the strategies under paragraph (1) in consultation with the Secretary of Health and Human Services, the American Red Cross, and the working group referred to in subsection (e)(2).
 
-(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030.)
+(g)
+
+Authorization of Appropriations.—There are authorized to be appropriated, such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011.
+
+(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863.)
 
 #### References in Text
 
+Sections 319F, 2801, and 2812 of the Public Health Service Act, referred to in subsecs. (a)(1), (2)(C) and (d), are classified to sections 247d–6, 300hh, and 300hh–11, respectively, of Title 42, The Public Health and Welfare.
+
+Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and reclassification as section 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
+
 Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is section 154(b)(1) of Pub. L. 107–188, which is set out as a note below.
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–417, §306(a)(1)(A), substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
+
+Subsec. (a)(2)(C), (D). Pub. L. 109–417, §306(a)(1)(B), added subpars. (C) and (D).
+
+Subsec. (c). Pub. L. 109–417, §306(a)(2), substituted “a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.” for “a chemical or biological attack or other terrorist attack.”
+
+Subsec. (d). Pub. L. 109–417, §306(a)(3), struck out “develop and” before “implement curricula”, substituted “public health emergencies” for “biological, chemical, or radiological attacks”, and inserted “consistent with section 319F(a) of the Public Health Service Act” before period at end.
+
+Subsec. (e)(1). Pub. L. 109–417, §306(a)(4)(A), substituted “2812” for “2811(b)”.
+
+Subsec. (e)(2). Pub. L. 109–417, §306(a)(4)(B), struck out “bioterrorism and other” after “response to” and substituted “319F” for “319F(a)”.
+
+Subsec. (g). Pub. L. 109–417, §306(b), added subsec. (g).
+
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (e)(3)(C) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Enhancement of Emergency Preparedness of Department of Veterans Affairs
 
@@ -113,4 +145,12 @@ Authorization of Appropriations.—There is hereby authorized to be appropriated
 &emsp;&emsp;“(A) $33,000,000 for fiscal year 2002; and
 
 &emsp;&emsp;“(B) such sums as may be necessary for each of fiscal years 2003 through 2006.”
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “(42 U.S.C. 300hh–11).”</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “(42 U.S.C. 247d–6).”</i>
 

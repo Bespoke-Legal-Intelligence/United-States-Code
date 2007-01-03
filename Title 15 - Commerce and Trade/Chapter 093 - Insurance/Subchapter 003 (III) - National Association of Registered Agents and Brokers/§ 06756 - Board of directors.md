@@ -26,7 +26,7 @@ The Board shall have such powers and authority as may be specified in the bylaws
 
 #### (B) Alternate composition
 
-&emsp;&emsp;If any of the State insurance regulators described in subparagraph (A) declines toserve on the Board, the State insurance regulator with the next greatest total dollar amount of commercial-lines insurance in place, as determined by the NAIC as of the end of such period, shall serve as a member of the Board.
+&emsp;&emsp;If any of the State insurance regulators described in subparagraph (A) declines to serve on the Board, the State insurance regulator with the next greatest total dollar amount of commercial-lines insurance in place, as determined by the NAIC as of the end of such period, shall serve as a member of the Board.
 
 #### (C) Inoperability
 

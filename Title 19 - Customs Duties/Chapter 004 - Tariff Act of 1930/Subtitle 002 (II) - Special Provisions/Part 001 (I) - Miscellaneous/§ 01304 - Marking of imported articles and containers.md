@@ -62,13 +62,13 @@ The marking requirements of subsections (a) and (b) of this section shall not ap
 
 The marking requirements of subsections (a) and (b) of this section shall not apply either to—
 
-&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule ofthe United States, as in effect on January 1, 1997; or
+&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1997; or
 
 &emsp;(2) articles provided for in heading 5007 of the Harmonized Tariff Schedule of the United States as in effect on January 1, 1997.
 
 #### (i) Additional duties for failure to mark
 
-If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
+If at the time of importation any article (or its container, as provided in subsection (b) ofthis section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 
 #### (j) Delivery withheld until marked
 
@@ -122,7 +122,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 #### (D) Judicial review
 
-&emsp;&emsp;For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
+&emsp;&emsp;For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petitionof an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
 
 #### (<i>l</i>) Penalties
 
@@ -264,5 +264,5 @@ Section 207(b) of Pub. L. 103–182 provided that: “Articles that qualify as g
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

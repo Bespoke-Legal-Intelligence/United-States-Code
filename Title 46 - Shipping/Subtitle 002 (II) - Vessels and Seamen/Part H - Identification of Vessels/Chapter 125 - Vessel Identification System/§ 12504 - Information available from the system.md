@@ -6,7 +6,7 @@ For law enforcement or other purposes and under conditions prescribed by the Sec
 
 &emsp;(2) may make available information in the vessel identification system to others.
 
-(Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4736; Pub. L. 101–225, title III, §302(3), Dec. 12, 1989, 103 Stat. 1923.)
+(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4736; amended Pub. L. 101–225, title III, §302(3), Dec. 12, 1989, 103 Stat. 1923.)
 
 #### Historical and Revision Notes
 

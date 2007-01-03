@@ -48,7 +48,7 @@
 
 (f) Section 14(a)(2) of the Federal Advisory Committee Act shall not apply to the Council.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89,§3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, §661(a)(6), Oct. 5, 1999, 113 Stat. 672.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, §3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, §661(a)(6), Oct. 5, 1999, 113 Stat. 672.)
 
 #### References in Text
 

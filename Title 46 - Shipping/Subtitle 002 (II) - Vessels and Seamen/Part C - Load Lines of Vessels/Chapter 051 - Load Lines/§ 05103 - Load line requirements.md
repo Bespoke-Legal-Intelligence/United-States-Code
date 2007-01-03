@@ -16,7 +16,3 @@ Section 5103(a) prohibits a vessel that is subject to load line requirements fro
 
 Section 5103(b) requires that load lines be permanently and conspicuously maintained in the manner prescribed by the Secretary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5110, 5116 of this title.
-

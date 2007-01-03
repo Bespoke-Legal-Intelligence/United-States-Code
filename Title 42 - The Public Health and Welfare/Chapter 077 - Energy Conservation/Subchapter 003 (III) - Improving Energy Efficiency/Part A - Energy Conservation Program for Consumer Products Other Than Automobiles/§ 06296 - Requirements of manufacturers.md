@@ -44,7 +44,7 @@ Each manufacturer shall use labels reflecting the range data required to be disc
 
 1992—Subsec. (b)(4). Pub. L. 102–486, §123(g)(1), inserted “or water use” after “consumption”.
 
-Subsec. (d)(1). Pub. L. 102–486, §123(g)(2), substituted “, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use” for “or energy use”.
+Subsec. (d)(1). Pub. L. 102–486, §123(g)(2), substituted “, energy use, or, in the case of showerheads, faucets,water closets, and urinals, water use” for “or energy use”.
 
 1987—Subsec. (a). Pub. L. 100–12, §11(b)(3)(A), inserted heading.
 

@@ -20,7 +20,7 @@ Nothing in this chapter shall prevent the Administrator of General Services from
 
 #### Codification
 
-In subsec. (a), the phrase “such officers and agencies of the General Services Administration as he may designate” substituted for “any Deputy Director” on authority of section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+In subsec. (a), the phrase “such officers and agencies of the General Services Administration as he may designate” substituted for “any Deputy Director” on authority of section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) offormer Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Transfer of Functions
 

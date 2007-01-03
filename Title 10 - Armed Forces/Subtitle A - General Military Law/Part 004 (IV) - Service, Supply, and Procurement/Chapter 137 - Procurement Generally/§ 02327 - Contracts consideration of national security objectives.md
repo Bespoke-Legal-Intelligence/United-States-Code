@@ -40,7 +40,7 @@ Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that
 
 List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall develop and maintain a list of all firms and subsidiaries of firms that the Secretary has identified as being subject to the prohibition in subsection (b).
 
-(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2). Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretarydetermines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
+(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2). Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
 
 (B) A firm or subsidiary of a firm included on the list may request the Secretary to remove such firm or subsidiary from the list on the basis that it has been erroneously included on the list or its ownership circumstances have significantly changed. Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do not exist, the Secretary shall remove the firm or subsidiary from the list.
 
@@ -80,7 +80,7 @@ A prior section 2327 was renumbered section 2347 of this title.
 
 Subsec. (c)(1)(B). Pub. L. 108–136, §1031(a)(16)(B), substituted “The Secretary shall maintain records of each contract entered into by reason of subparagraph (A). Such records” for “A report under subparagraph (A)”.
 
-Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: “After the head of an agency submits a report to Congress under subparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.”
+Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: “After the head of an agency submits a report to Congress undersubparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.”
 
 1997—Subsecs. (d) to (g). Pub. L. 105–85 added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
@@ -98,45 +98,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Reports by Defense Contractors of Dealings With Terrorist Countries
 
-Pub. L. 103–160, div. A, title VIII, §843, Nov. 30, 1993, 107 Stat. 1720, as amended by Pub. L. 103–355, title VIII, §8105(j), Oct. 13, 1994, 108 Stat. 3393, provided that:
-
-“(a)
-
-Report Requirement.—(1) Whenever the Secretary of Defense proposes to enter into a contract with any person for an amount in excess of $5,000,000 for the provision of goods or services to the Department of Defense, the Secretary shall require that person—
-
-&emsp;“(A) before entering into the contract, to report to the Secretary each commercial transaction which that person has conducted with the government of any terrorist country during the preceding three years or the period since the effective date of this section, whichever is shorter; and
-
-&emsp;“(B) to report to the Secretary each such commercial transaction which that person conducts during the course of the contract (but not after the date specified in subsection (h)) with the government of any terrorist country.
-
-“(2) The requirement contained in paragraph (1)(B) shall be included in the contract with the Department of Defense.
-
-“(3) This section does not apply with respect to a contract for the procurement of a commercial item (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
-
-“(b)
-
-Regulations.—The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this section.
-
-“(c)
-
-Annual Report to Congress.—The Secretary of Defense shall submit to the Congress each year by December 1 a report setting forth those persons conducting commercial transactions with terrorist countries that are included in the reports made pursuant to subsection (a) during the preceding fiscal year, the terrorist countries with which those transactions were conducted, and the nature of those transactions. The version of the report made available for public release shall exclude information exempt from public disclosure under section 552 of title 5, United States Code (commonly known as the Freedom of Information Act).
-
-“(d)
-
-Liability.—This section shall not be interpreted as imposing any liability on a person for failure to comply with the reporting requirement of subsection (a) if the failure to comply is caused solely by an act or omission of a third party.
-
-“(e)
-
-Person Defined.—For purposes of this section, the term ‘person’ means a corporate or other business entity proposing to enter or entering into a contract covered by this section. The term does not include an affiliate or subsidiary of the entity.
-
-“(f)
-
-Terrorist Country Defined.—A country shall be considered to be a terrorist country for purposes of a contract covered by this section if the Secretary of State has determined pursuant to law, as of the date that is 60 days before the date on which the contract is signed, that the government of that country is a government that has repeatedly provided support for acts of international terrorism.
-
-“(g)
-
-Effective Date.—This section shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 30, 1993\], or after the expiration of the 30-day period beginning on the date of publication in the Federal Register of the final regulations referred to in subsection (b), whichever is earlier.
-
-“(h)
-
-Termination.—This section expires on September 30, 1996.”
+Pub. L. 103–160, div. A, title VIII, §843, Nov. 30, 1993, 107 Stat. 1720, as amended by Pub. L. 103–355, title VIII, §8105(j), Oct. 13, 1994, 108 Stat. 3393, directed the Secretary of Defense to require any person with whom the Secretary proposed to enter into a contract for the provision of goods or services in an amount in excess of $5,000,000, to report to the Secretary each commercial transaction which that person had conducted with the government of any terrorist country during the preceding three years and during the course of the contract, required the Secretary to prescribe regulations and to submit an annual report to Congress setting forth those commercial transactions with terrorist countries that had been included in the reports made during the preceding fiscal year, and provided that section 843 of Pub. L. 103–160 would expire on Sept. 30, 1996.
 

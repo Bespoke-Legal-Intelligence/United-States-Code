@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) where, under State law, the State agency for individuals who are blind or another agency that provides assistance or services to adults who are blind is authorized to provide vocational rehabilitation services to individuals who are blind, that agency may be designated as the sole State agency to administer the part of the plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and a separate State agency may be designated as the sole State agency to administer or supervise the administration of the rest of the State plan;
 
-&emsp;&emsp;&emsp;(ii) the Commissioner, on the request of a State, may authorize the designated State agency to share funding and administrative responsibility with another agency of the State or with a local agency in order to permit the agencies to carry out a joint program to provide services to individuals with disabilities, and may waive compliance, with respect to vocational rehabilitation services furnished under the joint program, with the requirement of paragraph (4) that the plan be in effect in all political subdivisions of the State; and
+&emsp;&emsp;&emsp;(ii) the Commissioner, on the request of a State, may authorize the designated State agency to share funding and administrative responsibility with another agency of the State or with a local agency in order to permit the agencies to carry outa joint program to provide services to individuals with disabilities, and may waive compliance, with respect to vocational rehabilitation services furnished under the joint program, with the requirement of paragraph (4) that the plan be in effect in all political subdivisions of the State; and
 
 &emsp;&emsp;&emsp;(iii) in the case of American Samoa, the appropriate State agency shall be the Governor of American Samoa.
 
@@ -84,7 +84,7 @@
 
 #### (C) Facilities
 
-&emsp;&emsp;The State plan shall provide that facilities used in connection with the delivery of services assisted under the State plan shall comply with the Act entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved on August 12, 1968 (commonly known as the “Architectural Barriers Act of 1968”) \[42 U.S.C. 4151 et seq.\], with section 794 of this title, and with the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
+&emsp;&emsp;The State plan shall provide that facilities used in connection with the delivery of services assisted under the State plan shall comply with the Act entitled “An Act to insure that certain buildings financed with Federalfunds are so designed and constructed as to be accessible to the physically handicapped”, approved on August 12, 1968 (commonly known as the “Architectural Barriers Act of 1968”) \[42 U.S.C. 4151 et seq.\], with section 794 of this title, and with the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
 
 #### (7) Comprehensive system of personnel development
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the number and type of personnel needed by the State, and a projection of the numbers of such personnel that will be needed in 5 years, based on projections of the number of individuals to be served, the number of such personnel who are expected to retire or leave the vocational rehabilitation field, and other relevant factors;
 
-&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will beundertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will be undertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
 &emsp;&emsp;&emsp;(iii) a description of the development and maintenance of a system of determining, on an annual basis, information on the programs of institutions of higher education within the State that are preparing rehabilitation professionals, including—
 
@@ -132,7 +132,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State plan shall include an assurance that, prior to providing any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(D) and in paragraphs (1) through (4) and (14) of section 723(a) of this title, the designated State unit will determine whether comparable services and benefits are available under any other program (other than a program carried out under this subchapter) unless such a determination would interrupt or delay—
+&emsp;&emsp;&emsp;The State plan shall include an assurance that, prior to providing any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(D) and in paragraphs (1) through (4) and (14) of section 723(a) of this title, the designated State unit will determine whether comparable services and benefits are available under any other program (other than a program carried outunder this subchapter) unless such a determination would interrupt or delay—
 
 &emsp;&emsp;&emsp;&emsp;(I) the progress of the individual toward achieving the employment outcome identified in the individualized plan for employment of the individual in accordance with section 722(b) of this title;
 
@@ -316,7 +316,7 @@
 
 #### (D) Coordination with education officials
 
-&emsp;&emsp;The State plan shall contain plans, policies, and procedures for coordination between the designated State agency and education officials responsible for the public education of students with disabilities, that are designed to facilitate the transition of the students with disabilities from the receipt of educational services in school to the receipt of vocational rehabilitation services under this subchapter, including information on a formal interagency agreement with the State educational agency that, at a minimum, provides for—
+&emsp;&emsp;The State plan shall contain plans, policies, and procedures for coordination between the designated State agency and education officials responsible for the publiceducation of students with disabilities, that are designed to facilitate the transition of the students with disabilities from the receipt of educational services in school to the receipt of vocational rehabilitation services under this subchapter, including information on a formal interagency agreement with the State educational agency that, at a minimum, provides for—
 
 &emsp;&emsp;&emsp;(i) consultation and technical assistance to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including vocational rehabilitation services;
 
@@ -440,7 +440,7 @@
 
 &emsp;The State plan shall—
 
-&emsp;&emsp;(A) provide that the designated State agency, prior to the adoption of any policies or procedures governing the provision of vocational rehabilitation services under the State plan (including making any amendment to such policies and procedures), shall conduct public meetings throughout the State, after providing adequate notice of the meetings, to provide the public, including individuals with disabilities, an opportunity to comment on the policies or procedures, and actively consult with the Director of the client assistance program carried out under section 732 of this title, and, as appropriate,Indian tribes, tribal organizations, and Native Hawaiian organizations on the policies or procedures; and
+&emsp;&emsp;(A) provide that the designated State agency, prior to the adoption of any policies or procedures governing the provision of vocational rehabilitation services under the State plan (including making any amendment to such policies and procedures), shall conduct public meetings throughout the State, after providing adequate notice of the meetings, to provide the public, including individuals with disabilities, an opportunity to comment on the policies or procedures, and actively consult with the Director of the client assistance program carried out under section 732 of this title, and, as appropriate, Indian tribes, tribal organizations, and Native Hawaiian organizations on the policies or procedures; and
 
 &emsp;&emsp;(B) provide that the designated State agency (or each designated State agency if two agencies are designated) and any sole agency administering the plan in a political subdivision of the State, shall take into account, in connection with matters of general policy arising in the administration of the plan, the views of—
 
@@ -558,7 +558,7 @@
 
 #### (A) Contracts with for-profit organizations
 
-&emsp;&emsp;The State plan shall provide that the designated State agency has the authority to enter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI of this chapter, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
+&emsp;&emsp;The State plan shall provide that the designated State agency has the authority toenter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI of this chapter, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
 
 #### (B) Cooperative agreements with private nonprofit organizations
 
@@ -574,7 +574,7 @@
 
 &emsp;Prior to disapproval of the State plan, the Commissioner shall notify the State of the intention to disapprove the plan and shall afford the State reasonable notice and opportunity for a hearing.
 
-(Pub. L. 93–112, title I, §101, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1119;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, §305(h)(1), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 93–112, title I, §101, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1119; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 108–446, title III, §305(h)(1), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 

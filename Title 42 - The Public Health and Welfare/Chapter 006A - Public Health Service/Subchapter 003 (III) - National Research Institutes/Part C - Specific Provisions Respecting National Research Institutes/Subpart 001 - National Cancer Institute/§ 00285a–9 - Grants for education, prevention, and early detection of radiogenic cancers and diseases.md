@@ -38,21 +38,19 @@ Entities receiving a grant under subsection (b) of this section may expend the g
 
 Nothing in this section shall be construed to affect any coverage obligation of a governmental or private health plan or program relating to an individual referred to under subsection (b)(1) of this section.
 
-#### (f) Report to Congress
-
-Beginning on October 1 of the year following the date on which amounts are first appropriated to carry out this section and annually on each October 1 thereafter, the Secretary shall submit a report to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and to the Committee on the Judiciary and the Committee on Commerce of the House of Representatives. Each report shall summarize the expenditures and programs funded under this section as the Secretary determines to be appropriate.
-
-#### (g) Authorization of appropriations
-
-There are authorized to be appropriated for the purpose of carrying out this section $20,000,000 for fiscal year 1999 and such sums as may be necessary for each of the fiscal years 2000 through 2009.
-
-(July 1, 1944, ch. 373, title IV, §417C, as added Pub. L. 106–245, §4, July 10, 2000, 114 Stat. 508.)
+(July 1, 1944, ch. 373, title IV, §417C, as added Pub. L. 106–245, §4, July 10, 2000, 114 Stat. 508; amended Pub. L. 109–482, title I, §§103(b)(16), 104(b)(1)(F), Jan. 15, 2007, 120 Stat. 3687, 3693.)
 
 #### References in Text
 
 Sections 4 and 5 of the Radiation Exposure Compensation Act, referred to in subsec. (b)(1) and (4), are sections 4 and 5 of Pub. L. 101–426, which are set out as a note under section 2210 of this title.
 
-#### Change of Name
+#### Amendments
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+2007—Subsec. (f). Pub. L. 109–482, §104(b)(1)(F), struck out heading and text of subsec. (f). Text read as follows: “Beginning on October 1 of the year following the date on which amounts are first appropriated to carry out this section and annually on each October 1 thereafter, the Secretary shall submit a report to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and to the Committee on the Judiciary and the Committee on Commerce of the House of Representatives. Each report shall summarize the expenditures and programs funded under this section as the Secretary determines to be appropriate.”
+
+Subsec. (g). Pub. L. 109–482, §103(b)(16), struck out heading and text of subsec. (g). Text read as follows: “There are authorized to be appropriated for the purpose of carrying out this section $20,000,000 for fiscal year 1999 and such sums as may be necessary for each of the fiscal years 2000 through 2009.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

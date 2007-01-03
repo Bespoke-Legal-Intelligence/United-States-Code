@@ -2,7 +2,7 @@
 
 (a) The discipline, including training, of the Army National Guard shall conform to that of the Army. The discipline, including training, of the Air National Guard shall conform to that of the Air Force.
 
-(b) The training of the National Guard shall be conducted by the several States, the Commonwealth of Puerto Rico, the District of Columbia,Guam, and the Virgin Islands in conformity with this title.
+(b) The training of the National Guard shall be conducted by the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands in conformity with this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 609; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(7), Jan. 6, 2006, 119 Stat. 3442.)
 
@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §91, 39 Stat. 206.
 
-In subsection (a), the words “that of” are substituted for the words “the system which is or may be prescribed for”. The word “Army” is substituted for the words “Regular Army”, since the Army is the category for which the discipline and training is prescribed and the Regular Army is a personnel category for which no discipline and training is prescribed. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
+In subsection (a), the words “that of” are substituted for the words “the system which is or may be prescribed for”. The word “Army” is substituted for the words “Regular Army”, since the Army is the category for which the discipline and training is prescribed and the Regular Army is a personnel category for which no discipline and training is prescribed. Similarly, thewords “Air Force” are used instead of the words “Regular Air Force”.
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Termination.—The authority under subsection (a) of section 1091 of the Nationa
 
 “(b)
 
-Limitation on Number of Programs.—During the period beginning on the date of the enactment ofthis Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
+Limitation on Number of Programs.—During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
 Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(<i>o</i>), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
@@ -124,7 +124,7 @@ Program Authority.—During fiscal years 1993 through 1995, the Secretary of Def
 
 Purpose.—The purpose of the pilot program is to provide a basis for determining—
 
-&emsp;“(1) whether the life skills and employment potential of civilian youth who cease to attend secondary school before graduating can be significantly improved through military-based training, including supervised work experience in community service and conservation projects, provided by the National Guard; and
+&emsp;“(1) whether the life skills and employment potential of civilian youth who cease to attend secondaryschool before graduating can be significantly improved through military-based training, including supervised work experience in community service and conservation projects, provided by the National Guard; and
 
 &emsp;“(2) whether it is feasible and cost effective for the National Guard to provide military-based training to such youth for the purpose of achieving such improvements.
 

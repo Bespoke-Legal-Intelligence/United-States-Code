@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-To assist in implementing the purposes of this subchapter <sup>1</sup> and to provide guidance for themanagement of the heritage area, there is established the Cane River National Heritage Area Commission (hereinafter in this part referred to as the “Commission”).
+To assist in implementing the purposes of this subchapter <sup>1</sup> and to provide guidance for the management of the heritage area, there is established the Cane River National Heritage Area Commission (hereinafter in this part referred to as the “Commission”).
 
 #### (b) Membership
 
@@ -70,7 +70,7 @@ In furtherance of the purposes of this subchapter, the Commission is authorized 
 
 &emsp;(6) make grants to assist in the preparation of studies that identify, preserve, and plan for the management of the heritage area;
 
-&emsp;(7) notwithstanding any other provision of law, seek and accept donations of funds or services from individuals, foundations, or other public or private entities and expend the same for the purposes of providing services and programs in furtherance of the purposes of this subchapter;
+&emsp;(7) notwithstanding any other provision of law, seek and accept donations of funds orservices from individuals, foundations, or other public or private entities and expend the same for the purposes of providing services and programs in furtherance of the purposes of this subchapter;
 
 &emsp;(8) assist others in developing educational, informational, and interpretive programs and facilities;
 
@@ -80,7 +80,7 @@ In furtherance of the purposes of this subchapter, the Commission is authorized 
 
 #### (e) Compensation
 
-Members of the Commission shall receive no compensation for their service on the Commission. While away from their homes or regular places of business in the performance of services for the Commission, members shall be allowedtravel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+Members of the Commission shall receive no compensation for their service on the Commission. While away from their homes or regular places of business in the performance of services for the Commission, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (f) Chairman
 

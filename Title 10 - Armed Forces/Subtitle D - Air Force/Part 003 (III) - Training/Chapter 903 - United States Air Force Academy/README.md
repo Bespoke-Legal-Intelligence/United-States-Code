@@ -31,14 +31,19 @@
 | [9357\.](%C2%A7%2009357%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees. |
 | [9359\.](%C2%A7%2009359%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md) | Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds. |
 | [9360\.](%C2%A7%2009360%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Cadets: charges and fees for attendance; limitation. |
+| [9361\.](%C2%A7%2009361%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md) | Policy on sexual harassment and sexual violence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2006—Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, §544(c)(2). See 2004 Amendment note below.
+
+Pub. L. 109–364, div. A, title V, §532(d)(3), Oct. 17, 2006, 120 Stat. 2206, added item 9361.
+
 2004—Pub. L. 108–375, div. A, title V, §545(c)(2), Oct. 28, 2004, 118 Stat. 1909, added item 9360.
 
-Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, which directed addition of item 9359 at end of table of sections at beginning of “such title”, was executed by adding item 9359 at end of table of sections of this chapter, to reflect the probable intent of Congress.
+Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, as amended by Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 9359.
 
 1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(F), div. B, title XXVIII, §2871(c)(2), Oct. 5, 1999, 113 Stat. 604, 877, added items 9333a and 9356.
 
@@ -94,3 +99,4 @@ Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 09357 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2009357%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)
 - [&sect; 09359 - Mixed-funded athletic and recreational extracurricular programs authority to manage appropriated funds in same manner as nonappropriated&#8230;](%C2%A7%2009359%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md)
 - [&sect; 09360 - Cadets charges and fees for attendance; limitation](%C2%A7%2009360%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md)
+- [&sect; 09361 - Policy on sexual harassment and sexual violence](%C2%A7%2009361%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md)

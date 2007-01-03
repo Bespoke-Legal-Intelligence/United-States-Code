@@ -90,7 +90,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 #### (2) Other provisions
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section, in providing the services of the system, will—
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system ofcare under subsection (a) of this section, in providing the services of the system, will—
 
 &emsp;&emsp;(A) provide the services of the system in the cultural context that is most appropriate for the child and family involved;
 

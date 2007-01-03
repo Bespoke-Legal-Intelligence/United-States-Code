@@ -4,7 +4,7 @@
 
 (b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter.
 
-(Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat. 558; Pub. L. 103–296, title I, §101, Aug. 15, 1994, 108 Stat. 1465.)
+(Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat.558; Pub. L. 103–296, title I, §101, Aug. 15, 1994, 108 Stat. 1465.)
 
 #### Amendments
 
@@ -38,7 +38,7 @@ In general.—Subject to subparagraph (B), the Social Security Administration sh
 
 &emsp;&emsp;&emsp;“(i) the functions of the Department of Health and Human Services, including functions relating to titles XVIII and XIX of the Social Security Act \[subchapters XVIII and IX of this chapter\] (including adjudications, subject to final decisions by the Secretary of Health and Human Services), that the Social Security Administration in such Department performed as of immediately before the date of the enactment of this Act \[Aug. 15, 1994\], and
 
-&emsp;&emsp;&emsp;“(ii) the functions of any other agency for which administrative responsibility was vested inthe Social Security Administration in the Department of Health and Human Services as of immediately before the date of the enactment of this Act.
+&emsp;&emsp;&emsp;“(ii) the functions of any other agency for which administrative responsibility was vested in the Social Security Administration in the Department of Health and Human Services as of immediately before the date of the enactment of this Act.
 
 &emsp;&emsp;“(B)
 
@@ -120,7 +120,7 @@ Compensation for initial officers and board members before effective date of new
 
 &emsp;“(5)
 
-Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, asCommissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[this chapter\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
+Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[this chapter\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
 
 &emsp;“(6)
 
@@ -176,7 +176,7 @@ Section 109 of title I of Pub. L. 103–296 provided that:
 
 “(a)
 
-References to the Department of Health and Human Services.—Whenever any reference is made inany provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[subchapter II of this chapter\] or the supplemental security income program under title XVI of such Act \[subchapter XVI of this chapter\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
+References to the Department of Health and Human Services.—Whenever any reference is made in any provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[subchapter II of this chapter\] or the supplemental security income program under title XVI of such Act \[subchapter XVI of this chapter\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
 
 “(b)
 

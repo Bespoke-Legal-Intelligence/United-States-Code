@@ -1,6 +1,6 @@
 ### §1302. Registration of aliens
 
-(a) It shall be the duty of every alien now or hereafter in the United States, who (1) is fourteen years of age or older, (2) has not been registered and fingerprinted under section 1201(b) of this title or section 30 or 31 of the Alien Registration Act, 1940, and (3) remains in the United States for thirty days or longer, to apply for registration and to be fingerprinted before the expiration of such thirty days.
+(a) It shall be the duty of every alien now or hereafter in the United States, who (1) is fourteen years of age or older, (2) has not been registered and fingerprinted under section 1201(b) of this title or section 30 or 31 of the Alien Registration Act, 1940, and (3) remains in the UnitedStates for thirty days or longer, to apply for registration and to be fingerprinted before the expiration of such thirty days.
 
 (b) It shall be the duty of every parent or legal guardian of any alien now or hereafter in the United States, who (1) is less than fourteen years of age, (2) has not been registered under section 1201(b) of this title or section 30 or 31 of the Alien Registration Act, 1940, and (3) remains in the United States for thirty days or longer, to apply for the registration of such alien before the expiration of such thirty days. Whenever any alien attains his fourteenth birthday in the United States he shall, within thirty days thereafter, apply in person for registration and to be fingerprinted.
 
@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Alien Registration Act, 1940, referred to in subsecs. (a) and (b), is act June 28, 1940, ch. 439, 54 Stat. 670,as amended. Sections 30 and 31 of that act were classified to sections 451 and 452 of this title and were repealed by section 403(a)(39) of act June 27, 1952.
+The Alien Registration Act, 1940, referred to in subsecs. (a) and (b), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Sections 30 and 31 of that act were classified to sections 451 and 452 of this title and were repealed by section 403(a)(39) of act June 27, 1952.
 
 #### Amendments
 

@@ -1,0 +1,16 @@
+### §7904. Preferences in awarding financial assistance
+
+In awarding financial assistance under this chapter, the Secretary shall give a preference to qualified individuals who are otherwise eligible to receive the financial assistance in the following order of priority:
+
+&emsp;(1) Veterans with service-connected disabilities.
+
+&emsp;(2) Veterans.
+
+&emsp;(3) Persons described in section 4215(a)(1)(B) of this title.
+
+&emsp;(4) Individuals who received or are pursuing degrees at institutions designated by the National Security Agency as Centers of Academic Excellence in Information Assurance Education.
+
+&emsp;(5) Citizens of the United States.
+
+(Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3463.)
+

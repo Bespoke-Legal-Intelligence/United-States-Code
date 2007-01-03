@@ -12,7 +12,7 @@ The Office shall be administered by a director who shall be appointed by the Sec
 
 #### (1) Appointments
 
-&emsp;The Director may appoint such employees as may be necessary to assist the Director in carrying out this section. Such employees shall include individuals who have professional expertise in matters related to environmentalquality, including (but not limited to) agricultural production, water quality, wetland, wildlife conservation, soil conservation, and agricultural chemical usage.
+&emsp;The Director may appoint such employees as may be necessary to assist the Director in carrying out this section. Such employees shall include individuals who have professional expertise in matters related to environmental quality, including (but not limited to) agricultural production, water quality, wetland, wildlife conservation, soil conservation, and agricultural chemical usage.
 
 #### (2) Liaisons
 
@@ -36,7 +36,7 @@ The Office shall be administered by a director who shall be appointed by the Sec
 
 &emsp;&emsp;(B) providing advice to the Council on the development, implementation, and review of activities of agencies of the Department to ensure consistency with the Department's environmental protection goals;
 
-&emsp;&emsp;(C) coordinating environmental policy within the Department through the program managers, and between the Department and other Federal agencies, regional authorities, State and local governments, land-grant and other colleges and universities, and nonprofit and commercial organizations, regarding programs and actions relating to environmental quality;
+&emsp;&emsp;(C) coordinating environmental policy within the Department through the programmanagers, and between the Department and other Federal agencies, regional authorities, State and local governments, land-grant and other colleges and universities, and nonprofit and commercial organizations, regarding programs and actions relating to environmental quality;
 
 &emsp;&emsp;(D) serving as a coordinator for the Department's data, information, programs, and initiatives dealing with environmental quality;
 

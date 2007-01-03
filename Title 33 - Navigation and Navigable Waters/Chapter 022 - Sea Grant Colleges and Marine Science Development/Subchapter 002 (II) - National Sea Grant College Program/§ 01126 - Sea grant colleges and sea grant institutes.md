@@ -30,7 +30,7 @@
 
 #### (b) Existing designees
 
-Any institution, or association or alliance of two or more such institutions, designated as asea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
+Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
 
 #### (c) Suspension or termination of designation
 

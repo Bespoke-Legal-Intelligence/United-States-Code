@@ -4,7 +4,7 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 &emsp;(1) The collection of any amount (including any interest, fee, charge, or expense incidental to the principal obligation) unless such amount is expressly authorized by the agreement creating the debt or permitted by law.
 
-&emsp;(2) The acceptance by a debt collector from any person of a check or other payment instrument postdated by more than five days unless such person is notified in writing of the debt collector's intent to deposit such check or instrument not more than ten nor less than three business days prior to such deposit.
+&emsp;(2) The acceptance by a debt collector from any person of a check or other payment instrument postdated by more than five days unless such person is notified in writing of the debt collector's intent to deposit such checkor instrument not more than ten nor less than three business days prior to such deposit.
 
 &emsp;(3) The solicitation by a debt collector of any postdated check or other postdated payment instrument for the purpose of threatening or instituting criminal prosecution.
 

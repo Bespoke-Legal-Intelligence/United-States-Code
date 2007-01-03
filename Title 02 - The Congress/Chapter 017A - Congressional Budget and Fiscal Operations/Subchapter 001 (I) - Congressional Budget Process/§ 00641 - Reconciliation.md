@@ -24,7 +24,7 @@ A concurrent resolution on the budget for any fiscal year, to the extent necessa
 
 #### (b) Legislative procedure
 
-If a concurrent resolution containing directives to one or more committees to determineand recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a) of this section, and—
+If a concurrent resolution containing directives to one or more committees to determine and recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a) of this section, and—
 
 &emsp;(1) only one committee of the House or the Senate is directed to determine and recommend changes, that committee shall promptly make such determination and recommendations and report to its House reconciliation legislation containing such recommendations; or
 
@@ -38,7 +38,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(A) if—
 
-&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than <sup>1</sup>
+&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsectionrecommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than <sup>1</sup>
 
 &emsp;&emsp;&emsp;(I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
@@ -64,7 +64,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (1) It shall not be in order in the House of Representatives to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of increasing any specific budget outlays above the level of such outlays provided in the bill or resolution (for the fiscal years covered by the reconciliation instructions set forth in the most recently agreed to concurrent resolution on the budget), or would have the effect of reducing any specific Federal revenues below the level of such revenues provided in the bill or resolution (for such fiscal years), unless such amendment makes at least an equivalent reduction in other specific budget outlays, an equivalent increase in other specific Federal revenues, or an equivalent combination thereof (for such fiscal years), except that a motion to strike a provision providing new budget authority or new entitlement authority may be in order.
 
-(2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forthin a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase in other specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
+(2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forth in a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase in other specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
 
 (3) Paragraphs (1) and (2) shall not apply if a declaration of war by the Congress is in effect.
 
@@ -76,7 +76,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (1) Except as provided in paragraph (2), the provisions of section 636 of this title for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) of this section and conference reports thereon.
 
-(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
+(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section,and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
 
 #### (f) Completion of reconciliation process
 

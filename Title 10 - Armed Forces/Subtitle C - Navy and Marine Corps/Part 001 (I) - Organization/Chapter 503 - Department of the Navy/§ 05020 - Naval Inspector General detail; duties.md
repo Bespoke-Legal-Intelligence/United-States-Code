@@ -4,7 +4,7 @@
 
 (b) The Naval Inspector General, when directed, shall inquire into and report upon any matter that affects the discipline or military efficiency of the Department of the Navy. He shall make such inspections, investigations, and reports as the Secretary of the Navy or the Chief of Naval Operations directs.
 
-(c) The Naval Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense underthe Inspector General Act of 1978 (5 U.S.C. App. 3) regarding the Department of the Navy.
+(c) The Naval Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under the Inspector General Act of 1978 (5 U.S.C. App. 3) regarding the Department of the Navy.
 
 (d) The Naval Inspector General shall periodically propose programs of inspections to the Secretary of the Navy and shall recommend additional inspections and investigations as may appear appropriate.
 
@@ -55,4 +55,6 @@ Subsec. (d). Pub. L. 96–513, §503(7)(B), struck out subsec. (d) which authori
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+§5021
 

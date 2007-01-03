@@ -22,7 +22,7 @@ For the purpose of this subchapter—
 
 &emsp;(7) the term “comparability payment” means a payment payable under section 5304;
 
-&emsp;(8) the term “rates of pay under the General Schedule”, “rates of pay for the General Schedule”, or “scheduled rates of basic pay”means the rates of basic pay under the General Schedule as established by section 5332, excluding pay under section 5304 and any other additional pay of any kind; and
+&emsp;(8) the term “rates of pay under the General Schedule”, “rates of pay for the General Schedule”, or “scheduled rates of basic pay” means the rates of basic pay under the General Schedule as established by section 5332, excluding pay under section 5304 and any other additional pay of any kind; and
 
 &emsp;(9) the term “General Schedule position” means any position to which subchapter III applies.
 

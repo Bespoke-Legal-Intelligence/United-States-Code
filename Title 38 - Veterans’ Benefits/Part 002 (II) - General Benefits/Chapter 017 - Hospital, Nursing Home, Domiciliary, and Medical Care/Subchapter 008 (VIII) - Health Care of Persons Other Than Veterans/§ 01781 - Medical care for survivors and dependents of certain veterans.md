@@ -12,7 +12,7 @@
 
 (b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
 
-&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
+&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of VeteransAffairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
 
 &emsp;(2) contracting in accordance with such regulations as the Secretary shall prescribe for such insurance, medical service, or health plans as the Secretary deems appropriate.
 
@@ -34,7 +34,7 @@
 
 &emsp;(ii) the total amount paid or payable for such medical care by third party payers other than the medicare program.
 
-(3) The amount payable under this subsection for medical care may not exceed the totalamount that would be paid under subsection (b) if payment for such medical care were made solely under subsection (b).
+(3) The amount payable under this subsection for medical care may not exceed the total amount that would be paid under subsection (b) if payment for such medical care were made solely under subsection (b).
 
 (4) In this subsection:
 
@@ -68,7 +68,7 @@ Subsec. (d)(4). Pub. L. 107–330, §308(g)(8)(B), substituted “subsection” 
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted “that Secretary” for second and third references to “the Secretary” and “the Secretary of Defense” for last reference to “the Secretary” in par. (1).
+Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted “that Secretary” for second and third references to“the Secretary” and “the Secretary of Defense” for last reference to “the Secretary” in par. (1).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in introductory and concluding provisions and in par. (2).
 

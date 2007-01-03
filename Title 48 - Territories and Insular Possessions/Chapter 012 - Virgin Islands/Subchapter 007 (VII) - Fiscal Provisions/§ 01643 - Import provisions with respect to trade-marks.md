@@ -10,5 +10,5 @@ The Trade Mark Act, referred to in text, probably means the Trademark Act of 194
 
 #### Codification
 
-Section constitutes subsec. (c) of section 28 of act July 22, 1954. Subsec. (b) of section 28 amended section 3350 of former Title 26, Internal Revenue Code, 1939, andsubsecs. (a) and (d) thereof are classified to sections 1642 and 1644, respectively, of this title.
+Section constitutes subsec. (c) of section 28 of act July 22, 1954. Subsec. (b) of section 28 amended section 3350 of former Title 26, Internal Revenue Code, 1939, and subsecs. (a) and (d) thereof are classified to sections 1642 and 1644, respectively, of this title.
 

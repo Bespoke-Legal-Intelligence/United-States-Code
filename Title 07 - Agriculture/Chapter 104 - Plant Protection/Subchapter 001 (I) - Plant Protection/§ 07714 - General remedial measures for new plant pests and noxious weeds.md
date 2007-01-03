@@ -22,7 +22,7 @@ If the Secretary considers it necessary in order to prevent the dissemination of
 
 #### (2) Failure to comply
 
-&emsp;If the owner fails to comply with the Secretary's order under this subsection, the Secretary may take an action authorized by subsection (a) of this section and recover from the owner the costs of any care, handling, application of remedial measures, or disposal incurred by the Secretary in connection with actions taken under subsection (a) of this section.
+&emsp;If the owner fails to comply with the Secretary's order under this subsection, the Secretary may take an action authorized by subsection (a) of this section and recover from theowner the costs of any care, handling, application of remedial measures, or disposal incurred by the Secretary in connection with actions taken under subsection (a) of this section.
 
 #### (c) Classification system
 

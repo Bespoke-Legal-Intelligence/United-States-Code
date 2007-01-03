@@ -24,7 +24,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (1) In general
 
-&emsp;The Trust is authorized to appoint and fix the compensation and duties of an executive director and such other officers and employees as it deems necessary without regard to the provisions of title 5 governing appointments in the competitive service, and may pay them without regard to the provisions of chapter 51, and subchapter III of chapter 53, title 5, relating to classification and General Schedule pay rates. No employee of the Trust shall be paid at a rate in excess of that payable to the Supervisor of the Santa Fe National Forest or the Superintendent of the Bandelier National Monument, whichever is greater.
+&emsp;The Trust is authorized to appoint and fix the compensation and duties of an executivedirector and such other officers and employees as it deems necessary without regard to the provisions of title 5 governing appointments in the competitive service, and may pay them without regard to the provisions of chapter 51, and subchapter III of chapter 53, title 5, relating to classification and General Schedule pay rates. No employee of the Trust shall be paid at a rate in excess of that payable to the Supervisor of the Santa Fe National Forest or the Superintendent of the Bandelier National Monument, whichever is greater.
 
 #### (2) Federal employees
 
@@ -66,7 +66,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (f) Taxes
 
-The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the Stateof New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
+The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
 
 #### (g) Donations
 
@@ -86,7 +86,7 @@ The members of the Board of Trustees, the executive director, and one additional
 
 Any funds received by the Trust, or the Secretary in accordance with section 698v–7(b) of this title, from the management of the Preserve shall not be subject to partial distribution to the State under—
 
-&emsp;(1) the Act of May 23, 1908, entitled “an Act making appropriations for the Department of Agriculture for the fiscal year ending June thirtieth, nineteen hundred and nine” (35 Stat. 260, chapter 192; 16 U.S.C. 500);
+&emsp;(1) the Act of May 23, 1908, entitled “an Act making appropriations for the Department ofAgriculture for the fiscal year ending June thirtieth, nineteen hundred and nine” (35 Stat. 260, chapter 192; 16 U.S.C. 500);
 
 &emsp;(2) section 13 of the Act of March 1, 1911 (36 Stat. 963, chapter 186; 16 U.S.C. 500); or
 

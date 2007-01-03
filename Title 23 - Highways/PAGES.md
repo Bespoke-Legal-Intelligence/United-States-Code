@@ -1,6 +1,6 @@
 # Printed pages - Title 23 - Highways
 
-GPO's 2005 edition (laws in effect as of 2006-01-02), from its printed page marks. The exact position of
+GPO's 2006 edition (laws in effect as of 2007-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title23.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -93,8 +93,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00217 - Bicycle transportation and pedestrian walkways](Chapter%20002%20-%20Other%20Highways/%C2%A7%2000217%20-%20Bicycle%20transportation%20and%20pedestrian%20walkways.md) | 215–217 |
 | [&sect; 00218 - Alaska Highway](Chapter%20002%20-%20Other%20Highways/%C2%A7%2000218%20-%20Alaska%20Highway.md) | 217–218 |
 | [&sect; 00219 - Repealed. Pub. L. 100&#8211;17, title I, &sect;133(e)(1), Apr. 2, 1987, 101 Stat. 173](Chapter%20002%20-%20Other%20Highways/%C2%A7%2000219%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20I%2C%20%C2%A7133%28e%29%281%29%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20173.md) | 218 |
-| [Chapter 003 - General Provisions](Chapter%20003%20-%20General%20Provisions/README.md) | 218–219 |
-| [&sect; 00301 - Freedom from tolls](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000301%20-%20Freedom%20from%20tolls.md) | 219 |
+| [Chapter 003 - General Provisions](Chapter%20003%20-%20General%20Provisions/README.md) | 218 |
+| [&sect; 00301 - Freedom from tolls](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000301%20-%20Freedom%20from%20tolls.md) | 218–219 |
 | [&sect; 00302 - State transportation department](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000302%20-%20State%20transportation%20department.md) | 219 |
 | [&sect; 00303 - Management systems](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000303%20-%20Management%20systems.md) | 219–220 |
 | [&sect; 00304 - Participation by small business enterprises](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000304%20-%20Participation%20by%20small%20business%20enterprises.md) | 220 |
@@ -117,21 +117,21 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00321 - Signs identifying funding sources](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000321%20-%20Signs%20identifying%20funding%20sources.md) | 227 |
 | [&sect; 00322 - Magnetic levitation transportation technology deployment program](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000322%20-%20Magnetic%20levitation%20transportation%20technology%20deployment%20program.md) | 227–230 |
 | [&sect; 00323 - Donations and credits](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000323%20-%20Donations%20and%20credits.md) | 230–231 |
-| [&sect; 00324 - Prohibition of discrimination on the basis of sex](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md) | 231–232 |
-| [&sect; 00325 - State assumption of responsibilities for certain programs and projects](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000325%20-%20State%20assumption%20of%20responsibilities%20for%20certain%20programs%20and%20projects.md) | 232–233 |
-| [&sect; 00326 - State assumption of responsibility for categorical exclusions](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000326%20-%20State%20assumption%20of%20responsibility%20for%20categorical%20exclusions.md) | 233 |
+| [&sect; 00324 - Prohibition of discrimination on the basis of sex](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md) | 231 |
+| [&sect; 00325 - State assumption of responsibilities for certain programs and projects](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000325%20-%20State%20assumption%20of%20responsibilities%20for%20certain%20programs%20and%20projects.md) | 231–232 |
+| [&sect; 00326 - State assumption of responsibility for categorical exclusions](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000326%20-%20State%20assumption%20of%20responsibility%20for%20categorical%20exclusions.md) | 232–233 |
 | [&sect; 00327 - Surface transportation project delivery pilot program](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20pilot%20program.md) | 233–235 |
 | [&sect; 00328 - Eligibility for environmental restoration and pollution abatement](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000328%20-%20Eligibility%20for%20environmental%20restoration%20and%20pollution%20abatement.md) | 235 |
-| [&sect; 00329 - Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md) | 235–236 |
-| [Chapter 004 - Highway Safety](Chapter%20004%20-%20Highway%20Safety/README.md) | 236 |
+| [&sect; 00329 - Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species](Chapter%20003%20-%20General%20Provisions/%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md) | 235 |
+| [Chapter 004 - Highway Safety](Chapter%20004%20-%20Highway%20Safety/README.md) | 235–236 |
 | [&sect; 00401 - Authority of the Secretary](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000401%20-%20Authority%20of%20the%20Secretary.md) | 236–240 |
 | [&sect; 00402 - Highway safety programs](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000402%20-%20Highway%20safety%20programs.md) | 240–253 |
 | [&sect; 00403 - Highway safety research and development](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000403%20-%20Highway%20safety%20research%20and%20development.md) | 253–258 |
 | [&sect; 00404 - National Highway Safety Advisory Committee](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000404%20-%20National%20Highway%20Safety%20Advisory%20Committee.md) | 258–259 |
 | [&sect; 00405 - Occupant protection incentive grants](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000405%20-%20Occupant%20protection%20incentive%20grants.md) | 259–261 |
 | [&sect; 00406 - Safety belt performance grants](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000406%20-%20Safety%20belt%20performance%20grants.md) | 261–262 |
-| [&sect; 00407 - Innovative project grants](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000407%20-%20Innovative%20project%20grants.md) | 262–263 |
-| [&sect; 00408 - State traffic safety information system improvements](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000408%20-%20State%20traffic%20safety%20information%20system%20improvements.md) | 263–264 |
+| [&sect; 00407 - Innovative project grants](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000407%20-%20Innovative%20project%20grants.md) | 262 |
+| [&sect; 00408 - State traffic safety information system improvements](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000408%20-%20State%20traffic%20safety%20information%20system%20improvements.md) | 262–264 |
 | [&sect; 00409 - Discovery and admission as evidence of certain reports and surveys](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000409%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md) | 264 |
 | [&sect; 00410 - Alcohol-impaired driving countermeasures](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000410%20-%20Alcohol-impaired%20driving%20countermeasures.md) | 264–269 |
 | [&sect; 00411 - State highway safety data improvements](Chapter%20004%20-%20Highway%20Safety/%C2%A7%2000411%20-%20State%20highway%20safety%20data%20improvements.md) | 269–270 |
@@ -144,13 +144,13 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00505 - State planning and research](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000505%20-%20State%20planning%20and%20research.md) | 290–291 |
 | [&sect; 00506 - International highway transportation outreach program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000506%20-%20International%20highway%20transportation%20outreach%20program.md) | 291–292 |
 | [&sect; 00507 - Surface transportation-environmental cooperative research program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000507%20-%20Surface%20transportation-environmental%20cooperative%20research%20program.md) | 292–293 |
-| [&sect; 00508 - Transportation research and development strategic planning](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000508%20-%20Transportation%20research%20and%20development%20strategic%20planning.md) | 293–295 |
-| [&sect; 00509 - National cooperative freight transportation research program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000509%20-%20National%20cooperative%20freight%20transportation%20research%20program.md) | 295–296 |
-| [&sect; 00510 - Future strategic highway research program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000510%20-%20Future%20strategic%20highway%20research%20program.md) | 296–297 |
+| [&sect; 00508 - Transportation research and development strategic planning](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000508%20-%20Transportation%20research%20and%20development%20strategic%20planning.md) | 293–294 |
+| [&sect; 00509 - National cooperative freight transportation research program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000509%20-%20National%20cooperative%20freight%20transportation%20research%20program.md) | 294–295 |
+| [&sect; 00510 - Future strategic highway research program](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000510%20-%20Future%20strategic%20highway%20research%20program.md) | 295–297 |
 | [&sect; 00511 - Multistate corridor operations and management](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000511%20-%20Multistate%20corridor%20operations%20and%20management.md) | 297 |
 | [&sect; 00512 - National ITS program plan](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000512%20-%20National%20ITS%20program%20plan.md) | 297–301 |
-| [&sect; 00513 - Use of funds for ITS activities](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000513%20-%20Use%20of%20funds%20for%20ITS%20activities.md) | 301–302 |
-| [Chapter 006 - Infrastructure Finance](Chapter%20006%20-%20Infrastructure%20Finance/README.md) | 302 |
+| [&sect; 00513 - Use of funds for ITS activities](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/%C2%A7%2000513%20-%20Use%20of%20funds%20for%20ITS%20activities.md) | 301 |
+| [Chapter 006 - Infrastructure Finance](Chapter%20006%20-%20Infrastructure%20Finance/README.md) | 301–302 |
 | [&sect; 00601 - Generally applicable provisions](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000601%20-%20Generally%20applicable%20provisions.md) | 302–306 |
 | [&sect; 00602 - Determination of eligibility and project selection](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000602%20-%20Determination%20of%20eligibility%20and%20project%20selection.md) | 306–307 |
 | [&sect; 00603 - Secured loans](Chapter%20006%20-%20Infrastructure%20Finance/%C2%A7%2000603%20-%20Secured%20loans.md) | 307–309 |

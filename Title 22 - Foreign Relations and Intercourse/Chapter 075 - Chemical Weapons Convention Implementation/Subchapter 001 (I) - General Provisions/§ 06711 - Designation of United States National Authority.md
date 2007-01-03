@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-Pursuant to paragraph 4 of Article VII of the Chemical Weapons Convention, the Presidentshall designate the Department of State to be the United States National Authority.
+Pursuant to paragraph 4 of Article VII of the Chemical Weapons Convention, the President shall designate the Department of State to be the United States National Authority.
 
 #### (b) Purposes
 
@@ -18,7 +18,7 @@ The Secretary of State shall serve as the Director of the United States National
 
 #### (d) Powers
 
-The Director may utilize the administrative authorities otherwise available to the Secretary of State in carrying out the responsibilities of the Director set forth in this chapter.
+The Director may utilize the administrative authorities otherwise available to the Secretaryof State in carrying out the responsibilities of the Director set forth in this chapter.
 
 #### (e) Implementation
 

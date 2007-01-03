@@ -10,7 +10,7 @@ Not later than 2 years after October 24, 1992, the Secretary shall submit a repo
 
 &emsp;(4) the feasibility of reducing the generation of greenhouse gases;
 
-&emsp;(5) the feasibility and economic, energy, social, environmental, and competitive implications, including implications for jobs, of achieving a 20 percent reduction from 1988 levels in the generation of carbon dioxide by the year 2005 as recommended by the 1988 TorontoScientific World Conference on the Changing Atmosphere;
+&emsp;(5) the feasibility and economic, energy, social, environmental, and competitive implications, including implications for jobs, of achieving a 20 percent reduction from 1988 levels in the generation of carbon dioxide by the year 2005 as recommended by the 1988 Toronto Scientific World Conference on the Changing Atmosphere;
 
 &emsp;(6) the potential economic, energy, social, environmental, and competitive implications, including implications for jobs, of implementing the policies necessary to enable the United States to comply with any obligations under the United Nations Framework Convention on Climate Change or subsequent international agreements.
 

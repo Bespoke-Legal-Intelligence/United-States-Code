@@ -12,7 +12,7 @@ The Bureau shall be headed by a Director appointed by the President, by and with
 
 The Bureau is authorized to—
 
-&emsp;(1) make grants to, or enter into cooperative agreements or contracts with public agencies, institutions of higher education, private organizations, or private individuals for purposes related to this subchapter; grants shall be made subject to continuing compliance withstandards for gathering justice statistics set forth in rules and regulations promulgated by the Director;
+&emsp;(1) make grants to, or enter into cooperative agreements or contracts with public agencies, institutions of higher education, private organizations, or private individuals for purposes related to this subchapter; grants shall be made subject to continuing compliance with standards for gathering justice statistics set forth in rules and regulations promulgated by the Director;
 
 &emsp;(2) collect and analyze information concerning criminal victimization, including crimes against the elderly, and civil disputes;
 
@@ -22,7 +22,7 @@ The Bureau is authorized to—
 
 &emsp;(5) collect and analyze statistical information concerning the prevalence, incidence, rates, extent, distribution, and attributes of crime, and juvenile delinquency, at the Federal, State, and local levels;
 
-&emsp;(6) analyze the correlates of crime, civil disputes and juvenile delinquency, by the use of statistical information, about criminal and civil justice systems at the Federal, State, and local levels, and about the extent, distribution and attributes of crime, and juvenile delinquency, in the Nation and at the Federal, State, and local levels;
+&emsp;(6) analyze the correlates of crime, civil disputes and juvenile delinquency, by the use of statistical information, about criminal and civil justice systems at the Federal, State, and local levels, and about the extent, distributionand attributes of crime, and juvenile delinquency, in the Nation and at the Federal, State, and local levels;
 
 &emsp;(7) compile, collate, analyze, publish, and disseminate uniform national statistics concerning all aspects of criminal justice and related aspects of civil justice, crime, including crimes against the elderly, juvenile delinquency, criminal offenders, juvenile delinquents, and civil disputes in the various States;
 

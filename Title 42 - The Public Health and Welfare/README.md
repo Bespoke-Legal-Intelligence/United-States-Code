@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 2005 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 2006 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -94,7 +94,7 @@
 | [<b>63A.</b>](Chapter%20063A%20-%20Residential%20Lead-Based%20Paint%20Hazard%20Reduction/README.md) | <b>Residential Lead-Based Paint Hazard Reduction</b> | <b>4851</b> |
 | [<b>64.</b>](Chapter%20064%20-%20Public%20Service%20Employment%20Programs/README.md) | <b>Public Service Employment Programs \[Omitted\]</b> | <b>4871</b> |
 | [<b>65.</b>](Chapter%20065%20-%20Noise%20Control/README.md) | <b>Noise Control</b> | <b>4901</b> |
-| [<b>66.</b>](Chapter%20066%20-%20Domestic%20Volunteer%20Services/README.md) | <b>Domestic Volunteer Services</b> | <b>4951</b> |
+| [<b>66.</b>](Chapter%20066%20-%20Domestic%20Volunteer%20Services/README.md) | <b>Domestic Volunteer Services</b> | <b>4950</b> |
 | [<b>67.</b>](Chapter%20067%20-%20Child%20Abuse%20Prevention%20and%20Treatment%20and%20Adoption%20Reform/README.md) | <b>Child Abuse Prevention and Treatment and Adoption Reform</b> | <b>5101</b> |
 | [<b>68.</b>](Chapter%20068%20-%20Disaster%20Relief/README.md) | <b>Disaster Relief</b> | <b>5121</b> |
 | [<b>69.</b>](Chapter%20069%20-%20Community%20Development/README.md) | <b>Community Development</b> | <b>5301</b> |
@@ -143,7 +143,7 @@
 | [<b>111.</b>](Chapter%20111%20-%20Emergency%20Federal%20Law%20Enforcement%20Assistance/README.md) | <b>Emergency Federal Law Enforcement Assistance</b> | <b>10501</b> |
 | [<b>112.</b>](Chapter%20112%20-%20Victim%20Compensation%20and%20Assistance/README.md) | <b>Victim Compensation and Assistance</b> | <b>10601</b> |
 | [<b>113.</b>](Chapter%20113%20-%20State%20Justice%20Institute/README.md) | <b>State Justice Institute</b> | <b>10701</b> |
-| [<b>114.</b>](Chapter%20114%20-%20Protection%20and%20Advocacy%20for%20Mentally%20Ill%20Individuals/README.md) | <b>Protection and Advocacy for Mentally Ill Individuals</b> | <b>10801</b> |
+| [<b>114.</b>](Chapter%20114%20-%20Protection%20and%20Advocacy%20for%20Individuals%20with%20Mental%20Illness/README.md) | <b>Protection and Advocacy for Individuals With Mental Illness</b> | <b>10801</b> |
 | [<b>115.</b>](Chapter%20115%20-%20Child%20Development%20Associate%20Scholarship%20Assistance%20Program/README.md) | <b>Child Development Associate Scholarship Assistance Program</b> | <b>10901</b> |
 | [<b>116.</b>](Chapter%20116%20-%20Emergency%20Planning%20and%20Community%20Right-to-Know/README.md) | <b>Emergency Planning and Community Right-To-Know</b> | <b>11001</b> |
 | [<b>117.</b>](Chapter%20117%20-%20Encouraging%20Good%20Faith%20Professional%20Review%20Activities/README.md) | <b>Encouraging Good Faith Professional Review Activities</b> | <b>11101</b> |
@@ -181,6 +181,7 @@
 | [<b>148.</b>](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md) | <b>Windstorm Impact Reduction</b> | <b>15701</b> |
 | [<b>149.</b>](Chapter%20149%20-%20Energy%20Policy%2C%202005/README.md) | <b>Energy Policy, 2005</b> | <b>15801</b> |
 | [<b>150.</b>](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md) | <b>National Aeronautics and Space Programs, 2005</b> | <b>16601</b> |
+| [<b>151.</b>](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md) | <b>Child Protection and Safety</b> | <b>16901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -327,7 +328,7 @@
 - [Chapter 111 - Emergency Federal Law Enforcement Assistance](Chapter%20111%20-%20Emergency%20Federal%20Law%20Enforcement%20Assistance/README.md)
 - [Chapter 112 - Victim Compensation and Assistance](Chapter%20112%20-%20Victim%20Compensation%20and%20Assistance/README.md)
 - [Chapter 113 - State Justice Institute](Chapter%20113%20-%20State%20Justice%20Institute/README.md)
-- [Chapter 114 - Protection and Advocacy for Mentally Ill Individuals](Chapter%20114%20-%20Protection%20and%20Advocacy%20for%20Mentally%20Ill%20Individuals/README.md)
+- [Chapter 114 - Protection and Advocacy for Individuals with Mental Illness](Chapter%20114%20-%20Protection%20and%20Advocacy%20for%20Individuals%20with%20Mental%20Illness/README.md)
 - [Chapter 115 - Child Development Associate Scholarship Assistance Program](Chapter%20115%20-%20Child%20Development%20Associate%20Scholarship%20Assistance%20Program/README.md)
 - [Chapter 116 - Emergency Planning and Community Right-to-Know](Chapter%20116%20-%20Emergency%20Planning%20and%20Community%20Right-to-Know/README.md)
 - [Chapter 117 - Encouraging Good Faith Professional Review Activities](Chapter%20117%20-%20Encouraging%20Good%20Faith%20Professional%20Review%20Activities/README.md)
@@ -366,3 +367,4 @@
 - [Chapter 149 - Energy Policy, 2005](Chapter%20149%20-%20Energy%20Policy%2C%202005/README.md)
 - [Subchapter 015 (XV) - Incentives for Innovative Technologies](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/README.md)
 - [Chapter 150 - National Aeronautics and Space Programs, 2005](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md)
+- [Chapter 151 - Child Protection and Safety](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md)

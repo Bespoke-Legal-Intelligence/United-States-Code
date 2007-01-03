@@ -6,7 +6,7 @@ The Attorney General and the Secretary of State jointly, through the National In
 
 #### (2) Interoperable
 
-The technology standard developed pursuant to paragraph (1), shall be the technological basisfor a cross-agency, cross-platform electronic system that is a cost-effective, efficient, fully interoperable means to share law enforcement and intelligence information necessary to confirm the identity of such persons applying for a United States visa or such person seeking to enter the United States pursuant to a visa.
+The technology standard developed pursuant to paragraph (1), shall be the technological basis for a cross-agency, cross-platform electronic system that is a cost-effective, efficient, fully interoperable means to share law enforcement and intelligence information necessary to confirm the identity of such persons applying for a United States visa or such person seeking to enter the United States pursuant to a visa.
 
 #### (3) Accessible
 
@@ -30,7 +30,7 @@ There is authorized to be appropriated to the Secretary of State, the Attorney G
 
 #### Codification
 
-Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Amendments
 

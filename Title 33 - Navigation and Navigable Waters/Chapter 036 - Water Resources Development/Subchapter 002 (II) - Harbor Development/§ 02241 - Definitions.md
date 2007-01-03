@@ -52,7 +52,7 @@ For purposes of this subchapter—
 
 #### (7) Non-Federal interest
 
-&emsp;The term “non-Federal interest” has the meaning such term has under section 1962d–5bof title 42 and includes any interstate agency and port authority established under a compact entered into between two or more States with the consent of Congress under section 10 of Article I of the Constitution.
+&emsp;The term “non-Federal interest” has the meaning such term has under section 1962d–5b of title 42 and includes any interstate agency and port authority established under a compact entered into between two or more States with the consent of Congress under section 10 of Article I of the Constitution.
 
 #### (8) United States
 

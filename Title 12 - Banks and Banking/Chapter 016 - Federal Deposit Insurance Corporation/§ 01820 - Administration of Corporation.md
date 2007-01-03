@@ -82,7 +82,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;Paragraphs (1), (2), and (3) shall apply with “18-month” substituted for “12-month” if—
 
-&emsp;&emsp;(A) the insured depository institution has total assets of less than $250,000,000;
+&emsp;&emsp;(A) the insured depository institution has total assets of less than $500,000,000;
 
 &emsp;&emsp;(B) the institution is well capitalized, as defined in section 1831<i>o</i> of this title;
 
@@ -126,7 +126,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (7) Separate examinations permitted
 
-&emsp;Notwithstanding paragraph (6), each appropriate Federal banking agency may conduct aseparate examination in an emergency or under other exigent circumstances, or when the agency believes that a violation of law may have occurred.
+&emsp;Notwithstanding paragraph (6), each appropriate Federal banking agency may conduct a separate examination in an emergency or under other exigent circumstances, or when the agency believes that a violation of law may have occurred.
 
 #### (8) Report
 
@@ -138,7 +138,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (10) Agencies authorized to increase maximum asset amount of institutions for certain purposes
 
-&emsp;At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency's discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $100,000,000 to an amount not to exceed $250,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
+&emsp;At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency's discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $100,000,000 to an amount not to exceed $500,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
 
 #### (e) Examination fees
 
@@ -186,9 +186,27 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;Amounts received by the Corporation under this subsection (other than paragraph (4)) may be deposited in the manner provided in section 1823 of this title.
 
-#### (f) Preservation of records by photography; admissibility as evidence
+#### (f) Preservation of agency records
 
-The Corporation may cause any and all records, papers, or documents kept by it or in its possession or custody to be photographed or microphotographed or otherwise reproduced upon film, which photographic film shall comply with the minimum standards of quality approved for permanent photographic records by the National Institute of Standards and Technology. Such photographs, microphotographs, or photographic film or copies thereof shall be deemed to be an original record for all purposes, including introduction in evidence in all State and Federal courts or administrative agencies and shall be admissible to prove any act, transaction, occurrence, or event therein recorded. Such photographs, microphotographs, or reproduction shall be preserved in such manner as the Board of Directors of the Corporation shall prescribe and the original records, papers, or documents may be destroyed or otherwise disposed of as the Board shall direct.
+#### (1) In general
+
+&emsp;A Federal banking agency may cause any and all records, papers, or documents kept by the agency or in the possession or custody of the agency to be—
+
+&emsp;&emsp;(A) photographed or microphotographed or otherwise reproduced upon film; or
+
+&emsp;&emsp;(B) preserved in any electronic medium or format which is capable of—
+
+&emsp;&emsp;&emsp;(i) being read or scanned by computer; and
+
+&emsp;&emsp;&emsp;(ii) being reproduced from such electronic medium or format by printing any other form of reproduction of electronically stored data.
+
+#### (2) Treatment as original records
+
+&emsp;Any photographs, microphotographs, or photographic film or copies thereof described in paragraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B) shall be deemed to be an original record for all purposes, including introduction in evidence in all State and Federal courts or administrative agencies, and shall be admissible to prove any act, transaction, occurrence, or event therein recorded.
+
+#### (3) Authority of the Federal banking agencies
+
+&emsp;Any photographs, microphotographs, or photographic film or copies thereof described in paragraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B) shall be preserved in such manner as the Federal banking agency shall prescribe, and the original records, papers, or documents may be destroyed or otherwise disposed of as the Federal banking agency may direct.
 
 #### (g) Authority to prescribe regulations and definitions
 
@@ -200,25 +218,91 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (h) Coordination of examination authority
 
-#### (1) In general
+#### (1) State bank supervisors of home and host States
 
-&emsp;The appropriate State bank supervisor of a host State may examine a branch operated in such State by an out-of-State insured State bank that resulted from an interstate merger transaction approved under section 1831u of this title or a branch established in such State pursuant to section 36(g) of this title or section 1828(d)(4) of this title—
+#### (A) Home State of bank
 
-&emsp;&emsp;(A) for the purpose of determining compliance with host State laws, including those that govern banking, community reinvestment, fair lending, consumer protection, and permissible activities; and
+&emsp;&emsp;The appropriate State bank supervisor of the home State of an insured State bank has authority to examine and supervise the bank.
 
-&emsp;&emsp;(B) to ensure that the activities of the branch are not conducted in an unsafe or unsound manner.
+#### (B) Host State branches
 
-#### (2) Enforcement
+&emsp;&emsp;The State bank supervisor of the home State of an insured State bank and any State bank supervisor of an appropriate host State shall exercise its respective authority to supervise and examine the branches of the bank in a host State in accordance with the terms of any applicable cooperative agreement between the home State bank supervisor and the State bank supervisor of the relevant host State.
 
-&emsp;If the State bank supervisor of a host State determines that there is a violation of the law of the host State concerning the activities being conducted by a branch described in paragraph (1) or that the branch is being operated in an unsafe and unsound manner, the State bank supervisor of the host State or, to the extent authorized by the law of the host State, a State law enforcement officer may undertake such enforcement actions and proceedings as would be permitted under the law of the host State as if the branch were a bank chartered by that host State.
+#### (C) Supervisory fees
 
-#### (3) Cooperative agreement
+&emsp;&emsp;Except as expressly provided in a cooperative agreement between the State bank supervisors of the home State and any host State of an insured State bank, only the State bank supervisor of the home State of an insured State bank may levy or charge State supervisory fees on the bank.
 
-&emsp;The State bank supervisors from 2 or more States may enter into cooperative agreements to facilitate State regulatory supervision of State banks, including cooperative agreements relating to the coordination of examinations and joint participation in examinations.
+#### (2) Host State examination
 
-#### (4) Federal regulatory authority
+#### (A) In general
 
-&emsp;No provision of this subsection shall be construed as limiting in any way the authority of an appropriate Federal banking agency to examine or to take any enforcement actions or proceedings against any bank or branch of a bank for which the agency is the appropriate Federal banking agency.
+&emsp;&emsp;With respect to a branch operated in a host State by an out-of-State insured Statebank that resulted from an interstate merger transaction approved under section 1831u of this title, or that was established in such State pursuant to section 36(g) of this title, the third undesignated paragraph of section 321 of this title or section 1828(d)(4) of this title, the appropriate State bank supervisor of such host State may—
+
+&emsp;&emsp;&emsp;(i) with written notice to the State bank supervisor of the bank's home State and subject to the terms of any applicable cooperative agreement with the State bank supervisor of such home State, examine such branch for the purpose of determining compliance with host State laws that are applicable pursuant to section 1831a(j) of this title, including those that govern community reinvestment, fair lending, and consumer protection; and
+
+&emsp;&emsp;&emsp;(ii) if expressly permitted under and subject to the terms of a cooperative agreement with the State bank supervisor of the bank's home State or if such out-of-State insured State bank has been determined to be in a troubled condition by either the State bank supervisor of the bank's home State or the bank's appropriate Federal banking agency, participate in the examination of the bank by the State bank supervisor of the bank's home State to ascertain that the activities of the branch in such host State are not conducted in an unsafe or unsound manner.
+
+#### (B) Notice of determination
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall notify the State bank supervisor of each host State of the bank if there has been a final determination that the bank is in a troubled condition.
+
+#### (ii) Timing of notice
+
+&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall provide notice under clause (i) as soon as is reasonably possible, but in all cases not later than 15 business days after the date on which the State bank supervisor has made such final determination or has received written notification of such final determination.
+
+#### (3) Host State enforcement
+
+&emsp;If the State bank supervisor of a host State determines that a branch of an out-of-State insured State bank is violating any law of the host State that is applicable to such branch pursuant to section 1831a(j) of this title, including a law that governs community reinvestment, fair lending, or consumer protection, the State bank supervisor of the host State or, to the extent authorized by the law of the host State, a host State law enforcement officer may, with written notice to the State bank supervisor of the bank's home State and subject to the terms of any applicable cooperative agreement with the State bank supervisor of the bank's home State, undertake such enforcement actions and proceedings as would be permitted under the law of the host State as if the branch were a bank chartered by that host State.
+
+#### (4) Cooperative agreement
+
+#### (A) In general
+
+&emsp;&emsp;The State bank supervisors from 2 or more States may enter into cooperative agreements to facilitate State regulatory supervision of State banks, including cooperative agreements relating to the coordination of examinations and joint participation in examinations.
+
+#### (B) Definition
+
+&emsp;&emsp;For purposes of this subsection, the term “cooperative agreement” means a written agreement that is signed by the home State bank supervisor and the host State bank supervisor to facilitate State regulatory supervision of State banks, and includes nationwide or multi-State cooperative agreements and cooperative agreements solely between the home State and host State.
+
+#### (C) Rule of construction
+
+&emsp;&emsp;Except for State bank supervisors, no provision of this subsection relating to such cooperative agreements shall be construed as limiting in any way the authority of home State and host State law enforcement officers, regulatory supervisors, or other officials that have not signed such cooperative agreements to enforce host State laws that are applicable to a branch of an out-of-State insured State bank located in the host State pursuant to section 1831a(j) of this title.
+
+#### (5) Federal regulatory authority
+
+&emsp;No provision of this subsection shall be construed as limiting in any way the authority of any Federal banking agency.
+
+#### (6) State taxation authority not affected
+
+&emsp;No provision of this subsection shall be construed as affecting the authority of any State or political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any bank, bank holding company, or foreign bank, to the extent that such tax or tax method is otherwise permissible by or under the Constitution of the United States or other Federal law.
+
+#### (7) Definitions
+
+&emsp;For purpose of this section, the following definitions shall apply:
+
+#### (A) Host State, home State, out-of-State bank
+
+&emsp;&emsp;The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(g) of this title.
+
+#### (B) State supervisory fees
+
+&emsp;&emsp;The term “State supervisory fees” means assessments, examination fees, branch fees, license fees, and all other fees that are levied or charged by a State bank supervisor directly upon an insured State bank or upon branches of an insured State bank.
+
+#### (C) Troubled condition
+
+&emsp;&emsp;Solely for purposes of paragraph (2)(B), an insured State bank has been determined to be in “troubled condition” if the bank—
+
+&emsp;&emsp;&emsp;(i) has a composite rating, as determined in its most recent report of examination, of 4 or 5 under the Uniform Financial Institutions Ratings System;
+
+&emsp;&emsp;&emsp;(ii) is subject to a proceeding initiated by the Corporation for termination or suspension of deposit insurance; or
+
+&emsp;&emsp;&emsp;(iii) is subject to a proceeding initiated by the State bank supervisor of the bank's home State to vacate, revoke, or terminate the charter of the bank, or to liquidate the bank, or to appoint a receiver for the bank.
+
+#### (D) Final determination
+
+&emsp;&emsp;For purposes of paragraph (2)(B), the term “final determination” means the transmittal of a report of examination to the bank or transmittal of official notice of proceedings to the bank.
 
 #### (i) Flood insurance compliance by insured depository institutions
 
@@ -330,15 +414,23 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (C) Definitions
 
-&emsp;&emsp;Solely for purposes of this paragraph, the “appropriate Federal banking agency” for acompany that is not a depository institution or depository institution holding company shall be the Federal banking agency on whose behalf the person described in paragraph (1) performed the functions described in paragraph (1)(B).
+&emsp;&emsp;Solely for purposes of this paragraph, the “appropriate Federal banking agency” for a company that is not a depository institution or depository institution holding company shall be the Federal banking agency on whose behalf the person described in paragraph (1) performed the functions described in paragraph (1)(B).
 
-(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751.)
+(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751; Pub. L. 109–351, title VI, §605, title VII, §§711, 723(a), Oct. 13, 2006, 120 Stat. 1981, 1991, 2000; Pub. L. 109–473, §1, Jan. 11, 2007, 120 Stat. 3561.)
 
 #### Prior Provisions
 
 Subsecs. (a), (b), \[former\] (e), and \[former\] (f) are derived from subsec. (k) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2007—Subsec. (d)(10). Pub. L. 109–473 substituted “$500,000,000” for “$250,000,000”.
+
+2006—Subsec. (d)(4)(A). Pub. L. 109–351, §605, substituted “$500,000,000” for “$250,000,000”.
+
+Subsec. (f). Pub. L. 109–351, §723(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Corporation may cause any and all records, papers, or documents kept by it or in its possession or custody to be photographed or microphotographed or otherwise reproduced upon film, which photographic film shall comply with the minimum standards of quality approved for permanent photographic records by the National Institute of Standards and Technology. Such photographs, microphotographs, or photographic film or copies thereof shall be deemed to be an original record for all purposes, including introduction in evidence in all State and Federal courts or administrative agencies and shall be admissible to prove any act, transaction, occurrence, or event therein recorded. Such photographs, microphotographs, or reproduction shall be preserved in such manner as the Board of Directors of the Corporation shall prescribe and the original records, papers, or documents may be destroyed or otherwise disposed of as the Board shall direct.”
+
+Subsec. (h). Pub. L. 109–351, §711, amended subsec. (h) generally. Prior to amendment, subsec. (h) related to coordination of examination authority.
 
 2004—Subsec. (b)(2)(A). Pub. L. 108–386 struck out “(except a District bank)” after “State nonmember bank”.
 
@@ -422,7 +514,7 @@ Subsec. (d). Pub. L. 101–73, §210(b)(2), struck out subsec. (d) which defined
 
 Subsec. (d). Pub. L. 97–320, §410(g), inserted “as in section 221a(b) of this title and”.
 
-1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank”and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
+1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which themain office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
 
 Pub. L. 95–369 inserted “any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank” after “(except a District bank)”, inserted “or branch” after “and any closed insured bank”, substituted “any national bank, insured Federal branch of a foreign bank, or District bank” for “any national bank or District bank” and inserted “and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits” after “effect of such relations upon such banks”.
 

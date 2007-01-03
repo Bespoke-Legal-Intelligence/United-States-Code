@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) section 1341 or 1343 affecting a financial institution.
 
-(c) As used in this section, the term “criminal investigator” means any individual duly authorized by a department, agency, or armed force of the United States to conduct or engage in investigations of or prosecutions for violations of the criminal laws of the United States.
+(c) As used in this section, the term “criminal investigator” means any individual duly authorized by a department, agency, or armed force ofthe United States to conduct or engage in investigations of or prosecutions for violations of the criminal laws of the United States.
 
 (d)(1) Whoever—
 
@@ -34,9 +34,13 @@
 
 (2) As used in paragraph (1), the term “subpoena for records” means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
 
-(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, §248(c), Aug. 21, 1996, 110 Stat. 2020.)
+(e) Whoever, having been notified of the applicable disclosure prohibitions or confidentiality requirements of section 2709(c)(1) of this title, section 626(d)(1) or 627(c)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681u(d)(1) or 1681v(c)(1)), section 1114(a)(3)(A) or 1114(a)(5)(D)(i) of the Right to Financial Privacy Act <sup>1</sup> (12 U.S.C. 3414(a)(3)(A) or 3414(a)(5)(D)(i)), or section 802(b)(1) of the National Security Act of 1947 (50 U.S.C. 436(b)(1)), knowingly and with the intent to obstruct an investigation or judicial proceeding violates such prohibitions or requirements applicable by law to such person shall be imprisoned for not more than five years, fined under this title, or both.
+
+(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, §248(c), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 109–177, title I, §117, Mar. 9, 2006, 120 Stat. 217.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–177 added subsec. (e).
 
 1996—Subsec. (b)(3)(B). Pub. L. 104–191 which directed the insertion of “or a Department of Justice subpoena (issued under section 3486 of title 18),” after “subpoena”, was executed by making the insertion after “subpoena” the second place it appeared to reflect the probable intent of Congress.
 
@@ -53,4 +57,6 @@ Subsec. (d). Pub. L. 103–322, §320604(c), added subsec. (d).
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as an Effective Date note under section 1512 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of 1978”.</i>
 

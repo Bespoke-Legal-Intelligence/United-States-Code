@@ -6,21 +6,23 @@
 
 &emsp;The Secretary may make grants and enter into contracts to assist public and nonprofit private entities and schools and academic health science centers in meeting the costs of projects—
 
-&emsp;&emsp;(A) to train health personnel, including practitioners in programs under this subchapter and other community providers, in the diagnosis, treatment, and prevention of HIV disease, including the prevention of the perinatal transmission of the disease, including measures for the prevention and treatment of opportunistic infections, and including (as applicable to the type of health professional involved), prenatal and other gynecological care for women with HIV disease;
+&emsp;&emsp;(A) to train health personnel, including practitioners in programs under this subchapter and other community providers, in the diagnosis, treatment, and prevention of HIV/AIDS, including the prevention of the perinatal transmission of the disease, including measures for the prevention and treatment of opportunistic infections, and including (as applicable to the type of health professional involved), prenatal and other gynecological care for women with HIV/AIDS;
 
-&emsp;&emsp;(B) to train the faculty of schools of, and graduate departments or programs of, medicine, nursing, osteopathic medicine, dentistry, public health, allied health, and mental health practice to teach health professions students to provide for the health care needs of individuals with HIV disease;
+&emsp;&emsp;(B) to train the faculty of schools of, and graduate departments or programs of, medicine, nursing, osteopathic medicine, dentistry, public health, allied health, and mental health practice to teach health professions students to provide for the health care needs of individuals with HIV/AIDS;
 
 &emsp;&emsp;(C) to develop and disseminate curricula and resource materials relating to the care and treatment of individuals with such disease and the prevention of the disease among individuals who are at risk of contracting the disease; and
 
-&emsp;&emsp;(D) to develop protocols for the medical care of women with HIV disease, includingprenatal and other gynecological care for such women.
+&emsp;&emsp;(D) to develop protocols for the medical care of women with HIV/AIDS, including prenatal and other gynecological care for such women.
 
 #### (2) Preference in making grants
 
 &emsp;In making grants under paragraph (1), the Secretary shall give preference to qualified projects which will—
 
-&emsp;&emsp;(A) train, or result in the training of, health professionals who will provide treatment for minority individuals with HIV disease and other individuals who are at high risk of contracting such disease; and
+&emsp;&emsp;(A) train, or result in the training of, health professionals who will provide treatment for minority individuals and Native Americans with HIV/AIDS and other individuals who are at high risk of contracting such disease;
 
-&emsp;&emsp;(B) train, or result in the training of, minority health professionals and minority allied health professionals to provide treatment for individuals with such disease.
+&emsp;&emsp;(B) train, or result in the training of, minority health professionals and minority allied health professionals to provide treatment for individuals with such disease; and
+
+&emsp;&emsp;(C) train or result in the training of health professionals and allied health professionals to provide treatment for hepatitis B or C co-infected individuals.
 
 #### (3) Application
 
@@ -32,7 +34,7 @@
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary may make grants to dental schools and programs described in subparagraph (B) to assist such schools and programs with respect to oral health care to patients with HIV disease.
+&emsp;&emsp;The Secretary may make grants to dental schools and programs described in subparagraph (B) to assist such schools and programs with respect to oral health care to patients with HIV/AIDS.
 
 #### (B) Eligible applicants
 
@@ -40,11 +42,11 @@
 
 #### (2) Application
 
-&emsp;Each dental school or program described in section <sup>1</sup> the section referred to in paragraph (1)(B) may annually submit an application documenting the unreimbursed costs of oral health care provided to patients with HIV disease by that school or hospital during the prior year.
+&emsp;Each dental school or program described in section <sup>1</sup> the section referred to in paragraph (1)(B) may annually submit an application documenting the unreimbursed costs of oral health care provided to patients with HIV/AIDS by that school or hospital during the prior year.
 
 #### (3) Distribution
 
-&emsp;The Secretary shall distribute the available funds among all eligible applicants, taking into account the number of patients with HIV disease served and the unreimbursed oral health care costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
+&emsp;The Secretary shall distribute the available funds among all eligible applicants, taking into account the number of patients with HIV/AIDS served and the unreimbursed oral health care costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
 
 #### (4) Maintenance of effort
 
@@ -52,31 +54,37 @@
 
 #### (5) Community-based care
 
-&emsp;The Secretary may make grants to dental schools and programs described in paragraph (1)(B) that partner with community-based dentists to provide oral health care to patients with HIV disease in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
+&emsp;The Secretary may make grants to dental schools and programs described in paragraph (1)(B) that partner with community-based dentists to provide oral health care to patients with HIV/AIDS in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
 
 #### (c) Authorization of appropriations
 
 #### (1) Schools; centers
 
-&emsp;For the purpose of grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+&emsp;For the purpose of awarding grants under subsection (a), there is authorized to be appropriated $34,700,000 for each of the fiscal years 2007 through 2009.
 
 #### (2) Dental schools
 
-#### (A) In general
+&emsp;For the purpose of awarding grants under subsection (b), there is authorized to be appropriated $13,000,000 for each of the fiscal years 2007 through 2009.
 
-&emsp;&emsp;For the purpose of grants under paragraphs (1) through (4) of subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349; Pub. L. 109–415, title VI, §602, title VII, §702(3), Dec. 19, 2006, 120 Stat. 2817, 2820.)
 
-#### (B) Community-based care
+#### Repeal of Section
 
-&emsp;&emsp;For the purpose of grants under subsection (b)(5) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
-
-(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349.)
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### Codification
 
 Section was formerly classified to section 294n of this title prior to renumbering by Pub. L. 104–146.
 
 #### Amendments
+
+2006—Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing in text.
+
+Subsec. (a)(2)(A). Pub. L. 109–415, §602(a)(1)(A), inserted “and Native Americans” after “minority individuals”.
+
+Subsec. (a)(2)(C). Pub. L. 109–415, §602(a)(1)(B), (2), (3), added subpar. (C).
+
+Subsec. (c). Pub. L. 109–415, §602(b), reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2007 through 2009 for provisions authorizing appropriations for fiscal years 2001 through 2005.
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–345, §402(a)(1)(A), substituted “to train” for “training”, substituted “, including” for “and including” after “transmission of the disease”, and inserted “, and including (as applicable to the type of health professional involved), prenatal and other gynecological care for women with HIV disease” before semicolon at end.
 

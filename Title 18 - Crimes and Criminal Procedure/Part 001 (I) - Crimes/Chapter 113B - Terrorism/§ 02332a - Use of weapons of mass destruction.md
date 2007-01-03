@@ -16,7 +16,7 @@ Offense Against a National of the United States or Within the United States.—A
 
 &emsp;&emsp;(D) the offense, or the results of the offense, affect interstate or foreign commerce, or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce;
 
-&emsp;(3) against any property that is owned, leased or used by the United States or by any department or agency of the United States, whether the property is within or outside of the United States; or
+&emsp;(3) against any property that is owned, leased or used by the United States or by anydepartment or agency of the United States, whether the property is within or outside of the United States; or
 
 &emsp;(4) against any property within the United States that is owned, leased, or used by a foreign government,
 

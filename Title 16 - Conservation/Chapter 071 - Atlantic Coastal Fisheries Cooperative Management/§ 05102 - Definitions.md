@@ -8,7 +8,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(B) specifies conservation and management actions to be taken by the States.
 
-&emsp;(2) The term “coastal fishery resource” means any fishery, any species of fish, or any stock of fish that moves among, or is broadly distributed across, waters under the jurisdiction of two or more States or waters under the jurisdiction of one or more States and the exclusive economic zone.
+&emsp;(2) The term “coastal fishery resource” means any fishery, any species of fish, or anystock of fish that moves among, or is broadly distributed across, waters under the jurisdiction of two or more States or waters under the jurisdiction of one or more States and the exclusive economic zone.
 
 &emsp;(3) The term “Commission” means the Atlantic States Marine Fisheries Commission established under the interstate compact consented to and approved by the Congress in Public Laws 77–539 and 81–721.
 

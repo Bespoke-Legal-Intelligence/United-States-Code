@@ -56,7 +56,7 @@ Sec. 7. The Commission shall prepare and submit an interim and final report to t
 
 (a) The Commission shall submit an Interim Report no later than September 30, 2002. The Interim Report shall describe the Commission's examination of:
 
-&emsp;(i) available research and information on the effectiveness of current practices at the local, State, andFederal levels in closing the educational achievement gap for Hispanic Americans and attaining the goals established by the President's “No Child Left Behind” educational blueprint;
+&emsp;(i) available research and information on the effectiveness of current practices at the local, State, and Federal levels in closing the educational achievement gap for Hispanic Americans and attaining the goals established by the President's “No Child Left Behind” educational blueprint;
 
 &emsp;(ii) available research and information on the effectiveness of current practices involving Hispanic parents in the education of their children; and
 

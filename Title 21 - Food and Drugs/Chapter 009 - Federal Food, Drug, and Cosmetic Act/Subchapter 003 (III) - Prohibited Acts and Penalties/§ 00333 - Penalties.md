@@ -34,7 +34,7 @@
 
 (B) If, in an action brought under paragraph (2) against a manufacturer or distributor relating to the conviction of a representative of such manufacturer or distributor for the sale, purchase, or trade of a drug or the offer to sell, purchase, or trade a drug, it is shown, by clear and convincing evidence—
 
-&emsp;(i) that the manufacturer or distributor conducted, before the institution of a criminal proceeding against such representative for the violation which resulted in such conviction, an investigation of events or transactions which would have led to the reporting of information leading to the institution of a criminalproceeding against, and conviction of, such representative for such purchase, sale, or trade or offer to purchase, sell, or trade, or
+&emsp;(i) that the manufacturer or distributor conducted, before the institution of a criminal proceeding against such representative for the violation which resulted in such conviction, an investigation of events or transactions which would have led to the reporting of information leading to the institution of a criminal proceeding against, and conviction of, such representative for such purchase, sale, or trade or offer to purchase, sell, or trade, or
 
 &emsp;(ii) that, except in the case of the conviction of a representative employed in a supervisory function, despite diligent implementation by the manufacturer or distributor of an independent audit and security system designed to detect such a violation, the manufacturer or distributor could not reasonably have been expected to have detected such violation,
 
@@ -68,7 +68,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 #### (g) Violations related to devices
 
-(1)(A) Except as provided in subparagraph (B), any person who violates a requirement of this chapter which relates to devices shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding. For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) ofthis title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.
+(1)(A) Except as provided in subparagraph (B), any person who violates a requirement of this chapter which relates to devices shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding. For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) of this title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.
 
 (B) Subparagraph (A) shall not apply—
 
@@ -104,7 +104,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 801 of this title and Tables.
+The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Subsec. (d). Pub. L. 102–353, §3(b)(4), (5), substituted “subsection (a)(1)
 
 “(e)(1) Except as provided in paragraph (2), any person who distributes or possesses with the intent to distribute any anabolic steroid for any use in humans other than the treatment of disease pursuant to the order of a physician shall be imprisoned for not more than three years or fined under title 18, or both.
 
-“(2) Any person who distributes or possesses with the intent to distribute to an individual under 18 years of age, any anabolic steroid for any use in humans other than the treatment of disease pursuant to the order of a physician shall be imprisoned for not more than six years or fined under title 18, or both.”
+“(2) Any person who distributes or possesses with the intent to distribute to an individual under 18 years of age, any anabolic steroid for any use in humans otherthan the treatment of disease pursuant to the order of a physician shall be imprisoned for not more than six years or fined under title 18, or both.”
 
 Subsec. (f). Pub. L. 101–629 added subsec. (f).
 
@@ -182,7 +182,7 @@ Effective Date of Application to Device User Facilities.—
 
 &emsp;“(1) The Secretary of Health and Human Services shall conduct a study to determine whether there has been substantial compliance with the requirements of section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\] by device user facilities (as defined in section 519(b)(5)(A) of such Act). The Secretary shall report the results of the study to the Congress after the expiration of 45 months after the date of the enactment of this Act \[Nov. 28, 1990\].
 
-&emsp;“(2)(A) If upon the expiration of 48 months after the date of the enactment of this Act \[Nov. 28, 1990\] theSecretary has not made the report required by paragraph (1), section 303(f) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 333(f)\], as added by the amendment made by subsection (a), shall take effect with respect to device user facilities (as defined in section 519(b)(5)(A) of such Act). \[Secretary of Health and Human Services had not made the report required by par. (1) on the expiration of 48 months after Nov. 28, 1990.\]
+&emsp;“(2)(A) If upon the expiration of 48 months after the date of the enactment of this Act \[Nov. 28, 1990\] the Secretary has not made the report required by paragraph (1), section 303(f) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 333(f)\], as added by the amendment made by subsection (a), shall take effect with respect to device user facilities (as defined in section 519(b)(5)(A) of such Act). \[Secretary of Health and Human Services had not made the report required by par. (1) on the expiration of 48 months after Nov. 28, 1990.\]
 
 &emsp;“(B) If in the report under paragraph (1) the Secretary reports that there has been substantial compliance with the requirements of such section 519(b) by a type of device user facility and if the Secretary does not make a determination under subparagraph (C) with respect to such type of facility, such section 303(f) shall not take effect with respect to such type of facility.
 

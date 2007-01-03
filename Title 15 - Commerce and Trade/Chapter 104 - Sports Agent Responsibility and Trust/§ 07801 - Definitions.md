@@ -8,7 +8,7 @@ As used in this chapter, the following definitions apply:
 
 #### (2) Athlete agent
 
-&emsp;The term “athlete agent” means an individual who enters into an agency contract with a student athlete, or directly or indirectly recruits or solicits a student athlete to enter into an agency contract, and does not include a spouse, parent, sibling, grandparent, or guardian of such student athlete, any legal counsel for purposes other than that of representative agency, or an individual actingsolely on behalf of a professional sports team or professional sports organization.
+&emsp;The term “athlete agent” means an individual who enters into an agency contract with a student athlete, or directly or indirectly recruits or solicits a student athlete to enter into an agency contract, and does not include a spouse, parent, sibling, grandparent, or guardian of such student athlete, any legal counsel for purposes other than that of representative agency, or an individual acting solely on behalf of a professional sports team or professional sports organization.
 
 #### (3) Athletic director
 
@@ -24,7 +24,7 @@ As used in this chapter, the following definitions apply:
 
 #### (6) Intercollegiate sport
 
-&emsp;The term “intercollegiate sport” means a sport played at the collegiate level for which eligibility requirements for participation by a student athlete are established by a national association for the promotion or regulation of college athletics.
+&emsp;The term “intercollegiate sport” means a sport played at the collegiate level for which eligibility requirements for participation by a student athlete are established by a nationalassociation for the promotion or regulation of college athletics.
 
 #### (7) Professional sports contract
 

@@ -14,13 +14,13 @@ Mission.—The mission of the centers shall be as follows:
 
 &emsp;(1) To carry out research on, and to develop methods of detection, diagnosis, prevention, and treatment of injuries, diseases, and illnesses arising from the use of chemical, biological, radiological, incendiary or other explosive weapons or devices posing threats to the public health and safety.
 
-&emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) or through interagency agreements entered into by the Secretary for that purpose.
+&emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) <sup>1</sup> or through interagency agreements entered into by the Secretary for that purpose.
 
 &emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological, medical, or other assistance as the Secretary considers appropriate to Federal, State, and local health care agencies and personnel involved in or responding to the disaster or emergency.
 
 (c)
 
-Selection of Centers.—(1) The Secretary shall select the sites for the centers on the basis of a competitive selection process. The Secretary may not designate a site as a location for a center under this section unless the Secretary makes a finding under paragraph (2) with respect to the proposal for the designation of such site. To the maximum extent practicable, the Secretary shall ensure the geographic dispersal of the sites throughout the United States. Any such center may be a consortium of efforts of more than one medical center.
+Selection of Centers.—(1) The Secretary shall select the sites for the centers on the basisof a competitive selection process. The Secretary may not designate a site as a location for a center under this section unless the Secretary makes a finding under paragraph (2) with respect to the proposal for the designation of such site. To the maximum extent practicable, the Secretary shall ensure the geographic dispersal of the sites throughout the United States. Any such center may be a consortium of efforts of more than one medical center.
 
 (2) A finding by the Secretary referred to in paragraph (1) with respect to a proposal for designation of a site as a location of a center under this section is a finding by the Secretary, upon the recommendations of the Under Secretary for Health and the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions, that the facility or facilities submitting the proposal have developed (or may reasonably be anticipated to develop) each of the following:
 
@@ -74,9 +74,15 @@ Funding.—(1) Amounts appropriated for the activities of the centers under this
 
 (Added Pub. L. 107–287, §2(a)(1), Nov. 7, 2002, 116 Stat. 2024.)
 
+#### References in Text
+
+Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, §102(a)(2), title III, §301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
+
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Peer Review for Designation of Centers
 
@@ -89,4 +95,6 @@ Pub. L. 107–287, §2(b), Nov. 7, 2002, 116 Stat. 2027, provided that:
 “(3) The panel shall review each proposal submitted to the panel by the officials referred to in paragraph (1) and shall submit to the Under Secretary for Health its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
 
 “(4) The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

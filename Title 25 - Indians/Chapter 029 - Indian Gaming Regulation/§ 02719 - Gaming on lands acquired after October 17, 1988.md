@@ -14,7 +14,7 @@ Except as provided in subsection (b) of this section, gaming regulated by this c
 
 &emsp;&emsp;&emsp;(ii) are contiguous to other land held in trust or restricted status by the United States for the Indian tribe in Oklahoma; or
 
-&emsp;&emsp;(B) such lands are located in a State other than Oklahoma and are within the Indiantribe's last recognized reservation within the State or States within which such Indian tribe is presently located.
+&emsp;&emsp;(B) such lands are located in a State other than Oklahoma and are within the Indian tribe's last recognized reservation within the State or States within which such Indian tribe is presently located.
 
 #### (b) Exceptions
 

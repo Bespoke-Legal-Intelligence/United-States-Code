@@ -52,5 +52,5 @@ A prior section 511 was renumbered section 12103 of this title.
 
 #### Continuation for Army of Prior Army College First Program
 
-Pub. L. 108–375, div. A, title V, §551(b), Oct. 28, 2004, 118 Stat. 1911, provided that: “The Secretary of the Army shall treat the program under section 511 of title 10, United States Code, as added by subsection (a), as a continuation of the program under section 573 of the National Defense Authorization Act for Fiscal Year 2000 \[Pub. L. 106–65\] (10 U.S.C. 513 note), and for such purpose the Secretary may treat such section 511 as having been enacted on October 1, 2004.”
+Pub. L. 108–375, div. A, title V, §551(b), Oct. 28, 2004, 118 Stat. 1911, provided that: “The Secretary of the Army shall treat the program under section 511 of title 10, United States Code, as added by subsection (a), as a continuation of the program under section 573 of the National Defense Authorization Act for Fiscal Year 2000 \[Pub. L. 106–65\] (\[formerly\] 10 U.S.C. 513 note), and for such purpose the Secretary may treat such section 511 as having been enacted on October 1, 2004.”
 

@@ -17,7 +17,7 @@ Part H—General Provisions
 - [&sect; 00289a&#8211;2 - Inclusion of women and minorities in clinical research](%C2%A7%2000289a%E2%80%932%20-%20Inclusion%20of%20women%20and%20minorities%20in%20clinical%20research.md)
 - [&sect; 00289b - Office of Research Integrity](%C2%A7%2000289b%20-%20Office%20of%20Research%20Integrity.md)
 - [&sect; 00289b&#8211;1 - Protection against financial conflicts of interest in certain projects of research](%C2%A7%2000289b%E2%80%931%20-%20Protection%20against%20financial%20conflicts%20of%20interest%20in%20certain%20projects%20of%20research.md)
-- [&sect; 00289c - Research on public health emergencies; report to Congressional committees](%C2%A7%2000289c%20-%20Research%20on%20public%20health%20emergencies%3B%20report%20to%20Congressional%20committees.md)
+- [&sect; 00289c - Research on public health emergencies](%C2%A7%2000289c%20-%20Research%20on%20public%20health%20emergencies.md)
 - [&sect; 00289c&#8211;1 - Collaborative use of certain health services research funds](%C2%A7%2000289c%E2%80%931%20-%20Collaborative%20use%20of%20certain%20health%20services%20research%20funds.md)
 - [&sect; 00289d - Animals in research](%C2%A7%2000289d%20-%20Animals%20in%20research.md)
 - [&sect; 00289e - Use of appropriations](%C2%A7%2000289e%20-%20Use%20of%20appropriations.md)

@@ -24,7 +24,7 @@ In carrying out his functions the Director shall assist and advise the President
 
 &emsp;(4) promoting the advancement of scientific knowledge of the effects of actions and technology on the environment and encourage <sup>1</sup> the development of the means to prevent or reduce adverse effects that endanger the health and well-being of man;
 
-&emsp;(5) assisting in coordinating among the Federal departments and agencies those programsand activities which affect, protect, and improve environmental quality;
+&emsp;(5) assisting in coordinating among the Federal departments and agencies those programs and activities which affect, protect, and improve environmental quality;
 
 &emsp;(6) assisting the Federal departments and agencies in the development and interrelationship of environmental quality criteria and standards established through the Federal Government;
 
@@ -50,7 +50,7 @@ In subsec. (e), “section 3324(a) and (b) of title 31” substituted for refere
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

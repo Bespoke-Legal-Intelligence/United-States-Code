@@ -14,7 +14,7 @@ To carry out the purposes of subsection (a) of this section, the Secretary is au
 
 &emsp;(3) acquire by purchase, lease, or agreement, capital equipment for such services; and
 
-&emsp;(4) where necessary to carry out the purposes of this chapter, acquire by lease, purchase, donation, exchange, or transfer, lands, waters, and interests therein which are situated outside the boundary of a unit of the national park system, which property shall be administered as part of the unit: <i>Provided</i>, That any land or interests in land owned by a State or any of its political subdivisions may be acquired only by donation: <i>Provided further</i>, That any land acquisition shall be subject to such statutory limitations, if any, on methods of acquisition and appropriations thereof as may be specifically applicable to such area.
+&emsp;(4) where necessary to carry out the purposes of this chapter, acquire by lease, purchase, donation, exchange, or transfer, lands, waters, and interests therein which are situated outside the boundary of a unit of the national park system, which property shall beadministered as part of the unit: <i>Provided</i>, That any land or interests in land owned by a State or any of its political subdivisions may be acquired only by donation: <i>Provided further</i>, That any land acquisition shall be subject to such statutory limitations, if any, on methods of acquisition and appropriations thereof as may be specifically applicable to such area.
 
 #### (c) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(A), Nov. 12, 1996, 110 Stat. 4195
 

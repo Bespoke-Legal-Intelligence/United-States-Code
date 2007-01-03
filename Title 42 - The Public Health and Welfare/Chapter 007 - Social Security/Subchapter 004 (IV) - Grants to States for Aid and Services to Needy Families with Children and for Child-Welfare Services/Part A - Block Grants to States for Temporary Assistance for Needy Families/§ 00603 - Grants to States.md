@@ -16,71 +16,91 @@
 
 &emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2003 $16,566,542,000 for grants under this paragraph.
 
-#### (2) Bonus to reward decrease in illegitimacy ratio
+#### (2) Healthy marriage promotion and responsible fatherhood grants
 
 #### (A) In general
 
-&emsp;&emsp;Each eligible State shall be entitled to receive from the Secretary a grant for each bonus year.
+#### (i) Use of funds
 
-#### (B) Amount of grant
+&emsp;&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary may use the funds made available under subparagraph (D) for the purpose of conducting and supporting researchand demonstration projects by public or private entities, and providing technical assistance to States, Indian tribes and tribal organizations, and such other entities as the Secretary may specify that are receiving a grant under another provision of this part.
+
+#### (ii) Limitations
+
+&emsp;&emsp;&emsp;The Secretary may not award funds made available under this paragraph on a noncompetitive basis, and may not provide any such funds to an entity for the purpose of carrying out healthy marriage promotion activities or for the purpose of carrying out activities promoting responsible fatherhood unless the entity has submitted to the Secretary an application which—
+
+&emsp;&emsp;&emsp;&emsp;(I) describes—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) how the programs or activities proposed in the application will address, as appropriate, issues of domestic violence; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) what the applicant will do, to the extent relevant, to ensure that participation in the programs or activities is voluntary, and to inform potential participants that their participation is voluntary; and
+
+&emsp;&emsp;&emsp;&emsp;(II) contains a commitment by the entity—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to not use the funds for any other purpose; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to consult with experts in domestic violence or relevant community domestic violence coalitions in developing the programs and activities.
+
+#### (iii) Healthy marriage promotion activities
+
+&emsp;&emsp;&emsp;In clause (ii), the term “healthy marriage promotion activities” means the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Public advertising campaigns on the value of marriage and the skills needed to increase marital stability and health.
+
+&emsp;&emsp;&emsp;&emsp;(II) Education in high schools on the value of marriage, relationship skills, and budgeting.
+
+&emsp;&emsp;&emsp;&emsp;(III) Marriage education, marriage skills, and relationship skills programs, that may include parenting skills, financial management, conflict resolution, and job and career advancement, for non-married pregnant women and non-married expectant fathers.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Pre-marital education and marriage skills training for engaged couples and for couples or individuals interested in marriage.
+
+&emsp;&emsp;&emsp;&emsp;(V) Marriage enhancement and marriage skills training programs for married couples.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Divorce reduction programs that teach relationship skills.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Marriage mentoring programs which use married couples as role models and mentors in at-risk communities.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) Programs to reduce the disincentives to marriage in means-tested aid programs, if offered in conjunction with any activity described in this subparagraph.
+
+#### (B) Limitation on use of funds for demonstration projects for coordination of provision of child welfare and TANF services to tribal families at risk of child abuse or neglect
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, for a bonus year, none of the eligible States is Guam, the Virgin Islands, or American Samoa, then the amount of the grant shall be—
+&emsp;&emsp;&emsp;Of the amounts made available under subparagraph (D) for a fiscal year, the Secretary may not award more than $2,000,000 on a competitive basis to fund demonstration projects designed to test the effectiveness of tribal governments or tribal consortia in coordinating the provision to tribal families at risk of child abuse or neglect of child welfare services and services under tribal programs funded under this part.
 
-&emsp;&emsp;&emsp;&emsp;(I) $20,000,000 if there are 5 eligible States; or
+#### (ii) Limitation on use of funds
 
-&emsp;&emsp;&emsp;&emsp;(II) $25,000,000 if there are fewer than 5 eligible States.
+&emsp;&emsp;&emsp;A grant made pursuant to clause (i) to such a project shall not be used for any purpose other than—
 
-#### (ii) Amount if certain territories are eligible
+&emsp;&emsp;&emsp;&emsp;(I) to improve case management for families eligible for assistance from such a tribal program;
 
-&emsp;&emsp;&emsp;If, for a bonus year, Guam, the Virgin Islands, or American Samoa is an eligible State, then the amount of the grant shall be—
+&emsp;&emsp;&emsp;&emsp;(II) for supportive services and assistance to tribal children in out-of-home placements and the tribal families caring for such children, including families who adopt such children; and
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of such a territory, 25 percent of the mandatory ceiling amount (as defined in section 1308(c)(4) of this title) with respect to the territory; and
+&emsp;&emsp;&emsp;&emsp;(III) for prevention services and assistance to tribal families at risk of child abuse and neglect.
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a State that is not such a territory—
+#### (iii) Reports
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) if there are 5 eligible States other than such territories, $20,000,000, minus 1/5 of the total amount of the grants payable under this paragraph to such territories for the bonus year; or
+&emsp;&emsp;&emsp;The Secretary may require a recipient of funds awarded under this subparagraph to provide the Secretary with such information as the Secretary deems relevant to enable the Secretary to facilitate and oversee the administration of any project for which funds are provided under this subparagraph.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if there are fewer than 5 such eligible States, $25,000,000, or such lesser amount as may be necessary to ensure that the total amount of grants payable under this paragraph for the bonus year does not exceed $100,000,000.
+#### (C) Limitation on use of funds for activities promoting responsible fatherhood
 
-#### (C) Definitions
+#### (i) In general
 
-&emsp;&emsp;As used in this paragraph:
+&emsp;&emsp;&emsp;Of the amounts made available under subparagraph (D) for a fiscal year, the Secretary may not award more than $50,000,000 on a competitive basis to States, territories, Indian tribes and tribal organizations, and public and nonprofit community entities, including religious organizations, for activities promoting responsible fatherhood.
 
-#### (i) Eligible State
+#### (ii) Activities promoting responsible fatherhood
 
-#### (I) In general
+&emsp;&emsp;&emsp;In this paragraph, the term “activities promoting responsible fatherhood” means the following:
 
-&emsp;&emsp;&emsp;&emsp;The term “eligible State” means a State that the Secretary determines meets the following requirements:
+&emsp;&emsp;&emsp;&emsp;(I) Activities to promote marriage or sustain marriage through activities such as counseling, mentoring, disseminating information about the benefits of marriage and 2-parent involvement for children, enhancing relationship skills, education regarding how to control aggressive behavior, disseminating information on the causes of domestic violence and child abuse, marriage preparation programs, premarital counseling, marital inventories, skills-based marriage education, financial planning seminars, including improving a family's ability to effectively manage family business affairs by means such as education, counseling, or mentoring on matters related to family finances, including household management, budgeting, banking, and handling of financial transactions and home maintenance, and divorce education and reduction programs, including mediation and counseling.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) The State demonstrates that the illegitimacy ratio of the State for the most recent 2-year period for which such information is available decreased as compared to the illegitimacy ratio of the State for the previous 2-year period, and the magnitude of the decrease for the State for the period is not exceeded by the magnitudeof the corresponding decrease for 5 or more other States for the period. In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to the magnitude of the corresponding decrease for any such territory.
+&emsp;&emsp;&emsp;&emsp;(II) Activities to promote responsible parenting through activities such as counseling, mentoring, and mediation, disseminating information about good parenting practices, skills-based parenting education, encouraging child support payments, and other methods.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) The rate of induced pregnancy terminations in the State for the calendar year for which the most recent data are available is less than the rate of induced pregnancy terminations in the State for calendar year 1995.
+&emsp;&emsp;&emsp;&emsp;(III) Activities to foster economic stability by helping fathers improve their economic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
 
-#### (II) Disregard of changes in data due to changed reporting methods
-
-&emsp;&emsp;&emsp;&emsp;In making the determination required by subclause (I), the Secretary shall disregard—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) any difference between the illegitimacy ratio of a State for a calendar year and the illegitimacy ratio of a State for calendar year 1995 which is attributable to a change in State methods of reporting data used to calculate the illegitimacy ratio; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any difference between the rate of induced pregnancy terminations in a State for a calendar year and such rate for calendar year 1995 which is attributable to a change in State methods of reporting data used to calculate such rate.
-
-#### (ii) Bonus year
-
-&emsp;&emsp;&emsp;The term “bonus year” means calendar years 1999, 2000, 2001, 2002, and 2003.
-
-#### (iii) Illegitimacy ratio
-
-&emsp;&emsp;&emsp;The term “illegitimacy ratio” means, with respect to a State and a period—
-
-&emsp;&emsp;&emsp;&emsp;(I) the number of out-of-wedlock births to mothers residing in the State that occurred during the period; divided by
-
-&emsp;&emsp;&emsp;&emsp;(II) the number of births to mothers residing in the State that occurred during the period.
+&emsp;&emsp;&emsp;&emsp;(IV) Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
 
 #### (D) Appropriation
 
-&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1999 through 2003, such sums as are necessary for grants under this paragraph.
+&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $150,000,000 for each of fiscal years 2006 through 2010, for expenditure in accordance with this paragraph.
 
 #### (3) Supplemental grant for population increases in certain States
 
@@ -172,7 +192,7 @@
 
 &emsp;&emsp;&emsp;(i) any State that was a qualifying State under this paragraph for fiscal year 2001 or any prior fiscal year shall be entitled to receive from the Secretary for each of fiscal years 2002 and 2003 a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year in which the State was a qualifying State;
 
-&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if “March 31, 2006” were substituted for “fiscal year 2001”; and
+&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if “fiscal year 2008” were substituted for “fiscal year 2001”; and
 
 &emsp;&emsp;&emsp;(iii) out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2002 and 2003 such sums as are necessary for grants under this subparagraph.
 
@@ -356,7 +376,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) The effectiveness of the proposal in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) expanding the base of knowledge about programs aimed at moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) expanding the base of knowledge about programs aimed at moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment.<sup>3</sup>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment; and
 
@@ -392,7 +412,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) 25 percent of the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuantto subparagraphs (E), (F), and (G) for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus thetotal of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
 
@@ -520,11 +540,11 @@
 
 #### (ii) Private industry council
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area <sup>3</sup> of 1998 \[29 U.S.C. 2801 et seq.\], as appropriate.
+&emsp;&emsp;&emsp;As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area <sup>4</sup> of 1998 \[29 U.S.C. 2801 et seq.\], as appropriate.
 
 #### (iii) Service delivery area
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>4</sup>
+&emsp;&emsp;&emsp;As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>5</sup>
 
 #### (E) Funding for Indian tribes
 
@@ -668,7 +688,7 @@
 
 #### (ii) Payments to all States
 
-&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years 1997 through 2006 shall not exceed the total amount appropriated pursuant to paragraph (2).
+&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years 1997 through 2010 shall not exceed the total amount appropriated pursuant to paragraph (2).
 
 #### (4) “Eligible month” defined
 
@@ -686,7 +706,7 @@
 
 &emsp;&emsp;(B) as determined by the Secretary of Agriculture (in the discretion of the Secretary of Agriculture), the monthly average number of individuals (as of the last day of each month) participating in the food stamp program in the State in the then most recently concluded 3-month period for which data are available exceeds by not less than 10 percent the lesser of—
 
-&emsp;&emsp;&emsp;(i) the monthly average number of individuals (as of the last day of each month) in the State that would have participated in the food stamp program in the corresponding 3-month period in fiscal year 1994 if the amendments made by titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 had been in effect throughout fiscal year 1994; or
+&emsp;&emsp;&emsp;(i) the monthly average number of individuals (as of the last day of each month) in the State that would have participated in the food stamp program in the corresponding 3-month period in fiscal year 1994 if the amendments made by titles IV \[8 U.S.C. 1601 et seq.\] and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 had been in effect throughout fiscal year 1994; or
 
 &emsp;&emsp;&emsp;(ii) the monthly average number of individuals (as of the last day of each month) in the State that would have participated in the food stamp program in the corresponding 3-month period in fiscal year 1995 if the amendments made by titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 had been in effect throughout fiscal year 1995.
 
@@ -772,7 +792,7 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138.)
 
 #### References in Text
 
@@ -788,15 +808,21 @@ The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is Pub.
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-Titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(5)(B), are titles IV (§400 et seq.) and VIII (§801 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, 2308. For complete classification of these titles to the Code, see Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(5)(B), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of titles IV and VIII of the Act to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, titleI, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, titleV, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
 
-2005—Subsec. (a)(3)(H)(ii). Pub. L. 109–161 substituted “March 31, 2006” for “December 31, 2005”.
+2006—Subsec. (a)(2). Pub. L. 109–171, §7103(a), amended heading and text of par. (2) generally. Prior to amendment, text related to bonus grant to reward decrease in illegitimacy ratio and defined for purposes of par. (2) terms “eligible State”, “bonus year”, and “illegitimacy ratio”.
+
+Subsec. (a)(3)(H)(ii). Pub. L. 109–171, §7101(b)(1), which directed substitution of “fiscal year 2008” for “December, 31, 2005”, was executed by making the substitution for “December 31, 2005” to reflect the probable intent of Congress.
+
+Subsec. (b)(3)(C)(ii). Pub. L. 109–171, §7101(b)(2), substituted “2010” for “2006”.
+
+2005—Subsec. (a)(3)(H)(ii). Pub. L. 109–161, which directed substitution of “March 31, 2006” for “December 31, 2005”, could not be executed due to amendment by Pub. L. 109–171, §7101(b)(1). See 2006 Amendment note above and Effective Date of 2006 Amendment note below.
 
 Pub. L. 109–68, §2(b)(2)(A), substituted “December 31” for “September 30”.
 
@@ -958,7 +984,7 @@ Subsec. (a)(2)(C)(i)(I)(bb). Pub. L. 105–33, §5502(c)(1)(A), substituted “t
 
 Subsec. (a)(2)(C)(i)(II). Pub. L. 105–33, §5502(c)(1)(B), substituted “calendar” for “fiscal” wherever appearing.
 
-Subsec. (a)(2)(C)(i)(II)(aa). Pub. L. 105–33, §5502(b)(3)(A)(ii), substituted “illegitimacy ratio of” for “number of out-of-wedlock births that occurred in” in two places and “calculate the illegitimacy ratio” for “calculate the number of out-of-wedlock births”.
+Subsec. (a)(2)(C)(i)(II)(aa). Pub. L. 105–33, §5502(b)(3)(A)(ii), substituted “illegitimacy ratio of” for“number of out-of-wedlock births that occurred in” in two places and “calculate the illegitimacy ratio” for “calculate the number of out-of-wedlock births”.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 105–33, §5502(c)(2), substituted “calendar years” for “fiscal years”.
 
@@ -972,7 +998,7 @@ Subsec. (a)(5)(A)(i)(I), (ii)(II). Pub. L. 105–78 substituted “during the pe
 
 Subsec. (b)(2). Pub. L. 105–89, §404(a), inserted “, reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii)” before period.
 
-Subsec. (b)(4), (5). Pub. L. 105–33, §5502(e)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which required each State toremit to the Secretary at the end of each fiscal year certain excess amounts paid to the State under par. (3) during the fiscal year.
+Subsec. (b)(4), (5). Pub. L. 105–33, §5502(e)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which required each State to remit to the Secretary at the end of each fiscal year certain excess amounts paid to the State under par. (3) during the fiscal year.
 
 Subsec. (b)(6). Pub. L. 105–33, §5502(e)(3), added par. (6).
 
@@ -995,6 +1021,10 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.”
 1996—Subsec. (b)(4)(A)(i)(II). Pub. L. 104–327, §1(b)(1), struck out “minus any Federal payment with respect to such child care expenditures” after “for fiscal year 1994”.
 
 Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted “the sum of” before “the expenditures” and “, and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990” before “; exceeds”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: “Except as otherwise provided in this title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005.”
 
 #### Effective Date of 2003 Amendment
 
@@ -1046,7 +1076,9 @@ Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(f)\], Nov. 29, 1999,
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Act”.</i>
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>4</sup></i><i> So in original.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “Act”.</i>
+
+<i><sup>5</sup></i><i> So in original.</i>
 

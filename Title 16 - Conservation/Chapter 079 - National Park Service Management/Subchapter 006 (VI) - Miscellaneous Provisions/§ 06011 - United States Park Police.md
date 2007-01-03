@@ -2,7 +2,7 @@
 
 #### (a) Appointment of task force
 
-Not later than 60 days after November 13, 1998, the Secretary shall appoint a multidisciplinary task force to fully evaluate the shortfalls, needs, and requirements of law enforcement programs in the National Park Service, including a separate analysis for the United States Park Police,which shall include a review of facility repair, rehabilitation, equipment, and communication needs.
+Not later than 60 days after November 13, 1998, the Secretary shall appoint a multidisciplinary task force to fully evaluate the shortfalls, needs, and requirements of law enforcement programs in the National Park Service, including a separate analysis for the United States Park Police, which shall include a review of facility repair, rehabilitation, equipment, and communication needs.
 
 #### (b) Submission of report
 

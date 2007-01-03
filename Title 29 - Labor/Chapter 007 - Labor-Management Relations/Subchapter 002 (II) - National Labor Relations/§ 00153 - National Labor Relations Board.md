@@ -34,7 +34,7 @@ In subsec. (d), “administrative law judges” substituted for “trial examine
 
 1959—Subsec. (b). Pub. L. 86–257, §701(b), authorized the Board to delegate to its regional directors its powers under section 159 of this title to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under section 159(c) or 159(e) of this title and certify the results thereof.
 
-Subsec. (d). Pub. L. 86–257, §703, authorized the President to designate the officer or employee who shall actas General Counsel in the case of a vacancy in the office of the General Counsel.
+Subsec. (d). Pub. L. 86–257, §703, authorized the President to designate the officer or employee who shall act as General Counsel in the case of a vacancy in the office of the General Counsel.
 
 1947—Act June 23, 1947, amended section generally by increasing membership from three to five, delegating its powers and duties to a quorum of any three members, and by appointing a General Counsel and outlining his powers and duties.
 

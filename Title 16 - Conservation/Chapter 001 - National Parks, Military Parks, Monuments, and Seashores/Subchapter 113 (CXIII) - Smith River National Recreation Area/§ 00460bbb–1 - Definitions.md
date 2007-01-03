@@ -10,7 +10,7 @@ As used in this subchapter—
 
 &emsp;(4) the term “Secretary” means the Secretary of Agriculture; and
 
-&emsp;(5) the term “inner gorge” means the inherently unstable steep slope (65 percent gradient or more) immediately adjacent to the stream or river channel, extending from the channel or recent floodplain to the first significant break in slope (usually 15 percent or more).
+&emsp;(5) the term “inner gorge” means the inherently unstable steep slope (65 percent gradientor more) immediately adjacent to the stream or river channel, extending from the channel or recent floodplain to the first significant break in slope (usually 15 percent or more).
 
 (Pub. L. 101–612, §3, Nov. 16, 1990, 104 Stat. 3209.)
 

@@ -28,7 +28,7 @@ Upon petition by the Commission, any United States district court within the jur
 
 #### (c) Civil liability for disclosure of information
 
-No person shall be subject to civil liability to any person (other than the Commission or theUnited States) for disclosing information at the request of the Commission.
+No person shall be subject to civil liability to any person (other than the Commission or the United States) for disclosing information at the request of the Commission.
 
 #### (d) Concurrent transmissions to Congress or Member of budget estimates, etc.; prior submission of legislative recommendations, testimony, or comments on legislation
 

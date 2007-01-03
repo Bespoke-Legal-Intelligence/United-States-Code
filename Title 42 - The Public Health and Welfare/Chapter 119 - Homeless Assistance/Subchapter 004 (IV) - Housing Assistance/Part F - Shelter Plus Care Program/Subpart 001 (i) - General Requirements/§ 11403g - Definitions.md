@@ -44,7 +44,7 @@ Par. (4). Pub. L. 104–330, §506(a)(9)(B), struck out par. (4) which read as f
 
 &emsp;“(A) in the case of rental housing assistance under subparts II and IV of this part, a State, unit of general local government, or Indian tribe; and
 
-&emsp;“(B) in the case of single room occupancy housing under the section 8 moderate rehabilitation program under subpart III of this part (i) a State, unit of general local government, or Indian tribe (that shall be responsible for assuring the provision of supportive services and the overall administration of the program), and (ii) a public housing agency (that shall be primarily responsible for administering the housing assistance under subpart III of this part).”
+&emsp;“(B) in the case of single room occupancy housing under the section 8 moderate rehabilitation program under subpart III of this part (i) a State, unit of general local government, or Indian tribe (that shall be responsible for assuring the provision of supportive services and the overall administration of the program), and (ii) a public housing agency (that shall beprimarily responsible for administering the housing assistance under subpart III of this part).”
 
 Par. (5). Pub. L. 102–550, §1406(e)(2)(B), inserted before period at end “, and includes community mental health centers established as public nonprofit organizations”.
 

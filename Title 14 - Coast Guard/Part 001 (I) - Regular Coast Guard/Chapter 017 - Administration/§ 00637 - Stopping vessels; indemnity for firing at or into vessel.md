@@ -28,7 +28,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsec. (a). Pub. L. 108–293, §205(a), designated existing provisions as par. (1), substituted “subject to paragraph (2),” for “after a gun has been fired by the authorized vessel or authorized aircraft as a warning signal,”, and added par. (2).
 
-Subsec. (c). Pub. L. 108–293, §205(b), inserted “or” after the semicolon at end of par. (1), inserted “or military aircraft” after “surface naval vessel” and substituted a period for “; or” in par. (2), and struck out par. (3) which read as follows: “subject to subsection (d), it is a naval aircraft that has one or more members of the Coast Guard on board and is operating from a surface naval vessel described in paragraph (2).”
+Subsec. (c). Pub. L. 108–293, §205(b), inserted “or” after the semicolon at end of par. (1), inserted “or military aircraft” after “surface naval vessel” and substituted a period for “; or” in par. (2), and struck out par. (3) which read as follows: “subject to subsection\(d), it is a naval aircraft that has one or more members of the Coast Guard on board and is operating from a surface naval vessel described in paragraph (2).”
 
 Subsec. (d). Pub. L. 108–293, §205(c), struck out subsec. (d) which related to inclusion of naval aircraft as authorized aircraft for purposes of this section.
 

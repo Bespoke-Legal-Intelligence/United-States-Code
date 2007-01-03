@@ -10,7 +10,7 @@ Under article I, section 8, of the Constitution, it is specifically provided tha
 
 #### (c) Presidential executive power as Commander-in-Chief; limitation
 
-The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
+The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities isclearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
 
 (Pub. L. 93–148, §2, Nov. 7, 1973, 87 Stat. 555.)
 
@@ -84,6 +84,8 @@ Reports to Congress on United States Policy and Military Operations in Iraq.—N
 
 &emsp;“(6) A plan for meeting such conditions, an assessment of the extent to which such conditions have been met, information regarding variables that could alter that plan, and the reasons for any subsequent changes to that plan.”
 
+\[Memorandum of President of the United States, Apr. 6, 2006, 71 F.R. 19427, assigned to the Secretary of State the functions of the President under section 1227(c) of Pub. L. 109–163, set out above.\]
+
 #### Authorization for Use of Military Force Against Iraq Resolution of 2002
 
 Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
@@ -96,7 +98,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas Iraq, in direct and flagrant violation of the cease-fire, attempted to thwart the efforts of weapons inspectors to identify and destroy Iraq's weapons of mass destruction stockpiles and development capabilities, which finally resulted in the withdrawal of inspectors from Iraq on October 31, 1998;
 
-“Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuingweapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in ‘material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations’;
+“Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuing weapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in ‘material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations’;
 
 “Whereas Iraq both poses a continuing threat to the national security of the United States and international peace and security in the Persian Gulf region and remains in material and unacceptable breach of its international obligations by, among other things, continuing to possess and develop a significant chemical and biological weapons capability, actively seeking a nuclear weapons capability, and supporting and harboring terrorist organizations;
 
@@ -146,7 +148,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 &emsp;“(1) strictly enforce through the United Nations Security Council all relevant Security Council resolutions regarding Iraq and encourages him in those efforts; and
 
-&emsp;“(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategyof delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
+&emsp;“(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategy of delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
 
 #### “SEC. 3. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
@@ -338,7 +340,7 @@ Statement of Congressional Policy.—
 
 &emsp;“(1)
 
-Consultation with the congress.—The President should consult closely with the Congress regarding United States policy with respect to Somalia, including in particular the deployment of United States Armed Forces in that country, whether under United Nations or United States command.
+Consultation with the congress.—The President should consult closely with the Congress regarding United States policy with respect to Somalia, including in particular the deployment of United StatesArmed Forces in that country, whether under United Nations or United States command.
 
 &emsp;“(2)
 
@@ -422,7 +424,7 @@ Authorization.—The President is authorized, subject to subsection (b), to use 
 
 “(b)
 
-Requirement for Determination That Use of Military Force Is Necessary.—Before exercising theauthority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
+Requirement for Determination That Use of Military Force Is Necessary.—Before exercising the authority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
 
 &emsp;“(1) the United States has used all appropriate diplomatic and other peaceful means to obtain compliance by Iraq with the United Nations Security Council resolutions cited in subsection (a); and
 
@@ -512,13 +514,13 @@ Sec. 2. (a) The Congress finds that—
 
 “
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing theMultinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### “reports to the congress
 
 “
 
-Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on thestatus, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
+Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on the status, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
 
 &emsp;“(1) the activities being performed by the Multinational Force in Lebanon;
 
@@ -584,7 +586,7 @@ Memorandum of President of the United States, July 2, 2004, 69 F.R. 43723, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military ForceAgainst Iraq Resolution, Public Law 102–1 \[set out in a note above\], to make the specified reports to the Congress.
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military Force Against Iraq Resolution, Public Law 102–1 \[set out in a note above\], to make the specified reports to the Congress.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

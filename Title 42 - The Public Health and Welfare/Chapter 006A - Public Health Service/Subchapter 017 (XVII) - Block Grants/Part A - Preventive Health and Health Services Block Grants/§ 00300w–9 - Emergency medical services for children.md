@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-For activities in addition to the activities which may be carried out by States under section 300w–3(a)(1)(F) <sup>1</sup> of this title, the Secretary may make grants to States or accredited schools of medicine in States to support a program of demonstration projects for the expansion and improvement of emergency medical services for children who need treatment for trauma or critical care. Any grant made under this subsection shall be for not more than a 3-year period (with an optional 4th year based on performance), subject to annual evaluation by the Secretary. Only 3 grants under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year.
+For activities in addition to the activities which may be carried out by States under section 300w–3(a)(1)(F) <sup>1</sup> of this title, the Secretary may make grants to States or accredited schools of medicine in States to support a program of demonstration projects for the expansion and improvement of emergency medical services for children who need treatment for trauma or critical care. Any grant made under this subsection shall be for not more than a 3-year period (with an optional 4th year based onperformance), subject to annual evaluation by the Secretary. Only 3 grants under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year.
 
 #### (b) Renewals
 

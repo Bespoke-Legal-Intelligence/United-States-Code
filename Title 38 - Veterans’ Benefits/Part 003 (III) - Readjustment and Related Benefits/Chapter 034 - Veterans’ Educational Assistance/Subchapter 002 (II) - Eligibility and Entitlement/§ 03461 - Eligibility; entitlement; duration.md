@@ -1,22 +1,28 @@
 ### §3461. Eligibility; entitlement; duration
 
-### Entitlement
+(a)
 
-(a) Except as provided in subsection (c) and in the second sentence of this subsection, each eligible veteran shall be entitled to educational assistance under this chapter or chapter 36 for a period of one and one-half months (or the equivalent thereof in part-time educational assistance) for each month or fraction thereof of the veteran's service on active duty after January 31, 1955. If an eligible veteran has served a period of 18 months or more on active duty after January 31, 1955, and has been released from such service under conditions that would satisfy the veteran's active duty obligation, the veteran shall be entitled to educational assistance under this chapter for a period of 45 months (or the equivalent thereof in part-time educational assistance). In the case of any person serving on active duty on December 31, 1976, or a person whose eligibility is based on section 3452(a)(1)(B) of this chapter, the ending date for computingsuch person's entitlement shall be the date of such person's first discharge or release from active duty after December 31, 1976.
+Entitlement.—Except as provided in subsection (c) and in the second sentence of this subsection, each eligible veteran shall be entitled to educational assistance under this chapter or chapter 36 for a period of one and one-half months (or the equivalent thereof in part-time educational assistance) for each month or fraction thereof of the veteran's service on active duty after January 31, 1955. If an eligible veteran has served a period of 18 months or more on active duty after January 31, 1955, and has been released from such service under conditions that would satisfy the veteran's active duty obligation, the veteran shall be entitled to educational assistance under this chapter for a period of 45 months (or the equivalent thereof in part-time educational assistance). In the case of any person serving on active duty on December 31, 1976, or a person whose eligibility is based on section 3452(a)(1)(B) of this chapter, the ending date for computing such person's entitlement shall be the date of such person's first discharge or release from active duty after December 31, 1976.
 
-### Entitlement Limitations
+(b)
 
-(b) Whenever the period of entitlement under this section of an eligible veteran who is enrolled in an educational institution regularly operated on the quarter or semester system ends during a quarter or semester, such period shall be extended to the termination of such unexpired quarter or semester. In educational institutions not operated on the quarter or semester system, whenever the period of eligibility ends after a major portion of the course is completed such period shall be extended to the end of the course or for twelve weeks, whichever is the lesser period.
+Entitlement Limitations.—Whenever the period of entitlement under this section of an eligible veteran who is enrolled in an educational institution regularly operated on the quarter or semester system ends during a quarter or semester, such period shall be extended to the termination of such unexpired quarter or semester. In educational institutions not operated on the quarter or semester system, whenever the period of eligibility ends after a major portion of the course is completed such period shall be extended to the end of the course or for twelve weeks, whichever is the lesser period.
 
-(c) Except as provided in subsection (b) and in subchapter V of this chapter, no eligible veteran shall receive educational assistance under this chapter in excess of 45 months.
+(c)
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1661; amended Pub. L. 90–77, title III, §306(b)(2), Aug. 31, 1967, 81 Stat. 188; Pub. L. 90–631, §1(b), Oct. 23, 1968, 82 Stat. 1331; Pub. L. 91–219, title II, §204(a)(1), Mar. 26, 1970, 84 Stat. 79; Pub. L. 92–540, title IV, §401(1), Oct. 24, 1972, 86 Stat. 1089; Pub. L. 93–508, title II, §202, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§203, 211(2), title IV, §403(a), Oct. 15, 1976, 90 Stat. 2386, 2388, 2393; Pub. L. 96–466, title VI, §601(b), Oct. 17, 1980, 94 Stat. 2208; renumbered §3461 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+Duration of Entitlement.—Except as provided in subsection (b) and in subchapter V of this chapter, no eligible veteran shall receive educational assistance under this chapter in excess of 45 months.
+
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1661; amended Pub. L. 90–77, title III, §306(b)(2), Aug. 31, 1967, 81 Stat. 188; Pub. L. 90–631, §1(b), Oct. 23, 1968, 82 Stat. 1331; Pub. L. 91–219, title II, §204(a)(1), Mar. 26, 1970, 84 Stat. 79; Pub. L. 92–540, title IV, §401(1), Oct. 24, 1972, 86 Stat. 1089; Pub. L. 93–508, title II, §202, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§203, 211(2), title IV, §403(a), Oct. 15, 1976, 90 Stat. 2386, 2388, 2393; Pub. L. 96–466, title VI, §601(b), Oct. 17, 1980, 94 Stat. 2208; renumbered §3461 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, §503(8)(A), (B), June 15, 2006, 120 Stat. 416.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1610 and 1611(a), 1611(a)(2), (3), and 1611(b) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+2006—Subsecs. (a), (b). Pub. L. 109–233, §503(8)(A), revised style of headings.
+
+Subsec. (c). Pub. L. 109–233, §503(8)(B), inserted heading.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1661 of this title as this section.
 

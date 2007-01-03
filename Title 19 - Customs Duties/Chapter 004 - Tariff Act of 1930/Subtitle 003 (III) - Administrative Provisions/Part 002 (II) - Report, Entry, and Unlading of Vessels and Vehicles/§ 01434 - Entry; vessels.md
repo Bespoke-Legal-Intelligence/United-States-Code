@@ -52,7 +52,7 @@ Special provisions to facilitate the entry of steamships running in an establish
 
 2000—Subsec. (a)(3). Pub. L. 106–476 struck out “bonded merchandise or” before “foreign merchandise”.
 
-1993—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Except as otherwise provided by law, and under such regulations as the Commissioner of Customs may prescribe, the master of a vessel of the United States arriving in the United States from a foreign port or place shall, within forty-eight hours after its arrival within the limits of any customs collection district, make formal entry of the vessel at the customhouse by producing and depositing with the appropriate customs officer the vessel's crew list, its register, or document in lieu thereof, the clearance and bills of health issued to the vessel at the foreign port or ports from which it arrived, together with the original and one copy of the manifest, and shall make oath that the ownership of the vessel is as indicated in the register, or document in lieu thereof, and that the manifest was made out in accordance with section 1431 of this title.”
+1993—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Except asotherwise provided by law, and under such regulations as the Commissioner of Customs may prescribe, the master of a vessel of the United States arriving in the United States from a foreign port or place shall, within forty-eight hours after its arrival within the limits of any customs collection district, make formal entry of the vessel at the customhouse by producing and depositing with the appropriate customs officer the vessel's crew list, its register, or document in lieu thereof, the clearance and bills of health issued to the vessel at the foreign port or ports from which it arrived, together with the original and one copy of the manifest, and shall make oath that the ownership of the vessel is as indicated in the register, or document in lieu thereof, and that the manifest was made out in accordance with section 1431 of this title.”
 
 1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
@@ -60,7 +60,7 @@ Special provisions to facilitate the entry of steamships running in an establish
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on orafter the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
+Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Effective Date of 1970 Amendment
 

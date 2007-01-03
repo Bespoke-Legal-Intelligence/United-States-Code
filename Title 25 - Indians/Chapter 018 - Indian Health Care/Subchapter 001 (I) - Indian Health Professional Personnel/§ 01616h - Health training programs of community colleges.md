@@ -42,7 +42,7 @@ Any program receiving assistance under this section that is conducted with respe
 
 &emsp;(2) provides clinical services on an Indian reservation, at a Service facility, or at a tribal clinic.
 
-> Such courses of study may be offered in conjunction with the college or university with whichthe community college has entered into the agreement required under subsection (b)(2)(C) of this section.
+> Such courses of study may be offered in conjunction with the college or university with which the community college has entered into the agreement required under subsection (b)(2)(C) of this section.
 
 #### (e) Definitions
 

@@ -20,7 +20,7 @@ The authorization in subsection (a) of this section expires March 1, 1999 and sh
 
 &emsp;(6) after the Secretary of the Interior issues an opinion of value to the Committee on Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Committees on Appropriations of the House and Senate for the land and property to be acquired by the Federal Government. Such opinion of value shall also include the total value of all compensation (including tax benefits) proposed to be provided for the acquisition;
 
-&emsp;(7) after an Environmental Impact Statement for the proposed Habitat Conservation Plan has been prepared and completed in accordance with the applicable provisions of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]; and
+&emsp;(7) after an Environmental Impact Statement for the proposed Habitat ConservationPlan has been prepared and completed in accordance with the applicable provisions of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]; and
 
 &emsp;(8) when adequate provision has been made for public access to the property.
 
@@ -82,7 +82,7 @@ The Secretary of the Interior is authorized, with the written concurrence of the
 
 &emsp;&emsp;(B) Before a management structure and management plan are adopted for such land, the Secretary of the Interior or the board of trustees, as the case may be, shall submit a proposal for the structure and plan to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives. The proposed management plan shall not become effective until the passage of 90 days after its submission to the Committees.
 
-&emsp;&emsp;(C) The Secretary of the Interior or the board of trustees, as the case may be, shall report annually to the Committee on Energy and Natural Resources of the Senate, the Committee on Resources of the House ofRepresentatives, and the House and Senate Committees on Appropriations concerning the management of lands acquired under the authority of this section and activities undertaken on such lands.
+&emsp;&emsp;(C) The Secretary of the Interior or the board of trustees, as the case may be, shall report annually to the Committee on Energy and Natural Resources of the Senate, the Committee on Resources of the House of Representatives, and the House and Senate Committees on Appropriations concerning the management of lands acquired under the authority of this section and activities undertaken on such lands.
 
 #### (2) Plan
 

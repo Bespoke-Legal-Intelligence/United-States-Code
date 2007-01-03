@@ -1,12 +1,12 @@
 ### §1031. Administration of oath
 
-Any commissioned officer of any component of an armed force, whether or not on active duty, may administer any oath—
+The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath—
 
 &emsp;(1) required for the enlistment or appointment of any person in the armed forces; or
 
 &emsp;(2) required by law in connection with such an enlistment or appointment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 109–364, div. A, title V, §595(b), Oct. 17, 2006, 120 Stat. 2235.)
 
 Historical and Revision Notes
 
@@ -24,5 +24,9 @@ Historical and Revision Notes
 
 May 22, 1950, ch. 193, §1, 64 Stat. 187.
 
-The words “(including the reserve component)” are omitted, since the words “any component of an armedforce” include the reserve components. The words “any oath required for the enlistment or appointment of any person” are substituted for the words “the oath required for the enlistment of any person, the oath required for the appointment of any person to commissioned or warrant officer grade, and any other oath required by law in connection with the enlistment or appointment of any person”.
+The words “(including the reserve component)” are omitted, since the words “any component of an armed force” include the reserve components. The words “any oath required for the enlistment or appointment of any person” are substituted for the words “the oath required for the enlistment of any person, the oath required for the appointment of any person to commissioned or warrant officer grade, and any other oath required by law in connection with the enlistment or appointment of any person”.
+
+#### Amendments
+
+2006—Pub. L. 109–364 substituted “The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath” for “Any commissioned officer of any component of an armed force, whether or not on active duty, may administer any oath” in introductory provisions.
 

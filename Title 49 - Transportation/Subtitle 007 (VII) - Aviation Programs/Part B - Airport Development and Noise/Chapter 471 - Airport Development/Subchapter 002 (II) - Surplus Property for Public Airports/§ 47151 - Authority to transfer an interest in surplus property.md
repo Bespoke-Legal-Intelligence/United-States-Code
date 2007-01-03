@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Subject to sections 47152 and 47153 of this title, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may convey to aState, political subdivision of a State, or tax-supported organization any interest in surplus property—
+General Authority.—Subject to sections 47152 and 47153 of this title, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may convey to a State, political subdivision of a State, or tax-supported organization any interest in surplus property—
 
 &emsp;(1) that the Secretary of Transportation decides is—
 

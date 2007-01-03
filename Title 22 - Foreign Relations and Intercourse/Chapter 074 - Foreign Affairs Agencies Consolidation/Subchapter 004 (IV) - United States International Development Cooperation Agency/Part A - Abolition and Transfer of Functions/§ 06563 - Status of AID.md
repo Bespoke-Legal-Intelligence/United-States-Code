@@ -12,5 +12,5 @@ Nothing in this section shall require the reappointment of any officer of the Un
 
 #### References in Text
 
-For the effective date of this subchapter, referred to in subsec. (b), meaning the effective date of title XIV of subdiv. A of div. G of Pub. L. 105–277, see section 1401 of Pub. L. 105–277, set out as a note under section 6561 of this title.
+For the effective date of this subchapter, referred to in subsec. (b), meaning the effective date of title XIVof subdiv. A of div. G of Pub. L. 105–277, see section 1401 of Pub. L. 105–277, set out as a note under section 6561 of this title.
 

@@ -46,7 +46,7 @@ With respect to an eligible family, each of the following services shall, direct
 
 &emsp;(5) Education for the parents concerning behaviors that adversely affect health.
 
-&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV andXIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; other food assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
+&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV and XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; other food assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
 
 #### (c) Considerations in making grants
 
@@ -194,7 +194,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;(3) the application contains evidence that the preparation of the application has been coordinated with the State agencies responsible for maternal and child health and child welfare, and coordinated with services provided under part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; and
 
-&emsp;(4) the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+&emsp;(4) the application is in such form, is made in such manner, and contains such agreements, assurances, and information as theSecretary determines to be necessary to carry out this section.
 
 #### (<i>o</i>) Peer review
 

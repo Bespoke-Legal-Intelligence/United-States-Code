@@ -47,10 +47,6 @@ R.S. §2727 fixed the salary of the four general appraisers at the sum of $2,500
 
 1970—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
 
-#### Rules of the United States Court of International Trade
-
-See Appendix to this title.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §542. Advisory Committee on Women Veterans
 
-(a)(1) The Secretary shall establish an advisory committee to be known as the AdvisoryCommittee on Women Veterans (hereinafter in this section referred to as “the Committee”).
+(a)(1) The Secretary shall establish an advisory committee to be known as the Advisory Committee on Women Veterans (hereinafter in this section referred to as “the Committee”).
 
 (2)(A) The Committee shall consist of members appointed by the Secretary from the general public, including—
 
@@ -24,7 +24,7 @@
 
 (b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
 
-(c)(1) Not later than July 1 of each even-numbered year through 2004, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
+(c)(1) Not later than July 1 of each even-numbered year through 2008, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
 
 &emsp;(A) an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
 
@@ -38,7 +38,7 @@
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, §208(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468.)
 
 #### Prior Provisions
 
@@ -47,6 +47,12 @@ Prior section 542 was renumbered section 1542 of this title.
 Provisions similar to those in this section were contained in section 222 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §208(b), substituted “2008” for “2004” in introductory provisions.
+
+Pub. L. 109–444, which substituted “2008” for “2004” in introductory provisions, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2000—Subsec. (c)(1). Pub. L. 106–419 inserted “through 2004” after “each even-numbered year” in introductory provisions.
 

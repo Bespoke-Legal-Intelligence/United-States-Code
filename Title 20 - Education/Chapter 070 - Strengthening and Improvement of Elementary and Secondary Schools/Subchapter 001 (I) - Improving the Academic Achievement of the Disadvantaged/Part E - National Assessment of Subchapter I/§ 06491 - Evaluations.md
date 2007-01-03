@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(J) The extent to which State and local fiscal accounting requirements under this subchapter affect the flexibility of schoolwide programs.
 
-&emsp;&emsp;(K) The implementation and impact of the professional development activities assisted under this subchapter and subchapter II of this chapter on instruction, student academic achievement, and teacher qualifications.
+&emsp;&emsp;(K) The implementation and impact of the professional development activities assistedunder this subchapter and subchapter II of this chapter on instruction, student academic achievement, and teacher qualifications.
 
 &emsp;&emsp;(L) The extent to which the assistance made available under this subchapter, including funds under section 6302 of this title, is targeted to disadvantaged students, schools, and local educational agencies with the greatest need.
 

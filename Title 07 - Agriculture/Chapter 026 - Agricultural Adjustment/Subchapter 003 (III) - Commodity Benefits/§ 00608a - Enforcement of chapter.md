@@ -4,7 +4,7 @@
 
 #### (5) Forfeitures
 
-Any person exceeding any quota or allotment fixed for him under this chapter by the Secretary of Agriculture and any other personknowingly participating or aiding in the exceeding of such quota or allotment shall forfeit to the United States a sum equal to the value of such excess at the current market price for such commodity at the time of violation, which forfeiture shall be recoverable in a civil suit brought in the name of the United States.
+Any person exceeding any quota or allotment fixed for him under this chapter by the Secretary of Agriculture and any other person knowingly participating or aiding in the exceeding of such quota or allotment shall forfeit to the United States a sum equal to the value of such excess at the current market price for such commodity at the time of violation, which forfeiture shall be recoverable in a civil suit brought in the name of the United States.
 
 #### (6) Jurisdiction of district courts
 

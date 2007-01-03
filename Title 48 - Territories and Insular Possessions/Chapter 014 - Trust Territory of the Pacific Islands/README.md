@@ -5,9 +5,6 @@
 | [1681\.](%C2%A7%2001681%20-%20Continuance%20of%20civil%20government%20for%20Trust%20Territory%20of%20the%20Pacific%20Islands%3B%20assistance%20programs%3B%20maximum%20fiscal%20year%20costs%3B%20reimbursement.md) | Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement. |
 | [1681a.](%C2%A7%2001681a%20-%20Appointment%20of%20High%20Commissioner.md) | Appointment of High Commissioner. |
 | [1681b.](%C2%A7%2001681b%20-%20Transfer%20of%20functions%20from%20government%20comptroller%20for%20Guam%20to%20Inspector%20General%2C%20Department%20of%20the%20Interior.md) | Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior. |
-| (a) | Functions, powers, and duties transferred. |
-| (b) | Scope of authority transferred. |
-| (c) | Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior. |
 | 1681c, 1682. Repealed or Omitted. |  |
 | [1683\.](%C2%A7%2001683%20-%20Auditing%20of%20transactions%20of%20Trust%20Territory%20of%20the%20Pacific%20Islands.md) | Auditing of transactions of Trust Territory of the Pacific Islands. |
 | [1684\.](%C2%A7%2001684%20-%20Expenditure%20of%20funds%20for%20administration%20of%20Trust%20Territory%20of%20the%20Pacific%20Islands.md) | Expenditure of funds for administration of Trust Territory of the Pacific Islands. |
@@ -26,7 +23,7 @@
 
 #### Termination of Trust Territory of the Pacific Islands
 
-The Trust Territory of the Pacific Islands, which included the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau, terminated. The Trusteeship Agreement terminatedwith respect to the Republic of the Marshall Islands on Oct. 21, 1986, with respect to the Federated States of Micronesia and the Commonwealth of the Northern Mariana Islands on Nov. 3, 1986, and with respect to the Republic of Palau on Oct. 1, 1994. See Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title, and Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of this title.
+The Trust Territory of the Pacific Islands, which included the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau, terminated. The Trusteeship Agreement terminated with respect to the Republic of the Marshall Islands on Oct. 21, 1986, with respect to the Federated States of Micronesia and the Commonwealth of the Northern Mariana Islands on Nov. 3, 1986, and with respect to the Republic of Palau on Oct. 1, 1994. See Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title, and Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of this title.
 
 For provisions relating to the Northern Mariana Islands, formerly set out as notes under section 1681 of this title, see chapter 17 (§1801 et seq.) of this title. For provisions relating to the Federated States of Micronesia, the Marshall Islands, and Palau, formerly set out as notes under section 1681 of this title, see chapter 18 (§1901 et seq.) of this title.
 

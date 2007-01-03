@@ -36,7 +36,7 @@ The Secretary of Labor shall take such actions as the Secretary determines to be
 
 #### (e) Reorganization
 
-Not later than 1 year after August 7, 1998, the Secretary of Labor shall reorganize and alignfunctions within the Department of Labor and within the Employment and Training Administration in order to carry out the duties and responsibilities required by this Act (and related laws) in an effective and efficient manner.
+Not later than 1 year after August 7, 1998, the Secretary of Labor shall reorganize and align functions within the Department of Labor and within the Employment and Training Administration in order to carry out the duties and responsibilities required by this Act (and related laws) in an effective and efficient manner.
 
 (Pub. L. 105–220, title V, §506, Aug. 7, 1998, 112 Stat. 1246; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–332, §4(2), Oct. 31, 1998, 112 Stat. 3126.)
 

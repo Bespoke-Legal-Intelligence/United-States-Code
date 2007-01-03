@@ -12,7 +12,7 @@ Prohibition.—(1) Consistent with the policy referred to in subsection (a), the
 
 (c)
 
-Waiver Authority.—The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States. Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.
+Waiver Authority.—The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States. Within 15 days after the end of each fiscal year,the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.
 
 (d)
 

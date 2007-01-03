@@ -78,7 +78,7 @@ The Secretary is authorized—
 
 #### (1) In general
 
-&emsp;The Secretary may provide appropriate support to eligible entities to enable the eligible entities to provide training, materials, development, and staff assistance to schools assisted under this part.
+&emsp;The Secretary may provide appropriate support to eligible entities to enable the eligibleentities to provide training, materials, development, and staff assistance to schools assisted under this part.
 
 #### (2) Definition of eligible entity
 

@@ -20,13 +20,25 @@
 
 &emsp;(2) all persons appointed or enlisted in, or conscripted into, the Air Force without component; and
 
-&emsp;(3) all Air Force units and other Air Force organizations, with their installations and supporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
+&emsp;(3) all Air Force units and other Air Force organizations, with their installations andsupporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
 
 (e) Subject to subsection (f) of this section, chapter 831 of this title, and the strength authorized by law pursuant to section 115 of this title, the authorized strength of the Air Force is 70 Regular Air Force groups and such separate Regular Air Force squadrons, reserve groups, and supporting and auxiliary regular and reserve units as required.
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441.)
+(g)(1) Effective October 1, 2008, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 299 aircraft.
+
+(2) In this subsection:
+
+&emsp;(A) The term “strategic airlift aircraft” means an aircraft—
+
+&emsp;&emsp;(i) that has a cargo capacity of at least 150,000 pounds; and
+
+&emsp;&emsp;(ii) that is capable of transporting outsized cargo an unrefueled range of at least 2,400 nautical miles.
+
+&emsp;(B) The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112.)
 
 Historical and Revision Notes
 
@@ -96,6 +108,8 @@ In subsection (f), the word “considers” is substituted for the words “may 
 
 2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
+Subsec. (g). Pub. L. 109–364 added subsec. (g).
+
 1987—Subsec. (e). Pub. L. 100–26 and Pub. L. 100–180 amended subsec. (e) identically, substituting “section 115” for “section 114”.
 
 1986—Subsec. (e). Pub. L. 99–433 substituted “section 114” for “section 138”.
@@ -105,4 +119,6 @@ In subsection (f), the word “considers” is substituted for the words “may 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+§8066
 

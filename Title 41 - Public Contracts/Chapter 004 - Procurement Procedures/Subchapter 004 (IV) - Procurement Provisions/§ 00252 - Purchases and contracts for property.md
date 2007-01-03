@@ -2,7 +2,7 @@
 
 #### (a) Applicability of subchapter; delegation of authority
 
-Executive agencies shall make purchases and contracts for property and services in accordance with the provisions of this subchapter andimplementing regulations of the Administrator; but this subchapter does not apply—
+Executive agencies shall make purchases and contracts for property and services in accordance with the provisions of this subchapter and implementing regulations of the Administrator; but this subchapter does not apply—
 
 &emsp;(1) to the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration; or
 
@@ -140,7 +140,7 @@ Sec. 4. (a) Pursuant to an application by a small business concern, the head of 
 
 &emsp;“(11) an estimate of the total profits from other Government business, and all other sources, during the period from the date of the first contract involved to the latest estimated date of completion of any other contracts involved;
 
-&emsp;“(12) balance sheets, certified by a certified public accountant, as of the end of the contractor's fiscal year first preceding the date of the first contract, as of the end of each subsequent fiscal year, and as ofthe date of the request together with income statements for annual periods subsequent to the date of the first balance sheet; and
+&emsp;“(12) balance sheets, certified by a certified public accountant, as of the end of the contractor's fiscal year first preceding the date of the first contract, as of the end of each subsequent fiscal year, and as of the date of the request together with income statements for annual periods subsequent to the date of the first balance sheet; and
 
 &emsp;“(13) a list of all salaries, bonuses, and all other forms of compensation of the principal officers or partners and of all dividends and other withdrawals, and all payments to stockholders in any form since the date of the first contract involved.
 

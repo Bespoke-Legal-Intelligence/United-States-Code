@@ -20,9 +20,9 @@ Provision of Meals and Refreshments.—For purposes of section 520c of this titl
 
 Recognition Items of Nominal or Modest Value.—In this section, the term “recognition item of nominal or modest value” means a commemorative coin, medal, trophy, badge, flag, poster, painting, or other similar item that is valued at less than $50 per item and is designed to recognize or commemorate service in the armed forces.
 
-(d)
+(Added Pub. L. 109–163, div. A, title V, §589(a)(1), Jan. 6, 2006, 119 Stat. 3279; amended Pub. L. 109–364, div. A, title V, §594, Oct. 17, 2006, 120 Stat. 2235.)
 
-Termination of Authority.—The authority under this section shall expire December 31, 2007.
+#### Amendments
 
-(Added Pub. L. 109–163, div. A, title V, §589(a)(1), Jan. 6, 2006, 119 Stat. 3279.)
+2006—Subsec. (d). Pub. L. 109–364 struck out heading and text of subsec. (d). Text read as follows: “The authority under this section shall expire December 31, 2007.”
 

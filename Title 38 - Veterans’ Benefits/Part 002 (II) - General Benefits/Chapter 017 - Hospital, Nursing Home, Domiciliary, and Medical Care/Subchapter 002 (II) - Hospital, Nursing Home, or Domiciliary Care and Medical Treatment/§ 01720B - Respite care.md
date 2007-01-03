@@ -42,7 +42,7 @@ Pub. L. 101–110, §3(b), Oct. 6, 1989, 103 Stat. 682, ratified actions of the 
 
 #### Interim Extension of Respite Care Program
 
-Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwithstanding the provisions of subsection (c) of section 620B \[now 1720B\] of title 38, UnitedStates Code, the authority provided by such section shall terminate on November 30, 1989.”
+Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwithstanding the provisions of subsection (c) of section 620B \[now 1720B\] of title 38, United States Code, the authority provided by such section shall terminate on November 30, 1989.”
 
 #### Report
 

@@ -18,7 +18,7 @@
 
 #### (b) Cooperative education program
 
-(1) The Secretary shall maintain, through the Bureau of Indian Affairs, a cooperative education program for the purpose of recruiting promising Indian and Alaska Native students who are enrolled in secondary schools, tribally-controlled community colleges, and other post-secondary or graduate schools for employment as a professional forester or other forestry-related professional with the Bureau of Indian Affairs, an Indian tribe, or a tribal forest-related enterprise.
+(1) The Secretary shall maintain, through the Bureau of Indian Affairs, a cooperative education program for the purpose of recruiting promising Indian and Alaska Native studentswho are enrolled in secondary schools, tribally-controlled community colleges, and other post-secondary or graduate schools for employment as a professional forester or other forestry-related professional with the Bureau of Indian Affairs, an Indian tribe, or a tribal forest-related enterprise.
 
 (2) The cooperative educational program that is to be maintained under paragraph (1) shall be modeled on and shall have essentially the same features of the program operated on November 28, 1990, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
@@ -36,7 +36,7 @@
 
 (1) The Secretary is authorized to grant forestry scholarships to Indians and Alaska Natives enrolled in accredited programs for post-secondary and graduate forestry and forestry-related programs of study as full-time students.
 
-(2) A recipient of a scholarship under paragraph (1) shall be required to enter into an obligated service agreement with the Secretary inwhich the recipient agrees to accept employment for one year for each year the recipient received a scholarship, following completion of the recipient's forestry or forestry-related course of study, with
+(2) A recipient of a scholarship under paragraph (1) shall be required to enter into an obligated service agreement with the Secretary in which the recipient agrees to accept employment for one year for each year the recipient received a scholarship, following completion of the recipient's forestry or forestry-related course of study, with
 
 &emsp;(A) the Bureau of Indian Affairs;
 

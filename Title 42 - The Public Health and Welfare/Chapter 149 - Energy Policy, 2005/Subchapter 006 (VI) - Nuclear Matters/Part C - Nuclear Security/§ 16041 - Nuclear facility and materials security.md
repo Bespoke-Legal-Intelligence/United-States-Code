@@ -70,7 +70,7 @@ For any licensed nuclear power plants located where there is a permanent populat
 
 &emsp;&emsp;&emsp;&emsp;(I) a description of the conditions under which a State may exercise authority over byproduct material; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a statement of the Commission that any agreement covering byproduct material, as defined in paragraph (1) or (2) of section 2014(e) of this title, entered into between the Commission and a State under section 2021(b) of this title before the date of publication of the transition plan shall be considered to include byproduct material, as defined in paragraph (3) or (4) of section 2014(e) of this title, if the Governor of the State certifies to the Commission on the date of publication of the transition plan that—
+&emsp;&emsp;&emsp;&emsp;(II) a statement of the Commission that any agreement covering byproductmaterial, as defined in paragraph (1) or (2) of section 2014(e) of this title, entered into between the Commission and a State under section 2021(b) of this title before the date of publication of the transition plan shall be considered to include byproduct material, as defined in paragraph (3) or (4) of section 2014(e) of this title, if the Governor of the State certifies to the Commission on the date of publication of the transition plan that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the State has a program for licensing byproduct material, as defined in paragraph (3) or (4) of section 2014(e) of this title, that is adequate to protect the public health and safety, as determined by the Commission; and
 

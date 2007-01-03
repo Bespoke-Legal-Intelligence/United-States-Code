@@ -18,11 +18,11 @@
 
 &emsp;(1) The term “agency” does not include the government of the District of Columbia.
 
-&emsp;(2) The term “approved places of public accommodation” means hotels, motels, and other places of public accommodation that are listed by the Director of the Federal Emergency Management Agency as meeting the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2225).
+&emsp;(2) The term “approved places of public accommodation” means hotels, motels, and other places of public accommodation that are listed by the Administrator of the Federal Emergency Management Agency as meeting the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2225).
 
 &emsp;(3) The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 
-(Added Pub. L. 101–391, §4(a), Sept. 25, 1990, 104 Stat. 749; amended Pub. L. 105–85, div. A, title XI, §1107(a)–(c), Nov. 18, 1997, 111 Stat. 1924, 1925.)
+(Added Pub. L. 101–391, §4(a), Sept. 25, 1990, 104 Stat. 749; amended Pub. L. 105–85, div. A, title XI, §1107(a)–(c), Nov. 18, 1997, 111 Stat. 1924, 1925; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Amendments
 
@@ -44,13 +44,13 @@ Pub. L. 105–85, §1107(a)(1), redesignated subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 105–85, §1107(b), added subsec. (f).
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (f)(2) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Effective Date
 
-Section 4(c) of Pub. L. 101–391 provided that: “The amendments made by this section \[enacting this section\] shall take effect 60 days after the date of the publication in the Federal Register \[Nov. 24, 1992, 57 F.R. 55314\] of the master list of certified places of public accommodation maintained by the Director of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2224(b)\] (as added by section 3 of this Act).”
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+Section 4(c) of Pub. L. 101–391 provided that: “The amendments made by this section \[enacting this section\] shall take effect 60 days after the date of the publication in the Federal Register \[Nov. 24, 1992, 57 F.R. 55314\] of the master list of certified places of public accommodation maintained by the Director \[now Administrator\] of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2224(b)\] (as added by section 3 of this Act).”
 
 #### Termination of Trust Territory of the Pacific Islands
 

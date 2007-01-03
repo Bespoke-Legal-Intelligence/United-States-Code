@@ -4,10 +4,6 @@
 | :--- | ---: |
 | [271\.](%C2%A7%2000271%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 | [272\.](%C2%A7%2000272%20-%20Establishment%2C%20functions%2C%20and%20activities.md) | Establishment, functions, and activities. |
-| (a) | Establishment of National Institute of Standards and Technology. |
-| (b) | Functions of Secretary and Institute. |
-| (c) | Implementation activities. |
-| (d) | Management costs. |
 | [272a.](%C2%A7%2000272a%20-%20Technology%20services.md) | Technology services. |
 | [272b.](%C2%A7%2000272b%20-%20Annual%20budget%20submission.md) | Annual budget submission. |
 | [273\.](%C2%A7%2000273%20-%20Functions%3B%20for%20whom%20exercised.md) | Functions; for whom exercised. |
@@ -19,93 +15,28 @@
 | [276\.](%C2%A7%2000276%20-%20Ownership%20of%20facilities.md) | Ownership of facilities. |
 | [277\.](%C2%A7%2000277%20-%20Regulations.md) | Regulations. |
 | [278\.](%C2%A7%2000278%20-%20Visiting%20Committee%20on%20Advanced%20Technology.md) | Visiting Committee on Advanced Technology. |
-| (a) | Establishment; appointment; membership and composition; review and recommendations. |
-| (b) | Qualifications; recommendations for appointment. |
-| (c) | Terms of office; eligibility. |
-| (d) | Meetings; quorum; notice. |
-| (e) | Appointment by Committee of executive and other committees. |
-| (f) | Chairman; Vice Chairman. |
-| (g) | Professional and clerical staff. |
-| (h) | Annual and other reports to Secretary and Congress. |
 | [278a.](%C2%A7%2000278a%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93611%2C%20%C2%A74%28a%29%281%29%2C%20Oct.%202%2C%201964%2C%2078%20Stat.%20991.md) | Repealed. |
 | [278b.](%C2%A7%2000278b%20-%20Working%20Capital%20Fund.md) | Working Capital Fund. |
-| (a) | Utilization. |
-| (b) | Availability of Fund. |
-| (c) | Reimbursements. |
-| (d) | Credits. |
-| (e) | “Cost” defined. |
-| (f) | Distribution of earnings; restoration of prior impairment. |
 | [278c.](%C2%A7%2000278c%20-%20Acquisition%20of%20land%20for%20field%20sites.md) | Acquisition of land for field sites. |
 | [278d.](%C2%A7%2000278d%20-%20Construction%20and%20improvement%20of%20buildings%20and%20facilities.md) | Construction and improvement of buildings and facilities. |
 | [278e.](%C2%A7%2000278e%20-%20Functions%20and%20activities.md) | Functions and activities. |
 | [278f.](%C2%A7%2000278f%20-%20Fire%20Research%20Center.md) | Fire Research Center. |
-| (a) | Establishment; programs of research; functions of Secretary; dissemination of information. |
-| (b) | Authorization of appropriations. |
 | [278g.](%C2%A7%2000278g%20-%20International%20activities.md) | International activities. |
-| (a) | Financial assistance to foreign nationals. |
-| (b) | Foreign assistance and compensation to Institute employees. |
-| (c) | Prohibition on use of appropriations inapplicable. |
-| (d) | Recruitment and employment of resident aliens. |
 | 278g–1. | Research fellowships and other financial assistance to students at institutes of higher education. |
 | 278g–2. | Post-doctoral fellowship program. |
 | 278g–2a. | Teacher science and technology enhancement Institute program. |
-| (a) | Establishment. |
-| (b) | Areas of focus. |
-| (c) | Procedures and selection criteria. |
-| (d) | Scheduling. |
-| (e) | Means of accomplishing goals. |
 | 278g–3. | Computer standards program. |
-| (a) | In general. |
-| (b) | Minimum requirements for standards and guidelines. |
-| (c) | Development of standards and guidelines. |
-| (d) | Information security functions. |
-| (e) | Definitions. |
 | 278g–4. | Information Security and Privacy Advisory Board. |
-| (a) | Establishment and composition. |
-| (b) | Duties. |
-| (c) | Term of office. |
-| (d) | Quorum. |
-| (e) | Allowance for travel expenses. |
-| (f) | Meetings. |
-| (g) | Staff services and utilization of Federal personnel. |
-| (h) | Definitions. |
 | 278g–5. | Enterprise integration initiative. |
-| (a) | Establishment. |
-| (b) | Assessment. |
-| (c) | Reports. |
-| (d) | Authorized activities. |
-| (e) | Manufacturing Extension Program. |
 | [278h.](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md) | Research program on security of computer systems. |
-| (a) | Establishment. |
-| (b) | Fellowships. |
-| (c) | Awards; applications. |
-| (d) | Program operation. |
-| (e) | Review of program. |
-| (f) | Definitions. |
 | [278i.](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [278j.](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md) | Studies by National Research Council. |
 | [278k.](%C2%A7%2000278k%20-%20Regional%20Centers%20for%20the%20Transfer%20of%20Manufacturing%20Technology.md) | Regional Centers for the Transfer of Manufacturing Technology. |
-| (a) | Creation and support of Centers; affiliations; merit review in determining awards; objectives. |
-| (b) | Activities of Centers. |
-| (c) | Duration and amount of support; program descriptions; applications; merit review; evaluations of assistance; applicability of patent law. |
-| (d) | Acceptance of funds from other Federal departments and agencies. |
 | 278<i>l.</i> | Assistance to State technology programs. |
 | [278m.](%C2%A7%2000278m%20-%20Non-energy%20inventions%20program.md) | Non-energy inventions program. |
 | [278n.](%C2%A7%2000278n%20-%20Advanced%20Technology%20Program.md) | Advanced Technology Program. |
-| (a) | Establishment; purpose; focus; guidance. |
-| (b) | Authority of Secretary; research and development; contracts and cooperative agreements; Federal laboratories; other activities with joint ventures. |
-| (c) | Authority of Secretary; selection criteria; monitoring use of technologies; overseas transfer; annual report to Congress; financial reporting and auditing; routine consideration of Committee advice; dissemination of research results. |
-| (d) | Contracts or awards; criteria; restrictions. |
-| (e) | Suspension for failure to satisfy eligibility criteria. |
-| (f) | Coordination with other Federal technology programs. |
-| (g) | Meetings with industry sources. |
-| (h) | Standards development. |
-| (i) | Acceptance of funds from other Federal departments and agencies. |
-| (j) | Definitions. |
 | 278<i>o.</i> | User fees. |
 | [278p.](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md) | Notice to Congress. |
-| (a) | Notice of reprogramming. |
-| (b) | Notice of reorganization. |
 | [278q.](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md) | Appropriations; availability. |
 | [279\.](%C2%A7%2000279%20-%20Absence%20of%20Director.md) | Absence of Director. |
 | 280, 281. | Repealed. |

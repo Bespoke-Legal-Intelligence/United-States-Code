@@ -20,11 +20,13 @@ Not later than 1 month after the end of each even-numbered fiscal year, the Atto
 
 Not later than 120 days after September 13, 1994, the Attorney General shall publish proposed regulations or guidelines implementing this subchapter. Not later than 180 days after September 13, 1994, the Attorney General shall publish final regulations or guidelines implementing this subchapter.
 
-(Pub. L. 90–351, title I, §2009, formerly §2004, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; amended Pub. L. 106–386, div. B, title I, §1103(b)(4), Oct. 28, 2000, 114 Stat. 1497; renumbered §2009, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, §3(b)(3), title XI, §§1134(b), 1135(c), Jan. 5, 2006, 119 Stat. 2971, 3108, 3109.)
+(Pub. L. 90–351, title I, §2009, formerly §2004, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; amended Pub. L. 106–386, div. B, title I, §1103(b)(4), Oct. 28, 2000, 114 Stat. 1497; renumbered §2009, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, §3(b)(3), title XI, §§1134(b), 1135(c), Jan. 5, 2006, 119 Stat. 2971, 3108, 3109; Pub. L. 109–271, §§2(d), 8(b), Aug. 12, 2006, 120 Stat. 752, 766.)
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–162, §§3(b)(3), 1134(b), and 1135(c), made substantially identical amendments, substituting “Not later than 1 month after the end of each even-numbered fiscal year, the Attorney General shall submit” for “Not later than 180 days after the end of each fiscal year for which grants are made under this subchapter, the Attorney General shall submit” in introductory provisions. The text of subsec. (b) is based on amendment by Pub. L. 109–162, §3(b)(3).
+2006—Subsec. (b). Pub. L. 109–162, §§1134(b) and 1135(c), which directed an amendment substantially identical to that made by Pub. L. 109–162, §3(b)(3), were repealed by Pub. L. 109–271, §§2(d) and 8(b).
+
+Pub. L. 109–162, §3(b)(3), substituted “Not later than 1 month after the end of each even-numbered fiscal year, the Attorney General shall submit” for “Not later than 180 days after the end of each fiscal year for which grants are made under this subchapter, the Attorney General shall submit” in introductory provisions.
 
 2000—Subsec. (b)(3). Pub. L. 106–386 inserted “, and the membership of persons served in any underserved population” before the semicolon.
 

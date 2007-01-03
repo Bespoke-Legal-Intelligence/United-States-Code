@@ -18,7 +18,7 @@ Provisions similar to those in this section were contained in section 274 of thi
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §517(g), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section \[enacting sections 12108 and 12244 of this title and amending this section and sections 14513 to 14515 of this title\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §517(g), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments madeby this section \[enacting sections 12108 and 12244 of this title and amending this section and sections 14513 to 14515 of this title\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Authority To Issue Military Identification Cards to So-Called Honorary Retirees of the Naval and Marine Corps Reserves
 
@@ -30,7 +30,7 @@ Authority.—The Secretary of the Navy may issue a military identification card 
 
 “(b)
 
-Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of theNavy Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the Retired Reserve under section 10154(2) of title 10, United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
+Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Navy Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the Retired Reserve under section 10154(2) of title 10, United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
 
 “(c)
 

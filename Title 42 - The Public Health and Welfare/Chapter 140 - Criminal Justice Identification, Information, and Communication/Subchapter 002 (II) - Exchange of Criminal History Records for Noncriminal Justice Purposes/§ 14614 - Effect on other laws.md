@@ -16,7 +16,7 @@ Nothing in the Compact shall interfere in any manner with—
 
 &emsp;&emsp;(C) the Brady Handgun Violence Prevention Act (Public Law 103–159; 107 Stat. 1536);
 
-&emsp;&emsp;(D) the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 2074) or any amendment made by that Act;
+&emsp;&emsp;(D) the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322;108 Stat. 2074) or any amendment made by that Act;
 
 &emsp;&emsp;(E) the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.); or
 

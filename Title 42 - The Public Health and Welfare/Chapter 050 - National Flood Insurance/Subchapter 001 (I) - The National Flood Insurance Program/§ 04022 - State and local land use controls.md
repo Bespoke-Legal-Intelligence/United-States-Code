@@ -18,7 +18,7 @@
 
 #### (B) Premium rates and coverage
 
-&emsp;&emsp;To the extent applicable, an agricultural structure repaired or restored pursuant to subparagraph (A) shall pay chargeable premium rates established under section 4015 of this title at the estimated risk premium rates under section 4014(a)(1) of this title. If resources are available, the Director shall provide technical assistance and counseling, upon request of the owner of the structure, regarding wet flood-proofing and other flood damage reduction measures for agricultural structures. The Director shall not be required to make flood insurance coverage available for such an agricultural structure unless the structure is wet flood-proofed through permanent or contingent measures applied to the structure or its contents that prevent or provide resistance to damage from flooding by allowing flood waters to pass through the structure, as determined by the Director.
+&emsp;&emsp;To the extent applicable, an agricultural structure repaired or restored pursuant to subparagraph (A) shall pay chargeable premium rates established under section 4015 of this title at the estimated risk premium rates under section 4014(a)(1) of this title. If resources are available, the Director shall provide technical assistance and counseling, upon request of the owner of the structure, regarding wet flood-proofing and other flood damage reduction measures for agriculturalstructures. The Director shall not be required to make flood insurance coverage available for such an agricultural structure unless the structure is wet flood-proofed through permanent or contingent measures applied to the structure or its contents that prevent or provide resistance to damage from flooding by allowing flood waters to pass through the structure, as determined by the Director.
 
 #### (C) Prohibition on disaster relief
 
@@ -78,6 +78,8 @@
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
 The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Amendments
@@ -96,5 +98,7 @@ Subsec. (b). Pub. L. 103–325, §541(2), added subsec. (b).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

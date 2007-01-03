@@ -42,13 +42,17 @@ It is unlawful—
 
 &emsp;&emsp;(N) to strip pollock of its roe and discard the flesh of the pollock;
 
-&emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) of this title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title; or
+&emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) of this title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title;
 
 &emsp;&emsp;(P)(i) to remove any of the fins of a shark (including the tail) and discard the carcass of the shark at sea;
 
 &emsp;&emsp;(ii) to have custody, control, or possession of any such fin aboard a fishing vessel without the corresponding carcass; or
 
-&emsp;&emsp;(iii) to land any such fin without the corresponding carcass.
+&emsp;&emsp;(iii) to land any such fin without the corresponding carcass;
+
+&emsp;&emsp;(Q) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation; or
+
+&emsp;&emsp;(R) to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a payment to the owner of that fishing vessel under section 1861a(b)(2) of this title.
 
 > &emsp;For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.
 
@@ -78,11 +82,11 @@ It is unlawful—
 
 &emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
-(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L.102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772.)
+(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607.)
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regu</i><i>lations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;</i>
 
@@ -94,9 +98,13 @@ It is unlawful—
 
 #### References in Text
 
+This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
 The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Amendments
+
+2007—Par. (1)(Q), (R). Pub. L. 109–479 added subpars. (Q) and (R).
 
 2000—Par. (1). Pub. L. 106–557 added subpar. (P) and concluding provisions.
 

@@ -52,7 +52,7 @@ The Secretary shall support programs at institutions of higher education for the
 
 &emsp;&emsp;(A) be located in geographic areas that are regionally and climatically diverse; and
 
-&emsp;&emsp;(B) be located at part B institutions, minority institutions, and institutions of higher education located in States participating in the Experimental Program to Stimulate Competitive Research of the Department.
+&emsp;&emsp;(B) be located at part B institutions, minority institutions, and institutions of higher education located in States participatingin the Experimental Program to Stimulate Competitive Research of the Department.
 
 #### (d) Institutions of higher education and National Laboratory interactions
 

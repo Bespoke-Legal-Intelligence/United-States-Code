@@ -8,7 +8,7 @@
 
 (d) The Secretary may require, as a condition of a detail under subsection (a), that an enlisted member accept a discharge and be reenlisted in his component for at least three years.
 
-(e) The total length of details of an enlisted member of the Army under subsection (a) duringone enlistment may not exceed 50 percent of that enlistment.
+(e) The total length of details of an enlisted member of the Army under subsection (a) during one enlistment may not exceed 50 percent of that enlistment.
 
 (f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Army, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Army, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 

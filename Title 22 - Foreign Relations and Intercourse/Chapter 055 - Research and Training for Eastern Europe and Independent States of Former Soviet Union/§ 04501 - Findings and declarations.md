@@ -2,7 +2,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) factual knowledge, independently verified, about the countries of Eastern Europe and the independent states of the former Soviet Union is of the utmost importance for the national security of the United States, for the furtherance of our national interests in theconduct of foreign relations, and for the prudent management of our domestic affairs;
+&emsp;(1) factual knowledge, independently verified, about the countries of Eastern Europe and the independent states of the former Soviet Union is of the utmost importance for the national security of the United States, for the furtherance of our national interests in the conduct of foreign relations, and for the prudent management of our domestic affairs;
 
 &emsp;(2) the development and maintenance of knowledge about the countries of Eastern Europe and the independent states of the former Soviet Union depends upon the national capability for advanced research by highly trained and experienced specialists, available for service in and out of Government;
 
@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(E) firsthand experience of the countries of Eastern Europe and the independent states of the former Soviet Union by American specialists, including on site conduct of advanced training and research to the extent practicable; and
 
-&emsp;(4) it is in the national interest for the United States Government to provide a stable source of financial support for the functions described in this section and to supplement the financial support for those functions which is currently being furnished by Federal, State, local, regional, and private agencies, organizations, and individuals, and thereby to stabilize the conduct of these functions on a national scale, consistently, and on a long range unclassified basis.
+&emsp;(4) it is in the national interest for the United States Government to provide a stable source of financial support for the functions described in this section and to supplement the financial support for those functions which is currently being furnished by Federal,State, local, regional, and private agencies, organizations, and individuals, and thereby to stabilize the conduct of these functions on a national scale, consistently, and on a long range unclassified basis.
 
 (Pub. L. 98–164, title VIII, §802, Nov. 22, 1983, 97 Stat. 1047; Pub. L. 103–199, title III, §302(3), Dec. 17, 1993, 107 Stat. 2322.)
 
@@ -28,7 +28,7 @@ The Congress finds and declares that—
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 98–164, as amended by Pub. L. 103–199, title III, §302(2), Dec. 17, 1993, 107 Stat. 2322, provided that: “This title \[enacting this chapter\] may be cited as the ‘Research and Training for Eastern Europe and the Independent States of the Former Soviet Union Act of 1983’.”
+Pub. L. 98–164, title VIII, §801, Nov. 22, 1983, 97 Stat. 1047, as amended by Pub. L. 103–199, title III, §302(2), Dec. 17, 1993, 107 Stat. 2322, provided that: “This title \[enacting this chapter\] may be cited as the ‘Research and Training for Eastern Europe and the Independent States of the Former Soviet Union Act of 1983’.”
 
 #### Definitions
 

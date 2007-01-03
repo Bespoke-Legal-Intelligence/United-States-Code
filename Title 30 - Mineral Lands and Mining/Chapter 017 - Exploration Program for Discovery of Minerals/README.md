@@ -4,12 +4,6 @@
 | :--- | ---: |
 | [641\.](%C2%A7%2000641%20-%20Establishment%20and%20maintenance%20of%20program%20for%20exploration%3B%20financial%20assistance.md) | Establishment and maintenance of program for exploration; financial assistance. |
 | [642\.](%C2%A7%2000642%20-%20Exploration%20contracts.md) | Exploration contracts. |
-| (a) | Terms and conditions; interest rates. |
-| (b) | Deposit of royalty payments. |
-| (c) | Certification of exploration projects; payment of royalties; time limitation on payment; royalty agreements. |
-| (d) | Production. |
-| (e) | Rules and regulations; adjustment of contracts. |
-| (f) | Availability of funds. |
 | [643\.](%C2%A7%2000643%20-%20%E2%80%9CExploration%E2%80%9D%20defined.md) | “Exploration” defined. |
 | [644\.](%C2%A7%2000644%20-%20Advice%20and%20assistance%20by%20Government%20departments%20and%20agencies%3B%20expenditure%20of%20funds.md) | Advice and assistance by Government departments and agencies; expenditure of funds. |
 | [645\.](%C2%A7%2000645%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93608%2C%20%C2%A71%2813%29%2C%20Jan.%202%2C%201975%2C%2088%20Stat.%201969.md) | Repealed. |

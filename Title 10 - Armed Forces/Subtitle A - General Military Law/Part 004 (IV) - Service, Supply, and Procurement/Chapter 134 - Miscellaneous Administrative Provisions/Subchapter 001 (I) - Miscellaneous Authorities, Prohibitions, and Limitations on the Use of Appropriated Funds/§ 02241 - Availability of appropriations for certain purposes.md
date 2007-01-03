@@ -162,7 +162,7 @@ Non-united states person.—The term ‘non-United States person’ means any pe
 
 United states person.—The term ‘United States person’ has the meaning given that term in section 101(i) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801(i)).”
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out asa note under section 401 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 #### Funds Prohibited for Contracts With Persons Convicted of Unlawful Manufacture or Sale of Congressional Medals of Honor
 
@@ -190,49 +190,7 @@ Pub. L. 101–511, title VIII, §8035, Nov. 5, 1990, 104 Stat. 1882.
 
 #### Demonstration Project for Uniform Funding of Morale, Welfare, and Recreation Activities at Certain Military Installations
 
-Pub. L. 104–106, div. A, title III, §335, Feb. 10, 1996, 110 Stat. 262, provided that:
-
-“(a)
-
-Demonstration Project Required.—(1) The Secretary of Defense shall conduct a demonstration project to evaluate the feasibility of using only nonappropriated funds to support morale, welfare, and recreation programs at military installations in order to facilitate the procurement of property and services for those programs and the management of employees used to carry out those programs.
-
-“(2) Under the demonstration project—
-
-&emsp;“(A) procurements of property and services for programs referred to in paragraph (1) may be carried out in accordance with laws and regulations applicable to procurements paid for with nonappropriated funds; and
-
-&emsp;“(B) appropriated funds available for such programs may be expended in accordance with laws applicable to expenditures of nonappropriated funds as if the appropriated funds were nonappropriated funds.
-
-“(3) The Secretary shall prescribe regulations to carry out paragraph (2). The regulations shall provide for financial management and accounting of appropriated funds expended in accordance with subparagraph (B) of such paragraph.
-
-“(b)
-
-Covered Military Installations.—The Secretary shall select not less than three and not more than six military installations to participate in the demonstration project.
-
-“(c)
-
-Period of Demonstration Project.—The demonstration project shall terminate not later than September 30, 1998.
-
-“(d)
-
-Effect on Employees.—For the purpose of testing fiscal accounting procedures, the Secretary may convert, for the duration of the demonstration project, the status of an employee who carries out a program referred to in subsection (a)(1) from the status of an employee paid by appropriated funds to the status of a nonappropriated fund instrumentality employee, except that such conversion may occur only—
-
-&emsp;“(1) if the employee whose status is to be converted—
-
-&emsp;&emsp;“(A) is fully informed of the effects of such conversion on the terms and conditions of the employment of that employee for purposes of title 5, United States Code, and on the benefits provided to that employee under such title; and
-
-&emsp;&emsp;“(B) consents to such conversion; or
-
-&emsp;“(2) in a manner which does not affect such terms and conditions of employment or such benefits.
-
-“(e)
-
-Reports.—(1) Not later than six months after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary shall submit to Congress an interim report on the implementation of this section.
-
-“(2) Not later than December 31, 1998, the Secretary shall submit to Congress a final report on the results of the demonstration project. The report shall include a comparison of—
-
-&emsp;“(A) the cost incurred under the demonstration project in using employees paid by appropriated funds together with nonappropriated fund instrumentality employees to carry out the programs referred to in subsection (a)(1); and
-
-&emsp;“(B) an estimate of the cost that would have been incurred if only nonappropriated fund instrumentality employees had been used to carry out such programs.”
+Pub. L. 104–106, div. A, title III, §335, Feb. 10, 1996, 110 Stat. 262, directed the Secretary of Defense to conduct a demonstration project to evaluate the feasibility of using only nonappropriated funds to support morale, welfare, and recreation programs at military installations in order to facilitate the procurement of property and services for those programs and the management of employees used to carry out those programs, directed the Secretary to submit to Congress a final report on the results of the project not later than Dec. 31, 1998, and provided that the project would terminate not later than Sept. 30, 1998.
 
 #### Interagency Courier Service
 
@@ -252,7 +210,7 @@ Pub. L. 101–511, title VIII, §8019, Nov. 5, 1990, 104 Stat. 1879, provided th
 
 Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided that:
 
-“(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation. Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
+“(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation.Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
 
 “(b) During the current fiscal year and thereafter—
 

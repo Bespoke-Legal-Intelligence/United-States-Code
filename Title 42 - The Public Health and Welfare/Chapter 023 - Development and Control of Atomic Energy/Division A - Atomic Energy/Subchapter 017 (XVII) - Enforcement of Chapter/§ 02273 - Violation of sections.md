@@ -36,7 +36,3 @@ Any individual director, officer or employee of a person indemnified under an ag
 
 Amendment by Pub. L. 100–408 effective Aug. 20, 1988, but inapplicable to any violation occurring before Aug. 20, 1988, see section 20 of Pub. L. 100–408, set out as a note under section 2014 of this title.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

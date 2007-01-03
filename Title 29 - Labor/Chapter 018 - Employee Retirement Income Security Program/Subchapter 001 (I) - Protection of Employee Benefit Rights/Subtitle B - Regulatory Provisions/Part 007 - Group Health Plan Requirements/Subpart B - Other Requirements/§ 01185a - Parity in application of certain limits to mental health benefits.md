@@ -20,7 +20,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) andthat includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
 
 #### (2) Annual limits
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (1) Aggregate lifetime limit
 
-&emsp;The term “aggregate lifetime limit” means, with respect to benefits under a group health plan or health insurance coverage, a dollar limitation on the total amount that may be paid with respect to such benefits under the plan or health insurance coverage with respect to an individual or other coverage unit.
+&emsp;The term “aggregate lifetime limit” means, with respect to benefits under a group health plan or health insurance coverage, a dollar limitation on the total amount that may bepaid with respect to such benefits under the plan or health insurance coverage with respect to an individual or other coverage unit.
 
 #### (2) Annual limit
 
@@ -108,11 +108,13 @@ For purposes of this section—
 
 #### (f) Sunset
 
-This section shall not apply to benefits for services furnished after December 31, 2006.
+This section shall not apply to benefits for services furnished after December 31, 2007.
 
-(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944; amended Pub. L. 107–116, title VII, §701(a), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(a), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(a), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(b), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, §1(a), Dec. 30, 2005, 119 Stat. 2886.)
+(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944; amended Pub. L. 107–116, title VII, §701(a), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(a), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(a), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(b), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, §1(a), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, §115(b), Dec. 20, 2006, 120 Stat. 2941.)
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–432 substituted “2007” for “2006”.
 
 2005—Subsec. (f). Pub. L. 109–151 substituted “December 31, 2006” for “December 31, 2005”.
 

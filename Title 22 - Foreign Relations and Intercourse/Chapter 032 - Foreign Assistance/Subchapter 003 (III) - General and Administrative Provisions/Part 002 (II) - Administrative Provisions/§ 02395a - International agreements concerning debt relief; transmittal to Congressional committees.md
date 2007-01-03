@@ -16,7 +16,7 @@ Section enacted as part of the International Development and Food Assistance Act
 
 #### Amendments
 
-1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiationswith foreign governments regarding any debts owing to the United States.
+1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiations with foreign governments regarding any debts owing to the United States.
 
 #### Change of Name
 
@@ -110,7 +110,7 @@ Authorization of Appropriations.—For the cost (as defined in section 502(5) of
 
 “(j)
 
-Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, whichshall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
+Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
 
 \[Pub. L. 108–447, §591(b), which directed amendment of section 501(i) of Public Law 106–113 by substituting “2000–2006” for “2003–2004”, was executed in section 1000(a)(5) \[title V, §501\] of div. B of Pub. L. 106–113, set out above, by making substitution for “2000 through 2004”, to reflect the probable intent of Congress.\]
 

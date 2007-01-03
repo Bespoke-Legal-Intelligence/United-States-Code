@@ -66,7 +66,7 @@ An individual who is a member of the Council is not ineligible for appointment a
 
 #### (3) Vacancies
 
-&emsp;Any vacancy on the Task Force shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.
+&emsp;Any vacancy on the Task Force shall be filled in the manner in which the original appointment was made. Any member appointedto fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.
 
 #### (f) Transaction of business
 

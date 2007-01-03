@@ -11,7 +11,7 @@
 - [&sect; 00403&#8211;3 - Addition of lands to Shenandoah National Park; administration](%C2%A7%2000403%E2%80%933%20-%20Addition%20of%20lands%20to%20Shenandoah%20National%20Park%3B%20administration.md)
 - [&sect; 00403a - Acceptance of title to lands](%C2%A7%2000403a%20-%20Acceptance%20of%20title%20to%20lands.md)
 - [&sect; 00403b - Administration, protection, and development; Federal Power Act inapplicable; minimum area](%C2%A7%2000403b%20-%20Administration%2C%20protection%2C%20and%20development%3B%20Federal%20Power%20Act%20inapplicable%3B%20minimum%20area.md)
-- [&sect; 00403c - Use of existing commission](%C2%A7%2000403c%20-%20Use%20of%20existing%20commission.md)
+- [&sect; 00403c - Omitted](%C2%A7%2000403c%20-%20Omitted.md)
 - [&sect; 00403c&#8211;1 - Respective jurisdiction of Virginia and United States over lands in Shenandoah Park](%C2%A7%2000403c%E2%80%931%20-%20Respective%20jurisdiction%20of%20Virginia%20and%20United%20States%20over%20lands%20in%20Shenandoah%20Park.md)
 - [&sect; 00403c&#8211;2 - Repealed. June 25, 1948, ch. 646, &sect;39, 62 Stat. 992, eff. Sept. 1, 1948](%C2%A7%2000403c%E2%80%932%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md)
 - [&sect; 00403c&#8211;3 - Criminal offenses concerning hunting, fishing, and property](%C2%A7%2000403c%E2%80%933%20-%20Criminal%20offenses%20concerning%20hunting%2C%20fishing%2C%20and%20property.md)

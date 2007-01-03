@@ -18,7 +18,7 @@ High-voltage lines, both on the surface and underground, shall be deenergized an
 
 #### (e) Deenergizing of underground power circuits on idle days; exceptions
 
-When not in use, power circuits underground shall be deenergized on idle days and idle shifts,except that rectifiers and transformers may remain energized.
+When not in use, power circuits underground shall be deenergized on idle days and idle shifts, except that rectifiers and transformers may remain energized.
 
 (Pub. L. 91–173, title III, §307, Dec. 30, 1969, 83 Stat. 780.)
 

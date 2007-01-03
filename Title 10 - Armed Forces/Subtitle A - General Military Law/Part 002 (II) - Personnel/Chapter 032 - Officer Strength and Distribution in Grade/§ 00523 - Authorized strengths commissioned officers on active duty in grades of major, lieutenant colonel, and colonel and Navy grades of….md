@@ -82,7 +82,7 @@
 | 70,000 | 13,567 | 7,954 | 3,541 |
 | 90,000 | 16,683 | 9,419 | 4,254. |
 
-(3) If the total number of commissioned officers serving on active duty in an armed force\(excluding officers in categories specified in subsection (b)) is between any two consecutive figures listed in the first column of the appropriate table in paragraph (1) or (2), the corresponding authorized strengths for each of the grades shown in that table for that armed force are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of commissioned officers serving on active duty in an armed force (excluding officers in categories specified in subsection (b)) is greater or less than the figures listed in the first column of the appropriate table in paragraph (1) or (2), the Secretary concerned shall fix the corresponding strengths for the grades shown in that table in the same proportion as reflected in the nearest limit shown in the table.
+(3) If the total number of commissioned officers serving on active duty in an armed force (excluding officers in categories specified in subsection (b)) is between any two consecutive figures listed in the first column of the appropriate table in paragraph (1) or (2), the corresponding authorized strengths for each of the grades shown in that table for that armed force are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of commissioned officers serving on active duty in an armed force (excluding officers in categories specified in subsection (b)) is greater or less than the figures listed in the first column of the appropriate table in paragraph (1) or (2), the Secretary concerned shall fix the corresponding strengths for the grades shown in that table in the same proportion as reflected in the nearest limit shown in the table.
 
 (b) Officers in the following categories shall be excluded in computing and determining authorized strengths under this section:
 
@@ -108,15 +108,17 @@
 
 &emsp;(8) Permanent professors of the United States Military Academy and the United States Air Force Academy and professors of the United States Naval Academy who are career military professors (as defined in regulations prescribed by the Secretary of the Navy), but not to exceed 50 from any such academy.
 
-(c) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
+(c) Whenever the number of officers serving in any grade is less than the number authorized forthat grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
 (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, §1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402.)
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–375, §416(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+2006—Subsec. (b)(1). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, §416(g)(1). See 2004 Amendment note below.
+
+2004—Subsec. (b)(1). Pub. L. 108–375, §416(g)(1), as amended by Pub. L. 109–364, amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1) Reserve officers—
 
@@ -158,6 +160,10 @@ Subsec. (b)(1)(E). Pub. L. 103–337, §1671(c)(3)(C), substituted “12304” f
 
 Subsec. (b)(1)(F). Pub. L. 98–525, §414(a)(3)(B)–(D), added subpar. (F).
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(1)(B) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+
 #### Effective Date of 1996 Amendment
 
 Section 403(d) of Pub. L. 104–201 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and repealing provisions set out as notes below\] shall take effect on September 1, 1997.”
@@ -172,7 +178,7 @@ Section 511(b) of Pub. L. 99–145 provided that: “The amendments made by subs
 
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 
-Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of theAir Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
+Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
 
 #### Temporary Variation of End Strength Limitations for Army Majors and Lieutenant Colonels
 
@@ -184,7 +190,7 @@ Pub. L. 103–160, div. A, title IV, §402, Nov. 30, 1993, 107 Stat. 1639, as am
 
 #### Temporary Increase in Officer Grade Limitations
 
-Pub. L. 101–189, div. A, title IV, §403, Nov. 29, 1989, 103 Stat. 1431, authorized the Secretary of Defense, until Sept. 30, 1991, to increase the strength-in-grade limitations specified in subsec. (a) of this section by a total of 250 positions, to be distributed among grades and services as the Secretary considers appropriate and directed the Secretary to submit to Congress a comprehensive report on the adequacy of the strength-in-grade limitations prescribed in subsec. (a) of this section.
+Pub. L. 101–189, div. A, title IV, §403, Nov. 29, 1989, 103 Stat. 1431, authorized the Secretary of Defense, until Sept. 30, 1991, to increase the strength-in-grade limitations specified in subsec. (a) of this section by a total of 250 positions, to be distributed among grades andservices as the Secretary considers appropriate and directed the Secretary to submit to Congress a comprehensive report on the adequacy of the strength-in-grade limitations prescribed in subsec. (a) of this section.
 
 #### Temporary Reduction in Number of Air Force Colonels
 

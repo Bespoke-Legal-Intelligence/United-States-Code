@@ -24,7 +24,7 @@
 
 &emsp;(D) supplemental student services, including student housing, food service, and the provision of access to books and services.
 
-(2) The Secretary shall make payments, pursuant to grants under this subsection, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.
+(2) The Secretary shall make payments, pursuant to grants under this subsection, in advanceinstallments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.
 
 #### (c) Funding requirements
 
@@ -40,7 +40,7 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 1998—Subsec. (a)(1). Pub. L. 105–244 substituted “1999” for “1993”.
 
-1992—Subsec. (a)(1). Pub. L. 102–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows:“For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are hereby authorized to be appropriated such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.”
+1992—Subsec. (a)(1). Pub. L. 102–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are hereby authorized to be appropriated such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.”
 
 1990—Subsec. (a)(1). Pub. L. 101–477 substituted “1990, 1991, and 1992” for “1987, 1988, 1989, and 1990”.
 

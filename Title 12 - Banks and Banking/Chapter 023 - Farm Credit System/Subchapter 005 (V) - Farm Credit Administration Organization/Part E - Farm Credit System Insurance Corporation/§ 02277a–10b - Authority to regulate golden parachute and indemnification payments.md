@@ -26,7 +26,7 @@ In this section:
 
 &emsp;&emsp;(C) does not include—
 
-&emsp;&emsp;&emsp;(i) a payment made under a retirement plan that is qualified (or is intended to bequalified) under section 401 of title 26 or other nondiscriminatory benefit plan;
+&emsp;&emsp;&emsp;(i) a payment made under a retirement plan that is qualified (or is intended to be qualified) under section 401 of title 26 or other nondiscriminatory benefit plan;
 
 &emsp;&emsp;&emsp;(ii) a payment made under a bona fide supplemental executive retirement plan, deferred compensation plan, or other arrangement that the Corporation determines, by regulation or order, to be permissible; or
 
@@ -44,7 +44,7 @@ In this section:
 
 &emsp;The term “institution-related party” means—
 
-&emsp;&emsp;(A) a director, officer, employee, or agent for a Farm Credit System institution or any conservator or receiver of such an institution;
+&emsp;&emsp;(A) a director, officer, employee, or agent for a Farm Credit System institution or anyconservator or receiver of such an institution;
 
 &emsp;&emsp;(B) a stockholder (other than another Farm Credit System institution), consultant, joint venture partner, or any other person determined by the Farm Credit Administration to be a participant in the conduct of the affairs of a Farm Credit System institution; and
 

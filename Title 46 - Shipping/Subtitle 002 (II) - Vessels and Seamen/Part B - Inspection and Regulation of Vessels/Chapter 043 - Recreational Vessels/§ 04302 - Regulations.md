@@ -62,7 +62,3 @@ Pub. L. 105–383, title III, §309, Nov. 13, 1998, 112 Stat. 3422, provided tha
 
 &emsp;“(2) provide recommendations on policies and programs to encourage the availability and use of EPIRBS \[sic\] and similar devices by the operators of recreational vessels.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4303, 4306, 4310, 8905, 13110 of this title.
-

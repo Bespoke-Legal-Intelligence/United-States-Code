@@ -22,7 +22,7 @@
 
 (b) An individual who is employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy (if any), and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
 
-(c) An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Ship's Stores Ashore, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
+(c) An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Ship's Stores Ashore, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges,and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
 
 &emsp;(1) laws administered by the Office of Personnel Management, except—
 
@@ -42,11 +42,11 @@
 
 (d) A Reserve of the armed forces who is not on active duty or who is on active duty for training is deemed not an employee or an individual holding an office of trust or profit or discharging an official function under or in connection with the United States because of his appointment, oath, or status, or any duties or functions performed or pay or allowances received in that capacity.
 
-(e) Except as otherwise provided by law, an employee of the United States Postal Service or of the Postal Rate Commission is deemed not an employee for purposes of this title.
+(e) Except as otherwise provided by law, an employee of the United States Postal Service or of the Postal Regulatory Commission is deemed not an employee for purposes of this title.
 
 (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 Historical and Revision Notes
 
@@ -114,6 +114,8 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act J
 
 #### Amendments
 
+2006—Subsec. (e). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
 1997—Subsec. (b). Pub. L. 105–85 inserted “(if any)” after “Academy dairy”.
 
 1996—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
@@ -134,7 +136,7 @@ Subsec. (c)(2). Pub. L. 99–335 substituted “chapter 81, chapter 84,” for �
 
 Subsec. (c)(1). Pub. L. 96–54, §2(a)(6), amended subsec. (c)(1) in same manner as amendment by section 703(c)(2) of Pub. L. 95–454. See 1978 Amendment note set out below.
 
-1978—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, §703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
+1978—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have beeninadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, §703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
 
 1972—Subsec. (c)(1). Pub. L. 92–392 substituted “laws (other than subchapter IV of chapter 53 and sections 5550 and 7154 of this title)” for “laws”.
 
@@ -176,7 +178,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -202,7 +204,7 @@ Section 7202(n) of Pub. L. 101–508, as amended by Pub. L. 102–378, §5(a)(2)
 
 “(3)(A) If an individual makes an election under section 8461(n)(1) of title 5, United States Code, to remain covered by chapter 84 of such title, any nonappropriated fund instrumentality thereafter employing such individual shall deduct from such individual's pay and shall contribute to the Thrift Savings Fund the funds deducted, together with such other sums as are required for such individual under subchapter III of such chapter.
 
-“(B) Notwithstanding subsection (a) or (b) of section 8432 of title 5, United States Code, any individual who, as of the date of enactment of this Act, becomes eligible to make an election under section 8461(n)(1) of such title may, within 30 days after such individual makes an election thereunder in accordance with subsection (m)(2), make any election described in section 8432(b)(1)(A) of such title.
+“(B) Notwithstanding subsection (a) or (b) of section 8432 of title 5, United States Code, any individual who, as of the date of enactment of this Act, becomes eligible to make an election under section 8461(n)(1) of suchtitle may, within 30 days after such individual makes an election thereunder in accordance with subsection (m)(2), make any election described in section 8432(b)(1)(A) of such title.
 
 “(4) If an individual makes an election under section 8347(q)(2) or 8461(n)(2) of title 5, United States Code, to remain covered by a retirement system established for employees described in section 2105(c) of such title, any Government agency thereafter employing such individual shall, in lieu of any deductions or contributions for which it would otherwise be responsible with respect to such individual under chapter 83 or 84 of such title, make such deductions from pay and such contributions as would be required (under the retirement system for nonappropriated fund employees involved) if it were a nonappropriated fund instrumentality. Any such deductions and contributions shall be remitted to the Department of Defense or the Coast Guard, as applicable, for transmission to the appropriate retirement system.”
 

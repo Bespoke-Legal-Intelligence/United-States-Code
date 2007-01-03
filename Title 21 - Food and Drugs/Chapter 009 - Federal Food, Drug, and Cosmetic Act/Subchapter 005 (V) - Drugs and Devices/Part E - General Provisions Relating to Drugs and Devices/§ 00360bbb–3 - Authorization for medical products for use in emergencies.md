@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) is not approved, licensed, or cleared for commercial distribution under a provision of law referred to in such paragraph (referred to in this section as an “unapproved product”); or
 
-&emsp;&emsp;(B) is approved, licensed, or cleared under such a provision, but which use is not under such provision an approved, licensed, or cleared use of the product (referred to in this section as an “unapproved use of an approved product”).
+&emsp;&emsp;(B) is approved, licensed, or cleared under such a provision, but which use is not undersuch provision an approved, licensed, or cleared use of the product (referred to in this section as an “unapproved use of an approved product”).
 
 #### (3) Relation to other uses
 
@@ -64,7 +64,7 @@
 
 #### (3) Advance notice of termination
 
-&emsp;The Secretary shall provide advance notice that a declaration under this subsection willbe terminated. The period of advance notice shall be a period reasonably determined to provide—
+&emsp;The Secretary shall provide advance notice that a declaration under this subsection will be terminated. The period of advance notice shall be a period reasonably determined to provide—
 
 &emsp;&emsp;(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2) of this section) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
 
@@ -134,7 +134,7 @@ An authorization of a product under this section shall state—
 
 #### (B) Authority for additional conditions
 
-&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary may, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization underthis section as the Secretary finds necessary or appropriate to protect the public health, including the following:
+&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary may, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization under this section as the Secretary finds necessary or appropriate to protect the public health, including the following:
 
 &emsp;&emsp;&emsp;(i) Appropriate conditions on which entities may distribute the product with respect to the emergency use of the product (including limitation to distribution by government entities), and on how distribution is to be performed.
 
@@ -152,7 +152,7 @@ An authorization of a product under this section shall state—
 
 &emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses not to make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
 
-&emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in addition to the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
+&emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in additionto the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
 
 &emsp;&emsp;(C) The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to the distribution and administration of the product for the approved use.
 

@@ -14,9 +14,11 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 &emsp;&emsp;(A) a statement of educational purpose stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and
 
-&emsp;&emsp;(B) such student's social security number, except that the provisions of this subparagraph shall not apply to a student from the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau; <sup>2</sup>
+&emsp;&emsp;(B) such student's social security number, except that the provisions of this subparagraph shall not apply to a student from the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau;
 
-&emsp;(5) be a citizen or national of the United States, a permanent resident of the United States, able to provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than a temporary purpose with the intention of becoming a citizen or permanent resident,<sup>3</sup> a citizen of any one of the Freely Associated States.
+&emsp;(5) be a citizen or national of the United States, a permanent resident of the United States, able to provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than a temporary purpose with the intention of becoming a citizen or permanent resident,<sup>2</sup> a citizen of any one of the Freely Associated States; and
+
+&emsp;(6) if the student has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining funds under this subchapter and part C of subchapter I of chapter 34 of title 42, have completed the repayment of such funds to the Secretary, or to the holder in the case of a loan under this subchapter and part C of subchapter I of chapter 34 of title 42 obtained by fraud.
 
 #### (b) Eligibility for student loans
 
@@ -26,7 +28,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 &emsp;(B) have (A) filed an application with the Pell Grant processor for such institution for such enrollment period, and (B) received from the financial aid administrator of the institution a preliminary determination of the student's eligibility or ineligibility for a grant under such subpart 1.
 
-(2) In order to be eligible to receive any loan under section 1078–1 <sup>4</sup> of this title for any period of enrollment, a student shall—
+(2) In order to be eligible to receive any loan under section 1078–1 <sup>3</sup> of this title for any period of enrollment, a student shall—
 
 &emsp;(A) have received a determination of need for a loan under section 1078(a)(2)(B) of this title;
 
@@ -36,7 +38,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 (3) A student who—
 
-&emsp;(A) is carrying at least one-half the normal full-time work load for the course of study that the student is pursuing, as determined by an eligible institution, and
+&emsp;(A) is carrying at least one-half the normal full-time work load for the course of studythat the student is pursuing, as determined by an eligible institution, and
 
 &emsp;(B) is enrolled in a course of study necessary for enrollment in a program leading to a degree or certificate,
 
@@ -134,17 +136,17 @@ The Secretary shall not take any compliance, disallowance, penalty, or other reg
 
 &emsp;(1) if the institution has provided such eligibility based on a verification of satisfactory immigration status by the Immigration and Naturalization Service,
 
-&emsp;(2) because the institution, under subsection (h)(4)(A)(i) <sup>5</sup> of this section, was required to provide a reasonable opportunity to submit documentation, or
+&emsp;(2) because the institution, under subsection (h)(4)(A)(i) <sup>4</sup> of this section, was required to provide a reasonable opportunity to submit documentation, or
 
-&emsp;(3) because the institution, under subsection (h)(4)(B)(i) <sup>5</sup> of this section, was required to wait for the response of the Immigration and Naturalization Service to the institution's request for official verification of the immigration status of the student.
+&emsp;(3) because the institution, under subsection (h)(4)(B)(i) <sup>4</sup> of this section, was required to wait for the response of the Immigration and Naturalization Service to the institution's request for official verification of the immigration status of the student.
 
 #### (i) Validity of loan guarantees for loan payments made before immigration status verification completed
 
-Notwithstanding subsection (h) <sup>5</sup> of this section, if—
+Notwithstanding subsection (h) <sup>4</sup> of this section, if—
 
 &emsp;(1) a guaranty is made under this subchapter and part C of subchapter I of chapter 34 of title 42 for a loan made with respect to an individual,
 
-&emsp;(2) at the time the guaranty is entered into, the provisions of subsection (h) <sup>5</sup> of this section had been complied with,
+&emsp;(2) at the time the guaranty is entered into, the provisions of subsection (h) <sup>4</sup> of this section had been complied with,
 
 &emsp;(3) amounts are paid under the loan subject to such guaranty, and
 
@@ -158,7 +160,7 @@ Notwithstanding any other provision of law, a student shall be eligible until Se
 
 &emsp;(1) is a citizen of any one of the Freely Associated States and attends an institution of higher education in a State or a public or nonprofit private institution of higher education in the Freely Associated States; or
 
-&emsp;(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in any one of the Freely Associated States.
+&emsp;(2) meets the requirements of subsection (a)(5) of this section and attends a public ornonprofit private institution of higher education in any one of the Freely Associated States.
 
 #### (k) Special rule for correspondence courses
 
@@ -170,15 +172,11 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (A) In general
 
-&emsp;&emsp;A student enrolled in a course of instruction at an institution of higher education that is offered in whole or in part through telecommunications and leads to a recognized certificate for a program of study of 1 year or longer, or a recognized associate, baccalaureate, or graduate degree, conferred by such institution, shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of the total amount of all courses at the institution.
+&emsp;&emsp;A student enrolled in a course of instruction at an institution of higher education that is offered in whole or in part through telecommunications and leads to a recognized certificate, or a recognized associate, baccalaureate, or graduate degree, conferred by such institution, shall not be considered to be enrolled in correspondence courses.
 
-#### (B) Requirement
+#### (B) Exception
 
-&emsp;&emsp;An institution of higher education referred to in subparagraph (A) is an institution of higher education—
-
-&emsp;&emsp;&emsp;(i) that is not an institute or school described in section 2471(4)(C) <sup>6</sup> of this title; and
-
-&emsp;&emsp;&emsp;(ii) for which at least 50 percent of the programs of study offered by the institution lead to the award of a recognized associate, baccalaureate, or graduate degree.
+&emsp;&emsp;Subparagraph (A) shall not apply to an institution or school described in section 2302(3)(C) of this title.
 
 #### (2) Restriction or reductions of financial aid
 
@@ -212,7 +210,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;(2) If there is a determination by the Secretary that the social security number provided to an eligible institution by a student is incorrect, the institution shall deny or terminate the student's eligibility for any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 until such time as the student provides documented evidence of a social security number that is determined by the institution to be correct.
 
-&emsp;(3) If there is a determination by the Secretary that the social security number provided to an eligible institution by a student is incorrect, and a correct social security number cannot be provided by such student, and a loan has been guaranteed for such student under part B of this subchapter, the institution shall notify and instruct the lender and guaranty agency making and guaranteeing the loan, respectively, to cease further disbursements of the loan, but such guaranty shall not be voided or otherwise nullified with respect to such disbursements made before the date that the lender and the guaranty agency receives such notice.
+&emsp;(3) If there is a determination by the Secretary that the social security number provided to an eligible institution by a student is incorrect, and a correct social security number cannot be provided by such student, and a loan has been guaranteed for such student under part B of this subchapter, the institution shall notify and instruct the lender and guaranty agency making and guaranteeing the loan, respectively, to cease further disbursements of the loan, but such guaranty shall not be voided or otherwise nullified with respect to such disbursements made before the datethat the lender and the guaranty agency receives such notice.
 
 &emsp;(4) Nothing in this subsection shall permit the Secretary to take any compliance, disallowance, penalty, or other regulatory action against—
 
@@ -224,7 +222,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 #### (1) Confirmation with IRS
 
-&emsp;The Secretary of Education, in cooperation with the Secretary of the Treasury, is authorized to confirm with the Internal Revenue Service the adjusted gross income, Federal income taxes paid, filing status, and exemptions reported by applicants (including parents) under this subchapter and part C of subchapter I of chapter 34 of title 42 on their Federal income tax returns for the purpose of verifying the information reported by applicants on student financial aid applications.
+&emsp;The Secretary of Education, in cooperation with the Secretary of the Treasury, is authorized to confirm with the Internal Revenue Service the information specified in section 6103(<i>l</i>)(13) of title 26 reported by applicants (including parents) under this subchapter and part C of subchapter I of chapter 34 of title 42 on their Federal income tax returns for the purpose of verifying the information reported by applicants on student financial aid applications.
 
 #### (2) Notification
 
@@ -234,7 +232,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 #### (1) In general
 
-&emsp;A student who has been convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance shall not be eligible to receive any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 during the period beginning on the date of such conviction and ending after the interval specified in the following table:
+&emsp;A student who is convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance for conduct that occurred during a period of enrollment for which the student was receiving any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 shall not be eligible to receive any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 from the date of that conviction for the period of time specified in the following table:
 
 &nbsp;
 
@@ -265,15 +263,13 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;In this subsection, the term “controlled substance” has the meaning given the term in section 802(6) of title 21.
 
-(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736.)
+(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746.)
 
 #### References in Text
 
 Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Subsection (h) of this section, referred to in subsecs. (h)(2), (3) and (i), was redesignated subsec. (g) of this section by Pub. L. 103–208, §2(h)(25), Dec. 20, 1993, 107 Stat. 2477.
-
-Section 2471 of this title, referred to in subsec. (<i>l</i>)(1)(B)(i), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 Section 1113 of Public Law 97–252, referred to in subsec. (n), amended section 462 of Title 50, Appendix, War and National Defense, and enacted provisions set out as a note under section 462 of Title 50, Appendix.
 
@@ -286,6 +282,22 @@ A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–3
 Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+2006—Subsec. (a)(6). Pub. L. 109–171, §8021(a), added par. (6).
+
+Subsec. (<i>l</i>)(1)(A). Pub. L. 109–171, §8020(c)(1), struck out “for a program of study of 1 year or longer” after“recognized certificate” and “unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of the total amount of all courses at the institution” before period at end.
+
+Subsec. (<i>l</i>)(1)(B). Pub. L. 109–171, §8020(c)(2), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An institution of higher education referred to in subparagraph (A) is an institution of higher education—
+
+&emsp;“(i) that is not an institute or school described in section 2471(4)(C) of this title; and
+
+&emsp;“(ii) for which at least 50 percent of the programs of study offered by the institution lead to the award of a recognized associate, baccalaureate, or graduate degree.”
+
+Subsec. (<i>l</i>)(1)(B)(i). Pub. L. 109–270, which directed substitution of reference to section 2302(C) of this title for reference to section 2471(4)(C) of this title in cl. (i), could not be executed due to general amendment of subpar. (B) by Pub. L. 109–171. See above.
+
+Subsec. (q)(1). Pub. L. 109–171, §8021(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary of Education, in cooperation with the Secretary of the Treasury, is authorized to confirm with the Internal Revenue Service the adjusted gross income, Federal income taxes paid, filing status, and exemptions reported by applicants (including parents) under this subchapter and part C of subchapter I of chapter 34 of title 42 on their Federal income tax returns for the purpose of verifying the information reported by applicants on student financial aid applications.”
+
+Subsec. (r)(1). Pub. L. 109–171, §8021(c), amended heading and text of introductory provisions generally. Prior to amendment, text of introductory provisions read as follows: “A student who has been convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance shall not be eligible to receive any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 during the period beginning on the date of such conviction and ending after the interval specified in the following table:”.
 
 1998—Subsec. (a)(4). Pub. L. 105–244, §483(a)(1), substituted “the Secretary, as part of the original financial aid application process, a certification,” for “the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a document” in introductory provisions.
 
@@ -311,7 +323,7 @@ Subsec. (r). Pub. L. 105–244, §483(f)(1), added subsec. (r).
 
 1993—Subsec. (a)(4)(B). Pub. L. 103–208, §2(h)(13), inserted “, except that the provisions of this subparagraph shall not apply to a student from the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau” after “number”.
 
-Subsec. (a)(5). Pub. L. 103–208, §2(h)(14), substituted “able to provide evidence from the Immigration and Naturalization Service that he or she is in the UnitedStates for other than a temporary purpose with the intention of becoming a citizen or permanent resident” for “in the United States for other than a temporary purpose and able to provide evidence from the Immigration and Naturalization Service of his or her intent to become a permanent resident”.
+Subsec. (a)(5). Pub. L. 103–208, §2(h)(14), substituted “able to provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than a temporary purpose with the intention of becoming a citizen or permanent resident” for “in the United States for other than a temporary purpose and able to provide evidence from the Immigration and Naturalization Service of his or her intent to become a permanent resident”.
 
 Subsec. (b)(2)(C). Pub. L. 103–208, §2(h)(15), added subpar. (C).
 
@@ -385,7 +397,7 @@ Pub. L. 102–26, §2(b), amended subsec. (d) generally. Prior to amendment, sub
 
 Subsec. (k). Pub. L. 102–73, as amended by Pub. L. 102–325, §484(h), added subsec. (k).
 
-1990—Subsec. (d). Pub. L. 101–508, which amended subsec. (d) generally to read: “In order for a student who is admitted on the basis of ability to benefit from theeducation or training offered to be eligible for any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall, prior to enrollment, pass an independently administered examination approved by the Secretary.”, was repealed by Pub. L. 102–26, §2(d)(2)(A). See Construction of 1991 Amendment note below.
+1990—Subsec. (d). Pub. L. 101–508, which amended subsec. (d) generally to read: “In order for a student who is admitted on the basis of ability to benefit from the education or training offered to be eligible for any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall, prior to enrollment, pass an independently administered examination approved by the Secretary.”, was repealed by Pub. L. 102–26, §2(d)(2)(A). See Construction of 1991 Amendment note below.
 
 1988—Subsec. (a)(1). Pub. L. 100–369, §6(1), substituted “subsections (b)(3) and (b)(4)” for “subsection (b)(2)”.
 
@@ -416,6 +428,10 @@ Subsec. (f). Pub. L. 100–50, §15(9), inserted at end “In carrying out provi
 Subsec. (d). Pub. L. 99–603 added subsec. (d) limiting enforcement actions against institutions.
 
 Subsec. (e). Pub. L. 99–603 added subsec. (e) relating to validity of loan guarantees for loan payments made before completion of immigration status verification.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -499,13 +515,9 @@ Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pu
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> See References in Text note below.</i>
-
-<i><sup>6</sup></i><i> See References in Text note below.</i>
 

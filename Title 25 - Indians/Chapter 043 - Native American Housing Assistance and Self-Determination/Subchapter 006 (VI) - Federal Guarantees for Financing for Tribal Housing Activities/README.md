@@ -1,5 +1,7 @@
 ### SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

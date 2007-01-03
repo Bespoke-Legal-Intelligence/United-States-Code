@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Any State may, through its State agency or an interstate commission, submit to the Secretary a proposal for a project which includes full plans, specifications, and cost estimates for such project. The total cost of all items included for engineering, planning, inspection, and unforeseen contingencies in connection with any works to be constructed as part of such a proposed project shall not exceed 10 percent of the total cost of such works, and shall be paid bythe State as a part of its contribution to the total cost of the works.
+(1) Any State may, through its State agency or an interstate commission, submit to the Secretary a proposal for a project which includes full plans, specifications, and cost estimates for such project. The total cost of all items included for engineering, planning, inspection, and unforeseen contingencies in connection with any works to be constructed as part of such a proposed project shall not exceed 10 percent of the total cost of such works, and shall be paid by the State as a part of its contribution to the total cost of the works.
 
 (2) No part of any funds appropriated under any authorization contained in section 4107 of this title may be obligated with respect to any project until the proposal for such project has been submitted under paragraph (1) and approved by the Secretary. The Secretary, before approving any proposal for a project, must evaluate the proposal as to—
 
@@ -41,4 +41,8 @@ The expenditure of funds under this chapter shall be applied only to projects fo
 When the Secretary determines that a project carried out under a proposal approved by the Secretary has been completed, or where the Secretary otherwise deems it appropriate, the Secretary shall cause to be paid to the proper authority of the State, or to the official or depository designated by the interstate commission if the State agency specifies that payment is to be made to the interstate commission, the Federal share of the project. Any payment made to an interstate commission shall be charged against the apportionment of the State concerned.
 
 (Pub. L. 99–659, title III, §305, Nov. 14, 1986, 100 Stat. 3734.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2)(C), (F), (3), (4)(B) and (b), was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 4101 of this title and Tables.
 

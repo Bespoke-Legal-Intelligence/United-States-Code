@@ -34,7 +34,7 @@ Accurate predictive model.—In determining presumptively whether a person resid
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Accurate measurements.—For purposes of site measurements to determine whether a person resides in an unserved household under subsection\(d)(10)(A), a court shall rely on section 339(c)(4) of the Communications Act of 1934.
+Accurate measurements.—For purposes of site measurements to determine whether a person resides in an unserved household under subsection (d)(10)(A), a court shall rely on section 339(c)(4) of the Communications Act of 1934.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -58,7 +58,7 @@ States with single full-power network station.—In a State in which there is li
 
 &emsp;&emsp;&emsp;(ii)
 
-States with all network stations and superstations in same local market.—In a State in which all network stations and superstations licensed by the Federal Communications Commission within that State as of January 1, 1995, are assigned to the same local market and that local market does not encompass all counties of that State, the statutory license provided under subparagraph (A) shall apply to the secondary transmission by a satellite carrier of the primary transmissions of such station to all subscribers in the State who reside in a local market that is within the first 50 major television markets as listed in the regulations of the Commission as in effect on such date (section 76.51 of title 47 of the Code of Federal Regulations).
+States with all network stations and superstations in same local market.—In a State in which all network stations and superstations licensed by the Federal Communications Commission within that State as of January 1, 1995, are assigned to the same local market and that local market does not encompass allcounties of that State, the statutory license provided under subparagraph (A) shall apply to the secondary transmission by a satellite carrier of the primary transmissions of such station to all subscribers in the State who reside in a local market that is within the first 50 major television markets as listed in the regulations of the Commission as in effect on such date (section 76.51 of title 47 of the Code of Federal Regulations).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -120,7 +120,7 @@ In general.—Notwithstanding the provisions of paragraph (2)(B), and subject to
 
 &emsp;&emsp;(B)
 
-Limitation.—Subparagraph (A) shall apply only to secondary transmissions of the primary transmissions of network stations and superstations to subscribers who receive secondary transmissions from a satellite carrier pursuant to the statutory license under section 122.
+Limitation.—Subparagraph (A) shall apply only to secondary transmissions of the primary transmissions of network stations and superstations to subscribers who receive secondary transmissions from a satellitecarrier pursuant to the statutory license under section 122.
 
 &emsp;&emsp;(C)
 
@@ -160,7 +160,7 @@ For those receiving distant analog signals.—In the case of a subscriber of a s
 
 &emsp;&emsp;&emsp;(ii)
 
-For those not receiving distant analog signals.—In the case of any subscriber of a satellite carrier who is eligible to receive the distant analog signal of a network station solely by reason of subsection (e) and who did not receive a distant analog signal of a station affiliatedwith the same network on October 1, 2004, the statutory license under paragraph (2) shall not apply to secondary transmissions by that satellite carrier to that subscriber of the distant analog signal of a station affiliated with the same network.
+For those not receiving distant analog signals.—In the case of any subscriber of a satellite carrier who is eligible to receive the distant analog signal of a network station solely by reason of subsection (e) and who did not receive a distant analog signal of a station affiliated with the same network on October 1, 2004, the statutory license under paragraph (2) shall not apply to secondary transmissions by that satellite carrier to that subscriber of the distant analog signal of a station affiliated with the same network.
 
 &emsp;&emsp;(B)
 
@@ -212,7 +212,7 @@ Violation of territorial restrictions on statutory license for network stations.
 
 &emsp;&emsp;(A)
 
-Individual violations.—The willful or repeated secondary transmission by a satellite carrier of a primary transmission made by a network station and embodying a performance or display of a work to a subscriber who is not eligible to receive the transmission under this section is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506 and 509, except that—
+Individual violations.—The willful or repeated secondary transmission by a satellite carrier of a primary transmission made by a network station and embodying aperformance or display of a work to a subscriber who is not eligible to receive the transmission under this section is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506 and 509, except that—
 
 &emsp;&emsp;&emsp;(i) no damages shall be awarded for such act of infringement if the satellite carrier took corrective action by promptly withdrawing service from the ineligible subscriber, and
 
@@ -250,7 +250,7 @@ Discrimination by a satellite carrier.—Notwithstanding the provisions of parag
 
 &emsp;(9)
 
-Geographic limitation on secondary transmissions.—The statutory license createdby this section shall apply only to secondary transmissions to households located in the United States.
+Geographic limitation on secondary transmissions.—The statutory license created by this section shall apply only to secondary transmissions to households located in the United States.
 
 &emsp;(10)
 
@@ -346,7 +346,7 @@ Superstations.—With respect to superstations, secondary transmissions provided
 
 &emsp;&emsp;(C)
 
-No applicability to repeaters and translators.—Secondary transmissions provided for in subparagraph (A) shall not apply to any low power television station that retransmits the programs and signals of another television station for more than 2 hours each day.
+No applicability to repeaters and translators.—Secondary transmissionsprovided for in subparagraph (A) shall not apply to any low power television station that retransmits the programs and signals of another television station for more than 2 hours each day.
 
 &emsp;&emsp;(D)
 
@@ -380,7 +380,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;&emsp;(B) a royalty fee for that 6-month period, computed by multiplying the total number of subscribers receiving each secondary transmission of each superstation or network station during each calendar month by the appropriate rate in effect under this section.
 
-> &emsp;Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondarytransmissions to a subscriber under paragraph (3) of such subsection.
+> &emsp;Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection.
 
 &emsp;(2)
 
@@ -400,11 +400,11 @@ Filing of claims for fees.—During the month of July in each year, each person 
 
 &emsp;&emsp;(B)
 
-Determination of controversy; distributions.—After the first day of August of each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Copyright Royalty Judges determine that no such controversy exists, the Librarian of Congress shall, after deducting reasonable administrative costs under this paragraph, distribute such fees to the copyright owners entitled to receive them, or to their designated agents. If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees.
+Determination of controversy; distributions.—After the first day of August of each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall authorize the Librarian of Congress to proceed to distribute such fees to the copyright owners entitled to receive them, or to their designated agents, subject to the deduction of reasonable administrative costs under this section. If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees.
 
 &emsp;&emsp;(C)
 
-Withholding of fees during controversy.—During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have the discretion to proceed to distribute any amounts that are not in controversy.
+Withholding of fees during controversy.—During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall have the discretion to authorize the Librarian of Congress to proceed to distribute any amounts that are not in controversy.
 
 (c)
 
@@ -452,7 +452,7 @@ Notice of initiation of proceedings.—On or before May 1, 2005, the Librarian o
 
 &emsp;&emsp;&emsp;&emsp;(II) if an objection to the fees from a voluntary agreement submitted for adoption by the Librarian of Congress to apply to all satellite carriers, distributors, and copyright owners is received under subparagraph (D) from a party with an intent to participate in the arbitration proceeding and a significant interest in the outcome of that proceeding.
 
-&emsp;&emsp;&nbsp;Such arbitrary <sup>3</sup> proceeding shall be conducted under chapter 8 as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004.
+&emsp;&emsp;&nbsp;Such arbitration proceeding shall be conducted under chapter 8 as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -484,7 +484,7 @@ Applicability and determination of royalty fees for digital signals.—The proce
 
 &emsp;&emsp;(B) the notice of initiation of arbitration proceedings required in paragraph (1)(F)(i) shall be published on or before December 31, 2005; and
 
-&emsp;&emsp;(C) the royalty fees that are established for the secondary transmission of the primary digital transmission of network stations and superstations in accordance with to <sup>4</sup> the procedures set forth in paragraph (1)(F)(iii) and are payable under subsection (b)(1)(B)—
+&emsp;&emsp;(C) the royalty fees that are established for the secondary transmission of the primary digital transmission of network stations and superstations in accordance with to <sup>3</sup> the procedures set forth in paragraph (1)(F)(iii) and are payable under subsection (b)(1)(B)—
 
 &emsp;&emsp;&emsp;(i) shall be reduced by 22.5 percent; and
 
@@ -518,7 +518,7 @@ Primary transmission.—The term “primary transmission” has the meaning give
 
 &emsp;(5)
 
-Private home viewing.—The term “private home viewing” means the viewing, for private use in a household by means of satellite reception equipment which is operated by an individual in that household and which serves only such household, of a secondary transmission delivered by a satellite carrier of a primary transmission of a television station licensed by the Federal Communications Commission.
+Private home viewing.—The term “private home viewing” means the viewing, for private use in a household by means of satellite reception equipment which is operatedby an individual in that household and which serves only such household, of a secondary transmission delivered by a satellite carrier of a primary transmission of a television station licensed by the Federal Communications Commission.
 
 &emsp;(6)
 
@@ -556,7 +556,7 @@ Local market.—The term “local market” has the meaning given such term unde
 
 &emsp;(12)
 
-Low power television station.—The term “low power television station” means a low power television <sup>5</sup> as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
+Low power television station.—The term “low power television station” means a low power television <sup>4</sup> as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
 
 &emsp;(13)
 
@@ -568,7 +568,7 @@ Commercial establishment.—The term “commercial establishment”—
 
 (e)
 
-Moratorium on Copyright Liability.—Until December 31, 2009, a subscriber who doesnot receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47 of the Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
+Moratorium on Copyright Liability.—Until December 31, 2009, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47 of the Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
 
 (f)
 
@@ -586,7 +586,7 @@ Definition.—For purposes of this subsection, the term “antitrust laws”—
 
 &emsp;&emsp;(B) includes any State law similar to the laws referred to in paragraph (1).
 
-(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, §1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, §5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX \[title I, §§101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, 118 Stat. 3394–3408.)
+(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, §1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, §5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX \[title I, §§101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, §4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483.)
 
 #### Termination of Section
 
@@ -601,6 +601,14 @@ The date of the enactment of the Copyright Royalty and Distribution Act of 2004,
 The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. Sections 338 to 340 and 397 of the Act are classified to sections 338 to 340 and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(4)(B). Pub. L. 109–303, §4(e)(1)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian of Congress shall, after deducting reasonable administrative costs under this paragraph, distribute such fees to the copyright owners entitled to receive them, or to their designated agents.”
+
+Subsec. (b)(4)(C). Pub. L. 109–303, §4(e)(1)(B), amended subpar. (C) generally. Prior to amendment, text of subpar. (C) read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have the discretion to proceed to distribute any amounts that are not in controversy.”
+
+Subsec. (c). Pub. L. 109–303, §4(g), deemed amendment by Pub. L. 108–419, §5(h), never to have been enacted. See 2004 Amendment note below.
+
+Subsec. (c)(1)(F)(i). Pub. L. 109–303, §4(e)(2), substituted “arbitration” for “arbitrary” in concluding provisions.
 
 2004—Subsec. (a)(1). Pub. L. 108–447, §107(a)(1), inserted “or for viewing in a commercial establishment” after “for private home viewing” in two places and substituted “subscriber” for “household”.
 
@@ -656,7 +664,7 @@ Subsec. (b)(4)(B), (C). Pub. L. 108–419, §5(g)(2)(B), reenacted headings with
 
 Subsec. (c). Pub. L. 108–447, §103(5), amended heading and text of subsec. (c) generally. Prior to amendment, text related to adjustment, determination, arbitration, and reduction of royalty fees.
 
-Pub. L. 108–419, §5(h), which directed amendment of subsec. (c) by substituting “Copyright Royalty Judges” for “Librarian of Congress” in par. (2)(B), “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe” in par. (2)(C), “proceedings” for “arbitration proceedings” and for “arbitration proceeding” in par. (3)(A), “Copyright Royalty Judges” for “copyright arbitration royalty panel appointed under chapter 8” and “Copyright Royalty Judges shall base their determination” for “panel shall base its decision” in par. (3)(B), “determination under chapter 8” for “decision of arbitration panel or order of librarian” in heading of par. (3)(C), and “(i) is made by the Copyright Royalty Judges pursuant to this paragraph and becomes final, or” and “(ii) is made by the court on appeal under section 803(d)(3),” for cls. (i) and (ii), respectively, of par. (3)(C), could not be executed due to amendment by Pub. L. 108–447. See Amendment note above and Effective Date of 2004 Amendment note below.
+Pub. L. 108–419, §5(h), which directed amendment of subsec. (c) by substituting “Copyright Royalty Judges” for “Librarian of Congress” in par. (2)(B), “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe” in par. (2)(C), “proceedings” for “arbitration proceedings” and for “arbitration proceeding” in par. (3)(A), “Copyright Royalty Judges” for “copyright arbitration royalty panel appointed under chapter 8” and “Copyright Royalty Judges shall base their determination” for “panel shall base its decision” in par. (3)(B), “determination under chapter 8” for “decision of arbitration panel or order of librarian” in heading of par. (3)(C), and “(i) is made by the Copyright Royalty Judges pursuant to this paragraph and becomes final, or” and “(ii) is made by the court on appeal under section 803(d)(3),” for cls. (i) and (ii), respectively, of par. (3)(C), was deemed never to have been enacted by Pub L. 109–303, §4(g). See Removal of Inconsistent Provisions note below.
 
 Subsec. (d)(1). Pub. L. 108–447, §107(a)(3), struck out “for private home viewing” after “individual subscribers” and inserted “in accordance with the provisions of this section” before the period at end.
 
@@ -702,13 +710,13 @@ Subsec. (a)(12). Pub. L. 107–273, §13209(1)(B), made technical correction to 
 
 Subsec. (b)(1)(A). Pub. L. 107–273, §13210(8), substituted “retransmitted” for “transmitted” and “retransmissions” for “transmissions”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 107–273, §13209(2), made technical correction to directory language of Pub. L.106–113, §1000(a)(9) \[title I, §1006(b)\]. See 1999 Amendment note below.
+Subsec. (b)(1)(B)(ii). Pub. L. 107–273, §13209(2), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title I, §1006(b)\]. See 1999 Amendment note below.
 
 1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(A)\], as amended by Pub. L. 107–273, §13209(3)(B), substituted “performance or display of a work embodied in a primary transmission made by a superstation or by the Public Broadcasting Service satellite feed” for “primary transmission made by a superstation and embodying a performance or display of a work”.
 
 Pub. L. 106–113, §1000(a)(9) \[title I, §1007(1)\], inserted “with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals,” after “satellite carrier to the public for private home viewing,”.
 
-Pub. L. 106–113, §1000(a)(9) \[title I, §1006(a)\], as amended by Pub. L. 107–273, §13209(3)(A), in heading substituted “Superstations and pbs satellite feed” for “Superstations” and in text inserted “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.” at end. Pub. L. 107–273, §13209(3)(A)(ii), which repealed Pub. L. 106–113, §1000(a)(9) \[title I, §1006(a)(2)\], was executed by striking out “or by the Public Broadcasting Service satellite feed” which had been inserted by section 1006(a)(2) after “of a primary transmission made by a superstation”, to reflect the probable intent of Congress.
+Pub. L. 106–113, §1000(a)(9) \[title I, §1006(a)\], as amended by Pub. L. 107–273, §13209(3)(A), in heading substituted “Superstations and pbs satellite feed” for “Superstations” and in text inserted “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.” at end. Pub. L. 107–273, §13209(3)(A)(ii), which repealedPub. L. 106–113, §1000(a)(9) \[title I, §1006(a)(2)\], was executed by striking out “or by the Public Broadcasting Service satellite feed” which had been inserted by section 1006(a)(2) after “of a primary transmission made by a superstation”, to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(A). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(A)\], substituted “a performance or display of a work embodied in a primary transmission made by a network station” for “programming contained in a primary transmission made by a network station and embodying a performance or display of a work”.
 
@@ -830,13 +838,17 @@ Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out
 
 Subsec. (c)(4). Pub. L. 103–198, §5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title I, §§1004, 1006\] of Pub. L. 106–113 effective July 1, 1999, and amendmentby section 1000(a)(9) \[title I, §§1005, 1007, 1008(b), 1011(b)(2), (c)\] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) \[title I, §1012\] of Pub. L. 106–113, set out as a note under section 101 of this title.
+Amendment by section 1000(a)(9) \[title I, §§1004, 1006\] of Pub. L. 106–113 effective July 1, 1999, and amendment by section 1000(a)(9) \[title I, §§1005, 1007, 1008(b), 1011(b)(2), (c)\] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) \[title I, §1012\] of Pub. L. 106–113, set out as a note under section 101 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -888,6 +900,10 @@ Section 207 of title II of Pub. L. 100–667 provided that this title and the am
 
 Section 4(a) of Pub. L. 103–369, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1003\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527; Pub. L. 108–447, div. J, title IX \[title I, §101(a)\], Dec. 8, 2004, 118 Stat. 3394, provided that: “Section 119 of title 17, United States Code, as amended by section 2 of this Act, ceases to be effective on December 31, 2009.”
 
+#### Removal of Inconsistent Provisions
+
+Pub. L. 109–303, §4(g), Oct. 6, 2006, 120 Stat. 1483, provided that: “The amendments contained in subsection (h) of section 5 of the Copyright Royalty and Distribution Reform Act of 2004 \[Pub. L. 108–419, amending this section\] shall be deemed never to have been enacted.”
+
 #### Effect on Certain Proceedings
 
 Pub. L. 108–447, div. J, title IX \[title I, §106\], Dec. 8, 2004, 118 Stat. 3406, provided that: “Nothing in this title \[see Short Title of 2004 Amendment note set out under section 101 of this title\] shall modify any remedy imposed on a party that is required by the judgment of a court in any action that was brought before May 1, 2004, against that party for a violation of section 119 of title 17, United States Code.”
@@ -900,9 +916,7 @@ Section 5 of Pub. L. 103–369 provided that: “The amendments made by this sec
 
 <i><sup>2</sup></i><i> So in original. Probably should be “are”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “arbitration”.</i>
+<i><sup>3</sup></i><i> So in original. The word “to” probably should not appear.</i>
 
-<i><sup>4</sup></i><i> So in original. The word “to” probably should not appear.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be followed by “station”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by “station”.</i>
 

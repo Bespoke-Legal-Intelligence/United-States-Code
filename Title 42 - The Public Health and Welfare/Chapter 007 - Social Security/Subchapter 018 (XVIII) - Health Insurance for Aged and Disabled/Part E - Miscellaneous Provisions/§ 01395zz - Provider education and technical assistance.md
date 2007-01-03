@@ -12,7 +12,7 @@ The Secretary shall coordinate the educational activities provided through medic
 
 #### (2) Use
 
-&emsp;The funds made available under paragraph (1) shall be used to increase the conduct by medicare contractors of education and training of providers of services and suppliers regarding billing, coding, and other appropriate items and may also be used to improve the accuracy, consistency, and timeliness of contractor responses.
+&emsp;The funds made available under paragraph (1) shall be used to increase the conduct bymedicare contractors of education and training of providers of services and suppliers regarding billing, coding, and other appropriate items and may also be used to improve the accuracy, consistency, and timeliness of contractor responses.
 
 #### (c) Tailoring education and training activities for small providers or suppliers
 
@@ -118,7 +118,7 @@ Small providers of services or suppliers.—In this section, the term ‘small p
 
 “(b)
 
-Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such aspeer review organizations or entities described in section 1889(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
+Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such as peer review organizations or entities described in section 1889(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
 
 “(c)
 

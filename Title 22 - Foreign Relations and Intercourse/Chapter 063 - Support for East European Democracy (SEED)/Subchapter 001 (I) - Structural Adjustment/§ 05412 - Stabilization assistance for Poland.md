@@ -2,7 +2,7 @@
 
 #### (a) Immediate emergency assistance
 
-To the extent that the ongoing International Monetary Fund review of the Polish economyprojects a probable balance of payments shortage for the fourth quarter of 1989, the United States Government, in carrying out paragraph (1) of section 5411(b) of this title—
+To the extent that the ongoing International Monetary Fund review of the Polish economy projects a probable balance of payments shortage for the fourth quarter of 1989, the United States Government, in carrying out paragraph (1) of section 5411(b) of this title—
 
 &emsp;(1) should work closely with the European Community and international financial institutions to determine the extent of emergency assistance required by Poland for the fourth quarter of 1989, and
 
@@ -20,7 +20,7 @@ In furtherance of section 5411(b)(1) of this title, the President, acting in coo
 
 #### (2) Authorization of appropriations
 
-&emsp;For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund), in addition to amounts otherwise available for such purposes.
+&emsp;For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economicsupport fund), in addition to amounts otherwise available for such purposes.
 
 (Pub. L. 101–179, title I, §102, Nov. 28, 1989, 103 Stat. 1303.)
 

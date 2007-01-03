@@ -10,7 +10,7 @@ For purposes of this section:
 
 &emsp;(3) The term “stationary source” means any building, structure, facility, or installation which emits or may emit any air pollutant. Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.
 
-&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in theemission of any air pollutant not previously emitted.
+&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
 
 &emsp;(5) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source.
 
@@ -28,7 +28,7 @@ For purposes of this section:
 
 (1)(A) The Administrator shall, within 90 days after December 31, 1970, publish (and from time to time thereafter shall revise) a list of categories of stationary sources. He shall include a category of sources in such list if in his judgment it causes, or contributes significantly to, air pollution which may reasonably be anticipated to endanger public health or welfare.
 
-(B) Within one year after the inclusion of a category of stationary sources in a list under subparagraph (A), the Administrator shall publish proposed regulations, establishing Federal standards of performance for new sources within such category. The Administrator shall afford interested persons an opportunity for written comment on such proposed regulations. After considering such comments, he shall promulgate, within one year after such publication, such standards with such modifications as he deems appropriate. The Administrator shall, at least every 8 years, review and, if appropriate, revise such standards following the procedure required by this subsection for promulgation of such standards. Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard. Standards of performance or revisions thereof shall become effective upon promulgation. When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.
+(B) Within one year after the inclusion of a category of stationary sources in a list undersubparagraph (A), the Administrator shall publish proposed regulations, establishing Federal standards of performance for new sources within such category. The Administrator shall afford interested persons an opportunity for written comment on such proposed regulations. After considering such comments, he shall promulgate, within one year after such publication, such standards with such modifications as he deems appropriate. The Administrator shall, at least every 8 years, review and, if appropriate, revise such standards following the procedure required by this subsection for promulgation of such standards. Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard. Standards of performance or revisions thereof shall become effective upon promulgation. When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.
 
 (2) The Administrator may distinguish among classes, types, and sizes within categories of new sources for the purpose of establishing such standards.
 
@@ -72,7 +72,7 @@ After the effective date of standards of performance promulgated under this sect
 
 &emsp;(C) propose regulations for the remaining categories of sources within 6 years after November 15, 1990.
 
-(2) In determining priorities for promulgating standards for categories of major stationary sources for the purpose of paragraph (1), the Administrator shall consider—
+(2) In determining priorities for promulgating standards for categories of major stationarysources for the purpose of paragraph (1), the Administrator shall consider—
 
 &emsp;(A) the quantity of air pollutant emissions which each such category will emit, or will be designed to emit;
 
@@ -148,7 +148,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 (D) A waiver under this paragraph shall extend to the sooner of—
 
-&emsp;(i) the date determined by the Administrator, after consultation with the owner or operator of the source, taking into consideration the design, installation, and capital costof the technological system or systems being used, or
+&emsp;(i) the date determined by the Administrator, after consultation with the owner or operator of the source, taking into consideration the design, installation, and capital cost of the technological system or systems being used, or
 
 &emsp;(ii) the date on which the Administrator determines that such system has failed to—
 
@@ -232,7 +232,7 @@ Subsec. (b)(5), (6). Pub. L. 95–95, §109(c)(3), added pars. (5) and (6).
 
 Subsec. (c)(1). Pub. L. 95–95, §109(d)(1), struck out “(except with respect to new sources owned or operated by the United States)” after “implement and enforce such standards”.
 
-Subsec. (d)(1). Pub. L. 95–95, §109(b)(1), substituted “standards of performance” for “emission standards” and inserted provisions directing that regulations of the Administrator permit the State, in applying a standard of performance to any particular source under a submitted plan, to take into consideration, among other factors, the remaining useful life of the existing source to which the standard applies.
+Subsec. (d)(1). Pub. L. 95–95, §109(b)(1), substituted “standards of performance” for “emission standards”and inserted provisions directing that regulations of the Administrator permit the State, in applying a standard of performance to any particular source under a submitted plan, to take into consideration, among other factors, the remaining useful life of the existing source to which the standard applies.
 
 Subsec. (d)(2). Pub. L. 95–95, §109(b)(2), provided that, in promulgating a standard of performance under a plan, the Administrator take into consideration, among other factors, the remaining useful lives of the sources in the category of sources to which the standard applies.
 

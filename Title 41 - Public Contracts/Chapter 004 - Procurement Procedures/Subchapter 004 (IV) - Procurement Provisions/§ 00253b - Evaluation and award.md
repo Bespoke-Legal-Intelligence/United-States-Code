@@ -46,7 +46,7 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 (4) Each solicitation for competitive proposals shall include a statement that information described in paragraph (2) may be disclosed in post-award debriefings.
 
-(5) If, within one year after the date of the contract award and as a result of a successfulprocurement protest, the executive agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the head of such executive agency shall make available to all offerors—
+(5) If, within one year after the date of the contract award and as a result of a successful procurement protest, the executive agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the head of such executive agency shall make available to all offerors—
 
 &emsp;(A) the information provided in debriefings under this subsection regarding the offer of the contractor awarded the contract; and
 
@@ -54,7 +54,7 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 #### (f) Preaward debriefings
 
-(1) When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
+(1) When the contracting officer excludes an offeror submitting a competitive proposal fromthe competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
 
 (2) The contracting officer is required to debrief an excluded offeror in accordance with subsection (e) of this section only if that offeror requested and was refused a preaward debriefing under paragraph (1) of this subsection.
 
@@ -123,10 +123,6 @@ If, in connection with a protest, the head of an executive agency determines tha
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
 (June 30, 1949, ch. 288, title III, §303B, as added Pub. L. 98–369, div. B, title VII, §2711(a)(2), July 18, 1984, 98 Stat. 1179; amended Pub. L. 98–577, title II, §201(a), Oct. 30, 1984, 98 Stat. 3068; Pub. L. 103–355, title I, §§1061(c), 1063–1066, Oct. 13, 1994, 108 Stat. 3267–3269; Pub. L. 104–106, div. D, title XLI, §§4103(b), 4104(b), div. E, title LVI, §5607(c), Feb. 10, 1996, 110 Stat. 644, 645, 701; Pub. L. 104–201, div. A, title VIII, §821(b), title X, §1074(b)(7), Sept. 23, 1996, 110 Stat. 2609, 2660.)
-
-#### References in Text
-
-The antitrust laws, referred to in subsec. (i), are classified generally to section 1 et seq. of Title 15, Commerce and Trade.
 
 #### Amendments
 

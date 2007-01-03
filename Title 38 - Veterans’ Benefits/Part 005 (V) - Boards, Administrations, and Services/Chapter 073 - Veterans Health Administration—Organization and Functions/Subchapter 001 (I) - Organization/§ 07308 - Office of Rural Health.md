@@ -1,0 +1,24 @@
+### §7308. Office of Rural Health
+
+(a)
+
+Establishment.—There is established in the Department within the Office of the Under Secretary for Health an office to be known as the “Office of Rural Health” (in this section referred to as the “Office”).
+
+(b)
+
+Head.—The Director of the Office of Rural Health shall be the head of the Office. The Director of the Office of Rural Health shall be appointed by the Under Secretary of Health from among individuals qualified to perform the duties of the position.
+
+(c)
+
+Functions.—The functions of the Office are as follows:
+
+&emsp;(1) In cooperation with the medical, rehabilitation, health services, and cooperative studies research programs in the Office of Policy and the Office of Research and Development of the Veterans Health Administration, to assist the Under Secretary for Health in conducting, coordinating, promoting, and disseminating research into issues affecting veterans living in rural areas.
+
+&emsp;(2) To work with all personnel and offices of the Department of Veterans Affairs to develop, refine, and promulgate policies, best practices, lessons learned, and innovative and successful programs to improve care and services for veterans who reside in rural areas of the United States.
+
+&emsp;(3) To designate in each Veterans Integrated Service Network (VISN) an individual whoshall consult on and coordinate the discharge in such Network of programs and activities of the Office for veterans who reside in rural areas of the United States.
+
+&emsp;(4) To perform such other functions and duties as the Secretary or the Under Secretary for Health considers appropriate.
+
+(Added Pub. L. 109–461, title II, §212(a)(1), Dec. 22, 2006, 120 Stat. 3421.)
+

@@ -148,7 +148,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;(ii) asbestos-containing material for which no response action was carried out.
 
-&emsp;(B) The warning label shall read, in print which is readily visible because of large size or bright color, as follows: “<b>CAUTION: ASBESTOS. HAZARDOUS. DO NOT DISTURB WITHOUT PROPER TRAINING AND EQUIPMENT.”</b>
+&emsp;(B) The warning label shall read, in print which is readily visible because of large size or bright color, as follows: <b>“CAUTION: ASBESTOS. HAZARDOUS. DO NOT DISTURB WITHOUT PROPER TRAINING AND EQUIPMENT.”</b>
 
 #### (4) Plan may be submitted in stages
 

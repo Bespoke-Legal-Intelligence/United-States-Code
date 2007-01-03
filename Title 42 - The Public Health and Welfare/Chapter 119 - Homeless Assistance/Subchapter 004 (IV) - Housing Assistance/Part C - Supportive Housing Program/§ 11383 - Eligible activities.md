@@ -36,7 +36,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (A) Victim service providers
 
-&emsp;&emsp;In the course of awarding grants or implementing programs under this subsection, theSecretary shall instruct any victim service provider that is a recipient or subgrantee not to disclose for purposes of a Homeless Management Information System personally identifying information about any client. The Secretary may, after public notice and comment, require or ask such recipients and subgrantees to disclose for purposes of a Homeless Management Information System non-personally identifying data that has been de-identified, encrypted, or otherwise encoded. Nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this paragraph for victims of domestic violence, dating violence, sexual assault, or stalking.
+&emsp;&emsp;In the course of awarding grants or implementing programs under this section, the Secretary shall instruct any victim service provider that is a recipient or subgrantee not to disclose for purposes of a Homeless Management Information System personally identifying information about any client. The Secretary may, after public notice and comment, require or ask such recipients and subgrantees to disclose for purposes of a Homeless Management Information System non-personally identifying data that has been de-identified, encrypted, or otherwise encoded. Nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this paragraph for victims of domestic violence, dating violence, sexual assault, or stalking.
 
 #### (B) Definitions
 
@@ -56,7 +56,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (ii) Victim service provider
 
-&emsp;&emsp;&emsp;The term “victim service provider” or “victim service providers” means a nonprofit, nongovernmental organization including rape crisis centers, battered women's shelters, domestic violence transitional housing programs, and other programs whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking.
+&emsp;&emsp;&emsp;The term “victim service provider” means a nonprofit, nongovernmental organization including rape crisis centers, battered women's shelters, domestic violence transitional housing programs, and other programs whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking.
 
 #### (b) Use restrictions
 
@@ -86,7 +86,7 @@ The Secretary may provide any project with one or more of the following types of
 
 &emsp;A recipient shall not be required to comply with the terms and conditions prescribed under paragraphs (1) and (2) if the sale or disposition of the project results in the use of the project for the direct benefit of very low-income persons or if all of the proceeds are used to provide supportive housing meeting the requirements of this part.
 
-(Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4015; amended Pub. L. 106–377, §1(a)(1) \[title II, §226\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 109–162, title VI, §605(1), Jan. 5, 2006, 119 Stat. 3041.)
+(Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4015; amended Pub. L. 106–377, §1(a)(1) \[title II, §226\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 109–162, title VI, §605(1), Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, §5(b), Aug. 12, 2006, 120 Stat. 759.)
 
 #### References in Text
 
@@ -98,7 +98,11 @@ A prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 101 Sta
 
 #### Amendments
 
-2006—Subsec. (a)(8). Pub. L. 109–162, which directed the addition of par. (8) to subsec. (a) of section 423 of the Stewart B. McKinney Homeless Assistance Act, was executed by adding par. (8) to subsec. (a) of this section,which is section 423 of the McKinney-Vento Homeless Assistance Act, to reflect the probable intent of Congress.
+2006—Subsec. (a)(8). Pub. L. 109–162, which directed the addition of par. (8) to subsec. (a) of section 423 of the Stewart B. McKinney Homeless Assistance Act, was executed by adding par. (8) to subsec. (a) of this section, which is section 423 of the McKinney-Vento Homeless Assistance Act, to reflect the probable intent of Congress.
+
+Subsec. (a)(8)(A). Pub. L. 109–271, §5(b)(1), which directed amendment of section 423(a)(8) of the Stewart B. McKinney Homeless Assistance Act by substituting “section” for “subsection”, was executed to subsec. (a)(8) of this section, which is section 423 of the McKinney-Vento Homeless Assistance Act, to reflect the probable intent of Congress.
+
+Subsec. (a)(8)(B)(ii). Pub. L. 109–271, §5(b)(2), which directed amendment of section 423(a)(8)(B)(ii) of the Stewart B. McKinney Homeless Assistance Act by striking out “or ‘victim service providers’ ” after “ ‘victim service provider’ ”, was executed to subsec. (a)(8)(B)(ii) of this section, which is section 423 of the McKinney-Vento Homeless Assistance Act, to reflect the probable intent of Congress.
 
 2000—Subsec. (a)(7). Pub. L. 106–377 added par. (7).
 

@@ -14,7 +14,7 @@ Imprisonment.—The defendant may be sentenced to a term of imprisonment under s
 
 (c)
 
-Effect of Indigency.—In no event shall a defendant be incarcerated under this section solely on the basis of inability to make payments because the defendant is indigent.
+Effect of Indigency.—In no event shall a defendant be incarcerated under this sectionsolely on the basis of inability to make payments because the defendant is indigent.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2006; amended Pub. L. 104–132, title II, §207(c)(5), Apr. 24, 1996, 110 Stat. 1240.)
 

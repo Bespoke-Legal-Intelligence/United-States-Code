@@ -1,12 +1,12 @@
 ### §3023. Authorization of appropriations; uses of funds
 
-(a)(1) There are authorized to be appropriated to carry out part B of this subchapter (relating to supportive services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(a)(1) There are authorized to be appropriated to carry out part B of this subchapter (relating to supportive services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
 (2) Funds appropriated under paragraph (1) shall be available to carry out section 3058g of this title.
 
-(b)(1) There are authorized to be appropriated to carry out subpart I of part C of this subchapter (relating to congregate nutrition services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(b)(1) There are authorized to be appropriated to carry out subpart I of part C of this subchapter (relating to congregate nutrition services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
-(2) There are authorized to be appropriated to carry out subpart II of part C of this subchapter (relating to home delivered nutrition services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(2) There are authorized to be appropriated to carry out subpart II of part C of this subchapter (relating to home delivered nutrition services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
 (c) Grants made under part B, and subparts I and II of part C, of this subchapter may be used for paying part of the cost of—
 
@@ -14,19 +14,15 @@
 
 &emsp;(2) the development of comprehensive and coordinated systems for supportive services, congregate and home delivered nutrition services under subparts I and II of part C of this subchapter, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
 
-(d) There are authorized to be appropriated to carry out part D of this subchapter (relating to disease prevention and health promotion services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(d) There are authorized to be appropriated to carry out part D of this subchapter (relating to disease prevention and health promotion services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
 
-(e)(1) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter, congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) <sup>1</sup> (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000.
+(e)(1) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $160,000,000 for fiscal year 2007.
 
-(2) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) such sums as may be necessary for each of the 4 succeeding fiscal years.
+(2) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011.
 
-(3) Of the funds appropriated under paragraphs (1) and (2)—
+(3) Of the funds appropriated under paragraphs (1) and (2), not more than 1 percent of such funds may be reserved to carry out activities described in section 3032(a)(11) of this title.
 
-&emsp;(A) 4 percent of such funds shall be reserved to carry out activities described in section 3030s–11 of this title; and
-
-&emsp;(B) 1 percent of such funds shall be reserved to carry out activities described in section 3030s–12 of this title.
-
-(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238.)
+(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238; Pub. L. 109–365, title III, §303, Oct. 17, 2006, 120 Stat. 2538.)
 
 #### Prior Provisions
 
@@ -35,6 +31,18 @@ A prior section 3023, Pub. L. 89–73, title III, §303, as added Pub. L. 93–2
 Another prior section 3023, Pub. L. 89–73, title III, §303, July 14, 1965, 79 Stat. 222; Pub. L. 91–69, §§3(b), 4(a), Sept. 17, 1969, 83 Stat. 108, related to state plans, providing in subsec. (a) for approval by Secretary, contents, notice and hearing prior to disapproval; subsec. (b) noncompliance and cancellation of payments; and subsec. (c) appeals, petitions, record, jurisdiction of courts of appeals, conclusiveness of findings, review by Supreme Court, and stay of administrative action, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
 #### Amendments
+
+2006—Subsecs. (a)(1), (b)(1), (2), (d). Pub. L. 109–365, §303(1), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+
+Subsec. (e)(1). Pub. L. 109–365, §303(2)(A), substituted “$160,000,000 for fiscal year 2007” for “$125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter, congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000”.
+
+Subsec. (e)(2). Pub. L. 109–365, §303(2)(B), substituted “$166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011” for “such sums as may be necessary for each of the 4 succeeding fiscal years”.
+
+Subsec. (e)(3). Pub. L. 109–365, §303(2)(C), substituted “may” for “shall”, “section 3032(a)(11)” for “section 3030s–12”, and “(2), not more than 1 percent” for “(2)—
+
+&emsp;“(A) 4 percent of such funds shall be reserved to carry out activities described in section 3030s–11 of this title; and
+
+&emsp;“(B) 1 percent”.
 
 2000—Subsec. (a)(1). Pub. L. 106–501, §302(1), added par. (1) and struck out former par. (1) which read as follows: “There are authorized to be appropriated $461,376,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under part B of this subchapter (relating to supportive services and senior centers).”
 
@@ -116,7 +124,7 @@ Subsec. (c)(2). Pub. L. 97–115, §3(d), substituted “supportive services” 
 
 Amendment by sections 303(a)(2), (3) and 708(c)(3) of Pub. L. 103–171 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
-Amendment by sections 303(a)(2), (3), (f), 316(b), and 708(c)(3) of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2), (6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by sections 303(a)(2), (3), (f), 316(b), and 708(c)(3) of Pub. L. 102–375 inapplicable with respect tofiscal year 1992, see section 905(b)(2), (6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -125,6 +133,4 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (d)”.</i>
 

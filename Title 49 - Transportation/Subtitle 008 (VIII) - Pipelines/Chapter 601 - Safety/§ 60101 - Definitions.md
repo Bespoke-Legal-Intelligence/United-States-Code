@@ -26,15 +26,11 @@ General.—In this chapter—
 
 &emsp;(5) “hazardous liquid pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
 
-&emsp;(6) “interstate gas pipeline facility”—
+&emsp;(6) “interstate gas pipeline facility” means a gas pipeline facility—
 
-&emsp;&emsp;(A) means a gas pipeline facility—
+&emsp;&emsp;(A) used to transport gas; and
 
-&emsp;&emsp;&emsp;(i) used to transport gas; and
-
-&emsp;&emsp;&emsp;(ii) subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); but
-
-&emsp;&emsp;(B) does not include a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption;
+&emsp;&emsp;(B) subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.);
 
 &emsp;(7) “interstate hazardous liquid pipeline facility” means a hazardous liquid pipeline facility used to transport hazardous liquid in interstate or foreign commerce;
 
@@ -52,11 +48,7 @@ General.—In this chapter—
 
 &emsp;&emsp;&emsp;(ii) places in the same State through a place outside the State;
 
-&emsp;(9) “intrastate gas pipeline facility” means—
-
-&emsp;&emsp;(A) a gas pipeline facility and transportation of gas within a State not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); and
-
-&emsp;&emsp;(B) a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption;
+&emsp;(9) “intrastate gas pipeline facility” means a gas pipeline facility and transportation of gas within a State not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.);
 
 &emsp;(10) “intrastate hazardous liquid pipeline facility” means a hazardous liquid pipeline facility that is not an interstate hazardous liquid pipeline facility;
 
@@ -124,7 +116,7 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 
 (ii) The definition of “regulated gathering line” for hazardous liquid may not include a crude oil gathering line that has a nominal diameter of not more than 6 inches, is operated at low pressure, and is located in a rural area that is not unusually sensitive to environmental damage.
 
-(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805.)
+(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805; Pub. L. 109–468, §7, Dec. 29, 2006, 120 Stat. 3491.)
 
 #### Amendment of Subsection (a)(21) and (22)
 
@@ -336,9 +328,13 @@ This amends 49:60101 for consistency with the style of title 49.
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(A)(ii), (9)(A) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(B), (9) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(6). Pub. L. 109–468, §7(1), added par. (6) and struck out former par. (6) which defined “interstate gas pipeline facility”.
+
+Subsec. (a)(9). Pub. L. 109–468, §7(2), added par. (9) and struck out former par. (9) which defined “intrastate gas pipeline facility”.
 
 1996—Subsec. (a). Pub. L. 104–287 inserted heading.
 
@@ -360,6 +356,10 @@ Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropr
 
 Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–468, §1(a), Dec. 29, 2006, 120 Stat. 3486, provided that: “This Act \[enacting sections 6109 and 60134 to 60137 of this title, amending this section and sections 6107, 60102, 60105, 60107, 60109, 60114, 60117, 60118, 60122, 60125, and 60130 of this title, enacting provisions set out as notes under this section and sections 60102 and 60117 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Pipeline Inspection, Protection, Enforcement, and Safety Act of 2006’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–355, §1(a), Dec. 17, 2002, 116 Stat. 2985, provided that: “This Act \[enacting sections 60129 to 60133 of this title, amending sections 6103 to 6105, 6107, 60102, 60104, 60106, 60109, 60110, 60112, 60114 to 60118, 60120, 60122, 60123, 60125, and 60127 of this title, and enacting provisions set out as notes under sections 1135, 60101, 60102, 60108, 60109, 60114, 60122, and 60131 of this title and section 717m of Title 15, Commerce and Trade\] may be cited as the ‘Pipeline Safety Improvement Act of 2002’.”
@@ -372,9 +372,59 @@ Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60
 
 For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
 
+#### Technical Assistance Program
+
+Pub. L. 109–468, §24, Dec. 29, 2006, 120 Stat. 3500, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation may award, through a competitive process, grants to universities with expertise in pipeline safety and security to establish jointly a collaborative program to conduct pipeline safety and technical assistance programs.
+
+“(b)
+
+Duties.—In cooperation with the Pipeline and Hazardous Materials Safety Administration and representatives from States and boards of public utilities, the participants in the collaborative program established under subsection (a) shall be responsible for development of workforce training and technical assistance programs through statewide and regional partnerships that provide for—
+
+&emsp;“(1) communication of national, State, and local safety information to pipeline operators;
+
+&emsp;“(2) distribution of technical resources and training to support current and future Federal mandates; and
+
+&emsp;“(3) evaluation of program outcomes.
+
+“(c)
+
+Training and Educational Materials.—The collaborative program established under subsection (a) may include courses in recent developments, techniques, and procedures related to—
+
+&emsp;“(1) safety and security of pipeline systems;
+
+&emsp;“(2) incident and risk management for such systems;
+
+&emsp;“(3) integrity management for such systems;
+
+&emsp;“(4) consequence modeling for such systems;
+
+&emsp;“(5) detection of encroachments and monitoring of rights-of-way for such systems; and
+
+&emsp;“(6) vulnerability assessment of such systems at both project and national levels.
+
+“(d)
+
+Reports.—
+
+&emsp;“(1)
+
+University.—Not later than March 31, 2009, the universities awarded grants under subsection (a) shall submit to the Secretary a report on the results of the collaborative program.
+
+&emsp;“(2)
+
+Secretary.—Not later than October 1, 2009, the Secretary shall transmit the reports submitted to the Secretary under paragraph (1), along with any findings, recommendations, or legislative options for Congress to consider, to the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2010.”
+
 #### Pipeline Integrity, Safety, and Reliability Research and Development
 
-Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, provided that:
+Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, as amended by Pub. L. 109–468, §26, Dec. 29, 2006, 120 Stat. 3501, provided that:
 
 “(a)
 
@@ -398,7 +448,7 @@ Program Elements.—The program authorized by subsection (a) shall include resea
 
 &emsp;“(1) materials inspection;
 
-&emsp;“(2) stress and fracture analysis, detection of cracks, corrosion, abrasion, and other abnormalities inside pipelines that lead to pipeline failure, and development of new equipment or technologies that are inserted into pipelines to detect anomalies;
+&emsp;“(2) stress and fracture analysis, detection of cracks, abrasion, and other abnormalities inside pipelines that lead to pipeline failure, and development of new equipment or technologies that are inserted into pipelines to detect anomalies;
 
 &emsp;“(3) internal inspection and leak detection technologies, including detection of leaks at very low volumes;
 
@@ -412,9 +462,13 @@ Program Elements.—The program authorized by subsection (a) shall include resea
 
 &emsp;“(8) fire safety of pipelines;
 
-&emsp;“(9) improved excavation, construction, and repair technologies; and
+&emsp;“(9) improved excavation, construction, and repair technologies;
 
-&emsp;“(10) other appropriate elements.
+&emsp;“(10) corrosion detection and improving methods, best practices, and technologies for identifying, detecting, preventing, and managing internal and external corrosion and other safety risks; and
+
+&emsp;“(11) other appropriate elements.
+
+> The results of activities carried out under paragraph (10) shall be used by the participating agencies to support development and improvement of national consensus standards.
 
 “(d)
 
@@ -434,29 +488,9 @@ Reports to Congress.—Not later than 1 year after the date of enactment of this
 
 “(f)
 
-Authorization of Appropriations.—
-
-&emsp;“(1)
-
-Department of transportation.—There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $10,000,000 for each of the fiscal years 2003 through 2006.
-
-&emsp;“(2)
-
-Department of energy.—There is authorized to be appropriated to the Secretary of Energy for carrying out this section $10,000,000 for each of the fiscal years 2003 through 2006.
-
-&emsp;“(3)
-
-National institute of standards and technology.—There is authorized to be appropriated to the Director of the National Institute of Standards and Technology for carrying out this section $5,000,000 for each of the fiscal years 2003 through 2006.
-
-&emsp;“(4)
-
-General revenue funding.—Any sums appropriated under this subsection shall be derived from general revenues and may not be derived from amounts collected under section 60301 of title 49, United States Code.
-
-“(g)
-
 Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2003 through 2006.
 
-“(h)
+“(g)
 
 Participating Agencies Defined.—In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.”
 

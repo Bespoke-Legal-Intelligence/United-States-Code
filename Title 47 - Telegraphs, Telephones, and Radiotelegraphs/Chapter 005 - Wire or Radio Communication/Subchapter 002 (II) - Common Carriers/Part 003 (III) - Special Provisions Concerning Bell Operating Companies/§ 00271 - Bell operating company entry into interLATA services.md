@@ -156,7 +156,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Limitation
 
-&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19, 1995, requiring a Bell operating company to implement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA services originating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
+&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19, 1995, requiring a Bell operating company toimplement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA services originating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
 
 #### (f) Exception for previously authorized activities
 

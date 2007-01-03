@@ -84,7 +84,7 @@ Section was formerly classified to section 1857f–5 of this title.
 
 #### Prior Provisions
 
-A prior section 206 of act July 14, 1955, related to testing of motor vehicles and motor vehicle engines and was classified to section 1857f–5 of this title, prior to repeal by Pub. L. 91–604.
+A prior section 206 of act July 14, 1955, related to testing of motor vehicles and motor vehicle engines andwas classified to section 1857f–5 of this title, prior to repeal by Pub. L. 91–604.
 
 #### Amendments
 

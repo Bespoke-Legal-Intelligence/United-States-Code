@@ -18,11 +18,11 @@ In General.—The Secretary shall prescribe regulations which establish a safety
 
 (b)
 
-Compliance With Code.—Regulations prescribed under this section shall be consistent with the International Safety Management Code with respect to vessels engaged on a foreign voyage.
+Compliance With Code.—Regulations prescribed under this section shall be consistent with the International Safety Management Code with respect to vessels to which this chapter applies under section 3202(a) of this title.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(b), Aug. 9, 2004, 118 Stat. 1043.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 3204 of this title.
+2004—Subsec. (b). Pub. L. 108–293 substituted “vessels to which this chapter applies under section 3202(a) of this title” for “vessels engaged on a foreign voyage”.
 

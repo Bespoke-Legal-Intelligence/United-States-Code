@@ -26,45 +26,7 @@ Secretary of Defense to establish uniform system of valuation described in subse
 
 #### Report on Inventory and Control of Military Equipment
 
-Pub. L. 106–65, div. A, title III, §363, Oct. 5, 1999, 113 Stat. 576, provided that:
-
-“(a)
-
-Report Required.—Not later than August 31, 2000, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999. The report shall address the inventories of each of the Army, Navy, Air Force, and Marine Corps separately.
-
-“(b)
-
-Content.—The report shall include the following:
-
-&emsp;“(1) For each item of military equipment in the inventory, stated by item nomenclature—
-
-&emsp;&emsp;“(A) the quantity of the item in the inventory as of the beginning of the fiscal year;
-
-&emsp;&emsp;“(B) the quantity of acquisitions of the item during the fiscal year;
-
-&emsp;&emsp;“(C) the quantity of disposals of the item during the fiscal year;
-
-&emsp;&emsp;“(D) the quantity of losses of the item during the performance of military missions during the fiscal year; and
-
-&emsp;&emsp;“(E) the quantity of the item in the inventory as of the end of the fiscal year.
-
-&emsp;“(2) A reconciliation of the quantity of each item in the inventory as of the beginning of the fiscal year with the quantity of the item in the inventory as of the end of the fiscal year.
-
-&emsp;“(3) For each item of military equipment that cannot be reconciled—
-
-&emsp;&emsp;“(A) an explanation of why the quantities cannot be reconciled; and
-
-&emsp;&emsp;“(B) a discussion of the remedial actions planned to be taken, including target dates for accomplishing the remedial actions.
-
-&emsp;“(4) Supporting schedules identifying the location of each item that are available to Congress or auditors of the Comptroller General upon request.
-
-“(c)
-
-Military Equipment Defined.—For the purposes of this section, the term ‘military equipment’ means all equipment that is used in support of military missions and is maintained on the visibility systems of the Army, Navy, Air Force, or Marine Corps.
-
-“(d)
-
-Inspector General Review.—Not later than November 30, 2000, the Inspector General of the Department of Defense shall review the report submitted to the committees under subsection (a) and shall submit to the committees any comments that the Inspector General considers appropriate.”
+Pub. L. 106–65, div. A, title III, §363, Oct. 5, 1999, 113 Stat. 576, provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.
 
 #### Best Commercial Inventory Practices for Management of Secondary Supply Items
 

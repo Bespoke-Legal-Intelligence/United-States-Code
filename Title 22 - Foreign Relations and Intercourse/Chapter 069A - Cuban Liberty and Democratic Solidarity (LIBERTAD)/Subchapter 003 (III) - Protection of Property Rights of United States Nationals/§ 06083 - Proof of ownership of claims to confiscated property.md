@@ -8,7 +8,7 @@
 
 #### (2) Claims not certified
 
-&emsp;If in an action under this subchapter a claim has not been so certified by the Foreign Claims Settlement Commission, the court may appoint a special master, including the Foreign Claims Settlement Commission, to make determinations regarding the amount and ownership of the claim. Such determinations are only for evidentiary purposes in civil actions brought under this subchapter and do not constitute certifications under title V of the International Claims Settlement Act of 1949.
+&emsp;If in an action under this subchapter a claim has not been so certified by the Foreign Claims Settlement Commission, the courtmay appoint a special master, including the Foreign Claims Settlement Commission, to make determinations regarding the amount and ownership of the claim. Such determinations are only for evidentiary purposes in civil actions brought under this subchapter and do not constitute certifications under title V of the International Claims Settlement Act of 1949.
 
 #### (3) Effect of determinations of foreign or international entities
 
@@ -20,7 +20,7 @@
 
 Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643<i>l</i>\], as added by subsection (b) of this section, shall be construed—
 
-&emsp;(1) to require or otherwise authorize the claims of Cuban nationals who became United States citizens after their property was confiscated to be included in the claims certifiedto the Secretary of State by the Foreign Claims Settlement Commission for purposes of future negotiation and espousal of claims with a friendly government in Cuba when diplomatic relations are restored; or
+&emsp;(1) to require or otherwise authorize the claims of Cuban nationals who became United States citizens after their property was confiscated to be included in the claims certified to the Secretary of State by the Foreign Claims Settlement Commission for purposes of future negotiation and espousal of claims with a friendly government in Cuba when diplomatic relations are restored; or
 
 &emsp;(2) as superseding, amending, or otherwise altering certifications that have been made under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] before March 12, 1996.
 

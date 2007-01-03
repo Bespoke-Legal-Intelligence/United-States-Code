@@ -18,7 +18,7 @@
 
 (c) The premium rate of any term insurance issued under this section shall not exceed the renewal age 70 premium rate.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, §722; renumbered §1922 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, §1201(i)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 106–419, title III, §311(a), Nov. 1, 2000, 114 Stat. 1854.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, §722; renumbered §1922 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a),\(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, §1201(i)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 106–419, title III, §311(a), Nov. 1, 2000, 114 Stat. 1854.)
 
 #### References in Text
 

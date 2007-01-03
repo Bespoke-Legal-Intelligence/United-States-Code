@@ -20,7 +20,7 @@ For the purposes of subsection (a)(5) of this section, the term “original sour
 
 #### (c) Notice of invalidity
 
-If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of section 4202 of this title, or that a declaration has been disclosed in violation of section 4203 of this title, the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4205 or 4206 of this title.
+If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of section 4202 of this title, or that a declaration has been disclosed in violation of section 4203 of this title, the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, andthe declarant shall not enjoy any of the rights of the declarant listed in section 4205 or 4206 of this title.
 
 (Pub. L. 101–647, title XXV, §2564, Nov. 29, 1990, 104 Stat. 4895; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

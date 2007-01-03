@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—If a State authority files an application not later than September 30 of a calendar year, the Secretary of Transportation shall pay not more than 50 percent of the cost of the personnel, equipment, and activities the authority reasonably requires during the next calendar year—
+General Authority.—If a State authority files an application not later than September 30 of a calendar year, the Secretary of Transportation shall pay not more than 80 percent of the cost of the personnel, equipment, and activitiesthe authority reasonably requires during the next calendar year—
 
 &emsp;(1) to carry out a safety program under a certification under section 60105 of this title or an agreement under section 60106 of this title; or
 
@@ -10,11 +10,7 @@ General Authority.—If a State authority files an application not later than Se
 
 (b)
 
-Payments.—After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent—
-
-&emsp;(1) for a gas safety program, for the fiscal years that ended June 30, 1967, and June 30, 1968; and
-
-&emsp;(2) for a hazardous liquid safety program, for the fiscal years that ended September 30, 1978, and September 30, 1979.
+Payments.—After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement.
 
 (c)
 
@@ -38,7 +34,7 @@ Additional Authority and Considerations.—(1) The Secretary may prescribe—
 
 &emsp;(C) provide for approval of qualifications on a conditional basis until specified requirements are met.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1311; Pub. L. 104–304, §20(c), Oct. 12, 1996, 110 Stat. 3804.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1311; Pub. L. 104–304, §20(c), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(c), (d), Dec. 29, 2006, 120 Stat. 3489.)
 
 Historical and Revision Notes
 
@@ -116,11 +112,19 @@ In subsection (b), before clause (1), the word “payment” is substituted for 
 
 In subsection (c), the words “the Federal grants-in-aid provisions of”, “for payments to aid in the conduct of pipeline safety programs in accordance with paragraph (1) of this subsection”, and “with necessary adjustments on account of overpayments and underpayments” are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the word “prescribe” is substituted for “by regulation, provide for” and “establish by regulation” for consistency in the revised title and with other titles of the United States Code. In clause (C), the words “to receive a payment under this section” are substituted for “in order to participate in the pipeline safety grant program under this subsection”, and the words “under section 60105 or 60106of this title” are substituted for “pursuant to either an annual certification by a State agency or an agreement relating to inspection between a State agency and the Secretary”, to eliminate unnecessary words.
+In subsection (d)(1), before clause (A), the word “prescribe” is substituted for “by regulation, provide for” and “establish by regulation” for consistency in the revised title and with other titles of the United States Code. In clause (C), the words “to receive a payment under this section” are substituted for “in order to participate in the pipeline safety grant program under this subsection”, and the words “under section 60105 or 60106 of this title” are substituted for “pursuant to either an annual certification by a State agency or an agreement relating to inspection between a State agency and the Secretary”, to eliminate unnecessary words.
 
 In subsection (d)(2), before clause (A), the words “qualifications prescribed” are substituted for “regulations” for clarity and consistency.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–468, §2(c), substituted “not more than 80 percent” for “not more than 50 percent” in introductory provisions.
+
+Subsec. (b). Pub. L. 109–468, §2(d), substituted “spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement.” for “spent—
+
+&emsp;“(1) for a gas safety program, for the fiscal years that ended June 30, 1967, and June 30, 1968; and
+
+&emsp;“(2) for a hazardous liquid safety program, for the fiscal years that ended September 30, 1978, and September 30, 1979.”
 
 1996—Pub. L. 104–304 substituted “State pipeline safety grants” for “State grants” in section catchline.
 

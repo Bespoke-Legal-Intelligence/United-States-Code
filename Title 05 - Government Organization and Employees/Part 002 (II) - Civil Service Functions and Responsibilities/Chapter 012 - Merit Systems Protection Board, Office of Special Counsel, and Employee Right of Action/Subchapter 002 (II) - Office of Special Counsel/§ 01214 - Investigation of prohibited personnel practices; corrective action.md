@@ -62,7 +62,7 @@
 
 (ii) If the Special Counsel is unable to make the required determination within the 240-day period specified under clause (i) and the person submitting the allegation of a prohibited personnel practice agrees to an extension of time, the determination shall be made within such additional period of time as shall be agreed upon between the Special Counsel and the person submitting the allegation.
 
-(B) If, in connection with any investigation, the Special Counsel determines that there arereasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken which requires corrective action, the Special Counsel shall report the determination together with any findings or recommendations to the Board, the agency involved and to the Office of Personnel Management, and may report such determination, findings and recommendations to the President. The Special Counsel may include in the report recommendations for corrective action to be taken.
+(B) If, in connection with any investigation, the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken which requires corrective action, the Special Counsel shall report the determination together with any findings or recommendations to the Board, the agency involved and to the Office of Personnel Management, and may report such determination, findings and recommendations to the President. The Special Counsel may include in the report recommendations for corrective action to be taken.
 
 (C) If, after a reasonable period of time, the agency does not act to correct the prohibited personnel practice, the Special Counsel may petition the Board for corrective action.
 

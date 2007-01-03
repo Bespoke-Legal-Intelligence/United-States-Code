@@ -24,7 +24,7 @@ A Director may serve after the expiration of the term for which the Director was
 
 #### (2) Functions
 
-&emsp;The Deputy Director shall have such functions, powers, and duties as the Director shallprescribe. In the event of the death, resignation, sickness, or absence of the Director, the Deputy Director shall serve as acting Director until the return of the Director or the appointment of a successor pursuant to subsection (c) of this section.
+&emsp;The Deputy Director shall have such functions, powers, and duties as the Director shall prescribe. In the event of the death, resignation, sickness, or absence of the Director, the Deputy Director shall serve as acting Director until the return of the Director or the appointment of a successor pursuant to subsection (c) of this section.
 
 (Pub. L. 102–550, title XIII, §1312, Oct. 28, 1992, 106 Stat. 3945.)
 

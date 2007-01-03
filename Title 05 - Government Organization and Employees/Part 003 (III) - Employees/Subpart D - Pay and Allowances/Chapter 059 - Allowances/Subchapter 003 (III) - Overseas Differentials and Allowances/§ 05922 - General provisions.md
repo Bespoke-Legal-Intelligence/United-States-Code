@@ -24,9 +24,9 @@
 
 &emsp;(3) other related matters.
 
-(d) When a quarters allowance or allowance related to education under this subchapter, or quarters furnished in Government-owned or controlled buildings under section 5912, would be furnished to an employee but for the death of the employee, such allowances or quarters may be furnished or continued for the purpose of allowing any child of the employee to complete the current school year at post or away from post notwithstanding the employee's death.
+(d) When a quarters allowance or allowance related to education under this subchapter, or quarters furnished in Government-owned or controlled buildings under section 5912, would be furnished to an employee but for the death ofthe employee, such allowances or quarters may be furnished or continued for the purpose of allowing any child of the employee to complete the current school year at post or away from post notwithstanding the employee's death.
 
-(e) When an allowance related to education away from post under this subchapter would beauthorized with respect to an employee but for the evacuation or authorized departure status of the post, such an allowance may be furnished or continued for the purpose of allowing any dependent children of such employee to complete the current school year.
+(e) When an allowance related to education away from post under this subchapter would be authorized with respect to an employee but for the evacuation or authorized departure status of the post, such an allowance may be furnished or continued for the purpose of allowing any dependent children of such employee to complete the current school year.
 
 (f)(1) If an employee dies at post in a foreign area, a transfer allowance under section 5924(2)(B) may be granted to the spouse or dependents of such employee (or both) for the purpose of providing for their return to the United States.
 

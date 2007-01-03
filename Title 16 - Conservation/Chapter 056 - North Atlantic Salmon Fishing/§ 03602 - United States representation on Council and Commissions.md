@@ -14,7 +14,7 @@ Individuals who serve as Commissioners and alternate Commissioners shall not rec
 
 #### (d) Consultation with other parties
 
-In carrying out their functions under the Convention, the Commissioners may consult with the appropriate Regional Fishery Management Councils established by section 302 of the Act of1976 (16 U.S.C. 1852), and may consult with such other interested parties as they consider appropriate. The Federal Advisory Committee Act (5 U.S.C. App. et seq.) shall not apply to consultations described in this subsection.
+In carrying out their functions under the Convention, the Commissioners may consult with the appropriate Regional Fishery Management Councils established by section 302 of the Act of 1976 (16 U.S.C. 1852), and may consult with such other interested parties as they consider appropriate. The Federal Advisory Committee Act (5 U.S.C. App. et seq.) shall not apply to consultations described in this subsection.
 
 (Pub. L. 97–389, title III, §303, Dec. 29, 1982, 96 Stat. 1952; Pub. L. 98–44, title I, §102(1), July 12, 1983, 97 Stat. 216.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Purpose.—The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for the United States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
+Establishment and Purpose.—The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for the United States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102 of this title), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
 
 (b)
 
@@ -56,7 +56,7 @@ Estimate.—The National Capital Planning Commission shall submit to the Office 
 
 Fees.—The National Capital Planning Commission may charge fees to cover the full cost of Geographic Information System products and services the Commission supplies. The fees shall be credited to the applicable appropriation account as an offsetting collection and remain available until expended.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1217.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1217; Pub. L. 109–284, §6(27), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -120,7 +120,7 @@ In subsection (e), before clause (1), the words “As hereinafter more specifica
 
 Subsection (f) is substituted for 40:71h to eliminate obsolete language.
 
-In subsection (g), the words “Said Commission shall report to Congress annually on the first Monday of March the lands acquired during the preceding fiscal year, the method of acquisition, and the cost of each tract” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 180 of House Document No. 103–7. The words “Office of Management and Budget” are substituted for “Bureau of the Budget” in section 13 of the Act of June 6, 1924, because the Bureau of the Budget was redesignated the Office of Management and Budget by section 102 of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970 was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:501, continued the designation as Office of Management and Budget.
+In subsection (g), the words “Said Commission shall report to Congress annually on the first Monday of March the lands acquired during the preceding fiscalyear, the method of acquisition, and the cost of each tract” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 180 of House Document No. 103–7. The words “Office of Management and Budget” are substituted for “Bureau of the Budget” in section 13 of the Act of June 6, 1924, because the Bureau of the Budget was redesignated the Office of Management and Budget by section 102 of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970 was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:501, continued the designation as Office of Management and Budget.
 
 In subsection (h), the words “beginning in fiscal year 1998 and thereafter” are omitted as obsolete.
 
@@ -129,6 +129,10 @@ In subsection (h), the words “beginning in fiscal year 1998 and thereafter” 
 Act of March 2, 1893, referred to in subsec. (f), is act Mar. 2, 1893, ch. 197, 27 Stat. 532, as amended, which is not classified to the Code.
 
 Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, as amended, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b of former Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, §203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
 
 #### Change of Name
 

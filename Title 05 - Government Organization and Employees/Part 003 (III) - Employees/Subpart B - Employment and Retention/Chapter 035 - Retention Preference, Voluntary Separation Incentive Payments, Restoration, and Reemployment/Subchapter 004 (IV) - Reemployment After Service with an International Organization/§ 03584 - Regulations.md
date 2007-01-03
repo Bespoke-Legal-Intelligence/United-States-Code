@@ -32,9 +32,9 @@ Ex. Ord. No. 11552, Aug. 24, 1970, 35 F.R. 13569, as amended by Ex. Ord. No. 121
 
 By virtue of the authority vested in me by section 301 of title 3 and section 3584 of title 5 \[this section\], United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. <i>Leadership and coordination</i>. The Secretary of State shall provide leadership and coordination for the effort of the Federal Government to increase and improve its participation in international organizations through transfers and details of well-qualified Federal employees, and shall develop policies, procedures, and programs consistent with this order to advance and encourage such participation.
+Section 1. <i>Leadership and coordination</i>. The Secretary of State shall provide leadership and coordination for the effort of the Federal Government to increase and improve its participation in international organizations through transfers and details of well-qualifiedFederal employees, and shall develop policies, procedures, and programs consistent with this order to advance and encourage such participation.
 
-Sec. 2. <i>Federal agency cooperation</i>. Each agency in the executive branch of the Federal Government shall to the maximum extent feasible and with due regard to itsmanpower requirements assist and encourage details and transfers of employees to international organizations by observing the following policies and procedures:
+Sec. 2. <i>Federal agency cooperation</i>. Each agency in the executive branch of the Federal Government shall to the maximum extent feasible and with due regard to its manpower requirements assist and encourage details and transfers of employees to international organizations by observing the following policies and procedures:
 
 (1) Vacancies in international organizations shall be brought to the notice of well-qualified agency employees whose abilities and levels of responsibility in the Federal service are commensurate with those required to fill such vacancies.
 

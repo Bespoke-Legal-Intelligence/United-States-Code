@@ -14,7 +14,7 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”,which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1982—Pub. L. 97–257 inserted reference to the Vice President.
 

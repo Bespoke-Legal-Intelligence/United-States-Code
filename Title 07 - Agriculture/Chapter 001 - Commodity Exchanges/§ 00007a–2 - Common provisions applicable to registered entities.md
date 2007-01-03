@@ -38,7 +38,7 @@
 
 #### (B) Prior approval required
 
-&emsp;&emsp;Notwithstanding any other provision of this section, a designated contract market shall submit to the Commission for prior approval each rule amendment that materially changes the terms and conditions, as determined by the Commission, in any contractof sale for future delivery of a commodity specifically enumerated in section 1a(4) of this title (or any option thereon) traded through its facilities if the rule amendment applies to contracts and delivery months which have already been listed for trading and have open interest.
+&emsp;&emsp;Notwithstanding any other provision of this section, a designated contract market shall submit to the Commission for prior approval each rule amendment that materially changes the terms and conditions, as determined by the Commission, in any contract of sale for future delivery of a commodity specifically enumerated in section 1a(4) of this title (or any option thereon) traded through its facilities if the rule amendment applies to contracts and delivery months which have already been listed for trading and have open interest.
 
 #### (C) Deadline
 

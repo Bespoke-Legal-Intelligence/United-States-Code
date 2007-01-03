@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(ii) Any individual whom the Secretary finds has been convicted of—
 
-&emsp;&emsp;&emsp;(I) a felony which is not described in subsection (a)(2) of this section or clause (i) of this subparagraph and which involves bribery, payment of illegal gratuities, fraud, perjury, false statement, racketeering,blackmail, extortion, falsification or destruction of records, or interference with, obstruction of an investigation into, or prosecution of, any criminal offense, or
+&emsp;&emsp;&emsp;(I) a felony which is not described in subsection (a)(2) of this section or clause (i) of this subparagraph and which involves bribery, payment of illegal gratuities, fraud, perjury, false statement, racketeering, blackmail, extortion, falsification or destruction of records, or interference with, obstruction of an investigation into, or prosecution of, any criminal offense, or
 
 &emsp;&emsp;&emsp;(II) a conspiracy to commit, or aiding or abetting, such felony,
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) changes in ownership, management, or operations have fully corrected the causes of the offense involved and provide reasonable assurances that the offense will not occur in the future, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in applicable cases, sufficient audits, conducted by the Food and Drug Administration or by independent experts acceptable to the Food and Drug Administration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
+&emsp;&emsp;&emsp;&emsp;(II) in applicable cases, sufficient audits, conducted by the Food and Drug Administration or by independent experts acceptable to the Food and DrugAdministration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
 
 &emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1) of this section, such termination shall take effect no earlier than the expiration of one year from the date of the debarment.
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that—
 
-&emsp;&emsp;&emsp;(i) the person making the application under subparagraph (A) has demonstrated that the felony conviction which was the basis for such person's debarment involved the commission of an offense which was not authorized, requested, commanded, performed, or recklessly tolerated by theboard of directors or by a high managerial agent acting on behalf of the person within the scope of the board's or agent's office or employment,
+&emsp;&emsp;&emsp;(i) the person making the application under subparagraph (A) has demonstrated that the felony conviction which was the basis for such person's debarment involved the commission of an offense which was not authorized, requested, commanded, performed, or recklessly tolerated by the board of directors or by a high managerial agent acting on behalf of the person within the scope of the board's or agent's office or employment,
 
 &emsp;&emsp;&emsp;(ii) all individuals who were involved in the commission of the offense or who knew or should have known of the offense have been removed from employment involving the development or approval of any drug subject to sections <sup>1</sup> 355 of this title,
 
@@ -224,7 +224,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;(B) if the Secretary finds that such person—
 
-&emsp;&emsp;&emsp;(i) has bribed or attempted to bribe, has paid or attempted to pay an illegal gratuity, or has induced or attempted to induce another person to bribe or pay an illegal gratuity to any officer, employee, or agent of the Department of Health and Human Services or to any other Federal, State, or local official in connection with any abbreviated drug application, or has conspired to commit, or aided or abetted, such actions, or
+&emsp;&emsp;&emsp;(i) has bribed or attempted to bribe, has paid or attempted to pay an illegal gratuity, or has induced or attempted to induce another person to bribe or pay an illegalgratuity to any officer, employee, or agent of the Department of Health and Human Services or to any other Federal, State, or local official in connection with any abbreviated drug application, or has conspired to commit, or aided or abetted, such actions, or
 
 &emsp;&emsp;&emsp;(ii) has knowingly made or caused to be made a pattern or practice of false statements or misrepresentations with respect to material facts relating to any abbreviated drug application, or the production of any drug subject to an abbreviated drug application, to any officer, employee, or agent of the Department of Health and Human Services, or has conspired to commit, or aided or abetted, such actions, and
 
@@ -248,7 +248,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (B) Extension
 
-&emsp;&emsp;If, at the end of the period described in subparagraph (A), the Secretary determines that a person has been criminally charged for an action described in subparagraph (B) of paragraph (1), the Secretary may extend the period of denial of approval of an application for a period not to exceed 18 months. The Secretary shall terminate such extension if the charges have been dismissed, if ajudgment of acquittal has been entered, or if the Secretary determines that the finding described in subparagraph (A) was in error.
+&emsp;&emsp;If, at the end of the period described in subparagraph (A), the Secretary determines that a person has been criminally charged for an action described in subparagraph (B) of paragraph (1), the Secretary may extend the period of denial of approval of an application for a period not to exceed 18 months. The Secretary shall terminate such extension if the charges have been dismissed, if a judgment of acquittal has been entered, or if the Secretary determines that the finding described in subparagraph (A) was in error.
 
 #### (3) Informal hearing
 
@@ -306,7 +306,7 @@ The Secretary may not take any action under subsection (a), (b), (c), (d)(3), (g
 
 #### (2) Exception
 
-&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection (b)(2)(B) of this section may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district inwhich the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
+&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection (b)(2)(B) of this section may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district in which the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
 
 #### (k) Certification
 
@@ -380,7 +380,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 107–188, §304(b)(4)(C), inserted “or subsecti
 
 Subsec. (d)(3)(B)(ii). Pub. L. 107–188, §304(b)(4)(C), (D), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)” and “or the food importation process, as the case may be” before period.
 
-Subsec. (<i>l</i>)(2). Pub. L. 107–188, §304(c), in first sentence struck out “and” after “subsection (b)(2) of this section,” and inserted “, and subsection (b)(3)(A) of thissection” after “subsection (b)(2)(B) of this section” and in second sentence inserted “, subsection (b)(3)(B) of this section,” after “subsection (b)(2)(B) of this section”.
+Subsec. (<i>l</i>)(2). Pub. L. 107–188, §304(c), in first sentence struck out “and” after “subsection (b)(2) of this section,” and inserted “, and subsection (b)(3)(A) of this section” after “subsection (b)(2)(B) of this section” and in second sentence inserted “, subsection (b)(3)(B) of this section,” after “subsection (b)(2)(B) of this section”.
 
 Subsec. (m). Pub. L. 107–250 added subsec. (m).
 

@@ -25,19 +25,9 @@
 | [113a.](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Introduction%20and%20Spread%20of%20Contagion/%C2%A7%2000113a%20-%20Establishment%20of%20research%20laboratories%20for%20foot-and-mouth%20disease%20and%20other%20animal%20diseases%3B%20research%20contracts%3B%20employment%20of%E2%80%A6.md) | Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of technicians and scientists; appropriations. |
 | 114 to 114h. Repealed. |  |
 | [114i.](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Introduction%20and%20Spread%20of%20Contagion/%C2%A7%2000114i%20-%20Pseudorabies%20eradication.md) | Pseudorabies eradication. |
-| (a) | Findings. |
-| (b) | Establishment of program. |
-| (c) | Use of funds for testing and control of pseudorabies. |
-| (d) | Authorization of appropriations. |
 | 115 to 135b. Repealed, Omitted, or Transferred. |  |
 | [136\.](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Introduction%20and%20Spread%20of%20Contagion/%C2%A7%2000136%20-%20Additional%20inspection%20services.md) | Additional inspection services. |
 | [136a.](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Introduction%20and%20Spread%20of%20Contagion/%C2%A7%2000136a%20-%20Collection%20of%20fees%20for%20inspection%20services.md) | Collection of fees for inspection services. |
-| (a) | Quarantine and inspection fees. |
-| (b) | Omitted. |
-| (c) | Animal inspection and veterinary diagnostics. |
-| (d) | Regulations. |
-| (e) | Recovery of amounts owed. |
-| (f) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

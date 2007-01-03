@@ -22,7 +22,7 @@ Annual Report.—Not later than December 1 each year, the Secretary of Defense s
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+2003—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and theCommittee on Appropriations of the House of Representatives.”
 
 1999—Subsecs. (c)(1), (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

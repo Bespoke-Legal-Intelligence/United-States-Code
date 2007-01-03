@@ -20,13 +20,11 @@ Covered Items.—An item referred to in subsection (a) is any of the following:
 
 &emsp;&emsp;(E) any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials.
 
-&emsp;(2) Specialty metals, including stainless steel flatware.
-
-&emsp;(3) Hand or measuring tools.
+&emsp;(2) Hand or measuring tools.
 
 (c)
 
-Availability Exception.—Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b)(1) or specialty metals (including stainless steel flatware) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
+Availability Exception.—Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b)(1) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 
 (d)
 
@@ -42,7 +40,7 @@ Exception for Certain Procurements.—Subsection (a) does not apply to the follo
 
 (e)
 
-Exception for Specialty Metals and Chemical Warfare Protective Clothing.—Subsection (a) does not preclude the procurement of specialty metals or chemical warfare protective clothing produced outside the United States if—
+Exception for Chemical Warfare Protective Clothing.—Subsection (a) does not preclude the procurement of chemical warfare protective clothing produced outside the United States if—
 
 &emsp;(1) such procurement is necessary—
 
@@ -80,15 +78,21 @@ Geographic Coverage.—In this section, the term “United States” includes th
 
 Notification Required Within 7
 
-Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
+Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days  after  the  award  of  the  contract,  post  a notification  that  the  exception  has  been  applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388.)
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337.)
 
 #### Amendments
 
 2006—Subsec. (b)(1)(B). Pub. L. 109–163, §833(b), inserted before semicolon “and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing (and the materials and components thereof)”.
 
+Subsec. (b)(2), (3). Pub. L. 109–364, §842(a)(3)(A), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Specialty metals, including stainless steel flatware.”
+
+Subsec. (c). Pub. L. 109–364, §842(a)(3)(B), struck out “or specialty metals (including stainless steel flatware)” after “subsection (b)(1)”.
+
 Subsec. (d)(3). Pub. L. 109–163, §831, inserted “, or for,” after “perishable foods by”.
+
+Subsec. (e). Pub. L. 109–364, §842(a)(3)(C), struck out “Specialty Metals and” after “Exception for” in heading and “specialty metals or” after “procurement of” in introductory provisions.
 
 Subsec. (k). Pub. L. 109–163, §833(a), added subsec. (k).
 
@@ -107,6 +111,14 @@ Exceptions for Certain Other Commodities and Items.—Subsection (a) does not pr
 > for “
 
 Exception for Certain Foods.—Subsection (a) does not preclude the procurement of foods”, and added par. (2).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title VIII, §842(a)(4)(B), Oct. 17, 2006, 120 Stat. 2337, provided that: “The amendments made by paragraph (3) \[amending this section\] shall take effect on the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
+
+#### Short Title
+
+This section is popularly known as the “Berry Amendment”.
 
 #### Training for Defense Acquisition Workforce on the Requirements of the Berry Amendment
 

@@ -4,9 +4,6 @@
 | :--- | ---: |
 | [1651\.](%C2%A7%2001651%20-%20Prohibition%20against%20assignment%20or%20transportation%20of%20students%20to%20overcome%20racial%20imbalance.md) | Prohibition against assignment or transportation of students to overcome racial imbalance. |
 | [1652\.](%C2%A7%2001652%20-%20Prohibition%20against%20busing.md) | Prohibition against busing. |
-| (a) | Use of appropriated funds for busing. |
-| (b) | Rules, regulations, orders, etc., for busing. |
-| (c) | “Applicable program” defined. |
 | [1653\.](%C2%A7%2001653%20-%20Omitted.md) | Omitted. |
 | [1654\.](%C2%A7%2001654%20-%20Intervention%20authorization%20in%20implementation%20of%20court%20orders.md) | Intervention authorization in implementation of court orders. |
 | [1655\.](%C2%A7%2001655%20-%20Uniform%20rules%20of%20evidence%20of%20racial%20discrimination.md) | Uniform rules of evidence of racial discrimination. |

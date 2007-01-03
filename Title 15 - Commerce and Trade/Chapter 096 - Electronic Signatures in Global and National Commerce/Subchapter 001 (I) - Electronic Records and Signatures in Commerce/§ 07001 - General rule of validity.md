@@ -26,7 +26,7 @@ This subchapter does not—
 
 &emsp;&emsp;(B) the consumer, prior to consenting, is provided with a clear and conspicuous statement—
 
-&emsp;&emsp;&emsp;(i) informing the consumer of (I) any right or option of the consumer to have the record provided or made available onpaper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties’ relationship), or fees in the event of such withdrawal;
+&emsp;&emsp;&emsp;(i) informing the consumer of (I) any right or option of the consumer to have the record provided or made available on paper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties’ relationship), or fees in the event of such withdrawal;
 
 &emsp;&emsp;&emsp;(ii) informing the consumer of whether the consent applies (I) only to the particular transaction which gave rise to the obligation to provide the record, or (II) to identified categories of records that may be provided or made available during the course of the parties’ relationship;
 
@@ -54,7 +54,7 @@ This subchapter does not—
 
 #### (B) Verification or acknowledgment
 
-&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to be provided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
+&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to beprovided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
 
 #### (3) Effect of failure to obtain electronic consent or confirmation of consent
 
@@ -88,7 +88,7 @@ This subchapter does not—
 
 #### (3) Originals
 
-&emsp;If a statute, regulation, or other rule of law requires a contract or other record relating toa transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).
+&emsp;If a statute, regulation, or other rule of law requires a contract or other record relating to a transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).
 
 #### (4) Checks
 
@@ -116,7 +116,7 @@ It is the specific intent of the Congress that this subchapter and subchapter II
 
 #### (j) Insurance agents and brokers
 
-An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
+An insurance agent or broker acting under the direction of a party that enters into a contractby means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
 
 &emsp;(1) the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;
 

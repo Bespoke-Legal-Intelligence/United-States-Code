@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-A person who has served honorably at any time in the armed forces of the United States for a period or periods aggregating one year, and, who, if separated from such service, was never separated except under honorable conditions, may be naturalized without having resided, continuously immediately preceding the date of filing such person's application, in the United States for at least five years, and in the State or district of the Service in the United States in which the application for naturalization is filed for at least three months, and without having been physically present in the United States for any specified period, if such application is filed while the applicant is still in the service or within six months after the termination of such service.
+A person who has served honorably at any time in the armed forces of the United States for a period or periods aggregating one year, and, who, if separated from such service, was never separated except under honorable conditions, may be naturalized without having resided, continuously immediately preceding the date of filing such person's application, in the United States for at least five years, and in the State or district of the Service in the United States in which the application for naturalization is filed for at least three months, and without having been physically present in the United States for any specified period, if such application is filed while the applicant is still in theservice or within six months after the termination of such service.
 
 #### (b) Exceptions
 
@@ -18,7 +18,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 #### (c) Periods when not in service
 
-In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character, attachment to the principles of the Constitutionof the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegation and proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
+In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegation and proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
 
 #### (d) Residence requirements
 
@@ -52,7 +52,7 @@ Subsec. (f). Pub. L. 108–136, §1701(c)(1)(A), added subsec. (f).
 
 Subsec. (b). Pub. L. 101–649, §407(b)(4)(B), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “within a State or district of the Service in the United States” for “within the jurisdiction of the court” in par. (1), “any hearing” for “the final hearing” in par. (3), and references to applicant and application for references to petitioner and petition wherever appearing.
 
-Subsec. (c). Pub. L. 101–649, §407(b)(4)(C), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “State or district of the Service in the United States” for “State”, “any hearing” for “the final hearing”, and references to applicant's and application for references to petitioner's and petition wherever appearing.
+Subsec. (c). Pub. L. 101–649, §407(b)(4)(C), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “State ordistrict of the Service in the United States” for “State”, “any hearing” for “the final hearing”, and references to applicant's and application for references to petitioner's and petition wherever appearing.
 
 Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 

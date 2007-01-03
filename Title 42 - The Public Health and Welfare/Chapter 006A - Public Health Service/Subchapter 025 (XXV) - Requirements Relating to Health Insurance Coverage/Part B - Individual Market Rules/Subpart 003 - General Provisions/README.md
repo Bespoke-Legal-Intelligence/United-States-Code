@@ -2,7 +2,7 @@ subpart 3—general provisions
 
 #### Codification
 
-Another subpart 3 of part B of title XXVII of act July 1, 1944, is classified to subpart 3 (§300gg–51) of part B of this subchapter.
+Another subpart 3 of part B of title XXVII of act July 1, 1944, is classified to subpart 2 (§300gg–51) of part B of this subchapter.
 
 
 ---

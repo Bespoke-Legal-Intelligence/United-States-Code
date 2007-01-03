@@ -72,7 +72,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 #### (3) Processing of eligible commodities
 
-&emsp;Eligible commodities that are released from the trust established under this section may be processed in the United States and shipped to a developing country when conditions in the recipient country require processing.
+&emsp;Eligible commodities that are released from the trust established under this section maybe processed in the United States and shipped to a developing country when conditions in the recipient country require processing.
 
 #### (4) Exchange
 
@@ -144,7 +144,7 @@ Any determination by the Secretary under this section shall be final.
 
 The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2578, which enacted former section 1736f–1 of this title and provisions set out as notes under that section, prior to the general amendment of title III by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (b)(2)(B)(i), (c)(1)(A),\(2), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title II of the Act is classified to subchapter III (§1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (b)(2)(B)(i), (c)(1)(A), (2), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title II of the Act is classified to subchapter III (§1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
 

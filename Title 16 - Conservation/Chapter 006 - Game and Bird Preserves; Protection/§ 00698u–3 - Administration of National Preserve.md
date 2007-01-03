@@ -10,7 +10,7 @@ With the consent of a private owner of land within the boundaries of the Preserv
 
 #### (c) Facilities
 
-For purposes of carrying out the duties of the Secretary under sections 698u to 698u–7 of thistitle relating to the Preserve, the Secretary may, with the consent of a landowner, directly or by contract, construct, reconstruct, rehabilitate, or develop essential buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property that is not owned by the Federal Government and is located within the Preserve.
+For purposes of carrying out the duties of the Secretary under sections 698u to 698u–7 of this title relating to the Preserve, the Secretary may, with the consent of a landowner, directly or by contract, construct, reconstruct, rehabilitate, or develop essential buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property that is not owned by the Federal Government and is located within the Preserve.
 
 #### (d) Liability
 
@@ -86,7 +86,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (d)(1), is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
+The Federal Tort Claims Act, referred to in subsec. (d)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 

@@ -104,7 +104,7 @@ In general.—The Secretary shall establish a pilot program to reimburse not to 
 
 &emsp;&emsp;(B)
 
-Report.—Not later than July 31, 2008, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status and effectiveness of the pilot program established under subparagraph (A).
+Report.—Not later than July 31, 2008, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House ofRepresentatives a report on the status and effectiveness of the pilot program established under subparagraph (A).
 
 (f)
 
@@ -150,7 +150,7 @@ Certain state owned railroads.—The Government share for financial assistance u
 
 (j)
 
-Buy America.—(1) The Secretary of Transportation may obligate an amount that may beappropriated to carry out this chapter for a project only if the steel, iron, and manufactured goods used in the project are produced in the United States.
+Buy America.—(1) The Secretary of Transportation may obligate an amount that may be appropriated to carry out this chapter for a project only if the steel, iron, and manufactured goods used in the project are produced in the United States.
 
 (2) The Secretary of Transportation may waive paragraph (1) of this subsection if the Secretary finds that—
 
@@ -180,7 +180,7 @@ Written justification for public interest waiver.—When issuing a waiver based 
 
 (6) A person is ineligible under subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2005 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
-&emsp;(A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
+&emsp;(A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to theUnited States that are used in a project to which this subsection applies but not produced in the United States; or
 
 &emsp;(B) represented that goods described in clause (A) of this paragraph were produced in the United States.
 
@@ -212,7 +212,7 @@ Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary of 
 
 (n)
 
-Submission of Certifications.—A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretarymay be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2).<sup>1</sup>
+Submission of Certifications.—A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2).<sup>1</sup>
 
 (<i>o</i>)
 
@@ -438,7 +438,7 @@ Subsec. (d)(1). Pub. L. 109–59, §3023(d)(1), inserted heading.
 
 Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
 
-Subsec. (d)(2). Pub. L. 109–59, §3023(d)(2), inserted heading and text of par. (2) and struck out former par. (2) which read as follows: “On receiving a complaint about a violation of an agreement, the Secretary ofTransportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.”
+Subsec. (d)(2). Pub. L. 109–59, §3023(d)(2), inserted heading and text of par. (2) and struck out former par. (2) which read as follows: “On receiving a complaint about a violation of an agreement, the Secretary of Transportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.”
 
 Subsec. (e). Pub. L. 109–59, §3023(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.”
 
@@ -518,7 +518,7 @@ Pub. L. 105–178, title III, §3035, June 9, 1998, 112 Stat. 387, provided that
 
 “(a)
 
-In General.—All buses manufactured on or after September 1, 1999, that are purchased with Federal funds by recipients of assistance from the Federal Transit Administration shall conform with the FederalTransit Administration Guidance on Buy America Requirements, dated March 18, 1997.
+In General.—All buses manufactured on or after September 1, 1999, that are purchased with Federal funds by recipients of assistance from the Federal Transit Administration shall conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
 
 “(b)
 

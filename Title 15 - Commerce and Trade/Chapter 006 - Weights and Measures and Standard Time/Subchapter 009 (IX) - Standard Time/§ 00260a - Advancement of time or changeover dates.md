@@ -6,7 +6,7 @@ During the period commencing at 2 o'clock antemeridian on the first Sunday of Ap
 
 #### (b) State laws superseded
 
-It is hereby declared that it is the express intent of Congress by this section to supersede any and all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
+It is hereby declared that it is the express intent of Congress by this section to supersede anyand all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
 
 #### (c) Violations; enforcement
 
@@ -16,7 +16,7 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 109–58, title I, §110(a), (b), Aug. 8, 2005, 119 Stat. 615, provided that, effective Mar. 1, 2007, subsection (a) of this section is amended</i><i>by substituting “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.</i>
+<i>Pub. L. 109–58, title I, §110(a), (b), Aug. 8, 2005, 119 Stat. 615, provided that, effective Mar. 1, 2007, subsection (a) of this section is amended by substituting “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.</i>
 
 #### Amendments
 
@@ -86,13 +86,13 @@ Pub. L. 93–182, Dec. 15, 1973, 87 Stat. 707, as amended by Pub. L. 93–434, O
 
 Ex. Ord. No. 11751, Dec. 15, 1973, 38 F.R. 34725, provided:
 
-By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[formerly set out above\], section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[formerly set out above\], section 301 oftitle 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is hereby designated and empowered to exercise the authority vested in me by section 3(b) of the Act \[formerly set out above\] to grant an exemption from section 3(a) of the Act (which establishes daylight saving time as standard time), or a realignment of a time zone limit, pursuant to a proclamation of a Governor of a State finding that the exemption or realignment is necessary to avoid undue hardship or to conserve fuel in the State or a part thereof.
 
 Sec. 2. In deciding to grant or deny an exemption or realignment, the Secretary shall consider, among other things, the policy of the United States, as expressed in sections 2 and 4 of the Uniform Time Act of 1966 (80 Stat. 107, 108; 15 U.S.C. 260, 261), to promote the adoption and observance of uniform time within the standard time zones of the United States and the convenience of commerce, as well as possible energy savings, undue hardship to large segments of the population, and the possible impact on the success of and cooperation with the national energy conservation program.
 
-Sec. 3. In carrying out his responsibilities under this order, the Secretary shall, as he deems necessary, consult with the Department of Health, Education, and Welfare, the Federal Energy Office (or any agency which hereafter may succeed to its functions), and any other interested agency and he may call upon thoseagencies for information and advice. Each interested department or agency shall assist the Secretary, as necessary, to carry out the provisions of this order.
+Sec. 3. In carrying out his responsibilities under this order, the Secretary shall, as he deems necessary, consult with the Department of Health, Education, and Welfare, the Federal Energy Office (or any agency which hereafter may succeed to its functions), and any other interested agency and he may call upon those agencies for information and advice. Each interested department or agency shall assist the Secretary, as necessary, to carry out the provisions of this order.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

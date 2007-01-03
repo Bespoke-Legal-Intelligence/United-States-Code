@@ -10,7 +10,7 @@ part 1—reporting and disclosure
 - [&sect; 01021 - Duty of disclosure and reporting](%C2%A7%2001021%20-%20Duty%20of%20disclosure%20and%20reporting.md)
 - [&sect; 01022 - Summary plan description](%C2%A7%2001022%20-%20Summary%20plan%20description.md)
 - [&sect; 01023 - Annual reports](%C2%A7%2001023%20-%20Annual%20reports.md)
-- [&sect; 01024 - Filing and furnishing of information](%C2%A7%2001024%20-%20Filing%20and%20furnishing%20of%20information.md)
+- [&sect; 01024 - Filing with Secretary and furnishing information to participants](%C2%A7%2001024%20-%20Filing%20with%20Secretary%20and%20furnishing%20information%20to%20participants.md)
 - [&sect; 01025 - Reporting of participant's benefit rights](%C2%A7%2001025%20-%20Reporting%20of%20participant%27s%20benefit%20rights.md)
 - [&sect; 01026 - Reports made public information](%C2%A7%2001026%20-%20Reports%20made%20public%20information.md)
 - [&sect; 01027 - Retention of records](%C2%A7%2001027%20-%20Retention%20of%20records.md)

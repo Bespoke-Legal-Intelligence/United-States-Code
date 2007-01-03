@@ -46,7 +46,7 @@ The members of the Committee shall elect one of their number to be Chairman.
 
 (2) Members of the Committee who are officers or employees of the Government shall receive no additional pay on account of their service on the Committee.
 
-(3) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manneras persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
+(3) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
 
 #### (f) Staff
 
@@ -68,7 +68,7 @@ The Administrator of General Services shall provide to the Committee on a reimbu
 
 The Committee shall, not later than December 31 of each year, transmit to the President and to the Congress a report which shall include the names of the Committee members serving in the preceding fiscal year, the dates of Committee meetings in that year, a description of its activities under sections 46 to 48c of this title in that year, and any recommendations for changes in sections 46 to 48c of this title which it determines are necessary.
 
-(June 25, 1938, ch. 697, §1, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358, §1(1), (2), July 25, 1974, 88 Stat. 392, 393; Pub. L. 94–273, §8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–54, §13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, §911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, §301, Aug. 11, 1993, 107 Stat. 736.)
+(June 25, 1938, ch. 697, §1, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358,§1(1), (2), July 25, 1974, 88 Stat. 392, 393; Pub. L. 94–273, §8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–54, §13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, §911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, §301, Aug. 11, 1993, 107 Stat. 736.)
 
 #### References in Text
 
@@ -113,6 +113,36 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Transfer of Functions
 
 “Department of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (a)(1) pursuant to sections 301(a)(4)(A), (C), (b)(3) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(4)(A), (C), (b)(3) and 3507 of Title 20, Education, and which transferred to the Department of Education the functions and offices of the Department of Health, Education, and Welfare that had the major governmental function in the field of vocational rehabilitation for the blind and other severely handicapped and administered related vocational rehabilitation programs for individuals with disabilities.
+
+#### Contracting With Employers of Persons With Disabilities
+
+Pub. L. 109–364, div. A, title VIII, §856(a), (d), Oct. 17, 2006, 120 Stat. 2347, 2349, provided that:
+
+“(a)
+
+Inapplicability of Certain Laws.—
+
+&emsp;“(1)
+
+Inapplicability of the randolph-sheppard act to contracts and subcontracts for military dining facility support services covered by javits-wagner-o'day act.—The Randolph-Sheppard Act (20 U.S.C. 107 et seq.) does not apply to full food services, mess attendant services, or services supporting the operation of a military dining facility that, as of the date of the enactment of this Act \[Oct. 17, 2006\], were services on the procurement list established under section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47).
+
+&emsp;“(2)
+
+Inapplicability of the javits-wagner-o'day act to contracts for the operation of a military dining facility.—(A) The Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.) does not apply at the prime contract level to any contract entered into by the Department of Defense as of the date of the enactment of this Act \[Oct. 17, 2006\] with a State licensing agency under the Randolph-Sheppard Act (20 U.S.C. 107 et seq.) for the operation of a military dining facility.
+
+&emsp;“(B) The Javits-Wagner-O'Day Act shall apply to any subcontract entered into by a Department of Defense contractor for full food services, mess attendant services, and other services supporting the operation of a military dining facility.
+
+&emsp;“(3)
+
+Repeal of superseded law.—\[Repealed section 853(a), (b) of Pub. L. 108–375, 118 Stat. 2021.\]
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘State licensing agency’ means any agency designated by the Secretary of Education under section 2(a)(5) of the Randolph-Sheppard Act (20 U.S.C. 107a(a)(5)).
+
+&emsp;“(2) The term ‘military dining facility’ means a facility owned, operated, leased, or wholly controlled by the Department of Defense and used to provide dining services to members of the Armed Forces, including a cafeteria, military mess hall, military troop dining facility, or any similar dining facility operated for the purpose of providing meals to members of the Armed Forces.”
 
 #### Statement of Policy and Report Concerning the Operation and Management of Certain Military Facilities Regarding the Blind or Severely Disabled
 

@@ -60,7 +60,7 @@
 
 #### References in Text
 
-Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
+Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), areclassified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L.103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
 Amendment by section 5(e)(4) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 

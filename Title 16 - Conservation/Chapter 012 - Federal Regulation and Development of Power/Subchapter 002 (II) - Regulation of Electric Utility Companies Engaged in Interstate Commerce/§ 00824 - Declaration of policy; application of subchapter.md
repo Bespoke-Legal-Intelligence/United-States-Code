@@ -24,7 +24,7 @@ The term “public utility” when used in this subchapter and subchapter III of
 
 #### (f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt
 
-No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year, or anyagency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
+No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
 #### (g) Books and records
 

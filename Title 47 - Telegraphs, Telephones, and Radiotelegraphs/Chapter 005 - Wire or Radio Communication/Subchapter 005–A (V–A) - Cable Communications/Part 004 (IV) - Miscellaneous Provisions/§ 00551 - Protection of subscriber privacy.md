@@ -94,7 +94,7 @@ Except as provided in subsection (c)(2)(D) of this section, a governmental entit
 
 #### References in Text
 
-For “the effective date of this section”, referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
+For “the effective date of this section”, referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except whereotherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 #### Amendments
 

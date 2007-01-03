@@ -12,7 +12,7 @@
 
 &emsp;(B) if the agency head certifies, in writing, to the Office of Personnel Management that no such position is available in the agency, shall be placed by the Office in any agency in any vacant Senior Executive Service position unless the head of that agency determines that the career appointee is not qualified for that position.
 
-> The Office of Personnel Management shall take all reasonable steps to place a career appointeeunder subparagraph (B) and may require any agency to take any action which the Office considers necessary to carry out any such placement.
+> The Office of Personnel Management shall take all reasonable steps to place a career appointee under subparagraph (B) and may require any agency to take any action which the Office considers necessary to carry out any such placement.
 
 (4) A career appointee who is not assigned under paragraph (3)(A) may be removed from the Senior Executive Service due to a reduction in force if the career appointee declines a reasonable offer for placement in a Senior Executive Service position under paragraph (3)(B).
 
@@ -68,5 +68,5 @@ Section 1704(e) of Pub. L. 97–35 provided that:
 
 “(B) The provisions of section 3595(a), as added by subsection (a)(1), shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
-“(3) The effectiveness of the amendments made by this section shall be subject to section 415(b) of the Civil Service Reform Act of 1978 \[Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1154\] (5 U.S.C. 3131 note) to the same extent and manner as the amendments made by title IV of that Act.”
+“(3) The effectiveness of the amendments made by this section shall be subject to section 415(b) of the Civil Service Reform Act of 1978 \[Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1154\] (5 U.S.C. 3131 note) to thesame extent and manner as the amendments made by title IV of that Act.”
 

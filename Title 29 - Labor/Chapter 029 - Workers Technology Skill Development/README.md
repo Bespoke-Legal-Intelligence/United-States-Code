@@ -6,17 +6,8 @@
 | [2702\.](%C2%A7%2002702%20-%20Purposes.md) | Purposes. |
 | [2703\.](%C2%A7%2002703%20-%20Definitions.md) | Definitions. |
 | [2704\.](%C2%A7%2002704%20-%20Grants.md) | Grants. |
-| (a) | In general. |
-| (b) | Eligibility. |
-| (c) | Use of amounts. |
-| (d) | Terms of grants and non-Federal shares. |
-| (e) | Evaluation. |
 | [2705\.](%C2%A7%2002705%20-%20Identification%20and%20dissemination%20of%20best%20practices.md) | Identification and dissemination of best practices. |
-| (a) | In general. |
-| (b) | Distribution. |
 | [2706\.](%C2%A7%2002706%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Availability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

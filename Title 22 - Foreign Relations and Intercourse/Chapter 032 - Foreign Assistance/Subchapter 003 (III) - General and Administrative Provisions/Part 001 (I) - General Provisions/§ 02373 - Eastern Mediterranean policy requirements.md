@@ -16,9 +16,9 @@ The Congress declares that the achievement of a just and lasting Cyprus settleme
 
 #### (b) Governing principles
 
-United States policy regarding Cyprus, Greece, and Turkey shall be directed toward the restoration of a stable and peaceful atmosphere in the Eastern Mediterranean region and shall therefore be governed by the following principles:
+United States policy regarding Cyprus, Greece, and Turkey shall be directed toward therestoration of a stable and peaceful atmosphere in the Eastern Mediterranean region and shall therefore be governed by the following principles:
 
-&emsp;(1) The United States shall actively support the resolution of differences through negotiations and internationally established peaceful procedures, shall encourage all parties toavoid provocative actions, and shall strongly oppose any attempt to resolve disputes through force or threat of force.
+&emsp;(1) The United States shall actively support the resolution of differences through negotiations and internationally established peaceful procedures, shall encourage all parties to avoid provocative actions, and shall strongly oppose any attempt to resolve disputes through force or threat of force.
 
 &emsp;(2) The United States will accord full support and high priority to efforts, particularly those of the United Nations, to bring about a prompt, peaceful settlement on Cyprus.
 
@@ -72,7 +72,7 @@ Pub. L. 100–461, title V, §579, Oct. 1, 1988, 102 Stat. 2268–48.
 
 #### Delegation of Functions
 
-For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073,set out as a note under section 301 of Title 3, The President.
 
 #### Special Ambassadorial Commission for Cyprus and the Aegean
 
@@ -82,7 +82,7 @@ Section 101(e) \[title V, §586\] of Pub. L. 100–202 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the inability to achieve a just and lasting Cyprus settlement will continue to affect relationsamong the United States and its close NATO allies, Greece and Turkey, to the detriment of larger, mutually shared, security interests in the Eastern Mediterranean region;
+&emsp;“(1) the inability to achieve a just and lasting Cyprus settlement will continue to affect relations among the United States and its close NATO allies, Greece and Turkey, to the detriment of larger, mutually shared, security interests in the Eastern Mediterranean region;
 
 &emsp;“(2) it is of paramount importance that Cyprus, Greece, and Turkey resolve their differences through negotiations and otherwise peaceful procedures, and that the United States should support the resolution of these differences through all the diplomatic means at its disposal;
 

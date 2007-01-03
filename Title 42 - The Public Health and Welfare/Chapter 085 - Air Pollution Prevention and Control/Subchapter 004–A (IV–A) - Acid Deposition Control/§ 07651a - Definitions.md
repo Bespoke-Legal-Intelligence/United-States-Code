@@ -10,11 +10,11 @@ As used in this subchapter:
 
 &emsp;(4) The term “baseline” means the annual quantity of fossil fuel consumed by an affected unit, measured in millions of British Thermal Units (“mmBtu's”), calculated as follows:
 
-&emsp;&emsp;(A) For each utility unit that was in commercial operation prior to January 1, 1985, the baseline shall be the annual average quantity of mmBtu's consumed in fuel during calendar years 1985, 1986, and 1987, as recorded by the Department of Energy pursuant to Form 767. For any utility unit for which such form was not filed, the baseline shall be the level specified for such unit in the 1985 National Acid Precipitation Assessment Program (NAPAP) Emissions Inventory, Version 2, National Utility Reference File (NURF) or in a corrected data base as established by the Administrator pursuant to paragraph (3). For nonutility units, the baseline is the NAPAP Emissions Inventory, Version 2. The Administrator, in the Administrator's sole discretion, may exclude periods during which a unit is shutdown for a continuous period of four calendar months or longer, and make appropriate adjustments under this paragraph. Upon petition of the owner or operator of any unit, the Administrator may make appropriate baseline adjustments for accidents that caused prolonged outages.
+&emsp;&emsp;(A) For each utility unit that was in commercial operation prior to January 1, 1985, the baseline shall be the annual average quantity of mmBtu's consumed in fuel during calendar years 1985, 1986, and 1987, as recorded by the Department of Energy pursuant to Form 767. For any utility unit for which such form was not filed, the baseline shall be the level specified for such unit in the 1985 National Acid Precipitation Assessment Program (NAPAP) Emissions Inventory, Version 2, National Utility Reference File (NURF) or in a corrected data base as established by the Administrator pursuant to paragraph (3).<sup>1</sup> For nonutility units, the baseline is the NAPAP Emissions Inventory, Version 2. The Administrator, in the Administrator's sole discretion, may exclude periods during which a unit is shutdown for a continuous period of four calendar months or longer, and make appropriate adjustments under this paragraph. Upon petition of the owner or operator of any unit, the Administrator may make appropriate baseline adjustments for accidents that caused prolonged outages.
 
-&emsp;&emsp;(B) For any other nonutility unit that is not included in the NAPAP Emissions Inventory, Version 2, or a corrected data base as established by the Administrator pursuant to paragraph (3), the baseline shall be the annual average quantity, in mmBtu consumed in fuel by that unit, as calculated pursuant to a method which the administrator shall prescribe by regulation to be promulgated not later than eighteen months after November 15, 1990.
+&emsp;&emsp;(B) For any other nonutility unit that is not included in the NAPAP Emissions Inventory, Version 2, or a corrected data base as established by the Administrator pursuant to paragraph (3),<sup>1</sup> the baseline shall be the annual average quantity, in mmBtu consumed in fuel by that unit, as calculated pursuant to a method which the administrator shall prescribe by regulation to be promulgated not later than eighteen months after November 15, 1990.
 
-&emsp;&emsp;(C) The Administrator shall, upon application or on his own motion, by December 31, 1991, supplement data needed in support of this subchapter and correct any factual errors in data from which affected Phase II units’ baselines or actual 1985 emission rates have been calculated. Corrected data shallbe used for purposes of issuing allowances under the <sup>1</sup> subchapter. Such corrections shall not be subject to judicial review, nor shall the failure of the Administrator to correct an alleged factual error in such reports be subject to judicial review.
+&emsp;&emsp;(C) The Administrator shall, upon application or on his own motion, by December 31, 1991, supplement data needed in support of this subchapter and correct any factual errors in data from which affected Phase II units’ baselines or actual 1985 emission rates have been calculated. Corrected data shall be used for purposes of issuing allowances under the <sup>2</sup> subchapter. Such corrections shall not be subject to judicial review, nor shall the failure of the Administrator to correct an alleged factual error in such reports be subject to judicial review.
 
 &emsp;(5) The term “capacity factor” means the ratio between the actual electric output from a unit and the potential electric output from that unit.
 
@@ -32,7 +32,7 @@ As used in this subchapter:
 
 &emsp;(10) The term “new unit” means a unit that commences commercial operation on or after November 15, 1990.
 
-&emsp;(11) The term “permitting authority” means the Administrator, or the State or local air pollution control agency, with an approved permitting program under part B <sup>2</sup> of title III of the Act.
+&emsp;(11) The term “permitting authority” means the Administrator, or the State or local air pollution control agency, with an approved permitting program under part B <sup>3</sup> of title III of the Act.
 
 &emsp;(12) The term “repowering” means replacement of an existing coal-fired boiler with one of the following clean coal technologies: atmospheric or pressurized fluidized bed combustion, integrated gasification combined cycle, magnetohydrodynamics, direct and indirect coal-fired turbines, integrated gasification fuel cells, or as determined by the Administrator, in consultation with the Secretary of Energy, a derivative of one or more of these technologies, and any other technology capable of controlling multiple combustion emissions simultaneously with improved boiler or generation efficiency and with significantly greater waste reduction relative to the performance of technology in widespread commercial use as of November 15, 1990. Notwithstanding the provisions of section 7651h(a) of this title, for the purpose of this subchapter, the term “repowering” shall also include any oil and/or gas-fired unit which has been awarded clean coal technology demonstration funding as of January 1, 1991, by the Department of Energy.
 
@@ -64,7 +64,7 @@ As used in this subchapter:
 
 &emsp;(20) The term “alternative method of compliance” means a method of compliance in accordance with one or more of the following authorities:
 
-&emsp;&emsp;(A) a substitution plan submitted and approved in accordance with subsections <sup>3</sup> 7651c(b) and (c) of this title;
+&emsp;&emsp;(A) a substitution plan submitted and approved in accordance with subsections <sup>4</sup> 7651c(b) and (c) of this title;
 
 &emsp;&emsp;(B) a Phase I extension plan approved by the Administrator under section 7651c(d) of this title, using qualifying phase I technology as determined by the Administrator in accordance with that section; or
 
@@ -76,7 +76,7 @@ As used in this subchapter:
 
 &emsp;(23) The term “construction” means fabrication, erection, or installation of an affected unit.
 
-&emsp;(24) The term “industrial source” means a unit that does not serve a generator that produces electricity, a “nonutility unit” as defined in this section, or a process source as defined in section 7651i(e) <sup>4</sup> of this title.
+&emsp;(24) The term “industrial source” means a unit that does not serve a generator that produces electricity, a “nonutility unit” as defined in this section, or a process source as defined in section 7651i(e) <sup>5</sup> of this title.
 
 &emsp;(25) The term “nonutility unit” means a unit other than a utility unit.
 
@@ -108,11 +108,13 @@ Part B of title III of the Act, referred to in par. (11), means title III of the
 
 Another section 402 of act July 14, 1955, as added by Pub. L. 91–604, §14, Dec. 31, 1970, 84 Stat. 1709, is classified to section 7641 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. The reference to “paragraph (3)” probably should be to “subparagraph (C)”.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be section “7651i(d)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be section “7651i(d)”.</i>
 

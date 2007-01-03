@@ -4,7 +4,7 @@
 
 On and after January 1, 1990, a savings association chartered under State law may not engage as principal in any type of activity, or in any activity in an amount, that is not permissible for a Federal savings association unless—
 
-&emsp;(1) the Corporation has determined that the activity would pose no significant risk to the affected deposit insurance fund; and
+&emsp;(1) the Corporation has determined that the activity would pose no significant risk to the Deposit Insurance Fund; and
 
 &emsp;(2) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under section 1464(t) of this title.
 
@@ -12,7 +12,7 @@ On and after January 1, 1990, a savings association chartered under State law ma
 
 Notwithstanding subsection (a)(1) of this section, if an activity (other than an activity described in section 1464(c)(2)(B) of this title) is permissible for a Federal savings association, a savings association chartered under State law may engage as principal in that activity in an amount greater than the amount permissible for a Federal savings association if—
 
-&emsp;(1) the Corporation has not determined that engaging in that amount of the activity poses any significant risk to the affected deposit insurance fund; and
+&emsp;(1) the Corporation has not determined that engaging in that amount of the activity poses any significant risk to the Deposit Insurance Fund; and
 
 &emsp;(2) the savings association chartered under State law is and continues to be in compliance with the fully phased-in capital standards prescribed under section 1464(t) of this title.
 
@@ -26,7 +26,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;Paragraph (1) does not prohibit a savings association from acquiring or retaining shares of one or more service corporations if—
 
-&emsp;&emsp;(A) the Corporation has determined that no significant risk to the affected deposit insurance fund is posed by—
+&emsp;&emsp;(A) the Corporation has determined that no significant risk to the Deposit Insurance Fund is posed by—
 
 &emsp;&emsp;&emsp;(i) the amount that the association proposes to acquire or retain; or
 
@@ -130,7 +130,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;The term “qualified note” means any note that—
 
-&emsp;&emsp;(A) is at all times fully secured by the corporate debt security not of investment grade transferred in exchange for the note, or by other collateral of at least equivalent value that is acceptable to the Director of the Office of Thrift Supervision;
+&emsp;&emsp;(A) is at all times fully secured by the corporate debt security not of investment grade transferred in exchange for the note, or by other collateral of at least equivalent valuethat is acceptable to the Director of the Office of Thrift Supervision;
 
 &emsp;&emsp;(B) contains provisions acceptable to the Director of the Office of Thrift Supervision that would—
 
@@ -176,15 +176,15 @@ This section may not be construed as limiting—
 
 &emsp;(2) any authority of the Director of the Office of Thrift Supervision or of a State to impose more stringent restrictions.
 
-(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615.)
-
-#### Amendment of Subsections (a)(1), (b)(1), and (c)(2)(A)
-
-<i>Pub. L. 109–173, §8(a)(32), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, subsections (a)(1), (b)(1), and (c)(2)(A) of this section are amended by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### Amendments
 
-1996—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(X). See 1996 Amendment note below.
+
+1996—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, §2704(d)(14)(X), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (c)(2)(A)(i). Pub. L. 103–325, §602(a)(56), substituted “; or” for “, or”.
 
@@ -192,15 +192,17 @@ Subsec. (d)(4)(C). Pub. L. 103–325, §602(a)(57), substituted “subparagraph�
 
 Subsec. (e)(4). Pub. L. 103–325, §602(a)(58), substituted “and any other” for “any other”.
 
-1991—Subsecs. (h), (i). Pub. L. 102–242 redesignated subsec. (i) as (h) and struck out former subsec. (h)which required that all savings associations with uninsured deposits disclose in clear and conspicuous statements that its deposits were not insured.
+1991—Subsecs. (h), (i). Pub. L. 102–242 redesignated subsec. (i) as (h) and struck out former subsec. (h) which required that all savings associations with uninsured deposits disclose in clear and conspicuous statements that its deposits were not insured.
 
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1991 Amendment
 

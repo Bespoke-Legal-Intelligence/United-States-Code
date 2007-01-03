@@ -22,7 +22,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (A) Applicability of certain laws
 
-&emsp;&emsp;Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shallnot be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
+&emsp;&emsp;Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
 
 &emsp;&emsp;&emsp;(i) title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
@@ -76,7 +76,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), grants described in such clause shall not be subject to section 12.61 of title 43, Code of Federal Regulations. The Secretary and the grantee shall negotiate and determine a schedule of payments for the work to be performed.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), grants described in such clause shall not be subjectto section 12.61 of title 43, Code of Federal Regulations. The Secretary and the grantee shall negotiate and determine a schedule of payments for the work to be performed.
 
 #### (iii) Applications
 
@@ -92,7 +92,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (D) Period
 
-&emsp;&emsp;In a case in which the appropriations measure under which the funds described in subparagraph (A) are made available or the application submitted for the funds does notstipulate a period for the work covered by the funds, the Secretary and the grant recipient shall consult and determine such a period prior to the transfer of the funds. A period so determined may be extended upon mutual agreement of the Secretary and the grant recipient.
+&emsp;&emsp;In a case in which the appropriations measure under which the funds described in subparagraph (A) are made available or the application submitted for the funds does not stipulate a period for the work covered by the funds, the Secretary and the grant recipient shall consult and determine such a period prior to the transfer of the funds. A period so determined may be extended upon mutual agreement of the Secretary and the grant recipient.
 
 #### (5) Enforcement of request to include funds
 

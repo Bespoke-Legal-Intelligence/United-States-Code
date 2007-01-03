@@ -54,7 +54,7 @@ Pub. L. 90–7, Apr. 1, 1967, 81 Stat. 7, provided: “That the Congress approve
 
 &emsp;“(b) encourage and assist the Government of India in achieving food self-sufficiency; and
 
-&emsp;“(c) help meet India's critical food and nutritional needs by making available agricultural commodities or other resources needed for food procurement or production.
+&emsp;“(c) help meet India's critical food and nutritional needs by making available agricultural commoditiesor other resources needed for food procurement or production.
 
 “Because uncertainty in connection with Public Law 480 transactions tends to depress market prices, it is the sense of Congress that, in carrying out this Aid to India program, the Administration should, subject to the requirement of section 401 of Public Law 480 \[section 1731 of this title\] with respect to the availability of the commodity at the time of exportation, make announcements of intention, purchases and shipments of commodities on schedules and under circumstances which will protect and strengthen farm market prices to the maximum extent possible.
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Cargo Preference Law Exemption
 
-Section 3 of act Aug. 3, 1956, ch. 933, 70 Stat. 988, provided that: “Sales of fresh fruit and the products thereof under title I of the Act \[sections 1701 to 1704, 1705 to 1707, 1708 to 1711 of this title\] shall be exempt from the requirements of the cargo preference laws (Public Resolution 17, Seventy-third Congress \[46 App. U.S.C. 1241–1\] and section 901(b) of the Merchant Marine Act, 1936 \[46 App. U.S.C. 1241(b)\]).”
+Section 3 of act Aug. 3, 1956, ch. 933, 70 Stat. 988, provided that: “Sales of fresh fruit and the products thereof under title I of the Act \[sections 1701 to 1704, 1705 to 1707, 1708 to 1711 of this title\] shall be exempt from the requirements of the cargo preference laws (Public Resolution 17, Seventy-third Congress (15 U.S.C. 616a) \[now 46 U.S.C. 55304\] and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. 1241(b)) \[now 46 U.S.C. 55305\]).”
 
 #### Implementation of Program
 

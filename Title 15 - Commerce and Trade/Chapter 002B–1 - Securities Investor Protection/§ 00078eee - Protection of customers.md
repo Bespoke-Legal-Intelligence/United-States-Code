@@ -70,15 +70,15 @@
 
 #### (C) Exception from stay
 
-&emsp;&emsp;(i) Notwithstanding section 362 of title 11, neither the filing of an application under subsection (a)(3) of this section nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
+&emsp;&emsp;(i) Notwithstanding section 362 of title 11, neither the filing of an application undersubsection (a)(3) of this section nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
 
 &emsp;&emsp;(ii) Notwithstanding clause (i), such application, order, or decree may operate as a stay of the foreclosure on, or disposition of, securities collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements, securities sold by the debtor under a repurchase agreement, or securities lent under a securities lending agreement.
 
-&emsp;&emsp;(iii) As used in this subparagraph, the term “contractual right” includes a right set forth in a rule or bylaw of a national securities exchange, a national securities association, or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
+&emsp;&emsp;(iii) As used in this subparagraph, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
 #### (3) Appointment of trustee and attorney
 
-&emsp;If the court issues a protective decree under paragraph (1), such court shall forthwith appoint, as trustee for the liquidation of the business of the debtor and as attorney for the trustee, such persons as SIPC, in its sole discretion, specifies. The persons appointed as trustee and as attorney for the trustee may be associated with the same firm. SIPC may, in its sole discretion, specify itself or one of its employees as trustee in any case in which SIPC has determined that the liabilities of the debtor to unsecured general creditors and to subordinated lenders appear to aggregate less than $750,000 and that there appear to be fewer than five hundred customers of such debtor. No person may be appointed to serve as trustee or attorney for the trustee if such person is not disinterested within the meaning of paragraph (6), except that for any specified purpose other than to represent a trustee in conducting a liquidation proceeding, the trustee may,with the approval of SIPC and the court, employ an attorney who is not disinterested. A trustee appointed under this paragraph shall qualify by filing a bond in the manner prescribed by section 322 of title 11, except that neither SIPC nor any employee of SIPC shall be required to file a bond when appointed as trustee.
+&emsp;If the court issues a protective decree under paragraph (1), such court shall forthwith appoint, as trustee for the liquidation of the business of the debtor and as attorney for the trustee, such persons as SIPC, in its sole discretion, specifies. The persons appointed as trustee and as attorney for the trustee may be associated with the same firm. SIPC may, in its sole discretion, specify itself or one of its employees as trustee in any case in which SIPC has determined that the liabilities of the debtor to unsecured general creditors and to subordinated lenders appear to aggregate less than $750,000 and that there appear to be fewer than five hundred customers of such debtor. No person may be appointed to serve as trustee or attorney for the trustee if such person is not disinterested within the meaning of paragraph (6), except that for any specified purpose other than to represent a trustee in conducting a liquidation proceeding, the trustee may, with the approval of SIPC and the court, employ an attorney who is not disinterested. A trustee appointed under this paragraph shall qualify by filing a bond in the manner prescribed by section 322 of title 11, except that neither SIPC nor any employee of SIPC shall be required to file a bond when appointed as trustee.
 
 #### (4) Removal to bankruptcy court
 
@@ -96,7 +96,7 @@
 
 #### (C) Recommendations of SIPC and awarding of allowances
 
-&emsp;&emsp;Whenever an application for allowances is filed pursuant to subparagraph (B), SIPC shall file its recommendation with respect to such allowances with the court prior to the hearing on such application and shall, if it so requests, be allowed a reasonable time after such hearing within which to file a further recommendation. In any case in which such allowances are to be paid by SIPC without reasonable expectation of recoupment thereof as provided in this chapter and there is no difference between the amounts requested and the amounts recommended by SIPC, the court shall award the amounts recommended by SIPC. In determining the amount of allowances in all other cases, the court shall give due consideration to the nature, extent, and value of the services rendered, and shall place considerable reliance on the recommendation of SIPC.
+&emsp;&emsp;Whenever an application for allowances is filed pursuant to subparagraph (B), SIPC shall file its recommendation with respect to such allowances with the court prior to the hearing on such application and shall, if it so requests, be allowed a reasonable time after such hearing within which to file a further recommendation. In any case in which such allowances are to be paid by SIPC without reasonable expectation of recoupment thereof as provided in this chapter and thereis no difference between the amounts requested and the amounts recommended by SIPC, the court shall award the amounts recommended by SIPC. In determining the amount of allowances in all other cases, the court shall give due consideration to the nature, extent, and value of the services rendered, and shall place considerable reliance on the recommendation of SIPC.
 
 #### (D) Applicable restrictions
 
@@ -124,7 +124,7 @@
 
 #### (B) Hearing
 
-&emsp;&emsp;The court shall fix a time for a hearing on disinterestedness, to be held promptly after the appointment of a trustee. Notice of such hearing shall be mailed at least ten days prior thereto to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the address of such person as it appears from the books and records of the debtor, and to the creditors and stockholders of the debtor, to SIPC, and to such other persons as the court may designate. The court may, inits discretion, also require that notice be given by publication in such newspaper or newspapers of general circulation as it may designate. At such hearing, at any adjournment thereof, or upon application, the court shall hear objections to the retention in office of a trustee or attorney for a trustee on the grounds that such person is not disinterested.
+&emsp;&emsp;The court shall fix a time for a hearing on disinterestedness, to be held promptly after the appointment of a trustee. Notice of such hearing shall be mailed at least ten days prior thereto to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the address of such person as it appears from the books and records of the debtor, and to the creditors and stockholders of the debtor, to SIPC, and to such other persons as the court may designate. The court may, in its discretion, also require that notice be given by publication in such newspaper or newspapers of general circulation as it may designate. At such hearing, at any adjournment thereof, or upon application, the court shall hear objections to the retention in office of a trustee or attorney for a trustee on the grounds that such person is not disinterested.
 
 #### (c) SEC participation in proceedings
 
@@ -134,7 +134,7 @@ The Commission may, on its own motion, file notice of its appearance in any proc
 
 SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
 
-(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185.)
+(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12, 2006, 120 Stat. 2698.)
 
 #### References in Text
 
@@ -142,7 +142,13 @@ The 1934 Act, referred to in subsec. (b)(1)(C), means act June 6, 1934, ch. 404,
 
 This chapter, referred to in subsecs. (b)(2)(A)(iii), (5)(C), and (c), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
+The Commodity Exchange Act, referred to in subsec. (b)(2)(C)(iii), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (b)(2)(C)(iii), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+
 #### Amendments
+
+2006—Subsec. (b)(2)(C)(iii). Pub. L. 109–390 inserted “a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991),” after “rule or bylaw of” and substituted “a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act),” for “or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market”.
 
 2005—Subsec. (b)(2)(C). Pub. L. 109–8 added subpar. (C).
 
@@ -171,6 +177,10 @@ Subsec. (b)(5)(E), (F). Pub. L. 95–598, §308(f)(5), redesignated subpar. (F) 
 Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted “protective” after “of” in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted “Jurisdiction and powers of court” for “Exclusive jurisdiction over debtor” in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted “and attorney” after “trustee” in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted “Reference to referee in bankruptcy” for “Debtor and filing date defined” in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms “debtor” and “filing date”, and added pars. (5) and (6).
 
 Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–390 not applicable to any cases commenced under Title 11, Bankruptcy, or to appointments made under any Federal or State law, before Dec. 12, 2006, see section 7 of Pub. L. 109–390, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 2005 Amendment
 

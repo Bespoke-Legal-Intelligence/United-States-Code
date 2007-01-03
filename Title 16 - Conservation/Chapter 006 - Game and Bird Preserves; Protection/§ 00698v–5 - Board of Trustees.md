@@ -12,7 +12,7 @@ The Trust shall be governed by a 9-member Board of Trustees consisting of the fo
 
 &emsp;&emsp;(B) the Superintendent of the Bandelier National Monument, National Park Service; and
 
-&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall havespecific expertise or represent an organization or government entity as follows—
+&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall have specific expertise or represent an organization or government entity as follows—
 
 &emsp;&emsp;&emsp;(i) one trustee shall have expertise in aspects of domesticated livestock management, production, and marketing, including range management and livestock business management;
 
@@ -100,7 +100,7 @@ Appointed trustees shall not be considered Federal employees by virtue of their 
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (f), is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
+The Federal Tort Claims Act, referred to in subsec. (f), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 The Ethics in Government Act, referred to in subsec. (f), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 

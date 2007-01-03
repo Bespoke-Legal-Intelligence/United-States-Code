@@ -56,29 +56,29 @@ The Advisory Board shall—
 
 In carrying out its functions, the Advisory Board may establish subcommittees, convene workshops and conferences, and collect data. Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
 
-#### (j) Annual report
-
-The Advisory Board shall prepare an annual report for the Secretary which—
-
-&emsp;(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
-
-&emsp;(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the deafness and other communication disorders;
-
-&emsp;(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such disorders in such fiscal year; and
-
-&emsp;(4) contains the Advisory Board's recommendations (if any) for changes in the plan prepared under section 285m–1(a) of this title.
+#### (j) Repealed. Pub. L. 109–482, title I, §104(b)(1)(J), Jan. 15, 2007, 120 Stat. 3693
 
 #### (k) Commencement of existence
 
 The National Deafness and Other Communication Disorders Advisory Board shall be established not later than April 1, 1989.
 
-(July 1, 1944, ch. 373, title IV, §464D, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2772, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4235; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 101–93, §5(b), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(8), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(8), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §464D, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2772, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4235; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 101–93, §5(b), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(8), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(8), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §104(b)(1)(J), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### Codification
 
 Pub. L. 100–553 and section 2613(a)(1) of Pub. L. 100–690 contained identical provisions enacting this section. See 1988 Amendment note below.
 
 #### Amendments
+
+2007—Subsec. (j). Pub. L. 109–482 struck out subsec. (j) which read as follows: “The Advisory Board shall prepare an annual report for the Secretary which—
+
+&emsp;“(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
+
+&emsp;“(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the deafness and other communication disorders;
+
+&emsp;“(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such disorders in such fiscal year; and
+
+&emsp;“(4) contains the Advisory Board's recommendations (if any) for changes in the plan prepared under section 285m–1(a) of this title.”
 
 1993—Subsec. (b)(2)(A). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -90,6 +90,10 @@ Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medi
 
 1988—Pub. L. 100–690, §2613(b)(2), amended this section to read as if the amendments made by Pub. L. 100–690, §2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
 #### Effective Date of 1988 Amendment
 
 For effective date of amendment by section 2613(b)(2) of Pub. L. 100–690, see section 2613(b)(1) of Pub. L. 100–690, set out as an Effect of Enactment of Similar Provisions note under section 285m of this title.
@@ -98,7 +102,7 @@ For effective date of amendment by section 2613(b)(2) of Pub. L. 100–690, see 
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

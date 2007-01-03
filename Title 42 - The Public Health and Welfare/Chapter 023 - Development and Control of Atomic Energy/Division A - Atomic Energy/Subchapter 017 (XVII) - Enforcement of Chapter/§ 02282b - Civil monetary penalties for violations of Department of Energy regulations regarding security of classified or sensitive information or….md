@@ -6,7 +6,7 @@ Any person who has entered into a contract or agreement with the Department of E
 
 #### (b) Fee or payment reductions for violations
 
-The Secretary shall include in each contract with a contractor of the Department provisions which provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any rule, regulation, or order relating to the safeguarding or security of Restricted Data or other classified or sensitive information. The provisions shall specify various degrees of violations and the amount of the reduction attributable to each degree of violation.
+The Secretary shall include in each contract with a contractor of the Department provisions which provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any rule, regulation, or order relating to the safeguarding or security of Restricted Data or other classified or sensitive information. The provisions shall specify various degrees of violations and theamount of the reduction attributable to each degree of violation.
 
 #### (c) Powers and limitations
 

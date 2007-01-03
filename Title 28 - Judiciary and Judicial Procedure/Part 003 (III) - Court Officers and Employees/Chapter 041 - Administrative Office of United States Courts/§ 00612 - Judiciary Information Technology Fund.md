@@ -82,7 +82,7 @@ Additional contents of report.—The annual report submitted under this subsecti
 
 &emsp;&emsp;(A) the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); <sup>2</sup> and
 
-&emsp;&emsp;(B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments,and the reasons for any delays in scheduled systems development, or budget overruns.
+&emsp;&emsp;(B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments, and the reasons for any delays in scheduled systems development, or budget overruns.
 
 (h)
 
@@ -162,7 +162,7 @@ Subsecs. (b), (c)(2), (e). Pub. L. 104–106, §5602(b)(3), substituted “infor
 
 Subsec. (f). Pub. L. 104–106, §5602(b)(3), substituted “information technology” for “automatic data processing”.
 
-Pub. L. 104–106, §5602(a)(1), substituted “the provisions of law, policies, and regulations applicable to executive agencies under the Information Technology Management Reform Act of 1996” for “section 111 of theFederal Property and Administrative Services Act of 1949 (40 U.S.C. 759)”.
+Pub. L. 104–106, §5602(a)(1), substituted “the provisions of law, policies, and regulations applicable to executive agencies under the Information Technology Management Reform Act of 1996” for “section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759)”.
 
 Subsec. (g). Pub. L. 104–106, §5602(a)(2), substituted “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)” for “sections 111 and 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 and 759)”.
 

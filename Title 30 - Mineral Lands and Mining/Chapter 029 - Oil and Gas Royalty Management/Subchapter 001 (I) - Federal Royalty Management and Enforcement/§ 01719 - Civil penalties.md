@@ -48,7 +48,7 @@ No penalty under this section shall be assessed until the person charged with a 
 
 #### (f) Deduction of penalty from sums owed by United States
 
-The amount of any penalty under this section, as finally determined <sup>2</sup> may be deducted fromany sums owing by the United States to the person charged.
+The amount of any penalty under this section, as finally determined <sup>2</sup> may be deducted from any sums owing by the United States to the person charged.
 
 #### (g) Compromise or reduction of penalties
 

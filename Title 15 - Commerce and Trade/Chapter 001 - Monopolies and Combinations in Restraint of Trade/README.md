@@ -16,73 +16,26 @@
 | [11\.](%C2%A7%2000011%20-%20Forfeiture%20of%20property%20in%20transit.md) | Forfeiture of property in transit. |
 | [12\.](%C2%A7%2000012%20-%20Definitions%3B%20short%20title.md) | Definitions; short title. |
 | [13\.](%C2%A7%2000013%20-%20Discrimination%20in%20price%2C%20services%2C%20or%20facilities.md) | Discrimination in price, services, or facilities. |
-| (a) | Price; selection of customers. |
-| (b) | Burden of rebutting prima-facie case of discrimination. |
-| (c) | Payment or acceptance of commission, brokerage, or other compensation. |
-| (d) | Payment for services or facilities for processing or sale. |
-| (e) | Furnishing services or facilities for processing, handling, etc. |
-| (f) | Knowingly inducing or receiving discriminatory price. |
 | [13a.](%C2%A7%2000013a%20-%20Discrimination%20in%20rebates%2C%20discounts%2C%20or%20advertising%20service%20charges%3B%20underselling%20in%20particular%20localities%3B%20penalties.md) | Discrimination in rebates, discounts, or advertising service charges; underselling in particular localities; penalties. |
 | [13b.](%C2%A7%2000013b%20-%20Cooperative%20association%3B%20return%20of%20net%20earnings%20or%20surplus.md) | Cooperative association; return of net earnings or surplus. |
 | [13c.](%C2%A7%2000013c%20-%20Exemption%20of%20non-profit%20institutions%20from%20price%20discrimination%20provisions.md) | Exemption of non-profit institutions from price discrimination provisions. |
 | [14\.](%C2%A7%2000014%20-%20Sale%2C%20etc.%2C%20on%20agreement%20not%20to%20use%20goods%20of%20competitor.md) | Sale, etc., on agreement not to use goods of competitor. |
 | [15\.](%C2%A7%2000015%20-%20Suits%20by%20persons%20injured.md) | Suits by persons injured. |
-| (a) | Amount of recovery; prejudgment interest. |
-| (b) | Amount of damages payable to foreign states and instrumentalities of foreign states. |
-| (c) | Definitions. |
 | [15a.](%C2%A7%2000015a%20-%20Suits%20by%20United%20States%3B%20amount%20of%20recovery%3B%20prejudgment%20interest.md) | Suits by United States; amount of recovery; prejudgment interest. |
 | [15b.](%C2%A7%2000015b%20-%20Limitation%20of%20actions.md) | Limitation of actions. |
 | [15c.](%C2%A7%2000015c%20-%20Actions%20by%20State%20attorneys%20general.md) | Actions by State attorneys general. |
-| (a) | Parens patriae; monetary relief; damages; prejudgment interest. |
-| (b) | Notice; exclusion election; final judgment. |
-| (c) | Dismissal or compromise of action. |
-| (d) | Attorneys’ fees. |
 | [15d.](%C2%A7%2000015d%20-%20Measurement%20of%20damages.md) | Measurement of damages. |
 | [15e.](%C2%A7%2000015e%20-%20Distribution%20of%20damages.md) | Distribution of damages. |
 | [15f.](%C2%A7%2000015f%20-%20Actions%20by%20Attorney%20General.md) | Actions by Attorney General. |
-| (a) | Notification to State attorney general. |
-| (b) | Availability of files and other materials. |
 | [15g.](%C2%A7%2000015g%20-%20Definitions.md) | Definitions. |
 | [15h.](%C2%A7%2000015h%20-%20Applicability%20of%20parens%20patriae%20actions.md) | Applicability of parens patriae actions. |
 | [16\.](%C2%A7%2000016%20-%20Judgments.md) | Judgments. |
-| (a) | Prima facie evidence; collateral estoppel. |
-| (b) | Consent judgments and competitive impact statements; publication in Federal Register; availability of copies to the public. |
-| (c) | Publication of summaries in newspapers. |
-| (d) | Consideration of public comments by Attorney General and publication of response. |
-| (e) | Public interest determination. |
-| (f) | Procedure for public interest determination. |
-| (g) | Filing of written or oral communications with the district court. |
-| (h) | Inadmissibility as evidence of proceedings before the district court and the competitive impact statement. |
-| (i) | Suspension of limitations. |
 | [17\.](%C2%A7%2000017%20-%20Antitrust%20laws%20not%20applicable%20to%20labor%20organizations.md) | Antitrust laws not applicable to labor organizations. |
 | [18\.](%C2%A7%2000018%20-%20Acquisition%20by%20one%20corporation%20of%20stock%20of%20another.md) | Acquisition by one corporation of stock of another. |
 | [18a.](%C2%A7%2000018a%20-%20Premerger%20notification%20and%20waiting%20period.md) | Premerger notification and waiting period. |
-| (a) | Filing. |
-| (b) | Waiting period; publication; voting securities. |
-| (c) | Exempt transactions. |
-| (d) | Commission rules. |
-| (e) | Additional information; waiting period extensions. |
-| (f) | Preliminary injunctions; hearings. |
-| (g) | Civil penalty; compliance; power of court. |
-| (h) | Disclosure exemption. |
-| (i) | Construction with other laws. |
-| (j) | Omitted. |
-| (k) | Extensions of time. |
 | [19\.](%C2%A7%2000019%20-%20Interlocking%20directorates%20and%20officers.md) | Interlocking directorates and officers. |
 | 19a, 20. | Repealed. |
 | [21\.](%C2%A7%2000021%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
-| (a) | Commission, Board, or Secretary authorized to enforce compliance. |
-| (b) | Issuance of complaints for violations; hearing; intervention; filing of testimony; report; cease and desist orders; reopening and alteration of reports or orders. |
-| (c) | Review of orders; jurisdiction; filing of petition and record of proceeding; conclusiveness of findings; additional evidence; modification of findings; finality of judgment and decree. |
-| (d) | Exclusive jurisdiction of Court of Appeals. |
-| (e) | Liability under antitrust laws. |
-| (f) | Service of complaints, orders and other processes. |
-| (g) | Finality of orders generally. |
-| (h) | Finality of orders modified by Supreme Court. |
-| (i) | Finality of orders modified by Court of Appeals. |
-| (j) | Finality of orders issued on rehearing ordered by Court of Appeals or Supreme Court. |
-| (k) | “Mandate” defined. |
-| (<i>l</i>) | Penalties. |
 | [21a.](%C2%A7%2000021a%20-%20Actions%20and%20proceedings%20pending%20prior%20to%20June%2019%2C%201936%3B%20additional%20and%20continuing%20violations.md) | Actions and proceedings pending prior to June 19, 1936; additional and continuing violations. |
 | [22\.](%C2%A7%2000022%20-%20District%20in%20which%20to%20sue%20corporation.md) | District in which to sue corporation. |
 | [23\.](%C2%A7%2000023%20-%20Suits%20by%20United%20States%3B%20subpoenas%20for%20witnesses.md) | Suits by United States; subpoenas for witnesses. |
@@ -90,38 +43,19 @@
 | [25\.](%C2%A7%2000025%20-%20Restraining%20violations%3B%20procedure.md) | Restraining violations; procedure. |
 | [26\.](%C2%A7%2000026%20-%20Injunctive%20relief%20for%20private%20parties%3B%20exception%3B%20costs.md) | Injunctive relief for private parties; exception; costs. |
 | [26a.](%C2%A7%2000026a%20-%20Restrictions%20on%20the%20purchase%20of%20gasohol%20and%20synthetic%20motor%20fuel.md) | Restrictions on the purchase of gasohol and synthetic motor fuel. |
-| (a) | Limitations on the use of credit instruments; sales, resales, and transfers. |
-| (b) | Credit fees; equivalent conventional motor fuel sales; labeling of pumps; product liability disclaimers; advertising support; furnishing facilities. |
-| (c) | “United States” defined. |
 | [26b.](%C2%A7%2000026b%20-%20Application%20of%20antitrust%20laws%20to%20professional%20major%20league%20baseball.md) | Application of antitrust laws to professional major league baseball. |
-| (a) | Major league baseball subject to antitrust laws. |
-| (b) | Limitation of section. |
-| (c) | Standing to sue. |
-| (d) | Conduct, acts, practices, or agreements subject to antitrust laws. |
 | [27\.](%C2%A7%2000027%20-%20Effect%20of%20partial%20invalidity.md) | Effect of partial invalidity. |
 | [27a.](%C2%A7%2000027a%20-%20Transferred.md) | Transferred. |
 | [28\.](%C2%A7%2000028%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93620%2C%20title%20IV%2C%20%C2%A7402%2811%29%2C%20Nov.%208%2C%201984%2C%2098%20Stat.%203358.md) | Repealed. |
 | [29\.](%C2%A7%2000029%20-%20Appeals.md) | Appeals. |
-| (a) | Court of appeals; review by Supreme Court. |
-| (b) | Direct appeals to Supreme Court. |
 | 30 to 33. | Repealed. |
 | [34\.](%C2%A7%2000034%20-%20Definitions%20applicable%20to%20sections%2034%20to%2036.md) | Definitions applicable to sections 34 to 36. |
 | [35\.](%C2%A7%2000035%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20from%20any%20local%20government%2C%20or%20official%20or%20employee%20thereof%20acting%20in%20an%20official%E2%80%A6.md) | Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official capacity. |
-| (a) | Prohibition in general. |
-| (b) | Preconditions for attachment of prohibition; prima facie evidence for nonapplication of prohibition. |
 | [36\.](%C2%A7%2000036%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20on%20claim%20against%20person%20based%20on%20official%20action%20directed%20by%20local%20government%2C%20or%E2%80%A6.md) | Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity. |
-| (a) | Prohibition in general. |
-| (b) | Nonapplication of prohibition for cases commenced before effective date of provisions. |
 | [37\.](%C2%A7%2000037%20-%20Immunity%20from%20antitrust%20laws.md) | Immunity from antitrust laws. |
-| (a) | Inapplicability of antitrust laws. |
-| (b) | Immunity. |
-| (c) | Treatment of certain annuities and trusts. |
-| (d) | Limitation. |
 | [37a.](%C2%A7%2000037a%20-%20Definitions.md) | Definitions. |
 | [37b.](%C2%A7%2000037b%20-%20Confirmation%20of%20antitrust%20status%20of%20graduate%20medical%20resident%20matching%20programs.md) | Confirmation of antitrust status of graduate medical resident matching programs. |
-| (a) | Findings and purposes. |
-| (b) | Application of antitrust laws to graduate medical education residency matching programs. |
-| (c) | Effective date. |
+| [38\.](%C2%A7%2000038%20-%20Association%20of%20marine%20insurance%20companies%3B%20application%20of%20antitrust%20laws.md) | Association of marine insurance companies; application of antitrust laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -198,3 +132,4 @@ Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 1205
 - [&sect; 00037 - Immunity from antitrust laws](%C2%A7%2000037%20-%20Immunity%20from%20antitrust%20laws.md)
 - [&sect; 00037a - Definitions](%C2%A7%2000037a%20-%20Definitions.md)
 - [&sect; 00037b - Confirmation of antitrust status of graduate medical resident matching programs](%C2%A7%2000037b%20-%20Confirmation%20of%20antitrust%20status%20of%20graduate%20medical%20resident%20matching%20programs.md)
+- [&sect; 00038 - Association of marine insurance companies; application of antitrust laws](%C2%A7%2000038%20-%20Association%20of%20marine%20insurance%20companies%3B%20application%20of%20antitrust%20laws.md)

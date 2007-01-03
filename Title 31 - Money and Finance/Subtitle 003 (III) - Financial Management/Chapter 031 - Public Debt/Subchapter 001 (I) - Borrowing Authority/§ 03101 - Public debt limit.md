@@ -2,7 +2,7 @@
 
 (a) In this section, the current redemption value of an obligation issued on a discount basisand redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
-(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $8,184,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or otherwise.
+(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $8,965,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or otherwise.
 
 (c) For purposes of this section, the face amount, for any month, of any obligation issued on a discount basis that is not redeemable before maturity at the option of the holder of the obligation is an amount equal to the sum of—
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289.)
 
 Historical and Revision Notes
 
@@ -45,6 +45,8 @@ The Rules of the House of Representatives for the One Hundred Sixth Congress wer
 Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 1272(a) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–182 substituted “$8,965,000,000,000” for “$8,184,000,000,000”.
 
 2004—Subsec. (b). Pub. L. 108–415 substituted “$8,184,000,000,000” for “$7,384,000,000,000”.
 
@@ -140,7 +142,7 @@ Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary in
 
 Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary increase of $227,000,000,000 for the period Mar. 15, 1976, to June 30, 1976.
 
-Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the public debt limit for the period Nov. 14, 1975, to Mar. 15, 1976, was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
+Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the publicdebt limit for the period Nov. 14, 1975, to Mar. 15, 1976, was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
 
 Pub. L. 94–47, §1, June 30, 1975, 89 Stat. 246, providing for a temporary increase of $177,000,000,000 in the public debt limit for the period June 30, 1975, to Nov. 15, 1975, was also repealed by Pub. L. 94–132, §2, Nov. 14, 1975, 89 Stat. 693.
 

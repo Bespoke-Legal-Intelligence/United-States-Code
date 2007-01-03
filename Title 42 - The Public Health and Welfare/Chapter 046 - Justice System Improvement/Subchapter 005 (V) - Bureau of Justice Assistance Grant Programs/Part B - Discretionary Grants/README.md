@@ -8,3 +8,4 @@ Part B—Discretionary Grants
 - [Subpart 001 - Grants to Public and Private Entities](Subpart%20001%20-%20Grants%20to%20Public%20and%20Private%20Entities/README.md)
 - [Subpart 002 - Grants to Public Agencies](Subpart%20002%20-%20Grants%20to%20Public%20Agencies/README.md)
 - [Subpart 003 - General Requirements](Subpart%20003%20-%20General%20Requirements/README.md)
+- [Subpart 004 - Grants to Private Entities](Subpart%20004%20-%20Grants%20to%20Private%20Entities/README.md)

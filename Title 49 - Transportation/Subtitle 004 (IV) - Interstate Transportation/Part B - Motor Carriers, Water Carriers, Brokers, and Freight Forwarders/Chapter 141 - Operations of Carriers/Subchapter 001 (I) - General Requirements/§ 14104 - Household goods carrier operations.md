@@ -6,7 +6,7 @@ General Regulatory Authority.—
 
 &emsp;(1)
 
-Paperwork minimization.—The Secretary may issue regulations, including regulations protecting individual shippers, in order to carry out this part with respect to the transportation of household goods by motor carriers subject to jurisdiction under subchapter I of chapter 135. The regulations and paperwork required of motor carriers providing transportation of household goods shall beminimized to the maximum extent feasible consistent with the protection of individual shippers.
+Paperwork minimization.—The Secretary may issue regulations, including regulations protecting individual shippers, in order to carry out this part with respect to the transportation of household goods by motor carriers subject to jurisdiction under subchapter I of chapter 135. The regulations and paperwork required of motor carriers providing transportation of household goods shall be minimized to the maximum extent feasible consistent with the protection of individual shippers.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ In general.—Except as otherwise provided in this subsection, every motor carri
 
 &emsp;&emsp;(B)
 
-Waiver.—A shipper may elect to waive a physical survey under this paragraph by written agreement signed by the shipper before the shipment is loaded. A copy of the waiver agreement must be retained as an addendum to the bill of lading and shall be subject to the same record inspection and preservation requirements of the Secretary as are applicable to bills of lading.
+Waiver.—A shipper may elect to waive a physical survey under this paragraph by written agreement signed by the shipper before the shipment is loaded. A copy of the waiver agreement must be retained as an addendum to the bill of lading and shall be subject to the same record inspection andpreservation requirements of the Secretary as are applicable to bills of lading.
 
 &emsp;&emsp;(C)
 
@@ -88,7 +88,7 @@ Provisions similar to those in this section were contained in section 11110 of t
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate ofcharges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.”
+2005—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.”
 
 #### Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry
 

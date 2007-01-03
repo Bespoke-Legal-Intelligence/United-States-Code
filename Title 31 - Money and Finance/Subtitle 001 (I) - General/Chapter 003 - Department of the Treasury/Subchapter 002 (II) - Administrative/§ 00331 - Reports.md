@@ -32,7 +32,7 @@
 
 (d) The Secretary shall report to either House of Congress in person or in writing, as required, on matters referred to the Secretary by that House of Congress.
 
-(e)(1) Not later than March 31 of 1998 and each year thereafter, the Secretary of the Treasury, in coordination with the Director of the Office of Management and Budget, shall annually prepare and submit to the President and the Congress an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of the executive branch of the United States Government. The financial statement shall reflect the overall financial position, including assets and liabilities, and results of operations of the executive branch of the United States Government, and shall be prepared in accordance with the form and content requirements set forth by the Director of the Office of Management and Budget.
+(e)(1) Not later than March 31 of 1998 and each year thereafter, the Secretary of the Treasury, in coordination with the Director of the Officeof Management and Budget, shall annually prepare and submit to the President and the Congress an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of the executive branch of the United States Government. The financial statement shall reflect the overall financial position, including assets and liabilities, and results of operations of the executive branch of the United States Government, and shall be prepared in accordance with the form and content requirements set forth by the Director of the Office of Management and Budget.
 
 (2) The Comptroller General of the United States shall audit the financial statement required by this section.
 

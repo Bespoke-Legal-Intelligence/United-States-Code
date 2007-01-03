@@ -6,10 +6,6 @@
 | :--- | ---: |
 | [5901\.](Subchapter%20001%20%28I%29%20-%20Findings%20and%20Program%20Authority/%C2%A7%2005901%20-%20Demilitarization%20of%20independent%20states%20of%20former%20Soviet%20Union.md) | Demilitarization of independent states of former Soviet Union. |
 | [5902\.](Subchapter%20001%20%28I%29%20-%20Findings%20and%20Program%20Authority/%C2%A7%2005902%20-%20Authority%20for%20programs%20to%20facilitate%20demilitarization.md) | Authority for programs to facilitate demilitarization. |
-| (a) | In general. |
-| (b) | Types of programs. |
-| (c) | United States participation. |
-| (d) | Restrictions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,8 +14,6 @@
 |  |  |
 | :--- | ---: |
 | [5911\.](Subchapter%20002%20%28II%29%20-%20Administrative%20and%20Funding%20Authorities/%C2%A7%2005911%20-%20Administration%20of%20demilitarization%20programs.md) | Administration of demilitarization programs. |
-| (a) | Funding. |
-| (b) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,8 +22,6 @@
 |  |  |
 | :--- | ---: |
 | [5921\.](Subchapter%20003%20%28III%29%20-%20Reporting%20Requirements/%C2%A7%2005921%20-%20Prior%20notice%20to%20Congress%20of%20obligation%20of%20funds.md) | Prior notice to Congress of obligation of funds. |
-| (a) | In general. |
-| (b) | Industrial demilitarization. |
 | [5922\.](Subchapter%20003%20%28III%29%20-%20Reporting%20Requirements/%C2%A7%2005922%20-%20Quarterly%20reports%20on%20programs.md) | Quarterly reports on programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

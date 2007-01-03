@@ -8,7 +8,7 @@ Subject to valid existing rights, the Pine Ridge National Recreation Area design
 
 &emsp;(2) preservation and protection of forest, aquatic and grassland habitat;
 
-&emsp;(3) protection and conservation of special areas having uncommon or outstanding wilderness, biological, geological, recreational, cultural, historical or archeological, and scientific, or other values contributing to the public benefit;
+&emsp;(3) protection and conservation of special areas having uncommon or outstanding wilderness, biological, geological, recreational,cultural, historical or archeological, and scientific, or other values contributing to the public benefit;
 
 &emsp;(4) the continuation of existing livestock grazing uses;
 

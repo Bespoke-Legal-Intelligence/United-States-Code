@@ -294,7 +294,7 @@ Section 9(b) of Pub. L. 92–392 provided that: “The amendments made by this A
 
 &emsp;“(2) nullify, curtail, or otherwise impair in any way the right of any party to such contract to enter into negotiations after the date of enactment of this Act \[Aug. 19, 1972\] for the renewal, extension, modification, or improvement of the provisions of such contract or for the replacement of such contract with a new contract; or
 
-&emsp;“(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations onwhich any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\].”
+&emsp;“(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\].”
 
 #### Wage Survey
 
@@ -308,7 +308,7 @@ Pub. L. 92–298, §§1, 2, May 17, 1972, 86 Stat. 146, provided: “That this A
 
 Sec. 2. (a) Notwithstanding any other provision of law or any provision of an Executive order or regulation, a wage schedule adjustment for employees of the Government of the United States whose pay is fixed and adjusted from time to time in accordance with prevailing rates—
 
-&emsp;“(1) if based on a wage survey ordered to be made on or after August 15, 1971, but not placed into effect before November 14, 1971, by reason of the provisions of Executive Order 11615 or Executive Order 11627 \[formerly set out as notes under section 1904 of Title 12\]; or
+&emsp;“(1) if based on a wage survey ordered to be made on or after August 15, 1971, but not placed into effectbefore November 14, 1971, by reason of the provisions of Executive Order 11615 or Executive Order 11627 \[formerly set out as notes under section 1904 of Title 12\]; or
 
 &emsp;“(2) if based on a wage survey which had been scheduled to be made during the period beginning on September 1, 1971, and ending on January 12, 1972, and which was ordered to be made on or after January 23, 1972;
 

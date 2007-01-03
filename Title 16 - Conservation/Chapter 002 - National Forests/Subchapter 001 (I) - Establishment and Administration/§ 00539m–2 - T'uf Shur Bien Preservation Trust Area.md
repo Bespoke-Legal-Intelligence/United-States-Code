@@ -58,7 +58,7 @@ The T'uf Shur Bien Preservation Trust Area is established within the Cibola Nati
 
 #### (d) No conveyance of title
 
-No right, title, or interest of the United States in or to the Area or any part of the Area shall be conveyed to or exchanged with any person, trust, or governmental entity, including the Pueblo, without specific authorization of Congress.
+No right, title, or interest of the United States in or to the Area or any part of the Area shall be conveyed to or exchanged with any person, trust, or governmental entity, including thePueblo, without specific authorization of Congress.
 
 #### (e) Prohibited uses
 

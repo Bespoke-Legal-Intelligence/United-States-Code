@@ -11,10 +11,6 @@
 | [1910\.](%C2%A7%2001910%20-%20Civil%20actions%20for%20just%20compensation%20by%20mining%20claim%20holders.md) | Civil actions for just compensation by mining claim holders. |
 | [1911\.](%C2%A7%2001911%20-%20Acquisition%20of%20land%20by%20Secretary.md) | Acquisition of land by Secretary. |
 | [1912\.](%C2%A7%2001912%20-%20Financial%20disclosure%20by%20officer%20or%20employee%20of%20Secretary.md) | Financial disclosure by officer or employee of Secretary. |
-| (a) | Filing and availability of written statements; contents. |
-| (b) | Enforcement procedures. |
-| (c) | Exemptions. |
-| (d) | Violation; penalty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

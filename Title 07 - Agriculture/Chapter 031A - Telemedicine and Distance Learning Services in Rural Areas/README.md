@@ -5,77 +5,7 @@
 | [950aaa.](%C2%A7%2000950aaa%20-%20Purpose.md) | Purpose. |
 | 950aaa–1. | Definitions. |
 | 950aaa–2. | Telemedicine and distance learning services in rural areas. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Services to rural areas.
-
-(b)
-
-Financial assistance.
-
-(c)
-
-Recipients.
-
-(d)
-
-Priority.
-
-(e)
-
-Maximum amount of assistance to individual recipients.
-
-(f)
-
-Use of funds.
-
-(g)
-
-Salaries and expenses.
-
-(h)
-
-Expediting coordinated telephone loans.
-
-(i)
-
-Notification of local exchange carrier.
-
-|  |  |
-| :--- | ---: |
 | 950aaa–3. | Administration. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Nonduplication.
-
-(b)
-
-Loan maturity.
-
-(c)
-
-Loan security and feasibility.
-
-(d)
-
-Encouraging consortia.
-
-(e)
-
-Coordination with other agencies.
-
-(f)
-
-Informational efforts.
-
-|  |  |
-| :--- | ---: |
 | 950aaa–4. | Regulations. |
 | 950aaa–5. | Authorization of appropriations. |
 

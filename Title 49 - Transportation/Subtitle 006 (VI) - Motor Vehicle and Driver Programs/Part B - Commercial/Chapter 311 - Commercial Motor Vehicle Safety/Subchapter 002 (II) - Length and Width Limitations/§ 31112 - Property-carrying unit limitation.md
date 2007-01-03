@@ -118,7 +118,7 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, §411(j); added Dec. 18, 1991, Pub
 
 49 App.:2311(j)(8).
 
-In this section, the word “property” is substituted for “cargo”, and the word “law” is substituted for “statute”, for consistency in the revised title. The words“Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
+In this section, the word “property” is substituted for “cargo”, and the word “law” is substituted for “statute”, for consistency in the revised title. The words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
 
 In subsections (b), before clause (1), and (g)(1), the words “dismantled easily or divided easily” are substituted for “easily dismantled or divided” for clarity.
 

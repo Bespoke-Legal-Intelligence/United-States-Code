@@ -18,7 +18,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 &emsp;&emsp;(i) sales or production, or both, of such firm have decreased absolutely, or
 
-&emsp;&emsp;(ii) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
+&emsp;&emsp;(ii) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of thefirm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
 
 &emsp;(C) increases of imports of articles like or directly competitive with articles which are produced by such firm contributed importantly to such total or partial separation, or threat thereof, and to such decline in sales or production.
 
@@ -40,7 +40,7 @@ A determination shall be made by the Secretary as soon as possible after the dat
 
 1988—Subsec. (c). Pub. L. 100–418, §1421(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if he determines—
 
-&emsp;“(1) that a significant number or proportion of the workers in such firm have become totally or partiallyseparated, or are threatened to become totally or partially separated.
+&emsp;“(1) that a significant number or proportion of the workers in such firm have become totally or partially separated, or are threatened to become totally or partially separated.
 
 &emsp;“(2) that—
 

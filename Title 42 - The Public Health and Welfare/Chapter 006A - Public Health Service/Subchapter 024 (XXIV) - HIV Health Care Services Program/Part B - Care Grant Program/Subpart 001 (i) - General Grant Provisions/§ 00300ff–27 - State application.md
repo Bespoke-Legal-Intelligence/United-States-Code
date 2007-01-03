@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Secretary shall not make a grant to a State under this part for a fiscal year unless the State prepares and submits, to the Secretary, an application at such time, in such form, and containing such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
+The Secretary shall not make a grant to a State under section 300ff–21 of this title for a fiscal year unless the State prepares and submits, to the Secretary, an application at such time, in such form, and containing such agreements, assurances, and information as the Secretary determines to be necessary to carry out section 300ff–21 of this title.
 
 #### (b) Description of intended uses and agreements
 
 The application submitted under subsection (a) of this section shall contain—
 
-&emsp;(1) a detailed description of the HIV-related services provided in the State to individuals and families with HIV disease during the year preceding the year for which the grant is requested, and the number of individuals and families receiving such services, that shall include—
+&emsp;(1) a detailed description of the HIV-related services provided in the State to individuals and families with HIV/AIDS during the yearpreceding the year for which the grant is requested, and the number of individuals and families receiving such services, that shall include—
 
 &emsp;&emsp;(A) a description of the types of programs operated or funded by the State for the provision of HIV-related services during the year preceding the year for which the grant is requested and the methods utilized by the State to finance such programs;
 
@@ -24,21 +24,35 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;(iv) the aggregate amounts expended for each such category of services;
 
-&emsp;(2) a determination of the size and demographics of the population of individuals with HIV disease in the State;
+&emsp;(2) a determination of the size and demographics of the population of individuals with HIV/AIDS in the State;
 
 &emsp;(3) a determination of the needs of such population, with particular attention to—
 
-&emsp;&emsp;(A) individuals with HIV disease who know their HIV status and are not receiving HIV-related services; and
+&emsp;&emsp;(A) individuals with HIV/AIDS who know their HIV status and are not receiving HIV-related services; and
 
 &emsp;&emsp;(B) disparities in access and services among affected subpopulations and historically underserved communities;
 
-&emsp;(4) a comprehensive plan that describes the organization and delivery of HIV health care and support services to be funded with assistance received under this part that shall include a description of the purposes for which the State intends to use such assistance, and that—
+&emsp;(4) the designation of a lead State agency that shall—
+
+&emsp;&emsp;(A) administer all assistance received under this part;
+
+&emsp;&emsp;(B) conduct the needs assessment and prepare the State plan under paragraph (3);
+
+&emsp;&emsp;(C) prepare all applications for assistance under this part;
+
+&emsp;&emsp;(D) receive notices with respect to programs under this subchapter;
+
+&emsp;&emsp;(E) every 2 years, collect and submit to the Secretary all audits, consistent with Office of Management and Budget circular A133, from grantees within the State, including audits regarding funds expended in accordance with this part; and
+
+&emsp;&emsp;(F) carry out any other duties determined appropriate by the Secretary to facilitate the coordination of programs under this subchapter.<sup>1</sup>
+
+&emsp;(5) a comprehensive plan that describes the organization and delivery of HIV health care and support services to be funded with assistance received under section 300ff–21 of this title that shall include a description of the purposes for which the State intends to use such assistance, and that—
 
 &emsp;&emsp;(A) establishes priorities for the allocation of funds within the State based on—
 
-&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV disease (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
+&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
 
-&emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV disease;
+&emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV/AIDS;
 
 &emsp;&emsp;&emsp;(iii) capacity development needs resulting from disparities in the availability of HIV-related services in historically underserved communities and rural communities; and
 
@@ -48,25 +62,27 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(C) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 
-&emsp;&emsp;(D) describes the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV disease throughout the State;
+&emsp;&emsp;(D) describes the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV/AIDS throughout the State;
 
-&emsp;&emsp;(E) provides a description of the manner in which services funded with assistance provided under this part will be coordinated with other available related services for individuals with HIV disease; and
+&emsp;&emsp;(E) provides a description of the manner in which services funded with assistance provided under section 300ff–21 of this title will be coordinated with other available related services for individuals with HIV/AIDS;
 
-&emsp;&emsp;(F) provides a description of how the allocation and utilization of resources are consistent with the statewide coordinated statement of need (including traditionally underserved populations and subpopulations) developed in partnership with other grantees in the State that receive funding under this subchapter; and <sup>1</sup>
+&emsp;&emsp;(F) provides a description of how the allocation and utilization of resources are consistent with the statewide coordinated statement of need (including traditionally underserved populations and subpopulations) developed in partnership with other grantees in the State that receive funding under this subchapter; and
 
-&emsp;(5) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV disease, representatives of grantees under each part under this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need; and
+&emsp;&emsp;(G) includes key outcomes to be measured by all entities in the State receiving assistance under this subchapter; and <sup>2</sup>
 
-&emsp;(6) an assurance by the State that—
+&emsp;(6) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV/AIDS, members of a Federally recognized Indian tribe as represented in the State, representatives of grantees under each partunder this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need; and
 
-&emsp;&emsp;(A) the public health agency that is administering the grant for the State engages in a public advisory planning process, including public hearings, that includes the participants under paragraph (5), and the types of entities described in section 300ff–12(b)(2) of this title, in developing the comprehensive plan under paragraph (4) and commenting on the implementation of such plan;
+&emsp;(7) an assurance by the State that—
+
+&emsp;&emsp;(A) the public health agency that is administering the grant for the State engages in a public advisory planning process, including public hearings, that includes the participants under paragraph (6), and the types of entities described in section 300ff–12(b)(2) of this title, in developing the comprehensive plan under paragraph (5) and commenting on the implementation of such plan;
 
 &emsp;&emsp;(B) the State will—
 
-&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to a program established with assistance provided under this part will be provided without regard to the ability of the individual to pay for such services and without regard to the current or past health condition of the individual with HIV disease;
+&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to a program established with assistance provided under section 300ff–21 of this title will be provided without regard to the ability of the individual to pay for such services and without regard to the current or past health condition of the individual with HIV/AIDS;
 
-&emsp;&emsp;&emsp;(ii) ensure that such services will be provided in a setting that is accessible to low-income individuals with HIV disease;
+&emsp;&emsp;&emsp;(ii) ensure that such services will be provided in a setting that is accessible to low-income individuals with HIV/AIDS;
 
-&emsp;&emsp;&emsp;(iii) provide outreach to low-income individuals with HIV disease to inform such individuals of the services available under this part; and
+&emsp;&emsp;&emsp;(iii) provide outreach to low-income individuals with HIV/AIDS to inform such individuals of the services available under section 300ff–21 of this title; and
 
 &emsp;&emsp;&emsp;(iv) in the case of a State that intends to use amounts provided under the grant for purposes described in section 300ff–25 of this title, submit a plan to the Secretary that demonstrates that the State has established a program that assures that—
 
@@ -74,19 +90,19 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;&emsp;(II) income, asset, and medical expense criteria will be established and applied by the State to identify those individuals who qualify for assistance under such program, and information concerning such criteria shall be made available to the public;
 
-&emsp;&emsp;(C) the State will provide for periodic independent peer review to assess the quality and appropriateness of health and support services provided by entities that receive funds from the State under this part;
+&emsp;&emsp;(C) the State will provide for periodic independent peer review to assess the quality and appropriateness of health and support services provided by entities that receive funds from the State under section 300ff–21 of this title;
 
-&emsp;&emsp;(D) the State will permit and cooperate with any Federal investigations undertaken regarding programs conducted under this part;
+&emsp;&emsp;(D) the State will permit and cooperate with any Federal investigations undertaken regarding programs conducted under section 300ff–21 of this title;
 
-&emsp;&emsp;(E) the State will maintain HIV-related activities at a level that is equal to not less than the level of such expenditures by the State for the 1-year period preceding the fiscal year for which the State is applying to receive a grant under this part;
+&emsp;&emsp;(E) the State will maintain HIV-related activities at a level that is equal to not less than the level of such expenditures by the State for the 1-year period preceding the fiscal year for which the State is applying to receive a grant under section 300ff–21 of this title;
 
 &emsp;&emsp;(F) the State will ensure that grant funds are not utilized to make payments for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to that item or service—
 
 &emsp;&emsp;&emsp;(i) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
-&emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis; and
+&emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis (except for a program administered by or providing the services of the Indian Health Service); and
 
-&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV disease (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV disease and individuals knowledgeable of their HIV status but not in care.
+&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care.
 
 #### (c) Requirements regarding imposition of charges for services
 
@@ -106,11 +122,11 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
-&emsp;&emsp;(E) in the case of individuals with an income greater than 300 percent of the official poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
+&emsp;&emsp;(E) in the case of individuals with an income greater than 300 percent of the official poverty line, the provider will not, for anycalendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
 
 #### (2) Assessment of charge
 
-&emsp;With respect to compliance with the assurance made under paragraph (1), a grantee under this part may, in the case of individuals subject to a charge for purposes of such paragraph—
+&emsp;With respect to compliance with the assurance made under paragraph (1), a grantee under section 300ff–21 of this title may, in the case of individuals subject to a charge for purposes of such paragraph—
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules regarding limitation on the maximum amount of charges; and
 
@@ -134,7 +150,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (1) In general
 
-&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under this part unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2) <sup>3</sup> of this section, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
+&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under section 300ff–21 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2) <sup>4</sup> of this section, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than 162/3 percent of such costs ($1 for each $5 of Federal funds provided in the grant);
 
@@ -156,13 +172,13 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(i) In making a determination of the amount of non-Federal contributions made by a State for purposes of paragraph (1), the Secretary shall, subject to clause (ii), include any non-Federal contributions provided by the State for HIV-related services, without regard to whether the contributions are made for programs established pursuant to this subchapter;
 
-&emsp;&emsp;(ii) In making a determination for purposes of clause (i), the Secretary may not include any non-Federal contributions provided by the State as a condition of receiving Federal funds under any program under this subchapter (except for the program established in this part) or under other provisions of law.
+&emsp;&emsp;(ii) In making a determination for purposes of clause (i), the Secretary may not include any non-Federal contributions provided by the State as a condition of receiving Federal funds under any program under this subchapter (except for the program established in section 300ff–21 of this title) or under other provisions of law.
 
 #### (3) Applicability of requirement
 
 #### (A) Number of cases
 
-&emsp;&emsp;A State referred to in paragraph (1) is any State for which the number of cases of acquired immune deficiency syndrome reported to and confirmed by the Director of the Centers for Disease Control and Prevention for the period described in subparagraph (B) constitutes in excess of 1 percent of the aggregate number of such cases reported to and confirmed by the Director for such period for the United States.
+&emsp;&emsp;A State referred to in paragraph (1) is any State for which the number of cases of HIV/AIDS reported to and confirmed by the Director of the Centers for Disease Control and Prevention for the period described in subparagraph (B) constitutes in excess of 1 percent of the aggregate number of such cases reported to and confirmed by the Director for such period for the United States.
 
 #### (B) Period of time
 
@@ -170,21 +186,47 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (C) Puerto Rico
 
-&emsp;&emsp;For purposes of paragraph (1), the number of cases of acquired immune deficiency syndrome reported and confirmed for the Commonwealth of Puerto Rico for any fiscal year shall be deemed to be less than 1 percent.
+&emsp;&emsp;For purposes of paragraph (1), the number of cases of HIV/AIDS reported and confirmed for the Commonwealth of Puerto Rico for any fiscal year shall be deemed to be less than 1 percent.
 
 #### (4) Diminished State contribution
 
-&emsp;With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in paragraph (1), the State shall continue to be eligible to receive Federal funds under a grant under this part, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
+&emsp;With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in paragraph (1), the State shall continue to be eligible to receive Federal funds under a grant under section 300ff–21 of this title, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
 
-(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332.)
+(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2796, 2797, 2820.)
+
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(4)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(5)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Subsection (b)(2) of this section, referred to in subsec. (d)(1), was redesignated subsec. (b)(4) by Pub. L. 106–345, title II, §205(a)(1), Oct. 20, 2000, 114 Stat. 1332.
+Subsection (b)(2) of this section, referred to in subsec. (d)(1), was redesignated subsec. (b)(4) by Pub. L. 106–345, title II, §205(a)(1), Oct. 20, 2000, 114 Stat. 1332, and then subsec. (b)(5) by Pub. L. 109–415, title II, §204(c)(2), Dec. 19, 2006, 120 Stat. 2796.
 
 #### Amendments
+
+2006—Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” wherever appearing in subsecs. (a), (b), (c)(2), and (d).
+
+Subsec. (b). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+
+Subsec. (b)(4). Pub. L. 109–415, §204(c)(1)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 109–415, §204(c)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (b)(5)(G). Pub. L. 109–415, §204(c)(1)(C), added subpar. (G).
+
+Subsec. (b)(6). Pub. L. 109–415, §204(c)(2), inserted “members of a Federally recognized Indian tribe as represented in the State,” before “representatives of grantees”.
+
+Pub. L. 109–415, §204(c)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (b)(7). Pub. L. 109–415, §204(c)(1)(A), redesignated par. (6) as (7).
+
+Subsec. (b)(7)(A). Pub. L. 109–415, §204(c)(1)(D), substituted “paragraph (6)” for “paragraph (5)” and “paragraph (5)” for “paragraph (4)”.
+
+Subsec. (b)(7)(F)(ii). Pub. L. 109–415, §204(c)(3), inserted “(except for a program administered by or providing the services of the Indian Health Service)” before semicolon.
+
+Subsec. (d)(3)(A), (C). Pub. L. 109–415, §204(d), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
 
 2000—Subsec. (b)(2), (3). Pub. L. 106–345, §205(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
 
@@ -222,9 +264,11 @@ Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment o
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

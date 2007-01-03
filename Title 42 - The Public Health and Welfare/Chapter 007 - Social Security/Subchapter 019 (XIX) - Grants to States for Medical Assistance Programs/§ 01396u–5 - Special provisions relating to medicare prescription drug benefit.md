@@ -32,7 +32,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (A) In general
 
-&emsp;&emsp;Each of the 50 States and the District of Columbia for each month beginning with January 2006 shall provide for payment under this subsection to the Secretary of the product of—
+&emsp;&emsp;Each of the 50 States and the District of Columbia for each month beginning withJanuary 2006 shall provide for payment under this subsection to the Secretary of the product of—
 
 &emsp;&emsp;&emsp;(i) the amount computed under paragraph (2)(A) for the State and month;
 
@@ -84,7 +84,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The gross per capita medicaid expenditures for prescription drugs for 2003 underthis subparagraph is equal to the expenditures, including dispensing fees, for the State under this subchapter during 2003 for covered outpatient drugs, determined per full-benefit-dual-eligible-individual for such individuals not receiving medical assistance for such drugs through a medicaid managed care plan.
+&emsp;&emsp;&emsp;The gross per capita medicaid expenditures for prescription drugs for 2003 under this subparagraph is equal to the expenditures, including dispensing fees, for the State under this subchapter during 2003 for covered outpatient drugs, determined per full-benefit-dual-eligible-individual for such individuals not receiving medical assistance for such drugs through a medicaid managed care plan.
 
 #### (ii) Determination
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (2) Coverage of certain excludable drugs
 
-&emsp;In the case of medical assistance under this subchapter with respect to a covered outpatient drug (other than a covered part D drug) furnished to an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII of this chapter or an MA–PD plan under part C of such subchapter, the State may elect to provide such medicalassistance in the manner otherwise provided in the case of individuals who are not full-benefit dual eligible individuals or through an arrangement with such plan.
+&emsp;In the case of medical assistance under this subchapter with respect to a covered outpatient drug (other than a covered part D drug) furnished to an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII of this chapter or an MA–PD plan under part C of such subchapter, the State may elect to provide such medical assistance in the manner otherwise provided in the case of individuals who are not full-benefit dual eligible individuals or through an arrangement with such plan.
 
 #### (e) Treatment of territories
 
@@ -232,7 +232,7 @@ Parts A and B, referred to in subsec. (e)(3)(A)(ii)(I), probably means parts A a
 
 #### Prior Provisions
 
-A prior section 1935 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
+A prior section 1935 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
 

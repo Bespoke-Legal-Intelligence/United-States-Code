@@ -30,7 +30,7 @@ Modification of Powers; Removal.—On motion of the receiver or on its own initi
 
 (f)
 
-Priority.—If more than one court appoints a receiver for particular property, the receiverfirst qualifying under law shall be entitled to take possession, control, or custody of the property.
+Priority.—If more than one court appoints a receiver for particular property, the receiver first qualifying under law shall be entitled to take possession, control, or custody of the property.
 
 (g)
 

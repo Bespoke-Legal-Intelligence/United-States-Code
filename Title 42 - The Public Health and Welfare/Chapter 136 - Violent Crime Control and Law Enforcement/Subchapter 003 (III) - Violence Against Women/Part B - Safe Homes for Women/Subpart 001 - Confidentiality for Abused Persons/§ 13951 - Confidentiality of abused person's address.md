@@ -18,7 +18,7 @@ The regulations under subsection (a) of this section shall not prohibit the disc
 
 #### (d) Existing compilations
 
-Compilations of addresses existing at the time at which order is presented to an appropriatepostal official shall be excluded from the scope of the regulations under subsection (a) of this section.
+Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a) of this section.
 
 (Pub. L. 103–322, title IV, §40281, Sept. 13, 1994, 108 Stat. 1938.)
 

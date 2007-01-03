@@ -34,7 +34,7 @@
 
 #### (i) Witnesses
 
-&emsp;&emsp;&emsp;A witness summoned by the Secretary under this chapter shall be paid the same fees and mileage that are paid to a witness in a court of the United States.
+&emsp;&emsp;&emsp;A witness summoned by the Secretary under this chapter shall be paid the samefees and mileage that are paid to a witness in a court of the United States.
 
 #### (ii) Depositions
 

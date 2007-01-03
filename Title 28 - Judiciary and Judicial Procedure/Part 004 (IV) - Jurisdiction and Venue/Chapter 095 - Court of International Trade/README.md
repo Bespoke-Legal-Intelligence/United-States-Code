@@ -20,10 +20,6 @@
 
 1980—Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in heading for chapter 95, “Civil actions against the United States and agencies and officers thereof” for “Powers generally” in item 1581, “Civil actions commenced by the United States” for “Jurisdiction of the Customs Court” in item 1582, and added items 1583 to 1585.
 
-#### Rules of the United States Court of International Trade
-
-See Appendix to this title.
-
 
 ---
 

@@ -16,19 +16,23 @@
 
 (b) Subsection (a) of this section shall apply to an employer with respect to a plan only if—
 
-&emsp;(1) the plan is not a plan which primarily covers employees in the building and construction industry;
+&emsp;(1) the plan is amended to provide that subsection (a) of this section applies;
 
-&emsp;(2) the plan is amended to provide that subsection (a) of this section applies;
+&emsp;(2) the plan provides, or is amended to provide, that the reduction under section 411(a)(3)(E) of title 26 applies with respect to the employees of the employer; and
 
-&emsp;(3) the plan provides, or is amended to provide, that the reduction under section 411(a)(3)(E) of title 26 applies with respect to the employees of the employer; and
+&emsp;(3) the ratio of the assets of the plan for the plan year preceding the first plan year for which the employer was required to contribute to the plan to the benefit payments made during that plan year was at least 8 to 1.
 
-&emsp;(4) the ratio of the assets of the plan for the plan year preceding the first plan year for which the employer was required to contribute to the plan to the benefit payments made during that plan year was at least 8 to 1.
-
-(Pub. L. 93–406, title IV, §4210, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1226; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+(Pub. L. 93–406, title IV, §4210, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1226; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title II, §204(c)(1), Aug. 17, 2006, 120 Stat. 887.)
 
 #### Amendments
 
+2006—Subsec. (b)(1) to (4). Pub. L. 109–280 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “the plan is not a plan which primarily covers employees in the building and construction industry;”.
+
 1989—Subsec. (b)(3). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title II, §204(c)(3), Aug. 17, 2006, 120 Stat. 887, provided that: “The amendments made by this subsection \[amending this section and section 1391 of this title\] shall apply with respect to plan withdrawals occurring on or after January 1, 2007.”
 
 #### Effective Date of 1989 Amendment
 

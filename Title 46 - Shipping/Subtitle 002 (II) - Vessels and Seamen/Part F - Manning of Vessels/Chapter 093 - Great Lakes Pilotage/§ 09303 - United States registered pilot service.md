@@ -8,7 +8,7 @@
 
 &emsp;(3) agree that, if appointed as a United States registered pilot, the applicant will be available for service when required.
 
-(b) The Secretary shall issue to each registered pilot under this chapter a certificate of registration describing the areas within which the pilot may serve. The pilot shall carry the certificate when in the service of a vessel.
+(b) The Secretary shall issue to each registered pilot under this chapter a certificate ofregistration describing the areas within which the pilot may serve. The pilot shall carry the certificate when in the service of a vessel.
 
 (c) The Secretary shall prescribe by regulation the duration of validity of registration.
 
@@ -16,9 +16,11 @@
 
 (e) Subject to sections 551–559 of title 5, the Secretary may suspend or revoke a certificate of registration issued under this section if the holder fails to comply with a regulation prescribed under this chapter. Suspension or revocation of the holder's license under chapter 77 of this title includes the holder's certificate of registration.
 
-(f) The Secretary shall prescribe by regulation rates and charges for pilotage services, giving consideration to the public interest and the costs of providing the services.
+(f) The Secretary shall prescribe by regulation rates and charges for pilotage services, giving consideration to the public interest and the costs of providing the services. The Secretary shall establish new pilotage rates by March 1 of each year. The Secretary shall establish base pilotage rates by a full ratemaking at least once every 5 years and shall conduct annual reviews of such base pilotage rates, and make adjustments to such base rates, in each intervening year.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 558; Pub. L. 104–324, title VII, §735, Oct. 19, 1996, 110 Stat. 3941.)
+(g) The Secretary shall ensure that a sufficient number of individuals are assigned to carrying out subsection (f).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 558; Pub. L. 104–324, title VII, §735, Oct. 19, 1996, 110 Stat. 3941; Pub. L. 109–241, title III, §302, July 11, 2006, 120 Stat. 527.)
 
 Historical and Revision Notes
 
@@ -60,9 +62,9 @@ Subsection (f) provides for setting the rates and charges for pilotage services.
 
 #### Amendments
 
+2006—Subsec. (f). Pub. L. 109–241, §302(1), inserted at end “The Secretary shall establish new pilotage rates by March 1 of each year. The Secretary shall establish base pilotage rates by a full ratemaking at least once every 5 years and shall conduct annual reviews of such base pilotage rates, and make adjustments to such base rates, in each intervening year.”
+
+Subsec. (g). Pub. L. 109–241, §302(2), added subsec. (g).
+
 1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “4,000 gross tons”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9301, 9308 of this title; title 49 section 1133.
 

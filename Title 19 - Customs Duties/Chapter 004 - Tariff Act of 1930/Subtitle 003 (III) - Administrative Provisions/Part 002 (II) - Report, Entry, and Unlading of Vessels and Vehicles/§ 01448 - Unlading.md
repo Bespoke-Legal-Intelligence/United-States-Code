@@ -6,7 +6,7 @@ Except as provided in section 1441 of this title (relating to vessels not requir
 
 #### (b) Special delivery permit
 
-The Secretary of the Treasury is authorized to provide by regulations for the issuing of special permits for delivery, prior to formal entry therefor, of perishable articles and other articles, the immediate delivery of which is necessary.
+The Secretary of the Treasury is authorized to provide by regulations for the issuing of special permits for delivery, prior to formal entrytherefor, of perishable articles and other articles, the immediate delivery of which is necessary.
 
 (June 17, 1930, ch. 497, title IV, §448, 46 Stat. 714; Pub. L. 91–271, title III, §301(e), June 2, 1970, 84 Stat. 288; Pub. L. 103–182, title VI, §656, Dec. 8, 1993, 107 Stat. 2211.)
 
@@ -18,7 +18,7 @@ Provisions similar to those in this section concerning preliminary entries, and 
 
 Provisions for the estimation of duties, and the issuance of permits for delivery of merchandise, and provisions prescribing the contents of such permits, were contained in R.S. §2869, (as amended by act June 5, 1894, ch. 92, §2, 28 Stat. 86) and §2870, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-Provisions as to the removal of merchandise brought in any vessel from a foreign port or place, from thewharf or place where it might be landed or put, before it had been weighed, gauged, measured, etc., were contained in R.S. §2882, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provisions as to the removal of merchandise brought in any vessel from a foreign port or place, from the wharf or place where it might be landed or put, before it had been weighed, gauged, measured, etc., were contained in R.S. §2882, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

@@ -62,7 +62,7 @@ Prior sections 357 to 363 were renumbered sections 1157 to 1163 of this title, r
 
 Prior sections 401 and 402 were renumbered sections 1301 and 1302 of this title, respectively.
 
-Prior section 403, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127; Pub. L. 91–96, §2, Oct. 27, 1969, 83 Stat. 144, defined Reserve Officer Training Corps annual training duty and authorized travel to and from such duty as active military service for the purposes of chapter 11 of this title and former section 722 of this title, prior to repeal by Pub. L. 97–306, title I, §113(b)(1), (d), Oct. 14, 1982, 96 Stat. 1432, 1433, effective Oct. 1, 1982, with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after Sept. 30, 1982, and Oct. 1, 1983, with respect to deaths and disabilities incurred or aggravated before Oct. 1, 1982.
+Prior section 403, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127; Pub. L. 91–96, §2, Oct. 27, 1969, 83 Stat. 144, definedReserve Officer Training Corps annual training duty and authorized travel to and from such duty as active military service for the purposes of chapter 11 of this title and former section 722 of this title, prior to repeal by Pub. L. 97–306, title I, §113(b)(1), (d), Oct. 14, 1982, 96 Stat. 1432, 1433, effective Oct. 1, 1982, with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after Sept. 30, 1982, and Oct. 1, 1983, with respect to deaths and disabilities incurred or aggravated before Oct. 1, 1982.
 
 Prior sections 404, 410 to 418, and 421 to 423 were renumbered sections 1304, 1310 to 1318, and 1321 to 1323 of this title, respectively.
 
@@ -70,7 +70,7 @@ Prior sections 404, 410 to 418, and 421 to 423 were renumbered sections 1304, 13
 
 1996—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
 
-Subsec. (d)(10). Pub. L. 104–275, §501(d), substituted “(42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on” for “(relating tothe inclusion of women and minorities in clinical research) and of”.
+Subsec. (d)(10). Pub. L. 104–275, §501(d), substituted “(42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on” for “(relating to the inclusion of women and minorities in clinical research) and of”.
 
 #### Assessment of Use by Women Veterans of Department of Veterans Affairs Health Services
 

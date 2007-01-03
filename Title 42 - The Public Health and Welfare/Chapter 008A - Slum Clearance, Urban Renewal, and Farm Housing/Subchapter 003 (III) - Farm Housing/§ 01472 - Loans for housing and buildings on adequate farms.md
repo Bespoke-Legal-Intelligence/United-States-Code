@@ -30,7 +30,7 @@ The instruments under which the loan is made and the security given shall—
 
 &emsp;(1) provide for security upon the applicant's equity in the farm or such other security or collateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
 
-&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary,except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c) of this section;
+&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c) of this section;
 
 &emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretary determines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
 
@@ -38,7 +38,7 @@ The instruments under which the loan is made and the security given shall—
 
 #### (c) Prepayment and refinancing provisions
 
-(1)(A) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
+(1)(A) The Secretary may not accept an offer to prepay, or request refinancing in accordancewith subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
 
 &emsp;(i) fifteen years from the date on which the loan was made in the case of a loan made or insured pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and utilized for housing and related facilities which have not received assistance under section 1490a(a)(1)(B), (a)(2), or (5) of this title or section 1437f of this title; or
 
@@ -88,7 +88,7 @@ Offer to sell to nonprofit organizations and public agencies.—
 
 &emsp;(i)
 
-In general.—If the Secretary determines after a reasonable period that an agreement will not be entered into with a borrower under paragraph (4), the Secretary shall require the borrower (except as provided in subparagraph (G)) to offer to sell the assisted housing and related facilities involved to any qualified nonprofit organization or public agency at a fair market value determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the borrower. If the 2 appraisers fail to agree on the fair market value, the Secretary and the borrower shall jointly select a third appraiser, whose appraisal shall be binding on the Secretary and the borrower.
+In general.—If the Secretary determines after a reasonable period that an agreement will not be entered into with a borrower under paragraph (4), the Secretary shall require the borrower (except as provided in subparagraph (G)) to offer to sell the assisted housing and related facilities involved to any qualifiednonprofit organization or public agency at a fair market value determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the borrower. If the 2 appraisers fail to agree on the fair market value, the Secretary and the borrower shall jointly select a third appraiser, whose appraisal shall be binding on the Secretary and the borrower.
 
 &emsp;(ii)
 
@@ -140,7 +140,7 @@ Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii
 
 (F)
 
-General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
+General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes ofthis subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
 
 (G)
 
@@ -208,7 +208,7 @@ On and after November 30, 1983—
 
 (1) A loan which may be made or insured under this section with respect to housing shall be made or insured with respect to a manufactured home or with respect to a manufactured home and lot, whether such home or such home and lot is real property, personal property, or mixed real and personal property, if—
 
-&emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of theHousing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
+&emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
 
 &emsp;(B) the manufactured home, or the manufactured home and lot, meets the installation, structural, and site requirements which would apply under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\]; and
 
@@ -216,7 +216,7 @@ On and after November 30, 1983—
 
 (2) Energy conserving requirements established by the Secretary for the purpose of paragraph (1)(C) shall—
 
-&emsp;(A) reduce the operating costs for a borrower by maximizing the energy savings and be cost-effective over the life of the manufactured home or the term of the loan, whichever is shorter, taking into account variations in climate, types of energy used, the cost to modify the home to meet such requirements, and the estimated value of the energy saved over the term of the mortgage; and
+&emsp;(A) reduce the operating costs for a borrower by maximizing the energy savings and be cost-effective over the life of the manufacturedhome or the term of the loan, whichever is shorter, taking into account variations in climate, types of energy used, the cost to modify the home to meet such requirements, and the estimated value of the energy saved over the term of the mortgage; and
 
 &emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
 
@@ -274,7 +274,7 @@ On and after November 30, 1983—
 
 &emsp;(A) In providing guaranteed loans under this subsection, the Secretary shall give priority to first-time homebuyers (as defined in paragraph (13)).
 
-&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is a first-time homebuyer successfully complete a program of homeownership counseling undersection 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
+&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is a first-time homebuyer successfully complete a program of homeownership counseling under section 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
 
 #### (6) Eligible lenders
 
@@ -358,7 +358,7 @@ On and after November 30, 1983—
 
 #### (D) Amount
 
-&emsp;&emsp;To be eligible for a guarantee under this paragraph, the principal obligation under the refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
+&emsp;&emsp;To be eligible for a guarantee under this paragraph, the principal obligation underthe refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
 
 #### (E) Other requirements
 
@@ -420,7 +420,7 @@ Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before perio
 
 Subsec. (h)(6)(C). Pub. L. 105–276, §599C(f), which directed the striking out of “, subject to the maximum dollar amount limitation of section 203(b)(2) of the National Housing Act” each place it appeared, was executed by striking out “, subject to the maximum dollar limitation of section 203(b)(2) of the National Housing Act” after “whichever is less” in cl. (i) and after “Secretary shall determine” in cl. (ii), to reflect the probable intent of Congress.
 
-1996—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
+1996—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause maynot be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
 
 Subsec. (c)(4)(C). Pub. L. 104–180, §734(c)(3)(B), in introductory provisions substituted “The Secretary may approve assistance under subparagraph (B) for assisted housing only if the restrictive period has expired for any loan for the housing made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and the Secretary determines that the combination of assistance provided—” for “The Secretary may approve assistance under subparagraph (B) only if the Secretary determines that the combination of assistance provided—”.
 
@@ -498,7 +498,7 @@ Subsec. (c). Pub. L. 96–153, §503(b), added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §599C(g), Oct. 21, 1998, 112 Stat. 2663, provided that: “The amendments made by this section \[amending this section and sections 1479, 1483 to 1485, 1490a, 1490j, and 1490p–2 of this title\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §599C(g), Oct. 21, 1998, 112 Stat. 2663, provided that: “The amendments made bythis section \[amending this section and sections 1479, 1483 to 1485, 1490a, 1490j, and 1490p–2 of this title\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective Date of 1984 Amendment
 

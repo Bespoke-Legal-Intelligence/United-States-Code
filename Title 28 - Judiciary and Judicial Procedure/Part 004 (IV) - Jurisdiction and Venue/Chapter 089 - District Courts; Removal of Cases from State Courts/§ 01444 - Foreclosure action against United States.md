@@ -1,6 +1,6 @@
 ### §1444. Foreclosure action against United States
 
-Any action brought under section 2410 of this title against the United States in any State court may be removed by the United States to the district court of the United States for thedistrict and division in which the action is pending.
+Any action brought under section 2410 of this title against the United States in any State court may be removed by the United States to the district court of the United States for the district and division in which the action is pending.
 
 (June 25, 1948, ch. 646, 62 Stat. 938; May 24, 1949, ch. 139, §82, 63 Stat. 101.)
 

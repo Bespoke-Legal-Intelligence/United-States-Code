@@ -32,7 +32,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (A) Schools with Internet safety policies and technology protection measures in place
 
-&emsp;&emsp;A local educational agency with responsibility for a school covered by subsection\(a) of this section that has in place an Internet safety policy meeting the requirements of subsection (a) of this section shall certify its compliance with subsection (a) of this section during each annual program application cycle under this chapter.
+&emsp;&emsp;A local educational agency with responsibility for a school covered by subsection (a) of this section that has in place an Internet safety policy meeting the requirements of subsection (a) of this section shall certify its compliance with subsection (a) of this section during each annual program application cycle under this chapter.
 
 #### (B) Schools without Internet safety policies and technology protection measures in place
 

@@ -20,7 +20,7 @@ Pub. L. 101–110 substituted “1990” for “1989”.
 
 1986—Subsec. (a). Pub. L. 99–576 amended first sentence generally. Prior to amendment, first sentence read as follows: “There is hereby authorized to be appropriated $15,000,000 for fiscal year 1980 and such sums as may be necessary for fiscal year 1981 and for each of the five succeeding fiscal years.”
 
-1982—Subsec. (a). Pub. L. 97–251 substituted “for fiscal year 1980 and such sums as may be necessary for fiscal year 1981 and for each of the five succeeding fiscal years” for “for the fiscal year ending September 30, 1978, a like sum for each of the two succeeding fiscal years, and such sums as may be necessary for the fiscal years ending September 30, 1981, and September 30, 1982”.
+1982—Subsec. (a). Pub. L. 97–251 substituted “for fiscal year 1980 and such sums as may be necessary for fiscal year 1981 and for each of the five succeeding fiscal years” for “for the fiscal year ending September 30, 1978, a like sum for each of the two succeeding fiscal years, and such sums as may be necessary for the fiscalyears ending September 30, 1981, and September 30, 1982”.
 
 1979—Subsec. (a). Pub. L. 96–151 inserted provisions extending authorization of a like sum from one to two years, and provisions authorizing to be appropriated such sums as necessary for the fiscal years ending Sept. 30, 1981, and Sept. 30, 1982.
 

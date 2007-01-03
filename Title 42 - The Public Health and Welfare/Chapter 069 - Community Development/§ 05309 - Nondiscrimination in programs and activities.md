@@ -32,7 +32,7 @@ The provisions of this section and section 5304(b)(2) of this title which relate
 
 The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended.Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Amendments
 
@@ -40,9 +40,9 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 
 Subsec. (e). Pub. L. 109–163, §1058(d)(2), added subsec. (e).
 
-2005—Subsec. (b). Pub. L. 109–148, §8126(d)(1), which directed amendment identical to amendment by Pub. L. 109–163, §1058(d)(1), was not executed. See 2006 Amendment note above.
+2005—Subsec. (b). Pub. L. 109–148, §8126(d)(1), which directed amendment identical to amendment by Pub. L. 109–163, §1058(d)(1), was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
 
-Subsec. (e). Pub. L. 109–148, §8126(d)(2), which directed addition of subsec. (e) substantially identical to subsec. (e) added by Pub. L. 109–163, §1058(d)(2), was not executed. See 2006 Amendment note above.
+Subsec. (e). Pub. L. 109–148, §8126(d)(2), which directed addition of subsec. (e) substantially identical to subsec. (e) added by Pub. L. 109–163, §1058(d)(2), was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
 
 1990—Subsec. (a). Pub. L. 101–625, §912(a), inserted “religion,” after “national origin,”.
 
@@ -57,4 +57,8 @@ Section 912(b) of Pub. L. 101–625 provided that: “The amendment made by subs
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
+
+#### Reconciliation of Duplicate Enactments
+
+Pub. L. 109–364, div. A, title X, §1071(f)(2), Oct. 17, 2006, 120 Stat. 2402, provided that: “In executing to section 109 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5309\] the identical amendments made by section 8126(d) of Public Law 109–148 (119 Stat. 2730) and section 1058(d) of Public Law 109–163 (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
 

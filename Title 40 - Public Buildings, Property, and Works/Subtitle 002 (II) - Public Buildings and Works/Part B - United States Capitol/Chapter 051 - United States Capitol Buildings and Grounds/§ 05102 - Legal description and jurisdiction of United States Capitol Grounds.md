@@ -10,7 +10,7 @@ Jurisdiction.—
 
 &emsp;(1)
 
-Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
+Architect of the capitol.—The jurisdiction and control over the Grounds, vestedprior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ In general.—The Mayor of the District of Columbia is responsible for the maint
 
 &emsp;&emsp;(B)
 
-Repair and maintenance of utility services.—The Mayor may enter any part ofthe Grounds to repair or maintain or, subject to the approval of the Architect, construct or alter, any utility service of the District of Columbia Government.
+Repair and maintenance of utility services.—The Mayor may enter any part of the Grounds to repair or maintain or, subject to the approval of the Architect, construct or alter, any utility service of the District of Columbia Government.
 
 (c)
 
@@ -47,6 +47,10 @@ Maintenance and improvements.—Notwithstanding subsections (a) and (b), jurisdi
 Authority not limited.—Nothing in this subsection shall limit the authority of the Architect of the Capitol under section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c).<sup>1</sup>
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364.)
+
+#### Definition of United States Capitol Grounds
+
+<i>For provisions directing amendment of this section (or section 1 of the Act of July 31, 1946, as amended (former 40 U.S.C. 193a), which was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as this section) to include within or exclude from the definition of the United States Capitol Grounds certain parcels or areas, see notes set out below and under section 6101 of this title.</i>
 
 Historical and Revision Notes
 
@@ -77,6 +81,166 @@ Section 307E of the Legislative Branch Appropriations Act, 1989, referred to in 
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1016(d) of Pub. L. 108–7, set out as a note under section 1961 of Title 2, The Congress.
+
+#### Transfers and Conveyances Affecting Properties in the District of Columbia and General Provisions
+
+Pub. L. 109–396, title II, §§201, 204, title IV, §§401–407, Dec. 15, 2006, 120 Stat. 2713, 2715, 2718–2720, provided that:
+
+#### “SEC. 201. TRANSFER OF ADMINISTRATIVE JURISDICTION OVER CERTAIN PROPERTIES.
+
+“(a)
+
+Transfer of Administrative Jurisdiction From District of Columbia to United States.—
+
+&emsp;“(1)
+
+In general.—Administrative jurisdiction over each of the following properties (owned by the United States and as depicted on the Map) is hereby transferred, subject to the terms in this subsection, from the District of Columbia to the Secretary of the Interior for administration by the Director:
+
+&emsp;&emsp;“(A) An unimproved portion of Audubon Terrace Northwest, located east of Linnean Avenue Northwest, that is within U.S. Reservation 402 (National Park Service property).
+
+&emsp;&emsp;“(B) An unimproved portion of Barnaby Street Northwest, north of Aberfoyle Place Northwest, that abuts U.S. Reservation 545 (National Park Service property).
+
+&emsp;&emsp;“(C) A portion of Canal Street Southwest, and a portion of V Street Southwest, each of which abuts U.S. Reservation 467 (National Park Service property).
+
+&emsp;&emsp;“(D) Unimproved streets and alleys at Fort Circle Park located within the boundaries of U.S. Reservation 497 (National Park Service property).
+
+&emsp;&emsp;“(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
+
+&emsp;&emsp;“(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
+
+&emsp;&emsp;“(G) An unimproved portion of 30th Street Northwest, north of Broad Branch Road Northwest, that is within the boundaries of U.S. Reservation 515 (National Park Service property).
+
+&emsp;&emsp;“(H) Subject to paragraph (2), lands over I–395 bounded by Washington Avenue Southwest, 2nd Street Southwest, and the C Street Southwest ramps to I–295.
+
+&emsp;&emsp;“(I) A portion of U.S. Reservation 357 at Whitehaven Parkway Northwest, previously transferred to the District of Columbia in conjunction with the former proposal for a residence for the Mayor of the District of Columbia.
+
+&emsp;“(2)
+
+Use of certain property for memorial.—In the case of the property for which administrative jurisdiction is transferred under paragraph (1)(H), the property shall be used as the site for the establishment of a memorial to honor disabled veterans of the United States Armed Forces authorized to be established by the Disabled Veterans’ LIFE Memorial Foundation by Public Law 106–348 (114 Stat. 1358; 40 U.S.C. 8903 note), except that—
+
+&emsp;&emsp;“(A) the District of Columbia shall retain administrative jurisdiction over the subsurface area beneath the site for the tunnel, walls, footings, and related facilities;
+
+&emsp;&emsp;“(B) C Street Southwest shall not be connected between 2nd Street Southwest and Washington Avenue Southwest without the approval of the Architect of the Capitol; and
+
+&emsp;&emsp;“(C) a walkway shall be included across the site of the memorial between 2nd Street Southwest and Washington Avenue Southwest.
+
+&emsp;“(3)
+
+Additional transfer.—
+
+&emsp;&emsp;“(A)
+
+In general.—Administrative jurisdiction over the parcel bounded by 2nd Street Southwest, the C Street Southwest ramp to I–295, the D Street Southwest ramp to I–395, and I–295 is hereby transferred, subject to the terms in this paragraph, from the District of Columbia as follows:
+
+&emsp;&emsp;&emsp;“(i) The northernmost .249 acres is transferred to the Secretary for administration by the Director, who (subject to the approval of the Architect of the Capitol) shall landscape the parcel or use the parcel for special needs parking for the memorial referred to in paragraph (2).
+
+&emsp;&emsp;&emsp;“(ii) The remaining portion is transferred to the Architect of the Capitol.
+
+&emsp;&emsp;“(B)
+
+Retention of jurisdiction over subsurface area.—The District of Columbia shall retain administrative jurisdiction over the subsurface area beneath the parcel referred to in subparagraph (A) for the tunnel, walls, footings, and related facilities.
+
+“(b)
+
+Transfer of Administrative Jurisdiction From United States to District of Columbia.—Administrative jurisdiction over the following property owned by the United States and depicted on the Map is hereby transferred from the Secretary to the District of Columbia for administration by the District of Columbia:
+
+&emsp;“(1) A portion of U.S. Reservation 451.
+
+&emsp;“(2) A portion of U.S. Reservation 404.
+
+&emsp;“(3) U.S. Reservations 44, 45, 46, 47, 48, and 49.
+
+&emsp;“(4) U.S. Reservation 251.
+
+&emsp;“(5) U.S. Reservation 8.
+
+&emsp;“(6) U.S. Reservations 277A and 277C.
+
+&emsp;“(7) Portions of U.S. Reservation 470.
+
+“(c)
+
+Effective Date.—The transfers of administrative jurisdiction under this section shall take effect on the date of the enactment of this Act \[Dec. 15, 2006\].
+
+#### “SEC. 204. CONVEYANCE TO ARCHITECT OF THE CAPITOL.
+
+“(a)
+
+In General.—Prior to conveyance of title to U.S. Reservation 13 to the District of Columbia under this Act \[see Pub. L. 109–396, title I, §101, Dec. 15, 2006, 120 Stat. 2711\], the District of Columbia shall convey, with the approval of the Architect of the Capitol and subject to subsections (b) and (c), not more than 12 acres of real property to the Architect of the Capitol.
+
+“(b)
+
+Title Held by Secretary.—If title to the real property identified for conveyance under subsection (a) is held by the Secretary, not later than 30 days after being notified by the Architect of the Capitol that property has been so identified, the Secretary shall agree or disagree to conveying the interest in such property to the Architect of the Capitol.
+
+“(c)
+
+Review.—If the Secretary agrees to the conveyance under subsection (b), or if title to the property is held by the District of Columbia, the real property shall be conveyed after a 30-day review period beginning on the date on which notice of the conveyance is received by the Committee on Homeland Security and Governmental Affairs and the Committee on Rules of the Senate and the Committee on Government Reform and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+“(d)
+
+Study.—The Architect of the Capitol shall not construct a mail screening facility on any real property conveyed under this section unless each of the following conditions is satisfied:
+
+&emsp;“(1) A study is completed that analyzes—
+
+&emsp;&emsp;“(A) whether one or more other underutilized, surplus, or excess Federal facilities exist in which such a mail screening facility could be more economically located; and
+
+&emsp;&emsp;“(B) whether it would be more efficient and economical for the House of Representatives and Senate to share one mail screening facility.
+
+&emsp;“(2) The study is submitted to the relevant committees of Congress.
+
+&emsp;“(3) No fewer than 30 days have lapsed since the date of the submission under paragraph (2).
+
+#### “SEC. 401. DEFINITIONS.
+
+“In this Act \[see Short Title of 2006 Amendment note set out under section 101 of this title\], the following definitions apply:
+
+&emsp;“(1) The term ‘Administrator’ means the Administrator of General Services.
+
+&emsp;“(2) The term ‘Director’ means the Director of the National Park Service.
+
+&emsp;“(3) The term ‘Map’ means the map entitled ‘Transfer and Conveyance of Properties in the District of Columbia’, numbered 869/80460, and dated July 2005, which shall be kept on file in the appropriate office of the National Park Service.
+
+&emsp;“(4) The term ‘park purposes’ includes landscaped areas, pedestrian walkways, bicycle trails, seating, opensided shelters, natural areas, recreational use areas, and memorial sites reserved for public use.
+
+&emsp;“(5) The term ‘Secretary’ means the Secretary of the Interior.
+
+#### “SEC. 402. LIMITATION ON COSTS.
+
+“The United States shall not be responsible for paying any costs and expenses, other than costs and expenses related to or associated with environmental liabilities or cleanup actions provided under law, which are incurred by the District of Columbia or any other parties at any time in connection with effecting the provisions of this Act or any amendment made by this Act.
+
+#### “SEC. 403. AUTHORIZATION OF PARTIES TO ENTER INTO CONTRACTS.
+
+“An officer or employee of the United States or the District of Columbia may contract for payment of costs or expenses related to any properties which are conveyed or for which administrative jurisdiction is transferred under this Act or any amendment made by this Act.
+
+#### “SEC. 404. NO EFFECT ON COMPLIANCE WITH ENVIRONMENTAL LAWS.
+
+“Nothing in this Act or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
+
+#### “SEC. 405. CONGRESSIONAL REPORTS.
+
+“(a)
+
+District of Columbia.—Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
+
+“(b)
+
+Comptroller General.—The Comptroller General shall report periodically to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on—
+
+&emsp;“(1) the use and development during the previous 2 years of land for which title is conveyed and land for which administrative jurisdiction is transferred pursuant to this Act; and
+
+&emsp;“(2) if applicable, how such use and development complies with the Anacostia Waterfront Framework Plan referred to in section 103 of the Anacostia Waterfront Corporation Act of 2004 (sec. 2–1223.03, D.C. Official Code).
+
+“(c)
+
+Sunset.—This section shall expire 10 years after the date of enactment of this Act \[Dec. 15, 2006\].
+
+#### “SEC. 406. TREATMENT AS PROPERTIES TRANSFERRED TO ARCHITECT OF THE CAPITOL AS PART OF CAPITOL BUILDINGS AND GROUNDS.
+
+“Upon transfer to the Architect of the Capitol of title to, or administrative jurisdiction over, any property pursuant to this Act, the property shall be a part of the United States Capitol Grounds and shall be subject to sections 9, 9A, 9B, 9C, 14, and 16(b) of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’ \[2 U.S.C. 1961, 1966, 1967, 1922, 1969, 1961 note\] (relating to the policing of the United States Capitol Grounds) and sections 5101 to 5107 and 5109 of title 40, United States Code (relating to prohibited acts within the United States Capitol Grounds).
+
+#### “SEC. 407. DEADLINE FOR PROVISION OF DEEDS AND RELATED DOCUMENTS.
+
+“With respect to each property conveyed under this Act or any amendment made by this Act, the Mayor of the District of Columbia, the Administrator, or the Secretary (as the case may be) shall execute and deliver a quitclaim deed or prepare and record a transfer plat, as appropriate, not later than 6 months after the property is conveyed.”
 
 #### Changes in United States Capitol Grounds
 
@@ -228,7 +392,7 @@ Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided: “That section 1 of t
 
 “(4) All sidewalks and contiguous areas presently under the jurisdiction of the District of Columbia located on the east side of Third Street between the south curb of Pennsylvania Avenue, Northwest and the north curb of Maryland Avenue, Southwest.”
 
-Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the following additional areas and portions of streets which are situated as follows:
+Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1 of the Act of July 31, 1946, as amended\(40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the following additional areas and portions of streets which are situated as follows:
 
 “(1) that portion of D Street Northeast from the east curb of Second Street Northeast to the east curb of First Street Northeast;
 
@@ -290,7 +454,7 @@ Pub. L. 96–432, §6(a), (b), Oct. 10, 1980, 94 Stat. 1853, provided that:
 
 #### Architect of the Capitol; Acquisition of Additional Property
 
-Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 64, provided in part: “That upon acquisition of such real property pursuant to this paragraph \[incorporating by reference the provisions of Pub. L. 96–432, Oct. 10, 1980, 94 Stat. 1851, which related to the acquisition of property in squares 693, 640, and 582 in the District of Columbia\], the structure located on lot 801 of square 693 shall become a part of the House Office Buildings, subject to the provisions of the Act of July 31, 1946 (40 U.S.C. secs. 193a through 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], including any amendments thereto, which are applicable to the Capitol Buildings, and to the Act of March 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].”
+Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 64, provided in part: “That upon acquisition of such real property pursuant to this paragraph \[incorporating by reference the provisions of Pub. L. 96–432, Oct. 10, 1980, 94 Stat. 1851, which related to the acquisition of property in squares 693, 640, and 582 in the District of Columbia\], the structure located on lot 801 of square 693 shall become a part of the House Office Buildings, subject to the provisions of the Act of July 31, 1946 (40 U.S.C. secs. 193a through 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C.5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], including any amendments thereto, which are applicable to the Capitol Buildings, and to the Act of March 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].”
 
 Pub. L. 96–432, §§7–10, Oct. 10, 1980, 94 Stat. 1853, 1854, provided that:
 
@@ -338,7 +502,7 @@ WHEREAS, Squares 732 north and south were acquired as an addition to the Capitol
 
 WHEREAS, the aforesaid Additional House Office Building Act provides, in pertinent part, with respect to these properties, as follows:
 
-&emsp;“\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\]and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\].”
+&emsp;“\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\].”
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 

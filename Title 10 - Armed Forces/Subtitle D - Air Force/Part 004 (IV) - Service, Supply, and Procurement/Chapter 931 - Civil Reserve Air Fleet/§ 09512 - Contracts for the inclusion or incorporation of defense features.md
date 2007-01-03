@@ -58,7 +58,7 @@ The text of subsecs. (a) and (b) of section 9513 of this title, which were redes
 
 Subsec. (b). Pub. L. 103–355, §3032(6), inserted heading and substituted “entered into under this section” for “under section 9512 of this title” in introductory provisions.
 
-Pub. L. 103–355, §3032(4), redesignated subsec. (a) of section 9513 of this title as subsec. (b) of this section. Former subsec. (b) redesignated (c). See Codification note above.
+Pub. L. 103–355, §3032(4), redesignated subsec. (a) of section 9513 of this title as subsec. (b) of this section.Former subsec. (b) redesignated (c). See Codification note above.
 
 Subsec. (b)(4). Pub. L. 103–272 substituted “section 44103 of title 49” for “section 501 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1401)”.
 

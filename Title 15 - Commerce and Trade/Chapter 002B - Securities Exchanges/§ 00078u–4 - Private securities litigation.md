@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) states that the plaintiff has reviewed the complaint and authorized its filing;
 
-&emsp;&emsp;&emsp;(ii) states that the plaintiff did not purchase the security that is the subject of the complaint at the direction of plaintiff's counsel or in order to participate in any private action arising under this chapter;
+&emsp;&emsp;&emsp;(ii) states that the plaintiff did not purchase the security that is the subject of the complaint at the direction of plaintiff's counsel or in order to participate inany private action arising under this chapter;
 
 &emsp;&emsp;&emsp;(iii) states that the plaintiff is willing to serve as a representative party on behalf of a class, including providing testimony at deposition and trial, if necessary;
 
@@ -88,7 +88,7 @@
 
 #### (vi) Restrictions on professional plaintiffs
 
-&emsp;&emsp;&emsp;Except as the court may otherwise permit, consistent with the purposes of this section, a person may be a lead plaintiff, or an officer, director, or fiduciary of a lead plaintiff, in no more than 5 securities class actions brought as plaintiff class actions pursuant to the Federal Rules of Civil Procedure during any 3-year period.
+&emsp;&emsp;&emsp;Except as the court may otherwise permit, consistent with the purposes of thissection, a person may be a lead plaintiff, or an officer, director, or fiduciary of a lead plaintiff, in no more than 5 securities class actions brought as plaintiff class actions pursuant to the Federal Rules of Civil Procedure during any 3-year period.
 
 #### (4) Recovery by plaintiffs
 
@@ -292,13 +292,13 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months aftera final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 
 &emsp;&emsp;&emsp;Each covered person shall be jointly and severally liable for the uncollectible share if the plaintiff establishes that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the finaljudgment are equal to more than 10 percent of the net worth of the plaintiff; and
+&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the final judgment are equal to more than 10 percent of the net worth of the plaintiff; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the net worth of the plaintiff is equal to less than $200,000.
 
@@ -372,7 +372,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;&emsp;(II) persons are likely to reasonably rely on that misrepresentation or omission; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances thatmake the conduct of that covered person a violation of the securities laws;
+&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances that make the conduct of that covered person a violation of the securities laws;
 
 &emsp;&emsp;(B) reckless conduct by a covered person shall not be construed to constitute a knowing commission of a violation of the securities laws by that covered person;
 

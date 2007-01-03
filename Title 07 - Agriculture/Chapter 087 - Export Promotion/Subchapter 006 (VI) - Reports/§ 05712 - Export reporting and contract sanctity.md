@@ -68,5 +68,5 @@ Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out “in accordance with su
 
 #### Termination Date of 1999 Amendment
 
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2005, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2010, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 

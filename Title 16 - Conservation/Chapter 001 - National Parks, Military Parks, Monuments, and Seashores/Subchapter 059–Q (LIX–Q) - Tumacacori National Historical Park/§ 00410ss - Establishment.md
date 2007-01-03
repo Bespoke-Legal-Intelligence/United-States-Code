@@ -32,7 +32,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(1) Tumacacori Mission in southern Arizona was declared a National Monument in 1908 in recognition of its great historical significance as ‘one of the oldest mission ruins in the southwest’.
 
-&emsp;“(2) In establishing Tumacacori National Historical Park in 1990 to include the Tumacacori Mission and the ruins of the mission of Los Santos Angeles de Guevavi and the Kino visita and rancheria of Calabazas, Congress recognized the importance of these sites ‘to protect and interpret, for the education and benefit of the public, sites in the State of Arizona associated with the early Spanish missionaries and explorers of the 17th and 18th centuries’.
+&emsp;“(2) In establishing Tumacacori National Historical Park in 1990 to include the Tumacacori Mission and the ruins of the mission of Los Santos Angeles de Guevavi and the Kino visita and rancheria ofCalabazas, Congress recognized the importance of these sites ‘to protect and interpret, for the education and benefit of the public, sites in the State of Arizona associated with the early Spanish missionaries and explorers of the 17th and 18th centuries’.
 
 &emsp;“(3) Tumacacori National Historical Park plays a major role in interpreting the Spanish colonial heritage of the United States.
 

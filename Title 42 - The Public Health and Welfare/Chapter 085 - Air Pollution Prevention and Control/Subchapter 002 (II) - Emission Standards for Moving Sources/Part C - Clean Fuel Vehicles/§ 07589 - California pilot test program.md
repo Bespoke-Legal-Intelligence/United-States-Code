@@ -14,7 +14,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 #### (1) Clean-fuel vehicles
 
-&emsp;Clean-fuel vehicles shall be produced, sold, and distributed (in accordance with normalbusiness practices and applicable franchise agreements) to ultimate purchasers in California (including owners of covered fleets referred to in section 7586 of this title) in numbers that meet or exceed the following schedule:
+&emsp;Clean-fuel vehicles shall be produced, sold, and distributed (in accordance with normal business practices and applicable franchise agreements) to ultimate purchasers in California (including owners of covered fleets referred to in section 7586 of this title) in numbers that meet or exceed the following schedule:
 
 &nbsp;
 
@@ -31,7 +31,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 &emsp;(C) The State may also by regulation establish specifications for any clean alternative fuel produced and made available under this paragraph as the State finds necessary to reduce or eliminate an unreasonable risk to public health, welfare, or safety associated with its use or to ensure acceptable vehicle maintenance and performance characteristics.
 
-&emsp;(D) If a retail gasoline dispensing facility would have to remove or replace one or more motor vehicle fuel underground storage tanks and accompanying piping in order to comply with the provisions of this section, and it had removed and replaced such tank or tanks and accompanying piping in order to comply with subtitle I of the Solid Waste Disposal Act \[42 U.S.C. 6991 et seq.\] prior to November 15, 1990, it shall not be required to comply with this subsection until a period of 7 years has passed from the date of the removal and replacement of such tank or tanks.
+&emsp;(D) If a retail gasoline dispensing facility would have to remove or replace one or moremotor vehicle fuel underground storage tanks and accompanying piping in order to comply with the provisions of this section, and it had removed and replaced such tank or tanks and accompanying piping in order to comply with subtitle I of the Solid Waste Disposal Act \[42 U.S.C. 6991 et seq.\] prior to November 15, 1990, it shall not be required to comply with this subsection until a period of 7 years has passed from the date of the removal and replacement of such tank or tanks.
 
 &emsp;(E) Nothing in this section authorizes any State other than California to adopt provisions regarding clean alternative fuels.
 
@@ -55,7 +55,7 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 #### (e) Program evaluation
 
-(1) Not later than June 30, 1994 and again in connection with the report under paragraph (2), the Administrator shall provide a report to the Congress on the status of the California Air Resources Board Low-Emissions Vehicles andClean Fuels Program. Such report shall examine the capability, from a technological standpoint, of motor vehicle manufacturers and motor vehicle fuel suppliers to comply with the requirements of such program and with the requirements of the California Pilot Program under this section.
+(1) Not later than June 30, 1994 and again in connection with the report under paragraph (2), the Administrator shall provide a report to the Congress on the status of the California Air Resources Board Low-Emissions Vehicles and Clean Fuels Program. Such report shall examine the capability, from a technological standpoint, of motor vehicle manufacturers and motor vehicle fuel suppliers to comply with the requirements of such program and with the requirements of the California Pilot Program under this section.
 
 (2) Not later than June 30, 1998, the Administrator shall complete and submit a report to Congress on the effectiveness of the California pilot program under this section. The report shall evaluate the level of emission reductions achieved under the program, the costs of the program, the advantages and disadvantages of extending the program to other nonattainment areas, and desirability of continuing or expanding the program in California.
 

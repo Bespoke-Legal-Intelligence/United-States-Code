@@ -10,7 +10,3 @@ The Commission may authorize any of its employees, or employees of any contracto
 
 1956—Act Aug. 6, 1956, inserted “or any other person authorized access to Restricted Data by the Commission under section 2165(b) of this title”.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

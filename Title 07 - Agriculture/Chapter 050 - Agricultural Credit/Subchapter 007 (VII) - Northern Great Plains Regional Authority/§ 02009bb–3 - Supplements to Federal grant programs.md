@@ -24,7 +24,7 @@ Notwithstanding any provision of law limiting the Federal share, the areas eligi
 
 &emsp;&emsp;(A) meets (except as provided in subsection (b) of this section) the applicable requirements of the applicable Federal grant program; and
 
-&emsp;&emsp;(B) could be approved for Federal contribution under the Federal grant program if funds were available under the law for the project.
+&emsp;&emsp;(B) could be approved for Federal contribution under the Federal grant program iffunds were available under the law for the project.
 
 #### (2) Certification by Authority
 

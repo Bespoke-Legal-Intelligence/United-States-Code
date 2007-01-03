@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses with intent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
+In General.—Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses withintent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
 
 &emsp;(1)(A) depicts a minor engaging in sexually explicit conduct; and
 

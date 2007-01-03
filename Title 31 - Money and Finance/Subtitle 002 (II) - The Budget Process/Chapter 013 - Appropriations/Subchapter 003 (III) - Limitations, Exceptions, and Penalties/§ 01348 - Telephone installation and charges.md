@@ -64,7 +64,7 @@ Subsecs. (b) to (d). Pub. L. 104–201, §1721(2), (3), redesignated subsecs. (c
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, setout as a note under section 5722 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1984 Amendment
 
@@ -72,5 +72,5 @@ Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subse
 
 #### Employees Authorized To Work at Home
 
-Pub. L. 104–52, title VI, §620, Nov. 19, 1995, 109 Stat. 501, provided that: “Notwithstanding any provisions ofthis or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: <i>Provided</i>, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission.”
+Pub. L. 104–52, title VI, §620, Nov. 19, 1995, 109 Stat. 501, provided that: “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: <i>Provided</i>, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission.”
 

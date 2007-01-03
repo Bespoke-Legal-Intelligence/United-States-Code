@@ -18,7 +18,7 @@ Another prior section 1509, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub.
 
 Prior section 1510 was renumbered section 3110 of this title.
 
-Another prior section 1510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, §104(10), Oct. 15, 1976, 90 Stat. 2384, related to vocational rehabilitation of persons hospitalized pending final discharge from the active military, naval, or air service, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of chapter 31of this title, provided that this prior section 1510 continue in effect until Mar. 31, 1981. See section 3113 of this title.
+Another prior section 1510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub. L. 94–502, title I, §104(10), Oct. 15, 1976, 90 Stat. 2384, related to vocational rehabilitation of persons hospitalized pending final discharge from the active military, naval, or air service, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of chapter 31 of this title, provided that this prior section 1510 continue in effect until Mar. 31, 1981. See section 3113 of this title.
 
 #### Amendments
 

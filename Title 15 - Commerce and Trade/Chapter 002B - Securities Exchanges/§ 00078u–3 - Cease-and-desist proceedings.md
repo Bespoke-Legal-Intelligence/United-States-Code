@@ -58,7 +58,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (1) Commission review
 
-&emsp;At any time after the respondent has been served with a temporary cease-and-desist order pursuant to subsection (c) of this section, the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, therespondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
+&emsp;At any time after the respondent has been served with a temporary cease-and-desist order pursuant to subsection (c) of this section, the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
 
 #### (2) Judicial review
 

@@ -126,7 +126,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (B) Applicability of milestones
 
-&emsp;&emsp;In applying the thermal efficiency milestones under paragraphs (1)(B)(ii)(IV),\(2)(B)(ii)(IV), and (4) to projects that separate and capture at least 50 percent of the potential emissions of carbon dioxide by a facility, the energy used for separation and capture of carbon dioxide shall not be counted in calculating the thermal efficiency.
+&emsp;&emsp;In applying the thermal efficiency milestones under paragraphs (1)(B)(ii)(IV), (2)(B)(ii)(IV), and (4) to projects that separate and capture at least 50 percent of the potential emissions of carbon dioxide by a facility, the energy used for separation and capture of carbon dioxide shall not be counted in calculating the thermal efficiency.
 
 #### (C) Permitted uses
 

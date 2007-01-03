@@ -4,7 +4,7 @@
 
 Board of Governors.—(1) The board of governors is the governing body of the corporation with all powers of governing and managing the corporation. The board has 50 members. The governors shall be appointed or elected in the following manner:
 
-&emsp;(A) The President shall appoint eight governors, one of whom the President shall designate to act as the principal officer of the corporation with the title and functions provided in the bylaws. The other governors appointed by the President shall be officials of departments and agencies of the United States Government, whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation. Atleast one, but not more than three, of those officials shall be selected from the Armed Forces.
+&emsp;(A) The President shall appoint eight governors, one of whom the President shall designate to act as the principal officer of the corporation with the title and functions provided in the bylaws. The other governors appointed by the President shall be officials of departments and agencies of the United States Government, whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation. At least one, but not more than three, of those officials shall be selected from the Armed Forces.
 
 &emsp;(B) The chapters shall elect 30 governors at the national convention under procedures for nomination and election that ensure equitable representation of all chapters, with regard to geographical considerations, the size of the chapters, and the size of the populations served by the chapters.
 

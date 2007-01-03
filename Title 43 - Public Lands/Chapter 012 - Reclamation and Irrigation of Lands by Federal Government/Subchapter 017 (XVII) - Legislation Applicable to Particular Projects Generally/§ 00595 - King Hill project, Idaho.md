@@ -1,16 +1,16 @@
 ### §595. King Hill project, Idaho
 
-King Hill project, Idaho, shall be subject to the reclamation Act of June 17, 1902, and all Acts amendatory thereof or supplementary thereto, so far as applicable and consistent with contract made prior to July 1, 1918, between the United States and King Hill irrigation district: <i>Provided</i>, That for the purposes of issuing patent to lands reclaimed, the reclamation effected by the operations of the United States Bureau of Reclamation may be considered by the Secretary of the Interior as equivalent to reclamation effected by the State of Idaho, under section 641 of this title.
+King Hill project, Idaho, shall be subject to the reclamation Act of June seventeenth, nineteen hundred and two, and all Acts amendatory thereof or supplementary thereto, so far as applicable and consistent with contract made prior to July 1, 1918, between the United States and King Hill irrigation district: <i>Provided</i>, That for the purposes of issuing patent to lands reclaimed, the reclamation effected by the operations of the United States Reclamation Service may be considered by the Secretary of the Interior as equivalent to reclamation effected by the State of Idaho, under section 641 of this title.
 
 (July 1, 1918, ch. 113, 40 Stat. 674.)
 
 #### References in Text
 
-The reclamation Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of act of June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
+The reclamation Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of act of June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Change of Name
 
-“Reclamation Service” was changed to “Bureau of Reclamation” by order of the Secretary of the Interior in June of 1923.
+The Reclamation Service, established in July 1902, changed to the Bureau of Reclamation on June 20, 1923, then to the Water and Power Resources Service on Nov. 6, 1979, and then to the Bureau of Reclamation on May 18, 1981. See 155 Dep't of the Interior, Departmental Manual 1.1 (2008 repl.); Sec'y Hubert Work, Dep't of the Interior, Order (June 20, 1923); Sec'y Cecil D. Andrus, Dep't of the Interior, Secretarial Order 3042, §§1, 4 (Nov. 6, 1979); Sec'y James G. Watt, Dep't of the Interior, Secretarial Order 3064, §§3, 5 (May 18, 1981).
 
 #### Transfer of Functions
 

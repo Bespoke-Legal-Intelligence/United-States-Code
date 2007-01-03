@@ -170,7 +170,7 @@ In subsection (a)(2), the words “shall ensure” are substituted for “shall 
 
 In subsection (b)(2), the words “The Administrator may specify” are substituted for “The Administrator may specify . . . the Administrator determines” to eliminate unnecessary words. The words “prohibit the employment of an individual” are substituted for “make an individual ineligible for employment” for clarity.
 
-In subsection (b)(3), the words “may employ” are substituted for “It shall not be a violation of subparagraph (A) for . .  . to employ” to eliminate unnecessary words.
+In subsection (b)(3), the words “may employ” are substituted for “It shall not be a violation of subparagraph (A) for . . . to employ” to eliminate unnecessary words.
 
 In subsection (c)(1), the words “Before designating an individual to obtain and submit fingerprints or receive results of a check, the Administrator shall consult with the Attorney General” are substituted for “after consultation with the Attorney General” for clarity.
 
@@ -256,7 +256,7 @@ Subsec. (b)(1)(B)(xi). Pub. L. 106–528, §2(d)(2), inserted “or felony unarm
 
 Subsec. (b)(1)(B)(xiii) to (xv). Pub. L. 106–528, §2(d)(3)–(5), added cls. (xiii) and (xiv), redesignated former cl. (xiii) as (xv), and in cl. (xv) substituted “clauses (i) through (xiv)” for “clauses (i)–(xii) of this paragraph”.
 
-Subsec. (f)(1)(B). Pub. L. 106–181, §508(b)(1), inserted “(except a branch of the United States Armed Forces,the National Guard, or a reserve component of the United States Armed Forces)” after “other person” in introductory provisions.
+Subsec. (f)(1)(B). Pub. L. 106–181, §508(b)(1), inserted “(except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces)” after “other person” in introductory provisions.
 
 Subsec. (f)(1)(B)(ii). Pub. L. 106–181, §508(b)(2), substituted “individual's performance as a pilot” for “individual” in introductory provisions.
 
@@ -302,7 +302,7 @@ Section 304(b) of Pub. L. 104–264 provided that: “The amendment made by subs
 
 Amendment by section 502(a) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Transfer of Functions
 

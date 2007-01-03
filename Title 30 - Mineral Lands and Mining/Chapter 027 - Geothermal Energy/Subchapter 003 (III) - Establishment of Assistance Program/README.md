@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—ESTABLISHMENT OF ASSISTANCE PROGRAM
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

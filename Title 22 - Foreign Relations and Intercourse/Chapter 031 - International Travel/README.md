@@ -22,29 +22,8 @@
 |  |  |
 | :--- | ---: |
 | [2124\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2002124%20-%20Tourism%20Policy%20Council.md) | Tourism Policy Council. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | No additional compensation for Council members. |
-| (d) | Council meetings. |
-| (e) | Involvement of Federal agencies and departments. |
-| (f) | Closed meetings. |
-| (g) | Annual report. |
-| (h) | Applicability of Federal Advisory Committee Act. |
 | 2124a, 2124b. Repealed. |  |
 | [2124c.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2002124c%20-%20Rural%20Tourism%20Development%20Foundation.md) | Rural Tourism Development Foundation. |
-| (a) | Establishment of Foundation. |
-| (b) | Functions. |
-| (c) | Board of Directors. |
-| (d) | Compensation and expenses. |
-| (e) | Acceptance of gifts, devises, and bequests. |
-| (f) | Investments. |
-| (g) | Perpetual succession; liability of Board members. |
-| (h) | Contractual power. |
-| (i) | Administration. |
-| (j) | Exemption from taxes; contributions. |
-| (k) | Liability of United States. |
-| (<i>l</i>) | Annual report. |
-| (m) | Definitions. |
 | 2125 to 2129. Transferred or Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

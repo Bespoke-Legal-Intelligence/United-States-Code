@@ -84,9 +84,39 @@
 
 (j) Except as provided in subsection (i)(1) of this section, any disclosure made pursuant to this section shall be made in accordance with the provisions of section 552a of title 5.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered §5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35.)
+(k)(1)(A) Under regulations that the Secretary shall prescribe, the Secretary may disclose the name and address of any individual described in subparagraph (C) to an entity described in subparagraph (B) in order to facilitate the determination by such entity whether the individual is, or after death will be, a suitable organ, tissue, or eye donor if—
+
+&emsp;(i) the individual is near death (as determined by the Secretary) or is deceased; and
+
+&emsp;(ii) the disclosure is permitted under regulations promulgated pursuant to section 264 of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
+
+(B) An entity described in this subparagraph is—
+
+&emsp;(i) an organ procurement organization, including eye and tissue banks; or
+
+&emsp;(ii) an entity that the Secretary has determined—
+
+&emsp;&emsp;(I) is substantially similar in function, professionalism, and reliability to an organ procurement organization; and
+
+&emsp;&emsp;(II) should be treated for purposes of this subsection in the same manner as an organ procurement organization.
+
+(C) An individual described in this subparagraph is—
+
+&emsp;(i) a veteran; or
+
+&emsp;(ii) a dependent of veteran.
+
+(2) In this subsection, the term “organ procurement organization” has the meaning giventhe term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act (42 U.S.C. 273(b)).
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered §5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35; Pub. L. 109–461, title II, §204(a), Dec. 22, 2006, 120 Stat. 3411.)
+
+#### References in Text
+
+Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(1)(A)(ii), is section 264 of title II of Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2006—Subsec. (k). Pub. L. 109–461 added subsec. (k).
 
 2001—Subsec. (g)(2)(B). Pub. L. 107–14 substituted “subparagraph (A)(i)” for “clause (A)(i)”.
 
@@ -174,7 +204,7 @@ Subsec. (f). Pub. L. 94–321, §1(a)(3), (5), redesignated par. (9) as subsec. 
 
 Subsec. (g). Pub. L. 94–321, §1(a)(5), added subsec. (g).
 
-1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present or former personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
+1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present orformer personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
 
 1969—Par. (1). Pub. L. 91–24 substituted “the claimant and to an independent” for “the claimant. And to an independent”.
 
@@ -197,4 +227,8 @@ Section 1(b) of Pub. L. 94–321 provided that: “The amendments made by subsec
 #### Effective Date of 1962 Amendment
 
 Section 4 of Pub. L. 87–671 provided that: “The amendments made by this Act \[enacting section 4009 \[now 7109\] of this title and amending this section\] shall be effective January 1, 1963.”
+
+#### Regulations
+
+Pub. L. 109–461, title II, §204(c), Dec. 22, 2006, 120 Stat. 3411, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under subsection (k) of section 5701 of title 38, United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2006\].”
 

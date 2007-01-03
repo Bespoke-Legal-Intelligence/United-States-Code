@@ -2,7 +2,7 @@
 
 #### (a) Plan to expand, intensify, and coordinate activities; submission; periodic review and revision
 
-The Director of the Institute, with the advice of the Institute's advisory council, shall prepare and transmit to the Director of NIH a plan for a national arthritis and musculoskeletal and skin diseases program to expand, intensify, and coordinate the activities of the Institute respecting arthritis and musculoskeletal and skin diseases. The plan shall include such comments and recommendations as the Director of the Institute determines appropriate. The plan shall place particular emphasis upon expanding research into better understanding the causes and the development of effective treatments for arthritis affecting children. The Director of the Institute shall periodically review and revise such plan and shall transmit any revisions of such plan to the Director of NIH.
+The Director of the Institute, with the advice of the Institute's advisory council, shall prepare and transmit to the Director of NIH a plan for a national arthritis and musculoskeletal and skin diseases program to expand, intensify, andcoordinate the activities of the Institute respecting arthritis and musculoskeletal and skin diseases. The plan shall include such comments and recommendations as the Director of the Institute determines appropriate. The plan shall place particular emphasis upon expanding research into better understanding the causes and the development of effective treatments for arthritis affecting children. The Director of the Institute shall periodically review and revise such plan and shall transmit any revisions of such plan to the Director of NIH.
 
 #### (b) Coordination of activities with other national research institutes; minimum activities under program
 
@@ -14,7 +14,7 @@ Activities under the national arthritis and musculoskeletal and skin diseases pr
 
 &emsp;(3) research on the refinement, development, and evaluation of technological devices that will replace or be a substitute for damaged bone, muscle, and joints and other supporting structures;
 
-&emsp;(4) the establishment of mechanisms to monitor the causes of athletic injuries and identifyways of preventing such injuries on scholastic athletic fields; and
+&emsp;(4) the establishment of mechanisms to monitor the causes of athletic injuries and identify ways of preventing such injuries on scholastic athletic fields; and
 
 &emsp;(5) research into the causes of arthritis affecting children and the development, trial, and evaluation of techniques, drugs and devices used in the diagnosis, treatment (including medical rehabilitation), and prevention of arthritis in children.
 

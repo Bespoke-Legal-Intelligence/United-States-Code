@@ -32,7 +32,3 @@ Historical and Revision Notes
 
 Section 11501 provides penalties for specific offenses committed by seamen.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11502 of this title.
-

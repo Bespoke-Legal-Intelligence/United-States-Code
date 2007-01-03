@@ -16,7 +16,7 @@ The legislative authority and power of the Virgin Islands shall extend to all ri
 
 (B) Except as provided in subparagraph (C), any obligation issued under subparagraph (A) and the income from such obligation shall be exempt from all State and local taxation in effect on or after October 1, 1984.
 
-(C) Any obligation issued under subparagraph (A) shall not be exempt from State or local gift,estate, inheritance, legacy, succession, or other wealth transfer taxes.
+(C) Any obligation issued under subparagraph (A) shall not be exempt from State or local gift, estate, inheritance, legacy, succession, or other wealth transfer taxes.
 
 (D) For purposes of this paragraph—
 
@@ -44,7 +44,7 @@ The laws of the United States applicable to the Virgin Islands on July 22, 1954,
 
 (3) Nothing in this subsection shall be construed as empowering the Legislature of the Virgin Islands to repeal or amend any provision in law in effect on the day before October 15, 1977, which pertains to the customs valuation or customs classification of articles imported into the Virgin Islands.
 
-(July 22, 1954, ch. 558, §8, 68 Stat. 500; Pub. L. 85–851, §§2, 3, 10, Aug. 28, 1958, 72 Stat. 1094, 1095; Pub. L. 88–180, Nov. 19, 1963, 77 Stat. 335; Pub. L. 89–643, Oct. 13, 1966, 80 Stat. 890; Pub. L. 90–496, §15, Aug. 23, 1968, 82 Stat. 842; Pub. L. 95–134, title III, §301(c), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 97–357, title III, §305, Oct. 19, 1982, 96 Stat. 1709; Pub. L. 98–454, title II, §201, Oct. 5, 1984, 98 Stat. 1732; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–84, §1(a), (b)(1), (2), Oct. 28, 1999, 113 Stat. 1295.)
+(July 22, 1954, ch. 558, §8, 68 Stat. 500; Pub. L. 85–851, §§2, 3, 10, Aug. 28, 1958, 72 Stat. 1094, 1095; Pub. L. 88–180, Nov. 19, 1963, 77 Stat. 335; Pub. L. 89–643, Oct. 13, 1966, 80 Stat. 890; Pub. L. 90–496, §15, Aug. 23, 1968, 82 Stat. 842; Pub. L. 95–134, title III, §301(c), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 97–357, title III, §305, Oct. 19, 1982, 96 Stat. 1709; Pub. L. 98–454, title II, §201, Oct. 5, 1984, 98Stat. 1732; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–84, §1(a), (b)(1), (2), Oct. 28, 1999, 113 Stat. 1295.)
 
 #### References in Text
 
@@ -68,7 +68,7 @@ Subsec. (e). Pub. L. 97–357 struck out subsec. (e) which related to arrangemen
 
 1977—Subsec. (f). Pub. L. 95–134 added subsec. (f).
 
-1968—Subsec. (b)(i). Pub. L. 90–496 struck out the provisions that the total amount of revenue bonds which may be issued and outstanding for all improvements and undertakings at any one time shall not be in excess of $30,000,000, exclusive of all bonds and undertakings held by the United States as a result of a sale of real or personal property to the government of the Virgin Islands, and with not more than $10,000,000 of such bonds or obligations to be outstanding at any one time for public improvements or public undertakings otherthan water or power projects, and substituted provisions that the bonds so issued shall bear interest at a rate not to exceed that specified by the legislature, payable semiannually, for provisions that the bonds so issued shall bear interest at a rate not to exceed 5% per annum, payable semiannually, and that all such bonds shall be sold for not less than the principal amount thereof plus accrued interest.
+1968—Subsec. (b)(i). Pub. L. 90–496 struck out the provisions that the total amount of revenue bonds which may be issued and outstanding for all improvements and undertakings at any one time shall not be in excess of $30,000,000, exclusive of all bonds and undertakings held by the United States as a result of a sale of real or personal property to the government of the Virgin Islands, and with not more than $10,000,000 of such bonds or obligations to be outstanding at any one time for public improvements or public undertakings other than water or power projects, and substituted provisions that the bonds so issued shall bear interest at a rate not to exceed that specified by the legislature, payable semiannually, for provisions that the bonds so issued shall bear interest at a rate not to exceed 5% per annum, payable semiannually, and that all such bonds shall be sold for not less than the principal amount thereof plus accrued interest.
 
 1966—Subsec. (b)(i). Pub. L. 89–643 increased the borrowing authority of the Virgin Islands by striking out limiting provisions so as to require only that the object of a bond issue be a public improvement or undertaking authorized by the legislature as opposed to previous requirement of a legislative authorization for specific improvements and legislative findings of need, substituted provisions authorizing the issuance of bonds that are nonredeemable or redeemable (either with or without premium) for provisions requiring that bonds be redeemable after five years without premium, raised the limitation on total amount of outstanding bonds from a flat limitation of $10,000,000 to $30,000,000 exclusive of all bonds or obligations which are held by the Government of the United States as a result of a sale of real or personal property to the government of the Virgin Islands, and inserted requirement that not to exceed $10,000,000 of the bonds or obligations may be outstanding at any one time for public improvement or public undertakings other than water or power projects.
 
@@ -102,7 +102,7 @@ Section 15 of Pub. L. 90–496 provided that the amendment made by that section 
 
 #### Construction
 
-Pub. L. 106–84, §4, Oct. 28, 1999, 113 Stat. 1296, provided that: “These amendments to the Revised Organic Act of the Virgin Islands \[amending this section\] are not intended to modify the internal revenue laws. Thus, the bonds authorized by this bill must comply with subsection (c) of section 149 of the Internal Revenue Code of 1986 \[26 U.S.C. 149(c)\] (which requires the new bonds comply with the appropriate requirements of the Internal Revenue Code).”
+Pub. L. 106–84, §4, Oct. 28, 1999, 113 Stat. 1296, provided that: “These amendments to the Revised Organic Act of the Virgin Islands \[amending this section\] are not intended to modify the internal revenue laws. Thus, thebonds authorized by this bill must comply with subsection (c) of section 149 of the Internal Revenue Code of 1986 \[26 U.S.C. 149(c)\] (which requires the new bonds comply with the appropriate requirements of the Internal Revenue Code).”
 
 #### Levying and Collection of Excise Taxes by Legislature of the Virgin Islands
 

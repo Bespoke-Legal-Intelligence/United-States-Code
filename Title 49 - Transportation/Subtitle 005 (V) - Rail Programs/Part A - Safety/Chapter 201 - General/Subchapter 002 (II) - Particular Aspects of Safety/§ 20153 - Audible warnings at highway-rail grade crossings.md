@@ -24,7 +24,7 @@ Exception.—(1) In issuing such regulations, the Secretary may except from the 
 
 &emsp;(C) for which, in the judgment of the Secretary, supplementary safety measures fully compensate for the absence of the warning provided by the locomotive horn.
 
-(2) In order to provide for safety and the quiet of communities affected by train operations, the Secretary may specify in such regulations that any supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from the requirement of this section.
+(2) In order to provide for safety and the quiet of communities affected by train operations, theSecretary may specify in such regulations that any supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from the requirement of this section.
 
 (d)
 
@@ -32,7 +32,7 @@ Application for Waiver or Exemption.—Notwithstanding any other provision of th
 
 (e)
 
-Development of Supplementary Safety Measures.—(1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures athighway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
+Development of Supplementary Safety Measures.—(1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures at highway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
 
 (2) The Secretary may include in regulations issued under this subsection special procedures for approval of new supplementary safety measures meeting the requirements of subsection (c)(1) of this section following successful demonstration of those measures.
 

@@ -14,7 +14,3 @@ Prohibition on Vessel Operation.—A vessel to which this chapter applies under 
 
 (Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3929.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3205 of this title.
-

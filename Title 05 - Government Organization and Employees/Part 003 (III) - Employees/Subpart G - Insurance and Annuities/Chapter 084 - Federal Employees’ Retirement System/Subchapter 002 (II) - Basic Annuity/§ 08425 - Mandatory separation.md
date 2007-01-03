@@ -14,7 +14,7 @@
 
 (e) The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or Supreme Court Police) from automatic separation under this section if the President determines the public interest so requires.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 540; amended Pub. L. 101–428,§3(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 929, 930; Pub. L. 101–509, title V, §529 \[title IV, §409(b)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(67), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(b)(1), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(k), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(5)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–27, §2(b), Aug. 20, 2001, 115 Stat. 207; Pub. L. 108–176, title II, §226(a)(3)(B), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 108–447, div. B, title I, §112(b), Dec. 8, 2004, 118 Stat. 2868; Pub. L. 108–458, title II, §2005(b), Dec. 17, 2004, 118 Stat. 3704.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 540; amended Pub. L. 101–428, §3(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 929, 930; Pub. L. 101–509, title V, §529 \[title IV, §409(b)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(67), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(b)(1), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(k), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(5)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–27, §2(b), Aug. 20, 2001, 115 Stat. 207; Pub. L. 108–176, title II, §226(a)(3)(B), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 108–447, div. B, title I, §112(b), Dec. 8, 2004, 118 Stat. 2868; Pub. L. 108–458, title II, §2005(b), Dec. 17, 2004, 118 Stat. 3704.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Pub. L. 108–447, §112(b)(2), added par. (2) relating to employees of the Fede
 
 2003—Subsec. (a). Pub. L. 108–176 inserted at end “For purposes of this subsection, the term ‘air traffic controller’ or ‘controller’ has the meaning given to it under section 8401(35)(A).”
 
-2001—Subsec. (b). Pub. L. 107–27 struck out first sentence which read “A firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age.” and, in second sentence, inserted “, firefighter,” after “law enforcement officer” in two places and substituted “courier, as the case may be, becomes 57 years of age” for “courier becomes 57 years of age”.
+2001—Subsec. (b). Pub. L. 107–27 struck out first sentence which read “A firefighter who is otherwise eligible for immediate retirement under section 8412(d)shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age.” and, in second sentence, inserted “, firefighter,” after “law enforcement officer” in two places and substituted “courier, as the case may be, becomes 57 years of age” for “courier becomes 57 years of age”.
 
 2000—Subsec. (d). Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(5)(A)\], added subsec. (d). Former subsec. (d) redesignated (e).
 

@@ -14,13 +14,13 @@ In order to encourage and expedite the acquisition of real property by agreement
 
 (6) If the head of a Federal agency permits an owner or tenant to occupy the real property acquired on a rental basis for a short term or for a period subject to termination by the Government on short notice, the amount of rent required shall not exceed the fair rental value of the property to a short-term occupier.
 
-(7) In no event shall the head of a Federal agency either advance the time of condemnation, or defer negotiations or condemnation and the deposit of funds in court for the use of the owner, or take any other action coercive in nature, in order to compel an agreement on the price to be paid for the property.
+(7) In no event shall the head of a Federal agency either advance the time of condemnation, or defer negotiations or condemnation and the deposit of funds in court for the use of theowner, or take any other action coercive in nature, in order to compel an agreement on the price to be paid for the property.
 
 (8) If any interest in real property is to be acquired by exercise of the power of eminent domain, the head of the Federal agency concerned shall institute formal condemnation proceedings. No Federal agency head shall intentionally make it necessary for an owner to institute legal proceedings to prove the fact of the taking of his real property.
 
 (9) If the acquisition of only a portion of a property would leave the owner with an uneconomic remnant, the head of the Federal agency concerned shall offer to acquire that remnant. For the purposes of this chapter, an uneconomic remnant is a parcel of real property in which the owner is left with an interest after the partial acquisition of the owner's property and which the head of the Federal agency concerned has determined has little or no value or utility to the owner.
 
-(10) A person whose real property is being acquired in accordance with this subchapter may, after the person has been fully informed of his right to receive just compensation for suchproperty, donate such property, and part thereof, any interest therein, or any compensation paid therefor to a Federal agency, as such person shall determine.
+(10) A person whose real property is being acquired in accordance with this subchapter may, after the person has been fully informed of his right to receive just compensation for such property, donate such property, and part thereof, any interest therein, or any compensation paid therefor to a Federal agency, as such person shall determine.
 
 (Pub. L. 91–646, title III, §301, Jan. 2, 1971, 84 Stat. 1904; Pub. L. 100–17, title IV, §416, Apr. 2, 1987, 101 Stat. 255.)
 

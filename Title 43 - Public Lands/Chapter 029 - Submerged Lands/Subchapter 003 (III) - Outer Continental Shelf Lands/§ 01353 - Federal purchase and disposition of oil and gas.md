@@ -20,7 +20,7 @@
 
 (1) Except as provided in paragraph (2) of this subsection, the Secretary, pursuant to such terms as he determines, many <sup>1</sup> offer to the public and sell by competitive bidding for not more than its regulated price, or, if no regulated price applies, not less than its fair market value any part of the gas (A) obtained by the United States pursuant to a lease as royalty or net profit share, or (B) purchased by the United States pursuant to subsection (a)(2) of this section.
 
-(2) Whenever, after consultation with and advice from the Secretary of Energy, the Federal Energy Regulatory Commission determines thatan emergency shortage of natural gas is threatening to cause severe economic or social dislocation in any region of the United States and that such region can be serviced in a practical, feasible, and efficient manner by royalty, net profit share, or purchased gas obtained pursuant to the provisions of this section, the Secretary of the Interior may allocate or conduct a lottery for the sale of such gas, and shall limit participation in any allocation or lottery sale of such gas to any person servicing such region, but he shall not sell any such gas for more than its regulated price, or, if no regulated price applies, less than its fair market value. Prior to selling or allocating any gas pursuant to this subsection, the Secretary shall consult with the Federal Energy Regulatory Commission.
+(2) Whenever, after consultation with and advice from the Secretary of Energy, the Federal Energy Regulatory Commission determines that an emergency shortage of natural gas is threatening to cause severe economic or social dislocation in any region of the United States and that such region can be serviced in a practical, feasible, and efficient manner by royalty, net profit share, or purchased gas obtained pursuant to the provisions of this section, the Secretary of the Interior may allocate or conduct a lottery for the sale of such gas, and shall limit participation in any allocation or lottery sale of such gas to any person servicing such region, but he shall not sell any such gas for more than its regulated price, or, if no regulated price applies, less than its fair market value. Prior to selling or allocating any gas pursuant to this subsection, the Secretary shall consult with the Federal Energy Regulatory Commission.
 
 #### (d) Purchase by lessee of Federal oil or gas for which no bids received
 
@@ -32,7 +32,7 @@ As used in this section—
 
 &emsp;(1) the term “regulated price” means the highest price—
 
-&emsp;&emsp;(A) at which oil many <sup>2</sup> be sold pursuant to the Emergency Petroleum Allocation Act of 1973 <sup>3</sup> \[15 U.S.C. 751 et seq.\] and any rule or order issued under such Act;
+&emsp;&emsp;(A) at which oil many <sup>1</sup> be sold pursuant to the Emergency Petroleum Allocation Act of 1973 <sup>2</sup> \[15 U.S.C. 751 et seq.\] and any rule or order issued under such Act;
 
 &emsp;&emsp;(B) at which natural gas may be sold to natural-gas companies pursuant to the Natural Gas Act \[15 U.S.C. 717 et seq.\], any other Act, regulations governing natural gas pricing, or any rule or order issued under any such Act or any such regulations; or
 
@@ -58,7 +58,5 @@ Functions vested in Secretary of Energy and Department of Energy under or with r
 
 <i><sup>1</sup></i><i> So in original. Probably should be “may”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “may”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

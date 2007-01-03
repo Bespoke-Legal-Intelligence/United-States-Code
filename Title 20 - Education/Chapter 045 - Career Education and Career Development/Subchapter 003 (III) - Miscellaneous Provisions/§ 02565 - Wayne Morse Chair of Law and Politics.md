@@ -6,7 +6,7 @@ The Secretary of Education (hereinafter in this section referred to as the “Se
 
 #### (b) Federal share; application for financial assistance
 
-(1) For purposes of this section, the Federal share of the cost of establishing the WayneMorse Chair of Law and Politics shall not exceed 50 per centum.
+(1) For purposes of this section, the Federal share of the cost of establishing the Wayne Morse Chair of Law and Politics shall not exceed 50 per centum.
 
 (2) No financial assistance under this section may be made except upon an application at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require.
 

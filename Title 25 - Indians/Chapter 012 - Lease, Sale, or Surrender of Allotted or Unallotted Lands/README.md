@@ -34,21 +34,11 @@
 | [403a.](%C2%A7%2000403a%20-%20Lease%20of%20lands%20on%20Port%20Madison%20and%20Snohomish%20or%20Tulalip%20Indian%20Reservations%20in%20Washington.md) | Lease of lands on Port Madison and Snohomish or Tulalip Indian Reservations in Washington. |
 | 403a–1. | Sale or partition by owners of interests in allotted lands in the Tulalip Reservation; termination of Federal title, trust, and restrictions. |
 | 403a–2. | Acquisition, management, and disposal of lands by Tulalip Tribe. |
-| (a) | Termination of Federal trust and restrictions on alienation. |
-| (b) | Lands in trust. |
-| (c) | Mortgages. |
-| (d) | Moneys or credits. |
 | [403b.](%C2%A7%2000403b%20-%20Lease%20of%20restricted%20lands%20in%20State%20of%20Washington.md) | Lease of restricted lands in State of Washington. |
 | [403c.](%C2%A7%2000403c%20-%20Identity%20of%20lessor%3B%20period%20of%20lease.md) | Identity of lessor; period of lease. |
 | [404\.](%C2%A7%2000404%20-%20Sale%20on%20petition%20of%20allottee%20or%20heirs.md) | Sale on petition of allottee or heirs. |
 | [405\.](%C2%A7%2000405%20-%20Sale%20of%20allotment%20of%20noncompetent%20Indian.md) | Sale of allotment of noncompetent Indian. |
 | [406\.](%C2%A7%2000406%20-%20Sale%20of%20timber%20on%20lands%20held%20under%20trust.md) | Sale of timber on lands held under trust. |
-| (a) | Deductions for administrative expenses; standards guiding sales. |
-| (b) | Undivided interests. |
-| (c) | Unrestricted interests. |
-| (d) | Representation of minors and others. |
-| (e) | Emergency sales. |
-| (f) | Change in status without affecting contractual obligations. |
 | [407\.](%C2%A7%2000407%20-%20Sale%20of%20timber%20on%20unallotted%20lands.md) | Sale of timber on unallotted lands. |
 | 407a to 407c. Omitted. |  |
 | [407d.](%C2%A7%2000407d%20-%20Charges%20for%20special%20services%20to%20purchasers%20of%20timber.md) | Charges for special services to purchasers of timber. |
@@ -62,25 +52,13 @@
 | [413\.](%C2%A7%2000413%20-%20Fees%20to%20cover%20cost%20of%20work%20performed%20for%20Indians.md) | Fees to cover cost of work performed for Indians. |
 | [414\.](%C2%A7%2000414%20-%20Reservation%20of%20minerals%20in%20sale%20of%20Choctaw-Chickasaw%20lands.md) | Reservation of minerals in sale of Choctaw-Chickasaw lands. |
 | [415\.](%C2%A7%2000415%20-%20Leases%20of%20restricted%20lands.md) | Leases of restricted lands. |
-| (a) | Authorized purposes; term; approval by Secretary. |
-| (b) | Leases involving Tulalip Tribes. |
-| (c) | Leases involving Hopi Tribe and Hopi Partitioned Lands Accommodation Agreement. |
-| (d) | Definitions. |
-| (e) | Leases of restricted lands for the Navajo Nation. |
-| (f) | Leases involving Gila River Indian Community Reservation; arbitration of disputes. |
-| (g) | Lease of tribally-owned land by Assiniboine and Sioux Tribes of the Fort Peck Reservation. |
 | [415a.](%C2%A7%2000415a%20-%20Lease%20of%20lands%20of%20deceased%20Indians%20for%20benefit%20of%20heirs%20or%20devisees.md) | Lease of lands of deceased Indians for benefit of heirs or devisees. |
 | [415b.](%C2%A7%2000415b%20-%20Advance%20payment%20of%20rent%20or%20other%20consideration.md) | Advance payment of rent or other consideration. |
 | [415c.](%C2%A7%2000415c%20-%20Approval%20of%20leases.md) | Approval of leases. |
 | [415d.](%C2%A7%2000415d%20-%20Lease%20of%20restricted%20lands%20under%20other%20laws%20unaffected.md) | Lease of restricted lands under other laws unaffected. |
 | [416\.](%C2%A7%2000416%20-%20Leases%20of%20trust%20or%20restricted%20lands%20on%20San%20Xavier%20and%20Salt%20River%20Pima-Maricopa%20Indian%20Reservations%20for%20public%2C%20religious%2C%20educational%E2%80%A6.md) | Leases of trust or restricted lands on San Xavier and Salt River Pima-Maricopa Indian Reservations for public, religious, educational, recreational, residential, business, farming or grazing purposes. |
 | [416a.](%C2%A7%2000416a%20-%20Lease%20provisions.md) | Lease provisions. |
-| (a) | Covenant not to cause waste, etc. |
-| (b) | Judicial enforcement. |
-| (c) | Binding arbitration of disputes. |
 | [416b.](%C2%A7%2000416b%20-%20Development%20pursuant%20to%20lease.md) | Development pursuant to lease. |
-| (a) | Notice requirements prior to approval of lease. |
-| (b) | Development by non-Indian lessees. |
 | [416c.](%C2%A7%2000416c%20-%20Lease%20of%20lands%20of%20deceased%20Indians%20for%20benefit%20of%20heirs%20or%20devisees.md) | Lease of lands of deceased Indians for benefit of heirs or devisees. |
 | [416d.](%C2%A7%2000416d%20-%20Advance%20payment%20of%20rent%20or%20other%20consideration.md) | Advance payment of rent or other consideration. |
 | [416e.](%C2%A7%2000416e%20-%20Approval%20of%20leases.md) | Approval of leases. |

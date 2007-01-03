@@ -26,7 +26,7 @@
 
 &emsp;(3) to locate, in each strategic area in which it is considered necessary, adequate storage facilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force; and
 
-&emsp;(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Forcefor operations necessary in the defense of the United States, and in the defense and reinforcement of the Commonwealths, possessions, and holdings.
+&emsp;(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Force for operations necessary in the defense of the United States, and in the defense and reinforcement of the Commonwealths, possessions, and holdings.
 
 (d) In carrying out this section, the Secretary, on behalf of the United States, may acquire title, in fee simple and free of encumbrance, to any land that he considers necessary—
 
@@ -36,7 +36,7 @@
 
 &emsp;(3) by purchase or condemnation, if acquisition by gift or exchange is impracticable.
 
-(e) The Secretary may, by purchase, gift, lease, or otherwise, acquire at desired locations bombing and machine gun ranges necessary for practice by, and the training of, tactical units.
+(e) The Secretary may, by purchase, gift, lease, or otherwise, acquire at desired locationsbombing and machine gun ranges necessary for practice by, and the training of, tactical units.
 
 (f) At each air base or depot established under this section, the Secretary shall remove or remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
 
@@ -95,4 +95,6 @@ In subsection (f), the word “shall” is substituted for the words “is furth
 #### Amendments
 
 2006—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
+
+§9774
 

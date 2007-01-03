@@ -72,7 +72,7 @@ Application Requirements.—(1) In order to be separated under a program establi
 
 (g)
 
-Other Conditions, Requirements, and Administrative Provisions.—Subsections (e) through (h), other than subsection (e)(2)(A), ofsection 1174 of this title shall apply in the administration of programs established under this section.
+Other Conditions, Requirements, and Administrative Provisions.—Subsections (e) through (h), other than subsection (e)(2)(A), of section 1174 of this title shall apply in the administration of programs established under this section.
 
 (h)
 

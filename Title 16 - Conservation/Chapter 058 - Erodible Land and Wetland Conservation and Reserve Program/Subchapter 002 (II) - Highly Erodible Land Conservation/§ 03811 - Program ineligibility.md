@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in section 3812 of this title, and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominate, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
+Except as provided in section 3812 of this title, and notwithstanding any other provision of law,any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominate, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
 
 &emsp;(1) as to any commodity produced during that crop year by such person—
 
@@ -74,7 +74,7 @@ Par. (3). Pub. L. 104–127, §311(3), added par. (3) and struck out former par.
 
 Par. (3)(D), (E). Pub. L. 102–237, §204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
 
-1990—Pub. L. 101–624, §1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of anagricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
+1990—Pub. L. 101–624, §1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
 
 Par. (1)(D). Pub. L. 101–624, §1411(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 

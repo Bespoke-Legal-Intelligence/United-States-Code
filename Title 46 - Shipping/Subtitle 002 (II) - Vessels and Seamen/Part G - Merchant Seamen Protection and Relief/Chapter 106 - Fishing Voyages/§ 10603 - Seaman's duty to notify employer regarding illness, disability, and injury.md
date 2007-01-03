@@ -16,7 +16,3 @@ Historical and Revision Notes
 
 New
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4502 of this title.
-

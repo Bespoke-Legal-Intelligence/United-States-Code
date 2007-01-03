@@ -54,7 +54,7 @@ Amount.—The amount of a bonus under this section may be any amount not in exce
 
 Payment.—(1) Upon acceptance of a written agreement by the Secretary concerned under this section, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify whether the bonus is to be paid in one lump sum or in installments.
 
-(2) A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
+(2) A person entitled to a bonus under this section who is called or ordered to active duty shallbe paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
 (f)
 
@@ -62,13 +62,9 @@ Relation to Other Accession Bonus Authority.—A person may not receive an affil
 
 (g)
 
-Repayment for Failure To Commence or Complete Obligated Service.—(1) A person who, after receiving all or part of the bonus under an agreement entered into by that person under this section, does not accept a commission or an appointment as an officer or does not commence to participate or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement shall repay to the United States such compensation or benefit, except under conditions prescribed by the Secretary concerned.
+Repayment.—A person who enters into an agreement under this section and receives all or part of the bonus under the agreement, but who does not accept a commission or an appointment as an officer or does not commence to participate or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(2) The Secretary concerned shall include in each agreement entered into by the Secretary under this section the requirements that apply for any repayment under this subsection, including the method for computing the amount of the repayment and any exceptions.
-
-(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under this section does not discharge a person from a debt arising under an agreement entered into under this subsection or a debt arising under paragraph (1).
-
-(Added Pub. L. 108–375, div. A, title VI, §619(a), Oct. 28, 2004, 118 Stat. 1950; amended Pub. L. 109–163, div. A, title VI, §634(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3300.)
+(Added Pub. L. 108–375, div. A, title VI, §619(a), Oct. 28, 2004, 118 Stat. 1950; amended Pub. L. 109–163, div. A, title VI, §634(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3300; Pub. L. 109–364, div. A, title X, §1071(c)(4), Oct. 17, 2006, 120 Stat. 2401.)
 
 #### Amendments
 
@@ -77,4 +73,6 @@ Repayment for Failure To Commence or Complete Obligated Service.—(1) A person 
 Subsec. (a)(2)(B), (C). Pub. L. 109–163, §634(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has not previously served in the Selected Reserve of the Ready Reserve; and”.
 
 Subsec. (d). Pub. L. 109–163, §634(b), substituted “$10,000” for “$6,000”.
+
+Subsec. (g). Pub. L. 109–364 added subsec. (g) and struck out former subsec. (g) which related to requirement to repay bonus upon failure to commence or complete obligated service, inclusion of repayment requirements in each agreement, and characterization of obligation to repay as a debt owed to the United States.
 

@@ -1,6 +1,6 @@
 ### §9858q. Miscellaneous provisions
 
-Notwithstanding any other law, the value of any child care provided or arranged (or anyamount received as payment for such care or reimbursement for costs incurred for such care) under this subchapter shall not be treated as income for purposes of any other Federal or Federally-assisted program that bases eligibility, or the amount of benefits, on need.
+Notwithstanding any other law, the value of any child care provided or arranged (or any amount received as payment for such care or reimbursement for costs incurred for such care) under this subchapter shall not be treated as income for purposes of any other Federal or Federally-assisted program that bases eligibility, or the amount of benefits, on need.
 
 (Pub. L. 97–35, title VI, §658S, as added Pub. L. 102–586, §8(b), Nov. 4, 1992, 106 Stat. 5035; amended Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994.)
 

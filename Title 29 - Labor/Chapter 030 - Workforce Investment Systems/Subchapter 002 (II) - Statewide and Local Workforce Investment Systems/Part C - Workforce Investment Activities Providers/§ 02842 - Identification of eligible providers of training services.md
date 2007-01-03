@@ -58,7 +58,7 @@
 
 #### (1) Procedure
 
-&emsp;Each Governor of a State shall establish a procedure for use by local boards in the State in determining the eligibility of a provider described in subsection (a)(2) of this section to continue to receive funds as described in subsection (a) of this section for a program after an initial period of eligibility under subsection\(b) of this section (referred to in this section as “subsequent eligibility”).
+&emsp;Each Governor of a State shall establish a procedure for use by local boards in the State in determining the eligibility of a provider described in subsection (a)(2) of this section to continue to receive funds as described in subsection (a) of this section for a program after an initial period of eligibility under subsection (b) of this section (referred to in this section as “subsequent eligibility”).
 
 #### (2) Recommendations
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;(ii) where appropriate, the rates of licensure or certification of all individuals who complete the program; and
 
-&emsp;&emsp;&emsp;(iii) the percentage of individuals who complete the program who attain industry-recognized occupational skills in the subject, occupation, or industry for whichtraining is provided through the program, where applicable; and
+&emsp;&emsp;&emsp;(iii) the percentage of individuals who complete the program who attain industry-recognized occupational skills in the subject, occupation, or industry for which training is provided through the program, where applicable; and
 
 &emsp;&emsp;(B) the Governor, or the local board, may require a provider to submit, under subsection (c) of this section, other verifiable program-specific performance information to obtain such subsequent eligibility.
 
@@ -164,7 +164,7 @@
 
 #### (A) State list
 
-&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State. Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
+&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State.Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
 
 #### (B) Selection from State list
 
@@ -186,7 +186,7 @@
 
 #### (3) Repayment
 
-&emsp;A provider whose eligibility is terminated under paragraph (1) or (2) for a program shallbe liable for repayment of all funds described in subsection (a) of this section received for the program during any period of noncompliance described in such paragraph.
+&emsp;A provider whose eligibility is terminated under paragraph (1) or (2) for a program shall be liable for repayment of all funds described in subsection (a) of this section received for the program during any period of noncompliance described in such paragraph.
 
 #### (4) Construction
 

@@ -10,7 +10,7 @@ The Association shall analyze each proposal containing one or more supplemental 
 
 #### (c) Review by Commission
 
-Within 90 days after the publication in the Federal Register of each report referred to in subsection (b) of this section, the Commission shall determine whether the supplemental transactions referred to in the report, considered in their entirety, would be in the public interest and consistent with the purposes of this chapter and the goals of the final system plan. In making such determination, the Commission shall give due consideration to the views received by it, within 30 days after the publication of the applicable report, from the Corporation and the Secretary. The Commission may condition its approval of such supplemental transactions on such reasonable terms and conditions as it may deem necessary in the public interest. The approval by the Commission of such supplemental transactions shall not be a prerequisite to the consummation of such transactions, but any determination of the Commission modifying, approving, or disapproving any proposed supplemental transactions shall be given due weight and consideration by the special court in the proceedings prescribed in subsection (d) of this section. If the Commission fails to act within the time period provided in this subsection, the supplemental transactions involved shall be deemed to have been approved by the Commission. The Commission may prescribe such regulations as may be necessary for the administration of this section.
+Within 90 days after the publication in the Federal Register of each report referred to in subsection (b) of this section, the Commission shall determine whether the supplemental transactions referred to in the report, considered in their entirety, would be in the public interest and consistent with the purposes of this chapter and the goals of the final system plan. In making such determination, the Commission shall give due consideration to the views received by it, within 30 days after the publication of the applicable report, from the Corporation and the Secretary. The Commission may condition its approval of such supplemental transactions on such reasonable terms and conditions as it may deem necessary in the public interest. The approval by the Commission of such supplemental transactions shall not be a prerequisite to the consummation of such transactions, but any determination of the Commission modifying, approving, or disapproving any proposed supplemental transactions shall be given due weight and consideration by the special court in the proceedings prescribed in subsection (d) of this section. If the Commission fails to act within the time period provided in this subsection,the supplemental transactions involved shall be deemed to have been approved by the Commission. The Commission may prescribe such regulations as may be necessary for the administration of this section.
 
 #### (d) Special court proceedings
 
@@ -74,7 +74,7 @@ As used in this section, the term “fair and equitable” means fair and equita
 
 (4)(A) Any employee who was protected by the compensatory provisions of subchapter V <sup>2</sup> of this chapter immediately prior to August 13, 1981, and who is deprived of employment as a result of the transfer of rail properties under this subsection shall be eligible for benefits under section 797 <sup>2</sup> of this title.
 
-(B) As used in this paragraph, “employee deprived of employment” means any employee who is unable to secure employment through the normal exercise of seniority rights, but does not include any employee who refuses an offer of employment with a railroad acquiring properties under this subsection.
+(B) As used in this paragraph, “employee deprived of employment” means any employee who is unable to secure employment through the normal exercise of seniority rights, but does not include any employee who refuses an offer ofemployment with a railroad acquiring properties under this subsection.
 
 #### (g) Transfer of properties and freight service obligations of specific lines
 
@@ -134,7 +134,7 @@ Special court abolished and all jurisdiction and functions transferred to United
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49,Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 See section 1341 of this title.
 
@@ -144,7 +144,7 @@ Application of National Environmental Policy Act to actions of Commission not af
 
 #### Rail Abandonment and Discontinuance of Service Report
 
-Section 904 of Pub. L. 94–210 directed Secretary to submit to Congress, within ninety days of Feb. 5, 1976, a report on anticipated effect of any abandonment of lines of railroad and any discontinuances of rail service in States outside the region as defined in section 702 of this title, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Section 904 of Pub. L. 94–210 directed Secretary to submit to Congress, within ninety days of Feb. 5, 1976,a report on anticipated effect of any abandonment of lines of railroad and any discontinuances of rail service in States outside the region as defined in section 702 of this title, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

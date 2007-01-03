@@ -62,7 +62,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 &emsp;(ii) to determine the need for such personnel in such areas and to recruit, select, and retain health professions personnel (including members of the National Health Service Corps) to meet such need;
 
-&emsp;(iii) to determine the extent to which such areas will have a financial base to support the practice of such personnel and the extent to which additional financial resources are needed to adequately support the practice;
+&emsp;(iii) to determine the extent to which such areas will have a financial base to support thepractice of such personnel and the extent to which additional financial resources are needed to adequately support the practice;
 
 &emsp;(iv) to determine the types of inpatient and other health services that should be provided by such personnel in such areas;
 

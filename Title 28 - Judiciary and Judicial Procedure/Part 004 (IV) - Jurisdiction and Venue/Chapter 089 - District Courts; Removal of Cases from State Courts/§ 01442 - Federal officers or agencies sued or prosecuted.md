@@ -2,7 +2,7 @@
 
 (a) A civil action or criminal prosecution commenced in a State court against any of the following may be removed by them to the district court of the United States for the district and division embracing the place wherein it is pending:
 
-&emsp;(1) The United States or any agency thereof or any officer (or any person acting under that officer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office or on account of any right, title or authority claimed under any Act of Congress for the apprehension or punishment of criminals or the collection of the revenue.
+&emsp;(1) The United States or any agency thereof or any officer (or any person acting under thatofficer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office or on account of any right, title or authority claimed under any Act of Congress for the apprehension or punishment of criminals or the collection of the revenue.
 
 &emsp;(2) A property holder whose title is derived from any such officer, where such action or prosecution affects the validity of any law of the United States.
 

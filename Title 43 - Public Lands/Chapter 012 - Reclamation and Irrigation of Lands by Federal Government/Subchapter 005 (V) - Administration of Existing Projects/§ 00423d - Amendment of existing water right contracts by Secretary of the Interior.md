@@ -14,5 +14,5 @@ Sections 423 to 423g and 610 of this title, referred to in text, was in the orig
 
 #### Codification
 
-Section constitutes a part of section 45 of act May 25, 1926. The remainder of said section 45 (the third par. and the fourth par., except the final proviso, which is classified as the last par. of this section) has been omitted.
+Section constitutes a part of section 45 of act May 25, 1926. The remainder of said section 45 (the third par. and the fourth par., except the final proviso, which isclassified as the last par. of this section) has been omitted.
 

@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of purpose
 
-To ensure the coordinated economic revitalization and environmental enhancement of the Great Lakes and their connecting channels and the Saint Lawrence Seaway (hereinafter in this section referred to as the “Great Lakes”), known as the “Fourth Seacoast” of the United States, it is hereby declared to be the intent of Congress to recognize the importance of the economic vitality of the Great Lakes region, the importance of exports from the region in the United States balance of trade, and the need to assure an environmentally and socially responsible navigation system for the Great Lakes. Congress finds that the Great Lakes provide a diversity of agricultural, commercial, environmental, recreational, and related opportunities based on their extensive water resources and water transportation systems.
+To ensure the coordinated economic revitalization and environmental enhancement of the Great Lakes and their connecting channels and the Saint Lawrence Seaway (hereinafter in this section referred to as the “Great Lakes”), known as the “Fourth Seacoast” of the United States, it is hereby declared to be the intent of Congress to recognize the importance of the economic vitality of the Great Lakes region, the importance of exports from the region in theUnited States balance of trade, and the need to assure an environmentally and socially responsible navigation system for the Great Lakes. Congress finds that the Great Lakes provide a diversity of agricultural, commercial, environmental, recreational, and related opportunities based on their extensive water resources and water transportation systems.
 
 #### (b) Establishment; strategy development; composition of Board; Director; report; termination
 
@@ -30,7 +30,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 &emsp;(iv) an analysis of the constraints on the flexibility of farmers in the Great Lakes region to market grains and other agricultural commodities, including harvest dates for such commodities and the availability of transport and storage facilities for such commodities; and
 
-&emsp;(v) an analysis of the amount of grain and other agricultural commodities produced inthe United States which are being diverted to Canada by rail but which could be shipped on the Great Lakes if vessels were available for shipping such products during the navigation season.
+&emsp;(v) an analysis of the amount of grain and other agricultural commodities produced in the United States which are being diverted to Canada by rail but which could be shipped on the Great Lakes if vessels were available for shipping such products during the navigation season.
 
 (D) In developing the strategy, the Board shall consider weather problems and related costs and marketing problems resulting from the late harvest of agricultural commodities (including wheat and sunflower seeds) in the Great Lakes region.
 

@@ -4,7 +4,7 @@
 
 If the Secretary finds that an intermediate care facility for the mentally retarded has substantial deficiencies which do not pose an immediate threat to the health and safety of residents (including failure to provide active treatment), the State may elect, subject to the limitations in this section, to—
 
-&emsp;(1) submit, within the number of days specified by the Secretary in regulations which apply to submission of compliance plans with respect to deficiencies of such type, a written plan of correction which details the extent of the facility's current compliance with the standards promulgated by the Secretary, including all deficiencies identified during a validation survey, and which provides for a timetable for completion of necessary steps to correct all staffing deficiencies within 6 months, and a timetable for rectifying all physical plant deficiencies within 6 months; or
+&emsp;(1) submit, within the number of days specified by the Secretary in regulations which apply to submission of compliance plans with respect to deficiencies of such type, a written plan of correction which details the extent ofthe facility's current compliance with the standards promulgated by the Secretary, including all deficiencies identified during a validation survey, and which provides for a timetable for completion of necessary steps to correct all staffing deficiencies within 6 months, and a timetable for rectifying all physical plant deficiencies within 6 months; or
 
 &emsp;(2) submit, within a time period consisting of the number of days specified for submissions under paragraph (1) plus 35 days, a written plan for permanently reducing the number of certified beds, within a maximum of 36 months, in order to permit any noncomplying buildings (or distinct parts thereof) to be vacated and any staffing deficiencies to be corrected (hereinafter in this section referred to as a “reduction plan”).
 
@@ -28,7 +28,7 @@ The reduction plan must—
 
 &emsp;(3) describe the necessary safeguards that will be applied to protect the health and welfare of the former residents of the facility who are to receive home or community services, including adequate standards for consumer and provider participation and assurances that applicable State licensure and applicable State and Federal certification requirements will be met in providing such home or community services;
 
-&emsp;(4) provide that residents of the affected facility who are eligible for medical assistancewhile in the facility shall, at their option, be placed in another setting (or another part of the affected facility) so as to retain their eligibility for medical assistance;
+&emsp;(4) provide that residents of the affected facility who are eligible for medical assistance while in the facility shall, at their option, be placed in another setting (or another part of the affected facility) so as to retain their eligibility for medical assistance;
 
 &emsp;(5) specify the actions which will be taken to protect the health and safety of, and to provide active treatment for, the residents who remain in the affected facility while the reduction plan is in effect;
 
@@ -72,7 +72,7 @@ The provisions of this section shall apply only to plans of correction and reduc
 
 #### Prior Provisions
 
-A prior section 1922 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
+A prior section 1922 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
 

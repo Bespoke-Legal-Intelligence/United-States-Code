@@ -12,7 +12,7 @@ The report shall—
 
 &emsp;(2) aggregate and analyze data on income to assess the compliance of each enterprise with the low- and moderate-income and special affordable housing goals;
 
-&emsp;(3) aggregate and analyze data on income, race, and gender by census tract and comparesuch data with larger demographic, housing, and economic trends;
+&emsp;(3) aggregate and analyze data on income, race, and gender by census tract and compare such data with larger demographic, housing, and economic trends;
 
 &emsp;(4) examine actions that each enterprise has undertaken or could undertake to promote and expand the annual goals established under sections 4562, 4563, and 4564 of this title, and the purposes of the enterprise established by law;
 

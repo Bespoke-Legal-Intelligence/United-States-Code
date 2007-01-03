@@ -56,7 +56,7 @@ In subsection (b)(6), the words “transportation objectives” are substituted 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–426, §1, Nov. 30, 2004, 118 Stat. 2423, provided that: “This Act \[enacting section 108 of this title, amending sections 111, 112, 5118, and 5503 of this title, sections 5314 and 5316 of Title 5, Government Organization and Employees, section 844 of Title 18, Crimes and Criminal Procedure, section 2761 of Title 33, Navigation and Navigable Waters, and section 1121–2 of of Title 46, Appendix, Shipping, enacting provisions set out as notes under sections 108 and 112 of this title, and amending provisions set out as a note under section 1135 of this title\] may be cited as the ‘Norman Y. Mineta Research and Special Programs Improvement Act’.”
+Pub. L. 108–426, §1, Nov. 30, 2004, 118 Stat. 2423, provided that: “This Act \[enacting section 108 of this title, amending sections 111, 112, 5118, and 5503 of this title, sections 5314 and 5316 of Title 5, Government Organization and Employees, section 844 of Title 18, Crimes and Criminal Procedure, section 2761 of Title 33, Navigation and Navigable Waters, and section 1121–2 of Title 46, Appendix, Shipping, enacting provisions set out as notes under sections 108 and 112 of this title, and amending provisions set out as a note under section 1135 of this title\] may be cited as the ‘Norman Y. Mineta Research and Special Programs Improvement Act’.”
 
 #### Short Title of 1999 Amendment
 

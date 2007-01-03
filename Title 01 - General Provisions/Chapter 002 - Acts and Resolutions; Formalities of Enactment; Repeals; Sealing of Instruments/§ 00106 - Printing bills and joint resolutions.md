@@ -58,7 +58,7 @@ Waiver.—The provisions of sections 106 and 107 of title 1, United States Code,
 
 “(b)
 
-Certification of Enrollment by Committee on House Oversight.—The enrollment of any such measure shall be in such form as the Committee on HouseOversight of the House of Representatives certifies to be a true enrollment.
+Certification of Enrollment by Committee on House Oversight.—The enrollment of any such measure shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.
 
 #### “SEC. 2. APPROPRIATION MEASURE DEFINED.
 
@@ -266,7 +266,7 @@ Pub. L. 100–203, title VIII, §8004, Dec. 22, 1987, 101 Stat. 1330–282, prov
 
 Preparation of Printed Enrollment.—(1) Upon the enactment of this Act enrolled as a hand enrollment, the Clerk of the House of Representatives shall prepare a printed enrollment of this Act as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply. Such enrollment shall be a correct enrollment of this Act as enrolled in the hand enrollment.
 
-“(2) A printed enrollment prepared pursuant to paragraph (1) may, in order to conform to customary style for printed laws, include corrections in spelling, punctuation, indentation, type face, and type size and other necessary stylistic corrections to the hand enrollment. Such a printed enrollment shall include notations (in the margins or as otherwise appropriate) of all such corrections.
+“(2) A printed enrollment prepared pursuant to paragraph (1) may, in order to conform to customary style for printed laws, include corrections in spelling, punctuation, indentation, type face, and type size and other necessary stylistic corrections to the hand enrollment.Such a printed enrollment shall include notations (in the margins or as otherwise appropriate) of all such corrections.
 
 “(b)
 

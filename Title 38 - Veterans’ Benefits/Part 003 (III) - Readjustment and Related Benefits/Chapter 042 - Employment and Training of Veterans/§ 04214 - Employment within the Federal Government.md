@@ -50,9 +50,9 @@
 
 (f) Notwithstanding section 4211 of this title, the terms “veteran” and “disabled veteran” as used in subsection (a) of this section shall have the meaning provided for under generally applicable civil service law and regulations.
 
-(g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified covered veterans for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 7722 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 7724 of this title, or to provide readjustment counseling under section 1712A of this title.
+(g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified covered veterans for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 6303 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 6305 of this title, or to provide readjustment counseling under section 1712A of this title.
 
-(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036.)
+(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, §402(e)(3), June 15, 2006, 120 Stat. 411.)
 
 #### References in Text
 
@@ -66,7 +66,9 @@ The civil service law, referred to in subsec. (f), is set forth in Title 5, Gove
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–288, §2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified covered veterans (as defined in paragraph (2)(B))” for “disabledveterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
+2006—Subsec. (g). Pub. L. 109–233 substituted “section 6303” for “section 7722” and “section 6305” for “section 7724”.
+
+2002—Subsec. (a)(1). Pub. L. 107–288, §2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified coveredveterans (as defined in paragraph (2)(B))” for “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
 
 Subsec. (a)(2). Pub. L. 107–288, §2(c)(3)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of this section, the term ‘agency’ means a department, agency, or instrumentality in the executive branch.”
 
@@ -226,7 +228,7 @@ Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note undersection 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
 
 #### Contents of Reports on Veterans’ Readjustment Appointments
 

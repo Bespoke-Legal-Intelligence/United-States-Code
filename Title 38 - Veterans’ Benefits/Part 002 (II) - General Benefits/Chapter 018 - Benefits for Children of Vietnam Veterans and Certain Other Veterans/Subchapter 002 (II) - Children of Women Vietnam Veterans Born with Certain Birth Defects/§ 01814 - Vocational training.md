@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary may provide a program of vocational training to an eligiblechild if the Secretary determines that the achievement of a vocational goal by the child is reasonably feasible.
+Authority.—The Secretary may provide a program of vocational training to an eligible child if the Secretary determines that the achievement of a vocational goal by the child is reasonably feasible.
 
 (b)
 
@@ -14,5 +14,5 @@ Applicable Provisions.—Subsections (b) through (e) of section 1804 of this tit
 
 A prior section 1814 was renumbered section 3714 of this title.
 
-Another prior section 1814, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1211, Pub. L. 86–665, §3, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(c), July 6, 1961, 75 Stat. 201, automatically guaranteed loans made to a veteran if made for the purpose of refinancing delinquent indebtedness, prior to repeal by Pub. L. 93–569, §7(a), Dec. 31, 1974, 88 Stat. 1866.
+Another prior section 1814, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1211, Pub. L. 86–665, §3, July 14, 1960, 74Stat. 531; Pub. L. 87–84, §1(c), July 6, 1961, 75 Stat. 201, automatically guaranteed loans made to a veteran if made for the purpose of refinancing delinquent indebtedness, prior to repeal by Pub. L. 93–569, §7(a), Dec. 31, 1974, 88 Stat. 1866.
 

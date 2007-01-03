@@ -1,6 +1,6 @@
 ### §4626. Aircraft supplies and services: foreign military or air attache�AE1
 
-Under such conditions as he may prescribe, the Secretary of the Army may provide for the sale of fuel, oil, and other supplies for use in aircraft operated by a foreign military or air attache�AE1 accredited to the United States, and for the furnishing of mechanical service and otherassistance to such aircraft. Shelter may be furnished to such aircraft, but only without charge.
+Under such conditions as he may prescribe, the Secretary of the Army may provide for the sale of fuel, oil, and other supplies for use in aircraft operated by a foreign military or air attache�AE1 accredited to the United States, and for the furnishing of mechanical service and other assistance to such aircraft. Shelter may be furnished to such aircraft, but only without charge.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 259.)
 

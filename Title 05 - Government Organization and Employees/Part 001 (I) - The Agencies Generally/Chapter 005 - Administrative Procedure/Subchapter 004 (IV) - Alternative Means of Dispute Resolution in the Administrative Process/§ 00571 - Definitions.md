@@ -50,7 +50,7 @@ A prior section 571 was renumbered section 591 of this title.
 
 #### Amendments
 
-1996—Par. (3). Pub. L. 104–320, §2(1), struck out “, in lieu of an adjudication as defined in section 551(7) of this title,” after “any procedure that is used”, struckout “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
+1996—Par. (3). Pub. L. 104–320, §2(1), struck out “, in lieu of an adjudication as defined in section 551(7) of this title,” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
 
 Par. (8). Pub. L. 104–320, §2(2), substituted “decision;” for “decision,” at end of subpar. (B), and struck out closing provisions which read as follows: “except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;”.
 
@@ -66,7 +66,7 @@ Section 11 of Pub. L. 101–552, as amended by Pub. L. 104–106, div. D, title 
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
+Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amendingthis section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
 #### Short Title
 
@@ -146,7 +146,7 @@ Section 9 of Pub. L. 101–552 provided that:
 
 “(a)
 
-Representation of Parties.—Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act \[see Short Title noteabove\], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
+Representation of Parties.—Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act \[see Short Title note above\], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
 
 &emsp;“(1) the extent to which individuals are represented or assisted by attorneys or by persons who are not attorneys; and
 

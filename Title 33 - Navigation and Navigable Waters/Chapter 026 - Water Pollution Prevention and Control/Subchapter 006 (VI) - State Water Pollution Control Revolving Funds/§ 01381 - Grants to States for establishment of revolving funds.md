@@ -6,7 +6,7 @@ Subject to the provisions of this subchapter, the Administrator shall make capit
 
 #### (b) Schedule of grant payments
 
-The Administrator and each State shall jointly establish a schedule of payments under which the Administrator will pay to the State the amount of each grant to be made to the Stateunder this subchapter. Such schedule shall be based on the State's intended use plan under section 1386(c) of this title, except that—
+The Administrator and each State shall jointly establish a schedule of payments under which the Administrator will pay to the State the amount of each grant to be made to the State under this subchapter. Such schedule shall be based on the State's intended use plan under section 1386(c) of this title, except that—
 
 &emsp;(1) such payments shall be made in quarterly installments, and
 

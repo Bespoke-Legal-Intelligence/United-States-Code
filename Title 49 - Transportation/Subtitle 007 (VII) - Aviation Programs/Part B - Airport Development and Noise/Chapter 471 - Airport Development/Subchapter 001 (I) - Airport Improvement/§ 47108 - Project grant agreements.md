@@ -6,7 +6,7 @@ Offer and Acceptance.—On approving a project grant application under this subc
 
 (b)
 
-Increasing Government's Share Under This Subchapter or Chapter 475.—(1) When an offer has been accepted in writing, the amount stated in the offer as the maximum amount the Government will pay may be increased only asprovided in paragraphs (2) and (3) of this subsection.
+Increasing Government's Share Under This Subchapter or Chapter 475.—(1) When an offer has been accepted in writing, the amount stated in the offer as the maximum amount the Government will pay may be increased only as provided in paragraphs (2) and (3) of this subsection.
 
 (2)(A) For a project receiving assistance under a grant approved under the Airport and Airway Improvement Act of 1982 before October 1, 1987, the amount may be increased by not more than—
 
@@ -14,7 +14,7 @@ Increasing Government's Share Under This Subchapter or Chapter 475.—(1) When a
 
 &emsp;(ii) 50 percent of the total increase in allowable project costs attributable to acquiring an interest in land, based on current creditable appraisals.
 
-(B) An increase under subparagraph (A) of this paragraph may be paid only from amounts the Government recovers from other grants made under this subchapter.
+(B) An increase under subparagraph (A) of this paragraph may be paid only from amounts theGovernment recovers from other grants made under this subchapter.
 
 (3) For a project receiving assistance under a grant approved under the Act, this subchapter, or chapter 475 of this title after September 30, 1987, the amount may be increased—
 
@@ -92,7 +92,7 @@ In subsection (b)(2), the text of 49 App.:2211(b)(2) (last sentence) is restated
 
 In subsection (b)(3)(B), the words “for fiscal year 1993 and thereafter” are omitted as unnecessary.
 
-In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. Thewords “a project receiving assistance under” are added for consistency.
+In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “a project receiving assistance under” are added for consistency.
 
 In subsection (d), the word “sponsor” is substituted for “grant recipient” for clarity. The words “amount the Government may pay” are substituted for “obligation of the United States authorized” for clarity and consistency in this section.
 
@@ -100,7 +100,7 @@ In subsection (d), the word “sponsor” is substituted for “grant recipient�
 
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A), (3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
-The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 #### Amendments
 

@@ -26,27 +26,25 @@ In carrying out AIDS research, the Director of the Office—
 
 &emsp;(6) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts and cooperative agreements with any public agency, or with any person, firm, association, corporation, or educational institution, as may be necessary to expedite and coordinate research relating to acquired immune deficiency syndrome.
 
-#### (b) Report to Secretary
+#### (b) Projects for cooperation among public and private health entities
 
-The Director of the Office shall each fiscal year prepare and submit to the Secretary, for inclusion in the comprehensive report required in section 300cc(a) of this title, a report—
+In carrying out subsection (a) of this section, the Director of the Office shall establish projects to promote cooperation among Federal agencies, State, local, and regional public health agencies, and private entities, in research concerning the diagnosis, prevention, and treatment of acquired immune deficiency syndrome.
 
-&emsp;(1) describing and evaluating the progress made in such fiscal year in research, treatment, and training with respect to acquired immune deficiency syndrome conducted or supported by the Institutes;
-
-&emsp;(2) summarizing and analyzing expenditures made in such fiscal year for activities with respect to acquired immune deficiency syndrome conducted or supported by the National Institutes of Health; and
-
-&emsp;(3) containing such recommendations as the Director considers appropriate.
-
-#### (c) Projects for cooperation among public and private health entities
-
-In carrying out subsection (a) of this section, the Director of the Office shall establish projects to promote cooperation among Federal agencies, State, local, and regional public healthagencies, and private entities, in research concerning the diagnosis, prevention, and treatment of acquired immune deficiency syndrome.
-
-(July 1, 1944, ch. 373, title XXIII, §2354, formerly §2351, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3076; renumbered §2354 and amended Pub. L. 103–43, title XVIII, §1801(a)(2), (b), June 10, 1993, 107 Stat. 192, 196.)
+(July 1, 1944, ch. 373, title XXIII, §2354, formerly §2351, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3076; renumbered §2354 and amended Pub. L. 103–43, title XVIII, §1801(a)(2), (b), June 10, 1993, 107 Stat. 192, 196; Pub. L. 109–482, title I, §104(b)(2)(D), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### Codification
 
 In subsec. (a)(5)(C), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2007—Subsecs. (b), (c). Pub. L. 109–482 redesignated subsec. (c) as (b) and struck out former subsec. (b). Subsec. (b) text read as follows: “The Director of the Office shall each fiscal year prepare and submit to the Secretary, for inclusion in the comprehensive report required in section 300cc(a) of this title, a report—
+
+&emsp;“(1) describing and evaluating the progress made in such fiscal year in research, treatment, and training with respect to acquired immune deficiency syndrome conducted or supported by the Institutes;
+
+&emsp;“(2) summarizing and analyzing expenditures made in such fiscal year for activities with respect to acquired immune deficiency syndrome conducted or supported by the National Institutes of Health; and
+
+&emsp;“(3) containing such recommendations as the Director considers appropriate.”
 
 1993—Pub. L. 103–43, §1801(b)(1), substituted “Additional” for “Establishment of” in section catchline.
 
@@ -71,4 +69,8 @@ Subsec. (a)(6) to (8). Pub. L. 103–43, §1801(b)(2)(B), redesignated pars. (6)
 Subsec. (b). Pub. L. 103–43, §1801(b)(3), substituted “The Director of the Office shall” for “The Director of the National Institutes of Health, acting through the Director of the Office of AIDS Research, shall”.
 
 Subsec. (c). Pub. L. 103–43, §1801(b)(4), substituted “the Director of the Office shall” for “the Director of the National Institutes of Health shall”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

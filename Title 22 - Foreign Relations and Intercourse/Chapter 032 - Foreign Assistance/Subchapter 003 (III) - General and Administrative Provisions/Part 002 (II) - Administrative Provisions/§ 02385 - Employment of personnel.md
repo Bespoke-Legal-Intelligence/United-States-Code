@@ -10,11 +10,11 @@ Of the personnel employed in the United States to carry out subchapter I of this
 
 #### (c) Additional supergrade positions
 
-Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of this chapter in whole or in part, not to exceed eight may be compensated at rates higher than thoseprovided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of this chapter in whole or in part, not to exceed eight may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
-For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment ofofficers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
 
 #### (e) Repealed. Pub. L. 96–465, title II, §2205(8), Oct. 17, 1980, 94 Stat. 2160
 
@@ -32,7 +32,17 @@ Notwithstanding any other provision of law, officers and employees of the United
 
 To the maximum extent practicable officers and employees performing functions under this chapter abroad shall be assigned to countries and positions for which they have special competence, such as appropriate language and practical experience.
 
-(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544.)
+#### (j) Reemployment of annuitants under the Civil Service Retirement System and the Federal Employees’ Retirement System
+
+(1)(A) To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Administrator of the United States Agency for International Development may waive the application of the provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of an annuitant in a position in the United States Agency for International Development for which there is exceptional difficulty in recruiting or retaining a qualified employee, or when a temporary emergency hiring need exists.
+
+(B) The authority of the Administrator under subparagraph (A) shall terminate on October 1, 2008. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+
+(2) The Administrator should prescribe procedures for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for a delegation of authority.
+
+(3) An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
+
+(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442.)
 
 #### References in Text
 
@@ -45,6 +55,8 @@ The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
+
+2006—Subsec. (j). Pub. L. 109–234 added subsec. (j).
 
 1981—Subsec. (d). Pub. L. 97–113 substituted “or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980” for “together with allowances and benefits under that Act”.
 

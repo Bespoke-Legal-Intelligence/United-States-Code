@@ -232,6 +232,8 @@ Navajo National Monument, Arizona.—Proc. No. 873, May 20, 1909, 36 Stat. 2491;
 
 Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978, 93 Stat. 1468.
 
+Northwestern Hawaiian Islands Marine National Monument, Hawaii.—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
+
 Ocmulgee National Monument, Georgia \[see section 447a of this title\].—Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1654; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
 
 Old Kasaan National Monument, Alaska \[Monument abolished and incorporated in Tongass National Forest by act July 26, 1955, ch. 387, 69 Stat. 380\].—Proc. No. 1351, Oct. 25, 1916, 39 Stat. 1812.
@@ -412,13 +414,13 @@ Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 
 
 Mount Rushmore National Memorial, South Dakota.—Act Feb. 25, 1929, ch. 315, 45 Stat. 1300.
 
-Mt. Soledad Veterans Memorial, California.—Pub. L. 108–447, div. J, title I, §116, Dec. 8, 2004, 118 Stat. 3346.
+Mt. Soledad Veterans Memorial, California.—Pub. L. 108–447, div. J, title I, §116, Dec. 8, 2004, 118 Stat. 3346; Pub. L. 109–272, Aug. 14, 2006, 120 Stat. 770; Pub. L. 109–364, div. A, title X, §1071(d), Oct. 17, 2006, 120 Stat. 2401.
 
 National D-Day Memorial, Virginia.—Pub. L. 104–201, div. A, title X, §1080, Sept. 23, 1996, 110 Stat. 2670.
 
 National Fallen Firefighters’ Memorial, Maryland.—Pub. L. 101–347, Aug. 9, 1990, 104 Stat. 398.
 
-National Law Enforcement Officers Memorial, District of Columbia.—Establishment of Maintenance Fund by Pub. L. 104–329, title II, §201, Oct. 20, 1996, 110 Stat. 4011.
+National Law Enforcement Officers Memorial, District of Columbia.—Establishment of Maintenance Fund by Pub. L. 104–329, title II, §201, Oct. 20, 1996, 110 Stat. 4011; Pub. L. 109–314, Oct. 6, 2006, 120 Stat. 1739.
 
 National Medal of Honor Sites.—Pub. L. 106–83, Oct. 28, 1999, 113 Stat. 1293.
 

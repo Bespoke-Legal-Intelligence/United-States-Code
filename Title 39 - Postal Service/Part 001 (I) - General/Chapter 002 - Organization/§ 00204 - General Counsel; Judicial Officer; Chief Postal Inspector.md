@@ -2,7 +2,7 @@
 
 There shall be within the Postal Service a General Counsel, such number of Assistant Postmasters General as the Board shall consider appropriate, a Judicial Officer, and a Chief Postal Inspector. The General Counsel, the Assistant Postmasters General, the Judicial Officer, and the Chief Postal Inspector shall be appointed by, and serve at the pleasure of, the Postmaster General. The Judicial Officer shall perform such quasi-judicial duties, not inconsistent with chapter 36 of this title, as the Postmaster General may designate. The Judicial Officer shall be the agency for the purposes of the requirements of chapter 5 of title 5, to the extent that functions are delegated to him by the Postmaster General. The Chief Postal Inspector shall report to, and be under the general supervision of, the Postmaster General. The Postmaster General shall promptly notify the Governors and both Houses of Congress in writing if he or she removes the Chief Postal Inspector or transfers the Chief Postal Inspector to another position or location within the Postal Service, and shall include in any such notification the reasons for the removal or transfer.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 721; Pub. L. 104–208, div. A, title I, §101(f) \[title VI,§662(f)(2)(A)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 721; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(f)(2)(A)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382.)
 
 #### Amendments
 

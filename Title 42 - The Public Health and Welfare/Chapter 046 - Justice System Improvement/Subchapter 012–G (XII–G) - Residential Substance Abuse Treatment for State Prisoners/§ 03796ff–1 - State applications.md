@@ -20,7 +20,7 @@ To be eligible to receive funds under this subchapter, a State must agree to imp
 
 (1) To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care <sup>2</sup> services.
 
-(2) State aftercare services must involve the coordination of the correctional facility treatment program with other human service and rehabilitation programs, such as educational andjob training programs, parole supervision programs, half-way house programs, and participation in self-help and peer group programs, that may aid in the rehabilitation of individuals in the substance abuse treatment program.
+(2) State aftercare services must involve the coordination of the correctional facility treatment program with other human service and rehabilitation programs, such as educational and job training programs, parole supervision programs, half-way house programs, and participation in self-help and peer group programs, that may aid in the rehabilitation of individuals in the substance abuse treatment program.
 
 (3) To qualify as an aftercare program, the head of the substance abuse treatment program, in conjunction with State and local authorities and organizations involved in substance abuse treatment, shall assist in placement of substance abuse treatment program participants with appropriate community substance abuse treatment facilities when such individuals leave the correctional facility at the end of a sentence or on parole.
 
@@ -28,7 +28,7 @@ To be eligible to receive funds under this subchapter, a State must agree to imp
 
 #### (d) Coordination of Federal assistance
 
-Each application submitted for a grant under this section shall include a description of how the funds made available under this section will be coordinated with Federal assistance for substance abuse treatment and aftercare services currently provided by the Department of Health and Human Services’ Substance Abuse and Mental Health Services Administration.
+Each application submitted for a grant under this section shall include a description of how the funds made available under this section will be coordinated with Federal assistance for substance abuse treatment and aftercare services currently provided by the Department of Healthand Human Services’ Substance Abuse and Mental Health Services Administration.
 
 #### (e) State office
 
@@ -61,6 +61,8 @@ Subsec. (e). Pub. L. 109–162, §1111(c)(2)(J), substituted “The office respo
 #### Effective Date of 2006 Amendment
 
 Amendment by section 1111(c)(2)(J) of Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
+
+Pub. L. 109–162, title XI, §1147, as added by Pub. L. 109–271, §8(n)(2)(A), Aug. 12, 2006, 120 Stat. 767, provided that: “The amendments made by sections 1144 and 1145 \[amending this section and sections 3796ff–2 and 3796ff–3 of this title\] shall take effect on October 1, 2006.”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

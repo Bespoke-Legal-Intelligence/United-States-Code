@@ -16,7 +16,7 @@ The purpose of the Residential Energy Assistance Challenge (in this section refe
 
 #### (1) Allocation
 
-&emsp;For each fiscal year, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to States that submit qualifying plans that are approved by the Secretary as R.E.A.Ch. initiatives. States may use suchgrants for the costs of planning, implementing, and evaluating the initiative.
+&emsp;For each fiscal year, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to States that submit qualifying plans that are approved by the Secretary as R.E.A.Ch. initiatives. States may use such grants for the costs of planning, implementing, and evaluating the initiative.
 
 #### (2) Reservation
 

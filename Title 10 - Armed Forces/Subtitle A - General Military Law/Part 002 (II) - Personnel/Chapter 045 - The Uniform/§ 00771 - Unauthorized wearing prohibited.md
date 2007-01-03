@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §125 (1st par., less provisos), 39 Stat. 216.
 
-The words “Except as otherwise provided by law” are inserted to give effect to exceptions in other revised sections of this title and to provisions of other laws giving such organizations as the Coast and Geodetic Survey and the Public Health Service permission to wear military uniforms under certain conditions.
+The words “Except as otherwise provided by law” are inserted to give effect to exceptions in other revised sections of this title and to provisions of other laws giving such organizations as the Coast and GeodeticSurvey and the Public Health Service permission to wear military uniforms under certain conditions.
 

@@ -10,7 +10,7 @@ Alternative to Creation of Wetland.—Participation in a wetland mitigation bank
 
 (c)
 
-Treatment of Payments.—Payments made under subsection (a) to a wetland mitigation banking program or consolidated user site may be treated as eligible project costs for military construction.
+Treatment of Payments.—Payments made under subsection (a) to a wetland mitigationbanking program or consolidated user site may be treated as eligible project costs for military construction.
 
 (Added Pub. L. 108–136, div. A, title III, §314(a)(1), Nov. 24, 2003, 117 Stat. 1430.)
 

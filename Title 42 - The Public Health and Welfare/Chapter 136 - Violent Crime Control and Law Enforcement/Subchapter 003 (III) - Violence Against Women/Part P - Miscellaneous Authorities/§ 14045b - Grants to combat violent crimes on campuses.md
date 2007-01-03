@@ -8,7 +8,7 @@
 
 #### (2) Award basis
 
-&emsp;The Attorney General shall award grants and contracts under this section on a competitive basis for a period of 3 years. The Attorney General, through the Director of the Office on Violence Against Women, shall award the grants in amounts of not more than $500,000for individual institutions of higher education and not more than $1,000,000 for consortia of such institutions.
+&emsp;The Attorney General shall award grants and contracts under this section on a competitive basis for a period of 3 years. The Attorney General, through the Director of the Office on Violence Against Women, shall award the grants in amounts of not more than $500,000 for individual institutions of higher education and not more than $1,000,000 for consortia of such institutions.
 
 #### (3) Equitable participation
 
@@ -26,11 +26,11 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;(1) To provide personnel, training, technical assistance, data collection, and other equipment with respect to the increased apprehension, investigation, and adjudication of persons committing domestic violence, dating violence, sexual assault, and stalking on campus.
 
-&emsp;(2) To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking. Within 90 days after January 5, 2006, the Attorney General shall issue and make available minimum standards of training relating to domestic violence, dating violence, sexual assault, and stalking on campus, for all campus security personnel and personnel serving on campus disciplinary or judicial boards.
+&emsp;(2) To develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault and stalking, and to train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards on such policies, protocols, and services. Within 90 days after January 5, 2006, the Attorney General shall issue and make available minimum standards of training relating to domestic violence, dating violence, sexual assault, and stalking on campus, for all campus security personnel and personnel serving on campus disciplinary or judicial boards.
 
 &emsp;(3) To implement and operate education programs for the prevention of domestic violence, dating violence, sexual assault, and stalking.
 
-&emsp;(4) To develop, enlarge, or strengthen victim services programs on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, dating violence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create a victim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph.
+&emsp;(4) To develop, enlarge, or strengthen victim services programs on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, datingviolence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create a victim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph.
 
 &emsp;(5) To create, disseminate, or otherwise provide assistance and information about victims’ options on and off campus to bring disciplinary or other legal action, including assistance to victims in immigration matters.
 
@@ -76,7 +76,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 #### (A) Annual report
 
-&emsp;&emsp;Each institution of higher education receiving a grant under this section shall submit a biennial performance report to the Attorney General. The Attorney General shall suspend funding under this section for an institution of higher education if the institution fails to submit such a report.
+&emsp;&emsp;Each institution of higher education receiving a grant under this section shall submit a performance report to the Attorney General. The Attorney General shall suspend funding under this section for an institution of higher education if the institution fails to submit such a report.
 
 #### (B) Final report
 
@@ -98,7 +98,13 @@ Grant funds awarded under this section may be used for the following purposes:
 
 For the purpose of carrying out this section, there are authorized to be appropriated $12,000,000 for fiscal year 2007 and $15,000,000 for each of fiscal years 2008 through 2011.
 
-(Pub. L. 109–162, title III, §304, Jan. 5, 2006, 119 Stat. 3013.)
+#### (f) Omitted
+
+#### (g) Definitions and grant conditions
+
+In this section the definitions and grant conditions in section 13925 of this title shall apply.
+
+(Pub. L. 109–162, title III, §304, Jan. 5, 2006, 119 Stat. 3013; Pub. L. 109–271, §§1(c)(1), 4(b), (d), Aug. 12, 2006, 120 Stat. 750, 758.)
 
 #### References in Text
 
@@ -109,6 +115,18 @@ This part, referred to in subsec. (d)(3)(D), appearing in the original is uniden
 Section is comprised of section 304 of Pub. L. 109–162. Subsec. (f) of section 304 of Pub. L. 109–162 repealed section 1152 of Title 20, Education.
 
 Section was enacted as part of the Violence Against Women and Department of Justice Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–271, §4(b), inserted first sentence and struck out former first sentence which read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
+
+Subsec. (d)(2)(A). Pub. L. 109–271, §4(d), struck out “biennial” before “performance report”.
+
+Subsec. (g). Pub. L. 109–271, §1(c)(1), added subsec. (g).
+
+#### Effective Date
+
+Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

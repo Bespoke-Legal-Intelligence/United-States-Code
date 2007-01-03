@@ -86,6 +86,24 @@ Section 202(b) of Pub. L. 103–35 provided that: “The amendments made by this
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Increased Flexibility in Use of Funds for Joint Staff Exercises
+
+Pub. L. 109–364, div. A, title X, §1052, Oct. 17, 2006, 120 Stat. 2396, provided that:
+
+“(a)
+
+In General.—Amounts available to the Chairman of the Joint Chiefs of Staff for joint staff exercises may be available for any expenses as follows:
+
+&emsp;“(1) Expenses of the Armed Forces in connection with such exercises, including expense relating to self-deploying watercraft under the jurisdiction of a military department.
+
+&emsp;“(2) Expenses relating to the costs of port support activities in connection with such exercises, including transportation and port handling.
+
+&emsp;“(3) Expenses relating to the breakout and operation of prepositioned watercraft and lighterage for joint logistics and over the shore exercises in connection with such exercises.
+
+“(b)
+
+Supplement Not Supplant.—Any amounts made available by the Chairman of the Joint Chiefs of Staff under subsection (a) for expenses covered by that subsection are in addition to any other amounts available under law for such expenses.”
+
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 
 Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that:

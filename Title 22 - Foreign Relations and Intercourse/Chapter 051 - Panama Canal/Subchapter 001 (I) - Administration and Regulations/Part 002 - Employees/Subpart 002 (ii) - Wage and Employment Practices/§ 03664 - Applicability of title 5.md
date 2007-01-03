@@ -40,7 +40,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 &emsp;(19) Chapter 89 (relating to health insurance).
 
-(Pub. L. 96–70, title I, §1224, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, §3536, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3524(a)(2), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, §1224, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, §3536, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3524(a)(2), Nov. 18, 1997, 111Stat. 2065; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 #### Amendments
 
@@ -48,7 +48,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 1997—Pars. (10) to (20). Pub. L. 105–85 redesignated pars. (11) to (20) as (10) to (19), respectively, and struck out former par. (10) which read as follows: “Chapter 57 (relating to travel, transportation, and subsistence).”
 
-1996—Pub. L. 104–201 substituted “title 5” for “certain laws” in section catchline and amended text generally.Prior to amendment, text read as follows: “This part does not affect the applicability of—
+1996—Pub. L. 104–201 substituted “title 5” for “certain laws” in section catchline and amended text generally. Prior to amendment, text read as follows: “This part does not affect the applicability of—
 
 &emsp;“(1) the provisions of title 5 which relate to preference eligibles;
 

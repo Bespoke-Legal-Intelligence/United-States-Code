@@ -30,7 +30,7 @@ Any State or franchising authority may not prohibit the ownership or control of 
 
 (1) In order to enhance effective competition, the Commission shall, within one year after October 5, 1992, conduct a proceeding—
 
-&emsp;(A) to prescribe rules and regulations establishing reasonable limits on the number of cable subscribers a person is authorized toreach through cable systems owned by such person, or in which such person has an attributable interest;
+&emsp;(A) to prescribe rules and regulations establishing reasonable limits on the number of cable subscribers a person is authorized to reach through cable systems owned by such person, or in which such person has an attributable interest;
 
 &emsp;(B) to prescribe rules and regulations establishing reasonable limits on the number of channels on a cable system that can be occupied by a video programmer in which a cable operator has an attributable interest; and
 

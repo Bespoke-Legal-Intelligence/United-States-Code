@@ -10,3 +10,7 @@ With respect to a request described in subsection (a) of this section, the Secre
 
 (July 1, 1944, ch. 373, title XXVI, §2666, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 614.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+

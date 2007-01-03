@@ -58,7 +58,7 @@
 
 &emsp;(B) consult with the Secretary of State with respect to foreign fishing and with the Secretary of the department in which the Coast Guard is operating with respect to enforcement at sea.
 
-(3) Notwithstanding paragraph (1) for a fishery under the authority of a Council, the Secretary may not include in any fishery management plan, or any amendment to any such plan, prepared by him, a provision establishing a limited access system, including any individual fishing quota program, unless such system is first approved by a majority of the voting members, present and voting, of each appropriate Council.
+(3) Notwithstanding paragraph (1) for a fishery under the authority of a Council, the Secretary may not include in any fishery management plan, or any amendment to any such plan, prepared by him, a provision establishing a limited access system, including any limited access privilege program, unless such system is first approved by a majority of the voting members, present and voting, of each appropriate Council.
 
 (4) Whenever the Secretary prepares a fishery management plan or plan amendment under this section, the Secretary shall immediately—
 
@@ -76,15 +76,15 @@
 
 (1) The Secretary shall by regulation establish the level of any fees which are authorized to be charged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
 
-(2)(A) Notwithstanding paragraph (1), the Secretary is authorized and shall collect a fee to recover the actual costs directly related to the management and enforcement of any—
+(2)(A) Notwithstanding paragraph (1), the Secretary is authorized and shall collect a fee to recover the actual costs directly related to the management, data collection, and enforcement of any—
 
-&emsp;(i) individual fishing quota program; and
+&emsp;(i) limited access privilege program; and
 
 &emsp;(ii) community development quota program that allocates a percentage of the total allowable catch of a fishery to such program.
 
 (B) Such fee shall not exceed 3 percent of the ex-vessel value of fish harvested under any such program, and shall be collected at either the time of the landing, filing of a landing report, or sale of such fish during a fishing season or in the last quarter of the calendar year in which the fish is harvested.
 
-(C)(i) Fees collected under this paragraph shall be in addition to any other fees charged under this chapter and shall be deposited in the Limited Access System Administration Fund established under section 1855(h)(5)(B) of this title, except that the portion of any such fees reserved under section 1853(d)(4)(A) of this title shall be deposited in the Treasury and available, subject to annual appropriations, to cover the costs of new direct loan obligations and new loan guarantee commitments as required by section 661c(b)(1) <sup>1</sup> of title 2.
+(C)(i) Fees collected under this paragraph shall be in addition to any other fees charged underthis chapter and shall be deposited in the Limited Access System Administration Fund established under section 1855(h)(5)(B) of this title.
 
 (ii) Upon application by a State, the Secretary shall transfer to such State up to 33 percent of any fee collected pursuant to subparagraph (A) under a community development quota program and deposited in the Limited Access System Administration Fund in order to reimburse such State for actual costs directly incurred in the management and enforcement of such program.
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) in the case of a fishery to which section 1852(a)(3) of this title applies, immediately make revisions necessary to achieve adequate progress; or
 
-&emsp;(B) for all other fisheries, immediately notify the appropriate Council. Such notification shall recommend further conservation and management measures which the Councilshould consider under paragraph (3) to achieve adequate progress.
+&emsp;(B) for all other fisheries, immediately notify the appropriate Council. Such notification shall recommend further conservation and management measures which the Council should consider under paragraph (3) to achieve adequate progress.
 
 #### (f) Fisheries under authority of more than one Council
 
@@ -164,23 +164,95 @@
 
 #### (2) Certain fish excluded from “bycatch” definition
 
-&emsp;Notwithstanding section 1802(2) of this title, fish harvested in a commercial fishery managed by the Secretary under this subsection or the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971d) that are not regulatory discards and that are tagged and released alive under a scientific tagging and release program established by the Secretary shall not be considered bycatch for purposes of this chapter.
+&emsp;Notwithstanding section 1802(2) of this title, fish harvested in a commercial fishery managed by the Secretary under this subsection or the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971d), or highly migratory species harvested in a commercial fishery managed by a Council under this chapter or the Western and Central Pacific Fisheries Convention Implementation Act \[16 U.S.C. 6901 et seq.\], that are not regulatory discards and that are tagged and released alive under a scientific tagging and release program established by the Secretary shall not be considered bycatch for purposes of this chapter.
 
 #### (h) Repeal or revocation of a fishery management plan
 
 The Secretary may repeal or revoke a fishery management plan for a fishery under the authority of a Council only if the Council approves the repeal or revocation by a three-quarters majority of the voting members of the Council.
 
-(Pub. L. 94–265, title III, §304, Apr. 13, 1976, 90 Stat. 352; Pub. L. 97–453, §7(a), Jan. 12, 1983, 96 Stat. 2487; Pub. L. 99–659, title I, §106, Nov. 14, 1986, 100 Stat. 3712; Pub. L. 101–627, title I, §§110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, 104 Stat. 4449–4452, 4459; Pub. L. 102–567, title III, §303, Oct. 29, 1992, 106 Stat. 4283; Pub. L. 103–206, title VII, §702, Dec. 20, 1993, 107 Stat. 2446; Pub. L. 104–297, title I, §109(a)–(c), (e)–(g), (i), Oct. 11, 1996, 110 Stat. 3581–3585, 3587.)
+#### (i) <sup>2</sup> Environmental review process
+
+#### (1) Procedures
+
+&emsp;The Secretary shall, in consultation with the Councils and the Council on Environmental Quality, revise and update agency procedures for compliance with the National Environmental Policy Act (42 U.S.C. 4231 et seq.). The procedures shall—
+
+&emsp;&emsp;(A) conform to the time lines for review and approval of fishery management plans and plan amendments under this section; and
+
+&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that is useful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
+
+#### (2) Usage
+
+&emsp;The updated agency procedures promulgated in accordance with this section used by the Councils or the Secretary shall be the sole environmental impact assessment procedure for fishery management plans, amendments, regulations, or other actions taken or approved pursuant to this chapter.
+
+#### (3) Schedule for promulgation of final procedures
+
+&emsp;The Secretary shall—
+
+&emsp;&emsp;(A) propose revised procedures within 6 months after January 12, 2007;
+
+&emsp;&emsp;(B) provide 90 days for public review and comments; and
+
+&emsp;&emsp;(C) promulgate final procedures no later than 12 months after January 12, 2007.
+
+#### (4) Public participation
+
+&emsp;The Secretary is authorized and directed, in cooperation with the Council on Environmental Quality and the Councils, to involve the affected public in the development of revised procedures, including workshops orother appropriate means of public involvement.
+
+#### (i) <sup>2</sup> International overfishing
+
+The provisions of this subsection shall apply in lieu of subsection (e) to a fishery that the Secretary determines is overfished or approaching a condition of being overfished due to excessive international fishing pressure, and for which there are no management measures to end overfishing under an international agreement to which the United States is a party. For such fisheries—
+
+&emsp;(1) the Secretary, in cooperation with the Secretary of State,<sup>3</sup> immediately take appropriate action at the international level to end the overfishing; and
+
+&emsp;(2) within 1 year after the Secretary's determination, the appropriate Council, or Secretary, for fisheries under section 1852(a)(3) of this title shall—
+
+&emsp;&emsp;(A) develop recommendations for domestic regulations to address the relative impact of fishing vessels of the United States on the stock and, if developed by a Council, the Council shall submit such recommendations to the Secretary; and
+
+&emsp;&emsp;(B) develop and submit recommendations to the Secretary of State, and to the Congress, for international actions that will end overfishing in the fishery and rebuild the affected stocks, taking into account the relative impact of vessels of other nations and vessels of the United States on the relevant stock.
+
+(Pub. L. 94–265, title III, §304, Apr. 13, 1976, 90 Stat. 352; Pub. L. 97–453, §7(a), Jan. 12, 1983, 96 Stat. 2487; Pub. L. 99–659, title I, §106, Nov. 14, 1986, 100 Stat. 3712; Pub. L. 101–627, title I, §§110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, 104 Stat. 4449–4452, 4459; Pub. L. 102–567, title III, §303, Oct. 29, 1992, 106 Stat. 4283; Pub. L. 103–206, title VII, §702, Dec. 20, 1993, 107 Stat. 2446; Pub. L. 104–297, title I, §109(a)–(c), (e)–(g), (i), Oct. 11, 1996, 110 Stat. 3581–3585, 3587; Pub. L. 109–479, §3(d)(2), title I, §§104(c), 106(b), (d), 107, title IV, §406, Jan. 12, 2007, 120 Stat. 3578, 3584, 3593, 3594, 3633.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 109–479, title I, §104(c), (d), Jan. 12, 2007, 120 Stat. 3584, 3585, provided that, effective 30 months after Jan. 12, 2007, subsection (e) of this section is amended:</i>
+
+<i>(1) by striking “one year of” in paragraph (3) and inserting “2 years after”;</i>
+
+<i>(2) by inserting “and implement” after “prepare” in paragraph (3);</i>
+
+<i>(3) by inserting “immediately” after “overfishing” in paragraph (3)(A);</i>
+
+<i>(4) by striking “ending overfishing and” in paragraph (4)(A); and</i>
+
+<i>(5) by striking “one-year” in paragraph (5) and inserting “2-year”.</i>
 
 #### References in Text
 
-Section 661c(b)(1) of title 2, referred to in subsec. (d)(2)(C)(i), was in the original a reference to “section 504(b)(1) of the Federal Credit Reform Act (2 U.S.C. 661c(b)(1))” and was translated as meaning section 504(b)(1) of the Federal Credit Reform Act of 1990, to reflect the probable intent of Congress.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297, title I, §109(f), Oct. 11, 1996, 110 Stat. 3585.
 
 The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+
+The National Environmental Policy Act, referred to in subsec. (i)(1), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 #### Amendments
+
+2007—Subsec. (c)(3). Pub. L. 109–479, §3(d)(2)(A), substituted “limited access privilege” for “individual fishing quota”.
+
+Subsec. (d)(2)(A). Pub. L. 109–479, §106(b), substituted “management, data collection, and enforcement” for “management and enforcement” in introductory provisions.
+
+Subsec. (d)(2)(A)(i). Pub. L. 109–479, §3(d)(2)(B), substituted “limited access privilege” for “individual fishing quota”.
+
+Subsec. (d)(2)(C)(i). Pub. L. 109–479, §106(d), substituted “section 1855(h)(5)(B) of this title.” for “section 1855(h)(5)(B) of this title, except that the portion of any such fees reserved under section 1853(d)(4)(A) of this title shall be deposited in the Treasury and available, subject to annual appropriations, to cover the costs of new direct loan obligations and new loan guarantee commitments as required by section 661c(b)(1) of title 2.”
+
+Subsec. (g)(2). Pub. L. 109–479, §406(b), substituted “(16 U.S.C. 971d), or highly migratory species harvested in a commercial fishery managed by a Council under this Act or the Western and Central Pacific Fisheries Convention Implementation Act,” for “(16 U.S.C. 971d)”.
+
+Subsec. (i). Pub. L. 109–479, §406(a), added subsec. (i) relating to international overfishing.
+
+Pub. L. 109–479, §107, added subsec. (i) relating to environmental review process.
 
 1996—Subsecs. (a), (b). Pub. L. 104–297, §109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
 
@@ -258,13 +330,17 @@ Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the 
 
 1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
-Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Counciland submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
+Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
-Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
+Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B)a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 
 Subsec. (c)(2). Pub. L. 97–453, §7(a)(2)(B), amended par. (2) generally, which had provided that whenever, pursuant to paragraph (1), the Secretary prepared a fishery management plan or amendment, the Secretary was to promptly transmit such plan or amendment to the appropriate Council for consideration and comment, that within 45 days after the date of receipt of such plan or amendment, the appropriate Council could recommend, to the Secretary, changes in such plan or amendment, consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that after the expiration of such 45-day period, the Secretary could implement such plan or amendment pursuant to section 1855 of this title.
 
 Subsec. (d). Pub. L. 97–453, §7(a)(3), inserted provisions relating to agreements with the States for the administration of the permit system and the permissible accrual to the States of fees collected under the system.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 109–479, title I, §104(d), Jan. 12, 2007, 120 Stat. 3585, provided that: “The amendments made by subsection (c) \[amending this section\] shall take effect 30 months after the date of enactment of this Act \[Jan. 12, 2007\].”
 
 #### Effective Date of 1983 Amendment
 
@@ -315,4 +391,8 @@ Section 108(k) of Pub. L. 101–627, as amended by Pub. L. 104–208, div. A, ti
 > shall remain in force and effect until superseded by a fishery management plan prepared by the Secretary, and regulations implementing that plan.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “shall”.</i>
 

@@ -1,0 +1,112 @@
+### §1396u–6. Medicaid Integrity Program
+
+#### (a) In general
+
+There is hereby established the Medicaid Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the program under this subchapter by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b).
+
+#### (b) Activities described
+
+Activities described in this subsection are as follows:
+
+&emsp;(1) Review of the actions of individuals or entities furnishing items or services (whether on a fee-for-service, risk, or other basis) for which payment may be made under a State plan approved under this subchapter (or under any waiver of such plan approved under section 1315 of this title) to determine whether fraud, waste, or abuse has occurred, is likely to occur, or whether such actions have any potential for resulting in an expenditure of funds under this subchapter in a manner which is not intended under the provisions of this subchapter.
+
+&emsp;(2) Audit of claims for payment for items or services furnished, or administrative services rendered, under a State plan under this subchapter, including—
+
+&emsp;&emsp;(A) cost reports;
+
+&emsp;&emsp;(B) consulting contracts; and
+
+&emsp;&emsp;(C) risk contracts under section 1396b(m) of this title.
+
+&emsp;(3) Identification of overpayments to individuals or entities receiving Federal funds under this subchapter.
+
+&emsp;(4) Education of providers of services, managed care entities, beneficiaries, and other individuals with respect to payment integrity and quality of care.
+
+#### (c) Eligible entity and contracting requirements
+
+#### (1) In general
+
+&emsp;An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) if the entity satisfies the requirements of paragraphs (2) and (3).
+
+#### (2) Eligibility requirements
+
+&emsp;The requirements of this paragraph are the following:
+
+&emsp;&emsp;(A) The entity has demonstrated capability to carry out the activities described in subsection (b).
+
+&emsp;&emsp;(B) In carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities.
+
+&emsp;&emsp;(C) The entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement.
+
+&emsp;&emsp;(D) The entity meets such other requirements as the Secretary may impose.
+
+#### (3) Contracting requirements
+
+&emsp;The entity has contracted with the Secretary in accordance with such procedures as the Secretary shall by regulation establish, except that such procedures shall include the following:
+
+&emsp;&emsp;(A) Procedures for identifying, evaluating, and resolving organizational conflicts of interest that are generally applicable to Federal acquisition and procurement.
+
+&emsp;&emsp;(B) Competitive procedures to be used—
+
+&emsp;&emsp;&emsp;(i) when entering into new contracts under this section;
+
+&emsp;&emsp;&emsp;(ii) when entering into contracts that may result in the elimination of responsibilities under section 202(b) of the Health Insurance Portability and Accountability Act of 1996; and
+
+&emsp;&emsp;&emsp;(iii) at any other time considered appropriate by the Secretary.
+
+&emsp;&emsp;(C) Procedures under which a contract under this section may be renewed without regard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
+
+> &emsp;The Secretary may enter into such contracts without regard to final rules having been promulgated.
+
+#### (4) Limitation on contractor liability
+
+&emsp;The Secretary shall by regulation provide for the limitation of a contractor's liability for actions taken to carry out a contract under the Program, and such regulation shall, to the extent the Secretary finds appropriate, employ the same or comparable standards and other substantive and procedural provisions as are contained in section 1320c–6 of this title.
+
+#### (d) Comprehensive plan for program integrity
+
+#### (1) 5-year plan
+
+&emsp;With respect to the 5-fiscal year period beginning with fiscal year 2006, and each such 5-fiscal year period that begins thereafter, the Secretary shall establish a comprehensive plan for ensuring the integrity of the program established under this subchapter by combatting fraud, waste, and abuse.
+
+#### (2) Consultation
+
+&emsp;Each 5-fiscal year plan established under paragraph (1) shall be developed by the Secretary in consultation with the Attorney General, the Director of the Federal Bureau of Investigation, the Comptroller General of the United States, the Inspector General of the Department of Health and Human Services, and State officials with responsibility for controlling provider fraud and abuse under State plans under this subchapter.
+
+#### (e) Appropriation
+
+#### (1) In general
+
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to carry out the Medicaid Integrity Program under this section, without further appropriation—
+
+&emsp;&emsp;(A) for fiscal year 2006, $5,000,000;
+
+&emsp;&emsp;(B) for each of fiscal years 2007 and 2008, $50,000,000; and
+
+&emsp;&emsp;(C) for each fiscal year thereafter, $75,000,000.
+
+#### (2) Availability
+
+&emsp;Amounts appropriated pursuant to paragraph (1) shall remain available until expended.
+
+#### (3) Increase in cms staffing devoted to protecting Medicaid program integrity
+
+&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100 the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
+
+#### (4) Annual report
+
+&emsp;Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2006), the Secretary shall submit a report to Congress which identifies—
+
+&emsp;&emsp;(A) the use of funds appropriated pursuant to paragraph (1); and
+
+&emsp;&emsp;(B) the effectiveness of the use of such funds.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74.)
+
+#### References in Text
+
+Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(B)(ii), is section 202(b) of title II of Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1998, which amended sections 1395h and 1395u of this title.
+
+#### Prior Provisions
+
+A prior section 1936 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
+

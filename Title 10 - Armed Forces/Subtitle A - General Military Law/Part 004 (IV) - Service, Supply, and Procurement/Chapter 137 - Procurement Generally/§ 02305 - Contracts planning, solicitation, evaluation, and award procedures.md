@@ -154,7 +154,7 @@
 
 &emsp;(ii) Proposals for the qualification or development of multiple sources of supply for the item.
 
-(3) If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in paragraphs (1) and (2) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded. Such objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
+(3) If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in paragraphs (1) and (2) to be considered in evaluating an offer for a contractmay be considered as objectives in negotiating the contract to be awarded. Such objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
 
 (4)(A) Whenever the head of an agency requires that proposals described in paragraph (1)(B) or (2)(B) be submitted by an offeror in its offer, the offeror shall not be required to provide a proposal that enables the United States to acquire competitively in the future an identical item if the item was developed exclusively at private expense unless the head of the agency determines that—
 
@@ -162,7 +162,7 @@
 
 &emsp;(ii) proposals by the original supplier of such item to meet the mobilization requirements are insufficient to meet the agency's mobilization needs.
 
-(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agencyshall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
+(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
 (e)
 
@@ -314,7 +314,7 @@ Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted “competitive
 
 “(ii) without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) when it can be clearly demonstrated from the existence of full and open competition or accurate prior cost experience with the product or service that acceptance of an initial proposal without discussions would result in the lowest overall cost to the United States.”
 
-Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802(d)(3)(B)–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802 (d)(3)(B)–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) In the case of award of a contract under subparagraph (A)(i), the head of the agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within the competitive range, considering only cost or price and the other factors included in the solicitation.
 
@@ -330,7 +330,7 @@ Subsec. (d)(3). Pub. L. 100–456, §806(a)(2), inserted provision that objectiv
 
 Subsec. (d)(4). Pub. L. 100–456, §806(a)(1), added par. (4).
 
-1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§924(a)\], Pub. L. 99–661, §924(a), amended subsec. (a) identically, in par. (2)(A)(i) striking out “(including price)” after “factors” and inserting “(including price)” and “(including cost and price)” and adding par. (3).
+1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§924(a)\], Pub. L. 99–661, §924(a), amended subsec. (a) identically, in par. (2)(A)(i) striking out “(including price)” after “factors” and inserting “(includingprice)” and “(including cost and price)” and adding par. (3).
 
 Subsec. (b)(4)(B). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§924(b)\], Pub. L. 99–661, §924(b), amended subpar. (B) identically, inserting “cost or”.
 
@@ -410,7 +410,7 @@ Regulations.—The Federal Acquisition Regulation shall be revised as necessary 
 
 #### Certificate of Competency Requirements
 
-Pub. L. 102–484, div. A, title VIII, §804, Oct. 23, 1992, 106 Stat. 2447, provided that, in case of contract to be entered into pursuant to this chapter, other than pursuant to simplified procedures under section 2304(g) of this title, solicitation was to contain notice of right of bidding small business concern, in case of determination by contracting officer that concern was nonresponsible, to request Small Business Administration to make determination of responsibility under section 637(b)(7) of Title 15, Commerce and Trade, that if contracting officer determined that concern was nonresponsible, such officer was to notify concern in writing, of such determination, that concern had right to request Small Business Administration to make determination, and that, if concern desired to request such determination, concern was to inform officer in writing, within 14 days after receipt of notice, of such desire, and that, after being so informed, officer was to transmit request to Administration, or, if not so informed, officer was to proceed with award of contract, and contained provisions relating to effective and termination dates and report to be submitted to Congress, prior to repeal by Pub. L. 103–355, title VII, §7101(b), Oct. 13, 1994, 108 Stat. 3367.
+Pub. L. 102–484, div. A, title VIII, §804, Oct. 23, 1992, 106 Stat. 2447, provided that, in case of contract to be entered into pursuant to this chapter, other than pursuant to simplified procedures under section 2304(g) of this title, solicitation was to contain notice of right of bidding small business concern, in case of determination by contracting officer that concern was nonresponsible, to request Small Business Administration to make determination of responsibility under section637(b)(7) of Title 15, Commerce and Trade, that if contracting officer determined that concern was nonresponsible, such officer was to notify concern in writing, of such determination, that concern had right to request Small Business Administration to make determination, and that, if concern desired to request such determination, concern was to inform officer in writing, within 14 days after receipt of notice, of such desire, and that, after being so informed, officer was to transmit request to Administration, or, if not so informed, officer was to proceed with award of contract, and contained provisions relating to effective and termination dates and report to be submitted to Congress, prior to repeal by Pub. L. 103–355, title VII, §7101(b), Oct. 13, 1994, 108 Stat. 3367.
 
 #### Construction of 1984 Amendment
 

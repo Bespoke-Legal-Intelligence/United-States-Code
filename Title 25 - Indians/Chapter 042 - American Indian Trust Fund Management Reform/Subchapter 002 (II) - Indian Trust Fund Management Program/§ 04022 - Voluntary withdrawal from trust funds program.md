@@ -18,7 +18,7 @@ The Secretary shall approve such plan within 90 days of receipt and when approvi
 
 #### (c) Dissolution of trust responsibility
 
-Beginning on the date funds are withdrawn pursuant to this section, any trust responsibility or liability of the United States with respect to such funds shall cease except as provided for in section 4027 of this title.
+Beginning on the date funds are withdrawn pursuant to this section, any trust responsibility or liability of the United States with respectto such funds shall cease except as provided for in section 4027 of this title.
 
 (Pub. L. 103–412, title II, §202, Oct. 25, 1994, 108 Stat. 4242.)
 

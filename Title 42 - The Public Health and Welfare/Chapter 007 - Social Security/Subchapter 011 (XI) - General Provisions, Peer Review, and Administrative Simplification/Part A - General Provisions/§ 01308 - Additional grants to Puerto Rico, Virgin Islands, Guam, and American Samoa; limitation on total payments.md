@@ -16,7 +16,7 @@
 
 &emsp;Each territory shall be entitled to receive from the Secretary for each fiscal year a grant in an amount equal to 75 percent of the amount (if any) by which—
 
-&emsp;&emsp;(A) the total expenditures of the territory during the fiscal year under the territory programs funded under parts A and E of subchapter IV of this chapter, including any amount paid to the State under part A of subchapter IV of this chapter that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred; exceeds
+&emsp;&emsp;(A) the total expenditures of the territory during the fiscal year under the territory programs funded under parts A and E of subchapter IV of this chapter, including anyamount paid to the State under part A of subchapter IV of this chapter that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred; exceeds
 
 &emsp;&emsp;(B) the sum of—
 
@@ -106,7 +106,7 @@ Subject to subsection (g) of this section and section 1396u–5(e)(1)(B) of this
 
 #### (2) Fiscal year 1999 and thereafter
 
-&emsp;Notwithstanding subsection (f) of this section, with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX of this chapter for payment to—
+&emsp;Notwithstanding subsection (f) of this section and subject to paragraph (3), with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX of this chapter for payment to—
 
 &emsp;&emsp;(A) Puerto Rico shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
@@ -118,7 +118,23 @@ Subject to subsection (g) of this section and section 1396u–5(e)(1)(B) of this
 
 &emsp;&emsp;(E) American Samoa shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000.
 
-(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L.100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159.)
+#### (3) Fiscal years 2006 and 2007 for certain insular areas
+
+&emsp;The amounts otherwise determined under this subsection for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa for fiscal year 2006 and fiscal year 2007 shall be increased by the following amounts:
+
+&emsp;&emsp;(A) For Puerto Rico, $12,000,000 for fiscal year 2006 and $12,000,000 for fiscal year 2007.
+
+&emsp;&emsp;(B) For the Virgin Islands, $2,500,000 for fiscal year 2006 and $5,000,000 for fiscal year 2007.
+
+&emsp;&emsp;(C) For Guam, $2,500,000 for fiscal year 2006 and $5,000,000 for fiscal year 2007.
+
+&emsp;&emsp;(D) For the Northern Mariana Islands, $1,000,000 for fiscal year 2006 and $2,000,000 for fiscal year 2007.
+
+&emsp;&emsp;(E) For American Samoa, $2,000,000 for fiscal year 2006 and $4,000,000 for fiscal year 2007.
+
+> &emsp;Such amounts shall not be taken into account in applying paragraph (2) for fiscal year 2007 but shall be taken into account in applying such paragraph for fiscal year 2008 and subsequent fiscal years.
+
+(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159; Pub. L. 109–171, title VI, §6055, Feb. 8, 2006, 120 Stat. 96.)
 
 #### References in Text
 
@@ -129,6 +145,10 @@ Part F of subchapter IV of this chapter, referred to in subsec. (b)(1)(B)(ii), w
 Subsection (e) of this section, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title V, §5512(c), Aug. 5, 1997, 111 Stat. 619.
 
 #### Amendments
+
+2006—Subsec. (g)(2). Pub. L. 109–171, §6055(1), inserted “and subject to paragraph (3)” after “subsection (f) of this section” in introductory provisions.
+
+Subsec. (g)(3). Pub. L. 109–171, §6055(2), added par. (3).
 
 2003—Subsec. (b)(2). Pub. L. 108–40 substituted “2003” for “2002”.
 

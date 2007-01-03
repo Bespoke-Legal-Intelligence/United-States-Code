@@ -1,6 +1,6 @@
 ### §624. Promotions: how made
 
-(a)(1) When the report of a selection board convened under section 611(a) of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers approved for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of the seniority of such officers on the active-duty list.
+(a)(1) When the report of a selection board convened under section 611(a) of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers approved for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of the seniority of such officers on the active-duty list. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
 
 (2) Except as provided in subsection (d), officers on a promotion list for a competitive category shall be promoted to the next higher grade when additional officers in that grade and competitive category are needed. Promotions shall be made in the order in which the names of officers appear on the promotion list and after officers previously selected for promotion in that competitive category have been promoted. Officers to be promoted to the grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
 
@@ -22,27 +22,43 @@
 
 (c) Appointments under this section shall be made by the President, by and with the advice and consent of the Senate, except that appointments under this section in the grade of first lieutenant or captain, in the case of officers of the Army, Air Force, or Marine Corps, or lieutenant (junior grade) or lieutenant, in the case of officers of the Navy, shall be made by the President alone.
 
-(d)(1) Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may be delayed if—
+(d)(1) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may be delayed if—
 
 &emsp;(A) sworn charges against the officer have been received by an officer exercising general court-martial jurisdiction over the officer and such charges have not been disposed of;
 
 &emsp;(B) an investigation is being conducted to determine whether disciplinary action of any kind should be brought against the officer;
 
-&emsp;(C) a board of officers has been convened under chapter 60 of this title to review the record of the officer; or
+&emsp;(C) a board of officers has been convened under chapter 60 of this title to review the record of the officer;
 
-&emsp;(D) a criminal proceeding in a Federal or State court is pending against the officer.
+&emsp;(D) a criminal proceeding in a Federal or State court is pending against the officer; or
 
-> If no disciplinary action is taken against the officer, if the charges against the officer are withdrawn or dismissed, if the officer is not ordered removed from active duty by the Secretary concerned under chapter 60 of this title, or if the officer is acquitted of the charges brought against him, as the case may be, then unless action to delay an appointment has also been taken under paragraph (2) the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon promotion to the next higher grade, have the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
+&emsp;(E) substantiated adverse information about the officer that is material to the decision to appoint the officer is under review by the Secretary of Defense or the Secretary concerned.
 
-(2) Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may also be delayed in any case in which there is cause to believe that the officer is mentally, physically, morally, or professionally unqualified to perform the duties of the grade for which he was selected for promotion. If the Secretary concerned later determines that the officer is qualified for promotion to such grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon such promotion, have the same date of rank, the same effective date for pay and allowances in the higher grade to which appointed, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
+> If no disciplinary action is taken against the officer, if the charges against the officer are withdrawn or dismissed, if the officer is not ordered removed from active duty by the Secretary concerned under chapter 60 of this title, if the officer is acquitted of the charges brought against him, or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion, as the case may be, then unless action to delay an appointment has also been taken under paragraph (2) the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon promotion to the next higher grade, have the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
+
+(2) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may also be delayed in any case in which there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade for which he was selected for promotion. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon such promotion, have the same date of rank, the same effective date for pay and allowances in the higher grade to which appointed, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
 
 (3) The appointment of an officer may not be delayed under this subsection unless the officer has been given written notice of the grounds for the delay, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable. An officer whose promotion has been delayed under this subsection shall be afforded an opportunity to make a written statement to the Secretary concerned in response to the action taken. Any such statement shall be given careful consideration by the Secretary.
 
 (4) An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer's appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2857; amended Pub. L. 97–22, §4(d), July 10, 1981, 95 Stat. 126; Pub. L. 97–295, §1(8), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title V, §526, Oct. 19, 1984, 98 Stat. 2525; Pub. L. 107–107, div. A, title V, §505(a)(1), (c)(2)(A), (d)(1), Dec. 28, 2001, 115 Stat. 1085, 1087, 1088; Pub. L. 107–314, div. A, title X, §1062(a)(2), Dec. 2, 2002, 116 Stat. 2649.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2857; amended Pub. L. 97–22, §4(d), July 10, 1981, 95 Stat. 126; Pub. L. 97–295, §1(8), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title V, §526, Oct. 19, 1984, 98 Stat. 2525; Pub. L. 107–107, div. A, title V, §505(a)(1), (c)(2)(A), (d)(1), Dec. 28, 2001, 115 Stat. 1085, 1087, 1088; Pub. L. 107–314, div. A, title X, §1062(a)(2), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 109–364, div. A, title V, §511(a), (d)(1), Oct. 17, 2006, 120 Stat. 2181, 2183.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–364, §511(d)(1), inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
+
+Subsec. (d)(1). Pub. L. 109–364, §511(a)(2)(D)(ii), inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “brought against him,” in concluding provisions.
+
+Pub. L. 109–364, §511(a)(2)(D)(i), which directed amendment of subsec. (d)(1) in concluding provisions by striking out “or” after “chapter 60 of this title”, was executed by striking out “or” after “chapter 60 of this title,” to reflect the probable intent of Congress.
+
+Pub. L. 109–364, §511(a)(1), substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned” in introductory provisions.
+
+Subsec. (d)(1)(E). Pub. L. 109–364, §511(a)(2)(A)–(C), added subpar. (E).
+
+Subsec. (d)(2). Pub. L. 109–364, §511(a)(3), in first sentence inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and in second sentence substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to beamong the officers best qualified for promotion to such grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to such grade”.
+
+Pub. L. 109–364, §511(a)(1), substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned”.
 
 2002—Subsec. (d)(1). Pub. L. 107–314 substituted “paragraph (2)” for “subsection (d)(2)” in concluding provisions.
 
@@ -70,7 +86,23 @@ Subsec. (d)(2). Pub. L. 97–22, §4(d)(3)(C), substituted “Under regulations 
 
 Subsec. (d)(3). Pub. L. 97–22, §4(d)(3)(D), (E), inserted “, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable” after “grounds for the delay” and struck out “by the Secretary” after “the action taken”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title V, §511(e), Oct. 17, 2006, 120 Stat. 2184, provided that: “The amendments made by this section \[amending this section and sections 14308 and 14311 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\] and shall apply with respect to officers on promotion lists established on or after the date of the enactment of this Act.”
+
 #### Delegation of Functions
 
 Functions of President under subsec. (c) to appoint officers in grades of first lieutenant and captain in Army, Air Force, and Marine Corps or in grades of lieutenant (junior grade) and lieutenant in Navy delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(c), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+
+#### Deadline for Uniform Regulations on Delay of Promotions
+
+Pub. L. 109–364, div. A, title V, §511(c), Oct. 17, 2006, 120 Stat. 2183, provided that:
+
+“(1)
+
+Deadline.—The Secretary of Defense shall prescribe the regulations required by section 624(d) of title 10, United States Code (as amended by subsection (a)(1) of this section), and the regulations required by section 14311 of such title (as amended by subsection (b)(1) of this section) not later than March 1, 2008.
+
+“(2)
+
+Savings clause for existing regulations.—Until the Secretary of Defense prescribes regulations pursuant to paragraph (1), regulations prescribed by the Secretaries of the military departments under the sections referred to in paragraph (1) shall remain in effect.”
 

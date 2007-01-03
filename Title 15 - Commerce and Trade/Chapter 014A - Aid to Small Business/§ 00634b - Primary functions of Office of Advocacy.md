@@ -44,7 +44,7 @@ Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversar
 
 #### Termination of Administrative Conference of United States
 
-For termination of Administrative Conference of United States, see provision of title IV of Pub. L.104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
 
 #### Advocacy Study of Paperwork and Tax Impact
 

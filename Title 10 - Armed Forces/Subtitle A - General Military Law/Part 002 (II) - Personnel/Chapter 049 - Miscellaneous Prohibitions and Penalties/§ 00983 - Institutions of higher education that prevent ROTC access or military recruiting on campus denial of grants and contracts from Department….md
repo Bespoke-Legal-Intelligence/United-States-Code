@@ -14,7 +14,7 @@ Denial of Funds for Preventing Military Recruiting on Campus.—No funds describ
 
 &emsp;(1) the Secretary of a military department or Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
 
-&emsp;(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17years of age or older) enrolled at that institution (or any subelement of that institution):
+&emsp;(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
 
 &emsp;&emsp;(A) Names, addresses, and telephone listings.
 
@@ -76,7 +76,7 @@ Subsec. (d)(1). Pub. L. 108–375, §552(b)(1)(A)(i), (c)(1), in introductory pr
 
 Subsec. (d)(1)(B). Pub. L. 108–375, §552(b)(1)(A)(ii), inserted “for any department or agency for which regular appropriations are made” after “made available”.
 
-Subsec. (d)(1)(C) to (F). Pub. L. 108–375, §552(b)(1)(A)(iii), added subpars. (C) to (F).
+Subsec. (d)(1)(C) to (F). Pub. L. 108–375, §552 (b)(1)(A)(iii), added subpars. (C) to (F).
 
 Subsec. (d)(2). Pub. L. 108–375, §552(b)(1)(B), (c)(2), added par. (2) and struck out former par. (2) which read as follows: “The limitation established in subsection (b) applies to the following:
 

@@ -4,22 +4,12 @@
 | :--- | ---: |
 | [321\.](%C2%A7%2000321%20-%20Definitions.md) | Definitions. |
 | [322\.](%C2%A7%2000322%20-%20Reception%20of%20eligible%20persons%20at%20ports%20of%20entry%20or%20debarkation.md) | Reception of eligible persons at ports of entry or debarkation. |
-| (a) | Arrangements for care, treatment, and assistance. |
-| (b) | Payment or reimbursement for care, treatment, or assistance. |
 | [323\.](%C2%A7%2000323%20-%20Transfer%20and%20release%20to%20State%20of%20residence%20or%20legal%20domicile%2C%20or%20to%20relative.md) | Transfer and release to State of residence or legal domicile, or to relative. |
 | [324\.](%C2%A7%2000324%20-%20Care%20and%20treatment%20of%20eligible%20persons%20until%20transfer%20and%20release.md) | Care and treatment of eligible persons until transfer and release. |
-| (a) | Place of hospitalization. |
-| (b) | Ineligible persons. |
 | [325\.](%C2%A7%2000325%20-%20Examination%20of%20persons%20admitted.md) | Examination of persons admitted. |
-| (a) | Time and frequency of examination; discharge. |
-| (b) | Notice to legal guardian, etc. |
 | [326\.](%C2%A7%2000326%20-%20Release%20of%20patient.md) | Release of patient. |
-| (a) | Request; determination of right to retain; retention after request. |
-| (b) | Transfer to another hospital. |
 | [327\.](%C2%A7%2000327%20-%20Notification%20to%20committing%20court%20of%20discharge%20or%20conditional%20release.md) | Notification to committing court of discharge or conditional release. |
 | [328\.](%C2%A7%2000328%20-%20Payment%20for%20care%20and%20treatment.md) | Payment for care and treatment. |
-| (a) | Persons liable; scope of liability; compromise or waiver; investigations; judicial proceedings. |
-| (b) | “Costs or charges” defined. |
 | [329\.](%C2%A7%2000329%20-%20Availability%20of%20appropriations%20for%20transportation.md) | Availability of appropriations for transportation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

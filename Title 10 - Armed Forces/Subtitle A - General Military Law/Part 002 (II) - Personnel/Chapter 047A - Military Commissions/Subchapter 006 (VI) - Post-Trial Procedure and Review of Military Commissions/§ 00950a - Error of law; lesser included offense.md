@@ -1,0 +1,12 @@
+### §950a. Error of law; lesser included offense
+
+(a)
+
+Error of Law.—A finding or sentence of a military commission under this chapter may not be held incorrect on the ground of an error of law unless the error materially prejudices the substantial rights of the accused.
+
+(b)
+
+Lesser Included Offense.—Any reviewing authority with the power to approve or affirm a finding of guilty by a military commission under this chapter may approve or affirm, instead, so much of the finding as includes a lesser included offense.
+
+(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2618.)
+

@@ -10,13 +10,9 @@ The purpose of this subchapter is to establish a program of information regardin
 
 (Aug. 14, 1946, ch. 966, title II, §211, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1188.)
 
-#### Termination of Section
-
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out below.</i>
-
 #### Livestock Mandatory Reporting
 
-Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat. 2635, provided that:
+Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, §1(b), Oct. 5, 2006, 120 Stat. 1464, provided that:
 
 #### “SEC. 901. SHORT TITLE.
 
@@ -36,7 +32,7 @@ Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L.
 
 “(a) \[Repealed section 229a of this title.\]
 
-“(b) \[Amended section 101(a) \[title XI, §1127\] of Pub. L. 105–277, 7 U.S.C. 1421 note.\]
+“(b) \[Amended section 101(a) \[title XI, §1127\] of Pub. L. 105–277, former 7 U.S.C. 1421 note.\]
 
 #### “Subtitle B—Related Beef Reporting Provisions
 
@@ -72,7 +68,7 @@ Content.—The published information shall include information reporting the yea
 
 “(a)
 
-In General.—Effective beginning not later than 90 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report.
+In General.—Effective beginning not later than 90 days after the date of the enactment of this Act \[Oct.22, 1999\], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report.
 
 “(b)
 
@@ -174,5 +170,5 @@ Final Regulations.—Not later than 60 days after the conclusion of the comment 
 
 #### “SEC. 942. TERMINATION OF AUTHORITY.
 
-“The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title\] and the amendments made by this title terminate on September 30, 2005.”
+“The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate on September 30, 2010.”
 

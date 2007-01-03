@@ -26,7 +26,7 @@ Recipient.—The term “recipient” means a designated recipient (as defined i
 
 &emsp;(4)
 
-Reverse commute project.—The term “reverse commute project” means a publictransportation project designed to transport residents of urbanized areas and other than urbanized areas to suburban employment opportunities, including any projects to—
+Reverse commute project.—The term “reverse commute project” means a public transportation project designed to transport residents of urbanized areas and other than urbanized areas to suburban employment opportunities, including any projects to—
 
 &emsp;&emsp;(A) subsidize the costs associated with adding reverse commute bus, train, carpool, van routes, or service from urbanized areas and other than urbanized areas to suburban workplaces;
 
@@ -184,7 +184,7 @@ Remainder.—The remainder of the net project costs—
 
 &emsp;&emsp;(A) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital; and
 
-&emsp;&emsp;(B) may be derived from amounts appropriated to or made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation.
+&emsp;&emsp;(B) may be derived from amounts appropriated to or made available to a department or agency of the Government (other than theDepartment of Transportation) that are eligible to be expended for transportation.
 
 &emsp;(4)
 

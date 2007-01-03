@@ -14,7 +14,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 &emsp;(3) service in the military, air or naval forces of the United States shall be proved by a duly authenticated certification from the executive department under which the applicant served or is serving, which shall state whether the applicant served honorably in an active-duty status during either World War I or during a period beginning September 1, 1939, and ending December 31, 1946, or during a period beginning June 25, 1950, and ending July 1, 1955, or during a period beginning February 28, 1961, and ending on a date designated by the President by Executive order as the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and was separated from such service under honorable conditions; and
 
-&emsp;(4) notwithstanding any other provision of law, no fee shall be charged or collected from the applicant for filing a petition for naturalization or for the issuance of a certificate of naturalization upon citizenship being granted to the applicant, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected.
+&emsp;(4) notwithstanding any other provision of law, no fee shall be charged or collected fromthe applicant for filing a petition for naturalization or for the issuance of a certificate of naturalization upon citizenship being granted to the applicant, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected.
 
 #### (c) Revocation
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Naturalization of Natives of Philippines Through Certain Active-Duty Service During World War II
 
@@ -88,7 +88,7 @@ Pub. L. 101–649, title IV, §405, Nov. 29, 1990, 104 Stat. 5039, as amended by
 
 #### Naturalization of Aliens Enlisted in Regular Army
 
-Act June 30, 1950, ch. 443, §4, 64 Stat. 316, as amended June 27, 1952, ch. 477, title IV, §402(e), 66 Stat. 276, provided that: “Notwithstanding the dates or periods of service specified and designated in section 329 of the Immigration and Nationality Act \[this section\], the provisions of that section are applicable to aliens enlisted or reenlisted pursuant to the provisions of this Act and who have completed five or more years of military service, if honorably discharged therefrom. Any alien enlisted or reenlisted pursuant to the provisions of this Act who subsequently enters the United States, American Samoa, Swains Island, or the Canal Zone, pursuant to military orders shall, if otherwise qualifiedfor citizenship, and after completion of five or more years of military service, if honorably discharged therefrom, be deemed to have been lawfully admitted to the United States for permanent residence within the meaning of such section 329(a) \[subsection (a) of this section\].”
+Act June 30, 1950, ch. 443, §4, 64 Stat. 316, as amended June 27, 1952, ch. 477, title IV, §402(e), 66 Stat. 276, provided that: “Notwithstanding the dates or periods of service specified and designated in section 329 of the Immigration and Nationality Act \[this section\], the provisions of that section are applicable to aliens enlisted or reenlisted pursuant to the provisions of this Act and who have completed five or more years of military service, if honorably discharged therefrom. Any alien enlisted or reenlisted pursuant to the provisions of this Act who subsequently enters the United States, American Samoa, Swains Island, or the Canal Zone, pursuant to military orders shall, if otherwise qualified for citizenship, and after completion of five or more years of military service, if honorably discharged therefrom, be deemed to have been lawfully admitted to the United States for permanent residence within the meaning of such section 329(a) \[subsection (a) of this section\].”
 
 #### Ex. Ord. No. 12081. Termination of Expeditious Naturalization Based on Military Service
 

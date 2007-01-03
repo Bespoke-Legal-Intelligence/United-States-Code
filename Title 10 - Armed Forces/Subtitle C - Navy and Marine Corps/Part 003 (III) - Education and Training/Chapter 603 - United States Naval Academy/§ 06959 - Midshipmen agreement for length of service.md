@@ -34,7 +34,7 @@
 
 (e)(1) This section does not apply to a midshipman who is not a citizen or national of the United States.
 
-(2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
+(2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required bysubsection (a) only with the consent of a parent or guardian.
 
 (f) A midshipman or former midshipman who does not fulfill the terms of the agreement as specified under section <sup>1</sup> (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
@@ -90,7 +90,7 @@ Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 applicable to persons first admitted to United States Military Academy, United States Naval Academy, and United States AirForce Academy after Dec. 31, 1991, see section 531(e) of Pub. L. 104–106, set out as a note under section 4348 of this title.
+Amendment by Pub. L. 104–106 applicable to persons first admitted to United States Military Academy, United States Naval Academy, and United States Air Force Academy after Dec. 31, 1991, see section 531(e) of Pub. L. 104–106, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -115,6 +115,10 @@ Secretary of the Navy to prescribe regulations required by subsec. (c) of this s
 #### Savings Provision
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+#### Department of Defense Policy on Service Academy and ROTC Graduates Seeking To Participate in Professional Sports Before Completion of Their Active-Duty Service Obligations
+
+Secretary of Defense to prescribe, not later than July 1, 2007, Department of Defense policy on whether to authorize service academy and ROTC graduates to participate in professional sports before the completion of their obligations for service on active duty, see section 533 of Pub. L. 109–364, set out as a note under section 4348 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

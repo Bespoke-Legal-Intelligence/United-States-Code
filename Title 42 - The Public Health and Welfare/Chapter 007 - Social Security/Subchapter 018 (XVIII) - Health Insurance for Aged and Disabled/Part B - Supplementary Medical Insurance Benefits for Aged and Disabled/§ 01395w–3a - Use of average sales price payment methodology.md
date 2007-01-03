@@ -28,7 +28,7 @@
 
 #### (B) Unit defined
 
-&emsp;&emsp;In this section, the term “unit” means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unit for a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
+&emsp;&emsp;In this section, the term “unit” means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unitfor a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
 
 #### (3) Multiple source drug
 
@@ -104,7 +104,7 @@
 
 #### (C) Use of contractors; implementation
 
-&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
+&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the paymentamount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
 
 #### (6) Definitions and other rules
 
@@ -116,7 +116,7 @@
 
 #### (B) Wholesale acquisition cost
 
-&emsp;&emsp;The term “wholesale acquisition cost” means, with respect to a drug or biological,the manufacturer's list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
+&emsp;&emsp;The term “wholesale acquisition cost” means, with respect to a drug or biological, the manufacturer's list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
 
 #### (C) Multiple source drug
 
@@ -276,11 +276,11 @@ Pub. L. 108–173, title III, §303(c)(3), Dec. 8, 2003, 117 Stat. 2245, provide
 
 “(A)
 
-Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
+Study.—The Inspector General of the Department of Health and Human Services shall conduct astudy on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
 
 “(B)
 
-Report.—Not later October 1, 2005, the Inspector General shall submit to Congress a report on the studyconducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[this section\].”
+Report.—Not later October 1, 2005, the Inspector General shall submit to Congress a report on the study conducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[this section\].”
 
 #### Application of 2003 Amendment to Physician Specialties
 

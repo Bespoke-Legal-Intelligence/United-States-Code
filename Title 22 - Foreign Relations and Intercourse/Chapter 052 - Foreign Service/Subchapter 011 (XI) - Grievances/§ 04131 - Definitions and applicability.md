@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in subsection (b) of this section, for purposes of this subchapter, the term “grievance” means any act, omission, or condition subject to the control of the Secretary which is alleged to deprive a member of the Service who is a citizen of the United States (other than a United States citizen employed under section 3951 of this title who is not a family member) of a right or benefit authorized by law or regulation or which is otherwise a source of concern or dissatisfaction to the member, including—
 
-&emsp;(A) separation of the member allegedly contrary to laws or regulations, or predicated upon alleged inaccuracy, omission, error, or falsely prejudicial character of information inany part of the official personnel record of the member;
+&emsp;(A) separation of the member allegedly contrary to laws or regulations, or predicated upon alleged inaccuracy, omission, error, or falsely prejudicial character of information in any part of the official personnel record of the member;
 
 &emsp;(B) other alleged violation, misinterpretation, or misapplication of applicable laws, regulations, or published policy affecting the terms and conditions of the employment or career status of the member;
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(v) any rule, regulation, or policy directive prescribed under any provision of law described in clauses (i) through (iv).
 
-(2) The scope of grievances described in paragraph (1) may be modified by written agreement between the Department and the labor organization accorded recognition as the exclusive representative under subchapter X of this chapter (hereinafter in this subchapter referred to as the “exclusive representative”).
+(2) The scope of grievances described in paragraph (1) may be modified by written agreementbetween the Department and the labor organization accorded recognition as the exclusive representative under subchapter X of this chapter (hereinafter in this subchapter referred to as the “exclusive representative”).
 
 (b) For purposes of this subchapter, the term “grievance” does not include—
 

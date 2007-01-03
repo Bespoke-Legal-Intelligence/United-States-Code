@@ -90,7 +90,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 &emsp;&emsp;(B) had constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
 
-(Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989, 103 Stat. 158, 159; Pub. L. 109–58, title III, §314(a)(2), (b)(2), Aug. 8, 2005, 119 Stat. 690, 691.)
+(Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989,103 Stat. 158, 159; Pub. L. 109–58, title III, §314(a)(2), (b)(2), Aug. 8, 2005, 119 Stat. 690, 691.)
 
 #### Amendments
 

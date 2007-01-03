@@ -40,7 +40,7 @@ This subchapter, referred to in subsecs. (b) and (c)(1), (3), was in the origina
 
 Title VIII of the Act of April 11, 1968 (Public Law 90–284), commonly known as the Civil Rights Act of 1968, referred to in subsec. (c)(4), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, known as the Fair Housing Act, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, asamended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Amendments
 

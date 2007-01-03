@@ -28,7 +28,7 @@ Each cooperating State agency shall, in carrying out subsection (a)(2) of this s
 
 &emsp;(2) facilitate the early filing of petitions under section 2271 of this title for any workers that the agency considers are likely to be eligible for benefits under this part,
 
-&emsp;(3) advise each adversely affected worker to apply for training under section 2296(a) of this title before, or at the same time, the worker applies for trade readjustment allowances under sections 2291 to 2294 of this title, and
+&emsp;(3) advise each adversely affected worker to apply for training under section 2296(a) of this title before, or at the same time, the worker applies for trade readjustment allowances under division I of subpart B of this part, and
 
 &emsp;(4) as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

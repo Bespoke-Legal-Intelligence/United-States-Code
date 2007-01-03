@@ -72,7 +72,7 @@ Subsec. (b)(2). Pub. L. 95–238, §502(4), substituted “the Assistant Adminis
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42. See, also, Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42. See,also, Transfer of Functions notes set out under those sections.
 
 Federal Energy Administration terminated and all functions transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 

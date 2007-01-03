@@ -11,15 +11,9 @@
 | [1477\.](%C2%A7%2001477%20-%20Reasonable%20measures%3B%20considerations.md) | Reasonable measures; considerations. |
 | [1478\.](%C2%A7%2001478%20-%20Personal%2C%20flag%20state%2C%20and%20foreign%20state%20considerations.md) | Personal, flag state, and foreign state considerations. |
 | [1479\.](%C2%A7%2001479%20-%20Federal%20liability%20for%20unreasonable%20damages.md) | Federal liability for unreasonable damages. |
-| (a) | Payment of compensation. |
-| (b) | Jurisdiction. |
-| (c) | Burden of proof. |
 | [1480\.](%C2%A7%2001480%20-%20Notification%20by%20Secretary%20of%20State.md) | Notification by Secretary of State. |
 | [1481\.](%C2%A7%2001481%20-%20Violations%3B%20penalties.md) | Violations; penalties. |
 | [1482\.](%C2%A7%2001482%20-%20Consultation%20for%20nomination%20and%20nomination%20of%20experts%2C%20negotiators%2C%20etc.%3B%20proposal%20of%20amendments%20to%20list%20of%20substances%20other%20than%E2%80%A6.md) | Consultation for nomination and nomination of experts, negotiators, etc.; proposal of amendments to list of substances other than convention oil; Presidential acceptance of amendments. |
-| (a) | Nomination of experts and proposal of amendments to list of substances. |
-| (b) | Consultations for designation or nomination of negotiators, etc., provided for by convention and protocol. |
-| (c) | Presidential acceptance of amendments to list of substances other than convention oil in accordance with protocol. |
 | [1483\.](%C2%A7%2001483%20-%20Foreign%20government%20ships%3B%20immunity.md) | Foreign government ships; immunity. |
 | [1484\.](%C2%A7%2001484%20-%20Interpretation%20and%20administration%3B%20other%20right%2C%20duty%2C%20privilege%2C%20or%20immunity%20and%20other%20remedy%20unaffected.md) | Interpretation and administration; other right, duty, privilege, or immunity and other remedy unaffected. |
 | [1485\.](%C2%A7%2001485%20-%20Rules%20and%20regulations.md) | Rules and regulations. |

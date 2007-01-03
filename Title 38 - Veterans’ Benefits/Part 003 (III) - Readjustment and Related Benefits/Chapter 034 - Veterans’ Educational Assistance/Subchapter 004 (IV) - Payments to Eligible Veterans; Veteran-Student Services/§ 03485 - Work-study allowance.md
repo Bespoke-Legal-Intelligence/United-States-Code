@@ -12,17 +12,17 @@
 
 (4) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
 
-&emsp;(A) The outreach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department employee or, during the period preceding December 27, 2006, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
+&emsp;(A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2007, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
 
 &emsp;(B) The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
 
-&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding December 27, 2006, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
+&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2007, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
 
 &emsp;(D) Any other activity of the Department as the Secretary determines appropriate.
 
-&emsp;(E) In the case of an individual who is receiving educational assistance under chapter 1606 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
+&emsp;(E) In the case of an individual who is receiving educational assistance under chapter 1606 or 1607 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
 
-&emsp;(F) During the period preceding December 27, 2006, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+&emsp;(F) During the period preceding June 30, 2007, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
 
 (5) An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
 
@@ -32,13 +32,13 @@
 
 &emsp;(B) the hourly minimum wage under comparable law of the State in which the services are to be performed, if such wage is higher than the wage referred to in subparagraph (A) and the Secretary has made a determination to pay such higher wage.
 
-(b) Notwithstanding any other provision of law, the Secretary shall, subject to the provisions of subsection (e) of this section, utilize, in connection with the activities specified in subsection (a)(1) of this section, the service of individuals who are pursuing programs of rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title or chapter 106 of title 10, at a rate equal to at least three-quarters of that required of a full-time student. In carrying out this section, the Secretary, wherever feasible, shall give priority to veterans with disabilities rated at 30 percent or more for purposes of chapter 11 of this title. In the event an individual ceases to be at least a three-quarter-time student before completing such agreement, the individual may, with the approval of the Secretary, be permitted to complete such agreement.
+(b) Notwithstanding any other provision of law, the Secretary shall, subject to the provisions of subsection (e) of this section, utilize, in connection with the activities specified in subsection (a)(1) of this section, the service of individuals who are pursuing programs of rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title or chapter 1606 or 1607 of title 10, at a rate equal to at least three-quarters of that required of a full-time student. In carrying out this section, the Secretary, wherever feasible, shall give priority to veterans with disabilities rated at 30 percent or more for purposes of chapter 11 of this title. In the event an individual ceases to be at least a three-quarter-time student before completing such agreement, the individual may, with the approval of the Secretary, be permitted to complete such agreement.
 
 (c) The Secretary shall determine the number of individuals whose services the Department of Veterans Affairs can effectively utilize and the types of services that such individuals may be required to perform, on the basis of a survey, which the Secretary shall conduct annually, of each Department of Veterans Affairs regional office in order to determine the numbers of individuals whose services can effectively be utilized during an enrollment period in each geographical area where Department of Veterans Affairs activities are conducted, and shall determine which individuals shall be offered agreements under this section in accordance with regulations which the Secretary shall prescribe, including as criteria (1) the need of the individual to augment the veteran's educational assistance or subsistence allowance; (2) the availability to the individual of transportation to the place where the individual's services are to be performed; (3) the motivation of the individual; and (4) in the case of a disabled veteran pursuing a course of vocational rehabilitation under chapter 31 of this title, the compatibility of the work assignment to the veteran's physical condition.
 
 (d) While performing the services authorized by this section, individuals shall be deemed employees of the United States for the purposes of the benefits of chapter 81 of title 5 but not for the purposes of laws administrated by the Office of Personnel Management.
 
-(e)(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby theindividual agrees to perform services of the kind described in clauses (A) through (E) of subsection (a)(1) of this section and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual's participation in a benefits program under this chapter, chapter 30, 31, 32, 35, or 36 of this title, or chapter 106 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 <sup>1</sup> of such title).
+(e)(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(4) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual's participation in a benefits program under this chapter, chapter 30, 31, 32, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 <sup>1</sup> of such title).
 
 (2)(A) Subject to subparagraph (B) of this paragraph, the provisions of this section (other than those provisions which are determined by the Secretary to be inapplicable to an agreement under this subsection) shall apply to any agreement authorized under paragraph (1) of this subsection.
 
@@ -58,13 +58,35 @@
 
 (4) The Secretary shall promulgate regulations to carry out this subsection.
 
-(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(11), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–183, title III, §306(f)(1), Dec. 16, 2003, 117 Stat. 2661.)
+(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(11), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–183, title III, §306(f)(1), Dec. 16, 2003, 117 Stat. 2661; Pub. L. 109–233, title IV, §402(e)(1), June 15, 2006, 120 Stat. 411; Pub. L. 109–444, §2(g), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §§304, 307, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3428, 3429, 3468.)
 
 #### References in Text
 
 Section 2135 of title 10, referred to in subsec. (e)(1), was renumbered section 16135 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
+
+2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Subsec. (a)(4)(A). Pub. L. 109–461, §304, substituted “June 30, 2007” for “December 27, 2006”.
+
+Pub. L. 109–444, which substituted “June 30, 2007” for “December 27, 2006”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Pub. L. 109–233 substituted “chapter 63” for “subchapter II of chapter 77”.
+
+Subsec. (a)(4)(C). Pub. L. 109–461, §304, substituted “June 30, 2007” for “December 27, 2006”.
+
+Pub. L. 109–444, which substituted “June 30, 2007” for “December 27, 2006”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (a)(4)(E). Pub. L. 109–461, §307(1), inserted “or 1607” after “chapter 1606”.
+
+Subsec. (a)(4)(F). Pub. L. 109–461, §304, substituted “June 30, 2007” for “December 27, 2006”.
+
+Pub. L. 109–444, which substituted “June 30, 2007” for “December 27, 2006”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+Subsec. (b). Pub. L. 109–461, §307(2), substituted “chapter 1606 or 1607” for “chapter 106”.
+
+Subsec. (e)(1). Pub. L. 109–461, §307(3), substituted “a qualifying work-study activity described in subsection (a)(4)” for “services of the kind described in clauses (A) through (E) of subsection (a)(1) of this section” and “chapter 1606 or 1607” for “chapter 106”.
 
 2003—Subsec. (e)(1). Pub. L. 108–183 struck out “(other than an education loan under subchapter III)” after “chapter 30, 31, 32, 35, or 36”.
 
@@ -124,7 +146,7 @@ Subsec. (d). Pub. L. 101–237, §405(d)(2)(B), substituted “individuals” fo
 
 Subsec. (c). Pub. L. 94–502, §211(11), substituted “the Administrator shall conduct” for “he shall conduct”, “the Administrator shall prescribe,” for “he shall prescribe,”, and “the veteran's” for “his” in two places.
 
-1974—Subsec. (a). Pub. L. 93–508, §205(1), (2), substituted “the amount of $625” for “in advance in the amount of $250”, and “aggregating two hundred and fifty hours” for “aggregating one hundred hours”, and substituted provisions that an agreement may be entered into for the performance of services for periods of less than two hundred and fifty hours, in which case the amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours and that in the case of any agreement providing for the performance of services for less than one hundred hours, the amount of the advancepayment shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours, for provisions that advances of lesser amounts may be made in return for agreements to perform services for periods of less than one hundred hours, and that the amount of such advance shall bear the same ratio to the number of hours of work agreed to be performed as $250 bears to one hundred hours.
+1974—Subsec. (a). Pub. L. 93–508, §205(1), (2), substituted “the amount of $625” for “in advance in the amount of $250”, and “aggregating two hundred and fifty hours” for “aggregating one hundred hours”, and substituted provisions that an agreement may be entered into for the performance of services for periods of less than two hundred and fifty hours, in which case the amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours and that in the case of any agreement providing for the performance of services for less than one hundred hours, the amount of the advance payment shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours, for provisions that advances of lesser amounts may be made in return for agreements to perform services for periods of less than one hundred hours, and that the amount of such advance shall bear the same ratio to the number of hours of work agreed to be performed as $250 bears to one hundred hours.
 
 Subsec. (c). Pub. L. 93–508, §205(3), struck out parenthetical provisions relating to a limit of eight-hundred man-years or their equivalent during any fiscal year.
 

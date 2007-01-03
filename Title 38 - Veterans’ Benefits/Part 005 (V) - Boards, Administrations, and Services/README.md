@@ -9,10 +9,13 @@
 | [<b>76.</b>](Chapter%20076%20-%20Health%20Professionals%20Educational%20Assistance%20Program/README.md) | <b>Health Professionals Educational Assistance Program</b> | <b>7601</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Veterans%20Benefits%20Administration/README.md) | <b>Veterans Benefits Administration</b> | <b>7701</b> |
 | [<b>78.</b>](Chapter%20078%20-%20Veterans%E2%80%99%20Canteen%20Service/README.md) | <b>Veterans’ Canteen Service</b> | <b>7801</b> |
+| [<b>79.</b>](Chapter%20079%20-%20Information%20Security%20Education%20Assistance%20Program/README.md) | <b>Information Security Education Assistance Program</b> | <b>7901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–461, title IX, §903(a)(2), Dec. 22, 2006, 120 Stat. 3464, added item for chapter 79.
 
 1998—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted “Appeals for Veterans Claims” for “Veterans Appeals” in item for chapter 72.
 
@@ -39,3 +42,4 @@ Pub. L. 100–322, title II, §216(e)(2), May 20, 1988, 102 Stat. 530, added ite
 - [Chapter 076 - Health Professionals Educational Assistance Program](Chapter%20076%20-%20Health%20Professionals%20Educational%20Assistance%20Program/README.md)
 - [Chapter 077 - Veterans Benefits Administration](Chapter%20077%20-%20Veterans%20Benefits%20Administration/README.md)
 - [Chapter 078 - Veterans&#8217; Canteen Service](Chapter%20078%20-%20Veterans%E2%80%99%20Canteen%20Service/README.md)
+- [Chapter 079 - Information Security Education Assistance Program](Chapter%20079%20-%20Information%20Security%20Education%20Assistance%20Program/README.md)

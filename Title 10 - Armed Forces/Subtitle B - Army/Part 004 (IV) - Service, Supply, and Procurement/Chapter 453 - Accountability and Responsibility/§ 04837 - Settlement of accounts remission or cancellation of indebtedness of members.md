@@ -2,27 +2,17 @@
 
 (a)
 
-In General.—If the Secretary considers it to be in the best interest of the United States, the Secretary may have remitted or cancelled any part of the indebtedness of a member of the Army on active duty, or a member of a reserve component of the Army in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty.
+In General.—The Secretary of the Army may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Army, but only if the Secretary considers such action to be in the best interest of the United States.
 
 (b)
 
-Period of Exercise of Authority.—The Secretary may exercise the authority in subsection (a) with respect to a member—
-
-&emsp;(1) while the member is on active duty or in active status, as the case may be;
-
-&emsp;(2) if discharged from the armed forces under honorable conditions, during the one-year period beginning on the date of such discharge; or
-
-&emsp;(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release.
+Retroactive Applicability to Certain Debts.—The authority in subsection (a) may be exercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
 
 (c)
 
-Retroactive Applicability to Certain Debts.—The authority in subsection (a) may be exercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
-
-(d)
-
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI,§683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272.)
 
 Historical and Revision Notes<br>1956
 
@@ -100,13 +90,21 @@ The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General
 
 The change \[in subsec. (f)\] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly 10 U.S.C. 872), the source law for this section, applied to warrant officers as well as to commissioned officers.
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 683(a)(3) of Pub. L. 109–163, see Termination Date of 2006 Amendment note below.</i>
-
 #### Amendments
 
-2006—Pub. L. 109–163, §683(a)(1), (3), temporarily amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.” See Termination Date of 2006 Amendment note below.
+2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.”
+
+Subsec. (a). Pub. L. 109–364, §673(e)(1), substituted “The Secretary of the Army” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted “, but only if the Secretary considers such action to be in the best interest of the United States” before period at end.
+
+Pub. L. 109–364, §673(a)(1), which directed amendment of subsec. (a) by substituting “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Army” for “of a member” and all that follows through “on active duty”, was executed by making the substitution for “of a member of the Army on active duty, or a member of a reserve component of the Army in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”, thus making the substitution for “of a member” and all that follows through “on active duty” the second place it appeared, to reflect the probable intent of Congress.
+
+Subsecs. (b) to (d). Pub. L. 109–364, §673(a)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary may exercise the authority in subsection (a) with respect to a member—
+
+&emsp;“(1) while the member is on active duty or in active status, as the case may be;
+
+&emsp;“(2) if discharged from the armed forces under honorable conditions, during the one-year period beginning on the date of such discharge; or
+
+&emsp;“(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release.”
 
 1980—Pub. L. 96–513, substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in section catchline, and in text substituted “If he” for “(d) If he”.
 
@@ -118,7 +116,7 @@ Subsec. (f). Pub. L. 85–861, §33(a)(27)(B), substituted “an officer” for 
 
 #### Termination Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VI, §683(a)(3), Jan. 6, 2006, 119 Stat. 3322, provided that: “The amendments made by this subsection \[amending this section and the analysis to this chapter\] shall terminate on December 31, 2007. Effective on that date, section 4873 \[4837\] of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\] shall be revived.”
+Pub. L. 109–163, div. A, title VI, §683(a)(3), Jan. 6, 2006, 119 Stat. 3322, which provided for termination of amendments by Pub. L. 109–163, §683(a), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, §673(a)(3), Oct. 17, 2006, 120 Stat. 2271.
 
 #### Effective Date of 1980 Amendment
 
@@ -131,4 +129,8 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
+
+#### Regulations
+
+Pub. L. 109–364, div. A, title VI, §673(d), Oct. 17, 2006, 120 Stat. 2272, provided that: “The Secretary of Defense shall prescribe the regulations required for purposes of sections 4837, 6161, and 9837 of title 10, United States Code, as amended by this section, not later than March 1, 2007.”
 

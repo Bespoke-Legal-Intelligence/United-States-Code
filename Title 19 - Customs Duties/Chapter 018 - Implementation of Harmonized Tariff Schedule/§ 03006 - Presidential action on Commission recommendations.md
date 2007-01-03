@@ -20,13 +20,17 @@ The President may proclaim modifications, based on the recommendations by the Co
 
 #### (c) Effective date of modifications
 
-Modifications proclaimed by the President under subsection (a) of this section may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+Modifications proclaimed by the President under subsection (a) of this section may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
 
-(Pub. L. 100–418, title I, §1206, Aug. 23, 1988, 102 Stat. 1151.)
+(Pub. L. 100–418, title I, §1206, Aug. 23, 1988, 102 Stat. 1151; Pub. L. 109–432, div. D, title III, §3012, Dec. 20, 2006, 120 Stat. 3177.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsec. (a), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–432 substituted “30<sup>th</sup>” for “15<sup>th</sup>”.
 
 #### Delegation of Authority
 

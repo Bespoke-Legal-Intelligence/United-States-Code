@@ -16,7 +16,7 @@
 
 (1)(A) Of the amounts appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 the Secretary shall retain an amount equal to 123/4 percent thereof for the projects described in subparagraphs (A) through (F) of section 701(a)(3) of this title.
 
-(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary has retained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
+(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary hasretained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
 
 (2)(A) Of the amounts retained for the purpose of carrying out activities described in section 701(a)(3)(A), (B), (C), (D) and (E) of this title, the Secretary shall provide preference to qualified applicants which demonstrate that the activities to be carried out with such amounts shall be in areas with a high infant mortality rate (relative to the average infant mortality rate in the United States or in the State in which the area is located).
 
@@ -90,5 +90,5 @@ Subsecs. (c), (d). Pub. L. 99–509, §9441(b)(3), added subsecs. (c) and (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6502(a) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(c)(1), (4) of Pub. L. 101–239 applicable to paymentsfor allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
+Amendment by section 6502(a) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(c)(1), (4) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
 

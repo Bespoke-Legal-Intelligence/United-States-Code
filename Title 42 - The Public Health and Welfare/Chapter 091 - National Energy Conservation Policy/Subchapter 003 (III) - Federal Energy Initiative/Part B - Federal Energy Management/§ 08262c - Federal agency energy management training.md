@@ -30,7 +30,7 @@
 
 #### (c) Requirements at Federal facilities
 
-(1) Not later than one year after October 24, 1992, the departments and agencies described under subsection (a)(1) of this section shall upgrade their energy management capabilities by—
+(1) Not later than one year after October 24, 1992, the departments and agencies describedunder subsection (a)(1) of this section shall upgrade their energy management capabilities by—
 
 &emsp;(A) designating facility energy supervisors;
 

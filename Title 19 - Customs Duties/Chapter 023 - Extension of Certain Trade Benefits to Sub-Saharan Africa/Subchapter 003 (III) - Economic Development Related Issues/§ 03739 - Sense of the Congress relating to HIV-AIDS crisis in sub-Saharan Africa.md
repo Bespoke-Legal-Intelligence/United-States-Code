@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;(6) Clear evidence demonstrates that HIV/AIDS is destructive to the economies of sub-Saharan African countries.
 
-&emsp;(7) Sustained economic development is critical to creating the public and private sectorresources in sub-Saharan Africa necessary to fight the HIV/AIDS epidemic.
+&emsp;(7) Sustained economic development is critical to creating the public and private sector resources in sub-Saharan Africa necessary to fight the HIV/AIDS epidemic.
 
 #### (b) Sense of the Congress
 

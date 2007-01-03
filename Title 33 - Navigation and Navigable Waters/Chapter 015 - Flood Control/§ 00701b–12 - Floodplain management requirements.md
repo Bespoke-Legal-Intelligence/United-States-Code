@@ -24,13 +24,13 @@ Within 1 year after the date of signing a project cooperation agreement for cons
 
 #### (3) Limitation on statutory construction
 
-&emsp;Nothing in this subsection shall be construed to confer any regulatory authority upon the Secretary or the Director of the Federal Emergency Management Agency.
+&emsp;Nothing in this subsection shall be construed to confer any regulatory authority upon the Secretary or the Administrator of the Federal Emergency Management Agency.
 
 #### (d) Technical support
 
 The Secretary may provide technical support to a non-Federal interest for a project to which subsection (a) of this section applies for the development and implementation of plans prepared under subsection (b) of this section.
 
-(Pub. L. 99–662, title IV, §402, Nov. 17, 1986, 100 Stat. 4133; Pub. L. 100–676, §14, Nov. 17, 1988, 102 Stat. 4026; Pub. L. 104–303, title II, §202(c)(1), Oct. 12, 1996, 110 Stat. 3674; Pub. L. 106–541, title II, §209(a), (c), Dec. 11, 2000, 114 Stat. 2591.)
+(Pub. L. 99–662, title IV, §402, Nov. 17, 1986, 100 Stat. 4133; Pub. L. 100–676, §14, Nov. 17, 1988, 102 Stat. 4026; Pub. L. 104–303, title II, §202(c)(1), Oct. 12, 1996, 110 Stat. 3674; Pub. L. 106–541, title II, §209(a), (c), Dec. 11, 2000, 114 Stat. 2591; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Amendments
 
@@ -42,6 +42,10 @@ Subsec. (c). Pub. L. 106–541, §209(a), in first sentence substituted “The�
 
 1988—Pub. L. 100–676 inserted “or any project for hurricane or storm damage reduction” after “local flood protection”.
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (c)(3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–541, title II, §209(b), Dec. 11, 2000, 114 Stat. 2591, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any project or separable element of a project with respect to which the Secretary \[of the Army\] and the non-Federal interest have not entered a project cooperation agreement on or before the date of enactment of this Act \[Dec. 11, 2000\].”
@@ -49,10 +53,6 @@ Pub. L. 106–541, title II, §209(b), Dec. 11, 2000, 114 Stat. 2591, provided t
 #### Effective Date of 1996 Amendment
 
 Section 202(c)(2) of Pub. L. 104–303 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to any project or separable element thereof with respect to which the Secretary and the non-Federal interest have not entered into a project cooperation agreement on or before the date of the enactment of this Act \[Oct. 12, 1996\].”
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

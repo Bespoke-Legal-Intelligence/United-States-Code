@@ -16,9 +16,11 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 &emsp;&emsp;(iii) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter;
 
-&emsp;&emsp;(iv) seize any fish (wherever found) taken or retained in violation of any provision of this chapter; and
+&emsp;&emsp;(iv) seize any fish (wherever found) taken or retained in violation of any provision of this chapter;
 
-&emsp;&emsp;(v) seize any other evidence related to any violation of any provision of this chapter;
+&emsp;&emsp;(v) seize any other evidence related to any violation of any provision of this chapter; and
+
+&emsp;&emsp;(vi) access, directly or indirectly, for enforcement purposes any data or information required to be provided under this subchapter or regulations under this subchapter, including data from vessel monitoring systems, satellite-based maritime distress and safety systems, or any similar system, subject to the confidentiality provisions of section 1881a of this title;
 
 &emsp;(B) execute any warrant or other process issued by any court of competent jurisdiction; and
 
@@ -32,7 +34,7 @@ If any officer authorized to enforce the provisions of this chapter (as provided
 
 #### (d) Jurisdiction of courts
 
-The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
+The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriatecourt is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
 
 &emsp;(1) enter restraining orders or prohibitions;
 
@@ -102,7 +104,49 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 The Secretary, in consultation with the Governors of the Pacific Insular Areas and the Western Pacific Council, shall to the extent practicable support cooperative enforcement agreements between Federal and Pacific Insular Area authorities.
 
-#### (h) Definitions
+#### (h) Joint enforcement agreements
+
+#### (1) In general
+
+&emsp;The Governor of an eligible State may apply to the Secretary for execution of a joint enforcement agreement with the Secretary that will authorize the deputization and funding of State law enforcement officers with marine law enforcement responsibilities to perform duties of the Secretary relating to law enforcement provisions under this subchapter or any other marine resource law enforced by the Secretary. Upon receiving an application meeting the requirements of this subsection, the Secretary may enter into a joint enforcement agreement with the requesting State.
+
+#### (2) Eligible State
+
+&emsp;A State is eligible to participate in the cooperative enforcement agreements under this section if it is in, or bordering on, the Atlantic Ocean (including the Caribbean Sea), the Pacific Ocean, the Arctic Ocean, the Gulf of Mexico, Long Island Sound, or 1 or more of the Great Lakes.
+
+#### (3) Requirements
+
+&emsp;Joint enforcement agreements executed under paragraph (1)—
+
+&emsp;&emsp;(A) shall be consistent with the purposes and intent of this section to the extent applicable to the regulated activities;
+
+&emsp;&emsp;(B) may include specifications for joint management responsibilities as provided by section 1525 of title 15; and
+
+&emsp;&emsp;(C) shall provide for confidentiality of data and information submitted to the State under section 1881a of this title.
+
+#### (4) Allocation of funds
+
+&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+
+#### (i) Improved data sharing
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of this chapter, as soon as practicable but no later than 21 months after January 12, 2007, the Secretary shall implement data-sharing measures to make any data required to be provided by this chapter from satellite-based maritime distress and safety systems, vessel monitoring systems, or similar systems—
+
+&emsp;&emsp;(A) directly accessible by State enforcement officers authorized under subsection (a) of this section; and
+
+&emsp;&emsp;(B) available to a State management agency involved in, or affected by, management of a fishery if the State has entered into an agreement with the Secretary under section 1881a(b)(1)(B) of this title.
+
+#### (2) Agreement required
+
+&emsp;The Secretary shall promptly enter into an agreement with a State under section 1881a(b)(1)(B) of this title if—
+
+&emsp;&emsp;(A) the Attorney General or highest ranking legal officer of the State provides a written opinion or certification that State law allows the State to maintain the confidentiality of information required by Federal law to be kept confidential; or
+
+&emsp;&emsp;(B) the Secretary is provided other reasonable assurance that the State can and will protect the identity or business of any person to which such information relates.
+
+#### (j) Definitions
 
 For purposes of this section—
 
@@ -110,17 +154,23 @@ For purposes of this section—
 
 &emsp;(2) The term “violation of any provision of this chapter” includes (A) the commission of any act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
 
-(Pub. L. 94–265, title III, §311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, §209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, §117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, §301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, §901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, §115, Oct. 11, 1996, 110 Stat. 3599.)
+(Pub. L. 94–265, title III, §311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, §209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, §117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, §301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, §901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, §115, Oct. 11, 1996, 110 Stat. 3599; Pub. L. 109–479, title I, §111(a), Jan. 12, 2007, 120 Stat. 3596.)
 
 #### Amendment of Subsection (b)(2)
 
-<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist</i><i>Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.</i>
+<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.</i>
 
 #### References in Text
 
-The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 3371 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (b)(1)(A)(vi). Pub. L. 109–479, §111(a)(1)–(3), added cl. (vi).
+
+Subsecs. (h) to (j). Pub. L. 109–479, §111(a)(4), (5), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
 1996—Subsec. (d). Pub. L. 104–297, §115(a)(2), inserted “, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands” after “District of Hawaii”.
 
@@ -177,6 +227,10 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Integration of Vessel Monitoring System Data
+
+Pub. L. 109–241, title VIII, §803, July 11, 2006, 120 Stat. 563, provided that: “The Secretary of the department in which the Coast Guard is operating shall integrate vessel monitoring system data into its maritime operations databases for the purpose of improving monitoring and enforcement of Federal fisheries laws and work with the Under Secretary of Commerce for Oceans and Atmosphere to ensure effective use of such data for monitoring and enforcement.”
 
 #### Agreement To Make More Effective Enforcement of Domestic Laws and International Agreements
 

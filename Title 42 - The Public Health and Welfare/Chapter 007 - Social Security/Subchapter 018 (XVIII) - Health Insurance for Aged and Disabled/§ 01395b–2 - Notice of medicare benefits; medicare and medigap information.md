@@ -26,7 +26,7 @@ The notice provided under subsection (a) of this section shall include—
 
 &emsp;(3) a description of the program to collect information on medicare fraud and abuse established under section 1395b–5(b) of this title; and
 
-&emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
+&emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste,fraud, and abuse in the provision or billing of services under this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
 
@@ -36,7 +36,7 @@ Parts A and B of this subchapter, referred to in subsec. (a), are classified to 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number aretransferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
+2003—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
 
 1997—Subsec. (c). Pub. L. 105–33 added subsec. (c).
 

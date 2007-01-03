@@ -42,7 +42,7 @@ Nothing in this subchapter shall be construed to authorize the United States or 
 
 #### (e) Federal financial assistance to schools unaffected
 
-Notwithstanding the availability of any other remedy under the Constitution or the laws of the United States, nothing in this subchaptershall be construed to authorize the United States to deny or withhold Federal financial assistance to any school.
+Notwithstanding the availability of any other remedy under the Constitution or the laws of the United States, nothing in this subchapter shall be construed to authorize the United States to deny or withhold Federal financial assistance to any school.
 
 #### (f) Authority of schools with respect to order, discipline, well-being, and attendance concerns
 

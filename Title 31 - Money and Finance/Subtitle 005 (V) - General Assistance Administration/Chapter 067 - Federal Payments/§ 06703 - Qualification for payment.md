@@ -16,7 +16,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(6) Programs under the School to Work Opportunities Act (Public Law 103–239).
 
-&emsp;(7) Substance Abuse Treatment and Prevention programs authorized under title V or XIX of the Public Health Services Act (43 U.S.C. 201 et seq.).<sup>1</sup>
+&emsp;(7) Substance Abuse Treatment and Prevention programs authorized under title V or XIXof the Public Health Services Act (43 U.S.C. 201 et seq.).<sup>1</sup>
 
 &emsp;(8) Programs under the Head Start Act (42 U.S.C. 9831 et seq.).
 
@@ -26,7 +26,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(11) Programs under the National Literacy Act of 1991.
 
-&emsp;(12) Programs under the Carl Perkins Vocational Educational and Applied Technology Education Act (20 U.S.C. 2301 et seq.).
+&emsp;(12) Programs under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
 &emsp;(13) The demonstration partnership programs including the community initiative targeted to minority youth under section 203 <sup>1</sup> of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
 
@@ -80,7 +80,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 (e)
 
-Review by Governors.—A unit of general local government shall give the chief executive officer of the State in which the government is located an opportunity for review and comment before establishing compliance with subsection (d).
+Review by Governors.—A unit of general local government shall give the chief executiveofficer of the State in which the government is located an opportunity for review and comment before establishing compliance with subsection (d).
 
 (f)
 
@@ -106,7 +106,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 &emsp;&emsp;(B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub.L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300.)
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 109–270, §2(i), Aug. 12, 2006, 120 Stat. 748.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89�
 
 The National Literacy Act of 1991, referred to in subsec. (a)(11), was Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Carl Perkins Vocational Educational and Applied Technology Education Act, referred to in subsec. (a)(12), probably meant the Carl D. Perkins Vocational and Applied Technology Education Act, Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252), referred to in subsec. (a)(13), (16), probably mean sections 203 and 401 of the Human Services Amendments of 1994, Pub. L. 103–252, May 18, 1994, 108 Stat. 654, 666. Section 203 of Pub. L. 103–252 amended section 9910 of Title 42, The Public Health and Welfare. Section 401 of Pub. L. 103–252 generally amended subchapter III (§5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
 
@@ -150,7 +150,9 @@ A prior section 6703, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012; Pub. L. 9
 
 #### Amendments
 
-2002—Subsec. (d)(5). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-BaconAct); as amended (40 U.S.C. 276a–276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended (40 U.S.C. 276c, 48 Stat. 948)”.
+2006—Subsec. (a)(12). Pub. L. 109–270 which directed the substitution of “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”, was executed by making the substitution for “Carl Perkins Vocational Educational and Applied Technology Education Act” to reflect the probable intent of Congress.
+
+2002—Subsec. (d)(5). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended (40 U.S.C. 276a–276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended (40 U.S.C. 276c, 48 Stat. 948)”.
 
 1998—Subsec. (a)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(19)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.”
 

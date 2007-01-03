@@ -17,13 +17,13 @@
 | [743\.](%C2%A7%2000743%20-%20Lighthouse%20districts.md) | Lighthouse districts. |
 | 744, 745. | Omitted or Repealed. |
 | [745a.](%C2%A7%2000745a%20-%20Traveling%20expenses%20of%20new%20appointees%20to%20isolated%20posts%20outside%20United%20States.md) | Traveling expenses of new appointees to isolated posts outside United States. |
-| 746 to 747a. Repealed. |  |
+| 746 to 747a. Repealed. |  |
 | [747b.](%C2%A7%2000747b%20-%20Lighthouse%20keepers%3B%20traveling%20expenses%20incurred%20in%20obtaining%20medical%20attention.md) | Lighthouse keepers; traveling expenses incurred in obtaining medical attention. |
 | [748\.](%C2%A7%2000748%20-%20Teachers%20for%20children%20of%20lighthouse%20keepers.md) | Teachers for children of lighthouse keepers. |
 | [748a.](%C2%A7%2000748a%20-%20Transportation%20expenses%20for%20school%20children.md) | Transportation expenses for school children. |
 | 749 to 754. Repealed or Omitted. |  |
 | [754a.](%C2%A7%2000754a%20-%20Purchase%20of%20commissary%20and%20quartermaster%20supplies.md) | Purchase of commissary and quartermaster supplies. |
-| 755 to 762. Repealed. |  |
+| 755 to 762. Repealed. |  |
 | [763\.](%C2%A7%2000763%20-%20Retirement%20for%20age%20of%20officers%20and%20employees%20generally%3B%20retirement%20pay%3B%20waiver%20of%20retirement%20pay.md) | Retirement for age of officers and employees generally; retirement pay; waiver of retirement pay. |
 | 763–1. | Increase of retired pay. |
 | 763–2. | Additional increase of retired pay. |
@@ -33,7 +33,7 @@
 | 763b to 764. Repealed or Omitted. |  |
 | [765\.](%C2%A7%2000765%20-%20Retirement%20for%20disability.md) | Retirement for disability. |
 | [766\.](%C2%A7%2000766%20-%20Restoration%20to%20active%20duty%20after%20retirement%20for%20disability.md) | Restoration to active duty after retirement for disability. |
-| 767 to 769. Repealed. |  |
+| 767 to 769. Repealed. |  |
 | [770\.](%C2%A7%2000770%20-%20Regulations%20for%20expenditure%20of%20moneys%20accruing%20from%20commutation%20of%20rations%20and%20provisions.md) | Regulations for expenditure of moneys accruing from commutation of rations and provisions. |
 | [771\.](%C2%A7%2000771%20-%20Benefits%20for%20surviving%20spouses%20of%20Lighthouse%20Service%20employees%3B%20death%20of%20employee%20during%20retirement%3B%20amount%20of%20payment.md) | Benefits for surviving spouses of Lighthouse Service employees; death of employee during retirement; amount of payment. |
 | [772\.](%C2%A7%2000772%20-%20Death%20of%20employee%20due%20to%20non-service-connected%20causes%20after%2015%20years%E2%80%99%20service%3B%20amount%20of%20payment.md) | Death of employee due to non-service-connected causes after 15 years’ service; amount of payment. |

@@ -6,5 +6,5 @@ The Secretary of State, on behalf of the United States, shall seek to enhance th
 
 #### Codification
 
-Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part ofthe Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 

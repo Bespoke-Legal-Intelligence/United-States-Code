@@ -1,11 +1,14 @@
 Part E—Administrative and Enforcement Provisions
 
+<i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the comma.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00871 - Attorney General](%C2%A7%2000871%20-%20Attorney%20General.md)
+- [&sect; 00871a - Semiannual reports to Congress](%C2%A7%2000871a%20-%20Semiannual%20reports%20to%20Congress.md)
 - [&sect; 00872 - Education and research programs of Attorney General](%C2%A7%2000872%20-%20Education%20and%20research%20programs%20of%20Attorney%20General.md)
 - [&sect; 00872a - Public-private education program](%C2%A7%2000872a%20-%20Public-private%20education%20program.md)
 - [&sect; 00873 - Cooperative arrangements](%C2%A7%2000873%20-%20Cooperative%20arrangements.md)

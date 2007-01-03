@@ -12,7 +12,7 @@
 
 (b) For the purpose of this section, “locksmithing device” means—
 
-&emsp;(1) a device or tool (other than a key) designed to manipulate the tumblers in a lockinto the unlocked position through the keyway of such lock;
+&emsp;(1) a device or tool (other than a key) designed to manipulate the tumblers in a lock into the unlocked position through the keyway of such lock;
 
 &emsp;(2) a device or tool (other than a key or a device or tool under paragraph (1)) designed for the unauthorized opening or bypassing of a lock or similar security device; and
 

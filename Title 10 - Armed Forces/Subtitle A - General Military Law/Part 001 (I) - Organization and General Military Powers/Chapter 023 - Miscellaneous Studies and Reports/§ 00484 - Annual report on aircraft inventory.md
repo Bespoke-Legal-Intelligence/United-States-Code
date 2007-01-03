@@ -44,5 +44,5 @@ Display of Information.—The report shall specify the information required by s
 
 #### First Report
 
-Section 324(b) of Pub. L. 105–85 provided that: “The Under Secretary of Defense (Comptroller) shall submit the first report required under section 484 of title 10, United States Code (as added by subsection (a)), not later than January 30, 1998.”
+Pub. L. 105–85, div. A, title III, §324(b), Nov. 18, 1997, 111 Stat. 1677, directed the Under Secretary of Defense\(Comptroller) to submit the first report required under this section not later than Jan. 30, 1998.
 

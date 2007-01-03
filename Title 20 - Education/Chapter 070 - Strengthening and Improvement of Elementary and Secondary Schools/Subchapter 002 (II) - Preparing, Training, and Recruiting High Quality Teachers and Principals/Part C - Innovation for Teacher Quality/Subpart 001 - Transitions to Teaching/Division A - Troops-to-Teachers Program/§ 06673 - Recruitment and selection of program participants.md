@@ -88,7 +88,7 @@ In selecting eligible members of the Armed Forces to receive assistance under th
 
 #### References in Text
 
-Section 1151 of title 10, referred to in subsec. (a)(4)(B), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
+Section 1151 of title 10, referred to in subsec. (a)(4)(B), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new section 1151 of title 10 was subsequently added by Pub. L. 109–364, div. A, title V, §561(a), Oct. 17, 2006, 120 Stat. 2219.
 
 #### Prior Provisions
 

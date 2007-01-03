@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(5) “electronic, mechanical, or other device” means any device or apparatus which can be used to intercept a wire, oral, or electronic communication other than—
 
-&emsp;&emsp;(a) any telephone or telegraph instrument, equipment or facility, or any componentthereof, (i) furnished to the subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business; or (ii) being used by a provider of wire or electronic communication service in the ordinary course of its business, or by an investigative or law enforcement officer in the ordinary course of his duties;
+&emsp;&emsp;(a) any telephone or telegraph instrument, equipment or facility, or any component thereof, (i) furnished to the subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business; or (ii) being used by a provider of wire or electronic communication service in the ordinary course of its business, or by an investigative or law enforcement officer in the ordinary course of his duties;
 
 &emsp;&emsp;(b) a hearing aid or similar device being used to correct subnormal hearing to not better than normal;
 
@@ -82,7 +82,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(iii) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power; or
 
-&emsp;&emsp;(B) information, whether or not concerning a United States person, with respect to aforeign power or foreign territory that relates to—
+&emsp;&emsp;(B) information, whether or not concerning a United States person, with respect to a foreign power or foreign territory that relates to—
 
 &emsp;&emsp;&emsp;(i) the national defense or the security of the United States; or
 
@@ -98,10 +98,6 @@ As used in this chapter—
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, §4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
-
 #### References in Text
 
 Section 3 of the Communications Act of 1934, referred to in par. (10), is classified to section 153 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
@@ -110,15 +106,15 @@ Section 3 of the Communications Act of 1934, referred to in par. (10), is classi
 
 2002—Par. (10). Pub. L. 107–273 substituted “has the meaning given that term in section 3 of the Communications Act of 1934;” for “shall have the same meaning which is given the term ‘common carrier’ by section 153(h) of title 47 of the United States Code;”.
 
-2001—Par. (1). Pub. L. 107–56, §§209(1)(A), 224, temporarily struck out “and such term includes any electronic storage of such communication” before semicolon at end. See Termination Date of 2001 Amendment note below.
+2001—Par. (1). Pub. L. 107–56, §209(1)(A), struck out “and such term includes any electronic storage of such communication” before semicolon at end.
 
-Par. (14). Pub. L. 107–56, §§209(1)(B), 224, temporarily inserted “wire or” after “transmission of”. See Termination Date of 2001 Amendment note below.
+Par. (14). Pub. L. 107–56, §209(1)(B), inserted “wire or” after “transmission of”.
 
 Par. (19). Pub. L. 107–108 inserted “, for purposes of section 2517(6) of this title,” before “means” in introductory provisions.
 
-Pub. L. 107–56, §§203(b)(2), 224, temporarily added par. (19). See Termination Date of 2001 Amendment note below.
+Pub. L. 107–56, §203(b)(2), added par. (19).
 
-Pars. (20), (21). Pub. L. 107–56, §§217(1), 224, temporarily added pars. (20) and (21). See Termination Date of 2001 Amendment note below.
+Pars. (20), (21). Pub. L. 107–56, §217(1), added pars. (20) and (21).
 
 1996—Par. (12)(D). Pub. L. 104–132, §731(1), added subpar. (D).
 
@@ -146,15 +142,7 @@ Pars. (12) to (18). Pub. L. 99–508, §101(a)(6), added pars. (12) to (18).
 
 #### Termination Date of 2001 Amendment
 
-Pub. L. 107–56, title II, §224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 109–160, §1, Dec. 30, 2005, 119 Stat. 2957, provided that:
-
-“(a)
-
-In General.—Except as provided in subsection (b), this title \[enacting section 2712 of this title, section 7210 of Title 22, Foreign Relations and Intercourse, and sections 403–5d, 1861, and 1862 of Title 50, War and National Defense, amending this section, sections 2511, 2516, 2517, 2520, 2702, 2703, 2707, 2711, 3103a, 3121, 3123, 3124, and 3127 of this title, sections 7203 and 7205 of Title 22, section 551 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, sections 1803 to 1805, 1823, 1824, 1842, and 1843 of Title 50, and Rules 6 and 41 of the Federal Rules of Criminal Procedure, repealing sections 1861 to 1863 of Title 50, and enacting provisions set out as notes under sections 2517, and 3124 of this title and section 532 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this title (other than sections 203(a), 203(c), 205, 208, 210, 211, 213, 216, 219, 221, and 222 \[amending sections 2703, 3103a, 3121, 3123, 3124, 3127 of this title, sections 7203 and 7205 of Title 22, section 551 of Title 47, section 1803 of Title 50, and Rules 6 and 41 of the Federal Rules of Criminal Procedure\], and the amendments made by those sections) shall cease to have effect on February 3, 2006.
-
-“(b)
-
-Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in subsection (a) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect.”
+Pub. L. 107–56, title II, §224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 109–160, §1, Dec. 30, 2005, 119 Stat. 2957; Pub. L. 109–170, §1, Feb. 3, 2006, 120 Stat. 3, which provided that title II of Pub. L. 107–56 and the amendments made by that title would cease to have effect on Mar. 10, 2006, with certain exceptions, was repealed by Pub. L. 109–177, title I, §102(a), Mar. 9, 2006, 120 Stat. 194.
 
 #### Effective Date of 1986 Amendment
 

@@ -52,3 +52,5 @@ The words “commissioned officers and warrant” are omitted as covered by the 
 
 1958—Pub. L. 85–861 substituted “may retain on active duty any disabled officer” for “shall retain on active duty any disabled officer who has only a temporary appointment”, and “military or Veterans’ Administration hospital or until he is processed for physical disability benefits provided by law”, for “military hospital or in the Army”.
 
+§8447
+

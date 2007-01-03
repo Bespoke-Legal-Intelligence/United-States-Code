@@ -1,6 +1,6 @@
 ### §1741. Foreign official documents
 
-An official record or document of a foreign country may be evidenced by a copy, summary,or excerpt authenticated as provided in the Federal Rules of Civil Procedure.
+An official record or document of a foreign country may be evidenced by a copy, summary, or excerpt authenticated as provided in the Federal Rules of Civil Procedure.
 
 (June 25, 1948, ch. 646, 62 Stat. 948; May 24, 1949, ch. 139, §92(b), 63 Stat. 103; Pub. L. 88–619, §5(a), Oct. 3, 1964, 78 Stat. 996.)
 

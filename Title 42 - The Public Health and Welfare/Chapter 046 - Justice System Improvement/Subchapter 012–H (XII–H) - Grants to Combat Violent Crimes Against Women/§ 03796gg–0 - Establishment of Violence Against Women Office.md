@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-There is hereby established within the Department of Justice, under the general authority ofthe Attorney General, a Violence Against Women Office (in this subchapter referred to as the “Office”).
+There is hereby established within the Department of Justice, under the general authority of the Attorney General, a Violence Against Women Office (in this subchapter referred to as the “Office”).
 
 #### (b) Separate office
 
-The Office shall be a separate and distinct office within the Department of Justice, headed by a Director, who shall report to the Attorney General and serve as Counsel to the Attorney General on the subject of violence against women, and who shall have final authority over all grants, cooperative agreements, and contracts awarded by the Office.
+The Office shall be a separate and distinct office within the Department of Justice, headed by a Director, who shall report to the Attorney General and serve as Counsel to the Attorney General on the subject of violence against women, and who shall have final authority overall grants, cooperative agreements, and contracts awarded by the Office.
 
 #### (c) Jurisdiction
 

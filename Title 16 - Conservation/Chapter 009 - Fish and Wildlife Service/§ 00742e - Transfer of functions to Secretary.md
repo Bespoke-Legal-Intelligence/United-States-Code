@@ -6,7 +6,7 @@ There shall be transferred to the Secretary all functions of the Secretary of Ag
 
 #### (b) Transfer of personnel, property, records, etc.
 
-There shall be transferred to the Department of the Interior so much of the personnel, property, facilities, records, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) as the Director of the Office of Management and Budget determines to be necessary in connection with the exercise of any functions transferred to the Secretary pursuant to subsection (a) of this section.
+There shall be transferred to the Department of the Interior so much of the personnel, property, facilities, records, and unexpended balances of appropriations, allocations, and otherfunds (available or to be made available) as the Director of the Office of Management and Budget determines to be necessary in connection with the exercise of any functions transferred to the Secretary pursuant to subsection (a) of this section.
 
 #### (c) Cooperation of other departments and agencies
 
@@ -21,8 +21,6 @@ This Act, referred to in subsec. (a), is act Aug. 8, 1956, ch. 1036, 70 Stat. 11
 #### Transfer of Functions
 
 All functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget were transferred to the President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget.
-
-Secretary of the Interior authorized to exercise authority in relation to issuance of ship mortgage insurance on fishing vessels comparable to authority of Secretary of Commerce under Merchant Marine Act of 1936, as amended, see Pub. L. 86–577, July 5, 1960, 74 Stat. 314, set out as a note under section 1275 of Title 46, Appendix, Shipping.
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
 

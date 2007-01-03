@@ -14,7 +14,13 @@ The staff of the Administration shall perform, in accordance with applicable law
 
 &emsp;(3) Public affairs.
 
-&emsp;(4) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
+&emsp;(4) Liaison with the Department of Energy's Office of Intelligence and Counterintelligence.
 
-(Pub. L. 106–65, div. C, title XXXII, §3218, Oct. 5, 1999, 113 Stat. 960.)
+&emsp;(5) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
+
+(Pub. L. 106–65, div. C, title XXXII, §3218, Oct. 5, 1999, 113 Stat. 960; Pub. L. 109–364, div. C, title XXXI, §3117(e), Oct. 17, 2006, 120 Stat. 2508.)
+
+#### Amendments
+
+2006—Subsec. (b)(4), (5). Pub. L. 109–364 added par. (4) and redesignated former par. (4) as (5).
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Two or more associations within the same district, whether or not organized under the same subchapter of this chapter, may merge into a single entity (hereinafter in this subchapter referred to as a “merged association”) if the plan of merger is approved by—
+Two or more associations within the same district, whether or not organized under the samesubchapter of this chapter, may merge into a single entity (hereinafter in this subchapter referred to as a “merged association”) if the plan of merger is approved by—
 
 &emsp;(1) the Farm Credit Administration Board;
 

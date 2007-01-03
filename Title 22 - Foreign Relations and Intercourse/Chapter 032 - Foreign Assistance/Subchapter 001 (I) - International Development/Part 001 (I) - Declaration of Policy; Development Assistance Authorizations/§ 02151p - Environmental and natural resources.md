@@ -166,7 +166,7 @@ Composition.—The Committee shall consist of international investors, lenders, 
 
 “(c)
 
-Functions.—Members of the Committee shall act as field advisers and may form specialized workinggroups to provide in-country training and technical assistance, and shall serve as a source of technical support to resolve barriers to project development.
+Functions.—Members of the Committee shall act as field advisers and may form specialized working groups to provide in-country training and technical assistance, and shall serve as a source of technical support to resolve barriers to project development.
 
 #### “SEC. 649. AUTHORIZATION OF APPROPRIATIONS.
 

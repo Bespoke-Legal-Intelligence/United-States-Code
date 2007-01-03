@@ -34,7 +34,7 @@ Form of Assistance.—Assistance under this section may be used for—
 
 “(c)
 
-Matching Requirement.—Assistance provided under this section shall be matched from privatesources in an amount equal to 3 times the amount made available under this section.
+Matching Requirement.—Assistance provided under this section shall be matched from private sources in an amount equal to 3 times the amount made available under this section.
 
 “(d)
 

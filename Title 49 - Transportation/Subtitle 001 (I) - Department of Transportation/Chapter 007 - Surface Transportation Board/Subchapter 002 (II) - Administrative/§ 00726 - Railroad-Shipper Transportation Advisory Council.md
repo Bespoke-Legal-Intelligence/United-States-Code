@@ -38,13 +38,13 @@ Election and Duties of Officers.—The Council Chairman and Vice Chairman and ot
 
 (d)
 
-Expenses.—(1) The members of the Council shall receive no compensation for their services as such, but upon request by the Council Chairman, based on a showing of significant economic burden, the Secretary of Transportation or the Chairman of the Board, to the extent provided in advance in appropriation Acts, may provide reasonable and necessary travel expenses forsuch individual Council members from Department or Board funding sources in order to foster balanced representation on the Council.
+Expenses.—(1) The members of the Council shall receive no compensation for their services as such, but upon request by the Council Chairman, based on a showing of significant economic burden, the Secretary of Transportation or the Chairman of the Board, to the extent provided in advance in appropriation Acts, may provide reasonable and necessary travel expenses for such individual Council members from Department or Board funding sources in order to foster balanced representation on the Council.
 
 (2) Upon request by the Council Chairman, the Secretary or Chairman of the Board, to the extent provided in advance in appropriations Acts, may pay the reasonable and necessary expenses incurred by the Council in connection with the coordination of Council activities, announcement and reporting of meetings, and preparation of such Council documents as are required or permitted by this section.
 
 (3) The Council may solicit and use private funding for its activities, subject to this subsection.
 
-(4) Prior to making any Federal funding requests, the Council Chairman shall undertake best efforts to fund such activities privately unless the Council Chairman determines that such private funding would create a conflict of interest, or the appearance thereof, or is otherwise impractical. The Council Chairman shall not request funding from any Federal agency without providing written justification as to why private funding would create any such conflict or appearance, or is otherwise impractical.
+(4) Prior to making any Federal funding requests, the Council Chairman shall undertake best efforts to fund such activities privately unless the Council Chairman determines that such private funding would create a conflict of interest, or the appearance thereof, or is otherwise impractical. The Council Chairman shall not request funding from any Federal agency without providing written justification as to why privatefunding would create any such conflict or appearance, or is otherwise impractical.
 
 (5) To enable the Council to carry out its functions—
 

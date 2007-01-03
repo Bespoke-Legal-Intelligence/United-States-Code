@@ -10,7 +10,7 @@ The Director of the Congressional Budget Office shall, to the extent practicable
 
 > The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
 
-(Pub. L. 93–344, title IV, §402, formerly §403, July 12, 1974, 88 Stat. 320; Pub. L. 97–108, §2(a), Dec. 23, 1981, 95 Stat. 1510; Pub. L. 99–177, title II, §213, Dec. 12, 1985, 99 Stat. 1059; Pub. L. 104–4, title I, §104, Mar. 22, 1995, 109 Stat. 62; renumbered §402, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
+(Pub. L. 93–344, title IV, §402, formerly §403, July 12, 1974, 88 Stat. 320; Pub. L. 97–108, §2(a), Dec. 23, 1981, 95 Stat. 1510; Pub. L. 99–177, title II, §213, Dec. 12, 1985, 99 Stat. 1059; Pub. L. 104–4, title I,§104, Mar. 22, 1995, 109 Stat. 62; renumbered §402, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 #### Codification
 

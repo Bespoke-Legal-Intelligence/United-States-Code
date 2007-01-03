@@ -12,7 +12,7 @@
 
 &emsp;(4) the potential for the development of international agreements for the exchange of United States agricultural products for natural resources, including energy sources, or other commodities and products needed by the United States; and
 
-&emsp;(5) the steps that the United States must take to (A) increase agricultural export trade, and (B) obtain needed natural resources or other commodities and products in exchange for agricultural products, to the maximum extent feasible.
+&emsp;(5) the steps that the United States must take to (A) increase agricultural export trade, and (B) obtain needed natural resources or other commodities and products in exchangefor agricultural products, to the maximum extent feasible.
 
 (Pub. L. 96–494, title II, §210, Dec. 3, 1980, 94 Stat. 2576.)
 

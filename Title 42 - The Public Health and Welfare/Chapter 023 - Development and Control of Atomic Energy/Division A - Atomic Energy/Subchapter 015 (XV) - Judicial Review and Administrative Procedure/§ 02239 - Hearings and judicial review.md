@@ -12,7 +12,7 @@
 
 (v) The Commission shall, to the maximum possible extent, render a decision on issues raised by the hearing request within 180 days of the publication of the notice provided by clause (i) or the anticipated date for initial loading of fuel into the reactor, whichever is later. Commencement of operation under a combined license is not subject to subparagraph (A).
 
-(2)(A) The Commission may issue and make immediately effective any amendment to an operating license or any amendment to a combined construction and operating license, upon a determination by the Commission that such amendment involves no significant hazards consideration, notwithstanding the pendency before the Commission of a request for a hearing from any person. Such amendment may be issued and made immediately effective in advance of the holding and completion of any required hearing. In determining under this section whether such amendment involves no significant hazards consideration, the Commission shall consult with the State in which the facility involved is located. In all other respects such amendment shall meet the requirements of this chapter.
+(2)(A) The Commission may issue and make immediately effective any amendment to an operating license or any amendment to a combined construction and operating license, upon a determination by the Commission that suchamendment involves no significant hazards consideration, notwithstanding the pendency before the Commission of a request for a hearing from any person. Such amendment may be issued and made immediately effective in advance of the holding and completion of any required hearing. In determining under this section whether such amendment involves no significant hazards consideration, the Commission shall consult with the State in which the facility involved is located. In all other respects such amendment shall meet the requirements of this chapter.
 
 (B) The Commission shall periodically (but not less frequently than once every thirty days) publish notice of any amendments issued, or proposed to be issued, as provided in subparagraph (A). Each such notice shall include all amendments issued, or proposed to be issued, since the date of publication of the last such periodic notice. Such notice shall, with respect to each amendment or proposed amendment (i) identify the facility involved; and (ii) provide a brief description of such amendment. Nothing in this subsection shall be construed to delay the effective date of any amendment.
 
@@ -58,11 +58,7 @@ Subsec. (a)(1)(B) of this section, as added by section 2802 of Pub. L. 102–486
 
 #### Authority To Effectuate Amendments to Operating Licenses
 
-Section 12(b) of Pub. L. 97–415 provided that: “The authority of the Nuclear Regulatory Commission, under the provisions of the amendment made by subsection (a) \[amending this section\], to issue and to make immediately effective any amendment to an operating license shall take effect upon the promulgation by the Commission of the regulations required in such provisions.”
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+Section 12(b) of Pub. L. 97–415 provided that: “The authority of the Nuclear Regulatory Commission, under the provisions of the amendment made by subsection (a) \[amending this section\], to issue and to make immediately effective any amendment to an operating license shall take effect upon the promulgation by theCommission of the regulations required in such provisions.”
 
 #### Review of Nuclear Proliferation Assessment Statements
 

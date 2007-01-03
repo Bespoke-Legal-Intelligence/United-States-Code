@@ -4,7 +4,7 @@
 
 Whoever—
 
-&emsp;(1) for the purpose of causing an increase in any payment authorized to be made under this subchapter, or for the purpose of causing any payment to be made where no payment is authorized under this subchapter, shall make or cause to be made any false statement or representation (including any false statement or representation in connection with any matter arising under subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939, or chapter 2 or 21 or subtitle F of the Internal Revenue Code of 1954) as to—
+&emsp;(1) for the purpose of causing an increase in any payment authorized to be made under this subchapter, or for the purpose of causing any payment to be made where no payment is authorized under this subchapter, shall make orcause to be made any false statement or representation (including any false statement or representation in connection with any matter arising under subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939, or chapter 2 or 21 or subtitle F of the Internal Revenue Code of 1954) as to—
 
 &emsp;&emsp;(A) whether wages were paid or received for employment (as said terms are defined in this subchapter and the Internal Revenue Code), or the amount of wages or the period during which paid or the person to whom paid; or
 
@@ -78,7 +78,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 &emsp;(C) who is granted special immigrant status under section 1101(a)(27)(I) of title 8,
 
-> shall not be subject to prosecution for any alleged conduct described in paragraph (6) or (7) ofsubsection (a) of this section if such conduct is alleged to have occurred prior to 60 days after November 5, 1990.
+> shall not be subject to prosecution for any alleged conduct described in paragraph (6) or (7) of subsection (a) of this section if such conduct is alleged to have occurred prior to 60 days after November 5, 1990.
 
 (2) Paragraph (1) shall not apply with respect to conduct (described in subsection (a)(7)(C) of this section) consisting of—
 
@@ -134,7 +134,7 @@ Pub. L. 101–508, §5130(a)(1), in the last undesignated paragraph substituted 
 
 1988—Pub. L. 100–690 substituted “under title 18” for “not more than $5,000” in first undesignated par., substituted “under title 18” for “not more than $25,000” in second undesignated par., and inserted provisions at end defining for purposes of subsec. (g) “social security number” and “social security account number”.
 
-1984—Pub. L. 98–460 inserted provisions imposing a penalty of $25,000 or imprisonment for not more than five years, or both, on any person or other entity convicted for a second or subsequent violation of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title, and also granting the court discretion, in any case, including a first offense, involving a willful misuse of funds, to require full or partial restitution, and prohibiting the certification of any individual or entity convicted of afelony under this section or under section 1383a(b) of this title.
+1984—Pub. L. 98–460 inserted provisions imposing a penalty of $25,000 or imprisonment for not more than five years, or both, on any person or other entity convicted for a second or subsequent violation of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title, and also granting the court discretion, in any case, including a first offense, involving a willful misuse of funds, to require full or partial restitution, and prohibiting the certification of any individual or entity convicted of a felony under this section or under section 1383a(b) of this title.
 
 Subsecs. (f) to (h). Pub. L. 98–369 realigned margins of subsecs. (f) to (h).
 
@@ -172,7 +172,7 @@ Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 5130(a)(1) of Pub. L. 101–508 effective as if included in the enactment of Pub. L. 100–690, §7088, see section 5130(b) of Pub. L. 101–508, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 5130(a)(1) of Pub. L. 101–508 effective as if included in the enactment of Pub. L. 100–690, §7088, see section 5130(b) of Pub. L. 101–508, setout as a note under section 1402 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1984 Amendments
 

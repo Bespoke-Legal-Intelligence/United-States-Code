@@ -1,6 +1,6 @@
 ### §8414. Early retirement
 
-(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years ofage and completing 20 years of service, is entitled to an annuity.
+(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
@@ -164,7 +164,7 @@ For provisions relating to the application of subsection (b)(1)(B) of this secti
 
 #### Application of Subsection (b)(1)(B)
 
-Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a),Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, §7001(b), was repealed by Pub. L. 107–296, title XIII, §1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
+Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a), Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, §7001(b), was repealed by Pub. L. 107–296, title XIII, §1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “separated”.</i>
 

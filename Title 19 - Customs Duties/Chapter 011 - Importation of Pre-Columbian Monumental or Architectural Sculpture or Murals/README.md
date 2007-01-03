@@ -4,11 +4,7 @@
 | :--- | ---: |
 | [2091\.](%C2%A7%2002091%20-%20List%20of%20stone%20carvings%20and%20wall%20art%3B%20promulgation%20and%20revision%3B%20criteria%20for%20classification.md) | List of stone carvings and wall art; promulgation and revision; criteria for classification. |
 | [2092\.](%C2%A7%2002092%20-%20Export%20certification%20requirement.md) | Export certification requirement. |
-| (a) | Issuance by country of export. |
-| (b) | Procedure when certificate lacking. |
 | [2093\.](%C2%A7%2002093%20-%20Forfeiture%20of%20unlawful%20imports.md) | Forfeiture of unlawful imports. |
-| (a) | Seizure. |
-| (b) | Disposition of articles. |
 | [2094\.](%C2%A7%2002094%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [2095\.](%C2%A7%2002095%20-%20Definitions.md) | Definitions. |
 

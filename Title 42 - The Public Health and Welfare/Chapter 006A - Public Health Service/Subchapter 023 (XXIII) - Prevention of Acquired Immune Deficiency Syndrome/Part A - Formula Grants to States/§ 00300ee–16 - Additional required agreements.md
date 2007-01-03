@@ -20,7 +20,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 &emsp;&emsp;&emsp;(ii) to enter into contracts with public and private entities; and
 
-&emsp;&emsp;(B) of the amounts reserved for a fiscal year by the State for expenditures required in subparagraph (A), expend not less than 50 percent to carry out section 300ee–12(10) of this title through grants to nonprofit private entities, including minority entities, concerned with acquired immune deficiencysyndrome located in and representative of communities and subpopulations reflecting the local incidence of such syndrome;
+&emsp;&emsp;(B) of the amounts reserved for a fiscal year by the State for expenditures required in subparagraph (A), expend not less than 50 percent to carry out section 300ee–12(10) of this title through grants to nonprofit private entities, including minority entities, concerned with acquired immune deficiency syndrome located in and representative of communities and subpopulations reflecting the local incidence of such syndrome;
 
 &emsp;(6) with respect to programs carried out pursuant to section 300ee–12(10) of this title, the State will ensure that any applicant for a grant under such section agrees—
 

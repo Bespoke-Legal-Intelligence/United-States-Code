@@ -12,7 +12,7 @@ The regulations shall include the following:
 
 &emsp;(2) Minimum standards for the length and type of training that employees must undergo before they can transport prisoners not to exceed 100 hours of preservice training focusing on the transportation of prisoners. Training shall be in the areas of use of restraints, searches, use of force, including use of appropriate weapons and firearms, CPR, map reading, and defensive driving.
 
-&emsp;(3) Restrictions on the number of hours that employees can be on duty during a given time period. Such restriction shall not be more stringent than current applicable rules and regulations concerning hours of service promulgated under the Federal Motor Vehicle Safety Act.<sup>1</sup>
+&emsp;(3) Restrictions on the number of hours that employees can be on duty during a given timeperiod. Such restriction shall not be more stringent than current applicable rules and regulations concerning hours of service promulgated under the Federal Motor Vehicle Safety Act.<sup>1</sup>
 
 &emsp;(4) Minimum standards for the number of personnel that must supervise violent prisoners. Such standards shall provide the transport entity with appropriate discretion, and, absent more restrictive requirements contracted for by the procuring government entity, shall not exceed a requirement of 1 agent for every 6 violent prisoners.
 

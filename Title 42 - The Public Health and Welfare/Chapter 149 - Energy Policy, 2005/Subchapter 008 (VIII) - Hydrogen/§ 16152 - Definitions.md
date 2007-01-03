@@ -18,7 +18,7 @@ In this subchapter:
 
 #### (3) Infrastructure
 
-&emsp;The term “infrastructure” means the equipment, systems, or facilities used to produce,distribute, deliver, or store hydrogen (except for onboard storage).
+&emsp;The term “infrastructure” means the equipment, systems, or facilities used to produce, distribute, deliver, or store hydrogen (except for onboard storage).
 
 #### (4) Light-duty vehicle
 

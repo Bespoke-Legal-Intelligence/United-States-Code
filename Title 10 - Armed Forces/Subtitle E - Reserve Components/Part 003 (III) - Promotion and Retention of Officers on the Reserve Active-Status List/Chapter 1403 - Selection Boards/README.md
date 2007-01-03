@@ -5,7 +5,7 @@
 | [14101\.](%C2%A7%2014101%20-%20Convening%20of%20selection%20boards.md) | Convening of selection boards. |
 | [14102\.](%C2%A7%2014102%20-%20Selection%20boards%20appointment%20and%20composition.md) | Selection boards: appointment and composition. |
 | [14103\.](%C2%A7%2014103%20-%20Oath%20of%20members.md) | Oath of members. |
-| [14104\.](%C2%A7%2014104%20-%20Confidentiality%20of%20board%20proceedings.md) | Confidentiality of board proceedings. |
+| [14104\.](%C2%A7%2014104%20-%20Nondisclosure%20of%20board%20proceedings.md) | Nondisclosure of board proceedings. |
 | [14105\.](%C2%A7%2014105%20-%20Notice%20of%20convening%20of%20promotion%20board.md) | Notice of convening of promotion board. |
 | [14106\.](%C2%A7%2014106%20-%20Communication%20with%20board%20by%20officers%20under%20consideration.md) | Communication with board by officers under consideration. |
 | [14107\.](%C2%A7%2014107%20-%20Information%20furnished%20by%20the%20Secretary%20concerned%20to%20promotion%20boards.md) | Information furnished by the Secretary concerned to promotion boards. |
@@ -19,6 +19,8 @@
 
 #### Amendments
 
+2006—Pub. L. 109–364, div. A, title V, §547(d)(2), Oct. 17, 2006, 120 Stat. 2216, substituted “Nondisclosure” for “Confidentiality” in item 14104.
+
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(23), Feb. 10, 1996, 110 Stat. 497, substituted “promotion” for “selection” in item 14105.
 
 
@@ -29,7 +31,7 @@
 - [&sect; 14101 - Convening of selection boards](%C2%A7%2014101%20-%20Convening%20of%20selection%20boards.md)
 - [&sect; 14102 - Selection boards appointment and composition](%C2%A7%2014102%20-%20Selection%20boards%20appointment%20and%20composition.md)
 - [&sect; 14103 - Oath of members](%C2%A7%2014103%20-%20Oath%20of%20members.md)
-- [&sect; 14104 - Confidentiality of board proceedings](%C2%A7%2014104%20-%20Confidentiality%20of%20board%20proceedings.md)
+- [&sect; 14104 - Nondisclosure of board proceedings](%C2%A7%2014104%20-%20Nondisclosure%20of%20board%20proceedings.md)
 - [&sect; 14105 - Notice of convening of promotion board](%C2%A7%2014105%20-%20Notice%20of%20convening%20of%20promotion%20board.md)
 - [&sect; 14106 - Communication with board by officers under consideration](%C2%A7%2014106%20-%20Communication%20with%20board%20by%20officers%20under%20consideration.md)
 - [&sect; 14107 - Information furnished by the Secretary concerned to promotion boards](%C2%A7%2014107%20-%20Information%20furnished%20by%20the%20Secretary%20concerned%20to%20promotion%20boards.md)

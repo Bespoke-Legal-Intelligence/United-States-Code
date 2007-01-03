@@ -32,7 +32,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 #### (c) Discretionary remedial activities available to Commission; orders; contents
 
-(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that notification is required to protect adequately the public from such toy or article, the Commission may order the manufacturer or any distributor or dealer of such toy or article to take any one or more of the following actions:
+(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and thatnotification is required to protect adequately the public from such toy or article, the Commission may order the manufacturer or any distributor or dealer of such toy or article to take any one or more of the following actions:
 
 &emsp;(A) To give public notice that such defective toy or article contains a defect which creates a substantial risk of injury to children.
 
@@ -74,7 +74,7 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out inthe Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
 

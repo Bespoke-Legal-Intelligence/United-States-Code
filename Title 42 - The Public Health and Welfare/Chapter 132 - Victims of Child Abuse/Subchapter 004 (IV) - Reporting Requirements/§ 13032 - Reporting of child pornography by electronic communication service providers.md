@@ -12,11 +12,11 @@ In this section—
 
 (1)
 
-Duty to report.—Whoever, while engaged in providing an electronic communication service or a remote computing service to the public, through a facility or means of interstate or foreign commerce, obtains knowledge of facts or circumstances from which a violation of section 2251, 2251A, 2252, 2252A, 2252B, or 2260 of title 18, involving child pornography (as defined in section 2256 of that title), or a violation of section 1466A of that title, is apparent, shall, as soon as reasonably possible, make a report of such facts or circumstances to the Cyber Tip Line at the National Center for Missing and Exploited Children, which shall forward that report to a law enforcement agency or agencies designated by the Attorney General.
+Duty to report.—Whoever, while engaged in providing an electronic communication service or a remote computing service to the public, through a facility or means of interstate or foreign commerce, obtains knowledge of facts or circumstances from which a violation of section 2251, 2251A, 2252, 2252A, 2252B, or 2260 of title 18, involving child pornography (as defined in section 2256 of that title), or a violation of section 1466A of that title, is apparent, shall, as soon as reasonably possible, make a report of such facts or circumstances to the Cyber Tip Line <sup>1</sup> at the National Center for Missing and Exploited Children, which shall forward that report to a law enforcement agency or agencies designated by the Attorney General.
 
 (2)
 
-Designation of agencies.—Not later than 180 days after October 30, 1998, the Attorney General shall designate the law enforcement agency or agencies to which a report shall be forwarded under paragraph (1).
+Designation of agencies.—Not later than 180 days after October 30, 1998, the AttorneyGeneral shall designate the law enforcement agency or agencies to which a report shall be forwarded under paragraph (1).
 
 (3) In addition to forwarding such reports to those agencies designated in subsection (b)(2) of this section, the National Center for Missing and Exploited Children is authorized to forward any such report to an appropriate official of a state or subdivision of a state for the purpose of enforcing state criminal law.
 
@@ -58,13 +58,29 @@ Nothing in this section may be construed to require a provider of electronic com
 
 &emsp;In this subsection, the terms “attorney for the government” and “State” have the meanings given those terms in Rule 54 of the Federal Rules of Criminal Procedure.
 
-(Pub. L. 101–647, title II, §227, as added Pub. L. 105–314, title VI, §604(a), Oct. 30, 1998, 112 Stat. 2983; amended Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §121\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 108–21, title V, §508(a), Apr. 30, 2003, 117 Stat. 683.)
+#### (g) Limitation on liability
+
+#### (1) In general
+
+&emsp;Except as provided in paragraphs (2) and (3), the National Center for Missing and Exploited Children, including any of its directors, officers, employees, or agents, is not liable in any civil or criminal action arising from the performance of its CyberTipline responsibilities and functions, as defined by this section, or from its efforts to identify child victims.
+
+#### (2) Intentional, reckless, or other misconduct
+
+&emsp;Paragraph (1) does not apply in an action in which a party proves that the National Center for Missing and Exploited Children, or its officer, employee, or agent as the case may be, engaged in intentional misconduct or acted, or failed to act, with actual malice, with reckless disregard to a substantial risk of causing injury without legal justification, or for a purpose unrelated to the performance of responsibilities or functions under this section.
+
+#### (3) Ordinary business activities
+
+&emsp;Paragraph (1) does not apply to an act or omission related to an ordinary business activity, such as an activity involving general administration or operations, the use of motor vehicles, or personnel management.
+
+(Pub. L. 101–647, title II, §227, as added Pub. L. 105–314, title VI, §604(a), Oct. 30, 1998, 112 Stat. 2983; amended Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §121\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 108–21, title V, §508(a), Apr. 30, 2003, 117 Stat. 683; Pub. L. 109–248, title I, §130, July 27, 2006, 120 Stat. 601.)
 
 #### References in Text
 
 Rule 54 of the Federal Rules of Criminal Procedure, referred to in subsec. (f)(2), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–248 added subsec. (g).
 
 2003—Subsec. (b)(1). Pub. L. 108–21, §508(a)(1), inserted “2252B,” after “2252A,” and “or a violation of section 1466A of that title,” after “of that title),”.
 

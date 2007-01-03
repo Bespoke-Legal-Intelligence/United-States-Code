@@ -32,5 +32,5 @@ Pub. L. 108–128, §1, Nov. 17, 2003, 117 Stat. 1355, provided that: “This Ac
 
 #### Short Title
 
-Pub. L. 106–76, §1, Oct. 21, 1999, 113 Stat. 1126, provided that: “This Act \[enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and provisions listed in atable of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999’.”
+Pub. L. 106–76, §1, Oct. 21, 1999, 113 Stat. 1126, provided that: “This Act \[enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999’.”
 

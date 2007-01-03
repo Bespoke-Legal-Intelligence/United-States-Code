@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 85–287 added subsec. (d).
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426.
 
 #### Transfer of Functions
 

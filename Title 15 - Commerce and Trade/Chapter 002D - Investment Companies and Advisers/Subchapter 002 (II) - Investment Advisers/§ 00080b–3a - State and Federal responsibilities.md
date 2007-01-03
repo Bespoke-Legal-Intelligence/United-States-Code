@@ -32,19 +32,19 @@
 
 Notwithstanding subsection (a) of this section, the Commission, by rule or regulation upon its own motion, or by order upon application, may permit the registration with the Commission of any person or class of persons to which the application of subsection (a) of this section would be unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of this section.
 
-#### (d) Filing depositories
-
-The Commission may, by rule, require an investment adviser—
-
-&emsp;(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and
-
-&emsp;(2) to pay the reasonable costs associated with such filing.
-
-#### (e) State assistance
+#### (d) State assistance
 
 Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
 
-(Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437.)
+(Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437; amended Pub. L. 109–290, §7(b)(1), Sept. 29, 2006, 120 Stat. 1321.)
+
+#### Amendments
+
+2006—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Commission may, by rule, require an investment adviser—
+
+&emsp;“(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and
+
+&emsp;“(2) to pay the reasonable costs associated with such filing.”
 
 #### Effective Date
 

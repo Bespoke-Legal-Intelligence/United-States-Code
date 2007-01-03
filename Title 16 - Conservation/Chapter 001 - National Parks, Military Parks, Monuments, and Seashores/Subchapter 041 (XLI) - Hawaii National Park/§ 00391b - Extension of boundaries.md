@@ -46,7 +46,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 20\. Two hundred and thirty-four degrees thirty-nine minutes and forty seconds exactly three thousand two hundred and eighty-three feet across portion of the land of Kahaualea;
 
-21\. Exactly three hundred and thirty-eight degrees and twelve minutes three thousand nine hundred and twenty-seven and five-tenths feet along the land of Kapaahu;
+21\. Exactly three hundred and thirty-eight degrees and twelve minutes three thousand ninehundred and twenty-seven and five-tenths feet along the land of Kapaahu;
 
 22\. Exactly three hundred and thirty-four degrees and thirty minutes exactly one thousand seven hundred and eighty feet along the land of Kapaahu to the south corner of grant 3208 to West Kaloi;
 
@@ -98,7 +98,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 #### Change of Name
 
-“National Ocean Survey” substituted for “Coast and Geodetic Survey” in second par. Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes under section 311 of Title 15, Commerce and Trade.
+“National Ocean Survey” substituted for “Coast and Geodetic Survey” in second par. Coast and GeodeticSurvey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes under section 311 of Title 15, Commerce and Trade.
 
 #### Admission of Hawaii as State
 

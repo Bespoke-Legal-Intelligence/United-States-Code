@@ -6,15 +6,8 @@
 | [2102\.](%C2%A7%2002102%20-%20Establishment%20of%20standards.md) | Establishment of standards. |
 | [2103\.](%C2%A7%2002103%20-%20National%20artificial%20reef%20plan.md) | National artificial reef plan. |
 | [2104\.](%C2%A7%2002104%20-%20Permits%20for%20construction%20and%20management%20of%20artificial%20reefs.md) | Permits for construction and management of artificial reefs. |
-| (a) | Secretarial action on permits. |
-| (b) | Terms and conditions of permits. |
-| (c) | Liability of permittee. |
-| (d) | Liability of the United States. |
-| (e) | Civil penalty. |
 | [2105\.](%C2%A7%2002105%20-%20Definitions.md) | Definitions. |
 | [2106\.](%C2%A7%2002106%20-%20Savings%20clauses.md) | Savings clauses. |
-| (a) | Tennessee Valley Authority jurisdiction. |
-| (b) | State jurisdiction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

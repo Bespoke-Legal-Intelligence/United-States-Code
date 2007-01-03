@@ -14,7 +14,7 @@ Description.—A policy, procedure, or directive referred to in subsection (a) i
 
 &emsp;(3) the Federal Works Administrator or the head of a constituent agency of the Federal Works Agency; or
 
-&emsp;(4) the Archivist of the United States or another officer or body whose functions were transferred on June 30, 1949, by title I of the Federal Property and Administrative Services Act of 1949.
+&emsp;(4) the Archivist of the United States or another officer or body whose functions weretransferred on June 30, 1949, by title I of the Federal Property and Administrative Services Act of 1949.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1065.)
 

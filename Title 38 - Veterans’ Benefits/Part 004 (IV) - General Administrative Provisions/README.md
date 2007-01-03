@@ -8,10 +8,13 @@
 | [<b>57.</b>](Chapter%20057%20-%20Records%20and%20Investigations/README.md) | <b>Records and Investigations</b> | <b>5701</b> |
 | [<b>59.</b>](Chapter%20059%20-%20Agents%20and%20Attorneys/README.md) | <b>Agents and Attorneys</b> | <b>5901</b> |
 | [<b>61.</b>](Chapter%20061%20-%20Penal%20and%20Forfeiture%20Provisions/README.md) | <b>Penal and Forfeiture Provisions</b> | <b>6101</b> |
+| [<b>63.</b>](Chapter%20063%20-%20Outreach%20Activities/README.md) | <b>Outreach Activities</b> | <b>6301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–233, title IV, §402(d)(3), June 15, 2006, 120 Stat. 411, added item for chapter 63.
 
 2002—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for chapter 51.
 
@@ -30,3 +33,4 @@
 - [Chapter 057 - Records and Investigations](Chapter%20057%20-%20Records%20and%20Investigations/README.md)
 - [Chapter 059 - Agents and Attorneys](Chapter%20059%20-%20Agents%20and%20Attorneys/README.md)
 - [Chapter 061 - Penal and Forfeiture Provisions](Chapter%20061%20-%20Penal%20and%20Forfeiture%20Provisions/README.md)
+- [Chapter 063 - Outreach Activities](Chapter%20063%20-%20Outreach%20Activities/README.md)

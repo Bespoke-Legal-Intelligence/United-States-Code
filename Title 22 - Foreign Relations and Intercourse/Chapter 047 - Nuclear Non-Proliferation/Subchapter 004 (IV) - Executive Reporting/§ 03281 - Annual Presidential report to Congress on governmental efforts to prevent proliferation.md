@@ -32,7 +32,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;(5) a description of the progress made toward establishing procedures to facilitate the timely processing of requests for subsequent arrangements and export licenses in order to enhance the reliability of the United States in meeting its commitments to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies; <sup>1</sup>
 
-&emsp;(6) a description of the implementation of nuclear and nuclear-related dual-use export controls in the preceding calendar year, including a summary by type of commodity and destination of—
+&emsp;(6) a description of the implementation of nuclear and nuclear-related dual-use exportcontrols in the preceding calendar year, including a summary by type of commodity and destination of—
 
 &emsp;&emsp;(A) all transactions for which—
 
@@ -40,7 +40,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;&emsp;(ii) an export license was issued under section 2139(b) of title 42;
 
-&emsp;&emsp;&emsp;(iii) approvals were issued under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\], or section 2139(b)(3) of title 42, for the retransfer of any item, technical data, component, or substance; or
+&emsp;&emsp;&emsp;(iii) approvals were issued under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], or section 2139(b)(3) of title 42, for the retransfer of any item, technical data, component, or substance; or
 
 &emsp;&emsp;&emsp;(iv) authorizations were made as required by section 2077(b)(2) of title 42 to engage, directly or indirectly, in the production of special nuclear material;
 
@@ -64,7 +64,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;(C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 
-> Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 App. U.S.C. 2411(c)(1)\] shall be submitted as confidential.
+> Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 U.S.C. App. 2411(c)(1)\] shall be submitted as confidential.
 
 #### (b) Analysis of civil agreements for cooperation
 

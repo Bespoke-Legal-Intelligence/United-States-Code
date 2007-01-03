@@ -14,7 +14,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;&emsp;(A) community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate) composed of local, collaborative, public-private partnerships directed by interdisciplinary structures with balanced representation from private and public sector members, parents, and public and private nonprofit service providers and individuals and organizations experienced in working in partnership with families with children with disabilities;
 
-&emsp;&emsp;(B) direction through an interdisciplinary, collaborative, public-private structure with balanced representation from private and public sector members, parents, and public sector and private nonprofit sector service providers, and parents with disabilities; and
+&emsp;&emsp;(B) direction through an interdisciplinary, collaborative, public-private structure withbalanced representation from private and public sector members, parents, and public sector and private nonprofit sector service providers, and parents with disabilities; and
 
 &emsp;&emsp;(C) direction and oversight through identified goals and objectives, clear lines of communication and accountability, the provision of leveraged or combined funding from Federal, State and private sources, centralized assessment and planning activities, the provision of training and technical assistance, and reporting and evaluation functions; and
 

@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) maintaining viable domestic steel, aluminum, copper, and other metals industries isvital to the national security and economic well being of the United States; and
+&emsp;(1) maintaining viable domestic steel, aluminum, copper, and other metals industries is vital to the national security and economic well being of the United States; and
 
 &emsp;(2) the promotion of technology competitiveness and energy conservation in the American steel and aluminum industries by the Federal Government through a program of joint research and development will help maintain viable domestic steel and aluminum industries.
 
@@ -14,7 +14,7 @@ The purposes of this chapter are to—
 
 &emsp;(1) increase the energy efficiency and enhance the competitiveness of American steel, aluminum, and copper industries by providing Federal incentives for the establishment of public-private sector research and development partnerships to undertake scientific research and development to develop advanced technologies utilizing the expertise of the steel, aluminum, copper, and other metals industries, Government-owned laboratories of the Department of Energy and the National Institute of Standards and Technology, universities, State development agencies, and others; and
 
-&emsp;(2) continue steel research and development initiative efforts begun under title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 (Public Law 99–190).
+&emsp;(2) continue steel research and development initiative efforts begun under title II of the Interior and Related Agencies portion of thejoint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 (Public Law 99–190).
 
 (Pub. L. 100–680, §2, Nov. 17, 1988, 102 Stat. 4073.)
 

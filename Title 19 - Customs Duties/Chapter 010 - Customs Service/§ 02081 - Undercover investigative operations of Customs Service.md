@@ -2,7 +2,7 @@
 
 #### (a) Certification required for exemption of undercover operations from certain laws
 
-With respect to any undercover investigative operation of the United States Customs Service (hereinafter in this section referred to as the “Service”) which is necessary for the detection and prosecution of offenses against the United States which are within the jurisdiction of the Secretary of the Treasury—
+With respect to any undercover investigative operation of the United States Customs Service (hereinafter in this section referred to as the“Service”) which is necessary for the detection and prosecution of offenses against the United States which are within the jurisdiction of the Secretary of the Treasury—
 
 &emsp;(1) sums authorized to be appropriated for the Service may be used—
 
@@ -72,7 +72,7 @@ For purposes of subsection (d) of this section—
 
 &emsp;&emsp;(B) which is exempt from section 3302 or 9102 of title 31;
 
-> &emsp;except that subparagraphs (A) and (B) shall not apply with respect to the report requiredunder paragraph (2) of subsection (d) of this section.
+> &emsp;except that subparagraphs (A) and (B) shall not apply with respect to the report required under paragraph (2) of subsection (d) of this section.
 
 (Pub. L. 99–570, title III, §3131, Oct. 27, 1986, 100 Stat. 3207–90; Pub. L. 104–201, div. A, title X, §1074(d)(3), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 104–316, title I, §110(b), Oct. 19, 1996, 110 Stat. 3832.)
 

@@ -14,17 +14,23 @@ Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary
 
 Operational Test and Evaluation.—(1) Operational testing of a major defense acquisition program may not be conducted until the Director of Operational Test and Evaluation of the Department of Defense approves (in writing) the adequacy of the plans (including the projected level of funding) for operational test and evaluation to be conducted in connection with that program.
 
-(2) The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
+(2) The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating—
 
-&emsp;(A) whether the test and evaluation performed were adequate; and
+&emsp;(A) the opinion of the Director as to—
 
-&emsp;(B) whether the results of such test and evaluation confirm that the items or componentsactually tested are effective and suitable for combat.
+&emsp;&emsp;(i) whether the test and evaluation performed were adequate; and
+
+&emsp;&emsp;(ii) whether the results of such test and evaluation confirm that the items or components actually tested are effective and suitable for combat; and
+
+&emsp;(B) additional information on the operational capabilities of the items or components that the Director considers appropriate based on the testing conducted.
 
 (3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
 
 (4) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program under paragraph (2) and the congressional defense committees have received that report.
 
-(5) In this subsection, the term “major defense acquisition program” has the meaning given that term in section 139(a)(2)(B) of this title.
+(5) If, before a final decision described in paragraph (4) is made for a major defense acquisition program, a decision is made within the Department of Defense to proceed to operational use of that program or to make procurement funds available for that program, the Director shall submit to the Secretary of Defense and the congressional defense committees the report with respect to that program under paragraph (2) as soon as practicable after the decision described in this paragraph is made.
+
+(6) In this subsection, the term “major defense acquisition program” has the meaning given that term in section 139(a)(2)(B) of this title.
 
 (c)
 
@@ -66,7 +72,7 @@ Operational Test and Evaluation Defined.—In this section, the term “operatio
 
 &emsp;(3) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
 
-(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611.)
+(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, §231(a), Oct. 17, 2006, 120 Stat. 2131.)
 
 #### Prior Provisions
 
@@ -74,7 +80,15 @@ A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat
 
 #### Amendments
 
-2003—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) whichdefined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
+2006—Subsec. (b)(2). Pub. L. 109–364, §231(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
+
+&emsp;“(A) whether the test and evaluation performed were adequate; and
+
+&emsp;“(B) whether the results of such test and evaluation confirm that the items or components actually tested are effective and suitable for combat.”
+
+Subsec. (b)(5), (6). Pub. L. 109–364, §231(a)(2), (3), added par. (5) and redesignated former par. (5) as (6).
+
+2003—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
 
 2002—Subsec. (a)(2). Pub. L. 107–314 substituted “means a conventional weapons system that” for “means” in introductory provisions and struck out “a conventional weapons system that” before “is a major system” in subpar. (A).
 
@@ -84,7 +98,7 @@ A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat
 
 1996—Subsec. (h)(2). Pub. L. 104–106 substituted “means—” and subpars. (A) and (B) for “means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
-1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, §1070(a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
+1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, §1070 (a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
 
 Subsec. (e)(3)(B). Pub. L. 103–337, §1070(f), substituted “solely in testing for” for “solely as a representative of”.
 
@@ -98,7 +112,7 @@ Subsec. (h)(1). Pub. L. 103–337, §1070(a)(11)(C), substituted “139(a)(2)(A)
 
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 
-Section 801 of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title VIII, §801, Nov. 29, 1989, 103 Stat. 1483, provided that:
 
 “(a)
 

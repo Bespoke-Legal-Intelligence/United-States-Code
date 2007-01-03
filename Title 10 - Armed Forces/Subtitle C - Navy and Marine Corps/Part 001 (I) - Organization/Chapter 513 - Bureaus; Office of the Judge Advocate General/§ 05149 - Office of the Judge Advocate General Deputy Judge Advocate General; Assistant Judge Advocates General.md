@@ -8,7 +8,7 @@
 
 (c) A judge advocate of the Marine Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title may be detailed as Assistant Judge Advocate General of the Navy. While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate. An officer who is retired while serving as Assistant Judge Advocate General of the Navy under this subsection or who, after serving at least twelve months as Assistant Judge Advocate General of the Navy, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the rank and grade of brigadier general. If he is retired as a brigadier general, he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.
 
-(d) When there is a vacancy in the Office of the Judge Advocate General, or during the absenceor disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
+(d) When there is a vacancy in the Office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
 (e) When subsection (d) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the Assistant Judge Advocates General, in the order directed by the Secretary of the Navy, shall perform the duties of the Judge Advocate General.
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 96–513, §503(13)(B), (C), substituted “rank and grade 
 
 Subsec. (a). Pub. L. 90–179 substituted provisions relating to the detailing of a judge advocate of the Navy or Marine Corps as Deputy Judge Advocate General of the Navy, his rank while so serving and retirement privileges for provisions relating to the detailing of an officer of the Navy or Marine Corps as Assistant Judge Advocate General.
 
-Subsecs. (b) to (d). Pub. L. 90–179 added subsecs. (b) and (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and in subsec. (d), as so redesignated, substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General, unless otherwise directed by the President,”.
+Subsecs. (b) to (d). Pub. L. 90–179 added subsecs. (b) and (c), redesignated former subsecs. (b) and (c) as (d)and (e), respectively, and in subsec. (d), as so redesignated, substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General, unless otherwise directed by the President,”.
 
 Subsec. (e). Pub. L. 90–179 redesignated former subsec. (c) as (e) and in subsec. (e), as so redesignated, substituted provisions relating to the performance of the duties of the Judge Advocate General by the Assistant Judge Advocates General in the event of the absence or disability of the Deputy Judge Advocate General for provisions relating to the performance of such duties by the heads of the major divisions of the Office of the Judge Advocate General in the event of the absence or disability of the Assistant Judge Advocate General.
 

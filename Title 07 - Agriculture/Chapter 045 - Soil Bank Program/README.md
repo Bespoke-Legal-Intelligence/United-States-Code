@@ -31,23 +31,6 @@
 |  |  |
 | :--- | ---: |
 | 1838\. | Conversion of cropland into vegetative cover, water storage, wildlife and conservation uses; contracts with farmers. |
-| (a) | Authority for calendar years 1965 through 1970; term of agreements. |
-| (b) | Terms of agreement; specifically designated acreage; land use. |
-| (c) | Federal costs; annual adjustment payment. |
-| (d) | Advertising and bid procedures. |
-| (e) | Annual adjustment payment; limitation. |
-| (f) | Termination or modification of agreements. |
-| (g) | Allotment histories. |
-| (h) | Utilization of local, county, and State committees. |
-| (i) | Transfer of funds. |
-| (j) | Conservation of open spaces, natural beauty, and recreational resources, and prevention of pollution. |
-| (k) | Limitation on payments during any calendar year. |
-| (<i>l</i>) | Use of facilities of Commodity Credit Corporation. |
-| (m) | Payment to successor upon death, incompetence, or disappearance of producer entitled to payment. |
-| (n) | Sharing of compensation or payments with tenants and sharecroppers. |
-| (<i>o</i>) | Effect of diversion on commodity programs. |
-| (p) | Advisory Board on Wildlife; membership. |
-| (q) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

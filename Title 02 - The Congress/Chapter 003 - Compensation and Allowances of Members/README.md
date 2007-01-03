@@ -5,27 +5,13 @@
 | [31\.](%C2%A7%2000031%20-%20Compensation%20of%20Members%20of%20Congress.md) | Compensation of Members of Congress. |
 | 31–1. | Repealed. |
 | 31–2. | Gifts and travel. |
-| (a) | Gifts. |
-| (b) | Limits on domestic and foreign travel by Members and staff of Senate. |
 | [31a.](%C2%A7%2000031a%20-%20Repealed.%20Mar.%202%2C%201955%2C%20ch.%209%2C%20%C2%A74%28b%29%2C%2069%20Stat.%2011%2C%20eff.%20Mar.%201%2C%201955.md) | Repealed. |
 | 31a–1. | Expense allowance of Majority and Minority Leaders of Senate; expense allowance of Majority and Minority Whips; methods of payment; taxability. |
 | 31a–2. | Representation Allowance Account for Majority and Minority Leaders of Senate. |
-| (a) | Establishment; purpose. |
-| (b) | Payments; allotment; reimbursement for actual expenses; taxability. |
-| (c) | Authorization of appropriations. |
 | 31a–2a. | Transfer of funds from representation allowance of Majority and Minority Leaders of Senate to expense allowance; availability; definitions. |
 | 31a–2b. | Transfer of funds from appropriations account of Majority and Minority Leaders of Senate to appropriations account, Miscellaneous Items, within Senate contingent fund. |
-| (a) | Requests for transfers. |
-| (b) | Authority to incur expenses. |
-| (c) | Authority to advance sums. |
 | 31a–2c. | Transfer of funds from appropriations account of Majority and Minority Whips of Senate to appropriations account, Miscellaneous Items, within Senate contingent fund. |
-| (a) | Requests for transfers. |
-| (b) | Authority to incur expenses. |
-| (c) | Authority to advance sums. |
 | 31a–2d. | Transfer of funds from appropriations account of the Office of the Vice President and the Offices of the Secretaries for the Majority and Minority to the Senate contingent fund. |
-| (a) | Office of the Vice President. |
-| (b) | Offices of the Secretaries for the Majority and Minority. |
-| (c) | Effective date. |
 | 31a–3. | Expense allowance for Chairmen of Majority and Minority Conference Committees of Senate; method of payment; taxability. |
 | 31a–4. | Expense allowance for Chairmen of Majority and Minority Policy Committees of Senate; method of payment; taxability. |
 | [31b.](%C2%A7%2000031b%20-%20Expense%20allowance%20of%20Speaker%20of%20House%20of%20Representatives.md) | Expense allowance of Speaker of House of Representatives. |
@@ -57,16 +43,9 @@
 | [42a.](%C2%A7%2000042a%20-%20Special%20delivery%20postage%20allowance%20for%20President%20of%20Senate.md) | Special delivery postage allowance for President of Senate. |
 | 42a–1 to 43b–1. Repealed or Omitted. |  |
 | 43b–2. | Staff expenses for House Members attending organizational caucus or conference. |
-| (a) | In general. |
-| (b) | Per diem expenses of staff person. |
-| (c) | Orientation programs for new Members. |
 | 43b–3. | Payments and reimbursements for certain House staff expenses. |
 | [43c.](%C2%A7%2000043c%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93147%2C%20%C2%A74%2C%20Aug.%2028%2C%201965%2C%2079%20Stat.%20584.md) | Repealed. |
 | [43d.](%C2%A7%2000043d%20-%20Organizational%20expenses%20of%20Senator-elect.md) | Organizational expenses of Senator-elect. |
-| (a) | Appointment of employees by Secretary of Senate to assist; termination of employment. |
-| (b) | Payment of salaries of appointed employees; funding; maximum amount. |
-| (c) | Payment of transportation and per diem expenses of Senator-elect and appointed employees for one round trip from home State to Washington, D.C. for business of impending Congress; funding; maximum amount. |
-| (d) | Payment of telegrams, telephone services, and stationery expenses. |
 | 44 to 46. | Omitted. |
 | [46a.](%C2%A7%2000046a%20-%20Stationery%20allowance%20for%20President%20of%20Senate.md) | Stationery allowance for President of Senate. |
 | 46a–1. | Senate revolving fund for stationery allowances; availability of unexpended balances; withdrawals. |
@@ -82,90 +61,31 @@
 | [51\.](%C2%A7%2000051%20-%20Monuments%20to%20deceased%20Senators%20or%20House%20Members.md) | Monuments to deceased Senators or House Members. |
 | 52, 53. | Repealed. |
 | [54\.](%C2%A7%2000054%20-%20Annotated%20United%20States%20Code%20for%20Members%20of%20House%20of%20Representatives%20to%20be%20paid%20for%20from%20Members%E2%80%99%20Representational%20Allowance.md) | Annotated United States Code for Members of House of Representatives to be paid for from Members’ Representational Allowance. |
-| (a) | In general. |
-| (b) | “Member of the House of Representatives” defined. |
-| (c) | Regulations. |
 | [55\.](%C2%A7%2000055%20-%20United%20States%20Code%20Annotated%20or%20United%20States%20Code%20Service%3B%20procurement%20for%20Senators.md) | United States Code Annotated or United States Code Service; procurement for Senators. |
 | [56\.](%C2%A7%2000056%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7203%2820%29%28A%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201728.md) | Repealed. |
 | [57\.](%C2%A7%2000057%20-%20Adjustment%20of%20House%20of%20Representatives%20allowances%20by%20Committee%20on%20House%20Oversight.md) | Adjustment of House of Representatives allowances by Committee on House Oversight. |
-| (a) | In general. |
-| (b) | Provision specified. |
-| (c) | “Member of the House of Representatives” defined. |
 | [57a.](%C2%A7%2000057a%20-%20Limitation%20on%20allowance%20authority%20of%20Committee%20on%20House%20Oversight.md) | Limitation on allowance authority of Committee on House Oversight. |
-| (a) | In general. |
-| (b) | Resolution requirement. |
-| (c) | Provision specified. |
 | [57b.](%C2%A7%2000057b%20-%20Representational%20allowance%20for%20Members%20of%20House%20of%20Representatives.md) | Representational allowance for Members of House of Representatives. |
-| (a) | In general. |
-| (b) | Merger. |
-| (c) | “Member of the House of Representatives” defined. |
-| (d) | Regulations. |
-| (e) | Effective Date. |
 | [58\.](%C2%A7%2000058%20-%20Mail%2C%20telegraph%2C%20telephone%2C%20stationery%2C%20office%20supplies%2C%20and%20home%20State%20office%20and%20travel%20expenses%20for%20Senators.md) | Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators. |
-| (a) | Authorization for payment from Senate contingent fund. |
-| (b) | Limits for authorized expenses; recalculation formula. |
-| (c), | (d) Repealed. |
-| (e) | Transportation, essential travel-related expenses, and per diem expenses; coverage; limitations; amounts. |
-| (f) | Omitted. |
-| (g) | Closing of deceased Senator's State offices. |
-| (h) | Individuals serving on panels or other bodies recommending nominees for Federal judgeships, service academies, United States Attorneys, or United States Marshals. |
-| (i) | Authorization of Secretary of Senate to pay reimbursable expenses. |
-| (j) | Advances from Senate contingent fund for travel expenses for official business trips; vouchers; settlement. |
 | [58a.](%C2%A7%2000058a%20-%20Telecommunications%20services%20for%20Senators%3B%20payment%20of%20costs%20out%20of%20contingent%20fund.md) | Telecommunications services for Senators; payment of costs out of contingent fund. |
 | 58a–1. | Payment for telecommunications equipment and services; definitions. |
 | 58a–2. | Certification of telecommunications equipment and services as official. |
-| (a) | Regulations issued by Committee on Rules and Administration. |
-| (b) | Equipment and services provided on reimbursable basis. |
-| (c) | Establishment of reasonable charges. |
-| (d) | Disposition of moneys received. |
-| (e) | Committee authority to classify or reclassify equipment and services. |
 | 58a–3. | Report on telecommunications to Committee on Rules and Administration. |
 | 58a–4. | Metered charges on copiers; “Sergeant at Arms” and “user” defined; certification of services and equipment as official; deposit of payments; availability for expenditure. |
 | [58b.](%C2%A7%2000058b%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93137%2C%20%C2%A72%2C%20Oct.%2021%2C%201987%2C%20101%20Stat.%20819.md) | Repealed. |
 | [58c.](%C2%A7%2000058c%20-%20Senators%E2%80%99%20Official%20Personnel%20and%20Office%20Expense%20Account.md) | Senators’ Official Personnel and Office Expense Account. |
 | 58c–1. | Repealed. |
 | [59\.](%C2%A7%2000059%20-%20Home%20State%20office%20space%20for%20Senators%3B%20lease%20of%20office%20space.md) | Home State office space for Senators; lease of office space. |
-| (a) | Procurement by Sergeant at Arms of Senate in places designated by Senator; places subject to use; lease of office space. |
-| (b) | Maximum amount of aggregate square feet for each Senator. |
-| (c) | Maximum annual rental rate; maximum aggregate amount for acquisition of furniture, equipment, and other office furnishings. |
-| (d) | Senators subject to maximum amount of aggregate square feet and maximum annual rental rate. |
-| (e) | Omitted. |
-| (f) | Mobile office. |
-| (g) | Effective date. |
 | 59–1. | Additional home State office space for Senators; declaration of disaster or emergency. |
 | [59a.](%C2%A7%2000059a%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93163%2C%20title%20I%2C%20%C2%A7103%28b%29%2C%20Nov.%2021%2C%201989%2C%20103%20Stat.%201050.md) | Repealed. |
 | [59b.](%C2%A7%2000059b%20-%20Purchase%20of%20office%20equipment%20or%20furnishings%20by%20Senators.md) | Purchase of office equipment or furnishings by Senators. |
-| (a) | Authorization; conditions. |
-| (b) | Request by Senator and arrangement for purchase by Sergeant at Arms of Senate; regulations governing purchase; price. |
-| (c) | Remittance of amounts received to General Services Administration; disposition. |
 | [59c.](%C2%A7%2000059c%20-%20Transferred.md) | Transferred. |
 | [59d.](%C2%A7%2000059d%20-%20Transportation%20of%20official%20records%20and%20papers%20to%20House%20Member%27s%20district.md) | Transportation of official records and papers to House Members’ district. |
-| (a) | Payment of reasonable expenses from applicable accounts of House; rules and regulations. |
-| (b) | “Member of the House of Representatives” and “official records and papers” defined. |
 | 59d–1. | Transportation of official records and papers to a Senator's State. |
-| (a) | Payment of reasonable transportation expenses. |
-| (b) | Sending and transportation. |
-| (c) | Oversight. |
-| (d) | Official records defined. |
-| (e) | Effective date. |
 | [59e.](%C2%A7%2000059e%20-%20Official%20mail%20of%20persons%20entitled%20to%20use%20congressional%20frank.md) | Official mail of persons entitled to use congressional frank. |
-| (a) | Congressional committee regulations for expenditure of appropriations for official mail. |
-| (b) | Postmaster General functions. |
-| (c) | Source of funds for expenses of official mail. |
-| (d) | Maintenance or use of unofficial office accounts or defrayal of official expenses from certain funds prohibited. |
-| (e) | Official Mail Allowance in House of Representatives. |
-| (f) | Mass mailing; submission of samples or description of proposed mail matter; advisory opinion. |
-| (g) | “Member of the House of Representatives” and “person entitled to use the congressional frank” defined. |
-| (h) | Omitted. |
-| (i) | Effective date. |
 | [59f.](%C2%A7%2000059f%20-%20Mass%20mailings%20by%20Senate%20offices%3B%20quarterly%20statements%3B%20publication%20of%20summary%20tabulations.md) | Mass mailings by Senate offices; quarterly statements; publication of summary tabulations. |
 | [59g.](%C2%A7%2000059g%20-%20Mass%20mailing%20of%20information%20by%20Senators%20under%20frank%3B%20quarterly%20registration%20with%20Secretary%20of%20Senate.md) | Mass mailing of information by Senators under frank; quarterly registration with Secretary of Senate. |
 | [59h.](%C2%A7%2000059h%20-%20Mass%20mailing%20sent%20by%20House%20Members.md) | Mass mailing sent by House Members. |
-| (a) | Notice that mailing is at taxpayer expense. |
-| (b) | Publication of each Member's total expense and amount. |
-| (c) | Regulations. |
-| (d) | Definitions. |
-| (e) | Applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) A civilian chairman appointed by the Secretary of Defense.
 
-&emsp;(2) The Assistant Secretary of the Army for Manpower and Reserve Affairs, the Assistant Secretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs.
+&emsp;(2) The Assistant Secretary of the Army for Manpower and Reserve Affairs, the AssistantSecretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs.
 
 &emsp;(3) An officer of the Regular Army designated by the Secretary of the Army.
 

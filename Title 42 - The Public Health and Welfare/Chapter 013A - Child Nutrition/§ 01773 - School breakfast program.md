@@ -10,7 +10,7 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 &emsp;(I) the number of breakfasts served during such fiscal year to children in schools in such States which participate in the school breakfast program under agreements with such State educational agency; by
 
-&emsp;(II) the national average breakfast payment for free breakfasts, for reduced price breakfasts, or for breakfasts served to children not eligible for free or reduced price meals, as appropriate, as prescribed in clause (B) of this paragraph.
+&emsp;(II) the national average breakfast payment for free breakfasts, for reduced price breakfasts, or for breakfasts served to children noteligible for free or reduced price meals, as appropriate, as prescribed in clause (B) of this paragraph.
 
 (ii) The agreements described in clause (i)(I) shall be permanent agreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.
 
@@ -42,7 +42,7 @@ Free and reduced price policy statement.—After the initial submission, a local
 
 #### (c) Disbursement of apportioned funds by State; preference for schools in poor economic areas, for students traveling long distances daily, and for schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families
 
-Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d) of this section. Disbursement to schools shall be made at suchrates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
+Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d) of this section. Disbursement to schools shall be made at such rates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
 
 #### (d) Severe need assistance
 
@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 108–265, §201, added subsec. (d) and struck out former s
 
 Subsec. (b)(1)(B). Pub. L. 105–336, §103(b)(2)(A), struck out “adjusted to the nearest one-fourth cent,” after “payment for each free breakfast,” in second sentence.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 105–336, §103(b)(2)(B), substituted “(as adjusted pursuant to section 1759a(a)(3)(B) of this title).” for “, which shall be adjusted on an annual basis each July 1 to the nearest one-fourth cent in accordance with changes in the series for food away from home of the Consumer Price Index published bythe Bureau of Labor Statistics of the Department of Labor for the most recent twelve-month period for which such data are available, except that the initial such adjustment shall be made on January 1, 1978, and shall reflect the change in the series of food away from home during the period November 1, 1976, to October 31, 1977.”
+Subsec. (b)(2)(B)(ii). Pub. L. 105–336, §103(b)(2)(B), substituted “(as adjusted pursuant to section 1759a(a)(3)(B) of this title).” for “, which shall be adjusted on an annual basis each July 1 to the nearest one-fourth cent in accordance with changes in the series for food away from home of the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor for the most recent twelve-month period for which such data are available, except that the initial such adjustment shall be made on January 1, 1978, and shall reflect the change in the series of food away from home during the period November 1, 1976, to October 31, 1977.”
 
 1996—Subsec. (b)(1)(E). Pub. L. 104–193, §722, added subpar. (E).
 
@@ -224,37 +224,7 @@ For transfer to Secretary of Education of functions of Secretary of Defense and 
 
 #### Review of Best Practices in the Breakfast Program
 
-Pub. L. 108–265, title II, §206, June 30, 2004, 118 Stat. 787, provided that:
-
-“(a)
-
-Review.—
-
-&emsp;“(1)
-
-In general.—Subject to the availability of funds under subsection (c), the Secretary of Agriculture shall enter into an agreement with a research organization to collect and disseminate a review of best practices to assist school food authorities in addressing existing impediments at the State and local level that hinder the growth of the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
-
-&emsp;“(2)
-
-Recommendations.—The review shall describe model breakfast programs and offer recommendations for schools to overcome obstacles, including—
-
-&emsp;&emsp;“(A) the length of the school day;
-
-&emsp;&emsp;“(B) bus schedules; and
-
-&emsp;&emsp;“(C) potential increases in costs at the State and local level.
-
-“(b)
-
-Dissemination.—Not later than 1 year after the date of enactment of this Act \[June 30, 2004\], the Secretary shall—
-
-&emsp;“(1) make the review required under subsection (a) available to school food authorities via the Internet, including recommendations to improve participation in the school breakfast program; and
-
-&emsp;“(2) transmit to \[the\] Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the review.
-
-“(c)
-
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section.”
+Pub. L. 108–265, title II, §206, June 30, 2004, 118 Stat. 787, directed the Secretary of Agriculture to enter into an agreement with a research organization to collect and disseminate a review of best practices to assist school food authorities in addressing existing impediments at the State and local level that hinder the growth of the school breakfast program and, not later than 1 year after June 30, 2004, to make the review available to school food authorities via the Internet and to transmit it to congressional committees.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 
@@ -270,7 +240,7 @@ Pub. L. 96–499, title II, §210, Dec. 5, 1980, 94 Stat. 2602, provided that: �
 
 #### Alternate Foods
 
-Pub. L. 95–627, §6(d), Nov. 10, 1998, 93 Stat. 3621, provided that: “The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the report on this subject of the General Accounting Office \[now Government Accountability Office\]. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, and such rule shall not take effect until sixty days after such notification.”
+Pub. L. 95–627, §6(d), Nov. 10, 1998, 93 Stat. 3621, provided that: “The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the report on this subject of the General Accounting Office \[now Government Accountability Office\]. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, andsuch rule shall not take effect until sixty days after such notification.”
 
 #### Report to Congress of Needs for Additional Funds for School Breakfast and Nonfood Assistance Programs, Fiscal Year Ending June 30, 1972
 

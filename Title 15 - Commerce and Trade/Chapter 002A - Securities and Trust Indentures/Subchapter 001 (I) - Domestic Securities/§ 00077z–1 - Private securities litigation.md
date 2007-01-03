@@ -42,7 +42,7 @@
 
 #### (ii) Multiple actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this subchapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this subchapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
 
 #### (iii) Additional notices may be required under Federal rules
 
@@ -92,7 +92,7 @@
 
 #### (4) Recovery by plaintiffs
 
-&emsp;The share of any final judgment or of any settlement that is awarded to a representative party serving on behalf of a class shall be equal, on a per share basis, to the portion of the final judgment or settlement awarded to all other members of the class. Nothing in this paragraph shall be construed to limit the award of reasonable costs and expenses (including lost wages) directly relating to the representation of the class to any representative party serving on behalf of the class.
+&emsp;The share of any final judgment or of any settlement that is awarded to a representativeparty serving on behalf of a class shall be equal, on a per share basis, to the portion of the final judgment or settlement awarded to all other members of the class. Nothing in this paragraph shall be construed to limit the award of reasonable costs and expenses (including lost wages) directly relating to the representation of the class to any representative party serving on behalf of the class.
 
 #### (5) Restrictions on settlements under seal
 
@@ -160,7 +160,7 @@
 
 #### (4) Circumvention of stay of discovery
 
-&emsp;Upon a proper showing, a court may stay discovery proceedings in any private action in a State court as necessary in aid of its jurisdiction, or to protect or effectuate its judgments, in an action subject to a stay of discovery pursuant to this subsection.
+&emsp;Upon a proper showing, a court may stay discovery proceedings in any private action ina State court as necessary in aid of its jurisdiction, or to protect or effectuate its judgments, in an action subject to a stay of discovery pursuant to this subsection.
 
 #### (c) Sanctions for abusive litigation
 
@@ -176,7 +176,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shalladopt a presumption that the appropriate sanction—
+&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shall adopt a presumption that the appropriate sanction—
 
 &emsp;&emsp;&emsp;(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred as a direct result of the violation; and
 

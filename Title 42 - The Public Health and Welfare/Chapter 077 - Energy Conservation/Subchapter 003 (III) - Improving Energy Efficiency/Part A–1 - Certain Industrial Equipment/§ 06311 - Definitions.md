@@ -36,7 +36,7 @@ For purposes of this part—
 
 > &emsp;without regard to whether such article is in fact distributed in commerce for industrial or commercial use.
 
-&emsp;(B) The types of equipment referred to in this subparagraph (in addition to electric motors and pumps, commercial package air conditioning and heating equipment, commercialrefrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks) are as follows:
+&emsp;(B) The types of equipment referred to in this subparagraph (in addition to electric motors and pumps, commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks) are as follows:
 
 &emsp;&emsp;(i) compressors;
 
@@ -106,7 +106,7 @@ For purposes of this part—
 
 &emsp;(B) The term “holding temperature application” means a use of commercial refrigeration equipment other than a pull-down temperature application, except a blast chiller or freezer.
 
-&emsp;(C) The term “integrated average temperature” means the average temperature of all test package measurements taken during the test.
+&emsp;(C) The term “integrated average temperature” means the average temperature of alltest package measurements taken during the test.
 
 &emsp;(D) The term “pull-down temperature application” means a commercial refrigerator with doors that, when fully loaded with 12 ounce beverage cans at 90 degrees F, can cool those beverages to an average stable temperature of 38 degrees F in 12 hours or less.
 
@@ -192,7 +192,7 @@ Pars. (8), (9). Pub. L. 109–58, §136(a)(3), added pars. (8) and (9) and struc
 
 “(8) The term ‘small commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
 
-“(9) The term ‘large commercial package air conditioning and heating equipment’ means air-cooled,water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).”
+“(9) The term ‘large commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).”
 
 Pars. (19) to (21). Pub. L. 109–58, §136(a)(4), added pars. (19) to (21).
 

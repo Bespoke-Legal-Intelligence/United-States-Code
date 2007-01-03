@@ -14,7 +14,7 @@ The Commission may not grant any exemption under subsection (a) of this section 
 
 #### (c) Consultation with Federal and State agencies
 
-In making the determination under subsection (a) of this section the Commission shall consultwith the United States Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
+In making the determination under subsection (a) of this section the Commission shall consult with the United States Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
 
 &emsp;(1) such terms and conditions as the Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 

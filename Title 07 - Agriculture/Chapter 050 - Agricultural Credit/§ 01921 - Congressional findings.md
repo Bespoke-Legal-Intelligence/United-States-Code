@@ -14,7 +14,7 @@ Section is comprised of subsec. (b) of section 301 of Pub. L. 87–128. Subsec. 
 
 #### Effective Date
 
-Former section 300.1 of Title 6, Code of Federal Regulations, promulgated on Oct. 15, 1961, by the Administrator of the Farmers Home Administration, published in 26 F.R. 10031, provided: “The Consolidated Farmers Home Administration Act of 1961 (7 U.S.C. 1921) \[this chapter\], is hereby made effective on October 15, 1961, except (a) as to its authorizations to make and sell insured loans with 41/2 percent yield to the lender and a three-year repurchase agreement which was made effective by regulations issued on September 13, 1961 (26 F.R. 9307), pursuant to assignment of functions contained in 26 F.R. 7888, and (b) that the provisions of Title IV of the Bankhead-Jones Farm Tenant Act which requires mineral reservations in lands disposed of under Title III of that Act \[sections 1010 to 1012 and 1013a of this title\] shall not become effective until December 7, 1961.” See section 341(a) of Pub. L. 87–128, set out as a note under this section.
+Former section 300.1 of Title 6, Code of Federal Regulations, promulgated on Oct. 15, 1961, by the Administrator of the Farmers Home Administration, published in 26 F.R. 10031, provided: “The Consolidated FarmersHome Administration Act of 1961 (7 U.S.C. 1921) \[this chapter\], is hereby made effective on October 15, 1961, except (a) as to its authorizations to make and sell insured loans with 41/2 percent yield to the lender and a three-year repurchase agreement which was made effective by regulations issued on September 13, 1961 (26 F.R. 9307), pursuant to assignment of functions contained in 26 F.R. 7888, and (b) that the provisions of Title IV of the Bankhead-Jones Farm Tenant Act which requires mineral reservations in lands disposed of under Title III of that Act \[sections 1010 to 1012 and 1013a of this title\] shall not become effective until December 7, 1961.” See section 341(a) of Pub. L. 87–128, set out as a note under this section.
 
 #### Short Title of 2000 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: “That this Act \[
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–419 provided: “That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992,2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590<i>o</i>, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the ‘Rural Development Act of 1972’.”
+Section 1 of Pub. L. 92–419 provided: “That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590<i>o</i>, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the ‘Rural Development Act of 1972’.”
 
 #### Short Title
 

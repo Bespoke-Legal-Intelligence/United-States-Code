@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availabilityof primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
 
 #### (2) Loan repayment programs
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254<i>l</i>–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b) of this section; and
 
-&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254<i>l</i> of this title.
+&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under thecontract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254<i>l</i> of this title.
 
 #### (d) Restrictions on use of funds
 
@@ -104,7 +104,29 @@ For purposes of this section, the term “State” means each of the several Sta
 
 &emsp;Amounts appropriated under paragraph (1) shall remain available until expended.
 
-(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653.)
+#### (j) Public health loan repayment
+
+#### (1) In general
+
+&emsp;The Secretary may award grants to States for the purpose of assisting such States in operating loan repayment programs under which such States enter into contracts to repay all or part of the eligible loans borrowed by, or on behalf of, individuals who agree to serve in State, local, or tribal health departments that serve health professional shortage areas or other areas at risk of a public health emergency, as designated by the Secretary.
+
+#### (2) Loans eligible for repayment
+
+&emsp;To be eligible for repayment under this subsection, a loan shall be a loan made, insured, or guaranteed by the Federal Government that is borrowed by, or on behalf of, an individual to pay the cost of attendance for a program of education leading to a degree appropriate for serving in a State, local, or tribal health department as determined by the Secretary and the chief executive officer of the State in which the grant is administered, at an institution of higher education (as defined in section 1002 of title 20), including principal, interest, and related expenses on such loan.
+
+#### (3) Applicability of existing requirements
+
+&emsp;With respect to awards made under paragraph (1)—
+
+&emsp;&emsp;(A) the requirements of subsections (b), (f), and (g) shall apply to such awards; and
+
+&emsp;&emsp;(B) the requirements of subsection (c) shall apply to such awards except that with respect to paragraph (1) of such subsection, the State involved may assign an individual only to public and nonprofit private entities that serve health professional shortage areas or areas at risk of a public health emergency, as determined by the Secretary.
+
+#### (4) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2007 through 2010.
+
+(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849.)
 
 #### References in Text
 
@@ -115,6 +137,8 @@ Section 254c of this title, referred to in subsec. (d)(1)(A), was in the origina
 A prior section 338I of act July 1, 1944, was classified to section 254r of this title prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
 
 #### Amendments
+
+2006—Subsec. (j). Pub. L. 109–417 added subsec. (j).
 
 2002—Subsec. (a)(1). Pub. L. 107–251, §315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
 

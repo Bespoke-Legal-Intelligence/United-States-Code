@@ -2,25 +2,29 @@
 
 As used in this subchapter, the term—
 
-&emsp;(1) “financial assistance” includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
+&emsp;(1) “average” means the aggregate number of hours of instruction through the use of a Native American language to all students enrolled in a native language immersion program during a school year divided by the total number of students enrolled in the immersion program;
 
-&emsp;(2) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
+&emsp;(2) “financial assistance” includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
 
-&emsp;(3) “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
+&emsp;(3) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and communityunder the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
 
-&emsp;(4) the term “rule” has the meaning given it in section 551(4) of title 5, as amended from time to time;
+&emsp;(4) “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
 
-&emsp;(5) “Secretary” means the Secretary of Health and Human Services; and
+&emsp;(5) the term “rule” has the meaning given it in section 551(4) of title 5, as amended from time to time;
 
-&emsp;(6) the term “Native American Pacific Islander” means an individual who is indigenous to a United States territory or possession located in the Pacific Ocean, and includes such individual while residing in the United States.
+&emsp;(6) “Secretary” means the Secretary of Health and Human Services; and
 
-(Pub. L. 88–452, title VIII, §815, formerly §813, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 98–558, title X, §1004, Oct. 30, 1984, 98 Stat. 2906; renumbered §815 and amended Pub. L. 100–175, title V, §§502(2), 503(b), Nov. 29, 1987, 101 Stat. 973, 975; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 102–497, §9(b), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992.)
+&emsp;(7) the term “Native American Pacific Islander” means an individual who is indigenous to a United States territory or possession located in the Pacific Ocean, and includes such individual while residing in the United States.
+
+(Pub. L. 88–452, title VIII, §815, formerly §813, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 98–558, title X, §1004, Oct. 30, 1984, 98 Stat. 2906; renumbered §815 and amended Pub. L. 100–175, title V, §§502(2), 503(b), Nov. 29, 1987, 101 Stat. 973, 975; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 102–497, §9(b), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 109–394, §3, Dec. 14, 2006, 120 Stat. 2707.)
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688,as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
+
+2006—Pub. L. 109–394 added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
 
 1993—Par. (2). Pub. L. 103–171, §5(6)(A), substituted “selected by Alaska Natives” for “selected by Alaskan Natives”.
 

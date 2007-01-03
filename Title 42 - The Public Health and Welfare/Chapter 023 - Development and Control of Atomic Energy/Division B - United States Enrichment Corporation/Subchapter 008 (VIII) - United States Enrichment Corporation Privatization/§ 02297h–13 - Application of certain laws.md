@@ -22,8 +22,6 @@ For purposes of the antitrust laws, the performance by the private corporation o
 
 The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(1), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The antitrust laws, referred to in subsec. (b), are classified generally to section 1 et seq. of Title 15, Commerce and Trade.
-
 #### Codification
 
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.

@@ -13,6 +13,7 @@
 - [&sect; 40726 - Allowances for junior competitors](%C2%A7%2040726%20-%20Allowances%20for%20junior%20competitors.md)
 - [&sect; 40727 - Army support](%C2%A7%2040727%20-%20Army%20support.md)
 - [&sect; 40728 - Transfer of firearms, ammunition, and parts](%C2%A7%2040728%20-%20Transfer%20of%20firearms%2C%20ammunition%2C%20and%20parts.md)
+- [&sect; 40728A - Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation](%C2%A7%2040728A%20-%20Recovery%20of%20excess%20firearms%2C%20ammunition%2C%20and%20parts%20granted%20to%20foreign%20countries%20and%20transfer%20to%20corporation.md)
 - [&sect; 40729 - Reservation of firearms, ammunition, and parts](%C2%A7%2040729%20-%20Reservation%20of%20firearms%2C%20ammunition%2C%20and%20parts.md)
 - [&sect; 40730 - Surplus property](%C2%A7%2040730%20-%20Surplus%20property.md)
 - [&sect; 40731 - Issuance or loan of firearms and supplies](%C2%A7%2040731%20-%20Issuance%20or%20loan%20of%20firearms%20and%20supplies.md)

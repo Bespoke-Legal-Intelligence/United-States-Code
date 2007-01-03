@@ -110,7 +110,7 @@ The program under this section for providing assistance for eligible activities 
 
 &emsp;&emsp;&emsp;(i) contain one or more severe repetitive loss properties; and
 
-&emsp;&emsp;&emsp;(ii) are located in States that receive little or no assistance, as determined by the Director, under the allocation formula under subparagraph (A).
+&emsp;&emsp;&emsp;(ii) are located in States that receive little or no assistance, as determined by theDirector, under the allocation formula under subparagraph (A).
 
 #### (6) Notice
 
@@ -176,7 +176,7 @@ A State or community may take action under subsection (c)(2) of this section to 
 
 &emsp;&emsp;&emsp;(i) As a result of such action, the owner of the property will not be able to purchase a replacement primary residence of comparable value and that is functionally equivalent.
 
-&emsp;&emsp;&emsp;(ii) Based on independent information, such as contractor estimates or appraisals, the property owner believes that the price offered for purchasing the property is not an accurate estimation of the value of the property, or the amount of Federal funds offered for mitigation activities, when combined with funds from non-Federal sources, will not cover the actual cost of mitigation.
+&emsp;&emsp;&emsp;(ii) Based on independent information, such as contractor estimates or appraisals,the property owner believes that the price offered for purchasing the property is not an accurate estimation of the value of the property, or the amount of Federal funds offered for mitigation activities, when combined with funds from non-Federal sources, will not cover the actual cost of mitigation.
 
 &emsp;&emsp;&emsp;(iii) As a result of such action, the preservation or maintenance of any prehistoric or historic district, site, building, structure, or object included in, or eligible for inclusion in, the National Register of Historic Places will be interfered with, impaired, or disrupted.
 
@@ -260,9 +260,17 @@ The Director may not provide assistance under this section to any State or commu
 
 (Pub. L. 90–448, title XIII, §1361A, as added Pub. L. 108–264, title I, §102(a), June 30, 2004, 118 Stat. 714.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
 #### Codification
 
 June 30, 2004, referred to in subsec. (j)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–264, which enacted this section, to reflect the probable intent of Congress.
+
+#### Transfer of Functions
+
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> So in original. Word “exist” probably should not appear.</i>
 

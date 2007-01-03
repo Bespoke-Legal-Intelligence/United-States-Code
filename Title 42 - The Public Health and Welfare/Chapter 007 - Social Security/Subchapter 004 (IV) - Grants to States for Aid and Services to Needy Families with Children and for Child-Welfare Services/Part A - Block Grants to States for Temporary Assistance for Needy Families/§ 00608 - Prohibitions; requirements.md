@@ -266,7 +266,7 @@ The following provisions of law shall apply to any program or activity which rec
 
 #### (e) Special rules relating to treatment of certain aliens
 
-For special rules relating to the treatment of certain aliens, see title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.
+For special rules relating to the treatment of certain aliens, see title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\].
 
 #### (f) Special rules relating to treatment of non-213A aliens
 
@@ -340,13 +340,21 @@ The following rules shall apply if a State elects to take the income or resource
 
 Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642.)
+(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141.)
+
+#### Amendment of Subsection (a)(3)
+
+<i>Pub. L. 109–171, title VII, §7301(a), (e), Feb. 8, 2006, 120 Stat. 141, 144, provided that, effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter, for calendar quarters beginning on or after such date, subject to certain State options, subsection (a)(3) of this section is amended to read as follows:</i>
+
+#### <i>(3) No assistance for families not assigning certain support rights to the State</i>
+
+&emsp;<i>A State to which a grant is made under section 603 of this title shall require, as a condition of paying assistance to a family under the State program funded under this part, that a member of the family assign to the State any right the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so paid to the family, which accrues during the period that the family receives assistance under the program.</i>
 
 #### References in Text
 
 Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For completeclassification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effective Date note set out below.
 
@@ -356,11 +364,11 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is P
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is title IV (§400 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260. For complete classification of title IV to the Code, see Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 19, 1989, Pub. L. 101–239, title VIII,§8004(a), 103 Stat. 2454; amended Oct. 31, 1994, Pub. L. 103–432, title II, §265(a), 108 Stat. 4469, related to AFDC quality control system, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(a), 103 Stat. 2454; amended Oct. 31, 1994, Pub. L. 103–432, title II, §265(a), 108 Stat. 4469, related to AFDC quality control system, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
 
@@ -403,6 +411,18 @@ Pub. L. 105–33, §5001(h)(1)(A), redesignated subsec. (d) as (e).
 Subsec. (f). Pub. B. 105–33, §5505(e), added subsec. (f).
 
 Subsec. (g). Pub. L. 105–33, §5581(a), added subsec. (g).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VII, §7301(e), Feb. 8, 2006, 120 Stat. 144, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
+
+“(2)
+
+State option to accelerate effective date.—Notwithstanding paragraph (1), a State may elect to have the amendments made by the preceding provisions of this section apply to the State and to amounts collected by the State (and the payments under parts A and D), on and after such date as the State may select that is not earlier than October 1, 2008, and not later than September 30, 2009.”
 
 #### Effective Date of 1997 Amendment
 

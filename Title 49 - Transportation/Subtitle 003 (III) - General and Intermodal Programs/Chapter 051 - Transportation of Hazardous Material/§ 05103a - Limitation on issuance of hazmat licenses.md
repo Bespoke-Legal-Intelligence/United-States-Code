@@ -6,7 +6,7 @@ Limitation.—
 
 &emsp;(1)
 
-Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
+Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary hasfirst determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
 
 &emsp;(2)
 
@@ -102,7 +102,7 @@ Appeals process for more stringent state procedures.—If a State establishes it
 
 &emsp;(3)
 
-Clarification of term defined in regulations.—The term “transportation security incident”, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
+Clarification of term defined in regulations.—The term “transportation securityincident”, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
 
 &emsp;(4)
 

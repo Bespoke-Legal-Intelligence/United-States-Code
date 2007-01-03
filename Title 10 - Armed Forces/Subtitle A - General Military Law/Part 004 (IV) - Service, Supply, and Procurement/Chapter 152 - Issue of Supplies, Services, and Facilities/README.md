@@ -18,6 +18,7 @@
 | [2564\.](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md) | Provision of support for certain sporting events. |
 | [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
+| [2567\.](%C2%A7%2002567%20-%20Supplies%2C%20services%2C%20and%20equipment%20provision%20in%20major%20public%20emergencies.md) | Supplies, services, and equipment: provision in major public emergencies <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,6 +27,8 @@
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title X, §1076(b)(2), Oct. 17, 2006, 120 Stat. 2406, added item 2567.
 
 2002—Pub. L. 107–314, div. A, title X, §1066(b), Dec. 2, 2002, 116 Stat. 2656, added item 2566.
 
@@ -61,6 +64,8 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 
 1958—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -82,3 +87,4 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02564 - Provision of support for certain sporting events](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md)
 - [&sect; 02565 - Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)
 - [&sect; 02566 - Space and services provision to military welfare societies](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md)
+- [&sect; 02567 - Supplies, services, and equipment provision in major public emergencies](%C2%A7%2002567%20-%20Supplies%2C%20services%2C%20and%20equipment%20provision%20in%20major%20public%20emergencies.md)

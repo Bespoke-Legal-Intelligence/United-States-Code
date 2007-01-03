@@ -10,7 +10,7 @@ The proceeds of any lease under subsection (a) of this section may, notwithstand
 
 #### (c) Contracts for management of historic property
 
-The head of any Federal agency having responsibility for the management of any historicproperty may, after consultation with the Advisory Council on Historic Preservation, enter into contracts for the management of such property. Any such contract shall contain such terms and conditions as the head of such agency deems necessary or appropriate to protect the interests of the United States and insure adequate preservation of the historic property.
+The head of any Federal agency having responsibility for the management of any historic property may, after consultation with the Advisory Council on Historic Preservation, enter into contracts for the management of such property. Any such contract shall contain such terms and conditions as the head of such agency deems necessary or appropriate to protect the interests of the United States and insure adequate preservation of the historic property.
 
 (Pub. L. 89–665, title I, §111, as added Pub. L. 96–515, title II, §207, Dec. 12, 1980, 94 Stat. 2997; amended Pub. L. 102–575, title XL, §4013, Oct. 30, 1992, 106 Stat. 4761.)
 
@@ -20,5 +20,5 @@ The head of any Federal agency having responsibility for the management of any h
 
 #### Historic Lease Process Simplification
 
-Pub. L. 105–391, title VIII, §802(b), Nov. 13, 1998, 112 Stat. 3523, provided that: “The Secretary is directed to simplify, to the maximum extent possible, the leasing process for historic properties with the goal of leasing available structures in a timely manner.”
+Pub. L. 105–391, title VIII, §802(b), Nov. 13, 1998, 112 Stat. 3523, provided that: “The Secretary is directed tosimplify, to the maximum extent possible, the leasing process for historic properties with the goal of leasing available structures in a timely manner.”
 

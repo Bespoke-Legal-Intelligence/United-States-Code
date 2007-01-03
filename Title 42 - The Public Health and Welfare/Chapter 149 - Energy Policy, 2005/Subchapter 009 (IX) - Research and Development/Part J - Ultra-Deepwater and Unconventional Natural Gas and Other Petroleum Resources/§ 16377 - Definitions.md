@@ -26,7 +26,7 @@ In this part:
 
 #### (5) Program research funds
 
-&emsp;The term “program research funds” means funds awarded to research performers by the program consortium consistent with the annual plan.
+&emsp;The term “program research funds” means funds awarded to research performers by theprogram consortium consistent with the annual plan.
 
 #### (6) Remote or inconsequential
 

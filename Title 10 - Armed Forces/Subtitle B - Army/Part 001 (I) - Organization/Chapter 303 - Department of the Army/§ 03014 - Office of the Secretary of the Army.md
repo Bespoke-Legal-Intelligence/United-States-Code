@@ -50,7 +50,7 @@
 
 (3) The Secretary shall establish or designate a single office or other entity within the Office of the Secretary of the Army to conduct the function specified in paragraph (1).
 
-(4) The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Army and to the Army Staff andshall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
+(4) The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Army and to the Army Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 
 (e) The Secretary of the Army shall ensure that the Office of the Secretary of the Army and the Army Staff do not duplicate specific functions for which the Secretary has assigned responsibility to the other.
 

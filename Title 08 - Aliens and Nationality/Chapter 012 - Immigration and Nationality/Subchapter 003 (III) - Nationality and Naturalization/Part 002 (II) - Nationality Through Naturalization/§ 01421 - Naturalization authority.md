@@ -78,7 +78,7 @@ A person whose application for naturalization under this subchapter is denied, a
 
 #### (d) Sole procedure
 
-A person may only be naturalized as a citizen of the United States in the manner and underthe conditions prescribed in this subchapter and not otherwise.
+A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
 
@@ -132,7 +132,7 @@ Continuation of current rules.—Except as provided in subparagraph (B), any pet
 
 &emsp;&emsp;“(B)
 
-Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
+Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending thissection, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
 
 &emsp;“(3)
 
@@ -162,7 +162,7 @@ Filipino War Veterans.—Section 405 \[enacting provisions formerly set out as a
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Admission of Alaska and Hawaii to Statehood
 

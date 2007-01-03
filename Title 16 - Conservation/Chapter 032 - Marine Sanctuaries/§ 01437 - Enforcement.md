@@ -96,7 +96,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (2) Liability for costs
 
-&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation orpermit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
+&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation or permit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
 
 #### (g) Subpoenas
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of this chapter and the regulations issued under this chapter.
+Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, tothe enforcement or the administration of this chapter and the regulations issued under this chapter.
 
 (b)
 
@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “person” includes an individual, corporation, partnership, association, or any other organized group of persons, or legal successor or representative of the foregoing, and includes the United States or any agency thereof, or any other government, or any of its political subdivisions, or any agency of any of the foregoing, except that no punishment provided by this section shall apply to the United States, or to any such government, political subdivision, or government agency.
 
-&emsp;(2) The term “national defense” means programs for military and atomic energy production or construction, military assistance toany foreign nation, stockpiling, space, and directly related activity.
+&emsp;(2) The term “national defense” means programs for military and atomic energy production or construction, military assistance to any foreign nation, stockpiling, space, and directly related activity.
 
 (Added Pub. L. 102–484, div. D, title XLII, §4217, Oct. 23, 1992, 106 Stat. 2670; amended Pub. L. 103–160, div. A, title XI, §1182(b)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 109–163, div. A, title X, §1056(c)(5), Jan. 6, 2006, 119 Stat. 3439.)
 

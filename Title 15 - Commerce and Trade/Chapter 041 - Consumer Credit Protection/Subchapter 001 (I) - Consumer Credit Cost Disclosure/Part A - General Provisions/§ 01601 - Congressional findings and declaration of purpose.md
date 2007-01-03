@@ -42,7 +42,7 @@ Pub. L. 105–347, §1, Nov. 2, 1998, 112 Stat. 3208, provided that: “This Act
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L.104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681<i>o</i>, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
+Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681<i>o</i>, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
 
 #### Short Title of 1995 Amendments
 
@@ -62,7 +62,7 @@ Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Ac
 
 Pub. L. 100–709, §1, Nov. 23, 1988, 102 Stat. 4725, provided that: “This Act \[enacting sections 1637a, 1647, and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under section 1637a of this title\] may be cited as the ‘Home Equity Loan Consumer Protection Act of 1988’.”
 
-Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act \[amending sections 1610, 1632, 1637, 1640, and 1646 of this title and enacting provisions set out as a note under section 1637 of this title\] may be cited as the ‘Fair Credit and Charge Card Disclosure Act of 1988’.”
+Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act \[amending sections 1610, 1632, 1637, 1640, and 1646 of this title and enacting provisionsset out as a note under section 1637 of this title\] may be cited as the ‘Fair Credit and Charge Card Disclosure Act of 1988’.”
 
 #### Short Title of 1981 Amendment
 
@@ -148,7 +148,7 @@ Content of report.—The report described in paragraph (2) shall address the fol
 
 #### Federal Reserve Study of Home Equity Lending and Appropriate Interest Rate Index
 
-Pub. L. 103–325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that: “During the period beginning 180 days after the date of enactment of this Act \[Sept. 23, 1994\] and ending 2 years after that date of enactment, the Board of Governors of the Federal Reserve System shall conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding—
+Pub. L. 103–325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that: “During the period beginning 180days after the date of enactment of this Act \[Sept. 23, 1994\] and ending 2 years after that date of enactment, the Board of Governors of the Federal Reserve System shall conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding—
 
 &emsp;“(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of the Truth in Lending Act \[15 U.S.C. 1602\]) secured by the consumer's principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\]; and
 

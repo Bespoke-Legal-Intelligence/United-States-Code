@@ -16,10 +16,6 @@
 
 Chapter 143 provides implementing legislation for the International Convention on Tonnage Measurement of Ships (Convention) which came into effect in the United States on February 10, 1983. Chapter 143, therefore, is based primarily on the Convention, not on provisions in existing U.S. law.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7506, 12102, 14103, 14104, 14501, 14504 of this title; section 883 of Appendix to this title.
-
 
 ---
 

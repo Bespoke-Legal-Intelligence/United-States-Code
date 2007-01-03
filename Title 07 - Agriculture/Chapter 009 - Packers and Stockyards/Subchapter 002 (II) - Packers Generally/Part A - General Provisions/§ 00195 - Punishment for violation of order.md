@@ -4,7 +4,7 @@ Any packer or swine contractor, or any officer, director, agent, or employee of 
 
 &emsp;(1) After the expiration of the time allowed for filing a petition in the court of appeals to set aside or modify such order, if no such petition has been filed within such time; or
 
-&emsp;(2) After the expiration of the time allowed for applying for a writ of certiorari, if suchorder, or such order as modified, has been sustained by the court of appeals and no such writ has been applied for within such time; or
+&emsp;(2) After the expiration of the time allowed for applying for a writ of certiorari, if such order, or such order as modified, has been sustained by the court of appeals and no such writ has been applied for within such time; or
 
 &emsp;(3) After such order, or such order as modified, has been sustained by the courts as provided in section 194 of this title; shall on conviction be fined not less than $500 nor more than $10,000, or imprisoned for not less than six months nor more than five years, or both. Each day during which such failure continues shall be deemed a separate offense.
 

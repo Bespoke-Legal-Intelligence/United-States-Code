@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require. Each application shall—
+To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may require. Each application shall—
 
 &emsp;(1) include a detailed explanation of—
 
@@ -10,7 +10,7 @@ To request a grant under this subchapter, the chief executive of a State, unit o
 
 &emsp;&emsp;(B) how the activities funded under the grant will meet the purpose of this subchapter; and
 
-&emsp;(2) be accompanied by an assurance that the application was prepared after consultationwith individuals not limited to law enforcement officers (such as school violence researchers, child psychologists, social workers, teachers, principals, and other school personnel) to ensure that the improvements to be funded under the grant are—
+&emsp;(2) be accompanied by an assurance that the application was prepared after consultation with individuals not limited to law enforcement officers (such as school violence researchers, child psychologists, social workers, teachers, principals, and other school personnel) to ensure that the improvements to be funded under the grant are—
 
 &emsp;&emsp;(A) consistent with a comprehensive approach to preventing school violence; and
 
@@ -18,7 +18,11 @@ To request a grant under this subchapter, the chief executive of a State, unit o
 
 #### (b) Guidelines
 
-Not later than 90 days after October 28, 2000, the Attorney General shall promulgate guidelines to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
+Not later than 90 days after October 28, 2000, the Director shall promulgate guidelines to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
 
-(Pub. L. 90–351, title I, §2702, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1502.)
+(Pub. L. 90–351, title I, §2702, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–271, §8(j)(2), Aug. 12, 2006, 120 Stat. 767.)
+
+#### Amendments
+
+2006—Pub. L. 109–271 substituted “Director” for “Attorney General” wherever appearing.
 

@@ -6,7 +6,7 @@ Except as otherwise provided in this chapter, nothing in this chapter shall be c
 
 #### (b) Relationship to other laws
 
-Nothing in this chapter shall be construed to invalidate or limit the remedies, rights, and procedures of any Federal law or law of any State or political subdivision of any State or jurisdiction that provides greater or equal protection for the rights of individuals with disabilities than are afforded by this chapter. Nothing in this chapter shall be construed to preclude the prohibition of, or the imposition of restrictions on, smoking in places of employment covered by subchapter I of this chapter, in transportation covered by subchapter II or III of this chapter, or in places of public accommodation covered by subchapter III of this chapter.
+Nothing in this chapter shall be construed to invalidate or limit the remedies, rights, and procedures of any Federal law or law of any Stateor political subdivision of any State or jurisdiction that provides greater or equal protection for the rights of individuals with disabilities than are afforded by this chapter. Nothing in this chapter shall be construed to preclude the prohibition of, or the imposition of restrictions on, smoking in places of employment covered by subchapter I of this chapter, in transportation covered by subchapter II or III of this chapter, or in places of public accommodation covered by subchapter III of this chapter.
 
 #### (c) Insurance
 
@@ -28,7 +28,7 @@ Nothing in this chapter shall be construed to require an individual with a disab
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

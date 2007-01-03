@@ -56,7 +56,7 @@ In this chapter:
 
 #### (7) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organizedgroup or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (8) Regional Commissions
 
@@ -94,7 +94,7 @@ Section 3173 of this title (as in effect on the day before the effective date of
 
 The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitles F and G of the Act are classified generally to subchapters VI (§2009aa et seq.) and VII (§2009bb et seq.), respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitles F and G of the Act are classified generally to subchapters VI (§2009aa et seq.) and VII (§2009bb et seq.),respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 The Denali Commission Act of 1998, referred to in par. (8)(C), is title III of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681-637, which is set out as a note under section 3121 of this title. For complete classification of this Act to the Code, see Tables.
 

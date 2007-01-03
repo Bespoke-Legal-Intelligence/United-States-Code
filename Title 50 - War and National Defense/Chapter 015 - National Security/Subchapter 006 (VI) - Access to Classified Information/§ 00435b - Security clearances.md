@@ -90,7 +90,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 (4) An authorized investigative agency or authorized adjudicative agency may not conduct an investigation for purposes of determining whether to grant a security clearance to an individual where a current investigation or clearance of equal level already exists or has been granted by another authorized adjudicative agency.
 
-(5) The head of the entity selected pursuant to subsection (b) of this section may disallow thereciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) of this section determines that such action is necessary for national security purposes.
+(5) The head of the entity selected pursuant to subsection (b) of this section may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) of this section determines that such action is necessary for national security purposes.
 
 (6) The head of the entity selected pursuant to subsection (b) of this section shall establish a review procedure by which agencies can seek review of actions required under this section.
 

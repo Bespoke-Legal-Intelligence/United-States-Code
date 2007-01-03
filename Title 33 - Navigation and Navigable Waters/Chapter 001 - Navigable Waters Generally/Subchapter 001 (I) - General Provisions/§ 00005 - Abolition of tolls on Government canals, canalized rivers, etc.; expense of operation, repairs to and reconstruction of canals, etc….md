@@ -16,7 +16,7 @@
 
 &emsp;(3) property taxes on vessels or watercraft, other than vessels or watercraft that are primarily engaged in foreign commerce if those taxes are permissible under the United States Constitution.
 
-(July 5, 1884, ch. 229, §4, 23 Stat. 147; Mar. 3, 1909, ch. 264, §6, 35 Stat. 818; July 26, 1947, ch. 343, titleII, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967; Pub. L. 107–295, title IV, §445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, §829(a), Dec. 12, 2003, 117 Stat. 2597.)
+(July 5, 1884, ch. 229, §4, 23 Stat. 147; Mar. 3, 1909, ch. 264, §6, 35 Stat. 818; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967; Pub. L. 107–295, title IV, §445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, §829(a), Dec. 12, 2003, 117 Stat. 2597.)
 
 #### Codification
 
@@ -50,5 +50,5 @@ For termination of Board of Engineers for Rivers and Harbors 180 days after Oct.
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating and care of canals and other works of navigation (8x881)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating and care of canals and other works of navigation (8x881)” effective July 1, 1935,and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

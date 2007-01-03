@@ -20,7 +20,3 @@ Section 10706 provides for the disposal by the master of the property and wages 
 
 1993—Pub. L. 103–206 substituted “to a district court of the United States within one week of the seaman's death. If the seaman's death occurs at sea, such money, property, or wages shall be delivered to a district court or a consular officer within one week of the vessel's arrival at the first port call after the seaman's death.” for “as provided by regulations prescribed by the Secretary.”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10703 of this title.
-

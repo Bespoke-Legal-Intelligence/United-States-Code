@@ -14,7 +14,7 @@
 
 &emsp;(B) the amounts paid out of the Thrift Savings Fund with respect to such individual under this subchapter.
 
-(3) Pursuant to regulations prescribed by the Executive Director, the Executive Director shall allocate to each account an amount equal to a pro rata share of the net earnings and net losses from each investment of sums in the Thrift Savings Fund attributable to sums credited to such account, reduced by an appropriate share of the administrative expenses paid out of the net earnings under section 8437(d) of this title, as determined by the Executive Director.
+(3) Pursuant to regulations prescribed by the Executive Director, the Executive Director shallallocate to each account an amount equal to a pro rata share of the net earnings and net losses from each investment of sums in the Thrift Savings Fund attributable to sums credited to such account, reduced by an appropriate share of the administrative expenses paid out of the net earnings under section 8437(d) of this title, as determined by the Executive Director.
 
 (b)(1) For the purposes of this subsection, the term “qualified public accountant” shall have the same meaning as provided in section 103(a)(3)(D) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023(a)(3)(D)).
 
@@ -44,7 +44,7 @@
 
 Subsec. (c)(2). Pub. L. 106–361, §2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment byPub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
+1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment by Pub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
 
 Pub. L. 106–65, §661(a)(5)(A), struck out “under section 8351 of this title” after “Thrift Savings Fund”.
 

@@ -18,7 +18,7 @@
 
 &emsp;(D) contain adequate provisions—
 
-&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or othertype of emissions activity within the State from emitting any air pollutant in amounts which will—
+&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the State from emitting any air pollutant in amounts which will—
 
 &emsp;&emsp;&emsp;(I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard, or
 
@@ -202,7 +202,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (B) Completeness finding
 
-&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receiptof the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
+&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receipt of the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
 
 #### (C) Effect of finding of incompleteness
 
@@ -218,7 +218,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (4) Conditional approval
 
-&emsp;The Administrator may approve a plan revision based on a commitment of the State to adopt specific enforceable measures by a date certain, but not later than 1 year after the date of approval of the plan revision. Any such conditional approval shall be treated as a disapproval if the State fails to comply with such commitment.
+&emsp;The Administrator may approve a plan revision based on a commitment of the State toadopt specific enforceable measures by a date certain, but not later than 1 year after the date of approval of the plan revision. Any such conditional approval shall be treated as a disapproval if the State fails to comply with such commitment.
 
 #### (5) Calls for plan revisions
 
@@ -254,7 +254,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (3) Retention of construction moratorium in certain areas
 
-&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D of this subchapter (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
+&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D of this subchapter (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 
 #### (<i>o</i>) Indian tribes
 
@@ -286,7 +286,7 @@ A prior section 110 of act July 14, 1955, was renumbered section 117 by Pub. L. 
 
 1990—Subsec. (a)(1). Pub. L. 101–549, §101(d)(8), substituted “3 years (or such shorter period as the Administrator may prescribe)” for “nine months” in two places.
 
-Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereofand listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
+Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
 
 Subsec. (a)(3)(A). Pub. L. 101–549, §101(d)(1), struck out subpar. (A) which directed Administrator to approve any revision of an implementation plan if it met certain requirements and had been adopted by the State after reasonable notice and public hearings.
 
@@ -386,7 +386,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an EffectiveDate of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Implementation Plans Approved and In Effect Prior to Aug. 7, 1977
 

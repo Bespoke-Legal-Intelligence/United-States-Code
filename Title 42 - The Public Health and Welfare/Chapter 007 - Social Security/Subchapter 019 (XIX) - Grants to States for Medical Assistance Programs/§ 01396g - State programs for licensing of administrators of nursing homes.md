@@ -48,7 +48,7 @@ Another section 1908 of act Aug. 14, 1935, was renumbered section 1908A and is c
 
 #### Amendments
 
-1997—Subsec. (e)(1). Pub. L. 105–33 which directed substitution of “a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts; and” in “Section 1908(e)(1) (42 U.S.C. 1396g–1(e)(1))” of the Social Security Act, was executed by making the substitution in subsec. (e)(1) ofthis section to reflect the probable intent of Congress, because section 1396g–1 of this title, which is also section 1908 of the Social Security Act, does not have a subsec. (e).
+1997—Subsec. (e)(1). Pub. L. 105–33 which directed substitution of “a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts; and” in “Section 1908(e)(1) (42 U.S.C. 1396g–1(e)(1))” of the Social Security Act, was executed by making the substitution in subsec. (e)(1) of this section to reflect the probable intent of Congress, because section 1396g–1 of this title, which is also section 1908 of the Social Security Act, does not have a subsec. (e).
 
 1996—Subsec. (e)(1). Pub. L. 104–193, which directed substitution of “The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc.” for “The First Church of Christ, Scientist, Boston, Massachusetts” in section 1908(e)(1) of the Social Security Act (42 U.S.C. 1396g–1(e)(1)) could not be executed to this section or section 1396g–1 of this title, both of which are section 1908. Section 1396g–1 does not have a subsec. (e) and subsec. (e)(1) of this section does not contain the quoted language with the word “the” capitalized.
 
@@ -60,7 +60,7 @@ Another section 1908 of act Aug. 14, 1935, was renumbered section 1908A and is c
 
 Subsec. (e). Pub. L. 93–233 redesignated subsec. (g) as (e), and repealed prior subsec. (e) relating to authorization of appropriations for fiscal years 1968 through 1972 and to limitation of grants.
 
-Subsec. (f). Pub. L. 93–233 repealed subsec. (f) providing for creation of National Advisory Council on Nursing Home Administration and for its composition, appointment of members, the Chairman, representation of interests, functions and duties, compensation and travel expenses, technical assistance, availability of assistance and data, and termination date of Dec. 31, 1971.
+Subsec. (f). Pub. L. 93–233 repealed subsec. (f) providing for creation of National Advisory Council on Nursing Home Administration and for its composition, appointment of members, the Chairman, representationof interests, functions and duties, compensation and travel expenses, technical assistance, availability of assistance and data, and termination date of Dec. 31, 1971.
 
 Subsec. (g). Pub. L. 93–233, redesignated subsec. (g) as (e).
 

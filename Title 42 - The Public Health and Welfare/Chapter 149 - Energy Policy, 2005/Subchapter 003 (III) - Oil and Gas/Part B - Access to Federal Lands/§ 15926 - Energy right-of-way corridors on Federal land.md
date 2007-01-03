@@ -28,7 +28,7 @@ The Secretaries, in consultation with the Federal Energy Regulatory Commission, 
 
 #### (d) Considerations
 
-In carrying out this section, the Secretaries shall take into account the need for upgraded and new electricity transmission and distribution facilities to—
+In carrying out this section, the Secretaries shall take into account the need for upgradedand new electricity transmission and distribution facilities to—
 
 &emsp;(1) improve reliability;
 

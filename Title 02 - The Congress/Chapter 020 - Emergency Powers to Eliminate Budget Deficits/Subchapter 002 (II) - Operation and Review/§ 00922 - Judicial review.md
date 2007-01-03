@@ -16,7 +16,7 @@
 
 #### (b) Appeal to Supreme Court
 
-Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be issued by a single Justice of the Supreme Court.
+Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an orderissued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be issued by a single Justice of the Supreme Court.
 
 #### (c) Expedited consideration
 
@@ -58,7 +58,7 @@ The economic data and economic assumptions used by the Director of OMB in comput
 
 #### References in Text
 
-This title, referred to in subsec. (a)(2), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the code, see Short Title note set out under section 901 of this title and Tables.
+This title, referred to in subsec. (a)(2), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the code, see Short Title note set out under section 900 of this title and Tables.
 
 #### Amendments
 

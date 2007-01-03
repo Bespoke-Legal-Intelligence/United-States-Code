@@ -60,7 +60,7 @@ In this subchapter:
 
 #### (9) Person
 
-&emsp;The term “person” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+&emsp;The term “person” has the meaning given the term in section 101 of the ComprehensiveEnvironmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (10) Pollutant or contaminant
 
@@ -90,7 +90,7 @@ In this subchapter:
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par.\(5)(B)(i), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par. (5)(B)(i), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 The Solid Waste Disposal Act, referred to in par. (5)(B)(ii), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 

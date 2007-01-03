@@ -8,7 +8,7 @@ The Secretary shall establish an Office of Dietary Supplements within the Nation
 
 The purposes of the Office are—
 
-&emsp;(1) to explore more fully the potential role of dietary supplements as a significant part of the efforts of the United States to improve health care; and
+&emsp;(1) to explore more fully the potential role of dietary supplements as a significant part ofthe efforts of the United States to improve health care; and
 
 &emsp;(2) to promote scientific study of the benefits of dietary supplements in maintaining health and preventing chronic disease and other health-related conditions.
 
@@ -44,9 +44,13 @@ The Director of the Office of Dietary Supplements shall—
 
 As used in this section, the term “dietary supplement” has the meaning given the term in section 321(ff) of title 21.
 
-#### (e) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §485C, as added Pub. L. 103–417, §13(a), Oct. 25, 1994, 108 Stat. 4334; amended Pub. L. 109–482, title I, §103(b)(43), Jan. 15, 2007, 120 Stat. 3688.)
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1994 and such sums as may be necessary for each subsequent fiscal year.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §485C, as added Pub. L. 103–417, §13(a), Oct. 25, 1994, 108 Stat. 4334.)
+2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1994 and such sums as may be necessary for each subsequent fiscal year.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

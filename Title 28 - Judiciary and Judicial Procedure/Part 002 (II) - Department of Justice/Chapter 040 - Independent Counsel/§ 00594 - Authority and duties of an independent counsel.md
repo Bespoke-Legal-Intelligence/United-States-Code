@@ -34,7 +34,7 @@ In general.—An independent counsel appointed under this chapter shall receive 
 
 &emsp;(2)
 
-Travel expenses.—Except as provided in paragraph (3), an independent counsel and persons appointed under subsection (c) shall be entitled to the payment of travel expenses as provided by subchapter I of chapter 57 of title5, United States Code, including travel, per diem, and subsistence expenses in accordance with section 5703 of title 5.
+Travel expenses.—Except as provided in paragraph (3), an independent counsel and persons appointed under subsection (c) shall be entitled to the payment of travel expenses as provided by subchapter I of chapter 57 of title 5, United States Code, including travel, per diem, and subsistence expenses in accordance with section 5703 of title 5.
 
 &emsp;(3)
 

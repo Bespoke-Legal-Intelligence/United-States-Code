@@ -4,47 +4,16 @@
 | :--- | ---: |
 | [601\.](%C2%A7%2000601%20-%20Definitions.md) | Definitions. |
 | [602\.](%C2%A7%2000602%20-%20Applicability%20of%20law.md) | Applicability of law. |
-| (a) | Executive agency contracts. |
-| (b) | Tennessee Valley Authority contracts. |
-| (c) | Foreign government or international organization contracts. |
 | [603\.](%C2%A7%2000603%20-%20Maritime%20contracts.md) | Maritime contracts. |
 | [604\.](%C2%A7%2000604%20-%20Fraudulent%20claims.md) | Fraudulent claims. |
 | [605\.](%C2%A7%2000605%20-%20Decision%20by%20contracting%20officer.md) | Decision by contracting officer. |
-| (a) | Contractor claims. |
-| (b) | Review; performance of contract pending appeal. |
-| (c) | Amount of claim; certification; notification; time of issuance; presumption. |
-| (d) | Alternative means of dispute resolution. |
-| (e) | Termination of authority to engage in alternative means of dispute resolution; savings provision. |
 | [606\.](%C2%A7%2000606%20-%20Contractor%27s%20right%20of%20appeal%20to%20board%20of%20contract%20appeals.md) | Contractor's right of appeal to board of contract appeals. |
 | [607\.](%C2%A7%2000607%20-%20Agency%20boards%20of%20contract%20appeals.md) | Agency boards of contract appeals. |
-| (a) | Establishment; consultation; Tennessee Valley Authority. |
-| (b) | Appointment of members; chairman; compensation. |
-| (c) | Postal Service Board of Contract Appeals. |
-| (d) | Jurisdiction. |
-| (e) | Decisions. |
-| (f) | Accelerated appeal disposition. |
-| (g) | Review. |
 | [608\.](%C2%A7%2000608%20-%20Small%20claims.md) | Small claims. |
-| (a) | Accelerated disposition of appeals. |
-| (b) | Simplified rules of procedure. |
-| (c) | Time of decision. |
-| (d) | Finality of decision. |
-| (e) | Effect of decision. |
-| (f) | Review of requisite amount in controversy. |
 | [609\.](%C2%A7%2000609%20-%20Judicial%20review%20of%20board%20decisions.md) | Judicial review of board decisions. |
-| (a) | Actions in United States Court of Federal Claims; district court actions; time for filing. |
-| (b) | Finality of board decision. |
-| (c) | Remand or retention of case. |
-| (d) | Consolidation. |
-| (e) | Judgments as to fewer than all claims. |
-| (f) | Advisory opinions. |
 | [610\.](%C2%A7%2000610%20-%20Subpena%2C%20discovery%2C%20and%20deposition.md) | Subpena, discovery, and deposition. |
 | [611\.](%C2%A7%2000611%20-%20Interest.md) | Interest. |
 | [612\.](%C2%A7%2000612%20-%20Payment%20of%20claims.md) | Payment of claims. |
-| (a) | Judgments. |
-| (b) | Monetary awards. |
-| (c) | Reimbursement. |
-| (d) | Tennessee Valley Authority. |
 | [613\.](%C2%A7%2000613%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

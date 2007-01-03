@@ -12,7 +12,7 @@
 
 #### (3) Initiation of discussions
 
-&emsp;Unless such a determination is made, the Secretary of the Treasury shall initiate discussions with such industrialized and developing countries as the Secretary may determine to be appropriate with the intent to negotiate the establishment of the International Debt Management Authority, which would undertake to—
+&emsp;Unless such a determination is made, the Secretary of the Treasury shall initiate discussions with such industrialized and developing countries as the Secretary may determine to be appropriate with the intent to negotiate the establishment of the International DebtManagement Authority, which would undertake to—
 
 &emsp;&emsp;(A) purchase sovereign debt of less developed countries from private creditors at an appropriate discount;
 
@@ -40,7 +40,7 @@ In any discussions initiated under subsection (a) of this section, the Secretary
 
 #### (c) Interim reports
 
-At the end of the 6-month period beginning on August 23, 1988, and at the end of the 12-month period beginning on August 23, 1988, the Secretary of the Treasury shall submit a report on the progress being made on the study or in discussions described in subsection (a) of this section to the Committee on Banking, Finance andUrban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, and shall consult with such committees after submitting each such report.
+At the end of the 6-month period beginning on August 23, 1988, and at the end of the 12-month period beginning on August 23, 1988, the Secretary of the Treasury shall submit a report on the progress being made on the study or in discussions described in subsection (a) of this section to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, and shall consult with such committees after submitting each such report.
 
 #### (d) Final report
 

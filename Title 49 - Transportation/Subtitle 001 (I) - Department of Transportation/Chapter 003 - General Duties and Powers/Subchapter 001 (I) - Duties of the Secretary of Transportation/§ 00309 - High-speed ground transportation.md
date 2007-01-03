@@ -30,7 +30,7 @@
 
 (C) For the purposes of this paragraph, the term “eligible applicant” means any United States private business, State government, local government, organization of State or local government, or any combination thereof. The term does not include any business owned in whole or in part by the Federal Government.
 
-(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph to demonstrate a technology to be incorporated into a project or system located in a State thatprohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
+(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph to demonstrate a technology to be incorporated into a project or system located in a State that prohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
 
 (E) Recipients of grants or contracts made pursuant to this paragraph shall agree to submit a report to the Secretary detailing the results and benefits of the technology demonstration proposed, as required by the Secretary.
 
@@ -40,7 +40,7 @@
 
 &emsp;(B) transferring the research and basic generic technologies described in subparagraph (A) to industry in order to help create a viable commercial high-speed ground transportation industry within the United States.
 
-(2) In a cooperative agreement or funding agreement under paragraph (1), the Secretary may agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
+(2) In a cooperative agreement or funding agreement under paragraph (1), the Secretary may agree to provide not more than 80 percent of the cost of any project under the agreement.Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
 
 (3) The research, development, or utilization of any technology pursuant to a cooperative agreement under paragraph (1), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
@@ -156,7 +156,7 @@ Factors and conditions to be considered.—The Secretary and the Assistant Secre
 
 “(3)
 
-Phase two contracts.—Within 3 months of receiving the final reports of contract activities underparagraph (2), and based only on such reports and the recommendations of the program director, the Secretary and the Assistant Secretary shall select not more than 3 eligible applicants from among the contract recipients submitting reports under paragraph (2) to receive 18-month contracts for research and development leading to a detailed design for a prototype maglev system. The Secretary and the Assistant Secretary may only award contracts under this paragraph if—
+Phase two contracts.—Within 3 months of receiving the final reports of contract activities under paragraph (2), and based only on such reports and the recommendations of the program director, the Secretary and the Assistant Secretary shall select not more than 3 eligible applicants from among the contract recipients submitting reports under paragraph (2) to receive 18-month contracts for research and development leading to a detailed design for a prototype maglev system. The Secretary and the Assistant Secretary may only award contracts under this paragraph if—
 
 &emsp;“(A) they determine that the applicant has demonstrated technical merit for the conceptual design and the potential for further development of such design into an operational prototype as described in paragraph (4),
 

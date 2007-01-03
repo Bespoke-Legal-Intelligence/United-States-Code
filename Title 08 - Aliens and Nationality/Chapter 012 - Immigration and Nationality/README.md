@@ -7,29 +7,11 @@
 | [1101\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001101%20-%20Definitions.md) | Definitions. |
 | [1102\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001102%20-%20Diplomatic%20and%20semidiplomatic%20immunities.md) | Diplomatic and semidiplomatic immunities. |
 | [1103\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001103%20-%20Powers%20and%20duties%20of%20the%20Secretary%2C%20the%20Under%20Secretary%2C%20and%20the%20Attorney%20General.md) | Powers and duties of the Secretary, the Under Secretary, and the Attorney General. |
-| (a) | Secretary of Homeland Security. |
-| (b) | Land acquisition authority. |
-| (c) | Commissioner; appointment. |
-| (d) | Statistical information system. |
-| (e) | Annual report. |
-| (f) | Minimum number of agents in States. |
-| (g) | Attorney General. |
-| (h) | Office of Special Investigations. |
 | [1104\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001104%20-%20Powers%20and%20duties%20of%20Secretary%20of%20State.md) | Powers and duties of Secretary of State. |
-| (a) | Powers and duties. |
-| (b) | Designation and duties of Administrator. |
-| (c) | Passport Office, Visa Office, and other offices; directors. |
-| (d) | Transfer of duties. |
-| (e) | General Counsel of Visa Office; appointment and duties. |
 | [1105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001105%20-%20Liaison%20with%20internal%20security%20officers%3B%20data%20exchange.md) | Liaison with internal security officers; data exchange. |
-| (a) | In general. |
-| (b) | Access to National Crime Information Center files. |
-| (c) | Reconsideration upon development of more cost effective means of sharing information. |
-| (d) | Regulations. |
 | [1105a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001105a%20-%20Employment%20authorization%20for%20battered%20spouses%20of%20certain%20nonimmigrants.md) | Employment authorization for battered spouses of certain nonimmigrants. |
-| (a) | In general. |
-| (b) | Construction. |
 | [1106\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001106%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93510%2C%20title%20IV%2C%20%C2%A7422%28a%29%2C%20Oct.%2026%2C%201970%2C%2084%20Stat.%201189.md) | Repealed. |
+| [1107\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001107%20-%20Additional%20report.md) | Additional report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,67 +22,16 @@
 |  |  |
 | :--- | ---: |
 | [1151\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001151%20-%20Worldwide%20level%20of%20immigration.md) | Worldwide level of immigration. |
-| (a) | In general. |
-| (b) | Aliens not subject to direct numerical limitations. |
-| (c) | Worldwide level of family-sponsored immigrants. |
-| (d) | Worldwide level of employment-based immigrants. |
-| (e) | Worldwide level of diversity immigrants. |
-| (f) | Rules for determining whether certain aliens are immediate relatives. |
 | [1151a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001151a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93571%2C%20%C2%A77%28g%29%2C%20Oct.%2020%2C%201976%2C%2090%20Stat.%202706.md) | Repealed. |
 | [1152\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001152%20-%20Numerical%20limitations%20on%20individual%20foreign%20states.md) | Numerical limitations on individual foreign states. |
-| (a) | Per country level. |
-| (b) | Rules for chargeability. |
-| (c) | Chargeability for dependent areas. |
-| (d) | Changes in territory. |
-| (e) | Special rules for countries at ceiling. |
 | [1153\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001153%20-%20Allocation%20of%20immigrant%20visas.md) | Allocation of immigrant visas. |
-| (a) | Preference allocation for family-sponsored immigrants. |
-| (b) | Preference allocation for employment-based immigrants. |
-| (c) | Diversity immigrants. |
-| (d) | Treatment of family members. |
-| (e) | Order of consideration. |
-| (f) | Authorization for issuance. |
-| (g) | Lists. |
-| (h) | Rules for determining whether certain aliens are children. |
 | [1154\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001154%20-%20Procedure%20for%20granting%20immigrant%20status.md) | Procedure for granting immigrant status. |
-| (a) | Petitioning procedure. |
-| (b) | Investigation; consultation; approval; authorization to grant preference status. |
-| (c) | Limitation on orphan petitions approved for a single petitioner; prohibition against approval in cases of marriages entered into in order to evade immigration laws; restriction on future entry of aliens involved with marriage fraud. |
-| (d) | Recommendation of valid home-study. |
-| (e) | Subsequent finding of non-entitlement to preference classification. |
-| (f) | Preferential treatment for children fathered by United States citizens and born in Korea, Vietnam, Laos, Kampuchea, or Thailand after 1950 and before October 22, 1982. |
-| (g) | Restriction on petitions based on marriages entered while in exclusion or deportation proceedings. |
-| (h) | Survival of rights to petition. |
-| (i) | Professional athletes. |
-| (j) | Job flexibility for long delayed applicants for adjustment of status to permanent residence. |
-| (k) | Procedures for unmarried sons and daughters of citizens. |
 | [1155\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20effective%20date.md) | Revocation of approval of petitions; effective date. |
 | [1156\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001156%20-%20Unused%20immigrant%20visas.md) | Unused immigrant visas. |
 | [1157\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001157%20-%20Annual%20admission%20of%20refugees%20and%20admission%20of%20emergency%20situation%20refugees.md) | Annual admission of refugees and admission of emergency situation refugees. |
-| (a) | Maximum number of admissions; increases for humanitarian concerns; allocations. |
-| (b) | Determinations by President respecting number of admissions for humanitarian concerns. |
-| (c) | Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child. |
-| (d) | Oversight reporting and consultation requirements. |
-| (e) | “Appropriate consultation” defined. |
-| (f) | Training. |
 | [1158\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001158%20-%20Asylum.md) | Asylum. |
-| (a) | Authority to apply for asylum. |
-| (b) | Conditions for granting asylum. |
-| (c) | Asylum status. |
-| (d) | Asylum procedure. |
 | [1159\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001159%20-%20Adjustment%20of%20status%20of%20refugees.md) | Adjustment of status of refugees. |
-| (a) | Inspection and examination by Department of Homeland Security. |
-| (b) | Requirements for adjustment. |
-| (c) | Coordination with section 1182. |
 | [1160\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001160%20-%20Special%20agricultural%20workers.md) | Special agricultural workers. |
-| (a) | Lawful residence. |
-| (b) | Applications for adjustment of status. |
-| (c) | Waiver of numerical limitations and certain grounds for exclusion. |
-| (d) | Temporary stay of exclusion or deportation and work authorization for certain applicants. |
-| (e) | Administrative and judicial review. |
-| (f) | Temporary disqualification of newly legalized aliens from receiving aid to families with dependent children. |
-| (g) | Treatment of special agricultural workers. |
-| (h) | “Seasonal agricultural services” defined. |
 | [1161\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001161%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93416%2C%20title%20II%2C%20%C2%A7219%28ee%29%281%29%2C%20Oct.%2025%2C%201994%2C%20108%20Stat.%204319.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -110,121 +41,22 @@
 |  |  |
 | :--- | ---: |
 | [1181\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001181%20-%20Admission%20of%20immigrants%20into%20the%20United%20States.md) | Admission of immigrants into the United States. |
-| (a) | Documents required; admission under quotas before June 30, 1968. |
-| (b) | Readmission without required documents; Attorney General's discretion. |
-| (c) | Nonapplicability to aliens admitted as refugees. |
 | [1182\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182%20-%20Inadmissible%20aliens.md) | Inadmissible aliens. |
-| (a) | Classes of aliens ineligible for visas or admission. |
-| (b) | Notices of denials. |
-| (c) | Repealed. |
-| (d) | Temporary admission of nonimmigrants. |
-| (e) | Educational visitor status; foreign residence requirement; waiver. |
-| (f) | Suspension of entry or imposition of restrictions by President. |
-| (g) | Bond and conditions for admission of alien inadmissible on health-related grounds. |
-| (h) | Waiver of subsection (a)(2)(A)(i)(I), (II), (B), (D), and (E). |
-| (i) | Admission of immigrant inadmissible for fraud or willful misrepresentation of material fact. |
-| (j) | Limitation on immigration of foreign medical graduates. |
-| (k) | Attorney General's discretion to admit otherwise inadmissible aliens who possess immigrant visas. |
-| (<i>l</i>) | Guam; waiver of requirements for nonimmigrant visitors; conditions of waiver; acceptance of funds from Guam. |
-| (m) | Requirements for admission of nonimmigrant nurses. |
-| (n) | Labor condition application. |
-| (<i>o</i>) | Omitted. |
-| (p) | Computation of prevailing wage level. |
-| (q) | Academic honoraria. |
-| (r) | Exception for certain alien nurses. |
-| (s) | Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge. |
-| (t) | Nonimmigrant professionals; labor attestations. |
-| (t) | Foreign residence requirement. |
 | 1182a to 1182c. Repealed. |  |
 | [1182d.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182d%20-%20Denial%20of%20visas%20to%20confiscators%20of%20American%20property.md) | Denial of visas to confiscators of American property. |
-| (a) | Denial of visas. |
-| (b) | Exceptions. |
-| (c) | Reporting requirement. |
 | [1182e.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182e%20-%20Denial%20of%20entry%20into%20United%20States%20of%20foreign%20nationals%20engaged%20in%20establishment%20or%20enforcement%20of%20forced%20abortion%20or%20sterilization%20policy.md) | Denial of entry into United States of foreign nationals engaged in establishment or enforcement of forced abortion or sterilization policy. |
-| (a) | Denial of entry. |
-| (b) | Exceptions. |
-| (c) | Waiver. |
 | [1182f.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182f%20-%20Denial%20of%20entry%20into%20United%20States%20of%20Chinese%20and%20other%20nationals%20engaged%20in%20coerced%20organ%20or%20bodily%20tissue%20transplantation.md) | Denial of entry into United States of Chinese and other nationals engaged in coerced organ or bodily tissue transplantation. |
-| (a) | Denial of entry. |
-| (b) | Exception. |
-| (c) | Waiver. |
 | [1183\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183%20-%20Admission%20of%20aliens%20on%20giving%20bond%20or%20undertaking%3B%20return%20upon%20permanent%20departure.md) | Admission of aliens on giving bond or undertaking; return upon permanent departure. |
 | [1183a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183a%20-%20Requirements%20for%20sponsor%27s%20affidavit%20of%20support.md) | Requirements for sponsor's affidavit of support. |
-| (a) | Enforceability. |
-| (b) | Reimbursement of government expenses. |
-| (c) | Remedies. |
-| (d) | Notification of change of address. |
-| (e) | Jurisdiction. |
-| (f) | “Sponsor” defined. |
-| (h) | “Federal poverty line” defined. |
-| (i) | Sponsor's social security account number required to be provided. |
 | [1184\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001184%20-%20Admission%20of%20nonimmigrants.md) | Admission of nonimmigrants. |
-| (a) | Regulations. |
-| (b) | Presumption of status; written waiver. |
-| (c) | Petition of importing employer. |
-| (d) | Issuance of visa to fianc�AE1ee or fianc�AE1e of citizen. |
-| (e) | Nonimmigrant professionals and annual numerical limit. |
-| (f) | Denial of crewmember status in case of certain labor disputes. |
-| (g) | Temporary workers and trainees; limitation on numbers. |
-| (h) | Intention to abandon foreign residence. |
-| (i) | “Specialty occupation” defined. |
-| (j) | Labor disputes. |
-| (k) | Numerical limitations; period of admission; conditions for admission and stay; annual report. |
-| (<i>l</i>) | Restrictions on waiver. |
-| (m) | Nonimmigrant elementary and secondary school students. |
-| (n) | Increased portability of H–1B status. |
-| (<i>o</i>) | Nonimmigrants guilty of trafficking in persons. |
-| (p) | Requirements applicable to section 1101(a)(15)(U) visas. |
-| (q) | Employment of nonimmigrants described in section 1101(a)(15)(V). |
-| (r) | Visas of nonimmigrants described in section 1101(a)(15)(K)(ii). |
 | [1184a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001184a%20-%20Philippine%20Traders%20as%20nonimmigrants.md) | Philippine Traders as nonimmigrants. |
 | [1185\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001185%20-%20Travel%20control%20of%20citizens%20and%20aliens.md) | Travel control of citizens and aliens. |
-| (a) | Restrictions and prohibitions. |
-| (b) | Citizens. |
-| (c) | Definitions. |
-| (d) | Nonadmission of certain aliens. |
-| (e) | Revocation of proclamation as affecting penalties. |
-| (f) | Permits to enter. |
 | [1186\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001186%20-%20Transferred.md) | Transferred. |
 | [1186a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001186a%20-%20Conditional%20permanent%20resident%20status%20for%20certain%20alien%20spouses%20and%20sons%20and%20daughters.md) | Conditional permanent resident status for certain alien spouses and sons and daughters. |
-| (a) | In general. |
-| (b) | Termination of status if finding that qualifying marriage improper. |
-| (c) | Requirements of timely petition and interview for removal of condition. |
-| (d) | Details of petition and interview. |
-| (e) | Treatment of period for purposes of naturalization. |
-| (f) | Treatment of certain waivers. |
-| (g) | Definitions. |
 | [1186b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001186b%20-%20Conditional%20permanent%20resident%20status%20for%20certain%20alien%20entrepreneurs%2C%20spouses%2C%20and%20children.md) | Conditional permanent resident status for certain alien entrepreneurs, spouses, and children. |
-| (a) | In general. |
-| (b) | Termination of status if finding that qualifying entrepreneurship improper. |
-| (c) | Requirements of timely petition and interview for removal of condition. |
-| (d) | Details of petition and interview. |
-| (e) | Treatment of period for purposes of naturalization. |
-| (f) | Definitions. |
 | [1187\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001187%20-%20Visa%20waiver%20program%20for%20certain%20visitors.md) | Visa waiver program for certain visitors. |
-| (a) | Establishment of program. |
-| (b) | Waiver of rights. |
-| (c) | Designation of program countries. |
-| (d) | Authority. |
-| (e) | Carrier agreements. |
-| (f) | Duration and termination of designation. |
-| (g) | Visa application sole method to dispute denial of waiver based on a ground of inadmissibility. |
-| (h) | Use of information technology systems. |
 | [1188\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001188%20-%20Admission%20of%20temporary%20H%E2%80%932A%20workers.md) | Admission of temporary H–2A workers. |
-| (a) | Conditions for approval of H–2A petitions. |
-| (b) | Conditions for denial of labor certification. |
-| (c) | Special rules for consideration of applications. |
-| (d) | Roles of agricultural associations. |
-| (e) | Expedited administrative appeals of certain determinations. |
-| (f) | Violators disqualified for 5 years. |
-| (g) | Authorization of appropriations. |
-| (h) | Miscellaneous provisions. |
-| (i) | Definitions. |
 | [1189\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001189%20-%20Designation%20of%20foreign%20terrorist%20organizations.md) | Designation of foreign terrorist organizations. |
-| (a) | Designation. |
-| (b) | Amendments to a designation. |
-| (c) | Judicial review of designation. |
-| (d) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -233,31 +65,9 @@
 |  |  |
 | :--- | ---: |
 | [1201\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20003%20%28III%29%20-%20Issuance%20of%20Entry%20Documents/%C2%A7%2001201%20-%20Issuance%20of%20visas.md) | Issuance of visas. |
-| (a) | Immigrants; nonimmigrants. |
-| (b) | Registration; photographs; waiver of requirement. |
-| (c) | Period of validity; requirement of visa. |
-| (d) | Physical examination. |
-| (e) | Surrender of visa. |
-| (f) | Surrender of documents. |
-| (g) | Nonissuance of visas or other documents. |
-| (h) | Nonadmission upon arrival. |
-| (i) | Revocation of visas or documents. |
 | [1201a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20003%20%28III%29%20-%20Issuance%20of%20Entry%20Documents/%C2%A7%2001201a%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93653%2C%20%C2%A75%28b%29%2C%20formerly%20%C2%A75%28a%29%28d%29%2C%20Nov.%2014%2C%201986%2C%20100%20Stat.%203656%2C%20renumbered%20%C2%A75%28b%29%2C%20Pub.%20L.%20100%E2%80%93525%2C%20%C2%A78%28d%29%282%29%E2%80%A6.md) | Repealed. |
 | [1202\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20003%20%28III%29%20-%20Issuance%20of%20Entry%20Documents/%C2%A7%2001202%20-%20Application%20for%20visas.md) | Application for visas. |
-| (a) | Immigrant visas. |
-| (b) | Other documentary evidence for immigrant visa. |
-| (c) | Nonimmigrant visas; nonimmigrant registration; form, manner and contents of application. |
-| (d) | Other documentary evidence for nonimmigrant visa. |
-| (e) | Signing and verification of application. |
-| (f) | Confidential nature of records. |
-| (g) | Nonimmigrant visa void at conclusion of authorized period of stay. |
-| (h) | In person interview with consular officer. |
 | [1203\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20003%20%28III%29%20-%20Issuance%20of%20Entry%20Documents/%C2%A7%2001203%20-%20Reentry%20permit.md) | Reentry permit. |
-| (a) | Application; contents. |
-| (b) | Issuance of permit; nonrenewability. |
-| (c) | Multiple reentries. |
-| (d) | Presented and surrendered. |
-| (e) | Permit in lieu of visa. |
 | [1204\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20003%20%28III%29%20-%20Issuance%20of%20Entry%20Documents/%C2%A7%2001204%20-%20Immediate%20relative%20and%20special%20immigrant%20visas.md) | Immediate relative and special immigrant visas. |
 | [1205\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20003%20%28III%29%20-%20Issuance%20of%20Entry%20Documents/%C2%A7%2001205%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93301%2C%20%C2%A724%28a%29%282%29%2C%20Sept.%2026%2C%201961%2C%2075%20Stat.%20657.md) | Repealed. |
 
@@ -268,89 +78,21 @@
 |  |  |
 | :--- | ---: |
 | [1221\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001221%20-%20Lists%20of%20alien%20and%20citizen%20passengers%20arriving%20and%20departing.md) | Lists of alien and citizen passengers arriving and departing. |
-| (a) | Arrival manifests. |
-| (b) | Departure manifests. |
-| (c) | Contents of manifest. |
-| (d) | Appropriate officials specified. |
-| (e) | Deadline for requirement of electronic transmission of manifest information. |
-| (f) | Prohibition. |
-| (g) | Penalties against noncomplying shipments, aircraft, or carriers. |
-| (h) | Waiver. |
-| (i) | United States border officer defined. |
-| (j) | Record of citizens and resident aliens leaving permanently for foreign countries. |
 | [1222\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001222%20-%20Detention%20of%20aliens%20for%20physical%20and%20mental%20examination.md) | Detention of aliens for physical and mental examination. |
-| (a) | Detention of aliens. |
-| (b) | Physical and mental examination. |
-| (c) | Certification of certain helpless aliens. |
 | [1223\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001223%20-%20Entry%20through%20or%20from%20foreign%20territory%20and%20adjacent%20islands.md) | Entry through or from foreign territory and adjacent islands. |
-| (a) | Necessity of transportation contract. |
-| (b) | Landing stations. |
-| (c) | Landing agreements. |
-| (d) | Definitions. |
 | [1224\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001224%20-%20Designation%20of%20ports%20of%20entry%20for%20aliens%20arriving%20by%20aircraft.md) | Designation of ports of entry for aliens arriving by aircraft. |
 | [1225\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001225%20-%20Inspection%20by%20immigration%20officers%3B%20expedited%20removal%20of%20inadmissible%20arriving%20aliens%3B%20referral%20for%20hearing.md) | Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing. |
-| (a) | Inspection. |
-| (b) | Inspection of applicants for admission. |
-| (c) | Removal of aliens inadmissible on security and related grounds. |
-| (d) | Authority relating to inspections. |
 | [1225a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001225a%20-%20Preinspection%20at%20foreign%20airports.md) | Preinspection at foreign airports. |
-| (a) | Establishment of preinspection stations. |
-| (b) | Establishment of carrier consultant program and immigration security initiative. |
 | [1226\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001226%20-%20Apprehension%20and%20detention%20of%20aliens.md) | Apprehension and detention of aliens. |
-| (a) | Arrest, detention, and release. |
-| (b) | Revocation of bond or parole. |
-| (c) | Detention of criminal aliens. |
-| (d) | Identification of criminal aliens. |
-| (e) | Judicial review. |
 | [1226a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001226a%20-%20Mandatory%20detention%20of%20suspected%20terrorists%3B%20habeas%20corpus%3B%20judicial%20review.md) | Mandatory detention of suspected terrorists; habeas corpus; judicial review. |
-| (a) | Detention of terrorist aliens. |
-| (b) | Habeas corpus and judicial review. |
-| (c) | Statutory construction. |
 | [1227\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001227%20-%20Deportable%20aliens.md) | Deportable aliens. |
-| (a) | Classes of deportable aliens. |
-| (b) | Deportation of certain nonimmigrants. |
-| (c) | Waiver of grounds for deportation. |
 | [1228\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001228%20-%20Expedited%20removal%20of%20aliens%20convicted%20of%20committing%20aggravated%20felonies.md) | Expedited removal of aliens convicted of committing aggravated felonies. |
-| (a) | Removal of criminal aliens. |
-| (b) | Removal of aliens who are not permanent residents. |
-| (c) | Presumption of deportability. |
-| (c) | Judicial removal. |
 | [1229\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001229%20-%20Initiation%20of%20removal%20proceedings.md) | Initiation of removal proceedings. |
-| (a) | Notice to appear. |
-| (b) | Securing of counsel. |
-| (c) | Service by mail. |
-| (d) | Prompt initiation of removal. |
-| (e) | Certification of compliance with restrictions on disclosure. |
 | [1229a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001229a%20-%20Removal%20proceedings.md) | Removal proceedings. |
-| (a) | Proceeding. |
-| (b) | Conduct of proceeding. |
-| (c) | Decision and burden of proof. |
-| (d) | Stipulated removal. |
-| (e) | Definitions. |
 | [1229b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001229b%20-%20Cancellation%20of%20removal%3B%20adjustment%20of%20status.md) | Cancellation of removal; adjustment of status. |
-| (a) | Cancellation of removal for certain permanent residents. |
-| (b) | Cancellation of removal and adjustment of status for certain nonpermanent residents. |
-| (c) | Aliens ineligible for relief. |
-| (d) | Special rules relating to continuous residence or physical presence. |
-| (e) | Annual limitation. |
 | [1229c.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001229c%20-%20Voluntary%20departure.md) | Voluntary departure. |
-| (a) | Certain conditions. |
-| (b) | At conclusion of proceedings. |
-| (c) | Aliens not eligible. |
-| (d) | Civil penalty for failure to depart. |
-| (e) | Additional conditions. |
-| (f) | Judicial review. |
 | [1230\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001230%20-%20Records%20of%20admission.md) | Records of admission. |
 | [1231\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001231%20-%20Detention%20and%20removal%20of%20aliens%20ordered%20removed.md) | Detention and removal of aliens ordered removed. |
-| (a) | Detention, release, and removal of aliens ordered removed. |
-| (b) | Countries to which aliens may be removed. |
-| (c) | Removal of aliens arriving at port of entry. |
-| (d) | Requirements of persons providing transportation. |
-| (e) | Payment of expenses of removal. |
-| (f) | Aliens requiring personal care during removal. |
-| (g) | Places of detention. |
-| (h) | Statutory construction. |
-| (i) | Incarceration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -361,62 +103,14 @@
 | [1251\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001251%20-%20Transferred.md) | Transferred. |
 | [1251a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001251a%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93301%2C%20%C2%A724%28a%29%283%29%2C%20Sept.%2026%2C%201961%2C%2075%20Stat.%20657.md) | Repealed. |
 | [1252\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001252%20-%20Judicial%20review%20of%20orders%20of%20removal.md) | Judicial review of orders of removal. |
-| (a) | Applicable provisions. |
-| (b) | Requirements for review of orders of removal. |
-| (c) | Requirements for petition. |
-| (d) | Review of final orders. |
-| (e) | Judicial review of orders under section 1225(b)(1). |
-| (f) | Limit on injunctive relief. |
-| (g) | Exclusive jurisdiction. |
 | 1252a, 1252b. Transferred or Repealed. |  |
 | [1252c.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001252c%20-%20Authorizing%20State%20and%20local%20law%20enforcement%20officials%20to%20arrest%20and%20detain%20certain%20illegal%20aliens.md) | Authorizing State and local law enforcement officials to arrest and detain certain illegal aliens. |
-| (a) | In general. |
-| (b) | Cooperation. |
 | [1253\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001253%20-%20Penalties%20related%20to%20removal.md) | Penalties related to removal. |
-| (a) | Penalty for failure to depart. |
-| (b) | Willful failure to comply with terms of release under supervision. |
-| (c) | Penalties relating to vessels and aircraft. |
-| (d) | Discontinuing granting visas to nationals of country denying or delaying accepting alien. |
 | [1254\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001254%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20C%2C%20title%20III%2C%20%C2%A7308%28b%29%287%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93615.md) | Repealed. |
 | [1254a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001254a%20-%20Temporary%20protected%20status.md) | Temporary protected status. |
-| (a) | Granting of status. |
-| (b) | Designations. |
-| (c) | Aliens eligible for temporary protected status. |
-| (d) | Documentation. |
-| (e) | Relation of period of temporary protected status to cancellation of removal. |
-| (f) | Benefits and status during period of temporary protected status. |
-| (g) | Exclusive remedy. |
-| (h) | Limitation on consideration in Senate of legislation adjusting status. |
-| (i) | Annual report and review. |
 | [1255\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001255%20-%20Adjustment%20of%20status%20of%20nonimmigrant%20to%20that%20of%20person%20admitted%20for%20permanent%20residence.md) | Adjustment of status of nonimmigrant to that of person admitted for permanent residence. |
-| (a) | Status as person admitted for permanent residence on application and eligibility for immigrant visa. |
-| (b) | Record of lawful admission for permanent residence; reduction of preference visas. |
-| (c) | Alien crewmen, aliens continuing or accepting unauthorized employment, and aliens admitted in transit without visa. |
-| (d) | Alien admitted for permanent residence on conditional basis; fianc�AE1ee or fianc�AE1e of citizen. |
-| (e) | Restriction on adjustment of status based on marriages entered while in admissibility or deportation proceedings; bona fide marriage exception. |
-| (f) | Limitation on adjustment of status. |
-| (g) | Special immigrants. |
-| (h) | Application with respect to special immigrants. |
-| (i) | Adjustment in status of certain aliens physically present in United States. |
-| (j) | Adjustment to permanent resident status. |
-| (k) | Inapplicability of certain provisions for certain employment-based immigrants. |
-| (<i>l</i>) | Adjustment of status for victims of trafficking. |
-| (m) | Adjustment of status for victims of crimes against women. |
 | [1255a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001255a%20-%20Adjustment%20of%20status%20of%20certain%20entrants%20before%20January%201%2C%201982%2C%20to%20that%20of%20person%20admitted%20for%20lawful%20residence.md) | Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence. |
-| (a) | Temporary resident status. |
-| (b) | Subsequent adjustment to permanent residence and nature of temporary resident status. |
-| (c) | Applications for adjustment of status. |
-| (d) | Waiver of numerical limitations and certain grounds for exclusion. |
-| (e) | Temporary stay of deportation and work authorization for certain applicants. |
-| (f) | Administrative and judicial review. |
-| (g) | Implementation of section. |
-| (h) | Temporary disqualification of newly legalized aliens from receiving certain public welfare assistance. |
-| (i) | Dissemination of information on legalization program. |
 | [1255b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001255b%20-%20Adjustment%20of%20status%20of%20certain%20nonimmigrants%20to%20that%20of%20persons%20admitted%20for%20permanent%20residence.md) | Adjustment of status of certain nonimmigrants to that of persons admitted for permanent residence. |
-| (a) | Application. |
-| (b) | Record of admission. |
-| (c) | Report to the Congress; resolution not favoring adjustment of status; reduction of quota. |
-| (d) | Limitations. |
 | [1256\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001256%20-%20Rescission%20of%20adjustment%20of%20status%3B%20effect%20upon%20naturalized%20citizen.md) | Rescission of adjustment of status; effect upon naturalized citizen. |
 | [1257\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001257%20-%20Adjustment%20of%20status%20of%20certain%20resident%20aliens%20to%20nonimmigrant%20status%3B%20exceptions.md) | Adjustment of status of certain resident aliens to nonimmigrant status; exceptions. |
 | [1258\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001258%20-%20Change%20of%20nonimmigrant%20classification.md) | Change of nonimmigrant classification. |
@@ -430,29 +124,13 @@
 |  |  |
 | :--- | ---: |
 | [1281\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001281%20-%20Alien%20crewmen.md) | Alien crewmen. |
-| (a) | Arrival; submission of list; exceptions. |
-| (b) | Reports of illegal landings. |
-| (c) | Departure; submission of list; exceptions. |
-| (d) | Violations. |
-| (e) | Regulations. |
 | [1282\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001282%20-%20Conditional%20permits%20to%20land%20temporarily.md) | Conditional permits to land temporarily. |
-| (a) | Period of time. |
-| (b) | Revocation; expenses of detention. |
-| (c) | Penalties. |
 | [1283\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001283%20-%20Hospital%20treatment%20of%20alien%20crewmen%20afflicted%20with%20certain%20diseases.md) | Hospital treatment of alien crewmen afflicted with certain diseases. |
 | [1284\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001284%20-%20Control%20of%20alien%20crewmen.md) | Control of alien crewmen. |
-| (a) | Penalties for failure. |
-| (b) | Prima facie evidence against transportation line. |
-| (c) | Removal on other than arriving vessel or aircraft; expenses. |
 | [1285\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001285%20-%20Employment%20on%20passenger%20vessels%20of%20aliens%20afflicted%20with%20certain%20disabilities.md) | Employment on passenger vessels of aliens afflicted with certain disabilities. |
 | [1286\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001286%20-%20Discharge%20of%20alien%20crewmen%3B%20penalties.md) | Discharge of alien crewmen; penalties. |
 | [1287\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001287%20-%20Alien%20crewmen%20brought%20into%20the%20United%20States%20with%20intent%20to%20evade%20immigration%20laws%3B%20penalties.md) | Alien crewmen brought into the United States with intent to evade immigration laws; penalties. |
 | [1288\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20006%20%28VI%29%20-%20Special%20Provisions%20Relating%20to%20Alien%20Crewmen/%C2%A7%2001288%20-%20Limitations%20on%20performance%20of%20longshore%20work%20by%20alien%20crewmen.md) | Limitations on performance of longshore work by alien crewmen. |
-| (a) | In general. |
-| (b) | “Longshore work” defined. |
-| (c) | Prevailing practice exception. |
-| (d) | State of Alaska exception. |
-| (e) | Reciprocity exception. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -464,21 +142,8 @@
 | [1302\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20007%20%28VII%29%20-%20Registration%20of%20Aliens/%C2%A7%2001302%20-%20Registration%20of%20aliens.md) | Registration of aliens. |
 | [1303\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20007%20%28VII%29%20-%20Registration%20of%20Aliens/%C2%A7%2001303%20-%20Registration%20of%20special%20groups.md) | Registration of special groups. |
 | [1304\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20007%20%28VII%29%20-%20Registration%20of%20Aliens/%C2%A7%2001304%20-%20Forms%20for%20registration%20and%20fingerprinting.md) | Forms for registration and fingerprinting. |
-| (a) | Preparation; contents. |
-| (b) | Confidential nature. |
-| (c) | Information under oath. |
-| (d) | Certificate of alien registration or alien receipt card. |
-| (e) | Personal possession of registration or receipt card; penalties. |
-| (f) | Alien's social security account number. |
 | [1305\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20007%20%28VII%29%20-%20Registration%20of%20Aliens/%C2%A7%2001305%20-%20Notices%20of%20change%20of%20address.md) | Notices of change of address. |
-| (a) | Notification of change. |
-| (b) | Current address of natives of any one or more foreign states. |
-| (c) | Notice to parent or legal guardian. |
 | [1306\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20007%20%28VII%29%20-%20Registration%20of%20Aliens/%C2%A7%2001306%20-%20Penalties.md) | Penalties. |
-| (a) | Willful failure to register. |
-| (b) | Failure to notify change of address. |
-| (c) | Fraudulent statements. |
-| (d) | Counterfeiting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -487,64 +152,15 @@
 |  |  |
 | :--- | ---: |
 | [1321\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001321%20-%20Prevention%20of%20unauthorized%20landing%20of%20aliens.md) | Prevention of unauthorized landing of aliens. |
-| (a) | Failure to report; penalties. |
-| (b) | Prima facie evidence. |
-| (c) | Liability of owners and operators of international bridges and toll roads. |
 | [1322\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001322%20-%20Bringing%20in%20aliens%20subject%20to%20denial%20of%20admission%20on%20a%20health-related%20ground%3B%20persons%20liable%3B%20clearance%20papers%3B%20exceptions%3B%20%E2%80%9Cperson%E2%80%9D%E2%80%A6.md) | Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; “person” defined. |
 | [1323\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001323%20-%20Unlawful%20bringing%20of%20aliens%20into%20United%20States.md) | Unlawful bringing of aliens into United States. |
-| (a) | Persons liable. |
-| (b) | Evidence. |
-| (c) | Remission or refund. |
-| (d) | Repealed. |
-| (e) | Reduction, refund, or waiver. |
 | [1324\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324%20-%20Bringing%20in%20and%20harboring%20certain%20aliens.md) | Bringing in and harboring certain aliens. |
-| (a) | Criminal penalties. |
-| (b) | Seizure and forfeiture. |
-| (c) | Authority to arrest. |
-| (d) | Admissibility of videotaped witness testimony. |
-| (e) | Outreach program. |
 | [1324a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324a%20-%20Unlawful%20employment%20of%20aliens.md) | Unlawful employment of aliens. |
-| (a) | Making employment of unauthorized aliens unlawful. |
-| (b) | Employment verification system. |
-| (c) | No authorization of national identification cards. |
-| (d) | Evaluation and changes in employment verification system. |
-| (e) | Compliance. |
-| (f) | Criminal penalties and injunctions for pattern or practice violations. |
-| (g) | Prohibition of indemnity bonds. |
-| (h) | Miscellaneous provisions. |
 | [1324b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324b%20-%20Unfair%20immigration-related%20employment%20practices.md) | Unfair immigration-related employment practices. |
-| (a) | Prohibition of discrimination based on national origin or citizenship status. |
-| (b) | Charges of violations. |
-| (c) | Special Counsel. |
-| (d) | Investigation of charges. |
-| (e) | Hearings. |
-| (f) | Testimony and authority of hearing officers. |
-| (g) | Determinations. |
-| (h) | Awarding of attorney's fees. |
-| (i) | Review of final orders. |
-| (j) | Court enforcement of administrative orders. |
-| (k) | Termination dates. |
-| (<i>l</i>) | Dissemination of information concerning anti-discrimination provisions. |
 | [1324c.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324c%20-%20Penalties%20for%20document%20fraud.md) | Penalties for document fraud. |
-| (a) | Activities prohibited. |
-| (b) | Exception. |
-| (c) | Construction. |
-| (d) | Enforcement. |
-| (e) | Criminal penalties for failure to disclose role as document preparer. |
-| (f) | Falsely make. |
 | [1324d.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324d%20-%20Civil%20penalties%20for%20failure%20to%20depart.md) | Civil penalties for failure to depart. |
-| (a) | In general. |
-| (b) | Construction. |
 | [1325\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001325%20-%20Improper%20entry%20by%20alien.md) | Improper entry by alien. |
-| (a) | Improper time or place; avoidance of examination or inspection; misrepresentation and concealment of facts. |
-| (b) | Improper time or place; civil penalties. |
-| (c) | Marriage fraud. |
-| (d) | Immigration-related entrepreneurship fraud. |
 | [1326\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001326%20-%20Reentry%20of%20removed%20aliens.md) | Reentry of removed aliens. |
-| (a) | In general. |
-| (b) | Criminal penalties for reentry of certain removed aliens. |
-| (c) | Reentry of alien deported prior to completion of term of imprisonment. |
-| (d) | Limitation on collateral attack on underlying deportation order. |
 | [1327\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001327%20-%20Aiding%20or%20assisting%20certain%20aliens%20to%20enter.md) | Aiding or assisting certain aliens to enter. |
 | [1328\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001328%20-%20Importation%20of%20alien%20for%20immoral%20purpose.md) | Importation of alien for immoral purpose. |
 | [1329\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001329%20-%20Jurisdiction%20of%20district%20courts.md) | Jurisdiction of district courts. |
@@ -566,145 +182,35 @@
 | [1354\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001354%20-%20Applicability%20to%20members%20of%20the%20Armed%20Forces.md) | Applicability to members of the Armed Forces. |
 | [1355\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001355%20-%20Disposal%20of%20privileges%20at%20immigrant%20stations%3B%20rentals%3B%20retail%20sale%3B%20disposition%20of%20receipts.md) | Disposal of privileges at immigrant stations; rentals; retail sale; disposition of receipts. |
 | [1356\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001356%20-%20Disposition%20of%20moneys%20collected%20under%20the%20provisions%20of%20this%20subchapter.md) | Disposition of moneys collected under the provisions of this subchapter. |
-| (a) | Detention, transportation, hospitalization, and all other expenses of detained aliens; expenses of landing stations. |
-| (b) | Purchase of evidence. |
-| (c) | Fees and administrative fines and penalties; exception. |
-| (d) | Schedule of fees. |
-| (e) | Limitations on fees. |
-| (f) | Collection. |
-| (g) | Provision of immigration inspection and preinspection services. |
-| (h) | Disposition of receipts. |
-| (i) | Reimbursement. |
-| (j) | Regulations. |
-| (k) | Advisory committee. |
-| (<i>l</i>) | Report to Congress. |
-| (m) | Immigration Examinations Fee Account. |
-| (n) | Reimbursement of administrative expenses; transfer of deposits to General Fund of United States Treasury. |
-| (<i>o</i>) | Annual financial reports to Congress. |
-| (p) | Additional effective dates. |
-| (q) | Land Border Inspection Fee Account. |
-| (r) | Breached Bond/Detention Fund. |
-| (s) | H–1B Nonimmigrant Petitioner Account. |
-| (t) | Genealogy Fee. |
-| (u) | Premium fee for employment-based petitions and applications. |
-| (v) | Fraud Prevention and Detection Account. |
 | [1357\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001357%20-%20Powers%20of%20immigration%20officers%20and%20employees.md) | Powers of immigration officers and employees. |
-| (a) | Powers without warrant. |
-| (b) | Administration of oath; taking of evidence. |
-| (c) | Search without warrant. |
-| (d) | Detainer of aliens for violation of controlled substances laws. |
-| (e) | Restriction on warrantless entry in case of outdoor agricultural operations. |
-| (f) | Fingerprinting and photographing of certain aliens. |
-| (g) | Performance of immigration officer functions by State officers and employees. |
-| (i) | Protecting abused juveniles. |
 | [1358\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001358%20-%20Local%20jurisdiction%20over%20immigrant%20stations.md) | Local jurisdiction over immigrant stations. |
 | [1359\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001359%20-%20Application%20to%20American%20Indians%20born%20in%20Canada.md) | Application to American Indians born in Canada. |
 | [1360\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001360%20-%20Establishment%20of%20central%20file%3B%20information%20from%20other%20departments%20and%20agencies.md) | Establishment of central file; information from other departments and agencies. |
-| (a) | Establishment of central file. |
-| (b) | Information from other departments and agencies. |
-| (c) | Reports on social security account numbers and earnings of aliens not authorized to work. |
-| (d) | Certification of search of Service records. |
 | [1361\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001361%20-%20Burden%20of%20proof%20upon%20alien.md) | Burden of proof upon alien. |
 | [1362\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001362%20-%20Right%20to%20counsel.md) | Right to counsel. |
 | [1363\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001363%20-%20Deposit%20of%20and%20interest%20on%20cash%20received%20to%20secure%20immigration%20bonds.md) | Deposit of and interest on cash received to secure immigration bonds. |
 | [1363a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001363a%20-%20Undercover%20investigation%20authority.md) | Undercover investigation authority. |
-| (a) | In general. |
-| (b) | Disposition of proceeds no longer required. |
-| (c) | Disposition of certain corporations and business entities. |
-| (d) | Financial audits. |
 | [1363b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001363b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28b%29%20%5Btitle%20I%2C%20%C2%A7109%28b%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%9350%2C%202681%E2%80%9367.md) | Repealed |
 | [1364\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001364%20-%20Triennial%20comprehensive%20report%20on%20immigration.md) | Triennial comprehensive report on immigration. |
-| (a) | Triennial report. |
-| (b) | Details in each report. |
-| (c) | History and projections. |
-| (d) | Recommendations. |
 | [1365\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001365%20-%20Reimbursement%20of%20States%20for%20costs%20of%20incarcerating%20illegal%20aliens%20and%20certain%20Cuban%20nationals.md) | Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals. |
-| (a) | Reimbursement of States. |
-| (b) | Illegal aliens convicted of a felony. |
-| (c) | Marielito Cubans convicted of a felony. |
-| (d) | Authorization of appropriations. |
-| (e) | “State” defined. |
 | [1365a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001365a%20-%20Integrated%20entry%20and%20exit%20data%20system.md) | Integrated entry and exit data system. |
-| (a) | Requirement. |
-| (b) | Integrated entry and exit data system defined. |
-| (c) | Construction. |
-| (d) | Deadlines. |
-| (e) | Reports. |
-| (f) | Authority to provide access to system. |
-| (g) | Use of task force recommendations. |
-| (h) | Authorization of appropriations. |
 | [1365b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001365b%20-%20Biometric%20entry%20and%20exit%20data%20system.md) | Biometric entry and exit data system. |
-| (a) | Finding. |
-| (b) | Definition. |
-| (c) | Plan and report. |
-| (d) | Collection of biometric exit data. |
-| (e) | Integration and interoperability. |
-| (f) | Maintaining accuracy and integrity of entry and exit data system. |
-| (g) | Integrated biometric entry-exit screening system. |
-| (h) | Entry-exit system goals. |
-| (i) | Dedicated specialists and front line personnel training. |
-| (j) | Compliance status reports. |
-| (k) | Expediting registered travelers across international borders. |
-| (<i>l</i>) | Authorization of appropriations. |
 | [1366\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001366%20-%20Annual%20report%20on%20criminal%20aliens.md) | Annual report on criminal aliens. |
 | [1367\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001367%20-%20Penalties%20for%20disclosure%20of%20information.md) | Penalties for disclosure of information. |
-| (a) | In general. |
-| (b) | Exceptions. |
-| (c) | Penalties for violations. |
-| (d) | Guidance. |
 | [1368\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001368%20-%20Increase%20in%20INS%20detention%20facilities%3B%20report%20on%20detention%20space.md) | Increase in INS detention facilities; report on detention space. |
-| (a) | Increase in detention facilities. |
-| (b) | Report on detention space. |
 | [1369\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001369%20-%20Treatment%20of%20expenses%20subject%20to%20emergency%20medical%20services%20exception.md) | Treatment of expenses subject to emergency medical services exception. |
-| (a) | In general. |
-| (b) | Confirmation of immigration status required. |
-| (c) | Administration. |
-| (d) | “Emergency medical condition” defined. |
-| (e) | Effective date. |
 | [1370\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001370%20-%20Reimbursement%20of%20States%20and%20localities%20for%20emergency%20ambulance%20services.md) | Reimbursement of States and localities for emergency ambulance services. |
 | [1371\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001371%20-%20Reports.md) | Reports. |
 | [1372\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001372%20-%20Program%20to%20collect%20information%20relating%20to%20nonimmigrant%20foreign%20students%20and%20other%20exchange%20program%20participants.md) | Program to collect information relating to nonimmigrant foreign students and other exchange program participants. |
-| (a) | In general. |
-| (b) | Covered countries. |
-| (c) | Information to be collected. |
-| (d) | Participation by institutions of higher education and exchange visitor programs. |
-| (e) | Funding. |
-| (f) | Joint report. |
-| (g) | Worldwide applicability of program. |
-| (h) | Definitions. |
 | [1373\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001373%20-%20Communication%20between%20government%20agencies%20and%20the%20Immigration%20and%20Naturalization%20Service.md) | Communication between government agencies and the Immigration and Naturalization Service. |
-| (a) | In general. |
-| (b) | Additional authority of government entities. |
-| (c) | Obligation to respond to inquiries. |
 | [1374\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001374%20-%20Information%20regarding%20female%20genital%20mutilation.md) | Information regarding female genital mutilation. |
-| (a) | Provision of information regarding female genital mutilation. |
-| (b) | Limitation. |
-| (c) | “Female genital mutilation” defined. |
 | [1375\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001375%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20VIII%2C%20%C2%A7833%28g%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203077.md) | Repealed. |
 | [1375a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001375a%20-%20Domestic%20violence%20information%20and%20resources%20for%20immigrants%20and%20regulation%20of%20international%20marriage%20brokers.md) | Domestic violence information and resources for immigrants and regulation of international marriage brokers. |
-| (a) | Information for K nonimmigrants on legal rights and resources for immigrant victims of domestic violence. |
-| (b) | Visa and adjustment interviews. |
-| (c) | Confidentiality. |
-| (d) | Regulation of international marriage brokers. |
-| (e) | Definitions. |
-| (f) | GAO study and report. |
 | [1376\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001376%20-%20Data%20on%20nonimmigrant%20overstay%20rates.md) | Data on nonimmigrant overstay rates. |
-| (a) | Collection of data. |
-| (b) | Annual report. |
 | [1377\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001377%20-%20Collection%20of%20data%20on%20detained%20asylum%20seekers.md) | Collection of data on detained asylum seekers. |
-| (a) | In general. |
-| (b) | Annual reports. |
-| (c) | Availability to public. |
 | [1378\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001378%20-%20Collection%20of%20data%20on%20other%20detained%20aliens.md) | Collection of data on other detained aliens. |
-| (a) | In general. |
-| (b) | Length of detention, transfers, and dispositions. |
-| (c) | Criminal aliens. |
-| (d) | Annual reports. |
-| (e) | Availability to public. |
 | [1379\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001379%20-%20Technology%20standard%20to%20confirm%20identity.md) | Technology standard to confirm identity. |
 | [1380\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001380%20-%20Maintenance%20of%20statistics%20by%20the%20Department%20of%20Homeland%20Security.md) | Maintenance of statistics by the Department of Homeland Security. |
-| (a) | In general. |
-| (b) | Applicability. |
 | [1381\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001381%20-%20Secretary%20of%20Labor%20report.md) | Secretary of Labor report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -734,132 +240,42 @@
 |  |  |
 | :--- | ---: |
 | [1421\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001421%20-%20Naturalization%20authority.md) | Naturalization authority. |
-| (a) | Authority in Attorney General. |
-| (b) | Court authority to administer oaths. |
-| (c) | Judicial review. |
-| (d) | Sole procedure. |
 | [1422\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001422%20-%20Eligibility%20for%20naturalization.md) | Eligibility for naturalization. |
 | [1423\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001423%20-%20Requirements%20as%20to%20understanding%20the%20English%20language%2C%20history%2C%20principles%20and%20form%20of%20government%20of%20the%20United%20States.md) | Requirements as to understanding the English language, history, principles and form of government of the United States. |
 | [1424\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001424%20-%20Prohibition%20upon%20the%20naturalization%20of%20persons%20opposed%20to%20government%20or%20law%2C%20or%20who%20favor%20totalitarian%20forms%20of%20government.md) | Prohibition upon the naturalization of persons opposed to government or law, or who favor totalitarian forms of government. |
 | [1425\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001425%20-%20Ineligibility%20to%20naturalization%20of%20deserters%20from%20the%20Armed%20Forces.md) | Ineligibility to naturalization of deserters from the Armed Forces. |
 | [1426\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001426%20-%20Citizenship%20denied%20alien%20relieved%20of%20service%20in%20Armed%20Forces%20because%20of%20alienage.md) | Citizenship denied alien relieved of service in Armed Forces because of alienage. |
-| (a) | Permanent ineligibility. |
-| (b) | Conclusiveness of records. |
-| (c) | Service in armed forces of foreign country. |
 | [1427\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001427%20-%20Requirements%20of%20naturalization.md) | Requirements of naturalization. |
-| (a) | Residence. |
-| (b) | Absences. |
-| (c) | Physical presence. |
-| (d) | Moral character. |
-| (e) | Determination. |
-| (f) | Persons making extraordinary contributions to national security. |
 | [1428\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001428%20-%20Temporary%20absence%20of%20persons%20performing%20religious%20duties.md) | Temporary absence of persons performing religious duties. |
 | [1429\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001429%20-%20Prerequisite%20to%20naturalization%3B%20burden%20of%20proof.md) | Prerequisite to naturalization; burden of proof. |
 | [1430\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001430%20-%20Married%20persons%20and%20employees%20of%20certain%20nonprofit%20organizations.md) | Married persons and employees of certain nonprofit organizations. |
 | [1431\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001431%20-%20Children%20born%20outside%20the%20United%20States%20and%20residing%20permanently%20in%20the%20United%20States%3B%20conditions%20under%20which%20citizenship%20automatically%E2%80%A6.md) | Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired. |
 | [1432\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001432%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93395%2C%20title%20I%2C%20%C2%A7103%28a%29%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201632.md) | Repealed. |
 | [1433\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001433%20-%20Children%20born%20and%20residing%20outside%20the%20United%20States%3B%20conditions%20for%20acquiring%20certificate%20of%20citizenship.md) | Children born and residing outside the United States; conditions for acquiring certificate of citizenship. |
-| (a) | Application by citizen parents; requirements. |
-| (b) | Attainment of citizenship status; receipt of certificate. |
-| (c) | Adopted children. |
 | [1434\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001434%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93417%2C%20%C2%A77%2C%20Oct.%205%2C%201978%2C%2092%20Stat.%20918.md) | Repealed. |
 | [1435\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001435%20-%20Former%20citizens%20regaining%20citizenship.md) | Former citizens regaining citizenship. |
-| (a) | Requirements. |
-| (b) | Additional requirements. |
-| (c) | Oath of allegiance. |
-| (d) | Persons losing citizenship for failure to meet physical presence retention requirement. |
 | [1436\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001436%20-%20Nationals%20but%20not%20citizens%3B%20residence%20within%20outlying%20possessions.md) | Nationals but not citizens; residence within outlying possessions. |
 | [1437\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001437%20-%20Resident%20Philippine%20citizens%20excepted%20from%20certain%20requirements.md) | Resident Philippine citizens excepted from certain requirements. |
 | [1438\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001438%20-%20Former%20citizens%20losing%20citizenship%20by%20entering%20armed%20forces%20of%20foreign%20countries%20during%20World%20War%20II.md) | Former citizens losing citizenship by entering armed forces of foreign countries during World War II. |
-| (a) | Requirements; oath; certified copies of oath. |
-| (b) | Exceptions. |
-| (c) | Status. |
-| (d) | Span of World War II. |
-| (e) | Inapplicability to certain persons. |
 | [1439\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001439%20-%20Naturalization%20through%20service%20in%20the%20armed%20forces.md) | Naturalization through service in the armed forces. |
-| (a) | Requirements. |
-| (b) | Exceptions. |
-| (c) | Periods when not in service. |
-| (d) | Residence requirements. |
-| (e) | Moral character. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(f)
-
-Revocation.
-
-|  |  |
-| :--- | ---: |
 | [1440\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001440%20-%20Naturalization%20through%20active-duty%20service%20in%20the%20Armed%20Forces%20during%20World%20War%20I%2C%20World%20War%20II%2C%20Korean%20hostilities%2C%20Vietnam%20hostilities%E2%80%A6.md) | Naturalization through active-duty service in the Armed Forces during World War I, World War II, Korean hostilities, Vietnam hostilities, or other periods of military hostilities. |
-| (a) | Requirements. |
-| (b) | Exceptions. |
-| (c) | Revocation. |
 | 1440–1. | Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean hostilities, the Vietnam hostilities, or in other periods of military hostilities. |
-| (a) | Permitting granting of posthumous citizenship. |
-| (b) | Noncitizens eligible for posthumous citizenship. |
-| (c) | Requests for posthumous citizenship. |
-| (d) | Documentation of posthumous citizenship. |
 | 1440a to 1440d. Omitted. |  |
 | [1440e.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001440e%20-%20Exemption%20from%20naturalization%20fees%20for%20aliens%20naturalized%20through%20service%20during%20Vietnam%20hostilities%20or%20other%20subsequent%20period%20of%E2%80%A6.md) | Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of military hostilities; report by clerks of courts to Attorney General. |
 | [1441\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001441%20-%20Constructive%20residence%20through%20service%20on%20certain%20United%20States%20vessels.md) | Constructive residence through service on certain United States vessels. |
 | [1442\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001442%20-%20Alien%20enemies.md) | Alien enemies. |
-| (a) | Naturalization under specified conditions. |
-| (b) | Procedure. |
-| (c) | Exceptions from classification. |
-| (d) | Effect of cessation of hostilities. |
-| (e) | Apprehension and removal. |
 | [1443\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001443%20-%20Administration.md) | Administration. |
-| (a) | Rules and regulations governing examination of applicants. |
-| (b) | Instruction in citizenship. |
-| (c) | Prescription of forms. |
-| (d) | Administration of oaths and depositions. |
-| (e) | Issuance of certificate of naturalization or citizenship. |
-| (f) | Copies of records. |
-| (g) | Furnished quarters for photographic studios. |
-| (h) | Public education regarding naturalization benefits. |
 | [1443a.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001443a%20-%20Naturalization%20proceedings%20overseas%20for%20members%20of%20the%20Armed%20Forces.md) | Naturalization proceedings overseas for members of the Armed Forces. |
 | [1444\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001444%20-%20Photographs%3B%20number.md) | Photographs; number. |
 | [1445\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001445%20-%20Application%20for%20naturalization%3B%20declaration%20of%20intention.md) | Application for naturalization; declaration of intention. |
-| (a) | Evidence and form. |
-| (b) | Who may file. |
-| (c) | Hearings. |
-| (d) | Filing of application. |
-| (e) | Substitute filing place and administering oath other than before Attorney General. |
-| (f) | Declaration of intention. |
 | [1446\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001446%20-%20Investigation%20of%20applicants%3B%20examination%20of%20applications.md) | Investigation of applicants; examination of applications. |
-| (a) | Waiver. |
-| (b) | Conduct of examinations; authority of designees; record. |
-| (c) | Transmittal of record of examination. |
-| (d) | Determination to grant or deny application. |
-| (e) | Withdrawal of application. |
-| (f) | Transfer of application. |
 | [1447\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001447%20-%20Hearings%20on%20denials%20of%20applications%20for%20naturalization.md) | Hearings on denials of applications for naturalization. |
-| (a) | Request for hearing before immigration officer. |
-| (b) | Request for hearing before district court. |
-| (c) | Appearance of Attorney General. |
-| (d) | Subpena of witnesses. |
-| (e) | Change of name. |
 | [1448\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001448%20-%20Oath%20of%20renunciation%20and%20allegiance.md) | Oath of renunciation and allegiance. |
-| (a) | Public ceremony. |
-| (b) | Hereditary titles or orders of nobility. |
-| (c) | Expedited judicial oath administration ceremony. |
-| (d) | Rules and regulations. |
 | [1448a.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001448a%20-%20Address%20to%20newly%20naturalized%20citizens.md) | Address to newly naturalized citizens. |
 | [1449\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001449%20-%20Certificate%20of%20naturalization%3B%20contents.md) | Certificate of naturalization; contents. |
 | [1450\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001450%20-%20Functions%20and%20duties%20of%20clerks%20and%20records%20of%20declarations%20of%20intention%20and%20applications%20for%20naturalization.md) | Functions and duties of clerks and records of declarations of intention and applications for naturalization. |
 | [1451\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001451%20-%20Revocation%20of%20naturalization.md) | Revocation of naturalization. |
-| (a) | Concealment of material evidence; refusal to testify. |
-| (b) | Notice to party. |
-| (c) | Membership in certain organizations; prima facie evidence. |
-| (d) | Applicability to citizenship through naturalization of parent or spouse. |
-| (e) | Citizenship unlawfully procured. |
-| (f) | Cancellation of certificate of naturalization. |
-| (g) | Applicability to certificates of naturalization and citizenship. |
-| (h) | Power to correct, reopen, alter, modify, or vacate order. |
 | [1452\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001452%20-%20Certificates%20of%20citizenship%20or%20U.S.%20non-citizen%20national%20status%3B%20procedure.md) | Certificates of citizenship or U.S. non-citizen national status; procedure. |
-| (a) | Application to Attorney General for certificate of citizenship; proof; oath of allegiance. |
-| (b) | Application to Secretary of State for certificate of non-citizen national status; proof; oath of allegiance. |
 | [1453\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001453%20-%20Cancellation%20of%20certificates%20issued%20by%20Attorney%20General%2C%20the%20Commissioner%20or%20a%20Deputy%20Commissioner%3B%20action%20not%20to%20affect%20citizenship%20status.md) | Cancellation of certificates issued by Attorney General, the Commissioner or a Deputy Commissioner; action not to affect citizenship status. |
 | [1454\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001454%20-%20Documents%20and%20copies%20issued%20by%20Attorney%20General.md) | Documents and copies issued by Attorney General. |
 | [1455\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001455%20-%20Fiscal%20provisions.md) | Fiscal provisions. |
@@ -890,9 +306,6 @@ Revocation.
 | [1501\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2001501%20-%20Certificate%20of%20diplomatic%20or%20consular%20officer%20of%20United%20States%20as%20to%20loss%20of%20American%20nationality.md) | Certificate of diplomatic or consular officer of United States as to loss of American nationality. |
 | [1502\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2001502%20-%20Certificate%20of%20nationality%20issued%20by%20Secretary%20of%20State%20for%20person%20not%20a%20naturalized%20citizen%20of%20United%20States%20for%20use%20in%20proceedings%20of%20a%E2%80%A6.md) | Certificate of nationality issued by Secretary of State for person not a naturalized citizen of United States for use in proceedings of a foreign state. |
 | [1503\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2001503%20-%20Denial%20of%20rights%20and%20privileges%20as%20national.md) | Denial of rights and privileges as national. |
-| (a) | Proceedings for declaration of United States nationality. |
-| (b) | Application for certificate of identity; appeal. |
-| (c) | Application for admission to United States under certificate of identity; revision of determination. |
 | [1504\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2001504%20-%20Cancellation%20of%20United%20States%20passports%20and%20Consular%20Reports%20of%20Birth.md) | Cancellation of United States passports and Consular Reports of Birth. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -903,12 +316,6 @@ Revocation.
 | :--- | ---: |
 | [1521\.](Subchapter%20004%20%28IV%29%20-%20Refugee%20Assistance/%C2%A7%2001521%20-%20Office%20of%20Refugee%20Resettlement%3B%20establishment%3B%20appointment%20of%20Director%3B%20functions.md) | Office of Refugee Resettlement; establishment; appointment of Director; functions. |
 | [1522\.](Subchapter%20004%20%28IV%29%20-%20Refugee%20Assistance/%C2%A7%2001522%20-%20Authorization%20for%20programs%20for%20domestic%20resettlement%20of%20and%20assistance%20to%20refugees.md) | Authorization for programs for domestic resettlement of and assistance to refugees. |
-| (a) | Conditions and considerations. |
-| (b) | Program of initial resettlement. |
-| (c) | Project grants and contracts for services for refugees. |
-| (d) | Assistance for refugee children. |
-| (e) | Cash assistance and medical assistance to refugees. |
-| (f) | Assistance to States and counties for incarceration of certain Cuban nationals; priority for removal and return to Cuba. |
 | [1523\.](Subchapter%20004%20%28IV%29%20-%20Refugee%20Assistance/%C2%A7%2001523%20-%20Congressional%20reports.md) | Congressional reports. |
 | [1524\.](Subchapter%20004%20%28IV%29%20-%20Refugee%20Assistance/%C2%A7%2001524%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1525\.](Subchapter%20004%20%28IV%29%20-%20Refugee%20Assistance/%C2%A7%2001525%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28m%29%283%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20409.md) | Repealed. |
@@ -921,44 +328,11 @@ Revocation.
 | :--- | ---: |
 | [1531\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001531%20-%20Definitions.md) | Definitions. |
 | [1532\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001532%20-%20Establishment%20of%20removal%20court.md) | Establishment of removal court. |
-| (a) | Designation of judges. |
-| (b) | Terms. |
-| (c) | Chief judge. |
-| (d) | Expeditious and confidential nature of proceedings. |
-| (e) | Establishment of panel of special attorneys. |
 | [1533\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001533%20-%20Removal%20court%20procedure.md) | Removal court procedure. |
-| (a) | Application. |
-| (b) | Right to dismiss. |
-| (c) | Consideration of application. |
-| (d) | Exclusive provisions. |
 | [1534\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001534%20-%20Removal%20hearing.md) | Removal hearing. |
-| (a) | In general. |
-| (b) | Notice. |
-| (c) | Rights in hearing. |
-| (d) | Subpoenas. |
-| (e) | Discovery. |
-| (f) | Arguments. |
-| (g) | Burden of proof. |
-| (h) | Rules of evidence. |
-| (i) | Determination of deportation. |
-| (j) | Written order. |
-| (k) | No right to ancillary relief. |
-| (<i>l</i>) | Report on terrorist removal proceedings. |
 | [1535\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001535%20-%20Appeals.md) | Appeals. |
-| (a) | Appeal of denial of application for removal proceedings. |
-| (b) | Appeal of determination regarding summary of classified information. |
-| (c) | Appeal of decision in hearing. |
-| (d) | Certiorari. |
-| (e) | Appeal of detention order. |
 | [1536\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001536%20-%20Custody%20and%20release%20pending%20removal%20hearing.md) | Custody and release pending removal hearing. |
-| (a) | Upon filing application. |
-| (b) | Conditional release if order denied and review sought. |
 | [1537\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001537%20-%20Custody%20and%20release%20after%20removal%20hearing.md) | Custody and release after removal hearing. |
-| (a) | Release. |
-| (b) | Custody and removal. |
-| (c) | Continued detention pending trial. |
-| (d) | Application of certain provisions relating to escape of prisoners. |
-| (e) | Rights of aliens in custody. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

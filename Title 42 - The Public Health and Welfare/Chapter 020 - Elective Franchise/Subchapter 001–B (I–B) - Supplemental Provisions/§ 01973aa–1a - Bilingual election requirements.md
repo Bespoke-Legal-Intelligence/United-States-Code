@@ -8,19 +8,19 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 #### (1) Generally
 
-&emsp;Before August 6, 2007, no covered State or political subdivision shall provide voting materials only in the English language.
+&emsp;Before August 6, 2032, no covered State or political subdivision shall provide voting materials only in the English language.
 
 #### (2) Covered States and political subdivisions
 
 #### (A) Generally
 
-&emsp;&emsp;A State or political subdivision is a covered State or political subdivision for the purposes of this subsection if the Director of the Census determines, based on census data, that—
+&emsp;&emsp;A State or political subdivision is a covered State or political subdivision for the purposes of this subsection if the Director of the Census determines, based on the 2010 American Community Survey census data and subsequent American Community Survey data in 5-year increments, or comparable census data, that—
 
 &emsp;&emsp;&emsp;(i)(I) more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and are limited-English proficient;
 
 &emsp;&emsp;&emsp;(II) more than 10,000 of the citizens of voting age of such political subdivision are members of a single language minority and are limited-English proficient; or
 
-&emsp;&emsp;&emsp;(III) in the case of a political subdivision that contains all or any part of an Indian reservation, more than 5 percent of the American Indian or Alaska Native citizens of voting age within the Indian reservation are members of a single language minority and are limited-English proficient; and
+&emsp;&emsp;&emsp;(III) in the case of a political subdivision that contains all or any part of an Indianreservation, more than 5 percent of the American Indian or Alaska Native citizens of voting age within the Indian reservation are members of a single language minority and are limited-English proficient; and
 
 &emsp;&emsp;&emsp;(ii) the illiteracy rate of the citizens in the language minority as a group is higher than the national illiteracy rate.
 
@@ -58,11 +58,15 @@ Any State or political subdivision subject to the prohibition of subsection (b) 
 
 For purposes of this section, the term “language minorities” or “language minority group” means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
 
-(Pub. L. 89–110, title II, §203, as added Pub. L. 94–73, title III, §301, Aug. 6, 1975, 89 Stat. 402; amended Pub. L. 97–205, §§2(d), 4, June 29, 1982, 96 Stat. 134; Pub. L. 102–344, §2, Aug. 26, 1992, 106 Stat. 921.)
+(Pub. L. 89–110, title II, §203, as added Pub. L. 94–73, title III, §301, Aug. 6, 1975, 89 Stat. 402; amended Pub. L. 97–205, §§2(d), 4, June 29, 1982, 96 Stat. 134; Pub. L. 102–344, §2, Aug. 26, 1992, 106 Stat. 921; Pub. L. 109–246, §§7, 8, July 27, 2006, 120 Stat. 581.)
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–344 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to August 6, 1992, no State or political subdivision shall provide registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, only in the English language if the Director ofthe Census determines (i) that more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and (ii) that the illiteracy rate of such persons as a group is higher than the national illiteracy rate: <i>Provided</i>, That the prohibitions of this subsection shall not apply in any political subdivision which has less than five percent voting age citizens of each language minority which comprises over five percent of the statewide population of voting age citizens. For purposes of this subsection, illiteracy means the failure to complete the fifth primary grade. The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.”
+2006—Subsec. (b)(1). Pub. L. 109–246, §7, substituted “2032” for “2007”.
+
+Subsec. (b)(2)(A). Pub. L. 109–246, §8, substituted “the 2010 American Community Survey census data and subsequent American Community Survey data in 5-year increments, or comparable census data” for “census data” in introductory provisions.
+
+1992—Subsec. (b). Pub. L. 102–344 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to August 6, 1992, no State or political subdivision shall provide registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, only in the English language if the Director of the Census determines (i) that more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and (ii) that the illiteracy rate of such persons as a group is higher than the national illiteracy rate: <i>Provided</i>, That the prohibitions of this subsection shall not apply in any political subdivision which has less than five percent voting age citizens of each language minority which comprises over five percent of the statewide population of voting age citizens. For purposes of this subsection, illiteracy means the failure to complete the fifth primary grade. The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.”
 
 1982—Subsec. (b). Pub. L. 97–205, §4, substituted “Prior to August 6, 1992” for “Prior to August 6, 1985”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Expansion and coordination of activities
 
-The Director of the Institute, in consultation with the National Cancer Advisory Board, shall expand, intensify, and coordinate the activities of the Institute with respect to research on breast cancer, ovarian cancer, and other cancers of the reproductive system of women.
+The Director of the Institute, in consultation with the National Cancer Advisory Board, shall expand, intensify, and coordinate the activities of the Institute with respect to research onbreast cancer, ovarian cancer, and other cancers of the reproductive system of women.
 
 #### (b) Coordination with other institutes
 
@@ -44,7 +44,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(2) clinical research and related activities into the causes, prevention, detection and treatment of ovarian cancer and other cancers of the reproductive system of women;
 
-&emsp;(3) control programs with respect to ovarian cancer and other cancers of the reproductivesystem of women in accordance with section 285a–1 of this title;
+&emsp;(3) control programs with respect to ovarian cancer and other cancers of the reproductive system of women in accordance with section 285a–1 of this title;
 
 &emsp;(4) information and education programs with respect to ovarian cancer and other cancers of the reproductive system of women in accordance with section 285a–2 of this title; and
 
@@ -52,7 +52,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 #### (e) Report
 
-The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b of this title, a report that describes the activities of the National Cancer Institute under the research programs referred to in subsection (a) of this section, that shall include—
+The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b <sup>3</sup> of this title, a report that describes the activities of the National Cancer Institute under the research programs referred to in subsection (a) of this section, that shall include—
 
 &emsp;(1) a description of the research plan with respect to breast cancer prepared under subsection (c) of this section;
 
@@ -66,6 +66,10 @@ The Director of the Institute shall prepare, for inclusion in the biennial repor
 
 (July 1, 1944, ch. 373, title IV, §417, as added Pub. L. 103–43, title IV, §401, June 10, 1993, 107 Stat. 153.)
 
+#### References in Text
+
+Section 284b of this title, referred to in subsec. (e), was repealed by Pub. L. 109–482, title I, §104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -75,4 +79,6 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be section “285a–2(b)(9)”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

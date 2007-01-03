@@ -90,8 +90,6 @@
 | :--- | ---: |
 | 1351 to 1353. Omitted. |  |
 | 1354\. | Quotas on Philippine articles. |
-| (a) | to (c) Omitted. |
-| (d) | Investigations by International Trade Commission. |
 | 1355\. | Suspension of processing tax on coconut oil. |
 | 1356\. | Termination of payments into Philippine treasury. |
 | 1357\. | Trade agreements with the Philippines. |
@@ -132,9 +130,6 @@
 | 1392\. | Acquisition of military and naval bases by United States. |
 | 1393\. | Supplementary sinking fund for bond payments; purchase of bonds by United States; creation of special trust account. |
 | 1394\. | Recognition of Philippine independence. |
-| (a) | Withdrawal of American sovereignty. |
-| (b) | Naval reservations and fueling stations. |
-| (c) | Property for diplomatic purposes. |
 | 1395\. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

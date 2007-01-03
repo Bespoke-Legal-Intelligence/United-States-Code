@@ -6,7 +6,7 @@ The Director shall measure and evaluate the impact of all programs authorized by
 
 #### (b) General standards; publication; reports of ensuing actions
 
-The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
+The Director shall develop and publish general standards for evaluation of program and projecteffectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
 
 #### (c) Opinions of participants
 
@@ -74,7 +74,7 @@ Committee on Education and Labor of House of Representatives treated as referrin
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a noteunder section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1986 Amendment
 

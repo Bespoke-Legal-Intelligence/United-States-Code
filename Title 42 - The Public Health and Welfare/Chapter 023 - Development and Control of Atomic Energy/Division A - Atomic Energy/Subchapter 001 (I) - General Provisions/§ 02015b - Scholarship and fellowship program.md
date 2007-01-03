@@ -26,7 +26,7 @@ To enable students to pursue education in science, engineering, or another field
 
 &emsp;As a condition of receiving a scholarship or fellowship under subsection (a) or (b) of this section, a recipient of the scholarship or fellowship shall enter into an agreement with the Commission under which, in return for the assistance, the recipient shall—
 
-&emsp;&emsp;(A) maintain satisfactory academic progress in the studies of the recipient, asdetermined by criteria established by the Commission;
+&emsp;&emsp;(A) maintain satisfactory academic progress in the studies of the recipient, as determined by criteria established by the Commission;
 
 &emsp;&emsp;(B) agree that failure to maintain satisfactory academic progress shall constitute grounds on which the Commission may terminate the assistance;
 

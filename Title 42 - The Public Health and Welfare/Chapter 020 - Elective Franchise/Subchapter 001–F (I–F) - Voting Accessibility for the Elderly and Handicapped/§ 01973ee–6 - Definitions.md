@@ -6,7 +6,7 @@ As used in this subchapter, the term—
 
 &emsp;(2) “elderly” means 65 years of age or older;
 
-&emsp;(3) “Federal election” means a general, special, primary, or runoff election for the officeof President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
+&emsp;(3) “Federal election” means a general, special, primary, or runoff election for the office of President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
 
 &emsp;(4) “handicapped” means having a temporary or permanent physical disability; and
 

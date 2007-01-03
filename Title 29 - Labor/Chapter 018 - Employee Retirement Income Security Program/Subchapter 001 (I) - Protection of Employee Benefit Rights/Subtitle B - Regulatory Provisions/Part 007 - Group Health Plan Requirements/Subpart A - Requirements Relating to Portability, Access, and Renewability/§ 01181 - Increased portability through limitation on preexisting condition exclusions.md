@@ -8,7 +8,7 @@ Subject to subsection (d) of this section, a group health plan, and a health ins
 
 &emsp;(2) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date; and
 
-&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, as defined in subsection (c)(1) of this section) applicable to the participant or beneficiary as of the enrollment date.
+&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, asdefined in subsection (c)(1) of this section) applicable to the participant or beneficiary as of the enrollment date.
 
 #### (b) Definitions
 
@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period thatan individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (3) Method of crediting coverage
 
@@ -242,7 +242,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B\(§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -314,7 +314,7 @@ Special rule for collective bargaining agreements.—Except as provided in parag
 
 “(4)
 
-Timely regulations.—The Secretary of Labor, consistent with section 104 \[42 U.S.C. 300gg–92 note\],shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section.
+Timely regulations.—The Secretary of Labor, consistent with section 104 \[42 U.S.C. 300gg–92 note\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section.
 
 “(5)
 

@@ -78,7 +78,7 @@ In this Compact:
 
 #### (11) Executive order
 
-&emsp;The term “Executive order” means an order of the President of the United States or the chief executive officer of a State that has theforce of law and that is promulgated in accordance with applicable law.
+&emsp;The term “Executive order” means an order of the President of the United States or the chief executive officer of a State that has the force of law and that is promulgated in accordance with applicable law.
 
 #### (12) FBI
 
@@ -160,7 +160,7 @@ The Director of the FBI shall—
 
 &emsp;(1) appoint an FBI Compact officer who shall—
 
-&emsp;&emsp;(A) administer this Compact within the Department of Justice and among Federalagencies and other agencies and organizations that submit search requests to the FBI pursuant to Article V(c);
+&emsp;&emsp;(A) administer this Compact within the Department of Justice and among Federal agencies and other agencies and organizations that submit search requests to the FBI pursuant to Article V(c);
 
 &emsp;&emsp;(B) ensure that Compact provisions and rules, procedures, and standards prescribed by the Council under Article VI are complied with by the Department of Justice and the Federal agencies and other agencies and organizations referred to in Article III(1)(A); and
 
@@ -232,7 +232,7 @@ Any record obtained under this Compact may be used only for the official purpose
 
 #### (a) Positive identification
 
-Subject fingerprints or other approved forms of positive identification shall be submittedwith all requests for criminal history record checks for noncriminal justice purposes.
+Subject fingerprints or other approved forms of positive identification shall be submitted with all requests for criminal history record checks for noncriminal justice purposes.
 
 #### (b) Submission of State requests
 
@@ -344,7 +344,7 @@ This Compact shall take effect upon being entered into by 2 or more States as be
 
 #### (a) Relation of Compact to certain FBI activities
 
-Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisory policy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
+Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisorypolicy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
 
 #### (b) No authority for nonappropriated expenditures
 
@@ -390,7 +390,7 @@ The Council shall—
 
 #### (b) Duties of FBI
 
-The FBI shall exercise immediate and necessary action to preserve the integrity of the IIISystem, maintain system policy and standards, protect the accuracy and privacy of records, and to prevent abuses, until the Council holds a hearing on such matters.
+The FBI shall exercise immediate and necessary action to preserve the integrity of the III System, maintain system policy and standards, protect the accuracy and privacy of records, and to prevent abuses, until the Council holds a hearing on such matters.
 
 #### (c) Right of appeal
 

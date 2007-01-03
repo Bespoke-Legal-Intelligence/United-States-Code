@@ -34,7 +34,7 @@ The Secretary, acting through the Service, shall—
 
 #### (c) Task force
 
-The Secretary shall establish a task force to be known as the FAS/FAE Task Force to advisethe Secretary in carrying out subsection (b) of this section. Such task force shall be composed of representatives from the National Institute on Drug Abuse, the National Institute on Alcohol and Alcoholism, the Office of Substance Abuse Prevention, the National Institute of Mental Health, the Service, the Office of Minority Health of the Department of Health and Human Services, the Administration for Native Americans, the Bureau of Indian Affairs, Indian tribes, tribal organizations, urban Indian communities, and Indian FAS/FAE experts.
+The Secretary shall establish a task force to be known as the FAS/FAE Task Force to advise the Secretary in carrying out subsection (b) of this section. Such task force shall be composed of representatives from the National Institute on Drug Abuse, the National Institute on Alcohol and Alcoholism, the Office of Substance Abuse Prevention, the National Institute of Mental Health, the Service, the Office of Minority Health of the Department of Health and Human Services, the Administration for Native Americans, the Bureau of Indian Affairs, Indian tribes, tribal organizations, urban Indian communities, and Indian FAS/FAE experts.
 
 #### (d) Cooperative projects; research projects
 

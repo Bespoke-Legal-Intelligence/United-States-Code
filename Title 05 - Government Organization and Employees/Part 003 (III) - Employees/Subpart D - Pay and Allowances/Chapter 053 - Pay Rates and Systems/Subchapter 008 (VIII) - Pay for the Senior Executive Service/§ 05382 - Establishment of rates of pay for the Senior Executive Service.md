@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 101–509, §529 \[title I, §101(b)(4)(B)\], substituted �
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–136 effective on first day of first pay period beginning on or after Jan. 1, 2004, butnot to result in reduction in rate of basic pay for any senior executive during first year after effective date, see section 1125(c) of Pub. L. 108–136, set out as a note under section 5304 of this title.
+Amendment by Pub. L. 108–136 effective on first day of first pay period beginning on or after Jan. 1, 2004, but not to result in reduction in rate of basic pay for any senior executive during first year after effective date, see section 1125(c) of Pub. L. 108–136, set out as a note under section 5304 of this title.
 
 #### Effective Date of 1990 Amendment
 

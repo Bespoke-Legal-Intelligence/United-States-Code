@@ -4,7 +4,3 @@ The excess-land provisions of the Federal reclamation laws shall not be applicab
 
 (June 16, 1938, ch. 485, 52 Stat. 764.)
 
-#### References in Text
-
-The Federal reclamation laws, referred to in text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
-

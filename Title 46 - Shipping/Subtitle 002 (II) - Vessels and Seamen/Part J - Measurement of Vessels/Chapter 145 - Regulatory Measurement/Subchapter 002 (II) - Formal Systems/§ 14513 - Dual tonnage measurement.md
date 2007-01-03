@@ -8,7 +8,7 @@
 
 (2) Except as provided in paragraph (1) of this subsection, a certificate stating a vessel's tonnages may state only one set of gross and net tonnages.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
 
 #### Historical and Revision Notes
 
@@ -20,5 +20,5 @@ Section 14513 gives discretionary authority to the Secretary to exclude certain 
 
 #### References in Text
 
-Section 2 of the Act of September 29, 1965, referred to in subsec. (a), was classified to section 83a of the Appendix to this title and was repealed by section 5104(b) of Pub. L. 99–509.
+Section 2 of the Act of September 29, 1965, referred to in subsec. (a), was classified to section 83a of the former Appendix to this title and was repealed by Pub. L. 99–509, title V, §5104(b), Oct. 21, 1986, 100 Stat. 1928.
 

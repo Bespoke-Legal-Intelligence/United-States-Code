@@ -4,13 +4,15 @@
 
 (b) When a decision is made to carry out a military construction project under this section, the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (1) the justification for the project and the current estimate of the cost of the project, (2) the justification for carrying out the project under this section, and (3) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
-(c)(1) The maximum amount that the Secretary concerned may obligate in any fiscal year under this section is $45,000,000.
+(c)(1) The maximum amount that the Secretary concerned may obligate in any fiscal year under this section is $50,000,000.
 
 (2) A project carried out under this section shall be carried out within the total amount of funds appropriated for military construction that have not been obligated.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 102–190, div. B, title XXVIII, §§2803, 2870(2), Dec. 5, 1991, 105 Stat. 1537, 1562; Pub. L. 102–484, div. A, title X, §1053(9), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(34), div. B, title XXVIII, §2802, Nov. 24, 2003, 117 Stat. 1600, 1719.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 102–190, div. B, title XXVIII, §§2803, 2870(2), Dec. 5, 1991, 105 Stat. 1537, 1562; Pub. L. 102–484, div. A, title X, §1053(9), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(34), div. B, title XXVIII, §2802, Nov. 24, 2003, 117 Stat. 1600, 1719; Pub. L. 109–364, div. B, title XXVIII, §2801, Oct. 17, 2006, 120 Stat. 2466.)
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–364 substituted “$50,000,000” for “$45,000,000”.
 
 2003—Subsec. (b). Pub. L. 108–136, §1031(a)(34), inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, in collaboration with the Administrator of the Health Resources and Services Administrationand the heads of other agencies, and in consultation with appropriate health professional associations, shall develop and carry out a program to educate and train health professionals in effective strategies to—
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, in collaboration with the Administrator of the Health Resources and Services Administration and the heads of other agencies, and in consultation with appropriate health professional associations, shall develop and carry out a program to educate and train health professionals in effective strategies to—
 
 &emsp;(1) better identify and assess patients with obesity or an eating disorder or patients at-risk of becoming obese or developing an eating disorder;
 

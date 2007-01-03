@@ -138,7 +138,7 @@ In subsection (c), the words “disability retirement pay” are omitted as cove
 
 #### Amendments
 
-2006—Subsec. (c)(2). Pub. L. 109–163, §687(b)(4)(A), added second sentence and struck out former secondsentence which read as follows: “If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period of active duty that he served, and he may be required to refund any amount in excess of that entitlement.”
+2006—Subsec. (c)(2). Pub. L. 109–163, §687(b)(4)(A), added second sentence and struck out former second sentence which read as follows: “If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period of active duty that he served, and he may be required to refund any amount in excess of that entitlement.”
 
 Subsec. (f). Pub. L. 109–163, §687(b)(4)(B), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “An officer who voluntarily terminates service on active duty before the end of the period for which a payment was made to such officer under subsection (a)(4) or (b)(1) shall refund to the United States an amount which bears the same ratio to the amount paid to such officer as the unserved part of such period bears to the total period for which the payment was made.”
 
@@ -222,7 +222,7 @@ Subsec. (i). Pub. L. 99–661, §1343(b)(1), substituted “subsection (c)(2) or
 
 Subsec. (i). Pub. L. 99–145, §640(2), added subsec. (i).
 
-1980—Pub. L. 96–284, in revising text, added subsecs. (a) to (g) provisions covering special pay for medical officers of the armed forces, and struck out former provision for special pay of physicians in the Army, Navy, Air Force, and Public Health Service, amounting to $100 or $350 a month for each month of active duty in cases of active duty in named category of less than two years or two years or more of duty, now covered as toPublic Health Service in section 302c of this title, and struck out prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
+1980—Pub. L. 96–284, in revising text, added subsecs. (a) to (g) provisions covering special pay for medical officers of the armed forces, and struck out former provision for special pay of physicians in the Army, Navy, Air Force, and Public Health Service, amounting to $100 or $350 a month for each month of active duty in cases of active duty in named category of less than two years or two years or more of duty, now covered as to Public Health Service in section 302c of this title, and struck out prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
 Subsec. (h). Pub. L. 96–513 added subsec. (h).
 

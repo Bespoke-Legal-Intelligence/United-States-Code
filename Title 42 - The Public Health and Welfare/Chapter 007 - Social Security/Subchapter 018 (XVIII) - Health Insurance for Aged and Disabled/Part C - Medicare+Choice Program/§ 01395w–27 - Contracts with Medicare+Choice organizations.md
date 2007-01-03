@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+The Secretary shall not permit the election under section 1395w–21 of this title of aMedicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (b) Minimum enrollment requirements
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this sectionwith a Medicare+Choice organization unless the organization has—
+&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this section with a Medicare+Choice organization unless the organization has—
 
 &emsp;&emsp;(A) at least 5,000 individuals (or 1,500 individuals in the case of an organization that is a provider-sponsored organization) who are receiving health benefits through the organization, or
 
@@ -140,7 +140,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (C) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by the amount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
+&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by theamount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
 
 #### (D) Limitation
 
@@ -154,7 +154,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;(III) $100,000,000 in fiscal year 2000;
 
-&emsp;&emsp;&emsp;(IV) the Medicare+Choice portion (as defined in subparagraph (E)) of $100,000,000 infiscal year 2001 and each succeeding fiscal year before fiscal year 2006; and
+&emsp;&emsp;&emsp;(IV) the Medicare+Choice portion (as defined in subparagraph (E)) of $100,000,000 in fiscal year 2001 and each succeeding fiscal year before fiscal year 2006; and
 
 &emsp;&emsp;&emsp;(V) the applicable portion (as defined in subparagraph (F)) of $200,000,000 in fiscal year 2006 and each succeeding fiscal year.
 
@@ -338,13 +338,13 @@ Amendment by section 237(c) of Pub. L. 108–173 applicable to services provided
 
 Pub. L. 106–554, §1(a)(6) \[title VI, §617(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–562, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to years beginning with 2001.”
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §623(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to terminations occurring after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(6) \[title VI, §623(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that: “Theamendment made by subsection (a) \[amending this section\] shall apply to terminations occurring after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, provided that: “The amendments made by this section \[amending this section\] apply to contract terminations occurring before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387, provided that:“The amendments made by subsection (a) \[amending this section\] apply to fees charged on or after January 1, 2001. The Secretary of Health and Human Services may not increase the fees charged under section 1857(e)(2) of the Social Security Act (42 U.S.C. 1395w–27(e)(2)) for the 3-month period beginning with October 2000 above the level in effect during the previous 9-month period.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387, provided that: “The amendments made by subsection (a) \[amending this section\] apply to fees charged on or after January 1, 2001. The Secretary of Health and Human Services may not increase the fees charged under section 1857(e)(2) of the Social Security Act (42 U.S.C. 1395w–27(e)(2)) for the 3-month period beginning with October 2000 above the level in effect during the previous 9-month period.”
 
 #### Construction Relating to Additional Exceptions
 
@@ -352,15 +352,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(b)(2)\], Nov. 29, 1999,
 
 #### Study of Multi-Year Contracts
 
-Pub. L. 108–173, title I, §107(d), Dec. 8, 2003, 117 Stat. 2171, provided that:
-
-“(1)
-
-In general.—The Secretary \[of Health and Human Services\] shall provide for a study on the feasibility and advisability of providing for contracting with PDP sponsors and MA organizations under parts C and D of title XVIII \[this part and part D of this subchapter\] on a multi-year basis.
-
-“(2)
-
-Report.—Not later than January 1, 2007, the Secretary shall submit to Congress a report on the study under paragraph (1). The report shall include such recommendations as the Secretary deems appropriate.”
+Pub. L. 108–173, title I, §107(d), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to provide for a study on the feasibility and advisability of providing for contracting with PDP sponsors and MA organizations under this part and part D of this subchapter on a multi-year basis, and to submit to Congress a report on such study not later than Jan. 1, 2007.
 
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 

@@ -8,7 +8,7 @@
 
 (c)(1) There is hereby established in the Treasury of the United States a revolving fund known as the Department of Veterans Affairs Special Therapeutic and Rehabilitation Activities Fund (hereinafter in this section referred to as the “fund”) for the purpose of furnishing rehabilitative services authorized in subsection (b) or (d). Such amounts of the fund as the Secretary may determine to be necessary to establish and maintain operating accounts for the various rehabilitative services activities may be deposited in checking accounts in other depositaries selected or established by the Secretary.
 
-(2) All funds received by the Department under contractual arrangements made under subsection (b) or (d), or by nonprofit entities described in subsection (b)(2), shall be deposited in or credited to the fund, and the Secretary shall distribute out of the fund moneys to participants at rates not less than the wage rates specified in the Fair Labor Standards Act (29 U.S.C. 201 et seq.) and regulations prescribed thereunder for work of similar character.
+(2) All funds received by the Department under contractual arrangements made under subsection (b) or (d), or by nonprofit entities described in subsection (b)(2), shall be deposited in or credited to the fund, and the Secretary shall distribute out of the fund moneys to participants at rates not less than the wage rates specified in the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) and regulations prescribed thereunder for work of similar character.
 
 (3) The Under Secretary for Health shall prepare, for inclusion in the annual report submitted to Congress under section 529 of this title, a description of the scope and achievements of activities carried out under this section (including pertinent data regarding productivity and rates of distribution) during the prior twelve months and an estimate of the needs of the program of therapeutic and rehabilitation activities to be carried out under this section for the ensuing fiscal year.
 
@@ -38,13 +38,19 @@
 
 (3) A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
-(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I, §104(b), Dec. 6, 2003, 117 Stat. 2045.)
+(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I, §104(b), Dec. 6, 2003, 117 Stat. 2045; Pub. L. 109–444, §8(a)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
 
 #### References in Text
 
-The Fair Labor Standards Act, referred to in subsec. (c)(2), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+2006—Subsec. (c)(2). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §1004(a)(1), inserted “of 1938” after “Act”.
+
+Pub. L. 109–444, which inserted “of 1938” after “Act”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2003—Subsec. (c)(1). Pub. L. 108–170, §104(b)(2)(A), substituted “subsection (b) or (d)” for “subsection (b) of this section”.
 

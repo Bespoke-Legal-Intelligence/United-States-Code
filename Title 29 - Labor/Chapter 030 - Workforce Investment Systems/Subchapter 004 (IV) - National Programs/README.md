@@ -14,5 +14,6 @@
 - [&sect; 02916a - Job training grants](%C2%A7%2002916a%20-%20Job%20training%20grants.md)
 - [&sect; 02917 - Evaluations](%C2%A7%2002917%20-%20Evaluations.md)
 - [&sect; 02918 - National emergency grants](%C2%A7%2002918%20-%20National%20emergency%20grants.md)
+- [&sect; 02918a - YouthBuild program](%C2%A7%2002918a%20-%20YouthBuild%20program.md)
 - [&sect; 02919 - Authorization of appropriations](%C2%A7%2002919%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 02920 - Educational assistance and training](%C2%A7%2002920%20-%20Educational%20assistance%20and%20training.md)

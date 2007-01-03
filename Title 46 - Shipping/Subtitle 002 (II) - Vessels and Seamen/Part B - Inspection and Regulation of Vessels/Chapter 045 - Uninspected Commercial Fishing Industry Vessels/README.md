@@ -19,10 +19,6 @@
 
 1988—Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585, in chapter heading substituted “UNINSPECTED COMMERCIAL FISHING INDUSTRY VESSELS” for “FISH PROCESSING VESSELS”, substituted “Safety standards” for “Regulations” in item 4502, “Fish processing vessel certification” for “Equivalency” in item 4503, “Prohibited acts” for “Penalties” in item 4504, and added items 4505 to 4508.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2102, 4101 of this title.
-
 
 ---
 

@@ -6,15 +6,8 @@
 | [1002\.](%C2%A7%2001002%20-%20Definitions.md) | Definitions |
 | [1003\.](%C2%A7%2001003%20-%20Assistance%20to%20local%20organizations.md) | Assistance to local organizations. |
 | [1003a.](%C2%A7%2001003a%20-%20Cost%20share%20assistance.md) | Cost share assistance. |
-| (a) | Easements. |
-| (b) | Amount. |
 | [1004\.](%C2%A7%2001004%20-%20Conditions%20for%20Federal%20assistance.md) | Conditions for Federal assistance. |
 | [1005\.](%C2%A7%2001005%20-%20Works%20of%20improvement.md) | Works of improvement. |
-| (1) | Engineering and other services; reimbursement; advances. |
-| (2) | Federal construction; request by local organization. |
-| (3) | Transmission of certain plans to Congress. |
-| (4) | Transmission of certain plans and recommendations to Congress. |
-| (5) | Rules and regulations. |
 | [1006\.](%C2%A7%2001006%20-%20Cooperative%20programs.md) | Cooperative programs. |
 | [1006a.](%C2%A7%2001006a%20-%20Loans%20or%20advancements%20for%20financing%20local%20share%20of%20costs%3B%20repayment%3B%20interest%3B%20maximum%20amount.md) | Loans or advancements for financing local share of costs; repayment; interest; maximum amount. |
 | [1006b.](%C2%A7%2001006b%20-%20Territorial%20application.md) | Territorial application. |
@@ -23,20 +16,7 @@
 | [1009\.](%C2%A7%2001009%20-%20Joint%20investigations%20and%20surveys%20by%20Secretary%20of%20the%20Army%20and%20Secretary%20of%20Agriculture%3B%20reports%20to%20Congress.md) | Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress. |
 | [1010\.](%C2%A7%2001010%20-%20Data.md) | Data. |
 | [1011\.](%C2%A7%2001011%20-%20Watershed%20restoration%20and%20enhancement%20agreements.md) | Watershed restoration and enhancement agreements. |
-| (a) | In general. |
-| (b) | Direct and indirect watershed agreements. |
-| (c) | Terms and conditions. |
 | [1012\.](%C2%A7%2001012%20-%20Rehabilitation%20of%20structural%20measures%20near%2C%20at%2C%20or%20past%20their%20evaluated%20life%20expectancy.md) | Rehabilitation of structural measures near, at, or past their evaluated life expectancy. |
-| (a) | Definitions. |
-| (b) | Cost share assistance for rehabilitation. |
-| (c) | Technical assistance for watershed project rehabilitation. |
-| (d) | Prohibited use. |
-| (e) | Application for rehabilitation assistance. |
-| (f) | Ranking of requests for rehabilitation assistance. |
-| (g) | Prohibition on certain rehabilitation assistance. |
-| (h) | Funding. |
-| (i) | Assessment of rehabilitation needs. |
-| (j) | Recordkeeping and reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

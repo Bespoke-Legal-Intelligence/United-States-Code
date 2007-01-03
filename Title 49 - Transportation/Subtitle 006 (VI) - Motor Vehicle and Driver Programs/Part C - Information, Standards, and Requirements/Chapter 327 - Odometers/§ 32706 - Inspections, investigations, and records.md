@@ -52,7 +52,7 @@ Administrative Authority and Civil Actions To Enforce.—(1) In carrying out thi
 
 Prohibitions.—A person may not fail to keep records, refuse access to or copying of records, fail to make reports or provide information, fail to allow entry or inspection, or fail to permit impoundment, as required under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1052; Pub. L. 103–429, §6(35), Oct. 31, 1994, 108 Stat.4380; Pub. L. 105–102, §2(19), Nov. 20, 1997, 111 Stat. 2205.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1052; Pub. L. 103–429, §6(35), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 105–102, §2(19), Nov. 20, 1997, 111 Stat. 2205.)
 
 Historical and Revision Notes
 

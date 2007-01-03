@@ -13,9 +13,7 @@
 
 #### Historical and Revision Notes
 
-Chapter 35 consolidates the laws that have specific application to the carriage of passengers. They providespecial provisions for listing and counting the number of passengers on board a vessel, for notifying the general public of the safety standards that are applicable, and for related control measures.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+Chapter 35 consolidates the laws that have specific application to the carriage of passengers. They provide special provisions for listing and counting the number of passengers on board a vessel, for notifying the general public of the safety standards that are applicable, and for related control measures.
 
 
 ---

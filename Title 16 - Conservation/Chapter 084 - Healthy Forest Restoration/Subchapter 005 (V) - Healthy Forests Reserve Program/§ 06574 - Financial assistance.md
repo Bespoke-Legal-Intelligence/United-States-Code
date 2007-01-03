@@ -10,7 +10,7 @@ In the case of land enrolled in the healthy forests reserve program using an eas
 
 #### (b) Thirty-year easement
 
-In the case of land enrolled in the healthy forests reserve program using a 30-year easement,the Secretary of Agriculture shall pay the owner of the land an amount equal to not more than (as determined by the Secretary)—
+In the case of land enrolled in the healthy forests reserve program using a 30-year easement, the Secretary of Agriculture shall pay the owner of the land an amount equal to not more than (as determined by the Secretary)—
 
 &emsp;(1) 75 percent of the fair market value of the land, less the fair market value of the land encumbered by the easement; and
 

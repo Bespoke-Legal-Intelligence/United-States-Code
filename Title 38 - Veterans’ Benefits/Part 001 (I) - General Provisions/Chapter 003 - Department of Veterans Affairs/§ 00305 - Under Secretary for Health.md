@@ -10,9 +10,7 @@
 
 (b) The Under Secretary for Health is the head of, and is directly responsible to the Secretary for the operation of, the Veterans Health Administration.
 
-(c) The Under Secretary for Health shall be appointed for a period of four years, with reappointment permissible for successive like periods. If the President removes the Under Secretary for Health before the completion of the term for which the Under Secretary for Health was appointed, the President shall communicate the reasons for the removal to Congress.
-
-(d)(1) Whenever a vacancy in the position of Under Secretary for Health occurs or is anticipated, the Secretary shall establish a commission to recommend individuals to the President for appointment to the position.
+(c)(1) Whenever a vacancy in the position of Under Secretary for Health occurs or is anticipated, the Secretary shall establish a commission to recommend individuals to the President for appointment to the position.
 
 (2) A commission established under this subsection shall be composed of the following members appointed by the Secretary:
 
@@ -32,13 +30,15 @@
 
 (4) The Assistant Secretary or Deputy Assistant Secretary of Veterans Affairs who performs personnel management and labor relations functions shall serve as the executive secretary of a commission established under this subsection.
 
-(Added and amended Pub. L. 102–83, §§2(a), 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 379, 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(c)(1), (e)(2), Nov. 2, 1994, 108 Stat. 4683, 4685; Pub. L. 108–422, title V, §503, Nov. 30, 2004, 118 Stat. 2396.)
+(Added and amended Pub. L. 102–83, §§2(a), 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 379, 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(c)(1), (e)(2), Nov. 2, 1994, 108 Stat. 4683, 4685; Pub. L. 108–422, title V, §503, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §210(a), Dec. 22, 2006, 120 Stat. 3418.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §3(3).
 
 #### Amendments
+
+2006—Subsecs. (c), (d). Pub. L. 109–461 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Under Secretary for Health shall be appointed for a period of four years, with reappointment permissible for successive like periods. If the President removes the Under Secretary for Health before the completion of the term for which the Under Secretary for Health was appointed, the President shall communicate the reasons for the removal to Congress.”
 
 2004—Subsec. (a)(2). Pub. L. 108–422, §503(1), struck out “shall be a doctor of medicine and” after “The Under Secretary for Health” in introductory provisions.
 

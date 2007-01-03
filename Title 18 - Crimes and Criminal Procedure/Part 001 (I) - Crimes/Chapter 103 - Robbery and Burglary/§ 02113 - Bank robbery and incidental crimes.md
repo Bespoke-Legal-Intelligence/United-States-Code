@@ -18,7 +18,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 (f) As used in this section the term “bank” means any member bank of the Federal Reserve System, and any bank, banking association, trust company, savings bank, or other banking institution organized or operating under the laws of the United States, including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), and any institution the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
-(g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-charteredcredit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+(g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
 (h) As used in this section, the term “savings and loan association” means—
 
@@ -72,7 +72,7 @@ Subsec. (h). Pub. L. 103–322, §320608, added subsec. (h).
 
 1989—Subsec. (f). Pub. L. 101–73, §962(d)(1), substituted “any institution the deposits of which” for “any bank the deposits of which”.
 
-Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted “National Credit Union Administration Board, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act” for “Administrator of the National Credit Union Administration”, and struck out former subsec. (g) which read as follows: “As used in this section the term ‘savings and loan association’ means any Federal savings and loan association and any ‘insured institution’ as defined in section 401 of the National Housing Act, as amended, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act.”
+Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted “NationalCredit Union Administration Board, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act” for “Administrator of the National Credit Union Administration”, and struck out former subsec. (g) which read as follows: “As used in this section the term ‘savings and loan association’ means any Federal savings and loan association and any ‘insured institution’ as defined in section 401 of the National Housing Act, as amended, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act.”
 
 1986—Subsec. (a). Pub. L. 99–646 inserted “, or obtains or attempts to obtain by extortion” after “presence of another” in first par.
 

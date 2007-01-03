@@ -48,7 +48,7 @@
 
 &emsp;(ii) the initial term of which is for a period of less than five years but which contains an option to renew or extend the agreement for a period which, when added to the initial term (or any previous renewal or extension), is five years or longer.
 
-> Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of five years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of five years or longer.
+> Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of five years or longer or if the term of the lease orcharter agreement being extended or renewed was for a period of five years or longer.
 
 (B) In the case of an agreement under which the lessor first places the property in service under the agreement or the property has been in service for less than one year and there is allowable to the lessor or charterer an investment tax credit or depreciation for the property leased, chartered, or otherwise provided under the agreement under section 168 of the Internal Revenue Code of 1986 (unless the lessor or charterer has elected depreciation on a straightline method for such property), the term “long-term lease or charter” means a lease, charter, service contract, or conditional sale agreement—
 
@@ -144,13 +144,61 @@ Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guideline
 
 Section 1202(a)(3) of Pub. L. 98–94 provided that: “Section 2401 of title 10, United States Code, as added by paragraph (1), shall not apply in the case of any lease or charter agreement entered into by the Department of Defense before December 1, 1983.”
 
+#### Riding Gang Member Requirements
+
+Pub. L. 109–364, div. A, title X, §1018, Oct. 17, 2006, 120 Stat. 2380, provided that:
+
+“(a)
+
+Requirement for Charters and Contracts.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense may not award, renew, extend, or exercise an option to extend any charter of a vessel documented under chapter 121 of title 46, United States Code, for the Department of Defense, or any contract for the carriage of cargo by a vessel documented under that chapter for the Department of Defense, unless the charter or contract, respectively, includes provisions that allow riding gang members to perform work on the vessel during the effective period of the charter or contract only under terms, conditions, restrictions, and requirements that, except as provided in paragraphs (2) and (3), are substantially the same as those that apply under section 8106 of title 46, United States Code, as in effect immediately before the enactment of this Act \[Oct. 17, 2006\], with respect to a vessel referred to in that section.
+
+&emsp;“(2)
+
+Limitation.—For purposes of paragraph (1) of this subsection, subsections (a)(1)(A)(ii), (c), and (d) of section 8106 of title 46, United States Code, shall not apply with respect to a charter or contract referred to in paragraph (1).
+
+&emsp;“(3)
+
+Merchant mariner's document required.—The Secretary of Defense shall include in the provisions required under paragraph (1) a requirement that each riding gang member who performs work on the vessel must hold a merchant mariner's document issued under chapter 73 of title 46, United States Code.
+
+&emsp;“(4)
+
+Riding gang member defined.—In this subsection the term ‘riding gang member’ has the meaning that term has in section 8106 of title 46, United States Code, as in effect immediately before the enactment of this Act \[Oct. 17, 2006\].
+
+“(b)
+
+Exemptions by Secretary of Defense.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense may issue regulations that exempt from the charter or contract provisions required under subsection (a) any individual who is on a vessel for purposes other than engaging in the operation or maintenance of the vessel, including an individual who is—
+
+&emsp;&emsp;“(A) one of the personnel who accompany, supervise, guard, and maintain unit equipment aboard a ship, commonly referred to as supercargo personnel;
+
+&emsp;&emsp;“(B) one of the force protection personnel of the vessel;
+
+&emsp;&emsp;“(C) a specialized repair technician; or
+
+&emsp;&emsp;“(D) otherwise required by the Secretary of Defense to be aboard the vessel.
+
+&emsp;“(2)
+
+Background check.—Such regulations shall include a requirement that any individual who is exempt under the regulations must pass a background check before going aboard the vessel, unless the individual holds a merchant mariner's document issued under chapter 73 of title 46, United States Code.
+
+&emsp;“(3)
+
+Exempted individual not treated as in addition to the crew.—An individual exempted under paragraph (1) shall not be counted as an individual in addition to the crew for the purposes of section 3304 of title 46, United States Code.”
+
 #### Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels
 
 Pub. L. 103–160, div. A, title I, §126, Nov. 30, 1993, 107 Stat. 1567, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(1)(A), Feb. 10, 1996, 110 Stat. 676, provided that:
 
 “(a)
 
-Authority.—The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in a United States shipyard after the date of the enactment of this Act \[Nov. 30, 1993\] using assistance provided under the National Shipbuilding Initiative.
+Authority.—The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in aUnited States shipyard after the date of the enactment of this Act \[Nov. 30, 1993\] using assistance provided under the National Shipbuilding Initiative.
 
 “(b)
 

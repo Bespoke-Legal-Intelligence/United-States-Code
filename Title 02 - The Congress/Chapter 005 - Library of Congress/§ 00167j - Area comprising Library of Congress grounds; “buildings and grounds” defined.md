@@ -30,5 +30,5 @@ Amendment by Pub. L. 105–144 effective upon acquisition by Architect of the Ca
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–520 and Pub. L. 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note under section 141 of this title.
+Amendment by Pub. L. 101–520 and Pub. L. 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described inPub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note under section 141 of this title.
 

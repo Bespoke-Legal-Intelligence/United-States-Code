@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within the Conservation Area, there is designated as wilderness, and as a component ofthe National Wilderness Preservation System, the Gunnison Gorge Wilderness, consisting of approximately 17,700 acres, as generally depicted on the Map.
+&emsp;Within the Conservation Area, there is designated as wilderness, and as a component of the National Wilderness Preservation System, the Gunnison Gorge Wilderness, consisting of approximately 17,700 acres, as generally depicted on the Map.
 
 #### (2) Administration
 

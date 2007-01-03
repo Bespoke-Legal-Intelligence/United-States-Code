@@ -16,7 +16,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and towhich such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
@@ -50,7 +50,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (2) Tenure, renewal, and early termination
 
-&emsp;Each agreement entered into under paragraph (1) shall provide for early termination upon failure to meet performance standards which shall be specified in the agreement and which shall be weighted to take into account any performance in prior terms. Such performance standards shall include—
+&emsp;Each agreement entered into under paragraph (1) shall provide for early terminationupon failure to meet performance standards which shall be specified in the agreement and which shall be weighted to take into account any performance in prior terms. Such performance standards shall include—
 
 &emsp;&emsp;(A) measures for ease of access by beneficiaries to services; and
 
@@ -102,7 +102,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (4) Ensuring availability of adequate services
 
-&emsp;The program manager shall ensure that employment services, vocational rehabilitation services, and other support services are provided to beneficiaries throughout the geographic area covered under the program manager's agreement, including rural areas.
+&emsp;The program manager shall ensure that employment services, vocational rehabilitationservices, and other support services are provided to beneficiaries throughout the geographic area covered under the program manager's agreement, including rural areas.
 
 #### (5) Reasonable access to services
 
@@ -122,7 +122,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (C) Compliance with selection criteria
 
-&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specificselection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
+&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
 
 #### (D) Single or associated providers allowed
 
@@ -162,7 +162,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;&emsp;(iii) a statement of any terms and conditions related to the provision of such services and supports; and
 
-&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the State grant program authorized under section 1320b–21 of this title;
+&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the servicesbeing provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the State grant program authorized under section 1320b–21 of this title;
 
 &emsp;&emsp;(D) provide a beneficiary the opportunity to amend the individual work plan if a change in circumstances necessitates a change in the plan; and
 
@@ -242,7 +242,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible underparagraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
@@ -272,7 +272,7 @@ During any period for which an individual is using, as defined by the Commission
 
 #### (A) Title II disability beneficiaries
 
-&emsp;&emsp;There are authorized to be transferred from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund each fiscal year such sums as may be necessary to make payments to employment networks under this section. Money paid from the Trust Funds under this section with respect to title II disability beneficiaries who are entitled to benefits under section 423 of this title or who are entitled to benefits under section 402(d) of this title on the basis of the wages and self-employment income of such beneficiaries, shall be charged to the Federal Disability Insurance Trust Fund, and all other money paid from the Trust Funds under this section shall be charged to the Federal Old-Age and Survivors Insurance Trust Fund.
+&emsp;&emsp;There are authorized to be transferred from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund each fiscal yearsuch sums as may be necessary to make payments to employment networks under this section. Money paid from the Trust Funds under this section with respect to title II disability beneficiaries who are entitled to benefits under section 423 of this title or who are entitled to benefits under section 402(d) of this title on the basis of the wages and self-employment income of such beneficiaries, shall be charged to the Federal Disability Insurance Trust Fund, and all other money paid from the Trust Funds under this section shall be charged to the Federal Old-Age and Survivors Insurance Trust Fund.
 
 #### (B) Title XVI disability beneficiaries
 
@@ -350,7 +350,7 @@ Specific matters to be included in regulations.—The matters which shall be add
 
 &emsp;“(B) the format and wording of such tickets, which shall incorporate by reference any contractual terms governing service by employment networks under the Program;
 
-&emsp;“(C) the form and manner in which State agencies may elect participation in the Ticket to Work and Self-Sufficiency Program pursuant to section 1148(c)(1) of such Act and provision for periodic opportunities for exercising such elections;
+&emsp;“(C) the form and manner in which State agencies may elect participation in the Ticket to Work and Self-Sufficiency Program pursuant to section1148(c)(1) of such Act and provision for periodic opportunities for exercising such elections;
 
 &emsp;“(D) the status of State agencies under section 1148(c)(1) of such Act at the time that State agencies exercise elections under that section;
 
@@ -432,7 +432,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(11) In addition to the enormous advantages such changes promise for individuals with disabilities, redesigning government programs to help individuals with disabilities return to work may result in significant savings and extend the life of the Social Security Disability Insurance Trust Fund.
 
-&emsp;“(12) If only an additional one-half of one percent of the current Social Security Disability Insurance and Supplemental Security Income recipients were to cease receiving benefits as a result of employment, the savings to the Social Security Trust Funds and to the Treasury in cash assistance would total $3,500,000,000 over the worklife of such individuals, far exceeding the cost of providing incentives and services needed to assist them in entering work and achieving financial independence to the best of their abilities.
+&emsp;“(12) If only an additional one-half of one percent of the current Social Security Disability Insurance and Supplemental Security Income recipients were to cease receiving benefits as a result of employment, the savings to the Social Security Trust Funds and tothe Treasury in cash assistance would total $3,500,000,000 over the worklife of such individuals, far exceeding the cost of providing incentives and services needed to assist them in entering work and achieving financial independence to the best of their abilities.
 
 “(b)
 
@@ -456,7 +456,7 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 “(2)
 
-Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensurethat the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
+Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensure that the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
 
 “(3)
 

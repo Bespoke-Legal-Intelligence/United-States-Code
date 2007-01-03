@@ -66,23 +66,27 @@ In this subchapter—
 
 &emsp;&emsp;(A) means—
 
-&emsp;&emsp;&emsp;(i) a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including an interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+&emsp;&emsp;&emsp;(i) a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including an interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in section 101);
 
 &emsp;&emsp;&emsp;(ii) any option entered into on a national securities exchange relating to foreign currencies;
 
-&emsp;&emsp;&emsp;(iii) the guarantee by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+&emsp;&emsp;&emsp;(iii) the guarantee (including by novation) by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi));
 
 &emsp;&emsp;&emsp;(iv) any margin loan;
 
-&emsp;&emsp;&emsp;(v) any other agreement or transaction that is similar to an agreement or transaction referred to in this subparagraph;
+&emsp;&emsp;&emsp;(v) any extension of credit for the clearance or settlement of securities transactions;
 
-&emsp;&emsp;&emsp;(vi) any combination of the agreements or transactions referred to in this subparagraph;
+&emsp;&emsp;&emsp;(vi) any loan transaction coupled with a securities collar transaction, any prepaid forward securities transaction, or any total return swap transaction coupled with a securities sale transaction;
 
-&emsp;&emsp;&emsp;(vii) any option to enter into any agreement or transaction referred to in this subparagraph;
+&emsp;&emsp;&emsp;(vii) any other agreement or transaction that is similar to an agreement or transaction referred to in this subparagraph;
 
-&emsp;&emsp;&emsp;(viii) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), or (vii), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), or (vii); or
+&emsp;&emsp;&emsp;(viii) any combination of the agreements or transactions referred to in this subparagraph;
 
-&emsp;&emsp;&emsp;(ix) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
+&emsp;&emsp;&emsp;(ix) any option to enter into any agreement or transaction referred to in this subparagraph;
+
+&emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
+
+&emsp;&emsp;&emsp;(xi) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
 &emsp;&emsp;(B) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan;
 
@@ -90,7 +94,7 @@ In this subchapter—
 
 &emsp;(9) “SIPC” means Securities Investor Protection Corporation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 97–222, §8, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, §482, July 10, 1984, 98 Stat. 382; Pub. L. 103–394, title V, §501(d)(25), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, §907(a)(2), Apr. 20, 2005, 119 Stat. 173.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 97–222, §8, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, §482, July 10, 1984, 98 Stat. 382; Pub. L. 103–394, title V, §501(d)(25), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, §907(a)(2), Apr. 20, 2005, 119 Stat. 173; Pub. L. 109–390, §5(a)(3), Dec. 12, 2006, 120 Stat. 2697.)
 
 #### Historical and Revision Notes
 
@@ -124,6 +128,18 @@ The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act Jun
 
 #### Amendments
 
+2006—Par. (7)(A)(i). Pub. L. 109–390, §5(a)(3)(A), substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
+
+Par. (7)(A)(iii). Pub. L. 109–390, §5(a)(3)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi))” before semicolon at end.
+
+Par. (7)(A)(v) to (vii). Pub. L. 109–390, §5(a)(3)(D), (E), added cls. (v) and (vi) and redesignated former cl. (v) as (vii). Former cls. (vi) and (vii) redesignated (viii) and (ix), respectively.
+
+Par. (7)(A)(viii). Pub. L. 109–390, §5(a)(3)(D), redesignated cl. (vi) as (viii). Former cl. (viii) redesignated (x).
+
+Pub. L. 109–390, §5(a)(3)(C), substituted “(vii), (viii), or (ix)” for “or (vii)” in two places.
+
+Par. (7)(A)(ix) to (xi). Pub. L. 109–390, §5(a)(3)(D), redesignated cls. (vii) to (ix) as (ix) to (xi), respectively.
+
 2005—Par. (7). Pub. L. 109–8 added par. (7) and struck out former par. (7) which read as follows: “ ‘securities contract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
 
 1994—Par. (4)(A)(iii). Pub. L. 103–394 struck out “(15 U.S.C. 78a et seq.)” after “Act of 1934”.
@@ -138,7 +154,7 @@ Par. (4)(A)(i). Pub. L. 98–353, §482(3), substituted “from and that is the 
 
 Par. (6)(A)(i). Pub. L. 98–353, §482(4), inserted a comma after “petition” and “any” after “except”.
 
-Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
+Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein orbased on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
 
 Par. (8). Pub. L. 98–353, §482(6), inserted “a final settlement payment,”.
 
@@ -151,6 +167,10 @@ Par. (6). Pub. L. 97–222, §8(2), (4), redesignated former par. (5) as (6), in
 Pars. (7), (8). Pub. L. 97–222, §8(5), added pars. (7) and (8).
 
 Par. (9). Pub. L. 97–222, §8(2), (6), redesignated former par. (6) as (9) and substituted “Securities” for “Security”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–390 not applicable to any cases commenced under this title or to appointments made under any Federal or State law, before Dec. 12, 2006, see section 7 of Pub. L. 109–390, set out as a note under section 101 of this title.
 
 #### Effective Date of 2005 Amendment
 

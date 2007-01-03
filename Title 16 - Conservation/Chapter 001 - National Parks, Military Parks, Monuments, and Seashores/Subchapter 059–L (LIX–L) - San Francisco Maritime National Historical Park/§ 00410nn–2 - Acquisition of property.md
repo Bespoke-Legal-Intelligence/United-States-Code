@@ -12,9 +12,11 @@ The Secretary of Commerce may transfer the Liberty Ship SS Jeremiah O'Brien to t
 
 Lands, and interests in lands, within the boundaries of the park which are owned by the State of California or any political subdivision thereof, may be acquired only by donation. Notwithstanding any other provision of law, the Secretary is authorized to enter into an agreement with the State of California or any political subdivision thereof under which the Secretary may improve and may use appropriated funds for the improvement of berthing facilities if the State or any political subdivision thereof makes available to the Secretary, in accordance with terms and conditions acceptable to the Secretary, lands and interests in land for the purpose of berthing the ships and providing visitor access to the historic ships.
 
-#### (d) Historic vessels and other property
+#### (d) Property to carry out subchapter
 
-(1) In furtherance of the administration of the park, the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange such property as may be appropriate to carry out the purposes of this subchapter, including vessels, heavy marine equipment, and drydock facilities. The Secretary shall notify the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate in writing not less than 90 days before acquisition of any large historic vessel. Such notification shall indicate the estimated cost of preservation, restoration if appropriate, and maintenance of the vessel concerned.
+(1)
+
+Historic vessels and other property.—In furtherance of the administration of the park, the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange such property as may be appropriate to carry out the purposes of this subchapter, including vessels, heavy marine equipment, and drydock facilities. The Secretary shall notify the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate in writing not less than 90 days before acquisition of any large historic vessel. Such notification shall indicate the estimated cost of preservation, restoration if appropriate, and maintenance of the vessel concerned.
 
 (2)
 

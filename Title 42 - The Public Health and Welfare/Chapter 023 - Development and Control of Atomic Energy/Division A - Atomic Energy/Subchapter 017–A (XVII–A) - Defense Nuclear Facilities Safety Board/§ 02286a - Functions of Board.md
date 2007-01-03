@@ -20,7 +20,7 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(iii) to determine whether such event or practice is related to other events or practices at other Department of Energy defense nuclear facilities; and
 
-&emsp;&emsp;(iv) to provide to the Secretary of Energy such recommendations for changes in such standards or the implementation of such standards (including Department of Energy orders, regulations, and requirements) and such recommendations relating to data or research needs as may be prudent or necessary.
+&emsp;&emsp;(iv) to provide to the Secretary of Energy such recommendations for changes in such standards or the implementation of such standards (including Department of Energy orders, regulations, and requirements) andsuch recommendations relating to data or research needs as may be prudent or necessary.
 
 #### (3) Analysis of design and operational data
 

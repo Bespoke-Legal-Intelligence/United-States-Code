@@ -96,7 +96,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;For each of fiscal years 2003 through 2007, the Commodity Credit Corporationshall make available to carry out this subsection $20,000,000.
+&emsp;&emsp;&emsp;For each of fiscal years 2003 through 2007, the Commodity Credit Corporation shall make available to carry out this subsection $20,000,000.
 
 #### (iii) Certain uses
 
@@ -150,7 +150,7 @@ Uses.—A producer may use cost share assistance provided under this subsection 
 
 &emsp;“(E) enter into agricultural trade options as a hedging transaction to reduce production, price, or revenue risk; or
 
-&emsp;“(F) conduct any other activity related to the activities described in subparagraphs (A) through (E), as determined by the Secretary.”
+&emsp;“(F) conduct any other activity related to the activities described in subparagraphs (A) through (E), as determined by the Secretary.
 
 “(2)
 

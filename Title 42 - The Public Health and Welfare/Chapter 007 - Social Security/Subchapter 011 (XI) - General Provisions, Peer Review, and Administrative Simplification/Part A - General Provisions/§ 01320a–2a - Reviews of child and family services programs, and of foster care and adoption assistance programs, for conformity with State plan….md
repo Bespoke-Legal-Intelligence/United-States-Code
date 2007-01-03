@@ -22,7 +22,7 @@ The regulations referred to in subsection (a) of this section shall—
 
 &emsp;&emsp;(C) less frequent reviews of State programs which have been found to be in substantial conformity, but such regulations shall permit the Secretary to reinstate more frequent reviews based on information which indicates that a State program may not be in conformity;
 
-&emsp;(2) specify the requirements subject to review, and the criteria to be used to measure conformity with such requirements and to determine whether there is a substantial failure to so conform;
+&emsp;(2) specify the requirements subject to review (which shall include determining whether the State program is in conformity with the requirement of section 671(a)(27) of this title), and the criteria to be used to measure conformity with such requirements and to determine whether there is a substantial failure to so conform;
 
 &emsp;(3) specify the method to be used to determine the amount of any Federal matching funds to be withheld (subject to paragraph (4)) due to the State program's failure to so conform, which ensures that—
 
@@ -56,7 +56,7 @@ The regulations referred to in subsection (a) of this section shall—
 
 &emsp;(3) afford the State an opportunity to obtain judicial review of an adverse decision of the Board, within 60 days after the State receives notice of the decision of the Board, by appeal to the district court of the United States for the judicial district in which the principal or headquarters office of the agency responsible for administering the program is located.
 
-(Aug. 14, 1935, ch. 531, title XI, §1123A, formerly §1123, as added Pub. L. 103–432, title II, §203(a), Oct. 31, 1994, 108 Stat. 4454; renumbered §1123A, Pub. L. 104–193, title V, §504, Aug. 22, 1996, 110 Stat. 2278.)
+(Aug. 14, 1935, ch. 531, title XI, §1123A, formerly §1123, as added Pub. L. 103–432, title II, §203(a), Oct. 31, 1994, 108 Stat. 4454; renumbered §1123A, Pub. L. 104–193, title V, §504, Aug. 22, 1996, 110 Stat. 2278; amended Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(ii), Dec. 20, 2006, 120 Stat. 2999.)
 
 #### References in Text
 
@@ -65,6 +65,14 @@ Parts B and E of subchapter IV of this chapter, referred to in subsec. (a), are 
 #### Codification
 
 Section was formerly classified to section 1320a–1a of this title prior to renumbering by Pub. L. 104–193.
+
+#### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–432 inserted “(which shall include determining whether the State program is in conformity with the requirement of section 671(a)(27) of this title)” after “review”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–432 effective on the date that is 6 months after Dec. 20, 2006, see section 405(c)(1)(B)(iii) of Pub. L. 109–432, set out as a note under section 671 of this title.
 
 #### Effective Date
 

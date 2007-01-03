@@ -10,7 +10,7 @@
 
 &emsp;(C) containing an estimate by the Congressional Budget Office of the level of new budget authority for assistance to State and local governments provided by such measure, if timely submitted before such report is filed.
 
-(2) Whenever a conference report is filed in either House and such conference report or any amendment reported in disagreement or any amendment contained in the joint statement of managers to be proposed by the conferees in the case of technical disagreement on such bill or joint resolution provides new budget authority (other than continuing appropriations) or provides an increase or decrease in revenues for a fiscal year (or fiscal years), the statement of managers accompanying such conference report shall contain the information described in paragraph (1), if available on a timely basis. If such information is not available when the conference report is filed, the committee shall make such information available to Members as soon as practicable prior to the consideration of such conference report.
+(2) Whenever a conference report is filed in either House and such conference report or any amendment reported in disagreement or any amendment contained in the joint statement of managers to be proposed by the conferees in the case of technical disagreement on such bill orjoint resolution provides new budget authority (other than continuing appropriations) or provides an increase or decrease in revenues for a fiscal year (or fiscal years), the statement of managers accompanying such conference report shall contain the information described in paragraph (1), if available on a timely basis. If such information is not available when the conference report is filed, the committee shall make such information available to Members as soon as practicable prior to the consideration of such conference report.
 
 #### (b) Up-to-date tabulations of Congressional budget action
 
@@ -54,7 +54,7 @@ Pub. L. 105–33, §10110(1)(D), in introductory provisions, struck out “, ne
 
 Subsec. (a)(1)(B). Pub. L. 105–33, §10110(1)(C), substituted “revenues, or tax expenditures” for “spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments”.
 
-Pub. L. 105–33, §10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read asfollows: “including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
+Pub. L. 105–33, §10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
 
 Subsec. (a)(1)(C), (D). Pub. L. 105–33, §10110(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively.
 

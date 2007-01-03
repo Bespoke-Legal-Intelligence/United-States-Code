@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-&emsp;(1)(A) The terms “school of medicine”, “school of dentistry”, “school of osteopathic medicine”, “school of pharmacy”, “school of optometry”, “school of podiatric medicine”, “school of veterinary medicine”, “school of public health”, and “school of chiropractic” mean an accredited public or nonprofit private school in a State that provides training leading, respectively, to a degree of doctor of medicine, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of osteopathy, a degree of bachelor of science in pharmacy or an equivalent degree or a degree of doctor of pharmacy or an equivalent degree, a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatric medicine or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a graduate degree in public health or an equivalent degree, and a degree of doctor ofchiropractic or an equivalent degree, and including advanced training related to such training provided by any such school.
+&emsp;(1)(A) The terms “school of medicine”, “school of dentistry”, “school of osteopathic medicine”, “school of pharmacy”, “school of optometry”, “school of podiatric medicine”, “school of veterinary medicine”, “school of public health”, and “school of chiropractic” mean an accredited public or nonprofit private school in a State that provides training leading, respectively, to a degree of doctor of medicine, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of osteopathy, a degree of bachelor of science in pharmacy or an equivalent degree or a degree of doctor of pharmacy or an equivalent degree, a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatric medicine or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a graduate degree in public health or an equivalent degree, and a degree of doctor of chiropractic or an equivalent degree, and including advanced training related to such training provided by any such school.
 
 &emsp;(B) The terms “graduate program in health administration” and “graduate program in clinical psychology” mean an accredited graduate program in a public or nonprofit private institution in a State that provides training leading, respectively, to a graduate degree in health administration or an equivalent degree and a doctoral degree in clinical psychology or an equivalent degree.
 
@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 &emsp;(3) The term “program for the training of physician assistants” means an educational program that—
 
-&emsp;&emsp;(A) has as its objective the education of individuals who will, upon completion of their studies in the program, be qualified to provide primary care under the supervision of a physician;
+&emsp;&emsp;(A) has as its objective the education of individuals who will, upon completion of theirstudies in the program, be qualified to provide primary care under the supervision of a physician;
 
 &emsp;&emsp;(B) extends for at least one academic year and consists of—
 
@@ -82,7 +82,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) is licensed or certified on the basis of the doctoral degree in psychology, by the State in which the individual practices, at the independent practice level of psychology to furnish diagnostic, assessment, preventive, and therapeutic services directly to individuals.
 
-(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
+(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B andamended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
 #### References in Text
 

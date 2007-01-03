@@ -66,7 +66,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (5) Management plans for previously designated sites
 
-&emsp;The Administrator shall develop a site management plan for any site designated prior to January 1, 1995, as expeditiously as practicable, but not later than January 1, 1997, giving priority consideration to management plans for designated sites that are considered to have the greatest impact on the environment.
+&emsp;The Administrator shall develop a site management plan for any site designated prior to January 1, 1995, as expeditiously as practicable, but not later than January 1, 1997, giving priority consideration to managementplans for designated sites that are considered to have the greatest impact on the environment.
 
 #### (d) Fish wastes
 

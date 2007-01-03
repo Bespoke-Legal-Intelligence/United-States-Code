@@ -8,13 +8,13 @@ In this part:
 
 #### (2) Agricultural commodity producer
 
-&emsp;The term “agricultural commodity producer” has the same meaning as the term “person” as prescribed by regulations promulgated under section 1308(5) <sup>1</sup> of title 7.
+&emsp;The term “agricultural commodity producer” has the same meaning as the term “person” as prescribed by regulations promulgated under section 1308(e) of title 7.
 
 #### (3) Contributed importantly
 
 #### (A) In general
 
-&emsp;&emsp;The term “contributed importantly” means a cause which is important but not necessarily more important than any other cause.
+&emsp;&emsp;The term “contributed importantly” means a cause which is important but notnecessarily more important than any other cause.
 
 #### (B) Determination of contributed importantly
 
@@ -32,15 +32,17 @@ In this part:
 
 &emsp;The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 93–618, title II, §291, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 946.)
+(Pub. L. 93–618, title II, §291, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 946; amended Pub. L. 109–280, title XIV, §1635(f)(4), Aug. 17, 2006, 120 Stat. 1171.)
 
-#### References in Text
+#### Amendments
 
-Section 1308(5) of title 7, referred to in par. (2), was redesignated as section 1308(e) of title 7 by Pub. L. 107–171, title I, §1603(b)(1)(A), May 13, 2002, 116 Stat. 214.
+2006—Par. (2). Pub. L. 109–280 substituted “1308(e)” for “1308(5)”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective Date
 
 Pub. L. 107–210, div. A, title I, §141(b), Aug. 6, 2002, 116 Stat. 953, as amended by Pub. L. 108–429, title II, §2004(a)(10), Dec. 3, 2004, 118 Stat. 2590, provided that: “The amendments made by this subtitle \[subtitle C \[§§141 to 143\] of title I of Pub. L. 107–210, enacting this part and amending section 2395 of this title\] shall take effect on the date that is 180 days after the date of enactment of this Act \[Aug. 6, 2002\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

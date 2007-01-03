@@ -76,10 +76,6 @@ Nothing in this subchapter, the Livestock Mandatory Reporting Act of 1999, or am
 
 (Aug. 14, 1946, ch. 966, title II, §251, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1200.)
 
-#### Termination of Section
-
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
-
 #### References in Text
 
 The Livestock Mandatory Reporting Act of 1999, referred to in subsec. (i), is title IX of Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1188, which is set out as a note under section 1635 of this title.

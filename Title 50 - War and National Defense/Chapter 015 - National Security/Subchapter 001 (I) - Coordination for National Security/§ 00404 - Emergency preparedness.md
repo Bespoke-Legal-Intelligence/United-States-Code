@@ -2,11 +2,11 @@
 
 #### (a) Employment of personnel
 
-The Director of the Federal Emergency Management Agency, subject to the direction of the President, is authorized, subject to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5, to appoint and fix the compensation of such personnel as may be necessary to assist him in carrying out his functions.
+The Administrator of the Federal Emergency Management Agency, subject to the direction of the President, is authorized, subject to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5, to appoint and fix the compensation of such personnel as may be necessary to assist him in carrying out his functions.
 
 #### (b) Functions
 
-It shall be the function of the Director of the Federal Emergency Management Agency to advise the President concerning the coordination of military, industrial, and civilian mobilization, including—
+It shall be the function of the Administrator of the Federal Emergency Management Agency to advise the President concerning the coordination of military, industrial, and civilian mobilization, including—
 
 &emsp;(1) policies concerning industrial and civilian mobilization in order to assure the most effective mobilization and maximum utilization of the Nation's manpower in the event of war;
 
@@ -22,9 +22,9 @@ It shall be the function of the Director of the Federal Emergency Management Age
 
 #### (c) Utilization of Government resources and facilities
 
-In performing his functions, the Director of the Federal Emergency Management Agency shall utilize to the maximum extent the facilities and resources of the departments and agencies of the Government.
+In performing his functions, the Administrator of the Federal Emergency Management Agency shall utilize to the maximum extent the facilities and resources of the departments and agencies of the Government.
 
-(July 26, 1947, ch. 343, title I, §107, formerly §103, 61 Stat. 499; Oct. 28, 1949, ch. 782, title IX, §1106(a), 63 Stat. 972; 1950 Reorg. Plan No. 25, §1, eff. July 9, 1950, 15 F.R. 4366, 64 Stat. 1280; 1953 Reorg. Plan No. 3, §2(a), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; Sept. 3, 1954, ch. 1263, §50, 68 Stat. 1244; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175; Ex. Ord. No. 12148, §§1–103, 4–102, July 20, 1979, 44 F.R. 43239; renumbered §107, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190.)
+(July 26, 1947, ch. 343, title I, §107, formerly §103, 61 Stat. 499; Oct. 28, 1949, ch. 782, title IX, §1106(a), 63 Stat. 972; 1950 Reorg. Plan No. 25, §1, eff. July 9, 1950, 15 F.R. 4366, 64 Stat. 1280; 1953 Reorg. Plan No. 3, §2(a), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; Sept. 3, 1954, ch. 1263, §50, 68 Stat. 1244; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175; Ex. Ord. No. 12148, §§1–103, 4–102, July 20, 1979, 44 F.R. 43239; renumbered §107, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -46,7 +46,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Transfer of Functions
 
-“Director of the Federal Emergency Management Agency” substituted for “Chairman of the Board” in subsec. (a), and for “Board” in subsecs. (b) and (c), on authority of the following:
+“Administrator of the Federal Emergency Management Agency” substituted for “Chairman of the Board” in subsec. (a), and for “Board” in subsecs. (b) and (c), on authority of the following:
 
 “Chairman of the Board”, meaning Chairman of National Security Resources Board, substituted in subsecs. (b) and (c) for “Board”, meaning National Security Resources Board, on authority of section 1 of Reorg. Plan No. 25 of 1950, set out below.
 
@@ -62,7 +62,9 @@ Functions vested in Director of Office of Emergency Preparedness as of June 30, 
 
 Functions of Director of Office of Defense Mobilization under this section, which were previously transferred to President, delegated to Secretary of Homeland Security by sections 1–103 and 4–102 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsecs. (a) to (c) on authority of section 612(c) of Pub. L. 109–295, set out as a Change of Name note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to beconsidered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Emergency Preparedness Functions
 
@@ -118,7 +120,7 @@ After investigation I have found and hereby declare that each reorganization inc
 
 I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of a Vice Chairman of the National Security Resources Board. The rate of compensation fixed for this officer is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
 
-The taking effect of the reorganizations included in Reorganization Plan No. 25 may not in itself result in substantial immediate savings. However, the important objective is maximum effectiveness in security resources planning.
+The taking effect of the reorganizations included in Reorganization Plan No. 25 may not in itself result insubstantial immediate savings. However, the important objective is maximum effectiveness in security resources planning.
 
 The security of this Nation requires that these steps be taken to enable security resources planning to move forward more effectively. It is for that reason that Reorganization Plan No. 25 is today submitted to the Congress. It is for that reason, and that reason alone, that I strongly urge congressional acceptance of Reorganization Plan No. 25.
 
@@ -156,7 +158,7 @@ There are hereby transferred to the Director:
 
 #### Sec. 3. Performance of Transferred Functions
 
-(a) The Director may from time to time make such provisions as he shall deem appropriate authorizing theperformance by any other officer, or by any agency or employee, of the Office, of any function of the Director, exclusive of the function of being a member of the National Security Council.
+(a) The Director may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any agency or employee, of the Office, of any function of the Director, exclusive of the function of being a member of the National Security Council.
 
 (b) When authorized by the Director, any function transferred to him by the provisions of this reorganization plan (exclusive of the function of being a member of the National Security Council) may be performed by the head of any agency of the executive branch of the Government or, subject to the direction and control of any such agency head, by such officers, employees, and organizational units under the jurisdiction of such agency head as such agency head may designate.
 
@@ -210,7 +212,7 @@ Section 5(c) of the reorganization plan abolishes any functions which were veste
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 3 of 1953 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended. I have also found and hereby declare that by reason of these reorganizations it is necessary to include in the reorganization plan provisions for the appointment and compensation of a Director and a Deputy Director of the Office of Defense Mobilization. The rates of compensation fixed for these officers are, respectively, those which I have found to prevail in respect of comparable officers of the executive branch of the Government.
 
-The reorganization plan will permit better organization and management of the Federal programs relating to materials and requirements and will thus help to achieve the maximum degree of mobilization readiness at the least possible cost. It is not practicable, however, to itemize, in advance of actual experience, the reductions of expenditures to be brought about by the taking effect of the reorganizations included in Reorganization Plan No. 3 of 1953.
+The reorganization plan will permit better organization and management of the Federal programs relating to materials and requirements and will thus help to achieve the maximum degree of mobilization readiness at the least possible cost. It is not practicable, however, to itemize, in advance of actual experience, thereductions of expenditures to be brought about by the taking effect of the reorganizations included in Reorganization Plan No. 3 of 1953.
 
 I urge that the Congress allow the proposed reorganization plan to become effective.
 

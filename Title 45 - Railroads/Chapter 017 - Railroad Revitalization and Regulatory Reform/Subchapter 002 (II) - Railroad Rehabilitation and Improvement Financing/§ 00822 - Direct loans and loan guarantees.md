@@ -14,7 +14,7 @@ The Secretary shall provide direct loans and loan guarantees to—
 
 &emsp;(5) joint ventures that include at least one railroad; and
 
-&emsp;(6) solely for the purpose of constructing a rail connection between a plant or facility and a second rail carrier, limited option railfreight shippers that own or operate a plant or other facility that is served by no more than a single railroad.
+&emsp;(6) solely for the purpose of constructing a rail connection between a plant or facility and a second rail carrier, limited option rail freight shippers that own or operate a plant or other facility that is served by no more than a single railroad.
 
 #### (b) Eligible purposes
 
@@ -172,5 +172,5 @@ Subsecs. (i), (j). Pub. L. 109–59, §9003(g), added subsecs. (i) and (j).
 
 #### Substantive Criteria and Standards
 
-Pub. L. 109–59, title IX, §9003(j), Aug. 10, 2005, 119 Stat. 1923, provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary of Transportation shall publish in the Federal Register and post on the Department of Transportation Web site the substantive criteria and standards used by the Secretary to determine whether to approve or disapprove applications submitted under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822). The Secretary of Transportation shall ensure adequate procedures and guidelines are inplace to permit the filing of complete applications within 30 days of such publication.”
+Pub. L. 109–59, title IX, §9003(j), Aug. 10, 2005, 119 Stat. 1923, provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary of Transportation shall publish in the Federal Register and post on the Department of Transportation Web site the substantive criteria and standards used by the Secretary to determine whether to approve or disapprove applications submitted under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822). The Secretary of Transportation shall ensure adequate procedures and guidelines are in place to permit the filing of complete applications within 30 days of such publication.”
 

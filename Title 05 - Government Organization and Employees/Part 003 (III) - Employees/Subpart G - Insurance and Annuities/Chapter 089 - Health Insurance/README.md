@@ -16,6 +16,12 @@
 | [8907\.](%C2%A7%2008907%20-%20Information%20to%20individuals%20eligible%20to%20enroll.md) | Information to individuals eligible to enroll. |
 | [8908\.](%C2%A7%2008908%20-%20Coverage%20of%20restored%20employees%20and%20survivor%20or%20disability%20annuitants.md) | Coverage of restored employees and survivor or disability annuitants. |
 | [8909\.](%C2%A7%2008909%20-%20Employees%20Health%20Benefits%20Fund.md) | Employees Health Benefits Fund. |
+| [8909a.](%C2%A7%2008909a%20-%20Postal%20Service%20Retiree%20Health%20Benefit%20Fund.md) | Postal Service Retiree Health Benefits Fund.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [8910\.](%C2%A7%2008910%20-%20Studies%2C%20reports%2C%20and%20audits.md) | Studies, reports, and audits. |
 | [8911\.](%C2%A7%2008911%20-%20Advisory%20committee.md) | Advisory committee. |
 | [8912\.](%C2%A7%2008912%20-%20Jurisdiction%20of%20courts.md) | Jurisdiction of courts. |
@@ -25,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–435, title VIII, §803(a)(2), Dec. 20, 2006, 120 Stat. 3252, added item 8909a.
 
 1998—Pub. L. 105–266, §6(a)(2), Oct. 19, 1998, 112 Stat. 2369, added item 8903b.
 
@@ -37,6 +45,8 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 1984—Pub. L. 98–615, §3(8), Nov. 8, 1984, 98 Stat. 3204, substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
 
 1976—Pub. L. 94–342, §1(b), July 6, 1976, 90 Stat. 808, substituted “employees and survivor annuitants” for “employee” in item 8908.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -57,6 +67,7 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 - [&sect; 08907 - Information to individuals eligible to enroll](%C2%A7%2008907%20-%20Information%20to%20individuals%20eligible%20to%20enroll.md)
 - [&sect; 08908 - Coverage of restored employees and survivor or disability annuitants](%C2%A7%2008908%20-%20Coverage%20of%20restored%20employees%20and%20survivor%20or%20disability%20annuitants.md)
 - [&sect; 08909 - Employees Health Benefits Fund](%C2%A7%2008909%20-%20Employees%20Health%20Benefits%20Fund.md)
+- [&sect; 08909a - Postal Service Retiree Health Benefit Fund](%C2%A7%2008909a%20-%20Postal%20Service%20Retiree%20Health%20Benefit%20Fund.md)
 - [&sect; 08910 - Studies, reports, and audits](%C2%A7%2008910%20-%20Studies%2C%20reports%2C%20and%20audits.md)
 - [&sect; 08911 - Advisory committee](%C2%A7%2008911%20-%20Advisory%20committee.md)
 - [&sect; 08912 - Jurisdiction of courts](%C2%A7%2008912%20-%20Jurisdiction%20of%20courts.md)

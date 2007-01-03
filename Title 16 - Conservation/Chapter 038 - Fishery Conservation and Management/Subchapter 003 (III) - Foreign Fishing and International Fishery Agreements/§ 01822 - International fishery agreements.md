@@ -120,6 +120,10 @@ It is the sense of the Congress that the United States Government shall not reco
 
 <i>(2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.</i>
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(5), (b), and (h)(1), (2)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
 #### Amendments
 
 1996—Subsec. (c). Pub. L. 104–297, §105(b)(1), inserted before period at end “or section 1824(e) of this title”.
@@ -142,7 +146,7 @@ Amendment by section 301(e)(3) of Pub. L. 102–251 effective Mar. 9, 1992, and 
 
 #### Shark Finning Prohibition
 
-Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
+Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, as amended by Pub. L. 109–479, title III, §302(c), Jan. 12, 2007, 120 Stat. 3623, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -172,7 +176,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
 
 &emsp;&emsp;“(B) entering into bilateral and multilateral treaties with such countries to protect such species;
 
-&emsp;“(3) seek agreements calling for an international ban on shark-finning and other fishing practices adversely affecting these species through the United Nations, the Food and Agriculture Organization'sCommittee on Fisheries, and appropriate regional fishery management bodies;
+&emsp;“(3) seek agreements calling for an international ban on shark-finning and other fishing practices adversely affecting these species through the United Nations, the Food and Agriculture Organization's Committee on Fisheries, and appropriate regional fishery management bodies;
 
 &emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservation of species of sharks to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section;
 
@@ -218,7 +222,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
 
 #### “SEC. 10. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the Secretary of Commerce for fiscal years 2001 through 2005 such sums as are necessary to carry out this Act.”
+“There are authorized to be appropriated to the Secretary of Commerce for fiscal years 2007 through 2011 such sums as are necessary to carry out this Act.”
 
 #### Certificate of Legal Origin for Anadromous Fish Products
 
@@ -230,7 +234,7 @@ Negotiations.—Within 60 days after the date of enactment of this Act \[Nov. 28
 
 &emsp;“(1) within the jurisdiction of a nation having naturally occurring or artificially established anadromous fish populations of the same species as the imported or exported product; or
 
-&emsp;“(2) on the high seas according to an international agreement among nations with jurisdiction over more than 1 percent of the stocks of anadromous fish being so harvested.
+&emsp;“(2) on the high seas according to an international agreement among nations with jurisdiction overmore than 1 percent of the stocks of anadromous fish being so harvested.
 
 “(b)
 
@@ -256,7 +260,7 @@ Regulations.—The Secretary of Commerce shall, within 180 days after the date o
 
 “(e)
 
-Report Required.—The Secretary of Commerce, after consultation with the Secretary of the Treasury,shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], submit to the Congress a report—
+Report Required.—The Secretary of Commerce, after consultation with the Secretary of the Treasury, shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], submit to the Congress a report—
 
 &emsp;“(1) making recommendations as to the need for the adoption of United States import and export restrictions on anadromous fish and anadromous fish products consistent with subsection (a); and
 
@@ -372,7 +376,7 @@ Negotiations.—The Secretary shall immediately initiate, through the Secretary 
 
 “(b)
 
-Certification for Purposes of Fishermen's Protective Act of 1967.—If the Secretary, in consultation with the Secretary of State, determines that a foreign government has failed, within 18 months after thedate of the enactment of this Act \[Dec. 29, 1987\], to enter into and implement an agreement under subsection (a) or section 4004(a) that is adequate, the Secretary shall certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 8(a) of the Fishermen's Protective Act of 1967 (22 U.S.C. 1978(a)).
+Certification for Purposes of Fishermen's Protective Act of 1967.—If the Secretary, in consultation with the Secretary of State, determines that a foreign government has failed, within 18 months after the date of the enactment of this Act \[Dec. 29, 1987\], to enter into and implement an agreement under subsection (a) or section 4004(a) that is adequate, the Secretary shall certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 8(a) of the Fishermen's Protective Act of 1967 (22 U.S.C. 1978(a)).
 
 #### “SEC. 4007. EVALUATIONS AND RECOMMENDATIONS.
 

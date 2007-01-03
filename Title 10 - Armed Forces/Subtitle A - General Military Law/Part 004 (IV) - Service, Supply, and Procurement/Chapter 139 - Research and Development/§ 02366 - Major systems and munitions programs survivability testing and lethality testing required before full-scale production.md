@@ -34,7 +34,7 @@ Waiver Authority.—(1) The Secretary of Defense may waive the application of th
 
 (2) In the case of a covered system (or covered product improvement program for a covered system), the Secretary may waive the application of the survivability and lethality tests of this section to such system or program and instead allow testing of the system or program in combat by firing munitions likely to be encountered in combat at components, subsystems, and subassemblies, together with performing design analyses, modeling and simulation, and analysis of combat data. Such alternative testing may not be carried out in the case of any covered system (or covered product improvement program for a covered system) unless the Secretary certifies to Congress, before the system or program enters system development and demonstration, that the survivability and lethality testing of such system or program otherwise required by this section would be unreasonably expensive and impracticable.
 
-(3) The Secretary shall include with any certification under paragraph (1) or (2) a report explaining how the Secretary plans to evaluatethe survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.
+(3) The Secretary shall include with any certification under paragraph (1) or (2) a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.
 
 (4) In time of war or mobilization, the President may suspend the operation of any provision of this section.
 
@@ -98,7 +98,7 @@ Subsec. (e)(8), (9). Pub. L. 107–314, §818(b), added pars. (8) and (9).
 
 1999—Subsec. (e)(7)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (d). Pub. L. 104–106, §1502(a)(18)(A), substituted “the congressional defense committees” for“the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
+1996—Subsec. (d). Pub. L. 104–106, §1502(a)(18)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
 
 Subsec. (e)(7). Pub. L. 104–106, §1502(a)(18)(B), added par. (7).
 

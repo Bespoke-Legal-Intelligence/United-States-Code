@@ -6,7 +6,7 @@ Agency Authority.—(1) The head of an agency, acting through an authorized repr
 
 &emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under this chapter; and
 
-&emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
+&emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcon- tract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
 (2) The head of an agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to section 2306a of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to—
 
@@ -40,7 +40,7 @@ Comptroller General Authority.—(1) Except as provided in paragraph (2), each c
 
 (d)
 
-Limitation on Audits Relating to Indirect Costs.—The head of an agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
+Limitation on Audits Relating to Indirect Costs.—The head of an agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, ormodification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
 
 (e)
 

@@ -4,7 +4,7 @@
 
 #### (1) From individuals in custody
 
-&emsp;(A) The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested or from non-United States persons who are detained under the authority of the United States. The Attorney General may delegatethis function within the Department of Justice as provided in section 510 of title 28 and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
+&emsp;(A) The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested, facing charges, or convicted or from non-United States persons who are detained under the authority of the United States. The Attorney General may delegate this function within the Department of Justice as provided in section 510 of title 28 and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
 
 &emsp;(B) The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under section 1565 of title 10.
 
@@ -68,7 +68,7 @@ The offenses that shall be treated for purposes of this section as qualifying Fe
 
 Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
-(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–405, title II, §203(b), Oct. 30, 2004, 118 Stat. 2270; Pub. L. 109–162, title X, §1004(a), Jan. 5, 2006, 119 Stat. 3085.)
+(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–405, title II, §203(b), Oct. 30, 2004, 118 Stat. 2270; Pub. L. 109–162, title X, §1004(a), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title I, §155, July 27, 2006, 120 Stat. 611.)
 
 #### Codification
 
@@ -77,6 +77,8 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 #### Amendments
 
 2006—Subsec. (a)(1). Pub. L. 109–162, §1004(a)(1), added subpar. (A) and designated existing provisions as subpar. (B).
+
+Subsec. (a)(1)(A). Pub. L. 109–248 substituted “arrested, facing charges, or convicted” for “arrested”.
 
 Subsec. (a)(3), (4). Pub. L. 109–162, §1004(a)(1)(B), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons” in par. (3) and subpars. (A) and (B) of par. (4).
 

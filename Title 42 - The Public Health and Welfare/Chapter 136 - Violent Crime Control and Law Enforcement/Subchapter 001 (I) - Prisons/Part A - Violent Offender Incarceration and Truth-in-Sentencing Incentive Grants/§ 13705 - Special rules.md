@@ -14,7 +14,7 @@
 
 Funds provided under section 13703 or 13704 of this title may be applied to the cost of—
 
-&emsp;(1) altering existing correctional facilities to provide separate facilities for juveniles underthe jurisdiction of an adult criminal court who are detained or are serving sentences in adult prisons or jails;
+&emsp;(1) altering existing correctional facilities to provide separate facilities for juveniles under the jurisdiction of an adult criminal court who are detained or are serving sentences in adult prisons or jails;
 
 &emsp;(2) providing correctional staff who are responsible for supervising juveniles who are detained or serving sentences under the jurisdiction of an adult criminal court with orientation and ongoing training regarding the unique needs of such offenders; and
 
@@ -40,7 +40,7 @@ A prior section 13705, Pub. L. 103–322, title II, §20105, Sept. 13, 1994, 108
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–273 substituted “Use of truth-in-sentencing and violent offender incarceration grants” for “Additional requirements” in heading and amended text generally, substituting provisions relating to use of funds for juveniles in adult prisons or under the jurisdiction of an adult criminal court for provisions relating to additional requirements for grant eligibility.
+2002—Subsec. (b). Pub. L. 107–273 substituted “Use of truth-in-sentencing and violent offender incarceration grants” for “Additional requirements” in heading and amended text generally, substituting provisions relating to use of funds for juveniles in adult prisons or under the jurisdiction of an adult criminal court forprovisions relating to additional requirements for grant eligibility.
 
 1998—Subsec. (b). Pub. L. 105–277 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “To be eligible to receive a grant under section 13703 or 13704 of this title, a State shall provide assurances to the Attorney General that the State has implemented or will implement not later than 18 months after April 26, 1996, policies that provide for the recognition of the rights and needs of crime victims.”
 

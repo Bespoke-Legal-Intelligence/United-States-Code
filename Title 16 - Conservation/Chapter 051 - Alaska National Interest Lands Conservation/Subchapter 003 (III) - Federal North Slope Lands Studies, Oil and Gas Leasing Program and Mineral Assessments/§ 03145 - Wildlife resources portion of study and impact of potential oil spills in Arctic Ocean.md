@@ -50,7 +50,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Section 306 of Pub. L. 96–487 provided:
 
-“(a) The Congress finds that the barren-ground caribou are a migratory species deserving of careful studyand special protection, and that the Western Arctic and the Porcupine herds of such caribou are of national and international significance.
+“(a) The Congress finds that the barren-ground caribou are a migratory species deserving of careful study and special protection, and that the Western Arctic and the Porcupine herds of such caribou are of national and international significance.
 
 “(b) The Secretary of the Interior shall conduct, and the Governor of Alaska is urged to cooperate with the Secretary in conducting, an ecological study of the barren-ground caribou herds north of the Yukon River and the herds that have been known to migrate between the United States and Canada, including, but not limited to, a determination of the seasonal migration patterns, reproduction and mortality rates, composition and age structure, behavioral characteristics, habitats (including but not limited to calving, feeding, summering and wintering areas, and key migration routes) that are critical to their natural stability and productivity and the effects on the herds of development by man, predation, and disease. In conducting this study the Secretary shall review the experience of other Arctic circumpolar countries with caribou and is authorized to enter into such contracts as he deems necessary to carry out portions or all of this study.”
 

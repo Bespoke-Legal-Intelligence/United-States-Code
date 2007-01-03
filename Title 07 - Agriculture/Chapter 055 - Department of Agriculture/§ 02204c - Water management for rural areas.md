@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture is authorized, directly or in coordination with any other Federal agency, entity, corporation, department, unit of State or local government, cooperative, confederation, individual, public or private organization, Indian tribe, or university, to—
+The Secretary of Agriculture is authorized, directly or in coordination with any other Federalagency, entity, corporation, department, unit of State or local government, cooperative, confederation, individual, public or private organization, Indian tribe, or university, to—
 
 &emsp;(1) conduct research and demonstration projects;
 

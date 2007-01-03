@@ -66,7 +66,7 @@ Approval Authorities and Accountability for Defense Business Systems.—The Secr
 
 &emsp;(4) The Assistant Secretary of Defense for Networks and Information Integration and the Chief Information Officer of the Department of Defense shall be responsible and accountable for any defense business system the primary purpose of which is to support information technology infrastructure or information assurance activities of the Department of Defense.
 
-&emsp;(5) The Deputy Secretary of Defense or an Under Secretary of Defense, as designated by the Secretary of Defense, shall be responsible for any defense business system the primarypurpose of which is to support any activity of the Department of Defense not covered by paragraphs (1) through (4).
+&emsp;(5) The Deputy Secretary of Defense or an Under Secretary of Defense, as designated by the Secretary of Defense, shall be responsible for any defense business system the primary purpose of which is to support any activity of the Department of Defense not covered by paragraphs (1) through (4).
 
 (g)
 
@@ -136,11 +136,59 @@ Definitions.—In this section:
 
 &emsp;(5) The terms “information system” and “information technology” have the meanings given those terms in section 11101 of title 40.
 
-&emsp;(6) The term “national security system” has the meaning given that term in section 2315 of this title.
+&emsp;(6) The term “national security system” has the meaning given that term in section 3542(b)(2) of title 44.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354.)
 
 #### Prior Provisions
 
 A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
+
+#### Amendments
+
+2006—Subsec. (j)(6). Pub. L. 109–364 substituted “in section 3542(b)(2) of title 44” for “in section 2315 of this title”.
+
+#### Limitation on Financial Management Improvement and Audit Initiatives Within the Department of Defense
+
+Pub. L. 109–364, div. A, title III, §321, Oct. 17, 2006, 120 Stat. 2144, provided that:
+
+“(a)
+
+Limitation.—The Secretary of Defense may not obligate or expend any funds for the purpose of any financial management improvement activity relating to the preparation, processing, or auditing of financial statements until the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a written determination that each activity proposed to be funded is—
+
+&emsp;“(1) consistent with the financial management improvement plan of the Department of Defense required by section 376(a)(1) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 190–163 \[109–163\]; 119 Stat. 3213); and
+
+&emsp;“(2) likely to improve internal controls or otherwise result in sustained improvements in the ability of the Department to produce timely, reliable, and complete financial management information.
+
+“(b)
+
+Exception.—The limitation in subsection (a) shall not apply to an activity directed exclusively at assessing the adequacy of internal controls and remediating any inadequacy identified pursuant to such assessment.”
+
+#### Time-Certain Development for Department of Defense Information Technology Business Systems
+
+Pub. L. 109–364, div. A, title VIII, §811, Oct. 17, 2006, 120 Stat. 2316, provided that:
+
+“(a)
+
+Milestone A Limitation.—The Department of Defense executive or entity that is the milestone decision authority for an information system described in subsection (c) may not provide Milestone A approval for the system unless, as part of the decision process for such approval, that authority determines that the system will achieve initial operational capability within a specified period of time not exceeding five years.
+
+“(b)
+
+Initial Operational Capability Limitation.—If an information system described in subsection (c), having received Milestone A approval, has not achieved initial operational capability within five years after the date of such approval, the system shall be deemed to have undergone a critical change in program requiring the evaluation and report required by section 2445c(d) of title 10, United States Code (as added by section 816 of this Act).
+
+“(c)
+
+Covered Systems.—An information system described in this subsection is any Department of Defense information technology business system that is not a national security system, as defined in 3542(b)(2) of title 44, United States Code.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Milestone decision authority.—The term ‘milestone decision authority’ has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003.
+
+&emsp;“(2)
+
+Milestone a.—The term ‘Milestone A’ has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003.”
 

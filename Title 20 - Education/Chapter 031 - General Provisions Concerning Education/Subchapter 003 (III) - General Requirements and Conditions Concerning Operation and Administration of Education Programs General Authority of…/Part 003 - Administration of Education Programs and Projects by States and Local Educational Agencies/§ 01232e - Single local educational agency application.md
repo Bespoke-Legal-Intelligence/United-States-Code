@@ -26,7 +26,7 @@ The general application submitted by a local educational agency under subsection
 
 &emsp;&emsp;(B) in developing plans for construction, due consideration will be given to excellence of architecture and design and to compliance with standards prescribed by the Secretary under section 794 of title 29 in order to ensure that facilities constructed with the use of Federal funds are accessible to and usable by individuals with disabilities;
 
-&emsp;(8) that the local educational agency has adopted effective procedures for acquiring and disseminating to teachers and administrators participating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
+&emsp;(8) that the local educational agency has adopted effective procedures for acquiring anddisseminating to teachers and administrators participating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
 
 &emsp;(9) that none of the funds expended under any applicable program will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity or its employees or any affiliate of such an organization.
 

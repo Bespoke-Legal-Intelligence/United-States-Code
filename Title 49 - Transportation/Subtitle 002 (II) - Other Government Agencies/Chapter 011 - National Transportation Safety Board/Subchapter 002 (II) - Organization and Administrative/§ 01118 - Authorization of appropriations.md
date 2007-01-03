@@ -2,43 +2,35 @@
 
 (a)
 
-In General.—There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, and $87,539,000 for fiscal year 2006. Such sums shall remain available until expended.
+In General.—There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended.
 
 (b)
 
-Emergency Fund.—The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
+Emergency Fund.—The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fundto, and maintain the fund at, a level not to exceed $4,000,000.
 
 (c)
 
-Academy.—
+Fees, Refunds, and Reimbursements.—
 
 &emsp;(1)
 
-Authorization.—There are authorized to be appropriated to the Board for necessary expenses of the National Transportation Safety Board Academy, not otherwise provided for, $3,347,000 for fiscal year 2003, $4,896,000 for fiscal year 2004, $4,995,000 for fiscal year 2005, and $5,200,000 for fiscal year 2006. Such sums shall remain available until expended.
+In general.—The Board may impose and collect such fees, refunds, and reimbursements as it determines to be appropriate for services provided by or through the Board.
 
 &emsp;(2)
 
-Fees.—The Board may impose and collect such fees as it determines to be appropriate for services provided by or through the Academy.
+Receipts credited as offsetting collections.—Notwithstanding section 3302 of title 31, any fee, refund, or reimbursement collected under this subsection—
 
-&emsp;(3)
+&emsp;&emsp;(A) shall be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed or with which the refund or reimbursement is associated;
 
-Receipts credited as offsetting collections.—Notwithstanding section 3302 of title 31, any fee collected under this subsection—
-
-&emsp;&emsp;(A) shall be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed;
-
-&emsp;&emsp;(B) shall be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+&emsp;&emsp;(B) shall be available for expenditure only to pay the costs of activities and services for which the fee is imposed or with which the refund or reimbursement is associated; and
 
 &emsp;&emsp;(C) shall remain available until expended.
 
-&emsp;(4)
+&emsp;(3)
 
 Refunds.—The Board may refund any fee paid by mistake or any amount paid in excess of that required.
 
-(d)
-
-Report on Academy Operations.—The National Transportation Safety Board shall transmit an annual report to the Congress on the activities and operations of the National Transportation Safety Board Academy.
-
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §13, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 108–168, §2, Dec. 6, 2003, 117 Stat. 2032.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §13, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 108–168, §2, Dec. 6, 2003, 117 Stat. 2032; Pub. L. 109–443, §8(a), (b)(1), (c), Dec. 21, 2006, 120 Stat. 3300.)
 
 Historical and Revision Notes
 
@@ -72,6 +64,12 @@ In subsection (b)(2), the words “amounts equal to amounts expended annually ou
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–443, §8(a), struck out “and” after “2005,” and substituted “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.” for “2006.”
+
+Subsec. (c). Pub. L. 109–443, §8(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to appropriations and fees for the National Transportation Safety Board Academy.
+
+Subsec. (d). Pub. L. 109–443, §8(c), struck out heading and text of subsec. (d). Text read as follows: “The National Transportation Safety Board shall transmit an annual report to the Congress on the activities and operations of the National Transportation Safety Board Academy.”
+
 2003—Subsec. (a). Pub. L. 108–168, §2(a), struck out “and” after “fiscal year 2001,” and substituted “$73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, and $87,539,000 for fiscal year 2006. Such sums shall” for “such sums to”.
 
 Subsec. (b). Pub. L. 108–168, §2(b), added second sentence and struck out former second sentence which read as follows: “Amounts equal to the amounts expended annually out of the fund are authorized to be appropriated to the emergency fund.”
@@ -99,4 +97,8 @@ Availability of Amounts.—Amounts appropriated under this section remain availa
 1996—Subsec. (a). Pub. L. 104–291 struck out “and” after “1995,” and inserted “, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999.” before period at end of first sentence.
 
 1994—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter.”
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–443, §8(b)(2), Dec. 21, 2006, 120 Stat. 3300, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 2005.”
 

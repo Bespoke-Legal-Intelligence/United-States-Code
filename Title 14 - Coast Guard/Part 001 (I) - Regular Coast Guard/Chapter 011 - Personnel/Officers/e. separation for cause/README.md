@@ -11,4 +11,4 @@ e. separation for cause
 - [&sect; 00324 - Composition of boards](%C2%A7%2000324%20-%20Composition%20of%20boards.md)
 - [&sect; 00325 - Rights and procedures](%C2%A7%2000325%20-%20Rights%20and%20procedures.md)
 - [&sect; 00326 - Removal of officer from active duty; action by Secretary](%C2%A7%2000326%20-%20Removal%20of%20officer%20from%20active%20duty%3B%20action%20by%20Secretary.md)
-- [&sect; 00327 - Officers considered for removal; retirement or discharge; severance benefits](%C2%A7%2000327%20-%20Officers%20considered%20for%20removal%3B%20retirement%20or%20discharge%3B%20severance%20benefits.md)
+- [&sect; 00327 - Officers considered for removal; retirement or discharge; separation benefits](%C2%A7%2000327%20-%20Officers%20considered%20for%20removal%3B%20retirement%20or%20discharge%3B%20separation%20benefits.md)

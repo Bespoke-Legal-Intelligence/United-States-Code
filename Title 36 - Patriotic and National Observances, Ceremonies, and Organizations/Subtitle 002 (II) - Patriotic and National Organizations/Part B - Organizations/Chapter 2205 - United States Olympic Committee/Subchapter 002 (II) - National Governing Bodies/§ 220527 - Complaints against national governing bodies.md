@@ -14,7 +14,7 @@ Exhaustion of Remedies.—(1) An organization or person may file a complaint und
 
 (c)
 
-Hearings.—If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it shall hold a hearing, within 90 days after the complaint is filed, to receive testimony to decide whether the national governing body is complying with sections 220522, 220524, and 220525 of this title.
+Hearings.—If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it shall hold a hearing, within 90 days after thecomplaint is filed, to receive testimony to decide whether the national governing body is complying with sections 220522, 220524, and 220525 of this title.
 
 (d)
 

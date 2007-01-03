@@ -8,9 +8,6 @@
 | [664\.](%C2%A7%2000664%20-%20Rights%20of%20way%20over%20reservoir%20sites%20generally.md) | Rights of way over reservoir sites generally. |
 | [665\.](%C2%A7%2000665%20-%20Rights%20of%20way%20over%20reservoir%20sites%20for%20wagon%20road%2C%20railroad%2C%20or%20other%20highway.md) | Rights of way over reservoir sites for wagon road, railroad, or other highway. |
 | [666\.](%C2%A7%2000666%20-%20Suits%20for%20adjudication%20of%20water%20rights.md) | Suits for adjudication of water rights. |
-| (a) | Joinder of United States as defendant; costs. |
-| (b) | Service of summons. |
-| (c) | Joinder in suits involving use of interstate streams by State. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

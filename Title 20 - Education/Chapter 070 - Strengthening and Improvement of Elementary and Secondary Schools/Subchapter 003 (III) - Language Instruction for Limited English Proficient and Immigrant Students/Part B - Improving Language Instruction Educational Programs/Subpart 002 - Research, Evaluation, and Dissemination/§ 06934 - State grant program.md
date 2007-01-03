@@ -6,7 +6,7 @@ The Secretary is authorized to make an award to a State educational agency that 
 
 #### (b) Payments
 
-The amount paid to a State educational agency under subsection (a) of this section shall not exceed 5 percent of the total amount awarded to local educational agencies and entities within the State under subpart 1 of this part for the previous fiscal year, except that in no case shall the amount paid by the Secretary to any State educational agency under this subsection for any fiscal year be less than $100,000.
+The amount paid to a State educational agency under subsection (a) of this section shall not exceed 5 percent of the total amount awarded tolocal educational agencies and entities within the State under subpart 1 of this part for the previous fiscal year, except that in no case shall the amount paid by the Secretary to any State educational agency under this subsection for any fiscal year be less than $100,000.
 
 #### (c) Use of funds
 

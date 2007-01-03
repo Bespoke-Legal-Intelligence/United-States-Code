@@ -58,7 +58,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(F) such other in-kind contributions as the Secretary may approve.
 
-> &emsp;Contributions for administrative expenses shall be recognized only up to an amountequal to 7 percent of the total amount of grants made available under this section.
+> &emsp;Contributions for administrative expenses shall be recognized only up to an amount equal to 7 percent of the total amount of grants made available under this section.
 
 #### (d) <sup>2</sup> Application
 

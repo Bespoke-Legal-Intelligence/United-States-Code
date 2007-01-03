@@ -16,7 +16,7 @@
 
 #### (4) Effect of failure to apply
 
-&emsp;If a State or Indian tribe fails to apply for, or fails to give notice to the Corporation of its intent to apply for, an allotment under thissubsection, the Corporation shall use the amount that would have been allotted under this subsection to the State or Indian tribe—
+&emsp;If a State or Indian tribe fails to apply for, or fails to give notice to the Corporation of its intent to apply for, an allotment under this subsection, the Corporation shall use the amount that would have been allotted under this subsection to the State or Indian tribe—
 
 &emsp;&emsp;(A) to make grants (and provide approved national service positions in connection with such grants) to other eligible entities under section 12571 of this title that propose to carry out national service programs in the State or on behalf of the Indian tribe; and
 

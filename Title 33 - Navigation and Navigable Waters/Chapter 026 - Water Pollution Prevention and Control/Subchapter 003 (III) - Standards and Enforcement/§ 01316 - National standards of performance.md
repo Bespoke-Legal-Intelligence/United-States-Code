@@ -12,7 +12,7 @@ For purposes of this section:
 
 (4) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a source.
 
-(5) The term “construction” means any placement, assembly, or installation of facilities or equipment (including contractual obligations topurchase such facilities or equipment) at the premises where such equipment will be used, including preparation work at such premises.
+(5) The term “construction” means any placement, assembly, or installation of facilities or equipment (including contractual obligations to purchase such facilities or equipment) at the premises where such equipment will be used, including preparation work at such premises.
 
 #### (b) Categories of sources; Federal standards of performance for new sources
 

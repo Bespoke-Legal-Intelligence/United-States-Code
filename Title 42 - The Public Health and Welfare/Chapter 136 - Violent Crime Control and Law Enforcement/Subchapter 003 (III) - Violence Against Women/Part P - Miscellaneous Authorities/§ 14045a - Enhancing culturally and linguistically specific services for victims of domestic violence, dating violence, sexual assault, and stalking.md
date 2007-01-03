@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Of the amounts appropriated under certain grant programs identified in paragraph (a)(2) of this Section,<sup>1</sup> the Attorney General, through the Director of the Violence Against Women Office (referred to in this section as the “Director”), shall take 5 percent of such appropriated amounts and combine them to establish a new grant program to enhance culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants made under this new program shall be administered by the Director.
+&emsp;Of the amounts appropriated under certain grant programs identified in paragraph (a)(2) of this Section,<sup>1</sup> the Attorney General, through the Director of the Violence Against Women Office (referred to in this section as the “Director”), shall take 5 percent of such appropriated amounts and combine them to establish a new grant program to enhance culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants made under this new program shall be administered by the Director. The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.
 
 #### (2) Programs covered
 
@@ -32,7 +32,23 @@
 
 #### (2) Purposes for which grants may be used
 
-&emsp;The Director shall make grants to community-based programs for the purpose of enhancing culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants under the program shall support community-based efforts to address distinctive cultural and linguistic responses to domestic violence, dating violence, sexual assault, and stalking.
+&emsp;The Director shall make grants to community-based programs for the purpose of enhancing culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants under the program shall support community-based efforts to address distinctive cultural and linguistic responses to domestic violence, dating violence, sexual assault, and stalking, including—
+
+&emsp;&emsp;(A) working with State and local governments and social service agencies to develop and enhance effective strategies to provide culturally and linguistically specific services to victims of domestic violence, dating violence, sexual assault, and stalking;
+
+&emsp;&emsp;(B) increasing communities’ capacity to provide culturally and linguistically specific resources and support for victims of domestic violence, dating violence, sexual assault, and stalking crimes and their families;
+
+&emsp;&emsp;(C) strengthening criminal justice interventions, by providing training for law enforcement, prosecution, courts, probation, and correctional facilities on culturally and linguistically specific responses to domestic violence, dating violence, sexual assault, and stalking;
+
+&emsp;&emsp;(D) enhancing traditional services to victims of domestic violence, dating violence, sexual assault, and stalking through the leadership of culturally and linguistically specific programs offering services to victims of domestic violence, dating violence, sexual assault, and stalking;
+
+&emsp;&emsp;(E) working in cooperation with the community to develop education and prevention strategies highlighting culturally and linguistically specific issues and resources regarding victims of domestic violence, dating violence, sexual assault, and stalking;
+
+&emsp;&emsp;(F) providing culturally and linguistically specific programs for children exposed to domestic violence, dating violence, sexual assault, and stalking;
+
+&emsp;&emsp;(G) providing culturally and linguistically specific resources and services that address the safety, economic, housing, and workplace needs of victims of domestic violence, dating violence, sexual assault, or stalking, including emergency assistance; or
+
+&emsp;&emsp;(H) examining the dynamics of culture and its impact on victimization and healing.
 
 #### (3) Technical assistance and training
 
@@ -62,7 +78,11 @@ The Director shall award a contract or cooperative agreement to evaluate program
 
 Nothing in this Section <sup>1</sup> shall be interpreted to exclude linguistic and culturally specific community-based programs from applying to other grant programs authorized under this Act.
 
-(Pub. L. 109–162, title I, §121, Jan. 5, 2006, 119 Stat. 2991.)
+#### (h) Definitions and grant conditions
+
+In this section the definitions and grant conditions in section 13925 of this title shall apply.
+
+(Pub. L. 109–162, title I, §121, Jan. 5, 2006, 119 Stat. 2991; Pub. L. 109–271, §§1(c)(3), 2(k), Aug. 12, 2006, 120 Stat. 751, 753.)
 
 #### References in Text
 
@@ -73,6 +93,18 @@ This Act, referred to in subsecs. (b)(3) and (g), is Pub. L. 109–162, Jan. 5, 
 #### Codification
 
 Section was enacted as part of the Violence Against Women and Department of Justice Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–271, §2(k)(1), inserted “The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.” at end.
+
+Subsec. (b)(2). Pub. L. 109–271, §2(k)(2), which directed substituting “, including—” and subpars. (A) to (H) for the period, was executed by making the substitution for the period at the end to reflect the probable intent of Congress.
+
+Subsec. (h). Pub. L. 109–271, §1(c)(3), added subsec. (h).
+
+#### Effective Date
+
+Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

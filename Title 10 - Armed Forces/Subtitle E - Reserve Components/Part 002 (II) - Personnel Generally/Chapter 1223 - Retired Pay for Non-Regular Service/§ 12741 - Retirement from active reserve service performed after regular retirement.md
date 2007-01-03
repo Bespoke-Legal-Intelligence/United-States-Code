@@ -20,11 +20,11 @@ Actions To Effectuate Election.—As of the effective date of an election made b
 
 (c)
 
-Time and Form of Election.—An election under subsection (b) shall be made within such time and in such form as the Secretary concerned requires.
+Time and Form of Election.—An election under subsection (a) shall be made within such time and in such form as the Secretary concerned requires.
 
 (d)
 
-Effective Date of Election.—An election made by a person under subsection (b) shall be effective—
+Effective Date of Election.—An election made by a person under subsection (a) shall be effective—
 
 &emsp;(1) except as provided in paragraph (2)(B), as of the date on which the person attains 60 years of age, if the Secretary concerned receives the election in accordance with this section within 180 days after that date; or
 
@@ -34,9 +34,11 @@ Effective Date of Election.—An election made by a person under subsection (b) 
 
 &emsp;&emsp;(B) the person retires from service in an active status within that 180-day period.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–164; amended Pub. L. 107–107, div. A, title X, §1048(a)(31), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–164; amended Pub. L. 107–107, div. A, title X, §1048(a)(31), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 109–364, div. A, title X, §1071(a)(41), Oct. 17, 2006, 120 Stat. 2400.)
 
 #### Amendments
+
+2006—Subsecs. (c), (d). Pub. L. 109–364 substituted “subsection (a)” for “subsection (b)”.
 
 2001—Subsec. (a)(2). Pub. L. 107–107 substituted “receive” for “received”.
 

@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Commerce shall make appropriate adjustments to the annual Current Population Survey conducted by the Bureau of the Census in order to produce statistically reliable annual State data on the number of low-income children who do not have health insurance coverage, so that real changes in the uninsurance rates of children can reasonably be detected. The Current Population Survey should produce data under this subsection that categorizes such children by family income, age, and race or ethnicity. The adjustments made to produce such data shall include, where appropriate, expanding the sample size used in the State sampling units, expanding the number of sampling units in a State, and an appropriate verification element.
+&emsp;The Secretary of Commerce shall make appropriate adjustments to the annual Current Population Survey conducted by the Bureau of the Census in order to produce statistically reliable annual State data on the number of low-income children who do not have health insurance coverage, so that real changes in the uninsurance rates of children can reasonably be detected. The Current Population Survey should produce data under this subsection that categorizes such children by family income, age, and race or ethnicity. The adjustments made to produce such data shall include,where appropriate, expanding the sample size used in the State sampling units, expanding the number of sampling units in a State, and an appropriate verification element.
 
 #### (2) Appropriation
 

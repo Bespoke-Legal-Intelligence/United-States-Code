@@ -102,7 +102,7 @@ A class III device—
 
 (B) Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless a significant issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
 
-(C) Whenever the Secretary determines that a portion of a submission under subparagraph (A) is unacceptable, the Secretary shall, in writing, provide to the applicant a description of any deficiencies in such portion and identify the information that is required to correct these deficiencies, unless the applicant is no longer pursuing the application.
+(C) Whenever the Secretary determines that a portion of a submission under subparagraph (A)is unacceptable, the Secretary shall, in writing, provide to the applicant a description of any deficiencies in such portion and identify the information that is required to correct these deficiencies, unless the applicant is no longer pursuing the application.
 
 #### (d) Action on application for premarket approval
 
@@ -152,7 +152,7 @@ A class III device—
 
 (B) The Secretary and the applicant may, by mutual consent, establish a different schedule for a meeting required under this paragraph.
 
-(4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section, and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g) of this section, of an order of the Secretary approving an application.
+(4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon whichhe receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section, and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g) of this section, of an order of the Secretary approving an application.
 
 (5) In order to provide for more effective treatment or diagnosis of life-threatening or irreversibly debilitating human diseases or conditions, the Secretary shall provide review priority for devices—
 
@@ -178,7 +178,7 @@ A class III device—
 
 #### (e) Withdrawal and temporary suspension of approval of application
 
-(1) The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from a panel or panels under section 360c of this title, and after due notice and opportunity for informal hearing to the holder of an approved application for a device, issue an order withdrawingapproval of the application if the Secretary finds—
+(1) The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from a panel or panels under section 360c of this title, and after due notice and opportunity for informal hearing to the holder of an approved application for a device, issue an order withdrawing approval of the application if the Secretary finds—
 
 &emsp;(A) that such device is unsafe or ineffective under the conditions of use prescribed, recommended, or suggested in the labeling thereof;
 
@@ -196,7 +196,7 @@ A class III device—
 
 (2) The holder of an application subject to an order issued under paragraph (1) withdrawing approval of the application may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such withdrawal, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section.
 
-(3) If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
+(3) If, after providing an opportunity for an informal hearing, the Secretary determines thereis reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
 
 #### (f) Product development protocol
 
@@ -300,7 +300,7 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the regulation requiring a device to remain in class III, establish a schedule for the promulgation of a subsection (b) of this section regulation for each device which is subject to the regulation requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990,104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576.)
 
 #### Amendments
 

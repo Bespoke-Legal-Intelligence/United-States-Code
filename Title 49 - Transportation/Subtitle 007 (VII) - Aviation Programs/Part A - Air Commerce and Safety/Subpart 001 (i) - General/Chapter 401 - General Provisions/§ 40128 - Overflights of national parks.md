@@ -138,7 +138,7 @@ Requirements and limitations.—Interim operating authority granted under this s
 
 &emsp;&emsp;(A) shall provide annual authorization only for the greater of—
 
-&emsp;&emsp;&emsp;(i) the number of flights used by the operator to provide the commercial air touroperations over a national park within the 12-month period prior to the date of the enactment of this section; or
+&emsp;&emsp;&emsp;(i) the number of flights used by the operator to provide the commercial air tour operations over a national park within the 12-month period prior to the date of the enactment of this section; or
 
 &emsp;&emsp;&emsp;(ii) the average number of flights per 12-month period used by the operator to provide such operations within the 36-month period prior to such date of enactment, and, for seasonal operations, the number of flights so used during the season or seasons covered by that 12-month period;
 
@@ -184,7 +184,7 @@ Exemptions.—This section shall not apply to—
 
 (e)
 
-Lake Mead.—This section shall not apply to any air tour operator while flying over or near the Lake Mead National Recreation Area, solely as a transportation route, to conduct an air tour over the Grand Canyon National Park. For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.
+Lake Mead.—This section shall not apply to any air tour operator while flying over ornear the Lake Mead National Recreation Area, solely as a transportation route, to conduct an air tour over the Grand Canyon National Park. For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.
 
 (f)
 
@@ -460,7 +460,7 @@ Nonapplication of faca.—Section 14 of the Federal Advisory Committee Act (5 U.
 
 “(a)
 
-Overflight Fee Report.—Not later than 180 days after the date of the enactment of this Act \[Apr.5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a report on the effects overflight fees are likely to have on the commercial air tour operation industry. The report shall include, but shall not be limited to—
+Overflight Fee Report.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a report on the effects overflight fees are likely to have on the commercial air tour operation industry. The report shall include, but shall not be limited to—
 
 &emsp;“(1) the viability of a tax credit for the commercial air tour operators equal to the amount of any overflight fees charged by the National Park Service; and
 

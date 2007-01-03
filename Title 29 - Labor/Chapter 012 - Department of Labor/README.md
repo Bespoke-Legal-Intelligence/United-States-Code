@@ -21,10 +21,6 @@
 | [564\.](%C2%A7%2000564%20-%20Working%20capital%20fund%3B%20availability%20for%20personnel%20functions%20in%20regional%20administrative%20offices.md) | Working capital fund; availability for personnel functions in regional administrative offices. |
 | [565\.](%C2%A7%2000565%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93382%2C%20title%20III%2C%20%C2%A7391%28i%29%2C%20Oct.%2020%2C%201994%2C%20108%20Stat.%204023.md) | Repealed. |
 | [566\.](%C2%A7%2000566%20-%20Employee%20drug%20and%20alcohol%20abuse%20assistance%20programs.md) | Employee drug and alcohol abuse assistance programs. |
-| (a) | Establishment. |
-| (b) | Applications. |
-| (c) | Regulations. |
-| (d) | Authorization of appropriations. |
 | [567\.](%C2%A7%2000567%20-%20Labor-management%20dispute%20settlement%20expenses.md) | Labor-management dispute settlement expenses. |
 | [568\.](%C2%A7%2000568%20-%20Acceptance%20of%20donations%20by%20Secretary.md) | Acceptance of donations by Secretary. |
 

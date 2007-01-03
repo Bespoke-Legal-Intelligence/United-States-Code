@@ -1,5 +1,5 @@
 
-14 U.S.C.<br>United States Code, 2005 Edition<br>Title 14 - COAST GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+14 U.S.C.<br>United States Code, 2006 Edition<br>Title 14 - COAST GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 14—COAST GUARD
 

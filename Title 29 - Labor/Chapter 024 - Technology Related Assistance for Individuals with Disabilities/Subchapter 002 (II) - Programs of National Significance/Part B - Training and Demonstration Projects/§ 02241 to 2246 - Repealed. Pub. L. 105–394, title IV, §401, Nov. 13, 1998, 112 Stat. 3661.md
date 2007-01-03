@@ -12,7 +12,7 @@ Section 2243, Pub. L. 100–407, title II, §213, as added Pub. L. 103–218, ti
 
 A prior section 2243, Pub. L. 100–407, title II, §213, Aug. 19, 1988, 102 Stat. 1060, prescribed contents of study conducted by Secretary of Labor concerning the national information and program referral network, prior to repeal by Pub. L. 103–218, §202.
 
-Section 2244, Pub. L. 100–407, title II, §214, as added Pub. L. 103–218, title II, §202, Mar. 9, 1994, 108 Stat. 90, related to business opportunities for individuals with disabilities.
+Section 2244, Pub. L. 100–407, title II, §214, as added Pub. L. 103–218, title II, §202, Mar. 9, 1994, 108 Stat. 90,related to business opportunities for individuals with disabilities.
 
 A prior section 2244, Pub. L. 100–407, title II, §214, Aug. 19, 1988, 102 Stat. 1062, prescribed timetable for study conducted by Secretary of Labor concerning the national information and program referral network, prior to repeal by Pub. L. 103–218, §202.
 

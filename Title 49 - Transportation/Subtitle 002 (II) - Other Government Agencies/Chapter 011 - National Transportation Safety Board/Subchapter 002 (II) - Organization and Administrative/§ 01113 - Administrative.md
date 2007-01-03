@@ -6,9 +6,9 @@ General Authority.—(1) The National Transportation Safety Board, and when auth
 
 (2) A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
-(3) A subpena shall be issued under the signature of the Chairman or the Chairman's delegate but may be served by any person designated by the Chairman.
+(3) A subpoena shall be issued under the signature of the Chairman or the Chairman's delegate but may be served by any person designated by the Chairman.
 
-(4) If a person disobeys a subpena, order, or inspection notice of the Board, the Board may bring a civil action in a district court of the United States to enforce the subpena, order, or notice. An action under this paragraph may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpena, order, or notice as a contempt of court.
+(4) If a person disobeys a subpoena, order, or inspection notice of the Board, the Board may bring a civil action in a district court of the United States to enforce the subpoena, order, or notice. An action under this paragraph may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena, order, or notice as a contempt of court.
 
 (b)
 
@@ -16,7 +16,7 @@ Additional Powers.—(1) The Board may—
 
 &emsp;(A) procure the temporary or intermittent services of experts or consultants under section 3109 of title 5;
 
-&emsp;(B) make agreements and other transactions necessary to carry out this chapter without regard to section 3709 of the Revised Statutes (41 U.S.C. 5);
+&emsp;(B) make agreements and other transactions necessary to carry out this chapter withoutregard to section 3709 of the Revised Statutes (41 U.S.C. 5);
 
 &emsp;(C) use, when appropriate, available services, equipment, personnel, and facilities of a department, agency, or instrumentality of the United States Government on a reimbursable or other basis;
 
@@ -36,7 +36,7 @@ Additional Powers.—(1) The Board may—
 
 (c)
 
-Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not require the Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress.
+Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not require the Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress. The Board shall develop and approve a process for the Board's review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.
 
 (d)
 
@@ -44,7 +44,7 @@ Liaison Committees.—The Chairman may determine the number of committees that a
 
 (e)
 
-Inquiries.—The Board, or an officer or employee of the Board designated by the Chairman, may conduct an inquiry to obtain information related to transportation safety after publishing notice of the inquiry in the Federal Register. The Board or designated officer or employee may require by order a department, agency, or instrumentality of the Government, a State orlocal governmental authority, or a person transporting individuals or property in commerce to submit to the Board a written report and answers to requests and questions related to a duty or power of the Board. The Board may prescribe the time within which the report and answers must be given to the Board or to the designated officer or employee. Copies of the report and answers shall be made available for public inspection.
+Inquiries.—The Board, or an officer or employee of the Board designated by the Chairman, may conduct an inquiry to obtain information related to transportation safety after publishing notice of the inquiry in the Federal Register. The Board or designated officer or employee may require by order a department, agency, or instrumentality of the Government, a State or local governmental authority, or a person transporting individuals or property in commerce to submit to the Board a written report and answers to requests and questions related to a duty or power of the Board. The Board may prescribe the time within which the report and answers must be given to the Board or to the designated officer or employee. Copies of the report and answers shall be made available for public inspection.
 
 (f)
 
@@ -74,7 +74,11 @@ Basic pay defined.—In this subsection, the term “basic pay” includes any a
 
 Annual report.—Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884.)
+(h)
+
+Investigative Officers.—The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from thenearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884; Pub. L. 109–443, §9(e)–(g), Dec. 21, 2006, 120 Stat. 3301.)
 
 Historical and Revision Notes
 
@@ -166,7 +170,7 @@ In subsection (b)(1)(C), the words “Department of Transportation and of other�
 
 In subsection (b)(1)(D), the word “available” is omitted as surplus.
 
-In subsection (b)(1)(E), the words “one or more” are omitted as surplus because the authority to appoint advisory committees is discretionary and unlimited on its face. The word “appropriate” is substituted for “necessary or appropriate” to eliminate unnecessarywords. The words “in accordance with the Federal Advisory Committee Act” are omitted as surplus because that Act applies unless specifically excluded. (See 5 App. U.S.C.)
+In subsection (b)(1)(E), the words “one or more” are omitted as surplus because the authority to appoint advisory committees is discretionary and unlimited on its face. The word “appropriate” is substituted for “necessary or appropriate” to eliminate unnecessary words. The words “in accordance with the Federal Advisory Committee Act” are omitted as surplus because that Act applies unless specifically excluded. (See 5 App. U.S.C.)
 
 In subsection (b)(1)(G), the words “gifts of money and other property” are substituted for “gifts or donations of money or property (real, personal, mixed, tangible, or intangible)” to eliminate unnecessary words.
 
@@ -188,25 +192,33 @@ GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under
 
 #### Amendments
 
+2006—Subsec. (a)(3). Pub. L. 109–443, §9(e), substituted “subpoena” for “subpena”.
+
+Subsec. (a)(4). Pub. L. 109–443, §9(e), which directed substitution of “subpoena” for “subpena”, was executed by making the substitution wherever appearing, to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 109–443, §9(f), inserted at end “The Board shall develop and approve a process for the Board's review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.”
+
+Subsec. (h). Pub. L. 109–443, §9(g), added subsec. (h).
+
 2000—Subsec. (b)(1)(I). Pub. L. 106–424, §3(a), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “require that the departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries provide appropriate consideration for the reasonable costs of goods and services supplied by the Board.”
 
-Subsec. (b)(2). Pub. L. 106–424, §3(b)(1), inserted “as offsetting collections” after “to be credited” and “The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.” at end.
+Subsec. (b)(2). Pub. L. 106–424, §3(b)(1), inserted “as offsetting collections” after “to be credited” and “The Board shall maintain an annual record of collectionsreceived under paragraph (1)(I) of this subsection.” at end.
 
 Subsec. (g). Pub. L. 106–424, §4, added subsec. (g).
 
 #### Relief From Contracting Requirements for Investigations Services
 
-Pub. L. 108–168, §4, Dec. 6, 2003, 117 Stat. 2033, provided that:
+Pub. L. 108–168, §4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109–443, §3, Dec. 21, 2006, 120 Stat. 3298, provided that:
 
 “(a)
 
-In General.—From the date of enactment of this Act \[Dec. 6, 2003\] through September 30, 2006, the National Transportation Safety Board may enter into agreements or contracts under the authority of section 1113(b)(1)(B) of title 49, United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation.
+In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of section 1113(b)(1)(B) of title 49, United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation.
 
 “(b)
 
-Report on Usage.—On February 1, 2006, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform, the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
+Report on Usage.—On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform, the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
 
-&emsp;“(1) describes each contract for $25,000 or more executed by the Board to which the authority provided by subsection (a) was applied; and
+&emsp;“(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and
 
 &emsp;“(2) sets forth the rationale for dispensing with competition requirements with respect to such contract.”
 

@@ -50,7 +50,7 @@ A creditor may not unilaterally terminate any account under an open end consumer
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(F), a change shall be deemed to benefit the consumer if the change is unequivocally beneficial to the borrower and the change is beneficial through the entire term of the agreement.
+&emsp;&emsp;For purposes of paragraph (2)(F), a change shall be deemed to benefit the consumer if the change is unequivocally beneficial to theborrower and the change is beneficial through the entire term of the agreement.
 
 #### (B) Board categorization
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) the public should be protected against unreasonable risks of injury associated with consumer products;
 
-&emsp;(4) control by State and local governments of unreasonable risks of injury associated withconsumer products is inadequate and may be burdensome to manufacturers;
+&emsp;(4) control by State and local governments of unreasonable risks of injury associated with consumer products is inadequate and may be burdensome to manufacturers;
 
 &emsp;(5) existing Federal authority to protect consumers from exposure to consumer products presenting unreasonable risks of injury is inadequate; and
 

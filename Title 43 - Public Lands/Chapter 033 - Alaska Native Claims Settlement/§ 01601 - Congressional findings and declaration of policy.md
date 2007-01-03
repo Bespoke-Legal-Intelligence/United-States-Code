@@ -38,7 +38,7 @@ Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: “This A
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617, 1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
+Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617,1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
 
 #### Short Title of 1988 Amendment
 

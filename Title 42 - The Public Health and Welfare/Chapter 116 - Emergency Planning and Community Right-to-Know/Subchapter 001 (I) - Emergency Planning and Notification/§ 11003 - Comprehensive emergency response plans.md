@@ -12,7 +12,7 @@ Each local emergency planning committee shall evaluate the need for resources ne
 
 Each emergency plan shall include (but is not limited to) each of the following:
 
-&emsp;(1) Identification of facilities subject to the requirements of this subchapter that are within the emergency planning district, identification of routes likely to be used for the transportation of substances on the list of extremely hazardous substances referred to insection 11002(a) of this title, and identification of additional facilities contributing or subjected to additional risk due to their proximity to facilities subject to the requirements of this subchapter, such as hospitals or natural gas facilities.
+&emsp;(1) Identification of facilities subject to the requirements of this subchapter that are within the emergency planning district, identification of routes likely to be used for the transportation of substances on the list of extremely hazardous substances referred to in section 11002(a) of this title, and identification of additional facilities contributing or subjected to additional risk due to their proximity to facilities subject to the requirements of this subchapter, such as hospitals or natural gas facilities.
 
 &emsp;(2) Methods and procedures to be followed by facility owners and operators and local emergency and medical personnel to respond to any release of such substances.
 
@@ -42,7 +42,7 @@ For each facility subject to the requirements of this subchapter:
 
 #### (e) Review by State emergency response commission
 
-After completion of an emergency plan under subsection (a) of this section for an emergency planning district, the local emergency planning committee shall submit a copy of the plan to the State emergency response commission of each State in which such district is located. The commission shall review the plan and make recommendations to the committee on revisions of the plan that may be necessary to ensure coordination of such plan with emergency response plans of other emergency planning districts. To the maximum extent practicable, such review shall not delay implementation of such plan.
+After completion of an emergency plan under subsection (a) of this section for an emergency planning district, the local emergency planning committee shall submit a copy of the plan to the State emergency response commission ofeach State in which such district is located. The commission shall review the plan and make recommendations to the committee on revisions of the plan that may be necessary to ensure coordination of such plan with emergency response plans of other emergency planning districts. To the maximum extent practicable, such review shall not delay implementation of such plan.
 
 #### (f) Guidance documents
 

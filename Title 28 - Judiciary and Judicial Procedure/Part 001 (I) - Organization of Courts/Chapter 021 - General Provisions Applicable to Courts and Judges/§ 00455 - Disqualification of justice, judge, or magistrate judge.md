@@ -4,13 +4,13 @@
 
 (b) He shall also disqualify himself in the following circumstances:
 
-&emsp;(1) Where he has a personal bias or prejudice concerning a party, or personal knowledge ofdisputed evidentiary facts concerning the proceeding;
+&emsp;(1) Where he has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;
 
 &emsp;(2) Where in private practice he served as lawyer in the matter in controversy, or a lawyer with whom he previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been a material witness concerning it;
 
 &emsp;(3) Where he has served in governmental employment and in such capacity participated as counsel, adviser or material witness concerning the proceeding or expressed an opinion concerning the merits of the particular case in controversy;
 
-&emsp;(4) He knows that he, individually or as a fiduciary, or his spouse or minor child residing in his household, has a financial interest in the subject matter in controversy or in a party to the proceeding, or any other interest that could be substantially affected by the outcome of the proceeding;
+&emsp;(4) He knows that he, individually or as a fiduciary, or his spouse or minor child residing in his household, has a financial interest inthe subject matter in controversy or in a party to the proceeding, or any other interest that could be substantially affected by the outcome of the proceeding;
 
 &emsp;(5) He or his spouse, or a person within the third degree of relationship to either of them, or the spouse of such a person:
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Section 3 of Pub. L. 93–512 provided that: “This Act \[amending this section\] shall not apply to the trial of any proceeding commenced prior to the date of this Act \[Dec. 5, 1974\], nor to appellate review of any proceeding which was fully submitted to the reviewing court prior to the date of this Act.”
+Section 3 of Pub. L. 93–512 provided that: “This Act \[amending this section\] shall not apply to the trial ofany proceeding commenced prior to the date of this Act \[Dec. 5, 1974\], nor to appellate review of any proceeding which was fully submitted to the reviewing court prior to the date of this Act.”
 

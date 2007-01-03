@@ -8,7 +8,7 @@ Rural development extension programs shall consist of the collection, interpreta
 
 #### (b) Rural development research
 
-Rural development research shall consist of research, investigations, and basic feasibility studies in any field or discipline that may develop principles, facts, scientific and technical knowledge, new technology, and other information that may be useful to agencies of Federal, State, and local government, industries in rural areas, Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, and other organizations involved in community and rural development programs and activities in planning and carrying out such programs and activities or otherwise be practical and useful in achieving the purposes and goals of this subchapter.
+Rural development research shall consist of research, investigations, and basic feasibilitystudies in any field or discipline that may develop principles, facts, scientific and technical knowledge, new technology, and other information that may be useful to agencies of Federal, State, and local government, industries in rural areas, Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, and other organizations involved in community and rural development programs and activities in planning and carrying out such programs and activities or otherwise be practical and useful in achieving the purposes and goals of this subchapter.
 
 #### (c) Small farm research programs
 
@@ -154,7 +154,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 &emsp;For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180.)
+(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a),Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch.
 
 #### Prior Provisions
 
-A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, §1440,Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, §1440, Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
 
@@ -236,7 +236,7 @@ Pub. L. 101–624, §2390(b)(1), added subsec. (h) relating to rural health and 
 
 &emsp;“(iv) implement financial planning and management strategies; and
 
-&emsp;“(v) provide linkages to specific resources and opportunities that are available to the farmer, such as reentering agriculture, new business opportunities, other off-farm jobs, job search programs, and retraining skills.
+&emsp;“(v) provide linkages to specific resources and opportunities that are available to the farmer, such asreentering agriculture, new business opportunities, other off-farm jobs, job search programs, and retraining skills.
 
 “(C) The Secretary also may provide support to mental health officials in developing outreach programs in rural areas.
 

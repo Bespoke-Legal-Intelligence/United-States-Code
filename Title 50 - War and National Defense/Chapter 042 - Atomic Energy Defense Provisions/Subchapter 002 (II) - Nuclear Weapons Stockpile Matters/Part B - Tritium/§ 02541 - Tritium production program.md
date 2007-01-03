@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the UnitedStates for nuclear weapons. In carrying out the tritium production program, the Secretary shall—
+The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons. In carrying out the tritium production program, the Secretary shall—
 
 &emsp;(1) complete the tritium supply and recycling environmental impact statement in preparation by the Secretary as of February 10, 1996; and
 

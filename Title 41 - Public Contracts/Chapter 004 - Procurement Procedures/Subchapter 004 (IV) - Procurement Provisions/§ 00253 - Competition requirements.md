@@ -6,7 +6,7 @@
 
 &emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this subchapter and the Federal Acquisition Regulation; and
 
-&emsp;(B) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
+&emsp;(B) shall use the competitive procedure or combination of competitive procedures that isbest suited under the circumstances of the procurement.
 
 (2) In determining the competitive procedures appropriate under the circumstance, an executive agency—
 
@@ -70,7 +70,7 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (1) For the purposes of applying subsection (c)(1) of this section—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, theproperty or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
 
 &emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
 
@@ -92,7 +92,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
 
-&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3)<sup>1</sup> of this title (without further delegation); and
+&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) <sup>1</sup> of this title (without further delegation); and
 
 &emsp;(C) any required notice has been published with respect to such contract pursuant to section 416 of this title and all bids or proposals received in response to such notice have been considered by such executive agency.
 
@@ -136,7 +136,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;(A) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
-&emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonablyexpects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
 (2)(A) The Administrator of General Services shall prescribe regulations that provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified acquisition threshold.
 

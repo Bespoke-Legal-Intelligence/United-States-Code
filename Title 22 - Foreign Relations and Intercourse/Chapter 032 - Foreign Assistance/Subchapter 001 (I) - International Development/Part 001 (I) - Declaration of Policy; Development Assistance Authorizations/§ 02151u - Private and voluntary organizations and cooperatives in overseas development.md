@@ -22,7 +22,7 @@ Prohibitions on assistance to countries contained in this chapter or any other A
 
 #### (f) Funds for private and voluntary organizations
 
-For each of the fiscal years 1986 through 1989, funds in an amount not less than thirteen and one half percent of the aggregate amount appropriated for that fiscal year to carry out sections 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2151s,<sup>1</sup> and 2292 of this title shall be made available for the activities of private and voluntary organizations, and the President shall seek to channel funds in an amount not less than 16 percent of such aggregate amount for the activities of private and voluntary organizations. Funds made available under part IV of subchapter II of this chapter for the activities of private and voluntary organizations may be considered in determining compliance with the requirements of this subsection.
+For each of the fiscal years 1986 through 1989, funds in an amount not less than thirteen and one half percent of the aggregate amount appropriated for that fiscal year to carry out sections2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2151s,<sup>1</sup> and 2292 of this title shall be made available for the activities of private and voluntary organizations, and the President shall seek to channel funds in an amount not less than 16 percent of such aggregate amount for the activities of private and voluntary organizations. Funds made available under part IV of subchapter II of this chapter for the activities of private and voluntary organizations may be considered in determining compliance with the requirements of this subsection.
 
 #### (g) Repealed. Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156
 
@@ -86,7 +86,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Private and Volunteer Organizations
 
-Pub. L. 108–199, div. D, title V, §502, Jan. 23, 2004, 118 Stat. 166, which prohibited any funds appropriated or otherwise made available by div. D of Pub. L. 108–199 from being made available to any United States private and voluntary organization, except any cooperative development organization, which obtained less than 20 percent of its total annual funding for international activities from sources other than the United States Government, with certain exceptions, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2004, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 108–199, div. D, title V, §502, Jan. 23, 2004, 118 Stat. 166, which prohibited any funds appropriated or otherwise made available by div. D of Pub. L. 108–199 from being made available to any United States private and voluntary organization, except any cooperative development organization, which obtained less than 20 percent of its total annual funding for international activities from sources other than the United States Government, with certain exceptions, was from the Foreign Operations, Export Financing, and Related ProgramsAppropriations Act, 2004, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 108–7, div. E, title V, §502(a), Feb. 20, 2003, 117 Stat. 180.
 

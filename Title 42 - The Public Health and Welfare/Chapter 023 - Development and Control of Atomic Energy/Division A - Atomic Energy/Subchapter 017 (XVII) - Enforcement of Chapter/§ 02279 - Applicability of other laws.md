@@ -8,7 +8,3 @@ Sections 2274 to 2278b of this title shall not exclude the applicable provisions
 
 1956—Act Aug. 6, 1956, §7, substituted “2274 to 2278b” for “2274 to 2278”.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

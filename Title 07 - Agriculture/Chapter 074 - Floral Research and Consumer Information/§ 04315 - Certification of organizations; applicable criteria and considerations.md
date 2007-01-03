@@ -4,7 +4,7 @@ The eligibility of any organization to represent producers of flowers and plants
 
 &emsp;(1) geographic territory covered by the organization's active membership;
 
-&emsp;(2) nature and size of the organization's active membership, the proportion of such active membership accounted for by producers and importers, and information as to the volumeof production by State or the volume of importation by country accounted for by the organization's producer and importer members;
+&emsp;(2) nature and size of the organization's active membership, the proportion of such active membership accounted for by producers and importers, and information as to the volume of production by State or the volume of importation by country accounted for by the organization's producer and importer members;
 
 &emsp;(3) the extent to which the producer and importer membership of such organization is represented in setting the organization's policies;
 

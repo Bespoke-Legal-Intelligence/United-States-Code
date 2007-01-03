@@ -6,13 +6,13 @@
 
 &emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
 
-&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
+&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) afterreasonable efforts by the employer to qualify the person.
 
 &emsp;(2) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for more than 90 days—
 
 &emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, or a position of like seniority, status and pay, the duties of which the person is qualified to perform; or
 
-&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of thecommencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the duties of a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
+&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the duties of a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
 &emsp;(3) In the case of a person who has a disability incurred in, or aggravated during, such service, and who (after reasonable efforts by the employer to accommodate the disability) is not qualified due to such disability to be employed in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service—
 

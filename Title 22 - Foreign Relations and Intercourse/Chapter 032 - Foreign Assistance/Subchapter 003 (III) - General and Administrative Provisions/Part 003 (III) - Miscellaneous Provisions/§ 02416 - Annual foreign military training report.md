@@ -26,7 +26,7 @@ The report described in subsection (a) of this section shall be in unclassified 
 
 #### (d) Availability on Internet
 
-All unclassified portions of the report described in subsection (a) of this section shall be made available to the public on the Internet through the Department of State.
+All unclassified portions of the report described in subsection (a) of this section shall bemade available to the public on the Internet through the Department of State.
 
 #### (e) Definition
 

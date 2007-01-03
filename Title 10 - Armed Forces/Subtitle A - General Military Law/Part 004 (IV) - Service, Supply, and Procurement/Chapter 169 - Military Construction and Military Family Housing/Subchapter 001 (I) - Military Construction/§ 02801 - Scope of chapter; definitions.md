@@ -4,7 +4,7 @@
 
 (b) A military construction project includes all military construction work, or any contribution authorized by this chapter, necessary to produce a complete and usable facility or a complete and usable improvement to an existing facility (or to produce such portion of a complete and usable facility or improvement as is specifically authorized by law).
 
-(c) In this chapter:
+(c) In this chapter and chapter 173 of this title:
 
 &emsp;(1) The term “facility” means a building, structure, or other improvement to real property.
 
@@ -16,11 +16,13 @@
 
 (d) This chapter (other than sections 2830, 2835, and 2836 of this chapter) does not apply to the Coast Guard or to civil works projects of the Army Corps of Engineers.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(16), div. B, title XXVIII, §2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, §1056(c)(9), Jan. 6, 2006, 119 Stat. 3440.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(16), div. B, title XXVIII, §2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, §1056(c)(9), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2851(b)(4), Oct. 17, 2006, 120 Stat. 2495.)
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–163 substituted “sections 2830, 2835, and 2836 of this chapter” for “sections 2830 and 2835”.
+2006—Subsec. (c). Pub. L. 109–364 inserted “and chapter 173 of this title” after “this chapter” in introductory provisions.
+
+Subsec. (d). Pub. L. 109–163 substituted “sections 2830, 2835, and 2836 of this chapter” for “sections 2830 and 2835”.
 
 2003—Subsec. (a). Pub. L. 108–136, §2801(a), inserted before period at end “, whether to satisfy temporary or permanent requirements”.
 

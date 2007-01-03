@@ -24,7 +24,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;&emsp;(I) the giving of timely and effective notification of, and opportunities for public and local government participation in, coastal management decisionmaking,
 
-&emsp;&emsp;(J) assistance to support comprehensive planning, conservation, and management forliving marine resources, including planning for the siting of pollution control and aquaculture facilities within the coastal zone, and improved coordination between State and Federal coastal zone management agencies and State and wildlife agencies, and
+&emsp;&emsp;(J) assistance to support comprehensive planning, conservation, and management for living marine resources, including planning for the siting of pollution control and aquaculture facilities within the coastal zone, and improved coordination between State and Federal coastal zone management agencies and State and wildlife agencies, and
 
 &emsp;&emsp;(K) the study and development, in any case in which the Secretary considers it to be appropriate, of plans for addressing the adverse effects upon the coastal zone of land subsidence and of sea level rise; and
 

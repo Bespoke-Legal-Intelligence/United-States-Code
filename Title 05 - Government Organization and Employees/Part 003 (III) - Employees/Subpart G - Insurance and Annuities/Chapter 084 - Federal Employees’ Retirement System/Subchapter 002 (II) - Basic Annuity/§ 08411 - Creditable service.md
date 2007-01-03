@@ -66,7 +66,7 @@
 
 &emsp;(ii) this paragraph shall be carried out in any case which involves a former spouse.
 
-(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholdingor the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
+(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
 
 (d) Credit under this chapter shall be allowed for leaves of absence without pay granted an employee while performing military service, or while receiving benefits under subchapter I of chapter 81. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been on leave of absence without pay for that part of the period in which that individual was receiving benefits under subchapter I of chapter 81. Credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
 
@@ -106,7 +106,7 @@
 
 (2) Service credited under subsection (b)(6) may not also be credited under any other retirement system provided for employees paid from nonappropriated funds of a nonappropriated fund instrumentality.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A,§901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 107–107 applicable only to separations from service as an
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–168 effective Dec. 12, 1999, and applicable only to individuals who separate from service subject to chapter 84 of this title on or afterDec. 12, 1999, see section 202(d) of Pub. L. 106–168, set out as a note under section 8402 of this title.
+Amendment by Pub. L. 106–168 effective Dec. 12, 1999, and applicable only to individuals who separate from service subject to chapter 84 of this title on or after Dec. 12, 1999, see section 202(d) of Pub. L. 106–168, set out as a note under section 8402 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 102–242 applicable with respect to any individual who tra
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dies on or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
+Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dieson or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
 
 #### Transfer of Functions
 
@@ -270,7 +270,7 @@ In general.—The Office of Personnel Management shall take such action as may b
 
 &emsp;&emsp;“(B)
 
-Assistance to individuals.—The Office shall, on request, assist any individual referred toin subparagraph (A) in obtaining from any department, agency, or other instrumentality of the United States such information in the possession of such instrumentality as may be necessary to verify the entitlement of such individual to have any service credited, or to have any annuity computed or recomputed, pursuant to this section.
+Assistance to individuals.—The Office shall, on request, assist any individual referred to in subparagraph (A) in obtaining from any department, agency, or other instrumentality of the United States such information in the possession of such instrumentality as may be necessary to verify the entitlement of such individual to have any service credited, or to have any annuity computed or recomputed, pursuant to this section.
 
 &emsp;&emsp;“(C)
 

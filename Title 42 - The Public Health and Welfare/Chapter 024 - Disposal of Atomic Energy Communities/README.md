@@ -15,9 +15,6 @@
 | [2309\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002309%20-%20Administrative%20review.md) | Administrative review. |
 | [2310\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002310%20-%20Repossession%20of%20property%3B%20powers%20of%20Commission.md) | Repossession of property; powers of Commission. |
 | [2311\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002311%20-%20Community%20Disposal%20Operations%20Fund.md) | Community Disposal Operations Fund. |
-| (a) | Establishment. |
-| (b) | Availability. |
-| (c) | Liquidating dividends. |
 | [2312\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002312%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2313\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002313%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
 | 2314, 2315. Repealed. |  |
@@ -33,14 +30,7 @@
 | [2323\.](Subchapter%20002%20%28II%29%20-%20Lots%2C%20Appraisals%2C%20and%20Prices/%C2%A7%2002323%20-%20Basis%20of%20appraisal.md) | Basis of appraisal. |
 | [2324\.](Subchapter%20002%20%28II%29%20-%20Lots%2C%20Appraisals%2C%20and%20Prices/%C2%A7%2002324%20-%20Posting%20of%20lists%20showing%20appraised%20value.md) | Posting of lists showing appraised value. |
 | [2325\.](Subchapter%20002%20%28II%29%20-%20Lots%2C%20Appraisals%2C%20and%20Prices/%C2%A7%2002325%20-%20Sales%20price.md) | Sales price. |
-| (a) | Government-owned single or duplex houses. |
-| (b) | Other properties. |
-| (c) | Appraised value of interest in commercial property. |
 | [2326\.](Subchapter%20002%20%28II%29%20-%20Lots%2C%20Appraisals%2C%20and%20Prices/%C2%A7%2002326%20-%20Deductions%20from%20sales%20price.md) | Deductions from sales price. |
-| (a) | Improvements. |
-| (b) | Improvements by occupant of single family or duplex house. |
-| (c) | Determination of value of improvements. |
-| (d) | Additional deduction to persons purchasing property without benefit of indemnity provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,9 +39,6 @@
 |  |  |
 | :--- | ---: |
 | [2331\.](Subchapter%20003%20%28III%29%20-%20Classification%20of%20Property%20and%20Priorities/%C2%A7%2002331%20-%20Classification%20of%20property.md) | Classification of property. |
-| (a) | Property within each community. |
-| (b) | Property at or in vicinity of each community. |
-| (c) | Residential structures within each community. |
 | [2332\.](Subchapter%20003%20%28III%29%20-%20Classification%20of%20Property%20and%20Priorities/%C2%A7%2002332%20-%20Priorities%3B%20uniformity%3B%20preferences%3B%20impairment%20of%20rights.md) | Priorities; uniformity; preferences; impairment of rights. |
 | [2333\.](Subchapter%20003%20%28III%29%20-%20Classification%20of%20Property%20and%20Priorities/%C2%A7%2002333%20-%20Transfer%20of%20priorities.md) | Transfer of priorities. |
 
@@ -63,23 +50,12 @@
 | :--- | ---: |
 | [2341\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002341%20-%20Applicability%20of%20subchapter.md) | Applicability of subchapter. |
 | [2342\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002342%20-%20Disposal%20of%20property.md) | Disposal of property. |
-| (a) | Property under lease or license agreement. |
-| (b) | Discretionary disposal of other real property. |
-| (c) | Terms and conditions; impairment of rights. |
 | [2343\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002343%20-%20Sales.md) | Sales. |
-| (a) | Notice to priority holders. |
-| (b) | Sale of property to highest bidder. |
-| (c) | Disposal of property not sold at auction. |
-| (d) | Church property. |
 | [2344\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002344%20-%20Cash%20sales.md) | Cash sales. |
 | [2345\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002345%20-%20Deeds%3B%20form%20and%20provisions.md) | Deeds; form and provisions. |
 | [2346\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002346%20-%20Occupancy%20by%20existing%20tenants.md) | Occupancy by existing tenants. |
 | [2347\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002347%20-%20Sale%20of%20lots%20to%20lessees%20or%20individual%20owners.md) | Sale of lots to lessees or individual owners. |
 | [2348\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002348%20-%20Priority%20sale%20of%20apartment%20houses.md) | Priority sale of apartment houses. |
-| (a) | Grantees eligible; priorities; applicability of deduction, financing and indemnity provisions. |
-| (b) | Leasing arrangements by non-participants in apartment house sales; assumption of lessor's obligations. |
-| (c) | Eligibility to participate in priority purchase. |
-| (d) | Rules and regulations. |
 | [2349\.](Subchapter%20004%20%28IV%29%20-%20Sales%20of%20Property%20for%20Private%20Use/%C2%A7%2002349%20-%20Hanford%20project%3B%20disposal%20of%20property.md) | Hanford project; disposal of property. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,10 +66,6 @@
 | :--- | ---: |
 | [2361\.](Subchapter%20005%20%28V%29%20-%20Financing/%C2%A7%2002361%20-%20Contract%20to%20purchase%20by%20priority%20purchaser.md) | Contract to purchase by priority purchaser. |
 | [2362\.](Subchapter%20005%20%28V%29%20-%20Financing/%C2%A7%2002362%20-%20Financing%20by%20Commission.md) | Financing by Commission. |
-| (a) | Acceptance of residential property notes. |
-| (b) | Advances. |
-| (c) | Acceptance of commercial property notes. |
-| (d) | Sale of notes and mortgages. |
 | [2363\.](Subchapter%20005%20%28V%29%20-%20Financing/%C2%A7%2002363%20-%20Indemnity%20obligation%20of%20Commission%3B%20incorporation%20by%20reference%20in%20deed.md) | Indemnity obligation of Commission; incorporation by reference in deed. |
 | [2364\.](Subchapter%20005%20%28V%29%20-%20Financing/%C2%A7%2002364%20-%20Community%20employment%20and%20population.md) | Community employment and population. |
 | [2365\.](Subchapter%20005%20%28V%29%20-%20Financing/%C2%A7%2002365%20-%20Amount%20of%20indemnity.md) | Amount of indemnity. |
@@ -131,11 +103,6 @@
 |  |  |
 | :--- | ---: |
 | [2391\.](Subchapter%20008%20%28VIII%29%20-%20Local%20Assistance/%C2%A7%2002391%20-%20Assistance%20to%20governmental%20entities.md) | Assistance to governmental entities. |
-| (a) | Annual assistance payments; extensions; determination of amount and recipient. |
-| (b) | Special interim payments. |
-| (c) | Payments for special burdens. |
-| (d) | Recommendation for further assistance payments. |
-| (e) | Reduction or termination of assistance payments; determination by Administrator of financial self-sufficiency. |
 | [2392\.](Subchapter%20008%20%28VIII%29%20-%20Local%20Assistance/%C2%A7%2002392%20-%20Reduction%20of%20payments.md) | Reduction of payments. |
 | [2393\.](Subchapter%20008%20%28VIII%29%20-%20Local%20Assistance/%C2%A7%2002393%20-%20Payments%20in%20anticipation%20of%20services%3B%20withholding%20of%20payments.md) | Payments in anticipation of services; withholding of payments. |
 | [2394\.](Subchapter%20008%20%28VIII%29%20-%20Local%20Assistance/%C2%A7%2002394%20-%20Contract%20to%20make%20payments.md) | Contract to make payments. |

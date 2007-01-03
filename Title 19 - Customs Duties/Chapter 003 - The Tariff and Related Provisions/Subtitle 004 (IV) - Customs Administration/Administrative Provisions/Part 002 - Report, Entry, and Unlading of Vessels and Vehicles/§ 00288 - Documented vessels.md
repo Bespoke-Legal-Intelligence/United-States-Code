@@ -2,17 +2,17 @@
 
 Documented vessels with a registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada, shall not thereby become liable to the payment of entry and clearance fees.
 
-(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; Pub. L. 103–182, title VI, §686(a)(1), Dec. 8, 1993, 107 Stat. 2220; Pub. L. 104–324, title XI, §1115(b)(4), Oct. 19, 1996, 110 Stat. 3972.)
+(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; Pub. L. 103–182, title VI, §686(a)(1), Dec. 8, 1993, 107 Stat. 2220; Pub. L. 104–324, title XI, §1115(b)(4), Oct. 19, 1996, 110 Stat. 3972; Pub. L. 109–304, §14(a), Oct. 6, 2006, 120 Stat. 1702.)
 
 #### Codification
 
+R.S. §2793 as it related to entry and clearance fees was classified to this section and section 111 of the former Appendix to Title 46, Shipping. R.S. §2793 as it related to payment of tonnage taxes was classified to section 123 of the former Appendix to Title 46. Pub. L. 109–304, §§9(b), 14(a), Oct. 6, 2006, 120 Stat. 1674, 1702, amended R.S. §2793 to strike “or tonnage tax” after “clearance fees”, in effect eliminating section 123 of the former Appendix to Title 46, and restated R.S. §2793 as it related to payment of tonnage taxes in section 60308 of Title 46, Shipping. Section 111 of the former Appendix to Title 46 was omitted from the Code upon the completion of the enactment of Title 46 into positive law.
+
 R.S. §2793 derived from Res. Feb. 10, 1871, No. 27, §2, 16 Stat. 595.
 
-Provisions of this section are also set out in section 111 of Title 46, Appendix, Shipping.
-
-Provision of R.S. §2793 respecting tonnage duties is classified to section 123 of Title 46, Appendix.
-
 #### Amendments
+
+2006—Pub. L. 109–304 amended R.S. §2793 to strike out the words “or tonnage tax” which words had been omitted from this section for purposes of codification. See Codification note above.
 
 1996—Pub. L. 104–324 substituted “registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada,” for “coastwise, Great Lakes endorsement, departing from or arriving at a port in one district to or from a port in another district, and also touching at intermediate foreign ports,” and struck out “, as if from or to foreign ports” before period at end.
 

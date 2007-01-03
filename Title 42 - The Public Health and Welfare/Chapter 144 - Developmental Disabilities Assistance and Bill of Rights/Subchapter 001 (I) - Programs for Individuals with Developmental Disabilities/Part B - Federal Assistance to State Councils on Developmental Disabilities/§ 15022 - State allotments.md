@@ -6,7 +6,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;For each fiscal year, the Secretary shall, in accordance with regulations and this paragraph, allot the sums appropriated for such year under section 15029 of this title among the States on the basis of—
+&emsp;&emsp;For each fiscal year, the Secretary shall, in accordance with regulations and thisparagraph, allot the sums appropriated for such year under section 15029 of this title among the States on the basis of—
 
 &emsp;&emsp;&emsp;(i) the population;
 
@@ -22,7 +22,7 @@
 
 #### (2) Adjustments
 
-&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the totalsums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
+&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the total sums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
 
 #### (3) Minimum allotment for appropriations less than or equal to $70,000,000
 

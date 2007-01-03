@@ -16,7 +16,7 @@ It shall be unlawful for any person other than an issuer that is subject to sect
 
 &emsp;&emsp;(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate, or (iii) securing any improper advantage; or
 
-&emsp;&emsp;(B) inducing such party, official, or candidate to use its or his influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
+&emsp;&emsp;(B) inducing such party, official, or candidate to use its or his influence with a foreign government or instrumentality thereofto affect or influence any act or decision of such government or instrumentality,
 
 > &emsp;in order to assist such person in obtaining or retaining business for or with, or directing business to, any person; or
 
@@ -70,7 +70,7 @@ It shall be an affirmative defense to actions under subsection (a) of this secti
 
 For purposes of this section:
 
-&emsp;(1) The term “person”, when referring to an offender, means any natural person other than a national of the United States (as defined in section 1101 of title 8 <sup>1</sup> or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the law of a foreign nation or a political subdivision thereof.
+&emsp;(1) The term “person”, when referring to an offender, means any natural person other than a national of the United States (as defined in section 1101 of title 8 <sup>1</sup> or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the lawof a foreign nation or a political subdivision thereof.
 
 &emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 

@@ -14,9 +14,27 @@
 
 &emsp;(6) the date of the letter, of its transmission or receipt by the carrier is endorsed on the envelope in ink.
 
-(b) The Postal Service may suspend the operation of any part of this section upon any mailroute where the public interest requires the suspension.
+(b) The Postal Service may suspend the operation of any part of this section upon any mail route where the public interest requires the suspension.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 109–435, title V, §503(a), Dec. 20, 2006, 120 Stat. 3234.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–435, title V, §503, Dec. 20, 2006, 120 Stat. 3234, provided that, effective on the date the regulations promulgated under section 3633 of this title, as amended, take effect, this section is amended by striking subsection (b) and inserting the following:</i>
+
+<i>“(b) A letter may also be carried out of the mails when—</i>
+
+&emsp;<i>“(1) the amount paid for the private carriage of the letter is at least the amount equal to 6 times the rate then currently charged for the 1st ounce of a single-piece first class letter;</i>
+
+&emsp;<i>“(2) the letter weighs at least 121/2 ounces; or</i>
+
+&emsp;<i>“(3) such carriage is within the scope of services described by regulations of the United States Postal Service (including, in particular, sections 310.1 and 320.2–320.8 of title 39 of the Code of Federal Regulations, as in effect on July 1, 2005) that purport to permit private carriage by suspension of the operation of this section (as then in effect).</i>
+
+<i>“(c) Any regulations necessary to carry out this section shall be promulgated by the Postal Regulatory Commission.”</i>
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–435, title V, §503(b), Dec. 20, 2006, 120 Stat. 3235, provided that: “This section \[amending this section\] shall take effect on the date as of which the regulations promulgated under section 3633 of title 39, United States Code (as amended by section 202) take effect.”
 
 #### Effective Date
 

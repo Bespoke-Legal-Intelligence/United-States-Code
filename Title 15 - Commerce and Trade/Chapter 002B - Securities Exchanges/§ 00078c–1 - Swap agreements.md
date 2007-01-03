@@ -8,7 +8,7 @@ The definition of “security” in section 78c(a)(10) of this title does not in
 
 (1) The definition of “security” in section 78c(a)(10) of this title does not include any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act).
 
-(2) The Commission is prohibited from registering, or requiring, recommending, or suggesting, the registration under this chapter of any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act).If the Commission becomes aware that a registrant has filed a registration application with respect to such a swap agreement, the Commission shall promptly so notify the registrant. Any such registration with respect to such a swap agreement shall be void and of no force or effect.
+(2) The Commission is prohibited from registering, or requiring, recommending, or suggesting, the registration under this chapter of any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act). If the Commission becomes aware that a registrant has filed a registration application with respect to such a swap agreement, the Commission shall promptly so notify the registrant. Any such registration with respect to such a swap agreement shall be void and of no force or effect.
 
 (3) Except as provided in section 78p(a) of this title with respect to reporting requirements, the Commission is prohibited from—
 

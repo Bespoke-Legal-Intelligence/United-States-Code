@@ -4,7 +4,7 @@ Whoever, lawfully or unlawfully, having possession of, access to, control over, 
 
 &emsp;(a) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with intent to injure the United States or with intent to secure an advantage to any foreign nation, upon conviction thereof, shall be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $100,000 or both;
 
-&emsp;(b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of notmore than $50,000 or imprisonment for not more than ten years, or both.
+&emsp;(b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of not more than $50,000 or imprisonment for not more than ten years, or both.
 
 (Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3148(a), Oct. 5, 1999, 113 Stat. 938; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
@@ -25,8 +25,4 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114
 #### Effective Date of 1969 Amendment
 
 Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 24, 1969, see section 7 of Pub. L. 91–161, set out as a note under section 2272 of this title.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

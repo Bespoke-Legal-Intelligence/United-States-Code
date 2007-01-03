@@ -1,5 +1,9 @@
 ### SUBCHAPTER XII–L—DNA IDENTIFICATION GRANTS
 
+#### Codification
+
+This subchapter is comprised of part X of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351. Another part X of title I of Pub. L. 90–351 is classified to subchapter XXI (§3797ee et seq.) of this chapter.
+
 
 ---
 

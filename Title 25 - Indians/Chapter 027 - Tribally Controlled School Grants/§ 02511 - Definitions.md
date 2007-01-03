@@ -46,7 +46,7 @@ In this chapter:
 
 #### (B) Authorization
 
-&emsp;&emsp;In any case in which a grant is provided under this chapter to an organization to provide services through a tribally controlled school benefiting more than one Indian tribe, the approval of the governing bodies of Indian tribes representing 80 percent of the students attending the tribally controlled school shall be considered a sufficient tribal authorization for such grant.
+&emsp;&emsp;In any case in which a grant is provided under this chapter to an organization to provide services through a tribally controlled school benefiting more than one Indian tribe, the approval of the governing bodies of Indian tribes representing 80 percent of the students attending the tribally controlledschool shall be considered a sufficient tribal authorization for such grant.
 
 #### (9) Tribally controlled school
 

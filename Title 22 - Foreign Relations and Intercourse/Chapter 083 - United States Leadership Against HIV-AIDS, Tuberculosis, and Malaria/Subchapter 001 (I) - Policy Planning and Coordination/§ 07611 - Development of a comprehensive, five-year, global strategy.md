@@ -80,7 +80,7 @@ The President shall establish a comprehensive, integrated, five-year strategy to
 
 &emsp;&emsp;(U) A description of the specific strategies developed to promote sustainability of HIV/AIDS pharmaceuticals (including antiretrovirals) and the effects of drug resistance on HIV/AIDS patients.
 
-&emsp;&emsp;(V) A description of the specific strategies to ensure that the extraordinary benefit ofHIV/AIDS pharmaceuticals (especially antiretrovirals) are not diminished through the illegal counterfeiting of pharmaceuticals and black market sales of such pharmaceuticals.
+&emsp;&emsp;(V) A description of the specific strategies to ensure that the extraordinary benefit of HIV/AIDS pharmaceuticals (especially antiretrovirals) are not diminished through the illegal counterfeiting of pharmaceuticals and black market sales of such pharmaceuticals.
 
 &emsp;&emsp;(W) An analysis of the prevalence of Human Papilloma Virus (HPV) in sub-Saharan Africa and the impact that condom usage has upon the spread of HPV in sub-Saharan Africa.
 

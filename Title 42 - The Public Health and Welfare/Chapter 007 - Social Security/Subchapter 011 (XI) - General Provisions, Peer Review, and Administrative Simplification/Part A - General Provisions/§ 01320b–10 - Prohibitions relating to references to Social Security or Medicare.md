@@ -74,7 +74,7 @@ Subsec. (a)(1)(B). Pub. L. 108–173, §900(e)(1)(B)(iii), substituted “Center
 
 Subsec. (a)(1). Pub. L. 103–296, §312(c), (d), in closing provisions substituted “convey, or in a manner which reasonably could be interpreted or construed as conveying,” for “convey” and inserted at end “The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.”
 
-Subsec. (a)(1)(A). Pub. L. 103–296, §312(b)(1), substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’, the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
+Subsec. (a)(1)(A). Pub. L. 103–296, §312(b)(1), substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’,the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
 
 Subsec. (a)(1)(B). Pub. L. 103–296, §312(b)(2), substituted “Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services” for “Social Security Administration” in two places, struck out “or of the Health Care Financing Administration” before “, or any other”, and inserted “or the Medicare card,” after “section 405(c)(2)(F) of this title”.
 
@@ -92,7 +92,7 @@ Pub. L. 103–296, §108(b)(12)(B), substituted “the Commissioner or the Secre
 
 Subsec. (c)(1). Pub. L. 103–296, §312(h), inserted “and the first sentence of subsection (c)” after “and (i)”.
 
-Subsec. (c)(2). Pub. L. 103–296, §312(i), at end of second sentence substituted comma for period and inserted “except that (A) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Social Security Administration, such amounts shall be deposited into the Federal Old-Age and Survivors Insurance Trust Fund, and (B) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, oremblems relating to the Department of Health and Human Services, such amounts shall be deposited into the Federal Hospital Insurance Trust Fund or the Federal Supplementary Medical Insurance Trust Fund, as appropriate.”
+Subsec. (c)(2). Pub. L. 103–296, §312(i), at end of second sentence substituted comma for period and inserted “except that (A) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Social Security Administration, such amounts shall be deposited into the Federal Old-Age and Survivors Insurance Trust Fund, and (B) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Department of Health and Human Services, such amounts shall be deposited into the Federal Hospital Insurance Trust Fund or the Federal Supplementary Medical Insurance Trust Fund, as appropriate.”
 
 Pub. L. 103–296, §108(b)(12)(C), substituted “the Commissioner or the Secretary (as applicable)” for “the Secretary” wherever appearing.
 
@@ -138,7 +138,7 @@ In general.—The Secretary of Health and Human Services and the Commissioner of
 
 &emsp;“(D) the total amount of civil money penalties assessed by the Social Security Administration or the Department under this section during the period,
 
-&emsp;“(E) the number of requests for hearings filed during the period by the Social Security Administration or the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
+&emsp;“(E) the number of requests for hearings filed during the period by the Social Security Administrationor the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
 
 &emsp;“(F) the disposition during the period of hearings filed pursuant to sections 1140(c)(1) and 1128A(c)(2) of the Social Security Act, and
 

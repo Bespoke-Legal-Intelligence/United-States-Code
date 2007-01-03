@@ -40,7 +40,7 @@ For the purposes of research and policy analysis, the proposal shall also contai
 
 #### (c) Verification
 
-The Secretary may require lenders, guaranty agencies, or institutions of higher education to verify information or obtain eligibility or other information through the National Student Loan Data System prior to making, guaranteeing, or certifying a loan made under part B, C, or D of this subchapter.
+The Secretary may require lenders, guaranty agencies, or institutions of higher education toverify information or obtain eligibility or other information through the National Student Loan Data System prior to making, guaranteeing, or certifying a loan made under part B, C, or D of this subchapter.
 
 #### (d) Omitted
 

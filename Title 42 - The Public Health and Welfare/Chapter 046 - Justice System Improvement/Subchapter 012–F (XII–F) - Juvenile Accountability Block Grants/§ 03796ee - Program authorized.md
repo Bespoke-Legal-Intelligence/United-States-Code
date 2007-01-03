@@ -50,7 +50,7 @@ In this section the term “restorative justice program” means a program that 
 
 #### Prior Provisions
 
-A prior section 3796ee, Pub. L. 90–351, title I, §1801, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1819; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(34), (f)(26)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, authorized grants for thepurpose of developing alternative methods of punishment for young offenders, prior to the general amendment of this subchapter by Pub. L. 107–273.
+A prior section 3796ee, Pub. L. 90–351, title I, §1801, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1819; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(34), (f)(26)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, authorized grants for the purpose of developing alternative methods of punishment for young offenders, prior to the general amendment of this subchapter by Pub. L. 107–273.
 
 A prior section 1801 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 

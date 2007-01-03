@@ -11,6 +11,7 @@
 | [7305\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007305%20-%20Divisions%20of%20Veterans%20Health%20Administration.md) | Divisions of Veterans Health Administration. |
 | [7306\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007306%20-%20Office%20of%20the%20Under%20Secretary%20for%20Health.md) | Office of the Under Secretary for Health. |
 | [7307\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007307%20-%20Office%20of%20Research%20Oversight.md) | Office of Research Oversight. |
+| [7308\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007308%20-%20Office%20of%20Rural%20Health.md) | Office of Rural Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,6 +37,8 @@
 | [7326\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007326%20-%20Education%20and%20training%20programs%20on%20medical%20response%20to%20consequences%20of%20terrorist%20activities.md) | Education and training programs on medical response to consequences of terrorist activities. |
 | [7327\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007327%20-%20Centers%20for%20research%2C%20education%2C%20and%20clinical%20activities%20on%20complex%20multi-trauma%20associated%20with%20combat%20injuries.md) | Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries. |
 | [7328\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007328%20-%20Medical%20preparedness%20centers.md) | Medical preparedness centers. |
+| [7329\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007329%20-%20Parkinson%27s%20Disease%20research%2C%20education%2C%20and%20clinical%20centers.md) | Parkinson's Disease research, education, and clinical centers. |
+| [7330\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330%20-%20Multiple%20sclerosis%20centers%20of%20excellence.md) | Multiple sclerosis centers of excellence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,6 +75,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, title II, §§209(a)(2), 212(a)(2), Dec. 22, 2006, 120 Stat. 3418, 3422, added items 7308, 7329, and 7330.
+
+Pub. L. 109–444, §6(a)(2), Dec. 21, 2006, 120 Stat. 3312, which added items 7329 and 7330, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 2004—Pub. L. 108–422, title III, §§302(a)(2), 303(c)(2), Nov. 30, 2004, 118 Stat. 2385, 2387, added items 7327 and 7328.
 

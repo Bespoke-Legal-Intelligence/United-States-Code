@@ -1,10 +1,18 @@
 ### §288f–2. African Union; extension of privileges, exemptions, and immunities
 
-The provisions of this subchapter may be extended to the African Union and may continue to be extended to the International Labor Organization and the United Nations Industrial Development Organization in the same manner, to the same extent, and subject to the same conditions, as they may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
+(a) The provisions of this subchapter may be extended to the African Union and may continue to be extended to the International Labor Organization and the United Nations Industrial Development Organization in the same manner, to the same extent, and subject to the same conditions, as they may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
-(Dec. 29, 1945, ch. 652, title I, §12, as added Pub. L. 93–161, Nov. 27, 1973, 87 Stat. 635; amended Pub. L. 96–60, title IV, §404, Aug. 15, 1979, 93 Stat. 403; Pub. L. 105–277, div. A, §101(b) \[title IV, §406\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101; Pub. L. 108–447, div. D, title V, §569(h), Dec. 8, 2004, 118 Stat. 3026; Pub. L. 108–497, §8, Dec. 23, 2004, 118 Stat. 4019.)
+(b) Under such terms and conditions as the President shall determine, consistent with the purposes of this subchapter, the President is authorized to extend, or enter into an agreement to extend, to the African Union Mission to the United States of America, and to its members, the privileges and immunities enjoyed by diplomatic missions accredited to the United States, and by members of such missions, subject to corresponding conditions and obligations.
+
+(Dec. 29, 1945, ch. 652, title I, §12, as added Pub. L. 93–161, Nov. 27, 1973, 87 Stat. 635; amended Pub. L. 96–60, title IV, §404, Aug. 15, 1979, 93 Stat. 403; Pub. L. 105–277, div. A, §101(b) \[title IV, §406\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101; Pub. L. 108–447, div. D, title V, §569(h), Dec. 8, 2004, 118 Stat. 3026; Pub. L. 108–497, §8, Dec. 23, 2004, 118 Stat. 4019; Pub. L. 109–472, §7(a), Jan. 11, 2007, 120 Stat. 3556.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 288 of this title and Tables.
 
 #### Amendments
+
+2007—Pub. L. 109–472 designated existing provisions as subsec. (a) and added subsec. (b).
 
 2004—Pub. L. 108–447 and Pub. L. 108–497 amended section identically, substituting “African Union” for “Organization of African Unity”.
 

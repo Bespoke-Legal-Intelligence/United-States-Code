@@ -9,13 +9,15 @@
 | [525\.](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md) | Distribution of commissioned officers on active duty in general officer and flag officer grades. |
 | [526\.](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md) | Authorized strength: general and flag officers on active duty. |
 | [527\.](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md) | Authority to suspend sections 523, 525, and 526. |
-| [528\.](%C2%A7%2000528%20-%20Exclusion%20officers%20serving%20in%20certain%20intelligence%20positions.md) | Exclusion: officers serving in certain intelligence positions. |
+| [528\.](%C2%A7%2000528%20-%20Officers%20serving%20in%20certain%20intelligence%20positions%20military%20status%3B%20exclusion%20from%20distribution%20and%20strength%20limitations%3B%20pay%20and%E2%80%A6.md) | Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title V, §507(b), Jan. 6, 2006, 119 Stat. 3228, substituted “Exclusion: officers serving in certain intelligence positions” for “Exclusion: Associate Director of Central Intelligence for Military Support” in item 528.
+2006—Pub. L. 109–364, div. A, title V, §501(b)(2), Oct. 17, 2006, 120 Stat. 2176, substituted “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions” in item 528.
+
+Pub. L. 109–163, div. A, title V, §507(b), Jan. 6, 2006, 119 Stat. 3228, substituted “Exclusion: officers serving in certain intelligence positions” for “Exclusion: Associate Director of Central Intelligence for Military Support” in item 528.
 
 2004—Pub. L. 108–375, div. A, title V, §501(b)(2), Oct. 28, 2004, 118 Stat. 1873, struck out item 522 “Authorized total strengths: regular commissioned officers on active duty”.
 
@@ -41,4 +43,4 @@
 - [&sect; 00525 - Distribution of commissioned officers on active duty in general officer and flag officer grades](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md)
 - [&sect; 00526 - Authorized strength general and flag officers on active duty](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md)
 - [&sect; 00527 - Authority to suspend sections 523, 525, and 526](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md)
-- [&sect; 00528 - Exclusion officers serving in certain intelligence positions](%C2%A7%2000528%20-%20Exclusion%20officers%20serving%20in%20certain%20intelligence%20positions.md)
+- [&sect; 00528 - Officers serving in certain intelligence positions military status; exclusion from distribution and strength limitations; pay and&#8230;](%C2%A7%2000528%20-%20Officers%20serving%20in%20certain%20intelligence%20positions%20military%20status%3B%20exclusion%20from%20distribution%20and%20strength%20limitations%3B%20pay%20and%E2%80%A6.md)

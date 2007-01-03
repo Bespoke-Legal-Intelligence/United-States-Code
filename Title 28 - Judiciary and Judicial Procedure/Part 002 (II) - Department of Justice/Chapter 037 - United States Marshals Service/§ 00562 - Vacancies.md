@@ -1,6 +1,6 @@
 ### §562. Vacancies
 
-(a) In the case of a vacancy in the office of a United States marshal, the Attorney Generalmay designate a person to perform the functions of and act as marshal, except that the Attorney General may not designate to act as marshal any person who was appointed by the President to that office but with respect to such appointment the Senate has refused to give its advice and consent.
+(a) In the case of a vacancy in the office of a United States marshal, the Attorney General may designate a person to perform the functions of and act as marshal, except that the Attorney General may not designate to act as marshal any person who was appointed by the President to that office but with respect to such appointment the Senate has refused to give its advice and consent.
 
 (b) A person designated by the Attorney General under subsection (a) may serve until the earliest of the following events:
 

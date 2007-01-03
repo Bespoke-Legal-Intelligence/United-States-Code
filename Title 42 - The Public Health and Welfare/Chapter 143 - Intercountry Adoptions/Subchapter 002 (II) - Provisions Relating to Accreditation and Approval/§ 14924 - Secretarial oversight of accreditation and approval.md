@@ -44,11 +44,11 @@ The Secretary shall—
 
 #### (3) Effect of debarment
 
-&emsp;An accrediting entity may take into account the circumstances of the debarment of anagency or person that has been debarred pursuant to this subsection in considering any subsequent application of the agency or person, or of any other entity in which the agency or person has an ownership or control interest, for accreditation or approval under this subchapter.
+&emsp;An accrediting entity may take into account the circumstances of the debarment of an agency or person that has been debarred pursuant to this subsection in considering any subsequent application of the agency or person, or of any other entity in which the agency or person has an ownership or control interest, for accreditation or approval under this subchapter.
 
 #### (d) Judicial review
 
-A person (other than a prospective adoptive parent), an agency, or an accrediting entity who is the subject of a final action of suspension, cancellation, or debarment by the Secretary under this subchapter may petition the United States District Court for the District of Columbia or the United States district court in the judicial district in which the person resides or the agency or accrediting entity is located to set aside the action. The court shall review the action in accordance with section 706 of title 5.
+A person (other than a prospective adoptive parent), an agency, or an accrediting entity whois the subject of a final action of suspension, cancellation, or debarment by the Secretary under this subchapter may petition the United States District Court for the District of Columbia or the United States district court in the judicial district in which the person resides or the agency or accrediting entity is located to set aside the action. The court shall review the action in accordance with section 706 of title 5.
 
 #### (e) Failure to ensure a full and complete home study
 

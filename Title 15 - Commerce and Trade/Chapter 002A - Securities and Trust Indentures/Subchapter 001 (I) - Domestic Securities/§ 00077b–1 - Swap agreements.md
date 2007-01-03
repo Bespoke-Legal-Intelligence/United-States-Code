@@ -16,7 +16,7 @@ The definition of “security” in section 77b(a)(1) of this title does not inc
 
 &emsp;(B) issuing orders of general applicability;
 
-> under this subchapter in a manner that imposes or specifies reporting or recordkeeping requirements, procedures, or standards as prophylactic measures against fraud, manipulation, or insider trading with respect to any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act).
+> under this subchapter in a manner that imposes or specifies reporting or recordkeeping requirements, procedures, or standards as prophylacticmeasures against fraud, manipulation, or insider trading with respect to any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act).
 
 (4) References in this subchapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act), as the context may require.
 

@@ -20,7 +20,7 @@
 
 #### (2) Limitation on use
 
-&emsp;Under paragraph (1), a State shall not be required to use more than the amount described in section 669g(b) of this title for hunter safety programs and the construction, operation, and maintenance of public target ranges.
+&emsp;Under paragraph (1), a State shall not be required to use more than the amount described in section 669g(b) of this title for hunter safetyprograms and the construction, operation, and maintenance of public target ranges.
 
 #### (b) Cost sharing
 

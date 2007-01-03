@@ -26,7 +26,7 @@ Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter i
 
 #### (c) Report by Commission
 
-Within 15 months after the date of the establishment of the Commission, it shall prepare, and submit to the Secretary and Congress, a comprehensive report containing conclusions, comments, and recommendations for the development, of a management structure (including effective procedures, mechanisms, and institutional arrangements) for the effective coordination of research, enhancement, management, and enforcement policies for the salmon and steelhead resources of the Columbia River and Washington conservation areas, and for the resolution of disputes between management entities that are concerned with stocks of common interest. The principal objectives of, and the standards for, the management structure shall include, but not be limited to—
+Within 15 months after the date of the establishment of the Commission, it shall prepare, and submit to the Secretary and Congress, a comprehensive report containing conclusions, comments, and recommendations for the development, of a management structure (including effective procedures, mechanisms, and institutional arrangements) for the effective coordination of research, enhancement, management, and enforcement policies for the salmon andsteelhead resources of the Columbia River and Washington conservation areas, and for the resolution of disputes between management entities that are concerned with stocks of common interest. The principal objectives of, and the standards for, the management structure shall include, but not be limited to—
 
 &emsp;(1) the development of common principles to govern and coordinate effectively management and enhancement activities;
 
@@ -64,7 +64,7 @@ The Secretary shall provide such clerical and technical support as may be necess
 
 #### (h) Termination of Commission
 
-Unless otherwise agreed to by the voting members of the Commission and approved bythe Secretary, the Commission shall terminate upon the Secretary's approval of the Commission's report pursuant to subsection (e) of this section.
+Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary's approval of the Commission's report pursuant to subsection (e) of this section.
 
 (Pub. L. 96–561, title I, §110, Dec. 22, 1980, 94 Stat. 3277.)
 

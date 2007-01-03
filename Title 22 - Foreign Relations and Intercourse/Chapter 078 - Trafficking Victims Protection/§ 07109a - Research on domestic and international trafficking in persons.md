@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President, acting through the Council of Economic Advisors, the National Research Council of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
+The President, acting through the Council of Economic Advisors, the National ResearchCouncil of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
 
 &emsp;(1) The economic causes and consequences of trafficking in persons.
 

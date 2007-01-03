@@ -4,11 +4,6 @@
 | :--- | ---: |
 | [5201\.](%C2%A7%2005201%20-%20Obstruction%20of%20a%20lawful%20hunt.md) | Obstruction of a lawful hunt. |
 | [5202\.](%C2%A7%2005202%20-%20Civil%20penalties.md) | Civil penalties. |
-| (a) | In general. |
-| (b) | Computation of penalty. |
-| (c) | Relationship to other penalties. |
-| (d) | Procedure. |
-| (e) | Use of penalty money collected. |
 | [5203\.](%C2%A7%2005203%20-%20Other%20relief.md) | Other relief. |
 | [5204\.](%C2%A7%2005204%20-%20Relationship%20to%20State%20and%20local%20law%20and%20civil%20actions.md) | Relationship to State and local law and civil actions. |
 | [5205\.](%C2%A7%2005205%20-%20Regulations.md) | Regulations. |

@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (d) Cooperation of law enforcement and governmental authorities
 
-Customs officers may cooperate and exchange information concerning motor vehicles, off-highway mobile equipment, vessels, or aircraft, either before exportation or after exportation or importation, with such Federal, State, local, and foreign law enforcement or governmental authorities, and with such organizations engaged in theft prevention activities, as may be designated by the Secretary.
+Customs officers may cooperate and exchange information concerning motor vehicles, off-highway mobile equipment, vessels, or aircraft, either before exportation or after exportation orimportation, with such Federal, State, local, and foreign law enforcement or governmental authorities, and with such organizations engaged in theft prevention activities, as may be designated by the Secretary.
 
 (June 17, 1930, ch. 497, title IV, §627, as added Pub. L. 98–573, title II, §205, Oct. 30, 1984, 98 Stat. 2974.)
 

@@ -14,7 +14,7 @@ Procedure.—
 
 &emsp;(1)
 
-In general.—An action for a violation of this chapter or section 9, 9A, 9B, 9C or 14 of the Act of July 31, 1946 (ch. 707, 60 Stat. 719, 720), including an attempt or a conspiracy to commit a violation, shall be brought by the Attorney General in the name of the United States. This chapter and sections 9, 9A, 9B, 9C and 14 do not supersede any provision of federal law or the laws of the District of Columbia. Where the conduct violating this chapter or section 9, 9A, 9B, 9C or 14 also violates federal law or the laws of the District of Columbia, both violations may be joined in a single action.
+In general.—An action for a violation of this chapter or section 9, 9A, 9B, 9C or 14 of the Act of July 31, 1946 (ch. 707, 60 Stat. 719, 720), including an attempt or a conspiracy to commit a violation, shall be brought by the Attorney General in the name of the United States. This chapter and sections 9, 9A, 9B, 9C and 14 do not supersede any provision of federal lawor the laws of the District of Columbia. Where the conduct violating this chapter or section 9, 9A, 9B, 9C or 14 also violates federal law or the laws of the District of Columbia, both violations may be joined in a single action.
 
 &emsp;(2)
 

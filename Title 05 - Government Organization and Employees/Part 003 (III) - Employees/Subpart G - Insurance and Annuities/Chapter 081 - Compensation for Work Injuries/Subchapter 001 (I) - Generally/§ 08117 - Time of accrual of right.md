@@ -1,6 +1,6 @@
 ### §8117. Time of accrual of right
 
-An employee is not entitled to compensation for the first 3 days of temporary disability, except—
+(a) An employee other than a Postal Service employee is not entitled to compensation for the first 3 days of temporary disability, except—
 
 &emsp;(1) when the disability exceeds 14 days;
 
@@ -8,7 +8,9 @@ An employee is not entitled to compensation for the first 3 days of temporary di
 
 &emsp;(3) as provided by sections 8103 and 8104 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543; Pub. L. 93–416, §10, Sept. 7, 1974, 88 Stat. 1145.)
+(b) A Postal Service employee is not entitled to compensation or continuation of pay for the first 3 days of temporary disability, except as provided under paragraph (3) of subsection (a). A Postal Service employee may use annual leave, sick leave, or leave without pay during that 3-day period, except that if the disability exceeds 14 days or is followed by permanent disability, the employee may have their sick leave or annual leave reinstated or receive pay for the time spent on leave without pay under this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543; Pub. L. 93–416, §10, Sept. 7, 1974, 88 Stat. 1145; Pub. L. 109–435, title IX, §901(a), Dec. 20, 2006, 120 Stat. 3253.)
 
 Historical and Revision Notes
 
@@ -31,6 +33,8 @@ Oct. 14, 1949, ch. 691, §101(a), 63 Stat. 854.
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2006—Pub. L. 109–435 designated existing provisions as subsec. (a), substituted “An employee other than a Postal Service employee” for “An employee”, and added subsec. (b).
 
 1974—Pub. L. 93–416 substituted “14 days” for “21 days”.
 

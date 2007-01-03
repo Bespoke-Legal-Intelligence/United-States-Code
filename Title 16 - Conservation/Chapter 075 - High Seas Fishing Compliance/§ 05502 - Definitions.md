@@ -44,13 +44,17 @@ As used in this chapter—
 
 &emsp;&emsp;(C) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen of the United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation.
 
-&emsp;(10) The terms “vessel subject to the jurisdiction of the United States” and “vessel without nationality” have the same meaning as in section 1903(c) of title 46, Appendix.
+&emsp;(10) The terms “vessel subject to the jurisdiction of the United States” and “vessel without nationality” have the same meaning as in subsections (c) and (d) of section 70502 of title 46.
 
 (Pub. L. 104–43, title I, §103, Nov. 3, 1995, 109 Stat. 367; Pub. L. 106–562, title III, §305, Dec. 23, 2000, 114 Stat. 2807.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 104–43, to reflect the probable intent of Congress.
+
+#### Codification
+
+In par. (10), “subsections (c) and (d) of section 70502 of title 46” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act (46 U.S.C. 1903(c))” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
 #### Amendments
 

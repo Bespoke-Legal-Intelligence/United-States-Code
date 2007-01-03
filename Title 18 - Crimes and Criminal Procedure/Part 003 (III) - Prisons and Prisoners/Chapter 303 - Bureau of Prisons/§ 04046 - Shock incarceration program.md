@@ -14,5 +14,5 @@
 
 #### Authorization of Appropriations
 
-Section 3002 of Pub. L. 101–647 provided that: “There are authorized to be appropriated for fiscal year 1990 and each fiscal year thereafter such sums as may be necessary to carry out the shock incarceration program established under the amendments made by this Act \[see Tables for classification\]”.
+Section 3002 of Pub. L. 101–647 provided that: “There are authorized to be appropriated for fiscal year 1990 and each fiscal year thereafter such sums as may benecessary to carry out the shock incarceration program established under the amendments made by this Act \[see Tables for classification\]”.
 

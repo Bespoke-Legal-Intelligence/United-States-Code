@@ -6,7 +6,7 @@ It is declared to be the policy of Congress—
 
 &emsp;(2) To protect the interest of the consumer by (a) approaching the level of prices which it is declared to be the policy of Congress to establish in subsection (1) of this section by gradual correction of the current level at as rapid a rate as the Secretary of Agriculture deems to be in the public interest and feasible in view of the current consumptive demand in domestic and foreign markets, and (b) authorizing no action under this chapter which has for its purpose the maintenance of prices to farmers above the level which it is declared to be the policy of Congress to establish in subsection (1) of this section.
 
-&emsp;(3) Through the exercise of the powers conferred upon the Secretary of Agriculture under this chapter, to establish and maintain such production research, marketing research, and development projects provided in section 608c(6)(I) of this title, such container and pack requirements provided in section 608c(6)(H) of this title <sup>1</sup> such minimum standards of quality and maturity and such grading and inspection requirements for agricultural commodities enumerated in section 608c (2) of this title, other than milk and its products, in interstate commerce as will effectuate such orderly marketing of such agricultural commodities as will be in the public interest.
+&emsp;(3) Through the exercise of the powers conferred upon the Secretary of Agriculture under this chapter, to establish and maintain such production research, marketing research, and development projects provided in section 608c(6)(I) of this title, such container and pack requirements provided in section 608c(6)(H) of this title <sup>1</sup> such minimum standards of quality and maturity and such grading and inspection requirements for agricultural commoditiesenumerated in section 608c (2) of this title, other than milk and its products, in interstate commerce as will effectuate such orderly marketing of such agricultural commodities as will be in the public interest.
 
 &emsp;(4) Through the exercise of the powers conferred upon the Secretary of Agriculture under this chapter, to establish and maintain such orderly marketing conditions for any agricultural commodity enumerated in section 608c(2) of this title as will provide, in the interests of producers and consumers, an orderly flow of the supply thereof to market throughout its normal marketing season to avoid unreasonable fluctuations in supplies and prices.
 
@@ -28,7 +28,7 @@ It is declared to be the policy of Congress—
 
 1947—Subsec. (3). Act Aug. 1, 1947, added subsec. (3).
 
-1937—Act June 3, 1937, inserted “orderly marketing conditions for agricultural commodities in interstatecommerce as will establish” before “as the prices to farmers”.
+1937—Act June 3, 1937, inserted “orderly marketing conditions for agricultural commodities in interstate commerce as will establish” before “as the prices to farmers”.
 
 1935—Subsec. (1). Act Aug. 24, 1935, ch. 641, §1, amended first sentence and act Aug. 24, 1935, ch. 641, §62, amended second and third sentences.
 

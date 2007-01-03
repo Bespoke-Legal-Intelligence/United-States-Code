@@ -2,7 +2,7 @@
 
 #### (a) Timber supply and demand in southeastern Alaska
 
-The Secretary is directed to monitor timber supply and demand in southeastern Alaska andreport annually thereon to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+The Secretary is directed to monitor timber supply and demand in southeastern Alaska and report annually thereon to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
 
 #### (b) Status of Tongass National Forest in southeastern Alaska; contents
 

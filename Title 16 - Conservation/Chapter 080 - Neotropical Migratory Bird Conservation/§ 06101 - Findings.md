@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-&emsp;(1) of the nearly 800 bird species known to occur in the United States, approximately 500 migrate among countries, and the large majority of those species, the neotropical migrants, winter in Latin America and the Caribbean;
+&emsp;(1) of the nearly 800 bird species known to occur in the United States, approximately 500 migrate among countries, and the large majority of those species, the neotropical migrants, winter in Latin America and the Caribbean but breed in Canada and the United States;
 
 &emsp;(2) neotropical migratory bird species provide invaluable environmental, economic, recreational, and aesthetic benefits to the United States, as well as to the Western Hemisphere;
 
@@ -14,7 +14,15 @@ Congress finds that—
 
 &emsp;(B) although numerous initiatives exist to conserve migratory birds and their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination.
 
-(Pub. L. 106–247, §2, July 20, 2000, 114 Stat. 593.)
+(Pub. L. 106–247, §2, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, §302(a), Oct. 17, 2006, 120 Stat. 2075.)
+
+#### Amendments
+
+2006—Par. (1). Pub. L. 109–363 inserted “but breed in Canada and the United States” after “the Caribbean”.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–363, title III, §301, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title \[amending this section and sections 6102 to 6104 and 6106 to 6109 of this title and enacting provisions set out as notes under sections 6106 and 6108 of this title\] may be cited as the ‘Neotropical Migratory Bird Conservation Improvement Act of 2006’.”
 
 #### Short Title
 

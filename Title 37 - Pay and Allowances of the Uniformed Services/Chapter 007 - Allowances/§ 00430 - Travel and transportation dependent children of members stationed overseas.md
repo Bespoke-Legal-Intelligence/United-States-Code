@@ -20,7 +20,7 @@ Availability of Allowance.—(1) Under regulations prescribed by the Secretary o
 
 (b)
 
-Allowance Authorized.—(1) A member described in subsection (a) may be paid a transportation allowance for each eligible dependent child of the member of one annual trip between the school being attended by that child and the member's duty station outside the continental United States and return. The allowance authorized by this section may be transportation in kind or reimbursement therefor, as prescribed by the Secretaries concerned. However, thetransportation authorized by this section may not be paid a member for a child attending a school in the continental United States for the purpose of obtaining a secondary education if the child is eligible to attend a secondary school for dependents that is located at or in the vicinity of the duty station of the member and is operated under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.).
+Allowance Authorized.—(1) A member described in subsection (a) may be paid a transportation allowance for each eligible dependent child of the member of one annual trip between the school being attended by that child and the member's duty station outside the continental United States and return. The allowance authorized by this section may be transportation in kind or reimbursement therefor, as prescribed by the Secretaries concerned. However, the transportation authorized by this section may not be paid a member for a child attending a school in the continental United States for the purpose of obtaining a secondary education if the child is eligible to attend a secondary school for dependents that is located at or in the vicinity of the duty station of the member and is operated under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.).
 
 (2) The allowance authorized under paragraph (1) for the travel of an eligible dependent may include reimbursement for costs incurred by or on behalf of the dependent for lodging of the dependent that is necessitated by an interruption in the travel caused by extraordinary circumstances prescribed in the regulations under subsection (a). The amount of the reimbursement shall be determined using the rate applicable to such circumstances.
 
@@ -132,7 +132,7 @@ Section 910(b) of Pub. L. 98–94 provided that: “Section 430 of title 37, Uni
 
 #### Dependent Student Travel Within United States
 
-For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
+For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145,set out as a note under section 133 of Title 10, Armed Forces.
 
 Pub. L. 98–212, title VII, §799B, Dec. 8, 1983, 97 Stat. 1456, as amended by Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1378, provided in part that: “After August 31, 1984, none of the funds appropriated to the Department of Defense for the travel and transportation of dependent students of military personnel stationed overseas shall be obligated for a transportation allowance for travel within or between the contiguous United States.”
 

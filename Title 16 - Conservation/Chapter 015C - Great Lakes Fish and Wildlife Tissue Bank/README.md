@@ -3,11 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [943\.](%C2%A7%2000943%20-%20Tissue%20bank.md) | Tissue bank. |
-| (a) | In general. |
-| (b) | Guidance. |
 | [943a.](%C2%A7%2000943a%20-%20Data%20base.md) | Data base. |
-| (a) | Maintenance. |
-| (b) | Access. |
 | [943b.](%C2%A7%2000943b%20-%20Definitions.md) | Definitions. |
 | [943c.](%C2%A7%2000943c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

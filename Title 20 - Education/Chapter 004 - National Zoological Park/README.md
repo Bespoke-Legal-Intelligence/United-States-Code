@@ -7,8 +7,6 @@
 | [83\.](%C2%A7%2000083%20-%20Omitted.md) | Omitted. |
 | [84\.](%C2%A7%2000084%20-%20Plans%20for%20buildings%20and%20bridges.md) | Plans for buildings and bridges. |
 | [85\.](%C2%A7%2000085%20-%20Concessions.md) | Concessions. |
-| (a) | Authorization; use of proceeds for research and educational work. |
-| (b) | Voluntary services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

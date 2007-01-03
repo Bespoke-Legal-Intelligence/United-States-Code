@@ -6,7 +6,7 @@ Except as otherwise provided in this section, the Federal Government shall acqui
 
 #### (b) Exceptions
 
-The Federal Government shall not be required to acquire space transportation services under subsection (a) of this section if, on a case-by-case basis, the Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines that—
+The Federal Government shall not be required to acquire space transportation services undersubsection (a) of this section if, on a case-by-case basis, the Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines that—
 
 &emsp;(1) a payload requires the unique capabilities of the Space Shuttle;
 

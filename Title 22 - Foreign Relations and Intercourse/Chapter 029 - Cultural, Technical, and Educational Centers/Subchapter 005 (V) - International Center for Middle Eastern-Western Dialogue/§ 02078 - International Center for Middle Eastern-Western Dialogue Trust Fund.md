@@ -18,7 +18,7 @@ There are authorized to be appropriated to the International Center for Middle E
 
 #### (e) Ownership of Center location
 
-The United States, through the Department of State, shall retain ownership of the Palazzo Corpi building in Istanbul, Turkey, and the Secretary of State shall be responsible for maintaining the International Center for Middle Eastern-Western Dialogue at such location.
+The United States, through the Department of State, shall retain ownership of the PalazzoCorpi building in Istanbul, Turkey, and the Secretary of State shall be responsible for maintaining the International Center for Middle Eastern-Western Dialogue at such location.
 
 (Pub. L. 108–199, div. B, title VI, §633, Jan. 23, 2004, 118 Stat. 100.)
 

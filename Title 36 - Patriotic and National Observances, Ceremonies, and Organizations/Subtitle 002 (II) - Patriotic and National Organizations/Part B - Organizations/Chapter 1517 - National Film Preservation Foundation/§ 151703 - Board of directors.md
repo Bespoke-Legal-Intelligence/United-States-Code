@@ -22,7 +22,7 @@ Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvot
 
 (c)
 
-Chair.—The Librarian shall appoint one of the directors as the initial chair of the board fora 2-year term. Thereafter, the chair shall be appointed and removed in accordance with the bylaws of the corporation.
+Chair.—The Librarian shall appoint one of the directors as the initial chair of the board for a 2-year term. Thereafter, the chair shall be appointed and removed in accordance with the bylaws of the corporation.
 
 (d)
 

@@ -16,7 +16,7 @@ In furtherance of an action plan, the Secretary may use the Extension Service an
 
 Insofar as practicable, the Secretary shall use existing Federal, State, and private education resources in carrying out these programs.
 
-(Pub. L. 101–624, title XXIII, §2377, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
+(Pub. L. 101–624, title XXIII, §2377, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, §1000(a)(3)\[title III, §345(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
 
 #### Amendments
 

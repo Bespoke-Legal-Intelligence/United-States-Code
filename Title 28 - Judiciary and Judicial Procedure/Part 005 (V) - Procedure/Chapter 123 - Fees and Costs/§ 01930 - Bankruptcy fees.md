@@ -4,9 +4,9 @@
 
 &emsp;(1) For a case commenced under—
 
-&emsp;&emsp;(A) chapter 7 of title 11, $220, and
+&emsp;&emsp;(A) chapter 7 of title 11, $245, and
 
-&emsp;&emsp;(B) chapter 13 of title 11, $150.
+&emsp;&emsp;(B) chapter 13 of title 11, $235.
 
 &emsp;(2) For a case commenced under chapter 9 of title 11, equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by which the fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title.
 
@@ -16,7 +16,7 @@
 
 &emsp;(5) For a case commenced under chapter 12 of title 11, $200.
 
-&emsp;(6) In addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than$225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
+&emsp;(6) In addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
 
 &emsp;(7) In districts that are not part of a United States trustee region as defined in section 581 of this title, the Judicial Conference of the United States may require the debtor in a case under chapter 11 of title 11 to pay fees equal to those imposed by paragraph (6) of this subsection. Such fees shall be deposited as offsetting receipts to the fund established under section 1931 of this title and shall remain available until expended.
 
@@ -36,7 +36,7 @@
 
 (3) This subsection does not restrict the district court or the bankruptcy court from waiving, in accordance with Judicial Conference policy, fees prescribed under this section for other debtors and creditors.
 
-(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412; Pub. L. 109–8, title III, §325(a), title IV, §418, Apr. 20, 2005, 119 Stat. 98, 108; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297.)
+(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412; Pub. L. 109–8, title III, §325(a), title IV, §418, Apr. 20, 2005, 119 Stat. 98, 108; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 109–171, title X, §10101(a), Feb. 8, 2006, 120 Stat. 184.)
 
 #### References in Text
 
@@ -50,6 +50,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+2006—Subsec. (a)(1). Pub. L. 109–171, §10101(a)(1), substituted “$245” for “$220” in subpar. (A) and “$235” for “$150” in subpar. (B).
+
+Subsec. (a)(2). Pub. L. 109–171, §10101(a)(2), which directed substitution of “$2,750” for “$1,000” in par. (2), could not be executed because “$1,000” does not appear in par. (2).
+
 2005—Subsec. (a). Pub. L. 109–8, §418(1), substituted “The parties” for “Notwithstanding section 1915 of this title, the parties” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 109–8, §325(a)(1), as amended by Pub. L. 109–13, added par. (1) and struck out former par. (1), which read as follows: “For a case commenced under chapter 7 or 13 of title 11, $155.”
@@ -60,7 +64,7 @@ Subsec. (f). Pub. L. 109–8, §418(2), added subsec. (f).
 
 2000—Subsec. (a). Pub. L. 106–518, §104, substituted “the amount equal to the difference between the fee specified in paragraph (3) and the fee specified in paragraph (1)” for “$400” in concluding provisions.
 
-Subsec. (a)(2). Pub. L. 106–518, §103, substituted “equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by which the fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title” for “$300”.
+Subsec. (a)(2). Pub. L. 106–518, §103, substituted “equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by whichthe fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title” for “$300”.
 
 Subsec. (a)(7). Pub. L. 106–518, §105, which directed amendment of subsec. (a) by adding par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions to reflect the probable intent of Congress.
 
@@ -68,7 +72,7 @@ Subsec. (a)(7). Pub. L. 106–518, §105, which directed amendment of subsec. (a
 
 1996—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before “800”.
 
-Subsec. (a)(6). Pub. L. 104–208 substituted “$500 for each quarter in which disbursements total $15,000 ormore but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.” for “$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
+Subsec. (a)(6). Pub. L. 104–208 substituted “$500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.” for “$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
 
 Pub. L. 104–91, as amended by Pub. L. 104–99, struck out “a plan is confirmed or” before “the case is converted”.
 
@@ -95,6 +99,10 @@ Subsec. (a)(5), (6). Pub. L. 99–554, §117(4), added pars. (5) and (6).
 1984—Pub. L. 98–353, §111(b), substituted “fees” for “courts” in section catchline.
 
 Subsecs. (a), (c), (e). Pub. L. 98–353, §111(a), substituted “clerk of the court” for “clerk of the bankruptcy court”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title X, §10101(c), Feb. 8, 2006, 120 Stat. 184, provided that: “This section \[amending this section and enacting provisions set out as a note under section 1931 of this title\] and the amendments made by this section shall take effect 60 days after the date of the enactment of this Act \[Feb. 8, 2006\].”
 
 #### Effective Date of 2005 Amendments
 
@@ -134,7 +142,7 @@ Section effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 #### Use of Increased Receipts
 
-Pub. L. 109–8, title III, §325(e), Apr. 20, 2005, 119 Stat. 99, which provided for the disposition of certain fees collected under section 1930 of this title during the 5-year period beginning on Apr. 20, 2005, greater than the amount that would have been collected had the amendment by Pub. L. 109–8, §325(a), not been made, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, §6058, May 11, 2005, 119 Stat. 297, effective immediately after the enactment of Pub. L. 109–8, Apr. 20, 2005.
+Pub. L. 109–8, title III, §325(e), Apr. 20, 2005, 119 Stat. 99, which provided for the disposition of certain fees collected under section 1930 of this title during the 5-year period beginning on Apr. 20, 2005, greater than the amount that would have been collected had the amendment by Pub. L. 109–8, §325(a), not been made, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, §6058,May 11, 2005, 119 Stat. 297, effective immediately after the enactment of Pub. L. 109–8, Apr. 20, 2005.
 
 #### Accrual and Payment of Quarterly Fees in Chapter 11 Cases After Jan. 27, 1996; Confirmation Status of Plans
 
@@ -146,7 +154,7 @@ Section 111(d) of Pub. L. 103–121 provided that:
 
 “(1)
 
-Report required.—Not later than March 31, 1998, the Judicial Conference of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, a report relating tothe bankruptcy fee system and the impact of such system on various participants in bankruptcy cases.
+Report required.—Not later than March 31, 1998, the Judicial Conference of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, a report relating to the bankruptcy fee system and the impact of such system on various participants in bankruptcy cases.
 
 “(2)
 

@@ -2,7 +2,7 @@
 
 A clerk of a court or any of his deputies shall not be appointed a commissioner, master, referee or receiver in any case, unless there are special reasons requiring such appointment which are recited in the order of appointment.
 
-(June 25, 1948, ch. 646, 62 Stat. 926; Pub. L. 95–598, title II, §234, Nov. 6, 1978, 92 Stat. 2667; Pub. L.97–164, title I, §122(b), Apr. 2, 1982, 96 Stat. 36; Pub. L. 98–353, title I, §109, July 10, 1984, 98 Stat. 342.)
+(June 25, 1948, ch. 646, 62 Stat. 926; Pub. L. 95–598, title II, §234, Nov. 6, 1978, 92 Stat. 2667; Pub. L. 97–164, title I, §122(b), Apr. 2, 1982, 96 Stat. 36; Pub. L. 98–353, title I, §109, July 10, 1984, 98 Stat. 342.)
 
 #### Historical and Revision Notes
 

@@ -22,7 +22,7 @@ In general.—Notwithstanding chapter 63 of title 31, the Secretary may enter in
 
 &emsp;(B)
 
-Cooperators.—Each cooperator, including each Federal agency, to the extent thatfunds are otherwise available, may participate in any cooperative agreement or working group established pursuant to this paragraph by contributing funds or other resources to the Secretary to carry out the agreement or functions of the group.
+Cooperators.—Each cooperator, including each Federal agency, to the extent that funds are otherwise available, may participate in any cooperative agreement or working group established pursuant to this paragraph by contributing funds or other resources to the Secretary to carry out the agreement or functions of the group.
 
 (5) The Secretary may hold public hearings and receive comments on any matter that the Secretary determines may have a significant impact on rural development or the economic development of rural communities.
 
@@ -76,7 +76,7 @@ The Secretary shall ensure the effective implementation of the rural development
 
 #### References in Text
 
-The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended,which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Termination of Reporting Requirements
 
@@ -100,7 +100,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
 
-&emsp;“(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
+&emsp;“(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[former 7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
 
 &emsp;“(2) Subtitle G of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. \[former\] 5901–5908, 5177a, 950aaa–2, and 3125b).
 

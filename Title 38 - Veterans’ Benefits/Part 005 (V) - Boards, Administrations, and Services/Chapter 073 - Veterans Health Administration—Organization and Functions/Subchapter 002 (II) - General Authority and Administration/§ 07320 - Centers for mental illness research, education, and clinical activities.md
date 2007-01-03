@@ -58,7 +58,7 @@
 
 (2) The panel shall consist of experts in the fields of mental health research, education and training, and clinical care. Members of the panel shall serve as consultants to the Department.
 
-(3) The panel shall review each proposal submitted to the panel by the official referred to in paragraph (1) and shall submit to that official its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each suchproposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
+(3) The panel shall review each proposal submitted to the panel by the official referred to in paragraph (1) and shall submit to that official its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
 
 (4) The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 

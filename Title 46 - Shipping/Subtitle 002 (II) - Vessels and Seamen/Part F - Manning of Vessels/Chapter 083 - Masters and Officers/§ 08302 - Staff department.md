@@ -18,11 +18,11 @@
 
 (f) A staff officer may not be included in a vessel's certificate of inspection.
 
-(g) A registered staff officer serving under this section who is a member of the Naval Reserve may wear on the officer's uniform special distinguishing insignia prescribed by the Secretary of the Navy.
+(g) A registered staff officer serving under this section who is a member of the Navy Reserve may wear on the officer's uniform special distinguishing insignia prescribed by the Secretary of the Navy.
 
 (h) The uniform stripes, decoration, or other insignia worn by a staff officer shall be of gold braid or woven gold or silver material. A crewmember (except a staff officer) may not wear any uniform with a staff officer's identifying insignia.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 551; Pub. L. 99–36, §1(a)(4), May 15, 1985, 99 Stat. 67.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 551; Pub. L. 99–36, §1(a)(4), May 15, 1985, 99 Stat. 67; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), Jan. 6, 2006, 119 Stat. 3236.)
 
 Historical and Revision Notes
 
@@ -61,6 +61,8 @@ Subsection (f) prohibits including a staff officer on a vessel's certificate of 
 Subsections (g) and (h) prescribe the type and restrictions for the uniform accouterments of a staff officer.
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1985—Subsec. (b). Pub. L. 99–36 inserted a comma after “clerks”.
 

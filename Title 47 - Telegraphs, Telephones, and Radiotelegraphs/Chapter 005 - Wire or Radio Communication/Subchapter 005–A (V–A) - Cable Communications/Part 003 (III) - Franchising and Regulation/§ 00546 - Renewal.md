@@ -50,7 +50,7 @@ Any denial of a proposal for renewal that has been submitted in compliance with 
 
 #### (f) Finality of administrative decision
 
-Any decision of a franchising authority on a proposal for renewal shall not be considered final unless all administrative review by the State has occurred or the opportunity therefor has lapsed.
+Any decision of a franchising authority on a proposal for renewal shall not be consideredfinal unless all administrative review by the State has occurred or the opportunity therefor has lapsed.
 
 #### (g) “Franchise expiration” defined
 

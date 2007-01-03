@@ -1,6 +1,6 @@
 ### §5853. Limitation on legal fee reimbursement
 
-The Department of Energy shall not, except as required under a contract entered into beforeAugust 8, 2005, reimburse any contractor or subcontractor of the Department for any legal fees or expenses incurred with respect to a complaint subsequent to—
+The Department of Energy shall not, except as required under a contract entered into before August 8, 2005, reimburse any contractor or subcontractor of the Department for any legal fees or expenses incurred with respect to a complaint subsequent to—
 
 &emsp;(1) an adverse determination on the merits with respect to such complaint against the contractor or subcontractor by the Director of the Department of Energy's Office of Hearings and Appeals pursuant to part 708 of title 10, Code of Federal Regulations, or by a Department of Labor Administrative Law Judge pursuant to section 5851 of this title; or
 

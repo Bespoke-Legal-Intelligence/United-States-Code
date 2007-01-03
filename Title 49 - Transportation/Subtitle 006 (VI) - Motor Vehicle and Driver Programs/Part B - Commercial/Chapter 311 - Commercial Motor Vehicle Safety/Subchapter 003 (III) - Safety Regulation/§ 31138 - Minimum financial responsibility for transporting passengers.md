@@ -64,7 +64,7 @@ Nonapplication.—This section does not apply to a motor vehicle—
 
 &emsp;(3) carrying not more than 15 individuals in a single, daily round trip to and from work; or
 
-&emsp;(4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individualswith disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
+&emsp;(4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005; Pub. L. 104–88, title I, §104(c), (d), Dec. 29, 1995, 109 Stat. 919; Pub. L. 107–298, §3(b)(2), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4120(a), 4121, Aug. 10, 2005, 119 Stat. 1733, 1734.)
 

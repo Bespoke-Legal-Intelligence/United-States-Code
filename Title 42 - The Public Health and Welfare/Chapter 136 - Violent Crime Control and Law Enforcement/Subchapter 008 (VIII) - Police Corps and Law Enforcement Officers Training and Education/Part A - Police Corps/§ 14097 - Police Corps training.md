@@ -20,7 +20,7 @@ The Police Corps training authorized in this section is intended to serve as bas
 
 #### (d) Course of training
 
-The training sessions at training centers established under this section shall be designed to provide basic law enforcement training, including vigorous physical and mental training to teach participants self-discipline and organizational loyalty and to impart knowledge and understanding of legal processes and law enforcement.
+The training sessions at training centers established under this section shall be designed toprovide basic law enforcement training, including vigorous physical and mental training to teach participants self-discipline and organizational loyalty and to impart knowledge and understanding of legal processes and law enforcement.
 
 #### (e) Evaluation of participants
 
@@ -30,7 +30,7 @@ A participant shall be evaluated during training for mental, physical, and emoti
 
 The Director shall pay participants in training sessions a stipend of $400 a week during training.
 
-(Pub. L. 103–322, title XX, §200108, Sept. 13, 1994, 108 Stat. 2054; Pub. L. 105–277, div. C, title I, §138(a), Oct. 21, 1998, 112 Stat. 2681–597; Pub. L.107–273, div. C, title I, §11006(2), Nov. 2, 2002, 116 Stat. 1817.)
+(Pub. L. 103–322, title XX, §200108, Sept. 13, 1994, 108 Stat. 2054; Pub. L. 105–277, div. C, title I, §138(a), Oct. 21, 1998, 112 Stat. 2681–597; Pub. L. 107–273, div. C, title I, §11006(2), Nov. 2, 2002, 116 Stat. 1817.)
 
 #### References in Text
 

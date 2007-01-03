@@ -12,7 +12,7 @@ Section 351d, act June 19, 1956, ch. 407, §6, as added Dec. 30, 1970, Pub. L. 9
 
 Section 351e, act June 19, 1956, ch. 407, §7, as added Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1665; amended May 3, 1973, Pub. L. 93–29, title VIII, §801(d), 87 Stat. 59; Oct. 17, 1984, Pub. L. 98–480, title I, §§103(b)(1), 107, 98 Stat. 2237, 2239; Mar. 15, 1990, Pub. L. 101–254, §7(a), 104 Stat. 103; July 25, 1991, Pub. L. 102–73, title VIII, §802(e)(3), (4), 105 Stat. 361, 362, related to prerequisites for payments, calculation and promulgation of Federal share for each State, and payment to Indian tribes.
 
-Section 351f, act June 19, 1956, ch. 407, §8, as added Oct. 7, 1977, Pub. L. 95–123, §3(a), 91 Stat. 1095; amended Oct. 17, 1984, Pub. L. 98–480, title I, §108, 98 Stat. 2240, permitted expenditure of funds received under subchapters I and II of this chapter for administrative costs in connection with programs and activities carried out under subchapters I, II, and III of this chapter.
+Section 351f, act June 19, 1956, ch. 407, §8, as added Oct. 7, 1977, Pub. L. 95–123, §3(a), 91 Stat. 1095; amendedOct. 17, 1984, Pub. L. 98–480, title I, §108, 98 Stat. 2240, permitted expenditure of funds received under subchapters I and II of this chapter for administrative costs in connection with programs and activities carried out under subchapters I, II, and III of this chapter.
 
 Section 351g, act June 19, 1956, ch. 407, §9, as added Mar. 15, 1990, Pub. L. 101–254, §8(a), 104 Stat. 104, prohibited contracting out or transferring from Federal Government certain activities or functions of Department of Education Research Library.
 

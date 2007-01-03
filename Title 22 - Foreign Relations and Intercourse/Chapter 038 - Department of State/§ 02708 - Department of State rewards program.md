@@ -28,7 +28,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;&emsp;(B) the killing or kidnapping of—
 
-&emsp;&emsp;&emsp;(i) any officer, employee, or contract employee of the United States Government while such individual is engaged in official duties, or on account of that individual's official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
+&emsp;&emsp;&emsp;(i) any officer, employee, or contract employee of the United States Governmentwhile such individual is engaged in official duties, or on account of that individual's official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
 
 &emsp;&emsp;&emsp;(ii) a member of the immediate family of any such individual on account of that individual's official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
 
@@ -168,7 +168,7 @@ As used in this section:
 
 #### (5) United States narcotics laws
 
-&emsp;The term “United States narcotics laws” means the laws of the United States for theprevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21).
+&emsp;The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21).
 
 #### (6) United States person
 
@@ -246,7 +246,7 @@ Subsecs. (h), (i). Pub. L. 99–399, §502(d), added subsecs. (h) and (i).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L.103–236, set out as an Effective Date note under section 6301 of this title.
+Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia or Rwanda
 
@@ -282,7 +282,7 @@ Procedures.—
 
 &emsp;“(2) Before making a reward under this section in a matter over which there is Federal criminal jurisdiction, the Secretary of State shall obtain the concurrence of the Attorney General.
 
-&emsp;“(3) Rewards under this section shall be subject to any requirements or limitations that apply to rewards under section 36 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708) with respect to the ineligibility of government employees for rewards, maximum reward amount, and procedures for the approval and certification of rewards for payment.
+&emsp;“(3) Rewards under this section shall be subject to any requirements or limitations that apply to rewards under section 36 of the State Department BasicAuthorities Act of 1956 (22 U.S.C. 2708) with respect to the ineligibility of government employees for rewards, maximum reward amount, and procedures for the approval and certification of rewards for payment.
 
 “(c)
 

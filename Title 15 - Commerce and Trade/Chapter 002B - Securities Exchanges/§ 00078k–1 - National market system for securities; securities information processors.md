@@ -30,7 +30,7 @@
 
 &emsp;(B) by rule or order, to authorize or require self-regulatory organizations to act jointly with respect to matters as to which they share authority under this chapter in planning, developing, operating, or regulating a national market system (or a subsystem thereof) or one or more facilities thereof; and
 
-&emsp;(C) to conduct studies and make recommendations to the Congress from time to time as to the possible need for modifications of the scheme of self-regulation provided for in this chapter so as to adapt it to a national market system.
+&emsp;(C) to conduct studies and make recommendations to the Congress from time to time as to the possible need for modifications of the scheme of self-regulation provided for in thischapter so as to adapt it to a national market system.
 
 #### (b) Securities information processors; registration; withdrawal of registration; access to services; censure; suspension or revocation of registration
 
@@ -78,7 +78,7 @@
 
 &emsp;(ii) no rule of any national securities exchange unreasonably impairs the ability of any dealer to solicit or effect transactions in such securities for his own account or unreasonably restricts competition among dealers in such securities or between dealers acting in the capacity of market makers who are specialists in such securities and such dealers who are not specialists in such securities, and
 
-&emsp;(iii) the maintenance or restoration of fair and orderly markets in such securities may not be assured through other lawful means under this chapter.
+&emsp;(iii) the maintenance or restoration of fair and orderly markets in such securities maynot be assured through other lawful means under this chapter.
 
 > The Commission may conditionally or unconditionally exempt any security or transaction or any class of securities or transactions from any such prohibition if the Commission deems such exemption consistent with the public interest, the protection of investors, and the maintenance of fair and orderly markets.
 
@@ -90,7 +90,7 @@
 
 #### (d) National Market Advisory Board
 
-(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the “Advisory Board”) to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than fiveyears. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
+(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the “Advisory Board”) to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than five years. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
 
 (2) It shall be the responsibility of the Advisory Board to formulate and furnish to the Commission its views on significant regulatory proposals made by the Commission or any self-regulatory organization concerning the establishment, operation, and regulation of the markets for securities in the United States.
 
@@ -126,7 +126,7 @@
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat.770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as foll
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 

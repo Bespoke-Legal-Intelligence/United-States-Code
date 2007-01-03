@@ -32,7 +32,7 @@ The Telephone Bank Board shall consist of thirteen individuals, as follows:
 
 #### (2) Balloting
 
-&emsp;Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall beconducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
+&emsp;Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
 
 #### (3) No cumulative voting
 
@@ -86,7 +86,7 @@ Subsecs. (g) to (i). Pub. L. 101–624, §2363(b)(1), inserted headings.
 
 Subsec. (j). Pub. L. 101–624, §2363(c), added subsec. (j).
 
-1973—Subsec. (e). Pub. L. 93–32 substituted provisions directing that the cooperative-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class and that the commercial-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class, for provisions that three directors be elected from among the directors, managers, and employees of cooperative-type entities and organizations controlled by such entities holding class B or class C stock and that three directors be elected from among the directors, managers, and employees of commercial-type entities and organizations controlled by such entities holding class B or class C stock, and inserted provisions prohibiting cumulative voting.
+1973—Subsec. (e). Pub. L. 93–32 substituted provisions directing that the cooperative-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class and that the commercial-type entities and organizations holding class B and class C stock, voting as a separate class, elect three directors to represent their class by a majority of the stockholders voting in such class, for provisions that three directors be electedfrom among the directors, managers, and employees of cooperative-type entities and organizations controlled by such entities holding class B or class C stock and that three directors be elected from among the directors, managers, and employees of commercial-type entities and organizations controlled by such entities holding class B or class C stock, and inserted provisions prohibiting cumulative voting.
 
 #### Effective Date of 1973 Amendment
 

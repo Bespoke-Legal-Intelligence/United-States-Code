@@ -6,7 +6,7 @@ If, in any investigation initiated under chapter 1 of title II of the Trade Act 
 
 &emsp;(1) imports of the article from a NAFTA country, considered individually, account for a substantial share of total imports; and
 
-&emsp;(2) imports of the article from a NAFTA country, considered individually or, in exceptional circumstances, imports from NAFTAcountries considered collectively, contribute importantly to the serious injury, or threat thereof, caused by imports.
+&emsp;(2) imports of the article from a NAFTA country, considered individually or, in exceptional circumstances, imports from NAFTA countries considered collectively, contribute importantly to the serious injury, or threat thereof, caused by imports.
 
 #### (b) Factors
 

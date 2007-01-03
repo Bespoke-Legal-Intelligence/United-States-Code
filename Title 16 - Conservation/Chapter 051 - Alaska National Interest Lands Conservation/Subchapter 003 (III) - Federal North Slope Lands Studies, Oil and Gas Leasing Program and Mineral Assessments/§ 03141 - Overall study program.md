@@ -8,7 +8,7 @@ The Secretary shall initiate and carry out a study of all Federal lands (other t
 
 The study shall utilize a systematic interdisciplinary approach to—
 
-&emsp;(1) assess the potential oil and gas resources of these lands and make recommendations concerning future use and management of those resources including an evaluation of alternative transportation routes needed for oil and gas development;
+&emsp;(1) assess the potential oil and gas resources of these lands and make recommendationsconcerning future use and management of those resources including an evaluation of alternative transportation routes needed for oil and gas development;
 
 &emsp;(2) review the wilderness characteristics, and make recommendations for wilderness designation, of these lands; and
 

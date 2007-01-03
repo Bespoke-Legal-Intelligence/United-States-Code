@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The North Pacific Council may prepare, in consultation with the Secretary, a fisheries research plan for all fisheries under the Council's jurisdiction except salmon fisheries which—
+The North Pacific Council may prepare, in consultation with the Secretary, a fisheries research plan for any fishery under the Council's jurisdiction except a salmon fishery which—
 
 &emsp;(1) requires that observers be stationed on fishing vessels engaged in the catching, taking, or harvesting of fish and on United States fish processors fishing for or processing species under the jurisdiction of the Council, including the Northern Pacific halibut fishery, for the purpose of collecting data necessary for the conservation, management, and scientific understanding of any fisheries under the Council's jurisdiction; and
 
-&emsp;(2) establishes a system of fees to pay for the costs of implementing the plan.
+&emsp;(2) establishes a system, or system,<sup>1</sup> of fees, which may vary by fishery, management area, or observer coverage level, to pay for the cost of implementing the plan.
 
 #### (b) Standards
 
@@ -22,7 +22,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (2) Any system of fees established under this section shall—
 
-&emsp;(A) provide that the total amount of fees collected under this section not exceed the combined cost of (i) stationing observers on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented under subsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
+&emsp;(A) provide that the total amount of fees collected under this section not exceed the combined cost of (i) stationing observers, or electronic monitoring systems, on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented under subsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
 
 &emsp;(B) be fair and equitable to all participants in the fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 
@@ -30,15 +30,17 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 &emsp;(D) not be used to offset amounts authorized under other provisions of law;
 
-&emsp;(E) be expressed as a percentage, not to exceed 2 percent, of the unprocessed ex-vessel value of fish and shellfish harvested under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
+&emsp;(E) be expressed as a fixed amount reflecting actual observer costs as described in subparagraph (A) or a percentage, not to exceed 2 percent, of the unprocessed ex-vessel value of fish and shellfish harvested under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 
-&emsp;(F) be assessed against all fishing vessels and United States fish processors, including those not required to carry an observer under the plan, participating in fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
+&emsp;(F) be assessed against some or all fishing vessels and United States fish processors, including those not required to carry an observer or an electronic monitoring system under the plan, participating in fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 
 &emsp;(G) provide that fees collected will be deposited in the North Pacific Fishery Observer Fund established under subsection (d) of this section;
 
-&emsp;(H) provide that fees collected will only be used for implementing the plan established under this section; and
+&emsp;(H) provide that fees collected will only be used for implementing the plan established under this section;
 
-&emsp;(I) meet the requirements of section 9701(b) of title 31.
+&emsp;(I) provide that fees collected will be credited against any fee for stationing observers or electronic monitoring systems on board fishing vessels and United States fish processors and the actual cost of inputting collected data to which a fishing vessel or fish processor is subject under section 1854(d) of this title; and
+
+&emsp;(J) meet the requirements of section 9701(b) of title 31.
 
 #### (c) Action by Secretary
 
@@ -48,7 +50,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (3) Within 45 days of the close of the public comment period, the Secretary, in consultation with the Council, shall analyze the public comment received and publish final regulations for implementing such plan.
 
-(4) If the Secretary remands a plan or plan amendment to the Council for failure to meet the requirements of this section, the Council may resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
+(4) If the Secretary remands a plan or plan amendment to the Council for failure to meetthe requirements of this section, the Council may resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
 
 #### (d) Fishery Observer Fund
 
@@ -94,17 +96,17 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) The North Pacific Council shall submit to the Secretary by October 1, 1998 a report on the advisability of requiring the full retention by fishing vessels and full utilization by United States fish processors of economic discards in fisheries under its jurisdiction if such economic discards, or the mortality of such economic discards, cannot be avoided. The report shall address the projected impacts of such requirements on participants in the fishery and describe any full retention and full utilization requirements that have been implemented.
 
-(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, “processing waste” means that portion of any fish which is processed and which could be used for human consumption or other commercial use, but which is not so used.
+(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, “processing waste” means that portion of any fish which is processed and which could be used for humanconsumption or other commercial use, but which is not so used.
 
 #### (j) Bering Sea and Aleutian Islands crab rationalization
 
-(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>1</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
+(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
 
 (2) Notwithstanding any other provision of this chapter, in carrying out paragraph (1) the Secretary shall approve all parts of the Program referred to in such paragraph. Further, no part of such Program may be implemented if, as approved by the North Pacific Fishery Management Council, individual fishing quotas, processing quotas, community development quota allocation, voluntary cooperatives, binding arbitration, regional landing and processing requirements, community protections, economic data collection, or the loan program for crab fishing vessel captains and crew members, is invalidated subject to a judicial determination not subject to judicial appeal. If the Secretary determines that a processor has leveraged its Individual Processor Quota shares to acquire a harvesters open-delivery “B shares”, the processor's Individual Processor Quota shares shall be forfeited.
 
 (3) Subsequent to implementation pursuant to paragraph (1), the Council may submit and the Secretary may implement changes to or repeal of conservation and management measures, including measures authorized in this section, for crab fisheries of the Bering Sea and Aleutian Islands in accordance with applicable law, including this chapter as amended by this subsection, to achieve on a continuing basis the purposes identified by the Council.
 
-(4) The loan program referred to in paragraph (2) shall be carried out pursuant to the authority of sections 1279f and 1279g <sup>1</sup> of title 46, Appendix.
+(4) The loan program referred to in paragraph (2) shall be carried out pursuant to the authority of sections 53735 and 53702(b) of title 46.
 
 (5) For purposes of implementing this section $1,000,000 shall be made available each year until fully implemented from funds otherwise made available to the National Marine Fisheries Service for Alaska fisheries activities.
 
@@ -114,19 +116,33 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (8) The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who is eligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply when the information is used to determine eligibility for or compliance with an individual processing quota program.
 
-(9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(<i>l</i>) <sup>2</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
+(9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(<i>l</i>) <sup>3</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
 
-(Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, §801, Jan. 23, 2004, 118 Stat. 108.)
+(Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, §801, Jan. 23, 2004, 118 Stat. 108; Pub. L. 109–479, title II, §214, Jan. 12, 2007, 120 Stat. 3619.)
 
 #### References in Text
 
+This chapter, referred to in subsecs. (g)(1), (h)(1), and (j)(2), (3), (6), (7), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
 Hereafter, referred to in subsec. (j)(1), probably means on and after the date of enactment of Pub. L. 108–199, which enacted subsec. (j) of this section and was approved Jan. 23, 2004.
 
-Sections 1279f and 1279g of title 46, Appendix, referred to in subsec. (j)(4), is in the original “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)”. Those sections 1111 and 1112 were renumbered sections 1113 and 1114, respectively, by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557.
+#### Codification
 
-The antitrust laws, referred to in subsec. (j)(6), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 53702 and 53735 of Title 46, Shipping.
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 109–479, §214(1), substituted “any fishery under the Council's jurisdiction except a salmon fishery” for “all fisheries under the Council's jurisdiction except salmon fisheries” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 109–479, §214(2), added par. (2) and struck out former par. (2) which read as follows:“establishes a system of fees to pay for the costs of implementing the plan.”
+
+Subsec. (b)(2)(A). Pub. L. 109–479, §214(3), substituted “observers, or electronic monitoring systems,” for “observers”.
+
+Subsec. (b)(2)(E). Pub. L. 109–479, §214(4), inserted “a fixed amount reflecting actual observer costs as described in subparagraph (A) or” after “expressed as”.
+
+Subsec. (b)(2)(F). Pub. L. 109–479, §214(5), (6), inserted “some or” after “against” and “or an electronic monitoring system” after “observer”.
+
+Subsec. (b)(2)(I), (J). Pub. L. 109–479, §214(7), (8), added subpar. (I) and redesignated former subpar. (I) as (J).
 
 2004—Subsec. (j). Pub. L. 108–199 added subsec. (j).
 
@@ -138,7 +154,9 @@ Subsecs. (f) to (i). Pub. L. 104–297, §117(a)(3), added subsecs. (f) to (i).
 
 1992—Subsec. (b)(2)(E). Pub. L. 102–582 substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “1857(1)”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be section “1857(1)”.</i>
 

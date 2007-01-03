@@ -12,7 +12,8 @@
 | [2667\.](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md) | Leases: non-excess property of military departments. |
 | [2667a.](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md) | Leases: non-excess property of Defense agencies. |
 | [2668\.](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
-| [2669\.](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md) | Easements for rights-of-way: gas, water, sewer pipe lines. |
+| [2668a.](%C2%A7%2002668a%20-%20Easements%20granting%20restrictive%20easements%20in%20connection%20with%20land%20conveyances.md) | Easements: granting restrictive easements in connection with land conveyances. |
+| \[2669. | Repealed.\] |
 | [2670\.](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md) | Use of facilities by private organizations; use as polling places. |
 | [2671\.](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md) | Military reservations and facilities: hunting, fishing, and trapping. |
 | \[2672 to 2673. Repealed.\] |  |
@@ -32,16 +33,15 @@
 | [2686\.](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md) | Utilities and services: sale; expansion and extension of systems and facilities. |
 | [2687\.](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md) | Base closures and realignments. |
 | [2688\.](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md) | Utility systems: conveyance authority. |
-| [2689\.](%C2%A7%2002689%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md) | Development of geothermal energy on military lands. |
-| [2690\.](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md) | Fuel sources for heating systems; prohibition on converting certain heating facilities. |
+| \[2689, 2690. Repealed.\] |  |
 | [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md) | Restoration of land used by permit or lease. |
 | [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
-| [2693\.](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property%20Department%20of%20Justice%20correctional%20options%20program.md) | Conveyance of certain property: Department of Justice correctional options program. |
+| \[2693. | Repealed.\] |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
 | [2694a.](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md) | Conveyance of surplus real property for natural resource conservation. |
 | [2694b.](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md) | Participation in wetland mitigation banks. |
 | [2695\.](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md) | Acceptance of funds to cover administrative expenses relating to certain real property transactions. |
-| [2696\.](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md) | Screening of real property for further Federal use before conveyance. |
+| [2696\.](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md) | Real property: transfer between armed forces and screening requirements for other Federal use. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,7 +53,11 @@ This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struck out former item 2663 “Acquisition” and items 2672 “Authority to acquire low-cost interests in land”, 2672a “Acquisition: interests in land when need is urgent”, and 2676 “Acquisition: limitation”.
+2006—Pub. L. 109–364, div. B, title XXVIII, §§2822(d), 2823(b), 2825(d)(2)(B), 2851(c)(3), Oct. 17, 2006, 120 Stat. 2475–2477, 2495, added item 2668a, substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in item 2696, and struck out items 2669 “Easements for rights-of-way: gas, water, sewer pipe lines”, 2689 “Development of geothermal energy on military lands”, 2690 “Fuel sources for heating systems; prohibition on converting certain heating facilities”, and 2693 “Conveyance of certain property: Department of Justice correctional options program”.
+
+&nbsp;
+
+Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struck out former item 2663 “Acquisition” and items 2672 “Authority to acquire low-cost interests in land”, 2672a “Acquisition: interests in land when need is urgent”, and 2676 “Acquisition: limitation”.
 
 2004—Pub. L. 108–375, div. B, title XXVIII, §2821(e)(3), Oct. 28, 2004, 118 Stat. 2130, substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in item 2670 and struck out items 2664 “Acquisition of property for lumber production”, 2666 “Acquisition: land purchase contracts; limitation on commission”, 2673 “Acquisition of certain interests in land: availability of funds”, and 2679 “Representatives of veterans’ organizations: use of space and equipment”.
 
@@ -148,7 +152,8 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02667 - Leases non-excess property of military departments](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md)
 - [&sect; 02667a - Leases non-excess property of Defense agencies](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md)
 - [&sect; 02668 - Easements for rights-of-way](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md)
-- [&sect; 02669 - Easements for rights-of-way gas, water, sewer pipe lines](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md)
+- [&sect; 02668a - Easements granting restrictive easements in connection with land conveyances](%C2%A7%2002668a%20-%20Easements%20granting%20restrictive%20easements%20in%20connection%20with%20land%20conveyances.md)
+- [&sect; 02669 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2822(c), Oct. 17, 2006, 120 Stat. 2475](%C2%A7%2002669%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72822%28c%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202475.md)
 - [&sect; 02670 - Use of facilities by private organizations; use as polling places](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md)
 - [&sect; 02671 - Military reservations and facilities hunting, fishing, and trapping](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md)
 - [&sect; 02672, 2672a - Repealed. Pub. L. 109&#8211;163, div. B, title XXVIII, &sect;2821(f), Jan. 6, 2006, 119 Stat. 3513](%C2%A7%2002672%2C%202672a%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28f%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203513.md)
@@ -169,13 +174,13 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02686 - Utilities and services sale; expansion and extension of systems and facilities](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md)
 - [&sect; 02687 - Base closures and realignments](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md)
 - [&sect; 02688 - Utility systems conveyance authority](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md)
-- [&sect; 02689 - Development of geothermal energy on military lands](%C2%A7%2002689%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md)
-- [&sect; 02690 - Fuel sources for heating systems; prohibition on converting certain heating facilities](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md)
+- [&sect; 02689 - Renumbered &sect;2917](%C2%A7%2002689%20-%20Renumbered%20%C2%A72917.md)
+- [&sect; 02690 - Renumbered &sect;2918](%C2%A7%2002690%20-%20Renumbered%20%C2%A72918.md)
 - [&sect; 02691 - Restoration of land used by permit or lease](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md)
 - [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
-- [&sect; 02693 - Conveyance of certain property Department of Justice correctional options program](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property%20Department%20of%20Justice%20correctional%20options%20program.md)
+- [&sect; 02693 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2825(c)(2), Oct. 17, 2006, 120 Stat. 2477](%C2%A7%2002693%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72825%28c%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202477.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)
 - [&sect; 02694a - Conveyance of surplus real property for natural resource conservation](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md)
 - [&sect; 02694b - Participation in wetland mitigation banks](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md)
 - [&sect; 02695 - Acceptance of funds to cover administrative expenses relating to certain real property transactions](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md)
-- [&sect; 02696 - Screening of real property for further Federal use before conveyance](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md)
+- [&sect; 02696 - Real property transfer between armed forces and screening requirements for other Federal use](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md)

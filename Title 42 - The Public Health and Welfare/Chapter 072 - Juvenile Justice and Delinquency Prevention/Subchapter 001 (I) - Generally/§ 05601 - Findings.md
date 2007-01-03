@@ -8,7 +8,7 @@
 
 &emsp;(3) One in every 6 individuals (16.2 percent) arrested for committing violent crime in 1999 was less than 18 years of age. In 1999, juveniles accounted for 9 percent of murder arrests, 17 percent of forcible rape arrests, 25 percent of robbery arrest, 14 percent of aggravated assault arrests, and 24 percent of weapons arrests.
 
-&emsp;(4) More than 1/2 of juvenile murder victims are killed with firearms. Of the nearly 1,800 murder victims less than 18 years of age, 17 percent of the victims less than 13 years of age were murdered with a firearm, and 81 percent of the victims 13 years of age or older were killed with a firearm.
+&emsp;(4) More than 1/2 of juvenile murder victims are killed with firearms. Of the nearly 1,800murder victims less than 18 years of age, 17 percent of the victims less than 13 years of age were murdered with a firearm, and 81 percent of the victims 13 years of age or older were killed with a firearm.
 
 &emsp;(5) Juveniles accounted for 13 percent of all drug abuse violation arrests in 1999. Between 1990 and 1999, juvenile arrests for drug abuse violations rose 132 percent.
 
@@ -146,7 +146,7 @@ Pub. L. 108–96, §1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. C, title II, §12201, Nov. 2, 2002, 116 Stat. 1869, provided that: “This subtitle \[subtitle B (§§12201–12223) of title II of div. C of Pub. L. 107–273, enacting subchapter V of this chapter, parts C to E of subchapter II of this chapter, and sections 5677 to 5681 ofthis title, redesignating part J of subchapter II of this chapter as part F of subchapter II of this chapter, amending this section and sections 5602, 5603, 5612, 5614, 5616, 5617, 5631 to 5633, 5671, 5672, 5674, 5675, 5773, 13002, 13003, 13013, and 13023 of this title, repealing parts C to I of subchapter II of this chapter, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 2002’.”
+Pub. L. 107–273, div. C, title II, §12201, Nov. 2, 2002, 116 Stat. 1869, provided that: “This subtitle \[subtitle B (§§12201–12223) of title II of div. C of Pub. L. 107–273, enacting subchapter V of this chapter, parts C to E of subchapter II of this chapter, and sections 5677 to 5681 of this title, redesignating part J of subchapter II of this chapter as part F of subchapter II of this chapter, amending this section and sections 5602, 5603, 5612, 5614, 5616, 5617, 5631 to 5633, 5671, 5672, 5674, 5675, 5773, 13002, 13003, 13013, and 13023 of this title, repealing parts C to I of subchapter II of this chapter, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 2002’.”
 
 #### Short Title of 1999 Amendment
 
@@ -154,7 +154,7 @@ Pub. L. 106–71, §1, Oct. 12, 1999, 113 Stat. 1032, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–322, title XVII, §170301, Sept. 13, 1994, 108 Stat. 2043, provided that subtitle C (§§170301–170303) of title XVII of Pub. L. 103–322, which enacted section 5776a of this title, amended sections 5777 and 5778 of this title, and enacted provisions set out as a note under section 5776a of this title, could be cited as the “Morgan P. Hardiman Task Force on Missing and Exploited Children Act”, prior to repeal by Pub. L. 105–314, title VII, §703(g), Oct. 30, 1998, 112 Stat. 2989.
+Pub. L. 103–322, title XVII, §170301, Sept. 13, 1994, 108 Stat. 2043, provided that subtitle C (§§170301–170303) oftitle XVII of Pub. L. 103–322, which enacted section 5776a of this title, amended sections 5777 and 5778 of this title, and enacted provisions set out as a note under section 5776a of this title, could be cited as the “Morgan P. Hardiman Task Force on Missing and Exploited Children Act”, prior to repeal by Pub. L. 105–314, title VII, §703(g), Oct. 30, 1998, 112 Stat. 2989.
 
 #### Short Title of 1988 Amendment
 

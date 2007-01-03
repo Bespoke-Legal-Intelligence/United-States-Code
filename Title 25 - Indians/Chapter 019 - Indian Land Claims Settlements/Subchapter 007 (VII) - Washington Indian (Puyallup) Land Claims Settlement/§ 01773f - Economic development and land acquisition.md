@@ -4,7 +4,7 @@
 
 To the extent provided in advance in appropriation Acts, the Secretary shall disburse $10,000,000 to the Tribe of which—
 
-&emsp;(1) $9,500,000 shall be available for the Tribe to carry out economic development consistent with section VI of the Settlement Agreement or to acquire lands; and
+&emsp;(1) $9,500,000 shall be available for the Tribe to carry out economic development consistentwith section VI of the Settlement Agreement or to acquire lands; and
 
 &emsp;(2) $500,000 shall be available only to support and assist the development of business enterprises by members of the Tribe in a manner consistent with the Settlement Agreement.
 

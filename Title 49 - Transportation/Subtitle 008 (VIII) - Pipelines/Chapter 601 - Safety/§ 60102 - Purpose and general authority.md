@@ -100,7 +100,7 @@ Peer review panels.—The committees referred to in subparagraph (A) shall serve
 
 &emsp;&emsp;(C)
 
-Review by secretary.—Not later than 90 days after receiving a report submitted by a committee under subparagraph (B), the Secretary—
+Review by secretary.—Not later than 90 days after receiving a report submitted bya committee under subparagraph (B), the Secretary—
 
 &emsp;&emsp;&emsp;(i) shall review the report;
 
@@ -230,7 +230,7 @@ Carbon Dioxide Regulation.—The Secretary shall regulate carbon dioxide transpo
 
 Emergency Flow Restricting Devices.—(1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness of emergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
 
-(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
+(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances underwhich an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
 
 (3)
 
@@ -240,7 +240,37 @@ Remotely controlled valves.—(A) Not later than June 1, 1998, the Secretary sha
 
 (k)
 
-Prohibition Against Low Internal Stress Exception.—The Secretary may not provide an exception to this chapter for a hazardous liquid pipeline facility only because the facility operates at low internal stress.
+Low-Stress Hazardous Liquid Pipelines.—
+
+&emsp;(1)
+
+Minimum standards.—Not later than December 31, 2007, the Secretary shall issue regulations subjecting low-stress hazardous liquid pipelines to the same standards and regulations as other hazardous liquid pipelines, except as provided in paragraph (3). The implementation of the applicable standards and regulatory requirements may be phased in. The regulations issued under this paragraph shall not apply to gathering lines.
+
+&emsp;(2)
+
+General prohibition against low internal stress exception.—Except as provided in paragraph (3), the Secretary may not provide an exception to the requirements of this chapter for a hazardous liquid pipeline because the pipeline operates at low internal stress.
+
+&emsp;(3)
+
+Limited exceptions.—The Secretary shall provide or continue in force exceptions to this subsection for low-stress hazardous liquid pipelines that—
+
+&emsp;&emsp;(A) are subject to safety regulations of the United States Coast Guard; or
+
+&emsp;&emsp;(B) serve refining, manufacturing, or truck, rail, or vessel terminal facilities if the pipeline is less than 1 mile long (measured outside the facility grounds) and does not cross an offshore area or a waterway currently used for commercial navigation,
+
+> &emsp;until regulations issued under paragraph (1) become effective. After such regulations become effective, the Secretary may retain or remove those exceptions as appropriate.
+
+&emsp;(4)
+
+Relationship to other laws.—Nothing in this subsection shall be construed to prohibit or otherwise affect the applicability of any other statutory or regulatory exemption to any hazardous liquid pipeline.
+
+&emsp;(5)
+
+Definition.—For purposes of this subsection, the term “low-stress hazardous liquid pipeline” means a hazardous liquid pipeline that is operated in its entirety at a stress level of 20 percent or less of the specified minimum yield strength of the line pipe.
+
+&emsp;(6)
+
+Effective date.—The requirements of this subsection shall not take effect as to low-stress hazardous liquid pipeline operators before the effective date of the rules promulgated by the Secretary under this subsection.
 
 (<i>l</i>)
 
@@ -250,7 +280,7 @@ Updating Standards.—The Secretary shall, to the extent appropriate and practic
 
 Inspections by Direct Assessment.—Not later than 1 year after the date of the enactment of this subsection, the Secretary shall issue regulations prescribing standards for inspection of a pipeline facility by direct assessment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1304; Pub. L. 104–304, §§4, 20(g), Oct. 12, 1996, 110 Stat. 3794, 3805; Pub. L. 107–355, §§20(a)(1), (2)(A), 23, Dec. 17, 2002, 116 Stat. 3009, 3011.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1304; Pub. L. 104–304, §§4, 20(g), Oct. 12, 1996, 110 Stat. 3794, 3805; Pub. L. 107–355, §§20(a)(1), (2)(A), 23, Dec. 17, 2002, 116 Stat. 3009, 3011; Pub. L. 109–468, §4, Dec. 29, 2006, 120 Stat. 3490.)
 
 Historical and Revision Notes
 
@@ -424,7 +454,7 @@ In subsection (c)(2), the word “prescribe” is substituted for “provide” 
 
 In subsection (c)(3), the words “participate in a public safety program meeting the requirements of paragraph (1) of this subsection” are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” isomitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
+In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” is omitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
 
 In subsections (e) and (f), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the Code.
 
@@ -442,11 +472,13 @@ In subsection (k), the words “In exercising any discretion under this chapter�
 
 #### References in Text
 
-The date of the enactment of this subsection, referred to in subsec. (m), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
-
 The date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996, referred to in subsec. (c)(4)(A), probably means the date of enactment of the Accountable Pipeline Safety and Partnership Act of 1996, Pub. L. 104–304, which amended this section and was approved Oct. 12, 1996.
 
+The date of the enactment of this subsection, referred to in subsec. (m), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
+
 #### Amendments
+
+2006—Subsec. (k). Pub. L. 109–468 amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “The Secretary may not provide an exception to this chapter for a hazardous liquid pipeline facility only because the facility operates at low internal stress.”
 
 2002—Pub. L. 107–355, §20(a)(2)(A), substituted “Purpose and general authority” for “General authority” in section catchline.
 
@@ -454,7 +486,7 @@ Subsec. (a). Pub. L. 107–355, §20(a)(1), inserted subsec. heading, added par.
 
 Minimum safety standards” for “
 
-Minimum Safety Standards” in heading and “The Secretary” for “The Secretary of Transportation” in introductory provisions, and redesignated former par. (2) as (3) and inserted heading.
+Minimum Safety Standards” inheading and “The Secretary” for “The Secretary of Transportation” in introductory provisions, and redesignated former par. (2) as (3) and inserted heading.
 
 Subsec. (m). Pub. L. 107–355, §23, added subsec. (m).
 
@@ -495,6 +527,16 @@ Subsecs. (i), (j)(2). Pub. L. 104–304, §20(g), substituted “standards” fo
 Subsec. (j)(3). Pub. L. 104–304, §4(h), added par. (3).
 
 Subsec. (<i>l</i>). Pub. L. 104–304, §4(f), added subsec. (<i>l</i>).
+
+#### Standards To Implement NTSB Recommendations
+
+Pub. L. 109–468, §19, Dec. 29, 2006, 120 Stat. 3498, provided that: “Not later than June 1, 2008, the Secretary of Transportation shall issue standards that implement the following recommendations contained in the National Transportation Safety Board's report entitled ‘Supervisory Control and Data Acquisition (SCADA) in Liquid Pipelines’ and adopted November 29, 2005:
+
+&emsp;“(1) Implementation of the American Petroleum Institute's Recommended Practice 165 for the use of graphics on the supervisory control and data acquisition screens.
+
+&emsp;“(2) Implementation of a standard for pipeline companies to review and audit alarms on monitoring equipment.
+
+&emsp;“(3) Implementation of standards for pipeline controller training that include simulator or noncomputerized simulations for controller recognition of abnormal pipeline operating conditions, in particular, leak events.”
 
 #### State Pipeline Safety Advisory Committees
 

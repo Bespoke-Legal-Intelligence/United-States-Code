@@ -2,7 +2,7 @@
 
 #### (a) Program of grants
 
-The Director of the Institute, in consultation with the advisory council for the Institute, mayaward research grants to one or more Diabetes Eye Research Institutions for the support of programs in clinical or health services aimed at—
+The Director of the Institute, in consultation with the advisory council for the Institute, may award research grants to one or more Diabetes Eye Research Institutions for the support of programs in clinical or health services aimed at—
 
 &emsp;(1) providing comprehensive eye care services for people with diabetes, including a full complement of preventive, diagnostic and treatment procedures;
 

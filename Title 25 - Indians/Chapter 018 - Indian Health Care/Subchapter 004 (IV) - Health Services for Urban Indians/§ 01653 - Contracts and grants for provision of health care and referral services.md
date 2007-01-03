@@ -58,7 +58,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 #### (d) Grants for immunization services
 
-(1) The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grantsmade to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+(1) The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
 
 (2) In making any grant to carry out this subsection, the Secretary shall take into consideration—
 

@@ -80,7 +80,7 @@ The Administration may, upon such terms and conditions as it may prescribe, adop
 
 #### (h) Administrative provisions
 
-The Administration shall administer this part on a prudent and economically justifiable basis and establish such fee or fees for small business concerns and premium or premiums for sureties as it deems reasonable and necessary, to be payable at such time and under such conditions as may be determined by the Administration.
+The Administration shall administer this part on a prudent and economically justifiable basisand establish such fee or fees for small business concerns and premium or premiums for sureties as it deems reasonable and necessary, to be payable at such time and under such conditions as may be determined by the Administration.
 
 #### (i) Powers of Administration respecting loans
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 #### Regulations
 
-Section 205 of title II of Pub. L. 100–590 provided that: “The Administration shall promulgate final regulations to implement the amendments made by this title \[amending this section and section 694c of this title\] not later than one hundred and eighty days after the date of the enactment of this Act \[Nov. 3, 1988\].”
+Section 205 of title II of Pub. L. 100–590 provided that: “The Administration shall promulgate final regulations to implement the amendments made by this title\[amending this section and section 694c of this title\] not later than one hundred and eighty days after the date of the enactment of this Act \[Nov. 3, 1988\].”
 
 #### Small Business Access to Surety Bonding Survey
 

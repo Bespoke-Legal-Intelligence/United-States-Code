@@ -36,7 +36,7 @@ In reviewing nominees submitted under subsection (b) of this section for possibl
 
 #### (1) Staggered terms
 
-&emsp;Members of the advisory council shall be appointed for terms of 3 years, except that, of the members first appointed, four members shall be appointed for a term of 1 year and four members shall be appointed for a term of 2 years.
+&emsp;Members of the advisory council shall be appointed for terms of 3 years, except that, of the members first appointed, four membersshall be appointed for a term of 1 year and four members shall be appointed for a term of 2 years.
 
 #### (2) Reappointment
 

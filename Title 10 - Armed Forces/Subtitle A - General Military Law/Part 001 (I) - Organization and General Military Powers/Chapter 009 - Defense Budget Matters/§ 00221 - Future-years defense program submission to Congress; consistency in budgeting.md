@@ -1,6 +1,6 @@
 ### §221. Future-years defense program: submission to Congress; consistency in budgeting
 
-(a) The Secretary of Defense shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
+(a) The Secretary of Defense shall submit to Congress each year, at or about the time thatthe President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
 
 (b)(1) The Secretary of Defense shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
 
@@ -27,6 +27,38 @@ A prior section 221 was renumbered section 226 of this title.
 Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear” for “the current five-year” and inserted at end “Any such multiyear defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
+
+#### Annual Report on Personnel Security Investigations for Industry and National Industrial Security Program
+
+Pub. L. 109–364, div. A, title III, §347(a), (b), Oct. 17, 2006, 120 Stat. 2158, provided that:
+
+“(a)
+
+Annual Report Required.—The Secretary of Defense shall include in the budget justification documents submitted to Congress in support of the President's budget for the Department of Defense for each fiscal year, a report on the future requirements of the Department of Defense with respect to the Personnel Security Investigations for Industry and the National Industrial Security Program of the Defense Security Service.
+
+“(b)
+
+Contents of Report.—Each report required to be submitted under subsection (a) shall include the following:
+
+&emsp;“(1) The funding requirements of the personnel security clearance investigation program and ability of the Secretary of Defense to fund the program.
+
+&emsp;“(2) The size of the personnel security clearance investigation process backlog.
+
+&emsp;“(3) The length of the average delay for an individual case pending in the personnel security clearance investigation process.
+
+&emsp;“(4) Any progress made by the Secretary of Defense during the 12 months preceding the date on which the report is submitted toward implementing planned changes in the personnel security clearance investigation process.
+
+&emsp;“(5) A determination certified by the Secretary of Defense of whether the personnel security clearance investigation process has improved during the 12 months preceding the date on which the report is submitted.”
+
+#### Budgeting for Ongoing Military Operations in Afghanistan and Iraq
+
+Pub. L. 109–364, div. A, title X, §1008, Oct. 17, 2006, 120 Stat. 2374, provided that: “The President's budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for each fiscal year after fiscal year 2007 shall include—
+
+&emsp;“(1) a request for the appropriation of funds for such fiscal year for ongoing military operations in Afghanistan and Iraq;
+
+&emsp;“(2) an estimate of all funds expected to be required in that fiscal year for such operations; and
+
+&emsp;“(3) a detailed justification of the funds requested.”
 
 #### Separate Program Elements Required for Significant Systems Development and Demonstration Projects for Armored Systems Modernization Program
 
@@ -150,6 +182,8 @@ Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided t
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 109–289, div. A, title VIII, §8089, Sept. 29, 2006, 120 Stat. 1294.
+
 Pub. L. 109–148, div. A, title VIII, §8100, Dec. 30, 2005, 119 Stat. 2721.
 
 Pub. L. 108–287, title VIII, §8116, Aug. 5, 2004, 118 Stat. 998.
@@ -230,5 +264,5 @@ Section 1402(b) of Pub. L. 101–510 provided for limitations on obligation by S
 
 #### Mission Oriented Presentation of Department of Defense Matters in Budget
 
-Section 1404 of Pub. L. 101–510 directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
+Section 1404 of Pub. L. 101–510 directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050\(National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
 

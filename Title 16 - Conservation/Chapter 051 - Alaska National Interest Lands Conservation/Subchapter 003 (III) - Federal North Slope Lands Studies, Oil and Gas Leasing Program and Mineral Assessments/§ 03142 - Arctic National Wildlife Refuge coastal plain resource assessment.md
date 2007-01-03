@@ -30,7 +30,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 #### (d) Guidelines
 
-(1) Within two years after December 2, 1980, the Secretary shall by regulation establish initial guidelines governing the carrying out of exploratory activities. The guidelines shall be based upon the results of the study required under subsection (c) of this section and such other information as may be available to the Secretary. The guidelines shall include such prohibitions, restrictions, and conditions on the carrying out of exploratory activities as the Secretary deems necessary or appropriate to ensure that exploratory activities do not significantly adversely affect the fish and wildlife, their habitats, or the environment, including, but not limited to—
+(1) Within two years after December 2, 1980, the Secretary shall by regulation establish initial guidelines governing the carrying out of exploratory activities. The guidelines shall bebased upon the results of the study required under subsection (c) of this section and such other information as may be available to the Secretary. The guidelines shall include such prohibitions, restrictions, and conditions on the carrying out of exploratory activities as the Secretary deems necessary or appropriate to ensure that exploratory activities do not significantly adversely affect the fish and wildlife, their habitats, or the environment, including, but not limited to—
 
 &emsp;(A) a prohibition on the carrying out of exploratory activity during caribou calving and immediate post-calving seasons or during any other period in which human activity may have adverse effects;
 
@@ -60,7 +60,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 &emsp;(B) shall require that all data and information (including processed, analyzed and interpreted information) obtained as a result of carrying out the plan shall be submitted to the Secretary; and
 
-&emsp;(C) shall make such data and information available to the public except that any processed, analyzed and interpreted data or information shall be held confidential by the Secretary for a period of not less than two years following any lease sale including the area from which the information was obtained and: <i>Provided</i>, That the Secretary shall prohibit by regulation any person who obtains access tosuch data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information. The Secretary shall require that any permittee shall make available such data to any person at fair cost.
+&emsp;(C) shall make such data and information available to the public except that any processed, analyzed and interpreted data or information shall be held confidential by the Secretary for a period of not less than two years following any lease sale including the area from which the information was obtained and: <i>Provided</i>, That the Secretary shall prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information. The Secretary shall require that any permittee shall make available such data to any person at fair cost.
 
 #### (f) Modification to exploration plans
 

@@ -54,9 +54,29 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(C) The term “local educational agency” has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713).
 
-&emsp;&emsp;(D) The term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+&emsp;&emsp;(D) The term “institution of higher education” has the meaning given that term insection 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939.)
+(d)
+
+Use of Supply Schedules for Certain Goods and Services.—
+
+&emsp;(1)
+
+In general.—The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for goods or services that are to be used to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack.
+
+&emsp;(2)
+
+Determination by secretary of homeland security.—The Secretary of Homeland Security shall determine which goods and services qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
+
+&emsp;(3)
+
+Voluntary use.—In the case of the use by a State or local government of a Federal supply schedule pursuant to paragraph (1), participation by a firm that sells to the Federal Government through the supply schedule shall be voluntary with respect to a sale to the State or local government through such supply schedule.
+
+&emsp;(4)
+
+Definitions.—The definitions in subsection (c)(3) shall apply for purposes of this subsection.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332.)
 
 Historical and Revision Notes
 
@@ -86,13 +106,21 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (b)(1)(B), is act June 25, 1
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–364 added subsec. (d).
 
 2002—Subsec. (c). Pub. L. 107–347 added subsec. (c).
 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+
+#### Procedures
+
+Pub. L. 109–364, div. A, title VIII, §833(b), Oct. 17, 2006, 120 Stat. 2332, provided that: “Not later than 30 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Administrator of General Services shall establish procedures to implement subsection (d) of section 502 of title 40, United States Code (as added by subsection (a)).”
 
 #### Public Land Management Agency Foundations
 

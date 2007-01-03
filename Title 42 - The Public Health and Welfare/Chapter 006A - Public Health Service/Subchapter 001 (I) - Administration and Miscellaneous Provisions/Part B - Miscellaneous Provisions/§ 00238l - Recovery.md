@@ -44,7 +44,7 @@ The Community Mental Health Centers Act, referred to in subsec. (a), is title II
 
 #### Codification
 
-Section was classified to section 300aaa–12 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–14 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–14 of this title prior to renumbering by Pub. L. 99–660, to section 229d of this title prior to renumbering by Pub. L. 98–24, and to section 2689m of this title prior to renumbering by Pub. L. 97–35.
+Section was classified to section 300aaa–12 of this title prior to renumbering by Pub. L. 103–43, to section300cc–14 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–14 of this title prior to renumbering by Pub. L. 99–660, to section 229d of this title prior to renumbering by Pub. L. 98–24, and to section 2689m of this title prior to renumbering by Pub. L. 97–35.
 
 #### Amendments
 

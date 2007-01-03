@@ -10,7 +10,7 @@ Authorization.—Out of the amounts received by the Federal Aviation Administrat
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated $77,000,000 for each fiscal year to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+Additional funds.—In addition to amounts authorized under paragraph (1), thereis authorized to be appropriated $77,000,000 for each fiscal year to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Section 47114 of this title, referred to in subsec. (b), does not contain a subs
 
 Subsec. (a)(3). Pub. L. 108–176, §404(2), added par. (3).
 
-Subsec. (c). Pub. L. 108–176, §404(3), struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall beavailable for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
+Subsec. (c). Pub. L. 108–176, §404(3), struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
 
 2000—Subsec. (a). Pub. L. 106–181 designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 

@@ -6,7 +6,7 @@ In General.—A United States marshal charged with supervising the implementatio
 
 (b)
 
-Excuse of an Employee on Moral or Religious Grounds.—No employee of any State department of corrections, the United States Department of Justice, the Federal Bureau of Prisons, or the United States Marshals Service, and no employee providing services to that department, bureau, or service under contract shall be required, as a condition of that employment or contractual obligation, to be in attendance at orto participate in any prosecution or execution under this section if such participation is contrary to the moral or religious convictions of the employee. In this subsection, “participation in executions” includes personal preparation of the condemned individual and the apparatus used for execution and supervision of the activities of other personnel in carrying out such activities.
+Excuse of an Employee on Moral or Religious Grounds.—No employee of any State department of corrections, the United States Department of Justice, the Federal Bureau of Prisons, or the United States Marshals Service, and no employee providing services to that department, bureau, or service under contract shall be required, as a condition of that employment or contractual obligation, to be in attendance at or to participate in any prosecution or execution under this section if such participation is contrary to the moral or religious convictions of the employee. In this subsection, “participation in executions” includes personal preparation of the condemned individual and the apparatus used for execution and supervision of the activities of other personnel in carrying out such activities.
 
 (Added Pub. L. 103–322, title VI, §60002(a), Sept. 13, 1994, 108 Stat. 1968.)
 

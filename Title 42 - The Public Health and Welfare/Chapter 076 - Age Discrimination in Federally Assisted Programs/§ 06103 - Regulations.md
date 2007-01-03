@@ -10,7 +10,7 @@
 
 &emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of the Congress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the comments and recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
 
-(B) The forty-five day period specified in subparagraph (A)(ii) shall include only days during which both Houses of the Congress are in session.
+(B) The forty-five day period specified in subparagraph (A)(ii) shall include only days duringwhich both Houses of the Congress are in session.
 
 (3) Not later than ninety days after the Secretary publishes proposed regulations under paragraph (1), the Secretary shall publish in the Federal Register final general regulations to carry out the provisions of section 6102 of this title, after taking into consideration any comments received by the Secretary with respect to the regulations proposed under paragraph (1).
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) the differentiation made by such action is based upon reasonable factors other than age.
 
-(2) The provisions of this chapter shall not apply to any program or activity establishedunder authority of any law which (A) provides any benefits or assistance to persons based upon the age of such persons; or (B) establishes criteria for participation in age-related terms or describes intended beneficiaries or target groups in such terms.
+(2) The provisions of this chapter shall not apply to any program or activity established under authority of any law which (A) provides any benefits or assistance to persons based upon the age of such persons; or (B) establishes criteria for participation in age-related terms or describes intended beneficiaries or target groups in such terms.
 
 #### (c) Employment practices and labor-management joint apprenticeship training program exemptions; Age Discrimination in Employment Act unaffected
 

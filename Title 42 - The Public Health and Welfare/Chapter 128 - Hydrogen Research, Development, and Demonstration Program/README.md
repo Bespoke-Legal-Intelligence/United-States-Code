@@ -3,37 +3,12 @@
 | Sec. |  |
 | :--- | ---: |
 | [12401\.](%C2%A7%2012401%20-%20Finding%2C%20purposes%2C%20and%20definitions.md) | Finding, purposes, and definitions. |
-| (a) | Finding. |
-| (b) | Purposes. |
-| (c) | Definitions. |
 | [12402\.](%C2%A7%2012402%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [12403\.](%C2%A7%2012403%20-%20Hydrogen%20research%20and%20development.md) | Hydrogen research and development. |
-| (a) | Program. |
-| (b) | Research. |
-| (c) | Innovative energy technologies. |
-| (d) | Renewable energy systems; hybrid systems. |
-| (e) | Information. |
-| (f) | Federal funding. |
-| (g) | Non-Federal funding. |
-| (h) | Prohibition on duplicative efforts. |
-| (i) | Federal funding consistent with the Agreement on Subsidies and Countervailing Measures. |
 | [12404\.](%C2%A7%2012404%20-%20Demonstrations.md) | Demonstrations. |
-| (a) | Requirement. |
-| (b) | Small-scale demonstrations. |
-| (c) | Non-Federal funding. |
 | [12405\.](%C2%A7%2012405%20-%20Technology%20transfer%20program.md) | Technology transfer program. |
-| (a) | Program. |
-| (b) | Information. |
 | [12406\.](%C2%A7%2012406%20-%20Coordination%20and%20consultation.md) | Coordination and consultation. |
-| (a) | Secretary's responsibility. |
-| (b) | Assistance. |
-| (c) | Consultation. |
 | [12407\.](%C2%A7%2012407%20-%20Technical%20panel.md) | Technical panel. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Cooperation. |
-| (d) | Review. |
-| (e) | Support. |
 | [12408\.](%C2%A7%2012408%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

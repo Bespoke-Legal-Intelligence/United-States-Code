@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any other provision of this chapter, during the period beginning December 1, 1988, and ending June 30, 1989 (hereinafter in this section referred to as the “open period”), an individual who—
 
-&emsp;(1) first became a member of the Armed Forces or first entered on active duty as a member of the Armed Forces during the period beginning July 1, 1985, and ending June 30, 1988;
+&emsp;(1) first became a member of the Armed Forces or first entered on active duty as amember of the Armed Forces during the period beginning July 1, 1985, and ending June 30, 1988;
 
 &emsp;(2) has continuously served on active duty without a break in service since the date the individual first became such a member or first entered on active duty as such a member; and
 

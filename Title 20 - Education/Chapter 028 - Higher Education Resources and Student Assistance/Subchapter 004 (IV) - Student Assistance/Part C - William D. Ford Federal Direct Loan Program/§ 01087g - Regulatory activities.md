@@ -4,7 +4,7 @@
 
 #### (1) Notice in lieu of regulations for first year of program
 
-&emsp;The Secretary shall publish in the Federal Register whatever standards, criteria, and procedures, consistent with the provisions of this part, the Secretary, in consultation with members of the higher education community, determines are reasonable and necessary to the successful implementation of the first year of the direct student loan program authorized by this part. Section 1232 <sup>1</sup> of this title shall not apply to the publication of such standards, criteria, and procedures.
+&emsp;The Secretary shall publish in the Federal Register whatever standards, criteria, and procedures, consistent with the provisions of this part, the Secretary, in consultation with members of the higher education community, determines are reasonable and necessary to the successful implementation of the first year of the direct student loan program authorized by this part. Section 1232 <sup>1</sup> of thistitle shall not apply to the publication of such standards, criteria, and procedures.
 
 #### (2) Negotiated rulemaking
 

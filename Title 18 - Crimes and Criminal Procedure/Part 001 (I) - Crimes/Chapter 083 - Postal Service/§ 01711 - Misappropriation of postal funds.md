@@ -24,7 +24,7 @@ Changes of phraseology only were made.
 
 Pub. L. 103–322, §330016(1)(H), in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-1970—Pub. L. 91–375 substituted “Postal Service officer or employee” and “Postal Service” for “postmaster or Postal Service employee” and “Post Office Department” in first par., “Postal Service officer or employee” for “Postmaster” in two places in second par., and “Postal Service” for “Postmaster General” once in first par. after “order of the” and twice in second par., respectively.
+1970—Pub. L. 91–375 substituted “Postal Service officer or employee” and “Postal Service” for “postmaster or Postal Service employee” and “Post Office Department” in first par., “Postal Service officer or employee” for “Postmaster” in two places in second par., and “Postal Service” for “Postmaster General” once infirst par. after “order of the” and twice in second par., respectively.
 
 #### Effective Date of 1970 Amendment
 

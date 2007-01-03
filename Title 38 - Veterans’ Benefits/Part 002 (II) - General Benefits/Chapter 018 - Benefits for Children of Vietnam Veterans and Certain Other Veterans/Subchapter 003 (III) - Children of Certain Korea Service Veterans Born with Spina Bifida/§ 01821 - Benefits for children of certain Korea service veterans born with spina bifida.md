@@ -18,7 +18,7 @@ Veteran of Covered Service in Korea.—For purposes of this section, a veteran o
 
 (d)
 
-Herbicide Agent.—For purposes of this section, the term “herbicide agent” means a chemical in a herbicide used in support of United States and allied military operations in or near the Korean demilitarized zone, as determined by the Secretary in consultation with the Secretary of Defense, during the period beginning on September 1, 1967, and ending on August 31, 1971.
+Herbicide Agent.—For purposes of this section, the term “herbicide agent” means a chemical in a herbicide used in support ofUnited States and allied military operations in or near the Korean demilitarized zone, as determined by the Secretary in consultation with the Secretary of Defense, during the period beginning on September 1, 1967, and ending on August 31, 1971.
 
 (Added Pub. L. 108–183, title I, §102(a)(2), Dec. 16, 2003, 117 Stat. 2653.)
 

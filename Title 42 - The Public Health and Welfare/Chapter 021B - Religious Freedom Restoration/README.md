@@ -3,56 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [2000bb.](%C2%A7%2002000bb%20-%20Congressional%20findings%20and%20declaration%20of%20purposes.md) | Congressional findings and declaration of purposes. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Findings.
-
-(b)
-
-Purposes.
-
-|  |  |
-| :--- | ---: |
 | 2000bb–1. | Free exercise of religion protected. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Exception.
-
-(c)
-
-Judicial relief.
-
-|  |  |
-| :--- | ---: |
 | 2000bb–2. | Definitions. |
 | 2000bb–3. | Applicability. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Rule of construction.
-
-(c)
-
-Religious belief unaffected.
-
-|  |  |
-| :--- | ---: |
 | 2000bb–4. | Establishment clause unaffected. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

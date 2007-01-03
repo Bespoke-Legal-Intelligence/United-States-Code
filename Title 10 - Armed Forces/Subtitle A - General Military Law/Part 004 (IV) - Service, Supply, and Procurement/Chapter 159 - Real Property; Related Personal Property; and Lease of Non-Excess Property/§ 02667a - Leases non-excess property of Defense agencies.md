@@ -26,7 +26,7 @@ Limitation, Terms, and Conditions.—A lease under subsection (a)—
 
 (c)
 
-Competitive Selection.—(1) If the term of a proposed lease under subsection (a) exceeds one year and the fair market value of the lease interest exceeds $100,000, as determined by the Secretary of Defense, the Secretary shall use competitive procedures to select the lessee.
+Competitive Selection.—(1) If the term of a proposed lease under subsection (a) exceeds one year and the fair market value of the leaseinterest exceeds $100,000, as determined by the Secretary of Defense, the Secretary shall use competitive procedures to select the lessee.
 
 (2) Before entering into a lease described in paragraph (1), the Secretary shall submit to Congress a written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee. The Secretary may then enter into the lease only after the end of the 30-day period beginning on the date on which the report is submitted or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 

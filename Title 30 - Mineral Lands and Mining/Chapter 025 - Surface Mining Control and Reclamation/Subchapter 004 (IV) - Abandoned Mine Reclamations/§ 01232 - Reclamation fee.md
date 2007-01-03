@@ -2,11 +2,11 @@
 
 #### (a) Payment; rate
 
-All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 35 cents per ton of coal produced by surface coal mining and 15 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 10 cents per ton, whichever is less.
+All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 31.5 cents per ton of coal produced by surface coal mining and 13.5 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 9 cents per ton, whichever is less.
 
 #### (b) Due date
 
-Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending June 30, 2006, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section.
+Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending September 30, 2021.
 
 #### (c) Submission of statement
 
@@ -44,19 +44,21 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;(C) The funds allocated by the Secretary under this paragraph to States and Indian tribes shall only be used for annual reclamation project construction and program administration grants.
 
-&emsp;(D) To the extent not expended within 3 years after the date of any grant award under this paragraph, such grant shall be available for expenditure by the Secretary in any area under paragraph (2), (3), (4), or (5).
+&emsp;(D) To the extent not expended within 3 years after the date of any grant award under this paragraph (except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years), such grant shall be available for expenditure by the Secretary under paragraph (5).
 
-(2) 20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in section 1231(e) of this title and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under section 1231(c)(2) of this title.
+(2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with the priorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
 
-(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraphs (2) and (5) are authorized to be expended by the Secretary for any of the following:
+(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5) are authorized to be expended by the Secretary for any of the following:
 
-&emsp;(A) For the purpose of section 1257(c) of this title, either directly or through grants to the States, subject to the limitation contained in section 1231(c)(11) of this title.
+&emsp;(A) For the purpose of section 1257(c) of this title, either directly or through grants to the States, subject to the limitation contained in section 1231(c)(9) of this title.
 
 &emsp;(B) For the purpose of section 1240 of this title (relating to emergencies).
 
 &emsp;(C) For the purpose of meeting the objectives of the fund set forth in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title in States and on Indian lands where the State or Indian tribe does not have an approved abandoned mine reclamation program pursuant to section 1235 of this title.
 
 &emsp;(D) For the administration of this subchapter by the Secretary.
+
+&emsp;(E) For the purpose of paragraph (8).
 
 (4)(A) Amounts available in the fund which are not allocated under paragraphs (1), (2), and (5) or expended under paragraph (3) in any fiscal year are authorized to be expended by the Secretary under this paragraph for the reclamation or drainage abatement of lands and waters within unreclaimed sites which are mined for coal or which were affected by such mining, wastebanks, coal processing or other coal mining processes and left in an inadequate reclamation status.
 
@@ -74,69 +76,261 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (F) For the purposes of the certification referred to in section 1240a(a) of this title, sites referred to in subparagraph (A) of this paragraph shall be considered as having the same priorities as those stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title. All sites referred to in subparagraph (A) of this paragraph within any State shall be reclaimed prior to such State making the certification referred to in section 1240a(a) of this title.
 
-(5) The Secretary shall allocate 40 percent of the amount in the fund after making the allocation referred to in paragraph (1) for making additional annual grants to States and Indian tribes which are not certified under section 1240a(a) of this title to supplement grants received by such States and Indian tribes pursuant to paragraph (1)(C) until the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title have been achieved by such State or Indian tribe. The allocation of such funds for the purpose of making such expenditures shall be through a formula based on the amount of coal historically produced in the State or from the Indian lands concerned prior to August 3, 1977. Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4) of this subsection for any State or Indian tribe shall not be deducted against any allocation of funds to the State or Indian tribe under paragraph (1) or under this paragraph.
+(5)(A) The Secretary shall allocate 60 percent of the amount in the fund after making the allocation referred to in paragraph (1) for making additional annual grants to States and Indian tribes which are not certified under section 1240a(a) of this title to supplement grants received by such States and Indian tribes pursuant to paragraph (1)(C) until the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title have been achieved by such State or Indian tribe. The allocation of such funds for the purpose of making such expenditures shall be through a formula based on the amount of coal historically produced in the State or from the Indian lands concerned prior to August 3, 1977. Funds made available under paragraph (3) or (4) of this subsection for any State or Indian tribe shall not be deducted against any allocation of funds to the State or Indian tribe under paragraph (1) or under this paragraph.
 
-(6) Any State may receive and retain, without regard to the 3-year limitation referred to in paragraph (1)(D), up to 10 percent of the total of the grants made annually to such State under paragraphs (1) and (5) if such amounts are deposited into either—
+(B) Any amount that is reallocated and available under section 1240a(h)(3) of this title shall be in addition to amounts that are allocated under subparagraph (A).
 
-&emsp;(A) a special trust fund established under State law pursuant to which such amounts (together with all interest earned on such amounts) are expended by the State solely to achieve the priorities stated in section 1233(a) of this title after September 30, 1995, or
+(6)(A) Any State with an approved abandoned mine reclamation program pursuant to section 1235 of this title may receive and retain, without regard to the 3-year limitation referred to in paragraph (1)(D), up to 30 percent of the total of the grants made annually to the State under paragraphs (1) and (5) if those amounts are deposited into an acid mine drainage abatement and treatment fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State for the abatement of the causes and the treatment of the effects of acid mine drainage in a comprehensive manner within qualified hydrologic units affected by coal mining practices.
 
-&emsp;(B) an acid mine drainage abatement and treatment fund established under State law as provided in paragraph (7).
+(B) In this paragraph, the term “qualified hydrologic unit” means a hydrologic unit—
 
-(7)(A) Any State may establish under State law an acid mine drainage abatement and treatment fund from which amounts (together with all interest earned on such amounts) are expended by the State to implement, in consultation with the Soil Conservation Service, acid mine drainage abatement and treatment plans approved by the Secretary. Such plans shall provide for the comprehensive abatement of the causes and treatment of the effects of acid mine drainage within qualified hydrologic units affected by coal mining practices.
+&emsp;(i) in which the water quality has been significantly affected by acid mine drainage from coal mining practices in a manner that adversely impacts biological resources; and
 
-(B) The plan shall include, but shall not be limited to, each of the following:
+&emsp;(ii) that contains land and water that are—
 
-&emsp;(i) An identification of the qualified hydrologic unit.
+&emsp;&emsp;(I) eligible pursuant to section 1234 of this title and include any of the priorities described in section 1233(a) of this title; and
 
-&emsp;(ii) The extent to which acid mine drainage is affecting the water quality and biological resources within the hydrologic unit.
+&emsp;&emsp;(II) the subject of expenditures by the State from the forfeiture of bonds required under section 1259 of this title or from other States sources to abate and treat acid mine drainage.
 
-&emsp;(iii) An identification of the sources of acid mine drainage within the hydrologic unit.
+(7) In complying with the priorities described in section 1233(a) of this title, any State or Indian tribe may use amounts available in grants made annually to the State or tribe under paragraphs (1) and (5) for the reclamation of eligible land and water described in section 1233(a)(3) of this title before the completion of reclamation projects under paragraphs (1) and (2) of section 1233(a) of this title only if the expenditure of funds for the reclamation is done in conjunction with the expenditure before, on, or after December 20, 2006, of funds for reclamation projects under paragraphs (1) and (2) of section 1233(a) of this title.
 
-&emsp;(iv) An identification of individual projects and the measures proposed to be undertaken to abate and treat the causes or effects of acid mine drainage within the hydrologic unit.
+(8)(A) In making funds available under this subchapter, the Secretary shall ensure that the grant awards total not less than $3,000,000 annually to each State and each Indian tribe having an approved abandoned mine reclamation program pursuant to section 1235 of this title and eligible land and water pursuant to section 1234 of this title, so long as an allocation of funds to the State or tribe is necessary to achieve the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title.
 
-&emsp;(v) The cost of undertaking the proposed abatement and treatment measures.
+(B) Notwithstanding any other provision of law, this paragraph applies to the States of Tennessee and Missouri.
 
-&emsp;(vi) An identification of existing and proposed sources of funding for such measures.
+#### (h) Transfers of interest earned by Fund
 
-&emsp;(vii) An analysis of the cost-effectiveness and environmental benefits of abatement and treatment measures.
+#### (1) In general
 
-(C) The Secretary may approve any plan under this paragraph only after determining that such plan meets the requirements of this paragraph. In conducting an analysis of the items referred to in clauses (iv), (v), and (vii) the Director of the Office of Surface Mining shall obtain the comments of the Director of the United States Bureau of Mines. In approving plans under this paragraph, the Secretary shall give a priority to those plans which will be implemented in coordination with measures undertaken by the Secretary of Agriculture under section 1236 of this title.
+#### (A) Transfers to Combined Benefit Fund
 
-(D) For purposes of this paragraph, the term “qualified hydrologic unit” means a hydrologic unit—
+&emsp;&emsp;As soon as practicable after the beginning of fiscal year 2007 and each fiscal year thereafter, and before making any allocation with respect to the fiscal year under subsection (g), the Secretary shall use an amount not to exceed the amount of interest that the Secretary estimates will be earned and paid to the fund during the fiscal year to transfer to the Combined Benefit Fund such amounts as are estimated by the trustees of such fund to offset the amount of any deficit in net assets in the Combined Benefit Fund as of October 1, 2006, and to make the transfer described in paragraph (2)(A).
 
-&emsp;(i) in which the water quality has been significantly affected by acid mine drainage from coal mining practices in a manner which adversely impacts biological resources; and
+#### (B) Transfers to 1992 and 1993 plans
 
-&emsp;(ii) which contains lands and waters which are—
+&emsp;&emsp;As soon as practicable after the beginning of fiscal year 2008 and each fiscal year thereafter, and before making any allocation with respect to the fiscal year under subsection (g), the Secretary shall use an amount not to exceed the amount of interest that the Secretary estimates will be earned and paid to the fund during the fiscal year (reduced by the amount used under subparagraph (A)) to make the transfers described in paragraphs (2)(B) and (2)(C).
 
-&emsp;&emsp;(I) eligible pursuant to section 1234 of this title and include any of the priorities stated in paragraph (1), (2), or (3) of section 1233(a) of this title; and
+#### (2) Transfers described
 
-&emsp;&emsp;(II) proposed to be the subject of the expenditures by the State (from amounts available from the forfeiture of bonds required under section 1259 of this title or from other State sources) to mitigate acid mine drainage.
+&emsp;The transfers referred to in paragraph (1) are the following:
 
-(8) Of the funds available for expenditure under this subsection in any fiscal year, the Secretary shall allocate annually not less than $2,000,000 for expenditure in each State, and for each Indian tribe, having an approved abandoned mine reclamation program pursuant to section 1235 of this title and eligible lands and waters pursuant to section 1234 of this title so long as an allocation of funds to such State or such tribe is necessary to achieve the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title.
+#### (A) United Mine Workers of America Combined Benefit Fund
 
-#### (h) Transfer of funds to Combined Fund
+&emsp;&emsp;A transfer to the United Mine Workers of America Combined Benefit Fund equal to the amount that the trustees of the Combined Benefit Fund estimate will be expended from the fund for the fiscal year in which the transfer is made, reduced by—
 
-(1) In the case of any fiscal year beginning on or after October 1, 1995, with respect to which fees are required to be paid under this section, the Secretary shall, as of the beginning of such fiscal year and before any allocation under subsection (g) of this section, make the transfer provided in paragraph (2).
+&emsp;&emsp;&emsp;(i) the amount the trustees of the Combined Benefit Fund estimate the Combined Benefit Fund will receive during the fiscal year in—
 
-(2) The Secretary shall transfer from the fund to the United Mine Workers of America Combined Benefit Fund established under section 9702 of title 26 for any fiscal year an amount equal to the sum of—
+&emsp;&emsp;&emsp;&emsp;(I) required premiums; and
 
-&emsp;(A) the amount of the interest which the Secretary estimates will be earned and paid to the Fund during the fiscal year, plus
+&emsp;&emsp;&emsp;&emsp;(II) payments paid by Federal agencies in connection with benefits provided by the Combined Benefit Fund; and
 
-&emsp;(B) the amount by which the amount described in subparagraph (A) is less than $70,000,000.
+&emsp;&emsp;&emsp;(ii) the amount the trustees of the Combined Benefit Fund estimate will be expended during the fiscal year to provide health benefits to beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, but only to the extent that such amount does not exceed the amounts described in subsection (i)(1)(A) that the Secretary estimates will be available to pay such estimated expenditures.
 
-(3)(A) The aggregate amount which may be transferred under paragraph (2) for any fiscal year shall not exceed the amount of expenditures which the trustees of the Combined Fund estimate will be debited against the unassigned beneficiaries premium account under section 9704(e) of title 26 for the fiscal year of the Combined Fund in which the transfer is made.
+#### (B) United Mine Workers of America 1992 Benefit Plan
 
-(B) The aggregate amount which may be transferred under paragraph (2)(B) for all fiscal years shall not exceed an amount equivalent to all interest earned and paid to the fund after September 30, 1992, and before October 1, 1995.
+&emsp;&emsp;A transfer to the United Mine Workers of America 1992 Benefit Plan, in an amount equal to the difference between—
 
-(4) If, for any fiscal year, the amount transferred is more or less than the amount required to be transferred, the Secretary shall appropriately adjust the amount transferred for the next fiscal year.
+&emsp;&emsp;&emsp;(i) the amount that the trustees of the 1992 UMWA Benefit Plan estimate will be expended from the 1992 UMWA Benefit Plan during the next calendar year to provide the benefits required by the 1992 UMWA Benefit Plan on December 20, 2006; minus
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525.)
+&emsp;&emsp;&emsp;(ii) the amount that the trustees of the 1992 UMWA Benefit Plan estimate the 1992 UMWA Benefit Plan will receive during the next calendar year in—
+
+&emsp;&emsp;&emsp;&emsp;(I) required monthly per beneficiary premiums, including the amount of any security provided to the 1992 UMWA Benefit Plan that is available for use in the provision of benefits; and
+
+&emsp;&emsp;&emsp;&emsp;(II) payments paid by Federal agencies in connection with benefits provided by the 1992 UMWA Benefit Plan.
+
+#### (C) Multiemployer Health Benefit Plan
+
+&emsp;&emsp;A transfer to the Multiemployer Health Benefit Plan established after July 20, 1992, by the parties that are the settlors of the 1992 UMWA Benefit Plan referred to in subparagraph (B) (referred to in this subparagraph and subparagraph (D) as “the Plan”), in an amount equal to the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) the amount that the trustees of the Plan estimate will be expended from the Plan during the next calendar year, to provide benefits no greater than those provided by the Plan as of December 31, 2006; over
+
+&emsp;&emsp;&emsp;(ii) the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
+
+> &emsp;&emsp;Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made.
+
+#### (D) Individuals considered enrolled
+
+&emsp;&emsp;For purposes of subparagraph (C), any individual who was eligible to receive benefits from the Plan as of December 20, 2006, even though benefits were being provided to the individual pursuant to a settlement agreement approved by order of a bankruptcy court entered on or before September 30, 2004, will be considered to be actually enrolled in the Plan and shall receive benefits from the Plan beginning on December 31, 2006.
+
+#### (3) Adjustment
+
+&emsp;If, for any fiscal year, the amount of a transfer under subparagraph (A), (B), or (C) of paragraph (2) is more or less than the amount required to be transferred under that subparagraph, the Secretary shall appropriately adjust the amount transferred under that subparagraph for the next fiscal year.
+
+#### (4) Additional amounts
+
+#### (A) Previously credited interest
+
+&emsp;&emsp;Notwithstanding any other provision of law, any interest credited to the fund that has not previously been transferred to the Combined Benefit Fund referred to in paragraph (2)(A) under this section—
+
+&emsp;&emsp;&emsp;(i) shall be held in reserve by the Secretary until such time as necessary to make the payments under subparagraphs (A) and (B) of subsection (i)(1), as described in clause (ii); and
+
+&emsp;&emsp;&emsp;(ii) in the event that the amounts described in subsection (i)(1) are insufficient to make the maximum payments described in subparagraphs (A) and (B) of subsection (i)(1), shall be used by the Secretary to supplement the payments so that the maximum amount permitted under those paragraphs is paid.
+
+#### (B) Previously allocated amounts
+
+&emsp;&emsp;All amounts allocated under subsection (g)(2) before December 20, 2006, for the program described in section 1236 of this title, but not appropriated before December 20, 2006, shall be available to the Secretary to make the transfers described in paragraph (2).
+
+#### (C) Adequacy of previously credited interest
+
+&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) consult with the trustees of the plans described in paragraph (2) at reasonable intervals; and
+
+&emsp;&emsp;&emsp;(ii) notify Congress if a determination is made that the amounts held in reserve under subparagraph (A) are insufficient to meet future requirements under subparagraph (A)(ii).
+
+#### (D) Additional reserve amounts
+
+&emsp;&emsp;In addition to amounts held in reserve under subparagraph (A), there is authorized to be appropriated such sums as may be necessary for transfer to the fund to carry out the purposes of subparagraph (A)(ii).
+
+#### (E) Inapplicability of cap
+
+&emsp;&emsp;The limitation described in subsection (i)(3)(A) shall not apply to payments made from the reserve fund under this paragraph.
+
+#### (5) Limitations
+
+#### (A) Availability of funds for next fiscal year
+
+&emsp;&emsp;The Secretary may make transfers under subparagraphs (B) and (C) of paragraph (2) for a calendar year only if the Secretary determines, using actuarial projections provided by the trustees of the Combined Benefit Fund referred to in paragraph (2)(A), that amounts will be available under paragraph (1), after the transfer, for the next fiscal year for making the transfer under paragraph (2)(A).
+
+#### (B) Rate of contributions of obligors
+
+#### (i) In general
+
+#### (I) Rate
+
+&emsp;&emsp;&emsp;&emsp;A transfer under paragraph (2)(C) shall not be made for a calendar year unless the persons that are obligated to contribute to the plan referred to in paragraph (2)(C) on the date of the transfer are obligated to make the contributions at rates that are no less than those in effect on the date which is 30 days before December 20, 2006.
+
+#### (II) Application
+
+&emsp;&emsp;&emsp;&emsp;The contributions described in subclause (I) shall be applied first to the provision of benefits to those plan beneficiaries who are not described in paragraph (2)(C)(ii).
+
+#### (ii) Initial contributions
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;From December 20, 2006, through December 31, 2010, the persons that, on December 20, 2006, are obligated to contribute to the plan referred to in paragraph (2)(C) shall be obligated, collectively, to make contributions equal to the amount described in paragraph (2)(C), less the amount actually transferred due to the operation of subparagraph (C).
+
+#### (II) First calendar year
+
+&emsp;&emsp;&emsp;&emsp;Calendar year 2006 is the first calendar year for which contributions are required under this clause.
+
+#### (III) Amount of contribution for 2006
+
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (IV), the amount described in paragraph (2)(C) for calendar year 2006 shall be calculated as if paragraph (2)(C) had been in effect during 2005.
+
+#### (IV) Limitation
+
+&emsp;&emsp;&emsp;&emsp;The contributions required under this clause for calendar year 2006 shall not exceed the amount necessary for solvency of the plan described in paragraph (2)(C), measured as of December 31, 2006, and taking into account all assets held by the plan as of that date.
+
+#### (iii) Division
+
+&emsp;&emsp;&emsp;The collective annual contribution obligation required under clause (ii) shall be divided among the persons subject to the obligation, and applied uniformly, based on the hours worked for which contributions referred to in clause (i) would be owed.
+
+#### (C) Phase-in of transfers
+
+&emsp;&emsp;For each of calendar years 2008 through 2010, the transfers required under subparagraphs (B) and (C) of paragraph (2) shall equal the following amounts:
+
+&emsp;&emsp;&emsp;(i) For calendar year 2008, the Secretary shall make transfers equal to 25 percent of the amounts that would otherwise be required under subparagraphs (B) and (C) of paragraph (2).
+
+&emsp;&emsp;&emsp;(ii) For calendar year 2009, the Secretary shall make transfers equal to 50 percent of the amounts that would otherwise be required under subparagraphs (B) and (C) of paragraph (2).
+
+&emsp;&emsp;&emsp;(iii) For calendar year 2010, the Secretary shall make transfers equal to 75 percent of the amounts that would otherwise be required under subparagraphs (B) and (C) of paragraph (2).
+
+#### (i) Funding
+
+#### (1) In general
+
+&emsp;Subject to paragraph (3), out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the plans described in subsection (h)(2) such sums as are necessary to pay the following amounts:
+
+&emsp;&emsp;(A) To the Combined Fund (as defined in section 9701(a)(5) of title 26 and referred to in this paragraph as the “Combined Fund”), the amount that the trustees of the Combined Fund estimate will be expended from premium accounts maintained by the Combined Fund for the fiscal year to provide benefits for beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, subject to the following limitations:
+
+&emsp;&emsp;&emsp;(i) For fiscal year 2008, the amount paid under this subparagraph shall equal—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount described in subparagraph (A); minus
+
+&emsp;&emsp;&emsp;&emsp;(II) the amounts required under section 9706(h)(3)(A) of title 26.
+
+&emsp;&emsp;&emsp;(ii) For fiscal year 2009, the amount paid under this subparagraph shall equal—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount described in subparagraph (A); minus
+
+&emsp;&emsp;&emsp;&emsp;(II) the amounts required under section 9706(h)(3)(B) of title 26.
+
+&emsp;&emsp;&emsp;(iii) For fiscal year 2010, the amount paid under this subparagraph shall equal—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount described in subparagraph (A); minus
+
+&emsp;&emsp;&emsp;&emsp;(II) the amounts required under section 9706(h)(3)(C) of title 26.
+
+&emsp;&emsp;(B) On certification by the trustees of any plan described in subsection (h)(2) that the amount available for transfer by the Secretary pursuant to this section (determined after application of any limitation under subsection (h)(5)) is less than the amount required to be transferred, to the plan the amount necessary to meet the requirement of subsection (h)(2).
+
+&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, and $9,000,000 on October 1, 2009 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
+
+&emsp;&emsp;&emsp;(i) prior to December 20, 2006, the signatory operator (or any related person to the operator)—
+
+&emsp;&emsp;&emsp;&emsp;(I) had all of its beneficiary assignments made under section 9706 of title 26 voided by the Commissioner of the Social Security Administration; and
+
+&emsp;&emsp;&emsp;&emsp;(II) was subject to a final judgment or final settlement of litigation adverse to a claim by the operator that the assignment of beneficiaries under section 9706 of title 26 was unconstitutional as applied to the operator; and
+
+&emsp;&emsp;&emsp;(ii) on or before September 7, 2000, the signatory operator (or any related person to the operator) had paid to the Combined Fund any premium amount that had not been refunded.
+
+#### (2) Payments to States and Indian tribes
+
+&emsp;Subject to paragraph (3), out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of the Interior for distribution to States and Indian tribes such sums as are necessary to pay amounts described in paragraphs (1)(A) and (2)(A) of section 1240a(h) of this title.
+
+#### (3) Limitations
+
+#### (A) Cap
+
+&emsp;&emsp;The total amount transferred under this subsection for any fiscal year shall not exceed $490,000,000.
+
+#### (B) Insufficient amounts
+
+&emsp;&emsp;In a case in which the amount required to be transferred without regard to this paragraph exceeds the maximum annual limitation in subparagraph (A), the Secretary shall adjust the transfers of funds so that—
+
+&emsp;&emsp;&emsp;(i) each transfer for the fiscal year is a percentage of the amount described;
+
+&emsp;&emsp;&emsp;(ii) the amount is determined without regard to subsection (h)(5)(A); and
+
+&emsp;&emsp;&emsp;(iii) the percentage transferred is the same for all transfers made under this subsection for the fiscal year.
+
+#### (4) Availability of funds
+
+&emsp;Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
+
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 109–432, div. C, title II, §202(a)(2), Dec. 20, 2006, 120 Stat. 3008, provided that, effective Oct. 1, 2012, subsection (a) of this section is amended by substituting “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.</i>
 
 #### Codification
 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–432, §202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
+
+Subsec. (b). Pub. L. 109–432, §202(b), substituted “September 30, 2021” for “September 30, 2007, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section”.
+
+Pub. L. 109–234 substituted “September 30, 2007” for “June 30, 2006”.
+
+Subsec. (g)(1)(D). Pub. L. 109–432, §202(c)(1), inserted “(except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years)” after “this paragraph” and substituted “under paragraph (5)” for “in any area under paragraph (2), (3), (4), or (5)”.
+
+Subsec. (g)(2). Pub. L. 109–432, §202(c)(2), added par. (2) and struck out former par. (2) which read as follows: “20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in section 1231(e) of this title and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under section 1231(c)(2) of this title.”
+
+Subsec. (g)(3). Pub. L. 109–432, §202(c)(3)(A), substituted “paragraph (5)” for “paragraphs (2) and (5)” in introductory provisions.
+
+Subsec. (g)(3)(A). Pub. L. 109–432, §202(c)(3)(B), substituted “1231(c)(9)” for “1231(c)(11)”.
+
+Subsec. (g)(3)(E). Pub. L. 109–432, §202(c)(3)(C), added subpar. (E).
+
+Subsec. (g)(5). Pub. L. 109–432, §202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, subtituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
+
+Subsec. (g)(6) to (8). Pub. L. 109–432, §202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
+
+Subsecs. (h), (i). Pub. L. 109–432, §202(d), added subsecs. (h) and (i) and struck out former subsec. (h) which related to transfer of funds to the United Mine Workers of America Combined Benefit Fund.
 
 2005—Subsec. (b). Pub. L. 109–54 substituted “June 30, 2006” for “September 30, 2005”.
 
@@ -164,9 +358,13 @@ Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substitut
 
 1987—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
 
-#### Change of Name
+#### Effective Date of 2006 Amendment
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (g)(7)(C) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+Pub. L. 109–432, div. C, title II, §202(a)(1), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(a)(1) \[amending this section\] is effective Oct. 1, 2007.
+
+Pub. L. 109–432, div. C, title II, §202(a)(2), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(a)(2) \[amending this section\] is effective Oct. 1, 2012.
+
+Pub. L. 109–432, div. C, title II, §202(b), Dec. 20, 2006, 120 Stat. 3008, provided that the amendment made by section 202(b) \[amending this section\] is effective Sept. 30, 2007.
 
 #### Effective Date of 1990 Amendment
 

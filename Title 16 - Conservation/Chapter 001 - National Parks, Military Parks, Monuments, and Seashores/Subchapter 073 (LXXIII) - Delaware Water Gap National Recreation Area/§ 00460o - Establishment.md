@@ -24,7 +24,7 @@ Pub. L. 100–573, Oct. 31, 1988, 102 Stat. 2890, as amended by Pub. L. 104–33
 
 “(a)
 
-Appointment.—The Commission shall be composed of the following 11 members appointed not later than 60 days after the date of the enactment of this Act\[Oct. 31, 1988\] from among persons with knowledge of the recreation area:
+Appointment.—The Commission shall be composed of the following 11 members appointed not later than 60 days after the date of the enactment of this Act \[Oct. 31, 1988\] from among persons with knowledge of the recreation area:
 
 &emsp;“(1) 2 members appointed by the Secretary of the Interior (hereafter in this Act referred to as the ‘Secretary’).
 

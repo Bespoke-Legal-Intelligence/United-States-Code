@@ -10,7 +10,7 @@ Section 315m of this title, referred to in text, was in the original “said sec
 
 #### Amendments
 
-1976—Pub. L. 94–579 in cl. (b) struck out authorization of availability of 25 per centum of all moneys collectedunder section 315m of this title during any fiscal year for construction, etc., of range improvements.
+1976—Pub. L. 94–579 in cl. (b) struck out authorization of availability of 25 per centum of all moneys collected under section 315m of this title during any fiscal year for construction, etc., of range improvements.
 
 1947—Act Aug. 6, 1947, reduced States’ share of grazing fees collected under section 315b of this title from 50 to 121/2 per centum and provided for distribution of grazing fees collected under section 315m of this title with 25 per centum available for range improvements and 50 per centum paid to the State.
 

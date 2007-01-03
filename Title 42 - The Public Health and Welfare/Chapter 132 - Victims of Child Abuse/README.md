@@ -7,24 +7,9 @@
 | [13001\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013001%20-%20Findings.md) | Findings. |
 | [13001a.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013001a%20-%20Definitions.md) | Definitions. |
 | [13001b.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013001b%20-%20Regional%20children%27s%20advocacy%20centers.md) | Regional children's advocacy centers. |
-| (a) | Establishment of regional children's advocacy program. |
-| (b) | Activities of regional children's advocacy program. |
-| (c) | Operation of regional children's advocacy program. |
-| (d) | Review. |
-| (e) | Children's advocacy advisory board. |
-| (f) | Reporting. |
 | [13002\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013002%20-%20Local%20children%27s%20advocacy%20centers.md) | Local children's advocacy centers. |
-| (a) | In general. |
-| (b) | Grant criteria. |
-| (c) | Distribution of grants. |
-| (d) | Consultation with regional children's advocacy centers. |
 | [13003\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013003%20-%20Grants%20for%20specialized%20technical%20assistance%20and%20training%20programs.md) | Grants for specialized technical assistance and training programs. |
-| (a) | In general. |
-| (b) | Grantee organizations. |
-| (c) | Grant criteria. |
 | [13004\.](Subchapter%20001%20%28I%29%20-%20Improving%20Investigation%20and%20Prosecution%20of%20Child%20Abuse%20Cases/%C2%A7%2013004%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Sections 13001b and 13002. |
-| (b) | Section 13003. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,17 +20,8 @@
 | [13011\.](Subchapter%20002%20%28II%29%20-%20Court-Appointed%20Special%20Advocate%20Program/%C2%A7%2013011%20-%20Findings.md) | Findings. |
 | [13012\.](Subchapter%20002%20%28II%29%20-%20Court-Appointed%20Special%20Advocate%20Program/%C2%A7%2013012%20-%20Purpose.md) | Purpose. |
 | [13013\.](Subchapter%20002%20%28II%29%20-%20Court-Appointed%20Special%20Advocate%20Program/%C2%A7%2013013%20-%20Strengthening%20of%20court-appointed%20special%20advocate%20program.md) | Strengthening of court-appointed special advocate program. |
-| (a) | In general. |
-| (b) | Grantee organizations. |
-| (c) | Grant criteria. |
-| (d) | Background checks. |
 | [13013a.](Subchapter%20002%20%28II%29%20-%20Court-Appointed%20Special%20Advocate%20Program/%C2%A7%2013013a%20-%20Report.md) | Report. |
-| (a) | Report required. |
-| (b) | Elements of report. |
 | [13014\.](Subchapter%20002%20%28II%29%20-%20Court-Appointed%20Special%20Advocate%20Program/%C2%A7%2013014%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization. |
-| (b) | Limitation. |
-| (c) | Prohibition on lobbying. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,17 +30,9 @@
 |  |  |
 | :--- | ---: |
 | [13021\.](Subchapter%20003%20%28III%29%20-%20Child%20Abuse%20Training%20Programs%20for%20Judicial%20Personnel%20and%20Practitioners/%C2%A7%2013021%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| (a) | Findings. |
-| (b) | Purpose. |
 | [13022\.](Subchapter%20003%20%28III%29%20-%20Child%20Abuse%20Training%20Programs%20for%20Judicial%20Personnel%20and%20Practitioners/%C2%A7%2013022%20-%20Grants%20for%20juvenile%20and%20family%20court%20personnel.md) | Grants for juvenile and family court personnel. |
 | [13023\.](Subchapter%20003%20%28III%29%20-%20Child%20Abuse%20Training%20Programs%20for%20Judicial%20Personnel%20and%20Practitioners/%C2%A7%2013023%20-%20Specialized%20technical%20assistance%20and%20training%20programs.md) | Specialized technical assistance and training programs. |
-| (a) | Grants to develop model programs. |
-| (b) | Grants to juvenile and family courts. |
-| (c) | Grant criteria. |
 | [13024\.](Subchapter%20003%20%28III%29%20-%20Child%20Abuse%20Training%20Programs%20for%20Judicial%20Personnel%20and%20Practitioners/%C2%A7%2013024%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization. |
-| (b) | Use of funds. |
-| (c) | Limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,21 +41,7 @@
 |  |  |
 | :--- | ---: |
 | [13031\.](Subchapter%20004%20%28IV%29%20-%20Reporting%20Requirements/%C2%A7%2013031%20-%20Child%20abuse%20reporting.md) | Child abuse reporting. |
-| (a) | In general. |
-| (b) | Covered professionals. |
-| (c) | Definitions. |
-| (d) | Agency designated to receive report and action to be taken. |
-| (e) | Reporting form. |
-| (f) | Immunity for good faith reporting and associated actions. |
-| (g) | Omitted. |
-| (h) | Training of prospective reporters. |
 | [13032\.](Subchapter%20004%20%28IV%29%20-%20Reporting%20Requirements/%C2%A7%2013032%20-%20Reporting%20of%20child%20pornography%20by%20electronic%20communication%20service%20providers.md) | Reporting of child pornography by electronic communication service providers. |
-| (a) | Definitions. |
-| (b) | Requirements. |
-| (c) | Civil liability. |
-| (d) | Limitation of information or material required in report. |
-| (e) | Monitoring not required. |
-| (f) | Conditions of disclosure of information contained within report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,11 +50,6 @@
 |  |  |
 | :--- | ---: |
 | [13041\.](Subchapter%20005%20%28V%29%20-%20Child%20Care%20Worker%20Employee%20Background%20Checks/%C2%A7%2013041%20-%20Requirement%20for%20background%20checks.md) | Requirement for background checks. |
-| (a) | In general. |
-| (b) | Criminal history check. |
-| (c) | Applicable criminal histories. |
-| (d) | Employment applications. |
-| (e) | Encouragement of voluntary criminal history checks for others who may have contact with children. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

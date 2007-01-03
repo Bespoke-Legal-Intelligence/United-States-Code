@@ -34,7 +34,7 @@ Requirements for Fifth Annual Report.—The fifth annual report submitted by the
 
 &emsp;“(1) an assessment of the degree to which the overall administration of the Board's activities are believed to meet the objectives of Congress in establishing the Board;
 
-&emsp;“(2) recommendations for continuation, termination, or modification of the Board's functions andprograms, including recommendations for transition to some other independent oversight arrangement if it is advisable; and
+&emsp;“(2) recommendations for continuation, termination, or modification of the Board's functions and programs, including recommendations for transition to some other independent oversight arrangement if it is advisable; and
 
 &emsp;“(3) recommendations for appropriate transition requirements in the event that modifications are recommended.”
 

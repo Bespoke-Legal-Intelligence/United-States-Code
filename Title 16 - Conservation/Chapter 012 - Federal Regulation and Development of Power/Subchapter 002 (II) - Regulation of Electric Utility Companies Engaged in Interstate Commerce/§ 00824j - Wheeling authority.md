@@ -26,7 +26,7 @@ No order may be issued under subsection (a) or (b) of this section which require
 
 &emsp;(C) the ordered transmission services require enlargement of transmission capacity and the transmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
 
-> No order shall be issued under this subsection pursuant to a finding under subparagraph (A) unless the Commission finds that such order is in the public interest.
+> No order shall be issued under this subsection pursuant to a finding under subparagraph (A)unless the Commission finds that such order is in the public interest.
 
 (2) Any order issued under this subsection terminating or modifying an order issued under subsection (a) or (b) of this section shall—
 
@@ -42,7 +42,7 @@ No order may be issued under subsection (a) or (b) of this section which require
 
 &emsp;(A) fix a period during which transmission services are to be provided under the order under subsection (a) or (b) of this section, or
 
-&emsp;(B) otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of suchorder, in the needs of the transmitting utility subject to such order for transmission capacity).
+&emsp;(B) otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of such order, in the needs of the transmitting utility subject to such order for transmission capacity).
 
 #### (e) “Facilities” defined
 

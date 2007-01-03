@@ -1,6 +1,6 @@
 ### §286e–1g. Additional increase in quota of United States; condition
 
-The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 4,202.5 million Special Drawing Rights, limited to such amounts as are appropriated in advance in appropriation Acts.
+The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to4,202.5 million Special Drawing Rights, limited to such amounts as are appropriated in advance in appropriation Acts.
 
 (July 31, 1945, ch. 339, §32, as added and amended Pub. L. 96–389, §§1, 11, Oct. 7, 1980, 94 Stat. 1551, 1555.)
 

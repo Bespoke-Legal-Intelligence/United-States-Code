@@ -12,7 +12,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(B) to sign and issue subpenas for the attendance and testimony of witnesses and the production of books, records, papers, and other documents;
 
-&emsp;(C) to require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information; and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as theFederal Energy Administrator may determine; and
+&emsp;(C) to require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information; and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as the Federal Energy Administrator may determine; and
 
 &emsp;(D) to administer oaths.
 
@@ -22,7 +22,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(B) inspect, at reasonable times and in a reasonable manner, any such premise or facility, inventory and sample any stock of energy resources therein, and examine and copy books, records, papers, or other documents, relating to any such energy information.
 
-(3) Any United States district court within the jurisdiction of which any inquiry is carried on may, upon petition by the Attorney General at the request of the Federal Energy Administrator, in the case of refusal to obey a subpena or order of the Federal Energy Administrator issued under this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+(3) Any United States district court within the jurisdiction of which any inquiry is carried onmay, upon petition by the Attorney General at the request of the Federal Energy Administrator, in the case of refusal to obey a subpena or order of the Federal Energy Administrator issued under this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 #### (c) Development of initial report; quarterly reports; accounting practices
 
@@ -64,7 +64,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 #### (d) Confidential information
 
-Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>4</sup> (2) the Attorney General, the Secretaryof the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
+Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>4</sup> (2) the Attorney General, the Secretary of the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
 
 #### (e) Definitions
 
@@ -72,7 +72,7 @@ As used in this section:
 
 &emsp;(1) The term “energy information” includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporate structure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
 
-&emsp;(2) The term “person” means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated, domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
+&emsp;(2) The term “person” means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated,domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
 
 &emsp;(3) The term “United States” when used in the geographical sense means the States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 

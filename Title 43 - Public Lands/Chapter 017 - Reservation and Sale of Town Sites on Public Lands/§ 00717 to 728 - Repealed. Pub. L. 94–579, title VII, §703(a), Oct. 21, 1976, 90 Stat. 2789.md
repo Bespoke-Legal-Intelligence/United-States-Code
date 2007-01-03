@@ -2,7 +2,7 @@
 
 Section 717, R.S. §2386, related to title to town lots subject to mineral rights.
 
-Section 718, R.S. §2387; acts Mar. 3, 1891, ch. 561, §4, 26 Stat. 1097, authorized entry by town authorities oftown sites in trust for occupants, under such regulations as may be prescribed by legislative authority of State or Territory in which the same may be situated.
+Section 718, R.S. §2387; acts Mar. 3, 1891, ch. 561, §4, 26 Stat. 1097, authorized entry by town authorities of town sites in trust for occupants, under such regulations as may be prescribed by legislative authority of State or Territory in which the same may be situated.
 
 Section 719, R.S. §2388; acts Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for entry by town authorities of town sites in trust for occupants.
 

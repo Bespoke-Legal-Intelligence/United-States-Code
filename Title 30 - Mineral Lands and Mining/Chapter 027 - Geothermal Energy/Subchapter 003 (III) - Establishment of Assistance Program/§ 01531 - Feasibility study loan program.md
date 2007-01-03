@@ -8,7 +8,7 @@ The Secretary is authorized and directed to establish a program of assistance fo
 
 (1) In providing assistance under the program established pursuant to subsection (a) of this section, the Secretary is authorized to make a loan to any person to defray up to 90 per centum of the costs of (A) studies to determine the feasibility of any geothermal development described in such subsection, and (B) preparing applications for any necessary licenses or other Federal, State, and local approvals respecting such development.
 
-(2) The Secretary may cancel the unpaid balance and any accrued interest on any loan granted for a study pursuant to clause (A) of paragraph (1) if he determines, on the basis of the study, that the geothermal development is not technically or economically feasible.
+(2) The Secretary may cancel the unpaid balance and any accrued interest on any loangranted for a study pursuant to clause (A) of paragraph (1) if he determines, on the basis of the study, that the geothermal development is not technically or economically feasible.
 
 #### (c) Maximum amount of loan for costs of construction
 
@@ -30,7 +30,7 @@ Loans pursuant to this section shall be made from funds appropriated (pursuant t
 
 #### (f) Authorization of appropriations
 
-For loans under clause (A) of subsection (b)(1) of this section for fiscal year 1981, there is authorized to be appropriated to the Geothermal Resources Development Fund not to exceed$5,000,000, which shall remain available until expended. For loans under such clause (A) for subsequent fiscal years, and for loans under clause (B) of subsection (b)(1) of this section or under subsection (c) of this section (for any such subsequent fiscal year), there may be appropriated to such Fund only such sums as are authorized by legislation hereafter enacted.
+For loans under clause (A) of subsection (b)(1) of this section for fiscal year 1981, there is authorized to be appropriated to the Geothermal Resources Development Fund not to exceed $5,000,000, which shall remain available until expended. For loans under such clause (A) for subsequent fiscal years, and for loans under clause (B) of subsection (b)(1) of this section or under subsection (c) of this section (for any such subsequent fiscal year), there may be appropriated to such Fund only such sums as are authorized by legislation hereafter enacted.
 
 #### (g) “Person” defined
 

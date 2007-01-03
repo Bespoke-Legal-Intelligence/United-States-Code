@@ -6,7 +6,7 @@ The lands of any desert-land entryman located within an irrigation project const
 
 #### References in Text
 
-The Reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+The Reclamation Act, referred to in text, is identified in section 455 of this title.
 
 #### Amendments
 

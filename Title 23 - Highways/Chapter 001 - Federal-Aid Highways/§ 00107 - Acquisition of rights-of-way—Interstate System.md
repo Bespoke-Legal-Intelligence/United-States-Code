@@ -1,6 +1,6 @@
 ### §107. Acquisition of rights-of-way—Interstate System
 
-(a) In any case in which the Secretary is requested by a State to acquire lands or interests in lands (including within the term “interests in lands”, the control of access thereto from adjoining lands) required by such State for right-of-way or other purposes in connection with the prosecution of any project for the construction, reconstruction, or improvement of any section of the Interstate System, the Secretary is authorized, in the name of the United States and prior to the approval of title by the Attorney General, to acquire, enter upon, and take possession of such lands or interests in lands by purchase, donation, condemnation, or otherwise in accordance with the laws of the United States (including the Act of February 26, 1931, 46 Stat. 1421),<sup>1</sup> if—
+(a) In any case in which the Secretary is requested by a State to acquire lands or interests in lands (including within the term “interests in lands”, the control of access thereto from adjoining lands) required by such State for right-of-way or other purposes in connection with the prosecution of any project for the construction, reconstruction, or improvement of any section of the Interstate System, the Secretary is authorized, in the name of the United States and prior to the approval of title by the Attorney General, to acquire, enter upon, and take possession of such lands or interests in lands by purchase, donation, condemnation, or otherwise in accordance with the laws of the United States (including sections 3114 to 3116 and 3118 of title 40), if—
 
 &emsp;(1) the Secretary has determined either that the State is unable to acquire necessary lands or interests in lands, or is unable to acquire such lands or interests in lands with sufficient promptness; and
 
@@ -14,17 +14,17 @@ The authority granted by this section shall also apply to lands and interests in
 
 (d) Whenever rights-of-way, including control of access, on the Interstate System are required over lands or interests in lands owned by the United States, the Secretary may make such arrangements with the agency having jurisdiction over such lands as may be necessary to give the State or other person constructing the projects on such lands adequate rights-of-way and control of access thereto from adjoining lands, and any such agency is directed to cooperate with the Secretary in this connection.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–284, §3(1), Sept. 27, 2006, 120 Stat. 1211.)
 
 #### References in Text
-
-Act of February 26, 1931, 46 Stat. 1421, referred to in subsec. (a), is act Feb. 26, 1931, ch. 307, 46 Stat. 1421, as amended, known as the Declaration of Taking Act, which was classified to sections 258a to 258e–1 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3114 to 3116 and 3118 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 Subsection (c) of section 120 of this title, referred to in subsec. (a)(2), was struck out and a new subsec. (c) was added by Pub. L. 102–240, title I, §1021(a), Dec. 18, 1991, 105 Stat. 1950.
 
 The Federal-Aid Highway Act of 1956, referred to in subsec. (b), is act June 29, 1956, ch. 462, 70 Stat. 374. For complete classification of this Act to the Code, see Tables. Section 108(b) of the Federal-Aid Highway Act of 1956 is set out as a note under section 101 of this title.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–284 substituted “sections 3114 to 3116 and 3118 of title 40” for “the Act of February 26, 1931, 46 Stat. 1421”.
 
 1998—Subsec. (c). Pub. L. 105–178 substituted “State transportation department” for “State highway department” in two places.
 

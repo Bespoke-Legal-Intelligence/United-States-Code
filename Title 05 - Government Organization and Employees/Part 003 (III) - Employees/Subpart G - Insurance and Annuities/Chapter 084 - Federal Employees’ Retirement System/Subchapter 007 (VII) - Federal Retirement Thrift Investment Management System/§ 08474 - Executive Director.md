@@ -26,7 +26,7 @@
 
 &emsp;(3) subject to approval by the Board, procure the services of experts and consultants under section 3109 of this title;
 
-&emsp;(4) secure directly from an Executive agency, the United States Postal Service, or the Postal Rate Commission any information necessary to carry out the provisions of this subchapter or subchapter III of this chapter and policies of the Board;
+&emsp;(4) secure directly from an Executive agency, the United States Postal Service, or the Postal Regulatory Commission any information necessary to carry out the provisions of this subchapter or subchapter III of this chapter and policies of the Board;
 
 &emsp;(5) make such payments out of sums in the Thrift Savings Fund as the Executive Director determines are necessary to carry out the provisions of this subchapter and subchapter III of this chapter and the policies of the Board;
 
@@ -38,9 +38,13 @@
 
 &emsp;(9) take such other actions as are appropriate to carry out the functions of the Executive Director.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 580.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 580; amended Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### References in Text
 
 The provisions of law governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of this title.
+
+#### Amendments
+
+2006—Subsec. (c)(4). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 

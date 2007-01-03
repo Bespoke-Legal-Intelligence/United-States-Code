@@ -118,7 +118,7 @@ In General.—The Secretary shall prepare and submit to the President and the Co
 
 &emsp;“(2) other findings which are pertinent to the determination and implementation of a national policy on weather modifications;
 
-&emsp;“(3) a recommended national policy on weather modification and a recommended national weather modification research and development program which is consistent with, and likely to contribute to, achieving the objectives of such policy;
+&emsp;“(3) a recommended national policy on weather modification and a recommended national weather modification research and development programwhich is consistent with, and likely to contribute to, achieving the objectives of such policy;
 
 &emsp;“(4) recommendations for levels of Federal funding sufficient to support adequately a national weather modification research and development program;
 

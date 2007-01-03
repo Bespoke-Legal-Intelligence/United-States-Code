@@ -1,6 +1,6 @@
 ### §3752. Applications
 
-To request a grant under this part, the chief executive officer of a State or unit of local government shall submit an application to the Attorney General within 90 days after the date on which funds to carry out this part are appropriated for a fiscal year, in such form as the Attorney General may require. Such application shall include the following:
+To request a grant under this part, the chief executive officer of a State or unit of local government shall submit an application to the Attorney General within 120 days after the date on which funds to carry out this part are appropriated for a fiscal year, in such form as the Attorney General may require. Such application shall include the following:
 
 &emsp;(1) A certification that Federal funds made available under this part will not be used to supplant State or local funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for law enforcement activities.
 
@@ -24,11 +24,15 @@ To request a grant under this part, the chief executive officer of a State or un
 
 &emsp;&emsp;(D) the applicant will comply with all provisions of this part and all other applicable Federal laws.
 
-(Pub. L. 90–351, title I, §502, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3096.)
+(Pub. L. 90–351, title I, §502, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3096; amended Pub. L. 109–271, §8(i), Aug. 12, 2006, 120 Stat. 767.)
 
 #### Prior Provisions
 
 For prior sections 502 of Pub. L. 90–351 and prior sections 3752 of this title, see notes set out preceding section 3750 of this title.
+
+#### Amendments
+
+2006—Pub. L. 109–271 substituted “120 days” for “90 days” in introductory provisions.
 
 #### Effective Date
 

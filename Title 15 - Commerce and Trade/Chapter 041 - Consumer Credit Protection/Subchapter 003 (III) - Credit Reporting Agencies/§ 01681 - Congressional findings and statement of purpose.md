@@ -62,7 +62,7 @@ Report Required.—
 
 &emsp;“(1)
 
-In general.—Before the end of the 24-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall submit a detailed report on the study conducted pursuant to subsection\(a) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+In general.—Before the end of the 24-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall submit a detailed report on the study conducted pursuant to subsection (a) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 &emsp;“(2)
 

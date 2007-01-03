@@ -30,7 +30,7 @@ Pub. L. 106–518, §1(a), Nov. 13, 2000, 114 Stat. 2410, provided that: “This
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Act \[amending sections 651 to 658 ofthis title, enacting provisions set out as notes under section 651 of this title, and repealing provisions set out as a note under section 652 of this title\] may be cited as the ‘Alternative Dispute Resolution Act of 1998’.”
+Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Act \[amending sections 651 to 658 of this title, enacting provisions set out as notes under section 651 of this title, and repealing provisions setout as a note under section 652 of this title\] may be cited as the ‘Alternative Dispute Resolution Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 

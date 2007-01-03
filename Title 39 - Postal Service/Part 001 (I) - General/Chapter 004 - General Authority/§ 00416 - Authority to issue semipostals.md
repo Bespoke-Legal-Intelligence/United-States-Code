@@ -78,7 +78,7 @@ Annual Reports.—
 
 &emsp;(1)
 
-In general.—The Postmaster General shall include in each report rendered under section 2402, with respect to any period during any portion of which this section is in effect, information concerning the operation of any program established under this section.
+In general.—The Postmaster General shall include in each report rendered undersection 2402, with respect to any period during any portion of which this section is in effect, information concerning the operation of any program established under this section.
 
 &emsp;(2)
 
@@ -130,7 +130,7 @@ Rate of postage.—\[Amended subsec. (c) of this section.\]
 
 &emsp;“(2)
 
-Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Federal Emergency Management Agency under such arrangements as the Postal Service shall by mutual agreement with such agencyestablish in order to carry out the purposes of this section.
+Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Federal Emergency Management Agency under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
 
 &emsp;“(3)
 
@@ -156,7 +156,9 @@ Definitions.—For purposes of this section—
 
 &emsp;“(2) the term ‘semipostal’ has the meaning given such term by section 416 of title 39, United States Code.”
 
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
+
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Domestic Violence Semipostal Stamp
 

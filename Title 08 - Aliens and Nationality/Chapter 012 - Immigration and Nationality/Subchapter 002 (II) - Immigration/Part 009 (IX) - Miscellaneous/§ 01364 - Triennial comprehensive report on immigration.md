@@ -2,7 +2,7 @@
 
 #### (a) Triennial report
 
-The President shall transmit to the Congress, not later than January 1, 1989, and not laterthan January 1 of every third year thereafter, a comprehensive immigration-impact report.
+The President shall transmit to the Congress, not later than January 1, 1989, and not later than January 1 of every third year thereafter, a comprehensive immigration-impact report.
 
 #### (b) Details in each report
 
@@ -54,7 +54,7 @@ Section 1. The Secretary of Homeland Security shall: (a) perform, in coordinatio
 
 (b) perform, except for the functions in section 402(3)(A), the functions vested in the President by section 402 of the Reform Act (8 U.S.C. 1324a note); and
 
-(c) perform, insofar as they relate to the initial report described in section 404(b), the functions vested in the President by section 404 of the Reform Act (8 U.S.C. 1255a note).
+(c) perform, insofar as they relate to the initial report described in section 404(b), the functions vested inthe President by section 404 of the Reform Act (8 U.S.C. 1255a note).
 
 Sec. 2. The Secretary of Labor shall: (a) perform the functions vested in the President by section 402(3)(A) of the Reform Act (8 U.S.C. 1324a note);
 

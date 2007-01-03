@@ -68,7 +68,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (1) No person shall introduce or deliver for introduction into interstate commerce any new infant formula unless—
 
-&emsp;(A) such person has, before introducing such new infant formula, or delivering such new infant formula for introduction, into interstate commerce, registered with the Secretary the name of such person, the place of business of such person, and all establishments at whichsuch person intends to manufacture such new infant formula, and
+&emsp;(A) such person has, before introducing such new infant formula, or delivering such new infant formula for introduction, into interstate commerce, registered with the Secretary the name of such person, the place of business of such person, and all establishments at which such person intends to manufacture such new infant formula, and
 
 &emsp;(B) such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (c)(1) of this section.
 
@@ -98,7 +98,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 #### (e) Additional notice requirements for manufacturer
 
-(1) If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and which has left an establishment subject to the control of the manufacturer—
+(1) If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and whichhas left an establishment subject to the control of the manufacturer—
 
 &emsp;(A) may not provide the nutrients required by subsection (i) of this section, or
 
@@ -124,7 +124,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (1) Each manufacturer of an infant formula shall make and retain such records respecting the distribution of the infant formula through any establishment owned or operated by such manufacturer as may be necessary to effect and monitor recalls of the formula. Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula.
 
-(2) To the extent that the Secretary determines that records are not being made or maintained in accordance with paragraph (1), theSecretary may by regulation prescribe the records required to be made under paragraph (1) and requirements respecting the retention of such records under such paragraph. Such regulations shall take effect on such date as the Secretary prescribes but not sooner than the 180th day after the date such regulations are promulgated. Such regulations shall apply only with respect to distributions of infant formulas made after such effective date.
+(2) To the extent that the Secretary determines that records are not being made or maintained in accordance with paragraph (1), the Secretary may by regulation prescribe the records required to be made under paragraph (1) and requirements respecting the retention of such records under such paragraph. Such regulations shall take effect on such date as the Secretary prescribes but not sooner than the 180th day after the date such regulations are promulgated. Such regulations shall apply only with respect to distributions of infant formulas made after such effective date.
 
 #### (h) Exemptions; regulatory oversight
 
@@ -218,7 +218,7 @@ Pub. L. 99–570, §4014(a)(5), which directed that “(d)(1)(B)” be substitut
 
 Subsec. (h)(2). Pub. L. 99–570, §4014(a)(6), substituted “(a), (b), and (c)” for “(a) and (b)”.
 
-Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisionsas par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
+Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
 
 #### Effective Date of 1980 Amendment
 

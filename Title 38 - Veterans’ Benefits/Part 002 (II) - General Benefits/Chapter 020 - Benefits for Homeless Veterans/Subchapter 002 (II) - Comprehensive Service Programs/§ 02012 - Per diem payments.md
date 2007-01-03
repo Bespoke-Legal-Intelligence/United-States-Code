@@ -26,7 +26,7 @@ Inspections.—The Secretary may inspect any facility of a grant recipient or en
 
 Life Safety Code.—(1) Except as provided in paragraph (2), a per diem payment may not be provided under this section to a grant recipient or eligible entity unless the facilities of the grant recipient or eligible entity, as the case may be, meet applicable fire and safety requirements under the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
-(2) During the five-year period beginning on the date of the enactment of this section, paragraph (1) shall not apply to an entity that received a grant under section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992 (Public Law 102–590; 38 U.S.C. 7721 note) before that date if the entity meets fire and safety requirements established by the Secretary.
+(2) During the five-year period beginning on the date of the enactment of this section, paragraph (1) shall not apply to an entity that received a grant under section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992 (Public Law 102–590; 38 U.S.C. 7721 note) <sup>1</sup> before that date if the entity meets fire and safety requirements established by the Secretary.
 
 (3) From amounts available for purposes of this section, not less than $5,000,000 shall be used only for grants to assist entities covered by paragraph (2) in meeting the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
@@ -36,9 +36,13 @@ Life Safety Code.—(1) Except as provided in paragraph (2), a per diem payment 
 
 The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 107–95, which was approved Dec. 21, 2001.
 
+Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, referred to in subsec. (c)(2), is section 3 of Pub. L. 102–590, Nov. 10, 1992, 106 Stat. 5136, which was set out in a note under former section 7721 of this title, which note was repealed and restated in sections 2011 and 2012 of this title by Pub. L. 107–95, §5(a)(1), (e)(1), Dec. 21, 2001, 115 Stat. 906, 918. Section 7721 of this title was repealed by Pub. L. 109–233, title IV, §402(c), June 15, 2006, 120 Stat. 411.
+
 #### Prior Provisions
 
 A prior section 2012 was renumbered section 4212 of this title.
 
 Another prior section 2012 was renumbered section 4103 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

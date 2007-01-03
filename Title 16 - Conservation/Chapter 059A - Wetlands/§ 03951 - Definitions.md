@@ -30,7 +30,7 @@ As used in this chapter, the term—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 101–646, Nov.29, 1990, 104 Stat. 4778, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

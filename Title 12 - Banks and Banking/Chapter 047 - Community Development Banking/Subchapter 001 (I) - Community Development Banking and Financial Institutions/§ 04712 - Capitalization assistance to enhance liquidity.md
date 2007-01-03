@@ -26,7 +26,7 @@
 
 #### (b) Selection
 
-The selection of organizations to receive assistance under this section shall be at the discretion of the Fund and in accordance with criteria established by the Fund. In establishingsuch criteria, the Fund shall take into account the criteria contained in sections 4704(b) and 4706 of this title, as appropriate.
+The selection of organizations to receive assistance under this section shall be at the discretion of the Fund and in accordance with criteria established by the Fund. In establishing such criteria, the Fund shall take into account the criteria contained in sections 4704(b) and 4706 of this title, as appropriate.
 
 #### (c) Amount of assistance
 

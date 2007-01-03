@@ -8,7 +8,7 @@ There is established the National Fish and Wildlife Foundation (hereinafter in t
 
 The purposes of the Foundation are—
 
-&emsp;(1) to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the United States Fish and Wildlife Service and the National Oceanic and AtmosphericAdministration, to further the conservation and management of fish, wildlife, plants, and other natural resources;
+&emsp;(1) to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the United States Fish and Wildlife Service and the National Oceanic and Atmospheric Administration, to further the conservation and management of fish, wildlife, plants, and other natural resources;
 
 &emsp;(2) to undertake and conduct such other activities as will further the conservation and management of the fish, wildlife, and plant resources of the United States, and its territories and possessions, for present and future generations of Americans; and
 
@@ -23,6 +23,10 @@ The purposes of the Foundation are—
 1994—Subsec. (b)(1). Pub. L. 103–232 inserted before semicolon at end “and the National Oceanic and Atmospheric Administration”.
 
 1988—Subsec. (b)(3). Pub. L. 100–240 added par. (3).
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–363, title II, §201, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title \[amending sections 3703 and 3709 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Reauthorization Act of 2006’.”
 
 #### Short Title of 2000 Amendment
 

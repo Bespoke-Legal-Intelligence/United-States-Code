@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;(A) There is hereby established the National Environmental Education and Training Foundation. The Foundation is established in order to extend the contribution of environmental education and training to meeting critical environmental protection needs, both in this country and internationally; to facilitate the cooperation, coordination, and contribution of public and private resources to create an environmentally advanced educational system; and to foster an open and effective partnershipamong Federal, State, and local government, business, industry, academic institutions, community based environmental groups, and international organizations.
+&emsp;(A) There is hereby established the National Environmental Education and Training Foundation. The Foundation is established in order to extend the contribution of environmental education and training to meeting critical environmental protection needs, both in this country and internationally; to facilitate the cooperation, coordination, and contribution of public and private resources to create an environmentally advanced educational system; and to foster an open and effective partnership among Federal, State, and local government, business, industry, academic institutions, community based environmental groups, and international organizations.
 
 &emsp;(B) The Foundation is a charitable and nonprofit corporation whose income is exempt from tax, and donations to which are tax deductible to the same extent as those organizations listed pursuant to section 501(c) of title 26. The Foundation is not an agency or establishment of the United States.
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficientfunds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
+&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
@@ -151,8 +151,6 @@ The Congress expressly reserves the right to repeal or amend this section at any
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(7)(B)(i), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-The civil service classification laws, referred to in subsec. (g), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
 #### Codification
 

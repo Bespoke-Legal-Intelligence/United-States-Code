@@ -1,6 +1,6 @@
 ### §8733. Lease of land acquired for park, parkway, or playground purposes
 
-The Secretary of the Interior may lease, for not more than five years, land or an existing building or structure on land acquired for park, parkway, or playground purposes, and may renew the lease for an additional five years. A lease or renewal under this section is—
+The Secretary of the Interior may lease, for not more than five years, land or an existing building or structure on land acquired for park,parkway, or playground purposes, and may renew the lease for an additional five years. A lease or renewal under this section is—
 
 &emsp;(1) subject to the approval of the National Capital Planning Commission;
 

@@ -12,7 +12,7 @@
 
 #### (3) Safety and efficacy testing of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes ofHealth, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
 
 #### (4) Licensing of vaccine manufacturers and vaccines
 
@@ -53,6 +53,22 @@ A prior section 2102 of act July 1, 1944, was successively renumbered by subsequ
 2003—Subsec. (a)(7). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 1992—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+
+#### Grants for Research on Vaccine Against Valley Fever
+
+Pub. L. 109–432, div. B, title IV, §402, Dec. 20, 2006, 120 Stat. 2994, provided that:
+
+“(a)
+
+In General.—In supporting research on the development of vaccines against human diseases, the Secretary of Health and Human Services shall make grants for the purpose of conducting research toward the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever).
+
+“(b)
+
+Sunset.—No grant may be made under subsection (a) on or after October 1, 2012. The preceding sentence does not have any legal effect on payments under grants for which amounts appropriated under subsection (c) were obligated prior to such date.
+
+“(c)
+
+Authorization of Appropriations.—For the purpose of making grants under subsection (a), there are authorized to be appropriated $40,000,000 for the period of fiscal years 2007 through 2012.”
 
 #### Demonstration Projects for Outreach Programs
 

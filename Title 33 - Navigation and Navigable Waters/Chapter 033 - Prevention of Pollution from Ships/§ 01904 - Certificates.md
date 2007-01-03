@@ -34,9 +34,9 @@ In addition to the penalties prescribed in section 1908 of this title, a ship re
 
 If a ship is under a detention order under this section, the Secretary of the Treasury, upon the request of the Secretary, may refuse or revoke—
 
-&emsp;(1) the clearance required by section 91 of title 46, Appendix; or
+&emsp;(1) the clearance required by section 60105 of title 46; or
 
-&emsp;(2) a permit to proceed under section 313 <sup>1</sup> of title 46, Appendix, or section 1443 <sup>2</sup> of title 19.
+&emsp;(2) a permit to proceed under section 4367 of the Revised Statutes of the United States (46 U.S.C. 313) <sup>1</sup> or section 1443 <sup>2</sup> of title 19.
 
 #### (g) Review of detention orders; petition; determination by Secretary
 
@@ -50,9 +50,11 @@ A ship unreasonably detained or delayed by the Secretary acting under the author
 
 #### References in Text
 
-Section 313 of title 46, Appendix, referred to in subsec. (f)(2), was repealed by Pub. L. 103–182, title VI, §690(a)(21), Dec. 8, 1993, 107 Stat. 2223.
+Section 4367 of the Revised Statutes of the United States (46 U.S.C. 313), referred to in subsec. (f)(2), was classified to section 313 of the former Appendix to Title 46, Shipping, prior to repeal by Pub. L. 103–182, title VI, §690(a)(21), Dec. 8, 1993, 107 Stat. 2223.
 
 #### Codification
+
+In subsec. (f)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States, as amended (46 U.S.C. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 Section 1443 of title 19, referred to in subsec. (f)(2), was in the original section 442 of the Tariff Act of 1930, as amended (19 U.S.C. 1443). Although section 442 of the Tariff Act of 1930, June 17, 1930, ch. 497, title IV, 46 Stat. 713, is classified to section 1442 of Title 19, Customs Duties, the reference was translated as meaning section 443 of the Tariff Act of 1930, which was classified to section 1443 of title 19 prior to repeal by Pub. L. 103–182, title VI, §690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
 

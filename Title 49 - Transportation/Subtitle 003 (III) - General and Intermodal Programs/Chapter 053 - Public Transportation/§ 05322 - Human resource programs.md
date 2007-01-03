@@ -18,7 +18,7 @@ Fellowships.—
 
 &emsp;(1)
 
-Authority to make grants.—The Secretary may make grants to States, local governmental authorities, and operators of public transportation systems to provide fellowshipsto train personnel employed in managerial, technical, and professional positions in the public transportation field.
+Authority to make grants.—The Secretary may make grants to States, local governmental authorities, and operators of public transportation systems to provide fellowships to train personnel employed in managerial, technical, and professional positions in the public transportation field.
 
 &emsp;(2)
 

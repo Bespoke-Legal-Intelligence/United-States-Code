@@ -16,7 +16,7 @@ No person shall—
 
 &emsp;(2) willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).
 
-(Pub. L. 92–225, title III, §322, formerly §327, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 494; renumbered §322, Pub. L. 96–187,title I, §105(5), Jan. 8, 1980, 93 Stat. 1354; amended Pub. L. 107–155, title III, §309, Mar. 27, 2002, 116 Stat. 104.)
+(Pub. L. 92–225, title III, §322, formerly §327, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 494; renumbered §322, Pub. L. 96–187, title I, §105(5), Jan. 8, 1980, 93 Stat. 1354; amended Pub. L. 107–155, title III, §309, Mar. 27, 2002, 116 Stat. 104.)
 
 #### Prior Provisions
 

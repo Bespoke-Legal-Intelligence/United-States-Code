@@ -24,11 +24,11 @@ Review of decision to assign space.—If the federal agency to which space is as
 
 &emsp;(3)
 
-Negotiated sale.—If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may be considered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
+Negotiated sale.—If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may beconsidered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
 
 (c)
 
-Demolition.—The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator's intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of the Act of August 21, 1935 (16 U.S.C. 461 et seq.) (known as the Historic Sites, Buildings,and Antiquities Act). If the Secretary does not notify the Administrator of the Secretary's decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
+Demolition.—The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator's intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of the Act of August 21, 1935 (16 U.S.C. 461 et seq.) (known as the Historic Sites, Buildings, and Antiquities Act). If the Secretary does not notify the Administrator of the Secretary's decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
 
 (d)
 
@@ -110,7 +110,7 @@ Aug. 27, 1935, ch. 744, §3, 49 Stat. 886; July 18, 1940, ch. 635, §3, 54 Stat.
 
 Aug. 27, 1935, ch. 744, §4, 49 Stat. 886; July 18, 1940, ch. 635, §3, 54 Stat. 765.
 
-In this chapter, the words “Administrator of General Services” are substituted for “Federal Works Administrator” and “Commissioner of Public Buildings” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) of the revised title.
+In this chapter, the words “Administrator of General Services” are substituted for “Federal Works Administrator” and “Commissioner of Public Buildings” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
 
 In subsection (a), the words “wholly owned Government corporations” are substituted for “corporations wholly owned by the United States” for consistency in the revised title and with other titles of the United States Code.
 
@@ -122,5 +122,5 @@ In subsection (f), the words “as hereinafter” are omitted as obsolete. The w
 
 #### References in Text
 
-The Historic Sites, Buildings, and Antiquities Act, referred to in subsec. (c), is the popular name for act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, also known as the Historic Sites Act of August 21, 1935, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 16 and Tables.
+The Historic Sites, Buildings, and Antiquities Act, referred to in subsec. (c), is the popular name for act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, alsoknown as the Historic Sites Act of August 21, 1935, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 16 and Tables.
 

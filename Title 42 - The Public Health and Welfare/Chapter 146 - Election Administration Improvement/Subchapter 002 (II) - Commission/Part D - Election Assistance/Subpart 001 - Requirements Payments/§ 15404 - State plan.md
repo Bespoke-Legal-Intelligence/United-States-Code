@@ -72,7 +72,7 @@ The State plan shall contain a description of each of the following:
 
 #### (1) In general
 
-&emsp;No action may be brought under this chapter against a State or other jurisdiction on thebasis of any information contained in the State plan filed under this subpart.
+&emsp;No action may be brought under this chapter against a State or other jurisdiction on the basis of any information contained in the State plan filed under this subpart.
 
 #### (2) Exception for criminal acts
 

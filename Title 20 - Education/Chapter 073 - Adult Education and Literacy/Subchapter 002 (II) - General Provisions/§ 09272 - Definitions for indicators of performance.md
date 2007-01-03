@@ -12,7 +12,7 @@ The representatives referred to in subsection (a) of this section are representa
 
 #### References in Text
 
-Title I, referred to in subsec. (a), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
+Title I, referred to in subsec. (a), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classifiedprincipally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
 
 Title II, referred to in subsec. (a), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of this chapter. For complete classification of title II to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

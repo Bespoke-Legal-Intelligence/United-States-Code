@@ -110,3 +110,7 @@ Pars. (14) to (18). Pub. L. 102–575, §4019(a)(12), added pars. (14) to (18).
 
 Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1382, provided in part: “That the Trust Territory of the Pacific Islands is a State eligible for Historic Preservation Fund matching grant assistance, in fiscal year 1993 and thereafter, as authorized under 16 U.S.C. 470w(2)”.
 
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+

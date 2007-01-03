@@ -36,7 +36,7 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 
 &emsp;&emsp;(D) Guidelines for seeking relevant scientific and economic information in advance of initiating informal rulemaking.
 
-&emsp;&emsp;(E) Guidelines for ensuring availability and transparency of assumptions and uncertainties in the risk assessment process including applicable risk mitigation measures relied upon individually or as components of a system of mitigative measures proposed consistent with the purposes of this chapter.
+&emsp;&emsp;(E) Guidelines for ensuring availability and transparency of assumptions and uncertainties in the risk assessment process including applicable risk mitigation measuresrelied upon individually or as components of a system of mitigative measures proposed consistent with the purposes of this chapter.
 
 #### (e) Study and report on systems approach
 
@@ -46,7 +46,7 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 
 #### (2) Participation by scientists
 
-&emsp;In conducting the study the Secretary shall ensure participation by scientists from Statedepartments of agriculture, colleges and universities, the private sector, and the Agricultural Research Service.
+&emsp;In conducting the study the Secretary shall ensure participation by scientists from State departments of agriculture, colleges and universities, the private sector, and the Agricultural Research Service.
 
 #### (3) Report
 

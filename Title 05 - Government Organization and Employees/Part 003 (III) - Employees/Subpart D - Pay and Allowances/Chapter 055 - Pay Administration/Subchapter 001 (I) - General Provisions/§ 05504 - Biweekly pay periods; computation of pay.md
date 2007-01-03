@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) an employee in or under an Executive agency;
 
-&emsp;&emsp;(B) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek isestablished under section 6101(a)(5) of this title; and
+&emsp;&emsp;(B) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek is established under section 6101(a)(5) of this title; and
 
 &emsp;&emsp;(C) an individual employed by the government of the District of Columbia.
 

@@ -36,7 +36,7 @@
 
 &emsp;(4) If no person covered by clauses (1)–(3) can be found, a person standing in loco parentis to the decedent.
 
-(d) When the remains of a decedent covered by section 1481 of this title, whose death occurs after January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
+(d) When the remains of a decedent covered by section 1481 of this title, whose death occursafter January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
 
 &emsp;(1) presented with a flag of the United States; however, if the person designated by subsection (c) is other than a parent of the deceased member, a flag of equal size may also be presented to the parents, and
 
@@ -44,7 +44,7 @@
 
 > However, the amount of the reimbursement shall be determined in the manner prescribed in subsection (b) for an interment, but may not be larger than that authorized when the United States provides the grave site. A claim for reimbursement under this subsection may be allowed only if it is presented within two years after the date of death or the date the person who would have been designated under subsection (c) to direct disposition of the remains, if they had been recovered, receives notification that the member has been reported or determined to be dead under authority of chapter 10 of title 37, whichever is later.
 
-(e) The Secretary concerned may pay the necessary expenses for the presentation of a flag to the person designated to direct the disposition of the remains of a member of the Reserve of an armed force under his jurisdiction who diesunder honorable circumstances as determined by the Secretary and who is not covered by section 1481 of this title if, at the time of such member's death, he—
+(e) The Secretary concerned may pay the necessary expenses for the presentation of a flag to the person designated to direct the disposition of the remains of a member of the Reserve of an armed force under his jurisdiction who dies under honorable circumstances as determined by the Secretary and who is not covered by section 1481 of this title if, at the time of such member's death, he—
 
 &emsp;(1) was a member of the Ready Reserve; or
 
@@ -141,4 +141,78 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 Amendment by section 652(a)(2) of Pub. L. 103–337 applicable with respect to remains of, and incidental expenses incident to recovery, care, and disposition of, an individual who dies after Oct. 5, 1994, see section 652(a)(3) of Pub. L. 103–337, set out as a note under section 1481 of this title.
 
 Amendment by section 1671(c)(8) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Transportation of Remains of Casualties Dying in a Theater of Combat Operations
+
+Pub. L. 109–364, div. A, title V, §562, Oct. 17, 2006, 120 Stat. 2220, provided that:
+
+“(a)
+
+Required Transportation.—In the case of a member of the Armed Forces who dies in a combat theater of operations and whose remains are returned to the United States through the mortuary facility at Dover Air Force Base, Delaware, the Secretary concerned, under regulations prescribed by the Secretary of Defense, shall provide transportation of the remains of that member from Dover Air Force Base to the applicable escorted remains destination in accordance with section 1482(a)(8) of title 10, United States Code, and this section.
+
+“(b)
+
+Escorted Remains Destination.—In this section, the term ‘escorted remains destination’ means the place to which remains are authorized to be transported under section 1482(a)(8) of title 10, United States Code.
+
+“(c)
+
+Air Transportation From Dover AFB.—
+
+&emsp;“(1)
+
+Military transportation.—If transportation of remains under subsection (a) includes transportation by air, such transportation (except as provided under paragraph (2)) shall be made by military aircraft or military-contracted aircraft.
+
+&emsp;“(2)
+
+Alternative transportation by aircraft.—The provisions of paragraph (1) shall not be applicable to the transportation of remains by air to the extent that the person designated to direct disposition of the remains directs otherwise.
+
+&emsp;“(3)
+
+Primary mission.—When remains are transported by military aircraft or military-contracted aircraft under this section, the primary mission of the aircraft providing that transportation shall be the transportation of such remains. However, more than one set of remains may be transported on the same flight.
+
+“(d)
+
+Escort.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the Secretary concerned shall ensure that remains transported under this section are continuously escorted from Dover Air Force Base to the applicable escorted remains destination by a member of the Armed Forces in an appropriate grade, as determined by the Secretary.
+
+&emsp;“(2)
+
+Other escort.—If a specific military escort is requested by the person designated to direct disposition of such remains and the Secretary approves that request, then the Secretary is not required to provide an additional military escort under paragraph (1).
+
+“(e)
+
+Honor Guard Detail.—
+
+&emsp;“(1)
+
+Provision of detail.—Except in a case in which the person designated to direct disposition of remains requests that no military honor guard be present, the Secretary concerned shall ensure that an honor guard detail is provided in each case of the transportation of remains under this section. The honor guard detail shall be in addition to the escort provided for the transportation of remains under section (d).
+
+&emsp;“(2)
+
+Composition.—An honor guard detail provided under this section shall consist of sufficient members of the Armed Forces to perform the duties specified in paragraph (3). The members of the honor guard detail shall be in uniform.
+
+&emsp;“(3)
+
+Duties.—Except to the extent that the person designated to direct disposition of remains requests that any of the following functions not be performed, an honor guard detail under this section—
+
+&emsp;&emsp;“(A) shall—
+
+&emsp;&emsp;&emsp;“(i) travel with the remains during transportation; or
+
+&emsp;&emsp;&emsp;“(ii) meet the remains at the place to which transportation by air (or by rail or motor vehicle, if applicable) is made for the transfer of the remains;
+
+&emsp;&emsp;“(B) shall provide appropriate honors at the arrival of the remains referred to in subparagraph (A)(ii) (unless airline or other security requirements do not permit such honors to be provided); and
+
+&emsp;&emsp;“(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designated by the person designated to direct disposition of such remains.
+
+“(f)
+
+Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of title 10, United States Code.
+
+“(g)
+
+Effective Date.—This section shall take effect at such time as may be prescribed by the Secretary of Defense, but not later than January 1, 2007.”
 

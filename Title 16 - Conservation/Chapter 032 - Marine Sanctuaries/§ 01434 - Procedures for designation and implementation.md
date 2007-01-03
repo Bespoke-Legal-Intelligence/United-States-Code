@@ -58,7 +58,7 @@
 
 #### (5) Fishing regulations
 
-&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act (16U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Any amendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
+&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act (16 U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Any amendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
 
 #### (6) Committee action
 
@@ -84,7 +84,7 @@
 
 #### (c) Access and valid rights
 
-(1) Nothing in this chapter shall be construed as terminating or granting to the Secretary the right to terminate any valid lease, permit, license, or right of subsistence use or of access that is in existence on the date of designation of any national marine sanctuary.
+(1) Nothing in this chapter shall be construed as terminating or granting to the Secretary theright to terminate any valid lease, permit, license, or right of subsistence use or of access that is in existence on the date of designation of any national marine sanctuary.
 
 (2) The exercise of a lease, permit, license, or right is subject to regulation by the Secretary consistent with the purposes for which the sanctuary is designated.
 
@@ -148,7 +148,7 @@ Not more than five years after the date of designation of any national marine sa
 
 The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted this chapter, chapter 32A (§1447 et seq.) of this title, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
@@ -222,7 +222,7 @@ Subsecs. (d), (e). Pub. L. 102–587, §2104(d), added subsecs. (d) and (e).
 
 1976—Pub. L. 94–326 inserted provision authorizing to be appropriated not to exceed $500,000 for fiscal year 1977.
 
-1975—Pub. L. 94–62 substituted provisions authorizing to be appropriated not to exceed $10,000,000 for each of fiscal years 1973, 1974, and 1975, for provisions authorizing to be appropriated for fiscal year in which this Act was enacted and for next two fiscal years thereafter not to exceed $10,000,000 for each such fiscal year, and inserted provisions authorizing to be appropriated not to exceed $6,200,000 for fiscal year 1976, and not to exceed $1,550,000 for the transition period (July 1, through Sept. 30, 1976).
+1975—Pub. L. 94–62 substituted provisions authorizing to be appropriated not to exceed $10,000,000 for each of fiscal years 1973, 1974, and 1975, for provisions authorizing to be appropriated for fiscal year in which this Actwas enacted and for next two fiscal years thereafter not to exceed $10,000,000 for each such fiscal year, and inserted provisions authorizing to be appropriated not to exceed $6,200,000 for fiscal year 1976, and not to exceed $1,550,000 for the transition period (July 1, through Sept. 30, 1976).
 
 #### Effective Date of 2000 Amendments
 

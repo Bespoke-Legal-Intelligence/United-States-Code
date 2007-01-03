@@ -44,7 +44,7 @@ Definitions.—For purposes of subsection (a), the term ‘employee’ means an 
 
 “(c)
 
-Deadline for Regulations.—Within 30 days after the date of the enactment of this Act \[June 18,1991\], the Director of the Administration \[Administrative\] Office shall prescribe regulations necessary for the administration of subsection (a).”
+Deadline for Regulations.—Within 30 days after the date of the enactment of this Act \[June 18, 1991\], the Director of the Administration \[Administrative\] Office shall prescribe regulations necessary for the administration of subsection (a).”
 
 #### Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War
 
@@ -56,7 +56,7 @@ Civil Service Employees.—The Office of Personnel Management shall establish a 
 
 &emsp;“(1) an employee in any executive agency may (during a period specified by the Office of Personnel Management) donate any unused annual leave from the employee's annual leave account to a leave bank established by the Office of Personnel Management;
 
-&emsp;“(2) the total annual leave that has been donated under paragraph (1) shall be divided equally among the annual leave accounts of all employees who have been members of the Armed Forces serving on active duty during the Persian Gulf conflict pursuant to an order issued under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], 675 \[now 12307\], or 688 of title 10, United States Code, and who return to civilian employment with their agencies; and
+&emsp;“(2) the total annual leave that has been donated under paragraph (1) shall be divided equally amongthe annual leave accounts of all employees who have been members of the Armed Forces serving on active duty during the Persian Gulf conflict pursuant to an order issued under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], 675 \[now 12307\], or 688 of title 10, United States Code, and who return to civilian employment with their agencies; and
 
 &emsp;“(3) such Persian Gulf concflict \[sic\] participants who have returned to civilian employment may use such annual leave, after it is credited to their leave accounts, in the same manner as any other annual leave to their credit.
 

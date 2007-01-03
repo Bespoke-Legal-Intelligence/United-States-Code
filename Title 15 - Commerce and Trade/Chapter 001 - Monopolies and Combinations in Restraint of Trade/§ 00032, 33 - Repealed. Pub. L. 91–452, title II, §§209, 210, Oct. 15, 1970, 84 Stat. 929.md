@@ -10,5 +10,5 @@ Repeal effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub
 
 #### Savings Provision
 
-Repeal of sections by Pub. L. 91–452 not to affect any immunity to which any individual was entitled under sections by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; SavingsProvision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+Repeal of sections by Pub. L. 91–452 not to affect any immunity to which any individual was entitled under sections by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 

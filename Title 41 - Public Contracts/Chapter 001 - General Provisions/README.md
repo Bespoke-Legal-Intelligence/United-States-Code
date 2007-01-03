@@ -11,13 +11,7 @@
 | 6a–2. | Architect of the Capitol, authority for personal services contracts with legal entities. |
 | 6a–3. | House of Representatives, exception from advertisement requirements. |
 | 6a–4. | Director of the Congressional Budget Office, exception from advertisement requirements. |
-| (a) | Exception. |
-| (b) | Effective Date. |
 | [6b.](%C2%A7%2000006b%20-%20Miscellaneous%20exceptions%20from%20advertisement%20requirements.md) | Miscellaneous exceptions from advertisement requirements. |
-| (a) | Control of insects, pests, and grass diseases. |
-| (b) | Omitted. |
-| (c) | Operations on Menominee Indian Reservation. |
-| (d) | Sale of Indian produced forest products. |
 | 6c to 6<i>ll.</i> | Repealed or Omitted. |
 | [6mm.](%C2%A7%2000006mm%20-%20Transferred.md) | Transferred. |
 | 7 to 7d. | Repealed. |
@@ -27,8 +21,6 @@
 | [10b.](%C2%A7%2000010b%20-%20Contracts%20for%20public%20works%3B%20specification%20for%20use%20of%20American%20materials%3B%20blacklisting%20contractors%20violating%20requirements.md) | Contracts for public works; specification for use of American materials; blacklisting contractors violating requirements. |
 | 10b–1. | Omitted. |
 | 10b–2. | Limitation on authority to waive Buy American Act requirement. |
-| (a) | Buy American Act waiver rescissions. |
-| (b) | Definition. |
 | 10b–3. | Annual report relating to Buy American Act. |
 | [10c.](%C2%A7%2000010c%20-%20Definition%20of%20terms%20used%20in%20sections%2010a%2C%2010b%2C%20and%2010c.md) | Definition of terms used in sections 10a, 10b, and 10c. |
 | [10d.](%C2%A7%2000010d%20-%20Clarification%20of%20Congressional%20intent%20regarding%20sections%2010a%20and%2010b%28a%29.md) | Clarification of Congressional intent regarding sections 10a and 10b(a). |
@@ -39,13 +31,6 @@
 | [13a.](%C2%A7%2000013a%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93682%2C%20%C2%A712%28c%29%2C%20Sept.%202%2C%201960%2C%2074%20Stat.%20710.md) | Repealed. |
 | [14\.](%C2%A7%2000014%20-%20Restriction%20on%20purchases%20of%20land.md) | Restriction on purchases of land. |
 | [15\.](%C2%A7%2000015%20-%20Transfers%20of%20contracts%3B%20assignments%3B%20assignee%20not%20subject%20to%20reduction%20or%20setoff.md) | Transfers of contracts; assignments; assignee not subject to reduction or setoff. |
-| (a) | Transfer. |
-| (b) | Assignment. |
-| (c) | Validity of assignment. |
-| (d) | Assignee liability. |
-| (e) | Amendment of contract. |
-| (f) | Assignor liability arising independent of contract. |
-| (g) | Accrued rights and obligations. |
 | 16 to 21. | Repealed or Omitted. |
 | [22\.](%C2%A7%2000022%20-%20Interest%20of%20Member%20of%20Congress.md) | Interest of Member of Congress. |
 | [23\.](%C2%A7%2000023%20-%20Orders%20or%20contracts%20for%20material%20placed%20with%20Government-owned%20establishments%20deemed%20obligations.md) | Orders or contracts for material placed with Government-owned establishments deemed obligations. |
@@ -61,28 +46,11 @@
 | [42\.](%C2%A7%2000042%20-%20Effect%20of%20Walsh-Healey%20provisions%20on%20other%20laws.md) | Effect of Walsh-Healey provisions on other laws. |
 | [43\.](%C2%A7%2000043%20-%20Walsh-Healey%20provisions%20not%20applicable%20to%20certain%20contracts.md) | Walsh-Healey provisions not applicable to certain contracts. |
 | [43a.](%C2%A7%2000043a%20-%20Administrative%20procedure%20provisions.md) | Administrative procedure provisions. |
-| (a) | Applicability. |
-| (b) | Wage determination; administrative review. |
-| (c) | Judicial review. |
 | [43b.](%C2%A7%2000043b%20-%20Manufacturers%20and%20regular%20dealers.md) | Manufacturers and regular dealers. |
 | [44\.](%C2%A7%2000044%20-%20Separability%20of%20Walsh-Healey%20provisions.md) | Separability of Walsh-Healey provisions. |
 | [45\.](%C2%A7%2000045%20-%20Effective%20date%20of%20Walsh-Healey%20provisions%3B%20exception%20as%20to%20representations%20with%20respect%20to%20minimum%20wages.md) | Effective date of Walsh-Healey provisions; exception as to representations with respect to minimum wages. |
 | [46\.](%C2%A7%2000046%20-%20Committee%20for%20Purchase%20From%20People%20Who%20Are%20Blind%20or%20Severely%20Disabled.md) | Committee for Purchase From People Who Are Blind or Severely Disabled. |
-| (a) | Establishment. |
-| (b) | Vacancy. |
-| (c) | Chairman. |
-| (d) | Terms. |
-| (e) | Pay and travel expenses. |
-| (f) | Staff. |
-| (g) | Obtaining official data. |
-| (h) | Administrative support services. |
-| (i) | Annual report. |
 | [47\.](%C2%A7%2000047%20-%20Duties%20and%20powers%20of%20the%20Committee.md) | Duties and powers of the Committee. |
-| (a) | Procurement list: publication in Federal Register; additions and removals. |
-| (b) | Fair market price; price revisions. |
-| (c) | Central nonprofit agency; designation. |
-| (d) | Rules and regulations; blind-made products, priority. |
-| (e) | Problems and production methods; study and evaluation. |
 | [48\.](%C2%A7%2000048%20-%20Procurement%20requirements%20for%20the%20Government%3B%20nonapplication%20to%20prison-made%20products.md) | Procurement requirements for the Government; nonapplication to prison-made products. |
 | [48a.](%C2%A7%2000048a%20-%20Audit.md) | Audit. |
 | [48b.](%C2%A7%2000048b%20-%20Definitions.md) | Definitions. |
@@ -95,16 +63,7 @@
 | [54\.](%C2%A7%2000054%20-%20Criminal%20penalties.md) | Criminal penalties. |
 | [55\.](%C2%A7%2000055%20-%20Civil%20actions.md) | Civil actions. |
 | [56\.](%C2%A7%2000056%20-%20Administrative%20offsets.md) | Administrative offsets. |
-| (a) | Offset authority. |
-| (b) | Duties of prime contractor. |
-| (c) | Claim of Government. |
-| (d) | “Contracting officer” defined. |
 | [57\.](%C2%A7%2000057%20-%20Contractor%20responsibilities.md) | Contractor responsibilities. |
-| (a) | Procedural requirements for prevention and detection of violations. |
-| (b) | Cooperation in investigations requirement. |
-| (c) | Reporting requirement; supplying information as favorable evidence of responsibility. |
-| (d) | Partial inapplicability to small contracts. |
-| (e) | Cooperation in investigations regardless of contract amount. |
 | [58\.](%C2%A7%2000058%20-%20Inspection%20authority.md) | Inspection authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

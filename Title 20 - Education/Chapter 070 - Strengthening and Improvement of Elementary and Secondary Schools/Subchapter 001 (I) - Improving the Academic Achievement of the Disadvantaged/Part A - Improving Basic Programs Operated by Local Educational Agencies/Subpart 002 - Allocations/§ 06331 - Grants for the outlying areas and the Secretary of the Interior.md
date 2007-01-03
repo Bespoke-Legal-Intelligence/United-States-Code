@@ -16,7 +16,7 @@ From the amount appropriated for payments to States for any fiscal year under se
 
 #### (2) Competitive grants
 
-&emsp;Until each appropriate outlying area enters into an agreement for extension of United States educational assistance under the Compact of Free Association after January 8, 2002, the Secretary shall carry out the competition described in paragraph (3), except that the amount reserved to carry out such competition shall not exceed $5,000,000.
+&emsp;Until each appropriate outlying area enters into an agreement for extension of UnitedStates educational assistance under the Compact of Free Association after January 8, 2002, the Secretary shall carry out the competition described in paragraph (3), except that the amount reserved to carry out such competition shall not exceed $5,000,000.
 
 #### (3) Limitation for competitive grants
 
@@ -48,7 +48,7 @@ From the amount appropriated for payments to States for any fiscal year under se
 
 For the purpose of subsections (a) and (b) of this section—
 
-&emsp;(1) the term “freely associated states” means the Republic of the Marshall Islands,the Federated States of Micronesia, and the Republic of Palau; and
+&emsp;(1) the term “freely associated states” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau; and
 
 &emsp;(2) the term “outlying area” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 

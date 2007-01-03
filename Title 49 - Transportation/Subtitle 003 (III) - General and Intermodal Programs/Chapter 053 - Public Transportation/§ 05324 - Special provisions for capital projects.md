@@ -40,7 +40,7 @@ Findings by the secretary.—The Secretary may approve an application for financ
 
 &emsp;&emsp;(B)
 
-Hearing.—If a hearing has not been conducted or the Secretary decides that the record of the hearing is inadequate for making the findings required by this subsection, the Secretary shall conduct a hearing on an environmental issue raised by the application after giving adequate notice to interested persons.
+Hearing.—If a hearing has not been conducted or the Secretary decides that therecord of the hearing is inadequate for making the findings required by this subsection, the Secretary shall conduct a hearing on an environmental issue raised by the application after giving adequate notice to interested persons.
 
 &emsp;&emsp;(C)
 

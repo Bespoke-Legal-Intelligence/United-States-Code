@@ -19,7 +19,7 @@
 
 2003—Pub. L. 108–136, div. A, title VI, §621(b)(2), Nov. 24, 2003, 117 Stat. 1505, struck out “enlisted” before “members” in item 705.
 
-2002—Pub. L. 107–314, div. A, title V, §§506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, 116 Stat. 2536, 2558, substituted “Rest and recuperation absence: qualified enlistedmembers extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
+2002—Pub. L. 107–314, div. A, title V, §§506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, 116 Stat. 2536, 2558, substituted “Rest and recuperation absence: qualified enlisted members extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
 
 1984—Pub. L. 98–525, title VII, §707(a)(2), Oct. 19, 1984, 98 Stat. 2572, added item 708.
 

@@ -26,7 +26,7 @@ In general.—Regulations prescribed under this section shall provide procedures
 
 &emsp;&emsp;(A) a person for whom a guardian or other fiduciary has been appointed; and
 
-&emsp;&emsp;(B) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed.
+&emsp;&emsp;(B) a minor, mentally incompetent, or otherwise legally disabled person for whom aguardian or other fiduciary has not been appointed.
 
 &emsp;(2)
 

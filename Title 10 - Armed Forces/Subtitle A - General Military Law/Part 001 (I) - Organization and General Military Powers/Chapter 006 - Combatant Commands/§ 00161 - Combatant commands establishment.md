@@ -36,27 +36,7 @@ Definitions.—In this chapter:
 
 #### Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands
 
-Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, provided that: “The Chairman of the Joint Chiefs of Staff shall consider, as part of the next periodic review by the Chairman of the missions, responsibilities, and force structure of the unified combatant commands pursuant to section 161(b) of title 10, United States Code, the following matters:
-
-&emsp;“(1) Whether there exists an adequate distribution of threats, mission requirements, and responsibilities for geographic areas among the regional unified combatant commands.
-
-&emsp;“(2) Whether reductions in the overall force structure of the Armed Forces permit the United States to better execute its warfighting plans through fewer or differently configured unified combatant commands, including—
-
-&emsp;&emsp;“(A) a total of five or fewer commands, all of which are regional;
-
-&emsp;&emsp;“(B) a total of three commands consisting of an eastward-oriented command, a westward-oriented command, and a central command;
-
-&emsp;&emsp;“(C) a purely functional command structure, involving (for example) a first theater command, a second theater command, a logistics command, a special contingencies command, and a strategic command; or
-
-&emsp;&emsp;“(D) any other command structure or configuration the Chairman finds appropriate.
-
-&emsp;“(3) Whether any missions, staff, facilities, equipment, training programs, or other assets or activities of the unified combatant commands are redundant.
-
-&emsp;“(4) Whether warfighting requirements are adequate to justify the current functional commands.
-
-&emsp;“(5) Whether the exclusion of certain nations from the Areas of Responsibility of the unified combatant commands presents difficulties with respect to the achievement of United States national security objectives in those areas.
-
-&emsp;“(6) Whether the current geographic boundary between the United States Central Command and the United States European Command through the Middle East could create command conflicts in the context of a major regional conflict in the Middle East region.”
+Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, required the Chairman of the Joint Chiefs of Staff to consider, as part of the next periodic review after Sept. 23, 1996, pursuant to subsec. (b) of this section: (1) whether there was an adequate distribution of responsibilities among the regional unified combatant commands; (2) whether fewer or differently configured commands would permit the United States to better execute warfighting plans; (3) whether any assets or activities were redundant; (4) whether warfighting requirements were adequate to justify current commands; (5) whether exclusion of certain nations from the Areas of Responsibility presented difficulties with respect to national security objectives in those areas; and (6) whether the boundary between the United States Central and European Commands could create command conflicts in the context of a major regional conflict in the Middle East.
 
 #### Initial Review of Combatant Commands
 

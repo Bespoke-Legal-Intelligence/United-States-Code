@@ -56,7 +56,3 @@ Subsection (b) authorizes the Secretary to specify the number of tankermen requi
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 1228.
-

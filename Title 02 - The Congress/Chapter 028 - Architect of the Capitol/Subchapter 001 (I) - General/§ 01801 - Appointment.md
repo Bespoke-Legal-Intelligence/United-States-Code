@@ -62,9 +62,9 @@ Study by comptroller general.—Not later than November 1, 2002, the Comptroller
 
 “(2)
 
-Plan by architect in response.—After the Comptroller General submits the study conducted under paragraph (1) to the Committees referred to insuch paragraph, the Architect of the Capitol shall develop and submit to such Committees a management improvement plan which addresses the study and which indicates how the personnel for whom the Architect fixes the rate of basic pay under the amendment made by subsection (c)(1) \[amending section 1849 of this title\] will support such plan.”
+Plan by architect in response.—After the Comptroller General submits the study conducted under paragraph (1) to the Committees referred to in such paragraph, the Architect of the Capitol shall develop and submit to such Committees a management improvement plan which addresses the study and which indicates how the personnel for whom the Architect fixes the rate of basic pay under the amendment made by subsection (c)(1) \[amending section 1849 of this title\] will support such plan.”
 
 #### Accounting and Financial Management System
 
-Pub. L. 107–68, title I, §132, Nov. 12, 2001, 115 Stat. 581, which directed the Architect of the Capitol to develop and maintain an accounting and financial management system, including financial reporting and internal controls, was from the Legislative Branch Appropriations Act, 2002.
+Pub. L. 107–68, title I, §132, Nov. 12, 2001, 115 Stat. 581, which directed the Architect of the Capitol to developand maintain an accounting and financial management system, including financial reporting and internal controls, was from the Legislative Branch Appropriations Act, 2002.
 

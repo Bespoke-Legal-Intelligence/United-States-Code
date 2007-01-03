@@ -60,9 +60,7 @@ The provisions of subsections (e) and (f) of section 10,<sup>1</sup> of the Fede
 
 #### References in Text
 
-The Federal antitrust laws, referred to in subsec. (g)(5), is classified generally to chapter 1 (§1 et seq.) of this title.
-
-The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

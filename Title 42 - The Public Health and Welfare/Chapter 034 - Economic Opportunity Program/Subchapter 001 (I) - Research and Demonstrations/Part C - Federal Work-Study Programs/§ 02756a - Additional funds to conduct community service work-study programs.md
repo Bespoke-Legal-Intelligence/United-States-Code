@@ -20,7 +20,7 @@ Provisions similar to this section were contained in section 2756b of this title
 
 #### Amendments
 
-1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
+1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related topurpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
 
 1986—Pub. L. 99–498 amended section generally, substituting provisions relating to work-study for community service-learning on behalf of low-income individuals and families for provisions relating to job location and development programs and agreements with eligible institutions. See section 2756 of this title.
 
@@ -48,5 +48,5 @@ Section applicable to periods of enrollment beginning on or after July 1, 1987, 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub.L. 94–482, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of Title 20, Education.
 

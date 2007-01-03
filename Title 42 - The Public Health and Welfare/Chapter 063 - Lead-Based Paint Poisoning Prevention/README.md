@@ -22,13 +22,6 @@
 | :--- | ---: |
 | [4821\.](Subchapter%20003%20%28III%29%20-%20Federal%20Demonstration%20and%20Research%20Program%20Federal%20Housing%20Administration%20Requirements/%C2%A7%2004821%20-%20Development%20of%20program%3B%20consultation%3B%20nature%20of%20program%3B%20safe%20level%20of%20lead%3B%20report%20to%20Congress.md) | Development of program; consultation; nature of program; safe level of lead; report to Congress. |
 | [4822\.](Subchapter%20003%20%28III%29%20-%20Federal%20Demonstration%20and%20Research%20Program%20Federal%20Housing%20Administration%20Requirements/%C2%A7%2004822%20-%20Requirements%20for%20housing%20receiving%20Federal%20assistance.md) | Requirements for housing receiving Federal assistance. |
-| (a) | General requirements. |
-| (b) | Measurement criteria. |
-| (c) | Inspection requirements. |
-| (d) | Abatement required. |
-| (e) | Exceptions. |
-| (f) | Funding. |
-| (g) | Interpretation of section. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -37,9 +30,6 @@
 |  |  |
 | :--- | ---: |
 | [4831\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20Against%20Future%20Use%20of%20Lead-Based%20Paint/%C2%A7%2004831%20-%20Use%20of%20lead-based%20paint.md) | Use of lead-based paint. |
-| (a) | Prohibition by Secretary of Health and Human Services in application to cooking, drinking, or eating utensils. |
-| (b) | Prohibition by Secretary of Housing and Urban Development of use in residential structures constructed or rehabilitated by Federal Government or with Federal assistance. |
-| (c) | Prohibition by Consumer Product Safety Commission in application to toys or furniture articles. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

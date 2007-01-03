@@ -6,7 +6,7 @@ In any case in which the United States is authorized or required by law to furni
 
 #### (b) Recovery of cost of pay for member of uniformed services unable to perform duties
 
-If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the United States and except employers of seamen referred to in subsection (a) of this section) for damages for such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amount equal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
+If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the United States and except employers of seamen referred to in subsection (a) of this section) for damagesfor such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amount equal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
 
 #### (c) United States deemed third party beneficiary under alternative system of compensation
 
@@ -48,19 +48,21 @@ For the purposes of this section:
 
 &emsp;&emsp;(A) the Secretary of Defense, with respect to the Army, the Navy, the Air Force, the Marine Corps, and the Coast Guard (when it is operating as a service in the Navy);
 
-&emsp;&emsp;(B) the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy;
+&emsp;&emsp;(B) the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy;
 
 &emsp;&emsp;(C) the Secretary of Health and Human Services, with respect to the commissioned corps of the Public Health Service; and
 
 &emsp;&emsp;(D) the Secretary of Commerce, with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 87–693, §1, Sept. 25, 1962, 76 Stat. 593; Pub. L. 102–54, §13(q)(8), June 13, 1991, 105 Stat. 281; Pub. L. 104–201, div. A, title X, §1075(a), (b), Sept. 23, 1996, 110 Stat. 2661, 2663.)
+(Pub. L. 87–693, §1, Sept. 25, 1962, 76 Stat. 593; Pub. L. 102–54, §13(q)(8), June 13, 1991, 105 Stat. 281; Pub. L. 104–201, div. A, title X, §1075(a), (b), Sept. 23, 1996, 110 Stat. 2661, 2663; Pub. L. 109–241, title IX, §902(m), July 11, 2006, 120 Stat. 568.)
 
 #### References in Text
 
 Effective date of this Act, referred to in subsec. (a), is the first day of the fourth month following September 1962, see section 4 of Pub. L. 87–693 set out as an Effective Date note below.
 
 #### Amendments
+
+2006—Subsec. (g)(4)(B). Pub. L. 109–241 substituted “of Homeland Security,” for “of Transportation,”.
 
 1996—Subsec. (a). Pub. L. 104–201, §1075(b)(1), inserted “(independent of the rights of the injured or diseased person)” after “a right to recover” and “, or that person's insurer,” after “from said third person”.
 
@@ -85,8 +87,4 @@ Section 1075(c) of Pub. L. 104–201 provided that: “The authority to collect 
 #### Effective Date
 
 Section 4 of Pub. L. 87–693 provided that: “This Act \[enacting this chapter\] becomes effective on the first day of the fourth month following the month \[September 1962\] in which enacted.”
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

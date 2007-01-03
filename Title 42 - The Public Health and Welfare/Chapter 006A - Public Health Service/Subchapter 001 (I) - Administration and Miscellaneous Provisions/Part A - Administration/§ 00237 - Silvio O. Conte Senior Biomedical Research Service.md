@@ -28,7 +28,7 @@ The Secretary shall develop a performance appraisal system designed to—
 
 The Secretary may, upon the request of a member who—
 
-&emsp;(1) performed service in the employ of an institution of higher education immediately prior to his appointment as a member of the Service, and
+&emsp;(1) performed service in the employ of an institution of higher education immediatelyprior to his appointment as a member of the Service, and
 
 &emsp;(2) retains the right to continue to make contributions to the retirement system of such institution,
 

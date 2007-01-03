@@ -24,13 +24,13 @@ The repeal of existing laws or modifications or reenactments thereof embraced in
 
 Nothing in this chapter shall be construed to amend or repeal any of the following provisions of law:
 
-&emsp;(1) Sections 128, 130, and 131 of this title and section 146 of title 46, Appendix;
+&emsp;(1) Section 60501 or 60502 of title 46;
 
 &emsp;(2) Subsection 2 of paragraph N of Section IV of such Act of October 3, 1913, ch. 16 (relating to the manufacture of alcohol for denaturization only);
 
 &emsp;(3) Section 296 of title 5 (providing for an Assistant Attorney General in charge of customs matters);
 
-&emsp;(4) The Act entitled “An Act relating to the use or disposal of vessels or vehicles forfeitedto the United States for violation of the customs laws or the National Prohibition Act, and for other purposes”, approved March 3, 1925; nor
+&emsp;(4) The Act entitled “An Act relating to the use or disposal of vessels or vehicles forfeited to the United States for violation of the customs laws or the National Prohibition Act, and for other purposes”, approved March 3, 1925; nor
 
 &emsp;(5) The Antidumping Act, 1921 \[19 U.S.C. 160 et seq.\].
 
@@ -51,6 +51,10 @@ Section 296 of title 5, referred to in subsec. (d)(3), was repealed in the gener
 Act of March 3, 1925, referred to in subsec. (d)(4), was repealed by act Aug. 27, 1935, ch. 740, §308, 49 Stat. 880.
 
 The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
+
+#### Codification
+
+In subsec. (d)(1), “Section 60501 or 60502 of title 46” substituted for “Subsections 1, 2, and 3 of paragraph J of Section IV of the Act entitled ‘An Act to reduce tariff duties and to provide revenue for the Government, and for other purposes,’ approved October 3, 1913 (relating to restrictions on importations in foreign vessels or through contiguous countries), as modified by the Act of March 4, 1915, chapter 171” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 60501 and 60502 of Title 46, Shipping.
 
 #### Prior Provisions
 

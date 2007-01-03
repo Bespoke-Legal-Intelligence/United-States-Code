@@ -2,7 +2,7 @@
 
 #### (a) Annuities stated as annual amounts
 
-Each annuity is stated as an annual amount, 1/12 of which, rounded to the next lowest dollar,constitutes the monthly rate payable on the first business day of the month after the month or other period for which it has accrued.
+Each annuity is stated as an annual amount, 1/12 of which, rounded to the next lowest dollar, constitutes the monthly rate payable on the first business day of the month after the month or other period for which it has accrued.
 
 #### (b) Commencement of annuity
 
@@ -64,7 +64,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (3) Change in State designation
 
-&emsp;Subject to paragraph (2), an annuitant may change the State designated by that annuitant for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. An annuitant also may revoke any request of that annuitant for withholding. Any change in the State designated or revocation is effective on the first day of the month after the month in which the request or the revocation is processed by the Director, but in no event later than on the first day of the second month beginning after the day on which such request or revocation is received by the Director.
+&emsp;Subject to paragraph (2), an annuitant may change the State designated by that annuitant for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. An annuitant also may revoke any request of that annuitant for withholding. Any change in the State designated or revocation is effective on the first day of the month after the month in which therequest or the revocation is processed by the Director, but in no event later than on the first day of the second month beginning after the day on which such request or revocation is received by the Director.
 
 #### (4) General provisions
 
@@ -78,7 +78,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### Prior Provisions
 
-A prior section 263 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 97–269, title VI, §609, Sept. 27,1982, 96 Stat. 1153; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to attachment of moneys and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 263 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 97–269, title VI, §609, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to attachment of moneys and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

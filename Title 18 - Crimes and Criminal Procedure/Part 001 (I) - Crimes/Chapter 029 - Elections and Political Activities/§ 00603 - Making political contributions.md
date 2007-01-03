@@ -4,9 +4,9 @@
 
 (b) For purposes of this section, a contribution to an authorized committee as defined in section 302(e)(1) of the Federal Election Campaign Act of 1971 shall be considered a contribution to the individual who has authorized such committee.
 
-(c) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Rate Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
+(c) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Regulatory Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
 
-(June 25, 1948, ch. 645, 62 Stat. 722; Oct. 31, 1951, ch. 655, §20(b), 65 Stat. 718; Pub. L. 96–187, title II, §201(a)(4), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–94, §4(b), Oct. 6, 1993, 107 Stat. 1005; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 722; Oct. 31, 1951, ch. 655, §20(b), 65 Stat. 718; Pub. L. 96–187, title II, §201(a)(4), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–94, §4(b), Oct. 6, 1993, 107 Stat. 1005; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Historical and Revision Notes
 
@@ -29,6 +29,8 @@ Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subs
 Section 302(e)(1) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to section 432(e)(1) of Title 2.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 

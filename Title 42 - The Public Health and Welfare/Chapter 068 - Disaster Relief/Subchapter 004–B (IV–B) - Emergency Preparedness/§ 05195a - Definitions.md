@@ -24,7 +24,7 @@ For purposes of this subchapter only:
 
 &emsp;&emsp;(B) Measures to be undertaken during a hazard (including the enforcement of passive defense regulations prescribed by duly established military or civil authorities, the evacuation of personnel to shelter areas, the control of traffic and panic, and the control and use of lighting and civil communications).
 
-&emsp;&emsp;(C) Measures to be undertaken following a hazard (including activities for fire fighting, rescue, emergency medical, health and sanitation services, monitoring for specific dangers of special weapons, unexploded bomb reconnaissance, essential debris clearance, emergency welfare measures, and immediately essential emergency repair or restoration of damaged vital facilities).
+&emsp;&emsp;(C) Measures to be undertaken following a hazard (including activities for fire fighting,rescue, emergency medical, health and sanitation services, monitoring for specific dangers of special weapons, unexploded bomb reconnaissance, essential debris clearance, emergency welfare measures, and immediately essential emergency repair or restoration of damaged vital facilities).
 
 #### (4) Organizational equipment
 
@@ -40,7 +40,7 @@ For purposes of this subchapter only:
 
 #### (7) Director
 
-&emsp;The term “Director” means the Director of the Federal Emergency Management Agency.
+&emsp;The term “Director” means the Administrator of the Federal Emergency Management Agency.
 
 #### (8) Neighboring countries
 
@@ -58,7 +58,7 @@ For purposes of this subchapter only:
 
 The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), includes <sup>1</sup> emergency preparedness activities conducted pursuant to this subchapter.
 
-(Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3101.)
+(Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3101; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -68,9 +68,15 @@ The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 
 
 Provisions similar to those in this section were contained in sections 2252 and 2282 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a)(7) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “include”.</i>
 

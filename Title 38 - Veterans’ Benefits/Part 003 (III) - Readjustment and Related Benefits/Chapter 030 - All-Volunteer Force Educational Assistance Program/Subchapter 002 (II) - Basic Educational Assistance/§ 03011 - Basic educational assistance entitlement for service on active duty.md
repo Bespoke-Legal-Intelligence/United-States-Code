@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least three years of continuous active duty in the Armed Forces; or
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy; or
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience ofthe Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy; or
 
 &emsp;&emsp;(C) as of December 31, 1989, was eligible for educational assistance benefits under chapter 34 of this title and—
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) a defective enlistment agreement.
 
-(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section 12301, 12302, 12304, 12306, or 12307 of title 10 for a period of less than 2 years.
+(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section12301, 12302, 12304, 12306, or 12307 of title 10 for a period of less than 2 years.
 
 (e)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (c)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (b).
 
@@ -106,7 +106,7 @@
 
 (i) The Secretary concerned shall inform any member of the Armed Forces who has not completed that member's obligated period of active duty (as described in subsection (a)(1)(A)) and who indicates the intent to be discharged or released from such duty for the convenience of the Government of the minimum active duty requirements for entitlement to educational assistance benefits under this chapter. Such information shall be provided to the member in a timely manner.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I,§§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573, 1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(a), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(a), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §§702(a), 704, Nov. 30, 1999, 113 Stat. 1583, 1584; Pub. L. 106–419, title I, §§102(a)(1), 103(a), 105(a)(1), Nov. 1, 2000, 114 Stat. 1824, 1825, 1828; Pub. L. 107–14, §7(a)(1), (c)(1), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §§105(a), 106(a), Dec. 27, 2001, 115 Stat. 982, 983; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–330, title III, §308(a), Dec. 6, 2002, 116 Stat. 2827; Pub. L. 108–454, title I, §109(a), Dec. 10, 2004, 118 Stat. 3604.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573, 1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(a), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(a), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §§702(a), 704, Nov. 30, 1999, 113 Stat. 1583, 1584; Pub. L. 106–419, title I, §§102(a)(1), 103(a), 105(a)(1), Nov. 1, 2000, 114 Stat. 1824, 1825, 1828; Pub. L. 107–14, §7(a)(1), (c)(1), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §§105(a), 106(a), Dec. 27, 2001, 115 Stat. 982, 983; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–330, title III, §308(a), Dec. 6, 2002, 116 Stat. 2827; Pub. L. 108–454, title I, §109(a), Dec. 10, 2004, 118 Stat. 3604; Pub. L. 109–444, §8(b)(2), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(2), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468.)
 
 #### Prior Provisions
 
@@ -116,11 +116,17 @@ Another prior section 3011, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227; Pub.
 
 #### Amendments
 
+2006—Subsec. (a)(1)(A)(ii)(III). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461,set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §1004(b)(2), made technical amendment to directory language of Pub. L. 107–296. See 2002 Amendment note below.
+
+Pub. L. 109–444, which made amendment identical to the amendment made by Pub. L. 109–461, §1004(b)(2), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
 2004—Subsec. (b). Pub. L. 108–454 substituted “(1) Except as provided in paragraph (2), the basic pay” for “The basic pay”, added par. (2), and designated second sentence of existing provisions as par. (3) and substituted “this subsection” for “this chapter”.
 
 2002—Subsec. (a)(1)(A)(ii)(I). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-Subsec. (a)(1)(A)(ii)(III). Pub. L. 107–296, which directed the substitution of “of Homeland Security” for “of Transportation” in subcl. (II), was executed to subcl. (III) to reflect the probable intent of Congress.
+Subsec. (a)(1)(A)(ii)(III). Pub. L. 107–296, as amended by Pub. L. 109–461, §1004(b)(2), substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (a)(1)(B)(ii)(III). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -239,6 +245,10 @@ Subsec. (a)(1)(B)(ii)(II). Pub. L. 99–576, §321(1)(B), inserted “continuous
 Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual” for “Amounts withheld from basic pay under this subsection shall revert to the Treasury”.
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–461, title X, §1004(b), Dec. 22, 2006, 120 Stat. 3466, provided that the amendment made by section 1004(b) is effective Nov. 25, 2002.
 
 #### Effective Date of 2002 Amendment
 

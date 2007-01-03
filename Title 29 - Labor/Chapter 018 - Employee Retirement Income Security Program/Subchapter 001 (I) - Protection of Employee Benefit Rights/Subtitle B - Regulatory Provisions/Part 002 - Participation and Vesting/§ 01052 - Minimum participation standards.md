@@ -34,7 +34,7 @@
 
 (3) In computing an employee's period of service for purposes of subsection (a)(1) of this section in the case of any participant who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3) of this section) after his return.
 
-(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-yearbreaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
+(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
 
 &emsp;(i) 5, or
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 98–397 applicable to plan years beginning after Dec. 31, 
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each toissue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 

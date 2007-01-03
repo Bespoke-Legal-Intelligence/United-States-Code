@@ -1,14 +1,22 @@
 ### §1092. Publication; not subject to opposition; cancellation
 
-Marks for the supplemental register shall not be published for or be subject to opposition, but shall be published on registration in the Official Gazette of the Patent and Trademark Office. Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
+Marks for the supplemental register shall not be published for or be subject to opposition, but shall be published on registration in the Official Gazette of the Patent and Trademark Office. Whenever any person believes that such person is or will be damaged by the registration of a mark on the supplemental register—
 
-(July 5, 1946, ch. 540, title II, §24, 60 Stat. 436; Pub. L. 85–609, §1(d), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §14, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §122, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–43, §2(d), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+&emsp;(1) for which the effective filing date is after the date on which such person's mark became famous and which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title; or
+
+&emsp;(2) on grounds other than dilution by blurring or dilution by tarnishment,
+
+> such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
+
+(July 5, 1946, ch. 540, title II, §24, 60 Stat. 436; Pub. L. 85–609, §1(d), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §14, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §122, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–43, §2(d), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, §3(d), Oct. 6, 2006, 120 Stat. 1732.)
 
 #### Prior Provisions
 
 Act Mar. 19, 1920, ch. 104, §2, 41 Stat. 534.
 
 #### Amendments
+
+2006—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: “Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration.” The words following “tarnishment,” in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
 
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 

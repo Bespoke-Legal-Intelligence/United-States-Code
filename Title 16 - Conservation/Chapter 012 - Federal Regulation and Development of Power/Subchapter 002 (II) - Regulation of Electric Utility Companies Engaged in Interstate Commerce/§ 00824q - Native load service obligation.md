@@ -4,7 +4,7 @@
 
 In this section:
 
-&emsp;(1) The term “distribution utility” means an electric utility that has a service obligation to end-users or to a State utility or electric cooperative that, directly or indirectly, throughone or more additional State utilities or electric cooperatives, provides electric service to end-users.
+&emsp;(1) The term “distribution utility” means an electric utility that has a service obligation to end-users or to a State utility or electric cooperative that, directly or indirectly, through one or more additional State utilities or electric cooperatives, provides electric service to end-users.
 
 &emsp;(2) The term “load-serving entity” means a distribution utility or an electric utility that has a service obligation.
 

@@ -4,13 +4,9 @@
 | :--- | ---: |
 | [14661\.](%C2%A7%2014661%20-%20Program%20authorized.md) | Program authorized. |
 | [14662\.](%C2%A7%2014662%20-%20Eligibility.md) | Eligibility. |
-| (a) | Application. |
-| (b) | Contents. |
 | [14663\.](%C2%A7%2014663%20-%20Uses%20of%20funds.md) | Uses of funds. |
 | [14664\.](%C2%A7%2014664%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [14665\.](%C2%A7%2014665%20-%20Grants%20for%20the%20assistance%20of%20organizations%20to%20find%20missing%20adults.md) | Grants for the assistance of organizations to find missing adults. |
-| (a) | In general. |
-| (b) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

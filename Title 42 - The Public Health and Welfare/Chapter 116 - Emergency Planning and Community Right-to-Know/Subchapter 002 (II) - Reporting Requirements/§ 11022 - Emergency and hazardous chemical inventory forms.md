@@ -10,7 +10,7 @@
 
 &emsp;(C) The fire department with jurisdiction over the facility.
 
-(2) The inventory form containing tier I information (as described in subsection (d)(1) of this section) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the precedingcalendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2) of this section) to the recipients described in paragraph (1).
+(2) The inventory form containing tier I information (as described in subsection (d)(1) of this section) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2) of this section) to the recipients described in paragraph (1).
 
 (3) An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
 
@@ -86,7 +86,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (B) Automatic provision of information to public
 
-&emsp;&emsp;Any tier II information which a State emergency response commission or localemergency planning committee has in its possession shall be made available to a person making a request under this paragraph in accordance with section 11044 of this title. If the State emergency response commission or local emergency planning committee does not have the tier II information in its possession, upon a request for tier II information the State emergency response commission or local emergency planning committee shall, pursuant to paragraph (1), request the facility owner or operator for tier II information with respect to a hazardous chemical which a facility has stored in an amount in excess of 10,000 pounds present at the facility at any time during the preceding calendar year and make such information available in accordance with section 11044 of this title to the person making the request.
+&emsp;&emsp;Any tier II information which a State emergency response commission or local emergency planning committee has in its possession shall be made available to a person making a request under this paragraph in accordance with section 11044 of this title. If the State emergency response commission or local emergency planning committee does not have the tier II information in its possession, upon a request for tier II information the State emergency response commission or local emergency planning committee shall, pursuant to paragraph (1), request the facility owner or operator for tier II information with respect to a hazardous chemical which a facility has stored in an amount in excess of 10,000 pounds present at the facility at any time during the preceding calendar year and make such information available in accordance with section 11044 of this title to the person making the request.
 
 #### (C) Discretionary provision of information to public
 
@@ -102,7 +102,7 @@ Upon request to an owner or operator of a facility which files an inventory form
 
 #### (g) Format of forms
 
-The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
+The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator doesnot publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
 
 (Pub. L. 99–499, title III, §312, Oct. 17, 1986, 100 Stat. 1738.)
 

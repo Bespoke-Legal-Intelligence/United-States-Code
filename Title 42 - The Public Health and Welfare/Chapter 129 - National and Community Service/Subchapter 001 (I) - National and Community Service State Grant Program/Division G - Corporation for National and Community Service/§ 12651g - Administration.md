@@ -60,7 +60,7 @@
 
 #### (b) Contracts
 
-Subject to the Federal Property and Administrative Services Act of 1949,<sup>1</sup> the Corporationmay enter into contracts, and cooperative and interagency agreements, with Federal and State agencies, private firms, institutions, and individuals to conduct activities necessary to assist the Corporation in carrying out the duties of the Corporation under the national service laws.
+Subject to the Federal Property and Administrative Services Act of 1949,<sup>1</sup> the Corporation may enter into contracts, and cooperative and interagency agreements, with Federal and State agencies, private firms, institutions, and individuals to conduct activities necessary to assist the Corporation in carrying out the duties of the Corporation under the national service laws.
 
 #### (c) Office of Management and Budget
 

@@ -84,7 +84,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Governing International Fishery Agreement With Poland
 
-Pub. L. 105–384, title I, §101, Nov. 13, 1998, 112 Stat. 3451, provided that: “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Poland, as contained in the message toCongress from the President of the United States dated February 5, 1998, is approved as a governing international fishery agreement for the purposes of such Act \[16 U.S.C. 1801 et seq.\] and shall enter into force and effect with respect to the United States on the date of the enactment of this Act \[Nov. 13, 1998\].”
+Pub. L. 105–384, title I, §101, Nov. 13, 1998, 112 Stat. 3451, provided that: “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Poland, as contained in the message to Congress from the President of the United States dated February 5, 1998, is approved as a governing international fishery agreement for the purposes of such Act \[16 U.S.C. 1801 et seq.\] and shall enter into force and effect with respect to the United States on the date of the enactment of this Act \[Nov. 13, 1998\].”
 
 #### Governing International Fishery Agreement With Republic of Estonia
 
@@ -184,7 +184,7 @@ Pub. L. 97–212, §10(b), June 30, 1982, 96 Stat. 148, provided that the govern
 
 Pub. L. 95–6, §2, Feb. 21, 1977, 91 Stat. 15, as amended by Pub. L. 95–8, §1, Mar. 3, 1977, 91 Stat. 18; Pub. L. 95–219, §1, Dec. 28, 1977, 91 Stat. 1613; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–212, §10(a), June 30, 1982, 96 Stat. 148; Pub. L. 98–44, title I, §105, July 12, 1983, 97 Stat. 217; Pub. L. 98–364, title I, §105, July 17, 1984, 98 Stat. 442, provided for the approval by Congress, as a governing international fishery agreement for purposes of this chapter, of the governing international fishery agreement between—
 
-&emsp;(1) the Government of the United States and the Government of the People's Republic of Bulgaria Concerning Fisheries Off the Coasts of the United States;
+&emsp;(1) the Government of the United States and the Government of the People's Republic of BulgariaConcerning Fisheries Off the Coasts of the United States;
 
 &emsp;(2) the Government of the United States and the Government of the Socialist Republic of Romania Concerning Fisheries Off the Coasts of the United States;
 

@@ -24,7 +24,7 @@ Schedule II.—
 
 &emsp;(A) The drug or other substance has a high potential for abuse.
 
-&emsp;(B) The drug or other substance has a currently accepted medical use in treatment in the United States or a currently accepted medical use with severe restrictions.
+&emsp;(B) The drug or other substance has a currently accepted medical use in treatment inthe United States or a currently accepted medical use with severe restrictions.
 
 &emsp;(C) Abuse of the drug or other substances may lead to severe psychological or physical dependence.
 
@@ -334,7 +334,7 @@ Schedule III
 
 &emsp;(3) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with a fourfold or greater quantity of an isoquinoline alkaloid of opium.
 
-&emsp;(4) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
+&emsp;(4) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with one ormore active, nonnarcotic ingredients in recognized therapeutic amounts.
 
 &emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
@@ -424,7 +424,7 @@ Pub. L. 106–172, §§2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 &emsp;“(4) If taken for human consumption, common industrial chemicals such as gamma butyrolactone and 1.4-butanediol are swiftly converted by the body into GHB. Illicit use of these and other GHB analogues and precursor chemicals is a significant and growing law enforcement problem.
 
-&emsp;“(5) A human pharmaceutical formulation of gamma hydroxybutyric acid is being developed as a treatment for cataplexy, a serious and debilitating disease. Cataplexy, which causes sudden and total loss of muscle control, affects about 65 percent of the estimated 180,000 Americans with narcolepsy, a sleep disorder. People with cataplexy often are unable to work, drive a car, hold their children or live a normal life.
+&emsp;“(5) A human pharmaceutical formulation of gamma hydroxybutyric acid is being developed as a treatment for cataplexy, a serious and debilitating disease. Cataplexy, which causes sudden and total loss of muscle control, affects about 65 percent of theestimated 180,000 Americans with narcolepsy, a sleep disorder. People with cataplexy often are unable to work, drive a car, hold their children or live a normal life.
 
 &emsp;“(6) Abuse of illicit GHB is an imminent hazard to public safety that requires immediate regulatory action under the Controlled Substances Act (21 U.S.C. 801 et seq.).
 

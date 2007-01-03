@@ -18,7 +18,7 @@
 
 &emsp;In addition to the requirements of paragraph (1), the Administrator shall—
 
-&emsp;&emsp;(A) determine whether the private capital of each licensee is adequate to assure a reasonable prospect that the licensee will be operated soundly and profitably, and managedactively and prudently in accordance with its articles; and
+&emsp;&emsp;(A) determine whether the private capital of each licensee is adequate to assure a reasonable prospect that the licensee will be operated soundly and profitably, and managed actively and prudently in accordance with its articles; and
 
 &emsp;&emsp;(B) determine that the licensee will be able <sup>1</sup> both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company's owners and managers, the history of the company as an entity, if any, and the company's financial resources.
 
@@ -44,7 +44,7 @@
 
 The Administrator shall ensure that the management of each licensee licensed after September 30, 1996, is sufficiently diversified from and unaffiliated with the ownership of the licensee in a manner that ensures independence and objectivity in the financial management and oversight of the investments and operations of the licensee.
 
-(Pub. L. 85–699, title III, §302, Aug. 21, 1958, 72 Stat. 692; Pub. L. 86–502, §5, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §3, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §2, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §§203(a), 204, Oct. 11, 1967, 81 Stat. 269, 270; Pub. L. 94–305, title I, §§106(e), 107, June 4, 1976, 90 Stat. 666; Pub. L. 95–89, title II, §210, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–507, title I, §105, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 102–366, title IV, §§406(a), 409, Sept. 4, 1992, 106 Stat. 1015, 1017; Pub. L. 104–208, div. D, title II, §208(c), Sept. 30, 1996, 110 Stat. 3009–742; Pub. L. 105–135, title II, §215(a), Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–554, §1(a)(9) \[title IV, §403\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
+(Pub. L. 85–699, title III, §302, Aug. 21, 1958, 72 Stat. 692; Pub. L. 86–502, §5, June 11, 1960, 74Stat. 196; Pub. L. 87–341, §3, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §2, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §§203(a), 204, Oct. 11, 1967, 81 Stat. 269, 270; Pub. L. 94–305, title I, §§106(e), 107, June 4, 1976, 90 Stat. 666; Pub. L. 95–89, title II, §210, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–507, title I, §105, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 102–366, title IV, §§406(a), 409, Sept. 4, 1992, 106 Stat. 1015, 1017; Pub. L. 104–208, div. D, title II, §208(c), Sept. 30, 1996, 110 Stat. 3009–742; Pub. L. 105–135, title II, §215(a), Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–554, §1(a)(9) \[title IV, §403\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 90–104, §204, substituted prohibition against bank acqui
 
 1964—Subsec. (a). Pub. L. 88–273 increased the limitation on Administration purchase of debentures from $400,000 to $700,000 and extended the period for such purchase from three years after date of issuance of license or date of enactment of Pub. L. 87–341, the Small Business Investment Act Amendments of 1961 (Oct. 3, 1961), whichever is later, to five years after date of issuance of license or date of enactment of Pub. L. 88–273, the Small Business Investment Act Amendments of 1963 (Feb. 28, 1964), whichever is later.
 
-1961—Subsec. (a). Pub. L. 87–341, §3(a), inserted “and growth”, limited the purchase of debentures to the extent that necessary funds are not available to the company involved from private sources on reasonable terms, increased the amount of purchasable debentures to not more than the lesser of $400,000 or the paid-in capital and surplus of the company from other sources, and restricted such purchases to such period as may be fixed by the Administration, but not ending more than three years after the date of issuance of the company's license under section 681c of this title, or Oct. 3, 1961, whichever is later, and deleted provisions limiting purchase of debentures to $150,000.
+1961—Subsec. (a). Pub. L. 87–341, §3(a), inserted “and growth”, limited the purchase of debentures to the extent that necessary funds are not available to the company involved from private sources on reasonable terms, increased the amount of purchasable debenturesto not more than the lesser of $400,000 or the paid-in capital and surplus of the company from other sources, and restricted such purchases to such period as may be fixed by the Administration, but not ending more than three years after the date of issuance of the company's license under section 681c of this title, or Oct. 3, 1961, whichever is later, and deleted provisions limiting purchase of debentures to $150,000.
 
 Subsec. (b). Pub. L. 87–341, §3(b), increased the maximum amount of shares a bank may hold in small business investment companies to 2 percent of the capital and surplus.
 

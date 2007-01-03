@@ -54,7 +54,7 @@ Sources of funds.—Community injection funds may be derived, in whole or in par
 
 &emsp;&emsp;(ii)
 
-Funding from institutions.—Not less than 50 percent of the total cost of any project financed pursuant to clauses <sup>1</sup> (i), (ii), or (iii) of subparagraph (C) shall come from the institutions described in subclauses (I), (II), and (III) of clause (i).
+Funding from institutions.—Not less than 50 percent of the total cost of anyproject financed pursuant to clauses <sup>1</sup> (i), (ii), or (iii) of subparagraph (C) shall come from the institutions described in subclauses (I), (II), and (III) of clause (i).
 
 &emsp;(C)
 
@@ -92,7 +92,7 @@ Appraisals.—With respect to commercial real property provided by the small bus
 
 (5)
 
-Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted smallbusiness to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
+Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted small business to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
 
 (6)
 

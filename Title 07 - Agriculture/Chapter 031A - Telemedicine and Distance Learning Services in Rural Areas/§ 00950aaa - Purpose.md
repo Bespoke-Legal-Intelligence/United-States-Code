@@ -1,16 +1,16 @@
 ### §950aaa. Purpose
 
-The purpose of this chapter is to encourage and improve telemedicine services and distancelearning services in rural areas through the use of telecommunications, computer networks, and related advanced technologies by students, teachers, medical professionals, and rural residents.
+The purpose of this chapter is to encourage and improve telemedicine services and distance learning services in rural areas through the use of telecommunications, computer networks, and related advanced technologies by students, teachers, medical professionals, and rural residents.
 
 (Pub. L. 101–624, title XXIII, §2331, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1108.)
-
-#### Prior Provisions
-
-A prior section 950aaa, Pub. L. 101–624, title XXIII, §2331, Nov. 28, 1990, 104 Stat. 4017, provided purposes of chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Termination of Section
 
 <i>For termination of section by section 1(b) of Pub. L. 102–551, see Termination of Chapter note set out below.</i>
+
+#### Prior Provisions
+
+A prior section 950aaa, Pub. L. 101–624, title XXIII, §2331, Nov. 28, 1990, 104 Stat. 4017, provided purposes of chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Termination of Chapter
 

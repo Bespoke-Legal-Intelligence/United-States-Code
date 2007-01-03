@@ -4,11 +4,11 @@
 
 Congress finds the following:
 
-&emsp;(1) Organizational camps, such as those administered by the Boy Scouts, Girl Scouts, and faith-based and community-based organizations, provide a valuable service to young people, individuals with a disability, and their families by promoting physical, mental, andspiritual health through activities conducted in a natural environment.
+&emsp;(1) Organizational camps, such as those administered by the Boy Scouts, Girl Scouts, and faith-based and community-based organizations, provide a valuable service to young people, individuals with a disability, and their families by promoting physical, mental, and spiritual health through activities conducted in a natural environment.
 
 &emsp;(2) The 192,000,0000 <sup>1</sup> acres of national forests and grasslands of the National Forest System managed for multiple uses by the Forest Service provides an ideal setting for such organizational camps.
 
-&emsp;(3) The Federal Government should charge land use fees for the occupancy and use of National Forest System lands by such organizational camps that, while based on the fair market value of the land in use, also recognize the benefits provided to society by such organizational camps, do not preclude the ability of such organizational camps from utilizing these lands, and permit capital investment in, and maintenance of, camp facilities by such organizational camps or their sponsoring organizations.
+&emsp;(3) The Federal Government should charge land use fees for the occupancy and use of National Forest System lands by such organizational camps that, while based on the fairmarket value of the land in use, also recognize the benefits provided to society by such organizational camps, do not preclude the ability of such organizational camps from utilizing these lands, and permit capital investment in, and maintenance of, camp facilities by such organizational camps or their sponsoring organizations.
 
 &emsp;(4) Organizational camps should—
 

@@ -50,7 +50,7 @@
 
 #### (B) Initial appointments to new member positions
 
-&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph\(2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
+&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
 
 #### (C) Subsequent appointments to new member positions
 
@@ -160,5 +160,5 @@ Section 103(d) of Pub. L. 103–232 provided that: “The Secretary of the Inter
 
 #### Authority of Board Not Affected
 
-Section 103(e) of Pub. L. 103–232 provided that: “The authority of the Board of Directors of the National Fish and Wildlife Foundation to take any action otherwise authorized by law shall not be affected by reason of the Secretary of the Interior not having completed the appointment of Directors of the Board of Directors of the National Fish and Wildlife Foundation pursuant to the amendment made by subsection (b)(1) \[amending this section\].”
+Section 103(e) of Pub. L. 103–232 provided that: “The authority of the Board of Directors of the NationalFish and Wildlife Foundation to take any action otherwise authorized by law shall not be affected by reason of the Secretary of the Interior not having completed the appointment of Directors of the Board of Directors of the National Fish and Wildlife Foundation pursuant to the amendment made by subsection (b)(1) \[amending this section\].”
 

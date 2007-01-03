@@ -68,7 +68,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) a financial contract between a person and a consumer which is in force;
 
-&emsp;&emsp;(B) the purchase, rental, or lease by the consumer of that person's goods or services,or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section;
+&emsp;&emsp;(B) the purchase, rental, or lease by the consumer of that person's goods or services, or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section;
 
 &emsp;&emsp;(C) an inquiry or application by the consumer regarding a product or service offered by that person, during the 3-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section; or
 
@@ -76,7 +76,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Solicitation
 
-&emsp;The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
+&emsp;The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the generalpublic or determined not to be a solicitation by the regulations prescribed under this section.
 
 (Pub. L. 90–321, title VI, §624, as added Pub. L. 108–159, title II, §214(a)(2), Dec. 4, 2003, 117 Stat. 1980.)
 
@@ -164,7 +164,7 @@ Followup reports.—The Federal banking agencies, the National Credit Union Admi
 
 &emsp;&emsp;“(i) documents any changes in the areas of study referred to in paragraph (2)(A) occurring since the date of submission of the previous report;
 
-&emsp;&emsp;“(ii) identifies any changes in the practices of financial institutions and other creditors and users of consumer reports in sharing consumer information with their affiliates for the purpose of makingunderwriting decisions or credit evaluations of consumers occurring since the date of submission of the previous report; and
+&emsp;&emsp;“(ii) identifies any changes in the practices of financial institutions and other creditors and users of consumer reports in sharing consumer information with their affiliates for the purpose of making underwriting decisions or credit evaluations of consumers occurring since the date of submission of the previous report; and
 
 &emsp;&emsp;“(iii) examines the effects that changes described in clause (ii) have had, if any, on the degree to which such affiliate sharing practices reduce the need for financial institutions, creditors, and other users of consumer reports to rely on consumer reports for such decisions.”
 

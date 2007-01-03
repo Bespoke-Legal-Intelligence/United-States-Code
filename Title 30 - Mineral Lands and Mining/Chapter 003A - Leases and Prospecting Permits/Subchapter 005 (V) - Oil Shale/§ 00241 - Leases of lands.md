@@ -30,7 +30,7 @@ With respect to gilsonite (including all vein-type solid hydrocarbons) a lease u
 
 (4) The Secretary may issue offsite leases after consideration of the need for such lands, impacts on the environment and other resource values, and upon a determination that the public interest will be served thereby.
 
-(5) An offsite lease for lands the surface of which is under the jurisdiction of a Federalagency other than the Department of the Interior shall be issued only with the consent of that other Federal agency and shall be subject to such terms and conditions as it may prescribe.
+(5) An offsite lease for lands the surface of which is under the jurisdiction of a Federal agency other than the Department of the Interior shall be issued only with the consent of that other Federal agency and shall be subject to such terms and conditions as it may prescribe.
 
 (6) An offsite lease shall be for such periods of time and shall include such lands, subject to the acreage limitations contained in this subsection, as the Secretary determines to be necessary to achieve the purposes for which the lease is issued, and shall contain such provisions as he determines are needed for protection of environmental and other resource values.
 

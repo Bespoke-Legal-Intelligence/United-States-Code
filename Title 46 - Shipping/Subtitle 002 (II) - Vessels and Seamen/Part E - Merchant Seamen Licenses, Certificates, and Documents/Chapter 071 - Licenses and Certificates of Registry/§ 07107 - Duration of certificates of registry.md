@@ -28,7 +28,3 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 For provisions that a certificate of registry issued before Aug. 18, 1990, terminates on the day it would have expired if the amendment to this section by Pub. L. 101–380 were in effect on date it was issued and was renewed at the end of each 5-year period under this section, see section 4102(d) of Pub. L. 101–380, set out as a note under section 7106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7108 of this title.
-

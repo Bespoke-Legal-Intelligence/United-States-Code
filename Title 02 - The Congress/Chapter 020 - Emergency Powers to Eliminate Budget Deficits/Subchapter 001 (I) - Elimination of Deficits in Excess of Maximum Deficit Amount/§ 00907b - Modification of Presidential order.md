@@ -8,7 +8,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### (1) Referral to committee
 
-&emsp;A joint resolution introduced in the Senate under subsection (a) of this section shall notbe referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
+&emsp;A joint resolution introduced in the Senate under subsection (a) of this section shall not be referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
 
 #### (2) Consideration in Senate
 
@@ -54,13 +54,13 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### (8) Senate action on House resolution
 
-&emsp;If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is notidentical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
+&emsp;If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
 (Pub. L. 99–177, title II, §258A, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–595.)
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 

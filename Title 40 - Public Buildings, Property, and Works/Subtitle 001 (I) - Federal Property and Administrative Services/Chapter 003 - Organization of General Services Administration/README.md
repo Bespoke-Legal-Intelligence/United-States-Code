@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [301\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2000301%20-%20Establishment.md) | Establishment. |
 | [302\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2000302%20-%20Administrator%20and%20Deputy%20Administrator.md) | Administrator and Deputy Administrator. |
-| [303\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2000303%20-%20Functions.md) | Functions. |
+| [303\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2000303%20-%20Federal%20Acquisition%20Service.md) | Federal Acquisition Service. |
 | [304\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2000304%20-%20Federal%20information%20centers.md) | Federal information centers. |
 | [305\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2000305%20-%20Electronic%20Government%20and%20information%20technologies.md) | Electronic Government and information technologies. |
 
@@ -26,13 +26,15 @@
 
 |  |  |
 | :--- | ---: |
-| [321\.](Subchapter%20003%20%28III%29%20-%20Funds/%C2%A7%2000321%20-%20General%20Supply%20Fund.md) | General Supply Fund. |
-| [322\.](Subchapter%20003%20%28III%29%20-%20Funds/%C2%A7%2000322%20-%20Information%20Technology%20Fund.md) | Information Technology Fund. |
+| [321\.](Subchapter%20003%20%28III%29%20-%20Funds/%C2%A7%2000321%20-%20Acquisition%20Services%20Fund.md) | Acquisition Services Fund. |
+| \[322. | Repealed.\] |
 | [323\.](Subchapter%20003%20%28III%29%20-%20Funds/%C2%A7%2000323%20-%20Consumer%20Information%20Center%20Fund.md) | Consumer Information Center Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–313, §§2(a)(2), 3(h)(3), Oct. 6, 2006, 120 Stat. 1734, 1736, substituted “Federal Acquisition Service” for “Functions” in item 303 and “Acquisition Services Fund” for “General Supply Fund” in item 321 and struck out item 322 “Information Technology Fund”.
 
 2002—Pub. L. 107–347, title I, §102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
 

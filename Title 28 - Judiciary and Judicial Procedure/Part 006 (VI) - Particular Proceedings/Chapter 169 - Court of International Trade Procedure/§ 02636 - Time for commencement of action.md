@@ -16,7 +16,7 @@
 
 (f) A civil action involving an application for the issuance of an order making confidential information available under section 777(c)(2) of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade within ten days after the date of the denial of the request for such confidential information.
 
-(g) A civil action contesting the denial or revocation by the Secretary of the Treasury of a customs broker's license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act, is barred unless commenced in accordance with the rules of theCourt of International Trade within sixty days after the date of the entry of the decision or order of such Secretary.
+(g) A civil action contesting the denial or revocation by the Secretary of the Treasury of a customs broker's license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act, is barred unless commenced in accordance with the rules of the Court of International Trade within sixty days after the date of the entry of the decision or order of such Secretary.
 
 (h) A civil action contesting the denial, suspension, or revocation by the Customs Service of a private laboratory's accreditation under section 499(b) of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade within 60 days after the date of the decision or order of the Customs Service.
 
@@ -44,7 +44,7 @@ Section 499(b) of the Tariff Act of 1930, referred to in subsec. (h), is classif
 
 #### Prior Provisions
 
-A prior section 2636, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, §117, 84 Stat. 280, related to analysis of imported merchandise, prior to the general revision of this chapter by Pub. L. 96–417. See section 2642 of this title.
+A prior section 2636, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, §117, 84Stat. 280, related to analysis of imported merchandise, prior to the general revision of this chapter by Pub. L. 96–417. See section 2642 of this title.
 
 #### Amendments
 

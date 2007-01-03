@@ -4,11 +4,11 @@
 
 #### (1) Bilateral assistance
 
-&emsp;Fifty percent of the United States assistance allocated each fiscal year in the report required by section 2413 of this title for each major illicit drug producing country or major drug-transit country shall be withheld from obligation and expenditure, except as provided in subsection (b) of this section. This paragraph shall not apply with respect to a country if the President determines that its application to that country would be contrary to the national interest of the United States, except that any such determination shall not take effect until at least 15 days after the President submits written notification of that determination to the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
+&emsp;Fifty percent of the United States assistance allocated each fiscal year in the report required by section 2413 of this title for each major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title shall be withheld from obligation and expenditure, except as provided in subsection (b) of this section. This paragraph shall not apply with respect to a country if the President determines that its application to that country would be contrary to the national interest of the United States, except that any such determination shall not take effect until at least 15 days after the President submits written notification of that determination to the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
 
 #### (2) Multilateral assistance
 
-&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section), except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and the European Bank for Reconstruction and Development.
+&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section) or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title, except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and the European Bank for Reconstruction and Development.
 
 #### (b) Certification procedures
 
@@ -44,7 +44,7 @@ The President may make a certification under subsection (b)(1)(A) of this sectio
 
 #### (d) Congressional review
 
-Subsection (e) of this section shall apply if, within 30 calendar days after receipt of a certification submitted under subsection (b) of this section at the time of submission of the report required by section 2291h(a) of this title, the Congress enacts a joint resolution disapproving the determination of the President contained in such certification.
+Subsection (e) of this section shall apply if, within 30 calendar days after receipt of a certification submitted under subsection (b) of this section at the time of submission of the reportrequired by section 2291h(a) of this title, the Congress enacts a joint resolution disapproving the determination of the President contained in such certification.
 
 #### (e) Denial of assistance for countries decertified
 
@@ -84,7 +84,7 @@ Any joint resolution under this section shall be considered in the Senate in acc
 
 Not later than November 1 of each year, the President shall notify the appropriate committees of the Congress of which countries have been determined to be major drug-transit countries, and which countries have been determined to be major illicit drug producing countries, for purposes of this chapter.
 
-(Pub. L. 87–195, pt. I, §490, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4924; amended Pub. L. 103–447, title I, §101(g)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(d), Dec. 21, 1995, 109 Stat. 724.)
+(Pub. L. 87–195, pt. I, §490, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4924; amended Pub. L. 103–447, title I, §101(g)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(d), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(b), Mar. 9, 2006, 120 Stat. 268.)
 
 #### References in Text
 
@@ -93,6 +93,10 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–177, §722(b)(1), substituted “major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title” for “major illicit drug producing country or major drug-transit country”.
+
+Subsec. (a)(2). Pub. L. 109–177, §722(b)(2), inserted “or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title” after “(as determined under subsection (h) of this section)”.
 
 1995—Pub. L. 104–66, §1112(d)(1), struck out “for fiscal year 1995” after “certification procedures” in section catchline.
 

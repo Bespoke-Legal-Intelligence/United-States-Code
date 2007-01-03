@@ -40,5 +40,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Landing of Catch of Fish by Foreign Vessels
 
-Section 6 of Pub. L. 87–814 provided that: “Nothing in this Act \[amending this section and sections 955 to 957, 959 of this title\] shall be construed to amend or repeal the provisions of section 4311 of the Revised Statutes, as amended (46 U.S.C. 251).”
+Pub. L. 87–814, §6, Oct. 15, 1962, 76 Stat. 926, provided that: “Nothing in this Act \[amending this section and sections 955 to 957, 959 of this title\] shall be construed to amend or repeal the provisions of section 4311 of the Revised Statutes, as amended (\[former\] 46 U.S.C. \[App.\] 251) \[see 46 U.S.C. 55114\].”
 

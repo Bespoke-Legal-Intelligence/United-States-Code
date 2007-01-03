@@ -2,7 +2,7 @@
 
 #### (a) Defendant's state of mind
 
-In a Y2K action other than a claim for breach or repudiation of contract, and in which the defendant's actual or constructive awareness of an actual or potential Y2K failure is an element of the claim, the defendant is not liable unless the plaintiff establishes that element of the claim by the standard of evidence under applicableState law in effect on the day before January 1, 1999.
+In a Y2K action other than a claim for breach or repudiation of contract, and in which the defendant's actual or constructive awareness of an actual or potential Y2K failure is an element of the claim, the defendant is not liable unless the plaintiff establishes that element of the claim by the standard of evidence under applicable State law in effect on the day before January 1, 1999.
 
 #### (b) Limitation on bystander liability for Y2K failures
 
@@ -38,5 +38,5 @@ The protections for the exchanges of information provided by section 4 of the Ye
 
 #### References in Text
 
-Section 4 of the Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (d), is section 4 of Pub. L. 105–271, which is set out in a note under section 1 of this title.
+Section 4 of the Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (d), is section 4 of Pub. L. 105–271, which was formerly set out in a note under section 1 of this title.
 

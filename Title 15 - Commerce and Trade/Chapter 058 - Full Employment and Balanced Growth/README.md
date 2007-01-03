@@ -5,8 +5,6 @@
 | [3101\.](%C2%A7%2003101%20-%20Congressional%20findings.md) | Congressional findings. |
 | [3102\.](%C2%A7%2003102%20-%20Report%20to%20Congressional%20committees.md) | Report to Congressional committees. |
 | [3103\.](%C2%A7%2003103%20-%20National%20Employment%20Conference.md) | National Employment Conference. |
-| (a) | Organization and implementation. |
-| (b) | Subject matter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -16,26 +14,11 @@
 | :--- | ---: |
 | [3111\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003111%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [3112\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003112%20-%20Countercyclical%20employment%20policies.md) | Countercyclical employment policies. |
-| (a) | Programmatic entities. |
-| (b) | Triggering mechanism. |
 | [3113\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003113%20-%20Economic%20activity%20coordination.md) | Economic activity coordination. |
-| (a) | Federal, regional, State, local, and private sector. |
-| (b) | Fiscal needs and budget conditions. |
 | [3114\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003114%20-%20Regional%20and%20structural%20employment%20policies%20and%20programs.md) | Regional and structural employment policies and programs. |
-| (a) | Recommendation of legislation. |
-| (b) | Private sector production and employment; effect of Federal policies. |
 | [3115\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003115%20-%20Youth%20employment%20policies%20and%20programs.md) | Youth employment policies and programs. |
-| (a) | Congressional findings. |
-| (b) | Improvement and expansion. |
 | [3116\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003116%20-%20Job%20training%2C%20counseling%20and%20reservoirs%20of%20employment%20projects.md) | Job training, counseling and reservoirs of employment projects. |
-| (a) | Policies, procedures and recommendations. |
-| (b) | Utilization of authority under other laws. |
-| (c) | Establishment of project reservoirs; restrictions and requirements of new programs. |
-| (d) | Regulations. |
 | [3117\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003117%20-%20Capital%20formation.md) | Capital formation. |
-| (a) | Congressional findings. |
-| (b) | Investment Policy Report; recommendations in President's Budget; referral to Joint Economic Committee. |
-| (c) | Review in Economic Report of Federal policies and programs which affect public investments; recommendations respecting new policies or programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,13 +27,7 @@
 |  |  |
 | :--- | ---: |
 | [3131\.](Subchapter%20002%20%28II%29%20-%20Policies%20and%20Procedures%20for%20Congressional%20Review/%C2%A7%2003131%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
-| (a) | Establishment of procedures for review and action. |
-| (b) | Legislative action. |
 | [3132\.](Subchapter%20002%20%28II%29%20-%20Policies%20and%20Procedures%20for%20Congressional%20Review/%C2%A7%2003132%20-%20Committee%20review.md) | Committee review. |
-| (a) | Short-term and medium-term goals. |
-| (b) | Hearings. |
-| (c) | Report of standing and joint committees and committees with legislative jurisdiction. |
-| (d) | Report of Joint Economic Committee. |
 | [3133\.](Subchapter%20002%20%28II%29%20-%20Policies%20and%20Procedures%20for%20Congressional%20Review/%C2%A7%2003133%20-%20Exercise%20of%20rulemaking%20powers.md) | Exercise of rulemaking powers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,14 +37,7 @@
 |  |  |
 | :--- | ---: |
 | [3151\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2003151%20-%20Nondiscrimination.md) | Nondiscrimination. |
-| (a) | Exclusion from participation or denial of benefits. |
-| (b) | Noncompliance notification; remedies of Secretary of Labor. |
-| (c) | Civil action by Attorney General. |
-| (d) | Enforcement analysis in Report of President. |
 | [3152\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2003152%20-%20Labor%20standards.md) | Labor standards. |
-| (a) | Equal wages; increase in employment. |
-| (b) | Wage rates; work limitations of reservoir projects employees. |
-| (c) | Recommendations of President. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,7 +22,7 @@ Pursuant to their respective tribal resolutions, and in exchange for the benefit
 
 &emsp;Notwithstanding any provision of this subchapter—
 
-&emsp;&emsp;(A) the Indian Nations do not relinquish any right, title, or interest in any landswhich constitute the Wetbed Lands subject to the navigational servitude exercised by the United States on the Wetbed Lands. By virtue of the exercise of the navigational servitude, the United States shall not be liable to the Indian Nations for any loss they may have related to the minerals in the Wetbed Lands;
+&emsp;&emsp;(A) the Indian Nations do not relinquish any right, title, or interest in any lands which constitute the Wetbed Lands subject to the navigational servitude exercised by the United States on the Wetbed Lands. By virtue of the exercise of the navigational servitude, the United States shall not be liable to the Indian Nations for any loss they may have related to the minerals in the Wetbed Lands;
 
 &emsp;&emsp;(B) no provision of this subchapter shall be construed to extinguish or convey any water rights of the Indian Nations in the Arkansas River or any other stream or the beneficial interests or title of any of the Indian Nations in and to lands held in trust by the United States on December 13, 2002, which lie above or below the mean high water mark of the Arkansas River, except for the Disclaimed Drybed Lands; and
 

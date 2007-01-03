@@ -56,7 +56,7 @@ In addition to the Visitors <sup>1</sup> Center <sup>1</sup>, the Secretary ma
 
 #### (f) Livestock grazing
 
-(1) So long as the Secretary determines that domestic livestock grazing is compatible with the purposes for which the conservation area is established, the Secretary shall permit such use of public lands within the conservation area, to the extent such use of such lands is compatible with such purposes. Determinations as to compatibility shall be made in connection with the initial revision of management plans for the conservation area and in connection with each plan review required by subsection (a)(1)(B) of this section.
+(1) So long as the Secretary determines that domestic livestock grazing is compatible with the purposes for which the conservation area is established, the Secretary shall permit such use of public lands within the conservation area, to the extent such use of such lands is compatiblewith such purposes. Determinations as to compatibility shall be made in connection with the initial revision of management plans for the conservation area and in connection with each plan review required by subsection (a)(1)(B) of this section.
 
 (2) Any livestock grazing on public lands within the conservation area, and activities the Secretary determines necessary to carry out proper and practical grazing management programs on such lands (such as animal damage control activities) shall be managed in accordance with the Act of June 28, 1934 (43 U.S.C. 315 et seq.; commonly referred to as the “Taylor Grazing Act”), section 1752 of title 43, other laws applicable to such use and programs on the public lands, and the management plan for the conservation area.
 
@@ -70,7 +70,7 @@ Nothing in this subchapter shall be construed as constituting a grant of authori
 
 #### (i) Hydroelectric facilities
 
-Notwithstanding any provision of this subchapter, or regulations and management plansundertaken pursuant to its provisions, the Federal Energy Regulatory Commission shall retain its current jurisdiction concerning all aspects of the continued and future operation of hydroelectric facilities, licensed or relicensed under the Federal Power Act (16 U.S.C. 791a et seq.), located within the boundaries of the conservation area.
+Notwithstanding any provision of this subchapter, or regulations and management plans undertaken pursuant to its provisions, the Federal Energy Regulatory Commission shall retain its current jurisdiction concerning all aspects of the continued and future operation of hydroelectric facilities, licensed or relicensed under the Federal Power Act (16 U.S.C. 791a et seq.), located within the boundaries of the conservation area.
 
 (Pub. L. 103–64, §4, Aug. 4, 1993, 107 Stat. 305.)
 

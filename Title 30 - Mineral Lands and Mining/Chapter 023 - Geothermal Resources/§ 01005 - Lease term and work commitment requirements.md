@@ -100,7 +100,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “(1) The primary term of any geothermal lease in effect as of July 27, 1984, issued pursuant to the Geothermal \[Steam\] Act of 1970 (Public Law 91–581, 84 Stat. 1566, 30 U.S.C. 1001–1025) is hereby extended to December 31, 1988, if the Secretary of the Interior finds that—
 
-&emsp;“(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to or utilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
+&emsp;“(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to orutilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
 
 &emsp;“(b) substantial investment in the development of or for the benefit of the lease has been made; and
 
@@ -176,7 +176,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 &emsp;“(3) requiring the lessee to continuously monitor geothermal production and injection wells; and
 
-&emsp;“(4) requiring the lessee to suspend activity, temporarily or permanently, on the lease if the Secretary determines that ongoing exploration, development, or utilization activities are having a significant adverse effect on significant thermal features listedpursuant to subsection (a) of this section until such time as the significant adverse effect is eliminated.
+&emsp;“(4) requiring the lessee to suspend activity, temporarily or permanently, on the lease if the Secretary determines that ongoing exploration, development, or utilization activities are having a significant adverse effect on significant thermal features listed pursuant to subsection (a) of this section until such time as the significant adverse effect is eliminated.
 
 “(e) The Secretary of Agriculture shall consider the effects on significant thermal features of those units of the National Park System identified in subsection (a) of this section in determining whether to consent to leasing under the Geothermal Steam Act of 1970, as amended, on national forest or other lands administered by the Department of Agriculture available for leasing under the Geothermal Steam Act of 1970, as amended, including public, withdrawn, and acquired lands.
 

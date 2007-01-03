@@ -2,7 +2,7 @@
 
 #### (a) Scope of authority with respect to Federal employees and members of Armed Forces
 
-The Director of Central Intelligence may exercise the authority granted in section 4503 of title 5, with respect to Federal employees and members of the Armed Forces detailed or assigned to the Central Intelligence Agency or to the Intelligence Community Staff, in the same manneras such authority may be exercised with respect to the personnel of the Central Intelligence Agency and the Intelligence Community Staff.
+The Director of Central Intelligence may exercise the authority granted in section 4503 of title 5, with respect to Federal employees and members of the Armed Forces detailed or assigned to the Central Intelligence Agency or to the Intelligence Community Staff, in the same manner as such authority may be exercised with respect to the personnel of the Central Intelligence Agency and the Intelligence Community Staff.
 
 #### (b) Time for exercise of authority
 

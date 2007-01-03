@@ -60,7 +60,7 @@ Review of Fitness Determinations.—
 
 &emsp;(1)
 
-In general.—Not later than 45 days after an unfit owner or operator requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed tocomply and resulted in the Secretary determining that the owner or operator was not fit.
+In general.—Not later than 45 days after an unfit owner or operator requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
 &emsp;(2)
 

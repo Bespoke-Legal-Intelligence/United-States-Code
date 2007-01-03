@@ -6,7 +6,7 @@ An employee serving in a foreign area may be granted a danger pay allowance on t
 
 #### Amendments
 
-2005—Pub. L. 109–140 substituted “35 percent of the basic pay of the employee” for “25 percent of the basic pay of the employee or 35 percent of the basic pay ofthe employee in the case of an employee of the United States Agency for International Development” in two places.
+2005—Pub. L. 109–140 substituted “35 percent of the basic pay of the employee” for “25 percent of the basic pay of the employee or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development” in two places.
 
 2004—Pub. L. 108–199 inserted “or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development” after “25 percent of the basic pay of the employee” in two places.
 

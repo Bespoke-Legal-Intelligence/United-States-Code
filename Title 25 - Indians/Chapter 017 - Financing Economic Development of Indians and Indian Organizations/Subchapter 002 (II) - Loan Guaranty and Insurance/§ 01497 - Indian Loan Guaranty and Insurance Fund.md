@@ -6,7 +6,7 @@ There is hereby created an Indian Loan Guaranty and Insurance Fund (hereinafter 
 
 #### (b) Aggregate loans or surety bonds limitation
 
-The Secretary may use the fund for the purpose of fulfilling the obligations with respect to loans or surety bonds guaranteed or insured under this subchapter, but the aggregate of such loans or surety bonds which are insured or guaranteed by the Secretary shall be limited to $500,000,000.
+The Secretary may use the fund for the purpose of fulfilling the obligations with respect to loans or surety bonds guaranteed or insured under this subchapter, but the aggregate of such loans or surety bonds which are insured or guaranteed by the Secretary shall be limited to $1,500,000,000.
 
 #### (c) Assets, liabilities, and obligations of fund; loan and surety bond servicing and purchasing agreements: terms and conditions
 
@@ -14,15 +14,17 @@ All funds, claims, notes, mortgages, contracts, and property acquired by the Sec
 
 #### (d) Utilization of fund for diverse payments
 
-The Secretary may also utilize the fund to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections, and other expenses and advances to protect theSecretary for loans or surety bonds which are guaranteed or insured under this subchapter or held by the Secretary, to acquire such security property at foreclosure sale or otherwise, and to pay administrative expenses.
+The Secretary may also utilize the fund to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections, and other expenses and advances to protect the Secretary for loans or surety bonds which are guaranteed or insured under this subchapter or held by the Secretary, to acquire such security property at foreclosure sale or otherwise, and to pay administrative expenses.
 
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated for each fiscal year beginning in fiscal year 1985 such sums as may be necessary to fulfill obligations with respect to losses on loans or surety bonds guaranteed or insured under this subchapter. All collections and all moneys appropriated pursuant to the authority of this subsection shall remain available until expended.
 
-(Pub. L. 93–262, title II, §217, Apr. 12, 1974, 88 Stat. 82; Pub. L. 98–449, §7, Oct. 4, 1984, 98 Stat. 1725; Pub. L. 100–442, §§3, 4(a), (b), 5(d), Sept. 22, 1988, 102 Stat. 1763, 1764; Pub. L. 105–362, title VIII, §801(b), Nov. 10, 1998, 112 Stat. 3287.)
+(Pub. L. 93–262, title II, §217, Apr. 12, 1974, 88 Stat. 82; Pub. L. 98–449, §7, Oct. 4, 1984, 98 Stat. 1725; Pub. L. 100–442, §§3, 4(a), (b), 5(d), Sept. 22, 1988, 102 Stat. 1763, 1764; Pub. L. 105–362, title VIII, §801(b), Nov. 10, 1998, 112 Stat. 3287; Pub. L. 109–221, title IV, §401(d), May 12, 2006, 120 Stat. 343.)
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–221 substituted “$1,500,000,000” for “$500,000,000”.
 
 1998—Subsec. (f). Pub. L. 105–362 struck out subsec. (f) which read as follows: “If the Secretary determines that the amount in the fund is not sufficient to maintain an adequate level of reserves necessary to meet the responsibilities of the fund in connection with losses on loans or surety bonds guaranteed or insured under this subchapter, the Secretary shall promptly submit a report notifying Congress of the deficiencies in the fund.”
 

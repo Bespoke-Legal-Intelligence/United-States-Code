@@ -1,0 +1,34 @@
+### §1222. Physical evaluation boards
+
+(a)
+
+Response to Applications and Appeals.—The Secretary of each military department shall ensure, in the case of any member of the armed forces appearing before a physical evaluation board under that Secretary's supervision, that documents announcing a decision of the board in the case convey the findings and conclusions of the board in an orderly and itemized fashion with specific attention to each issue presented by the member in regard to that member's case. The requirement under the preceding sentence applies to a case both during initial consideration and upon subsequent consideration due to appeal by the member or other circumstance.
+
+(b)
+
+Liaison Officer (PEBLO) Requirements and Training.—(1) The Secretary of Defense shall prescribe regulations establishing—
+
+&emsp;(A) a requirement for the Secretary of each military department to make available to members of the armed forces appearing before physical evaluation boards operated by that Secretary employees, designated as physical evaluation board liaison officers, to provide advice, counsel, and general information to such members on the operation of physical evaluation boards operated by that Secretary; and
+
+&emsp;(B) standards and guidelines concerning the training of such physical evaluation board liaison officers.
+
+(2) The Secretary shall ensure compliance by the Secretary of each military department with physical evaluation board liaison officer requirements and training standards and guidelines at least once every three years.
+
+(c)
+
+Standardized Staff Training and Operations.—(1) The Secretary of Defense shall prescribe regulations on standards and guidelines concerning the physical evaluation board operated by each of the Secretaries of the military departments with regard to—
+
+&emsp;(A) assignment and training of staff;
+
+&emsp;(B) operating procedures; and
+
+&emsp;(C) timeliness of board decisions.
+
+(2) The Secretary shall ensure compliance with standards and guidelines prescribed under paragraph (1) by each physical evaluation board at least once every three years.
+
+(Added Pub. L. 109–364, div. A, title V, §597(a)(1), Oct. 17, 2006, 120 Stat. 2236.)
+
+#### Effective Date
+
+Pub. L. 109–364, div. A, title V, §597(b), Oct. 17, 2006, 120 Stat. 2237, provided that: “Section 1222 of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions rendered on cases commenced more than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
+

@@ -20,7 +20,7 @@ Dependent Defined.—In this chapter, the term “dependent”, with respect to 
 
 &emsp;&emsp;(B) the parent has been so dependent for a period prescribed by the Secretary concerned or became so dependent due to a change of circumstances arising after the member entered on active duty; and
 
-&emsp;&emsp;(C) the dependency of the parent on the member is determined on the basis of an affidavit submitted by the parent and anyother evidence required under regulations prescribed by the Secretary concerned.
+&emsp;&emsp;(C) the dependency of the parent on the member is determined on the basis of an affidavit submitted by the parent and any other evidence required under regulations prescribed by the Secretary concerned.
 
 &emsp;(4) An unmarried person who—
 

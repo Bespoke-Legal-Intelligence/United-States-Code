@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 104–127, §208(3), inserted “or in a country in the sam
 
 Subsec. (d)(2). Pub. L. 104–127, §208(4), inserted “or within a country in the same region” after “recipient country”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating tothe payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
 
 1984—Pub. L. 98–473 inserted following cl. (4): “in the case of commodities for urgent and extraordinary relief requirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;”.
 

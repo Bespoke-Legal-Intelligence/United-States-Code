@@ -36,7 +36,7 @@ The President may authorize the Department of Defense, with the assistance of th
 
 In addition to the cooperation authorized in subsections (a) and (b) of this section, the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
 
-&emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided</i>,That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
+&emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided</i>, That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
 
 &emsp;(2) to communicate or exchange with that nation Restricted Data concerning research, development, or design, of military reactors,
 
@@ -81,10 +81,6 @@ Pub. L. 103–337, §3155(a)(1), redesignated subsec. (d) as (e).
 Subsec. (b). Pub. L. 85–479, §6, authorized communication of design information, of data concerning other military applications of atomic energy necessary for the training of personnel or for the evaluation of the capabilities of potential enemies, and of data necessary to the development of compatible delivery systems for atomic weapons, and struck out provisions which prohibited communication of data which would reveal important information concerning the design or fabrication of the nuclear components of atomic weapons.
 
 Subsecs. (c), (d). Pub. L. 85–479, §7, added subsecs. (c) and (d).
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
 #### Delegation of Functions
 

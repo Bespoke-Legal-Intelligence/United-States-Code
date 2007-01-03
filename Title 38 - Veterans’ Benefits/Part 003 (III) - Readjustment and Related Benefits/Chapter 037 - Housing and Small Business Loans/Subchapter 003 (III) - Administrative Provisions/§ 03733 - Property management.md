@@ -1,6 +1,6 @@
 ### §3733. Property management
 
-(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
+(a)(1) Of the number of purchases made during any fiscal year of real property acquired by theSecretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
 
 (2) After September 30, 1990, the percentage limitations described in paragraph (1) of this subsection shall have no effect.
 
@@ -20,7 +20,7 @@
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
 
-(7) During the period that begins on the date of the enactment of the Veterans’ Benefits Act of 2003 and ends on September 30, 2013, the Secretary shall carry out the provisions of this subsection as if—
+(7) During the period that begins on December 16, 2003 <sup>1</sup> and ends on September 30, 2013, the Secretary shall carry out the provisions of this subsection as if—
 
 &emsp;(A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
 
@@ -38,13 +38,11 @@
 
 (2) For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L.102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, §404, Dec. 16, 2003, 117 Stat. 2664.)
-
-#### References in Text
-
-The date of the enactment of the Veterans’ Benefits Act of 2003, referred to in subsec. (a)(7), is the date of enactment of Pub. L. 108–183, which was approved Dec. 16, 2003.
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, §404, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title V, §503(10), June 15, 2006, 120 Stat. 416.)
 
 #### Amendments
+
+2006—Subsec. (a)(7). Pub. L. 109–233, which directed the substitution of “December 16, 2003” for “the date of the enactment of the Veterans Benefits Act of 2003”, was executed by making the substitution for “the date of the enactment of the Veterans’ Benefits Act of 2003” to reflect the probable intent of Congress.
 
 2003—Subsec. (a)(4)(A). Pub. L. 108–183, §404(b)(1)(A), (2), struck out “of this paragraph” after “subparagraph (B)” and “of this subsection” after “paragraph (1)”.
 
@@ -175,4 +173,6 @@ Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying 
 #### Report to Congress
 
 Section 6(c) of Pub. L. 100–198 directed Administrator of Veterans’ Affairs, by Mar. 1, 1990, to transmit to Congress a report of activities carried out, through Dec. 31, 1989, under paragraphs (4) and (5) of section 1816(d) of this title \[which became pars. (4) and (5) of subsec. (a) of this section\].
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

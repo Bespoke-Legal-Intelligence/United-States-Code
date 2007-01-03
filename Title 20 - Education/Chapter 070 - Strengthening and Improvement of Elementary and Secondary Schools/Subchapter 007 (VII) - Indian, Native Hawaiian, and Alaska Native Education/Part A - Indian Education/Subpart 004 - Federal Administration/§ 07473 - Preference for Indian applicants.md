@@ -1,6 +1,6 @@
 ### §7473. Preference for Indian applicants
 
-In making grants and entering into contracts or cooperative agreements under subpart 2 or subpart 3 of this part, the Secretary shall give a preference to Indian tribes, organizations, andinstitutions of higher education under any program with respect to which Indian tribes, organizations, and institutions are eligible to apply for grants, contracts, or cooperative agreements.
+In making grants and entering into contracts or cooperative agreements under subpart 2 or subpart 3 of this part, the Secretary shall give a preference to Indian tribes, organizations, and institutions of higher education under any program with respect to which Indian tribes, organizations, and institutions are eligible to apply for grants, contracts, or cooperative agreements.
 
 (Pub. L. 89–10, title VII, §7143, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1931.)
 

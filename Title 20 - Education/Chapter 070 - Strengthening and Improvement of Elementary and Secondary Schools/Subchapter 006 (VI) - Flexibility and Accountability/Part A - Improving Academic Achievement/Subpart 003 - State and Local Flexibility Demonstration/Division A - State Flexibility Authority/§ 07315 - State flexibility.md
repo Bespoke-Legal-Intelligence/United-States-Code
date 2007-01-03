@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (B) Expansion of scope of the grant of authority
 
-&emsp;&emsp;Not later than 1 year after receiving a grant of flexibility authority, the State educational agency seeks to amend the grant of authority to include in the scope of the grant of authority any additional program described in section 7315a(b) of this title or any additional achievement indicators for which the State will be held accountable.
+&emsp;&emsp;Not later than 1 year after receiving a grant of flexibility authority, the State educational agency seeks to amend the grant of authority to include in the scope of the grant of authority any additional programdescribed in section 7315a(b) of this title or any additional achievement indicators for which the State will be held accountable.
 
 #### (C) Changes with respect to number of performance agreements
 
@@ -120,7 +120,7 @@ The Secretary shall—
 
 #### (A) Deemed approval
 
-&emsp;&emsp;A proposed amendment to a grant of flexibility authority submitted by a State educational agency pursuant to paragraph (1) shall be deemed to be approved by the Secretary unless the Secretary makes a writtendetermination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the proposed amendment, that the proposed amendment is not in compliance with this division.
+&emsp;&emsp;A proposed amendment to a grant of flexibility authority submitted by a State educational agency pursuant to paragraph (1) shall be deemed to be approved by the Secretary unless the Secretary makes a written determination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the proposed amendment, that the proposed amendment is not in compliance with this division.
 
 #### (B) Disapproval
 

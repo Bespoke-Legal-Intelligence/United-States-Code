@@ -64,7 +64,7 @@ For the purposes of this part—
 
 #### (f) Request by State to transfer portion of allotment
 
-In accordance with regulations, any State may file with the Surgeon General a request that a specified portion of an allotment to it under this part for grants for construction of any type of facility, or for modernization of facilities, be added to the corresponding allotment of another State for the purpose of meeting a portion of the Federal share of the cost of a project for the construction of a facility of that type in such other State, or for modernization of a facility in such other State, as the case may be. If it is found by the Surgeon General (or, in the case of a rehabilitation facility, by the Surgeon General and the Secretary) that construction or modernization of the facility with respect to which the request is made would meet needs of the State making the request and that use of the specified portion of such State's allotment, as requested by it, would assist in carrying out the purposes of this subchapter, such portion of such State's allotment shall be added to the corresponding allotment of the other State, to be used for the purpose referred to above.
+In accordance with regulations, any State may file with the Surgeon General a request that a specified portion of an allotment to it under this part for grants for construction of any type of facility, or for modernization of facilities, be added to the corresponding allotment of another State for the purpose of meeting a portion of the Federal share of the cost of a project for the construction of a facility of that type in such other State, or for modernization of a facility in such other State, as the case may be. If it is found by the Surgeon General (or, in the case of a rehabilitation facility, by the Surgeon General and the Secretary) that construction or modernization of the facility with respect to which the request is made would meet needs of the State making the request and that use of the specified portion of such State's allotment, as requested by it, would assist in carrying out thepurposes of this subchapter, such portion of such State's allotment shall be added to the corresponding allotment of the other State, to be used for the purpose referred to above.
 
 (July 1, 1944, ch. 373, title VI, §602, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 448; amended Pub. L. 90–574, title IV, §402(b), Oct. 15, 1968, 82 Stat. 1011; Pub. L. 91–296, title I, §§103(a), (b), 104, 116(a), 119(a)–(c), 122, June 30, 1970, 84 Stat. 338, 341, 343, 344.)
 
@@ -76,7 +76,7 @@ A prior section 291c, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 
 
 A prior section 291g, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 29, 1948, ch. 728, §1, 62 Stat. 1103; Oct. 25, 1949, ch. 722, §§3(b), 7, 63 Stat. 899, 901; Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Sept. 25, 1962, Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291i(a) to (d), act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 544, 62 Stat. 531; Aug. 1, 1956, ch. 852, §19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624,§29(d), 74 Stat. 419; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291i(a) to (d), act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 544, 62 Stat. 531; Aug. 1, 1956, ch. 852, §19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291n–1, act July 1, 1944, ch. 373, title VI, §637, formerly §654(c), as added July 12, 1954, ch. 471, §3, 68 Stat. 463, renumbered and amended Aug. 14, 1959, Pub. L. 86–158, title II, §201, 73 Stat. 349, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -126,7 +126,7 @@ Section 122 of Pub. L. 91–296 provided that the amendment made by that section
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -138,7 +138,7 @@ Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State h
 
 #### Allotment Study; Report to Congress
 
-Section 103(c) of Pub. L. 91–296 directed Secretary to study effects of the formula specified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such studytogether with recommendations for change to be reported to Congress on May 15, 1972.
+Section 103(c) of Pub. L. 91–296 directed Secretary to study effects of the formula specified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such study together with recommendations for change to be reported to Congress on May 15, 1972.
 
 #### Approval of Application for Modernization Prior to July 1, 1965, or Before Approval of a State Plan
 

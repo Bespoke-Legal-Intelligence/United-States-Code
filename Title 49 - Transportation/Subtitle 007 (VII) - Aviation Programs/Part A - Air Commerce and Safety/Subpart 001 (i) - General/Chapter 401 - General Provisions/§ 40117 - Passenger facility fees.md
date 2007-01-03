@@ -20,7 +20,7 @@ Eligible airport-related project.—The term “eligible airport-related project
 
 &emsp;&emsp;(B) A project for terminal development described in section 47110(d).
 
-&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airportthat did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
+&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
@@ -412,6 +412,8 @@ The date of the enactment of this subsection, referred to in subsec. (k)(1), is 
 
 The date of enactment of this subsection, referred to in subsecs. (<i>l</i>)(6) and (m)(7), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
+Regulations to carry out this subsection, referred to in subsec. (<i>l</i>)(7), were issued effective May 9, 2005, see 70 F.R. 14928.
+
 #### Amendments
 
 2003—Subsec. (a)(3)(C). Pub. L. 108–176, §123(d), substituted “A project for costs” for “for costs” and a period for the semicolon at end.
@@ -442,7 +444,7 @@ Subsec. (m). Pub. L. 108–176, §124, added subsec. (m).
 
 &emsp;“(2) ‘eligible agency’ means a public agency that controls a commercial service airport.
 
-&emsp;“(3)‘eligible airport-related project’ means a project—
+&emsp;“(3) ‘eligible airport-related project’ means a project—
 
 &emsp;&emsp;“(A) for airport development or airport planning under subchapter I of chapter 471 of this title;
 
@@ -472,7 +474,7 @@ Subsec. (j). Pub. L. 106–181, §135(b)(4), added subsec. (j).
 
 Subsec. (k). Pub. L. 106–181, §155(c), added subsec. (k).
 
-1996—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with theresponsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
+1996—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
 
 Subsec. (e)(2)(B) to (D). Pub. L. 104–287 inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “for a project the Secretary does not approve under this section before October 1, 1993, if, during the fiscal year ending September 30, 1993, the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000, except that this clause—
 

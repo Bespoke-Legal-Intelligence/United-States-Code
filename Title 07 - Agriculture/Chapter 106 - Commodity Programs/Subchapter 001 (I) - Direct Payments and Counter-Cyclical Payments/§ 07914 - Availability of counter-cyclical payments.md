@@ -72,7 +72,7 @@ The payment rate used to make counter-cyclical payments with respect to a covere
 
 #### (e) Payment amount
 
-If counter-cyclical payments are required to be paid for any of the 2002 through 2007 cropyears of a covered commodity, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+If counter-cyclical payments are required to be paid for any of the 2002 through 2007 crop years of a covered commodity, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
 
 &emsp;(1) The payment rate specified in subsection (d) of this section.
 

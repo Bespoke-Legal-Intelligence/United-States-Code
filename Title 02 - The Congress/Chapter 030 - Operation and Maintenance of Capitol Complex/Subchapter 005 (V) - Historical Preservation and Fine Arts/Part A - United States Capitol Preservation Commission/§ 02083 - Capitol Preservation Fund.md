@@ -36,7 +36,7 @@ The Secretary of the Treasury shall invest any portion of the fund that, as dete
 
 #### References in Text
 
-The Bicentennial of the United States Congress Commemorative Coin Act, referred to in subsec. (a), is Pub.L. 100–673, Nov. 17, 1988, 102 Stat. 3992, which is set out as a note under section 5112 of Title 31, Money and Finance.
+The Bicentennial of the United States Congress Commemorative Coin Act, referred to in subsec. (a), is Pub. L. 100–673, Nov. 17, 1988, 102 Stat. 3992, which is set out as a note under section 5112 of Title 31, Money and Finance.
 
 #### Codification
 

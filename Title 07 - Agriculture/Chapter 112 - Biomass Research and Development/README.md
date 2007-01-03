@@ -1,4 +1,4 @@
-### <b>CHAPTER 112—Biomass Research and Development</b>
+### <b>CHAPTER 112—BIOMASS RESEARCH AND DEVELOPMENT</b>
 
 | Sec. |  |
 | :--- | ---: |

@@ -29,8 +29,6 @@
 | [60\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000060%20-%20Army%20articles%20furnished%20to%20National%20Museum.md) | Army articles furnished to National Museum. |
 | 61 to 65. | Repealed. |
 | [65a.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000065a%20-%20Director%20of%20the%20National%20Museum.md) | Director of the National Museum. |
-| (a) | Duties; programs and studies; annual report to Congress. |
-| (b) | Authorization of appropriations. |
 | [66\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000066%20-%20Repealed.%20June%2030%2C%201949%2C%20ch.%20288%2C%20title%20VI%2C%20%C2%A7602%28a%29%2819%29%2C%2063%20Stat.%20400%2C%20eff.%20July%201%2C%201949%3B%20renumbered%20Sept.%205%2C%201950%2C%20ch.%20849%2C%20%C2%A76%28a%29%2C%20%28b%29%E2%80%A6.md) | Repealed. |
 | [67\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000067%20-%20Right%20of%20repeal.md) | Right of repeal. |
 | [68\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000068%20-%20Repealed.%20Oct.%2010%2C%201940%2C%20ch.%20851%2C%20%C2%A74%2C%2054%20Stat.%201111.md) | Repealed. |
@@ -47,20 +45,10 @@
 | [71a.](Subchapter%20002%20%28II%29%20-%20National%20Gallery%20of%20Art/%C2%A7%2000071a%20-%20Additions%3B%20payment%20of%20construction%20costs%20from%20trust%20funds.md) | Additions; payment of construction costs from trust funds. |
 | [71b.](Subchapter%20002%20%28II%29%20-%20National%20Gallery%20of%20Art/%C2%A7%2000071b%20-%20Status%20of%20completed%20addition.md) | Status of completed addition. |
 | [72\.](Subchapter%20002%20%28II%29%20-%20National%20Gallery%20of%20Art/%C2%A7%2000072%20-%20Board%20of%20Trustees.md) | Board of Trustees. |
-| (a) | Establishment. |
-| (b) | Method of selection; term of office. |
 | [73\.](Subchapter%20002%20%28II%29%20-%20National%20Gallery%20of%20Art/%C2%A7%2000073%20-%20Acceptance%20of%20gift%20from%20A.%20W.%20Mellon.md) | Acceptance of gift from A. W. Mellon. |
 | [74\.](Subchapter%20002%20%28II%29%20-%20National%20Gallery%20of%20Art/%C2%A7%2000074%20-%20Maintenance.md) | Maintenance. |
-| (a) | Pledge of funds for upkeep; authorization of appropriations. |
-| (b) | Acceptance of gifts and other property; investment of funds. |
-| (c) | Appointment and compensation of officers and employees. |
-| (d) | Review of actions of board. |
 | [74a.](Subchapter%20002%20%28II%29%20-%20National%20Gallery%20of%20Art/%C2%A7%2000074a%20-%20Permanent%20loan%20of%20funds%20by%20Board%20of%20Trustees%20to%20Treasury%3B%20semiannual%20interest%20payments%20to%20Board.md) | Permanent loan of funds by Board of Trustees to Treasury; semiannual interest payments to Board. |
 | [75\.](Subchapter%20002%20%28II%29%20-%20National%20Gallery%20of%20Art/%C2%A7%2000075%20-%20Authority%20and%20functions%20of%20the%20board.md) | Authority and functions of the board. |
-| (a) | Official seal; bylaws, rules, and regulations; quorum. |
-| (b) | Quality of works of art. |
-| (c) | Powers and obligations. |
-| (d) | Annual reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,12 +72,7 @@
 | :--- | ---: |
 | 76, 76a. | Omitted. |
 | [76b.](Subchapter%20004%20%28IV%29%20-%20Smithsonian%20Gallery%20of%20Art/%C2%A7%2000076b%20-%20Functions%20of%20Regents.md) | Functions of Regents. |
-| (a) | Solicitation of construction funds. |
-| (b) | Construction of building. |
-| (c) | Name of building; supervision and control. |
 | [76c.](Subchapter%20004%20%28IV%29%20-%20Smithsonian%20Gallery%20of%20Art/%C2%A7%2000076c%20-%20Policy%20to%20foster%20appreciation%20of%20past%20and%20contemporary%20art.md) | Policy to foster appreciation of past and contemporary art. |
-| (a) | Solicitations of private donations. |
-| (b) | Solicitation of funds to acquire and sell works of art; employ artists, award scholarships, etc. |
 | [76d.](Subchapter%20004%20%28IV%29%20-%20Smithsonian%20Gallery%20of%20Art/%C2%A7%2000076d%20-%20Donations%20of%20works%20of%20art%20from%20Government%20agencies.md) | Donations of works of art from Government agencies. |
 | [76e.](Subchapter%20004%20%28IV%29%20-%20Smithsonian%20Gallery%20of%20Art/%C2%A7%2000076e%20-%20Housing%20or%20exhibiting%20objects%20of%20art%20possessed%20by%20Smithsonian%20Institution.md) | Housing or exhibiting objects of art possessed by Smithsonian Institution. |
 | [76f.](Subchapter%20004%20%28IV%29%20-%20Smithsonian%20Gallery%20of%20Art/%C2%A7%2000076f%20-%20Appointment%2C%20compensation%2C%20and%20duties%20of%20Director%20of%20Gallery%3B%20personnel.md) | Appointment, compensation, and duties of Director of Gallery; personnel. |
@@ -102,49 +85,16 @@
 |  |  |
 | :--- | ---: |
 | [76h.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076h%20-%20Board%20of%20Trustees.md) | Board of Trustees. |
-| (a) | Establishment. |
-| (b) | General trustees. |
-| (c) | Advisory Committee on the Arts. |
 | [76i.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076i%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts.md) | John F. Kennedy Center for the Performing Arts. |
-| (a) | In general. |
-| (b) | Parking garage additions and site improvements. |
 | [76j.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076j%20-%20Duties%20of%20Board.md) | Duties of Board. |
-| (a) | Programs, activities, and goals. |
-| (b) | Restriction on additional memorials. |
 | [76k.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076k%20-%20Powers%20of%20Board.md) | Powers of Board. |
-| (a) | Solicitation and acceptance of gifts. |
-| (b) | Appointment of officers and employees. |
-| (c) | Transfer of property. |
-| (d) | Transfer of personnel. |
-| (e) | Review of Board actions. |
-| (f) | Collective bargaining. |
-| (g) | Pedestrian and vehicular access. |
 | 76<i>l.</i> | Official seal, Board vacancies and quorum, trustee powers and obligations, reports, support services, and review and audit. |
-| (a) | Adoption of seal; Board function notwithstanding vacancies; quorum. |
-| (b) | Powers and obligations of Board in respect of trust funds. |
-| (c) | Annual report of operations and finances. |
-| (d) | Inspector General. |
-| (e) | Property and personnel compensation. |
 | 76m, 76n. | Repealed. |
 | 76<i>o.</i> | Borrowing authority to finance parking facilities. |
-| (a) | Revenue bonds. |
-| (b) | Interest. |
-| (c) | Kennedy Center Revenue Bond Sinking Fund. |
 | [76p.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076p%20-%20Acceptance%20and%20disposition%20of%20gifts%20to%20the%20United%20States%20contributed%20in%20honor%20or%20memory%20of%20the%20late%20President%20John%20F.%20Kennedy.md) | Acceptance and disposition of gifts to the United States contributed in honor or memory of the late President John F. Kennedy. |
 | [76q.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076q%20-%20Sole%20national%20memorial%20to%20the%20late%20John%20F.%20Kennedy%20within%20the%20city%20of%20Washington%20and%20environs.md) | Sole national memorial to the late John F. Kennedy within the city of Washington and environs. |
 | 76q–1. | John F. Kennedy Center Plaza. |
-| (a) | Definitions. |
-| (b) | Responsibilities of the Secretary. |
-| (c) | Responsibilities of the Board. |
-| (d) | Responsibilities of the District of Columbia. |
-| (e) | Ownership. |
-| (f) | National highway boundaries. |
-| (g) | GAO review. |
 | [76r.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076r%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Maintenance, repair, and security. |
-| (b) | Capital projects. |
-| (c) | John F. Kennedy Center Plaza. |
-| (d) | Limitation on use of funds. |
 | [76s.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076s%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -154,15 +104,8 @@
 |  |  |
 | :--- | ---: |
 | [76aa.](Subchapter%20006%20%28VI%29%20-%20Joseph%20H.%20Hirshhorn%20Museum%20and%20Sculpture%20Garden/%C2%A7%2000076aa%20-%20Site%20for%20museum%20and%20sculpture%20garden.md) | Site for museum and sculpture garden. |
-| (a) | Appropriation and availability. |
-| (b) | Powers and duties of Board of Regents. |
 | [76bb.](Subchapter%20006%20%28VI%29%20-%20Joseph%20H.%20Hirshhorn%20Museum%20and%20Sculpture%20Garden/%C2%A7%2000076bb%20-%20Joseph%20H.%20Hirshhorn%20Museum%20and%20Sculpture%20Garden.md) | Joseph H. Hirshhorn Museum and Sculpture Garden. |
-| (a) | Designation; administration by Board of Regents; cooperation of Board with Secretary of the Interior. |
-| (b) | Federal funds. |
-| (c) | Uses. |
 | [76cc.](Subchapter%20006%20%28VI%29%20-%20Joseph%20H.%20Hirshhorn%20Museum%20and%20Sculpture%20Garden/%C2%A7%2000076cc%20-%20Board%20of%20Trustees.md) | Board of Trustees. |
-| (a) | Establishment; powers and duties. |
-| (b) | Membership; appointment; terms of office; vacancies. |
 | [76dd.](Subchapter%20006%20%28VI%29%20-%20Joseph%20H.%20Hirshhorn%20Museum%20and%20Sculpture%20Garden/%C2%A7%2000076dd%20-%20Director%2C%20administrator%2C%20curators%2C%20and%20other%20personnel%3B%20appointment%2C%20compensation%2C%20and%20duties.md) | Director, administrator, curators, and other personnel; appointment, compensation, and duties. |
 | [76ee.](Subchapter%20006%20%28VI%29%20-%20Joseph%20H.%20Hirshhorn%20Museum%20and%20Sculpture%20Garden/%C2%A7%2000076ee%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -173,13 +116,9 @@
 |  |  |
 | :--- | ---: |
 | [77\.](Subchapter%20007%20%28VII%29%20-%20National%20Air%20and%20Space%20Museum/%C2%A7%2000077%20-%20National%20Air%20and%20Space%20Museum.md) | National Air and Space Museum. |
-| (a) | Establishment; board; administration; reimbursement of expenses. |
-| (b) | Appointment and compensation of head of museum. |
 | [77a.](Subchapter%20007%20%28VII%29%20-%20National%20Air%20and%20Space%20Museum/%C2%A7%2000077a%20-%20Functions%20of%20museum.md) | Functions of museum. |
 | [77b.](Subchapter%20007%20%28VII%29%20-%20National%20Air%20and%20Space%20Museum/%C2%A7%2000077b%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93509%2C%20pt.%20I%2C%20%C2%A75%2C%20July%2019%2C%201966%2C%2080%20Stat.%20310.md) | Repealed. |
 | [77c.](Subchapter%20007%20%28VII%29%20-%20National%20Air%20and%20Space%20Museum/%C2%A7%2000077c%20-%20Museum%20board.md) | Museum board. |
-| (a) | Seal; regulations; vacancies. |
-| (b) | Annual report. |
 | [77d.](Subchapter%20007%20%28VII%29%20-%20National%20Air%20and%20Space%20Museum/%C2%A7%2000077d%20-%20Transfer%20or%20loan%20of%20aeronautical%20or%20space%20flight%20equipment%20to%20museum.md) | Transfer or loan of aeronautical or space flight equipment to museum. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -211,18 +150,8 @@
 |  |  |
 | :--- | ---: |
 | [80\.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board.md) | National Armed Forces Museum Advisory Board. |
-| (a) | Establishment; functions. |
-| (b) | Membership. |
-| (c) | Term of office; vacancies. |
-| (d) | Quorum. |
-| (e) | Compensation, travel and other expenses. |
-| (f) | Biennial organization; rules and regulations. |
 | [80a.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080a%20-%20Display%20of%20contributions%20of%20Armed%20Forces.md) | Display of contributions of Armed Forces. |
-| (a) | Study center; historical collections. |
-| (b) | National Air and Space Museum provisions unaffected. |
 | [80b.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080b%20-%20Selection%20of%20site.md) | Selection of site. |
-| (a) | Authorization of Board of Regents; submission of recommendations to Congress. |
-| (b) | Public exhibits and study collections; exhibits of military and naval operations. |
 | [80c.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080c%20-%20Transfer%20or%20loan%20of%20objects%2C%20equipment%20and%20records%20to%20Smithsonian%20Institution.md) | Transfer or loan of objects, equipment and records to Smithsonian Institution. |
 | [80d.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -234,21 +163,8 @@
 | :--- | ---: |
 | [80e.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080e%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [80f.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080f%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars%3B%20Board%20of%20Trustees%20of%20the%20Center.md) | Woodrow Wilson International Center for Scholars; Board of Trustees of the Center. |
-| (a) | Establishment. |
-| (b) | Composition of Board. |
-| (c) | Appointment of alternate members by members of Board. |
-| (d) | Terms of office; vacancies; reappointment. |
-| (e) | Chairman and Vice Chairman of Board. |
 | [80g.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080g%20-%20Powers%20and%20duties%20of%20Board.md) | Powers and duties of Board. |
-| (a) | Appointment of scholars; gifts, bequests, etc.; grants; location of Center; physical facilities; compensation of officers; plans and specifications for Center. |
-| (b) | Relocation assistance and programs. |
 | 80g–1. | Hubert H. Humphrey Fellowship in Social and Political Thought. |
-| (a) | Establishment in Center. |
-| (b) | Selection of Humphrey Fellow; term; compensation. |
-| (c) | Functions of Humphrey Fellow; publication and dissemination by Board of Memorial Lectures. |
-| (d) | Hubert H. Humphrey Fellowship Trust Fund; establishment, composition, investments, etc. |
-| (e) | Payments to Board from investments for implementation of Fellowship purposes. |
-| (f) | Authorization of appropriations. |
 | [80h.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080h%20-%20Administration%3B%20quorum.md) | Administration; quorum. |
 | [80i.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080i%20-%20Authorization%20of%20appropriations%3B%20limitations.md) | Authorization of appropriations; limitations. |
 | [80j.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080j%20-%20Audit%20of%20accounts.md) | Audit of accounts. |
@@ -262,19 +178,9 @@
 | [80k.](Subchapter%20012%20%28XII%29%20-%20Museum%20of%20African%20Art/%C2%A7%2000080k%20-%20Donation%20and%20transfer%20of%20lands%20and%20improvements%2C%20works%20of%20art%2C%20and%20other%20assets%20and%20property%20of%20Museum%20of%20African%20Art%20to%20Smithsonian%E2%80%A6.md) | Donation and transfer of lands and improvements, works of art, and other assets and property of Museum of African Art to Smithsonian Institution. |
 | 80<i>l.</i> | Establishment of Museum of African Art; functions. |
 | [80m.](Subchapter%20012%20%28XII%29%20-%20Museum%20of%20African%20Art/%C2%A7%2000080m%20-%20Powers%20of%20Board.md) | Powers of Board. |
-| (a) | Acquisition, retention, and disposition of property; research and education programs. |
-| (b) | Recommendations of Commission. |
 | [80n.](Subchapter%20012%20%28XII%29%20-%20Museum%20of%20African%20Art/%C2%A7%2000080n%20-%20Commission%20for%20the%20Museum%20of%20African%20Art.md) | Commission for the Museum of African Art. |
-| (a) | Establishment; duties. |
-| (b) | Membership. |
-| (c) | Terms of office. |
-| (d) | Quorum; vacancies. |
-| (e) | Travel, subsistence, and other expenses. |
-| (f) | Selection of officers; bylaws. |
 | 80<i>o.</i> | Director, officers, and employees; appointment, compensation, and duties. |
 | [80p.](Subchapter%20012%20%28XII%29%20-%20Museum%20of%20African%20Art/%C2%A7%2000080p%20-%20Funding.md) | Funding. |
-| (a) | Federal funds for Museum. |
-| (b) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -284,78 +190,21 @@
 | :--- | ---: |
 | [80q.](Subchapter%20013%20%28XIII%29%20-%20National%20Museum%20of%20the%20American%20Indian/%C2%A7%2000080q%20-%20Findings.md) | Findings. |
 | 80q–1. | National Museum of the American Indian. |
-| (a) | Establishment. |
-| (b) | Purposes. |
 | 80q–2. | Authority of Board of Regents to enter into agreement providing for transfer of Heye Foundation assets to Smithsonian Institution. |
 | 80q–3. | Board of Trustees of National Museum of the American Indian. |
-| (a) | In general. |
-| (b) | General duties and powers. |
-| (c) | Sole authority. |
-| (d) | Authority. |
-| (e) | Initial appointments to Board of Trustees. |
-| (f) | Subsequent appointments to Board of Trustees. |
-| (g) | Quorum. |
-| (h) | Expenses. |
 | 80q–4. | Director and staff of National Museum. |
-| (a) | In general. |
-| (b) | Offer of employment to Heye Foundation employees. |
-| (c) | Applicability of certain civil service laws. |
 | 80q–5. | Museum facilities. |
-| (a) | National Museum mall facility. |
-| (b) | National Museum Heye Center facility. |
-| (c) | Museum Support Center facility. |
-| (d) | Minimum square footage. |
-| (e) | Authority to contract with GSA. |
-| (f) | Limitation on obligation of Federal funds. |
 | 80q–6. | Custom House office space and auditorium. |
-| (a) | Repairs and alterations. |
-| (b) | Authorization of appropriation. |
 | 80q–7. | Audubon Terrace. |
-| (a) | In general. |
-| (b) | Determination of charges. |
-| (c) | Definition. |
 | 80q–8. | Board of Regents functions with respect to certain agreements and programs. |
-| (a) | Priority to be given to Indian organizations with respect to certain agreements. |
-| (b) | Indian programs. |
-| (c) | Indian Museum Management Fellowships. |
-| (d) | Authorization of appropriations. |
 | 80q–9. | Inventory, identification, and return of Indian human remains and Indian funerary objects in possession of Smithsonian Institution. |
-| (a) | Inventory and identification. |
-| (b) | Notice in case of identification of tribal origin. |
-| (c) | Return of Indian human remains and associated Indian funerary objects. |
-| (d) | Return of Indian funerary objects not associated with Indian human remains. |
-| (e) | Interpretation. |
-| (f) | Authorization of appropriations. |
 | 80q–9a. | Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony. |
-| (a) | Summary. |
-| (b) | Repatriation. |
-| (c) | Standard of repatriation. |
-| (d) | Museum obligation. |
-| (e) | Statutory construction. |
-| (f) | “Native Hawaiian organization” defined. |
 | 80q–10. | Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects. |
-| (a) | Establishment; duties. |
-| (b) | Membership. |
-| (c) | Access. |
-| (d) | Pay and expenses of members. |
-| (e) | Rules and administrative support. |
-| (f) | Report and termination. |
-| (g) | Nonapplicability of Federal Advisory Committee Act. |
-| (h) | Authorization of appropriations. |
 | 80q–11. | Inventory, identification, and return of Native Hawaiian human remains and Native Hawaiian funerary objects in possession of Smithsonian Institution. |
-| (a) | In general. |
-| (b) | Definitions. |
 | 80q–12. | Grants by Secretary of the Interior to assist Indian tribes with respect to agreements for return of Indian human remains and Indian funerary objects. |
-| (a) | In general. |
-| (b) | Authorization of appropriations. |
 | 80q–13. | Grants by Secretary of the Interior to assist Indian organizations with respect to renovation and repair of museum facilities and exhibit facilities. |
-| (a) | Grants. |
-| (b) | Indian organization contribution. |
-| (c) | Tribal Museum Endowment Fund. |
 | 80q–14. | Definitions. |
 | 80q–15. | Authorization of appropriations. |
-| (a) | Funding. |
-| (b) | Period of availability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -366,34 +215,13 @@
 | [80r.](Subchapter%20014%20%28XIV%29%20-%20National%20Museum%20of%20African%20American%20History%20and%20Culture/%C2%A7%2000080r%20-%20Findings.md) | Findings. |
 | 80r–1. | Definitions. |
 | 80r–2. | Establishment of Museum. |
-| (a) | Establishment. |
-| (b) | Purpose. |
 | 80r–3. | Council. |
-| (a) | Establishment. |
-| (b) | Duties. |
-| (c) | Composition and appointment. |
-| (d) | Terms. |
-| (e) | Compensation. |
-| (f) | Chairperson. |
-| (g) | Meetings. |
-| (h) | Quorum. |
 | 80r–4. | Director and staff of the Museum. |
-| (a) | Director. |
-| (b) | Staff. |
-| (c) | Pay. |
 | 80r–5. | Educational and liaison programs. |
-| (a) | In general. |
-| (b) | Grant and scholarship programs. |
 | 80r–6. | Building for the National Museum of African American History and Culture. |
-| (a) | In general. |
-| (b) | Cost sharing. |
-| (c) | Authorization of appropriations. |
 | 80r–7. | Congressional Budget Act compliance. |
 | 80r–8. | Consideration of recommendations of Presidential Commission. |
 | 80r–9. | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Availability. |
-| (c) | Use of funds for fundraising. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

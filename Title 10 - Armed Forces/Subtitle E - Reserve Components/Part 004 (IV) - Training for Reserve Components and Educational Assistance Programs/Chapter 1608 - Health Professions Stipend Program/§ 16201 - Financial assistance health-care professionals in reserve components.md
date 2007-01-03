@@ -48,7 +48,7 @@ Physicians and Dentists in Critical Wartime Specialties.—(1) Under the stipend
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (f), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
+&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determinedunder subsection (f), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as a medical officer or dental officer for service in the Ready Reserve;
 
@@ -164,5 +164,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Payments for Period Prior to December 4, 1987
 
-Section 711(e)(2) of Pub. L. 100–180 provided that: “An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), maynot obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\].”
+Section 711(e)(2) of Pub. L. 100–180 provided that: “An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\].”
 

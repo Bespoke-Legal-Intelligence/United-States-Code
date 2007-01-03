@@ -1,6 +1,0 @@
-### §5213. Carrier operations; receipts; expenditures
-
-The Postal Service shall request any carrier transporting the mails to furnish, under seal, such data relating to the operations, receipts, and expenditures of such carrier as may, in its judgment, be deemed necessary to enable it to ascertain the cost of mail transportation and the proper compensation to be paid for such service.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771.)
-

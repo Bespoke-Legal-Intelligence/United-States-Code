@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Director of the Institute may designate National Drug Abuse Research Centers for the purpose of interdisciplinary research relating to drug abuse and other biomedical, behavioral, and social issues related to drug abuse. No entity may be designated as a Center unless an application therefore has been submitted to, and approved by, the Secretary. Such an applicationshall be submitted in such manner and contain such information as the Secretary may reasonably require. The Secretary may not approve such an application unless—
+The Director of the Institute may designate National Drug Abuse Research Centers for the purpose of interdisciplinary research relating to drug abuse and other biomedical, behavioral, and social issues related to drug abuse. No entity may be designated as a Center unless an application therefore has been submitted to, and approved by, the Secretary. Such an application shall be submitted in such manner and contain such information as the Secretary may reasonably require. The Secretary may not approve such an application unless—
 
 &emsp;(1) the application contains or is supported by reasonable assurances that—
 
@@ -54,17 +54,7 @@ The Director of the Institute shall, under such conditions as the Secretary may 
 
 &emsp;The Director shall promptly disseminate research results under this subsection to Federal, State, and local entities involved in combating drug abuse and addiction.
 
-#### (4) Authorization of appropriations
-
-#### (A) In general
-
-&emsp;&emsp;There are authorized to be appropriated to carry out this subsection such sums as may be necessary for each fiscal year.
-
-#### (B) Supplement not supplant
-
-&emsp;&emsp;Amounts appropriated pursuant to the authorization of appropriations in subparagraph (A) for a fiscal year shall supplement and not supplant any other amounts appropriated in such fiscal year for research on drug abuse and addiction.
-
-(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, §2203, Nov. 2, 2002, 116 Stat. 1794.)
+(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, §2203, Nov. 2, 2002, 116 Stat. 1794; Pub. L. 109–482, title I, §103(b)(34), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### References in Text
 
@@ -72,11 +62,17 @@ Section 292a of this title, referred to in subsec. (b), was in the original a re
 
 #### Amendments
 
+2007—Subsec. (c)(4). Pub. L. 109–482 struck out par. (4) which authorized appropriations and provided they were supplemental to other funding of research on drug abuse.
+
 2002—Subsec. (c). Pub. L. 107–273 amended heading and text of subsec. (c) generally, substituting provisions relating to grants or cooperative agreements for research and clinical trials relating to drug abuse and addiction for similar provisions relating to grants or cooperative agreements for research and clinical trials relating to methamphetamine abuse and addiction.
 
 2000—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 
 1992—Subsec. (b). Pub. L. 102–352 substituted “292a(1)” for “292a(2)”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1992 Amendment
 

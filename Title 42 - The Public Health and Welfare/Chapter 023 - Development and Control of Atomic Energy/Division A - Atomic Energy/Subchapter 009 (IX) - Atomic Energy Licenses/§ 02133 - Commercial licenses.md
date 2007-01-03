@@ -34,10 +34,6 @@ Each license issued for a utilization facility under this section or section 213
 
 Subsec. (d). Act Aug. 6, 1956, §13, inserted “an alien or any” after “issued to”.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “(e)”.</i>

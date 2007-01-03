@@ -1,6 +1,6 @@
 ### §§776 to 776f. Repealed. Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15
 
-Section 776, acts July 29, 1947, ch. 345, §2, 61 Stat. 511; July 11, 1957, Pub. L. 85–102, §§1–3, 71 Stat. 293, provideddefinitions for this chapter. See section 3631 et seq. of this title.
+Section 776, acts July 29, 1947, ch. 345, §2, 61 Stat. 511; July 11, 1957, Pub. L. 85–102, §§1–3, 71 Stat. 293, provided definitions for this chapter. See section 3631 et seq. of this title.
 
 Section 776a, acts July 29, 1947, ch. 345, §3, 61 Stat. 511; July 11, 1957, Pub. L. 85–102, §3, 71 Stat. 294, related to unlawful acts by persons or vessels. See section 3631 et seq. of this title.
 

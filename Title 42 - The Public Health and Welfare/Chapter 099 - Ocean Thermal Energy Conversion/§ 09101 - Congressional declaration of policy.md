@@ -12,7 +12,7 @@
 
 &emsp;(5) provide for the protection of the marine and coastal environment, and consideration of the interests of ocean users, to prevent or minimize any adverse impact which might occur as a consequence of the development of such ocean thermal energy conversion facilities or plantships;
 
-&emsp;(6) make applicable certain provisions of the Merchant Marine Act, 1936 (46 U.S.C. 1177 et seq.) \[46 App. U.S.C. 1101 et seq.\] to assist in financing of ocean thermal energy conversion facilities and plantships;
+&emsp;(6) make applicable certain provisions of the Merchant Marine Act, 1936 (46 U.S.C. 1177 et seq.) <sup>1</sup> to assist in financing of ocean thermal energy conversion facilities and plantships;
 
 &emsp;(7) protect the interests of the United States in the location, construction, and operation of ocean thermal energy conversion facilities and plantships; and
 
@@ -24,7 +24,9 @@
 
 #### References in Text
 
-The Merchant Marine Act, 1936, referred to in subsec. (a)(6), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended, which is classified principally to chapter 27 (§1101 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original a reference to “this Act” meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+The Merchant Marine Act, 1936, referred to in subsec. (a)(6), is act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified principally to chapter 27 (§1101 et seq.) of the former Appendix to Title 46, Shipping. Most of this Act was repealed and restated mainly as subtitle V of Title 46, Shipping, by Pub. L. 109–304, §§8, 19, Oct. 6, 2006, 120 Stat. 1555, 1710. For complete classification ofthis Act to the Code, see Tables. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
 #### Amendments
 
@@ -37,4 +39,6 @@ Section 1 of Pub. L. 96–320 provided: “That this Act \[enacting this chapter
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

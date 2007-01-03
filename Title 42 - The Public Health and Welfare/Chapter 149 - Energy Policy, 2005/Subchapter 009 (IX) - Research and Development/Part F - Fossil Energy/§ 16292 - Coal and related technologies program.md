@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to the programs authorized under subchapter IV, the Secretary shall conduct a program of technology research, development, demonstration, and commercial application forcoal and power systems, including programs to facilitate production and generation of coal-based power through—
+In addition to the programs authorized under subchapter IV, the Secretary shall conduct a program of technology research, development, demonstration, and commercial application for coal and power systems, including programs to facilitate production and generation of coal-based power through—
 
 &emsp;(1) innovations for existing plants (including mercury removal);
 

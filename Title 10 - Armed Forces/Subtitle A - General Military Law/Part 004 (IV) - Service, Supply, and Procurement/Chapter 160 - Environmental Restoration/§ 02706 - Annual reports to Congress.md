@@ -36,7 +36,7 @@ Report on Environmental Quality Programs and Other Environmental Activities.—(
 
 (2) Each report shall include the following:
 
-&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the reportis submitted, and the fiscal year following the fiscal year in which the report is submitted.
+&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the report is submitted, and the fiscal year following the fiscal year in which the report is submitted.
 
 &emsp;(B) For each of the major activities under the environmental quality programs:
 
@@ -72,6 +72,8 @@ Report on Environmental Technology Program.—(1) The Secretary of Defense shall
 
 &emsp;&emsp;(ii) a modified schedule for meeting the performance objectives or, if a performance objective is determined to be impracticable or infeasible to meet, a statement of alternative actions to be taken with respect to the project.
 
+z
+
 (d)
 
 Definitions.—In this section:
@@ -104,7 +106,7 @@ Definitions.—In this section:
 
 “(c)
 
-Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on payments made by the Secretary to defense contractors for the costs of environmental response actions.
+Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on payments made by theSecretary to defense contractors for the costs of environmental response actions.
 
 “(2) Each such report shall include, for the fiscal year preceding the year in which the report is submitted, the following:
 
@@ -182,55 +184,7 @@ Section 357(b) of Pub. L. 101–189 provided that: “The first environmental bu
 
 #### Assessment of Environmental Remediation of Unexploded Ordnance, Discarded Military Munitions, and Munitions Constituents
 
-Pub. L. 107–107, div. A, title III, §313, Dec. 28, 2001, 115 Stat. 1051, provided that:
-
-“(a)
-
-Inclusion in 2003
-
-Report on Environmental Restoration Activities.—The Secretary of Defense shall include in the report submitted to Congress under section 2706(a) of title 10, United States Code, in 2003 a comprehensive assessment of unexploded ordnance, discarded military munitions, and munitions constituents located at current and former facilities of the Department of Defense. The assessment shall include, at a minimum, the following:
-
-&emsp;“(1) Separate estimates of the aggregate projected costs of the remediation of unexploded ordnance, discarded military munitions, and munitions constituents at—
-
-&emsp;&emsp;“(A) all operational ranges; and
-
-&emsp;&emsp;“(B) all other defense sites.
-
-&emsp;“(2) A comprehensive plan for addressing the remediation of unexploded ordinance \[sic\], discarded military munitions, and munitions constituents at defense sites, including an assessment of the funding required and the period of time over which such funding will be required.
-
-&emsp;“(3) An assessment of the technology currently available for the remediation of unexploded ordnance, discarded military munitions, and munitions constituents.
-
-&emsp;“(4) An assessment of the impact of improved technology on the cost of such remediation and a plan forthe development and use of such improved technology.
-
-“(b)
-
-Requirements for Cost Estimates.—(1) The estimates of aggregate projected costs required by subsection (a)(1) shall—
-
-&emsp;“(A) be stated as a range of aggregate projected costs, including a low estimate and a high estimate;
-
-&emsp;“(B) set forth the differing assumptions underlying each such low estimate and high estimate, including—
-
-&emsp;&emsp;“(i) any public uses for the operational ranges and other defense sites concerned that will be available after the remediation is completed;
-
-&emsp;&emsp;“(ii) the extent of the remediation required to make the operational ranges and other defense sites concerned available for such uses; and
-
-&emsp;&emsp;“(iii) the technologies to be applied to achieve such level of remediation; and
-
-&emsp;“(C) include, and identify separately, an estimate of the aggregate projected costs of the remediation of any ground water contamination that may be caused by unexploded ordnance, discarded military munitions, or munitions constituents at the operational ranges and other defense sites concerned.
-
-“(2) The high estimate of the aggregate projected costs shall be based on the assumption that all unexploded ordnance, discarded military munitions, and munitions constituents at each operational range and other defense site will be addressed, regardless of whether there are any current plans to close the range or site or discontinue training at the range or site.
-
-“(3) The estimate of the aggregate projected costs of remediation of ground water contamination under paragraph (1)(C) shall be based on a comprehensive assessment of the risk of such contamination and of the actions required to protect the ground water supplies concerned.
-
-“(4) The standards for the report of liabilities of the Department of Defense shall not apply to the cost estimates required by subsection (a)(1).
-
-“(c)
-
-Interim Assessment.—The report submitted to Congress under section 2706(a) of title 10, United States Code, in 2002 shall include the assessment required by subsection (a) to the extent that the information required to be provided as part of the assessment is available. The Secretary shall include an explanation of any limitations on the information available or qualifications on the information provided.
-
-“(d)
-
-Definitions.—In this section, the terms ‘unexploded ordnance’, ‘discarded military munitions’, ‘munitions constituents’, ‘operational range’, and ‘defense site’ have the meanings given such terms in section 2710 of title 10, United States Code, as added by section 311.”
+Pub. L. 107–107, div. A, title III, §313, Dec. 28, 2001, 115 Stat. 1051, which required the inclusion of a comprehensive assessment of unexploded ordnance, discarded military munitions, and munitions constituents located at current and former facilities of the Department of Defense in the 2002 and 2003 reports submitted to Congress under subsec. (a) of this section, was repealed by Pub. L. 109–364, div. A, title III, §313(e), Oct. 17, 2006, 120 Stat. 2139.
 
 #### First Report on Environmental Technology Program
 
@@ -242,7 +196,7 @@ Section 344(b) of Pub. L. 105–85 provided that: “The statement submitted by 
 
 #### Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973
 
-Section 324(b), (c) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Section 324(b), (c) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997,111 Stat. 1904; Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(b)
 

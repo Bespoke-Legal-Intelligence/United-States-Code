@@ -10,7 +10,7 @@ Form, Contents, and Proof of Service.—To be issued a certificate of public con
 
 (b)
 
-Notice, Response, and Actions on Applications.—(1) When an application is filed, the Secretary shall post a notice of the applicationin the office of the Secretary and give notice of the application to other persons as required by regulations of the Secretary. An interested person may file a response with the Secretary opposing or supporting the issuance of the certificate. Not later than 90 days after the application is filed, the Secretary shall—
+Notice, Response, and Actions on Applications.—(1) When an application is filed, the Secretary shall post a notice of the application in the office of the Secretary and give notice of the application to other persons as required by regulations of the Secretary. An interested person may file a response with the Secretary opposing or supporting the issuance of the certificate. Not later than 90 days after the application is filed, the Secretary shall—
 
 &emsp;(A) provide an opportunity for a public hearing on the application;
 

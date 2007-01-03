@@ -4,20 +4,12 @@
 | :--- | ---: |
 | [833\.](%C2%A7%2000833%20-%20Completion%20and%20maintenance%20of%20project%3B%20generation%20of%20electricity.md) | Completion and maintenance of project; generation of electricity. |
 | [833a.](%C2%A7%2000833a%20-%20Administration%20of%20project.md) | Administration of project. |
-| (a) | Disposal of energy; temporary administration; installation and maintenance of equipment. |
-| (b) | Construction and maintenance of electric transmission lines, substations, and interconnections. |
-| (c) | Acquisition of real and personal property. |
-| (d) | Acquisition of any property or property rights. |
-| (e) | Disposal of real and personal property. |
-| (f) | Contracts by Bureau. |
 | [833b.](%C2%A7%2000833b%20-%20Definitions.md) | Definitions. |
 | [833c.](%C2%A7%2000833c%20-%20Preference%20to%20public%20bodies%20and%20cooperatives.md) | Preference to public bodies and cooperatives. |
 | [833d.](%C2%A7%2000833d%20-%20Rate%20schedules%3B%20preparation%2C%20approval%2C%20and%20uniformity.md) | Rate schedules; preparation, approval, and uniformity. |
 | [833e.](%C2%A7%2000833e%20-%20Factors%20in%20determining%20rate%20schedules.md) | Factors in determining rate schedules. |
 | [833f.](%C2%A7%2000833f%20-%20Purchase%20of%20supplies%20and%20services.md) | Purchase of supplies and services. |
 | [833g.](%C2%A7%2000833g%20-%20Miscellaneous%20administrative%20provisions.md) | Miscellaneous administrative provisions. |
-| (a) | Accounts. |
-| (b) | Expenditures. |
 | [833h.](%C2%A7%2000833h%20-%20Personnel%3B%20appointment%20and%20compensation.md) | Personnel; appointment and compensation. |
 | [833i.](%C2%A7%2000833i%20-%20Deposit%20of%20receipts%3B%20establishment%20of%20continuing%20fund%3B%20authorization%20of%20appropriations.md) | Deposit of receipts; establishment of continuing fund; authorization of appropriations. |
 | [833j.](%C2%A7%2000833j%20-%20Suits%20for%20and%20against%20project%3B%20legal%20representation.md) | Suits for and against project; legal representation. |

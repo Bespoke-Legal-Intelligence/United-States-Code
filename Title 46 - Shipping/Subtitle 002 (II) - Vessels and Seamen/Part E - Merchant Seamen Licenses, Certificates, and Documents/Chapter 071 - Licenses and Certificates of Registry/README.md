@@ -25,10 +25,6 @@
 
 1984—Pub. L. 98–364, title IV, §402(8)(A), July 17, 1984, 98 Stat. 447, substituted “Oral examinations for licenses” for “Licenses for fishing vessels not subject to inspection” in item 7111.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1132 of Appendix to this title; title 47 section 155; title 50 App. section 1744.
-
 
 ---
 

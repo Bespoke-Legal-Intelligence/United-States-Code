@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility and Special Pay Amount.—Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $225 for any month in which—
+Eligibility and Special Pay Amount.—Under regulations prescribed by the Secretary ofDefense, a member of a uniformed service may be paid special pay at the rate of $225 for any month in which—
 
 &emsp;(1) the member was entitled to basic pay or compensation under section 204 or 206 of this title; and
 
@@ -38,7 +38,7 @@ Limitations and Administration.—(1) In the case of an area described in subpar
 
 Determinations of Fact.—Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
-(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct.17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108–375, div. A, title VI, §623(a), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §§636, 642(b), Jan. 6, 2006, 119 Stat. 3300, 3306.)
+(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108–375, div. A, title VI, §623(a), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §§636, 642(b), Jan. 6, 2006, 119 Stat. 3300, 3306.)
 
 #### Amendments
 

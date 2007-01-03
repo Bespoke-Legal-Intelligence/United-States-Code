@@ -18,7 +18,7 @@ In General.—(1) The Secretary of Defense shall use the procedures prescribed b
 
 (3) Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).
 
-(4) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by whichfunds are provided for operations that the armed forces are required to carry out under some other authority.
+(4) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
 
 (b)
 
@@ -36,7 +36,7 @@ Transfer Authority.—(1) Whenever there is an operation of the Department of De
 
 (4) The authority provided by this subsection is in addition to any other authority provided by law authorizing the transfer of amounts available to the Department of Defense. However, the Secretary may not use any such authority under another provision of law for a purpose described in paragraph (1) if there is authority available under this subsection for that purpose.
 
-(5) The authority provided by this subsection to transfer amounts may not be used to provide authority for an activity that has been denied authorization by Congress.
+(5) The authority provided by this subsection to transfer amounts may not be used to provideauthority for an activity that has been denied authorization by Congress.
 
 (6) A transfer made from one account to another under the authority of this subsection shall be deemed to increase the amount authorized for the account to which the amount is transferred by an amount equal to the amount transferred.
 

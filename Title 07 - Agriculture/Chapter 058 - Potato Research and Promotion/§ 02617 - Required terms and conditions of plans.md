@@ -28,7 +28,7 @@ Providing that the board shall prepare and submit to the Secretary for his appro
 
 #### (e) Assessment rate per poundage handled; limitation
 
-Providing that the board shall recommend to the Secretary and the Secretary shall fix the assessment rate at not more than 2 cents per one hundred pounds of potatoes handled; except that if approved by producers, and importers when importers are subject to a plan, pursuant to section 2623 of this title, the rate of assessment shall not exceed one-half of 1 per centum of the immediate past ten-calendar-year United States average price received for potatoes by growers as reported by the Department of Agriculture.
+Providing that the board shall recommend to the Secretary and the Secretary shall fix the assessment rate at not more than 2 cents per one hundred pounds of potatoes handled; except that if approved by producers, and importers when importers are subject to a plan, pursuant to section 2623 of this title, the rate of assessment shall not exceed one-half of 1 per centum of the immediate past ten-calendar-year United Statesaverage price received for potatoes by growers as reported by the Department of Agriculture.
 
 #### (f) Restrictions
 
@@ -52,7 +52,7 @@ Providing the board with authority to enter into contracts or agreements, with t
 
 Providing that the board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
 
-(Pub. L. 91–670, title III, §308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, §2, Aug. 26, 1982, 96Stat. 310; Pub. L. 98–171, §2(a), Nov. 29, 1983, 97 Stat. 1117; Pub. L. 101–624, title XIX, §1940, Nov. 28, 1990, 104 Stat. 3866.)
+(Pub. L. 91–670, title III, §308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, §2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, §2(a), Nov. 29, 1983, 97 Stat. 1117; Pub. L. 101–624, title XIX, §1940, Nov. 28, 1990, 104 Stat. 3866.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsec. (f)(1). Pub. L. 98–171, §2(a)(3), inserted “<i>Provided</i>, That t
 
 1982—Subsec. (b). Pub. L. 97–244, §2(1), substituted provisions that the board be composed of representatives of producers and the public appointed by the Secretary from nominations submitted in accordance with this subsection, that representatives of producers be nominated by producers in such manner as may be prescribed by the Secretary, that public representatives be nominated by the board in such manner as may be prescribed by the Secretary, and that, if producers fail to select nominees for appointment to the board or the board fails to nominate public representatives, the Secretary may appoint persons on the basis of representation as provided for in such plan for provisions that the board could be composed of representatives of producers selected by the Secretary from nominations made by producers in such manner as might be prescribed by the Secretary and that, in the event producers failed to select nominees for appointment to the board, the Secretary was to appoint producers on the basis of representation provided for in such plan.
 
-Subsec. (e). Pub. L. 97–244, §2(2), substituted provisions that the assessment rate include any referendum and administrative costs estimated to be incurred by the Department of Agriculture under this chapter, but that the assessment rate for fiscal year 1982 and each fiscal year thereafter not exceed one-half of 1 per centum of the immediate past ten calendar year United States average price received for potatoes by growers as reported by the Department of Agriculture, for provisions that the assessment rate could not exceed 1 cent per hundred pounds of potatoes handled.
+Subsec. (e). Pub. L. 97–244, §2(2), substituted provisions that the assessment rate include any referendum and administrative costs estimated to be incurred by the Department of Agriculture under this chapter, but that the assessment rate for fiscal year 1982 and eachfiscal year thereafter not exceed one-half of 1 per centum of the immediate past ten calendar year United States average price received for potatoes by growers as reported by the Department of Agriculture, for provisions that the assessment rate could not exceed 1 cent per hundred pounds of potatoes handled.
 
 Subsec. (f)(1). Pub. L. 97–244, §2(3), substituted “as may be authorized by the Secretary, including any referendum and administrative costs incurred by the Department of Agriculture under this chapter” for “as may be authorized by the Secretary”.
 

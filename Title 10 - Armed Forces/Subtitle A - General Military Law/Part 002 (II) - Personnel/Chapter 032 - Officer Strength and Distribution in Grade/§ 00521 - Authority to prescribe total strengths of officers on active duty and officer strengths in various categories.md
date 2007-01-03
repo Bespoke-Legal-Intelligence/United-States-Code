@@ -12,7 +12,7 @@
 
 #### Effective Date of 1991 Amendment
 
-Section 1132 of title XI of Pub. L. 102–190 provided that: “This title \[enacting sections 571 to 583 and 742 of this title, amending this section, sections 522, 597 \[now 12241\], 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 ofTitle 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and section 1009 of Title 37\] and the amendments made by this title shall take effect on February 1, 1992.”
+Section 1132 of title XI of Pub. L. 102–190 provided that: “This title \[enacting sections 571 to 583 and 742 of this title, amending this section, sections 522, 597 \[now 12241\], 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and section 1009 of Title 37\] and the amendments made by this title shall take effect on February 1, 1992.”
 
 #### Effective Date
 
@@ -24,31 +24,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Evaluation of Effects of Officer Strength Reductions on Officer Personnel Management Systems
 
-Pub. L. 102–484, div. A, title V, §502, Oct. 23, 1992, 106 Stat. 2402, provided that:
-
-“(a)
-
-Requirement for Review.—The Secretary of Defense shall provide for a federally funded research and development center that is independent of the military departments to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of the post-Cold War officer strength reductions on that officer personnel management system.
-
-“(b)
-
-Matters To Be Considered.—The review and evaluation shall include, for the officer personnel management system of each military department, the effects of the officer strength reductions on the following:
-
-&emsp;“(1) The timing and opportunities for officer promotions.
-
-&emsp;“(2) The expected lengths of officer careers.
-
-&emsp;“(3) Other features of the officer personnel management system under the Defense Officer Personnel Management Act (Public Law 96–513) \[see Tables for classification\], including the provisions of law added and amended by that Act.
-
-&emsp;“(4) Any other aspect of the officer personnel management system that the federally funded research and development center personnel conducting the review and evaluation consider appropriate or as directed by the Secretary of Defense.
-
-“(c)
-
-Report.—Not later than December 31, 1993, the federally funded research and development center shall submit to the Secretary of Defense a report on the results of the review and evaluation. Within 60 days after receiving the report, the Secretary shall transmit the report to the Committees on Armed Services of the Senate and House of Representatives. The Secretary may submit to such committees any comments that the Secretary considers appropriate regarding the matters contained in the report.
-
-“(d)
-
-Funding.—Funds appropriated for fiscal year 1993 pursuant to title II \[106 Stat. 2349, see Tables for classification\] and made available for federally funded research and development centers shall be available for the conduct of the review and evaluation under this section.”
+Pub. L. 102–484, div. A, title V, §502, Oct. 23, 1992, 106 Stat. 2402, directed the Secretary of Defense to provide for an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
 
 #### Strength of Active Duty Officer Corps
 
@@ -115,4 +91,6 @@ Exclusions.—In computing the authorized strength of commissioned officers unde
 “(c)
 
 Apportionment of Reductions by Secretary of Defense.—The Secretary of Defense shall apportion the reductions in the number of commissioned officers serving on active duty required by subsection (a) among the Army, Navy, Air Force, and Marine Corps. Not later than February 1 of each fiscal year in which reductions are required under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the manner in which the reductions have been or are to be apportioned for that fiscal year and for the next fiscal year for which such reductions are required.”
+
+§522
 

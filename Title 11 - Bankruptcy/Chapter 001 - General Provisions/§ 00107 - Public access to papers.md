@@ -10,7 +10,7 @@
 
 (c)(1) The bankruptcy court, for cause, may protect an individual, with respect to the following types of information to the extent the court finds that disclosure of such information would create undue risk of identity theft or other unlawful injury to the individual or the individual's property:
 
-&emsp;(A) Any means of identification (as defined in section 1028(d) of title 18) contained in apaper filed, or to be filed, in a case under this title.
+&emsp;(A) Any means of identification (as defined in section 1028(d) of title 18) contained in a paper filed, or to be filed, in a case under this title.
 
 &emsp;(B) Other information contained in a paper described in subparagraph (A).
 

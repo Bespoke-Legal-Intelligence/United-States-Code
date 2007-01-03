@@ -4,8 +4,6 @@
 | :--- | ---: |
 | [1881\.](%C2%A7%2001881%20-%20%E2%80%9CFederal%20supervisory%20agency%E2%80%9D%20defined.md) | “Federal supervisory agency” defined. |
 | [1882\.](%C2%A7%2001882%20-%20Security%20measures.md) | Security measures. |
-| (a) | Rules for installation, maintenance, and operation of security devices and procedures. |
-| (b) | Time for compliance with standards. |
 | [1883\.](%C2%A7%2001883%20-%20Insurance%20rates%3B%20report%20to%20Congress.md) | Insurance rates; report to Congress. |
 | [1884\.](%C2%A7%2001884%20-%20Penalties%20for%20violations.md) | Penalties for violations. |
 

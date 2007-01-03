@@ -36,7 +36,7 @@ A State may use a portion of the amounts described in subsection (a) of this sec
 
 A State may use funds provided under this subchapter to provide vouchers, for services directed at the goals set forth in section 1397 of this title, to families, including—
 
-&emsp;(1) families who have become ineligible for assistance under a State program fundedunder part A of subchapter IV of this chapter by reason of a durational limit on the provision of such assistance; and
+&emsp;(1) families who have become ineligible for assistance under a State program funded under part A of subchapter IV of this chapter by reason of a durational limit on the provision of such assistance; and
 
 &emsp;(2) families denied cash assistance under the State program funded under part A of subchapter IV of this chapter for a child who is born to a member of the family who is—
 

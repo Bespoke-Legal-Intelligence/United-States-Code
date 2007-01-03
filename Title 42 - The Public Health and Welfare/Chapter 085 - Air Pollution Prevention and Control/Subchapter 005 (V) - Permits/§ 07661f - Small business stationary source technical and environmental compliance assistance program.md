@@ -62,7 +62,7 @@ The Administrator shall direct the Agency's Office of Small and Disadvantaged Bu
 
 &emsp;(2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,<sup>2</sup> the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
 
-&emsp;(3) review information to be issued by the Small Business Stationary Source Technicaland Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
+&emsp;(3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
 
 &emsp;(4) have the Small Business Stationary Source Technical and Environmental Compliance Assistance Program serve as the secretariat for the development and dissemination of such reports and advisory opinions.
 

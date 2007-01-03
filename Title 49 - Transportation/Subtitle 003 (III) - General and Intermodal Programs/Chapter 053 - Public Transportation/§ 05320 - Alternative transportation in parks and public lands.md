@@ -54,7 +54,7 @@ Federal land management agency.—The term “Federal land management agency” 
 
 &emsp;(3)
 
-Alternative transportation.—The term “alternative transportation” means transportation by bus, rail, or any other publicly or privately owned conveyance that provides tothe public general or special service on a regular basis, including sightseeing service. Such term also includes a nonmotorized transportation system (including the provision of facilities for pedestrians, bicycles, and nonmotorized watercraft).
+Alternative transportation.—The term “alternative transportation” means transportation by bus, rail, or any other publicly or privately owned conveyance that provides to the public general or special service on a regular basis, including sightseeing service. Such term also includes a nonmotorized transportation system (including the provision of facilities for pedestrians, bicycles, and nonmotorized watercraft).
 
 &emsp;(4)
 
@@ -94,7 +94,7 @@ Qualified project.—The term “qualified project” means a planning or capita
 
 &emsp;&emsp;&emsp;(v) reduces congestion and pollution (including noise pollution and visual pollution); or
 
-&emsp;&emsp;&emsp;(vi) conserves a natural, historical, or cultural resource (excluding rehabilitation or restoration of a non-transportation facility).
+&emsp;&emsp;&emsp;(vi) conserves a natural, historical, or cultural resource (excluding rehabilitationor restoration of a non-transportation facility).
 
 (c)
 
@@ -278,7 +278,7 @@ Coordination of Research and Deployment of New Technologies.—
 
 &emsp;(1)
 
-Grants and other assistance.—The Secretary, in cooperation with the Secretary of the Interior, may undertake, or make grants,cooperative agreements, contracts (including agreements with departments, agencies, and instrumentalities of the Federal Government) or other agreements for research, development, and deployment of new technologies in eligible areas that will—
+Grants and other assistance.—The Secretary, in cooperation with the Secretary of the Interior, may undertake, or make grants, cooperative agreements, contracts (including agreements with departments, agencies, and instrumentalities of the Federal Government) or other agreements for research, development, and deployment of new technologies in eligible areas that will—
 
 &emsp;&emsp;(A) conserve resources;
 
@@ -326,5 +326,5 @@ The date of enactment of the Federal Public Transportation Act of 2005, referred
 
 #### Prior Provisions
 
-A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1), July 22, 1998, 112 Stat. 856, related to construction of a suspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
+A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1),July 22, 1998, 112 Stat. 856, related to construction of a suspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
 

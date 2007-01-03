@@ -102,7 +102,7 @@ Nothing in this section shall be construed to affect the authority of any Federa
 
 (1) Subject to the provisions of subsection (a)(1)(G) of this section (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
 
-(2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e) of this section, such injunctionmust be obtained from a Federal or State court of competent jurisdiction.
+(2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e) of this section, such injunction must be obtained from a Federal or State court of competent jurisdiction.
 
 #### (g) States’ authority to sue
 

@@ -4,14 +4,8 @@
 | :--- | ---: |
 | 190 to 190c. Repealed. |  |
 | [190d.](%C2%A7%2000190d%20-%20Legislative%20review%20by%20standing%20committees%20of%20the%20Senate%20and%20the%20House%20of%20Representatives.md) | Legislative review by standing committees of the Senate and the House of Representatives. |
-| (a) | Scope of assistance. |
-| (b) | Reports to the Senate and the House of Representatives. |
-| (c) | Exceptions. |
 | [190e.](%C2%A7%2000190e%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93510%2C%20title%20II%2C%20%C2%A7242%28b%29%281%29%2C%20Oct.%2026%2C%201970%2C%2084%20Stat.%201172.md) | Repealed. |
 | [190f.](%C2%A7%2000190f%20-%20General%20appropriation%20bills.md) | General appropriation bills. |
-| (a) | Repealed. |
-| (b) | Standard appropriation classification schedule. |
-| (c) | Nonconsideration if a provision reappropriates unexpended balances. |
 | [190g.](%C2%A7%2000190g%20-%20Nonconsideration%20of%20certain%20private%20bills%20and%20resolutions.md) | Nonconsideration of certain private bills and resolutions. |
 | 190h to 190k. Repealed. |  |
 | 190<i>l.</i> | Private claims pending before Congress; taking of testimony. |

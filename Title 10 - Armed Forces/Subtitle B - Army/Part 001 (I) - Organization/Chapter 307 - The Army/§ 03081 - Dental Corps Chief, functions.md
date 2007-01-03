@@ -12,7 +12,7 @@
 
 &emsp;(3) serve as the adviser to the Office of the Surgeon General on all matters relating directly to dentistry.
 
-(d) Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall beorganized into units commanded by a designated Dental Corps Officer. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
+(d) Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated Dental Corps Officer. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
 
 (Added Pub. L. 95–485, title VIII, §805(b)(1), Oct. 20, 1978, 92 Stat. 1621; amended Pub. L. 99–433, title V, §502(f)(3), Oct. 1, 1986, 100 Stat. 1042.)
 

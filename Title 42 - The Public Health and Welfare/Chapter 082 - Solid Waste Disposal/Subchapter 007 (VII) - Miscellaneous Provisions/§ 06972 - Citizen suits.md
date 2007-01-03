@@ -10,7 +10,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator.
 
-> Any action under paragraph (a)(1) of this subsection shall be brought in the district court for the district in which the alleged violation occurred or the alleged endangerment may occur. Any action brought under paragraph (a)(2) of this subsection may be brought in the district court for the district in which the alleged violation occurred or in the District Court of the District of Columbia. The district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B),to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title.
+> Any action under paragraph (a)(1) of this subsection shall be brought in the district court for the district in which the alleged violation occurred or the alleged endangerment may occur. Any action brought under paragraph (a)(2) of this subsection may be brought in the district court for the district in which the alleged violation occurred or in the District Court of the District of Columbia. The district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title.
 
 #### (b) Actions prohibited
 
@@ -80,7 +80,7 @@ The court, in issuing any final order in any action brought pursuant to this sec
 
 #### (f) Other rights preserved
 
-Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or requirement relating to the management of solid waste or hazardous waste, or to seek any other relief (including relief against the Administrator or a State agency).
+Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or requirement relating to the management of solid waste or hazardous waste, or to seek any other relief (includingrelief against the Administrator or a State agency).
 
 #### (g) Transporters
 

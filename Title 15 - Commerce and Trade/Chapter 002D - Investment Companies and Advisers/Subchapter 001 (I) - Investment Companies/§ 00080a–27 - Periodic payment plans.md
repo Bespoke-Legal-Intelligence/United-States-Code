@@ -34,7 +34,7 @@ Notwithstanding subsection (a) of this section, it shall be unlawful for any reg
 
 #### (e) Refund privileges; notice; rules
 
-With respect to any periodic payment plan certificate sold subject to the provisions of subsection (d) of this section, the registered investment company issuing such periodic payment plan certificate, or any depositor of or underwriter for such company, shall in writing (1) inform each certificate holder who has missed three payments or more, within thirty days following the expiration of fifteen months after the issuance of the certificate, or, if any such holder has missed one payment or more after such period of fifteen months but prior to the expiration of eighteen months after the issuance of the certificate, at any time prior to the expiration of such eighteen-month period, of his right to surrender his certificate as specified in subsection (d) of this section, and (2) inform the certificate holder of (A) the value of the holder'saccount as of the time the written notice was given to such holder, and (B) the amount to which he is entitled as specified in subsection (d) of this section. The Commission may make rules specifying the method, form, and contents of the notice required by this subsection.
+With respect to any periodic payment plan certificate sold subject to the provisions of subsection (d) of this section, the registered investment company issuing such periodic payment plan certificate, or any depositor of or underwriter for such company, shall in writing (1) inform each certificate holder who has missed three payments or more, within thirty days following the expiration of fifteen months after the issuance of the certificate, or, if any such holder has missed one payment or more after such period of fifteen months but prior to the expiration of eighteen months after the issuance of the certificate, at any time prior to the expiration of such eighteen-month period, of his right to surrender his certificate as specified in subsection (d) of this section, and (2) inform the certificate holder of (A) the value of the holder's account as of the time the written notice was given to such holder, and (B) the amount to which he is entitled as specified in subsection (d) of this section. The Commission may make rules specifying the method, form, and contents of the notice required by this subsection.
 
 #### (f) Charges, statement; rules; surrender of certificates; regulations
 
@@ -70,19 +70,33 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(A) such contract is a redeemable security; and
 
-&emsp;(B) the insurance company complies with section 80a–26(e) <sup>1</sup> of this title and any rules or regulations issued by the Commission under section 80a–26(e) <sup>1</sup> of this title.
+&emsp;(B) the insurance company complies with section 80a–26(f) of this title and any rules or regulations issued by the Commission under section 80a–26(f) of this title.
 
-(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429.)
+#### (j) Termination of sales
 
-#### References in Text
+#### (1) Termination
 
-Section 80a–26(e) of this title, referred to in subsec. (i)(2)(B), was redesignated section 80a–26(f) by Pub. L. 106–102, title II, §211(b)(1), Nov. 12, 1999, 113 Stat. 1396.
+&emsp;Effective 30 days after September 29, 2006, it shall be unlawful, subject to subsection (i)—
+
+&emsp;&emsp;(A) for any registered investment company to issue any periodic payment plan certificate; or
+
+&emsp;&emsp;(B) for such company, or any depositor of or underwriter for any such company, or any other person, to sell such a certificate.
+
+#### (2) No invalidation of existing certificates
+
+&emsp;Paragraph (1) shall not be construed to alter, invalidate, or otherwise affect any rights or obligations, including rights of redemption, under any periodic payment plan certificate issued and sold before 30 days after September 29, 2006.
+
+(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429; Pub. L. 109–290, §4(a), (b), Sept. 29, 2006, 120 Stat. 1318, 1319.)
 
 #### Amendments
 
+2006—Subsec. (i)(2)(B). Pub. L. 109–290, §4(b), substituted “section 80a–26(f)” for “section 80a–26(e)” in two places.
+
+Subsec. (j). Pub. L. 109–290, §4(a), added subsec. (j).
+
 1996—Subsec. (i). Pub. L. 104–290 added subsec. (i).
 
-1971—Subsec. (f). Pub. L. 92–165 inserted “(other than a plan under which the amount of sales load deductedfrom any payment thereon does not exceed 9 per centum of such payment)”.
+1971—Subsec. (f). Pub. L. 92–165 inserted “(other than a plan under which the amount of sales load deducted from any payment thereon does not exceed 9 per centum of such payment)”.
 
 1970—Subsecs. (d) to (h). Pub. L. 91–547 added subsecs. (d) to (h).
 
@@ -93,6 +107,4 @@ Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 1
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

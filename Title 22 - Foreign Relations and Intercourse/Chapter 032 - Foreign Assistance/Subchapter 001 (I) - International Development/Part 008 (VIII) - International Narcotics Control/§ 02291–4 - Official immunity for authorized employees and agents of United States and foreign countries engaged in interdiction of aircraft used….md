@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 &emsp;(D) A summary description of the aircraft interception activity for which the United States Government provided any form of assistance under subsection (b) of this section.
 
-(2) In the case of a report required to be submitted under paragraph (1) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
+(2) In the case of a report required to be submitted under paragraph (1) to the congressionalintelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
 
 (3) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
@@ -62,17 +62,21 @@ Subsecs. (c), (d). Pub. L. 107–108, §503(b), added subsec. (c) and redesignat
 
 The President made the determination required by subsec. (a)(2) of this section for the following countries:
 
-Colombia, Determination No. 95–7, Dec. 1, 1994, 59 F.R. 64835.
+Brazil.—Determination No. 2007–3, Oct. 16, 2006, 71 F.R. 65369.
 
-Peru, Determination No. 95–9, Dec. 8, 1994, 59 F.R. 65231.
+Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
-Colombia, Determination No. 2003–32, Aug. 18, 2003, 68 F.R. 50963.
+Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia, Determination No. 2004–42, Aug. 17, 2004, 69 F.R. 52807.
+Colombia.—Determination No. 2006–19, Aug. 17, 2006, 71 F.R. 51975.
 
-Brazil, Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
+Determination No. 2005–32, Aug. 17, 2005, 70 F.R. 50949.
 
-Colombia, Determination No. 2005–32, Aug. 17, 2005, 70 F.R. 50949.
+Determination No. 2004–42, Aug. 17, 2004, 69 F.R. 52807.
 
-Brazil, Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
+Determination No. 2003–32, Aug. 18, 2003, 68 F.R. 50963.
+
+Determination No. 95–7, Dec. 1, 1994, 59 F.R. 64835.
+
+Peru.—Determination No. 95–9, Dec. 8, 1994, 59 F.R. 65231.
 

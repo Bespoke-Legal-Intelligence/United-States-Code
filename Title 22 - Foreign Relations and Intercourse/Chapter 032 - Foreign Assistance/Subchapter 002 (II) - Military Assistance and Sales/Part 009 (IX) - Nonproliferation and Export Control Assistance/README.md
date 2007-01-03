@@ -13,3 +13,5 @@ Part IX—Nonproliferation and Export Control Assistance
 - [&sect; 02349bb&#8211;2a - International nonproliferation export control training](%C2%A7%2002349bb%E2%80%932a%20-%20International%20nonproliferation%20export%20control%20training.md)
 - [&sect; 02349bb&#8211;3 - Limitations](%C2%A7%2002349bb%E2%80%933%20-%20Limitations.md)
 - [&sect; 02349bb&#8211;4 - Authorization of appropriations](%C2%A7%2002349bb%E2%80%934%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 02349bb&#8211;5 - Proliferation interdiction assistance](%C2%A7%2002349bb%E2%80%935%20-%20Proliferation%20interdiction%20assistance.md)
+- [&sect; 02349bb&#8211;6 - Safeguarding and elimination of conventional arms](%C2%A7%2002349bb%E2%80%936%20-%20Safeguarding%20and%20elimination%20of%20conventional%20arms.md)

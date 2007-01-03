@@ -10,9 +10,6 @@
 | [1746\.](%C2%A7%2001746%20-%20Records%20and%20accounts.md) | Records and accounts. |
 | [1747\.](%C2%A7%2001747%20-%20Authorization%20of%20appropriations%3B%20determination%20of%20value%20of%20transferred%20commodity.md) | Authorization of appropriations; determination of value of transferred commodity. |
 | [1748\.](%C2%A7%2001748%20-%20Annual%20reports%20by%20agricultural%20attache%EF%BF%BDAE1s.md) | Annual reports by agricultural attache�AE1s. |
-| (a) | In general. |
-| (b) | Duties. |
-| (c) | Meeting. |
 | [1749\.](%C2%A7%2001749%20-%20Attache%EF%BF%BDAE1%20educational%20program.md) | Attache�AE1 educational program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

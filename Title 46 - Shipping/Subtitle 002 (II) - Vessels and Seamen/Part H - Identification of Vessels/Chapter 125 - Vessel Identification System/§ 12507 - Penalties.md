@@ -18,7 +18,7 @@
 
 (d) If a person, not an individual, is involved in a violation of this chapter, the president or chief executive of the person also is subject to any penalty provided under this section.
 
-(Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4737.)
+(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4737.)
 
 #### Historical and Revision Notes
 

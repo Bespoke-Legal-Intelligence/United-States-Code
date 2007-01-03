@@ -26,7 +26,7 @@ In light of the existing threat to the environment and to public health and safe
 
 &emsp;&emsp;(D) Provision for any and all approvals from Mexican authorities necessary to facilitate water quality verification and enforcement at the Mexican facility.
 
-&emsp;&emsp;(E) Any terms and conditions considered necessary to allow for use in the United States of treated effluent from the Mexican facility, if there is reclaimed water which is surplus to the needs of users in Mexico and such use is consistent with applicable United States and California law.
+&emsp;&emsp;(E) Any terms and conditions considered necessary to allow for use in the United States of treated effluent from the Mexican facility, if there is reclaimed water which issurplus to the needs of users in Mexico and such use is consistent with applicable United States and California law.
 
 &emsp;&emsp;(F) Any other terms and conditions considered necessary by the Secretary in order to implement the provisions of sections 277d–43 to 277d–46 of this title.
 

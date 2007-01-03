@@ -66,7 +66,7 @@ Duration.—
 
 &emsp;(1)
 
-In general.—Each master contract under this chapter shall be for a term of 7 years, unless terminated earlier by the Office in accordance with the terms of such contract. However, the rights and responsibilities of the enrolled individual, the insurer, and the Office (or duly designated third-party administrator) under such contract shall continue with respect to such individual until the termination of coverage of the enrolled individual or the effective date of a successor contract thereto.
+In general.—Each master contract under this chapter shall be for a term of 7 years, unless terminated earlier by the Office in accordance with the terms of such contract. However, the rights and responsibilities of the enrolled individual, the insurer, and the Office (or duly designated third-party administrator) under such contract shall continue with respect to such individual until the terminationof coverage of the enrolled individual or the effective date of a successor contract thereto.
 
 &emsp;(2)
 
@@ -82,7 +82,7 @@ Definition.—The period described in this subparagraph is the 7-year period beg
 
 &emsp;(3)
 
-Congressional notification.—No later than 180 days after receiving the second report required under section 9006(c), the President (or his designee) shall submit to the Committees on Government Reform and on Armed Services of the House of Representatives and the Committees on Governmental Affairs and on Armed Services of the Senate, a written recommendation as to whether the program under this chapter should be continued without modification, terminated, or restructured. During the 180-day period following the date on which the President (or his designee) submits the recommendation required under thepreceding sentence, the Office of Personnel Management may not take any steps to rebid or otherwise contract for any coverage to be available at any time following the expiration of the 7-year period described in paragraph (2)(B).
+Congressional notification.—No later than 180 days after receiving the second report required under section 9006(c), the President (or his designee) shall submit to the Committees on Government Reform and on Armed Services of the House of Representatives and the Committees on Governmental Affairs and on Armed Services of the Senate, a written recommendation as to whether the program under this chapter should be continued without modification, terminated, or restructured. During the 180-day period following the date on which the President (or his designee) submits the recommendation required under the preceding sentence, the Office of Personnel Management may not take any steps to rebid or otherwise contract for any coverage to be available at any time following the expiration of the 7-year period described in paragraph (2)(B).
 
 &emsp;(4)
 

@@ -50,6 +50,10 @@ Amendment by Pub. L. 97–124 applicable only with respect to claims arising on 
 
 Amendment by Pub. L. 89–506 applicable to claims accruing six months or more after July 18, 1966, see section 10 of Pub. L. 89–506, set out as a note under section 2672 of this title.
 
+#### Short Title
+
+This chapter is popularly known as the Federal Tort Claims Act. The Federal Tort Claims Act was previously the official short title of title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of this title by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted this title. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into this title, see Table at the beginning of this title.
+
 #### Severability
 
 Section 7 of Pub. L. 100–694 provided that: “If any provision of this Act \[see Short Title of 1988 Amendment note under section 1 of this title\] or the amendments made by this Act or the application of the provision to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of the provision to any other person or circumstance shall not be affected by that invalidation.”
@@ -68,7 +72,7 @@ Definitions.—In this section—
 
 “(b)
 
-Rule of Construction.—Effective on the date of the enactment of this Act \[Oct. 21, 1998\] and thereafter, and notwithstanding any other provision of law, for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability,a law enforcement officer shall be construed to be acting within the scope of his or her office or employment, if the officer takes reasonable action, including the use of force, to—
+Rule of Construction.—Effective on the date of the enactment of this Act \[Oct. 21, 1998\] and thereafter, and notwithstanding any other provision of law, for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability, a law enforcement officer shall be construed to be acting within the scope of his or her office or employment, if the officer takes reasonable action, including the use of force, to—
 
 &emsp;“(1) protect an individual in the presence of the officer from a crime of violence;
 
@@ -78,13 +82,13 @@ Rule of Construction.—Effective on the date of the enactment of this Act \[Oct
 
 #### Congressional Findings and Purposes
 
-Section 2 of Pub. L. 100–694 provided that:
+Pub. L. 100–694, §2, Nov. 18, 1988, 102 Stat. 4563, provided that:
 
 “(a)
 
 Findings.—The Congress finds and declares the following:
 
-&emsp;“(1) For more than 40 years the Federal Tort Claims Act \[28 U.S.C. 1346(b), 2671 et seq.\] has been the legal mechanism for compensating persons injured by negligent or wrongful acts of Federal employees committed within the scope of their employment.
+&emsp;“(1) For more than 40 years the Federal Tort Claims Act \[see Short Title note above\] has been the legal mechanism for compensating persons injured by negligent or wrongful acts of Federal employees committed within the scope of their employment.
 
 &emsp;“(2) The United States, through the Federal Tort Claims Act, is responsible to injured persons for the common law torts of its employees in the same manner in which the common law historically has recognized the responsibility of an employer for torts committed by its employees within the scope of their employment.
 

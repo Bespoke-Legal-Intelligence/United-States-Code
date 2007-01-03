@@ -10,11 +10,11 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(B) administer the State plan within such State;
 
-&emsp;&emsp;(C) be primarily responsible for the planning, policy development, administration,coordination, priority setting, and evaluation of all State activities related to the objectives of this chapter;
+&emsp;&emsp;(C) be primarily responsible for the planning, policy development, administration, coordination, priority setting, and evaluation of all State activities related to the objectives of this chapter;
 
 &emsp;&emsp;(D) serve as an effective and visible advocate for older individuals by reviewing and commenting upon all State plans, budgets, and policies which affect older individuals and providing technical assistance to any agency, organization, association, or individual representing the needs of older individuals; and
 
-&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordance with guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors; and
+&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordance with guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors;
 
 &emsp;(2) the State agency shall—
 
@@ -30,7 +30,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(D) submit its formula developed under subparagraph (C) to the Assistant Secretary for approval;
 
-&emsp;&emsp;(E) provide assurances that preference will be given to providing services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals and older individuals residing in rural areas, and include proposed methods of carrying out the preference in the State plan;
+&emsp;&emsp;(E) provide assurances that preference will be given to providing services to older individuals with greatest economic need and older individuals with greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas), and include proposed methods of carrying out the preference in the State plan;
 
 &emsp;&emsp;(F) provide assurances that the State agency will require use of outreach efforts described in section 3027(a)(16) of this title; and
 
@@ -38,13 +38,35 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(ii) provide an assurance that the State agency will undertake specific program development, advocacy, and outreach efforts focused on the needs of low-income minority older individuals and older individuals residing in rural areas; and
 
-&emsp;&emsp;(iii) provide a description of the efforts described in clause (ii) that will be undertaken by the State agency.
+&emsp;&emsp;(iii) provide a description of the efforts described in clause (ii) that will be undertaken by the State agency; and
 
-#### (b) Planning and service area designated; Indian reservations; redesignation; adjustment of State allotment; review by Assistant Secretary; additional planning and service areas; right to first refusal to units of local government; procedures and review of boundaries
+&emsp;(3) the State agency shall, consistent with this section, promote the development and implementation of a State system of long-term care that is a comprehensive, coordinated system that enables older individuals to receive long-term care in home and community-based settings, in a manner responsive to the needs and preferences of the older individuals and their family caregivers, by—
 
-(1) In carrying out the requirement of subsection (a)(1) of this section, the State may designate as a planning and service area any unit of general purpose local government which has a population of 100,000 or more. In any case in which a unit of general purpose local government makes application to the State agency under the preceding sentence to be designated as a planning and service area, the State agency shall, upon request, provide an opportunity for a hearing to such unit of general purpose local government. A State may designate as a planning and service area under subsection (a)(1) of this section, any region within the State recognized for purposes of areawide planning which includes one or more such units of general purpose local government when the State determines that the designation of such a regional planning and service area is necessary for, and will enhance, the effective administration of the programs authorized by this subchapter. The State may include in any planning and service area designated under subsection (a)(1) of this section such additional areas adjacent to the unit of general purpose local government or regions so designated as the State determines to be necessary for, and will enhance the effective administration of the programs authorized by this subchapter.
+&emsp;&emsp;(A) collaborating, coordinating, and consulting with other agencies in such State responsible for formulating, implementing, and administering programs, benefits, and services related to providing long-term care;
 
-(2) The State is encouraged in carrying out the requirement of subsection (a)(1) of this sectionto include the area covered by the appropriate economic development district involved in any planning and service area designated under subsection (a)(1) of this section, and to include all portions of an Indian reservation within a single planning and service area, if feasible.
+&emsp;&emsp;(B) participating in any State government activities concerning long-term care, including reviewing and commenting on any State rules, regulations, and policies related to long-term care;
+
+&emsp;&emsp;(C) conducting analyses and making recommendations with respect to strategies for modifying the State system of long-term care to better—
+
+&emsp;&emsp;&emsp;(i) respond to the needs and preferences of older individuals and family caregivers;
+
+&emsp;&emsp;&emsp;(ii) facilitate the provision, by service providers, of long-term care in home and community-based settings; and
+
+&emsp;&emsp;&emsp;(iii) target services to individuals at risk for institutional placement, to permit such individuals to remain in home and community-based settings;
+
+&emsp;&emsp;(D) implementing (through area agencies on aging, service providers, and such other entities as the State determines to be appropriate) evidence-based programs to assist older individuals and their family caregivers in learning about and making behavioral changes intended to reduce the risk of injury, disease, and disability among older individuals; and
+
+&emsp;&emsp;(E) providing for the availability and distribution (through public education campaigns, Aging and Disability Resource Centers, area agencies on aging, and other appropriate means) of information relating to—
+
+&emsp;&emsp;&emsp;(i) the need to plan in advance for long-term care; and
+
+&emsp;&emsp;&emsp;(ii) the full range of available public and private long-term care (including integrated long-term care) programs, options, service providers, and resources.
+
+#### (b) Planning and service areas
+
+(1) In carrying out the requirement of subsection (a)(1) of this section, the State may designate as a planning and service area any unit of general purpose local government which has a population of 100,000 or more. In any case in which a unit of general purpose local government makes application to the State agency under the preceding sentence to be designated as a planning and service area, the State agency shall, upon request, provide an opportunity for a hearing to such unit of general purpose local government. A State may designate as a planning and service area under subsection (a)(1) of this section, any region within the State recognized for purposes of areawide planning which includes one or more such units of general purpose local government when the State determines that the designation of such a regional planning and service area is necessary for, and will enhance, the effective administration of the programs authorized by this subchapter. The State may include in any planning and servicearea designated under subsection (a)(1) of this section such additional areas adjacent to the unit of general purpose local government or regions so designated as the State determines to be necessary for, and will enhance the effective administration of the programs authorized by this subchapter.
+
+(2) The State is encouraged in carrying out the requirement of subsection (a)(1) of this section to include the area covered by the appropriate economic development district involved in any planning and service area designated under subsection (a)(1) of this section, and to include all portions of an Indian reservation within a single planning and service area, if feasible.
 
 (3) The chief executive officer of each State in which a planning and service area crosses State boundaries, or in which an interstate Indian reservation is located, may apply to the Assistant Secretary to request redesignation as an interstate planning and service area comprising the entire metropolitan area or Indian reservation. If the Assistant Secretary approves such an application, the Assistant Secretary shall adjust the State allotments of the areas within the planning and service area in which the interstate planning and service area is established to reflect the number of older individuals within the area who will be served by an interstate planning and service area not within the State.
 
@@ -98,7 +120,7 @@ An area agency on aging designated under subsection (a) of this section shall be
 
 &emsp;(5) in the case of a State specified in subsection (b)(5) of this section, the State agency;
 
-> and shall provide assurance, determined adequate by the State agency, that the area agency on aging will have the ability to develop an area plan and to carry out, directly or through contractual or other arrangements, a program inaccordance with the plan within the planning and service area. In designating an area agency on aging within the planning and service area or within any unit of general purpose local government designated as a planning and service area the State shall give preference to an established office on aging, unless the State agency finds that no such office within the planning and service area will have the capacity to carry out the area plan.
+> and shall provide assurance, determined adequate by the State agency, that the area agency on aging will have the ability to develop an area plan and to carry out, directly or through contractual or other arrangements, a program in accordance with the plan within the planning and service area. In designating an area agency on aging within the planning and service area or within any unit of general purpose local government designated as a planning and service area the State shall give preference to an established office on aging, unless the State agency finds that no such office within the planning and service area will have the capacity to carry out the area plan.
 
 #### (d) Publication for review and comment; contents
 
@@ -112,7 +134,7 @@ The publication for review and comment required by paragraph (2)(C) of subsectio
 
 &emsp;(4) a demonstration of the allocation of funds, pursuant to the funding formula, to each planning and service area in the State.
 
-(Pub. L. 89–73, title III, §305, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1520; amended Pub. L. 97–115, §§3(d), 5, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §305, Oct. 9, 1984, 98 Stat. 1773; Pub. L. 100–175, title I, §§124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, 101 Stat. 933, 939, 940, 965; Pub. L. 100–628, title VII, §705(4), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(9)(B), (10)(B)–(D), title III, §305, title IX, §904(a)(11), Sept. 30, 1992, 106 Stat. 1201, 1202, 1222, 1306; Pub. L. 103–171, §§2(8), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §304, title VIII, §801(c)(3), Nov. 13, 2000, 114 Stat. 2239, 2292.)
+(Pub. L. 89–73, title III, §305, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1520; amended Pub. L. 97–115, §§3(d), 5, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §305, Oct. 9, 1984, 98 Stat. 1773; Pub. L. 100–175, title I, §§124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, 101 Stat. 933, 939, 940, 965; Pub. L. 100–628, title VII, §705(4), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(9)(B), (10)(B)–(D), title III, §305, title IX, §904(a)(11), Sept. 30, 1992, 106 Stat. 1201, 1202, 1222, 1306; Pub. L. 103–171, §§2(8), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §304, title VIII, §801(c)(3), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §305, Oct. 17, 2006, 120 Stat. 2539.)
 
 #### Prior Provisions
 
@@ -123,6 +145,12 @@ Another prior section 3025, Pub. L. 89–73, title III, §306, formerly §305, J
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(E). Pub. L. 109–365, §305(1)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
+
+Subsec. (a)(2)(E). Pub. L. 109–365, §305(2)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
+
+Subsec. (a)(3). Pub. L. 109–365, §305(1)(B), (2)(B), (3), added par. (3).
 
 2000—Subsec. (a)(1)(E). Pub. L. 106–501, §304(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 

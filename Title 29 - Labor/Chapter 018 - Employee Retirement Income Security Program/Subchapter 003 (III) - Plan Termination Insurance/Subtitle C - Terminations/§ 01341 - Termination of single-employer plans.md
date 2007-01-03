@@ -114,6 +114,42 @@
 
 &emsp;Nothing in this section shall be construed to preclude the continued exercise by the corporation, after the termination date of a plan terminated in a standard termination under this subsection, of its authority under section 1303 of this title with respect to matters relating to the termination. A certification under paragraph (3)(B) shall not affect the corporation's obligations under section 1322 of this title.
 
+#### (5) Special rule for certain plans where cessation or change in membership of a controlled group
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), if—
+
+&emsp;&emsp;&emsp;(i) there is <sup>2</sup> transaction or series of transactions which result in a person ceasing to be a member of a controlled group, and
+
+&emsp;&emsp;&emsp;(ii) such person immediately before the transaction or series of transactions maintained a single-employer plan which is a defined benefit plan which is fully funded,
+
+> &emsp;&emsp;then the interest rate used in determining whether the plan is sufficient for benefit liabilities or to otherwise assess plan liabilities for purposes of this subsection or section 1342(a)(4) of this title shall be not less than the interest rate used in determining whether the plan is fully funded.
+
+#### (B) Limitations
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any transaction or series of transactions unless—
+
+&emsp;&emsp;&emsp;(i) any employer maintaining the plan immediately before or after such transaction or series of transactions—
+
+&emsp;&emsp;&emsp;&emsp;(I) has an outstanding senior unsecured debt instrument which is rated investment grade by each of the nationally recognized statistical rating organizations for corporate bonds that has issued a credit rating for such instrument, or
+
+&emsp;&emsp;&emsp;&emsp;(II) if no such debt instrument of such employer has been rated by such an organization but 1 or more of such organizations has made an issuer credit rating for such employer, all such organizations which have so rated the employer have rated such employer investment grade, and
+
+&emsp;&emsp;&emsp;(ii) the employer maintaining the plan after the transaction or series of transactions employs at least 20 percent of the employees located in the United States who were employed by such employer immediately before the transaction or series of transactions.
+
+#### (C) Fully funded
+
+&emsp;&emsp;For purposes of subparagraph (A), a plan shall be treated as fully funded with respect to any transaction or series of transactions if—
+
+&emsp;&emsp;&emsp;(i) in the case of a transaction or series of transactions which occur in a plan year beginning before January 1, 2008, the funded current liability percentage determined under section 1082(d) of this title for the plan year is at least 100 percent, and
+
+&emsp;&emsp;&emsp;(ii) in the case of a transaction or series of transactions which occur in a plan year beginning on or after such date, the funding target attainment percentage determined under section 1083 of this title is, as of the valuation date for such plan year, at least 100 percent.
+
+#### (D) 2 year limitation
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any transaction or series of transactions if the plan referred to in subparagraph (A)(ii) is terminated under subsection (c) or section 1342 of this title after the close of the 2-year period beginning on the date on which the first such transaction occurs.
+
 #### (c) Distress termination of single-employer plans
 
 #### (1) In general
@@ -124,7 +160,7 @@
 
 &emsp;&emsp;(B) the requirements of subparagraph (A) of paragraph (2) are met, and
 
-&emsp;&emsp;(C) the corporation determines that the requirements of subparagraph (B) of paragraph (2) are met.
+&emsp;&emsp;(C) the corporation determines that the requirements of subparagraphs (B) and (D) of paragraph (2) are met.
 
 #### (2) Termination requirements
 
@@ -168,7 +204,7 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law of a State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law ofa State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed.
 
@@ -195,6 +231,40 @@
 #### (C) Notification of determinations by the corporation
 
 &emsp;&emsp;The corporation shall notify the plan administrator as soon as practicable of its determinations made pursuant to subparagraph (B).
+
+#### (D) Disclosure of termination information
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A plan administrator that has filed a notice of intent to terminate under subsection (a)(2) shall provide to an affected party any information provided to the corporation under subsection (a)(2) not later than 15 days after—
+
+&emsp;&emsp;&emsp;&emsp;(I) receipt of a request from the affected party for the information; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the provision of new information to the corporation relating to a previous request.
+
+#### (ii) Confidentiality
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The plan administrator shall not provide information under clause (i) in a form that includes any information that may directly or indirectly be associated with, or otherwise identify, an individual participant or beneficiary.
+
+#### (II) Limitation
+
+&emsp;&emsp;&emsp;&emsp;A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title 5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
+
+#### (iii) Form and manner of information; charges
+
+#### (I) Form and manner
+
+&emsp;&emsp;&emsp;&emsp;The corporation may prescribe the form and manner of the provision of information under this subparagraph, which shall include delivery in written, electronic, or other appropriate form to the extent that such form is reasonably accessible to individuals to whom the information is required to be provided.
+
+#### (II) Reasonable charges
+
+&emsp;&emsp;&emsp;&emsp;A plan administrator may charge a reasonable fee for any information provided under this subparagraph in other than electronic form.
+
+#### (iv) Authorized representative
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “authorized representative” means any employee organization representing participants in the pension plan.
 
 #### (3) Termination procedure
 
@@ -274,13 +344,19 @@ For purposes of this section—
 
 The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) of this section or distress termination under subsection (c) of this section.
 
-(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat.244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050.)
+(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946.)
 
 #### References in Text
 
 Chapter 11, referred to in subsec. (c)(2)(B)(ii)(IV), probably means chapter 11 of Title 11, Bankruptcy.
 
 #### Amendments
+
+2006—Subsec. (b)(5). Pub. L. 109–280, §409(a), added par. (5).
+
+Subsec. (c)(1)(C). Pub. L. 109–280, §506(a)(2), substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
+
+Subsec. (c)(2)(D). Pub. L. 109–280, §506(a)(1), added subpar. (D).
 
 1994—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: “It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or”.
 
@@ -396,11 +472,25 @@ Pub. L. 99–272, §11008(b), amended subsec. (f) generally, substituting provis
 
 Subsec. (g). Pub. L. 96–364, §403(d)(3), struck out subsec. (g) which related to petition to the appropriate court for appointment of a trustee.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–280, title IV, §409(b), Aug. 17, 2006, 120 Stat. 934, provided that: “The amendments made by this section \[amending this section\] shall apply to any transaction or series of transactions occurring on and after the date of the enactment of this Act \[Aug. 17, 2006\].”
+
+Pub. L. 109–280, title V, §506(c), Aug. 17, 2006, 120 Stat. 948, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 1342 of this title\] shall apply to any plan termination under title IV of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1301 et seq.) with respect to which the notice of intent to terminate (or in the case of a termination by the Pension Benefit Guaranty Corporation, a notice of determination under section 4042 of such Act (29 U.S.C. 1342)) occurs after the date of enactment of this Act \[Aug. 17, 2006\].
+
+“(2)
+
+Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)(2)(D), 1342(c)(3)\] (as added by this section) would otherwise be required to be provided before the 90th day after the date of the enactment of this Act \[Aug. 17, 2006\], such notice shall not be required to be provided until such 90th day.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
-Section 778(a)(2) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
+Section 778(a)(2) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amendingthis section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
 
 Section 778(b)(2) of Pub. L. 103–465 provided that: “The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\].”
 
@@ -563,4 +653,6 @@ General rule.—Except as provided in subparagraph (B), the Corporation shall no
 Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “benefit liabilities”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “a” probably should appear.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Transfer
 
-No contract or order, or any interest therein, shall be transferred by the party to whom such contract or order is given to any other party, and any such transfer shall cause the annulment of the contract or order transferred, so far as the United States is concerned. All rights of action, however, for any breach of such contract by thecontracting parties, are reserved to the United States.
+No contract or order, or any interest therein, shall be transferred by the party to whom such contract or order is given to any other party, and any such transfer shall cause the annulment of the contract or order transferred, so far as the United States is concerned. All rights of action, however, for any breach of such contract by the contracting parties, are reserved to the United States.
 
 #### (b) Assignment
 
@@ -26,7 +26,7 @@ Notwithstanding any law to the contrary governing the validity of assignments, a
 
 #### (d) Assignee liability
 
-In any case in which moneys due or to become due under any contract are or have been assigned pursuant to this section, no liability of any nature of the assignor to the United States or any department or agency thereof, whether arising from or independently of such contract, shall create or impose any liability on the part of the assignee to make restitution, refund, or repayment to the United States of any amount heretofore since July 1, 1950, or hereafter received under the assignment.
+In any case in which moneys due or to become due under any contract are or have been assigned pursuant to this section, no liability of any nature of the assignor to the United States or any department or agency thereof, whether arising from or independently of such contract,shall create or impose any liability on the part of the assignee to make restitution, refund, or repayment to the United States of any amount heretofore since July 1, 1950, or hereafter received under the assignment.
 
 #### (e) Amendment of contract
 

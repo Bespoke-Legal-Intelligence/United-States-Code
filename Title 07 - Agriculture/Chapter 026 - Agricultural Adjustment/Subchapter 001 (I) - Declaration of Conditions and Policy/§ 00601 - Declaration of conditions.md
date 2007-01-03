@@ -4,6 +4,10 @@ It is declared that the disruption of the orderly exchange of commodities in int
 
 (May 12, 1933, ch. 25, title I, §1, 48 Stat. 31; June 3, 1937, ch. 296, §§1, 2(a), 50 Stat. 246.)
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–215, §1, Apr. 11, 2006, 120 Stat. 328, provided that: “This Act \[amending section 608c of this title and enacting provisions set out as notes under section 608c of this title\] may be cited as the ‘Milk Regulatory Equity Act of 2005’.”
+
 #### Short Title
 
 Section 8(a) of act June 16, 1933, ch. 90, 48 Stat. 199, provided in part that title I of act May 12, 1933, which is classified to this chapter, may for all purposes be referred to as the “Agricultural Adjustment Act.”

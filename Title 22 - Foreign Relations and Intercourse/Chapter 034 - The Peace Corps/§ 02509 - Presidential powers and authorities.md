@@ -24,11 +24,11 @@ Subject to any future action of the Congress, a contract or agreement which enta
 
 #### (d) Waiver of certain Federal laws
 
-Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than section 5 of title 41, section 252 of title 41, and the Renegotiation Act of 1951, as amended \[50 App. U.S.C. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
+Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than section 5 of title 41, section 252 of title 41, and the Renegotiation Act of 1951, as amended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
 
 #### (e) Allocation of funds
 
-The President may allocate or transfer to any agency of the United States Government any funds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the PeaceCorps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred.
+The President may allocate or transfer to any agency of the United States Government any funds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the Peace Corps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred.
 
 #### (f) Utilization of other Government agency services and facilities
 
@@ -36,7 +36,7 @@ Any officer of the United States Government carrying out functions under this ch
 
 #### (g) Reimbursement for commodities, services, and facilities
 
-In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
+In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actualcost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 
@@ -94,7 +94,7 @@ Funds available to President under this chapter allocated to and functions of Pr
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
-Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendmentsmade by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 

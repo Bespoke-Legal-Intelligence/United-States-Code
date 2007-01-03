@@ -20,7 +20,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (iii) Separate benefit
 
-&emsp;&emsp;&emsp;It shall be discriminatory to provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that isdifferent or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.
+&emsp;&emsp;&emsp;It shall be discriminatory to provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.
 
 #### (iv) Individual or class of individuals
 

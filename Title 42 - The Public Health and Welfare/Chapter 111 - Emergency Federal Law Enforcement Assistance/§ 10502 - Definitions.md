@@ -28,11 +28,13 @@ For purposes of this chapter—
 
 &emsp;&emsp;(K) the Coast Guard,
 
-&emsp;&emsp;(L) the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and
+&emsp;&emsp;(L) the National Security Division of the Department of Justice,
 
-&emsp;&emsp;(M) other Federal agencies with specific statutory authority to investigate violations of Federal criminal laws,
+&emsp;&emsp;(M) the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and
 
-&emsp;(3) the term “law enforcement emergency” means an uncommon situation which requires law enforcement, which is or threatens to become of serious or epidemic proportions, andwith respect to which State and local resources are inadequate to protect the lives and property of citizens or to enforce the criminal law, except that such term does not include—
+&emsp;&emsp;(N) other Federal agencies with specific statutory authority to investigate violations of Federal criminal laws,
+
+&emsp;(3) the term “law enforcement emergency” means an uncommon situation which requires law enforcement, which is or threatens to become of serious or epidemic proportions, and with respect to which State and local resources are inadequate to protect the lives and property of citizens or to enforce the criminal law, except that such term does not include—
 
 &emsp;&emsp;(A) the perceived need for planning or other activities related to crowd control for general public safety projects, or
 
@@ -40,13 +42,15 @@ For purposes of this chapter—
 
 &emsp;(4) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 98–473, title II, §609N, Oct. 12, 1984, 98 Stat. 2104; Pub. L. 107–296, title XI, §1112(<i>o</i>), Nov. 25, 2002, 116 Stat. 2278.)
+(Pub. L. 98–473, title II, §609N, Oct. 12, 1984, 98 Stat. 2104; Pub. L. 107–296, title XI, §1112(<i>o</i>), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–177, title V, §506(a)(11), Mar. 9, 2006, 120 Stat. 248.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this subdivision” probably meaning subtitle B (that probably should have been designated “subdivision” B) of division I of chapter VI of title II of Pub. L. 98–473, which enacted this chapter.
 
 #### Amendments
+
+2006—Par. (2)(L) to (N). Pub. L. 109–177 added subpar. (L) and redesignated former subpars. (L) and (M) as (M) and (N), respectively.
 
 2002—Par. (2)(L). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
 

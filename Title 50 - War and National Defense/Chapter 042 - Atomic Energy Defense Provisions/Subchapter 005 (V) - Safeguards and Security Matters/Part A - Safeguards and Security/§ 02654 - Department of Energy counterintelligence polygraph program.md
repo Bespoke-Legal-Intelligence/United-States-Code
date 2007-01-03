@@ -6,7 +6,7 @@ The Secretary of Energy shall carry out, under regulations prescribed under this
 
 #### (b) Authorities and limitations
 
-(1) The Secretary shall prescribe regulations for the new counterintelligence polygraph program required by subsection (a) in accordancewith the provisions of subchapter II of chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act).
+(1) The Secretary shall prescribe regulations for the new counterintelligence polygraph program required by subsection (a) in accordance with the provisions of subchapter II of chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act).
 
 (2) In prescribing regulations for the new program, the Secretary shall take into account the results of the Polygraph Review.
 
@@ -28,7 +28,7 @@ In this section, the term “Polygraph Review” means the review of the Committ
 
 #### Codification
 
-Section is comprised of section 4504 of Pub. L. 107–314. Subsec. (c) of section 4504 of Pub. L. 107–314 repeals section 2655 of this title.
+Section is comprised of section 4504 of Pub. L. 107–314. Subsec. (c) of section 4504 of Pub. L. 107–314 repealed section 2655 of this title.
 
 Section was formerly classified to section 7383h–1 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 

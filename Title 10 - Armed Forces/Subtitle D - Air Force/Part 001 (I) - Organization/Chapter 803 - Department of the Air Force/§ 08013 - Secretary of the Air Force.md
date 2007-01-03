@@ -38,7 +38,7 @@
 
 &emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Air Force;
 
-&emsp;(4) carrying out the functions of the Department of the Air Force so as to fulfill the current and future operational requirements ofthe unified and specified combatant commands;
+&emsp;(4) carrying out the functions of the Department of the Air Force so as to fulfill the current and future operational requirements of the unified and specified combatant commands;
 
 &emsp;(5) effective cooperation and coordination between the Department of the Air Force and the other military departments and agencies of the Department of Defense to provide for more effective, efficient, and economical administration and to eliminate duplication;
 
@@ -50,7 +50,7 @@
 
 (e) After first informing the Secretary of Defense, the Secretary of the Air Force may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
-(f) The Secretary of the Air Force may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Air Force and to the Assistant Secretaries of the Air Force. Officers of the Air Force shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
+(f) The Secretary of the Air Force may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary ofthe Air Force and to the Assistant Secretaries of the Air Force. Officers of the Air Force shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
 
 (g) The Secretary of the Air Force may—
 

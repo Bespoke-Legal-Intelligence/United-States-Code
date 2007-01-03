@@ -98,9 +98,17 @@ Section 31301(6)(B) defines “preferred mortgage” to also mean a mortgage on 
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1989, with certain exceptions and qualifications, and not to affect any civil action filed before that date, see section 107 of Pub. L. 100–710, set out as a note under section 30101 of this title.
+Pub. L. 100–710, title I, §107, Nov. 23, 1988, 102 Stat. 4752, provided that:
 
-#### Section Referred to in Other Sections
+“(a) This title \[see Tables for classification\] and amendments made by this title take effect on January 1, 1989. However, sections 31321 and 31322 of title 46 (as enacted by section 102 of this Act), United States Code (as sections 31321 and 32322 \[probably should be 31322\] apply to vessels for which an application for documentation has been filed), take effect on January 1, 1990.
 
-This section is referred to in section 1271 of Appendix to this title.
+“(b) An instrument filed before January 1, 1989, but not recorded before that date, is deemed to comply with section 31321 of title 46, United States Code, if it is in substantial compliance with the provisions in that section that had corresponding requirements under the law on December 31, 1988. However, the mortgage may not become a preferred mortgage until the vessel is documented.
+
+“(c) This title and the amendments made by this title do not affect the validity of any instrument filed or recorded before January 1, 1989, if there was a corresponding requirement under the law on December 31, 1988.
+
+“(d) An instrument filed or recorded before January 1, 1989, is deemed to comply with any new requirement under chapter 313 of title 46, United States Code (as enacted by section 102 of this Act), affecting the validity of that instrument.
+
+“(e) Section 102 of this Act and amendments made by that section \[enacting former section 30101 and sections 31301 to 31309, 31321 to 31330, and 31341 to 31343 of this title and provisions set out as a note preceding section 2101 of this title\] do not affect any civil action filed before January 1, 1989.
+
+“(f) Section 104(b) of this Act and the amendments made by section 104(b) of this Act \[amending section 808 of the former Appendix to this title\] do not apply to any change in control resulting from, or which may at any time result from, any proposed plan of reorganization filed under the United States bankruptcy laws prior to the date of enactment of this Act \[Nov. 23, 1988\], except that transactions undertaken as a result of such a plan shall continue to be governed by section 9 of the Shipping Act, 1916 (\[former\] 46 App. U.S.C. 808) \[see 46 U.S.C. 56101, 57109\], as it existed prior to the date of enactment of this Act, to the extent that such section 9 would have governed such transactions.”
 

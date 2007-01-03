@@ -8,7 +8,19 @@ Subject to the approval of the Secretary of the Interior (hereafter in this chap
 
 Each institute shall—
 
-&emsp;(1) plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and
+&emsp;(1) plan, conduct, or otherwise arrange for competent applied and peer reviewed research that fosters—
+
+&emsp;&emsp;(A) improvements in water supply reliability;
+
+&emsp;&emsp;(B) the exploration of new ideas that—
+
+&emsp;&emsp;&emsp;(i) address water problems; or
+
+&emsp;&emsp;&emsp;(ii) expand understanding of water and water-related phenomena;
+
+&emsp;&emsp;(C) the entry of new research scientists, engineers, and technicians into water resources fields; and
+
+&emsp;&emsp;(D) the dissemination of research results to water managers and the public.<sup>1</sup>
 
 &emsp;(2) cooperate closely with other colleges and universities in the State that have demonstrated capabilities for research, information dissemination, and graduate training in order to develop a statewide program designed to resolve State and regional water and related land problems.
 
@@ -20,21 +32,21 @@ From the sums appropriated pursuant to subsection (f) of this section, the Secre
 
 #### (d) Submission and approval of water research program; requisite assurances
 
-Prior to and as a condition of the receipt each fiscal year of funds appropriated under subsection (f) of this section, each institute shall submit to the Secretary for his approval a water research program that includes assurances, satisfactory to the Secretary, that such program was developed in close consultation and collaboration with the director of that State's department of water resources or similar agency, other leading water resources officials within the State, and interested members of the public. The program described in the preceding sentence shall include plans to promote research, training, information dissemination, and other activities meeting the needs of the State and Nation, and shall encourage regional cooperation among institutes in research into areas of watermanagement, development, and conservation that have a regional or national character.
+Prior to and as a condition of the receipt each fiscal year of funds appropriated under subsection (f) of this section, each institute shall submit to the Secretary for his approval a water research program that includes assurances, satisfactory to the Secretary, that such program was developed in close consultation and collaboration with the director of that State's department of water resources or similar agency, other leading water resources officials within the State, and interested members of the public. The program described in the preceding sentence shall include plans to promote research, training, information dissemination, and other activities meeting the needs of the State and Nation, and shall encourage regional cooperation among institutes in research into areas of water management, development, and conservation that have a regional or national character.
 
 #### (e) Evaluation of water resources research program
 
-The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 5 years to determine that the quality and relevance of its water resources research and its effectiveness as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until the institute's qualifications are reestablished to the satisfaction of the Secretary.
+The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 3 years to determine that the quality and relevance of its water resources research and its effectiveness at producing measured results and applied water supply research as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until the institute's qualifications are reestablished to the satisfaction of the Secretary.
 
 #### (f) Authorization of appropriations in general
 
-(1) For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended.
+(1) There is authorized to be appropriated to carry out this section, to remain available until expended, $12,000,000 for each of fiscal years 2007 through 2011.
 
 (2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretary and available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
 
 #### (g) Additional appropriations where research focused on water problems of interstate nature
 
-(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
+(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $6,000,000 for each of fiscal years 2007 through 2011 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
 
 (2) Research funds made available under this subsection shall be made on a competitive basis subject to the merit of the proposal, the need for the information to be produced, and the opportunity such funds will provide for training of water resources scientists or professionals.
 
@@ -56,21 +68,39 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 &emsp;&emsp;(F) may support a program of internships for qualified individuals at the undergraduate and graduate levels to carry out the educational and training objectives of this chapter.
 
-#### (2) Report
+#### (2) Reports
 
-&emsp;The Secretary shall report to Congress annually on coordination efforts with other Federal departments, agencies, and instrumentalities under paragraph (1).
+&emsp;The Secretary shall report to Congress annually on coordination efforts with other Federal departments, agencies, and instrumentalities under paragraph (1). As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—
+
+&emsp;&emsp;(A) increases in annual water supplies;
+
+&emsp;&emsp;(B) increases in annual water yields;
+
+&emsp;&emsp;(C) advances in water infrastructure and water quality improvements; and
+
+&emsp;&emsp;(D) methods for identifying, and determining the effectiveness of, treatment technologies and efficiencies.
 
 #### (3) Relationship to State rights
 
 &emsp;Nothing in this chapter shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.
 
-(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28, 1990, 104 Stat. 852, 853; Pub. L. 104–147, §§3–6, May 24, 1996, 110 Stat. 1376; Pub. L. 106–374, Oct. 27, 2000, 114 Stat. 1434.)
+(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28, 1990, 104 Stat. 852, 853; Pub. L. 104–147, §§3–6, May 24, 1996, 110 Stat. 1376; Pub. L. 106–374, Oct. 27, 2000, 114 Stat. 1434; Pub. L. 109–471, §2(a)–(e), Jan. 11, 2007, 120 Stat. 3552, 3553.)
 
 #### References in Text
 
 Act approved July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
 #### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 109–471, §2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and”.
+
+Subsec. (e). Pub. L. 109–471, §2(b), substituted “3” for “5” and inserted “at producing measured results and applied water supply research” after “effectiveness”.
+
+Subsec. (f)(1). Pub. L. 109–471, §2(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended.”
+
+Subsec. (g)(1). Pub. L. 109–471, §2(d), substituted “$6,000,000 for each of fiscal years 2007 through 2011” for “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005”.
+
+Subsec. (h)(2). Pub. L. 109–471, §2(e), substituted “Reports” for “Report” in heading and inserted after first sentence “As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—” and subpars. (A) to (D).
 
 2000—Subsec. (f)(1). Pub. L. 106–374, §1, substituted “$9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005” for “$5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000”.
 
@@ -109,4 +139,6 @@ Section 2 of Pub. L. 101–397 provided that:
 “(b) The water resources research authorized in this section shall be undertaken under such rules and regulations as the Secretary deems appropriate and shall be carried out in close consultation and collaboration with the institutes established pursuant to Public Law 98–242 \[42 U.S.C. 10301 et seq.\], to the extent such research work affects the State in which the institute exists, and to the extent such institute agrees to consult and collaborate.
 
 “(c) For the purposes of carrying out this section, there is authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for each of the fiscal years 1991 through 1995.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be “, and”.</i>
 

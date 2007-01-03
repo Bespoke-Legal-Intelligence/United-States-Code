@@ -48,7 +48,7 @@ Subsec. (a)(4) to (6). Pub. L. 107–171, §5403(a)(2)(B)(ii), (iii), added par.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, seesection 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
 
 #### Effective Date of 1988 Amendment
 

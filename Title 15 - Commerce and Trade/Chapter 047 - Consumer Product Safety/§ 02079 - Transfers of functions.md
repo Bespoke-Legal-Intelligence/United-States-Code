@@ -14,7 +14,7 @@ The functions of the Secretary of Commerce and the Federal Trade Commission unde
 
 #### (d) Regulation by Commission of consumer products in accordance with other provisions of law
 
-A risk of injury which is associated with a consumer product and which could be eliminated or reduced to a sufficient extent by action under the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\], or the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\] may be regulated under this chapter only if the Commission by rule finds that it is in the public interest to regulate such risk of injury under this chapter. Such a rule shall identify the risk of injury proposed to be regulated under this chapter and shall be promulgated in accordance with section 553 of title 5; except that the period to be provided by the Commission pursuant to subsection (c) of such section for the submission of data, views, and arguments respecting the rule shall not exceed thirty days from the date of publication pursuant to subsection (b) of such section of a notice respecting the rule.
+A risk of injury which is associated with a consumer product and which could be eliminated or reduced to a sufficient extent by action under the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\], or theFlammable Fabrics Act \[15 U.S.C. 1191 et seq.\] may be regulated under this chapter only if the Commission by rule finds that it is in the public interest to regulate such risk of injury under this chapter. Such a rule shall identify the risk of injury proposed to be regulated under this chapter and shall be promulgated in accordance with section 553 of title 5; except that the period to be provided by the Commission pursuant to subsection (c) of such section for the submission of data, views, and arguments respecting the rule shall not exceed thirty days from the date of publication pursuant to subsection (b) of such section of a notice respecting the rule.
 
 #### (e) Transfer of personnel, property, records, etc.; continued application of orders, rules, etc.
 
@@ -46,7 +46,7 @@ The Flammable Fabrics Act, referred to in subsecs. (b) and (d), is act June 30, 
 
 The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Act of August 2, 1956, referred to in subsec. (c), is act Aug. 2, 1956, ch. 890, 70 Stat. 953, as amended, which is classified generally to chapter 26 (§1211 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 2, 1956, referred to in subsec. (c), is act Aug. 2, 1956, ch. 890, 70 Stat. 953, as amended, which isclassified generally to chapter 26 (§1211 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 For the effective date of this section or, alternatively, the time or date this section takes effect, referred to in subsec. (e)(1)(B), (2), (3), and (4), see section 34(2) of Pub. L. 92–573, set out as an Effective Date note under section 2051 of this title.
 
@@ -58,5 +58,5 @@ Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 19
 
 1976—Subsec. (a). Pub. L. 94–284, §3(f), struck out “of the Administrator of the Environmental Protection Agency and” before “of the Secretary of Health, Education, and Welfare” and substituted “Federal Food, Drug, and Cosmetic Act” for “Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970”.
 
-Subsec. (d). Pub. L. 94–284, §16, inserted requirement that the Commission find by a rule, promulgated in accordance with section 553 of title 5, that it is within the public interest to regulate a risk of injury under thischapter which could be eliminated or reduced by action under the enumerated acts.
+Subsec. (d). Pub. L. 94–284, §16, inserted requirement that the Commission find by a rule, promulgated in accordance with section 553 of title 5, that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
 

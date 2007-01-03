@@ -26,7 +26,7 @@
 
 &emsp;(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
-(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriateofficial of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
+(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
 
 &emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
 
@@ -232,7 +232,7 @@ Section 31001(b) of Pub. L. 104–134 provided that: “The purposes of this sec
 
 &emsp;“(3) To reduce losses arising from debt management activities by requiring proper screening of potential borrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
 
-&emsp;“(4) To ensure that the public is fully informed of the Federal Government's debt collection policies and that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
+&emsp;“(4) To ensure that the public is fully informed of the Federal Government's debt collection policiesand that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
 
 &emsp;“(5) To ensure that debtors have all appropriate due process rights, including the ability to verify, challenge, and compromise claims, and access to administrative appeals procedures which are both reasonable and protect the interests of the United States.
 

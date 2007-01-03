@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Under Secretary of Transportation for Security shall provide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5, United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
+In General.—The Under Secretary of Transportation for Security shall provide forthe screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5, United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
 
 (b)
 
@@ -134,7 +134,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §315(c); added Aug. 5, 1974, Pub
 
 In subsection (a), the words “or continue in effect reasonable”, “intended”, and “the aircraft for such transportation” are omitted as surplus.
 
-In subsection (b), the words “Notwithstanding subsection (a) of this section” are added for clarity. Thewords “One year after August 5, 1974, or after the effective date of such regulations, whichever is later” are omitted as executed. The words “alter or”, “a continuation of”, “the extent deemed necessary to”, and “acts of” are omitted as surplus.
+In subsection (b), the words “Notwithstanding subsection (a) of this section” are added for clarity. The words “One year after August 5, 1974, or after the effective date of such regulations, whichever is later” are omitted as executed. The words “alter or”, “a continuation of”, “the extent deemed necessary to”, and “acts of” are omitted as surplus.
 
 In subsection (c)(1), the words “in whole or in part” and “those” are omitted as surplus. The word “providing” is substituted for “engaging in” for consistency in the revised title. The words “interstate, overseas, or foreign” are omitted because of the definition of “air transportation” in section 40102(a) of the revised title. The words “of public convenience and necessity”, “by the Civil Aeronautics Board”, “foreign air carrier”, and “by the Board” are omitted as surplus.
 
@@ -158,7 +158,7 @@ Subsec. (c). Pub. L. 107–71, §110(b)(2), added subsec. (c). Former subsec. (c
 
 Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions and par. (2).
 
-Subsec. (d) to (g). Pub. L. 107–71, §110(b)(2), added subsecs. (d) to (g).
+Subsecs. (d) to (g). Pub. L. 107–71, §110(b)(2), added subsecs. (d) to (g).
 
 Subsec. (h). Pub. L. 107–71, §110(b)(1), redesignated subsec. (c) as (h).
 
@@ -172,7 +172,7 @@ Pub. L. 107–71, title I, §141, Nov. 19, 2001, 115 Stat. 643, provided that:
 
 “(a)
 
-Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\], those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Transportation Security Administration by this Act shall be transferred to the Transportation Security Administration for use in connection with the functions transferred. Unexpended balances of appropriations, allocations, and other funds made available to the Federal Aviation Administration to carry out such functions shall also be transferred to the Transportation Security Administration for use in connection with the functions transferred.
+Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\], those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Transportation Security Administration by this Act shall be transferred to the Transportation Security Administration for use in connection with the functions transferred. Unexpended balances of appropriations, allocations, and other funds made available to the Federal Aviation Administration to carry out such functionsshall also be transferred to the Transportation Security Administration for use in connection with the functions transferred.
 
 “(b)
 
@@ -264,7 +264,11 @@ Performance of under secretary's functions during interim period.—Until the Un
 
 #### Standards for Increasing the Use of Explosive Detection Equipment
 
-Pub. L. 109–90, title V, §524, Oct. 18, 2005, 119 Stat. 2086, provided that: “The Secretary, in consultation with industry stakeholders, shall develop standards and protocols for increasing the use of explosive detection equipment to screen air cargo when appropriate.”
+Pub. L. 109–295, title V, §518, Oct. 4, 2006, 120 Stat. 1380, provided that: “The Secretary of Homeland Security, in consultation with industry stakeholders, shall develop standards and protocols for increasing the use of explosive detection equipment to screen air cargo when appropriate.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 109–90, title V, §524, Oct. 18, 2005, 119 Stat. 2086.
 
 #### Use of Existing Equipment To Screen Passenger Cargo; Reports
 
@@ -300,7 +304,7 @@ Pub. L. 108–458, title IV, §4051, Dec. 17, 2004, 118 Stat. 3728, provided tha
 
 “(a)
 
-In General.—Beginning not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Assistant Secretary of Homeland Security (Transportation Security Administration) shall carry out a pilot program to evaluate the use of blast-resistantcontainers for cargo and baggage on passenger aircraft to minimize the potential effects of detonation of an explosive device.
+In General.—Beginning not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Assistant Secretary of Homeland Security (Transportation Security Administration) shall carry out a pilot program to evaluate the use of blast-resistant containers for cargo and baggage on passenger aircraft to minimize the potential effects of detonation of an explosive device.
 
 “(b)
 
@@ -368,7 +372,7 @@ In general.—The Secretary shall establish and carry out a program to issue com
 
 &emsp;“(2)
 
-Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and provide for such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible.”
+Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and providefor such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible.”
 
 #### Identification Standards
 
@@ -484,7 +488,7 @@ Motion to proceed.—A motion in the Senate to proceed to the consideration of a
 
 &emsp;&emsp;“(B)
 
-Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
+Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not morethan 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
 
 &emsp;&emsp;“(C)
 
@@ -574,7 +578,7 @@ Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: 
 
 #### Research and Development of Improved Airport Security Systems
 
-Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: “The Administrator of the Federal Aviation Administration shall conduct such research and development as may be necessary to improve the effectiveness of airport security metal detectors and airport security x-ray systems in detecting firearms that, during the 10-year period beginning on the effective date of this Act \[see Effective Date of 1988 Amendment; Sunset Provision note set out under section 922 of Title 18, Crimes and Criminal Procedure\], are subject to the prohibitions of section 922(p) of title 18, United States Code.”
+Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: “The Administrator of the Federal AviationAdministration shall conduct such research and development as may be necessary to improve the effectiveness of airport security metal detectors and airport security x-ray systems in detecting firearms that, during the 10-year period beginning on the effective date of this Act \[see Effective Date of 1988 Amendment; Sunset Provision note set out under section 922 of Title 18, Crimes and Criminal Procedure\], are subject to the prohibitions of section 922(p) of title 18, United States Code.”
 
 #### Definitions of Terms in Title IV of Pub. L. 108–458
 

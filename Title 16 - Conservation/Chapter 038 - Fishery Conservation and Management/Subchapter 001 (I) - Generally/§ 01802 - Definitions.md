@@ -116,9 +116,15 @@ Sponges
 
 &emsp;&emsp;(B) any fishing for such stocks.
 
-&emsp;(14) The term “fishery resource” means any fishery, any stock of fish, any species of fish, and any habitat of fish.
+&emsp;(14) The term “regional fishery association” means an association formed for the mutual benefit of members—
 
-&emsp;(15) The term “fishing” means—
+&emsp;&emsp;(A) to meet social and economic needs in a region or subregion; and
+
+&emsp;&emsp;(B) comprised of persons engaging in the harvest or processing of fishery resources in that specific region or subregion or who otherwise own or operate businesses substantially dependent upon a fishery.
+
+&emsp;(15) The term “fishery resource” means any fishery, any stock of fish, any species of fish, and any habitat of fish.
+
+&emsp;(16) The term “fishing” means—
 
 &emsp;&emsp;(A) the catching, taking, or harvesting of fish;
 
@@ -130,35 +136,53 @@ Sponges
 
 > &emsp;Such term does not include any scientific research activity which is conducted by a scientific research vessel.
 
-&emsp;(16) The term “fishing community” means a community which is substantially dependent on or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
+&emsp;(17) The term “fishing community” means a community which is substantially dependent on or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
 
-&emsp;(17) The term “fishing vessel” means any vessel, boat, ship, or other craft which is used for, equipped to be used for, or of a type which is normally used for—
+&emsp;(18) The term “fishing vessel” means any vessel, boat, ship, or other craft which is used for, equipped to be used for, or of a type which is normally used for—
 
 &emsp;&emsp;(A) fishing; or
 
 &emsp;&emsp;(B) aiding or assisting one or more vessels at sea in the performance of any activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, transportation, or processing.
 
-&emsp;(18) The term “foreign fishing” means fishing by a vessel other than a vessel of the United States.
+&emsp;(19) The term “foreign fishing” means fishing by a vessel other than a vessel of the United States.
 
-&emsp;(19) The term “high seas” means all waters beyond the territorial sea of the United States and beyond any foreign nation's territorial sea, to the extent that such sea is recognized by the United States.
+&emsp;(20) The term “high seas” means all waters beyond the territorial sea of the United States and beyond any foreign nation's territorial sea, to the extent that such sea is recognized by the United States.
 
-&emsp;(20) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
+&emsp;(21) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
 
-&emsp;(21) The term “individual fishing quota” means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
+&emsp;(22) The term “import”—
 
-&emsp;(22) The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
+&emsp;&emsp;(A) means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States; but
 
-&emsp;(23) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or aseries of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+&emsp;&emsp;(B) does not include any activity described in subparagraph (A) with respect to fish caught in the exclusive economic zone or by a vessel of the United States.
 
-&emsp;(24) <sup>1</sup> The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
+&emsp;(23) The term “individual fishing quota” means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
 
-&emsp;(25) The term “migratory range” means the maximum area at a given time of the year within which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term does not include any part of such area which is in the waters of a foreign nation.
+&emsp;(24) The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
-&emsp;(26) The term “national standards” means the national standards for fishery conservation and management set forth in section 1851 of this title.
+&emsp;(25) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
-&emsp;(27) The term “observer” means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
+&emsp;(26) The term “limited access privilege”—
 
-&emsp;(28) The term “optimum”, with respect to the yield from a fishery, means the amount of fish which—
+&emsp;&emsp;(A) means a Federal permit, issued as part of a limited access system under section 1853a of this title to harvest a quantity of fish expressed by a unit or units representing a portion of the total allowable catch of the fishery that may be received or held for exclusive use by a person; and
+
+&emsp;&emsp;(B) includes an individual fishing quota; but
+
+&emsp;&emsp;(C) does not include community development quotas as described in section 1855(i) of this title.
+
+&emsp;(27) The term “limited access system” means a system that limits participation in a fishery to those satisfying certain eligibility criteria or requirements contained in a fishery management plan or associated regulation.
+
+&emsp;(28) The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
+
+&emsp;(29) The term “migratory range” means the maximum area at a given time of the year within which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term does not include any part of such area which is in the waters of a foreign nation.
+
+&emsp;(30) The term “national standards” means the national standards for fishery conservation and management set forth in section 1851 of this title.
+
+&emsp;(31) The term “observer” means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
+
+&emsp;(32) The term “observer information” means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
+
+&emsp;(33) The term “optimum”, with respect to the yield from a fishery, means the amount of fish which—
 
 &emsp;&emsp;(A) will provide the greatest overall benefit to the Nation, particularly with respect to food production and recreational opportunities, and taking into account the protection of marine ecosystems;
 
@@ -166,27 +190,27 @@ Sponges
 
 &emsp;&emsp;(C) in the case of an overfished fishery, provides for rebuilding to a level consistent with producing the maximum sustainable yield in such fishery.
 
-&emsp;(29) The terms “overfishing” and “overfished” mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
+&emsp;(34) The terms “overfishing” and “overfished” mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
 
-&emsp;(30) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
+&emsp;(35) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
 
-&emsp;(31) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
+&emsp;(36) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 
-&emsp;(32) The term “recreational fishing” means fishing for sport or pleasure.
+&emsp;(37) The term “recreational fishing” means fishing for sport or pleasure.
 
-&emsp;(33) The term “regulatory discards” means fish harvested in a fishery which fishermen are required by regulation to discard whenever caught, or are required by regulation to retain but not sell.
+&emsp;(38) The term “regulatory discards” means fish harvested in a fishery which fishermen are required by regulation to discard whenever caught, or are required by regulation to retain but not sell.
 
-&emsp;(34) The term “Secretary” means the Secretary of Commerce or his designee.
+&emsp;(39) The term “Secretary” means the Secretary of Commerce or his designee.
 
-&emsp;(35) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
+&emsp;(40) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
-&emsp;(36) <sup>1</sup> The term “special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+&emsp;(41) <sup>1</sup> The term “special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
-&emsp;(37) The term “stock of fish” means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
+&emsp;(42) The term “stock of fish” means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
 
-&emsp;(38) The term “treaty” means any international fishery agreement which is a treaty within the meaning of section 2 of article II of the Constitution.
+&emsp;(43) The term “treaty” means any international fishery agreement which is a treaty within the meaning of section 2 of article II of the Constitution.
 
-&emsp;(39) The term “tuna species” means the following:
+&emsp;(44) The term “tuna species” means the following:
 
 &emsp;&emsp;Albacore Tuna—Thunnus alalunga;
 
@@ -198,13 +222,13 @@ Sponges
 
 &emsp;&emsp;Yellowfin Tuna—Thunnus albacares.
 
-&emsp;(40) The term “United States”, when used in a geographical context, means all the States thereof.
+&emsp;(45) The term “United States”, when used in a geographical context, means all the States thereof.
 
-&emsp;(41) The term “United States fish processors” means facilities located within the United States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
+&emsp;(46) The term “United States fish processors” means facilities located within the United States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
 
-&emsp;(42) The term “United States harvested fish” means fish caught, taken, or harvested by vessels of the United States within any fishery regulated under this chapter.
+&emsp;(47) The term “United States harvested fish” means fish caught, taken, or harvested by vessels of the United States within any fishery regulated under this chapter.
 
-&emsp;(43) The term “vessel of the United States” means—
+&emsp;(48) The term “vessel of the United States” means—
 
 &emsp;&emsp;(A) any vessel documented under chapter 121 of title 46;
 
@@ -214,21 +238,27 @@ Sponges
 
 &emsp;&emsp;(D) any vessel not equipped with propulsion machinery of any kind and used exclusively for pleasure.
 
-&emsp;(44) The term “vessel subject to the jurisdiction of the United States” has the same meaning such term has in section 1903(c) of title 46, Appendix.
+&emsp;(49) The term “vessel subject to the jurisdiction of the United States” has the same meaning such term has in section 70502(c) of title 46.
 
-&emsp;(45) The term “waters of a foreign nation” means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
+&emsp;(50) The term “waters of a foreign nation” means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
 
-(Pub. L. 94–265, §3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, §3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, §15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, §2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, §102(a), title X, §1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, §301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §102, Oct. 11, 1996, 110 Stat. 3561.)
+(Pub. L. 94–265, §3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, §3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, §15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, §2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, §102(a), title X, §1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, §301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §102, Oct. 11, 1996, 110 Stat. 3561; Pub. L. 109–479, §3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Proclamation Numbered 5030, referred to in par. (11), is set out under section 1453 of this title.
 
 #### Codification
 
-Pub. L. 102–251, §301(b), which directed amendment of this section by adding a new par. (24) reading “(24) The term ‘special areas’ means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.” and redesignating former pars. (24) to (32) as (25) to (33), respectively, was not executed, to reflect the probable intent of Congress, because the amendments were inconsistent with the amendments by Pub. L. 104–297 which added par. (36) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below.
+In par. (49), “section 70502(c) of title 46” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(c))” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+
+Pub. L. 102–251, §301(b), which directed amendment of this section by adding a new par. (24) defining “special areas” and redesignating former pars. (24) to (32) as (25) to (33), respectively, was to be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, but will not be executed, to reflect the probable intent of Congress, because the amendments would be inconsistent with the amendments by Pub. L. 104–297 which added par. (36) (now par. (41)) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below and section 308 of Pub. L. 102–251, set out as an Effective Date of 1992 Amendment note under section 773 of this title.
 
 #### Amendments
+
+2007—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”,\(23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
 1996—Pars. (2) to (6). Pub. L. 104–297, §102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
 

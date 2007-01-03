@@ -10,7 +10,7 @@ Notice and Consent.—
 
 &emsp;(1)
 
-In general.—The State shall serve written notice to the Secretary or the Board, as the case may be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action. The State may initiate a civil action under subsection (a) if it is reviewable under subsection (b)(2).
+In general.—The State shall serve written notice to the Secretary or the Board, as the case may be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action.
 
 &emsp;(2)
 
@@ -34,7 +34,7 @@ Congressional notification.—The Secretary shall notify the Committee on Commer
 
 &emsp;(4) 60
 
-\-day deadline.—The Secretary or the Board shall be considered to have consented to any civil action of a State under this section that is subject to review under subsection (b)(2) if the Secretary or the Board has taken no action with respect to the notice within 60 calendar days after the date on which the Secretary or the Board received notice under paragraph (1).
+\-day deadline.—The Secretary or the Board shall be considered to have consented to any civil action of a State under this section if the Secretary or the Board has taken no action with respect to the notice within 60 calendar days after the date on which the Secretary or the Board received notice under paragraph (1).
 
 (c)
 
@@ -73,10 +73,6 @@ Venue; Service of Process.—In a civil action brought under subsection (a)—
 Enforcement of State Law.—Nothing contained in this section shall prohibit an authorized State official from proceeding in State court to enforce a criminal statute of such State.
 
 (Added Pub. L. 109–59, title IV, §4206(b)(1), Aug. 10, 2005, 119 Stat. 1755; amended Pub. L. 109–115, div. A, title I, §173(c), (d), Nov. 30, 2005, 119 Stat. 2426.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 173(e) of Pub. L. 109–115, see Termination Date of 2005 Amendment note below.</i>
 
 #### Amendments
 

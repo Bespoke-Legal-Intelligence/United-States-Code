@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements and Submission.—Except as provided in this section and sections 60114 and 60121 of this title, the Secretary of Transportation may not prescribe or enforce safety standards and practices for an intrastate pipeline facility or intrastate pipeline transportation to the extent that the safety standards and practices are regulated by a State authority (including a municipality if the standards and practices apply to intrastate gas pipeline transportation) that submits to the Secretary annually a certification for the facilities and transportation that complies with subsections (b) and (c) of this section.
+General Requirements and Submission.—Except as provided in this section and sections 60114 and 60121 of this title, the Secretary of Transportation may not prescribe or enforcesafety standards and practices for an intrastate pipeline facility or intrastate pipeline transportation to the extent that the safety standards and practices are regulated by a State authority (including a municipality if the standards and practices apply to intrastate gas pipeline transportation) that submits to the Secretary annually a certification for the facilities and transportation that complies with subsections (b) and (c) of this section.
 
 (b)
 
@@ -14,7 +14,7 @@ Contents.—Each certification submitted under subsection (a) of this section sh
 
 &emsp;(3) is enforcing each adopted standard through ways that include inspections conducted by State employees meeting the qualifications the Secretary prescribes under section 60107(d)(1)(C) of this title;
 
-&emsp;(4) is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;
+&emsp;(4) is encouraging and promoting the establishment of a program designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies that subjects persons who violate the applicable requirements of that program to civil penalties and other enforcement actions that are substantially the same as are provided under this chapter, and addresses the elements in section 60134(b);
 
 &emsp;(5) may require record maintenance, reporting, and inspection substantially the same as provided under section 60117 of this title;
 
@@ -48,7 +48,7 @@ Monitoring.—The Secretary may monitor a safety program established under this 
 
 Rejections of Certification.—If after receiving a certification the Secretary decides the State authority is not enforcing satisfactorily compliance with applicable safety standards prescribed under this chapter, the Secretary may reject the certification, assert United States Government jurisdiction, or take other appropriate action to achieve adequate enforcement. The Secretary shall give the authority notice and an opportunity for a hearing before taking final action under this subsection. When notice is given, the burden of proof is on the authority to demonstrate that it is enforcing satisfactorily compliance with the prescribed standards.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1309; Pub. L. 104–304, §20(a), Oct. 12, 1996, 110 Stat. 3804.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1309; Pub. L. 104–304, §20(a), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(b)(1), Dec. 29, 2006, 120 Stat. 3487.)
 
 Historical and Revision Notes
 
@@ -135,6 +135,8 @@ In subsection (e), the words “conduct whatever . . . may be necessary” and
 In subsection (f), the words “prescribed under this chapter” are added for clarity. The word “reasonable” is omitted as surplus.
 
 #### Amendments
+
+2006—Subsec. (b)(4). Pub. L. 109–468 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;”.
 
 1996—Pub. L. 104–304 substituted “State pipeline safety program certifications” for “State certifications” in section catchline.
 

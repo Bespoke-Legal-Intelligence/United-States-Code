@@ -15,16 +15,21 @@
 | [4107\.](%C2%A7%2004107%20-%20Administrative%20controls%3B%20annual%20report.md) | Administrative controls; annual report. |
 | [4108\.](%C2%A7%2004108%20-%20Cooperation%20and%20coordination.md) | Cooperation and coordination. |
 | [4109\.](%C2%A7%2004109%20-%20National%20Veterans%E2%80%99%20Employment%20and%20Training%20Services%20Institute.md) | National Veterans’ Employment and Training Services Institute. |
-| [4110\.](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md) | Advisory Committee on Veterans Employment and Training. |
+| [4110\.](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%2C%20Training%2C%20and%20Employer%20Outreach.md) | Advisory Committee on Veterans Employment, Training, and Employer Outreach. |
 | [4110A.](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md) | Special unemployment study. |
 | [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. |
 | \[4111. | Repealed.\] |
 | [4112\.](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md) | Performance incentive awards for quality employment, training, and placement services. |
 | [4113\.](%C2%A7%2004113%20-%20Outstationing%20of%20Transition%20Assistance%20Program%20personnel.md) | Outstationing of Transition Assistance Program personnel. |
+| [4114\.](%C2%A7%2004114%20-%20Credentialing%20and%20licensure%20of%20veterans%20demonstration%20project.md) | Credentialing and licensure of veterans: demonstration project. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–461, title VI, §604(a)(2), Dec. 22, 2006, 120 Stat. 3439, added item 4114.
+
+Pub. L. 109–233, title II, §202(a)(3), June 15, 2006, 120 Stat. 403, substituted “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training” in item 4110.
 
 2003—Pub. L. 108–183, title III, §309(a)(2), Dec. 16, 2003, 117 Stat. 2663, added item 4113.
 
@@ -72,9 +77,10 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 - [&sect; 04107 - Administrative controls; annual report](%C2%A7%2004107%20-%20Administrative%20controls%3B%20annual%20report.md)
 - [&sect; 04108 - Cooperation and coordination](%C2%A7%2004108%20-%20Cooperation%20and%20coordination.md)
 - [&sect; 04109 - National Veterans&#8217; Employment and Training Services Institute](%C2%A7%2004109%20-%20National%20Veterans%E2%80%99%20Employment%20and%20Training%20Services%20Institute.md)
-- [&sect; 04110 - Advisory Committee on Veterans Employment and Training](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md)
+- [&sect; 04110 - Advisory Committee on Veterans Employment, Training, and Employer Outreach](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%2C%20Training%2C%20and%20Employer%20Outreach.md)
 - [&sect; 04110A - Special unemployment study](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md)
 - [&sect; 04110B - Coordination and nonduplication](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md)
 - [&sect; 04111 - Repealed. Pub. L. 107&#8211;95, &sect;5(e)(3), Dec. 21, 2001, 115 Stat. 918](%C2%A7%2004111%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9395%2C%20%C2%A75%28e%29%283%29%2C%20Dec.%2021%2C%202001%2C%20115%20Stat.%20918.md)
 - [&sect; 04112 - Performance incentive awards for quality employment, training, and placement services](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md)
 - [&sect; 04113 - Outstationing of Transition Assistance Program personnel](%C2%A7%2004113%20-%20Outstationing%20of%20Transition%20Assistance%20Program%20personnel.md)
+- [&sect; 04114 - Credentialing and licensure of veterans demonstration project](%C2%A7%2004114%20-%20Credentialing%20and%20licensure%20of%20veterans%20demonstration%20project.md)

@@ -8,15 +8,9 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 &emsp;(3) all rules, regulations, or final orders of—
 
-&emsp;&emsp;(A) the Secretary of Transportation issued pursuant to section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a) <sup>1</sup> or pursuant to part B or C of subtitle IV, subchapter III of chapter 311, chapter 313, or chapter 315 of title 49; and
+&emsp;&emsp;(A) the Secretary of Transportation issued pursuant to section 50501, 50502, 56101–56104, or 57109 of title 46 or pursuant to part B or C of subtitle IV, subchapter III of chapter 311, chapter 313, or chapter 315 of title 49; and
 
-&emsp;&emsp;(B) the Federal Maritime Commission issued pursuant to—
-
-&emsp;&emsp;&emsp;(i) section 19 of the Merchant Marine Act, 1920 (46 U.S.C. App. 876);
-
-&emsp;&emsp;&emsp;(ii) section 14 or 17 of the Shipping Act of 1984 (46 U.S.C. App. 1713 or 1716); or
-
-&emsp;&emsp;&emsp;(iii) section 2(d) or 3(d) of the Act of November 6, 1966 (46 U.S.C. App. 817d(d) or 817e(d) <sup>2</sup>;
+&emsp;&emsp;(B) the Federal Maritime Commission issued pursuant to section 305, 41304, 41308, or 41309 or chapter 421 or 441 of title 46;
 
 &emsp;(4) all final orders of the Atomic Energy Commission made reviewable by section 2239 of title 42;
 
@@ -28,7 +22,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 > Jurisdiction is invoked by filing a petition as provided by section 2344 of this title.
 
-(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 109–59, title IV, §4125(a), Aug. 10, 2005, 119 Stat. 1738.)
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 109–59, title IV, §4125(a), Aug. 10, 2005, 119 Stat. 1738; Pub. L. 109–304, §17(f)(3), Oct. 6, 2006, 120 Stat. 1708.)
 
 Historical and Revision Notes
 
@@ -58,6 +52,18 @@ Section 812 of the Fair Housing Act, referred to in par. (6), is classified to s
 
 #### Amendments
 
+2006—Par. (3)(A). Pub. L. 109–304, §17(f)(3)(A), substituted “section 50501, 50502, 56101–56104, or 57109 of title 46” for “section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a)”.
+
+Par. (3)(B). Pub. L. 109–304, §17(f)(3)(B), added subpar. (B) and struck out former subpar. (B) which read as follows:
+
+“(B) the Federal Maritime Commission issued pursuant to—
+
+&emsp;“(i) section 19 of the Merchant Marine Act, 1920 (46 U.S.C. App. 876);
+
+&emsp;“(ii) section 14 or 17 of the Shipping Act of 1984 (46 U.S.C. App. 1713 or 1716); or
+
+&emsp;“(iii) section 2(d) or 3(d) of the Act of November 6, 1966 (46 U.S.C. App. 817d(d) or 817e(d);”.
+
 2005—Par. (3)(A). Pub. L. 109–59 inserted “, subchapter III of chapter 311, chapter 313, or chapter 315” before “of title 49”.
 
 1996—Par. (3)(A). Pub. L. 104–287 amended Pub. L. 104–88, §305(d)(6). See 1995 Amendment note below.
@@ -84,7 +90,7 @@ Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former pa
 
 1984—Par. (5). Pub. L. 98–554 substituted “11901(j)(2)” for “11901(i)(2)”.
 
-1982—Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “court of appeals” in provisions preceding par. (1), and struck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
+1982—Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “court of appeals” in provisions preceding par. (1), andstruck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
 
 1980—Par. (5). Pub. L. 96–454 inserted “and all final orders of such Commission made reviewable under section 11901(i)(2) of title 49, United States Code” after “section 2321 of this title”.
 
@@ -123,8 +129,4 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
-
-<i><sup>1</sup></i><i> So in original. The reference to “841a” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

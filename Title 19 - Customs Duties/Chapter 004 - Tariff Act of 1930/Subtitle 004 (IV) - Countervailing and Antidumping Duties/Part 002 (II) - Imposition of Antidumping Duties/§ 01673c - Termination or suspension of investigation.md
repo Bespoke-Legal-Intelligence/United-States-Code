@@ -6,7 +6,7 @@
 
 #### (A) Withdrawal of petition
 
-&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
+&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner orby the administering authority if the investigation was initiated under section 1673a(a) of this title.
 
 #### (B) Refiling of petition
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

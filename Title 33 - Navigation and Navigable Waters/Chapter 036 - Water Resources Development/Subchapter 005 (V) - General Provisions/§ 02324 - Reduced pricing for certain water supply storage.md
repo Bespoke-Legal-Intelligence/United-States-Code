@@ -6,7 +6,7 @@ If a low income community requests the Secretary to provide water supply storage
 
 #### (b) Maximum amount of storage space
 
-The maximum amount of water supply storage space which may be provided to a community under this section may not exceed an amount of water supply storage space sufficient to yield 2,000,000 gallons of water per day.
+The maximum amount of water supply storage space which may be provided to a communityunder this section may not exceed an amount of water supply storage space sufficient to yield 2,000,000 gallons of water per day.
 
 #### (c) Price
 

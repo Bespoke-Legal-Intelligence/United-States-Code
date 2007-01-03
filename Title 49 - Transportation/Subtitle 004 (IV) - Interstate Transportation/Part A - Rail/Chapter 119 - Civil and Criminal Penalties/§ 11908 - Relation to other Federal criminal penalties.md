@@ -8,7 +8,7 @@ Notwithstanding section 3571 of title 18, United States Code, the criminal penal
 
 Prior sections 11908 to 11917 were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-Section 11908, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459; Pub. L. 99–521, §13(b)(1), (2), Oct. 22, 1986, 100 Stat.2998, 2999, related to penalty for abandonment of service by household goods freight forwarders.
+Section 11908, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459; Pub. L. 99–521, §13(b)(1), (2), Oct. 22, 1986, 100 Stat. 2998, 2999, related to penalty for abandonment of service by household goods freight forwarders.
 
 Section 11909, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1460; Pub. L. 96–258, §1(15), June 3, 1980, 94 Stat. 427; Pub. L. 97–424, title IV, §427(a), Jan. 6, 1983, 96 Stat. 2168; Pub. L. 98–216, §2(20), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–521, §13(c), Oct. 22, 1986, 100 Stat. 2999; Pub. L. 103–180, §6(c), Dec. 3, 1993, 107 Stat. 2051; Pub. L. 103–272, §4(j)(35), July 5, 1994, 108 Stat. 1370, related to penalties for record keeping and reporting violations. See sections 11903, 14907, and 16102 of this title.
 

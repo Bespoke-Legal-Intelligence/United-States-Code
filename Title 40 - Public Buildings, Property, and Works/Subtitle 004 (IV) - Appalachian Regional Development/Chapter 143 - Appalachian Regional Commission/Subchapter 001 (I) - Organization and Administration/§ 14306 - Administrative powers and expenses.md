@@ -6,7 +6,7 @@ Powers.—To carry out its duties under this subtitle, the Appalachian Regional 
 
 &emsp;(1) adopt, amend, and repeal bylaws and regulations governing the conduct of its business and the performance of its functions;
 
-&emsp;(2) appoint and fix the compensation of an executive director and other personnel as necessary to enable the Commission to carry out its functions, except that the compensation shall not exceed the maximum rate of basic pay for the Senior Executive Service undersection 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5;
+&emsp;(2) appoint and fix the compensation of an executive director and other personnel as necessary to enable the Commission to carry out its functions, except that the compensation shall not exceed the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5;
 
 &emsp;(3) request the head of any federal department or agency to detail to temporary duty with the Commission personnel within the administrative jurisdiction of the head of the department or agency that the Commission may need for carrying out its functions, each detail to be without loss of seniority, pay, or other employee status;
 

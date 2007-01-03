@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1986—Subsec. (e). Pub. L. 99–550 struck out subsec. (e) which provided that passenger motor vehicles of the United States could be used to provide transportation between the residence and place of work of the Commandant. See section 1344 of Title 31, Money and Finance.
+1986—Subsec. (e). Pub. L. 99–550 struck out subsec. (e) which provided that passenger motor vehicles of theUnited States could be used to provide transportation between the residence and place of work of the Commandant. See section 1344 of Title 31, Money and Finance.
 
 1985—Subsec. (e). Pub. L. 99–145 added subsec. (e).
 

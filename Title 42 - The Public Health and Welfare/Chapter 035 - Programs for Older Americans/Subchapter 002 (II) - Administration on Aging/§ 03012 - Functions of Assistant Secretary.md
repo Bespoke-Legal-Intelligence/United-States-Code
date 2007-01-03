@@ -12,7 +12,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(4) administer the grants provided by this chapter;
 
-&emsp;(5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, and health (including mental health) services;
+&emsp;(5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, assistive technology, and health (including mental health) services;
 
 &emsp;(6) provide technical assistance and consultation to States and political subdivisions thereof with respect to programs for the aged and aging;
 
@@ -26,7 +26,15 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(11) coordinate, and assist in, the planning and development by public (including Federal, State, and local agencies) and private organizations of programs for older individuals, with a view to the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
 
-&emsp;(12) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the programs of the National Housing Act \[12 U.S.C. 1701 et seq.\] relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
+&emsp;(12)(A) consult and coordinate activities with the Administrator of the Centers for Medicare \& Medicaid Services and the heads of other Federal entities to implement and build awareness of programs providing benefits affecting older individuals; and
+
+&emsp;(B) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of the programs and activities carried out under—
+
+&emsp;&emsp;(i) titles XVIII and XIX of the Social Security Act (42 U.S.C. 1395 et seq., 1396 et seq.);
+
+&emsp;&emsp;(ii) the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.); and
+
+&emsp;&emsp;(iii) the National Housing Act (12 U.S.C. 1701 et seq.) relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
 
 &emsp;(13) provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
 
@@ -76,7 +84,27 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(19) conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships;
 
-&emsp;(20) encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Actof 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;
+&emsp;(20)(A) encourage, and provide technical assistance to, States, area agencies on aging, and service providers to carry out outreach and benefits enrollment assistance to inform and enroll older individuals with greatest economic need, who may be eligible to participate, but who are not participating, in Federal and State programs providing benefits for which the individuals are eligible, including—
+
+&emsp;&emsp;(i) supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or assistance under a State plan program under such title;
+
+&emsp;&emsp;(ii) medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.);
+
+&emsp;&emsp;(iii) benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.); or
+
+&emsp;&emsp;(iv) benefits under any other applicable program; and
+
+&emsp;(B) at the election of the Assistant Secretary and in cooperation with related Federal agency partners administering the Federal programs, make a grant to or enter into a contract with a qualified, experienced entity to establish a National Center on Senior Benefits Outreach and Enrollment, which shall—
+
+&emsp;&emsp;(i) maintain and update web-based decision support and enrollment tools, and integrated, person-centered systems, designed to inform older individuals about the full range of benefits for which the individuals may be eligible under Federal and State programs;
+
+&emsp;&emsp;(ii) utilize cost-effective strategies to find older individuals with greatest economic need and enroll the individuals in the programs;
+
+&emsp;&emsp;(iii) create and support efforts for Aging and Disability Resource Centers, and other public and private State and community-based organizations, including faith-based organizations and coalitions, to serve as benefits enrollment centers for the programs;
+
+&emsp;&emsp;(iv) develop and maintain an information clearinghouse on best practices and cost-effective methods for finding and enrolling older individuals with greatest economic need in the programs for which the individuals are eligible; and
+
+&emsp;&emsp;(v) provide, in collaboration with related Federal agency partners administering the Federal programs, training and technical assistance on effective outreach, screening, enrollment, and follow-up strategies;
 
 &emsp;(21) establish information and assistance services as priority services for older individuals, and develop and operate, either directly or through contracts, grants, or cooperative agreements, a National Eldercare Locator Service, providing information and assistance services through a nationwide toll-free number to identify community resources for older individuals;
 
@@ -96,35 +124,93 @@ It shall be the duty and function of the Administration to—
 
 &emsp;&emsp;(C) a participant identification and description system;
 
-&emsp;&emsp;(D) procedures for collecting information on gaps in services needed by older individuals, as identified by service providers in assisting clients through the provision of the supportive services; and
+&emsp;&emsp;(D) procedures for collecting information on services needed by older individuals (including services that would permit such individuals to receive long-term care in home and community-based settings), as identified by service providers in assisting clients through the provision of the supportive services; and
 
-&emsp;&emsp;(E) procedures for the assessment of unmet needs for services under this chapter; and
+&emsp;&emsp;(E) procedures for the assessment of unmet needs for services under this chapter;
 
 &emsp;(27) improve the delivery of services to older individuals living in rural areas through—
 
 &emsp;&emsp;(A) synthesizing results of research on how best to meet the service needs of older individuals in rural areas;
 
-&emsp;&emsp;(B) developing a resource guide on best practices for States, area agencies on aging, and service providers;
+&emsp;&emsp;(B) developing a resource guide on best practices for States, area agencies on aging, and service providers; and
 
 &emsp;&emsp;(C) providing training and technical assistance to States to implement these best practices of service delivery; and
 
-&emsp;&emsp;(D) submitting a report on the States’ experiences in implementing these best practices and the effect these innovations are having on improving service delivery in rural areas to the relevant committees not later than 36 months after November 13, 2000.
+&emsp;(28) make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services.
 
-#### (b) Policy alternatives in long-term care
+#### (b) Development and implementation of comprehensive, coordinated systems for long-term care
 
-In order to strengthen the involvement of the Administration in the development of policy alternatives in long-term care and to insure that the development of community alternatives is given priority attention, the Assistant Secretary shall—
+To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in homeand community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
 
-&emsp;(1) develop planning linkages with utilization and quality control peer review organizations under title XI of the Social Security Act \[42 U.S.C. 1301 et seq.\], with the Substance Abuse and Mental Health Services Administration and the Administration on Developmental Disabilities;
+&emsp;(1) collaborate, coordinate, and consult with other Federal entities responsible for formulating and implementing programs, benefits, and services related to providing long-term care, and may make grants, contracts, and cooperative agreements with funds received from other Federal entities;
 
-&emsp;(2) participate in all departmental and interdepartmental activities which concern issues of institutional and noninstitutional long-term health care services development;
+&emsp;(2) conduct research and demonstration projects to identify innovative, cost-effective strategies for modifying State systems of long-term care to—
 
-&emsp;(3) review and comment on all departmental regulations and policies regarding community health and social service development for older individuals; and
+&emsp;&emsp;(A) respond to the needs and preferences of older individuals and family caregivers; and
 
-&emsp;(4) participate in all departmental and interdepartmental activities to provide a leadership role for the Administration, State agencies, and area agencies on aging in the development and implementation of a national community-based long-term care program for older individuals.
+&emsp;&emsp;(B) target services to individuals at risk for institutional placement, to permit such individuals to remain in home and community-based settings;
 
-#### (c) Encouragement by Assistant Secretary of program and activity by voluntary social services group
+&emsp;(3) establish criteria for and promote the implementation (through area agencies on aging, service providers, and such other entities as the Assistant Secretary determines to be appropriate) of evidence-based programs to assist older individuals and their family caregivers in learning about and making behavioral changes intended to reduce the risk of injury, disease, and disability among older individuals;
 
-In executing the duties and functions of the Administration under this chapter and carrying out the programs and activities provided for by this chapter, the Assistant Secretary, in consultation with the Corporation for National and Community Service, shall take all possible steps to encourage and permit voluntary groups active in supportive services, including youth organizations active at the high school or college levels, to participate and be involved individually or through representative groups in such programs or activities to the maximum extent feasible, through the performance of advisory or consultative functions, and in other appropriate ways.
+&emsp;(4) facilitate, in coordination with the Administrator of the Centers for Medicare \& Medicaid Services, and other heads of Federal entities as appropriate, the provision of long-term care in home and community-based settings, including the provision of such care through self-directed care models that—
+
+&emsp;&emsp;(A) provide for the assessment of the needs and preferences of an individual at risk for institutional placement to help such individual avoid unnecessary institutional placement and depletion of income and assets to qualify for benefits under the Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.);
+
+&emsp;&emsp;(B) respond to the needs and preferences of such individual and provide the option—
+
+&emsp;&emsp;&emsp;(i) for the individual to direct and control the receipt of supportive services provided; or
+
+&emsp;&emsp;&emsp;(ii) as appropriate, for a person who was appointed by the individual, or is legally acting on the individual's behalf, in order to represent or advise the individual in financial or service coordination matters (referred to in this paragraph as a “representative” of the individual), to direct and control the receipt of those services; and
+
+&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) to develop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
+
+&emsp;(5) provide for the Administration to play a lead role with respect to issues concerning home and community-based long-term care, including—
+
+&emsp;&emsp;(A) directing (as the Secretary or the President determines to be appropriate) or otherwise participating in departmental and interdepartmental activities concerning long-term care;
+
+&emsp;&emsp;(B) reviewing and commenting on departmental rules, regulations, and policies related to providing long-term care; and
+
+&emsp;&emsp;(C) making recommendations to the Secretary with respect to home and community-based long-term care, including recommendations based on findings made through projects conducted under paragraph (2);
+
+&emsp;(6) promote, in coordination with other appropriate Federal agencies—
+
+&emsp;&emsp;(A) enhanced awareness by the public of the importance of planning in advance for long-term care; and
+
+&emsp;&emsp;(B) the availability of information and resources to assist in such planning;
+
+&emsp;(7) ensure access to, and the dissemination of, information about all long-term care options and service providers, including the availability of integrated long-term care;
+
+&emsp;(8) implement in all States Aging and Disability Resource Centers—
+
+&emsp;&emsp;(A) to serve as visible and trusted sources of information on the full range of long-term care options, including both institutional and home and community-based care, which are available in the community;
+
+&emsp;&emsp;(B) to provide personalized and consumer-friendly assistance to empower individuals to make informed decisions about their care options;
+
+&emsp;&emsp;(C) to provide coordinated and streamlined access to all publicly supported long-term care options so that consumers can obtain the care they need through a single intake, assessment, and eligibility determination process;
+
+&emsp;&emsp;(D) to help individuals to plan ahead for their future long-term care needs; and
+
+&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
+
+&emsp;(9) establish, either directly or through grants or contracts, national technical assistance programs to assist State agencies, area agencies on aging, and community-based service providers funded under this chapter in implementing—
+
+&emsp;&emsp;(A) home and community-based long-term care systems, including evidence-based programs; and
+
+&emsp;&emsp;(B) evidence-based disease prevention and health promotion services programs;
+
+&emsp;(10) develop, in collaboration with the Administrator of the Centers for Medicare \&Medicaid Services, performance standards and measures for use by States to determine the extent to which their State systems of long-term care fulfill the objectives described in this subsection; and
+
+&emsp;(11) conduct such other activities as the Assistant Secretary determines to be appropriate.
+
+#### (c) Encouragement of participation by volunteer groups, utilization of older individuals, and cost savings
+
+The Assistant Secretary, in consultation with the Chief Executive Officer of the Corporation for National and Community Service, shall—
+
+&emsp;(1) encourage and permit volunteer groups (including organizations carrying out national service programs and including organizations of youth in secondary or postsecondary school) that are active in supportive services and civic engagement to participate and be involved individually or through representative groups in supportive service and civic engagement programs or activities to the maximum extent feasible;
+
+&emsp;(2) develop a comprehensive strategy for utilizing older individuals to address critical local needs of national concern, including the engagement of older individuals in the activities of public and nonprofit organizations such as community-based organizations, including faith-based organizations; and
+
+&emsp;(3) encourage other community capacity-building initiatives involving older individuals, with particular attention to initiatives that demonstrate effectiveness and cost savings in meeting critical needs.
 
 #### (d) National Center on Elder Abuse
 
@@ -174,7 +260,7 @@ In executing the duties and functions of the Administration under this chapter a
 
 &emsp;(v) provide technical assistance, training, and other means of assistance to State agencies, area agencies on aging, and service providers, regarding State and local data collection and analysis; and
 
-&emsp;(vi) be a national resource on statistical data regarding aging; <sup>1</sup>
+&emsp;(vi) be a national resource on statistical data regarding aging.
 
 (B) To be eligible to receive a grant or enter into a contract under subparagraph (A), an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
 
@@ -216,23 +302,39 @@ In executing the duties and functions of the Administration under this chapter a
 
 &emsp;(D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
 
-(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459,title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291.)
+(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528.)
 
 #### References in Text
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Social Security Act, referred to in subsecs. (a)(12)(B)(i), (17)(B), (20)(A)(i), (ii) and (b)(4)(A), (8)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI, XVIII, and XIX of that Act are classified generally to subchapters XVI (§1381 et seq.), XVIII (§1395 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The National Housing Act, referred to in subsec. (a)(12), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12)(B)(ii), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(17)(A), (20), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The National Housing Act, referred to in subsec. (a)(12)(B)(iii), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(17)(B), (20), and (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XI, XVI, and XIX of that Act are classified generally to subchapters XI (§1301 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(17)(A), (20)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-#### Codification
-
-November 13, 2000, referred to in subsec. (a)(27)(D), was in the original “enactment”, which was translated as meaning the date of enactment of Pub. L. 106–501, which enacted subsec. (a)(27), to reflect the probable intent of Congress.
+The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(8)(E), is Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1305 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (a)(5). Pub. L. 109–365, §202(1)(A), inserted “assistive technology,” after “housing,”.
+
+Subsec. (a)(12). Pub. L. 109–365, §202(1)(B), added par. (12) and struck out former par. (12) which read as follows: “carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967, and the programs of the National Housing Act relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;”.
+
+Subsec. (a)(20). Pub. L. 109–365, §202(1)(C), added par. (20) and struck out former par. (20) which read as follows: “encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;”.
+
+Subsec. (a)(26)(D). Pub. L. 109–365, §202(1)(D)(i), struck out “gaps in” after “collecting information on” and inserted “(including services that would permit such individuals to receive long-term care in home and community-based settings)” after “individuals”.
+
+Subsec. (a)(27)(B). Pub. L. 109–365, §202(1)(E)(i), inserted “and” at end.
+
+Subsec. (a)(27)(D). Pub. L. 109–365, §202(1)(E)(ii), struck out subpar. (D) which read as follows: “submitting a report on the States’ experiences in implementing these best practices and the effect these innovations are having on improving service delivery in rural areas to the relevant committees not later than 36 months after November 13, 2000.”
+
+Subsec. (a)(28). Pub. L. 109–365, §202(1)(D)(ii), (F), added par. (28).
+
+Subsecs. (b), (c). Pub. L. 109–365, §202(2), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c), which related to policy alternatives in long-term care and participation of volunteer groups in programs and activities.
+
+Subsec. (e)(1)(A). Pub. L. 109–365, §202(3), substituted a period for semicolon at end.
 
 2000—Subsec. (a)(9). Pub. L. 106–501, §201(1)(A), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
 
@@ -390,7 +492,7 @@ Subsec. (a)(1). Pub. L. 97–115, §2(b)(2), substituted “Department of Health
 
 Subsec. (a)(2). Pub. L. 97–115, §2(b)(3), substituted “collect and disseminate” for “serve as a clearinghouse for”.
 
-Subsec. (a)(5). Pub. L. 97–115, §§2(b)(4), 3(d), substituted “supportive services” for “social services” and“hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing” for “hospitalization, preretirement training, continuing education, low-cost transportation and housing”.
+Subsec. (a)(5). Pub. L. 97–115, §§2(b)(4), 3(d), substituted “supportive services” for “social services” and “hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing” for “hospitalization, preretirement training, continuing education, low-cost transportation and housing”.
 
 Subsec. (a)(8). Pub. L. 97–115, §2(b)(5), inserted provisions authorizing and directing Administration to take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to collection, preparation, and dissemination of information relevant to older individuals.
 
@@ -453,6 +555,4 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 #### Deadline for Development of Data Collection Procedures
 
 Pub. L. 102–375, title II, §202(h), Sept. 30, 1992, 106 Stat. 1210, provided that, not later than 1 year after Sept. 30, 1992, the data collection procedures required by section 3012(a)(29) of this title would be developed jointly by the Commissioner on Aging and the Assistant Secretary of Planning and Evaluation of the Department of Health and Human Services with advisory information from State and local agencies, recipients, and providers and considering the data collection systems carried out by States identified as exemplary by the GAO; and that, not later than 1 year after developing such data collection procedures, the Commissioner was to test, report to Congress on, and implement appropriately such procedures.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

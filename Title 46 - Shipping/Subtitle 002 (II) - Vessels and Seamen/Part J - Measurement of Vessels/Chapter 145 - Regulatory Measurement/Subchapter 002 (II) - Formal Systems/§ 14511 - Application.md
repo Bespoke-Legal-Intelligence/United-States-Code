@@ -12,7 +12,7 @@ This subchapter applies to a vessel described in section 14501 of this title if�
 
 &emsp;&emsp;(C) not operated only for pleasure.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
 
 #### Historical and Revision Notes
 

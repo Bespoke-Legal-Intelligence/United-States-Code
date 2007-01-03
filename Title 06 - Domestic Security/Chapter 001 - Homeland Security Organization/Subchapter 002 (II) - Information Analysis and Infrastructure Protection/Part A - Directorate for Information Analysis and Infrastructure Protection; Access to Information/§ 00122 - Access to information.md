@@ -20,7 +20,7 @@ Except as otherwise directed by the President, with respect to information to wh
 
 &emsp;&emsp;(A) all reports (including information reports containing intelligence which has not been fully evaluated), assessments, and analytical information relating to threats of terrorism against the United States and to other areas of responsibility assigned by the Secretary;
 
-&emsp;&emsp;(B) all information concerning the vulnerability of the infrastructure of the UnitedStates, or other vulnerabilities of the United States, to terrorism, whether or not such information has been analyzed;
+&emsp;&emsp;(B) all information concerning the vulnerability of the infrastructure of the United States, or other vulnerabilities of the United States, to terrorism, whether or not such information has been analyzed;
 
 &emsp;&emsp;(C) all other information relating to significant and credible threats of terrorism against the United States, whether or not such information has been analyzed; and
 
@@ -44,13 +44,13 @@ The Secretary shall be deemed to be a Federal law enforcement, intelligence, pro
 
 #### (2) Sharing of information
 
-&emsp;The Secretary, in consultation with the Director of Central Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with the elements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
+&emsp;The Secretary, in consultation with the Director of Central Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with theelements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
 
 (Pub. L. 107–296, title II, §202, Nov. 25, 2002, 116 Stat. 2149.)
 
 #### References in Text
 
-The USA PATRIOT Act of 2001, referred to in subsec. (c)(1), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, as amended, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The USA PATRIOT Act of 2001, referred to in subsec. (c)(1), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c)(3), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 

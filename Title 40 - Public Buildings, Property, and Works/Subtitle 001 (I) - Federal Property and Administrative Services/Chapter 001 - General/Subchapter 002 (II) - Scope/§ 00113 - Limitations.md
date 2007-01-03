@@ -56,7 +56,7 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;&emsp;&emsp;(i) acquired or held as part of, or in connection with, residential property; or
 
-&emsp;&emsp;&emsp;(ii) held in connection with the insurance of mortgages, loans, or savings association accounts under the National Housing Act (12 U.S.C. 1701 et seq.), the FederalDeposit Insurance Act (12 U.S.C. 1811 et seq.), or any other law;
+&emsp;&emsp;&emsp;(ii) held in connection with the insurance of mortgages, loans, or savings association accounts under the National Housing Act (12 U.S.C. 1701 et seq.), the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), or any other law;
 
 &emsp;(11) the Tennessee Valley Authority with respect to nonpersonal services, with respect to section 501(c) of this title, and with respect to property acquired in connection with a program of processing, manufacture, production, or force account construction, but the Authority shall, to the maximum extent it considers practicable, consistent with the purposes of its program and the effective, efficient conduct of its business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;
 
@@ -124,7 +124,7 @@ In subsection (e)(3), the words “chapter 137 of title 10” and “that chapte
 
 In subsection (e)(4), the words “Secretary of Defense” are substituted for “National Military Establishment” in section 602(d)(4) of the Federal Property and Administrative Services Act of 1949, because of section 12(a), (g) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591) and because of 10:113(a).
 
-In subsection (e)(5), the words “section 2535 of title 10” are substituted for “the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]” because the National Industrial Reserve Act was renamed “Defense Industrial Reserve Act” by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the NationalDefense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
+In subsection (e)(5), the words “section 2535 of title 10” are substituted for “the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]” because the National Industrial Reserve Act was renamed “Defense Industrial Reserve Act” by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
 In subsection (e)(6), the words “the Munitions Board” are omitted because sections 1 and 2 of Reorganization Plan No. 6 of 1953 (eff. June 30, 1953, 67 Stat. 638) abolished the Munitions Board and transferred the Board's functions to the Secretary of Defense.
 

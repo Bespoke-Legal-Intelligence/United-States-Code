@@ -35,6 +35,7 @@
 | [1135\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001135%20-%20Secretary%20of%20Transportation%27s%20responses%20to%20safety%20recommendations.md) | Secretary of Transportation's responses to safety recommendations. |
 | [1136\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001136%20-%20Assistance%20to%20families%20of%20passengers%20involved%20in%20aircraft%20accidents.md) | Assistance to families of passengers involved in aircraft accidents. |
 | [1137\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001137%20-%20Authority%20of%20the%20Inspector%20General.md) | Authority of the Inspector General. |
+| [1138\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001138%20-%20Evaluation%20and%20audit%20of%20National%20Transportation%20Safety%20Board.md) | Evaluation and audit of National Transportation Safety Board <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,6 +52,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–443, §5(b), Dec. 21, 2006, 120 Stat. 3300, added item 1138.
 
 2000—Pub. L. 106–424, §§5(c)(2), 12(b), Nov. 1, 2000, 114 Stat. 1885, 1887, added item 1137 and substituted “and surface vehicle recordings and transcripts” for “voice and other material” in item 1154.
 

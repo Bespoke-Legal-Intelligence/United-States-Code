@@ -30,7 +30,7 @@ In this chapter:
 
 #### (6) Person
 
-&emsp;The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign governmentor nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
+&emsp;The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
 
 #### (7) Precursor
 
@@ -242,7 +242,7 @@ In this chapter:
 
 &emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>1</sup> respectively, of section 40102 of title 49; and
 
-&emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 1903(b) of title 46, Appendix.
+&emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 70502(b) of title 46.
 
 #### (15) Unscheduled discrete organic chemical
 
@@ -256,7 +256,9 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (14)(A) and (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
 
-Section 1903(b) of title 46, Appendix, referred to in par. (14)(C), was in the original “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))” and was translated as reading section 3(b) of the Maritime Drug Law Enforcement Act to reflect the probable intent of Congress.
+#### Codification
+
+In par. 14(C), “section 70502(b) of title 46” substituted for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”, meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
 #### Short Title
 

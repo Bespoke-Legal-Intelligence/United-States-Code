@@ -108,5 +108,5 @@ Functions of President under subsec. (c) to make certain temporary appointments 
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provision that any officer who on September 15, 1981 holds a temporary appointment in the grade oflieutenant commander under former section 5787d of this title, shall on and after that date be considered to be serving in such grade as if the appointment had been made under this section, see section 617 of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provision that any officer who on September 15, 1981 holds a temporary appointment in the grade of lieutenant commander under former section 5787d of this title, shall on and after that date be considered to be serving in such grade as if the appointment had been made under this section, see section 617 of Pub. L. 96–513, set out as a note under section 611 of this title.
 

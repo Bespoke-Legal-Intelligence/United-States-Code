@@ -46,7 +46,7 @@ Of the amount of funds authorized to be appropriated by subsection (a)(1)(A) of 
 
 #### (1) Use of existing furniture, furnishings, and equipment
 
-&emsp;If physically possible, facilities constructed or acquired pursuant to subsection (a) of thissection shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
+&emsp;If physically possible, facilities constructed or acquired pursuant to subsection (a) of this section shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
 
 #### (2) Omitted
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec.
 
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
-1987—Subsec. (a)(3). Pub. L. 100–204 inserted sentence at end providing that authorizations of appropriations under this paragraph remain available until appropriations are made.
+1987—Subsec. (a)(3). Pub. L. 100–204 inserted sentence at end providing that authorizations of appropriationsunder this paragraph remain available until appropriations are made.
 
 #### Change of Name
 

@@ -236,7 +236,7 @@
 
 #### (V) <sup>2</sup> No national fallback plan
 
-&emsp;&emsp;&emsp;The Secretary shall not enter into a contract with a single fallback entity for the offering of fallback plans throughout the United States.
+&emsp;&emsp;&emsp;The Secretary shall not enter into a contract with a single fallback entity for theoffering of fallback plans throughout the United States.
 
 #### (2) Eligible fallback entity
 
@@ -312,7 +312,7 @@
 
 #### (C) Entity not permitted to market or brand fallback prescription drug plans
 
-&emsp;&emsp;An eligible fallback entity with a contract under this subsection may not engage in any marketing or branding of a fallback prescription drug plan.
+&emsp;&emsp;An eligible fallback entity with a contract under this subsection may not engage in anymarketing or branding of a fallback prescription drug plan.
 
 #### (h) Annual report on use of limited risk plans and fallback plans
 

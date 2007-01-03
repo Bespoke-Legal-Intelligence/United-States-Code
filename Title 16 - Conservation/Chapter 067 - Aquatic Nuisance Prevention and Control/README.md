@@ -5,8 +5,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [4701\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2004701%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
 | [4702\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2004702%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,32 +14,9 @@
 |  |  |
 | :--- | ---: |
 | [4711\.](Subchapter%20002%20%28II%29%20-%20Prevention%20of%20Unintentional%20Introductions%20of%20Nonindigenous%20Aquatic%20Species/%C2%A7%2004711%20-%20Aquatic%20nuisance%20species%20in%20waters%20of%20United%20States.md) | Aquatic nuisance species in waters of United States. |
-| (a) | Great Lakes guidelines. |
-| (b) | Regulations. |
-| (c) | Voluntary national guidelines. |
-| (d) | Report to Congress. |
-| (e) | Periodic review and revision. |
-| (f) | Authority of Secretary. |
-| (g) | Sanctions. |
-| (h) | Coordination with other agencies. |
-| (i) | Consultation with Canada, Mexico and other foreign governments. |
-| (j) | International cooperation. |
-| (k) | Safety exemption. |
-| (<i>l</i>) | Non-discrimination. |
 | [4712\.](Subchapter%20002%20%28II%29%20-%20Prevention%20of%20Unintentional%20Introductions%20of%20Nonindigenous%20Aquatic%20Species/%C2%A7%2004712%20-%20National%20ballast%20water%20management%20information.md) | National ballast water management information. |
-| (a) | Studies on introduction of aquatic nuisance species by vessels. |
-| (b) | Ecological and ballast water discharge surveys. |
-| (c) | Reports. |
-| (d) | Negotiations. |
-| (e) | Regional research grants. |
-| (f) | National ballast information clearinghouse. |
 | [4713\.](Subchapter%20002%20%28II%29%20-%20Prevention%20of%20Unintentional%20Introductions%20of%20Nonindigenous%20Aquatic%20Species/%C2%A7%2004713%20-%20Armed%20services%20ballast%20water%20programs.md) | Armed services ballast water programs. |
-| (a) | Department of Defense vessels. |
-| (b) | Coast Guard vessels. |
 | [4714\.](Subchapter%20002%20%28II%29%20-%20Prevention%20of%20Unintentional%20Introductions%20of%20Nonindigenous%20Aquatic%20Species/%C2%A7%2004714%20-%20Ballast%20water%20management%20demonstration%20program.md) | Ballast water management demonstration program. |
-| (a) | “Technologies and practices” defined. |
-| (b) | Demonstration program. |
-| (c) | Authorities; consultation and cooperation with International Maritime Organization and Task Force. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,36 +25,11 @@
 |  |  |
 | :--- | ---: |
 | [4721\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004721%20-%20Establishment%20of%20Task%20Force.md) | Establishment of Task Force. |
-| (a) | Task Force. |
-| (b) | Membership. |
-| (c) | Ex officio members. |
-| (d) | Chairpersons. |
-| (e) | Memorandum of understanding. |
-| (f) | Coordination. |
 | [4722\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004722%20-%20Aquatic%20nuisance%20species%20program.md) | Aquatic nuisance species program. |
-| (a) | In general. |
-| (b) | Content. |
-| (c) | Prevention. |
-| (d) | Monitoring. |
-| (e) | Control. |
-| (f) | Research. |
-| (g) | Technical assistance. |
-| (h) | Education. |
-| (i) | Zebra mussel demonstration program. |
-| (j) | Implementation. |
-| (k) | Reports. |
 | [4723\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004723%20-%20Regional%20coordination.md) | Regional coordination. |
-| (a) | Great Lakes panel. |
-| (b) | Western regional panel. |
-| (c) | Additional regional panels. |
 | [4724\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004724%20-%20State%20aquatic%20nuisance%20species%20management%20plans.md) | State aquatic nuisance species management plans. |
-| (a) | State or interstate invasive species management plans. |
-| (b) | Grant program. |
-| (c) | Enforcement assistance. |
 | [4725\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004725%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | [4726\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004726%20-%20International%20cooperation.md) | International cooperation. |
-| (a) | Advice. |
-| (b) | Negotiations. |
 | [4727\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004727%20-%20Intentional%20introductions%20policy%20review.md) | Intentional introductions policy review. |
 | [4728\.](Subchapter%20003%20%28III%29%20-%20Prevention%20and%20Control%20of%20Aquatic%20Nuisance%20Species%20Dispersal/%C2%A7%2004728%20-%20Brown%20tree%20snake%20control%20program.md) | Brown tree snake control program. |
 
@@ -90,12 +40,6 @@
 |  |  |
 | :--- | ---: |
 | [4741\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2004741%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Prevention of unintentional introductions. |
-| (b) | Task Force and aquatic nuisance species program. |
-| (c) | Grants for State management programs. |
-| (d) | Intentional introductions policy review. |
-| (e) | Ballast water management demonstration program. |
-| (f) | Research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

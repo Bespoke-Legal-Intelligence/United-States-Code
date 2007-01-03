@@ -30,7 +30,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;&emsp;(i) to board, and search or inspect, any such vessel at any time,
 
-&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this title whenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or anyperson has committed an act prohibited by section 1857 of this title, and
+&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this title whenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or any person has committed an act prohibited by section 1857 of this title, and
 
 &emsp;&emsp;&emsp;(iii) to examine and make notations on the permit issued pursuant to section 1824 of this title for such vessel;
 
@@ -62,7 +62,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 #### (d) Total allowable level of foreign fishing
 
-The total allowable level of foreign fishing, if any, with respect to any fishery subject to the exclusive fishery management authority of the United States, shall be that portion of the optimum yield of such fishery which will not be harvested by vessels of the United States, as determined in accordance with this chapter.
+The total allowable level of foreign fishing, if any, with respect to any fishery subject to the exclusive fishery management authority of the United States, is that portion of the optimum yield of such fishery which cannot, or will not, be harvested by vessels of the United States, as determined in accordance with this chapter. Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.
 
 #### (e) Allocation of allowable level
 
@@ -82,9 +82,9 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 (E) The determinations required to be made under subparagraphs (A) and (D)(ii), and the apportionments required to be made under subparagraph (C), with respect to a foreign nation shall be based on—
 
-&emsp;(i) whether, and to what extent, such nation imposes tariff barriers or nontariff barriers on the importation, or otherwise restricts the market access, of both United States fish and fishery products, particularly fish and fishery products for which the foreign nation has requested an allocation;
+&emsp;(i) whether, and to what extent, such nation imposes tariff barriers or nontariff barriers on the importation, or otherwise restricts themarket access, of both United States fish and fishery products, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
-&emsp;(ii) whether, and to what extent, such nation is cooperating with the United States in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products fromUnited States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation;
+&emsp;(ii) whether, and to what extent, such nation is cooperating with the United States in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
 &emsp;(iii) whether, and to what extent, such nation and the fishing fleets of such nation have cooperated with the United States in the enforcement of United States fishing regulations;
 
@@ -168,7 +168,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 &emsp;(A) in a situation where a fleet of harvesting vessels transfers its catch taken within the exclusive economic zone to another vessel, aboard which is a United States observer, the stationing of United States observers on only a portion of the harvesting vessel fleet will provide a representative sampling of the by-catch of the fleet that is sufficient for purposes of determining whether the requirements of the applicable management plans for the by-catch species are being complied with;
 
-&emsp;(B) in a situation where the foreign fishing vessel is operating under a Pacific Insular Area fishing agreement, the Governor of the applicable Pacific Insular Area, in consultation with the Western Pacific Council, has established an observer coverage program that is at least equal in effectiveness to the program established by the Secretary;
+&emsp;(B) in a situation where the foreign fishing vessel is operating under a Pacific Insular Area fishing agreement, the Governor of the applicable Pacific Insular Area, in consultation with the Western Pacific Council, has established an observer coverage program or other monitoring program that the Secretary, in consultation with the Western Pacific Management Council, determines is adequate to monitor harvest, bycatch, and compliance with the laws of the United States by vessels fishing under the agreement;
 
 &emsp;(C) the time during which a foreign fishing vessel will engage in fishing within the exclusive economic zone will be of such short duration that the placing of a United States observer aboard the vessel would be impractical; or
 
@@ -194,7 +194,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
 
-(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563.)
+(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §5, title IV, §404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
 
 #### Amendment of Section
 
@@ -213,6 +213,10 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (d). Pub. L. 109–479, §5, substituted “is” for “shall be” and “cannot, or will not,” for “will not” and inserted at end “Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.”
+
+Subsec. (h)(2)(B). Pub. L. 109–479, §404(a), substituted “or other monitoring program that the Secretary, in consultation with the Western Pacific Management Council, determines is adequate to monitor harvest, bycatch, and compliance with the laws of the United States by vessels fishing under the agreement;” for “that is at least equal in effectiveness to the program established by the Secretary;”.
 
 1996—Subsec. (a)(1), (2). Pub. L. 104–297, §105(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -240,7 +244,7 @@ Subsec. (j). Pub. L. 104–297, §105(a)(4), redesignated subsec. (j) as (i).
 
 &emsp;“(2) all tariff and nontariff trade barriers imposed by such nations on the importation of such species from the United States.”
 
-1990—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreign fishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
+1990—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreignfishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
 
 1986—Subsecs. (a), (e)(1)(E)(iv). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone” in two places.
 
@@ -254,7 +258,7 @@ Subsec. (i)(2)(B). Pub. L. 99–659, §103(a)(3), amended subpar. (B) generally.
 
 &emsp;“(i) the time during which the vessel engages in such fishing will be of such short duration that the placing of a United States observer aboard the vessel would be impractical, or
 
-&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out ofobserver functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
+&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out of observer functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
 
 Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
@@ -312,7 +316,7 @@ Sections 237, 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Implementation of Pacific Albacore Tuna Treaty
 

@@ -24,7 +24,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(6) an analysis and description of the services performed during the preceding fiscal year by officers and employees of the United States Government carrying out functions on a full-time basis under this chapter for which reimbursement is provided under section 2792(b) of this title or section 2761(a) of this title, including the number of personnel involved in performing such services;
 
-&emsp;(7) the total amount of funds in the reserve under section 2764(c) of this title at the end ofthe fiscal year immediately preceding the fiscal year in which a report under this section is made, together with an assessment of the adequacy of such total amount of funds as a reserve for the payment of claims under guarantees issued pursuant to section 2764 of this title in view of the current debt servicing capacity of borrowing countries, as reported to the Congress pursuant to section 634(a)(5) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394(a)(5)\];
+&emsp;(7) the total amount of funds in the reserve under section 2764(c) of this title at the end of the fiscal year immediately preceding the fiscal year in which a report under this section is made, together with an assessment of the adequacy of such total amount of funds as a reserve for the payment of claims under guarantees issued pursuant to section 2764 of this title in view of the current debt servicing capacity of borrowing countries, as reported to the Congress pursuant to section 634(a)(5) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394(a)(5)\];
 
 &emsp;(8) a list of all countries with respect to which findings made by the President pursuant to section 2753(a)(1) of this title are in effect on the date of such transmission;
 
@@ -70,7 +70,7 @@ Subsection (d) of this section, referred to in subsec. (a), preceding par. (1), 
 
 Subsection (d) of this section, referred to in subsec. (a)(5)(B), probably means the subsec. (d) added by section 112(b) of Pub. L. 99–83, defining cash flow financing.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424,as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 

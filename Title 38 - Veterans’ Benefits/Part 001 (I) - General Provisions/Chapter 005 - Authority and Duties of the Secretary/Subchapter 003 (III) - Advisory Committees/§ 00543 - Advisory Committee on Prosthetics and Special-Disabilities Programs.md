@@ -6,7 +6,7 @@
 
 &emsp;(1) prosthetics and special-disabilities programs administered by the Secretary;
 
-&emsp;(2) the coordination of programs of the Department for the development and testing of,and for information exchange regarding, prosthetic devices;
+&emsp;(2) the coordination of programs of the Department for the development and testing of, and for information exchange regarding, prosthetic devices;
 
 &emsp;(3) the coordination of Department and non-Department programs that involve the development and testing of prosthetic devices; and
 

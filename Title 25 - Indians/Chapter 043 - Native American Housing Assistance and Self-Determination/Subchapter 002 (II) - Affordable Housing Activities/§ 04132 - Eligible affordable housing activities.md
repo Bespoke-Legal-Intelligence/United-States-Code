@@ -16,7 +16,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (4) Housing management services
 
-&emsp;The provision of management services for affordable housing, including preparation ofwork specifications, loan processing, inspections, tenant selection, management of tenant-based rental assistance, and management of affordable housing projects.
+&emsp;The provision of management services for affordable housing, including preparation of work specifications, loan processing, inspections, tenant selection, management of tenant-based rental assistance, and management of affordable housing projects.
 
 #### (5) Crime prevention and safety activities
 

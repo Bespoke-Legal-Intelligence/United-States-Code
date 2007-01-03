@@ -29,9 +29,6 @@
 | [117\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000117%20-%20Repealed.%20Pub.%20L.%2098%E2%80%9364%2C%20%C2%A74%28a%29%2C%20Aug.%202%2C%201983%2C%2097%20Stat.%20366.md) | Repealed. |
 | [117a.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000117a%20-%20Per%20capita%20distribution%20of%20funds%20to%20tribe%20members.md) | Per capita distribution of funds to tribe members. |
 | [117b.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000117b%20-%20Distribution%20of%20funds.md) | Distribution of funds. |
-| (a) | Previous contractual obligations; tax exemption. |
-| (b) | Funds appropriated in satisfaction of judgments. |
-| (c) | Shoshone Tribe and Arapahoe Tribe of the Wind River Reservation, Wyoming. |
 | [117c.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000117c%20-%20Standards%20for%20approval%20of%20tribal%20payments%3B%20United%20States%20not%20liable%20for%20distribution%20of%20funds%3B%20continuing%20responsibility%20under%20other%E2%80%A6.md) | Standards for approval of tribal payments; United States not liable for distribution of funds; continuing responsibility under other provisions. |
 | [118\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000118%20-%20Payments%20in%20satisfaction%20of%20judgments.md) | Payments in satisfaction of judgments. |
 | [119\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000119%20-%20Allotment%20of%20tribal%20funds%20to%20individual%20Indians.md) | Allotment of tribal funds to individual Indians. |
@@ -91,10 +88,6 @@
 | [161d.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000161d%20-%20Disposition%20of%20accrued%20interest.md) | Disposition of accrued interest. |
 | [162\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000162%20-%20Repealed.%20June%2024%2C%201938%2C%20ch.%20648%2C%20%C2%A72%2C%2052%20Stat.%201037.md) | Repealed. |
 | [162a.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000162a%20-%20Deposit%20of%20tribal%20funds%20in%20banks%3B%20bond%20or%20collateral%20security%3B%20investments%3B%20collections%20from%20irrigation%20projects%3B%20affirmative%20action%E2%80%A6.md) | Deposit of tribal funds in banks; bond or collateral security; investments; collections from irrigation projects; affirmative action required. |
-| (a) | Deposit of tribal trust funds in banks. |
-| (b) | Investment of collections from irrigation projects and power operations on irrigation projects. |
-| (c) | Investment of tribal trust funds in public debt obligations. |
-| (d) | Trust responsibilities of Secretary of the Interior. |
 | [163\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000163%20-%20Roll%20of%20membership%20of%20Indian%20tribes.md) | Roll of membership of Indian tribes. |
 | [164\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000164%20-%20Restoration%20to%20tribal%20ownership%20of%20unclaimed%20per%20capita%20and%20other%20individual%20payments%20of%20tribal%20trust%20funds%3B%20deposit%20in%20general%20fund%20of%E2%80%A6.md) | Restoration to tribal ownership of unclaimed per capita and other individual payments of tribal trust funds; deposit in general fund of the Treasury. |
 | [165\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000165%20-%20Notice%20to%20Congressional%20committees.md) | Notice to Congressional committees. |

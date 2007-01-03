@@ -20,7 +20,7 @@
 
 #### (b) Programming application
 
-To be eligible to receive a grant under section 7257(b) of this title, an entity shall submit an application to the Secretary at such time, in suchmanner, and accompanied by such information as the Secretary may reasonably require.
+To be eligible to receive a grant under section 7257(b) of this title, an entity shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
 
 (Pub. L. 89–10, title V, §5482, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1838.)
 

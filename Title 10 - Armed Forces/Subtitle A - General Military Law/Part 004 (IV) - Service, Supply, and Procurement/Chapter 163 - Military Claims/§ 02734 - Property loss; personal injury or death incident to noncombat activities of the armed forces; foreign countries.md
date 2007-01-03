@@ -26,7 +26,7 @@
 
 (f) Upon the request of the department concerned, a claim arising in that department and covered by subsection (a) may be settled and paid by a commission appointed under subsection (a) and composed of officers of an armed force under the jurisdiction of another department.
 
-(g) Payment of claims against the Coast Guard arising while it is operating as a service in theDepartment of Homeland Security shall be made out of the appropriation for the operating expenses of the Coast Guard.
+(g) Payment of claims against the Coast Guard arising while it is operating as a service in the Department of Homeland Security shall be made out of the appropriation for the operating expenses of the Coast Guard.
 
 (h) The Secretary of Defense may designate any claims commission appointed under subsection (a) to settle and pay, as provided in this section, claims for damage caused by a civilian employee of the Department of Defense other than an employee of a military department. Payments of claims under this subsection shall be made from appropriations as provided in section 2732 of this title.
 

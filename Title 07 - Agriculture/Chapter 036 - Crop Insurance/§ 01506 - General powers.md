@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
+The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against theCorporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -98,7 +98,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 &emsp;&emsp;(A) instituting appropriate requirements for documentation of the actual production history of insured producers to establish recorded or appraised yields for Federal crop insurance coverage that more accurately reflect the associated actuarial risk, except that the Corporation may not carry out this paragraph in a manner that would prevent beginning farmers (as defined by the Secretary) from obtaining Federal crop insurance;
 
-&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity ifa loss has occurred in a specified area in which the farm of the insured producer is located;
+&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity if a loss has occurred in a specified area in which the farm of the insured producer is located;
 
 &emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers, agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. 
 
 #### Regulations
 
-Section 1403(c)(2) of Pub. L. 103–66 provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section \[amending this section and sections 1508 and 1508a of this title\].”
+Section 1403(c)(2) of Pub. L. 103–66 provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section\[amending this section and sections 1508 and 1508a of this title\].”
 
 #### Transfer of Functions
 
@@ -266,7 +266,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 #### Required Terms and Conditions of Standard Reinsurance Agreements
 
-Pub. L. 106–224, title I, §148, June 20, 2000, 114 Stat. 394, provided that: “Notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 1506 note; Public Law 105–185),the Federal Crop Insurance Corporation may renegotiate the Standard Reinsurance Agreement once during the 2001 through 2005 reinsurance years.”
+Pub. L. 106–224, title I, §148, June 20, 2000, 114 Stat. 394, provided that: “Notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 1506 note; Public Law 105–185), the Federal Crop Insurance Corporation may renegotiate the Standard Reinsurance Agreement once during the 2001 through 2005 reinsurance years.”
 
 Pub. L. 105–185, title V, §536, June 23, 1998, 112 Stat. 584, provided that:
 
@@ -360,7 +360,7 @@ Information.—
 
 &emsp;“(1)
 
-Privacy.—In conducting the evaluation required by this section, the Comptroller General and the Corporation shall maintain the privacy of proprietary information.
+Privacy.—In conducting the evaluation required by this section, the Comptroller General andthe Corporation shall maintain the privacy of proprietary information.
 
 &emsp;“(2)
 

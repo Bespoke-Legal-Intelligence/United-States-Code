@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Energy shall ensure that, before a document of the Department of Energythat contains national security information is released or declassified, such document is reviewed to determine whether it contains restricted data.
+The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains restricted data.
 
 #### (b) Limitation on declassification
 

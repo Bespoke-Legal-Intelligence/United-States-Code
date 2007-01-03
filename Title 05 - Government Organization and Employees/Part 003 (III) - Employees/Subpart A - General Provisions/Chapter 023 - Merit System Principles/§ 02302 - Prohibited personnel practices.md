@@ -138,7 +138,7 @@
 
 &emsp;(F) Section 1005(a) of title 39.
 
-&emsp;(G) Any other provision of law that the Director of the Office of Personnel Managementdesignates in regulations as being a veterans’ preference requirement for the purposes of this subsection.
+&emsp;(G) Any other provision of law that the Director of the Office of Personnel Management designates in regulations as being a veterans’ preference requirement for the purposes of this subsection.
 
 &emsp;(H) Any regulation prescribed under subsection (b) or (c) of section 1302 and any other regulation that implements a provision of law referred to in any of the preceding subparagraphs.
 

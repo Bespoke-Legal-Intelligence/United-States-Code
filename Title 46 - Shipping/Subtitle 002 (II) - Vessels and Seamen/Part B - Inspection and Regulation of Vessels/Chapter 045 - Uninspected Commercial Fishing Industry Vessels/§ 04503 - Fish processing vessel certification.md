@@ -20,7 +20,3 @@
 
 1984—Pub. L. 98–557 substituted “is deemed” for “shall be deemed”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4505 of this title.
-

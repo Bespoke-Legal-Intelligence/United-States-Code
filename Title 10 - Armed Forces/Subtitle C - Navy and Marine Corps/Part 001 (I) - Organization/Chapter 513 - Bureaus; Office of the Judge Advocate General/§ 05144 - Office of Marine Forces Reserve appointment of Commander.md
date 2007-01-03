@@ -40,7 +40,7 @@ Annual Report.—(1) The Commander, Marine Forces Reserve, shall submit to the S
 
 #### Prior Provisions
 
-A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to appointment and term of Chief of Bureau of Ordnance, and authorized detail of an officer as Deputy Chief of Bureau, prior to repeal by Pub. L. 86–174, §2(3), Aug. 18, 1959, 73 Stat. 396, effective July 1, 1960, or any earlier date on which the Secretary of the Navy made a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance had been transferred to the Bureau of Naval Weapons or elsewhere.
+A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to appointment and term of Chief of Bureau of Ordnance, and authorized detail of an officer as Deputy Chief of Bureau, prior to repeal by Pub. L. 86–174, §2(3), Aug. 18, 1959, 73 Stat. 396, effective July 1, 1960, or any earlier date on which the Secretary of the Navy made a formal finding that all the functions ofthe Bureau of Aeronautics and the Bureau of Ordnance had been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Amendments
 
@@ -66,9 +66,11 @@ Term of Office; Grade.—(1) The Commander, Marine Forces Reserve, holds office 
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(19)\], substituted “has the grade of” for “has a grade”.
 
-1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted atend “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
 Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
+
+§5145
 

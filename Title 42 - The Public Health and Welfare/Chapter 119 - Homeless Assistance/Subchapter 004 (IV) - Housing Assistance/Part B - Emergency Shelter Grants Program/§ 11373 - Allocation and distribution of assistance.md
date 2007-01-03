@@ -28,7 +28,7 @@ In addition to the other allocations required in this section, the Secretary sha
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and “, or for Indian tribes” after “or urban county” in two places.
+1996—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and“, or for Indian tribes” after “or urban county” in two places.
 
 Subsec. (c). Pub. L. 104–330, §506(a)(3)(B), struck out “or Indian tribe” after “Any local government”.
 

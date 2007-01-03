@@ -8,7 +8,7 @@ General Authority.—
 
 Passenger fees.—The Under Secretary of Transportation for Security shall impose a uniform fee, on passengers of air carriers and foreign air carriers in air transportation and intrastate air transportation originating at airports in the United States, to pay for the following costs of providing civil aviation security services:
 
-&emsp;&emsp;(A) Salary, benefits, overtime, retirement and other costs of screening personnel, theirsupervisors and managers, and Federal law enforcement personnel deployed at airport security screening locations under section 44901.
+&emsp;&emsp;(A) Salary, benefits, overtime, retirement and other costs of screening personnel, their supervisors and managers, and Federal law enforcement personnel deployed at airport security screening locations under section 44901.
 
 &emsp;&emsp;(B) The costs of training personnel described in subparagraph (A), and the acquisition, operation, and maintenance of equipment used by such personnel.
 
@@ -50,7 +50,7 @@ Per-carrier limit.—The amount of fees collected under this paragraph from an a
 
 &emsp;&emsp;&emsp;(iii)
 
-Adjustment of per-carrier limit.—For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu of actual screening costs in calendar year 2000.
+Adjustment of per-carrier limit.—For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu ofactual screening costs in calendar year 2000.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -102,7 +102,7 @@ Fees collected by air carrier.—A fee imposed under subsection (a)(1) shall be 
 
 &emsp;(3)
 
-Due date for remittance.—A fee collected under this section shall be remitted onthe last day of each calendar month by the carrier collecting the fee. The amount to be remitted shall be for the calendar month preceding the calendar month in which the remittance is made.
+Due date for remittance.—A fee collected under this section shall be remitted on the last day of each calendar month by the carrier collecting the fee. The amount to be remitted shall be for the calendar month preceding the calendar month in which the remittance is made.
 
 &emsp;(4)
 

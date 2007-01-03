@@ -10,7 +10,7 @@ Notwithstanding any other provision of this chapter inconsistent with this secti
 
 &emsp;(1) assume a secondary percentage of loss on any mortgage insured pursuant to section 1709(b), 1715y, or 1715z–10 of this title covering a one- to four-family dwelling, which percentage of loss shall be set forth in the risk-sharing contract, with the first percentage of loss to be borne by the Secretary; <sup>1</sup>
 
-&emsp;(2) perform or delegate underwriting, credit approval, appraisal, inspection, commitment, claims processing, property disposition, or other functions as the Secretary shall approve as consistent with the purposes of this section and shall set forth in the risk-sharing contract.
+&emsp;(2) perform or delegate underwriting, credit approval, appraisal, inspection, commitment, claims processing, property disposition, orother functions as the Secretary shall approve as consistent with the purposes of this section and shall set forth in the risk-sharing contract.
 
 #### (c) Required contract provisions
 
@@ -30,7 +30,7 @@ For purposes of this section, the term “insured community development financia
 
 2000—Pub. L. 106–554, §1(a)(7) \[title I, §143(1)\], substituted “Risk-sharing demonstration” for “Reinsurance contracts” in section catchline.
 
-Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §143(2), (3)\], in heading and first sentence substituted “risk-sharing” for “reinsurance” wherever appearing, in first sentence inserted “and with insured community development financial institutions” after “private mortgage insurers”, in second sentence substituted “four administrative regions” for “two administrative regions” and“the expiration of the 5-year period beginning on December 21, 2000” for “March 15, 1988”, and in last sentence substituted “mortgages for which risk of nonpayment is shared” for “mortgages insured” and “20 percent” for “10 percent”.
+Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §143(2), (3)\], in heading and first sentence substituted “risk-sharing” for “reinsurance” wherever appearing, in first sentence inserted “and with insured community development financial institutions” after “private mortgage insurers”, in second sentence substituted “four administrative regions” for “two administrative regions” and “the expiration of the 5-year period beginning on December 21, 2000” for “March 15, 1988”, and in last sentence substituted “mortgages for which risk of nonpayment is shared” for “mortgages insured” and “20 percent” for “10 percent”.
 
 Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §143(2), (4)(A), (B)\], in first sentence of introductory provisions, substituted “, in providing” for “to provide”, “, to enter into” for “through” and “risk-sharing” for “reinsurance” and inserted “and with insured community development financial institutions” before period at end and, in second sentence of introductory provisions, inserted “and insured community development financial institutions” after “private mortgage insurance companies”.
 
@@ -74,7 +74,7 @@ Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985�
 
 #### Evaluation of Reinsurance Program; Report to Congress
 
-Section 428(b) of Pub. L. 98–181 provided that: “The Secretary of Housing and Urban Development shall evaluate the reinsurance program under section 249 of the National Housing Act \[this section\] and, not later than March 1, 1985, submit to the Congress a report setting forth the results of such evaluation. Such report shall include an evaluation of the possible effect of a reinsurance program on the characteristics of the pool of mortgages remaining wholly under the applicable insurance funds and the actuarial soundness of such funds under such conditions.”
+Section 428(b) of Pub. L. 98–181 provided that: “The Secretary of Housing and Urban Development shallevaluate the reinsurance program under section 249 of the National Housing Act \[this section\] and, not later than March 1, 1985, submit to the Congress a report setting forth the results of such evaluation. Such report shall include an evaluation of the possible effect of a reinsurance program on the characteristics of the pool of mortgages remaining wholly under the applicable insurance funds and the actuarial soundness of such funds under such conditions.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

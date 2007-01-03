@@ -1,6 +1,6 @@
 ### §744a. End of Conrail commuter service obligation
 
-Notwithstanding any other provision of law or contract, Conrail shall be relieved of any legalobligation to operate commuter service on January 1, 1983.
+Notwithstanding any other provision of law or contract, Conrail shall be relieved of any legal obligation to operate commuter service on January 1, 1983.
 
 (Pub. L. 97–35, title XI, §1136, Aug. 13, 1981, 95 Stat. 647.)
 

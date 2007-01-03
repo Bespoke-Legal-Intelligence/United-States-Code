@@ -64,7 +64,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 #### (1) In general
 
-&emsp;The Attorney General shall have such authorities and functions under this chapter and all other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review,or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
+&emsp;The Attorney General shall have such authorities and functions under this chapter and all other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review, or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
 
 #### (2) Powers
 
@@ -130,7 +130,7 @@ Subsec. (d). Pub. L. 104–208, §102(d)(1)(A), redesignated subsec. (c) as (d).
 
 Subsec. (d)(2). Pub. L. 104–208, §308(e)(4), which directed amendment of subsec. (c)(2) by substituting “cancellation of removal” for “suspension of deportation”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
 
-Pub. L. 104–208, §308(d)(4)(C), which directed amendment of subsec. (c)(2) by substituting “not been admitted or have been removed” for “been excluded or deported”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congressand the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
+Pub. L. 104–208, §308(d)(4)(C), which directed amendment of subsec. (c)(2) by substituting “not been admitted or have been removed” for “been excluded or deported”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
 
 Subsec. (e). Pub. L. 104–208, §102(d)(2), substituted “subsection (d)” for “subsection (c)” in par. (1).
 
@@ -168,7 +168,7 @@ Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “
 
 #### Improvement of Barriers at Border
 
-Pub. L. 104–208, div. C, title I, §102(a)–(c), Sept. 30, 1996, 110 Stat. 3009–554, 3009–555, as amended by Pub. L. 109–13, div. B, title I, §102, May 11, 2005, 119 Stat. 306, provided that:
+Pub. L. 104–208, div. C, title I, §102(a)–(c), Sept. 30, 1996, 110 Stat. 3009–554, 3009–555, as amended by Pub. L. 109–13, div. B, title I, §102, May 11, 2005, 119 Stat. 306; Pub. L. 109–367, §3, Oct. 26, 2006, 120 Stat. 2638, provided that:
 
 “(a)
 
@@ -176,11 +176,37 @@ In General.—The Attorney General, in consultation with the Commissioner of Imm
 
 “(b)
 
-Construction of Fencing and Road Improvements in the Border Area Near San Diego, California.—
+Construction of Fencing and Road Improvements in the Border Area.—
 
 &emsp;“(1)
 
-In general.—In carrying out subsection (a), the Attorney General shall provide for the construction along the 14 miles of the international land border of the United States, starting at the Pacific Ocean and extending eastward, of second and third fences, in addition to the existing reinforced fence, and for roads between the fences.
+Security features.—
+
+&emsp;&emsp;“(A)
+
+Reinforced fencing.—In carrying out subsection (a), the Secretary of Homeland Security shall provide for least \[sic\] 2 layers of reinforced fencing, the installation of additional physical barriers, roads, lighting, cameras, and sensors—
+
+&emsp;&emsp;&emsp;“(i) extending from 10 miles west of the Tecate, California, port of entry to 10 miles east of the Tecate, California, port of entry;
+
+&emsp;&emsp;&emsp;“(ii) extending from 10 miles west of the Calexico, California, port of entry to 5 miles east of the Douglas, Arizona, port of entry;
+
+&emsp;&emsp;&emsp;“(iii) extending from 5 miles west of the Columbus, New Mexico, port of entry to 10 miles east of El Paso, Texas;
+
+&emsp;&emsp;&emsp;“(iv) extending from 5 miles northwest of the Del Rio, Texas, port of entry to 5 miles southeast of the Eagle Pass, Texas, port of entry; and
+
+&emsp;&emsp;&emsp;“(v) extending 15 miles northwest of the Laredo, Texas, port of entry to the Brownsville, Texas, port of entry.
+
+&emsp;&emsp;“(B)
+
+Priority areas.—With respect to the border described—
+
+&emsp;&emsp;&emsp;“(i) in subparagraph (A)(ii), the Secretary shall ensure that an interlocking surveillance camera system is installed along such area by May 30, 2007, and that fence construction is completed by May 30, 2008; and
+
+&emsp;&emsp;&emsp;“(ii) in subparagraph (A)(v), the Secretary shall ensure that fence construction from 15 miles northwest of the Laredo, Texas, port of entry to 15 southeast of the Laredo, Texas, port of entry is completed by December 31, 2008.
+
+&emsp;&emsp;“(C)
+
+Exception.—If the topography of a specific area has an elevation grade that exceeds 10 percent, the Secretary may use other means to secure such area, including the use of surveillance and barrier tools.
 
 &emsp;“(2)
 
@@ -324,4 +350,74 @@ Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provid
 #### Emergency Plans for Regulation of Nationals of Enemy Countries
 
 Attorney General to develop national security emergency plans for regulation of immigration, regulation of nationals of enemy countries, and plans to implement laws for control of persons entering or leaving the United States, see section 1101(4) of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Ex. Ord. No. 13404. Task Force on New Americans
+
+Ex. Ord. No. 13404, June 7, 2006, 71 F.R. 33593, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the efforts of the Department of Homeland Security and Federal, State, and local agencies to help legal immigrants embrace the common core of American civic culture, learn our common language, and fully become Americans, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. The Secretary of Homeland Security (Secretary) shall immediately establish within the Department of Homeland Security (Department) a Task Force on New Americans (Task Force).
+
+Sec. 2. <i>Membership and Operation</i>. (a) The Task Force shall be limited to the following members or employees designated by them at no lower than the Assistant Secretary level or its equivalent:
+
+(i) the Secretary of Homeland Security, who shall serve as Chair;
+
+(ii) the Secretary of State;
+
+(iii) the Secretary of the Treasury;
+
+(iv) the Secretary of Defense;
+
+(v) the Attorney General;
+
+(vi) the Secretary of Agriculture;
+
+(vii) the Secretary of Commerce;
+
+(viii) the Secretary of Labor;
+
+(ix) the Secretary of Health and Human Services;
+
+(x) the Secretary of Housing and Urban Development;
+
+(xi) the Secretary of Education;
+
+(xii) such other officers or employees of the Department of Homeland Security as the Secretary may from time to time designate; and
+
+(xiii) such other officers of the United States as the Secretary may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
+
+(b) The Secretary shall convene and preside at meetings of the Task Force, direct its work, and as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of Task Force members. The Secretary shall designate an official of the Department to serve as the Executive Secretary of the Task Force, and the Executive Secretary shall head the staff assigned to the Task Force.
+
+Sec. 3. <i>Functions</i>. Consistent with applicable law, the Task Force shall:
+
+(a) provide direction to executive departments and agencies (agencies) concerning the integration into American society of America's legal immigrants, particularly through instruction in English, civics, and history;
+
+(b) promote public-private partnerships that will encourage businesses to offer English and civics education to workers;
+
+(c) identify ways to expand English and civics instruction for legal immigrants, including through faith-based, community, and other groups, and ways to promote volunteer community service; and
+
+(d) make recommendations to the President, through the Secretary, from time to time regarding:
+
+(i) actions to enhance cooperation among agencies on the integration of legal immigrants into American society;
+
+(ii) actions to enhance cooperation among Federal, State, and local authorities responsible for the integration of legal immigrants;
+
+(iii) changes in rules, regulations, or policy to improve the effective integration of legal immigrants into American society; and
+
+(iv) proposed legislation relating to the integration of legal immigrants into American society.
+
+Sec. 4. <i>Administration</i>. (a) To the extent permitted by law, the Department shall provide the funding and administrative support the Task Force needs to implement this order, as determined by the Secretary.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an agency or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is intended to improve the internal management of the Federal Government. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its departments, agencies, entities, instrumentalities, officers, employees, agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Prior approval of Board as necessary; exceptions; disposition, time extension; subsequent approval or disposition upon disapproval
 
-It shall be unlawful, except with the prior approval of the Board, (1) for any action to be taken that causes any company to become a bank holding company; (2) for any action to be taken that causes a bank to become a subsidiary of a bank holding company; (3) for any bank holding company to acquire direct or indirect ownership or control of any voting shares of any bank if, after such acquisition, such company will directly or indirectly own or control more than 5 per centum of the voting shares of such bank; (4) for any bank holding company or subsidiary thereof, other than a bank, to acquire all or substantially all of the assets of a bank; or (5) for any bank holding company to merge or consolidate with any other bank holding company. Notwithstanding the foregoing this prohibition shall not apply to (A) shares acquired by a bank, (i) in good faith in a fiduciary capacity, except where such shares are held under a trust that constitutes a company as defined in section 1841(b) of this title and except as provided in paragraphs (2) and (3) of section 1841(g) of thistitle, or (ii) in the regular course of securing or collecting a debt previously contracted in good faith, but any shares acquired after May 9, 1956, in securing or collecting any such previously contracted debt shall be disposed of within a period of two years from the date on which they were acquired; (B) additional shares acquired by a bank holding company in a bank in which such bank holding company owned or controlled a majority of the voting shares prior to such acquisition; or (C) the acquisition, by a company, of control of a bank in a reorganization in which a person or group of persons exchanges their shares of the bank for shares of a newly formed bank holding company and receives after the reorganization substantially the same proportional share interest in the holding company as they held in the bank except for changes in shareholders’ interests resulting from the exercise of dissenting shareholders’ rights under State or Federal law if—
+It shall be unlawful, except with the prior approval of the Board, (1) for any action to be taken that causes any company to become a bank holding company; (2) for any action to be taken that causes a bank to become a subsidiary of a bank holding company; (3) for any bank holding company to acquire direct or indirect ownership or control of any voting shares of any bank if, after such acquisition, such company will directly or indirectly own or control more than 5 per centum of the voting shares of such bank; (4) for any bank holding company or subsidiary thereof, other than a bank, to acquire all or substantially all of the assets of a bank; or (5) for any bank holding company to merge or consolidate with any other bank holding company. Notwithstanding the foregoing this prohibition shall not apply to (A) shares acquired by a bank, (i) in good faith in a fiduciary capacity, except where such shares are held under a trust that constitutes a company as defined in section 1841(b) of this title and except as provided in paragraphs (2) and (3) of section 1841(g) of this title, or (ii) in the regular course of securing or collecting a debt previously contracted in good faith, but any shares acquired after May 9, 1956, in securing or collecting any such previously contracted debt shall be disposed of within a period of two years from the date on which they were acquired; (B) additional shares acquired by a bank holding company in a bank in which such bank holding company owned or controlled a majority of the voting shares prior to such acquisition; or (C) the acquisition, by a company, of control of a bank in a reorganization in which a person or group of persons exchanges their shares of the bank for shares of a newly formed bank holding company and receives after the reorganization substantially the same proportional share interest in the holding company as they held in the bank except for changes in shareholders’ interests resulting from the exercise of dissenting shareholders’ rights under State or Federal law if—
 
 &emsp;(i) immediately following the acquisition—
 
@@ -16,7 +16,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;(iv) the holding company will not acquire control of any additional bank as a result of the reorganization..<sup>1</sup>
 
-> The Board is authorized upon application by a bank to extend, from time to time for not more than one year at a time, the two-year period referred to above for disposing of any shares acquired by a bank in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years. For the purpose of the preceding sentence, bank shares acquired after December 31, 1970, shall not be deemed to have been acquired in good faith in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, but in such instances acquisitions may be made without prior approval of the Board if the Board, upon application filed within ninety days after the shares are acquired, approves retention or, if retention is disapproved, the acquiring bank disposes of the shares or its sole discretionary voting rights within two years after issuance of the order of disapproval.
+> The Board is authorized upon application by a bank to extend, from time to time for not more than one year at a time, the two-year period referred to above for disposing of any shares acquired by a bank in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years. For the purpose of the preceding sentence, bank shares acquired after December 31, 1970, shall not be deemed to have been acquired in good faith in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, but in such instances acquisitions may be made without prior approval of the Board if the Board, upon application filed within ninety days after the shares are acquired, approves retention or, if retention isdisapproved, the acquiring bank disposes of the shares or its sole discretionary voting rights within two years after issuance of the order of disapproval.
 
 #### (b) Application for approval; notice to Comptroller of Currency or State authority; views and recommendations; disapproval; hearing; order of Board; nonaction deemed grant of application; procedure in emergencies or probable failures requiring immediate Board action and orders
 
@@ -92,7 +92,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;&emsp;(ii) that State law was in effect as of September 29, 1994;
 
-&emsp;&emsp;&emsp;(iii) the Federal Deposit Insurance Corporation has not determined that compliance with such State law would result in an unacceptable risk to the appropriate deposit insurance fund; and
+&emsp;&emsp;&emsp;(iii) the Federal Deposit Insurance Corporation has not determined that compliance with such State law would result in an unacceptable risk to the Deposit Insurance Fund; and
 
 &emsp;&emsp;&emsp;(iv) the appropriate Federal banking agency for such bank has not found that compliance with such State law would place the bank in an unsafe or unsound condition.
 
@@ -108,7 +108,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;&emsp;(i) immediately before the consummation of the acquisition for which such application is filed, the applicant (including any insured depository institution affiliate of the applicant) controls any insured depository institution or any branch of an insured depository institution in the home State of any bank to be acquired or in any host State in which any such bank maintains a branch; and
 
-&emsp;&emsp;&emsp;(ii) the applicant (including all insured depository institutions which are affiliates of the applicant), upon consummation of the acquisition, would control 30 percent or more of the total amount of deposits of insured depository institutions in any such State.
+&emsp;&emsp;&emsp;(ii) the applicant (including all insured depository institutions which are affiliates of the applicant), upon consummation of the acquisition, would control 30 percentor more of the total amount of deposits of insured depository institutions in any such State.
 
 #### (C) Effectiveness of State deposit caps
 
@@ -170,15 +170,13 @@ Every bank that is a holding company and every bank that is a subsidiary of such
 
 (May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V, §§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339; Pub. L. 106–102, title I, §§105, 118, Nov. 12, 1999, 113 Stat. 1359, 1373; Pub. L. 107–56, title III, §327(a)(1), Oct. 26, 2001, 115 Stat. 318; Pub. L. 108–386, §8(c)(2), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–173, §9(h)(2), Feb. 15, 2006, 119 Stat. 3618.)
 
-#### Amendment of Subsection (d)(1)(D)(iii)
-
-<i>Pub. L. 109–173, §9(h)(2), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (d)(1)(D)(iii) of this section is amended by striking “appropriate deposit insurance fund” and inserting “Deposit Insurance Fund”.</i>
-
 #### References in Text
 
 Section 1823(f)(8)(D) of this title, referred to in subsec. (b)(2), which defined “bank in danger of closing”, was repealed by Pub. L. 101–73, title II, §217(5)(H), Aug. 9, 1989, 103 Stat. 257.
 
 #### Amendments
+
+2006—Subsec. (d)(1)(D)(iii). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
 
 2004—Subsec. (b)(1). Pub. L. 108–386 struck out “or a District bank” after “national banking association” in first sentence.
 
@@ -186,7 +184,7 @@ Section 1823(f)(8)(D) of this title, referred to in subsec. (b)(2), which define
 
 1999—Subsec. (f). Pub. L. 106–102, §118, amended subsec. (f) generally, substituting “(f) \[Repealed\].” for provisions relating to authorized activities of qualified savings banks which are subsidiaries of bank holding companies.
 
-Subsec. (g)(2). Pub. L. 106–102, §105, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.”
+Subsec. (g)(2). Pub. L. 106–102, §105, amended heading and text of par. (2) generally. Prior to amendment, textread as follows: “A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.”
 
 1994—Subsec. (a). Pub. L. 103–325, §319(a), substituted “(B)” for “or (B)” and added subpar. (C).
 
@@ -220,7 +218,7 @@ Subsec. (d). Pub. L. 96–221, §712(b), (c), temporarily designated existing pr
 
 1977—Subsec. (a). Pub. L. 95–188, §301(a), authorized the Board to extend the time for disposition of acquired shares for not more than one year at a time and three years in the aggregate.
 
-Subsec. (b). Pub. L. 95–188, §302, inserted provision for alternative submission of views and recommendationswithin ten calendar days of the date on which notice is given if the Board advises the appropriate supervisory authority that an emergency exists requiring expeditious action, substituted “shall, by order,” for “shall by order” and inserted provisions respecting procedure in emergencies or probable failures requiring immediate Board action and orders.
+Subsec. (b). Pub. L. 95–188, §302, inserted provision for alternative submission of views and recommendations within ten calendar days of the date on which notice is given if the Board advises the appropriate supervisory authority that an emergency exists requiring expeditious action, substituted “shall, by order,” for “shall by order” and inserted provisions respecting procedure in emergencies or probable failures requiring immediate Board action and orders.
 
 1970—Subsec. (a). Pub. L. 91–607, §102(1), inserted provision deeming acquisition of bank shares after Dec. 31, 1970, as not being in good faith in a fiduciary capacity if acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, and provision for subsequent approval of retention of acquired shares upon application filed within 90 days of acquisition and disposition of shares or sole discretionary voting rights within two years after order in an event of disapproval.
 

@@ -14,7 +14,7 @@ Model disclosure forms and clauses shall be adopted by the Board after notice du
 
 #### (d) Effective dates of regulations containing new disclosure requirements
 
-Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows byat least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
+Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
 
 #### (f) <sup>1</sup> Exemption authority
 
@@ -28,7 +28,7 @@ Any regulation of the Board, or any amendment or interpretation thereof, requiri
 
 &emsp;&emsp;(A) The amount of the loan and whether the disclosures, right of rescission, and other provisions provide a benefit to the consumers who are parties to such transactions, as determined by the Board.
 
-&emsp;&emsp;(B) The extent to which the requirements of this subchapter complicate, hinder, or make more expensive the credit process for the class of transactions.
+&emsp;&emsp;(B) The extent to which the requirements of this subchapter complicate, hinder, ormake more expensive the credit process for the class of transactions.
 
 &emsp;&emsp;(C) The status of the borrower, including—
 

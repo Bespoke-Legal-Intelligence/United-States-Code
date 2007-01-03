@@ -2,11 +2,7 @@
 
 #### (a) General appropriations
 
-There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
-
-&emsp;(1) $5,400,000 for each of fiscal years 2003 and 2004; and
-
-&emsp;(2) $5,900,000 for each of fiscal years 2005 and 2006.
+There are authorized to be appropriated to the Secretary of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of fiscal years 2007 through 2012.
 
 #### (b) Additional appropriations
 
@@ -22,7 +18,7 @@ In addition to the amounts authorized in subsection (a) of this section, there a
 
 #### (c) Development of management plans
 
-In addition to the amounts authorized under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of Commerce $850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
+In addition to the amounts authorized under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of Commerce $900,000 for each of fiscal years 2007 through 2012, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
 
 &emsp;(1) The commission established by the Atlantic States Marine Fisheries Compact, as consented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
 
@@ -52,7 +48,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 &emsp;&emsp;(III) used for another non-fishing purpose provided the Secretary determines that adequate measures are in place to ensure that the vessel cannot reenter any fishery.
 
-(C) A vessel that is prohibited from fishing under subparagraph (B) shall not be eligible for a fishery endorsement under section 12108(a) of title 46 and any such endorsement for the vessel shall not be effective.
+(C) A vessel that is prohibited from fishing under subparagraph (B) shall not be eligible for a fishery endorsement under section 12113(a) of title 46 and any such endorsement for the vessel shall not be effective.
 
 (5) The Secretary shall establish, after notice and opportunity for public comment, appropriate limitations, terms, and conditions for receiving assistance under this subsection.
 
@@ -68,9 +64,11 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 &emsp;(D) an estimate of conservation benefits (such as reduction in fishing mortality) directly attributable to the fishing capacity reduction program.
 
-(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094.)
+(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996,110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Public Law 77–539, referred to in subsec. (c)(1), is act May 4, 1942, ch. 283, 56 Stat. 267, which is not classified to the Code.
 
@@ -78,7 +76,19 @@ Public Law 80–232, referred to in subsec. (c)(2), is act July 24, 1947, ch. 31
 
 Public Law 81–66, referred to in subsec. (c)(3), is act May 19, 1949, ch. 128, 63 Stat. 70, which is not classified to the Code.
 
+#### Codification
+
+In subsec. (d)(4)(C), “section 12113(a) of title 46” substituted for “section 12108(a) of title 46, United States Code,” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 12113 of Title 46, Shipping.
+
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 109–479, §302(g)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
+
+&emsp;“(1) $5,400,000 for each of fiscal years 2003 and 2004; and
+
+&emsp;“(2) $5,900,000 for each of fiscal years 2005 and 2006.”
+
+Subsec. (c). Pub. L. 109–479, §302(g)(2), substituted “$900,000 for each of fiscal years 2007 through 2012” for “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” in introductory provisions.
 
 2002—Subsec. (a). Pub. L. 107–372, §302(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
 

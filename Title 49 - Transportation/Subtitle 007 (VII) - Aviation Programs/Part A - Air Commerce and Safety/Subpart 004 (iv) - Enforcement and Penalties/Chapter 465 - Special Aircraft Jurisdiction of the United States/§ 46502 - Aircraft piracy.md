@@ -92,6 +92,26 @@ Subsec. (b)(3). Pub. L. 104–132, §721(a)(3), added par. (3).
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Death Penalty Procedures for Certain Air Piracy Cases Occurring Before Enactment of the Federal Death Penalty Act of 1994
+
+Pub. L. 109–177, title II, §211, Mar. 9, 2006, 120 Stat. 230, provided that:
+
+“(a)
+
+In General.—Section 60003 of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322), is amended, as of the time of its enactment \[Sept. 13, 1994\], by adding at the end the following:
+
+&emsp;“ ‘(c) \[Omitted, see below.\]’.
+
+“(b)
+
+Severability Clause.—If any provision of section 60003(b)(2) of the Violent Crime and Law Enforcement Act of 1994 (Public Law 103–322) \[repealed section 46503 of this title\], or the application thereof to any person or any circumstance is held invalid, the remainder of such section and the application of such section to other persons or circumstances shall not be affected thereby.”
+
+Pub. L. 103–322, title VI, §60003(c), as added by Pub. L. 109–177, title II, §211(a), Mar. 9, 2006, 120 Stat. 230, provided that:
+
+“(c)
+
+Death Penalty Procedures for Certain Previous Aircraft Piracy Violations.—An individual convicted of violating section 46502 of title 49, United States Code, or its predecessor, may be sentenced to death in accordance with the procedures established in chapter 228 of title 18, United States Code, if for any offense committed before the enactment of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322) \[Sept. 13, 1994\], but after the enactment of the Antihijacking Act of 1974 (Public Law 93–366) \[Aug. 5, 1974\], it is determined by the finder of fact, before consideration of the factors set forth in sections 3591(a)(2) and 3592(a) and (c) of title 18, United States Code, that one or more of the factors set forth in former section 46503(c)(2) of title 49, United States Code, or its predecessor, has been proven by the Government to exist, beyond a reasonable doubt, and that none of the factors set forth in former section 46503(c)(1) of title 49, United States Code, or its predecessor, has been proven by the defendant to exist, by a preponderance of the information. The meaning of the term ‘especially heinous, cruel, or depraved’, as used in the factor set forth in former section 46503(c)(2)(B)(iv) of title 49, United States Code, or its predecessor, shall be narrowed by adding the limiting language ‘in that it involved torture or serious physical abuse to the victim’, and shall be construed as when that term is used in section 3592(c)(6) of title 18, United States Code.”
+
 #### Aircraft Piracy
 
 The United States is a party to the Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague, Dec. 16, 1970, entered into force as to the United States, Oct. 14, 1971, 22 UST 1641.

@@ -14,7 +14,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 (2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may require a distributor or dealer to maintain a record under paragraph (1) of this subsection only if the business of the distributor or dealer is owned or controlled by a manufacturer of tires.
 
-(B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
+(B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. TheSecretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
 
 (3)(A) The Secretary shall evaluate from time to time how successful the procedures under paragraph (2) of this subsection have been in helping to maintain records about first purchasers of tires. After each evaluation, the Secretary shall decide—
 
@@ -24,7 +24,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 &emsp;(iii) whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
 
-(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraphonly if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
 
 &emsp;(i) the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
 
@@ -122,7 +122,7 @@ Pub. L. 109–59, title X, §10309(a), Aug. 10, 2005, 119 Stat. 1942, provided t
 
 “(1)
 
-In general.—The Secretary of Transportation shall require the testing of 15-passenger vans as part of the rollover resistance program of the National Highway Traffic Safety Administration's new car assessment program.
+In general.—The Secretary of Transportation shall require the testing of 15-passenger vans as part ofthe rollover resistance program of the National Highway Traffic Safety Administration's new car assessment program.
 
 “(2) 15
 

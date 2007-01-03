@@ -70,7 +70,7 @@ Except as needed for administrative purposes or to respond to an emergency, the 
 
 #### (A) Regulations
 
-&emsp;&emsp;The Secretary may designate by regulation areas in which, and establish periods during which, for reasons of public safety,administration, or compliance with applicable laws, no hunting, fishing, or trapping will be permitted in the Conservation Area.
+&emsp;&emsp;The Secretary may designate by regulation areas in which, and establish periods during which, for reasons of public safety, administration, or compliance with applicable laws, no hunting, fishing, or trapping will be permitted in the Conservation Area.
 
 #### (B) Consultation
 

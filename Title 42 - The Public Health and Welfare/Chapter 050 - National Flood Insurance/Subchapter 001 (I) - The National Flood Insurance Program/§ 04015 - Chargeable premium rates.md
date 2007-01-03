@@ -42,11 +42,13 @@ Except with respect to properties described under paragraph (2) or (3) <sup>1</
 
 #### (f) Adjustment of premium
 
-Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is requiredunder this section due to an error in the flood plain determination, the Director may only prospectively charge the higher premium rate.
+Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the flood plain determination, the Director may only prospectively charge the higher premium rate.
 
 (Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 108–264, title I, §106, title II, §209, June 30, 2004, 118 Stat. 724, 727.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (b)(2) and (e), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 This chapter, referred to in subsec. (f), was in the original “this Act”, and was translated as reading “this title”, meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
@@ -78,7 +80,9 @@ Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck ou
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Limitation on Premiums
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 35 - Patents
 
-GPO's 2005 edition (laws in effect as of 2006-01-02), from its printed page marks. The exact position of
+GPO's 2006 edition (laws in effect as of 2007-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title35.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -117,8 +117,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00251 - Reissue of defective patents](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000251%20-%20Reissue%20of%20defective%20patents.md) | 79 |
 | [&sect; 00252 - Effect of reissue](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000252%20-%20Effect%20of%20reissue.md) | 79–80 |
 | [&sect; 00253 - Disclaimer](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000253%20-%20Disclaimer.md) | 80 |
-| [&sect; 00254 - Certificate of correction of Patent and Trademark Office mistake](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000254%20-%20Certificate%20of%20correction%20of%20Patent%20and%20Trademark%20Office%20mistake.md) | 80–81 |
-| [&sect; 00255 - Certificate of correction of applicant's mistake](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000255%20-%20Certificate%20of%20correction%20of%20applicant%27s%20mistake.md) | 81 |
+| [&sect; 00254 - Certificate of correction of Patent and Trademark Office mistake](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000254%20-%20Certificate%20of%20correction%20of%20Patent%20and%20Trademark%20Office%20mistake.md) | 80 |
+| [&sect; 00255 - Certificate of correction of applicant's mistake](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000255%20-%20Certificate%20of%20correction%20of%20applicant%27s%20mistake.md) | 80–81 |
 | [&sect; 00256 - Correction of named inventor](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/%C2%A7%2000256%20-%20Correction%20of%20named%20inventor.md) | 81 |
 | [Chapter 026 - Ownership and Assignment](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20026%20-%20Ownership%20and%20Assignment/README.md) | 81 |
 | [&sect; 00261 - Ownership; assignment](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/Chapter%20026%20-%20Ownership%20and%20Assignment/%C2%A7%2000261%20-%20Ownership%3B%20assignment.md) | 81–82 |

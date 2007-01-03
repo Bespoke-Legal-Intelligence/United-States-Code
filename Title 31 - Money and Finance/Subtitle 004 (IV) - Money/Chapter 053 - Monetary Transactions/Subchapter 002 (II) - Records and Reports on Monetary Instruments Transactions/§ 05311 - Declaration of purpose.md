@@ -66,7 +66,7 @@ Sense of Congress Regarding Success in Multilateral Organizations.—It is the s
 
 &emsp;“(2) the term ‘Financial Action Task Force’ means the international policy-making and standard-setting body dedicated to combating money laundering and terrorist financing that was created by the Group of Seven in 1989; and
 
-&emsp;“(3) the terms ‘Interagency Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System’ and ‘Interagency Paper’ mean the interagency paper prepared by the Board of Governors ofthe Federal Reserve System, the Comptroller of the Currency, and the Securities and Exchange Commission that was announced in the Federal Register on April 8, 2003.
+&emsp;“(3) the terms ‘Interagency Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System’ and ‘Interagency Paper’ mean the interagency paper prepared by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Securities and Exchange Commission that was announced in the Federal Register on April 8, 2003.
 
 #### “SEC. 7704. COORDINATION OF UNITED STATES GOVERNMENT EFFORTS.
 
@@ -116,7 +116,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 &emsp;“(4) to provide a clear national mandate for subjecting to special scrutiny those foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that pose particular, identifiable opportunities for criminal abuse;
 
-&emsp;“(5) to provide the Secretary of the Treasury (in this title referred to as the ‘Secretary’) with broad discretion, subject to the safeguards provided by the Administrative Procedure Act under title 5, United States Code \[5 U.S.C. 551 et seq., 701 et seq.\], to take measures tailored to the particular money laundering problems presented by specific foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts;
+&emsp;“(5) to provide the Secretary of the Treasury (in this title referred to as the ‘Secretary’) with broad discretion, subject to the safeguards provided by theAdministrative Procedure Act under title 5, United States Code \[5 U.S.C. 551 et seq., 701 et seq.\], to take measures tailored to the particular money laundering problems presented by specific foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts;
 
 &emsp;“(6) to ensure that the employment of such measures by the Secretary permits appropriate opportunity for comment by affected financial institutions;
 
@@ -194,7 +194,7 @@ Reports to the Financial Services Industry on Suspicious Financial Activities.�
 
 #### Report and Recommendation on Legislative Action on International Counter Money Laundering Provisions
 
-Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
+Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
 
 #### International Cooperation on Identification of Originators of Wire Transfers
 
@@ -246,7 +246,7 @@ Beneficial ownership of personal holding companies.—The report described in pa
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
 
-Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.”
+Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether thethreshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.”
 
 #### Uniform State Licensing and Regulation of Check Cashing, Currency Exchange, and Money Transmitting Businesses
 
@@ -372,7 +372,7 @@ Pub. L. 102–550, title XV, §1564, Oct. 28, 1992, 106 Stat. 4073, provided tha
 
 “(a)
 
-Establishment.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\].
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representativesof the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\].
 
 “(b)
 
@@ -386,7 +386,7 @@ Purposes.—The Advisory Group shall provide a means by which the Secretary—
 
 “(c)
 
-Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App. U.S.C.\] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).”
+Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).”
 
 #### GAO Feasibility Study of Financial Crimes Enforcement Network
 
@@ -470,7 +470,7 @@ Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 
 
 &emsp;“(1) with respect to which the Secretary determines there is evidence that the financial institutions in such countries are engaging in currency transactions involving the proceeds of international narcotics trafficking; and
 
-&emsp;“(2) which have not reached agreement with United States authorities on a mechanism for exchangingadequate records on international currency transactions in connection with narcotics investigations and proceedings.
+&emsp;“(2) which have not reached agreement with United States authorities on a mechanism for exchanging adequate records on international currency transactions in connection with narcotics investigations and proceedings.
 
 “(e)
 

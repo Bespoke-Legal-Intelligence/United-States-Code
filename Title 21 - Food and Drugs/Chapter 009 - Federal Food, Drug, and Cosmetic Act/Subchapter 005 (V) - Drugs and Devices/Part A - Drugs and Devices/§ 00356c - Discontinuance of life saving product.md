@@ -20,7 +20,7 @@ A manufacturer that is the sole manufacturer of a drug—
 
 #### (b) Reduction in notification period
 
-The notification period required under subsection (a) of this section for a manufacturer may be reduced if the manufacturer certifies tothe Secretary that good cause exists for the reduction, such as a situation in which—
+The notification period required under subsection (a) of this section for a manufacturer may be reduced if the manufacturer certifies to the Secretary that good cause exists for the reduction, such as a situation in which—
 
 &emsp;(1) a public health problem may result from continuation of the manufacturing for the 6-month period;
 

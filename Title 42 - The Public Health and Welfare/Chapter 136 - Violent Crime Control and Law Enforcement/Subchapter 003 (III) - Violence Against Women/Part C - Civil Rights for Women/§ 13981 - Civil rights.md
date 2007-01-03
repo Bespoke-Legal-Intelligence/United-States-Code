@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### References in Text
 
-This part, referred to in subsecs. (a) and (e)(3), was in the original “this subtitle”, meaning subtitle C of title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1941, which enacted this part, amended section 1988 of this title and section 1445 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 13701 of this title. For complete classification ofthis subtitle to the Code, see Short Title note set out under section 13701 of this title and Tables.
+This part, referred to in subsecs. (a) and (e)(3), was in the original “this subtitle”, meaning subtitle C of title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1941, which enacted this part, amended section 1988 of this title and section 1445 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 13701 of this title. For complete classification of this subtitle to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
 #### Codification
 
@@ -55,4 +55,8 @@ Section is comprised of section 40302 of Pub. L. 103–322. Subsec. (e)(5) of se
 #### Short Title
 
 For short title of this part as the “Civil Rights Remedies for Gender-Motivated Violence Act”, see section 40301 of Pub. L. 103–322, set out as a note under section 13701 of this title.
+
+#### Constitutionality
+
+For decision holding this section unconstitutional, see <i>United States v. Morrison</i>, 529 U.S. 598, 120 S. Ct. 1740, 146 L. Ed. 2d 658 (2000).
 

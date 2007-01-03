@@ -6,13 +6,13 @@ Assistance under any rural development program administered by the Secretary or 
 
 #### (b) Ensuring compliance
 
-The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
+The Secretary shall establish, by regulation, adequate safeguards to ensure that assistanceunder any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
 
 #### (c) “Rural development programs” defined
 
 In this section, the term “rural development program” means the following:
 
-&emsp;(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
+&emsp;(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 <sup>1</sup> and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
 
 &emsp;(2) Subtitle G <sup>1</sup> of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 \[7 U.S.C. 950aaa–2, 3125b\] of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
@@ -31,6 +31,8 @@ Not later than 60 days after April 4, 1996, the Secretary shall issue final regu
 (May 20, 1936, ch. 432, title I, §17, as added Pub. L. 104–127, title VII, §778, Apr. 4, 1996, 110 Stat. 1150.)
 
 #### References in Text
+
+Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to section 2008j of this title prior to repeal by Pub. L. 87–128, title III, §375(j)(7), as added Pub. L. 106–78, title VIII, §816(d), Oct. 22, 1999, 113 Stat. 1182.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 

@@ -52,7 +52,7 @@ Duties and Responsibilities of Senior Officials Responsible for the Management o
 
 &emsp;(D) ensure that contract services are procured by means of procurement actions that are in the best interests of the Department of Defense and are entered into and managed in compliance with applicable laws, regulations, directives, and requirements;
 
-&emsp;(E) ensure that competitive procedures and performance-based contracting are used to the maximum extent practicable for the procurement of contract services; and
+&emsp;(E) ensure that competitive procedures and performance-based contracting are used to themaximum extent practicable for the procurement of contract services; and
 
 &emsp;(F) monitor data collection under section 2330a of this title, and periodically conduct spending analyses, to ensure that funds expended for the procurement of contract services are being expended in the most rational and economical manner practicable.
 
@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) Issuance of a task order, delivery order, or military interdepartmental purchase request.
 
-&emsp;(2) The term “contract services” includes all services acquired from private sector entitiesby or for the Department of Defense, other than services relating to research and development or military construction.
+&emsp;(2) The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, other than services relating to research and development or military construction.
 
 (Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376.)
 
@@ -90,11 +90,7 @@ Another prior section 2330 was renumbered section 2349 of this title.
 
 #### Establishment and Implementation of Management Structure
 
-Pub. L. 107–107, div. A, title VIII, §801(b)(2), Dec. 28, 2001, 115 Stat. 1176, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\]—
-
-&emsp;“(A) the Secretary of Defense shall establish and implement the management structure required under section 2330 of title 10, United States Code (as added by paragraph (1)); and
-
-&emsp;“(B) the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue guidance for officials in the management structure established under such section 2330 regarding how to carry out their responsibilities under that section.”
+Pub. L. 107–107, div. A, title VIII, §801(b)(2), Dec. 28, 2001, 115 Stat. 1176, directed the Secretary of Defense to establish and implement the management structure required under this section and the Under Secretary of Defense for Acquisition, Technology, and Logistics to issue guidance for officials in such management structure not later than 180 days after Dec. 28, 2001.
 
 #### Phased Implementation; Report
 
@@ -160,7 +156,7 @@ Definitions.—In this section:
 
 #### Performance Goals for Procurements of Services
 
-Pub. L. 107–107, div. A, title VIII, §802, Dec. 28, 2001, 115 Stat. 1178, as amended by Pub. L. 107–314, div. A,title VIII, §805, Dec. 2, 2002, 116 Stat. 2605, provided that:
+Pub. L. 107–107, div. A, title VIII, §802, Dec. 28, 2001, 115 Stat. 1178, as amended by Pub. L. 107–314, div. A, title VIII, §805, Dec. 2, 2002, 116 Stat. 2605, provided that:
 
 “(a)
 

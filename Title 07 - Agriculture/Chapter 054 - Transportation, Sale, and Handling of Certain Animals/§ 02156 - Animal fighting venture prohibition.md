@@ -20,7 +20,7 @@ It shall be unlawful for any person to knowingly use the mail service of the Uni
 
 #### (d) Violation of State law
 
-Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsections shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
+Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsections shall be unlawful with respect to fighting ventures involving live birds only ifthe fight is to take place in a State where it would be in violation of the laws thereof.
 
 #### (e) Penalties
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;(5) the term “animal” means any live bird, or any live dog or other mammal, except man; and
 
-&emsp;(6) the conduct by any person of any activity prohibited by this section shall not rendersuch person subject to the other sections of this chapter as a dealer, exhibitor, or otherwise.
+&emsp;(6) the conduct by any person of any activity prohibited by this section shall not render such person subject to the other sections of this chapter as a dealer, exhibitor, or otherwise.
 
 #### (h) Conflict with State law
 

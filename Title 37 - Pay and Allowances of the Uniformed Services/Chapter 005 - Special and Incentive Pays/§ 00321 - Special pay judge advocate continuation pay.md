@@ -44,7 +44,7 @@ Regulations.—The Secretary concerned shall prescribe regulations to carry out 
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title VI, §629(c), Oct. 5, 1999, 113 Stat. 661, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, §629(c), Oct. 5, 1999, 113 Stat. 661, provided that: “The amendments made bysubsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
 
 #### Savings Provision
 

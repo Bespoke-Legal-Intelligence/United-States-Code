@@ -64,7 +64,7 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: “Congre
 
 &emsp;&emsp;&emsp;“(iii) treatment sources report an increase in admissions with marijuana as the primary drug of abuse—and adolescents outnumber other age groups entering treatment for marijuana;
 
-&emsp;&emsp;&emsp;“(iv) 80 percent of Pulse Check sources reported increased availability of club drugs, with ecstasy (MDMA) and ketamine the most widely cited club drugs and seven sources reporting that powder cocaine is being used as a club drug by young adults;
+&emsp;&emsp;&emsp;“(iv) 80 percent of Pulse Check sources reported increased availability of club drugs, with ecstasy\(MDMA) and ketamine the most widely cited club drugs and seven sources reporting that powder cocaine is being used as a club drug by young adults;
 
 &emsp;&emsp;&emsp;“(v) ecstasy abuse and trafficking is expanding, no longer confined to the ‘rave’ scene;
 
@@ -112,17 +112,13 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: “Congre
 
 #### Authorization for National Community Antidrug Coalition Institute
 
-Pub. L. 107–82, §4, Dec. 14, 2001, 115 Stat. 821, provided that:
+Pub. L. 107–82, §4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 109–469, title VIII, §805, Dec. 29, 2006, 120 Stat. 3535, provided that:
 
 “(a)
 
-In General.—The Director of the Office of National Drug Control Policy may, using amounts authorized to be appropriated by subsection (d), make a grant to an eligible organization to provide for the establishment of a National Community Antidrug Coalition Institute.
+In General.—The Director of the Office of National Drug Control Policy shall, using amounts authorized to be appropriated by subsection (d), make a directed grant to Community Anti-Drug Coalitions of America to provide for the continuation of the National Community Anti-drug Coalition Institute.
 
 “(b)
-
-Eligible Organizations.—An organization eligible for the grant under subsection (a) is any national nonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under section 1032 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1532).
-
-“(c)
 
 Use of Grant Amount.—The organization receiving the grant under subsection (a) shall establish a National Community Antidrug Coalition Institute to—
 
@@ -132,7 +128,7 @@ Use of Grant Amount.—The organization receiving the grant under subsection (a)
 
 &emsp;“(3) bridge the gap between research and practice by translating knowledge from research into practical information.
 
-“(d)
+“(c)
 
 Authorization of Appropriations.—There is authorized to be appropriated for purposes of activities under this section, including the grant under subsection (a), amounts as follows:
 
@@ -140,7 +136,9 @@ Authorization of Appropriations.—There is authorized to be appropriated for pu
 
 &emsp;“(2) For each of fiscal years 2004 and 2005, $1,000,000.
 
-&emsp;“(3) For each of fiscal years 2006 and 2007, $750,000.”
+&emsp;“(3) For each of fiscal years 2006 and 2007, $750,000.
+
+&emsp;“(4) For each of the fiscal years 2008 through 2012, $2,000,000.”
 
 #### Prohibition Against Duplication of Effort
 

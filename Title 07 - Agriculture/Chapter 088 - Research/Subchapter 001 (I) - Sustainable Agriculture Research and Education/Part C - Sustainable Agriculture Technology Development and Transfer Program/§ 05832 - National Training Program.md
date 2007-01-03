@@ -26,7 +26,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (2) Training program
 
-&emsp;Such centers shall offer intensive instructional programs involving classroom and field training work for extension specialists and other individuals who are required to transmit technical information.
+&emsp;Such centers shall offer intensive instructional programs involving classroom and fieldtraining work for extension specialists and other individuals who are required to transmit technical information.
 
 #### (3) Prohibition on construction
 
@@ -76,7 +76,7 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(9) provide specific information on water quality practices developed through the research programs in chapter 86 of this title; <sup>1</sup>
 
-&emsp;(10) provide specific information on nutrient management practices developed through theresearch programs in chapter 86 of this title; <sup>1</sup> and
+&emsp;(10) provide specific information on nutrient management practices developed through the research programs in chapter 86 of this title; <sup>1</sup> and
 
 &emsp;(11) provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 

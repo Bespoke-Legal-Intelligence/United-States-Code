@@ -68,7 +68,7 @@
 
 #### (1) Requirement
 
-&emsp;If the Secretary finds pursuant to subsection (b) of this section, that an enterprise has failed, or that there is a substantial probability that an enterprise will fail, to meetany housing goal established under section 4562, 4563, or 4564 of this title, and that the achievement of the housing goal was or is feasible, the Secretary shall require the enterprise to submit a housing plan under this subsection for approval by the Secretary.
+&emsp;If the Secretary finds pursuant to subsection (b) of this section, that an enterprise has failed, or that there is a substantial probability that an enterprise will fail, to meet any housing goal established under section 4562, 4563, or 4564 of this title, and that the achievement of the housing goal was or is feasible, the Secretary shall require the enterprise to submit a housing plan under this subsection for approval by the Secretary.
 
 #### (2) Contents
 

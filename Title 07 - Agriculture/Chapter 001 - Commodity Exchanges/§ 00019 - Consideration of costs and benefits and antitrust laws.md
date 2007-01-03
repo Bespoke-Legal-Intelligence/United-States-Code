@@ -36,10 +36,6 @@ The Commission shall take into consideration the public interest to be protected
 
 (Sept. 21, 1922, ch. 369, §15, as added Pub. L. 93–463, title I, §107, Oct. 23, 1974, 88 Stat. 1395; amended Pub. L. 102–546, title V, §502(b), Oct. 28, 1992, 106 Stat. 3631; Pub. L. 106–554, §1(a)(5) \[title I, §119\], Dec. 21, 2000, 114 Stat. 2763, 2763A–403.)
 
-#### References in Text
-
-The antitrust laws, referred to in subsec. (b), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-
 #### Amendments
 
 2000—Pub. L. 106–554 inserted section catchline, added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.

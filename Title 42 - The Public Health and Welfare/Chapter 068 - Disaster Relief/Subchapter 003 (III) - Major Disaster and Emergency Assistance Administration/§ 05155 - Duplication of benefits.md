@@ -8,7 +8,7 @@ The President, in consultation with the head of each Federal agency administerin
 
 #### (1) Limitation
 
-&emsp;This section shall not prohibit the provision of Federal assistance to a person who is or may be entitled to receive benefits for the same purposes from another source if such person has not received such other benefits by the time of application for Federal assistance and if such person agrees to repay all duplicative assistance to the agency providing the Federal assistance.
+&emsp;This section shall not prohibit the provision of Federal assistance to a person who is ormay be entitled to receive benefits for the same purposes from another source if such person has not received such other benefits by the time of application for Federal assistance and if such person agrees to repay all duplicative assistance to the agency providing the Federal assistance.
 
 #### (2) Procedures
 

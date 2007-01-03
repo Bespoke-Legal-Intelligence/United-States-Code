@@ -28,7 +28,7 @@ This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 33
 
 The Silk Road Strategy Act of 1999, referred to in par. (5)(A), (D), is Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596\], Nov. 29, 1999, 113 Stat. 1535, 1501A–123, which enacted part XII (§2296 et seq.) of subchapter I of chapter 32 of this title and amended this section and section 5812 of this title. Section 3 of the Act probably refers to a section 3 which related to Policy of the United States and appeared in H.R. 1152 as introduced in the House of Representatives, but was not contained in the provisions of that bill that were incorporated into Pub. L. 106–113. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 2151 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in par. (5)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, asamended. Chapter 12 of part I of the Act is classified generally to part XII \[§2296 et seq.\] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (5)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 12 of part I of the Act is classified generally to part XII \[§2296 et seq.\] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 

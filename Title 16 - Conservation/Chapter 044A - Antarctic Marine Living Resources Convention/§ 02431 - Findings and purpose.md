@@ -24,5 +24,5 @@ The purpose of this chapter is to provide the legislative authority necessary to
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 98–623 provided that: “This title \[enacting this chapter\] may be cited as the ‘Antarctic Marine Living Resources Convention Act of 1984’.”
+Section 301 of title III of Pub. L. 98–623 provided that: “This title \[enacting this chapter\] may be cited as the‘Antarctic Marine Living Resources Convention Act of 1984’.”
 

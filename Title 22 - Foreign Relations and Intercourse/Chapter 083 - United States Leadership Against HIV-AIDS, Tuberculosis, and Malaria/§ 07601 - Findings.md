@@ -42,7 +42,7 @@ Congress makes the following findings:
 
 &emsp;(15) HIV/AIDS is first and foremost a health problem. Successful strategies to stem the spread of the HIV/AIDS pandemic will require clinical medical interventions, the strengthening of health care delivery systems and infrastructure, and determined national leadership and increased budgetary allocations for the health sector in countries affected by the epidemic as well as measures to address the social and behavioral causes of the problem and its impact on families, communities, and societal sectors.
 
-&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntarycounseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from a pilot program basis to a national basis in a coherent and sustainable manner.
+&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntary counseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from a pilot program basis to a national basis in a coherent and sustainable manner.
 
 &emsp;(17) Appropriate treatment of individuals with HIV/AIDS can prolong the lives of such individuals, preserve their families, prevent children from becoming orphans, and increase productivity of such individuals by allowing them to lead active lives and reduce the need for costly hospitalization for treatment of opportunistic infections caused by HIV.
 
@@ -60,7 +60,7 @@ Congress makes the following findings:
 
 &emsp;(21) The magnitude and scope of the HIV/AIDS crisis demands a comprehensive, long-term, international response focused upon addressing the causes, reducing the spread, and ameliorating the consequences of the HIV/AIDS pandemic, including—
 
-&emsp;&emsp;(A) prevention and education, care and treatment, basic and applied research, and training of health care workers, particularly at the community and provincial levels, and other community workers and leaders needed to cope with the range of consequences of the HIV/AIDS crisis;
+&emsp;&emsp;(A) prevention and education, care and treatment, basic and applied research, and training of health care workers, particularly at the community and provincial levels, andother community workers and leaders needed to cope with the range of consequences of the HIV/AIDS crisis;
 
 &emsp;&emsp;(B) development of health care infrastructure and delivery systems through cooperative and coordinated public efforts and public and private partnerships;
 
@@ -102,5 +102,5 @@ Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: “This Ac
 
 #### Delegation of Functions
 
-For delegation of functions of President under this chapter, except for functions set forth in section 7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this chapter, except for functions set forth in section7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -28,9 +28,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Offenses Against Minors
 
-Pub. L. 105–119, title I, §115(a)(8)(C), Nov. 26, 1997, 111 Stat. 2466, provided that:
+Pub. L. 105–119, title I, §115(a)(8)(C), Nov. 26, 1997, 111 Stat. 2466, as amended by Pub. L. 109–248, title I, §141(i), July 27, 2006, 120 Stat. 604, provided that:
 
-“(i) The Secretary of Defense shall specify categories of conduct punishable under the Uniform Code of Military Justice which encompass a range of conduct comparable to that described in section 170101(a)(3)(A) and (B) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(a)(3)(A) and (B)), and such other conduct as the Secretary deems appropriate for inclusion for purposes of this subparagraph.
+“(i) The Secretary of Defense shall specify categories of conduct punishable under the Uniform Code of Military Justice which are sex offenses as that term is defined in the Sex Offender Registration and Notification Act \[42 U.S.C. 16901 et seq.\], and such other conduct as the Secretary deems appropriate for inclusion for purposes of this subparagraph.
 
 “(ii) In relation to persons sentenced by a court martial for conduct in the categories specified under clause (i), the Secretary shall prescribe procedures and implement a system to—
 
@@ -40,33 +40,11 @@ Pub. L. 105–119, title I, §115(a)(8)(C), Nov. 26, 1997, 111 Stat. 2466, provi
 
 &emsp;“(III) track and ensure compliance with registration requirements by such persons during any period of parole, probation, or other conditional release or supervision related to the offense.
 
-“(iii) The procedures and requirements established by the Secretary under this subparagraph shall, to the maximum extent practicable, be consistent with those specified for Federal offenders under the amendments made by subparagraphs (A) and (B) \[section 115(a)(8)(A), (B) of Pub. L. 105–119, amending sections 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure\].
+“(iii) The procedures and requirements established by the Secretary under this subparagraph shall, to the maximum extent practicable, be consistent with those specified for Federal offenders under the Sex Offender Registration and Notification Act.
 
 “(iv) If a person within the scope of this subparagraph is confined in a facility under the control of the Bureau of Prisons at the time of release, the Bureau of Prisons shall provide notice of release and inform the person concerning registration obligations under the procedures specified in section 4042(c) of title 18, United States Code.”
 
 #### Notification of Victims and Witnesses of Status of Prisoners in Military Correctional Facilities
 
-Pub. L. 103–160, div. A, title V, §552, Nov. 30, 1993, 107 Stat. 1662, provided that:
-
-“(a)
-
-In General.—The Secretary of Defense shall prescribe procedures and implement a centralized system for notice of the status of offenders confined in military correctional facilities to be provided to victims and witnesses. Such procedures shall, to the maximum extent practicable, be consistent with procedures of the Federal Bureau of Prisons for victim and witness notification.
-
-“(b)
-
-Deadline for Prescribing Procedures.—The Secretary of Defense—
-
-&emsp;“(1) shall prescribe the procedures required by subsection (a) not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\]; and
-
-&emsp;“(2) shall implement the centralized system required by that section not later than six months after those procedures are prescribed.
-
-“(c)
-
-Notification and Reporting Requirement.—(1) Upon implementation of the centralized system of notice under subsection (a), the Secretary shall notify Congress of such implementation.
-
-“(2) After such system has been in operation for one year, the Secretary shall submit to Congress a report detailing the lessons learned during the first year of operation.
-
-“(d)
-
-Termination of Requirement.—The requirement to establish procedures and implement a centralized system of notice under subsection (a) shall expire 90 days after the receipt of the report required by subsection (c)(2).”
+Pub. L. 103–160, div. A, title V, §552, Nov. 30, 1993, 107 Stat. 1662, directed the Secretary of Defense to prescribe procedures, not later than six months after Nov. 30, 1993, for notice of the status of offenders confined in military correctional facilities to be provided to victims and witnesses, to implement a centralized system for the provision of such notice not later than six months after such procedures had been prescribed, to notify Congress upon implementation of the centralized system of notice, and to submit to Congress a report after such system had been in operation for one year, and directed that the requirement to establish procedures and implement a centralized system of notice would expire 90 days after receipt of the report.
 

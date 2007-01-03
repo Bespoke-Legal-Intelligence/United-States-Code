@@ -18,7 +18,7 @@
 
 (b) Therefore, the purpose of this chapter is to accelerate ocean thermal energy conversion technology development to provide a technical base for meeting the following goals:
 
-&emsp;(1) demonstration by 1986 of at least one hundred megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems;
+&emsp;(1) demonstration by 1986 of at least one hundred megawatts of electrical capacity orenergy product equivalent from ocean thermal energy conversion systems;
 
 &emsp;(2) demonstration by 1989 of at least five hundred megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems;
 

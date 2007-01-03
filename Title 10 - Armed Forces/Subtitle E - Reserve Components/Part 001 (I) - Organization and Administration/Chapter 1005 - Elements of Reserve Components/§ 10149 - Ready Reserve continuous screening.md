@@ -20,7 +20,7 @@
 
 &emsp;(3) if the member is eligible and applies therefor, transferred to the Retired Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2974; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2974; amendedPub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Prior Provisions
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Ex. Ord. No. 11190. Screening of Ready Reserve
 
-Ex. Ord. No. 11190, Dec. 29, 1964, 29 F.R. 19183, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R.16247; Ex. Ord. No. 13286, §67, Feb. 28, 2003, 68 F.R. 10630, provided:
+Ex. Ord. No. 11190, Dec. 29, 1964, 29 F.R. 19183, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 13286, §67, Feb. 28, 2003, 68 F.R. 10630, provided:
 
 By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President of the United States and Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 

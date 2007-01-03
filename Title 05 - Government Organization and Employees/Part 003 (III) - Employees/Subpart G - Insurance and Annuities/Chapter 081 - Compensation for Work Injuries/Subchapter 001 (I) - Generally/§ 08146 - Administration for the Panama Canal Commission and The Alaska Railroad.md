@@ -6,7 +6,7 @@
 
 &emsp;(2) so far as employees of The Alaska Railroad are concerned to the general manager of The Alaska Railroad.
 
-(b) When administration is transferred under subsection (a) of this section, the expenses incident to physical examinations which are payable under section 8123 of this title shall be paid from appropriations for the Panama Canal Commission or for The Alaska Railroad, as the casemay be, instead of from the Employees’ Compensation Fund. The President may authorize the Panama Canal Commission and the general manager of The Alaska Railroad to pay the compensation provided by this subchapter, including medical, surgical, and hospital services and supplies under section 8103 of this title and the transportation and burial expenses under sections 8103 and 8134 of this title, from appropriations for the Panama Canal Commission and for The Alaska Railroad, and these appropriations shall be reimbursed for the payments by transfer of funds from the Employees’ Compensation Fund.
+(b) When administration is transferred under subsection (a) of this section, the expenses incident to physical examinations which are payable under section 8123 of this title shall be paid from appropriations for the Panama Canal Commission or for The Alaska Railroad, as the case may be, instead of from the Employees’ Compensation Fund. The President may authorize the Panama Canal Commission and the general manager of The Alaska Railroad to pay the compensation provided by this subchapter, including medical, surgical, and hospital services and supplies under section 8103 of this title and the transportation and burial expenses under sections 8103 and 8134 of this title, from appropriations for the Panama Canal Commission and for The Alaska Railroad, and these appropriations shall be reimbursed for the payments by transfer of funds from the Employees’ Compensation Fund.
 
 (c) The President may authorize the Panama Canal Commission to waive, at its discretion, the making of the claim required by section 8121 of this title in the case of compensation to an employee of the Panama Canal Commission for temporary disability, either total or partial.
 
@@ -40,7 +40,7 @@ In subsection (b), the words “the Employees’ Compensation Fund” are substi
 
 In subsections (b) and (c), the words “Canal Zone Government”, “Panama Canal Company”, and “Governor of the Canal Zone” are substituted for “Panama Canal”, “Panama Railroad Company”, and “Governor of the Panama Canal”, respectively, on authority of the Act of Sept. 26, 1950, ch. 1049, §2, 64 Stat. 1038.
 
-In subsection (e), the words “of other employees to whom this subchapter applies” are substituted for “of other employees of the Federal Government” for clarity and in view of the provisions of section 8149. The words “Employees’ Compensation Appeals Board” are substituted for “Appeals Board” to reflect the full title of the Board
+In subsection (e), the words “of other employees to whom this subchapter applies” are substituted for “ofother employees of the Federal Government” for clarity and in view of the provisions of section 8149. The words “Employees’ Compensation Appeals Board” are substituted for “Appeals Board” to reflect the full title of the Board
 
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
 

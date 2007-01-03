@@ -40,7 +40,7 @@ Definitions.—In this section:
 
 #### Guard and Reserve Transition Initiatives
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8050\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) \[set out below\] shall be made from appropriations in this Act \[Pub. L. 104–208\] which are available for the pay of reserve component personnel.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8050\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) \[set outbelow\] shall be made from appropriations in this Act \[Pub. L. 104–208\] which are available for the pay of reserve component personnel.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -100,7 +100,7 @@ Minimum Requirements for Plan.—The regulations shall include the following:
 
 &emsp;“(2) The giving of a priority to such personnel for transfer among the reserve components of the Armed Forces in order to facilitate reassignment to such units.
 
-&emsp;“(3) A requirement that the Secretaries of the military departments take diligent actions to ensure thatmembers of the reserve components of the Armed Forces are informed in easily understandable terms of the rights and benefits conferred upon such personnel by this subtitle, by the amendments made by this subtitle, and by such regulations.
+&emsp;“(3) A requirement that the Secretaries of the military departments take diligent actions to ensure that members of the reserve components of the Armed Forces are informed in easily understandable terms of the rights and benefits conferred upon such personnel by this subtitle, by the amendments made by this subtitle, and by such regulations.
 
 &emsp;“(4) Such other protections, preferences, and benefits as the Secretary of Defense considers appropriate.
 
@@ -132,7 +132,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
 
-“(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
+“(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given anopportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
 
 “(3) A member of the Army National Guard of the United States or the Air National Guard of the United States may not be eliminated from an active status under this section without the consent of the Governor or other appropriate authority of the State or territory, Puerto Rico, or the District of Columbia, whichever is concerned.
 
@@ -190,7 +190,7 @@ Clerical Amendment.—\[Amended analysis of chapter 67 \[now 1223\] of this titl
 
 “(a)
 
-Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least6 years of service computed under section 12732 of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
+Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least 6 years of service computed under section 12732 of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
 
 “(b)
 

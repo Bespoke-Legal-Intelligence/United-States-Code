@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator of the Office of Juvenile Justice and Delinquency Prevention shall makegrants to initiate, sustain, and expand the court-appointed special advocate program.
+The Administrator of the Office of Juvenile Justice and Delinquency Prevention shall make grants to initiate, sustain, and expand the court-appointed special advocate program.
 
 #### (b) Grantee organizations
 

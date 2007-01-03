@@ -7,9 +7,6 @@
 | [132a.](%C2%A7%2000132a%20-%20Appropriations%20for%20increase%20of%20general%20library.md) | Appropriations for increase of general library. |
 | 132a–1. | Obligations for reimbursable and revolving fund activities; limitation. |
 | 132a–2. | Furniture, furnishings, and office and library equipment; transfer of funds. |
-| (a) | Transfer of funds. |
-| (b) | Availability of funds. |
-| (c) | Approval of Congress. |
 | [132b.](%C2%A7%2000132b%20-%20Joint%20Committee%20on%20the%20Library.md) | Joint Committee on the Library. |
 | [133\.](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md) | Joint Committee during recess of Congress. |
 | [134\.](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md) | Incidental expenses of law library. |
@@ -29,9 +26,6 @@
 | [139\.](%C2%A7%2000139%20-%20Omitted.md) | Omitted. |
 | [140\.](%C2%A7%2000140%20-%20Employees%3B%20fitness.md) | Employees; fitness. |
 | [141\.](%C2%A7%2000141%20-%20Allocation%20of%20responsibilities%20for%20Library%20buildings%20and%20grounds.md) | Allocation of responsibilities for Library buildings and grounds. |
-| (a) | Architect of the Capitol. |
-| (b) | Librarian of Congress. |
-| (c) | Transfer of funds. |
 | [141a.](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md) | Design, installation, and maintenance of security systems; transfer of responsibility. |
 | [142\.](%C2%A7%2000142%20-%20Omitted.md) | Omitted. |
 | [142a.](%C2%A7%2000142a%20-%20Office%20of%20administrative%20assistant%20and%20disbursing%20officer%20in%20Library%20of%20Congress%20abolished%3B%20transfer%20of%20duties%20to%20appointee%20of%20Librarian.md) | Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian. |
@@ -71,28 +65,11 @@
 | [162\.](%C2%A7%2000162%20-%20Compensation%20of%20Library%20of%20Congress%20employees.md) | Compensation of Library of Congress employees. |
 | [162a.](%C2%A7%2000162a%20-%20Gross%20salary%20of%20Library%20of%20Congress%20employees.md) | Gross salary of Library of Congress employees. |
 | [162b.](%C2%A7%2000162b%20-%20Little%20Scholars%20Child%20Development%20Center%3B%20employee%20compensation%20and%20personnel%20matters.md) | Little Scholars Child Development Center; employee compensation and personnel matters. |
-| (a) | Election of coverage; creditable service; qualification for survivor annuities and disability benefits; contributions to thrift savings plan; certification concerning creditable service. |
-| (b) | Health insurance coverage. |
-| (c) | Life insurance coverage. |
-| (d) | Government contributions by Librarian from available appropriations. |
-| (e) | Payroll and personnel functions of Library of Congress. |
-| (f) | Responsibilities of Center. |
-| (g) | Regulations. |
 | [163\.](%C2%A7%2000163%20-%20Omitted.md) | Omitted. |
 | [164\.](%C2%A7%2000164%20-%20Index%20and%20digest%20of%20State%20legislation%3B%20preparation.md) | Index and digest of State legislation; preparation. |
 | [164a.](%C2%A7%2000164a%20-%20Official%20distribution%20of%20State%20legislation%20index%20and%20digest.md) | Official distribution of State legislation index and digest. |
 | [165\.](%C2%A7%2000165%20-%20Authorization%20for%20appropriation%20for%20biennial%20index.md) | Authorization for appropriation for biennial index. |
 | [166\.](%C2%A7%2000166%20-%20Congressional%20Research%20Service.md) | Congressional Research Service. |
-| (a) | Redesignation of Legislative Reference Service. |
-| (b) | Functions and objectives. |
-| (c) | Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; placement in grades GS–16, 17, and 18 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties. |
-| (d) | Duties of Service; assistance to Congressional committees; list of terminating programs and subjects for analysis; legislative data, studies, etc.; information research; digest of bills, preparation; legislation, purpose and effect, and preparation of memoranda; information and research capability, development. |
-| (e) | Specialists and Senior Specialists; appointment; fields of appointment. |
-| (f) | Duties of Director; establishment and change of research and reference divisions or other organizational units, or both. |
-| (g) | Budget estimates. |
-| (h) | Experts or consultants, individual or organizational, and persons and organizations with specialized knowledge; procurement of temporary or intermittent assistance; contracts, nonpersonal and personal service; advertisement requirements inapplicable; end product; pay; travel time. |
-| (i) | Special report to Joint Committee on the Library. |
-| (j) | Authorization of appropriations. |
 | [167\.](%C2%A7%2000167%20-%20Buildings%20and%20grounds%3B%20designation%20of%20employees%20as%20police.md) | Buildings and grounds; designation of employees as police. |
 | [167a.](%C2%A7%2000167a%20-%20Public%20use%20of%20Library%20of%20Congress%20grounds.md) | Public use of Library of Congress grounds. |
 | [167b.](%C2%A7%2000167b%20-%20Sales%2C%20advertisements%2C%20and%20solicitations%20in%20Library%20buildings%20and%20grounds.md) | Sales, advertisements, and solicitations in Library buildings and grounds. |
@@ -111,10 +88,6 @@
 | [168d.](%C2%A7%2000168d%20-%20Authorization%20of%20appropriations%20for%20Constitution%20Annotated.md) | Authorization of appropriations for Constitution Annotated. |
 | [169\.](%C2%A7%2000169%20-%20Positions%20in%20Library%20of%20Congress%20exempt%20from%20citizenship%20requirement.md) | Positions in Library of Congress exempt from citizenship requirement. |
 | [170\.](%C2%A7%2000170%20-%20American%20Television%20and%20Radio%20Archives.md) | American Television and Radio Archives. |
-| (a) | Establishment and maintenance in Library of Congress; purpose; determination of composition, cataloging, indexing and availability by Librarian. |
-| (b) | Reproduction, compilation, and distribution for research of regularly scheduled newscasts or on-the-spot coverage of news events by Librarian; promulgation of regulations. |
-| (c) | Liability for copyright infringement by Librarian or any employee of Librarian. |
-| (d) | Short title. |
 | [171\.](%C2%A7%2000171%20-%20Congressional%20declaration%20of%20findings%20and%20purpose%20as%20to%20Center%20for%20the%20Book.md) | Congressional declaration of findings and purpose as to Center for the Book. |
 | [172\.](%C2%A7%2000172%20-%20Definitions.md) | Definitions. |
 | [173\.](%C2%A7%2000173%20-%20Establishment%20of%20Center%20for%20the%20Book.md) | Establishment of Center for the Book. |
@@ -122,101 +95,30 @@
 | [175\.](%C2%A7%2000175%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [176\.](%C2%A7%2000176%20-%20Mass%20Book%20Deacidification%20Facility%3B%20operation%20by%20Librarian%20of%20Congress.md) | Mass Book Deacidification Facility; operation by Librarian of Congress. |
 | [177\.](%C2%A7%2000177%20-%20Poet%20Laureate%20Consultant%20in%20Poetry.md) | Poet Laureate Consultant in Poetry. |
-| (a) | Recognition. |
-| (b) | Position established. |
-| (c) | Poetry program. |
 | 178 to 179k. Repealed. |  |
 | 179<i>l.</i> | National Film Registry of Library of Congress. |
 | [179m.](%C2%A7%2000179m%20-%20Duties%20of%20Librarian%20of%20Congress.md) | Duties of Librarian of Congress. |
-| (a) | Powers. |
-| (b) | Use of seal. |
-| (c) | Coordination of program with other collection, preservation, and accessibility activities. |
 | [179n.](%C2%A7%2000179n%20-%20National%20Film%20Preservation%20Board.md) | National Film Preservation Board. |
-| (a) | Number and appointment. |
-| (b) | Chair. |
-| (c) | Term of office. |
-| (d) | Quorum. |
-| (e) | Reimbursement of expenses. |
-| (f) | Meetings. |
-| (g) | Conflict of interest. |
 | 179<i>o.</i> | Responsibilities and powers of Board. |
-| (a) | In general. |
-| (b) | Nomination of films. |
-| (c) | Powers. |
 | [179p.](%C2%A7%2000179p%20-%20National%20Film%20Registry%20Collection%20of%20Library%20of%20Congress.md) | National Film Registry Collection of Library of Congress. |
-| (a) | Acquisition of archival quality copies. |
-| (b) | Additional materials. |
-| (c) | Property of United States. |
-| (d) | National Film Registry Collection. |
-| (e) | National Audio-Visual Conservation Center. |
 | [179q.](%C2%A7%2000179q%20-%20Seal%20of%20National%20Film%20Registry.md) | Seal of National Film Registry. |
-| (a) | Use of seal. |
-| (b) | Effective date of seal. |
 | [179r.](%C2%A7%2000179r%20-%20Remedies.md) | Remedies. |
-| (a) | Jurisdiction. |
-| (b) | Relief. |
 | [179s.](%C2%A7%2000179s%20-%20Limitations%20of%20remedies.md) | Limitations of remedies. |
 | [179t.](%C2%A7%2000179t%20-%20Staff%20of%20Board%3B%20experts%20and%20consultants.md) | Staff of Board; experts and consultants. |
-| (a) | Staff. |
-| (b) | Experts and consultants. |
 | [179u.](%C2%A7%2000179u%20-%20Definitions.md) | Definitions. |
 | [179v.](%C2%A7%2000179v%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [179w.](%C2%A7%2000179w%20-%20Effective%20date.md) | Effective date. |
 | [180\.](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md) | Legislative information retrieval system. |
-| (a) | Purpose. |
-| (b) | “Legislative information” defined. |
-| (c) | Development of single system to serve entire Congress. |
-| (d) | Development and approval of plan. |
-| (e) | Availability of information to public. |
 | [181\.](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md) | Program for exchange of information among legislative branch agencies. |
 | [182\.](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md) | Cooperative Acquisitions Program Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Amounts deposited. |
-| (c) | Credits to revolving fund. |
-| (d) | Unobligated balances. |
-| (e) | Annual report. |
 | [182a.](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md) | Revolving fund for duplication services associated with audiovisual conservation center. |
-| (a) | Establishment. |
-| (b) | Fees for services. |
-| (c) | Contents of fund. |
-| (d) | Use of amounts in fund. |
 | [182b.](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md) | Revolving fund for gift shop, decimal classification, photo duplication, and related services. |
-| (a) | Establishment. |
-| (b) | Individual accounting requirement. |
-| (c) | Fees for services. |
-| (d) | Contents of accounts in fund. |
-| (e) | Use of amounts. |
 | [182c.](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md) | Revolving fund for FEDLINK program and Federal Research program. |
-| (a) | Establishment. |
-| (b) | Individual accounting requirement. |
-| (c) | Fees for services. |
-| (d) | Contents of fund. |
-| (e) | Use of amounts in fund. |
-| (f) | Programs described. |
 | [182d.](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md) | Audits by Comptroller General. |
 | [183\.](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md) | Written history of the House of Representatives. |
-| (a) | In general. |
-| (b) | Guidelines. |
-| (c) | Printing. |
-| (d) | Distribution. |
-| (e) | Private funding. |
 | [183a.](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md) | Oral history of the House of Representatives. |
-| (a) | In general. |
-| (b) | Definition of oral history. |
 | [184\.](%C2%A7%2000184%20-%20Incorporation%20of%20digital%20collections%20into%20educational%20curricula.md) | Incorporation of digital collections into educational curricula. |
-| (a) | Short title. |
-| (b) | Program. |
-| (c) | Educational consortium. |
-| (d) | Authorization of appropriations. |
 | [185\.](%C2%A7%2000185%20-%20Inspector%20General%20of%20the%20Library%20of%20Congress.md) | Inspector General of the Library of Congress. |
-| (a) | Short title. |
-| (b) | Office of Inspector General. |
-| (c) | Appointment of Inspector General; supervision; removal. |
-| (d) | Duties, responsibilities, authority, and reports. |
-| (e) | Transfers. |
-| (f) | Incumbent. |
-| (g) | References. |
-| (h) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

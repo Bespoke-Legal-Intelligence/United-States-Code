@@ -6,7 +6,7 @@
 
 &emsp;(2) in the case of any other taxable year, be credited equally to the calendar quarter in which such taxable year ends and to each of the next three or fewer preceding quarters any part of which is in such taxable year.
 
-(b) For the purposes of determining average indexed monthly earnings, average monthly wage, and quarters of coverage the amount of self-employment income derived during any taxable year which begins after 1977 shall—
+(b) For the purposes of determining average indexed monthly earnings, average monthlywage, and quarters of coverage the amount of self-employment income derived during any taxable year which begins after 1977 shall—
 
 &emsp;(1) in the case of a taxable year which is a calendar year or which begins with or during a calendar year and ends with or during such year, be credited to such calendar year; and
 

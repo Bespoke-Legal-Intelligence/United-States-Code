@@ -20,7 +20,7 @@ The regulations prescribed by the Commission pursuant to this section shall—
 
 &emsp;(6) not require a local exchange carrier to which this section applies to engage in any infrastructure sharing agreement for any services or access which are to be provided or offered to consumers by the qualifying carrier in such local exchange carrier's telephone exchange area; and
 
-&emsp;(7) require that such local exchange carrier file with the Commission or State for publicinspection, any tariffs, contracts, or other arrangements showing the rates, terms, and conditions under which such carrier is making available public switched network infrastructure and functions under this section.
+&emsp;(7) require that such local exchange carrier file with the Commission or State for public inspection, any tariffs, contracts, or other arrangements showing the rates, terms, and conditions under which such carrier is making available public switched network infrastructure and functions under this section.
 
 #### (c) Information concerning deployment of new services and equipment
 

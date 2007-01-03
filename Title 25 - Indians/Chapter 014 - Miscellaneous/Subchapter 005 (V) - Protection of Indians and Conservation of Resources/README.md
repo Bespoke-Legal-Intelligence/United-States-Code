@@ -16,7 +16,7 @@
 - [&sect; 00463e - Exchanges of land](%C2%A7%2000463e%20-%20Exchanges%20of%20land.md)
 - [&sect; 00463f - Title to lands](%C2%A7%2000463f%20-%20Title%20to%20lands.md)
 - [&sect; 00463g - Use of funds appropriated under section 465](%C2%A7%2000463g%20-%20Use%20of%20funds%20appropriated%20under%20section%20465.md)
-- [&sect; 00464 - Transfer and exchange of restricted Indian land and shares of Indian tribes and corporations](%C2%A7%2000464%20-%20Transfer%20and%20exchange%20of%20restricted%20Indian%20land%20and%20shares%20of%20Indian%20tribes%20and%20corporations.md)
+- [&sect; 00464 - Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations](%C2%A7%2000464%20-%20Transfer%20and%20exchange%20of%20restricted%20Indian%20lands%20and%20shares%20of%20Indian%20tribes%20and%20corporations.md)
 - [&sect; 00465 - Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption](%C2%A7%2000465%20-%20Acquisition%20of%20lands%2C%20water%20rights%20or%20surface%20rights%3B%20appropriation%3B%20title%20to%20lands%3B%20tax%20exemption.md)
 - [&sect; 00465a - Receipt and purchase in trust by United States of land for Klamath Tribe Indians](%C2%A7%2000465a%20-%20Receipt%20and%20purchase%20in%20trust%20by%20United%20States%20of%20land%20for%20Klamath%20Tribe%20Indians.md)
 - [&sect; 00465b - &#8220;Klamath Tribe of Indians&#8221; defined](%C2%A7%2000465b%20-%20%E2%80%9CKlamath%20Tribe%20of%20Indians%E2%80%9D%20defined.md)
@@ -59,3 +59,4 @@
 - [&sect; 00492 - Interest rates and taxes](%C2%A7%2000492%20-%20Interest%20rates%20and%20taxes.md)
 - [&sect; 00493 - Reduction of unpaid principal](%C2%A7%2000493%20-%20Reduction%20of%20unpaid%20principal.md)
 - [&sect; 00494 - Authorization of appropriations](%C2%A7%2000494%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00494a - Certification of rental proceeds](%C2%A7%2000494a%20-%20Certification%20of%20rental%20proceeds.md)

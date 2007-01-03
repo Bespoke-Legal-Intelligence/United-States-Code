@@ -1,6 +1,6 @@
 ### §8714c. Optional life insurance on family members
 
-(a) Under the conditions, directives, and terms specified in sections 8709 through 8712 of this title, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each employee insured under section 8702 of this title amounts of optional life insurance (without accidental death and dismemberment insurance) on the employee's family members.
+(a) Under the conditions, directives, and terms specified in sections 8709 through 8712 of thistitle, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each employee insured under section 8702 of this title amounts of optional life insurance (without accidental death and dismemberment insurance) on the employee's family members.
 
 (b)(1) The optional life insurance on family members provided under this section shall be made available to each eligible employee who has elected coverage under this section, under conditions the Office shall prescribe, in multiples, at the employee's election, of 1, 2, 3, 4, or 5 times—
 
@@ -24,7 +24,7 @@
 
 (2) If an agency fails to withhold the proper cost of optional life insurance on family members from an individual's salary, compensation, or retirement annuity, the collection of amounts properly due may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of any unpaid amount, the agency shall submit an amount equal to the uncollected amount to the Office for deposit to the Employees’ Life Insurance Fund.
 
-(3) Notwithstanding paragraph (1), an employee who is subject to withholdings under this subsection and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue optional life insurance on family members if the employee arranges to pay currently into the Employees’Life Insurance Fund, through the agency or retirement system that administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this subsection.
+(3) Notwithstanding paragraph (1), an employee who is subject to withholdings under this subsection and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue optional life insurance on family members if the employee arranges to pay currently into the Employees’ Life Insurance Fund, through the agency or retirement system that administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this subsection.
 
 (e) The cost of the optional life insurance on family members shall be determined from time to time by the Office on the basis of the employee's age relative to such age groups as the Office establishes under section 8714a(e) of this title.
 

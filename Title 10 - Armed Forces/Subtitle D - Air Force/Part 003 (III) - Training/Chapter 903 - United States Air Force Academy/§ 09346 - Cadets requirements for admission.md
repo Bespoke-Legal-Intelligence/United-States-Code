@@ -54,5 +54,5 @@ In subsection (c), the word “shall” is substituted for the word “may”, s
 
 #### Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf War
 
-For authority to waive maximum age limitation in subsec. (a) of this section on basis of service on active duty in connection with Operation Desert Storm, see section 514 of Pub. L. 102–190, set out as a note under section 4346 of this title.
+For authority to waive maximum age limitation in subsec. (a) of this section on basis of service on active duty in connection with Operation Desert Storm, seesection 514 of Pub. L. 102–190, set out as a note under section 4346 of this title.
 

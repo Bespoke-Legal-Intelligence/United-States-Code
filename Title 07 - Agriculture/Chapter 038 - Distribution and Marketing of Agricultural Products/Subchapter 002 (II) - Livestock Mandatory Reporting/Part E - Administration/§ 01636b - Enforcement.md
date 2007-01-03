@@ -54,7 +54,7 @@ No penalty shall be assessed, or cease and desist order issued, by the Secretary
 
 #### (2) Attorney General
 
-&emsp;The Attorney General may apply to the appropriate district court of the United States for a temporary or permanent injunction or restraining order.
+&emsp;The Attorney General may apply to the appropriate district court of the United Statesfor a temporary or permanent injunction or restraining order.
 
 #### (3) Court
 
@@ -75,8 +75,4 @@ No penalty shall be assessed, or cease and desist order issued, by the Secretary
 &emsp;If the court finds that the person violated the cease and desist provisions of the order, the person shall be subject to a civil penalty of not more than $10,000 for each offense.
 
 (Aug. 14, 1946, ch. 966, title II, §253, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1202.)
-
-#### Termination of Section
-
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
 

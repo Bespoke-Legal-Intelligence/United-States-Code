@@ -92,13 +92,39 @@ In applying this section in the case of an individual who is entitled to benefit
 
 &emsp;(2) In applying subsection (g)(1) of this section, the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474.)
+#### (k) Special enrollment period for certain volunteers serving outside United States
+
+(1) In the case of an individual who—
+
+&emsp;(A) at the time the individual first satisfies paragraph (1) or (2) of section 1395<i>o</i> of this title, is described in paragraph (3), and has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period; or
+
+&emsp;(B) has terminated enrollment under this section during a month in which the individual is described in paragraph (3),
+
+> there shall be a special enrollment period described in paragraph (2).
+
+(2) The special enrollment period described in this paragraph is the 6-month period beginning on the first day of the month which includes the date that the individual is no longer described in paragraph (3).
+
+(3) For purposes of paragraph (1), an individual described in this paragraph is an individual who—
+
+&emsp;(A) is serving as a volunteer outside of the United States through a program—
+
+&emsp;&emsp;(i) that covers at least a 12-month period; and
+
+&emsp;&emsp;(ii) that is sponsored by an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code; and
+
+&emsp;(B) demonstrates health insurance coverage while serving in the program.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45.)
 
 #### References in Text
 
 Part A of this subchapter, referred to in subsecs. (c), (h), (i)(4)(A), and (j), is classified to section 1395c et seq. of this title.
 
+Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (k)(3)(A)(ii), is classified to section 501 of Title 26, Internal Revenue Code.
+
 #### Amendments
+
+2006—Subsec. (k). Pub. L. 109–171 added subsec. (k).
 
 2000—Subsec. (j). Pub. L. 106–554 added subsec. (j).
 
@@ -186,6 +212,10 @@ Subsec. (e). Pub. L. 90–248, §145(b), provided for an annual general enrollme
 
 Subsec. (d). Pub. L. 89–384, §3(b), substituted March 1, 1966, for January 1, 1966.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title V, §5115(b), Feb. 8, 2006, 120 Stat. 46, provided that: “The amendment made by subsection (a)(1) \[amending section 1395r of this title\] shall apply to months beginning with January 2007 and the amendments made by subsection (a)(2) \[amending this section and section 1395q of this title\] shall take effect on January 1, 2007.”
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–554 applicable to benefits for months beginning July 1, 2001, see section 1(a)(6) \[title I, §115(c)\] of Pub. L. 106–554, set out as a note under section 426 of this title.
@@ -238,7 +268,7 @@ Section 2151(b) of Pub. L. 97–35 provided that: “The amendments made by this
 
 Section 945(d) of Pub. L. 96–499 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1395q and 1395r of this title\] shall apply to enrollments occurring on or after April 1, 1981.”
 
-Amendment by Pub. L. 96–265 applicable with respect to hospital insurance or supplementary medical insurance benefits for services provided on or after the first day of the sixth month which begins after June 9, 1980,see section 103(c) of Pub. L. 96–265, set out as a note under section 426 of this title.
+Amendment by Pub. L. 96–265 applicable with respect to hospital insurance or supplementary medical insurance benefits for services provided on or after the first day of the sixth month which begins after June 9, 1980, see section 103(c) of Pub. L. 96–265, set out as a note under section 426 of this title.
 
 #### Effective Date of 1972 Amendment
 

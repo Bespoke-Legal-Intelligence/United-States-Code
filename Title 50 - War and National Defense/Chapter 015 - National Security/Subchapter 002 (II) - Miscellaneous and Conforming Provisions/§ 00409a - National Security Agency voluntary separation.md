@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5 or another retirement system for employees of the Government; or
 
-&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
+&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would beeligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
 
 #### (c) Establishment of program
 

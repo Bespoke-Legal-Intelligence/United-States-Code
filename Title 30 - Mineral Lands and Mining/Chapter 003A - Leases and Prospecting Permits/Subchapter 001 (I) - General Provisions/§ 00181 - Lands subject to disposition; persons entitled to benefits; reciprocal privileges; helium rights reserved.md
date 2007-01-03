@@ -8,7 +8,7 @@ The term “combined hydrocarbon lease” shall refer to a lease issued in a spe
 
 The term “special tar sand area” means (1) an area designated by the Secretary of the Interior's orders of November 20, 1980 (45 FR 76800–76801) and January 21, 1981 (46 FR 6077–6078) as containing substantial deposits of tar sand.
 
-The United States reserves the ownership of and the right to extract helium from all gas produced from lands leased or otherwise granted under the provisions of this chapter, under such rules and regulations as shall be prescribed by the Secretary of the Interior: <i>Provided further</i>, That in the extraction of helium from gas produced from such lands it shall be so extracted as to cause no substantial delay in the delivery of gas produced from the well to the purchaser thereof.
+The United States reserves the ownership of and the right to extract helium from all gas produced from lands leased or otherwise granted under the provisions of this chapter, under such rules and regulations as shall be prescribed by the Secretary of the Interior: <i>Provided further</i>, That in the extraction of helium from gas produced from such lands it shall be so extracted asto cause no substantial delay in the delivery of gas produced from the well to the purchaser thereof.
 
 (Feb. 25, 1920, ch. 85, §1, 41 Stat. 437; Feb. 7, 1927, ch. 66, §5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, §1, 60 Stat. 950; Pub. L. 86–705, §7(a), Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, §1(1), (4), Nov. 16, 1981, 95 Stat. 1070.)
 
@@ -46,7 +46,7 @@ Pub. L. 94–377, §1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95�
 
 #### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–705 provided: “That this Act \[amending this section and sections 182, 184, 187a, 226,226–1, 226–2, and 241 of this title, and enacted provisions set out as notes under sections 187a and 226 of this title\] may be cited as the ‘Mineral Leasing Act Revision of 1960’.”
+Section 1 of Pub. L. 86–705 provided: “That this Act \[amending this section and sections 182, 184, 187a, 226, 226–1, 226–2, and 241 of this title, and enacted provisions set out as notes under sections 187a and 226 of this title\] may be cited as the ‘Mineral Leasing Act Revision of 1960’.”
 
 #### Short Title
 
@@ -70,7 +70,7 @@ Section 1(10), (11) of Pub. L. 97–78 provided that:
 
 #### Admission of Alaska as State: Selection of Lands
 
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan.3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 Selection of lands by Alaska from lands made available by Statehood provisions including lands subject to leases, permits, licenses or contracts issued under this chapter, see section 6(h) of Pub. L. 85–508, set out as note preceding section 21 of Title 48.
 

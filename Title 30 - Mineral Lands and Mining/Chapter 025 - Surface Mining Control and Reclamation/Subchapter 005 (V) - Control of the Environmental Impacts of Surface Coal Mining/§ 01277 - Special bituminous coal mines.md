@@ -6,7 +6,7 @@ The regulatory authority is authorized to issue separate regulations for those s
 
 &emsp;(1) the excavation of the specific mine pit takes place on the same relatively limited site for an extended period of time;
 
-&emsp;(2) the excavation of the specific mine pit follows a coal seam having an inclination of fifteen degrees or more from the horizontal, and continues in the same area proceeding downward with lateral expansion of the pit necessary to maintain stability or as necessary to accommodate the orderly expansion of the total mining operation;
+&emsp;(2) the excavation of the specific mine pit follows a coal seam having an inclination of fifteen degrees or more from the horizontal,and continues in the same area proceeding downward with lateral expansion of the pit necessary to maintain stability or as necessary to accommodate the orderly expansion of the total mining operation;
 
 &emsp;(3) the excavation of the specific mine pit involves the mining of more than one coal seam and mining has been initiated on the deepest coal seam contemplated to be mined in the current operation;
 
@@ -24,7 +24,7 @@ Such separate regulations shall also contain a distinct part to cover and pertai
 
 #### (c) Scope of alternative regulations
 
-Such alternative regulations may pertain only to the standards governing onsite handling of spoils, elimination of depressions capable of collecting water, creation of impoundments, and regrading to the approximate original contour and shall specify that remaining highwalls arestable. All other performance standards in this subchapter shall apply to such mines.
+Such alternative regulations may pertain only to the standards governing onsite handling of spoils, elimination of depressions capable of collecting water, creation of impoundments, and regrading to the approximate original contour and shall specify that remaining highwalls are stable. All other performance standards in this subchapter shall apply to such mines.
 
 (Pub. L. 95–87, title V, §527, Aug. 3, 1977, 91 Stat. 513.)
 

@@ -78,5 +78,5 @@ Subsec. (b). Pub. L. 101–624, §1421(b)(6), added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 
-Section 326 of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealing former section 3823 of this title\] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\].”
+Section 326 of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealingformer section 3823 of this title\] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\].”
 

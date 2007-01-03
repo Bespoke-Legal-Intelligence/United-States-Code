@@ -38,7 +38,7 @@ Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act
 
 #### President John F. Kennedy Assassination Records Collection
 
-Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130; Pub. L. 105–25, §1, July 3, 1997, 111 Stat. 240, provided that:
+Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130; Pub. L. 105–25, §1, July 3, 1997, 111 Stat. 240; Pub. L. 109–313, §2(c)(1), Oct. 6, 2006, 120 Stat. 1735, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -408,7 +408,7 @@ Powers.—(1) The Review Board shall have the authority to act in a manner presc
 
 &emsp;“(F) hold hearings, administer oaths, and subpoena witnesses and documents; and
 
-&emsp;“(G) use the Federal Supply Service in the same manner and under the same conditions as other departments and agencies of the United States; and
+&emsp;“(G) use the Federal Acquisition Service in the same manner and under the same conditions as other departments and agencies of the United States; and
 
 &emsp;“(H) use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
@@ -598,7 +598,7 @@ Materials Under Seal of Court.—
 
 &emsp;“(2)(A) The Review Board may request the Attorney General to petition any court in the United States to release any information relevant to the assassination of President John F. Kennedy that is held under the injunction of secrecy of a grand jury.
 
-&emsp;“(B) A request for disclosure of assassination materials under this Act shall be deemed to constitute a showing of particularized need under Rule 6 of the Federal Rules of Criminal Procedure \[18 App. U.S.C.\].
+&emsp;“(B) A request for disclosure of assassination materials under this Act shall be deemed to constitute a showing of particularized need under Rule 6 of the Federal Rules of Criminal Procedure \[18 U.S.C. App.\].
 
 “(b)
 

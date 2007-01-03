@@ -30,7 +30,7 @@
 - [&sect; 01767 - Fiscal agents and depositories; authorization to secure deposits by governmental bodies](%C2%A7%2001767%20-%20Fiscal%20agents%20and%20depositories%3B%20authorization%20to%20secure%20deposits%20by%20governmental%20bodies.md)
 - [&sect; 01768 - Taxation](%C2%A7%2001768%20-%20Taxation.md)
 - [&sect; 01769 - Separability; right to alter, amend, or repeal chapter](%C2%A7%2001769%20-%20Separability%3B%20right%20to%20alter%2C%20amend%2C%20or%20repeal%20chapter.md)
-- [&sect; 01770 - Allotment of space in Federal buildings](%C2%A7%2001770%20-%20Allotment%20of%20space%20in%20Federal%20buildings.md)
+- [&sect; 01770 - Allotment of space in Federal buildings or Federal land](%C2%A7%2001770%20-%20Allotment%20of%20space%20in%20Federal%20buildings%20or%20Federal%20land.md)
 - [&sect; 01771 - Conversion from Federal to State credit union and from State to Federal credit union](%C2%A7%2001771%20-%20Conversion%20from%20Federal%20to%20State%20credit%20union%20and%20from%20State%20to%20Federal%20credit%20union.md)
 - [&sect; 01772 - Territorial application of chapter](%C2%A7%2001772%20-%20Territorial%20application%20of%20chapter.md)
 - [&sect; 01772a - Gifts; acceptance of conditional gifts; deposit](%C2%A7%2001772a%20-%20Gifts%3B%20acceptance%20of%20conditional%20gifts%3B%20deposit.md)

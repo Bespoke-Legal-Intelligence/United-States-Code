@@ -36,7 +36,7 @@ Prior to issuing a patent for an entry subject to this section, the Secretary sh
 
 #### References in Text
 
-Act of June 1, 1938 (52 Stat. 609), referred to in subsec. (a)(1), is act June 1, 1938, ch. 317, 52 Stat. 609, which wasclassified to sections 682a to 682e of Title 43, Public Lands, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, 2789.
+Act of June 1, 1938 (52 Stat. 609), referred to in subsec. (a)(1), is act June 1, 1938, ch. 317, 52 Stat. 609, which was classified to sections 682a to 682e of Title 43, Public Lands, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, 2789.
 
 Act of May 3, 1927 (44 Stat. 1364), referred to in subsec. (a)(1), probably means act Mar. 3, 1927, ch. 323, 44 Stat. 1364, which was classified to section 687a of Title 43, and was repealed by Pub. L. 94–579, title VII, §703(b), Oct. 21, 1976, 90 Stat. 2789, 2791.
 
@@ -48,7 +48,7 @@ The effective date of this Act, referred to in subsecs. (a) to (c), probably mea
 
 This Act, referred to in subsec. (a)(2) and (3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(2), (3)(A) and (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(2), (3)(A) and (d), is Pub. L. 92–203,Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Federal Power Act and that Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. Part I of the Federal Power Act of June 10, 1920 as amended, is classified generally to subchapter I (§791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 

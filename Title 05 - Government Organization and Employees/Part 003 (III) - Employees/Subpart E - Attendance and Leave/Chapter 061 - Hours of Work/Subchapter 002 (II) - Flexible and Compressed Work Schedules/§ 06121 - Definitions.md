@@ -12,7 +12,7 @@ For purposes of this subchapter—
 
 &emsp;(5) “compressed schedule” means—
 
-&emsp;&emsp;(A) in the case of a full-time employee, an 80-hour biweekly basic work requirementwhich is scheduled for less than 10 workdays, and
+&emsp;&emsp;(A) in the case of a full-time employee, an 80-hour biweekly basic work requirement which is scheduled for less than 10 workdays, and
 
 &emsp;&emsp;(B) in the case of a part-time employee, a biweekly basic work requirement of less than 80 hours which is scheduled for less than 10 workdays;
 

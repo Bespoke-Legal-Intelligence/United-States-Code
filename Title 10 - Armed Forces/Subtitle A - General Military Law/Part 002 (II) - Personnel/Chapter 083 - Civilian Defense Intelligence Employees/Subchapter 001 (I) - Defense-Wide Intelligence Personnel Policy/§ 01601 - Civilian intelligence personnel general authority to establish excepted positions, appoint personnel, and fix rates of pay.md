@@ -22,7 +22,7 @@ Construction With Other Laws.—The authority of the Secretary of Defense under 
 
 #### Prior Provisions
 
-A prior section 1601, added Pub. L. 97–89, title VII, §701(a)(1), Dec. 4, 1981, 95 Stat. 1159; amended Pub. L. 101–194, title V, §506(c)(3), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 101–280, §6(d)(4), May 4, 1990, 104 Stat. 161; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(5), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–359, title V, §501(b)(1)(B), Oct. 14, 1994, 108 Stat. 3428, related to the Defense Intelligence Senior Executive Service, prior to repeal by Pub. L. 104–201, div. A, title XVI, §§1632(a)(3), 1635, Sept. 23, 1996, 110 Stat. 2745, 2752, effective Oct. 1, 1996. See section 1606 of this title.
+A prior section 1601, added Pub. L. 97–89, title VII, §701(a)(1), Dec. 4, 1981, 95 Stat. 1159; amended Pub. L.101–194, title V, §506(c)(3), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 101–280, §6(d)(4), May 4, 1990, 104 Stat. 161; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(5), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–359, title V, §501(b)(1)(B), Oct. 14, 1994, 108 Stat. 3428, related to the Defense Intelligence Senior Executive Service, prior to repeal by Pub. L. 104–201, div. A, title XVI, §§1632(a)(3), 1635, Sept. 23, 1996, 110 Stat. 2745, 2752, effective Oct. 1, 1996. See section 1606 of this title.
 
 Provisions similar to those in this section were contained in sections 1590(a) and 1604(a) of this title prior to repeal by Pub. L. 104–201, §§1632(a)(3), 1633(a).
 

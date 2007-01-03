@@ -1,6 +1,6 @@
 ### §286e–10. Repealed. Pub. L. 97–35, title XIII, §1371(a)(1), Aug. 13, 1981, 95 Stat. 746
 
-Section, act July 31, 1945, ch. 339, §31, as added Oct. 10, 1978, Pub. L. 95–435, §4, 92 Stat. 1052, required an annual report to Congress on the status of internationallyrecognized human rights in each country which draws on funds under the Supplementary Financing Facility of the International Monetary Fund.
+Section, act July 31, 1945, ch. 339, §31, as added Oct. 10, 1978, Pub. L. 95–435, §4, 92 Stat. 1052, required an annual report to Congress on the status of internationally recognized human rights in each country which draws on funds under the Supplementary Financing Facility of the International Monetary Fund.
 
 #### Effective Date of Repeal
 

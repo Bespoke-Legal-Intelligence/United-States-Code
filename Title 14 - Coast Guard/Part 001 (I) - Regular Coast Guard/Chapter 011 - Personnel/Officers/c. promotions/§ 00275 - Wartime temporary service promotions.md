@@ -10,7 +10,7 @@
 
 (e) A promotion under this section to a grade above lieutenant may be made only upon the recommendation of a board of officers convened for that purpose.
 
-(f) A promotion under this section shall be made by an appointment for temporary service. An appointment under this section to a grade above captain shall be made by the President by and with the advice and consent of the Senate. An appointment under this section to grade above lieutenant commander of an officer in the Coast Guard Reserve shall be made by the President, by and with the advice and consent of the Senate. Any other appointments under this section shall be made by the President alone.
+(f) A promotion under this section shall be made by an appointment for temporary service. Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate. Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone. Any other appointments under this section shall be made by the President alone.
 
 (g) An appointment under this section, unless expressly declined, is regarded as accepted on the date specified by the Secretary as the date of the appointment, and the officer so promoted is entitled to pay and allowances of the grade to which appointed from that date.
 
@@ -18,9 +18,11 @@
 
 (i) Not later than six months after the end of the war or national emergency the President shall, under such regulations as he may prescribe, reestablish the active duty promotion list with adjustments and additions appropriate to the conditions of original appointment and wartime service of all officers to be included thereon. The President may, by and with the advice and consent of the Senate, appoint officers on the reestablished active duty promotion list to fill vacancies in the authorized active duty strength of each grade. Such appointments shall be considered to have been made under section 271 of this title.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 182; amended Pub. L. 92–129, title VI, §605, Sept. 28, 1971, 85 Stat. 362; Pub. L. 97–417, §2(6), Jan. 4, 1983, 96 Stat. 2085.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 182; amended Pub. L. 92–129, title VI, §605, Sept. 28, 1971, 85 Stat. 362; Pub. L. 97–417, §2(6), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 109–241, title II, §217(b), July 11, 2006, 120 Stat. 526.)
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–241 substituted “Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate. Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone.” for “An appointment under this section to a grade above captain shall be made by the President by and with the advice and consent of the Senate. An appointment under this section to grade above lieutenant commander of an officer in the Coast Guard Reserve shall be made by the President, by and with the advice and consent of the Senate.”
 
 1983—Subsec. (d). Pub. L. 97–417 repealed subsec. (d) which had established the grade of commodore in the Coast Guard for the purposes of this section.
 

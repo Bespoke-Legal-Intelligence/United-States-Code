@@ -4,7 +4,7 @@
 
 The provisions of this section shall apply to any individual who—
 
-&emsp;(1)(A) on October 6, 1992, is employed by the Senate day care center (known as the “SenateEmployee Child Care Center”) established pursuant to Senate Resolution 269, Ninety-eighth Congress, and section 2061 of this title; and
+&emsp;(1)(A) on October 6, 1992, is employed by the Senate day care center (known as the “Senate Employee Child Care Center”) established pursuant to Senate Resolution 269, Ninety-eighth Congress, and section 2061 of this title; and
 
 &emsp;(B) makes an election to be covered by this section with the Secretary of the Senate, no later than 60 days after October 6, 1992; or
 
@@ -48,7 +48,7 @@ The Center shall—
 
 &emsp;(1) consult with the Secretary of the Senate on the administration of this section;
 
-&emsp;(2) maintain records on all employees covered under this section in such manner as the Secretary of the Senate may require for administrative purposes;
+&emsp;(2) maintain records on all employees covered under this section in such manner as theSecretary of the Senate may require for administrative purposes;
 
 &emsp;(3) make deductions and withholdings from the pay of employees in the amounts determined under sections 8422, 8432, and 8707 of title 5; and
 
@@ -76,7 +76,7 @@ Subsecs. (h) to (j). Pub. L. 103–50, §1203(a)(1), added subsec. (h) and redes
 
 #### Effective Date of 1993 Amendment
 
-Section 1203(a)(2) of Pub. L. 103–50 provided that: “The amendments made by paragraph (1) \[amendingthis section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\].”
+Section 1203(a)(2) of Pub. L. 103–50 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\].”
 
 Section 1203(b)(2) of Pub. L. 103–50 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 2, 1993\].”
 

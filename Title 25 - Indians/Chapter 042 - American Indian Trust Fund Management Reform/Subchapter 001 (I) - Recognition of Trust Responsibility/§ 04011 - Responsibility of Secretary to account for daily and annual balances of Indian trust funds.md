@@ -2,7 +2,7 @@
 
 #### (a) Requirement to account
 
-The Secretary shall account for the daily and annual balance of all funds held in trust by theUnited States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title.
+The Secretary shall account for the daily and annual balance of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title.
 
 #### (b) Periodic statement of performance
 

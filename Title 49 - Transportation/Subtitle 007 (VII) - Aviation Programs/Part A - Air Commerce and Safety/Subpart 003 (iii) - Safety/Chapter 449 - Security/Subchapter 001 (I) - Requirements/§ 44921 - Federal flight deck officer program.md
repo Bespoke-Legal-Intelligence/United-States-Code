@@ -58,7 +58,7 @@ Classified information.—Notwithstanding section 552 of title 5 but subject to 
 
 &emsp;(6)
 
-Notice to congress.—The Under Secretary shall provide notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate after completing the analysis required by paragraph (3)(E).
+Notice to congress.—The Under Secretary shall provide notice to the Committee on Transportation and Infrastructure of theHouse of Representatives and the Committee on Commerce, Science, and Transportation of the Senate after completing the analysis required by paragraph (3)(E).
 
 &emsp;(7)
 

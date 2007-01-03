@@ -16,9 +16,9 @@ For the development of the park, including improvements of properties acquired f
 
 #### (c) Restoration of vegetative cover to eliminate erosion
 
-There are hereby authorized to be appropriated not more than $500,000 for fiscal year 1986, $1,000,000 for fiscal year 1987, $1,500,000 for fiscal year 1988, and $1,750,000 for fiscal year 1989, to carry out the provisions of section 460ff–3(c)(2) of this title. Any amounts authorized to be appropriated for any fiscal year under this subsection which are not appropriated for that fiscal year shall remain available for appropriation in succeeding fiscal years.
+There are hereby authorized to be appropriated not more than $500,000 for fiscal year 1986, $1,000,000 for fiscal year 1987, $1,500,000 for fiscal year 1988, and $1,750,000 for fiscal year 1989, to carry out the provisions of section 460ff–3(c)(2) of this title. Any amounts authorized to be appropriated for any fiscal year underthis subsection which are not appropriated for that fiscal year shall remain available for appropriation in succeeding fiscal years.
 
-(Pub. L. 93–555, §5, formerly §6, Dec. 27, 1974, 88 Stat. 1788; Pub. L. 94–578, title III, §323(b), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III,§315(b), (c), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(2), Nov. 14, 1986, 100 Stat. 3678; renumbered §5 and amended Pub. L. 106–291, title I, §149(c)(2), (d), Oct. 11, 2000, 114 Stat. 956.)
+(Pub. L. 93–555, §5, formerly §6, Dec. 27, 1974, 88 Stat. 1788; Pub. L. 94–578, title III, §323(b), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III, §315(b), (c), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(2), Nov. 14, 1986, 100 Stat. 3678; renumbered §5 and amended Pub. L. 106–291, title I, §149(c)(2), (d), Oct. 11, 2000, 114 Stat. 956.)
 
 #### Prior Provisions
 

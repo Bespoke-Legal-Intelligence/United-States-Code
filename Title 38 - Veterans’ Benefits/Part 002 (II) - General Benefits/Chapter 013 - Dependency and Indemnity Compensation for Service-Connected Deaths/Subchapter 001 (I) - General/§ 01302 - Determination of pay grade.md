@@ -10,7 +10,7 @@
 
 (c) The pay grade of any veteran described in section 106(b) of this title shall be that to which such veteran would have been assigned upon final acceptance or entry upon active duty.
 
-(d) If a veteran has satisfactorily served on active duty for a period of six months or more ina pay grade higher than that specified in subsection (a) or (b) and any subsequent discharge or release from active duty was under conditions other than dishonorable, the higher pay grade shall be used if it will result in greater monthly payments to such veteran's surviving spouse under this chapter. The determination as to whether an individual has served satisfactorily for the required period in a higher pay grade shall be made by the Secretary of the department in which such higher pay grade was held.
+(d) If a veteran has satisfactorily served on active duty for a period of six months or more in a pay grade higher than that specified in subsection (a) or (b) and any subsequent discharge or release from active duty was under conditions other than dishonorable, the higher pay grade shall be used if it will result in greater monthly payments to such veteran's surviving spouse under this chapter. The determination as to whether an individual has served satisfactorily for the required period in a higher pay grade shall be made by the Secretary of the department in which such higher pay grade was held.
 
 (e) The pay grade of any person not otherwise described in this section, but who had a compensable status on the date of such person's death under laws administered by the Secretary, shall be determined by the head of the department under which such person performed the services by which such person obtained such status (taking into consideration such person's duties and responsibilities) and certified to the Secretary. For the purposes of this chapter, such person shall be deemed to have been on active duty while performing such services.
 
@@ -44,7 +44,7 @@ Subsec. (a). Pub. L. 91–96 substituted provisions determining the pay grade of
 
 Subsec. (b). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who did not die in the active service for provisions determining the basic pay of a veteran who did not die in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
-Subsec. (c). Pub. L. 91–96 redesignated former subsec. (c)(1) as (c) and substituted “pay grade” for “basic pay” and “assigned” for “entitled”. Former subsec. (c)(2) redesignated (e).
+Subsec. (c). Pub. L. 91–96 redesignated former subsec. (c)(1) as (c) and substituted “pay grade” for “basic pay”and “assigned” for “entitled”. Former subsec. (c)(2) redesignated (e).
 
 Subsec. (d). Pub. L. 91–96 substituted provisions determining the applicability of a higher pay grade of a veteran who had served six months or more in a pay grade higher than that specified in subsec. (a) or (b) for provisions determining the basic pay of a veteran who had served six months or more in a rank higher than that specified in the former provisions of subsec. (a) or (b).
 

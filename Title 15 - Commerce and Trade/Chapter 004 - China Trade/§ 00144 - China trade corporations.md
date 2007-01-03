@@ -24,13 +24,17 @@ The incorporators may adopt articles of incorporation which shall be filed with 
 
 #### (c) Prohibited transactions
 
-A China Trade Act corporation shall not engage in the business of discounting bills, notes, or other evidences of debt, of receiving deposits, of buying and selling bills of exchange, or of issuing bills, notes, or other evidences of debt, for circulation as money; nor engage in any other form of banking business; nor engage in any form of insurance business; nor engage in, nor be formed to engage in, the business of owning or operating any vessel, unless the controlling interest in such corporation is owned by citizens of the United States, within the meaning of sections 802 and 803 of title 46, Appendix.
+A China Trade Act corporation shall not engage in the business of discounting bills, notes, or other evidences of debt, of receiving deposits, of buying and selling bills of exchange, or of issuing bills, notes, or other evidences of debt, for circulation as money; nor engage in any other form of banking business; nor engage in any form of insurance business; nor engage in, nor be formed to engage in, the business of owning or operating any vessel, unless the controlling interest in such corporation is owned by citizens of the United States, within the meaning of section 50501 of title 46.
 
 #### (d) Capital stock requirements
 
 No certificate of incorporation shall be delivered to a China Trade Act corporation and no incorporation shall be complete until at least 25 per centum of its authorized capital stock has been paid in cash, or, in accordance with the provisions of section 148 of this title, in real or personal property which has been placed in the custody of the directors, and such corporation has filed a statement to this effect under oath with the registrar within six months after the issuance of its certificate of incorporation, except that the registrar may grant additional time for the filing of such statement upon application made prior to the expiration of such six months. If any such corporation transacts business in violation of this subdivision of this section or fails to file such statement within six months, or within such time as the registrar prescribes upon such application, the registrar shall institute proceedings under section 154 of this title for the revocation of the certificate.
 
 (Sept. 19, 1922, ch. 346, §4, 42 Stat. 850; Feb. 26, 1925, ch. 345, §§1–5, 43 Stat. 995; June 25, 1938, ch. 696, §1, 52 Stat. 1195.)
+
+#### Codification
+
+In subsec. (c), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916, as amended” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
 #### Amendments
 

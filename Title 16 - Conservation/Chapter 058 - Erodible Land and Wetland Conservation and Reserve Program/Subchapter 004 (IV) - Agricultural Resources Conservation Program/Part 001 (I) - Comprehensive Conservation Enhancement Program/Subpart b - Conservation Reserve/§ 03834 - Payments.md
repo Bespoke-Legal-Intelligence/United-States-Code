@@ -34,7 +34,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (B) Payments
 
-&emsp;&emsp;In making cost share payments to an owner or operator of land described in subparagraph (A), the Secretary shall pay 50 percent of the reasonable and necessarycosts, as determined by the Secretary, incurred by the owner or operator for maintaining trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of the planting of the trees or shrubs, as determined appropriate by the Secretary.
+&emsp;&emsp;In making cost share payments to an owner or operator of land described in subparagraph (A), the Secretary shall pay 50 percent of the reasonable and necessary costs, as determined by the Secretary, incurred by the owner or operator for maintaining trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of the planting of the trees or shrubs, as determined appropriate by the Secretary.
 
 #### (4) Hardwood tree planting
 

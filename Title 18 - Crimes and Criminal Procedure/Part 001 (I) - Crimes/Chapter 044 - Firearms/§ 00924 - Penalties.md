@@ -42,7 +42,7 @@
 
 (7) Whoever knowingly violates section 931 shall be fined under this title, imprisoned not more than 3 years, or both.
 
-(b) Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceedingone year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
+(b) Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
 
 (c)(1)(A) Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime—
 
@@ -56,7 +56,7 @@
 
 &emsp;(i) is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, the person shall be sentenced to a term of imprisonment of not less than 10 years; or
 
-&emsp;(ii) is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, the person shall be sentenced to a term of imprisonment of not less than 30 years.
+&emsp;(ii) is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, the person shall be sentenced toa term of imprisonment of not less than 30 years.
 
 (C) In the case of a second or subsequent conviction under this subsection, the person shall—
 
@@ -70,7 +70,7 @@
 
 &emsp;(ii) no term of imprisonment imposed on a person under this subsection shall run concurrently with any other term of imprisonment imposed on the person, including any term of imprisonment imposed for the crime of violence or drug trafficking crime during which the firearm was used, carried, or possessed.
 
-(2) For purposes of this subsection, the term “drug trafficking crime” means any felony punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.).
+(2) For purposes of this subsection, the term “drug trafficking crime” means any felony punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46.
 
 (3) For purposes of this subsection the term “crime of violence” means an offense that is a felony and—
 
@@ -104,7 +104,7 @@
 
 &emsp;(A) any crime of violence, as that term is defined in section 924(c)(3) of this title;
 
-&emsp;(B) any offense punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.) or the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.);
+&emsp;(B) any offense punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.) orthe Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.);
 
 &emsp;(C) any offense described in section 922(a)(1), 922(a)(3), 922(a)(5), or 922(b)(3) of this title, where the firearm or ammunition intended to be used in any such offense is involved in a pattern of activities which includes a violation of any offense described in section 922(a)(1), 922(a)(3), 922(a)(5), or 922(b)(3) of this title;
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) the term “serious drug offense” means—
 
-&emsp;&emsp;(i) an offense under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.) for which a maximum term of imprisonment of ten years or more is prescribed by law; or
+&emsp;&emsp;(i) an offense under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46 for which a maximum term of imprisonment of ten years or more is prescribed by law; or
 
 &emsp;&emsp;(ii) an offense under State law, involving manufacturing, distributing, or possessing with intent to manufacture or distribute, a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), for which a maximum term of imprisonment of ten years or more is prescribed by law;
 
@@ -138,7 +138,7 @@
 
 &emsp;(1) constitutes an offense listed in section 1961(1),
 
-&emsp;(2) is punishable under the Controlled Substances Act (21 U.S.C. 802 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.),
+&emsp;(2) is punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46,
 
 &emsp;(3) violates any State law relating to any controlled substance (as defined in section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6))), or
 
@@ -160,7 +160,7 @@
 
 (k) A person who, with intent to engage in or to promote conduct that—
 
-&emsp;(1) is punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.);
+&emsp;(1) is punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46;
 
 &emsp;(2) violates any law of a State relating to any controlled substance (as defined in section 102 of the Controlled Substances Act, 21 U.S.C. 802); or
 
@@ -200,7 +200,7 @@ Review.—An action of the Secretary under this paragraph may be reviewed only a
 
 Administrative remedies.—The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1) shall not preclude any administrative remedy that is otherwise available to the Secretary.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, §1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, §1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102; Pub. L. 109–304, §17(d)(3), Oct. 6, 2006, 120 Stat. 1707.)
 
 #### Amendment of Section
 
@@ -212,13 +212,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is set out as 
 
 Section 5845(a) of that Code, referred to in subsec. (d)(1), is classified to section 5845(a) of Title 26.
 
-The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs.For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
-The Maritime Drug Law Enforcement Act, referred to in subsecs. (c)(2), (e)(2)(A)(i), (g)(2), and (k)(1), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
-
 #### Amendments
+
+2006—Subsecs. (c)(2), (e)(2)(A)(i). Pub. L. 109–304, §17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+
+Subsec. (g)(2). Pub. L. 109–304, §17(d)(3), substituted “801 et seq.” for “802 et seq.” and “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+
+Subsec. (k)(1). Pub. L. 109–304, §17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
 2005—Subsec. (a)(1). Pub. L. 109–92, §5(c)(2)(A), substituted “(f), or (p)” for “or (f)” in introductory provisions.
 
@@ -230,7 +234,7 @@ Subsec. (p). Pub. L. 109–92, §5(c)(2)(B), added subsec. (p).
 
 Subsec. (e)(1). Pub. L. 107–273, §4002(d)(1)(E), substituted “under this title” for “not more than $25,000”.
 
-1998—Subsec. (c)(1). Pub. L. 105–386, §1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
+1998—Subsec. (c)(1). Pub. L. 105–386, §1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of adeadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
 
 Subsec. (c)(4). Pub. L. 105–386, §1(a)(2), added par. (4).
 
@@ -376,7 +380,7 @@ Subsec. (e)(1). Pub. L. 99–570, §1402(a), substituted “for a violent felony
 
 Subsec. (e)(2). Pub. L. 99–570, §1402(b), amended par. (2) generally, substituting provisions defining terms “serious drug offense” and “violent felony” for provisions defining “robbery” and “burglary”.
 
-1984—Subsec. (a). Pub. L. 98–473, §223(a), which directed amendment of subsec. (a) by striking out “, andshall become eligible for parole as the Board of Parole shall determine” effective Nov. 1, 1987, pursuant to section 235 of Pub. L. 98–473, as amended, could not be executed because quoted language no longer appears due to general amendment of subsec. (a) by Pub. L. 99–308, §104(a)(1). See 1986 Amendment note above.
+1984—Subsec. (a). Pub. L. 98–473, §223(a), which directed amendment of subsec. (a) by striking out “, and shall become eligible for parole as the Board of Parole shall determine” effective Nov. 1, 1987, pursuant to section 235 of Pub. L. 98–473, as amended, could not be executed because quoted language no longer appears due to general amendment of subsec. (a) by Pub. L. 99–308, §104(a)(1). See 1986 Amendment note above.
 
 Subsec. (c). Pub. L. 98–473, §1005(a), amended subsec. (c) generally, substituting provisions setting forth mandatory, determinate sentence for persons who use or carry firearms during and in relation to any Federal crime of violence for provisions setting out a minimum sentencing scheme for the use or carrying, unlawfully, of a firearm during a Federal felony.
 

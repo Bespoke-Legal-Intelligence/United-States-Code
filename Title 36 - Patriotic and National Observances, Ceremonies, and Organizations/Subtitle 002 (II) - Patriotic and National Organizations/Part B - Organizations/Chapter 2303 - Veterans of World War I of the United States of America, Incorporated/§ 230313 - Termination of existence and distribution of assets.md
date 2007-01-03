@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 July 18, 1958, Pub. L. 85–530, §19, 72 Stat. 375.
 
-In subsection (a), the words “declare that the corporate existence will terminate on the occurrence of a specified event” are substituted for “declare the event upon which the corporate existence of the organizationis to terminate” for clarity. The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.
+In subsection (a), the words “declare that the corporate existence will terminate on the occurrence of a specified event” are substituted for “declare the event upon which the corporate existence of the organization is to terminate” for clarity. The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.
 
 In subsection (b)(1), the word “duly” is omitted as unnecessary. The word “must” is substituted for “shall” for clarity because the filing is only required if the national convention decides to exercise its discretionary authority under subsection (a).
 

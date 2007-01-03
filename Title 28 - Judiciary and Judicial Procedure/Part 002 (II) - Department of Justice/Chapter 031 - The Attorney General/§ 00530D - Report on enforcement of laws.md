@@ -46,7 +46,7 @@ Submission of report to the congress.—For the purposes of paragraph (1), a rep
 
 &emsp;&emsp;(B) the Speaker, majority leader, and minority leader of the House of Representatives;
 
-&emsp;&emsp;(C) the chairman and ranking minority member of the Committee on the Judiciary of the House of Representatives and the chairman and ranking minority member of the Committee on the Judiciary of the Senate; and
+&emsp;&emsp;(C) the chairman and ranking minority member of the Committee on the Judiciaryof the House of Representatives and the chairman and ranking minority member of the Committee on the Judiciary of the Senate; and
 
 &emsp;&emsp;(D) the Senate Legal Counsel and the General Counsel of the House of Representatives.
 
@@ -56,7 +56,7 @@ Deadline.—A report shall be submitted—
 
 &emsp;(1) under subsection (a)(1)(A), not later than 30 days after the establishment or implementation of each policy;
 
-&emsp;(2) under subsection (a)(1)(B), within such time as will reasonably enable the House of Representatives and the Senate to take action, separately or jointly, to intervene in timely fashion in the proceeding, but in noevent later than 30 days after the making of each determination; and
+&emsp;(2) under subsection (a)(1)(B), within such time as will reasonably enable the House of Representatives and the Senate to take action, separately or jointly, to intervene in timely fashion in the proceeding, but in no event later than 30 days after the making of each determination; and
 
 &emsp;(3) under subsection (a)(1)(C), not later than 30 days after the conclusion of each fiscal-year quarter, with respect to all approvals occurring in such quarter.
 

@@ -86,7 +86,7 @@
 
 #### (A) Data collection
 
-&emsp;&emsp;Not later than 180 days after October 13, 1994, the Secretary shall issue guidelines forpublication in the Federal Register for data collection to assist the Corporation in formulating crop insurance policies for new and specialty crops.
+&emsp;&emsp;Not later than 180 days after October 13, 1994, the Secretary shall issue guidelines for publication in the Federal Register for data collection to assist the Corporation in formulating crop insurance policies for new and specialty crops.
 
 #### (B) Addition of new crops
 
@@ -170,7 +170,7 @@
 
 #### (B) Need
 
-&emsp;&emsp;For purposes of considering need under subparagraph (A)(ii), the Secretary maytake into account the most efficient and cost-effective use of resources, the availability of personnel, fairness to local producers, the needs and convenience of local producers, and the availability of private insurance carriers.
+&emsp;&emsp;For purposes of considering need under subparagraph (A)(ii), the Secretary may take into account the most efficient and cost-effective use of resources, the availability of personnel, fairness to local producers, the needs and convenience of local producers, and the availability of private insurance carriers.
 
 #### (C) Delivery of coverage
 
@@ -290,7 +290,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall offer to producers of agricultural commodities grown in the United States plans of crop insurance that provide additional coverage.
+&emsp;&emsp;The Corporation shall offer to producers of agricultural commodities grown in theUnited States plans of crop insurance that provide additional coverage.
 
 #### (B) Purchase
 
@@ -298,7 +298,7 @@
 
 #### (2) Transfer of relevant information
 
-&emsp;If a producer has already applied for catastrophic risk protection at the local office of the Department and elects to purchase additional coverage, the relevant information forthe crop of the producer shall be transferred to the approved insurance provider servicing the additional coverage crop policy.
+&emsp;If a producer has already applied for catastrophic risk protection at the local office of the Department and elects to purchase additional coverage, the relevant information for the crop of the producer shall be transferred to the approved insurance provider servicing the additional coverage crop policy.
 
 #### (3) Yield and loss basis
 
@@ -354,7 +354,7 @@
 
 #### (9) Limitations on additional coverage
 
-&emsp;The Board may limit the availability of additional coverage under this subsection in any county or area, or on any farm, on the basis of the insurance risk involved. The Board shall not offer additional coverage equal to less than 50 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
+&emsp;The Board may limit the availability of additional coverage under this subsection in any county or area, or on any farm, on the basis of the insurance risk involved. The Board shall not offer additional coverage equal to lessthan 50 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
 
 #### (10) Administrative fee
 
@@ -370,7 +370,7 @@
 
 #### (1) Premiums required
 
-&emsp;The Corporation shall fix adequate premiums for all the plans of insurance of theCorporation at such rates as the Board determines are actuarially sufficient to attain an expected loss ratio of not greater than 1.1 through September 30, 1998, and not greater than 1.075 after October 1, 1998.
+&emsp;The Corporation shall fix adequate premiums for all the plans of insurance of the Corporation at such rates as the Board determines are actuarially sufficient to attain an expected loss ratio of not greater than 1.1 through September 30, 1998, and not greater than 1.075 after October 1, 1998.
 
 #### (2) Premium amounts
 
@@ -570,7 +570,7 @@
 
 #### (1) In general
 
-&emsp;In addition to any standard forms or policies that the Board may require be made availableto producers under subsection (c) of this section, a person (including an approved insurance provider, a college or university, a cooperative or trade association, or any other person) may prepare for submission or propose to the Board—
+&emsp;In addition to any standard forms or policies that the Board may require be made available to producers under subsection (c) of this section, a person (including an approved insurance provider, a college or university, a cooperative or trade association, or any other person) may prepare for submission or propose to the Board—
 
 &emsp;&emsp;(A) other crop insurance policies and provisions of policies; and
 
@@ -638,7 +638,7 @@
 
 #### (iii) Failure to meet deadline
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Board fails to make a determination within the prescribed time period, the submitted policy or other material shall be deemed approved by the Board for the initial reinsurance year designated for the policy or material, unless the Board and the applicant agree to an extension.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Board fails to make adetermination within the prescribed time period, the submitted policy or other material shall be deemed approved by the Board for the initial reinsurance year designated for the policy or material, unless the Board and the applicant agree to an extension.
 
 #### (5) Premium schedule
 
@@ -784,7 +784,7 @@ The Corporation may offer specific risk protection programs, including protectio
 
 &emsp;&emsp;&emsp;(i) The agricultural commodity is sold on an identity-preserved basis.
 
-&emsp;&emsp;&emsp;(ii) All quality determinations are made solely by the Federal agency designated to grade or classify the agricultural commodity.
+&emsp;&emsp;&emsp;(ii) All quality determinations are made solely by the Federal agency designated tograde or classify the agricultural commodity.
 
 &emsp;&emsp;&emsp;(iii) All quality determinations are made in accordance with standards published by the Federal agency in the Federal Register.
 
@@ -792,7 +792,7 @@ The Corporation may offer specific risk protection programs, including protectio
 
 #### (B) Basis for adjustment
 
-&emsp;&emsp;Under this paragraph, the Corporation shall set the quality standards below whichquality losses will be paid based on the variability of the grade of the agricultural commodity from the base quality for the agricultural commodity.
+&emsp;&emsp;Under this paragraph, the Corporation shall set the quality standards below which quality losses will be paid based on the variability of the grade of the agricultural commodity from the base quality for the agricultural commodity.
 
 #### (3) Review of criteria and procedures
 
@@ -846,7 +846,7 @@ Section 7759 of this title, referred to in subsec. (g)(5)(A)(i), was amended by 
 
 Section 118 of the Federal Crop Insurance Reform Act of 1994, referred to in subsec. (k)(5), is section 118 of Pub. L. 103–354, which is set out as a note under section 1506 of this title.
 
-The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -930,7 +930,7 @@ Subsec. (h)(4)(C), (D). Pub. L. 106–224, §146(c)(3), added subpars. (C) and (
 
 Subsec. (h)(5). Pub. L. 106–224, §102(a)(2), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Any policy, provision of a policy, or rate approved under this subsection shall be published as a notice in the Federal Register and made available to all persons contracting with or reinsured by the Corporation under the terms and conditions of the contract between the Corporation and the person originally submitting the policy or other material.”
 
-Subsec. (h)(6) to (10). Pub. L. 106–224, §146(d), redesignated par. (7) as (6) and struck out former pars. (6)which related to pilot cost of production risk protection plan, (8) which related to pilot program of assigned yields for new producers, (9) which related to revenue insurance pilot program, and (10) which related to time limits for response to submission of new policies.
+Subsec. (h)(6) to (10). Pub. L. 106–224, §146(d), redesignated par. (7) as (6) and struck out former pars. (6) which related to pilot cost of production risk protection plan, (8) which related to pilot program of assigned yields for new producers, (9) which related to revenue insurance pilot program, and (10) which related to time limits for response to submission of new policies.
 
 Subsec. (i). Pub. L. 106–224, §106, designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
@@ -994,7 +994,7 @@ Subsec. (e). Pub. L. 101–624, §2204(a)(1), (b)(2), redesignated subsec. (b) a
 
 Subsec. (f). Pub. L. 101–624, §2204(a)(1), redesignated subsec. (c) as (f). Former subsec. (f) redesignated (i).
 
-Pub. L. 101–624, §2203(a), inserted heading, substituted “The Corporation may adjust and pay claims for losses as provided under subsection (a) of this section” for “To adjust and pay claims for losses”, and inserted after first sentence “The rules prescribed by the Board shall establish standards to ensure that all claims for losses are adjusted to the extent practicable in a uniform and timely manner.”
+Pub. L. 101–624, §2203(a), inserted heading, substituted “The Corporation may adjust and pay claims for lossesas provided under subsection (a) of this section” for “To adjust and pay claims for losses”, and inserted after first sentence “The rules prescribed by the Board shall establish standards to ensure that all claims for losses are adjusted to the extent practicable in a uniform and timely manner.”
 
 Subsec. (g). Pub. L. 101–624, §2204(a)(1), (b)(3), redesignated subsec. (d) as (g), inserted heading, and substituted “the Corporation may include” for “to include”. Former subsec. (g) redesignated (j).
 

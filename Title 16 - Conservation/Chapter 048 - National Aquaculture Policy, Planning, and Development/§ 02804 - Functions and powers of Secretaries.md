@@ -44,7 +44,7 @@ In implementing the Plan, the Secretaries may—
 
 &emsp;(D) the Secretary of the Interior, in consultation with the Secretary of Commerce, shall undertake a study, and report to Congress thereon by December 31, 1987, to identify exotic species introduced into the United States waters as a result of aquaculture activities, and to determine the potential benefits and impacts of the introduction of exotic species.
 
-(2) Any production information submitted to the Secretaries under paragraph (1)(A) shall be confidential and may only be disclosed if required under court order. The Secretaries shall preserve such confidentiality. The Secretaries may release or make public any information in any aggregate or summary form that does not directly or indirectly disclose the identity, business transactions, or trade secrets of any person who submits such information.
+(2) Any production information submitted to the Secretaries under paragraph (1)(A) shall beconfidential and may only be disclosed if required under court order. The Secretaries shall preserve such confidentiality. The Secretaries may release or make public any information in any aggregate or summary form that does not directly or indirectly disclose the identity, business transactions, or trade secrets of any person who submits such information.
 
 #### (d) Biennial report
 

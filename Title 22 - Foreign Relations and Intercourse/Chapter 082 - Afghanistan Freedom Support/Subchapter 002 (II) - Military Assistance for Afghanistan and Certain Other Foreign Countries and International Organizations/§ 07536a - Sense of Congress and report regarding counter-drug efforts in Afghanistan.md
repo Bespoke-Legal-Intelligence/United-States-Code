@@ -4,7 +4,7 @@
 
 It is the sense of Congress that—
 
-&emsp;(1) the President should make the substantial reduction of illegal drug production andtrafficking in Afghanistan a priority in the Global War on Terrorism;
+&emsp;(1) the President should make the substantial reduction of illegal drug production and trafficking in Afghanistan a priority in the Global War on Terrorism;
 
 &emsp;(2) the Secretary of Defense, in coordination with the Secretary of State and the heads of other appropriate Federal agencies, should expand cooperation with the Government of Afghanistan and international organizations involved in counter-drug activities to assist in providing a secure environment for counter-drug personnel in Afghanistan; and
 

@@ -14,27 +14,41 @@ It shall be unlawful for any person to solicit or knowingly acquire, receive, or
 
 &emsp;(3) the person who solicits or knowingly acquires, receives, or accepts the donation has provided valuable consideration for the costs associated with such abortion.
 
-#### (c) Criminal penalties for violations
+#### (c) Solicitation or acceptance of tissue from fetuses gestated for research purposes
+
+It shall be unlawful for any person or entity involved or engaged in interstate commerce to—
+
+&emsp;(1) solicit or knowingly acquire, receive, or accept a donation of human fetal tissue knowing that a human pregnancy was deliberately initiated to provide such tissue; or
+
+&emsp;(2) knowingly acquire, receive, or accept tissue or cells obtained from a human embryo or fetus that was gestated in the uterus of a nonhuman animal.
+
+#### (d) Criminal penalties for violations
 
 #### (1) In general
 
-&emsp;Any person who violates subsection (a) or (b) of this section shall be fined in accordance with title 18, subject to paragraph (2), or imprisoned for not more than 10 years, or both.
+&emsp;Any person who violates subsection (a), (b), or (c) shall be fined in accordance with title 18, subject to paragraph (2), or imprisoned for not more than 10 years, or both.
 
 #### (2) Penalties applicable to persons receiving consideration
 
-&emsp;With respect to the imposition of a fine under paragraph (1), if the person involved violates subsection (a) or (b)(3) of this section, a fine shall be imposed in an amount not less than twice the amount of the valuable consideration received.
+&emsp;With respect to the imposition of a fine under paragraph (1), if the person involved violates subsection (a) or (b)(3), a fine shall be imposed in an amount not less than twice the amount of the valuable consideration received.
 
-#### (d) Definitions
+#### (e) Definitions
 
 For purposes of this section:
 
-&emsp;(1) The term “human fetal tissue” has the meaning given such term in section 289g–1(f) <sup>1</sup> of this title.
+&emsp;(1) The term “human fetal tissue” has the meaning given such term in section 289g–1(g) of this title.
 
 &emsp;(2) The term “interstate commerce” has the meaning given such term in section 321(b) of title 21.
 
 &emsp;(3) The term “valuable consideration” does not include reasonable payments associated with the transportation, implantation, processing, preservation, quality control, or storage of human fetal tissue.
 
-(July 1, 1944, ch. 373, title IV, §498B, as added Pub. L. 103–43, title I, §112, June 10, 1993, 107 Stat. 131.)
+(July 1, 1944, ch. 373, title IV, §498B, as added Pub. L. 103–43, title I, §112, June 10, 1993, 107 Stat. 131; amended Pub. L. 109–242, §2, July 19, 2006, 120 Stat. 570.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “289g–1(g)”.</i>
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–242, §2(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 109–242, §2(1), (3), redesignated subsec. (c) as (d) and substituted “(a), (b), or (c)” for “(a) or (b)” in par. (1). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 109–242, §2(1), (4), redesignated subsec. (d) as (e) and substituted “section 289g–1(g)” for “section 289g–1(f)” in par. (1).
 

@@ -62,7 +62,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;After the submission of the initial grant application under subparagraph (A), the State shall provide notice to the Secretary—
 
-&emsp;&emsp;&emsp;(i) of any substantive changes; and to any State law relating to the prevention of child abuse and neglect that may affect the eligibility of the State under this section; and
+&emsp;&emsp;&emsp;(i) of any substantive changes; and to any State law relating to the prevention ofchild abuse and neglect that may affect the eligibility of the State under this section; and
 
 &emsp;&emsp;&emsp;(ii) any significant changes to how funds provided under this section are used to support the activities which may differ from the activities as described in the current State application.
 
@@ -166,7 +166,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(D) an assurance or certification that the programs or projects relating to child abuse and neglect carried out under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] comply with the requirements set forth in paragraph (1) and this paragraph.
 
-> &emsp;Nothing in subparagraph (A) shall be construed to limit the State's flexibility to determine State policies relating to public access to court proceedings to determine child abuse and neglect, except that such policies shall, at a minimum, ensure the safety and well-being of the child, parents, and families.
+> &emsp;Nothing in subparagraph (A) shall be construed to limit the State's flexibility to determine State policies relating to public access to court proceedings to determine child abuse and neglect, except that such policies shall, ata minimum, ensure the safety and well-being of the child, parents, and families.
 
 #### (3) Limitation
 
@@ -178,7 +178,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(A) the term “near fatality” means an act that, as certified by a physician, places the child in serious or critical condition; and
 
-&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial riskof death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
+&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial risk of death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
 #### (c) Citizen review panels
 
@@ -250,7 +250,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 #### (6) Reports
 
-&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
+&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the Stateand local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
 
 #### (d) Annual State data reports
 
@@ -324,7 +324,7 @@ Subsec. (a)(6). Pub. L. 108–36, §114(a)(6), substituted “including—” an
 
 Pub. L. 108–36, §114(a)(4), redesignated par. (5) as (6). Former par. (6) redesignated (8).
 
-Subsec. (a)(7). Pub. L. 108–36, §114(a)(3), (7), added par. (7) and struck out former par. (7) which read as follows: “developing, strengthening, and supporting child abuse and neglect prevention, treatment, and research programs in the public and private sectors;”.
+Subsec. (a)(7). Pub. L. 108–36, §114(a)(3), (7), added par. (7) and struck out former par. (7) which read as follows:“developing, strengthening, and supporting child abuse and neglect prevention, treatment, and research programs in the public and private sectors;”.
 
 Subsec. (a)(8). Pub. L. 108–36, §114(a)(4), redesignated par. (6) as (8). Former par. (8) redesignated (9).
 
@@ -410,7 +410,7 @@ Subsecs. (e) to (g). Pub. L. 102–295, §114(b)(1), redesignated subsecs. (d) t
 
 #### Effective Date of 1992 Amendment
 
-Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
+Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention andTreatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
 
 \[Pub. L. 103–171, §9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments made by subsection (a) \[amending section 114(d) of Pub. L. 102–295, set out above\] take effect on September 30, 1993.”\]
 

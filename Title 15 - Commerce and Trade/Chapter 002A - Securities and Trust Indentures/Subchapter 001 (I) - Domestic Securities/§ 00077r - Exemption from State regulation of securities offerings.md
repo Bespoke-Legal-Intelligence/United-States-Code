@@ -12,7 +12,7 @@ Except as otherwise provided in this section, no law, rule, regulation, or order
 
 &emsp;(2) shall directly or indirectly prohibit, limit, or impose any conditions upon the use of—
 
-&emsp;&emsp;(A) with respect to a covered security described in subsection (b) of this section, any offering document that is prepared by or on behalf of the issuer; or
+&emsp;&emsp;(A) with respect to a covered security described in subsection (b) of this section, anyoffering document that is prepared by or on behalf of the issuer; or
 
 &emsp;&emsp;(B) any proxy statement, report to shareholders, or other disclosure document relating to a covered security or the issuer thereof that is required to be and is filed with the Commission or any national securities organization registered under section 78<i>o</i>–3 of this title, except that this subparagraph does not apply to the laws, rules, regulations, or orders, or other administrative actions of the State of incorporation of the issuer; or
 
@@ -26,7 +26,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;A security is a covered security if such security is—
 
-&emsp;&emsp;(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized forlisting, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
+&emsp;&emsp;(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
 
 &emsp;&emsp;(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
 
@@ -90,7 +90,7 @@ For purposes of this section, the following are covered securities:
 
 #### (3) Enforcement of requirements
 
-&emsp;Nothing in this section shall prohibit the securities commission (or any agency or officeperforming like functions) of any State from suspending the offer or sale of securities within such State as a result of the failure to submit any filing or fee required under law and permitted under this section.
+&emsp;Nothing in this section shall prohibit the securities commission (or any agency or office performing like functions) of any State from suspending the offer or sale of securities within such State as a result of the failure to submit any filing or fee required under law and permitted under this section.
 
 #### (d) Definitions
 

@@ -4,7 +4,7 @@
 
 (2)(A) Upon a proper showing, the court shall enter an order which shall—
 
-&emsp;(i) remain in effect during the pendency of the statutory proceedings, any judicial reviewof such proceedings, or any action to enforce orders issued under the proceedings; and
+&emsp;(i) remain in effect during the pendency of the statutory proceedings, any judicial review of such proceedings, or any action to enforce orders issued under the proceedings; and
 
 &emsp;(ii) direct the detention by the postmaster, in any and all districts, of the defendant's incoming mail and outgoing mail, which is the subject of the proceedings under section 3005.
 

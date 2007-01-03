@@ -110,7 +110,7 @@ Determination by Secretary.—(1) Not later than 30 days after receiving a repor
 
 (j)
 
-Report to Family Members and Other Interested Persons.—Not later than 30 days afterthe date on which the Secretary concerned makes a determination of the status of a person under subsection (i), the Secretary shall take reasonable actions to—
+Report to Family Members and Other Interested Persons.—Not later than 30 days after the date on which the Secretary concerned makes a determination of the status of a person under subsection (i), the Secretary shall take reasonable actions to—
 
 &emsp;(1) provide to the primary next of kin, the other members of the immediate family, and any other previously designated person of the person—
 

@@ -72,13 +72,13 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 &emsp;&emsp;(C) the allocation of funding for interagency nanotechnology projects;
 
-&emsp;(5) propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced nanotechnology research portfolio and an appropriate level of research effort;
+&emsp;(5) propose a coordinated interagency budget for the Program to the Office of Managementand Budget to ensure the maintenance of a balanced nanotechnology research portfolio and an appropriate level of research effort;
 
 &emsp;(6) exchange information with academic, industry, State and local government (including State and regional nanotechnology programs), and other appropriate groups conducting research on and using nanotechnology;
 
 &emsp;(7) develop a plan to utilize Federal programs, such as the Small Business Innovation Research Program and the Small Business Technology Transfer Research Program, in support of the activity stated in subsection (b)(7);
 
-&emsp;(8) identify research areas that are not being adequately addressed by the agencies’ currentresearch programs and address such research areas;
+&emsp;(8) identify research areas that are not being adequately addressed by the agencies’ current research programs and address such research areas;
 
 &emsp;(9) encourage progress on Program activities through the utilization of existing manufacturing facilities and industrial infrastructures such as, but not limited to, the employment of underutilized manufacturing facilities in areas of high unemployment as production engineering and research testbeds; and
 

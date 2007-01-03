@@ -2,7 +2,7 @@
 
 #### (a) Acts prohibited
 
-It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b) of this section.
+It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, orreceive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b) of this section.
 
 #### (b) Distinctive marking or device; exception; waiver; adjustments and changes
 

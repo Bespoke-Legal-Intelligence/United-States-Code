@@ -14,7 +14,7 @@ Any—
 
 &emsp;(3) person whose activities require the filing of a declaration or entry, or both;
 
-> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to, statements, declarations, documents and electronically generated or machine readable data) which—
+> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to,statements, declarations, documents and electronically generated or machine readable data) which—
 
 &emsp;(A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
 
@@ -188,7 +188,7 @@ The customs laws, referred to in subsecs. (e)(1)(B) and (h)(2), are classified g
 
 #### Prior Provisions
 
-A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat.518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
 
@@ -222,7 +222,7 @@ Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prio
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreementceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective and Termination Dates of 2003 Amendment
 

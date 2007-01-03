@@ -12,7 +12,7 @@ The purpose of the Initiative is to provide funds to enable the Director of NIH�
 
 &emsp;(2) to enhance collaborative efforts among the Institutes to conduct and support multidisciplinary research in the areas that the Director deems most promising; and
 
-&emsp;(3) in coordination with the Food and Drug Administration, to increase the development of adequate pediatric clinical trials and pediatric use information to promote the safer andmore effective use of prescription drugs in the pediatric population.
+&emsp;(3) in coordination with the Food and Drug Administration, to increase the development of adequate pediatric clinical trials and pediatric use information to promote the safer and more effective use of prescription drugs in the pediatric population.
 
 #### (c) Duties
 
@@ -24,17 +24,21 @@ In carrying out subsection (b) of this section, the Director of NIH shall—
 
 &emsp;(3) be responsible for the oversight of any newly appropriated Initiative funds and annually report to Congress and the public on the extent of the total funds obligated to conduct or support pediatric research across the National Institutes of Health, including the specific support and research awards allocated through the Initiative.
 
-#### (d) Authorization
-
-For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.
-
-#### (e) Transfer of funds
+#### (d) Transfer of funds
 
 The Director of NIH may transfer amounts appropriated under this section to any of the Institutes for a fiscal year to carry out the purposes of the Initiative under this section.
 
-(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127.)
+(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687.)
 
 #### Codification
 
 Another section 409D of act July 1, 1944, was renumbered section 409H and is classified to section 284<i>l</i> of this title.
+
+#### Amendments
+
+2007—Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, andsuch sums as may be necessary for each of the fiscal years 2002 through 2005.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

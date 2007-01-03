@@ -16,7 +16,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 &emsp;&emsp;(B) if the bill or resolution contains an authorization of appropriations under section 658d(a)(2)(B) of this title, the amount of new budget authority for each fiscal year for a period not to exceed 10 years beyond the effective date necessary for the direct cost of the intergovernmental mandate; and
 
-&emsp;&emsp;(C) the amount, if any, of increase in authorization of appropriations under existingFederal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable by State, local, or tribal governments for activities subject to the Federal intergovernmental mandates.
+&emsp;&emsp;(C) the amount, if any, of increase in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable by State, local, or tribal governments for activities subject to the Federal intergovernmental mandates.
 
 #### (3) Additional flexibility information
 
@@ -36,7 +36,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (1) Contents
 
-&emsp;If the Director estimates that the direct cost of all Federal private sector mandates in the bill or joint resolution will equal or exceed $100,000,000 (adjusted annually for inflation) in the fiscal year in which any Federal private sector mandate in the bill or joint resolution (or in any necessary implementing regulation) would first be effective or in any of the 4 fiscal years following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
+&emsp;If the Director estimates that the direct cost of all Federal private sector mandates in thebill or joint resolution will equal or exceed $100,000,000 (adjusted annually for inflation) in the fiscal year in which any Federal private sector mandate in the bill or joint resolution (or in any necessary implementing regulation) would first be effective or in any of the 4 fiscal years following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
 
 #### (2) Estimates
 

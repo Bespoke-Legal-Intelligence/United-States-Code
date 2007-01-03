@@ -1,12 +1,12 @@
 ### §709b. Flood hazard information
 
-The Secretary, the Director of the Federal Emergency Management Agency, and the Administrator of the Soil Conservation Service shall take necessary actions, including the posting and distribution of information and the preparation and distribution of educational materials and programs, to ensure that information relating to flood hazard areas is generally available to the public.
+The Secretary, the Administrator of the Federal Emergency Management Agency, and the Administrator of the Soil Conservation Service shall take necessary actions, including the posting and distribution of information and the preparation and distribution of educational materials and programs, to ensure that information relating to flood hazard areas is generally available to the public.
 
-(Pub. L. 99–662, title IX, §944, Nov. 17, 1986, 100 Stat. 4200.)
+(Pub. L. 99–662, title IX, §944, Nov. 17, 1986, 100 Stat. 4200; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
-#### Transfer of Functions
+#### Change of Name
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in text on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### “Secretary” Defined
 

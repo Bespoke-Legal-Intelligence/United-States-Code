@@ -12,9 +12,9 @@ In this part—
 
 &emsp;&emsp;(A) a fish tender vessel; or
 
-&emsp;&emsp;(B) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary undersection 14104 of this title or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products.
+&emsp;&emsp;(B) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 560; Pub. L. 98–364, title IV, §402(13), July 17, 1984, 98 Stat. 449; Pub. L. 98–557, §33(d), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–640, §10(b)(3), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 104–324, title VII, §736, Oct. 19, 1996, 110 Stat. 3941.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 560; Pub. L. 98–364, title IV, §402(13), July 17, 1984, 98 Stat. 449; Pub. L. 98–557, §33(d), Oct. 30, 1984, 98 Stat.2876; Pub. L. 99–640, §10(b)(3), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 104–324, title VII, §736, Oct. 19, 1996, 110 Stat. 3941.)
 
 Historical and Revision Notes
 

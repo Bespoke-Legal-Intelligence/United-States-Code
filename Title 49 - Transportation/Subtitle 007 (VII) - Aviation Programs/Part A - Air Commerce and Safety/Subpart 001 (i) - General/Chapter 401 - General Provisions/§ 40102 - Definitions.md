@@ -78,7 +78,7 @@ General Definitions.—In this part—
 
 &emsp;(20) “Federal airway” means a part of the navigable airspace that the Administrator designates as a Federal airway.
 
-&emsp;(21) “foreign air carrier” means a person, not a citizen of the United States, undertaking byany means, directly or indirectly, to provide foreign air transportation.
+&emsp;(21) “foreign air carrier” means a person, not a citizen of the United States, undertaking by any means, directly or indirectly, to provide foreign air transportation.
 
 &emsp;(22) “foreign air commerce” means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation, between a place in the United States and a place outside the United States when any part of the transportation or operation is by aircraft.
 
@@ -122,7 +122,7 @@ General Definitions.—In this part—
 
 &emsp;(30) “mail” means United States mail and foreign transit mail.
 
-&emsp;(31) “medium hub airport” means a commercial service airport (as defined in section 47102) that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
+&emsp;(31) “medium hub airport” means a commercial service airport (as defined in section 47102)that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
 
 &emsp;(32) “navigable airspace” means airspace above the minimum altitudes of flight prescribed by regulations under this subpart and subpart III of this part, including airspace needed to ensure safety in the takeoff and landing of aircraft.
 
@@ -156,7 +156,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) An aircraft owned by the Government and operated by any person for purposes related to crew training, equipment development, or demonstration, except as provided in section 40125(b).
 
-&emsp;&emsp;(C) An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision ofone of these governments, except as provided in section 40125(b).
+&emsp;&emsp;(C) An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
 
 &emsp;&emsp;(D) An aircraft exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
 

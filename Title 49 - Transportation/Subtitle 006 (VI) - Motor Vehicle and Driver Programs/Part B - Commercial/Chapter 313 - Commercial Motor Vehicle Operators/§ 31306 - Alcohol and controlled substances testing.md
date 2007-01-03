@@ -36,7 +36,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
-&emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath andbody fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
+&emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
 
 &emsp;(7) provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
 
@@ -162,7 +162,7 @@ In General.—The Secretary shall conduct a study of the feasibility and merits 
 
 &emsp;“(1) requiring medical review officers or employers to report all verified positive controlled substances test results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
 
-&emsp;“(2) requiring all prospective employers, before hiring any driver, to query the State that issued thedriver's commercial driver's license on whether the State has on record any verified positive controlled substances test on such driver.
+&emsp;“(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver's commercial driver's license on whether the State has on record any verified positive controlled substances test on such driver.
 
 “(b)
 

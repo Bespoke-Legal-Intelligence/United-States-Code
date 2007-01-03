@@ -4,10 +4,6 @@ The Secretary of the Interior is authorized to construct a Federal reclamation p
 
 (Aug. 2, 1937, ch. 557, 50 Stat. 557; Apr. 9, 1938, ch. 134, 52 Stat. 211; Aug. 9, 1955, ch. 637, §1, 69 Stat. 556.)
 
-#### References in Text
-
-The Federal reclamation laws, referred to in text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
-
 #### Amendments
 
 1955—Act Aug. 9, 1955, struck out cl. (d) which required landowners to contract to pay to the United States one-half of the price above the appraised value received for the sale of land.

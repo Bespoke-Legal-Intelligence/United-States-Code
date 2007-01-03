@@ -10,7 +10,7 @@ Mandatory Conditions.—The court shall provide, as an explicit condition of a s
 
 &emsp;(3) for a felony, a misdemeanor, or an infraction, that the defendant not unlawfully possess a controlled substance;
 
-&emsp;(4) for a domestic violence crime as defined in section 3561(b) by a defendant convicted ofsuch an offense for the first time that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant;
+&emsp;(4) for a domestic violence crime as defined in section 3561(b) by a defendant convicted of such an offense for the first time that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant;
 
 &emsp;(5) for a felony, a misdemeanor, or an infraction, that the defendant refrain from any unlawful use of a controlled substance and submit to one drug test within 15 days of release on probation and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance, but the condition stated in this paragraph may be ameliorated or suspended by the court for any individual defendant if the defendant's presentence report or other reliable sentencing information indicates a low risk of future substance abuse by the defendant;
 
@@ -22,7 +22,7 @@ Mandatory Conditions.—The court shall provide, as an explicit condition of a s
 
 &emsp;(7) that the defendant will notify the court of any material change in the defendant's economic circumstances that might affect the defendant's ability to pay restitution, fines, or special assessments;
 
-&emsp;(8) for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994); and
+&emsp;(8) for a person required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act; and
 
 &emsp;(9) that the defendant cooperate in the collection of a DNA sample from the defendant if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000.
 
@@ -72,9 +72,11 @@ Discretionary Conditions.—The court may provide, as further conditions of a se
 
 &emsp;(20) comply with the terms of any court order or order of an administrative process pursuant to the law of a State, the District of Columbia, or any other possession or territory of the United States, requiring payments by the defendant for the support and maintenance of a child or of a child and the parent with whom the child is living;
 
-&emsp;(21) be ordered deported by a United States district court, or United States magistrate judge, pursuant to a stipulation entered into by the defendant and the United States under section 238(d)(5) of the Immigration and Nationality Act, except that, in the absence of a stipulation, the United States district court or a United States magistrate judge, may order deportation as a condition of probation, if, after notice and hearing pursuant to such section, the Attorney General demonstrates by clear and convincing evidence that the alien is deportable; or
+&emsp;(21) be ordered deported by a United States district court, or United States magistrate judge, pursuant to a stipulation entered into by the defendant and the United States under section 238(d)(5) of the Immigration and Nationality Act, except that, in the absence of a stipulation, the United States district court or a United States magistrate judge, may order deportation as a condition of probation, if, after notice and hearing pursuant to such section, the Attorney General demonstrates by clear and convincing evidence that the alien is deportable;
 
-&emsp;(22) satisfy such other conditions as the court may impose.
+&emsp;(22) satisfy such other conditions as the court may impose or; <sup>1</sup>
+
+&emsp;(23) if required to register under the Sex Offender Registration and Notification Act, submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communication or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of probation or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer's supervision functions.
 
 (c)
 
@@ -88,13 +90,13 @@ Written Statement of Conditions.—The court shall direct that the probation off
 
 Results of Drug Testing.—The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1993; amended Pub. L. 99–646, §§11(a), 12(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§10, 18, Dec. 7, 1987, 101 Stat. 1267, 1270; Pub. L. 100–690, title VII, §§7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, 102 Stat. 4408, 4419, 4464, 4465; Pub. L. 101–647, title XXXV, §3584, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 102–521, §3, Oct. 25, 1992, 106 Stat. 3404; Pub. L. 103–322, title II, §20414(b), title XXVIII, §280002, title XXXII, §320921(b), Sept. 13, 1994, 108 Stat. 1830, 2096, 2130; Pub. L. 104–132, title II, §203, Apr. 24, 1996, 110 Stat. 1227; Pub. L. 104–208, div. C, title III, §§308(g)(10)(E), 374(b), Sept. 30, 1996, 110 Stat. 3009–625, 3009–647; Pub. L. 104–294, title VI, §601(k), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–119, title I, §115(a)(8)(B)(i)–(iii), Nov. 26, 1997, 111 Stat. 2465; Pub. L. 106–546, §7(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(12), Nov. 2, 2002, 116 Stat. 1808, 1811.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1993; amended Pub. L. 99–646, §§11(a), 12(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§10, 18, Dec. 7, 1987, 101 Stat. 1267, 1270; Pub. L. 100–690, title VII, §§7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, 102 Stat. 4408, 4419, 4464, 4465; Pub. L. 101–647, title XXXV, §3584, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 102–521, §3, Oct. 25, 1992, 106 Stat. 3404; Pub. L. 103–322, title II, §20414(b), title XXVIII, §280002, title XXXII, §320921(b), Sept. 13, 1994, 108 Stat. 1830, 2096, 2130; Pub. L. 104–132, title II, §203, Apr. 24, 1996, 110 Stat. 1227; Pub. L. 104–208, div. C, title III, §§308(g)(10)(E), 374(b), Sept. 30, 1996, 110 Stat. 3009–625, 3009–647; Pub. L. 104–294, title VI, §601(k), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–119, title I, §115(a)(8)(B)(i)–(iii), Nov. 26, 1997, 111 Stat. 2465; Pub. L. 106–546, §7(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(12), Nov. 2, 2002, 116 Stat. 1808, 1811; Pub. L. 109–248, title I, §141(d), title II, §210(a), July 27, 2006, 120 Stat. 603, 615.)
 
 #### References in Text
 
-Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a)(8), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(8) and (b)(23), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
-Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified to section 14135a of Title 42, The Public Health and Welfare.
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified tosection 14135a of Title 42, The Public Health and Welfare.
 
 Section 238(d)(5) of the Immigration and Nationality Act, referred to in subsec. (b)(21), is classified to section 1228(d)(5) of Title 8, Aliens and Nationality.
 
@@ -105,6 +107,14 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 For a prior section 3563, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3551 of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(8). Pub. L. 109–248, §141(d), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994); and”.
+
+Subsec. (b)(21). Pub. L. 109–248, §210(a)(1), which directed amendment of par. (21) by striking “or”, was executed by striking “or” at the end of the par. to reflect the probable intent of Congress.
+
+Subsec. (b)(22). Pub. L. 109–248, §210(a)(2), substituted “or;” for period at end.
+
+Subsec. (b)(23). Pub. L. 109–248, §210(a)(3), added par. (23).
 
 2002—Subsec. (a). Pub. L. 107–273, §4002(e)(12)(A), made technical correction to directory language of Pub. L. 105–119, §115(a)(8)(B)(i). See 1997 Amendment note below.
 
@@ -120,7 +130,7 @@ Subsec. (a)(6), (7). Pub. L. 105–119, §115(a)(8)(B)(iii)(I), made technical a
 
 Subsec. (a)(8). Pub. L. 105–119, §115(a)(8)(B)(iii)(II)– (IV), added par. (8).
 
-Subsec. (e). Pub. L. 105–119, §115(a)(8)(B)(ii), as amended by Pub. L. 107–273, §4002(e)(12)(B), designated provisions which were struck out from the concluding provisions of subsec. (a) and inserted at the end of this section by Pub. L. 105–119, §115(a)(8)(B)(i), as amended, assubsec. (e), inserted subsec. heading, and substituted “subsection (a)(5)” for “paragraph (4)” in two places.
+Subsec. (e). Pub. L. 105–119, §115(a)(8)(B)(ii), as amended by Pub. L. 107–273, §4002(e)(12)(B), designated provisions which were struck out from the concluding provisions of subsec. (a) and inserted at the end of this section by Pub. L. 105–119, §115(a)(8)(B)(i), as amended, as subsec. (e), inserted subsec. heading, and substituted “subsection (a)(5)” for “paragraph (4)” in two places.
 
 1996—Subsec. (a)(3). Pub. L. 104–294, §601(k)(2)(A), which could not be executed due to prior amendment by Pub. L. 104–132, §203(1)(A), was repealed by Pub. L. 107–273, §4002(c)(1). See below.
 
@@ -217,4 +227,6 @@ Section 12(c)(1) of Pub. L. 99–646 provided that: “The amendments made by su
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “; or”.</i>
 

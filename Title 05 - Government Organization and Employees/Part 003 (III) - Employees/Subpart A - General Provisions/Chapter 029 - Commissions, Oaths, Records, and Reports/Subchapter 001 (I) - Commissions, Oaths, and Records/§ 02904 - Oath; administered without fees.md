@@ -1,6 +1,6 @@
 ### §2904. Oath; administered without fees
 
-An employee of an Executive agency who is authorized to administer the oath of office required by section 3331 of this title, or any other oath required by law in connection with employment in the executive branch, may not chargeor receive a fee or pay for administering the oath.
+An employee of an Executive agency who is authorized to administer the oath of office required by section 3331 of this title, or any other oath required by law in connection with employment in the executive branch, may not charge or receive a fee or pay for administering the oath.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 412.)
 

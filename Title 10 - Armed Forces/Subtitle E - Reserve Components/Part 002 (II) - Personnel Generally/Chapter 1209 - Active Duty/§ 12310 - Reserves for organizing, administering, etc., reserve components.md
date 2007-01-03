@@ -2,13 +2,15 @@
 
 (a)
 
-Grade When Ordered to Active Duty.— A Reserve ordered to active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be ordered in his reserve grade. While so serving he continues to be eligible for promotion as a Reserve, if he is otherwise qualified.
+Authority.—(1) The Secretary concerned may order a member of a reserve component under the Secretary's jurisdiction to active duty pursuant to section 12301(d) of this title to perform Active Guard and Reserve duty organizing, administering, recruiting, instructing, or training the reserve components.
+
+(2) A Reserve ordered to active duty under paragraph (1) shall be ordered in the Reserve's reserve grade. While so serving, the Reserve continues to be eligible for promotion as a Reserve, if otherwise qualified.
 
 (b)
 
-Duties.—A Reserve on active duty as described in subsection (a) may be assigned only duties in connection with the functions described in that subsection, which may include the following:
+Duties.—A Reserve on active duty under subsection (a) may perform the following additional duties to the extent that the performance of those duties does not interfere with the performance of the Reserve's primary Active Guard and Reserve duties described in subsection (a)(1):
 
-&emsp;(1) Supporting operations or missions assigned in whole or in part to reserve components.
+&emsp;(1) Supporting operations or missions assigned in whole or in part to the reserve components.
 
 &emsp;(2) Supporting operations or missions performed or to be performed by—
 
@@ -20,35 +22,51 @@ Duties.—A Reserve on active duty as described in subsection (a) may be assigne
 
 &emsp;&emsp;&emsp;(ii) a member of a reserve component whose reserve component assignment is in a position in an element of the joint forces unit.
 
-&emsp;(3) Advising the Secretary of Defense, the Secretaries of the military departments, the Joint Chiefs of Staff, and the commanders of the unified combatant command regarding reserve component matters.
+&emsp;(3) Advising the Secretary of Defense, the Secretaries of the military departments, the Joint Chiefs of Staff, and the commanders of the combatant commands regarding reserve component matters.
+
+&emsp;(4) Instructing or training in the United States or the Commonwealth of Puerto Rico or possessions of the United States of—
+
+&emsp;&emsp;(A) active-duty members of the armed forces;
+
+&emsp;&emsp;(B) members of foreign military forces (under the same authorities and restrictions applicable to active-duty members providing such instruction or training);
+
+&emsp;&emsp;(C) Department of Defense contractor personnel; or
+
+&emsp;&emsp;(D) Department of Defense civilian employees.
 
 (c)
 
-Duties Relating to Defense Against Weapons of Mass Destruction.—(1) Notwithstanding subsection (b), a Reserve on active duty as described in subsection (a), or a Reserve who is a member of the National Guard serving on full-time National Guard duty under section 502(f) of title 32 in connection with functions referred to in subsection (a), may, subject to paragraph (3), perform duties in support of emergency preparedness programs to prepare for or to respond to any emergency involving—
+Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks.—(1) Notwithstanding subsection (b), a Reserve on active duty as described in subsection (a), or a Reserve who is a member of the National Guard serving on full-time National Guard duty under section 502(f) of title 32 in connection with functions referred to in subsection (a), may, subject to paragraph (3), perform duties in support of emergency preparedness programs to prepare for or to respond to any emergency involving any of the following:
 
-&emsp;(A) the use of a weapon of mass destruction (as defined in section 12304(i)(2) of this title); or
+&emsp;(A) The use or threatened use of a weapon of mass destruction (as defined in section 12304(i)(2) <sup>1</sup> of this title) in the United States.
 
-&emsp;(B) a terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.
+&emsp;(B) A terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.
+
+&emsp;(C) The intentional or unintentional release of nuclear, biological, radiological, or toxic or poisonous chemical materials in the United States that results, or could result, in catastrophic loss of life or property.
+
+&emsp;(D) A natural or manmade disaster in the United States that results in, or could result in, catastrophic loss of life or property.
 
 (2) The costs of the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses for a Reserve performing duties under the authority of paragraph (1) shall be paid from the appropriation that is available to pay such costs for other members of the reserve component of that Reserve who are performing duties as described in subsection (a).
 
-(3) A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the United States, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.
+(3) A Reserve may perform duty described in paragraph (1) only while assigned to a reserve component weapons of mass destruction civil support team.
 
 (4) Reserves on active duty who are performing duties described in paragraph (1) shall be counted against the annual end strength authorizations required by section 115(a)(1)(B) and 115(a)(2) of this title. The justification material for the defense budget request for a fiscal year shall identify the number and component of the Reserves programmed to be performing duties described in paragraph (1) during that fiscal year.
 
-(5) A reserve component rapid assessment element team, and any Reserve assigned to such a team, may not be used to respond to an emergency described in paragraph (1) unless the Secretary of Defense has certified to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that that team, or that Reserve, possesses the requisite skills, training, and equipment to be proficient in all mission requirements.
+(5) A reserve component weapons of mass destruction civil support team, and any Reserve assigned to such a team, may not be used to respond to an emergency described in paragraph (1) unless the Secretary of Defense has certified to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that that team, or that Reserve, possesses the requisite skills, training, and equipment to be proficient in all mission requirements.
 
-(6) If the Secretary of Defense submits to Congress any request for the enactment of legislation to modify the requirements of paragraph (3), the Secretary shall provide with the request—
+(6) If the Secretary of Defense submits to Congress any request for the enactment of legislation to modify the requirements of paragraphs (1) and (3), the Secretary shall provide with the request—
 
 &emsp;(A) justification for each such requested modification; and
 
-&emsp;(B) the Secretary's plan for sustaining the qualifications of the personnel and teams described in paragraph (3)(B).
+&emsp;(B) the Secretary's plan for sustaining the qualifications of the personnel and teams described in paragraph (3).
+
+(7) In this subsection, the term “United States” includes the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 
 (d)
 
 Training.—A Reserve on active duty as described in subsection (a) may be provided training consistent with training provided to other members on active duty, as the Secretary concerned sees fit.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 104–201, div. A, title V, §541, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–261, div. A, title V, §511(b)(1), Oct. 17, 1998, 112 Stat. 2006; Pub. L. 106–65, div. A, title V, §§555(a), (b), 556, title X, §1067(1), Oct. 5, 1999, 113 Stat. 617–619, 774; Pub. L. 107–314, div. A, title V, §514(b), title IX, §933, Dec. 2, 2002, 116 Stat. 2539, 2626.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 104–201, div. A, title V, §541, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–261, div. A, title V, §511(b)(1), Oct. 17, 1998, 112 Stat. 2006; Pub. L. 106–65, div. A, title V, §§555(a), (b), 556, title X, §1067(1), Oct. 5, 1999, 113 Stat. 617–619, 774; Pub. L. 107–314, div. A, title V, §514(b), title IX, §933, Dec. 2, 2002, 116 Stat. 2539, 2626; Pub. L. 109–364, div. A, title V, §§525(a), 527, Oct. 17, 2006, 120 Stat. 2193, 2196.)
 
 Historical and Revision Notes
 
@@ -73,6 +91,28 @@ In subsection (a), the words “to active duty under section 672(d) of this titl
 Subsection (b) is substituted for 50:962 (less 1st and 2d sentences).
 
 #### Amendments
+
+2006—Subsecs. (a), (b). Pub. L. 109–364, §525(a), amended subsecs. (a) and (b) generally, substituting provisions relating to authority of the Secretary concerned to order a member of a reserve component to active duty and setting forth duties including supporting operations or missions, providing advice regarding reserve component matters, and providing instruction or training of active-duty members of the armed forces or foreign military forces and Department of Defense contractor personnel or civilian employees, for provisions relating to grade when a Reserve is ordered to active duty and setting forth duties including supporting operations or missions and providing advice regarding reserve component matters.
+
+Subsec. (c). Pub. L. 109–364, §527(b)(1), substituted “Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks” for “Duties Relating to Defense Against Weapons of Mass Destruction” in heading.
+
+Subsec. (c)(1). Pub. L. 109–364, §527(a)(1)(A), substituted “involving any of the following:” for “involving—” in introductory provisions.
+
+Subsec. (c)(1)(A) to (D). Pub. L. 109–364, §527(a)(1)(B), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) the use of a weapon of mass destruction (as defined in section 12304(i)(2) of this title); or
+
+“(B) a terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.”
+
+Subsec. (c)(3). Pub. L. 109–364, §527(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the United States, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.”
+
+Subsec. (c)(5). Pub. L. 109–364, §527(b)(2), substituted “weapons of mass destruction civil support team” for “rapid assessment element team”.
+
+Subsec. (c)(6). Pub. L. 109–364, §527(b)(3)(A), substituted “paragraphs (1) and (3)” for “paragraph (3)” in introductory provisions.
+
+Subsec. (c)(6)(B). Pub. L. 109–364, §527(b)(3)(B), substituted “(3)” for “(3)(B)”.
+
+Subsec. (c)(7). Pub. L. 109–364, §527(a)(3), added par. (7).
 
 2002—Subsec. (c)(1). Pub. L. 107–314, §514(b), substituted “involving—
 
@@ -143,4 +183,6 @@ Definitions.—For purposes of this section:
 &emsp;“(1) The term ‘Weapons of Mass Destruction Civil Support Team’ means a team of members of the reserve components of the Armed Forces that is established under section 12310(c) of title 10, United States Code, in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
 
 &emsp;“(2) The term ‘State and territory’ means each of the several States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “12304(j)(2)”.</i>
 

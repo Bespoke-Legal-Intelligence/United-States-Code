@@ -1,10 +1,10 @@
 ### §1831<i>o</i>. Prompt corrective action
 
-#### (a) Resolving problems to protect deposit insurance funds
+#### (a) Resolving problems to protect Deposit Insurance Fund
 
 #### (1) Purpose
 
-&emsp;The purpose of this section is to resolve the problems of insured depository institutions at the least possible long-term loss to the deposit insurance fund.
+&emsp;The purpose of this section is to resolve the problems of insured depository institutions at the least possible long-term loss to the Deposit Insurance Fund.
 
 #### (2) Prompt corrective action required
 
@@ -18,7 +18,7 @@ For purposes of this section:
 
 #### (A) Well capitalized
 
-&emsp;&emsp;An insured depository institution is “well capitalized” if it significantly exceeds therequired minimum level for each relevant capital measure.
+&emsp;&emsp;An insured depository institution is “well capitalized” if it significantly exceeds the required minimum level for each relevant capital measure.
 
 #### (B) Adequately capitalized
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (2) Capital categories generally
 
-&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insureddepository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
 
 #### (3) Critical capital
 
@@ -312,7 +312,7 @@ For purposes of this section:
 
 #### (E) Restricting activities
 
-&emsp;&emsp;Requiring the institution or any of its subsidiaries to alter, reduce, or terminate any activity that the agency determines poses excessive risk to the institution.
+&emsp;&emsp;Requiring the institution or any of its subsidiaries to alter, reduce, or terminate anyactivity that the agency determines poses excessive risk to the institution.
 
 #### (F) Improving management
 
@@ -460,7 +460,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the agency determines, with the concurrence of the Corporation, that (aa) the insured depository institution has positive net worth, (bb) the insured depository institution has been in substantial compliance with an approved capital restoration plan which requires consistent improvement in the institution's capital since the date of the approval of the plan, (cc) the insured depository institution is profitable or has an upward trend in earnings the agency projects as sustainable, and (dd) the insured depository institution is reducing the ratio of nonperforming loans to total loans; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the head of the appropriate Federal banking agency and the Chairperson of the Board of Directors both certify that the institution is viable and not expected to fail.
+&emsp;&emsp;&emsp;&emsp;(II) the head of the appropriate Federal banking agency and the Chairperson of the Board of Directors both certify thatthe institution is viable and not expected to fail.
 
 #### (i) Restricting activities of critically undercapitalized institutions
 
@@ -492,15 +492,15 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;(2) to a bridge bank, none of the voting securities of which are owned by a person or agency other than the Corporation or the Resolution Trust Corporation.
 
-#### (k) Review required when deposit insurance fund incurs material loss
+#### (k) Review required when Deposit Insurance Fund incurs material loss
 
 #### (1) In general
 
-&emsp;If a deposit insurance fund incurs a material loss with respect to an insured depository institution on or after July 1, 1993, the inspector general of the appropriate Federal banking agency shall—
+&emsp;If the Deposit Insurance Fund incurs a material loss with respect to an insured depository institution on or after July 1, 1993, the inspector general of the appropriate Federal banking agency shall—
 
 &emsp;&emsp;(A) make a written report to that agency reviewing the agency's supervision of the institution (including the agency's implementation of this section), which shall—
 
-&emsp;&emsp;&emsp;(i) ascertain why the institution's problems resulted in a material loss to the deposit insurance fund; and
+&emsp;&emsp;&emsp;(i) ascertain why the institution's problems resulted in a material loss to the Deposit Insurance Fund; and
 
 &emsp;&emsp;&emsp;(ii) make recommendations for preventing any such loss in the future; and
 
@@ -520,7 +520,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 #### (A) Loss incurred
 
-&emsp;&emsp;A deposit insurance fund incurs a loss with respect to an insured depository institution—
+&emsp;&emsp;The Deposit Insurance Fund incurs a loss with respect to an insured depository institution—
 
 &emsp;&emsp;&emsp;(i) if the Corporation provides any assistance under section 1823(c) of this title with respect to that institution; and—
 
@@ -528,7 +528,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;&emsp;&emsp;&emsp;(II) the institution ceases to repay the assistance in accordance with its terms; or
 
-&emsp;&emsp;&emsp;(ii) if the Corporation is appointed receiver of the institution, and it is or becomes apparent that the present value of the deposit insurance fund's outlays with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
+&emsp;&emsp;&emsp;(ii) if the Corporation is appointed receiver of the institution, and it is or becomes apparent that the present value of the outlays of the Deposit Insurance Fund with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
 
 #### (B) Material loss
 
@@ -548,7 +548,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;&emsp;&emsp;(ii) the date on which it becomes apparent that the assistance will not be fully repaid during the 24-month period described in paragraph (2)(A)(i).
 
-&emsp;&emsp;(B) If the institution is described in paragraph (2)(A)(ii), during the 6-month period beginning on the date on which it becomes apparent that the present value of the deposit insurance fund's outlays with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
+&emsp;&emsp;(B) If the institution is described in paragraph (2)(A)(ii), during the 6-month period beginning on the date on which it becomes apparent that the present value of the outlays of the Deposit Insurance Fund with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
 
 #### (4) Public disclosure required
 
@@ -658,57 +658,23 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(A) to become adequately capitalized, to the extent that the order is based on the institution's capital level or failure to submit or implement a capital restoration plan; and
 
-&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to theextent that the order is based on subsection (g)(1) of this section.
+&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
 
 #### (<i>o</i>) Transition rules for savings associations
 
-#### (1) RTC's role does not diminish care required of OTS
+Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 1994, to any insured savings association if—
 
-#### (A) In general
+&emsp;(1) before December 19, 1991—
 
-&emsp;&emsp;In implementing this section, the appropriate Federal banking agency (and, to the extent applicable, the Corporation) shall exercise the same care as if the Savings Association Insurance Fund (rather than the Resolution Trust Corporation) bore the cost of resolving the problems of insured savings associations described in clauses (i) and (ii)(II) of section 1441a(b)(3)(A) of this title.
+&emsp;&emsp;(A) the savings association had submitted a plan meeting the requirements of section 1464(t)(6)(A)(ii) of this title; and
 
-#### (B) Reports
+&emsp;&emsp;(B) the Director of the Office of Thrift Supervision had accepted the plan;
 
-&emsp;&emsp;Subparagraph (A) does not require reports under subsection (k) of this section.
+&emsp;(2) the plan remains in effect; and
 
-#### (2) Additional flexibility for certain savings associations
+&emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-&emsp;Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 1994, to any insured savings association if—
-
-&emsp;&emsp;(A) before December 19, 1991—
-
-&emsp;&emsp;&emsp;(i) the savings association had submitted a plan meeting the requirements of section 1464(t)(6)(A)(ii) of this title; and
-
-&emsp;&emsp;&emsp;(ii) the Director of the Office of Thrift Supervision had accepted the plan;
-
-&emsp;&emsp;(B) the plan remains in effect; and
-
-&emsp;&emsp;(C) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
-
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §8(a)(36)–(39), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by striking “Funds” and inserting “Fund” in the subsection heading and by striking “the deposit insurance fund” and inserting “the Deposit Insurance Fund” in paragraph (1);</i>
-
-<i>(2) in subsection (k):</i>
-
-<i>(A) in paragraph (1), by striking “a deposit insurance fund” and inserting “the Deposit Insurance Fund” in introductory provisions and by striking “the deposit insurance fund” and inserting “the Deposit Insurance Fund” in subparagraph (A)(i);</i>
-
-<i>(B) in paragraph (2)(A), by striking “A deposit insurance fund” and inserting “The Deposit Insurance Fund” in introductory provisions and by striking “the deposit insurance fund's outlays” and inserting “the outlays of the Deposit Insurance Fund” in clause (ii); and</i>
-
-<i>(C) in paragraph (3)(B), by striking “the deposit insurance fund's outlays” and inserting “the outlays of the Deposit Insurance Fund”; and</i>
-
-<i>(3) in subsection (o):</i>
-
-<i>(A) by striking paragraph (1) and paragraph (2) designation and heading;</i>
-
-<i>(B) by redesignating subparagraphs (A), (B), and (C) of former paragraph (2) as paragraphs (1), (2), and (3), respectively, and realigning the margins; and</i>
-
-<i>(C) in paragraph (1) (as so redesignated), by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and realigning the margins.</i>
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat.2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### References in Text
 
@@ -716,11 +682,43 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(AA), which directed substitution of “fund” for “funds” in heading, was not executed. See Effective Date of 1996 Amendment note below.
+2006—Subsec. (a). Pub. L. 109–173, §8(a)(37), substituted “Fund” for “funds” in heading.
 
-Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(AA). See 1996 Amendment note below.
 
-Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (a)(1). Pub. L. 109–173, §8(a)(36), substituted “the Deposit Insurance Fund” for “the deposit insurance fund”.
+
+Subsec. (k)(1). Pub. L. 109–173, §8(a)(38)(A), substituted “the Deposit Insurance Fund” for “a deposit insurance fund” in introductory provisions.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(BB)(i). See 1996 Amendment note below.
+
+Subsec. (k)(1)(A)(i). Pub. L. 109–173, §8(a)(36), substituted “the Deposit Insurance Fund” for “the deposit insurance fund”.
+
+Subsec. (k)(2)(A). Pub. L. 109–173, §8(a)(38)(B), substituted “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(BB)(ii). See 1996 Amendment note below.
+
+Subsec. (k)(2)(A)(ii). Pub. L. 109–173, §8(a)(38)(C), substituted “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays”.
+
+Subsec. (k)(3)(B). Pub. L. 109–173, §8(a)(38)(C), substituted “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays”.
+
+Subsec. (<i>o</i>). Pub. L. 109–173, §8(a)(39), struck out heading and text of par. (1) and designation and heading of par. (2), redesignated former subpars. (A) to (C) of par. (2) as pars. (1) to (3), respectively, and former cls. (i) and (ii) of par. (2)(A) as subpars. (A) and (B) of par. (1), respectively, and realigned margins. Prior to amendment, text of par. (1) read as follows:
+
+“(A)
+
+In general.—In implementing this section, the appropriate Federal banking agency (and, to the extent applicable, the Corporation) shall exercise the same care as if the Savings Association Insurance Fund (rather than the Resolution Trust Corporation) bore the cost of resolving the problems of insured savings associations described in clauses (i) and (ii)(II) of section 1441a(b)(3)(A) of this title.
+
+“(B)
+
+Reports.—Subparagraph (A) does not require reports under subsection (k) of this section.”
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(CC). See 1996 Amendment note below.
+
+1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(AA), which directed substitution of “fund” for “funds” in heading, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
 
@@ -728,7 +726,7 @@ Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally
 
 &emsp;“(B) verify the accuracy of 1 or more of those reports.”
 
-Subsec. (<i>o</i>). Pub. L. 104–208, §2704(d)(14)(CC), which directed the amendment of subsec. (<i>o</i>) by striking par. (1) and the par. designation and heading of par. (2), redesignating subpars. (A) to (C) as pars. (1) to (3), respectively, and cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigning margins, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (<i>o</i>). Pub. L. 104–208, §2704(d)(14)(CC), which directed the amendment of subsec. (<i>o</i>) by striking par. (1) and the par. designation and heading of par. (2), redesignating subpars. (A) to (C) as pars. (1) to (3), respectively, and cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigning margins, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (f)(6). Pub. L. 103–325 substituted “Commission” for “Commisssion”.
 
@@ -742,9 +740,11 @@ Subsec. (g)(1)(B). Pub. L. 102–550, §1603(d)(1)(C), substituted “capitalize
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -756,7 +756,7 @@ Section effective 1 year after Dec. 19, 1991, see section 131(f) of Pub. L. 102�
 
 #### Regulations
 
-Section 131(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment.”
+Section 131(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act\[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment.”
 
 #### Deposit of Insurance Proceeds
 

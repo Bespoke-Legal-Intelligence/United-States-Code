@@ -24,7 +24,7 @@ As used in this subchapter—
 
 > &emsp;or resulting from drugs or other substances in the body;
 
-&emsp;(6) “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the criminal laws (including juvenile delinquency)., <sup>1</sup> including, but not limited to, police, corrections, probation, parole, and judicial officers;
+&emsp;(6) “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the criminal laws (including juvenile delinquency).,<sup>1</sup> including, but not limited to, police, corrections, probation, parole, and judicial officers;
 
 &emsp;(7) “member of a rescue squad or ambulance crew” means an officially recognized or designated public employee member of a rescue squad or ambulance crew;
 
@@ -38,7 +38,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
-&emsp;&emsp;&emsp;(ii) are determined by the Director of the Federal Emergency Management Agency to be hazardous duties; or
+&emsp;&emsp;&emsp;(ii) are determined by the Administrator of the Federal Emergency Management Agency to be hazardous duties; or
 
 &emsp;&emsp;(C) an employee of a State, local, or tribal emergency management or civil defense agency who is performing official duties in cooperation with the Federal Emergency Management Agency in an area, if those official duties—
 
@@ -46,7 +46,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(ii) are determined by the head of the agency to be hazardous duties.
 
-(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120.)
+(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302,Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -92,6 +92,10 @@ Pars. (3) to (7). Pub. L. 101–647, §1301(c)(1), redesignated pars. (2) to (6)
 
 1986—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employee member of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par. (9)(B)(ii) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–196 effective Sept. 11, 2001, and applicable to injuries or deaths that occur in the line of duty on or after such date, see section 2(c) of Pub. L. 107–196, set out as a note under section 3796 of this title.
@@ -102,7 +106,7 @@ Pub. L. 106–390, title III, §305(b), Oct. 30, 2000, 114 Stat. 1574, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–647 effective Nov. 29, 1990, and not applicable with respect to injuries occurringbefore Nov. 29, 1990, see section 1303 of Pub. L. 101–647, set out as a note under section 3796 of this title.
+Amendment by Pub. L. 101–647 effective Nov. 29, 1990, and not applicable with respect to injuries occurring before Nov. 29, 1990, see section 1303 of Pub. L. 101–647, set out as a note under section 3796 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -110,7 +114,9 @@ Amendment by section 6105(d) of Pub. L. 100–690 effective June 1, 1988, see se
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 

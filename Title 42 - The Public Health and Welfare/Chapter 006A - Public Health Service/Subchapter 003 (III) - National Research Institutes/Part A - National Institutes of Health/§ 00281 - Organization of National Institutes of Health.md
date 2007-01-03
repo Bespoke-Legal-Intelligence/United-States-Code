@@ -1,82 +1,290 @@
 ### §281. Organization of National Institutes of Health
 
-#### (a) Agency of Public Health Service
+#### (a) Relation to Public Health Service
 
 The National Institutes of Health is an agency of the Service.
 
-#### (b) Agencies within
+#### (b) National research institutes and national centers
 
-(1) The following national research institutes are agencies of the National Institutes of Health:
+The following agencies of the National Institutes of Health are national research institutes or national centers:
 
-&emsp;(A) The National Cancer Institute.
+&emsp;(1) The National Cancer Institute.
 
-&emsp;(B) The National Heart, Lung, and Blood Institute.
+&emsp;(2) The National Heart, Lung, and Blood Institute.
 
-&emsp;(C) The National Institute of Diabetes and Digestive and Kidney Diseases.
+&emsp;(3) The National Institute of Diabetes and Digestive and Kidney Diseases.
 
-&emsp;(D) The National Institute of Arthritis and Musculoskeletal and Skin Diseases.
+&emsp;(4) The National Institute of Arthritis and Musculoskeletal and Skin Diseases.
 
-&emsp;(E) The National Institute on Aging.
+&emsp;(5) The National Institute on Aging.
 
-&emsp;(F) The National Institute of Allergy and Infectious Diseases.
+&emsp;(6) The National Institute of Allergy and Infectious Diseases.
 
-&emsp;(G) The National Institute of Child Health and Human Development.
+&emsp;(7) The National Institute of Child Health and Human Development.
 
-&emsp;(H) The National Institute of Dental and Craniofacial Research.
+&emsp;(8) The National Institute of Dental and Craniofacial Research.
 
-&emsp;(I) The National Eye Institute.
+&emsp;(9) The National Eye Institute.
 
-&emsp;(J) The National Institute of Neurological Disorders and Stroke.
+&emsp;(10) The National Institute of Neurological Disorders and Stroke.
 
-&emsp;(K) The National Institute of General Medical Sciences.
+&emsp;(11) The National Institute on Deafness and Other Communication Disorders.
 
-&emsp;(L) The National Institute of Environmental Health Sciences.
+&emsp;(12) The National Institute on Alcohol Abuse and Alcoholism.
 
-&emsp;(M) The National Institute on Deafness and Other Communication Disorders.
+&emsp;(13) The National Institute on Drug Abuse.
 
-&emsp;(N) The National Institute on Alcohol Abuse and Alcoholism.
+&emsp;(14) The National Institute of Mental Health.
 
-&emsp;(O) The National Institute on Drug Abuse.
+&emsp;(15) The National Institute of General Medical Sciences.
 
-&emsp;(P) The National Institute of Mental Health.
+&emsp;(16) The National Institute of Environmental Health Sciences.
 
-&emsp;(Q) The National Institute of Nursing Research.
+&emsp;(17) The National Institute of Nursing Research.
 
-&emsp;(R) The National Institute of Biomedical Imaging and Bioengineering.
+&emsp;(18) The National Institute of Biomedical Imaging and Bioengineering.
 
-(2) The following entities are agencies of the National Institutes of Health:
+&emsp;(19) The National Human Genome Research Institute.
 
-&emsp;(A) The National Library of Medicine.
+&emsp;(20) The National Library of Medicine.
 
-&emsp;(B) The National Center for Research Resources.
+&emsp;(21) The National Center for Research Resources.
 
-&emsp;(C) The John E. Fogarty International Center for Advanced Study in the Health Sciences.
+&emsp;(22) The John E. Fogarty International Center for Advanced Study in the Health Sciences.
 
-&emsp;(D) The National Center for Human Genome Research.
+&emsp;(23) The National Center for Complementary and Alternative Medicine.
 
-&emsp;(E) The Office of Dietary Supplements.
+&emsp;(24) The National Center on Minority Health and Health Disparities.
 
-&emsp;(F) The National Center for Complementary and Alternative Medicine.
+&emsp;(25) Any other national center that, as an agency separate from any national research institute, was established within the National Institutes of Health as of the day before January 15, 2007.
 
-&emsp;(G) The National Center on Minority Health and Health Disparities.
+#### (c) Division of Program Coordination, Planning, and Strategic Initiatives
 
-#### (c) Establishment of additional national research institutes; reorganization or abolition of institutes
+#### (1) In general
 
-(1) The Secretary may establish in the National Institutes of Health one or more additional national research institutes to conduct and support research, training, health information, and other programs with respect to any particular disease or groups of diseases or any other aspect of human health if—
+&emsp;Within the Office of the Director of the National Institutes of Health, there shall be a Division of Program Coordination, Planning, and Strategic Initiatives (referred to in this subsection as the “Division”).
 
-&emsp;(A) the Secretary determines that an additional institute is necessary to carry out such activities; and
+#### (2) Offices within Division
 
-&emsp;(B) the additional institute is not established before the expiration of 180 days after the Secretary has provided the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate written notice of the determination made under subparagraph (A) with respect to the institute.
+#### (A) Offices
 
-(2) The Secretary may reorganize the functions of any national research institute and may abolish any national research institute if the Secretary determines that the institute is no longer required. A reorganization or abolition may not take effect under this paragraph before the expiration of 180 days after the Secretary has provided the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate written notice of the reorganization or abolition.
+&emsp;&emsp;The following offices are within the Division: The Office of AIDS Research, the Office of Research on Women's Health, the Office of Behavioral and Social Sciences Research, the Office of Disease Prevention, the Office of Dietary Supplements, the Office of Rare Diseases, and any other office located within the Office of the Director of NIH as of the day before January 15, 2007. In addition to such offices, the Director of NIH may establish within the Division such additional offices or other administrative units as the Director determines to be appropriate.
 
-#### (d) “National research institute” defined
+#### (B) Authorities
 
-For purposes of this subchapter, the term “national research institute” means a national research institute listed in subsection (b) of this section or established under subsection (c) of this section. A reference to the National Institutes of Health includes its agencies.
+&emsp;&emsp;Each office in the Division—
 
-(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091.)
+&emsp;&emsp;&emsp;(i) shall continue to carry out the authorities that were in effect for the office before January 15, 2007; and
+
+&emsp;&emsp;&emsp;(ii) shall, as determined appropriate by the Director of NIH, support the Division with respect to the authorities described in section 282(b)(7) of this title.
+
+#### (d) Organization
+
+#### (1) Number of institutes and centers
+
+&emsp;In the National Institutes of Health, the number of national research institutes and national centers may not exceed a total of 27, including any such institutes or centers established under authority of paragraph (2) or under authority of this subchapter as in effect on the day before January 15, 2007.
+
+#### (2) Reorganization of institutes
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may establish in the National Institutes of Health one or more additional national research institutes to conduct and support research, training, health information, and other programs with respect to any particular disease or groups of diseases or any other aspect of human health if—
+
+&emsp;&emsp;&emsp;(i) the Secretary determines that an additional institute is necessary to carry out such activities; and
+
+&emsp;&emsp;&emsp;(ii) the additional institute is not established before the expiration of 180 days after the Secretary has provided the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate written notice of the determination made under clause (i) with respect to the institute.
+
+#### (B) Additional authority
+
+&emsp;&emsp;The Secretary may reorganize the functions of any national research institute and may abolish any national research institute if the Secretary determines that the institute is no longer required. A reorganization or abolition may not take effect under this paragraph before the expiration of 180 days after the Secretary has provided the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate written notice of the reorganization or abolition.
+
+#### (3) Reorganization of Office of Director
+
+&emsp;Notwithstanding subsection (c), the Director of NIH may, after a series of public hearings, and with the approval of the Secretary, reorganize the offices within the Office of the Director, including the addition, removal, or transfer of functions of such offices, and the establishment or termination of such offices, if the Director determines that the overall management and operation of programs and activities conducted or supported by such offices would be more efficiently carried out under such a reorganization.
+
+#### (4) Internal reorganization of institutes and centers
+
+&emsp;Notwithstanding any conflicting provisions of this subchapter, the director of a national research institute or a national center may, after a series of public hearings and with the approval of the Director of NIH, reorganize the divisions, centers, or other administrative units within such institute or center, including the addition, removal, or transfer of functions of such units, and the establishment or termination of such units, if the director of such institute or center determines that the overall management and operation of programs and activities conducted or supported by such divisions, centers, or other units would be more efficiently carried out under such a reorganization.
+
+#### (e) Scientific Management Review Board for periodic organizational reviews
+
+#### (1) In general
+
+&emsp;Not later than 60 days after January 15, 2007, the Secretary shall establish an advisory council within the National Institutes of Health to be known as the Scientific Management Review Board (referred to in this subsection as the “Board”).
+
+#### (2) Duties
+
+#### (A) Reports on organizational issues
+
+&emsp;&emsp;The Board shall provide advice to the appropriate officials under subsection (d) regarding the use of the authorities established in paragraphs (2), (3), and (4) of such subsection to reorganize the National Institutes of Health (referred to in this subsection as “organizational authorities”). Not less frequently than once each 7 years, the Board shall—
+
+&emsp;&emsp;&emsp;(i) determine whether and to what extent the organizational authorities should be used; and
+
+&emsp;&emsp;&emsp;(ii) issue a report providing the recommendations of the Board regarding the use of the authorities and the reasons underlying the recommendations.
+
+#### (B) Certain responsibilities regarding reports
+
+&emsp;&emsp;The activities of the Board with respect to a report under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;(i) Reviewing the research portfolio of the National Institutes of Health (referred to in this subsection as “NIH”) in order to determine the progress and effectiveness and value of the portfolio and the allocation among the portfolio activities of the resources of NIH.
+
+&emsp;&emsp;&emsp;(ii) Determining pending scientific opportunities, and public health needs, with respect to research within the jurisdiction of NIH.
+
+&emsp;&emsp;&emsp;(iii) For any proposal for organizational changes to which the Board gives significant consideration as a possible recommendation in such report—
+
+&emsp;&emsp;&emsp;&emsp;(I) analyzing the budgetary and operational consequences of the proposed changes;
+
+&emsp;&emsp;&emsp;&emsp;(II) taking into account historical funding and support for research activities at national research institutes and centers that have been established recently relative to national research institutes and centers that have been in existence for more than two decades;
+
+&emsp;&emsp;&emsp;&emsp;(III) estimating the level of resources needed to implement the proposed changes;
+
+&emsp;&emsp;&emsp;&emsp;(IV) assuming the proposed changes will be made and making a recommendation for the allocation of the resources of NIH among the national research institutes and national centers; and
+
+&emsp;&emsp;&emsp;&emsp;(V) analyzing the consequences for the progress of research in the areas affected by the proposed changes.
+
+#### (C) Consultation
+
+&emsp;&emsp;In carrying out subparagraph (A), the Board shall consult with—
+
+&emsp;&emsp;&emsp;(i) the heads of national research institutes and national centers whose directors are not members of the Board;
+
+&emsp;&emsp;&emsp;(ii) other scientific leaders who are officers or employees of NIH and are not members of the Board;
+
+&emsp;&emsp;&emsp;(iii) advisory councils of the national research institutes and national centers;
+
+&emsp;&emsp;&emsp;(iv) organizations representing the scientific community; and
+
+&emsp;&emsp;&emsp;(v) organizations representing patients.
+
+#### (3) Composition of Board
+
+&emsp;The Board shall consist of the Director of NIH, who shall be a permanent nonvoting member on an ex officio basis, and an odd number of additional members, not to exceed 21, all of whom shall be voting members. The voting members of the Board shall be the following:
+
+&emsp;&emsp;(A) Not fewer than 9 officials who are directors of national research institutes or national centers. The Secretary shall designate such officials for membership and shall ensure that the group of officials so designated includes directors of—
+
+&emsp;&emsp;&emsp;(i) national research institutes whose budgets are substantial relative to a majority of the other institutes;
+
+&emsp;&emsp;&emsp;(ii) national research institutes whose budgets are small relative to a majority of the other institutes;
+
+&emsp;&emsp;&emsp;(iii) national research institutes that have been in existence for a substantial period of time without significant organizational change under subsection (d);
+
+&emsp;&emsp;&emsp;(iv) as applicable, national research institutes that have undergone significant organization changes under such subsection, or that have been established under such subsection, other than national research institutes for which such changes have been in place for a substantial period of time; and
+
+&emsp;&emsp;&emsp;(v) national centers.
+
+&emsp;&emsp;(B) Members appointed by the Secretary from among individuals who are not officers or employees of the United States. Such members shall include—
+
+&emsp;&emsp;&emsp;(i) individuals representing the interests of public or private institutions of highereducation that have historically received funds from NIH to conduct research; and
+
+&emsp;&emsp;&emsp;(ii) individuals representing the interests of private entities that have received funds from NIH to conduct research or that have broad expertise regarding how the National Institutes of Health functions, exclusive of private entities to which clause (i) applies.
+
+#### (4) Chair
+
+&emsp;The Chair of the Board shall be selected by the Secretary from among the members of the Board appointed under paragraph (3)(B). The term of office of the Chair shall be 2 years.
+
+#### (5) Meetings
+
+#### (A) In general
+
+&emsp;&emsp;The Board shall meet at the call of the Chair or upon the request of the Director of NIH, but not fewer than 5 times with respect to issuing any particular report under paragraph (2)(A). The location of the meetings of the Board is subject to the approval of the Director of NIH.
+
+#### (B) Particular forums
+
+&emsp;&emsp;Of the meetings held under subparagraph (A) with respect to a report under paragraph (2)(A)—
+
+&emsp;&emsp;&emsp;(i) one or more shall be directed toward the scientific community to address scientific needs and opportunities related to proposals for organizational changes under subsection (d), or as the case may be, related to a proposal that no such changes be made; and
+
+&emsp;&emsp;&emsp;(ii) one or more shall be directed toward consumer organizations to address the needs and opportunities of patients and their families with respect to proposals referred to in clause (i).
+
+#### (C) Availability of information from forums
+
+&emsp;&emsp;For each meeting under subparagraph (B), the Director of NIH shall post on the Internet site of the National Institutes of Health a summary of the proceedings.
+
+#### (6) Compensation; term of office
+
+&emsp;The provisions of subsections (b)(4) and (c) of section 284a of this title apply with respect to the Board to the same extent and in the same manner as such provisions apply with respect to an advisory council referred to in such subsections, except that the reference in such subsection (c) to 4 years regarding the term of an appointed member is deemed to be a reference to 5 years.
+
+#### (7) Reports
+
+#### (A) Recommendations for changes
+
+&emsp;&emsp;Each report under paragraph (2)(A) shall be submitted to—
+
+&emsp;&emsp;&emsp;(i) the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives;
+
+&emsp;&emsp;&emsp;(ii) the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;&emsp;(iii) the Secretary; and
+
+&emsp;&emsp;&emsp;(iv) officials with organizational authorities, other than any such official who served as a member of the Board with respect to the report involved.
+
+#### (B) Availability to public
+
+&emsp;&emsp;The Director of NIH shall post each report under paragraph (2) on the Internet site of the National Institutes of Health.
+
+#### (C) Report on Board activities
+
+&emsp;&emsp;Not later than 18 months after January 15, 2007, the Board shall submit to the committees specified in subparagraph (A) a report describing the activities of the Board.
+
+#### (f) Organizational changes per recommendation of Scientific Management Review Board
+
+#### (1) In general
+
+&emsp;With respect to an official who has organizational authorities within the meaning of subsection (e)(2)(A), if a recommendation to the official for an organizational change is made in a report under such subsection, the official shall, except as provided in paragraphs (2), (3), and (4) of this subsection, make the change in accordance with the following:
+
+&emsp;&emsp;(A) Not later than 100 days after the report is submitted under subsection (e)(7)(A), the official shall initiate the applicable public process required in subsection (d) toward making the change.
+
+&emsp;&emsp;(B) The change shall be fully implemented not later than the expiration of the 3-year period beginning on the date on which such process is initiated.
+
+#### (2) Inapplicability to certain reorganizations
+
+&emsp;Paragraph (1) does not apply to a recommendation made in a report under subsection (e)(2)(A) if the recommendation is for—
+
+&emsp;&emsp;(A) an organizational change under subsection (d)(2) that constitutes the establishment, termination, or consolidation of one or more national research institutes or national centers; or
+
+&emsp;&emsp;(B) an organizational change under subsection (d)(3).
+
+#### (3) Objection by Director of NIH
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (1) does not apply to a recommendation for an organizational change made in a report under subsection (e)(2)(A) if, not later than 90 days after the report is submitted under subsection (e)(7)(A), the Director of NIH submits to the committees specified in such subsection a report providing that the Director objects to the change, which report includes the reasons underlying the objection.
+
+#### (B) Scope of objection
+
+&emsp;&emsp;For purposes of subparagraph (A), an objection by the Director of NIH may be made to the entirety of a recommended organizational change or to 1 or more aspects of the change. Any aspect of a change not objected to by the Director in a report under subparagraph (A) shall be implemented in accordance with paragraph (1).
+
+#### (4) Congressional review
+
+&emsp;An organizational change under subsection (d)(2) that is initiated pursuant to paragraph\(1) shall be carried out by regulation in accordance with the procedures for substantive rules under section 553 of title 5. A rule under the preceding sentence shall be considered a major rule for purposes of chapter 8 of such title (relating to congressional review of agency rulemaking).
+
+#### (g) Definitions
+
+For purposes of this subchapter:
+
+&emsp;(1) The term “Director of NIH” means the Director of the National Institutes of Health.
+
+&emsp;(2) The terms “national research institute” and “national center” mean an agency of the National Institutes of Health that is—
+
+&emsp;&emsp;(A) listed in subsection (b) and not terminated under subsection (d)(2)(A); or
+
+&emsp;&emsp;(B) established by the Director of NIH under such subsection.
+
+#### (h) References to NIH
+
+For purposes of this subchapter, a reference to the National Institutes of Health includes its agencies.
+
+(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697.)
 
 #### Amendments
+
+2007—Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of “national research institute”. See below.
+
+Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, in cl. (ii), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources” and “clause (i)” for “subparagraph (A)”, and, in subpar. (B), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+
+Subsec. (d)(3), (4). Pub. L. 109–482, §101(b)(1), added pars. (3) and (4).
+
+Subsecs. (e) to (h). Pub. L. 109–482, §101(b)(2), added subsecs. (e) to (h).
 
 2000—Subsec. (b)(1)(R). Pub. L. 106–580 added subpar. (R).
 
@@ -100,11 +308,9 @@ Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (
 
 1988—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out “and Communicative” after “Neurological” in subpar. (J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
 
-#### Change of Name
+#### Effective Date of 2007 Amendment
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Pub. L. 109–482, title I, §109, Jan. 15, 2007, 120 Stat. 3697, provided that: “This title \[see Tables for classification\] and the amendments made by this title apply only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years.”
 
 #### Effective Date of 2000 Amendment
 
@@ -117,6 +323,10 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 #### Effective Date of 1988 Amendment
 
 For effective date of amendment by Pub. L. 100–690, see section 2613(b)(1) of Pub. L. 100–690, set out as an Effect of Enactment of Similar Provisions note under section 285m of this title.
+
+#### Construction of 2007 Amendment
+
+Pub. L. 109–482, title I, §102(g), Jan. 15, 2007, 120 Stat. 3685, provided that: “This Act \[see Tables for classification\] and the amendments made by this Act may not be construed as affecting the authorities of the national research institutes and national centers that were in effect under the Public Health Service Act \[this chapter\] on the day before the date of the enactment of this Act \[Jan. 15, 2007\], subject to the authorities of the Secretary of Health and Human Services and the Director of NIH under section 401 of the Public Health Service Act \[this section\] (as amended by section 101 of this Act). For purposes of the preceding sentence, the terms ‘national research institute’, ‘national center’, and ‘Director of NIH’ have the meanings given such terms in such section 401.”
 
 #### Study of the Use of Centers of Excellence at the National Institutes of Health
 
@@ -132,5 +342,5 @@ Section 5 of Pub. L. 99–158, as amended by Pub. L. 102–531, title III, §312
 
 #### Interagency Committee on Learning Disabilities
 
-Section 9 of Pub. L. 99–158 directed Director of the National Institutes of Health, not later than 90 daysafter Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
+Section 9 of Pub. L. 99–158 directed Director of the National Institutes of Health, not later than 90 days after Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
 

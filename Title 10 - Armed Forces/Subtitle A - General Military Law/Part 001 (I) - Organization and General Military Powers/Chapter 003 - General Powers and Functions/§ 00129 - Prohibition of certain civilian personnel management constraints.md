@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 104–106, §1031(3), added subsec. (d).
 
 Subsec. (e). Pub. L. 104–201, §1603(2), added subsec. (e).
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “department and (2)” for “department, (2)” and struck out “, and (3) the authorized end strength for the civilian personnel of the department for such fiscal year” at end of first sentence.
+1991—Subsec. (a). Pub. L. 102–190 substituted “department and (2)” for “department, (2)” and struck out“, and (3) the authorized end strength for the civilian personnel of the department for such fiscal year” at end of first sentence.
 
 1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

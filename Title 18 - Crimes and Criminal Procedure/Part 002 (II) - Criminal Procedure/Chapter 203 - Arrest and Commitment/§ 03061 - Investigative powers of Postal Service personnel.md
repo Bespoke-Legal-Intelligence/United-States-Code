@@ -18,9 +18,31 @@
 
 &emsp;(2) to the extent authorized by the Attorney General pursuant to agreement between the Attorney General and the Postal Service, in the enforcement of other laws of the United States, if the Attorney General determines that violations of such laws have a detrimental effect upon the operations of the Postal Service.
 
-(Added Pub. L. 90–560, §5(a), Oct. 12, 1968, 82 Stat. 998; amended Pub. L. 91–375, §6(j)(38)(A), Aug. 12, 1970, 84 Stat. 781; Pub. L. 100–690, title VI, §6251(a), Nov. 18, 1988, 102 Stat. 4362.)
+(c)(1) The Postal Service may employ police officers for duty in connection with the protection of property owned or occupied by the Postal Service or under the charge and control of the Postal Service, and persons on that property, including duty in areas outside the property to the extent necessary to protect the property and persons on the property.
+
+(2) With respect to such property, such officers shall have the power to—
+
+&emsp;(A) enforce Federal laws and regulations for the protection of persons and property;
+
+&emsp;(B) carry firearms; and
+
+&emsp;(C) make arrests without a warrant for any offense against the Unites <sup>1</sup> States committed in the presence of the officer or for any felony cognizable under the laws of the United States if the officer has reasonable grounds to believethat the person to be arrested has committed or is committing a felony.
+
+(3) With respect to such property, such officers may have, to such extent as the Postal Service may by regulations prescribe, the power to—
+
+&emsp;(A) serve warrants and subpoenas issued under the authority of the United States; and
+
+&emsp;(B) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Postal Service or persons on the property.
+
+(4)(A) As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations of the regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
+
+(B) A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
+
+(Added Pub. L. 90–560, §5(a), Oct. 12, 1968, 82 Stat. 998; amended Pub. L. 91–375, §6(j)(38)(A), Aug. 12, 1970, 84 Stat. 781; Pub. L. 100–690, title VI, §6251(a), Nov. 18, 1988, 102 Stat. 4362; Pub. L. 109–435, title X, §1001, Dec. 20, 2006, 120 Stat. 3254.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–435 added subsec. (c).
 
 1988—Pub. L. 100–690 substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
@@ -42,5 +64,7 @@ Subsec. (b). Pub. L. 91–375, §6(j)(38)(A)(iii), substituted “Postal Service
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by theBoard of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
 

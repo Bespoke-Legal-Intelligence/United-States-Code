@@ -6,9 +6,6 @@
 | [1232\.](%C2%A7%2001232%20-%20Label%20and%20entry%20requirements.md) | Label and entry requirements. |
 | [1232a.](%C2%A7%2001232a%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93178%2C%20title%20IV%2C%20%C2%A7401%28g%29%287%29%28A%29%2C%20Dec.%2010%2C%201971%2C%2085%20Stat.%20534.md) | Repealed. |
 | [1233\.](%C2%A7%2001233%20-%20Violations%20and%20penalties.md) | Violations and penalties. |
-| (a) | Failure to affix required label. |
-| (b) | Failure to endorse required label. |
-| (c) | Removal, alteration, or illegibility of required label. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

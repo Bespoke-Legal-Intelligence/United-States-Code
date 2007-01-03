@@ -24,13 +24,13 @@ Administer oaths.—A Cochairman of the Commission, or any member of the Commiss
 
 &emsp;(2)
 
-Furnish information.—The head of any federal, state, or local department or agency, to the extent not otherwise prohibited by law, may carry out section <sup>1</sup> (a)(2).
+Furnish information.—The head of any federal, state, or local department or agency, to the extent not otherwise prohibited by law, may carry out subsection (a)(2).
 
 (c)
 
 Public Participation.—Public participation in the development, revision, and implementation of all plans and programs under this subtitle by the Commission, any State, or any local development district shall be provided for, encouraged, and assisted. The Commission shall develop and publish regulations specifying minimum guidelines for public participation, including public hearings.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1260.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1260; Pub. L. 109–284, §6(31), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -62,5 +62,7 @@ Pub. L. 89–4, title I, §107, Mar. 9, 1965, 79 Stat. 9; Pub. L. 94–188, titl
 
 In subsection (b)(1), the words “for the purpose” are omitted as unnecessary.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+#### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–284 substituted “subsection (a)(2)” for “section (a)(2)”.
 

@@ -6,7 +6,7 @@ Definition.—In this subchapter, the term “contractor” means a person award
 
 (b)
 
-Type of Bonds Required.—Before any contract of more than $100,000 is awarded for theconstruction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
+Type of Bonds Required.—Before any contract of more than $100,000 is awarded for the construction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
 
 &emsp;(1)
 
@@ -42,9 +42,9 @@ Waiver of Bonds for Contracts Performed in Foreign Countries.—A contracting of
 
 (e)
 
-Authority to Require Additional Bonds.—This section does not limit the authority of a contracting officer to require a performance bond or other security in addition to those, or in cases other than the cases, specified in subsection (b).
+Authority To Require Additional Bonds.—This section does not limit the authority of a contracting officer to require a performance bond or other security in addition to those, or in cases other than the cases, specified in subsection (b).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1147.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1147; Pub. L. 109–284, §6(8), Sept. 27, 2006, 120 Stat. 1213.)
 
 Historical and Revision Notes
 
@@ -99,4 +99,8 @@ In subsections (b) and (c), the words “or sureties” are omitted because of 1
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified to Title 26, Internal Revenue Code.
+
+#### Amendments
+
+2006—Subsec. (e). Pub. L. 109–284 substituted “To” for “to” in heading.
 

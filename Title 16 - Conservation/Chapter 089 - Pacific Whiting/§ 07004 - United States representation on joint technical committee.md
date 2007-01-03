@@ -1,0 +1,18 @@
+### §7004. United States representation on joint technical committee
+
+#### (a) Scientific experts
+
+#### (1) In general
+
+&emsp;The Secretary, in consultation with the Secretary of State, shall appoint at least 6 but not more than 12 individuals to serve as scientific experts on the joint technical committee, at least 1 of whom shall be an official of the National Oceanic and Atmospheric Administration.
+
+#### (2) Term of office
+
+&emsp;An individual appointed under paragraph (1) shall be appointed for a term of not to exceed 4 years, but shall be eligible for reappointment. An individual appointed to fill a vacancy occurring prior to the expiration of the term of office of that individual's predecessor shall be appointed for the remainder of that term.
+
+#### (b) Independent member
+
+In addition to individuals appointed under subsection (a), the Secretary, jointly with the Government of Canada, shall appoint 1 independent member to the joint technical committee selected from a list of names provided by the advisory panel.
+
+(Pub. L. 109–479, title VI, §605, Jan. 12, 2007, 120 Stat. 3646.)
+

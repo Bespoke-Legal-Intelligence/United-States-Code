@@ -6,7 +6,7 @@ Based on Urbanized Area Population.—Of the amount apportioned under subsection
 
 &emsp;(1) 9.32 percent shall be apportioned each fiscal year only in urbanized areas with a population of less than 200,000 so that each of those areas is entitled to receive an amount equal to—
 
-&emsp;&emsp;(A) 50 percent of the total amount apportioned multiplied by a ratio equal to the population of the area divided by the totalpopulation of all urbanized areas with populations of less than 200,000 as shown in the latest United States Government census; and
+&emsp;&emsp;(A) 50 percent of the total amount apportioned multiplied by a ratio equal to the population of the area divided by the total population of all urbanized areas with populations of less than 200,000 as shown in the latest United States Government census; and
 
 &emsp;&emsp;(B) 50 percent of the total amount apportioned multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile; and
 
@@ -82,7 +82,7 @@ Amounts Not Apportioned to Designated Recipients.—The chief executive officer 
 
 Transfers of Apportionments.—(1) The chief executive officer of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c) of this title or amounts apportioned to urbanized areas under this subsection. The chief executive officer may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
 
-(2) The chief executive officer of a State may transfer any part of the State's apportionment under section 5311(c) of this title to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+(2) The chief executive officer of a State may transfer any part of the State's apportionmentunder section 5311(c) of this title to supplement amounts apportioned to the State under subsection (a)(1) of this section.
 
 (3) The chief executive officer of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
@@ -140,7 +140,7 @@ Apportionment.—
 
 &emsp;&emsp;(A)
 
-Apportionment formula.—The amount to be apportioned under subsection\(i)(1) shall be apportioned among eligible areas in the ratio that—
+Apportionment formula.—The amount to be apportioned under subsection (i)(1) shall be apportioned among eligible areas in the ratio that—
 
 &emsp;&emsp;&emsp;(i) the number of performance categories for which each eligible area meets or exceeds the industry average in urbanized areas with a population of at least 200,000 but not more than 999,999; bears to
 

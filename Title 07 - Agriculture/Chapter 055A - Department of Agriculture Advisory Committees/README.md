@@ -5,9 +5,6 @@
 | [2281\.](%C2%A7%2002281%20-%20Congressional%20declaration%20of%20purpose.md) | Congressional declaration of purpose. |
 | [2282\.](%C2%A7%2002282%20-%20Definitions.md) | Definitions. |
 | [2283\.](%C2%A7%2002283%20-%20Membership%20on%20advisory%20committees.md) | Membership on advisory committees. |
-| (a) | Simultaneous service. |
-| (b) | Service by more than one officer or employee of corporation or non-Federal entity. |
-| (c) | Maximum length. |
 | [2284\.](%C2%A7%2002284%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20I%2C%20%C2%A7101%28c%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203281.md) | Repealed. |
 | [2285\.](%C2%A7%2002285%20-%20Budget%20prohibitions.md) | Budget prohibitions. |
 | [2286\.](%C2%A7%2002286%20-%20Termination%20of%20committees.md) | Termination of committees. |

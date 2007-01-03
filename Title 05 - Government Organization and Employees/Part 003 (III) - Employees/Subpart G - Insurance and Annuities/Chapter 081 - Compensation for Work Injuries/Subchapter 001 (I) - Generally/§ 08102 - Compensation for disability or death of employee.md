@@ -14,7 +14,7 @@
 
 &emsp;(2) who is a prisoner of war or a protected individual under the Geneva Conventions of 1949 and is detained or utilized by the United States.
 
-> This subsection does not affect the payment of compensation under this subchapter derived otherwise than under this subsection, but compensation for disability or death does not accrue for a period for which pay, other benefit, or gratuity from the United States accrues to the disabled individual or his dependents on account of detention by the enemy or because of the same disability or death, unless that pay, benefit, or gratuity is refunded or renounced.
+> This subsection does not affect the payment of compensation under this subchapter derivedotherwise than under this subsection, but compensation for disability or death does not accrue for a period for which pay, other benefit, or gratuity from the United States accrues to the disabled individual or his dependents on account of detention by the enemy or because of the same disability or death, unless that pay, benefit, or gratuity is refunded or renounced.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 534; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470.)
 

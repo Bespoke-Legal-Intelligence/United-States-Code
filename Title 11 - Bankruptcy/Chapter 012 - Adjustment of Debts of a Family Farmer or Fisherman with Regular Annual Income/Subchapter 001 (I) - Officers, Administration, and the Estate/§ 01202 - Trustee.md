@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(II) was reaffirmed by the debtor under section 524(c).
 
-(2)(A) The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holderresides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
+(2)(A) The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
@@ -104,7 +104,7 @@ Amendment by section 219(c) of Pub. L. 109–8 effective 180 days after Apr. 20,
 
 Section effective 30 days after Oct. 27, 1986, and before the amendment by section 227 of Pub. L. 99–554, see section 302(c)(2) of Pub. L. 99–554, set out as an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-Effective date and applicability of amendment by section 227 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554.
+Effective date and applicability of amendment by section 227 of Pub. L. 99–554 dependent upon the judicialdistrict involved, see section 302(d), (e) of Pub. L. 99–554.
 
 #### References in Subsection (a) Temporarily Deemed To Be References to Other Provisions
 

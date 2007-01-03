@@ -62,13 +62,5 @@ Pub. L. 104–61, title VIII, §8075, Dec. 1, 1995, 109 Stat. 665.
 
 #### Report on Defense Export Loan Guarantee Program
 
-Section 1321(b) of Pub. L. 104–106 provided that: “Not later than two years after the date of the enactment of this Act \[Feb. 10, 1996\], the President shall submit to Congress a report on the loan guarantee program established pursuant to section 2540 of title 10, United States Code, as added by subsection (a). The report shall include—
-
-&emsp;“(1) an analysis of the costs and benefits of the loan guarantee program; and
-
-&emsp;“(2) any recommendations for modification of the program that the President considers appropriate, including—
-
-&emsp;&emsp;“(A) any recommended addition to the list of countries for which a guarantee may be issued under the program; and
-
-&emsp;&emsp;“(B) any proposed legislation necessary to authorize a recommended modification.”
+Pub. L. 104–106, div. A, title XIII, §1321(b), Feb. 10, 1996, 110 Stat. 477, provided that, not later than two years after Feb. 10, 1996, the President was to submit to Congress a report on the loan guarantee program established pursuant to this section.
 

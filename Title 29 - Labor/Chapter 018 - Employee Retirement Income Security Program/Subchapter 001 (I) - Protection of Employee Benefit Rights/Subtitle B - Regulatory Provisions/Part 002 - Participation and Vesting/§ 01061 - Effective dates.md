@@ -12,7 +12,7 @@
 
 &emsp;(B) December 31, 1980.
 
-> For purposes of subparagraph (A) and section 1086(c) <sup>1</sup> of this title, any plan amendment madepursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this chapter or the Internal Revenue Code of 1986 shall not be treated as a termination of such collective bargaining agreement. This paragraph shall not apply unless the Secretary determines that the participation and vesting rules in effect on September 2, 1974, are not less favorable to participants, in the aggregate, than the rules provided under sections 1052, 1053, and 1054 of this title.
+> For purposes of subparagraph (A) and section 1086(c) <sup>1</sup> of this title, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this chapter or the Internal Revenue Code of 1986 shall not be treated as a termination of such collective bargaining agreement. This paragraph shall not apply unless the Secretary determines that the participation and vesting rules in effect on September 2, 1974, are not less favorable to participants, in the aggregate, than the rules provided under sections 1052, 1053, and 1054 of this title.
 
 (2) For purposes of paragraph (1), the term “supplementary or special plan provision” means any plan provision which—
 
@@ -58,7 +58,7 @@ Section 1017(d) of this Act, referred to in subsec. (d), is section 1017 of Pub.
 
 Subsec. (f). Pub. L. 101–239, §7894(h)(2), added subsec. (f).
 
-1986—Subsec. (c)(1). Pub. L. 99–272 made a technical amendment to the reference to section 1086(c) of this title to reflect the renumbering of the corresponding section of the original act.
+1986—Subsec. (c)(1). Pub. L. 99–272 made a technical amendment to the reference to section 1086(c) of thistitle to reflect the renumbering of the corresponding section of the original act.
 
 #### Effective Date of 1989 Amendment
 

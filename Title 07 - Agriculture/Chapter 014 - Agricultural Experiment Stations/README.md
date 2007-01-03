@@ -8,26 +8,10 @@
 | [361a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361a%20-%20Congressional%20declaration%20of%20purpose%3B%20definitions.md) | Congressional declaration of purpose; definitions. |
 | [361b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361b%20-%20Congressional%20statement%20of%20policy%3B%20researches%2C%20investigations%20and%20experiments.md) | Congressional statement of policy; researches, investigations and experiments. |
 | [361c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361c%20-%20Authorization%20of%20appropriations%20and%20allotments%20of%20grants.md) | Authorization of appropriations and allotments of grants. |
-| (a) | Authorization. |
-| (b) | Allotments to States; authorization of appropriations for Virgin Islands and Guam; limitation. |
-| (c) | Allotment of additional sums. |
-| (d) | Matching funds. |
-| (e) | “Administration” defined. |
-| (f) | Adjustment of payments. |
-| (g) | Reductions and reapportionments. |
-| (h) | Peer review and plan of work. |
-| (i) | Integration of research and extension. |
 | [361d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361d%20-%20Use%20of%20funds.md) | Use of funds. |
 | [361e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361e%20-%20Payment%20of%20allotments%20to%20State%20agricultural%20experiment%20stations%3B%20directors%20and%20treasurers%20or%20other%20officers%3B%20accounting%3B%20reports%20to%E2%80%A6.md) | Payment of allotments to State agricultural experiment stations; directors and treasurers or other officers; accounting; reports to Secretary; replacement by States of diminished, lost or misapplied allotments; subsequent allotments or payments contingent on such replacement. |
 | [361f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361f%20-%20Publications%20of%20experiment%20stations%3B%20free%20mailing.md) | Publications of experiment stations; free mailing. |
 | [361g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361g%20-%20Duties%20of%20Secretary%3B%20ascertainment%20of%20entitlement%20of%20State%20to%20funds%3B%20plans%20of%20work.md) | Duties of Secretary; ascertainment of entitlement of State to funds; plans of work. |
-| (a) | Duties of Secretary. |
-| (b) | Ascertainment of entitlement. |
-| (c) | Carryover. |
-| (d) | Plan of work required. |
-| (e) | Requirements related to plan of work. |
-| (f) | Research protocols. |
-| (g) | Treatment of plans of work for other purposes. |
 | [361h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361h%20-%20Relation%20of%20college%20or%20university%20to%20State%20unaffected%3B%20division%20of%20appropriations.md) | Relation of college or university to State unaffected; division of appropriations. |
 | [361i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361i%20-%20Power%20to%20amend%2C%20repeal%2C%20etc.%2C%20reserved.md) | Power to amend, repeal, etc., reserved. |
 | 362 to 383. Transferred, Repealed, or Omitted. |  |
@@ -57,16 +41,9 @@
 | :--- | ---: |
 | [390\.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390%20-%20Definitions.md) | Definitions. |
 | [390a.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390a%20-%20Review%20process.md) | Review process. |
-| (a) | Submission to Secretary. |
-| (b) | Application process. |
-| (c) | Criteria for approval. |
-| (d) | Evaluation of proposals. |
-| (e) | National or multistate needs served by ARS facilities. |
 | [390b.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77308%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md) | Repealed. |
 | [390c.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390c%20-%20Applicability%20of%20Federal%20Advisory%20Committee%20Act.md) | Applicability of Federal Advisory Committee Act. |
 | [390d.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Allowable administrative costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -28,7 +28,7 @@
 
 (d) A State or local government employee who is given an appointment in a Federal agency for the period of the assignment or who is on detail to a Federal agency and who suffers disability or dies as a result of personal injury sustained while in the performance of his duty during the assignment shall be treated, for the purpose of subchapter I of chapter 81 of this title, as though he were an employee as defined by section 8101 of this title who had sustained the injury in the performance of duty. When an employee (or his dependents in case of death) entitled by reason of injury or death to benefits under subchapter I of chapter 81 of this title is also entitled to benefits from a State or local government for the same injury or death, he (or his dependents in case of death) shall elect which benefits he will receive. The election shall be made within 1 year after the injury or death, or such further time as the Secretary of Labor may allow for reasonable cause shown. When made, the election is irrevocable unless otherwise provided by law.
 
-(e) If a State or local government fails to continue the employer's contribution to State or local government retirement, life insurance, and health benefit plans for a State or local government employee who is given an appointment in a Federal agency, the employer's contributionscovering the State or local government employee's period of assignment, or any part thereof, may be made from the appropriations of the Federal agency concerned.
+(e) If a State or local government fails to continue the employer's contribution to State or local government retirement, life insurance, and health benefit plans for a State or local government employee who is given an appointment in a Federal agency, the employer's contributions covering the State or local government employee's period of assignment, or any part thereof, may be made from the appropriations of the Federal agency concerned.
 
 (Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1923; amended Pub. L. 95–454, title VI, §603(b), (d), Oct. 13, 1978, 92 Stat. 1190; Pub. L. 97–258, §3(a)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 107–107, div. A, title XI, §1117, Dec. 28, 2001, 115 Stat. 1241.)
 
@@ -38,7 +38,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2), is Pub. L. 
 
 Section 27 of the Office of Federal Procurement Policy Act, referred to in subsec. (c)(2), is classified to section 423 of Title 41, Public Contracts.
 
-The Federal Tort Claims Act, referred to in subsec. (c)(2), is classified to sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure.
+The Federal Tort Claims Act, referred to in subsec. (c)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 

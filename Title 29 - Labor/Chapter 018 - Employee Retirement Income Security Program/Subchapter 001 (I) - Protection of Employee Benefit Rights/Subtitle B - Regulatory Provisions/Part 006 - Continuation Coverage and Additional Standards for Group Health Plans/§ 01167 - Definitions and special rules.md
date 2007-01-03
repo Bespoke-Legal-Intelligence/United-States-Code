@@ -48,7 +48,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) that the applicable notice period provided under section 1166(a)(2) of this title commences with the date of the loss of coverage.
 
-(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, titleXVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088.)
+(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Par. (4). Pub. L. 99–514, §1895(d)(9)(A), added par. (4).
 
 Amendment by section 321(d)(2) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of Title 26, Internal Revenue Code.
 
-Amendment by section 421(b)(3) of Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191 set out as a note under section 4980B of Title 26.
+Amendment by section 421(b)(3) of Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifyingevent occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191 set out as a note under section 4980B of Title 26.
 
 #### Effective Date of 1989 Amendment
 

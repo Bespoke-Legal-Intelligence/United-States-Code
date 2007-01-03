@@ -10,7 +10,7 @@ Membership.—
 
 &emsp;(1)
 
-Federal and state members.—The Commission is composed of the Federal Cochairman, appointed by the President by and withthe advice and consent of the Senate, and the Governor of each participating State in the Appalachian region.
+Federal and state members.—The Commission is composed of the Federal Cochairman, appointed by the President by and with the advice and consent of the Senate, and the Governor of each participating State in the Appalachian region.
 
 &emsp;(2)
 

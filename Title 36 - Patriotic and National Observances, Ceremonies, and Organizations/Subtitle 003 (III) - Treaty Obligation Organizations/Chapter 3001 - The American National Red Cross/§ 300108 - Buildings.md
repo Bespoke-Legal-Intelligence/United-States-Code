@@ -12,7 +12,7 @@ Ownership.—The United States Government shall retain ownership of the corporat
 
 (b)
 
-Maintenance and Expenses.—Those buildings shall remain under the supervision of the Administrator of General Services. However, the corporation shall care for and maintain the buildings without expense to the Government.
+Maintenance and Expenses.—Those buildings shall remain under the supervision of theAdministrator of General Services. However, the corporation shall care for and maintain the buildings without expense to the Government.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493.)
 
@@ -86,7 +86,7 @@ Sec. 10. The enactment of this joint resolution shall not be construed as establ
 
 Sec. 11. (a) Notwithstanding any other provision of law, the Administrator of the General Services Administration shall enter into a lease of the real property described in the first section of this Act with the American National Red Cross, District of Columbia Chapter. Such lease shall provide that such property shall be used as an office, medical and scientific facility by such Red Cross Chapter and the tenants of such Chapter on such terms and conditions as shall be customary and necessary, including that—
 
-&emsp;“(1) the lease shall be triple net to the United States and such Red Cross Chapter shall pay alltaxes, insurance, and operating costs, and a rent of $1.00 for the term of the lease;
+&emsp;“(1) the lease shall be triple net to the United States and such Red Cross Chapter shall pay all taxes, insurance, and operating costs, and a rent of $1.00 for the term of the lease;
 
 &emsp;“(2) the lease term shall be for 99 years, and all improvements on such property shall revert to the ownership of the United States at the conclusion of the term;
 

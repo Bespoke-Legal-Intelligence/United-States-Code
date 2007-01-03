@@ -74,7 +74,7 @@ Regulations to Minimize Adverse Impact Upon Readmission.—The Secretary of each
 
 “(e)
 
-Construction With Other Remedies.—This section does not preempt or supersede any other remedy that may be available to a former cadet or midshipman.
+Construction With Other Remedies.—This section does not preempt or supersede any other remedythat may be available to a former cadet or midshipman.
 
 “(f)
 

@@ -24,7 +24,7 @@ The Congress finds that—
 
 (k) Land uses in the coastal zone, and the uses of adjacent lands which drain into the coastal zone, may significantly affect the quality of coastal waters and habitats, and efforts to control coastal water pollution from land use activities must be improved.
 
-(<i>l</i>) Because global warming may result in a substantial sea level rise with serious adverse effects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
+(<i>l</i>) Because global warming may result in a substantial sea level rise with serious adverseeffects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
 
 (m) Because of their proximity to and reliance upon the ocean and its resources, the coastal states have substantial and significant interests in the protection, management, and development of the resources of the exclusive economic zone that can only be served by the active participation of coastal states in all Federal programs affecting such resources and, wherever appropriate, by the development of state ocean resource plans as part of their federally approved coastal zone management programs.
 
@@ -62,7 +62,7 @@ Pub. L. 99–272, title VI, §6041, Apr. 7, 1986, 100 Stat. 124, provided that: 
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
+Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 
@@ -156,7 +156,7 @@ Assessment of Harmful Algal Blooms.—
 
 Assessment of Hypoxia.—
 
-&emsp;“(1) Not later than 12 months after the date of the enactment of this title \[Nov. 13, 1998\], the Task Force, in cooperation with the States, Indian tribes, local governments, industry, agricultural, academicinstitutions, and non-governmental organizations with expertise in watershed and coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of hypoxia in United States coastal waters, alternatives for reducing, mitigating, and controlling hypoxia, and the social and economic costs and benefits of such alternatives.
+&emsp;“(1) Not later than 12 months after the date of the enactment of this title \[Nov. 13, 1998\], the Task Force, in cooperation with the States, Indian tribes, local governments, industry, agricultural, academic institutions, and non-governmental organizations with expertise in watershed and coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of hypoxia in United States coastal waters, alternatives for reducing, mitigating, and controlling hypoxia, and the social and economic costs and benefits of such alternatives.
 
 &emsp;“(2) The assessment shall—
 

@@ -58,7 +58,7 @@ Aug. 29, 1916, ch. 415, §§15, 34–36, 39 Stat. 541, 543.
 
 49 App.:115.
 
-In subsection (a), before clause (1), the words “by indorsement or delivery” are omitted as surplus. In clause (4), the words “merchantability or fitness” are substituted for “such warranties”, and the words “the goods without a bill of lading” are substituted for “without a bill the goods represented thereby”, for clarity.
+In subsection (a), before clause (1), the words “by indorsement or delivery” are omitted as surplus. In clause (4), the words “merchantability or fitness” are substituted for “such warranties”, and the words “thegoods without a bill of lading” are substituted for “without a bill the goods represented thereby”, for clarity.
 
 In subsection (b), before clause (1), the words “person holding” are substituted for “mortgagee or pledgee or other holder” because they are inclusive. The words “from another person” are substituted for “whether from a party to a draft drawn for such debt or from any other person” to eliminate unnecessary words. The words “does not warrant by the demand or receipt” are substituted for “shall not be deemed by so doing to represent or warrant” for clarity.
 

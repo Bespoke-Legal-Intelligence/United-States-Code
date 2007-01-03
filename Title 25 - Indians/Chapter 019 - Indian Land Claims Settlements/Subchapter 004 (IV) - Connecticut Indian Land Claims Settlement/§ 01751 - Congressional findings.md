@@ -22,5 +22,5 @@ In subsec. (e), “October 18, 1983” substituted for “the time of the passag
 
 #### Short Title
 
-Section 1 of Pub. L. 98–134 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Mashantucket Pequot Indian Claims Settlement Act’.”
+Section 1 of Pub. L. 98–134 provided: “That this Act \[enacting this subchapter\] may be cited as the‘Mashantucket Pequot Indian Claims Settlement Act’.”
 

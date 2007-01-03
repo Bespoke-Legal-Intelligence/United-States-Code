@@ -1,8 +1,10 @@
 ### \[§§8293 to 8303. Repealed. Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880\]
 
+§8303
+
 Section 8293, act Aug. 10, 1956, ch. 1041, 70A Stat. 509, provided that no person in civil life be originally appointed as a chaplain in Regular Air Force unless he has passed an examination prescribed by President as to his moral, mental, and physical qualifications. See section 532 of this title.
 
-Section 8294, acts Aug. 10, 1956, ch. 1041, 70A Stat. 509; Sept. 2, 1958, Pub. L. 85–861, §1(173), 72 Stat. 1518, provided that original appointments in Regular Air Force be made in grades of first lieutenant through colonel for medical and dental officers as Air Force requires, from qualified doctors of medicine, osteopathy, or dentistry who are citizens of the United States and have such other qualifications as Secretary of Air Force prescribes, with specific additional eligibility requirements for a doctor of osteopathy, and that officers so appointed receive service credit for determining grade, position on a promotion list, seniority in grade in Regular Air Force, and eligibility for promotion. See section 532 of this title.
+Section 8294, acts Aug. 10, 1956, ch. 1041, 70A Stat. 509; Sept. 2, 1958, Pub. L. 85–861, §1(173), 72 Stat. 1518, provided that original appointments in Regular Air Force be made in grades of first lieutenant through colonel for medical and dental officers as Air Force requires, from qualified doctors of medicine, osteopathy, or dentistry who are citizens of the United States and have such other qualifications as Secretary of Air Force prescribes, with specific additional eligibility requirements for a doctor of osteopathy, and that officers soappointed receive service credit for determining grade, position on a promotion list, seniority in grade in Regular Air Force, and eligibility for promotion. See section 532 of this title.
 
 Section 8295, acts Aug. 10, 1956, ch. 1041, 70A Stat. 510; Sept. 2, 1958, Pub. L. 85–861, §1(174), 72 Stat. 1519, provided for determination of place on a promotion list of the name of each person who is originally appointed in a commissioned grade in Regular Air Force and whose name is carried on a promotion list, other than persons appointed as medical or dental officers or as an Air Force nurse or medical specialist. See section 624 of this title.
 
@@ -25,4 +27,6 @@ Section 8303, acts Aug. 10, 1956, ch. 1041, 70A Stat. 514; Aug. 21, 1957, Pub. L
 #### Effective Date of Repeal
 
 Repeal effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+§8304
 

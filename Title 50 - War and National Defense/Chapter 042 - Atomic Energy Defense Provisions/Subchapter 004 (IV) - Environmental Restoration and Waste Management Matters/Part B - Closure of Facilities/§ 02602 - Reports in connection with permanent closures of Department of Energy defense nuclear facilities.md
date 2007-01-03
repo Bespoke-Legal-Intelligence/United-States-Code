@@ -6,7 +6,7 @@ Not later than 120 days before a Department of Energy defense nuclear facility (
 
 #### (b) Closure report
 
-Upon the permanent cessation of production operations at a Department of Energy defensenuclear facility, the Secretary of Energy shall submit to Congress a report containing—
+Upon the permanent cessation of production operations at a Department of Energy defense nuclear facility, the Secretary of Energy shall submit to Congress a report containing—
 
 &emsp;(1) a complete survey of environmental problems at the facility;
 

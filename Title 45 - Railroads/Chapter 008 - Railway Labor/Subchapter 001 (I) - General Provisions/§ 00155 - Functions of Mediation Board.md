@@ -16,7 +16,7 @@ If arbitration at the request of the Board shall be refused by one or both parti
 
 #### Second. Interpretation of agreement
 
-In any case in which a controversy arises over the meaning or the application of any agreement reached through mediation under the provisions of this chapter, either party to the said agreement, or both, may apply to the Mediation Board for an interpretation of the meaning orapplication of such agreement. The said Board shall upon receipt of such request notify the parties to the controversy, and after a hearing of both sides give its interpretation within thirty days.
+In any case in which a controversy arises over the meaning or the application of any agreement reached through mediation under the provisions of this chapter, either party to the said agreement, or both, may apply to the Mediation Board for an interpretation of the meaning or application of such agreement. The said Board shall upon receipt of such request notify the parties to the controversy, and after a hearing of both sides give its interpretation within thirty days.
 
 #### Third. Duties of Board with respect to arbitration of disputes; arbitrators; acknowledgment of agreement; notice to arbitrators; reconvening of arbitrators; filing contracts with Board; custody of records and documents
 

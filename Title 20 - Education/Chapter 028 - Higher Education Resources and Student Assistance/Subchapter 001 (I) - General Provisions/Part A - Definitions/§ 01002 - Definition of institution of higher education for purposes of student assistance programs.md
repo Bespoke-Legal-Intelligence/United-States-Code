@@ -54,9 +54,9 @@
 
 &emsp;An institution shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution—
 
-&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence, unless the institution is an institution that meets the definition in section 2471(4)(C) of this title; <sup>1</sup>
+&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title), unless the institution is an institution that meets the definition in section 2302(3)(C) of this title;
 
-&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses, unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
+&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
 &emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
 
@@ -116,11 +116,7 @@
 
 &emsp;The term “postsecondary vocational institution” also includes an educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
 
-(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174.)
-
-#### References in Text
-
-Section 2471(4)(C) of this title, referred to in subsec. (a)(3)(A), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746.)
 
 #### Prior Provisions
 
@@ -136,11 +132,21 @@ Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 S
 
 #### Amendments
 
+2006—Subsec. (a)(3)(A). Pub. L. 109–270 substituted “2302(3)(C) of this title” for “2471(4)(C) of this title”.
+
+Pub. L. 109–171, §8002(1), inserted “(excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title)” after “courses by correspondence”.
+
+Subsec. (a)(3)(B). Pub. L. 109–171, §8002(2), inserted “(excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title)” after “correspondence courses”.
+
 2003—Subsec. (a)(2)(A). Pub. L. 108–98 amended subpar. (A) generally. Prior to amendment, subpar. (A) required the Secretary to establish criteria for approval of institutions outside the United States for purposes of par. (1)(C), including certain requirements for graduate medical or veterinary schools.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VIII, §8001(c), Feb. 8, 2006, 120 Stat. 155, provided that: “Except as otherwise provided in this subtitle \[subtitle A (§§8001–8024) of title VIII of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1001 of this title\] or the amendments made by this subtitle, the amendments made by this subtitle shall be effective July 1, 2006.”
 
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–98, §1(b), Oct. 10, 2003, 117 Stat. 1175, provided that: “This Act \[amending this section\] and the amendments made by this Act shall be effective as if enacted on October 1, 1998.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “part B of subchapter IV of this chapter”.</i>
 

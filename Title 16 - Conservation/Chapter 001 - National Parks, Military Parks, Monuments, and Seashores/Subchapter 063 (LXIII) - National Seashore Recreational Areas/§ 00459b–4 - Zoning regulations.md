@@ -10,7 +10,7 @@ The Secretary shall approve any zoning bylaw and any amendment to any approved z
 
 #### (b) Commercial and industrial use prohibition; acreage, frontage, setback and miscellaneous requirements
 
-The standards specified in such regulations and amended regulations for approval of any zoning bylaw or zoning bylaw amendment shall contribute to the effect of (1) prohibiting the commercial and industrial use, other than any commercial or industrial use which is permitted by the Secretary, of all property within the boundaries of the seashore which is situated within the town adopting such bylaw; and (2) promoting the preservation and development, in accordance with the purposes of sections 459b to 459b–8 of this title, of the area comprising the seashore, by means of acreage, frontage, and setback requirements and other provisions which may be required by such regulations to be included in a zoning bylaw consistent with the laws of Massachusetts.
+The standards specified in such regulations and amended regulations for approval of any zoning bylaw or zoning bylaw amendment shall contribute to the effect of (1) prohibiting the commercial and industrial use, other than any commercial or industrial use which is permitted by the Secretary, of all property within the boundaries of the seashore which is situated within the town adopting such bylaw; and (2) promoting the preservation and development, in accordance with the purposes of sections 459b to459b–8 of this title, of the area comprising the seashore, by means of acreage, frontage, and setback requirements and other provisions which may be required by such regulations to be included in a zoning bylaw consistent with the laws of Massachusetts.
 
 #### (c) Adverse provisions and absence of notice for variance as requiring disapproval of local bylaws
 
@@ -20,7 +20,7 @@ No zoning bylaw or amendment of a zoning bylaw shall be approved by the Secretar
 
 If any improved property with respect to which the Secretary's authority to acquire by condemnation has been suspended by reason of the adoption and approval, in accordance with the foregoing provisions of this section, of a zoning bylaw applicable to such property (hereinafter referred to as “such bylaw”)—
 
-&emsp;(1) is made the subject of a variance under or an exception to such bylaw, which variance or exception fails to conform or is in any manner opposed to or inconsistent with any applicable standard contained in the regulations issuedpursuant to this section and in effect at the time of the passage of such bylaw, or
+&emsp;(1) is made the subject of a variance under or an exception to such bylaw, which variance or exception fails to conform or is in any manner opposed to or inconsistent with any applicable standard contained in the regulations issued pursuant to this section and in effect at the time of the passage of such bylaw, or
 
 &emsp;(2) is property upon or with respect to which there occurs any use, commencing after the date of the publication by the Secretary of such regulations, which fails to conform or is in any manner opposed to or inconsistent with any applicable standard contained in such regulations (but no use which is in conformity with the provisions of such bylaw shall be held to fail to conform or be opposed to or inconsistent with any such standard),
 

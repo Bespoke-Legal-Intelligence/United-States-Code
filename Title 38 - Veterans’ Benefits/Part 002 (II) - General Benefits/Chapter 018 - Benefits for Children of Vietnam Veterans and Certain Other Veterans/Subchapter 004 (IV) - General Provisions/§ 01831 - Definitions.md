@@ -24,7 +24,7 @@ In this chapter:
 
 &emsp;&emsp;(B) subchapter II of this chapter, means the period beginning on February 28, 1961, and ending on May 7, 1975.
 
-(Added Pub. L. 106–419, title IV, §401(b), Nov. 1, 2000, 114 Stat. 1859, §1821; renumbered §1831 and amended Pub. L. 108–183, title I, §102(a)(1),(b), Dec. 16, 2003, 117 Stat. 2653, 2654.)
+(Added Pub. L. 106–419, title IV, §401(b), Nov. 1, 2000, 114 Stat. 1859, §1821; renumbered §1831 and amended Pub. L. 108–183, title I, §102(a)(1), (b), Dec. 16, 2003, 117 Stat. 2653, 2654.)
 
 #### Prior Provisions
 

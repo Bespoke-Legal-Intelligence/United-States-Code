@@ -6,7 +6,7 @@ There is hereby established an organization under the Congress of the United Sta
 
 #### (b) Guided tours; regulations
 
-The Capitol Guide Service is authorized and directed to provide guided tours of the interiorof the United States Capitol Building for the education and enlightenment of the general public, without charge for such tours. All such tours shall be conducted in compliance with regulations prescribed by the Capitol Guide Board.
+The Capitol Guide Service is authorized and directed to provide guided tours of the interior of the United States Capitol Building for the education and enlightenment of the general public, without charge for such tours. All such tours shall be conducted in compliance with regulations prescribed by the Capitol Guide Board.
 
 #### (c) Duties of Capitol Guide Board; positions of Guide in Capitol Guide Service; establishment and revision; Chief, Deputy Chief, and Assistant Chief Guide and Guides: appointment, duties, pay, and termination of employment
 
@@ -60,7 +60,7 @@ The Capitol Guide Board may take appropriate disciplinary action, including, whe
 
 (4) In no case shall the acceptance of personal services under this section result in the reduction of pay or displacement of any employee of the Capitol Guide Service.
 
-(Pub. L. 91–510, title IV, §441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 671; Pub. L. 104–186, title II, §221(17), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 104–279, Oct. 9, 1996, 110 Stat. 3358.)
+(Pub. L. 91–510, title IV, §441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91Stat. 671; Pub. L. 104–186, title II, §221(17), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 104–279, Oct. 9, 1996, 110 Stat. 3358.)
 
 #### Codification
 

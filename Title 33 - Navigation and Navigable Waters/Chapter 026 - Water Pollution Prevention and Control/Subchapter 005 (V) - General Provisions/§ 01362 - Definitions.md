@@ -4,9 +4,9 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (1) The term “State water pollution control agency” means the State agency designated by the Governor having responsibility for enforcing State laws relating to the abatement of pollution.
 
-(2) The term “interstate agency” means an agency of two or more States established by or pursuant to an agreement or compact approved by the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
+(2) The term “interstate agency” means an agency of two or more States established by orpursuant to an agreement or compact approved by the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
 
-(3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the NorthernMariana Islands, and the Trust Territory of the Pacific Islands.
+(3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 (4) The term “municipality” means a city, town, borough, county, parish, district, association, or other public body created by or pursuant to State law and having jurisdiction over disposal of sewage, industrial wastes, or other wastes, or an Indian tribe or an authorized Indian tribal organization, or a designated and approved management agency under section 1288 of this title.
 

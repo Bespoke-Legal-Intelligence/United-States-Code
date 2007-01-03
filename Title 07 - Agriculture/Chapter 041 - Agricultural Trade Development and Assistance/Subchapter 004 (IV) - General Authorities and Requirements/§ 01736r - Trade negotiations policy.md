@@ -50,7 +50,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions relating to initiation and pursuit of agricultural trade consultations among major agricultural producing countries, providing for sense of Congress concerning objectives of such consultations, and requiring annual reports by Secretary of Agriculture on progress of such consultations.
+1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions relating to initiation and pursuit of agricultural trade consultations among major agricultural producing countries,providing for sense of Congress concerning objectives of such consultations, and requiring annual reports by Secretary of Agriculture on progress of such consultations.
 
 #### Agricultural Trade Negotiating Objectives and Consultations With Congress
 
@@ -94,11 +94,17 @@ Objectives.—The agricultural trade negotiating objectives of the United States
 
 Consultation With Congressional Committees.—
 
-&emsp;“(1) Consultation before offer made.—In developing and before submitting an initial or revised negotiating proposal that would reduce United States tariffs on agricultural products or require a change in United States agricultural law, the United States Trade Representative shall consult with the Committee on Agriculture, Nutrition, and Forestry and the Committee on Finance of the Senate and the Committee on Agriculture and the Committee on Ways and Means of the House of Representatives.
+&emsp;“(1)
 
-&emsp;“(2) Consultation with congressional trade advisers.—Prior to and during the course of current negotiations on agricultural trade, the United States Trade Representative shall consult closely with the congressional trade advisers.
+Consultation before offer made.—In developing and before submitting an initial or revised negotiating proposal that would reduce United States tariffs on agricultural products or require a change in United States agricultural law, the United States Trade Representative shall consult with the Committee on Agriculture, Nutrition, and Forestry and the Committee on Finance of the Senate and the Committee on Agriculture and the Committee on Ways and Means of the House of Representatives.
 
-&emsp;“(3) Consultation before agreement initialed.—Not less than 48 hours before initialing an agreement reached as part of current World Trade Organization agricultural negotiations, the United States Trade Representative shall consult closely with the committees referred to in paragraph (1) regarding—
+&emsp;“(2)
+
+Consultation with congressional trade advisers.—Prior to and during the course of current negotiations on agricultural trade, the United States Trade Representative shall consult closely with the congressional trade advisers.
+
+&emsp;“(3)
+
+Consultation before agreement initialed.—Not less than 48 hours before initialing an agreement reached as part of current World Trade Organization agricultural negotiations, the United States Trade Representative shall consult closely with the committees referred to in paragraph (1) regarding—
 
 &emsp;&emsp;“(A) the details of the agreement;
 
@@ -106,7 +112,9 @@ Consultation With Congressional Committees.—
 
 &emsp;&emsp;“(C) any changes in United States law necessary to implement the agreement.
 
-&emsp;“(4) Disclosure of commitments.—Any agreement or other understanding addressing agricultural trade with a foreign government or governments (whether oral or in writing) that relates to a trade agreement with respect to which Congress must enact implementing legislation and that is not disclosed to Congress before legislation implementing that agreement is introduced in either House of Congress shall not be considered to be part of the agreement approved by Congress and shall have no force and effect under United States law or in any dispute settlement body.
+&emsp;“(4)
+
+Disclosure of commitments.—Any agreement or other understanding addressing agricultural trade with a foreign government or governments (whether oral or in writing) that relates to a trade agreement with respect to which Congress must enact implementing legislation and that is not disclosed to Congress before legislation implementing that agreement is introduced in either House of Congress shall not be considered to be part of the agreement approved by Congress and shall have no force and effect under United States law or in any dispute settlement body.
 
 “(d)
 
@@ -116,5 +124,5 @@ Sense of the Congress.—It is the sense of the Congress that—
 
 &emsp;“(2) reaching a successful agreement on agriculture should be the top priority of United States negotiators; and
 
-&emsp;“(3) if by the conclusion of the negotiations, the primary agricultural competitors of the United States do not agree to reduce their trade distorting domestic supports and eliminate export subsidies inaccordance with the negotiating objectives expressed in this section, the United States should take steps to increase the leverage of United States negotiators and level the playing field for United States producers.”
+&emsp;“(3) if by the conclusion of the negotiations, the primary agricultural competitors of the United States do not agree to reduce their trade distorting domestic supports and eliminate export subsidies in accordance with the negotiating objectives expressed in this section, the United States should take steps to increase the leverage of United States negotiators and level the playing field for United States producers.”
 

@@ -20,7 +20,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 &emsp;(B) to the commander of a combatant command, but only for a reward in an amount or with a value not in excess of $50,000.
 
-(2) A commander of a combatant command to whom authority to provide rewards under this section is delegated under paragraph (1) may further delegate that authority, but only for a reward in an amount or with a value not in excess of $2,500, except that such a delegation may be made to the commander's deputy commander without regard to such limitation.
+(2) A commander of a combatant command to whom authority to provide rewards under this section is delegated under paragraph (1) may further delegate that authority, but only for a reward in an amount or with a value not in excess of $10,000, except that such a delegation may be made to the commander's deputy commander, or to the commander of a command directly subordinate to that commander, without regard to such limitation. Such a delegation may be made to the commander of a commanddirectly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).
 
 (d)
 
@@ -62,9 +62,11 @@ Annual Report.—(1) Not later than December 1 of each year, the Secretary of De
 
 Determinations by the Secretary.—A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439.)
+(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433.)
 
 #### Amendments
 
-2006—Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such polices”.
+2006—Subsec. (c)(2). Pub. L. 109–364 substituted “$10,000” for “$2,500”, inserted “, or to the commander of a command directly subordinate to that commander,” after “deputy commander”, and inserted at end “Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).”
+
+Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such polices”.
 

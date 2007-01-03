@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;&emsp;(vi) the <sup>1</sup> Government Printing Office;
 
-&emsp;(B) any individual employed by the United States Postal Service or the Postal Rate Commission; and
+&emsp;(B) any individual employed by the United States Postal Service or the Postal Regulatory Commission; and
 
 &emsp;(C) any individual employed by a State, political subdivision of a State, or an interstate governmental agency, other than such an individual—
 
@@ -88,7 +88,7 @@ As used in this chapter—
 
 (q) “Secretary” means the Secretary of Labor.
 
-(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Within the meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, an agreement, (A) that it will sell, or sell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brand name of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
+(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Within the meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, an agreement, (A) that it will sell, orsell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brand name of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
 
 (2) For purposes of paragraph (1), the activities performed by any person or persons—
 
@@ -120,7 +120,7 @@ As used in this chapter—
 
 (w) “Secondary school” means a day or residential school which provides secondary education, as determined under State law.
 
-(x) “Public agency” means the Government of the United States; the government of a State or political subdivision thereof; any agency of the United States (including the United States Postal Service and Postal Rate Commission), a State, or a political subdivision of a State; or any interstate governmental agency.
+(x) “Public agency” means the Government of the United States; the government of a State or political subdivision thereof; any agency of the United States (including the United States Postal Service and Postal Regulatory Commission), a State, or a political subdivision of a State; or any interstate governmental agency.
 
 (y) “Employee in fire protection activities” means an employee, including a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous materials worker, who—
 
@@ -128,9 +128,11 @@ As used in this chapter—
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Amendments
+
+2006—Subsecs. (e)(2)(B), (x). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1999—Subsec. (y). Pub. L. 106–151 added subsec. (y).
 
@@ -140,7 +142,7 @@ As used in this chapter—
 
 &emsp;“(1) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
 
-&emsp;“(2) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title.
+&emsp;“(2) an additional amount on account of the tips received by such employee which amount is equal tothe difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title.
 
 > The additional amount on account of tips may not exceed the value of the tips actually received by an employee.”, and struck out former penultimate sentence which read as follows: “In determining the wage of a tipped employee, the amount paid such employee by his employer shall be deemed to be increased on account of tips by an amount determined by the employer, but not by an amount in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991, except that the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee.”
 
@@ -150,7 +152,7 @@ Pub. L. 104–188 in last sentence substituted “preceding 2 sentences” for �
 
 1989—Subsec. (m). Pub. L. 101–157, §5, substituted “in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991,” for “in excess of 40 per centum of the applicable minimum wage rate,”.
 
-Subsec. (r). Pub. L. 101–157, §3(d), designated first sentence as par. (1), made a separate sentence out of theexisting proviso and redesignated cls. (1), (2), and (3) as (A), (B), and (C), respectively, designated second sentence as par. (2), in par. (2) as so designated, redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and, in subpar. (A) as so redesignated, substituted “school is operated” for “school is public or private or operated”.
+Subsec. (r). Pub. L. 101–157, §3(d), designated first sentence as par. (1), made a separate sentence out of the existing proviso and redesignated cls. (1), (2), and (3) as (A), (B), and (C), respectively, designated second sentence as par. (2), in par. (2) as so designated, redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and, in subpar. (A) as so redesignated, substituted “school is operated” for “school is public or private or operated”.
 
 Subsec. (s). Pub. L. 101–157, §3(a), amended subsec. (s) generally, completely revising definition of “enterprise engaged in commerce or in the production of goods for commerce”.
 
@@ -190,7 +192,7 @@ Subsec. (m). Pub. L. 89–601, §101(a), inserted provisions for determining the
 
 Subsec. (n). Pub. L. 89–601, §215(a), struck out provision which directed that definition of “resale” was not applicable when “resale” was used in subsection (s)(1) of this section.
 
-Subsec. (r). Pub. L. 89–601, §102(a), extended activities performed for a business purpose to include activities in the operation of hospitals, institutions for the sick, aged, or mentally ill or defective, schools for the handicapped, elementary and secondary schools, institutions of higher learning, or street, suburban, or interurban electric railway or local trolley or motorbus carriers if subject to regulation by a State or local agency regardless of whether public or private or whether operated for profit or not for profit.
+Subsec. (r). Pub. L. 89–601, §102(a), extended activities performed for a business purpose to include activities in the operation of hospitals, institutions for the sick, aged, or mentally ill or defective, schools for the handicapped, elementary and secondary schools, institutions of higher learning, or street, suburban, or interurban electric railway or local trolley or motorbus carriers ifsubject to regulation by a State or local agency regardless of whether public or private or whether operated for profit or not for profit.
 
 Subsec. (s). Pub. L. 89–601, §102(c), removed gross annual business level tests of $1,000,000 for retail and service enterprises, street, suburban, or interurban electric railways or local trolley or motorbus carriers, and brought within the coverage of the gross annual business test all enterprises having employees engaged in commerce in the production of goods for commerce, including employees handling, selling, or otherwise working on goods that have been moved in or produced for commerce, lowered the minimum gross annual volume test for covered enterprises from $1,000,000 to $500,000 for the period from Feb. 1, 1967, through Jan. 31, 1969, and to $250,000 for the period after Jan. 31, 1969, retained the $250,000 annual gross volume test for coverage of gasoline service establishments, and expanded coverage to include laundering or cleaning services, construction or reconstruction activities, or operation of hospitals, certain institutions for the care of the sick, aged, or mentally ill, certain special schools, and institutions of higher learning regardless of annual gross volume.
 
@@ -200,7 +202,7 @@ Subsec. (u). Pub. L. 89–601, §103(b), added subsec. (u).
 
 Subsecs. (v), (w). Pub. L. 89–601, §102(d), added subsecs. (v) and (w).
 
-1961—Subsec. (m). Pub. L. 87–30, §2(a), provided for exclusion from wages under a collective-bargaining agreement the cost of board, lodging, or other facilities and authorized the Secretary to determine the fair value ofboard, lodging, or other facilities for defined classes of employees in defined areas to be used in lieu of actual cost.
+1961—Subsec. (m). Pub. L. 87–30, §2(a), provided for exclusion from wages under a collective-bargaining agreement the cost of board, lodging, or other facilities and authorized the Secretary to determine the fair value of board, lodging, or other facilities for defined classes of employees in defined areas to be used in lieu of actual cost.
 
 Subsec. (n). Pub. L. 87–30, §2(b), inserted “, except as used in subsection (s)(1) of this section,”.
 

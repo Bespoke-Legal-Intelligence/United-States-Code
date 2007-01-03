@@ -48,7 +48,7 @@ To carry out its purposes under section 3701 of this title, the Foundation shall
 
 #### (d) Certain lands, waters, and interests not subject to condemnation
 
-No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fishand Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
+No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fish and Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
 
 #### (e) Acquisition, management, and disposal of real property
 
@@ -114,11 +114,13 @@ The Foundation shall not make any expenditure of Federal funds in connection wit
 
 #### (i) Notice to Members of Congress
 
-The Foundation shall not make a grant of funds unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+The Foundation shall not make a grant of Federal funds in an amount greater than $10,000 unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
 
-(Pub. L. 98–244, §4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, §101(b) \[title IX, §903\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120; Pub. L. 106–408, title II, §§203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, 114 Stat. 1779, 1780.)
+(Pub. L. 98–244, §4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, §101(b) \[title IX, §903\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120; Pub. L. 106–408, title II, §§203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, 114 Stat. 1779, 1780; Pub. L. 109–363, title II, §203, Oct. 17, 2006, 120 Stat. 2075.)
 
 #### Amendments
+
+2006—Subsec. (i). Pub. L. 109–363 substituted “grant of Federal funds in an amount greater than $10,000” for “grant of funds”.
 
 2000—Subsec. (a)(3). Pub. L. 106–408, §204(a), inserted “or in a county in the State of Maryland or Virginia that borders on the District of Columbia” after “the District of Columbia”.
 

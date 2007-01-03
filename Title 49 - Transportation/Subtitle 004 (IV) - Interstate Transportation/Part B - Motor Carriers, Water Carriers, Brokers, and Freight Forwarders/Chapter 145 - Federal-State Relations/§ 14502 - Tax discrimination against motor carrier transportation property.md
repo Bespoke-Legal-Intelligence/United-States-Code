@@ -54,7 +54,7 @@ Burden of proof.—The burden of proof in determining assessed value and true ma
 
 &emsp;(4)
 
-Violation.—If the ratio of the assessed value of other commercial and industrial property in the assessment jurisdiction to the true market value of all other commercial and industrial property cannot be determined to the satisfaction of the district court through the random-sampling method known as a sales assessment ratio study (to be carried out under statistical principles applicable to such a study), the court shall find, as a violation of this section—
+Violation.—If the ratio of the assessed value of other commercial and industrial property in the assessment jurisdiction to the truemarket value of all other commercial and industrial property cannot be determined to the satisfaction of the district court through the random-sampling method known as a sales assessment ratio study (to be carried out under statistical principles applicable to such a study), the court shall find, as a violation of this section—
 
 &emsp;&emsp;(A) an assessment of the motor carrier transportation property at a value that has a higher ratio to the true market value of the motor carrier transportation property than the assessment value of all other property subject to a property tax levy in the assessment jurisdiction has to the true market value of all such other property; and
 

@@ -1,6 +1,6 @@
 ### §201. Service and charges
 
-(a) It shall be the duty of every common carrier engaged in interstate or foreign communication by wire or radio to furnish such communication service upon reasonable request therefor; and, in accordance with the orders of the Commission, in cases where the Commission, after opportunity for hearing, finds such action necessary or desirable in the public interest, to establish physical connections with other carriers, to establish through routes and charges applicable thereto and the divisions of such charges, and to establish and provide facilities and regulations for operating such through routes.
+(a) It shall be the duty of every common carrier engaged in interstate or foreign communication by wire or radio to furnish such communication service upon reasonable request therefor; and, in accordance with the orders of the Commission, in cases where the Commission, after opportunity for hearing, finds such action necessary or desirable in the public interest, to establish physical connections with other carriers, to establish through routes and charges applicable thereto and the divisions of suchcharges, and to establish and provide facilities and regulations for operating such through routes.
 
 (b) All charges, practices, classifications, and regulations for and in connection with such communication service, shall be just and reasonable, and any such charge, practice, classification, or regulation that is unjust or unreasonable is declared to be unlawful: <i>Provided</i>, That communications by wire or radio subject to this chapter may be classified into day, night, repeated, unrepeated, letter, commercial, press, Government, and such other classes as the Commission may decide to be just and reasonable, and different charges may be made for the different classes of communications: <i>Provided further</i>, That nothing in this chapter or in any other provision of law shall be construed to prevent a common carrier subject to this chapter from entering into or operating under any contract with any common carrier not subject to this chapter, for the exchange of their services, if the Commission is of the opinion that such contract is not contrary to the public interest: <i>Provided further</i>, That nothing in this chapter or in any other provision of law shall prevent a common carrier subject to this chapter from furnishing reports of positions of ships at sea to newspapers of general circulation, either at a nominal charge or without charge, provided the name of such common carrier is displayed along with such ship position reports. The Commission may prescribe such rules and regulations as may be necessary in the public interest to carry out the provisions of this chapter.
 
@@ -16,21 +16,35 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Telephone Rates for Members of Armed Forces Deployed Abroad
 
-Pub. L. 102–538, title II, §213, Oct. 27, 1992, 106 Stat. 3545, provided that:
+Pub. L. 109–459, §2, Dec. 22, 2006, 120 Stat. 3399, provided that:
 
 “(a)
 
-In General.—The Federal Communications Commission shall make efforts to reduce telephone rates for Armed Forces personnel in the following countries: Germany, Japan, Korea, Saudi Arabia, Great Britain, Italy, Philippines, Panama, Spain, Turkey, Iceland, the Netherlands, Greece, Cuba, Belgium, Portugal, Bermuda, Diego Garcia, Egypt, and Honduras.
+In General.—The Federal Communications Commission shall take such action as may be necessary to reduce the cost of calling home for Armed Forces personnel who are stationed outside the United States under official military orders or deployed outside the United States in support of military operations, training exercises, or other purposes as approved by the Secretary of Defense, including the reduction of such costs through the waiver of government fees, assessments, or other charges for such calls. The Commission may not regulate rates in order to carry out this section.
 
 “(b)
 
-Factors To Consider.—In making the efforts described in subsection (a), the Federal Communications Commission, in coordination with the Department of Defense, Department of State, and the National Telecommunications and Information Administration shall consider the cost to military personnel and their families of placing telephone calls by—
+Factors To Consider.—In taking the action described in subsection (a), the Commission, in coordination with the Department of Defense and the Department of State, shall—
 
-&emsp;“(1) evaluating and analyzing the costs to Armed Forces personnel of such telephone calls to and from American military bases abroad;
+&emsp;“(1) evaluate and analyze the costs to Armed Forces personnel of such telephone calls to and from American military bases abroad;
 
-&emsp;“(2) evaluate methods of reducing the rates imposed on such calls;
+&emsp;“(2) evaluate methods of reducing the rates imposed on such calls, including deployment of new technology such as voice over Internet protocol or other Internet protocol technology;
 
-&emsp;“(3) determine the extent to which it is feasible for the Federal Communications Commission to encourage the carriers to adopt flexible billing procedures and policies for members of the Armed Forces and their families for telephone calls to and from the countries listed in subsection (a); and
+&emsp;“(3) encourage telecommunications carriers (as defined in section 3(44) of the Communications Act of 1934 (47 U.S.C. 153(44))) to adopt flexible billing procedures and policies for Armed Forces personnel and their dependents for telephone calls to and from such Armed Forces personnel; and
 
-&emsp;“(4) advise executive branch agencies of methods for the United States to persuade foreign governments to reduce the surcharges that are often placed on such telephone calls.”
+&emsp;“(4) seek agreements with foreign governments to reduce international surcharges on such telephone calls.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Armed forces.—The term ‘Armed Forces’ has the meaning given that term by section 2101(2) of title 5, United States Code.
+
+&emsp;“(2)
+
+Military base.—The term ‘military base’ includes official duty stations to include vessels, whether such vessels are in port or underway outside of the United States.”
+
+Pub. L. 102–538, title II, §213, Oct. 27, 1992, 106 Stat. 3545, which required the Federal Communications Commission to make efforts to reduce telephone rates for Armed Forces personnel in certain countries, was repealed by Pub. L. 109–459, §3, Dec. 22, 2006, 120 Stat. 3400.
 

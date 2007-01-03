@@ -8,7 +8,7 @@ Retention Bonus Authorized.—An officer or enlisted member of the armed forces 
 
 &emsp;(2) in the case of an enlisted member, other than an enlisted member referred to in paragraph (3), the member reenlists or voluntarily extends the member's enlistment for a period of at least one year; or
 
-&emsp;(3) in the case of an enlisted member serving pursuant to an indefinite reenlistment, the member executes a written agreement to remain on active duty for a period of at least one year or to remain in an active status in areserve component for a period of at least one year.
+&emsp;(3) in the case of an enlisted member serving pursuant to an indefinite reenlistment, the member executes a written agreement to remain on active duty for a period of at least one year or to remain in an active status in a reserve component for a period of at least one year.
 
 (b)
 
@@ -60,9 +60,9 @@ Annual Report.—Not later than February 15 of each year, the Secretary of Defen
 
 (i)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2006, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2007, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A,title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248.)
 
 #### Amendments
 
@@ -90,7 +90,9 @@ Subsec. (g)(1). Pub. L. 109–163, §640(e), substituted “If a member paid a b
 
 Subsec. (h)(1). Pub. L. 109–163, §640(b)(3), substituted “members of the armed forces who were offered a bonus under this section” for “members qualified in the critical military skills for which the bonuses were offered”.
 
-Subsec. (i). Pub. L. 109–163, §624(e), substituted “December 31, 2006” for “December 31, 2005”.
+Subsec. (i). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+
+Pub. L. 109–163, §624(e), substituted “December 31, 2006” for “December 31, 2005”.
 
 2004—Subsec. (a). Pub. L. 108–375, §621, inserted “other than an enlisted member referred to in paragraph (3),” after “enlisted member,” in par. (2) and added par. (3).
 

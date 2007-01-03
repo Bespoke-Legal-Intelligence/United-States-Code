@@ -15,28 +15,12 @@
 | [2141\.](%C2%A7%2002141%20-%20Marking%20and%20identification%20of%20animals.md) | Marking and identification of animals. |
 | [2142\.](%C2%A7%2002142%20-%20Humane%20standards%20and%20recordkeeping%20requirements%20at%20auction%20sales.md) | Humane standards and recordkeeping requirements at auction sales. |
 | [2143\.](%C2%A7%2002143%20-%20Standards%20and%20certification%20process%20for%20humane%20handling%2C%20care%2C%20treatment%2C%20and%20transportation%20of%20animals.md) | Standards and certification process for humane handling, care, treatment, and transportation of animals. |
-| (a) | Promulgation of standards, rules, regulations, and orders; requirements; research facilities; State authority. |
-| (b) | Research facility Committee; establishment, membership, functions, etc. |
-| (c) | Federal research facilities; establishment, composition, and responsibilities of Federal Committee. |
-| (d) | Training of scientists, animal technicians, and other personnel involved with animal care and treatment at research facilities. |
-| (e) | Establishment of information service at National Agricultural Library; service functions. |
-| (f) | Suspension or revocation of Federal support for research projects; prerequisites; appeal procedure. |
-| (f) | Veterinary certificate; contents; exceptions. |
-| (g) | Age of animals delivered to registered research facilities; power of Secretary to designate additional classes of animals and age limits. |
-| (h) | Prohibition of C.O.D. arrangements for transportation of animals in commerce; exceptions. |
 | [2144\.](%C2%A7%2002144%20-%20Humane%20standards%20for%20animals%20by%20United%20States%20Government%20facilities.md) | Humane standards for animals by United States Government facilities. |
 | [2145\.](%C2%A7%2002145%20-%20Consultation%20and%20cooperation%20with%20Federal%2C%20State%2C%20and%20local%20governmental%20bodies%20by%20Secretary%20of%20Agriculture.md) | Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture. |
 | [2146\.](%C2%A7%2002146%20-%20Administration%20and%20enforcement%20by%20Secretary.md) | Administration and enforcement by Secretary. |
-| (a) | Investigations and inspections. |
-| (b) | Penalties for interfering with official duties. |
-| (c) | Procedures. |
 | [2147\.](%C2%A7%2002147%20-%20Inspection%20by%20legally%20constituted%20law%20enforcement%20agencies.md) | Inspection by legally constituted law enforcement agencies. |
 | [2148\.](%C2%A7%2002148%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93579%2C%20%C2%A719%2C%20Dec.%2024%2C%201970%2C%2084%20Stat.%201564.md) | Repealed. |
 | [2149\.](%C2%A7%2002149%20-%20Violations%20by%20licensees.md) | Violations by licensees. |
-| (a) | Temporary license suspension; notice and hearing; revocation. |
-| (b) | Civil penalties for violation of any section, etc.; separate offenses; notice and hearing; appeal; considerations in assessing penalty; compromise of penalty; civil action by Attorney General for failure to pay penalty; district court jurisdiction; failure to obey cease and desist order. |
-| (c) | Appeal of final order by aggrieved person; limitations; exclusive jurisdiction of United States Courts of Appeals. |
-| (d) | Criminal penalties for violation; initial prosecution brought before United States magistrate judges; conduct of prosecution by attorneys of United States Department of Agriculture. |
 | [2150\.](%C2%A7%2002150%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93279%2C%20%C2%A714%2C%20Apr.%2022%2C%201976%2C%2090%20Stat.%20421.md) | Repealed. |
 | [2151\.](%C2%A7%2002151%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [2152\.](%C2%A7%2002152%20-%20Separability.md) | Separability. |
@@ -44,28 +28,9 @@
 | [2154\.](%C2%A7%2002154%20-%20Effective%20dates.md) | Effective dates. |
 | [2155\.](%C2%A7%2002155%20-%20Omitted.md) | Omitted. |
 | [2156\.](%C2%A7%2002156%20-%20Animal%20fighting%20venture%20prohibition.md) | Animal fighting venture prohibition. |
-| (a) | Sponsoring or exhibiting an animal in an animal fighting venture. |
-| (b) | Buying, selling, delivering, or transporting animals for participation in animal fighting venture. |
-| (c) | Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture. |
-| (d) | Violation of State law. |
-| (e) | Penalties. |
-| (f) | Investigation of violations by Secretary; assistance by other Federal agencies; issuance of search warrant; forfeiture; costs recoverable in forfeiture or civil action. |
-| (g) | Definitions. |
-| (h) | Conflict with State law. |
 | [2157\.](%C2%A7%2002157%20-%20Release%20of%20trade%20secrets.md) | Release of trade secrets. |
-| (a) | Release of confidential information prohibited. |
-| (b) | Wrongful use of confidential information prohibited. |
-| (c) | Penalties. |
-| (d) | Recovery of damages by injured person; costs; attorney's fee. |
-| (e) | Other rights and remedies. |
 | [2158\.](%C2%A7%2002158%20-%20Protection%20of%20pets.md) | Protection of pets. |
-| (a) | Holding period. |
-| (b) | Certification. |
-| (c) | Enforcement. |
-| (d) | Regulation. |
 | [2159\.](%C2%A7%2002159%20-%20Authority%20to%20apply%20for%20injunctions.md) | Authority to apply for injunctions. |
-| (a) | Request. |
-| (b) | Issuance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

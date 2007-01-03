@@ -26,7 +26,7 @@ Contents of Study.—The study under this section shall address each of the foll
 
 “(c)
 
-Final Report.—Not later than 2 years after the date of enactment of this Act, the Attorney Generalshall submit to the Committees on the Judiciary of the House of Representatives and the Senate a final report of the study under this section, which report shall—
+Final Report.—Not later than 2 years after the date of enactment of this Act, the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a final report of the study under this section, which report shall—
 
 &emsp;“(1) set forth the findings, conclusions, and recommendations of the Council; and
 

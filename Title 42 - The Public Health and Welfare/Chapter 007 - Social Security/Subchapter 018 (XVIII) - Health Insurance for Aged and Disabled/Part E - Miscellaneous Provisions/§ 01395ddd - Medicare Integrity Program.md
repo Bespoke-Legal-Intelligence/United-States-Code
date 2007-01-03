@@ -18,6 +18,8 @@ The activities described in this subsection are as follows:
 
 &emsp;(5) Developing (and periodically updating) a list of items of durable medical equipment in accordance with section 1395m(a)(15) of this title which are subject to prior authorization under such section.
 
+&emsp;(6) The Medicare-Medicaid Data Match Program in accordance with subsection (g).
+
 #### (c) Eligibility of entities
 
 An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) of this section if—
@@ -194,13 +196,101 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;The Secretary shall establish a standard methodology for medicare contractors to use in selecting a sample of claims for review in the case of an abnormal billing pattern.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407.)
+#### (g) Medicare-Medicaid Data Match Program
+
+#### (1) Expansion of Program
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall enter into contracts with eligible entities for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the “Medi-Medi Program”) is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+
+&emsp;&emsp;&emsp;(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to look for payment anomalies (including billing or billing patterns identified with respect to service, time, or patient that appear to be suspect or otherwise implausible);
+
+&emsp;&emsp;&emsp;(ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter; and
+
+&emsp;&emsp;&emsp;(iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
+
+#### (B) Reporting requirements
+
+&emsp;&emsp;The Secretary shall make available in a timely manner any data and statistical information collected by the Medi-Medi Program to the Attorney General, the Director of the Federal Bureau of Investigation, the Inspector General of the Department of Health and Human Services, and the States (including a Medicaid fraud and abuse control unit described in section 1396b(q) of this title). Such information shall be disseminated no less frequently than quarterly.
+
+#### (2) Limited waiver authority
+
+&emsp;The Secretary shall waive only such requirements of this section and of subchapters XI and XIX as are necessary to carry out paragraph (1).
+
+#### (h) Use of recovery audit contractors
+
+#### (1) In general
+
+&emsp;Under the Program, the Secretary shall enter into contracts with recovery audit contractors in accordance with this subsection for the purpose of identifying underpayments and overpayments and recouping overpayments under this subchapter with respect to all services for which payment is made under part A or B. Under the contracts—
+
+&emsp;&emsp;(A) payment shall be made to such a contractor only from amounts recovered;
+
+&emsp;&emsp;(B) from such amounts recovered, payment—
+
+&emsp;&emsp;&emsp;(i) shall be made on a contingent basis for collecting overpayments; and
+
+&emsp;&emsp;&emsp;(ii) may be made in such amounts as the Secretary may specify for identifying underpayments; and
+
+&emsp;&emsp;(C) the Secretary shall retain a portion of the amounts recovered which shall be available to the program management account of the Centers for Medicare \& Medicaid Services for purposes of activities conducted under the recovery audit program under this subsection.
+
+#### (2) Disposition of remaining recoveries
+
+&emsp;The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary underparagraph (1)(C) shall be applied to reduce expenditures under parts A and B.
+
+#### (3) Nationwide coverage
+
+&emsp;The Secretary shall enter into contracts under paragraph (1) in a manner so as to provide for activities in all States under such a contract by not later than January 1, 2010.
+
+#### (4) Audit and recovery periods
+
+&emsp;Each such contract shall provide that audit and recovery activities may be conducted during a fiscal year with respect to payments made under part A or B—
+
+&emsp;&emsp;(A) during such fiscal year; and
+
+&emsp;&emsp;(B) retrospectively (for a period of not more than 4 fiscal years prior to such fiscal year).
+
+#### (5) Waiver
+
+&emsp;The Secretary shall waive such provisions of this subchapter as may be necessary to provide for payment of recovery audit contractors under this subsection in accordance with paragraph (1).
+
+#### (6) Qualifications of contractors
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may not enter into a contract under paragraph (1) with a recovery audit contractor unless the contractor has staff that has the appropriate clinical knowledge of, and experience with, the payment rules and regulations under this subchapter or the contractor has, or will contract with, another entity that has such knowledgeable and experienced staff.
+
+#### (B) Ineligibility of certain contractors
+
+&emsp;&emsp;The Secretary may not enter into a contract under paragraph (1) with a recovery audit contractor to the extent the contractor is a fiscal intermediary under section 1395h of this title, a carrier under section 1395u of this title, or a medicare administrative contractor under section 1395kk–1 of this title.
+
+#### (C) Preference for entities with demonstrated proficiency
+
+&emsp;&emsp;In awarding contracts to recovery audit contractors under paragraph (1), the Secretary shall give preference to those risk entities that the Secretary determines have demonstrated more than 3 years direct management experience and a proficiency for cost control or recovery audits with private insurers, health care providers, health plans, under the Medicaid program under subchapter XIX, or under this subchapter.
+
+#### (7) Construction relating to conduct of investigation of fraud
+
+&emsp;A recovery of an overpayment to a individual or entity by a recovery audit contractor under this subsection shall not be construed to prohibit the Secretary or the Attorney General from investigating and prosecuting, if appropriate, allegations of fraud or abuse arising from such overpayment.
+
+#### (8) Annual report
+
+&emsp;The Secretary shall annually submit to Congress a report on the use of recovery audit contractors under this subsection. Each such report shall include information on the performance of such contractors in identifying underpayments and overpayments and recouping overpayments, including an evaluation of the comparative performance of such contractors and savings to the program under this subchapter.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991.)
 
 #### References in Text
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
+Parts A and B, referred to in subsec. (h)(1), (2), (4), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
 #### Amendments
+
+2006—Subsec. (b)(6). Pub. L. 109–171, §6034(d)(1)(A), added par. (6).
+
+Subsec. (g). Pub. L. 109–171, §6034(d)(1)(B), added subsec. (g).
+
+Subsec. (h). Pub. L. 109–432 added subsec. (h).
 
 2003—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted “medicare program” for “Medicare program”.
 
@@ -241,4 +331,8 @@ Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act 
 “(8)
 
 Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[subsec. (f)(8) of this section\], as added by subsection (a).”
+
+#### Access to Coordination of Benefits Contractor Database
+
+Pub. L. 109–432, div. B, title III, §302(b), Dec. 20, 2006, 120 Stat. 2992, provided that: “The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act \[subsec. (h) of this section\], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare \& Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h).”
 

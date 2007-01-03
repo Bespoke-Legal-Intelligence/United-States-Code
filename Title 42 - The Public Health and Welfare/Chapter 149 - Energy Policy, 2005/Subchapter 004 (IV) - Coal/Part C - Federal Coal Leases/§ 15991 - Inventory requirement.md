@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of the Interior, in consultation with the Secretary of Agriculture and the Secretary, shall review coal assessments and other available data to identify—
+&emsp;The Secretary of the Interior, in consultation with the Secretary of Agriculture and theSecretary, shall review coal assessments and other available data to identify—
 
 &emsp;&emsp;(A) Federal lands with coal resources that are available for development;
 

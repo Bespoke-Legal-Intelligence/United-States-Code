@@ -50,7 +50,7 @@ Pub. L. 107–77, title III, §305, Nov. 28, 2001, 115 Stat. 783, provided in pa
 
 Pub. L. 106–553, §1(a)(2) \[title III, §309\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2001, to receive a salary adjustment in accordance with 28 U.S.C. 461, only if for the purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), adjustments under section 5303 of title 5, United States Code, shall take effect in fiscal year 2001”.
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §304\], Nov. 29, 1999, 113 Stat. 1535, 1501A–36, provided in part that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2000, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
+Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §304\], Nov. 29, 1999, 113 Stat. 1535, 1501A–36, provided in part that:“Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2000, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
 Pub. L. 105–119, title III, §306, Nov. 26, 1997, 111 Stat. 2493, provided in part that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], justices and judges of the United States are authorized during fiscal year 1998, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 

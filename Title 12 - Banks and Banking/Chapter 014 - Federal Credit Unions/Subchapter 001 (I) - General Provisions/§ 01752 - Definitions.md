@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;(4) the term “Board” means the National Credit Union Administration Board;
 
-&emsp;(5) The terms “member account” and “account” mean a share, share certificate, or share draft account account <sup>1</sup> of a member of a credit union of a type approved by the Board which evidences money or its equivalent received or held by a credit union in the usual course of business and for which it has given or is obligated to give credit to the account of the member, and, in the case of a credit union serving predominantly low-income members (as defined by the Board), such terms (when referring to the account of a nonmember served by such credit union) mean a share, share certificate, or share draft account account <sup>1</sup> of such nonmember which is of a type approved by the Board and evidences money or its equivalent received or held by such credit union in the usual course of business and for which it has given or is obligated to give credit to the account of such nonmember, and such terms mean share, share certificate, or share draft account accounts <sup>2</sup> of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof enumerated in section 1787 of this title, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title: <i>Provided</i>, That for purposes of insured State credit unions, reference in this paragraph to “share”, “share certificate”, or “share draft”, accounts includes, as determined by the Board, the equivalent of such accounts under State law;
+&emsp;(5) The terms “member account” and “account” mean a share, share certificate, or share draft account of a member of a credit union of a type approved by the Board which evidences money or its equivalent received or held by a credit union in the usual course of business and for which it has given or is obligated to give credit to the account of the member, and, in the case of a credit union serving predominantly low-income members (as defined by the Board), such terms (when referring to the account of a nonmember served by such credit union) mean a share, share certificate, or share draft account of such nonmember which is of a type approved by the Board and evidences money or its equivalent received or held by such credit union in the usual course of business and for which it has given or is obligated to give credit to the account of such nonmember, and such terms mean share, share certificate, or share draft account of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof enumerated in section 1787 of this title, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title: <i>Provided</i>, That for purposes of insured State credit unions, reference in this paragraph to “share”, “share certificate”, or “share draft”, accounts includes, as determined by the Board, the equivalent of such accounts under State law;
 
 &emsp;(6) The terms “State credit union” and “State-chartered credit union” mean a credit union organized and operated according to the laws of any State, the District of Columbia, the several territories and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, which laws provide for the organization of credit unions similar in principle and objectives to Federal credit unions;
 
@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(9) The term “branch” includes any branch credit union, branch office, branch agency, additional office, or any branch place of business located in any State of the United States, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, at which member accounts are established or money lent. The term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
-(June 26, 1934, ch. 750, title I, §101, formerly §2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, §1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, §101, and amended Pub. L. 91–468, §§1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, §308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, §103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, §501, Oct. 15, 1982, 96 Stat. 1528.)
+(June 26, 1934, ch. 750, title I, §101, formerly §2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, §1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, §101, and amended Pub. L. 91–468, §§1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, §308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, §103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, §501, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 109–351, title VII, §726(1), (2), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### References in Text
 
@@ -28,7 +28,11 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 #### Amendments
 
-1982—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loanssold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
+2006—Par. (3). Pub. L. 109–351, §726(1), struck out “and” after semicolon.
+
+Par. (5). Pub. L. 109–351, §726(2), substituted “share draft account” for “share draft account account” in two places and for “share draft account accounts” before “of nonmember”.
+
+1982—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
 
 1980—Par. (5). Pub. L. 96–221, §§305(a), 307, inserted provisions respecting applicability to share draft accounts substantially similar to provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 
@@ -75,12 +79,4 @@ Section 509 of title V of Pub. L. 95–630 provided that: “The amendments made
 #### Repeals
 
 Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section, was repealed at the close of Mar. 31, 1980, by section 307 of Pub. L. 96–221, and substantially identical provisions were enacted by section 305 of Pub. L. 96–221, such amendments to take effect at the close of Mar. 31, 1980.
-
-#### Transfer of Functions
-
-Transfer of functions of Farm Credit Administration and Governor thereof, see notes set out under section 1751 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “or share draft account”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “or share draft accounts”.</i>
 

@@ -10,7 +10,7 @@ All rights and privileges of the tribe and the members of the tribe under any Fe
 
 #### (c) Federal services and benefits
 
-Notwithstanding any other provision of law, the tribe and its members shall be eligible, on and after August 27, 1986, for all Federal services and benefits furnished to federally recognized Indian tribes or their members without regard to the existence of a reservation for the tribe. In the case of Federal services available to members of federally recognized Indian tribes residing on or near a reservation, members of the tribe residing in Klamath County shall be deemed to be residing in or near a reservation. Any member residing in Klamath County shall continue to be eligible to receive any such Federal service notwithstanding the establishment of a reservation for the tribe in the future. Notwithstanding any other provision of law, the tribe shall be considered an Indian tribe for the purpose of the “Indian Tribal Government Tax Status Act” (Sec. 7871, I.R.C. 1986).
+Notwithstanding any other provision of law, the tribe and its members shall be eligible, on and after August 27, 1986, for all Federal servicesand benefits furnished to federally recognized Indian tribes or their members without regard to the existence of a reservation for the tribe. In the case of Federal services available to members of federally recognized Indian tribes residing on or near a reservation, members of the tribe residing in Klamath County shall be deemed to be residing in or near a reservation. Any member residing in Klamath County shall continue to be eligible to receive any such Federal service notwithstanding the establishment of a reservation for the tribe in the future. Notwithstanding any other provision of law, the tribe shall be considered an Indian tribe for the purpose of the “Indian Tribal Government Tax Status Act” (Sec. 7871, I.R.C. 1986).
 
 #### (d) Certain rights not altered
 
@@ -24,7 +24,7 @@ This subchapter does not apply to the members of the Modoc Indian Tribe of Oklah
 
 #### References in Text
 
-Act approved August 13, 1954, referred to in subsec. (b), is act Aug. 13, 1954, ch. 732, 68 Stat. 718, as amended,which is classified generally to subchapter XIII (§564 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+Act approved August 13, 1954, referred to in subsec. (b), is act Aug. 13, 1954, ch. 732, 68 Stat. 718, as amended, which is classified generally to subchapter XIII (§564 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
 The Indian Tribal Government Tax Status Act (Sec. 7871, I.R.C. 1986), referred to in subsec. (c), probably means the Indian Tribal Governmental Tax Status Act of 1982, which is title II of Pub. L. 97–473, Jan. 14, 1983, 96 Stat. 2607, as amended, and is classified principally to subchapter C (§7871) of chapter 80 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under section 1 of Title 26 and Tables.
 

@@ -24,7 +24,3 @@ Section 3710 prohibits any vessels of the United States subject to this chapter 
 
 1996—Subsec. (b). Pub. L. 104–324 substituted “5 years” for “24 months”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3715 of this title.
-

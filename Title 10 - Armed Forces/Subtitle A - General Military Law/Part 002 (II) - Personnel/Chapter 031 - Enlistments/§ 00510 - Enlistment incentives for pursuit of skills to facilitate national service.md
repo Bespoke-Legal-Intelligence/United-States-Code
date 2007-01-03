@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “Secretary of a military department” includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333.)
+(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ A prior section 510 was renumbered section 12102 of this title.
 
 2006—Subsec. (c)(3)(D). Pub. L. 109–163, §545(a), substituted “in Americorps or another domestic national service program” for “in the Peace Corps, Americorps, or another national service program”.
 
-Subsec. (d). Pub. L. 109–163, §545(b), inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
+Subsec. (d). Pub. L. 109–163, §545(b), as amended by Pub. L. 109–364, inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
 
 Subsec. (h)(2). Pub. L. 109–163, §545(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -124,6 +124,10 @@ Subsec. (i). Pub. L. 109–163, §687(c)(1), amended heading and text of subsec.
 
 2003—Subsec. (j). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned.”
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title X, §1071(e), Oct. 17, 2006, 120 Stat. 2401, provided that the amendment made by section 1071(e)(2) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+
 #### Savings Provision
 
 Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: “In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section \[amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services\], such provision of law, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law.”
@@ -134,11 +138,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Commencement of Program
 
-Pub. L. 107–314, div. A, title V, §531(b), Dec. 2, 2002, 116 Stat. 2544, provided that: “The Secretary of Defense shall prescribe the date on which the program provided for \[sic\] section 510 of title 10, United States Code, as added by subsection (a), shall commence. Such date shall be not later than October 1, 2003.”
+Pub. L. 107–314, div. A, title V, §531(b), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to prescribe the date, not later than Oct. 1, 2003, on which the program provided for under this section was to commence.
 
 #### Implementation Report
 
-Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, provided that: “Not later than March 31, 2003, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the Secretary's plans for implementation of section 510 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
 
 #### Effectiveness Reports
 

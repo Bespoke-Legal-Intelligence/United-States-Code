@@ -2,7 +2,7 @@
 
 (a)
 
-Use of Federally Provided Resources.—In its status as a federally chartered nonprofit corporation, the Civil Air Patrol may use equipment, supplies, and other resources, including aircraft, motor vehicles, computers, and communications equipment, provided to the Civil Air Patrol by a department or agency of the Federal Government or acquired by or for the Civil Air Patrol with appropriated funds (or with funds of the Civil Air Patrol, but reimbursed from appropriated funds)—
+Use of Federally Provided Resources.—In its status as a federally chartered nonprofit corporation, the Civil Air Patrol may use equipment, supplies, and other resources, includingaircraft, motor vehicles, computers, and communications equipment, provided to the Civil Air Patrol by a department or agency of the Federal Government or acquired by or for the Civil Air Patrol with appropriated funds (or with funds of the Civil Air Patrol, but reimbursed from appropriated funds)—
 
 &emsp;(1) to provide assistance requested by State or local governmental authorities to perform disaster relief missions and activities, other emergency missions and activities, and nonemergency missions and activities; and
 

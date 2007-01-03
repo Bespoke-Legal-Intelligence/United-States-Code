@@ -22,7 +22,7 @@ There is hereby established a Federal Deposit Insurance Corporation (hereinafter
 
 #### Codification
 
-The Federal Deposit Insurance Corporation was originally created as a part of the Federal Reserve Act by act June 16, 1933, ch. 89, §8, 48 Stat. 168, which added section 12B to the Federal Reserve Act, act Dec. 23, 1913, ch. 6, 38 Stat. 103, and was classified to section 264 of this title. Act Dec. 23, 1913, ch. 6, §12B, as added June 16, 1933, ch. 89, §8, 48 Stat. 168 has been amended by acts June 16, 1934, ch. 546, §1(1)–(10), 48 Stat. 969, 970; June 28, 1935, ch. 335, 49 Stat. 435; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684; Apr. 21, 1936, ch. 244, 49 Stat. 1237; May 25, 1938, ch. 276, 52 Stat. 442; June 16, 1938, ch. 489, 52 Stat. 767; June 20, 1939, ch. 214, §2, 53 Stat. 842; Apr. 13, 1943, ch. 62, §1, 57 Stat. 65; Aug. 5, 1947, ch. 492, §§2, 4, 61 Stat. 773; June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948; Oct. 15, 1949, ch. 695, §4, 63 Stat. 880; Aug. 17, 1950, ch. 729, §§5–7, 64 Stat. 457.
+The Federal Deposit Insurance Corporation was originally created as a part of the Federal Reserve Act byact June 16, 1933, ch. 89, §8, 48 Stat. 168, which added section 12B to the Federal Reserve Act, act Dec. 23, 1913, ch. 6, 38 Stat. 103, and was classified to section 264 of this title. Act Dec. 23, 1913, ch. 6, §12B, as added June 16, 1933, ch. 89, §8, 48 Stat. 168 has been amended by acts June 16, 1934, ch. 546, §1(1)–(10), 48 Stat. 969, 970; June 28, 1935, ch. 335, 49 Stat. 435; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684; Apr. 21, 1936, ch. 244, 49 Stat. 1237; May 25, 1938, ch. 276, 52 Stat. 442; June 16, 1938, ch. 489, 52 Stat. 767; June 20, 1939, ch. 214, §2, 53 Stat. 842; Apr. 13, 1943, ch. 62, §1, 57 Stat. 65; Aug. 5, 1947, ch. 492, §§2, 4, 61 Stat. 773; June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948; Oct. 15, 1949, ch. 695, §4, 63 Stat. 880; Aug. 17, 1950, ch. 729, §§5–7, 64 Stat. 457.
 
 Section 12B of the Federal Reserve Act was withdrawn from the Federal Reserve Act and made a separate Act by section 1 of act Sept. 21, 1950, and set out as this chapter.
 
@@ -42,7 +42,11 @@ Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subs
 
 #### Short Title of 2006 Amendment
 
+Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Financial Services Regulatory Relief Act of 2006’.”
+
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Reform Conforming Amendments Act of 2005’.”
+
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: “This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831<i>o</i>, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the ‘Federal Deposit Insurance Reform Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -128,7 +132,7 @@ Section 1221 of Pub. L. 101–73 provided that: “If any provision of this Act 
 
 #### Construction of 1999 Amendments
 
-Pub. L. 106–102, title II, §210, Nov. 12, 1999, 113 Stat. 1396, provided that: “Nothing in this Act \[see ShortTitle of 1999 Amendment note above\] shall supersede, affect, or otherwise limit the scope and applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.).”
+Pub. L. 106–102, title II, §210, Nov. 12, 1999, 113 Stat. 1396, provided that: “Nothing in this Act \[see Short Title of 1999 Amendment note above\] shall supersede, affect, or otherwise limit the scope and applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.).”
 
 Pub. L. 106–102, title VII, §714, Nov. 12, 1999, 113 Stat. 1470, provided that: “Nothing in this Act \[see Short Title of 1999 Amendment note above\] shall be construed to repeal any provision of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\].”
 
@@ -164,7 +168,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) the Year 2000 computer problem poses a serious challenge to the American economy, including the Nation's banking and financial services industries;
 
-&emsp;“(2) thousands of banks, savings associations, and credit unions rely heavily on internal information technology and computer systems, as well as outside service providers, for mission-critical functions, such as check clearing, direct deposit, accounting, automated teller machine networks, credit card processing, and data exchanges with domestic and international borrowers, customers, and other financial institutions; and
+&emsp;“(2) thousands of banks, savings associations, and credit unions rely heavily on internal informationtechnology and computer systems, as well as outside service providers, for mission-critical functions, such as check clearing, direct deposit, accounting, automated teller machine networks, credit card processing, and data exchanges with domestic and international borrowers, customers, and other financial institutions; and
 
 &emsp;“(3) Federal financial regulatory agencies must have sufficient examination authority to ensure that the safety and soundness of the Nation's financial institutions will not be at risk.
 
@@ -238,7 +242,7 @@ Study.—
 
 &emsp;“(1)
 
-In general.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’) shall, after consultation with the Advisory Commission on Financial Services established under subsection (b), and consultation in accordance with paragraph (3), conduct a study of matters relating tothe strengths and weaknesses of the United States financial services system in meeting the needs of the system's users, including the needs of—
+In general.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’) shall, after consultation with the Advisory Commission on Financial Services established under subsection (b), and consultation in accordance with paragraph (3), conduct a study of matters relating to the strengths and weaknesses of the United States financial services system in meeting the needs of the system's users, including the needs of—
 
 &emsp;&emsp;“(A) individual consumers and households;
 
@@ -570,7 +574,7 @@ Section 1204 of Pub. L. 101–73 provided that:
 
 “(a)
 
-Consultation on Expanded Use.—The Secretary of the Treasury shall consult with the appropriate Federal banking agencies and the National Credit Union Administration Board on methods for increasing theuse of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
+Consultation on Expanded Use.—The Secretary of the Treasury shall consult with the appropriate Federal banking agencies and the National Credit Union Administration Board on methods for increasing the use of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
 
 “(b)
 

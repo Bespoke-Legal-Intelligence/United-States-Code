@@ -8,6 +8,10 @@ There is a Secretary of Veterans Affairs, who is the head of the Department and 
 
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(1).
 
+#### Notice to Congressional Veterans Committees of Certain Transfers of Funds
+
+Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: “To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives.”
+
 #### National Center on War-Related Illnesses and Post-Deployment Health Issues
 
 Pub. L. 105–368, title I, §103, Nov. 11, 1998, 112 Stat. 3322, provided that:
@@ -16,7 +20,7 @@ Pub. L. 105–368, title I, §103, Nov. 11, 1998, 112 Stat. 3322, provided that:
 
 Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences, or another appropriate independent organization, under which such entity shall assist in developing a plan for the establishment of a national center or national centers for the study of war-related illnesses and post-deployment health issues. The purposes of such a center may include—
 
-&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and preventionof war-related illnesses and post-deployment health issues; and
+&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and prevention of war-related illnesses and post-deployment health issues; and
 
 &emsp;“(2) promoting the development of appropriate health policies, including monitoring, medical recordkeeping, risk communication, and use of new technologies.
 

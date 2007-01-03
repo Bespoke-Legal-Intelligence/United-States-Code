@@ -18,13 +18,17 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;(C) pre-approval requirements;
 
-&emsp;(2) requirements that physicians and other health care professionals be licensed in the State in which they provide such services, ifthey have equivalent licensing in another State and are not affirmatively excluded from practice in that State or in any State a part of which is included in the emergency area;
+&emsp;(2) requirements that physicians and other health care professionals be licensed in the State in which they provide such services, if they have equivalent licensing in another State and are not affirmatively excluded from practice in that State or in any State a part of which is included in the emergency area;
 
 &emsp;(3) actions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for—
 
 &emsp;&emsp;(A) a transfer of an individual who has not been stabilized in violation of subsection (c) of such section if the transfer is necessitated by the circumstances of the declared emergency in the emergency area during the emergency period; or
 
-&emsp;&emsp;(B) the direction or relocation of an individual to receive medical screening in an alternate location pursuant to an appropriate State emergency preparedness plan;
+&emsp;&emsp;(B) the direction or relocation of an individual to receive medical screening in an alternative location—
+
+&emsp;&emsp;&emsp;(i) pursuant to an appropriate State emergency preparedness plan; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a public health emergency described in subsection (g)(1)(B) that involves a pandemic infectious disease, pursuant to a State pandemic preparedness plan or a plan referred to in clause (i), whichever is applicable in the State;
 
 &emsp;(4) sanctions under section 1395nn(g) of this title (relating to limitations on physician referral);
 
@@ -48,7 +52,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications.
 
-> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider.
+> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
 
 #### (c) Authority for retroactive waiver
 
@@ -80,7 +84,7 @@ The Secretary shall provide a certification and advance written notice to the Co
 
 &emsp;&emsp;(B) the termination of the applicable declaration of public health emergency described in subsection (g)(1)(B) of this section; or
 
-&emsp;&emsp;(C) subject to paragraph (2), the termination of a period of 60 days from the date the waiver or modification is first published (or, if applicable, the date of extension of the waiver or modification under paragraph (2)).
+&emsp;&emsp;(C) subject to paragraph (2), the termination of a period of 60 days from the datethe waiver or modification is first published (or, if applicable, the date of extension of the waiver or modification under paragraph (2)).
 
 #### (2) Extension of 60-day periods
 
@@ -88,7 +92,7 @@ The Secretary shall provide a certification and advance written notice to the Co
 
 #### (f) Report to Congress
 
-Within one year after the end of the emergency period in an emergency area in which the Secretary exercised the authority provided under this section, the Secretary shall report to the Congress regarding the approaches used toaccomplish the purposes described in subsection (a) of this section, including an evaluation of such approaches and recommendations for improved approaches should the need for such emergency authority arise in the future.
+Within one year after the end of the emergency period in an emergency area in which the Secretary exercised the authority provided under this section, the Secretary shall report to the Congress regarding the approaches used to accomplish the purposes described in subsection (a) of this section, including an evaluation of such approaches and recommendations for improved approaches should the need for such emergency authority arise in the future.
 
 #### (g) Definitions
 
@@ -106,7 +110,7 @@ For purposes of this section:
 
 &emsp;The term “health care provider” means any entity that furnishes health care items or services, and includes a hospital or other provider of services, a physician or other health care practitioner or professional, a health care facility, or a supplier of health care items or services.
 
-(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863.)
+(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863; Pub. L. 109–417, title III, §302(b)(1), Dec. 19, 2006, 120 Stat. 2855.)
 
 #### References in Text
 
@@ -124,6 +128,10 @@ A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as adde
 
 #### Amendments
 
+2006—Subsec. (b). Pub. L. 109–417, §302(b)(1)(B), (C), in concluding provisions, substituted “and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to” for “and shall be limited to” and inserted at end “If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.”
+
+Subsec. (b)(3)(B). Pub. L. 109–417, §302(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “the direction or relocation of an individual to receive medical screening in an alternate location pursuant to an appropriate State emergency preparedness plan;”.
+
 2004—Subsec. (b). Pub. L. 108–276, §9(5), inserted at end of concluding provisions: “A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider.”
 
 Subsec. (b)(3). Pub. L. 108–276, §9(1), added par. (3) and struck out former par. (3) which read as follows: “sanctions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for a transfer of an individual who has not been stabilized in violation of subsection (c) of this section of such section if the transfer arises out of the circumstances of the emergency;”.
@@ -133,6 +141,10 @@ Subsec. (b)(7). Pub. L. 108–276, §9(2)–(4), added par. (7).
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–417, title III, §302(b)(2), Dec. 19, 2006, 120 Stat. 2856, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2006\] and shall apply to public health emergencies declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) on or after such date.”
 
 #### Effective Date
 

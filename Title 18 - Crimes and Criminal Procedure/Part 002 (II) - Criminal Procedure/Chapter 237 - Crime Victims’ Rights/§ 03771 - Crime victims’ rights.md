@@ -22,7 +22,39 @@ Rights of Crime Victims.—A crime victim has the following rights:
 
 (b)
 
-Rights Afforded.—In any court proceeding involving an offense against a crime victim, the court shall ensure that the crime victim is afforded the rights described in subsection (a). Before making a determination described in subsection (a)(3), the court shall make every effort to permit the fullest attendance possible by the victim and shall consider reasonable alternatives to the exclusion of the victim from the criminal proceeding. The reasons for any decision denying relief under this chapter shall be clearly stated on the record.
+Rights Afforded.—
+
+&emsp;(1)
+
+In general.—In any court proceeding involving an offense against a crime victim, the court shall ensure that the crime victim is afforded the rights described in subsection (a). Before making a determination described in subsection (a)(3), the court shall make every effort to permit the fullest attendance possible by the victim and shall consider reasonable alternatives to the exclusion of the victim from the criminal proceeding. The reasons for any decision denying relief under this chapter shall be clearly stated on the record.
+
+&emsp;(2)
+
+Habeas corpus proceedings.—
+
+&emsp;&emsp;(A)
+
+In general.—In a Federal habeas corpus proceeding arising out of a State conviction, the court shall ensure that a crime victim is afforded the rights described in paragraphs (3), (4), (7), and (8) of subsection (a).
+
+&emsp;&emsp;(B)
+
+Enforcement.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—These rights may be enforced by the crime victim or the crime victim's lawful representative in the manner described in paragraphs (1) and (3) of subsection (d).
+
+&emsp;&emsp;&emsp;(ii)
+
+Multiple victims.—In a case involving multiple victims, subsection (d)(2) shall also apply.
+
+&emsp;&emsp;(C)
+
+Limitation.—This paragraph relates to the duties of a court in relation to the rights of a crime victim in Federal habeas corpus proceedings arising out of a State conviction, and does not give rise to any obligation or requirement applicable to personnel of any agency of the Executive Branch of the Federal Government.
+
+&emsp;&emsp;(D)
+
+Definition.—For purposes of this paragraph, the term “crime victim” means the person against whom the State offense is committed or, if that person is killed or incapacitated, that person's family member or other lawful representative.
 
 (c)
 
@@ -34,7 +66,7 @@ Government.—Officers and employees of the Department of Justice and other depa
 
 &emsp;(2)
 
-Advice of attorney.—The prosecutor shall advise the crime victim that the crimevictim can seek the advice of an attorney with respect to the rights described in subsection (a).
+Advice of attorney.—The prosecutor shall advise the crime victim that the crime victim can seek the advice of an attorney with respect to the rights described in subsection (a).
 
 &emsp;(3)
 
@@ -100,7 +132,7 @@ Contents.—The regulations promulgated under paragraph (1) shall—
 
 &emsp;&emsp;(D) provide that the Attorney General, or the designee of the Attorney General, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the Attorney General by a complainant.
 
-(Added Pub. L. 108–405, title I, §102(a), Oct. 30, 2004, 118 Stat. 2261.)
+(Added Pub. L. 108–405, title I, §102(a), Oct. 30, 2004, 118 Stat. 2261; amended Pub. L. 109–248, title II, §212, July 27, 2006, 120 Stat. 616.)
 
 #### References in Text
 
@@ -110,9 +142,13 @@ The date of enactment of this chapter, referred to in subsec. (f)(1), is the dat
 
 #### Prior Provisions
 
-A prior section 3771, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, §59, 63 Stat. 98; May 10, 1950, ch. 174, §1, 64 Stat. 158; July 7, 1958, Pub. L. 85–508,§12(k), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, §14(g), 73 Stat. 11; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(2), 82 Stat. 1115, related to procedure to and including verdict, prior to repeal by Pub. L. 100–702, title IV, §§404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
+A prior section 3771, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, §59, 63 Stat. 98; May 10, 1950, ch. 174, §1, 64 Stat. 158; July 7, 1958, Pub. L. 85–508, §12(k), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, §14(g), 73 Stat. 11; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(2), 82 Stat. 1115, related to procedure to and including verdict, prior to repeal by Pub. L. 100–702, title IV, §§404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
 
 A prior section 3772, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, §60, 63 Stat. 98; July 7, 1958, Pub. L. 85–508, §12(<i>l</i>), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, §14(h), 73 Stat. 11; Oct. 12, 1984, Pub. L. 98–473, title II, §206, 98 Stat. 1986, related to procedure after verdict, prior to repeal by Pub. L. 100–702, title IV, §§404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–248 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### Short Title of 2004 Amendment
 

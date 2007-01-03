@@ -20,7 +20,7 @@ Notwithstanding subsections (a)(4), (a)(5), (b)(2), (b)(4), and (<i>o</i>) of se
 
 &emsp;&emsp;&emsp;(i) a facility owned or operated by a licensee or certificate holder of the Commission that is designated by the Commission; or
 
-&emsp;&emsp;&emsp;(ii) radioactive material or other property owned or possessed by a licensee or certificate holder of the Commission, or that is being transported to or from a facility owned or operated by such a licensee or certificate holder, and that has been determined by the Commission to be of significance to the common defense and security or public health and safety; and
+&emsp;&emsp;&emsp;(ii) radioactive material or other property owned or possessed by a licensee or certificate holder of the Commission, orthat is being transported to or from a facility owned or operated by such a licensee or certificate holder, and that has been determined by the Commission to be of significance to the common defense and security or public health and safety; and
 
 &emsp;&emsp;(D) are discharging the official duties of the security personnel in transferring, receiving, possessing, transporting, or importing the weapons, ammunition, or devices.
 

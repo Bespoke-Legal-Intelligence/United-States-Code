@@ -8,7 +8,7 @@
 
 &emsp;(3) until the terms and conditions of such donation or cooperative agreement have been forwarded to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives at least sixty days prior to being executed.
 
-> The exact boundaries of the park shall be established, published, and otherwise publicized within eighteen months after January 8, 1971, and the owners of property other than propertylying between the canal and the Potomac River shall be notified within said period as to the extent of their property included in the park.
+> The exact boundaries of the park shall be established, published, and otherwise publicized within eighteen months after January 8, 1971, and the owners of property other than property lying between the canal and the Potomac River shall be notified within said period as to the extent of their property included in the park.
 
 (b) Within the boundaries of the park, the Secretary is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, or exchange, but he shall refrain from acquiring, for two years from January 8, 1971, any lands designated on the boundary map for acquisition by any State if he has negotiated and consummated a written cooperative agreement with such State pursuant to subsection (a) of this section.
 

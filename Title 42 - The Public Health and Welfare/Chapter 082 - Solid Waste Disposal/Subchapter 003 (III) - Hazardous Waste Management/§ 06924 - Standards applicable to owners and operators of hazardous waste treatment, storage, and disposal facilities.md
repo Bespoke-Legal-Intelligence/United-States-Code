@@ -8,7 +8,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(2) satisfactory reporting, monitoring, and inspection and compliance with the manifest system referred to in section 6922(5) <sup>1</sup> of this title;
 
-&emsp;(3) treatment, storage, or disposal of all such waste received by the facility pursuant to such operating methods, techniques, and practices as may be satisfactory to the Administrator;
+&emsp;(3) treatment, storage, or disposal of all such waste received by the facility pursuant to suchoperating methods, techniques, and practices as may be satisfactory to the Administrator;
 
 &emsp;(4) the location, design, and construction of such hazardous waste treatment, disposal, or storage facilities;
 
@@ -60,7 +60,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 #### (d) Prohibitions on land disposal of specified wastes
 
-(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account—
+(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order toprotect human health and the environment for as long as the waste remains hazardous, taking into account—
 
 &emsp;(A) the long-term uncertainties associated with land disposal,
 
@@ -186,7 +186,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (2) The Administrator may establish an effective date different from the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section with respect to a specific hazardous waste which is subject to a prohibition under subsection (d), (e), (f), or (g) of this section or under regulations under subsection (d), (e), (f), or (g) of this section. Any such other effective date shall be established on the basis of the earliest date on which adequate alternative treatment, recovery, or disposal capacity which protects human health and the environment will be available. Any such other effective date shall in no event be later than 2 years after the effective date of the prohibition which would otherwise apply under subsection (d), (e), (f), or (g) of this section.
 
-(3) The Administrator, after notice and opportunity for comment and after consultation withappropriate State agencies in all affected States, may on a case-by-case basis grant an extension of the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section or under paragraph (2) for up to one year, where the applicant demonstrates that there is a binding contractual commitment to construct or otherwise provide such alternative capacity but due to circumstances beyond the control of such applicant such alternative capacity cannot reasonably be made available by such effective date. Such extension shall be renewable once for no more than one additional year.
+(3) The Administrator, after notice and opportunity for comment and after consultation with appropriate State agencies in all affected States, may on a case-by-case basis grant an extension of the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section or under paragraph (2) for up to one year, where the applicant demonstrates that there is a binding contractual commitment to construct or otherwise provide such alternative capacity but due to circumstances beyond the control of such applicant such alternative capacity cannot reasonably be made available by such effective date. Such extension shall be renewable once for no more than one additional year.
 
 (4) Whenever another effective date (hereinafter referred to as a “variance”) is established under paragraph (2), or an extension is granted under paragraph (3), with respect to any hazardous waste, during the period for which such variance or extension is in effect, such hazardous waste may be disposed of in a landfill or surface impoundment only if such facility is in compliance with the requirements of subsection (<i>o</i>) of this section.
 
@@ -230,7 +230,7 @@ Not later than thirty months after November 8, 1984, the Administrator shall pro
 
 > The requirements of this paragraph shall apply with respect to all waste received after the issuance of the permit.
 
-(2) Paragraph (1)(A)(i) shall not apply if the owner or operator demonstrates to the Administrator, and the Administrator finds for such landfill or surface impoundment, that alternative design and operating practices, together with location characteristics, will prevent themigration of any hazardous constituents into the ground water or surface water at least as effectively as such liners and leachate collection systems.
+(2) Paragraph (1)(A)(i) shall not apply if the owner or operator demonstrates to the Administrator, and the Administrator finds for such landfill or surface impoundment, that alternative design and operating practices, together with location characteristics, will prevent the migration of any hazardous constituents into the ground water or surface water at least as effectively as such liners and leachate collection systems.
 
 (3) The double-liner requirement set forth in paragraph (1)(A)(i) may be waived by the Administrator for any monofill, if—
 
@@ -240,7 +240,7 @@ Not later than thirty months after November 8, 1984, the Administrator shall pro
 
 &emsp;(C) such monofill meets the same requirements as are applicable in the case of a waiver under section 6925(j)(2) or (4) of this title.
 
-(4)(A) Not later than thirty months after November 8, 1984, the Administrator shall promulgate standards requiring that new landfill units, surface impoundment units, waste piles, underground tanks and land treatment units for the storage, treatment, or disposal of hazardous waste identified or listed under section 6921 of this title shall be required to utilize approved leak detection systems.
+(4)(A) Not later than thirty months after November 8, 1984, the Administrator shall promulgate standards requiring that new landfill units, surface impoundment units, waste piles, underground tanks and land treatment units for the storage, treatment, or disposal of hazardous waste identified or listed under section 6921 ofthis title shall be required to utilize approved leak detection systems.
 
 (B) For the purposes of subparagraph (A)—
 
@@ -286,7 +286,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 (2)(A) This subsection, subsection (r) of this section, and subsection (s) of this section shall not apply to petroleum refinery wastes containing oil which are converted into petroleum coke at the same facility at which such wastes were generated, unless the resulting coke product would exceed one or more characteristics by which a substance would be identified as a hazardous waste under section 6921 of this title.
 
-(B) The Administrator may exempt from the requirements of this subsection, subsection (r) of this section, or subsection (s) of this section facilities which burn de minimis quantities of hazardous waste as fuel, as defined by the Administrator, if the wastes are burned at the same facility at which such wastes are generated; the waste is burned to recover useful energy, as determined by the Administrator on the basis of the design and operating characteristics of the facility and the heating value and other characteristics of the waste; and the waste is burned in a type of device determined by the Administrator to be designed and operated at a destruction and removal efficiency sufficient such that protection of human health and environment is assured.
+(B) The Administrator may exempt from the requirements of this subsection, subsection (r)of this section, or subsection (s) of this section facilities which burn de minimis quantities of hazardous waste as fuel, as defined by the Administrator, if the wastes are burned at the same facility at which such wastes are generated; the waste is burned to recover useful energy, as determined by the Administrator on the basis of the design and operating characteristics of the facility and the heating value and other characteristics of the waste; and the waste is burned in a type of device determined by the Administrator to be designed and operated at a destruction and removal efficiency sufficient such that protection of human health and environment is assured.
 
 (C)(i) After November 8, 1984, and until standards are promulgated and in effect under paragraph (2) of this subsection, no fuel which contains any hazardous waste may be burned in any cement kiln which is located within the boundaries of any incorporated municipality with a population greater than five hundred thousand (based on the most recent census statistics) unless such kiln fully complies with regulations (as in effect on November 8, 1984) under this subchapter which are applicable to incinerators.
 
@@ -320,9 +320,9 @@ Not later than fifteen months after November 8, 1984, the Administrator shall pr
 
 (1) Financial responsibility required by subsection (a) of this section may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, surety bond, letter of credit, or qualification as a self-insurer. In promulgating requirements under this section, the Administrator is authorized to specify policy or other contractual terms, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this chapter.
 
-(2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where (with reasonable diligence) jurisdiction in any State court or any Federal Court cannot be obtained over an owner or operator likely to besolvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this section may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this subsection, such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
+(2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where (with reasonable diligence) jurisdiction in any State court or any Federal Court cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this section may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this subsection, such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
-(3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this chapter. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
+(3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this chapter. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of suchguarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
 (4) For the purpose of this subsection, the term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this section.
 
@@ -358,7 +358,7 @@ If (1) solid waste from the extraction, beneficiation or processing of ores and 
 
 #### References in Text
 
-Section 6922(5) of this title, referred to in subsec. (a)(2), was redesignated section 6922(a)(5) of this title,by Pub. L. 98–616, title II, §224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
+Section 6922(5) of this title, referred to in subsec. (a)(2), was redesignated section 6922(a)(5) of this title, by Pub. L. 98–616, title II, §224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
 
 The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under section 201 of this title and Tables.
 

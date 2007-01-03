@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may make a grant in a fiscal year to an entity or State that shares a land border with another country for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
+General Authority.—The Secretary of Transportation may make a grant in a fiscalyear to an entity or State that shares a land border with another country for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
 
 (b)
 

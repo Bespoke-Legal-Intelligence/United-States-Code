@@ -44,7 +44,7 @@
 
 &emsp;(2) such further sums as may be necessary in each of the fiscal years ending September 30, 1984, and September 30, 1985, for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
 
-> The funds authorized under this subsection shall be in addition to funds authorized in any other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
+> The funds authorized under this subsection shall be in addition to funds authorized in any otherlaw for research and development at the Fire Research Center of the National Institute of Standards and Technology.
 
 (f) Except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, to carry out the purposes of this chapter, there are authorized to be appropriated $22,037,000 for the fiscal year ending September 30, 1986 and $18,300,000 for the fiscal year ending September 30, 1987.
 
@@ -118,9 +118,11 @@ Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department ofHomeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

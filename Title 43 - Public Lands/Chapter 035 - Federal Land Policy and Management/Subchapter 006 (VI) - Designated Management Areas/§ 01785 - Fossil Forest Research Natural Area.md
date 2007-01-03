@@ -36,7 +36,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (A) Withdrawal
 
-&emsp;&emsp;Subject to valid existing rights, the lands within the Area are withdrawn from all forms of appropriation under the mininglaws and from disposition under all laws pertaining to mineral leasing, geothermal leasing, and mineral material sales.
+&emsp;&emsp;Subject to valid existing rights, the lands within the Area are withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing, geothermal leasing, and mineral material sales.
 
 #### (B) Coal preference rights
 
@@ -98,7 +98,7 @@ Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1
 
 2000—Subsec. (b)(1). Pub. L. 106–176, §124(1), substituted “Committee on Resources” for “Committee on Natural Resources”.
 
-Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making the substitution following “consistent with”, to reflect the probable intent of Congress.
+Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making thesubstitution following “consistent with”, to reflect the probable intent of Congress.
 
 Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Committee on Natural Resources”.
 

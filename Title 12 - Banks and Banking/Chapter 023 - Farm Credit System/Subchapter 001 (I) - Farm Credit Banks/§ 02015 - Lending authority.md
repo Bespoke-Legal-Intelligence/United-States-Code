@@ -44,7 +44,7 @@
 
 #### (B) Requirement of regulations
 
-&emsp;&emsp;The regulations shall assure that such loans, financial assistance, discounts, and purchases are available on a reasonable basisto any financing institution authorized to receive such services under paragraph (1)(B) of this subsection, and that—
+&emsp;&emsp;The regulations shall assure that such loans, financial assistance, discounts, and purchases are available on a reasonable basis to any financing institution authorized to receive such services under paragraph (1)(B) of this subsection, and that—
 
 &emsp;&emsp;&emsp;(i) is significantly involved in lending for agricultural or aquatic purposes;
 

@@ -10,7 +10,7 @@ Each State application submitted under subsection (a) of this section shall incl
 
 &emsp;(1) An outline of the State educational agency's long-term strategies for improving student academic achievement, including technology literacy, through the effective use of technology in classrooms throughout the State, including through improving the capacity of teachers to integrate technology effectively into curricula and instruction.
 
-&emsp;(2) A description of the State educational agency's goals for using advanced technology to improve student academic achievement, and how those goals are aligned with challenging State academic content and student academic achievement standards.
+&emsp;(2) A description of the State educational agency's goals for using advanced technologyto improve student academic achievement, and how those goals are aligned with challenging State academic content and student academic achievement standards.
 
 &emsp;(3) A description of how the State educational agency will take steps to ensure that all students and teachers in the State, particularly students and teachers in districts served by high-need local educational agencies, have increased access to technology.
 

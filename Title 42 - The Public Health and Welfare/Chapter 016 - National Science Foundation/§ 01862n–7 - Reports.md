@@ -46,7 +46,7 @@ Not later than 3 months after December 19, 2002, the Director shall enter into a
 
 #### (2) Report on ways to improve funding
 
-&emsp;Within one year after December 19, 2002, the Director shall submit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate a report on recommendations on how the Foundation can improve funding to minority-serving institutions.
+&emsp;Within one year after December 19, 2002, the Director shall submit to the Committee on Science of the House of Representatives, theCommittee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate a report on recommendations on how the Foundation can improve funding to minority-serving institutions.
 
 (Pub. L. 107–368, §18, Dec. 19, 2002, 116 Stat. 3061.)
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 18, 1958, Pub. L. 85–530, §17, 72 Stat. 374.
 
-The words “sole”, “or refuse”, and “and such emblems, seals, and badges as have heretofore been used by the Ohio corporation described in section 778 of this title” are omitted as unnecessary. The words “and the right to which may be lawfully transferred to the corporation” are omitted as executed.
+The words “sole”, “or refuse”, and “and such emblems, seals, and badges as have heretofore been usedby the Ohio corporation described in section 778 of this title” are omitted as unnecessary. The words “and the right to which may be lawfully transferred to the corporation” are omitted as executed.
 

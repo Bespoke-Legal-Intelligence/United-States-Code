@@ -1,6 +1,6 @@
 ### §11406a. Housing assistance
 
-Assistance under this subpart shall be provided pursuant to a contract between the recipient and a private nonprofit sponsor that owns or leases dwelling units. The contract shall provide that rental assistance payments shall be madeto the sponsor and that such assisted units shall be occupied by eligible persons.
+Assistance under this subpart shall be provided pursuant to a contract between the recipient and a private nonprofit sponsor that owns or leases dwelling units. The contract shall provide that rental assistance payments shall be made to the sponsor and that such assisted units shall be occupied by eligible persons.
 
 (Pub. L. 100–77, title IV, §482, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032.)
 

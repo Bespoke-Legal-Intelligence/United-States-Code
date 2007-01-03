@@ -2,7 +2,7 @@
 
 #### (a) Appraisal
 
-Upon receiving notice of intent regarding an eligible low-income housing project indicating an intent to extend the low-income affordability restrictions under section 4109 of this title or transfer the housing under section 4110 of thistitle, the Secretary shall provide for determination of the preservation value of the housing, as follows:
+Upon receiving notice of intent regarding an eligible low-income housing project indicating an intent to extend the low-income affordability restrictions under section 4109 of this title or transfer the housing under section 4110 of this title, the Secretary shall provide for determination of the preservation value of the housing, as follows:
 
 #### (1) Appraisers
 

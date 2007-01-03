@@ -6,7 +6,7 @@
 
 (B) Within level AL–3, there shall be 6 rates of basic pay, designated as AL–3, rates A through F, respectively. Level AL–2 and level AL–1 shall each have 1 rate of basic pay.
 
-(C) The rate of basic pay for AL–3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule, and the rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.
+(C) The rate of basic pay for AL–3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule, andthe rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.
 
 (2) The Office of Personnel Management shall determine, in accordance with procedures which the Office shall by regulation prescribe, the level in which each administrative-law-judge position shall be placed and the qualifications to be required for appointment to each level.
 
@@ -81,7 +81,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub.L. 95–454, set out as a note under section 1101 of this title.
+Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
 #### Conversion Rule for Administrative Law Judges
 

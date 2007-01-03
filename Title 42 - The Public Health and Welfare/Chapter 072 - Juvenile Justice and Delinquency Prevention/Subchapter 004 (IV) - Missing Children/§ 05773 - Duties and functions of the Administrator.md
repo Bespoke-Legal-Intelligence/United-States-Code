@@ -60,7 +60,7 @@ The Administrator shall—
 
 &emsp;&emsp;(E) disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;
 
-&emsp;&emsp;(F) provide technical assistance and training to law enforcement agencies, State andlocal governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
+&emsp;&emsp;(F) provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
 
 &emsp;&emsp;(G) provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and internationally; and
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal ofannual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “case.”</i>
 

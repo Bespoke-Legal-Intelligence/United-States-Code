@@ -80,5 +80,5 @@ Effective date.—This subsection shall be effective on and after the terminatio
 
 “(c)
 
-Oversight of Close-Out Activities.—The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the FederalGovernment to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
+Oversight of Close-Out Activities.—The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the Federal Government to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
 

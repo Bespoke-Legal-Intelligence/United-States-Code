@@ -20,7 +20,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) any agency, instrumentality, or administrative unit of a foreign country which—
 
-&emsp;&emsp;&emsp;(i) purchases goods or services in international trade for any purpose other than the use of such goods or services by suchagency, instrumentality, administrative unit, or foreign country, or
+&emsp;&emsp;&emsp;(i) purchases goods or services in international trade for any purpose other than the use of such goods or services by such agency, instrumentality, administrative unit, or foreign country, or
 
 &emsp;&emsp;&emsp;(ii) sells goods or services in international trade; or
 
@@ -30,7 +30,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) is granted (formally or informally) any special or exclusive privilege by such foreign country, agency, instrumentality, or administrative unit, and
 
-&emsp;&emsp;&emsp;(iii) purchases goods or services in international trade for any purpose other than the use of such goods or services by such foreign country, agency, instrumentality, or administrative unit, or which sells goods or services in international trade.
+&emsp;&emsp;&emsp;(iii) purchases goods or services in international trade for any purpose other thanthe use of such goods or services by such foreign country, agency, instrumentality, or administrative unit, or which sells goods or services in international trade.
 
 (Pub. L. 100–418, title I, §1107, Aug. 23, 1988, 102 Stat. 1134; Pub. L. 103–465, title VI, §621(a)(5), Dec. 8, 1994, 108 Stat. 4993.)
 

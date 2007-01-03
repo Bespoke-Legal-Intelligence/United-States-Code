@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1988—Pub. L. 100–424 amended section generally, in subsec. (a) substituting provisions which related to uninspected fish processing vessel entered into service after Dec. 31, 1987, having more than 16 individuals onboard primarily employed in preparation of fish on navigable waters of United States or owned in United States and operating on high seas, for provisions which related to uninspected fishing vessel, fish processing vessel, or fish tender vessel, and in subsec. (b) substituting “carriage of bulk” for “carriage of liquid bulk”.
+1988—Pub. L. 100–424 amended section generally, in subsec. (a) substituting provisions which related to uninspected fish processing vessel entered into service after Dec. 31, 1987, having more than 16 individuals on board primarily employed in preparation of fish on navigable waters of United States or owned in United States and operating on high seas, for provisions which related to uninspected fishing vessel, fish processing vessel, or fish tender vessel, and in subsec. (b) substituting “carriage of bulk” for “carriage of liquid bulk”.
 
 #### Foreign Built Vessels, Equivalent Compliance Until July 28, 1990
 
-Section 7 of Pub. L. 100–424 provided that: “Until July 28, 1990, a foreign built fish processing vessel subject to chapter 45 of title 46, United States Code, is deemed to comply with the requirements of that chapter if—
+Pub. L. 100–424, §7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until July 28, 1990, a foreign built fish processing vessel subject to chapter 45 of title 46, United States Code, is deemed to comply with the requirements of that chapter if—
 
 &emsp;“(1) it has an unexpired certificate of inspection issued by a foreign country that is a party to an International Convention for Safety of Life at Sea to which the United States Government is a party; and
 

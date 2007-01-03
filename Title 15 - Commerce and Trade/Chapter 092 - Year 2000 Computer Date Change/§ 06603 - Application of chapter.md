@@ -160,5 +160,5 @@ In any Y2K action in which the underlying claim arises under the securities laws
 
 #### References in Text
 
-The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (f), is Pub. L. 105–271, Oct. 19,1998, 112 Stat. 2386, which is set out as a note under section 1 of this title.
+The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (f), is Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, which was formerly set out as a note under section 1 of this title.
 

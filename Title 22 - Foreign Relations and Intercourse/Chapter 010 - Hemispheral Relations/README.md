@@ -16,8 +16,6 @@
 |  |  |
 | :--- | ---: |
 | [521\.](Subchapter%20002%20%28II%29%20-%20War%20Materials/%C2%A7%2000521%20-%20Military%20and%20naval%20assistance%20to%20governments%20of%20American%20Republics.md) | Military and naval assistance to governments of American Republics. |
-| (a) | Coast-defense and antiaircraft mate�AE1riel; ammunition. |
-| (b) | Vessels of war; armament, artillery, equipment, and ammunition. |
 | [522\.](Subchapter%20002%20%28II%29%20-%20War%20Materials/%C2%A7%2000522%20-%20Transmission%20of%20information%20pertaining%20to%20implements%20of%20war%2C%20vessels%2C%20etc.md) | Transmission of information pertaining to implements of war, vessels, etc. |
 | [523\.](Subchapter%20002%20%28II%29%20-%20War%20Materials/%C2%A7%2000523%20-%20Restriction%20in%20contracts%20against%20disposal%20of%20implements%20of%20war%2C%20vessels%2C%20etc.%2C%20or%20information.md) | Restriction in contracts against disposal of implements of war, vessels, etc., or information. |
 | [524\.](Subchapter%20002%20%28II%29%20-%20War%20Materials/%C2%A7%2000524%20-%20Information%20on%20shipments%20to%20be%20given%20Chairman%20of%20National%20Munitions%20Control%20Board.md) | Information on shipments to be given Chairman of National Munitions Control Board. |

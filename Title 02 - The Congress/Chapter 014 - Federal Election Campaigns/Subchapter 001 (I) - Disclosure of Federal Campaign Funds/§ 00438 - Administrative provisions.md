@@ -74,7 +74,7 @@ Another prior section 311 of Pub. L. 92–225 was renumbered section 320, and wa
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–252 inserted “and” at end of par. (8), substituted a period for “; and” at end of par. (9), and struck out par. (10) and concluding sentences which read as follows: “serve as a national clearinghouse for the compilation of information and review of procedures with respect to the administration of Federal elections. The Commission may enter into contracts for the purpose of conducting studies under this paragraph. Reports or studies made under this paragraph shall be available to the public upon the payment of the cost thereof, except that copies shall be made available without cost, upon request, to agencies and branches of the Federal Government.”
+2002—Subsec. (a). Pub. L. 107–252 inserted “and” at end of par. (8), substituted a period for “; and” at end of par. (9), and struck out par. (10) and concluding sentences which read as follows: “serve as a national clearinghouse for the compilation of information and review of procedures with respect to the administration of Federal elections. The Commission may enter into contracts for the purpose of conducting studies under this paragraph. Reports or studies made under this paragraph shall be available to the public upon the payment of the cost thereof, except that copies shall be madeavailable without cost, upon request, to agencies and branches of the Federal Government.”
 
 1995—Subsec. (a)(4). Pub. L. 104–79 substituted “Secretary” for “Clerk, Secretary,”.
 

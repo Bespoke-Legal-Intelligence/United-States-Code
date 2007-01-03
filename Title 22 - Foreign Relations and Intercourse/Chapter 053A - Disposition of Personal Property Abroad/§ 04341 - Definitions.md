@@ -6,7 +6,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) an employee as defined by section 2105 of title 5;
 
-&emsp;&emsp;(B) an officer or employee of the United States Postal Service or of the Postal Rate Commission;
+&emsp;&emsp;(B) an officer or employee of the United States Postal Service or of the Postal Regulatory Commission;
 
 &emsp;&emsp;(C) a member of a uniformed service who is not under the command of an area military commander; or
 
@@ -30,7 +30,11 @@ For purposes of this chapter, the following terms have the following meanings:
 
 &emsp;(7) The term “profit” means any proceeds (including cash and other valuable consideration but not including amounts of such proceeds given as charitable contributions) for the sale, disposition, or assignment of personal property in excess of the basis for such property. For purposes of this chapter, basis shall include initial price, inland and overseas transportation costs (if not reimbursed by the United States Government), shipping insurance, taxes, customs fees, duties or other charges, and capital improvements, but shall not include insurance on an item while in use, or maintenance and related costs. For purposes of computing profit, proceeds and costs shall be valued in United States dollars at the time of receipt or payment, at a rate of exchange as determined by regulation or policy issued pursuant to section 4343 of this title.
 
-(Aug. 1, 1956, ch. 841, title III, §301, as added Pub. L. 100–204, title I, §186(a), Dec. 22, 1987, 101 Stat. 1366.)
+(Aug. 1, 1956, ch. 841, title III, §301, as added Pub. L. 100–204, title I, §186(a), Dec. 22, 1987, 101 Stat. 1366; amended Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+
+#### Amendments
+
+2006—Par. (1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 #### Effective Date
 

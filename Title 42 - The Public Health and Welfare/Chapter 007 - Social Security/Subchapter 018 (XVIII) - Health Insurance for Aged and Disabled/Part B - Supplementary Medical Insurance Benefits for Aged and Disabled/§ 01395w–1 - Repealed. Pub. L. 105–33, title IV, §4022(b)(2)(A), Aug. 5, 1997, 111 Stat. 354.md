@@ -4,5 +4,5 @@ Section, act Aug. 14, 1935, ch. 531, title XVIII, §1845, as added and amended A
 
 #### Effective Date of Repeal
 
-Repeal effective Nov. 1, 1997, the date of termination of the Prospective Payment Assessment Commission and the Physician Payment Review Commission, see section 4022(c)(2) of Pub. L. 105–33 set out as an Effective Date; Transition; Transfer of Functions note under section 1395b–6 of this title.
+Repeal effective Nov. 1, 1997, the date of termination of the Prospective Payment Assessment Commissionand the Physician Payment Review Commission, see section 4022(c)(2) of Pub. L. 105–33 set out as an Effective Date; Transition; Transfer of Functions note under section 1395b–6 of this title.
 

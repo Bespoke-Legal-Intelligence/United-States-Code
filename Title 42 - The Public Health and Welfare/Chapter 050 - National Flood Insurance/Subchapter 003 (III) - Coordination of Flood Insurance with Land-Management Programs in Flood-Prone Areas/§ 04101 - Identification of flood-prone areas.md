@@ -2,7 +2,7 @@
 
 #### (a) Publication of information; establishment of flood-risk zones; estimates of flood-caused loss
 
-The Director is authorized to consult with, receive information from, and enter into any agreements or other arrangements with the Secretaries of the Army, the Interior, Agriculture, and Commerce, the Tennessee Valley Authority, and the heads of other Federal departments or agencies, on a reimbursement basis, or with the head of any State or local agency, or enter into contracts with any persons or private firms, in order that he may—
+The Director is authorized to consult with, receive information from, and enter into any agreements or other arrangements with the Secretaries of the Army, the Interior, Agriculture, and Commerce, the Tennessee Valley Authority, and the heads of other Federal departments or agencies, on a reimbursement basis, or with thehead of any State or local agency, or enter into contracts with any persons or private firms, in order that he may—
 
 &emsp;(1) identify and publish information with respect to all flood plain areas, including coastal areas located in the United States, which has special flood hazards, within five years following August 1, 1968, and
 
@@ -52,7 +52,7 @@ In the implementation of revisions to and updates of flood insurance rate maps, 
 
 #### References in Text
 
-This chapter, referred to in subsec. (g), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, known as the National Flood Insurance Act of 1968, which enacted this chapter, amended section 2414 of this title, repealed sections 2401 to 2413 and 2415 to 2421 of this title, and enacted provisions set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
@@ -102,7 +102,9 @@ Subsec. (d). Pub. L. 98–181, §451(d)(7), added subsec. (d).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Geospatial Digital Flood Hazard Data
 
@@ -110,101 +112,9 @@ Pub. L. 108–264, title I, §107, June 30, 2004, 118 Stat. 724, provided that: 
 
 #### Reiteration of FEMA Responsibility to Map Mudslides
 
-Pub. L. 108–264, title I, §109, June 30, 2004, 118 Stat. 725, provided that: “As directed in section 1360(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4101(b)), the Director of the Federal Emergency Management Agency is again directed to accelerate the identification of risk zones within flood-prone and mudslide-prone areas, as provided by subsection (a)(2) of such section 1360, in order to make known the degree of hazard within each such zone at the earliest possible date.”
+Pub. L. 108–264, title I, §109, June 30, 2004, 118 Stat. 725, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: “As directed in section 1360(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4101(b)), the Administrator of the Federal Emergency Management Agency is again directed to accelerate the identification of risk zones within flood-prone and mudslide-prone areas, as provided by subsection (a)(2) of such section 1360, in order to make known the degree of hazard within each such zone at the earliest possible date.”
 
 #### Technical Mapping Advisory Council
 
-Section 576 of Pub. L. 103–325 provided that:
-
-“(a)
-
-Establishment.—There is established a council to be known as the Technical Mapping Advisory Council (in this section referred to as the ‘Council’).
-
-“(b)
-
-Membership.—
-
-&emsp;“(1)
-
-In general.—The Council shall consist of the Director of the Federal Emergency Management Agency (in this section referred to as the “Director”), or the Director's designee, and 10 additional members to be appointed by the Director or the designee of the Director, who shall be—
-
-&emsp;&emsp;“(A) the Under Secretary of Commerce for Oceans and Atmosphere (or his or her designee);
-
-&emsp;&emsp;“(B) a member of recognized surveying and mapping professional associations and organizations;
-
-&emsp;&emsp;“(C) a member of recognized professional engineering associations and organizations;
-
-&emsp;&emsp;“(D) a member of recognized professional associations or organizations representing flood hazard determination firms;
-
-&emsp;&emsp;“(E) a representative of the United States Geologic Survey;
-
-&emsp;&emsp;“(F) a representative of State geologic survey programs;
-
-&emsp;&emsp;“(G) a representative of State national flood insurance coordination offices;
-
-&emsp;&emsp;“(H) a representative of a regulated lending institution;
-
-&emsp;&emsp;“(I) a representative of the Federal Home Loan Mortgage Corporation; and
-
-&emsp;&emsp;“(J) a representative of the Federal National Mortgage Association.
-
-&emsp;“(2)
-
-Qualifications.—Members of the Council shall be appointed based on their demonstrated knowledge and competence regarding surveying, cartography, remote sensing, geographic information systems, or the technical aspects of preparing and using flood insurance rate maps.
-
-“(c)
-
-Duties.—The Council shall—
-
-&emsp;“(1) make recommendations to the Director on how to improve in a cost-effective manner the accuracy, general quality, ease of use, and distribution and dissemination of flood insurance rate maps;
-
-&emsp;“(2) recommend to the Director mapping standards and guidelines for flood insurance rate maps; and
-
-&emsp;“(3) submit an annual report to the Director that contains—
-
-&emsp;&emsp;“(A) a description of the activities of the Council;
-
-&emsp;&emsp;“(B) an evaluation of the status and performance of flood insurance rate maps and mapping activities to revise and update flood insurance rate maps, as established pursuant to the amendment made by section 675 \[probably means section 575 of Pub. L. 103–325, which amended this section\]; and
-
-&emsp;&emsp;“(C) a summary of recommendations made by the Council to the Director.
-
-“(d)
-
-Chairperson.—The members of the Council shall elect 1 member to serve as the chairperson of the Council (in this section referred to as the ‘Chairperson’).
-
-“(e)
-
-Coordination.—To ensure that the Council's recommendations are consistent to the maximum extent practicable with national digital spatial data collection and management standards, the Chairperson shall consult with the Chairperson of the Federal Geographic Data Committee (established pursuant to OMB Circular A–16).
-
-“(f)
-
-Compensation.—Members of the Council shall receive no additional compensation by reason of their service on the Council.
-
-“(g)
-
-Meetings and Actions.—
-
-&emsp;“(1)
-
-In general.—The Council shall meet not less than twice each year at the request of the Chairperson or a majority of its members and may take action by a vote of the majority of the members.
-
-&emsp;“(2)
-
-Initial meeting.—The Director, or a person designated by the Director, shall request and coordinate the initial meeting of the Council.
-
-“(h)
-
-Officers.—The Chairperson may appoint officers to assist in carrying out the duties of the Council under subsection (c).
-
-“(i)
-
-Staff of FEMA.—Upon the request of the Chairperson, the Director may detail, on a nonreimbursable basis, personnel of the Federal Emergency Management Agency to assist the Council in carrying out its duties.
-
-“(j)
-
-Powers.—In carrying out this section, the Council may hold hearings, receive evidence and assistance, provide information, and conduct research as it considers appropriate.
-
-“(k)
-
-Termination.—The Council shall terminate 5 years after the date on which all members of the Council have been appointed under subsection (b)(1).”
+Pub. L. 103–325, title V, §576, Sept. 23, 1994, 108 Stat. 2280, established the Technical Mapping Advisory Council to help improve flood insurance rate maps and provided for its termination 5 years after the appointment of all its members.
 

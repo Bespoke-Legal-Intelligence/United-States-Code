@@ -108,7 +108,7 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan.4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 

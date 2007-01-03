@@ -12,7 +12,7 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 #### (2) United States Government representatives
 
-&emsp;The United States National Authority shall coordinate the designation of employees of the Federal Government (and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government) to accompany members of an inspection team of the Technical Secretariat and, in doing so, shall ensure that—
+&emsp;The United States National Authority shall coordinate the designation of employees of theFederal Government (and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government) to accompany members of an inspection team of the Technical Secretariat and, in doing so, shall ensure that—
 
 &emsp;&emsp;(A) a special agent of the Federal Bureau of Investigation, as designated by the Federal Bureau of Investigation, accompanies each inspection team visit pursuant to paragraph (1);
 

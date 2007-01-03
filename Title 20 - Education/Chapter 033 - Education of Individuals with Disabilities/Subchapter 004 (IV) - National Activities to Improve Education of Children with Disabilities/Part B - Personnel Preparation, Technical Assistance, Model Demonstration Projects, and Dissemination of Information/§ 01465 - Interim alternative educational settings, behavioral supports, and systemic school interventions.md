@@ -22,7 +22,7 @@ In carrying out this section, the Secretary may support activities to—
 
 &emsp;&emsp;(D) developing or implementing specific curricula, programs, or interventions aimed at addressing behavioral problems;
 
-&emsp;&emsp;(E) stronger linkages between school-based services and community-based resources,such as community mental health and primary care providers; or
+&emsp;&emsp;(E) stronger linkages between school-based services and community-based resources, such as community mental health and primary care providers; or
 
 &emsp;&emsp;(F) using behavioral specialists, related services personnel, and other staff necessary to implement behavioral supports; or
 

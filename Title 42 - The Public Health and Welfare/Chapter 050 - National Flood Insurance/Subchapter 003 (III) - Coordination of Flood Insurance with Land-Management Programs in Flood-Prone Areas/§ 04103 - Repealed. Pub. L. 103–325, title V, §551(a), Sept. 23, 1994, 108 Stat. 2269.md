@@ -4,9 +4,9 @@ Section, Pub. L. 90–448, title XIII, §1362, Aug. 1, 1968, 82 Stat. 588; Pub. 
 
 #### Savings Provision
 
-Section 551(c) of Pub. L. 103–325 provided that: “Notwithstanding subsection (a) \[repealing this section\], the Director shall take any action necessary to comply with any purchase or loan commitment entered into before the expiration of the period referred to in subsection (b) \[set out below\] pursuant to authority under section 1362 of the National Flood Insurance Act of 1968 \[this section\] or subsection (b).”
+Pub. L. 103–325, title V, §551(c), Sept. 23, 1994, 108 Stat. 2269, required the Director of the Federal Emergency Management Agency to comply with any purchase or loan commitment entered into before the expiration of the 1-year period beginning on Sept. 23, 1994, pursuant to authority under this section or section 551(b) of Pub. L. 103–325.
 
 #### Transition Phase
 
-Section 551(b) of Pub. L. 103–325 provided that: “Notwithstanding subsection (a) \[repealing this section\], during the 1-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Federal Emergency Management Agency may enter into loan and purchase commitments as provided under section 1362 of the National Flood Insurance Act of 1968 \[this section\] (as in effect immediately before the enactment of this Act).”
+Pub. L. 103–325, title V, §551(b), Sept. 23, 1994, 108 Stat. 2269, permitted the Director of the Federal Emergency Management Agency to enter into loan and purchase commitments as provided under this section (as in effect immediately before the enactment of Pub. L. 103–325) during the 1-year period beginning on Sept. 23, 1994.
 

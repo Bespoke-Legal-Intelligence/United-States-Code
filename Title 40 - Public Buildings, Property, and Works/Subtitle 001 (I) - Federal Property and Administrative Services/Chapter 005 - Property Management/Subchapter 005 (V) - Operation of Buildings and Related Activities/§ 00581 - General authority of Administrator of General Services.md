@@ -4,7 +4,7 @@
 
 (b)
 
-Personnel and Equipment.—The Administrator may—
+Personnel and Equipment.—The Administrator of General Services may—
 
 &emsp;(1) employ and pay personnel at per diem rates approved by the Administrator, not exceeding rates currently paid by private industry for similar services in the place where the services are performed; and
 
@@ -24,7 +24,7 @@ Ground rent.—The Administrator may pay ground rent for buildings owned by the 
 
 &emsp;(3)
 
-Rent and repairs under a lease.—The Administrator may pay rent and make repairs,alterations, and improvements under the terms of a lease entered into by, or transferred to, the Administration for the housing of a federal agency.
+Rent and repairs under a lease.—The Administrator may pay rent and make repairs, alterations, and improvements under the terms of a lease entered into by, or transferred to, the Administration for the housing of a federal agency.
 
 &emsp;(4)
 
@@ -48,7 +48,7 @@ Lease of Federal Building Sites.—
 
 &emsp;(1)
 
-In general.—The Administrator may lease a federal building site or addition, including any improvements, until the site is needed for construction purposes. The lease must be for fair rental value and on other terms and conditions the Administrator considers to be in the public interest pursuant to section 545 of this title.
+In general.—The Administrator may lease a federal building site or addition, including any improvements, until the site isneeded for construction purposes. The lease must be for fair rental value and on other terms and conditions the Administrator considers to be in the public interest pursuant to section 545 of this title.
 
 &emsp;(2)
 
@@ -122,9 +122,9 @@ Deposit and credit of amounts received.—The Administrator may deposit into the
 
 &emsp;(4)
 
-Furnishing utilities and maintenance.—The Administrator may furnish utilities,maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
+Furnishing utilities and maintenance.—The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, §1706(a), Nov. 25, 2002, 116 Stat. 2316.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, §1706(a), Nov. 25, 2002, 116 Stat. 2316; Pub. L. 109–284, §6(5), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -144,7 +144,7 @@ June 30, 1949, ch. 288, title II, §210(a), as added Sept. 5, 1950, ch. 849, §5
 
 In this section, 40:490(a)(7) is omitted as obsolete because the pneumatic tube system referred to in the provision is no longer used or maintained and 40:490(a)(9) is omitted as obsolete because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
-In subsection (c)(3) and (4), the words “without regard to the provisions of section 278a of this title” and “which on June 30, 1950, was specifically exempted by law from the requirements of said section” (in 40:490(a)(5)), and the words “without regard to the 25 per centum limitation of section 278a of this title” and “without reference to such limitation” (in 40:490(a)(8)), respectively, are omitted as obsolete because 40:278a was repealed by section 7 of the Public Buildings Amendments of 1988 (Public Law 100–678, 40:278a).
+In subsection (c)(3) and (4), the words “without regard to the provisions of section 278a of this title” and“which on June 30, 1950, was specifically exempted by law from the requirements of said section” (in 40:490(a)(5)), and the words “without regard to the 25 per centum limitation of section 278a of this title” and “without reference to such limitation” (in 40:490(a)(8)), respectively, are omitted as obsolete because 40:278a was repealed by section 7 of the Public Buildings Amendments of 1988 (Public Law 100–678, 40:278a).
 
 In subsection (c)(5), the words “Defense Industrial Reserve” are substituted for “National Industrial Reserve” because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
@@ -157,6 +157,8 @@ In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to sec
 In subsection (g)(1), the words “mixed-ownership Government corporation” are substituted for “mixed-ownership corporation” for consistency with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 210(a)(6) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–284 substituted “The Administrator of General Services may—” for “The Administrator may—” in introductory provisions.
 
 2002—Subsec. (a). Pub. L. 107–296, §1706(a)(1), struck out subsec. (a) which read as follows: “
 
@@ -180,7 +182,7 @@ Therefore, to the extent permitted by law, I hereby direct the Administrator of 
 
 The procedures should be developed in accordance with the following:
 
-1\. (a) Upon request, and to the extent permitted by law and where practicable, executive departments and agencies shall make available Federal Government buildings and lands for the siting of mobile service antennas. This should be done in accordance with Federal, State, and local laws and regulations, and consistent with national security concerns (including minimizing mutual electromagnetic interactions), publichealth and safety concerns, environmental and aesthetic concerns, preservation of historic buildings and monuments, protection of natural and cultural resources, protection of national park and wilderness values, protection of National Wildlife Refuge systems, and subject to any Federal requirements promulgated by the agency managing the facility and the Federal Communications Commission, the Federal Aviation Administration, National Telecommunications and Information Administration, and other relevant departments and agencies.
+1\. (a) Upon request, and to the extent permitted by law and where practicable, executive departments and agencies shall make available Federal Government buildings and lands for the siting of mobile service antennas. This should be done in accordance with Federal, State, and local laws and regulations, and consistent with national security concerns (including minimizing mutual electromagnetic interactions), public health and safety concerns, environmental and aesthetic concerns, preservation of historic buildings and monuments, protection of natural and cultural resources, protection of national park and wilderness values, protection of National Wildlife Refuge systems, and subject to any Federal requirements promulgated by the agency managing the facility and the Federal Communications Commission, the Federal Aviation Administration, National Telecommunications and Information Administration, and other relevant departments and agencies.
 
 (b) Antennas on Federal buildings or land may not contain any advertising.
 

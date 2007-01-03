@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;(6) The vulnerability of buildings, lifelines, public works, and industrial and emergency facilities can be reduced through proper earthquake resistant design and construction practices. The economy and efficacy of such procedures can be substantially increased through research and development.
 
-&emsp;(7) Programs and practices of departments and agencies of the United States are important to the communities they serve; some functions, such as emergency communications and national defense, and lifelines, such as dams, bridges, and public works, must remain in service during and after an earthquake. Federally owned, operated, and influenced structures and lifelines should serve as models for how to reduce and minimize hazards to the community.
+&emsp;(7) Programs and practices of departments and agencies of the United States are important to the communities they serve; some functions, such as emergency communicationsand national defense, and lifelines, such as dams, bridges, and public works, must remain in service during and after an earthquake. Federally owned, operated, and influenced structures and lifelines should serve as models for how to reduce and minimize hazards to the community.
 
 &emsp;(8) The implementation of earthquake hazards reduction measures would, as an added benefit, also reduce the risk of loss, destruction, and disruption from other natural hazards and manmade hazards, including hurricanes, tornadoes, accidents, explosions, landslides, building and structural cave-ins, and fires.
 
@@ -56,5 +56,5 @@ Functions of President under Earthquake Hazards Reduction Act of 1977 delegated,
 
 #### Report on At-Risk Populations
 
-Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, provided that: “Not later than 1 year after thedate of the enactment of this Act \[Nov. 13, 2000\], and after a period for public comment, the Director of the Federal Emergency Management Agency shall transmit to the Congress a report describing the elements of the Program that specifically address the needs of at-risk populations, including the elderly, persons with disabilities, non-English-speaking families, single-parent households, and the poor. Such report shall also identify additional actions that could be taken to address those needs and make recommendations for any additional legislative authority required to take such actions.”
+Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
 

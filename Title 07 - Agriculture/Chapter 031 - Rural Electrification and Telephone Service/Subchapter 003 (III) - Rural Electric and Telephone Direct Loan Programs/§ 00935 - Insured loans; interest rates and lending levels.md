@@ -18,7 +18,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;(i) The average revenue per kilowatt-hour sold by the applicant is not less than 120 percent of the average revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
 
-&emsp;&emsp;&emsp;(ii) The average residential revenue per kilowatt-hour sold by the applicant is notless than 120 percent of the average residential revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
+&emsp;&emsp;&emsp;(ii) The average residential revenue per kilowatt-hour sold by the applicant is not less than 120 percent of the average residential revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
 
 &emsp;&emsp;&emsp;(iii) The average per capita income of the residents receiving electric service from the applicant is less than the average per capita income of the residents of the State in which the applicant provides service, or the median household income of the households receiving electric service from the applicant is less than the median household income of the households in the State.
 
@@ -132,7 +132,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;(i) consider the application to be for a loan under this paragraph and a loan under section 948 of this title; and
 
-&emsp;&emsp;&emsp;(ii) if the applicant is eligible for a loan, make a loan to the applicant under this paragraph in an amount equal to the amount that bears the same ratio to the total amount of loans for which the applicant is eligible under this paragraph and under section 948 of this title, as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph and under section 948 of this title for the fiscal year.
+&emsp;&emsp;&emsp;(ii) if the applicant is eligible for a loan, make a loan to the applicant under thisparagraph in an amount equal to the amount that bears the same ratio to the total amount of loans for which the applicant is eligible under this paragraph and under section 948 of this title, as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph and under section 948 of this title for the fiscal year.
 
 #### (C) Effect of lack of funds
 
@@ -146,7 +146,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (B) Requirements
 
-&emsp;&emsp;For purposes of subparagraph (A), a telecommunications modernization plan must,at a minimum, meet the following objectives:
+&emsp;&emsp;For purposes of subparagraph (A), a telecommunications modernization plan must, at a minimum, meet the following objectives:
 
 &emsp;&emsp;&emsp;(i) The plan must provide for the elimination of party line service.
 
@@ -198,7 +198,7 @@ Subsec. (d). Pub. L. 103–129, §2(a)(1)(A), (C), added subsec. (d) and struck 
 
 1981—Subsec. (b). Pub. L. 97–35 substituted provisions establishing an interest rate at 5 per centum per annum and a lower rate, but not less than 2 per cent, under the enumerated criteria, for provisions establishing standard and special rates, with special rates applicable under enumerated criteria.
 
-1976—Subsec. (b). Pub. L. 94–570 struck out from introductory text “meets either of the following conditions” after “borrower which”; limited par. (1) to the telephone borrowers, substituting provision for an average subscriber density of three or fewer per mile at the end of the most recent calendar year ending at least six months before approval of the loan for prior provision for an average consumer or subscriber density of two or fewer per mile; substituted in par. (2) provision, limited to electric borrowers, respecting having an average consumer density of two or fewer per mile or an average adjusted plant revenue ratio of over 9.0 at end of the most recent calendar year ending at least six months before approval of the loan, determination of such ratio, and defining sum of distribution plant and general plant, gross revenue, and cost of power for prior provision for and average gross revenue per mile which is at least $450 below the average gross revenue per mile of REA-financed electric systems, in the case of electric borrowers, or at least $300 below the average gross revenue per mile of REA-financed telephone systems, in the case of telephone borrowers; and inserted in proviso of par. (2) “to a telephone or electric borrower” after “make a loan”.
+1976—Subsec. (b). Pub. L. 94–570 struck out from introductory text “meets either of the following conditions” after “borrower which”; limited par. (1) to the telephone borrowers, substituting provision for an average subscriber density of three or fewer per mile atthe end of the most recent calendar year ending at least six months before approval of the loan for prior provision for an average consumer or subscriber density of two or fewer per mile; substituted in par. (2) provision, limited to electric borrowers, respecting having an average consumer density of two or fewer per mile or an average adjusted plant revenue ratio of over 9.0 at end of the most recent calendar year ending at least six months before approval of the loan, determination of such ratio, and defining sum of distribution plant and general plant, gross revenue, and cost of power for prior provision for and average gross revenue per mile which is at least $450 below the average gross revenue per mile of REA-financed electric systems, in the case of electric borrowers, or at least $300 below the average gross revenue per mile of REA-financed telephone systems, in the case of telephone borrowers; and inserted in proviso of par. (2) “to a telephone or electric borrower” after “make a loan”.
 
 #### Effective Date of 1981 Amendment
 

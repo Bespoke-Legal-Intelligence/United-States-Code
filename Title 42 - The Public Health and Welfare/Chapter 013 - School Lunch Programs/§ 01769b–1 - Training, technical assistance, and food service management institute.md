@@ -14,7 +14,7 @@ The Secretary—
 
 &emsp;&emsp;&emsp;(iii) as appropriate, other federally assisted feeding programs; and
 
-&emsp;&emsp;(B) assistance, on a competitive basis, to State agencies for the purpose of aiding schools and school food authorities with atleast 50 percent of enrolled children certified to receive free or reduced price meals (and, if there are any remaining funds, other schools and school food authorities) in meeting the cost of acquiring or upgrading technology and information management systems for use in food service programs carried out under this chapter and section 1773 of this title, if the school or school food authority submits to the State agency an infrastructure development plan that—
+&emsp;&emsp;(B) assistance, on a competitive basis, to State agencies for the purpose of aiding schools and school food authorities with at least 50 percent of enrolled children certified to receive free or reduced price meals (and, if there are any remaining funds, other schools and school food authorities) in meeting the cost of acquiring or upgrading technology and information management systems for use in food service programs carried out under this chapter and section 1773 of this title, if the school or school food authority submits to the State agency an infrastructure development plan that—
 
 &emsp;&emsp;&emsp;(i) addresses the cost savings and improvements in program integrity and operations that would result from the use of new or upgraded technology;
 
@@ -108,7 +108,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (1) Training activities and technical assistance
 
-&emsp;There are authorized to be appropriated to carry out subsection (a)(1) of this section$3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, and $1,000,000 for each of fiscal years 1992 through 2009.
+&emsp;There are authorized to be appropriated to carry out subsection (a)(1) of this section $3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, and $1,000,000 for each of fiscal years 1992 through 2009.
 
 #### (2) Food service management institute
 
@@ -142,7 +142,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 #### (B) Receipt and acceptance
 
-&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
+&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out thissubsection the funds transferred under subparagraph (A), without further appropriation.
 
 #### (C) Availability of funds
 

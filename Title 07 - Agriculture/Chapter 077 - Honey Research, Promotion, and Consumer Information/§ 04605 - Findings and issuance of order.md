@@ -1,6 +1,6 @@
 ### §4605. Findings and issuance of order
 
-After notice and opportunity for comment has been provided in accordance with section 4604(a) of this title, the Secretary shall issue an order, an amendment to an order, or a regulation under this chapter, if the Secretary finds, and specifies in the order, amendment, or regulation, that the issuance of the order, amendment, or regulation will assist in carrying out the purposes of this chapter.
+After notice and opportunity for comment has been provided in accordance with section 4604(a) of this title, the Secretary shall issue an order, an amendment to an order, or a regulationunder this chapter, if the Secretary finds, and specifies in the order, amendment, or regulation, that the issuance of the order, amendment, or regulation will assist in carrying out the purposes of this chapter.
 
 (Pub. L. 98–590, §6, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 105–185, title VI, §605(e), June 23, 1998, 112 Stat. 589.)
 

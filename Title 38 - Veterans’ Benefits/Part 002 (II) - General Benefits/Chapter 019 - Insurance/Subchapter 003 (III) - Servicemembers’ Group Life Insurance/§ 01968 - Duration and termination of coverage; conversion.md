@@ -2,17 +2,33 @@
 
 (a) Each policy purchased under this subchapter shall contain a provision, in terms approved by the Secretary, to the effect that any insurance thereunder on any member of the uniformed services, and any insurance thereunder on any insurable dependent of such a member, unless discontinued or reduced upon the written request of the insured (or discontinued pursuant to section 1969(a)(2)(B) of this title), shall continue in effect while the member is on active duty, active duty for training, or inactive duty training scheduled in advance by competent authority during the period thereof, or while the member meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title and such insurance shall cease as follows:
 
-&emsp;(1) With respect to a member on active duty or active duty for training under a call or order to duty that does not specify a period of less than 31 days, insurance under this subchapter shall cease—
+&emsp;(1) With respect to a member on active duty or active duty for training under a call or order to duty that does not specify a period of less than 31 days, insurance under this subchapter shall cease as follows:
 
-&emsp;&emsp;(A) 120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such active duty or active duty for training, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after such separation or release; or
+&emsp;&emsp;(A) 120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease on the earlier of the following dates (but in no event before the end of 120 days after such separation or release):
 
-&emsp;&emsp;(B) at the end of the thirty-first day of a continuous period of (i) absence without leave, (ii) confinement by civil authorities under a sentence adjudged by a civilian court, or (iii) confinement by military authorities under a courtmartial sentence involving total forfeiture of pay and allowances. Any insurance so terminated as the result of such an absence or confinement, together with any beneficiary designation in effect for such insurance at such termination thereof, shall be automatically revived as of the date the member is restored to active duty with pay or to active duty for training with pay.
+&emsp;&emsp;&emsp;(i) The date on which the insured ceases to be totally disabled.
+
+&emsp;&emsp;&emsp;(ii) The date that is—
+
+&emsp;&emsp;&emsp;&emsp;(I) two years after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of <sup>1</sup> Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
+
+&emsp;&emsp;&emsp;&emsp;(II) 18 months after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release on or after October 1, 2011.
+
+&emsp;&emsp;(B) At the end of the thirty-first day of a continuous period of (i) absence without leave, (ii) confinement by civil authorities under a sentence adjudged by a civilian court, or (iii) confinement by military authorities under a courtmartial sentence involving total forfeiture of pay and allowances. Any insurance so terminated as the result of such an absence or confinement, together with any beneficiary designation in effect for such insurance at such termination thereof, shall be automatically revived as of the date the member is restored to active duty with pay or to active duty for training with pay.
 
 &emsp;(2) With respect to a member on active duty or active duty for training under a call or order to duty that specifies a period of less than 31 days, insurance under this subchapter shall cease at midnight, local time, on the last day of such duty, unless on such date the insured is suffering from a disability incurred or aggravated during such period which, within 120 days after such date, (i) results in death, or (ii) renders the member uninsurable at standard premium rates according to the good health standards approved by the Secretary, in which event the insurance shall continue in force to death, or for 120 days after such date, whichever is the earlier date.
 
 &emsp;(3) With respect to a member on inactive duty training scheduled in advance by competent authority, insurance under this subchapter shall cease at the end of such scheduled training period, unless at such time the insured is suffering from a disability incurred, or aggravated during such period which, within 120 days after the date of such training, (i) results in death, or (ii) renders the member uninsurable at standard premium rates according to the good health standards approved by the Secretary in which event the insurance shall continue in force to death, or for 120 days after the date such training terminated, whichever is the earlier date.
 
-&emsp;(4) With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.
+&emsp;(4) With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease on the earlier of the following dates (but in no event before the end of 120 days after separation or release from such assignment):
+
+&emsp;&emsp;(A) The date on which the insured ceases to be totally disabled.
+
+&emsp;&emsp;(B) The date that is—
+
+&emsp;&emsp;&emsp;(i) two years after the date of separation or release from such assignment, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of <sup>1</sup> Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
+
+&emsp;&emsp;&emsp;(ii) 18 months after the date of separation or release from such assignment, in the case of such a separation or release on or after October 1, 2011.
 
 &emsp;(5) With respect to an insurable dependent of the member, insurance under this subchapter shall cease—
 
@@ -38,9 +54,21 @@
 
 (B) In the case of a policy purchased under this subchapter for an insurable dependent who is a child, such policy may not be converted under this subsection.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(c), (f), June 5, 2001, 115 Stat. 28, 29.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, §301, June 15, 2006, 120 Stat. 405.)
+
+#### References in Text
+
+The date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006, referred to in subsec. (a)(1)(A)(ii)(I), (4)(B)(i), is the date of enactment of Pub. L. 109–233, which was approved June 15, 2006.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–233, §301(a)(2)(A), substituted “shall cease as follows:” for “shall cease—” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 109–233, §301(a)(1), substantially rewrote subpar. (A). Prior to amendment, subpar. (A) read as follows: “120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such active duty or active duty for training, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after such separation or release; or”.
+
+Subsec. (a)(1)(B). Pub. L. 109–233, §301(a)(2)(B), substituted “At” for “at” after subpar. designation.
+
+Subsec. (a)(4). Pub. L. 109–233, §301(b), substantially rewrote par. (4). Prior to amendment, par. (4) read as follows: “With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.”
 
 2001—Subsec. (a). Pub. L. 107–14, §4(c)(1)(A), (2)(A), in introductory provisions, inserted “and any insurance thereunder on any insurable dependent of such a member,” after “any insurance thereunder on any member of the uniformed services,” and substituted “and such insurance shall cease as follows:” for “, and such insurance shall cease—”.
 
@@ -165,4 +193,6 @@ Section 402(e) of Pub. L. 104–275 provided that: “The Servicemembers’ Grou
 #### Right of Persons Discharged or Released From Uniformed Services To Convert Servicemen's Group Life Insurance to Individual Policies
 
 Section 5(b) of Pub. L. 93–289 provided that the amendments made by Pub. L. 93–289, enacting sections 777, 778, and 779 \[now 1977, 1978, and 1979\] of this title and section 707 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 723, 765, 767, 768, 769, 770, 771, and 774 \[now 1923, 1965, 1967, 1968, 1969, 1970, 1971, and 1974\] of this title, not be construed to deprive any person discharged or released from the uniformed services of the United States prior to the date on which the Veterans’ Group Life Insurance program (provided for under section 777 \[now 1977\] of this title) became effective of the right to convert Servicemen's Group Life Insurance to an individual policy under the provisions of law in effect prior to such effective date.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

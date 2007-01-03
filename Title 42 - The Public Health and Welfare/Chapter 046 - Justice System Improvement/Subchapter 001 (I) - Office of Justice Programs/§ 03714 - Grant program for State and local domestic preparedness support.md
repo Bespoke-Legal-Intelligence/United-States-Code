@@ -26,7 +26,7 @@ Grants under this section may be used to purchase needed equipment and to provid
 
 #### Codification
 
-Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
 #### Amendments
 
@@ -38,5 +38,5 @@ Subsec. (c)(3). Pub. L. 107–273, §11003(a)(2), inserted “not less than” b
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Office for Domestic Preparedness of the Office of Justice Programs, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Office for Domestic Preparedness of the Office of Justice Programs, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November25, 2002, as modified, set out as a note under section 542 of Title 6.
 

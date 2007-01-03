@@ -52,7 +52,7 @@ Except as provided in section 242(h)(2) of this title, notwithstanding any other
 
 #### (7) Option for non-federally licensed warehouse operators
 
-&emsp;Notwithstanding any other provision of this chapter, a warehouse operator not licensed under this chapter may, at the option of thewarehouse operator and in accordance with regulations established by the Secretary, issue electronic receipts and transfer other electronic documents in accordance with this chapter.
+&emsp;Notwithstanding any other provision of this chapter, a warehouse operator not licensed under this chapter may, at the option of the warehouse operator and in accordance withregulations established by the Secretary, issue electronic receipts and transfer other electronic documents in accordance with this chapter.
 
 #### (8) Application to State-licensed warehouse operators
 

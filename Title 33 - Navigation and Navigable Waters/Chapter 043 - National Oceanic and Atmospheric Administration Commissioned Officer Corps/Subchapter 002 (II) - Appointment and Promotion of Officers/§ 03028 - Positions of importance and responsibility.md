@@ -2,7 +2,7 @@
 
 #### (a) Designation of positions
 
-The Secretary may designate positions in the Administration as being positions of importance and responsibility for which it is appropriate that officers of the Administration, if serving in those positions, serve in the grade of vice admiral, rear admiral, or rear admiral (lower half), as designated by the Secretary for each position.
+The Secretary may designate positions in the Administration as being positions of importanceand responsibility for which it is appropriate that officers of the Administration, if serving in those positions, serve in the grade of vice admiral, rear admiral, or rear admiral (lower half), as designated by the Secretary for each position.
 
 #### (b) Assignment of officers to designated positions
 

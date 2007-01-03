@@ -4,7 +4,7 @@
 
 (1) Gallaudet University shall be under the direction and control of a Board of Trustees, composed of twenty-one members who shall include—
 
-&emsp;(A) three public members of whom (i) one shall be a United States Senator appointed bythe President of the Senate, and (ii) two shall be Representatives appointed by the Speaker of the House of Representatives; and
+&emsp;(A) three public members of whom (i) one shall be a United States Senator appointed by the President of the Senate, and (ii) two shall be Representatives appointed by the Speaker of the House of Representatives; and
 
 &emsp;(B) eighteen other members, all of whom shall be elected by the Board of Trustees and of whom one shall be elected pursuant to regulations of the Board of Trustees, on nomination by the Gallaudet University Alumni Association, for a term of three years.
 

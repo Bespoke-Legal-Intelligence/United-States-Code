@@ -12,11 +12,11 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 (B) The negotiation of any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States shall take fully into account any product that benefits from a discriminatory preferential tariff arrangement between Israel and a third country if the tariff preference on such product has been the subject of a challenge by the United States Government under the authority of section 2411 of this title and the General Agreement on Tariffs and Trade.
 
-(C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) of this section shall not apply to any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
+(C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) of this section shall not apply to anytrade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
 
 (3) Notwithstanding any other provision of law, no trade benefit shall be extended to any country by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
 
-(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination orreduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
+(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
 
 &emsp;(i) such country requested the negotiation of such an agreement, and
 
@@ -70,7 +70,7 @@ Each trade agreement submitted to the Congress under this subsection shall enter
 
 #### (f) Obligations imposed upon foreign countries or instrumentalities receiving benefits under trade agreements
 
-To insure that a foreign country or instrumentality which receives benefits under a trade agreement entered into under this section is subject to the obligations imposed by such agreement, the President may recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits and obligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefits and obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
+To insure that a foreign country or instrumentality which receives benefits under a tradeagreement entered into under this section is subject to the obligations imposed by such agreement, the President may recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits and obligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefits and obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
 
 #### (g) Definitions
 
@@ -192,7 +192,7 @@ Eligible articles.—
 
 &emsp;&emsp;“(A)
 
-In general.—The reduction or elimination of any duty imposed on any article by the United States provided for in the Agreement shall apply only if—
+In general.—The reduction or elimination of any duty imposed on any article by the UnitedStates provided for in the Agreement shall apply only if—
 
 &emsp;&emsp;&emsp;“(i) that article is imported directly from Jordan into the customs territory of the United States; and
 
@@ -566,7 +566,7 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 #### United States-Canada Free-Trade Agreement Implementation
 
-Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833;Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
+Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
 
 #### “SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
@@ -662,11 +662,11 @@ Effect of Agreement With Respect to Private Remedies.—No person other than the
 
 “(d)
 
-Initial Implementing Regulations.—Initial regulations necessary or appropriate to carry out the actions proposed in the statement of administrative action submitted under section 101(a)(3) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date of entry into force of the Agreement \[Jan. 1, 1989\]. In the case of any implementing action that takes effect after the date of entry into force of the Agreement, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+Initial Implementing Regulations.—Initial regulations necessary or appropriate to carry out the actions proposed in the statement of administrative action submitted under section 101(a)(3) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date of entry into forceof the Agreement \[Jan. 1, 1989\]. In the case of any implementing action that takes effect after the date of entry into force of the Agreement, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
 “(e)
 
-Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill toimplement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
 
 #### “SEC. 103. CONSULTATION AND LAY-OVER REQUIREMENTS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -1086,11 +1086,11 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 > &emsp;Whenever the Secretary makes a determination that the conditions referred to in subparagraphs (A) and (B) regarding any Canadian fresh fruit or vegetable exist, the Secretary shall immediately submit for publication in the Federal Register notice of the determination.
 
-&emsp;“(2) No later than 6 days after publication in the Federal Register of the notice described in paragraph (1), the Secretary shall decide whether to recommend the imposition of a temporary duty to the President, and if the Secretary decides to make such a recommendation, the recommendation shall be forwarded immediately to the President.
+&emsp;“(2) No later than 6 days after publication in the Federal Register of the notice described in paragraph\(1), the Secretary shall decide whether to recommend the imposition of a temporary duty to the President, and if the Secretary decides to make such a recommendation, the recommendation shall be forwarded immediately to the President.
 
 &emsp;“(3) In determining whether to recommend the imposition of a temporary duty to the President under paragraph (1), the Secretary shall consider whether the conditions in subparagraphs (A) and (B) of such paragraph have led to a distortion in trade between the United States and Canada of the fresh fruit or vegetable and, if so, whether the imposition of the duty is appropriate, including consideration of whether it would significantly correct this distortion.
 
-&emsp;“(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, butsuch duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
+&emsp;“(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, but such duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
 
 &emsp;“(5) A temporary duty imposed under paragraph (4) shall cease to apply with respect to articles that are entered on or after the earlier of—
 
@@ -1204,7 +1204,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;“(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
-&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is madeunder subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
+&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
 &emsp;“(ii) Any finding made under subparagraph (D) shall be included in the report submitted to the President under clause (i).
 
@@ -1254,7 +1254,7 @@ Relief From Imports From All Countries.—
 
 &emsp;“(3)(A) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, the President may, if the President thereafter determines that a surge in imports from Canada of the article that is the subject of the action is undermining the effectiveness of the action, take appropriate action under such chapter with respect to such imports from Canada to include such imports in such action.
 
-&emsp;“(B)(i) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry for which such action is being taken under such chapter may request the Commission to conduct an investigation of imports from Canada of the article that is the subject of such action.
+&emsp;“(B)(i) If, under paragraph (2)(B), the President excludes imports from Canada from action taken underchapter 1 of title II of the Trade Act of 1974, any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry for which such action is being taken under such chapter may request the Commission to conduct an investigation of imports from Canada of the article that is the subject of such action.
 
 &emsp;“(ii) Upon receiving a request under clause (i), the Commission shall conduct an investigation to determine whether a surge in imports from Canada of the article that is the subject of action being taken under chapter 1 of title II of the Trade Act of 1974 undermines the effectiveness of such action. The Commission shall submit the findings of such investigation to the President by no later than the date that is 30 days after the date on which such request is received by the Commission.
 
@@ -1346,7 +1346,7 @@ Negotiating Objectives Regarding Automotive Products.—
 
 Negotiation of Limitation on Potato Trade.—
 
-&emsp;“(1) During the 5-year period beginning on the date of enactment of this Act \[Sept. 28, 1988\], the President is authorized to enter into negotiations with Canada for the purpose of obtaining an agreement to limit the exportation and importation of all potatoes between the United States and Canada, including seed potatoes, fresh, chilled or frozen potatoes, dried, desiccated or dehydrated potatoes, and potatoes otherwise prepared or preserved. Any agreement negotiated under this subsection shall provide for an annual limitation divided equally into each half of the year.
+&emsp;“(1) During the 5-year period beginning on the date of enactment of this Act \[Sept. 28, 1988\], the President is authorized to enter into negotiations with Canada for the purpose of obtaining an agreement to limit the exportation and importation of all potatoes between the United States and Canada, includingseed potatoes, fresh, chilled or frozen potatoes, dried, desiccated or dehydrated potatoes, and potatoes otherwise prepared or preserved. Any agreement negotiated under this subsection shall provide for an annual limitation divided equally into each half of the year.
 
 &emsp;“(2) For the purpose of conducting negotiations under paragraph (1), the Secretary of Agriculture and the United States Trade Representative shall consult with representatives of the potato producing industry, including the Ad Hoc Potato Advisory Group and the United States/Canada Horticultural Industry Advisory Committee, to solicit their views on negotiations with Canada for reciprocal quantitative limits on the potato trade.
 
@@ -1622,7 +1622,7 @@ Panels and Committees.—
 
 &emsp;“(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
-&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United StatesSecretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
+&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
 #### “SEC. 407. TESTIMONY AND PRODUCTION OF PAPERS IN EXTRAORDINARY CHALLENGES.
 
@@ -1682,7 +1682,7 @@ Negotiating Authority.—
 
 &emsp;&emsp;“(i) achievement, on an expedited basis, of increased discipline on government production and export subsidies that have a significant impact, directly or indirectly, on bilateral trade between the United States and Canada; and
 
-&emsp;&emsp;“(ii) attainment of increased and more effective discipline on those Canadian Government (including provincial) subsidies having the most significant adverse impact on United States producers that compete with subsidized products of Canada in the markets of the United States and Canada.
+&emsp;&emsp;“(ii) attainment of increased and more effective discipline on those Canadian Government (including provincial) subsidies having the most significant adverse impact on United States producersthat compete with subsidized products of Canada in the markets of the United States and Canada.
 
 &emsp;“(B) Special emphasis should be given in negotiating an agreement under paragraph (1) to obtain discipline on Canadian subsidy programs that adversely affect United States industries which directly compete with subsidized imports.
 
@@ -1976,7 +1976,7 @@ Cost or value of materials.—(A) For purposes of this section, the cost or valu
 
 &emsp;&emsp;“(i) the manufacturer's actual cost for the materials;
 
-&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance,packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
+&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance, packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
 
 &emsp;&emsp;“(iii) the actual cost of waste or spoilage, less the value of recoverable scrap; and
 
@@ -2126,7 +2126,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 #### “SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
-“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
+“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974\[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
 
 “(b) Within 14 days after the filing of a petition under subsection (a)—
 

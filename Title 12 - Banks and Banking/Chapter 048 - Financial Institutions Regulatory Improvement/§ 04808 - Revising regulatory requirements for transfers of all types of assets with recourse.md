@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;During the 180-day period beginning on September 23, 1994, each appropriate Federalbanking agency shall, consistent with the principles of safety and soundness and the public interest—
+&emsp;During the 180-day period beginning on September 23, 1994, each appropriate Federal banking agency shall, consistent with the principles of safety and soundness and the public interest—
 
 &emsp;&emsp;(A) review the agency's regulations and written policies relating to transfers of assets with recourse by insured depository institutions; and
 

@@ -30,17 +30,9 @@ A determination under this subsection is a reasonable determination by the Attor
 
 (Pub. L. 95–511, title IV, §403, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2407; amended Pub. L. 107–56, title II, §214(b), Oct. 26, 2001, 115 Stat. 287.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
-
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–56, §§214(b)(1), 224, temporarily substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions. See Termination Date of 2001 Amendment note below.
+2001—Subsec. (a). Pub. L. 107–56, §214(b)(1), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–56, §§214(b)(2), 224, temporarily substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”. See Termination Date of 2001 Amendment note below.
-
-#### Termination Date of 2001 Amendment
-
-Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
+Subsec. (b)(1). Pub. L. 107–56, §214(b)(2), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”.
 

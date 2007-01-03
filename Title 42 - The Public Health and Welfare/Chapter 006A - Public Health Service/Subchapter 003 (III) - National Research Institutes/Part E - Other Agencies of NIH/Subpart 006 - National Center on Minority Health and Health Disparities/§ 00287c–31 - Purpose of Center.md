@@ -122,27 +122,25 @@ In carrying out subsection (a) of this section, the Director of the Center—
 
 &emsp;With respect to the membership of the advisory council under paragraph (1), a majority of the members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title.
 
-#### (k) Annual report
+(July 1, 1944, ch. 373, title IV, §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693.)
 
-The Director of the Center shall prepare an annual report on the activities carried out or to be carried out by the Center, and shall submit each such report to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Commerce of the House of Representatives, the Secretary, and the Director of NIH. With respect to the fiscal year involved, the report shall—
+#### Amendments
 
-&emsp;(1) describe and evaluate the progress made in health disparities research conducted or supported by the national research institutes;
+2007—Subsec. (k). Pub. L. 109–482, §104(b)(1)(N), struck out heading and text of subsec. (k). Text read as follows: “The Director of the Center shall prepare an annual report on the activities carried out or to be carried out by the Center, and shall submit each such report to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Commerce of the House of Representatives, the Secretary, and the Director of NIH. With respect to the fiscal year involved, the report shall—
 
-&emsp;(2) summarize and analyze expenditures made for activities with respect to health disparities research conducted or supported by the National Institutes of Health;
+&emsp;“(1) describe and evaluate the progress made in health disparities research conducted or supported by the national research institutes;
 
-&emsp;(3) include a separate statement applying the requirements of paragraphs (1) and (2) specifically to minority health disparities research; and
+&emsp;“(2) summarize and analyze expenditures made for activities with respect to health disparities research conducted or supported by the National Institutes of Health;
 
-&emsp;(4) contain such recommendations as the Director considers appropriate.
+&emsp;“(3) include a separate statement applying the requirements of paragraphs (1) and (2) specifically to minority health disparities research; and
 
-#### (<i>l</i>) Authorization of appropriations
+&emsp;“(4) contain such recommendations as the Director considers appropriate.”
 
-For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.
+Subsec. (<i>l</i>). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (<i>l</i>). Text read as follows: “For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.”
 
-(July 1, 1944, ch. 373, title IV, §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497.)
+#### Effective Date of 2007 Amendment
 
-#### Change of Name
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Findings
 
@@ -172,11 +170,7 @@ Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: “The Con
 
 #### Report Regarding Resources of National Institutes of Health Dedicated to Minority and Other Health Disparities Research
 
-Pub. L. 106–525, title I, §105, Nov. 22, 2000, 114 Stat. 2504, provided that: “Not later than December 1, 2003, the Director of the National Center on Minority Health and Health Disparities (established by the amendment made by section 101(a) \[enacting this section\]), after consultation with the advisory council for such Center, shall submit to the Congress, the Secretary of Health and Human Services, and the Director of the National Institutes of Health a report that provides the following:
-
-&emsp;“(1) Recommendations for the methodology that should be used to determine the extent of the resources of the National Institutes of Health that are dedicated to minority health disparities research and other health disparities research, including determining the amount of funds that are used to conduct and support such research. With respect to such methodology, the report shall address any discrepancies between the methodology used by such Institutes as of the date of the enactment of this Act \[Nov. 22, 2000\] and the methodology used by the Institute of Medicine as of such date.
-
-&emsp;“(2) A determination of whether and to what extent, relative to fiscal year 1999, there has been an increase in the level of resources of the National Institutes of Health that are dedicated to minority health disparities research, including the amount of funds used to conduct and support such research. The report shall include provisions describing whether and to what extent there have been increases in the number and amount of awards to minority serving institutions.”
+Pub. L. 106–525, title I, §105, Nov. 22, 2000, 114 Stat. 2504, which required the Director of the National Center on Minority Health and Health Disparities to submit to Congress, the Secretary of Health and Human Services, and the Director of the NIH a report, not later than Dec. 1, 2003, containing recommendations for the methodology to be used to determine the extent of NIH resources dedicated to minority health disparities research and a determination of whether there had been an increase in the level of NIH resources dedicated to minority health disparities research, was repealed by Pub. L. 109–482, title I, §104(b)(3)(G), Jan. 15, 2007, 120 Stat. 3694.
 
 #### Public Awareness and Dissemination of Information on Health Disparities
 

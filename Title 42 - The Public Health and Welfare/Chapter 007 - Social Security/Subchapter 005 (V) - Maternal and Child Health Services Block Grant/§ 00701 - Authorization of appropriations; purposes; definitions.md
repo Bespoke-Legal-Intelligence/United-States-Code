@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
-&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for thescreening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
+&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
 
 &emsp;(3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
 
@@ -54,7 +54,53 @@
 
 &emsp;&emsp;(B) with respect to infants up to age one, services to assure access to quality preventive and primary care services.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584.)
+(c)(1)(A) For the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance for the development and support of family-to-family health information centers described in paragraph (2), there is appropriated to the Secretary, out of any money in the Treasury not otherwise appropriated—
+
+&emsp;(i) $3,000,000 for fiscal year 2007;
+
+&emsp;(ii) $4,000,000 for fiscal year 2008; and
+
+&emsp;(iii) $5,000,000 for fiscal year 2009.
+
+(B) Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
+
+&emsp;(i) be in addition to amounts appropriated under subsection (a) and retained under section 702(a)(1) of this title for the purpose of carrying out activities described in subsection (a)(2); and
+
+&emsp;(ii) remain available until expended.
+
+(2) The family-to-family health information centers described in this paragraph are centers that—
+
+&emsp;(A) assist families of children with disabilities or special health care needs to make informed choices about health care in order to promote good treatment decisions, cost-effectiveness, and improved health outcomes for such children;
+
+&emsp;(B) provide information regarding the health care needs of, and resources available for, such children;
+
+&emsp;(C) identify successful health delivery models for such children;
+
+&emsp;(D) develop with representatives of health care providers, managed care organizations, health care purchasers, and appropriate State agencies, a model for collaboration between families of such children and health professionals;
+
+&emsp;(E) provide training and guidance regarding caring for such children;
+
+&emsp;(F) conduct outreach activities to the families of such children, health professionals, schools, and other appropriate entities and individuals; and
+
+&emsp;(G) are staffed—
+
+&emsp;&emsp;(i) by such families who have expertise in Federal and State public and private health care systems; and
+
+&emsp;&emsp;(ii) by health professionals.
+
+(3) The Secretary shall develop family-to-family health information centers described in paragraph (2) in accordance with the following:
+
+&emsp;(A) With respect to fiscal year 2007, such centers shall be developed in not less than 25 States.
+
+&emsp;(B) With respect to fiscal year 2008, such centers shall be developed in not less than 40 States.
+
+&emsp;(C) With respect to fiscal year 2009 and each fiscal year thereafter, such centers shall be developed in all States.
+
+(4) The provisions of this subchapter that are applicable to the funds made available to the Secretary under section 702(a)(1) of this title apply in the same manner to funds made available to the Secretary under paragraph (1)(A).
+
+(5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
+
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat.818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100.)
 
 #### References in Text
 
@@ -79,6 +125,8 @@ Another prior section 701, acts Aug. 14, 1935, ch. 531, title V, §501, 49 Stat.
 Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–171 added subsec. (c).
 
 2000—Subsec. (a). Pub. L. 106–554 substituted “$850,000,000 for fiscal year 2001” for “$705,000,000 for fiscal year 1994” in introductory provisions.
 
@@ -120,7 +168,7 @@ Section 6510 of Pub. L. 101–239 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§6501–6510) of title VI of Pub. L. 101–239, amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
+In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§6501–6510) of title VI of Pub. L. 101–239, amending thissection and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
 
 “(b)
 
@@ -188,7 +236,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(C) The term ‘consolidated State programs’ means the consolidated health programs, other than the consolidated Federal programs.
 
-“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
+“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and complianceaudits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
 
 #### Development of Model Applications for Maternal and Child Assistance Programs
 

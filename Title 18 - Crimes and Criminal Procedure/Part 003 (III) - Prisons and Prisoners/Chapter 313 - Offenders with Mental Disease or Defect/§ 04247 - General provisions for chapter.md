@@ -10,21 +10,27 @@ Definitions.—As used in this chapter—
 
 &emsp;&emsp;(B) vocational training that will assist the individual in contributing to, and in participating in, the society to which he will return;
 
-&emsp;&emsp;(C) drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and
+&emsp;&emsp;(C) drug, alcohol, and sex offender treatment programs, and other treatment programs that will assist the individual in overcoming a psychological or physical dependence or any condition that makes the individual dangerous to others; and
 
 &emsp;&emsp;(D) organized physical sports and recreation programs;
 
-&emsp;(2) “suitable facility” means a facility that is suitable to provide care or treatment given the nature of the offense and the characteristics of the defendant; and
+&emsp;(2) “suitable facility” means a facility that is suitable to provide care or treatment given the nature of the offense and the characteristics of the defendant;
 
-&emsp;(3) “State” includes the District of Columbia.
+&emsp;(3) “State” includes the District of Columbia;
+
+&emsp;(4) “bodily injury” includes sexual abuse;
+
+&emsp;(5) “sexually dangerous person” means a person who has engaged or attempted to engage in sexually violent conduct or child molestation and who is sexually dangerous to others; and
+
+&emsp;(6) “sexually dangerous to others” with respect <sup>1</sup> a person, means that the person suffers from a serious mental illness, abnormality, or disorder as a result of which he would have serious difficulty in refraining from sexually violent conduct or child molestation if released.
 
 (b)
 
-Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245 or 4246, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, or 4246, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, or 4246, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
+Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245, 4246, or 4248, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, 4246, or 4248, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, 4246, or 4248, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
 
 (c)
 
-Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared bythe examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to the counsel for the person examined and to the attorney for the Government, and shall include—
+Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to thecounsel for the person examined and to the attorney for the Government, and shall include—
 
 &emsp;(1) the person's history and present symptoms;
 
@@ -40,9 +46,11 @@ Psychiatric or Psychological Reports.—A psychiatric or psychological report or
 
 &emsp;&emsp;(C) if the examination is ordered under section 4243 or 4246, whether the person is suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another;
 
-&emsp;&emsp;(D) if the examination is ordered under section 4244 or 4245, whether the person is suffering from a mental disease or defect as a result of which he is in need of custody for care or treatment in a suitable facility; or
+&emsp;&emsp;(D) if the examination is ordered under section 4248, whether the person is a sexually dangerous person;
 
-&emsp;&emsp;(E) if the examination is ordered as a part of a presentence investigation, any recommendation the examiner may have as to how the mental condition of the defendant should affect the sentence.
+&emsp;&emsp;(E) if the examination is ordered under section 4244 or 4245, whether the person is suffering from a mental disease or defect as a result of which he is in need of custody for care or treatment in a suitable facility; or
+
+&emsp;&emsp;(F) if the examination is ordered as a part of a presentence investigation, any recommendation the examiner may have as to how the mental condition of the defendant should affect the sentence.
 
 (d)
 
@@ -50,13 +58,13 @@ Hearing.—At a hearing ordered pursuant to this chapter the person whose mental
 
 (e)
 
-Periodic Report and Information Requirements.—(1) The director of the facility in which a person is hospitalized pursuant to—
+Periodic Report and Information Requirements.—(1) The director of the facility in which a person is committed pursuant to—
 
 &emsp;(A) section 4241 shall prepare semiannual reports; or
 
-&emsp;(B) section 4243, 4244, 4245, or 4246 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued hospitalization. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies of the reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
+&emsp;(B) section 4243, 4244, 4245, 4246, or 4248 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued commitment. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies of the reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person committed after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
 
-(2) The director of the facility in which a person is hospitalized pursuant to section 4241, 4243, 4244, 4245, or 4246 shall inform such person of any rehabilitation programs that are available for persons hospitalized in that facility.
+(2) The director of the facility in which a person is committed pursuant to section 4241, 4243, 4244, 4245, 4246, or 4248 shall inform such person of any rehabilitation programs that are available for persons committed in that facility.
 
 (f)
 
@@ -64,11 +72,11 @@ Videotape Record.—Upon written request of defense counsel, the court may order
 
 (g)
 
-Habeas Corpus Unimpaired.—Nothing contained in section 4243 or 4246 precludes a person who is committed under either of such sections from establishing by writ of habeas corpus the illegality of his detention.
+Habeas Corpus Unimpaired.—Nothing contained in section 4243, 4246, or 4248 precludes a person who is committed under either of such sections from establishing by writ of habeas corpus the illegality of his detention.
 
 (h)
 
-Discharge.—Regardless of whether the director of the facility in which a person is hospitalized has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243, counsel for the person or his legal guardian may, at any time during such person's hospitalization, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be hospitalized. A copy of the motion shall be sent to the director of the facility in which the person is hospitalized and to the attorney for the Government.
+Discharge.—Regardless of whether the director of the facility in which a person is committed has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, 4246, or 4248, or subsection (f) of section 4243, counsel for the person or his legal guardian may, at any time during such person's commitment, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be committed. A copy of the motion shall be sent to the director of the facility in which the person is committed and to the attorney for the Government.
 
 (i)
 
@@ -76,15 +84,15 @@ Authority and Responsibility of the Attorney General.—The Attorney General—
 
 &emsp;(A) may contract with a State, a political subdivision, a locality, or a private agency for the confinement, hospitalization, care, or treatment of, or the provision of services to, a person committed to his custody pursuant to this chapter;
 
-&emsp;(B) may apply for the civil commitment, pursuant to State law, of a person committed to his custody pursuant to section 4243 or 4246;
+&emsp;(B) may apply for the civil commitment, pursuant to State law, of a person committed to his custody pursuant to section 4243, 4246, or 4248;
 
-&emsp;(C) shall, before placing a person in a facility pursuant to the provisions of section 4241, 4243, 4244, 4245, or 4246, consider the suitability of the facility's rehabilitation programs in meeting the needs of the person; and
+&emsp;(C) shall, before placing a person in a facility pursuant to the provisions of section 4241, 4243, 4244, 4245, 4246, or 4248, consider the suitability of the facility's rehabilitation programs in meeting the needs of the person; and
 
 &emsp;(D) shall consult with the Secretary of the Department of Health and Human Services in the general implementation of the provisions of this chapter and in the establishment of standards for facilities used in the implementation of this chapter.
 
 (j) Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
 
-(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, §330003(d), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 105–33, title XI, §11204(2), (3), Aug. 5, 1997, 111 Stat. 739.)
+(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, §330003(d), Sept. 13,1994, 108 Stat. 2141; Pub. L. 105–33, title XI, §11204(2), (3), Aug. 5, 1997, 111 Stat. 739; Pub. L. 109–248, title III, §302(3), July 27, 2006, 120 Stat. 619.)
 
 #### References in Text
 
@@ -93,6 +101,24 @@ Acts of Congress applicable exclusively to the District of Columbia, referred to
 The Uniform Code of Military Justice, referred to in subsec. (j), is classified generally to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
 
 #### Amendments
+
+2006—Pub. L. 109–248, §302(3)(A), substituted “, 4246, or 4248” for “, or 4246” wherever appearing.
+
+Subsec. (a)(1)(C). Pub. L. 109–248, §302(3)(C)(i), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and”.
+
+Subsec. (a)(4) to (6). Pub. L. 109–248, §302(3)(C)(ii)–(iv), added pars. (4) to (6).
+
+Subsec. (b). Pub. L. 109–248, §302(3)(D), substituted “4245, 4246, or 4248” for “4245 or 4246”.
+
+Subsec. (c)(4)(D) to (F). Pub. L. 109–248, §302(3)(E), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (e). Pub. L. 109–248, §302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “continued commitment” for “continued hospitalization” in par. (1)(B).
+
+Subsec. (g). Pub. L. 109–248, §302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
+
+Subsec. (h). Pub. L. 109–248, §302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “person's commitment” for “person's hospitalization”.
+
+Subsec. (i)(B). Pub. L. 109–248, §302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
 
 1997—Subsec. (a)(3). Pub. L. 105–33, §11024(2)(C), added par. (3).
 
@@ -113,4 +139,6 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 #### Transfer of Functions
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
 

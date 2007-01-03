@@ -4,6 +4,8 @@
 
 1965—Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL”.
 
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+
 
 ---
 

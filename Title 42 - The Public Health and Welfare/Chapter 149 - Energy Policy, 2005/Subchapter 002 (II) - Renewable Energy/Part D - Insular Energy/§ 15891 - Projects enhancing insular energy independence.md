@@ -1,6 +1,6 @@
 ### §15891. Projects enhancing insular energy independence
 
-#### (a) Project feasibilty studies
+#### (a) Project feasibility studies
 
 #### (1) In general
 

@@ -56,7 +56,7 @@
 
 #### (C) Payment
 
-&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002,shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) <sup>1</sup> of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.
+&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002, shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) <sup>1</sup> of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.
 
 #### (D) Refunds
 
@@ -74,7 +74,7 @@
 
 #### (b) Fee revenue amounts
 
-Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; and $29,785,000 in fiscal year 2005. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
+Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; and $29,785,000 in fiscal year 2005. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenueamounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
 
 #### (c) Annual fee setting
 
@@ -110,7 +110,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (B) Evidence of qualification
 
-&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of itsaffiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
+&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
 
 #### (C) Reduced fees
 
@@ -130,7 +130,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of this subsection, the term “small business” means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
+&emsp;&emsp;For purposes of this subsection, the term “small business” means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income taxreturn for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
 
 #### (B) Evidence of qualification
 
@@ -160,7 +160,7 @@ A premarket application, premarket report, supplement, or premarket notification
 
 &emsp;With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products:
 
-&emsp;&emsp;(A)(i) For each of the fiscal years 2003 and 2004, the Secretary is expected to meet all of the goals identified for the fiscal year involved in any letter referred to in section 101(3) of the Medical Device User Fee andModernization Act of 2002 (referred to in this paragraph as “performance goals”) if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is equal to or greater than $205,720,000 multiplied by the adjustment factor applicable to the fiscal year.
+&emsp;&emsp;(A)(i) For each of the fiscal years 2003 and 2004, the Secretary is expected to meet all of the goals identified for the fiscal year involved in any letter referred to in section 101(3) of the Medical Device User Fee and Modernization Act of 2002 (referred to in this paragraph as “performance goals”) if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is equal to or greater than $205,720,000 multiplied by the adjustment factor applicable to the fiscal year.
 
 &emsp;&emsp;(ii) For each of the fiscal years 2003 and 2004, if the amount so appropriated for the fiscal year involved, excluding the amount of fees appropriated for such fiscal year, is less than the amount that applies under clause (i) for such fiscal year, the following applies:
 

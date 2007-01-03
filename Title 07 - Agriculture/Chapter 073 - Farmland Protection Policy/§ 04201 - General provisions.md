@@ -80,7 +80,7 @@ Definitions.—As used in this chapter:
 
 &emsp;“(1)
 
-Allowable interest rate.—The term ‘allowable interest rate’ refers to the interest rate that the State trust fund pays on each eligible loan (including the interest paid by the State trust fund, State, or State agency on bonds or other obligations described in paragraph (2)).
+Allowable interest rate.—The term ‘allowable interest rate’ refers to the interest rate that the State trust fund pays on each eligible loan (including the interest paid by the State trust fund, State, orState agency on bonds or other obligations described in paragraph (2)).
 
 &emsp;“(2)
 
@@ -220,7 +220,7 @@ Special Rules for the Pilot Project State.—Notwithstanding any other provision
 
 &emsp;“(1)
 
-Provision of loan guarantee and interest assistance agreement.—Within 30 days of the date any State trust fund in the eligible State receives a commitment for each eligible loan from a lending institution, the Secretary shall provide the lending institution with the loan guarantee and the interest assistance agreement so that the lending institutionmay disburse the full amount of the loan proceeds to the State trust fund on the date of loan closing to carry out this program. After the loan closing, the lending institution shall have no obligation to monitor or approve the use of loan proceeds by the State trust fund.
+Provision of loan guarantee and interest assistance agreement.—Within 30 days of the date any State trust fund in the eligible State receives a commitment for each eligible loan from a lending institution, the Secretary shall provide the lending institution with the loan guarantee and the interest assistance agreement so that the lending institution may disburse the full amount of the loan proceeds to the State trust fund on the date of loan closing to carry out this program. After the loan closing, the lending institution shall have no obligation to monitor or approve the use of loan proceeds by the State trust fund.
 
 &emsp;“(2)
 

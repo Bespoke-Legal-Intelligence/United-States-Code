@@ -18,7 +18,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(7) provides that the State agency will monitor and conduct periodic evaluations of activities carried out under this part;
 
-&emsp;(8) provides safeguards which restrict the use of or disclosure of information concerning individuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter, (B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
+&emsp;(8) subject to subsection (c), provides safeguards which restrict the use of or disclosure of information concerning individuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter, (B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
 
 &emsp;(9) provides that the State agency will—
 
@@ -46,7 +46,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(ii) to make it possible for a child to safely return to the child's home;
 
-&emsp;&emsp;(C) if continuation of reasonable efforts of the type described in subparagraph (B) is determined to be inconsistent with the permanency plan for the child, reasonable efforts shall be made to place the child in a timely manner in accordance with the permanency plan, and to complete whatever steps are necessary to finalize the permanent placement of the child;
+&emsp;&emsp;(C) if continuation of reasonable efforts of the type described in subparagraph (B) is determined to be inconsistent with the permanency plan for the child, reasonable efforts shall be made to place the child in a timely manner in accordance with the permanency plan (including, if appropriate, through an interstate placement), and to complete whatever steps are necessary to finalize the permanent placement of the child;
 
 &emsp;&emsp;(D) reasonable efforts of the type described in subparagraph (B) shall not be required to be made with respect to a parent of a child if a court of competent jurisdiction has determined that—
 
@@ -64,13 +64,13 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(iii) the parental rights of the parent to a sibling have been terminated involuntarily;
 
-&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not madewith respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
+&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not made with respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
 
-&emsp;&emsp;&emsp;(i) a permanency hearing (as described in section 675(5)(C) of this title) shall be held for the child within 30 days after the determination; and
+&emsp;&emsp;&emsp;(i) a permanency hearing (as described in section 675(5)(C) of this title), which considers in-State and out-of-State permanent placement options for the child, shall be held for the child within 30 days after the determination; and
 
 &emsp;&emsp;&emsp;(ii) reasonable efforts shall be made to place the child in a timely manner in accordance with the permanency plan, and to complete whatever steps are necessary to finalize the permanent placement of the child; and
 
-&emsp;&emsp;(F) reasonable efforts to place a child for adoption or with a legal guardian may be made concurrently with reasonable efforts of the type described in subparagraph (B);
+&emsp;&emsp;(F) reasonable efforts to place a child for adoption or with a legal guardian, including identifying appropriate in-State and out-of-State placements <sup>1</sup> may be made concurrently with reasonable efforts of the type described in subparagraph (B);
 
 &emsp;(16) provides for the development of a case plan (as defined in section 675(1) of this title) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in section 675(5)(B) of this title with respect to each such child;
 
@@ -84,13 +84,21 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(19) provides that the State shall consider giving preference to an adult relative over a non-related caregiver when determining a placement for a child, provided that the relative caregiver meets all relevant State child protection standards;
 
-&emsp;(20)(A) unless an election provided for in subparagraph (B) is made with respect to the State, provides procedures for criminal records checks for any prospective foster or adoptive parent before the foster or adoptive parent may be finally approved for placement of a child on whose behalf foster care maintenance payments or adoption assistance payments are to be made under the State plan under this part, including procedures requiring that—
+&emsp;(20)(A) unless an election provided for in subparagraph (B) is made with respect to the State, provides procedures for criminal records checks, including fingerprint-based checks of national crime information databases (as defined in section 534(e)(3)(A) <sup>2</sup> of title 28), for any prospective foster or adoptive parent before the foster or adoptive parent may be finally approved for placement of a child regardless of whether foster care maintenance payments or adoption assistance payments are to be made on behalf of the child under the State plan under this part, including procedures requiring that—
 
-&emsp;&emsp;(i) in any case in which a record check reveals a felony conviction for child abuse or neglect, for spousal abuse, for a crime against children (including child pornography), or for a crime involving violence, including rape, sexual assault, or homicide, but not including other physical assault or battery, if a State finds that a court of competent jurisdiction has determined that the felony was committed at any time, such final approval shall not be granted; and
+&emsp;&emsp;(i) in any case involving a child on whose behalf such payments are to be so made in which a record check reveals a felony conviction for child abuse or neglect, for spousal abuse, for a crime against children (including child pornography), or for a crime involving violence, including rape, sexual assault, or homicide, but not including other physical assault or battery, if a State finds that a court of competent jurisdiction has determined that the felony was committed at any time, such final approval shall not be granted; and
 
-&emsp;&emsp;(ii) in any case in which a record check reveals a felony conviction for physical assault, battery, or a drug-related offense, if a State finds that a court of competent jurisdiction has determined that the felony was committed within the past 5 years, such final approval shall not be granted; and
+&emsp;&emsp;(ii) in any case involving a child on whose behalf such payments are to be so made in which a record check reveals a felony conviction for physical assault, battery, or a drug-related offense, if a State finds that a court of competent jurisdiction has determined that the felony was committed within the past 5 years, such final approval shall not be granted; and <sup>3</sup>
 
-&emsp;(B) subparagraph (A) shall not apply to a State plan if the Governor of the State has notified the Secretary in writing that the State has elected to make subparagraph (A) inapplicable to the State, or if the State legislature, by law, has elected to make subparagraph (A) inapplicable to the State;
+&emsp;(B) subparagraph (A) shall not apply to a State plan if, on or before September 30, 2005, the Governor of the State has notified the Secretary in writing that the State has elected to make subparagraph (A) inapplicable to the State, or if, on or before such date, the State legislature, by law, has elected to make subparagraph (A) inapplicable to the State; <sup>4</sup>
+
+&emsp;(C) provides that the State shall—
+
+&emsp;&emsp;(i) check any child abuse and neglect registry maintained by the State for information on any prospective foster or adoptive parent and on any other adult living in the home of such a prospective parent, and request any other State in which any such prospective parent or other adult has resided in the preceding 5 years, to enable the State to check any child abuse and neglect registry maintained by such other State for such information, before the prospective foster or adoptive parent may be finally approved for placement of a child, regardless of whether foster care maintenance payments or adoption assistance payments are to be made on behalf of the child under the State plan under this part;
+
+&emsp;&emsp;(ii) comply with any request described in clause (i) that is received from another State; and
+
+&emsp;&emsp;(iii) have in place safeguards to prevent the unauthorized disclosure of information in any child abuse and neglect registry maintained by the State, and to prevent any such information obtained pursuant to this subparagraph from being used for a purpose other than the conducting of background checks in foster or adoptive placement cases;
 
 &emsp;(21) provides for health insurance coverage (including, at State option, through the program under the State plan approved under subchapter XIX of this chapter) for any child who has been determined to be a child with special needs, for whom there is in effect an adoption assistance agreement (other than an agreement under this part) between the State and an adoptive parent or parents, and who the State has determined cannot be placed with an adoptive parent or parents without medical assistance because such child has special needs for medical, mental health, or rehabilitative care, and that with respect to the provision of such health insurance coverage—
 
@@ -108,21 +116,79 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(A) deny or delay the placement of a child for adoption when an approved family is available outside of the jurisdiction with responsibility for handling the case of the child; or
 
-&emsp;&emsp;(B) fail to grant an opportunity for a fair hearing, as described in paragraph (12), to an individual whose allegation of a violation of subparagraph (A) of this paragraph is denied by the State or not acted upon by the State with reasonable promptness; and
+&emsp;&emsp;(B) fail to grant an opportunity for a fair hearing, as described in paragraph (12), to an individual whose allegation of a violation of subparagraph (A) of this paragraph is denied by the State or not acted upon by the State with reasonable promptness;
 
-&emsp;(24) include <sup>1</sup> a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, and that such preparation will be continued, as necessary, after the placement of the child.
+&emsp;(24) include <sup>5</sup> a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, and that such preparation will be continued, as necessary, after the placement of the child;
+
+&emsp;(25) provide <sup>6</sup> that the State shall have in effect procedures for the orderly and timely interstate placement of children; and procedures implemented in accordance with an interstate compact, if incorporating with the procedures prescribed by paragraph (26), shall be considered to satisfy the requirement of this paragraph;
+
+&emsp;(26) provides that—
+
+&emsp;&emsp;(A)(i) within 60 days after the State receives from another State a request to conduct a study of a home environment for purposes of assessing the safety and suitability of placing a child in the home, the State shall, directly or by contract—
+
+&emsp;&emsp;&emsp;(I) conduct and complete the study; and
+
+&emsp;&emsp;&emsp;(II) return to the other State a report on the results of the study, which shall address the extent to which placement in the home would meet the needs of the child; and
+
+&emsp;&emsp;(ii) in the case of a home study begun on or before September 30, 2008, if the State fails to comply with clause (i) within the 60-day period as a result of circumstances beyond the control of the State (such as a failure by a Federal agency to provide the results of a background check, or the failure by any entity to provide completed medical forms, requested by the State at least 45 days before the end of the 60-day period), the State shall have 75 days to comply with clause (i) if the State documents the circumstances involved and certifies that completing the home study is in the best interests of the child; except that
+
+&emsp;&emsp;(iii) this subparagraph shall not be construed to require the State to have completed, within the applicable period, the parts of the home study involving the education and training of the prospective foster or adoptive parents;
+
+&emsp;&emsp;(B) the State shall treat any report described in subparagraph (A) that is received from another State or an Indian tribe (or from a private agency under contract with another State) as meeting any requirements imposed by the State for the completion of a home study before placing a child in the home, unless, within 14 days after receipt of the report, the State determines, based on grounds that are specific to the content of the report, that making a decision in reliance on the report would be contrary to the welfare of the child; and
+
+&emsp;&emsp;(C) the State shall not impose any restriction on the ability of a State agency administering, or supervising the administration of, a State program operated under a State plan approved under this part to contract with a private agency for the conduct of a home study described in subparagraph (A); and
+
+&emsp;(27) provides that, with respect to any child in foster care under the responsibility of the State under this part or part B and without regard to whether foster care maintenance payments are made under section 672 of this title on behalf of the child, the State has in effect procedures for verifying the citizenship or immigration status of the child.
 
 #### (b) Approval of plan by Secretary
 
 The Secretary shall approve any plan which complies with the provisions of subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §471, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 97–35, title XXIII, §2353(r), Aug. 13, 1981, 95 Stat. 874; Pub. L. 97–248, title I, §160(d), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–378, §11(c), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 99–514, title XVII, §1711(c)(2), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–485, title II, §202(c)(1), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 101–508, title V, §5054(b), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 103–66, title XIII, §13711(b)(4), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §203(b), Oct. 31, 1994, 108 Stat. 4456; Pub. L. 104–188, title I, §1808(a), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 104–193, title I, §108(d)(2), title V, §505, Aug. 22, 1996, 110 Stat. 2166, 2278; Pub. L. 105–33, title V, §5591(b), Aug. 5, 1997, 111 Stat. 643; Pub. L. 105–89, title I, §§101(a), 106, title III, §§306, 308, Nov. 19, 1997, 111 Stat. 2116, 2120, 2132, 2133; Pub. L. 105–200, title III, §301(a), July 16, 1998, 112 Stat. 658; Pub. L. 106–169, title I, §112(a), title IV, §401(<i>o</i>), Dec. 14, 1999, 113 Stat. 1829, 1859.)
+#### (c) Use of child welfare records in State court proceedings
+
+Subsection (a)(8) shall not be construed to limit the flexibility of a State in determining State policies relating to public access to court proceedings to determine child abuse and neglect or other court hearings held pursuant to part B or this part, except that such policies shall, at a minimum, ensure the safety and well-being of the child, parents, and family.
+
+(Aug. 14, 1935, ch. 531, title IV, §471, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 97–35, title XXIII, §2353(r), Aug. 13, 1981, 95 Stat. 874; Pub. L. 97–248, title I, §160(d), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–378, §11(c), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 99–514, title XVII, §1711(c)(2), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–485, title II, §202(c)(1), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 101–508, title V, §5054(b), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 103–66, title XIII, §13711(b)(4), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §203(b), Oct. 31, 1994, 108 Stat. 4456; Pub. L. 104–188, title I, §1808(a), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 104–193, title I, §108(d)(2), title V, §505, Aug. 22, 1996, 110 Stat. 2166, 2278; Pub. L. 105–33, title V, §5591(b), Aug. 5, 1997, 111 Stat. 643; Pub. L. 105–89, title I, §§101(a), 106, title III, §§306, 308, Nov. 19, 1997, 111 Stat. 2116, 2120, 2132, 2133; Pub. L. 105–200, title III, §301(a), July 16, 1998, 112 Stat. 658; Pub. L. 106–169, title I, §112(a), title IV, §401(<i>o</i>), Dec. 14, 1999, 113 Stat. 1829, 1859; Pub. L. 109–171, title VII, §7401(c), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §§3, 4(a)(1), 10, July 3, 2006, 120 Stat. 508, 513; Pub. L. 109–248, title I, §152(a), (b), July 27, 2006, 120 Stat. 608, 609; Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(i), Dec. 20, 2006, 120 Stat. 2999.)
+
+#### Amendment of Subsection (a)(20)
+
+<i>Pub. L. 109–248, title I, §152(b), (c)(2), July 27, 2006, 120 Stat. 609, provided that, effective Oct. 1, 2008, and applicable with respect to payments under this part for calendar quarters beginning on or after Oct. 1, 2008, subsection (a)(20) of this section is amended:</i>
+
+<i>(1) in subparagraph (A), by striking “unless an election provided for in subparagraph (B) is made with respect to the State,” in introductory provisions; and</i>
+
+<i>(2) by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B).</i>
 
 #### References in Text
 
-Parts A, B, and D of this subchapter, referred to in subsec. (a)(2), (4), (8)–(10), (13), and (17), are classified to sections 601 et seq., 620 et seq., and 651 et seq., respectively, of this title.
+Parts A, B, and D of this subchapter, referred to in subsecs. (a)(2), (4), (8)–(10), (13), (17), (27) and (c), are classified to sections 601 et seq., 620 et seq., and 651 et seq., respectively, of this title.
+
+Section 534(e)(3)(A) of title 28, referred to in subsec. (a)(20)(A), was redesignated section 534(f)(3)(A) of title 28 by Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611.
 
 #### Amendments
+
+2006—Subsec. (a)(8). Pub. L. 109–171, §7401(c)(1), inserted “subject to subsection (c),” after “(8)”.
+
+Subsec. (a)(15)(C). Pub. L. 109–239, §10(a), inserted “(including, if appropriate, through an interstate placement)” after “accordance with the permanency plan”.
+
+Subsec. (a)(15)(E)(i). Pub. L. 109–239, §10(b), inserted “, which considers in-State and out-of-State permanent placement options for the child,” before “shall”.
+
+Subsec. (a)(15)(F). Pub. L. 109–239, §10(c), inserted “, including identifying appropriate in-State and out-of-State placements” before “may”.
+
+Subsec. (a)(20)(A). Pub. L. 109–248, §152(a)(1)(A)(i), which directed amendment of subpar. (A) by inserting “, including fingerprint-based checks of national crime information databases (as defined in section 534(e)(3)(A) of title 28),” after “criminal records checks” and substituting “regardless of whether foster care maintenance payments or adoption assistance payments are to be made on behalf of the child” for “on whose behalf foster care maintenance payments or adoption assistance payments are to be made” in the matter preceding“clause (I)”, was executed by making the insertion and substitution in the introductory provisions preceding cl. (i), to reflect the probable intent of Congress.
+
+Subsec. (a)(20)(A)(i), (ii). Pub. L. 109–248, §152(a)(1)(A)(ii), inserted “involving a child on whose behalf such payments are to be so made” after “in any case”.
+
+Subsec. (a)(20)(B). Pub. L. 109–248, §152(a)(2), inserted “, on or before September 30, 2005,” after “plan if” and “, on or before such date,” after “or if”.
+
+Subsec. (a)(20)(C). Pub. L. 109–248, §152(a)(1)(B), added subpar. (C).
+
+Subsec. (a)(25). Pub. L. 109–239, §3, added par. (25).
+
+Subsec. (a)(26). Pub. L. 109–239, §4(a)(1), added par. (26).
+
+Subsec. (a)(27). Pub. L. 109–432 added par. (27).
+
+Subsec. (c). Pub. L. 109–171, §7401(c)(2), added subsec. (c).
 
 1999—Subsec. (a)(8). Pub. L. 106–169, §401(<i>o</i>), struck out “(including activities under part F of this subchapter)” after “part A, B, or D of this subchapter”.
 
@@ -169,6 +235,28 @@ Subsec. (a)(9). Pub. L. 101–508, §5054(b)(1), amended par. (9) generally. Pri
 1982—Subsec. (a)(10). Pub. L. 97–248 amended Pub. L. 97–35, §2353(r), generally. See 1981 Amendment note below.
 
 1981—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(iii), Dec. 20, 2006, 120 Stat. 2999, provided that: “The amendments made by this subparagraph \[amending this section and section 1320a–2a of this title\] shall take effect on the date that is 6 months after the date of the enactment of this Act \[Dec. 20, 2006\].”
+
+Pub. L. 109–248, title I, §152(c), July 27, 2006, 120 Stat. 609, provided that:
+
+“(1)
+
+General.—The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply with respect to payments under part E of title IV of the Social Security Act \[this part\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+
+“(2)
+
+Elimination of opt-out.—The amendments made by subsection (b) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to payments under part E of title IV of the Social Security Act for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+
+“(3)
+
+Delay permitted if state legislation required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 471 of the Social Security Act \[this section\] to meet the additional requirements imposed by the amendments made by a subsection of this section, the plan shall not be regarded as failing to meet any of the additional requirements before the first day of the first calendar quarter beginning after the first regular session of the State legislature that begins after the otherwise applicable effective date of the amendments. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+
+Amendment by Pub. L. 109–239 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after Oct. 1, 2006, without regard to whether regulations have been promulgated by Oct. 1, 2006, and with delay permitted if State legislation is required, see section 14 of Pub. L. 109–239, set out as a note under section 622 of this title.
+
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -238,7 +326,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Regulations
 
-Section 203(a) of title II of Pub. L. 100–485 provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[section 682(a)(2) of this title\].”
+Section 203(a) of title II of Pub. L. 100–485 provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary ofLabor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[section 682(a)(2) of this title\].”
 
 #### Preservation of Reasonable Parenting
 
@@ -260,5 +348,15 @@ In General.—It is the sense of the Congress that, to the greatest extent pract
 
 Notice Requirement.—In providing financial assistance to, or entering into any contract with, any entity using funds made available under this Act, the head of each Federal agency, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “includes”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “includes”.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be “provides”.</i>
 

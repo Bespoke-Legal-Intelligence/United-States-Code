@@ -22,7 +22,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (10) Borrow money and issue notes, bonds, debentures, or other obligations individually or in concert with one or more other banks of the System, of such character, and such terms, conditions, and rates of interest as may be determined.
 
-(11)(A) Participate in loans under this subchapter with one or more other banks for cooperatives and with commercial banks and other financial institutions upon such terms as may be agreed among them, and participate with one or more other Farm Credit System institutions in loans made under this subchapter or othersubchapters of this chapter on the basis prescribed in section 2206 of this title.
+(11)(A) Participate in loans under this subchapter with one or more other banks for cooperatives and with commercial banks and other financial institutions upon such terms as may be agreed among them, and participate with one or more other Farm Credit System institutions in loans made under this subchapter or other subchapters of this chapter on the basis prescribed in section 2206 of this title.
 
 (B)(i) Participate in any loan of a type otherwise authorized under this subchapter that is made to a similar entity by any institution in the business of extending credit, including purchases of participations in loans to finance international trade transactions involving the sale of agricultural commodities or the products thereof, except that—
 
@@ -62,7 +62,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 #### Amendments
 
-2002—Par. (11)(B)(iii), (iv). Pub. L. 107–171 redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “With respect to similar entities that are eligible to borrow from a Farm Credit Bank or association under subchapter I or II of this chapter, the authority of a bank for cooperatives to participate in loans to the entities under this subparagraph shall besubject to the prior approval of the Farm Credit Bank or Banks in whose chartered territory the entity is eligible to borrow. The approval may be granted on an annual basis and under such terms and conditions as may be agreed on between the bank for cooperatives and the Farm Credit Bank or Banks that serve the territory.”
+2002—Par. (11)(B)(iii), (iv). Pub. L. 107–171 redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “With respect to similar entities that are eligible to borrow from a Farm Credit Bank or association under subchapter I or II of this chapter, the authority of a bank for cooperatives to participate in loans to the entities under this subparagraph shall be subject to the prior approval of the Farm Credit Bank or Banks in whose chartered territory the entity is eligible to borrow. The approval may be granted on an annual basis and under such terms and conditions as may be agreed on between the bank for cooperatives and the Farm Credit Bank or Banks that serve the territory.”
 
 1994—Par. (11)(B)(i)(I)(bb). Pub. L. 103–376, §6, substituted “other Farm Credit System institutions” for “the other banks for cooperatives under this subparagraph” and “all Farm Credit System institutions” for “all banks for cooperatives”.
 

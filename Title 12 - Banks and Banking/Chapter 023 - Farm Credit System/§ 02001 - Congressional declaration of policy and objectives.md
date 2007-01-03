@@ -70,7 +70,7 @@ Authority.—The Farm Credit Administration Board shall issue such regulations a
 
 &emsp;“(2)
 
-Timing.—To the extent the Farm Credit Administration is required to issue regulations to implement this Act and the amendments made by this Act, the Farm Credit Administration shall issue such regulations as expeditiously as possible, and, except as otherwise provided in this Act, not later than 180 days after the date of the enactment of this Act \[Jan. 6, 1988\].
+Timing.—To the extent the Farm Credit Administration is required to issue regulations to implement this Act and the amendments made by this Act, the Farm Credit Administration shall issue suchregulations as expeditiously as possible, and, except as otherwise provided in this Act, not later than 180 days after the date of the enactment of this Act \[Jan. 6, 1988\].
 
 “(b)
 
@@ -136,7 +136,7 @@ Items in Study.—In conducting the study, the Secretary shall base the study on
 
 &emsp;“(5) what measure or measures exist to gauge the overall demand for rural credit, the extent to which rural demand for credit is satisfied, and what the measures have demonstrated;
 
-&emsp;“(6) a comparison of the interest rates and terms charged by the Farm Credit System Farm Credit Banks, production credit associations, and banks for cooperatives with the rates and terms charged by the banks of the United States for credit of comparable risk and maturity;
+&emsp;“(6) a comparison of the interest rates and terms charged by the Farm Credit System Farm CreditBanks, production credit associations, and banks for cooperatives with the rates and terms charged by the banks of the United States for credit of comparable risk and maturity;
 
 &emsp;“(7) the advantages and disadvantages of the modernization and expansion proposals of the Farm Credit System on the Farm Credit System, the United States banking system, rural users of credit, local rural communities, and the Federal Government, including—
 

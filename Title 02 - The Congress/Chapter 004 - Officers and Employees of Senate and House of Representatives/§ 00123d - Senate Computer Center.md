@@ -26,7 +26,7 @@ To the extent that the personnel of the Senate Computer Center are unable to car
 
 #### (d) Disbursements
 
-Disbursements from the revolving fund under subsections (b) and (c) of this section shall bemade upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate, except that vouchers shall not be required for the disbursement of salaries of employees paid at an annual rate.
+Disbursements from the revolving fund under subsections (b) and (c) of this section shall be made upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate, except that vouchers shall not be required for the disbursement of salaries of employees paid at an annual rate.
 
 (Pub. L. 94–303, title I, §116, June 1, 1976, 90 Stat. 614.)
 

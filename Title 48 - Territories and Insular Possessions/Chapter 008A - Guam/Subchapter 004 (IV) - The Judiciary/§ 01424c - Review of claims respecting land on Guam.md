@@ -26,7 +26,7 @@ Attorney's fees paid by claimants to counsel representing them may not exceed 5 
 
 #### (g) Availability of documents, records, and writings to court
 
-All agencies and departments of the United States Government shall, upon request, deliverto the court any documents, records, and writings which are pertinent to any claim under review.
+All agencies and departments of the United States Government shall, upon request, deliver to the court any documents, records, and writings which are pertinent to any claim under review.
 
 (Pub. L. 95–134, title II, §204, Oct. 15, 1977, 91 Stat. 1162; Pub. L. 96–205, title III, §301(a), Mar. 12, 1980, 94 Stat. 87.)
 

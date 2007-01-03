@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as theSecretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
+Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
 
 &emsp;(1) shall require a device manufacturer or importer to report to the Secretary whenever the manufacturer or importer receives or otherwise becomes aware of information that reasonably suggests that one of its marketed devices—
 
@@ -38,7 +38,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;&emsp;&emsp;(ii) on a periodic basis,
 
-> &emsp;&emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>1</sup>
+> &emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>1</sup>
 
 > In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
 
@@ -64,7 +64,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;(iv) a brief description of the event reported to the manufacturer.
 
-(D) For purposes of subparagraphs (A), (B), and (C), a device user facility shall be treated ashaving received or otherwise become aware of information with respect to a device of that facility when medical personnel who are employed by or otherwise formally affiliated with the facility receive or otherwise become aware of information with respect to that device in the course of their duties.
+(D) For purposes of subparagraphs (A), (B), and (C), a device user facility shall be treated as having received or otherwise become aware of information with respect to a device of that facility when medical personnel who are employed by or otherwise formally affiliated with the facility receive or otherwise become aware of information with respect to that device in the course of their duties.
 
 (2) The Secretary may not disclose the identity of a device user facility which makes a report under paragraph (1) except in connection with—
 

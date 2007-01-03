@@ -22,9 +22,53 @@ The purposes for which each grant awarded under subsection (a) of this section m
 
 &emsp;(4) the establishment or support of a project to train Native Americans to produce or participate in a television or radio program to be broadcast in a Native American language;
 
-&emsp;(5) the compilation, transcription, and analysis of oral testimony to record and preserve a Native American language; and
+&emsp;(5) the compilation, transcription, and analysis of oral testimony to record and preserve a Native American language;
 
-&emsp;(6) the purchase of equipment (including audio and video recording equipment, computers, and software) required to conduct a Native American language project.
+&emsp;(6) the purchase of equipment (including audio and video recording equipment, computers, and software) required to conduct a Native American language project; and
+
+&emsp;(7)(A) Native American language nests, which are site-based educational programs that—
+
+&emsp;&emsp;(i) provide instruction and child care through the use of a Native American language for at least 10 children under the age of 7 for an average of at least 500 hours per year per student;
+
+&emsp;&emsp;(ii) provide classes in a Native American language for parents (or legal guardians) of students enrolled in a Native American language nest (including Native American language-speaking parents); and
+
+&emsp;&emsp;(iii) ensure that a Native American language is the dominant medium of instruction in the Native American language nest;
+
+&emsp;(B) Native American language survival schools, which are site-based educational programs for school-age students that—
+
+&emsp;&emsp;(i) provide an average of at least 500 hours of instruction through the use of 1 or more Native American languages for at least 15 students for whom a Native American language survival school is their principal place of instruction;
+
+&emsp;&emsp;(ii) develop instructional courses and materials for learning Native American languages and for instruction through the use of Native American languages;
+
+&emsp;&emsp;(iii) provide for teacher training;
+
+&emsp;&emsp;(iv) work toward a goal of all students achieving—
+
+&emsp;&emsp;&emsp;(I) fluency in a Native American language; and
+
+&emsp;&emsp;&emsp;(II) academic proficiency in mathematics, reading (or language arts), and science; and
+
+&emsp;&emsp;(v) are located in areas that have high numbers or percentages of Native American students; and
+
+&emsp;(C) Native American language restoration programs, which are educational programs that—
+
+&emsp;&emsp;(i) operate at least 1 Native American language program for the community in which it serves;
+
+&emsp;&emsp;(ii) provide training programs for teachers of Native American languages;
+
+&emsp;&emsp;(iii) develop instructional materials for the programs;
+
+&emsp;&emsp;(iv) work toward a goal of increasing proficiency and fluency in at least 1 Native American language;
+
+&emsp;&emsp;(v) provide instruction in at least 1 Native American language; and
+
+&emsp;&emsp;(vi) may use funds received under this section for—
+
+&emsp;&emsp;&emsp;(I) Native American language programs, such as Native American language immersion programs, Native American language and culture camps, Native American language programs provided in coordination and cooperation with educational entities, Native American language programs provided in coordination and cooperation with local universities and colleges, Native American language programs that use a master-apprentice model of learning languages, and Native American language programs provided through a regional program to better serve geographically dispersed students;
+
+&emsp;&emsp;&emsp;(II) Native American language teacher training programs, such as training programs in Native American language translation for fluent speakers, training programs for Native American language teachers, training programs for teachers in schools to utilize Native American language materials, tools, and interactive media to teach Native American language; and
+
+&emsp;&emsp;&emsp;(III) the development of Native American language materials, such as books, audio and visual tools, and interactive media programs.
 
 #### (c) Applications
 
@@ -38,9 +82,11 @@ For the purpose of making grants under subsection (a) of this section, the Secre
 
 &emsp;(4) a detailed description of a plan to be carried out by the applicant to evaluate such project, consonant with the purpose for which such grant is made;
 
-&emsp;(5) if appropriate, an identification of opportunities for the replication of such project or the modification of such project for use by other Native Americans; and
+&emsp;(5) if appropriate, an identification of opportunities for the replication of such project or the modification of such project for use by other Native Americans;
 
-&emsp;(6) a plan for the preservation of the products of the Native American language project for the benefit of future generations of Native Americans and other interested persons.
+&emsp;(6) a plan for the preservation of the products of the Native American language project for the benefit of future generations of Native Americans and other interested persons; and
+
+&emsp;(7) in the case of an application for a grant to carry out any purpose specified in subsection (b)(7)(B), a certification by the applicant that the applicant has not less than 3 years of experience in operating and administering a Native American language survival school, a Native American language nest, or any other educational program in which instruction is conducted in a Native American language.
 
 #### (d) Participating organizations
 
@@ -66,7 +112,7 @@ If a tribal organization or other eligible applicant decides that the objectives
 
 #### (2) Duration
 
-&emsp;The Secretary may make grants made under subsection (a) of this section on a 1-year, 2-year, or 3-year basis.
+&emsp;The Secretary may make grants made under subsection (a) of this section on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
 
 #### (f) Administration
 
@@ -126,13 +172,21 @@ If a tribal organization or other eligible applicant decides that the objectives
 
 &emsp;(II) to sell such products, or copies of such products, for profit to the entities referred to in clause (i).
 
-(Pub. L. 88–452, title VIII, §803C, as added Pub. L. 102–524, §2, Oct. 26, 1992, 106 Stat. 3434.)
+(Pub. L. 88–452, title VIII, §803C, as added Pub. L. 102–524, §2, Oct. 26, 1992, 106 Stat. 3434; amended Pub. L. 109–394, §2, Dec. 14, 2006, 120 Stat. 2705.)
 
 #### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (e)(1)(B)(ii)(III), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 Section 3215 of title 20, referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10. Section 5135 of that Act was omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+
+#### Amendments
+
+2006—Subsec. (b)(7). Pub. L. 109–394, §2(1), added par. (7).
+
+Subsec. (c)(7). Pub. L. 109–394, §2(2), added par. (7).
+
+Subsec. (e)(2). Pub. L. 109–394, §2(3), inserted “ ,except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis” before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

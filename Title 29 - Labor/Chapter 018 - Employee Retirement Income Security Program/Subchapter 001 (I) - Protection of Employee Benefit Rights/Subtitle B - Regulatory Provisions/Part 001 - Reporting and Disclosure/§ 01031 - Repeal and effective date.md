@@ -14,13 +14,13 @@ employee retirement income security act of 1974”.
 
 (iii) The table of sections of chapter 47 of such title 18 is amended by striking out “Welfare and Pension Plans Disclosure Act” in the item relating to section 1027 and inserting in lieu thereof “Employee Retirement Income Security Act of 1974”.
 
-(C) Section 1954 of such title 18 is amended by striking out “any plan subject to the provisionsof the Welfare and Pension Plans Disclosure Act as amended” and inserting in lieu thereof “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974”; and by striking out “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended” and inserting in lieu thereof “sections 3(4) and (3)(16) <sup>1</sup> of the Employee Retirement Income Security Act of 1974”.
+(C) Section 1954 of such title 18 is amended by striking out “any plan subject to the provisions of the Welfare and Pension Plans Disclosure Act as amended” and inserting in lieu thereof “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974”; and by striking out “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended” and inserting in lieu thereof “sections 3(4) and (3)(16) <sup>1</sup> of the Employee Retirement Income Security Act of 1974”.
 
 (D) Section 211 of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 441) is amended by striking out “Welfare and Pension Plans Disclosure Act” and inserting in lieu thereof “Employee Retirement Income Security Act of 1974”.
 
 (b)(1) Except as provided in paragraph (2), this part (including the amendments and repeals made by subsection (a) of this section) shall take effect on January 1, 1975.
 
-(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2) of this section) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
+(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendmentmade by subsection (a)(2) of this section) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
 
 (c) The provisions of this subchapter authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974.
 
@@ -30,7 +30,7 @@ employee retirement income security act of 1974”.
 
 #### References in Text
 
-The Welfare and Pension Plans Disclosure Act, referred to in subsecs. (a)(1), (2), (b)(2), is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, as amended, which was classified generally to chapter 10 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+The Welfare and Pension Plans Disclosure Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, as amended, which was classified generally to chapter 10 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Title I of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(A) to (C), means title I of Pub. L. 93–406, which enacted this subchapter, amended section 441 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, and repealed sections 301 to 309 of this title.
 

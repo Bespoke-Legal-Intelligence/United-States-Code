@@ -8,10 +8,6 @@ The principal office of the Commission shall be in or near the District of Colum
 
 Provisions similar to this section were contained in section 1802(a)(3) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
 #### Expenses for Move to New Principal Office
 
 Pub. L. 85–162, title I, §109, Aug. 21, 1957, 71 Stat. 407, as amended by Pub. L. 85–590, §108, Aug. 4, 1958, 72 Stat. 493, authorized the Commission to use its funds for the payment for travel and transportation expenses in connection with the relocation of residence of employees in order to facilitate retention and relocation of Commission headquarter employees.

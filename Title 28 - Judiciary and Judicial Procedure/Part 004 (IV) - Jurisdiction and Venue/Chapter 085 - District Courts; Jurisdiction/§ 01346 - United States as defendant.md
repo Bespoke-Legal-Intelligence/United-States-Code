@@ -26,7 +26,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§41(20), 931(a), 932 (Mar. 3, 1911, ch. 231, §24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, §1310(c), 42 Stat. 311; June 2, 1924, ch. 234, §1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972;Feb. 26, 1926, ch. 27, §§1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, §§410(a), 411, 60 Stat. 843).
+Based on title 28, U.S.C., 1940 ed., §§41(20), 931(a), 932 (Mar. 3, 1911, ch. 231, §24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, §1310(c), 42 Stat. 311; June 2, 1924, ch. 234, §1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, §§410(a), 411, 60 Stat. 843).
 
 Section consolidates provisions of section 41(20) conferring jurisdiction upon the district court, in civil actions against the United States, with the first sentence of section 931(a) relating to jurisdiction of the district courts in tort claims cases, and those provisions of section 932 making the provisions of said section 41(20), relating to counterclaim and set-off, applicable to tort claims cases, all of title 28, U.S.C., 1940 ed.
 

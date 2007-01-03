@@ -8,7 +8,7 @@ The Secretary shall prescribe procedures to assure that—
 
 &emsp;(2) financial assistance under this subchapter shall not be suspended, except in emergency situations, unless the recipient agency has been given reasonable notice and opportunity to show cause why such action should not be taken;
 
-&emsp;(3) financial assistance under this subchapter shall not be terminated or reduced, anapplication for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than 30 days, unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing; and
+&emsp;(3) financial assistance under this subchapter shall not be terminated or reduced, an application for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than 30 days, unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing; and
 
 &emsp;(4) the Secretary shall develop and publish procedures (including mediation procedures) to be used in order to—
 
@@ -38,7 +38,7 @@ The Secretary shall also specify—
 
 #### (d) Termination of designation not stayed upon appeal
 
-In any case in which a termination, reduction, or suspension of financial assistance under this subchapter is upheld in an administrative hearing under this section, such termination, reduction, or suspension shall not be stayed pending any judicial appeal of such administrative decision.
+In any case in which a termination, reduction, or suspension of financial assistance under thissubchapter is upheld in an administrative hearing under this section, such termination, reduction, or suspension shall not be stayed pending any judicial appeal of such administrative decision.
 
 #### (e) Establishment of alternative agency by Indian tribe
 

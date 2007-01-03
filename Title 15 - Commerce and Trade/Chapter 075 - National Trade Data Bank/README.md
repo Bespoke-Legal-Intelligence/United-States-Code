@@ -4,22 +4,12 @@
 | :--- | ---: |
 | [4901\.](%C2%A7%2004901%20-%20Definitions.md) | Definitions. |
 | [4902\.](%C2%A7%2004902%20-%20Interagency%20Trade%20Data%20Advisory%20Committee.md) | Interagency Trade Data Advisory Committee. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Chairman. |
-| (d) | Designees. |
 | [4903\.](%C2%A7%2004903%20-%20Functions%20of%20Committee.md) | Functions of Committee. |
 | [4904\.](%C2%A7%2004904%20-%20Consultation%20with%20private%20sector%20and%20government%20officials.md) | Consultation with private sector and government officials. |
 | [4905\.](%C2%A7%2004905%20-%20Cooperation%20among%20executive%20agencies.md) | Cooperation among executive agencies. |
 | [4906\.](%C2%A7%2004906%20-%20Establishment%20of%20Data%20Bank.md) | Establishment of Data Bank. |
-| (a) | Establishment. |
-| (b) | International Economic Data System. |
-| (c) | Export Promotion Data System. |
 | [4907\.](%C2%A7%2004907%20-%20Operation%20of%20Data%20Bank.md) | Operation of Data Bank. |
 | [4908\.](%C2%A7%2004908%20-%20Information%20on%20service%20sector.md) | Information on service sector. |
-| (a) | Service sector information. |
-| (b) | Survey. |
-| (c) | General information and index of leading indicators. |
 | [4909\.](%C2%A7%2004909%20-%20Exclusion%20of%20information.md) | Exclusion of information. |
 | [4910\.](%C2%A7%2004910%20-%20Nonduplication.md) | Nonduplication. |
 | [4911](%C2%A7%2004911%20-%20Collection%20of%20data.md) | Collection of data. |

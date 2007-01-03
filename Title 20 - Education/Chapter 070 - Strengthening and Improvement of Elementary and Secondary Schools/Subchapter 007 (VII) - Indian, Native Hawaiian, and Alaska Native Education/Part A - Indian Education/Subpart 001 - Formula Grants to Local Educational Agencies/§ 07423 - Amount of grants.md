@@ -30,13 +30,13 @@
 
 #### (3) Increase
 
-&emsp;The Secretary may increase the minimum grant under paragraph (1) to not more than $4,000 for all grantees if the Secretary determines such increase is necessary to ensure the quality of the programs provided.
+&emsp;The Secretary may increase the minimum grant under paragraph (1) to not more than$4,000 for all grantees if the Secretary determines such increase is necessary to ensure the quality of the programs provided.
 
 #### (c) Definition
 
 For the purpose of this section, the term “average per pupil expenditure”, used with respect to a State, means an amount equal to—
 
-&emsp;(1) the sum of the aggregate current expenditures of all the local educational agencies inthe State, plus any direct current expenditures by the State for the operation of such agencies, without regard to the sources of funds from which such local or State expenditures were made, during the second fiscal year preceding the fiscal year for which the computation is made; divided by
+&emsp;(1) the sum of the aggregate current expenditures of all the local educational agencies in the State, plus any direct current expenditures by the State for the operation of such agencies, without regard to the sources of funds from which such local or State expenditures were made, during the second fiscal year preceding the fiscal year for which the computation is made; divided by
 
 &emsp;(2) the aggregate number of children who were included in average daily attendance for whom such agencies provided free public education during such preceding fiscal year.
 

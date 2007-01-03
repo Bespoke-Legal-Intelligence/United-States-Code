@@ -8,7 +8,7 @@ The Secretary of Defense shall carry out the chemical and biological defense pro
 
 In carrying out his responsibilities under this section, the Secretary of Defense shall do the following:
 
-&emsp;(1) Assign responsibility for overall coordination and integration of the chemical and biological warfare defense program and the chemical and biological medical defense program to a single office within the Office of the Secretary of Defense.
+&emsp;(1) Assign responsibility for overall coordination and integration of the chemical and biological warfare defense program and thechemical and biological medical defense program to a single office within the Office of the Secretary of Defense.
 
 &emsp;(2) Take those actions necessary to ensure close and continuous coordination between (A) the chemical and biological warfare defense program, and (B) the chemical and biological medical defense program.
 
@@ -18,7 +18,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 (1) The Secretary of Defense shall designate the Army as executive agent for the Department of Defense to coordinate and integrate research, development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
 
-(2) The Director of the Defense Advanced Research Projects Agency may conduct a program of basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems. Inconducting such program, the Director shall seek to avoid unnecessary duplication of the activities under the program with chemical and biological warfare defense activities of the military departments and defense agencies and shall coordinate the activities under the program with those of the military departments and defense agencies.
+(2) The Director of the Defense Advanced Research Projects Agency may conduct a program of basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems. In conducting such program, the Director shall seek to avoid unnecessary duplication of the activities under the program with chemical and biological warfare defense activities of the military departments and defense agencies and shall coordinate the activities under the program with those of the military departments and defense agencies.
 
 #### (d) Funding
 

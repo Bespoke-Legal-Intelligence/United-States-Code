@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (4) Investment
 
-&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess ofamounts currently required to carry out this section may be invested in obligations of the United States.
+&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required to carry out this section may be invested in obligations of the United States.
 
 #### (5) Limitation on commitments to guarantee loans and mortgages
 
@@ -276,7 +276,7 @@ The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 

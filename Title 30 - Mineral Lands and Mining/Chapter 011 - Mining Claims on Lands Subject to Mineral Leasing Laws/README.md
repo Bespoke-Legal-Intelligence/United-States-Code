@@ -3,9 +3,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [501\.](%C2%A7%2000501%20-%20Mining%20claims%20located%20between%20July%2031%2C%201939%2C%20and%20January%201%2C%201953.md) | Mining claims located between July 31, 1939, and January 1, 1953. |
-| (a) | Force and effect. |
-| (b) | Labor and improvement. |
-| (c) | Withdrawal or reservation. |
 | [502\.](%C2%A7%2000502%20-%20Reservation%20of%20minerals%20to%20the%20United%20States%3B%20rights%20of%20entry%2C%20disposition%20and%20removal.md) | Reservation of minerals to the United States; rights of entry, disposition and removal. |
 | [503\.](%C2%A7%2000503%20-%20Reservations%20required%20by%20law%3B%20atomic%20energy%20materials.md) | Reservations required by law; atomic energy materials. |
 | [504\.](%C2%A7%2000504%20-%20Power%20to%20make%20arrangements%20respecting%20atomic%20energy%20materials%20as%20unaffected.md) | Power to make arrangements respecting atomic energy materials as unaffected. |

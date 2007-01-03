@@ -60,7 +60,7 @@ Separation Pay and Benefits.—(1) A member of the armed forces who is separated
 
 (f)
 
-Computation of Voluntary Separation Pay.—The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than two times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under section 1174 of this title.
+Computation of Voluntary Separation Pay.—The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under section 1174 of this title.
 
 (g)
 
@@ -104,19 +104,25 @@ Repayment for Members Who Return to Active Duty.—(1) Except as provided in par
 
 (k)
 
-Termination of Authority.—(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2008.
+Termination of Authority.—(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2012.
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306.)
+(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256.)
 
 #### References in Text
 
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§3401 et seq.) of Title 26, Internal Revenue Code.
 
+#### Amendments
+
+2006—Subsec. (f). Pub. L. 109–364, §623(a)(1), substituted “four” for “two”.
+
+Subsec. (k)(1). Pub. L. 109–364, §623(a)(2), substituted “2012” for “2008”.
+
 #### Limitation on Applicability
 
-Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, provided that: “During the period beginning on the date of the enactment of this Act \[Jan. 6, 2006\] and ending on December 31, 2008, the members of the Armed Forces who are eligible for separation, and for the provision of voluntary separation pay and benefits, under section 1175a of title 10, United States Code (as added by subsection (a)), shall be limited to officers of the Armed Forces who meet the eligibility requirements of section 1175a(b) of title 10, United States Code (as so added), but have not completed more than 12 years of active service as of the date of separation from active duty.”
+Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, §623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “qualifies”.</i>
 

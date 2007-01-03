@@ -22,7 +22,7 @@
 
 #### (B) Allocations to large and small local educational agencies
 
-&emsp;&emsp;(i) For any fiscal year to which this paragraph applies, the Secretary shall calculate grants under this section for each local educational agency.
+&emsp;&emsp;(i) For any fiscal year to which this paragraph applies, the Secretary shall calculategrants under this section for each local educational agency.
 
 &emsp;&emsp;(ii) The amount of a grant under this section for each large local educational agency shall be the amount determined under clause (i).
 
@@ -46,7 +46,7 @@
 
 #### (A) Calculation
 
-&emsp;&emsp;For any fiscal year to which this paragraph applies, the Secretary shall calculate grants under this section on the basis of the number of children counted under subsection (c) of this section for counties, and State educational agencies shall suballocate county amounts to local educational agencies, inaccordance with regulations issued by the Secretary.
+&emsp;&emsp;For any fiscal year to which this paragraph applies, the Secretary shall calculate grants under this section on the basis of the number of children counted under subsection (c) of this section for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations issued by the Secretary.
 
 #### (B) Direct allocations
 
@@ -114,7 +114,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 &emsp;The number of children to be counted for purposes of this section is the aggregate of—
 
-&emsp;&emsp;(A) the number of children aged 5 to 17, inclusive, in the school district of the local educational agency from families below the poverty level as determined under paragraph (2);
+&emsp;&emsp;(A) the number of children aged 5 to 17, inclusive, in the school district of the localeducational agency from families below the poverty level as determined under paragraph (2);
 
 &emsp;&emsp;(B) the number of children (determined under paragraph (4) for either the preceding year as described in that paragraph, or for the second preceding year, as the Secretary finds appropriate) aged 5 to 17, inclusive, in the school district of such agency in institutions for neglected and delinquent children (other than such institutions operated by the United States), but not counted pursuant to subpart 1 of part D of this subchapter for the purposes of a grant to a State agency, or being supported in foster homes with public funds; and
 
@@ -128,7 +128,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (A) In general
 
-&emsp;&emsp;In fiscal year 2002 and each subsequent fiscal year, the Secretary shall use updated data on the number of children, aged 5 to 17,inclusive, from families below the poverty level for counties or local educational agencies, published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that the use of the updated population data would be inappropriate or unreliable. If appropriate and reliable data are not available annually, the Secretary shall use data which are updated every 2 years.
+&emsp;&emsp;In fiscal year 2002 and each subsequent fiscal year, the Secretary shall use updated data on the number of children, aged 5 to 17, inclusive, from families below the poverty level for counties or local educational agencies, published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that the use of the updated population data would be inappropriate or unreliable. If appropriate and reliable data are not available annually, the Secretary shall use data which are updated every 2 years.
 
 #### (B) Inappropriate or unreliable data
 

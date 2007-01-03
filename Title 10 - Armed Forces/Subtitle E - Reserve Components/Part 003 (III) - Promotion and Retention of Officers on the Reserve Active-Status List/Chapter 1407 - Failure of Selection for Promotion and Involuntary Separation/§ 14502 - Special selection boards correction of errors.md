@@ -12,7 +12,7 @@ Officers Not Considered Because of Administrative Error.—(1) In the case of an
 
 Officers Considered But Not Selected; Material Error.—(1) In the case of an officer or former officer who was eligible for promotion and was considered for selection for promotion from in or above the promotion zone under this chapter by a selection board but was not selected, the Secretary of the military department concerned may, under regulations prescribed by the Secretary of Defense, convene a special selection board under this subsection to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
 
-&emsp;(A) the action of the selection board that considered the officer or former officer was contrary to law or involved material error of fact or material administrative error; or
+&emsp;(A) the action of the selection board that considered the officer or former officer was contrary to law in a matter material to the decision of the board or involved material error of fact or material administrative error; or
 
 &emsp;(B) the selection board did not have before it for its consideration material information.
 
@@ -24,7 +24,7 @@ Officers Considered But Not Selected; Material Error.—(1) In the case of an of
 
 (c)
 
-Report.—Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each officer it recommends for promotion and certifying that the board has considered carefully the record of each officer whose name was referred to it.
+Report.—Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each officer itrecommends for promotion and certifying that the board has considered carefully the record of each officer whose name was referred to it.
 
 (d)
 
@@ -64,7 +64,7 @@ Judicial Review.—(1) A court of the United States may review a determination b
 
 Designation of Boards.—The Secretary of the military department concerned may designate a promotion board convened under section 14101(a) of this title as a special selection board convened under this section. A board so designated may function in both capacities.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2947; amended Pub. L. 107–107, div. A, title V, §505(c)(3)(B), Dec. 28, 2001, 115 Stat. 1088.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2947; amended Pub. L. 107–107, div. A, title V, §505(c)(3)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, §514(b), Oct. 17, 2006, 120 Stat. 2185.)
 
 #### Prior Provisions
 
@@ -72,5 +72,11 @@ Provisions similar to those in this section were contained in section 5904 of th
 
 #### Amendments
 
+2006—Subsec. (b)(1)(A). Pub. L. 109–364 inserted “in a matter material to the decision of the board” after “contrary to law”.
+
 2001—Subsec. (a)(1). Pub. L. 107–107 inserted “or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error,” after “because of administrative error,”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 effective Mar. 1, 2007, and applicable with respect to selection boards convened on or after that date, see section 514(c) of Pub. L. 109–364, set out as a note under section 628 of this title.
 

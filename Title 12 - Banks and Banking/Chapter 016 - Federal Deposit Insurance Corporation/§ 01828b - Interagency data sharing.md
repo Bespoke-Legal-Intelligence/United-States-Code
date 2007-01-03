@@ -36,8 +36,6 @@ The provisions of subsection (b) of this section shall apply to—
 
 The National Bank Consolidation and Merger Act, referred to in subsec. (a), is act Nov. 7, 1918, ch. 209, as added by Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 460, and amended, which is classified generally to subchapter XVI (§215 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 215 of this title and Tables.
 
-The antitrust laws, referred to in subsec. (a), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-
 #### Codification
 
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.

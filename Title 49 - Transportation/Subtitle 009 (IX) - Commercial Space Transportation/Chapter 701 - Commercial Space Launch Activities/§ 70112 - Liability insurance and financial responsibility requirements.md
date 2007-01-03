@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) When a launch or reentry license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstratefinancial responsibility in amounts to compensate for the maximum probable loss from claims by—
+General Requirements.—(1) When a launch or reentry license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
 
 &emsp;(A) a third party for death, bodily injury, or property damage or loss resulting from an activity carried out under the license; and
 
@@ -42,7 +42,7 @@ Determination of Maximum Probable Losses.—The Secretary of Transportation shal
 
 Annual Report.—(1) Not later than November 15 of each year, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives a report on current determinations made under subsection (c) of this section related to all issued licenses and the reasons for the determinations.
 
-(2) Not later than May 15 of each year, the Secretary of Transportation shall review the amounts specified in subsection (a)(3)(A) of this section and submit a report to Congress that contains proposed adjustments in the amounts to conform with changed liability expectations and availability of insurance on the world market. The proposed adjustment takes effect 30 days after a report is submitted.
+(2) Not later than May 15 of each year, the Secretary of Transportation shall review the amounts specified in subsection (a)(3)(A) of this section and submit a report to Congress that contains proposed adjustments in the amountsto conform with changed liability expectations and availability of insurance on the world market. The proposed adjustment takes effect 30 days after a report is submitted.
 
 (e)
 

@@ -12,7 +12,7 @@
 
 &emsp;(A) provide for the development of technologies to advance the capacity and capabilities of the Internet;
 
-&emsp;(B) provide for high performance testbed networks to enable the research, development, and demonstration of advanced networking technologies and to develop and demonstrate advanced applications made possible by the existence of such testbed networks;
+&emsp;(B) provide for high performance testbed networks to enable the research, development,and demonstration of advanced networking technologies and to develop and demonstrate advanced applications made possible by the existence of such testbed networks;
 
 &emsp;(C) promote connectivity among computer networks of Federal agencies and departments;
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(i) for the security requirements, policies, and standards necessary to protect Federal research computer networks and information resources accessible through Federal research computer networks, including research required to establish security standards for high-performance computing systems and networks; and
 
-&emsp;&emsp;(ii) that agencies and departments identified in the annual report submitted underparagraph (3)(A) shall define and implement a security plan consistent with the Program and with applicable law.
+&emsp;&emsp;(ii) that agencies and departments identified in the annual report submitted under paragraph (3)(A) shall define and implement a security plan consistent with the Program and with applicable law.
 
 (3) The Director shall—
 
@@ -98,7 +98,7 @@ The President shall establish an advisory committee on high-performance computin
 
 &emsp;(B) states the portion of its request for appropriations that is allocated to each such element.
 
-(2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(3)(A) of this section, and shall include, in the President's annual budget estimate, a statement of the portion of each appropriate agency's or department's annual budget estimate relating to its activities undertaken pursuant to the Program.
+(2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(3)(A) of this section, and shall include, in the President's annual budget estimate, a statement of the portion ofeach appropriate agency's or department's annual budget estimate relating to its activities undertaken pursuant to the Program.
 
 (Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, §4, Oct. 28, 1998, 112 Stat. 2921.)
 
@@ -120,7 +120,7 @@ Subsec. (b). Pub. L. 105–305, §4(b), struck out “High-performance computing
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 
@@ -154,7 +154,7 @@ Sec. 3. <i>Administration</i>. To the extent permitted by law and subject to the
 
 (c) Members of the Committee shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
-Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 App. U.S.C.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
+Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 U.S.C. App.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
 
 (b) The Committee shall terminate June 1, 2005, unless extended by the President prior to such date.
 

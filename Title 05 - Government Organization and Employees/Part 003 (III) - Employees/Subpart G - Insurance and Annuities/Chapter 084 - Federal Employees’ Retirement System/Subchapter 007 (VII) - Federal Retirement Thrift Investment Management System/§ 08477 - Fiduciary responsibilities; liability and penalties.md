@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) defraying reasonable expenses of administering the Thrift Savings Fund or applicable portions thereof;
 
-&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailingthat a prudent individual acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like objectives; and
+&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent individual acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like objectives; and
 
 &emsp;(C) to the extent permitted by section 8438 of this title, by diversifying the investments of the Thrift Savings Fund or applicable portions thereof so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so.
 

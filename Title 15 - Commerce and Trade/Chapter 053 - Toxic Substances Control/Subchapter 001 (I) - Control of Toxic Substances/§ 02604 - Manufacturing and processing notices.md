@@ -28,7 +28,7 @@
 
 &emsp;(i) a person is required by subsection (a)(1) of this section to submit a notice to the Administrator, and
 
-&emsp;(ii) such person has been granted an exemption under section 2603(c) of this title from therequirements of a rule promulgated under section 2603 of this title before the submission of such notice,
+&emsp;(ii) such person has been granted an exemption under section 2603(c) of this title from the requirements of a rule promulgated under section 2603 of this title before the submission of such notice,
 
 > such person may not, before the expiration of the 90 day period which begins on the date of the submission in accordance with such rule of the test data the submission or development of which was the basis for the exemption, manufacture such substance if such person is subject to subsection (a)(1)(A) of this section or manufacture or process such substance for a significant new use if the person is subject to subsection (a)(1)(B) of this section.
 
@@ -44,7 +44,7 @@
 
 &emsp;(i) in the case of a substance with respect to which notice is required under subsection (a)(1)(A) of this section, the manufacture, processing, distribution in commerce, use, and disposal of the chemical substance or any combination of such activities will not present an unreasonable risk of injury to health or the environment, or
 
-&emsp;(ii) in the case of a chemical substance with respect to which notice is required under subsection (a)(1)(B) of this section, the intended significant new use of the chemical substance will not present an unreasonable risk of injury to health or the environment.
+&emsp;(ii) in the case of a chemical substance with respect to which notice is required under subsection (a)(1)(B) of this section, the intended significant new use of the chemical substancewill not present an unreasonable risk of injury to health or the environment.
 
 (3) Data submitted under paragraph (1) or (2) shall be made available, subject to section 2613 of this title, for examination by interested persons.
 
@@ -122,7 +122,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 &emsp;(II) such substance is or will be produced in substantial quantities, and such substance either enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to the substance.
 
-(C) Pending the completion of a proceeding for the issuance of an injunction under subparagraph (B) respecting a chemical substance, the court may, upon application of the Administrator made through attorneys of the Environmental Protection Agency, issue a temporary restraining order or a preliminary injunction to prohibit the manufacture, processing, distribution in commerce, use, or disposal of such a substance (or any combination of such activities) ifthe court finds that the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance may expire before such proceeding can be completed.
+(C) Pending the completion of a proceeding for the issuance of an injunction under subparagraph (B) respecting a chemical substance, the court may, upon application of the Administrator made through attorneys of the Environmental Protection Agency, issue a temporary restraining order or a preliminary injunction to prohibit the manufacture, processing, distribution in commerce, use, or disposal of such a substance (or any combination of such activities) if the court finds that the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance may expire before such proceeding can be completed.
 
 (D) After the submission to the Administrator of test data sufficient to evaluate the health and environmental effects of a chemical substance subject to an injunction issued under subparagraph (B) and the evaluation of such data by the Administrator, the district court of the United States which issued such injunction shall, upon petition dissolve the injunction unless the Administrator has initiated a proceeding for the issuance of a rule under section 2605(a) of this title respecting the substance. If such a proceeding has been initiated, such court shall continue the injunction in effect until the effective date of the rule promulgated in such proceeding or, if such proceeding is terminated without the promulgation of a rule, upon the termination of the proceeding, whichever occurs first.
 
@@ -162,7 +162,7 @@ If the Administrator has not initiated any action under this section or section 
 
 (1) The Administrator may, upon application, exempt any person from any requirement of subsection (a) or (b) of this section to permit such person to manufacture or process a chemical substance for test marketing purposes—
 
-&emsp;(A) upon a showing by such person satisfactory to the Administrator that the manufacture, processing, distribution in commerce, use, and disposal of such substance, and that any combination of such activities, for such purposes will not present any unreasonablerisk of injury to health or the environment, and
+&emsp;(A) upon a showing by such person satisfactory to the Administrator that the manufacture, processing, distribution in commerce, use, and disposal of such substance, and that any combination of such activities, for such purposes will not present any unreasonable risk of injury to health or the environment, and
 
 &emsp;(B) under such restrictions as the Administrator considers appropriate.
 
@@ -176,7 +176,7 @@ If the Administrator has not initiated any action under this section or section 
 
 (B) If the Administrator exempts any person, under subparagraph (A), from submitting data required under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
-&emsp;(i) to the person who previously submitted the data on which the exemption was based, for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) of this section to submit such data, and
+&emsp;(i) to the person who previously submitted the data on which the exemption was based,for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) of this section to submit such data, and
 
 &emsp;(ii) to any other person who has been required under this subparagraph to contribute with respect to such costs, for a portion of the amount such person was required to contribute.
 

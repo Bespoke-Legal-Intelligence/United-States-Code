@@ -14,7 +14,7 @@ The rights and interests of the Pueblo recognized in sections 539m to 539m–12 
 
 #### (b) Exception
 
-No person who exercises traditional or cultural use rights as authorized by section539m–3(a)(4) of this title may be prosecuted for a Federal wildlife offense requiring proof of a violation of a State law (including regulations).
+No person who exercises traditional or cultural use rights as authorized by section 539m–3(a)(4) of this title may be prosecuted for a Federal wildlife offense requiring proof of a violation of a State law (including regulations).
 
 (Pub. L. 108–7, div. F, title IV, §406, Feb. 20, 2003, 117 Stat. 284.)
 

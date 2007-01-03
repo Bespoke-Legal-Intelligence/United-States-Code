@@ -4,7 +4,7 @@
 
 None of the funds authorized under this chapter shall be used—
 
-&emsp;(1) to develop or distribute materials, or operate programs or courses of instruction directed at youth, that are designed to promoteor encourage sexual activity, whether homosexual or heterosexual;
+&emsp;(1) to develop or distribute materials, or operate programs or courses of instruction directed at youth, that are designed to promote or encourage sexual activity, whether homosexual or heterosexual;
 
 &emsp;(2) to distribute or to aid in the distribution by any organization of legally obscene materials to minors on school grounds;
 

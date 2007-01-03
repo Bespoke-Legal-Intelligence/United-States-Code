@@ -14,7 +14,7 @@
 
 &emsp;(3) section 5 of title 41, except in the case of stenographic reporting services by an organization.
 
-> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or other statute authorizing the procurement of the services.
+> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or otherstatute authorizing the procurement of the services.
 
 (c) Positions in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service may not be filled under the authority of subsection (b) of this section.
 

@@ -16,7 +16,7 @@
 
 (f) No pension shall be paid under this section to a surviving spouse of a veteran unless the spouse was married to the veteran—
 
-&emsp;(1) before (A) December 14, 1944, in the case of a surviving spouse of a Mexican border period or World War I veteran, (B) January 1, 1957, in the case of a surviving spouse of a World War II veteran, (C) February 1, 1965, in the case of a surviving spouse of a Korean conflict veteran, (D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran, or (E) January 1, 2001, in the case of a surviving spouse of a veteran of the Persian Gulf War;
+&emsp;(1) before (A) December 14, 1944, in the case of a surviving spouse of a Mexican border period or World War I veteran, (B) January 1, 1957, in the case of a surviving spouse of a World War II veteran, (C) February 1, 1965, in the case of a surviving spouse of a Korean conflict veteran, (D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran, or\(E) January 1, 2001, in the case of a surviving spouse of a veteran of the Persian Gulf War;
 
 &emsp;(2) for one year or more; or
 
@@ -26,7 +26,7 @@
 
 (h) As used in this section and section 1542 of this title, the term “veteran” includes a person who has completed at least two years of honorable active military, naval, or air service, as certified by the Secretary concerned, but whose death in such service was not in line of duty.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §541; Pub. L. 86–211, §4, Aug. 29, 1959, 73 Stat. 434; Pub. L. 88–664, §3(c), (d), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §§101(a), 106, title II, §202(d)–(f), Aug. 31, 1967, 81 Stat. 178, 179, 182; Pub. L. 90–275, §1(c), (d), Mar. 28, 1968, 82 Stat. 65, 66; Pub. L. 91–588, §§1(c), (d), 9(d), Dec. 24, 1970, 84Stat. 1581, 1584; Pub. L. 92–198, §1(c)–(e), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(c), (d), 2, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §3, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§101(2)(B), (C), (H), 103, 106(40), Dec. 23, 1975, 89 Stat. 1013, 1014, 1016, 1019; Pub. L. 94–432, title II, §203, Sept. 30, 1976, 90 Stat. 1370; Pub. L. 95–204, title I, §102, Dec. 2, 1977, 91 Stat. 1456; Pub. L. 95–588, title I, §109(a), Nov. 4, 1978, 92 Stat. 2503; Pub. L. 102–25, title III, §333(b), Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1541 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §541; Pub. L. 86–211, §4, Aug. 29, 1959, 73 Stat. 434; Pub. L. 88–664, §3(c), (d), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §§101(a), 106, title II, §202(d)–(f), Aug. 31, 1967, 81 Stat. 178, 179, 182; Pub. L. 90–275, §1(c), (d), Mar. 28, 1968, 82 Stat. 65, 66; Pub. L. 91–588, §§1(c), (d), 9(d), Dec. 24, 1970, 84 Stat. 1581, 1584; Pub. L. 92–198, §1(c)–(e), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(c), (d), 2, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §3, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§101(2)(B), (C), (H), 103, 106(40), Dec. 23, 1975, 89 Stat. 1013, 1014, 1016, 1019; Pub. L. 94–432, title II, §203, Sept. 30, 1976, 90 Stat. 1370; Pub. L. 95–204, title I, §102, Dec. 2, 1977, 91 Stat. 1456; Pub. L. 95–588, title I, §109(a), Nov. 4, 1978, 92 Stat. 2503; Pub. L. 102–25, title III, §333(b), Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1541 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 Sections 101 and 106 of Pub. L. 94–169 provided that the amendments made by those sections are effective Jan. 1, 1976.
 
-Section 103 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided thatthe amendment made by that section is effective Jan. 1, 1976.
+Section 103 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 

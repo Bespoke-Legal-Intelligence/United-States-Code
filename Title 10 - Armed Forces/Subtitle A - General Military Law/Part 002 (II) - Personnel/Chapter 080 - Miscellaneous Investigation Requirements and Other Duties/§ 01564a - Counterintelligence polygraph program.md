@@ -52,7 +52,7 @@ Exceptions From Coverage for Certain Intelligence Agencies and Functions.—This
 
 &emsp;(3) A person assigned to a space where sensitive cryptographic information is produced, processed, or stored.
 
-&emsp;(4) A person employed by, or assigned or detailed to, an office within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance programs or a contractor of such an office.
+&emsp;(4) A person employed by, or assigned or detailed to, an office within the Department ofDefense for the collection of specialized national foreign intelligence through reconnaissance programs or a contractor of such an office.
 
 (e)
 

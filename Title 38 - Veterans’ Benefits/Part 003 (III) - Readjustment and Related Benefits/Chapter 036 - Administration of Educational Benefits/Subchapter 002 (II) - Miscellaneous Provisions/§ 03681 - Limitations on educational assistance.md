@@ -18,6 +18,8 @@
 
 #### References in Text
 
+Chapter 106 of title 10, referred to in subsecs. (a) and (b)(2), which consisted of sections 2131 to 2138, was amended by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006, to renumber sections 2131 to 2137 as 16131 to 16137, respectively, and transfer them to chapter 1606 of Title 10, Armed Forces.
+
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (b)(3), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
 The Hostage Relief Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note under section 5561 of Title 5, Government Organization and Employees.

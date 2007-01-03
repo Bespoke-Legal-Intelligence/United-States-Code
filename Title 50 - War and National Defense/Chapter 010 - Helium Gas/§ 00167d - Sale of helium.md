@@ -2,7 +2,7 @@
 
 #### (a) Purchase by Government agencies
 
-The Department of Defense, the Atomic Energy Commission, and other agencies of the Federal Government, to the extent that supplies are readily available, shall purchase all major requirements of helium from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary.
+The Department of Defense, the Atomic Energy Commission, and other agencies of the Federal Government, to the extent that supplies arereadily available, shall purchase all major requirements of helium from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary.
 
 #### (b) Sales by Secretary
 
@@ -22,7 +22,7 @@ All moneys received by the Secretary from the sale or disposition of helium on F
 
 #### (e) Helium production fund
 
-(1) All moneys received under this chapter, including moneys from sale of helium or other products resulting from helium operations and from the sale of excess property shall be credited to the helium production fund, which shall be available without fiscal year limitation, for carrying out the provisions of this chapter, including any research relating to helium carried out by the Department of the Interior. Amounts accumulating in said fund in excess of amounts the Secretary deems necessary to carry out this chapter and contracts negotiated hereunder shall be paid to the Treasury and creditedagainst the amounts required to be repaid to the Treasury under subsection (c) of this section.
+(1) All moneys received under this chapter, including moneys from sale of helium or other products resulting from helium operations and from the sale of excess property shall be credited to the helium production fund, which shall be available without fiscal year limitation, for carrying out the provisions of this chapter, including any research relating to helium carried out by the Department of the Interior. Amounts accumulating in said fund in excess of amounts the Secretary deems necessary to carry out this chapter and contracts negotiated hereunder shall be paid to the Treasury and credited against the amounts required to be repaid to the Treasury under subsection (c) of this section.
 
 (2)(A) Within 7 days after the commencement of each fiscal year after the disposal of the facilities referred to in section 167b(c) of this title, all amounts in such fund in excess of $2,000,000 (or such lesser sum as the Secretary deems necessary to carry out this chapter during such fiscal year) shall be paid to the Treasury and credited as provided in paragraph (1).
 

@@ -1,8 +1,8 @@
 ### §3210. Franked mail transmitted by the Vice President, Members of Congress, and congressional officials
 
-(a)(1) It is the policy of the Congress that the privilege of sending mail as franked mail shallbe established under this section in order to assist and expedite the conduct of the official business, activities, and duties of the Congress of the United States.
+(a)(1) It is the policy of the Congress that the privilege of sending mail as franked mail shall be established under this section in order to assist and expedite the conduct of the official business, activities, and duties of the Congress of the United States.
 
-(2) It is the intent of the Congress that such official business, activities, and duties cover all matters which directly or indirectly pertain to the legislative process or to any congressional representative functions generally, or to the functioning, working, or operating of the Congress and the performance of official duties in connection therewith, and shall include, but not be limited to, the conveying of information to the public, and the requesting of the views of the public, or the views and information of other authority of government, as a guide or a means of assistance in the performance of those functions.
+(2) It is the intent of the Congress that such official business, activities, and duties cover all matters which directly or indirectly pertain to the legislative process or to any congressional representative functions generally, or to the functioning, working, or operating of the Congress and the performance of official duties in connection therewith, and shall include, but notbe limited to, the conveying of information to the public, and the requesting of the views of the public, or the views and information of other authority of government, as a guide or a means of assistance in the performance of those functions.
 
 (3) It is the intent of the Congress that mail matter which is frankable specifically includes, but is not limited to—
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) mail matter which specifically solicits political support for the sender or any other person or any political party, or a vote or financial assistance for any candidate for any public office.
 
-> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at ordelivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
+> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
 
 (6)(A) It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—
 
@@ -84,11 +84,11 @@
 
 (2) A Member-elect to the Congress may mail franked mail with a simplified form of address for delivery within that area constituting the congressional district or the State from which he was elected.
 
-(3) A Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect to the House of Representatives may mail frankedmail with a simplified form of address for delivery within the area from which he was elected.
+(3) A Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect to the House of Representatives may mail franked mail with a simplified form of address for delivery within the area from which he was elected.
 
 (4) Any franked mail which is mailed under this subsection shall be mailed at the equivalent rate of postage which assures that the mail will be sent by the most economical means practicable.
 
-(5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
+(5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulationsgoverning any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
 
 (6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
@@ -114,9 +114,11 @@
 
 (g) Notwithstanding any other provision of Federal, State, or local law, or any regulation thereunder, the equivalent amount of postage determined under section 3216 of this title on franked mail mailed under the frank of the Vice President or a Member of Congress, and the cost of preparing or printing such frankable matter for such mailing under the frank, shall not be considered as a contribution to, or an expenditure by, the Vice President or a Member of Congress for the purpose of determining any limitation on expenditures or contributions with respect to any such official, imposed by any Federal, State, or local law or regulation, in connection with any campaign of such official for election to any Federal office.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, §714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, §1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, §309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, §102(a), Sept. 16, 1996, 110 Stat. 2401.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, §714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, §1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, §309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, §102(a), Sept. 16, 1996, 110 Stat. 2401; Pub. L. 109–435, title X, §1010(g)(4), Dec. 20, 2006, 120 Stat. 3262.)
 
 #### Amendments
+
+2006—Subsec. (a)(6)(C). Pub. L. 109–435 substituted “is postmarked fewer” for “is mailed fewer”.
 
 1996—Subsec. (a)(6)(A)(i). Pub. L. 104–197, §102(a)(1), inserted “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
 
@@ -140,7 +142,9 @@ Subsec. (d)(1). Pub. L. 102–392, §309(a)(2), struck out subpar. (A) designati
 
 Subsec. (a)(7). Pub. L. 101–520, §316, added par. (7).
 
-1989—Subsec. (a)(6)(A)(i), (ii)(II), (C). Pub. L. 101–163, §318(1)–(3), substituted “is postmarked fewer” for “is mailed fewer”.
+1989—Subsec. (a)(6). Pub. L. 101–163, §318(3), which directed the substitution of “is postmarked fewer” for “is mailed fewer” in subparagraph (c) of subsec. (a)(6) of this section, was not executed because subsec. (a)(6) does not have a subparagraph (c). See 2006 Amendment note above.
+
+Subsec. (a)(6)(A)(i), (ii)(II). Pub. L. 101–163, §318(1), (2), substituted “is postmarked fewer” for “is mailed fewer”.
 
 Subsec. (a)(6)(F). Pub. L. 101–163, §318(4), added subpar. (F).
 
@@ -148,7 +152,7 @@ Subsec. (a)(6)(F). Pub. L. 101–163, §318(4), added subpar. (F).
 
 1981—Subsec. (a)(3)(F). Pub. L. 97–69, §1, struck out provision relating to mail matter expressing condolences to a person who has suffered a loss.
 
-Subsec. (a)(5). Pub. L. 97–69, §2(a), inserted provision relating to brief references in otherwise frankable mail in subpar. (B)(i), and struck out subpar. (D) which related to mass mailing mailed at or delivered to any postal facility less than 28 days immediately before the date of any primary or general election in which the Member or Member-elect was a candidate for public office. See subsec. (a)(6) of this section.
+Subsec. (a)(5). Pub. L. 97–69, §2(a), inserted provision relating to brief references in otherwise frankable mailin subpar. (B)(i), and struck out subpar. (D) which related to mass mailing mailed at or delivered to any postal facility less than 28 days immediately before the date of any primary or general election in which the Member or Member-elect was a candidate for public office. See subsec. (a)(6) of this section.
 
 Subsec. (a)(6). Pub. L. 97–69, §2(b), added par. (6).
 

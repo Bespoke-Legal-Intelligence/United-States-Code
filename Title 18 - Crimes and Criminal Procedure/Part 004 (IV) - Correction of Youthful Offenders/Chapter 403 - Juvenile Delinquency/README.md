@@ -27,7 +27,7 @@
 
 #### Change of Name
 
-Words “magistrate judge” substituted for “magistrate” in items 5033 and 5034 pursuant to section 321of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” substituted for “magistrate” in items 5033 and 5034 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 
 ---

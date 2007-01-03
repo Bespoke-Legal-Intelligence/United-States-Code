@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall pay, in the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, a death benefit in the amount determined under paragraph (2) to the survivor or survivors in the same manner as death benefits are paid pursuant to the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.)with respect to an eligible deceased (except that in the case of an eligible individual who is a minor with no living parent, the legal guardian shall be considered the survivor in the place of the parent).
+&emsp;The Secretary shall pay, in the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, a death benefit in the amount determined under paragraph (2) to the survivor or survivors in the same manner as death benefits are paid pursuant to the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) with respect to an eligible deceased (except that in the case of an eligible individual who is a minor with no living parent, the legal guardian shall be considered the survivor in the place of the parent).
 
 #### (2) Benefit amount
 
@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, if the individual had one or more dependents under the age of 18, the legal guardian of the dependents may, in lieu of the death benefit under subsection (a) of this section, elect to receive on behalf of the aggregate of such dependents payments in accordance with this subsection. An election under the preceding sentence is effective in lieu of a request under subsection (a) of this section by an individual who is not the legal guardian of such dependents.
+&emsp;In the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, if the individual had one or more dependents under the age of 18, the legal guardian of the dependents may,in lieu of the death benefit under subsection (a) of this section, elect to receive on behalf of the aggregate of such dependents payments in accordance with this subsection. An election under the preceding sentence is effective in lieu of a request under subsection (a) of this section by an individual who is not the legal guardian of such dependents.
 
 #### (2) Amount of payments
 
@@ -64,7 +64,7 @@ A benefit under subsection (a) or (b) of this section shall be in addition to an
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a)(1), (2)(A), (3), is Pub. L.90–351, June 19, 1968, 82 Stat. 197, as amended. Subpart 1 of part L of title I of the Act is classified generally to part A (§3796 et seq.) of subchapter XII of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a)(1), (2)(A), (3), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Subpart 1 of part L of title I of the Act is classified generally to part A (§3796 et seq.) of subchapter XII of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

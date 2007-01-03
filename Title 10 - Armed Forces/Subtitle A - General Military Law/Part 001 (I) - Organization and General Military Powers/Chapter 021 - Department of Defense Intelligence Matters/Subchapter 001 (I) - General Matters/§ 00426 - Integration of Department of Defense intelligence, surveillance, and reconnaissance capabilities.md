@@ -6,7 +6,7 @@ Integration Council.—(1) The Under Secretary of Defense for Intelligence shall
 
 &emsp;(A) to assist the Under Secretary with respect to matters relating to the integration of intelligence, surveillance, and reconnaissance capabilities, and coordination of related developmental activities, of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands; and
 
-&emsp;(B) otherwise to provide a means to facilitate the integration of such capabilities and the coordiation <sup>1</sup> of such developmental activities.
+&emsp;(B) otherwise to provide a means to facilitate the integration of such capabilities and the coordination of such developmental activities.
 
 (2) The Council shall be composed of—
 
@@ -22,9 +22,13 @@ Integration Council.—(1) The Under Secretary of Defense for Intelligence shall
 
 Integration Roadmap.—(1) The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
 
-(2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of Central Intelligence.
+(2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation withthe Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of Central Intelligence.
 
-(Added Pub. L. 108–136, div. A, title IX, §923(c)(1), Nov. 24, 2003, 117 Stat. 1575.)
+(Added Pub. L. 108–136, div. A, title IX, §923(c)(1), Nov. 24, 2003, 117 Stat. 1575; amended Pub. L. 109–364, div. A, title X, §1071(a)(3), Oct. 17, 2006, 120 Stat. 2398.)
+
+#### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–364 substituted “coordination” for “coordiation”.
 
 #### Change of Name
 
@@ -40,7 +44,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) As part of transformation efforts within the Department of Defense, each of the Armed Forces is developing intelligence, surveillance, and reconnaissance capabilities that best support future war fighting as envisioned by the leadership of the military department concerned.
 
-&emsp;“(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps tobest support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments.
+&emsp;“(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps to best support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments.
 
 &emsp;“(3) A senior official of each military department has been designated as the integrator of intelligence, surveillance, and reconnaissance for each of the Armed Forces in such military department, but there is not currently a well-defined forum through which the integrators of intelligence, surveillance, and reconnaissance capabilities for each of the Armed Forces can routinely interact with each other and with senior representatives of Department of Defense intelligence agencies, as well as with other members of the intelligence community, to ensure unity of effort and to preclude unnecessary duplication of effort.
 

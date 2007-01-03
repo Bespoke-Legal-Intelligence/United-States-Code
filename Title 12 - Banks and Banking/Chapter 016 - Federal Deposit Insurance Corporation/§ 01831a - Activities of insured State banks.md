@@ -6,7 +6,7 @@
 
 &emsp;After the end of the 1-year period beginning on December 19, 1991, an insured State bank may not engage as principal in any type of activity that is not permissible for a national bank unless—
 
-&emsp;&emsp;(A) the Corporation has determined that the activity would pose no significant risk to the appropriate deposit insurance fund; and
+&emsp;&emsp;(A) the Corporation has determined that the activity would pose no significant risk to the Deposit Insurance Fund; and
 
 &emsp;&emsp;(B) the State bank is, and continues to be, in compliance with applicable capital standards prescribed by the appropriate Federal banking agency.
 
@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a) of this section, an insured State bank may not engage ininsurance underwriting except to the extent that activity is permissible for national banks.
+&emsp;Notwithstanding subsection (a) of this section, an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
 
 #### (2) Exception for certain federally reinsured crop insurance
 
@@ -78,7 +78,7 @@
 
 &emsp;After the end of the 1-year period beginning on December 19, 1991, a subsidiary of an insured State bank may not engage as principal in any type of activity that is not permissible for a subsidiary of a national bank unless—
 
-&emsp;&emsp;(A) the Corporation has determined that the activity poses no significant risk to the appropriate deposit insurance fund; and
+&emsp;&emsp;(A) the Corporation has determined that the activity poses no significant risk to the Deposit Insurance Fund; and
 
 &emsp;&emsp;(B) the bank is, and continues to be, in compliance with applicable capital standards prescribed by the appropriate Federal banking agency.
 
@@ -124,7 +124,7 @@
 
 #### (A) Finding
 
-&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the insurance fund of which such banks are members.
+&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
 
 #### (B) Actions
 
@@ -134,7 +134,7 @@
 
 #### (ii) Authorized actions
 
-&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring the modification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the insurance fund of which such bank is a member.
+&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring the modification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the Deposit Insurance Fund.
 
 #### (f) Common and preferred stock investment
 
@@ -190,13 +190,13 @@
 
 &emsp;&emsp;(A) the bank has filed a 1-time notice of the bank's intention to acquire and retain investments described in paragraph (1); and
 
-&emsp;&emsp;(B) the Corporation has determined, within 60 days of receiving such notice, that acquiring or retaining such investments does not pose a significant risk to the insurance fund of which such bank is a member.
+&emsp;&emsp;(B) the Corporation has determined, within 60 days of receiving such notice, that acquiring or retaining such investments does not pose a significant risk to the Deposit Insurance Fund.
 
 #### (7) Divestiture
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investmentpermitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
+&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investment permitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
 
 #### (B) Reasonable standard
 
@@ -236,17 +236,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 &emsp;The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f) <sup>1</sup> of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238; Pub. L. 109–173, §8(a)(31), Feb. 15, 2006, 119 Stat. 3615.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–173, §8(a)(31), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
-
-<i>(1) in subsections (a)(1) and (d)(1)(A), by striking “appropriate deposit insurance fund” each place that term appears and inserting “Deposit Insurance Fund”;</i>
-
-<i>(2) in subsection (e)(2)(A), by striking “risk to” and all that follows through the period and inserting “risk to the Deposit Insurance Fund.”; and</i>
-
-<i>(3) in subsections (e)(2)(B)(ii) and (f)(6)(B), by striking “the insurance fund of which such bank is a member” each place that term appears and inserting “the Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(31), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### References in Text
 
@@ -264,13 +254,21 @@ Another prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Oc
 
 #### Amendments
 
-1997—Subsec. (j). Pub. L. 105–24 amended subsec. (j) generally, substituting pars. (1) to (4) for former pars.\(1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
+2006—Subsecs. (a)(1)(A), (d)(1)(A). Pub. L. 109–173, §8(a)(31)(A), substituted “Deposit Insurance Fund” for “appropriate deposit insurance fund”.
+
+Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(W). See 1996 Amendment note below.
+
+Subsec. (e)(2)(A). Pub. L. 109–173, §8(a)(31)(B), substituted “risk to the Deposit Insurance Fund.” for “risk to the insurance fund of which such banks are members.”
+
+Subsecs. (e)(2)(B)(ii), (f)(6)(B). Pub. L. 109–173, §8(a)(31)(C), substituted “the Deposit Insurance Fund” for “the insurance fund of which such bank is a member”.
+
+1997—Subsec. (j). Pub. L. 105–24 amended subsec. (j) generally, substituting pars. (1) to (4) for former pars. (1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
 
 1996—Subsec. (a). Pub. L. 104–208, §2217(1), substituted “Permissible activities” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
 
-Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (d)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (d)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (d)(3). Pub. L. 104–208, §2217(2), added par. (3).
 
@@ -282,9 +280,11 @@ Subsec. (d)(3). Pub. L. 104–208, §2217(2), added par. (3).
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by section 2704(d)(14)(W) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+Amendment by section 2704(d)(14)(W) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendment
 

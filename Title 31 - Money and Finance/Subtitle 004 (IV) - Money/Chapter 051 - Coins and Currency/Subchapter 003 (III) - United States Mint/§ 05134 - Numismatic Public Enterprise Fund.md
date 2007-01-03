@@ -22,7 +22,7 @@ Numismatic operations and programs.—The term “numismatic operations and prog
 
 &emsp;&emsp;(A) means the activities concerning, and assets utilized in, the production, administration, sale, and management of numismatic items and the Numismatic Public Enterprise Fund; and
 
-&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing, distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, and the renovation or modernization of facilities (other than the construction or acquisition of new buildings).
+&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing,distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, and the renovation or modernization of facilities (other than the construction or acquisition of new buildings).
 
 &emsp;(5)
 
@@ -30,7 +30,7 @@ Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
 (b)
 
-Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup>under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
+Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup> under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
 
 (c)
 
@@ -232,7 +232,7 @@ Responsibility of organization to account for expenditures of surcharges.—Each
 
 &emsp;&emsp;(D)
 
-Submission of audit report.—Not later than 90 days after the end of any fiscalyear of a designated recipient organization for which an audit is required under subparagraph (A), the organization shall—
+Submission of audit report.—Not later than 90 days after the end of any fiscal year of a designated recipient organization for which an audit is required under subparagraph (A), the organization shall—
 
 &emsp;&emsp;&emsp;(i) submit a copy of the report to the Secretary of the Treasury; and
 
@@ -304,7 +304,7 @@ The date of enactment of the Treasury, Postal Service, and General Government Ap
 
 #### Amendments
 
-2003—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
+2003—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading andtext of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
 
 Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
 

@@ -52,7 +52,7 @@
 
 (5)(A) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
-(B) The position of regional director within such office or entity, and any other positionwithin such office or entity the primary responsibilities of which are to carry out supervisory functions, may not be held by a member of the armed forces on active duty.
+(B) The position of regional director within such office or entity, and any other position within such office or entity the primary responsibilities of which are to carry out supervisory functions, may not be held by a member of the armed forces on active duty.
 
 (d)(1) Subject to paragraph (2), the Office of the Secretary of the Navy shall have sole responsibility within the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, for the function of research and development.
 

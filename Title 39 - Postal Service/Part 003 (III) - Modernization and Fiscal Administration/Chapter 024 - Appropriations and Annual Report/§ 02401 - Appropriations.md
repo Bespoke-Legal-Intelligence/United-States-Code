@@ -22,31 +22,37 @@
 
 (c) There are authorized to be appropriated to the Postal Service each year a sum determined by the Postal Service to be equal to the difference between the revenues the Postal Service would have received if sections 3217 and 3403 through 3406 had not been enacted and the estimated revenues to be received on mail carried under such sections. In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume.
 
-(d) As reimbursement to the Postal Service for losses which it incurred as a result of insufficient amounts appropriated under section 2401(c) for fiscal years 1991 through 1993, and to compensate for the additional revenues it is estimated the Postal Service would have received under the provisions of section 3626(a), for the period beginning on October 1, 1993, and ending on September 30, 1998, if the fraction specified in subclause (VI) of section 3626(a)(3)(B)(ii) were applied with respect to such period (instead of the respective fractions specified in subclauses (I) through (V) thereof), there are authorized to be appropriated to the Postal Service $29,000,000 for each of fiscal years 1994 through 2035.
+(d) As reimbursement to the Postal Service for losses which it incurred as a result of insufficient amounts appropriated under section 2401(c) for fiscal years 1991 through 1993, and to compensate for the additional revenues it is estimated the Postal Service would have received under the provisions of section 3626(a) (as last in effect before enactment of the Postal Accountability and Enhancement Act), for the period beginning on October 1, 1993, and ending on September 30, 1998, if the fraction specified in subclause (VI) of section 3626(a)(3)(B)(ii) (as last in effect before enactment of the Postal Accountability and Enhancement Act) were applied with respect to such period (instead of the respective fractions specified in subclauses (I) through (V) thereof), there are authorized to be appropriated to the Postal Service $29,000,000 for each of fiscal years 1994 through 2035.
 
-(e) The Postal Service shall present to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives, at the same time it submits its annual budget under section 2009 of this title, sufficient copies of the budget of the Postal Service for the fiscal year for which funds are requested to be appropriated, and a comprehensive statement relating to the following matters:
+(e) The Postal Service shall present to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives, at the same time it submits its annual budget under section 2009 of this title, sufficient copies of the budget of the Postal Service for the fiscal year for which funds are requested to be appropriated, and a comprehensive statement relating to the following matters:
 
 &emsp;(1) the plans, policies, and procedures of the Postal Service designed to comply with all of the provisions of section 101 of this title;
 
 &emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail and types of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
 
-&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated,and the means by which these estimated expenses will be financed; and
+&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
 
 &emsp;(4) such other matters as the committees may determine necessary to ensure that the Congress is fully and currently consulted and informed on postal operations, plans, and policies.
 
-> Not later than March 15 of each year, the Postal Service shall appear before the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives to submit information which any such committee considers necessary to determine the amount of funds to be appropriated for the operation of the Postal Service, and to present testimony and respond to questions with respect to such budget and statement. Each such committee shall take such action as it considers appropriate and shall advise the Postal Service of such action.
+> Each year, the Postal Service shall appear before the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives to submit information which any such committee considers necessary to determine the amount of funds to be appropriated for the operation of the Postal Service, and to present testimony and respond to questions with respect to such budget and statement. Each such committee shall take such action as it considers appropriate and shall advise the Postal Service of such action.
 
 (f) The failure of the President to request the appropriation of any part of the funds authorized by this section may not be deemed a failure of appropriations.
 
 (g) The rates established under chapter 36 of this title for zone-rated parcels formerly entered under former chapter 67 of this title shall not be more than 10 percent less than the rates for such mail would be if the funds authorized under subsection (b) were not appropriated.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, §2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, §11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, §1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, §201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, §6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, §8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267, 1270; Pub. L. 103–437, §13, Nov. 2, 1994, 108 Stat. 4590.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, §2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, §11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, §1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, §201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, §6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, §8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267, 1270; Pub. L. 103–437, §13, Nov. 2, 1994, 108 Stat. 4590; Pub. L. 109–435, title X, §1010(c)(2), (d)(1), Dec. 20, 2006, 120 Stat. 3261.)
 
 #### References in Text
+
+Enactment of the Postal Accountability and Enhancement Act, referred to in subsec. (d), means the enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
 Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–435, §1010(c)(2), inserted “(as last in effect before enactment of the Postal Accountability and Enhancement Act)” after “section 3626(a)” and after “section 3626(a)(3)(B)(ii)”.
+
+Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted “Committee on Government Reform” for “Committee on Post Office and Civil Service” in introductory and concluding provisions and “Each year,” for “Not later than March 15 of each year,” in concluding provisions.
 
 1994—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service”, and, in concluding provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service of the Senate and the House of Representatives”.
 
@@ -76,7 +82,7 @@ Subsecs. (h), (i). Pub. L. 103–123, §704(b)(1)(B), redesignated subsecs. (h) 
 
 Pub. L. 99–410 substituted “3406” for “3405” and struck out “the Overseas Citizens Voting Rights Act of 1975, and the Federal Voting Assistance Act of 1955” after “3626 of this title,”.
 
-1981—Subsec. (b)(1). Pub. L. 97–35 substituted “$250,000,000” for “an amount equal to 7 percent of such sum for fiscal year 1971” in subpar. (D), substituted “$100,000,000” for “an amount equal to 6 percent of such sum for fiscal year 1971” in subpar. (E), and substituted “no funds are authorized to be appropriated” for “an amount equal to 5 percent of such sum for fiscal year 1971” in subpar. (F).
+1981—Subsec. (b)(1). Pub. L. 97–35 substituted “$250,000,000” for “an amount equal to 7 percent of suchsum for fiscal year 1971” in subpar. (D), substituted “$100,000,000” for “an amount equal to 6 percent of such sum for fiscal year 1971” in subpar. (E), and substituted “no funds are authorized to be appropriated” for “an amount equal to 5 percent of such sum for fiscal year 1971” in subpar. (F).
 
 1980—Subsec. (b)(1)(C). Pub. L. 96–499, §411, substituted “$486,000,000” for “an amount equal to 8 percent of such sum for fiscal year 1971”.
 
@@ -122,13 +128,9 @@ Section 415 of Pub. L. 96–499 provided that: “The provisions of this subtitl
 
 Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9, of the Board of Governors, and subsecs. (b) and (c) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-#### Abolition of House Committee on Post Office and Civil Service
-
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a “Comprehensive statement of current and planned operations, policies, financial expenditures and obligations” as required under subsec. (e) of this section is listed on page 194), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the last item on page 194 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Reduction of Authorization for Revenue Foregone
 

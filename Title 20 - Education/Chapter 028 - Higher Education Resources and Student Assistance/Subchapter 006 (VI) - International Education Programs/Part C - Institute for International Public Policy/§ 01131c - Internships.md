@@ -50,7 +50,7 @@ The Institute shall enter into agreements with institutions of higher education 
 
 #### References in Text
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (a), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (a), is Pub. L.95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 #### Prior Provisions
 

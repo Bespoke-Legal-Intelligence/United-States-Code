@@ -12,7 +12,7 @@ The following shall apply with respect to the standard of the American Society f
 
 &emsp;(2) The standard referred to in subsection (a) of this section as modified by this subsection applies to art materials intended for users of any age.
 
-&emsp;(3) Each producer or repackager of art materials shall describe in writing the criteria used to determine whether an art material has the potential for producing chronic adverse health effects. Each producer or repackager shall be responsible for submitting to the Commission these criteria and a list of art materials that require hazard warning labels under this section.
+&emsp;(3) Each producer or repackager of art materials shall describe in writing the criteria usedto determine whether an art material has the potential for producing chronic adverse health effects. Each producer or repackager shall be responsible for submitting to the Commission these criteria and a list of art materials that require hazard warning labels under this section.
 
 &emsp;(4) Upon the request of the Commission, a producer or repackager of art materials shall submit to the Commission product formulations and the criteria used to determine whether the art material or its ingredients have the potential for producing chronic adverse health effects.
 
@@ -58,7 +58,7 @@ The Commission may bring an action under section 1267 of this title to enjoin th
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to theCode, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

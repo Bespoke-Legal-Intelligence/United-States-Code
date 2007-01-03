@@ -34,7 +34,7 @@ There shall be, within the National Endowment for the Arts, a National Council o
 
 &emsp;&emsp;(iii) so as collectively to provide an appropriate distribution of membership among major art fields and interested citizens groups.
 
-> In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts and shall make such appointments so as to represent equitably all geographical areas in the United States.
+> In making such appointments, the President shall give due regard to equitable representationof women, minorities, and individuals with disabilities who are involved in the arts and shall make such appointments so as to represent equitably all geographical areas in the United States.
 
 (2)
 

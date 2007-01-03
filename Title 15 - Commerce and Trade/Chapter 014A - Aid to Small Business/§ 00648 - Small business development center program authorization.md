@@ -138,7 +138,7 @@ Privacy requirements.—
 
 In general.—A small business development center, consortium of small business development centers, or contractor or agent of a small business development center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
 
-&emsp;&emsp;(i) the Administrator is ordered to make such a disclosure by a court in any civil orcriminal enforcement action initiated by a Federal or State agency; or
+&emsp;&emsp;(i) the Administrator is ordered to make such a disclosure by a court in any civil or criminal enforcement action initiated by a Federal or State agency; or
 
 &emsp;&emsp;(ii) the Administrator considers such a disclosure to be necessary for the purpose of conducting a financial audit of a small business development center, but a disclosure under this clause shall be limited to the information necessary for such audit.
 
@@ -248,7 +248,7 @@ Inspector general.—Until the effective date of regulations under this subparag
 
 &emsp;(L) conducting in-depth surveys for local small business groups in order to develop general information regarding the local economy and general small business strengths and weaknesses in the locality;
 
-&emsp;(M) in cooperation with the Department of Commerce, the Administration and other relevant Federal agencies, actively assisting rural small businesses in exporting by identifying and developing potential export markets for rural small businesses, facilitating exporttransactions for rural small businesses, developing linkages between United States’ rural small businesses and prescreened foreign buyers, assisting rural small businesses to participate in international trade shows, assisting rural small businesses in obtaining export financing and developing marketing and production strategies;
+&emsp;(M) in cooperation with the Department of Commerce, the Administration and other relevant Federal agencies, actively assisting rural small businesses in exporting by identifying and developing potential export markets for rural small businesses, facilitating export transactions for rural small businesses, developing linkages between United States’ rural small businesses and prescreened foreign buyers, assisting rural small businesses to participate in international trade shows, assisting rural small businesses in obtaining export financing and developing marketing and production strategies;
 
 &emsp;(N) assisting rural small businesses—
 
@@ -400,7 +400,7 @@ Subsec. (k). Pub. L. 108–447, §142(b), substituted “Accreditation” for �
 
 2001—Subsec. (a)(4)(C)(v)(II). Pub. L. 107–20 inserted “, or accompanying report language,” after “in appropriations Acts”.
 
-2000—Subsec. (a)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VIII, §804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State's pro rata share ofthe national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscal year thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 for fiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
+2000—Subsec. (a)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VIII, §804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State's pro rata share of the national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscal year thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 forfiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
 
 Subsec. (c)(3)(T). Pub. L. 106–554, §1(a)(9) \[title V, §503(e)\], substituted “2003” for “2000”.
 
@@ -522,7 +522,7 @@ Subsec. (a)(2) to (4). Pub. L. 98–395, §2(2), added pars. (2) to (4). Former 
 
 Subsec. (b)(1). Pub. L. 98–395, §2(3), substituted “Financial” for “During fiscal years 1981, 1982, and 1983, financial”.
 
-Subsec. (c)(2). Pub. L. 98–395, §2(4), inserted in provisions preceding subpar. (A) “The facilities and staff of each Small Business Development Center shall be located in such places as to provide maximum accessibility and benefits to the small businesses which the center is intended to serve.”
+Subsec. (c)(2). Pub. L. 98–395, §2(4), inserted in provisions preceding subpar. (A) “The facilities and staff ofeach Small Business Development Center shall be located in such places as to provide maximum accessibility and benefits to the small businesses which the center is intended to serve.”
 
 Subsec. (c)(2)(A). Pub. L. 98–395, §2(5), substituted “including a full-time director who shall have the authority to make expenditures under the center's budget and who shall manage the program activities;” for “including a staff director to manage the program activities.”
 

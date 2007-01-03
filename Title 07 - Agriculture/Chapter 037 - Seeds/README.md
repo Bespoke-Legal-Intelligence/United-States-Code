@@ -22,11 +22,6 @@
 | [1571\.](Subchapter%20002%20%28II%29%20-%20Interstate%20Commerce/%C2%A7%2001571%20-%20Prohibitions%20relating%20to%20interstate%20commerce%20in%20certain%20seeds.md) | Prohibitions relating to interstate commerce in certain seeds. |
 | [1572\.](Subchapter%20002%20%28II%29%20-%20Interstate%20Commerce/%C2%A7%2001572%20-%20Records.md) | Records. |
 | [1573\.](Subchapter%20002%20%28II%29%20-%20Interstate%20Commerce/%C2%A7%2001573%20-%20Exemptions.md) | Exemptions. |
-| (a) | Carrier transporting seeds. |
-| (b) | Seeds not for seeding purposes. |
-| (c) | Emergency preventing presentation of information. |
-| (d) | Intermixture of unidentified seeds; percentages of kind or kind and variety of seeds. |
-| (e) | Name of substance used in treatment of seeds. |
 | [1574\.](Subchapter%20002%20%28II%29%20-%20Interstate%20Commerce/%C2%A7%2001574%20-%20Disclaimers%2C%20limited%20warranties%20and%20nonwarranties.md) | Disclaimers, limited warranties and nonwarranties. |
 | [1575\.](Subchapter%20002%20%28II%29%20-%20Interstate%20Commerce/%C2%A7%2001575%20-%20False%20advertising.md) | False advertising. |
 
@@ -52,19 +47,12 @@
 | [1592\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001592%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [1593\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001593%20-%20Standards%2C%20tests%2C%20tolerances.md) | Standards, tests, tolerances. |
 | [1593a.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001593a%20-%20Seed%20variety%20information%20and%20survey.md) | Seed variety information and survey. |
-| (a) | Information. |
-| (b) | Survey. |
-| (c) | Analysis of variety survey data. |
 | [1594\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001594%20-%20Prohibition%20against%20alterations.md) | Prohibition against alterations. |
 | [1595\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001595%20-%20Seizure.md) | Seizure. |
 | [1596\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001596%20-%20Penalties.md) | Penalties. |
 | [1597\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001597%20-%20Agent%27s%20acts%20as%20binding%20principal.md) | Agent's acts as binding principal. |
 | [1598\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001598%20-%20Notice%20of%20intention%20to%20prosecute.md) | Notice of intention to prosecute. |
 | [1599\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001599%20-%20Cease%20and%20desist%20proceedings.md) | Cease and desist proceedings. |
-| (a) | Hearing. |
-| (b) | Report of Secretary of Agriculture. |
-| (c) | Amendment of report. |
-| (d) | Service. |
 | [1600\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001600%20-%20Appeal%20to%20court%20of%20appeals.md) | Appeal to court of appeals. |
 | [1601\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001601%20-%20Enforcement%20of%20order.md) | Enforcement of order. |
 | [1602\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001602%20-%20Separability.md) | Separability. |

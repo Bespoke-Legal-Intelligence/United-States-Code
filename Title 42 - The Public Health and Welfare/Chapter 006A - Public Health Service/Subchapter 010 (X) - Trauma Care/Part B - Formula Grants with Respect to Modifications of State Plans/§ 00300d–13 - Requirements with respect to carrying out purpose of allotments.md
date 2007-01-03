@@ -8,9 +8,9 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;(2) specifies any public or private entity that will designate trauma care regions and trauma centers in the State;
 
-&emsp;(3) subject to subsection (b) of this section, contains standards and requirements for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in the care of the pediatric trauma patient), by such entity, including standards and requirements for—
+&emsp;(3) subject to subsection (b) of this section, contains standards and requirements for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in thecare of the pediatric trauma patient), by such entity, including standards and requirements for—
 
-&emsp;&emsp;(A) the number and types of trauma patients for whom such centers must provide care in order to ensure that such centers willhave sufficient experience and expertise to be able to provide quality care for victims of injury;
+&emsp;&emsp;(A) the number and types of trauma patients for whom such centers must provide care in order to ensure that such centers will have sufficient experience and expertise to be able to provide quality care for victims of injury;
 
 &emsp;&emsp;(B) the resources and equipment needed by such centers; and
 

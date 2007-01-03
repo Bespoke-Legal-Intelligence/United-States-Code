@@ -18,7 +18,7 @@
 
 &emsp;(B) 20 percent of such costs shall be paid from non-Federal contributions by the Indian tribe or tribal organization through which the scholarship is provided.
 
-(3) In determining the amount of non-Federal contributions that have been provided for purposes of subparagraph (B) of paragraph (2), any amounts provided by the Federal Government to the Indian tribe or tribal organization involved or to any other entity shall not be included.
+(3) In determining the amount of non-Federal contributions that have been provided for purposes of subparagraph (B) of paragraph (2), anyamounts provided by the Federal Government to the Indian tribe or tribal organization involved or to any other entity shall not be included.
 
 (4) Non-Federal contributions required by subparagraph (B) of paragraph (2) may be provided directly by the Indian tribe or tribal organization involved or through donations from public and private entities.
 

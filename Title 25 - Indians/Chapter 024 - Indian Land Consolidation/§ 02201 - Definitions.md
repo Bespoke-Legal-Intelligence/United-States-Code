@@ -62,7 +62,7 @@ Par. (5). Pub. L. 106–462, §103(1)(C)–(E), added par. (5).
 
 #### Notice; Effective Date of 2004 Amendment
 
-Pub. L. 108–374, §8, Oct. 27, 2004, 118 Stat. 1809, provided that:
+Pub. L. 108–374, §8, Oct. 27, 2004, 118 Stat. 1809, as amended by Pub. L. 109–221, title V, §501(b)(3), May 12, 2006, 120 Stat. 344, provided that:
 
 “(a)
 
@@ -106,7 +106,21 @@ Certification.—After providing notice under this subsection, the Secretary sha
 
 “(b)
 
-Effective Date.—Section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206), except subsections (e) and (f) of that section, shall not apply to the estate of an individual who dies before the date that is 1 year after the date on which the Secretary makes the certification required under subsection (a)(4) \[such certification made June 20, 2005, see 70 F.R. 37107\].”
+Effective Dates.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this Act \[see Short Title of 2004 Amendment note below\] apply on and after the date that is 1 year after the date on which the Secretary makes the certification required under subsection (a)(4) \[such certification made June 20, 2005, see 70 F.R. 37107\].
+
+&emsp;“(2)
+
+Exceptions.—The following provisions of law apply as of the date of enactment of this Act \[Oct. 27, 2004\]:
+
+&emsp;&emsp;“(A) Subsections (e) and (f) of section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) (as amended by this Act).
+
+&emsp;&emsp;“(B) Subsection (g) of section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) (as in effect on March 1, 2006).
+
+&emsp;&emsp;“(C) The amendments made by section 4, section 5, paragraphs (1), (3), (4), (5), (6), (7), (8), (9), (10), and (11) of section 6(a), section 6(b)(3), and section 7 of this Act \[see Tables for classification\].”
 
 #### Short Title of 2005 Amendment
 
@@ -118,7 +132,7 @@ Pub. L. 108–374, §1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
+Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act \[enacting sections 2205, 2206, and2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
 
 #### Short Title of 1991 Amendment
 
@@ -186,7 +200,7 @@ Pub. L. 106–462, title I, §101, Nov. 7, 2000, 114 Stat. 1991, provided that: 
 
 &emsp;“(5) the trust periods for trust allotments have been extended indefinitely;
 
-&emsp;“(6) because of the inheritance provisions in the original treaties or allotment Acts, the ownership of many of the trust allotments that have remained intrust status has become fractionated into hundreds or thousands of undivided interests, many of which represent 2 percent or less of the total interests;
+&emsp;“(6) because of the inheritance provisions in the original treaties or allotment Acts, the ownership of many of the trust allotments that have remained in trust status has become fractionated into hundreds or thousands of undivided interests, many of which represent 2 percent or less of the total interests;
 
 &emsp;“(7) Congress has authorized the acquisition of lands in trust for individual Indians, and many of those lands have also become fractionated by subsequent inheritance;
 

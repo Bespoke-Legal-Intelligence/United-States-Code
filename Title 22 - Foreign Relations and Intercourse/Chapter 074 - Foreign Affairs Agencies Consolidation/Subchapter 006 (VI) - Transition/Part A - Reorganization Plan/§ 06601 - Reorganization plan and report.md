@@ -28,7 +28,7 @@ The agencies covered by this section are the following:
 
 #### (c) Plan elements
 
-The plan transmitted under subsection (a) of this section shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
+The plan transmitted under subsection (a) of this section shall contain, consistent with thischapter, such elements as the President deems appropriate, including elements that—
 
 &emsp;(1) identify the functions of each covered agency that will be transferred to the Department under the plan;
 

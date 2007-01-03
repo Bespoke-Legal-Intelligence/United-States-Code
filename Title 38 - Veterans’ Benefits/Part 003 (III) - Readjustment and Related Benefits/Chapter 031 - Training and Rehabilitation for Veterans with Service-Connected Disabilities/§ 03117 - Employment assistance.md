@@ -1,6 +1,6 @@
 ### §3117. Employment assistance
 
-(a)(1) A veteran with a service-connected disability rated at 10 percent or more who has participated in a vocational rehabilitation program under this chapter or a similar program under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.\] and who the Secretary has determined to be employable shall be furnished assistance in obtaining employment consistent with such veteran's abilities, aptitudes, interests, and employment handicap, including assistance necessary to insure that such veteran receives the benefit of any applicable provisions of law or regulation providing for special consideration or emphasis or preference for such veteran in employment or training.
+(a)(1) A veteran with a service-connected disability rated at 10 percent or more who has participated in a vocational rehabilitation program under this chapter or a similar program under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) and who the Secretary has determined to be employable shall be furnished assistance in obtaining employment consistent with such veteran's abilities, aptitudes, interests, and employment handicap, including assistance necessary to insure that such veteran receives the benefit of any applicable provisions of law or regulation providing for special consideration or emphasis or preference for such veteran in employment or training.
 
 (2) Assistance provided under this subsection may include—
 
@@ -10,23 +10,23 @@
 
 &emsp;(C) utilization of the job development and placement services of (i) programs under the Rehabilitation Act of 1973, (ii) the State employment service and the Veterans’ Employment Service of the Department of Labor, (iii) the Office of Personnel Management, (iv) any other public or nonprofit organization having placement services available, and (v) any for-profit entity in a case in which the Secretary has determined that services necessary to provide such assistance are available from such entity and that comparably effective services are not available, or cannot be obtained cost-effectively, from the entities described in subclauses (i) through (iv) of this clause.
 
-(b)(1) In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran's own business and to insure that such veteran receives the special consideration provided for in section 8 <sup>1</sup> of the Small Business Act (15 U.S.C. 633(b)).
+(b)(1) In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran's own business and to insure that such veteran receives the special consideration provided for in section 4(b)(1) of the Small Business Act (15 U.S.C. 633(b)(1)).
 
 (2) In the case of a veteran described in clause (12) of section 3104(a) of this title who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such clause, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2183, §1517; amended Pub. L. 97–72, title III, §303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, §202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, §14(c)(4), June 13, 1991, 105 Stat. 285; renumbered §3117 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(h), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–288, §4(e)(2), Nov. 7, 2002, 116 Stat. 2044.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2183, §1517; amended Pub. L. 97–72, title III, §303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, §202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, §14(c)(4), June 13, 1991, 105 Stat. 285; renumbered §3117 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(h), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–288, §4(e)(2), Nov. 7, 2002, 116 Stat. 2044; Pub. L. 109–233, title V, §503(6), June 15, 2006, 120 Stat. 416.)
 
 #### References in Text
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(1), (2)(C)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
-
-Section 8 of the Small Business Act (15 U.S.C. 633(b)), referred to in subsec. (b)(1), probably means section 2\[4\] of the Small Business Act, Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384, as amended by section 8 of Pub. L. 93–237, Jan. 2, 1974, 87 Stat. 1025, which is classified to section 633(b) of Title 15, Commerce and Trade.
 
 #### Prior Provisions
 
 Prior section 3117 was renumbered section 5317 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–233 substituted “section 4(b)(1)” for “section 8” and “633(b)(1)” for “633(b)”.
 
 2002—Subsec. (a)(2)(B). Pub. L. 107–288 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “utilization of the services of disabled veterans outreach program specialists under section 4103A of this title; and”.
 
@@ -55,6 +55,4 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 #### Effective Date
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) Declaration
 
-&emsp;The Secretary of State, with the concurrence of the Secretary of Health and Human Services, is authorized to declare any foreign country (or a political subdivision thereof) to be a foreign reciprocating country if the foreign country has established, or undertakes to establish, procedures for the establishment and enforcement of duties of support owed to obligees who are residents of the UnitedStates, and such procedures are substantially in conformity with the standards prescribed under subsection (b) of this section.
+&emsp;The Secretary of State, with the concurrence of the Secretary of Health and Human Services, is authorized to declare any foreign country (or a political subdivision thereof) to be a foreign reciprocating country if the foreign country has established, or undertakes to establish, procedures for the establishment and enforcement of duties of support owed to obligees who are residents of the United States, and such procedures are substantially in conformity with the standards prescribed under subsection (b) of this section.
 
 #### (2) Revocation
 

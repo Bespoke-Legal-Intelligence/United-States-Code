@@ -10,10 +10,13 @@
 | [6106\.](%C2%A7%2006106%20-%20Grants%20to%20States.md) | Grants to States. |
 | [6107\.](%C2%A7%2006107%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [6108\.](%C2%A7%2006108%20-%20Relationship%20to%20State%20laws.md) | Relationship to State laws. |
+| [6109\.](%C2%A7%2006109%20-%20Public%20education%20and%20awareness.md) | Public education and awareness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–468, §3(b), Dec. 29, 2006, 120 Stat. 3490, added item 6109.
 
 2002—Pub. L. 107–355, §2(c)(2), Dec. 17, 2002, 116 Stat. 2986, substituted “Implementation of best practices guidelines” for “Review of one-call system best practices” in item 6105.
 
@@ -30,3 +33,4 @@
 - [&sect; 06106 - Grants to States](%C2%A7%2006106%20-%20Grants%20to%20States.md)
 - [&sect; 06107 - Authorization of appropriations](%C2%A7%2006107%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 06108 - Relationship to State laws](%C2%A7%2006108%20-%20Relationship%20to%20State%20laws.md)
+- [&sect; 06109 - Public education and awareness](%C2%A7%2006109%20-%20Public%20education%20and%20awareness.md)

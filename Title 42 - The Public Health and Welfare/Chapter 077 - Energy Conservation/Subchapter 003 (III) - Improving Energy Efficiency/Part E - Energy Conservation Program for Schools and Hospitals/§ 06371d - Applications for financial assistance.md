@@ -6,7 +6,7 @@ Applications of States, schools, and hospitals for financial assistance under th
 
 #### (b) Required information
 
-Applications for financial assistance under this part for energy conservation projects shall contain, or shall be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) of this section shall include a listing and description of energy conservation projects proposed to be funded within the State during the fiscal year for which such application is made, and such information concerning expected expenditures as the Secretary may, by rule, require.
+Applications for financial assistance under this part for energy conservation projects shall contain, or shall be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) of thissection shall include a listing and description of energy conservation projects proposed to be funded within the State during the fiscal year for which such application is made, and such information concerning expected expenditures as the Secretary may, by rule, require.
 
 #### (c) Conditions for financial assistance; applications consistent with related State programs and health plans
 
@@ -24,7 +24,7 @@ The Secretary shall approve such applications submitted by a State energy agency
 
 #### (e) Suspension of further assistance for failure to comply
 
-Whenever the Secretary, after reasonable notice and opportunity for hearing to any State,school, or hospital receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the State, school, or hospital that further assistance will not be made available to such State, school or hospital under this part until he is satisfied that there is no longer any such failure to comply. Until he is so satisfied no further assistance shall be made to such State, school, or hospital under this part.
+Whenever the Secretary, after reasonable notice and opportunity for hearing to any State, school, or hospital receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the State, school, or hospital that further assistance will not be made available to such State, school or hospital under this part until he is satisfied that there is no longer any such failure to comply. Until he is so satisfied no further assistance shall be made to such State, school, or hospital under this part.
 
 (Pub. L. 94–163, title III, §395, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3244.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of list of controlled items
 
-The Secretary of State, in consultation with the Secretary of Defense and the heads of otherappropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405(<i>l</i>) of title 50, Appendix.
+The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405(<i>l</i>) of title 50, Appendix.
 
 #### (b) Referral of license applications
 
@@ -64,7 +64,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) Certain countries are seeking to acquire ballistic missiles and related technologies that could be used to attack the United States or place at risk United States interests, deployed members of the Armed Forces, and allies of the United States and other friendly foreign countries.
 
-&emsp;“(2) Certain countries continue to actively transfer or sell ballistic missile technologies in contravention of standards of behavior established by the UnitedStates and allies of the United States and other friendly foreign countries.
+&emsp;“(2) Certain countries continue to actively transfer or sell ballistic missile technologies in contravention of standards of behavior established by the United States and allies of the United States and other friendly foreign countries.
 
 &emsp;“(3) The spread of ballistic missiles and related technologies worldwide has been slowed by a combination of national and international export controls, forward-looking diplomacy, and multilateral interdiction activities to restrict the development and transfer of such missiles and technologies.
 
@@ -104,7 +104,7 @@ Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i
 
 (1) The authority and duties vested in me to restrict certain imports as provided in section 307(b)(2)(D) \[22 U.S.C. 5605(b)(2)(D)\], pursuant to a determination made by the Secretary of State under section 307(b)(1), are delegated to the Secretary of the Treasury.
 
-(2) The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 307(d)(1)(A)(ii).
+(2) The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of,as appropriate, waivers based upon findings made pursuant to section 307(d)(1)(A)(ii).
 
 (3) The authority and duties vested in me to prohibit certain exports as provided in section 307(a)(5) and section 307(b)(2)(C), pursuant to a determination made by the Secretary of State under section 306(a)(1) and section 307(b)(1), are delegated to the Secretary of Commerce.
 
@@ -112,7 +112,7 @@ Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i
 
 Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</i>. The authority and duties vested in me by sections 72–73 of the AECA (22 U.S.C. 2797a–2797b) are delegated to the Secretary of State, except that:
 
-(1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[50 App. U.S.C. 2401 et seq.\] are delegated to the Secretary of Commerce.
+(1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[50 U.S.C. App. 2401 et seq.\] are delegated to the Secretary of Commerce.
 
 (2) The authority and duties vested in me to deny certain United States Government contracts as provided in sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
 

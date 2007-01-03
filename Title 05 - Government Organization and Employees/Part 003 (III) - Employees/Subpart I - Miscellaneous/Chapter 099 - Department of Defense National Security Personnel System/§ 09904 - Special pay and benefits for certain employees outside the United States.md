@@ -8,7 +8,7 @@ The Secretary may provide to certain civilian employees of the Department of Def
 
 &emsp;&emsp;(B) comparable to those provided by the Director of Central Intelligence to personnel of the Central Intelligence Agency; and
 
-&emsp;(2) special retirement accrual benefits and disability in the same manner provided for by the Central Intelligence Agency Retirement Act (50 U.S.C. 2001 et seq.) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).
+&emsp;(2) special retirement accrual benefits and disability in the same manner provided for bythe Central Intelligence Agency Retirement Act (50 U.S.C. 2001 et seq.) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).
 
 (Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1633.)
 
@@ -20,5 +20,5 @@ The Central Intelligence Agency Retirement Act, referred to in par. (2), is Pub.
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 

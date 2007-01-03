@@ -2,7 +2,7 @@
 
 (a)
 
-Procurement of Coverage.—The Secretary of Defense may include in a contract for the transportation of baggage and household effects for members of the armed forces at Government expense a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
+Procurement of Coverage.—The Secretary of Defense may include in a contract for the transportation at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both) a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
 
 (b)
 
@@ -20,5 +20,21 @@ Regulations.—The Secretary of Defense shall prescribe regulations for administ
 
 Transportation Defined.—In this section, the terms “transportation” and “transport”, with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
 
-(Added Pub. L. 108–136, div. A, title VI, §634(a), Nov. 24, 2003, 117 Stat. 1509.)
+(Added Pub. L. 108–136, div. A, title VI, §634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L. 109–364, div. A, title III, §363(a), (b), Oct. 17, 2006, 120 Stat. 2167.)
+
+#### Amendment of Subsections (a) and (b)
+
+<i>Pub. L. 109–364, div. A, title III, §363(b), Oct. 17, 2006, 120 Stat. 2167, provided that, effective Mar. 1, 2008, this section is amended as follows:</i>
+
+<i>(1) in subsection (a), by striking “may include” and inserting “shall include”; and</i>
+
+<i>(2) in subsection (b), by striking “may be deducted” and inserting “shall be deducted”.</i>
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–364, §363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title III, §363(b), Oct. 17, 2006, 120 Stat. 2167, provided that the amendment made by section 363(b) is effective Mar. 1, 2008.
 

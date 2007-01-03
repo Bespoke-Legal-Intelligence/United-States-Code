@@ -18,7 +18,7 @@ Section 795<i>o</i>, Pub. L. 93–112, title VI, §636, as added Pub. L. 102–5
 
 Another prior section 795<i>o</i>, Pub. L. 93–112, title VI, §636, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1836, related to collection of client information, prior to repeal by Pub. L. 102–569, §621(a).
 
-Section 795p, Pub. L. 93–112, title VI, §637, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat.4442, contained savings provision. See section 795m of this title.
+Section 795p, Pub. L. 93–112, title VI, §637, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4442, contained savings provision. See section 795m of this title.
 
 Another prior section 795p, Pub. L. 93–112, title VI, §637, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1837, contained a savings provision not prohibiting a State from carrying out post-employment services leading to supported employment, prior to repeal by Pub. L. 102–569, §621(a).
 

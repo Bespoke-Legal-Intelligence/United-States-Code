@@ -110,7 +110,7 @@ Panama Canal Commission
 
 Other Agencies
 
-1–401. The functions vested in the President by Sections 1111 and 3301 of the Panama Canal Act of 1979 (93Stat. 459 and 497; 22 U.S.C. 3621 and 3871), are delegated to the Secretary of State. The Secretary shall perform these functions in coordination with the Secretary of Defense.
+1–401. The functions vested in the President by Sections 1111 and 3301 of the Panama Canal Act of 1979 (93 Stat. 459 and 497; 22 U.S.C. 3621 and 3871), are delegated to the Secretary of State. The Secretary shall perform these functions in coordination with the Secretary of Defense.
 
 1–402. The functions vested in the President by Sections 1112(d), 1344(b), and 1504(b) of the Panama Canal Act of 1979 (93 Stat. 460, 484, and 488; 22 U.S.C. 3622(d), 3754(b), and 3784(b)) are delegated to the Secretary of State.
 

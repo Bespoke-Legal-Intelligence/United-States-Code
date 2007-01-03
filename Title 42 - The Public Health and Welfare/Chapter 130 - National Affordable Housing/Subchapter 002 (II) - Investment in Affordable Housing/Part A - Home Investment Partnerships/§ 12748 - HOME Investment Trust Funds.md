@@ -24,7 +24,7 @@ A participating jurisdiction's line of credit shall be reduced by—
 
 #### (d) Certification
 
-A participating jurisdiction may draw funds from its HOME Investment Trust Fund, but not to exceed the remaining line of credit, only after providing certification that the funds shall be used pursuant to the participating jurisdiction's approved housing strategy and in compliancewith all requirements of this subchapter. When such certification is received, the Secretary shall immediately disburse such funds in accordance with the form of the assistance determined by the participating jurisdiction.
+A participating jurisdiction may draw funds from its HOME Investment Trust Fund, but not to exceed the remaining line of credit, only after providing certification that the funds shall be used pursuant to the participating jurisdiction's approved housing strategy and in compliance with all requirements of this subchapter. When such certification is received, the Secretary shall immediately disburse such funds in accordance with the form of the assistance determined by the participating jurisdiction.
 
 #### (e) Investment within 15 days
 

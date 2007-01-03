@@ -36,7 +36,7 @@
 
 (e) This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; amended Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985.)
 
 #### Historical and Revision Notes
 
@@ -66,7 +66,7 @@ Section 14301(c) provides that if a vessel owner requests that the vessel be mea
 
 Section 14301(d) provides that after July 18, 1994, a vessel whose keel was laid or was at a similar stage of construction before July 18, 1982 may retain its regulatory tonnage for the application of requirements under U.S. laws or international agreements, except the International Convention on Tonnage Measurement of Ships. However, if the vessel was not required to be measured under the Convention, but the vessel's owner requested that the vessel be measured under the Convention system before July 19, 1994, or if the vessel undergoes a change affecting its tonnage, the vessel may not use its regulatory tonnage for the application of U.S. laws or international agreements after July 19, 1994.
 
-Section 14301(e) provides that this chapter does not affect any international agreement to which the United States is a party that is not in conflict with the International Convention on Tonnage Measurement of Ships, 1969. It further provides that this chapter does not affect the application of the three interim schemesof the International Maritime Organization, which are discussed under section 14305 below.
+Section 14301(e) provides that this chapter does not affect any international agreement to which the United States is a party that is not in conflict with the International Convention on Tonnage Measurement of Ships, 1969. It further provides that this chapter does not affect the application of the three interim schemes of the International Maritime Organization, which are discussed under section 14305 below.
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Section 14301(e) provides that this chapter does not affect any international ag
 
 #### Report to Congress
 
-Section 5103(g) of Pub. L. 99–509 provided that: “The Secretary of Transportation shall—
+Pub. L. 99–509, title V, §5103(g), Oct. 21, 1986, 100 Stat. 1927, provided that: “The Secretary of Transportation shall—
 
 &emsp;“(1) before July 19, 1990, submit to Congress—
 

@@ -24,7 +24,7 @@ Pub. L. 105–313, Oct. 30, 1998, 112 Stat. 2964, provided that:
 
 &emsp;“(2) Since the commencement of the Tribe's permitted use and occupancy of the Special Use Permit Area, the Tribe's membership has grown, as have the needs and desires of the Tribe and its members for modern housing, governmental and administrative facilities, schools and cultural amenities, and related structures.
 
-&emsp;“(3) The United States, the State of Florida, the Miccosukee Tribe, and the Seminole Tribe of Florida are participating in a major intergovernmental effort to restore the South Florida ecosystem, including the restoration of the environment of the Park.
+&emsp;“(3) The United States, the State of Florida, the Miccosukee Tribe, and the Seminole Tribe of Floridaare participating in a major intergovernmental effort to restore the South Florida ecosystem, including the restoration of the environment of the Park.
 
 &emsp;“(4) The Special Use Permit Area is located within the northern boundary of the Park, which is critical to the protection and restoration of the Everglades, as well as to the cultural values of the Miccosukee Tribe.
 

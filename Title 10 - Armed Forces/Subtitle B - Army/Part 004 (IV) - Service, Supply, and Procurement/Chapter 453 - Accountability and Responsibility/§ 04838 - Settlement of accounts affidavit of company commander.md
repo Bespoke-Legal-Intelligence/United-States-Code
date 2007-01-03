@@ -1,6 +1,6 @@
 ### §4838. Settlement of accounts: affidavit of company commander
 
-In the settlement of the accounts of the commanding officer of a company for clothing and other military supplies, his affidavit may be received to show—
+In the settlement of the accounts of the commanding officer of a company for clothing andother military supplies, his affidavit may be received to show—
 
 &emsp;(1) that vouchers or company books were lost;
 

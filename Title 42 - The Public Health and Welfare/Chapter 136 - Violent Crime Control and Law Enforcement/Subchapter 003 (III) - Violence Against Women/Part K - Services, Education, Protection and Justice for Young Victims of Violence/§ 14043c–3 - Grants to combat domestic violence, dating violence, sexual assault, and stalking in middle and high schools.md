@@ -6,7 +6,7 @@ This section may be cited as the “Supporting Teens through Education and Prote
 
 #### (b) Grants authorized
 
-The Attorney General, through the Director of the Office on Violence Against Women, is authorized to award grants to middle schools and high schools that work with domestic violence and sexual assault experts to enable the schools—
+The Attorney General, through the Director of the Office on Violence Against Women, is authorized to award grants to middle schools and high schools that work with domestic violenceand sexual assault experts to enable the schools—
 
 &emsp;(1) to provide training to school administrators, faculty, counselors, coaches, healthcare providers, security personnel, and other staff on the needs and concerns of students who experience domestic violence, dating violence, sexual assault, or stalking, and the impact of such violence on students;
 
@@ -30,7 +30,7 @@ The Director shall disseminate to middle and high schools any existing Departmen
 
 #### (e) Nondisclosure of confidential or private information
 
-In order to ensure the safety of adult, youth, and minor victims of domestic violence, dating violence, sexual assault, or stalking and their families, grantees and subgrantees shall protect the confidentiality and privacy of persons receiving services. Grantees and subgrantees pursuant to this section shall not disclose any personally identifying information or individual information collected in connection with services requested, utilized, or denied through grantees’ and subgrantees’ programs. Grantees and subgrantees shall not reveal individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of unemancipated minor, the minor and the parent or guardian, except that consent for release may not be given by the abuser of the minor or of the other parent of the minor) about whom information is sought, whether for this program or any other Tribal, Federal, State or Territorial grant program. If release of such information is compelled by statutory or court mandate, grantees and subgrantees shall make reasonable attempts to provide notice to victims affected by the disclosure of information. If such personally identifying information is or will be revealed, grantees and subgrantees shall take steps necessary to protect the privacy and safety of the persons affected by the release of theinformation. Grantees may share non-personally identifying data in the aggregate regarding services to their clients and non-personally identifying demographic information in order to comply with Tribal, Federal, State or Territorial reporting, evaluation, or data collection requirements. Grantees and subgrantees may share court-generated information contained in secure, governmental registries for protection order enforcement purposes.
+In order to ensure the safety of adult, youth, and minor victims of domestic violence, dating violence, sexual assault, or stalking and their families, grantees and subgrantees shall protect the confidentiality and privacy of persons receiving services. Grantees and subgrantees pursuant to this section shall not disclose any personally identifying information or individual information collected in connection with services requested, utilized, or denied through grantees’ and subgrantees’ programs. Grantees and subgrantees shall not reveal individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of unemancipated minor, the minor and the parent or guardian, except that consent for release may not be given by the abuser of the minor or of the other parent of the minor) about whom information is sought, whether for this program or any other Tribal, Federal, State or Territorial grant program. If release of such information is compelled by statutory or court mandate, grantees and subgrantees shall make reasonable attempts to provide notice to victims affected by the disclosure of information. If such personally identifying information is or will be revealed, grantees and subgrantees shall take steps necessary to protect the privacy and safety of the persons affected by the release of the information. Grantees may share non-personally identifying data in the aggregate regarding services to their clients and non-personally identifying demographic information in order to comply with Tribal, Federal, State or Territorial reporting, evaluation, or data collection requirements. Grantees and subgrantees may share court-generated information contained in secure, governmental registries for protection order enforcement purposes.
 
 #### (f) Grant term and allocation
 
@@ -40,7 +40,7 @@ In order to ensure the safety of adult, youth, and minor victims of domestic vio
 
 #### (2) Allocation
 
-&emsp;Not more than 15 percent of the funds available to a grantee in a given year shall be used for the purposes described in subsection (b)(4)(D),<sup>1</sup> (b)(5), and (b)(6) of this section.
+&emsp;Not more than 15 percent of the funds available to a grantee in a given year shall be used for the purposes described in subsection (b)(4), (b)(5), and (b)(6) of this section.
 
 #### (g) Distribution
 
@@ -58,7 +58,7 @@ In order to ensure the safety of adult, youth, and minor victims of domestic vio
 
 #### (h) Application
 
-To be eligible to be awarded a grant or contract under this section for any fiscal year, a middle or secondary school, in consultation with an expert as described in subsections (i)(2) and (i)(3) of this section, shall submit an application to the Director at such time and in such manner as the Director shall prescribe.
+To be eligible to be awarded a grant or contract under this section for any fiscal year, amiddle or secondary school, in consultation with an expert as described in subsections (i)(2) and (i)(3) of this section, shall submit an application to the Director at such time and in such manner as the Director shall prescribe.
 
 #### (i) Eligible entities
 
@@ -96,5 +96,9 @@ In awarding grants under this section, the Director shall give priority to entit
 
 &emsp;Funds appropriated under paragraph (1) shall remain available until expended.
 
-(Pub. L. 103–322, title IV, §41204, as added Pub. L. 109–162, title III, §303, Jan. 5, 2006, 119 Stat. 3010.)
+(Pub. L. 103–322, title IV, §41204, as added Pub. L. 109–162, title III, §303, Jan. 5, 2006, 119 Stat. 3010; amended Pub. L. 109–271, §4(a), Aug. 12, 2006, 120 Stat. 758.)
+
+#### Amendments
+
+2006—Subsec. (f)(2). Pub. L. 109–271 substituted “(b)(4)” for “(b)(4)(D)”.
 

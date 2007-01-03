@@ -4,7 +4,7 @@ The eligibility of any organization to represent commercial egg producers of any
 
 &emsp;(a) Geographic territory covered by the organization's active membership.
 
-&emsp;(b) Nature and size of the organization's active membership, proportion of total of such active membership accounted for by producers of commercial eggs, a chart showing the egg production by State in which the organization has members, and the volume of commercialeggs produced by the organization's active membership in each such State,
+&emsp;(b) Nature and size of the organization's active membership, proportion of total of such active membership accounted for by producers of commercial eggs, a chart showing the egg production by State in which the organization has members, and the volume of commercial eggs produced by the organization's active membership in each such State,
 
 &emsp;(c) The extent to which the commercial egg producer membership of such organization is represented in setting the organization's policies,
 

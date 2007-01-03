@@ -30,20 +30,11 @@
 
 |  |  |
 | :--- | ---: |
-| [1481\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001481%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
+| [1481\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001481%20-%20Loan%20guaranties%20and%20insurance.md) | Loan guaranties and insurance. |
 | [1482\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001482%20-%20Premium%20charges%3B%20deposits%20in%20Indian%20Loan%20Guaranty%20and%20Insurance%20Fund.md) | Premium charges; deposits in Indian Loan Guaranty and Insurance Fund. |
 | [1483\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001483%20-%20Interest%20rate.md) | Interest rate. |
 | [1484\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001484%20-%20Application%20for%20loan%3B%20approval%20by%20Secretary%3B%20issuance%20of%20certificate%3B%20limitations%20on%20amount%20of%20loans%20to%20individual%20Indians%20or%20economic%E2%80%A6.md) | Application for loan; approval by Secretary; issuance of certificate; limitations on amount of loans to individual Indians or economic enterprises; review by Secretary. |
 | [1485\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001485%20-%20Sale%20or%20assignment%20of%20loans%20and%20underlying%20security.md) | Sale or assignment of loans and underlying security. |
-| (a) | In general. |
-| (b) | Initial transfers. |
-| (c) | Secondary transfers. |
-| (d) | Full faith and credit. |
-| (e) | Damages. |
-| (f) | Fees. |
-| (g) | Central registration of loans. |
-| (h) | Pooling of loans. |
-| (i) | Regulations. |
 | [1486\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001486%20-%20Loans%20ineligible%20for%20guaranty%20or%20insurance.md) | Loans ineligible for guaranty or insurance. |
 | [1487\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001487%20-%20Loans%20eligible%20for%20insurance.md) | Loans eligible for insurance. |
 | [1488\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001488%20-%20Lenders%20authorized%20to%20make%20loans%3B%20decrease%20or%20increase%20of%20liability%20under%20the%20guaranty.md) | Lenders authorized to make loans; decrease or increase of liability under the guaranty. |
@@ -56,15 +47,7 @@
 | [1495\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001495%20-%20Land%20and%20personal%20property%20titles.md) | Land and personal property titles. |
 | [1496\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001496%20-%20Powers%20of%20Secretary%3B%20finality%20of%20financial%20transactions%20and%20property%20acquisitions%2C%20management%2C%20and%20dispositions.md) | Powers of Secretary; finality of financial transactions and property acquisitions, management, and dispositions. |
 | [1497\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001497%20-%20Indian%20Loan%20Guaranty%20and%20Insurance%20Fund.md) | Indian Loan Guaranty and Insurance Fund. |
-| (a) | Establishment of revolving fund. |
-| (b) | Aggregate loans or surety bonds limitation. |
-| (c) | Assets, liabilities, and obligations of fund; loan and surety bond servicing and purchasing agreements: terms and conditions. |
-| (d) | Utilization of fund for diverse payments. |
-| (e) | Authorization of appropriations. |
 | [1497a.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001497a%20-%20Supplemental%20surety%20bond%20guarantee.md) | Supplemental surety bond guarantee. |
-| (a) | Amount; eligibility. |
-| (b) | Conditions. |
-| (c) | Fees and charges. |
 | [1498\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001498%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [1499\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001499%20-%20Limitation%20on%20guarantee%20of%20debt%20issues%3B%20approval%20of%20bond%20issue%20sale.md) | Limitation on guarantee of debt issues; approval of bond issue sale. |
 
@@ -85,9 +68,6 @@
 | :--- | ---: |
 | [1521\.](Subchapter%20004%20%28IV%29%20-%20Indian%20Business%20Grants/%C2%A7%2001521%20-%20Indian%20Business%20Development%20Program%3B%20establishment%3B%20statement%20of%20purpose.md) | Indian Business Development Program; establishment; statement of purpose. |
 | [1522\.](Subchapter%20004%20%28IV%29%20-%20Indian%20Business%20Grants/%C2%A7%2001522%20-%20Conditions.md) | Conditions. |
-| (a) | Limitation of amount. |
-| (b) | Financing from other sources; inability to obtain funds; applicant's financial resources. |
-| (c) | Percentage requirement. |
 | [1523\.](Subchapter%20004%20%28IV%29%20-%20Indian%20Business%20Grants/%C2%A7%2001523%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1524\.](Subchapter%20004%20%28IV%29%20-%20Indian%20Business%20Grants/%C2%A7%2001524%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 

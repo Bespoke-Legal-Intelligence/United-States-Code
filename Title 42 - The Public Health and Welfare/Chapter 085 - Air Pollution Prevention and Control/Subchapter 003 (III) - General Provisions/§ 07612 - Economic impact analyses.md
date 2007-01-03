@@ -26,7 +26,7 @@ In describing the costs of a standard described in subsection (a) of this sectio
 
 #### (d) Initial report
 
-Not later than 12 months after November 15, 1990, the Administrator, in consultation withthe Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that summarizes the results of the analysis described in subsection (a) of this section, which reports—
+Not later than 12 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that summarizes the results of the analysis described in subsection (a) of this section, which reports—
 
 &emsp;(1) all costs incurred previous to November 15, 1990, in the effort to comply with such standards; and
 

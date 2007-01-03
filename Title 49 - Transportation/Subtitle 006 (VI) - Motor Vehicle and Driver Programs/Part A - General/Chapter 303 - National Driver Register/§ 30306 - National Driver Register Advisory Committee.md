@@ -20,7 +20,7 @@ Composition and Appointment.—The Committee is composed of 15 members appointed
 
 &emsp;(2) 3 members appointed from among groups outside the Government that represent the interests of bus and trucking organizations, enforcement officials, labor, or safety organizations.
 
-&emsp;(3) 9 members, geographically representative of the participating States, appointed from among individuals who are chief driver licensing officials of participating States.
+&emsp;(3) 9 members, geographically representative of the participating States, appointed fromamong individuals who are chief driver licensing officials of participating States.
 
 (d)
 

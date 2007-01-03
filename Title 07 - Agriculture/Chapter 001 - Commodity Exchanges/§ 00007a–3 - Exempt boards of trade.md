@@ -26,7 +26,7 @@ A party to a contract of sale of a commodity for future delivery (or option on s
 
 #### (d) Price discovery
 
-If the Commission finds that an exempt board of trade is a significant source of price discovery for transactions in the cash market for the commodity underlying any contract, agreement, ortransaction traded on or through the facilities of the board of trade, the board of trade shall disseminate publicly on a daily basis trading volume, opening and closing price ranges, open interest, and other trading data as appropriate to the market.
+If the Commission finds that an exempt board of trade is a significant source of price discovery for transactions in the cash market for the commodity underlying any contract, agreement, or transaction traded on or through the facilities of the board of trade, the board of trade shall disseminate publicly on a daily basis trading volume, opening and closing price ranges, open interest, and other trading data as appropriate to the market.
 
 #### (e) Jurisdiction
 
@@ -38,7 +38,7 @@ A board of trade that is designated as a contract market or registered as a deri
 
 #### (g) Misrepresentation of status
 
-An exempt board of trade that meets the requirements of subsection (b) of this section shall not represent to any person that the board of trade is registered with, or designated, recognized, licensed, or approved by the Commission.
+An exempt board of trade that meets the requirements of subsection (b) of this section shallnot represent to any person that the board of trade is registered with, or designated, recognized, licensed, or approved by the Commission.
 
 (Sept. 21, 1922, ch. 369, §5d, as added Pub. L. 106–554, §1(a)(5) \[title I, §114\], Dec. 21, 2000, 114 Stat. 2763, 2763A–401.)
 

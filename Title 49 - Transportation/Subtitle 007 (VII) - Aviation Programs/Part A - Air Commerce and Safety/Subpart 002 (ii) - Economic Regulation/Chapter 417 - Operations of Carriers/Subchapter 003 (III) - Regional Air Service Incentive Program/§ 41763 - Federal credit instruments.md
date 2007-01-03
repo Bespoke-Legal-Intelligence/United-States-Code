@@ -58,7 +58,7 @@ Use of excess revenue.—After satisfying scheduled debt service requirements on
 
 &emsp;&emsp;(B)
 
-Use of proceeds of refinancing.—The secured loan may be prepaid at any timewithout penalty from proceeds of refinancing from non-Federal funding sources.
+Use of proceeds of refinancing.—The secured loan may be prepaid at any time without penalty from proceeds of refinancing from non-Federal funding sources.
 
 (c)
 

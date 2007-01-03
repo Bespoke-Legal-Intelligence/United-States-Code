@@ -2,7 +2,7 @@
 
 #### (a) Commission authority to assess money penalties
 
-In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b)(6), 78<i>o</i>–6, 78<i>o</i>–4, 78<i>o</i>–5, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such person—
+In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b)(6), 78<i>o</i>–6, 78<i>o</i>–4, 78<i>o</i>–5, 78<i>o</i>–7, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such person—
 
 &emsp;(1) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], or this chapter, or the rules or regulations thereunder, or the rules of the Municipal Securities Rulemaking Board;
 
@@ -56,7 +56,7 @@ In any proceeding in which the Commission or the appropriate regulatory agency m
 
 In any proceeding in which the Commission or the appropriate regulatory agency may impose a penalty under this section, the Commission or the appropriate regulatory agency may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-(June 6, 1934, ch. 404, title I, §21B, as added Pub. L. 101–429, title II, §202(a), Oct. 15, 1990, 104 Stat. 937; amended Pub. L. 107–204, title V, §501(b), July 30, 2002, 116 Stat. 793.)
+(June 6, 1934, ch. 404, title I, §21B, as added Pub. L. 101–429, title II, §202(a), Oct. 15, 1990, 104 Stat. 937; amended Pub. L. 107–204, title V, §501(b), July 30, 2002, 116 Stat. 793; Pub. L. 109–291, §4(b)(1)(B), Sept. 29, 2006, 120 Stat. 1337.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ The Investment Advisers Act of 1940, referred to in subsec. (a)(1), is title II 
 This chapter, referred to in subsec. (a)(1), (3), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–291 inserted “78<i>o</i>–7,” after “78<i>o</i>–5,” in introductory provisions.
 
 2002—Subsec. (a). Pub. L. 107–204 inserted “78<i>o</i>–6,” before “78<i>o</i>–4,” in introductory provisions.
 

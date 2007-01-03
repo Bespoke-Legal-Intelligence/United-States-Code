@@ -32,7 +32,7 @@ A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 192
 
 1990—Par. (2). Pub. L. 101–509 substituted “5303” for “5305”.
 
-1989—Par. (2). Pub. L. 101–194 substituted “the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in therates of pay under the General Schedule takes effect” for “the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
+1989—Par. (2). Pub. L. 101–194 substituted “the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
 
 1975—Pub. L. 94–82 designated existing provisions as par. (1), substituted provisions that rate of pay of the specified parties shall be determined under section 351 et seq. of this title, as adjusted by par. (2) for provisions setting rate of compensation at $42,500 for Senators, Representatives, Delegates, and Resident Commissioner, $62,500 for Speaker, and $49,500 for President pro tempore of Senate and Majority and Minority Leaders of House and Senate, and added par. (2).
 
@@ -108,7 +108,7 @@ Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which prov
 
 #### Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees
 
-Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effective beginning with fiscal year 1983, and continuing each year thereafter, such sums as hereafter may be necessary for ‘Compensation of Members’ (and administrative expenses related thereto), as authorized by law and at such level recommended by the President for Federal employees for that fiscal yearare hereby appropriated from money in the Treasury not otherwise appropriated. Such sums when paid shall be in lieu of any sums accrued in prior years but not paid. For purposes of this subsection, the term ‘Member’ means each Member of the Senate and the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegates from the District of Columbia, Guam, Virgin Islands, and American Samoa, and the Vice President.”
+Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effective beginning with fiscal year 1983, and continuing each year thereafter, such sums as hereafter may be necessary for ‘Compensation of Members’ (and administrative expenses related thereto), as authorized by law and at such level recommended by the President for Federal employees for that fiscal year are hereby appropriated from money in the Treasury not otherwise appropriated. Such sums when paid shall be in lieu of any sums accrued in prior years but not paid. For purposes of this subsection, the term ‘Member’ means each Member of the Senate and the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegates from the District of Columbia, Guam, Virgin Islands, and American Samoa, and the Vice President.”
 
 #### Commission on Judicial and Congressional Salaries
 
@@ -116,7 +116,7 @@ Act Aug. 7, 1953, ch. 353, 67 Stat. 485, which established a Commission to deter
 
 #### Salary Increases
 
-For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certainrates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of this title.
 

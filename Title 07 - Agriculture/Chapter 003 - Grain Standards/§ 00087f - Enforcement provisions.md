@@ -54,7 +54,7 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 #### Effective Date of 1970 Amendment
 
-For effective date of amendment by Pub. L. 91–452, and amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out asan Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+For effective date of amendment by Pub. L. 91–452, and amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

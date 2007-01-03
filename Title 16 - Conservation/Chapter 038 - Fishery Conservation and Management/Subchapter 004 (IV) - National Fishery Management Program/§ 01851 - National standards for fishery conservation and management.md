@@ -18,7 +18,7 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 &emsp;(7) Conservation and management measures shall, where practicable, minimize costs and avoid unnecessary duplication.
 
-&emsp;(8) Conservation and management measures shall, consistent with the conservation requirements of this chapter (including the prevention of overfishing and rebuilding of overfished stocks), take into account the importance of fishery resources to fishing communities in order to (A) provide for the sustained participation of such communities, and (B) to the extent practicable, minimize adverse economic impacts on such communities.
+&emsp;(8) Conservation and management measures shall, consistent with the conservation requirements of this chapter (including the prevention of overfishing and rebuilding of overfished stocks), take into account the importance of fishery resources to fishing communities by utilizing economic and social data that meet the requirements of paragraph (2), in order to (A) provide for the sustained participation of such communities, and (B) to the extent practicable, minimize adverse economic impacts on such communities.
 
 &emsp;(9) Conservation and management measures shall, to the extent practicable, (A) minimize bycatch and (B) to the extent bycatch cannot be avoided, minimize the mortality of such bycatch.
 
@@ -28,13 +28,15 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 The Secretary shall establish advisory guidelines (which shall not have the force and effect of law), based on the national standards, to assist in the development of fishery management plans.
 
-(Pub. L. 94–265, title III, §301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, §4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, §404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, §106, Oct. 11, 1996, 110 Stat. 3570.)
+(Pub. L. 94–265, title III, §301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, §4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, §404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, §106, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 109–479, title I, §101(a), Jan. 12, 2007, 120 Stat. 3579.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(8). Pub. L. 109–479 inserted “by utilizing economic and social data that meet the requirements of paragraph (2),” after “fishing communities”.
 
 1996—Subsec. (a)(5). Pub. L. 104–297, §106(a), substituted “consider efficiency” for “promote efficiency”.
 
@@ -50,7 +52,7 @@ Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Ac
 
 #### Gulf of Alaska Rockfish Demonstration Program
 
-Pub. L. 108–199, div. B, title VIII, §802, Jan. 23, 2004, 118 Stat. 110, provided that: “The Secretary of Commerce, in consultation with the North Pacific Fishery Management Council, shall establish a pilot program that recognizes the historic participation of fishing vessels (1996 to 2002, best 5 of 7 years) and historic participation of fish processors (1996 to 2000, best 4 of 5 years) for pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in Central Gulf of Alaska. Such a pilot program shall: (1) provide for a set-aside of up to 5 percent for the total allowable catch of such fisheries for catcher vessels not eligible to participate in the pilot program, which shall be delivered to shore-based fish processors not eligible to participate in the pilot program; and (2) establish catch limits for non-rockfish species and non-target rockfish species currently harvested with pacific ocean perch, northern rockfish, and pelagic shelf rockfish, which shall be based on historical harvesting of such bycatch species. The pilot program will sunset when a Gulf of Alaska Groundfish comprehensive rationalization plan is authorized by the Council and implemented by the Secretary, or 2 years from date of implementation, whichever is earlier.”
+Pub. L. 108–199, div. B, title VIII, §802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, §218, Jan. 12, 2007, 120 Stat. 3621, provided that: “The Secretary of Commerce, in consultation with the North Pacific Fishery Management Council, shall establish a pilot program that recognizes the historic participation of fishing vessels (1996 to 2002, best 5 of 7 years) and historic participation of fish processors (1996 to 2000, best 4 of 5 years) for pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in Central Gulf of Alaska. Such a pilot program shall: (1) provide for a set-aside of up to 5 percent for the total allowable catch of such fisheries for catcher vessels not eligible to participate in the pilot program, which shall be delivered to shore-based fish processors not eligible to participate in the pilot program; and (2) establish catch limits for non-rockfish species and non-target rockfish species currently harvested with pacific ocean perch, northern rockfish, and pelagic shelf rockfish, which shall be based on historical harvesting of such bycatch species. The pilot program will sunset when a Gulf of Alaska Groundfish comprehensive rationalization planis authorized by the Council and implemented by the Secretary, or 5 years from date of implementation, whichever is earlier.”
 
 #### Implementation of Steller Sea Lion Protective Measures
 
@@ -162,7 +164,7 @@ Eligible Vessels.—Only vessels that are 60 feet or less in length overall and 
 
 “(c)
 
-Groundfish Optimum Yield Limitation.—The optimum yield for groundfish in the Bering Sea andAleutian Islands Management Area shall not exceed 2 million metric tons. For the purposes of implementing subsections (a) and (b) without adversely affecting current fishery participants, the allocation under subsection (a) may be in addition to such optimum yield during the years 2004 through 2008 upon recommendation by the North Pacific Council and approval by the Secretary of Commerce (if consistent with the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)).
+Groundfish Optimum Yield Limitation.—The optimum yield for groundfish in the Bering Sea and Aleutian Islands Management Area shall not exceed 2 million metric tons. For the purposes of implementing subsections (a) and (b) without adversely affecting current fishery participants, the allocation under subsection (a) may be in addition to such optimum yield during the years 2004 through 2008 upon recommendation by the North Pacific Council and approval by the Secretary of Commerce (if consistent with the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)).
 
 “(d)
 
@@ -210,7 +212,7 @@ Pollock Community Development Quota.—Effective January 1, 1999, 10 percent of 
 
 “(b)
 
-Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock total allowable catch in the Bering Sea and Aleutian Islands Management Area, after the subtraction of the allocation under subsection (a) and the subtraction of allowances for the incidental catch of pollock by vessels harvesting other groundfish species (including under the western Alaska community development quota program) shall be allocated as directed fishing allowances as follows—
+Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock total allowable catch in the Bering Sea and Aleutian Islands Management Area, after the subtraction of the allocation under subsection\(a) and the subtraction of allowances for the incidental catch of pollock by vessels harvesting other groundfish species (including under the western Alaska community development quota program) shall be allocated as directed fishing allowances as follows—
 
 &emsp;“(1) 50 percent to catcher vessels harvesting pollock for processing by the inshore component;
 
@@ -222,7 +224,7 @@ Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock tota
 
 “(a)
 
-Federal Loan.—Under the authority of sections 1111 and 1112 \[now 1113, 1114\] of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g) and notwithstanding the requirements of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a), the Secretary shall, subject to the availability of appropriations for the cost of the direct loan, provide up to $75,000,000 through a direct loan obligation for the payments required under subsection (d).
+Federal Loan.—Under the authority of sections 1111 and 1112 \[renumbered 1113, 1114\] of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g) \[now 46 U.S.C. 53735 and 53702(b)\] and notwithstanding the requirements of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a), the Secretary shall, subject to the availability of appropriations for the cost of the direct loan, provide up to $75,000,000 through a direct loan obligation for the payments required under subsection (d).
 
 “(b)
 
@@ -260,11 +262,11 @@ Penalty.—If the catcher/processor under paragraph (1) of section 209 is used o
 
 “(f)
 
-Program Defined; Maturity.—For the purposes of section 1111 \[now 1113\] of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f), the fishing capacity reduction program in this subtitle shall be within the meaning of the term ‘program’ as defined and used in such section. Notwithstanding section 1111(b)(4) \[now 1113(b)(4)\] of such Act (46 U.S.C. App. 1279f(b)(4)), the debt obligation under subsection (a) of this section may have a maturity not to exceed 30 years.
+Program Defined; Maturity.—For the purposes of section 1111 \[renumbered 1113\] of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f) \[now 46 U.S.C. 53735\], the fishing capacity reduction program in this subtitle shall be within the meaning of the term ‘program’ as defined and used in such section. Notwithstanding section 1111(b)(4) \[renumbered 1113(b)(4)\] of such Act (46 U.S.C. App. 1279f(b)(4)) \[now 46 U.S.C. 53735(c)(4)\], the debt obligation under subsection (a) of this section may have a maturity not to exceed 30 years.
 
 “(g)
 
-Fishery Capacity Reduction Regulations.—The Secretary of Commerce shall by not later than October 15, 1998 publish proposed regulations to implement subsections (b), (c), (d), and (e) of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a) and sections 1111 and 1112 \[now 1113, 1114\] of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g).
+Fishery Capacity Reduction Regulations.—The Secretary of Commerce shall by not later than October 15, 1998 publish proposed regulations to implement subsections (b), (c), (d), and (e) of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a) and sections 1111 and 1112 \[renumbered 1113, 1114\] of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g) \[now 46 U.S.C. 53735 and 53702(b)\].
 
 #### “SEC. 208. ELIGIBLE VESSELS AND PROCESSORS.
 
@@ -416,7 +418,7 @@ Catcher/Processors.—Effective January 1, 1999, only the following catcher/proc
 
 &emsp;“(21) any catcher/processor not listed in this subsection and determined by the Secretary to have harvested more than 2,000 metric tons of the pollock in the 1997 directed pollock fishery and determined to be eligible to harvest pollock in the directed pollock fishery under the license limitation program recommended by the North Pacific Council and approved by the Secretary, except that catcher/processors eligible under this paragraph shall be prohibited from harvesting in the aggregate a total of more than one-half (0.5) of a percent of the pollock apportioned for the directed pollock fishery under section 206(b)(2).
 
-> Notwithstanding section 213(a), failure to satisfy the requirements of section 4(a) of the Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987 (Public Law 100–239; 46 U.S.C. 12108 note) shall not make a catcher/processor listed under this subsection ineligible for a fishery endorsement.
+> Notwithstanding section 213(a), failure to satisfy the requirements of section 4(a) of the Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987 (Public Law 100–239; 46 U.S.C. 12108 note) \[now 46 U.S.C. 12113 note\] shall not make a catcher/processor listed under this subsection ineligible for a fishery endorsement.
 
 “(f)
 
@@ -442,7 +444,7 @@ Replacement Vessels.—In the event of the actual total loss or constructive tot
 
 &emsp;“(5) if the eligible vessel is less than 165 feet in registered length, of fewer than 750 gross registered tons, and has engines incapable of producing less than 3,000 shaft horsepower, the replacement vessel is less than each of such thresholds and does not exceed by more than 10 percent the registered length, gross registered tons or shaft horsepower of the eligible vessel; and
 
-&emsp;“(6) the replacement vessel otherwise qualifies under federal law for a fishery endorsement, including under section 12102(c) of title 46, United States Code, as amended by this Act.
+&emsp;“(6) the replacement vessel otherwise qualifies under federal law for a fishery endorsement, including under section 12102(c) of title 46, United States Code, as amended by this Act \[now 46 U.S.C. 12113(b)(2) to (d)\].
 
 “(h)
 
@@ -534,7 +536,7 @@ Catcher Vessels to Motherships.—
 
 &emsp;“(1)
 
-Processing.—Effective January 1, 2000, the authority in section 1 of the Act of June 25, 1934 (48 Stat. 1213 and 1214; 15 U.S.C. 521 et seq.) shall extend to processing by motherships eligible under section208(d) solely for the purposes of forming or participating in a fishery cooperative in the directed pollock fishery upon the filing of a contract to implement a fishery cooperative under subsection (a) which has been entered into by the owners of 80 percent or more of the catcher vessels eligible under section 208(c) for the duration of such contract, provided that such owners agree to the terms of the fishery cooperative involving processing by the motherships.
+Processing.—Effective January 1, 2000, the authority in section 1 of the Act of June 25, 1934 (48 Stat. 1213 and 1214; 15 U.S.C. 521 et seq.) shall extend to processing by motherships eligible under section 208(d) solely for the purposes of forming or participating in a fishery cooperative in the directed pollock fishery upon the filing of a contract to implement a fishery cooperative under subsection (a) which has been entered into by the owners of 80 percent or more of the catcher vessels eligible under section 208(c) for the duration of such contract, provided that such owners agree to the terms of the fishery cooperative involving processing by the motherships.
 
 &emsp;“(2)
 
@@ -562,7 +564,7 @@ Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall includ
 
 “(g)
 
-Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
+Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308,309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
 
 #### “SEC. 211. PROTECTIONS FOR OTHER FISHERIES; CONSERVATION MEASURES.
 
@@ -662,11 +664,11 @@ Bycatch Information.—Notwithstanding section 402 of the Magnuson-Stevens Act (
 
 “(e)
 
-Community Development Loan Program.—Under the authority of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.), and subject to the availability of appropriations, the Secretary is authorized to provide direct loan obligations to communitieseligible to participate in the western Alaska community development quota program established under 304(i) \[305(i)\] of the Magnuson-Stevens Act (16 U.S.C. 1855(i)) for the purposes of purchasing all or part of an ownership interest in vessels and shoreside processors eligible under subsections (a), (b), (c), (d), (e), or (f) of section 208. Notwithstanding the eligibility criteria in section 208(a) and section 208(c), the LISA MARIE (United States official number 1038717) shall be eligible under such sections in the same manner as other vessels eligible under such sections.
+Community Development Loan Program.—Under the authority of title XI of the Merchant Marine Act, 1936 (\[former\] 46 U.S.C. App. 1271 et seq.) \[see chapter 537 of Title 46, Shipping\], and subject to the availability of appropriations, the Secretary is authorized to provide direct loan obligations to communities eligible to participate in the western Alaska community development quota program established under 304(i) \[305(i)\] of the Magnuson-Stevens Act (16 U.S.C. 1855(i)) for the purposes of purchasing all or part of an ownership interest in vessels and shoreside processors eligible under subsections (a), (b), (c), (d), (e), or (f) of section 208. Notwithstanding the eligibility criteria in section 208(a) and section 208(c), the LISA MARIE (United States official number 1038717) shall be eligible under such sections in the same manner as other vessels eligible under such sections.
 
 #### “SEC. 212. RESTRICTION ON FEDERAL LOANS.
 
-“\[Amended section 302(b) of Pub. L. 104–297, set out as a note under section 1274 of Title 46, Appendix, Shipping.\]
+“\[Amended section 302(b) of Pub. L. 104–297, formerly set out as a note under section 1274 of Title 46, Appendix, Shipping, and now partially set out as a note under section 53706 of Title 46, Shipping.\]
 
 #### “SEC. 213. DURATION.
 
@@ -702,7 +704,7 @@ Severability.—If any provision of this title, an amendment made by this title,
 
 “(g)
 
-International Agreements.—In the event that any provision of section 12102(c) or section 31322(a) of title 46, United States Code, as amended by this Act, is determined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on \[sic\] of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to their ownership or mortgage interest in such vessel on that date to the extent of any such inconsistency. The provisions of section 12102(c) and section 31322(a) of title 46, United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on \[sic\] of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after or if the percentage of foreign ownership in the vessel is increased after the effective date of this subsection \[July 24, 2001\].”
+International Agreements.—In the event that any provision of section 12102(c) \[now 12113(b)(2) to (d)\] or section 31322(a) of title 46, United States Code, as amended by this Act, is determined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on \[sic\] of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to their ownership or mortgage interest in such vessel on that date to the extent of any such inconsistency. The provisions of section 12102(c) \[now 12113(b)(2) to (d)\] and section 31322(a) of title 46, United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on \[sic\] of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after or if the percentage of foreign ownership in the vessel is increased after the effective date of this subsection \[July 24, 2001\].”
 
 \[Pub. L. 107–20, title II, §2202(e)(2), July 24, 2001, 115 Stat. 170, provided that: “Section 213(g) of the American Fisheries Act (Public Law 105–277, division C, title II) \[set out above\] shall take effect on the date of enactment of this Act \[July 24, 2001\].”\]
 
@@ -720,7 +722,7 @@ Pub. L. 100–589, §5, Nov. 3, 1988, 102 Stat. 2984, related to requirement of 
 
 #### Exclusive Economic Zone: Atlantic Striped Bass Protection
 
-Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat.627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, §3(c), Dec. 16, 1997, 111 Stat. 2677.
+Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, §3(c), Dec. 16, 1997, 111 Stat. 2677.
 
 #### Atlantic Striped Bass Conservation
 

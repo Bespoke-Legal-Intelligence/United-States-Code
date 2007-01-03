@@ -84,7 +84,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 
 &emsp;(B) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
-(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison tospecified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
+(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
 (3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
 
@@ -259,6 +259,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 109–289, div. A, title VIII, §8008, Sept. 29, 2006, 120 Stat. 1273.
 
 Pub. L. 109–148, div. A, title VIII, §8008, Dec. 30, 2005, 119 Stat. 2698.
 

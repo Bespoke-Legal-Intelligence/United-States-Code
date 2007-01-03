@@ -44,7 +44,7 @@ Pub. L. 103–62, §1, Aug. 3, 1993, 107 Stat. 285, provided that: “This Act \
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–501, title II, §201, Oct. 19, 1984, 98 Stat. 2324, provided that: “This title \[amending section 1105 of thistitle and enacting provisions set out as a note under section 1105 of this title\] may be cited as the ‘Federal Capital Investment Program Information Act of 1984’.”
+Pub. L. 98–501, title II, §201, Oct. 19, 1984, 98 Stat. 2324, provided that: “This title \[amending section 1105 of this title and enacting provisions set out as a note under section 1105 of this title\] may be cited as the ‘Federal Capital Investment Program Information Act of 1984’.”
 
 #### Executive Order No. 13037
 

@@ -8,11 +8,11 @@
 
 #### (2) Copies to tenants
 
-&emsp;Each owner submitting a plan of action under this section to the Secretary shall also submit a copy to the tenants of the housing. The owner shall simultaneously submit the plan of action to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located. Each owner and the Secretary shall also, upon request, makeavailable to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information. An appropriate agency of such State or local government shall review the plan and advise the tenants of the housing of any programs that are available to assist the tenants in carrying out the purposes of this title.<sup>1</sup>
+&emsp;Each owner submitting a plan of action under this section to the Secretary shall also submit a copy to the tenants of the housing. The owner shall simultaneously submit the plan of action to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located. Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information. An appropriate agency of such State or local government shall review the plan and advise the tenants of the housing of any programs that are available to assist the tenants in carrying out the purposes of this title.<sup>1</sup>
 
 #### (3) Failure to submit
 
-&emsp;If the owner does not submit a plan of action to the Secretary within the 6-month period referred to in paragraph (1) (or the applicable longer period), the notice of intent shall be ineffective for purposes of this subchapter and the owner may not submit another notice of intent under section 4102 of this title until 6 months after the expiration of such period.
+&emsp;If the owner does not submit a plan of action to the Secretary within the 6-month period referred to in paragraph (1) (or the applicable longer period), the notice of intent shall be ineffective for purposes of this subchapter and the owner may not submit another notice ofintent under section 4102 of this title until 6 months after the expiration of such period.
 
 #### (b) Contents
 

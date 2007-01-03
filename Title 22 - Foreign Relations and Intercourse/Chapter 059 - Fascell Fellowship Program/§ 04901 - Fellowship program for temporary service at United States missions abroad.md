@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a fellowship program pursuant to which the Secretary of State will provide fellowships to United States citizens while they serve, for a period of between one and two years, in positions which would otherwise be held by foreign national employees at United States diplomatic or consular missions abroad.
+There is hereby established a fellowship program pursuant to which the Secretary of Statewill provide fellowships to United States citizens while they serve, for a period of between one and two years, in positions which would otherwise be held by foreign national employees at United States diplomatic or consular missions abroad.
 
 #### (b) Designation of fellowships
 

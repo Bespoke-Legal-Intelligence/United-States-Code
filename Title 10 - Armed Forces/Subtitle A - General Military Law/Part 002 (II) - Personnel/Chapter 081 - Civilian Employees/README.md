@@ -42,7 +42,7 @@ Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, am
 
 2002—Pub. L. 107–314, div. A, title XI, §1104(a)(2), Dec. 2, 2002, 116 Stat. 2661, added item 1599d.
 
-Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
+Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A,title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
 
 2001—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
@@ -93,6 +93,8 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 1960—Pub. L. 86–585, §2, July 5, 1960, 74 Stat. 327, added item 1586.
 
 1958—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
+
+&nbsp;
 
 #### Strategic Human Capital Plan for Civilian Employees of the Department of Defense
 

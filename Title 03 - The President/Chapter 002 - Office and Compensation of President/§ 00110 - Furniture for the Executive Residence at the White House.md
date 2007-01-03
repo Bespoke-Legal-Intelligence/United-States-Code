@@ -30,7 +30,7 @@ Sec. 2. Articles of furniture, fixtures, and decorative objects of the White Hou
 
 “
 
-Sec. 3. Nothing in this Act shall alter any privileges, powers, or duties vested in the White House Police and the United States Secret Service, Treasury Department, by section 202 of title 3, United States Code, and section 3056 of title 18, United States Code.”
+Sec. 3. Nothing in this Act shall alter any privileges, powers, or duties vested in the White House Police and the United States Secret Service, Treasury Department, by \[former\] section 202 of title 3, United States Code, and section 3056 of title 18, United States Code.”
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -88,7 +88,7 @@ Term of the Committee for the Preservation of the White House extended until Sep
 
 Term of the Committee for the Preservation of the White House extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set outas a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1987, by Ex. Ord.No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the Committee for the Preservation of the White House extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

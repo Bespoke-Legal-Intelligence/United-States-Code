@@ -74,7 +74,7 @@ The Commissioner shall—
 
 #### (1) Withholding payments
 
-&emsp;Whenever the Commissioner, after providing reasonable notice and an opportunity for a hearing to the State agency administering or supervising the administration of the State plan approved under section 721 of this title, finds that—
+&emsp;Whenever the Commissioner, after providing reasonable notice and an opportunity for ahearing to the State agency administering or supervising the administration of the State plan approved under section 721 of this title, finds that—
 
 &emsp;&emsp;(A) the plan has been so changed that it no longer complies with the requirements of section 721(a) of this title; or
 

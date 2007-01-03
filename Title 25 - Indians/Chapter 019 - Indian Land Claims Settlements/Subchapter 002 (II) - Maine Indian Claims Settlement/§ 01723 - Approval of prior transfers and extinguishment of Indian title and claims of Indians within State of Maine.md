@@ -6,7 +6,7 @@
 
 (2) The United States is barred from asserting on behalf of any Indian, Indian nation, or tribe or band of Indians any claim under the laws of the State of Maine arising before October 10, 1980, and arising from any transfer of land or natural resources by any Indian, Indian nation, or tribe or band of Indians, located anywhere within the State of Maine, including but without limitation any transfer pursuant to any treaty, compact, or statute of any State, on the grounds that such transfer was not made in accordance with the laws of the State of Maine.
 
-(3) The United States is barred from asserting by or on behalf of any individual Indian any claim under the laws of the State of Maine arising from any transfer of land or natural resources located anywhere within the State of Maine from, by, or on behalf of any individual Indian, which occurred prior to December 1, 1873, including but without limitation any transfer pursuant to any treaty, compact, or statute of any State.
+(3) The United States is barred from asserting by or on behalf of any individual Indian any claim under the laws of the State of Maine arising from any transfer of land or natural resources located anywhere within the State ofMaine from, by, or on behalf of any individual Indian, which occurred prior to December 1, 1873, including but without limitation any transfer pursuant to any treaty, compact, or statute of any State.
 
 #### (b) Aboriginal title extinguished as of date of transfer
 

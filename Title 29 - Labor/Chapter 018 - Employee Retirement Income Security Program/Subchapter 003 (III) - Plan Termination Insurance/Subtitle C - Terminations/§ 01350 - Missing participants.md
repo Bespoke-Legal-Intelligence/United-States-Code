@@ -42,11 +42,65 @@ For purposes of this section—
 
 &emsp;&emsp;(C) under the assumptions of the corporation or of the plan, whichever provides the higher single sum, in the case of a plan that pays a single sum other than those described in subparagraph (A).
 
-#### (c) Regulatory authority
+#### (c) Multiemployer plans
+
+The corporation shall prescribe rules similar to the rules in subsection (a) for multiemployer plans covered by this subchapter that terminate under section 1341a of this title.
+
+#### (d) Plans not otherwise subject to subchapter
+
+#### (1) Transfer to corporation
+
+&emsp;The plan administrator of a plan described in paragraph (4) may elect to transfer a missing participant's benefits to the corporation upon termination of the plan.
+
+#### (2) Information to the corporation
+
+&emsp;To the extent provided in regulations, the plan administrator of a plan described in paragraph (4) shall, upon termination of the plan, provide the corporation information with respect to benefits of a missing participant if the plan transfers such benefits—
+
+&emsp;&emsp;(A) to the corporation, or
+
+&emsp;&emsp;(B) to an entity other than the corporation or a plan described in paragraph (4)(B)(ii).
+
+#### (3) Payment by the corporation
+
+&emsp;If benefits of a missing participant were transferred to the corporation under paragraph (1), the corporation shall, upon location of the participant or beneficiary, pay to the participant or beneficiary the amount transferred (or the appropriate survivor benefit) either—
+
+&emsp;&emsp;(A) in a single sum (plus interest), or
+
+&emsp;&emsp;(B) in such other form as is specified in regulations of the corporation.
+
+#### (4) Plans described
+
+&emsp;A plan is described in this paragraph if—
+
+&emsp;&emsp;(A) the plan is a pension plan (within the meaning of section 1002(2) of this title)—
+
+&emsp;&emsp;&emsp;(i) to which the provisions of this section do not apply (without regard to this subsection), and
+
+&emsp;&emsp;&emsp;(ii) which is not a plan described in paragraphs (2) through (11) of section 1321(b) of this title, and
+
+&emsp;&emsp;(B) at the time the assets are to be distributed upon termination, the plan—
+
+&emsp;&emsp;&emsp;(i) has missing participants, and
+
+&emsp;&emsp;&emsp;(ii) has not provided for the transfer of assets to pay the benefits of all missing participants to another pension plan (within the meaning of section 1002(2) of this title).
+
+#### (5) Certain provisions not to apply
+
+&emsp;Subsections (a)(1) and (a)(3) shall not apply to a plan described in paragraph (4).
+
+#### (e) Regulatory authority
 
 The corporation shall prescribe such regulations as are necessary to carry out the purposes of this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
 
-(Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat. 5047.)
+(Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat.5047; amended Pub. L. 109–280, title IV, §410(a), Aug. 17, 2006, 120 Stat. 934.)
+
+#### Amendments
+
+2006—Subsecs. (c) to (e). Pub. L. 109–280 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable to distributions made after final regulations implementing subsections (c) and (d) of this section are prescribed, see section 410(c) of Pub. L. 109–280, set out as a note under section 1056 of this title.
 
 #### Effective Date
 

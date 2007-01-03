@@ -6,9 +6,9 @@ District of Columbia.—The corporation shall have a designated agent in the Dis
 
 (b)
 
-States.—As a condition to the exercise in any State of any power or privilege granted by this chapter, the corporation shall file, with <sup>1</sup> secretary of state or other designated official of that State, the name and address of an agent in that State on whom legal process or demands against the corporation may be served.
+States.—As a condition to the exercise in any State of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of that State, the name and address of an agent in that State on whom legal process or demands against the corporation may be served.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1391.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1391; Pub. L. 109–284, §5(8), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -36,5 +36,7 @@ In subsection (a), the word “have” is substituted for “maintain” for con
 
 In subsection (b), the words “precedent” and “or conferred” are omitted as unnecessary. The words “file, with the secretary of state or other designated official” are substituted for “serve notice upon the secretary of state, or similar officer” for consistency in the revised title.
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should appear.</i>
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–284 substituted “with the secretary” for “with secretary”.
 

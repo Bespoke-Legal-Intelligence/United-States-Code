@@ -2,7 +2,7 @@
 
 #### (a) Land acquisition
 
-Within the boundaries of the recreation area lands, waters, and interests therein owned by or under the control of the State of Oregon or any political subdivision thereof may be acquired only by donation or exchange.
+Within the boundaries of the recreation area lands, waters, and interests therein owned by orunder the control of the State of Oregon or any political subdivision thereof may be acquired only by donation or exchange.
 
 #### (b) Railway right-of-way
 
@@ -14,7 +14,7 @@ Any person owning an improved property, as hereafter defined, within the recreat
 
 #### (d) “Improved property” defined
 
-The term “improved property” wherever used in this subchapter shall mean a detached one-family dwelling the construction of which was begun before December 31, 1970, together with any structures accessory to it and the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary finds necessary for the enjoymentof the dwelling for the sole purpose of noncommercial residential use.
+The term “improved property” wherever used in this subchapter shall mean a detached one-family dwelling the construction of which was begun before December 31, 1970, together with any structures accessory to it and the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary finds necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use.
 
 (Pub. L. 92–260, §8, Mar. 23, 1972, 86 Stat. 100.)
 

@@ -42,7 +42,7 @@
 
 #### (4) Definition of instrumentalities
 
-&emsp;For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Printing Office, theOffice of Technology Assessment, and the United States Botanic Garden.
+&emsp;For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Printing Office, the Office of Technology Assessment, and the United States Botanic Garden.
 
 #### (5) Construction
 

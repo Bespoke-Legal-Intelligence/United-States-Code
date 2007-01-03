@@ -6,7 +6,7 @@ No grant may be made under this subchapter—
 
 &emsp;(1) unless application therefor is submitted to the Secretary in accordance with regulations and procedures prescribed by him;
 
-&emsp;(2) unless the application is in accordance with the comprehensive statewide historic preservation plan which has been approved by the Secretary after considering its relationship to the comprehensive statewide outdoor recreation plan prepared pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460<i>l</i>–4 of this title\];
+&emsp;(2) unless the application is in accordance with the comprehensive statewide historic preservation plan which has been approved by the Secretary after considering its relationship to the comprehensive statewide outdoor recreation plan prepared pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460<i>l</i>–4 et seq.\];
 
 &emsp;(3) for more than 60 percent of the aggregate costs of carrying out projects and programs under the administrative control of the State Historic Preservation Officer as specified in section 470a(b)(3) of this title in any one fiscal year;
 
@@ -30,7 +30,7 @@ No State shall be permitted to utilize the value of real property obtained befor
 
 #### (d) <sup>1</sup> Availability
 
-The Secretary shall make funding available to individual States and the National Trust for Historic Preservation as soon as practicableafter execution of a grant agreement. For purposes of administration, grants to individual States and the National Trust each shall be considered to be one grant and shall be administered by the National Park Service as such.
+The Secretary shall make funding available to individual States and the National Trust for Historic Preservation as soon as practicable after execution of a grant agreement. For purposes of administration, grants to individual States and the National Trust each shall be considered to be one grant and shall be administered by the National Park Service as such.
 
 #### (e) Administrative costs
 
@@ -40,7 +40,7 @@ The total administrative costs, direct and indirect, charged for carrying out St
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(2), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(2), is Pub. L. 88–578, Sept. 3,1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 #### Amendments
 

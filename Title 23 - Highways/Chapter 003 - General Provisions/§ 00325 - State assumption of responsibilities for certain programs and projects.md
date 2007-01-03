@@ -14,7 +14,7 @@ Establishment.—The Secretary may establish a pilot program under which States 
 
 &emsp;&emsp;(B)
 
-First 3 fiscal years.—In the first 3 fiscal years following the date of enactment of the SAFETEA–LU, the Secretary may allow up to 5 States to participate in the pilot program.
+First 3 fiscal years.—In the first 3 fiscal years following the date of enactmentof the SAFETEA–LU, the Secretary may allow up to 5 States to participate in the pilot program.
 
 &emsp;(2)
 

@@ -1,6 +1,6 @@
 ### §715k–5. Acquisition of lands
 
-No land shall be acquired with moneys from the migratory bird conservation fund unless the acquisition thereof has been approved by the Governor of the State or appropriate State agency.
+No land shall be acquired with moneys from the migratory bird conservation fund <sup>1</sup> unless the acquisition thereof has been approved by the Governor of the State or appropriate State agency.
 
 (Pub. L. 87–383, §3, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, §1(b), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, §2(b), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, §2, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, §102, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, §101(b), Nov. 10, 1986, 100 Stat. 3584.)
 
@@ -16,7 +16,9 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 1983—Pub. L. 98–200 substituted “October 1, 1984” for “October 1, 1983” in two places.
 
-1976—Pub. L. 94–215 substituted “on October 1, 1983” for “with fiscal year 1977”, “before October 1, 1983” for “prior to the end of the aforesaid fifteen-year period” and “year. No” for “year: <i>Provided further</i>, That no”.
+1976—Pub. L. 94–215 substituted “on October 1, 1983” for “with fiscal year 1977”, “before October 1, 1983” for“prior to the end of the aforesaid fifteen-year period” and “year. No” for “year: <i>Provided further</i>, That no”.
 
 1967—Pub. L. 90–205 made minor structural changes and substituted “1977” for “1969” and “fifteen-year period” for “seven-year period”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -12,7 +12,7 @@ The portion of Erie County, New York, referred to in subsection (a) of this sect
 
 #### (c) Limits on applicability; regulatory requirements
 
-The declaration under subsection (a) of this section shall apply to those parts of the areas described in subsection (b) of this section thatare filled portions of Lake Erie. Any work on these filled portions shall be subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+The declaration under subsection (a) of this section shall apply to those parts of the areas described in subsection (b) of this section that are filled portions of Lake Erie. Any work on these filled portions shall be subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (d) Expiration date
 

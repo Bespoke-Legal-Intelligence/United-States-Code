@@ -2,7 +2,7 @@
 
 #### (a) Establishment of fund
 
-There shall be established in the Treasury of the United States a trust fund which shall be known as the “Congressional Recognition for Excellence in Arts Education Awards Trust Fund”. The fund shall be administered by theBoard, and shall consist of amounts donated to the Board under section 817(c) of this title and amounts credited to the fund under subsection (d) of this section.
+There shall be established in the Treasury of the United States a trust fund which shall be known as the “Congressional Recognition for Excellence in Arts Education Awards Trust Fund”. The fund shall be administered by the Board, and shall consist of amounts donated to the Board under section 817(c) of this title and amounts credited to the fund under subsection (d) of this section.
 
 #### (b) Investment
 

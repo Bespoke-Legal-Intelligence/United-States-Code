@@ -14,7 +14,7 @@
 
 (2) The Secretary shall prescribe regulations under this subsection on the manner in which prospective passengers are to be notified.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 519; Pub. L. 99–307, §1(7)(A), May 19, 1986, 100 Stat. 444; Pub. L. 102–241, §20, Dec. 19, 1991, 105 Stat. 2216; Pub. L. 104–324, title XI, §1133, Oct. 19, 1996, 110 Stat. 3985.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 519; Pub. L. 99–307, §1(7)(A), May 19, 1986, 100 Stat. 445; Pub. L. 102–241, §20, Dec. 19, 1991, 105 Stat. 2216; Pub. L. 104–324, title XI, §1133, Oct. 19, 1996, 110 Stat. 3985.)
 
 Historical and Revision Notes
 
@@ -44,5 +44,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Notification to Prospective Passengers of Noncompliance With Fire-Retardant Standards
 
-Section 1(7)(B) of Pub. L. 99–307 provided that: “Until the regulations required by subclause (A) of this clause \[see subsec. (b)(2) of this section\] become effective, the owner or managing operator shall notify prospective passengers in all promotional literature and on each ticket that the vessel does not comply with those standards due primarily to the wooden construction of passenger berthing areas.”
+Pub. L. 99–307, §1(7)(B), May 19, 1986, 100 Stat. 445, provided that: “Until the regulations required by subclause (A) of this clause \[see subsec. (b)(2) of this section\] become effective, the owner or managing operator shall notify prospective passengers in all promotional literature and on each ticket that the vessel does not comply with those standards due primarily to the wooden construction of passenger berthing areas.”
 

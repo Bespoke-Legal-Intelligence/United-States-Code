@@ -16,7 +16,7 @@
 
 (4) A recall-eligible retired judge who becomes permanently disabled and as a result of that disability is unable to perform further service on the Court shall be removed from the status of a recall-eligible judge. Determination of such a disability shall be made pursuant to section 7253(g) or 7296(g) of this title.
 
-(c) A retired judge who is recalled under this section may exercise all of the judicial powersand duties of the office of a judge in active service.
+(c) A retired judge who is recalled under this section may exercise all of the judicial powers and duties of the office of a judge in active service.
 
 (d)(1) The pay of a recall-eligible retired judge who retired under section 7296 of this title is specified in subsection (c) of that section.
 

@@ -18,5 +18,5 @@ Within one year after October 24, 1992, the Secretary shall, after providing not
 
 #### Review of Existing Requirements and Report to Congress
 
-Section 2504(a)(2) of Pub. L. 102–486 directed Secretary of the Interior to review existing requirements related to underground coal mine subsidence and natural gas and petroleum pipeline safety, submit a report detailing results of review to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within 18 months of Oct. 24, 1992, and, where appropriate, to commence a rulemaking to address any deficiencies in existing law determined in the review regarding notification, coordination and mitigation.
+Section 2504(a)(2) of Pub. L. 102–486 directed Secretary of the Interior to review existing requirements relatedto underground coal mine subsidence and natural gas and petroleum pipeline safety, submit a report detailing results of review to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within 18 months of Oct. 24, 1992, and, where appropriate, to commence a rulemaking to address any deficiencies in existing law determined in the review regarding notification, coordination and mitigation.
 

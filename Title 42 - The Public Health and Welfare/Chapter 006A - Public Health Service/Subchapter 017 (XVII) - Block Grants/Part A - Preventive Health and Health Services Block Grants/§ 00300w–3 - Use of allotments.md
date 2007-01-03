@@ -46,7 +46,7 @@ A State may transfer not more than 7 percent of the amount allotted to the State
 
 Of the amount paid to any State under section 300w–2 of this title, not more than 10 percent paid from each of its allotments under subsections (a) and (b) of section 300w–1 of this title may be used for administering the funds made available under section 300w–2 of this title. The State will pay from non-Federal sources the remaining costs of administering such funds.
 
-(July 1, 1944, ch. 373, title XIX, §1904, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537; amended Pub. L. 97–414, §8(s), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–646, §87(d)(1)(A), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(b)(1)(A), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(b), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §102, Oct. 27, 1992, 106 Stat. 3470;Pub. L. 106–310, div. A, title V, §511, Oct. 17, 2000, 114 Stat. 1116.)
+(July 1, 1944, ch. 373, title XIX, §1904, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537; amended Pub. L. 97–414, §8(s), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–646, §87(d)(1)(A), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(b)(1)(A), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(b), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §102, Oct. 27, 1992, 106 Stat. 3470; Pub. L. 106–310, div. A, title V, §511, Oct. 17, 2000, 114 Stat. 1116.)
 
 #### References in Text
 

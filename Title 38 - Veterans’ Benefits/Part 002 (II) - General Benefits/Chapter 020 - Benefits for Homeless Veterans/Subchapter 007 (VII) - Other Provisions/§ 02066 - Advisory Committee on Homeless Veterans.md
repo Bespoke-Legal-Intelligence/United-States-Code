@@ -36,6 +36,12 @@ Establishment.—(1) There is established in the Department the Advisory Committ
 
 &emsp;(D) The Secretary of Housing and Urban Development (or a representative of the Secretary).
 
+&emsp;(E) The Executive Director of the Interagency Council on Homelessness (or a representative of the Executive Director).
+
+&emsp;(F) The Under Secretary for Health (or a representative of the Under Secretary after consultation with the Director of the Office of Homeless Veterans Programs).
+
+&emsp;(G) The Under Secretary for Benefits (or a representative of the Under Secretary after consultation with the Director of the Office of Homeless Veterans Programs).
+
 (4)(A) The Secretary shall determine the terms of service and allowances of the members of the Committee, except that a term of service may not exceed three years. The Secretary may reappoint any member for additional terms of service.
 
 (B) Members of the Committee shall serve without pay. Members may receive travel expenses, including per diem in lieu of subsistence for travel in connection with their duties as members of the Committee.
@@ -74,7 +80,7 @@ Duties.—(1) The Secretary shall consult with and seek the advice of the Commit
 
 (c)
 
-Reports.—(1) Not later than March 31 of each year, the Committee shall submit to theSecretary a report on the programs and activities of the Department that relate to homeless veterans. Each such report shall include—
+Reports.—(1) Not later than March 31 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that relate to homeless veterans. Each such report shall include—
 
 &emsp;(A) an assessment of the needs of homeless veterans;
 
@@ -92,13 +98,23 @@ Reports.—(1) Not later than March 31 of each year, the Committee shall submit 
 
 (d)
 
-Termination.—The Committee shall cease to exist December 31, 2006.
+Termination.—The Committee shall cease to exist December 30, 2011.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 916.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 916; amended Pub. L. 109–444, §2(e), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §709, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3441, 3468.)
 
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+
+#### Amendments
+
+2006—Subsec. (a)(3)(E) to (G). Pub. L. 109–461, §709(a), added subpars. (E) to (G).
+
+Subsec. (d). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+Pub. L. 109–461, §709(b), substituted “December 30, 2011” for “December 31, 2006”.
+
+Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 #### Change of Name
 

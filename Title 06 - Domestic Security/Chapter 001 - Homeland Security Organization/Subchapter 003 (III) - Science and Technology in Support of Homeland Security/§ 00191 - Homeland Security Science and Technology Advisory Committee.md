@@ -30,7 +30,7 @@ There is established within the Department a Homeland Security Science and Techn
 
 #### (2) Original appointments
 
-&emsp;The original members of the Advisory Committee shall be appointed to three classes. One class of six shall have a term of 1 year, one class of seven a term of 2 years, and one class of seven a term of 3 years.
+&emsp;The original members of the Advisory Committee shall be appointed to three classes. Oneclass of six shall have a term of 1 year, one class of seven a term of 2 years, and one class of seven a term of 3 years.
 
 #### (3) Vacancies
 
@@ -68,17 +68,21 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory
 
 #### (j) Termination
 
-The Department of Homeland Security Science and Technology Advisory Committee shall terminate 3 years after the effective date of this chapter.
+The Department of Homeland Security Science and Technology Advisory Committee shall terminate on December 31, 2008.
 
-(Pub. L. 107–296, title III, §311, Nov. 25, 2002, 116 Stat. 2174; Pub. L. 108–334, title V, §520, Oct. 18, 2004, 118 Stat. 1318.)
+(Pub. L. 107–296, title III, §311, Nov. 25, 2002, 116 Stat. 2174; Pub. L. 108–334, title V, §520, Oct. 18, 2004, 118 Stat. 1318; Pub. L. 109–347, title III, §302(a), Oct. 13, 2006, 120 Stat. 1920.)
 
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The effective date of this chapter, referred to in subsec. (j), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
-
 #### Amendments
 
+2006—Subsec. (j). Pub. L. 109–347 substituted “on December 31, 2008” for “3 years after the effective date of this chapter”.
+
 2004—Subsec. (c)(2). Pub. L. 108–334 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The original members of the Advisory Committee shall be appointed to three classes of three members each. One class shall have a term of 1 year, 1 a term of 2 years, and the other a term of 3 years.”
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–347, title III, §302(b), Oct. 13, 2006, 120 Stat. 1921, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if enacted on the date of the enactment of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) \[Nov. 25, 2002\].”
 

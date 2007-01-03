@@ -5,10 +5,6 @@
 | [837\.](%C2%A7%2000837%20-%20Definitions.md) | Definitions. |
 | [837a.](%C2%A7%2000837a%20-%20Limitation%20of%20sale%2C%20delivery%2C%20and%20exchange%20of%20electric%20energy%20and%20electric%20peaking%20capacity%20for%20use%20outside%20Pacific%20Northwest%20to%20surplus%E2%80%A6.md) | Limitation of sale, delivery, and exchange of electric energy and electric peaking capacity for use outside Pacific Northwest to surplus energy and surplus peaking capacity; notice to customers; inspection of contract drafts. |
 | [837b.](%C2%A7%2000837b%20-%20Contract%20terms%20and%20conditions%20for%20use%20of%20electric%20energy%20outside%20Pacific%20Northwest.md) | Contract terms and conditions for use of electric energy outside Pacific Northwest. |
-| (a) | Surplus energy; discontinuance of deliveries to maintain ability to meet requirements of Pacific Northwest customers; purchaser's responsibility for hardships; deliveries by non-Federal utility for use on contiguous distribution system not deemed deliveries for use outside Pacific Northwest. |
-| (b) | Conservable electric energy; provisional basis for delivery; return of energy to meet requirements of Pacific Northwest customers; time and extent of return of energy. |
-| (c) | Surplus peaking capacity; termination clause; advance or return of energy; time of return of energy; sale under subsection (a) conditions. |
-| (d) | Determination of energy requirements of Pacific Northwest non-Federal utility customer; exclusion of conservable energy; sale of surplus energy to the utility. |
 | [837c.](%C2%A7%2000837c%20-%20Contract%20limitations%20and%20conditions%20for%20use%20of%20electric%20energy%20and%20peaking%20capacity%20of%20plants%20in%20other%20marketing%20areas%20for%20use%20within%E2%80%A6.md) | Contract limitations and conditions for use of electric energy and peaking capacity of plants in other marketing areas for use within Pacific Northwest. |
 | [837d.](%C2%A7%2000837d%20-%20Exchange%20contracts.md) | Exchange contracts. |
 | [837e.](%C2%A7%2000837e%20-%20Transmission%20lines%20for%20other%20electric%20energy%3B%20rates.md) | Transmission lines for other electric energy; rates. |

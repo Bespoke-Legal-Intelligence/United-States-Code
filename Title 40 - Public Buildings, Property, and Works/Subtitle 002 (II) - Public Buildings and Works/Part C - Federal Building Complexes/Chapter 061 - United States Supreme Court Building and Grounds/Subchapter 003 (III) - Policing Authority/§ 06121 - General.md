@@ -22,7 +22,7 @@ Additional Requirements Related to Subsection (a)(2).—
 
 &emsp;(1)
 
-Authorization to carry firearms.—Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any State (other than the District of Columbia,Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
+Authorization to carry firearms.—Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any State (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
 
 &emsp;(2)
 

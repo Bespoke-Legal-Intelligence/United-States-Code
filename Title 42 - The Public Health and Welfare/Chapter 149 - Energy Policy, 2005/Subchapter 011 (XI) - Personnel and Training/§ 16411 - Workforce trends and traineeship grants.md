@@ -34,7 +34,7 @@ In this section:
 
 #### (1) Monitoring
 
-&emsp;The Secretary, in consultation with, and using data collected by, the Secretary ofLabor, shall monitor trends in the workforce of—
+&emsp;The Secretary, in consultation with, and using data collected by, the Secretary of Labor, shall monitor trends in the workforce of—
 
 &emsp;&emsp;(A) skilled technical personnel that support energy technology industries; and
 

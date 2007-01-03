@@ -6,7 +6,7 @@ In this subchapter:
 
 #### (1) Courts
 
-&emsp;The term “courts” means any civil or criminal, tribal, and Alaskan Village, Federal, State, local or territorial court having jurisdiction to address domestic violence, dating violence, sexual assault or stalking, including immigration, family, juvenile, and dependency courts, and the judicial officers serving in those courts, including judges, magistrate judges, commissioners, justices of the peace, or any other person with decisionmaking authority.
+&emsp;The term “courts” means any civil or criminal, tribal, and Alaska Native Village, Federal, State, local or territorial court having jurisdiction to address domestic violence, dating violence, sexual assault or stalking, including immigration, family, juvenile, and dependency courts, and the judicial officers serving in those courts, including judges, magistrate judges, commissioners, justices of the peace, or any other person with decisionmaking authority.
 
 #### (2) Child abuse and neglect
 
@@ -156,7 +156,7 @@ In this subchapter:
 
 #### (23) Sexual assault
 
-&emsp;The term “sexual assault” means any conduct prescribed <sup>1</sup> by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
+&emsp;The term “sexual assault” means any conduct proscribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
 
 #### (24) Stalking
 
@@ -202,7 +202,15 @@ In this subchapter:
 
 &emsp;&emsp;(B) a tribe, band, pueblo, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-#### (31) Tribal organization
+#### (31) Tribal nonprofit organization
+
+&emsp;The term “tribal nonprofit organization” means—
+
+&emsp;&emsp;(A) a victim services provider that has as its primary purpose to assist Native victims of domestic violence, dating violence, sexual assault, or stalking; and
+
+&emsp;&emsp;(B) staff and leadership of the organization must include persons with a demonstrated history of assisting American Indian or Alaska Native victims of domestic violence, dating violence, sexual assault, or stalking.
+
+#### (32) Tribal organization
 
 &emsp;The term “tribal organization” means—
 
@@ -212,23 +220,23 @@ In this subchapter:
 
 &emsp;&emsp;(C) any tribal nonprofit organization.
 
-#### (32) Underserved populations
+#### (33) Underserved populations
 
 &emsp;The term “underserved populations” includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Attorney General or by the Secretary of Health and Human Services, as appropriate.
 
-#### (33) Victim advocate
+#### (34) Victim advocate
 
 &emsp;The term “victim advocate” means a person, whether paid or serving as a volunteer, who provides services to victims of domestic violence, sexual assault, stalking, or dating violence under the auspices or supervision of a victim services program.
 
-#### (34) Victim assistant
+#### (35) Victim assistant
 
 &emsp;The term “victim assistant” means a person, whether paid or serving as a volunteer, who provides services to victims of domestic violence, sexual assault, stalking, or dating violence under the auspices or supervision of a court or a law enforcement or prosecution agency.
 
-#### (35) Victim services or victim service provider
+#### (36) Victim services or victim service provider
 
 &emsp;The term “victim services” or “victim service provider” means a nonprofit, nongovernmental organization that assists domestic violence, dating violence, sexual assault, or stalking victims, including rape crisis centers, domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
-#### (36) Youth
+#### (37) Youth
 
 &emsp;The term “youth” means teen and young adult victims of domestic violence, dating violence, sexual assault, or stalking.
 
@@ -236,7 +244,15 @@ In this subchapter:
 
 #### (1) Match
 
-&emsp;No matching funds shall be required for a grant or subgrant made under this subchapter for any tribe, territory, victim service provider, or any entity that the Attorney General determines has adequately demonstrated financial need.
+&emsp;No matching funds shall be required for any grant or subgrant made under this Act for—
+
+&emsp;&emsp;(A) any tribe, territory, or victim service provider; or
+
+&emsp;&emsp;(B) any other entity, including a State, that—
+
+&emsp;&emsp;&emsp;(i) petitions for a waiver of any match condition imposed by the Attorney General or the Secretaries of Health and Human Services or Housing and Urban Development; and
+
+&emsp;&emsp;&emsp;(ii) whose petition for waiver is determined by the Attorney General or the Secretaries of Health and Human Services or Housing and Urban Development to have adequately demonstrated the financial need of the petitioning entity.
 
 #### (2) Nondisclosure of confidential or private information
 
@@ -312,13 +328,13 @@ In this subchapter:
 
 #### (11) Technical assistance
 
-&emsp;If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
+&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
 
-(Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964.)
+(Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964; amended Pub. L. 109–271, §§1(d)–(f), 2(e), Aug. 12, 2006, 120 Stat. 751, 752.)
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, as amended, known as theViolence Against Women Act of 1994. For complete classification of title IV to the Code, see Short Title note set out under section 13701 of this title and Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, as amended, known as the Violence Against Women Act of 1994. For complete classification of title IV to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(12), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
@@ -328,7 +344,19 @@ The Family Violence Prevention and Services Act, referred to in subsec. (a)(26),
 
 The Public Health Service Act, referred to in subsec. (a)(27), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-This Act, referred to in subsec. (b)(2)(E), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
+This Act, referred to in subsec. (b)(1), (2)(E), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–271, §1(e)(1), substituted “Alaska Native” for “Alaskan”.
+
+Subsec. (a)(23). Pub. L. 109–271, §1(d), substituted “proscribed” for “prescribed”.
+
+Subsec. (a)(31) to (37). Pub. L. 109–271, §1(e)(2), (3), added par. (31) and redesignated former pars. (31) to (36) as (32) to (37), respectively.
+
+Subsec. (b)(1). Pub. L. 109–271, §1(f), added par. (1) and struck out former par. (1) which read as follows: “No matching funds shall be required for a grant or subgrant made under this subchapter for any tribe, territory, victim service provider, or any entity that the Attorney General determines has adequately demonstrated financial need.”
+
+Subsec. (b)(11). Pub. L. 109–271, §2(e), inserted “Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities.” before “If there is a demonstrated history”.
 
 #### Findings
 
@@ -380,7 +408,7 @@ Pub. L. 109–162, title II, §201, Jan. 5, 2006, 119 Stat. 2993, provided that:
 
 &emsp;“(11) Problems of domestic violence are exacerbated for immigrants when spouses control the immigration status of their family members, and abusers use threats of refusal to file immigration papers and threats to deport spouses and children as powerful tools to prevent battered immigrant women from seeking help, trapping battered immigrant women in violent homes because of fear of deportation.
 
-&emsp;“(12) Battered immigrant women who attempt to flee abusive relationships may not have access to bilingual shelters or bilingual professionals, and face restrictions on public or financial assistance. They may also lack assistance of a certified interpreter in court, when reporting complaints to the police or a 9–1–1 operator, or even in acquiring information about their rights and the legal system.
+&emsp;“(12) Battered immigrant women who attempt to flee abusive relationships may not have access to bilingual shelters or bilingual professionals, and face restrictions on public or financial assistance. They may also lack assistance of a certified interpreter in court, when reporting complaints to the police or a9–1–1 operator, or even in acquiring information about their rights and the legal system.
 
 &emsp;“(13) More than 500 men and women call the National Domestic Violence Hotline every day to get immediate, informed, and confidential assistance to help deal with family violence.
 
@@ -408,7 +436,7 @@ Pub. L. 109–162, title III, §301, Jan. 5, 2006, 119 Stat. 3003, provided that
 
 &emsp;“(6) Only one State specifically allows for minors to petition the court for protection orders.
 
-&emsp;“(7) Many youth are involved in dating relationships, and these relationships can include the same kind of domestic violence and dating violence seen in the adult population. In fact, more than 40 percent ofall incidents of domestic violence involve people who are not married.
+&emsp;“(7) Many youth are involved in dating relationships, and these relationships can include the same kind of domestic violence and dating violence seen in the adult population. In fact, more than 40 percent of all incidents of domestic violence involve people who are not married.
 
 &emsp;“(8) 40 percent of girls ages 14 to 17 report knowing someone their age who has been hit or beaten by a boyfriend, and 13 percent of college women report being stalked.
 

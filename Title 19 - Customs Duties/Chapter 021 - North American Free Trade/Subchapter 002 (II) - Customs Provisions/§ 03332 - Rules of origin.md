@@ -146,7 +146,7 @@ nc
 
 #### (6) Net cost method allowed for adjustments
 
-&emsp;If an exporter or producer of a good calculates the regional value-content of the good on the basis of the transaction value methodand a NAFTA country subsequently notifies the exporter or producer, during the course of a verification conducted in accordance with chapter 5 of the Agreement, that the transaction value of the good or the value of any material used in the production of the good must be adjusted or is unacceptable under Article 1 of the Customs Valuation Code, the exporter or producer may calculate the regional value-content of the good on the basis of the net cost method.
+&emsp;If an exporter or producer of a good calculates the regional value-content of the good on the basis of the transaction value method and a NAFTA country subsequently notifies the exporter or producer, during the course of a verification conducted in accordance with chapter 5 of the Agreement, that the transaction value of the good or the value of any material used in the production of the good must be adjusted or is unacceptable under Article 1 of the Customs Valuation Code, the exporter or producer may calculate the regional value-content of the good on the basis of the net cost method.
 
 #### (7) Review of adjustment
 
@@ -216,7 +216,7 @@ nc
 
 &emsp;For purposes of calculating the regional value-content under the net cost method for a good that is a motor vehicle provided for in heading 8701, subheading 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, a motor vehicle for the transport of 16 or more persons provided for in subheading 8702.10.00 or 8702.90.00, or a component identified in Annex 403.2 of the Agreement for use as original equipment in the production of the motor vehicle, the value of nonoriginating materials used by the producer in the production of the good shall be the sum of—
 
-&emsp;&emsp;(A) for each material used by the producer listed in Annex 403.2 of the Agreement, whether or not produced by the producer, at the choice of the producer and determined in accordance with subsection (b) of this section, either—
+&emsp;&emsp;(A) for each material used by the producer listed in Annex 403.2 of the Agreement, whether or not produced by the producer, at the choice of the producer and determined inaccordance with subsection (b) of this section, either—
 
 &emsp;&emsp;&emsp;(i) the value of such material that is nonoriginating, or
 
@@ -766,7 +766,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) modifications to the provisions proclaimed under the authority of paragraph (1)(A) as are necessary to implement an agreement with one or more of the NAFTA countries pursuant to paragraph 2 of section 7 of Annex 300–B of the Agreement, and
 
-&emsp;&emsp;(B) before December 8, 1994, modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of Appendix 6.A of Annex 300–B and section XI of part B of Annex 401 of the Agreement.
+&emsp;&emsp;(B) before December 8, 1994, modifications to correct any typographical, clerical, orother nonsubstantive technical error regarding the provisions of Appendix 6.A of Annex 300–B and section XI of part B of Annex 401 of the Agreement.
 
 (Pub. L. 103–182, title II, §202, Dec. 8, 1993, 107 Stat. 2069; Pub. L. 104–295, §21(a)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–206, title V, §5003(b)(4), July 22, 1998, 112 Stat. 790.)
 

@@ -10,11 +10,11 @@ Notwithstanding section 1514 of this title or any other provision of law, and su
 
 &emsp;&emsp;(B) that would have qualified as an originating good under section 4033 of this title if the good had been entered after the date of entry into force of the Agreement for that country,
 
-&emsp;(2) that was made on or after January 1, 2004, and before the date of the entry into force of the Agreement with respect to that country, and
+&emsp;(2) that was made on or after January 1, 2004, and before the date of the entry into force of the Agreement with respect to that country or any other CAFTA–DR country, and
 
 &emsp;(3) for which customs duties in excess of the applicable rate of duty for that good set out in the Schedule of the United States to Annex 3.3 of the Agreement were paid,
 
-> shall be liquidated or reliquidated at the applicable rate of duty for that good set out in the Schedule of the United States to Annex 3.3 of the Agreement, and the Secretary of the Treasury shall refund any excess customs duties paid with respect to such entry.
+> shall be liquidated or reliquidated at the applicable rate of duty for that good set out in theSchedule of the United States to Annex 3.3 of the Agreement, and the Secretary of the Treasury shall refund any excess customs duties paid with respect to such entry.
 
 #### (b) Eligible country
 
@@ -34,11 +34,19 @@ Liquidation or reliquidation may be made under subsection (a) with respect to an
 
 As used in this section, the term “entry” includes a withdrawal from warehouse for consumption.
 
-(Pub. L. 109–53, title II, §205, Aug. 2, 2005, 119 Stat. 483.)
+(Pub. L. 109–53, title II, §205, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–280, title XIV, §1634(d), Aug. 17, 2006, 120 Stat. 1168.)
 
 #### Termination of Section
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
+
+#### Amendments
+
+2006—Subsec. (a)(2). Pub. L. 109–280 inserted “or any other CAFTA–DR country” after “that country”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective and Termination Dates
 

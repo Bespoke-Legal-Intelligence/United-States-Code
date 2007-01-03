@@ -6,11 +6,13 @@ Recommendation of Best Qualified Officers.—A promotion board convened under se
 
 (b)
 
-Majority Required.—A promotion board convened under section 14101(a) of this title may not recommend an officer for promotion unless—
+Actions Required.—A promotion board convened under section 14101(a) of this title may not recommend an officer for promotion unless—
 
-&emsp;(1) the officer receives the recommendation of a majority of the members of the board; and
+&emsp;(1) the officer receives the recommendation of a majority of the members of the board;
 
-&emsp;(2) a majority of the members of the board finds that the officer is fully qualified for promotion.
+&emsp;(2) a majority of the members of the board finds that the officer is fully qualified for promotion; and
+
+&emsp;(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 14107 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
 
 (c)
 
@@ -28,9 +30,19 @@ Prohibition of Coercion and Unauthorized Influence of Actions of Board Members.�
 
 &emsp;(2) attempt to coerce or, by any unauthorized means, influence any action of a promotion board or any member of a promotion board in the formulation of the board's recommendations.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 109–364, div. A, title V, §512(b), Oct. 17, 2006, 120 Stat. 2184.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3362(e), 5893(c), 5896, and 8362(e) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–364, §512(b)(1), substituted “Actions” for “Majority” in heading.
+
+Subsec. (b)(3). Pub. L. 109–364, §512(b)(2)–(4), added par. (3).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to selection boards convened on or after that date, see section 512(c) of Pub. L. 109–364, set out as a note under section 616 of this title.
 

@@ -26,7 +26,7 @@ The study conducted under subsection (a) of this section shall include—
 
 #### (c) Study panel membership
 
-Any panel constituted in furtherance of the study to be conducted under subsection (a) of this section shall include consumer representatives.
+Any panel constituted in furtherance of the study to be conducted under subsection (a) ofthis section shall include consumer representatives.
 
 #### (d) Findings and recommendations
 

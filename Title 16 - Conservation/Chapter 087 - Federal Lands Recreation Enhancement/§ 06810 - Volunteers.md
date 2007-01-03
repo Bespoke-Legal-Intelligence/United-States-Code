@@ -20,5 +20,5 @@ The Secretary may issue a regional multientity pass authorized under section 680
 
 #### References in Text
 
-Section 6804 of this title, referred to in subsecs. (b) to (d), was in the original a reference to section 5, and was translated as meaning section 805 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
+Section 6804 of this title, referred to in subsecs. (b) to (d), was in the original a reference to section 5, and wastranslated as meaning section 805 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(ii) performed seasonal agricultural services in the United States for at least 90 man-days,
 
-> &emsp;&emsp;during the 12-month period ending on May 1, 1986. For purposes of the previous sentence,performance of seasonal agricultural services in the United States for more than one employer on any one day shall be counted as performance of services for only 1 man-day.
+> &emsp;&emsp;during the 12-month period ending on May 1, 1986. For purposes of the previous sentence, performance of seasonal agricultural services in the United States for more than one employer on any one day shall be counted as performance of services for only 1 man-day.
 
 #### (C) Admissible as immigrant
 
@@ -38,7 +38,7 @@
 
 #### (C) Numerical limitation
 
-&emsp;&emsp;Subparagraph (A) shall not apply to more than 350,000 aliens. If more than 350,000 aliens meet the requirements of such subparagraph, such subparagraph shall apply to the 350,000 aliens whose applications for adjustment were first filed under paragraph (1) and subparagraph (B) shall apply to the remaining aliens.
+&emsp;&emsp;Subparagraph (A) shall not apply to more than 350,000 aliens. If more than 350,000aliens meet the requirements of such subparagraph, such subparagraph shall apply to the 350,000 aliens whose applications for adjustment were first filed under paragraph (1) and subparagraph (B) shall apply to the remaining aliens.
 
 #### (3) Termination of temporary residence
 
@@ -98,7 +98,7 @@
 
 #### (4) Treatment of applications by designated entities
 
-&emsp;Each designated entity must agree to forward to the Attorney General applications filed with it in accordance with paragraph (1)(A)(ii) but not to forward to the Attorney General applications filed with it unless the applicant has consented to such forwarding. No such entity may make a determination required by this section to be made by the Attorney General.
+&emsp;Each designated entity must agree to forward to the Attorney General applicationsfiled with it in accordance with paragraph (1)(A)(ii) but not to forward to the Attorney General applications filed with it unless the applicant has consented to such forwarding. No such entity may make a determination required by this section to be made by the Attorney General.
 
 #### (5) Limitation on access to information
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Paragraph (4) (relating to aliens likely to become public charges).
 
-&emsp;&emsp;&emsp;&emsp;(III) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
+&emsp;&emsp;&emsp;&emsp;(III) Paragraph (2)(C) (relating to drug offenses), except for so much of suchparagraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Paragraph (3) (relating to security and related grounds), other than subparagraph (E) thereof.
 
@@ -272,7 +272,7 @@ Subsec. (b)(6). Pub. L. 104–208, §623(b), amended par. (6) generally, substit
 
 Pub. L. 104–208, §384(d)(1), substituted “Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $5,000 for each violation.” for “Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be fined in accordance with title 18 or imprisoned not more than five years, or both.” in concluding provisions.
 
-Pub. L. 104–132, §431(b)(2), inserted before “Anyone who uses” in concluding provisions “Notwithstandingthe preceding sentence, the Attorney General may authorize an application to a Federal court of competent jurisdiction for, and a judge of such court may grant an order authorizing, disclosure of information contained in the application of the alien to be used for identification of the alien when there is reason to believe that the alien has been killed or severely incapacitated, or for criminal law enforcement purposes against the alien whose application is to be disclosed or to discover information leading to the location or identity of the alien.”
+Pub. L. 104–132, §431(b)(2), inserted before “Anyone who uses” in concluding provisions “Notwithstanding the preceding sentence, the Attorney General may authorize an application to a Federal court of competent jurisdiction for, and a judge of such court may grant an order authorizing, disclosure of information contained in the application of the alien to be used for identification of the alien when there is reason to believe that the alien has been killed or severely incapacitated, or for criminal law enforcement purposes against the alien whose application is to be disclosed or to discover information leading to the location or identity of the alien.”
 
 Subsec. (e)(3)(A). Pub. L. 104–208, §308(g)(2)(B), inserted “(as in effect before October 1, 1996)” after “section 1105a of this title”.
 

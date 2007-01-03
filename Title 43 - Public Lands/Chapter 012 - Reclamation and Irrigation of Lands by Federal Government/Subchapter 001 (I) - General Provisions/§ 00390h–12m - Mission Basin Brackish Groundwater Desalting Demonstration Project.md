@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in cooperation with the City of Oceanside, is authorized to participate in the design, planning, and construction of a 3,000,000 gallon per day expansion of the Mission BasinBrackish Groundwater Desalting Demonstration Project in Oceanside, California.
+The Secretary, in cooperation with the City of Oceanside, is authorized to participate in the design, planning, and construction of a 3,000,000 gallon per day expansion of the Mission Basin Brackish Groundwater Desalting Demonstration Project in Oceanside, California.
 
 #### (b) Cost share
 

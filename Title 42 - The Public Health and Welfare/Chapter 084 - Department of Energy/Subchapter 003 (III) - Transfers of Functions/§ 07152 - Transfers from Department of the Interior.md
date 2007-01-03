@@ -126,7 +126,7 @@ Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna 
 
 “(c)
 
-Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
+Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreementand to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
 
 “(2) An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred.
 
@@ -150,7 +150,7 @@ Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Ekl
 
 “(e)
 
-Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select,and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
+Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
 
 “(f)
 

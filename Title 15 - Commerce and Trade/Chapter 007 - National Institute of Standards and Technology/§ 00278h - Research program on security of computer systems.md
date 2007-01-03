@@ -92,7 +92,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (2) Comprehensive 5-year review
 
-&emsp;The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
+&emsp;The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph nolater than 6 years after the initiation of the program.
 
 #### (f) Definitions
 

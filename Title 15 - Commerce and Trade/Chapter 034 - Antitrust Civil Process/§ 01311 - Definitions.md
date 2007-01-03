@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 &emsp;(h) The term “custodian” means the custodian or any deputy custodian designated under section 1313(a) of this title;
 
-&emsp;(i) The term “product of discovery” includes without limitation the original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission obtained by any method of discovery in any judicial litigation or in any administrative litigation of an adversarial nature; any digest, analysis, selection, compilation, or any derivationthereof; and any index or manner of access thereto; and
+&emsp;(i) The term “product of discovery” includes without limitation the original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission obtained by any method of discovery in any judicial litigation or in any administrative litigation of an adversarial nature; any digest, analysis, selection, compilation, or any derivation thereof; and any index or manner of access thereto; and
 
 &emsp;(j) The term “agent” includes any person retained by the Department of Justice in connection with the enforcement of the antitrust laws.
 

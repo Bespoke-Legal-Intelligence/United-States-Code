@@ -21,13 +21,13 @@
 | [3217\.](%C2%A7%2003217%20-%20Correspondence%20of%20members%20of%20diplomatic%20corps%20and%20consuls%20of%20countries%20of%20Postal%20Union%20of%20Americas%20and%20Spain.md) | Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain. |
 | [3218\.](%C2%A7%2003218%20-%20Franked%20mail%20for%20survivors%20of%20Members%20of%20Congress.md) | Franked mail for survivors of Members of Congress. |
 | [3219\.](%C2%A7%2003219%20-%20Mailgrams.md) | Mailgrams. |
-| \[3220. | Omitted.\] |
+| [3220\.](%C2%A7%2003220%20-%20Use%20of%20official%20mail%20in%20the%20location%20and%20recovery%20of%20missing%20children.md) | Use of official mail in the location and recovery of missing children. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1985—Pub. L. 99–87, §1(a)(2), Aug. 9, 1985, 99 Stat. 290, temporarily added item 3220 “Use of official mail in the location and recovery of missing children”. See section 5 of Pub. L. 99–87, as amended, set out as a Termination Date note under former section 3220 of this title.
+1985—Pub. L. 99–87, §1(a)(2), Aug. 9, 1985, 99 Stat. 290, added item 3220.
 
 1981—Pub. L. 97–69, §6(c)(2), Oct. 26, 1981, 95 Stat. 1043, substituted “survivors” for “surviving spouses” in item 3218.
 
@@ -57,4 +57,4 @@
 - [&sect; 03217 - Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain](%C2%A7%2003217%20-%20Correspondence%20of%20members%20of%20diplomatic%20corps%20and%20consuls%20of%20countries%20of%20Postal%20Union%20of%20Americas%20and%20Spain.md)
 - [&sect; 03218 - Franked mail for survivors of Members of Congress](%C2%A7%2003218%20-%20Franked%20mail%20for%20survivors%20of%20Members%20of%20Congress.md)
 - [&sect; 03219 - Mailgrams](%C2%A7%2003219%20-%20Mailgrams.md)
-- [&sect; 03220 - Omitted](%C2%A7%2003220%20-%20Omitted.md)
+- [&sect; 03220 - Use of official mail in the location and recovery of missing children](%C2%A7%2003220%20-%20Use%20of%20official%20mail%20in%20the%20location%20and%20recovery%20of%20missing%20children.md)

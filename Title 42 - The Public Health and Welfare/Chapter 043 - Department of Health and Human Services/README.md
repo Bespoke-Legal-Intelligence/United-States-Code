@@ -15,9 +15,6 @@
 | [3505b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003505b%20-%20Functions%20and%20duties%20of%20Deputy%20Assistant%20Secretary%20for%20Population%20Affairs.md) | Functions and duties of Deputy Assistant Secretary for Population Affairs. |
 | [3505c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003505c%20-%20Repealed.%20Pub.%20L.%2094%E2%80%9363%2C%20title%20II%2C%20%C2%A7203%28b%29%2C%20July%2029%2C%201975%2C%2089%20Stat.%20307.md) | Repealed. |
 | [3505d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003505d%20-%20National%20Health%20Professional%20Shortage%20Clearinghouse.md) | National Health Professional Shortage Clearinghouse. |
-| (a) | Establishment; function. |
-| (b) | Information and listing services available without charge. |
-| (c) | Authorization of appropriations. |
 | [3506\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003506%20-%20Travel%20and%20subsistence%20expenses%20of%20officers%20and%20employees%20in%20connection%20with%20attendance%20at%20meetings%20or%20in%20performing%20advisory%20services.md) | Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services. |
 | [3507\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003507%20-%20Transfer%20of%20personnel%20and%20household%20goods%3B%20delegation%20of%20Secretary%27s%20authority.md) | Transfer of personnel and household goods; delegation of Secretary's authority. |
 | 3508 to 3511. Omitted, Repealed, or Transferred. |  |

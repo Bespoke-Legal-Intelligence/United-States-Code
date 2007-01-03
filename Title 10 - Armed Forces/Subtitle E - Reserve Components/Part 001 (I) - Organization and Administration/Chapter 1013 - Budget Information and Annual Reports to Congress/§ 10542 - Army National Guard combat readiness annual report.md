@@ -36,7 +36,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(10) The number of waivers, shown for each State, that were granted by the Secretary during the previous fiscal year under section 1115(c)(2) of ANGCRRA of the requirement in section 1115(c)(1) of ANGCRRA described in paragraph (9), together with the reason for each waiver.
 
-&emsp;(11) The number of members, shown for each State, who were screened during the preceding fiscal year to determine whether they meet minimum physical profile standards required for deployment and, of those members—
+&emsp;(11) The number of members, shown for each State, who were screened during the precedingfiscal year to determine whether they meet minimum physical profile standards required for deployment and, of those members—
 
 &emsp;&emsp;(A) the number and percentage who did not meet minimum physical profile standards required for deployment; and
 
@@ -60,7 +60,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) based on the information shown in the tables, the Secretary's overall assessment of the deployability of units of the Army National Guard, including a discussion of personnel deficiencies and equipment shortfalls in accordance with such section 1121.
 
-&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the RegularArmy under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
+&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the Regular Army under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
 
 &emsp;&emsp;(A) the number of such inspections;
 

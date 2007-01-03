@@ -4,7 +4,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(1) such commodity or mineral, as the case may be, is in surplus on world markets; and
 
-&emsp;(2) the export of such commodity or mineral, as the case may be, would cause substantialinjury to the United States producers of the same, similar, or competing commodity or mineral.
+&emsp;(2) the export of such commodity or mineral, as the case may be, would cause substantial injury to the United States producers of the same, similar, or competing commodity or mineral.
 
 (Pub. L. 99–472, §22, Oct. 15, 1986, 100 Stat. 1210.)
 

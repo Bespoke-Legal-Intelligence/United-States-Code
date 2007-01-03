@@ -44,7 +44,7 @@ Repayment.—A member who receives a bonus under this section, but who does not 
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
 
-(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547; Pub. L. 106–65, div. A, title VI, §625(a), Oct. 5, 1999, 113 Stat. 654; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §620(a)(1), Oct. 28, 2004, 118 Stat. 1952; Pub. L. 109–163, div. A, title VI, §§639(a)–(e)(1), 687(b)(25), Jan. 6, 2006, 119 Stat. 3301, 3302, 3331.)
+(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547; Pub. L. 106–65, div. A, titleVI, §625(a), Oct. 5, 1999, 113 Stat. 654; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §620(a)(1), Oct. 28, 2004, 118 Stat. 1952; Pub. L. 109–163, div. A, title VI, §§639(a)–(e)(1), 687(b)(25), Jan. 6, 2006, 119 Stat. 3301, 3302, 3331.)
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 109–163, §639(b)(1), (2), redesignated subsec. (f) as (d
 
 “(1) The monthly rate for special pay paid under subsection (a) may not exceed $1,000.
 
-“(2) The maximum amount of the bonus paid to a member under subsection (b) may not exceed $6,000 for the one-year period covered by the certification of the member. The Secretary concerned may pay the bonusin a single lump sum at the beginning of the certification period or in installments during the certification period.”
+“(2) The maximum amount of the bonus paid to a member under subsection (b) may not exceed $6,000 for the one-year period covered by the certification of the member. The Secretary concerned may pay the bonus in a single lump sum at the beginning of the certification period or in installments during the certification period.”
 
 Subsec. (d)(1). Pub. L. 109–163, §639(d)(2)(A)(i), struck out “monthly special pay or” before “a bonus under” in introductory provisions.
 
@@ -112,7 +112,7 @@ Subsec. (a)(3)(C). Pub. L. 104–201, §616(a)(3)(B), struck out “military” 
 
 Subsec. (a)(3)(D). Pub. L. 104–201, §616(a)(3)(C), substituted “uniformed service” for “Department of Defense” and “Secretary concerned” for “Secretary of Defense”.
 
-Subsec. (d). Pub. L. 104–201, §616(b), substituted “the jurisdiction of the Secretary,” for “his jurisdiction and” and inserted before period at end “, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration”.
+Subsec. (d). Pub. L. 104–201, §616(b), substituted “the jurisdiction of the Secretary,” for “his jurisdiction and” and inserted before period at end “, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by theSecretary of Commerce for the National Oceanic and Atmospheric Administration”.
 
 #### Effective Date of 2002 Amendment
 
@@ -132,5 +132,5 @@ Section 634(b) of Pub. L. 99–661 provided that: “Section 316 of title 37, Un
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, setout as a note under section 510 of Title 10, Armed Forces.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

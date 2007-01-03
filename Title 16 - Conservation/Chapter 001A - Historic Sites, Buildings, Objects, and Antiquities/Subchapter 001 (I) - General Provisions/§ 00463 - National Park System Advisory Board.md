@@ -26,7 +26,7 @@ There is hereby established a National Park System Advisory Board, whose purpose
 
 &emsp;(F) take such other actions, as the Board may deem advisable. Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
-(2) The Board may establish committees or subcommittees. Any such subcommittees orcommittees shall be chaired by a voting member of the Board.
+(2) The Board may establish committees or subcommittees. Any such subcommittees or committees shall be chaired by a voting member of the Board.
 
 #### (d) Federal Advisory Committee Act
 
@@ -36,7 +36,7 @@ The provisions of the Federal Advisory Committee Act shall apply to the Board es
 
 (1) The Board is authorized to secure directly from any office, department, agency, establishment, or instrumentality of the Federal Government such information as the Board may require for the purpose of this section, and each such officer, department, agency, establishment, or instrumentality is authorized and directed to furnish, to the extent permitted by law, such information, suggestions, estimates, and statistics directly to the Board, upon request made by a member of the Board.
 
-(2) Upon the request of the Board, the head of any Federal department, agency, or instrumentality is authorized to make any of the facilities and services of such department, agency, or instrumentality to the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
+(2) Upon the request of the Board, the head of any Federal department, agency, or instrumentality is authorized to make any of the facilities and services of such department, agency, or instrumentality to <sup>3</sup> the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
 
 (3) The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies in the United States.
 
@@ -99,4 +99,6 @@ Act Aug. 11, 1955, ch. 779, §3, 69 Stat. 633, provided that the Federal Hall Me
 <i><sup>1</sup></i><i> So in original. Probably should be subchapter “I”.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “available to”.</i>
 

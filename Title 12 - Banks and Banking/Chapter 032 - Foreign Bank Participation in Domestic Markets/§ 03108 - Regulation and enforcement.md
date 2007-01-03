@@ -8,7 +8,7 @@ The Comptroller, the Board, and the Federal Deposit Insurance Corporation, are a
 
 #### (1) In general
 
-&emsp;In addition to any powers, remedies, or sanctions otherwise provided by law, compliancewith the requirements imposed under this chapter or any amendment made by this chapter may be enforced under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] by any appropriate Federal banking agency as defined in that Act \[12 U.S.C. 1811 et seq.\].
+&emsp;In addition to any powers, remedies, or sanctions otherwise provided by law, compliance with the requirements imposed under this chapter or any amendment made by this chapter may be enforced under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] by any appropriate Federal banking agency as defined in that Act \[12 U.S.C. 1811 et seq.\].
 
 #### (2) Authority to administer oaths; subpoena power
 

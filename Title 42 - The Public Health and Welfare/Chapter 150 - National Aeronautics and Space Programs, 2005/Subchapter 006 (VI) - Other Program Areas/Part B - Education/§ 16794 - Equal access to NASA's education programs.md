@@ -6,7 +6,7 @@ The Administrator shall strive to ensure equal access for minority and economica
 
 #### (b) Report
 
-Not later than 1 year after December 30, 2005, and every 2 years thereafter, the Administratorshall submit a report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efforts by the Administrator to ensure equal access for minority and economically disadvantaged students under this section and the results of such efforts. As part of the report, the Administrator shall provide—
+Not later than 1 year after December 30, 2005, and every 2 years thereafter, the Administrator shall submit a report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efforts by the Administrator to ensure equal access for minority and economically disadvantaged students under this section and the results of such efforts. As part of the report, the Administrator shall provide—
 
 &emsp;(1) data on minority participation in NASA's education programs, at a minimum in the following categories: elementary and secondary education, undergraduate education, and graduate education; and
 

@@ -30,7 +30,7 @@ Any individual appointed under subsection (a) of this section shall be subject t
 
 #### (d) Reimbursement agreements
 
-Nothing in this section shall prohibit the Capitol Police from entering into an agreement for the reimbursement of services provided under this section with any Federal, State, or local agency.
+Nothing in this section shall prohibit the Capitol Police from entering into an agreement for the reimbursement of services provided underthis section with any Federal, State, or local agency.
 
 #### (e) Approval
 

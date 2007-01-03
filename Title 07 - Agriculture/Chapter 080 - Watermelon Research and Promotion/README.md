@@ -8,39 +8,14 @@
 | [4904\.](%C2%A7%2004904%20-%20Notice%20and%20hearings.md) | Notice and hearings. |
 | [4905\.](%C2%A7%2004905%20-%20Regulations.md) | Regulations. |
 | [4906\.](%C2%A7%2004906%20-%20Required%20terms%20in%20plans.md) | Required terms in plans. |
-| (a) | Description of terms and provisions. |
-| (b) | Establishment and powers of National Watermelon Promotion Board. |
-| (c) | Membership of Board; representation of interests; appointment; nomination; eligibility of producers; importer representation. |
-| (d) | Compensation and expenses of Board. |
-| (e) | Budget on fiscal period basis. |
-| (f) | Assessments; payments; notice. |
-| (g) | Scope of expenditures; restrictions; assessments on per-unit basis; importers. |
-| (h) | Refunds. |
-| (i) | Submission of programs or projects; approval by Secretary. |
-| (j) | Contract authority. |
-| (k) | Recordkeeping; accounting and audit reports. |
-| (<i>l</i>) | Certification. |
 | [4907\.](%C2%A7%2004907%20-%20Permissive%20terms%20in%20plans.md) | Permissive terms in plans. |
-| (a) | Description of terms and provisions; prohibition. |
-| (b) | Exemptions. |
-| (c) | Designation of different handler payment and reporting schedules for assessments. |
-| (d) | Advertising and sales promotion programs or projects. |
-| (e) | Marketing objectives of research and development projects and studies. |
-| (f) | Reserve funds; limitation. |
-| (g) | Foreign market sales. |
-| (h) | Other terms and conditions. |
 | [4908\.](%C2%A7%2004908%20-%20Assessment%20procedures.md) | Assessment procedures. |
-| (a) | Persons responsible for remittance of assessments; recordkeeping; equal and unitary assessments. |
-| (b) | Inspection of records. |
-| (c) | Confidentiality of information; disclosure authority; general or violation statements; penalties; removal from office. |
 | [4909\.](%C2%A7%2004909%20-%20Petition%20and%20review.md) | Petition and review. |
 | [4910\.](%C2%A7%2004910%20-%20Enforcement.md) | Enforcement. |
 | [4911\.](%C2%A7%2004911%20-%20Investigation%20and%20power%20to%20subpoena.md) | Investigation and power to subpoena. |
 | [4912\.](%C2%A7%2004912%20-%20Requirement%20of%20referendum.md) | Requirement of referendum. |
 | [4913\.](%C2%A7%2004913%20-%20Suspension%20or%20termination%20of%20plans.md) | Suspension or termination of plans. |
 | [4914\.](%C2%A7%2004914%20-%20Amendment%20procedure.md) | Amendment procedure. |
-| (a) | In general. |
-| (b) | Separate consideration of amendments. |
 | [4915\.](%C2%A7%2004915%20-%20Separability.md) | Separability. |
 | [4916\.](%C2%A7%2004916%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

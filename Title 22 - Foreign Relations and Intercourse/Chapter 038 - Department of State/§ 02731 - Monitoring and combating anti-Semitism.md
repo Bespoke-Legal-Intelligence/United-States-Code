@@ -22,7 +22,7 @@ Upon establishment, the Office shall assume the primary responsibility for—
 
 &emsp;(1) monitoring and combating acts of anti-Semitism and anti-Semitic incitement that occur in foreign countries;
 
-&emsp;(2) coordinating and assisting in the preparation of that portion of the report required by sections 2151n(d)(7) and 2304(b) of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the annual Country Reports on Human Rights Practices; and
+&emsp;(2) coordinating and assisting in the preparation of that portion of the report required bysections 2151n(d)(7) and 2304(b) of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the annual Country Reports on Human Rights Practices; and
 
 &emsp;(3) coordinating and assisting in the preparation of that portion of the report required by section 6412(b)(1)(A)(iv) of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the Annual Report on International Religious Freedom.
 
@@ -34,7 +34,7 @@ The Special Envoy shall consult with domestic and international nongovernmental 
 
 #### Findings
 
-Pub. L. 108–332, §2, Oct. 16, 2004, 118 Stat. 1282, provided that:“Congress makes the following findings:
+Pub. L. 108–332, §2, Oct. 16, 2004, 118 Stat. 1282, provided that: “Congress makes the following findings:
 
 &emsp;“(1) Acts of anti-Semitism in countries throughout the world, including some of the world's strongest democracies, have increased significantly in frequency and scope over the last several years.
 

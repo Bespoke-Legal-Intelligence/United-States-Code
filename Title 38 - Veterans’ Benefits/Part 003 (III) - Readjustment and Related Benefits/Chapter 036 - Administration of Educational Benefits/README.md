@@ -97,7 +97,7 @@ Pub. L. 100–323, §13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 1774A.
 
 1967—Pub. L. 90–77, title III, §§304(e), 308(b), Aug. 31, 1967, 81 Stat. 188, 189, added item 1777 and renumbered former items 1777 and 1778 as 1778 and 1779, respectively, and provided for the reporting fee in item 1784.
 
-1966—Pub. L. 89–358, §3(a)(4), Mar. 3, 1966, 80 Stat. 20, substituted “CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS” heading, including Subchapter I and II analyses, preceding section 1770 of this title for “SUBCHAPTER VII—STATE APPROVING AGENCIES” heading preceding section 1771 of this title, Subchapter VII heading being redesignated Subchapter I.
+1966—Pub. L. 89–358, §3(a)(4), Mar. 3, 1966, 80 Stat. 20, substituted “CHAPTER 36—ADMINISTRATION OFEDUCATIONAL BENEFITS” heading, including Subchapter I and II analyses, preceding section 1770 of this title for “SUBCHAPTER VII—STATE APPROVING AGENCIES” heading preceding section 1771 of this title, Subchapter VII heading being redesignated Subchapter I.
 
 
 ---

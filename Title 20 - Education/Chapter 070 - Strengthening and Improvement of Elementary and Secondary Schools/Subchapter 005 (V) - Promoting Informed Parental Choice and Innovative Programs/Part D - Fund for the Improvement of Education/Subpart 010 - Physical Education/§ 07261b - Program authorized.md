@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary is authorized to award grants to local educational agencies and community-based organizations (such as Boys and Girls Clubs, Boy Scouts and Girl Scouts, and the Young Men's Christian Organization (YMCA) and Young Women's Christian Organization (YWCA)) to pay the Federal share of the costs of initiating, expanding, and improving physical education programs (including after-school programs) for kindergarten through 12th-grade students by—
+The Secretary is authorized to award grants to local educational agencies and community-based organizations (such as Boys and Girls Clubs, Boy Scouts and Girl Scouts, and the Young Men's Christian Organization (YMCA) and Young Women's Christian Organization (YWCA)) to pay the Federal share of the costs of initiating, expanding, and improving physicaleducation programs (including after-school programs) for kindergarten through 12th-grade students by—
 
 &emsp;(1) providing equipment and support to enable students to participate actively in physical education activities; and
 
@@ -16,7 +16,7 @@ A physical education program funded under this subpart may provide for one or mo
 
 &emsp;(2) Instruction in a variety of motor skills and physical activities designed to enhance the physical, mental, and social or emotional development of every student.
 
-&emsp;(3) Development of, and instruction in, cognitive concepts about motor skill and physicalfitness that support a lifelong healthy lifestyle.
+&emsp;(3) Development of, and instruction in, cognitive concepts about motor skill and physical fitness that support a lifelong healthy lifestyle.
 
 &emsp;(4) Opportunities to develop positive social and cooperative skills through physical activity participation.
 

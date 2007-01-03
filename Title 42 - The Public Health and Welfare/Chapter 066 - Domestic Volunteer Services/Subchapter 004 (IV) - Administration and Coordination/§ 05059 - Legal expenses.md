@@ -1,6 +1,6 @@
 ### §5059. Legal expenses
 
-Notwithstanding any other provision of law and pursuant to regulations which the Director shall prescribe, counsel may be employed and counsel fees, court costs, bail, and other expenses incidental to the defense of volunteers may be paid in judicial or administrative proceedings to which full-time volunteers (or part-time volunteers when such proceeding arises directly out of the performance of activities pursuant to this chapter) serving under this chapter have been made parties.
+Notwithstanding any other provision of law and pursuant to regulations which the Directorshall prescribe, counsel may be employed and counsel fees, court costs, bail, and other expenses incidental to the defense of volunteers may be paid in judicial or administrative proceedings to which full-time volunteers (or part-time volunteers when such proceeding arises directly out of the performance of activities pursuant to this chapter) serving under this chapter have been made parties.
 
 (Pub. L. 93–113, title IV, §419, Oct. 1, 1973, 87 Stat. 413; Pub. L. 98–288, §25, May 21, 1984, 98 Stat. 196; Pub. L. 99–551, §10(g), Oct. 27, 1986, 100 Stat. 3078.)
 

@@ -70,11 +70,11 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (16) Exchange access
 
-&emsp;The term “exchange access” means the offering of access to telephone exchange servicesor facilities for the purpose of the origination or termination of telephone toll services.
+&emsp;The term “exchange access” means the offering of access to telephone exchange services or facilities for the purpose of the origination or termination of telephone toll services.
 
 #### (17) Foreign communication
 
-&emsp;The term “foreign communication” or “foreign transmission” means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
+&emsp;The term “foreign communication” or “foreign transmission” means communication ortransmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
 
 #### (18) Great Lakes Agreement
 
@@ -130,11 +130,11 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (30) Number portability
 
-&emsp;The term “number portability” means the ability of users of telecommunications services to retain, at the same location, existing telecommunications numbers without impairment of quality, reliability, or conveniencewhen switching from one telecommunications carrier to another.
+&emsp;The term “number portability” means the ability of users of telecommunications services to retain, at the same location, existing telecommunications numbers without impairment of quality, reliability, or convenience when switching from one telecommunications carrier to another.
 
 #### (31) Operator
 
-&emsp;(A) The term “operator” on a ship of the United States means, for the purpose of parts II and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
+&emsp;(A) The term “operator” on a ship of the United States means, for the purpose of partsII and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
 
 &emsp;(B) “Operator” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding a certificate as such of the proper class complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force, or complying with an agreement or treaty between the United States and the country in which the ship is registered.
 
@@ -198,7 +198,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (41) State commission
 
-&emsp;The term “State commission” means the commission, board, or official (by whatever name designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
+&emsp;The term “State commission” means the commission, board, or official (by whatevername designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
 
 #### (42) Station license
 
@@ -262,7 +262,7 @@ Part II of subchapter III of this chapter, referred to in pars. (31), (34), and 
 
 In par. (34)(A), “chapter 71 of title 46” substituted for “the Act of May 12, 1948 (46 U.S.C. 229a–h)” on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
-References to Philippine Islands in pars. (22) and (51) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognized the independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
+References to Philippine Islands in pars. (22) and (51) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognizedthe independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
 
 #### Amendments
 
@@ -342,7 +342,7 @@ Section 3(b) of Pub. L. 104–104 provided that: “Except as otherwise provided
 
 #### Great Lakes Agreement
 
-The Great Lakes Agreement, referred to in this section, relates to the bilateral Agreement for the Promotion of Safety on the Great Lakes by Means of Radio, signed at Ottawa, Canada, Feb. 21, 1952; entered into force Nov. 13, 1954, 3 UST 4926. A subsequent agreement for Promotion of Safety on the Great Lakes byMeans of Radio, 1973, was signed at Ottawa, Canada, Feb. 26, 1973, and entered into force May 16, 1975, 25 UST 935.
+The Great Lakes Agreement, referred to in this section, relates to the bilateral Agreement for the Promotion of Safety on the Great Lakes by Means of Radio, signed at Ottawa, Canada, Feb. 21, 1952; entered into force Nov. 13, 1954, 3 UST 4926. A subsequent agreement for Promotion of Safety on the Great Lakes by Means of Radio, 1973, was signed at Ottawa, Canada, Feb. 26, 1973, and entered into force May 16, 1975, 25 UST 935.
 
 #### Safety Convention
 

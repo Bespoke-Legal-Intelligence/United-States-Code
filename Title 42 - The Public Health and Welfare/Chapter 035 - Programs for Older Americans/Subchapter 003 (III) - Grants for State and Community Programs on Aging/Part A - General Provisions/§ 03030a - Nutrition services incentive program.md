@@ -6,45 +6,69 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (b) Allotment and provision and payment
 
-(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all subchapter X grantees under all such plans and applications approved for such preceding fiscal year.
+(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf ofeach State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all subchapter X grantees under all such plans and applications approved for such preceding fiscal year.
 
 (2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X of this chapter for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the subchapter X grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the subchapter X grantee in the fiscal year for which the application was approved.
 
+(3) State agencies that elect to make grants and enter into contracts for purposes of this section shall promptly and equitably disburse amounts received under this subsection to the recipients of the grants and contracts.
+
 #### (c) Donation of products
 
-(1) Agricultural commodities and products purchased by the Secretary of Agriculture under section 612c of title 7, shall be donated to a recipient of a grant or contract to be used for providing nutrition services in accordance with the provisions of this subchapter.
+(1) Agricultural commodities (including bonus commodities) and products purchased by the Secretary of Agriculture under section 612c of title 7, shall be donated to a recipient of a grant or contract to be used for providing nutrition services in accordance with the provisions of this subchapter.
 
-(2) The Commodity Credit Corporation shall dispose of food commodities under section 1431 of title 7 by donating them to a recipient of a grant or contract to be used for providing nutrition services in accordance with the provisions of this subchapter.
+(2) The Commodity Credit Corporation shall dispose of food commodities (including bonus commodities) under section 1431 of title 7 by donating them to a recipient of a grant or contract to be used for providing nutrition services in accordance with the provisions of this subchapter.
 
-(3) Dairy products purchased by the Secretary of Agriculture under section 1446a–1 of title 7 shall be used to meet the requirements of programs providing nutrition services in accordance with the provisions of this subchapter.
+(3) Dairy products (including bonus commodities) purchased by the Secretary of Agriculture under section 1446a–1 of title 7 shall be used to meet the requirements of programs providing nutrition services in accordance with the provisions of this subchapter.
 
-#### (d) Option to obtain commodities from Secretary of Agriculture
+(4) Among the commodities provided under this subsection, the Secretary of Agriculture shall give special emphasis to foods of high nutritional value to support the health of older individuals. The Secretary of Agriculture, in consultation with the Assistant Secretary, is authorized to prescribe the terms and conditions respecting the provision of commodities under this subsection.
 
-(1) Each State agency and each grantee under subchapter X of this chapter shall be entitled to use all or any part of amounts allotted under subsection (b) of this section to obtain from the Secretary of Agriculture commodities available through any Federal food commodity processing program, at the rates at which such commodities are valued for purposes of such program.
+#### (d) Purchase of commodities; payments to school food authority
 
-(2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (ifany) of its allotment under subsection (b) of this section which each State agency and subchapter X grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or subchapter X grantee under this subsection bears to the total value of commodities so received.
+(1) Amounts provided under subsection (b) shall be available only for the purchase, by State agencies, recipients of grants and contracts from the State agencies (as applicable), and title VI \[subchapter X\] grantees, of United States agricultural commodities and other foods for their respective nutrition projects, subject to paragraph (2).
 
-(3) From the allotment under subsection (b) of this section for each State agency and subchapter X grantee, the Secretary shall first reimburse the Secretary of Agriculture for costs of commodities received by such State agency or grantee under this subsection, and shall then pay the balance (if any) to such State agency or grantee.
+(2) An entity specified in paragraph (1) may, at the option of such entity, use part or all of the amounts received by the entity under subsection (b) to pay a school food authority (within the meaning of the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.)) to obtain United States agricultural commodities for such entity's nutrition projects, in accordance with an agreement between the entity and the school food authority, under which such payments—
 
-(4) Each State agency shall promptly and equitably disburse amounts received under this subsection to recipients of grants and contracts. Such disbursements shall only be used by such recipients of grants or contracts to purchase United States agricultural commodities and other foods for their nutrition projects.
+&emsp;(A) shall cover the cost of such commodities; and
 
-(5) Among the commodities delivered under subsection (c) of this section, the Secretary of Agriculture shall give special emphasis to high protein foods. The Secretary of Agriculture, in consultation with the Assistant Secretary, is authorized to prescribe the terms and conditions respecting the provision of commodities under this subsection.
+&emsp;(B) may cover related expenses incurred by the school food authority, including the cost of transporting, distributing, processing, storing, and handling such commodities.
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) such sums as may be necessary for fiscal year 2001 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 #### (f) Dissemination of information
 
-In each fiscal year, the Secretary of Agriculture and the Secretary of Health and Human Services shall jointly disseminate to State agencies, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning—
+In each fiscal year, the Assistant Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning—
 
-&emsp;(1) the existence of any Federal commodity processing program in which such State agencies, area agencies on aging, and providers may be eligible to participate; and
+&emsp;(1) school food authorities participating in programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] within the geographic area served by each such State agency, area agency on aging, and provider; and
 
-&emsp;(2) the procedures to be followed to participate in the program.
+&emsp;(2) the foods available to such State agencies, area agencies on aging, and providers under subsection (c).
 
-(Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246; Pub. L. 108–7, div. G, title II, §217(a), Feb. 20, 2003, 117 Stat. 325.)
+(Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246; Pub. L. 108–7, div. G, title II, §217(a), Feb. 20, 2003, 117 Stat. 325; Pub. L. 109–365, title III, §309, Oct. 17, 2006, 120 Stat. 2545.)
+
+#### References in Text
+
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(2) and (f)(1), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–365, §309(1), added par. (3).
+
+Subsec. (c)(1), (2). Pub. L. 109–365, §309(2)(A), (B), inserted “(including bonus commodities)” after “commodities”.
+
+Subsec. (c)(3). Pub. L. 109–365, §309(2)(C), inserted “(including bonus commodities)” after “products”.
+
+Subsec. (c)(4). Pub. L. 109–365, §309(2)(D), added par. (4).
+
+Subsec. (d). Pub. L. 109–365, §309(3), amended subsec. (d) generally, substituting provisions relating to purchase of agricultural commodities and payments to a school food authority to obtain commodities for provisions relating to entitlement to obtain commodities, report on amounts elected to be received, reimbursement for costs, disbursement of amounts, and emphasis on high protein foods.
+
+Subsec. (e). Pub. L. 109–365, §309(4), substituted “2007” for “2001”.
+
+Subsec. (f). Pub. L. 109–365, §309(5), substituted “the Assistant Secretary and the Secretary of Agriculture” for “the Secretary of Agriculture and the Secretary of Health and Human Services” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) the existence of any Federal commodity processing program in which such State agencies, area agencies on aging, and providers may be eligible to participate; and
+
+“(2) the procedures to be followed to participate in the program.”
 
 2003—Subsec. (b). Pub. L. 108–7, §217(a)(1)(A), substituted “and payment” for “of cash or commodities” in heading that had been supplied editorially.
 
@@ -86,7 +110,7 @@ Subsec. (f). Pub. L. 106–501, §309(2), redesignated subsec. (d) as (f).
 
 1993—Subsec. (a)(4)(B). Pub. L. 103–171 substituted “Assistant Secretary for Aging” for “Commissioner”.
 
-1992—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and,in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
+1992—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and, in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
 
 Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted “$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989, $183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991”.
 

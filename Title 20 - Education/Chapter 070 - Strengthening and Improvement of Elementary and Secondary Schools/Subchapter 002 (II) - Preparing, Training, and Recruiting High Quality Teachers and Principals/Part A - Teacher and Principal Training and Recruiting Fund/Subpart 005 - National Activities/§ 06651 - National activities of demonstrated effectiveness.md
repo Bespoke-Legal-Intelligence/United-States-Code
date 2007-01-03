@@ -308,7 +308,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### References in Text
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(2)(A)(ii), is subchapter C\(§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(2)(A)(ii), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -64,7 +64,7 @@ Preparation and submission.—Not later than the date on which the budget for th
 
 Special considerations.—In preparing the infrastructure plan, the Secretary shall take into consideration the following:
 
-&emsp;&emsp;“(A) The Department of Defense Nuclear Posture Review required pursuant to section 1041 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–262 \[10 U.S.C. 118 note\]).
+&emsp;&emsp;“(A) The Department of Defense Nuclear Posture Review required pursuant to section 1041 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–262 \[former 10 U.S.C. 118 note\]).
 
 &emsp;&emsp;“(B) Any efficiencies and security benefits of consolidation of facilities of the nuclear weapons complex.
 
@@ -80,7 +80,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The terms ‘Secretary’ and ‘Secretary of Energy’ mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security.
 
-&emsp;“(2) The term ‘nuclear weapons complex’ means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406)).”
+&emsp;“(2) The term ‘nuclear weapons complex’ means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order\(as such term is defined in section 3216 of such Act (50 U.S.C. 2406)).”
 
 #### Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities
 

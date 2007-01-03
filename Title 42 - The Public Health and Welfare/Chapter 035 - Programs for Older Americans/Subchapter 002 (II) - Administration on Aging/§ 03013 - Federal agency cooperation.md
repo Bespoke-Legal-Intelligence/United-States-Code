@@ -1,16 +1,20 @@
 ### §3013. Federal agency cooperation
 
-(a)(1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX of this chapter and with the Corporation for National and Community Service in carrying out this chapter.
+#### (a) In general
 
-(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carryingout such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+(1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX of this chapter and with the Corporation for National and Community Service in carrying out this chapter.
+
+(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 (3) The head of each department, agency, or instrumentality of the Federal Government administering programs and services substantially related to the objectives of this chapter shall collaborate with the Assistant Secretary in carrying out this chapter, and shall develop a written analysis, for review and comment by the Assistant Secretary, of the impact of such programs and services on—
 
-&emsp;(A) older individuals (with particular attention to low-income minority older individuals and older individuals residing in rural areas) and eligible individuals (as defined in section 3056e <sup>1</sup> of this title); and
+&emsp;(A) older individuals (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) and eligible individuals (as defined in section 3056p of this title); and
 
 &emsp;(B) the functions and responsibilities of State agencies and area agencies on aging.
 
-(b) For the purposes of subsection (a) of this section, programs related to the objectives of this chapter shall include—
+#### (b) Federal programs related to chapter objectives
+
+For the purposes of subsection (a) of this section, programs related to the objectives of this chapter shall include—
 
 &emsp;(1) title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
 
@@ -44,17 +48,77 @@
 
 &emsp;(16) the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\],
 
-&emsp;(17) the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and
+&emsp;(17) the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\],
 
-&emsp;(18) the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750–3766b)).
+&emsp;(18) the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750–3766b)), and
 
-(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230.)
+&emsp;(19) sections 3003 and 3004 of title 29.
+
+#### (c) Interagency Coordinating Committee on Aging
+
+(1) The Secretary, in collaboration with the Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Aging (referred to in this subsection as the “Committee”) focusing on the coordination of agencies with respect to aging issues.
+
+(2) The officials referred to in paragraph (1) shall include the Secretary of Labor and the Secretary of Housing and Urban Development, and may include, at the direction of the President, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Homeland Security, the Commissioner of Social Security, and such other Federal officials as the President may direct. An official described in this paragraph may appoint a designee to carry out the official's duties under paragraph (1).
+
+(3) The Secretary of Health and Human Services shall serve as the first chairperson of the Committee, for 1 term, and the Secretary of Housing and Urban Development shall serve as the chairperson for the following term. After that following term, the Committee shall select a chairperson from among the members of the Committee, and any member may serve as the chairperson. No member may serve as the chairperson for more than 1 consecutive term.
+
+(4) For purposes of this subsection, a term shall be a period of 2 calendar years.
+
+(5) The Committee shall meet not less often than once each year.
+
+(6) The Committee shall—
+
+&emsp;(A) share information with and establish an ongoing system to improve coordination among Federal agencies with responsibility for programs and services for older individuals and recommend improvements to such system with an emphasis on—
+
+&emsp;&emsp;(i) improving access to programs and services for older individuals;
+
+&emsp;&emsp;(ii) maximizing the impact of federally funded programs and services for older individuals by increasing the efficiency, effectiveness, and delivery of such programs and services;
+
+&emsp;&emsp;(iii) planning and preparing for the impact of demographic changes on programs and services for older individuals; and
+
+&emsp;&emsp;(iv) reducing or eliminating areas of overlap and duplication by Federal agencies in the provision and accessibility of such programs and services;
+
+&emsp;(B) identify, promote, and implement (as appropriate), best practices and evidence-based program and service models to assist older individuals in meeting their housing, health care, and other supportive service needs, including—
+
+&emsp;&emsp;(i) consumer-directed care models for home and community-based care and supportive services that link housing, health care, and other supportive services and that facilitate aging in place, enabling older individuals to remain in their homes and communities as the individuals age; and
+
+&emsp;&emsp;(ii) innovations in technology applications (including assistive technology devices and assistive technology services) that give older individuals access to information on available services or that help in providing services to older individuals;
+
+&emsp;(C) collect and disseminate information about older individuals and the programs and services available to the individuals to ensure that the individuals can access comprehensive information;
+
+&emsp;(D) work with the Federal Interagency Forum on Aging-Related Statistics, the Bureau of the Census, and member agencies to ensure the continued collection of data relating to the housing, health care, and other supportive service needs of older individuals and to support efforts to identify and address unmet data needs;
+
+&emsp;(E) actively seek input from and consult with nongovernmental experts and organizations, including public health interest and research groups and foundations about the activities described in subparagraphs (A) through (F);
+
+&emsp;(F) identify any barriers and impediments, including barriers and impediments in statutory and regulatory law, to the access and useby older individuals of federally funded programs and services; and
+
+&emsp;(G) work with States to better provide housing, health care, and other supportive services to older individuals by—
+
+&emsp;&emsp;(i) holding meetings with State agencies;
+
+&emsp;&emsp;(ii) providing ongoing technical assistance to States about better meeting the needs of older individuals; and
+
+&emsp;&emsp;(iii) working with States to designate liaisons, from the State agencies, to the Committee.
+
+(7) Not later than 90 days following the end of each term, the Committee shall prepare and submit to the Committee on Financial Services of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Special Committee on Aging of the Senate, a report that—
+
+&emsp;(A) describes the activities and accomplishments of the Committee in—
+
+&emsp;&emsp;(i) enhancing the overall coordination of federally funded programs and services for older individuals; and
+
+&emsp;&emsp;(ii) meeting the requirements of paragraph (6);
+
+&emsp;(B) incorporates an analysis from the head of each agency that is a member of the interagency coordinating committee established under paragraph (1) that describes the barriers and impediments, including barriers and impediments in statutory and regulatory law (as the chairperson of the Committee determines to be appropriate), to the access and use by older individuals of programs and services administered by such agency; and
+
+&emsp;(C) makes such recommendations as the chairman determines to be appropriate for actions to meet the needs described in paragraph (6) and for coordinating programs and services designed to meet those needs.
+
+(8) On the request of the Committee, any Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230; Pub. L. 109–365, title II, §203, Oct. 17, 2006, 120 Stat. 2532.)
 
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (b)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
-
-Section 3056e of this title, referred to in subsec. (a)(3)(A), was amended generally by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2280, and, as so amended, no longer relates to definitions. See section 3056n of this title.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title II of the Domestic Volunteer Service Act of 1973 is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -72,7 +136,7 @@ The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 19
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (b)(11), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see note set out under section 8621 of this title and Tables.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (b)(12), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (b)(12), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (b)(13), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
@@ -87,6 +151,12 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 In subsec. (b)(9), “sections 5309 and 5310 of title 49” substituted for “sections 3, 9, and 16 of the Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 9 of the Federal Transit Act, classified to section 1607a of former Title 49, Transportation, was repealed by Pub. L. 95–599, title III, §305(a), Nov. 6, 1978, 92 Stat. 2473, and a new section 9 of the Act, classified to section 1607a of former Title 49, was enacted by Pub. L. 97–424, title III, §303, formerly §303(a), Jan. 6, 1983, 96 Stat. 2141. The new section 9 of the Act was repealed and reenacted as sections 5307 and 5336 of Title 49, Transportation, by Pub. L. 103–272, §§1(b), 7(b), July 5, 1994, 108 Stat. 795, 840, 1379.
 
 #### Amendments
+
+2006—Subsec. (a)(3)(A). Pub. L. 109–365, §203(1), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority older individuals and older individuals residing in rural areas)” and “section 3056p” for “section 3056e”.
+
+Subsec. (b)(19). Pub. L. 109–365, §203(2), added par. (19).
+
+Subsec. (c). Pub. L. 109–365, §203(3), added subsec. (c).
 
 2000—Subsec. (a)(3)(A). Pub. L. 106–501 inserted “and older individuals residing in rural areas” after “low-income minority older individuals”.
 
@@ -159,6 +229,4 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs, including activities authorized under section 3003 or 3004 of title 29, pursue interagency initiatives to improve and enhance community services, individualized supports, and other forms of assistance for individuals with developmental disabilities;
 
-&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related tothe areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
+&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related to the areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
 
 &emsp;&emsp;&emsp;(i) the degree of support for individuals with developmental disabilities that are attributable to either physical impairment, mental impairment, or a combination of physical and mental impairments;
 
@@ -146,7 +146,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (L) Noninterference
 
-&emsp;&emsp;The plan shall provide assurances that the designated State agency, and any other agency, office, or entity of the State, will not interfere with the advocacy, capacity building, and systemic change activities, budget, personnel, State plan development, or plan implementation of the Council, except that the designated State agency shall have the authority necessary to carry out the responsibilities described in section 15025(d)(3) of this title.
+&emsp;&emsp;The plan shall provide assurances that the designated State agency, and any other agency, office, or entity of the State, will not interfere with the advocacy, capacity building, and systemic change activities,budget, personnel, State plan development, or plan implementation of the Council, except that the designated State agency shall have the authority necessary to carry out the responsibilities described in section 15025(d)(3) of this title.
 
 #### (M) State quality assurance
 

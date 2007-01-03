@@ -8,7 +8,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (1) In general
 
-&emsp;If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treatedas a determination made under section 2414(a)(1) of this title.
+&emsp;If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title.
 
 #### (2) WTO dispute settlement recommendations
 

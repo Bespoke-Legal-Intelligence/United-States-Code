@@ -10,7 +10,7 @@ Replacement of existing buildings.—When the Administrator of General Services 
 
 &emsp;(2)
 
-Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administratormay exchange the site for another site, or may sell it in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
 &emsp;(3)
 
@@ -38,7 +38,7 @@ Threshold amount.—Approval under section 3307 of this title is not required fo
 
 &emsp;&emsp;(B)
 
-Dollar amount adjustment.—The Administrator annually may adjust the dollar amount referred to in subparagraph (A) to reflect a percentage increase or decrease in construction costs during the prior calendaryear, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Dollar amount adjustment.—The Administrator annually may adjust the dollar amount referred to in subparagraph (A) to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (c)
 

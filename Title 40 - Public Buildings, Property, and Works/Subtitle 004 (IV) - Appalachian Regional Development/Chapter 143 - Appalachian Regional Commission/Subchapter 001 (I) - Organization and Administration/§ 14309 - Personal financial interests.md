@@ -50,7 +50,7 @@ Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Em
 
 (d)
 
-Rescission.—The Commission may declare void and rescind any contract, loan, or grant ofor by the Commission in relation to which it finds that there has been a violation of subsection (a)(1) or (b) of this section or any of the provisions of sections 202–209 of title 18.
+Rescission.—The Commission may declare void and rescind any contract, loan, or grant of or by the Commission in relation to which it finds that there has been a violation of subsection (a)(1) or (b) of this section or any of the provisions of sections 202–209 of title 18.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1261.)
 

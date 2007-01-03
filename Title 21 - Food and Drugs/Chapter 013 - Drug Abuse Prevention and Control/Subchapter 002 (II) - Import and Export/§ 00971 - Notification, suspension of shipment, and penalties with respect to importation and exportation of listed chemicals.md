@@ -6,21 +6,49 @@ Each regulated person who imports or exports a listed chemical shall notify the 
 
 #### (b) Regular customers or importers
 
-(1) The Attorney General shall provide by regulation for circumstances in which the requirement of subsection (a) of this section does not apply to a transaction between a regulated person and a regular customer or to an importation by a regular importer. At the time of any importation or exportation constituting a transaction referred to in the preceding sentence, the regulated person shall notify the Attorney General of the transaction.
+(1) The Attorney General shall provide by regulation for circumstances in which the requirement of subsection (a) of this section does not apply to a transaction between a regulated person and a regular customer or to a transaction that is an importation by a regular importer. At the time of any importation or exportation constituting a transaction referred to in the preceding sentence, the regulated person shall notify the Attorney General of the transaction.
 
 (2) The regulations under this subsection shall provide that the initial notification under subsection (a) of this section with respect to a customer of a regulated person or to an importer shall, upon the expiration of the 15-day period, qualify the customer as a regular customer or the importer as a regular importer, unless the Attorney General otherwise notifies the regulated person in writing.
 
 #### (c) Suspension of importation or exportation; disqualification of regular customers or importers; hearing
 
-(1) The Attorney General may order the suspension of any importation or exportation of a listed chemical (other than a regulated transaction to which the requirement of subsection (a) of this section does not apply by reason of subsection (b) of this section) or may disqualify any regular customer or regular importer on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance. From and after the time when the Attorney General provides written notice of the order (including a statement of the legal and factual basis for the order) to the regulated person, the regulated person may not carry out the transaction.
+(1) The Attorney General may order the suspension of any importation or exportation of a listed chemical (other than a regulated transaction to which the requirement of subsection (a) of this section does not apply by reason of subsection (b) of this section) or may disqualify any regular customer or regular importer on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance (without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred). From and after the time when the Attorney General provides written notice of the order (including a statement of the legal and factual basis for the order) to the regulated person, the regulated person may not carry out the transaction.
 
 (2) Upon written request to the Attorney General, a regulated person to whom an order applies under paragraph (1) is entitled to an agency hearing on the record in accordance with subchapter II of chapter 5 of title 5. The hearing shall be held on an expedited basis and not later than 45 days after the request is made, except that the hearing may be held at a later time, if so requested by the regulated person.
 
-#### (d) Broker or trader for international transaction in listed chemical
+#### (d) Information required in notice; updated notice for change in circumstances
+
+(1)(A) Information provided in a notice under subsection (a) or (b) shall include the name of the person to whom the importer or exporter involved intends to transfer the listed chemical involved, and the quantity of such chemical to be transferred.
+
+(B) In the case of a notice under subsection (b) submitted by a regular importer, if the transferee identified in the notice is not a regular customer, such importer may not transfer the listed chemical until after the expiration of the 15-day period beginning on the date on which the notice is submitted to the Attorney General.
+
+(C) After a notice under subsection (a) or (b) is submitted to the Attorney General, if circumstances change and the importer or exporter will not be transferring the listed chemical to the transferee identified in the notice, or will be transferring a greater quantity of the chemical than specified in the notice, the importer or exporter shall update the notice to identify the most recent prospective transferee or the most recent quantity or both (as the case may be) and may not transfer the listed chemical until after the expiration of the 15-day period beginning on the date on which the update is submitted to the Attorney General, except that such 15-day restriction does not apply if the prospective transferee identified in the update is a regular customer. The preceding sentence applies with respect to changing circumstances regarding a transferee or quantity identified in an update to the same extent and in the same manner as such sentence applies with respect to changing circumstances regarding a transferee or quantity identified in the original notice under subsection (a) or (b).
+
+(D) In the case of a transfer of a listed chemical that is subject to a 15-day restriction under subparagraph (B) or (C), the transferee involved shall, upon the expiration of the 15-day period, be considered to qualify as a regular customer, unless the Attorney General otherwise notifies the importer or exporter involved in writing.
+
+(2) With respect to a transfer of a listed chemical with which a notice or update referred to in paragraph (1) is concerned:
+
+&emsp;(A) The Attorney General, in accordance with the same procedures as apply under subsection (c)(2)—
+
+&emsp;&emsp;(i) may order the suspension of the transfer of the listed chemical by the importer or exporter involved, except for a transfer to a regular customer, on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance (without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufacturedfrom bulk chemicals to be transferred), subject to the Attorney General ordering such suspension before the expiration of the 15-day period referred to in paragraph (1) with respect to the importation or exportation (in any case in which such a period applies); and
+
+&emsp;&emsp;(ii) may, for purposes of clause (i) and paragraph (1), disqualify a regular customer on such ground.
+
+&emsp;(B) From and after the time when the Attorney General provides written notice of the order under subparagraph (A) (including a statement of the legal and factual basis for the order) to the importer or exporter, the importer or exporter may not carry out the transfer.
+
+(3) For purposes of this subsection:
+
+&emsp;(A) The terms “importer” and “exporter” mean a regulated person who imports or exports a listed chemical, respectively.
+
+&emsp;(B) The term “transfer”, with respect to a listed chemical, includes the sale of the chemical.
+
+&emsp;(C) The term “transferee” means a person to whom an importer or exporter transfers a listed chemical.
+
+#### (e) Broker or trader for international transaction in listed chemical
 
 A person located in the United States who is a broker or trader for an international transaction in a listed chemical that is a regulated transaction solely because of that person's involvement as a broker or trader shall, with respect to that transaction, be subject to all of the notification, reporting, recordkeeping, and other requirements placed upon exporters of listed chemicals by this subchapter and subchapter I of this chapter.
 
-#### (e) Application of notification requirement to exports of listed chemical; waiver
+#### (f) Application of notification requirement to exports of listed chemical; waiver
 
 (1) The Attorney General may by regulation require that the 15-day notification requirement of subsection (a) of this section apply to all exports of a listed chemical to a specified country, regardless of the status of certain customers in such country as regular customers, if the Attorney General finds that such notification is necessary to support effective chemical diversion control programs or is required by treaty or other international agreement to which the United States is a party.
 
@@ -28,9 +56,31 @@ A person located in the United States who is a broker or trader for an internati
 
 (3) The Attorney General may by regulation waive the 15-day notification requirement for the importation of a listed chemical if the Attorney General determines that such notification is not necessary for effective chemical diversion control. If the notification requirement is waived, importers of the listed chemical shall be required to submit to the Attorney General reports of individual importations or periodic reports of the importation of the listed chemical, at such time or times and containing such information as the Attorney General shall establish by regulation.
 
-(Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150.)
+#### (g) Return declaration
+
+Within 30 days after a transaction covered by this section is completed, the importer or exporter shall send the Attorney General a return declaration containing particulars of the transaction, including the date, quantity, chemical, container, name of transferees, and such other information as the Attorney General may specify in regulations. For importers, a single return declaration may include the particulars of both the importation and distribution. If the importer has not distributed all chemicals imported by the end of the initial 30-day period, the importer shall file supplemental return declarations no later than 30 days from the date of any further distribution, until the distribution or other disposition of all chemicals imported pursuant to the import notification or any update are accounted for.
+
+#### (h) Importation and distribution of ephedrine, pseudoephedrine, or phenylpropanolamine
+
+(1) With respect to a regulated person importing ephedrine, pseudoephedrine, or phenylpropanolamine (referred to in this section as an “importer”), a notice of importation under subsection (a) or (b) shall include all information known to the importer on the chain of distribution of such chemical from the manufacturer to the importer.
+
+(2) For the purpose of preventing or responding to the diversion of ephedrine, pseudoephedrine, or phenylpropanolamine for use in the illicit production of methamphetamine, the Attorney General may, in the case of any person who is a manufacturer or distributor of such chemical in the chain of distribution referred to in paragraph (1) (which person is referred to in this subsection as a “foreign-chain distributor”), request that such distributor provide to the Attorney General information known to the distributor on the distribution of the chemical, including sales.
+
+(3) If the Attorney General determines that a foreign-chain distributor is refusing to cooperate with the Attorney General in obtaining the information referred to in paragraph (2), the Attorney General may, in accordance with procedures that apply under subsection (c), issue an order prohibiting the importation of ephedrine, pseudoephedrine, or phenylpropanolamine in any case in which such distributor is part of the chain of distribution for such chemical. Not later than 60 days prior to issuing the order, the Attorney General shall publish in the Federal Register a notice of intent to issue the order. During such 60-day period, imports of the chemical with respect to such distributor may not be restricted under this paragraph.
+
+(Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b),Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–177, title VII, §§716(a), (b)(1)(B), 721, Mar. 9, 2006, 120 Stat. 265, 267.)
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–177, §716(a)(1), substituted “or to a transaction that is an importation by a regular importer” for “or to an importation by a regular importer”.
+
+Subsec. (c)(1). Pub. L. 109–177, §716(b)(1)(B), inserted “(without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred)” after “manufacture of a controlled substance”.
+
+Subsecs. (d) to (f). Pub. L. 109–177, §716(a)(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+Subsec. (g). Pub. L. 109–177, §716(a)(4), added subsec. (g).
+
+Subsec. (h). Pub. L. 109–177, §721, added subsec. (h).
 
 1994—Subsecs. (b)(1), (2), (c)(1). Pub. L. 103–322, §330024(c)(2), made technical amendment to directory language of Pub. L. 103–200, §9(b). See 1993 Amendment notes below.
 

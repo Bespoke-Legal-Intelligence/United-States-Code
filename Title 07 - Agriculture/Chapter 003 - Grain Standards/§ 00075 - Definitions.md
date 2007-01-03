@@ -78,7 +78,7 @@ Subsec. (z). Pub. L. 103–156, §12(a)(2), substituted “delegates of the Admi
 
 Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
-Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for theconduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
+Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
 
 Subsec. (x). Pub. L. 95–113, §1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
 
@@ -92,7 +92,7 @@ Subsec. (k). Pub. L. 94–582, §3(c), substituted “Administrator” for “Se
 
 Subsec. (<i>l</i>). Pub. L. 94–582, §3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
 
-Subsec. (m). Pub. L. 94–582, §3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
+Subsec. (m). Pub. L. 94–582, §3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing”for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
 
 Subsec. (n). Pub. L. 94–582, §3(f), substituted “Administrator” for “Secretary”.
 

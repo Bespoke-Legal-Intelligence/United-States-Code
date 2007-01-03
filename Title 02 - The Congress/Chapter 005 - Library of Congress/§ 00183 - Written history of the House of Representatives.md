@@ -26,7 +26,7 @@ In carrying out subsection (a) of this section, the Librarian of Congress shall 
 
 &emsp;&emsp;(A) by the Public Printer pursuant to the provisions of chapter 5 of title 44;
 
-&emsp;&emsp;(B) under a cooperative arrangement among the Librarian of Congress, a privatefunding source obtained pursuant to subsection (e) of this section, and a publisher in the private sector; or
+&emsp;&emsp;(B) under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e) of this section, and a publisher in the private sector; or
 
 &emsp;&emsp;(C) under subparagraphs (A) and (B).
 
@@ -50,7 +50,7 @@ The Librarian of Congress shall solicit and accept funding for the preparation, 
 
 #### References in Text
 
-This section and section 183a of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 106–99, which enacted this section and section 183a of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
+This section and section 183a of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 106–99, which enacted this section and section183a of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
 
 #### Amendments
 

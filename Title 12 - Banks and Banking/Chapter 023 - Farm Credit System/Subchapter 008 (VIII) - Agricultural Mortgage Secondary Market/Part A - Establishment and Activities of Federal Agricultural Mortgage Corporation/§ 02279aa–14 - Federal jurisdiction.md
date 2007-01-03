@@ -14,7 +14,7 @@ Notwithstanding section 1349 of title 28 or any other provision of law:
 
 > &emsp;by following any procedure for removal for causes in effect at the time of such removal.
 
-&emsp;(4) No attachment or execution shall be issued against the Corporation or any of theproperty of the Corporation before final judgment in any Federal, State, or other court.
+&emsp;(4) No attachment or execution shall be issued against the Corporation or any of the property of the Corporation before final judgment in any Federal, State, or other court.
 
 (Pub. L. 92–181, title VIII, §8.14, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1705.)
 

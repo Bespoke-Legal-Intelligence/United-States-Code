@@ -24,7 +24,7 @@
 
 &emsp;(2) the maximum number of assemblies or periods of other equivalent training, instruction, duty, or appropriate duties, that may be counted for pay purposes in each fiscal year or in lesser periods of time; and
 
-&emsp;(3) the minimum number of assemblies or periods of other equivalent training, instruction, duty, or appropriate duties that must be completed in stated periods of time before the members of units or organizations can qualify for pay.
+&emsp;(3) the minimum number of assemblies or periods of other equivalent training, instruction,duty, or appropriate duties that must be completed in stated periods of time before the members of units or organizations can qualify for pay.
 
 (c) A person enlisted in the inactive National Guard is not entitled to pay under this section.
 
@@ -32,9 +32,15 @@
 
 (2) A member of the Selected Reserve of the Ready Reserve may be paid compensation under this section at a rate and under terms determined by the Secretary of Defense, but not to exceed the rate otherwise applicable to the member under subsection (a), upon the member's successful completion of a course of instruction undertaken by the member using electronic-based distributed learning methodologies to accomplish training requirements related to unit readiness or mobilization, as directed for the member by the Secretary concerned. The compensation may be paid regardless of whether the course of instruction was under the direct control of the Secretary concerned or included the presence of an instructor.
 
+(3) The prohibition in paragraph (1), including the prohibition as it relates to a member of the National Guard while not in Federal service, applies to—
+
+&emsp;(A) any work or study performed on or after September 7, 1962, unless that work or study is specifically covered by the exception in paragraph (2); and
+
+&emsp;(B) any claim based on that work or study arising after that date.
+
 (e) A member of the National Guard or of a reserve component of the uniformed services may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member's regular period of instruction or regular period of appropriate duty during that fiscal year.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(g), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §513(e), title VI, §603(a), Dec. 28, 2001, 115 Stat. 1093, 1133; Pub. L. 109–163, div. A, title VI, §604, Jan. 6, 2006, 119 Stat. 3287.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(g), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §513(e), title VI, §603(a), Dec. 28, 2001, 115 Stat. 1093, 1133; Pub. L. 109–163, div. A, title VI, §604, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 109–364, div. A, title VI, §607, Oct. 17, 2006, 120 Stat. 2247.)
 
 Historical and Revision Notes
 
@@ -91,6 +97,8 @@ Pub. L. 95–457, title VIII, §826, Oct. 13, 1978, 92 Stat. 1248.
 #### Amendments
 
 2006—Subsec. (d)(1). Pub. L. 109–163 inserted “or by a member of the National Guard while not in Federal service” after “reserve component”.
+
+Subsec. (d)(3). Pub. L. 109–364 added par. (3).
 
 2001—Subsec. (a)(3)(C). Pub. L. 107–107, §513(e), struck out “, if the site is outside reasonable commuting distance from the member's residence” before period at end.
 

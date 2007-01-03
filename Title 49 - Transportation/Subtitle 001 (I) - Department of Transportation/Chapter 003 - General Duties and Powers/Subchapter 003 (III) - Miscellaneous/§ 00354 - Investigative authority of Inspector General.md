@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The statutory authority of the Inspector General of the Department ofTransportation includes authority to conduct, pursuant to Federal criminal statutes, investigations of allegations that a person or entity has engaged in fraudulent or other criminal activity relating to the programs and operations of the Department or its operating administrations.
+In General.—The statutory authority of the Inspector General of the Department of Transportation includes authority to conduct, pursuant to Federal criminal statutes, investigations of allegations that a person or entity has engaged in fraudulent or other criminal activity relating to the programs and operations of the Department or its operating administrations.
 
 (b)
 
@@ -16,5 +16,5 @@ The text of section 228 of Pub. L. 106–159, formerly set out as a note under s
 
 #### Amendments
 
-2003—Pub. L. 108–168 renumbered section 228 of Pub. L. 106–159 as this section and substituted “Investigative authority of Inspector General” for “DOT Authority” in section catchline. See Codification note above.
+2003—Pub. L. 108–168 renumbered section 228 of Pub. L. 106–159 as this section and substituted “Investigativeauthority of Inspector General” for “DOT Authority” in section catchline. See Codification note above.
 

@@ -24,7 +24,7 @@
 
 Joint financing arrangement.—If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.
 
-(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, tocover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
+(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
 
 (5)(A) Except as provided in subparagraph (B), the interest rate on any loan made under this subchapter as a guaranteed loan shall be such rate as may be agreed upon by the borrower and the lender, but not in excess of a rate as may be determined by the Secretary.
 
@@ -48,7 +48,7 @@ The borrower shall pay such fees and other charges as the Secretary may require,
 
 #### (c) Mortgages, liens, and other security
 
-The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title, shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
+The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title, shall take liens on thefacility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
 
 #### (d) Mineral rights as collateral
 
@@ -76,7 +76,7 @@ Subsec. (a)(3)(D). Pub. L. 104–127, §604(2), added subpar. (D).
 
 Subsec. (a)(4). Pub. L. 104–127, §661(a)(1), substituted “1926(a)(1) and 1932 of this title” for “1924(b), 1926(a)(1), and 1932 of this title”.
 
-Subsec. (a)(6)(B). Pub. L. 104–127, §661(a)(2), inserted “and” at end of cl. (v), substituted a period for “, and”at end of cl. (vi), redesignated cls. (iii), (v), and (vi) as (i), (ii), and (iii), respectively, and struck out cls. (i), (ii), (iv), and (vii) which read as follows:
+Subsec. (a)(6)(B). Pub. L. 104–127, §661(a)(2), inserted “and” at end of cl. (v), substituted a period for “, and” at end of cl. (vi), redesignated cls. (iii), (v), and (vi) as (i), (ii), and (iii), respectively, and struck out cls. (i), (ii), (iv), and (vii) which read as follows:
 
 “(i) clauses (2) and (3) of section 1923(a) of this title,
 

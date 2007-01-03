@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1987—Subsec. (d). Pub. L. 100–180 struck out “do not” before “include”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1207(a)(1), (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to havesuch sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
+1976—Subsec. (a). Pub. L. 94–455, §1207(a)(1), (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to have such sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
 
 Subsec. (d). Pub. L. 94–455, §1207(b), added subsec. (d).
 
@@ -78,5 +78,5 @@ Section 1207(f)(2) of Pub. L. 94–455 provided that: “The amendments made by 
 
 #### Executive Order No. 10407
 
-Ex. Ord. No. 10407, Nov. 7, 1952, 17 F.R. 10132, which related to regulations governing agreements concerning withholding of state or territorial income taxes, was revoked by Ex. Ord. No. 11968, Jan. 31, 1977, 42 F.R. 6787, formerly set out as a note under section 5520 of this title.
+Ex. Ord. No. 10407, Nov. 7, 1952, 17 F.R. 10132, which related to regulations governing agreements concerning withholding of state or territorial income taxes, wasrevoked by Ex. Ord. No. 11968, Jan. 31, 1977, 42 F.R. 6787, formerly set out as a note under section 5520 of this title.
 

@@ -1,8 +1,24 @@
 ### §1785. Requirements governing insured credit unions
 
-#### (a) Advertisement of insured status; exemptions; regulation of signs
+#### (a) Insurance logo
 
-Every insured credit union shall display at each place of business maintained by it a sign or signs indicating that its member accounts are insured by the Board and shall include in all of its advertisements a statement to the effect that its member accounts are insured by the Board. The Board may exempt from this requirement advertisements which do not relate to member accounts or advertisements in which it is impractical to include such a statement. The Board shall prescribe by regulation the forms of such signs, the manner of display, the substance of any such statement, and the manner of use.
+#### (1) Insured credit unions
+
+#### (A) In general
+
+&emsp;&emsp;Each insured credit union shall display at each place of business maintained by that credit union a sign or signs relating to the insurance of the share accounts of the institution, in accordance with regulations to be prescribed by the Board.
+
+#### (B) Statement to be included
+
+&emsp;&emsp;Each sign required under subparagraph (A) shall include a statement that insured share accounts are backed by the full faith and credit of the United States Government.
+
+#### (2) Regulations
+
+&emsp;The Board shall prescribe regulations to carry out this subsection, including regulations governing the substance of signs required by paragraph (1) and the manner of display or use of such signs.
+
+#### (3) Penalties
+
+&emsp;For each day that an insured credit union continues to violate this subsection or any regulation issued under this subsection, it shall be subject to a penalty of not more than $100, which the Board may recover for its use.
 
 #### (b) Restrictions
 
@@ -152,7 +168,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (g) Interest rates
 
-(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
+(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes ofthis subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
 
 (2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
 
@@ -172,37 +188,31 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
-(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604.)
+#### (j) Privileges not affected by disclosure to banking agency or supervisor
 
-#### Amendment of Subsection (a)
+#### (1) In general
 
-<i>Pub. L. 109–173, §2(d)(3), (e), Feb. 15, 2006, 119 Stat. 3604, 3605, provided that, effective Apr. 1, 2006, subsection (a) of this section is amended to read as follows:</i>
+&emsp;The submission by any person of any information to the Administration, any State credit union supervisor, or foreign banking authority for any purpose in the course of any supervisory or regulatory process of such Board, supervisor, or authority shall not be construed as waiving, destroying, or otherwise affecting any privilege such person may claim with respect to such information under Federal or State law as to any person or entity other than such Board, supervisor, or authority.
 
-#### <i>“(a) Insurance logo</i>
+#### (2) Rule of construction
 
-#### <i>“(1) Insured credit unions</i>
+&emsp;No provision of paragraph (1) may be construed as implying or establishing that—
 
-#### <i>“(A) In general</i>
+&emsp;&emsp;(A) any person waives any privilege applicable to information that is submitted or transferred under any circumstance to which paragraph (1) does not apply; or
 
-&emsp;&emsp;<i>“Each insured credit union shall display at each place of business maintained by that credit union a sign or signs relating to the insurance of the share accounts of the institution, in accordance with regulations to be prescribed by the Board.</i>
+&emsp;&emsp;(B) any person would waive any privilege applicable to any information by submitting the information to the Administration, any State credit union supervisor, or foreign banking authority, but for this subsection.
 
-#### <i>“(B) Statement to be included</i>
-
-&emsp;&emsp;<i>“Each sign required under subparagraph (A) shall include a statement that insured share accounts are backed by the full faith and credit of the United States Government.</i>
-
-#### <i>“(2) Regulations</i>
-
-&emsp;<i>“The Board shall prescribe regulations to carry out this subsection, including regulations governing the substance of signs required by paragraph (1) and the manner of display or use of such signs.</i>
-
-#### <i>“(3) Penalties</i>
-
-&emsp;<i>“For each day that an insured credit union continues to violate this subsection or any regulation issued under this subsection, it shall be subject to a penalty of not more than $100, which the Board may recover for its use.”</i>
+(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, §607(b), Oct. 13, 2006, 120 Stat. 1982.)
 
 #### References in Text
 
 Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–173 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Every insured credit union shall display at each place of business maintained by it a sign or signs indicating that its member accounts are insured by the Board and shall include in all of its advertisements a statement to the effect that its member accounts are insured by the Board. The Board may exempt from this requirement advertisements which do not relate to member accounts or advertisements in which it is impractical to include such a statement. The Board shall prescribe by regulation the forms of such signs, the manner of display, the substance of any such statement, and the manner of use.”
+
+Subsec. (j). Pub. L. 109–351 added subsec. (j).
 
 1998—Subsec. (b)(1). Pub. L. 105–219, §202(1), substituted “Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board” for “Except with the prior written approval of the Board, no insured credit union shall”.
 
@@ -240,7 +250,7 @@ Subsec. (g). Pub. L. 96–221, §523, added subsec. (g).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–173, §2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This section \[amending this section and sections 1787, 1817, 1821, 1828, 1831t, and 3104 of this title\] and the amendments made by this section shall take effect on the date on which the final regulations required under section 2109(a)(2) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 20\] take effect \[Apr. 1, 2006, see 71 F.R. 14629\].”
+Pub. L. 109–173, §2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This section \[amending this section and sections 1787, 1817, 1821, 1828, 1831t, and 3104 of this title\] and the amendments made by this section shall take effect on the date on which the final regulations required under section 2109(a)(2) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, set out as a Regulations note under section 1817 of this title\] take effect \[Apr. 1, 2006, see 71 F.R. 14629\].”
 
 #### Effective Date of 1980 Amendment
 

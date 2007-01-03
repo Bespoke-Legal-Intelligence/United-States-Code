@@ -38,7 +38,7 @@ The limitations contained in subsection (a) of this section shall be subject to 
 
 &emsp;(9)(A) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the note covered, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a maximum limitation equal to 25 per centum of such capital and surplus.
 
-&emsp;(B) Loans and extensions of credit which arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which paper carries a full recourse endorsement or unconditional guarantee of the seller, and which are secured by the cattle being sold, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a limitation of 25 per centum of such capital and surplus.
+&emsp;(B) Loans and extensions of credit which arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which paper carries a full recourse endorsement or unconditional guarantee of theseller, and which are secured by the cattle being sold, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a limitation of 25 per centum of such capital and surplus.
 
 &emsp;(10) Loans or extensions of credit to the Student Loan Marketing Association shall not be subject to any limitation based on capital and surplus.
 

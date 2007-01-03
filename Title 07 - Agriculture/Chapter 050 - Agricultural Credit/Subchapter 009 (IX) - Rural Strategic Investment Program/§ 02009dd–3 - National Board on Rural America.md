@@ -138,7 +138,7 @@ The National Board shall—
 
 &emsp;(5) provide leadership and advice to Regional Boards on issues, best practices, and emerging trends relating to rural development;
 
-&emsp;(6) evaluate the progress of each Regional Board in achieving the benchmarks of the regional plan using annual reports submittedunder section 2009dd–2(b)(3)(D) of this title and any other information that is available to the Regional Board; and
+&emsp;(6) evaluate the progress of each Regional Board in achieving the benchmarks of the regional plan using annual reports submitted under section 2009dd–2(b)(3)(D) of this title and any other information that is available to the Regional Board; and
 
 &emsp;(7) submit an annual report on the performance of Regional Boards and the program to—
 

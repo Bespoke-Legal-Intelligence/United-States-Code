@@ -2,7 +2,7 @@
 
 #### (a) Annual report on special access programs
 
-(1) Not later than February 1 of each year, the Administrator shall submit to the congressional defense committees a report on special access programs of the Administration.
+(1) Not later than February 1 of each year, the Administrator shall submit to the congressionaldefense committees a report on special access programs of the Administration.
 
 (2) Each such report shall set forth—
 

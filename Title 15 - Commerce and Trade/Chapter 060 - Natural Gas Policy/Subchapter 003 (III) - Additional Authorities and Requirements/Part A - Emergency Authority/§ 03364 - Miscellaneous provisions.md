@@ -74,11 +74,11 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–102. The functions vested in the President by Section 607 of the Public Utility Regulatory Policies Act of 1978 (92 Stat. 3171; 15 U.S.C. 717z) are delegated to the Secretary of Energy; except for the authority to declare, extend, and terminate a natural gas supply emergency pursuant to Section 607(a) and (b) thereof (15 U.S.C. 717z(a) and (b)).
 
-1–103. The Secretary shall consult with the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, and the heads of other executive agencies in exercising the functions delegated to him by this Order.
+1–103. The Secretary shall consult with the Administrator of the Environmental Protection Agency, the Director \[now Administrator\] of the Federal Emergency Management Agency, and the heads of other executive agencies in exercising the functions delegated to him by this Order.
 
 1–104. All functions delegated to the Secretary by this Order may be redelegated, in whole or in part, to the head of any other agency.
 
-1–105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretary in carrying out the functions delegated to him by this Order.
+1–105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretaryin carrying out the functions delegated to him by this Order.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

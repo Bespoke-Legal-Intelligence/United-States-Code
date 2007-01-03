@@ -14,8 +14,6 @@
 |  |  |
 | :--- | ---: |
 | [703\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000703%20-%20Taking%2C%20killing%2C%20or%20possessing%20migratory%20birds%20unlawful.md) | Taking, killing, or possessing migratory birds unlawful. |
-| (a) | In general. |
-| (b) | Limitation on application to introduced species. |
 | [704\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000704%20-%20Determination%20as%20to%20when%20and%20how%20migratory%20birds%20may%20be%20taken%2C%20killed%2C%20or%20possessed.md) | Determination as to when and how migratory birds may be taken, killed, or possessed. |
 | [705\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000705%20-%20Transportation%20or%20importation%20of%20migratory%20birds%3B%20when%20unlawful.md) | Transportation or importation of migratory birds; when unlawful. |
 | [706\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000706%20-%20Arrests%3B%20search%20warrants.md) | Arrests; search warrants. |
@@ -45,8 +43,6 @@
 | [715g.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715g%20-%20Jurisdiction%20of%20State%20over%20areas%20acquired.md) | Jurisdiction of State over areas acquired. |
 | [715h.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715h%20-%20Operation%20of%20State%20game%20laws.md) | Operation of State game laws. |
 | [715i.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715i%20-%20Administration.md) | Administration. |
-| (a) | Treaty obligations; rules and regulations. |
-| (b) | Management and public and private agency agreements authorization. |
 | [715j.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715j%20-%20%E2%80%9CMigratory%20birds%E2%80%9D%20defined.md) | “Migratory birds” defined. |
 | [715k.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715k%20-%20Authorization%20of%20appropriations%20for%20purposes%20of%20subchapter%3B%20disposal%3B%20reservation%20protectors.md) | Authorization of appropriations for purposes of subchapter; disposal; reservation protectors. |
 | 715k–1. | Expenditures for personal services. |
@@ -61,13 +57,6 @@
 | [715q.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715q%20-%20Expenses%20of%20commission%3B%20authorization%20of%20appropriations.md) | Expenses of commission; authorization of appropriations. |
 | [715r.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715r%20-%20Partial%20invalidity%3B%20validity%20of%20remainder.md) | Partial invalidity; validity of remainder. |
 | [715s.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715s%20-%20Participation%20of%20local%20governments%20in%20revenue%20from%20areas%20administered%20by%20the%20United%20States%20Fish%20and%20Wildlife%20Service.md) | Participation of local governments in revenue from areas administered by the United States Fish and Wildlife Service. |
-| (a) | Separate fund in the United States Treasury; availability of funds until expended; “National Wildlife Refuge System” defined. |
-| (b) | Deduction of expenses. |
-| (c) | Payments to counties. |
-| (d) | Authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments. |
-| (e) | Transfer and use of excess of net receipts over aggregate amount of required payments. |
-| (f) | Terms, conditions, and regulations for execution of revenue producing activities; disposal of animals. |
-| (g) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,27 +64,18 @@
 
 |  |  |
 | :--- | ---: |
-| [718\.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718%20-%20Definitions.md) | Definitions. |
-| [718a.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718a%20-%20Hunting%20and%20conservation%20stamp%20for%20taking%20migratory%20waterfowl.md) | Hunting and conservation stamp for taking migratory waterfowl. |
-| [718b.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718b%20-%20Issuance%20and%20sale%20of%20stamps%3B%20deposit%20of%20funds%20in%20migratory%20bird%20conservation%20fund%3B%20fees%3B%20validity%3B%20expiration%3B%20redemption%3B%20%E2%80%9Cretail%E2%80%A6.md) | Issuance and sale of stamps; deposit of funds in migratory bird conservation fund; fees; validity; expiration; redemption; “retail dealers” and “hunting year” defined. |
-| (a) | Sales; fund disposition; unsold stamps. |
-| (b) | Cost of stamp. |
-| 718b–1. | Disposition of unsold stamps; collectors’ supply; destruction of surplus. |
-| [718c.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718c%20-%20Compliance%20with%20treaty%20or%20convention%20regulations%20and%20State%20game%20laws.md) | Compliance with treaty or convention regulations and State game laws. |
-| [718d.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718d%20-%20Disposition%20of%20receipts%20from%20sale%20of%20stamps.md) | Disposition of receipts from sale of stamps. |
-| (a) | Advance allotments to Postal Service. |
-| (b) | Acquisition of bird refuges. |
-| (c) | Waterfowl Production Areas. |
-| (d) | Promotion of stamp sales. |
-| [718e.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718e%20-%20Offenses.md) | Offenses. |
-| (a) | Loan or transfer of stamp. |
-| (b) | Alteration and counterfeiting of stamp. |
-| (c) | Reproduction of migratory bird hunting stamps; regulation by Secretary of the Interior; disposition of proceeds. |
-| [718f.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718f%20-%20Enforcement%3B%20authority%20of%20United%20States%20judges%2C%20magistrate%20judges%2C%20and%20employees%20of%20Department%20of%20the%20Interior.md) | Enforcement; authority of United States judges, magistrate judges, and employees of Department of the Interior. |
-| [718g.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718g%20-%20Penalties.md) | Penalties. |
-| [718h.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718h%20-%20Cooperation%20with%20States%20and%20Territories.md) | Cooperation with States and Territories. |
-| [718i.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718i%20-%20Repealed.%20July%2030%2C%201956%2C%20ch.%20782%2C%20%C2%A73%28c%29%2C%2070%20Stat.%20722.md) | Repealed. |
-| [718j.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718j%20-%20Crediting%20of%20funds%20received%20as%20fees%20for%20entering%20migratory-bird%20hunting%20and%20conservation%20stamp%20contest.md) | Crediting of funds received as fees for entering migratory-bird hunting and conservation stamp contest. |
+| [718\.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93266%2C%20%C2%A710%28h%29%2C%20Aug.%203%2C%202006%2C%20120%20Stat.%20677.md) | Repealed. |
+| [718a.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718a%20-%20Prohibition%20on%20taking.md) | Prohibition on taking. |
+| [718b.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718b%20-%20Sales%3B%20fund%20disposition%3B%20unsold%20stamps.md) | Sales; fund disposition; unsold stamps. |
+| 718b–1. | Disposition of unsold stamps. |
+| [718c.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718c%20-%20Authorization%20and%20exemption.md) | Authorization and exemption. |
+| [718d.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718d%20-%20Expenditure%20of%20funds.md) | Expenditure of funds. |
+| [718e.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718e%20-%20Loans%20and%20transfers%2C%20alteration%2C%20and%20reproduction%20of%20stamps.md) | Loans and transfers, alteration, and reproduction of stamps. |
+| [718f.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718f%20-%20Enforcement.md) | Enforcement. |
+| [718g.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718g%20-%20Violations.md) | Violations. |
+| [718h.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718h%20-%20Cooperation.md) | Cooperation. |
+| [718i.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718i%20-%20Use%20of%20contest%20fees.md) | Use of contest fees. |
+| [718j.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718j%20-%20Definitions.md) | Definitions. |
 | [718k.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718k%20-%20Use%20of%20fees%20collected%20for%20Federal%20migratory%20bird%20permits.md) | Use of fees collected for Federal migratory bird permits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -105,18 +85,10 @@
 |  |  |
 | :--- | ---: |
 | [719\.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719%20-%20Establishment%20of%20Program.md) | Establishment of Program. |
-| (a) | In general. |
-| (b) | Program features. |
-| (c) | Effort to conduct Program in all States. |
 | [719a.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719a%20-%20Junior%20Duck%20Stamp.md) | Junior Duck Stamp. |
-| (a) | Competition. |
-| (b) | Licensing and marketing of design of Junior Duck Stamps. |
-| (c) | Use of proceeds. |
 | [719b.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719b%20-%20Acceptance%20of%20gifts%2C%20devises%2C%20and%20bequests.md) | Acceptance of gifts, devises, and bequests. |
 | 719b–1. | Definition of State. |
 | [719c.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization. |
-| (b) | Limitations on use for distribution to State and regional coordinators to implement competitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

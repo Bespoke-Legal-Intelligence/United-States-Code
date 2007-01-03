@@ -6,7 +6,7 @@ For the purpose of this title–
 
 &emsp;&emsp;(A) served on active duty in the armed forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955;
 
-&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180 consecutive days any part of which occurred after January 31, 1955, and before October 15, 1976, not including service under section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve;
+&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180 consecutive days any part of which occurred after January 31, 1955, and before October 15,1976, not including service under section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve;
 
 &emsp;&emsp;(C) served on active duty as defined by section 101(21) of title 38 in the armed forces during the period beginning on August 2, 1990, and ending on January 2, 1992; or
 
@@ -44,7 +44,7 @@ For the purpose of this title–
 
 &emsp;&emsp;&emsp;(iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed;
 
-> &emsp;but does not include applicants for, or members of, the Senior Executive Service, the Defense Intelligence Senior Executive Service, the Senior Cryptologic Executive Service, or the Federal Bureau of Investigation and DrugEnforcement Administration Senior Executive Service;
+> &emsp;but does not include applicants for, or members of, the Senior Executive Service, the Defense Intelligence Senior Executive Service, the Senior Cryptologic Executive Service, or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
 
 &emsp;(4) except for the purposes of chapters 43 and 75 of this title, “preference eligible” does not include a retired member of the armed forces unless—
 

@@ -4,5 +4,5 @@ Section, Pub. L. 93–406, title IV, §4049, as added Pub. L. 99–272, title XI
 
 #### Effective Date of Repeal
 
-Repeal applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and planterminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as an Effective Date of 1987 Amendment note under section 1301 of this title.
+Repeal applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as an Effective Date of 1987 Amendment note under section 1301 of this title.
 

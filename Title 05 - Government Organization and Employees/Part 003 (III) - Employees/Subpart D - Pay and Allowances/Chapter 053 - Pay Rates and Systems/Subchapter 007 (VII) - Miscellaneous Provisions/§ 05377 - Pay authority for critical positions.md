@@ -46,7 +46,7 @@
 
 (g) The Office of Personnel Management shall consult with the Office of Management and Budget before making any decision to grant or terminate any authority under this section.
 
-(h) The Office of Personnel Management shall report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate each year, in writing, on the operation of this section. Each report under this subsection shall include—
+(h) The Office of Personnel Management shall report to the Committee on Government Reformof the House of Representatives and the Committee on Governmental Affairs of the Senate each year, in writing, on the operation of this section. Each report under this subsection shall include—
 
 &emsp;(1) the number of positions, in the aggregate and by agency, for which higher rates of pay were authorized or paid under this section during any part of the period covered by such report; and
 
@@ -88,5 +88,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Delegation of Functions
 
-Authority of President under subsec. (i)(2) of this section delegated to Director of Office of Management and Budget by Ex. Ord. No. 12828, §2, Jan. 5, 1993, 58 F.R. 2965, set out as a note under section 3502 of this title.
+Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
 

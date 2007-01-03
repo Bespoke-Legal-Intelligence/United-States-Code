@@ -22,7 +22,7 @@ The Secretary shall provide the head of the Office with the resources and person
 
 #### (d) Report
 
-The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).
+The Assistant Secretary of Energy for Environmental Management shall submit to theCommittee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).
 
 #### (e) Report
 

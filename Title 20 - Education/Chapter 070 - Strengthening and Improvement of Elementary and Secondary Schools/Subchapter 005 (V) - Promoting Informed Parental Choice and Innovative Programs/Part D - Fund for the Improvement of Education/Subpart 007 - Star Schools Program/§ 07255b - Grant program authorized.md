@@ -58,7 +58,7 @@ The Secretary, in conjunction with the Office of Educational Technology, is auth
 
 #### (2) Local educational agency assistance
 
-&emsp;At least 50 percent of the funds available in any fiscal year under this subpart shall be used for the cost of facilities, equipment, teacher training or retraining, technical assistance, or programming, for local educational agencies that are eligible to receive assistance under part A of subchapter I of this chapter.
+&emsp;At least 50 percent of the funds available in any fiscal year under this subpart shall beused for the cost of facilities, equipment, teacher training or retraining, technical assistance, or programming, for local educational agencies that are eligible to receive assistance under part A of subchapter I of this chapter.
 
 #### (e) Federal share
 
@@ -78,7 +78,7 @@ The Secretary, in conjunction with the Office of Educational Technology, is auth
 
 #### (f) Required local educational agency participation
 
-The Secretary is authorized to make a grant under this section to any eligible entity, if atleast one local educational agency is participating in the proposed program.
+The Secretary is authorized to make a grant under this section to any eligible entity, if at least one local educational agency is participating in the proposed program.
 
 #### (g) Assistance obtaining satellite time
 

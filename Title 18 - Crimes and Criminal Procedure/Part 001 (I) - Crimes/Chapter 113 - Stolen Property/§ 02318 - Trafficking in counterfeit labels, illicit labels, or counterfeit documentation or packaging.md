@@ -26,7 +26,7 @@
 
 &emsp;(1) the term “counterfeit label” means an identifying label or container that appears to be genuine, but is not;
 
-&emsp;(2) the term “traffic” means to transport, transfer or otherwise dispose of, to another, as consideration for anything of value or to make or obtain control of with intent to so transport, transfer or dispose of;
+&emsp;(2) the term “traffic” has the same meaning as in section 2320(e) of this title;
 
 &emsp;(3) the terms “copy”, “phonorecord”, “motion picture”, “computer program”, “audiovisual work”, “literary work”, “pictorial, graphic, or sculptural work”, “sound recording”, “work of visual art”, and “copyright owner” have, respectively, the meanings given those terms in section 101 (relating to definitions) of title 17;
 
@@ -84,7 +84,7 @@ In general.—Any copyright owner who is injured, or is threatened with injury, 
 
 Discretion of court.—In any action brought under paragraph (1), the court—
 
-&emsp;&emsp;(A) may grant 1 or more temporary or permanent injunctions on such terms as thecourt determines to be reasonable to prevent or restrain a violation of subsection (a);
+&emsp;&emsp;(A) may grant 1 or more temporary or permanent injunctions on such terms as the court determines to be reasonable to prevent or restrain a violation of subsection (a);
 
 &emsp;&emsp;(B) at any time while the action is pending, may order the impounding, on such terms as the court determines to be reasonable, of any article that is in the custody or control of the alleged violator and that the court has reasonable cause to believe was involved in a violation of subsection (a); and
 
@@ -144,9 +144,11 @@ Subsequent violation.—The court may increase an award of damages under this su
 
 Limitation on actions.—A civil action may not be commenced under section <sup>1</sup> unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
-(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914.)
+(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31,1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, §2(c)(2), Mar. 16, 2006, 120 Stat. 288.)
 
 #### Amendments
+
+2006—Subsec. (b)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means to transport, transfer or otherwise dispose of, to another, as consideration for anything of value or to make or obtain control of with intent to so transport, transfer or dispose of;”.
 
 2004—Pub. L. 108–482, §102(a)(1), substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
 
@@ -162,7 +164,7 @@ Subsec. (c)(3). Pub. L. 108–482, §102(a)(4)(A), added par. (3) and struck for
 
 Subsec. (c)(4). Pub. L. 108–482, §102(a)(4)(B), struck out “for a computer program” after “packaging”.
 
-Subsec. (d). Pub. L. 108–482, §102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two placesand inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
+Subsec. (d). Pub. L. 108–482, §102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two places and inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
 
 Subsec. (f). Pub. L. 108–482, §102(b), added subsec. (f).
 

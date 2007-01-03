@@ -2,7 +2,7 @@
 
 #### (a) Personnel
 
-(1) The Commissioner shall appoint such additional officers and employees as the Commissioner considers necessary to carry out the functions of the Administration under this chapter, and attorneys and experts may be appointed without regard to the civil service laws. Except as otherwise provided in the preceding sentence or in any other provision of law, such officers and employees shall be appointed, and their compensation shall be fixed, in accordance with title 5.
+(1) The Commissioner shall appoint such additional officers and employees as the Commissioner considers necessary to carry out the functions of the Administration under this chapter,and attorneys and experts may be appointed without regard to the civil service laws. Except as otherwise provided in the preceding sentence or in any other provision of law, such officers and employees shall be appointed, and their compensation shall be fixed, in accordance with title 5.
 
 (2) The Commissioner may procure the services of experts and consultants in accordance with the provisions of section 3109 of title 5.
 
@@ -82,7 +82,7 @@ Effective date.—Section 704(e)(4) of the Social Security Act \[subsec. (e)(4) 
 
 “(2)
 
-Transition rule.—Notwithstanding any other provision of law (including subsections (b), (<i>o</i>), (p), (q), (r), and (u) of section 552a of title 5, United States Code), arrangements for disclosure of records or otherinformation, and arrangements for computer matching of records, which were in effect immediately before the date of the enactment of this Act \[Aug. 15, 1994\] between the Social Security Administration in the Department of Health and Human Services and other components of such Department may continue between the Social Security Administration established under section 701 of the Social Security Act \[section 901 of this title\] (as amended by this Act) and such Department during the period beginning on the date of the enactment of this Act and ending March 31, 1996.”
+Transition rule.—Notwithstanding any other provision of law (including subsections (b), (<i>o</i>), (p), (q), (r), and (u) of section 552a of title 5, United States Code), arrangements for disclosure of records or other information, and arrangements for computer matching of records, which were in effect immediately before the date of the enactment of this Act \[Aug. 15, 1994\] between the Social Security Administration in the Department of Health and Human Services and other components of such Department may continue between the Social Security Administration established under section 701 of the Social Security Act \[section 901 of this title\] (as amended by this Act) and such Department during the period beginning on the date of the enactment of this Act and ending March 31, 1996.”
 
 Amendment by section 104(a) of Pub. L. 103–296 effective Mar. 31, 1995, except as otherwise provided, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 

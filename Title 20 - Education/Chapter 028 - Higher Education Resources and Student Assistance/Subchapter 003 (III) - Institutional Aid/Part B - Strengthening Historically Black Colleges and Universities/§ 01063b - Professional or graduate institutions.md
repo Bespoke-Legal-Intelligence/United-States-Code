@@ -152,7 +152,7 @@ Subsec. (e)(2). Pub. L. 105–244, §304(b)(3)(B), added par. (2) and struck out
 
 &emsp;“(B) has students enrolled in such program at the time of application for a grant under this section.”
 
-Subsec. (e)(3). Pub. L. 105–244, §304(b)(3)(B), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “Graduate institutions that were awarded grants under this section prior to October 1, 1992 shall continue to receive such grant payments, regardless of the eligibility of the graduate institutions described in subparagraphs (F) through (P), until suchgrant period has expired or September 30, 1993, whichever is later.”
+Subsec. (e)(3). Pub. L. 105–244, §304(b)(3)(B), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “Graduate institutions that were awarded grants under this section prior to October 1, 1992 shall continue to receive such grant payments, regardless of the eligibility of the graduate institutions described in subparagraphs (F) through (P), until such grant period has expired or September 30, 1993, whichever is later.”
 
 Subsec. (e)(5). Pub. L. 105–244, §304(b)(3)(C), added par. (5).
 

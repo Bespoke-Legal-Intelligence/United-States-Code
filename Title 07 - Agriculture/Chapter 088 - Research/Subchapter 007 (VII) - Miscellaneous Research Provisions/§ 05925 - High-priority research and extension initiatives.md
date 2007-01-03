@@ -24,7 +24,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 &emsp;The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
 
-&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agriculturalcommodity, are likely to be applicable to agricultural commodities generally; or
+&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
 
 &emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
 
@@ -44,7 +44,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (2) Ethanol research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of carrying out or enhancing research on ethanol derived from agricultural crops as an alternative fuel source.
+&emsp;Research and extension grants may be made under this section for the purpose of carryingout or enhancing research on ethanol derived from agricultural crops as an alternative fuel source.
 
 #### (3) Aflatoxin research and extension
 
@@ -114,7 +114,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (17) Wild pampas grass control, management, and eradication research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of control,management, and eradication of wild pampas grass.
+&emsp;Research and extension grants may be made under this section for the purpose of control, management, and eradication of wild pampas grass.
 
 #### (18) Food safety, including pathogen detection and limitation, research and extension
 
@@ -126,7 +126,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (20) Ornamental tropical fish research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of meeting the needs of commercial producers of ornamental tropical fish and aquatic plants for improvements in the areas of fish reproduction, health, nutrition, predator control, water use, water quality control, and farming technology.
+&emsp;Research and extension grants may be made under this section for the purpose of meeting the needs of commercial producers of ornamental tropical fish and aquatic plants for improvements in the areas of fish reproduction,health, nutrition, predator control, water use, water quality control, and farming technology.
 
 #### (21) Sheep scrapie research and extension
 
@@ -192,7 +192,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (35) Environment and private lands research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality to aid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
+&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality to aid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions thatrespect private property rights and agricultural production realities.
 
 #### (36) Livestock disease research and extension
 
@@ -254,7 +254,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (A) Evaluation of initial grants
 
-&emsp;&emsp;If the Secretary awards grants under paragraph (2)(B), the Secretary shall evaluate all of the research or demonstration projects conducted under the grants for their use as the basis of a national plan for the control, management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
+&emsp;&emsp;If the Secretary awards grants under paragraph (2)(B), the Secretary shall evaluate all of the research or demonstration projects conducted under the grants for their use as the basis of a national plan for the control,management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
 
 #### (B) Selection
 

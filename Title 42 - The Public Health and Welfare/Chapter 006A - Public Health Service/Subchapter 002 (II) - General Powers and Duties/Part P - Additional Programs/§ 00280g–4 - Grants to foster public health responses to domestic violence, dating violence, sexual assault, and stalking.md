@@ -46,7 +46,7 @@
 
 &emsp;Strategies implemented under paragraph (1) may include the following:
 
-&emsp;&emsp;(A) Where appropriate, the development of training modules and policies that addressthe overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse as well as childhood exposure to domestic violence.
+&emsp;&emsp;(A) Where appropriate, the development of training modules and policies that address the overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse as well as childhood exposure to domestic violence.
 
 &emsp;&emsp;(B) The creation, adaptation, and implementation of public education campaigns for patients concerning domestic violence, dating violence, sexual assault, and stalking prevention.
 
@@ -64,11 +64,7 @@ Funds appropriated under this section shall be distributed equally between State
 
 There is authorized to be appropriated to award grants under this section, $5,000,000 for each of fiscal years 2007 through 2011.
 
-(July 1, 1944, ch. 373, title III, §399O, as added Pub. L. 109–162, title V, §504, Jan. 5, 2006, 119 Stat. 3026.)
-
-#### Codification
-
-Another section 399O of act July 1, 1944, is classified to section 280g–3 of this title.
+(July 1, 1944, ch. 373, title III, §399P, formerly §399O, as added Pub. L. 109–162, title V, §504, Jan. 5, 2006, 119 Stat. 3026; renumbered §399P, Pub. L. 109–450, §4(1), Dec. 22, 2006, 120 Stat. 3342.)
 
 #### Findings
 

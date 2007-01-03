@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A public or private non-medical, community-based facility for children and youth (as defined in regulations to be promulgated by the Secretary) that receives support in any form from any program supported in whole or in part with funds appropriated under this chapter shall protect and promote the rights of each resident of the facility, including the right to be free from physical or mental abuse,corporal punishment, and any restraints or involuntary seclusions imposed for purposes of discipline or convenience.
+&emsp;A public or private non-medical, community-based facility for children and youth (as defined in regulations to be promulgated by the Secretary) that receives support in any form from any program supported in whole or in part with funds appropriated under this chapter shall protect and promote the rights of each resident of the facility, including the right to be free from physical or mental abuse, corporal punishment, and any restraints or involuntary seclusions imposed for purposes of discipline or convenience.
 
 #### (2) Nonapplicability
 

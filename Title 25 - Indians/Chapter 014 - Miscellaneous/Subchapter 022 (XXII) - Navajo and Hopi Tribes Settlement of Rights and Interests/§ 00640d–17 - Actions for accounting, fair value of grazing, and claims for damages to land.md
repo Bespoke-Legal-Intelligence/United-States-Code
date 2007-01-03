@@ -16,7 +16,7 @@ Neither laches nor the statute of limitations shall constitute a defense to any 
 
 #### (c) Further original, ancillary or supplementary actions to insure quiet enjoyment
 
-Either tribe may institute such further original, ancillary, or supplementary actions against the other tribe as may be necessary or desirable to insure the quiet and peaceful enjoyment of the reservation lands of the tribes by the tribes and the members thereof, and to fully accomplish all objects and purposes of this subchapter. Such actions may be commenced in the District Court by either tribe against the other, acting through the chairman of its tribal council, for and on behalf of the tribe, including all villages, clans, and individual members thereof.
+Either tribe may institute such further original, ancillary, or supplementary actions againstthe other tribe as may be necessary or desirable to insure the quiet and peaceful enjoyment of the reservation lands of the tribes by the tribes and the members thereof, and to fully accomplish all objects and purposes of this subchapter. Such actions may be commenced in the District Court by either tribe against the other, acting through the chairman of its tribal council, for and on behalf of the tribe, including all villages, clans, and individual members thereof.
 
 #### (d) United States as party; judgments as claims against the United States
 

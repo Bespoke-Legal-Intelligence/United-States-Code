@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-(1) The admission to the United States of any alien as a nonimmigrant shall be for such time and under such conditions as the Attorney General may by regulations prescribe, including when he deems necessary the giving of a bond with sufficient surety in such sum and containing such conditions as the Attorney General shall prescribe, to insure that at the expiration of such time or upon failure to maintain thestatus under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States. No alien admitted to Guam without a visa pursuant to section 1182(<i>l</i>) of this title may be authorized to enter or stay in the United States other than in Guam or to remain in Guam for a period exceeding fifteen days from date of admission to Guam. No alien admitted to the United States without a visa pursuant to section 1187 of this title may be authorized to remain in the United States as a nonimmigrant visitor for a period exceeding 90 days from the date of admission.
+(1) The admission to the United States of any alien as a nonimmigrant shall be for such time and under such conditions as the Attorney General may by regulations prescribe, including when he deems necessary the giving of a bond with sufficient surety in such sum and containing such conditions as the Attorney General shall prescribe, to insure that at the expiration of such time or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States. No alien admitted to Guam without a visa pursuant to section 1182(<i>l</i>) of this title may be authorized to enter or stay in the United States other than in Guam or to remain in Guam for a period exceeding fifteen days from date of admission to Guam. No alien admitted to the United States without a visapursuant to section 1187 of this title may be authorized to remain in the United States as a nonimmigrant visitor for a period exceeding 90 days from the date of admission.
 
 (2)(A) The period of authorized status as a nonimmigrant described in section 1101(a)(15)(O) of this title shall be for such period as the Attorney General may specify in order to provide for the event (or events) for which the nonimmigrant is admitted.
 
@@ -38,7 +38,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (3) The Attorney General shall approve a petition—
 
-&emsp;(A) with respect to a nonimmigrant described in section 1101(a)(15)(O)(i) of this title only after consultation in accordance with paragraph (6) or, with respect to aliens seeking entry for a motion picture or television production, after consultation with the appropriate union representing the alien's occupational peers and a management organization in the area of the alien's ability, or
+&emsp;(A) with respect to a nonimmigrant described in section 1101(a)(15)(O)(i) of this title only after consultation in accordance withparagraph (6) or, with respect to aliens seeking entry for a motion picture or television production, after consultation with the appropriate union representing the alien's occupational peers and a management organization in the area of the alien's ability, or
 
 &emsp;(B) with respect to a nonimmigrant described in section 1101(a)(15)(O)(ii) of this title after consultation in accordance with paragraph (6) or, in the case of such an alien seeking entry for a motion picture or television production, after consultation with such a labor organization and a management organization in the area of the alien's ability.
 
@@ -46,9 +46,25 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (4)(A) For purposes of section 1101(a)(15)(P)(i)(a) of this title, an alien is described in this subparagraph if the alien—
 
-&emsp;(i) performs as an athlete, individually or as part of a group or team, at an internationally recognized level of performance, and
+&emsp;(i)(I) performs as an athlete, individually or as part of a group or team, at an internationally recognized level of performance;
 
-&emsp;(ii) seeks to enter the United States temporarily and solely for the purpose of performing as such an athlete with respect to a specific athletic competition.
+&emsp;(II) is a professional athlete, as defined in section 1154(i)(2) of this title;
+
+&emsp;(III) performs as an athlete, or as a coach, as part of a team or franchise that is located in the United States and a member of a foreign league or association of 15 or more amateur sports teams, if—
+
+&emsp;&emsp;(aa) the foreign league or association is the highest level of amateur performance of that sport in the relevant foreign country;
+
+&emsp;&emsp;(bb) participation in such league or association renders players ineligible, whether on a temporary or permanent basis, to earn a scholarship in, or participate in, that sport at a college or university in the United States under the rules of the National Collegiate Athletic Association; and
+
+&emsp;&emsp;(cc) a significant number of the individuals who play in such league or association are drafted by a major sports league or a minor league affiliate of such a sports league; or
+
+&emsp;(IV) is a professional athlete or amateur athlete who performs individually or as part of a group in a theatrical ice skating production; and
+
+&emsp;(ii) seeks to enter the United States temporarily and solely for the purpose of performing—
+
+&emsp;&emsp;(I) as such an athlete with respect to a specific athletic competition; or
+
+&emsp;&emsp;(II) in the case of an individual described in clause (i)(IV), in a specific theatrical ice skating production or tour.
 
 (B)(i) For purposes of section 1101(a)(15)(P)(i)(b) of this title, an alien is described in this subparagraph if the alien—
 
@@ -72,6 +88,22 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (E) The Attorney General shall approve petitions under this subsection for nonimmigrants described in section 1101(a)(15)(P)(ii) of this title only after consultation with labor organizations representing artists and entertainers in the United States.
 
+(F)(i) No nonimmigrant visa under section 1101(a)(15)(P)(i)(a) of this title shall be issued to any alien who is a national of a country that is a state sponsor of international terrorism unless the Secretary of State determines, in consultation with the Secretary of Homeland Security and the heads of other appropriate United States agencies, that such alien does not pose a threat to the safety, national security, or national interest of the United States. In making a determination under this subparagraph, the Secretary of State shall apply standards developed by the Secretary of State, in consultation with the Secretary of Homeland Security and the heads of other appropriate United States agencies, that are applicable to the nationals of such states.
+
+(ii) In this subparagraph, the term “state sponsor of international terrorism” means any country the government of which has been determined by the Secretary of State under any of the laws specified in clause (iii) to have repeatedly provided support for acts of international terrorism.
+
+(iii) The laws specified in this clause are the following:
+
+&emsp;(I) Section 2405(j)(1)(A) of title 50, Appendix (or successor statute).
+
+&emsp;(II) Section 2780(d) of title 22.
+
+&emsp;(III) Section 2371(a) of title 22.
+
+(G) The Secretary of Homeland Security shall permit a petition under this subsection to seek classification of more than 1 alien as a nonimmigrant under section 1101(a)(15)(P)(i)(a) of this title.
+
+(H) The Secretary of Homeland Security shall permit an athlete, or the employer of an athlete, to seek admission to the United States for such athlete under a provision of this Act other than section 1101(a)(15)(P)(i) of this title if the athlete is eligible under such other provision.
+
 (5)(A) In the case of an alien who is provided nonimmigrant status under section 1101(a)(15)(H)(i)(b) or 1101(a)(15)(H)(ii)(b) of this title and who is dismissed from employment by the employer before the end of the period of authorized admission, the employer shall be liable for the reasonable costs of return transportation of the alien abroad.
 
 (B) In the case of an alien who is admitted to the United States in nonimmigrant status under section 1101(a)(15)(O) or 1101(a)(15)(P) of this title and whose employment terminates for reasons other than voluntary resignation, the employer whose offer of employment formed the basis of such nonimmigrant status and the petitioner are jointly and severally liable for the reasonable cost of return transportation of the alien abroad. The petitioner shall provide assurance satisfactory to the Attorney General that the reasonable cost of that transportation will be provided.
@@ -94,7 +126,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (F) No consultation required under this subsection by the Attorney General with a nongovernmental entity shall be construed as permitting the Attorney General to delegate any authority under this subsection to such an entity. The Attorney General shall give such weight to advisory opinions provided under this section as the Attorney General determines, in his sole discretion, to be appropriate.
 
-(7) If a petition is filed and denied under this subsection, the Attorney General shall notify the petitioner of the determination and the reasons for the denial and of the process by which the petitioner may appeal the determination.
+(7) If a petition is filed and denied under this subsection, the Attorney General shall notifythe petitioner of the determination and the reasons for the denial and of the process by which the petitioner may appeal the determination.
 
 (8) The Attorney General shall submit annually to the Committees on the Judiciary of the House of Representatives and of the Senate a report describing, with respect to petitions under each subcategory of subparagraphs (H), (O), (P), and (Q) of section 1101(a)(15) of this title the following:
 
@@ -120,7 +152,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (C) Fees collected under this paragraph shall be deposited in the Treasury in accordance with section 1356(s) of this title.
 
-(10) An amended H–1B petition shall not be required where the petitioning employer is involved in a corporate restructuring, including but not limited to a merger, acquisition, or consolidation, where a new corporate entity succeeds to the interests and obligations of theoriginal petitioning employer and where the terms and conditions of employment remain the same but for the identity of the petitioner.
+(10) An amended H–1B petition shall not be required where the petitioning employer is involved in a corporate restructuring, including but not limited to a merger, acquisition, or consolidation, where a new corporate entity succeeds to the interests and obligations of the original petitioning employer and where the terms and conditions of employment remain the same but for the identity of the petitioner.
 
 (11)(A) Subject to subparagraph (B), the Secretary of Homeland Security or the Secretary of State, as appropriate, shall impose a fee on an employer who has filed an attestation described in section 1182(t) of this title—
 
@@ -156,7 +188,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 &emsp;(ii) the Secretary of Homeland Security may deny petitions filed with respect to that employer under section 1154 of this title or paragraph (1) of this subsection during a period of at least 1 year but not more than 5 years for aliens to be employed by the employer.
 
-(B) The Secretary of Homeland Security may delegate to the Secretary of Labor, with the agreement of the Secretary of Labor, any of the authority given to the Secretary of Homeland Security under subparagraph (A)(i).
+(B) The Secretary of Homeland Security may delegate to the Secretary of Labor, with theagreement of the Secretary of Labor, any of the authority given to the Secretary of Homeland Security under subparagraph (A)(i).
 
 (C) In determining the level of penalties to be assessed under subparagraph (A), the highest penalties shall be reserved for willful failures to meet any of the conditions of the petition that involve harm to United States workers.
 
@@ -172,7 +204,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 &emsp;(ii) if the petitioner has had such a petition previously approved, 2 years have elapsed since the filing of such previously approved petition.
 
-(B) The Secretary of Homeland Security may, in the Secretary's discretion, waive the limitations in subparagraph (A) if justification existsfor such a waiver. Except in extraordinary circumstances and subject to subparagraph (C), such a waiver shall not be granted if the petitioner has a record of violent criminal offenses against a person or persons.
+(B) The Secretary of Homeland Security may, in the Secretary's discretion, waive the limitations in subparagraph (A) if justification exists for such a waiver. Except in extraordinary circumstances and subject to subparagraph (C), such a waiver shall not be granted if the petitioner has a record of violent criminal offenses against a person or persons.
 
 (C)(i) The Secretary of Homeland Security is not limited by the criminal court record and shall grant a waiver of the condition described in the second sentence of subparagraph (B) in the case of a petitioner described in clause (ii).
 
@@ -230,7 +262,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 #### (f) Denial of crewmember status in case of certain labor disputes
 
-(1) Except as provided in paragraph (3), no alien shall be entitled to nonimmigrant status described in section 1101(a)(15)(D) of this title if the alien intends to land for the purpose of performing service on board a vessel of the United States (as defined in section 2101(46) of title 46) or on an aircraft of an air carrier (as defined in section 40102(a)(2) of title 49) during a labor dispute where there is a strike or lockout in the bargaining unit of the employer in which the alien intends to perform such service.
+(1) Except as provided in paragraph (3), no alien shall be entitled to nonimmigrant status described in section 1101(a)(15)(D) of this title if the alien intends to land for the purpose of performing service on board a vessel of the United States (as defined in section 116 of title 46) or on an aircraft of an air carrier (as defined in section 40102(a)(2) of title 49) during a labor dispute where there is a strike or lockout in the bargaining unit of the employer in which the alien intends to perform such service.
 
 (2) An alien described in paragraph (1)—
 
@@ -270,7 +302,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (2) The numerical limitations of paragraph (1) shall only apply to principal aliens and not to the spouses or children of such aliens.
 
-(3) Aliens who are subject to the numerical limitations of paragraph (1) shall be issued visas (or otherwise provided nonimmigrant status) in the order in which petitions are filed for such visas or status. If an alien who was issued a visa or otherwise provided nonimmigrant status and counted against the numerical limitations of paragraph (1) is found to have been issued such visa or otherwise provided such status by fraud or willfully misrepresenting a material fact and such visa or nonimmigrant status is revoked, then one number shall be restored to the total number of aliens who may be issued visas or otherwise provided such status under the numerical limitations of paragraph (1) in the fiscal year in which the petition is revoked, regardless of the fiscal year in which the petition was approved.
+(3) Aliens who are subject to the numerical limitations of paragraph (1) shall be issued visas (or otherwise provided nonimmigrant status) inthe order in which petitions are filed for such visas or status. If an alien who was issued a visa or otherwise provided nonimmigrant status and counted against the numerical limitations of paragraph (1) is found to have been issued such visa or otherwise provided such status by fraud or willfully misrepresenting a material fact and such visa or nonimmigrant status is revoked, then one number shall be restored to the total number of aliens who may be issued visas or otherwise provided such status under the numerical limitations of paragraph (1) in the fiscal year in which the petition is revoked, regardless of the fiscal year in which the petition was approved.
 
 (4) In the case of a nonimmigrant described in section 1101(a)(15)(H)(i)(b) of this title, the period of authorized admission as such a nonimmigrant may not exceed 6 years.
 
@@ -308,9 +340,9 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (D) The numerical limitation described in paragraph (1)(A) for a fiscal year shall be reduced by one for each alien granted an extension under subparagraph (C) during such year who has obtained 5 or more consecutive prior extensions.
 
-(9)(A) Subject to subparagraphs (B) and (C), an alien who has already been counted toward the numerical limitations of paragraph (1)(B) during any 1 of the 3 fiscal years prior to the fiscal year of the approved start date of a petition for a nonimmigrant worker described in section 1101(a)(15)(H)(ii)(b) of this title shall not be counted toward such limitation for the fiscal year in which the petition is approved. Such an alien shall be considered a returning worker.
+(9)(A) Subject to subparagraphs (B) and (C), an alien who has already been counted toward the numerical limitation of paragraph (1)(B) during fiscal year 2004, 2005, or 2006 shall not again be counted toward such limitation during fiscal year 2007. Such an alien shall be considered a returning worker.
 
-(B) A petition referred to in subparagraph (A) shall include, with respect to a returning worker—
+(B) A petition to admit or otherwise provide status under section 1101(a)(15)(H)(ii)(b) of this title shall include, with respect to a returning worker—
 
 &emsp;(i) all information and evidence that the Secretary of Homeland Security determines is required to support a petition for status under section 1101(a)(15)(H)(ii)(b) of this title;
 
@@ -416,7 +448,7 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 (2)(A) Notwithstanding section 1258(a)(2) of this title, the Attorney General may change the status of an alien who qualifies under this subsection and section 1182(e) of this title to that of an alien described in section 1101(a)(15)(H)(i)(b) of this title. The numerical limitations contained in subsection (g)(1)(A) of this section shall not apply to any alien whose status is changed under the preceding sentence, if the alien obtained a waiver of the 2-year foreign residence requirement upon a request by an interested Federal agency or an interested State agency.
 
-(B) No person who has obtained a change of status under subparagraph (A) and who has failed to fulfill the terms of the contract with the health facility or health care organization named in the waiver application shall be eligible to apply for an immigrant visa, for permanent residence, or for any other change of nonimmigrant status, until it is established that such person has resided and been physically present in the country of his nationality or his last residence for an aggregate of at least 2 years following departure from the United States.
+(B) No person who has obtained a change of status under subparagraph (A) and who has failed to fulfill the terms of the contract with the health facility or health care organizationnamed in the waiver application shall be eligible to apply for an immigrant visa, for permanent residence, or for any other change of nonimmigrant status, until it is established that such person has resided and been physically present in the country of his nationality or his last residence for an aggregate of at least 2 years following departure from the United States.
 
 (3) Notwithstanding any other provision of this subsection, the 2-year foreign residence requirement under section 1182(e) of this title shall apply with respect to an alien described in clause (iii) of such section, who has not otherwise been accorded status under section 1101(a)(27)(H) of this title, if—
 
@@ -492,7 +524,7 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 #### (5) Nonexclusive relief
 
-&emsp;Nothing in this subsection limits the ability of aliens who qualify for status under section1101(a)(15)(U) of this title to seek any other immigration benefit or status for which the alien may be eligible.
+&emsp;Nothing in this subsection limits the ability of aliens who qualify for status under section 1101(a)(15)(U) of this title to seek any other immigration benefit or status for which the alien may be eligible.
 
 #### (6) Duration of status
 
@@ -526,7 +558,7 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 (1) A visa shall not be issued under the provisions of section 1101(a)(15)(K)(ii) of this title until the consular officer has received a petition filed in the United States by the spouse of the applying alien and approved by the Attorney General. The petition shall be in such form and contain such information as the Attorney General shall, by regulation, prescribe. Such information shall include information on any criminal convictions of the petitioner for any specified crime.
 
-(2) In the case of an alien seeking admission under section 1101(a)(15)(K)(ii) of this title who concluded a marriage with a citizen of the United States outside the United States, the alien shall be considered inadmissible under section 1182(a)(7)(B) of this title if the alien is not at the time of application for admission in possession of a valid nonimmigrant visa issued by a consular officer in the foreign state in which the marriage was concluded.
+(2) In the case of an alien seeking admission under section 1101(a)(15)(K)(ii) of this title whoconcluded a marriage with a citizen of the United States outside the United States, the alien shall be considered inadmissible under section 1182(a)(7)(B) of this title if the alien is not at the time of application for admission in possession of a valid nonimmigrant visa issued by a consular officer in the foreign state in which the marriage was concluded.
 
 (3) In the case of a nonimmigrant described in section 1101(a)(15)(K)(ii) of this title, and any child of such a nonimmigrant who was admitted as accompanying, or following to join, such a nonimmigrant, the period of authorized admission shall terminate 30 days after the date on which any of the following is denied:
 
@@ -544,7 +576,7 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 (5) In this subsection:
 
-&emsp;(A) The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 ofthe Violence Against Women and Department of Justice Reauthorization Act of 2005.<sup>3</sup>
+&emsp;(A) The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005.<sup>3</sup>
 
 &emsp;(B) The term “specified crime” means the following:
 
@@ -554,11 +586,9 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 &emsp;&emsp;(iii) At least three convictions for crimes relating to a controlled substance or alcohol not arising from a single act.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §214, 66 Stat. 189; Pub. L. 91–225, §3, Apr. 7, 1970, 84 Stat. 117; Pub. L. 98–454, title VI, §602(b), Oct. 5, 1984, 98 Stat. 1737; Pub. L. 99–603, title III, §§301(b), 313(b), Nov. 6, 1986, 100 Stat. 3411, 3438; Pub. L. 99–639, §3(a), (c), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 100–449, title III, §307(b), Sept. 28, 1988, 102 Stat. 1877; Pub. L. 100–525, §2(<i>l</i>)(1), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title II, §§202(a), 205(a), (b), (c)(2), 206(b), 207(b), Nov. 29, 1990, 104 Stat. 5014, 5019, 5020, 5023, 5025; Pub. L. 102–232, title II, §§202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1), title III, §303(a)(10)–(12), Dec. 12, 1991, 105 Stat. 1737–1741, 1748; Pub. L. 103–182, title III, §341(b), (c), Dec. 8, 1993, 107 Stat. 2116, 2117; Pub. L. 103–322, title XIII, §130003(b)(2), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §220(b), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title III, §308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A), title VI, §§621, 622(c), 625(a)(1), 671(a)(3)(A), (e)(4)(A), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–621, 3009–623, 3009–695, 3009–699, 3009–721, 3009–723; Pub. L. 105–65, title I, §108, Oct. 27, 1997, 111 Stat. 1350; Pub. L. 105–277, div. C, title IV, §§411(a), 414(a), Oct. 21, 1998, 112 Stat. 2681–642, 2681–651; Pub. L. 106–104, §2, Nov. 13, 1999, 113 Stat. 1483; Pub. L. 106–311, §1, Oct. 17, 2000, 114 Stat. 1247; Pub. L. 106–313, title I, §§102(a), 103, 105(a), 108, Oct. 17, 2000, 114 Stat. 1251–1253, 1255; Pub. L. 106–386, div. A, §107(e)(2), div. B, title V, §1513(c), Oct. 28, 2000, 114 Stat. 1478, 1535; Pub. L. 106–396, title IV, §401, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(b), (d)(1), 1103(b), (c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–142, 2762A–144, 2762A–145; Pub. L. 107–45, §1, Oct. 1, 2001, 115 Stat. 258; Pub. L. 107–124, Jan. 16, 2002, 115 Stat. 2402; Pub. L. 107–125, §§1, 2(a), Jan. 16, 2002, 115 Stat. 2403; Pub. L. 107–273, div. C, title I, §11018(a), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 107–274, §2(c), Nov. 2, 2002, 116 Stat. 1923; Pub. L. 108–77, title IV, §§402(a)(2), (d)(1), 403, 404, Sept. 3, 2003, 117 Stat. 940, 946, 947; Pub. L. 108–78, title IV, §402, Sept. 3, 2003, 117 Stat. 970; Pub. L. 108–193, §§4(b)(2), 8(a)(3), Dec. 19, 2003, 117 Stat. 2878, 2886; Pub. L. 108–441, §1(b)–(d), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 108–447, div. J, title IV, §§412(a), 413(a), 422(b), 425(a) 426(a), Dec. 8, 2004, 118 Stat. 3351–3353, 3356, 3357; Pub. L. 109–13, div. B, title IV, §§402(a), 403(a), 404(a), 405, title V, §501(b), (c), May 11, 2005, 119 Stat. 318–322; Pub. L. 109–162, title VIII, §§821(a), (b), (c)(2), 832(a)(1),(2), Jan. 5, 2006, 119 Stat. 3062, 3066, 3067.)
+(June 27, 1952, ch. 477, title II, ch. 2, §214, 66 Stat. 189; Pub. L. 91–225, §3, Apr. 7, 1970, 84 Stat. 117; Pub. L. 98–454, title VI, §602(b), Oct. 5, 1984, 98 Stat. 1737; Pub. L. 99–603, title III, §§301(b), 313(b), Nov. 6, 1986, 100 Stat. 3411, 3438; Pub. L. 99–639, §3(a), (c), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 100–449, title III, §307(b), Sept. 28, 1988, 102 Stat. 1877; Pub. L. 100–525, §2(<i>l</i>)(1), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title II, §§202(a), 205(a), (b), (c)(2), 206(b), 207(b), Nov. 29, 1990, 104 Stat. 5014, 5019, 5020, 5023, 5025; Pub. L. 102–232, title II, §§202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1), title III, §303(a)(10)–(12), Dec. 12, 1991, 105 Stat. 1737–1741, 1748; Pub. L. 103–182, title III, §341(b), (c), Dec. 8, 1993, 107 Stat. 2116, 2117; Pub. L. 103–322, title XIII, §130003(b)(2), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §220(b), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title III, §308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A), title VI, §§621, 622(c), 625(a)(1), 671(a)(3)(A), (e)(4)(A), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–621, 3009–623, 3009–695, 3009–699, 3009–721, 3009–723; Pub. L. 105–65, title I, §108, Oct. 27, 1997, 111 Stat. 1350; Pub. L. 105–277, div. C, title IV, §§411(a), 414(a), Oct. 21, 1998, 112 Stat. 2681–642, 2681–651; Pub. L. 106–104, §2, Nov. 13, 1999, 113 Stat. 1483; Pub. L. 106–311, §1, Oct. 17, 2000, 114 Stat. 1247; Pub. L. 106–313, title I, §§102(a), 103, 105(a), 108, Oct. 17, 2000, 114 Stat. 1251–1253, 1255; Pub. L. 106–386, div. A, §107(e)(2), div. B, title V, §1513(c), Oct. 28, 2000, 114 Stat. 1478, 1535; Pub. L. 106–396, title IV, §401, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(b), (d)(1), 1103(b), (c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–142, 2762A–144, 2762A–145; Pub. L. 107–45, §1, Oct. 1, 2001, 115 Stat. 258; Pub. L. 107–124, Jan. 16, 2002, 115 Stat. 2402; Pub. L. 107–125, §§1, 2(a), Jan. 16, 2002, 115 Stat. 2403; Pub. L. 107–273, div. C, title I, §11018(a), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 107–274, §2(c), Nov. 2, 2002, 116 Stat. 1923; Pub. L. 108–77, title IV, §§402(a)(2), (d)(1), 403, 404, Sept. 3, 2003, 117 Stat. 940, 946, 947; Pub. L. 108–78, title IV, §402, Sept. 3, 2003, 117 Stat. 970; Pub. L. 108–193, §§4(b)(2), 8(a)(3), Dec. 19, 2003, 117 Stat. 2878, 2886; Pub. L. 108–441, §1(b)–(d), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 108–447, div. J, title IV, §§412(a), 413(a), 422(b), 425(a) 426(a), Dec. 8, 2004, 118 Stat. 3351–3353, 3356, 3357; Pub. L. 109–13, div. B, title IV, §§402(a), 403(a), 404(a), 405, title V, §501(b), (c), May 11, 2005, 119 Stat. 318–322; Pub. L. 109–162, title VIII, §§821(a), (b), (c)(2), 832(a)(1),(2), Jan. 5, 2006, 119 Stat. 3062, 3066, 3067; Pub. L. 109–364, div. A, title X, §1074(a), Oct. 17, 2006, 120 Stat. 2403; Pub. L. 109–463, §2, Dec. 22, 2006, 120 Stat. 3477.)
 
 #### Amendment of Section
-
-<i>For termination of amendment by section 402(b)(1) of Pub. L. 109–13, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–78, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
@@ -570,9 +600,25 @@ The International Organizations Immunities Act, referred to in subsec. (b), is a
 
 Section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsecs. (d)(3)(A) and (r)(5)(A), is section 3 of Pub. L. 109–162, which enacted sections 3796gg–2 and 13925 of Title 42, The Public Health and Welfare, amended sections 3796gg–3, 3796hh–4, 10420, 13975, and 14039 of Title 42, repealed former section 3796gg–2 of Title 42, and amended provisions set out as a note under section 3796gg–2 of Title 42.
 
+#### Codification
+
+In subsec. (f)(1), “section 116 of title 46” substituted for “section 2101(46) of title 46, United States Code” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 4 of which enacted subtitle I of Title 46, Shipping.
+
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–162, §832(a)(1), designated existing provisions as par. (1), inserted after second sentence “Such information shall include information on any criminal convictions of the petitioner for any specified crime.”, substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing, and added pars. (2) and (3).
+2006—Subsec. (c)(4)(A)(i), (ii). Pub. L. 109–463, §2(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) performs as an athlete, individually or as part of a group or team, at an internationally recognized level of performance, and
+
+“(ii) seeks to enter the United States temporarily and solely for the purpose of performing as such an athlete with respect to a specific athletic competition.”
+
+Subsec. (c)(4)(F) to (H). Pub. L. 109–463, §2(b)–(d), added subpars. (F) to (H).
+
+Subsec. (d). Pub. L. 109–162, §832(a)(1), designated existing provisions as par. (1), inserted after second sentence “Such information shall include information on any criminal convictions of the petitioner for any specified crime.”, substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing, and added pars. (2) and (3).
+
+Subsec. (g)(9)(A). Pub. L. 109–364, §1074(a)(1), substituted “Subject to subparagraphs (B) and (C), an alien who has already been counted toward the numerical limitation of paragraph (1)(B) during fiscal year 2004, 2005, or 2006 shall not again be counted toward such limitation during fiscal year 2007” for “Subject to subparagraphs (B) and (C), an alien who has already been counted toward the numerical limitations of paragraph (1)(B) during any 1 of the 3 fiscal years prior to the fiscal year of the approved start date of a petition for a nonimmigrant worker described in section 1101(a)(15)(H)(ii)(b) of this title shall not be counted toward such limitation for the fiscal year in which the petition is approved”.
+
+Subsec. (g)(9)(B). Pub. L. 109–364, §1074(a)(2), substituted “to admit or otherwise provide status under section 1101(a)(15)(H)(ii)(b) of this title” for “referred to in subparagraph (A)” in introductory provisions.
 
 Subsec. (<i>l</i>)(2)(A). Pub. L. 109–162, §821(c)(2), substituted “1258(a)(2)” for “1258(2)”.
 
@@ -588,7 +634,7 @@ Subsec. (r)(4), (5). Pub. L. 109–162, §832(a)(2)(B), added pars. (4) and (5).
 
 Subsec. (c)(14). Pub. L. 109–13, §404(a), added par. (14).
 
-Subsec. (g)(9). Pub. L. 109–13, §402(a), (b)(1), temporarily added par. (9). See Effective and Termination Dates of 2005 Amendment note below.
+Subsec. (g)(9). Pub. L. 109–13, §402(a), added par. (9).
 
 Subsec. (g)(10). Pub. L. 109–13, §405, added par. (10).
 
@@ -626,7 +672,7 @@ Subsec. (c)(11). Pub. L. 108–77, §§107(c), 402(d)(1), temporarily added par.
 
 Subsec. (g)(8). Pub. L. 108–77, §§107(c), 402(a)(2)(B), temporarily added par. (8). See Effective and Termination Dates of 2003 Amendments note below.
 
-Subsec. (g)(8)(A). Pub. L. 108–78, §§107(c), 402(1), temporarily amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The agreement referred to in section 1101(a)(15)(H)(i)(b1) of this title is the United States-Chile Free Trade Agreement.” See Effective and Termination Dates of 2003 Amendments note below.
+Subsec. (g)(8)(A). Pub. L. 108–78, §§107(c), 402(1), temporarily amended subpar. (A) generally. Prior toamendment, subpar. (A) read as follows: “The agreement referred to in section 1101(a)(15)(H)(i)(b1) of this title is the United States-Chile Free Trade Agreement.” See Effective and Termination Dates of 2003 Amendments note below.
 
 Subsec. (g)(8)(B)(ii). Pub. L. 108–78, §§107(c), 402(2), temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “The annual numerical limitations described in clause (i) shall not exceed 1,400 for nationals of Chile for any fiscal year. For purposes of this clause, the term ‘national’ has the meaning given such term in article 14.9 of the United States-Chile Free Trade Agreement.” See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -678,7 +724,7 @@ Subsec. (k)(5). Pub. L. 107–45, §1(2), redesignated par. (5) as (4).
 
 2000—Subsec. (b). Pub. L. 106–553, §1(a)(2) \[title XI, §1102(d)(1)\], substituted “(H)(i), (L), or (V)” for “(H)(i) or (L)”.
 
-Subsec. (c)(9)(A). Pub. L. 106–311, §1(1), substituted “(excluding any employer that is a primary or secondary education institution, an institution of higher education, as defined in section 1001(a) of title 20, a nonprofit entity related to or affiliated with any such institution, a nonprofit entity which engages in established curriculum-related clinical training of studentsregistered at any such institution, a nonprofit research organization, or a governmental research organization) filing before October 1, 2003” for “(excluding an employer described in subparagraph (A) or (B) of section 1182(p)(1) of this title) filing (on or after December 1, 1998, and before October 1, 2001)”.
+Subsec. (c)(9)(A). Pub. L. 106–311, §1(1), substituted “(excluding any employer that is a primary or secondary education institution, an institution of higher education, as defined in section 1001(a) of title 20, a nonprofit entity related to or affiliated with any such institution, a nonprofit entity which engages in established curriculum-related clinical training of students registered at any such institution, a nonprofit research organization, or a governmental research organization) filing before October 1, 2003” for “(excluding an employer described in subparagraph (A) or (B) of section 1182(p)(1) of this title) filing (on or after December 1, 1998, and before October 1, 2001)”.
 
 Subsec. (c)(9)(B). Pub. L. 106–311, §1(2), substituted “$1,000” for “$500”.
 
@@ -810,7 +856,7 @@ Subsec. (c). Pub. L. 99–603, §301(b), as amended by Pub. L. 100–525, §2(<i
 
 Subsec. (d). Pub. L. 99–639, §3(a), substituted “have previously met in person within 2 years before the date of filing the petition, have a bona fide intention to marry,” for “have a bona fide intention to marry”, and inserted “, except that the Attorney General in his discretion may waive the requirement that the parties have previously met in person”.
 
-Pub. L. 99–639, §3(c), struck out last sentence which read: “In the event the marriage between the said alien and the petitioner shall occur within three months after the entry and they are found otherwise admissible, the Attorney General shall record the lawful admission for permanent residence of the alien and minor children as of the date of the payment of the required visa fees.”
+Pub. L. 99–639, §3(c), struck out last sentence which read: “In the event the marriage between the said alienand the petitioner shall occur within three months after the entry and they are found otherwise admissible, the Attorney General shall record the lawful admission for permanent residence of the alien and minor children as of the date of the payment of the required visa fees.”
 
 1984—Subsec. (a). Pub. L. 98–454 inserted “No alien admitted to Guam without a visa pursuant to section 1182(<i>l</i>) of this title may be authorized to enter or stay in the United States other than in Guam or to remain in Guam for a period exceeding fifteen days from date of admission to Guam.”
 
@@ -820,15 +866,17 @@ Subsec. (d). Pub. L. 91–225, §3(b), added subsec. (d).
 
 #### Effective Date of 2006 Amendment
 
+Pub. L. 109–364, div. A, title X, §1074(c), Oct. 17, 2006, 120 Stat. 2403, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall take effect on October 1, 2006. If this section is enacted after October 1, 2006, the amendments made by this section shall take effect as if enacted on such date.”
+
 Pub. L. 109–162, title VIII, §832(a)(3), Jan. 5, 2006, 119 Stat. 3068, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 5, 2006\].”
 
-#### Effective and Termination Dates of 2005 Amendment
+#### Effective Date of 2005 Amendment
 
-Pub. L. 109–13, div. B, title IV, §402(b), May 11, 2005, 119 Stat. 318, provided that:
+Pub. L. 109–13, div. B, title IV, §402(b), May 11, 2005, 119 Stat. 318, as amended by Pub. L. 109–364, div. A, title X, §1074(b), Oct. 17, 2006, 120 Stat. 2403, provided that:
 
 “(1)
 
-In general.—The amendment in subsection (a) \[amending this section\] shall take effect as if enacted on October 1, 2004, and shall expire on October 1, 2006.
+In general.—The amendment in subsection (a) \[amending this section\] shall take effect as if enacted on October 1, 2004.
 
 “(2)
 
@@ -876,7 +924,7 @@ Pub. L. 105–277, div. C, title IV, §411(b), Oct. 21, 1998, 112 Stat. 2681–6
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day ofthe first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by section 625(a)(1) of Pub. L. 104–208 applicable to individuals who obtain status of nonimmigrant under section 1101(a)(15)(F) of this title after end of 60-day period beginning Sept. 30, 1996, including aliens whose status as such a nonimmigrant is extended after end of such period, see section 625(c) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -884,7 +932,7 @@ Amendment by section 671(a)(3)(A) of Pub. L. 104–208 effective as if included 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–416 applicable to aliens admitted to United States under section 1101(a)(15)(J) of this title, or acquiring such status after admission to United States, before, on, or after Oct. 25, 1994, and before June 1, 2006, see section 220(c) of Pub. L. 103–416, as amended, set out as an Effective and Termination Dates of 1994 Amendments note under section 1182 of this title.
+Amendment by Pub. L. 103–416 applicable to aliens admitted to United States under section 1101(a)(15)(J) of this title, or acquiring such status after admission to United States, before, on, or after Oct. 25, 1994, and before June 1, 2008, see section 220(c) of Pub. L. 103–416, as amended, set out as an Effective and Termination Dates of 1994 Amendments note under section 1182 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -928,7 +976,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Limitation on Use of Certain Information
 
-Pub. L. 109–162, title VIII, §832(b), Jan. 5, 2006, 119 Stat. 3068, provided that: “The fact that an alien described in clause (i) or (ii) of section 101(a)(15)(K) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(K)) is aware of any information disclosed under the amendments made by this section \[amendingthis section\] or under section 833 \[enacting section 1375a of this title and repealing section 1375 of this title\] shall not be used to deny the alien eligibility for relief under any other provision of law.”
+Pub. L. 109–162, title VIII, §832(b), Jan. 5, 2006, 119 Stat. 3068, provided that: “The fact that an alien described in clause (i) or (ii) of section 101(a)(15)(K) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(K)) is aware of any information disclosed under the amendments made by this section \[amending this section\] or under section 833 \[enacting section 1375a of this title and repealing section 1375 of this title\] shall not be used to deny the alien eligibility for relief under any other provision of law.”
 
 #### Exemption From Administrative Procedure Act
 
@@ -1090,7 +1138,7 @@ Section 207(c) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III,
 
 &emsp;“(B) is authorized to be employed in any occupation for any other employer so long as there is no strike or lockout with respect to that occupation and employer.
 
-“(3) With respect to a nonimmigrant described in paragraph (1) or (2) who does not perform unauthorized employment, any limit on the period of authorized stay shall be extended by the period of the strike or lockout, except that any such extension may not continue beyond the maximum authorized period of stay.
+“(3) With respect to a nonimmigrant described in paragraph (1) or (2) who does not perform unauthorizedemployment, any limit on the period of authorized stay shall be extended by the period of the strike or lockout, except that any such extension may not continue beyond the maximum authorized period of stay.
 
 “(4) The provisions of this subsection shall take effect on the date of the enactment of this Act.”
 

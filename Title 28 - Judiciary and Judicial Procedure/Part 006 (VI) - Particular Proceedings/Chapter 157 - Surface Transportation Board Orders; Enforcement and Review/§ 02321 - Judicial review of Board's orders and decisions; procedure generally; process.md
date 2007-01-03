@@ -22,7 +22,7 @@ Changes were made in phraseology.
 
 #### 1949 Act
 
-This section corrects, in section 2321 of title 28, U.S.C., the reference to certain sections in title 49, U.S.C. The provisions which were formerly set out as section 49 of such title 49, are now set out as section 23 of such title.
+This section corrects, in section 2321 of title 28, U.S.C., the reference to certain sections in title 49,U.S.C. The provisions which were formerly set out as section 49 of such title 49, are now set out as section 23 of such title.
 
 #### Amendments
 

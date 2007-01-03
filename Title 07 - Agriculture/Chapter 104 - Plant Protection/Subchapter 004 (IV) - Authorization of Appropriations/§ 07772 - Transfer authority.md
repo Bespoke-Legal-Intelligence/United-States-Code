@@ -20,7 +20,7 @@ This Act, referred to in subsec. (c), probably should read “this title” mean
 
 #### Codification
 
-Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests were contained in section 129 of Title21, Food and Drugs, prior to its omission from the Code, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases were contained in section 129a of Title 21, prior to repeal by Pub. L. 107–171, title X, §10418(a)(1), May 13, 2002, 116 Stat. 507.
+Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests were contained in section 129 of Title 21, Food and Drugs, prior to its omission from the Code, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases were contained in section 129a of Title 21, prior to repeal by Pub. L. 107–171, title X, §10418(a)(1), May 13, 2002, 116 Stat. 507.
 
 #### Amendments
 

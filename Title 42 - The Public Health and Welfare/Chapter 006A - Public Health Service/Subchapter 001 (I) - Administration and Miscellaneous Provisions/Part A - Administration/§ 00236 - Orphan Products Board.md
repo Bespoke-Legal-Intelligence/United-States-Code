@@ -44,7 +44,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 &emsp;(3) containing the results of the evaluations carried out by the Board.
 
-> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual reportshall be submitted by June 1 of each year for the preceding calendar year.
+> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
 
 (July 1, 1944, ch. 373, title II, §227, as added Pub. L. 97–414, §3, Jan. 4, 1983, 96 Stat. 2051; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–321, title I, §163(b)(1), July 10, 1992, 106 Stat. 375; Pub. L. 102–531, title III, §312(d)(1), Oct. 27, 1992, 106 Stat. 3504.)
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, s
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 

@@ -62,7 +62,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 &emsp;(5) Assurances satisfactory to the Secretary that the applicant will coordinate the activities carried out pursuant to subsection (a) of this section with related activities and services carried out in the State by grantees under title V or XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\].
 
-&emsp;(6) Assurances satisfactory to the Secretary that Federal funds made available under such a grant for any period will be so used as to supplement and, to the extent practical, increase the level of State, local, and other non-Federal funds that would, in the absence of such Federal funds, be made available for the program for which the grant is to be made and will in no event supplant such State, local, and other non-Federal funds.
+&emsp;(6) Assurances satisfactory to the Secretary that Federal funds made available under such a grant for any period will be so used as to supplement and, to the extent practical, increase the level of State, local, and other non-Federal funds that would, in the absence ofsuch Federal funds, be made available for the program for which the grant is to be made and will in no event supplant such State, local, and other non-Federal funds.
 
 &emsp;(7) Assurances satisfactory to the Secretary that the applicant will ensure complete and consistent reporting of all blood lead test results from laboratories and health care providers to State and local health departments in accordance with guidelines of the Centers for Disease Control and Prevention for standardized reporting as described in subsection (m) of this section.
 
@@ -94,7 +94,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 &emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
-> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section ismade. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (h) Records
 

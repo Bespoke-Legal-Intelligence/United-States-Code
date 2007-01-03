@@ -20,13 +20,13 @@
 
 &emsp;&emsp;(E) The chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair) and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
 
-> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of theterm. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 #### (b) Purpose and authority of the Center
 
 #### (1) Purpose
 
-&emsp;The purpose of the Center is to establish, in accordance with the provisions of paragraph\(2), a program to enable emerging political leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.
+&emsp;The purpose of the Center is to establish, in accordance with the provisions of paragraph (2), a program to enable emerging political leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.
 
 #### (2) Grant program
 

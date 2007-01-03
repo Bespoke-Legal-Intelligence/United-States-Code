@@ -32,11 +32,15 @@ This subchapter, referred to in par. (1), was in the original “this title”, 
 
 Section 704 of title II of Pub. L. 91–513 provided that:
 
-“(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effectiveon the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
+“(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
 
 “(b) Parts A, B, E, and F of this title \[Parts A, B, E, and F of this subchapter\], section 702 \[set out as a note under section 321 of this title\], this section, and sections 705 through 709 \[sections 901 to 904 of this title and note set out below\], shall become effective upon enactment \[Oct. 27, 1970\].
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–177, title VII, §701, Mar. 9, 2006, 120 Stat. 256, provided that: “This title \[see Tables for classification\] may be cited as the ‘Combat Methamphetamine Epidemic Act of 2005’.”
 
 #### Short Title of 2005 Amendment
 
@@ -124,7 +128,7 @@ Pub. L. 95–633, §1, Nov. 10, 1978, 92 Stat. 3768, provided: “That this Act 
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: “That this Act \[amending sections 802, 823, 824, and 827 of this title\] may be cited as the ‘Narcotic Addict Treatment Act of 1974’.”
+Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: “That this Act \[amending sections 802, 823, 824, and 827of this title\] may be cited as the ‘Narcotic Addict Treatment Act of 1974’.”
 
 #### Short Title
 
@@ -140,7 +144,7 @@ Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, p
 
 #### Continuation of Orders, Rules, and Regulations
 
-Section 705 of title II of Pub. L. 91–513 provided that: “Any orders, rules, and regulations which have beenpromulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
+Section 705 of title II of Pub. L. 91–513 provided that: “Any orders, rules, and regulations which have been promulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
 
 #### Anti-Drug Messages on Federal Government Internet Sites
 
@@ -304,7 +308,7 @@ In General.—The Attorney General shall establish a ‘Suspicious Orders Task F
 
 “(b)
 
-Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious order which must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
+Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious order which must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as towhat types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
 
 “(c)
 
@@ -398,7 +402,7 @@ Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of Sta
 
 #### GAO Study of Capabilities of United States To Control Drug Smuggling Into United States
 
-Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
+Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the UnitedStates to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
 
 #### Compliance With Budget Act
 
@@ -554,7 +558,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 \[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
-“(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
+“(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, includingtraveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
 
 “(3) The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, such department or agency shall furnish such information to the Commission.
 
@@ -590,7 +594,7 @@ Ex. Ord. No. 11599, June 17, 1971, 36 F.R. 11793, which established the Special 
 
 #### Executive Order No. 11641
 
-Ex. Ord. No. 11641, Jan. 28, 1972, 37 F.R. 2421, which established the Office for Drug Abuse Law Enforcement,was revoked by Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, set out below.
+Ex. Ord. No. 11641, Jan. 28, 1972, 37 F.R. 2421, which established the Office for Drug Abuse Law Enforcement, was revoked by Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, set out below.
 
 #### Executive Order No. 11676
 

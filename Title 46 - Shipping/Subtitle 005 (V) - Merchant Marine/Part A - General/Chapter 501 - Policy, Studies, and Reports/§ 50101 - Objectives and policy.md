@@ -1,0 +1,52 @@
+### §50101. Objectives and policy
+
+(a)
+
+Objectives.—It is necessary for the national defense and the development of the domestic and foreign commerce of the United States that the United States have a merchant marine—
+
+&emsp;(1) sufficient to carry the waterborne domestic commerce and a substantial part of the waterborne export and import foreign commerce of the United States and to provide shipping service essential for maintaining the flow of the waterborne domestic and foreign commerce at all times;
+
+&emsp;(2) capable of serving as a naval and military auxiliary in time of war or national emergency;
+
+&emsp;(3) owned and operated as vessels of the United States by citizens of the United States;
+
+&emsp;(4) composed of the best-equipped, safest, and most suitable types of vessels and manned with a trained and efficient citizen personnel; and
+
+&emsp;(5) supplemented by efficient facilities for building and repairing vessels.
+
+(b)
+
+Policy.—It is the policy of the United States to encourage and aid the development and maintenance of a merchant marine satisfying the objectives described in subsection (a).
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1556.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+50101
+
+46 App.:861.
+
+June 5, 1920, ch. 250, §1, 41 Stat. 988; Exec. Order No. 6166, June 10, 1933, §12; June 29, 1936, ch. 858, title II, §204, title IX, §904, 49 Stat. 1987, 2016; Pub. L. 97–31, §12(33), Aug. 6, 1981, 95 Stat. 156.
+
+&nbsp;
+
+46 App.:891.
+
+May 22, 1928, ch. 675, §1, 45 Stat. 689.
+
+&nbsp;
+
+46 App.:1101.
+
+June 29, 1936, ch. 858, title I, §101, 49 Stat. 1985; Pub. L. 91–469, §1, Oct. 21, 1970, 84 Stat. 1018.
+
+This section consolidates the source provisions to eliminate repetition.
+

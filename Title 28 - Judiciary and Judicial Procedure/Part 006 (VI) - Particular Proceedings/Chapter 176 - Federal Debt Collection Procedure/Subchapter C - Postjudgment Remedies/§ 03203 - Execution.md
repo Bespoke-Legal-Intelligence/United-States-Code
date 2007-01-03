@@ -170,7 +170,7 @@ Rights and liabilities of purchasers.—
 
 Transfer of title after sale.—
 
-&emsp;&emsp;&emsp;(i) If property is sold under this subsection and the successful bidder complies with the terms of the sale, the United States marshal shall execute and deliver all documents necessary to transfer to the successful bidder, without warranty, all the rights, titles, interests, and claims of the judgment debtor in the property.
+&emsp;&emsp;&emsp;(i) If property is sold under this subsection and the successful bidder complies with the terms of the sale, the UnitedStates marshal shall execute and deliver all documents necessary to transfer to the successful bidder, without warranty, all the rights, titles, interests, and claims of the judgment debtor in the property.
 
 &emsp;&emsp;&emsp;(ii) If the successful bidder dies before execution and delivery of the documents needed to transfer ownership, the United States marshal shall execute and deliver them to the successful bidder's estate. Such delivery to the estate shall have the same effect as if accomplished during the lifetime of the purchaser.
 

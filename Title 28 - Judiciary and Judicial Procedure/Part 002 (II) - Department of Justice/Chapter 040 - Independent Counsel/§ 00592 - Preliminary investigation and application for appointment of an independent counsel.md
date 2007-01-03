@@ -72,7 +72,7 @@ Congressional Request.—
 
 &emsp;(1)
 
-By judiciary committee or members thereof.—The Committee on the Judiciary of either House of the Congress, or a majority of majority party members or a majority of all nonmajority party members of either such committee, may request in writing that theAttorney General apply for the appointment of an independent counsel.
+By judiciary committee or members thereof.—The Committee on the Judiciary of either House of the Congress, or a majority of majority party members or a majority of all nonmajority party members of either such committee, may request in writing that the Attorney General apply for the appointment of an independent counsel.
 
 &emsp;(2)
 
@@ -98,7 +98,7 @@ Disclosure of information.—Any report, notification, application, or other doc
 
 Subsec. (b)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(c), substituted “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated that no further investigation or prosecution is warranted” and substituted “independent counsel” for “special prosecutor”.
 
-Subsec. (c)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(d), substituted “finds reasonable grounds to believe that further investigation or prosecution is warranted” for “finds the matter warrants further investigation or prosecution” after “preliminary investigation”, “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated as not to warrant further investigation or prosecution”, and “independent counsel” for “special prosecutor”, and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
+Subsec. (c)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(d), substituted “finds reasonable grounds to believe that further investigation or prosecution is warranted” for “finds the matter warrants further investigation or prosecution” after “preliminary investigation”, “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated as not to warrant further investigation or prosecution”, and “independentcounsel” for “special prosecutor”, and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
 Subsec. (c)(2). Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in provisions following subpar. (B).
 

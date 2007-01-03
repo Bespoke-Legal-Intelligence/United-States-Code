@@ -220,7 +220,7 @@ Arizona, Nevada, California
 
 &emsp;(A) expire September 30, 2017;
 
-&emsp;(B) not restrict use to which the capacity and energy contracted for by the Metropolitan Water District of Southern California may be placed within the State of California: <i>Provided</i>,That to the extent practicable and consistent with sound water management and conservation practice, the Metropolitan Water District of Southern California shall use such capacity and energy to pump available Colorado River water prior to using such capacity and energy to pump California State water project water; and
+&emsp;(B) not restrict use to which the capacity and energy contracted for by the Metropolitan Water District of Southern California may be placed within the State of California: <i>Provided</i>, That to the extent practicable and consistent with sound water management and conservation practice, the Metropolitan Water District of Southern California shall use such capacity and energy to pump available Colorado River water prior to using such capacity and energy to pump California State water project water; and
 
 &emsp;(C) conform to the applicable provisions of subdivison <sup>1</sup> E of the Criteria, commencing at 48 Federal Register 20881, modified as provided in this section. To the extent that said provisions of the Criteria, as so modified, are applicable to contracts entered into under this section, those provisions are hereby ratified.
 
@@ -258,7 +258,7 @@ The provisions of this section constitute an exercise by the Congress of the rig
 
 #### (i) Congressional declaration of purpose
 
-It is the purpose of subsections (c), (g), and (h) of this section to ensure that the rights of contractors for capacity and energy from the Boulder Canyon project for the period beginningJune 1, 1987, and ending September 30, 2017, will vest with certainty and finality.
+It is the purpose of subsections (c), (g), and (h) of this section to ensure that the rights of contractors for capacity and energy from the Boulder Canyon project for the period beginning June 1, 1987, and ending September 30, 2017, will vest with certainty and finality.
 
 (Pub. L. 98–381, title I, §105, Aug. 17, 1984, 98 Stat. 1335; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

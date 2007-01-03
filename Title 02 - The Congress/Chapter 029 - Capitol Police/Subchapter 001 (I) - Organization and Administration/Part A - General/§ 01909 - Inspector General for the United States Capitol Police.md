@@ -20,7 +20,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (4) Salary
 
-&emsp;The Inspector General shall be paid at an annual rate equal to $1,000 less than the annualrate of pay in effect for the Chief of the Capitol Police.
+&emsp;The Inspector General shall be paid at an annual rate equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.
 
 #### (5) Deadline
 
@@ -58,7 +58,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (1) In general
 
-&emsp;The Inspector General may exercise the same authorities with respect to the United States Capitol Police as an Inspector General of an establishment may exercise with respect to an establishment under section 6(a) of the Inspector General Act of 1978, (5 U.S.C. App. 6(a)), other than paragraphs (7) and (8) of such section.
+&emsp;The Inspector General may exercise the same authorities with respect to the United States Capitol Police as an Inspector General of an establishment may exercise with respectto an establishment under section 6(a) of the Inspector General Act of 1978, (5 U.S.C. App. 6(a)), other than paragraphs (7) and (8) of such section.
 
 #### (2) Staff
 

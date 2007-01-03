@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(A) the appointment of a negotiated rulemaking committee under section 565(a) of such title by not later than 30 days after the end of the comment period provided for under section 564(c) of such title (as shortened under paragraph (4)), and
 
-&emsp;&emsp;(B) the nomination of a facilitator under section 566(c) of such title by not later than10 days after the date of appointment of the committee.
+&emsp;&emsp;(B) the nomination of a facilitator under section 566(c) of such title by not later than 10 days after the date of appointment of the committee.
 
 #### (6) Preliminary committee report
 

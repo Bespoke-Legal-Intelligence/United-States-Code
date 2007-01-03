@@ -14,7 +14,7 @@ Section 1 of Pub. L. 93–224 provided: “That this Act \[enacting this chapter
 
 #### Separability
 
-Section 19 of Pub. L. 93–224 provided that: “If any provision of this Act \[enacting this chapter and amending section 24 of this title\], or the application thereof toany person or circumstance, is held invalid, the validity of the remainder of the Act \[this chapter\], and the application of such provisions to other persons or circumstances, shall not be affected.”
+Section 19 of Pub. L. 93–224 provided that: “If any provision of this Act \[enacting this chapter and amending section 24 of this title\], or the application thereof to any person or circumstance, is held invalid, the validity of the remainder of the Act \[this chapter\], and the application of such provisions to other persons or circumstances, shall not be affected.”
 
 #### Executive Order No. 11782
 

@@ -22,7 +22,7 @@
 
 &emsp;(bb) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
-(IV) For purposes of this clause, the term “foreign defense article or defense service” includes any non-United States defense article or defense service of a nature described on the United States Munitions List regardless of whether such article or service is of United States originor whether such article or service contains United States origin components.
+(IV) For purposes of this clause, the term “foreign defense article or defense service” includes any non-United States defense article or defense service of a nature described on the United States Munitions List regardless of whether such article or service is of United States origin or whether such article or service contains United States origin components.
 
 (B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
 
@@ -50,11 +50,11 @@ Any person who willfully violates any provision of this section or section 2779 
 
 #### (e) Enforcement powers of President
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 App. U.S.C. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 App. U.S.C. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 App. U.S.C. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
+In carrying out functions under this section with respect to the export of defense articles and defense services, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 U.S.C. App. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
 
 #### (f) Periodic review of items on Munitions List; exemptions
 
-(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
+(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrantexport controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
 (2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) of this section or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
@@ -238,7 +238,7 @@ Section 104 of the Foreign Corrupt Practices Act (15 U.S.C. 78dd–2), referred 
 
 Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, referred to in subsec. (g)(1)(A)(xii), probably means sections 6903, 6904, 6905, and 6906, respectively, of Pub. L. 108–458, which enacted section 2332g of Title 18, Crimes and Criminal Procedure, amended sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacted sections 2332h and 175c of Title 18.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat.163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Reference to Section 1934 of This Title Deemed Reference to This Section
 
@@ -458,7 +458,7 @@ Classified and Unclassified Reports.—Each report required by this section shal
 
 Definition.—As used in this section, the term ‘countries and entities of concern’ means—
 
-&emsp;“(1) any country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\] or other applicable law, to have repeatedly provided support for acts of international terrorism;
+&emsp;“(1) any country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\] or other applicable law, to have repeatedly provided support for acts of international terrorism;
 
 &emsp;“(2) any country that—
 
@@ -496,7 +496,7 @@ Updating of State Department Report.—Not later than March 1, 2000, the Secreta
 
 #### “SEC. 1404. SECURITY IN CONNECTION WITH SATELLITE EXPORT LICENSING
 
-“As a condition of the export license for any satellite to be launched in a country subject to section 1514 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] (22 U.S.C. 2778 note), the Secretary of State shall require the following:
+“As a condition of the export license for any satellite to be launched in a country subject to section 1514 ofthe Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] (22 U.S.C. 2778 note), the Secretary of State shall require the following:
 
 &emsp;“(1) That the technology transfer control plan required by section 1514(a)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (22 U.S.C. 2778 note) be prepared by the Department of Defense and the licensee, and that the plan set forth enhanced security arrangements for the launch of the satellite, both before and during launch operations.
 
@@ -504,7 +504,7 @@ Updating of State Department Report.—Not later than March 1, 2000, the Secreta
 
 &emsp;&emsp;“(A) report directly to the launch monitor with regard to issues relevant to the technology transfer control plan;
 
-&emsp;&emsp;“(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note andamending provisions set out as a note under section 2404 of Title 50, Appendix, War and National Defense\] referred to as ‘ITAR’).
+&emsp;&emsp;“(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note and amending provisions set out as a note under section 2404 of Title 50, Appendix, War and National Defense\] referred to as ‘ITAR’).
 
 &emsp;&emsp;“(C) have significant experience and expertise with satellite launches; and
 
@@ -674,7 +674,7 @@ Definitions.—As used in this section:
 
 &emsp;“(2) The term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.”
 
-\[Memorandum of President of the United States, Jan. 5, 2000, 65 F.R. 2279, delegated to Secretary of Defense the duties and responsibilities of the President under section 1402 of Public Law 106–65 and directed Department of Defense to prepare the report required by section 1402 with the assistance of Department of State, Department of Commerce, Department of Energy, Department of the Treasury, Director of Central Intelligence, and Federal Bureau of Investigation and to obtain concurrence on the report from Department ofState, Department of Commerce, Director of Central Intelligence on behalf of Intelligence Community, Department of the Treasury, and Federal Bureau of Investigation prior to submission to Congress.\]
+\[Memorandum of President of the United States, Jan. 5, 2000, 65 F.R. 2279, delegated to Secretary of Defense the duties and responsibilities of the President under section 1402 of Public Law 106–65 and directed Department of Defense to prepare the report required by section 1402 with the assistance of Department of State, Department of Commerce, Department of Energy, Department of the Treasury, Director of Central Intelligence, and Federal Bureau of Investigation and to obtain concurrence on the report from Department of State, Department of Commerce, Director of Central Intelligence on behalf of Intelligence Community, Department of the Treasury, and Federal Bureau of Investigation prior to submission to Congress.\]
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
@@ -752,7 +752,7 @@ Actions by the President.—Notwithstanding any other provision of law, the Pres
 
 &emsp;“(1)
 
-Mandatory technology control plans.—All export licenses shall require a technology transfer control plan approved by the Secretary of Defense and an encryption technology transfer control plan approved by the Director of the National Security Agency.
+Mandatory technology control plans.—All export licenses shall require a technology transfer control plan approved by the Secretary of Defense and an encryption technology transfer control planapproved by the Director of the National Security Agency.
 
 &emsp;“(2)
 
@@ -840,7 +840,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;“(8) The impact of the proposed export on the transition of the People's Republic of China from a nonmarket economy to a market economy and the long-term economic benefit to the United States.
 
-&emsp;“(9) The impact of the proposed export on opening new markets to United States-made products through the purchase by the People's Republic of China of United States-made goods and services not directly related to the proposed export.
+&emsp;“(9) The impact of the proposed export on opening new markets to United States-made products through the purchase by the People's Republic of China ofUnited States-made goods and services not directly related to the proposed export.
 
 &emsp;“(10) The impact of the proposed export on reducing acts, policies, and practices that constitute significant trade barriers to United States exports or foreign direct investment in the People's Republic of China by United States nationals.
 
@@ -848,7 +848,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;“(12) The impact of the proposed export on the willingness of the People's Republic of China to modify its commercial and trade laws, practices, and regulations to make United States-made goods and services more accessible to that market.
 
-&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties,and other fees on United States-made goods and services entering that country.
+&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties, and other fees on United States-made goods and services entering that country.
 
 “(b)
 
@@ -992,7 +992,7 @@ Achieving the Purposes of the Regime.—
 
 &emsp;“(1)
 
-Controlling proliferation of conventional weapons.—In order to achieve the purposes described in subsection (b)(1), the United States should pursue the development of a multilateral arms transfer and control regime which includes—
+Controlling proliferation of conventional weapons.—In order to achieve the purposes describedin subsection (b)(1), the United States should pursue the development of a multilateral arms transfer and control regime which includes—
 
 &emsp;&emsp;“(A) greater information-sharing practices among supplier nations regarding potential arms sales to all nations of the Middle East and Persian Gulf region;
 
@@ -1092,27 +1092,27 @@ Annual Reports on Transfers and Regional Military Balance.—Beginning July 15, 
 
 \[Ex. Ord. No. 12851, §3, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegated to Secretary of State, in consultation with Secretary of Defense and other agencies, certification and reporting functions of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
 
-\[Memorandum of President of the United States, Dec. 27, 1991, 56 F.R. 1069, delegated to Secretary of State, in consultation with heads of other executive agencies and departments, certification and reporting obligations of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
+\[Memorandum of President of the United States, Dec. 27, 1991, 56 F.R. 1069, delegated to Secretary of State, inconsultation with heads of other executive agencies and departments, certification and reporting obligations of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
 
 #### Continuation of Export Control Regulations
 
-Section 3 of Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, set out as a note under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
+Section 3 of Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, listed in a table under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
 
-Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and otherforms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
+Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and other forms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
 
 Ex. Ord. No. 12924, §3, Aug. 19, 1994, 59 F.R. 43437, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 13206, §1, Apr. 4, 2001, 66 F.R. 18397.
 
 Ex. Ord. No. 12923, §3, June 30, 1994, 59 F.R. 34551, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12924, §4, Aug. 19, 1994, 59 F.R. 43438.
 
-Ex. Ord. No. 12867, §3, Sept. 30, 1993, 58 F.R. 51747, set out as a note under section 1701 of Title 50.
+Ex. Ord. No. 12867, §3, Sept. 30, 1993, 58 F.R. 51747, listed in a table under section 1701 of Title 50.
 
 Ex. Ord. No. 12730, §3, Sept. 30, 1990, 55 F.R. 40373, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12867, Sept. 30, 1993, 58 F.R. 51747.
 
-Ex. Ord. No. 12525, §3, July 12, 1985, 50 F.R. 28757, set out as a note under section 1701 of Title 50.
+Ex. Ord. No. 12525, §3, July 12, 1985, 50 F.R. 28757, listed in a table under section 1701 of Title 50.
 
 Ex. Ord. No. 12470, §3, Mar. 30, 1984, 49 F.R. 13099, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12525, July 12, 1985, 50 F.R. 28757.
 
-Ex. Ord. No. 12451, §3, Dec. 20, 1983, 48 F.R. 56563, set out as a note under section 1701 of Title 50.
+Ex. Ord. No. 12451, §3, Dec. 20, 1983, 48 F.R. 56563, listed in a table under section 1701 of Title 50.
 
 Ex. Ord. No. 12444, §3, Oct. 14, 1983, 48 F.R. 48215, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12451, Dec. 20, 1983, 48 F.R. 56563.
 

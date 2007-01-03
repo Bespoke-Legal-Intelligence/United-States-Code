@@ -64,7 +64,7 @@ Another section 2304a was renumbered section 2304e of this title.
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
 
 #### Provisions Not Affected by Pub. L. 103–355
 

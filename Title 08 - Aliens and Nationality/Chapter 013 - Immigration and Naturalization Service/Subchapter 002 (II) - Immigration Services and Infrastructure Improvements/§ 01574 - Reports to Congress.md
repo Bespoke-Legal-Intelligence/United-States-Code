@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(ii) the average processing time for naturalization applications;
 
-&emsp;&emsp;&emsp;(iii) the number of naturalization applications pending for up to 6 months, 12months, 18 months, 24 months, 36 months, and 48 months or more;
+&emsp;&emsp;&emsp;(iii) the number of naturalization applications pending for up to 6 months, 12 months, 18 months, 24 months, 36 months, and 48 months or more;
 
 &emsp;&emsp;&emsp;(iv) estimated processing times adjudicating newly submitted naturalization applications;
 

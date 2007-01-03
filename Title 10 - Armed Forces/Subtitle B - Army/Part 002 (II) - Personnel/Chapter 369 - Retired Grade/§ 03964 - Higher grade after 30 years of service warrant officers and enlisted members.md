@@ -10,7 +10,7 @@
 
 &emsp;(3) reserve enlisted members of the Army who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time National Guard duty).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 231; Pub. L. 85–861, §1(100), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 98–525, title V, §533(c), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 100–180, div. A, title V, §512(a), Dec. 4, 1987, 101 Stat. 1089.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 231; Pub. L. 85–861, §1(100), Sept. 2, 1958, 72 Stat. 1489; Pub. L.98–525, title V, §533(c), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 100–180, div. A, title V, §512(a), Dec. 4, 1987, 101 Stat. 1089.)
 
 Historical and Revision Notes<br>1956
 
@@ -54,7 +54,7 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 
 #### Amendments
 
-1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Army warrant officers; regular enlisted members” in section catchline and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Army, and each enlisted member of the Regular Army, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Army.”
+1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Army warrant officers; regular enlisted members” in section catchline and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Army, and each enlisted member of the Regular Army, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Army.”
 
 1984—Pub. L. 98–525 substituted “highest grade” for “highest temporary grade”.
 

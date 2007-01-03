@@ -74,7 +74,7 @@ Authority of President under subsec. (a)(1) of this section to maintain custody 
 
 #### Travel Documents
 
-Pub. L. 108–458, title VII, §7209, Dec. 17, 2004, 118 Stat. 3823, provided that:
+Pub. L. 108–458, title VII, §7209, Dec. 17, 2004, 118 Stat. 3823, as amended by Pub. L. 109–295, title V, §546, Oct. 4, 2006, 120 Stat. 1386, provided that:
 
 “(a)
 
@@ -92,7 +92,25 @@ Passports.—
 
 &emsp;“(1)
 
-Development of plan.—The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a plan as expeditiously as possible to require a passport or other document, or combination of documents, deemed by the Secretary of Homeland Security to be sufficient to denote identity and citizenship, for all travel into the United States by United States citizens and by categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(4)(B)). This plan shall be implemented not later than January 1, 2008, and shall seek to expedite the travel of frequent travelers, including those who reside in border communities, and in doing so, shall make readily available a registered traveler program (as described in section 7208(k) \[8 U.S.C. 1365b(k)\]).
+Development of plan and implementation.—
+
+&emsp;&emsp;“(A) The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a plan as expeditiously as possible to require a passport or other document, or combination of documents, deemed by the Secretary of Homeland Security to be sufficient to denote identity and citizenship, for all travel into the United States by United States citizens and by categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(4)(B)). This plan shall be implemented not later than three months after the Secretary of State and the Secretary of Homeland Security make the certifications required in subsection (B), or June 1, 2009, whichever is earlier. The plan shall seek to expedite the travel of frequent travelers, including those who reside in border communities, and in doing so, shall make readily available a registered traveler program (as described in section 7208(k) \[8 U.S.C. 1365b(k)\]).
+
+&emsp;&emsp;“(B) The Secretary of Homeland Security and the Secretary of State shall jointly certify to the Committees on Appropriations of the Senate and the House of Representatives that the following criteria have been met prior to implementation of section 7209(b)(1)(A)—
+
+&emsp;&emsp;&emsp;“(i) the National Institute of Standards and Technology certifies that the Departments of Homeland Security and State have selected a card architecture that meets or exceeds International Organization for Standardization (ISO) security standards and meets or exceeds best available practices for protection of personal identification documents: <i>Provided</i>, That the National Institute of Standards and Technology shall also assist the Departments of Homeland Security and State to incorporate into the architecture of the card the best available practices to prevent the unauthorized use of information on the card: <i>Provided further</i>, That to facilitate efficient cross-border travel, the Departments of Homeland Security and State shall, to the maximum extent possible, develop an architecture that is compatible with information technology systems and infrastructure used by United States Customs and Border Protection;
+
+&emsp;&emsp;&emsp;“(ii) the technology to be used by the United States for the passport card, and any subsequent change to that technology, has been shared with the governments of Canada and Mexico;
+
+&emsp;&emsp;&emsp;“(iii) an agreement has been reached with the United States Postal Service on the fee to be charged individuals for the passport card, and a detailed justification has been submitted to the Committees on Appropriations of the Senate and the House of Representatives;
+
+&emsp;&emsp;&emsp;“(iv) an alternative procedure has been developed for groups of children traveling across an international border under adult supervision with parental consent;
+
+&emsp;&emsp;&emsp;“(v) the necessary technological infrastructure to process the passport cards has been installed, and all employees at ports of entry have been properly trained in the use of the new technology;
+
+&emsp;&emsp;&emsp;“(vi) the passport card has been made available for the purpose of international travel by United States citizens through land and sea ports of entry between the United States and Canada, Mexico, the Caribbean and Bermuda; and
+
+&emsp;&emsp;&emsp;“(vii) a single implementation date for sea and land borders has been established.
 
 &emsp;“(2)
 

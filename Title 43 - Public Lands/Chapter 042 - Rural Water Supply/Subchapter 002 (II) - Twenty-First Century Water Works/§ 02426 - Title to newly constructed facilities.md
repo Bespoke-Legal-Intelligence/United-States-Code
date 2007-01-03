@@ -1,0 +1,18 @@
+### §2426. Title to newly constructed facilities
+
+#### (a) New projects and facilities
+
+All new projects or facilities constructed in accordance with this subchapter shall remain under the jurisdiction and control of the non-Federal borrower subject to the terms of the repayment agreement.
+
+#### (b) Existing projects and facilities
+
+Nothing in this subchapter affects the title of—
+
+&emsp;(1) reclamation projects authorized prior to December 22, 2006;
+
+&emsp;(2) works supplemental to existing reclamation projects; or
+
+&emsp;(3) works constructed to rehabilitate existing reclamation projects.
+
+(Pub. L. 109–451, title II, §207, Dec. 22, 2006, 120 Stat. 3360.)
+

@@ -16,7 +16,7 @@ After the establishment of the Federal Fund, a guaranty agency shall deposit int
 
 &emsp;(2) from amounts collected on behalf of the obligation of a defaulted borrower, a percentage amount equal to the complement of the reinsurance percentage in effect when payment under the guaranty agreement was made—
 
-&emsp;&emsp;(A) with respect to the defaulted loan pursuant to sections 1078(c)(6)(A) and 1078–6(a)(1)(B) of this title; and
+&emsp;&emsp;(A) with respect to the defaulted loan pursuant to sections 1078(c)(6)(A) <sup>1</sup> and 1078–6(a)(1)(B) of this title; and
 
 &emsp;&emsp;(B) with respect to a loan that the Secretary has repaid or discharged under section 1087 of this title;
 
@@ -102,7 +102,13 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 (Pub. L. 89–329, title IV, §422A, as added Pub. L. 105–244, title IV, §413(a), Oct. 7, 1998, 112 Stat. 1674.)
 
+#### References in Text
+
+Section 1078(c)(6)(A) of this title, referred to in subsec. (c)(2)(A), was redesignated section 1078(c)(6)(A)(i) of this title by Pub. L. 109–171, title VIII, §8014(d)(3)(A), (B), Feb. 8, 2006, 120 Stat. 170.
+
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

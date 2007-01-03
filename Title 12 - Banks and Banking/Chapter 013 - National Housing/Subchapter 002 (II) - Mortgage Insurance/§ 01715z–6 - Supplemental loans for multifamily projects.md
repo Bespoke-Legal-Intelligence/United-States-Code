@@ -8,7 +8,7 @@ With respect to a multifamily project, hospital, or group practice facility cove
 
 To be eligible for insurance under this section, a supplemental loan shall—
 
-&emsp;(1) be limited to 90 per centum of the amount which the Secretary estimates will be the value of such improvements, additions, and equipment, except that such amount when added to the outstanding balance of the mortgage covering the project or facility, shall not exceed the maximum mortgage amount insurable under the section or subchapter pursuantto which the mortgage covering such project or facility is insured or an amount acceptable to the Secretary;
+&emsp;(1) be limited to 90 per centum of the amount which the Secretary estimates will be the value of such improvements, additions, and equipment, except that such amount when added to the outstanding balance of the mortgage covering the project or facility, shall not exceed the maximum mortgage amount insurable under the section or subchapter pursuant to which the mortgage covering such project or facility is insured or an amount acceptable to the Secretary;
 
 &emsp;(2) have a maturity satisfactory to the Secretary;
 
@@ -34,7 +34,7 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (2) Notwithstanding the provisions of subsection (b) of this section, a loan insured under this subsection shall—
 
-&emsp;(A) not exceed an amount which the Secretary determines is necessary for the purchase and installation of individual utility meters plus an amount which the Secretary deems appropriate taking into account amounts which will be saved in operation costs over the period of repayment of the loan by reducing the energy requirements of the project as a result of the installation of energy conserving improvements or a solar energy system therein;
+&emsp;(A) not exceed an amount which the Secretary determines is necessary for the purchase and installation of individual utility meters plus an amount which the Secretarydeems appropriate taking into account amounts which will be saved in operation costs over the period of repayment of the loan by reducing the energy requirements of the project as a result of the installation of energy conserving improvements or a solar energy system therein;
 
 &emsp;(B) be insured for 90 percent of any loss incurred by the person holding the note for the loan; except that, for cooperative multifamily projects receiving assistance under section 1715z–1 of this title or financed with a below market interest rate mortgage insured under section 1715<i>l</i>(d)(3) of this title, 100 percent of any such loss may be insured;
 
@@ -52,7 +52,7 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (3) The provisions of subsection (c) of this section shall apply to loans insured under this subsection.
 
-(4) The Secretary shall provide that any person obligated on the note for any loan insuredunder this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
+(4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
 
 #### (f) Repealed. Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885
 
@@ -92,7 +92,7 @@ Subsec. (f)(7) to (9). Pub. L. 102–550, §316(a)(5), redesignated pars. (7) to
 
 Subsec. (f)(10). Pub. L. 102–550, §316(b), added par. (10).
 
-1990—Subsec. (f). Pub. L. 101–625 amended subsec. (f) generally, substituting present provisions for provisions relating to insurance of “equity loans” under the Emergency Low Income Housing Preservation Act of 1987, providing for eligibility for such insurance, providing that a qualified nonprofit organization or limited equity tenant cooperative corporation may constitute an owner of housing for purposes of receiving an insured loan, providing for applicability of certain provisions of section 1713 of this title, and providing that an approved mortgagee may not withhold consent to an equity loan on property on which mortgagee holds a mortgage.
+1990—Subsec. (f). Pub. L. 101–625 amended subsec. (f) generally, substituting present provisions for provisions relating to insurance of “equity loans” under the Emergency Low Income Housing Preservation Act of 1987, providing for eligibility for such insurance, providing that a qualified nonprofit organization or limited equity tenant cooperative corporation may constitute an owner of housing for purposes of receiving an insured loan, providing for applicability of certain provisions of section 1713 of this title, and providing thatan approved mortgagee may not withhold consent to an equity loan on property on which mortgagee holds a mortgage.
 
 1989—Subsec. (f)(2). Pub. L. 101–235, §203(c)(1), inserted at end “When underwriting an equity loan under this subsection, the Secretary may assume that the rental assistance provided in accordance with an approved plan of action under section 225(b) of the Emergency Low Income Housing Preservation Act of 1987 will be extended for the full term of the contract entered into under section 225(c) of that Act. The Secretary may accelerate repayment of a loan under this section in the event rental assistance is not extended under section 225(c) of that Act or the Secretary is unable to develop a revised package of incentives to the owner comparable to those received under the original approved plan of action.”
 

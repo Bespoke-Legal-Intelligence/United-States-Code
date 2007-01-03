@@ -30,7 +30,7 @@ Subsec. (b)(2)(D). Pub. L. 98–573, §249(1)(B)–(D), added subpar. (D).
 
 Subsec. (b)(7). Pub. L. 98–573, §249(2), added par. (7).
 
-1979—Subsec. (b)(6). Pub. L. 96–39 substituted “subtitles A and B of title VII or section 337 of the Tariff Act of 1930” for “the Antidumping Act, 1921, section 303 or 337 of the Tariff Act of 1930”.
+1979—Subsec. (b)(6). Pub. L. 96–39 substituted “subtitles A and B of title VII or section 337 of the TariffAct of 1930” for “the Antidumping Act, 1921, section 303 or 337 of the Tariff Act of 1930”.
 
 #### Effective Date of 1988 Amendment
 

@@ -4,7 +4,3 @@ Nothing in this chapter shall be deemed to convey to any person immunity from ci
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3027.)
 
-#### References in Text
-
-The antitrust laws, referred to in text, are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
-

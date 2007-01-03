@@ -46,7 +46,7 @@ Prior similar provisions were contained in sections 211 and 215 of act July 30, 
 
 1995—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which related to surveys, and their corresponding reports and recommendations, for the determination of factors tending to injure small businesses.
 
-1990—Subsec. (d). Pub. L. 101–574 substituted “the Department of Defense shall make an annual report to theCommittees on Small Business of the Senate and the House of Representatives” for “the Department of Defense shall make a monthly report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives not less than 45 \[“forty-five” in original text\] days after the close of the month”, “small business concerns” for “small-business concerns”, and “such reports” for “such monthly reports”.
+1990—Subsec. (d). Pub. L. 101–574 substituted “the Department of Defense shall make an annual report to the Committees on Small Business of the Senate and the House of Representatives” for “the Department of Defense shall make a monthly report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives not less than 45 \[“forty-five” in original text\] days after the close of the month”, “small business concerns” for “small-business concerns”, and “such reports” for “such monthly reports”.
 
 1989—Subsec. (e)(2). Pub. L. 101–37 substituted “, of the disposition of the request” for “of the disposition of the matter”.
 
@@ -112,7 +112,7 @@ Ex. Ord. No. 11518, Mar. 20, 1970, 35 F.R. 4939, provided:
 
 WHEREAS the policy of the Government of the United States is to insure the continuance of a strong and healthy free enterprise system; and
 
-WHEREAS the existence of a strong and healthy free enterprise system is directly related to the well being and competitive strength of small business concerns and their opportunities for free entry into business, growth, and expansion; and
+WHEREAS the existence of a strong and healthy free enterprise system is directly related to the well being and competitive strength of small business concernsand their opportunities for free entry into business, growth, and expansion; and
 
 WHEREAS the departments and agencies of the United States Government exercise, through their regulatory and other programs and practices, a significant influence on the well being and competitive strength of business concerns, particularly minority-owned business concerns, and their opportunities for free entry into business, growth and expansion; and
 

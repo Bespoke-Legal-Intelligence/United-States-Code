@@ -4,10 +4,6 @@
 
 This subchapter provides for the standard regulatory measurement of vessels for vessels that do not qualify for the simplified measurement systems.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 14504, 14521, 14522 of this title.
-
 
 ---
 

@@ -14,7 +14,7 @@
 
 #### (2) Matching contribution
 
-&emsp;A statewide telecommunications network assisted under paragraph (1) shall contribute, either directly or through private contributions, non-Federal funds equal to not less than 50 percent of the cost of such network.
+&emsp;A statewide telecommunications network assisted under paragraph (1) shall contribute,either directly or through private contributions, non-Federal funds equal to not less than 50 percent of the cost of such network.
 
 #### (b) Special local network
 
@@ -38,7 +38,7 @@
 
 #### (3) Matching requirement
 
-&emsp;A local educational agency or consortium receiving a grant under paragraph (1) shallprovide, either directly or through private contributions, non-Federal matching funds equal to not less than 50 percent of the amount of the grant.
+&emsp;A local educational agency or consortium receiving a grant under paragraph (1) shall provide, either directly or through private contributions, non-Federal matching funds equal to not less than 50 percent of the amount of the grant.
 
 #### (c) Telecommunications programs for continuing education
 

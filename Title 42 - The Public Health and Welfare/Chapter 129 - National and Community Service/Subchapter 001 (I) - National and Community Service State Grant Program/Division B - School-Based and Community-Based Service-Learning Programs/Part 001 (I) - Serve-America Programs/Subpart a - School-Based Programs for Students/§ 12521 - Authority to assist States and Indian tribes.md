@@ -26,7 +26,7 @@ The Corporation, in consultation with the Secretary of Education, may make grant
 
 &emsp;&emsp;&emsp;&emsp;(I) has a demonstrated expertise in the provision of services to meet unmet human, educational, environmental, or public safety needs;
 
-&emsp;&emsp;&emsp;&emsp;(II) was in existence at least 1 year before the date on which the organization submitted an application under section 12526 of this title; and
+&emsp;&emsp;&emsp;&emsp;(II) was in existence at least 1 year before the date on which the organizationsubmitted an application under section 12526 of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(III) will make projects available for participants, who shall be students; and
 

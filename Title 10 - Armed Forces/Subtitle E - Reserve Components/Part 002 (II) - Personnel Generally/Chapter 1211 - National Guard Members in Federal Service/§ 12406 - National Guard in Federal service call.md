@@ -10,7 +10,7 @@ Whenever—
 
 > the President may call into Federal service members and units of the National Guard of any State in such numbers as he considers necessary to repel the invasion, suppress the rebellion, or execute those laws. Orders for these purposes shall be issued through the governors of the States or, in the case of the District of Columbia, through the commanding general of the National Guard of the District of Columbia.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amendedPub. L. 109–163, div. A, title X, §1057(a)(5), Jan. 6, 2006, 119 Stat. 3440.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 109–163, div. A, title X, §1057(a)(5), Jan. 6, 2006, 119 Stat. 3440.)
 
 #### Prior Provisions
 

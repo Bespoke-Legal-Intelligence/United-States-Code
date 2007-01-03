@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 108–203, §211(a)(3), added subsec. (c). See Codification
 
 1960—Subsec. (a). Pub. L. 86–778 changed provisions which required an individual to have one quarter of coverage for each two quarters to provide that an individual is fully insured if he has not less than one quarter of coverage for each three quarters elapsing after Dec. 31, 1950, or, if later, December 31 of the year in which he attained the age of 21 years, and inserted provisions defining fully insured in the case of an individual who died prior to 1951 as one who had six quarters of coverage.
 
-1958—Subsec. (b). Pub. L. 85–840 included within definition of “currently insured individual” an individual entitled to disability insurance benefits who has notless than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
+1958—Subsec. (b). Pub. L. 85–840 included within definition of “currently insured individual” an individual entitled to disability insurance benefits who has not less than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
 
 1956—Subsec. (a)(3). Act Aug. 1, 1956, provided that an individual who had at least six quarters of coverage after 1954 would be fully insured if all but four of the quarters elapsing after 1954 and prior to July 1, 1957, or if later, the quarter in which he attained retirement age or died, whichever first occurred, are quarters of coverage.
 
@@ -114,7 +114,7 @@ Pub. L. 98–21, title I, §102(e), Apr. 20, 1983, 97 Stat. 71, as amended by Pu
 
 “(1) If any individual—
 
-&emsp;“(A) on January 1, 1984, is age 55 or over, and is an employee of an organization described in section 210(a)(8)(B) of the Social Security Act \[42 U.S.C. 410(a)(8)(B)\] (A) which does not have in effect (on that date) a waiver certificate under section 3121(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(k)\] and (B) to the employees of which social security coverage is extended on January 1, 1984, solely by reason of the enactment of this section\[amending section 410 of this title and section 3121 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 3121 of Title 26\], and
+&emsp;“(A) on January 1, 1984, is age 55 or over, and is an employee of an organization described in section 210(a)(8)(B) of the Social Security Act \[42 U.S.C. 410(a)(8)(B)\] (A) which does not have in effect (on that date) a waiver certificate under section 3121(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(k)\] and (B) to the employees of which social security coverage is extended on January 1, 1984, solely by reason of the enactment of this section \[amending section 410 of this title and section 3121 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 3121 of Title 26\], and
 
 &emsp;“(B) after December 31, 1983, acquires the number of quarters of coverage (within the meaning of section 213 of the Social Security Act \[section 413 of this title\]) which is required for purposes of this subparagraph under paragraph (2),
 

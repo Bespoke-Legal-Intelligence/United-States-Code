@@ -1,8 +1,8 @@
 ### §2347. Limitation on amounts that may be obligated or accrued by the United States
 
-(a)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $200,000,000 in any fiscal year, and of such amount not more than $50,000,000 in liabilities may be accrued for the acquisition of supplies (other than petroleum, oils, and lubricants).
+(a)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regionalinternational organization of which the United States is a member may not exceed $200,000,000 in any fiscal year, and of such amount not more than $50,000,000 in liabilities may be accrued for the acquisition of supplies.
 
-(2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements, may not exceed $60,000,000 in any fiscal year, and of such amount not more than $20,000,000 in liabilities may be accrued for the acquisition of supplies (other than petroleum, oils, and lubricants). The $60,000,000 limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
+(2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements, may not exceed $60,000,000 in any fiscal year, and of such amount not more than $20,000,000 in liabilities may be accrued for the acquisition of supplies. The $60,000,000 limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 
 (b)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $150,000,000 in any fiscal year.
 
@@ -10,9 +10,15 @@
 
 (c) When the armed forces are involved in a contingency operation or in a non-combat operation (including an operation in support of the provision of humanitarian or foreign disaster assistance or in support of peacekeeping operations under chapter VI or VII of the Charter of the United Nations), the restrictions in subsections (a) and (b) are waived for the purposes and duration of that operation.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2327; renumbered §2347, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(d), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, §1001, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–484, div. A, title XIII, §1312(b), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–35, title II, §202(a)(10), May 31, 1993, 107 Stat. 101; Pub. L. 103–337, div. A, title XIII, §1317(g), Oct. 5, 1994, 108 Stat. 2901.)
+(d) The amount of any sale, purchase, or exchange of petroleum, oils, or lubricants by the United States under this subchapter in any fiscal year shall be excluded in any computation for the purposes of subsection (a) or (b) of the amount of reimbursable liabilities or reimbursable credits that the United States accrues under this subchapter in that fiscal year.
+
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2327; renumbered §2347, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(d), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, §1001, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–484, div. A, title XIII, §1312(b), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–35, title II, §202(a)(10), May 31, 1993, 107 Stat. 101; Pub. L. 103–337, div. A, title XIII, §1317(g), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 109–364, div. A, title XII, §1221(a), Oct. 17, 2006, 120 Stat. 2423.)
 
 #### Amendments
+
+2006—Subsec. (a)(1), (2). Pub. L. 109–364, §1221(a)(1), struck out “(other than petroleum, oils, and lubricants)” after “supplies”.
+
+Subsec. (d). Pub. L. 109–364, §1221(a)(2), added subsec. (d).
 
 1994—Subsec. (a)(1). Pub. L. 103–337, §1317(g)(1), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$200,000,000” for “$150,000,000” and “$50,000,000” for “$25,000,000”.
 
@@ -45,6 +51,10 @@ Pub. L. 102–484, §1312(b)(4)(B), as amended by Pub. L. 103–35, substituted 
 Subsec. (b). Pub. L. 99–661, §1104(d)(2), designated existing provisions as par. (1) and added par. (2).
 
 1985—Pub. L. 99–145 renumbered section 2327 of this title as this section.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title XII, §1221(b), Oct. 17, 2006, 120 Stat. 2423, provided that: “The amendments madeby subsection (a) \[amending this section\] shall take effect beginning with fiscal year 2007.”
 
 #### Effective Date of 1994 Amendment
 

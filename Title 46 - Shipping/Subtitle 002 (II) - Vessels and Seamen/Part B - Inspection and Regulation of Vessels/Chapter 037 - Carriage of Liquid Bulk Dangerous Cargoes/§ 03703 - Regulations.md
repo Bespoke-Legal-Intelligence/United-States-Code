@@ -68,7 +68,7 @@ Coordination of study.—The Secretary of Transportation shall coordinate with t
 
 Matters to be included.—The study under this subsection shall include a review and analysis of—
 
-&emsp;&emsp;“(A) the specific risks posed to the public health or welfare of the United States, including fish, shellfish and wildlife, public and private property, shorelines, beaches, habitat, and other natural resources under the jurisdiction or control of the United States, as a result of an actual or threatened discharge of group-5 fuel oil from a vessel or facility;
+&emsp;&emsp;“(A) the specific risks posed to the public health or welfare of the United States, including fish,shellfish and wildlife, public and private property, shorelines, beaches, habitat, and other natural resources under the jurisdiction or control of the United States, as a result of an actual or threatened discharge of group-5 fuel oil from a vessel or facility;
 
 &emsp;&emsp;“(B) cleanup technologies currently available to address actual or threatened discharge of group-5 fuel oil; and
 
@@ -80,7 +80,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 &emsp;“(5)
 
-Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oilfrom a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
 
 “(b)
 
@@ -140,25 +140,25 @@ Pub. L. 101–380, title IV, §4109, Aug. 18, 1990, 104 Stat. 515, provided that
 
 &emsp;“(1) establishing minimum standards for plating thickness; and
 
-&emsp;“(2) requiring, consistent with generally recognized principles of international law, periodic gauging of the plating thickness of all such vessels over 30 years old operating on the navigable waters or the waters of the exclusive economic zone.”
+&emsp;“(2) requiring, consistent with generally recognized principles of international law, periodic gauging of the plating thickness of all such vessels over 30 yearsold operating on the navigable waters or the waters of the exclusive economic zone.”
 
 #### Regulations Requiring Use of Overfill and Tank Level or Monitoring Devices on Oil Carrying Commercial Vessels
 
-Pub. L. 101–380, title IV, §4110, Aug. 18, 1990, 104 Stat. 515, provided that:
+Pub. L. 101–380, title IV, §4110, Aug. 18, 1990, 104 Stat. 515, as amended by Pub. L. 108–293, title VII, §702(a), Aug. 9, 2004, 118 Stat. 1068, provided that:
 
 “(a)
 
-Standards.—Not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary shall establish, by regulation, minimum standards for devices for warning persons of overfills and tank levels of oil in cargo tanks and devices for monitoring the pressure of oil cargo tanks.
+Standards.—The Secretary may establish, by regulation, minimum standards for devices for warning persons of overfills and tank levels of oil in cargo tanks and devices for monitoring the pressure of oil cargo tanks.
 
 “(b)
 
-Use.—Not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary shall issue regulations establishing, consistent with generally recognized principles of international law, requirements concerning the use of—
+Use.—No sooner than 1 year after the Secretary prescribes regulations under subsection (a), the Secretary may issue regulations establishing, consistent with generally recognized principles of international law, requirements concerning the use of—
 
 &emsp;“(1) overfill devices, and
 
 &emsp;“(2) tank level or pressure monitoring devices,
 
-> which are referred to in subsection (a) and which meet the standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue onthe navigable waters and the waters of the exclusive economic zone.”
+> which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone.”
 
 #### Tanker Navigation Safety Standards Study
 
@@ -179,8 +179,4 @@ Escorts for Certain Tankers.—Not later than 6 months after the date of the ena
 “(d)
 
 Tanker Defined.—In this section \[amending section 8502 of this title\] the term ‘tanker’ has the same meaning the term has in section 2101 of title 46, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7511b.
 

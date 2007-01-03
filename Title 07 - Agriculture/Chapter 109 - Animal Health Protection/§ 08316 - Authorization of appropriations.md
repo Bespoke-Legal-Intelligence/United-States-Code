@@ -24,7 +24,7 @@ In carrying out this chapter, the Secretary may use funds made available to carr
 
 &emsp;(1) the employment of civilian nationals in foreign countries; and
 
-&emsp;(2) the construction and operation of research laboratories, quarantine stations, and other buildings and facilities for special purposes.
+&emsp;(2) the construction and operation of research laboratories, quarantine stations, andother buildings and facilities for special purposes.
 
 (Pub. L. 107–171, title X, §10417, May 13, 2002, 116 Stat. 507.)
 

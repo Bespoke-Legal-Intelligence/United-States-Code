@@ -6,7 +6,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 (b) If the injured employee shall not have worked in such employment during substantially the whole of such year, his average annual earnings, if a six-day worker, shall consist of three hundred times the average daily wage or salary, and, if a five-day worker, two hundred and sixty times the average daily wage or salary, which an employee of the same class working substantially the whole of such immediately preceding year in the same or in similar employment in the same or a neighboring place shall have earned in such employment during the days when so employed.
 
-(c) If either of the foregoing methods of arriving at the average annual earnings of the injured employee cannot reasonably and fairly beapplied, such average annual earnings shall be such sum as, having regard to the previous earnings of the injured employee in the employment in which he was working at the time of the injury, and of other employees of the same or most similar class working in the same or most similar employment in the same or neighboring locality, or other employment of such employee, including the reasonable value of the services of the employee if engaged in self-employment, shall reasonably represent the annual earning capacity of the injured employee.
+(c) If either of the foregoing methods of arriving at the average annual earnings of the injured employee cannot reasonably and fairly be applied, such average annual earnings shall be such sum as, having regard to the previous earnings of the injured employee in the employment in which he was working at the time of the injury, and of other employees of the same or most similar class working in the same or most similar employment in the same or neighboring locality, or other employment of such employee, including the reasonable value of the services of the employee if engaged in self-employment, shall reasonably represent the annual earning capacity of the injured employee.
 
 (d)(1) The average weekly wages of an employee shall be one fifty-second part of his average annual earnings.
 
@@ -54,7 +54,7 @@ Subsec. (c). Act June 24, 1948, permitted the inclusion of all earnings of the i
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 10(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect toclaims filed after such date and to claims pending on such date, and amendment by section 10(b) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 10(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, and amendment by section 10(b) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

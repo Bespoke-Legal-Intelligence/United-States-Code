@@ -60,7 +60,7 @@ The Secretary shall establish a rural electronic commerce extension program to e
 
 &emsp;&emsp;(C) in the case of a land-grant college or university, the extent of participation of the land-grant college or university in the extension program (including any economic benefits that would result from that participation);
 
-&emsp;&emsp;(D) the percentage of funding and in-kind commitments from non-Federal sources that would be needed by and available for a proposed project or activity under the extension program; and
+&emsp;&emsp;(D) the percentage of funding and in-kind commitments from non-Federal sources thatwould be needed by and available for a proposed project or activity under the extension program; and
 
 &emsp;&emsp;(E) the extent of participation of low-income and minority businesses or microenterprises in a proposed project or activity under the extension program.
 

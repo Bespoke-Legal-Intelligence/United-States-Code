@@ -12,7 +12,7 @@ General.—(1) The National Transportation Safety Board shall investigate or hav
 
 &emsp;(D) a pipeline accident in which there is a fatality, substantial property damage, or significant injury to the environment;
 
-&emsp;(E) a major marine casualty (except a casualty involving only public vessels) occurring on the navigable waters or territorial sea of the United States, or involving a vessel of the United States, under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
+&emsp;(E) a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988, or involving a vessel of the United States (as defined in section 2101(46) <sup>1</sup> of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
 
 &emsp;(F) any other accident related to the transportation of individuals or property when the Board decides—
 
@@ -24,7 +24,7 @@ General.—(1) The National Transportation Safety Board shall investigate or hav
 
 (2)(A) Subject to the requirements of this paragraph, an investigation by the Board under paragraph (1)(A)–(D) or (F) of this subsection has priority over any investigation by another department, agency, or instrumentality of the United States Government. The Board shall provide for appropriate participation by other departments, agencies, or instrumentalities in the investigation. However, those departments, agencies, or instrumentalities may not participate in the decision of the Board about the probable cause of the accident.
 
-(B) If the Attorney General, in consultation with the Chairman of the Board, determines and notifies the Board that circumstances reasonably indicate that the accident may have been caused by an intentional criminal act, the Board shall relinquish investigative priority to theFederal Bureau of Investigation. The relinquishment of investigative priority by the Board shall not otherwise affect the authority of the Board to continue its investigation under this section.
+(B) If the Attorney General, in consultation with the Chairman of the Board, determines and notifies the Board that circumstances reasonably indicate that the accident may have been caused by an intentional criminal act, the Board shall relinquish investigative priority to the Federal Bureau of Investigation. The relinquishment of investigative priority by the Board shall not otherwise affect the authority of the Board to continue its investigation under this section.
 
 (C) If a Federal law enforcement agency suspects and notifies the Board that an accident being investigated by the Board under subparagraph (A), (B), (C), or (D) of paragraph (1) may have been caused by an intentional criminal act, the Board, in consultation with the law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
@@ -38,7 +38,7 @@ Accidents Involving Public Vessels.—(1) The Board or the head of the departmen
 
 (c)
 
-Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked by the Board, the Secretary of Transportation may—
+Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked by the Board, the Secretary of Transportation or the Secretary of the department in which the Coast Guard is operating may—
 
 &emsp;(A) investigate an accident described under subsection (a) or (b) of this section in which misfeasance or nonfeasance by the Government has not been alleged; and
 
@@ -54,7 +54,7 @@ Accidents Involving Public Aircraft.—The Board, in furtherance of its investig
 
 Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886; Pub. L. 108–168, §7, Dec. 6, 2003, 117 Stat. 2034.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886; Pub. L. 108–168, §7, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §9(b), (c), Dec. 21, 2006, 120 Stat. 3301.)
 
 Historical and Revision Notes
 
@@ -144,7 +144,15 @@ In subsection (d), the words “in writing” in 49 App.:1903(a)(2) are omitted 
 
 Section 40102(a)(37) of this title, referred to in subsec. (a)(1)(A), was redesignated section 40102(a)(41) by Pub. L. 108–176, title II, §225(a)(3), Dec. 12, 2003, 117 Stat. 2528.
 
+Presidential Proclamation No. 5928, referred to in subsec. (a)(1)(E), is set out as a note under section 1331 of Title 43, Public Lands.
+
+Section 2101(46) of title 46, referred to in subsec. (a)(1)(E), was repealed and reenacted as section 116 of title 46 by Pub. L. 109–304, §§4, 15(2)(A), Oct. 6, 2006, 120 Stat. 1486, 1702.
+
 #### Amendments
+
+2006—Subsec. (a)(1)(E). Pub. L. 109–443, §9(b), substituted “on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988,” for “on the navigable waters or territorial sea of the United States,” and inserted “(as defined in section 2101(46) of title 46)” after “vessel of the United States”.
+
+Subsec. (c)(1). Pub. L. 109–443, §9(c), inserted “or the Secretary of the department in which the Coast Guard is operating” after “Transportation” in introductory provisions.
 
 2003—Subsec. (a)(2)(B), (C). Pub. L. 108–168 realigned margins.
 
@@ -154,7 +162,7 @@ Subsec. (d). Pub. L. 106–424, §7, substituted “1134(a), (b), (d), and (f)�
 
 1994—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end “or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States”.
 
-Subsec. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 1994 Amendment
 
@@ -177,10 +185,6 @@ Pub. L. 106–424, §8, Nov. 1, 2000, 114 Stat. 1886, provided that: “Not late
 &emsp;“(1) to redefine or clarify the standards used to determine when the National Transportation Safety Board will lead an investigation; and
 
 &emsp;“(2) to develop new standards to determine when a major marine accident involves significant safety issues relating to Coast Guard safety functions.”
-
-#### Territorial Sea of United States
-
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

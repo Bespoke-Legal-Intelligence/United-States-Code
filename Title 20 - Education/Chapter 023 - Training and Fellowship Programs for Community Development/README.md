@@ -3,19 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [801\.](%C2%A7%2000801%20-%20Congressional%20findings%20and%20purpose.md) | Congressional findings and purpose. |
-| (a) | Need for training and research related to community development. |
-| (b) | Fellowships for specialists and personnel in urban affairs; grants to institutions of higher education; assistance to States and localities. |
 | [802\.](%C2%A7%2000802%20-%20Fellowships%20for%20city%20planning%2C%20management%2C%20housing%20specialists%2C%20and%20persons%20with%20general%20capacity%20in%20urban%20affairs%20and%20problems.md) | Fellowships for city planning, management, housing specialists, and persons with general capacity in urban affairs and problems. |
-| (a) | Criteria. |
-| (b) | Urban Studies Fellowship Board. |
 | [803\.](%C2%A7%2000803%20-%20Matching%20grants%20to%20States.md) | Matching grants to States. |
-| (a) | Purposes. |
-| (b) | Training in housing management. |
-| (c) | State plan; required provisions. |
-| (d) | Matching funds from non-Federal sources. |
 | [803a.](%C2%A7%2000803a%20-%20Project%20grants%20and%20contracts.md) | Project grants and contracts. |
-| (a) | Authorization; purposes; application. |
-| (b) | Contents; use of payments. |
 | [804\.](%C2%A7%2000804%20-%20Limitation%20on%20grants%20to%20any%20one%20State.md) | Limitation on grants to any one State. |
 | [805\.](%C2%A7%2000805%20-%20Technical%20assistance%2C%20studies%2C%20and%20publication%20of%20information.md) | Technical assistance, studies, and publication of information. |
 | [806\.](%C2%A7%2000806%20-%20Authorization%20of%20appropriations%3B%20availability%20of%20funds.md) | Authorization of appropriations; availability of funds. |

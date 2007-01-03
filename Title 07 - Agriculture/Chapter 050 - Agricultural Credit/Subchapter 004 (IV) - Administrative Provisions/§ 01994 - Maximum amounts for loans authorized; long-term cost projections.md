@@ -34,7 +34,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (II) Down payment loans
 
-&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretary shall reserve 60 percent for the down payment loan program under section 1935 of this title until April 1 of the fiscal year.
+&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretary shall reserve 60 percent for the down payment loan program under section 1935of this title until April 1 of the fiscal year.
 
 #### (ii) Operating loans
 

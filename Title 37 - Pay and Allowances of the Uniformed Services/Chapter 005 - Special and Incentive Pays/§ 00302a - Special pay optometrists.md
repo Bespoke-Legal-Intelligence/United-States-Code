@@ -32,7 +32,7 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 &emsp;(C) is determined by the Secretary concerned to be qualified as an optometrist.
 
-(3) An officer may not be paid retention special pay under paragraph (1) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
+(3) An officer may not be paid retention special pay under paragraph (1) for any twelve-month period unless the officer first executes a written agreement under which the officeragrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
 (4) The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). An officer who does not complete the period for which the payment was made under paragraph (1) shall be subject to the repayment provisions of section 303a(e) of this title.
 
@@ -40,7 +40,7 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 #### Amendments
 
-2006—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows:“The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.”
+2006—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.”
 
 2002—Subsec. (b)(1). Pub. L. 107–314 substituted “$15,000” for “$6,000”.
 

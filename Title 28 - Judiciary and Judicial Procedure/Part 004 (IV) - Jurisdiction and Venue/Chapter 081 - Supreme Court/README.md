@@ -29,17 +29,13 @@
 
 Section 32 of act June 25, 1948, as amended by act May 24, 1949, ch. 139, §127, 63 Stat. 107, provided:
 
-“(a) All laws of the United States in force on September 1, 1948, in which reference is made to a ‘circuit court of appeals’; ‘senior circuit judge’; ‘senior district judge’; ‘presiding judge’; ‘chief justice’, except when reference to the Chief Justice of the United States isintended; or ‘justice’, except when used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice, are hereby amended by substituting ‘court of appeals’ for ‘circuit court of appeals’; ‘chief judge of the circuit’ for ‘senior circuit judge’; ‘chief judge of the district court’ for ‘senior district judge’; ‘chief judge’ for ‘presiding judge’; ‘chief judge’ for ‘chief justice’, except when reference to the Chief Justice of the United States is intended; and ‘judge’ for ‘justice’, except when the latter term is used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice.
+“(a) All laws of the United States in force on September 1, 1948, in which reference is made to a ‘circuit court of appeals’; ‘senior circuit judge’; ‘senior district judge’; ‘presiding judge’; ‘chief justice’, except when reference to the Chief Justice of the United States is intended; or ‘justice’, except when used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice, are hereby amended by substituting ‘court of appeals’ for ‘circuit court of appeals’; ‘chief judge of the circuit’ for ‘senior circuit judge’; ‘chief judge of the district court’ for ‘senior district judge’; ‘chief judge’ for ‘presiding judge’; ‘chief judge’ for ‘chief justice’, except when reference to the Chief Justice of the United States is intended; and ‘judge’ for ‘justice’, except when the latter term is used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice.
 
 “(b) All laws of the United States in force on September 1, 1948, in which reference is made to the Supreme Court of the District of Columbia or to the District Court of the United States for the District of Columbia are amended by substituting ‘United States District Court for the District of Columbia’ for such designations.
 
 “(c) All laws of the United States in force on September 1, 1948, in which reference is made to the ‘Conference of Senior Circuit Judges’, or to the ‘Judicial Conference of Senior Circuit Judges’ are amended by substituting ‘Judicial Conference of the United States’ for such designations.
 
 “(d) This section shall not be construed to amend historical references to courts or judicial offices which have no present or future application to such courts or offices.”
-
-#### Rules of the Supreme Court
-
-Procedure generally, on appeal to or in Supreme Court, see Appendix to this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1330”.</i>
 

@@ -48,7 +48,7 @@ The Secretary of Energy shall, on a periodic basis, submit a summary of the resu
 
 #### (f) Report and notification regarding inadvertent releases
 
-(1) The Secretary of Energy shall submit to the committees and Assistant to the President specified in subsection (d) a report on inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 that occurred before October 17, 1998.
+(1) The Secretary of Energy shall submit to the committees and Assistant to the Presidentspecified in subsection (d) a report on inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 that occurred before October 17, 1998.
 
 (2) Commencing with inadvertent releases discovered on or after October 30, 2000, the Secretary of Energy shall, on a quarterly basis, submit a report to the committees and Assistant to the President specified in subsection (d). The report shall state whether any inadvertent releases described in paragraph (1) occurred during the immediately preceding quarter and, if so, shall identify each such release.
 

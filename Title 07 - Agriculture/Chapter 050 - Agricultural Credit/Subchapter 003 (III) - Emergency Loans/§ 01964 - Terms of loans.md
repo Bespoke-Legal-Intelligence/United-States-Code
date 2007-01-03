@@ -112,5 +112,5 @@ Section 119 of Pub. L. 95–334 provided that the amendment made by that section
 
 #### Small Business Disaster Loans; Interest Rate; Cancellation of Loans
 
-Loans by Small Business Administration in connection with any disaster occurring on or after Apr. 20, 1973 made under section 636(b)(1), (2), or (4) of Title 15, as subject to interest rate determined under this section and prohibition against cancellation of such loan under any provision of law, see section 9 of Pub. L. 93–24, set out as a note under section 636 of Title 15, Commerce and Trade.
+Loans by Small Business Administration in connection with any disaster occurring on or after Apr. 20,1973 made under section 636(b)(1), (2), or (4) of Title 15, as subject to interest rate determined under this section and prohibition against cancellation of such loan under any provision of law, see section 9 of Pub. L. 93–24, set out as a note under section 636 of Title 15, Commerce and Trade.
 

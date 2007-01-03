@@ -148,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment for oxygen and oxygen equipment shall be made on a monthly basis in the monthly payment amount recognized under paragraph (9) for oxygen and oxygen equipment (other than portable oxygen equipment), subject to subparagraphs (B), (C), and (E).
+&emsp;&emsp;Payment for oxygen and oxygen equipment shall be made on a monthly basis in the monthly payment amount recognized under paragraph (9) for oxygen and oxygen equipment (other than portable oxygen equipment), subject to subparagraphs (B), (C), (E), and (F).
 
 #### (B) Add-on for portable oxygen equipment
 
@@ -164,11 +164,31 @@
 
 #### (D) Limit on adjustment
 
-&emsp;&emsp;When portable oxygen equipment is used and the attending physician prescribes an oxygen flow rate exceeding 4 liters per minute, there shall only be an increase under either subparagraph (B) or (C), whichever increase is larger, and not under both such subparagraphs.
+&emsp;&emsp;When portable oxygen equipment is used and the attending physician prescribes an oxygen flow rate exceeding 4 liters perminute, there shall only be an increase under either subparagraph (B) or (C), whichever increase is larger, and not under both such subparagraphs.
 
 #### (E) Recertification for patients receiving home oxygen therapy
 
 &emsp;&emsp;In the case of a patient receiving home oxygen therapy services who, at the time such services are initiated, has an initial arterial blood gas value at or above a partial pressure of 56 or an arterial oxygen saturation at or above 89 percent (or such other values, pressures, or criteria as the Secretary may specify) no payment may be made under this part for such services after the expiration of the 90-day period that begins on the date the patient first receives such services unless the patient's attending physician certifies that, on the basis of a follow-up test of the patient's arterial blood gas value or arterial oxygen saturation conducted during the final 30 days of such 90-day period, there is a medical need for the patient to continue to receive such services.
+
+#### (F) Ownership of equipment
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Payment for oxygen equipment (including portable oxygen equipment) under this paragraph may not extend over a period of continuous use (as determined by the Secretary) of longer than 36 months.
+
+#### (ii) Ownership
+
+#### (I) Transfer of title
+
+&emsp;&emsp;&emsp;&emsp;On the first day that begins after the 36th continuous month during which payment is made for the equipment under this paragraph, the supplier of the equipment shall transfer title to the equipment to the individual.
+
+#### (II) Payments for oxygen and maintenance and servicing
+
+&emsp;&emsp;&emsp;&emsp;After the supplier transfers title to the equipment under subclause (I)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) payments for oxygen shall continue to be made in the amount recognized for oxygen under paragraph (9) for the period of medical need; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) maintenance and servicing payments shall, if the Secretary determines such payments are reasonable and necessary, be made (for parts and labor not covered by the supplier's or manufacturer's warranty, as determined by the Secretary to be appropriate for the equipment), and such payments shall be in an amount determined to be appropriate by the Secretary.
 
 #### (6) Payment for other covered items (other than durable medical equipment)
 
@@ -176,33 +196,37 @@
 
 #### (7) Payment for other items of durable medical equipment
 
-#### (A) In general
+#### (A) Payment
 
-&emsp;&emsp;In the case of an item of durable medical equipment not described in paragraphs (2) through (6)—
+&emsp;&emsp;In the case of an item of durable medical equipment not described in paragraphs (2) through (6), the following rules shall apply:
 
-&emsp;&emsp;&emsp;(i) payment shall be made on a monthly basis for the rental of such item during the period of medical need (but payments under this clause may not extend over a period of continuous use of longer than 15 months, or, in the case of an item for which a purchase agreement has been entered into under clause (iii), a period of continuous use of longer than 13 months), and, subject to subparagraph (B), the amount recognized for each of the first 3 months of such period is 10 percent of the purchase price recognized under paragraph (8) with respect to the item, and for each of the remaining months of such period is 7.5 percent of such purchase price;
+#### (i) Rental
 
-&emsp;&emsp;&emsp;(ii) in the case of a power-driven wheelchair, at the time the supplier furnishes the item, the supplier shall offer the individual patient the option to purchase the item, and payment for such item shall be made on a lump-sum basis if the patient exercises such option;
+#### (I) In general
 
-&emsp;&emsp;&emsp;(iii) during the 10th continuous month during which payment is made for the rental of an item under clause (i), the supplier of such item shall offer the individual patient the option to enter into a purchase agreement under which, if the patient notifies the supplier not later than 1 month after the supplier makes such offer that the patient agrees to accept such offer and exercise such option—
+&emsp;&emsp;&emsp;&emsp;Except as provided in clause (iii), payment for the item shall be made on a monthly basis for the rental of the item during the period of medical need (but payments under this clause may not extend over a period of continuous use (as determined by the Secretary) of longer than 13 months).
 
-&emsp;&emsp;&emsp;&emsp;(I) the supplier shall transfer title to the item to the individual patient on the first day that begins after the 13th continuous month during which payment is made for the rental of the item under clause (i),
+#### (II) Payment amount
 
-&emsp;&emsp;&emsp;&emsp;(II) after the supplier transfers title to the item under subclause (I), maintenance and servicing payments shall be made in accordance with clause (vi);
+&emsp;&emsp;&emsp;&emsp;Subject to subparagraph (B), the amount recognized for the item, for each of the first 3 months of such period, is 10 percent of the purchase price recognized under paragraph (8) with respect to the item, and, for each of the remaining months of such period, is 7.5 percent of such purchase price.
 
-&emsp;&emsp;&emsp;(iv) in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii), during the first 6-month period of medical need that follows the period of medical need during which payment is made under clause (i), no payment shall be made for rental or maintenance and servicing of the item;
+#### (ii) Ownership after rental
 
-&emsp;&emsp;&emsp;(v) in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii), during the first month of each succeeding 6-month period of medical need, a maintenance and servicing payment may be made (for parts and labor not covered by the supplier's or manufacturer's warranty, asdetermined by the Secretary to be appropriate for the particular type of durable medical equipment) and the amount recognized for each such 6-month period is the lower of (I) a reasonable and necessary maintenance and servicing fee or fees established by the Secretary, or (II) 10 percent of the total of the purchase price recognized under paragraph (8) with respect to the item; and
+&emsp;&emsp;&emsp;On the first day that begins after the 13th continuous month during which payment is made for the rental of an item under clause (i), the supplier of the item shall transfer title to the item to the individual.
 
-&emsp;&emsp;&emsp;(vi) in the case of an item for which a purchase agreement has been entered into under clause (ii) or clause (iii), maintenance and servicing payments may be made (for parts and labor not covered by the supplier's or manufacturer's warranty, as determined by the Secretary to be appropriate for the particular type of durable medical equipment), and such payments shall be in an amount established by the Secretary on the basis of reasonable charges in the locality for maintenance and servicing.
+#### (iii) Purchase agreement option for power-driven wheelchairs
 
-> &emsp;&emsp;The Secretary shall determine the meaning of the term “continuous” in subparagraph (A).
+&emsp;&emsp;&emsp;In the case of a power-driven wheelchair, at the time the supplier furnishes the item, the supplier shall offer the individual the option to purchase the item, and payment for such item shall be made on a lump-sum basis if the individual exercises such option.
+
+#### (iv) Maintenance and servicing
+
+&emsp;&emsp;&emsp;After the supplier transfers title to the item under clause (ii) or in the case of a power-driven wheelchair for which a purchase agreement has been entered into under clause (iii), maintenance and servicing payments shall, if the Secretary determines such payments are reasonable and necessary, be made (for parts and labor not covered by the supplier's or manufacturer's warranty, as determined by the Secretary to be appropriate for the particular type of durable medical equipment), and such payments shall be in an amount determined to be appropriate by the Secretary.
 
 #### (B) Range for rental amounts
 
 #### (i) For 1989
 
-&emsp;&emsp;&emsp;For items furnished during 1989, the payment amount recognized under subparagraph (A)(i) shall not be more than 115 percent, and shall not be less than 85 percent, of the prevailing charge established for rental of the item in January 1987, increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 6-month period ending with December 1987.
+&emsp;&emsp;&emsp;For items furnished during 1989, the payment amount recognized under subparagraph (A)(i) shall not be more than 115 percent, and shall not be less than 85 percent, of the prevailing charge established for rental of the item in January 1987, increased by the percentage increase in theconsumer price index for all urban consumers (U.S. city average) for the 6-month period ending with December 1987.
 
 #### (ii) For 1990
 
@@ -252,7 +276,7 @@
 
 &emsp;&emsp;With respect to the furnishing of a particular item in a year, the Secretary shall compute a national limited purchase price—
 
-&emsp;&emsp;&emsp;(i) for 1991, equal to the local purchase price computed under subparagraph (A)(ii)for the item for the year, except that such national limited purchase price may not exceed 100 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year, and may not be less than 85 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year;
+&emsp;&emsp;&emsp;(i) for 1991, equal to the local purchase price computed under subparagraph (A)(ii) for the item for the year, except that such national limited purchase price may not exceed 100 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year, and may not be less than 85 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year;
 
 &emsp;&emsp;&emsp;(ii) for 1992 and 1993, the amount determined under this subparagraph for the preceding year increased by the covered item update for such subsequent year;
 
@@ -392,7 +416,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of covered items not described in clause (i), 0 percentage points; and
 
-&emsp;&emsp;(J) for a subsequent year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year.
+&emsp;&emsp;(J) for a subsequent year, the percentage increase in the consumer price index for allurban consumers (U.S. urban average) for the 12-month period ending with June of the previous year.
 
 #### (15) Advance determinations of coverage for certain items
 
@@ -742,11 +766,11 @@
 
 &emsp;&emsp;&nbsp;payment under this part shall be based on the lesser of the amount under the fee schedule that would apply to such services if they were performed in a hospital outpatient department in an area or the amount under the fee schedule that would apply to such services if they were performed in an ambulatory surgical center in the same area.
 
-#### (ii) Limitation on deductible and coinsurance
+#### (ii) Limitation on coinsurance
 
 &emsp;&emsp;&emsp;Notwithstanding any other provision of this subchapter, in the case of a beneficiary who receives the services described in clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) in computing the amount of any applicable deductible or copayment, the computation of such deductible or coinsurance shall be based upon the fee schedule under which payment is made for the services, and
+&emsp;&emsp;&emsp;&emsp;(I) in computing the amount of any applicable copayment, the computation of such coinsurance shall be based upon the fee schedule under which payment is made for the services, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of such coinsurance is equal to 25 percent of the payment amount under the fee schedule described in subclause (I).
 
@@ -778,11 +802,11 @@
 
 &emsp;&emsp;&emsp;Notwithstanding subsections (i)(2)(A) and (t) of section 1395<i>l</i> of this title, in the case of screening colonoscopy services furnished on or after January 1, 1999, that are performed in an ambulatory surgical center or a hospital outpatient department, payment under this part shall be based on the lesser of the amount under the fee schedule that would apply to such services if they were performed in a hospital outpatient department in an area or the amount under the fee schedule that would apply to such services if they were performed in an ambulatory surgical center in the same area.
 
-#### (ii) Limitation on deductible and coinsurance
+#### (ii) Limitation on coinsurance
 
 &emsp;&emsp;&emsp;Notwithstanding any other provision of this subchapter, in the case of a beneficiary who receives the services described in clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) in computing the amount of any applicable deductible or coinsurance, the computation of such deductible or coinsurance shall be based upon the fee schedule under which payment is made for the services, and
+&emsp;&emsp;&emsp;&emsp;(I) in computing the amount of any applicable coinsurance, the computation of such coinsurance shall be based upon the fee schedule under which payment is made for the services, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of such coinsurance is equal to 25 percent of the payment amount under the fee schedule described in subclause (I).
 
@@ -804,7 +828,7 @@
 
 #### (2) Limitation
 
-&emsp;The prevailing charge for the technical and professional components of an <sup>2</sup> physician pathology service furnished by a physicianthrough an independent laboratory shall not be reduced pursuant to paragraph (1) to the extent that such reduction would reduce such prevailing charge below 115 percent of the prevailing charge for the professional component of such service when furnished by a hospital-based physician in the same locality. For purposes of the preceding sentence, an independent laboratory is a laboratory that is independent of a hospital and separate from the attending or consulting physicians’ office.
+&emsp;The prevailing charge for the technical and professional components of an <sup>2</sup> physician pathology service furnished by a physician through an independent laboratory shall not be reduced pursuant to paragraph (1) to the extent that such reduction would reduce such prevailing charge below 115 percent of the prevailing charge for the professional component of such service when furnished by a hospital-based physician in the same locality. For purposes of the preceding sentence, an independent laboratory is a laboratory that is independent of a hospital and separate from the attending or consulting physicians’ office.
 
 #### (g) Payment for outpatient critical access hospital services
 
@@ -822,7 +846,7 @@
 
 #### (B) Fee schedule for professional services
 
-&emsp;&emsp;With respect to professional services otherwise included within outpatient critical access hospital services, 115 percent of such amounts as would otherwise be paid under this part if such services were not included in outpatient critical access hospital services.
+&emsp;&emsp;With respect to professional services otherwise included within outpatient critical access hospital services, 115 percent ofsuch amounts as would otherwise be paid under this part if such services were not included in outpatient critical access hospital services.
 
 > &emsp;The Secretary may not require, as a condition for applying subparagraph (B) with respect to a critical access hospital, that each physician or other practitioner providing professional services in the hospital must assign billing rights with respect to such services, except that such subparagraph shall not apply to those physicians and practitioners who have not assigned such billing rights.
 
@@ -894,7 +918,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a State that provides for the licensing of orthotics and prosthetics, is licensed in orthotics or prosthetics by the State in which the item is supplied; or
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a State that does not provide for the licensing of orthotics and prosthetics, is specifically trained and educated to provide or manage the provision of prosthetics and custom-designed or -fabricated orthotics, and is certified by the American Board for Certification in Orthotics and Prosthetics, Inc. or by the Board for Orthotist/Prosthetist Certification, or is credentialed and approved by a program that the Secretary determines, in consultation with appropriate experts in orthotics and prosthetics, has training and education standards that are necessary to provide such prosthetics and orthotics.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a State that does not provide for the licensing of orthotics and prosthetics, is specifically trained and educated to provide or manage theprovision of prosthetics and custom-designed or -fabricated orthotics, and is certified by the American Board for Certification in Orthotics and Prosthetics, Inc. or by the Board for Orthotist/Prosthetist Certification, or is credentialed and approved by a program that the Secretary determines, in consultation with appropriate experts in orthotics and prosthetics, has training and education standards that are necessary to provide such prosthetics and orthotics.
 
 #### (iv) Qualified supplier defined
 
@@ -1088,7 +1112,7 @@
 
 #### (B) “Certificate of medical necessity” defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means aform or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means a form or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
 
 #### (3) Coverage and review criteria
 
@@ -1104,7 +1128,7 @@
 
 &emsp;&emsp;(C) furnishes an item or service to a beneficiary for which payment is denied under section 1395y(a)(1) of this title;
 
-> &emsp;any expenses incurred for items and services furnished to an individual by such a supplier not on an assigned basis shall be the responsibility of such supplier. The individual shall have no financial responsibility for such expenses and the supplier shall refund on a timely basis to the individual (and shall be liable to the individual for) any amounts collected from the individual for such items or services. The provisions of subsection (a)(18) of this section shall apply to refunds required under the previous sentence in the same manner as such provisions apply to refunds under such subsection.
+> &emsp;any expenses incurred for items and services furnished to an individual by such a supplier not on an assigned basis shall be the responsibility of such supplier. The individual shall have no financial responsibility for such expenses and the supplier shall refund on a timely basis to the individual (and shall be liable to the individual for) any amounts collected from the individual for such items or services. The provisions of subsection (a)(18) of this section shall apply to refunds required under the previous sentence in the same manner as suchprovisions apply to refunds under such subsection.
 
 #### (5) “Medical equipment and supplies” defined
 
@@ -1176,7 +1200,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a fee schedule for payment for ambulance services whether provided directly by a supplier or provider orunder arrangement with a provider under this part through a negotiated rulemaking process described in title 5 and in accordance with the requirements of this subsection.
+&emsp;The Secretary shall establish a fee schedule for payment for ambulance services whether provided directly by a supplier or provider or under arrangement with a provider under this part through a negotiated rulemaking process described in title 5 and in accordance with the requirements of this subsection.
 
 #### (2) Considerations
 
@@ -1196,7 +1220,7 @@
 
 &emsp;In establishing such fee schedule, the Secretary shall—
 
-&emsp;&emsp;(A) ensure that the aggregate amount of payments made for ambulance services under this part during 2000 does not exceed the aggregate amount of payments which would have been made for such services under this part during such year if the amendments made by section 4531(a) of the Balanced Budget Act of 1997 continued in effect, except that in making such determination the Secretary shall assume an update in such payments for 2002 equal to percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year reduced in the case of 2002 by 1.0 percentage points; and
+&emsp;&emsp;(A) ensure that the aggregate amount of payments made for ambulance services under this part during 2000 does not exceedthe aggregate amount of payments which would have been made for such services under this part during such year if the amendments made by section 4531(a) of the Balanced Budget Act of 1997 continued in effect, except that in making such determination the Secretary shall assume an update in such payments for 2002 equal to percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year reduced in the case of 2002 by 1.0 percentage points; and
 
 &emsp;&emsp;(B) set the payment amounts provided under the fee schedule for services furnished in 2001 and each subsequent year at amounts equal to the payment amounts under the fee schedule for services furnished during the previous year, increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year reduced in the case of 2002 by 1.0 percentage points.
 
@@ -1234,7 +1258,7 @@
 
 &emsp;In carrying out the phase-in under paragraph (2)(E) for each level of ground service furnished in a year, the portion of the payment amount that is based on the fee schedule shall be the greater of the amount determined under such fee schedule (without regard to this paragraph) or the following blended rate of the fee schedule under paragraph (1) and of a regional fee schedule for the region involved:
 
-&emsp;&emsp;(A) For 2004 (for services furnished on or after July 1, 2004), the blended rate shall bebased 20 percent on the fee schedule under paragraph (1) and 80 percent on the regional fee schedule.
+&emsp;&emsp;(A) For 2004 (for services furnished on or after July 1, 2004), the blended rate shall be based 20 percent on the fee schedule under paragraph (1) and 80 percent on the regional fee schedule.
 
 &emsp;&emsp;(B) For 2005, the blended rate shall be based 40 percent on the fee schedule under paragraph (1) and 60 percent on the regional fee schedule.
 
@@ -1248,7 +1272,7 @@
 
 #### (11) Adjustment in payment for certain long trips
 
-&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2009, regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increased by 1/4 of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
+&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2009, regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increasedby 1/4 of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
 
 #### (12) Assistance for rural providers furnishing services in low population density areas
 
@@ -1296,7 +1320,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The regulations described in section 1395x(s)(7) of this title shall provide, to theextent that any ambulance services (whether ground or air) may be covered under such section, that a rural air ambulance service (as defined in subparagraph (C)) is reimbursed under this subsection at the air ambulance rate if the air ambulance service—
+&emsp;&emsp;The regulations described in section 1395x(s)(7) of this title shall provide, to the extent that any ambulance services (whether ground or air) may be covered under such section, that a rural air ambulance service (as defined in subparagraph (C)) is reimbursed under this subsection at the air ambulance rate if the air ambulance service—
 
 &emsp;&emsp;&emsp;(i) is reasonable and necessary based on the health condition of the individual being transported at or immediately prior to the time of the transport; and
 
@@ -1312,7 +1336,7 @@
 
 #### (C) Rural air ambulance service defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “rural air ambulance service” means fixed wing and rotary wing air ambulance service in which the point of pick up of the individual occurs in a rural area (as defined in section 1395ww(d)(2)(D) of this title) or in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
+&emsp;&emsp;For purposes of this paragraph, the term “rural air ambulance service” means fixedwing and rotary wing air ambulance service in which the point of pick up of the individual occurs in a rural area (as defined in section 1395ww(d)(2)(D) of this title) or in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
 
 #### (D) Limitation
 
@@ -1414,7 +1438,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall establish a process that provides, on an annual basis, for the addition or deletion of services (and HCPCS codes), as appropriate, to those specified in clause (i) for authorized payment under paragraph (1).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III, §302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III, §302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; Pub. L. 109–171, title V, §§5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, 120 Stat. 37, 38, 44.)
 
 #### References in Text
 
@@ -1433,6 +1457,16 @@ Amendment of subsec. (a)(4) by Pub. L. 101–508, §4152(c)(4)(B)(i), did not be
 A prior section 1395m, act Aug. 14, 1935, ch. 531, title XVIII, §1834, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 303, prescribed limitations on payments for home health services, prior to repeal by Pub. L. 96–499, title IX, §930(i), Dec. 5, 1980, 94 Stat. 2631, effective with respect to services furnished on or after July 1, 1981.
 
 #### Amendments
+
+2006—Subsec. (a)(5)(A). Pub. L. 109–171, §5101(b)(1)(A), substituted “(E), and (F)” for “and (E)”.
+
+Subsec. (a)(5)(F). Pub. L. 109–171, §5101(b)(1)(B), added subpar. (F).
+
+Subsec. (a)(7)(A). Pub. L. 109–171, §5101(a)(1), amended heading and text of subpar. (A) generally, revising and restating as cls. (i) to (iv) provisions of former cls. (i) to (vi).
+
+Subsec. (d)(2)(C)(ii). Pub. L. 109–171, §5113(b), struck out “deductible and” before “coinsurance” in heading and struck out “deductible or” before “copayment” and before “coinsurance” in subcl. (I).
+
+Subsec. (d)(3)(C)(ii). Pub. L. 109–171, §5113(b), struck out “deductible and” before “coinsurance” in heading and struck out “deductible or” before “coinsurance” in two places in subcl. (I).
 
 2003—Subsec. (a)(1)(B). Pub. L. 108–173, §302(d)(1)(A), substituted “Subject to subparagraph (F)(i), the payment basis” for “The payment basis” in introductory provisions.
 
@@ -1690,7 +1724,7 @@ Subsec. (a)(1)(D). Pub. L. 101–508, §4152(a)(1), inserted before period at en
 
 Subsec. (a)(2)(A). Pub. L. 101–508, §4153(a)(2)(D)(ii), substituted “(13)” for “(13)(A)”.
 
-Pub. L. 101–508, §4152(c)(4)(A), inserted “or” after “$150,” in cl. (i), struck out “or” after “purchase,” in cl. (ii), and struck out cl. (iii) which read as follows:“which is a power-driven wheelchair (other than a customized wheelchair that is classified as a customized item under paragraph (4) pursuant to criteria specified by the Secretary),”.
+Pub. L. 101–508, §4152(c)(4)(A), inserted “or” after “$150,” in cl. (i), struck out “or” after “purchase,” in cl. (ii), and struck out cl. (iii) which read as follows: “which is a power-driven wheelchair (other than a customized wheelchair that is classified as a customized item under paragraph (4) pursuant to criteria specified by the Secretary),”.
 
 Subsec. (a)(2)(B). Pub. L. 101–508, §4152(b)(1)(A), (B), struck out “or” after “1987;” in cl. (i), added cls. (ii) to (iv), and struck out former cl. (ii) which read as follows: “in a subsequent year, is the amount specified in this subparagraph for the preceding year increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of that preceding year.”
 
@@ -1860,7 +1894,7 @@ Subsec. (a)(7)(A)(ii). Pub. L. 100–360, §411(g)(1) (B)(vii), inserted “main
 
 Subsec. (a)(7)(A)(iii). Pub. L. 100–360, §411(g)(1) (B)(vii), (viii), substituted “maintenance and servicing” for “service and maintenance”, and in subcl. (I) substituted “fee or fees established by the Secretary” for “fee established by the carrier”.
 
-Subsec. (a)(7)(B)(i). Pub. L. 100–360, §411(a)(3)(A), (C)(ii), provided that subsec. (a)(7)(B)(i) of this section, as inserted by section 4062(b) of Pub. L. 100–203, is deemed to have a reference to “1987” immediately after “December”.
+Subsec. (a)(7)(B)(i). Pub. L. 100–360, §411(a)(3)(A), (C)(ii), provided that subsec. (a)(7)(B)(i) of this section,as inserted by section 4062(b) of Pub. L. 100–203, is deemed to have a reference to “1987” immediately after “December”.
 
 Subsec. (a)(8)(A)(i)(I). Pub. L. 100–360, §411(g)(1) (B)(iii), substituted “reasonable” for “allowable”.
 
@@ -1907,6 +1941,22 @@ Subsec. (d). Pub. L. 100–360, §203(c)(1)(F), added subsec. (d) relating to ho
 Subsec. (e). Pub. L. 100–360, §204(b)(2), added subsec. (e) relating to payments and standards for screening mammography.
 
 1987—Subsec. (b). Pub. L. 100–203, §4049(a)(2), as amended by Pub. L. 100–360, §411(a)(3)(A), (B)(ii), (f)(8)(B)(ii), added subsec. (b).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title V, §5101(a)(2), Feb. 8, 2006, 120 Stat. 38, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to items furnished for which the first rental month occurs on or after January 1, 2006.”
+
+Pub. L. 109–171, title V, §5101(b)(2), Feb. 8, 2006, 120 Stat. 39, provided that:
+
+“(A)
+
+In general.—The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 2006.
+
+“(B)
+
+Application to certain individuals.—In the case of an individual receiving oxygen equipment on December 31, 2005, for which payment is made under section 1834(a) of the Social Security Act (42 U.S.C. 1395m(a)), the 36-month period described in paragraph (5)(F)(i) of such section, as added by paragraph (1), shall begin on January 1, 2006.”
+
+Amendment by section 5113(b) of Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2007, see section 5113(c) of Pub. L. 109–171, set out as a note under section 1395<i>l</i> of this title.
 
 #### Effective Date of 2003 Amendment
 

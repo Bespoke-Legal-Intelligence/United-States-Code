@@ -68,7 +68,7 @@ As used in this chapter:
 
 #### (1) Terms and conditions of policies and plans
 
-&emsp;The terms and conditions of any policy or plan of insurance offered under this chapter that is reinsured by the Corporation shall not—
+&emsp;The terms and conditions of any policy or plan of insurance offered under this chapterthat is reinsured by the Corporation shall not—
 
 &emsp;&emsp;(A) be subject to the jurisdiction of the Commodity Futures Trading Commission or the Securities and Exchange Commission; or
 

@@ -32,7 +32,7 @@
 
 (C) Each agency shall establish procedures for accepting direct payments of employee contributions for the purposes of this paragraph.
 
-(2) An employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8901 of this title, within 60 days after entering on that leave without pay, may file with his employing agency an election to continue his health benefits enrollment and arrange to pay currently into the Employees Health Benefits Fund, through his employing agency, both employee and agency contributions from the beginning of leavewithout pay. The employing agency shall forward the enrollment charges so paid to the Fund. If the employee does not so elect, his enrollment will continue during nonpay status and end as provided by paragraph (1) of this subsection and implementing regulations.
+(2) An employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8901 of this title, within 60 days after entering on that leave without pay, may file with his employing agency an election to continue his health benefits enrollment and arrange to pay currently into the Employees Health Benefits Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the enrollment charges so paid to the Fund. If the employee does not so elect, his enrollment will continue during nonpay status and end as provided by paragraph (1) of this subsection and implementing regulations.
 
 (3)(A) An employing agency may pay both the employee and Government contributions, and any additional administrative expenses otherwise chargeable to the employee, with respect to health care coverage for an employee described in subparagraph (B) and the family of such employee.
 
@@ -62,7 +62,7 @@
 
 (g)(1) Except as provided in paragraphs (2) and (3), the Government contributions authorized by this section for health benefits for an annuitant shall be paid from annual appropriations which are authorized to be made for that purpose and which may be made available until expended.
 
-(2)(A) The Government contributions authorized by this section for health benefits for an individual who first becomes an annuitant by reason of retirement from employment with the United States Postal Service on or after July 1, 1971, or for a survivor of such an individual or of an individual who died on or after July 1, 1971, while employed by the United States Postal Service, shall be paid by the United States Postal Service.
+(2)(A) The Government contributions authorized by this section for health benefits for an individual who first becomes an annuitant by reason of retirement from employment with the United States Postal Service on or after July 1, 1971, or for a survivor of such an individual or of an individual who died on or after July 1, 1971, while employed by the United States Postal Service, shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service.
 
 (B) In determining any amount for which the Postal Service is liable under this paragraph, the amount of the liability shall be prorated to reflect only that portion of total service which is attributable to civilian service performed (by the former postal employee or by the deceased individual referred to in subparagraph (A), as the case may be) after June 30, 1971, as estimated by the Office of Personnel Management.
 
@@ -72,7 +72,7 @@
 
 (i) An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant's health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, §721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, §519(a), (b), Dec. 28, 2001, 115 Stat. 1096; Pub. L. 108–375, div. A, title XI, §1101(b), Oct. 28, 2004, 118 Stat. 2072.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, §721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, §519(a), (b), Dec. 28, 2001, 115 Stat. 1096; Pub. L. 108–375, div. A, title XI, §1101(b), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–435, title VIII, §803(a)(1)(A), Dec. 20, 2006, 120 Stat. 3251.)
 
 Historical and Revision Notes<br>1966
 
@@ -129,6 +129,8 @@ In subsection (a), the words “subsection (b) of this section”, “this chapt
 In subsection (e)(2), the words “as defined by section 8901 of this title” are substituted for “as defined in section 2 of this Act” to reflect the codification of that section in 5 U.S.C. 8901. The words “Employees Health Benefits Fund” and “Fund” are substituted for “fund” and “fund”, respectively. In the penultimate sentence, the words “will continue during nonpay status and end” are substituted for “will terminate” for clarity and on authority of 5 U.S.C. 8906(e)(1).
 
 #### Amendments
+
+2006—Subsec. (g)(2)(A). Pub. L. 109–435 substituted “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service” for “shall be paid by the United States Postal Service”.
 
 2004—Subsec. (e)(3)(C). Pub. L. 108–375 substituted “24 months” for “18 months”.
 
@@ -202,9 +204,13 @@ Subsec. (g). Pub. L. 93–246, §1(c), substituted “by this section” for “
 
 1970—Subsec. (a). Pub. L. 91–418, in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percent of the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–435 effective Oct. 1, 2006, see section 805(a) of Pub. L. 109–435, set out as a note under section 8334 of this title.
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–375 applicable with respect to Federal employees called or ordered to active duty on or after Sept. 14, 2001, see section 1101(c) of Pub. L. 108–375, set out as a note under section 8905a of this title.
+Amendment by Pub. L. 108–375 applicable with respect to Federal employees called or ordered to activeduty on or after Sept. 14, 2001, see section 1101(c) of Pub. L. 108–375, set out as a note under section 8905a of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -272,7 +278,7 @@ Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508,
 
 “(b) Separate percentages shall be computed under subsection (a)(2) with respect to enrollments for self alone and enrollments for self and family, respectively.
 
-“(c) The provisions of this Act shall not apply to a contract year (or any period thereafter), if comprehensive reform legislation is enacted to amend section 8906of title 5, United States Code, and such amendment is required to be implemented by the commencement of negotiations pertaining to rates and benefits for such contract year.
+“(c) The provisions of this Act shall not apply to a contract year (or any period thereafter), if comprehensive reform legislation is enacted to amend section 8906 of title 5, United States Code, and such amendment is required to be implemented by the commencement of negotiations pertaining to rates and benefits for such contract year.
 
 “(d) Any reference in this Act to a ‘contract year’ shall be considered to be a reference to a contract year under chapter 89 of title 5, United States Code.
 
@@ -280,7 +286,7 @@ Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508,
 
 #### Contributions by United States Postal Service to Employees Health Benefits Fund
 
-Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
+Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 intoEmployee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
 
 #### Employees Serving on Part-Time Career Employment Basis on October 10, 1978
 

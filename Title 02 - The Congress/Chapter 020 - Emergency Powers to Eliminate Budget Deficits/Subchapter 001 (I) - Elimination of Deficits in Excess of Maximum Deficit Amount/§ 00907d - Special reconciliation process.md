@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(C) the enactment of such bill or resolution in the form recommended in such conference report,
 
-> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficit amount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of any two consecutive quarters during such fiscal year.
+> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficitamount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of any two consecutive quarters during such fiscal year.
 
 #### (6) Treatment of certain amendments
 
@@ -46,7 +46,7 @@
 
 #### (2) Limit on debate
 
-&emsp;Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of thissection, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
+&emsp;Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
 
 #### (3) Limitation on amendments
 
@@ -64,5 +64,5 @@
 
 #### Termination of Section
 
-<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 

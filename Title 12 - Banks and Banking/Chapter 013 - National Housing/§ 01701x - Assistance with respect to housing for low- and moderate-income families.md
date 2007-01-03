@@ -14,7 +14,7 @@
 
 (2) The Secretary (A) shall provide the services described in clause (iii) of paragraph (1) for homeowners assisted under section 235 of the National Housing Act \[12 U.S.C. 1715z\]; (B) shall, in consultation with the Secretary of Agriculture, provide such services for borrowers who are first-time homebuyers with guaranteed loans under section 502(h) of the Housing Act of 1949 \[42 U.S.C. 1472(h)\]; and (C) may provide such services for other owners of single family dwelling units insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or guaranteed or insured under chapter 37 of title 38. For purposes of this paragraph and clause (iii) of paragraph (1), the Secretary may provide the services described in such clause directly or may enter into contracts with, make grants to, and provide other types of assistance to private or public organizations with special competence and knowledge in counseling low- and moderate-income families to provide such services.
 
-(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
+(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program undersection 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
@@ -38,7 +38,7 @@
 
 #### (2) Program requirements
 
-&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and inaccordance with the procedures, that the Secretary requires.
+&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and in accordance with the procedures, that the Secretary requires.
 
 &emsp;(B) The homeownership counseling organizations receiving assistance under this subsection shall use the assistance only to provide homeownership counseling to eligible homeowners.
 
@@ -110,7 +110,7 @@
 
 #### (C) Notification
 
-&emsp;&emsp;Notification under subparagraph (A) shall not be required with respect to any loan forwhich the eligible homeowner pays the amount overdue before the expiration of the 45-day period under subparagraph (B)(ii).
+&emsp;&emsp;Notification under subparagraph (A) shall not be required with respect to any loan for which the eligible homeowner pays the amount overdue before the expiration of the 45-day period under subparagraph (B)(ii).
 
 #### (D) Administration and compliance
 
@@ -150,7 +150,7 @@
 
 #### (8) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year 1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D). Any amount appropriated under this subsection shall remain available until expended.
+&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D). Any amount appropriated under this subsection shall remain available until expended.
 
 #### (d) Prepurchase and foreclosure-prevention counseling demonstration
 
@@ -182,7 +182,7 @@
 
 #### (A) Mandatory participation
 
-&emsp;&emsp;Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (9)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signingof a contract to purchase the home. The counseling shall include counseling with respect to—
+&emsp;&emsp;Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (9)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signing of a contract to purchase the home. The counseling shall include counseling with respect to—
 
 &emsp;&emsp;&emsp;(i) financial management and the responsibilities involved in homeownership;
 
@@ -346,7 +346,7 @@
 
 #### (3) Encouragement
 
-&emsp;The Secretary shall encourage organizations engaged in providing homeownership and rental counseling that do not receive assistance under this section to employ individuals toprovide such counseling who are certified under this subsection or meet the certification standards established under this subsection.
+&emsp;The Secretary shall encourage organizations engaged in providing homeownership and rental counseling that do not receive assistance under this section to employ individuals to provide such counseling who are certified under this subsection or meet the certification standards established under this subsection.
 
 #### (f) Homeownership and rental counselor training and certification programs
 
@@ -380,7 +380,7 @@
 
 #### (5) Fees
 
-&emsp;Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2) of this section, in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
+&emsp;Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certificationunder subsection (e)(2) of this section, in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
 
 #### (6) Timing
 
@@ -448,7 +448,7 @@ Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally
 
 Subsec. (c)(9). Pub. L. 102–550, §162(b)(2), substituted “1994” for “1992”.
 
-Subsec. (d)(12). Pub. L. 102–550, §162(c), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “There are authorized to be appropriated to carry out this subsection $350,000 for fiscal year 1991 and $365,000 for fiscal year 1992.”
+Subsec. (d)(12). Pub. L. 102–550, §162(c), amended par. (12) generally. Prior to amendment, par. (12) read asfollows: “There are authorized to be appropriated to carry out this subsection $350,000 for fiscal year 1991 and $365,000 for fiscal year 1992.”
 
 Subsecs. (e), (f). Pub. L. 102–550, §162(d), added subsecs. (e) and (f).
 

@@ -4,7 +4,7 @@
 
 There shall be within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer as follows:
 
-&emsp;(1) Not later than 60 days after December 21, 2000, the Chief Administrative Officer shall beappointed by the Chief of the Capitol Police after consultation with the Capitol Police Board and the Comptroller General, and shall report to and serve at the pleasure of the Chief of the Capitol Police.
+&emsp;(1) Not later than 60 days after December 21, 2000, the Chief Administrative Officer shall be appointed by the Chief of the Capitol Police after consultation with the Capitol Police Board and the Comptroller General, and shall report to and serve at the pleasure of the Chief of the Capitol Police.
 
 &emsp;(2) The Comptroller General shall evaluate the performance of the Chief Administrative Officer in carrying out the duties and responsibilities of the Office of Administration as outlined in this section. The Comptroller General shall meet with the Chief of the Capitol Police and the Capitol Police Board at least quarterly to provide an analysis of the performance of the Chief Administrative Officer. The Comptroller General shall report the results of the evaluation to the Chief of the Capitol Police, the Capitol Police Board, the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
 

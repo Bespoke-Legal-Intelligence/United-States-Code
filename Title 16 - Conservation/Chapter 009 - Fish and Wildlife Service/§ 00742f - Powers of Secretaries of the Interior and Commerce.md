@@ -98,7 +98,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (iii) Ownership of facilities
 
-&emsp;&emsp;&emsp;Any new facility, improvement to an existing facility, or other permanent improvement to a refuge constructed under this subsection shall be the property of the United States Government.
+&emsp;&emsp;&emsp;Any new facility, improvement to an existing facility, or other permanent improvement to a refuge constructed underthis subsection shall be the property of the United States Government.
 
 #### (D) Treasury account
 
@@ -118,7 +118,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (2) Refuge programs
 
-&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing eachprogram, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d) of this section.
+&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d) of this section.
 
 #### (f) Authorization of appropriations
 

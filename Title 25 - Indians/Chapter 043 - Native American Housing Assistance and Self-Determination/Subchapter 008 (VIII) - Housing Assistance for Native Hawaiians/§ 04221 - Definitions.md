@@ -74,7 +74,7 @@ In this subchapter:
 
 #### References in Text
 
-The Hawaiian Homes Commission Act, 1920, referred to in pars. (1) and (4)(B), is act July 9, 1921, ch. 42, 42Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in pars. (1) and (4)(B), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 This chapter, referred to in par. (5), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -186,7 +186,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;&emsp;“(D) authorizing Native Hawaiian representation on the National Commission on American Indian, Alaska Native, and Native Hawaiian Housing under Public Law 101–235 \[see Tables for classification\];
 
-&emsp;&emsp;“(E) the inclusion of Native Hawaiians in the definition under section 3764 of title 38, United States Code, applicable to subchapter V of chapter 37 of title 38, United States Code (relating to a housing loan program for Native American veterans); and
+&emsp;&emsp;“(E) the inclusion of Native Hawaiians in the definition under section 3764 \[now 3765\] of title 38, United States Code, applicable to subchapter V of chapter 37 of title 38, United States Code (relating to a housing loan program for Native American veterans); and
 
 &emsp;&emsp;“(F) the enactment of the Hawaiian Home Lands Recovery Act (109 Stat. 357; 48 U.S.C. 491, note prec.) \[Pub. L. 104–42, title II\] which establishes a process for the conveyance of Federal lands to the Department of Hawaiian Homes Lands that are equivalent in value to lands acquired by the United States from the Hawaiian Home Lands inventory.”
 

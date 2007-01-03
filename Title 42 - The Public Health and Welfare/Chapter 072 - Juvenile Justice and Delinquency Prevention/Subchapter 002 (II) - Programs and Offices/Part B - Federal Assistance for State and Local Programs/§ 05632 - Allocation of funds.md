@@ -4,7 +4,7 @@
 
 (1) Subject to paragraph (2) and in accordance with regulations promulgated under this part, funds shall be allocated annually among the States on the basis of relative population of people under age eighteen.
 
-(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing theamount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
+(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
 (B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 102–586, §2(f)(2)(A), (C), substituted “allocation” 
 
 Subsec. (d). Pub. L. 102–586, §2(f)(2)(A), substituted “allocation” for “allotment”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall beless than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
+1988—Subsec. (a)(1). Pub. L. 100–690, §7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall be less than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
 
 Subsec. (a)(2), (3). Pub. L. 100–690, §7257(a)(3), added pars. (2) and (3).
 

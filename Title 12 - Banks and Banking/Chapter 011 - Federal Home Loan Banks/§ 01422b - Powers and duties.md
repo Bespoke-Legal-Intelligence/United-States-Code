@@ -34,7 +34,7 @@ The Board shall have the following powers:
 
 #### (c) Receipts of Board
 
-Receipts of the Board derived from assessments levied upon the Federal Home Loan Banks and from other sources (other than receipts from the sale of consolidated Federal Home Loan Bank bonds and debentures issued under section 1431 of this title) shall be deposited in the Treasury of the United States. Salaries of the directors and other employees of the Board and all other expenses thereof may be paid from such assessments or other sources and shall not be construed to be Government Funds or appropriated monies, or subject to apportionment for the purposes of chapter 15 of title 31, or any other authority.
+Receipts of the Board derived from assessments levied upon the Federal Home Loan Banks and from other sources (other than receipts from the sale of consolidated Federal Home Loan Bank bonds and debentures issued under section 1431 of this title) shall be deposited in the Treasury of the United States. Salaries of the directors and other employees of theBoard and all other expenses thereof may be paid from such assessments or other sources and shall not be construed to be Government Funds or appropriated monies, or subject to apportionment for the purposes of chapter 15 of title 31, or any other authority.
 
 #### (d) Annual report
 

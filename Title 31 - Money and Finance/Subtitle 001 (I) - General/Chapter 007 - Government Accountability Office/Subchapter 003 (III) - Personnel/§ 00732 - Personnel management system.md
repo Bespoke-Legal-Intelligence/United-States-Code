@@ -44,11 +44,11 @@
 
 &emsp;&emsp;(A) shall provide that the officer or employee shall be entitled to continue receiving the rate of basic pay that was payable to the officer or employee immediately before the reduction in grade or band until such time as the retained rate becomes less than the maximum rate for the grade or band of the position held by such officer or employee; and
 
-&emsp;&emsp;(B) shall include provisions relating to the minimum period of time for which an officer or employee must have served or for which the position must have been classified at the higher grade or band in order for pay retention to apply, the events that terminate the right to pay retention (apart from the one described in subparagraph (A)), and exclusions based on the nature of an appointment; in prescribing regulations under this subparagraph, the Comptroller General shall be guided by the provisions of sections 5362 and 5363 of title 5.
+&emsp;&emsp;(B) shall include provisions relating to the minimum period of time for which an officeror employee must have served or for which the position must have been classified at the higher grade or band in order for pay retention to apply, the events that terminate the right to pay retention (apart from the one described in subparagraph (A)), and exclusions based on the nature of an appointment; in prescribing regulations under this subparagraph, the Comptroller General shall be guided by the provisions of sections 5362 and 5363 of title 5.
 
 (d) The personnel management system shall provide—
 
-&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirementsof section 4302 of title 5 and in addition includes—
+&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirements of section 4302 of title 5 and in addition includes—
 
 &emsp;&emsp;(A) a link between the performance management system and the agency's strategic plan;
 

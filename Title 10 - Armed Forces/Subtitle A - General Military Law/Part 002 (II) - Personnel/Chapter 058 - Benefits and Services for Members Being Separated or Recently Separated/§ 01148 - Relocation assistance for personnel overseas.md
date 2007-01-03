@@ -20,5 +20,5 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Pilot Program
 
-Section 502(d) of Pub. L. 101–510 provided that: “During fiscal year 1991, the Secretary shall carry out the program required by section 1148 of title 10, United States Code, as added by subsection (a), at not less than 10 military installations located outside the United States.”
+Pub. L. 101–510, div. A, title V, §502(d), Nov. 5, 1990, 104 Stat. 1558, required the Secretary of Defense to carry out the program required by this section during fiscal year 1991 at not less than 10 military installations located outside the United States.
 

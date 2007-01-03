@@ -52,7 +52,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 &emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision to require that gasoline sold, supplied, offered for sale or supply, dispensed, transported or introduced into commerce in the larger of—
 
-&emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) (CMSA) in which the area is located, or
+&emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United StatesOffice of Management and Budget) (CMSA) in which the area is located, or
 
 &emsp;&emsp;(ii) if the area is not located in a CMSA, the Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) in which the area is located,
 
@@ -86,7 +86,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (3) Failure to meet emission reduction milestone
 
-&emsp;If a State fails to submit a demonstration under paragraph (1) within the required period, or if the Administrator notifies the State thatthe State has not met the milestone, the State shall, within 9 months after such a failure or notification, submit a plan revision to implement an economic incentive and transportation control program as described in section 7511a(g)(4) of this title. Such revision shall be sufficient to achieve the specific annual reductions in carbon monoxide emissions set forth in the plan by the attainment date.
+&emsp;If a State fails to submit a demonstration under paragraph (1) within the required period, or if the Administrator notifies the State that the State has not met the milestone, the State shall, within 9 months after such a failure or notification, submit a plan revision to implement an economic incentive and transportation control program as described in section 7511a(g)(4) of this title. Such revision shall be sufficient to achieve the specific annual reductions in carbon monoxide emissions set forth in the plan by the attainment date.
 
 #### (e) Multi-State CO nonattainment areas
 

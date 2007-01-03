@@ -6,7 +6,7 @@ Development on public and private lands within the boundaries of the Cooperative
 
 #### (b) Use of nondevelopment and conservation easements
 
-The Secretary may enter into a nondevelopment easement or conservation easement withwilling landowners to further the purposes of this subchapter.
+The Secretary may enter into a nondevelopment easement or conservation easement with willing landowners to further the purposes of this subchapter.
 
 #### (c) Conservation incentive payments
 

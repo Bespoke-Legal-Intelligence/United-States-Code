@@ -4,18 +4,9 @@
 | :--- | ---: |
 | [5601\.](%C2%A7%2005601%20-%20Purposes.md) | Purposes. |
 | [5602\.](%C2%A7%2005602%20-%20Multilateral%20efforts.md) | Multilateral efforts. |
-| (a) | Multilateral controls on proliferation. |
-| (b) | Multilateral controls on chemical agents, precursors, and equipment. |
 | [5603\.](%C2%A7%2005603%20-%20United%20States%20export%20controls.md) | United States export controls. |
 | [5604\.](%C2%A7%2005604%20-%20Determinations%20regarding%20use%20of%20chemical%20or%20biological%20weapons.md) | Determinations regarding use of chemical or biological weapons. |
-| (a) | Determination by President. |
-| (b) | Congressional requests; report. |
 | [5605\.](%C2%A7%2005605%20-%20Sanctions%20against%20use%20of%20chemical%20or%20biological%20weapons.md) | Sanctions against use of chemical or biological weapons. |
-| (a) | Initial sanctions. |
-| (b) | Additional sanctions if certain conditions not met. |
-| (c) | Removal of sanctions. |
-| (d) | Waiver. |
-| (e) | Contract sanctity. |
 | [5606\.](%C2%A7%2005606%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93228%2C%20div.%20B%2C%20title%20XIII%2C%20%C2%A71308%28g%29%281%29%28B%29%2C%20Sept.%2030%2C%202002%2C%20116%20Stat.%201441.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -24,7 +24,7 @@ The Secretary may issue a license in accordance with the provisions of this chap
 
 &emsp;(4) he determines that the deepwater port will not unreasonably interfere with international navigation or other reasonable uses of the high seas, as defined by treaty, convention, or customary international law;
 
-&emsp;(5) he determines, in accordance with the environmental review criteria established pursuant to section 1505 of this title, that the applicant has demonstrated that the deepwater port will be constructed and operated using best available technology, so as to prevent orminimize adverse impact on the marine environment;
+&emsp;(5) he determines, in accordance with the environmental review criteria established pursuant to section 1505 of this title, that the applicant has demonstrated that the deepwater port will be constructed and operated using best available technology, so as to prevent or minimize adverse impact on the marine environment;
 
 &emsp;(6) he has not been informed, within 45 days of the last public hearing on a proposed license for a designated application area, by the Administrator of the Environmental Protection Agency that the deepwater port will not conform with all applicable provisions of the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], or the Marine Protection, Research and Sanctuaries Act, as amended \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
 
@@ -50,13 +50,13 @@ If an application is made under this chapter for a license to construct a deepwa
 
 (1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter <sup>2</sup> or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.<sup>2</sup> To the extent practicable, conditions required to carry out the provisions and requirements of this chapter <sup>2</sup> shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
-(2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
+(2) No license shall be issued, transferred, or renewed under this chapter unless the licenseeor transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
 
 (3) The Secretary shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation or termination of a license, the licensee will remove all components of the deepwater port. In the case of components lying in the subsoil below the seabed, the Secretary is authorized to waive the removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to navigation or to the environment. At the request of the licensee, the Secretary, after consultation with the Secretary of the Interior, is authorized to waive the removal requirement as to any components which he determines may be utilized in connection with the transportation of oil, natural gas, or other minerals, pursuant to a lease granted under the provisions of the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], after which waiver the utilization of such components shall be governed by the terms of the Outer Continental Shelf Lands Act.
 
 #### (f) Amendments, transfers, and reinstatements
 
-The Secretary may amend, transfer, or reinstate a license issued under this chapter <sup>2</sup> if theSecretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
+The Secretary may amend, transfer, or reinstate a license issued under this chapter <sup>2</sup> if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
 
 #### (g) Eligible citizens
 
@@ -66,7 +66,11 @@ Any citizen of the United States who otherwise qualifies under the terms of this
 
 A license issued under this chapter remains in effect unless suspended or revoked by the Secretary or until surrendered by the licensee.
 
-(Pub. L. 93–627, §4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, §2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, §2003(a)(1), Aug. 18, 1990, 104 Stat. 507; Pub. L. 104–324, title V, §504, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(a)(2), Nov. 25, 2002, 116 Stat. 2086.)
+#### (i) Liquefied natural gas facilities
+
+To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with liquefied natural gas by United States flag vessels.
+
+(Pub. L. 93–627, §4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, §2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, §2003(a)(1), Aug. 18, 1990, 104 Stat. 507; Pub. L. 104–324, title V, §504, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(a)(2), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–241, title III, §304(b), July 11, 2006, 120 Stat. 527.)
 
 #### References in Text
 
@@ -80,9 +84,11 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title
 
 This chapter, referred to first three times in subsec. (e)(1) and first time in subsec. (f), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, §2, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 #### Amendments
+
+2006—Subsec. (i). Pub. L. 109–241 added subsec. (i).
 
 2002—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
 
@@ -96,7 +102,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug
 
 Subsec. (c)(7) to (10). Pub. L. 104–324, §504(b), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to section 1506 of this title, as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;”.
 
-Subsec. (e)(1). Pub. L. 104–324, §504(c), substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
+Subsec. (e)(1). Pub. L. 104–324, §504(c), substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual,approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
 
 Subsec. (e)(2). Pub. L. 104–324, §504(d), substituted “his license” for “his application”.
 
@@ -108,7 +114,7 @@ Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text gene
 
 Subsec. (e)(1). Pub. L. 98–419, §2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
-Subsec. (f). Pub. L. 98–419, §2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter andthe prerequisites to issuance under subsec. (c) of this section.
+Subsec. (f). Pub. L. 98–419, §2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
 
 Subsec. (h). Pub. L. 98–419, §2(d), substituted provision that a license issued under this chapter remain in effect unless suspended or revoked by the Secretary or until surrendered by the licensee for provisions which had limited the terms of licenses to not more than 20 years and which had granted each licensee a preferential right of renewal for not more than 10 years, subject to subsec. (c), upon such conditions and for such term as determined by the Secretary to be reasonable and appropriate.
 
@@ -119,6 +125,10 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### LNG Tankers
+
+Pub. L. 109–241, title III, §304(a), July 11, 2006, 120 Stat. 527, provided that: “The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to the United States on United States flag vessels.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

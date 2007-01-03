@@ -178,13 +178,13 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Use of Federal Training Facilities
 
-Pub. L. 109–162, title XI, §1173, Jan. 5, 2006, 119 Stat. 3124, provided that:
+Pub. L. 109–162, title XI, §1173, Jan. 5, 2006, 119 Stat. 3124, as amended by Pub. L. 109–271, §8(d), Aug. 12, 2006, 120 Stat. 766, provided that:
 
 “(a)
 
-Federal Training Facilities.—Unless authorized in writing by the Attorney General, or the Assistant Attorney General for Administration, if so delegated by the Attorney General, the Department of Justice (and each entity within it) shall use for any predominantly internal training or conference meeting only a facility that does not require a payment to a private entity for use of the facility.
+Federal Training Facilities.—Unless authorized in writing by the Attorney General, or the Assistant Attorney General for Administration, if so delegated by the Attorney General, the Department of Justice (and each entity within it) shall use for any predominantly internal training or conference meeting only a facility that does not require a payment to a private entity for use of the facility or for meals, lodging, or other expenses related to such internal training or conference meeting.
 
 “(b)
 
-Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting that requires specific authorization under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
+Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
 

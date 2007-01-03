@@ -1,5 +1,5 @@
 
-3 U.S.C.<br>United States Code, 2005 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
+3 U.S.C.<br>United States Code, 2006 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 3—THE PRESIDENT
 
@@ -9,7 +9,7 @@
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/README.md) | <b>Presidential Elections and Vacancies</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/README.md) | <b>Office and Compensation of President</b> | <b>101</b> |
-| [<b>3.</b>](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/README.md) | <b>Protection of the President; the White House Police </b><b><sup>1</sup></b> | <b>201</b> |
+| [<b>3.</b>](Chapter%20003%20-%20Repealed/README.md) | <b>Protection of the President; the White House Police </b><b><sup>1</sup></b> | <b>201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -473,6 +473,6 @@ May 14, 1930, ch. 277, §4, 46 Stat. 329.
 
 - [Chapter 001 - Presidential Elections and Vacancies](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/README.md)
 - [Chapter 002 - Office and Compensation of President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/README.md)
-- [Chapter 003 - Protection of the President; United States Secret Service Uniformed Division](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/README.md)
+- [Chapter 003 - Repealed](Chapter%20003%20-%20Repealed/README.md)
 - [Chapter 004 - Delegation of Functions](Chapter%20004%20-%20Delegation%20of%20Functions/README.md)
 - [Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices](Chapter%20005%20-%20Extension%20of%20Certain%20Rights%20and%20Protections%20to%20Presidential%20Offices/README.md)

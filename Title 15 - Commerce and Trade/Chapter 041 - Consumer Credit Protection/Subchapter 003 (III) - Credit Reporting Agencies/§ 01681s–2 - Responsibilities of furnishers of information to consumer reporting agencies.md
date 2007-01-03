@@ -36,7 +36,7 @@
 
 #### (3) Duty to provide notice of dispute
 
-&emsp;If the completeness or accuracy of any information furnished by any person to any consumer reporting agency is disputed to such person by a consumer, the person may not furnish the information to any consumer reporting agency without notice that such information is disputed by the consumer.
+&emsp;If the completeness or accuracy of any information furnished by any person to any consumer reporting agency is disputed to suchperson by a consumer, the person may not furnish the information to any consumer reporting agency without notice that such information is disputed by the consumer.
 
 #### (4) Duty to provide notice of closed accounts
 
@@ -78,7 +78,7 @@
 
 #### (ii) Notice effective for subsequent submissions
 
-&emsp;&emsp;&emsp;After providing such notice, the financial institution may submit additionalnegative information to a consumer reporting agency described in section 1681a(p) of this title with respect to the same transaction, extension of credit, account, or customer without providing additional notice to the customer.
+&emsp;&emsp;&emsp;After providing such notice, the financial institution may submit additional negative information to a consumer reporting agency described in section 1681a(p) of this title with respect to the same transaction, extension of credit, account, or customer without providing additional notice to the customer.
 
 #### (B) Time of notice
 
@@ -166,7 +166,7 @@
 
 #### (E) Duty of person after receiving notice of dispute
 
-&emsp;&emsp;After receiving a notice of dispute from a consumer pursuant to subparagraph (D), theperson that provided the information in dispute to a consumer reporting agency shall—
+&emsp;&emsp;After receiving a notice of dispute from a consumer pursuant to subparagraph (D), the person that provided the information in dispute to a consumer reporting agency shall—
 
 &emsp;&emsp;&emsp;(i) conduct an investigation with respect to the disputed information;
 
@@ -180,7 +180,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall not apply if the person receiving a notice of a dispute from a consumer reasonably determines that the dispute is frivolous or irrelevant, including—
+&emsp;&emsp;&emsp;This paragraph shall not apply if the person receiving a notice of a dispute from aconsumer reasonably determines that the dispute is frivolous or irrelevant, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 

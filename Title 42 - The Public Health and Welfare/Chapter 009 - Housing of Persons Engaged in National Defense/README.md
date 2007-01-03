@@ -30,7 +30,7 @@
 
 |  |
 | :--- |
-| 1531 to 1536. Omitted. |
+| 1531 to 1536. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,7 +58,7 @@
 
 |  |  |
 | :--- | ---: |
-| 1561 to 1563. Omitted. |  |
+| 1561 to 1563. Omitted. |  |
 | [1564\.](Subchapter%20005%20%28V%29%20-%20Defense%20Housing%20and%20Public%20Works%20for%20District%20of%20Columbia/%C2%A7%2001564%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -76,43 +76,18 @@
 |  |  |
 | :--- | ---: |
 | [1581\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001581%20-%20Housing%20disposition.md) | Housing disposition. |
-| (a) | Mandatory transfers. |
-| (b) | Transfer to provide housing for parents of deceased World War II servicemen. |
-| (c) | Requests for relinquishment and transfer. |
-| (d) | Representations by transferee as to use of property; preferences. |
-| (e) | Waiver of removal requirements. |
-| (f) | Disposition of net revenue and proceeds; transfer charges. |
-| (g) | Transfers for slum clearance and community redevelopment projects. |
-| (h) | Transfers of temporary housing of masonry construction. |
 | [1582\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001582%20-%20Temporary%20housing%20exempted%20from%20provisions%20of%20section%201553%20of%20this%20title.md) | Temporary housing exempted from provisions of section 1553 of this title. |
 | [1583\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001583%20-%20Redetermination%20of%20demountable%20housing%20as%20temporary%20or%20permanent.md) | Redetermination of demountable housing as temporary or permanent. |
 | [1584\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001584%20-%20Removal%20of%20all%20dwelling%20structures%20on%20land%20under%20Secretary%27s%20control%3B%20temporary%20housing%20exempted%3B%20preference%20in%20fulfilling%20vacancies.md) | Removal of all dwelling structures on land under Secretary's control; temporary housing exempted; preference in fulfilling vacancies. |
 | [1585\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001585%20-%20Acquisition%20of%20housing%20sites.md) | Acquisition of housing sites. |
-| (a) | Lease, condemnation or purchase; temporary housing. |
-| (b) | Land rentals. |
-| (c) | Reserve account; availability of moneys. |
 | [1586\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001586%20-%20Sale%20of%20specific%20housing%20projects.md) | Sale of specific housing projects. |
-| (a) | Conditions precedent. |
-| (b) | Projects as “low-rent housing”. |
-| (c) | Conditions and requirements of agreements. |
-| (d) | Disposition of payments. |
 | [1587\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001587%20-%20Disposition%20of%20other%20permanent%20war%20housing.md) | Disposition of other permanent war housing. |
-| (a) | Public interest. |
-| (b) | Preference in sales to individuals. |
-| (c) | Preference in sales of projects. |
-| (d) | Equitable selection method for each preference class. |
-| (e) | Veterans’ preference. |
-| (f) | Terms of sales. |
-| (g) | Disregard of preferences in certain cases. |
 | [1588\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001588%20-%20Sale%20of%20vacant%20land%20to%20local%20housing%20authorities%3B%20sale%20of%20personal%20property.md) | Sale of vacant land to local housing authorities; sale of personal property. |
 | [1589\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589%20-%20Conveyance%20of%20land%20and%20nondwelling%20structures%20thereon%20to%20States%20for%20National%20Guard%20purposes.md) | Conveyance of land and nondwelling structures thereon to States for National Guard purposes. |
 | [1589a.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589a%20-%20Extension%20by%20President%20of%20dates%20for%20disposal%20and%20other%20actions%20relating%20to%20housing%20under%20this%20subchapter.md) | Extension by President of dates for disposal and other actions relating to housing under this subchapter. |
 | [1589b.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589b%20-%20Establishment%20of%20income%20limitations%20for%20occupancy%20of%20housing%3B%20effect%20on%20prior%20tenants.md) | Establishment of income limitations for occupancy of housing; effect on prior tenants. |
 | [1589c.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589c%20-%20Transfer%20of%20certain%20housing%20to%20Indians.md) | Transfer of certain housing to Indians. |
 | [1589d.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589d%20-%20Undisposed%20housing.md) | Undisposed housing. |
-| (a) | Disposal to highest bidder; rejection of bids; disposal by negotiation. |
-| (b) | Contracts; time for passage of title; termination of purchaser's rights. |
-| (c) | Dates. |
 | [1590\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001590%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -123,14 +98,7 @@
 | :--- | ---: |
 | [1591\.](Subchapter%20008%20%28VIII%29%20-%20Critical%20Defense%20Housing%20Areas/%C2%A7%2001591%20-%20Determination%20of%20critical%20areas%20by%20President%3B%20requisite%20conditions.md) | Determination of critical areas by President; requisite conditions. |
 | [1591a.](Subchapter%20008%20%28VIII%29%20-%20Critical%20Defense%20Housing%20Areas/%C2%A7%2001591a%20-%20Construction%20by%20private%20enterprise.md) | Construction by private enterprise. |
-| (a) | Publication of number of units needed. |
-| (b) | Suspension of credit restrictions. |
-| (c) | Mortgage insurance. |
-| (d) | Construction by Government as conditional. |
 | [1591b.](Subchapter%20008%20%28VIII%29%20-%20Critical%20Defense%20Housing%20Areas/%C2%A7%2001591b%20-%20Community%20facilities%20or%20services%20by%20local%20agencies.md) | Community facilities or services by local agencies. |
-| (a) | Certification of necessity for loan. |
-| (b) | Certification of necessity for grants or other payments. |
-| (c) | Maintenance and operation of facilities. |
 | [1591c.](Subchapter%20008%20%28VIII%29%20-%20Critical%20Defense%20Housing%20Areas/%C2%A7%2001591c%20-%20Expiration%20date%3B%20exception.md) | Expiration date; exception. |
 | [1591d.](Subchapter%20008%20%28VIII%29%20-%20Critical%20Defense%20Housing%20Areas/%C2%A7%2001591d%20-%20Powers%20as%20cumulative%20and%20additional.md) | Powers as cumulative and additional. |
 
@@ -142,25 +110,14 @@
 | :--- | ---: |
 | [1592\.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
 | [1592a.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592a%20-%20Construction%20of%20housing.md) | Construction of housing. |
-| (a) | Types, sales, preferences in purchases, and payment. |
-| (b) | Temporary housing. |
-| (c) | Preference in admission to occupancy pending ultimate disposition. |
 | [1592b.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592b%20-%20Maximum%20construction%20costs%3B%20determinations%20by%20Secretary%20in%20certain%20condemnation%20proceedings.md) | Maximum construction costs; determinations by Secretary in certain condemnation proceedings. |
 | [1592c.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592c%20-%20Loans%20or%20grants%20for%20community%20facilities%20or%20services%3B%20conditions%3B%20maximum%20amounts%3B%20annual%20adjustments.md) | Loans or grants for community facilities or services; conditions; maximum amounts; annual adjustments. |
 | [1592d.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592d%20-%20Secretary%27s%20powers%20with%20respect%20to%20housing%2C%20facilities%2C%20and%20services.md) | Secretary's powers with respect to housing, facilities, and services. |
-| (a) | Planning, acquisition, construction, etc. |
-| (b) | Condemnation. |
-| (c) | Return to original owner in certain cases. |
 | [1592e.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592e%20-%20Interagency%20transfers%20of%20property%3B%20application%20of%20rules%20and%20regulations.md) | Interagency transfers of property; application of rules and regulations. |
 | [1592f.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592f%20-%20Preservation%20of%20local%20civil%20and%20criminal%20jurisdiction%2C%20and%20civil%20rights%3B%20jurisdiction%20of%20State%20courts.md) | Preservation of local civil and criminal jurisdiction, and civil rights; jurisdiction of State courts. |
 | [1592g.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592g%20-%20Payment%20of%20annual%20sums%20to%20local%20authorities%20in%20lieu%20of%20taxes.md) | Payment of annual sums to local authorities in lieu of taxes. |
 | [1592h.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592h%20-%20Conditions%20and%20requirements%20as%20to%20contracts%3B%20utilization%20of%20existing%20facilities%3B%20disposition%20of%20facilities%20constructed%20by%20United%20States.md) | Conditions and requirements as to contracts; utilization of existing facilities; disposition of facilities constructed by United States. |
 | [1592i.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592i%20-%20Laborers%20and%20mechanics.md) | Laborers and mechanics. |
-| (a) | Wages; overtime. |
-| (b) | Applicability of other laws. |
-| (c) | Stipulations in loan contracts as to wages; certification. |
-| (d) | Reports by contractors and subcontractors to Secretary of Labor. |
-| (e) | Prescription of standards, regulations, and procedures by Secretary of Labor. |
 | [1592j.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592j%20-%20Disposition%20of%20moneys%20derived%20from%20rentals%2C%20operation%2C%20and%20disposition%20of%20property.md) | Disposition of moneys derived from rentals, operation, and disposition of property. |
 | [1592k.](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/%C2%A7%2001592k%20-%20Determination%20of%20fair%20rentals%20and%20classes%20of%20occupants%20by%20Secretary.md) | Determination of fair rentals and classes of occupants by Secretary. |
 | 1592<i>l.</i> | Authorization of appropriations. |
@@ -174,7 +131,7 @@
 
 |  |  |
 | :--- | ---: |
-| 1593 to 1593d. Repealed. |  |
+| 1593 to 1593d. Repealed. |  |
 | [1593e.](Subchapter%20010%20%28X%29%20-%20Development%20Sites%20for%20Isolated%20Defense%20Installations/%C2%A7%2001593e%20-%20Housing%20of%20persons%20displaced%20by%20acquisition%20of%20property%20for%20defense%20installations%20or%20industries.md) | Housing of persons displaced by acquisition of property for defense installations or industries. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -184,17 +141,7 @@
 |  |  |
 | :--- | ---: |
 | [1594\.](Subchapter%20011%20%28XI%29%20-%20Housing%20for%20Military%20Personnel/%C2%A7%2001594%20-%20Contracts%20for%20construction.md) | Contracts for construction. |
-| (a) | Contract provisions; competitive bids. |
-| (b) | “Eligible bidder” defined. |
-| (c) | Acquisition of capital stock of property covered by mortgage. |
-| (d) | Opinion as to title to property; guarantee; title search and title insurance. |
 | [1594a.](Subchapter%20011%20%28XI%29%20-%20Housing%20for%20Military%20Personnel/%C2%A7%2001594a%20-%20Acquisition%20of%20military%20housing%20financed%20under%20Armed%20Services%20Housing%20Mortgage%20Insurance%20Fund%20and%20rental%20housing%20at%20military%20bases.md) | Acquisition of military housing financed under Armed Services Housing Mortgage Insurance Fund and rental housing at military bases. |
-| (a) | Purchase price. |
-| (b) | Housing at or near a military installation. |
-| (c) | Condemnation; procedures; deposit; payment; interest. |
-| (d) | Occupancy; use, or improvement of property before approval of title. |
-| (e) | Release of accrual requirements for replacement, taxes, and hazard insurance reserves. |
-| (f) | Use as public quarters or lease of housing. |
 | 1594a–1, 1594a–2. Repealed. |  |
 | [1594b.](Subchapter%20011%20%28XI%29%20-%20Housing%20for%20Military%20Personnel/%C2%A7%2001594b%20-%20Maintenance%20and%20operation%20of%20housing%3B%20use%20of%20quarters%3B%20payment%20of%20principal%2C%20interest%2C%20and%20other%20obligations.md) | Maintenance and operation of housing; use of quarters; payment of principal, interest, and other obligations. |
 | [1594c.](Subchapter%20011%20%28XI%29%20-%20Housing%20for%20Military%20Personnel/%C2%A7%2001594c%20-%20Services%20of%20architects%20and%20engineers%3B%20use%20of%20appropriations%3B%20acquisition%20of%20sites.md) | Services of architects and engineers; use of appropriations; acquisition of sites. |

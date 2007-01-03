@@ -20,7 +20,7 @@ Assistance in Obtaining Records.—(1) As part of the assistance provided under 
 
 &emsp;(C) describe any further action to be taken by the Secretary with respect to the claim.
 
-(3) Whenever the Secretary attempts to obtain records from a Federal department or agencyunder this subsection or subsection (c), the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.
+(3) Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection or subsection (c), the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.
 
 (c)
 

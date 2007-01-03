@@ -10,7 +10,7 @@ The Secretary of Energy, for projects not included under subsection (a) of this 
 
 #### (c) Guarantees, commitments to guarantee, direct loans, and grants; scope, terms and conditions, amount, etc.
 
-(1) In order to discharge his responsibilities under subsection (a) of this section, and in accordance with such rules and regulations as the Secretary of Energy in consultation with the Secretary of the Treasury shall prescribe, and subject to such terms and conditions as he deems appropriate, the Secretary of Energy is authorized, for the purposes of financing essential community development and planning which directly result from, or are necessitated by, a project under subsection (a) of this section, to—
+(1) In order to discharge his responsibilities under subsection (a) of this section, and in accordance with such rules and regulations as theSecretary of Energy in consultation with the Secretary of the Treasury shall prescribe, and subject to such terms and conditions as he deems appropriate, the Secretary of Energy is authorized, for the purposes of financing essential community development and planning which directly result from, or are necessitated by, a project under subsection (a) of this section, to—
 
 &emsp;(A) guarantee and make commitments to guarantee the payment of interest on, and the principal balance of, obligations for such financing issued by eligible States, political subdivisions, or Indian tribes,
 
@@ -50,7 +50,7 @@ Section 9(a) of the Mineral Leasing Act Amendments of 1976 (Public Law 94–377)
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in text for “Administrator” (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+“Secretary of Energy” substituted in text for “Administrator” (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 ofTitle 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 <i><sup>1</sup></i><i> So in original. The second “that” appearing in this sentence probably should not appear.</i>
 

@@ -26,7 +26,7 @@ The Attorney General may make grants to eligible States, Indian tribal governmen
 
 &emsp;(9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions in cases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
 
-&emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from non-profit, non-governmental victim services organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals, civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
+&emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from non-profit, non-governmental victim services organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals,civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
 
 &emsp;(11) To develop and implement policies and training for police, prosecutors, probation and parole officers, and the judiciary in recognizing, investigating, and prosecuting instances of sexual assault, with an emphasis on recognizing the threat to the community for repeat crime perpetration by such individuals.
 
@@ -76,15 +76,19 @@ A State or unit of local government shall not be entitled to 5 percent of the fu
 
 #### (e) Allotment for Indian tribes
 
-Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 <sup>4</sup> of this title. The requirements of this subchapter shall not apply to funds allocated for such program.
+#### (1) In general
 
-(Pub. L. 90–351, title I, §2101, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§1101(a)(2), (b)(2), 1102(b), 1109(c), title II, §1209(b), title V, §1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, §102(b), title IX, §906(c), Jan. 5, 2006, 119 Stat. 2975, 3081.)
+&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+
+#### (2) Applicability of subchapter
+
+&emsp;The requirements of this subchapter shall not apply to funds allocated for the program described in paragraph (1).
+
+(Pub. L. 90–351, title I, §2101, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§1101(a)(2), (b)(2), 1102(b), 1109(c), title II, §1209(b), title V, §1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, §102(b), title IX, §906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, §7(a)(5), Aug. 12, 2006, 120 Stat. 764.)
 
 #### References in Text
 
-January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.
-
-Section 3796gg–10 of this title, referred to in subsec. (e), was in the original a reference to section 2007 and was translated as meaning the section 2007 of Pub. L. 90–351, as added by Pub. L. 109–162, §906(a), to reflect the probable intent of Congress. Another section 2007 of Pub. L. 90–351, as added by Pub. L. 103–322, §40121(a)(3), is classified to section 3796gg–1 of this title.
+January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”,which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -112,9 +116,11 @@ Subsec. (c)(5). Pub. L. 109–162, §102(b)(3), added par. (5).
 
 Subsec. (d). Pub. L. 109–162, §102(b)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “In this section, the term ‘protection order’ has the meaning given the term in section 2266 of title 18.”
 
-Subsec. (e). Pub. L. 109–162, §906(c), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Not less than 10 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
+Subsec. (e). Pub. L. 109–271 added subsec. (e) and struck out former subsec. (e) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program.”
 
-Pub. L. 109–162, §102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Textread as follows: “Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
+Pub. L. 109–162, §906(c), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Not less than 10 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
+
+Pub. L. 109–162, §102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
 
 2000—Subsec. (a). Pub. L. 106–386, §1102(b)(1), inserted “State and local courts (including juvenile courts), tribal courts,” after “Indian tribal governments,”.
 
@@ -140,11 +146,13 @@ Subsec. (d). Pub. L. 106–386, §1101(b)(2)(B), added subsec. (d).
 
 Subsec. (e). Pub. L. 106–386, §1102(b)(4), added subsec. (e).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by sections 102(b) (except the amendment to subsec. (d) of this section included in that section) and 906(c) of Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be “its”.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
 

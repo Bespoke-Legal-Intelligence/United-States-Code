@@ -12,7 +12,7 @@ The programs to be developed by the States may include only the following activi
 
 &emsp;(2) Developing and implementing mechanisms for referring persons who may have been exposed to radiation to health care professionals with expertise in the health effects of radiation.
 
-&emsp;(3) Evaluating and, if feasible, implementing, registration and monitoring of persons who may have been exposed to radiation released from the Hanford Nuclear Reservation.
+&emsp;(3) Evaluating and, if feasible, implementing, registration and monitoring of personswho may have been exposed to radiation released from the Hanford Nuclear Reservation.
 
 #### (c) Plan and reports
 

@@ -66,7 +66,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 &emsp;(1) operation of the Preserve as a working ranch, consistent with paragraphs (2) through (4);
 
-&emsp;(2) the protection and preservation of the scientific, scenic, geologic, watershed, fish,wildlife, historic, cultural and recreational values of the Preserve;
+&emsp;(2) the protection and preservation of the scientific, scenic, geologic, watershed, fish, wildlife, historic, cultural and recreational values of the Preserve;
 
 &emsp;(3) multiple use and sustained yield of renewable resources within the Preserve;
 
@@ -178,7 +178,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### References in Text
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f)(1), is Pub.L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 The American Indian Religious Freedom Act, referred to in subsec. (f)(5), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 

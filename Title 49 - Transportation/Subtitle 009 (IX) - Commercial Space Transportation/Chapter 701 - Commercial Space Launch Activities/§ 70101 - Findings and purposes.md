@@ -118,7 +118,7 @@ Pub. L. 108–492, §1, Dec. 23, 2004, 118 Stat. 3974, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–405, §1, Nov. 1, 2000, 114 Stat. 1751, provided that: “This Act \[amending sections 70113 and 70119 of this title and enacting provisions set out as notes under this section and sections 70112 and 70113 of this title and section 2281 of Title 10, Armed Forces\] may be cited as the ‘Commercial Space Transportation Competitiveness Act of 2000’.”
+Pub. L. 106–405, §1, Nov. 1, 2000, 114 Stat. 1751, provided that: “This Act \[amending sections 70113 and 70119 of this title and enacting provisions set out asnotes under this section and sections 70112 and 70113 of this title and section 2281 of Title 10, Armed Forces\] may be cited as the ‘Commercial Space Transportation Competitiveness Act of 2000’.”
 
 #### Findings
 

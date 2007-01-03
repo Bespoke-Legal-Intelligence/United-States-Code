@@ -24,6 +24,10 @@
 
 1980—Pub. L. 96–515 added subsec. (a), designated existing provision as subsec. (b), and in subsec. (b) as so designated, redesignated pars. (a) to (d) as (1), (2), (5), and (7), respectively, in par. (1) as so redesignated, substituted “heritage” for “past”, and added pars. (3), (4), and (6).
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–453, §1(a), Dec. 22, 2006, 120 Stat. 3367, provided that: “This Act \[enacting section 470v–2 of this title and amending sections 470h, 470i, 470m, and 470t of this title\] may be cited as the ‘National Historic Preservation Act Amendments Act of 2006’.”
+
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–355, §1, Oct. 24, 2000, 114 Stat. 1385, provided that: “This Act \[enacting sections 470w–7 and 470w–8 of this title\] may be cited as the ‘National Historic Lighthouse Preservation Act of 2000’.”
@@ -74,7 +78,7 @@ Sec. 3. <i>Responsibilities of the Secretary of the Interior</i>. The Secretary 
 
 (f) advise Federal agencies in the evaluation, identification, preservation, improvement, restoration and maintenance of historic properties.
 
-(g) review and evaluate the plans of transferees of surplus Federal properties transferred for historicmonument purposes to assure that the historic character of such properties is preserved in rehabilitation, restoration, improvement, maintenance and repair of such properties.
+(g) review and evaluate the plans of transferees of surplus Federal properties transferred for historic monument purposes to assure that the historic character of such properties is preserved in rehabilitation, restoration, improvement, maintenance and repair of such properties.
 
 (h) review and comment upon Federal agency procedures submitted pursuant to section 2(e) of this order.
 

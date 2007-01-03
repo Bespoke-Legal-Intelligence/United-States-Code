@@ -5,8 +5,6 @@
 | Sec. |  |
 | :--- | ---: |
 | [3901\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003901%20-%20Findings%20and%20statement%20of%20purpose.md) | Findings and statement of purpose. |
-| (a) | Findings. |
-| (b) | Purpose. |
 | [3902\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003902%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +14,7 @@
 |  |  |
 | :--- | ---: |
 | [3911\.](Subchapter%20002%20%28II%29%20-%20Revenues%20for%20Refuge%20Operations%20and%20the%20Migratory%20Bird%20Conservation%20Fund/%C2%A7%2003911%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93447%2C%20div.%20J%2C%20title%20VIII%2C%20%C2%A7813%28c%29%2C%20Dec.%208%2C%202004%2C%20118%20Stat.%203390.md) | Repealed. |
-| [3912\.](Subchapter%20002%20%28II%29%20-%20Revenues%20for%20Refuge%20Operations%20and%20the%20Migratory%20Bird%20Conservation%20Fund/%C2%A7%2003912%20-%20Transfers%20to%20migratory%20bird%20conservation%20fund.md) | Transfers to migratory bird conservation fund. |
+| [3912\.](Subchapter%20002%20%28II%29%20-%20Revenues%20for%20Refuge%20Operations%20and%20the%20Migratory%20Bird%20Conservation%20Fund/%C2%A7%2003912%20-%20Transfers%20to%20Migratory%20Bird%20Conservation%20Fund.md) | Transfers to Migratory Bird Conservation Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,9 +23,6 @@
 |  |  |
 | :--- | ---: |
 | [3921\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Federal%20Wetlands%20Acquisition/%C2%A7%2003921%20-%20National%20wetlands%20priority%20conservation%20plan.md) | National wetlands priority conservation plan. |
-| (a) | In general. |
-| (b) | Consultation. |
-| (c) | Factors to be considered. |
 | [3922\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Federal%20Wetlands%20Acquisition/%C2%A7%2003922%20-%20Federal%20acquisition.md) | Federal acquisition. |
 | [3923\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Federal%20Wetlands%20Acquisition/%C2%A7%2003923%20-%20Restriction%20on%20use%20of%20eminent%20domain%20in%20acquisitions.md) | Restriction on use of eminent domain in acquisitions. |
 
@@ -38,11 +33,7 @@
 |  |  |
 | :--- | ---: |
 | [3931\.](Subchapter%20004%20%28IV%29%20-%20Wetlands%20Inventory%20and%20Trend%20Analysis/%C2%A7%2003931%20-%20National%20wetlands%20inventory%20project.md) | National wetlands inventory project. |
-| (a) | In general. |
-| (b) | Notice. |
 | [3932\.](Subchapter%20004%20%28IV%29%20-%20Wetlands%20Inventory%20and%20Trend%20Analysis/%C2%A7%2003932%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| (a) | In general. |
-| (b) | Contents of reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

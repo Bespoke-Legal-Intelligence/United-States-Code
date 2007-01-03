@@ -70,7 +70,7 @@ Water resources project.—The term ‘water resources project’ means a projec
 
 “(b)
 
-Independent peer review of projects.—
+Independent Peer Review of Projects.—
 
 &emsp;“(1)
 

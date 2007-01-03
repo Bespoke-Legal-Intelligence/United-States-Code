@@ -38,7 +38,7 @@ Applications for grants under this section shall be submitted to the Secretary i
 
 #### (d) Funding for services
 
-The Secretary may not make a grant under this section for conversion activities unless the application contains sufficient evidence, in the determination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility, which may be provided by third parties.
+The Secretary may not make a grant under this section for conversion activities unless the application contains sufficient evidence, in thedetermination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility, which may be provided by third parties.
 
 #### (e) Selection criteria
 
@@ -66,7 +66,7 @@ The Secretary shall select applications for grants under this section based upon
 
 #### (2) Calculation of rent
 
-&emsp;For assistance pursuant to this subsection, the maximum monthly rent of a dwelling unitthat is an assisted living facility with respect to which assistance payments are made shall not include charges attributable to services relating to assisted living.
+&emsp;For assistance pursuant to this subsection, the maximum monthly rent of a dwelling unit that is an assisted living facility with respect to which assistance payments are made shall not include charges attributable to services relating to assisted living.
 
 #### (g) Definitions
 

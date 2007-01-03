@@ -26,7 +26,7 @@
 
 #### (C) Relation to minimum fee
 
-&emsp;&emsp;The reductions made under this paragraph may not reduce the land use fee for an organizational camp below the minimum landuse fee required to be charged under paragraph (4).
+&emsp;&emsp;The reductions made under this paragraph may not reduce the land use fee for an organizational camp below the minimum land use fee required to be charged under paragraph (4).
 
 #### (D) Special considerations
 
@@ -34,7 +34,7 @@
 
 #### (4) Minimum land use fee
 
-&emsp;The Secretary shall charge a minimum land use fee under paragraph (1) that represents, on average, the Secretary's cost annually to administer an organizational camp special use authorization in the National Forest Region in which the organizational camp is located. Notwithstanding paragraph (3) or subsection (d), the minimum land use fee shall not be subject to a reduction or waiver.
+&emsp;The Secretary shall charge a minimum land use fee under paragraph (1) that represents, onaverage, the Secretary's cost annually to administer an organizational camp special use authorization in the National Forest Region in which the organizational camp is located. Notwithstanding paragraph (3) or subsection (d), the minimum land use fee shall not be subject to a reduction or waiver.
 
 #### (b) Facility use fee
 

@@ -48,7 +48,7 @@ In addition to other provisions of law and not withstanding the specific exclusi
 
 Nothing in this Act shall restrict, affect or modify the rights of any person (1) to seek damages or enforcement of any standard or limitation under State law, including State common law, or (2) to seek damages under other Federal law, including maritime tort law, resulting from noncompliance with any requirement of this Act or any permit under this Act.
 
-(Pub. L. 92–532, title I, §106, Oct. 23, 1972, 86 Stat. 1058; Pub. L. 96–572, §4, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 99–499, title I, §127(d), Oct. 17, 1986, 100 Stat. 1693; Pub. L. 101–596, title II, §203, Nov.16, 1990, 104 Stat. 3006; Pub. L. 102–580, title V, §505, Oct. 31, 1992, 106 Stat. 4867.)
+(Pub. L. 92–532, title I, §106, Oct. 23, 1972, 86 Stat. 1058; Pub. L. 96–572, §4, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 99–499, title I, §127(d), Oct. 17, 1986, 100 Stat. 1693; Pub. L. 101–596, title II, §203, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 102–580, title V, §505, Oct. 31, 1992, 106 Stat. 4867.)
 
 #### References in Text
 

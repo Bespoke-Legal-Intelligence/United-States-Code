@@ -4,7 +4,7 @@
 
 The Board shall have the following authorities:
 
-&emsp;(1) To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
+&emsp;(1) To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 etseq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
 
 &emsp;(2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
 
@@ -38,7 +38,7 @@ The Board shall have the following authorities:
 
 &emsp;(16) To procure, pursuant to section 1535 of title 31 (commonly known as the “Economy Act”), such goods and services from other departments or agencies for the Board and the International Broadcasting Bureau as the Board determines are appropriate.
 
-&emsp;(17) To utilize the provisions of titles III, IV, V, VII, VIII, IX, and X of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], and section 6 of Reorganization Plan Number 2 of 1977, as in effect on the day before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, to the extent the Boardconsiders necessary in carrying out the provisions and purposes of this chapter.
+&emsp;(17) To utilize the provisions of titles III, IV, V, VII, VIII, IX, and X of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], and section 6 of Reorganization Plan Number 2 of 1977, as in effect on the day before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, to the extent the Board considers necessary in carrying out the provisions and purposes of this chapter.
 
 &emsp;(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Bureau, or the Board before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
 
@@ -48,7 +48,7 @@ The Board shall have the following authorities:
 
 #### (b) Delegation of authority
 
-The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a) of this section.
+The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, exceptthose authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a) of this section.
 
 #### (c) Broadcasting budgets
 

@@ -111,10 +111,13 @@
 | [<b>97.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20097%20-%20Department%20of%20Homeland%20Security/README.md) | <b>Department of Homeland Security</b> | <b>9701</b> |
 | [<b>98.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20098%20-%20National%20Aeronautics%20and%20Space%20Administration/README.md) | <b>National Aeronautics and Space Administration</b> | <b>9801</b> |
 | [<b>99.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20099%20-%20Department%20of%20Defense%20National%20Security%20Personnel%20System/README.md) | <b>Department of Defense National Security Personnel System</b> | <b>9901</b> |
+| [<b>101.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20101%20-%20Federal%20Emergency%20Management%20Agency%20Personnel/README.md) | <b>Federal Emergency Management Agency Personnel</b> | <b>10101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–295, title VI, §621(b), Oct. 4, 2006, 120 Stat. 1416, added item for chapter 101.
 
 2004—Pub. L. 108–496, §4, Dec. 23, 2004, 118 Stat. 4010, added items for chapters 89A and 89B.
 
@@ -142,7 +145,7 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 
 1984—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
 
-1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in headingof subpart F “Labor-Management and” before “Employee”.
+1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
 
 
 ---

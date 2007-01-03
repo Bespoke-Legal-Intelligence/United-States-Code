@@ -74,7 +74,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
 
-&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435).
+&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds thebenchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435).
 
 (2)(A) The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
 
@@ -208,7 +208,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
 
-(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of such other proceeding are not allowable under paragraph (1).
+(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of suchother proceeding are not allowable under paragraph (1).
 
 (6) In this subsection:
 
@@ -234,7 +234,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 Definitions.—In this section:
 
-&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
 
 &emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
@@ -456,7 +456,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 Section 818(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\] and shall apply, as provided in regulations prescribed by the Secretary of Defense, with respect to proposals for settlement of indirect costs for which the Federal Government has not formally initiated an audit before that date.”
 
@@ -506,7 +506,7 @@ Section 826(b) of Pub. L. 100–456 provided that: “The Secretary of Defense s
 
 Section 832(b) of Pub. L. 100–456 related to regulations for the implementation of subsec. (e)(1)(N) of this section, prior to repeal by Pub. L. 100–700, §8(c), Nov. 19, 1988, 102 Stat. 4638.
 
-Section 101(b) \[title VIII, §8112(b), (c)\] of Pub. L. 99–190 required the regulations required under section 911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with 41 U.S.C. 418b and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
+Section 101(b) \[title VIII, §8112(b), (c)\] of Pub. L. 99–190 required the regulations required under section911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with 41 U.S.C. 418b and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
 
 Section 911(b) of Pub. L. 99–145 provided that:
 
@@ -517,6 +517,66 @@ Section 911(b) of Pub. L. 99–145 provided that:
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Report and Regulations on Excessive Pass-Through Charges
+
+Pub. L. 109–364, div. A, title VIII, §852, Oct. 17, 2006, 120 Stat. 2340, provided that:
+
+“(a)
+
+Comptroller General Report on Excessive Pass-Through Charges.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Comptroller General shall issue a report on pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense.
+
+&emsp;“(2)
+
+Matters covered.—The report issued under this subsection—
+
+&emsp;&emsp;“(A) shall assess the extent to which the Department of Defense has paid excessive pass-through charges to contractors who provided little or no value to the performance of the contract;
+
+&emsp;&emsp;“(B) shall assess the extent to which the Department has been particularly vulnerable to excessive pass-through charges on any specific category of contracts or by any specific category of contractors (including any category of small business); and
+
+&emsp;&emsp;“(C) shall determine the extent to which any prohibition on excessive pass-through charges would be inconsistent with existing commercial practices for any specific category of contracts or have an unjustified adverse effect on any specific category of contractors (including any category of small business).
+
+“(b)
+
+Regulations Required.—
+
+&emsp;“(1)
+
+In general.—Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations to ensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
+
+&emsp;“(2)
+
+Scope of regulations.—The regulations prescribed under this subsection—
+
+&emsp;&emsp;“(A) shall not apply to any firm, fixed-price contract or subcontract (or task or delivery order) that is—
+
+&emsp;&emsp;&emsp;“(i) awarded on the basis of adequate price competition; or
+
+&emsp;&emsp;&emsp;“(ii) for the acquisition of a commercial item, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+
+&emsp;&emsp;“(B) may include such additional exceptions as the Secretary determines to be necessary in the interest of the national defense.
+
+&emsp;“(3)
+
+Definition.—In this section, the term ‘excessive pass-through charge’, with respect to a contractor or subcontractor that adds no, or negligible, value to a contract or subcontract, means a charge to the Government by the contractor or subcontractor that is for overhead or profit on work performed by a lower-tier contractor or subcontractor (other than charges for the direct costs of managing lower-tier contracts and subcontracts and overhead and profit based on such direct costs).
+
+&emsp;“(4)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the steps taken to implement the requirements of this subsection, including—
+
+&emsp;&emsp;“(A) any standards for determining when no, or negligible, value has been added to a contract by a contractor or subcontractor;
+
+&emsp;&emsp;“(B) any procedures established for preventing excessive pass-through charges; and
+
+&emsp;&emsp;“(C) any exceptions determined by the Secretary to be necessary in the interest of the national defense.
+
+&emsp;“(5)
+
+Effective date.—The regulations prescribed under this subsection shall apply to contracts awarded for or on behalf of the Department of Defense on or after May 1, 2007.”
 
 #### Payment of Restructuring Costs Under Defense Contracts
 
@@ -600,27 +660,7 @@ Section 826(c) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, �
 
 #### Air Travel Expenses of Defense Contractor Personnel
 
-Section 833 of Pub. L. 100–456, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, provided that:
-
-“(a)
-
-Air Fare Discount Agreements.—The Administrator of General Services shall enter into negotiations with commercial air carriers with a view to achieving agreements that permit personnel of contractors who are traveling solely in the performance of covered contracts to be transported by such carriers at the same discount air passenger transportation rates as such carriers charge for travel by Federal Government employees traveling at Government expense.
-
-“(b)
-
-Allowable Costs.—Not later than 120 days after the first agreement goes into effect between the Administrator of General Services and a commercial air carrier under subsection (a), the Secretary of Defense shall prescribe regulations that provide that costs for travel by commercial air carrier by an employee of a defense contractor that exceed the air passenger transportation rates established under the agreement are not allowable costs under section 2324 of title 10, United States Code, under a covered contract if—
-
-&emsp;“(1) the rate was available; and
-
-&emsp;“(2) travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate.
-
-“(c)
-
-Covered Contract.—In this section, the term ‘covered contract’ has the meaning given such term by section 2324(m) of title 10, United States Code.
-
-“(d)
-
-Expiration.—This section shall cease to be effective three years after the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
 
 #### Burden of Proof in Government Contract Dispute Resolution
 

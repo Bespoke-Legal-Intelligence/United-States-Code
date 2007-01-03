@@ -12,7 +12,7 @@ It shall be unlawful for any person, by the use of the mails or by any means or 
 
 #### (c) Information to holders of record prior to annual or other meeting
 
-Unless proxies, consents, or authorizations in respect of a security registered pursuant to section 78<i>l</i> of this title, or a security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], are solicited by or on behalf of the management of the issuer from the holders of record of such security in accordance with the rules and regulations prescribed under subsection (a) of this section, prior to any annual or othermeeting of the holders of such security, such issuer shall, in accordance with rules and regulations prescribed by the Commission, file with the Commission and transmit to all holders of record of such security information substantially equivalent to the information which would be required to be transmitted if a solicitation were made, but no information shall be required to be filed or transmitted pursuant to this subsection before July 1, 1964.
+Unless proxies, consents, or authorizations in respect of a security registered pursuant to section 78<i>l</i> of this title, or a security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], are solicited by or on behalf of the management of the issuer from the holders of record of such security in accordance with the rules and regulations prescribed under subsection (a) of this section, prior to any annual or other meeting of the holders of such security, such issuer shall, in accordance with rules and regulations prescribed by the Commission, file with the Commission and transmit to all holders of record of such security information substantially equivalent to the information which would be required to be transmitted if a solicitation were made, but no information shall be required to be filed or transmitted pursuant to this subsection before July 1, 1964.
 
 #### (d) Tender offer by owner of more than five per centum of class of securities; exceptions
 
@@ -24,7 +24,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (4) Any solicitation or recommendation to the holders of such a security to accept or reject a tender offer or request or invitation for tenders shall be made in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may be withdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
+(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may be withdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or requestor invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
 
 (6) Where any person makes a tender offer, or request or invitation for tenders, for less than all the outstanding equity securities of a class, and where a greater number of securities is deposited pursuant thereto within ten days after copies of the offer or request or invitation are first published or sent or given to security holders than such person is bound or willing to take up and pay for, the securities taken up shall be taken up as nearly as may be pro rata, disregarding fractions, according to the number of securities deposited by each depositor. The provisions of this subsection shall also apply to securities deposited within ten days after notice of an increase in the consideration offered to security holders, as described in paragraph (7), is first published or sent or given to security holders.
 
@@ -40,7 +40,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 #### (e) Untrue statement of material fact or omission of fact with respect to tender offer
 
-It shall be unlawful for any person to make any untrue statement of a material fact or omitto state any material fact necessary in order to make the statements made, in the light of the circumstances under which they are made, not misleading, or to engage in any fraudulent, deceptive, or manipulative acts or practices, in connection with any tender offer or request or invitation for tenders, or any solicitation of security holders in opposition to or in favor of any such offer, request, or invitation. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such acts and practices as are fraudulent, deceptive, or manipulative.
+It shall be unlawful for any person to make any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements made, in the light of the circumstances under which they are made, not misleading, or to engage in any fraudulent, deceptive, or manipulative acts or practices, in connection with any tender offer or request or invitation for tenders, or any solicitation of security holders in opposition to or in favor of any such offer, request, or invitation. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such acts and practices as are fraudulent, deceptive, or manipulative.
 
 #### (f) Election or designation of majority of directors of issuer by owner of more than five per centum of class of securities at other than meeting of security holders
 
@@ -114,7 +114,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;&emsp;&emsp;(ii) any holder of not less than 5 percent of the outstanding securities that are the subject of the proposed limited partnership rollup transaction who engages in the business of buying and selling limited partnership interests in the secondary market shall be required to disclose such ownership interests and any potential conflicts of interests in such preliminary communications;
 
-&emsp;&emsp;(B) require the issuer to provide to holders of the securities that are the subject of the limited partnership rollup transaction such list of the holders of the issuer's securities as the Commission may determine in such form and subject to such terms and conditions as the Commission may specify;
+&emsp;&emsp;(B) require the issuer to provide to holders of the securities that are the subject of the limited partnership rollup transaction such list of the holders of the issuer's securitiesas the Commission may determine in such form and subject to such terms and conditions as the Commission may specify;
 
 &emsp;&emsp;(C) prohibit compensating any person soliciting proxies, consents, or authorizations directly from security holders concerning such a limited partnership rollup transaction—
 
@@ -138,7 +138,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;&emsp;&emsp;(vii) such other matters deemed necessary or appropriate by the Commission;
 
-&emsp;&emsp;(E) require a statement by the general partner as to whether the proposed limited partnership rollup transaction is fair or unfair to investors in each limited partnership,a discussion of the basis for that conclusion, and an evaluation and a description by the general partner of alternatives to the limited partnership rollup transaction, such as liquidation;
+&emsp;&emsp;(E) require a statement by the general partner as to whether the proposed limited partnership rollup transaction is fair or unfair to investors in each limited partnership, a discussion of the basis for that conclusion, and an evaluation and a description by the general partner of alternatives to the limited partnership rollup transaction, such as liquidation;
 
 &emsp;&emsp;(F) provide that, if the general partner or sponsor has obtained any opinion (other than an opinion of counsel), appraisal, or report that is prepared by an outside party and that is materially related to the limited partnership rollup transaction, such soliciting materials shall contain or be accompanied by clear, concise, and comprehensible disclosure with respect to—
 
@@ -162,7 +162,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 #### (2) Exemptions
 
-&emsp;The Commission may, consistent with the public interest, the protection of investors, and the purposes of this chapter, exempt by rule or order any security or class of securities, any transaction or class of transactions, or any person or class of persons, in whole or in part, conditionally or unconditionally, from the requirements imposed pursuant to paragraph (1) or from the definition contained in paragraph (4).
+&emsp;The Commission may, consistent with the public interest, the protection of investors, and the purposes of this chapter, exempt by rule or order any security or class of securities, any transaction or class of transactions,or any person or class of persons, in whole or in part, conditionally or unconditionally, from the requirements imposed pursuant to paragraph (1) or from the definition contained in paragraph (4).
 
 #### (3) Effect on Commission authority
 
@@ -184,7 +184,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;Notwithstanding paragraph (4), the term “limited partnership rollup transaction” does not include—
 
-&emsp;&emsp;(A) a transaction that involves only a limited partnership or partnerships having an operating policy or practice of retaining cash available for distribution and reinvesting proceeds from the sale, financing, or refinancing of assets in accordance with suchcriteria as the Commission determines appropriate;
+&emsp;&emsp;(A) a transaction that involves only a limited partnership or partnerships having an operating policy or practice of retaining cash available for distribution and reinvesting proceeds from the sale, financing, or refinancing of assets in accordance with such criteria as the Commission determines appropriate;
 
 &emsp;&emsp;(B) a transaction involving only limited partnerships wherein the interests of the limited partners are repurchased, recalled, or exchanged in accordance with the terms of the preexisting limited partnership agreements for securities in an operating company specifically identified at the time of the formation of the original limited partnership;
 
@@ -242,7 +242,7 @@ Subsec. (e). Pub. L. 91–567, §5, inserted provisions requiring the Commission
 
 1964—Subsec. (a). Pub. L. 88–467, §5(a), substituted provisions which make it unlawful for any person, in contravention of the Commission's rules and regulations, to solicit, or to permit the use of his name to solicit, proxies in respect of any security registered pursuant to section 78<i>l</i> of this title for former provisions which limited the Commission's rulemaking authority to proxies relating to securities listed and registered on a national securities exchange.
 
-Subsec. (b). Pub. L. 88–467, §5(b), substituted provisions which make it unlawful for members of a national securities exchange and brokers and dealers registered under this chapter, in contravention of such rules as may be prescribed by the Commission, to give, or to refrain from giving proxies, consents, and other authorizations in respect of any security registered under section 78<i>l</i> of this title carried for the account of customers for former provisions which limited the Commission's rulemaking authority only to the giving of proxies in respect to listed securities carried for the account of customers by members of the national securities exchanges and by brokers or dealers who conduct business through the medium of an exchange member,and deleted the reference to brokers and dealers who transacted business through the medium of an exchange member as being now covered by brokers and dealers registered under this chapter.
+Subsec. (b). Pub. L. 88–467, §5(b), substituted provisions which make it unlawful for members of a national securities exchange and brokers and dealers registered under this chapter, in contravention of such rules as may be prescribed by the Commission, to give, or to refrain from giving proxies, consents, and other authorizations in respect of any security registered under section 78<i>l</i> of this title carried for the account of customers for former provisions which limited the Commission's rulemaking authority only to the giving of proxies in respect to listed securities carried for the account of customers by members of the national securities exchanges and by brokers or dealers who conduct business through the medium of an exchange member, and deleted the reference to brokers and dealers who transacted business through the medium of an exchange member as being now covered by brokers and dealers registered under this chapter.
 
 Subsec. (c). Pub. L. 88–467, §5(c), added subsec. (c).
 

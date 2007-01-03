@@ -20,7 +20,7 @@ A State that receives funds under this part for a fiscal year shall provide the 
 
 &emsp;&emsp;&emsp;(ii) a description of how students participating in the program carried out by the community learning center will travel safely to and from the center and home; and
 
-&emsp;&emsp;&emsp;(iii) a description of how the eligible entity will disseminate information about the community learning center (including its location) to the community in a manner that is understandable and accessible;
+&emsp;&emsp;&emsp;(iii) a description of how the eligible entity will disseminate information about the community learning center (includingits location) to the community in a manner that is understandable and accessible;
 
 &emsp;&emsp;(B) a description of how the activity is expected to improve student academic achievement;
 
@@ -32,7 +32,7 @@ A State that receives funds under this part for a fiscal year shall provide the 
 
 &emsp;&emsp;(F) an assurance that the program will primarily target students who attend schools eligible for schoolwide programs under section 6314 of this title and the families of such students;
 
-&emsp;&emsp;(G) an assurance that funds under this part will be used to increase the level of State, local, and other non-Federal funds thatwould, in the absence of funds under this part, be made available for programs and activities authorized under this part, and in no case supplant Federal, State, local, or non-Federal funds;
+&emsp;&emsp;(G) an assurance that funds under this part will be used to increase the level of State, local, and other non-Federal funds that would, in the absence of funds under this part, be made available for programs and activities authorized under this part, and in no case supplant Federal, State, local, or non-Federal funds;
 
 &emsp;&emsp;(H) a description of the partnership between a local educational agency, a community-based organization, and another public entity or private entity, if appropriate;
 
@@ -106,7 +106,7 @@ A grant awarded under this part may not be made in an amount that is less than $
 
 #### (2) Special rule
 
-&emsp;The State educational agency shall provide the same priority under paragraph (1) to an application submitted by a local educational agency if the local educational agency demonstrates that it is unable to partner with a community-based organization in reasonable geographic proximity and of sufficient quality to meet the requirements of this part.
+&emsp;The State educational agency shall provide the same priority under paragraph (1) to anapplication submitted by a local educational agency if the local educational agency demonstrates that it is unable to partner with a community-based organization in reasonable geographic proximity and of sufficient quality to meet the requirements of this part.
 
 (Pub. L. 89–10, title IV, §4204, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1769.)
 

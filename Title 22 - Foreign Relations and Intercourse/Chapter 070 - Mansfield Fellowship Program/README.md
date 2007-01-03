@@ -3,22 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [6101\.](%C2%A7%2006101%20-%20Establishment%20of%20Fellowship%20Program.md) | Establishment of Fellowship Program. |
-| (a) | Establishment. |
-| (b) | Eligibility of Center for grants. |
-| (c) | International agreement. |
-| (d) | Private sources. |
-| (e) | Use of Federal facilities. |
 | [6102\.](%C2%A7%2006102%20-%20Program%20requirements.md) | Program requirements. |
 | [6103\.](%C2%A7%2006103%20-%20Separation%20of%20Government%20personnel%20during%20fellowships.md) | Separation of Government personnel during fellowships. |
-| (a) | Separation. |
-| (b) | Reemployment. |
-| (c) | Rights and benefits. |
-| (d) | Compliance with Budget Act. |
 | [6104\.](%C2%A7%2006104%20-%20Mansfield%20Fellows%20on%20detail%20from%20Government%20service.md) | Mansfield Fellows on detail from Government service. |
-| (a) | In general. |
-| (b) | Status as Government employee. |
-| (c) | Reimbursement. |
-| (d) | Allowances and benefits. |
 | [6105\.](%C2%A7%2006105%20-%20Liability%20for%20repayments.md) | Liability for repayments. |
 | [6106\.](%C2%A7%2006106%20-%20Definitions.md) | Definitions. |
 

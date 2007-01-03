@@ -8,7 +8,7 @@ This section may be cited as the “National Advisory Committee on Semiconductor
 
 (1) The Congress finds and declares that—
 
-&emsp;(A) semiconductor technology is playing an ever-increasing role in United States industrial and commercial products and processes, making secure domestic sources of state-of-the-art semiconductors highly desirable;
+&emsp;(A) semiconductor technology is playing an ever-increasing role in United States industrial and commercial products and processes,making secure domestic sources of state-of-the-art semiconductors highly desirable;
 
 &emsp;(B) modern weapons systems are highly dependent on leading edge semiconductor devices, and it is counter to the national security interest to be heavily dependent upon foreign sources for this technology;
 
@@ -58,7 +58,7 @@ There is hereby created in the executive branch of the Government an independent
 
 (B) The Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of the Office of Science and Technology Policy, and the Director of the National Science Foundation, or their designees, shall serve as members of the Committee.
 
-(C) The President, acting through the Director of the Office of Science and Technology Policy,shall appoint, as additional members of the Committee, 4 members from outside the Federal Government who are eminent in the semiconductor industry, and 4 members from outside the Federal Government who are eminent in the fields of technology, defense, and economic development.
+(C) The President, acting through the Director of the Office of Science and Technology Policy, shall appoint, as additional members of the Committee, 4 members from outside the Federal Government who are eminent in the semiconductor industry, and 4 members from outside the Federal Government who are eminent in the fields of technology, defense, and economic development.
 
 (D) One of the members appointed under subparagraph (C), as designated by the President at the time of appointment, shall be chairman of the Committee.
 

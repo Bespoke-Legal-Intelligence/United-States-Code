@@ -4,11 +4,13 @@
 
 #### (1) Authority and eligibility
 
-&emsp;Parents of a dependent student shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, if—
+&emsp;A graduate or professional student or the parents of a dependent student shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, if—
 
-&emsp;&emsp;(A) the parents do not have an adverse credit history as determined pursuant to regulations promulgated by the Secretary; and
+&emsp;&emsp;(A) the graduate or professional student or the parents do not have an adverse credit history as determined pursuant to regulations promulgated by the Secretary;
 
-&emsp;&emsp;(B) the parents meet such other eligibility criteria as the Secretary may establish by regulation, after consultation with guaranty agencies, eligible lenders, and other organizations involved in student financial assistance.
+&emsp;&emsp;(B) in the case of a graduate or professional student or parent who has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining funds under this subchapter and part C of subchapter I of chapter 34 of title 42, such graduate or professional student or parent has completed the repayment of such funds to the Secretary, or to the holder in the case of a loan under this subchapter and part C of subchapter I of chapter 34 of title 42 obtained by fraud; and
+
+&emsp;&emsp;(C) the graduate or professional student or the parents meet such other eligibility criteria as the Secretary may establish by regulation, after consultation with guaranty agencies, eligible lenders, and other organizations involved in student financial assistance.
 
 #### (2) Terms, conditions, and benefits
 
@@ -20,7 +22,7 @@
 
 #### (b) Limitation based on need
 
-Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
+Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
 
 #### (c) PLUS loan disbursement
 
@@ -28,13 +30,13 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;(1) an electronic transfer of funds from the lender to the eligible institution; or
 
-&emsp;(2) a check copayable to the eligible institution and the parent borrower.
+&emsp;(2) a check copayable to the eligible institution and the graduate or professional student or parent borrower.
 
 #### (d) Payment of principal and interest
 
 #### (1) Commencement of repayment
 
-&emsp;Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral during any period during which the parent meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title.
+&emsp;Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral during any period during which the graduate or professional student or the parent meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title.
 
 #### (2) Capitalization of interest
 
@@ -62,7 +64,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (1) Refinancing to secure combined payment
 
-&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension of the promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrative forbearance of the repayment terms of the included loan.
+&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidatedloan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension of the promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrative forbearance of the repayment terms of the included loan.
 
 #### (2) Refinancing to secure variable interest rate
 
@@ -102,7 +104,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171.)
 
 #### Codification
 
@@ -110,9 +112,25 @@ October 17, 1986, referred to in subsec. (e)(5), was in the original “the date
 
 #### Prior Provisions
 
-A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94 Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–171, §8005(c)(1)(A), in introductory provisions, substituted “A graduate or professional student or the parents” for “Parents”.
+
+Subsec. (a)(1)(A). Pub. L. 109–171, §8005(c)(1)(B), substituted “the graduate or professional student or the parents” for “the parents”.
+
+Subsec. (a)(1)(B). Pub. L. 109–171, §8014(g)(1), (3), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Pub. L. 109–171, §8005(c)(1)(C), substituted “the graduate or professional student or the parents” for “the parents”.
+
+Subsec. (a)(1)(C). Pub. L. 109–171, §8014(g)(2), redesignated subpar. (B) as (C).
+
+Subsec. (b). Pub. L. 109–171, §8005(c)(2), substituted “any graduate or professional student or any parent” for “any parent”.
+
+Subsec. (c)(2). Pub. L. 109–171, §8005(c)(3), substituted “graduate or professional student or parent” for “parent”.
+
+Subsec. (d)(1). Pub. L. 109–171, §8005(c)(4), substituted “the graduate or professional student or the parent” for “the parent”.
 
 1998—Subsec. (a). Pub. L. 105–244, §419(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
 
@@ -160,6 +178,10 @@ Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted “under this section 
 
 Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 416(a)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under section 1078–3 of this title for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
@@ -172,7 +194,7 @@ Section 4109(c) of Pub. L. 103–66 provided that: “The amendments made by thi
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (b), relating to annual and aggregate loan limits, are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, changes made in subsec. (a) with respect to use of credit histories are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, and subsec. (c), as added by Pub. L. 102–325, relating to disbursement of Federal PLUS Loans, is applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (b), relating to annual and aggregate loan limits, are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, changes made in subsec. (a) with respect to use of credit histories are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, and subsec. (c), as added by Pub.L. 102–325, relating to disbursement of Federal PLUS Loans, is applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1987 Amendment
 

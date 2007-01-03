@@ -8,5 +8,5 @@ Petition to Supreme Court, time, Rule 37(b).
 
 #### References in Text
 
-Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968. Provisions of such former rule for certiorari are covered by rule 19 et seq. of the Rules of the United States Supreme Court, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968. Provisions of such former rule for certiorari are covered by rule 19 et seq. of the Rules of the United States Supreme Court.
 

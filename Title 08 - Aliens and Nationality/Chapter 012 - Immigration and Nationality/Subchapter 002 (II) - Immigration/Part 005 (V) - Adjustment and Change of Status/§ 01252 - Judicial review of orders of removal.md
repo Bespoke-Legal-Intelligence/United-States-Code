@@ -34,11 +34,11 @@
 
 #### (D) Judicial review of certain legal claims
 
-&emsp;&emsp;Nothing in subparagraph (B) or (C), or in any other provision of this chapter (other than this section) which limits or eliminates judicial review, shall be construed as precluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with this section.
+&emsp;&emsp;Nothing in subparagraph (B) or (C), or in any other provision of this chapter (otherthan this section) which limits or eliminates judicial review, shall be construed as precluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with this section.
 
 #### (3) Treatment of certain decisions
 
-&emsp;No alien shall have a right to appeal from a decision of an immigration judge which isbased solely on a certification described in section 1229a(c)(1)(B) of this title.
+&emsp;No alien shall have a right to appeal from a decision of an immigration judge which is based solely on a certification described in section 1229a(c)(1)(B) of this title.
 
 #### (4) Claims under the United Nations Convention
 
@@ -232,11 +232,11 @@ Except as provided in this section and notwithstanding any other provision of la
 
 #### References in Text
 
-Section 1253 of this title, referred to in subsec. (b)(8)(B), was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (g). Provisions similar to those contained in former subsec. (g) of section 1253 are now contained in subsec. (d) of section 1253.
+Section 1253 of this title, referred to in subsec. (b)(8)(B), was amended generally by Pub. L. 104–208, div.C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (g). Provisions similar to those contained in former subsec. (g) of section 1253 are now contained in subsec. (d) of section 1253.
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (e)(1)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (f)(1), isdiv. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
+The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (f)(1), is div. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -300,11 +300,11 @@ Subsec. (e). Pub. L. 102–232, §307(m)(2), substituted “paragraph (2), (3), 
 
 Subsec. (h). Pub. L. 102–232, §309(b)(9), inserted a comma after “Parole”.
 
-1990—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)” for “upon completion of the alien's sentence for such conviction” and “Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)” for “Notwithstanding subsection (a) of this section”, and added subpar. (B).
+1990—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or furtherconfinement in respect of the same offense)” for “upon completion of the alien's sentence for such conviction” and “Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)” for “Notwithstanding subsection (a) of this section”, and added subpar. (B).
 
 Subsec. (b). Pub. L. 101–649, §603(b)(2)(A), substituted “(2), (3), or (4)” for “(4), (5), (6), (7), (11), (12), (14), (15), (16), (17), (18), or (19)”.
 
-Pub. L. 101–649, §545(e), amended eighth sentence generally. Prior to amendment, eighth sentence read asfollows: “Such regulations shall include requirements that—
+Pub. L. 101–649, §545(e), amended eighth sentence generally. Prior to amendment, eighth sentence read as follows: “Such regulations shall include requirements that—
 
 &emsp;“(1) the alien shall be given notice, reasonable under all the circumstances, of the nature of the charges against him and of the time and place at which the proceedings will be held;
 
@@ -388,9 +388,9 @@ Section 545(g) of Pub. L. 101–649, as amended by Pub. L. 104–208, div. C, ti
 
 Notice-related provisions.—
 
-&emsp;“(A) Subsections (a), (b), (c), and (e)(1) of section 242B of the Immigration and Nationality Act \[former 8 U.S.C. 1252b(a), (b), (c) and (e)(1)\] (as inserted by the amendment made by subsection (a)), and the amendment made by subsection (e) \[amending this section\], shall be effective on a date specified by the Attorney General in the certification described in subparagraph (B), which date may not be earlier than 6 months after the date of such certification.
+&emsp;“(A) Subsections (a), (b), (c), and (e)(1) of section 242B of the Immigration and Nationality Act \[former8 U.S.C. 1252b(a), (b), (c) and (e)(1)\] (as inserted by the amendment made by subsection (a)), and the amendment made by subsection (e) \[amending this section\], shall be effective on a date specified by the Attorney General in the certification described in subparagraph (B), which date may not be earlier than 6 months after the date of such certification.
 
-&emsp;“(B) The Attorney General shall certify to the Congress when the central address file system (describedin section 239(a)(4) \[probably means 239(a)(3)\] of the Immigration and Nationality Act) \[8 U.S.C. 1229(a)(3)\] has been established.
+&emsp;“(B) The Attorney General shall certify to the Congress when the central address file system (described in section 239(a)(4) \[probably means 239(a)(3)\] of the Immigration and Nationality Act) \[8 U.S.C. 1229(a)(3)\] has been established.
 
 &emsp;“(C) The Comptroller General shall submit to Congress, within 3 months after the date of the Attorney General's certification under subparagraph (B), a report on the adequacy of such system.
 

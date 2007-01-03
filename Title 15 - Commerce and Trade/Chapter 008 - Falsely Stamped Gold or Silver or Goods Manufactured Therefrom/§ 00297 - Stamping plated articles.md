@@ -12,7 +12,7 @@ Whenever any person, firm, corporation, or association, being a manufacturer or 
 
 &emsp;(2) imports into any State any such article of merchandise bearing any such quality mark or stamp which indicates or purports to indicate that such article is made in whole or in part of gold or silver or of an alloy of either such metal,
 
-> such person, firm, corporation, or association, before depositing any such article manufactured or imported after six months after the effective date of this Act in the United States mails, or causing such article to be so deposited, for transmission thereby, or delivering such articleor causing such article to be delivered to any common carrier for transportation from one State to any other State, or transporting such article or causing such article to be transported from one State to any other State, shall—
+> such person, firm, corporation, or association, before depositing any such article manufactured or imported after six months after the effective date of this Act in the United States mails, or causing such article to be so deposited, for transmission thereby, or delivering such article or causing such article to be delivered to any common carrier for transportation from one State to any other State, or transporting such article or causing such article to be transported from one State to any other State, shall—
 
 &emsp;(A) Apply or cause to be applied to that article a trademark of such persons, which has been duly registered or applied for registration under the laws of the United States within thirty days after an article bearing the trademark is placed in commerce or imported into the United States, or the name of such person; and
 

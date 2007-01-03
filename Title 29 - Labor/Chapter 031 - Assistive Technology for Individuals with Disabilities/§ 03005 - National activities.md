@@ -74,7 +74,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;(i) addresses State-specific information requests concerning assistive technology from entities funded under this chapter and public entities not funded under this chapter, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) requests for information on effective approaches to Federal-State coordination of programs for individuals with disabilities, related to improving funding for or access to assistive technology devices and assistive technology servicesfor individuals with disabilities of all ages;
+&emsp;&emsp;&emsp;&emsp;(I) requests for information on effective approaches to Federal-State coordination of programs for individuals with disabilities, related to improving funding for or access to assistive technology devices and assistive technology services for individuals with disabilities of all ages;
 
 &emsp;&emsp;&emsp;&emsp;(II) requests for state-of-the-art, or model, Federal, State, and local laws, regulations, policies, practices, procedures, and organizational structures, that facilitate, and overcome barriers to, funding for, and access to, assistive technology devices and assistive technology services;
 
@@ -88,7 +88,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;(ii) assists targeted individuals and entities by disseminating information about—
 
-&emsp;&emsp;&emsp;&emsp;(I) Federal, State, and local laws, regulations, policies, practices, procedures, and organizational structures, that facilitate, and overcome barriers to, funding for, and access to, assistive technology devices and assistive technology services, to promote fuller independence, productivity, and inclusion in society for individuals with disabilities of all ages; and
+&emsp;&emsp;&emsp;&emsp;(I) Federal, State, and local laws, regulations, policies, practices, procedures, and organizational structures, that facilitate, and overcome barriers to, funding for, and access to, assistive technology devices and assistive technology services, to promote fuller independence,productivity, and inclusion in society for individuals with disabilities of all ages; and
 
 &emsp;&emsp;&emsp;&emsp;(II) technical assistance activities undertaken under clause (i);
 

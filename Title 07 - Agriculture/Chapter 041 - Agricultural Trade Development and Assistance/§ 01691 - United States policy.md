@@ -30,7 +30,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 #### Effective Date of 1990 Amendment
 
-Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
+Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
 
 #### Effective Date of 1966 Amendment
 

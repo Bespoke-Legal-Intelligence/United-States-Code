@@ -120,7 +120,7 @@ Participation of carriers.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A motor carrier of property whose routes, rates, classifications, mileage guides, rules, or packaging are determined or governed by publications established under agreements approved under this section must participate in the determining or governing publication for such provisions to apply.
+In general.—A motor carrier of property whose routes, rates, classifications, mileage guides, rules, or packaging are determined or governed by publications established under agreements approvedunder this section must participate in the determining or governing publication for such provisions to apply.
 
 &emsp;&emsp;&emsp;(ii)
 

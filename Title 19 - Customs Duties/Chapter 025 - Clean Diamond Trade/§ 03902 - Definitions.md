@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Controlled through the Kimberley Process Certification Scheme
 
-&emsp;An importation or exportation of rough diamonds is “controlled through the KimberleyProcess Certification Scheme” if it is an importation from the territory of a Participant or exportation to the territory of a Participant of rough diamonds that is—
+&emsp;An importation or exportation of rough diamonds is “controlled through the Kimberley Process Certification Scheme” if it is an importation from the territory of a Participant or exportation to the territory of a Participant of rough diamonds that is—
 
 &emsp;&emsp;(A) carried out in accordance with the Kimberley Process Certification Scheme, as set forth in regulations promulgated by the President; or
 

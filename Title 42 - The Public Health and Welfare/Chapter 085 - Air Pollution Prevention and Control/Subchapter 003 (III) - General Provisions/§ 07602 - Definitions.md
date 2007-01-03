@@ -36,7 +36,7 @@ When used in this chapter—
 
 (j) Except as otherwise expressly provided, the terms “major stationary source” and “major emitting facility” mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tons per year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
 
-(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design, equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
+(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design,equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
 
 (<i>l</i>) The term “standard of performance” means a requirement of continuous emission reduction, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction.
 
@@ -72,7 +72,7 @@ Small Source.—The term “small source” means a source that emits less than 
 
 (y)
 
-Federal Implementation Plan.—The term “Federal implementation plan” means a plan (or portion thereof) promulgated by the Administrator to fill all or a portion of a gap or otherwise correct all or a portion of an inadequacy in a State implementation plan, andwhich includes enforceable emission limitations or other control measures, means or techniques (including economic incentives, such as marketable permits or auctions of emissions allowances), and provides for attainment of the relevant national ambient air quality standard.
+Federal Implementation Plan.—The term “Federal implementation plan” means a plan (or portion thereof) promulgated by the Administrator to fill all or a portion of a gap or otherwise correct all or a portion of an inadequacy in a State implementation plan, and which includes enforceable emission limitations or other control measures, means or techniques (including economic incentives, such as marketable permits or auctions of emissions allowances), and provides for attainment of the relevant national ambient air quality standard.
 
 (z)
 

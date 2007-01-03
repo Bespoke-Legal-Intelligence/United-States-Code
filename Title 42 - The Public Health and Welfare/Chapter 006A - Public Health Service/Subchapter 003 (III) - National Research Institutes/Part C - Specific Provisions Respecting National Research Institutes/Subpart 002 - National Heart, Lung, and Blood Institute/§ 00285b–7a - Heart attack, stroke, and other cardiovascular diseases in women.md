@@ -6,7 +6,7 @@ The Director of the Institute shall expand, intensify, and coordinate research a
 
 #### (b) Coordination with other institutes
 
-The Director of the Institute shall coordinate activities under subsection (a) of this section with similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to heart attack, stroke, and other cardiovascular diseases in women.
+The Director of the Institute shall coordinate activities under subsection (a) of this sectionwith similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to heart attack, stroke, and other cardiovascular diseases in women.
 
 #### (c) Certain programs
 
@@ -26,9 +26,13 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(7) Information and education programs for patients and health care providers on risk factors associated with heart attack, stroke, and other cardiovascular diseases in women, and on the importance of the prevention or control of such risk factors and timely referral with appropriate diagnosis and treatment. Such programs shall include information and education on health-related behaviors that can improve such important risk factors as smoking, obesity, high blood cholesterol, and lack of exercise.
 
-#### (d) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §424A, as added Pub. L. 105–340, title I, §104, Oct. 31, 1998, 112 Stat. 3192; amended Pub. L. 109–482, title I, §103(b)(18), Jan. 15, 2007, 120 Stat. 3688.)
 
-For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §424A, as added Pub. L. 105–340, title I, §104, Oct. 31, 1998, 112 Stat. 3192.)
+2007—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

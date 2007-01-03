@@ -28,7 +28,7 @@ The membership roll of the tribe is established and open.
 
 #### (d) Voting rights of member
 
-Each member who is eighteen years of age or older shall be eligible to attend, participate in,and vote at each general council meeting. Each such member may nominate candidates for any office, run for any office, and vote in any election of members to the Interim Council and to such other tribal governing body as may be established under the constitution and bylaws adopted in accordance with section 713d of this title.
+Each member who is eighteen years of age or older shall be eligible to attend, participate in, and vote at each general council meeting. Each such member may nominate candidates for any office, run for any office, and vote in any election of members to the Interim Council and to such other tribal governing body as may be established under the constitution and bylaws adopted in accordance with section 713d of this title.
 
 (Pub. L. 98–165, §7, Nov. 22, 1983, 97 Stat. 1067.)
 

@@ -30,5 +30,5 @@ Subsec. (b). Pub. L. 104–106, §904(a)(1)(C), added subsec. (b) and struck out
 
 #### Exception to Senate Confirmation Requirement
 
-Section 1245(b) of Pub. L. 100–180 provided that: “The person serving as Chairman of the Military Liaison Committee, Department of Defense, under section 27 of the Atomic Energy Act of 1946 (42 U.S.C. 2037) on October 16, 1986, may be appointed as the Assistant to the Secretary of Defense for Atomic Energy under section 141 \[now 142\] of title 10, United States Code (as added by subsection (a)), without the advice and consent of the Senate.”
+Pub. L. 100–180, div. A, title XII, §1245(b), Dec. 4, 1987, 101 Stat. 1165, provided that the person serving as Chairman of the Military Liaison Committee, Department of Defense, on Oct. 16, 1986, could be appointed as the Assistant to the Secretary of Defense for Atomic Energy without the advice and consent of the Senate.
 

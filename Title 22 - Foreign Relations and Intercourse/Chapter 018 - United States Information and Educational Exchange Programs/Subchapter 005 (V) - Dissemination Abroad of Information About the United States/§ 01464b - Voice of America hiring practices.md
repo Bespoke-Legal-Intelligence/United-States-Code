@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-After February 16, 1990, the Voice of America shall not select candidates for employment whomust be or are preapproved for employment at the Voice of America by a foreign government or an entity controlled by a foreign government.
+After February 16, 1990, the Voice of America shall not select candidates for employment who must be or are preapproved for employment at the Voice of America by a foreign government or an entity controlled by a foreign government.
 
 #### (b) Exception
 

@@ -36,13 +36,13 @@ Pre-Existing and Geographic Reference Rights.—(1) A person who actually used t
 
 (3) Use of the word “Olympic” to identify a business or goods or services is permitted by this section where—
 
-&emsp;(A) such use is not combined with any of the intellectual properties referenced in subsections <sup>1</sup> (a) or (c) of this section;
+&emsp;(A) such use is not combined with any of the intellectual properties referenced in subsection (a) or (c) of this section;
 
 &emsp;(B) it is evident from the circumstances that such use of the word “Olympic” refers to the naturally occurring mountains or geographical region of the same name that were named prior to February 6, 1998, and not to the corporation or any Olympic activity; and
 
 &emsp;(C) such business, goods, or services are operated, sold, and marketed in the State of Washington west of the Cascade Mountain range and operations, sales, and marketing outside of this area are not substantial.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1469; Pub. L. 105–277, div. C, title I, §142(g), 112 Stat. 2681–604.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1469; Pub. L. 105–277, div. C, title I, §142(g), 112 Stat. 2681–604; Pub. L. 109–284, §5(16), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -92,11 +92,13 @@ The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 
 
 #### Amendments
 
+2006—Subsec. (d)(3)(A). Pub. L. 109–284 substituted “subsection” for “subsections”.
+
 1998—Subsec. (a)(2). Pub. L. 105–277, §142(g)(1), substituted “rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;” for “rings;”.
 
 Subsec. (a)(4). Pub. L. 105–277, §142(g)(2), inserted “ ‘Paralympic’, ‘Paralympiad’, ‘Pan-American’, ‘America Espirito Sport Fraternite’,” before “or any combination”.
 
-Subsec. (b). Pub. L. 105–277, §142(g)(3), (4), inserted “, International Paralympic Committee, the Pan-American Sports Organization,” after “InternationalOlympic Committee” and “the Paralympic team,” before “the Pan-American team”.
+Subsec. (b). Pub. L. 105–277, §142(g)(3), (4), inserted “, International Paralympic Committee, the Pan-American Sports Organization,” after “International Olympic Committee” and “the Paralympic team,” before “the Pan-American team”.
 
 Subsec. (c)(3). Pub. L. 105–277, §142(g)(5), inserted “, Paralympic, or Pan-American Games” after “any Olympic”.
 
@@ -109,6 +111,4 @@ and Geographic Reference” after “
 Pre-Existing” in heading.
 
 Subsec. (d)(3). Pub. L. 105–277, §142(g)(8), added par. (3).
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

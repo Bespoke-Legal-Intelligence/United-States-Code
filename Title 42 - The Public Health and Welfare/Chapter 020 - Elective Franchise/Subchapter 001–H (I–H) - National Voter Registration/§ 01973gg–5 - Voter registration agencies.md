@@ -36,7 +36,7 @@
 
 &emsp;(C) make any statement to an applicant or take any action the purpose or effect of which is to discourage the applicant from registering to vote; or
 
-&emsp;(D) make any statement to an applicant or take any action the purpose or effect of whichis to lead the applicant to believe that a decision to register or not to register has any bearing on the availability of services or benefits.
+&emsp;(D) make any statement to an applicant or take any action the purpose or effect of which is to lead the applicant to believe that a decision to register or not to register has any bearing on the availability of services or benefits.
 
 (6) A voter registration agency that is an office that provides service or assistance in addition to conducting voter registration shall—
 

@@ -9,9 +9,6 @@
 | [1905\.](%C2%A7%2001905%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93445%2C%20%C2%A75%28b%29%2C%20Oct.%2010%2C%201978%2C%2092%20Stat.%201069.md) | Repealed. |
 | [1906\.](%C2%A7%2001906%20-%20Exemption%20of%20ritual%20slaughter.md) | Exemption of ritual slaughter. |
 | [1907\.](%C2%A7%2001907%20-%20Practices%20involving%20nonambulatory%20livestock.md) | Practices involving nonambulatory livestock. |
-| (a) | Report. |
-| (b) | Authority. |
-| (c) | Administration and enforcement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

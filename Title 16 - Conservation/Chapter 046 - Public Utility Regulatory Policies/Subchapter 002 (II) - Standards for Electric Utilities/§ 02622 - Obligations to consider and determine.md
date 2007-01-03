@@ -26,7 +26,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (B) Not later than 2 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to the standard established by paragraph (14) of section 2621(d) of this title.
 
-(5)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for consideration, with respect to the standard established by paragraph (15) of section 2621(d) of this title.
+(5)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for consideration, with respect tothe standard established by paragraph (15) of section 2621(d) of this title.
 
 (B) Not later than two years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraph (15) of section 2621(d) of this title.
 
@@ -90,7 +90,7 @@ Subsec. (e). Pub. L. 109–58, §1252(i)(1), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–58, §1254(b)(3)(A), added subsec. (f).
 
-1992—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)”.
+1992—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards underparagraphs (7), (8), and (9) of section 2621(d) of this title)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (15) of section 2621(d) of this title,”.</i>
 

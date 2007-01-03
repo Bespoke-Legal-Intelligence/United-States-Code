@@ -12,7 +12,7 @@ Each report under subsection (a) of this section shall set forth with respect to
 
 &emsp;(2) The number of intercountry adoptions involving emigration from the United States, regardless of whether the adoption occurred under the Convention, including the country to which each child immigrated and the State from which each child emigrated.
 
-&emsp;(3) The number of Convention placements for adoption in the United States that were disrupted, including the country from which the child emigrated, the age of the child, the date of the placement for adoption, the reasons for the disruption, the resolution of the disruption, the agencies that handled the placement for adoption, and the plans for the child, and in addition, any information regarding disruption or dissolution of adoptions of children from other countries received pursuant to section 622(b)(14) of this title.
+&emsp;(3) The number of Convention placements for adoption in the United States that were disrupted, including the country from which the child emigrated, the age of the child, the date of the placement for adoption, the reasons for the disruption, the resolution of the disruption, the agencies that handled the placement for adoption, and the plans for the child, and in addition, any information regarding disruption or dissolution of adoptions of children from other countries received pursuant to section 622(b)(12) of this title.
 
 &emsp;(4) The average time required for completion of a Convention adoption, set forth by country from which the child emigrated.
 
@@ -24,7 +24,15 @@ Each report under subsection (a) of this section shall set forth with respect to
 
 &emsp;(8) The range of fees charged for accreditation of agencies and the approval of persons in the United States engaged in providing adoption services under the Convention.
 
-(Pub. L. 106–279, title I, §104, Oct. 6, 2000, 114 Stat. 829.)
+(Pub. L. 106–279, title I, §104, Oct. 6, 2000, 114 Stat. 829; Pub. L. 109–288, §6(f)(9), Sept. 28, 2006, 120 Stat. 1248.)
+
+#### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–288 substituted “622(b)(12)” for “622(b)(14)”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of chapter 7 of this title for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date
 

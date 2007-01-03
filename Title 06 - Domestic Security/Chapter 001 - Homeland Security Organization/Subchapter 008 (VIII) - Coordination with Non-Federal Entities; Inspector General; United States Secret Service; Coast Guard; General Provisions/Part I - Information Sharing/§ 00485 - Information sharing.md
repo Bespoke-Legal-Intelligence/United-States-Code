@@ -254,11 +254,17 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Effective Date
 
+For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+
+#### Procedures To Clear Individuals From Terrorist Database Lists
+
+Pub. L. 109–295, title V, §556, Oct. 4, 2006, 120 Stat. 1391, provided that: “Not later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall establish revised procedures for expeditiously clearing individuals whose names have been mistakenly placed on a terrorist database list or who have names identical or similar to individuals on a terrorist database list. The Secretary shall advise Congress of the procedures established.”
 
 #### Executive Order No. 13356
 
-Ex. Ord. No. 13356, Aug. 27, 2004, 69 F.R. 53599, which provided for strengthening the sharing of terrorism information to protect Americans, was revoked by Ex. Ord. No. 13388, §8(b), Oct. 25, 2005, 70 F.R. 62025, set out below.
+Ex. Ord. No. 13356, Aug. 27, 2004, 69 F.R. 53599, which provided for strengthening the sharing of terrorism information to protect Americans, was revoked by Ex.Ord. No. 13388, §8(b), Oct. 25, 2005, 70 F.R. 62025, set out below.
 
 #### Ex. Ord. No. 13388. Further Strengthening the Sharing of Terrorism Information To Protect Americans
 
@@ -311,6 +317,22 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 Sec. 8. <i>Amendments and Revocation</i>. (a) \[Amended Ex. Ord. No. 13311, set out as a note under section 482 of this title.\]
 
 (b) Executive Order 13356 of August 27, 2004 \[formerly set out above\], is hereby revoked.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Assignment of Reporting Function Under the Intelligence Reform and Terrorism Prevention Act of 2004
+
+Memorandum of President of the United States, Nov. 14, 2006, 71 F.R. 67029, provided:
+
+Memorandum for the Director of National Intelligence
+
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the reporting function of the President under section 1016(e) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) is hereby assigned to the Director of National Intelligence (Director).
+
+The Director shall perform such function in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties.
+
+Any reference in this memorandum to the provision of any Act shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

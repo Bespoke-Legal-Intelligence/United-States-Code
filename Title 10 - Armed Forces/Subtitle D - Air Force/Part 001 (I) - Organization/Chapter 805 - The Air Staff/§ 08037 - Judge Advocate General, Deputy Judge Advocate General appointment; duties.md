@@ -76,7 +76,7 @@ Subsec. (b). Pub. L. 109–163, §1057(a)(2), struck out “or Territory” afte
 
 Subsec. (c). Pub. L. 108–375, §574(c)(2)(A), struck out “shall” after “General” in introductory provisions.
 
-Subsec. (c)(1) to (3). Pub. L. 108–375, §574(c)(2)(B)–(D), added pars. (1) and (2), redesignated former par. (1) as (3), inserted “shall” before “receive”, substituted period for “; and” at end, and struck out former par. (2) which read as follows: “perform such other legal duties as may be directed by the Secretary of the Air Force.”
+Subsec. (c)(1) to (3). Pub. L. 108–375, §574(c)(2)(B)–(D), added pars. (1) and (2), redesignated former par. (1) as\(3), inserted “shall” before “receive”, substituted period for “; and” at end, and struck out former par. (2) which read as follows: “perform such other legal duties as may be directed by the Secretary of the Air Force.”
 
 Subsec. (d)(1). Pub. L. 108–375, §574(c)(3), struck out “, but may be sooner terminated or extended by the President” after “four years”.
 

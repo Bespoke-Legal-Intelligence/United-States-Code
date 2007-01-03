@@ -6,7 +6,7 @@ The first sentence of section 1291 of this title shall not apply to any joint ag
 
 &emsp;(2) in the case of an interscholastic football contest, such contest is between secondary schools, both of which are accredited or certified under the laws of the State or States in which they are situated and offer courses continuing through the twelfth grade of the standard school curriculum, or the equivalent, and
 
-&emsp;(3) such intercollegiate or interscholastic football contest and such game site were announced through publication in a newspaper of general circulation prior to August 1 of such year as being regularly scheduled for such day and place.
+&emsp;(3) such intercollegiate or interscholastic football contest and such game site were announced through publication in a newspaper ofgeneral circulation prior to August 1 of such year as being regularly scheduled for such day and place.
 
 (Pub. L. 87–331, §3, Sept. 30, 1961, 75 Stat. 732; Pub. L. 89–800, §6(b)(3), Nov. 8, 1966, 80 Stat. 1515.)
 

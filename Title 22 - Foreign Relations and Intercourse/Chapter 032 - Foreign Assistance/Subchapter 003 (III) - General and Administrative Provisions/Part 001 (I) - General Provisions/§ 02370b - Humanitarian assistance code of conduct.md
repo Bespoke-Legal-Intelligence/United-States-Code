@@ -22,3 +22,15 @@ This section shall take effect 60 days after May 11, 2005, and shall apply to fu
 
 Section was enacted as part of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
+#### Assignment of Functions Relating to the Report to the Congress on Implementation of Humanitarian Assistance Code of Conduct
+
+Memorandum of President of the United States, May 12, 2006, 71 F.R. 30549, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the functions of the President under section 2110(c) of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (title II of Public Law 109–13) (22 U.S.C. 2370b), are assigned to the Secretary of State.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

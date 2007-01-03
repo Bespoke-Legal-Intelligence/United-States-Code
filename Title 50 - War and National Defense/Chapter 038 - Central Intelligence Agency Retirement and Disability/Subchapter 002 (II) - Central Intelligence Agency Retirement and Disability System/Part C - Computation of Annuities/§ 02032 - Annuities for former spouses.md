@@ -82,7 +82,7 @@
 
 #### (B) Limitation on other survivor annuities based on service of same participant
 
-&emsp;&emsp;Once a survivor annuity has been provided under this subsection for any former spouse, a survivor annuity for another individual may thereafter be provided under this subsection (or section 2031(b)(3) of this title) with respect to the participant only for that portion (if any) of the maximum availablewhich is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
+&emsp;&emsp;Once a survivor annuity has been provided under this subsection for any former spouse, a survivor annuity for another individual may thereafter be provided under this subsection (or section 2031(b)(3) of this title) with respect to the participant only for that portion (if any) of the maximum available which is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
 
 #### (C) Finality of court order upon death of participant
 
@@ -370,7 +370,7 @@ Health Benefits.—\[Amended section 403p of this title.\]
 
 “(d)
 
-Source of Payment for Annuities.—Annuities provided under subsections (a) and (b) shall be payable from the Central Intelligence Agency Retirement and Disability Fund maintained under section 202 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2012).
+Source of Payment for Annuities.—Annuities provided under subsections (a) and (b) shall be payablefrom the Central Intelligence Agency Retirement and Disability Fund maintained under section 202 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2012).
 
 “(e)
 

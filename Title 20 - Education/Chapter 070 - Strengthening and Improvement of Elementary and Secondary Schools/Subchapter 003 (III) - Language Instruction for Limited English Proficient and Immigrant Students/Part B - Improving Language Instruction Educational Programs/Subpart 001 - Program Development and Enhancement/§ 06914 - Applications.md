@@ -14,7 +14,7 @@
 
 #### (1) Deadline
 
-&emsp;The State educational agency, not later than 45 days after receipt of an applicationunder this section, shall review the application and submit the written comments of the agency regarding the application to the Secretary.
+&emsp;The State educational agency, not later than 45 days after receipt of an application under this section, shall review the application and submit the written comments of the agency regarding the application to the Secretary.
 
 #### (2) Comments
 

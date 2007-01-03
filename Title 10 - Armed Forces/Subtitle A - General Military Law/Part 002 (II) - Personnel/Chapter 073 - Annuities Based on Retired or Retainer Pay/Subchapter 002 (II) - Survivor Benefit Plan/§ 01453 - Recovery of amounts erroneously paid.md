@@ -2,7 +2,7 @@
 
 (a)
 
-Recovery.—In addition to any other method of recovery provided by law, the Secretary concerned may authorize the recovery of any amount erroneously paid to a person under thissubchapter by deduction from later payments to that person.
+Recovery.—In addition to any other method of recovery provided by law, the Secretary concerned may authorize the recovery of any amount erroneously paid to a person under this subchapter by deduction from later payments to that person.
 
 (b)
 

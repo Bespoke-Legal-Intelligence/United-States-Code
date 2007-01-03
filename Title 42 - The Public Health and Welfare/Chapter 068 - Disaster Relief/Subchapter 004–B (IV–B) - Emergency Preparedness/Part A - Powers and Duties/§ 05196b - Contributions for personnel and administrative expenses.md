@@ -12,7 +12,7 @@ A plan submitted under this section shall—
 
 &emsp;(2) provide that the State shall share the financial assistance with that provided by the Federal Government under this section from any source determined by it to be consistent with State law;
 
-&emsp;(3) provide for the development of State and local emergency preparedness operational plans, pursuant to standards approved by the Director;
+&emsp;(3) provide for the development of State and local emergency preparedness operational plans, including a catastrophic incident annex, pursuant to standards approved by the Director;
 
 &emsp;(4) provide for the employment of a full-time emergency preparedness director, or deputy director, by the State;
 
@@ -22,27 +22,49 @@ A plan submitted under this section shall—
 
 &emsp;(7) include a plan for providing information to the public in a coordinated manner.
 
-#### (c) Terms and conditions
+#### (c) Catastrophic incident annex
+
+#### (1) Consistency
+
+&emsp;A catastrophic incident annex submitted under subsection (b)(3) shall be—
+
+&emsp;&emsp;(A) modeled after the catastrophic incident annex of the National Response Plan; and
+
+&emsp;&emsp;(B) consistent with the national preparedness goal established under section 743 of title 6, the National Incident Management System, the National Response Plan, and other related plans and strategies.
+
+#### (2) Consultation
+
+&emsp;In developing a catastrophic incident annex submitted under subsection (b)(3), a State shall consult with and seek appropriate comments from local governments, emergency response providers, locally governed multijurisdictional councils of government, and regional planning commissions.
+
+#### (d) Terms and conditions
 
 The Director shall establish such other terms and conditions as the Director considers necessary and proper to carry out this section.
 
-#### (d) Application of other provisions
+#### (e) Application of other provisions
 
 In carrying out this section, the provisions of section <sup>1</sup> 5196(h) and 5197(h) of this title shall apply.
 
-#### (e) Allocation of funds
+#### (f) Allocation of funds
 
-For each fiscal year concerned, the Director shall allocate to each State, in accordance with regulations and the total sum appropriated under this subchapter, amounts to be made available to the States for the purposes of this section. Regulations governing allocations to the States under this subsection shall give due regard to (1) the criticality of the areas which may be affected by hazards with respect to the development of the total emergency preparedness readiness of the United States, (2) the relative state of development of emergency preparedness readiness of the State, (3) population, and (4) such other factors as the Director shall prescribe. The Director may reallocate the excess of any allocation not used by a State in a plan submitted under this section. Amounts paid to any State or political subdivision under this section shall be expended solely for the purposes set forth in this section.
+For each fiscal year concerned, the Director shall allocate to each State, in accordance with regulations and the total sum appropriated under this subchapter, amounts to be made available to the States for the purposes of this section. Regulations governing allocations to the States under this subsection shall give due regard to (1) the criticality of the areas which may be affected by hazards with respect to the development of the total emergency preparedness readiness of the United States, (2) the relative state of development of emergency preparedness readiness of the State, (3) population, and (4) such other factors as the Director shall prescribe. The Director may reallocate the excess of any allocation not used by a State in a plan submitted under this section. Amounts paid to any State or political subdivision under thissection shall be expended solely for the purposes set forth in this section.
 
-#### (f) Submission of plan
+#### (g) Standards for State and local emergency preparedness operational plans
+
+In approving standards for State and local emergency preparedness operational plans pursuant to subsection (b)(3), the Director shall ensure that such plans take into account the needs of individuals with household pets and service animals prior to, during, and following a major disaster or emergency.
+
+#### (h) <sup>2</sup> Submission of plan
 
 If a State fails to submit a plan for approval as required by this section within 60 days after the Director notifies the States of the allocations under this section, the Director may reallocate such funds, or portions thereof, among the other States in such amounts as, in the judgment of the Director, will best assure the adequate development of the emergency preparedness capability of the United States.
 
-#### (g) Annual reports
+#### (h) <sup>2</sup> Annual reports
 
 The Director shall report annually to the Congress all contributions made pursuant to this section.
 
-(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630.)
+(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725.)
+
+#### Codification
+
+Section 631(2) of Pub. L. 109–295, which directed amendment of this section “by redesignating subsections (c) through (g) and subsections (d) through (h), respectively”, was executed by redesignating subsecs. (c) to (g) as (d) to (h), respectively, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -50,11 +72,27 @@ Provisions similar to those in this section were contained in section 2286 of Ti
 
 #### Amendments
 
+2006—Subsec. (b)(3). Pub. L. 109–295, §631(1), inserted “including a catastrophic incident annex,” after “plans,”.
+
+Subsecs. (c) to (f). Pub. L. 109–295, §631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
+
+Subsec. (g). Pub. L. 109–308, §2(2), added subsec. (g). Former subsec. (g) relating to submission of plan redesignated (h).
+
+Pub. L. 109–295, §631(2), redesignated subsec. (f) as (g). Former subsec. (g) relating to annual reports redesignated (h). See Codification note above.
+
+Subsec. (h). Pub. L. 109–308, §2(1), redesignated subsec. (g) relating to submission of plan as (h).
+
+Pub. L. 109–295, §631(2), redesignated subsec. (g) relating to annual reports as (h). See Codification note above.
+
 2002—Subsec. (b)(7). Pub. L. 107–188 added par. (7).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

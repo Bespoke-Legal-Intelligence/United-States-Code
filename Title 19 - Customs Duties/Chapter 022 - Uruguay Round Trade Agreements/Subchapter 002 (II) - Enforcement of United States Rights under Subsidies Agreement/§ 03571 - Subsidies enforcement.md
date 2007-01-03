@@ -30,7 +30,7 @@ The administering authority shall provide information to the public upon request
 
 #### (d) Initiation of section 2411 investigation
 
-On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c) of this section, such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2) of this section, the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of 1974 (19 U.S.C. 2412(b)(1)), whether to initiate an investigation pursuant to title III of that Act (19 U.S.C. 2411 et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
+On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c) of this section, such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2) of this section, the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of1974 (19 U.S.C. 2412(b)(1)), whether to initiate an investigation pursuant to title III of that Act (19 U.S.C. 2411 et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
 
 #### (e) Nonactionable subsidies
 
@@ -70,7 +70,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (D) Consultations
 
-&emsp;&emsp;If the Trade Representative determines that there is reason to believe that serious adverse effects resulting from the subsidy program exist, the Trade Representative, unless the interested party referred to in subparagraph (A) objects, shall invoke the procedures of Article 9 of the SubsidiesAgreement, and shall request consultations pursuant to Article 9.2 of the Subsidies Agreement with respect to such serious adverse effects. If such consultations have not resulted in a mutually acceptable solution within 60 days after the request is made for such consultations, the Trade Representative shall refer the matter to the Subsidies Committee pursuant to Article 9.3 of the Subsidies Agreement.
+&emsp;&emsp;If the Trade Representative determines that there is reason to believe that serious adverse effects resulting from the subsidy program exist, the Trade Representative, unless the interested party referred to in subparagraph (A) objects, shall invoke the procedures of Article 9 of the Subsidies Agreement, and shall request consultations pursuant to Article 9.2 of the Subsidies Agreement with respect to such serious adverse effects. If such consultations have not resulted in a mutually acceptable solution within 60 days after the request is made for such consultations, the Trade Representative shall refer the matter to the Subsidies Committee pursuant to Article 9.3 of the Subsidies Agreement.
 
 #### (E) Determination by Subsidies Committee
 

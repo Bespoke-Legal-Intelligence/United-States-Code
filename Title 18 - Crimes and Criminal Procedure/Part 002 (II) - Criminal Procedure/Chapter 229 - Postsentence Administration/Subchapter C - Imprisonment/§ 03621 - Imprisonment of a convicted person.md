@@ -96,7 +96,31 @@ Definitions.—As used in this subsection—
 
 Coordination of federal assistance.—The Bureau of Prisons shall consult with the Department of Health and Human Services concerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112.)
+(f)
+
+Sex Offender Management.—
+
+&emsp;(1)
+
+In general.—The Bureau of Prisons shall make available appropriate treatment to sex offenders who are in need of and suitable for treatment, as follows:
+
+&emsp;&emsp;(A)
+
+Sex offender management programs.—The Bureau of Prisons shall establish non-residential sex offender management programs to provide appropriate treatment, monitoring, and supervision of sex offenders and to provide aftercare during pre-release custody.
+
+&emsp;&emsp;(B)
+
+Residential sex offender treatment programs.—The Bureau of Prisons shall establish residential sex offender treatment programs to provide treatment to sex offenders who volunteer for such programs and are deemed by the Bureau of Prisons to be in need of and suitable for residential treatment.
+
+&emsp;(2)
+
+Regions.—At least 1 sex offender management program under paragraph (1)(A), and at least one residential sex offender treatment program under paragraph (1)(B), shall be established in each region within the Bureau of Prisons.
+
+&emsp;(3)
+
+Authorization of appropriations.—There are authorized to be appropriated to the Bureau of Prisons for each fiscal year suchsums as may be necessary to carry out this subsection.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634.)
 
 #### Prior Provisions
 
@@ -117,6 +141,8 @@ For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987
 &emsp;“(E) $27,900,000 for fiscal year 2000.”
 
 Subsec. (e)(5)(A)(iii). Pub. L. 109–162, §1146(2), added cl. (iii).
+
+Subsec. (f). Pub. L. 109–248 added subsec. (f).
 
 1994—Subsec. (b). Pub. L. 103–322, §32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
 

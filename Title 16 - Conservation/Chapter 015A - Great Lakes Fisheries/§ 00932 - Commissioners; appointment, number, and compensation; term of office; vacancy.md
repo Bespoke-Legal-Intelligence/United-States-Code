@@ -34,7 +34,7 @@
 
 #### Termination and Transitional Service of Incumbent Commissioners
 
-Section 405(b) of Pub. L. 99–659 provided that: “The term of office of each United States Commissioner on the Great Lakes Fishery Commission who is serving on the date of enactment of this Act \[Nov. 14, 1986\] is terminated (except the United States Government official appointed under section 3(a) of the Great Lakes Fishery Act of 1956 (16 U.S.C. 932(a), as in effect before the date of enactment). However, the individuals appointed to those terms shall continue to serve as Commissionersuntil the President makes appointments under section 3(b)(2) of the Act of 1956 (as added by subsection (a)), which appointments shall be made within 60 days after the date of enactment.”
+Section 405(b) of Pub. L. 99–659 provided that: “The term of office of each United States Commissioner on the Great Lakes Fishery Commission who is serving on the date of enactment of this Act \[Nov. 14, 1986\] is terminated (except the United States Government official appointed under section 3(a) of the Great Lakes Fishery Act of 1956 (16 U.S.C. 932(a), as in effect before the date of enactment). However, the individuals appointed to those terms shall continue to serve as Commissioners until the President makes appointments under section 3(b)(2) of the Act of 1956 (as added by subsection (a)), which appointments shall be made within 60 days after the date of enactment.”
 
 #### Alternate United States Commissioners
 

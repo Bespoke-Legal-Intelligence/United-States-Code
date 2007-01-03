@@ -12,7 +12,7 @@ Section was formerly classified to section 557a of Title 5 prior to the general 
 
 #### Change of Name
 
-“Secretary of Agriculture” substituted in text for “Commissioner of Agriculture” pursuant to sections 1and 4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
+“Secretary of Agriculture” substituted in text for “Commissioner of Agriculture” pursuant to sections 1 and 4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
 
 #### Transfer of Functions
 
@@ -26,7 +26,7 @@ Pub. L. 105–86, title VII, §716, Nov. 18, 1997, 111 Stat. 2106, provided that
 
 Hereafter: (a)
 
-Compliance With Buy American Act.—None of the funds made available in this Act \[see Tables for classification\] may be expended by an entity unless the entity agrees that in expending the funds the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c; popularly known as the ‘Buy American Act’).
+Compliance With Buy American Act.—None of the funds made available in this Act \[see Tables for classification\] may be expended by an entity unless the entity agrees that in expending the fundsthe entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c; popularly known as the ‘Buy American Act’).
 
 “(b)
 

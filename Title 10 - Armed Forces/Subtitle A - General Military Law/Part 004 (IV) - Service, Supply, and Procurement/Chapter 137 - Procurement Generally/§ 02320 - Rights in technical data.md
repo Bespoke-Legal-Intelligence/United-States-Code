@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(II) is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;
 
-&emsp;&emsp;(ii) such release, disclosure, or use is made subject to a prohibition that the person to whom the data is released or disclosed may not further release, disclose, or use such data; and
+&emsp;&emsp;(ii) such release, disclosure, or use is made subject to a prohibition that the person towhom the data is released or disclosed may not further release, disclose, or use such data; and
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
@@ -90,13 +90,25 @@
 
 (d) The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this subsection limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553.)
+(e) The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to assess the long-term technical data needs of such systems and subsystems and establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle. Such strategies may include the development of maintenance capabilities within the Department of Defense or competition for contracts for sustainment of such systems or subsystems. Assessments and corresponding acquisition strategies developed under this section with respect to a weapon system or subsystem shall—
+
+&emsp;(1) be developed before issuance of a contract solicitation for the weapon system or subsystem;
+
+&emsp;(2) address the merits of including a priced contract option for the future delivery of technical data that were not acquired upon initial contract award;
+
+&emsp;(3) address the potential for changes in the sustainment plan over the life cycle of the weapon system or subsystem; and
+
+&emsp;(4) apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapons systems and subsystems that are to be supported by other sustainment approaches.
+
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–364 added subsec. (e).
 
 2003—Subsec. (b)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;”.
 
@@ -120,7 +132,7 @@ Subsec. (a)(2)(G)(i). Pub. L. 100–180, §808(a)(4)(A), substituted “not othe
 
 Subsec. (a)(2)(G)(ii). Pub. L. 100–180, §808(a)(4)(B), substituted “this section” for “such regulations” and “; or” for period at end.
 
-Pub. L. 100–26, §7(a)(4)(B), substituted “in technical data otherwise accorded to the United States under such regulations” for “of the United States in technical data pertaining to an item or process developed entirely or in part with Federal funds”.
+Pub. L. 100–26, §7(a)(4)(B), substituted “in technical data otherwise accorded to the United States undersuch regulations” for “of the United States in technical data pertaining to an item or process developed entirely or in part with Federal funds”.
 
 Subsec. (a)(2)(G)(iii). Pub. L. 100–180, §808(a)(4)(C), added cl. (iii).
 
@@ -154,6 +166,12 @@ Section 101(c) \[title X, §953(e)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct. 19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
 
+#### Regulations
+
+Pub. L. 109–364, div. A, title VIII, §802(c), Oct. 17, 2006, 120 Stat. 2313, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise regulations under section 2320 of title 10, United States Code, to implement subsection (e) of such section (as added by this section), including incorporating policy changes developed under such subsection into Department of Defense Directive 5000.1 and Department of Defense Instruction 5000.2.”
+
+Section 101(c) \[title X, §953(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
+
 #### Government-Industry Committee on Rights in Technical Data
 
 Pub. L. 102–190, div. A, title VIII, §807, Dec. 5, 1991, 105 Stat. 1421, as amended by Pub. L. 102–484, div. A, title VIII, §814, Oct. 23, 1992, 106 Stat. 2454; Pub. L. 105–85, div. A, title X, §1073(d)(3), Nov. 18, 1997, 111 Stat. 1905, provided that not later than Sept. 15, 1992, the Secretary of Defense was to prescribe final regulations required by subsec. (a) of this section that supersede the interim regulations prescribed before Dec. 5, 1991, for the purposes of this section and contained various provisions relating to a government-industry advisory committee, reports to Congress, publication of the regulations, and application of the regulations.
@@ -161,8 +179,4 @@ Pub. L. 102–190, div. A, title VIII, §807, Dec. 5, 1991, 105 Stat. 1421, as a
 #### Control of Government Personnel Work Product
 
 Pub. L. 102–190, div. A, title VIII, §808, Dec. 5, 1991, 105 Stat. 1423, required Secretary of Defense to prescribe regulations ensuring that any Department of Defense employee or member of the armed forces with an appropriate security clearance who is engaged in oversight of an acquisition program maintains control of the employee's or member's work product, provided that procedures for protecting unauthorized disclosure of classified information by contractors do not require such an employee or member to relinquish control of his or her work product to any such contractor, required implementing regulations not later than 120 days after Dec. 5, 1991, and provided that this section would cease to be effective on Sept. 30, 1992.
-
-#### Deadline for Revision of Regulations
-
-Section 101(c) \[title X, §953(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
 

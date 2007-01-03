@@ -2,7 +2,7 @@
 
 #### (a) Boundaries
 
-The research site shall consist of approximately thirty-one thousand acres, including a principle <sup>1</sup> research facility of approximately one thousand acres. The boundaries are depicted on a map entitled “Langmuir Research Site”, dated August 1980, which is on file and available for public inspection in the office of the Chief, Forest Service, United States Department of Agriculture.
+The research site shall consist of approximately thirty-one thousand acres, including a principle <sup>1</sup> research facility of approximatelyone thousand acres. The boundaries are depicted on a map entitled “Langmuir Research Site”, dated August 1980, which is on file and available for public inspection in the office of the Chief, Forest Service, United States Department of Agriculture.
 
 #### (b) Development of plan
 
@@ -10,7 +10,7 @@ As soon as practicable, after December 19, 1980, the Secretary of Agriculture sh
 
 #### (c) Adjustment in boundaries
 
-Following timely notice in writing to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate of his intention to do so, the Secretary may make minor adjustments in the boundaries of the research site to provide for more effective management or to encourage further research activity. For the purposes of this subsection, minor boundaryadjustments shall not increase or decrease the amount of land within the research site by more than seven thousand acres.
+Following timely notice in writing to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate of his intention to do so, the Secretary may make minor adjustments in the boundaries of the research site to provide for more effective management or to encourage further research activity. For the purposes of this subsection, minor boundary adjustments shall not increase or decrease the amount of land within the research site by more than seven thousand acres.
 
 #### (d) Consultation with other public interest groups
 

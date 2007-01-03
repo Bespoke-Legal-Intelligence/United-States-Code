@@ -2,27 +2,31 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to carry out this chapter, including use for payment of the United States share of the joint expenses of the Commission as provided in Article X of the Convention, the following sums:
+There are authorized to be appropriated to the Secretary to carry out this chapter, including use for payment of the United States share of the joint expenses of the Commission as provided in Article X of the Convention—
 
-&emsp;(1) For each of fiscal years 2003 and 2004, $5,480,000.
+&emsp;(1) $5,770,000 for each of fiscal years 2007 and 2008;
 
-&emsp;(2) For each of fiscal years 2005 and 2006, $5,495,000.
+&emsp;(2) $6,058,000 for each of fiscal years 2009 and 2010; and
+
+&emsp;(3) $6,361,000 for each of fiscal years 2011 and 2013.
 
 #### (b) Allocation
 
-Of amounts available under this section for each fiscal year—
+Of the amounts made available under subsection (a) for each fiscal year—
 
-&emsp;(1) $150,000 are authorized for the advisory committee established under section 971b of this title and the species working groups established under section 971b–1 of this title; and
+&emsp;(1) $160,000 are authorized for the advisory committee established under section 971b of this title and the species working groups established under section 971b–1 of this title; and
 
-&emsp;(2) $4,240,000 are authorized for research activities under this chapter and the Act of September 4, 1980 (16 U.S.C. 971i).
+&emsp;(2) $7,500,000 are authorized for research activities under this chapter and section 971i of this title, of which $3,000,000 shall be for the cooperative research program under section 971i(b)(2)(H) of this title.<sup>1</sup>
 
-(Pub. L. 94–70, §10, Aug. 5, 1975, 89 Stat. 393; Pub. L. 95–33, §1, May 26, 1977, 91 Stat. 173; Pub. L. 96–339, §1(2), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 98–44, title I, §101, July 12, 1983, 97 Stat. 216; Pub. L. 99–659, title IV, §404, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title II, §208, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title III, §307, Nov. 3, 1995, 109 Stat. 386; Pub. L. 105–384, title II, §202(a), Nov. 13, 1998, 112 Stat. 3452; Pub. L. 107–372, title III, §304, Dec. 19, 2002, 116 Stat. 3095.)
+(Pub. L. 94–70, §10, Aug. 5, 1975, 89 Stat. 393; Pub. L. 95–33, §1, May 26, 1977, 91 Stat. 173; Pub. L. 96–339, §1(2), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 98–44, title I, §101, July 12, 1983, 97 Stat. 216; Pub. L. 99–659, title IV, §404, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title II, §208, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title III, §307, Nov. 3, 1995, 109 Stat. 386; Pub. L. 105–384, title II, §202(a), Nov. 13, 1998, 112 Stat. 3452; Pub. L. 107–372, title III, §304, Dec. 19, 2002, 116 Stat. 3095; Pub. L. 109–479, title IV, §405(a), Jan. 12, 2007, 120 Stat. 3633.)
 
 #### References in Text
 
-Act of September 4, 1980, referred to in subsec. (b)(2), is Pub. L. 96–339, Sept. 4, 1980, 94 Stat. 1069, which enacted sections 971i and 1827 of this title and amended this section and section 971b of this title. For complete classification of this Act to the Code, see Tables.
+Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the original “section 3(b)(2)(H) of that section” and was translated as reading “section 3(b)(2)(H) of that Act”, meaning Pub. L. 96–339, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2007—Pub. L. 109–479 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2013 for provisions authorizing appropriations for fiscal years 2003 to 2006.
 
 2002—Pub. L. 107–372 amended section generally, substituting provisions authorizing appropriations for fiscal years 2003 to 2006 for provisions authorizing appropriations for fiscal years 1995 to 2001.
 
@@ -39,4 +43,6 @@ Act of September 4, 1980, referred to in subsec. (b)(2), is Pub. L. 96–339, Se
 1980—Pub. L. 96–339 authorized appropriations for fiscal years 1981 through 1983.
 
 1977—Pub. L. 95–33 authorized appropriations for fiscal years 1978 through 1980.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

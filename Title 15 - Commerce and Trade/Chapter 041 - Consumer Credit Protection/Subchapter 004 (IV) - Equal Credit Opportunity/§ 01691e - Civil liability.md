@@ -50,7 +50,7 @@ Nothing in this subchapter shall be construed to prohibit the discovery of a cre
 
 Whenever an agency referred to in paragraph (1), (2), or (3) of section 1691c(a) of this title—
 
-&emsp;(1) has reason to believe, as a result of receiving a consumer complaint, conducting a consumer compliance examination, or otherwise, that a violation of this subchapter has occurred;
+&emsp;(1) has reason to believe, as a result of receiving a consumer complaint, conducting aconsumer compliance examination, or otherwise, that a violation of this subchapter has occurred;
 
 &emsp;(2) has reason to believe that the alleged violation would be a violation of the Fair Housing Act \[42 U.S.C. 3601 et seq.\]; and
 

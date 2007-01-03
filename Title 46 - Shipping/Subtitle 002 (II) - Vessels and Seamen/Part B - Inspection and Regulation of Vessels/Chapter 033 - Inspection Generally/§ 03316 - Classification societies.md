@@ -1,6 +1,6 @@
 ### §3316. Classification societies
 
-(a) Each department, agency, and instrumentality of the United States Government shall recognize the American Bureau of Shipping as its agent in classifying vessels owned by the Government and in matters related to classification, as long as the Bureau is maintained as an organization having no capital stock and paying no dividends. The Secretary and the Secretary of Transportation each shall appoint one representative (except when the Secretary is the Secretary of Transportation, in which case the Secretary shall appoint both representatives) who shall represent the Government on the executive committee of the Bureau. The Bureau shall agree that the representatives shall be accepted by it as active members of the committee. The representatives shall serve without compensation, except for necessary traveling expenses.
+(a) Each department, agency, and instrumentality of the United States Government shall recognize the American Bureau of Shipping as its agent in classifying vessels owned by the Government and in matters related to classification, as long as the Bureau is maintained as an organization having no capital stock and payingno dividends. The Secretary and the Secretary of Transportation each shall appoint one representative (except when the Secretary is the Secretary of Transportation, in which case the Secretary shall appoint both representatives) who shall represent the Government on the executive committee of the Bureau. The Bureau shall agree that the representatives shall be accepted by it as active members of the committee. The representatives shall serve without compensation, except for necessary traveling expenses.
 
 (b)(1) The Secretary may delegate to the American Bureau of Shipping or another classification society recognized by the Secretary as meeting acceptable standards for such a society, for a vessel documented or to be documented under chapter 121 of this title, the authority to—
 
@@ -26,7 +26,27 @@
 
 &emsp;&emsp;(ii) in writing by the Secretary to have access to those files.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932.)
+(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless—
+
+&emsp;(A) the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2); or
+
+&emsp;(B) the society is a full member of the International Association of Classification Societies.
+
+(2) The Secretary may approve a person for purposes of paragraph (1) only if the Secretary determines that—
+
+&emsp;(A) the vessels surveyed by the person while acting as a classification society have an adequate safety record; and
+
+&emsp;(B) the person has an adequate program to—
+
+&emsp;&emsp;(i) develop and implement safety standards for vessels surveyed by the person;
+
+&emsp;&emsp;(ii) make the safety records of the person available to the Secretary in an electronic format;
+
+&emsp;&emsp;(iii) provide the safety records of a vessel surveyed by the person to any other classification society that requests those records for the purpose of conducting a survey of the vessel; and
+
+&emsp;&emsp;(iv) request the safety records of a vessel the person will survey from any classification society that previously surveyed the vessel.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046.)
 
 Historical and Revision Notes
 
@@ -48,19 +68,25 @@ The section requires that a Federal department, agency, or instrumentality recog
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–293 added subsec. (c).
+
 1996—Pub. L. 104–324, §607(b)(1), substituted “Classification societies” for “United States classification societies” in section catchline.
 
 Subsec. (a). Pub. L. 104–324, §607(a)(3), which directed the substitution of “American Bureau of Shipping” for “Bureau”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
 
 Pub. L. 104–324, §607(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “In carrying out this part, the Secretary may rely on reports, documents, and certificates issued by the American Bureau of Shipping or a similar United States classification society, or an agent of the Bureau or society.”
 
-Subsec. (b). Pub. L. 104–324, §607(a)(2), (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: “To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or an agent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation.” Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 104–324, §607(a)(2), (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par.\(1) which read as follows: “To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or an agent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation.” Former subsec. (b) redesignated (a).
 
 Subsec. (c). Pub. L. 104–324, §607(a)(2), redesignated subsec. (c) as (b).
 
 Subsec. (d). Pub. L. 104–324, §607(a)(1), struck out subsec. (d) which read as follows: “The Secretary also may make an agreement with or use the Bureau or a similar United States classification society, or an agent of the Bureau or society, for reviewing and approving plans required for issuing a certificate of inspection.”
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–293, title IV, §413(b), Aug. 9, 2004, 118 Stat. 1046, provided that: “Section 3316(c)(1) of title 46, United States Code, shall apply with respect to operation as a classification society on or after January 1, 2005.”
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

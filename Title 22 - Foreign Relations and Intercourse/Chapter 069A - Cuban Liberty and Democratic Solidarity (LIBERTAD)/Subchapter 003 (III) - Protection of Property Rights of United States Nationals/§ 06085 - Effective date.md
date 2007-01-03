@@ -30,7 +30,7 @@ Subject to subsections (b) and (c) of this section, this subchapter and the amen
 
 #### (3) Pending suits
 
-&emsp;The suspensions of actions under paragraph (1) shall not affect suits commenced before the date of such suspension, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if the suspension had not occurred.
+&emsp;The suspensions of actions under paragraph (1) shall not affect suits commenced before thedate of such suspension, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if the suspension had not occurred.
 
 #### (d) Rescission of suspension
 

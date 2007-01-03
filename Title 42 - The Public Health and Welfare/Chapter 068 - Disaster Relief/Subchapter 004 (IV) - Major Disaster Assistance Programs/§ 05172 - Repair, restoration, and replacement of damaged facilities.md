@@ -38,7 +38,7 @@
 
 #### (B) Definition of critical services
 
-&emsp;&emsp;In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications, and emergency medical care.
+&emsp;&emsp;In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications, education, and emergency medical care.
 
 #### (4) Notification to Congress
 
@@ -72,13 +72,9 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 75 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
 
-#### (B) Areas with unstable soil
-
-&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federalestimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
-
-#### (C) Use of funds
+#### (B) Use of funds
 
 &emsp;&emsp;Funds contributed to a State or local government under this paragraph may be used—
 
@@ -88,13 +84,13 @@
 
 &emsp;&emsp;&emsp;(iii) to fund hazard mitigation measures that the State or local government determines to be necessary to meet a need for governmental services and functions in the area affected by the major disaster.
 
-#### (D) Limitations
+#### (C) Limitations
 
 &emsp;&emsp;Funds made available to a State or local government under this paragraph may not be used for—
 
 &emsp;&emsp;&emsp;(i) any public facility located in a regulatory floodway (as defined in section 59.1 of title 44, Code of Federal Regulations (or a successor regulation)); or
 
-&emsp;&emsp;&emsp;(ii) any uninsured public facility located in a special flood hazard area identified by the Director of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
+&emsp;&emsp;&emsp;(ii) any uninsured public facility located in a special flood hazard area identified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
 
 #### (2) For private nonprofit facilities
 
@@ -118,13 +114,13 @@
 
 &emsp;&emsp;&emsp;(i) any private nonprofit facility located in a regulatory floodway (as defined in section 59.1 of title 44, Code of Federal Regulations (or a successor regulation)); or
 
-&emsp;&emsp;&emsp;(ii) any uninsured private nonprofit facility located in a special flood hazard area identified by the Director of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
+&emsp;&emsp;&emsp;(ii) any uninsured private nonprofit facility located in a special flood hazard area identified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
 
 #### (d) Flood insurance
 
 #### (1) Reduction of Federal assistance
 
-&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Director pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
+&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
 
 #### (2) Amount of reduction
 
@@ -158,7 +154,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to paragraph (2), the President shall use the cost estimation proceduresestablished under paragraph (3) to determine the eligible cost under this subsection.
+&emsp;&emsp;&emsp;Subject to paragraph (2), the President shall use the cost estimation procedures established under paragraph (3) to determine the eligible cost under this subsection.
 
 #### (ii) Applicability
 
@@ -188,7 +184,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;Not later than 18 months after October 30, 2000, the President, acting through the Director of the Federal Emergency Management Agency, shall establish an expert panel, which shall include representatives from the construction industry and State and local government.
+&emsp;&emsp;Not later than 18 months after October 30, 2000, the President, acting through the Administrator of the Federal Emergency Management Agency, shall establish an expert panel, which shall include representatives from the construction industry and State and local government.
 
 #### (B) Duties
 
@@ -218,11 +214,11 @@
 
 &emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
 
-(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566.)
+(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §§612(c), 689h, Oct. 4, 2006, 120 Stat. 1410, 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942.)
 
 #### References in Text
 
-The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(D)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The National Flood Insurance Act, referred to in subsec. (d)(3), probably means the National Flood Insurance Act of 1968. See above.
 
@@ -235,6 +231,12 @@ A prior section 5172, Pub. L. 93–288, title IV, §402, May 22, 1974, 88 Stat. 
 A prior section 406 of Pub. L. 93–288 was renumbered section 409 by Pub. L. 100–707 and is classified to section 5176 of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(3)(B). Pub. L. 109–295, §689h, inserted “education,” after “communications,”.
+
+Subsec. (c)(1)(A). Pub. L. 109–347, §609(1), substituted “90” for “75”.
+
+Subsec. (c)(1)(B) to (D). Pub. L. 109–347, §609(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.”
 
 2000—Subsec. (a). Pub. L. 106–390, §205(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The President may make contributions—
 
@@ -268,7 +270,13 @@ Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out v
 
 Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect.”
 
+#### Change of Name
+
+“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsecs. (c)(1)(C)(ii), (2)(C)(ii), (d)(1), and (e)(3)(A) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

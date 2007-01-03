@@ -24,6 +24,12 @@ Subsec. (c). Pub. L. 98–11, §202(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 95–625, §551(3), substituted “, scenic and historic” for “and scenic”.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–432, div. C, title III, §302, Dec. 20, 2006, 120 Stat. 3028, provided that: “This title \[enacting provisions set out as a note under section 1244 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘White Pine County Conservation, Recreation, and Development Act of 2006’.”
+
+Pub. L. 109–418, §1, Dec. 19, 2006, 120 Stat. 2882, provided that: “This Act \[amending sections 81f and 1244 of this title\] may be cited as the ‘Captain John Smith Chesapeake National Historic Trail Designation Act’.”
+
 #### Short Title of 2004 Amendments
 
 Pub. L. 108–424, §2(a), Nov. 30, 2004, 118 Stat. 2403, provided that: “This Act \[enacting provisions set out as a note under section 1244 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending provisions listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title\] may be cited as the ‘Lincoln County Conservation, Recreation, and Development Act of 2004’.”

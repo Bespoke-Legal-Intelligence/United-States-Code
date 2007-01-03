@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) a significant part of the Federal mission in education has been to attain equal opportunity in higher education for low-income, educationally disadvantaged Americans and African Americans;
 
-&emsp;(2) the Nation's historically Black colleges and universities have played a prominent role in American history and have an unparalleledrecord of fostering the development of African American youth by recognizing their potential, enhancing their academic and technical skills, and honing their social and political skills through higher education;
+&emsp;(2) the Nation's historically Black colleges and universities have played a prominent role in American history and have an unparalleled record of fostering the development of African American youth by recognizing their potential, enhancing their academic and technical skills, and honing their social and political skills through higher education;
 
 &emsp;(3) the academic and residential facilities on the campuses of all historically Black colleges and universities have suffered from neglect, deferred maintenance and are in need of capital improvements in order to provide appropriate settings for learning and social development through higher education;
 

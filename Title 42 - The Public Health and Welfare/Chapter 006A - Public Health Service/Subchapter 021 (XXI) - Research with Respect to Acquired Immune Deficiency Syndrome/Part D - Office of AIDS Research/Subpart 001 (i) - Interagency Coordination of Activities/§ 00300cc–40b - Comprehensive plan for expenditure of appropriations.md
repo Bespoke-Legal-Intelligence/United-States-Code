@@ -50,7 +50,7 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 &emsp;&emsp;(ii) A budget estimate developed on the assumption that the amounts appropriated will be sufficient only for—
 
-&emsp;&emsp;&emsp;(I) continuing the conduct by the agencies of the National Institutes of Health ofexisting AIDS activities (if approved for continuation), and continuing the support of such activities by the agencies in the case of projects or programs for which the agencies have made a commitment of continued support; and
+&emsp;&emsp;&emsp;(I) continuing the conduct by the agencies of the National Institutes of Health of existing AIDS activities (if approved for continuation), and continuing the support of such activities by the agencies in the case of projects or programs for which the agencies have made a commitment of continued support; and
 
 &emsp;&emsp;&emsp;(II) carrying out, of activities that are in addition to activities specified in subclause (I), only such activities for which the Director determines there is the most substantial need.
 

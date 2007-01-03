@@ -36,7 +36,7 @@ The Commodity Credit Corporation may make in-kind payments—
 
 #### References in Text
 
-The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (a) and (c)(1), is Pub. L. 107–171,May 13, 2002, 116 Stat. 134. Subtitle B of title I of the Act is classified generally to subchapter II (§7931 et seq.) of chapter 106 of this title. Subtitle C of title I of the Act is classified principally to subchapter III (§7951 et seq.) of chapter 106 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (a) and (c)(1), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Subtitle B of title I of the Act is classified generally to subchapter II (§7931 et seq.) of chapter 106 of this title. Subtitle C of title I of the Act is classified principally to subchapter III (§7951 et seq.) of chapter 106 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 
 #### Amendments
 

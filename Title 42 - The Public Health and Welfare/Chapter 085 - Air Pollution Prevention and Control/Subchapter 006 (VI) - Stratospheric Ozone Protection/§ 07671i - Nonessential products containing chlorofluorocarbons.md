@@ -18,7 +18,7 @@ The regulations under this section shall identify nonessential products that rel
 
 &emsp;&emsp;(B) to be nonessential.
 
-> In determining whether a product is nonessential, the Administrator shall consider thepurpose or intended use of the product, the technological availability of substitutes for such product and for such class I substance, safety, health, and other relevant factors.
+> In determining whether a product is nonessential, the Administrator shall consider the purpose or intended use of the product, the technological availability of substitutes for such product and for such class I substance, safety, health, and other relevant factors.
 
 #### (c) Effective date
 

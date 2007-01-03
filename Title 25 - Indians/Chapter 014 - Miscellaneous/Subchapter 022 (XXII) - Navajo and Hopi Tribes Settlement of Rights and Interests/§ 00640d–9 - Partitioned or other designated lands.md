@@ -22,7 +22,7 @@ With respect to any individual subject to relocation, the Secretary shall take s
 
 &emsp;(A) Effective ninety days after July 8, 1980, all conservation practices, including grazing control and range restoration activities, shall be coordinated and executed with the concurrence of the tribe to whom the particular lands in question have been partitioned, and all such grazing and range restoration matters on the Navajo Reservation lands shall be administered by the Bureau of Indian Affairs Navajo Area Office and on the Hopi Reservation lands by the Bureau of Indian Affairs Phoenix Area Office, under applicable laws and regulations.
 
-&emsp;(B) Notwithstanding any provision of law to the contrary, each tribe shall have such jurisdiction and authority over any lands partitioned to it and all persons located thereon, not in conflict with the laws and regulationsreferred to in paragraph (A) above, to the same extent as is applicable to those other portions of its reservation. Such jurisdiction and authority over partitioned lands shall become effective April 18, 1981.
+&emsp;(B) Notwithstanding any provision of law to the contrary, each tribe shall have such jurisdiction and authority over any lands partitioned to it and all persons located thereon, not in conflict with the laws and regulations referred to in paragraph (A) above, to the same extent as is applicable to those other portions of its reservation. Such jurisdiction and authority over partitioned lands shall become effective April 18, 1981.
 
 > The provisions of this subsection shall be subject to the responsibility of the Secretary to protect the rights and property of life tenants and persons awaiting relocation as provided in subsections (c) and (d) of this section.
 

@@ -13,34 +13,10 @@
 |  |  |
 | :--- | ---: |
 | [4852\.](Subchapter%20001%20%28I%29%20-%20Lead-Based%20Paint%20Hazard%20Reduction/%C2%A7%2004852%20-%20Grants%20for%20lead-based%20paint%20hazard%20reduction%20in%20target%20housing.md) | Grants for lead-based paint hazard reduction in target housing. |
-| (a) | General authority. |
-| (b) | Eligible applicants. |
-| (c) | Form of applications. |
-| (d) | Selection criteria. |
-| (e) | Eligible activities. |
-| (f) | Forms of assistance. |
-| (g) | Technical assistance and capacity building. |
-| (h) | Matching requirement. |
-| (i) | Prohibition of substitution of funds. |
-| (j) | Limitation on use. |
-| (k) | Financial records. |
-| (<i>l</i>) | Report. |
-| (m) | Notice of Funding Availability. |
-| (n) | Relationship to other law. |
-| (<i>o</i>) | Environmental review. |
-| (p) | Authorization of appropriations. |
 | [4852a.](Subchapter%20001%20%28I%29%20-%20Lead-Based%20Paint%20Hazard%20Reduction/%C2%A7%2004852a%20-%20Task%20force%20on%20lead-based%20paint%20hazard%20reduction%20and%20financing.md) | Task force on lead-based paint hazard reduction and financing. |
-| (a) | In general. |
-| (b) | Membership. |
-| (c) | Responsibilities. |
-| (d) | Compensation. |
 | [4852b.](Subchapter%20001%20%28I%29%20-%20Lead-Based%20Paint%20Hazard%20Reduction/%C2%A7%2004852b%20-%20National%20consultation%20on%20lead-based%20paint%20hazard%20reduction.md) | National consultation on lead-based paint hazard reduction. |
 | [4852c.](Subchapter%20001%20%28I%29%20-%20Lead-Based%20Paint%20Hazard%20Reduction/%C2%A7%2004852c%20-%20Guidelines%20for%20lead-based%20paint%20hazard%20evaluation%20and%20reduction%20activities.md) | Guidelines for lead-based paint hazard evaluation and reduction activities. |
 | [4852d.](Subchapter%20001%20%28I%29%20-%20Lead-Based%20Paint%20Hazard%20Reduction/%C2%A7%2004852d%20-%20Disclosure%20of%20information%20concerning%20lead%20upon%20transfer%20of%20residential%20property.md) | Disclosure of information concerning lead upon transfer of residential property. |
-| (a) | Lead disclosure in purchase and sale or lease of target housing. |
-| (b) | Penalties for violations. |
-| (c) | Validity of contracts and liens. |
-| (d) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -70,8 +46,6 @@
 |  |  |
 | :--- | ---: |
 | [4855\.](Subchapter%20003%20%28III%29%20-%20Research%20and%20Development/Part%20002%20-%20GAO%20Report/%C2%A7%2004855%20-%20Federal%20implementation%20and%20insurance%20study.md) | Federal implementation and insurance study. |
-| (a) | Federal implementation study. |
-| (b) | Insurance study. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,8 +54,6 @@
 |  |  |
 | :--- | ---: |
 | [4856\.](Subchapter%20004%20%28IV%29%20-%20Reports/%C2%A7%2004856%20-%20Reports%20of%20Secretary%20of%20Housing%20and%20Urban%20Development.md) | Reports of Secretary of Housing and Urban Development. |
-| (a) | Annual report. |
-| (b) | Biennial report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

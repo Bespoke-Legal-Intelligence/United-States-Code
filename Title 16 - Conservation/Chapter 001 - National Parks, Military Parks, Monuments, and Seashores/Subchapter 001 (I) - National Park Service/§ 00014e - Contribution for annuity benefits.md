@@ -1,6 +1,6 @@
 ### §14e. Contribution for annuity benefits
 
-For reimbursement (not heretofore made), pursuant to provisions of Public Law 85–157, to the District of Columbia on a monthly basis for benefit payments by the District of Columbia to United States Park Police annuitants under the provisions of the Policeman and Fireman's Retirement and Disability Act (Act), to the extent those payments exceed contributions made by active Park Police members covered under the Act, such amounts as hereafter may be necessary: <i>Provided</i>, That hereafter the appropriations made to the National Park Service shall not be available for this purpose.
+For reimbursement (not heretofore made), pursuant to provisions of Public Law 85–157, to the District of Columbia on a monthly basis for benefit payments by the District of Columbia to United States Park Police annuitants under the provisions of the Policeman and Fireman's Retirement and Disability Act (Act), to the extentthose payments exceed contributions made by active Park Police members covered under the Act, such amounts as hereafter may be necessary: <i>Provided</i>, That hereafter the appropriations made to the National Park Service shall not be available for this purpose.
 
 (Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 424.)
 

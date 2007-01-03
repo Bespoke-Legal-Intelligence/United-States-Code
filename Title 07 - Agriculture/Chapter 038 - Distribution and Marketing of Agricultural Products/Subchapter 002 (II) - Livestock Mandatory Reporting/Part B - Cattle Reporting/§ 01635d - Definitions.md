@@ -78,7 +78,3 @@ In this part:
 
 (Aug. 14, 1946, ch. 966, title II, §221, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1189.)
 
-#### Termination of Section
-
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
-

@@ -52,7 +52,7 @@ Nothing in this section shall be construed to preempt or prohibit any State law,
 
 For purposes of this section:
 
-&emsp;(1) The term “audiologic evaluation” refers to procedures to assess the status of the auditory system; to establish the site of the auditory disorder; the type and degree of hearing loss, and the potential effects of hearing loss on communication; and to identify appropriate treatment and referral options. Referral options should include linkage to State coordinating agencies under part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\] or other appropriate agencies, medical evaluation, hearing aid/sensory aid assessment, audiologic rehabilitation treatment, national and local consumer, self-help, parent, and education organizations, and other family-centered services.
+&emsp;(1) The term “audiologic evaluation” refers to procedures to assess the status of the auditory system; to establish the site of the auditory disorder; the type and degree of hearing loss, and the potential effects of hearing loss on communication; and to identify appropriate treatment and referral options. Referral options should include linkage to State coordinating agencies under part C of the Individuals with Disabilities Education Act \[20U.S.C. 1431 et seq.\] or other appropriate agencies, medical evaluation, hearing aid/sensory aid assessment, audiologic rehabilitation treatment, national and local consumer, self-help, parent, and education organizations, and other family-centered services.
 
 &emsp;(2) The terms “audiologic rehabilitation” and “audiologic intervention” refer to procedures, techniques, and technologies to facilitate the receptive and expressive communication abilities of a child with hearing loss.
 

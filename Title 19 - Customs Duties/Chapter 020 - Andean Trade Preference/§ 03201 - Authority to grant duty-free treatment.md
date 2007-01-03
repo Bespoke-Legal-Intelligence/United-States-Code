@@ -10,7 +10,11 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 #### Termination of Preferential Treatment
 
-Preferential treatment under this chapter to expire after Dec. 31, 2006, see section 3206 of this title.
+Preferential treatment under this chapter to expire after June 30, 2007, see section 3206 of this title.
+
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–432, div. D, title VII, §7001, Dec. 20, 2006, 120 Stat. 3194, provided that: “This title \[amending sections 3203 and 3206 of this title\] may be cited as the ‘Andean Trade Preferences Extension Act’.”
 
 #### Short Title of 2002 Amendment
 

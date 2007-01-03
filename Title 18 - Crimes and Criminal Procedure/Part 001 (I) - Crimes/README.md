@@ -81,7 +81,7 @@
 | [<b>93.</b>](Chapter%20093%20-%20Public%20Officers%20and%20Employees/README.md) | <b>Public officers and employees</b> | <b>1901</b> |
 | [<b>95.</b>](Chapter%20095%20-%20Racketeering/README.md) | <b>Racketeering</b> | <b>1951</b> |
 | [<b>96.</b>](Chapter%20096%20-%20Racketeer%20Influenced%20and%20Corrupt%20Organizations/README.md) | <b>Racketeer influenced and corrupt organizations</b> | <b>1961</b> |
-| [<b>97.</b>](Chapter%20097%20-%20Railroads/README.md) | <b>Railroads</b> | <b>1991</b> |
+| [<b>97.</b>](Chapter%20097%20-%20Railroad%20Carriers%20and%20Mass%20Transportation%20Systems%20on%20Land%2C%20on%20Water%2C%20or%20Through%20the%20Air/README.md) | <b>Railroad carriers and mass transportation systems on land, on water, or through the air</b> | <b>1991</b> |
 | <b>\[99.</b> | <b>Repealed.\]</b> |  |
 | [<b>101.</b>](Chapter%20101%20-%20Records%20and%20Reports/README.md) | <b>Records and reports</b> | <b>2071</b> |
 | [<b>102.</b>](Chapter%20102%20-%20Riots/README.md) | <b>Riots</b> | <b>2101</b> |
@@ -90,23 +90,20 @@
 | [<b>107.</b>](Chapter%20107%20-%20Seamen%20and%20Stowaways/README.md) | <b>Seamen and stowaways</b> | <b>2191</b> |
 | [<b>109.</b>](Chapter%20109%20-%20Searches%20and%20Seizures/README.md) | <b>Searches and seizures</b> | <b>2231</b> |
 | [<b>109A.</b>](Chapter%20109A%20-%20Sexual%20Abuse/README.md) | <b>Sexual abuse</b> | <b>2241</b> |
+| [<b>109B.</b>](Chapter%20109B%20-%20Sex%20Offender%20and%20Crimes%20Against%20Children%20Registry/README.md) | <b>Sex offender and crimes against children registry</b> | <b>2250</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Sexual%20Exploitation%20and%20Other%20Abuse%20of%20Children/README.md) | <b>Sexual exploitation and other abuse of children</b> | <b>2251</b> |
 | [<b>110A.</b>](Chapter%20110A%20-%20Domestic%20Violence%20and%20Stalking/README.md) | <b>Domestic violence and stalking</b> | <b>2261</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Shipping/README.md) | <b>Shipping</b> | <b>2271</b> |
+| [<b>111A.</b>](Chapter%20111A%20-%20Destruction%20of%2C%20or%20Interference%20with%2C%20Vessels%20or%20Maritime%20Facilities/README.md) | <b>Destruction of, or interference with, vessels or maritime facilities</b> | <b>2290</b> |
 | [<b>113.</b>](Chapter%20113%20-%20Stolen%20Property/README.md) | <b>Stolen property</b> | <b>2311</b> |
 | [<b>113A.</b>](Chapter%20113A%20-%20Telemarketing%20Fraud/README.md) | <b>Telemarketing fraud</b> | <b>2325</b> |
 | [<b>113B.</b>](Chapter%20113B%20-%20Terrorism/README.md) | <b>Terrorism</b> | <b>2331</b> |
 | [<b>113C.</b>](Chapter%20113C%20-%20Torture/README.md) | <b>Torture</b> | <b>2340</b> |
-| [<b>114.</b>](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes/README.md) | <b>Trafficking in Contraband Cigarettes </b><b><sup>3</sup></b> | <b>2341</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>114.</b>](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes%20and%20Smokeless%20Tobacco/README.md) | <b>Trafficking in contraband cigarettes and smokeless tobacco</b> | <b>2341</b> |
 | [<b>115.</b>](Chapter%20115%20-%20Treason%2C%20Sedition%2C%20and%20Subversive%20Activities/README.md) | <b>Treason, sedition, and subversive activities</b> | <b>2381</b> |
 | [<b>117.</b>](Chapter%20117%20-%20Transportation%20for%20Illegal%20Sexual%20Activity%20and%20Related%20Crimes/README.md) | <b>Transportation for illegal sexual activity and related crimes</b> | <b>2421</b> |
 | [<b>118.</b>](Chapter%20118%20-%20War%20Crimes/README.md) | <b>War crimes</b> | <b>2441</b> |
-| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>4</sup></b> | <b>2510</b> |
+| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>3</sup></b> | <b>2510</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -118,6 +115,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–248, title I, §141(a)(2), July 27, 2006, 120 Stat. 602, added item for chapter 109B.
+
+Pub. L. 109–177, title I, §121(g)(4)(B), Mar. 9, 2006, 120 Stat. 224, which directed amendment of table of chapters at the beginning of part I of this title by striking item relating to “section 114” and inserting new item 114, was executed by adding item for chapter 114 and striking item for former chapter 114 “Trafficking in Contraband Cigarettes”, to reflect the probable intent of Congress.
+
+Pub. L. 109–177, title I, §110(b)(2), title III, §306(b), Mar. 9, 2006, 120 Stat. 208, 239, substituted “Railroad carriers and mass transportation systems on land, on water, or through the air” for “Railroads” in item for chapter 97 and added item for chapter 111A.
 
 2004—Pub. L. 108–495, §2(b), Dec. 23, 2004, 118 Stat. 4000, added item for chapter 88.
 
@@ -271,7 +274,7 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 093 - Public Officers and Employees](Chapter%20093%20-%20Public%20Officers%20and%20Employees/README.md)
 - [Chapter 095 - Racketeering](Chapter%20095%20-%20Racketeering/README.md)
 - [Chapter 096 - Racketeer Influenced and Corrupt Organizations](Chapter%20096%20-%20Racketeer%20Influenced%20and%20Corrupt%20Organizations/README.md)
-- [Chapter 097 - Railroads](Chapter%20097%20-%20Railroads/README.md)
+- [Chapter 097 - Railroad Carriers and Mass Transportation Systems on Land, on Water, or Through the Air](Chapter%20097%20-%20Railroad%20Carriers%20and%20Mass%20Transportation%20Systems%20on%20Land%2C%20on%20Water%2C%20or%20Through%20the%20Air/README.md)
 - [Chapter 099 - Repealed](Chapter%20099%20-%20Repealed/README.md)
 - [Chapter 101 - Records and Reports](Chapter%20101%20-%20Records%20and%20Reports/README.md)
 - [Chapter 102 - Riots](Chapter%20102%20-%20Riots/README.md)
@@ -280,14 +283,16 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 107 - Seamen and Stowaways](Chapter%20107%20-%20Seamen%20and%20Stowaways/README.md)
 - [Chapter 109 - Searches and Seizures](Chapter%20109%20-%20Searches%20and%20Seizures/README.md)
 - [Chapter 109A - Sexual Abuse](Chapter%20109A%20-%20Sexual%20Abuse/README.md)
+- [Chapter 109B - Sex Offender and Crimes Against Children Registry](Chapter%20109B%20-%20Sex%20Offender%20and%20Crimes%20Against%20Children%20Registry/README.md)
 - [Chapter 110 - Sexual Exploitation and Other Abuse of Children](Chapter%20110%20-%20Sexual%20Exploitation%20and%20Other%20Abuse%20of%20Children/README.md)
 - [Chapter 110A - Domestic Violence and Stalking](Chapter%20110A%20-%20Domestic%20Violence%20and%20Stalking/README.md)
 - [Chapter 111 - Shipping](Chapter%20111%20-%20Shipping/README.md)
+- [Chapter 111A - Destruction of, or Interference with, Vessels or Maritime Facilities](Chapter%20111A%20-%20Destruction%20of%2C%20or%20Interference%20with%2C%20Vessels%20or%20Maritime%20Facilities/README.md)
 - [Chapter 113 - Stolen Property](Chapter%20113%20-%20Stolen%20Property/README.md)
 - [Chapter 113A - Telemarketing Fraud](Chapter%20113A%20-%20Telemarketing%20Fraud/README.md)
 - [Chapter 113B - Terrorism](Chapter%20113B%20-%20Terrorism/README.md)
 - [Chapter 113C - Torture](Chapter%20113C%20-%20Torture/README.md)
-- [Chapter 114 - Trafficking in Contraband Cigarettes](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes/README.md)
+- [Chapter 114 - Trafficking in Contraband Cigarettes and Smokeless Tobacco](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes%20and%20Smokeless%20Tobacco/README.md)
 - [Chapter 115 - Treason, Sedition, and Subversive Activities](Chapter%20115%20-%20Treason%2C%20Sedition%2C%20and%20Subversive%20Activities/README.md)
 - [Chapter 117 - Transportation for Illegal Sexual Activity and Related Crimes](Chapter%20117%20-%20Transportation%20for%20Illegal%20Sexual%20Activity%20and%20Related%20Crimes/README.md)
 - [Chapter 118 - War Crimes](Chapter%20118%20-%20War%20Crimes/README.md)

@@ -14,12 +14,6 @@
 |  |  |
 | :--- | ---: |
 | [81\.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20Indians/%C2%A7%2000081%20-%20Contracts%20and%20agreements%20with%20Indian%20tribes.md) | Contracts and agreements with Indian tribes. |
-| (a) | Definitions. |
-| (b) | Approval. |
-| (c) | Exception. |
-| (d) | Unapproved agreements. |
-| (e) | Regulations. |
-| (f) | Construction. |
 | [81a.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20Indians/%C2%A7%2000081a%20-%20Counsel%20for%20prosecution%20of%20claims%20against%20the%20United%20States%3B%20cancellation%3B%20revival.md) | Counsel for prosecution of claims against the United States; cancellation; revival. |
 | [81b.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20Indians/%C2%A7%2000081b%20-%20Continuation%20of%20contracts%20with%20attorneys%20containing%20limitation%20of%20time%20where%20suits%20have%20been%20filed.md) | Continuation of contracts with attorneys containing limitation of time where suits have been filed. |
 | [82\.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20Indians/%C2%A7%2000082%20-%20Payments%20under%20contracts%3B%20aiding%20in%20making%20prohibited%20contracts.md) | Payments under contracts; aiding in making prohibited contracts. |

@@ -22,7 +22,7 @@
 
 &emsp;(1) to establish a National Critical Materials Council under and reporting to the Executive Office of the President which shall—
 
-&emsp;&emsp;(A) establish responsibilities for and provide for necessary coordination of criticalmaterials policies, including all facets of research and technology, among the various agencies and departments of the Federal Government, and make recommendations for the implementation of such policies;
+&emsp;&emsp;(A) establish responsibilities for and provide for necessary coordination of critical materials policies, including all facets of research and technology, among the various agencies and departments of the Federal Government, and make recommendations for the implementation of such policies;
 
 &emsp;&emsp;(B) bring to the attention of the President, the Congress, and the general public such materials issues and concerns, including research and development, as are deemed critical to the economic and strategic health of the Nation; and
 

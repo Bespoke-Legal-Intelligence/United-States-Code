@@ -16,7 +16,7 @@ The Secretary is authorized, in accordance with the requirements of this divisio
 
 #### (1) In general
 
-&emsp;From funds appropriated under section 1070a–28 of this title for each fiscal year, the Secretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) of this section to enable the entities to carry out the program authorized under subsection (a) of this section.
+&emsp;From funds appropriated under section 1070a–28 of this title for each fiscal year, theSecretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) of this section to enable the entities to carry out the program authorized under subsection (a) of this section.
 
 #### (2) Priority
 

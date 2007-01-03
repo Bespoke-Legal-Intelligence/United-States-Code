@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) Compliance with applicable laws and regulations;
 
-&emsp;(11) “local government” means any unit of local government within a State, including a county, borough, municipality, city, town, township, parish, local public authority, special district, school district, intrastate district, council of governments, any other instrumentality of local government and, in accordance with guidelines issued by the Director, a group of local governments;
+&emsp;(11) “local government” means any unit of local government within a State, including a county, borough, municipality, city, town,township, parish, local public authority, special district, school district, intrastate district, council of governments, any other instrumentality of local government and, in accordance with guidelines issued by the Director, a group of local governments;
 
 &emsp;(12) “major program” means a Federal program identified in accordance with risk-based criteria prescribed by the Director under this chapter, subject to the limitations described under subsection (b);
 

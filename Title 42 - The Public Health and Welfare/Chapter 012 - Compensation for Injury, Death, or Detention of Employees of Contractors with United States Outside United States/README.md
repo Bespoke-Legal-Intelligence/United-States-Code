@@ -5,26 +5,11 @@
 | Sec. |  |
 | :--- | ---: |
 | [1701\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001701%20-%20Compensation%20for%20injury%20or%20death%20resulting%20from%20war-risk%20hazard.md) | Compensation for injury or death resulting from war-risk hazard. |
-| (a) | Persons covered. |
-| (b) | Missing persons considered as totally disabled. |
-| (c) | Persons not citizens or residents of United States. |
-| (d) | Persons excepted from coverage. |
 | [1702\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001702%20-%20Application%20of%20Longshore%20and%20Harbor%20Workers%E2%80%99%20Compensation%20Act.md) | Application of Longshore and Harbor Workers’ Compensation Act. |
 | [1703\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001703%20-%20%E2%80%9CContractor%20with%20the%20United%20States%E2%80%9D%20defined.md) | “Contractor with the United States” defined. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001704%20-%20Reimbursement.md) | Reimbursement. |
-| (a) | Payments reimbursable; filing claim for reimbursement; regulations for payment of direct benefits. |
-| (b) | Charging of premiums as prohibiting reimbursement. |
-| (c) | Injury or death occurring within any State. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001705%20-%20Receipt%20of%20workmen%27s%20compensation%20benefits.md) | Receipt of workmen's compensation benefits. |
-| (a) | Receipt of benefits under other provisions. |
-| (b) | Lien and right of recovery against compensation payable under other provisions. |
-| (c) | Receipt of wages as credit against payment under this subchapter; intervention by Secretary in proceeding to recover wages, etc. |
-| (d) | Entitlement to benefits by national of a foreign government under foreign laws. |
-| (e) | Receipt of benefits for prior accident or disease. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20Compensation%2C%20Reimbursement%2C%20Etc.%2C%20by%20Secretary%20of%20Labor/%C2%A7%2001706%20-%20Administration.md) | Administration. |
-| (a) | Rules and regulations. |
-| (b) | Agreements and working arrangements with other agencies, etc. |
-| (c) | Waiver of notice of injury and filing of claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

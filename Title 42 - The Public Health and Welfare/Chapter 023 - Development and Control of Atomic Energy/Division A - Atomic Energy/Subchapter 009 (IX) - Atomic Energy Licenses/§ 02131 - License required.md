@@ -1,6 +1,6 @@
 ### §2131. License required
 
-It shall be unlawful, except as provided in section 2121 of this title, for any person within the United States to transfer or receive in interstate commerce, manufacture, produce, transfer, acquire, possess, use, import, or export any utilization or production facility except under and in accordance with a license issued by the Commission pursuant to section 2133 or 2134 of this title.
+It shall be unlawful, except as provided in section 2121 of this title, for any person within theUnited States to transfer or receive in interstate commerce, manufacture, produce, transfer, acquire, possess, use, import, or export any utilization or production facility except under and in accordance with a license issued by the Commission pursuant to section 2133 or 2134 of this title.
 
 (Aug. 1, 1946, ch. 724, title I, §101, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Aug. 6, 1956, ch. 1015, §11, 70 Stat. 1071; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
@@ -11,8 +11,4 @@ Provisions similar to this section were contained in section 1807(a) of this tit
 #### Amendments
 
 1956—Act Aug. 6, 1956, inserted “use,” after “possess,”.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

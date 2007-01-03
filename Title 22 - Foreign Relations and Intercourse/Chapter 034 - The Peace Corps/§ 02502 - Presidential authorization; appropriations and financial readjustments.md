@@ -40,7 +40,7 @@ This chapter, referred to in subsecs. (a) to (c), was in the original “this Ac
 
 1986—Subsec. (b). Pub. L. 99–399 in amending subsec. (b) generally, substituted provision authorizing appropriations of $130,000,000 for fiscal year 1986 and $137,200,000 for fiscal year 1987 for provision authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987, providing that unobligated balances continue to be made available for the general purposes for which appropriated, and prohibiting the use of funds to carry out this chapter for the Volunteers to America Program or any similar program involving the service or training of foreign nationals in the United States.
 
-1985—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscalyears 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
+1985—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
 
 1981—Subsec. (b). Pub. L. 97–113, §602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
 
@@ -126,7 +126,7 @@ Section 3 of Pub. L. 95–102 provided that: “The amendments made by this Act 
 
 #### Delegation of Functions; Allocation of Funds
 
-Functions of President under this section delegated to and funds available to President under this chapterallocated to Director of Peace Corps by sections 1–103 and 1–108 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under this section delegated to and funds available to President under this chapter allocated to Director of Peace Corps by sections 1–103 and 1–108 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Applicability of Pub. L. 97–113 to Actions Prior to December 29, 1981
 

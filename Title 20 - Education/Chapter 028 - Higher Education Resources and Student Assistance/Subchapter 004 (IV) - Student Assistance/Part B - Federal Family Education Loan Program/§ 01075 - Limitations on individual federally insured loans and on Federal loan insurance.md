@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) $65,500, in the case of any graduate or professional student (as defined by regulations of the Secretary) and (I) including any loans which are insured by the Secretary under this section, or by a guaranty agency, made to such student before the student became a graduate or professional student),<sup>2</sup> but (II) excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title,
 
-> &emsp;except that the Secretary may increase the limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
+> &emsp;except that the Secretary may increase the limit applicable to students who are pursuingprograms which the Secretary determines are exceptionally expensive.
 
 &emsp;(B) The Secretary may increase the aggregate insurable limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
@@ -80,7 +80,15 @@
 
 &emsp;The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under the provisions of section 1080 or 1087 of this title.
 
-(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679.)
+(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679; Pub. L. 109–171, title VIII, §8005(a), Feb. 8, 2006, 120 Stat. 158.)
+
+#### Amendment of Subsection (a)(1)(A)
+
+<i>Pub. L. 109–171, title VIII, §8005(a), (e), Feb. 8, 2006, 120 Stat. 158, 159, provided that, effective July 1, 2007, subsection (a)(1)(A) of this section is amended:</i>
+
+<i>(1) in clause (i)(I), by substituting “$3,500” for “$2,625”; and</i>
+
+<i>(2) in clause (ii)(I), by substituting “$4,500” for “$3,500”.</i>
 
 #### References in Text
 
@@ -141,6 +149,10 @@ Subsec. (a)(2)(A). Pub. L. 102–325, §413(2), added cls. (i) and (ii) and conc
 1987—Subsec. (a)(2)(A)(i). Pub. L. 100–50, §10(a)(1), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “undergraduate education”.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 100–50, §10(a)(2), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “graduate or professional student)”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VIII, §8005(e), Feb. 8, 2006, 120 Stat. 159, provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 1078 and 1078–8 of this title\] shall be effective July 1, 2007.”
 
 #### Effective Date of 1998 Amendment
 

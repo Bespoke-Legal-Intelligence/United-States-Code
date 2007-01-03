@@ -4,7 +4,7 @@
 
 Sections 215 to 228 were omitted pursuant to the amendment and revision of act Aug. 29, 1935, ch. 812 by act June 24, 1937, ch. 382, 50 Stat. 307, known as the Railroad Retirement Act of 1937.
 
-Section 215, acts Aug. 29, 1935, ch. 812, §1, 49 Stat. 967; June 11, 1940, ch. 307, §2, 54 Stat. 264; Aug. 13, 1940, ch. 664, §§2, 3, 54 Stat. 780, defined terms for purposes of this subchapter.
+Section 215, acts Aug. 29, 1935, ch. 812, §1, 49 Stat. 967; June 11, 1940, ch. 307, §2, 54 Stat. 264; Aug. 13, 1940, ch.664, §§2, 3, 54 Stat. 780, defined terms for purposes of this subchapter.
 
 Section 216, act Aug. 29, 1935, ch. 812, §2, 49 Stat. 968, related to reductions in annuities of employees working beyond age sixty-five.
 

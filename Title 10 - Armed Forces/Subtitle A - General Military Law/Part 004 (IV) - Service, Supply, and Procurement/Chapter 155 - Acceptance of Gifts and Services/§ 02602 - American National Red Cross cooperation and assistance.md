@@ -60,11 +60,5 @@ In subsection (e), the words “Federal Government of” are omitted as surplusa
 
 #### Report on Assistance to Red Cross for Emergency Communications Services for Members of Armed Forces and Families
 
-Pub. L. 103–377, div. A, title III, §383(b), Oct. 5, 1994, 108 Stat. 2740, provided that: “Not later than November 30 in each of 1994, 1995, and 1996, the Secretary of Defense shall submit to Congress a report on whether it is necessary for the Department of Defense to support the emergency communications services of the American National Red Cross in order to provide such services for members of the Armed Forces and their families. The report shall include the following:
-
-&emsp;“(1) An estimate of the amount of funds necessary to provide such support.
-
-&emsp;“(2) A projection of the date upon which the American National Red Cross can assume full financial responsibility for providing such emergency communications services.
-
-&emsp;“(3) An assessment of the alternatives available to the Secretary for obtaining such emergency communications services, including the provision of such services by the Department of Defense.”
+Pub. L. 103–377, div. A, title III, §383(b), Oct. 5, 1994, 108 Stat. 2740, provided that, not later than Nov. 30 in each of 1994, 1995, and 1996, the Secretary of Defense was to submit to Congress a report on whether it was necessary for the Department of Defense to support the emergency communications services of the American National Red Cross in order to provide such services for members of the Armed Forces and their families.
 

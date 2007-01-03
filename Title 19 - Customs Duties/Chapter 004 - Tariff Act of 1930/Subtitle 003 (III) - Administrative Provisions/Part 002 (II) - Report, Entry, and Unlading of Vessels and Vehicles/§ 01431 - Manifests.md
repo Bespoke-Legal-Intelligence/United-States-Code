@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every vessel required to make entry under section 1434 of this title or obtain clearance under section 91 of title 46, Appendix, shall have a manifest that complies with the requirements prescribed under subsection (d) of this section.
+Every vessel required to make entry under section 1434 of this title or obtain clearance under section 60105 of title 46 shall have a manifest that complies with the requirements prescribed under subsection (d) of this section.
 
 #### (b) Production of manifest
 
@@ -75,6 +75,10 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(2)(C)(i), (ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### Codification
+
+In subsec. (a), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Prior Provisions
 

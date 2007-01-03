@@ -14,13 +14,7 @@
 |  |  |
 | :--- | ---: |
 | [7611\.](Subchapter%20001%20%28I%29%20-%20Policy%20Planning%20and%20Coordination/%C2%A7%2007611%20-%20Development%20of%20a%20comprehensive%2C%20five-year%2C%20global%20strategy.md) | Development of a comprehensive, five-year, global strategy. |
-| (a) | Strategy. |
-| (b) | Report. |
-| (c) | Study; distribution of resources. |
 | [7612\.](Subchapter%20001%20%28I%29%20-%20Policy%20Planning%20and%20Coordination/%C2%A7%2007612%20-%20HIV-AIDS%20response%20Coordinator.md) | HIV/AIDS response Coordinator. |
-| (a) | Omitted. |
-| (b) | Resources. |
-| (c) | Establishment of separate account. |
 | [7612a.](Subchapter%20001%20%28I%29%20-%20Policy%20Planning%20and%20Coordination/%C2%A7%2007612a%20-%20HIV-AIDS%20Working%20Capital%20Fund.md) | HIV/AIDS Working Capital Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,17 +24,7 @@
 |  |  |
 | :--- | ---: |
 | [7621\.](Subchapter%20002%20%28II%29%20-%20Support%20for%20Multilateral%20Funds%2C%20Programs%2C%20and%20Public-Private%20Partnerships/%C2%A7%2007621%20-%20Sense%20of%20Congress%20on%20public-private%20partnerships.md) | Sense of Congress on public-private partnerships. |
-| (a) | Findings. |
-| (b) | Sense of Congress. |
 | [7622\.](Subchapter%20002%20%28II%29%20-%20Support%20for%20Multilateral%20Funds%2C%20Programs%2C%20and%20Public-Private%20Partnerships/%C2%A7%2007622%20-%20Participation%20in%20the%20Global%20Fund%20to%20Fight%20AIDS%2C%20Tuberculosis%20and%20Malaria.md) | Participation in the Global Fund to Fight AIDS, Tuberculosis and Malaria. |
-| (a) | Findings. |
-| (b) | Authority for United States participation. |
-| (c) | Reports to Congress. |
-| (d) | United States financial participation. |
-| (e) | Interagency technical review panel. |
-| (f) | Monitoring by Comptroller General. |
-| (g) | Provision of information to Congress. |
-| (h) | Sense of the Congress regarding encouragement of private contributions to the Global Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,27 +35,10 @@
 |  |  |
 | :--- | ---: |
 | [7631\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007631%20-%20Assistance%20to%20combat%20HIV-AIDS.md) | Assistance to combat HIV/AIDS. |
-| (a) | Omitted. |
-| (b) | Authorization of appropriations. |
-| (c) | Relationship to assistance programs to enhance nutrition. |
-| (d) | Eligibility for assistance. |
-| (e) | Limitation. |
-| (f) | Limitation. |
-| (g) | Sense of Congress relating to food assistance for individuals living with HIV/AIDS. |
 | [7632\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007632%20-%20Authorization%20of%20appropriations%20to%20combat%20tuberculosis.md) | Authorization of appropriations to combat tuberculosis. |
 | [7633\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007633%20-%20Authorization%20of%20appropriations%20to%20combat%20malaria.md) | Authorization of appropriations to combat malaria. |
 | [7634\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007634%20-%20Pilot%20program%20for%20the%20placement%20of%20health%20care%20professionals%20in%20overseas%20areas%20severely%20affected%20by%20HIV-AIDS%2C%20tuberculosis%2C%20and%20malaria.md) | Pilot program for the placement of health care professionals in overseas areas severely affected by HIV/AIDS, tuberculosis, and malaria. |
-| (a) | In general. |
-| (b) | Requirements. |
-| (c) | Eligibility requirements. |
-| (d) | Recruitment. |
-| (e) | Placement of participants. |
-| (f) | Incentives. |
-| (g) | Report. |
-| (h) | Authorization of appropriations. |
 | [7635\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007635%20-%20Report%20on%20treatment%20activities%20by%20relevant%20executive%20branch%20agencies.md) | Report on treatment activities by relevant executive branch agencies. |
-| (a) | In general. |
-| (b) | Report elements. |
 | [7636\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007636%20-%20Study%20on%20illegal%20diversions%20of%20prescription%20drugs.md) | Study on illegal diversions of prescription drugs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,24 +49,9 @@
 | :--- | ---: |
 | [7651\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007651%20-%20Findings.md) | Findings. |
 | [7652\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007652%20-%20Policy%20and%20requirements.md) | Policy and requirements. |
-| (a) | Policy. |
-| (b) | Requirements. |
 | [7653\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007653%20-%20Annual%20reports%20on%20prevention%20of%20mother-to-child%20transmission%20of%20the%20HIV%20infection.md) | Annual reports on prevention of mother-to-child transmission of the HIV infection. |
-| (a) | In general. |
-| (b) | Report elements. |
-| (c) | Reporting period defined. |
 | [7654\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007654%20-%20Pilot%20program%20of%20assistance%20for%20children%20and%20families%20affected%20by%20HIV-AIDS.md) | Pilot program of assistance for children and families affected by HIV/AIDS. |
-| (a) | In general. |
-| (b) | Program requirements. |
-| (c) | Report. |
-| (d) | Authorization of appropriations. |
 | [7655\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007655%20-%20Pilot%20program%20on%20family%20survival%20partnerships.md) | Pilot program on family survival partnerships. |
-| (a) | Purpose. |
-| (b) | Grants. |
-| (c) | Subgrants. |
-| (d) | Reports. |
-| (e) | Funding. |
-| (f) | Limitation on administrative expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -108,15 +60,8 @@
 |  |  |
 | :--- | ---: |
 | [7671\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2007671%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Availability. |
-| (c) | Availability of authorizations. |
 | [7672\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2007672%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
-| (a) | Increase in HIV/AIDS antiretroviral treatment. |
-| (b) | Effective distribution of HIV/AIDS funds. |
 | [7673\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2007673%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
-| (a) | Therapeutic medical care. |
-| (b) | Orphans and vulnerable children. |
 | [7674\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2007674%20-%20Assistance%20from%20the%20United%20States%20private%20sector%20to%20prevent%20and%20reduce%20HIV-AIDS%20in%20sub-Saharan%20Africa.md) | Assistance from the United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -126,12 +71,7 @@
 |  |  |
 | :--- | ---: |
 | [7681\.](Subchapter%20005%20%28V%29%20-%20International%20Financial%20Institutions/%C2%A7%2007681%20-%20Report%20on%20expansion%20of%20debt%20relief%20to%20non-HIPC%20countries.md) | Report on expansion of debt relief to non-HIPC countries. |
-| (a) | In general. |
-| (b) | Specific options to be considered. |
-| (c) | Enhanced HIPC initiative defined. |
 | [7682\.](Subchapter%20005%20%28V%29%20-%20International%20Financial%20Institutions/%C2%A7%2007682%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Availability of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

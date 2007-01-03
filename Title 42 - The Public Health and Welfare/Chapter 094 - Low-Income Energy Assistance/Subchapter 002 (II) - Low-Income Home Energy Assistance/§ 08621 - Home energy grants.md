@@ -14,7 +14,7 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 #### (d) Authorization of appropriations for leveraged resources
 
-(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
+(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000 for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
 
 (2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) of this section is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out section 8626a of this title.
 
@@ -25,6 +25,8 @@ There is authorized to be appropriated in each fiscal year for payments under th
 (Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30, 1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756; Pub. L. 109–58, title I, §121(a), Aug. 8, 2005, 119 Stat. 616.)
 
 #### References in Text
+
+Section 251 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e), is classified to section 901 of Title 2, The Congress. Section 251 was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, and, as so amended, section 251(b)(2)(D) no longer refers to “emergency requirements”. However, “emergency requirements” is referred to elsewhere in section 251.
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of this title, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of this title, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
@@ -70,7 +72,7 @@ Subsec. (c). Pub. L. 101–501, §701, added subsec. (c).
 
 Subsec. (d). Pub. L. 101–501, §707(b)(2), added subsec. (d).
 
-1986—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carryout the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
+1986—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carry out the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
 
 1984—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 for fiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
 

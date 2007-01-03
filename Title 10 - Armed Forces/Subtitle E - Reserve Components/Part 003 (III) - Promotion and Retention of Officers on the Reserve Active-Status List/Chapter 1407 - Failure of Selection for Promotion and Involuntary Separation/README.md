@@ -10,10 +10,10 @@
 | [14506\.](%C2%A7%2014506%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20reserve%20majors%20of%20the%20Army%2C%20Air%20Force%2C%20and%20Marine%20Corps%20and%20reserve%20lieutenant%20commanders%20of%E2%80%A6.md) | Effect of failure of selection for promotion: reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of the Navy. |
 | [14507\.](%C2%A7%2014507%20-%20Removal%20from%20the%20reserve%20active-status%20list%20for%20years%20of%20service%20reserve%20lieutenant%20colonels%20and%20colonels%20of%20the%20Army%2C%20Air%20Force%2C%20and%E2%80%A6.md) | Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy. |
 | [14508\.](%C2%A7%2014508%20-%20Removal%20from%20the%20reserve%20active-status%20list%20for%20years%20of%20service%20reserve%20general%20and%20flag%20officers.md) | Removal from the reserve active-status list for years of service: reserve general and flag officers. |
-| [14509\.](%C2%A7%2014509%20-%20Separation%20at%20age%2060%20reserve%20officers%20in%20grades%20below%20brigadier%20general%20or%20rear%20admiral%20%28lower%20half%29.md) | Separation at age 60: reserve officers in grades below brigadier general or rear admiral (lower half). |
-| [14510\.](%C2%A7%2014510%20-%20Separation%20at%20age%2060%20reserve%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md) | Separation at age 60: reserve brigadier generals and rear admirals (lower half). |
-| [14511\.](%C2%A7%2014511%20-%20Separation%20at%20age%2062%20major%20generals%20and%20rear%20admirals.md) | Separation at age 62: major generals and rear admirals. |
-| [14512\.](%C2%A7%2014512%20-%20Separation%20at%20age%2064%20officers%20holding%20certain%20offices.md) | Separation at age 64: officers holding certain offices. |
+| [14509\.](%C2%A7%2014509%20-%20Separation%20at%20age%2062%20reserve%20officers%20in%20grades%20below%20brigadier%20general%20or%20rear%20admiral%20%28lower%20half%29.md) | Separation at age 62: reserve officers in grades below brigadier general or rear admiral (lower half). |
+| [14510\.](%C2%A7%2014510%20-%20Separation%20at%20age%2062%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md) | Separation at age 62: brigadier generals and rear admirals (lower half). |
+| [14511\.](%C2%A7%2014511%20-%20Separation%20at%20age%2064%20major%20generals%20and%20rear%20admirals.md) | Separation at age 64: major generals and rear admirals. |
+| [14512\.](%C2%A7%2014512%20-%20Separation%20at%20age%2066%20officers%20holding%20certain%20offices.md) | Separation at age 66: officers holding certain offices. |
 | [14513\.](%C2%A7%2014513%20-%20Failure%20of%20selection%20for%20promotion%20transfer%2C%20retirement%2C%20or%20discharge.md) | Failure of selection for promotion: transfer, retirement, or discharge. |
 | [14514\.](%C2%A7%2014514%20-%20Discharge%20or%20retirement%20for%20years%20of%20service%20or%20after%20selection%20for%20early%20removal.md) | Discharge or retirement for years of service or after selection for early removal. |
 | [14515\.](%C2%A7%2014515%20-%20Discharge%20or%20retirement%20for%20age.md) | Discharge or retirement for age. |
@@ -25,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–364, div. A, title V, §503(f), Oct. 17, 2006, 120 Stat. 2178, struck out “reserve” before “brigadier” in item 14510 and substituted “62” for “60” in items 14509 and 14510, “64” for “62” in item 14511, and “66” for “64” in item 14512.
 
 2002—Pub. L. 107–314, div. A, title V, §522(b), Dec. 2, 2002, 116 Stat. 2541, added item 14519.
 
@@ -47,10 +49,10 @@
 - [&sect; 14506 - Effect of failure of selection for promotion reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of&#8230;](%C2%A7%2014506%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20reserve%20majors%20of%20the%20Army%2C%20Air%20Force%2C%20and%20Marine%20Corps%20and%20reserve%20lieutenant%20commanders%20of%E2%80%A6.md)
 - [&sect; 14507 - Removal from the reserve active-status list for years of service reserve lieutenant colonels and colonels of the Army, Air Force, and&#8230;](%C2%A7%2014507%20-%20Removal%20from%20the%20reserve%20active-status%20list%20for%20years%20of%20service%20reserve%20lieutenant%20colonels%20and%20colonels%20of%20the%20Army%2C%20Air%20Force%2C%20and%E2%80%A6.md)
 - [&sect; 14508 - Removal from the reserve active-status list for years of service reserve general and flag officers](%C2%A7%2014508%20-%20Removal%20from%20the%20reserve%20active-status%20list%20for%20years%20of%20service%20reserve%20general%20and%20flag%20officers.md)
-- [&sect; 14509 - Separation at age 60 reserve officers in grades below brigadier general or rear admiral (lower half)](%C2%A7%2014509%20-%20Separation%20at%20age%2060%20reserve%20officers%20in%20grades%20below%20brigadier%20general%20or%20rear%20admiral%20%28lower%20half%29.md)
-- [&sect; 14510 - Separation at age 60 reserve brigadier generals and rear admirals (lower half)](%C2%A7%2014510%20-%20Separation%20at%20age%2060%20reserve%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md)
-- [&sect; 14511 - Separation at age 62 major generals and rear admirals](%C2%A7%2014511%20-%20Separation%20at%20age%2062%20major%20generals%20and%20rear%20admirals.md)
-- [&sect; 14512 - Separation at age 64 officers holding certain offices](%C2%A7%2014512%20-%20Separation%20at%20age%2064%20officers%20holding%20certain%20offices.md)
+- [&sect; 14509 - Separation at age 62 reserve officers in grades below brigadier general or rear admiral (lower half)](%C2%A7%2014509%20-%20Separation%20at%20age%2062%20reserve%20officers%20in%20grades%20below%20brigadier%20general%20or%20rear%20admiral%20%28lower%20half%29.md)
+- [&sect; 14510 - Separation at age 62 brigadier generals and rear admirals (lower half)](%C2%A7%2014510%20-%20Separation%20at%20age%2062%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md)
+- [&sect; 14511 - Separation at age 64 major generals and rear admirals](%C2%A7%2014511%20-%20Separation%20at%20age%2064%20major%20generals%20and%20rear%20admirals.md)
+- [&sect; 14512 - Separation at age 66 officers holding certain offices](%C2%A7%2014512%20-%20Separation%20at%20age%2066%20officers%20holding%20certain%20offices.md)
 - [&sect; 14513 - Failure of selection for promotion transfer, retirement, or discharge](%C2%A7%2014513%20-%20Failure%20of%20selection%20for%20promotion%20transfer%2C%20retirement%2C%20or%20discharge.md)
 - [&sect; 14514 - Discharge or retirement for years of service or after selection for early removal](%C2%A7%2014514%20-%20Discharge%20or%20retirement%20for%20years%20of%20service%20or%20after%20selection%20for%20early%20removal.md)
 - [&sect; 14515 - Discharge or retirement for age](%C2%A7%2014515%20-%20Discharge%20or%20retirement%20for%20age.md)

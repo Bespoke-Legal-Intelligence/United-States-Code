@@ -42,7 +42,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 &emsp;&emsp;Subject to subparagraph (C), the credit number under this subparagraph for a public housing agency for a fiscal year shall be the number by which—
 
-&emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistanceunder section 1437f of this title by the agency; exceeds
+&emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistance under section 1437f of this title by the agency; exceeds
 
 &emsp;&emsp;&emsp;(ii) the number of qualified families that is required for the agency to comply with the percentage requirement under subsection (b)(1) of this section for such fiscal year.
 
@@ -74,7 +74,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (2) Jurisdictions served by multiple PHAs
 
-&emsp;In the case of any 2 or more public housing agencies that administer tenant-based assistance under section 1437f of this title with respect solely to identical geographical areas, such agencies shall be treated as a single public housing agency for purposes of paragraph (1).
+&emsp;In the case of any 2 or more public housing agencies that administer tenant-based assistance under section 1437f of this title with respect solely to identical geographical areas,such agencies shall be treated as a single public housing agency for purposes of paragraph (1).
 
 #### (c) Income eligibility for project-based section 1437f assistance
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV,§402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ October 1, 1981, referred to in subsec. (c)(1), (2), was in the original “the 
 
 1998—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
-Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed publichousing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
+Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
 
 Subsec. (f). Pub. L. 105–276, §428, added subsec. (f).
 

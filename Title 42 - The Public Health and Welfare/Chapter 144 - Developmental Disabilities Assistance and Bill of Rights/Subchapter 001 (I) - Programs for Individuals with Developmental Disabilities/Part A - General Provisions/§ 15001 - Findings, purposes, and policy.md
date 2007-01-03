@@ -146,7 +146,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(5) Special Olympics provides year-round sports training and competitive opportunities to 1,500,000 athletes with intellectual disabilities in 26 sports and plans to expand the joy of participation through sport to hundreds of thousands of people with intellectual disabilities within the United States and worldwide over the next 5 years.
 
-&emsp;“(6) Special Olympics has demonstrated its ability to provide a major positive effect on the quality of life of people with intellectual disabilities, improving their health and physical well-being, building their confidence and self-esteem, and giving them a voiceto become active and productive members of their communities.
+&emsp;“(6) Special Olympics has demonstrated its ability to provide a major positive effect on the quality of life of people with intellectual disabilities, improving their health and physical well-being, building their confidence and self-esteem, and giving them a voice to become active and productive members of their communities.
 
 &emsp;“(7) In society as a whole, Special Olympics has become a vehicle and platform for breaking down artificial barriers, improving public health, changing negative attitudes in education, and helping athletes overcome the prejudice that people with intellectual disabilities face in too many places.
 

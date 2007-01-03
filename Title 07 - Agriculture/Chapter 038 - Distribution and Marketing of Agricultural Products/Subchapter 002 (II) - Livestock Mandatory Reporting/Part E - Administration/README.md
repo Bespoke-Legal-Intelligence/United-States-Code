@@ -14,3 +14,4 @@ Part E—Administration
 - [&sect; 01636f - Publication of information on retail purchase prices for representative meat products](%C2%A7%2001636f%20-%20Publication%20of%20information%20on%20retail%20purchase%20prices%20for%20representative%20meat%20products.md)
 - [&sect; 01636g - Suspension authority regarding specific terms of price reporting requirements](%C2%A7%2001636g%20-%20Suspension%20authority%20regarding%20specific%20terms%20of%20price%20reporting%20requirements.md)
 - [&sect; 01636h - Federal preemption](%C2%A7%2001636h%20-%20Federal%20preemption.md)
+- [&sect; 01636i - Termination of authority](%C2%A7%2001636i%20-%20Termination%20of%20authority.md)

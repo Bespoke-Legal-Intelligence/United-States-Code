@@ -32,9 +32,9 @@
 
 (h) When a transfer is made primarily for the convenience or benefit of an employee, including an employee in the Foreign Service of the United States, or at his request, his expenses of travel and transportation and the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects may not be allowed or paid from Government funds.
 
-(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by theGovernment for the expenses and allowances is recoverable from the employee as a debt due the Government.
+(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the Government for the expenses and allowances is recoverable from the employee as a debt due the Government.
 
-(j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
+(j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee hasbeen given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §6(4), Oct. 19, 1998, 112 Stat. 2356.)
 
@@ -130,7 +130,7 @@ Subsec. (i). Pub. L. 105–264, §6(4)(B), substituted “Government” for “U
 
 Subsec. (c). Pub. L. 104–201, §1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
 
-Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for“Under such regulations as the President may prescribe”.
+Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
 Subsec. (e). Pub. L. 104–201, §1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
 
@@ -224,9 +224,9 @@ Section 629(b) of Pub. L. 100–440 provided that: “The amendments made by sub
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subsection (a) \[enacting sections5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
+Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
 
 #### Rates of Reimbursement
 
-Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
+Administrator of General Services empowered to prescribe regulations relating to establishment of ratesused in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
 

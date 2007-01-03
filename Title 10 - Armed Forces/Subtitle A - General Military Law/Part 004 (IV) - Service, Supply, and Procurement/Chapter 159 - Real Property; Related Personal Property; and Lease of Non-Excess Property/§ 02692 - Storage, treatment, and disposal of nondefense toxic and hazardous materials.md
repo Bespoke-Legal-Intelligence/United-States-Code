@@ -1,6 +1,6 @@
 ### §2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials
 
-(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposal of any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of the armed forces (or a dependent of the member) assigned to or provided military housing on the installation.
+(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposal of any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of thearmed forces (or a dependent of the member) assigned to or provided military housing on the installation.
 
 (2) The Secretary of Defense shall define by regulation what materials are hazardous or toxic materials for the purposes of this section, including specification of the quantity of a material that serves to make it hazardous or toxic for the purposes of this section. The definition shall include materials referred to in section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(14)) and materials designated under section 102 of that Act (42 U.S.C. 9602) and shall include materials that are of an explosive, flammable, or pyrotechnic nature.
 
@@ -22,7 +22,7 @@
 
 &emsp;(8) The temporary storage of materials of other Federal agencies in order to provide assistance and refuge for commercial carriers of such material during a transportation emergency.
 
-&emsp;(9) The storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of the Department of Defense, including the use of such a facility for testing materiel <sup>1</sup> or training personnel.
+&emsp;(9) The storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of the Department of Defense, including the use of such a facility for testing material or training personnel.
 
 &emsp;(10) The treatment and disposal of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of that military department and the Secretary enters into a contract or agreement with the prospective user that—
 
@@ -38,9 +38,11 @@
 
 (2) In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shall cease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
 
-(Added Pub. L. 98–407, title VIII, §805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, §2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, §325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, §343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687; Pub. L. 106–65, div. A, title X, §1066(a)(25), Oct. 5, 1999, 113 Stat. 772.)
+(Added Pub. L. 98–407, title VIII, §805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, §2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, §325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, §343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687; Pub. L. 106–65, div. A, title X, §1066(a)(25), Oct. 5, 1999, 113 Stat. 772; Pub. L. 109–364, div. A, title X, §1071(a)(21), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### Amendments
+
+2006—Subsec. (b)(9). Pub. L. 109–364 substituted “testing material” for “testing materiel”.
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “apply to the following:” for “apply to—” in introductory provisions, “The” for “the” at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for “; and” at the end of par. (10).
 
@@ -69,6 +71,4 @@ Subsec. (b)(11). Pub. L. 105–85, §343(f), added par. (11).
 #### Savings Provision
 
 Section 343(h) of Pub. L. 105–85 provided that: “Nothing in the amendments made by this section \[amending this section\] is intended to modify environmental laws or laws relating to the siting of facilities.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “material”.</i>
 

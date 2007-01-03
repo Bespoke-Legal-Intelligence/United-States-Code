@@ -234,7 +234,7 @@ Appointment criteria.—
 
 &emsp;&emsp;“(A)
 
-Time for initial appointments.—Appointments under paragraph (1) shall be made within 30 days after the date of enactment of this Act \[Dec. 2, 1997\].
+Time for initial appointments.—Appointments under paragraph (1) shall be made within 30days after the date of enactment of this Act \[Dec. 2, 1997\].
 
 &emsp;&emsp;“(B)
 

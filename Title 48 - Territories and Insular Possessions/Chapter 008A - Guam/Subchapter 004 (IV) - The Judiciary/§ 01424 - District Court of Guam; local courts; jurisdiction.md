@@ -2,7 +2,7 @@
 
 #### (a) District Court of Guam; unified court system
 
-(1) The judicial authority of Guam shall be vested in a court established by Congress designated as the “District Court of Guam”, and a judicial branch of Guam which branch shall constitute a unified judicial system and include an appellate court designated as the “Supreme Court of Guam”, a trial court designated as the“Superior Court of Guam”, and such other lower local courts as may have been or shall hereafter be established by the laws of Guam.
+(1) The judicial authority of Guam shall be vested in a court established by Congress designated as the “District Court of Guam”, and a judicial branch of Guam which branch shall constitute a unified judicial system and include an appellate court designated as the “Supreme Court of Guam”, a trial court designated as the “Superior Court of Guam”, and such other lower local courts as may have been or shall hereafter be established by the laws of Guam.
 
 (2) The Supreme Court of Guam may, by rules of such court, create divisions of the Superior Court of Guam and other local courts of Guam.
 
@@ -28,7 +28,7 @@ In addition to the jurisdiction described in subsection (b) of this section, the
 
 Subsec. (b). Pub. L. 95–598, §335(b), substituted “section 2075 of title 28, in cases under title 11,” for “section 53 of title 11, in bankruptcy cases;”.
 
-1958—Subsec. (a). Pub. L. 85–444 provided that the District Court of Guam shall have jurisdiction in all causes arising under the Constitution, treaties, and laws of the United States, regardless of the sum or value of the matter in controversy, and to insert the paragraph requiring appeals to the District Court to be heard and determined by an appellate division.
+1958—Subsec. (a). Pub. L. 85–444 provided that the District Court of Guam shall have jurisdiction in all causes arising under the Constitution, treaties, andlaws of the United States, regardless of the sum or value of the matter in controversy, and to insert the paragraph requiring appeals to the District Court to be heard and determined by an appellate division.
 
 1954—Subsec. (b). Act Aug. 27, 1954, inserted provisions making it clear that trial by jury or the prosecution of offenses by indictment by a grand jury instead of by information shall not be required in the District Court of Guam until so required by laws enacted by the Legislature of Guam; and defining the terms “attorney for the government”, and “United States attorney”, as used in the Federal Rules of Criminal Procedure, when applicable to cases arising under the laws of Guam.
 

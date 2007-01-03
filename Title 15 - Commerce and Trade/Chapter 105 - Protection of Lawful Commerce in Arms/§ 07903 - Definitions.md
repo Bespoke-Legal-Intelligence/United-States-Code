@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) an action in which a manufacturer or seller of a qualified product knowingly violated a State or Federal statute applicable to the sale or marketing of the product, and the violation was a proximate cause of the harm for which relief is sought, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) any case in which the manufacturer or seller knowingly made any false entry in, or failed to make appropriate entry in, any record required to be kept under Federal or State law with respect to the qualified product, or aided, abetted, or conspired with any person in making any false or fictitious oral or written statement with respect to any fact materialto the lawfulness of the sale or other disposition of a qualified product; or
+&emsp;&emsp;&emsp;&emsp;(I) any case in which the manufacturer or seller knowingly made any false entry in, or failed to make appropriate entry in, any record required to be kept under Federal or State law with respect to the qualified product, or aided, abetted, or conspired with any person in making any false or fictitious oral or written statement with respect to any fact material to the lawfulness of the sale or other disposition of a qualified product; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any case in which the manufacturer or seller aided, abetted, or conspired with any other person to sell or otherwise dispose of a qualified product, knowing, or having reasonable cause to believe, that the actual buyer of the qualified product was prohibited from possessing or receiving a firearm or ammunition under subsection (g) or (n) of section 922 of title 18;
 

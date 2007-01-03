@@ -58,7 +58,7 @@ Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–5
 
 Section 1145e, Pub. L. 89–329, title XII, §1211, formerly §1210, as added Pub. L. 99–498, title XII, §1207, Oct. 17, 1986, 100 Stat. 1579; renumbered §1211, Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to aggregate limit of authorization of appropriations.
 
-Section 1145f, Pub. L. 89–329, title XII, §1212, formerly §1211, as added Pub. L. 100–418, title VI, §6231, Aug. 23, 1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103–208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485, related to technology transfer centers.
+Section 1145f, Pub. L. 89–329, title XII, §1212, formerly §1211, as added Pub. L. 100–418, title VI, §6231, Aug. 23,1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103–208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485, related to technology transfer centers.
 
 Section 1145g, Pub. L. 89–329, title XII, §1213, as added Pub. L. 101–226, §22(a)(1), Dec. 12, 1989, 103 Stat. 1938, related to drug and alcohol abuse prevention. See section 1011i of this title.
 

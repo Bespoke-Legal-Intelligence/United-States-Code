@@ -2,7 +2,7 @@
 
 #### (a) Required use of funds
 
-An eligible entity that receives a grant under this subpart shall use the grant funds to providestudents selected to participate in the program with transportation services or the cost of transportation to and from the public elementary schools and secondary schools, including charter schools, that the students choose to attend under the program.
+An eligible entity that receives a grant under this subpart shall use the grant funds to provide students selected to participate in the program with transportation services or the cost of transportation to and from the public elementary schools and secondary schools, including charter schools, that the students choose to attend under the program.
 
 #### (b) Permissible uses of funds
 

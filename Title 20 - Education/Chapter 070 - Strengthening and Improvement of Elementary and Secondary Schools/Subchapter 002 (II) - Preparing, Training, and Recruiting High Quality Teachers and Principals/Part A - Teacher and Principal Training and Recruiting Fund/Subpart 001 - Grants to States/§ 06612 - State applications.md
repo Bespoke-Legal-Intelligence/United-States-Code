@@ -30,7 +30,7 @@ Each application submitted under this section shall include the following:
 
 &emsp;(9) A description of the State educational agency's annual measurable objectives under section 6319(a)(2) of this title.
 
-&emsp;(10) A description of how the State educational agency will use funds under this part to meet the teacher and paraprofessional requirements of section 6319 of this title and howthe State educational agency will hold local educational agencies accountable for meeting the annual measurable objectives described in section 6319(a)(2) of this title.
+&emsp;(10) A description of how the State educational agency will use funds under this part to meet the teacher and paraprofessional requirements of section 6319 of this title and how the State educational agency will hold local educational agencies accountable for meeting the annual measurable objectives described in section 6319(a)(2) of this title.
 
 &emsp;(11) In the case of a State that has a charter school law that exempts teachers from State certification and licensing requirements, the specific portion of the State law that provides for the exemption.
 

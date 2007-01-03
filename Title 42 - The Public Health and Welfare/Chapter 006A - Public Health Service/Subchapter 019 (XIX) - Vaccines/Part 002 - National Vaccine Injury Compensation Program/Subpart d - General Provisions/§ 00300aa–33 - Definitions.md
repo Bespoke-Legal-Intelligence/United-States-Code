@@ -42,5 +42,5 @@ Application of the Public Health Service Act.—The Public Health Service Act (4
 
 “(c)
 
-Rule of Construction.—No inference shall be drawn from the enactment of sections 1714 through 1717 of the Homeland Security Act of 2002 (Public Law 107–296), or from this repeal \[repealing sections 1714 to 1717 of Pub. L. 107–296\], regarding the law prior to enactment of sections 1714 through 1717 of the Homeland Security Act of 2002 (Public Law 107–296) \[Nov. 25, 2002\]. Further, no inference shall be drawn that subsection (a) or (b) affects any change in that prior law, or that Leroy v. Secretary of Health and Human Services, Office of Special Master, No. 02–392V (October 11, 2002), was incorrectly decided.”
+Rule of Construction.—No inference shall be drawn from the enactment of sections 1714 through 1717 of the Homeland Security Act of 2002 (Public Law 107–296), or from this repeal \[repealing sections 1714 to 1717 of Pub. L. 107–296\], regarding the law prior to enactment of sections 1714 through 1717 of the Homeland Security Act of 2002 (Public Law 107–296) \[Nov. 25, 2002\]. Further, no inference shall be drawn that subsection (a)or (b) affects any change in that prior law, or that Leroy v. Secretary of Health and Human Services, Office of Special Master, No. 02–392V (October 11, 2002), was incorrectly decided.”
 

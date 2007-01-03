@@ -74,7 +74,7 @@ In complying with the requirements of this part, the Secretary shall rely on the
 
 #### (g) Application to modifications of standards
 
-This section shall apply to a modification to a standard (including an addition to a standard)adopted under section 1320d–3(b) of this title in the same manner as it applies to an initial standard adopted under section 1320d–3(a) of this title.
+This section shall apply to a modification to a standard (including an addition to a standard) adopted under section 1320d–3(b) of this title in the same manner as it applies to an initial standard adopted under section 1320d–3(a) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1172, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2023.)
 

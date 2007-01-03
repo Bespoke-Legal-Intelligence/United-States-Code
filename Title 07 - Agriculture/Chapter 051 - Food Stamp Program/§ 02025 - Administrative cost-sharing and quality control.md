@@ -114,7 +114,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (i) Reduction of other amounts due to State agency
 
-&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that hasnot been used in accordance with that requirement.
+&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that has not been used in accordance with that requirement.
 
 #### (ii) Effect of State agency's wholly prevailing on appeal
 
@@ -174,7 +174,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (B) Use of alternative measure of State error
 
-&emsp;&emsp;Where a State fails to meet reporting requirements pursuant to paragraph (4), theSecretary may use another measure of a State's error developed pursuant to paragraph (5), to develop the national performance measure.
+&emsp;&emsp;Where a State fails to meet reporting requirements pursuant to paragraph (4), the Secretary may use another measure of a State's error developed pursuant to paragraph (5), to develop the national performance measure.
 
 #### (C) Use of national performance measure
 
@@ -484,7 +484,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 30 days after the date on which a State receives notice under subparagraph (B) of a final decision, the State may appeal the decision, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (referred to in thisparagraph as the “Board”) by filing an appeal with the Board.
+&emsp;&emsp;&emsp;Not later than 30 days after the date on which a State receives notice under subparagraph (B) of a final decision, the State may appeal the decision, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (referred to in this paragraph as the “Board”) by filing an appeal with the Board.
 
 #### (ii) Review
 
@@ -536,7 +536,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (e), (g), and (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (e), (g), and (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), andXX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
@@ -550,7 +550,7 @@ Subsec. (c)(1). Pub. L. 107–171, §4118(a)(1), added par. (1) and struck out f
 
 Subsec. (c)(4). Pub. L. 107–171, §4118(a)(2), inserted heading and substituted “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency's payment error rate, enhanced administrative funding, or claim for payment error, under this subsection.”
 
-Subsec. (c)(5). Pub. L. 107–171, §4118(a)(3), inserted heading and substituted “To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency'spayment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year.” and “paragraph (1) for a fiscal year” for “paragraph (1)(C) for a fiscal year”.
+Subsec. (c)(5). Pub. L. 107–171, §4118(a)(3), inserted heading and substituted “To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year.” and “paragraph (1) for a fiscal year” for “paragraph (1)(C) for a fiscal year”.
 
 Subsec. (c)(6). Pub. L. 107–171, §4118(a)(4), inserted heading, designated first sentence as subpar. (A), inserted heading, struck out “and incentive payments or claims pursuant to paragraphs (1)(A) and (1)(C)” after “State agencies of their error rates”, and substituted “paragraph (8)” for “paragraph (5)” in two places, designated second sentence as subpar. (B) and inserted heading, designated third sentence as subpar. (C), inserted heading, and substituted “the liability amount of a State under paragraph (1)(C)” for “the State share of the cost of payment error under paragraph (1)(C)” and “paragraph (8)” for “paragraph (5)”, and added subpar. (D).
 
@@ -724,7 +724,7 @@ Subsec. (g). Pub. L. 97–253, §180(a)(2), redesignated former subsec. (i) as (
 
 Subsecs. (h), (i). Pub. L. 97–253, §180(a)(2), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
-1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to recovery through section 2022(b)(1) and (2) of this title for provisions relating to recovery through prosecutions or other State activities, substituted “determinations of ineligibility” for “determinations of fraud”, struck out “(1) outreach,” and redesignated cls. (2) to (5) as (1) to (4), respectively.
+1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to recovery through section 2022(b)(1) and (2) ofthis title for provisions relating to recovery through prosecutions or other State activities, substituted “determinations of ineligibility” for “determinations of fraud”, struck out “(1) outreach,” and redesignated cls. (2) to (5) as (1) to (4), respectively.
 
 Subsec. (b)(1). Pub. L. 97–98, §1325, struck out “, including, but not limited to, staffing standards such as caseload per certification worker limitations,” after “by the States”.
 
@@ -744,7 +744,7 @@ Subsec. (h). Pub. L. 96–249, §128, added subsec. (h).
 
 Subsec. (i). Pub. L. 96–249, §129, added subsec. (i).
 
-1979—Subsec. (a). Pub. L. 96–58, §6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activitiesdirected against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
+1979—Subsec. (a). Pub. L. 96–58, §6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activities directed against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
 Subsec. (f). Pub. L. 96–58, §4, added subsec. (f).
 
@@ -892,7 +892,7 @@ Section 1751 of Pub. L. 101–624 provided that:
 
 “(a)
 
-In General.—No disallowance or other similar action shall be applied to or collected from any State for any of the fiscal years 1983, 1984, or 1985 under section 16(c) of the Food Stamp Act of 1977 (7 U.S.C.2025(c)) or any predecessor statutory or regulatory provision relating to disallowances or other similar actions for erroneous issuances made in carrying out a State plan under such Act \[7 U.S.C. 2011 et seq.\], except for amounts to be paid or collected after the date of enactment of this Act \[Nov. 28, 1990\] pursuant to settlement agreements which do not provide for payment adjustments based on future changes in law.
+In General.—No disallowance or other similar action shall be applied to or collected from any State for any of the fiscal years 1983, 1984, or 1985 under section 16(c) of the Food Stamp Act of 1977 (7 U.S.C. 2025(c)) or any predecessor statutory or regulatory provision relating to disallowances or other similar actions for erroneous issuances made in carrying out a State plan under such Act \[7 U.S.C. 2011 et seq.\], except for amounts to be paid or collected after the date of enactment of this Act \[Nov. 28, 1990\] pursuant to settlement agreements which do not provide for payment adjustments based on future changes in law.
 
 “(b)
 

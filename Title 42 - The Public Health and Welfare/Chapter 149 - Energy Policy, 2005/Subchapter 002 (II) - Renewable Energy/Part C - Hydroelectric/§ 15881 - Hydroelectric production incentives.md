@@ -10,7 +10,7 @@ For purposes of this section:
 
 #### (1) Qualified hydroelectric facility
 
-&emsp;The term “qualified hydroelectric facility” means a turbine or other generating device owned or solely operated by a non-Federal entity which generates hydroelectric energy for sale and which is added to an existing dam or conduit.
+&emsp;The term “qualified hydroelectric facility” means a turbine or other generating device owned or solely operated by a non-Federal entity which generates hydroelectric energy forsale and which is added to an existing dam or conduit.
 
 #### (2) Existing dam or conduit
 

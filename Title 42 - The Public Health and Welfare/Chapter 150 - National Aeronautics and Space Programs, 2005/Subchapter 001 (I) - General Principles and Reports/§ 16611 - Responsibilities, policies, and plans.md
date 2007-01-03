@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator shall establish a program to develop a sustained human presence on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
+&emsp;The Administrator shall establish a program to develop a sustained human presence on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration ofMars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
 
 #### (2) Milestones
 
@@ -82,7 +82,7 @@
 
 #### (3) Considerations
 
-&emsp;In developing the national aeronautics research and development policy, the President shall consider the following issues, which shallbe discussed in the transmittal under paragraph (5):
+&emsp;In developing the national aeronautics research and development policy, the President shall consider the following issues, which shall be discussed in the transmittal under paragraph (5):
 
 &emsp;&emsp;(A) The extent to which NASA should focus on long-term, high-risk research or more incremental research, and the expected impact of that decision on the United States economy, and the ability to achieve environmental and other public goals related to aeronautics.
 
@@ -104,7 +104,7 @@
 
 &emsp;(B) Not later than 60 days after the transmittal of the policy under subparagraph (A), the Administrator shall transmit to the Committee on Appropriations of the House of Representatives, the Committee on Appropriations of the Senate, the Committee on Science of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report describing how NASA will carry out the policy.
 
-&emsp;(C) At the time the President's fiscal year 2007 budget is transmitted to the Congress, the Administrator shall transmit to the Committee on Appropriations of the House of Representatives, the Committee on Appropriations of the Senate, the Committee on Science of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report on the proposed NASA aeronautics budget describing—
+&emsp;(C) At the time the President's fiscal year 2007 budget is transmitted to the Congress, the Administrator shall transmit to the Committee on Appropriations of the House of Representatives, the Committee on Appropriations of the Senate, the Committee on Scienceof the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report on the proposed NASA aeronautics budget describing—
 
 &emsp;&emsp;(i) the rationale for the budget levels and activities in the proposed fiscal year 2007 NASA aeronautics budget;
 
@@ -148,7 +148,7 @@
 
 #### (4) Consultation
 
-&emsp;In developing the plan under this subsection, the Administrator shall draw on decadal surveys and other reports in planetary science, astronomy, solar and space physics, earthscience, and any other relevant fields developed by the National Academy of Sciences. The Administrator shall also consult widely with academic and industry experts and with other Federal agencies.
+&emsp;In developing the plan under this subsection, the Administrator shall draw on decadal surveys and other reports in planetary science, astronomy, solar and space physics, earth science, and any other relevant fields developed by the National Academy of Sciences. The Administrator shall also consult widely with academic and industry experts and with other Federal agencies.
 
 #### (5) Hubble Space Telescope
 
@@ -276,7 +276,7 @@
 
 #### (2) Sense of Congress regarding evaluation criteria for budget requests
 
-&emsp;It is the sense of the Congress that each budget of the United States submitted to the Congress after December 30, 2005, should be evaluated for compliance with the findings and priorities established by this chapter and the amendments made by this chapter.
+&emsp;It is the sense of the Congress that each budget of the United States submitted to theCongress after December 30, 2005, should be evaluated for compliance with the findings and priorities established by this chapter and the amendments made by this chapter.
 
 #### (i) Additional budget information
 
@@ -310,7 +310,7 @@ NASA shall make available, upon request from the Committee on Science of the Hou
 
 &emsp;&emsp;(A) the review conducted under paragraph (1) has been transmitted to the Congress; and
 
-&emsp;&emsp;(B) 60 days after the Administrator has transmitted to the Committee on Appropriations and the Committee on Science of the House of Representatives and the Committeeon Appropriations and the Committee on Commerce, Science, and Transportation of the Senate a written certification that the proposed closure will not have an adverse impact on NASA's ability to execute the national policy developed under subsection (c) and to achieve the goals described in that policy.
+&emsp;&emsp;(B) 60 days after the Administrator has transmitted to the Committee on Appropriations and the Committee on Science of the House of Representatives and the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate a written certification that the proposed closure will not have an adverse impact on NASA's ability to execute the national policy developed under subsection (c) and to achieve the goals described in that policy.
 
 > &emsp;Subparagraph (B) shall cease to be effective five years after the date the study required by this section has been transmitted to the Congress.
 
@@ -365,6 +365,70 @@ Consultation.—In developing the national aeronautics policy, the Administrator
 “(e)
 
 Schedule.—The Administrator shall submit the new national aeronautics policy to the House and Senate Committees on Appropriations and to the House Committee on Science and the Senate Committee on Commerce, Science, and Transportation within one year of enactment of this Act \[Nov. 22, 2005\]. The Administrator shall make available to the Congress any study done by a non-governmental entity that was used in the development of the national aeronautics policy.”
+
+#### Ex. Ord. No. 13419. National Aeronautics Research and Development
+
+Ex. Ord. No. 13419, Dec. 20, 2006, 71 F.R. 77565, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 204 of the National Science and Technology Policy, Organization, and Priorities Act of 1976, as amended (42 U.S.C. 6613), section 101(c) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>National Aeronautics Research and Development Policy</i>. Continued progress in aeronautics, the science of flight, is essential to America's economic success and the protection of America's security interests at home and around the globe. Accordingly, it shall be the policy of the United States to facilitate progress in aeronautics research and development (R\&D) through appropriate funding and activities of the Federal Government, in cooperation with State, territorial, tribal, local, and foreign governments, international organizations, academic and research institutions, private organizations, and other entities, as appropriate. The Federal Government shall only undertake roles in supporting aeronautics R\&D that are not more appropriately performed by the private sector. The National Aeronautics Research and Development Policy prepared by the National Science and Technology Council should, to the extent consistent with this order and its implementation, guide the aeronautics R\&D programs of the United States through 2020.
+
+Sec. 2. <i>Functions of the Director of the Office of Science and Technology Policy</i>. To implement the policy set forth in section 1 of this order, the Director of the Office of Science and Technology Policy (the “Director”) shall:
+
+(a) review the funding and activities of the Federal Government relating to aeronautics R\&D;
+
+(b) recommend to the President, the Director of the Office of Management and Budget, and the heads of executive departments and agencies, as appropriate, such actions with respect to funding and activities of the Federal Government relating to aeronautics R\&D as may be necessary to
+
+(i) advance United States technological leadership in aeronautics;
+
+(ii) support innovative research leading to significant advances in aeronautical concepts, technologies, and capabilities;
+
+(iii) pursue and develop advanced aeronautics concepts and technologies, including those for advanced aircraft systems and air transportation management systems, to benefit America's security and effective and efficient national airspace management;
+
+(iv) maintain and advance United States aeronautics research, development, test and evaluation infrastructure to provide effective experimental and computational capabilities in support of aeronautics R\&D;
+
+(v) facilitate the educational development of the future aeronautics workforce as needed to further Federal Government interests;
+
+(vi) enhance coordination and communication among executive departments and agencies to maximize the effectiveness of Federal Government R\&D resources; and
+
+(vii) ensure appropriate Federal Government coordination with State, territorial, tribal, local, and foreign governments, international organizations, academic and research institutions, private organizations, and other entities.
+
+Sec. 3. <i>Implementation of National Aeronautics Research and Development Policy</i>. To implement the policy set forth in section 1 of this order, the Director shall:
+
+(a) develop and, not later than 1 year after the date of this order, submit for approval by the President a plan for national aeronautics R\&D and for related infrastructure, (the “plan”), and thereafter submit, not less often than biennially, to the President for approval any changes to the plan;
+
+(b) monitor and report to the President as appropriate on the implementation of the approved plan;
+
+(c) ensure that executive departments and agencies conducting aeronautics R\&D:
+
+(i) obtain and exchange information and advice, as appropriate, from organizations and individuals outside the Federal Government in support of Federal Government planning and performance of aeronautics R\&D;
+
+(ii) develop and implement, as appropriate, measures for improving dissemination of R\&D results and facilitating technology transition from R\&D to applications; and
+
+(iii) identify and promote innovative policies and approaches that complement and enhance Federal Government aeronautics R\&D investment; and
+
+(d) report to the President on the results of the efforts of executive departments and agencies to implement paragraphs (c)(i) through (iii) of this section.
+
+Sec. 4. <i>General Provisions</i>. (a) In implementing this order, the Director shall:
+
+(i) obtain as appropriate the assistance of the National Science and Technology Council in the performance of the Director's functions under this order, consistent with Executive Order 12881 of November 23, 1993, as amended;
+
+(ii) coordinate as appropriate with the Director of the Office of Management and Budget; and
+
+(iii) obtain information and advice from all sources as appropriate, including individuals associated with academic and research institutions and private organizations.
+
+(b) The functions of the President under subsection (c) of section 101 of the National Aeronautics and Space Administration Authorization Act of 2005, except the function of designation, are assigned to the Director of the Office of Science and Technology Policy. In performing these assigned functions, the Director shall, as appropriate, consult the Administrator of the National Aeronautics and Space Administration, the Secretary of Defense, the Secretary of Transportation, the Director of the Office of Management and Budget, and other heads of executive departments and agencies as appropriate. The Director also shall ensure that all actions taken in the performance of such functions are consistent with the authority set forth in subsections (a) through (d) of section 6 of Executive Order 13346 of July 8, 2004.
+
+(c) This order shall be implemented in a manner consistent with: (i) applicable law, including section 102A(i) of the National Security Act of 1947, as amended (50 U.S.C. 403–1(i)), and subject to the availability of appropriations; and
+
+(ii) statutory authority of the principal officers of executive departments and agencies as the heads of their respective departments and agencies.
+
+(d) This order shall not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
+
+(e) This order is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

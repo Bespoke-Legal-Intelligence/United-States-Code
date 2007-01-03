@@ -10,7 +10,7 @@
 
 &emsp;(B) to expand the loan purchase capacity of the national neighborhood housing services secondary market operated by Neighborhood Housing Services of America;
 
-&emsp;(C) to make grants to provide incentives to extend low-income housing use in connectionwith properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership Act of 1990 \[12 U.S.C. 4101 et seq.\];
+&emsp;(C) to make grants to provide incentives to extend low-income housing use in connection with properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership Act of 1990 \[12 U.S.C. 4101 et seq.\];
 
 &emsp;(D) to increase the resources available to the national neighborhood housing services network programs for the purchase of multifamily and single-family properties owned by the Secretary of Housing and Urban Development for rehabilitation (if necessary) and sale to low- and moderate-income families; and
 
@@ -82,7 +82,7 @@ Purpose.—It is the purpose of this section \[amending this section\] to author
 
 &emsp;“(1) to carefully expand the capacities of the national neighborhood housing services network;
 
-&emsp;“(2) to begin to meet the urgent need for neighborhood housing services and mutual housing associations in neighborhoods across the Nation as the effort to preserve affordable housing for low- and moderate-income American families increases;
+&emsp;“(2) to begin to meet the urgent need for neighborhood housing services and mutual housing associations in neighborhoods across the Nation as the effortto preserve affordable housing for low- and moderate-income American families increases;
 
 &emsp;“(3) to increase and provide ongoing technical and capacity development assistance to neighborhood housing services and related public-private partnership-based nonprofit institutions involved in the revitalization of neighborhoods for the benefit of current residents, rehabilitation, preservation of existing housing stock, and production of additional housing opportunities for low- and moderate-income families;
 

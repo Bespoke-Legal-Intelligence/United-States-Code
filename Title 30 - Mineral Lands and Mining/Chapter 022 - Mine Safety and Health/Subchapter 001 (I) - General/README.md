@@ -21,3 +21,4 @@
 - [&sect; 00823a - Principal office in District of Columbia; proceedings held elsewhere](%C2%A7%2000823a%20-%20Principal%20office%20in%20District%20of%20Columbia%3B%20proceedings%20held%20elsewhere.md)
 - [&sect; 00824 - Authorization of appropriations](%C2%A7%2000824%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00825 - Mandatory health and safety training](%C2%A7%2000825%20-%20Mandatory%20health%20and%20safety%20training.md)
+- [&sect; 00826 - Limitation on certain liability for rescue operations](%C2%A7%2000826%20-%20Limitation%20on%20certain%20liability%20for%20rescue%20operations.md)

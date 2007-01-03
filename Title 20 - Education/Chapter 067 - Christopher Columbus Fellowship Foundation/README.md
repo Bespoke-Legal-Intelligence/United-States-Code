@@ -4,27 +4,11 @@
 | :--- | ---: |
 | [5701\.](%C2%A7%2005701%20-%20Purpose.md) | Purpose. |
 | [5702\.](%C2%A7%2005702%20-%20Christopher%20Columbus%20Fellowship%20Foundation.md) | Christopher Columbus Fellowship Foundation. |
-| (a) | Establishment and purposes. |
-| (b) | Membership. |
-| (c) | Chairman and Vice Chairman of Foundation. |
-| (d) | Terms of office; vacancies. |
-| (e) | Expenses; no additional compensation. |
 | [5703\.](%C2%A7%2005703%20-%20Fellowship%20recipients.md) | Fellowship recipients. |
-| (a) | Award. |
-| (b) | Term. |
-| (c) | Selection. |
 | [5704\.](%C2%A7%2005704%20-%20Stipends.md) | Stipends. |
 | [5705\.](%C2%A7%2005705%20-%20Christopher%20Columbus%20Fellowship%20Fund.md) | Christopher Columbus Fellowship Fund. |
-| (a) | In general. |
-| (b) | Investments. |
-| (c) | Sale of obligations. |
-| (d) | Interest. |
-| (e) | Availability of fund. |
-| (f) | Disbursements. |
 | [5706\.](%C2%A7%2005706%20-%20Audits.md) | Audits. |
 | [5707\.](%C2%A7%2005707%20-%20Executive%20Secretary%20of%20Foundation.md) | Executive Secretary of Foundation. |
-| (a) | Duties. |
-| (b) | Compensation. |
 | [5708\.](%C2%A7%2005708%20-%20Administrative%20provisions.md) | Administrative provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

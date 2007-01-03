@@ -16,7 +16,7 @@ As used in this subchapter—
 
 &emsp;(2) A “billing error” consists of any of the following:
 
-&emsp;&emsp;(A) A reflection on a billing statement for a telephone-billed purchase which was notmade by the customer or, if made, was not in the amount reflected on such statement.
+&emsp;&emsp;(A) A reflection on a billing statement for a telephone-billed purchase which was not made by the customer or, if made, was not in the amount reflected on such statement.
 
 &emsp;&emsp;(B) A reflection on a billing statement of a telephone-billed purchase for which the customer requests additional clarification, including documentary evidence thereof.
 

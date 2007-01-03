@@ -26,7 +26,7 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;(h) “interim guidelines” means any interim guidelines developed by the Secretary pursuant to section 544h of this title, and any amendment, revision, or variance;
 
-&emsp;(i) “land use ordinance” or “ordinance” means any ordinance adopted by a county or by the Commission pursuant to sections 544 to 544p of this title, and includes any amendment to, revision of, or variance from such ordinance;
+&emsp;(i) “land use ordinance” or “ordinance” means any ordinance adopted by a county orby the Commission pursuant to sections 544 to 544p of this title, and includes any amendment to, revision of, or variance from such ordinance;
 
 &emsp;(j) “major development actions” means any of the following:
 

@@ -96,7 +96,7 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 &emsp;&emsp;Fellowship positions under the fellowship program may be located (subject to subparagraphs (B) and (C))—
 
-&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administering programs authorized under this subchapter (in national or regional offices of such agencies);
+&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administeringprograms authorized under this subchapter (in national or regional offices of such agencies);
 
 &emsp;&emsp;&emsp;(ii) in local Head Start agencies and programs;
 
@@ -148,5 +148,5 @@ Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted “staff or that are
 
 #### Effective Date
 
-Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 etseq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
+Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
 

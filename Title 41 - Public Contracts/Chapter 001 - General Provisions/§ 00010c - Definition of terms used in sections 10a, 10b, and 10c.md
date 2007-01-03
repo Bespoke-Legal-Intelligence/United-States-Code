@@ -4,7 +4,7 @@ When used in sections 10a, 10b, and 10c of this title—
 
 (a) The term “United States”, when used in a geographical sense, includes the United States and any place subject to the jurisdiction thereof;
 
-(b) The terms “public use”, “public building”, and “public work” shall mean use by, public building of, and public work of, the United States, the District of Columbia, Puerto Rico, American Samoa, the Canal Zone, and the Virgin Islands.
+(b) The terms “public use”, “public building”, and “public work” shall mean use by, publicbuilding of, and public work of, the United States, the District of Columbia, Puerto Rico, American Samoa, the Canal Zone, and the Virgin Islands.
 
 (Mar. 3, 1933, ch. 212, title III, §1, 47 Stat. 1520; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 86–70, §43, June 25, 1959, 73 Stat. 151; Pub. L. 86–624, §28, July 12, 1960, 74 Stat. 419; Pub. L. 100–418, title VII, §7005(a), Aug. 23, 1988, 102 Stat. 1552.)
 

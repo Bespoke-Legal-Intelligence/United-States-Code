@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467
 
 #### Amendments
 
-1996—Pub. L. 104–333 inserted at end “The Secretary shall permit the State of West Virginia to undertake fish stocking activities carried out by the State, in consultation with the Secretary, on waters within the boundaries of the national river. Nothing in this Act shall be construed as affecting the jurisdiction of the State of West Virginia with respect to fish and wildlife.”
+1996—Pub. L. 104–333 inserted at end “The Secretary shall permit the State of West Virginia to undertake fish stocking activities carried out by the State, in consultation with the Secretary, on waters within the boundaries of the national river. Nothing in this Act shall be construed as affecting the jurisdiction of theState of West Virginia with respect to fish and wildlife.”
 
 #### Regulations
 

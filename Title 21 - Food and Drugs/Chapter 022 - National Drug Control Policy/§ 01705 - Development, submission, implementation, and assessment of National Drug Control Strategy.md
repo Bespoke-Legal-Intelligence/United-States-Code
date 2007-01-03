@@ -4,215 +4,205 @@
 
 #### (1) Timing
 
-&emsp;Not later than February 1, 1999, the President shall submit to Congress a National Drug Control Strategy, which shall set forth a comprehensive plan, covering a period of not more than 5 years, for reducing drug abuse and the consequences of drug abuse in the United States, by limiting the availability of and reducing the demand for illegal drugs.
+&emsp;Not later than February 1 of each year, the President shall submit to Congress a National Drug Control Strategy, which shall set forth a comprehensive plan for the year to reduce illicit drug use and the consequences of such illicit drug use in the United States by limiting the availability of, and reducing the demand for, illegal drugs.
 
 #### (2) Contents
 
 #### (A) In general
 
-&emsp;&emsp;The National Drug Control Strategy submitted under paragraph (1) shall include—
+&emsp;&emsp;The National Drug Control Strategy submitted under paragraph (1) shall include the following:
 
-&emsp;&emsp;&emsp;(i) comprehensive, research-based, long-range, quantifiable, goals for reducing drug abuse and the consequences of drug abuse in the United States;
+&emsp;&emsp;&emsp;(i) Comprehensive, research-based, long-range, quantifiable goals for reducing illicit drug use and the consequences of illicit drug use in the United States.
 
-&emsp;&emsp;&emsp;(ii) annual, quantifiable, and measurable objectives and specific targets to accomplish long-term quantifiable goals that the Director determines may be achieved during each year of the period beginning on the date on which the National Drug Control Strategy is submitted;
+&emsp;&emsp;&emsp;(ii) Annual quantifiable and measurable objectives and specific targets to accomplish long-term quantifiable goals that the Director determines may be achieved during each year beginning on the date on which the National Drug Control Strategy is submitted.
 
-&emsp;&emsp;&emsp;(iii) 5-year projections for program and budget priorities; and
+&emsp;&emsp;&emsp;(iii) A 5-year projection for program and budget priorities.
 
-&emsp;&emsp;&emsp;(iv) a review of international, State, local, and private sector drug control activities to ensure that the United States pursues well-coordinated and effective drug control at all levels of government.
+&emsp;&emsp;&emsp;(iv) A review of international, State, local, and private sector drug control activities to ensure that the United States pursues coordinated and effective drug control at all levels of government.
+
+&emsp;&emsp;&emsp;(v) An assessment of current illicit drug use (including inhalants and steroids) and availability, impact of illicit drug use, and treatment availability, which assessment shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) estimates of drug prevalence and frequency of use as measured by national, State, and local surveys of illicit drug use and by other special studies of nondependent and dependent illicit drug use;
+
+&emsp;&emsp;&emsp;&emsp;(II) illicit drug use in the workplace and the productivity lost by such use; and
+
+&emsp;&emsp;&emsp;&emsp;(III) illicit drug use by arrestees, probationers, and parolees.
+
+&emsp;&emsp;&emsp;(vi) An assessment of the reduction of illicit drug availability, as measured by—
+
+&emsp;&emsp;&emsp;&emsp;(I) the quantities of cocaine, heroin, marijuana, methamphetamine, ecstasy, and other drugs available for consumption in the United States;
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of marijuana, cocaine, heroin, methamphetamine, ecstasy, and precursor chemicals and other drugs entering the United States;
+
+&emsp;&emsp;&emsp;&emsp;(III) the number of illicit drug manufacturing laboratories seized and destroyed and the number of hectares of marijuana, poppy, and coca cultivated and destroyed domestically and in other countries;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the number of metric tons of marijuana, heroin, cocaine, and methamphetamine seized and other drugs; and
+
+&emsp;&emsp;&emsp;&emsp;(V) changes in the price and purity of heroin, methamphetamine, and cocaine, changes in the price of ecstasy, and changes in tetrahydrocannabinol level of marijuana and other drugs.
+
+&emsp;&emsp;&emsp;(vii) An assessment of the reduction of the consequences of illicit drug use and availability, which shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) the burden illicit drug users placed on hospital emergency departments in the United States, such as the quantity of illicit drug-related services provided;
+
+&emsp;&emsp;&emsp;&emsp;(II) the annual national health care cost of illicit drug use; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the extent of illicit drug-related crime and criminal activity.
+
+&emsp;&emsp;&emsp;(viii) A determination of the status of drug treatment in the United States, by assessing—
+
+&emsp;&emsp;&emsp;&emsp;(I) public and private treatment utilization; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of illicit drug users the Director estimates meet diagnostic criteria for treatment.
+
+&emsp;&emsp;&emsp;(ix) A review of the research agenda of the Counterdrug Technology Assessment Center to reduce the availability and abuse of drugs.
+
+&emsp;&emsp;&emsp;(x) A summary of the efforts made to coordinate with private sector entities toconduct private research and development of medications to treat addiction by—
+
+&emsp;&emsp;&emsp;&emsp;(I) screening chemicals for potential therapeutic value;
+
+&emsp;&emsp;&emsp;&emsp;(II) developing promising compounds;
+
+&emsp;&emsp;&emsp;&emsp;(III) conducting clinical trials;
+
+&emsp;&emsp;&emsp;&emsp;(IV) seeking Food and Drug Administration approval for drugs to treat addiction;
+
+&emsp;&emsp;&emsp;&emsp;(V) marketing the drug for the treatment of addiction;
+
+&emsp;&emsp;&emsp;&emsp;(VI) urging physicians to use the drug in the treatment of addiction; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) encouraging insurance companies to reimburse the cost of the drug for the treatment of addiction.
+
+&emsp;&emsp;&emsp;(xi) An assessment of Federal effectiveness in achieving the National Drug Control Strategy for the previous year, including a specific evaluation of whether the objectives and targets for reducing illicit drug use for the previous year were met and reasons for the success or failure of the previous year's Strategy.
+
+&emsp;&emsp;&emsp;(xii) A general review of the status of, and trends in, demand reduction activities by private sector entities and community-based organizations, including faith-based organizations, to determine their effectiveness and the extent of cooperation, coordination, and mutual support between such entities and organizations and Federal, State, local, and tribal government agencies.
+
+&emsp;&emsp;&emsp;(xiii) Such additional statistical data and information as the Director considers appropriate to demonstrate and assess trends relating to illicit drug use, the effects and consequences of illicit drug use (including the effects on children of substance abusers), supply reduction, demand reduction, drug-related law enforcement, and the implementation of the National Drug Control Strategy.
+
+&emsp;&emsp;&emsp;(xiv) A supplement reviewing the activities of each individual National Drug Control Program agency during the previous year with respect to the National Drug Control Strategy and the Director's assessment of the progress of each National Drug Control Program agency in meeting its responsibilities under the National Drug Control Strategy.
 
 #### (B) Classified information
 
-&emsp;&emsp;Any contents of the National Drug Control Strategy that involves information properly classified under criteria established by an Executive order shall be presented to Congress separately from the rest of the National Drug Control Strategy.
+&emsp;&emsp;Any contents of the National Drug Control Strategy that involve information properly classified under criteria established by an Executive order shall be presented to Congress separately from the rest of the National Drug Control Strategy.
+
+#### (C) Selection of data and information
+
+&emsp;&emsp;In selecting data and information for inclusion under subparagraph (A), the Director shall ensure—
+
+&emsp;&emsp;&emsp;(i) the inclusion of data and information that will permit analysis of current trends against previously compiled data and information where the Director believes such analysis enhances long-term assessment of the National Drug Control Strategy; and
+
+&emsp;&emsp;&emsp;(ii) the inclusion of data and information to permit a standardized and uniform assessment of the effectiveness of drug treatment programs in the United States.
 
 #### (3) Process for development and submission
 
-#### (A) Consultation
+&emsp;In developing and effectively implementing the National Drug Control Strategy, the Director—
 
-&emsp;&emsp;In developing and effectively implementing the National Drug Control Strategy, the Director—
+&emsp;&emsp;(A) shall consult with—
 
-&emsp;&emsp;&emsp;(i) shall consult with—
+&emsp;&emsp;&emsp;(i) the heads of the National Drug Control Program agencies;
 
-&emsp;&emsp;&emsp;&emsp;(I) the heads of the National Drug Control Program agencies;
+&emsp;&emsp;&emsp;(ii) Congress;
 
-&emsp;&emsp;&emsp;&emsp;(II) Congress;
+&emsp;&emsp;&emsp;(iii) State, local, and tribal officials;
 
-&emsp;&emsp;&emsp;&emsp;(III) State and local officials;
+&emsp;&emsp;&emsp;(iv) private citizens and organizations, including community and faith-based organizations with experience and expertise in demand reduction;
 
-&emsp;&emsp;&emsp;&emsp;(IV) private citizens and organizations with experience and expertise in demand reduction;
+&emsp;&emsp;&emsp;(v) private citizens and organizations with experience and expertise in supply reduction; and
 
-&emsp;&emsp;&emsp;&emsp;(V) private citizens and organizations with experience and expertise in supply reduction; and
+&emsp;&emsp;&emsp;(vi) appropriate representatives of foreign governments;
 
-&emsp;&emsp;&emsp;&emsp;(VI) appropriate representatives of foreign governments;
+&emsp;&emsp;(B) in satisfying the requirements of subparagraph (A), shall ensure, to the maximum extent possible, that State, local, and tribal officials and relevant private organizations commit to support and take steps to achieve the goals and objectives of the National Drug Control Strategy;
 
-&emsp;&emsp;&emsp;(ii) with the concurrence of the Attorney General, may require the El Paso Intelligence Center to undertake specific tasks or projects to implement the National Drug Control Strategy; and
+&emsp;&emsp;(C) with the concurrence of the Attorney General, may require the El Paso Intelligence Center to undertake specific tasks or projects to support or implement the National Drug Control Strategy; and
 
-&emsp;&emsp;&emsp;(iii) with the concurrence of the Director of Central Intelligence and the Attorney General, may request that the National Drug Intelligence Center undertake specific tasks or projects to implement the National Drug Control Strategy.
+&emsp;&emsp;(D) with the concurrence of the Director of National Intelligence and the Attorney General, may request that the National Drug Intelligence Center undertake specific tasks or projects to support or implement the National Drug Control Strategy.
 
-#### (B) Inclusion in Strategy
+#### (b) Submission of revised strategy
 
-&emsp;&emsp;The National Drug Control Strategy under this subsection, and each report submitted under subsection (b) of this section, shall include a list of each entity consulted under subparagraph (A)(i).
+The President may submit to Congress a revised National Drug Control Strategy that meets the requirements of this section—
 
-#### (4) Specific targets
+&emsp;(1) at any time, upon a determination of the President, in consultation with the Director, that the National Drug Control Strategy in effect is not sufficiently effective; or
 
-&emsp;The targets in the National Drug Control Strategy shall include the following:
-
-&emsp;&emsp;(A) Reduction of unlawful drug use to 3 percent of the population of the United States or less by December 31, 2003 (as measured in terms of overall illicit drug use during the past 30 days by the National Household Survey), and achievement of at least 20 percent of such reduction during each of 1999, 2000, 2001, 2002, and 2003.
-
-&emsp;&emsp;(B) Reduction of adolescent unlawful drug use (as measured in terms of illicit drug use during the past 30 days by the Monitoring the Future Survey of the University of Michigan or the National PRIDE Survey conducted by the National Parents’ Resource Institute for Drug Education) to 3 percent of the adolescent population of the United States or less by December 31, 2003, and achievement of at least 20 percent of such reduction during each of 1999, 2000, 2001, 2002, and 2003.
-
-&emsp;&emsp;(C) Reduction of the availability of cocaine, heroin, marijuana, and methamphetamine in the United States by 80 percent by December 31, 2003.
-
-&emsp;&emsp;(D) Reduction of the respective nationwide average street purity levels for cocaine, heroin, marijuana, and methamphetamine (as estimated by the interagency drug flows assessment led by the Office of National Drug Control Policy, and based on statistics collected by the Drug Enforcement Administration and other National Drug Control Program agencies identified as relevant by the Director) by 60 percent by December 31, 2003, and achievement of at least 20 percent of each such reduction during each of 1999, 2000, 2001, 2002, and 2003.
-
-&emsp;&emsp;(E) Reduction of drug-related crime in the United States by 50 percent by December 31, 2003, and achievement of at least 20 percent of such reduction during each of 1999, 2000, 2001, 2002, and 2003, including—
-
-&emsp;&emsp;&emsp;(i) reduction of State and Federal unlawful drug trafficking and distribution;
-
-&emsp;&emsp;&emsp;(ii) reduction of State and Federal crimes committed by persons under the influence of unlawful drugs;
-
-&emsp;&emsp;&emsp;(iii) reduction of State and Federal crimes committed for the purpose of obtaining unlawful drugs or obtaining property that is intended to be used for the purchase of unlawful drugs; and
-
-&emsp;&emsp;&emsp;(iv) reduction of drug-related emergency room incidents in the United States (as measured by data of the Drug Abuse Warning Network on illicit drug abuse), including incidents involving gunshot wounds and automobile accidents in which illicit drugs are identified in the bloodstream of the victim, by 50 percent by December 31, 2003.
-
-#### (5) Further reductions in drug use, availability, and crime
-
-&emsp;Following the submission of a National Drug Control Strategy under this section to achieve the specific targets described in paragraph (4), the Director may formulate a strategy for additional reductions in drug use and availability and drug-related crime beyond the 5-year period covered by the National Drug Control Strategy that has been submitted.
-
-#### (b) Annual Strategy report
-
-#### (1) In general
-
-&emsp;Not later than February 1, 1999, and on February 1 of each year thereafter, the President shall submit to Congress a report on the progress in implementing the Strategy under subsection (a) of this section, which shall include—
-
-&emsp;&emsp;(A) an assessment of the Federal effectiveness in achieving the National Drug Control Strategy goals and objectives using the performance measurement system described in subsection (c) of this section, including—
-
-&emsp;&emsp;&emsp;(i) an assessment of drug use and availability in the United States; and
-
-&emsp;&emsp;&emsp;(ii) an estimate of the effectiveness of interdiction, treatment, prevention, law enforcement, and international programs under the National Drug Control Strategy in effect during the preceding year, or in effect as of the date on which the report is submitted;
-
-&emsp;&emsp;(B) any modifications of the National Drug Control Strategy or the performance measurement system described in subsection (c) of this section;
-
-&emsp;&emsp;(C) an assessment of the manner in which the budget proposal submitted under section 1703(c) of this title is intended to implementthe National Drug Control Strategy and whether the funding levels contained in such proposal are sufficient to implement such Strategy;
-
-&emsp;&emsp;(D) measurable data evaluating the success or failure in achieving the annual measurable objectives described in subsection (a)(2)(A)(ii) of this section;
-
-&emsp;&emsp;(E) an assessment of current drug use (including inhalants) and availability, impact of drug use, and treatment availability, which assessment shall include—
-
-&emsp;&emsp;&emsp;(i) estimates of drug prevalence and frequency of use as measured by national, State, and local surveys of illicit drug use and by other special studies of—
-
-&emsp;&emsp;&emsp;&emsp;(I) casual and chronic drug use;
-
-&emsp;&emsp;&emsp;&emsp;(II) high-risk populations, including school dropouts, the homeless and transient, arrestees, parolees, probationers, and juvenile delinquents; and
-
-&emsp;&emsp;&emsp;&emsp;(III) drug use in the workplace and the productivity lost by such use;
-
-&emsp;&emsp;&emsp;(ii) an assessment of the reduction of drug availability against an ascertained baseline, as measured by—
-
-&emsp;&emsp;&emsp;&emsp;(I) the quantities of cocaine, heroin, marijuana, methamphetamine, and other drugs available for consumption in the United States;
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount of marijuana, cocaine, heroin, and precursor chemicals entering the United States;
-
-&emsp;&emsp;&emsp;&emsp;(III) the number of hectares of marijuana, poppy, and coca cultivated and destroyed domestically and in other countries;
-
-&emsp;&emsp;&emsp;&emsp;(IV) the number of metric tons of marijuana, heroin, cocaine, and methamphetamine seized;
-
-&emsp;&emsp;&emsp;&emsp;(V) the number of cocaine and methamphetamine processing laboratories destroyed domestically and in other countries;
-
-&emsp;&emsp;&emsp;&emsp;(VI) changes in the price and purity of heroin and cocaine, changes in the price of methamphetamine, and changes in tetrahydrocannabinol level of marijuana;
-
-&emsp;&emsp;&emsp;&emsp;(VII) the amount and type of controlled substances diverted from legitimate retail and wholesale sources; and
-
-&emsp;&emsp;&emsp;&emsp;(VIII) the effectiveness of Federal technology programs at improving drug detection capabilities in interdiction, and at United States ports of entry;
-
-&emsp;&emsp;&emsp;(iii) an assessment of the reduction of the consequences of drug use and availability, which shall include estimation of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the burden drug users placed on hospital emergency departments in the United States, such as the quantity of drug-related services provided;
-
-&emsp;&emsp;&emsp;&emsp;(II) the annual national health care costs of drug use, including costs associated with people becoming infected with the human immunodeficiency virus and other infectious diseases as a result of drug use;
-
-&emsp;&emsp;&emsp;&emsp;(III) the extent of drug-related crime and criminal activity; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) the contribution of drugs to the underground economy, as measured by the retail value of drugs sold in the United States;
-
-&emsp;&emsp;&emsp;(iv) a determination of the status of drug treatment in the United States, by assessing—
-
-&emsp;&emsp;&emsp;&emsp;(I) public and private treatment capacity within each State, including information on the treatment capacity available in relation to the capacity actually used;
-
-&emsp;&emsp;&emsp;&emsp;(II) the extent, within each State, to which treatment is available;
-
-&emsp;&emsp;&emsp;&emsp;(III) the number of drug users the Director estimates could benefit from treatment; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) the specific factors that restrict the availability of treatment services to those seeking it and proposed administrative or legislative remedies to make treatment available to those individuals; and
-
-&emsp;&emsp;&emsp;(v) a review of the research agenda of the Counter-Drug Technology Assessment Center to reduce the availability and abuse of drugs; and
-
-&emsp;&emsp;(F) an assessment of private sector initiatives and cooperative efforts between the Federal Government and State and local governments for drug control.
-
-#### (2) Submission of revised Strategy
-
-&emsp;The President may submit to Congress a revised National Drug Control Strategy that meets the requirements of this section—
-
-&emsp;&emsp;(A) at any time, upon a determination by the President, in consultation with the Director, that the National Drug Control Strategy in effect is not sufficiently effective; and
-
-&emsp;&emsp;(B) if a new President or Director takes office.
-
-#### (3) 1999 Strategy report
-
-&emsp;With respect to the Strategy report required to be submitted by this subsection on February 1, 1999, the President shall prepare the report using such information as is available for the period covered by the report.
+&emsp;(2) if a new President or Director takes office.
 
 #### (c) Performance measurement system
 
-#### (1) Sense of Congress
+Not later than February 1 of each year, the Director shall submit to Congress as part of the National Drug Control Strategy, a description of a national drug control performance measurement system, that—
 
-&emsp;It is the sense of Congress that—
+&emsp;(1) develops 2-year and 5-year performance measures and targets for each National Drug Control Strategy goal and objective established for reducing drug use, availability, and the consequences of drug use;
 
-&emsp;&emsp;(A) the targets described in subsection (a) of this section are important to the reduction of overall drug use in the United States;
+&emsp;(2) describes the sources of information and data that will be used for each performance measure incorporated into the performance measurement system;
 
-&emsp;&emsp;(B) the President should seek to achieve those targets during the 5 years covered by the National Drug Control Strategy required to be submitted under subsection (a) of this section;
+&emsp;(3) identifies major programs and activities of the National Drug Control Program agencies that support the goals and annual objectives of the National Drug Control Strategy;
 
-&emsp;&emsp;(C) the purpose of such targets and the annual reports to Congress on the progress towards achieving the targets is to allow for the annual restructuring of appropriations by the Appropriations Committees and authorizing committees of jurisdiction of Congress to meet the goals described in this chapter;
+&emsp;(4) evaluates the contribution of demand reduction and supply reduction activities as defined in section 1701 of this title implemented by each National Drug Control Program agency in support of the National Drug Control Strategy;
 
-&emsp;&emsp;(D) the performance measurement system developed by the Director described in this subsection is central to the National Drug Control Program targets, programs, and budget;
+&emsp;(5) monitors consistency between the drug-related goals and objectives of the National Drug Control Program agencies and ensures that each agency's goals and budgets support and are fully consistent with the National Drug Control Strategy; and
 
-&emsp;&emsp;(E) the Congress strongly endorses the performance measurement system for establishing clear outcomes for reducing drug use nationwide during the next five years, and the linkage of this system to all agency drug control programs and budgets receiving funds scored as drug control agency funding.
+&emsp;(6) coordinates the development and implementation of national drug control data collection and reporting systems to support policy formulation and performance measurement, including an assessment of—
 
-#### (2) Submission to Congress
+&emsp;&emsp;(A) the quality of current drug use measurement instruments and techniques to measure supply reduction and demand reduction activities;
 
-&emsp;Not later than February 1, 1999, the Director shall submit to Congress a description of the national drug control performance measurement system, designed in consultation with affected National Drug Control Program agencies, that—
+&emsp;&emsp;(B) the adequacy of the coverage of existing national drug use measurement instruments and techniques to measure the illicit drug user population, and groups that are at risk for illicit drug use;
 
-&emsp;&emsp;(A) develops performance objectives, measures, and targets for each National Drug Control Strategy goal and objective;
+&emsp;&emsp;(C) the adequacy of the coverage of existing national treatment outcome monitoring systems to measure the effectiveness of drug abuse treatment in reducing illicit drug use and criminal behavior during and after the completion of substance abuse treatment; and
 
-&emsp;&emsp;(B) revises performance objectives, measures, and targets, to conform with National Drug Control Program Agency budgets;
+&emsp;&emsp;(D) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection.
 
-&emsp;&emsp;(C) identifies major programs and activities of the National Drug Control Program agencies that support the goals and objectives of the National Drug Control Strategy;
+#### (d) Modifications
 
-&emsp;&emsp;(D) evaluates in detail the implementation by each National Drug Control Program agency of program activities supporting the National Drug Control Strategy;
+A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) shall be included in each report submitted under subsection (b).
 
-&emsp;&emsp;(E) monitors consistency between the drug-related goals and objectives of the National Drug Control Program agencies and ensures that drug control agency goals and budgets support and are fully consistent with the National Drug Control Strategy; and
-
-&emsp;&emsp;(F) coordinates the development and implementation of national drug control data collection and reporting systems to support policy formulation and performance measurement, including an assessment of—
-
-&emsp;&emsp;&emsp;(i) the quality of current drug use measurement instruments and techniques to measure supply reduction and demand reduction activities;
-
-&emsp;&emsp;&emsp;(ii) the adequacy of the coverage of existing national drug use measurement instruments and techniques to measure the casual drug user population and groups that are at risk for drug use; and
-
-&emsp;&emsp;&emsp;(iii) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of subsection (b)(4) of this section.
-
-#### (3) Modifications
-
-&emsp;A description of any modifications made during the preceding year to the national drug control performance measurement system described in paragraph (2) shall be included in each report submitted under subsection (b) of this section.
-
-(Pub. L. 105–277, div. C, title VII, §706, Oct. 21, 1998, 112 Stat. 2681–681.)
+(Pub. L. 105–277, div. C, title VII, §706, Oct. 21, 1998, 112 Stat. 2681–681; Pub. L. 109–469, title II, §§201, 202, Dec. 29, 2006, 120 Stat. 3513, 3517.)
 
 #### Repeal of Section
 
-<i>For repeal of section on Sept. 30, 2003, see section 1712 of this title.</i>
+<i>For repeal of section on Sept. 30, 2010, see section 1712 of this title.</i>
 
-#### References in Text
+#### Amendments
 
-This chapter, referred to in subsec. (c)(1)(C), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+2006—Pub. L. 109–469, §201, amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
 
-#### Change of Name
+Subsecs. (c), (d). Pub. L. 109–469, §202, added subsecs. (c) and (d).
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+#### Requirement for Southwest Border Counternarcotics Strategy
+
+Pub. L. 109–469, title XI, §1110, Dec. 29, 2006, 120 Stat. 3543, provided that:
+
+“(a)
+
+In General.—Not later than 120 days after the date of enactment of this Act \[Dec. 29, 2006\], and every 2 years thereafter, the Director of National Drug Control Policy shall submit to the Congress a Southwest Border Counternarcotics Strategy.
+
+“(b)
+
+Purposes.—The Southwest Border Counternarcotics Strategy shall—
+
+&emsp;“(1) set forth the Government's strategy for preventing the illegal trafficking of drugs across the international border between the United States and Mexico, including through ports of entry and between ports of entry on that border;
+
+&emsp;“(2) state the specific roles and responsibilities of the relevant National Drug Control Program agencies (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)) for implementing that strategy; and
+
+&emsp;“(3) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy.
+
+“(c)
+
+Specific Content Related to Drug Tunnels Between the United States and Mexico.—The Southwest Border Counternarcotics Strategy shall include—
+
+&emsp;“(1) a strategy to end the construction and use of tunnels and subterranean passages that cross the international border between the United States and Mexico for the purpose of illegal trafficking of drugs across such border; and
+
+&emsp;“(2) recommendations for criminal penalties for persons who construct or use such a tunnel or subterranean passage for such a purpose.
+
+“(d)
+
+Consultation With Other Agencies.—The Director shall issue the Southwest Border Counternarcotics Strategy in consultation with the heads of the relevant National Drug Control Program agencies.
+
+“(e)
+
+Limitation.—The Southwest Border Counternarcotics Strategy shall not change existing agency authorities or the laws governing interagency relationships, but may include recommendations about changes to such authorities or laws.
+
+“(f)
+
+Report to Congress.—The Director shall provide a copy of the Southwest Border Counternarcotics Strategy to the appropriate congressional committees (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)), and to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate.
+
+“(g)
+
+Treatment of Classified or Law Enforcement Sensitive Information.—Any content of the Southwest Border Counternarcotics Strategy that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency, shall be presented to Congress separately from the rest of the strategy.”
 

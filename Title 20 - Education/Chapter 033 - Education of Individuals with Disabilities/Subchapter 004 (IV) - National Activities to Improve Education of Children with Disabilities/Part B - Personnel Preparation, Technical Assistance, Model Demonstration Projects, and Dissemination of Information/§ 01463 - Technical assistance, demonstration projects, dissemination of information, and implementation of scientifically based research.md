@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make competitive grants to, or enter into contracts or cooperative agreements with, eligible entities to provide technical assistance, support model demonstration projects, disseminate useful information, and implement activities that are supported by scientifically based research.
+The Secretary shall make competitive grants to, or enter into contracts or cooperative agreements with, eligible entities to provide technical assistance, support model demonstrationprojects, disseminate useful information, and implement activities that are supported by scientifically based research.
 
 #### (b) Required activities
 
@@ -60,7 +60,7 @@ In carrying out this section, the Secretary shall ensure that there is an approp
 
 #### (e) Linking States to information sources
 
-In carrying out this section, the Secretary shall support projects that link States to technical assistance resources, including special education and general education resources, and shall make research and related products available through libraries, electronic networks, parent training projects, and other information sources, including through the activities of the National Center for Education Evaluation and Regional Assistance established under part D of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9561 et seq.\].
+In carrying out this section, the Secretary shall support projects that link States to technical assistance resources, including special education and general education resources, and shall make research and related products available through libraries, electronic networks, parent training projects, and other information sources, including through the activities of the National Center for Education Evaluation andRegional Assistance established under part D of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9561 et seq.\].
 
 #### (f) Applications
 

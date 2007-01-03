@@ -2,7 +2,7 @@
 
 #### (a) Park boundary adjustments
 
-The boundaries of the Mount Rainier National Park as established in the Act of March 2, 1899 (30 Stat. 993), as amended; (16 U.S.C. 91–110b),<sup>1</sup> are further revised to add to the Park approximately two hundred and forty acres, and to exclude from the park approximately thirty-one and one-half acres, as generally depicted on the map entitled “Mount Rainier National Park Proposed 1987 Boundary Adjustments”, numbered 105–80,010B and dated January 1987, which shall be on file and available for public inspection in the Washington office of the National Park Service, United States Department of the Interior and at Mount Rainier National Park.
+The boundaries of the Mount Rainier National Park as established in the Act of March 2, 1899\(30 Stat. 993), as amended; (16 U.S.C. 91–110b),<sup>1</sup> are further revised to add to the Park approximately two hundred and forty acres, and to exclude from the park approximately thirty-one and one-half acres, as generally depicted on the map entitled “Mount Rainier National Park Proposed 1987 Boundary Adjustments”, numbered 105–80,010B and dated January 1987, which shall be on file and available for public inspection in the Washington office of the National Park Service, United States Department of the Interior and at Mount Rainier National Park.
 
 #### (b) Forest boundary adjustment
 
@@ -10,7 +10,7 @@ The boundaries of the Snoqualmie National Forest and of the Gifford Pinchot Nati
 
 #### (c) Administration of park land
 
-(1) Federal lands, and interests therein formerly within the boundary of the Snoqualmie National Forest and the Gifford Pinchot National Forest, which are included within the boundary of the Mount Rainier National Park pursuant to this Act are, subject to valid existing rights, hereby transferred to the administrative jurisdiction of the Secretary of the Interior for administration as part of the Park, and shallbe subject to all the laws and regulations of the Park.
+(1) Federal lands, and interests therein formerly within the boundary of the Snoqualmie National Forest and the Gifford Pinchot National Forest, which are included within the boundary of the Mount Rainier National Park pursuant to this Act are, subject to valid existing rights, hereby transferred to the administrative jurisdiction of the Secretary of the Interior for administration as part of the Park, and shall be subject to all the laws and regulations of the Park.
 
 (2) The Secretary of the Interior is authorized to accept either concurrent or exclusive jurisdiction over lands and waters included within Mount Rainier National Park by this Act. The Secretary shall notify in writing the Governor of the State of Washington of the acceptance of any such jurisdiction ceded to the United States by the State. The existing exclusive Federal jurisdiction, where it exists in the Park, shall remain in effect until such time as the Secretary and the Governor shall agree upon the terms and conditions of concurrent legislative jurisdiction for said Park pursuant to section 251<i>l</i> of this title.
 

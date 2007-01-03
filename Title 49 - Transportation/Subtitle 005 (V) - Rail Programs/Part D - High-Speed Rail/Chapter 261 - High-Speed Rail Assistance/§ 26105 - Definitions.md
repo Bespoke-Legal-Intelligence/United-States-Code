@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term “State” means any of the several States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States; and
 
-&emsp;(6) the term “United States private business” means a business entity organized underthe laws of the United States, or of a State, and conducting substantial business operations in the United States.
+&emsp;(6) the term “United States private business” means a business entity organized under the laws of the United States, or of a State, and conducting substantial business operations in the United States.
 
 (Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(b), June 9, 1998, 112 Stat. 470; Pub. L. 109–59, title IX, §9001(c), Aug. 10, 2005, 119 Stat. 1919.)
 

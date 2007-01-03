@@ -26,7 +26,7 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (12) Subject to the right of judicial review hereinafter provided, a determination made by an administrative law judge regarding a claim made pursuant to section 2025(c) of this title shall be final and shall take effect thirty days after the date of the delivery or service of final notice of such determination.
 
-(13) If the store, concern, or State agency feels aggrieved by such final determination, it may obtain judicial review thereof by filing a complaint against the United States in the United States court for the district in which it resides or is engaged in business, or, in the case of a retail food store or wholesale food concern, in any court of record of the State having competent jurisdiction, within thirty days after the date of delivery or service of the final notice of determination upon it, requesting the court to set aside such determination.
+(13) If the store, concern, or State agency feels aggrieved by such final determination, it may obtain judicial review thereof by filing a complaint against the United States in the United States court for the district in which it resides or is engaged in business, or, in the case of a retail food store or wholesale food concern, in any court of record of the State having competentjurisdiction, within thirty days after the date of delivery or service of the final notice of determination upon it, requesting the court to set aside such determination.
 
 (14) The copy of the summons and complaint required to be delivered to the official or agency whose order is being attacked shall be sent to the Secretary or such person or persons as the Secretary may designate to receive service of process.
 
@@ -38,7 +38,7 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (18)
 
-Suspension of stores pending review.—Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of section 2021(b) of this title shall be effective from the date of receipt of the notice of disqualification. If the disqualificationis reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
+Suspension of stores pending review.—Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of section 2021(b) of this title shall be effective from the date of receipt of the notice of disqualification. If the disqualification is reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
 
 (b) In any judicial action arising under this chapter, any food stamp allotments found to have been wrongfully withheld shall be restored only for periods of not more than one year prior to the date of the commencement of such action, or in the case of an action seeking review of a final State agency determination, not more than one year prior to the date of the filing of a request with the State for the restoration of such allotments or, in either case, not more than one year prior to the date the State agency is notified or otherwise discovers the possible loss to a household.
 

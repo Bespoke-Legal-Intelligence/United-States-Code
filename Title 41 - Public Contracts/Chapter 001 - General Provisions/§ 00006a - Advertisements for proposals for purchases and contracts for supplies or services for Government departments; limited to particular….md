@@ -24,7 +24,7 @@ Opening par., and subsecs. (a), (f), (h), and (j) of this section are from act O
 
 Subsec. (<i>o</i>) of this section, which was from Act May 13, 1926, ch. 294, §1, 44 Stat. 547, made section 5 of this title inapplicable to the Architect of the Capitol in the purchase of supplies and equipment and procurement of services when the aggregate amount thereof did not exceed $1,000 in any instance and was omitted as superseded by section 6a–1 of this title.
 
-Subsec. (p) of this section, which was from act June 12, 1917, ch. 27, §1, 40 Stat. 144, made section 5 of this title inapplicable to expenditures not exceeding $50 bythe United States Geological Survey and was repealed by act Oct. 31, 1951, ch. 654, §1(106), 65 Stat. 705.
+Subsec. (p) of this section, which was from act June 12, 1917, ch. 27, §1, 40 Stat. 144, made section 5 of this title inapplicable to expenditures not exceeding $50 by the United States Geological Survey and was repealed by act Oct. 31, 1951, ch. 654, §1(106), 65 Stat. 705.
 
 #### Prior Provisions
 
@@ -64,7 +64,7 @@ Subsec. (<i>o</i>). Act Oct. 31, 1951, §4(9), increased the maximum from $200 t
 
 #### Repeals
 
-Section 1(108) of act Oct. 31, 1951, repealed the proviso in act June 28, 1941, cited as a credit to this section, which excepted expenditures not exceeding $500 by the Bureau of Mines from section 5 of this title.
+Section 1(108) of act Oct. 31, 1951, repealed the proviso in act June 28, 1941, cited as a credit to this section,which excepted expenditures not exceeding $500 by the Bureau of Mines from section 5 of this title.
 
 Section 1(106) of act Oct. 31, 1951, repealed the proviso in act June 12, 1917, cited as a credit to this section, which excepted expenditures not exceeding $50 by the United States Geological Survey from section 5 of this title.
 

@@ -10,9 +10,9 @@ The Commission shall be composed of nineteen members appointed by the Secretary 
 
 &emsp;(1) Eight members to be appointed from recommendations submitted by the boards of commissioners or the county councils, as the case may be, of Montgomery, Frederick, Washington, and Allegany Counties, Maryland, of which two members shall be appointed from recommendations submitted by each such board or council, as the case may be;
 
-&emsp;(2) Eight members to be appointed from recommendations submitted by the Governor of the State of Maryland, the Governor of the State of West Virginia, the Governor of the Commonwealth of Virginia, and the Commissioner of the District of Columbia, of which two members shall be appointed from recommendations submitted by each such Governor or Commissioner, as the case may be; and
+&emsp;(2) Eight members to be appointed from recommendations submitted by the Governor of the State of Maryland, the Governor of the State of West Virginia, the Governor of the Commonwealth of Virginia, and the Mayor of the District of Columbia, of which two members shall be appointed from recommendations submitted by each such Governor or Mayor, as the case may be; and
 
-&emsp;(3) Three members to be appointed by the Secretary, one of whom shall be designated Chairman of the Commission and two of whom shall be members of regularly constituted conservation organizations.
+&emsp;(3) Three members to be appointed by the Secretary, one of whom shall be designated Chairman of the Commission and two of whomshall be members of regularly constituted conservation organizations.
 
 #### (c) Vacancies
 
@@ -34,7 +34,7 @@ The Commission shall act and advise by affirmative vote of a majority of the mem
 
 The Commission shall cease to exist 40 years from January 8, 1971.
 
-(Pub. L. 91–664, §6, Jan. 8, 1971, 84 Stat. 1980; Pub. L. 96–555, Dec. 19, 1980, 94 Stat. 3260; Pub. L. 101–320, July 3, 1990, 104 Stat. 292; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §134\], Dec. 21, 2000, 114 Stat. 2763, 2763A–230.)
+(Pub. L. 91–664, §6, Jan. 8, 1971, 84 Stat. 1980; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 96–555, Dec. 19, 1980, 94 Stat. 3260; Pub. L. 101–320, July 3, 1990, 104 Stat. 292; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §134\], Dec. 21, 2000, 114 Stat. 2763, 2763A–230.)
 
 #### Amendments
 
@@ -45,4 +45,8 @@ The Commission shall cease to exist 40 years from January 8, 1971.
 Subsec. (g). Pub. L. 101–320, §1(b), substituted “thirty” for “twenty”.
 
 1980—Subsec. (g). Pub. L. 96–555 substituted “twenty” for “ten”.
+
+#### Transfer of Functions
+
+Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (b)(2) for “Commissioner” in two places.
 

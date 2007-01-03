@@ -16,7 +16,7 @@
 
 (2) Notwithstanding the first sentence of paragraph (1), the Secretary may defer the retirement or discharge of such number of officers serving in the grade of lieutenant commander as are necessary to maintain the authorized officer strength of the Ready Reserve, but the duration of such deferment for any individual officer may not be in excess of five years.
 
-(3) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of an officer serving in the permanent grade of lieutenant commander orcommander in the Navy Reserve or in the permanent grade of major or lieutenant colonel in the Marine Corps Reserve for a period of time which does not exceed the amount of service in an active status which was credited to the officer at the time of his original appointment or thereafter under any provision of law, if the officer can complete at least 20 years of service as computed under section 12732 of this title during the period of such deferment.
+(3) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of an officer serving in the permanent grade of lieutenant commander or commander in the Navy Reserve or in the permanent grade of major or lieutenant colonel in the Marine Corps Reserve for a period of time which does not exceed the amount of service in an active status which was credited to the officer at the time of his original appointment or thereafter under any provision of law, if the officer can complete at least 20 years of service as computed under section 12732 of this title during the period of such deferment.
 
 (4) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of such number of officers serving in the permanent grade of commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Navy Reserve as are necessary to provide for mobilization requirements.
 
@@ -100,7 +100,7 @@ Pub. L. 103–337, §1628(3)(A), inserted “(1)” after “(c)”.
 
 Subsec. (e). Pub. L. 103–337, §1628(4), struck out subsec. (e) which read as follows: “This section does not apply to women reserve officers or to reserve officers in the Nurse Corps.”
 
-Subsec. (f). Pub. L. 103–337, §1628(4), struck out subsec. (f) which provided for transfer or discharge of rearadmirals (lower half) in Naval Reserve and brigadier generals in Marine Corps Reserve on completion of 30 years service or five years in grade and for rear admirals in Naval Reserve and major generals in Marine Corps Reserve on completion of 35 years service or five years in grade and provided that rear admirals (lower half) and rear admirals in Naval Reserve and brigadier generals and major generals in Marine Corps Reserve could be considered for early retirement by continuation board. See sections 14508 and 14705 of this title.
+Subsec. (f). Pub. L. 103–337, §1628(4), struck out subsec. (f) which provided for transfer or discharge of rear admirals (lower half) in Naval Reserve and brigadier generals in Marine Corps Reserve on completion of 30 years service or five years in grade and for rear admirals in Naval Reserve and major generals in Marine Corps Reserve on completion of 35 years service or five years in grade and provided that rear admirals (lower half) and rear admirals in Naval Reserve and brigadier generals and major generals in Marine Corps Reserve could be considered for early retirement by continuation board. See sections 14508 and 14705 of this title.
 
 Subsec. (g). Pub. L. 103–337, §1628(4), struck out subsec. (g) which read as follows: “An officer in an active status in the Naval Reserve in the permanent grade of ensign who is found not qualified for promotion to the grade of lieutenant (junior grade), and an officer in an active status in the Marine Corps Reserve in the permanent grade of second lieutenant who is found not qualified for promotion to the grade of first lieutenant, may (unless he is sooner promoted) be eliminated from an active status.”
 
@@ -140,5 +140,5 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980,see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 

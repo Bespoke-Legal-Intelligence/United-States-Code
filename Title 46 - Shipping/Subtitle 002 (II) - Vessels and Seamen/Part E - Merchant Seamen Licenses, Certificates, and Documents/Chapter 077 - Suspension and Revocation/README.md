@@ -7,12 +7,13 @@
 | [7703\.](%C2%A7%2007703%20-%20Bases%20for%20suspension%20or%20revocation.md) | Bases for suspension or revocation. |
 | [7704\.](%C2%A7%2007704%20-%20Dangerous%20drugs%20as%20grounds%20for%20revocation.md) | Dangerous drugs as grounds for revocation. |
 | [7705\.](%C2%A7%2007705%20-%20Subpenas%20and%20oaths.md) | Subpenas and oaths. |
+| [7706\.](%C2%A7%2007706%20-%20Drug%20testing%20reporting.md) | Drug testing reporting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
+#### Amendments
 
-This chapter is referred to in sections 6301, 9303 of this title; title 49 sections 1133, 30305.
+2004—Pub. L. 108–293, title IV, §414(b), Aug. 9, 2004, 118 Stat. 1047, added item 7706.
 
 
 ---
@@ -24,3 +25,4 @@ This chapter is referred to in sections 6301, 9303 of this title; title 49 secti
 - [&sect; 07703 - Bases for suspension or revocation](%C2%A7%2007703%20-%20Bases%20for%20suspension%20or%20revocation.md)
 - [&sect; 07704 - Dangerous drugs as grounds for revocation](%C2%A7%2007704%20-%20Dangerous%20drugs%20as%20grounds%20for%20revocation.md)
 - [&sect; 07705 - Subpenas and oaths](%C2%A7%2007705%20-%20Subpenas%20and%20oaths.md)
+- [&sect; 07706 - Drug testing reporting](%C2%A7%2007706%20-%20Drug%20testing%20reporting.md)

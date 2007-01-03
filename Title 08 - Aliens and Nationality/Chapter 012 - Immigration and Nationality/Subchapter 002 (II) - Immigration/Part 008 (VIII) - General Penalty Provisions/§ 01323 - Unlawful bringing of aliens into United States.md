@@ -12,7 +12,7 @@ If it appears to the satisfaction of the Attorney General that any alien has bee
 
 #### (c) Remission or refund
 
-Except as provided in subsection (e) of this section, such fine shall not be remitted or refunded, unless it appears to the satisfaction of the Attorney General that such person, and the owner, master, commanding officer, agent, charterer, and consignee of the vessel or aircraft, prior to the departure of the vessel or aircraft from the last port outside the United States, did not know, and could not have ascertained by the exercise of reasonable diligence, that the individual transported was an alien and that a valid passport or visa was required.
+Except as provided in subsection (e) of this section, such fine shall not be remitted or refunded, unless it appears to the satisfaction of the Attorney General that such person, and the owner, master, commanding officer, agent, charterer, and consignee of the vessel or aircraft, prior to the departure of the vessel or aircraft from the last port outside the United States, did not know, and could not have ascertained by theexercise of reasonable diligence, that the individual transported was an alien and that a valid passport or visa was required.
 
 #### (d) Repealed. Pub. L. 104–208, div. C, title III, §308(e)(13), Sept. 30, 1996, 110 Stat. 3009–620
 

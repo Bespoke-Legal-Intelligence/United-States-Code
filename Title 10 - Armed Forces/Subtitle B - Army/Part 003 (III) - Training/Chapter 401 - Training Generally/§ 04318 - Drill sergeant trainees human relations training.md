@@ -2,7 +2,7 @@
 
 (a)
 
-Human Relations Training Required.—The Secretary of the Army shall include as partof the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
+Human Relations Training Required.—The Secretary of the Army shall include as part of the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
 
 (b)
 

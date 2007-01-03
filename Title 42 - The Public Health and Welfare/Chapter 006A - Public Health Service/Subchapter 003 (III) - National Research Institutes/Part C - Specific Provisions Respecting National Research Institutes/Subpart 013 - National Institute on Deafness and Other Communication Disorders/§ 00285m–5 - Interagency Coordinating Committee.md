@@ -20,11 +20,7 @@ The Coordinating Committee shall be composed of the directors of each of the nat
 
 The Coordinating Committee shall be chaired by the Director of NIH (or the designee of the Director). The Committee shall meet at the call of the chair, but not less often than four times a year.
 
-#### (e) Annual report; recipients of report
-
-Not later than 120 days after the end of each fiscal year, the Coordinating Committee shall prepare and transmit to the Secretary, the Director of NIH, the Director of the Institute, and the advisory council for the Institute a report detailing the activities of the Committee in such fiscal year in carrying out subsection (b) of this section.
-
-(July 1, 1944, ch. 373, title IV, §464E, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2774, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4237; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 103–43, title XX, §2008(b)(9), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §464E, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2774, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4237; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 103–43, title XX, §2008(b)(9), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §104(b)(1)(K), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### Codification
 
@@ -32,9 +28,15 @@ Pub. L. 100–553 and section 2613(a)(1) of Pub. L. 100–690 contained identica
 
 #### Amendments
 
+2007—Subsec. (e). Pub. L. 109–482 struck out subsec. (e) which read as follows: “Not later than 120 days after the end of each fiscal year, the Coordinating Committee shall prepare and transmit to the Secretary, the Director of NIH, the Director of the Institute, and the advisory council for the Institute a report detailing the activities of the Committee in such fiscal year in carrying out subsection (b) of this section.”
+
 1993—Subsecs. (d), (e). Pub. L. 103–43 inserted “Coordinating” before “Committee” in first sentence of subsec. (d) and before first reference to “Committee” in subsec. (e).
 
 1988—Pub. L. 100–690, §2613(b)(2), amended this section to read as if the amendments made by Pub. L. 100–690, §2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1988 Amendment
 

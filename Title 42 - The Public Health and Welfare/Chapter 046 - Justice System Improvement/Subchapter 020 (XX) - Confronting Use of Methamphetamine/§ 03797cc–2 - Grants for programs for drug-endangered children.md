@@ -1,0 +1,24 @@
+### §3797cc–2. Grants for programs for drug-endangered children
+
+#### (a) In general
+
+The Attorney General shall make grants to States for the purpose of carrying out programs to provide comprehensive services to aid children who are living in a home in which methamphetamine or other controlled substances are unlawfully manufactured, distributed, dispensed, or used.
+
+#### (b) Certain requirements
+
+The Attorney General shall ensure that the services carried out with grants under subsection (a) include the following:
+
+&emsp;(1) Coordination among law enforcement agencies, prosecutors, child protective services, social services, health care services, and any other services determined to be appropriate by the Attorney General to provide assistance regarding the problems of children described in subsection (a).
+
+&emsp;(2) Transition of children from toxic or drug-endangering environments to appropriate residential environments.
+
+#### (c) Authorization of appropriations
+
+For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for each of the fiscal years 2006 and 2007. Amounts appropriated under the preceding sentence shall remain available until expended.
+
+(Pub. L. 109–177, title VII, §755, Mar. 9, 2006, 120 Stat. 275.)
+
+#### Codification
+
+Section was enacted as part of the Combat Methamphetamine Epidemic Act of 2005, and also as part of the USA PATRIOT Improvement and Reauthorization Act of 2005, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+

@@ -16,7 +16,7 @@ The Secretary shall not provide funds for the operation or maintenance of a proj
 
 #### Codification
 
-Section 506 of Pub. L. 105–62, which directed the amendment of “section 1621 of title XVI of the Reclamation Wastewater and Groundwater Act, PublicLaw 104–266”, was executed by making the amendment to this section, which is section 1621 of title XVI of the Reclamation Wastewater and Groundwater Study and Facilities Act, Pub. L. 102–575, as added by Pub. L. 104–266, to reflect the probable intent of Congress.
+Section 506 of Pub. L. 105–62, which directed the amendment of “section 1621 of title XVI of the Reclamation Wastewater and Groundwater Act, Public Law 104–266”, was executed by making the amendment to this section, which is section 1621 of title XVI of the Reclamation Wastewater and Groundwater Study and Facilities Act, Pub. L. 102–575, as added by Pub. L. 104–266, to reflect the probable intent of Congress.
 
 #### Amendments
 

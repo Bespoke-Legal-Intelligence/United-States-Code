@@ -10,13 +10,6 @@
 | [620c.](%C2%A7%2000620c%20-%20Laws%20governing%3B%20irrigation%20repayment%20contracts%3B%20time%20for%20making%20contract%3B%20contracts%20for%20municipal%20water%3B%20payment%20by%20Indian%20lands%E2%80%A6.md) | Laws governing; irrigation repayment contracts; time for making contract; contracts for municipal water; payment by Indian lands; restricted delivery of water for excess commodity; apportionments of use. |
 | 620c–1. | Laws governing priority of appropriation. |
 | [620d.](%C2%A7%2000620d%20-%20Upper%20Colorado%20River%20Basin%20Fund.md) | Upper Colorado River Basin Fund. |
-| (a) | Authorization and availability. |
-| (b) | Crediting of appropriations. |
-| (c) | Crediting and availability of revenues. |
-| (d) | Payments of revenues in excess of operating needs to Treasury. |
-| (e) | Apportionment of excess revenues among States. |
-| (f) | Determination of interest rate. |
-| (g) | Budget to be submitted to Congress. |
 | 620d–1. | Reimbursement of Fund from Colorado River Development Fund; operation of Hoover Dam. |
 | [620e.](%C2%A7%2000620e%20-%20Cost%20allocations%3B%20Indian%20lands%3B%20report%20to%20Congress.md) | Cost allocations; Indian lands; report to Congress. |
 | [620f.](%C2%A7%2000620f%20-%20Powerplant%20operations.md) | Powerplant operations. |

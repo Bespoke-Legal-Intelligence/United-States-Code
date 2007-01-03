@@ -14,7 +14,7 @@ Regular Officers.—(1) A regular officer who is discharged under chapter 36 of 
 
 Regular Enlisted Members.—(1) A regular enlisted member of an armed force who is discharged involuntarily or as the result of the denial of the reenlistment of the member and who has completed six or more, but less than 20, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d) unless the Secretary concerned determines that the conditions under which the member is discharged do not warrant payment of such pay.
 
-(2) Separation pay of an enlisted member shall be computed under paragraph (1) of subsection (d), except that such pay shall be computed under paragraph (2) of such subsection in the case of a member who is discharged under criteria prescribed by the Secretary of Defense.
+(2) Separation pay of an enlisted member shall be computed under paragraph (1) of subsection\(d), except that such pay shall be computed under paragraph (2) of such subsection in the case of a member who is discharged under criteria prescribed by the Secretary of Defense.
 
 (c)
 
@@ -70,7 +70,7 @@ Coordination With Other Separation or Severance Pay Benefits.—A period for whi
 
 Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received.
 
-(2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986). Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
+(2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law,based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986). Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
 
 (i)
 
@@ -152,7 +152,7 @@ Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
 
 1984—Subsec. (h)(1). Pub. L. 98–498 substituted “separation pay, severance pay,” for “severance pay” before “or readjustment pay” in two places.
 
-1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
+1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2)and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
@@ -212,7 +212,7 @@ Section 10(b) of Pub. L. 97–22 provided that the amendment made by that sectio
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

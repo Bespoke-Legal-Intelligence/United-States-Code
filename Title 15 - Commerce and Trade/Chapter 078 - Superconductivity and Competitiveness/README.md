@@ -3,25 +3,14 @@
 | Sec. |  |
 | :--- | ---: |
 | [5201\.](%C2%A7%2005201%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
 | [5202\.](%C2%A7%2005202%20-%20National%20Action%20Plan%20on%20Advanced%20Superconductivity%20Research%20and%20Development.md) | National Action Plan on Advanced Superconductivity Research and Development. |
-| (a) | Establishment. |
-| (b) | Content and scope. |
-| (c) | Action Plan report. |
-| (d) | Update reports. |
 | [5203\.](%C2%A7%2005203%20-%20Department%20of%20Energy.md) | Department of Energy. |
 | [5204\.](%C2%A7%2005204%20-%20National%20Institute%20of%20Standards%20and%20Technology.md) | National Institute of Standards and Technology. |
 | [5205\.](%C2%A7%2005205%20-%20National%20Science%20Foundation.md) | National Science Foundation. |
 | [5206\.](%C2%A7%2005206%20-%20National%20Aeronautics%20and%20Space%20Administration.md) | National Aeronautics and Space Administration. |
 | [5207\.](%C2%A7%2005207%20-%20Department%20of%20Defense.md) | Department of Defense. |
-| (a) | Focus of research. |
-| (b) | Additional activities. |
-| (c) | Defense Advanced Research Projects Agency. |
 | [5208\.](%C2%A7%2005208%20-%20International%20cooperation.md) | International cooperation. |
 | [5209\.](%C2%A7%2005209%20-%20Technology%20transfer.md) | Technology transfer. |
-| (a) | Promotion. |
-| (b) | Impediments to commercialization. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

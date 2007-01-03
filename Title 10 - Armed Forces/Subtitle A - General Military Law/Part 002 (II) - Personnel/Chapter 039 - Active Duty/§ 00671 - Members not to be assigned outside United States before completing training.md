@@ -6,7 +6,7 @@
 
 (c)(1) A period of basic training (or equivalent training) shorter than 12 weeks may be established by the Secretary concerned for members of the armed forces who have been credentialed in a medical profession or occupation and are serving in a health-care occupational specialty, as determined under regulations prescribed under paragraph (2). Any such period shall be established under regulations prescribed under paragraph (2) and may be established notwithstanding section 4(a) of the Military Selective Service Act (50 U.S.C. App. 454(a)).
 
-(2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations for the purposes of paragraph (1). The regulations prescribed by the Secretary of Defense shall apply uniformly to the military departments.
+(2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations for the purposes of paragraph (1). The regulationsprescribed by the Secretary of Defense shall apply uniformly to the military departments.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 94–106, title VIII, §802(b), Oct. 7, 1975, 89 Stat. 537; Pub. L. 99–661, div. A, title V, §501, Nov. 14, 1986, 100 Stat. 3863; Pub. L. 103–160, div. A, title V, §511, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 

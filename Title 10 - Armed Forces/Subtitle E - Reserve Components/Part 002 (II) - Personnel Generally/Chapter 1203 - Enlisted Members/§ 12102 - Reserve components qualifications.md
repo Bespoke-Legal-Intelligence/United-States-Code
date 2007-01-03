@@ -46,13 +46,13 @@ In subsection (a), the last sentence is inserted to reflect sections 3261 and 82
 
 In subsection (b), the word “However” is substituted for the words “Subject to the limitation that”. The words “as Reserves in the armed forces under his jurisdiction” are substituted for the words “of Reserve members of the Armed Forces of the United States”. The words “its Territories” are omitted as surplusage, since citizens of the Territories are citizens of the United States.
 
-In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “inwhich she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
+In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
 
 In subsection (d), the words “under the jurisdiction of that Secretary” are inserted for clarity. The words “general or special” are omitted as surplusage.
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163,as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
 

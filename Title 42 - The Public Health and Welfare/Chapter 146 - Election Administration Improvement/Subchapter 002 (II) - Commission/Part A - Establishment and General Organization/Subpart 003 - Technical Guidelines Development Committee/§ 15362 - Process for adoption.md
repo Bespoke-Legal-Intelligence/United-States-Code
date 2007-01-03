@@ -38,7 +38,7 @@ Upon receipt of voluntary voting system guidelines described in subsection (b) o
 
 #### (2) Minimum period for consideration of comments and recommendations
 
-&emsp;The Commission may not vote on the final adoption of a guideline described in subsection (b) of this section (or modification of such aguideline) until the expiration of the 90-day period which begins on the date the Executive Director of the Commission submits the proposed guideline (or modification) to the Board of Advisors and the Standards Board under subsection (b) of this section.
+&emsp;The Commission may not vote on the final adoption of a guideline described in subsection (b) of this section (or modification of such a guideline) until the expiration of the 90-day period which begins on the date the Executive Director of the Commission submits the proposed guideline (or modification) to the Board of Advisors and the Standards Board under subsection (b) of this section.
 
 #### (e) Special rule for initial set of guidelines
 

@@ -58,7 +58,7 @@
 
 #### (A) Basic (and additional) benefits
 
-&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title, the amount of the Medicare+Choice monthly MSA premium.
+&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title, the amount ofthe Medicare+Choice monthly MSA premium.
 
 #### (B) Supplemental benefits
 
@@ -66,7 +66,7 @@
 
 #### (4) Requirements for private fee-for-service plans before 2006
 
-&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefitsdescribed in section 1395w–22(a)(1)(A) of this title for a year before 2006, the information described in this paragraph is as follows:
+&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefits described in section 1395w–22(a)(1)(A) of this title for a year before 2006, the information described in this paragraph is as follows:
 
 #### (A) Basic (and additional) benefits
 
@@ -126,7 +126,7 @@
 
 #### (ii) Application of FEHBP standard
 
-&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary may only accept such a bid amount or proportion if the Secretary determines that such amount and proportions are supported by the actuarial bases provided under subparagraph (A) and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8) of this title) of benefits provided under that plan.
+&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary may only accept such a bid amount or proportion if the Secretary determines that such amount and proportions are supported by the actuarial bases provided under subparagraph (A) and reasonably and equitably reflects the revenue requirements (asused for purposes of section 300e–1(8) of this title) of benefits provided under that plan.
 
 #### (iii) Noninterference
 
@@ -196,11 +196,11 @@
 
 #### (C) MA monthly supplemental beneficiary premium
 
-&emsp;&emsp;The term “MA monthly supplemental beneficiary premium” means, with respect to an MA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.
+&emsp;&emsp;The term “MA monthly supplemental beneficiary premium” means, with respect to anMA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.
 
 #### (D) Medicare+Choice monthly MSA premium
 
-&emsp;&emsp;The term “Medicare+Choice monthly MSA premium” means, with respect to aMedicare+Choice plan, the amount of such premium filed under subsection (a)(3)(A) of this section for the plan.
+&emsp;&emsp;The term “Medicare+Choice monthly MSA premium” means, with respect to a Medicare+Choice plan, the amount of such premium filed under subsection (a)(3)(A) of this section for the plan.
 
 #### (E) Unadjusted MA statutory non-drug monthly bid amount
 
@@ -334,7 +334,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (4) Special rule for private fee-for-service plans and for basic benefits beginning in 2006
 
-&emsp;With respect to a Medicare+Choice private fee-for-service plan (other than a plan that isan MSA plan) and for periods beginning with 2006, with respect to an MA plan described in section 1395w–21(a)(2)(A) of this title, in no event may—
+&emsp;With respect to a Medicare+Choice private fee-for-service plan (other than a plan that is an MSA plan) and for periods beginning with 2006, with respect to an MA plan described in section 1395w–21(a)(2)(A) of this title, in no event may—
 
 &emsp;&emsp;(A) the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with such a plan of an organization with respect to benefits under the original medicare fee-for-service program option, exceed
 

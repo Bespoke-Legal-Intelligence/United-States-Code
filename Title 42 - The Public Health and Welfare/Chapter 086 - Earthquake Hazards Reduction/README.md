@@ -6,38 +6,16 @@
 | [7702\.](%C2%A7%2007702%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [7703\.](%C2%A7%2007703%20-%20Definitions.md) | Definitions. |
 | [7704\.](%C2%A7%2007704%20-%20National%20Earthquake%20Hazards%20Reduction%20Program.md) | National Earthquake Hazards Reduction Program. |
-| (a) | Establishment. |
-| (b) | Responsibilities of Program agencies. |
-| (c) | Budget coordination. |
 | [7704a.](%C2%A7%2007704a%20-%20Report%20on%20seismic%20safety%20property%20standards.md) | Report on seismic safety property standards. |
-| (a) | Authority. |
-| (b) | Standards. |
-| (c) | Consultation. |
 | 7705, 7705a. Repealed. |  |
 | [7705b.](%C2%A7%2007705b%20-%20Seismic%20standards.md) | Seismic standards. |
-| (a) | Buildings. |
-| (b) | Lifelines. |
 | [7705c.](%C2%A7%2007705c%20-%20Acceptance%20of%20gifts.md) | Acceptance of gifts. |
-| (a) | Authority. |
-| (b) | Criteria. |
 | [7705d.](%C2%A7%2007705d%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93503%2C%20title%20II%2C%20%C2%A7203%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202305.md) | Repealed. |
 | [7705e.](%C2%A7%2007705e%20-%20Post-earthquake%20investigations%20program.md) | Post-earthquake investigations program. |
 | [7706\.](%C2%A7%2007706%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | General authorization for program. |
-| (b) | United States Geological Survey. |
-| (c) | National Science Foundation. |
-| (d) | National Institute of Standards and Technology. |
 | [7707\.](%C2%A7%2007707%20-%20Advanced%20National%20Seismic%20Research%20and%20Monitoring%20System.md) | Advanced National Seismic Research and Monitoring System. |
-| (a) | Establishment. |
-| (b) | Management plan. |
 | [7708\.](%C2%A7%2007708%20-%20Network%20for%20Earthquake%20Engineering%20Simulation.md) | Network for Earthquake Engineering Simulation. |
-| (a) | Establishment. |
-| (b) | Authorization of appropriations. |
 | [7709\.](%C2%A7%2007709%20-%20Scientific%20Earthquake%20Studies%20Advisory%20Committee.md) | Scientific Earthquake Studies Advisory Committee. |
-| (a) | Establishment. |
-| (b) | Organization. |
-| (c) | Meetings. |
-| (d) | Duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

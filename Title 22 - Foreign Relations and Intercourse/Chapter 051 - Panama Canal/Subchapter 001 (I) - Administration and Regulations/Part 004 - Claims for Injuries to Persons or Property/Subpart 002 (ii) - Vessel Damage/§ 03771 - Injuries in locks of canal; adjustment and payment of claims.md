@@ -34,7 +34,7 @@ Future Applicability.—
 
 &emsp;“(1)
 
-Sections 3 and 6.—The amendments made by sections 3 \[amending section 3774 of this title\] and 6 \[enacting section 3779 of this title\] of this Act shall apply to any claim arising on or after the date of the enactment of this Act \[Dec. 23, 1985\].
+Sections 3 and 6.—The amendments made by sections 3 \[amending section 3774 of this title\] and 6 \[enacting section 3779 of this title\] of this Act shallapply to any claim arising on or after the date of the enactment of this Act \[Dec. 23, 1985\].
 
 &emsp;“(2)
 

@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), all the resources held by either the institutionalized spouse, community spouse, or both, shall be considered to be available to the institutionalized spouse, and
 
-&emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of suchresources exceeds the amount computed under subsection (f)(2)(A) of this section (as of the time of application for benefits).
+&emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds the amount computed under subsection (f)(2)(A) of this section (as of the time of application for benefits).
 
 #### (3) Assignment of support rights
 
@@ -176,13 +176,17 @@
 
 &emsp;&emsp;(A) the spouse's expenses for rent or mortgage payment (including principal and interest), taxes and insurance and, in the case of a condominium or cooperative, required maintenance charge, for the community spouse's principal residence, and
 
-&emsp;&emsp;(B) the standard utility allowance (used by the State under section 2014(e) of title 7) or, if the State does not use such an allowance, the spouse's actual utility expenses,
+&emsp;&emsp;(B) the standard utility allowance (used by the State under section 2014(e) of title 7) or,if the State does not use such an allowance, the spouse's actual utility expenses,
 
 > &emsp;exceeds 30 percent of the amount described in paragraph (3)(A)(i), except that, in the case of a condominium or cooperative, for which a maintenance charge is included under subparagraph (A), any allowance under subparagraph (B) shall be reduced to the extent the maintenance charge includes utility expenses.
 
 #### (5) Court ordered support
 
 &emsp;If a court has entered an order against an institutionalized spouse for monthly income for the support of the community spouse, the community spouse monthly income allowance for the spouse shall be not less than the amount of the monthly income so ordered.
+
+#### (6) Application of “income first” rule to revision of community spouse resource allowance
+
+&emsp;For purposes of this subsection and subsections (c) and (e), a State must consider that all income of the institutionalized spouse that could be made available to a community spouse, in accordance with the calculation of the community spouse monthly income allowance under this subsection, has been made available before the State allocates to the community spouse an amount of resources adequate to provide the difference between the minimum monthly maintenance needs allowance and all income available to the community spouse.
 
 #### (e) Notice and fair hearing
 
@@ -248,7 +252,7 @@
 
 #### (3) Transfers under court orders
 
-&emsp;If a court has entered an order against an institutionalized spouse for the support of thecommunity spouse, section 1396p of this title shall not apply to amounts of resources transferred pursuant to such order for the support of the spouse or a family member (as defined in subsection (d)(1) of this section).
+&emsp;If a court has entered an order against an institutionalized spouse for the support of the community spouse, section 1396p of this title shall not apply to amounts of resources transferred pursuant to such order for the support of the spouse or a family member (as defined in subsection (d)(1) of this section).
 
 #### (g) Indexing dollar amounts
 
@@ -268,13 +272,15 @@ In this section:
 
 &emsp;(2) The term “community spouse” means the spouse of an institutionalized spouse.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548.)
+(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64.)
 
 #### Prior Provisions
 
-A prior section 1924 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
+A prior section 1924 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2006—Subsec. (d)(6). Pub. L. 109–171 added par. (6).
 
 1997—Subsec. (a)(5). Pub. L. 105–33, in heading substituted “under PACE programs” for “from organizations receiving certain waivers” and in text substituted “under a PACE demonstration waiver program (as defined in section 1396u–4(a)(7) of this title) or under a PACE program under section 1396u–4 or 1395eee of this title.” for “from any organization receiving a frail elderly demonstration project waiver under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 or a waiver under section 603(c) of the Social Security Amendments of 1983.”
 
@@ -307,6 +313,10 @@ Subsec. (e)(2)(A). Pub. L. 100–485, §608(d)(16)(A)(v), inserted “if an appl
 Subsec. (f)(1). Pub. L. 100–485, §608(d)(16)(A)(vi), substituted “transfer an amount” for “transfer to the community spouse (or to another for the sole benefit of the community spouse) an amount” and “as soon as practicable” for “as soon as pacticable”.
 
 Subsec. (f)(3). Pub. L. 100–485, §608(d)(16)(A)(vii), substituted “spouse or a family member” for “spouse of a family member”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title VI, §6013(b), Feb. 8, 2006, 120 Stat. 64, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers and allocations made on or after the date of the enactment of this Act \[Feb. 8, 2006\] by individuals who become institutionalized spouses on or after such date.”
 
 #### Effective Date of 1994 Amendment
 

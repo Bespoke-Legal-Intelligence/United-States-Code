@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;During each of the 2002 through 2007 fiscal years, the Secretary shall provide cost-share payments and incentive payments to producers that enter into contracts with the Secretary under the program.
+&emsp;During each of the 2002 through 2010 fiscal years, the Secretary shall provide cost-share payments and incentive payments to producers that enter into contracts with the Secretary under the program.
 
 #### (2) Eligible practices
 
@@ -84,13 +84,15 @@ For each of fiscal years 2002 through 2007, 60 percent of the funds made availab
 
 The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers as defined under this subchapter will not be exceeded by any Tribal or Native Corporation member.
 
-(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852.)
+(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(a), Feb. 8, 2006, 120 Stat. 6.)
 
 #### Prior Provisions
 
 A prior section 3839aa–2, Pub. L. 99–198, title XII, §1240B, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 998, related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–171 substituted “2010” for “2007”.
 
 2004—Subsec. (h). Pub. L. 108–447 added subsec. (h).
 

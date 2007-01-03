@@ -52,7 +52,7 @@ The term of an obligation shall require full repayment over a period not to exce
 
 #### (B) Payment required
 
-&emsp;&emsp;Within such period as may be specified in the guarantee or related agreements, the Secretary shall pay to the holder of the guarantee the unpaid interest on, and unpaid principal of the obligation as to which the borrower has defaulted, unless the Secretary finds that there was no default by the borrower in the payment of interest or principal or that the default has been remedied.
+&emsp;&emsp;Within such period as may be specified in the guarantee or related agreements, theSecretary shall pay to the holder of the guarantee the unpaid interest on, and unpaid principal of the obligation as to which the borrower has defaulted, unless the Secretary finds that there was no default by the borrower in the payment of interest or principal or that the default has been remedied.
 
 #### (C) Forbearance
 

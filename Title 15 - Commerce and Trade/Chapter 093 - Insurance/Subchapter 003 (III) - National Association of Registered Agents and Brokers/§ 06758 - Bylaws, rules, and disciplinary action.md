@@ -58,7 +58,7 @@
 
 #### (B) Disposition of proposal
 
-&emsp;&emsp;At the conclusion of any proceeding under subparagraph (A), the NAIC shall, by order,approve or disapprove the proposed rule or amendment.
+&emsp;&emsp;At the conclusion of any proceeding under subparagraph (A), the NAIC shall, by order, approve or disapprove the proposed rule or amendment.
 
 #### (C) Extension of time for consideration
 

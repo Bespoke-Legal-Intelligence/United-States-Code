@@ -34,7 +34,3 @@ Section 5104(d) is a new provision that requires that a vessel comply with all t
 
 Section 5104(e) is a new provision that authorized the Secretary to designate specific geographic areas having relatively non-severe weather or sea conditions and from which there is adequate time to return to safe harbors. Section 5104(e) also authorizes the Secretary to reduce the minimum freeboard of vessels operating in these areas. Regulations that have been issued under this authority (46 C.F.R. 44) authorize special service load lines for vessels operating not more than 20 nautical miles offshore or between islands in a group.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5110 of this title.
-

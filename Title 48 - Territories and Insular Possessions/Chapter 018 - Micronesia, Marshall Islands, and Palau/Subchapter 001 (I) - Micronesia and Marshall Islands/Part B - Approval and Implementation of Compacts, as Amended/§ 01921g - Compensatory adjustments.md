@@ -14,7 +14,7 @@ In addition to the programs and services set forth in section 221 of the U.S.-FS
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle C of title I of the Act is classified generally to subchapter III (§2881 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle C of title I of the Act is classifiedgenerally to subchapter III (§2881 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (b)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. Title IV of the joint resolution is set out as a note under section 1901 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 

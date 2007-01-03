@@ -66,11 +66,15 @@ Not later than 1 year after October 25, 2004, the Interagency Working Group shal
 
 #### (f) Biennial report
 
-The Interagency Working Group shall, on a biennial basis, and not later than 180 days afterthe end of the preceding 2 fiscal years, transmit a report to the Congress describing the status of the windstorm impact reduction program, including progress achieved during the preceding two fiscal years. Each such report shall include any recommendations for legislative and other action the Interagency Working Group considers necessary and appropriate. In developing the biennial report, the Interagency Working Group shall consider the recommendations of the Advisory Committee established under section 15704 of this title.
+The Interagency Working Group shall, on a biennial basis, and not later than 180 days after the end of the preceding 2 fiscal years, transmit a report to the Congress describing the status of the windstorm impact reduction program, including progress achieved during the preceding two fiscal years. Each such report shall include any recommendations for legislative and other action the Interagency Working Group considers necessary and appropriate. In developing the biennial report, the Interagency Working Group shall consider the recommendations of the Advisory Committee established under section 15704 of this title.
 
 (Pub. L. 108–360, title II, §204, Oct. 25, 2004, 118 Stat. 1676.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1), was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 15701 of this title and Tables.
+
+#### Transfer of Functions
+
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

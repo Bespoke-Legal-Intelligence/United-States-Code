@@ -1,58 +1,50 @@
 ### §247d–6. Public health countermeasures to a bioterrorist attack
 
-#### (a) Working group on bioterrorism and other public health emergencies
+#### (a) All-hazards public health and medical response curricula and training
 
 #### (1) In general
 
-&emsp;The Secretary, in coordination with the Secretary of Agriculture, the Attorney General, the Director of Central Intelligence, the Secretary of Defense, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, the Secretary of Homeland Security, the Secretary of Labor, the Secretary of Veterans Affairs, and with other similar Federal officials as determined appropriate, shall establish a working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies. Such joint working group, or subcommittees thereof, shall meet periodically for the purpose of consultation on, assisting in, and making recommendations on—
+&emsp;The Secretary, in collaboration with the Secretary of Defense, and in consultation with relevant public and private entities, shall develop core health and medical response curricula and trainings by adapting applicable existing curricula and training programs to improve responses to public health emergencies.
 
-&emsp;&emsp;(A) responding to a bioterrorist attack, including the provision of appropriate safety and health training and protective measures for medical, emergency service, and other personnel responding to such attacks;
+#### (2) Curriculum
 
-&emsp;&emsp;(B) prioritizing countermeasures required to treat, prevent, or identify exposure to a biological agent or toxin pursuant to section 262a of this title;
+&emsp;The public health and medical response training program may include course work related to—
 
-&emsp;&emsp;(C) facilitation of the awarding of grants, contracts, or cooperative agreements for the development, manufacture, distribution, supply-chain management, and purchase of priority countermeasures;
+&emsp;&emsp;(A) medical management of casualties, taking into account the needs of at-risk individuals;
 
-&emsp;&emsp;(D) research on pathogens likely to be used in a biological threat or attack on the civilian population;
+&emsp;&emsp;(B) public health aspects of public health emergencies;
 
-&emsp;&emsp;(E) development of shared standards for equipment to detect and to protect against biological agents and toxins;
+&emsp;&emsp;(C) mental health aspects of public health emergencies;
 
-&emsp;&emsp;(F) assessment of the priorities for and enhancement of the preparedness of public health institutions, providers of medical care, and other emergency service personnel (including firefighters) to detect, diagnose, and respond (including mental health response) to a biological threat or attack;
+&emsp;&emsp;(D) national incident management, including coordination among Federal, State, local, tribal, international agencies, and other entities; and
 
-&emsp;&emsp;(G) in the recognition that medical and public health professionals are likely to provide much of the first response to such anattack, development and enhancement of the quality of joint planning and training programs that address the public health and medical consequences of a biological threat or attack on the civilian population between—
+&emsp;&emsp;(E) protecting health care workers and health care first responders from workplace exposures during a public health emergency.
 
-&emsp;&emsp;&emsp;(i) local firefighters, ambulance personnel, police and public security officers, or other emergency response personnel (including private response contractors); and
+#### (3) Peer review
 
-&emsp;&emsp;&emsp;(ii) hospitals, primary care facilities, and public health agencies;
+&emsp;On a periodic basis, products prepared as part of the program shall be rigorously tested and peer-reviewed by experts in the relevant fields.
 
-&emsp;&emsp;(H) development of strategies for Federal, State, and local agencies to communicate information to the public regarding biological threats or attacks;
+#### (4) Credit
 
-&emsp;&emsp;(I) ensuring that the activities under this subsection address the health security needs of children and other vulnerable populations;
+&emsp;The Secretary and the Secretary of Defense shall—
 
-&emsp;&emsp;(J) strategies for decontaminating facilities contaminated as a result of a biological attack, including appropriate protections for the safety of workers conducting such activities;
+&emsp;&emsp;(A) take into account continuing professional education requirements of public health and healthcare professions; and
 
-&emsp;&emsp;(K) subject to compliance with other provisions of Federal law, clarifying the responsibilities among Federal officials for the investigation of suspicious outbreaks of disease and other potential public health emergencies, and for related revisions of the interagency plan known as the Federal response plan; and
+&emsp;&emsp;(B) cooperate with State, local, and tribal accrediting agencies and with professional associations in arranging for students enrolled in the program to obtain continuing professional education credit for program courses.
 
-&emsp;&emsp;(L) in consultation with the National Highway Traffic Safety Administration and the U.S. Fire Administration, ways to enhance coordination among Federal agencies involved with State, local, and community based emergency medical services, including issuing a report that—
+#### (5) Dissemination and training
 
-&emsp;&emsp;&emsp;(i) identifies needs of community-based emergency medical services; and
+#### (A) In general
 
-&emsp;&emsp;&emsp;(ii) identifies ways to streamline and enhance the process through which Federal agencies support community-based emergency medical services.
+&emsp;&emsp;The Secretary may provide for the dissemination and teaching of the materials described in paragraphs (1) and (2) by appropriate means, as determined by the Secretary.
 
-#### (2) Consultation with experts
+#### (B) Certain entities
 
-&emsp;In carrying out subparagraphs (B) and (C) of paragraph (1), the working group under such paragraph shall consult with the pharmaceutical, biotechnology, and medical device industries, and other appropriate experts.
+&emsp;&emsp;The education and training activities described in subparagraph (A) may be carried out by Federal public health or medical entities, appropriate educational entities, professional organizations and societies, private accrediting organizations, and other nonprofit institutions or entities meeting criteria established by the Secretary.
 
-#### (3) Use of subcommittees regarding consultation requirements
+#### (C) Grants and contracts
 
-&emsp;With respect to a requirement under law that the working group under paragraph (1) be consulted on a matter, the working group may designate an appropriate subcommittee of the working group to engage in the consultation.
-
-#### (4) Discretion in exercise of duties
-
-&emsp;Determinations made by the working group under paragraph (1) with respect to carrying out duties under such paragraph are matters committed to agency discretion for purposes of section 701(a) of title 5.
-
-#### (5) Rule of construction
-
-&emsp;This subsection may not be construed as establishing new regulatory authority for any of the officials specified in paragraph (1), or as having any legal effect on any other provision of law, including the responsibilities and authorities of the Environmental Protection Agency.
+&emsp;&emsp;In carrying out this subsection, the Secretary may carry out activities directly or through the award of grants and contracts, and may enter into interagency agreements with other Federal agencies.
 
 #### (b) Advice to the Federal Government
 
@@ -60,29 +52,29 @@
 
 &emsp;In coordination with the working group under subsection (a) of this section, the Secretary shall establish advisory committees in accordance with paragraphs (2) and (3) to provide expert recommendations to assist such working groups in carrying out their respective responsibilities under subsections (a) and (b) of this section.
 
-#### (2) National Advisory Committee on Children and Terrorism
+#### (2) National Advisory Committee on At-Risk Individuals and Public Health Emergencies
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the Secretary shall establish an advisory committee to be known as the National Advisory Committee on Children and Terrorism (referred to in this paragraph as the “Advisory Committee”).
+&emsp;&emsp;For purposes of paragraph (1), the Secretary shall establish an advisory committee to be known as the National Advisory Committee on At-Risk Individuals and Public Health Emergencies (referred to in this paragraph as the “Advisory Committee”).
 
 #### (B) Duties
 
 &emsp;&emsp;The Advisory Committee shall provide recommendations regarding—
 
-&emsp;&emsp;&emsp;(i) the preparedness of the health care (including mental health care) system to respond to bioterrorism as it relates to children;
+&emsp;&emsp;&emsp;(i) the preparedness of the health care (including mental health care) system torespond to public health emergencies as they relate to at-risk individuals;
 
-&emsp;&emsp;&emsp;(ii) needed changes to the health care and emergency medical service systems and emergency medical services protocols to meet the special needs of children; and
+&emsp;&emsp;&emsp;(ii) needed changes to the health care and emergency medical service systems and emergency medical services protocols to meet the special needs of at-risk individuals; and
 
-&emsp;&emsp;&emsp;(iii) changes, if necessary, to the national stockpile under section 300hh–12 of this title to meet the emergency health security of children.
+&emsp;&emsp;&emsp;(iii) changes, if necessary, to the national stockpile under section 300hh–12 of this title to meet the emergency health security of at-risk individuals.
 
 #### (C) Composition
 
-&emsp;&emsp;The Advisory Committee shall be composed of such Federal officials as may be appropriate to address the special needs of the diverse population groups of children, and child health experts on infectious disease, environmental health, toxicology, and other relevant professional disciplines.
+&emsp;&emsp;The Advisory Committee shall be composed of such Federal officials as may be appropriate to address the special needs of the diverse population groups of at-risk populations.
 
 #### (D) Termination
 
-&emsp;&emsp;The Advisory Committee terminates one year after June 12, 2002.
+&emsp;&emsp;The Advisory Committee terminates six years after June 12, 2002.
 
 #### (3) Emergency Public Information and Communications Advisory Committee
 
@@ -92,7 +84,7 @@
 
 #### (B) Duties
 
-&emsp;&emsp;The EPIC Advisory Committee shall make recommendations to the Secretary and the working group under subsection (a) of this section and report on appropriate ways to communicate public health information regarding bioterrorism and other public health emergencies to the public.
+&emsp;&emsp;The EPIC Advisory Committee shall make recommendations to the Secretary and report on appropriate ways to communicate public health information regarding bioterrorism and other public health emergencies to the public.
 
 #### (C) Composition
 
@@ -106,79 +98,49 @@
 
 &emsp;&emsp;The EPIC Advisory Committee terminates one year after June 12, 2002.
 
-#### (c) Strategy for communication of information regarding bioterrorism and other public health emergencies
+#### (c) Expansion of Epidemic Intelligence Service Program
 
-In coordination with working group under subsection (a) of this section, the Secretary shall develop a strategy for effectively communicating information regarding bioterrorism and other public health emergencies, and shall develop means by which to communicate such information. The Secretary may carry out the preceding sentence directly or through grants, contracts, or cooperative agreements.
+The Secretary may establish 20 officer positions in the Epidemic Intelligence Service Program, in addition to the number of the officer positions offered under such Program in 2006, for individuals who agree to participate, for a period of not less than 2 years, in the Career Epidemiology Field Officer program in a State, local, or tribal health department that serves a health professional shortage area (as defined under section 254e(a) of this title), a medically underserved population (as defined under section 254b(b)(3) of this title), or a medically underserved area or area at high risk of a public health emergency as designated by the Secretary.
 
-#### (d) Recommendation of Congress regarding official Federal Internet site on bioterrorism
-
-It is the recommendation of Congress that there should be established an official Federal Internet site on bioterrorism, either directly or through provision of a grant to an entity that has expertise in bioterrorism and the development of websites, that should include information relevant to diverse populations (including messages directed at the general public and such relevant groups as medical personnel, public safety workers, and agricultural workers) and links to appropriate State and local government sites.
-
-#### (e) Grants
+#### (d) Centers for Public Health Preparedness; core curricula and training
 
 #### (1) In general
 
-&emsp;The Secretary, in coordination with the working group established under subsection (b) of this section, shall, on a competitive basis and following scientific or technical review, award grants to or enter into cooperative agreements with eligible entities to enable such entities to increase their capacity to detect, diagnose, and respond to acts of bioterrorism upon the civilian population.
+&emsp;The Secretary may establish at accredited schools of public health, Centers for Public Health Preparedness (hereafter referred to in this section as the “Centers”).
 
 #### (2) Eligibility
 
-&emsp;To be an eligible entity under this subsection, such entity must be a State, political subdivision of a State, a consortium of two or more States or political subdivisions of States, or a hospital, clinic, primary care facility, professional organization or society, school or program that trains medical laboratory personnel, private accrediting organization, or other nonprofit private institution or entity meeting criteria established by the Secretary.
+&emsp;To be eligible to receive an award under this subsection to establish a Center, an accredited school of public health shall agree to conduct activities consistent with the requirements of this subsection.
 
-#### (3) Use of funds
+#### (3) Core curricula
 
-&emsp;An entity that receives a grant under this subsection shall use such funds for activities that are consistent with the priorities identified by the working group under subsection (b) of this section, including—
+&emsp;The Secretary, in collaboration with the Centers and other public or private entities shall establish core curricula based on established competencies leading to a 4-year bachelor's degree, a graduate degree, a combined bachelor and master's degree, or a certificate program, for use by each Center. The Secretary shall disseminate such curricula to other accredited schools of public health and other health professions schools determined appropriate by the Secretary, for voluntary use by such schools.
 
-&emsp;&emsp;(A) training health care professionals and public health personnel to enhance the ability of such personnel to recognize the symptoms and epidemiological characteristics of exposure to a potential bioweapon;
+#### (4) Core competency-based training program
 
-&emsp;&emsp;(B) addressing rapid and accurate identification of potential bioweapons;
+&emsp;The Secretary, in collaboration with the Centers and other public or private entities shall facilitate the development of a competency-based training program to train public health practitioners. The Centers shall use such training program to train public health practitioners. The Secretary shall disseminate such training program to other accredited schools of public health, health professions schools, and other public or private entities as determined by the Secretary, for voluntary use by such entities.
 
-&emsp;&emsp;(C) coordinating medical care for individuals exposed to bioweapons; and
+#### (5) Content of core curricula and training program
 
-&emsp;&emsp;(D) facilitating and coordinating rapid communication of data generated from a bioterrorist attack between national, State, and local health agencies, and health care providers.
+&emsp;The Secretary shall ensure that the core curricula and training program established pursuant to this subsection respond to the needs of State, local, and tribal public health authorities and integrate and emphasize essential public health security capabilities consistent with section 300hh–1(b)(2) of this title.
 
-#### (4) Coordination
+#### (6) Academic-workforce communication
 
-&emsp;The Secretary, in awarding grants under this subsection, shall—
+&emsp;As a condition of receiving funding from the Secretary under this subsection, a Center shall collaborate with a State, local, or tribal public health department to—
 
-&emsp;&emsp;(A) notify the Director of the Office of Justice Programs, and the Director of the National Domestic Preparedness Office annually as to the amount and status of grants awarded under this subsection; and
+&emsp;&emsp;(A) define the public health preparedness and response needs of the community involved;
 
-&emsp;&emsp;(B) coordinate grants awarded under this subsection with grants awarded by the Office of Emergency Preparedness and the Centers for Disease Control and Prevention for the purpose of improving the capacity of health care providers and public health agencies to respond to bioterrorist attacks on the civilian population.
+&emsp;&emsp;(B) assess the extent to which such needs are fulfilled by existing preparedness and response activities of such school or health department, and how such activities may be improved;
 
-#### (5) Activities
+&emsp;&emsp;(C) prior to developing new materials or trainings, evaluate and utilize relevant materials and trainings developed by others Centers; and
 
-&emsp;An entity that receives a grant under this subsection shall, to the greatest extent practicable, coordinate activities carried out with such funds with the activities of a local Metropolitan Medical Response System.
+&emsp;&emsp;(D) evaluate community impact and the effectiveness of any newly developed materials or trainings.
 
-#### (f) Federal assistance
+#### (7) Public health systems research
 
-The Secretary shall ensure that the Department of Health and Human Services is able to provide such assistance as may be needed to State and local health agencies to enable such agencies to respond effectively to bioterrorist attacks.
+&emsp;In consultation with relevant public and private entities, the Secretary shall define the existing knowledge base for public health preparedness and response systems, and establish a research agenda based on Federal, State, local, and tribal public health preparedness priorities. As a condition of receiving funding from the Secretary under this subsection, a Center shall conduct public health systems research that is consistent with the agenda described under this paragraph.
 
-#### (g) Education; training regarding pediatric issues
-
-#### (1) Materials; core curriculum
-
-&emsp;The Secretary, in collaboration with members of the working group described in subsection (b) of this section, and professional organizations and societies, shall—
-
-&emsp;&emsp;(A) develop materials for teaching the elements of a core curriculum for the recognition and identification of potential bioweapons and other agents that may create a public health emergency, and for the care of victims of such emergencies, recognizing the special needs of children and other vulnerable populations, to public health officials, medical professionals, emergency physicians and other emergency department staff, laboratory personnel, and other personnel working in health care facilities (including poison control centers);
-
-&emsp;&emsp;(B) develop a core curriculum and materials for community-wide planning by State and local governments, hospitals and other health care facilities, emergency response units, and appropriate public and private sector entities to respond to a bioterrorist attack or other public health emergency;
-
-&emsp;&emsp;(C) develop materials for proficiency testing of laboratory and other public health personnel for the recognition and identification of potential bioweapons and other agents that may create a public health emergency; and
-
-&emsp;&emsp;(D) provide for dissemination and teaching of the materials described in subparagraphs (A) through (C) by appropriate means, which may include telemedicine, long-distance learning, or other such means.
-
-#### (2) Certain entities
-
-&emsp;The entities through which education and training activities described in paragraph (1) may be carried out include Public Health Preparedness Centers, the Public Health Service's Noble Training Center, the Emerging Infections Program, the Epidemic Intelligence Service, the Public Health Leadership Institute, multi-State, multi-institutional consortia, other appropriate educational entities, professional organizations and societies, private accrediting organizations, and other nonprofit institutions or entities meeting criteria established by the Secretary.
-
-#### (3) Grants and contracts
-
-&emsp;In carrying out paragraph (1), the Secretary may carry out activities directly and through the award of grants and contracts, and may enter into interagency cooperative agreements with other Federal agencies.
-
-#### (4) Health-related assistance for emergency response personnel training
-
-&emsp;The Secretary, in consultation with the Attorney General and the Director of the Federal Emergency Management Agency, may provide technical assistance with respect to health-related aspects of emergency response personnel training carried out by the Department of Justice and the Federal Emergency Management Agency.
-
-#### (h) Accelerated research and development on priority pathogens and countermeasures
+#### (e) Accelerated research and development on priority pathogens and countermeasures
 
 #### (1) In general
 
@@ -210,25 +172,49 @@ The Secretary shall ensure that the Department of Health and Human Services is a
 
 &emsp;&emsp;(B) a priority to treat, identify, or prevent conditions that may result in adverse health consequences or death and may be caused by the administering of a drug, biological product, device, vaccine, vaccine adjuvant, antiviral, or diagnostic test that is a priority under subparagraph (A).
 
-#### (i) General Accounting Office report
+#### (f) Authorization of appropriations
 
-Not later than 180 days after November 13, 2000, the Comptroller General shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report that describes—
+#### (1) Fiscal year 2007
 
-&emsp;(1) Federal activities primarily related to research on, preparedness for, and the management of the public health and medical consequences of a bioterrorist attack against the civilian population;
+&emsp;There are authorized to be appropriated to carry out this section for fiscal year 2007—
 
-&emsp;(2) the coordination of the activities described in paragraph (1);
+&emsp;&emsp;(A) to carry out subsection (a)—
 
-&emsp;(3) the amount of Federal funds authorized or appropriated for the activities described in paragraph (1); and
+&emsp;&emsp;&emsp;(i) $5,000,000 to carry out paragraphs (1) through (4); and
 
-&emsp;(4) the effectiveness of such efforts in preparing national, State, and local authorities to address the public health and medical consequences of a potential bioterrorist attack against the civilian population.
+&emsp;&emsp;&emsp;(ii) $7,000,000 to carry out paragraph (5);
 
-#### (j) Supplement not supplant
+&emsp;&emsp;(B) to carry out subsection (c), $3,000,000; and
 
-Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
+&emsp;&emsp;(C) to carry out subsection (d), $31,000,000, of which $5,000,000 shall be used to carry out paragraphs (3) through (5) of such subsection.
 
-(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116 Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842.)
+#### (2) Subsequent fiscal years
+
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2008 and each subsequent fiscal year.
+
+(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116 Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title III, §§301(d), (e), 304, Dec. 19, 2006, 120 Stat. 2854, 2855, 2859.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–417, §304(1), added subsec. (a) and struck out heading and text of former subsec. (a) which established a working group on bioterrorism and other public health emergencies.
+
+Subsec. (b)(2). Pub. L. 109–417, §301(d)(1), substituted “At-Risk Individuals and Public Health Emergencies” for “Children and Terrorism” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 109–417, §301(d)(2), substituted “At-Risk Individuals and Public Health Emergencies” for “Children and Terrorism”.
+
+Subsec. (b)(2)(B)(i). Pub. L. 109–417, §301(d)(3)(A), substituted “public health emergencies as they relate to at-risk individuals” for “bioterrorism as it relates to children”.
+
+Subsec. (b)(2)(B)(ii), (iii). Pub. L. 109–417, §301(d)(3)(B), (C), substituted “at-risk individuals” for “children”.
+
+Subsec. (b)(2)(C). Pub. L. 109–417, §301(d)(4), substituted “at-risk populations” for “children, and child health experts on infectious disease, environmental health, toxicology, and other relevant professional disciplines”.
+
+Subsec. (b)(2)(D). Pub. L. 109–417, §301(d)(5), substituted “six years” for “one year”.
+
+Subsec. (b)(3)(B). Pub. L. 109–417, §301(e), struck out “and the working group under subsection (a) of this section” after “Secretary”.
+
+Subsecs. (c) to (h). Pub. L. 109–417, §304(2)–(4), added subsecs. (c), (d), and (f), redesignated subsec. (h) as (e), and struck out former subsecs. (c) to (g), which related to: in subsec. (c), development of communication strategy; in subsec. (d), Federal Internet site on bioterrorism; in subsec. (e), grants to increase capacity to detect, diagnose, and respond to acts of bioterrorism; in subsec. (f), assistance to State and local health agencies to enable effective response to attacks; and, in subsec. (g), education and training activities.
+
+Subsecs. (i), (j). Pub. L. 109–417, §304(5), struck out subsecs. (i) and (j) which related to report to congressional committees on public health and medical consequences of a bioterrorist attack and the supplementary nature of funds appropriated under this section, respectively.
 
 2004—Subsec. (a)(1). Pub. L. 108–276, §2(d)(1), inserted “the Secretary of Homeland Security,” after “Management Agency,” in introductory provisions.
 
@@ -277,22 +263,6 @@ Pub. L. 107–188, §104(a)(2), redesignated subsec. (f) as (h). Former subsec. 
 Subsec. (i). Pub. L. 107–188, §104(a)(1), (2), redesignated subsec. (g) as (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $215,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006.”
 
 Subsec. (j). Pub. L. 107–188, §104(a)(2), redesignated subsec. (h) as (j).
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
-
-General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-For transfer of functions, personnel, assets, and liabilities of the National Domestic Preparedness Office of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-For transfer of functions, personnel, assets, and liabilities of the Office of Emergency Preparedness of the Department of Health and Human Services, including the functions of the Secretary of Health and HumanServices and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Other Reports
 

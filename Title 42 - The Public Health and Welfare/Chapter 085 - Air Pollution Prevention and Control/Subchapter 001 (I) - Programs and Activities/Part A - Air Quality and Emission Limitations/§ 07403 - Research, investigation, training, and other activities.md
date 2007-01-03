@@ -280,31 +280,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Pilot Design Programs
 
-Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, provided that:
-
-“(a) The Administrator of the Environmental Protection Agency shall make a grant for the purpose of carrying out the first year of a 2-year program to implement in five metropolitan areas pilot design programs developed under section 365(a)(2) of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (113 Stat. 1028–1029).
-
-“(b) The Administrator shall ensure that each pilot design program is implemented in accordance with recommendations developed by the National Telecommuting and Air Quality Steering Committee, in consultation with the local design teams.
-
-“(c) Grants received under subsection (a) may be used for—
-
-&emsp;“(1) protocol development in the five metropolitan areas;
-
-&emsp;“(2) marketing of the telecommute, emissions reduction, pollution credits strategy and recruitment of participating employers; and
-
-&emsp;“(3) data gathering on emissions reductions.
-
-“(d) In addition to the grant under subsection (a), for the purpose of carrying out the second year of the 2-year program referred to in subsection (a), the Administrator shall—
-
-&emsp;“(1) make a grant of $750,000 to the National Environmental Policy Institute (a nonprofit private entity incorporated under the laws of and located in the District of Columbia); and
-
-&emsp;“(2) make grants totaling $1,250,000 to local agencies within the five metropolitan areas referred to in subsection (a).
-
-“(e) Not later than 360 days from first day of the second year of the 2-year program referred to in subsection (a), the Administrator shall transmit to Congress a report on the results of the program.
-
-“(f) The Administrator shall carry out this section in collaboration with the Secretary of Transportation.
-
-“(g) There is appropriated to the Department of Transportation, ‘Office of the Assistant Secretary for Policy’, $2,000,000 to carry out this section. Such amounts shall be transferred to and administered by the Environmental Protection Agency and shall remain available until expended: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for a specific dollar amount, that includes designation of the entire amount of the request as an emergency requirement as defined by such Act, is transmitted by the President to the Congress.”
+Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, required the Administrator of the Environmental Protection Agency to make grants to carry out a 2-year program to implement in five metropolitan areas pilot design programs and report to Congress on the results not later than 360 days from first day of the second year of the 2-year program.
 
 #### National Acid Lakes Registry
 
@@ -326,7 +302,7 @@ Section 901(g) of Pub. L. 101–549 provided that:
 
 &emsp;“(C) the occurrence and effects of episodic acidification, particularly with respect to high elevation watersheds.
 
-“(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate researchand utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
+“(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
 
 #### Consultation With Committee on Science of House of Representatives
 

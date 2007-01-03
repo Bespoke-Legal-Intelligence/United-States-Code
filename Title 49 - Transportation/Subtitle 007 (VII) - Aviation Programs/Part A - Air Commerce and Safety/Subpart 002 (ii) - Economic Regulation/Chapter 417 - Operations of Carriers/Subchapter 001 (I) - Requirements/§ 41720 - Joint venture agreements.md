@@ -6,7 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Joint venture agreement.—The term “joint venture agreement” means an agreement between two or more major air carriers on or after January 1, 1998, with regard to (A) code-sharing, blocked-space arrangements, long-term wet leases (as defined in section 207.1 of title 14, Code of Federal Regulations)of a substantial number (as defined by the Secretary by regulation) of aircraft, or frequent flyer programs, or (B) any other cooperative working arrangement (as defined by the Secretary by regulation) between 2 or more major air carriers that affects more than 15 percent of the total number of available seat miles offered by the major air carriers.
+Joint venture agreement.—The term “joint venture agreement” means an agreement between two or more major air carriers on or after January 1, 1998, with regard to (A) code-sharing, blocked-space arrangements, long-term wet leases (as defined in section 207.1 of title 14, Code of Federal Regulations) of a substantial number (as defined by the Secretary by regulation) of aircraft, or frequent flyer programs, or (B) any other cooperative working arrangement (as defined by the Secretary by regulation) between 2 or more major air carriers that affects more than 15 percent of the total number of available seat miles offered by the major air carriers.
 
 &emsp;(2)
 

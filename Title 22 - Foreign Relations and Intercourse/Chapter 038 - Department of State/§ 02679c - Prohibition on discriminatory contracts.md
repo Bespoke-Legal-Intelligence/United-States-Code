@@ -22,7 +22,7 @@ The Secretary of State may waive the requirements of this section on a country-b
 
 #### (c) Responses to contract solicitations
 
-(1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:
+(1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensurethat any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:
 
 “arab league boycott of israel
 

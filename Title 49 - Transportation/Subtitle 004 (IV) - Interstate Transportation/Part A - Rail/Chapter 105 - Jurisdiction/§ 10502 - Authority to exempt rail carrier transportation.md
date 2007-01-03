@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the application in whole or in part of the provision is not needed to protect shippers from the abuse of market power.
 
-(b) The Board may, where appropriate, begin a proceeding under this section on its own initiative or on application by the Secretary of Transportation or an interested party. The Board shall, within 90 days after receipt of any such application, determine whether to begin an appropriate proceeding. If the Board decides not to begin a class exemption proceeding, the reasonsfor the decision shall be published in the Federal Register. Any proceeding begun as a result of an application under this subsection shall be completed within 9 months after it is begun.
+(b) The Board may, where appropriate, begin a proceeding under this section on its own initiative or on application by the Secretary of Transportation or an interested party. The Board shall, within 90 days after receipt of any such application, determine whether to begin an appropriate proceeding. If the Board decides not to begin a class exemption proceeding, the reasons for the decision shall be published in the Federal Register. Any proceeding begun as a result of an application under this subsection shall be completed within 9 months after it is begun.
 
 (c) The Board may specify the period of time during which an exemption granted under this section is effective.
 

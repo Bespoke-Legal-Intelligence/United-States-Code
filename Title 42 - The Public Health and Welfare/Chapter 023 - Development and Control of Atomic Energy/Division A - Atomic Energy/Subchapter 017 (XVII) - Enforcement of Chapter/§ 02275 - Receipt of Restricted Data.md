@@ -14,7 +14,3 @@ Whoever, with intent to injure the United States or with intent to secure an adv
 
 Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 24, 1969, see section 7 of Pub. L. 91–161, set out as a note under section 2272 of this title.
 
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-

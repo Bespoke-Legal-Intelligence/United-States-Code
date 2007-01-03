@@ -2,63 +2,41 @@
 
 #### (a) Administrative expenses
 
-#### (1) In general
+#### (1) Mandatory funds for fiscal year 2006
 
-&emsp;Each fiscal year there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for—
+&emsp;For fiscal year 2006, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for—
 
-&emsp;&emsp;(A) administrative costs under this part and part B of this subchapter, including the costs of the direct student loan programs under this part; and
+&emsp;&emsp;(A) administrative costs under this part and part B, including the costs of the direct student loan programs under this part; and
 
-&emsp;&emsp;(B) account maintenance fees payable to guaranty agencies under part B of this subchapter and calculated in accordance with subsections (b) and (c) of this section,
+&emsp;&emsp;(B) account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsections (b) and (c),
 
-> &emsp;not to exceed (from such funds not otherwise appropriated) $617,000,000 in fiscal year 1999, $735,000,000 in fiscal year 2000, $770,000,000 in fiscal year 2001, $780,000,000 in fiscal year 2002, and $795,000,000 in fiscal year 2003.
+> &emsp;not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.
 
-#### (2) Account maintenance fees
+#### (2) Authorization for administrative costs beginning in fiscal years 2007 through 2011
 
-&emsp;Account maintenance fees under paragraph (1)(B) shall be paid quarterly and deposited in the Agency Operating Fund established under section 1072b of this title.
+&emsp;For each of the fiscal years 2007 through 2011, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
 
-#### (3) Carryover
+#### (3) Continuing mandatory funds for account maintenance fees
+
+&emsp;For each of the fiscal years 2007 through 2011, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+
+#### (4) Account maintenance fees
+
+&emsp;Account maintenance fees under paragraph (3) shall be paid quarterly and deposited in the Agency Operating Fund established under section 1072b of this title.
+
+#### (5) Carryover
 
 &emsp;The Secretary may carry over funds made available under this section to a subsequent fiscal year.
 
 #### (b) Calculation basis
 
-Except as provided in subsection (c) of this section, account maintenance fees payable to guaranty agencies under paragraph (1)(B) shall be calculated—
+Account maintenance fees payable to guaranty agencies under subsection (a)(3) shall be calculated on the basis of 0.10 percent of the original principal amount of outstanding loans on which insurance was issued under part B.
 
-&emsp;(1) for fiscal years 1999 and 2000, on the basis of 0.12 percent of the original principal amount of outstanding loans on which insurance was issued under part B of this subchapter; and
-
-&emsp;(2) for fiscal years 2001, 2002, and 2003, on the basis of 0.10 percent of the original principal amount of outstanding loans on which insurance was issued under part B of this subchapter.
-
-#### (c) Special rules
-
-#### (1) Fee cap
-
-&emsp;The total amount of account maintenance fees payable under this section—
-
-&emsp;&emsp;(A) for fiscal year 1999, shall not exceed $177,000,000;
-
-&emsp;&emsp;(B) for fiscal year 2000, shall not exceed $180,000,000;
-
-&emsp;&emsp;(C) for fiscal year 2001, shall not exceed $170,000,000;
-
-&emsp;&emsp;(D) for fiscal year 2002, shall not exceed $180,000,000; and
-
-&emsp;&emsp;(E) for fiscal year 2003, shall not exceed $195,000,000.
-
-#### (2) Insufficient funding
-
-#### (A) In general
-
-&emsp;&emsp;If the amounts set forth in paragraph (1) are insufficient to pay the account maintenance fees payable to guaranty agencies pursuant to subsection (b) of this section for a fiscal year, the Secretary shall pay the insufficiency by requiring guaranty agencies to transfer funds from the Federal Student Loan Reserve Funds under section 1072a of this title to the Agency Operating Funds under section 1072b of this title.
-
-#### (B) Entitlement
-
-&emsp;&emsp;A guaranty agency shall be deemed to have a contractual right against the UnitedStates to receive payments according to the provisions of subparagraph (A).
-
-#### (d) Budget justification
+#### (c) Budget justification
 
 No funds may be expended under this section unless the Secretary includes in the Department of Education's annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
 
-(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(<i>l</i>), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717.)
+(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(<i>l</i>), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341.)
 
 #### Prior Provisions
 
@@ -69,6 +47,10 @@ Section 1087i, Pub. L. 89–329, title IV, §459, as added Pub. L. 102–325, ti
 Section 1087j, Pub. L. 89–329, title IV, §459A, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575, related to funds for administrative expenses under Federal direct loan demonstration program.
 
 #### Amendments
+
+2006—Pub. L. 109–171 reenacted section catchline without change and amended text generally. Prior toamendment, text consisted of subsecs. (a) to (d) relating to administrative expenses, calculation basis for account maintenance fees payable to guaranty agencies, special rules relating to caps on account maintenance fees and insufficient funding, and budget justification for funds expended, respectively.
+
+Subsec. (b). Pub. L. 109–292 substituted “shall be calculated on” for “shall not exceed”.
 
 1998—Subsec. (a). Pub. L. 105–244, §454(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) related to availability of funds for administrative costs and cost allowances.
 
@@ -87,6 +69,10 @@ Subsec. (a)(1). Pub. L. 105–78 substituted “$507,000,000” for “$532,000,
 1995—Subsec. (a). Pub. L. 104–19 substituted “$284,000,000 in fiscal year 1995” for “$345,000,000 in fiscal year 1995” and “$2,439,000,000 in fiscal years 1994 through 1998” for “$2,500,000,000 in fiscal years 1994 through 1998”.
 
 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to funds for administrative expenses for former provisions relating to reports.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -54,7 +54,7 @@ In sections 27 to 27f of this title, the term “covered swap agreement” means
 
 #### References in Text
 
-Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25 of the Federal Reserve Act, referred to in subsec. (a)(5), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12
+Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25 of the Federal Reserve Act, referred to in subsec. (a)(5), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
 
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsecs. (b) and (d), is section 206 of Pub. L. 106-102 which is set out as a note under section 78c of Title 15, Commerce and Trade.
 

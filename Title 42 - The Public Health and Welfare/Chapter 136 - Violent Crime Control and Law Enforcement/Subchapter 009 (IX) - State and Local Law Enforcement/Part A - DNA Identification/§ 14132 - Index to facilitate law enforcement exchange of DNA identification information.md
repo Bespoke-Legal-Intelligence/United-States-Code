@@ -66,11 +66,11 @@ Access to the index established by this section is subject to cancellation if th
 
 #### (2) By States
 
-&emsp;(A) As a condition of access to the index described in subsection (a) of this section, a State shall promptly expunge from that index the DNA analysis of a person included in the index by that State if—
+&emsp;(A) As a condition of access to the index described in subsection (a) of this section, a State shall promptly expunge from that indexthe DNA analysis of a person included in the index by that State if—
 
 &emsp;&emsp;(i) the responsible agency or official of that State receives, for each conviction of the person of an offense on the basis of which that analysis was or could have been included in the index, a certified copy of a final court order establishing that such conviction has been overturned; or
 
-&emsp;&emsp;(ii) the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal orthat no charge was filed within the applicable time period.
+&emsp;&emsp;(ii) the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.
 
 &emsp;(B) For purposes of subparagraph (A), a court order is not “final” if time remains for an appeal or application for discretionary review with respect to the order.
 

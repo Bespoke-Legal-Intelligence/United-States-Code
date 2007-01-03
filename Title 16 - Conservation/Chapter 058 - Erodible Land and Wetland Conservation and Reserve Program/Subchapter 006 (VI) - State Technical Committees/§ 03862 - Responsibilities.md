@@ -18,7 +18,7 @@ Each Committee established under section 3861 of this title shall meet regularly
 
 #### (B) Standards and instructions
 
-&emsp;&emsp;The technical guides required under subsection (a) of this section shall provide standards and practical instructions for implementation of wetland protection and wildlife habitat improvement practices based on existing scientific and technical knowledge.
+&emsp;&emsp;The technical guides required under subsection (a) of this section shall providestandards and practical instructions for implementation of wetland protection and wildlife habitat improvement practices based on existing scientific and technical knowledge.
 
 #### (C) Contracts
 

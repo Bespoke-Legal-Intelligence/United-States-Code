@@ -8,7 +8,7 @@
 
 (d) The Secretary may at any time discontinue any policy or policies which the Secretary has purchased from any insurance company under this subchapter.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §766; amended Pub. L. 97–295, §4(29), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(36), Oct. 28, 1986, 100 Stat. 3293; renumbered §1966 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §766; amended Pub. L. 97–295, §4(29),Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(36), Oct. 28, 1986, 100 Stat. 3293; renumbered §1966 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

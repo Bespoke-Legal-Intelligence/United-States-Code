@@ -1,36 +1,6 @@
 ### §7937. Special marketing loan provisions for upland cotton
 
-#### (a) Cotton user marketing certificates
-
-#### (1) Issuance
-
-&emsp;During the period beginning on May 13, 2002, through July 31, 2008, the Secretary shall issue marketing certificates or cash payments, at the option of the recipient, to domestic users and exporters for documented purchases by domestic users and sales for export by exporters made in the week following a consecutive 4-week period in which—
-
-&emsp;&emsp;(A) the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 1.25 cents per pound; and
-
-&emsp;&emsp;(B) the prevailing world market price for upland cotton (adjusted to United States quality and location) does not exceed 134percent of the loan rate for upland cotton established under section 7932 of this title.
-
-#### (2) Value of certificates or payments
-
-&emsp;The value of the marketing certificates or cash payments shall be based on the amount of the difference (reduced by 1.25 cents per pound) in the prices during the fourth week of the consecutive 4-week period multiplied by the quantity of upland cotton included in the documented sales.
-
-#### (3) Administration of marketing certificates
-
-#### (A) Redemption, marketing, or exchange
-
-&emsp;&emsp;The Secretary shall establish procedures for redeeming marketing certificates for cash or marketing or exchange of the certificates for agricultural commodities owned by the Commodity Credit Corporation or pledged to the Commodity Credit Corporation as collateral for a loan in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates, including enhancing the competitiveness and marketability of United States cotton. Any price restrictions that would otherwise apply to the disposition of agricultural commodities by the Commodity Credit Corporation shall not apply to the redemption of certificates under this subsection.
-
-#### (B) Designation of commodities and products
-
-&emsp;&emsp;To the extent practicable, the Secretary shall permit owners of certificates to designate the commodities and products, including storage sites, the owners would prefer to receive in exchange for certificates <sup>1</sup>
-
-#### (C) Transfers
-
-&emsp;&emsp;Marketing certificates issued to domestic users and exporters of upland cotton may be transferred to other persons in accordance with regulations issued by the Secretary.
-
-#### (4) Delayed application of threshold
-
-&emsp;Through July 31, 2006, the Secretary shall make the calculations under paragraphs (1)(A) and (2) without regard to the 1.25 cent threshold provided under those paragraphs.
+#### (a) Repealed. Pub. L. 109–171, title I, §1103(a)(1), Feb. 8, 2006, 120 Stat. 5
 
 #### (b) Special import quota
 
@@ -42,11 +12,11 @@
 
 #### (B) Program requirements
 
-&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
 
 #### (C) Tight domestic supply
 
-&emsp;&emsp;During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a) of this section.
+&emsp;&emsp;During any month for which the Secretary estimates the season-ending United Statesupland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe.
 
 #### (D) Season-ending United States stocks-to-use ratio
 
@@ -86,7 +56,7 @@
 
 #### (7) Limitation
 
-&emsp;The quantity of cotton entered into the United States during any marketing yearunder the special import quota established under this subsection may not exceed the equivalent of 5 week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
+&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 5 week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
 
 #### (c) Limited global import quota for upland cotton
 
@@ -152,11 +122,21 @@
 
 &emsp;Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
 
-(Pub. L. 107–171, title I, §1207, May 13, 2002, 116 Stat. 161.)
+(Pub. L. 107–171, title I, §1207, May 13, 2002, 116 Stat. 161; Pub. L. 109–171, title I, §1103(a), Feb. 8, 2006, 120 Stat. 5.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-<i><sup>1</sup></i><i> So in original. There probably should be a period.</i>
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–171, §1103(a)(1), struck out subsec. (a), which related to cotton user marketing certificates.
+
+Subsec. (b)(1)(B). Pub. L. 109–171, §1103(a)(2)(A), struck out “, adjusted for the value of any certificate issued under subsection (a) of this section,” after “C.I.F. Northern Europe”.
+
+Subsec. (b)(1)(C). Pub. L. 109–171, §1103(a)(2)(B), struck out “, for the value of any certificates issued under subsection (a) of this section” before period at end.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–171, title I, §1103(b), Feb. 8, 2006, 120 Stat. 5, provided that: “The amendments made by this section \[amending this section\] take effect on August 1, 2006.”
 

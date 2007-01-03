@@ -12,7 +12,7 @@
 
 (3) An owner may waive a right provided under this subsection, other than a right that is elected by the owner under paragraph (2)(A).
 
-(4) The Secretary may at the discretion of the Secretary permit such election or waiver to be made after certificating and amend the certificate accordingly, without retroactive effect.
+(4) The Secretary may at the discretion of the Secretary permit such election or waiver to bemade after certificating and amend the certificate accordingly, without retroactive effect.
 
 #### (b) Term
 

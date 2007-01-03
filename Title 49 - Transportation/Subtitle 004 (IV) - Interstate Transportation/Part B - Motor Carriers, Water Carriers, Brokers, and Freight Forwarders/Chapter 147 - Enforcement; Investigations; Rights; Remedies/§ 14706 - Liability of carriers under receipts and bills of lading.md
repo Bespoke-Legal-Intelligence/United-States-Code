@@ -26,7 +26,7 @@ Motor carriers.—
 
 &emsp;&emsp;(A)
 
-Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation ofproperty (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
+Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
 
 &emsp;&emsp;(B)
 
@@ -120,7 +120,7 @@ Factors to consider.—In conducting the study, the Secretary, at a minimum, sha
 
 Report.—Not later than 12 months after January 1, 1996, the Secretary shall submit to Congress a report on the results of the study, together with any recommendations of the Secretary (including legislative recommendations) for implementing modifications or reforms identified by the Secretary as being appropriate.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907; amended Pub. L. 104–287, §5(38),Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4207, Aug. 10, 2005, 119 Stat. 1757.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4207, Aug. 10, 2005, 119 Stat. 1757.)
 
 #### Prior Provisions
 

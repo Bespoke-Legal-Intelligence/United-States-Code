@@ -16,7 +16,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(2) Basic research concerning the etiology and causes of the disease.
 
-&emsp;(3) Epidemiological studies to address the frequency and natural history of the disease and the differences among the sexes and among racial and ethnic groups with respect to the disease.
+&emsp;(3) Epidemiological studies to address the frequency and natural history of the diseaseand the differences among the sexes and among racial and ethnic groups with respect to the disease.
 
 &emsp;(4) The development of improved diagnostic techniques.
 
@@ -24,11 +24,15 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(6) Information and education programs for health care professionals and the public.
 
-#### (d) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §441A, as added Pub. L. 106–505, title V, §511, Nov. 13, 2000, 114 Stat. 2342; amended Pub. L. 109–482, title I, §103(b)(22), Jan. 15, 2007, 120 Stat. 3688.)
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §441A, as added Pub. L. 106–505, title V, §511, Nov. 13, 2000, 114 Stat. 2342.)
+2007—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Findings
 
@@ -52,5 +56,5 @@ Pub. L. 106–505, title V, §502, Nov. 13, 2000, 114 Stat. 2342, provided that:
 
 &emsp;“(9) many victims of the disease suffer debilitating pain and fatigue, making it difficult to maintain employment and lead normal lives; and
 
-&emsp;“(10) in fiscal year 1996, the amount allocated by the National Institutes of Health for research onlupus was $33,000,000, which is less than one-half of 1 percent of the budget for such Institutes.”
+&emsp;“(10) in fiscal year 1996, the amount allocated by the National Institutes of Health for research on lupus was $33,000,000, which is less than one-half of 1 percent of the budget for such Institutes.”
 

@@ -30,9 +30,9 @@ Section 212(b) of Pub. L. 93–66, referred to in subsec. (b), is set out as a n
 
 Subsecs. (b), (c). Pub. L. 103–296, §108(b)(8), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Subsec. (a). Pub. L. 101–508 inserted at end “A benefit under subchapter II of this chapter shall not be reduced pursuant to the preceding sentence to the extent that any amount of such benefit would not otherwise be available for payment in full of the maximumfee which may be recovered from such benefit by an attorney pursuant to section 406(a)(4) of this title.”
+1990—Subsec. (a). Pub. L. 101–508 inserted at end “A benefit under subchapter II of this chapter shall not be reduced pursuant to the preceding sentence to the extent that any amount of such benefit would not otherwise be available for payment in full of the maximum fee which may be recovered from such benefit by an attorney pursuant to section 406(a)(4) of this title.”
 
-1984—Pub. L. 98–369 substituted provisions relating to adjustment in supplemental security income benefits on account of retroactive benefits under subchapter II of this chapter for provisions which related to adjustment of retroactive benefits under subchapter II of this chapter on account of supplemental security income benefits.
+1984—Pub. L. 98–369 substituted provisions relating to adjustment in supplemental security income benefitson account of retroactive benefits under subchapter II of this chapter for provisions which related to adjustment of retroactive benefits under subchapter II of this chapter on account of supplemental security income benefits.
 
 #### Effective Date of 1994 Amendment
 

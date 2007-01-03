@@ -1,8 +1,8 @@
 ### §1559. Warehouse goods deemed abandoned after 5 years
 
-Merchandise upon which any duties or charges are unpaid, remaining in bonded warehouse beyond 5 years from the date of importation, shall be regarded as abandoned to the Government and shall be sold under such regulations as the Secretary of the Treasury shall prescribe, and the proceeds of sale paid into the Treasury, as in the case of unclaimed merchandise covered by section 1493 of this title, subject to the payment to the owner or consignee of such amount, if any, as shall remain after deduction of duties, charges, and expenses. Merchandise upon which all duties and charges have been paid, remaining in bonded warehouse beyond 5 years from the date of importation, shall be held to be no longer in the custody or control of the officers of the customs.
+Merchandise upon which any duties or charges are unpaid, remaining in bonded warehouse beyond 5 years from the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, shall be regarded as abandoned to the Government and shall be sold under such regulations as the Secretary of the Treasury shall prescribe, and the proceeds of sale paid into the Treasury, as in the case of unclaimedmerchandise covered by section 1493 of this title, subject to the payment to the owner or consignee of such amount, if any, as shall remain after deduction of duties, charges, and expenses. Merchandise upon which all duties and charges have been paid, remaining in bonded warehouse beyond 5 years from the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, shall be held to be no longer in the custody or control of the officers of the customs.
 
-(June 17, 1930, ch. 497, title IV, §559, 46 Stat. 744; June 25, 1938, ch. 679, §23(a), 52 Stat. 1088; Pub. L. 95–410, title I, §108(b)(1), Oct. 3, 1978, 92 Stat. 892.)
+(June 17, 1930, ch. 497, title IV, §559, 46 Stat. 744; June 25, 1938, ch. 679, §23(a), 52 Stat. 1088; Pub. L. 95–410, title I, §108(b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 109–280, title XIV, §1635(d), Aug. 17, 2006, 120 Stat. 1170.)
 
 #### Prior Provisions
 
@@ -12,9 +12,15 @@ Prior provisions that goods, remaining in public store or bonded warehouse beyon
 
 #### Amendments
 
+2006—Pub. L. 109–280 inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation” in two places.
+
 1978—Pub. L. 95–410 substituted “5 years” for “three years” wherever appearing.
 
 1938—Act June 25, 1938, struck out “(or ten months in the case of grain)” wherever appearing.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective Date of 1978 Amendment
 

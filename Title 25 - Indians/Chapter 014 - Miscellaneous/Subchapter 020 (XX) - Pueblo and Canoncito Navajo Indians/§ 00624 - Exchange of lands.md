@@ -2,7 +2,7 @@
 
 #### (a) Authorization of Secretary; manner and place
 
-For the purpose of improving the land tenure pattern and consolidating Pueblo Indian lands,the Secretary of the Interior is authorized, under such regulations as he may prescribe, to acquire by exchange any lands or interests therein, including improvements and water rights, within the Pueblo land consolidation areas, and to convey in exchange therefor not to exceed an equal value of unappropriated public lands within the State of New Mexico, or, with the consent of the Pueblo authorities any Pueblo tribal lands or interest therein, including improvements and water rights.
+For the purpose of improving the land tenure pattern and consolidating Pueblo Indian lands, the Secretary of the Interior is authorized, under such regulations as he may prescribe, to acquire by exchange any lands or interests therein, including improvements and water rights, within the Pueblo land consolidation areas, and to convey in exchange therefor not to exceed an equal value of unappropriated public lands within the State of New Mexico, or, with the consent of the Pueblo authorities any Pueblo tribal lands or interest therein, including improvements and water rights.
 
 #### (b) Reservation of minerals, easements, or rights of use
 

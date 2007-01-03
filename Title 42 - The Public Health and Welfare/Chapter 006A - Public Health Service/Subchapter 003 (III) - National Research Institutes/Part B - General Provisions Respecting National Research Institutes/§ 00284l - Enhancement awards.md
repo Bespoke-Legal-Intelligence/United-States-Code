@@ -16,10 +16,6 @@
 
 &emsp;An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
 
-#### (3) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
-
 #### (b) Mid-Career Investigator Awards in Patient-Oriented Research
 
 #### (1) Grants
@@ -35,10 +31,6 @@
 #### (2) Applications
 
 &emsp;An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director requires.
-
-#### (3) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
 
 #### (c) Graduate Training in Clinical Investigation Award
 
@@ -70,10 +62,6 @@
 
 &emsp;&emsp;(F) Biomedical writing.
 
-#### (5) Authorization of appropriations
-
-&emsp;For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
-
 #### (d) Clinical Research Curriculum Awards
 
 #### (1) In general
@@ -100,9 +88,19 @@
 
 &emsp;Grants under this subsection shall be for terms of up to 5 years and may be renewable.
 
-#### (4) Authorization of appropriations
+(July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408; Pub. L. 109–482, title I, §103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
 
-&emsp;For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
+#### Amendments
 
-(July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408.)
+2007—Subsec. (a)(3). Pub. L. 109–482, §103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+
+Subsec. (b)(3). Pub. L. 109–482, §103(b)(13)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+
+Subsec. (c)(5). Pub. L. 109–482, §103(b)(13)(C), struck out heading and text of par. (5). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+
+Subsec. (d)(4). Pub. L. 109–482, §103(b)(13)(D), struck out heading and text of par. (4). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

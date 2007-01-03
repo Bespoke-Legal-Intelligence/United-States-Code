@@ -10,7 +10,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
-&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
+&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfiessuch paragraph, the first day of the second month following the month in which he so enrolls, or
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
@@ -48,13 +48,19 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 &emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356.)
+#### (f) Commencement of coverage for certain volunteers serving outside United States
+
+Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(k) of this title, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46.)
 
 #### References in Text
 
 Part A of this subchapter, referred to in subsec. (c), is classified to section 1395c et seq. of this title.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–171 added subsec. (f).
 
 2003—Subsec. (a)(1). Pub. L. 108–173 inserted comma after “1966”.
 
@@ -104,6 +110,10 @@ Subsecs. (c), (d). Pub. L. 92–603, §202(c)(3)(C), added subsec. (c) and redes
 
 1968—Subsec. (b). Pub. L. 90–248 struck out “, during a general enrollment period described in section 1395p(e) of this title,” after “notice” in par. (1), and substituted in first sentence following par. (2) “the calendar quarter following the calendar quarter” for “December 31 of the year”.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–171 effective Jan. 1, 2007, see section 5115(b) of Pub. L. 109–171, set out as a note under section 1395p of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 applicable to involuntary terminations of coverage under a group health plan occurring on or after Aug. 5, 1997, see section 4581(c) of Pub. L. 105–33, set out as a note under section 1395p of this title.
@@ -144,7 +154,7 @@ Amendment by Pub. L. 90–248 effective Apr. 1, 1968, see section 145(e) of Pub.
 
 #### Coverage Period; Termination Dates
 
-Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the case of any individual who, pursuant to section 1838(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], terminates his enrollment in the insurance program established under part B of title XVIII of such Act \[this part\], his coverage period (as defined in section 1838(a) of such Act) \[subsec. (a) of this section\]—
+Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the case of any individual who, pursuant to section 1838(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], terminates his enrollment in the insurance program established under part B of titleXVIII of such Act \[this part\], his coverage period (as defined in section 1838(a) of such Act) \[subsec. (a) of this section\]—
 
 &emsp;“(1) shall terminate at the close of December 31, 1967, if he filed his notice of termination before January 1, 1968, or
 

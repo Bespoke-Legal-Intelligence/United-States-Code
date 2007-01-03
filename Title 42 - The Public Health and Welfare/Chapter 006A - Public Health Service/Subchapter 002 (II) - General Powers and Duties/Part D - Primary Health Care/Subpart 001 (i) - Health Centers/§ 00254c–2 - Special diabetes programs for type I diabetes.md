@@ -40,19 +40,13 @@ Section 1604(f)(4) of Pub. L. 105–34 provided that: “The provisions of, and 
 
 #### Report on Diabetes Grant Programs
 
-Pub. L. 105–33, title IV, §4923, Aug. 5, 1997, 111 Stat. 574, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §931(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(c), Dec. 17, 2002, 116 Stat. 3019, provided that:
+Pub. L. 105–33, title IV, §4923, Aug. 5, 1997, 111 Stat. 574, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §931(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(c), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 109–482, title I, §104(b)(3)(C), Jan. 15, 2007, 120 Stat. 3694, provided that:
 
 “(a)
 
 Evaluation.—The Secretary of Health and Human Services shall conduct an evaluation of the diabetes grant programs established under the amendments made by this chapter \[chapter 3 (§§4921–4923) of subtitle J of title IV of Pub. L. 105–33, enacting this section and section 254c–3 of this title\].
 
-“(b)
-
-Reports.—The Secretary shall submit to the appropriate committees of Congress—
-
-&emsp;“(1) an interim report on the evaluation conducted under subsection (a) not later than January 1, 2000, and
-
-&emsp;“(2) a final report on such evaluation not later than January 1, 2007.”
+“\[(b) Repealed. Pub. L. 109–482, title I, §104(b)(3)(C), Jan. 15, 2007, 120 Stat. 3694.\]”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

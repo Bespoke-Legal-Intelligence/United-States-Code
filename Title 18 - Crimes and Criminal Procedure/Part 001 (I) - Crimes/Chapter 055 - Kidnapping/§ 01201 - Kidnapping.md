@@ -2,7 +2,7 @@
 
 (a) Whoever unlawfully seizes, confines, inveigles, decoys, kidnaps, abducts, or carries away and holds for ransom or reward or otherwise any person, except in the case of a minor by the parent thereof, when—
 
-&emsp;(1) the person is willfully transported in interstate or foreign commerce, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began;
+&emsp;(1) the person is willfully transported in interstate or foreign commerce, regardless of whether the person was alive when transported across a State boundary, or the offender travels in interstate or foreign commerce or uses the mail or any means, facility, or instrumentality of interstate or foreign commerce in committing or in furtherance of the commission of the offense;
 
 &emsp;(2) any such act against the person is done within the special maritime and territorial jurisdiction of the United States;
 
@@ -14,13 +14,13 @@
 
 > shall be punished by imprisonment for any term of years or for life and, if the death of any person results, shall be punished by death or life imprisonment.
 
-(b) With respect to subsection (a)(1), above, the failure to release the victim within twenty-four hours after he shall have been unlawfully seized, confined, inveigled, decoyed, kidnapped, abducted, or carried away shall create a rebuttable presumption that such person has been transported to interstate or foreign commerce. Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.
+(b) With respect to subsection (a)(1), above, the failure to release the victim within twenty-four hours after he shall have been unlawfully seized, confined, inveigled, decoyed, kidnapped, abducted, or carried away shall create a rebuttable presumption that such person has been transported in interstate or foreign commerce. Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.
 
 (c) If two or more persons conspire to violate this section and one or more of such persons do any overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
 
 (d) Whoever attempts to violate subsection (a) shall be punished by imprisonment for not more than twenty years.
 
-(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of theUnited States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
 (f) In the course of enforcement of subsection (a)(4) and any other sections prohibiting a conspiracy or attempt to violate subsection (a)(4), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
@@ -60,7 +60,7 @@ To whom applicable.—If—
 
 (h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653.)
+(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653; Pub. L. 109–248, title II, §213, July 27, 2006, 120 Stat. 616.)
 
 #### Historical and Revision Notes
 
@@ -80,13 +80,17 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+2006—Subsec. (a)(1). Pub. L. 109–248, §213(1), substituted “, or the offender travels in interstate or foreign commerce or uses the mail or any means, facility, or instrumentality of interstate or foreign commerce in committing or in furtherance of the commission of the offense” for “if the person was alive when the transportation began”.
+
+Subsec. (b). Pub. L. 109–248, §213(2), substituted “in interstate” for “to interstate”.
+
 2003—Subsec. (g). Pub. L. 108–21 substituted “shall include imprisonment for not less than 20 years.” for “shall be subject to paragraph (2) of this subsection.” in concluding provisions of par. (1) and struck out par. (2) which read as follows:
 
 “(2)
 
 Guidelines.—The United States Sentencing Commission is directed to amend the existing guidelines for the offense of ‘kidnapping, abduction, or unlawful restraint,’ by including the following additional specific offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care) to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody of another person who does not have a legal right to such care or custody of the child either in exchange for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to any of the conduct specified in this section by another person, then increase by 2 levels.”
 
-1998—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
+1998—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive whentransported across a State boundary if the person was alive when the transportation began” before semicolon at end.
 
 Subsec. (a)(5). Pub. L. 105–314, §702(b), substituted “described” for “designated”.
 

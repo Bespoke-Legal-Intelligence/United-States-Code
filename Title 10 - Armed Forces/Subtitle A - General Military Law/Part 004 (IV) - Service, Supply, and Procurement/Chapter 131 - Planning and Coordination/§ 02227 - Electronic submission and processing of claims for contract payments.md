@@ -10,7 +10,7 @@ Processing.—A contracting officer, contract administrator, certifying official
 
 (c)
 
-Waiver Authority.—If the Secretary of Defense determines that the requirement for using electronic means for submitting claims under subsection (a), or for transmitting claims and supporting documentation under subsection (b), is unduly burdensome in any category of cases, the Secretary may exempt the cases in that category from the application of the requirement.
+Waiver Authority.—If the Secretary of Defense determines that the requirement for using electronic means for submitting claimsunder subsection (a), or for transmitting claims and supporting documentation under subsection (b), is unduly burdensome in any category of cases, the Secretary may exempt the cases in that category from the application of the requirement.
 
 (d)
 
@@ -42,5 +42,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1008(c)\], Oct. 30, 2000, 114 St
 
 #### Implementation Plan
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1008(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–250, provided that: “Not later than March 30, 2001, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan for the implementation of the requirements imposed under section 2227 of title 10, United States Code (as added by subsection (a)). The plan shall provide for each of the matters specified in subsection (d) of that section.”
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1008(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–250, directed the Secretary of Defense, not later than Mar. 30, 2001, to submit to committees of Congress a plan for the implementation of the requirements imposed under this section.
 

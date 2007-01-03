@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(d) “byproduct” means any mineral or minerals (exclusive of oil, hydrocarbon gas, and helium) which are found in solution or in association with geothermal steam and which have a value of less than 75 per centum of the value of the geothermal steam or are not, because of quantity, quality, or technical difficulties in extraction and production, of sufficient value to warrant extraction and production by themselves;
 
-&emsp;(e) “known geothermal resources area” means an area in which the geology, nearby discoveries, competitive interests, or other indicia would, in the opinion of the Secretary,engender a belief in men who are experienced in the subject matter that the prospects for extraction of geothermal steam or associated geothermal resources are good enough to warrant expenditures of money for that purpose.
+&emsp;(e) “known geothermal resources area” means an area in which the geology, nearby discoveries, competitive interests, or other indicia would, in the opinion of the Secretary, engender a belief in men who are experienced in the subject matter that the prospects for extraction of geothermal steam or associated geothermal resources are good enough to warrant expenditures of money for that purpose.
 
 &emsp;(f) “Significant <sup>1</sup> thermal features within units of the National Park System” shall include, but not be limited to, the following:
 

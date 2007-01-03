@@ -24,7 +24,7 @@ In addition to the determination under subsection (a) of this section, the Secre
 
 #### (c) Proposals
 
-Federal agencies may submit to the Secretary, for each fiscal year, proposals for projects to be funded by the Secretary under this section. Each such proposal shall include—
+Federal agencies may submit to the Secretary, for each fiscal year, proposals for projects to befunded by the Secretary under this section. Each such proposal shall include—
 
 &emsp;(1) a description of the proposed project emphasizing the innovative use of technology in the Federal sector;
 
@@ -44,7 +44,7 @@ The Secretary may only select a project for funding under this section which is 
 
 #### (e) Study
 
-The Secretary shall conduct a study to evaluate the potential use of the purchasing power ofthe Federal Government to promote the development and commercialization of energy efficient products. The study shall identify products for which there is a high potential for Federal purchasing power to substantially promote their development and commercialization, and shall include a plan to develop such potential. The study shall be conducted in consultation with utilities, manufacturers, and appropriate nonprofit organizations concerned with energy efficiency. The Secretary shall report to the Congress on the results of the study not later than two years after October 24, 1992.
+The Secretary shall conduct a study to evaluate the potential use of the purchasing power of the Federal Government to promote the development and commercialization of energy efficient products. The study shall identify products for which there is a high potential for Federal purchasing power to substantially promote their development and commercialization, and shall include a plan to develop such potential. The study shall be conducted in consultation with utilities, manufacturers, and appropriate nonprofit organizations concerned with energy efficiency. The Secretary shall report to the Congress on the results of the study not later than two years after October 24, 1992.
 
 #### (f) Authorization of appropriations
 

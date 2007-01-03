@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;(4) The term “local educational agency” has the meaning given that term by section 2891(12) <sup>1</sup> of title 20.
 
-(Pub. L. 101–510, div. C, title XXXI, §3168, formerly §3167, Nov. 5, 1990, 104 Stat. 1843; Pub. L. 105–245, title III, §309(b)(2)(D), Oct. 7, 1998, 112 Stat. 1853; renumbered §3168 and amended Pub. L. 109–58, title XI, §§1102(d), 1105(b)(1), Aug. 8, 2005, 119 Stat. 938, 939.)
+(Pub. L. 101–510, div. C, title XXXI, §3168, formerly §3167, Nov. 5, 1990, 104 Stat. 1843; Pub. L. 105–245, title III, §309(b)(2)(D), Oct. 7, 1998, 112Stat. 1853; renumbered §3168 and amended Pub. L. 109–58, title XI, §§1102(d), 1105(b)(1), Aug. 8, 2005, 119 Stat. 938, 939.)
 
 #### References in Text
 

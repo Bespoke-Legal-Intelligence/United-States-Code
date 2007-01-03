@@ -68,7 +68,7 @@
 
 &emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4), (a)(5)(A)(iii), or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
-&emsp;(4)(A) except as provided in paragraph (5), a fine under this title, imprisonment for notmore than 10 years, or both, in the case of an offense under subsection (a)(5)(A)(i), or an attempt to commit an offense punishable under that subsection;
+&emsp;(4)(A) except as provided in paragraph (5), a fine under this title, imprisonment for not more than 10 years, or both, in the case of an offense under subsection (a)(5)(A)(i), or an attempt to commit an offense punishable under that subsection;
 
 &emsp;(B) a fine under this title, imprisonment for not more than 5 years, or both, in the case of an offense under subsection (a)(5)(A)(ii), or an attempt to commit an offense punishable under that subsection;
 
@@ -86,7 +86,7 @@
 
 (e) As used in this section—
 
-&emsp;(1) the term “computer” means an electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device, but such term does not include an automated typewriter or typesetter, a portable hand held calculator, or other similar device;
+&emsp;(1) the term “computer” means an electronic, magnetic, optical, electrochemical, orother high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device, but such term does not include an automated typewriter or typesetter, a portable hand held calculator, or other similar device;
 
 &emsp;(2) the term “protected computer” means a computer—
 
@@ -138,7 +138,7 @@
 
 (h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158.)
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B,title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Subsec. (a)(3). Pub. L. 104–294, §201(1)(C), inserted “nonpublic” before 
 
 Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
 
-Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
+Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraudin connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
 Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of “or” at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
 

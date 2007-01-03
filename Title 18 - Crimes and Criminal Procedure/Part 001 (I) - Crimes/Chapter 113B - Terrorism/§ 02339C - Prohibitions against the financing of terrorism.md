@@ -152,9 +152,9 @@ Definitions.—In this section—
 
 (f)
 
-Civil Penalty.—In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of theUnited States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
+Civil Penalty.—In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
 
-(Added Pub. L. 107–197, title II, §202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, §4006, Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6604, Dec. 17, 2004, 118 Stat. 3764.)
+(Added Pub. L. 107–197, title II, §202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, §4006, Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6604, Dec. 17, 2004, 118 Stat. 3764; Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245.)
 
 #### References in Text
 
@@ -162,17 +162,21 @@ Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 136
 
 #### Amendments
 
-2004—Pub. L. 108–458, §6604, which directed certain amendments to section 2339c of this title, was executed to this section, which is section 2339C of this title, to reflect the probable intent of Congress. See below.
+2006—Pub. L. 109–177 amended directory language of Pub. L. 108–458, §6604. See 2004 Amendment notes below.
 
-Subsec. (c)(2). Pub. L. 108–458, §6604(a)(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
+2004—Subsec. (c)(2). Pub. L. 108–458, §6604(a)(1), as amended by Pub. L. 109–177, §408(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 108–458, §6604(a)(2), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
+Subsec. (c)(2)(A). Pub. L. 108–458, §6604(a)(2), as amended by Pub. L. 109–177, §408(1), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
 
-Subsec. (c)(2)(B). Pub. L. 108–458, §6604(a)(3), struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
+Subsec. (c)(2)(B). Pub. L. 108–458, §6604(a)(3), as amended by Pub. L. 109–177, §408(1), struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
 
-Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), added par. (13) and redesignated former par. (13) as (14).
+Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), as amended by Pub. L. 109–177, §408(2), added par. (13) and redesignated former par. (13) as (14).
 
 2002—Subsec. (a)(1). Pub. L. 107–273 substituted “described in subsection (b)” for “described in subsection (c)”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 to section 6604 of Pub. L. 108–458 (amending this section) is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
 
 #### Effective Date
 

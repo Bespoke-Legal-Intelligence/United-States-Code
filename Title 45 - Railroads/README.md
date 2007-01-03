@@ -1,5 +1,5 @@
 
-45 U.S.C.<br>United States Code, 2005 Edition<br>Title 45 - RAILROADS<br>From the U.S. Government Publishing Office, www.gpo.gov
+45 U.S.C.<br>United States Code, 2006 Edition<br>Title 45 - RAILROADS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 45—RAILROADS
 
@@ -8,7 +8,7 @@
 | [<b>1.</b>](Chapter%20001%20-%20Safety%20Appliances%20and%20Equipment%20on%20Railroad%20Engines%20and%20Cars%2C%20and%20Protection%20of%20Employees%20and%20Travelers/README.md) | <b>Safety Appliances and Equipment on Railroad Engines and Cars, and Protection of Employees and Travelers \[Repealed, See Chapters 203 to 209 and 213 of Title 49\]</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Liability%20for%20Injuries%20to%20Employees/README.md) | <b>Liability for Injuries to Employees</b> | <b>51</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Hours%20of%20Service%20of%20Employees/README.md) | <b>Hours of Service of Employees \[Repealed, See Chapters 211 and 213 of Title 49\]</b> | <b>61</b> |
-| [<b>4.</b>](Chapter%20004%20-%20Care%20of%20Animals%20in%20Transit/README.md) | <b>Care of Animals in Transit \[Repealed, See Chapter 39 of Title 46 and Section 80502 of Title 49\]</b> | <b>71</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Care%20of%20Animals%20in%20Transit/README.md) | <b>Care of Animals in Transit \[Repealed, See Section 80502 of Title 49\]</b> | <b>71</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Government-Aided%20Railroads/README.md) | <b>Government-Aided Railroads \[Repealed or Transferred\]</b> | <b>81</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Mediation%2C%20Conciliation%2C%20and%20Arbitration%20in%20Controversies%20Between%20Carriers%20and%20Employees/README.md) | <b>Mediation, Conciliation, and Arbitration in Controversies Between Carriers and Employees \[Repealed\]</b> | <b>101</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Adjustment%20Boards%20and%20Labor%20Boards/README.md) | <b>Adjustment Boards and Labor Boards \[Repealed\]</b> | <b>131</b> |

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a program, using funds made available under section 2305 of this title, to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans (as in effect on July 25, 2000) under section 1712 of this title.
+The Secretary shall establish a program, using funds made available under section 2305 of this title, to complete appraisals and satisfy other legal requirements for the sale or exchange ofpublic land identified for disposal under approved land use plans (as in effect on July 25, 2000) under section 1712 of this title.
 
 #### (b) Sale of public land
 

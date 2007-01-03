@@ -8,7 +8,7 @@
 
 #### (2) Director
 
-&emsp;The head of the Bureau of Citizenship and Immigration Services shall be the Director of the Bureau of Citizenship and Immigration Services, who—
+&emsp;The head of the Bureau of Citizenship and Immigration Services shall be the Director ofthe Bureau of Citizenship and Immigration Services, who—
 
 &emsp;&emsp;(A) shall report directly to the Deputy Secretary;
 

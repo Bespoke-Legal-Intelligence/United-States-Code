@@ -4,7 +4,7 @@
 
 (b) Continuation of pay under this subchapter shall be furnished—
 
-&emsp;(1) without a break in time unless controverted under regulations of the Secretary;
+&emsp;(1) without a break in time, except as provided under section 8117(b), unless controverted under regulations of the Secretary;
 
 &emsp;(2) for a period not to exceed 45 days; and
 
@@ -16,7 +16,7 @@
 
 (e) Payments under this section shall not be considered as compensation as defined by section 8101(12) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543; Pub. L. 93–416, §11, Sept. 7, 1974, 88 Stat. 1145.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543; Pub. L. 93–416, §11, Sept. 7, 1974, 88 Stat. 1145; Pub. L.109–435, title IX, §901(b), Dec. 20, 2006, 120 Stat. 3254.)
 
 Historical and Revision Notes
 
@@ -39,6 +39,8 @@ Oct. 14, 1949, ch. 691, §101(b), 63 Stat. 854.
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–435 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “without a break in time unless controverted under regulations of the Secretary;”.
 
 1974—Pub. L. 93–416 inserted in section catchline the reference to continuation of pay, added subsecs. (a), (b), (d) and (e), designated existing provisions as subsec. (c), and in subsec. (c) as so designated, substituted “until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends” for “until the use of the annual or sick leave ends”.
 

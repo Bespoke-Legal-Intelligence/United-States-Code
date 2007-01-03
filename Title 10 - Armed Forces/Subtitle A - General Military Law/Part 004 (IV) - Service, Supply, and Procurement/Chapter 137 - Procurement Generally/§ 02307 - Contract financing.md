@@ -24,7 +24,7 @@ Payment Amount.—Payments made under subsection (a) may not exceed the unpaid c
 
 (d)
 
-Security for Advance Payments.—Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
+Security for Advance Payments.—Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liensand is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
 (e)
 
@@ -60,7 +60,7 @@ Vesting of Title in the United States.—If a contract paid by a method authoriz
 
 (i)
 
-Action in Case of Fraud.—(1) In any case in which the remedy coordination official of an agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contractawarded by that agency is based on fraud, the remedy coordination official shall recommend that the head of the agency reduce or suspend further payments to such contractor.
+Action in Case of Fraud.—(1) In any case in which the remedy coordination official of an agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that agency is based on fraud, the remedy coordination official shall recommend that the head of the agency reduce or suspend further payments to such contractor.
 
 (2) The head of an agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the agency head may reduce or suspend further payments to the contractor under such contract.
 
@@ -152,7 +152,7 @@ Subsec. (e). Pub. L. 103–355, §2001(a)(7), redesignated subsec. (d) as (e). F
 
 Pub. L. 103–355, §2001(a)(6), inserted heading.
 
-Subsec. (e)(1). Pub. L. 103–355, §2001(e)(1), substituted “work accomplished that meets standards established under the contract” for “work, which meets standardsof quality established under the contract, that has been accomplished”.
+Subsec. (e)(1). Pub. L. 103–355, §2001(e)(1), substituted “work accomplished that meets standards established under the contract” for “work, which meets standards of quality established under the contract, that has been accomplished”.
 
 Subsec. (e)(3). Pub. L. 103–355, §2001(e)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection does not apply to any contract for an amount not in excess of the amount of the small purchase threshold.”
 
@@ -186,7 +186,7 @@ Subsec. (f). Pub. L. 101–510, §836(a), added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1990 Amendment
 

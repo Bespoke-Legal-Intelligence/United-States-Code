@@ -2,7 +2,7 @@
 
 #### (a) Financial Assistance Corporation
 
-The Financial Assistance Corporation and the authority provided to such Corporation by this part shall terminate on the complete discharge by the Financial Assistance Corporation of its responsibilities under section 2278a–9(e) of this title and subsections (c) through (g) of section 2278b–6 of this title with regard to repayments by System institutions, but in no event later than 2 years following the maturity and full payment of all debt obligations issued under section 2278b–6(a) of this title.
+The Financial Assistance Corporation and the authority provided to such Corporation by this part shall terminate on the complete discharge by the Financial Assistance Corporation of its responsibilities under section 2278a–9(e) of this title and subsections (c) through (g) of section2278b–6 of this title with regard to repayments by System institutions, but in no event later than 2 years following the maturity and full payment of all debt obligations issued under section 2278b–6(a) of this title.
 
 #### (b) Accounts
 

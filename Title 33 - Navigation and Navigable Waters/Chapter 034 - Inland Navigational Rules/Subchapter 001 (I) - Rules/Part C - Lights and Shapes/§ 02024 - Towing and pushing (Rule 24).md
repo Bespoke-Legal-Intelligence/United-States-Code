@@ -50,7 +50,7 @@ Provided that any number of vessels being towed alongside or pushed in a group s
 
 &emsp;(ii) a vessel being towed alongside shall exhibit a sternlight and at the forward end, sidelights and a special flashing light; and
 
-&emsp;(iii) when vessels are towed alongside on both sides of the towing vessels a stern light <sup>1</sup> shall be exhibited on the stern of the outboard vessel on each side of the towing vessel, and a single set of sidelights as far forward and as far outboard as is practicable, and a single special flashing light.
+&emsp;(iii) when vessels are towed alongside on both sides of the towing vessels a stern light <sup>1</sup>shall be exhibited on the stern of the outboard vessel on each side of the towing vessel, and a single set of sidelights as far forward and as far outboard as is practicable, and a single special flashing light.
 
 #### (g) Inconspicuous, partly submerged vessel or object being towed
 
@@ -72,7 +72,7 @@ Where from any sufficient cause it is impracticable for a vessel or object being
 
 #### (i) Western Rivers or other specified waters; exception
 
-Notwithstanding paragraph (c), on the Western Rivers (except below the Huey P. Long Bridge on the Mississippi River) and on waters specified by the Secretary, a power-driven vesselwhen pushing ahead or towing alongside, except as paragraph (b) applies, shall exhibit:
+Notwithstanding paragraph (c), on the Western Rivers (except below the Huey P. Long Bridge on the Mississippi River) and on waters specified by the Secretary, a power-driven vessel when pushing ahead or towing alongside, except as paragraph (b) applies, shall exhibit:
 
 &emsp;(i) sidelights; and
 

@@ -52,7 +52,7 @@ Of the amounts allocated under subsection (a) of this section—
 
 #### (1) In general
 
-&emsp;Of the amounts allocated under subsection (b)(2) of this section, grants for the purposesdescribed in section 3751 of this title shall be made directly to units of local government within each State in accordance with this subsection, subject to subsection (e) of this section.
+&emsp;Of the amounts allocated under subsection (b)(2) of this section, grants for the purposes described in section 3751 of this title shall be made directly to units of local government within each State in accordance with this subsection, subject to subsection (e) of this section.
 
 #### (2) Allocation
 

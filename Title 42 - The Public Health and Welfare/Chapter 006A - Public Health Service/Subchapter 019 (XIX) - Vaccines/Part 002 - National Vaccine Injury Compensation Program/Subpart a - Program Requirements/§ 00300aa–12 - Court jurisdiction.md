@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The United States Court of Federal Claims and the United States Court of Federal Claims special masters shall, in accordance with this section, have jurisdiction over proceedings to determine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claims may issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
+The United States Court of Federal Claims and the United States Court of Federal Claimsspecial masters shall, in accordance with this section, have jurisdiction over proceedings to determine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claims may issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
 
 #### (b) Parties
 
@@ -42,7 +42,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (1) Following the receipt and filing of a petition under section 300aa–11 of this title, the clerk of the United States Court of Federal Claims shall forward the petition to the chief special master who shall designate a special master to carry out the functions authorized by paragraph (3).
 
-(2) The special masters shall recommend rules to the Court of Federal Claims and, taking into account such recommended rules, the Court ofFederal Claims shall promulgate rules pursuant to section 2071 of title 28. Such rules shall—
+(2) The special masters shall recommend rules to the Court of Federal Claims and, taking into account such recommended rules, the Court of Federal Claims shall promulgate rules pursuant to section 2071 of title 28. Such rules shall—
 
 &emsp;(A) provide for a less-adversarial, expeditious, and informal proceeding for the resolution of petitions,
 
@@ -50,7 +50,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 &emsp;(C) include the opportunity for summary judgment,
 
-&emsp;(D) include the opportunity for parties to submit arguments and evidence on the record without requiring routine use of oral presentations, cross examinations, or hearings, and
+&emsp;(D) include the opportunity for parties to submit arguments and evidence on the recordwithout requiring routine use of oral presentations, cross examinations, or hearings, and
 
 &emsp;(E) provide for limitations on discovery and allow the special masters to replace the usual rules of discovery in civil actions in the United States Court of Federal Claims.
 
@@ -108,11 +108,11 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 > The court shall complete its action on a petition within 120 days of the filing of a response under paragraph (1) excluding any days the petition is before a special master as a result of a remand under subparagraph (C). The court may allow not more than 90 days for remands under subparagraph (C).
 
-(3) In the absence of a motion under paragraph (1) respecting the special master's decision or if the United States Court of Federal Claims takes the action described in paragraph (2)(A) with respect to the special master's decision, the clerk of the United States Court of Federal Claimsshall immediately enter judgment in accordance with the special master's decision.
+(3) In the absence of a motion under paragraph (1) respecting the special master's decision or if the United States Court of Federal Claims takes the action described in paragraph (2)(A) with respect to the special master's decision, the clerk of the United States Court of Federal Claims shall immediately enter judgment in accordance with the special master's decision.
 
 #### (f) Appeals
 
-The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
+The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petitionfiled within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
 
 #### (g) Notice
 
@@ -176,7 +176,7 @@ Subsec. (e). Pub. L. 101–239, §6601(h), substituted “Action by United State
 
 Pub. L. 101–239, §6601(e)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–239, §6601(i), inserted “within 60 days of the date of entry of the United States ClaimsCourt's judgment with such court of appeals” after “with such court of appeals”.
+Subsec. (f). Pub. L. 101–239, §6601(i), inserted “within 60 days of the date of entry of the United States Claims Court's judgment with such court of appeals” after “with such court of appeals”.
 
 Pub. L. 101–239, §6601(e)(1), redesignated subsec. (e) as (f).
 

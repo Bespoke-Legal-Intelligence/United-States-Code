@@ -1,8 +1,8 @@
 ### §3. Relationship to Navy Department
 
-Upon the declaration of war or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Homeland Security. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy who may order changes in Coast Guard operations to render them uniform, to the extent he deems advisable, with Navy operations.
+Upon the declaration of war if Congress so directs in the declaration or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Homeland Security. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy who may order changes in Coast Guard operations to render them uniform, to the extent he deems advisable, with Navy operations.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(2), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(2), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §211, July 11, 2006, 120 Stat. 523.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +13,8 @@ Said section has been divided. The provisions relating to when the Coast Guard o
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+2006—Pub. L. 109–241 inserted “if Congress so directs in the declaration” after “Upon the declaration of war”.
 
 2002—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
 

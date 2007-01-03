@@ -22,9 +22,11 @@ The Director may study and develop emergency preparedness measures designed to a
 
 &emsp;(1) research and studies as to the best methods of treating the effects of hazards;
 
-&emsp;(2) developing shelter designs and materials for protective covering or construction; and
+&emsp;(2) developing shelter designs and materials for protective covering or construction;
 
-&emsp;(3) developing equipment or facilities and effecting the standardization thereof to meet emergency preparedness requirements.
+&emsp;(3) developing equipment or facilities and effecting the standardization thereof to meet emergency preparedness requirements; and
+
+&emsp;(4) plans that take into account the needs of individuals with pets and service animals prior to, during, and following a major disaster or emergency.
 
 #### (f) Training programs
 
@@ -82,35 +84,39 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 (1) The Director may make financial contributions, on the basis of programs or projects approved by the Director, to the States for emergency preparedness purposes, including the procurement, construction, leasing, or renovating of materials and facilities. Such contributions shall be made on such terms or conditions as the Director shall prescribe, including the method of purchase, the quantity, quality, or specifications of the materials or facilities, and such other factors or care or treatment to assure the uniformity, availability, and good condition of such materials or facilities.
 
-(2) No contribution may be made under this subsection for the procurement of land or for the purchase of personal equipment for State or local emergency preparedness workers.
+(2) The Director may make financial contributions, on the basis of programs or projects approved by the Director, to the States and local authorities for animal emergency preparedness purposes, including the procurement, construction, leasing, or renovating of emergency shelter facilities and materials that will accommodate people with pets and service animals.
 
-(3) The amounts authorized to be contributed by the Director to each State for organizational equipment shall be equally matched by such State from any source it determines is consistent with its laws.
+(3) No contribution may be made under this subsection for the procurement of land or for the purchase of personal equipment for State or local emergency preparedness workers.
 
-(4) Financial contributions to the States for shelters and other protective facilities shall be determined by taking the amount of funds appropriated or available to the Director for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Director) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
+(4) The amounts authorized to be contributed by the Director to each State for organizational equipment shall be equally matched by such State from any source it determines is consistent with its laws.
 
-(5) The amounts authorized to be contributed by the Director to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Director may reallocate such amounts to other States under the formula described in paragraph (4). The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
+(5) Financial contributions to the States for shelters and other protective facilities shall be determined by taking the amount of funds appropriated or available to the Director for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Director) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
 
-(6) The amounts paid to any State under this subsection shall be expended solely in carrying out the purposes set forth herein and in accordance with State emergency preparedness programs or projects approved by the Director. The Director shall make no contribution toward the cost of any program or project for the procurement, construction, or leasing of any facility which (A) is intended for use, in whole or in part, for any purpose other than emergency preparedness, and (B) is of such kind that upon completion it will, in the judgment of the Director, be capable of producing sufficient revenue to provide reasonable assurance of the retirement or repayment of such cost; except that (subject to the preceding provisions of this subsection) the Director may make a contribution to any State toward that portion of the cost of the construction, reconstruction, or enlargement of any facility which the Director determines to be directly attributable to the incorporation in such facility of any feature of construction or design not necessary for the principal intended purpose thereof but which is, in the judgment of the Director necessary for the use of such facility for emergency preparedness purposes.
+(6) The amounts authorized to be contributed by the Director to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Director may reallocate such amounts to other States under the formula described in paragraph (4).<sup>1</sup> The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
 
-(7) The Director shall submit to Congress a report, at least annually, regarding all contributions made pursuant to this subsection.
+(7) The amounts paid to any State under this subsection shall be expended solely in carrying out the purposes set forth herein and in accordance with State emergency preparedness programs or projects approved by the Director. The Director shall make no contribution toward the cost of any program or project for the procurement, construction, or leasing of any facility which (A) is intended for use, in whole or in part, for any purpose other than emergency preparedness, and (B) is of such kind that upon completion it will, in the judgment of the Director, be capable of producing sufficient revenue to provide reasonable assurance of the retirement or repayment of such cost; except that (subject to the preceding provisions of this subsection) the Director may make a contribution to any State toward that portion of the cost of the construction, reconstruction, or enlargement of any facility which the Director determines to be directly attributable to the incorporation in such facility of any feature of construction or design not necessary for the principal intended purpose thereof but which is, in the judgment of the Director necessary for the use of such facility for emergency preparedness purposes.
 
-(8) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Director under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate not less than one and 1/2 times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Director shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
+(8) The Director shall submit to Congress a report, at least annually, regarding all contributions made pursuant to this subsection.
+
+(9) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Director under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate not less than one and 1/2 times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Director shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained uponthe construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
 
 #### (k) Sale or disposal of certain materials and facilities
 
 The Director may arrange for the sale or disposal of materials and facilities found by the Director to be unnecessary or unsuitable for emergency preparedness purposes in the same manner as provided for excess property under the Federal Property and Administrative Services Act of 1949.<sup>1</sup> Any funds received as proceeds from the sale or other disposition of such materials and facilities shall be deposited into the Treasury as miscellaneous receipts.
 
-(Pub. L. 93–288, title VI, §611, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3102; amended Pub. L. 104–66, title II, §2071, Dec. 21, 1995, 109 Stat. 729; Pub. L. 108–458, title VII, §7406, Dec. 17, 2004, 118 Stat. 3851.)
+(Pub. L. 93–288, title VI, §611, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3102; amended Pub. L. 104–66, title II, §2071, Dec. 21, 1995, 109 Stat. 729; Pub. L. 108–458, title VII, §7406, Dec. 17, 2004, 118 Stat. 3851; Pub. L. 109–308, §3, Oct. 6, 2006, 120 Stat. 1725.)
 
 #### References in Text
 
-Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j)(8), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Paragraph (4), referred to in subsec. (j)(6), was redesignated paragraph (5) by Pub. L. 109–308, §3(2), Oct. 6, 2006, 120 Stat. 1725.
+
+Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j)(9), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (k), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 
-In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes (40 U.S.C. 255)” and, in subsec. (j)(8), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act (40 U.S.C. 276a–276a–5))” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276(c))”, meaning 276c, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes (40 U.S.C. 255)” and, in subsec. (j)(9), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act (40 U.S.C. 276a–276a–5))” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276(c))”, meaning 276c, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -118,13 +124,19 @@ Provisions similar to those in this section were contained in section 2281 of Ti
 
 #### Amendments
 
+2006—Subsec. (e)(4). Pub. L. 109–308, §3(1), added par. (4).
+
+Subsec. (j)(2) to (9). Pub. L. 109–308, §3(2), added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively.
+
 2004—Subsec. (h). Pub. L. 108–458 substituted “Emergency preparedness compacts” for “Interstate emergency preparedness compacts” in subsec. heading, added par. (1), redesignated former pars. (1) to (3) as (2) to (4), respectively, and realigned margins of par. (2), as redesignated.
 
 1995—Subsec. (i)(3) to (5). Pub. L. 104–66 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection.”
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### National Capital Region Mutual Aid
 
@@ -264,15 +276,7 @@ Licenses and Permits.—If any person holds a license, certificate, or other per
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 
-Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, provided that:
-
-“(a) The Director of the Federal Emergency Management Agency shall establish a pilot program of designing and constructing buildings to enhance the ability of the buildings to withstand nuclear explosions and to minimize the damage to such buildings caused by a nuclear explosion. Such program shall include the designing and constructing of at least two building projects chosen by the Director so that the buildings in the projects will be able to better withstand nuclear explosions and so that any damage to the buildings in the project caused by a nuclear explosion will be minimized.
-
-“(b) The Director of the Federal Emergency Management Agency shall submit a report to the Senate and the House of Representatives not later than April 1, 1981, on the establishment under subsection (a) of the pilot program.
-
-“(c) Of the sums authorized to be appropriated under section 701 \[which authorized an appropriation of $120,000,000 for fiscal year 1981 to carry out the Federal Civil Defense Act of 1950, 50 U.S.C. App. 2251–2303\], $400,000 shall be available to carry out the pilot program established pursuant to subsection (a).
-
-“(d) This section shall take effect on October 1, 1980.”
+Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, required the Director of the Federal Emergency Management Agency to establish a pilot program of designing and constructing buildings able to withstand nuclear explosions and to submit a report to Congress on the establishment of the pilot program no later than Apr. 1, 1981.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

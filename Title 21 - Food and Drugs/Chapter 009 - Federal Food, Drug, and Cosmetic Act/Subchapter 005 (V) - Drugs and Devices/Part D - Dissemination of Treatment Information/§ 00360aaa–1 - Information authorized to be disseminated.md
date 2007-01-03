@@ -6,7 +6,7 @@ A manufacturer may disseminate information under section 360aaa of this title on
 
 &emsp;(1) is in the form of an unabridged—
 
-&emsp;&emsp;(A) reprint or copy of an article, peer-reviewed by experts qualified by scientific training or experience to evaluate the safety or effectiveness of the drug or device involved, which was published in a scientificor medical journal (as defined in section 360aaa–5(5) of this title), which is about a clinical investigation with respect to the drug or device, and which would be considered to be scientifically sound by such experts; or
+&emsp;&emsp;(A) reprint or copy of an article, peer-reviewed by experts qualified by scientific training or experience to evaluate the safety or effectiveness of the drug or device involved, which was published in a scientific or medical journal (as defined in section 360aaa–5(5) of this title), which is about a clinical investigation with respect to the drug or device, and which would be considered to be scientifically sound by such experts; or
 
 &emsp;&emsp;(B) reference publication, described in subsection (b) of this section, that includes information about a clinical investigation with respect to the drug or device that would be considered to be scientifically sound by experts qualified by scientific training or experience to evaluate the safety or effectiveness of the drug or device that is the subject of such a clinical investigation; and
 

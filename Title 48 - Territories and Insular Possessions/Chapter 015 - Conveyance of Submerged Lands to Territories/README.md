@@ -5,15 +5,7 @@
 | 1701 to 1703. Repealed. |  |
 | [1704\.](%C2%A7%2001704%20-%20Concurrent%20jurisdiction%3B%20exceptions%20for%20national%20defense%20purposes.md) | Concurrent jurisdiction; exceptions for national defense purposes. |
 | [1705\.](%C2%A7%2001705%20-%20Tidelands%2C%20submerged%20lands%2C%20or%20filled%20lands.md) | Tidelands, submerged lands, or filled lands. |
-| (a) | Conveyance to Guam, Virgin Islands, and American Samoa. |
-| (b) | Retention of certain lands and mineral rights by United States. |
-| (c) | Submittal to Congressional committees of proposals for conveyance of retained lands or rights. |
-| (d) | Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc. |
 | [1706\.](%C2%A7%2001706%20-%20Reserved%20rights.md) | Reserved rights. |
-| (a) | Establishment of naval defense sea areas and airspace reservations. |
-| (b) | Navigation; flood control; power production. |
-| (c) | Navigational servitude and powers of regulation for purposes of commerce, navigation, national defense, and international affairs. |
-| (d) | Status of lands beyond the three-mile limit. |
 | [1707\.](%C2%A7%2001707%20-%20Payment%20of%20rents%2C%20royalties%2C%20and%20fees%20to%20local%20government.md) | Payment of rents, royalties, and fees to local government. |
 | [1708\.](%C2%A7%2001708%20-%20Discrimination%20prohibited%20in%20rights%20of%20access%20to%2C%20and%20benefits%20from%2C%20conveyed%20lands.md) | Discrimination prohibited in rights of access to, and benefits from, conveyed lands. |
 

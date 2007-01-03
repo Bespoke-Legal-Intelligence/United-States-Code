@@ -2,7 +2,7 @@
 
 #### (a) Payment of United States contribution; review of payment and voting structure with other donor nations
 
-The United States Governor is authorized to contribute on behalf of the United States $50,000,000 to the African Development Fund, which would represent an additional United States contribution to the first replenishment. The Secretary of the Treasury is directed to begin discussions with other donor nations to the African Development Fund for the purpose of setting amounts and of reviewing and possibly changing the voting structure within the Fund: <i>Provided, however</i>, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
+The United States Governor is authorized to contribute on behalf of the United States $50,000,000 to the African Development Fund, which would represent an additional United States contribution to the first replenishment. The Secretary of the Treasury is directed to begin discussions with other donor nations tothe African Development Fund for the purpose of setting amounts and of reviewing and possibly changing the voting structure within the Fund: <i>Provided, however</i>, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 #### (b) Authorization of appropriations
 

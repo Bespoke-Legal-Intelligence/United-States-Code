@@ -22,7 +22,7 @@ Report.—(1) If the aggregate of the amounts specified in paragraphs (1) and (2
 
 &emsp;(B) the aggregate of the amounts authorized to be appropriated for the fiscal year preceding the fiscal year referred to in subparagraph (A) for the procurement of items of equipment, and for military construction, for the reserve components.
 
-(3) A report required under paragraph (1) for a fiscal year shall be submitted not later than 15days after the date on which the President submits to Congress the budget for such fiscal year under section 1105(a) of title 31.
+(3) A report required under paragraph (1) for a fiscal year shall be submitted not later than 15 days after the date on which the President submits to Congress the budget for such fiscal year under section 1105(a) of title 31.
 
 (Added Pub. L. 104–201, div. A, title XII, §1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amended Pub. L. 105–85, div. A, title X, §1009(a), Nov. 18, 1997, 111 Stat. 1872; Pub. L. 106–398, §1 \[\[div. A\], title IX, §931\], Oct. 30, 2000, 114 Stat. 1654, 1654A–237.)
 

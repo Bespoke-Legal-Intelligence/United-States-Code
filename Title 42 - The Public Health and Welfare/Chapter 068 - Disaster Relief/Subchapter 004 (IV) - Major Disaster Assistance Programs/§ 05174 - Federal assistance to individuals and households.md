@@ -14,7 +14,7 @@
 
 #### (1) Eligibility
 
-&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable as a result of damage caused by a major disaster.
+&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
 
 #### (2) Determination of appropriate types of assistance
 
@@ -34,11 +34,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings.
+&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
 
 #### (ii) Amount
 
-&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, or unit installation not provided directly by the President.
+&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, security deposits, or unit installation not provided directly by the President.
 
 #### (B) Direct assistance
 
@@ -68,27 +68,19 @@
 
 &emsp;&emsp;A recipient of assistance provided under this paragraph shall not be required to show that the assistance can be met through other means, except insurance proceeds.
 
-#### (C) Maximum amount of assistance
-
-&emsp;&emsp;The amount of assistance provided to a household under this paragraph shall not exceed $5,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
-
 #### (3) Replacement
 
 #### (A) In general
 
 &emsp;&emsp;The President may provide financial assistance for the replacement of owner-occupied private residences damaged by a major disaster.
 
-#### (B) Maximum amount of assistance
-
-&emsp;&emsp;The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflectchanges in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
-
-#### (C) Applicability of flood insurance requirement
+#### (B) Applicability of flood insurance requirement
 
 &emsp;&emsp;With respect to assistance provided under this paragraph, the President may not waive any provision of Federal law requiring the purchase of flood insurance as a condition of the receipt of Federal disaster assistance.
 
 #### (4) Permanent housing construction
 
-&emsp;The President may provide financial assistance or direct assistance to individuals or households to construct permanent housing in insular areas outside the continental United States and in other remote locations in cases in which—
+&emsp;The President may provide financial assistance or direct assistance to individuals orhouseholds to construct permanent or semi-permanent housing in insular areas outside the continental United States and in other locations in cases in which—
 
 &emsp;&emsp;(A) no alternative housing resources are available; and
 
@@ -102,9 +94,11 @@
 
 &emsp;&emsp;Any readily fabricated dwelling provided under this section shall, whenever practicable, be located on a site that—
 
-&emsp;&emsp;&emsp;(i) is complete with utilities; and
+&emsp;&emsp;&emsp;(i) is complete with utilities;
 
-&emsp;&emsp;&emsp;(ii) is provided by the State or local government, by the owner of the site, or by the occupant who was displaced by the major disaster.
+&emsp;&emsp;&emsp;(ii) meets the physical accessibility requirements for individuals with disabilities; and
+
+&emsp;&emsp;&emsp;(iii) is provided by the State or local government, by the owner of the site, or by the occupant who was displaced by the major disaster.
 
 #### (B) Sites provided by the President
 
@@ -196,11 +190,25 @@
 
 &emsp;The limit established under paragraph (1) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
-#### (i) Rules and regulations
+#### (i) Verification measures
+
+In carrying out this section, the President shall develop a system, including an electronic database, that shall allow the President, or the designee of the President, to—
+
+&emsp;(1) verify the identity and address of recipients of assistance under this section to provide reasonable assurance that payments are made only to an individual or household that is eligible for such assistance;
+
+&emsp;(2) minimize the risk of making duplicative payments or payments for fraudulent claims under this section;
+
+&emsp;(3) collect any duplicate payment on a claim under this section, or reduce the amount of subsequent payments to offset the amount of any such duplicate payment;
+
+&emsp;(4) provide instructions to recipients of assistance under this section regarding the proper use of any such assistance, regardless of how such assistance is distributed; and
+
+&emsp;(5) conduct an expedited and simplified review and appeal process for an individual or household whose application for assistance under this section is denied.
+
+#### (j) Rules and regulations
 
 The President shall prescribe rules and regulations to carry out this section, including criteria, standards, and procedures for determining eligibility for assistance.
 
-(Pub. L. 93–288, title IV, §408, as added Pub. L. 100–707, title I, §106(d), Nov. 23, 1988, 102 Stat. 4702; amended Pub. L. 106–390, title II, §206(a), Oct. 30, 2000, 114 Stat. 1566.)
+(Pub. L. 93–288, title IV, §408, as added Pub. L. 100–707, title I, §106(d), Nov. 23, 1988, 102 Stat. 4702; amended Pub. L. 106–390, title II, §206(a), Oct. 30, 2000, 114 Stat. 1566; Pub. L. 109–295, title VI, §§685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, 120 Stat. 1447–1449, 1452, 1461.)
 
 #### Prior Provisions
 
@@ -209,6 +217,22 @@ A prior section 5174, Pub. L. 93–288, title IV, §404, May 22, 1974, 88 Stat. 
 A prior section 408 of Pub. L. 93–288 was classified to section 5178 of this title and to a note set out under section 5178 of this title prior to repeal by Pub. L. 100–707.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–295, §689(c)(1), inserted “, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable,” after “uninhabitable”.
+
+Subsec. (c)(1)(A)(i). Pub. L. 109–295, §689d(1), inserted at end “Such assistance may include the payment of the cost of utilities, excluding telephone service.”
+
+Subsec. (c)(1)(A)(ii). Pub. L. 109–295, §689d(2), inserted “security deposits,” after “hookups,”.
+
+Subsec. (c)(2)(C). Pub. L. 109–295, §686(1), struck out subpar. (C) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $5,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
+
+Subsec. (c)(3)(B), (C). Pub. L. 109–295, §686(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.”
+
+Subsec. (c)(4). Pub. L. 109–295, §685, in introductory provisions, inserted “or semi-permanent” after “permanent” and struck out “remote” before “locations”.
+
+Subsec. (d)(1)(A)(ii), (iii). Pub. L. 109–295, §689(c)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsecs. (i), (j). Pub. L. 109–295, §696(c), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 2000–Pub. L. 106–390 amended section catchline and text generally. Prior to amendment, text provided for temporary housing assistance through provision of temporary housing, temporary mortgage and rental payment assistance, expenditures to repair or restore owner-occupied private residential structures made uninhabitable by a major disaster which are capable of being restored quickly, and transfer of temporary housing to occupants or to States, local governments, and voluntary organizations, required notification to applicants for assistance, and set out location factors to be given consideration in the provision of assistance.
 

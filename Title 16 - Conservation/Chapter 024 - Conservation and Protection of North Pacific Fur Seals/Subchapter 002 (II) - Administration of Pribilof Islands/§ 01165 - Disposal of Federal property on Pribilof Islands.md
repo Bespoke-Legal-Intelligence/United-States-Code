@@ -74,7 +74,7 @@ Section 1166(a) of this title, referred to in subsec. (d)(6), was amended genera
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of theSenate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
+2000—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
 
 Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
 
@@ -142,7 +142,7 @@ Low-Interest Loan Program.—
 
 &emsp;“(1)
 
-Capitalization of revolving fund.—Of amounts authorized under subsection (f) for each of fiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to $2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
+Capitalization of revolving fund.—Of amounts authorized under subsection (f) for each of fiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to$2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
 
 &emsp;“(2)
 
@@ -158,7 +158,7 @@ Reversion of funds.—Before the Secretary may provide any funds to the State of
 
 \[Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], and Pub. L. 106–562, §§105(a)(4), 106(a), 107, made substantially identical amendments to section 3 of Pub. L. 104–91, set out above. The text of subsecs. (f) and (g) of section 3 is based on amendments by Pub. L. 106–562.\]
 
-\[Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, provided that, effective on the date on which the Secretary of Commerce makes the certification described in Pub. L. 106–562, §105(b)(2), set out in a Termination of Responsibilities note under section 1161 of this title, section 3 of Pub. L. 104–91, set out above, is repealed. Pub. L. 106–554, §1(a)(4) \[div. B, title I,§144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247, enacted a provision substantially identical to Pub. L. 106–562, §105(c).\]
+\[Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, provided that, effective on the date on which the Secretary of Commerce makes the certification described in Pub. L. 106–562, §105(b)(2), set out in a Termination of Responsibilities note under section 1161 of this title, section 3 of Pub. L. 104–91, set out above, is repealed. Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247, enacted a provision substantially identical to Pub. L. 106–562, §105(c).\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

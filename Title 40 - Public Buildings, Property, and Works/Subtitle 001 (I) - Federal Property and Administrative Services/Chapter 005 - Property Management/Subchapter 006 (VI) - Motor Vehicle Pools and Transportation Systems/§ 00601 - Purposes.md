@@ -96,7 +96,7 @@ Sec. 9. <i>Motor vehicles exempted from inclusion in interagency motor-vehicle p
 
 (i) Motor vehicles for the use of the heads of the executive agencies, ambassadors, ministers, charge d'affaires, and other principal diplomatic and consular officials.
 
-(ii) Motor vehicles regularly and principally used for the transportation of diplomats and representatives of foreign countries or by officers of the Department ofState for the conduct of official business with representatives of foreign countries.
+(ii) Motor vehicles regularly and principally used for the transportation of diplomats and representatives of foreign countries or by officers of the Department of State for the conduct of official business with representatives of foreign countries.
 
 (iii) Motor vehicles regularly used for the distribution and transportation of mails.
 

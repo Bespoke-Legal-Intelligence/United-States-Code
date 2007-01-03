@@ -4,7 +4,7 @@
 
 A State shall be eligible to receive a grant under this part if—
 
-&emsp;(1) the State submits to the Secretary as part of its application under section 209 <sup>1</sup> such information and assurances as the Secretary may require at such time as the Secretary shall establish; and
+&emsp;(1) the State submits to the Secretary as part of its application under section 209 <sup>1</sup> such information and assurances as the Secretarymay require at such time as the Secretary shall establish; and
 
 &emsp;(2) the Secretary approves such application.
 

@@ -44,7 +44,3 @@ Historical and Revision Notes
 
 Section 11502 describes the manner in which offenses must be recorded in the official logbook, and the use of the records by the court.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11301 of this title.
-

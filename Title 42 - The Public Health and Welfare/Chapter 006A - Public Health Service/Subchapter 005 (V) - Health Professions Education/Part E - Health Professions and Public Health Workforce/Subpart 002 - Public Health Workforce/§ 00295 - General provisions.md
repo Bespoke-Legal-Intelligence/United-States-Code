@@ -84,5 +84,5 @@ A prior section 765 of act July 1, 1944, was classified to section 294c of this 
 
 Another prior section 765 of act July 1, 1944, was classified to section 295d of this title prior to repeal by Pub. L. 99–129.
 
-Another prior section 765 of act July 1, 1944, was classified to section 295d of this title prior to the generalamendment of part D of this subchapter by Pub. L. 91–696.
+Another prior section 765 of act July 1, 1944, was classified to section 295d of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
 

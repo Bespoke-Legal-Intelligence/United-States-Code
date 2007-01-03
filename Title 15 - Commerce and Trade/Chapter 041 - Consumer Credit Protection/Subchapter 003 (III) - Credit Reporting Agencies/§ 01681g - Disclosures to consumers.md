@@ -92,7 +92,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumersunder this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
 
 #### (2) Summary of rights and contact information
 
@@ -102,7 +102,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
+&emsp;For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification ofthe identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
 
 &emsp;&emsp;(A) the victim;
 
@@ -168,7 +168,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (7) Limitation on civil liability
 
-&emsp;No business entity may be held civilly liable under any provision of Federal, State, or otherlaw for disclosure, made in good faith pursuant to this subsection.
+&emsp;No business entity may be held civilly liable under any provision of Federal, State, or other law for disclosure, made in good faith pursuant to this subsection.
 
 #### (8) No new recordkeeping obligation
 
@@ -270,7 +270,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;In complying with this subsection, a consumer reporting agency shall—
 
-&emsp;&emsp;(A) supply the consumer with a credit score that is derived from a credit scoring model that is widely distributed to users by that consumer reporting agency in connection with residential real property loans or with a credit score that assists the consumer in understanding the credit scoring assessment of the credit behavior of the consumer and predictions about the future credit behavior of the consumer; and
+&emsp;&emsp;(A) supply the consumer with a credit score that is derived from a credit scoring model that is widely distributed to users by that consumer reporting agency in connection with residential real property loans orwith a credit score that assists the consumer in understanding the credit scoring assessment of the credit behavior of the consumer and predictions about the future credit behavior of the consumer; and
 
 &emsp;&emsp;(B) a statement indicating that the information and credit scoring model may be different than that used by the lender.
 

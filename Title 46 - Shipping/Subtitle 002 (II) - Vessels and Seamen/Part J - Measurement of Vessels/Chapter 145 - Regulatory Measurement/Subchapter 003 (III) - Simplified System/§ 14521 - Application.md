@@ -2,7 +2,7 @@
 
 This subchapter applies to a vessel described in section 14501 of this title that is not measured under subchapter II of this chapter.
 
-(Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1925.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1925.)
 
 #### Historical and Revision Notes
 

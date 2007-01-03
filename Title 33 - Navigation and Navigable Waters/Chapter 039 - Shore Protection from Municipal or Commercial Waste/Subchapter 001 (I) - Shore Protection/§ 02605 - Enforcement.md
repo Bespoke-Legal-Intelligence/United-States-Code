@@ -10,7 +10,7 @@ The Secretary shall conduct periodic examinations of vessels operating under thi
 
 #### (c) Refusal of clearance
 
-The Secretary of the Treasury may refuse the clearance required by section 91 of title 46, Appendix, to any vessel subject to this chapter which does not have a permit required under section 2602 of this title.
+The Secretary of the Treasury may refuse the clearance required by section 60105 of title 46, to any vessel subject to this chapter which does not have a permit required under section 2602 of this title.
 
 #### (d) Denial of entry and detention
 
@@ -25,4 +25,8 @@ If a vessel does not comply with this chapter, the Secretary of Transportation m
 The Administrator shall conduct an investigation of the owner or operator of a vessel or facility if the owner has 5 or more separate violations during a 6-month period.
 
 (Pub. L. 100–688, title IV, §4105, Nov. 18, 1988, 102 Stat. 4157.)
+
+#### Codification
+
+In subsec. (c), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 

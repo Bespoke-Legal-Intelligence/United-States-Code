@@ -68,7 +68,7 @@ Geographic proximity of conflict resolution provision.—In providing assessment
 
 #### (7) Coordination
 
-&emsp;The Foundation shall assist in the development and implementation of a Program for Environmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
+&emsp;The Foundation shall assist in the development and implementation of a Program forEnvironmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
 
 #### (b) Morris K. Udall Scholars
 

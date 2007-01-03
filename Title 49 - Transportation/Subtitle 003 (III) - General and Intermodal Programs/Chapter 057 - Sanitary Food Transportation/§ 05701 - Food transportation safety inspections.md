@@ -20,7 +20,7 @@ Training.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary of Transportation shall develop and carry out atraining program to conduct enforcement of this chapter and regulations prescribed under this chapter or compatible State laws and regulations.
+In general.—The Secretary of Transportation shall develop and carry out a training program to conduct enforcement of this chapter and regulations prescribed under this chapter or compatible State laws and regulations.
 
 &emsp;&emsp;(B)
 

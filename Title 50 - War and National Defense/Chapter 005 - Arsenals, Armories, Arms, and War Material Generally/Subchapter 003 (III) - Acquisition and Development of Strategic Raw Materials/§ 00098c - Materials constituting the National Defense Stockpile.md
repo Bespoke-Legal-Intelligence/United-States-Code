@@ -50,7 +50,7 @@ A prior section 98c, acts June 7, 1939, ch. 190, §4, 53 Stat. 811; July 23, 194
 
 Subsec. (c). Pub. L. 104–106, §3311(a), added subsec. (c).
 
-1986—Pub. L. 99–661 substituted “on July 29, 1979” for “on the day before the date of the date of enactment ofthe Strategic and Critical Materials Stock Piling Revision Act of 1979” in pars. (1) and (3), and “after July 29, 1979” for “on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in par. (2).
+1986—Pub. L. 99–661 substituted “on July 29, 1979” for “on the day before the date of the date of enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in pars. (1) and (3), and “after July 29, 1979” for “on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in par. (2).
 
 #### Clarification of Stockpile Status of Certain Materials
 

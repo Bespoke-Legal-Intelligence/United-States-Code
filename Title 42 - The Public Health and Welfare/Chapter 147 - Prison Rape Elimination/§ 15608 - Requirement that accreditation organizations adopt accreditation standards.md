@@ -10,7 +10,7 @@ To be eligible to receive Federal grants, an accreditation organization referred
 
 &emsp;(1) At all times after 90 days after September 4, 2003, the organization shall have in effect, for each facility that it is responsible for accrediting, accreditation standards for the detection, prevention, reduction, and punishment of prison rape.
 
-&emsp;(2) At all times after 1 year after the date of the adoption of the final rule under section 15607(a)(4) of this title, the organization shall, in addition to any other such standards that it may promulgate relevant to the detection, prevention, reduction, and punishment of prison rape, adopt accreditation standards consistent with the national standards adopted pursuant to such final rule.
+&emsp;(2) At all times after 1 year after the date of the adoption of the final rule under section 15607(a)(4) of this title, the organization shall, in addition to any other such standards that itmay promulgate relevant to the detection, prevention, reduction, and punishment of prison rape, adopt accreditation standards consistent with the national standards adopted pursuant to such final rule.
 
 (Pub. L. 108–79, §9, Sept. 4, 2003, 117 Stat. 987.)
 

@@ -42,7 +42,7 @@ Any reference in this joint resolution to the “Compact” shall be treated as 
 
 &emsp;(B) enactment of a joint resolution which has been reported by the Committee on Energy and Natural Resources of the Senate and the Committees on Interior and Insular Affairs and Foreign Affairs and other appropriate Committees of the House of Representatives authorizing entry into force of the Compact, and
 
-&emsp;(C) agreements have been concluded with Palau which satisfy the requirements of section 1902 of this title. For the purpose of this subsection the word “Palau” shall be substituted for “Federated States of Micronesia” whenever it appears in section 1902 of this title.
+&emsp;(C) agreements have been concluded with Palau which satisfy the requirements of section 1902 of this title. For the purpose of thissubsection the word “Palau” shall be substituted for “Federated States of Micronesia” whenever it appears in section 1902 of this title.
 
 (2) Any agreement concluded with Palau pursuant to subparagraph (C) of paragraph (1) and any agreement which would amend, change, or terminate any subsidiary agreement or related agreement, or portion thereof, as set forth in paragraph (4) of this subsection shall be submitted to the Congress. No such agreement shall take effect until after the expiration of 30 days after the date such agreement is so submitted (excluding days on which either House of Congress is not in session).
 
@@ -616,7 +616,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) The United States Coast Guard Academy pursuant to 14 U.S.C. 195; and
 
-“(b) The United States Merchant Marine Academy pursuant to 46 U.S.C. 1295b(b)(6), provided that the provisions of 46 U.S.C. 1295b(b)(6)(C) shall not apply to the enrollment of students pursuant to Section 342(b) of this Compact.
+“(b) The United States Merchant Marine Academy pursuant to \[former\] 46 U.S.C. \[App.\] 1295b(b)(6) \[see 46 U.S.C. 51304\], provided that the provisions of 46 U.S.C. \[App.\] 1295b(b)(6)(C) \[now 46 U.S.C. 51304(b)(2)\] shall not apply to the enrollment of students pursuant to Section 342(b) of this Compact.
 
 #### “Article V
 
@@ -634,7 +634,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 352
 
-“In the exercise of its authority and responsibility under this Compact, the Government of the United States shall accord due respect to the authority and responsibility of the Government of Palau under this Compact and to the responsibility of the Government of Palau to assure the well-being of Palau and its people. The Government of the United States and the Government of Palau agree that the authority and responsibility of the United States set forth in this Title are exercised for the mutual security and benefit of Palau and the United States, and that any attack on Palauwould constitute a threat to the peace and security of the entire region and a danger to the United States. In the event of such an attack, or threat thereof, the Government of the United States would take action to meet the danger to the United States and Palau in accordance with its constitutional processes.
+“In the exercise of its authority and responsibility under this Compact, the Government of the United States shall accord due respect to the authority and responsibility of the Government of Palau under this Compact and to the responsibility of the Government of Palau to assure the well-being of Palau and its people. The Government of the United States and the Government of Palau agree that the authority and responsibility of the United States set forth in this Title are exercised for the mutual security and benefit of Palauand the United States, and that any attack on Palau would constitute a threat to the peace and security of the entire region and a danger to the United States. In the event of such an attack, or threat thereof, the Government of the United States would take action to meet the danger to the United States and Palau in accordance with its constitutional processes.
 
 #### “Section 353
 
@@ -718,7 +718,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 442
 
-“This Compact may be terminated by the Government of the United States subject to Section 452, such termination to be effective on the date specified in the notice of termination by the Government of the United States but not earlier than six months following delivery of such notice. The time specified in the notice of termination may be extended.
+“This Compact may be terminated by the Government of the United States subject to Section 452, such termination to be effective on the date specified in the notice of termination by the Government of the UnitedStates but not earlier than six months following delivery of such notice. The time specified in the notice of termination may be extended.
 
 #### “Section 443
 

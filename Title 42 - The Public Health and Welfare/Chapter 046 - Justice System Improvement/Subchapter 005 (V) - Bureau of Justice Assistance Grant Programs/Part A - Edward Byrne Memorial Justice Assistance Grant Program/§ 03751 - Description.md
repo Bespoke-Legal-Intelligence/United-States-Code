@@ -28,11 +28,9 @@
 
 A State or unit of local government may, in using a grant under this part for purposes authorized by subsection (a) of this section, use all or a portion of that grant to contract with or make one or more subawards to one or more—
 
-&emsp;(1) neighborhood or community-based organizations that are private and nonprofit;
+&emsp;(1) neighborhood or community-based organizations that are private and nonprofit; or
 
-&emsp;(2) units of local government; or
-
-&emsp;(3) tribal governments.
+&emsp;(2) units of local government.
 
 #### (c) Program assessment component; waiver
 
@@ -70,7 +68,7 @@ The period of a grant made under this part shall be four years, except that rene
 
 Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indirectly, of funds provided under this part to provide security at a public event, such as a political convention or major sports event, so long as such security is provided under applicable laws and procedures.
 
-(Pub. L. 90–351, title I, §501, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3095.)
+(Pub. L. 90–351, title I, §501, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3095; amended Pub. L. 109–271, §8(h), Aug. 12, 2006, 120 Stat. 767.)
 
 #### References in Text
 
@@ -79,6 +77,10 @@ This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Sta
 #### Prior Provisions
 
 For prior sections 501 of Pub. L. 90–351 and prior sections 3751 of this title, see notes set out preceding section 3750 of this title.
+
+#### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–271 struck out par. (3) which read as follows: “tribal governments.”
 
 #### Effective Date
 

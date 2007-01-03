@@ -22,7 +22,7 @@
 
 (B) The waiver authority provided in this paragraph does not apply with respect to a qualified products list.
 
-(3) A potential offeror may not be denied the opportunity to submit and have considered an offer for a contract solely because the potential offeror (A) is not on a qualified bidders list, qualified manufacturers list, or qualified products list, or (B) has not been identified as meeting a qualification requirement established after October 19, 1984, if the potential offeror can demonstrate to the satisfaction of the contracting officer (or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item) that the potential offeror or its product meets the standards established for qualification or can meet such standards before the date specified for award of the contract.
+(3) A potential offeror may not be denied the opportunity to submit and have considered an offer for a contract solely because the potential offeror (A) is not on a qualified bidders list, qualified manufacturers list, or qualified products list, or (B) has not been identified as meeting a qualification requirement established after October 19, 1984, if the potential offeror can demonstrate to the satisfaction of the contracting officer (or, in the case of a contract for the procurement of an aviation critical safety item or ship critical safety item, the head of the design control activity for such item) that the potential offeror or its product meets the standards established for qualification or can meet such standards before the date specified for award of the contract.
 
 (4) Nothing contained in this subsection requires the referral of an offer to the Small Business Administration pursuant to section 8(b)(7) of the Small Business Act (15 U.S.C. 637(b)(7)) if the basis for the referral is a challenge by the offeror to either the validity of the qualification requirement or the offeror's compliance with such requirement.
 
@@ -48,11 +48,17 @@ Definitions.—In this section:
 
 &emsp;(1) The term “aviation critical safety item” means a part, an assembly, installation equipment, launch equipment, recovery equipment, or support equipment for an aircraft or aviation weapon system if the part, assembly, or equipment contains a characteristic any failure, malfunction, or absence of which could cause a catastrophic or critical failure resulting in the loss of or serious damage to the aircraft or weapon system, an unacceptable risk of personal injury or loss of life, or an uncommanded engine shutdown that jeopardizes safety.
 
-&emsp;(2) The term “design control activity”, with respect to an aviation critical safety item, means the systems command of a military department that is specifically responsible for ensuring the airworthiness of an aviation system or equipment in which the item is to be used.
+&emsp;(2) The term “ship critical safety item” means any ship part, assembly, or support equipment containing a characteristic the failure, malfunction, or absence of which could cause a catastrophic or critical failure resulting in loss of or serious damage to the ship or unacceptable risk of personal injury or loss of life.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, 101 Stat. 281, 282, 284; Pub. L. 108–136, div. A, title VIII, §802(d), Nov. 24, 2003, 117 Stat. 1541.)
+&emsp;(3) The term “design control activity”, with respect to an aviation critical safety item or ship critical safety item, means the systems command of a military department that is specifically responsible for ensuring the airworthiness of an aviation system or equipment, or the seaworthiness of a ship or ship equipment, in which such item is to be used.
+
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, 101 Stat. 281, 282, 284; Pub. L. 108–136, div. A, title VIII, §802(d), Nov. 24, 2003, 117 Stat. 1541; Pub. L. 109–364, div. A, title I, §130(d), Oct. 17, 2006, 120 Stat. 2110.)
 
 #### Amendments
+
+2006—Subsec. (c)(3). Pub. L. 109–364, §130(d)(1), inserted “or ship critical safety item” after “aviation critical safety item”.
+
+Subsec. (g)(2), (3). Pub. L. 109–364, §130(d)(2), added par. (2), redesignated former par. (2) as (3), inserted “or ship critical safety item” after “aviation critical safety item” and “, or the seaworthiness of a ship or ship equipment,” after “or equipment”, and substituted “such item” for “the item”.
 
 2003—Subsec. (c)(3). Pub. L. 108–136, §802(d)(1), inserted “(or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item)” after “the contracting officer”.
 

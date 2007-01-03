@@ -10,7 +10,7 @@ For the purpose of making any household substance which is subject to a standard
 
 #### (b) Noncomplying packages for substances dispensed pursuant to orders of medical practitioners
 
-In the case of a household substance which is subject to such a standard and which is dispensed pursuant to an order of physician, dentist, or other licensed medical practitioner authorized to prescribe, such substance may bedispensed in noncomplying packages only when directed in such order or when requested by the purchaser.
+In the case of a household substance which is subject to such a standard and which is dispensed pursuant to an order of physician, dentist, or other licensed medical practitioner authorized to prescribe, such substance may be dispensed in noncomplying packages only when directed in such order or when requested by the purchaser.
 
 #### (c) Exclusive use of special packaging; necessary circumstances
 

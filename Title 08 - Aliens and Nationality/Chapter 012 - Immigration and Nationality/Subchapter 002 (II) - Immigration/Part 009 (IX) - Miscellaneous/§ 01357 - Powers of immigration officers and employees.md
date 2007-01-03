@@ -20,7 +20,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 > &emsp;if the officer or employee is performing duties relating to the enforcement of the immigration laws at the time of the arrest and if there is a likelihood of the person escaping before a warrant can be obtained for his arrest.
 
-> Under regulations prescribed by the Attorney General, an officer or employee of the Service may carry a firearm and may execute and serve any order, warrant, subpoena, summons, or other process issued under the authority of theUnited States. The authority to make arrests under paragraph (5)(B) shall only be effective on and after the date on which the Attorney General publishes final regulations which (i) prescribe the categories of officers and employees of the Service who may use force (including deadly force) and the circumstances under which such force may be used, (ii) establish standards with respect to enforcement activities of the Service, (iii) require that any officer or employee of the Service is not authorized to make arrests under paragraph (5)(B) unless the officer or employee has received certification as having completed a training program which covers such arrests and standards described in clause (ii), and (iv) establish an expedited, internal review process for violations of such standards, which process is consistent with standard agency procedure regarding confidentiality of matters related to internal investigations.
+> Under regulations prescribed by the Attorney General, an officer or employee of the Service may carry a firearm and may execute and serve any order, warrant, subpoena, summons, or other process issued under the authority of the United States. The authority to make arrests under paragraph (5)(B) shall only be effective on and after the date on which the Attorney General publishes final regulations which (i) prescribe the categories of officers and employees of the Service who may use force (including deadly force) and the circumstances under which such force may be used, (ii) establish standards with respect to enforcement activities of the Service, (iii) require that any officer or employee of the Service is not authorized to make arrests under paragraph (5)(B) unless the officer or employee has received certification as having completed a training program which covers such arrests and standards described in clause (ii), and (iv) establish an expedited, internal review process for violations of such standards, which process is consistent with standard agency procedure regarding confidentiality of matters related to internal investigations.
 
 #### (b) Administration of oath; taking of evidence
 
@@ -78,15 +78,17 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 &emsp;(B) otherwise to cooperate with the Attorney General in the identification, apprehension, detention, or removal of aliens not lawfully present in the United States.
 
-#### (i) <sup>1</sup> Protecting abused juveniles
+#### (h) Protecting abused juveniles
 
 An alien described in section 1101(a)(27)(J) of this title who has been battered, abused, neglected, or abandoned, shall not be compelled to contact the alleged abuser (or family member of the alleged abuser) at any stage of applying for special immigrant juvenile status, including after a request for the consent of the Secretary of Homeland Security under section 1101(a)(27)(J)(iii)(I) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623; Pub. L. 109–162, title VIII, §826, Jan. 5, 2006, 119 Stat. 3065.)
+(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623; Pub. L. 109–162, title VIII, §826, Jan. 5, 2006, 119 Stat. 3065; Pub. L. 109–271, §6(g), Aug. 12, 2006, 120 Stat. 763.)
 
 #### Amendments
 
-2006—Subsec. (i). Pub. L. 109–162, which directed the amendment of this section “as amended by section 726” by adding cl. (i) at end, was executed by adding subsec. (i) at end to reflect the probable intent of Congress. Pub. L. 109–162 does not contain a section 726.
+2006—Subsecs. (h), (i). Pub. L. 109–271 redesignated subsec. (i) as (h).
+
+Subsec. (i). Pub. L. 109–162, which directed the amendment of this section “as amended by section 726” by adding cl. (i) at end, was executed by adding subsec. (i) at end to reflect the probable intent of Congress. Pub. L. 109–162 does not contain a section 726.
 
 1996—Subsec. (a)(2), (4). Pub. L. 104–208, §308(d)(4)(L)(i), substituted “expulsion, or removal” for “or expulsion”.
 
@@ -100,7 +102,7 @@ Pub. L. 104–208, §133, added subsec. (g).
 
 1991—Subsec. (a)(4). Pub. L. 102–232 substituted a semicolon for comma at end.
 
-1990—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall also have the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
+1990—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall also have the power to execute any warrant or other processissued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
 
 Subsec. (f). Pub. L. 101–649, §503(b)(1), added subsec. (f).
 
@@ -124,11 +126,9 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 2(e) of Pub. L. 100–525 effective as if included in enactment of Immigration Reform andControl Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by section 2(e) of Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-<i><sup>1</sup></i><i> So in original. No subsec. (h) has been enacted.</i>
 

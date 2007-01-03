@@ -36,7 +36,7 @@ In this division:
 
 &emsp;&emsp;(A) under which Corps members learn and develop through active participation in thoughtfully organized service experiences that meet actual community needs;
 
-&emsp;&emsp;(B) that provides structured time for a Corps member to think, talk, or write about what the Corps member did and saw during an actual service activity;
+&emsp;&emsp;(B) that provides structured time for a Corps member to think, talk, or write aboutwhat the Corps member did and saw during an actual service activity;
 
 &emsp;&emsp;(C) that provides Corps members with opportunities to use newly acquired skills and knowledge in real life situations in their own communities; and
 

@@ -104,7 +104,7 @@
 
 #### (iii) Waiver of requirement
 
-&emsp;&emsp;&emsp;A grant may exceed the maximum amount in clause (i) or (ii) if the Secretarydetermines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
+&emsp;&emsp;&emsp;A grant may exceed the maximum amount in clause (i) or (ii) if the Secretary determines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the human population in such geographical area; or
 

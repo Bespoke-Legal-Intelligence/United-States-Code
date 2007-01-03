@@ -44,7 +44,7 @@ In subsec. (d), “August 7, 1977” substituted for “the date of enactment of
 
 #### Change of Name
 
-“Federal Transit Administration” substituted for “Urban Mass Transit Administration” in subsec. (e)(2) pursuant to section 3004(a) of Pub. L. 102–240, set out as a note under section 107 of Title 49, Transportation.
+“Federal Transit Administration” substituted for “Urban Mass Transportation Administration” in subsec. (e)(2) pursuant to section 3004(b) of Pub. L. 102–240, set out as a note under section 107 of Title 49, Transportation.
 
 #### Effective Date
 

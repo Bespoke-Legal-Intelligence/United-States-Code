@@ -12,7 +12,7 @@
 
 #### (B) Narcotics and control of illegal substances
 
-&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
+&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of SubchapterII of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
 
 #### (C) Other criminal laws
 
@@ -64,7 +64,7 @@
 
 #### (1) Statement of policy
 
-&emsp;The Congress of the United States hereby declares that it is the policy of the United States that payment of funds by the Government of the Marshall Islands to the landowners of Kwajalein Atoll in accordance with the land use agreement dated October 19, 1982, and the related allocation agreements, is required in order to ensure that the Government of the United States will be able to fulfill its obligations and responsibilities under Title Three of the Compact and the subsidiary agreements concluded pursuant thereto.
+&emsp;The Congress of the United States hereby declares that it is the policy of the United Statesthat payment of funds by the Government of the Marshall Islands to the landowners of Kwajalein Atoll in accordance with the land use agreement dated October 19, 1982, and the related allocation agreements, is required in order to ensure that the Government of the United States will be able to fulfill its obligations and responsibilities under Title Three of the Compact and the subsidiary agreements concluded pursuant thereto.
 
 #### (2) Failure to pay
 
@@ -116,7 +116,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (i) Rongelap
 
-(1) Because Rongelap was directly affected by fallout from a 1954 United States thermonuclear test and because the Rongelap people remain unconvinced that it is safe to continue to live on Rongelap Island, it is the intent of Congress to take such steps (if any) as may be necessary to overcome the effects of such fallout on the habitability of Rongelap Island, and to restore Rongelap Island, if necessary, so that it can be safely inhabited. Accordingly, it is the expectation of the Congress that the Government of the Marshall Islands shall use such portion of the funds specified in Article II, section 1(e) of thesubsidiary agreement for the implementation of section 177 of the Compact as are necessary for the purpose of contracting with a qualified scientist or group of scientists to review the data collected by the Department of Energy relating to radiation levels and other conditions on Rongelap Island resulting from the thermonuclear test. It is the expectation of the Congress that the Government of the Marshall Islands, after consultation with the people of Rongelap, shall select the party to review such data, and shall contract for such review and for submission of a report to the President of the United States and the Congress as to the results thereof.
+(1) Because Rongelap was directly affected by fallout from a 1954 United States thermonuclear test and because the Rongelap people remain unconvinced that it is safe to continue to live on Rongelap Island, it is the intent of Congress to take such steps (if any) as may be necessary to overcome the effects of such fallout on the habitability of Rongelap Island, and to restore Rongelap Island, if necessary, so that it can be safely inhabited. Accordingly, it is the expectation of the Congress that the Government of the Marshall Islands shall use such portion of the funds specified in Article II, section 1(e) of the subsidiary agreement for the implementation of section 177 of the Compact as are necessary for the purpose of contracting with a qualified scientist or group of scientists to review the data collected by the Department of Energy relating to radiation levels and other conditions on Rongelap Island resulting from the thermonuclear test. It is the expectation of the Congress that the Government of the Marshall Islands, after consultation with the people of Rongelap, shall select the party to review such data, and shall contract for such review and for submission of a report to the President of the United States and the Congress as to the results thereof.
 
 (2) The purpose of the review referred to in paragraph (1) of this subsection shall be to establish whether the data cited in support of the conclusions as to the habitability of Rongelap Island, as set forth in the Department of Energy report entitled: “The Meaning of Radiation for Those Atolls in the Northern Part of the Marshall Islands That Were Surveyed in 1978”, dated November 1982, are adequate and whether such conclusions are fully supported by the data. If the party reviewing the data concludes that such conclusions as to habitability are fully supported by adequate data, the report to the President of the United States and the Congress shall so state. If the party reviewing the data concludes that the data are inadequate to support such conclusions as to habitability or that such conclusions as to habitability are not fully supported by the data, the Government of the Marshall Islands shall contract with an appropriate scientist or group of scientists to undertake a complete survey of radiation and other effects of the nuclear testing program relating to the habitability of Rongelap Island. Such sums as are necessary for such survey and report concerning the results thereof and as to steps needed to restore the habitability of Rongelap Island are authorized to be made available to the Government of the Marshall Islands.
 
@@ -140,7 +140,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (2) Monitor conditions
 
-&emsp;Upon the request of the Government of the Marshall Islands, the United States shall monitor the radiation and other conditions on Enjebi and within one year of receiving such arequest shall report to the Government of the Marshall Islands when the people of Enjebi may resettle Enjebi under circumstances where the radioactive contamination at Enjebi, including contamination derived from consumption of locally grown food products, can be reduced or otherwise controlled to meet whole body Federal radiation protection standards for the general population, including mean annual dose and mean 30-year cumulative dose standards.
+&emsp;Upon the request of the Government of the Marshall Islands, the United States shall monitor the radiation and other conditions on Enjebi and within one year of receiving such a request shall report to the Government of the Marshall Islands when the people of Enjebi may resettle Enjebi under circumstances where the radioactive contamination at Enjebi, including contamination derived from consumption of locally grown food products, can be reduced or otherwise controlled to meet whole body Federal radiation protection standards for the general population, including mean annual dose and mean 30-year cumulative dose standards.
 
 #### (3) Resettlement of Enjebi
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (5) Interest from Fund
 
-&emsp;Prior to and during the distribution of the corpus of the Fund pursuant to paragraphs (3) and (4) of this subsection, the people of Enjebi may, if they so request, receive the interest earned by the Fund on no less frequent a basis than quarterly.
+&emsp;Prior to and during the distribution of the corpus of the Fund pursuant to paragraphs (3) and (4) of this subsection, the people of Enjebi may, if they so request, receive the interestearned by the Fund on no less frequent a basis than quarterly.
 
 #### (6) Disclaimer of liability
 
@@ -216,7 +216,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Marshall Islands
 
-&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller Generalto fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39; Pub. L. 105–209, §2, July 29, 1998, 112 Stat. 880.)
 
@@ -262,7 +262,7 @@ In General.—Any earnings on, and distributions from, the Enjebi Community Trus
 
 “(b)
 
-Effective Date.—The provisions of subsection (a) shall apply to all taxable years whether beginningbefore, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Effective Date.—The provisions of subsection (a) shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Medical Care and Treatment and Environmental Research and Monitoring Program for Inhabitants of Bikini, etc., Atolls for Injury, Illness, or Condition Resulting From Nuclear Weapons Testing by United States; Implementation Plan and Report
 
@@ -276,7 +276,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 &emsp;“(3) an education and information program to enable the people of such atolls to more fully understand nuclear radiation and its effects;
 
-“(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation. The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish a scientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
+“(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation. The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish ascientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
 
 “(2) At the request of the Secretary, any Federal agency shall provide such information, personnel, facilities, logistical support, or other assistance as the Secretary deems necessary to carry out the functions of this program; the costs of all such assistance shall be reimbursed to the provider thereof out of the sums appropriated pursuant to this section.
 

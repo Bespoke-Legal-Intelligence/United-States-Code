@@ -2,7 +2,7 @@
 
 The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
 
-&emsp;(1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who leftwithout completing a program of study, reported under each of the programs of the University (elementary, secondary, preparatory, undergraduate, and graduate) and of NTID.
+&emsp;(1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, preparatory, undergraduate, and graduate) and of NTID.
 
 &emsp;(2) For the preceding academic year, and to the extent possible, the following data on individuals who are deaf and from minority backgrounds and who are students (at all educational levels) or employees:
 

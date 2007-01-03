@@ -5,41 +5,14 @@
 | [3401\.](%C2%A7%2003401%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
 | [3402\.](%C2%A7%2003402%20-%20Definitions.md) | Definitions. |
 | [3403\.](%C2%A7%2003403%20-%20Issuance%20of%20orders.md) | Issuance of orders. |
-| (a) | Notice and hearing. |
-| (b) | Effectuation of Congressional policy. |
 | [3404\.](%C2%A7%2003404%20-%20Permissive%20terms%20and%20conditions%20of%20orders.md) | Permissive terms and conditions of orders. |
-| (a) | Nutrition education plans. |
-| (b) | Research and studies. |
-| (c) | Records and reports; confidential information; penalties. |
-| (d) | Assessment exemption. |
-| (e) | Miscellaneous terms and conditions. |
 | [3405\.](%C2%A7%2003405%20-%20Wheat%20Industry%20Council.md) | Wheat Industry Council. |
-| (a) | Establishment; powers. |
-| (b) | Membership. |
-| (c) | Research and nutrition education plans. |
-| (d) | Budgets. |
-| (e) | Processed wheat assessment; payment by end product manufacturers. |
-| (f) | Maintenance of records. |
-| (g) | Contracts. |
-| (h) | Investment of assessment funds. |
-| (i) | Lobbying restriction. |
-| (j) | Reimbursement of expenses. |
 | [3406\.](%C2%A7%2003406%20-%20Exemption%20for%20retail%20bakers.md) | Exemption for retail bakers. |
 | [3407\.](%C2%A7%2003407%20-%20Referendum.md) | Referendum. |
 | [3408\.](%C2%A7%2003408%20-%20Refund%20of%20processed%20wheat%20assessment.md) | Refund of processed wheat assessment. |
-| (a) | Election of end product manufacturers to seek refunds. |
-| (b) | Refund demand; rules and regulations. |
 | [3409\.](%C2%A7%2003409%20-%20Petition%20and%20review.md) | Petition and review. |
-| (a) | Petition; hearing; ruling. |
-| (b) | Judicial review; jurisdiction; process; remand. |
 | [3410\.](%C2%A7%2003410%20-%20Enforcement%20of%20orders%20and%20regulations.md) | Enforcement of orders and regulations. |
-| (a) | Jurisdiction; reference of civil actions to Attorney General. |
-| (b) | Penalties. |
-| (c) | Other remedies. |
 | [3411\.](%C2%A7%2003411%20-%20Suspension%20and%20termination%20of%20orders.md) | Suspension and termination of orders. |
-| (a) | Authority and responsibility of Secretary. |
-| (b) | Referendum. |
-| (c) | Suspension or termination of order not to be considered an order. |
 | [3412\.](%C2%A7%2003412%20-%20Investigations%3B%20power%20to%20subpena%20and%20take%20oaths%20and%20affirmations%3B%20aid%20of%20courts.md) | Investigations; power to subpena and take oaths and affirmations; aid of courts. |
 | [3413\.](%C2%A7%2003413%20-%20Certification%20of%20organizations.md) | Certification of organizations. |
 | [3414\.](%C2%A7%2003414%20-%20Other%20programs%20relating%20to%20wheat%20or%20wheat%20food%20research%20or%20nutrition%20education.md) | Other programs relating to wheat or wheat food research or nutrition education. |

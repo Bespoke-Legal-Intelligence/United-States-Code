@@ -5,10 +5,6 @@
 | [4501\.](%C2%A7%2004501%20-%20Findings%20and%20declarations.md) | Findings and declarations. |
 | [4502\.](%C2%A7%2004502%20-%20%E2%80%9CInstitution%20of%20higher%20education%E2%80%9D%20and%20%E2%80%9CAdvisory%20Committee%E2%80%9D%20defined.md) | “Institution of higher education” and “Advisory Committee” defined. |
 | [4503\.](%C2%A7%2004503%20-%20Establishment%20of%20Advisory%20Committee.md) | Establishment of Advisory Committee. |
-| (a) | Establishment; composition; Chairman. |
-| (b) | Meetings; quorum. |
-| (c) | Technical and clerical assistance. |
-| (d) | Functions. |
 | [4504\.](%C2%A7%2004504%20-%20Authority%20to%20make%20payments%3B%20purposes.md) | Authority to make payments; purposes. |
 | [4505\.](%C2%A7%2004505%20-%20Applications%3B%20payments%20to%20eligible%20institutions.md) | Applications; payments to eligible institutions. |
 | [4506\.](%C2%A7%2004506%20-%20Reporting%20requirements.md) | Reporting requirements. |

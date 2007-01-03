@@ -3,138 +3,25 @@
 | Sec. |  |
 | :--- | ---: |
 | [2101\.](%C2%A7%2002101%20-%20Findings%2C%20purpose%2C%20and%20policy.md) | Findings, purpose, and policy. |
-| (a) | Findings. |
-| (b) | Purpose. |
-| (c) | Policy. |
-| (d) | Construction. |
 | [2102\.](%C2%A7%2002102%20-%20Rural%20forestry%20assistance.md) | Rural forestry assistance. |
-| (a) | Assistance to forest landowners and others. |
-| (b) | State forestry assistance. |
-| (c) | Implementation. |
-| (d) | Authorization of appropriations. |
 | [2103\.](%C2%A7%2002103%20-%20Forest%20land%20enhancement%20program.md) | Forest land enhancement program. |
-| (a) | Establishment. |
-| (b) | Program objectives. |
-| (c) | State priority plan. |
-| (d) | Owner eligibility for assistance. |
-| (e) | Management plan. |
-| (f) | Approved activities. |
-| (g) | Reimbursement of eligible activities. |
-| (h) | Recapture. |
-| (i) | Distribution of cost-share funds. |
-| (j) | Availability of funds. |
-| (k) | Definitions. |
 | [2103a.](%C2%A7%2002103a%20-%20Forest%20Stewardship%20Program.md) | Forest Stewardship Program. |
-| (a) | Establishment. |
-| (b) | Goal. |
-| (c) | “Nonindustrial private forest lands” defined. |
-| (d) | Implementation. |
-| (e) | Eligibility. |
-| (f) | Duties of owners. |
-| (g) | Stewardship recognition. |
-| (h) | Authorization of appropriations. |
 | [2103b.](%C2%A7%2002103b%20-%20Watershed%20forestry%20assistance%20program.md) | Watershed forestry assistance program. |
-| (a) | Definition of nonindustrial private forest land. |
-| (b) | General authority and purpose. |
-| (c) | Technical assistance to protect water quality. |
-| (d) | Watershed forestry cost-share program. |
-| (e) | Distribution. |
-| (f) | Willing owners. |
-| (g) | Authorization of appropriations. |
 | [2103c.](%C2%A7%2002103c%20-%20Forest%20Legacy%20Program.md) | Forest Legacy Program. |
-| (a) | Establishment and purpose. |
-| (b) | State and regional forest legacy programs. |
-| (c) | Interests in land. |
-| (d) | Implementation. |
-| (e) | Eligibility. |
-| (f) | Application. |
-| (g) | State consent. |
-| (h) | Forest management activities. |
-| (i) | Duties of owners. |
-| (j) | Compensation and cost sharing. |
-| (k) | Easements. |
-| (<i>l</i>) | Optional State grants. |
-| (m) | Appropriation. |
 | [2104\.](%C2%A7%2002104%20-%20Forest%20health%20protection.md) | Forest health protection. |
-| (a) | In general. |
-| (b) | Activities. |
-| (c) | Consent of entity. |
-| (d) | Contribution by entity. |
-| (e) | Allotments to other agencies. |
-| (f) | Limitation on use of appropriations. |
-| (g) | Partnerships. |
-| (h) | Authorization of appropriations. |
-| (i) | Integrated pest management. |
 | [2105\.](%C2%A7%2002105%20-%20Urban%20and%20community%20forestry%20assistance.md) | Urban and community forestry assistance. |
-| (a) | Findings. |
-| (b) | Purposes. |
-| (c) | General authority. |
-| (d) | Program of education and technical assistance. |
-| (e) | Procurement of plant materials. |
-| (f) | Challenge cost-share program. |
-| (g) | Forestry Advisory Council. |
-| (h) | Definitions. |
-| (i) | Authorization of appropriations. |
 | [2106\.](%C2%A7%2002106%20-%20Rural%20fire%20prevention%20and%20control.md) | Rural fire prevention and control. |
-| (a) | Congressional findings. |
-| (b) | Implementation of provisions. |
-| (c) | Encouragement of use of excess personal property by State and local fire forces receiving assistance; cooperation and assistance of Administrator of General Services. |
-| (d) | Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions. |
-| (e) | Authorization of appropriations for implementation of provisions. |
-| (f) | Special rural fire disaster fund; establishment, appropriations, etc. |
-| (g) | Definitions. |
 | [2106a.](%C2%A7%2002106a%20-%20Emergency%20reforestation%20assistance.md) | Emergency reforestation assistance. |
-| (a) | In general. |
-| (b) | Form of assistance. |
-| (c) | Conditions. |
-| (d) | Definitions. |
-| (e) | Retroactive assistance. |
 | [2106b.](%C2%A7%2002106b%20-%20Use%20of%20money%20collected%20from%20States%20for%20fire%20suppression%20assistance.md) | Use of money collected from States for fire suppression assistance. |
 | [2106c.](%C2%A7%2002106c%20-%20Enhanced%20community%20fire%20protection.md) | Enhanced community fire protection. |
-| (a) | Cooperative management related to wildfire threats. |
-| (b) | Community and Private Land Fire Assistance Program. |
-| (c) | Consultation. |
-| (d) | Authorization of appropriations. |
 | [2107\.](%C2%A7%2002107%20-%20Financial%2C%20technical%2C%20and%20related%20assistance%20to%20States.md) | Financial, technical, and related assistance to States. |
-| (a) | Development of State organizations for protection and management of non-Federal forest lands; scope of assistance; request by officials. |
-| (b) | Assembly, analysis, display, and reporting of State forest resources data, resources planning, etc.; scope of assistance; other statutory provisions unaffected. |
-| (c) | Technology implementation program; scope of program; availability of funds; use of forest resources planning committees. |
-| (d) | Authorization of appropriations. |
 | [2108\.](%C2%A7%2002108%20-%20Consolidation%20of%20payments.md) | Consolidation of payments. |
-| (a) | Request by State; excluded funds. |
-| (b) | State forest resources programs as basis. |
-| (c) | Amount of payments. |
-| (d) | Certification requirement by State forester or equivalent State official for Federal payment. |
-| (e) | Administration of consolidated payments program not to adversely affect, etc., other programs. |
-| (f) | Total annual amount of financial assistance to participating State; financial assistance for special projects not to be included in determining base amount. |
 | [2109\.](%C2%A7%2002109%20-%20General%20provisions.md) | General provisions. |
-| (a) | Cooperative and coordinating requirements for implementation of programs, etc. |
-| (b) | Availability of appropriations. |
-| (c) | Consultation requirements for implementation of programs, etc. |
-| (d) | Definitions. |
-| (e) | Rules and regulations. |
-| (f) | Granting, etc., authorities. |
-| (g) | Construction of statutory provisions. |
-| (h) | Additional assistance. |
 | [2110\.](%C2%A7%2002110%20-%20Statement%20of%20limitation.md) | Statement of limitation. |
 | [2111\.](%C2%A7%2002111%20-%20Other%20Federal%20programs.md) | Other Federal programs. |
-| (a) | Repeal of statutory authorities. |
-| (b) | Force and effect of contracts and cooperative and other agreements under cooperative forestry programs executed under authority of repealed statutes. |
-| (c) | Availability of funds appropriated under authority of repealed statutes for cooperative forestry assistance programs. |
 | [2112\.](%C2%A7%2002112%20-%20Cooperative%20national%20forest%20products%20marketing%20program.md) | Cooperative national forest products marketing program. |
-| (a) | Findings and purposes. |
-| (b) | Program authority. |
-| (c) | Limitations. |
-| (d) | Authorization for appropriations. |
-| (e) | Program report. |
 | [2113\.](%C2%A7%2002113%20-%20Federal%2C%20State%2C%20and%20local%20coordination%20and%20cooperation.md) | Federal, State, and local coordination and cooperation. |
-| (a) | Department of Agriculture Coordinating Committee. |
-| (b) | State Coordinating Committees. |
 | [2114\.](%C2%A7%2002114%20-%20Administration.md) | Administration. |
-| (a) | In general. |
-| (b) | Guidelines. |
-| (c) | Existing mechanisms. |
-| (d) | Land grant universities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

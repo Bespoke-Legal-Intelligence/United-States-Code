@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 104–186, §204(36)(B), substituted a period for “; or�
 
 Subsecs. (a), (c), and (d) of this section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
 
-Section 491(f) of Pub. L. 91–510 provided that: “Subsection (b) of this section shall become effective on January 3, 1971, but the provisions of such subsection limiting service as a page to persons who have attained the age of sixteen years shall not be construed to prohibit the continued service of any page appointed prior to the date of enactment of this Act \[Oct. 26, 1970\].”
+Section 491(f) of Pub. L. 91–510 provided that: “Subsection (b) of this section shall become effective on January 3, 1971, but the provisions of such subsectionlimiting service as a page to persons who have attained the age of sixteen years shall not be construed to prohibit the continued service of any page appointed prior to the date of enactment of this Act \[Oct. 26, 1970\].”
 
 #### Pay of Pages Between Recess or Adjournment
 

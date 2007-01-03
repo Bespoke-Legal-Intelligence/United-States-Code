@@ -48,7 +48,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) which affects trade, traffic, commerce, or transportation described in subparagraph (A).
 
-&emsp;(15) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, or American Samoa. The term “State law” includes a law of the United States applicable only to the District of Columbia or only to a territory or possession of the United States; and the term “Federal law” excludes any State law.
+&emsp;(15) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, theCanal Zone, or American Samoa. The term “State law” includes a law of the United States applicable only to the District of Columbia or only to a territory or possession of the United States; and the term “Federal law” excludes any State law.
 
 (Pub. L. 93–637, title I, §101, Jan. 4, 1975, 88 Stat. 2183.)
 

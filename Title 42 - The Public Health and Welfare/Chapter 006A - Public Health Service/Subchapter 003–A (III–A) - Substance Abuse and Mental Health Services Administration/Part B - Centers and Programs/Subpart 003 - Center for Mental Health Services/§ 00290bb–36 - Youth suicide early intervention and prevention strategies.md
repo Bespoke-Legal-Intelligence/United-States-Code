@@ -34,7 +34,7 @@ The Secretary, acting through the Administrator of the Substance Abuse and Menta
 
 In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and tribal organizations actively involved with the State-sponsored statewide or tribal youth suicide early intervention and prevention strategy that—
 
-&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations;
+&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with schoolsystems, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations;
 
 &emsp;(2) demonstrate collaboration among early intervention and prevention services or certify that entities will engage in future collaboration;
 
@@ -100,7 +100,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 #### (f) Rule of construction; religious and moral accommodation
 
-Nothing in this section shall be construed to require suicide assessment, early intervention, or treatment services for youth whose parents or legal guardians object based on the parents’ or legal guardians’ religious beliefs or moral objections.
+Nothing in this section shall be construed to require suicide assessment, early intervention,or treatment services for youth whose parents or legal guardians object based on the parents’ or legal guardians’ religious beliefs or moral objections.
 
 #### (g) Evaluations and report
 
@@ -126,7 +126,7 @@ Funds appropriated to carry out this section, section 290bb–34 of this title, 
 
 #### (j) Parental consent
 
-States and entities receiving funding under this section and section 290bb–36a of this title shall obtain prior written, informed consent from the child's parent or legal guardian for assessment services, school-sponsored programs, and treatment involving medication related toyouth suicide conducted in elementary and secondary schools. The requirement of the preceding sentence does not apply in the following cases:
+States and entities receiving funding under this section and section 290bb–36a of this title shall obtain prior written, informed consent from the child's parent or legal guardian for assessment services, school-sponsored programs, and treatment involving medication related to youth suicide conducted in elementary and secondary schools. The requirement of the preceding sentence does not apply in the following cases:
 
 &emsp;(1) In an emergency, where it is necessary to protect the immediate health and safety of the student or other students.
 
@@ -182,7 +182,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is Pub. L. 89–10, Apr. 11,1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 

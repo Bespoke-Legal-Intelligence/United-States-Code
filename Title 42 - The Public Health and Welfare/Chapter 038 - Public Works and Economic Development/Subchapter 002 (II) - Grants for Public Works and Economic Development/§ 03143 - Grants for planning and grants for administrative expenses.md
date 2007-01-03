@@ -36,7 +36,7 @@ Planning assistance under this subchapter shall be used in conjunction with any 
 
 #### (4) Comprehensive planning process
 
-&emsp;Any overall State economic development planning assisted under this section shall be a part of a comprehensive planning process thatshall consider the provision of public works to—
+&emsp;Any overall State economic development planning assisted under this section shall be a part of a comprehensive planning process that shall consider the provision of public works to—
 
 &emsp;&emsp;(A) promote economic development and opportunity;
 

@@ -112,15 +112,11 @@ The Secretary shall establish a program of live cattle price information reporti
 
 #### (1) In general
 
-&emsp;The Secretary shall determine whether adequate data can be obtained on a regional basis for fed Holsteins and other fed dairy steers andheifers, cows, and bulls based on the number of packers required to report under this section.
+&emsp;The Secretary shall determine whether adequate data can be obtained on a regional basis for fed Holsteins and other fed dairy steers and heifers, cows, and bulls based on the number of packers required to report under this section.
 
 #### (2) Report
 
 &emsp;Not later than 2 years after October 22, 1999, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the determination of the Secretary under paragraph (1).
 
 (Aug. 14, 1946, ch. 966, title II, §222, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1191.)
-
-#### Termination of Section
-
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
 

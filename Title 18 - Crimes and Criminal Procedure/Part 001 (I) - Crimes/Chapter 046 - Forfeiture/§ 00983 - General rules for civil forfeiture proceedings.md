@@ -54,7 +54,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(E) Any person may make a claim under subparagraph (A) without posting bond with respect to the property which is the subject of the claim.
 
-&emsp;(3)(A) Not later than 90 days after a claim has been filed, the Government shall file a complaint for forfeiture in the manner set forth in the Supplemental Rules for Certain Admiralty and Maritime Claims or return the property pending the filing of a complaint, except that a court in the district in which the complaint will be filed may extend the period for filing a complaint for good cause shown or upon agreement of the parties.
+&emsp;(3)(A) Not later than 90 days after a claim has been filed, the Government shall file a complaint for forfeiture in the manner setforth in the Supplemental Rules for Certain Admiralty and Maritime Claims or return the property pending the filing of a complaint, except that a court in the district in which the complaint will be filed may extend the period for filing a complaint for good cause shown or upon agreement of the parties.
 
 &emsp;(B) If the Government does not—
 
@@ -68,7 +68,7 @@ Notice; Claim; Complaint.—
 
 > &emsp;the Government shall promptly release the property pursuant to regulations promulgated by the Attorney General, and may not take any further action to effect the civil forfeiture of such property in connection with the underlying offense.
 
-&emsp;(C) In lieu of, or in addition to, filing a civil forfeiture complaint, the Government may include a forfeiture allegation in a criminal indictment. If criminal forfeiture is the only forfeiture proceeding commenced by the Government, the Government's right to continuedpossession of the property shall be governed by the applicable criminal forfeiture statute.
+&emsp;(C) In lieu of, or in addition to, filing a civil forfeiture complaint, the Government may include a forfeiture allegation in a criminal indictment. If criminal forfeiture is the only forfeiture proceeding commenced by the Government, the Government's right to continued possession of the property shall be governed by the applicable criminal forfeiture statute.
 
 &emsp;(D) No complaint may be dismissed on the ground that the Government did not have adequate evidence at the time the complaint was filed to establish the forfeitability of the property.
 
@@ -118,7 +118,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(ii) upon learning of the conduct giving rise to the forfeiture, did all that reasonably could be expected under the circumstances to terminate such use of the property.
 
-&emsp;(B)(i) For the purposes of this paragraph, ways in which a person may show that such person did all that reasonably could be expected may include demonstrating that such person, to the extent permitted by law—
+&emsp;(B)(i) For the purposes of this paragraph, ways in which a person may show that suchperson did all that reasonably could be expected may include demonstrating that such person, to the extent permitted by law—
 
 &emsp;&emsp;(I) gave timely notice to an appropriate law enforcement agency of information that led the person to know the conduct giving rise to a forfeiture would occur or has occurred; and
 
@@ -188,7 +188,7 @@ Motion To Set Aside Forfeiture.—
 
 &emsp;(4) If, at the time a motion made under paragraph (1) is granted, the forfeited property has been disposed of by the Government in accordance with law, the Government may institute proceedings against a substitute sum of money equal to the value of the moving party's interest in the property at the time the property was disposed of.
 
-&emsp;(5) A motion filed under this subsection shall be the exclusive remedy for seeking to set aside a declaration of forfeiture under a civil forfeiture statute.
+&emsp;(5) A motion filed under this subsection shall be the exclusive remedy for seeking to setaside a declaration of forfeiture under a civil forfeiture statute.
 
 (f)
 
@@ -206,7 +206,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(E) none of the conditions set forth in paragraph (8) applies.
 
-&emsp;(2) A claimant seeking release of property under this subsection must request possession of the property from the appropriate official,and the request must set forth the basis on which the requirements of paragraph (1) are met.
+&emsp;(2) A claimant seeking release of property under this subsection must request possession of the property from the appropriate official, and the request must set forth the basis on which the requirements of paragraph (1) are met.
 
 &emsp;(3)(A) If not later than 15 days after the date of a request under paragraph (2) the property has not been released, the claimant may file a petition in the district court in which the complaint has been filed or, if no complaint has been filed, in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
 
@@ -270,7 +270,7 @@ Civil Fine.—
 
 &emsp;(2) Any civil fine imposed under this subsection shall not preclude the court from imposing sanctions under rule 11 of the Federal Rules of Civil Procedure.
 
-&emsp;(3) In addition to the limitations of section 1915 of title 28, United States Code, in no event shall a prisoner file a claim under a civil forfeiture statute or appeal a judgment in a civil action or proceeding based on a civil forfeiture statute if the prisoner has, on three or more prior occasions, while incarcerated or detained in any facility, brought an action or appeal in a court of the United States that was dismissed on the grounds that it is frivolous or malicious, unless the prisoner shows extraordinary and exceptional circumstances.
+&emsp;(3) In addition to the limitations of section 1915 of title 28, United States Code, in no eventshall a prisoner file a claim under a civil forfeiture statute or appeal a judgment in a civil action or proceeding based on a civil forfeiture statute if the prisoner has, on three or more prior occasions, while incarcerated or detained in any facility, brought an action or appeal in a court of the United States that was dismissed on the grounds that it is frivolous or malicious, unless the prisoner shows extraordinary and exceptional circumstances.
 
 (i)
 
@@ -340,7 +340,7 @@ Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185.”
+Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The amendment made by this section\[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185.”
 
 #### Effective Date
 
@@ -348,35 +348,5 @@ Section applicable to any forfeiture proceeding commenced on or after the date t
 
 #### Anti-Terrorist Forfeiture Protection
 
-Pub. L. 107–56, title III, §316(a)–(c), Oct. 26, 2001, 115 Stat. 309, provided that:
-
-“(a)
-
-Right to Contest.—An owner of property that is confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists, may contest that confiscation by filing a claim in the manner set forth in the Federal Rules of Civil Procedure (Supplemental Rules for Certain Admiralty and Maritime Claims) \[28 App. U.S.C.\], and asserting as an affirmative defense that—
-
-&emsp;“(1) the property is not subject to confiscation under such provision of law; or
-
-&emsp;“(2) the innocent owner provisions of section 983(d) of title 18, United States Code, apply to the case.
-
-“(b)
-
-Evidence.—In considering a claim filed under this section, a court may admit evidence that is otherwise inadmissible under the Federal Rules of Evidence \[28 App. U.S.C.\], if the court determines that the evidence is reliable, and that compliance with the Federal Rules of Evidence may jeopardize the national security interests of the United States.
-
-“(c)
-
-Clarifications.—
-
-&emsp;“(1)
-
-Protection of rights.—The exclusion of certain provisions of Federal law from the definition of the term ‘civil forfeiture statute’ in section 983(i) of title 18, United States Code, shall not be construed to deny an owner of property the right to contest the confiscation of assets of suspected international terrorists under—
-
-&emsp;&emsp;“(A) subsection (a) of this section;
-
-&emsp;&emsp;“(B) the Constitution; or
-
-&emsp;&emsp;“(C) subchapter II of chapter 5 of title 5, United States Code (commonly known as the ‘Administrative Procedure Act’).
-
-&emsp;“(2)
-
-Savings clause.—Nothing in this section shall limit or otherwise affect any other remedies that may be available to an owner of property under section 983 of title 18, United States Code, or any other provision of law.”
+Pub. L. 107–56, title III, §316(a)–(c), Oct. 26, 2001, 115 Stat. 309, which provided the procedure for an owner of property that had been confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists to contest such confiscation, was repealed and restated as section 987 of this title by Pub. L. 109–177, title IV, §406(b)(1)(B), (2), Mar. 9, 2006, 120 Stat. 244, 245.
 

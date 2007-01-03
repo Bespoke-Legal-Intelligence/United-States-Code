@@ -26,7 +26,7 @@
 
 &emsp;In the case of a State described in paragraph (2), a funding agreement for a grant under section 300x–21 of this title is that—
 
-&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the State will, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
+&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the Statewill, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
 
 &emsp;&emsp;(B) for the purpose of providing such early intervention services through such projects, the State will make available from the grant the percentage that is applicable for the State under paragraph (4); and
 

@@ -56,7 +56,7 @@ Scholarships awarded under this subsection <sup>1</sup> shall only be used to a
 
 &emsp;&emsp;(II) Police Corps training and certification by the Director that the participant has met such performance standards as may be established pursuant to section 14097 of this title; and
 
-&emsp;(iii) repay all of the scholarship or payment received plus interest at the rate of 10 percentif the conditions of clauses (i) and (ii) are not complied with.
+&emsp;(iii) repay all of the scholarship or payment received plus interest at the rate of 10 percent if the conditions of clauses (i) and (ii) are not complied with.
 
 (2)(A) A recipient of a scholarship or payment under this section shall not be considered to be in violation of the agreement entered into pursuant to paragraph (1) if the recipient—
 

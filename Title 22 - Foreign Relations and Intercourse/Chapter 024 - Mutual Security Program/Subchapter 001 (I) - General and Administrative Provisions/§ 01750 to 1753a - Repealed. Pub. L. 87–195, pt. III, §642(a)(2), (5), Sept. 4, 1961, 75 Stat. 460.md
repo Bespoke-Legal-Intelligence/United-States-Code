@@ -12,7 +12,7 @@ Section 1752, acts Aug. 26, 1954, ch. 937, ch. IV, §546, 68 Stat. 863; Aug. 14,
 
 Section 1753, acts Aug. 26, 1954, ch. 937, ch. IV, §501, 68 Stat. 849; July 18, 1956, ch. 627, §9(a), 70 Stat. 560, authorized transferability of funds. See section 2360 of this title.
 
-Section 1753a, act Aug. 26, 1954, ch. 937, ch. IV, §551, as added July 24, 1959, Pub. L. 86–108, ch. IV, §401(m), 73 Stat. 255; amended Sept. 8, 1960, Pub. L. 86–735, §4, 74 Stat. 870, provided for limitations on the use of the President's special authority.
+Section 1753a, act Aug. 26, 1954, ch. 937, ch. IV, §551, as added July 24, 1959, Pub. L. 86–108, ch. IV, §401(m), 73 Stat. 255; amended Sept. 8, 1960, Pub. L. 86–735, §4, 74Stat. 870, provided for limitations on the use of the President's special authority.
 
 #### Transfer of Funds To Carry Out International Educational Exchange Activities
 

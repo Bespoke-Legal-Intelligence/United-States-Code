@@ -34,7 +34,7 @@ The Institute is authorized to—
 
 &emsp;(4) make recommendations for action which can be taken by Federal, State, and local governments and by private persons and organizations to improve and strengthen criminal and civil justice systems;
 
-&emsp;(5) provide research fellowships and clinical internships and carry out programs of training and special workshops for the presentation and dissemination of information resultingfrom research, demonstrations, and special projects including those authorized by this subchapter;
+&emsp;(5) provide research fellowships and clinical internships and carry out programs of training and special workshops for the presentation and dissemination of information resulting from research, demonstrations, and special projects including those authorized by this subchapter;
 
 &emsp;(6) collect and disseminate information obtained by the Institute or other Federal agencies, public agencies, institutions of higher education, and private organizations relating to the purposes of this subchapter;
 
@@ -114,5 +114,5 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Nov. 
 
 #### Anti-Stalking Legislation Evaluation, Model Development, Dissemination and Report
 
-Pub. L. 102–395, title I, §109(b), Oct. 6, 1992, 106 Stat. 1842, directed Attorney General, acting through Director of National Institute of Justice, to evaluate existing and proposed anti-stalking legislation in the States, develop model anti-stalking legislation that is constitutional and enforceable, prepare and disseminate to State authorities the findings made as a result of such evaluation, and report to Congress the findingsand the need or appropriateness of further action by the Federal Government by Sept. 30, 1993.
+Pub. L. 102–395, title I, §109(b), Oct. 6, 1992, 106 Stat. 1842, directed Attorney General, acting through Director of National Institute of Justice, to evaluate existing and proposed anti-stalking legislation in the States, develop model anti-stalking legislation that is constitutional and enforceable, prepare and disseminate to State authorities the findings made as a result of such evaluation, and report to Congress the findings and the need or appropriateness of further action by the Federal Government by Sept. 30, 1993.
 

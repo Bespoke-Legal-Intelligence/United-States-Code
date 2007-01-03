@@ -14,7 +14,7 @@ natural resource damage assessment and restoration fund” of the annual Departm
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §350\], Nov. 29, 1999, 113 Stat. 1535, 1501A–207, provided that:
 
-“(1) Notwithstanding any other provision of law and subject to the provisions of paragraphs (5) and (7), upon the joint motion of the United States and the State of Alaska and the issuance of an appropriate order by the United States District Court for the District of Alaska, the joint trust funds, or any portion thereof, including any interest accrued thereon, previously received or to be received by the United States and the State of Alaska pursuant to the Agreement and Consent Decree issued in United States v. Exxon Corporation, et al. (No. A91–082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91–083 CIV) (hereafter referred to as the ‘Consent Decree’), may be deposited in—
+“(1) Notwithstanding any other provision of law and subject to the provisions of paragraphs (5) and (7), upon the joint motion of the United States and the State of Alaska and the issuance of an appropriate order by the United States District Court for the District of Alaska, the joint trust funds, or any portion thereof, including any interest accrued thereon, previously received or tobe received by the United States and the State of Alaska pursuant to the Agreement and Consent Decree issued in United States v. Exxon Corporation, et al. (No. A91–082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91–083 CIV) (hereafter referred to as the ‘Consent Decree’), may be deposited in—
 
 &emsp;“(A) the Natural Resource Damage Assessment and Restoration Fund (hereafter referred to as the ‘Fund’) established in title I of the Department of the Interior and Related Agencies Appropriations Act, 1992 (Public Law 102–154; 43 U.S.C. 1474b);
 
@@ -28,7 +28,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §350\], Nov. 29, 1999, 113
 
 “(3) The transfer of joint trust funds outside the Court Registry shall not affect the supervisory jurisdiction of the district court under the Consent Decree or the Memorandum of Agreement and Consent Decree in United States v. State of Alaska (No. A91–081–CIV) over all expenditures of the joint trust funds.
 
-“(4) Nothing herein shall affect the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of ‘Operation Desert Shield/Desert Storm’ Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note \[43 U.S.C. 1474b note\]) that amounts received by the United States and designated by the trustees forthe expenditure by or through a Federal agency must be deposited into the Fund.
+“(4) Nothing herein shall affect the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of ‘Operation Desert Shield/Desert Storm’ Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note \[43 U.S.C. 1474b note\]) that amounts received by the United States and designated by the trustees for the expenditure by or through a Federal agency must be deposited into the Fund.
 
 “(5) All remaining settlement funds are eligible for the investment authority granted under this section so long as they are managed and allocated consistent with the Resolution of the Trustees adopted March 1, 1999, concerning the Restoration Reserve, as follows:
 

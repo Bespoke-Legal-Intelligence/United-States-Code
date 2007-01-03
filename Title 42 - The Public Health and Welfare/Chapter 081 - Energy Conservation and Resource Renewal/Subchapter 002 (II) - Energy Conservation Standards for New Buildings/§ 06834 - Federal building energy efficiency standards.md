@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Not later than 2 years after October 24, 1992, the Secretary, after consulting with appropriate Federal agencies, CABO, ASHRAE, the National Association of Home Builders, the Illuminating Engineering Society, the American Institute of Architects, the National Conference ofthe States on Building Codes and Standards, and other appropriate persons, shall establish, by rule, Federal building energy standards that require in new Federal buildings those energy efficiency measures that are technologically feasible and economically justified. Such standards shall become effective no later than 1 year after such rule is issued.
+(1) Not later than 2 years after October 24, 1992, the Secretary, after consulting with appropriate Federal agencies, CABO, ASHRAE, the National Association of Home Builders, the Illuminating Engineering Society, the American Institute of Architects, the National Conference of the States on Building Codes and Standards, and other appropriate persons, shall establish, by rule, Federal building energy standards that require in new Federal buildings those energy efficiency measures that are technologically feasible and economically justified. Such standards shall become effective no later than 1 year after such rule is issued.
 
 (2) The standards established under paragraph (1) shall—
 

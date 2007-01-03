@@ -32,7 +32,7 @@ Matters not covered.—Subparagraph (A)—
 
 Applicability of paragraph (1).—This paragraph shall not limit the applicability of paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 103–305, title VI, §601(b)(1), (2)(A), Aug. 23, 1994, 108 Stat. 1605, 1606; Pub. L. 105–102, §2(23), Nov. 20, 1997, 111 Stat. 2205.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 103–305, title VI, §601(b)(1), (2)(A), Aug.23, 1994, 108 Stat. 1605, 1606; Pub. L. 105–102, §2(23), Nov. 20, 1997, 111 Stat. 2205.)
 
 Historical and Revision Notes
 

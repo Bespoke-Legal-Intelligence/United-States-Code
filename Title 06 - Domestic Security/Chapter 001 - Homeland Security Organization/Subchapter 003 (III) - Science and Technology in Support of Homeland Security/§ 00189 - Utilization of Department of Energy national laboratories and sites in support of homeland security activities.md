@@ -42,7 +42,7 @@
 
 #### (6) Funding
 
-&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 253(b)(1)(C) oftitle 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
+&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 253(b)(1)(C) of title 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
 
 #### (c) Separate contracting
 
@@ -54,7 +54,7 @@ In connection with any utilization of the Department of Energy national laborato
 
 #### (e) Reimbursement of costs
 
-In the case of an activity carried out by the operator of a Department of Energy national laboratory or site in connection with any utilization of such laboratory or site under this section, the Department of Homeland Security shall reimburse the Department of Energy for costs of such activity through a method under which the Secretary of Energy waives any requirement for the Department of Homeland Security to pay administrative charges or personnel costs of the Department of Energy or its contractors in excess of the amount that the Secretary of Energy pays for an activity carried out by such contractor and paid for by the Department of Energy.
+In the case of an activity carried out by the operator of a Department of Energy nationallaboratory or site in connection with any utilization of such laboratory or site under this section, the Department of Homeland Security shall reimburse the Department of Energy for costs of such activity through a method under which the Secretary of Energy waives any requirement for the Department of Homeland Security to pay administrative charges or personnel costs of the Department of Energy or its contractors in excess of the amount that the Secretary of Energy pays for an activity carried out by such contractor and paid for by the Department of Energy.
 
 #### (f) Laboratory directed research and development by the Department of Energy
 

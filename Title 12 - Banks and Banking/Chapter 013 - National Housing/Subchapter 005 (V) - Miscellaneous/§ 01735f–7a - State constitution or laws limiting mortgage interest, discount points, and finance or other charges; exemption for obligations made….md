@@ -46,7 +46,7 @@
 
 &emsp;(A) any loan, mortgage, credit sale, or advance which is made after the date such action was taken pursuant to a commitment therefor which was entered during the period beginning on April 1, 1980, and ending on the date on which such State takes such action; and
 
-&emsp;(B) any loan, mortgage, or advance which is a rollover of a loan, mortgage, or advance, as described in regulations of the Federal Home Loan Bank Board, which was made or committed to be made during the period beginning on April 1, 1980, and ending on the date on which such State takes any action described in paragraph (2).
+&emsp;(B) any loan, mortgage, or advance which is a rollover of a loan, mortgage, or advance, as described in regulations of the Federal HomeLoan Bank Board, which was made or committed to be made during the period beginning on April 1, 1980, and ending on the date on which such State takes any action described in paragraph (2).
 
 (4) At any time after March 31, 1980, any State may adopt a provision of law placing limitations on discount points or such other charges on any loan, mortgage, credit sale, or advance described in subsection (a)(1) of this section.
 
